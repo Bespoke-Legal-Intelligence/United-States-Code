@@ -22,7 +22,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 &emsp;(4) coordinate the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and Indian Health Service alcohol and substance abuse programs existing on October 27, 1986, with programs or efforts established by this chapter,
 
-&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and the Indian Health Service to coordinate alcohol and substance abuse-related services at the central, area, agency, and service unit levels,
+&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health ServicesAdministration, and the Indian Health Service to coordinate alcohol and substance abuse-related services at the central, area, agency, and service unit levels,
 
 &emsp;(6) direct Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit directors to cooperate fully with tribal requests made pursuant to section 2412 of this title, and
 
@@ -30,7 +30,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 #### (b) Character of activities
 
-To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), and local control, in accordance with section 2010 <sup>1</sup> of this title.
+To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> and local control, in accordance with section 2010 <sup>1</sup> of this title.
 
 #### (c) Consultation
 
@@ -52,7 +52,7 @@ The Memorandum of Agreement under subsection (a) shall be submitted to Congress 
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 2010 of this title, referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§2001 et seq.) of this title by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to section 2010 of this title. Provisions relating to Indian control of Indian education are now contained in section 2011 of this title.
 

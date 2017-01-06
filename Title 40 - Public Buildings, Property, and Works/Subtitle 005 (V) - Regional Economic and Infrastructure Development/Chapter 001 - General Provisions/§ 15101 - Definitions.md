@@ -40,7 +40,7 @@ Federal grant program.—The term "Federal grant program" means a Federal grant 
 
 &emsp;(4)
 
-Indian tribe.—The term "Indian tribe" has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Indian tribe.—The term "Indian tribe" has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).<sup>1</sup>
 
 &emsp;(5)
 
@@ -48,13 +48,15 @@ Nonprofit entity.—The term "nonprofit entity" means any organization described
 
 &emsp;(6)
 
-Region.—The term "region" means the area covered by a Commission as described in subchapter II of chapter 157.<sup>1</sup>
+Region.—The term "region" means the area covered by a Commission as described in subchapter II of chapter 157.<sup>2</sup>
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230.)
 
 #### References in Text
 
 The date of the enactment of this chapter, referred to in par. (2)(A)(i)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in par. (4), was classified to section 450b of Title 25, Indians, prior to editorial reclassification and renumbering as section 5304 of Title 25.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in par. (5), is classified to section 501 of Title 26, Internal Revenue Code.
 
@@ -70,5 +72,7 @@ Pub. L. 110–234, title XIV, §14217(d), May 22, 2008, 122 Stat. 1482, and Pub.
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
-<i><sup>1</sup></i><i> So in original. Probably means chapter 4 of this subtitle.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably means chapter 4 of this subtitle.</i>
 

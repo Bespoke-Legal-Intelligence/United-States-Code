@@ -12,7 +12,7 @@
 
 (c) Whenever the Secretary determines that any site acquired for the construction of a medical facility is not suitable for that purpose, the Secretary may exchange such site for another site to be used for that purpose or may sell such site.
 
-(d)(1) The Secretary may provide for the acquisition of not more than three facilities for the provision of outpatient services or nursing home care through lease-purchase arrangements on real property under the jurisdiction of the Department of Veterans Affairs.
+(d)(1) The Secretary may provide for the acquisition of not more than three facilities for the provision of outpatient services or nursinghome care through lease-purchase arrangements on real property under the jurisdiction of the Department of Veterans Affairs.
 
 (2)(A) In carrying out this subsection and notwithstanding any other provision of law, the Secretary may lease, with or without compensation and for a period of not to exceed 35 years, to another party any of the real property described in paragraph (1) of this subsection.
 
@@ -52,9 +52,15 @@
 
 (3) In this subsection, the term "super construction project" means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, §502(a), Sept. 30, 2015, 129 Stat. 537.)
+(f) To the maximum extent practicable, the Secretary shall use industry standards, standard designs, and best practices in carrying out the construction of medical facilities.
+
+(g) The Secretary shall ensure that each employee of the Department with responsibilities, as determined by the Secretary, relating to the infrastructure construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection directly or through a contract or agreement with a non-Federal entity or with a non-Department Federal entity.
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, §502(a), Sept. 30, 2015, 129 Stat. 537; Pub. L. 114–315, title VIII, §801(a), Dec. 16, 2016, 130 Stat. 1590.)
 
 #### Amendments
+
+<b>2016</b>—Subsecs. (f), (g). Pub. L. 114–315 added subsecs. (f) and (g).
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–58 added subsec. (e).
 
@@ -77,6 +83,146 @@ Pub. L. 114–58, title V, §502(b), Sept. 30, 2015, 129 Stat. 538, provided tha
 &emsp;"(1) The medical facility construction project in Denver, Colorado, specified in section 2 of the Construction Authorization and Choice Improvement Act (Public Law 114–19; 129 Stat. 215).
 
 &emsp;"(2) Any super construction project (as defined in section 8103(e)(3) of title 38, United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act \[Sept. 30, 2015\]."
+
+#### Communities Helping Invest Through Property and Improvements Needed for Veterans
+
+Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016' or the 'CHIP IN for Vets Act of 2016'.
+
+#### "SEC. 2. PILOT PROGRAM ON ACCEPTANCE BY THE DEPARTMENT OF VETERANS AFFAIRS OF DONATED FACILITIES AND RELATED IMPROVEMENTS.
+
+"(a)
+
+Pilot Program Authorized.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding sections 8103 and 8104 of title 38, United States Code, the Secretary of Veterans Affairs may carry out a pilot program under which the Secretary may accept donations of the following property from entities described in paragraph (2):
+
+&emsp;&emsp;"(A) Real property (including structures and equipment associated therewith)—
+
+&emsp;&emsp;&emsp;"(i) that includes a constructed facility; or
+
+&emsp;&emsp;&emsp;"(ii) to be used as the site of a facility constructed by the entity.
+
+&emsp;&emsp;"(B) A facility to be constructed by the entity on real property of the Department of Veterans Affairs.
+
+&emsp;"(2)
+
+Entities described.—Entities described in this paragraph are the following:
+
+&emsp;&emsp;"(A) A State or local authority.
+
+&emsp;&emsp;"(B) An organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and is exempt from taxation under section 501(a) of such Code \[26 U.S.C. 501(a)\].
+
+&emsp;&emsp;"(C) A limited liability corporation.
+
+&emsp;&emsp;"(D) A private entity.
+
+&emsp;&emsp;"(E) A donor or donor group.
+
+&emsp;&emsp;"(F) Any other non-Federal Government entity.
+
+&emsp;"(3)
+
+Limitation.—The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section.
+
+"(b)
+
+Conditions for Acceptance of Property.—The Secretary may accept the donation of a property described in subsection (a)(1) under the pilot program only if—
+
+&emsp;"(1) the property is—
+
+&emsp;&emsp;"(A) a property with respect to which funds have been appropriated for a Department facility project; or
+
+&emsp;&emsp;"(B) a property identified as—
+
+&emsp;&emsp;&emsp;"(i) meeting a need of the Department as part of the long-range capital planning process of the Department; and
+
+&emsp;&emsp;&emsp;"(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
+
+&emsp;"(2) an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government.
+
+"(c)
+
+Requirement To Enter Into an Agreement.—
+
+&emsp;"(1)
+
+In general.—The Secretary may accept real property and improvements donated under the pilot program by an entity described in subsection (a)(2) only if the entity enters into a formal agreement with the Secretary that provides for—
+
+&emsp;&emsp;"(A) the donation of real property and improvements (including structures and equipment associated therewith) that includes a constructed facility; or
+
+&emsp;&emsp;"(B) the construction by the entity of a facility on—
+
+&emsp;&emsp;&emsp;"(i) real property and improvements of the Department of Veterans Affairs; or
+
+&emsp;&emsp;&emsp;"(ii) real property and improvements donated to the Department by the entity.
+
+&emsp;"(2)
+
+Content of formal agreements.—With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:
+
+&emsp;&emsp;"(A) The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility.
+
+&emsp;&emsp;"(B) The entity shall use construction standards required of the Department when designing, repairing, altering, or building the facility, except to the extent the Secretary determines otherwise, as permitted by applicable law.
+
+&emsp;&emsp;"(C) The entity shall provide the real property, improvements, goods, or services in a manner described in subsection (b)(2) sufficient to complete the construction of the facility, at no additional cost to the Federal Government.
+
+"(d)
+
+No Payment of Rent or Usage Fees.—The Secretary may not pay rent, usage fees, or any other amounts to an entity described in subsection (a)(2) or any other entity for the use or occupancy of real property or improvements donated under this section.
+
+"(e)
+
+Funding.—
+
+&emsp;"(1)
+
+From department.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements.
+
+&emsp;&emsp;"(B)
+
+Terms and conditions.—The Secretary shall provide funds pursuant to subparagraph (A) under such terms, conditions, and schedule as the Secretary determines appropriate.
+
+&emsp;"(2)
+
+From entity.—An entity described in subsection (a)(2) that is donating a facility constructed by the entity under the pilot program shall be required, pursuant to a formal agreement entered into under subsection (c), to provide other funds in addition to the amounts provided by the Department under paragraph (1) that are needed to complete construction of the facility.
+
+"(f)
+
+Application.—An entity described in subsection (a)(2) that seeks to donate real property and improvements under the pilot program shall submit to the Secretary an application to address needs relating to facilities of the Department, including health care needs, identified in the Construction and Long-Range Capital Plan of the Department, at such time, in such manner, and containing such information as the Secretary may require.
+
+"(g)
+
+Information on Donations and Related Projects.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall include in the budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code, information regarding real property and improvements donated under the pilot program during the year preceding the submittal of the budget and the status of facility projects relating to that property.
+
+&emsp;"(2)
+
+Elements.—Information submitted under paragraph (1) shall provide a detailed status of donations of real property and improvements conducted under the pilot program and facility projects relating to that property, including the percentage completion of the donations and projects.
+
+"(h)
+
+Biennial Report of Comptroller General of the United States.—Not less frequently than onceevery 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program.
+
+"(i)
+
+Termination.—The authority for the Secretary to accept donations under the pilot program shall terminate on the date that is 5 years after the date of the enactment of this Act \[Dec. 16, 2016\].
+
+"(j)
+
+Rule of Construction.—Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section."
 
 #### Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs
 

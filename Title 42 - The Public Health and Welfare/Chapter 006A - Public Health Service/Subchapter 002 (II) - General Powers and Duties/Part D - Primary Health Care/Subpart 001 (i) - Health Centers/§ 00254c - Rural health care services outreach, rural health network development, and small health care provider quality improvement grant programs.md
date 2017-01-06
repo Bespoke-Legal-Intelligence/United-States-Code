@@ -8,7 +8,7 @@ The purpose of this section is to provide grants for expanded delivery of health
 
 #### (1) Director
 
-&emsp;The term "Director" means the Director specified in subsection (d) of this section.
+&emsp;The term "Director" means the Director specified in subsection (d).
 
 #### (2) Federally qualified health center; rural health clinic
 
@@ -40,17 +40,17 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) of this section to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
+&emsp;&emsp;In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
 
 #### (B) Types of grants
 
 &emsp;&emsp;The Director may award the grants—
 
-&emsp;&emsp;&emsp;(i) to promote expanded delivery of health care services in rural areas under subsection (e) of this section;
+&emsp;&emsp;&emsp;(i) to promote expanded delivery of health care services in rural areas under subsection (e);
 
-&emsp;&emsp;&emsp;(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f) of this section; and
+&emsp;&emsp;&emsp;(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
 
-&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g) of this section.
+&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 
 #### (e) Rural health care services outreach grants
 
@@ -94,7 +94,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (A) In general
 
-&emsp;&emsp;The Director may award rural health network development grants to eligible entitiesto promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
+&emsp;&emsp;The Director may award rural health network development grants to eligible entities to promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
 
 &emsp;&emsp;&emsp;(i) achieve efficiencies;
 
@@ -162,7 +162,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of ruralhealth or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -206,7 +206,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (i) Report
 
-Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g) of this section.
+Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
 
 #### (j) Authorization of appropriations
 
@@ -272,7 +272,7 @@ In General.—The Secretary of Health and Human Services, acting through the Rur
 
 Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
 
-&emsp;"(1) is composed of local emergency response entities such as community training facilities, localemergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
+&emsp;"(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
 
 &emsp;"(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
 

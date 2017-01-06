@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(4) in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system to report the problem, and to assist in the development of an effective system of care (including preventive and aftercare services, emergency shelter services, extended residential shelter, and street outreach services) outside the welfare system and the law enforcement system;
 
-&emsp;(5) to make a successful transition to adulthood, runaway youth, homeless youth, and other street youth need opportunities to complete high school or earn a general equivalency degree, learn job skills, and obtain employment; and
+&emsp;(5) to make a successful transition to adulthood, runaway youth, homeless youth, andother street youth need opportunities to complete high school or earn a general equivalency degree, learn job skills, and obtain employment; and
 
 &emsp;(6) improved coordination and collaboration between the Federal programs that serve runaway and homeless youth are necessary for the development of a long-term strategy for responding to the needs of this population.
 

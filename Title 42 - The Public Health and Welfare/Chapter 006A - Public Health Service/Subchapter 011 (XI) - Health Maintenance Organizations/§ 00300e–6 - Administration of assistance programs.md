@@ -14,7 +14,7 @@ Upon expiration of the period for which a loan or loan guarantee was provided an
 
 #### (d) Other entities considered health maintenance organizations
 
-An entity which provides health services to a defined population on a prepaid basis and which has members who are entitled to insurance benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or to medical assistance under a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\] may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if—
+An entity which provides health services to a defined population on a prepaid basis and which has members who are entitled to insurance benefits under title XVIII of the Social SecurityAct \[42 U.S.C. 1395 et seq.\] or to medical assistance under a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\] may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if—
 
 &emsp;(1) with respect to its members who are entitled to such insurance benefits or to such medical assistance it (A) provides health services in accordance with section 300e(b) of this title, except that (i) it does not furnish to those members the health services (within the basic health services) for which it may not be compensated under such title XVIII \[42 U.S.C. 1395 et seq.\] or such State plan, and (ii) it does not fix the basic or supplemental health services payment for such members under a community rating system, and (B) is organized and operated in the manner prescribed by section 300e(c) of this title, except that it does not assume full financial risk on a prospective basis for the provision to such members of basic or supplemental health services with respect to which it is not required under such title XVIII or such State plan to assume such financial risk; and
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 99–660, §803(a), struck out subsec. (c) which read as fo
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–460, §112, inserted sentence at end setting conditions upon which an entity providing health services to a defined population on a prepaid basis may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter.
 
-Subsec. (e). Pub. L. 94–460, §109(b)(1), inserted "for a private health maintenance organization (other than a private nonprofit health maintenance organization)"after "may be made", and "for private health maintenance organizations (other than private nonprofit health maintenance organizations)" after "guaranteed".
+Subsec. (e). Pub. L. 94–460, §109(b)(1), inserted "for a private health maintenance organization (other than a private nonprofit health maintenance organization)" after "may be made", and "for private health maintenance organizations (other than private nonprofit health maintenance organizations)" after "guaranteed".
 
 #### Effective Date of 1986 Amendment
 

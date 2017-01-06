@@ -20,7 +20,7 @@ Subject to subsection (b) of this section, the AMBER Alert Coordinator of the De
 
 #### (c) Cooperation
 
-(1) The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
+(1) The Coordinator shall cooperate with the Secretary of Transportation and the FederalCommunications Commission in carrying out activities under this section.
 
 (2) The Coordinator shall also cooperate with local broadcasters and State and local law enforcement agencies in establishing minimum standards under this section.
 

@@ -60,7 +60,7 @@ Eligible Countries.—A country that is performing satisfactorily under an econo
 
 &emsp;"(B)(i) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 150 percent of the annual value of the exports of the country; or
 
-&emsp;"(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
+&emsp;"(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section,is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
 
 "(e)
 

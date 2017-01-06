@@ -26,7 +26,7 @@ The purposes of this chapter are—
 
 &emsp;(7) to ensure uniform and effective enforcement of Federal construction and safety standards for manufactured homes; and
 
-&emsp;(8) to ensure that the public interest in, and need for, affordable manufactured housing is duly considered in all determinations relating to the Federal standards and their enforcement.
+&emsp;(8) to ensure that the public interest in, and need for, affordable manufactured housing isduly considered in all determinations relating to the Federal standards and their enforcement.
 
 (Pub. L. 93–383, title VI, §602, Aug. 22, 1974, 88 Stat. 700; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §602, Dec. 27, 2000, 114 Stat. 2997.)
 

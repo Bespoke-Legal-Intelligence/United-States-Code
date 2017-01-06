@@ -238,7 +238,7 @@ States with high primary highway freight system mileage.—If the proportion of 
 
 &emsp;&emsp;(B)
 
-States with low primary highway freight system mileage.—If the proportion of a State under paragraph (2) is less than 2 percent, the State may obligate funds apportioned to the State under section 104(b)(5) for projects on any component of the National Highway Freight Network.
+States with low primary highway freight system mileage.—If the proportion of a State under paragraph (2) is less than 2percent, the State may obligate funds apportioned to the State under section 104(b)(5) for projects on any component of the National Highway Freight Network.
 
 &emsp;(4)
 
@@ -308,7 +308,7 @@ Eligible projects.—Funds apportioned to the State under section 104(b)(5) for 
 
 &emsp;&emsp;&emsp;(xx) Physical separation of passenger vehicles from commercial motor freight.
 
-&emsp;&emsp;&emsp;(xxi) Enhancement of the resiliency of critical highway infrastructure, includinghighway infrastructure that supports national energy security, to improve the flow of freight.
+&emsp;&emsp;&emsp;(xxi) Enhancement of the resiliency of critical highway infrastructure, including highway infrastructure that supports national energy security, to improve the flow of freight.
 
 &emsp;&emsp;&emsp;(xxii) A highway or bridge project, other than a project described in clauses (i) through (xxi), to improve the flow of freight on the National Highway Freight Network.
 

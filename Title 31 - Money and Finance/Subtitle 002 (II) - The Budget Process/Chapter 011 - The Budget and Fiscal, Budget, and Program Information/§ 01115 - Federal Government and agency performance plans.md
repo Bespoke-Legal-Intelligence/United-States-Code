@@ -182,7 +182,7 @@ Interim Planning and Reporting.—
 
 &emsp;"(1)
 
-In general.—The Director of the Office of Management and Budget shall coordinate with agencies to develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements of this Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
+In general.—The Director of the Office of Management and Budget shall coordinate with agencies to develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements ofthis Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
 
 &emsp;"(2)
 
@@ -272,7 +272,7 @@ Recommendations.—The Comptroller General shall include in the reports required
 
 #### Strategic Planning and Performance Measurement Training
 
-Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: "The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development anduse of strategic planning and program performance measurement."
+Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: "The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement."
 
 #### Ex. Ord. No. 13450. Improving Government Program Performance
 

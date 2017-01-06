@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) wetlands play an integral role in maintaining the quality of life through material contributions to our national economy, food supply, water supply and quality, flood control, and fish, wildlife, and plant resources, and thus to the health, safety, recreation, and economic well-being of all our citizens of the Nation;
 
-&emsp;(2) wetlands provide habitat essential for the breeding, spawning, nesting, migration, wintering and ultimate survival of a major portion of the migratory and resident fish and wildlife of the Nation; including migratory birds, endangered species, commercially and recreationally important finfish, shellfish and other aquatic organisms, and contain many unique species and communities of wild plants;
+&emsp;(2) wetlands provide habitat essential for the breeding, spawning, nesting, migration, wintering and ultimate survival of a major portion of the migratory and resident fish and wildlife of the Nation; including migratorybirds, endangered species, commercially and recreationally important finfish, shellfish and other aquatic organisms, and contain many unique species and communities of wild plants;
 
 &emsp;(3) the migratory bird treaty obligations of the Nation with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere require Federal protection of wetlands that are used by migratory birds for breeding, wintering or migration and needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
 
@@ -32,7 +32,7 @@ The Congress finds that—
 
 It is the purpose of this chapter to promote, in concert with other Federal and State statutes and programs, the conservation of the wetlands of the Nation in order to maintain the public benefits they provide and to help fulfill international obligations contained in various migratory bird treaties and conventions with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere by—
 
-&emsp;(1) intensifying cooperative efforts among private interests and local, State, and Federalgovernments for the management and conservation of wetlands; and
+&emsp;(1) intensifying cooperative efforts among private interests and local, State, and Federal governments for the management and conservation of wetlands; and
 
 &emsp;(2) intensifying efforts to protect the wetlands of the Nation through acquisition in fee, easements or other interests and methods by local, State, and Federal governments and the private sector.
 

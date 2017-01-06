@@ -64,7 +64,7 @@ Another prior section 205 of Pub. L. 93–247 was classified to section 5116d of
 
 Subsec. (a)(1). Pub. L. 111–320, §136(a)(2), substituted "parents," for "parents and" and inserted "in meaningful roles" before semicolon at end.
 
-Subsec. (a)(2). Pub. L. 111–320, §136(a)(3), substituted "a comprehensive strategy to provide" for "a strategy to provide, over time,", "family-centered" for "family centered", and ", to parents with young children, and to parents who are adult former victims of domestic violence or child abuse or neglect," for "and parents with young children,".
+Subsec. (a)(2). Pub. L. 111–320, §136(a)(3), substituted "a comprehensive strategy to provide" for "a strategy to provide, over time,", "family-centered" for "familycentered", and ", to parents with young children, and to parents who are adult former victims of domestic violence or child abuse or neglect," for "and parents with young children,".
 
 Subsec. (a)(3). Pub. L. 111–320, §136(a)(4)(A), struck out introductory provisions which read as follows: "provide—".
 

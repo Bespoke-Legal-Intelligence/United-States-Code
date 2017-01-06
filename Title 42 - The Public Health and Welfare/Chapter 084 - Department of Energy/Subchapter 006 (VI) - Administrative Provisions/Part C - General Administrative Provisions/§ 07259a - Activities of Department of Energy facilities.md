@@ -22,7 +22,7 @@
 
 (2)(A) Subject to subparagraph (B), the Secretary shall also impose on the department, agency, or person or entity concerned a Federal administrative charge (which includes any depreciation and imputed interest charges) in an amount not to exceed 3 percent of the full cost incurred in carrying out the research and activities concerned.
 
-(B) The Secretary may waive the imposition of the Federal administrative charge required bysubparagraph (A) in the case of research and other activities conducted on behalf of small business concerns, institutions of higher education, non-profit entities, and State and local governments.
+(B) The Secretary may waive the imposition of the Federal administrative charge required by subparagraph (A) in the case of research and other activities conducted on behalf of small business concerns, institutions of higher education, non-profit entities, and State and local governments.
 
 (3) Not later than 2 years after October 17, 1998, the Secretary shall terminate any waiver of charges under section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 2053) that were made before such date, unless the Secretary determines that such waiver should be continued.
 
@@ -48,7 +48,7 @@ This section does not apply to the practice of the Department of Energy with res
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat.1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 

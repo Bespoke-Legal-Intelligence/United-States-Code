@@ -24,7 +24,7 @@ Federal agency.—The term "Federal agency" has the meaning given that term in s
 
 &emsp;(4)
 
-Federal agency procurement.—The term "Federal agency procurement" means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
+Federal agency procurement.—The term "Federal agency procurement" meansthe acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
 
 &emsp;(5)
 

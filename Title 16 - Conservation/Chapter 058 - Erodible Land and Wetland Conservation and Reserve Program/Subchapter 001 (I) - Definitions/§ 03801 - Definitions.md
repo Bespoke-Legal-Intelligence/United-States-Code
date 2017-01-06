@@ -1,6 +1,6 @@
 ### §3801. Definitions
 
-(a) For purposes of subchapters I through VIII of this chapter:
+(a) For purposes of subchapters I through VIII:
 
 &emsp;(1) The term "agricultural commodity" means—
 
@@ -28,7 +28,7 @@ Conservation system.—The term "conservation system" means a combination of 1 o
 
 &emsp;&emsp;(A) are based on local resource conditions, available conservation technology, and the standards and guidelines contained in the Natural Resources Conservation Service field office technical guides; and
 
-&emsp;&emsp;(B) are designed to achieve, in a cost effective and technically practicable manner, a substantial reduction in soil erosion or a substantial improvement in soil conditions on a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
+&emsp;&emsp;(B) are designed to achieve, in a cost effective and technically practicable manner, asubstantial reduction in soil erosion or a substantial improvement in soil conditions on a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
 
 &emsp;(5) The term "conservation district" means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a "conservation district", "soil conservation district", "soil and water conservation district", "resource conservation district", "natural resource district", "land conservation committee", or a similar name.
 
@@ -92,9 +92,9 @@ Equations.—Not later than 60 days after the date of enactment of this subparag
 
 &emsp;(14)
 
-Indian tribe.—The term "Indian tribe" has the meaning given the term in section 450b(e) of title 25.
+Indian tribe.—The term "Indian tribe" has the meaning given the term in section 5304(e) of title 25.
 
-&emsp;(15) The term "in-kind commodities" means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
+&emsp;(15) The term "in-kind commodities" means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV.
 
 &emsp;(16)
 
@@ -106,7 +106,7 @@ Livestock.—The term "livestock" means all animals raised on farms, as determin
 
 &emsp;(18)
 
-Nonindustrial private forest land.—The term "nonindustrial private forest land" means rural land, as determined by the Secretary, that—
+Nonindustrial private forest land.—The term "nonindustrial private forest land"means rural land, as determined by the Secretary, that—
 
 &emsp;&emsp;(A) has existing tree cover or is suitable for growing trees; and
 
@@ -116,7 +116,7 @@ Nonindustrial private forest land.—The term "nonindustrial private forest land
 
 Person and legal entity.—For purposes of applying payment limitations under subchapter IV, the terms "person" and "legal entity" have the meanings given those terms in section 1308(a) of title 7.
 
-&emsp;(20) The term "rental payment" means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
+&emsp;(20) The term "rental payment" means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV.
 
 &emsp;(21) The term "Secretary" means the Secretary of Agriculture.
 
@@ -162,7 +162,7 @@ Technical assistance.—The term "technical assistance" means technical expertis
 
 #### References in Text
 
-Subchapters I through VIII of this chapter, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. Section 3851 of this title, contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under section 3851 of this title.
+Subchapters I through VIII, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. Section 3851 of this title, contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under section 3851 of this title.
 
 This chapter, referred to in subsec. (a)(9), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
@@ -216,7 +216,7 @@ Pub. L. 106–387, §1(a) \[title XI, §1101\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XIV, §1401, Nov. 28, 1990, 104 Stat. 3568, provided that: "This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the 'Conservation Program Improvements Act'."
+Pub. L. 101–624, title XIV, §1401, Nov. 28, 1990, 104 Stat. 3568, provided that: "This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the 'Conservation Program Improvements Act'."
 
 #### Regulations
 
@@ -286,7 +286,7 @@ Pub. L. 113–79, title II, §2712, Feb. 7, 2014, 128 Stat. 771, provided that:
 
 Applicability.—This section is applicable to activities under—
 
-&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
+&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
 
 &emsp;"(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[subtitle C (§§2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title\];
 
@@ -380,7 +380,7 @@ Secretary.—The term 'Secretary' means the Secretary of Agriculture.
 
 "(a)
 
-Establishment.—The Secretary shall carry out a demonstration program, to be known as the 'Conservation Corridor Demonstration Program', under which any of the States of Delaware, Maryland, and Virginia, a local government of any 1 of those States with jurisdiction over land on the Delmarva Peninsula, or a combination of those States, may submit a conservation corridor plan to integrate agriculture and forestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs.
+Establishment.—The Secretary shall carry out a demonstration program, to be known as the 'Conservation Corridor Demonstration Program', under which any of the States of Delaware, Maryland, and Virginia, a local government of any 1 of those States with jurisdiction over land on the Delmarva Peninsula, or a combination of those States, may submit a conservation corridor plan to integrate agriculture andforestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs.
 
 "(b)
 
@@ -452,7 +452,7 @@ Sufficient staffing.—Staffing, considering both Federal and non-Federal resour
 
 "(a)
 
-Memorandum of Agreement.—On approval of a conservation corridor plan, the Secretary may enterinto a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
+Memorandum of Agreement.—On approval of a conservation corridor plan, the Secretary may enter into a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
 
 &emsp;"(1) guarantee specific program resources for implementation of the plan;
 

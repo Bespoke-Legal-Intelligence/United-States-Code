@@ -18,7 +18,7 @@
 
 &emsp;(2) The term "dependent" has the meaning given that term in section 551 of that title.
 
-(Added Pub. L. 99–399, title VIII, §806(c)(1), Aug. 27, 1986, 100 Stat. 886, §1095; renumbered §1095a, Pub. L. 100–26, §7(e)(2), Apr. 21, 1987, 101 Stat. 281;amended Pub. L. 100–526, title I, §106(b)(1), Oct. 24, 1988, 102 Stat. 2625.)
+(Added Pub. L. 99–399, title VIII, §806(c)(1), Aug. 27, 1986, 100 Stat. 886, §1095; renumbered §1095a, Pub. L. 100–26, §7(e)(2), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 100–526, title I, §106(b)(1), Oct. 24, 1988, 102 Stat. 2625.)
 
 #### Amendments
 

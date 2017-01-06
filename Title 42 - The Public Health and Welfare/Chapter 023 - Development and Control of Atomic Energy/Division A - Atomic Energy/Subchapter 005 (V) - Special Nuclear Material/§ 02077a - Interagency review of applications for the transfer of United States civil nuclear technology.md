@@ -58,7 +58,7 @@ Not less frequently than every 90 days, the Secretary of Energy shall submit to 
 
 #### (d) Report on compliance of covered foreign countries and end-users
 
-Not less frequently than annually, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+Not less frequently than annually, the Secretary of Energy shall submit to the appropriatecongressional committees a report that includes—
 
 &emsp;(1) an assessment of whether each covered foreign country is in compliance with its obligations under any authorization for the transfer of United States civil nuclear technology under section 2077(b) of this title;
 
@@ -144,5 +144,21 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### "Congressional Defense Committees" Defined
 
-Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–92, 129 Stat. 745. See note under section 101 of Title 10, Armed Forces.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3of Pub. L. 114–92, 129 Stat. 745. See note under section 101 of Title 10, Armed Forces.
+
+#### Delegation of Authority Pursuant to Section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016
+
+Memorandum of President of the United States, May 10, 2016, 81 F.R. 31161, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
+
+I hereby delegate functions and authorities vested in the President by section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92) (the "Act") to the Secretary of State.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) that the cost of the installation, construction, operation, or removal of such facilities be borne by the cable operator or subscriber, or a combination of both; and
 
-&emsp;(C) that the owner of the property be justly compensated by the cable operator for anydamages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
+&emsp;(C) that the owner of the property be justly compensated by the cable operator for any damages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
 
 (3) In awarding a franchise or franchises, a franchising authority shall assure that access to cable service is not denied to any group of potential residential cable subscribers because of the income of the residents of the local area in which such group resides.
 
@@ -24,7 +24,7 @@
 
 #### (b) No cable service without franchise; exception under prior law
 
-(1) Except to the extent provided in paragraph (2) and subsection (f) of this section, a cable operator may not provide cable service without a franchise.
+(1) Except to the extent provided in paragraph (2) and subsection (f), a cable operator may not provide cable service without a franchise.
 
 (2) Paragraph (1) shall not require any person lawfully providing cable service without a franchise on July 1, 1984, to obtain a franchise unless the franchising authority so requires.
 
@@ -84,7 +84,7 @@ Subsec. (d)(3). Pub. L. 104–104, §3(d)(3), substituted "section 153" for "sec
 
 Subsec. (a)(4). Pub. L. 102–385, §7(b), added par. (4).
 
-Subsec. (b)(1). Pub. L. 102–385, §7(c)(1), inserted "and subsection (f) of this section" after "paragraph (2)".
+Subsec. (b)(1). Pub. L. 102–385, §7(c)(1), inserted "and subsection (f)" after "paragraph (2)".
 
 Subsec. (f). Pub. L. 102–385, §7(c)(2), added subsec. (f).
 

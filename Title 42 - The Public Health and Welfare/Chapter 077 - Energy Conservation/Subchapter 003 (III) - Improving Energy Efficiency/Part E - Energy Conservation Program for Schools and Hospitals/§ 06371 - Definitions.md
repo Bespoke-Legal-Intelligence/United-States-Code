@@ -34,7 +34,7 @@ For the purposes of this part—
 
 &emsp;(J) energy recovery systems;
 
-&emsp;(K) cogeneration systems which produce steam or forms of energy such as heat, as well as electricity for use primarily within a building or a complex of buildings owned by a school or hospital and which meet such fuel efficiency requirements as the Secretary may by rule prescribe;
+&emsp;(K) cogeneration systems which produce steam or forms of energy such as heat, as well as electricity for use primarily within a building or a complex of buildings owned by aschool or hospital and which meet such fuel efficiency requirements as the Secretary may by rule prescribe;
 
 &emsp;(L) such other measures as the Secretary identifies by rule for purposes of this part; and
 
@@ -76,7 +76,7 @@ For the purposes of this part—
 
 (9) The term "State" means, in addition to the several States of the Union, the District of Columbia, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
-(10) The term "State energy agency" means the State agency responsible for developingState energy conservation plans pursuant to section 6322 of this title, or, if no such agency exists, a State agency designated by the Governor of such State to prepare and submit a State plan under section 6371c of this title.
+(10) The term "State energy agency" means the State agency responsible for developing State energy conservation plans pursuant to section 6322 of this title, or, if no such agency exists, a State agency designated by the Governor of such State to prepare and submit a State plan under section 6371c of this title.
 
 (11) The term "State school facilities agency" means an existing agency which is broadly representative of public institutions of higher education, nonprofit institutions of higher education, public elementary and secondary schools, nonprofit elementary and secondary schools, public vocational education institutions, nonprofit vocational education institutions, and the interests of handicapped persons, in a State or, if no such agency exists, an agency which is designated by the Governor of such State which conforms to the requirements of this paragraph.
 

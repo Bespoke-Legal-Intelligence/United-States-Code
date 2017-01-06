@@ -2,7 +2,7 @@
 
 #### (a) Retirement of stock
 
-Notwithstanding any other section of this chapter, each institution of the Farm Credit System, when retiring eligible borrower stock inaccordance with this chapter, shall retire such stock at par value.
+Notwithstanding any other section of this chapter, each institution of the Farm Credit System, when retiring eligible borrower stock in accordance with this chapter, shall retire such stock at par value.
 
 #### (b) Certain powers not affected
 

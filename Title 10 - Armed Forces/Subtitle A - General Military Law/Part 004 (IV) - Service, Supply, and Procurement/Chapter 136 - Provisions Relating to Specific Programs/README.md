@@ -7,7 +7,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–328, div. A, title XII, §1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, provided that, effective as of the date that is 270 days after Dec. 23, 2016, this analysis is amended by striking item 2282. See 2016 Amendment note below.</i>
+
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, struck out item 2282 "Authority to build the capacity of foreign security forces".
 
 <b>2014</b>—Pub. L. 113–291, div. A, title XII, §1205(a)(2), Dec. 19, 2014, 128 Stat. 3536, added item 2282.
 

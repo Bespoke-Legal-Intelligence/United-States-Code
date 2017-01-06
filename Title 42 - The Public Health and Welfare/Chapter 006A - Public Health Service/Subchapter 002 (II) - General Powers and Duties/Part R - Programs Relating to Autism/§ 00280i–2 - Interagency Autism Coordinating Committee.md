@@ -100,7 +100,7 @@ Subsec. (b)(5), (6). Pub. L. 113–157, §5(1)(F), added pars. (5) and (6) and s
 
 "(6) submit to the Congress such strategic plan and any updates to such plan."
 
-Subsec. (c)(1). Pub. L. 113–157, §5(2)(A)(i), substituted "Federal membership" for "In general" in heading and"The Committee shall be composed of the following Federal members—" for "The Committee shall be composed of—" in introductory provisions.
+Subsec. (c)(1). Pub. L. 113–157, §5(2)(A)(i), substituted "Federal membership" for "In general" in heading and "The Committee shall be composed of the following Federal members—" for "The Committee shall be composed of—" in introductory provisions.
 
 Subsec. (c)(1)(C). Pub. L. 113–157, §5(2)(A)(ii), inserted ", such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare \& Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration" before semicolon and inserted "and" at end.
 

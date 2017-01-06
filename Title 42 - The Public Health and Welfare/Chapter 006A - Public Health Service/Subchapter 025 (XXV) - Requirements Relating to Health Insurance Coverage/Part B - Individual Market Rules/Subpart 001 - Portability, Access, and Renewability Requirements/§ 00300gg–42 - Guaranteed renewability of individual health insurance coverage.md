@@ -18,7 +18,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (3) Termination of plan
 
-&emsp;The issuer is ceasing to offer coverage in the individual market in accordance with subsection (c) of this section and applicable State law.
+&emsp;The issuer is ceasing to offer coverage in the individual market in accordance with subsection (c) and applicable State law.
 
 #### (4) Movement outside service area
 
@@ -34,7 +34,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 &emsp;In any case in which an issuer decides to discontinue offering a particular type of health insurance coverage offered in the individual market, coverage of such type may be discontinued by the issuer only if—
 
-&emsp;&emsp;(A) the issuer provides notice to each covered individual provided coverage of this type in such market of such discontinuationat least 90 days prior to the date of the discontinuation of such coverage;
+&emsp;&emsp;(A) the issuer provides notice to each covered individual provided coverage of this type in such market of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;
 
 &emsp;&emsp;(B) the issuer offers to each individual in the individual market provided coverage of this type, the option to purchase any other individual health insurance coverage currently being offered by the issuer for individuals in such market; and
 

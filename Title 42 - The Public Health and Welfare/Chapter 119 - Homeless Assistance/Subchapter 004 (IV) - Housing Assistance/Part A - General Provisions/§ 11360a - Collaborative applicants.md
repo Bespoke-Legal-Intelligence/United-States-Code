@@ -14,7 +14,7 @@ An entity may be established to serve as a collaborative applicant under this se
 
 #### (c) Remedial action
 
-If the Secretary finds that a collaborative applicant for a geographic area does not meet the requirements of this section, or if there is no collaborative applicant for a geographic area, the Secretary may take remedial action to ensure fair distribution of grant amounts under part C to eligible entities within that area. Such measures may include designating another body as a collaborative applicant, or permitting other eligible entities to apply directly for grants.
+If the Secretary finds that a collaborative applicant for a geographic area does not meet the requirements of this section, or if there is no collaborative applicant for a geographic area, the Secretary may take remedial action to ensure fair distribution of grant amounts underpart C to eligible entities within that area. Such measures may include designating another body as a collaborative applicant, or permitting other eligible entities to apply directly for grants.
 
 #### (d) Construction
 
@@ -112,7 +112,7 @@ No board member of a collaborative applicant may participate in decisions of the
 
 #### References in Text
 
-This chapter, referred to in subsec. (g)(1)(B)(i)(II), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (g)(1)(B)(i)(II), was in the original "this Act", meaning Pub. L. 100–77, July22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 

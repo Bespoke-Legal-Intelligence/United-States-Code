@@ -4,23 +4,31 @@
 
 General Definitions.—In this chapter—
 
-&emsp;(1) "dealer" means a person selling and distributing new motor vehicles or motor vehicle equipment primarily to purchasers that in good faith purchase the vehicles or equipment other than for resale.
+&emsp;(1) "covered rental vehicle" means a motor vehicle that—
 
-&emsp;(2) "defect" includes any defect in performance, construction, a component, or material of a motor vehicle or motor vehicle equipment.
+&emsp;&emsp;(A) has a gross vehicle weight rating of 10,000 pounds or less;
 
-&emsp;(3) "distributor" means a person primarily selling and distributing motor vehicles or motor vehicle equipment for resale.
+&emsp;&emsp;(B) is rented without a driver for an initial term of less than 4 months; and
 
-&emsp;(4) "interstate commerce" means commerce between a place in a State and a place in another State or between places in the same State through another State.
+&emsp;&emsp;(C) is part of a motor vehicle fleet of 35 or more motor vehicles that are used for rental purposes by a rental company.
 
-&emsp;(5) "manufacturer" means a person—
+&emsp;(2) "dealer" means a person selling and distributing new motor vehicles or motor vehicle equipment primarily to purchasers that in good faith purchase the vehicles or equipment other than for resale.
+
+&emsp;(3) "defect" includes any defect in performance, construction, a component, or material of a motor vehicle or motor vehicle equipment.
+
+&emsp;(4) "distributor" means a person primarily selling and distributing motor vehicles or motor vehicle equipment for resale.
+
+&emsp;(5) "interstate commerce" means commerce between a place in a State and a place in another State or between places in the same State through another State.
+
+&emsp;(6) "manufacturer" means a person—
 
 &emsp;&emsp;(A) manufacturing or assembling motor vehicles or motor vehicle equipment; or
 
 &emsp;&emsp;(B) importing motor vehicles or motor vehicle equipment for resale.
 
-&emsp;(6) "motor vehicle" means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
+&emsp;(7) "motor vehicle" means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
 
-&emsp;(7) "motor vehicle equipment" means—
+&emsp;(8) "motor vehicle equipment" means—
 
 &emsp;&emsp;(A) any system, part, or component of a motor vehicle as originally manufactured;
 
@@ -32,13 +40,19 @@ General Definitions.—In this chapter—
 
 &emsp;&emsp;&emsp;(ii) is manufactured, sold, delivered, or offered to be sold for use on public streets, roads, and highways with the apparent purpose of safeguarding users of motor vehicles against risk of accident, injury, or death.
 
-&emsp;(8) "motor vehicle safety" means the performance of a motor vehicle or motor vehicle equipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
+&emsp;(9) "motor vehicle safety" means the performance of a motor vehicle or motor vehicle equipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
 
-&emsp;(9) "motor vehicle safety standard" means a minimum standard for motor vehicle or motor vehicle equipment performance.
+&emsp;(10) "motor vehicle safety standard" means a minimum standard for motor vehicle or motor vehicle equipment performance.
 
-&emsp;(10) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+&emsp;(11) "rental company" means a person who—
 
-&emsp;(11) "United States district court" means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
+&emsp;&emsp;(A) is engaged in the business of renting covered rental vehicles; and
+
+&emsp;&emsp;(B) uses for rental purposes a motor vehicle fleet of 35 or more covered rental vehicles, on average, during the calendar year.
+
+&emsp;(12) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+
+&emsp;(13) "United States district court" means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
 (b)
 
@@ -63,34 +77,6 @@ Limited Definitions.—(1) In sections 30117(b), 30118–30121, and 30166(f) of 
 (2) The Secretary of Transportation may prescribe regulations changing paragraph (1)(C), (D), (F), or (G) of this subsection.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 941; Pub. L. 112–141, div. C, title I, §31201, July 6, 2012, 126 Stat. 757; Pub. L. 114–94, div. B, title XXIV, §24109(b), Dec. 4, 2015, 129 Stat. 1706.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 114–94, div. B, title XXIV, §24109(b), (k), Dec. 4, 2015, 129 Stat. 1706, 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (a) of this section is amended:</i>
-
-<i>(1) by redesignating paragraphs (10) and (11) as paragraphs (12) and (13), respectively;</i>
-
-<i>(2) by redesignating paragraphs (1) through (9) as paragraphs (2) through (10), respectively;</i>
-
-<i>(3) by inserting before paragraph (2), as redesignated, the following:</i>
-
-&emsp;<i>"(1) 'covered rental vehicle' means a motor vehicle that—</i>
-
-&emsp;&emsp;<i>"(A) has a gross vehicle weight rating of 10,000 pounds or less;</i>
-
-&emsp;&emsp;<i>"(B) is rented without a driver for an initial term of less than 4 months; and</i>
-
-&emsp;&emsp;<i>"(C) is part of a motor vehicle fleet of 35 or more motor vehicles that are used for rental purposes by a rental company."; and</i>
-
-<i>(4) by inserting after paragraph (10), as redesignated, the following:</i>
-
-&emsp;<i>"(11) 'rental company' means a person who—</i>
-
-&emsp;&emsp;<i>"(A) is engaged in the business of renting covered rental vehicles; and</i>
-
-&emsp;&emsp;<i>"(B) uses for rental purposes a motor vehicle fleet of 35 or more covered rental vehicles, on average, during the calendar year."</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -168,7 +154,7 @@ Sept. 9, 1966, Pub. L. 89–563, §102(4), 80 Stat. 718; restated May 22, 1970, 
 
 Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §159; added Oct. 27, 1974, Pub. L. 93–492, §102(a), 88 Stat. 1476.
 
-In subsection (a), the definitions apply to the entire chapter because of references in 15:1421–1431 applying 15:1391–1420 to 15:1421–1431. Before clause (1), the words "As used" are omitted as surplus. In clause (1), the text of 15:1391(10) and 49 App.:1655(a)(6)(A) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words "selling and distributing" are substituted for "who is engaged in the sale and distribution of" to eliminate unnecessary words. The word "purposes" is omitted as surplus. In clause (3), the words "selling and distributing" are substituted for "engaged in the sale and distribution of" to eliminate unnecessary words. In clause (5)(A), the words "manufacturing or assembling" are substituted for "engaged in the manufacturing or assembling of" to eliminate unnecessary words. In clause (7), the words "physician or other duly" and "drivers, passengers, and other" are omitted as surplus. In clause (8), the words "is also protected" and "to persons" are omitted as unnecessary. In clause (9), the words "which is practicable, which meets the need for motor vehicle safety and which provides objective criteria" are omitted as unnecessary because of 15:1392(a) which is restated in section 30111 of the revised title. In clauses (10) and (11), the words "the Northern Mariana Islands" are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words "the Canal Zone" are omitted because of the Panama Canal Treaty of 1977. In clause (10), the word "means" is substituted for "includes" as being more appropriate. The words "a State of the United States" are substituted for "each of the several States" for consistency. The words "the Commonwealth of" are omitted as surplus. In clause (11), the word "Federal" is omitted as surplus. The words "of the Commonwealth of Puerto Rico" are omitted as unnecessary because the district court of Puerto Rico is a district court of the United States under 28:119.
+In subsection (a), the definitions apply to the entire chapter because of references in 15:1421–1431 applying 15:1391–1420 to 15:1421–1431. Before clause (1), the words "As used" are omitted as surplus. In clause (1), the text of 15:1391(10) and 49 App.:1655(a)(6)(A) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words "selling and distributing" are substituted for "who is engaged in the sale and distribution of" to eliminate unnecessary words. The word "purposes" is omitted as surplus. In clause (3), the words "selling and distributing" are substituted for"engaged in the sale and distribution of" to eliminate unnecessary words. In clause (5)(A), the words "manufacturing or assembling" are substituted for "engaged in the manufacturing or assembling of" to eliminate unnecessary words. In clause (7), the words "physician or other duly" and "drivers, passengers, and other" are omitted as surplus. In clause (8), the words "is also protected" and "to persons" are omitted as unnecessary. In clause (9), the words "which is practicable, which meets the need for motor vehicle safety and which provides objective criteria" are omitted as unnecessary because of 15:1392(a) which is restated in section 30111 of the revised title. In clauses (10) and (11), the words "the Northern Mariana Islands" are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words "the Canal Zone" are omitted because of the Panama Canal Treaty of 1977. In clause (10), the word "means" is substituted for "includes" as being more appropriate. The words "a State of the United States" are substituted for "each of the several States" for consistency. The words "the Commonwealth of" are omitted as surplus. In clause (11), the word "Federal" is omitted as surplus. The words "of the Commonwealth of Puerto Rico" are omitted as unnecessary because the district court of Puerto Rico is a district court of the United States under 28:119.
 
 In subsection (b)(1), before clause (A), the words "The term" and "the term" are omitted as surplus. In clause (B), the words "of a motor vehicle or motor vehicle equipment" are added for clarity. In clause (E), the words "to be" are added for consistency. The words "marketed under such brand name" are omitted as surplus. In clause (F), the words "a motor vehicle safety standard prescribed under this chapter" are added for clarity and consistency. The word "noncompliance" is substituted for "failure to comply" for consistency in the chapter. In clause (G), the words "(rather than the manufacturer of such equipment)" are omitted as surplus. The words "deemed to be" are substituted for "considered" for consistency. In clause (H), the words "which have been" are omitted as surplus.
 
@@ -208,5 +194,5 @@ Pub. L. 114–94, div. B, title XXIV, §24109(j), Dec. 4, 2015, 129 Stat. 1708, 
 
 #### Low-Speed Electric Bicycles
 
-Pub. L. 107–319, §2, Dec. 4, 2002, 116 Stat. 2776, provided that: "For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act \[15 U.S.C. 2085(b)\]) shall not be considered a motor vehicle as defined by section 30102\[(a)\](6) of title 49, United States Code."
+Pub. L. 107–319, §2, Dec. 4, 2002, 116 Stat. 2776, provided that: "For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act \[15 U.S.C. 2085(b)\]) shall not be considered a motor vehicle as defined by section 30102\[(a)\](6) \[now 30102(a)(7)\] of title 49, United States Code."
 

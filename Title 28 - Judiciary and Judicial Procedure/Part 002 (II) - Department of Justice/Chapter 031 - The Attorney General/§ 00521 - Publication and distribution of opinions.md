@@ -32,7 +32,7 @@ In the last sentence, the words "proper" and "complete and full" are omitted as 
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in par. (1) on authorityof section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in par. (1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Review for Official Publication of Opinions of the Office of Legal Counsel of the Department of Justice Concerning Intelligence Activities
 

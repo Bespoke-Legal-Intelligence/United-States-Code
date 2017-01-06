@@ -67,7 +67,7 @@
 | [325\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md) | Incentive bonus: savings plan for education expenses and other contingencies. |
 | [326\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md) | Incentive bonus: conversion to military occupational specialty to ease personnel shortage. |
 | [327\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md) | Incentive bonus: transfer between armed forces. |
-| [328\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md) | Combat-related injury rehabilitation pay. |
+| \[328. | Repealed.\] |
 | [329\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md) | Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments. |
 | [330\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md) | Special pay: accession bonus for officer candidates. |
 
@@ -88,7 +88,7 @@
 | [353\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000353%20-%20Skill%20incentive%20pay%20or%20proficiency%20bonus.md) | Skill incentive pay or proficiency bonus. |
 | [354\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000354%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
 | [355\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000355%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20critical%20military%20skills%20or%20assigned%20to%20high%20priority%20units.md) | Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units. |
-| [356\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000356%20-%20Continuation%20pay%20full%20TSP%20members%20with%2012%20years%20of%20service.md) | Continuation pay: full TSP members with 12 years of service. |
+| [356\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000356%20-%20Continuation%20pay%20full%20TSP%20members%20with%208%20to%2012%20years%20of%20service.md) | Continuation pay: full TSP members with 8 to 12 years of service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -105,6 +105,10 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title VI, §647(b), Dec. 23, 2016, 130 Stat. 2168, struck out item 328 "Combat-related injury rehabilitation pay".
+
+Pub. L. 114–328, div. A, title VI, §633(d)(2), Dec. 23, 2016, 130 Stat. 2163, 2168, substituted "Continuation pay: full TSP members with 8 to 12 years of service" for "Continuation pay: full TSP members with 12 years of service" in item 356, effective Jan. 1, 2018, immediately after the coming into effect of the amendments providing for section 356 of title 37, to which the amendments made by section 633 of Pub. L. 114–328 relate.
+
 <b>2015</b>—Pub. L. 114–92, div. A, title VI, §634(b), Nov. 25, 2015, 129 Stat. 851, which directed amendment of this analysis by adding item 356 "at the end", was executed by adding item 356 after item 355 to reflect the probable intent of Congress.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title VI, §617(b), Dec. 26, 2013, 127 Stat. 782, added item 336.
@@ -119,7 +123,7 @@ Pub. L. 110–181, div. A, title VI, §661(d), Jan. 28, 2008, 122 Stat. 178, ame
 
 Pub. L. 109–163, div. A, title VI, §§629(d)(2), 631(c), 632(c)(2), 634(c)(2), 639(e)(2), 640(f)(2), 641(b), 642(c), 687(e)(2), Jan. 6, 2006, 119 Stat. 3297, 3299, 3300, 3302, 3303, 3305, 3306, 3336, added items 327 and 328, substituted "Special pay: general provisions" for "Special pay: health professionals; general provisions" in item 303a, "Special pay: bonus for affiliation or enlistment in the Selected Reserve" for "Special pay: bonus for enlistment in the Selected Reserve" in item 308c, "Special pay: members of the Selected Reserve assigned to certain high priority units" for "Special pay: enlisted members of the Selected Reserve assigned to certain high priority units" in item 308d, "Special pay: affiliation bonus for officers in the Selected Reserve" for "Special pay: bonus for certain initial service of officers in the Selected Reserve" in item 308j, "Special pay: bonus for members with foreign language proficiency" for "Special pay and bonus for members with foreign language proficiency" in item 316, and "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units" for "Special pay: retention incentives for members qualified in a critical military skill" in item 323, and struck out item 308e "Special pay: bonus for reserve affiliation agreement" and item 312a "Special pay: nuclear-trained and qualified enlisted members".
 
-<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, addeditem 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, added item 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VI, §§621(a)(2)(B), 624(b), 625(b), Nov. 24, 2003, 117 Stat. 1505–1507, added items 305b and 326 and substituted "qualified members" for "qualified enlisted members" in item 314.
 
@@ -187,7 +191,7 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted "p
 
 <b>1967</b>—Pub. L. 90–207, §1(2)(B), Dec. 16, 1967, 81 Stat. 651, added item 311.
 
-<b>1963</b>—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted "while on sea duty or duty at certain places" for "sea and foreign duty" in item 305, and added item 310.
+<b>1963</b>—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted "while on sea duty or duty atcertain places" for "sea and foreign duty" in item 305, and added item 310.
 
 
 ---

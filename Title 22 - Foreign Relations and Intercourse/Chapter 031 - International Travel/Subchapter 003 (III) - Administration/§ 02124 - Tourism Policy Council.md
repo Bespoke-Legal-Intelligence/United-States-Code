@@ -28,7 +28,7 @@ The Council shall consist of the following individuals:
 
 &emsp;(10) The Commissioner of the Immigration and Naturalization Service.
 
-&emsp;(11) Representatives of other Federal agencies which have affected interests at each meeting as deemed appropriate and invited by the Chairman.
+&emsp;(11) Representatives of other Federal agencies which have affected interests at eachmeeting as deemed appropriate and invited by the Chairman.
 
 #### (c) No additional compensation for Council members
 
@@ -52,7 +52,7 @@ Where necessary to prevent the public disclosure of non-public information which
 
 #### (g) Annual report
 
-The Council shall submit an annual report for the preceding fiscal year to the President fortransmittal to the Congress on or before December 31 of each year. The report shall include—
+The Council shall submit an annual report for the preceding fiscal year to the President for transmittal to the Congress on or before December 31 of each year. The report shall include—
 
 &emsp;(1) a comprehensive and detailed report of the activities and accomplishments of the Council;
 
@@ -78,7 +78,7 @@ A prior section 2124, Pub. L. 87–63, title III, §301, formerly §4, June 29, 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -8,11 +8,11 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (1) In general
 
-&emsp;The last signatory operator of any individual who, as of February 1, 1993, is not receiving retiree health benefits under the individual employer plan maintained by the last signatory operator pursuant to a 1978 or subsequent coal wage agreement, but has met the age and service requirements for eligibility to receive benefits under such plan as of such date, shall, at such time as such individual becomes eligible to receive benefits under such plan, provide health benefits coverage to such individual and the individual's eligible beneficiaries which is described in paragraph (2). This paragraph shall not apply to any individual who retired from the coal industry after September 30, 1994, or any eligible beneficiary of such individual.
+&emsp;The last signatory operator of any individual who, as of February 1, 1993, is not receivingretiree health benefits under the individual employer plan maintained by the last signatory operator pursuant to a 1978 or subsequent coal wage agreement, but has met the age and service requirements for eligibility to receive benefits under such plan as of such date, shall, at such time as such individual becomes eligible to receive benefits under such plan, provide health benefits coverage to such individual and the individual's eligible beneficiaries which is described in paragraph (2). This paragraph shall not apply to any individual who retired from the coal industry after September 30, 1994, or any eligible beneficiary of such individual.
 
 #### (2) Coverage
 
-&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in thisparagraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
+&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in this paragraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
 
 #### (c) Joint and several liability of related persons
 
@@ -80,13 +80,13 @@ For purposes of this part and part II—
 
 #### (2) Reassignment upon purchase
 
-&emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
+&emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treatedas the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3051; amended Pub. L. 109–432, div. C, title II, §211(b), Dec. 20, 2006, 120 Stat. 3022.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Each related person of a last signatory operator to whichsubsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b)."
+<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Each related person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph (3)(C)."</i>
 

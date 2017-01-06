@@ -38,7 +38,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;(10) A single line of responsibility in a lead agency designated or established by the Governor for carrying out—
 
-&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1433 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs or activities are receiving assistance made available under section 1433 of this title, toensure that the State complies with this subchapter;
+&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1433 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs or activities are receiving assistance made available under section 1433 of this title, to ensure that the State complies with this subchapter;
 
 &emsp;&emsp;(B) the identification and coordination of all available resources within the State from Federal, State, local, and private sources;
 
@@ -100,7 +100,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;(E) the parents of infants or toddlers with disabilities (as defined in section 1432(5)(A) of this title) provide informed written consent to the State, before such infants or toddlers reach 3 years of age, as to whether such parents intend to choose the continuation of early intervention services pursuant to this subsection for such infants or toddlers;
 
-&emsp;&emsp;(F) the requirements under section 1437(a)(9) of this title shall not apply with respect to a child who is receiving services in accordance with this subsection until notless than 90 days (and at the discretion of the parties to the conference, not more than 9 months) before the time the child will no longer receive those services; and
+&emsp;&emsp;(F) the requirements under section 1437(a)(9) of this title shall not apply with respect to a child who is receiving services in accordance with this subsection until not less than 90 days (and at the discretion of the parties to the conference, not more than 9 months) before the time the child will no longer receive those services; and
 
 &emsp;&emsp;(G) there will be a referral for evaluation for early intervention services of a child who experiences a substantiated case of trauma due to exposure to family violence (as defined in section 10402 of title 42).
 

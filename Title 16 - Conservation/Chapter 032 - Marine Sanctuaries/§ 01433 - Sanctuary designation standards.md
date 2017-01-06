@@ -156,5 +156,5 @@ Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, 
 
 #### Northwest Straits
 
-Pub. L. 104–283, §10, Oct. 11, 1996, 110 Stat. 3368, provided that: "No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine SanctuariesAct \[16 U.S.C. 1431 et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\]."
+Pub. L. 104–283, §10, Oct. 11, 1996, 110 Stat. 3368, provided that: "No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act \[16 U.S.C. 1431 et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\]."
 

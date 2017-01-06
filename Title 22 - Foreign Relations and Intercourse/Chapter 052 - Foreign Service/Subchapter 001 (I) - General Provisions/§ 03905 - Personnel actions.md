@@ -26,7 +26,7 @@ The Secretary shall administer the provisions of this chapter and shall prescrib
 
 > &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
-&emsp;&emsp;(B) a disclosure to the Special Counsel of the Merit Systems Protection Board, or to the Inspector General of an agency (including the Inspector General of the Department of State and the Foreign Service) or another employee designated by the head of the agency to receive such disclosures, of information which the member or applicant reasonably believes evidences—
+&emsp;&emsp;(B) a disclosure to the Special Counsel of the Merit Systems Protection Board, or to the Inspector General of an agency (including the Inspector General of the Departmentof State and the Foreign Service) or another employee designated by the head of the agency to receive such disclosures, of information which the member or applicant reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) a violation of any law, rule, or regulation, or
 
@@ -64,7 +64,7 @@ This section shall not be construed to extinguish or lessen any effort to achiev
 
 #### Codification
 
-Subsec. (d)(2) of this section, which required the Secretary to transmit at least once annually to the Chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives the Department's reports on equal employment opportunity, affirmative action, and minority recruitmentprograms, which reports are required by law, regulation, or directive to be submitted to the Equal Employment Opportunity Commission (EEOC) or the Office of Personnel Management (OPM), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 129 of House Document No. 103–7.
+Subsec. (d)(2) of this section, which required the Secretary to transmit at least once annually to the Chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives the Department's reports on equal employment opportunity, affirmative action, and minority recruitment programs, which reports are required by law, regulation, or directive to be submitted to the Equal Employment Opportunity Commission (EEOC) or the Office of Personnel Management (OPM), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 129 of House Document No. 103–7.
 
 #### Amendments
 

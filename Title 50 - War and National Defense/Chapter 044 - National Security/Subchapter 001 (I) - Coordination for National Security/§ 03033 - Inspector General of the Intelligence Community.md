@@ -8,7 +8,7 @@ There is within the Office of the Director of National Intelligence an Office of
 
 The purpose of the Office of the Inspector General of the Intelligence Community is—
 
-&emsp;(1) to create an objective and effective office, appropriately accountable to Congress, to initiate and conduct independent investigations, inspections, audits, and reviews on programsand activities within the responsibility and authority of the Director of National Intelligence;
+&emsp;(1) to create an objective and effective office, appropriately accountable to Congress, to initiate and conduct independent investigations, inspections, audits, and reviews on programs and activities within the responsibility and authority of the Director of National Intelligence;
 
 &emsp;(2) to provide leadership and coordination and recommend policies for activities designed—
 
@@ -156,7 +156,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (k) Reports
 
-(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General ofthe Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
+(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General of the Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
 
 (B) Each report under this paragraph shall include, at a minimum, the following:
 

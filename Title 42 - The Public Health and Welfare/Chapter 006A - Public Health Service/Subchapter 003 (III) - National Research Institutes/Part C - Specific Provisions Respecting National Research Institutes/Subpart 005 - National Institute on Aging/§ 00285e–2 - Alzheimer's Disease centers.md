@@ -8,7 +8,7 @@
 
 #### (b) Use of Federal payments under cooperative agreement or grant
 
-(1) Federal payments made under a cooperative agreement or grant under subsection (a) of this section may, with respect to Alzheimer's disease, be used for—
+(1) Federal payments made under a cooperative agreement or grant under subsection (a) may, with respect to Alzheimer's disease, be used for—
 
 &emsp;(A) diagnostic examinations, patient assessments, patient care costs, and other costs necessary for conducting research;
 
@@ -24,9 +24,9 @@
 
 #### (c) Support period; additional periods
 
-Support of a center under subsection (a) of this section may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support of a center under subsection (a) may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-(July 1, 1944, ch. 373, title IV, §445, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 855; amended Pub. L. 101–557, title II, §201, Nov. 15, 1990, 104 Stat. 2767; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
+(July 1, 1944, ch. 373, title IV, §445, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 855; amendedPub. L. 101–557, title II, §201, Nov. 15, 1990, 104 Stat. 2767; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
 
 "(a)
 
-In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by theNational Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
+In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
 
 "(b)
 

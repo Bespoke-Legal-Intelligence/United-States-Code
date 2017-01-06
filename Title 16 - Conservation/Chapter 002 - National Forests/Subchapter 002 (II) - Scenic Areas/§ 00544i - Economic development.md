@@ -26,7 +26,7 @@ Each State shall—
 
 &emsp;(1) prepare and provide the Secretary with an annual report to the Secretary on the use of the funds made available under this section;
 
-&emsp;(2) make available to the Secretary and to the Commission, upon request, all accounts,financial records, and other information related to grants and loans made available pursuant to this section; and
+&emsp;(2) make available to the Secretary and to the Commission, upon request, all accounts, financial records, and other information related to grants and loans made available pursuant to this section; and
 
 &emsp;(3) as loans are repaid, make additional grants and loans with the money made available for obligation by such repayments.
 

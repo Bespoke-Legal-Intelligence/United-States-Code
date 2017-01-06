@@ -16,7 +16,7 @@ The Secretary of Veterans Affairs may require additional information from the ap
 
 #### (c) Notice to the Secretary by the insurer
 
-Upon receipt of the application of the insured, the insurer shall furnish a report concerning the policy to the Secretary of Veterans Affairs asrequired by regulations prescribed by the Secretary.
+Upon receipt of the application of the insured, the insurer shall furnish a report concerning thepolicy to the Secretary of Veterans Affairs as required by regulations prescribed by the Secretary.
 
 #### (d) Policy modification
 

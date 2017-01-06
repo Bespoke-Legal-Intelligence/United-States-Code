@@ -12,11 +12,11 @@ In carrying out this subsection, the Secretary shall, to the extent practicable�
 
 &emsp;(2) promptly issue a request, as necessary, for information from non-Federal public and private entities for ongoing activities in this area; and
 
-&emsp;(3) evaluate technologies identified under paragraphs (1) and (2) pursuant to subsection (c) of this section.
+&emsp;(3) evaluate technologies identified under paragraphs (1) and (2) pursuant to subsection (c).
 
 #### (c) Consultation and evaluation
 
-In carrying out subsection (b)(3) of this section, the Secretary shall consult with the working group under section 247d–6(a) <sup>1</sup> of this title, as well as other appropriate public, nonprofit, and private entities, to develop criteria for the evaluation of such technologies and to conduct such evaluations.
+In carrying out subsection (b)(3), the Secretary shall consult with the working group under section 247d–6(a) <sup>1</sup> of this title, as well as other appropriate public, nonprofit, and private entities, to develop criteria for the evaluation of such technologies and to conduct such evaluations.
 
 #### (d) Report
 

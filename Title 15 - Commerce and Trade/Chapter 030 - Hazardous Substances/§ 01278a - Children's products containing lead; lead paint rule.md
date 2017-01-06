@@ -26,7 +26,7 @@
 
 #### (E) Periodic review and further reductions
 
-&emsp;&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise downward the limit set forth in this subsection, no less frequently than every 5 years after promulgation of the limit under subparagraph (C) or (D) to require the lowest amount of lead that the Commission determines is technologically feasible to achieve. The amount of lead established by the Commission under the preceding sentence shall be substituted for the lead limit in effect immediately before such revision.
+&emsp;&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise downward the limit set forth in this subsection,no less frequently than every 5 years after promulgation of the limit under subparagraph (C) or (D) to require the lowest amount of lead that the Commission determines is technologically feasible to achieve. The amount of lead established by the Commission under the preceding sentence shall be substituted for the lead limit in effect immediately before such revision.
 
 #### (3) Application
 
@@ -200,7 +200,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (3) Methods for screening lead in small painted areas
 
-&emsp;In order to provide for effective and efficient enforcement of the limit set forth in section1303.1 of title 16, Code of Federal Regulations, the Commission may rely on x-ray fluorescence technology or other alternative methods for measuring lead in paint or other surface coatings on products subject to such section where the total weight of such paint or surface coating is no greater than 10 milligrams or where such paint or surface coating covers no more than 1 square centimeter of the surface area of such products. Such alternative methods for measurement shall not permit more than 2 micrograms of lead in a total weight of 10 milligrams or less of paint or other surface coating or in a surface area of 1 square centimeter or less.
+&emsp;In order to provide for effective and efficient enforcement of the limit set forth in section 1303.1 of title 16, Code of Federal Regulations, the Commission may rely on x-ray fluorescence technology or other alternative methods for measuring lead in paint or other surface coatings on products subject to such section where the total weight of such paint or surface coating is no greater than 10 milligrams or where such paint or surface coating covers no more than 1 square centimeter of the surface area of such products. Such alternative methods for measurement shall not permit more than 2 micrograms of lead in a total weight of 10 milligrams or less of paint or other surface coating or in a surface area of 1 square centimeter or less.
 
 #### (4) Alternative methods of measuring lead in paint generally
 
@@ -218,7 +218,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (6) No effect on legal limit
 
-&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method of measurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
+&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method ofmeasurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
 
 #### (7) Construction
 
@@ -250,7 +250,7 @@ Subsec. (a)(3). Pub. L. 112–28, §1(a), added par. (3).
 
 Subsec. (b)(1). Pub. L. 112–28, §1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
 
-&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by achild, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
+&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
 
 &emsp;"(B) have any other adverse impact on public health or safety."
 

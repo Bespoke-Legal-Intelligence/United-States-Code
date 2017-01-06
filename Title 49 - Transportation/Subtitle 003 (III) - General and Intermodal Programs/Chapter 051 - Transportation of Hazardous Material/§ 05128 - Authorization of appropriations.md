@@ -40,7 +40,7 @@ Credits to Appropriations.—
 
 &emsp;(1)
 
-Expenses.—In addition to amounts otherwise made available to carry out thischapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority, or entity.
+Expenses.—In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority, or entity.
 
 &emsp;(2)
 
@@ -176,7 +176,7 @@ Pub. L. 114–21, §1301(b), amended par. (2) generally. Prior to amendment, tex
 
 Subsec. (c). Pub. L. 114–87, §1301(c), substituted "and $710,383 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $557,377 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
 
-Pub. L. 114–73, §1301(c), substituted "and $557,377 for the period beginning on October 1, 2015, and ending onNovember 20, 2015," for "and $316,940 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+Pub. L. 114–73, §1301(c), substituted "and $557,377 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $316,940 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
 
 Pub. L. 114–41, §1301(c), substituted "each of fiscal years 2013 through 2015 and $316,940 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of the fiscal years 2013 and 2014 and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 

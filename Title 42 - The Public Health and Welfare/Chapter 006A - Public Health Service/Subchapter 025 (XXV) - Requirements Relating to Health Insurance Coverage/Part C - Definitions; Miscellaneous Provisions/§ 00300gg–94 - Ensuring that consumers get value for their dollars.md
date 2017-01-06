@@ -54,7 +54,7 @@
 
 #### (C) Allocation
 
-&emsp;&emsp;The Secretary shall establish a formula for determining the amount of any grant to aState under this subsection. Under such formula—
+&emsp;&emsp;The Secretary shall establish a formula for determining the amount of any grant to a State under this subsection. Under such formula—
 
 &emsp;&emsp;&emsp;(i) the Secretary shall consider the number of plans of health insurance coverage offered in each State and the population of the State; and
 
@@ -66,7 +66,7 @@
 
 &emsp;A center established under subsection (c)(1)(C) shall—
 
-&emsp;&emsp;(A) develop fee schedules and other database tools that fairly and accurately reflect market rates for medical services and the geographic differences in those rates;
+&emsp;&emsp;(A) develop fee schedules and other database tools that fairly and accurately reflectmarket rates for medical services and the geographic differences in those rates;
 
 &emsp;&emsp;(B) use the best available statistical methods and data processing technology to develop such fee schedules and other database tools;
 

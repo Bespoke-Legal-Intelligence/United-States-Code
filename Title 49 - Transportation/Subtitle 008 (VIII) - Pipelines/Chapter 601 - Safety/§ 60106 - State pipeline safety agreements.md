@@ -14,7 +14,7 @@ Agreements With Certification.—
 
 &emsp;(1)
 
-In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involving incidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
+In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involvingincidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
 
 &emsp;(2)
 
@@ -40,6 +40,10 @@ Existing agreements.—If requested by the State authority, the Secretary shall 
 
 &emsp;&emsp;(C) continued participation by the State authority in the oversight of interstate pipeline transportation has had an adverse impact on pipeline safety.
 
+&emsp;(4)
+
+Notice upon denial.—If a State authority requests an interstate agreement under this section and the Secretary denies such request, the Secretary shall provide written notification to the State authority of the denial that includes an explanation of the reasons for such denial.
+
 (c)
 
 Notification.—
@@ -50,7 +54,7 @@ In general.—Each agreement shall require the State authority to notify the Sec
 
 &emsp;(2)
 
-Response by secretary.—If a State authority notifies the Secretary under paragraph\(1) of a violation or probable violation of an applicable safety standard, the Secretary, not later than 60 days after the date of receipt of the notification, shall—
+Response by secretary.—If a State authority notifies the Secretary under paragraph (1) of a violation or probable violation of an applicable safety standard, the Secretary, not later than 60 days after the date of receipt of the notification, shall—
 
 &emsp;&emsp;(A) issue an order under section 60118(b) or take other appropriate enforcement actions to ensure compliance with this chapter; or
 
@@ -82,7 +86,11 @@ Mandatory termination of agreement.—The Secretary shall end an agreement for t
 
 Procedural requirements.—The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1310; Pub. L. 104–304, §20(b), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §4, Dec. 17, 2002, 116 Stat. 2986.)
+(f)
+
+Joint Inspectors.—At the request of a State authority, the Secretary shall allow for a certified State authority under section 60105 to participate in the inspection of an interstate pipeline facility.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1310; Pub. L. 104–304, §20(b), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §4, Dec. 17, 2002, 116 Stat. 2986; Pub. L. 114–183, §§13, 24(b), June 22, 2016, 130 Stat. 524, 530.)
 
 Historical and Revision Notes
 
@@ -145,6 +153,10 @@ In subsection (c), the words "conduct whatever . . . may be necessary" and "fu
 Enactment of the Pipeline Safety Improvement Act of 2002, referred to in subsec. (b)(3), is the enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(4). Pub. L. 114–183, §24(b), added par. (4).
+
+Subsec. (f). Pub. L. 114–183, §13, added subsec. (f).
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–355, §4(a)(1), substituted "
 

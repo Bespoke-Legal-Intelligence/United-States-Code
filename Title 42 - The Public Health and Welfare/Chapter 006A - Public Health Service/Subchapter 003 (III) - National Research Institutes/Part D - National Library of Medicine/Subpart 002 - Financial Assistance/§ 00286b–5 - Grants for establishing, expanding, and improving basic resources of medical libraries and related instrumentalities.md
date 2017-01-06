@@ -26,7 +26,7 @@
 
 (2) Grants to such medical libraries or related instrumentalities under this section shall be in such amounts as the Secretary may by regulation prescribe with a view to assuring adequate continuing financial support for such libraries or instrumentalities from other sources during and after the period for which grants are provided, except that in no case shall any grant under this section to a medical library or related instrumentality for any fiscal year exceed $1,000,000.
 
-(July 1, 1944, ch. 373, title IV, §474, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 861; amended Pub. L. 100–607, title I, §146(b), Nov. 4, 1988, 102 Stat. 3058; Pub. L. 103–43, title XIV, §1401(b), June 10, 1993, 107 Stat. 170.)
+(July 1, 1944, ch. 373, title IV, §474, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 861; amended Pub. L. 100–607, title I, §146(b), Nov. 4, 1988, 102Stat. 3058; Pub. L. 103–43, title XIV, §1401(b), June 10, 1993, 107 Stat. 170.)
 
 #### Amendments
 

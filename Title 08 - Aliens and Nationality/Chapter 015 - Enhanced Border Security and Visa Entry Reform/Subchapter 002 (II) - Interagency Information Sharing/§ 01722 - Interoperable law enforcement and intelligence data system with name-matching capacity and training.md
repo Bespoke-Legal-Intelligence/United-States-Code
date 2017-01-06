@@ -8,7 +8,7 @@
 
 #### (2) Requirement for interoperable data system
 
-&emsp;Upon the date of commencement of implementation of the plan required by section 1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediateaccess to information in databases of Federal law enforcement agencies and the intelligence community that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the "Chimera system").
+&emsp;Upon the date of commencement of implementation of the plan required by section1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediate access to information in databases of Federal law enforcement agencies and the intelligence community that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the "Chimera system").
 
 #### (3) Consultation requirement
 
@@ -102,7 +102,7 @@
 
 #### References in Text
 
-Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section 403–3 of Title 50, War and National Defense, and is now set out as a note under section 3024 of Title 50.
+Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section 403–3 of Title 50, War and National Defense, and is now set out as a note under section 3024 of Title 50.
 
 #### Codification
 

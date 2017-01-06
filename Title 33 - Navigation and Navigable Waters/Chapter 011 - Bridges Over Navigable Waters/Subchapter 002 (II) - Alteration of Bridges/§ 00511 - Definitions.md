@@ -8,13 +8,15 @@ The term "bridge" means a lawful bridge over navigable waters of the United Stat
 
 The term "bridge owner" means any State, county, municipality, or other political subdivision, or any corporation, association, partnership, or individual owning, or jointly owning, any bridge, and, when any bridge shall be in the possession or under the control of any trustee, receiver, trustee in a case under title 11, or lessee, such terms shall include both the owner of the legal title and the person or the entity in possession or control of such bridge.
 
-The term "Secretary" means the Secretary of Transportation.
+The term "Secretary" means the Secretary of the department in which the Coast Guard is operating.
 
 The term "United States", when used in a geographical sense, includes the Territories and possessions of the United States.
 
-(June 21, 1940, ch. 409, §1, 54 Stat. 497; July 16, 1952, ch. 889, §1, 66 Stat. 732; Pub. L. 95–598, title III, §323, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–449, §2(d)(2), Jan. 12, 1983, 96 Stat. 2440.)
+(June 21, 1940, ch. 409, §1, 54 Stat. 497; July 16, 1952, ch. 889, §1, 66 Stat. 732; Pub. L. 95–598, title III, §323, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–449, §2(d)(2), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, §306(b)(4)(A), Feb. 8, 2016, 130 Stat. 55.)
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120 substituted "Secretary of the department in which the Coast Guard is operating" for "Secretary of Transportation".
 
 <b>1983</b>—Pub. L. 97–449 substituted provision that the term "Secretary" means the Secretary of Transportation for provision that it meant the Secretary of War acting directly or through the Chief of Engineers.
 
@@ -32,5 +34,5 @@ Sections 511 to 523 of this title are popularly known as the "Hobbs Bridge Act" 
 
 #### Transfer of Functions
 
-Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department ofthe Army \[formerly War\] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
+Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department of the Army \[formerly War\] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
 

@@ -1,0 +1,6 @@
+### §914. Omitted
+
+#### Codification
+
+Section, Pub. L. 86–97, §4, July 17, 1959, 73 Stat. 222, which related to payment of costs, was omitted from the Code as being of special and not general application.
+

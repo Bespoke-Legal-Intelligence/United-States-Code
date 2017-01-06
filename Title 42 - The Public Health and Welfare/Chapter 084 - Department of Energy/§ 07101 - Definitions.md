@@ -28,7 +28,7 @@ For short title of part E of title XXXI of div. C of Pub. L. 101–510, which en
 
 For short title of part A of title V of Pub. L. 103–382, which enacted subchapter XIV of this chapter, as the "Albert Einstein Distinguished Educator Fellowship Act of 1994", see section 511 of Pub. L. 103–382, set out as a note under section 7382 of this title.
 
-For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which enacted subchapter XV of this chapter, as the "Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999", see section 3141 of Pub. L. 106–65, set out as a note under section 7383 of this title.
+For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which enacted subchapter XV of thischapter, as the "Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999", see section 3141 of Pub. L. 106–65, set out as a note under section 7383 of this title.
 
 For short title of section 1 \[div. C, title XXXVI\] of Pub. L. 106–398, which enacted subchapter XVI of this chapter, as the "Energy Employees Occupational Illness Compensation Program Act of 2000", see section 1 \[div. C, title XXXVI, §3601\] of Pub. L. 106–398, set out as a note under section 7384 of this title.
 

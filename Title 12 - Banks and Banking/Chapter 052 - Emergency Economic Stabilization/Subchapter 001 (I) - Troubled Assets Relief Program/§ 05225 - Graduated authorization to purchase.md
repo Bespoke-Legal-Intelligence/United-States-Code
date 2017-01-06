@@ -28,7 +28,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may not exercise anyauthority to make purchases under this chapter with regard to any amount in excess of $350,000,000,000 previously obligated, as described in this section if, within 15 calendar days after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3), there is enacted into law a joint resolution disapproving the plan of the Secretary with respect to such additional amount.
+&emsp;Notwithstanding any other provision of this section, the Secretary may not exercise any authority to make purchases under this chapter with regard to any amount in excess of $350,000,000,000 previously obligated, as described in this section if, within 15 calendar days after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3), there is enacted into law a joint resolution disapproving the plan of the Secretary with respect to such additional amount.
 
 #### (2) Contents of joint resolution
 
@@ -82,7 +82,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (C) Vote on passage
 
-&emsp;&emsp;The vote on passage shall occur immediately following the conclusion of the debate on a joint resolution, and a singlequorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+&emsp;&emsp;The vote on passage shall occur immediately following the conclusion of the debate on a joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
 
 #### (D) Rulings of the chair on procedure
 

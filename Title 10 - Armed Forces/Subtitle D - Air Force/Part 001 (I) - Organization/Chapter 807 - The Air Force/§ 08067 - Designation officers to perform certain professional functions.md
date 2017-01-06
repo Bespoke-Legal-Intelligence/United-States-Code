@@ -14,7 +14,7 @@
 
 (g) Judge advocate functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
 
-(h) Chaplain functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
+(h) Chaplain functions in the Air Force shall be performed by commissioned officers of theAir Force who are qualified under regulations prescribed by the Secretary and who are designated as chaplains.
 
 (i) Other functions in the Air Force requiring special training or experience shall be performed by members of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
 

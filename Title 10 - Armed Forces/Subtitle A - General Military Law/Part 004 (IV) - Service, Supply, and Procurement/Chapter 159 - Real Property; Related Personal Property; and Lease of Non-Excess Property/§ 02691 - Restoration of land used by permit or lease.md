@@ -8,7 +8,7 @@
 
 (2) In lieu of performing any removal or restoration work under paragraph (1), a Federal agency may elect, with the consent of the Secretary, to reimburse the Secretary for the costs incurred by the military department in performing such removal or restoration work.
 
-(Added Pub. L. 98–407, title VIII, §804(a), Aug. 28, 1984, 98 Stat. 1519; amended Pub. L. 99–145, title XIII, §1303(a)(17), Nov. 8, 1985, 99 Stat. 739; Pub. L. 105–261, div. B, title XXVIII, §2812(a), (b)(1), Oct. 17, 1998, 112 Stat. 2205; Pub. L. 107–217, §3(b)(15), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, §5(b)(46), Jan. 4, 2011, 124 Stat. 3846.)
+(Added Pub. L. 98–407, title VIII, §804(a), Aug. 28, 1984, 98 Stat. 1519; amended Pub. L. 99–145, titleXIII, §1303(a)(17), Nov. 8, 1985, 99 Stat. 739; Pub. L. 105–261, div. B, title XXVIII, §2812(a), (b)(1), Oct. 17, 1998, 112 Stat. 2205; Pub. L. 107–217, §3(b)(15), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, §5(b)(46), Jan. 4, 2011, 124 Stat. 3846.)
 
 #### Amendments
 

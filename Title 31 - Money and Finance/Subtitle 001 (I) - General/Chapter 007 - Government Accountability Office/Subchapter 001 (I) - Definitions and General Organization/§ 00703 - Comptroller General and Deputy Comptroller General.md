@@ -22,7 +22,7 @@
 
 &emsp;(1) carries out duties and powers prescribed by the Comptroller General; and
 
-&emsp;(2) acts for the Comptroller General when the Comptroller General is absent or unable toserve or when the office of Comptroller General is vacant.
+&emsp;(2) acts for the Comptroller General when the Comptroller General is absent or unable to serve or when the office of Comptroller General is vacant.
 
 (d) The Comptroller General shall designate an officer or employee of the Government Accountability Office to act as Comptroller General when the Comptroller General and Deputy Comptroller General are absent or unable to serve or when the offices of Comptroller General and Deputy Comptroller General are vacant.
 

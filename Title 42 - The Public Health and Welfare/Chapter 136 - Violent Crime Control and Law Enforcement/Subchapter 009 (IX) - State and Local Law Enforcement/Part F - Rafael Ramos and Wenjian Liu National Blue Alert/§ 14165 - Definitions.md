@@ -18,7 +18,7 @@ In this part:
 
 #### (3) Blue Alert plan
 
-&emsp;The term "Blue Alert plan" means the plan of a State, unit of local government, or Federal agency participating in the network forthe dissemination of information received as a Blue Alert.
+&emsp;The term "Blue Alert plan" means the plan of a State, unit of local government, or Federal agency participating in the network for the dissemination of information received as a Blue Alert.
 
 #### (4) Law enforcement officer
 

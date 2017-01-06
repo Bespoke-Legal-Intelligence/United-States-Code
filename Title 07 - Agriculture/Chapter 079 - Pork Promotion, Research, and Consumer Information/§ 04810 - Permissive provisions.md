@@ -20,7 +20,7 @@ On the recommendation of the Board, and with the approval of the Secretary, an o
 
 #### (b) Availability of information to Secretary and Board; confidentiality; disclosure; issuance of general statement, statistical data, or name of violator of order
 
-(1) Information referred to in subsection (a)(1) shall be made available to the Secretary and theBoard as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
+(1) Information referred to in subsection (a)(1) shall be made available to the Secretary and the Board as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), information obtained under subsection (a)(1) shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
 
@@ -49,4 +49,8 @@ A person who willfully violates subsection (a)(1) or (b) shall, on conviction, b
 &emsp;(2) if such person is an employee of the Department of Agriculture or the Board, removed from office.
 
 (Pub. L. 99–198, title XVI, §1621, Dec. 23, 1985, 99 Stat. 1617.)
+
+#### Effective Date
+
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 

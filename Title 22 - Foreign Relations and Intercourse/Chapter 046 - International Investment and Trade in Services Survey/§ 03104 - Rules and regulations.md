@@ -12,7 +12,7 @@ Rules or regulations issued pursuant to this chapter may require any person subj
 
 &emsp;(2) to furnish, under oath, any report containing information which is determined to be necessary to carry out the surveys and studies conducted under this chapter.
 
-> When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer's best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report.
+> When a report under paragraph (2) is furnished under oath, such oath shall be by the officer ofsuch person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer's best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report.
 
 #### (c) Access to information; limitation
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the demand for neighborhood housing services programs in cities throughout the United States warrants the creation of a public corporation to institutionalize and expand the neighborhood housing services program and other programs of the present Urban Reinvestment Task Force.
 
-(b) The purpose of this subchapter is to establish a public corporation which will continue the joint efforts of the Federal financial supervisory agencies and the Department of Housing and Urban Development to promote reinvestment in older neighborhoods by local financial institutions working cooperatively with community people and local government, and which will continue the nonbureaucratic approach of the Urban Reinvestment Task Force, relying largely on local initiative for the specific design of local programs.
+(b) The purpose of this subchapter is to establish a public corporation which will continue the joint efforts of the Federal financial supervisory agencies and the Department of Housing and Urban Development to promote reinvestment in older neighborhoods by local financial institutions working cooperatively with community people and local government, and which will continue the nonbureaucratic approach of the Urban Reinvestment Task Force, relying largelyon local initiative for the specific design of local programs.
 
 (Pub. L. 95–557, title VI, §602, Oct. 31, 1978, 92 Stat. 2115.)
 

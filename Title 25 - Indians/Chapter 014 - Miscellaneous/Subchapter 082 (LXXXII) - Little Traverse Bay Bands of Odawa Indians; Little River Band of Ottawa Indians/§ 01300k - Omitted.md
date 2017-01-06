@@ -1,0 +1,10 @@
+### §1300k. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–324, §2, Sept. 21, 1994, 108 Stat. 2156, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 103–324, §1, Sept. 21, 1994, 108 Stat. 2156, provided that Pub. L. 103–324, enacting this subchapter, could be cited as the "Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act".
+

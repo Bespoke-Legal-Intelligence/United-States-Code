@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish and use a standing panel of experts who are qualified, by virtue of their training, expertise, or experience, to evaluate each application under part B or C that requests more than $75,000 per year in Federal financial assistance.
+&emsp;&emsp;The Secretary shall establish and use a standing panel of experts who are qualified,by virtue of their training, expertise, or experience, to evaluate each application under part B or C that requests more than $75,000 per year in Federal financial assistance.
 
 #### (B) Membership
 
@@ -112,7 +112,7 @@ Another prior section 1482, Pub. L. 91–230, title VI, §682, as added Pub. L. 
 
 A prior section 1483, Pub. L. 91–230, title VI, §683, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 151, which related to community parent resource centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1483, Pub. L. 91–230, title VI, §683, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, §901(b)(183), (184), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to Federal administration, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1483, Pub. L. 91–230, title VI, §683, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986,100 Stat. 1154; amended Pub. L. 101–476, title IX, §901(b)(183), (184), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to Federal administration, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
 A prior section 1484, Pub. L. 91–230, title VI, §684, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152, which related to technical assistance for parent training and information centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 

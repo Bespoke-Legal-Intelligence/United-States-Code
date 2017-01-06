@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) consider whether the tariff levels bound and applied throughout the world with respect to imports from the United States are higher than United States tariffs and whether the negotiation provides an opportunity to address any such disparity; and
 
-&emsp;&emsp;&emsp;(iii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, andhow all applicable negotiating objectives will be met.
+&emsp;&emsp;&emsp;(iii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (B) Special consultations on import sensitive products
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(ii) If, after negotiations described in clause (i) are commenced—
 
-&emsp;&emsp;&emsp;(I) the United States Trade Representative identifies any additional agricultural product described in clause (i)(I) for tariff reductions which were not the subject of a notification under clause (i)(IV), or
+&emsp;&emsp;&emsp;(I) the United States Trade Representative identifies any additional agriculturalproduct described in clause (i)(I) for tariff reductions which were not the subject of a notification under clause (i)(IV), or
 
 &emsp;&emsp;&emsp;(II) any additional agricultural product described in clause (i)(I) is the subject of a request for tariff reductions by a party to the negotiations,
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(i) the range of proposals advanced in the negotiations with respect to that agreement, that may be in the final agreement, and that could require amendments to title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq.) or to chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.); and
 
-&emsp;&emsp;&emsp;(ii) how these proposals relate to the objectives described in section 4201(b)(16) of this title.
+&emsp;&emsp;&emsp;(ii) how these proposals relate to the objectives described in section 4201(b)(17) of this title.
 
 #### (B) Resolutions
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 4205(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 
-&emsp;&emsp;(ii) For purposes of this subparagraph, the term "resolution" means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_\_\_ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on \_\_\_\_\_\_\_\_ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to \_\_\_\_\_\_\_\_, are inconsistent with the negotiating objectives described in section 102(b)(16) of that Act.", with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
+&emsp;&emsp;(ii) For purposes of this subparagraph, the term "resolution" means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_\_\_ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on \_\_\_\_\_\_\_\_ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to \_\_\_\_\_\_\_\_, are inconsistent with the negotiating objectives described in section 102(b)(17) of that Act.", with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
 
 &emsp;&emsp;(iii) Resolutions in the House of Representatives—
 
@@ -144,7 +144,7 @@
 
 #### (2) Assessment
 
-&emsp;Not later than 105 calendar days after the President enters into a trade agreement undersection 4202(b) of this title, the Commission shall submit to the President and Congress a report assessing the likely impact of the agreement on the United States economy as a whole and on specific industry sectors, including the impact the agreement will have on the gross domestic product, exports and imports, aggregate employment and employment opportunities, the production, employment, and competitive position of industries likely to be significantly affected by the agreement, and the interests of United States consumers.
+&emsp;Not later than 105 calendar days after the President enters into a trade agreement under section 4202(b) of this title, the Commission shall submit to the President and Congress a report assessing the likely impact of the agreement on the United States economy as a whole and on specific industry sectors, including the impact the agreement will have on the gross domestic product, exports and imports, aggregate employment and employment opportunities, the production, employment, and competitive position of industries likely to be significantly affected by the agreement, and the interests of United States consumers.
 
 #### (3) Review of empirical literature
 
@@ -242,19 +242,29 @@
 
 Any Member of the House of Representatives may submit to the Committee on Ways and Means of the House of Representatives and any Member of the Senate may submit to the Committee on Finance of the Senate the views of that Member on any matter relevant to a proposed trade agreement, and the relevant Committee shall receive those views for consideration.
 
-(Pub. L. 114–26, title I, §105, June 29, 2015, 129 Stat. 342.)
+(Pub. L. 114–26, title I, §105, June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title IX, §914(f)(1), Feb. 24, 2016, 130 Stat. 275.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2)(B) and (f)(1), was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2)(B) and (f)(1), was in the original "this title", meaning title Iof Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
 The Tariff Act of 1930, referred to in subsec. (b)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsec. (b)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
-Sections 105(b)(3) and 102(b)(16) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(3)(B)(ii), are classified to subsec. (b)(3) of this section and section 4201(b)(16) of this title, respectively.
+Sections 105(b)(3) and 102(b)(17) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(3)(B)(ii), are classified to subsec. (b)(3) of this section and section 4201(b)(17) of this title, respectively.
 
 Executive Order No. 13141, referred to in subsec. (d)(1)(A), (2)(A), is set out as a note under section 2112 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(A)(ii). Pub. L. 114–125, §914(f)(1)(A), substituted "section 4201(b)(17)" for "section 4201(b)(16)".
+
+Subsec. (b)(3)(B)(ii). Pub. L. 114–125, §914(f)(1)(B), substituted "section 102(b)(17)" for "section 102(b)(16)".
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–125 effective as if included in the enactment of title I of Pub. L. 114–26, see section 914(g) of Pub. L. 114–125, set out as a note under section 4201 of this title.
 
 #### Delegation of Functions
 

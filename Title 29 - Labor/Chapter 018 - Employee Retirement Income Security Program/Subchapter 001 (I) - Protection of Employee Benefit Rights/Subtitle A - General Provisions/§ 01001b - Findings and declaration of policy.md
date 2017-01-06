@@ -44,7 +44,7 @@ It is hereby declared to be the policy of this title—
 
 #### References in Text
 
-This title, referred to in subsec. (c), is title XI of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 237, known as the Single-Employer Pension Plan Amendments Act of 1986. For complete classification of this Act to the Code, seeShort Title of 1986 Amendment note set out under section 1001 of this title and Tables.
+This title, referred to in subsec. (c), is title XI of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 237, known as the Single-Employer Pension Plan Amendments Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1001 of this title and Tables.
 
 #### Codification
 

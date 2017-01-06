@@ -10,7 +10,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this titleto the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

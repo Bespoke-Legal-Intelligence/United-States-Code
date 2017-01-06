@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the midshipman.
 
-&emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the midshipman participates in a program under section 2121 of this title, the midshipman will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
+&emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the midshipman participates in a program under section 2121 of this title, the midshipman will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of,and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
 
 (b)(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 

@@ -210,7 +210,7 @@ Amendment by section 1876(d)(1), (j) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VIII, §805(a), July 18, 1984, 98 Stat. 1000, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (o), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900-2902, provided that:
+Pub. L. 98–369, div. A, title VIII, §805(a), July 18, 1984, 98 Stat. 1000, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (o), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900–2902, provided that:
 
 "(1)
 

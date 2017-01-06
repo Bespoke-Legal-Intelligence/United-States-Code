@@ -18,5 +18,9 @@ Section 8216 of this title, referred to in par. (3), was omitted from the Code p
 
 Section 8281 of this title, referred to in par. (3), was repealed by Pub. L. 99–412, title II, §201(a), Aug. 28, 1986, 100 Stat. 943.
 
+#### Codification
+
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

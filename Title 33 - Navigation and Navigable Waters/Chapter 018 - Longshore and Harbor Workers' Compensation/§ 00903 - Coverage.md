@@ -30,7 +30,7 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 #### (e) Credit for benefits paid under other laws
 
-Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefitsare claimed under this chapter pursuant to any other workers' compensation law or section 30104 of title 46 shall be credited against any liability imposed by this chapter.
+Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefits are claimed under this chapter pursuant to any other workers' compensation law or section 30104 of title 46 shall be credited against any liability imposed by this chapter.
 
 (Mar. 4, 1927, ch. 509, §3, 44 Stat. 1426; Pub. L. 92–576, §§2(c), 21, Oct. 27, 1972, 86 Stat. 1251, 1265; Pub. L. 98–426, §3, Sept. 28, 1984, 98 Stat. 1640; Pub. L. 104–324, title VII, §703, Oct. 19, 1996, 110 Stat. 3933.)
 

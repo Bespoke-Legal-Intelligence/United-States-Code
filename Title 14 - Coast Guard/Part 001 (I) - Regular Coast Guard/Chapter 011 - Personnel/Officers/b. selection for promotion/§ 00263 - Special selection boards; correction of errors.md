@@ -48,7 +48,7 @@ Requirements for Special Selection Boards.—Each special selection board conven
 
 &emsp;(1) be composed in accordance with section 252 and the members of the board shall be required to swear the oaths described in section 254;
 
-&emsp;(2) consider the record of an applicable officer or former officer as that record, if corrected, would have appeared to the selection board that should have considered or did consider the officer or former officer prior to theconsideration of the special selection board and that record shall be compared with a sampling of the records of—
+&emsp;(2) consider the record of an applicable officer or former officer as that record, if corrected, would have appeared to the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board and that record shall be compared with a sampling of the records of—
 
 &emsp;&emsp;(A) those officers of the same grade who were recommended for promotion by such prior selection board; and
 

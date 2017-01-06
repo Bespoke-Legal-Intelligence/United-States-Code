@@ -26,7 +26,7 @@ The words "The Congress declares that" are omitted as surplus. The words "accide
 
 Pub. L. 114–94, div. A, title XI, §11001, Dec. 4, 2015, 129 Stat. 1622, provided that: "This title \[see Tables for classification\] may be cited as the 'Passenger Rail Reform and Investment Act of 2015'."
 
-Pub. L. 114–94, div. A, title XI, §11501, Dec. 4, 2015, 129 Stat. 1690, provided that: "This subtitle \[subtitle E (§§11501–11504) of title XI of div. A of Pub. L. 114–94, enacting sections 24201 and 24202 of this title, amendingsection 303 of this title and section 138 of Title 23, Highways, and enacting provisions set out as a note under section 4370m of Title 42, The Public Health and Welfare\] may be cited as the 'Track, Railroad, and Infrastructure Network Act' or the 'TRAIN Act'."
+Pub. L. 114–94, div. A, title XI, §11501, Dec. 4, 2015, 129 Stat. 1690, provided that: "This subtitle \[subtitle E (§§11501–11504) of title XI of div. A of Pub. L. 114–94, enacting sections 24201 and 24202 of this title, amending section 303 of this title and section 138 of Title 23, Highways, and enacting provisions set out as a note under section 4370m of Title 42, The Public Health and Welfare\] may be cited as the 'Track, Railroad, and Infrastructure Network Act' or the 'TRAIN Act'."
 
 Pub. L. 114–73, title I, §1302(a), Oct. 29, 2015, 129 Stat. 576, provided that: "This section \[amending section 20157 of this title\] may be cited as the 'Positive Train Control Enforcement and Implementation Act of 2015'."
 
@@ -38,7 +38,7 @@ Pub. L. 110–432, div. B, §1(a), Oct. 16, 2008, 122 Stat. 4907, provided that:
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–134, §1(a), Dec. 2, 1997, 111 Stat. 2570, provided that: "This Act \[enacting section 28103 of this title, amending sections 24101, 24102, 24104, 24301 to 24307, 24309, 24312, 24315, 24701, 24706, 24902, and 24904 of this title, section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and section 9101 of Title 31, Money and Finance, repealing sections 24310, 24314, 24501 to 24506, 24702 to 24705, 24707, 24708, and 24903 of this title, and section 1111 of Title 45, Railroads, and enacting provisions set out as notes under this section and sections 24101, 24104, 24301, 24304, 24305, 24307, 24312, 24315, 24501, and 24706 of this title, section 8G of the Appendix to Title 5, and section 172 of Title 26, Internal Revenue Code\] may be cited as the 'Amtrak Reform and Accountability Act of 1997'."
+Pub. L. 105–134, §1(a), Dec. 2, 1997, 111 Stat. 2570, provided that: "This Act \[enacting section 28103 of this title, amending sections 24101, 24102, 24104, 24301 to 24307, 24309, 24312, 24315, 24701, 24706, 24902, and 24904 of this title, section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5,Government Organization and Employees, and section 9101 of Title 31, Money and Finance, repealing sections 24310, 24314, 24501 to 24506, 24702 to 24705, 24707, 24708, and 24903 of this title, and section 1111 of Title 45, Railroads, and enacting provisions set out as notes under this section and sections 24101, 24104, 24301, 24304, 24305, 24307, 24312, 24315, 24501, and 24706 of this title, section 8G of the Appendix to Title 5, and section 172 of Title 26, Internal Revenue Code\] may be cited as the 'Amtrak Reform and Accountability Act of 1997'."
 
 #### Short Title of 1994 Amendment
 

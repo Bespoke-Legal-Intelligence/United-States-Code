@@ -18,3 +18,7 @@ Whenever the Commission finds that—
 
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
+

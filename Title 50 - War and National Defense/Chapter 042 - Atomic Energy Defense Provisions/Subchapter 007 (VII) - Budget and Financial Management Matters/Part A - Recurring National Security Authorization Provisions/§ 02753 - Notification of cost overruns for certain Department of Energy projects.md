@@ -28,7 +28,7 @@
 
 #### (C) Notification to congressional defense committees
 
-&emsp;&emsp;Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submitthe cost and schedule baseline to the congressional defense committees.
+&emsp;&emsp;Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
 
 #### (D) Major alteration project defined
 

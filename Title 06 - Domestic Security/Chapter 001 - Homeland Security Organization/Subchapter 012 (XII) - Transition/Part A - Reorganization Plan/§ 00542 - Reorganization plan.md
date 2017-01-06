@@ -174,7 +174,7 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 &emsp;&emsp;º The nuclear smuggling programs and activities within the proliferation detection program of the nonproliferation and verification research and development program of the Department of Energy.
 
-&emsp;&emsp;º The nuclear assessment program and activities of the assessment, detection, and cooperation program of the international materials protection and cooperation program of the Department of Energyand the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory of the Department of Energy.
+&emsp;&emsp;º The nuclear assessment program and activities of the assessment, detection, and cooperation program of the international materials protection and cooperation program of the Department of Energy and the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory of the Department of Energy.
 
 &emsp;&emsp;º The Environmental Measurements Laboratory of the Department of Energy.
 
@@ -302,7 +302,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;<b>3. Border and Transportation Security</b>
 
-&emsp;&emsp;The Directorate of Border and Transportation Security ("BTS") will include the following: the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\]; the Office for Domestic Preparedness; the Customs Service \[now Bureau of Customs and Border Protection\]; the Transportation Security Administration; FLETC; and FPS.
+&emsp;&emsp;The Directorate of Border and Transportation Security ("BTS") will include the following: the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\]; the Office for Domestic Preparedness; the Customs Service \[renamed Bureau of Customs and Border Protection\]; the Transportation Security Administration; FLETC; and FPS.
 
 &emsp;&emsp;The BTS Directorate will also have in place the key leaders of the new Directorate to include:
 
@@ -414,7 +414,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;• The attached tables \[not set out in the Code\] provide estimates of the funds available to the agencies and entities that will be transferred to the Department by operation of the Act. The two tables include total funding (mandatory and discretionary including fees) and discretionary funding net of fees. The tables provide the enacted levels for 2002 and 2002 supplementals, and the President's requested levels for 2003.
 
-> &emsp;Because of the current state of the 2003 budget process, information concerning the funds that will be available to each transferring agency on the date of the proposed transfers is not currently available and will not likely be available during the time period in which the President is to submit this Reorganization Plan. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
+> &emsp;Because of the current state of the 2003 budget process, information concerning the funds that will be available to each transferring agency on the date of the proposed transfers is not currently available and will not likely be available during the time period inwhich the President is to submit this Reorganization Plan. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
 
 <b>(4) Specification of the proposed allocations within the Department of unexpended funds transferred in connection with transfers under the plan.</b>
 
@@ -526,7 +526,7 @@ Because of the current state of the 2003 budget process, information concerning 
 
 (4) <i>Specification of the proposed allocations within the Department of unexpended funds transferred in connection with transfers under the plan.</i>
 
-The table attached at Tab B \[not set out in the Code\] provides updated estimates of the unobligated balances as of September 30, 2002, for the agencies affected by this modification that will be transferred to the Department. Since October 1, 2002, these agencies have been operating under continuing resolutions, and, as such, have been spending these balances to maintaincurrent operations. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
+The table attached at Tab B \[not set out in the Code\] provides updated estimates of the unobligated balances as of September 30, 2002, for the agencies affected by this modification that will be transferred to the Department. Since October 1, 2002, these agencies have been operating under continuing resolutions, and, as such, have been spending these balances to maintain current operations. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
 
 (5) <i>Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.</i>
 

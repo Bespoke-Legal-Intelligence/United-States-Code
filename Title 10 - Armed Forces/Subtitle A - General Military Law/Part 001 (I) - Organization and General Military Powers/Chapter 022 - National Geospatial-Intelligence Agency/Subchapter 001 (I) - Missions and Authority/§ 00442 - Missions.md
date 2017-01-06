@@ -56,3 +56,7 @@ Subsec. (d). Pub. L. 108–136, §921(d)(2)(A), (f), substituted "National Geosp
 
 Subsec. (e). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in introductory provisions.
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
+

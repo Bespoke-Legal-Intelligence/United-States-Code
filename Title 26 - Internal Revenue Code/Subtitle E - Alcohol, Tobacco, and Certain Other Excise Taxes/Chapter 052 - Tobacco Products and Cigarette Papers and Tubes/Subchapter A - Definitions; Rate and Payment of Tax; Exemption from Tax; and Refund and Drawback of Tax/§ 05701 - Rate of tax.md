@@ -68,7 +68,7 @@ Subsec. (a)(2). Pub. L. 111–3, §701(a)(2), (3), substituted "52.75 percent" f
 
 Subsec. (b)(1). Pub. L. 111–3, §701(b)(1), substituted "$50.33 per thousand" for "$19.50 per thousand ($17 per thousand on cigarettes removed during 2000 or 2001)".
 
-Subsec. (b)(2). Pub. L. 111–3, §701(b)(2), substituted "$105.69 per thousand" for "$40.95 per thousand ($35.70 per thousand on cigarettes removed during 2000 or 2001)".
+Subsec. (b)(2). Pub. L. 111–3, §701(b)(2), substituted "$105.69 per thousand" for "$40.95 per thousand ($35.70per thousand on cigarettes removed during 2000 or 2001)".
 
 Subsec. (c). Pub. L. 111–3, §701(c), substituted "3.15 cents" for "1.22 cents (1.06 cents on cigarette papers removed during 2000 or 2001)".
 
@@ -326,9 +326,9 @@ Controlled groups.—Rules similar to the rules of section 5061(e)(3) of such Co
 
 "(7)
 
-Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden ofthe tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made."
+Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5701 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 5701. The Secretary may treat any person who bore the ultimate burden of the tax imposed by paragraph (1) as the person to whom a credit or refund under such provisions may be allowed or made."
 
-Pub. L. 105–33, title IX, §9302(j), Aug. 5, 1997, 111 Stat. 675, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-643, provided that:
+Pub. L. 105–33, title IX, §9302(j), Aug. 5, 1997, 111 Stat. 675, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that:
 
 "(1)
 

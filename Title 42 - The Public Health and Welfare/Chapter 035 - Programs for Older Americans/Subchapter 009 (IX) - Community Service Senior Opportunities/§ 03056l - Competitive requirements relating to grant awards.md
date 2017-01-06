@@ -24,7 +24,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;(3) The applicant's ability to administer a project that moves eligible individuals into unsubsidized employment.
 
-&emsp;(4) The applicant's prior performance, if any, in meeting core measures of performance and addressing additional indicators of performance under this subchapter and the applicant's ability to address core indicators of performance and additional indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
+&emsp;(4) The applicant's prior performance, if any, in meeting core measures of performance under this subchapter and the applicant's ability to address core indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
 
 &emsp;(5) The applicant's ability to move individuals with multiple barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title, into unsubsidized employment.
 
@@ -76,7 +76,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;&emsp;(J) Failure to have maintained effective cash management or cost controls resulting in excess cash on hand.
 
-&emsp;&emsp;(K) Failure to ensure that a subrecipient complies with its Office of Management and Budget Circular A–133 audit requirements specified at section 667.200(b) of title 20, Code of Federal Regulations.
+&emsp;&emsp;(K) Failure to ensure that a subrecipient complies with its Office of Management andBudget Circular A–133 audit requirements specified at section 667.200(b) of title 20, Code of Federal Regulations.
 
 &emsp;&emsp;(L) Failure to audit a subrecipient within the required period.
 
@@ -106,7 +106,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 The Secretary may not promulgate rules or regulations affecting grantees in areas where a substantial population of minority individuals exists, that would significantly compromise the ability of the grantees to serve their targeted population of minority older individuals.
 
-(Pub. L. 89–73, title V, §514, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2584.)
+(Pub. L. 89–73, title V, §514, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2584; amended Pub. L. 114–144, §6(e), Apr. 19, 2016, 130 Stat. 346.)
 
 #### References in Text
 
@@ -115,4 +115,8 @@ The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is s
 #### Prior Provisions
 
 A prior section 3056l, Pub. L. 89–73, title V, §514, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2282, related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by Pub. L. 109–365.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(4). Pub. L. 114–144 struck out "and addressing additional indicators of performance" after "measures of performance" and "and additional indicators of performance" after "core indicators of performance".
 

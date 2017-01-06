@@ -6,7 +6,7 @@
 
 &emsp;(2) written notice of injury or death as specified in section 8119 of this title was given within 30 days.
 
-(b) In a case of latent disability, the time for filing claim does not begin to run until the employee has a compensable disability and is aware, or by the exercise of reasonable diligence should have been aware, of the causal relationship of the compensable disability to his employment. In such a case, the time for giving notice of injury begins to run when the employee is aware, or by the exercise of reasonable diligence should have been aware, that his condition is causally related to his employment,whether or not there is a compensable disability.
+(b) In a case of latent disability, the time for filing claim does not begin to run until the employee has a compensable disability and is aware, or by the exercise of reasonable diligence should have been aware, of the causal relationship of the compensable disability to his employment. In such a case, the time for giving notice of injury begins to run when the employee is aware, or by the exercise of reasonable diligence should have been aware, that his condition is causally related to his employment, whether or not there is a compensable disability.
 
 (c) The timely filing of a disability claim because of injury will satisfy the time requirements for a death claim based on the same injury.
 

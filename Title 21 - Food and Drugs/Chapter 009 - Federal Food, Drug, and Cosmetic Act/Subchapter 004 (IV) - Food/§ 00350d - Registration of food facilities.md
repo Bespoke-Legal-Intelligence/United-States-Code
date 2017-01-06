@@ -144,7 +144,7 @@ In general.—Not later than 9 months after the date of enactment of this Act \[
 
 &emsp;"(B)
 
-Clarification.—The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term 'facility' under such section 415. Nothing in this Act \[see Short Title note set out under section 2201 of this title\] authorizes the Secretary to modify the definition of the term 'facility' under such section.
+Clarification.—The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term 'facility' under such section 415. Nothing in this Act\[see Short Title note set out under section 2201 of this title\] authorizes the Secretary to modify the definition of the term 'facility' under such section.
 
 &emsp;"(C)
 

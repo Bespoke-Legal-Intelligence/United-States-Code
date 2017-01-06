@@ -24,7 +24,7 @@ The Director shall be compensated at a rate of pay not to exceed the rate payabl
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original "this title", and was translated as reading "this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (a), was in the original "this title", and was translated as reading"this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
 
 The Violence Against Women Act of 1994, referred to in subsec. (b)(2), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 

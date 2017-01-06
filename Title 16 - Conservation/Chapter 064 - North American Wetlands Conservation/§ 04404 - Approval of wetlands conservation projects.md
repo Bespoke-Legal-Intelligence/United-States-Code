@@ -32,7 +32,7 @@ The Council shall establish practices and procedures for the carrying out of its
 
 #### (d) Council representation on Migratory Bird Conservation Commission
 
-The Chairman of the Council shall select 2 Council members of the <sup>1</sup> United States citizenship to serve with the Chairman as ex officio members of the Migratory Bird ConservationCommission for the purposes of considering and voting upon wetlands conservation projects recommended by the Council.
+The Chairman of the Council shall select 2 Council members of the <sup>1</sup> United States citizenship to serve with the Chairman as ex officio members of the Migratory Bird Conservation Commission for the purposes of considering and voting upon wetlands conservation projects recommended by the Council.
 
 #### (e) Approval of Council recommendations by Migratory Bird Conservation Commission
 

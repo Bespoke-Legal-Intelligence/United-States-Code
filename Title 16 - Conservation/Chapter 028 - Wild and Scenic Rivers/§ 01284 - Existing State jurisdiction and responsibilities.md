@@ -2,7 +2,7 @@
 
 #### (a) Fish and wildlife
 
-Nothing in this chapter shall affect the jurisdiction or responsibilities of the States with respect to fish and wildlife. Hunting and fishingshall be permitted on lands and waters administered as parts of the system under applicable State and Federal laws and regulations unless, in the case of hunting, those lands or waters are within a national park or monument. The administering Secretary may, however, designate zones where, and establish periods when, no hunting is permitted for reasons of public safety, administration, or public use and enjoyment and shall issue appropriate regulations after consultation with the wildlife agency of the State or States affected.
+Nothing in this chapter shall affect the jurisdiction or responsibilities of the States with respect to fish and wildlife. Hunting and fishing shall be permitted on lands and waters administered as parts of the system under applicable State and Federal laws and regulations unless, in the case of hunting, those lands or waters are within a national park or monument. The administering Secretary may, however, designate zones where, and establish periods when, no hunting is permitted for reasons of public safety, administration, or public use and enjoyment and shall issue appropriate regulations after consultation with the wildlife agency of the State or States affected.
 
 #### (b) Compensation for water rights
 
@@ -22,7 +22,7 @@ Nothing contained in this chapter shall be construed to alter, amend, repeal, in
 
 #### (f) Rights of access to streams
 
-Nothing in this chapter shall affect existing rights of any State, including the right of access, with respect to the beds of navigable streams, tributaries, or rivers (or segments thereof) located in a national wild, scenic or recreational river area.
+Nothing in this chapter shall affect existing rights of any State, including the right of access, with respect to the beds of navigablestreams, tributaries, or rivers (or segments thereof) located in a national wild, scenic or recreational river area.
 
 #### (g) Easements and rights-of-way
 

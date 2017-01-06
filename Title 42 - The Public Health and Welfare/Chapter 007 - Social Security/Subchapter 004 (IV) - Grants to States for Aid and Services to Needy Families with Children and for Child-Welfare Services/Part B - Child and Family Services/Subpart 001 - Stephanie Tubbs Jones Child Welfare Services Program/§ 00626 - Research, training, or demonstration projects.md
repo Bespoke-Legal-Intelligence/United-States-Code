@@ -30,7 +30,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(C) to furnish to the institution and the Secretary evidence of compliance with subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualify for any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or anappropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
+&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualify for any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or an appropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
 
 &emsp;(2) provides assurances that the institution will—
 

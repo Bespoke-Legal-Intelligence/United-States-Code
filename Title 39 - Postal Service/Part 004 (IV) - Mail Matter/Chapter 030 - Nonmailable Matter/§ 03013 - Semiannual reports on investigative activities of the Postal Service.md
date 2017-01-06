@@ -10,7 +10,7 @@ The Postmaster General shall submit semiannual reports to the Inspector General 
 
 &emsp;(4) the total amount of expenditures and obligations incurred in carrying out the investigative activities of the Postal Service;
 
-&emsp;(5) the number of cases in which the authority described in section 3016 was used, and acomprehensive statement describing how that authority was used in each of those cases; and
+&emsp;(5) the number of cases in which the authority described in section 3016 was used, and a comprehensive statement describing how that authority was used in each of those cases; and
 
 &emsp;(6) such other information relating to the investigative activities of the Postal Service as the Inspector General may require.
 

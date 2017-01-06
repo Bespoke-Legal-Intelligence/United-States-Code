@@ -54,7 +54,7 @@ Prepayment.—
 
 &emsp;&emsp;(A)
 
-Use of excess revenue.—After satisfying scheduled debt service requirements on all financial obligations and secured loansand all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing financial obligations, the secured loan may be prepaid at anytime without penalty.
+Use of excess revenue.—After satisfying scheduled debt service requirements on all financial obligations and secured loans and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing financial obligations, the secured loan may be prepaid at anytime without penalty.
 
 &emsp;&emsp;(B)
 
@@ -164,7 +164,7 @@ Conditions.—Subject to subsection (h), the Secretary may only make a Federal c
 
 &emsp;(2) the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to use the aircraft to provide service to underserved markets; and
 
-&emsp;(3) the prospective earning power of the commuter air carrier or new entrant air carrier,together with the character and value of the security pledged, including the collateral value of the aircraft being acquired and any other assets or pledges used to secure the Federal credit instrument, furnish—
+&emsp;(3) the prospective earning power of the commuter air carrier or new entrant air carrier, together with the character and value of the security pledged, including the collateral value of the aircraft being acquired and any other assets or pledges used to secure the Federal credit instrument, furnish—
 
 &emsp;&emsp;(A) reasonable assurances of the air carrier's ability and intention to repay the Federal credit instrument within the terms established by the Secretary—
 
@@ -188,7 +188,7 @@ Requirement.—Subject to subsection (i), no Federal credit instrument may be ma
 
 (i)
 
-Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
+Other Limitations.—No Federal credit instrument shall be made by the Secretary underthis section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 97.)
 

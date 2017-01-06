@@ -1,0 +1,6 @@
+### §1246. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–59, §6, July 29, 1971, 85 Stat. 159, which exempted funds distributed per capita under the provisions of this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+

@@ -20,7 +20,7 @@ National Maritime Transportation Security Plan.—(1) Not later than April 1, 20
 
 &emsp;(E) A system of surveillance and notice designed to safeguard against as well as ensure earliest possible notice of a transportation security incident and imminent threats of such a security incident to the appropriate State and Federal agencies.
 
-&emsp;(F) Establishment of criteria and procedures to ensure immediate and effective Federal identification of a transportation security incident, or the substantial threat of such a security incident.
+&emsp;(F) Establishment of criteria and procedures to ensure immediate and effective Federalidentification of a transportation security incident, or the substantial threat of such a security incident.
 
 &emsp;(G) Designation of—
 
@@ -58,7 +58,7 @@ Area Maritime Transportation Security Plans.—(1) The Federal Maritime Security
 
 &emsp;(D) include consultation and coordination with the Department of Defense on matters relating to Department of Defense facilities and vessels;
 
-&emsp;(E) establish area response and recovery protocols to prepare for, respond to, mitigateagainst, and recover from a transportation security incident consistent with section 202 of the SAFE Port Act of 2006 (6 U.S.C. 942) and subsection (a) of this section;
+&emsp;(E) establish area response and recovery protocols to prepare for, respond to, mitigate against, and recover from a transportation security incident consistent with section 202 of the SAFE Port Act of 2006 (6 U.S.C. 942) and subsection (a) of this section;
 
 &emsp;(F) include any other information the Secretary requires;
 
@@ -140,7 +140,7 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (6) Notwithstanding paragraph (5), the Secretary may authorize a vessel or facility to operate without a security plan approved under this subsection, until not later than 1 year after the date of the submission to the Secretary of a plan for the vessel or facility, if the owner or operator of the vessel or facility certifies that the owner or operator has ensured by contract or other means approved by the Secretary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident.
 
-(7) The Secretary shall require each owner or operator of a vessel or facility located within oradjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
+(7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
 
 (8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
 
@@ -184,7 +184,7 @@ Resource deficiency reporting.—
 
 &emsp;&emsp;(A)
 
-In general.—When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+In general.—When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate a report that includes—
 
 &emsp;&emsp;&emsp;(i) for the last full fiscal year preceding the report, a statement of the number of security zones established for especially hazardous cargo shipments;
 

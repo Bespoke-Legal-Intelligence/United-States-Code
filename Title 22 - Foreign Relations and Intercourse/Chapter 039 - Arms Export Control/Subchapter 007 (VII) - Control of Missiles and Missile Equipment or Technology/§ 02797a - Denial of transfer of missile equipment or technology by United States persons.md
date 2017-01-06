@@ -54,7 +54,7 @@ This chapter, referred to in subsec. (a)(2)(A)(ii), was in the original "this Ac
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11,1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

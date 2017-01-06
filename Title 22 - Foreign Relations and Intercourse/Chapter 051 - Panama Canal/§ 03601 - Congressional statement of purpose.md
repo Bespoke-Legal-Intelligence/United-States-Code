@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Effective Date
 
-Pub. L. 96–70, title III, §3304, Sept. 27, 1979, 93 Stat. 500, provided that: "Except as provided in sections 1231 \[enacting section 3671 of this title and amending sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees\], 1232 \[enacting section 3672 ofthis title and provisions set out as a note under section 3672 of this title\], 1241 \[amending section 8336 of Title 5 and enacting provisions set out as notes under section 8336 of Title 5\], 1242 \[amending section 8339 of Title 5 and enacting provisions set out as notes under section 8339 of Title 5\], 1261 \[enacting section 3691 of this title and provisions set out as a note under section 3691 of this title\], 1605 \[enacting section 3795 of this title and provisions set out as a note under section 3795 of this title\], 2203 \[enacting section 3843 of this title and provisions set out as a note under section 3843 of this title\], 2402 \[enacting section 3852 of this title and provisions set out as a note under section 3852 of this title\], 3101 \[enacting section 3861 of this title\], and 3201 \[amending sections 1101 and 1182 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under sections 1101 and 1182 of Title 8\] of this Act, the preceding provisions of this Act \[see Short Title note below\] shall take effect on the date on which the Panama Canal Treaty of 1977 enters into force \[Oct. 1, 1979\]."
+Pub. L. 96–70, title III, §3304, Sept. 27, 1979, 93 Stat. 500, provided that: "Except as provided in sections 1231 \[enacting section 3671 of this title and amending sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees\], 1232 \[enacting section 3672 of this title and provisions set out as a note under section 3672 of this title\], 1241 \[amending section 8336 of Title 5 and enacting provisions set out as notes under section 8336 of Title 5\], 1242 \[amending section 8339 of Title 5 and enacting provisions set out as notes under section 8339 of Title 5\], 1261 \[enacting section 3691 of this title and provisions set out as a note under section 3691 of this title\], 1605 \[enacting section 3795 of this title and provisions set out as a note under section 3795 of this title\], 2203 \[enacting section 3843 of this title and provisions set out as a note under section 3843 of this title\], 2402 \[enacting section 3852 of this title and provisions set out as a note under section 3852 of this title\], 3101 \[enacting section 3861 of this title\], and 3201 \[amending sections 1101 and 1182 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under sections 1101 and 1182 of Title 8\] of this Act, the preceding provisions of this Act \[see Short Title note below\] shall take effect on the date on which the Panama Canal Treaty of 1977 enters into force \[Oct. 1, 1979\]."
 
 #### Short Title of 1999 Amendment
 
@@ -32,7 +32,7 @@ Pub. L. 100–705, §1, Nov. 19, 1988, 102 Stat. 4685, provided that: "This Act 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–203, title V, §5421, Dec. 22, 1987, 101 Stat. 1330–271, provided that: "This part \[part 2 of subtitle E (§§5421–5429) of title V of Pub. L. 100–203, enacting section 3714 of this title, amending sections 3683, 3711, 3712, 3713, 3751, 3753, 3754, 3792, and 3793 of this title and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3683 of this title\] may be referred to as the 'Panama Canal Revolving Fund Act'."
+Pub. L. 100–203, title V, §5421, Dec. 22, 1987, 101 Stat. 1330–271, provided that: "This part \[part 2 of subtitle E\(§§5421–5429) of title V of Pub. L. 100–203, enacting section 3714 of this title, amending sections 3683, 3711, 3712, 3713, 3751, 3753, 3754, 3792, and 3793 of this title and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3683 of this title\] may be referred to as the 'Panama Canal Revolving Fund Act'."
 
 #### Short Title of 1985 Amendment
 
@@ -90,7 +90,7 @@ Coordination of Pay and Employment Practices
 
 Panama Canal Commission
 
-1–301. The functions vested in the President and delegated to the Secretary of Defense in this Section 1–3 of this Order shall be carried out by the Secretary of Defense, who shall, in carrying out the said functions, provide, by redelegation or otherwise, for their performance, in a manner consistent with paragraph 3 of Article III of the Panama Canal Treaty of 1977, by the Panama Canal Commission.
+1–301. The functions vested in the President and delegated to the Secretary of Defense in this Section 1–3 ofthis Order shall be carried out by the Secretary of Defense, who shall, in carrying out the said functions, provide, by redelegation or otherwise, for their performance, in a manner consistent with paragraph 3 of Article III of the Panama Canal Treaty of 1977, by the Panama Canal Commission.
 
 1–302. The authority of the President under Section 1104 of the Panama Canal Act of 1979 (93 Stat. 457; 22 U.S.C. 3614) to fix the compensation of and to define the authorities and duties of the Deputy Administrator and the Chief Engineer is delegated to the Secretary of Defense.
 

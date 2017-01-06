@@ -22,7 +22,7 @@ It shall be unlawful to export from the United States any narcotic drug in sched
 
 #### (b) Exception for exportation for special scientific purposes
 
-Notwithstanding subsection (a) of this section, the Attorney General may authorize any narcotic drug (including crude opium and coca leaves) in schedule I, II, III, or IV to be exported from the United States to a country which is a party to any of the international instruments mentioned in subsection (a) of this section if the particular drug is to be applied to a special scientific purpose in the country of destination and the authorities of such country will permit the importation of the particular drug for such purpose.
+Notwithstanding subsection (a), the Attorney General may authorize any narcotic drug (including crude opium and coca leaves) in schedule I, II, III, or IV to be exported from the United States to a country which is a party to any of the international instruments mentioned in subsection (a) if the particular drug is to be applied to a special scientific purpose in the country of destination and the authorities of such country will permit the importation of the particular drug for such purpose.
 
 #### (c) Nonnarcotic controlled substances in schedule I or II
 
@@ -38,7 +38,7 @@ It shall be unlawful to export from the United States any nonnarcotic controlled
 
 #### (d) Exception for exportation for special scientific purposes
 
-Notwithstanding subsection (c) of this section, the Attorney General may authorize any nonnarcotic controlled substance in schedule I or II to be exported from the United States if the particular substance is to be applied to a special scientific purpose in the country of destination and the authorities of such country will permit the importation of the particular drug for such purpose.
+Notwithstanding subsection (c), the Attorney General may authorize any nonnarcotic controlled substance in schedule I or II to be exported from the United States if the particular substance is to be applied to a special scientific purpose in the country of destination and the authorities of such country will permit the importation of the particular drug for such purpose.
 
 #### (e) Nonnarcotic controlled substances in schedule III or IV; controlled substances in schedule V
 
@@ -52,7 +52,7 @@ It shall be unlawful to export from the United States to any other country any n
 
 #### (f) Exception for exportation for subsequent export
 
-Notwithstanding subsections (a)(4) and (c)(3) of this section, the Attorney General may authorize any controlled substance that is in schedule I or II, or is a narcotic drug in schedule III or IV, to be exported from the United States to a country for subsequent export from that country to another country, if each of the following conditions is met:
+Notwithstanding subsections (a)(4) and (c)(3), the Attorney General may authorize any controlled substance that is in schedule I or II, or is a narcotic drug in schedule III or IV, to be exported from the United States to a country for subsequent export from that country to another country, if each of the following conditions is met:
 
 &emsp;(1) Both the country to which the controlled substance is exported from the United States (referred to in this subsection as the "first country") and the country to which the controlled substance is exported from the first country (referred to in this subsection as the "second country") are parties to the Single Convention on Narcotic Drugs, 1961, and the Convention on Psychotropic Substances, 1971.
 
@@ -114,5 +114,5 @@ Subsec. (g). Pub. L. 114–89, §4(2), added subsec. (g).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters intoforce in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 

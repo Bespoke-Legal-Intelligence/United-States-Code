@@ -36,7 +36,7 @@ Subsec. (a)(3). Pub. L. 110–324, §3(e)(1)(C), substituted "$865" for "$846".
 
 Subsec. (a)(4). Pub. L. 110–324, §3(e)(1)(D), substituted "$865" and "$165" for "$846" and "$162", respectively.
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made byPub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(1). Pub. L. 109–461, §1005(e)(1)(A), substituted "$452" for "$438".
 
@@ -230,7 +230,7 @@ Subsec. (b). Pub. L. 97–66, §204(a), added subsec. (b).
 
 <b>1971</b>—Pub. L. 92–197 substituted "$92", "$133", "$172", and "$172" and "$34" for "$88", "$127", "$164" and "164" and "$32", in pars. (1), (2), (3), and (4). respectively.
 
-<b>1970</b>—Pub. L. 91–262 substituted "$88", "$127", "$164", and "$164" and "$32", for "$80", "$115", "$149", and "$149" and "$29", in pars. (1), (2), (3), and (4), respectively.
+<b>1970</b>—Pub. L. 91–262 substituted "$88", "$127", "$164", and "$164" and "$32", for "$80", "$115", "$149", and"$149" and "$29", in pars. (1), (2), (3), and (4), respectively.
 
 <b>1966</b>—Pub. L. 89–730 substituted "$80", "$115", "$149", and "$29", for "$77", "$110", "$143", and "$143" and "$28", in pars. (1), (2), (3), and (4), respectively.
 

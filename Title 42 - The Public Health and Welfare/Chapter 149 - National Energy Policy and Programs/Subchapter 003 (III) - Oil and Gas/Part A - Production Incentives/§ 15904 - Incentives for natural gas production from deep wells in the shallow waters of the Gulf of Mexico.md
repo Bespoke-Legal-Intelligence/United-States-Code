@@ -44,7 +44,7 @@ Not later than 180 days after August 8, 2005, in addition to any other regulatio
 
 #### (c) Limitations
 
-The Secretary may place limitations on the royalty relief granted under this section basedon market price. The royalty relief granted under this section shall not apply to a lease for which deep water royalty relief is available.
+The Secretary may place limitations on the royalty relief granted under this section based on market price. The royalty relief granted under this section shall not apply to a lease for which deep water royalty relief is available.
 
 (Pub. L. 109–58, title III, §344, Aug. 8, 2005, 119 Stat. 702.)
 

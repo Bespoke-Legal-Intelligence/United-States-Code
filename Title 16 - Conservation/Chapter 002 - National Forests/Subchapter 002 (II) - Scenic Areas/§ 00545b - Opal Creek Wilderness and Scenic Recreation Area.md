@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Bull of the Woods Wilderness
 
-&emsp;The term "Bull of the Woods Wilderness" means the land designated as wilderness by section 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
+&emsp;The term "Bull of the Woods Wilderness" means the land designated as wilderness bysection 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
 
 #### (2) Opal Creek Wilderness
 
@@ -60,7 +60,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
-&emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record asof March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
+&emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
 &emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notes and depicted on the plat of mineral survey number 887, Oregon; and
 
@@ -128,7 +128,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2), to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
 
-&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintainingthe character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
+&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
 
 > &emsp;In order to comply with subsection (f)(2), the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
 
@@ -304,7 +304,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after November 12, 1996, the Secretary shall file a map and aboundary description for the Opal Creek Wilderness and for the Scenic Recreation Area with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+&emsp;&emsp;As soon as practicable after November 12, 1996, the Secretary shall file a map and a boundary description for the Opal Creek Wilderness and for the Scenic Recreation Area with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
 #### (B) Force and effect
 
@@ -326,7 +326,7 @@ The purposes of this section are—
 
 #### (2) Land to be offered by Rosboro
 
-&emsp;The land referred to in paragraph (1) as the land to be offered by Rosboro shall comprise Section 36, Township 8 South, Range 4 East, Willamette Meridian.
+&emsp;The land referred to in paragraph (1) as the land to be offered by Rosboro shall compriseSection 36, Township 8 South, Range 4 East, Willamette Meridian.
 
 #### (3) Land to be conveyed by the United States
 

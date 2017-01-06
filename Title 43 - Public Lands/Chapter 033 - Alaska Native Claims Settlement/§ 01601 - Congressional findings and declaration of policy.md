@@ -38,7 +38,7 @@ Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: "This Act
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: "This Act \[amending sections 1606, 1617, 1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the 'Alaska Land Status Technical Corrections Act of 1992'."
+Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: "This Act \[amending sections 1606, 1617,1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the 'Alaska Land Status Technical Corrections Act of 1992'."
 
 #### Short Title of 1988 Amendment
 
@@ -70,7 +70,7 @@ Pub. L. 100–241, §2, Feb. 3, 1988, 101 Stat. 1788, provided that: "The Congre
 
 &emsp;"(4) Natives have differing opinions as to whether the Native Corporation, as originally structured by the Alaska Native Claims Settlement Act, is well adapted to the reality of life in Native villages and to the continuation of traditional Native cultural values;
 
-&emsp;"(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each NativeCorporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
+&emsp;"(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each Native Corporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
 
 &emsp;"(6) among other things, the shareholders of each Native Corporation must be permitted to decide—
 
@@ -130,7 +130,7 @@ Pub. L. 100–241, §17, Feb. 3, 1988, 101 Stat. 1814, provided that:
 
 "(a) No provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\], exercise of authority pursuant to this Act, or change made by, or pursuant to, this Act in the status of land shall be construed to validate or invalidate or in any way affect—
 
-&emsp;"(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 461 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
+&emsp;"(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 5101 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
 
 &emsp;"(2) any assertion that Indian country (as defined by 18 U.S.C. 1151 or any other authority) exists or does not exist within the boundaries of the State of Alaska.
 

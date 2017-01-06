@@ -18,7 +18,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Alabama | 1    |
+| Alabama | 1&nbsp;&nbsp;&nbsp; |
 | Alaska | 1&nbsp;&nbsp;&nbsp; |
 | Arizona | 1&nbsp;&nbsp;&nbsp; |
 | Arkansas | 1&nbsp;&nbsp;&nbsp; |
@@ -41,7 +41,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 | Massachusetts | 1&nbsp;&nbsp;&nbsp; |
 | Michigan | 1&nbsp;&nbsp;&nbsp; |
 | Minnesota | 2&nbsp;&nbsp;&nbsp; |
-| Mississippi | 1&nbsp;&nbsp;&nbsp; |
+| Mississippi | 1    |
 | Missouri | 1&nbsp;&nbsp;&nbsp; |
 | Montana | 5&nbsp;&nbsp;&nbsp; |
 | Nebraska | 1&nbsp;&nbsp;&nbsp; |
@@ -215,7 +215,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) Establishment
 
-&emsp;The order shall establish an Executive Committee to administer the terms and provisions of the order, as provided in this subsection,under the direction of the Board and consistent with the policies determined by the Board.
+&emsp;The order shall establish an Executive Committee to administer the terms and provisions of the order, as provided in this subsection, under the direction of the Board and consistent with the policies determined by the Board.
 
 #### (2) Membership
 
@@ -235,7 +235,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) Plans or projects
 
-&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research, consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
+&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research,consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
 
 #### (B) Budgets
 
@@ -317,7 +317,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The rate of assessment under this paragraph may be raised or lowered not morethan 2/10 of a cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and the Secretary, except that the rate of assessment under this paragraph shall not exceed 4 cents per pound of greasy wool.
+&emsp;&emsp;&emsp;The rate of assessment under this paragraph may be raised or lowered not more than 2/10 of a cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and the Secretary, except that the rate of assessment under this paragraph shall not exceed 4 cents per pound of greasy wool.
 
 #### (3) Direct processing
 
@@ -435,7 +435,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
+&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by theBoard under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
 
 #### (2) Exceptions
 

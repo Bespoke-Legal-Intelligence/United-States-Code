@@ -32,7 +32,7 @@ The Director may issue and serve a notice of charges under this section upon an 
 
 #### (c) Effective date
 
-An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.
+An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effectiveat the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.
 
 (Pub. L. 102–550, title XIII, §1341, as added Pub. L. 110–289, div. A, title I, §1130(c)(2), July 30, 2008, 122 Stat. 2708.)
 

@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Not later than one year after November 8, 2007, the Secretary shall establish and maintain a database with an inventory of the Nation's levees.
+&emsp;Not later than 1 year after December 16, 2016, the Secretary shall establish and maintain a database with an inventory of the Nation's levees.
 
 #### (2) Contents
 
 &emsp;The database shall include—
 
-&emsp;&emsp;(A) location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, Indian tribes, Federal agencies, and other entities;
+&emsp;&emsp;(A) location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, regional districts, Indian tribes, Federal agencies, and other entities;
 
 &emsp;&emsp;(B) utilizing such information as is available, the general condition of each levee; and
 
@@ -18,9 +18,9 @@
 
 #### (3) Availability of information
 
-#### (A) Availability to Federal, State, and local governmental agencies
+#### (A) Availability to Federal, State, regional, tribal, and local governmental agencies
 
-&emsp;&emsp;The Secretary shall make all of the information in the database available to appropriate Federal, State, and local governmental agencies.
+&emsp;&emsp;The Secretary shall make all of the information in the database available to appropriate Federal, State, regional, tribal, and local governmental agencies.
 
 #### (B) Availability to the public
 
@@ -54,21 +54,31 @@
 
 &emsp;In carrying out the inventory and review, the Secretary shall use the levee safety action classification criteria to determine whether a levee should be classified in the inventory as requiring a more comprehensive inspection.
 
-#### (4) State and tribal participation
+#### (4) State, regional, and tribal participation
 
-&emsp;At the request of a State or Indian tribe with respect to any levee subject to review under this subsection, the Secretary shall—
+&emsp;At the request of a State, regional district, or Indian tribe with respect to any levee subject to review under this subsection, the Secretary shall—
 
-&emsp;&emsp;(A) allow an official of the State or Indian tribe to participate in the review of the levee; and
+&emsp;&emsp;(A) allow an official of the State, regional district, or Indian tribe to participate in the review of the levee; and
 
-&emsp;&emsp;(B) provide information to the State or Indian tribe relating to the location, construction, operation, or maintenance of the levee.
+&emsp;&emsp;(B) provide information to the State, regional district, or Indian tribe relating to the location, construction, operation, or maintenance of the levee.
 
 #### (5) Exceptions
 
-&emsp;In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the tribal government, as applicable, requests an exemption from the review.
+&emsp;In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State, regional district, or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the regional district or tribal government, as applicable, requests an exemption from the review.
 
-(Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, §3016(d), June 10, 2014, 128 Stat. 1292.)
+(Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, §3016(d), June 10, 2014, 128 Stat. 1292; Pub. L. 114–322, title I, §1130(b), Dec. 16, 2016, 130 Stat. 1650.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–322, §1130(b)(1)(A), substituted "1 year after December 16, 2016," for "one year after November 8, 2007,".
+
+Subsec. (a)(2)(A). Pub. L. 114–322, §1130(b)(1)(B), substituted "States, regional districts, Indian tribes, Federal agencies, and other entities" for "States, Indian tribes, Federal agencies, and other entities".
+
+Subsec. (a)(3)(A). Pub. L. 114–322, §1130(b)(1)(C), substituted "Federal, State, regional, tribal, and local" for "Federal, State, and local" in heading and text.
+
+Subsec. (c)(4). Pub. L. 114–322, §1130(b)(2)(A), substituted "State, regional, and tribal" for "State and tribal" in heading and "State, regional district, or Indian tribe" for "State or Indian tribe" wherever appearing in text.
+
+Subsec. (c)(5). Pub. L. 114–322, §1130(b)(2)(B), substituted "State, regional district, or Indian tribe" for "State or Indian tribe" and "chief executive of the regional district or tribal government" for "chief executive of the tribal government".
 
 <b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–121, §3016(d)(1), substituted "and updated levee information provided by States, Indian tribes, Federal agencies, and other entities" for "and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies".
 

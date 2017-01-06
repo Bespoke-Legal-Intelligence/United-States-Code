@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375, §541(b)(2)(A), inserted before period at end "pursuant to section 6371(a)of this title, unless such retirement is waived under section 6371(b) of this title".
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §541(b)(2)(A), inserted before period at end "pursuant to section 6371(a) of this title, unless such retirement is waived under section 6371(b) of this title".
 
 Subsec. (c). Pub. L. 108–375, §541(b)(2)(B), added subsec. (c).
 

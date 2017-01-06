@@ -46,7 +46,7 @@ In this part:
 
 #### (4) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (5) Program
 

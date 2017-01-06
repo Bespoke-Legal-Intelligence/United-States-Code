@@ -12,7 +12,7 @@
 
 (c) Subsection (a) does not apply to an alien if—
 
-&emsp;(1) each natural parent of the alien (or, in the case of an adopted alien, each adoptiveparent of the alien) is or was a citizen (whether by birth or naturalization);
+&emsp;(1) each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization);
 
 &emsp;(2) the alien permanently resided in the United States prior to attaining the age of 16; and
 

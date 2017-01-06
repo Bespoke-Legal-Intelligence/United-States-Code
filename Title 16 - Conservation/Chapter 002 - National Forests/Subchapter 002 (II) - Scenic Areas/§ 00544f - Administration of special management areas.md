@@ -32,7 +32,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (f) Guidelines for land use ordinances
 
-(1) <sup>2</sup> Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. TheSecretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
+(1) <sup>2</sup> Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
 
 #### (h) <sup>3</sup> Adoption of special management area land use ordinances
 
@@ -78,7 +78,7 @@ Upon receipt of notification of nonconcurrence by the Secretary, the Commission 
 
 #### (m) Subsequent compliance
 
-In the event the Commission has adopted an ordinance pursuant to this section, the affected county may thereafter, upon written notice to the Commission and to the Secretary, elect to adopt a special management area land use ordinance, in which event it shall comply with the provisions of this section for adoption of special management area land use ordinances. Upon concurrence of such land use ordinances by the Secretary they shall supersede any special management area land use ordinances for the county development by the Commission, subject to valid existing rights.
+In the event the Commission has adopted an ordinance pursuant to this section, the affected county may thereafter, upon written notice to the Commission and to the Secretary, elect to adopt a special management area land use ordinance, in which event it shall comply with the provisions of this section for adoption of specialmanagement area land use ordinances. Upon concurrence of such land use ordinances by the Secretary they shall supersede any special management area land use ordinances for the county development by the Commission, subject to valid existing rights.
 
 #### (n) Effect of Secretary's non-concurrence
 

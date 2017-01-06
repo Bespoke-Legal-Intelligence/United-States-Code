@@ -12,13 +12,13 @@
 
 #### (b) Requirement of provision of certain services
 
-The Secretary may not make a grant under subsection (a) of this section unless the applicant for the grant agrees that, with respect to patients participating in the project carried out with the grant, services provided pursuant to the grant will include—
+The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, with respect to patients participating in the project carried out with the grant, services provided pursuant to the grant will include—
 
 &emsp;(1) monitoring, in clinical laboratories, of the condition of such patients;
 
 &emsp;(2) clinical intervention for infection with the etiologic agent for acquired immune deficiency syndrome, including measures for the prevention of conditions arising from the infection;
 
-&emsp;(3) information and counseling on the availability of treatments for such infection approved by the Commissioner of Food andDrugs, on the availability of treatments for such infection not yet approved by the Commissioner, and on the reports issued by the AIDS Research Advisory Committee under section 300cc–3(c)(2)(B) of this title;
+&emsp;(3) information and counseling on the availability of treatments for such infection approved by the Commissioner of Food and Drugs, on the availability of treatments for such infection not yet approved by the Commissioner, and on the reports issued by theAIDS Research Advisory Committee under section 300cc–3(c)(2)(B) of this title;
 
 &emsp;(4) support groups; and
 
@@ -26,17 +26,17 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (c) Limitation on imposition of charges for services
 
-The Secretary may not make a grant under subsection (a) of this section unless the applicant for the grant agrees that, if the applicant will routinely impose a charge for providing services pursuant to the grant, the applicant will not impose the charge on any individual seeking such services who is unable to pay the charge.
+The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant will routinely impose a charge for providing services pursuant to the grant, the applicant will not impose the charge on any individual seeking such services who is unable to pay the charge.
 
 #### (d) Evaluation and reports
 
-(1) The Secretary may not make a grant under subsection (a) of this section unless the applicant for the grant agrees, with respect to the project carried out pursuant to subsection (a) of this section, to submit to the Secretary—
+(1) The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees, with respect to the project carried out pursuant to subsection (a), to submit to the Secretary—
 
 &emsp;(A) information sufficient to assist in the replication of the model protocol developed pursuant to the project; and
 
 &emsp;(B) such reports as the Secretary may require.
 
-(2) The Secretary shall provide for evaluations of projects carried out pursuant to subsection (a) of this section and shall annually submit to the Congress a report describing such projects. The report shall include the findings made as a result of such evaluations and may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to the program established in this section.
+(2) The Secretary shall provide for evaluations of projects carried out pursuant to subsection (a) and shall annually submit to the Congress a report describing such projects. The report shall include the findings made as a result of such evaluations and may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to the program established in this section.
 
 #### (e) Authorization of appropriations
 

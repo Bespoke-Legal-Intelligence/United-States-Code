@@ -96,7 +96,7 @@ With respect to the costs of operating a program through a grant under this sect
 
 #### (f) Limitation
 
-Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly fundedarea health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
+Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly funded area health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
 
 #### (g) Award
 

@@ -70,7 +70,7 @@ The Secretary of Agriculture shall enroll land in the healthy forests reserve pr
 
 &emsp;&emsp;&emsp;(iv) land that is held in fee title by an Indian tribe; or
 
-&emsp;&emsp;&emsp;(v) land that is owned by a native corporation formed under section 477 of title 25 or section 1607 of title 43; or
+&emsp;&emsp;&emsp;(v) land that is owned by a native corporation formed under section 5124 of title 25 or section 1607 of title 43; or
 
 &emsp;&emsp;&emsp;(vi) a combination of 1 or more types of land described in clauses (i) through (v).
 
@@ -118,5 +118,5 @@ Subsec. (e)(3)(C). Pub. L. 113–79, §8203(a)(1), substituted "clauses (i) and 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

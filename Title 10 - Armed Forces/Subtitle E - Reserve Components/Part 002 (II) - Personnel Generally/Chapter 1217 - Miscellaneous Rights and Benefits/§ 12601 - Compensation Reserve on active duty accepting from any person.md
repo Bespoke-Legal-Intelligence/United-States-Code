@@ -1,6 +1,6 @@
 ### §12601. Compensation: Reserve on active duty accepting from any person
 
-Any Reserve who, before being ordered to active duty, was receiving compensation from anyperson may, while he is on that duty, receive compensation from that person.
+Any Reserve who, before being ordered to active duty, was receiving compensation from any person may, while he is on that duty, receive compensation from that person.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 
@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in section 1033 of th
 
 #### Effective Date
 
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

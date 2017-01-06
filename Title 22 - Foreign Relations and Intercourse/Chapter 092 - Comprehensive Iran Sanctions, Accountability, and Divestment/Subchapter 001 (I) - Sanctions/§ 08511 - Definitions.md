@@ -36,7 +36,7 @@ In this subchapter:
 
 #### (9) State
 
-&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, AmericanSamoa, Guam, the United States Virgin Islands, and any other territory or possession of the United States.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other territory or possession of the United States.
 
 #### (10) United States person
 
@@ -56,7 +56,7 @@ In this subchapter:
 
 This subchapter, referred to in introductory provisions, was in the original "this title", meaning Pub. L. 111–195, title I, July 1, 2010, 124 Stat. 1316, which enacted this subchapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacted and amended provisions set out as notes under section 1701 of Title 50. For complete classification of title I to the Code, see Tables.
 
-Section 102 of this Act, referred to in par. (2), is section 102 of Pub. L. 111–195, which enacted and amended provisions set out as notes under section 1701 of Title 50, War and National Defense.
+Section 102 of this Act, referred to in par. (2), is section 102 of Pub. L. 111–195, which enacted and amendedprovisions set out as notes under section 1701 of Title 50, War and National Defense.
 
 #### Amendments
 

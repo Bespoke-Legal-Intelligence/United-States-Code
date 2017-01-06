@@ -1,0 +1,52 @@
+### §2289a. Consideration of measures
+
+#### (a) Definitions
+
+In this section, the following definitions apply:
+
+#### (1) Natural feature
+
+&emsp;The term "natural feature" means a feature that is created through the action of physical, geological, biological, and chemical processes over time.
+
+#### (2) Nature-based feature
+
+&emsp;The term "nature-based feature" means a feature that is created by human design, engineering, and construction to provide risk reduction in coastal areas by acting in concert with natural processes.
+
+#### (b) Requirement
+
+In studying the feasibility of projects for flood risk management, hurricane and storm damage reduction, and ecosystem restoration the Secretary shall, with the consent of the non-Federal sponsor of the feasibility study, consider, as appropriate—
+
+&emsp;(1) natural features;
+
+&emsp;(2) nature-based features;
+
+&emsp;(3) nonstructural measures; and
+
+&emsp;(4) structural measures.
+
+#### (c) Report to Congress
+
+#### (1) In general
+
+&emsp;Not later than February 1, 2020, and 5 and 10 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of subsection (b).
+
+#### (2) Contents
+
+&emsp;The report under paragraph (1) shall include, at a minimum, the following:
+
+&emsp;&emsp;(A) A description of guidance or instructions issued, and other measures taken, by the Secretary and the Chief of Engineers to implement subsection (b).
+
+&emsp;&emsp;(B) An assessment of the costs, benefits, impacts, and trade-offs associated with measures recommended by the Secretary for coastal risk reduction and the effectiveness of those measures.
+
+&emsp;&emsp;(C) A description of any statutory, fiscal, or regulatory barriers to the appropriate consideration and use of a full array of measures for coastal risk reduction.
+
+(Pub. L. 114–322, title I, §1184, Dec. 16, 2016, 130 Stat. 1679.)
+
+#### Codification
+
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### "Secretary" Defined
+
+Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) Function and operation
 
-There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
+There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
 
 #### (b) Appointment of Assistant Secretary
 
@@ -16,7 +16,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (3) The Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging shall—
 
-&emsp;(A)(i) evaluate the adequacy of outreach under subchapter III of this chapter and subchapter X of this chapter for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
+&emsp;(A)(i) evaluate the adequacy of outreach under subchapter III and subchapter X for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
 
 &emsp;(ii) include a description of the results of such evaluation and recommendations in the annual report required by section 3018(a) of this title to be submitted by the Assistant Secretary;
 
@@ -32,13 +32,13 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(G) develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
 
-&emsp;(H) develop and provide technical assistance and training programs to grantees under subchapter X of this chapter;
+&emsp;(H) develop and provide technical assistance and training programs to grantees under subchapter X;
 
 &emsp;(I) promote coordination—
 
-&emsp;&emsp;(i) between the administration of subchapter III of this chapter and the administration of subchapter X of this chapter; and
+&emsp;&emsp;(i) between the administration of subchapter III and the administration of subchapter X; and
 
-&emsp;&emsp;(ii) between programs established under subchapter III of this chapter by the Assistant Secretary and programs established under subchapter X of this chapter by the Assistant Secretary;
+&emsp;&emsp;(ii) between programs established under subchapter III by the Assistant Secretary and programs established under subchapter X by the Assistant Secretary;
 
 > &emsp;including sharing among grantees information on programs funded, and on training and technical assistance provided, under such subchapters; and
 
@@ -96,21 +96,23 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 
-&emsp;(H) administer the National Ombudsman Resource Center established under section 3012(a)(21) <sup>1</sup> of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
+&emsp;(H) administer the National Ombudsman Resource Center established under section 3012(a)(18) of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
 
 &emsp;(I) advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
 
 &emsp;(J) submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the effectiveness of services provided under section 3027(a)(9) of this title and section 3058g of this title;
 
-&emsp;(K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals; and
+&emsp;(K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals;
 
-&emsp;(L) not later than 180 days after September 30, 1992, establish standards applicable to the training required by section 3058g(h)(4) of this title.
+&emsp;(L) not later than 180 days after April 19, 2016, establish standards applicable to the training required by section 3058g(h)(5) of this title; and
+
+&emsp;(M) collect and analyze best practices related to responding to elder abuse, neglect, and exploitation in long-term care facilities, and publish a report of such best practices.
 
 #### (e) Elder abuse prevention and services
 
 (1) The Assistant Secretary is authorized to designate within the Administration a person to have responsibility for elder abuse prevention and services.
 
-(2) It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
+(2) It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs—
 
 &emsp;(A) to develop objectives, priorities, policy, and a long-term plan for—
 
@@ -144,17 +146,23 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 #### (f) Mental health services
 
-(1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental health services authorized under this chapter.
+(1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental and behavioral health services authorized under this chapter.
 
 (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer's disease and related neurological disorders with neurological and organic brain dysfunction.
 
-(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527.)
-
-#### References in Text
-
-Section 3012(a)(21) of this title, referred to in subsec. (d)(3)(H), was redesignated section 3012(a)(18) of this title and section 3012(a)(24) was redesignated section 3012(a)(21) by Pub. L. 106–501, title II, §201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
+(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527; Pub. L. 114–144, §§3(a), 9(2), Apr. 19, 2016, 130 Stat. 335, 352.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(3)(H). Pub. L. 114–144, §3(a)(1)(A), substituted "3012(a)(18)" for "3012(a)(21)".
+
+Subsec. (d)(3)(L). Pub. L. 114–144, §3(a)(1)(C), substituted "April 19, 2016" for "September 30, 1992" and "3058g(h)(5) of this title; and" for "3058g(h)(4) of this title."
+
+Subsec. (d)(3)(M). Pub. L. 114–144, §3(a)(1)(B), (D), added subpar. (M).
+
+Subsec. (e)(2). Pub. L. 114–144, §3(a)(2), inserted ", and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs" after "and services".
+
+Subsec. (f)(1). Pub. L. 114–144, §9(2), inserted "and behavioral" after "mental".
 
 <b>2006</b>—Subsecs. (e), (f). Pub. L. 109–365 added subsecs. (e) and (f).
 
@@ -172,7 +180,7 @@ Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted "a Director of
 
 Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted "Director" for "Associate Commissioner" in introductory provisions and "Assistant Secretary" for "Commissioner" in subpars. (B) to (F) and (H).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out "(hereinafter in this chapter referred to as the 'Administration')" after "Administration on Aging" and "(hereinafter in this chapter referred to as the 'Commissioner')" after "Commissioner on Aging" and inserted "(including the functions of the Commissioner carried out through regional offices)" after "functions of the Commissioner".
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out "(hereinafter in this chapter referred to asthe 'Administration')" after "Administration on Aging" and "(hereinafter in this chapter referred to as the 'Commissioner')" after "Commissioner on Aging" and inserted "(including the functions of the Commissioner carried out through regional offices)" after "functions of the Commissioner".
 
 Subsec. (c)(1). Pub. L. 102–375, §102(b)(1)(A), substituted "Administration" for "Administration on Aging".
 
@@ -200,7 +208,7 @@ Subsec. (c). Pub. L. 100–175, §107(a), added subsec. (c).
 
 Pub. L. 98–459, §201(2), which directed that "the functions of the Administration" be substituted for "his functions" in second sentence could not be executed because "his functions" appeared only in third sentence.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–478 substituted "subchapter IX of this chapter" for "subchapter VI of this chapter and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973".
+<b>1978</b>—Subsec. (a). Pub. L. 95–478 substituted "subchapter IX" for "subchapter VI and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973".
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–351 struck out provisions which had authorized the Secretary of Health, Education, and Welfare, under certain conditions, to approve a delegation of the functions of the Commissioner on Aging to officers not directly responsible to the Commissioner.
 
@@ -227,6 +235,4 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 #### Modification of Delegation of Functions of Commissioner on Aging in Effect on July 12, 1974
 
 Pub. L. 93–351, §2(b), July 12, 1974, 88 Stat. 357, provided that: "Any delegation of the functions of the Commissioner on Aging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

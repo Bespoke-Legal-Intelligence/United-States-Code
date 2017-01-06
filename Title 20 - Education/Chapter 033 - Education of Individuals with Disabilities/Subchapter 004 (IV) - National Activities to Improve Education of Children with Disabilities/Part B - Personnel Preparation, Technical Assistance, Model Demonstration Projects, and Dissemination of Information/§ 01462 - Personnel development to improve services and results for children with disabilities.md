@@ -90,7 +90,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;In carrying out paragraph (1)(B), the Secretary shall support not less than 1 of the following activities:
 
-&emsp;&emsp;(A) Enhancing and restructuring existing programs or developing preservice teacher education programs to prepare special education teachers, at colleges or departments of education within institutions of higher education, by incorporating an extended (such as an additional 5th year) clinical learning opportunity, field experience, or supervised practicum into such programs.
+&emsp;&emsp;(A) Enhancing and restructuring existing programs or developing preservice teacher education programs to prepare special education teachers, at colleges or departmentsof education within institutions of higher education, by incorporating an extended (such as an additional 5th year) clinical learning opportunity, field experience, or supervised practicum into such programs.
 
 &emsp;&emsp;(B) Creating or supporting teacher-faculty partnerships (such as professional development schools) that—
 
@@ -124,7 +124,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(i) have prior training in educational and other related service fields; and
 
-&emsp;&emsp;&emsp;(ii) are studying to obtain degrees, certificates, or licensure that will enable the persons to assist children with low incidence disabilities to achieve the objectives set out in their individualized educationprograms described in section 1414(d) of this title, or to assist infants and toddlers with low incidence disabilities to achieve the outcomes described in their individualized family service plans described in section 1436 of this title.
+&emsp;&emsp;&emsp;(ii) are studying to obtain degrees, certificates, or licensure that will enable the persons to assist children with low incidence disabilities to achieve the objectives set out in their individualized education programs described in section 1414(d) of this title, or to assist infants and toddlers with low incidence disabilities to achieve the outcomes described in their individualized family service plans described in section 1436 of this title.
 
 &emsp;&emsp;(B) Providing personnel from various disciplines with interdisciplinary training that will contribute to improvement in early intervention, educational, and transitional results for children with low incidence disabilities.
 
@@ -168,7 +168,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall support leadership preparation activities that are consistent with the objectives described in subsection (a).
+&emsp;In carrying out this section, the Secretary shall support leadership preparation activitiesthat are consistent with the objectives described in subsection (a).
 
 #### (2) Authorized activities
 
@@ -196,7 +196,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (3) Acceptance by States of personnel preparation requirements
 
-&emsp;The Secretary may require eligible entities to provide in the eligible entities' applicationsassurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
+&emsp;The Secretary may require eligible entities to provide in the eligible entities' applications assurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
 
 #### (f) Selection of recipients
 

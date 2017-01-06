@@ -70,7 +70,7 @@ This chapter shall apply—
 
 &emsp;&emsp;(III) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
 
-&emsp;&emsp;(IV) Ash from incinerators or other thermal destruction systems not containingtoxic chemicals, heavy metals, or incompletely burned plastics.
+&emsp;&emsp;(IV) Ash from incinerators or other thermal destruction systems not containing toxic chemicals, heavy metals, or incompletely burned plastics.
 
 (C)(i) Garbage described in subparagraph (B)(ii)(I) may not be discharged within 3 nautical miles of land.
 
@@ -106,7 +106,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 (ii) Garbage described in clauses (ii) and (iii) of subparagraph (A) may not be discharged within 12 nautical miles of land.
 
-(C) This paragraph applies to any ship that is owned or operated by the Department of the Navy that, as determined by the Secretary of the Navy—
+(C) This paragraph applies to any ship that is owned or operated by the Department of theNavy that, as determined by the Secretary of the Navy—
 
 &emsp;(i) has unique military design, construction, manning, or operating requirements; and
 
@@ -158,7 +158,7 @@ Nothing in this section shall be construed to restrict in a manner inconsistent 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the "Act to Prevent Pollution from Ships" which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the "Act to Prevent Pollution from Ships" which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (f)(4)(B) and (g), is section 1003(e) of Pub. L. 103–160, which is set out below.
 
@@ -206,7 +206,7 @@ Subsec. (c)(2) to (4). Pub. L. 104–201, §324(a)(2), added pars. (2) and (3) a
 
 Subsec. (e)(4)(A). Pub. L. 104–201, §324(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Beginning on October 1, 1994, and each year thereafter until October 1, 2000, the amount and nature of the discharges in special areas, not otherwise authorized under Annex V to the Convention, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy."
 
-<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–160, §1003(a), substituted "as follows:" and cls. (i) to (iii) for "after 5years after the effective date of this paragraph to a ship referred to in paragraph (1)(A)."
+<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–160, §1003(a), substituted "as follows:" and cls. (i) to (iii) for "after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A)."
 
 Subsecs. (c), (d). Pub. L. 103–160, §1003(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (g).
 

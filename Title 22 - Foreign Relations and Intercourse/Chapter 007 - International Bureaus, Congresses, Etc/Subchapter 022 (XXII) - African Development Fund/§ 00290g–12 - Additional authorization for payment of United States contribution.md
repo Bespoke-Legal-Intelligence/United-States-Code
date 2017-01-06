@@ -1,6 +1,6 @@
 ### §290g–12. Additional authorization for payment of United States contribution
 
-(a)(1) The United States Governor of the Fund is authorized to contribute on behalf of the United States $150,000,000 to the Fund as the United States contribution to the third replenishment of the resources of the Fund.
+(a)(1) The United States Governor of the Fund is authorized to contribute on behalf of theUnited States $150,000,000 to the Fund as the United States contribution to the third replenishment of the resources of the Fund.
 
 (2) Any commitment to make the contribution authorized in paragraph (1) shall be made subject to obtaining the necessary appropriations.
 

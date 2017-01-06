@@ -212,7 +212,7 @@ Authorization of Appropriations.—There are authorized to be appropriated—
 
 #### Desalination Research, Studies, and Demonstration Projects
 
-Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, §204, Dec. 23, 2011, 125 Stat. 865, provided that:
+Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, §204, Dec. 23, 2011, 125 Stat. 865; Pub. L. 114–322, title III, §§3801, 4009(a), Dec. 16, 2016, 130 Stat. 1846, 1867, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -258,9 +258,13 @@ In General.—In order to determine the most cost-effective and technologically 
 
 &emsp;"(5) conducting or contracting for technical work, including the design, construction, and testing of pilot systems and test beds, to develop desalting processes and concepts;
 
-&emsp;"(6) studying methods for the recovery of byproducts resulting from desalination to offset the costs of treatment and to reduce environmental impacts from those byproducts; and
+&emsp;"(6) studying methods for the recovery of byproducts resulting from desalination to offset the costs of treatment and to reduce environmental impacts from those byproducts;
 
-&emsp;"(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructing and operating desalination facilities, and the horticultural effects of desalinated water used for irrigation.
+&emsp;"(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructing and operating desalination facilities, and the horticultural effects of desalinated water used for irrigation;
+
+&emsp;"(8) development of metrics to analyze the costs and benefits of desalination relative to other sources of water (including costs and benefits related to associated infrastructure, energy use, environmental impacts, and diversification of water supplies); and
+
+&emsp;"(9) development of design and siting specifications that avoid or minimize, adverse economic and environmental impacts.
 
 "(b)
 
@@ -274,6 +278,22 @@ Authority To Engage Others.—In carrying out research and studies authorized in
 
 Alternative Technologies.—In carrying out the purposes of this Act, the Secretary shall ensure that at least three separate technologies are evaluated and demonstrated for the purposes of accomplishing desalination.
 
+"(e)
+
+Prioritization.—In carrying out this section, the Secretary shall prioritize funding for research—
+
+&emsp;"(1) to reduce energy consumption and lower the cost of desalination, including chloride control;
+
+&emsp;"(2) to reduce the environmental impacts of seawater desalination and develop technology and strategies to minimize those impacts;
+
+&emsp;"(3) to improve existing reverse osmosis and membrane technology;
+
+&emsp;"(4) to carry out basic and applied research on next generation desalination technologies, including improved energy recovery systems and renewable energy-powered desalination systems that could significantly reduce desalination costs;
+
+&emsp;"(5) to develop portable or modular desalination units capable of providing temporary emergency water supplies for domestic or military deployment purposes; and
+
+&emsp;"(6) to develop and promote innovative desalination technologies, including chloride control, identified by the Secretary.
+
 #### "SEC. 4. DESALINATION DEMONSTRATION AND DEVELOPMENT.
 
 "(a)
@@ -284,17 +304,85 @@ In General.—In order to further demonstrate the feasibility of desalination pr
 
 Desalination plants and modules.—Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts.
 
-&emsp;"(2)
+&emsp;"(1) \[sic, probably should be "(2)"\]
+
+Projects.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to the requirements of this subsection, the Secretary of the Interior mayparticipate in an eligible desalination project in an amount equal to not more than 25 percent of the total cost of the eligible desalination project.
+
+&emsp;&emsp;"(B)
+
+Eligible desalination project.—The term 'eligible desalination project' means any project in a Reclamation State, that—
+
+&emsp;&emsp;&emsp;"(i) involves an ocean or brackish water desalination facility either constructed, operated and maintained; or sponsored by any State, department of a State, subdivision of a State or public agency organized pursuant to a State law; and
+
+&emsp;&emsp;&emsp;"(ii) provides a Federal benefit in accordance with the reclamation laws (including regulations).
+
+&emsp;&emsp;"(C)
+
+State role.—Participation by the Secretary of the Interior in an eligible desalination project under this subsection shall not occur unless—
+
+&emsp;&emsp;&emsp;"(i) the project is included in a state-approved plan or federal participation has been requested by the Governor of the State in which the eligible desalination project is located; and
+
+&emsp;&emsp;&emsp;"(ii) the State or local sponsor determines, and the Secretary of the Interior concurs, that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the eligible desalination project is technically and financially feasible and provides a Federal benefit in accordance with the reclamation laws;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) sufficient non-Federal funding is available to complete the eligible desalination project; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the eligible desalination project sponsors are financially solvent; and
+
+&emsp;&emsp;&emsp;"(iii) the Secretary of the Interior submits to Congress a written notification of these determinations within 30 days of making such determinations.
+
+&emsp;&emsp;"(D)
+
+Environmental laws.—When participating in an eligible desalination project under this subsection, the Secretary shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;&emsp;"(E)
+
+Information.—When participating in an eligible desalination project under this subsection, the Secretary of the Interior—
+
+&emsp;&emsp;&emsp;"(i) may rely on reports prepared by the sponsor of the eligible desalination project, including feasibility (or equivalent) studies, environmental analyses, and other pertinent reports and analyses; but
+
+&emsp;&emsp;&emsp;"(ii) shall retain responsibility for making the independent determinations described in subparagraph (C).
+
+&emsp;&emsp;"(F)
+
+Authorization of appropriations.—
+
+&emsp;&emsp;&emsp;"(i) $30,000,000 of funding is authorized to remain available until expended; and
+
+&emsp;&emsp;&emsp;"(ii) Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to this subsection and transmits such recommendations to the appropriate committees of Congress.
+
+&emsp;"(3)
 
 Byproducts.—Study methods for the marketing of byproducts resulting from the desalting of water to offset the costs of treatment and to reduce environmental impacts of those byproducts.
 
-&emsp;"(3)
+&emsp;"(4)
 
 Economic surveys.—Conduct economic studies and surveys to determine present and prospective costs of producing water for beneficial purposes in various locations by desalination processes compared to other methods.
 
 "(b)
 
 Cooperative Agreements.—Federal participation in desalination activities may be conducted through cooperative agreements, including cost-sharing agreements, with non-Federal public utilities and State and local governmental agencies and other entities, in order to develop recommendations for Federal participation in processes and plants utilizing desalting technologies for the production of water.
+
+"(c)
+
+Prioritization.—In carrying out demonstration and development activities under this section, the Secretary shall prioritize projects—
+
+&emsp;"(1) for the benefit of drought-stricken States and communities;
+
+&emsp;"(2) for the benefit of States that have authorized funding for research and development of desalination technologies and projects;
+
+&emsp;"(3) that can reduce reliance on imported water supplies that have an impact on species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); and
+
+&emsp;"(4) that demonstrably leverage the experience of international partners with considerable expertise in desalination, such as the State of Israel.
+
+"(d)
+
+Water Production.—The Secretary shall provide, as part of the annual budget submission to Congress, an estimate of how much water has been produced and delivered in the past fiscal year using processes and facilities developed or demonstrated using assistance provided under sections 3 and 4. This submission shall include, to the extent practicable, available information on a detailed water accounting by process and facility and the cost per acre foot of water produced and delivered.
 
 #### "SEC. 5. AVAILABILITY OF INFORMATION.
 
@@ -316,15 +404,33 @@ Cooperative Agreements.—Federal participation in desalination activities may b
 
 "(a)
 
-Section 3.—There are authorized to be appropriated to carry out section 3 of this Act $5,000,000 per year for fiscal years 1997 through 2013. Of these amounts, up to $1,000,000 in each fiscal year may be awarded to institutions of higher education, including United States-Mexico binational research foundations and interuniversity research programs established by the two countries, for research grants without any cost-sharing requirement.
+Section 3.—There are authorized to be appropriated to carry out section 3 of this Act $5,000,000 per year for fiscal years 1997 through 2021. Of these amounts, up to $1,000,000 in each fiscal year may be awarded to institutions of higher education, including United States-Mexico binational research foundations and interuniversity research programs established by the two countries, for research grants without any cost-sharing requirement.
 
 "(b)
 
-Section 4.—There are authorized to be appropriated to carry out section 4 of this Act $3,000,000 for each of fiscal years 2012 through 2013.
+Section 4.—There are authorized to be appropriated to carry out section 4 of this Act $3,000,000 for each of fiscal years 2017 through 2021.
 
-#### "SEC. 9. CONSULTATION.
+#### "SEC. 9. CONSULTATION AND COORDINATION.
 
-"In carrying out the provisions of this Act, the Secretary shall consult with the heads of other Federal agencies, including the Secretary of the Army, which have experience in conducting desalination research or operating desalination facilities. The authorization provided for in this Act shall not prohibit other agencies from carrying out separately authorized programs for desalination research or operations."
+"(a)
+
+Consultation.—In carrying out the provisions of this Act, the Secretary shall consult with the heads of other Federal agencies, including the Secretary of the Army, which have experience in conducting desalination research or operating desalination facilities.
+
+"(b)
+
+Coordination of Federal Desalination Research and Development.—The White House Office of Science and Technology Policy shall develop a coordinated strategic plan that—
+
+&emsp;"(1) establishes priorities for future Federal investments in desalination;
+
+&emsp;"(2) coordinates the activities of Federal agencies involved in desalination, including the Bureau of Reclamation, the Corps of Engineers, the United States Army Tank Automotive Research, Development and Engineering Center, the National Science Foundation, the Office of Naval Research of the Department of Defense, the National Laboratories of the Department of Energy, the United States Geological Survey, the Environmental Protection Agency, and the National Oceanic and Atmospheric Administration;
+
+&emsp;"(3) strengthens research and development cooperation with international partners, such as the State of Israel, in the area of desalination technology; and
+
+&emsp;"(4) promotes public-private partnerships to develop a framework for assessing needs for, and to optimize siting and design of, future ocean desalination projects.
+
+"(c)
+
+Other Desalination Programs.—The authorization provided for in this Act shall not prohibit other agencies from carrying out separately authorized programs for desalination research or operations."
 
 #### Ogallala Aquifer
 
@@ -350,119 +456,119 @@ Pub. L. 99–662, title XI, §1121, Nov. 17, 1986, 100 Stat. 4239, provided that
 
 "(c) The Water Resources Research Act \[of 1984\] (Public Law 98–242) \[see Short Title note above\] is amended by adding at the end thereof the following new title:
 
-#### "TITLE III—OGALLALA AQUIFER RESEARCH AND DEVELOPMENT
+#### " 'TITLE III—OGALLALA AQUIFER RESEARCH AND DEVELOPMENT
 
-"
+" '
 
 Sec. 301. (a) There is hereby established the High Plains Study Council composed of—
 
-&emsp;"(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the 'High Plains region'), or a designee of the Governor;
+&emsp;" '(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the 'High Plains region'), or a designee of the Governor;
 
-&emsp;"(2) a representative of the Department of Agriculture; and
+&emsp;" '(2) a representative of the Department of Agriculture; and
 
-&emsp;"(3) a representative of the Secretary.
+&emsp;" '(3) a representative of the Secretary.
 
-"(b) The Council established pursuant to this section shall—
+" '(b) The Council established pursuant to this section shall—
 
-&emsp;"(1) review research work being performed by each State committee established under section 302 of this Act; and
+&emsp;" '(1) review research work being performed by each State committee established under section 302 of this Act; and
 
-&emsp;"(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region.
+&emsp;" '(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region.
 
-"
+" '
 
 Sec. 302. (a) The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the 'State committee'). Each State committee shall be composed of no more than seven members, including—
 
-&emsp;"(1) a representative of the United States Department of Agriculture;
+&emsp;" '(1) a representative of the United States Department of Agriculture;
 
-&emsp;"(2) a representative of the Secretary; and
+&emsp;" '(2) a representative of the Secretary; and
 
-&emsp;"(3) at the appointment of the Governor of the State, five representatives from agencies of that State having jurisdiction over water resources, the agricultural community, the State Water Research Institute (as designated under this Act \[see Short Title note above\]), and others with a special interest or expertise in water resources.
+&emsp;" '(3) at the appointment of the Governor of the State, five representatives from agencies of that State having jurisdiction over water resources, the agricultural community, the State Water Research Institute (as designated under this Act \[see Short Title note above\]), and others with a special interest or expertise in water resources.
 
-"(b) The State committee established pursuant to subsection (a) of this section shall—
+" '(b) The State committee established pursuant to subsection (a) of this section shall—
 
-&emsp;"(1) review existing State laws and institutions concerning water management and, where appropriate, recommend changes to improve State or local management capabilities and more efficiently use the waters of such State, if such a review is not already being undertaken by the State;
+&emsp;" '(1) review existing State laws and institutions concerning water management and, where appropriate, recommend changes to improve State or local management capabilities and more efficiently use the waters of such State, if such a review is not already being undertaken by the State;
 
-&emsp;"(2) establish, in coordination with other State committees, State priorities for research and demonstration projects involving water resources; and
+&emsp;" '(2) establish, in coordination with other State committees, State priorities for research and demonstration projects involving water resources; and
 
-&emsp;"(3) provide public information, education, extension, and technical assistance on the need for water conservation and information on proven and cost-effective water management.
+&emsp;" '(3) provide public information, education, extension, and technical assistance on the need for water conservation and information on proven and cost-effective water management.
 
-"(c) Each State committee established pursuant to this section shall elect a chairman, and shall meet at least once every three months at the call of the chairman, unless the chairman determines, after consultation with a majority of the members of the committee, that such a meeting is not necessary to achieve the purposes of this section.
+" '(c) Each State committee established pursuant to this section shall elect a chairman, and shall meet at least once every three months at the call of the chairman, unless the chairman determines, after consultation with a majority of the members of the committee, that such a meeting is not necessary to achieve the purposes of this section.
 
-"
+" '
 
 Sec. 303. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated for this section for research in—
 
-&emsp;"(1) water-use efficiency;
+&emsp;" '(1) water-use efficiency;
 
-&emsp;"(2) cultural methods;
+&emsp;" '(2) cultural methods;
 
-&emsp;"(3) irrigation technologies;
+&emsp;" '(3) irrigation technologies;
 
-&emsp;"(4) water-efficient crops; and
+&emsp;" '(4) water-efficient crops; and
 
-&emsp;"(5) water and soil conservation.
+&emsp;" '(5) water and soil conservation.
 
-> Funds distributed under this section shall be allocated to each State committee for use by institutions of higher education within each State. To qualify for funds under this section an institution of higher education shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
+> "Funds distributed under this section shall be allocated to each State committee for use by institutions of higher education within each State. To qualify for funds under this section an institution of higher education shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
 
-"
+" '
 
 Sec. 304. The Secretary shall annually divide funds authorized to be appropriated under this section among the States of the High Plains region for research into—
 
-&emsp;"(1) precipitation management;
+&emsp;" '(1) precipitation management;
 
-&emsp;"(2) weather modification;
+&emsp;" '(2) weather modification;
 
-&emsp;"(3) aquifer recharge opportunities;
+&emsp;" '(3) aquifer recharge opportunities;
 
-&emsp;"(4) saline water uses;
+&emsp;" '(4) saline water uses;
 
-&emsp;"(5) desalinization technologies;
+&emsp;" '(5) desalinization technologies;
 
-&emsp;"(6) salt tolerant crops; and
+&emsp;" '(6) salt tolerant crops; and
 
-&emsp;"(7) ground water recovery.
+&emsp;" '(7) ground water recovery.
 
-> Funds distributed under this section shall be allocated by the Secretary to the State committee for distribution to institutions of higher education within such State. To qualify for a grant under this section, an institution of higher education shall submit a research proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
+> "Funds distributed under this section shall be allocated by the Secretary to the State committee for distribution to institutions of higher education within such State. To qualify for a grant under this section, an institution of higher education shall submit a research proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
 
-"
+" '
 
 Sec. 305. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated under this section for grants to farmers for demonstration projects for—
 
-&emsp;"(1) water-efficient irrigation technologies and practices;
+&emsp;" '(1) water-efficient irrigation technologies and practices;
 
-&emsp;"(2) soil and water conservation management systems; and
+&emsp;" '(2) soil and water conservation management systems; and
 
-&emsp;"(3) the growing and marketing of more water-efficient crops.
+&emsp;" '(3) the growing and marketing of more water-efficient crops.
 
-> Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees.
+> "Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees.
 
-"
+" '
 
-Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. (As amended Pub. L. 104–66, title I, §1082(a)(1), Dec. 21, 1995, 109 Stat. 721.)
+Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. \[As amended Pub. L. 104–66, title I, §1082(a)(1), Dec. 21, 1995, 109 Stat. 721.\]
 
-"
+" '
 
 Sec. 307. The amount of any allocation of funds to a State under this title shall not exceed 75 percent of the cost of carrying out the purposes for which the grant is made.
 
-"
+" '
 
-Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. (As amended Pub. L. 104–66, title I, §1082(a)(2), Dec. 21, 1995, 109 Stat. 721.)
+Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. \[As amended Pub. L. 104–66, title I, §1082(a)(2), Dec. 21, 1995, 109 Stat. 721.\]
 
-"
+" '
 
 Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through September 30, 1995, the following sums are authorized to be appropriated to the Secretary to implement the following sections of this title, and such sums shall remain available until expended:
 
-&emsp;"(1) $600,000 for the purposes of section 302;
+&emsp;" '(1) $600,000 for the purposes of section 302;
 
-&emsp;"(2) $4,300,000 for the purposes of section 303;
+&emsp;" '(2) $4,300,000 for the purposes of section 303;
 
-&emsp;"(3) $2,200,000 for the purposes of section 304;
+&emsp;" '(3) $2,200,000 for the purposes of section 304;
 
-&emsp;"(4) $5,300,000 for the purposes of section 305; and
+&emsp;" '(4) $5,300,000 for the purposes of section 305; and
 
-&emsp;"(5) $600,000 for the purposes of section 306.
+&emsp;" '(5) $600,000 for the purposes of section 306.
 
-"(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States." (As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.)
+" '(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.' " \[As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.\]
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 

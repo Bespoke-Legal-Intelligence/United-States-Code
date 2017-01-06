@@ -56,7 +56,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (B) Upon the submission to the Senate of a conference report recommending a reconciliation bill or resolution in which a committee shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
-(C) Allocations, functional levels, and aggregates revised pursuant to this paragraph shall beconsidered to be allocations, functional levels, and aggregates contained in the concurrent resolution on the budget pursuant to section 632 of this title.
+(C) Allocations, functional levels, and aggregates revised pursuant to this paragraph shall be considered to be allocations, functional levels, and aggregates contained in the concurrent resolution on the budget pursuant to section 632 of this title.
 
 (D) Upon the filing of revised allocations pursuant to this paragraph, the reporting committee shall report revised allocations pursuant to section 633(b) of this title to carry out this subsection.
 
@@ -102,7 +102,7 @@ Section was formerly classified to section 1331 of Title 31 prior to the general
 
 Subsec. (c)(1)(A)(ii). Pub. L. 113–67 substituted "under that paragraph by more than—" for "under that paragraph by more than".
 
-<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for "20 percent of the totalof the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and".
+<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for "20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and".
 
 Subsec. (c)(1)(A)(ii). Pub. L. 105–33, §10111(2), substituted subcls. (I) and (II) for "20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and".
 

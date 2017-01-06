@@ -1,0 +1,10 @@
+### §1751. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–134, §2, Oct. 18, 1983, 97 Stat. 851, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 98–134, §1, Oct. 18, 1983, 97 Stat. 851, provided that Pub. L. 98–134, enacting this subchapter, could be cited as the "Mashantucket Pequot Indian Claims Settlement Act".
+

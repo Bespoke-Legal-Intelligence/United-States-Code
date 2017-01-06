@@ -9,6 +9,7 @@
 | [1703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md) | Contracts for hospital care and medical services in non-Department facilities. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
+| [1705A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705A%20-%20Management%20of%20health%20care%20information%20regarding%20health-plan%20contracts.md) | Management of health care: information regarding health-plan contracts. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
 | [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Limitations.md) | Limitations. |
 | [1708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001708%20-%20Temporary%20lodging.md) | Temporary lodging. |
@@ -26,17 +27,13 @@
 | [1710A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710A%20-%20Required%20nursing%20home%20care.md) | Required nursing home care. |
 | [1710B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710B%20-%20Extended%20care%20services.md) | Extended care services. |
 | [1710C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710C%20-%20Traumatic%20brain%20injury%20plans%20for%20rehabilitation%20and%20reintegration%20into%20the%20community.md) | Traumatic brain injury: plans for rehabilitation and reintegration into the community. |
-| [1710D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710D%20-%20Traumatic%20brain%20injury%20comprehensive%20program%20for%20long-term%20rehabilitation.md) | Traumatic brain injury: comprehensive plan for long-term rehabilitation.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [1710E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710E%20-%20Traumatic%20brain%20injury%20use%20of%20non-Department%20facilities%20for%20rehabilitation.md) | Traumatic brain injury: use of non-Departmental facilities for rehabilitation.<sup>1</sup> |
+| [1710D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710D%20-%20Traumatic%20brain%20injury%20comprehensive%20program%20for%20long-term%20rehabilitation.md) | Traumatic brain injury: comprehensive program for long-term rehabilitation. |
+| [1710E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710E%20-%20Traumatic%20brain%20injury%20use%20of%20non-Department%20facilities%20for%20rehabilitation.md) | Traumatic brain injury: use of non-Department facilities for rehabilitation. |
 | [1711\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md) | Care during examinations and in emergencies. |
 | [1712\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md) | Dental care; drugs and medicines for certain disabled veterans; vaccines. |
 | [1712A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md) | Eligibility for readjustment counseling and related mental health services. |
 | [1712B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712B%20-%20Counseling%20for%20former%20prisoners%20of%20war.md) | Counseling for former prisoners of war. |
+| [1712C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712C%20-%20Dental%20insurance%20plan%20for%20veterans%20and%20survivors%20and%20dependents%20of%20veterans.md) | Dental insurance plan for veterans and survivors and dependents of veterans. |
 | \[1713. | Renumbered.\] |
 | [1714\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001714%20-%20Fitting%20and%20training%20in%20use%20of%20prosthetic%20appliances%3B%20guide%20dogs%3B%20service%20dogs.md) | Fitting and training in use of prosthetic appliances; guide dogs; service dogs. |
 | [1715\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001715%20-%20Tobacco%20for%20hospitalized%20veterans.md) | Tobacco for hospitalized veterans. |
@@ -52,6 +49,7 @@
 | [1720E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md) | Nasopharyngeal radium irradiation. |
 | [1720F.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md) | Comprehensive program for suicide prevention among veterans. |
 | [1720G.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md) | Assistance and support services for caregivers. |
+| [1720H.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20who%20served%20in%20classified%20missions.md) | Mental health treatment for veterans who served in classified missions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -129,6 +127,7 @@
 | [1782\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001782%20-%20Counseling%2C%20training%2C%20and%20mental%20health%20services%20for%20immediate%20family%20members%20and%20caregivers.md) | Counseling, training, and mental health services for immediate family members and caregivers. |
 | [1783\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001783%20-%20Bereavement%20counseling.md) | Bereavement counseling. |
 | [1784\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001784%20-%20Humanitarian%20care.md) | Humanitarian care. |
+| [1784A.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001784A%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
 | [1785\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001785%20-%20Care%20and%20services%20during%20certain%20disasters%20and%20emergencies.md) | Care and services during certain disasters and emergencies. |
 | [1786\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001786%20-%20Care%20for%20newborn%20children%20of%20women%20veterans%20receiving%20maternity%20care.md) | Care for newborn children of women veterans receiving maternity care. |
 | [1787\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001787%20-%20Health%20care%20of%20family%20members%20of%20veterans%20stationed%20at%20Camp%20Lejeune%2C%20North%20Carolina.md) | Health care of family members of veterans stationed at Camp Lejeune, North Carolina. |
@@ -136,6 +135,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–315, title VI, §§604(b), 605(c), 606(b), title VIII, §802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted "Traumatic brain injury: comprehensive program for long-term rehabilitation" for "Traumatic brain injury: comprehensive plan for long-term rehabilitation" in item 1710D and "Traumatic brain injury: use of non-Department facilities for rehabilitation" for "Traumatic brain injury: use of non-Departmental facilities for rehabilitation" in item 1710E.
+
+Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
 
 <b>2015</b>—Pub. L. 114–2, §2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
 
@@ -167,7 +170,7 @@ Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 
 
 <b>1998</b>—Pub. L. 105–368, title IX, §901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
 
-<b>1997</b>—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted "Treatment andrehabilitative services for persons with drug or alcohol dependency" for "Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities" in item 1720A, struck out ": pilot program" after "home care" in item 1720C, and added item for subchapter VII and items 1771 to 1774.
+<b>1997</b>—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted "Treatment and rehabilitative services for persons with drug or alcohol dependency" for "Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities" in item 1720A, struck out ": pilot program" after "home care" in item 1720C, and added item for subchapter VII and items 1771 to 1774.
 
 Pub. L. 105–33, title VIII, §8023(a)(2), Aug. 5, 1997, 111 Stat. 667, added item 1729A.
 
@@ -226,8 +229,6 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arr
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 <b>1959</b>—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

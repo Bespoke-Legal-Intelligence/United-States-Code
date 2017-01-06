@@ -8,7 +8,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (1) In general
 
-&emsp;From funds made available to carry out this section, the Secretary shall award a grant toeach eligible State and eligible outlying area from an allotment determined in accordance with paragraph (2).
+&emsp;From funds made available to carry out this section, the Secretary shall award a grant to each eligible State and eligible outlying area from an allotment determined in accordance with paragraph (2).
 
 #### (2) Calculation of State grants
 
@@ -80,7 +80,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (B) Implementing entity
 
-&emsp;&emsp;The Governor may designate an agency, office, or other entity to carry out State activities under this section (referred to in this section as the "implementing entity"), if such implementing entity is different from the lead agency. The implementing agencyshall carry out responsibilities under this chapter through a subcontract or another administrative agreement with the lead agency.
+&emsp;&emsp;The Governor may designate an agency, office, or other entity to carry out State activities under this section (referred to in this section as the "implementing entity"), if such implementing entity is different from the lead agency. The implementing agency shall carry out responsibilities under this chapter through a subcontract or another administrative agreement with the lead agency.
 
 #### (C) Change in agency or entity
 
@@ -302,7 +302,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (III) Transition assistance to individuals with disabilities
 
-&emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities to, develop and disseminate training materials, conduct training, facilitate accessto assistive technology, and provide technical assistance, to assist—
+&emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities to, develop and disseminate training materials, conduct training, facilitate access to assistive technology, and provide technical assistance, to assist—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) students with disabilities, within the meaning of the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), that receive transition services; and
 
@@ -322,7 +322,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (II) Collaboration
 
-&emsp;&emsp;&emsp;&emsp;The State shall collaborate with entities that receive awards under paragraphs (1) and (3) of section 3005(b) of this title to carry out public-awareness activities focusing on infants, toddlers, children, transition-age youth, employment-age adults, seniors, and employers.
+&emsp;&emsp;&emsp;&emsp;The State shall collaborate with entities that receive awards under paragraphs (1) and (3) of section 3005(b) of this title to carry out public-awareness activities focusing on infants, toddlers,children, transition-age youth, employment-age adults, seniors, and employers.
 
 #### (III) Statewide information and referral system
 
@@ -374,7 +374,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (B) Contents
 
-&emsp;&emsp;The report shall include data collected pursuant to this section. The report shalldocument, with respect to activities carried out under this section in the State—
+&emsp;&emsp;The report shall include data collected pursuant to this section. The report shall document, with respect to activities carried out under this section in the State—
 
 &emsp;&emsp;&emsp;(i) the type of State financing activities described in subsection (e)(2)(A) used by the State;
 

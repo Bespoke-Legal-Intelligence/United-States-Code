@@ -1,6 +1,6 @@
 ### §52. Payment of compensation and expenses
 
-The compensation of all customs officers and employees provided for by sections 6, 7, 8, 13, and51 of this title, and the expenses authorized by section 48 of this title, shall be paid from the appropriation for the collection of the revenue from customs.
+The compensation of all customs officers and employees provided for by sections 6, 7, 8, 13, and 51 of this title, and the expenses authorized by section 48 of this title, shall be paid from the appropriation for the collection of the revenue from customs.
 
 (Mar. 4, 1923, ch. 251, §6, 42 Stat. 1454; Mar. 3, 1927, ch. 348, §3(c), 44 Stat. 1382.)
 

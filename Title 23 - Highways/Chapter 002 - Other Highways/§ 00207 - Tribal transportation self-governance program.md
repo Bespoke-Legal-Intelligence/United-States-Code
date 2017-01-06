@@ -54,7 +54,7 @@ In general.—
 
 &emsp;&emsp;&emsp;(i)
 
-Formula funding and discretionary grants.—A funding agreement entered into with an Indian tribe shall authorize the Indian tribe, as determined by the Indian tribe, to plan, conduct, consolidate, administer, and receive full tribal share funding, tribal transit formula funding, and funding to tribes from discretionary and competitive grants administered by the Department for all programs, services, functions, and activities (or portions thereof) that are made available to Indiantribes to carry out tribal transportation programs and programs, services, functions, and activities (or portions thereof) administered by the Secretary that are otherwise available to Indian tribes.
+Formula funding and discretionary grants.—A funding agreement entered into with an Indian tribe shall authorize the Indian tribe, as determined by the Indian tribe, to plan, conduct, consolidate, administer, and receive full tribal share funding, tribal transit formula funding, and funding to tribes from discretionary and competitive grants administered by the Department for all programs, services, functions, and activities (or portions thereof) that are made available to Indian tribes to carry out tribal transportation programs and programs, services, functions, and activities (or portions thereof) administered by the Secretary that are otherwise available to Indian tribes.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -268,7 +268,7 @@ Exception.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding subparagraph (C), the Secretary, upon written notification to an Indian tribe that is subject to a compact or funding agreement, may immediately terminate the compactor funding agreement (or portion thereof) if—
+In general.—Notwithstanding subparagraph (C), the Secretary, upon written notification to an Indian tribe that is subject to a compact or funding agreement, may immediately terminate the compact or funding agreement (or portion thereof) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary makes a finding of imminent substantial and irreparable jeopardy to a trust asset, natural resource, or public health and safety; and
 
@@ -284,7 +284,7 @@ Burden of proof.—In any hearing or appeal involving a decision to terminate a 
 
 (g)
 
-Cost Principles.—In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j–1), other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act (25 U.S.C. 450j–1(f)).
+Cost Principles.—In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j–1),<sup>1</sup> other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act (25 U.S.C. 450j–1(f)).<sup>1</sup>
 
 (h)
 
@@ -370,23 +370,23 @@ Limitation on statutory construction.—Nothing in this section may be construed
 
 Applicability of Indian Self-Determination and Education Assistance Act.—Except to the extent in conflict with this section (as determined by the Secretary), the following provisions of the Indian Self-Determination and Education Assistance Act shall apply to compact and funding agreements (except that any reference to the Secretary of the Interior or the Secretary of Health and Human Services in such provisions shall be treated as a reference to the Secretary of Transportation):
 
-&emsp;(1) Subsections (a), (b), (d), (g), and (h) of section 506 of such Act (25 U.S.C. 458aaa–5), relating to general provisions.
+&emsp;(1) Subsections (a), (b), (d), (g), and (h) of section 506 of such Act (25 U.S.C. 458aaa–5),<sup>1</sup> relating to general provisions.
 
-&emsp;(2) Subsections (b) through (e) and (g) of section 507 of such Act (25 U.S.C. 458aaa–6), relating to provisions relating to the Secretary of Health and Human Services.
+&emsp;(2) Subsections (b) through (e) and (g) of section 507 of such Act (25 U.S.C. 458aaa–6),<sup>1</sup> relating to provisions relating to the Secretary of Health and Human Services.
 
-&emsp;(3) Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act (25 U.S.C. 458aaa–7), relating to transfer of funds.
+&emsp;(3) Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act (25 U.S.C. 458aaa–7),<sup>1</sup> relating to transfer of funds.
 
-&emsp;(4) Section 510 of such Act (25 U.S.C. 458aaa–9), relating to Federal procurement laws and regulations.
+&emsp;(4) Section 510 of such Act (25 U.S.C. 458aaa–9),<sup>1</sup> relating to Federal procurement laws and regulations.
 
-&emsp;(5) Section 511 of such Act (25 U.S.C. 458aaa–10), relating to civil actions.
+&emsp;(5) Section 511 of such Act (25 U.S.C. 458aaa–10),<sup>1</sup> relating to civil actions.
 
-&emsp;(6) Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act (25 U.S.C. 458aaa–11), relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting "transportation facilities and other facilities" for "school buildings, hospitals, and other facilities".
+&emsp;(6) Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act (25 U.S.C. 458aaa–11),<sup>1</sup> relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting "transportation facilities and other facilities" for "school buildings, hospitals, and other facilities".
 
-&emsp;(7) Subsections (a) and (b) of section 515 of such Act (25 U.S.C. 458aaa–14), relating to disclaimers.
+&emsp;(7) Subsections (a) and (b) of section 515 of such Act (25 U.S.C. 458aaa–14),<sup>1</sup> relating to disclaimers.
 
-&emsp;(8) Subsections (a) and (b) of section 516 of such Act (25 U.S.C. 458aaa–15), relating to application of title I provisions.
+&emsp;(8) Subsections (a) and (b) of section 516 of such Act (25 U.S.C. 458aaa–15),<sup>1</sup> relating to application of title I provisions.
 
-&emsp;(9) Section 518 of such Act (25 U.S.C. 458aaa–17), relating to appeals.
+&emsp;(9) Section 518 of such Act (25 U.S.C. 458aaa–17),<sup>1</sup> relating to appeals.
 
 (m)
 
@@ -430,7 +430,7 @@ Transportation programs.—The term "transportation programs" means all programs
 
 &emsp;(2)
 
-Applicability of other definitions.—In this section, the definitions set forth in sections 4 and 505 <sup>1</sup> of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b; 458aaa) apply, except as otherwise expressly provided in this section.
+Applicability of other definitions.—In this section, the definitions set forth in sections 4 and 505 <sup>1</sup> of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b; 458aaa) <sup>1</sup> apply, except as otherwise expressly provided in this section.
 
 (n)
 
@@ -486,9 +486,7 @@ The date of enactment of MAP–21, referred to in subsec. (d)(2)(C)(ii)(II)(aa)(
 
 The date of enactment of the FAST Act, referred to in subsecs. (d)(2)(C)(ii)(II)(bb) and (n)(1)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
-
-Section 505 of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (m)(2), probably should be a reference to section 501 of such Act, Pub. L. 93–638, which is classified to section 458aaa of Title 25, Indians, and which defines terms.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (g), (l), and (m)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Sections 4, 106, 506 to 508, 510 to 512, 515, 516, and 518 of the Act were classified to sections 450b, 450j–1, 458aaa–5 to 458aaa–7, 458aaa–9 to 458aaa–11, 458aaa–14, 458aaa–15, and 458aaa–17, respectively, of Title 25, prior to editorial reclassification as sections 5304, 5325, 5386 to 5388, 5390 to 5392, 5395, 5396, and 5398, respectively, of Title 25. Section 505 of the Act probably should be a reference to section 501 of the Act, which defines terms and was classified to section 458aaa of Title 25 prior to editorial reclassification as section 5381 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 

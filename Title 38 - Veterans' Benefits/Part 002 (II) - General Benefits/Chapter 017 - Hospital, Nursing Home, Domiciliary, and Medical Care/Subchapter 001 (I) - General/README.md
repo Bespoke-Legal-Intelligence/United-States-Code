@@ -10,6 +10,7 @@
 - [&sect; 01703 - Contracts for hospital care and medical services in non-Department facilities](%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md)
 - [&sect; 01704 - Preventive health services annual report](%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md)
 - [&sect; 01705 - Management of health care patient enrollment system](%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md)
+- [&sect; 01705A - Management of health care information regarding health-plan contracts](%C2%A7%2001705A%20-%20Management%20of%20health%20care%20information%20regarding%20health-plan%20contracts.md)
 - [&sect; 01706 - Management of health care other requirements](%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md)
 - [&sect; 01707 - Limitations](%C2%A7%2001707%20-%20Limitations.md)
 - [&sect; 01708 - Temporary lodging](%C2%A7%2001708%20-%20Temporary%20lodging.md)

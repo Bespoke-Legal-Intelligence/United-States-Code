@@ -40,7 +40,7 @@ Change in Airport Status.—
 
 &emsp;(1)
 
-Changes to nonprimary airport status.—If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
+Changes to nonprimary airport status.—If the status of a primary airportchanges to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
 
 &emsp;(2)
 

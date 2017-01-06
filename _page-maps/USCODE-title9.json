@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title9",
- "package": "USCODE-2015-title9",
+ "package": "USCODE-2016-title9",
  "pieces": [
   {
    "id": "9_",
@@ -251,30 +251,30 @@
   },
   {
    "id": "9_205",
-   "marks": [],
-   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00205 - Removal of cases from State courts.md",
-   "printed_pages": [
-    5,
-    5
-   ]
-  },
-  {
-   "id": "9_206",
    "marks": [
     [
      "I",
      2,
      [
       [
-       92,
+       275,
        "[Page 6]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00206 - Order to compel arbitration; appointment of arbitrators.md",
+   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00205 - Removal of cases from State courts.md",
    "printed_pages": [
     5,
+    6
+   ]
+  },
+  {
+   "id": "9_206",
+   "marks": [],
+   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00206 - Order to compel arbitration; appointment of arbitrators.md",
+   "printed_pages": [
+    6,
     6
    ]
   },
@@ -325,11 +325,18 @@
   },
   {
    "id": "9_303",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 7]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00303 - Order to compel arbitration; appointment of arbitrators; locale.md",
    "printed_pages": [
     6,
-    6
+    7
    ]
   },
   {
@@ -337,8 +344,8 @@
    "marks": [],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00304 - Recognition and enforcement of foreign arbitral decisions and awards; reciprocity.md",
    "printed_pages": [
-    6,
-    6
+    7,
+    7
    ]
   },
   {
@@ -346,27 +353,16 @@
    "marks": [],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00305 - Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of….md",
    "printed_pages": [
-    6,
-    6
+    7,
+    7
    ]
   },
   {
    "id": "9_306",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       180,
-       "[Page 7]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00306 - Applicable rules of Inter-American Commercial Arbitration Commission.md",
    "printed_pages": [
-    6,
+    7,
     7
    ]
   },
@@ -380,6 +376,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2015-title9 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2016-title9 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 09 - Arbitration"
 }

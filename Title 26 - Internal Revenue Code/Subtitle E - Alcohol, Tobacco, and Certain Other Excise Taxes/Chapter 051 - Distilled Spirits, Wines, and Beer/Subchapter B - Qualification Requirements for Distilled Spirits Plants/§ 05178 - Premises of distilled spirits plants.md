@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) such identification of, changes of, and additions to, distilling apparatus, connecting pipes, pumps, tanks, and any machinery connected with or used in or on the premises, and
 
-&emsp;&emsp;(ii) such fastenings, locks, and seals to be part of any of the stills, tubs, pipes, tanks,and other equipment, as he may deem necessary to facilitate inspection and afford adequate security to the revenue.
+&emsp;&emsp;(ii) such fastenings, locks, and seals to be part of any of the stills, tubs, pipes, tanks, and other equipment, as he may deem necessary to facilitate inspection and afford adequate security to the revenue.
 
 #### (3) Warehousing operations
 

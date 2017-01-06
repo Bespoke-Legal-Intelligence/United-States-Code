@@ -2,7 +2,7 @@
 
 #### (a) Powers of Secretary of the Treasury
 
-The Secretary of the Treasury shall establish and promulgate such rules and regulations not inconsistent with the law (including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned), and may disseminate such information as may be necessary to secure a just, impartial, and uniform appraisement of imported merchandise and the classification and assessment of duties thereon at the various ports of entry. The Secretary may direct any customs officer to go from one port of entry to another for the purpose of appraising or classifying or assisting in appraising or classifying merchandise imported at any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port.
+The Secretary of the Treasury shall establish and promulgate such rules and regulations not inconsistent with the law (including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned), and may disseminate such information as may be necessary to secure a just, impartial, and uniform appraisement of imported merchandise and the classification and assessment of duties thereon at the various ports of entry. The Secretary may direct any customs officer to go from one port of entry to anotherfor the purpose of appraising or classifying or assisting in appraising or classifying merchandise imported at any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port.
 
 #### (b) Duties of customs officers
 
@@ -34,7 +34,7 @@ Pub. L. 103–182, §412(a), which directed the insertion of "the North American
 
 Subsec. (c). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–449 temporarily substituted "a final decision of the United States Court ofInternational Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement" for "or a final decision of the United States Court of International Trade". See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (b). Pub. L. 100–449 temporarily substituted "a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement" for "or a final decision of the United States Court of International Trade". See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
@@ -60,7 +60,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under subsec. (a) of this section, insofar as subsec. (a) of this section provides authority to issue regulations and disseminate information and insofar as Secretary of the Treasury had responsibility under sections 1303 and 1671 et seq. of this title for functions transferred to Secretary of Commerce by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(F), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
+Functions of Secretary of the Treasury under subsec. (a) of this section, insofar as subsec. (a) of this section provides authority to issue regulations and disseminate information and insofar as Secretary of the Treasury had responsibility under sections 1303 and 1671 et seq. of this title for functions transferred to Secretary of Commerce by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(F), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
 
 Functions of Secretary of the Treasury under subsec. (b) of this section, with respect to functions transferred to Secretary of Commerce in section 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to section 5(a)(1)(F) of Reorg. Plan No. 3 of 1979.
 

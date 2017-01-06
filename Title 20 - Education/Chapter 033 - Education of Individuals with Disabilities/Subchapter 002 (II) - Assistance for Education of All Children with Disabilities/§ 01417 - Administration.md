@@ -14,7 +14,7 @@ The Secretary shall—
 
 #### (b) Prohibition against Federal mandates, direction, or control
 
-Nothing in this chapter shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school's specific instructional content, academic achievement standards and assessments, curriculum, or program of instruction.
+Nothing in this chapter shall be construed to authorize an officer or employee of the FederalGovernment to mandate, direct, or control a State, local educational agency, or school's specific instructional content, academic achievement standards and assessments, curriculum, or program of instruction.
 
 #### (c) Confidentiality
 
@@ -40,7 +40,7 @@ Not later than the date that the Secretary publishes final regulations under thi
 
 #### References in Text
 
-The provisions of title 5 relating to appointments in the competitive service, referred to in subsec. (d), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 relating to appointments in the competitive service, referred to in subsec. (d), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (e), is Pub. L. 108–446, Dec. 3, 2004, 118 Stat. 2647. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 1400 of this title and Tables.
 

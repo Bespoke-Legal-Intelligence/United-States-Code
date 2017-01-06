@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may not make a grant under subsection (a) of this section unless, in the case of any service described in such subsection that is made available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
+&emsp;Subject to paragraph (2), the Secretary may not make a grant under subsection (a) unless, in the case of any service described in such subsection that is made available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
 &emsp;&emsp;(A) the applicant for the grant will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -42,11 +42,11 @@
 
 #### (c) Priority in making grants
 
-In making grants under subsection (a) of this section, the Secretary shall give priority to applications for programs that will serve areas with a high incidence of elevated blood lead levels in infants and children.
+In making grants under subsection (a), the Secretary shall give priority to applications for programs that will serve areas with a high incidence of elevated blood lead levels in infants and children.
 
 #### (d) Grant application
 
-No grant may be made under subsection (a) of this section, unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and shall be submitted in such manner as the Secretary shall prescribe and shall include each of the following:
+No grant may be made under subsection (a), unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and shall be submitted in such manner as the Secretary shall prescribe and shall include each of the following:
 
 &emsp;(1) A complete description of the program which is to be provided by or through the applicant.
 
@@ -60,11 +60,11 @@ No grant may be made under subsection (a) of this section, unless an application
 
 &emsp;(4) Assurances satisfactory to the Secretary that the applicant will make such reports respecting the program involved as the Secretary may require.
 
-&emsp;(5) Assurances satisfactory to the Secretary that the applicant will coordinate the activities carried out pursuant to subsection (a) of this section with related activities and services carried out in the State by grantees under title V or XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\].
+&emsp;(5) Assurances satisfactory to the Secretary that the applicant will coordinate the activities carried out pursuant to subsection (a) with related activities and services carried out in the State by grantees under title V or XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\].
 
 &emsp;(6) Assurances satisfactory to the Secretary that Federal funds made available under such a grant for any period will be so used as to supplement and, to the extent practical, increase the level of State, local, and other non-Federal funds that would, in the absence of such Federal funds, be made available for the program for which the grant is to be made and will in no event supplant such State, local, and other non-Federal funds.
 
-&emsp;(7) Assurances satisfactory to the Secretary that the applicant will ensure complete and consistent reporting of all blood lead test results from laboratories and health care providers to State and local health departments in accordance with guidelines of the Centers for Disease Control and Prevention for standardized reporting as described in subsection (m) of this section.
+&emsp;(7) Assurances satisfactory to the Secretary that the applicant will ensure complete and consistent reporting of all blood lead test results from laboratories and health care providers to State and local health departments in accordance with guidelines of the Centers for Disease Control and Prevention for standardized reporting as described in subsection (m).
 
 &emsp;(8) Such other information as the Secretary may prescribe.
 
@@ -72,7 +72,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 #### (1) In general
 
-&emsp;A recipient of a grant under subsection (a) of this section may not make payments from the grant for any service or activity to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service or activity—
+&emsp;A recipient of a grant under subsection (a) may not make payments from the grant for any service or activity to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service or activity—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -80,35 +80,35 @@ No grant may be made under subsection (a) of this section, unless an application
 
 #### (2) Applicability to certain secondary agreements for provision of services
 
-&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) of this section regarding the provider.
+&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) regarding the provider.
 
 #### (f) Method and amount of payment
 
-The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants. Not more than 10 percent of any grant may be obligated for administrative costs.
+The Secretary shall determine the amount of a grant made under subsection (a). Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants. Not more than 10 percent of any grant may be obligated for administrative costs.
 
 #### (g) Supplies, equipment, and employee detail
 
-The Secretary, at the request of a recipient of a grant under subsection (a) of this section, may reduce the amount of such grant by—
+The Secretary, at the request of a recipient of a grant under subsection (a), may reduce the amount of such grant by—
 
 &emsp;(1) the fair market value of any supplies or equipment furnished the grant recipient; and
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
-> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (h) Records
 
-Each recipient of a grant under subsection (a) of this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of a grant under subsection (a) shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (i) Audit and examination of records
 
-The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant under subsection (a) of this section, that are pertinent to such grant.
+The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant under subsection (a), that are pertinent to such grant.
 
 #### (j) Annual report
 
 #### (1) In general
 
-&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (l)(2) of this section.
+&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) and of any programs that are carried out by the Secretary pursuant to subsection (l)(2).
 
 #### (2) Certain requirements
 
@@ -140,7 +140,7 @@ For purposes of this section, the term "political subdivision" includes Indian t
 
 #### (2) Allocation for other programs
 
-&emsp;Of the amounts appropriated under paragraph (1) for any fiscal year, the Secretary may reserve not more than 20 percent for carrying out programs regarding the activities described in subsection (a) of this section in addition to the program of grants established in such subsection.
+&emsp;Of the amounts appropriated under paragraph (1) for any fiscal year, the Secretary may reserve not more than 20 percent for carrying out programs regarding the activities described in subsection (a) in addition to the program of grants established in such subsection.
 
 #### (m) Guidelines for standardized reporting
 
@@ -154,7 +154,7 @@ The reference to section 254b of this title the first place appearing, referred 
 
 Section 256a of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. Forcomplete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

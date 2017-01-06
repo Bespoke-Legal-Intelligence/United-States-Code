@@ -8,7 +8,7 @@
 
 &emsp;(C) the employee's performance under such term appointment or appointments met established retention standards, or, if not covered by a performance management system established under section 9508, was rated at the fully successful level or higher (or equivalent thereof); and
 
-&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential for subsequent conversion to a permanent appointment.
+&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential forsubsequent conversion to a permanent appointment.
 
 (2) An appointment under this section may be made only to a position in the same line of work as a position to which the employee received a term appointment under competitive procedures.
 
@@ -20,7 +20,7 @@
 
 (4) An appointing authority may select any applicant from the highest quality category or, if fewer than three candidates have been assigned to the highest quality category, from a merged category consisting of the highest and second highest quality categories.
 
-(5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.
+(5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(c), as applicable, are satisfied.
 
 (c) The Secretary of the Treasury may detail employees among the offices of the Internal Revenue Service without regard to the 120-day limitation in section 3341(b).
 
@@ -30,11 +30,15 @@
 
 &emsp;(1) any employment priority established under direction of the President for the placement of surplus or displaced employees; or
 
-&emsp;(2) any obligation under a court order or decree relating to the employment practices ofthe Internal Revenue Service or the Department of the Treasury.
+&emsp;(2) any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
 
-(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 717.)
+(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 717; amended Pub. L. 114–137, §2(c), Mar. 18, 2016, 130 Stat. 312.)
 
 #### References in Text
 
 GS–9, referred to in subsec. (b)(3), is contained in the General Schedule which is set out under section 5332 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(5). Pub. L. 114–137 substituted "3318(c)" for "3318(b)".
 

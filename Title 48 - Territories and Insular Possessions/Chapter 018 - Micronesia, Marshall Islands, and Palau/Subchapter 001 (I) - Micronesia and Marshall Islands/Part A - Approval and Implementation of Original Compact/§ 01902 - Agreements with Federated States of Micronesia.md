@@ -34,7 +34,7 @@
 
 #### (1) Submission
 
-&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed\(directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
+&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
 
 #### (2) United States Government review
 
@@ -66,7 +66,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 > &emsp;Such authority shall include authority for the Comptroller General to conduct or cause to be conducted any of the audits provided for in section 233 of the Compact. The authority provided in this paragraph shall continue for at least three years after the last such grant has been made or assistance has been provided.
 
-&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personnel and to such records, documents, working papers, automated data and files, and other information relevant to such review.
+&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personneland to such records, documents, working papers, automated data and files, and other information relevant to such review.
 
 #### (2) GAO access to records
 
@@ -92,7 +92,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Federated States of Micronesia
 
-&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the ComptrollerGeneral determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §102, Jan. 14, 1986, 99 Stat. 1775.)
 

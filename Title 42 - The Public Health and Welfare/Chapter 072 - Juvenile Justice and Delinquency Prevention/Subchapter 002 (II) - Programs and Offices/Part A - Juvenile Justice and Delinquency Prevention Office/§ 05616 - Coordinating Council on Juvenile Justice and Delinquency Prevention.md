@@ -80,7 +80,7 @@ Subsec. (f). Pub. L. 102–586, §2(d)(3), inserted "Members appointed under sub
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §§7251(b), 7252(b)(2), struck out "(hereinafter referred to as the 'Council')" after "Coordinating Council on Juvenile Justice and Delinquency Prevention" and "the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention," after "Administrator of the Office of Juvenile Justice and Delinquency Prevention,".
 
-Subsec. (c). Pub. L. 100–690, §7254(a)(1)–(3), struck out ", in consultation with the Advisory Board on Missing Children," after "programs and" in first sentence, substituted "shall" for "is authorized to" and "paragraphs (12)(A), (13), and (14) of section 5633(a) of this title" for "section 5633(a)(12)(A) and (13) of this title" in third sentence, and inserted at end "The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody."
+Subsec. (c). Pub. L. 100–690, §7254(a)(1)–(3), struck out ", in consultation with the Advisory Board on MissingChildren," after "programs and" in first sentence, substituted "shall" for "is authorized to" and "paragraphs (12)(A), (13), and (14) of section 5633(a) of this title" for "section 5633(a)(12)(A) and (13) of this title" in third sentence, and inserted at end "The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody."
 
 Subsec. (d). Pub. L. 100–690, §7254(b), struck out provision that annual report required by section 5614(b)(5) of this title include a description of the activities of the Council.
 
@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 95–115, §3(d)(2), inserted provisions relating to review
 
 Subsec. (d). Pub. L. 95–115, §3(d)(3), substituted "four" for "six".
 
-Subsec. (e). Pub. L. 95–115, §3(d)(4), redesignated former par. (3) as entire subsec. (e) and, as so redesignated, inserted "or staff support" after "personnel" and substituted "Associate Administrator" for "Executive Secretary". Former pars. (1) and (2), which relatedto appointment and responsibilities of the Executive Secretary, respectively, were struck out.
+Subsec. (e). Pub. L. 95–115, §3(d)(4), redesignated former par. (3) as entire subsec. (e) and, as so redesignated, inserted "or staff support" after "personnel" and substituted "Associate Administrator" for "Executive Secretary". Former pars. (1) and (2), which related to appointment and responsibilities of the Executive Secretary, respectively, were struck out.
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–237 substituted "Office of Drug Abuse Policy" for "Special Action Office for Drug Abuse Prevention".
 

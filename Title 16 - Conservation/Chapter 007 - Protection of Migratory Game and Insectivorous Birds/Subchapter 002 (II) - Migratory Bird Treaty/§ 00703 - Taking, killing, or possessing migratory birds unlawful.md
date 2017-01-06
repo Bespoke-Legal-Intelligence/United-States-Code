@@ -84,7 +84,7 @@ Authorization of Take.—
 
 &emsp;"(1)
 
-In general.—The Secretary of the Interior, in consultation with the Secretary \[of Transportation\],shall promulgate a regulation under the authority of section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) authorizing the take of nesting swallows to facilitate bridge repair, maintenance, or construction—
+In general.—The Secretary of the Interior, in consultation with the Secretary \[of Transportation\], shall promulgate a regulation under the authority of section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) authorizing the take of nesting swallows to facilitate bridge repair, maintenance, or construction—
 
 &emsp;&emsp;"(A) without individual permit requirements; and
 

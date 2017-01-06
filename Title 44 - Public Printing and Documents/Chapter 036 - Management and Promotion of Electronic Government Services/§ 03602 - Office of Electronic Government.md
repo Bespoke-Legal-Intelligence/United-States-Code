@@ -80,11 +80,11 @@
 
 &emsp;&emsp;&emsp;(ii) identification of opportunities for public-private collaboration in using Internet-based technology to increase the efficiency of Government-to-business transactions;
 
-&emsp;&emsp;&emsp;(iii) identification of mechanisms for providing incentives to program managersand other Government employees to develop and implement innovative uses of information technologies; and
+&emsp;&emsp;&emsp;(iii) identification of mechanisms for providing incentives to program managers and other Government employees to develop and implement innovative uses of information technologies; and
 
 &emsp;&emsp;&emsp;(iv) identification of opportunities for public, private, and intergovernmental collaboration in addressing the disparities in access to the Internet and information technology.
 
-&emsp;(10) Sponsor activities to engage the general public in the development and implementation of policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies and those activities which engage multiple agencies providing similar or related information and services.
+&emsp;(10) Sponsor activities to engage the general public in the development and implementationof policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies and those activities which engage multiple agencies providing similar or related information and services.
 
 &emsp;(11) Oversee the work of the General Services Administration and other agencies in developing the integrated Internet-based system under section 204 of the E-Government Act of 2002.
 

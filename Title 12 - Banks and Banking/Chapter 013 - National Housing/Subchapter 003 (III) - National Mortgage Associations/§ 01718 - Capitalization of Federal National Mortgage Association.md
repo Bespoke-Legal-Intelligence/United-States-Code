@@ -14,7 +14,7 @@ The corporation shall have common stock, without par value, which shall be veste
 
 (1) Except as provided in paragraph (2), the corporation may make such capital distributions (as such term is defined in section 4502 of this title) as may be declared by the board of directors. All capital distributions shall be charged against the general surplus account of the corporation.
 
-(2) The corporation may not make any capital distribution that would decrease the total capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the risk-based capital level for the corporation established under section 4611 of this title or that would decrease the core capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the minimum capital level for the corporation established under section 4612 of this title, without prior written approval of the distribution by the Director of the Federal Housing Finance Agency.
+(2) The corporation may not make any capital distribution that would decrease the total capital of the corporation (as such term is definedin section 4502 of this title) to an amount less than the risk-based capital level for the corporation established under section 4611 of this title or that would decrease the core capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the minimum capital level for the corporation established under section 4612 of this title, without prior written approval of the distribution by the Director of the Federal Housing Finance Agency.
 
 #### (d) Institutions eligible to purchase stock
 

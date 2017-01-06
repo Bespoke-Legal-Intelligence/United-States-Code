@@ -2,11 +2,11 @@
 
 #### (a) Application required
 
-Each entity described in section 7422(a) of this title that desires to receive a grant under thissubpart shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+Each entity described in section 7422(a) of this title that desires to receive a grant under this subpart shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (b) Comprehensive program required
 
-Each application submitted under subsection (a) of this section shall include a description of a comprehensive program for meeting the needs of Indian children served by the local educational agency, including the language and cultural needs of the children, that—
+Each application submitted under subsection (a) shall include a description of a comprehensive program for meeting the needs of Indian children served by the local educational agency, including the language and cultural needs of the children, that—
 
 &emsp;(1) describes how the comprehensive program will offer programs and activities to meet the culturally related academic needs of Indian students;
 
@@ -30,7 +30,7 @@ Each application submitted under subsection (a) of this section shall include a 
 
 &emsp;&emsp;(B) will provide the results of each assessment referred to in subparagraph (A) to—
 
-&emsp;&emsp;&emsp;(i) the committee described in subsection (c)(4) of this section;
+&emsp;&emsp;&emsp;(i) the committee described in subsection (c)(4);
 
 &emsp;&emsp;&emsp;(ii) the community served by the local educational agency; and
 
@@ -42,7 +42,7 @@ Each application submitted under subsection (a) of this section shall include a 
 
 #### (c) Assurances
 
-Each application submitted under subsection (a) of this section shall include assurances that—
+Each application submitted under subsection (a) shall include assurances that—
 
 &emsp;(1) the local educational agency will use funds received under this subpart only to supplement the funds that, in the absence of the Federal funds made available under this subpart, such agency would make available for services described in this subsection, and not to supplant such funds;
 
@@ -60,7 +60,7 @@ Each application submitted under subsection (a) of this section shall include as
 
 &emsp;&emsp;(B) will use the best available talents and resources, including individuals from the Indian community; and
 
-&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian children and teachers, representatives of Indian tribes on Indian lands located within 50 miles of any school that the agency will serve if such tribes have any children in such school, Indian organizations, and, if appropriate, Indian students from secondary schools, including through public hearings held by such agency to provide to the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program;
+&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian childrenand teachers, representatives of Indian tribes on Indian lands located within 50 miles of any school that the agency will serve if such tribes have any children in such school, Indian organizations, and, if appropriate, Indian students from secondary schools, including through public hearings held by such agency to provide to the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program;
 
 &emsp;(4) the local educational agency developed the program with the participation and written approval of a committee—
 
@@ -136,7 +136,7 @@ Subsec. (c)(2)(C). Pub. L. 114–95, §6002(f)(3)(B)(i), (iii), added subpar. (C
 
 Subsec. (c)(3)(A). Pub. L. 114–95, §6002(f)(3)(C)(i), substituted "Indian" for "American Indian and Alaska Native".
 
-Subsec. (c)(3)(C). Pub. L. 114–95, §6002(f)(3)(C)(ii), inserted "representatives of Indian tribes on Indian lands located within 50 miles of any school that the agency will serve if such tribes have any children in such school, Indian organizations," after "parents of Indian children and teachers," and struck out "and" after semicolon.
+Subsec. (c)(3)(C). Pub. L. 114–95, §6002(f)(3)(C)(ii), inserted "representatives of Indian tribes on Indian lands located within 50 miles of any school that the agencywill serve if such tribes have any children in such school, Indian organizations," after "parents of Indian children and teachers," and struck out "and" after semicolon.
 
 Subsec. (c)(4)(A)(i). Pub. L. 114–95, §6002(f)(3)(D)(i)(I), inserted "and family members" after "parents".
 

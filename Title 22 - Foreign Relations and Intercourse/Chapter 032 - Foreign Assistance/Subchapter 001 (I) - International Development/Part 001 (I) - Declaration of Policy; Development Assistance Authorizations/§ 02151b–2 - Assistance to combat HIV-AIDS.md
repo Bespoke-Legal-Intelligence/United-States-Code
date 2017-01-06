@@ -40,7 +40,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (3) Priorities
 
-&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assumeleadership of sustainable campaigns to combat their local epidemics should place high priority on—
+&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assume leadership of sustainable campaigns to combat their local epidemics should place high priority on—
 
 &emsp;&emsp;(A) the prevention of the transmission of HIV;
 
@@ -242,7 +242,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(ii) promote provider-initiated or "opt-out" HIV/AIDS counseling and testing and appropriate referral for treatment and care to individuals with tuberculosis or its symptoms, particularly in areas with significant HIV prevalence; and
 
-&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receivetuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
+&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receive tuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
 
 &emsp;&emsp;(G) activities to—
 
@@ -496,7 +496,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(iii) a description of measures taken to improve partner country capacity to sustain positive outcomes where needed; and
 
-&emsp;&emsp;&emsp;(iv) for countries undergoing a transition to greater country ownership, a description of strategies to assess and mitigateprogrammatic and financial risk and to ensure continued quality of care for essential services.
+&emsp;&emsp;&emsp;(iv) for countries undergoing a transition to greater country ownership, a description of strategies to assess and mitigate programmatic and financial risk and to ensure continued quality of care for essential services.
 
 &emsp;&emsp;(L) A description, globally and by partner country, of specific efforts to achieve and incentivize greater programmatic and cost effectiveness, including—
 
@@ -568,9 +568,9 @@ In this section:
 
 #### References in Text
 
-Section 7672(a)(3) of this title and section 7673(d) of this title, referred to in subsec. (b)(1)(A)(ii)(I), were in the original references to sections 402(a)(3) and 403(d), respectively, and were translated as meaning sections 402(a)(3) and 403(d), respectively, of Pub. L. 108–25, to reflect the probable intent of Congress.
+Section 7672(a)(3) of this title and section 7673(d) of this title, referred to in subsec. (b)(1)(A)(ii)(I), were inthe original references to sections 402(a)(3) and 403(d), respectively, and were translated as meaning sections 402(a)(3) and 403(d), respectively, of Pub. L. 108–25, to reflect the probable intent of Congress.
 
-The PEPFAR Stewardship and Oversight Act of 2013, referred to in subsec. (f)(2), is Pub. L. 113–56, Dec. 2,2013, 127 Stat. 648. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 7601 of this title and Tables.
+The PEPFAR Stewardship and Oversight Act of 2013, referred to in subsec. (f)(2), is Pub. L. 113–56, Dec. 2, 2013, 127 Stat. 648. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 7601 of this title and Tables.
 
 This chapter, referred to in subsec. (h)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

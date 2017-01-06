@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) mushrooms must be high quality, readily available, handled properly, and marketed efficiently to ensure that the benefits of this important product are available to the people of the United States;
 
-&emsp;(5) the maintenance and expansion of existing markets and uses, and the development of new markets and uses, for mushrooms are vital to the welfare of producers and thoseconcerned with marketing and using mushrooms, as well as to the agricultural economy of the Nation;
+&emsp;(5) the maintenance and expansion of existing markets and uses, and the development of new markets and uses, for mushrooms are vital to the welfare of producers and those concerned with marketing and using mushrooms, as well as to the agricultural economy of the Nation;
 
 &emsp;(6) the cooperative development, financing, and implementation of a coordinated program of mushroom promotion, research, and consumer information are necessary to maintain and expand existing markets for mushrooms; and
 

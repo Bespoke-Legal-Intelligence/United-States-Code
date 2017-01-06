@@ -26,7 +26,7 @@ No cost incurred in carrying out the compensation program, or in administering t
 
 #### (f) Investment of amounts in compensation fund
 
-Amounts in the compensation fund shall be invested in accordance with section 9702 of title 31, and any interest on, and proceeds from, any such investment shall be credited to and become a part of the compensation fund.
+Amounts in the compensation fund shall be invested in accordance with section 9702 of title 31,and any interest on, and proceeds from, any such investment shall be credited to and become a part of the compensation fund.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3612\], Oct. 30, 2000, 114 Stat. 1654, 1654A–497.)
 

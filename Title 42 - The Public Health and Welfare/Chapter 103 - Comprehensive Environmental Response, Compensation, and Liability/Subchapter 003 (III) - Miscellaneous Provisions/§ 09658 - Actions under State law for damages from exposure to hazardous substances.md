@@ -24,7 +24,7 @@ As used in this section—
 
 #### (2) Applicable limitations period
 
-&emsp;The term "applicable limitations period" means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) of this section may be brought.
+&emsp;The term "applicable limitations period" means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) may be brought.
 
 #### (3) Commencement date
 
@@ -34,7 +34,7 @@ As used in this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "federally required commencement date" means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) of this section were caused or contributed to by the hazardous substance or pollutant or contaminant concerned.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "federally required commencement date" means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) were caused or contributed to by the hazardous substance or pollutant or contaminant concerned.
 
 #### (B) Special rules
 

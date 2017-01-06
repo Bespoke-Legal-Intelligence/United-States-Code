@@ -2,7 +2,7 @@
 
 #### (a) Plans covered
 
-Except as provided in subsection (b) of this section, this subchapter applies to any plan (including a successor plan) which, for a plan year—
+Except as provided in subsection (b), this subchapter applies to any plan (including a successor plan) which, for a plan year—
 
 &emsp;(1) is an employee pension benefit plan (as defined in paragraph (2) of section 1002 of this title) established or maintained—
 
@@ -52,15 +52,15 @@ This section does not apply to any plan—
 
 #### (c) Definitions
 
-(1) For purposes of subsection (b)(1) of this section, the term "individual account plan" does not include a plan under which a fixed benefit is promised if the employer or his representative participated in the determination of that benefit.
+(1) For purposes of subsection (b)(1), the term "individual account plan" does not include a plan under which a fixed benefit is promised if the employer or his representative participated in the determination of that benefit.
 
-(2) For purposes of this paragraph and for purposes of subsection (b)(13) of this section—
+(2) For purposes of this paragraph and for purposes of subsection (b)(13)—
 
 &emsp;(A) the term "professional service employer" means any proprietorship, partnership, corporation, or other association or organization (i) owned or controlled by professional individuals or by executors or administrators of professional individuals, (ii) the principal business of which is the performance of professional services, and
 
 &emsp;(B) the term "professional individuals" includes but is not limited to, physicians, dentists, chiropractors, osteopaths, optometrists, other licensed practitioners of the healing arts, attorneys at law, public accountants, public engineers, architects, draftsmen, actuaries, psychologists, social or physical scientists, and performing artists.
 
-(3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plan described in subsection (b)(13) of this section if, at any time after September 2, 1974, the plan has more than 25 active participants.
+(3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plan described in subsection (b)(13) if, at any time after September 2, 1974, the plan has more than 25 active participants.
 
 #### (d) Substantial owner defined
 
@@ -70,7 +70,7 @@ For purposes of subsection (b)(9), the term "substantial owner" means an individ
 
 &emsp;(2) in the case of a partnership, is a partner who owns, directly or indirectly, more than 10 percent of either the capital interest or the profits interest in such partnership, or
 
-&emsp;(3) in the case of a corporation, owns, directly or indirectly, more than 10 percent invalue of either the voting stock of that corporation or all the stock of that corporation.
+&emsp;(3) in the case of a corporation, owns, directly or indirectly, more than 10 percent in value of either the voting stock of that corporation or all the stock of that corporation.
 
 > For purposes of paragraph (3), the constructive ownership rules of section 1563(e) of title 26 (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
 

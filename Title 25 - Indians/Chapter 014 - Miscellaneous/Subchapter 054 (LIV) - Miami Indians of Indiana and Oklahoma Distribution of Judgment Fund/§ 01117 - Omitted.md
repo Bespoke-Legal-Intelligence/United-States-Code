@@ -1,0 +1,6 @@
+### §1117. Omitted
+
+#### Codification
+
+Section, Pub. L. 89–659, §7, Oct. 14, 1966, 80 Stat. 910, which provided for distribution of certain judgment funds to persons whose names appeared on the roll prepared pursuant to former section 1114 of this title, was omitted from the Code as being of special and not general application.
+

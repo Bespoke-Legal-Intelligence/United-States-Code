@@ -2,7 +2,7 @@
 
 #### (a) Trust fund
 
-There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, established by section 9505 of title 26, for each fiscal year such sums as may be necessary to pay—
+There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, establishedby section 9505 of title 26, for each fiscal year such sums as may be necessary to pay—
 
 &emsp;(1) 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Saint Lawrence Seaway Development Corporation for such fiscal year; and
 
@@ -36,11 +36,11 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (3) Emerging harbor projects
 
-&emsp;Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each of fiscal years 2015 through 2022, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+&emsp;Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
 
 #### (4) Management of Great Lakes Navigation System
 
-&emsp;To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of asingle, comprehensive system, recognizing the interdependence of the projects.
+&emsp;To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of a single, comprehensive system, recognizing the interdependence of the projects.
 
 #### (d) Prioritization
 
@@ -48,15 +48,11 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 2015 through 2024, if priority funds are available, the Secretary shall use the priority funds as follows:
-
-&emsp;&emsp;&emsp;(i) 90 percent of the priority funds shall be used for high- and moderate-use harbor projects.
-
-&emsp;&emsp;&emsp;(ii) 10 percent of the priority funds shall be used for emerging harbor projects.
+&emsp;&emsp;For each fiscal year, if priority funds are available, the Secretary shall use at least 10 percent of such funds for emerging harbor projects.
 
 #### (B) Additional considerations
 
-&emsp;&emsp;For each of fiscal years 2015 through 2024, of the priority funds available, the Secretary shall use—
+&emsp;&emsp;For each fiscal year, of the priority funds available, the Secretary shall use—
 
 &emsp;&emsp;&emsp;(i) not less than 5 percent of such funds for underserved harbor projects; and
 
@@ -92,7 +88,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (C) Prioritization
 
-&emsp;&emsp;In allocating funds under this paragraph, the Secretary shall give priority to projects at eligible harbors or inland harbors for which the difference, calculated in dollars, is greatest between—
+&emsp;&emsp;In allocating funds under this paragraph, the Secretary shall give priority to projects at eligible harbors or inland harbors forwhich the difference, calculated in dollars, is greatest between—
 
 &emsp;&emsp;&emsp;(i) the total amount of funding made available for projects at that eligible harbor or inland harbor from the Harbor Maintenance Trust Fund in the immediately preceding 3 fiscal years; and
 
@@ -132,7 +128,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 &emsp;&emsp;In carrying out paragraph (1), the Secretary shall identify—
 
-&emsp;&emsp;&emsp;(i) the total future costs required to achieve and maintain the constructedwidth and depth for the harbors and inland harbors referred to in subsection (a)(2); and
+&emsp;&emsp;&emsp;(i) the total future costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2); and
 
 &emsp;&emsp;&emsp;(ii) the total expected costs for expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
 
@@ -148,7 +144,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 &emsp;&emsp;&emsp;(iv) commercial fishing;
 
-&emsp;&emsp;&emsp;(v) subsistence, including use by Indian tribes (as defined in section 450b of title 25) for subsistence and ceremonial purposes;
+&emsp;&emsp;&emsp;(v) subsistence, including use by Indian tribes (as defined in section 5304 of title 25) for subsistence and ceremonial purposes;
 
 &emsp;&emsp;&emsp;(vi) use as a harbor of refuge;
 
@@ -180,7 +176,11 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 &emsp;&emsp;&emsp;(iv) identifies the harbors and inland harbors for which the President will allocate funding over the subsequent 5 fiscal years for operation and maintenance activities, on a project-by-project basis, including the amounts to be allocated for such purposes.
 
-#### (B) Public availability
+#### (B) Additional requirement
+
+&emsp;&emsp;In the first report submitted under subparagraph (A) following December 16, 2016, the Secretary shall identify, to the maximum extent practicable, transportation cost savings realized by achieving and maintaining the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2), on a project-by-project basis.
+
+#### (C) Public availability
 
 &emsp;&emsp;The Secretary shall make the report submitted under subparagraph (A) available to the public, including on the Internet.
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (6) High-use harbor project
 
-&emsp;The term "high-use harbor project" means a project that is assigned to a harbor or inlandharbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
+&emsp;The term "high-use harbor project" means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
 
 #### (7) Moderate-use harbor project
 
@@ -268,11 +268,27 @@ In this section:
 
 &emsp;&emsp;For purposes of this paragraph, State and local investments in infrastructure shall include infrastructure investments made using amounts made available for activities under section 5305(a)(9) of title 42.
 
-(Pub. L. 99–662, title II, §210, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 101–640, title III, §316, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 113–121, title II, §2102(a), June 10, 2014, 128 Stat. 1273.)
+(Pub. L. 99–662, title II, §210, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 101–640, title III, §316, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 113–121, title II, §2102(a), June 10, 2014, 128 Stat. 1273; Pub. L. 114–322, title I, §§1103, 1107, 1114, Dec. 16, 2016, 130 Stat. 1633, 1634, 1638.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–322, §1103(1), substituted "for each fiscal year" for "for each of fiscal years 2015 through 2022".
+
+Subsec. (d)(1)(A). Pub. L. 114–322, §1103(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "For each of fiscal years 2015 through 2024, if priority funds are available, the Secretary shall use the priority funds as follows:
+
+&emsp;"(i) 90 percent of the priority funds shall be used for high- and moderate-use harbor projects.
+
+&emsp;"(ii) 10 percent of the priority funds shall be used for emerging harbor projects."
+
+Subsec. (d)(1)(B). Pub. L. 114–322, §1107, substituted "For each fiscal year" for "For each of fiscal years 2015 through 2024" in introductory provisions.
+
+Subsec. (e)(3)(B), (C). Pub. L. 114–322, §1114, added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>2014</b>—Subsecs. (c) to (f). Pub. L. 113–121 added subsecs. (c) to (f).
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–640 substituted "up to 100 percent" for "not more than 40 percent".
+
+#### Guidance
+
+Pub. L. 113–121, title II, §2102(d), as added by Pub. L. 114–322, title I, §1112, Dec. 16, 2016, 130 Stat. 1637, provided that: "Not later than 90 days after the date of enactment of the Water Resources Development Act of 2016 \[Dec. 16, 2016\], the Secretary \[of the Army\] shall publish on the website of the Corps of Engineers guidance on the implementation of this section \[amending this section, section 2211 of this title, and section 9505 of Title 26, Internal Revenue Code\] and the amendments made by this section."
 

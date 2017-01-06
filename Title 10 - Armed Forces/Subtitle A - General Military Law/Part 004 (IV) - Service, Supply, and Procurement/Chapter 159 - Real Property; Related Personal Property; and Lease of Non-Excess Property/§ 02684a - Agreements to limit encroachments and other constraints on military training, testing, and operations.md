@@ -170,7 +170,7 @@ Subsec. (d)(1). Pub. L. 109–163, §2822(a)(2)(A)(i), (b)(1)(A), inserted "or e
 
 Subsec. (d)(1)(A). Pub. L. 109–163, §2822(a)(2)(A)(ii), inserted "or entities" after "the entity".
 
-Subsec. (d)(1)(B). Pub. L. 109–163, §2822(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: "the sharing by the United States and the entity of the acquisition costs."
+Subsec. (d)(1)(B). Pub. L. 109–163, §2822(b)(1)(B), added subpar. (B) and struck out former subpar. (B) whichread as follows: "the sharing by the United States and the entity of the acquisition costs."
 
 Subsec. (d)(3). Pub. L. 109–364 added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and in subpar. (C) substituted "under subparagraph (A), either through the contribution of funds or excess real property, or both," for "in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B)".
 
@@ -185,4 +185,8 @@ Subsecs. (g) to (i). Pub. L. 109–163, §2822(c), added subsec. (g) and redesig
 #### Termination of 2013 Amendment
 
 Pub. L. 113–66, div. A, title III, §312(b), Dec. 26, 2013, 127 Stat. 729, provided that: "This section \[amending this section\] and subsection (h) of section 2684a of title 10, United States Code, as added by this section, shall expire on October 1, 2019, except that any agreement referred to in such subsection that is entered into on or before September 30, 2019, shall continue according to its terms and conditions as if this section has not expired."
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

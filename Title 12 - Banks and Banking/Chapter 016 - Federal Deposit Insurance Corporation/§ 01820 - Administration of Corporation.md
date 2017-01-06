@@ -44,7 +44,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (B) Commitment by foreign banks to allow examinations of affiliates
 
-&emsp;&emsp;No branch or depository institution subsidiary of a foreign bank may become an insured depository institution unless such foreign bank submits a written binding commitment to the Board of Directors to permit any examination of any affiliate of such branch or depository institution subsidiary pursuant to subparagraph (A) to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter.
+&emsp;&emsp;No branch or depository institution subsidiary of a foreign bank may become an insured depository institution unless such foreign bank submits a written binding commitment to the Board of Directors to permit any examination of any affiliate of such branch or depository institution subsidiarypursuant to subparagraph (A) to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter.
 
 #### (5) Examination of insured State branches
 
@@ -154,7 +154,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (2) Examination of affiliates
 
-&emsp;The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessedby the Corporation against each affiliate which is examined to meet the Corporation's expenses in carrying out such examination.
+&emsp;The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessed by the Corporation against each affiliate which is examined to meet the Corporation's expenses in carrying out such examination.
 
 #### (3) Assessment against depository institution in case of affiliate's refusal to pay
 
@@ -204,7 +204,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;&emsp;(i) being read or scanned by computer; and
 
-&emsp;&emsp;&emsp;(ii) being reproduced from such electronic medium or format by printing any other form of reproduction of electronically stored data.
+&emsp;&emsp;&emsp;(ii) being reproduced from such electronic medium or format by printing anyother form of reproduction of electronically stored data.
 
 #### (2) Treatment as original records
 
@@ -300,7 +300,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;Solely for purposes of paragraph (2)(B), an insured State bank has been determined to be in "troubled condition" if the bank—
 
-&emsp;&emsp;&emsp;(i) has a composite rating, as determined in its most recent report of examination,of 4 or 5 under the Uniform Financial Institutions Ratings System;
+&emsp;&emsp;&emsp;(i) has a composite rating, as determined in its most recent report of examination, of 4 or 5 under the Uniform Financial Institutions Ratings System;
 
 &emsp;&emsp;&emsp;(ii) is subject to a proceeding initiated by the Corporation for termination or suspension of deposit insurance; or
 
@@ -406,7 +406,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;&emsp;&emsp;(I) to remove such person from office or to prohibit such person from further participation in the conduct of the affairs of the depository institution, depository institution holding company, or other company for a period of up to 5 years; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insured depository institution for a period of up to 5 years.
+&emsp;&emsp;&emsp;&emsp;(II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insureddepository institution for a period of up to 5 years.
 
 #### (ii) Civil monetary penalty
 
@@ -424,7 +424,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### References in Text
 
-Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II of Pub. L. 111–203, known as theDodd-Frank Wall Street Reform and Consumer Protection Act, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of this title. The Financial Stability Act of 2010, which is title I of Pub. L. 111–203, does not contain titles. For complete classification of title II to the Code, see Tables.
+Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II of Pub. L. 111–203, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of this title. The Financial Stability Act of 2010, which is title I of Pub. L. 111–203, does not contain titles. For complete classification of title II to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -512,7 +512,7 @@ Subsec. (d)(5). Pub. L. 102–550, §1603(b)(1)(A), (B), inserted "or the Resolu
 
 Subsec. (d)(6). Pub. L. 102–550, §1603(b)(1)(C), struck out par. (6) which read as follows: "(6)
 
-Consumer compliance examinations excluded.—For purposes of thissubsection, the term 'full-scope, on-site examination' does not include a consumer compliance examination, as defined in section 41(b)."
+Consumer compliance examinations excluded.—For purposes of this subsection, the term 'full-scope, on-site examination' does not include a consumer compliance examination, as defined in section 41(b)."
 
 Subsec. (e). Pub. L. 102–550, §1603(b)(4), amended directory language of Pub. L. 102–242, §113(a)(2). See 1991 Amendment note below.
 
@@ -548,7 +548,7 @@ Subsec. (d). Pub. L. 97–320, §410(g), inserted "as in section 221a(b) of this
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–630, §305(a), inserted "or other institution" after "any State nonmember bank" and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
-Pub. L. 95–369 inserted "any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank" after "(except a District bank)", inserted "or branch" after "and any closed insured bank", substituted "any national bank, insured Federal branch of a foreign bank, or District bank" for "any national bank or District bank" and inserted "and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits" after "effect of such relations upon such banks".
+Pub. L. 95–369 inserted "any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank" after "(except a District bank)", inserted "or branch" after "and any closed insured bank", substituted "any national bank, insured Federal branch of a foreign bank, or District bank" for "any national bank or District bank" and inserted "and in the case of a foreign bank,a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits" after "effect of such relations upon such banks".
 
 Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmember banks, other institutions making application to become insured banks, and investigations to determine compliance with applicable law and regulations and struck out provisions defining "affiliate" and "member bank".
 
@@ -572,7 +572,7 @@ Amendment by section 172(a) of Pub. L. 111–203 effective 1 day after July 21, 
 
 Amendment by section 318(d) of Pub. L. 111–203 effective on the transfer date, see section 318(e) of Pub. L. 111–203, set out as an Effective Date note under section 16 of this title.
 
-Amendment by section 363(4) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L.111–203, set out as a note under section 906 of Title 2, The Congress.
+Amendment by section 363(4) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2004 Amendments
 

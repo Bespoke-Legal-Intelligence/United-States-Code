@@ -10,7 +10,7 @@ This part provides for the Volunteers in Service to America (VISTA) program of f
 
 <b>1993</b>—Pub. L. 103–82 amended last sentence generally. Prior to amendment last sentence read as follows: "In addition the objective of this part is to generate the commitment of private sector resources and to encourage volunteer service at the local level to carry out the purposes set forth in this section."
 
-<b>1984</b>—Pub. L. 98–288, in second sentence, inserted "and alleviate" after "eliminate", struck out "human, social, and environmental" after "poverty-related", inserted ", all geographical areas," after "all walks of life" and "low-income individuals," before "elderly", and inserted at end "In addition the objective of this part is to generate the commitment of private sector resources and to encourage volunteer service at the local level to carry out the purposes set forth in this section."
+<b>1984</b>—Pub. L. 98–288, in second sentence, inserted "and alleviate" after "eliminate", struck out "human, social, and environmental" after "poverty-related", inserted ", all geographical areas," after "all walks of life" and "low-income individuals," before "elderly", and inserted at end "In addition the objective of thispart is to generate the commitment of private sector resources and to encourage volunteer service at the local level to carry out the purposes set forth in this section."
 
 #### Effective Date of 2009 Amendment
 

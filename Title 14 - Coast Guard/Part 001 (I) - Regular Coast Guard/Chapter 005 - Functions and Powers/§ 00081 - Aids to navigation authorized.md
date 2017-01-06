@@ -6,7 +6,7 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
 &emsp;(2) aids to air navigation required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense and as required by any of those officials; and
 
-&emsp;(3) electronic aids to navigation systems (a) required to serve the needs of the armed forcesof the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
+&emsp;(3) electronic aids to navigation systems (a) required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
 
 > These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
 
@@ -40,9 +40,29 @@ Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 810, provided tha
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Discontinuance of an Aid to Navigation
+
+Pub. L. 114–120, title II, §210, Feb. 8, 2016, 130 Stat. 41, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard.
+
+"(b)
+
+Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection.
+
+"(c)
+
+Consultation.—In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of the Navigation Safety Advisory Council.
+
+"(d)
+
+Notification.—Not later than 30 days after establishing a process under subsection (a), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the process established."
+
 #### Improved Safety Information for Vessels
 
-Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
+Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after thedate of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
 
 #### Aids to Navigation Report
 

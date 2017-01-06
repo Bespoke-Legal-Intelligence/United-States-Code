@@ -16,7 +16,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (2) Affiliate
 
-&emsp;The term "affiliate" means a person that (directly or indirectly) owns or controls, is owned or controlled by, or is under common ownership or control with, another person. For purposes of this paragraph, the term "own" means to own an equity interest (or the equivalent thereof) of more than 10 percent.
+&emsp;The term "affiliate" means a person that (directly or indirectly) owns or controls, isowned or controlled by, or is under common ownership or control with, another person. For purposes of this paragraph, the term "own" means to own an equity interest (or the equivalent thereof) of more than 10 percent.
 
 #### (3) Amateur station
 
@@ -24,7 +24,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (4) AT\&T Consent Decree
 
-&emsp;The term "AT\&T Consent Decree" means the order entered August 24, 1982, in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the Districtof Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982.
+&emsp;The term "AT\&T Consent Decree" means the order entered August 24, 1982, in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the District of Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982.
 
 #### (5) Bell operating company
 
@@ -102,7 +102,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (22) Great Lakes Agreement
 
-&emsp;The term "Great Lakes Agreement" means the Agreement for the Promotion of Safety onthe Great Lakes by Means of Radio in force and the regulations referred to therein.
+&emsp;The term "Great Lakes Agreement" means the Agreement for the Promotion of Safety on the Great Lakes by Means of Radio in force and the regulations referred to therein.
 
 #### (23) Harbor
 
@@ -166,7 +166,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(A) means a service that—
 
-&emsp;&emsp;&emsp;(i) enables real-time voice communications that originate from or terminate tothe user's location using Internet protocol or any successor protocol; and
+&emsp;&emsp;&emsp;(i) enables real-time voice communications that originate from or terminate to the user's location using Internet protocol or any successor protocol; and
 
 &emsp;&emsp;&emsp;(ii) requires Internet protocol compatible customer premises equipment; and
 
@@ -232,7 +232,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;(C) A cargo ship means any ship not a passenger ship.
 
-&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officersand crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason of any circumstance over which neither the master, the owner, nor the charterer (if any) has control.
+&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officers and crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason of any circumstance over which neither the master, the owner, nor the charterer (if any) has control.
 
 &emsp;(E) "Nuclear ship" means a ship provided with a nuclear powerplant.
 
@@ -292,7 +292,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (59) Wire communication
 
-&emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+&emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, andservices (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
 
 (June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub. L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752.)
 
@@ -376,11 +376,11 @@ Amendment by act Aug. 13, 1954, ch. 735, effective Nov. 13, 1954, see section 6 
 
 #### Effective Date of 1952 Amendment
 
-Section 19 of act July 16, 1952, provided that: "This Act \[enacting section 1343 of Title 18, Crimes and Criminal Procedure, amending this section and sections 154, 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes under this section and section 609 of this title\] shall take effect on the date of its enactment \[July 16, 1952\], but—
+Section 19 of act July 16, 1952, provided that: "This Act \[enacting section 1343 of Title 18, Crimes andCriminal Procedure, amending this section and sections 154, 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes under this section and section 609 of this title\] shall take effect on the date of its enactment \[July 16, 1952\], but—
 
 &emsp;"(1) Insofar as the amendments made by this Act to the Communications Act of 1934 \[this chapter\] provide for procedural changes, requirements imposed by such changes shall not be mandatory as to any agency proceeding (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] with respect to which hearings have been commenced prior to the date of enactment of this Act \[July 16, 1952\].
 
-&emsp;"(2) The amendments made by this Act to section 402 of the Communications Act of 1934 \[section 402 of this title\] (relating to judicial review of orders and decisions of the Commission) shall not apply with respect to any action or appeal which is pending beforeany court on the date of enactment of this Act \[July 16, 1952\]."
+&emsp;"(2) The amendments made by this Act to section 402 of the Communications Act of 1934 \[section 402 of this title\] (relating to judicial review of orders and decisions of the Commission) shall not apply with respect to any action or appeal which is pending before any court on the date of enactment of this Act \[July 16, 1952\]."
 
 #### Limitation on Liability
 

@@ -228,7 +228,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 &emsp;&emsp;The term "credit score"—
 
-&emsp;&emsp;&emsp;(i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from suchanalysis may also be referred to as a "risk predictor" or "risk score"); and
+&emsp;&emsp;&emsp;(i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from such analysis may also be referred to as a "risk predictor" or "risk score"); and
 
 &emsp;&emsp;&emsp;(ii) does not include—
 
@@ -380,7 +380,7 @@ For the effective date of this subchapter, referred to in subsec. (b), see secti
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (c)(1)(B)(v), probably means section 211(d) of Pub. L. 108–159, which is set out as a note under section 1681j of this title and relates to the promulgation of regulations. Section 211(c) of Pub. L. 108–159 amended this section.
 
-Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of thistitle by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
+Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
 Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
@@ -441,6 +441,10 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
 #### Simplified Disclosure To Maximize Comprehensibility and Standardization
 

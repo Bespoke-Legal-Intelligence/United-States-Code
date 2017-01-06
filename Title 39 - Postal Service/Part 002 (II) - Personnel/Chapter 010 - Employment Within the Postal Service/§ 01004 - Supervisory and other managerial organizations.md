@@ -64,7 +64,7 @@
 
 &emsp;(B) if 2 or more postmasters' organizations exist, by treating such organizations as if they constituted a single organization, in accordance with such arrangements as such organizations shall mutually agree to.
 
-(2) If 2 or more postmasters' organizations exist, such organizations shall, in the case of any factfinding panel convened at the request of such organizations (in accordance with paragraph (1)(B)), be jointly and severally liable for the cost of such panel, apart from the portion to be borne by the Postal Service (as determined under subsection (f)(4)).
+(2) If 2 or more postmasters' organizations exist, such organizations shall, in the case of any factfinding panel convened at the request ofsuch organizations (in accordance with paragraph (1)(B)), be jointly and severally liable for the cost of such panel, apart from the portion to be borne by the Postal Service (as determined under subsection (f)(4)).
 
 (i) For purposes of this section—
 

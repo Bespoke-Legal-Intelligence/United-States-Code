@@ -4,7 +4,7 @@
 
 #### (1) Delegation authorized
 
-&emsp;Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) of this title or any other function vested in the Secretary as of October 13, 1994. The authority provided in the preceding sentence includes the authority to establish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
+&emsp;Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) of this title or any other function vested in the Secretary as of October 13, 1994. The authority provided in the preceding sentence includes the authority toestablish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
 
 #### (2) Condition on authority
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to assist the Department in implementing the Department's mission to ensure equal access to education and to promote educational excellence throughout the Nation, by—
+The purpose of this section is to assist the Department in implementing the Department'smission to ensure equal access to education and to promote educational excellence throughout the Nation, by—
 
 &emsp;(1) ensuring equal opportunities to participate for all eligible students, teachers, and other program beneficiaries in any project or activity carried out under an applicable program; and
 

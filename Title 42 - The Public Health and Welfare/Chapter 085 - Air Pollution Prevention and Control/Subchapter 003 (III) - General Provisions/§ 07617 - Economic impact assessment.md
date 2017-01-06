@@ -8,9 +8,9 @@ This section applies to action of the Administrator in promulgating or revising�
 
 &emsp;(2) any regulation under section 7411(d) of this title,
 
-&emsp;(3) any regulation under part B <sup>1</sup> of subchapter I of this chapter (relating to ozone and stratosphere protection),
+&emsp;(3) any regulation under part B <sup>1</sup> of subchapter I (relating to ozone and stratosphere protection),
 
-&emsp;(4) any regulation under part C of subchapter I of this chapter (relating to prevention of significant deterioration of air quality),
+&emsp;(4) any regulation under part C of subchapter I (relating to prevention of significant deterioration of air quality),
 
 &emsp;(5) any regulation establishing emission standards under section 7521 of this title and any other regulation promulgated under that section,
 
@@ -66,7 +66,7 @@ In the case of any provision of this chapter in which costs are expressly requir
 
 #### References in Text
 
-Part B of subchapter I of this chapter, referred to in subsec. (a)(3), was repealed by Pub. L. 101–549, title VI, §601, Nov. 15, 1990, 104 Stat. 2648. See subchapter VI (§7671 et seq.) of this chapter.
+Part B of subchapter I, referred to in subsec. (a)(3), was repealed by Pub. L. 101–549, title VI, §601, Nov. 15, 1990, 104 Stat. 2648. See subchapter VI (§7671 et seq.) of this chapter.
 
 #### Codification
 

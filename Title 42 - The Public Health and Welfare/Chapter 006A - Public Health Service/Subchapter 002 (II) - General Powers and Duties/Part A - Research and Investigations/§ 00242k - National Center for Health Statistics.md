@@ -6,7 +6,7 @@ There is established in the Department of Health and Human Services the National
 
 #### (b) Duties
 
-In carrying out subsection (a) of this section, the Secretary, acting through the Center,
+In carrying out subsection (a), the Secretary, acting through the Center,
 
 &emsp;(1) shall collect statistics on—
 
@@ -20,7 +20,7 @@ In carrying out subsection (a) of this section, the Secretary, acting through th
 
 &emsp;&emsp;(E) health resources, including physicians, dentists, nurses, and other health professionals by specialty and type of practice and the supply of services by hospitals, extended care facilities, home health agencies, and other health institutions,
 
-&emsp;&emsp;(F) utilization of health care, including utilization of (i) ambulatory health services by specialties and types of practice of the health professionals providing such services, and (ii) services of hospitals, extended care facilities, home health agencies, and other institutions,
+&emsp;&emsp;(F) utilization of health care, including utilization of (i) ambulatory health services by specialties and types of practice of thehealth professionals providing such services, and (ii) services of hospitals, extended care facilities, home health agencies, and other institutions,
 
 &emsp;&emsp;(G) health care costs and financing, including the trends in health care prices and cost, the sources of payments for health care services, and Federal, State, and local governmental expenditures for health care services, and
 
@@ -54,7 +54,7 @@ For the purpose of producing comparable and uniform health information and stati
 
 &emsp;(4) review the statistical activities of the Department of Health and Human Services to assure that they are consistent with the System.
 
-> States participating in the System shall designate a State agency to administer or be responsible for the administration of the statistical activities within the State under the System. The Secretary, acting through the Center,shall prescribe guidelines to assure that statistical activities within States participating in the system <sup>1</sup> produce uniform and timely data and assure appropriate access to such data.
+> States participating in the System shall designate a State agency to administer or be responsible for the administration of the statistical activities within the State under the System. The Secretary, acting through the Center, shall prescribe guidelines to assure that statistical activities within States participating in the system <sup>1</sup> produce uniform and timely data and assure appropriate access to such data.
 
 #### (f) Federal-State cooperation
 
@@ -68,7 +68,7 @@ To secure uniformity in the registration and collection of mortality, morbidity,
 
 (1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
 
-(2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
+(2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population.Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
 
 #### (i) Technical assistance in effective use of statistics
 
@@ -80,7 +80,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(1) establishing standardized means for the collection of health information and statistics under laws administered by the Secretary;
 
-&emsp;(2) developing, in consultation with the National Committee on Vital and Health Statistics, and maintaining the minimum sets of data needed on a continuing basis to fulfill the collection requirements of subsection (b)(1) of this section;
+&emsp;(2) developing, in consultation with the National Committee on Vital and Health Statistics, and maintaining the minimum sets of data needed on a continuing basis to fulfill the collection requirements of subsection (b)(1);
 
 &emsp;(3) after consultation with the National Committee on Vital and Health Statistics, establishing standards to assure the quality of health statistical and epidemiological data collection, processing, and analysis;
 
@@ -112,11 +112,11 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;&emsp;(ii) to stimulate studies of such problems by other organizations and agencies whenever possible or to make investigations of such problems through subcommittees;
 
-&emsp;&emsp;(iii) to determine, approve, and revise the terms, definitions, classifications, and guidelines for assessing health status and health services, their distribution and costs, for use (I) within the Department of Health and Human Services, (II) by all programs administered or funded by the Secretary, including the Federal-State-local cooperative health statistics system referred to in subsection (e) of this section, and (III) to the extent possible as determined by the head of the agency involved, by the Department of Veterans Affairs, the Department of Defense, and other Federal agencies concerned with health and health services;
+&emsp;&emsp;(iii) to determine, approve, and revise the terms, definitions, classifications, and guidelines for assessing health status and health services, their distribution and costs, for use (I) within the Department of Health and Human Services, (II) by all programs administered or funded by the Secretary, including the Federal-State-local cooperative health statistics system referred to in subsection (e), and (III) to the extent possible as determined by the head of the agency involved, by the Department of Veterans Affairs, the Department of Defense, and other Federal agencies concerned with health and health services;
 
-&emsp;&emsp;(iv) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and Human Services, with respect to the Cooperative Health Statistics System established under subsection (e) of this section, and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1) of this section;
+&emsp;&emsp;(iv) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and Human Services, with respect to the Cooperative Health Statistics System established under subsection (e), and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1);
 
-&emsp;&emsp;(v) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation by local, State, national, or international agencies;
+&emsp;&emsp;(v) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation bylocal, State, national, or international agencies;
 
 &emsp;&emsp;(vi) to cooperate with national committees of other countries and with the World Health Organization and other national agencies in the studies of problems of mutual interest;
 
@@ -146,7 +146,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 #### (l) Data specific to particular ethnic and racial populations
 
-In carrying out this section, the Secretary, acting through the Center, shall collect and analyze adequate health data that is specific to particular ethnic and racial populations, including data collected under national health surveys. Activities carried out under this subsection shall be in addition to any activities carried out under subsection (m) of this section.
+In carrying out this section, the Secretary, acting through the Center, shall collect and analyze adequate health data that is specific to particular ethnic and racial populations, including data collected under national health surveys. Activities carried out under this subsection shall be in addition to any activities carried out under subsection (m).
 
 #### (m) Grants for assembly and analysis of data on ethnic and racial populations
 
@@ -158,23 +158,23 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 &emsp;(C) research on improving methods for developing statistics on ethnic and racial populations and subpopulations.
 
-(2) The Secretary, acting through the Center, may provide technical assistance, standards,and methodologies to grantees supported by this subsection in order to maximize the data quality and comparability with other studies.
+(2) The Secretary, acting through the Center, may provide technical assistance, standards, and methodologies to grantees supported by this subsection in order to maximize the data quality and comparability with other studies.
 
 (3) Provisions of section 242m(d) of this title do not apply to surveys or studies conducted by grantees under this subsection unless the Secretary, in accordance with regulations the Secretary may issue, determines that such provisions are necessary for the conduct of the survey or study and receives adequate assurance that the grantee will enforce such provisions.
 
 (4)(A) Subject to subparagraph (B), the Secretary, acting through the Center, shall collect data on Hispanics and major Hispanic subpopulation groups and American Indians, and for developing special area population studies on major Asian American and Pacific Islander populations.
 
-(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n) of this section, and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1) and (2) of subsection (n) of this section equal or exceed the amounts so appropriated for fiscal year 1997.
+(B) The provisions of subparagraph (A) shall be effective with respect to a fiscal year only to the extent that funds are appropriated pursuant to paragraph (3) of subsection (n), and only if the amounts appropriated for such fiscal year pursuant to each of paragraphs (1) and (2) of subsection (n) equal or exceed the amounts so appropriated for fiscal year 1997.
 
 #### (n) Authorization of appropriations
 
-(1) For health statistical and epidemiological activities undertaken or supported under subsections (a) through (l) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 2003.
+(1) For health statistical and epidemiological activities undertaken or supported under subsections (a) through (l), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 2003.
 
-(2) For activities authorized in paragraphs (1) through (3) of subsection (m) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. Of such amounts, the Secretary shall use not more than 10 percent for administration and for activities described in subsection (m)(2) of this section.
+(2) For activities authorized in paragraphs (1) through (3) of subsection (m), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. Of such amounts, the Secretary shall use not more than 10 percent for administration and for activities described in subsection (m)(2).
 
-(3) For activities authorized in subsection (m)(4) of this section, there are authorized to be appropriated $1,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+(3) For activities authorized in subsection (m)(4), there are authorized to be appropriated $1,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
-(July 1, 1944, ch. 373, title III, §306, as added Pub. L. 93–353, title I, §105, July 23, 1974, 88 Stat. 365; amended Pub. L. 95–623, §§5, 8(a), Nov. 9, 1978, 92 Stat. 3445, 3453; Pub. L. 97–35, title IX, §920, Aug. 13, 1981, 95 Stat. 566; Pub. L. 97–414, §8(b), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 100–177, title I, §§104, 105(a), Dec. 1, 1987, 101 Stat. 988; Pub. L. 101–239, title VI, §6103(e)(2), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(a), (b)(1), (c), Nov. 6, 1990, 104 Stat. 2327, 2328; Pub. L. 102–54, §13(q)(1)(A)(i), June 13, 1991, 105 Stat. 278; Pub. L. 103–183, title V, §501(a), (d), Dec. 14, 1993, 107 Stat. 2237, 2238; Pub. L. 104–191, title II, §263, Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–340, title II, §201, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 105–392, title II, §201(b), Nov. 13, 1998, 112 Stat. 3585.)
+(July 1, 1944, ch. 373, title III, §306, as added Pub. L. 93–353, title I, §105, July 23, 1974, 88 Stat. 365; amended Pub. L. 95–623, §§5, 8(a), Nov. 9, 1978, 92 Stat. 3445, 3453; Pub. L. 97–35, title IX, §920, Aug. 13, 1981, 95 Stat. 566; Pub. L. 97–414, §8(b), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 100–177, title I, §§104, 105(a), Dec. 1, 1987, 101 Stat. 988; Pub. L. 101–239, title VI, §6103(e)(2), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(a), (b)(1), (c), Nov. 6, 1990, 104Stat. 2327, 2328; Pub. L. 102–54, §13(q)(1)(A)(i), June 13, 1991, 105 Stat. 278; Pub. L. 103–183, title V, §501(a), (d), Dec. 14, 1993, 107 Stat. 2237, 2238; Pub. L. 104–191, title II, §263, Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–340, title II, §201, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 105–392, title II, §201(b), Nov. 13, 1998, 112 Stat. 3585.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Subsecs. (m) to (o). Pub. L. 101–527, §7(b)(1), (c), added subsecs. (m) and (
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §6103(e)(2)(A), inserted at end "The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States."
 
-Subsec. (b). Pub. L. 101–239, §6103(e)(2)(B), substituted "subsection (a) of this section" for "section 242b(a) of this title".
+Subsec. (b). Pub. L. 101–239, §6103(e)(2)(B), substituted "subsection (a)" for "section 242b(a) of this title".
 
 Subsec. (m). Pub. L. 101–239, §6103(e)(2)(C), added subsec. (m).
 
@@ -290,7 +290,7 @@ Subsec. (l). Pub. L. 95–623, §8(a), added subsec. (l).
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

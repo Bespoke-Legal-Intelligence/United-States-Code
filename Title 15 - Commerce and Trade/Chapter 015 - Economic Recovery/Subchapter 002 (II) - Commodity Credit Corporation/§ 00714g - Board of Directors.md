@@ -8,7 +8,7 @@ The management of the Corporation shall be vested in a board of directors (herei
 
 In addition to the Board of Directors there shall be an advisory board reflecting broad agricultural and business experience in its membership and consisting of five members who shall be appointed by the President, and who shall serve at the pleasure of the President. Not more than three of such members shall belong to the same political party. The advisory board shall meet at the call of the Secretary, who shall require it to meet not less often than once each ninety days; shall survey the general policies of the Corporation, including its policies in connection with the purchase, storage, and sale of commodities, and the operation of lending and price-support programs; and shall advise the Secretary with respect thereto. Members of the advisory board shall receive for their services as members compensation of not to exceed $50 per diem when actually engaged in the performance of their duties as such, together with their necessary traveling expenses while going to and coming from meetings.
 
-(June 29, 1948, ch. 704, §9, 62 Stat. 1072; June 7, 1949, ch. 175, §3, 63 Stat. 155; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 94–561, §4,Oct. 19, 1976, 90 Stat. 2643; Pub. L. 112–166, §2(a)(3), Aug. 10, 2012, 126 Stat. 1283.)
+(June 29, 1948, ch. 704, §9, 62 Stat. 1072; June 7, 1949, ch. 175, §3, 63 Stat. 155; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 94–561, §4, Oct. 19, 1976, 90 Stat. 2643; Pub. L. 112–166, §2(a)(3), Aug. 10, 2012, 126 Stat. 1283.)
 
 #### Codification
 

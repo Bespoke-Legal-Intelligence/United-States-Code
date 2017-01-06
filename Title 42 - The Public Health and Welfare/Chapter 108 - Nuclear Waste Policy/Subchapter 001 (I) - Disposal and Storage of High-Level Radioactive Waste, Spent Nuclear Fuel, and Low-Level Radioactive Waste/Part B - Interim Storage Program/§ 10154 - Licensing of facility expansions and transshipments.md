@@ -6,7 +6,7 @@ In any Commission hearing under section 189 of the Atomic Energy Act of 1954 (42
 
 #### (b) Adjudicatory hearing
 
-(1) At the conclusion of any oral argument under subsection (a) of this section, the Commission shall designate any disputed question of fact, together with any remaining questions of law, for resolution in an adjudicatory hearing only if it determines that—
+(1) At the conclusion of any oral argument under subsection (a), the Commission shall designate any disputed question of fact, together with any remaining questions of law, for resolution in an adjudicatory hearing only if it determines that—
 
 &emsp;(A) there is a genuine and substantial dispute of fact which can only be resolved with sufficient accuracy by the introduction of evidence in an adjudicatory hearing; and
 
@@ -20,7 +20,7 @@ In any Commission hearing under section 189 of the Atomic Energy Act of 1954 (42
 
 &emsp;&emsp;(i) any issue relating to the design, construction, or operation of any civilian nuclear power reactor already licensed to operate at such site, or any civilian nuclear power reactor for which a construction permit has been granted at such site, unless the Commission determines that any such issue substantially affects the design, construction, or operation of the facility or activity for which such license application, authorization, or amendment is being considered; or
 
-&emsp;&emsp;(ii) any siting or design issue fully considered and decided by the Commission in connection with the issuance of a construction permit or operating license for a civilian nuclear power reactor at such site, unless (I) such issue results from any revision of sitingor design criteria by the Commission following such decision; and (II) the Commission determines that such issue substantially affects the design, construction, or operation of the facility or activity for which such license application, authorization, or amendment is being considered.
+&emsp;&emsp;(ii) any siting or design issue fully considered and decided by the Commission in connection with the issuance of a construction permit or operating license for a civilian nuclear power reactor at such site, unless (I) such issue results from any revision of siting or design criteria by the Commission following such decision; and (II) the Commission determines that such issue substantially affects the design, construction, or operation of the facility or activity for which such license application, authorization, or amendment is being considered.
 
 (3) The provisions of paragraph (2)(B) shall apply only with respect to licenses, authorizations, or amendments to licenses or authorizations, applied for under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) before December 31, 2005.
 
@@ -28,7 +28,7 @@ In any Commission hearing under section 189 of the Atomic Energy Act of 1954 (42
 
 #### (c) Judicial review
 
-No court shall hold unlawful or set aside a decision of the Commission in any proceeding described in subsection (a) of this section because of a failure by the Commission to use a particular procedure pursuant to this section unless—
+No court shall hold unlawful or set aside a decision of the Commission in any proceeding described in subsection (a) because of a failure by the Commission to use a particular procedure pursuant to this section unless—
 
 &emsp;(1) an objection to the procedure used was presented to the Commission in a timely fashion or there are extraordinary circumstances that excuse the failure to present a timely objection; and
 

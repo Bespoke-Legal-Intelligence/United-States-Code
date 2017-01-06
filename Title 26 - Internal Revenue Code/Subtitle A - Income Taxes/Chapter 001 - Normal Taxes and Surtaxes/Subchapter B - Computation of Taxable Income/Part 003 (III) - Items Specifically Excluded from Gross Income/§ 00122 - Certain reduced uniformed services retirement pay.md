@@ -42,7 +42,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Amendment by section 2005(c)(10) of Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
-Pub. L. 93–406, title II, §2007(c), Sept. 2, 1974, 88 Stat. 993, provided that: "The amendments made by this section \[amending this section and sections 72, 101, and 2039 of this title\] apply to taxable years ending on or after September 21, 1972. The amendments made byparagraphs (3) and (4) of subsection (b) \[amending sections 101 and 2039 of this title\] apply with respect to individuals dying on or after such date".
+Pub. L. 93–406, title II, §2007(c), Sept. 2, 1974, 88 Stat. 993, provided that: "The amendments made by this section \[amending this section and sections 72, 101, and 2039 of this title\] apply to taxable years ending on or after September 21, 1972. The amendments made by paragraphs (3) and (4) of subsection (b) \[amending sections 101 and 2039 of this title\] apply with respect to individuals dying on or after such date".
 
 #### Effective Date
 

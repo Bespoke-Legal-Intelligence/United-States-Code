@@ -20,7 +20,7 @@ Any return required by subsection (a) shall be filed not later than the earlier 
 
 #### (c) Statements to be furnished to holders of specified securities or their nominees
 
-According to the forms or regulations prescribed by the Secretary, every person required to make a return under subsection (a) with respect to a specified security shall furnish to thenominee with respect to the specified security (or certificate holder if there is no nominee) a written statement showing—
+According to the forms or regulations prescribed by the Secretary, every person required to make a return under subsection (a) with respect to a specified security shall furnish to the nominee with respect to the specified security (or certificate holder if there is no nominee) a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return,
 

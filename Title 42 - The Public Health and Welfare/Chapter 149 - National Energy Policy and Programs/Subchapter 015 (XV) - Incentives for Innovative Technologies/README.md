@@ -10,4 +10,4 @@
 - [&sect; 16513 - Eligible projects](%C2%A7%2016513%20-%20Eligible%20projects.md)
 - [&sect; 16514 - Authorization of appropriations](%C2%A7%2016514%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 16515 - Limitation on commitments to guarantee loans](%C2%A7%2016515%20-%20Limitation%20on%20commitments%20to%20guarantee%20loans.md)
-- [&sect; 16516 - Temporary program for rapid deployment of renewable energy and electric power transmission projects](%C2%A7%2016516%20-%20Temporary%20program%20for%20rapid%20deployment%20of%20renewable%20energy%20and%20electric%20power%20transmission%20projects.md)
+- [&sect; 16516 - Omitted](%C2%A7%2016516%20-%20Omitted.md)

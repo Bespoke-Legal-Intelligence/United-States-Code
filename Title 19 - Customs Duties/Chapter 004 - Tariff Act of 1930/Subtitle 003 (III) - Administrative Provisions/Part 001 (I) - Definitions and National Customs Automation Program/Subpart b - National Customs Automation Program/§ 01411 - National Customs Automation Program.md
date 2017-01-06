@@ -68,7 +68,7 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 #### (D) Consultation
 
-&emsp;&emsp;The Secretary shall consult with and assist the United States Customs and BorderProtection and other agencies in the transition from paper to electronic format for the submission, issuance, and storage of documents relating to data required to enter cargo into the United States. In so doing, the Secretary shall also consult with private sector stakeholders, including the Commercial Operations Advisory Committee, in developing uniform data submission requirements, procedures, and schedules, for the ITDS.
+&emsp;&emsp;The Secretary shall consult with and assist the United States Customs and Border Protection and other agencies in the transition from paper to electronic format for the submission, issuance, and storage of documents relating to data required to enter cargo into the United States. In so doing, the Secretary shall also consult with private sector stakeholders, including the Commercial Operations Advisory Committee, in developing uniform data submission requirements, procedures, and schedules, for the ITDS.
 
 #### (E) Coordination
 
@@ -88,7 +88,25 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 &emsp;There is established an Interagency Steering Committee (in this section, referred to as the "Committee"). The members of the Committee shall include the Secretary (who shall serve as the chairperson of the Committee), the Director of the Office of Management and Budget, and the head of each agency participating in the ITDS. The Committee shall assist the Secretary in overseeing the implementation of, and participation in, the ITDS.
 
-#### (4) Report
+#### (4) Information technology infrastructure
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall work with the head of each agency participating in the ITDS and the Interagency Steering Committee to ensure that each agency—
+
+&emsp;&emsp;&emsp;(i) develops and maintains the necessary information technology infrastructure to support the operation of the ITDS and to submit all data to the ITDS electronically;
+
+&emsp;&emsp;&emsp;(ii) enters into a memorandum of understanding, or takes such other action as is necessary, to provide for the information sharing between the agency and U.S. Customs and Border Protection necessary for the operation and maintenance of the ITDS;
+
+&emsp;&emsp;&emsp;(iii) not later than June 30, 2016, identifies and transmits to the Commissioner of U.S. Customs and Border Protection the admissibility criteria and data elements required by the agency to authorize the release of cargo by U.S. Customs and Border Protection for incorporation into the operational functionality of the Automated Commercial Environment computer system authorized under section 58c(f)(4) of this title; and
+
+&emsp;&emsp;&emsp;(iv) not later than December 31, 2016, utilizes the ITDS as the primary means of receiving from users the standard set of data and other relevant documentation, exclusive of applications for permits, licenses, or certifications required for the release of imported cargo and clearance of cargo for export.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to require any action to be taken that would compromise an ongoing law enforcement investigation or would compromise national security.
+
+#### (5) Report
 
 &emsp;The President shall submit a report before the end of each fiscal year to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Each report shall include information on—
 
@@ -104,25 +122,23 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 &emsp;&emsp;(F) the status of the development, implementation, and management of the Automated Commercial Environment within the United States Customs and Border Protection.
 
-#### (5) Sense of Congress
+#### (6) Sense of Congress
 
 &emsp;It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
 
-#### (6) Construction
+#### (7) Construction
 
 &emsp;Nothing in this section shall be construed as amending or modifying subsection (g) of section 301 of title 13.
 
-#### (7) Definition
+#### (8) Definition
 
-&emsp;The term "Commercial Operations Advisory Committee" means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) or any successor committee.
+&emsp;The term "Commercial Operations Advisory Committee" means the Advisory Committee established pursuant to section 4316 of this title or any successor committee.
 
-(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188; amended Pub. L. 106–36, title II, §2405, June 25, 1999, 113 Stat. 169; Pub. L. 107–210, div. A, title III, §338, Aug. 6, 2002, 116 Stat. 980; Pub. L. 109–347, title IV, §405, Oct. 13, 2006, 120 Stat. 1929.)
-
-#### References in Text
-
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (d)(7), is section 9503(c) of Pub. L. 100–203, which is set out as a note under section 2071 of this title.
+(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188; amended Pub. L. 106–36, title II, §2405, June 25, 1999, 113 Stat. 169; Pub. L. 107–210, div. A, title III, §338, Aug. 6, 2002, 116 Stat. 980; Pub. L. 109–347, title IV, §405, Oct. 13, 2006, 120 Stat. 1929; Pub. L. 114–125, title I, §107, Feb. 24, 2016, 130 Stat. 135.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(4) to (8). Pub. L. 114–125 added par. (4), redesignated former pars. (4) to (7) as (5) to (8), respectively, and, in par. (8), substituted "section 4316 of this title" for "section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note)".
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–347 added subsec. (d).
 
@@ -136,7 +152,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Ex. Ord. No. 13659. Streamlining the Export/Import Process for America's Businesses
 
@@ -150,7 +166,7 @@ In particular, we must increase efforts to complete the development of efficient
 
 Sec. 2. <i>Policy Coordination</i>. Policy coordination, guidance, dispute resolution, and periodic reviews for the functions and programs set forth in this order shall be provided through the interagency process established in Presidential Policy Directive–1 of February 13, 2009 (Organization of the National Security Council System), or any successor.
 
-Sec. 3. <i>International Trade Data System</i>. The ITDS, as described in section 405 of the Security and Accountability for Every Port Act of 2006 (the "SAFE Port Act") (Public Law 109–347), is an electronic information exchange capability, or "single window," through which businesses will transmit data required by participating agencies for the importation or exportation of cargo. To enhance Federal coordination associated with the development of the ITDS and to provide necessary transparency to businesses, agencies, and other potential users:
+Sec. 3. <i>International Trade Data System</i>. The ITDS, as described in section 405 of the Security and Accountability for Every Port Act of 2006 (the "SAFE Port Act") (Public Law 109–347), is an electronic information exchange capability, or "single window," throughwhich businesses will transmit data required by participating agencies for the importation or exportation of cargo. To enhance Federal coordination associated with the development of the ITDS and to provide necessary transparency to businesses, agencies, and other potential users:
 
 (a) by December 31, 2016, participating agencies shall have capabilities, agreements, and other requirements in place to utilize the ITDS and supporting systems, such as the Automated Commercial Environment, as the primary means of receiving from users the standard set of data and other relevant documentation (exclusive of applications for permits, licenses, or certifications) required for the release of imported cargo and clearance of cargo for export;
 

@@ -22,7 +22,7 @@ Section 851 of this title shall apply with respect to any proceeding to sentence
 
 Pub. L. 99–570, §1004(a), substituted "term of supervised release" for "special parole term".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473, §225(b), which directed amendment of this section effective Nov. 1, 1987\(see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, §1005(c).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §225(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, §1005(c).
 
 Subsec. (b). Pub. L. 98–473, §505, inserted references to laws of a State or of a foreign country.
 

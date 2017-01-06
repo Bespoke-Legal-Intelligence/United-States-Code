@@ -12,7 +12,7 @@ Gun Club Members.—(1) The corporation may sell, at fair market value, surplus 
 
 (c)
 
-Limitation on Sales.—(1) The corporation may not sell a repair part designed to convert a firearm to fire in a fully automatic mode.
+Limitation on Sales.—(1) No person acquiring a firearm under this chapter may sell a repair part designed to convert a firearm to fire in a fully automatic mode.
 
 (2) The corporation may not sell any item to an individual who has been convicted of—
 
@@ -20,7 +20,11 @@ Limitation on Sales.—(1) The corporation may not sell a repair part designed t
 
 &emsp;(B) a violation of section 922 of title 18.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1340; Pub. L. 114–92, div. A, title X, §1087(a)(2)(C), Nov. 25, 2015, 129 Stat. 1013.)
+(d)
+
+Sales by Other Persons.—A person who receives a rifle or any ammunition, repair parts, or supplies under section 40728B(c) of this title may sell, at fair market value, such rifle, ammunition, repair parts, or supplies. With respect to rifles other than caliber .22 rimfire and caliber .30 rifles, the seller shall obtain a license as a dealer in rifles and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1340; Pub. L. 114–92, div. A, title X, §1087(a)(2)(C), Nov. 25, 2015, 129 Stat. 1013; Pub. L. 114–328, div. A, title X, §1096(b), Dec. 23, 2016, 130 Stat. 2441.)
 
 Historical and Revision Notes
 
@@ -73,6 +77,10 @@ In subsection (c)(1), the word "sell" is substituted for "offer for sale" to eli
 In subsection (c)(2), the words "any item" are substituted for "rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program" to eliminate unnecessary words.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §1096(b)(2), substituted "No person acquiring a firearm under this chapter may" for "The corporation may not".
+
+Subsec. (d). Pub. L. 114–328, §1096(b)(1), added subsec. (d).
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92, §1087(a)(2)(C)(i), substituted "surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols" for "caliber .22 rimfire and caliber .30 surplus rifles".
 

@@ -32,7 +32,7 @@ Civil Penalty Procedure.—
 
 &emsp;(1)
 
-In general.—Whenever a civil penalty is sought for a violation of this section or of section 304, the charged party is entitled to receive a formal complaint specifying thecharges and, at his or her request, to contest the charges in a hearing before an administrative law judge. Any such hearing shall be conducted in accordance with sections 556 and 557 of title 5, United States Code.
+In general.—Whenever a civil penalty is sought for a violation of this section or of section 304, the charged party is entitled to receive a formal complaint specifying the charges and, at his or her request, to contest the charges in a hearing before an administrative law judge. Any such hearing shall be conducted in accordance with sections 556 and 557 of title 5, United States Code.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ By the secretary of commerce.—The Secretary of Commerce may designate officers
 
 &emsp;(2)
 
-By the commissioner of customs.—The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
+By the commissioner of customs.—The Commissioner of Customs <sup>1</sup> may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
 (e)
 
@@ -74,13 +74,19 @@ Regulations.—The Secretary of Commerce shall promulgate regulations for the im
 
 Exemption.—The criminal fines provided for in this section are exempt from the provisions of section 3571 of title 18, United States Code.
 
-(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, §1404(f)(1), Sept. 30, 2002, 116 Stat. 1455.)
+(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, §1404(f)(1), Sept. 30, 2002, 116 Stat. 1455; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–228 substituted "Penalties for unlawful export information activities" for "Violations, penalties" in section catchline and amended text generally. Prior to amendment, text read as follows: "Any person, including the owners or operators of carriers, violating the provisions of this chapter, or any rule, regulation, or order issued thereunder, except as provided in section 304 above, shall be liable to a penalty not to exceed $1,000 in addition to any other penalty imposed by law. The amount of any such penalty shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States."
 
+#### Change of Name
+
+Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

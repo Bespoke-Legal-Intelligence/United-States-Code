@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) prevent storm surge from inundating populated areas;
 
-&emsp;&emsp;(C) prevent the loss of coastal wetlands that help reduce the impact of storm surge;
+&emsp;&emsp;(C) restore or prevent the loss of coastal wetlands that help reduce the impact of storm surge;
 
 &emsp;&emsp;(D) protect emergency hurricane evacuation routes or shelters;
 
@@ -22,17 +22,13 @@
 
 #### (2) Expedited consideration of currently authorized projects
 
-&emsp;Not later than 180 days after June 10, 2014, the Secretary shall—
+&emsp;Not later than 180 days after December 16, 2016, the Secretary shall—
 
 &emsp;&emsp;(A) submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of all—
 
 &emsp;&emsp;&emsp;(i) ongoing hurricane and storm damage reduction feasibility studies that have signed feasibility cost-share agreements and have received Federal funds since 2009; and
 
-&emsp;&emsp;&emsp;(ii) authorized hurricane and storm damage reduction projects that—
-
-&emsp;&emsp;&emsp;&emsp;(I) have been authorized for more than 20 years but are less than 75 percent complete; or
-
-&emsp;&emsp;&emsp;&emsp;(II) are undergoing a post-authorization change report, general reevaluation report, or limited reevaluation report;
+&emsp;&emsp;&emsp;(ii) authorized hurricane and storm damage reduction projects;
 
 &emsp;&emsp;(B) identify those projects on the list required under subparagraph (A) that meet the criteria described in paragraph (1); and
 
@@ -40,23 +36,55 @@
 
 #### (b) Prioritization of ecosystem restoration efforts
 
-For authorized projects with a primary purpose of ecosystem restoration, the Secretary shall give funding priority to projects—
+#### (1) In general
 
-&emsp;(1) that—
+&emsp;For authorized projects with a primary purpose of ecosystem restoration, the Secretary shall give funding priority to projects—
 
-&emsp;&emsp;(A) address an identified threat to public health, safety, or welfare;
+&emsp;&emsp;(A) that—
 
-&emsp;&emsp;(B) preserve or restore ecosystems of national significance; or
+&emsp;&emsp;&emsp;(i) address an identified threat to public health, safety, or welfare;
 
-&emsp;&emsp;(C) preserve or restore habitats of importance for federally protected species, including migratory birds; and
+&emsp;&emsp;&emsp;(ii) preserve or restore ecosystems of national significance; or
 
-&emsp;(2) for which the restoration activities will contribute to other ongoing or planned Federal, State, or local restoration initiatives.
+&emsp;&emsp;&emsp;(iii) preserve or restore habitats of importance for federally protected species, including migratory birds; and
 
-(Pub. L. 113–121, title I, §1011, June 10, 2014, 128 Stat. 1217.)
+&emsp;&emsp;(B) for which the restoration activities will contribute to other ongoing or planned Federal, State, or local restoration initiatives.
+
+#### (2) Expedited consideration of currently authorized programmatic authorities
+
+&emsp;Not later than 180 days after December 16, 2016, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains—
+
+&emsp;&emsp;(A) a list of all programmatic authorities for aquatic ecosystem restoration or improvement of the environment that—
+
+&emsp;&emsp;&emsp;(i) were authorized or modified in the Water Resources Development Act of 2007 (Public Law 110–114; 121 Stat. 1041) or any subsequent Act; and
+
+&emsp;&emsp;&emsp;(ii) that meet the criteria described in paragraph (1); and
+
+&emsp;&emsp;(B) a plan for expeditiously completing the projects under the authorities described in subparagraph (A), subject to available funding.
+
+(Pub. L. 113–121, title I, §1011, June 10, 2014, 128 Stat. 1217; Pub. L. 114–322, title I, §1322(a), Dec. 16, 2016, 130 Stat. 1706.)
+
+#### References in Text
+
+The Water Resources Development Act of 2007, referred to in subsec. (b)(2)(A)(i), is Pub. L. 110–114, Nov. 8, 2007, 121 Stat. 1041. For complete classificaton of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–322, §1322(a)(1)(A), inserted "restore or" before "prevent the loss".
+
+Subsec. (a)(2). Pub. L. 114–322, §1322(a)(1)(B)(i), substituted "December 16, 2016" for "June 10, 2014" in introductory provisions.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 114–322, §1322(a)(1)(B)(ii), struck out before semicolon at end "that—
+
+&emsp;"(I) have been authorized for more than 20 years but are less than 75 percent complete; or
+
+&emsp;"(II) are undergoing a post-authorization change report, general reevaluation report, or limited reevaluation report".
+
+Subsec. (b). Pub. L. 114–322, §1322(a)(2), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii), respectively, of subpar. (A) of par. (1), and added par. (2).
 
 #### "Secretary" Defined
 

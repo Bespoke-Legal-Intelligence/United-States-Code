@@ -16,7 +16,8 @@
 | :--- | ---: |
 | [2011\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002011%20-%20Grants.md) | Grants. |
 | [2012\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002012%20-%20Per%20diem%20payments.md) | Per diem payments. |
-| [2013\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002013%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [2013\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002013%20-%20Program%20to%20improve%20retention%20of%20housing%20by%20formerly%20homeless%20veterans%20and%20veterans%20at%20risk%20of%20becoming%20homeless.md) | Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless. |
+| [2014\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002014%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,10 +75,13 @@
 | [2064\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002064%20-%20Technical%20assistance%20grants%20for%20nonprofit%20community-based%20groups.md) | Technical assistance grants for nonprofit community-based groups. |
 | [2065\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002065%20-%20Annual%20report%20on%20assistance%20to%20homeless%20veterans.md) | Annual report on assistance to homeless veterans. |
 | [2066\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002066%20-%20Advisory%20Committee%20on%20Homeless%20Veterans.md) | Advisory Committee on Homeless Veterans. |
+| [2067\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002067%20-%20National%20Center%20on%20Homelessness%20Among%20Veterans.md) | National Center on Homelessness Among Veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–315, title VII, §§712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 "Authorization of appropriations".
 
 <b>2010</b>—Pub. L. 111–275, title II, §202(b), Oct. 13, 2010, 124 Stat. 2874, added item 2021A.
 

@@ -132,7 +132,7 @@
 
 #### (E) Technical corrections
 
-&emsp;&emsp;Subject to the agreement of the State, the Secretary may make minor corrections to correct technical and clerical errors in the legal descriptions of the Federal and non-Federal land and minor adjustments to the boundaries of the Federal and non-Federal land.
+&emsp;&emsp;Subject to the agreement of the State, the Secretary may make minor corrections tocorrect technical and clerical errors in the legal descriptions of the Federal and non-Federal land and minor adjustments to the boundaries of the Federal and non-Federal land.
 
 #### (F) Administration of land acquired by Secretary
 
@@ -160,7 +160,7 @@
 
 #### (ii) Equalization
 
-&emsp;&emsp;&emsp;If the values of the land are not equal, the values may be equalized by donation,payment using donated or appropriated funds, or the conveyance of additional parcels of land.
+&emsp;&emsp;&emsp;If the values of the land are not equal, the values may be equalized by donation, payment using donated or appropriated funds, or the conveyance of additional parcels of land.
 
 #### (D) Appraisal
 

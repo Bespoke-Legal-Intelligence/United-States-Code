@@ -6,7 +6,7 @@
 
 (b) Each contract under this section shall contain—
 
-&emsp;(1) the requirements under section 8902(d), (f), and (i) made applicable to contracts under this section by regulations prescribed by the Office;
+&emsp;(1) the requirements under section 8902(d), (f), and (i) made applicable to contracts underthis section by regulations prescribed by the Office;
 
 &emsp;(2) the terms of the enrollment period; and
 
@@ -45,6 +45,10 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
+
+#### Effective Date
+
+Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

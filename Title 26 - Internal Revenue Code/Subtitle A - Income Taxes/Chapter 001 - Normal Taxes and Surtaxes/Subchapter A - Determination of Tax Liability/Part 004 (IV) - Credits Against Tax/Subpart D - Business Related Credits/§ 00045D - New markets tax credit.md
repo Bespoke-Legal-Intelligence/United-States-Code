@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any capital or equity investment in, or loan to, any qualified active low-income community business,
 
-&emsp;&emsp;(B) the purchase from another qualified community development entity of any loan made by such entity which is a qualified low-income community investment,
+&emsp;&emsp;(B) the purchase from another qualified community development entity of any loanmade by such entity which is a qualified low-income community investment,
 
 &emsp;&emsp;(C) financial counseling and other services specified in regulations prescribed by the Secretary to businesses located in, and residents of, low-income communities, and
 
@@ -262,7 +262,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295,div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
 
 #### Amendments
 
@@ -338,7 +338,7 @@ Section applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[titl
 
 #### Special Rule for Allocation of Increased 2008 Limitation
 
-Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provided that: "The amount of the increase in the new markets tax credit limitation for calendar year2008 by reason of the amendments made by subsection (a) \[amending this section\] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
+Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provided that: "The amount of the increase in the new markets tax credit limitation for calendar year 2008 by reason of the amendments made by subsection (a) \[amending this section\] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
 
 &emsp;"(1) submitted an allocation application with respect to calendar year 2008, and
 
@@ -348,7 +348,7 @@ Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provi
 
 #### Guidance on Allocation of National Limitation
 
-Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-610, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
+Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
 
 &emsp;"(1) how entities shall apply for an allocation under section 45D(f)(2) of the Internal Revenue Code of 1986, as added by this section;
 
@@ -358,7 +358,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Audit and Report
 
-Pub. L. 106–554, §1(a)(7) \[title I, §121(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
+Pub. L. 106–554, §1(a)(7) \[title I, §121(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by ", and".</i>
 

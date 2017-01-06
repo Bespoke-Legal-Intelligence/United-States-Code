@@ -126,7 +126,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
 
-(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
+(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c),title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
 
 #### References in Text
 
@@ -236,7 +236,7 @@ In General.—The Attorney General shall—
 
 "(b)
 
-Consultation.—The Attorney General shall consult with national, State, tribal, and local experts in the area of rape and sexual assault, including rape crisis centers, State and tribal sexual assault and domestic violence coalitions and programs, and programs for criminal justice, forensic nursing, forensic science, emergency room medicine, law, social services, and sexcrimes in underserved communities (as defined in \[former\] section 2003(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (\[former\] 42 U.S.C. 3796gg–2(7)), as amended by this division).
+Consultation.—The Attorney General shall consult with national, State, tribal, and local experts in the area of rape and sexual assault, including rape crisis centers, State and tribal sexual assault and domestic violence coalitions and programs, and programs for criminal justice, forensic nursing, forensic science, emergency room medicine, law, social services, and sex crimes in underserved communities (as defined in \[former\] section 2003(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (\[former\] 42 U.S.C. 3796gg–2(7)), as amended by this division).
 
 "(c)
 

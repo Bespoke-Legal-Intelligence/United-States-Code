@@ -16,7 +16,7 @@ Administrative Provisions.—The provisions of this chapter and chapter 36 shall
 
 Delimiting Dates.—In the case of any individual who is an eligible person solely by virtue of subsection (a) of this section, and who is above the age of seventeen years and below the age of twenty-three years on September 30, 1966, the period referred to in section 3512 of this title shall not end until the expiration of the five-year period which begins on September 30, 1966.
 
-(Added Pub. L. 89–613, §1, Sept. 30, 1966, 80 Stat. 861, §1765; amended Pub. L. 91–24, §9(c), June 11, 1969, 83 Stat. 34; Pub. L. 97–295, §4(47), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV,§423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3565 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
+(Added Pub. L. 89–613, §1, Sept. 30, 1966, 80 Stat. 861, §1765; amended Pub. L. 91–24, §9(c), June 11, 1969, 83 Stat. 34; Pub. L. 97–295, §4(47), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3565 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
 
 #### Amendments
 

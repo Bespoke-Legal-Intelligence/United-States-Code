@@ -46,6 +46,7 @@
 | :--- | ---: |
 | [6441\.](Subchapter%20003%20%28III%29%20-%20Presidential%20Actions/Part%20A%20-%20Targeted%20Responses%20to%20Violations%20of%20Religious%20Freedom%20Abroad/%C2%A7%2006441%20-%20Presidential%20actions%20in%20response%20to%20violations%20of%20religious%20freedom.md) | Presidential actions in response to violations of religious freedom. |
 | [6442\.](Subchapter%20003%20%28III%29%20-%20Presidential%20Actions/Part%20A%20-%20Targeted%20Responses%20to%20Violations%20of%20Religious%20Freedom%20Abroad/%C2%A7%2006442%20-%20Presidential%20actions%20in%20response%20to%20particularly%20severe%20violations%20of%20religious%20freedom.md) | Presidential actions in response to particularly severe violations of religious freedom. |
+| [6442a.](Subchapter%20003%20%28III%29%20-%20Presidential%20Actions/Part%20A%20-%20Targeted%20Responses%20to%20Violations%20of%20Religious%20Freedom%20Abroad/%C2%A7%2006442a%20-%20Non-state%20actor%20designations.md) | Non-state actor designations. |
 | [6443\.](Subchapter%20003%20%28III%29%20-%20Presidential%20Actions/Part%20A%20-%20Targeted%20Responses%20to%20Violations%20of%20Religious%20Freedom%20Abroad/%C2%A7%2006443%20-%20Consultations.md) | Consultations. |
 | [6444\.](Subchapter%20003%20%28III%29%20-%20Presidential%20Actions/Part%20A%20-%20Targeted%20Responses%20to%20Violations%20of%20Religious%20Freedom%20Abroad/%C2%A7%2006444%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [6445\.](Subchapter%20003%20%28III%29%20-%20Presidential%20Actions/Part%20A%20-%20Targeted%20Responses%20to%20Violations%20of%20Religious%20Freedom%20Abroad/%C2%A7%2006445%20-%20Description%20of%20Presidential%20actions.md) | Description of Presidential actions. |
@@ -72,6 +73,7 @@
 | [6471\.](Subchapter%20004%20%28IV%29%20-%20Refugee%2C%20Asylum%2C%20and%20Consular%20Matters/%C2%A7%2006471%20-%20Use%20of%20Annual%20Report.md) | Use of Annual Report. |
 | [6472\.](Subchapter%20004%20%28IV%29%20-%20Refugee%2C%20Asylum%2C%20and%20Consular%20Matters/%C2%A7%2006472%20-%20Reform%20of%20refugee%20policy.md) | Reform of refugee policy. |
 | [6473\.](Subchapter%20004%20%28IV%29%20-%20Refugee%2C%20Asylum%2C%20and%20Consular%20Matters/%C2%A7%2006473%20-%20Reform%20of%20asylum%20policy.md) | Reform of asylum policy. |
+| [6473a.](Subchapter%20004%20%28IV%29%20-%20Refugee%2C%20Asylum%2C%20and%20Consular%20Matters/%C2%A7%2006473a%20-%20Designated%20persons%20list%20for%20particularly%20severe%20violations%20of%20religious%20freedom.md) | Designated persons list for particularly severe violations of religious freedom. |
 | [6474\.](Subchapter%20004%20%28IV%29%20-%20Refugee%2C%20Asylum%2C%20and%20Consular%20Matters/%C2%A7%2006474%20-%20Studies%20on%20effect%20of%20expedited%20removal%20provisions%20on%20asylum%20claims.md) | Studies on effect of expedited removal provisions on asylum claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,6 +83,8 @@
 |  |  |
 | :--- | ---: |
 | [6481\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2006481%20-%20Business%20codes%20of%20conduct.md) | Business codes of conduct. |
+| [6482\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2006482%20-%20Voluntary%20codes%20of%20conduct%20for%20United%20States%20institutions%20of%20higher%20education%20outside%20the%20United%20States.md) | Voluntary codes of conduct for United States institutions of higher education outside the United States. |
+| [6483\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2006483%20-%20Sense%20of%20Congress%20regarding%20national%20security%20strategy%20to%20promote%20religious%20freedom%20through%20United%20States%20foreign%20policy.md) | Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

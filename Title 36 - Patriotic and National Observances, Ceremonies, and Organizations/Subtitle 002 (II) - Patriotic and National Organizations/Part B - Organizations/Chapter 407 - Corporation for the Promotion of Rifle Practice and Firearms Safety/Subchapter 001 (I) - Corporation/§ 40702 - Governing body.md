@@ -74,7 +74,7 @@ In subsection (a)(3), the words "The term of office of a director is 2 years" ar
 
 In subsection (b)(1), the words "an individual to serve as" are omitted as unnecessary.
 
-In subsection (b)(2), before clause (A), the words "is responsible for" are substituted for "shall be responsible for the performance of" to eliminate unnecessary words. In clause (B), the words "duties of the corporation under subchapter II of this chapter" are substituted for "functions described in section 5502" because subchapter II of this chapter restates 36:5502–5504 and 5507 and all of these sections provide for duties ofthe corporation that are the responsibility of the Director of Civilian Marksmanship.
+In subsection (b)(2), before clause (A), the words "is responsible for" are substituted for "shall be responsible for the performance of" to eliminate unnecessary words. In clause (B), the words "duties of the corporation under subchapter II of this chapter" are substituted for "functions described in section 5502" because subchapter II of this chapter restates 36:5502–5504 and 5507 and all of these sections provide for duties of the corporation that are the responsibility of the Director of Civilian Marksmanship.
 
 #### Initial Board of Directors
 

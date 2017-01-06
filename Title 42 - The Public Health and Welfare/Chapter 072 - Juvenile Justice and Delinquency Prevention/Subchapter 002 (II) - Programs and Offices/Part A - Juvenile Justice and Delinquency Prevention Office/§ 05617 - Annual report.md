@@ -1,6 +1,6 @@
 ### §5617. Annual report
 
-Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
+Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore ofthe Senate a report that contains the following with respect to such fiscal year:
 
 &emsp;(1) A detailed summary and analysis of the most recent data available regarding the number of juveniles taken into custody, the rate at which juveniles are taken into custody, and the trends demonstrated by the data required by subparagraphs (A), (B), and (C). Such summary and analysis shall set out the information required by subparagraphs (A), (B), (C), and (D) separately for juvenile nonoffenders, juvenile status offenders, and other juvenile offenders. Such summary and analysis shall separately address with respect to each category of juveniles specified in the preceding sentence—
 

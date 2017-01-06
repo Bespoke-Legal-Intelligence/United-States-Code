@@ -6,15 +6,15 @@ A franchising authority may establish requirements in a franchise with respect t
 
 #### (b) Authority to require designation for public, educational, or governmental use
 
-A franchising authority may in its request for proposals require as part of a franchise, and may require as part of a cable operator's proposal for a franchise renewal, subject to section 546 of this title, that channel capacity be designated for public, educational, or governmental use, and channel capacity on institutional networks be designated for educational or governmental use, and may require rules and procedures forthe use of the channel capacity designated pursuant to this section.
+A franchising authority may in its request for proposals require as part of a franchise, and may require as part of a cable operator's proposal for a franchise renewal, subject to section 546 of this title, that channel capacity be designated for public, educational, or governmental use, and channel capacity on institutional networks be designated for educational or governmental use, and may require rules and procedures for the use of the channel capacity designated pursuant to this section.
 
 #### (c) Enforcement authority
 
-A franchising authority may enforce any requirement in any franchise regarding the providing or use of such channel capacity. Such enforcement authority includes the authority to enforce any provisions of the franchise for services, facilities, or equipment proposed by the cable operator which relate to public, educational, or governmental use of channel capacity, whether or not required by the franchising authority pursuant to subsection (b) of this section.
+A franchising authority may enforce any requirement in any franchise regarding the providing or use of such channel capacity. Such enforcement authority includes the authority to enforce any provisions of the franchise for services, facilities, or equipment proposed by thecable operator which relate to public, educational, or governmental use of channel capacity, whether or not required by the franchising authority pursuant to subsection (b).
 
 #### (d) Promulgation of rules and procedures
 
-In the case of any franchise under which channel capacity is designated under subsection (b) of this section, the franchising authority shall prescribe—
+In the case of any franchise under which channel capacity is designated under subsection (b), the franchising authority shall prescribe—
 
 &emsp;(1) rules and procedures under which the cable operator is permitted to use such channel capacity for the provision of other services if such channel capacity is not being used for the purposes designated, and
 

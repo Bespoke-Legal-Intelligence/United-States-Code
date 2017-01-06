@@ -48,7 +48,7 @@ Prohibition.—Except as provided in subsection (c), after the date of the enact
 
 Exceptions.—Nothing in subsection (b) shall be construed as—
 
-&emsp;"(1) prohibiting the development of combat and camouflage utility uniforms and families of uniforms for use by personnel assigned to or operating in support of the unified combatant command for specialoperations forces described in section 167 of title 10, United States Code;
+&emsp;"(1) prohibiting the development of combat and camouflage utility uniforms and families of uniforms for use by personnel assigned to or operating in support of the unified combatant command for special operations forces described in section 167 of title 10, United States Code;
 
 &emsp;"(2) prohibiting engineering modifications to existing uniforms that improve the performance of combat and camouflage utility uniforms, including power harnessing or generating textiles, fire resistant fabrics, and anti-vector, anti-microbial, and anti-bacterial treatments;
 

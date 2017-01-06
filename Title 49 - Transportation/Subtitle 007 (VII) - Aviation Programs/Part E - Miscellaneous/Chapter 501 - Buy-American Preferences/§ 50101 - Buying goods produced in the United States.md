@@ -110,5 +110,5 @@ Sense of Congress.—It is the sense of Congress that any recipient of a grant u
 
 "(b)
 
-Notice to Recipients of Assistance.—In allocating grants under this title, or under any amendment made by this title, the Secretary shall provide to eachrecipient a notice describing the statement made in subsection (a) by the Congress."
+Notice to Recipients of Assistance.—In allocating grants under this title, or under any amendment made by this title, the Secretary shall provide to each recipient a notice describing the statement made in subsection (a) by the Congress."
 

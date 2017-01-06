@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) and in sections 2750 and 2751 of this title, the Secretaryof Energy may not use amounts appropriated pursuant to a DOE national security authorization for a program—
+Except as provided in subsection (b) and in sections 2750 and 2751 of this title, the Secretary of Energy may not use amounts appropriated pursuant to a DOE national security authorization for a program—
 
 &emsp;(1) in amounts that exceed, in a fiscal year—
 

@@ -10,7 +10,7 @@ No guarantee or commitment to guarantee shall be made with respect to any note o
 
 #### (c) Payment of principal, interest and costs
 
-Notwithstanding any other provision of this chapter, grants allocated to an issuer pursuant to this chapter (including program income derived therefrom) are authorized for use in the payment of principal and interest due (including such servicing, underwriting, or other costs asmay be specified in regulations of the Secretary) on the notes or other obligations guaranteed pursuant to this section.
+Notwithstanding any other provision of this chapter, grants allocated to an issuer pursuant to this chapter (including program income derived therefrom) are authorized for use in the payment of principal and interest due (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) on the notes or other obligations guaranteed pursuant to this section.
 
 #### (d) Repayment contract; security; pledge by State
 
@@ -30,7 +30,7 @@ The Secretary is authorized, notwithstanding any other provision of this chapter
 
 #### (f) Full faith and credit of United States pledged for payment; conclusiveness and validity of guarantee
 
-The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
+The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guaranteemade by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
 
 #### (g) Issuance of obligations by Secretary to Secretary of the Treasury to satisfy authorized guarantee obligations; establishment of maturities and rates of interest and purchase of obligations by Secretary of the Treasury
 

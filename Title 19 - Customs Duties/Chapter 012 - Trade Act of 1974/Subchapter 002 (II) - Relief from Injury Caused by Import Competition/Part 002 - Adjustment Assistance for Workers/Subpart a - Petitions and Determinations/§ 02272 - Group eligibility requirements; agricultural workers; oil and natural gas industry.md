@@ -144,7 +144,7 @@ Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of
 
 Amendment made by Pub. L. 113–128 was effective July 1, 2015, and was executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12,2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Pub. L. 111–5, §§1801(b)(2), 1893, temporarily redesignated subsec. (c) as (
 
 Subsec. (d)(2). Pub. L. 111–5, §§1801(e)(2)(D)(ii), 1893, temporarily struck out ", or appropriate subdivision of a firm," after "Any firm" in two places. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d)(3). Pub. L. 111–5, §§1801(e)(2)(D)(iii), 1893, temporarily amended par. (3) generally. Prior to amendment, text read as follows: "The term 'downstream producer' means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d)(3). Pub. L. 111–5, §§1801(e)(2)(D)(iii), 1893, temporarily amended par. (3) generally. Prior toamendment, text read as follows: "The term 'downstream producer' means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (d)(4). Pub. L. 111–5, §§1801(e)(2)(D)(iv), 1893, temporarily struck out "(or subdivision)" after "another firm" and inserted ", or services, used in the production of articles or in the supply of services, as the case may be," after "for articles". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -294,7 +294,7 @@ Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 

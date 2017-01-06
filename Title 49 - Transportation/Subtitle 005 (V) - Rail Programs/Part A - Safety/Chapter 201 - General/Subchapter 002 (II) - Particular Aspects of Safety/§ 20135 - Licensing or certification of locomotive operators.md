@@ -24,7 +24,7 @@ Program Requirements.—The program established under subsection (a) of this sec
 
 &emsp;(6) shall require an individual seeking a license or certification—
 
-&emsp;&emsp;(A) to request the chief driver licensing official of each State in which the individual has held a motor vehicle operator's license within the prior 5 years to provide information about the individual's driving record to the individual's employer, prospective employer, or the Secretary, as the Secretary requires; and
+&emsp;&emsp;(A) to request the chief driver licensing official of each State in which the individualhas held a motor vehicle operator's license within the prior 5 years to provide information about the individual's driving record to the individual's employer, prospective employer, or the Secretary, as the Secretary requires; and
 
 &emsp;&emsp;(B) to make the request provided for in section 30305(b)(4) of this title for information to be sent to the individual's employer, prospective employer, or the Secretary, as the Secretary requires.
 

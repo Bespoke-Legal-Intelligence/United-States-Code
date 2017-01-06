@@ -14,7 +14,7 @@
 
 (B) Section 8433(b) of this title applies to any bankruptcy judge or magistrate judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
-(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this sectionand who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988.
+(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
 (5) With respect to bankruptcy judges and magistrate judges to whom this section applies, any of the actions described under paragraph (4)(A), (B), or (C) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
 
@@ -44,7 +44,7 @@ Subsec. (b)(4)(B). Pub. L. 108–469, §3(2)(B), substituted "bankruptcy judge o
 
 Subsec. (b)(8). Pub. L. 108–469, §3(2)(B), substituted "bankruptcy judge or magistrate judge" for "bankruptcy judge or magistrate" in two places.
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 substituted "the maximum percentage of such bankruptcy judge's or magistrate's basic pay for such pay period allowable under section 8440f." for "5 percent of basic pay for such pay period."
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 substituted "the maximum percentage of such bankruptcy judge's ormagistrate's basic pay for such pay period allowable under section 8440f." for "5 percent of basic pay for such pay period."
 
 <b>1996</b>—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(1)\]\], inserted "of the distribution" after "equal to the amount" in first sentence.
 

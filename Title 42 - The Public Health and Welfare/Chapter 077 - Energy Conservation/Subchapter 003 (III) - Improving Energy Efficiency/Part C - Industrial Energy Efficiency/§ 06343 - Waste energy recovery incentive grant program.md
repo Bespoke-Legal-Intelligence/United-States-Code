@@ -28,7 +28,7 @@ The Secretary shall establish in the Department of Energy a waste energy recover
 
 #### (A) In general
 
-&emsp;&emsp;In the case of waste energy recovery, a grant under this section shall be made at the rate of $10 per megawatt hour of documented electricity produced from recoverable waste energy (or by prevention of waste energy in the case of a new facility) by the project during the first 3 calendar years of production, beginning on or after December 19, 2007.
+&emsp;&emsp;In the case of waste energy recovery, a grant under this section shall be made at the rate of $10 per megawatt hour of documented electricity produced from recoverable waste energy (or by prevention of waste energy in the case of a new facility) by the projectduring the first 3 calendar years of production, beginning on or after December 19, 2007.
 
 #### (B) Utilities
 

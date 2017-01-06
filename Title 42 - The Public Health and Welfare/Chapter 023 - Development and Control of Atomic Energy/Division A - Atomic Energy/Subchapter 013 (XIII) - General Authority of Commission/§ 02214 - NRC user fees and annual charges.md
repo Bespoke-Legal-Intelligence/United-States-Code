@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Nuclear Regulatory Commission (in this section referred to as the "Commission") shallannually assess and collect such fees and charges as are described in subsections (b) and (c) of this section.
+&emsp;The Nuclear Regulatory Commission (in this section referred to as the "Commission") shall annually assess and collect such fees and charges as are described in subsections (b) and (c).
 
 #### (2) First assessment
 
-&emsp;The first assessment of fees under subsection (b) of this section and annual charges under subsection (c) of this section shall be made not later than September 30, 1991.
+&emsp;The first assessment of fees under subsection (b) and annual charges under subsection (c) shall be made not later than September 30, 1991.
 
 #### (b) Fees for service or thing of value
 
@@ -18,7 +18,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 #### (1) Persons subject to charge
 
-&emsp;Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b) of this section, an annual charge.
+&emsp;Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b), an annual charge.
 
 #### (2) Aggregate amount of charges
 
@@ -26,7 +26,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 &emsp;&emsp;The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
 
-&emsp;&emsp;&emsp;(i) amounts collected under subsection (b) of this section during the fiscal year;
+&emsp;&emsp;&emsp;(i) amounts collected under subsection (b) during the fiscal year;
 
 &emsp;&emsp;&emsp;(ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
 
@@ -76,7 +76,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term "Nuclear Waste Fund" means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX,§2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283.)
 
 #### References in Text
 

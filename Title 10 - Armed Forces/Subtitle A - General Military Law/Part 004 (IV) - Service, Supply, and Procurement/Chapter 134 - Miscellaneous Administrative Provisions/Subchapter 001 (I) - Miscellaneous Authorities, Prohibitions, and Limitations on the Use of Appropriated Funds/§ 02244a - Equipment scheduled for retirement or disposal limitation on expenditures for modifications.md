@@ -10,7 +10,7 @@ Exceptions.—
 
 &emsp;(1)
 
-Exception for below-threshold modifications.—The prohibition in subsection (a)does not apply to a modification for which the cost is less than $100,000.
+Exception for below-threshold modifications.—The prohibition in subsection (a) does not apply to a modification for which the cost is less than $100,000.
 
 &emsp;(2)
 

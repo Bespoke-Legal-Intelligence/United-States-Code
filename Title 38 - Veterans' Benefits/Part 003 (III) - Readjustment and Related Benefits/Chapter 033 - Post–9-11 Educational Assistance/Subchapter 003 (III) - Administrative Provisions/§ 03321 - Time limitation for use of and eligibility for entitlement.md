@@ -36,7 +36,7 @@ Applicability to children of deceased members.—The period during which a child
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Jan. 1, 2015, see section 701(d) of Pub. L. 113–146, set out as a note under section 3311 of this title.
+Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Jan. 1, 2015, with provision for deaths occurring between Sept. 11, 2001, and Dec. 31, 2005, see section 701(d) of Pub. L. 113–146, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2009 Amendment
 

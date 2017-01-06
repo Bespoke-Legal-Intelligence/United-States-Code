@@ -10,7 +10,7 @@ Except as otherwise provided in this subchapter, no person may offer or provide 
 
 #### (b) Exceptions
 
-Subsection (a) of this section shall not apply to the following:
+Subsection (a) shall not apply to the following:
 
 #### (1) Background studies and home studies
 
@@ -36,5 +36,5 @@ This subchapter, referred to in subsec. (a), was in the original "this title", m
 
 #### Effective Date
 
-Section effective upon entry into force for the United States of the Convention on Protection of Children andCo-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 

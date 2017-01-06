@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development shall establish a plan for activities to be undertaken and policies to be adopted by the Secretary within the 5-year period beginning upon the submission of the plan to the Congress under subsection (d) of this section to provide for, encourage, and improve energy efficiency in newly constructed, rehabilitated, and existing housing. In developing the plan, the Secretary shall consider, as appropriate, any energy assessments under section 944.
+The Secretary of Housing and Urban Development shall establish a plan for activities to be undertaken and policies to be adopted by the Secretary within the 5-year period beginning upon the submission of the plan to the Congress under subsection (d) to provide for, encourage, and improve energy efficiency in newly constructed, rehabilitated, and existing housing. In developing the plan, the Secretary shall consider, as appropriate, any energy assessments under section 944.
 
 #### (b) Initial plan
 
@@ -10,11 +10,11 @@ The Secretary of Housing and Urban Development shall establish the first plan un
 
 #### (c) Updates
 
-The Secretary of Housing and Urban Development shall revise and update the plan under this section not less than once for each 2-year period, the first such 2-year period beginning on the date of the submission of the initial plan under subsection (b) of this section to the Congress (as provided in subsection (d) of this section). Each such update shall revise the plan for the 5-year period beginning upon the submission of the updated plan to the Congress.
+The Secretary of Housing and Urban Development shall revise and update the plan under this section not less than once for each 2-year period, the first such 2-year period beginning on the date of the submission of the initial plan under subsection (b) to the Congress (as provided in subsection (d)). Each such update shall revise the plan for the 5-year period beginning upon the submission of the updated plan to the Congress.
 
 #### (d) Submission to Congress
 
-The Secretary of Housing and Urban Development shall submit the initial plan established under subsection (b) of this section and any updated plans under subsection (c) of this section to the Congress not later than the date by which such plans are to be established or updated under such paragraphs.
+The Secretary of Housing and Urban Development shall submit the initial plan established under subsection (b) and any updated plans under subsection (c) to the Congress not later than the date by which such plans are to be established or updated under such paragraphs.
 
 (Pub. L. 101–625, title IX, §945, Nov. 28, 1990, 104 Stat. 4416.)
 
@@ -24,7 +24,7 @@ Section 944, referred to in subsec. (a), is section 944 of Pub. L. 101–625, wh
 
 #### Codification
 
-Section was enacted as part of title IX of the Cranston-Gonzalez National Affordable Housing Act, andnot as part of title I of such Act which comprises this subchapter.
+Section was enacted as part of title IX of the Cranston-Gonzalez National Affordable Housing Act, and not as part of title I of such Act which comprises this subchapter.
 
 #### Budget-Neutral Demonstration Program for Energy and Water Conservation Improvements at Multifamily Residential Units
 
@@ -32,7 +32,7 @@ Pub. L. 114–94, div. G, title LXXXI, §81001, Dec. 4, 2015, 129 Stat. 1792, pr
 
 "(a)
 
-Establishment.—The Secretary of Housing and Urban Development (in this section referred to as the 'Secretary') shall establish a demonstration program under which the Secretary may execute budget-neutral, performance-based agreements in fiscal years 2016 through 2019 that result in a reduction in energy or water costs with such entities as the Secretary determines to be appropriate under which the entities shall carry out projects for energy or water conservation improvements at not more than 20,000 residential units in multifamily buildings participating in—
+Establishment.—The Secretary of Housing and Urban Development (in this section referred to as the 'Secretary') shall establish a demonstration program under which the Secretary may execute budget-neutral, performance-based agreements in fiscal years 2016through 2019 that result in a reduction in energy or water costs with such entities as the Secretary determines to be appropriate under which the entities shall carry out projects for energy or water conservation improvements at not more than 20,000 residential units in multifamily buildings participating in—
 
 &emsp;"(1) the project-based rental assistance program under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f), other than assistance provided under section 8(o) of that Act;
 
@@ -148,11 +148,11 @@ Pub. L. 101–625, title IX, §944, Nov. 28, 1990, 104 Stat. 4415, directed Secr
 
 #### Uniform Mortgage Financing Plan for Energy Efficiency
 
-Pub. L. 101–625, title IX, §946, Nov. 28, 1990, 104 Stat. 4416, as amended by Pub. L. 102–486, title I, §105(b), Oct.24, 1992, 106 Stat. 2792; Pub. L. 102–550, title IX, §914(b), Oct. 28, 1992, 106 Stat. 3877, provided that:
+Pub. L. 101–625, title IX, §946, Nov. 28, 1990, 104 Stat. 4416, as amended by Pub. L. 102–486, title I, §105(b), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, title IX, §914(b), Oct. 28, 1992, 106 Stat. 3877, provided that:
 
 "(a)
 
-Uniform Plan.—The Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall promulgate a uniform plan to make housing more affordable through energy efficient mortgages (as such term is defined in section 104 of this Act \[42 U.S.C. 12704\]). The plan shall be promulgated not later than 2 years after the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].
+Uniform Plan.—The Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall promulgate a uniform plan to make housing more affordable through energy efficient mortgages (as such term is defined in section 104 of this Act \[42 U.S.C. 12704\]). The plan shall be promulgated not later than 2 years after the date of the enactment ofthe Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].
 
 "(b)
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) a loan made under part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.); and
 
-&emsp;&emsp;(iii) a health education assistance loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.).
+&emsp;&emsp;(iii) a health education assistance loan made or insured under part A of title VII ofthe Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.).
 
 (2) An employee shall be ineligible for benefits under this section if the employee occupies a position that is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character.
 
@@ -26,7 +26,7 @@
 
 (c)(1) An employee selected to receive benefits under this section must agree in writing, before receiving any such benefit, that the employee will—
 
-&emsp;(A) remain in the service of the agency for a period specified in the agreement (not lessthan 3 years), unless involuntarily separated; and
+&emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
 
 &emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
@@ -64,11 +64,11 @@
 
 (2) The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
 
-(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, §502, Oct. 20, 2008, 122 Stat. 4997.)
+(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L.108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, §502, Oct. 20, 2008, 122 Stat. 4997.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), D (§1087a et seq.), and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -84,7 +84,7 @@ Subsec. (b)(2)(B). Pub. L. 108–123, §2(2), substituted "$60,000" for "$40,000
 
 Subsec. (a)(1)(B)(ii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(2)\], substituted "part D or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq., 1087aa et seq.)" for "part E of title IV of the Higher Education Act of 1965".
 
-Subsec. (a)(1)(B)(iii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(3)\], substituted "part A of title VII of thePublic Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)" for "part C of title VII of Public Health Service Act or under part B of title VIII of such Act".
+Subsec. (a)(1)(B)(iii). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(3)\], substituted "part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part E of title VIII of such Act (42 U.S.C. 297a et seq.)" for "part C of title VII of Public Health Service Act or under part B of title VIII of such Act".
 
 Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(1)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "An employee shall be ineligible for benefits under this section if such employee occupies a position which—
 

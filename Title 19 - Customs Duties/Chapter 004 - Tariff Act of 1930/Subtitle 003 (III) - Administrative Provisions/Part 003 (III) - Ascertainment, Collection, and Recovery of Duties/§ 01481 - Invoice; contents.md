@@ -18,7 +18,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(7) The kind of currency, whether gold, silver, or paper;
 
-&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases,containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
+&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases, containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
 
 &emsp;(9) All rebates, drawbacks, and bounties, separately itemized, allowed upon the exportation of the merchandise; and
 

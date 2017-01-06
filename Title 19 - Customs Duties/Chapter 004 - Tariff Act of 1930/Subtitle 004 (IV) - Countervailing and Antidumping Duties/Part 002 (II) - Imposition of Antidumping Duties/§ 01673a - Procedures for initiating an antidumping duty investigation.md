@@ -34,7 +34,7 @@
 
 #### (1) Petition requirements
 
-&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at such time, and upon such conditions, as the administering authority and the Commission may permit.
+&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at suchtime, and upon such conditions, as the administering authority and the Commission may permit.
 
 #### (2) Simultaneous filing with Commission
 
@@ -110,7 +110,7 @@
 
 #### (C) Special rule for regional industries
 
-&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
+&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry byapplying subparagraph (A) on the basis of production in the region.
 
 #### (D) Polling the industry
 
@@ -144,9 +144,9 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 &emsp;(2) the person by whom, or for whose account, the merchandise was imported knew, or should have known, that the exporter was selling the subject merchandise at less than its fair value,
 
-> the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1673d(a) of this title, the investigation is terminated, or the administering authority withdraws the request.
+> the administering authority may request the Commissioner of U.S. Customs and Border Protection to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of U.S. Customs and Border Protection shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1673d(a) of this title, the investigation is terminated, or the administering authority withdraws the request.
 
-(June 17, 1930, ch. 497, title VII, §732, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 162; amended Pub. L. 98–573, title VI, §609, Oct. 30, 1984, 98 Stat. 3030; Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, 108 Stat. 4843, 4845, 4900, 4901; Pub. L. 104–295, §20(b)(4), (8), (9), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §732, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 162; amended Pub. L. 98–573, title VI, §609, Oct. 30, 1984, 98 Stat. 3030; Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, 108 Stat. 4843, 4845, 4900, 4901; Pub. L. 104–295, §20(b)(4), (8), (9), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendments
 
@@ -188,13 +188,17 @@ Subsec. (e). Pub. L. 100–418, §1324(b)(1), added subsec. (e).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as par. (1) and added par. (2).
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in subsec. (e) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1324(b)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiatedunder section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1324(b)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -202,7 +206,7 @@ Amendment by Pub. L. 98–573 applicable with respect to investigations initiate
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

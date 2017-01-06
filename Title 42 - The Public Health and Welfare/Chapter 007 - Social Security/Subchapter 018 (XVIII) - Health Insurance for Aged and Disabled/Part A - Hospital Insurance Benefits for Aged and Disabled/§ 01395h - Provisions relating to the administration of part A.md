@@ -30,7 +30,7 @@ The administration of this part shall be conducted through contracts with medica
 
 &emsp;&emsp;(III) with respect to claims received in the 12-month period beginning October 1, 1988, 25 calendar days,
 
-&emsp;&emsp;(IV) with respect to claims received in the 12-month period beginning October 1, 1989, and claims received in any succeeding 12-month period ending on or before September 30, 1993, 24 calendar days, and
+&emsp;&emsp;(IV) with respect to claims received in the 12-month period beginning October 1, 1989,and claims received in any succeeding 12-month period ending on or before September 30, 1993, 24 calendar days, and
 
 &emsp;&emsp;(V) with respect to claims received in the 12-month period beginning October 1, 1993, and claims received in any succeeding 12-month period, 30 calendar days.
 
@@ -180,7 +180,7 @@ Pub. L. 103–66, title XIII, §13568(c), Aug. 10, 1993, 107 Stat. 608, provided
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6202(d)(3), Dec. 19, 1989, 103 Stat. 2234, provided that: "The amendments made bythis subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VI, §6202(d)(3), Dec. 19, 1989, 103 Stat. 2234, provided that: "The amendments made by this subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
@@ -238,7 +238,7 @@ Pub. L. 95–142, §14(c), (d), Oct. 25, 1977, 91 Stat. 1200, provided that:
 
 "(c) The amendment made by paragraphs (2) and (3) of subsection (a) \[amending this section\] to the extent that they require application of standards, criteria, and procedures developed under section 1816(f) of the Social Security Act \[42 U.S.C. 1395h(f)\] shall apply to the entering into, renewal, or termination of agreements on and after October 1, 1978.
 
-"(d) Except as provided in subsection (c), the amendment made by subsection (a)(2) \[amending this section\] shall apply to agreements entered into or renewed on or after the date of enactment of this Act \[Oct. 25, 1977\]."
+"(d) Except as provided in subsection (c), the amendment made by subsection (a)(2) \[amending this section\]shall apply to agreements entered into or renewed on or after the date of enactment of this Act \[Oct. 25, 1977\]."
 
 #### Effective Date of 1972 Amendment
 

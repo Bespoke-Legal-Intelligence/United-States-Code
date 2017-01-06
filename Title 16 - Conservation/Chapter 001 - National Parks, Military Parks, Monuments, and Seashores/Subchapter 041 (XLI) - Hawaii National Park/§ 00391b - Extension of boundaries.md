@@ -2,7 +2,7 @@
 
 When title to all or any of the following-described lands on the island of Hawaii, in the Territory of Hawaii, shall be vested in the United States, such lands shall be, and the same are, added to and made a part of the Hawaii National Park:
 
-Kalapana extension (being portions of the lands of Kahaualea, Panaunui, and Apua and all of the lands of Poupou, Pulama, Kamoamoa, Laeapuki, Panauiki, Kealakomo, and Kahue, in the district of Puna, and portion of the land ofKeauhou, in the district of Kau): Beginning at the United States National Ocean Survey triangulation station Kupapau (marked by a survey tablet set in large rock), the true azimuth and distance from said point of beginning to the United States National Ocean Survey triangulation station Hakuma (marked by a United States National Ocean Survey tablet set in smooth lava outcrop and surrounded by a circular patch of cement near edge of sea pali) being two hundred and forty-four degrees forty minutes and fifty seconds exactly fourteen thousand four hundred and thirteen feet and running as follows, all azimuths being measured clockwise from true south (note azimuths of courses 1 to 4, inclusive, are referred to Hakuma meridian):
+Kalapana extension (being portions of the lands of Kahaualea, Panaunui, and Apua and all of the lands of Poupou, Pulama, Kamoamoa, Laeapuki, Panauiki, Kealakomo, and Kahue, in the district of Puna, and portion of the land of Keauhou, in the district of Kau): Beginning at the United States National Ocean Survey triangulation station Kupapau (marked by a survey tablet set in large rock), the true azimuth and distance from said point of beginning to the United States National Ocean Survey triangulation station Hakuma (marked by a United States National Ocean Survey tablet set in smooth lava outcrop and surrounded by a circular patch of cement near edge of sea pali) being two hundred and forty-four degrees forty minutes and fifty seconds exactly fourteen thousand four hundred and thirteen feet and running as follows, all azimuths being measured clockwise from true south (note azimuths of courses 1 to 4, inclusive, are referred to Hakuma meridian):
 
 Along the seacoast at high-water mark, in a general southwesterly direction for the first five courses, the true azimuths and distances between points on said seacoast being—
 
@@ -36,7 +36,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 15\. Exactly two hundred and ninety-seven degrees and fifteen minutes exactly twenty-four thousand five hundred and fifty-two feet along the land of Kahaualea;
 
-16\. Exactly two hundred and forty-five degrees and fifty-eight minutes exactly six thousand one hundred and sixty-eight feet along the land of Kahaualea;
+16\. Exactly two hundred and forty-five degrees and fifty-eight minutes exactly six thousand onehundred and sixty-eight feet along the land of Kahaualea;
 
 17\. Exactly three hundred and twenty-six degrees and thirty-one minutes exactly five thousand two hundred and forty-eight feet along the land of Kahaualea;
 
@@ -56,7 +56,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 Area, forty-nine thousand three hundred and forty acres.
 
-Footprint extension: Beginning at the northeast corner of this tract of land, at a point on the west edge of the Keamoku Aa Flow (lava flow of 1823), and on the westerly boundary of Hawaii National Park, Kilauea section, as described in Governor's Executive Order 86, the coordinates of said point of beginning referred to Government survey triangulation station Uwekahuna, being four thousand seven hundred and six and six-tenths feet south and seventeen thousand nine hundred and seventy and three-tenths feet west, and the true azimuth and distance from said point of beginning to Government survey triangulation station Ohaikea being one hundred and sixty-six degrees andtwenty minutes exactly six thousand three hundred and fifty feet, as shown on Government survey registered map 2388, and running by azimuths measured clockwise from true south—
+Footprint extension: Beginning at the northeast corner of this tract of land, at a point on the west edge of the Keamoku Aa Flow (lava flow of 1823), and on the westerly boundary of Hawaii National Park, Kilauea section, as described in Governor's Executive Order 86, the coordinates of said point of beginning referred to Government survey triangulation station Uwekahuna, being four thousand seven hundred and six and six-tenths feet south and seventeen thousand nine hundred and seventy and three-tenths feet west, and the true azimuth and distance from said point of beginning to Government survey triangulation station Ohaikea being one hundred and sixty-six degrees and twenty minutes exactly six thousand three hundred and fifty feet, as shown on Government survey registered map 2388, and running by azimuths measured clockwise from true south—
 
 1\. Three hundred and forty-six degrees and twenty minutes exactly fourteen thousand two hundred and fifty-eight feet along Hawaii National Park, Kilauea section, as described in Governor's Executive Order 86;
 

@@ -256,7 +256,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (5) Review and update
 
-&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of State and local plans described in sections 3112(c)(2) and 3123(a) of this title.
+&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of Stateand local plans described in sections 3112(c)(2) and 3123(a) of this title.
 
 #### (h) Funding of one-stop infrastructure
 
@@ -302,7 +302,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
+&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offeredunder a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
 
 #### (D) Limitations
 
@@ -360,7 +360,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (B) Allocation formula
 
-&emsp;&emsp;The State board shall develop a formula to be used by the Governor to allocate the funds provided under paragraph (1) to local areas not funding costs of infrastructure under the option described in paragraph (1)(A)(i)(I). The formula shall be based on factors including the number of one-stop centers in a local area, the population served by such centers, the services provided by such centers, and other factors relating to the performance of such centers that the State board determines are appropriate.
+&emsp;&emsp;The State board shall develop a formula to be used by the Governor to allocate the funds provided under paragraph (1) to localareas not funding costs of infrastructure under the option described in paragraph (1)(A)(i)(I). The formula shall be based on factors including the number of one-stop centers in a local area, the population served by such centers, the services provided by such centers, and other factors relating to the performance of such centers that the State board determines are appropriate.
 
 #### (4) Costs of infrastructure
 
@@ -402,7 +402,7 @@ This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128,
 
 The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Effective Date
 

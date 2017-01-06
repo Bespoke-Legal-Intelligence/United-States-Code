@@ -80,7 +80,7 @@ A grant under this section may be used for—
 
 &emsp;(8) acquisition of real property that is adjacent to the campus in connection with the construction, renovation, or improvement of, or an addition to, campus facilities;
 
-&emsp;(9) education or financial information designed to improve the financial literacy and economic literacy of students or the students' families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;(9) education or financial information designed to improve the financial literacy and economic literacy of students or the students' families, especially with regard to student indebtedness and student assistance programs under subchapter IV;
 
 &emsp;(10) tutoring, counseling, and student service programs designed to improve academic success;
 
@@ -102,7 +102,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(1) the first $2,500,000 (or any lesser amount appropriated) shall be available only for the purposes of making minimum grants under subsection (a)(3) to eligible institutions listed in subparagraphs (A) through (E) of subsection (b)(1), except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced;
 
-&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose ofmaking minimum grants under subsection (a)(3) to eligible institutions described in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
+&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions described in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
 
 &emsp;(3) any amount in excess of $2,500,000 shall be made available to each of the eligible institutions identified in subparagraphs (A) through (E) of subsection (b)(1), pursuant to a formula developed by the Secretary that uses the following elements:
 

@@ -82,7 +82,7 @@ Removal.—Advisory Committee members shall serve at the discretion of the Secre
 
 &emsp;(6)
 
-Chairperson.—The Chairperson of the Advisory Committee shall be appointed for a term of 1 year by the Secretary from among the members of the Advisory Committee.
+Chairperson.—The Chairperson of the Advisory Committee shall be appointed for aterm of 1 year by the Secretary from among the members of the Advisory Committee.
 
 &emsp;(7)
 
@@ -158,7 +158,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided forthe establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.
+<b>2003</b>—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided for the establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.
 
 <b>1996</b>—Subsec. (a)(4). Pub. L. 104–329 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Each member appointed under clause (i) or (iii) of paragraph (3)(A) shall be appointed for a term of 4 years."
 

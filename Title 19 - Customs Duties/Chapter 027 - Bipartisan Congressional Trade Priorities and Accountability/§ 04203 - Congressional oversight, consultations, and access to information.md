@@ -60,13 +60,13 @@
 
 #### (3) Accreditation
 
-&emsp;Each Member of Congress designated as a congressional adviser under paragraph (1) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
+&emsp;Each Member of Congress designated as a congressional adviser under paragraph (1) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
 
 #### (c) Congressional advisory groups on negotiations
 
 #### (1) In general
 
-&emsp;By not later than 60 days after June 29, 2015, and not later than 30 days after the convening of each Congress, the chairman of the Committee on Ways and Means of the House of Representatives shall convene the House Advisory Group on Negotiations and the chairman of the Committee on Finance of the Senate shall convene the Senate Advisory Group on Negotiations (in this subsection referred to collectively as the "congressional advisory groups").
+&emsp;By not later than 60 days after June 29, 2015, and not later than 30 days after the convening of each Congress, the chairman of the Committee on Ways and Means of the House of Representatives shall convene the House Advisory Group on Negotiations and the chairman of the Committee on Finance of the Senateshall convene the Senate Advisory Group on Negotiations (in this subsection referred to collectively as the "congressional advisory groups").
 
 #### (2) Members and functions
 
@@ -88,7 +88,7 @@
 
 #### (C) Accreditation
 
-&emsp;&emsp;Each member of the congressional advisory groups described in subparagraphs\(A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
+&emsp;&emsp;Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
 
 #### (D) Consultation and advice
 
@@ -186,7 +186,7 @@
 
 #### (f) Omitted
 
-(Pub. L. 114–26, title I, §104, June 29, 2015, 129 Stat. 337.)
+(Pub. L. 114–26, title I, §104, June 29, 2015, 129 Stat. 337; Pub. L. 114–125, title IX, §914(d), Feb. 24, 2016, 130 Stat. 274.)
 
 #### References in Text
 
@@ -195,6 +195,16 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 #### Codification
 
 Section is comprised of section 104 of Pub. L. 114–26. Subsec. (f) of section 104 of Pub. L. 114–26 amended section 2171 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(3). Pub. L. 114–125, §914(d)(1), substituted "a delegate and official" for "an official".
+
+Subsec. (c)(2)(C). Pub. L. 114–125, §914(d)(2), substituted "a delegate and official" for "an official" in two places and inserted after first sentence "In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies."
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–125 effective as if included in the enactment of title I of Pub. L. 114–26, see section 914(g) of Pub. L. 114–125, set out as a note under section 4201 of this title.
 
 #### Delegation of Functions
 

@@ -32,7 +32,7 @@
 
 (e)(1) The Board shall inquire into the morale, discipline, and social climate, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
 
-(2) The Secretary of the Air Force and the Superintendent of the Academy shall provide the Board candid and complete disclosure, consistent with applicable laws concerning disclosure of information, with respect to institutional problems.
+(2) The Secretary of the Air Force and the Superintendent of the Academy shall provide theBoard candid and complete disclosure, consistent with applicable laws concerning disclosure of information, with respect to institutional problems.
 
 (3) The Board shall recommend appropriate action.
 

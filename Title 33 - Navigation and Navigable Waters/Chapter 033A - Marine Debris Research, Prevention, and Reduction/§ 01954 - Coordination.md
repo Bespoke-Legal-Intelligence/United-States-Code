@@ -50,7 +50,7 @@ Biennially, the Committee, through the Chairperson, shall submit to the Committe
 
 The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title V of the Act, popularly known as the National Coastal Monitoring Act, is classified generally to chapter 41 (§2801 et seq.) of this title. For complete classification of title V to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
-The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L. 100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 1901 of this title and Tables.
+The Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (d)(2), is Pub. L.100–220, title II, Dec. 29, 1987, 101 Stat. 1460. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 1901 of this title and Tables.
 
 The Act to Prevent Pollution from Ships, referred to in subsec. (d)(2), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 109–449, §5(a)(2), inserted "public, interagency" before
 
 &emsp;"(3) identify the types and classes of plastic materials that pose the greatest potential hazard to living marine resources;
 
-&emsp;"(4) analyze, in consultation with the Director of the National Bureau of Standards, plastic materialswhich are claimed to be capable of reduction to environmentally benign submits under the action of normal environmental forces (including biological decomposition, photodegradation, and hydrolysis); and
+&emsp;"(4) analyze, in consultation with the Director of the National Bureau of Standards, plastic materials which are claimed to be capable of reduction to environmentally benign submits under the action of normal environmental forces (including biological decomposition, photodegradation, and hydrolysis); and
 
 &emsp;"(5) recommend legislation which is necessary to prohibit, tax, or regulate sources of plastic materials that enter the marine environment."
 

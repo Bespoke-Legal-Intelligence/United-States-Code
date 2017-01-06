@@ -6,7 +6,7 @@
 
 &emsp;(A) the officer has had significant experience in joint duty assignments; and
 
-&emsp;(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) of this title) as a flag officer.
+&emsp;(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) <sup>1</sup> of this title) as a flag officer.
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -36,6 +36,10 @@
 
 (Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1049; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, §501(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(B), Nov. 25, 2015, 129 Stat. 880.)
 
+#### References in Text
+
+Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, §510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 5081 and 5082 of this title prior to enactment of Pub. L. 99–433.
@@ -56,5 +60,5 @@ Pub. L. 108–136, div. A, title V, §508, Nov. 24, 2003, 117 Stat. 1458, provid
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section,see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
 

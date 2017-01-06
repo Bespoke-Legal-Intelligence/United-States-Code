@@ -92,11 +92,11 @@
 
 #### (4) Additional apportionment
 
-&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carry out the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
+&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carryout the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
 
 &emsp;&emsp;(A) Four percent shall be retained by the Department of Agriculture for administration, program assistance to the eligible institutions, and program coordination.
 
-&emsp;&emsp;(B) 48 percent shall be distributed among the several States in the proportion that the value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in each State bears tothe total value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in all the States. The Secretary shall determine the total value of and income from domestic livestock, poultry, and commercial aquaculture species in all the States and the proportionate value of and income from domestic livestock, poultry, and commercial aquaculture species for each State, based on the most current inventory of all cattle, sheep, swine, horses, poultry, and commercial aquaculture species published by the Department of Agriculture.
+&emsp;&emsp;(B) 48 percent shall be distributed among the several States in the proportion that the value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in each State bears to the total value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in all the States. The Secretary shall determine the total value of and income from domestic livestock, poultry, and commercial aquaculture species in all the States and the proportionate value of and income from domestic livestock, poultry, and commercial aquaculture species for each State, based on the most current inventory of all cattle, sheep, swine, horses, poultry, and commercial aquaculture species published by the Department of Agriculture.
 
 &emsp;&emsp;(C) 48 percent shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determine the animal health research capacity of the eligible institutions.
 
@@ -149,4 +149,8 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

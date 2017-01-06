@@ -82,7 +82,7 @@ Critical duties and tasks.—For each career path, the head of each executive ag
 
 &emsp;&emsp;(C)
 
-Mandatory training and education.—For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency also shall encourage employees to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
+Mandatory training and education.—For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency also shall encourage employees to maintain the currency of their acquisition knowledge andgenerally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
 
 &emsp;(2)
 
@@ -172,7 +172,7 @@ Transfer and use of fees collected from department of defense.—The Administrat
 
 &emsp;(6)
 
-Amounts not to be used for other purposes.—The Administrator of General Services, through the Office of Federal Procurememt <sup>1</sup> Policy, shall ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.
+Amounts not to be used for other purposes.—The Administrator of General Services, through the Office of Federal Procurememt <sup>1</sup> Policy, shall ensure thatamounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.
 
 &emsp;(7)
 
@@ -362,7 +362,7 @@ Pub. L. 103–355, title V, §5051(c), Oct. 13, 1994, 108 Stat. 3351, provided t
 
 &emsp;"(1) establish policies and procedures for the heads of such departments and agencies to designate acquisition positions and manage employees (including the accession, education, training and career development of employees) in the designated acquisition positions; and
 
-&emsp;"(2) review the incentives and personnel actions available to the heads of departments and agencies of the Federal Government for encouraging excellence in the acquisition workforce of the Federal Government and provide an enhanced system of incentivesfor the encouragement of excellence in such workforce which—
+&emsp;"(2) review the incentives and personnel actions available to the heads of departments and agencies of the Federal Government for encouraging excellence in the acquisition workforce of the Federal Government and provide an enhanced system of incentives for the encouragement of excellence in such workforce which—
 
 &emsp;&emsp;"(A) relates pay to performance (including the extent to which the performance of personnel in such workforce contributes to achieving the cost goals, schedule goals, and performance goals established for acquisition programs pursuant to section 313(b) of the Federal Property and Administrative Services Act of 1949, as added by subsection (a) \[now 41 U.S.C. 3103(b)\]); and
 

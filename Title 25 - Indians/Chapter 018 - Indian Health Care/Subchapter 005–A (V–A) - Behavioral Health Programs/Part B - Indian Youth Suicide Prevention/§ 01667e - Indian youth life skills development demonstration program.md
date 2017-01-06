@@ -94,7 +94,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 #### (4) Applications
 
-&emsp;To be eligible to receive a grant under the demonstration program, an eligible entity shall submit to the Secretary an application,at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under the demonstration program, an eligible entity shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) an assurance that, in implementing the curriculum, the eligible entity will collaborate with 1 or more local educational agencies, including elementary schools, middle schools, and high schools;
 

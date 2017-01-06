@@ -6,7 +6,7 @@ The Secretary may establish, and from time to time alter, renew, replace, or cha
 
 #### (b) Preparation and distribution of regulations, forms, stamps and dies
 
-The Secretary shall prepare and distribute all the instructions, regulations, directions, forms,blanks, and stamps; and shall provide proper and sufficient adhesive stamps and other stamps or dies for expressing and denoting the several stamp taxes.
+The Secretary shall prepare and distribute all the instructions, regulations, directions, forms, blanks, and stamps; and shall provide proper and sufficient adhesive stamps and other stamps or dies for expressing and denoting the several stamp taxes.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 829; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–569, §2, Oct. 20, 1976, 90 Stat. 2699; Pub. L. 98–369, div. A, title IV, §454(c)(13), July 18, 1984, 98 Stat. 822.)
 

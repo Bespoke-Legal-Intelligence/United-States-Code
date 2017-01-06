@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) the term "beef" means flesh of cattle;
 
-&emsp;(2) the term "beef products" means edible products produced in whole or in part from beef, exclusive of milk and products made therefrom;
+&emsp;(2) the term "beef products" means edible products produced in whole or in part frombeef, exclusive of milk and products made therefrom;
 
 &emsp;(3) the term "Board" means the Cattlemen's Beef Promotion and Research Board established under section 2904(1) of this title;
 

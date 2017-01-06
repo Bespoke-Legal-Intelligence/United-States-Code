@@ -24,7 +24,7 @@ Providing for authority to accumulate reserve funds from assessments collected p
 
 #### (f) Foreign markets; sales development and expansion
 
-Providing for authority to use funds collected herein, with the approval of the Secretary, forthe development and expansion of potato and potato product sales in foreign markets.
+Providing for authority to use funds collected herein, with the approval of the Secretary, for the development and expansion of potato and potato product sales in foreign markets.
 
 #### (g) Assessment; refund
 

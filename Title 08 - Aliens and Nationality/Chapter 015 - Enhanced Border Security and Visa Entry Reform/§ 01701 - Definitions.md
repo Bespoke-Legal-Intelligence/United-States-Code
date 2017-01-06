@@ -52,13 +52,13 @@ In this chapter:
 
 #### (6) President
 
-&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
+&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
 
 #### (7) USA PATRIOT Act
 
 &emsp;The term "USA PATRIOT Act" means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
-(Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, §619, Aug. 9, 2004, 118 Stat. 1062.)
+(Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, §619, Aug. 9, 2004, 118 Stat. 1062; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### References in Text
 
@@ -74,6 +74,8 @@ The Uniting and Strengthening America by Providing Appropriate Tools Required to
 
 #### Change of Name
 
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in par. (6) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
@@ -84,11 +86,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Short Title
 
-Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: "This Act \[enacting this chapter, amendingsections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the 'Enhanced Border Security and Visa Entry Reform Act of 2002'."
+Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: "This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the 'Enhanced Border Security and Visa Entry Reform Act of 2002'."
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) any partisan or nonpartisan political activity or any political activity associated with a candidate, or contending faction or group, in an election for public or party office;
 
-&emsp;&emsp;(B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election; or
+&emsp;&emsp;(B) any activity to provide voters or prospective voters with transportation to thepolls or similar assistance in connection with any such election; or
 
 &emsp;&emsp;(C) any voter registration activity.
 

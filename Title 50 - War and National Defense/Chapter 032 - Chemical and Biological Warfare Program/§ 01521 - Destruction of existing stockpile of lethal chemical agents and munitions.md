@@ -10,7 +10,7 @@ The Secretary of Defense shall, in accordance with the provisions of this sectio
 
 (2) If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
 
-(3) For purposes of this section, the term "stockpile elimination deadline" means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023.
+(3) For purposes of this section, the term "stockpile elimination deadline" means thedeadline established by the Chemical Weapons Convention, but not later than December 31, 2023.
 
 #### (c) Initiation of demilitarization operations
 
@@ -42,7 +42,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (B) Additionally, the Secretary may provide funds through cooperative agreements with State and local governments, and with tribal organizations, for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
 
-(C) In this paragraph, the term "tribal organization" has the meaning given that term in section 450b(l) of title 25.
+(C) In this paragraph, the term "tribal organization" has the meaning given that term in section 5304(l) of title 25.
 
 (2)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
 
@@ -74,7 +74,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 #### (g) Management organization
 
-(1) In carrying out this section, the Secretary of Defense shall provide for a management organization within the Department of the Army. The Secretary of the Army shall be responsible for management of the destruction of agents and munitions at all sites except Blue Grass ArmyDepot, Kentucky, and Pueblo Chemical Depot, Colorado <sup>1</sup>
+(1) In carrying out this section, the Secretary of Defense shall provide for a management organization within the Department of the Army. The Secretary of the Army shall be responsible for management of the destruction of agents and munitions at all sites except Blue Grass Army Depot, Kentucky, and Pueblo Chemical Depot, Colorado <sup>1</sup>
 
 (2) The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition, Technology, and Logistics <sup>1</sup>
 
@@ -130,7 +130,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 #### (j) Semiannual reports
 
-(1) Not later than March 1 and September 1 each year until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
+(1) Not later than March 1 and September 1 each year until the year in which the UnitedStates completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
 
 (2) Each report under paragraph (1) shall include the following:
 
@@ -188,7 +188,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (B) For purposes of this paragraph, affected areas are those areas located within a 50-mile radius of a chemical weapons storage site.
 
-(4) For a period of five years after the termination of any commission under this subsection, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of a member of that commission has an ownership interest may be awarded—
+(4) For a period of five years after the termination of any commission under this subsection, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of a member of thatcommission has an ownership interest may be awarded—
 
 &emsp;(A) a contract related to the disposal of lethal chemical agents or munitions in the stockpile referred to in subsection (a); or
 
@@ -240,7 +240,7 @@ In determining the technologies to supplement the neutralization destruction of 
 
 In this section:
 
-&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
+&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through itschemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
 &emsp;(2) The term "Chemical Weapons Convention" means the Convention on the Prohibition of Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, with annexes, done at Paris, January 13, 1993, and entered into force April 29, 1997 (T. Doc. 103–21).
 
@@ -310,7 +310,7 @@ Subsec. (g)(2)(B)(vii). Pub. L. 105–261, §141(c)(1), added cl. (vii).
 
 Subsec. (g)(2)(C), (D). Pub. L. 105–261, §141(c)(2), redesignated subpars. (B) and (C) as (C) and (D), respectively.
 
-<b>1997</b>—Subsec. (g)(3), (4). Pub. L. 105–85 struck out "No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1)." at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: "The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens' Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period coveredby a report under paragraph (1) may be included in that report."
+<b>1997</b>—Subsec. (g)(3), (4). Pub. L. 105–85 struck out "No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1)." at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: "The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens' Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report."
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–106, §1502(c)(6), substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
@@ -390,6 +390,10 @@ Pub. L. 109–163, div. A, title IX, §921(b), Jan. 6, 2006, 119 Stat. 3410, pro
 
 &emsp;"(2) apply with respect to any cooperative agreement entered into on or after that date."
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (i) and (j) of this section requiring submittal of annual and semiannual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
+
 #### Sense of Congress on Completion of Destruction of United States Chemical Weapons Stockpile
 
 Pub. L. 110–181, div. A, title IX, §922, Jan. 28, 2008, 122 Stat. 282, as amended by Pub. L. 111–383, div. A, title XIV, §1421(b)(10), Jan. 7, 2011, 124 Stat. 4420, provided that:
@@ -452,7 +456,7 @@ Pub. L. 104–106, div. A, title I, §152, Feb. 10, 1996, 110 Stat. 214, as amen
 
 #### Chemical Demilitarization Citizens Advisory Commissions
 
-Pub. L. 102–484, div. A, title I, §172, Oct. 23, 1992, 106 Stat. 2341, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 110–181, div. A, title IX, §921, Jan. 28, 2008, 122 Stat. 282; Pub. L. 110–417, \[div. A\], title IX, §921, Oct. 14, 2008, 122 Stat. 4573; Pub. L. 111–84, div. A, title X, §1073(c)(8), Oct. 28, 2009, 123 Stat. 2475, which directed the Secretary of the Army to establish a Chemical Demilitarization Citizens' Advisory Commission in each State in which there existed a low-volume chemical weapons storagesite in order to receive citizen and State concerns regarding the program for the disposal of lethal chemical agents and munitions, and provided for termination of each such commission after completion of closure activities or upon request of the State's Governor, was repealed by Pub. L. 111–383, div. A, title XIV, §1421(b)(2), Jan. 7, 2011, 124 Stat. 4420.
+Pub. L. 102–484, div. A, title I, §172, Oct. 23, 1992, 106 Stat. 2341, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 110–181, div. A, title IX, §921, Jan. 28, 2008, 122 Stat. 282; Pub. L. 110–417, \[div. A\], title IX, §921, Oct. 14, 2008, 122 Stat. 4573; Pub. L. 111–84, div. A, title X, §1073(c)(8), Oct. 28, 2009, 123 Stat. 2475, which directed the Secretary of the Army to establish a Chemical Demilitarization Citizens' Advisory Commission in each State in which there existed a low-volume chemical weapons storage site in order to receive citizen and State concerns regarding the program for the disposal of lethal chemical agents and munitions, and provided for termination of each such commission after completion of closure activities or upon request of the State's Governor, was repealed by Pub. L. 111–383, div. A, title XIV, §1421(b)(2), Jan. 7, 2011, 124 Stat. 4420.
 
 #### Alternative Disposal Process for Low-Volume Sites; Revised Disposal Concept Plan
 

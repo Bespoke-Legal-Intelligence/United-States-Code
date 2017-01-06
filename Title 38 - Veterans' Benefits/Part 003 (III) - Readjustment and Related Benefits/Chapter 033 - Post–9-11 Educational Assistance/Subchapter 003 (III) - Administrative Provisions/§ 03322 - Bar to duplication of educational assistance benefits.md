@@ -38,7 +38,7 @@ Bar To Duplication of Eligibility Based on a Single Event or Period of Service.�
 
 &emsp;(1)
 
-Active-duty service.—An individual with qualifying service in the Armed Forcesthat establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
+Active-duty service.—An individual with qualifying service in the Armed Forces that establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
 
 &emsp;(2)
 

@@ -42,7 +42,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(9) To develop or adapt and provide developmental, culturally appropriate, and linguistically accessible print or electronic materials to address both prevention and intervention in domestic violence, dating violence, sexual violence, and stalking.
 
-&emsp;(10) To develop or adapt population specific strategies and projects for victims of domestic violence, dating violence, sexual assault, and stalking from underserved populations on campus.
+&emsp;(10) To develop or adapt population specific strategies and projects for victims of domesticviolence, dating violence, sexual assault, and stalking from underserved populations on campus.
 
 #### (c) Applications
 
@@ -54,7 +54,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;Each application submitted under paragraph (1) shall—
 
-&emsp;&emsp;(A) describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b) of this section;
+&emsp;&emsp;(A) describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b);
 
 &emsp;&emsp;(B) include proof that the institution of higher education collaborated with victim service providers, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located;
 
@@ -64,7 +64,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;&emsp;(E) provide measurable goals and expected results from the use of the grant funds;
 
-&emsp;&emsp;(F) provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b) of this section; and
+&emsp;&emsp;(F) provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b); and
 
 &emsp;&emsp;(G) include such other information and assurances as the Attorney General reasonably determines to be necessary.
 
@@ -86,7 +86,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 #### (B) Final report
 
-&emsp;&emsp;Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b) of this section.
+&emsp;&emsp;Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b).
 
 #### (3) Grantee minimum requirements
 

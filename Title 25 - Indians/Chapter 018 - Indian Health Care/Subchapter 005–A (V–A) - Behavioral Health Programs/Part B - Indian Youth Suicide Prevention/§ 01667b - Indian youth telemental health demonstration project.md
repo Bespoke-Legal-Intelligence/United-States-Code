@@ -76,7 +76,7 @@
 
 #### (2) Traditional health care practices
 
-&emsp;In carrying out the purposes described in paragraph (1), an Indian tribe or tribal organization may use and promote the traditional health care practices of the Indian tribes of the youth to be served.
+&emsp;In carrying out the purposes described in paragraph (1), an Indian tribe or tribal organization may use and promote the traditionalhealth care practices of the Indian tribes of the youth to be served.
 
 #### (c) Applications
 
@@ -106,7 +106,7 @@
 
 #### (d) Collaboration
 
-The Secretary, acting through the Service, shall encourage Indian tribes and tribal organizations receiving grants under this section tocollaborate to enable comparisons regarding best practices across projects.
+The Secretary, acting through the Service, shall encourage Indian tribes and tribal organizations receiving grants under this section to collaborate to enable comparisons regarding best practices across projects.
 
 #### (e) Annual report
 

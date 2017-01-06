@@ -87,7 +87,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 | 3,000 lbs | 24\.9 mpg&nbsp;&nbsp; |
 | 3,500 lbs | 21\.8 mpg&nbsp;&nbsp; |
 | 4,000 lbs | 19\.4 mpg&nbsp;&nbsp; |
-| 4,500 lbs | 17\.6 mpg&nbsp;&nbsp; |
+| 4,500 lbs | 17\.6 mpg   |
 | 5,000 lbs | 16\.1 mpg&nbsp;&nbsp; |
 | 5,500 lbs | 14\.8 mpg&nbsp;&nbsp; |
 | 6,000 lbs | 13\.7 mpg&nbsp;&nbsp; |
@@ -520,7 +520,7 @@ This section shall not apply to any property purchased after—
 
 &emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330-332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–113, div. Q, title I, §193(a), Dec. 18, 2015, 129 Stat. 3075.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–113, div. Q, title I, §193(a), Dec. 18, 2015, 129 Stat. 3075.)
 
 #### References in Text
 

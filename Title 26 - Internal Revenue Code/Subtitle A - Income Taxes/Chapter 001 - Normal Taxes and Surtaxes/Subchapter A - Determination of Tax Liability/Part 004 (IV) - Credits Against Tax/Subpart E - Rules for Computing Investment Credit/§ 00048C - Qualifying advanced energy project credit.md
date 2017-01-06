@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 46, the qualifying advanced energy project credit for any taxableyear is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying advanced energy project of the taxpayer.
+For purposes of section 46, the qualifying advanced energy project credit for any taxable year is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying advanced energy project of the taxpayer.
 
 #### (b) Qualified investment
 
@@ -122,7 +122,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (C) Reallocation
 
-&emsp;&emsp;If the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph (2), the Secretary is authorized to conduct an additional program for applications for certification.
+&emsp;&emsp;If the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph (2), the Secretary is authorizedto conduct an additional program for applications for certification.
 
 #### (5) Disclosure of allocations
 

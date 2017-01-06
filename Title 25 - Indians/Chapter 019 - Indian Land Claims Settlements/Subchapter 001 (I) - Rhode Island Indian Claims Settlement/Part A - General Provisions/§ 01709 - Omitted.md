@@ -1,0 +1,6 @@
+### §1709. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–395, §10, Sept. 30, 1978, 92 Stat. 817, which provided for preservation of certain other Federal benefits, was omitted from the Code as being of special and not general application.
+

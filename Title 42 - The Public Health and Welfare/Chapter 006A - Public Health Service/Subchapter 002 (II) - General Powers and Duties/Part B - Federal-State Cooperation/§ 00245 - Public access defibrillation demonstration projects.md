@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribalorganizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
+The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribal organizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
 
 &emsp;(1) provide cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in unique settings;
 
@@ -12,7 +12,7 @@ The Secretary shall award grants to political subdivisions of States, Indian tri
 
 #### (b) Use of funds
 
-A recipient of a grant under subsection (a) of this section shall use the funds provided through the grant to—
+A recipient of a grant under subsection (a) shall use the funds provided through the grant to—
 
 &emsp;(1) purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
 
@@ -28,7 +28,7 @@ A recipient of a grant under subsection (a) of this section shall use the funds 
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under subsection (a) of this section, a political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+&emsp;To be eligible to receive a grant under subsection (a), a political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (2) Contents
 

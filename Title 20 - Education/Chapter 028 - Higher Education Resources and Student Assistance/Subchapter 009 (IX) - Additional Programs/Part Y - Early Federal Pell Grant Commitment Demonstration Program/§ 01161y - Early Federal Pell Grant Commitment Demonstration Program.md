@@ -36,7 +36,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (B) Students in each cohort
 
-&emsp;&emsp;Each cohort of students shall consist of not more than 10,000 eighth grade students who qualify for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+&emsp;&emsp;Each cohort of students shall consist of not more than 10,000 eighth grade studentswho qualify for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 #### (2) Student data
 
@@ -172,7 +172,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 &emsp;&emsp;The annual provision by the State educational agency to all students and families participating in the demonstration project of information regarding—
 
-&emsp;&emsp;&emsp;(i) the estimated statewide average cost of attendance for an institution of highereducation for each academic year, which cost data shall be disaggregated by—
+&emsp;&emsp;&emsp;(i) the estimated statewide average cost of attendance for an institution of higher education for each academic year, which cost data shall be disaggregated by—
 
 &emsp;&emsp;&emsp;&emsp;(I) type of institution, including—
 
@@ -202,7 +202,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 &emsp;&emsp;&emsp;(v) State need-based financial aid; and
 
-&emsp;&emsp;&emsp;(vi) Federal financial aid available to students, including eligibility criteria for such aid and an explanation of the Federal financial aid programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, such as the Student Guide published by the Department (or any successor to such document).
+&emsp;&emsp;&emsp;(vi) Federal financial aid available to students, including eligibility criteria for such aid and an explanation of the Federal financial aid programs under subchapter IV, such as the Student Guide published by the Department (or any successor to such document).
 
 #### (3) Cohorts
 
@@ -224,7 +224,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(B), (5), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(B), (5), is act June 4, 1946,ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsec. (b)(1)(B), (5), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 

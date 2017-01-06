@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 #### (2) Certain factors not taken into account with respect to meals
 
-&emsp;In determining whether meals are furnished for the convenience of the employer, the factthat a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
+&emsp;In determining whether meals are furnished for the convenience of the employer, the fact that a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
 
 #### (3) Certain fixed charges for meals
 
@@ -124,7 +124,7 @@ Section 1886(d)(5)(B) or (h) of the Social Security Act, referred to in subsec. 
 
 Educational institution.—For purposes of this paragraph, the term 'educational institution' means an institution described in section 170(b)(1)(A)(ii)."
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–647 struck out "(as of the close of the calendar year in which the taxable year begins)" after "appraised value" in par. (2)(A)(i) and inserted at end "The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins." as concluding provision.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 struck out "(as of the close of the calendar year in which the taxable year begins)" after "appraised value" in par. (2)(A)(i) and inserted at end "The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in thecase of a rental period not greater than 1 year, at any time during the calendar year in which such period begins." as concluding provision.
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514 added subsec. (d).
 
@@ -214,5 +214,5 @@ Limitation on Deduction.—If any individual receives a subsistence allowance wh
 
 "(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or beforeApril 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979."
+Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979."
 

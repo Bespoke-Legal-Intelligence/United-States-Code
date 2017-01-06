@@ -4,13 +4,13 @@
 
 #### (1) Payments during construction
 
-&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before November 17, 1986, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
+&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before June 10, 2014, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
 
 &emsp;&emsp;(A) 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
 
-&emsp;&emsp;(B) 25 percent of the cost of construction of the portion of the project which has a depth in excess of 20 feet but not in excess of 45 feet; plus
+&emsp;&emsp;(B) 25 percent of the cost of construction of the portion of the project which has a depth in excess of 20 feet but not in excess of 50 feet; plus
 
-&emsp;&emsp;(C) 50 percent of the cost of construction of the portion of the project which has a depth in excess of 45 feet.
+&emsp;&emsp;(C) 50 percent of the cost of construction of the portion of the project which has a depth in excess of 50 feet.
 
 #### (2) Additional 10 percent payment over 30 years
 
@@ -36,7 +36,7 @@
 
 #### (2) Dredged material disposal facilities
 
-&emsp;The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a) of this section. The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
+&emsp;The Federal share of the cost of constructing land-based and aquatic dredged materialdisposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a). The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
 
 #### (c) Erosion or shoaling attributable to Federal navigation works
 
@@ -62,19 +62,25 @@ Before initiation of construction of a project to which this section applies, th
 
 The Secretary shall ensure, to the extent practicable, that—
 
-&emsp;(1) funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b) of this section;
+&emsp;(1) funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b);
 
 &emsp;(2) funds expended for such construction are apportioned equitably in accordance with regional needs; and
 
 &emsp;(3) use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
 
-(Pub. L. 99–662, title I, §101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, §13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, §333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, §201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, §2102(b), June 10, 2014, 128 Stat. 1278.)
+(Pub. L. 99–662, title I, §101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, §13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, §333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, §201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, §2102(b), June 10, 2014, 128 Stat. 1278; Pub. L. 114–322, title I, §1111, Dec. 16, 2016, 130 Stat. 1636.)
 
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–322, §1111(1), substituted "June 10, 2014," for "November 17, 1986," in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 114–322, §1111(2), substituted "50 feet" for "45 feet".
+
+Subsec. (a)(1)(C). Pub. L. 114–322, §1111(3), substituted "50 feet" for "45 feet".
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–121 substituted "50 feet" for "45 feet".
 
@@ -96,7 +102,7 @@ Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986."
+Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect on November 17, 1986."
 
 #### Deep Draft Harbor Cost Sharing
 

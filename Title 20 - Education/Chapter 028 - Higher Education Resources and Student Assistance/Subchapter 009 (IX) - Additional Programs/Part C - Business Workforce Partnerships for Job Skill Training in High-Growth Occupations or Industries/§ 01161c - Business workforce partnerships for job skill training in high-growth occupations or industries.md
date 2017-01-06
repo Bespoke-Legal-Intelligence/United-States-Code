@@ -32,7 +32,7 @@ In consultation with all of the members of an eligible partnership, grant funds 
 
 &emsp;(3) purchase equipment that will facilitate the development of academic programs or programs of training that provide training for high-growth and high-wage occupations or industries;
 
-&emsp;(4) strengthen outreach efforts that enable students, including students with limited English proficiency, to attend institutions ofhigher education with academic programs or programs of training focused on high-growth and high-wage occupations or industries;
+&emsp;(4) strengthen outreach efforts that enable students, including students with limited English proficiency, to attend institutions of higher education with academic programs or programs of training focused on high-growth and high-wage occupations or industries;
 
 &emsp;(5) expand worksite learning and training opportunities, including registered apprenticeships as appropriate; and
 
@@ -84,9 +84,9 @@ The Secretary shall conduct an evaluation of the effectiveness of the program un
 
 Not later than 36 months after the first grant is awarded under this section, the Comptroller General shall report to the authorizing committees recommendations—
 
-&emsp;(1) for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\] and the Workforce Innovation and Opportunity Act (including titles I and II \[29 U.S.C. 3111 et seq., 3271 et seq.\]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
+&emsp;(1) for changes to this chapter and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\] and the Workforce Innovation and Opportunity Act (including titles I and II \[29 U.S.C. 3111 et seq., 3271 et seq.\]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
 
-&emsp;(2) for other changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
+&emsp;(2) for other changes to this chapter and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
 
 #### (j) Definitions
 
@@ -146,7 +146,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (i)(1), is 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (i)(1). Pub. L. 113–128, §512(n)(5)(A), substituted "for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education" for "for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education".
+<b>2014</b>—Subsec. (i)(1). Pub. L. 113–128, §512(n)(5)(A), substituted "for changes to this chapter and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education" for "for changes to this chapter and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education".
 
 Subsec. (j)(1)(A)(ii). Pub. L. 113–128, §512(n)(5)(B)(i), substituted "local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)" for "local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801))".
 

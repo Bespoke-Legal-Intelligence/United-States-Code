@@ -24,11 +24,11 @@ If awarded a contract under section 637(a), 637(m), 644(a), 657a, or 657f of thi
 
 #### (b) Similarly situated entities
 
-Contract amounts expended by a covered small business concern on a subcontractor that is a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).
+Contract amounts expended by a covered small business concern on a subcontractor thatis a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).
 
 #### (c) Modifications of percentages
 
-The Administrator may change, by rule (after providing notice and an opportunity for publiccomment), a percentage specified in paragraphs (1) through (4) of subsection (a) if the Administrator determines that such change is necessary to reflect conventional industry practices among business concerns that are below the numerical size standard for businesses in that industry category.
+The Administrator may change, by rule (after providing notice and an opportunity for public comment), a percentage specified in paragraphs (1) through (4) of subsection (a) if the Administrator determines that such change is necessary to reflect conventional industry practices among business concerns that are below the numerical size standard for businesses in that industry category.
 
 #### (d) Other contracts
 

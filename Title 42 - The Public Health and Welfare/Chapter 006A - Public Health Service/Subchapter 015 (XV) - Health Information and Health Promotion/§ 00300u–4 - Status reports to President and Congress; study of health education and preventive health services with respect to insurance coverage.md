@@ -1,6 +1,6 @@
 ### §300u–4. Status reports to President and Congress; study of health education and preventive health services with respect to insurance coverage
 
-(a) The Secretary shall, not later than two years after June 23, 1976, and biannually thereafter, submit to the President for transmittal to Congress a report on the status of health information and health promotion, preventive healthservices, and education in the appropriate use of health care. Each such report shall include—
+(a) The Secretary shall, not later than two years after June 23, 1976, and biannually thereafter, submit to the President for transmittal to Congress a report on the status of health information and health promotion, preventive health services, and education in the appropriate use of health care. Each such report shall include—
 
 &emsp;(1) a statement of the activities carried out under this subchapter since the last report and the extent to which each such activity achieves the purposes of this subchapter;
 

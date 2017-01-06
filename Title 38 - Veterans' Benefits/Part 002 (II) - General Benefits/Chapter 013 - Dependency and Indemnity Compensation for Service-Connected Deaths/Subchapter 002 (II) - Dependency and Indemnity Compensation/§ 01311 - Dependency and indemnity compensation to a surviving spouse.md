@@ -33,7 +33,7 @@
 
 (d) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $135 if the surviving spouse is, by reason of disability, permanently housebound but does not qualify for the aid and attendance allowance under subsection (c) of this section. For the purposes of this subsection, the requirement of "permanently housebound" will be considered to have been met when the surviving spouse is substantially confined to such surviving spouse's home (ward or clinical areas, if institutionalized) or immediate premises by reason of a disability or disabilities which it is reasonably certain will remain throughout such surviving spouse's lifetime.
 
-(e) In the case of an individual who is eligible for dependency and indemnity compensation under this section by reason of section 103(d)(2)(B) of this title who is also eligible for benefits under another provision of law by reason of such individual's status as the surviving spouse of a veteran, then, notwithstanding any other provision of law (other than section 5304(b)(3) of this title), no reduction in benefits under such other provision of law shall be made by reason of such individual's eligibility for benefits under this section.
+(e) In the case of an individual who is eligible for dependency and indemnity compensation under this section by reason of section 103(d)(2)(B) of this title who is also eligible for benefits under another provision of law by reason of such individual's status as the surviving spouse of a veteran, then, notwithstanding any other provision of law (other than section5304(b)(3) of this title), no reduction in benefits under such other provision of law shall be made by reason of such individual's eligibility for benefits under this section.
 
 (f)(1) Subject to paragraphs (2) and (3), if there is a surviving spouse with one or more children below the age of 18, the dependency and indemnity compensation paid monthly to the surviving spouse shall be increased by $250 (as increased from time to time under paragraph (4)), regardless of the number of such children.
 
@@ -77,7 +77,7 @@ Subsecs. (b), (c). Pub. L. 110–324, §3(d)(3)(A), (B), substituted "$271" for 
 
 Subsec. (d). Pub. L. 110–324, §3(d)(3)(C), substituted "$128" for "$126".
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made byPub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(1). Pub. L. 109–461, §1005(d)(1)(A), substituted "$1,067" for "$1,033".
 
@@ -177,7 +177,7 @@ Pub. L. 106–117 struck out subsec. (e) which provided that the termination by 
 
 Subsec. (a)(2). Pub. L. 105–98, §5(a)(2), substituted "$185" for "$169".
 
-Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1 to W–4, and O–1 to O–10, substituted "section 402 of this title" for "section 1302 of this title" and "$1,044" for "$943" in footnote 1, and substituted "section 402 of this title" for "section 1302 of this title" and "$1,941" for "$1,753" in footnote 2.
+Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1to W–4, and O–1 to O–10, substituted "section 402 of this title" for "section 1302 of this title" and "$1,044" for "$943" in footnote 1, and substituted "section 402 of this title" for "section 1302 of this title" and "$1,941" for "$1,753" in footnote 2.
 
 Subsec. (b). Pub. L. 105–98, §5(c), substituted "$215 for each such child." for "$100 for each such child during fiscal year 1993, $150 for each such child during fiscal year 1994, and $200 for each such child thereafter."
 
@@ -505,7 +505,7 @@ Amendment by Pub. L. 91–588 effective Jan. 1, 1971, see section 10(a) of Pub. 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–96 effective first day of second calendar month which begins after Oct. 27, 1969, seesection 8 of Pub. L. 91–96, set out as a note under section 1302 of this title.
+Amendment by Pub. L. 91–96 effective first day of second calendar month which begins after Oct. 27, 1969, see section 8 of Pub. L. 91–96, set out as a note under section 1302 of this title.
 
 #### Effective Date of 1963 Amendments
 

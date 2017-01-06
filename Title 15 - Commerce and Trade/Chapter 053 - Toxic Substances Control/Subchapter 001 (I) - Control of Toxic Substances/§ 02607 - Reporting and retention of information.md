@@ -22,23 +22,21 @@
 
 &emsp;(B) The categories or proposed categories of use of each such substance or mixture.
 
-&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed foreach of its categories of use or proposed categories of use.
+&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
 
 &emsp;(D) A description of the byproducts resulting from the manufacture, processing, use, or disposal of each such substance or mixture.
 
-&emsp;(E) All existing data concerning the environmental and health effects of such substance or mixture.
+&emsp;(E) All existing information concerning the environmental and health effects of such substance or mixture.
 
 &emsp;(F) The number of individuals exposed, and reasonable estimates of the number who will be exposed, to such substance or mixture in their places of employment and the duration of such exposure.
 
 &emsp;(G) In the initial report under paragraph (1) on such substance or mixture, the manner or method of its disposal, and in any subsequent report on such substance or mixture, any change in such manner or method.
 
-> To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative.
-
 (3)(A)(i) The Administrator may by rule require a small manufacturer or processor of a chemical substance to submit to the Administrator such information respecting the chemical substance as the Administrator may require for publication of the first list of chemical substances required by subsection (b).
 
 (ii) The Administrator may by rule require a small manufacturer or processor of a chemical substance or mixture—
 
-&emsp;(I) subject to a rule proposed or promulgated under section 2603, 2604(b)(4), or 2605 of this title, or an order in effect under section 2604(e) of this title, or
+&emsp;(I) subject to a rule proposed or promulgated under section 2603, 2604(b)(4), or 2605 of this title,,<sup>1</sup> an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under section 2603 of this title, or
 
 &emsp;(II) with respect to which relief has been granted pursuant to a civil action brought under section 2604 or 2606 of this title,
 
@@ -46,11 +44,257 @@
 
 (B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
+(C) Not later than 180 days after June 22, 2016, and not less frequently than once every 10 years thereafter, the Administrator, after consultation with the Administrator of the Small Business Administration, shall—
+
+&emsp;(i) review the adequacy of the standards prescribed under subparagraph (B); and
+
+&emsp;(ii) after providing public notice and an opportunity for comment, make a determination as to whether revision of the standards is warranted.
+
+(4)
+
+Contents.—The rules promulgated pursuant to paragraph (1)—
+
+&emsp;(A) may impose differing reporting and recordkeeping requirements on manufacturers and processors; and
+
+&emsp;(B) shall include the level of detail necessary to be reported, including the manner by which use and exposure information may be reported.
+
+(5)
+
+Administration.—In carrying out this section, the Administrator shall, to the extent feasible—
+
+&emsp;(A) not require reporting which is unnecessary or duplicative;
+
+&emsp;(B) minimize the cost of compliance with this section and the rules issued thereunder on small manufacturers and processors; and
+
+&emsp;(C) apply any reporting obligations to those persons likely to have information relevant to the effective implementation of this subchapter.
+
+(6)
+
+Negotiated rulemaking.—(A) The Administrator shall enter into a negotiated rulemaking pursuant to subchapter III of chapter 5 of title 5 to develop and publish, not later than 3 years after June 22, 2016, a proposed rule providing for limiting the reporting requirements, under this subsection, for manufacturers of any inorganic byproducts, when such byproducts, whether by the byproduct manufacturer or by any other person, are subsequently recycled, reused, or reprocessed.
+
+(B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish a final rule resulting from such negotiated rulemaking.
+
 #### (b) Inventory
 
 (1) The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under section 2604 of this title or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1). In the case of a chemical substance for which a notice is submitted in accordance with section 2604 of this title, such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977. The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
 
 (2) To the extent consistent with the purposes of this chapter, the Administrator may, in lieu of listing, pursuant to paragraph (1), a chemical substance individually, list a category of chemical substances in which such substance is included.
+
+(3)
+
+Nomenclature.—
+
+&emsp;(A)
+
+In general.—In carrying out paragraph (1), the Administrator shall—
+
+&emsp;&emsp;(i) maintain the use of Class 2 nomenclature in use on June 22, 2016;
+
+&emsp;&emsp;(ii) maintain the use of the Soap and Detergent Association Nomenclature System, published in March 1978 by the Administrator in section 1 of addendum III of the document entitled "Candidate List of Chemical Substances", and further described in the appendix A of volume I of the 1985 edition of the Toxic Substances Control Act Substances Inventory (EPA Document No. EPA–560/7–85–002a); and
+
+&emsp;&emsp;(iii) treat the individual members of the categories of chemical substances identified by the Administrator as statutory mixtures, as defined in Inventory descriptions established by the Administrator, as being included on the list established under paragraph (1).
+
+&emsp;(B)
+
+Multiple nomenclature listings.—If a manufacturer or processor demonstrates to the Administrator that a chemical substance appears multiple times on the list published under paragraph (1) under different CAS numbers, the Administrator may recognize the multiple listings as a single chemical substance.
+
+(4)
+
+Chemical substances in commerce.—
+
+&emsp;(A)
+
+Rules.—
+
+&emsp;&emsp;(i)
+
+In general.—Not later than 1 year after June 22, 2016, the Administrator, by rule, shall require manufacturers, and may require processors, subject to the limitations under subsection (a)(5)(A), to notify the Administrator, by not later than 180 days afterthe date on which the final rule is published in the Federal Register, of each chemical substance on the list published under paragraph (1) that the manufacturer or processor, as applicable, has manufactured or processed for a nonexempt commercial purpose during the 10-year period ending on the day before June 22, 2016.
+
+&emsp;&emsp;(ii)
+
+Active substances.—The Administrator shall designate chemical substances for which notices are received under clause (i) to be active substances on the list published under paragraph (1).
+
+&emsp;&emsp;(iii)
+
+Inactive substances.—The Administrator shall designate chemical substances for which no notices are received under clause (i) to be inactive substances on the list published under paragraph (1).
+
+&emsp;&emsp;(iv)
+
+Limitation.—No chemical substance on the list published under paragraph (1) shall be removed from such list by reason of the implementation of this subparagraph, or be subject to section 2604(a)(1)(A)(i) of this title by reason of a change to active status under paragraph (5)(B).
+
+&emsp;(B)
+
+Confidential chemical substances.—In promulgating a rule under subparagraph (A), the Administrator shall—
+
+&emsp;&emsp;(i) maintain the list under paragraph (1), which shall include a confidential portion and a nonconfidential portion consistent with this section and section 2613 of this title;
+
+&emsp;&emsp;(ii) require any manufacturer or processor of a chemical substance on the confidential portion of the list published under paragraph (1) that seeks to maintain an existing claim for protection against disclosure of the specific chemical identity of the chemical substance as confidential pursuant to section 2613 of this title to submit a notice under subparagraph (A) that includes such request;
+
+&emsp;&emsp;(iii) require the substantiation of those claims pursuant to section 2613 of this title and in accordance with the review plan described in subparagraph (C); and
+
+&emsp;&emsp;(iv) move any active chemical substance for which no request was received to maintain an existing claim for protection against disclosure of the specific chemical identity of the chemical substance as confidential from the confidential portion of the list published under paragraph (1) to the nonconfidential portion of that list.
+
+&emsp;(C)
+
+Review plan.—Not later than 1 year after the date on which the Administrator compiles the initial list of active substances pursuant to subparagraph (A), the Administrator shall promulgate a rule that establishes a plan to review all claims to protect the specific chemical identities of chemical substances on the confidential portion of the list published under paragraph (1) that are asserted pursuant to subparagraph (B).
+
+&emsp;(D)
+
+Requirements of review plan.—In establishing the review plan under subparagraph (C), the Administrator shall—
+
+&emsp;&emsp;(i) require, at a time specified by the Administrator, all manufacturers or processors asserting claims under subparagraph (B) to substantiate the claim, in accordance with section 2613 of this title, unless the manufacturer or processor has substantiated the claim in a submission made to the Administrator during the 5-year period ending on the last day of the of the time period specified by the Administrator; and
+
+&emsp;&emsp;(ii) in accordance with section 2613 of this title—
+
+&emsp;&emsp;&emsp;(I) review each substantiation—
+
+&emsp;&emsp;&emsp;&emsp;(aa) submitted pursuant to clause (i) to determine if the claim qualifies for protection from disclosure; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) submitted previously by a manufacturer or processor and relied on in lieu of the substantiation required pursuant to clause (i), if the substantiation has not been previously reviewed by the Administrator, to determine if the claim warrants protection from disclosure;
+
+&emsp;&emsp;&emsp;(II) approve, approve in part and deny in part, or deny each claim; and
+
+&emsp;&emsp;&emsp;(III) except as provided in this section and section 2613 of this title, protect from disclosure information for which the Administrator approves such a claim for a period of 10 years, unless, prior to the expiration of the period—
+
+&emsp;&emsp;&emsp;&emsp;(aa) the person notifies the Administrator that the person is withdrawing the claim, in which case the Administrator shall not protect the information from disclosure; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) the Administrator otherwise becomes aware that the information does not qualify for protection from disclosure, in which case the Administrator shall take the actions described in section 2613(g)(2) of this title.
+
+&emsp;(E)
+
+Timeline for completion of reviews.—
+
+&emsp;&emsp;(i)
+
+In general.—The Administrator shall implement the review plan so as to complete reviews of all claims specified in subparagraph (C) not later than 5 years after the date on which the Administrator compiles the initial list of active substances pursuant to subparagraph (A).
+
+&emsp;&emsp;(ii)
+
+Considerations.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—The Administrator may extend the deadline for completion of the reviews for not more than 2 additional years, after an adequate public justification, if the Administrator determines that the extension is necessary based on the number of claims needing review and the available resources.
+
+&emsp;&emsp;&emsp;(II)
+
+Annual review goal and results.—At the beginning of each year, the Administrator shall publish an annual goal for reviews and the number of reviews completed in the prior year.
+
+(5)
+
+Active and inactive substances.—
+
+&emsp;(A)
+
+In general.—The Administrator shall keep designations of active substances and inactive substances on the list published under paragraph (1) current.
+
+&emsp;(B)
+
+Change to active status.—
+
+&emsp;&emsp;(i)
+
+In general.—Any person that intends to manufacture or process for a nonexempt commercial purpose a chemical substancethat is designated as an inactive substance shall notify the Administrator before the date on which the inactive substance is manufactured or processed.
+
+&emsp;&emsp;(ii)
+
+Confidential chemical identity.—If a person submitting a notice under clause (i) for an inactive substance on the confidential portion of the list published under paragraph (1) seeks to maintain an existing claim for protection against disclosure of the specific chemical identity of the inactive substance as confidential, the person shall, consistent with the requirements of section 2613 of this title—
+
+&emsp;&emsp;&emsp;(I) in the notice submitted under clause (i), assert the claim; and
+
+&emsp;&emsp;&emsp;(II) by not later than 30 days after providing the notice under clause (i), substantiate the claim.
+
+&emsp;&emsp;(iii)
+
+Active status.—On receiving a notification under clause (i), the Administrator shall—
+
+&emsp;&emsp;&emsp;(I) designate the applicable chemical substance as an active substance;
+
+&emsp;&emsp;&emsp;(II) pursuant to section 2613 of this title, promptly review any claim and associated substantiation submitted pursuant to clause (ii) for protection against disclosure of the specific chemical identity of the chemical substance and approve, approve in part and deny in part, or deny the claim;
+
+&emsp;&emsp;&emsp;(III) except as provided in this section and section 2613 of this title, protect from disclosure the specific chemical identity of the chemical substance for which the Administrator approves a claim under subclause (II) for a period of 10 years, unless, prior to the expiration of the period—
+
+&emsp;&emsp;&emsp;&emsp;(aa) the person notifies the Administrator that the person is withdrawing the claim, in which case the Administrator shall not protect the information from disclosure; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) the Administrator otherwise becomes aware that the information does not qualify for protection from disclosure, in which case the Administrator shall take the actions described in section 2613(g)(2) of this title; and
+
+&emsp;&emsp;&emsp;(IV) pursuant to section 2605(b) of this title, review the priority of the chemical substance as the Administrator determines to be necessary.
+
+&emsp;(C)
+
+Category status.—The list of inactive substances shall not be considered to be a category for purposes of section 2625(c) of this title.
+
+(6)
+
+Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
+
+(7)
+
+Public information.—Subject to this subsection and section 2613 of this title, the Administrator shall make available to the public—
+
+&emsp;(A) each specific chemical identity on the nonconfidential portion of the list published under paragraph (1) along with the Administrator's designation of the chemical substance as an active or inactive substance;
+
+&emsp;(B) the unique identifier assigned under section 2613 of this title, accession number, generic name, and, if applicable, premanufacture notice case number for each chemical substance on the confidential portion of the list published under paragraph (1) for which a claim of confidentiality was received; and
+
+&emsp;(C) the specific chemical identity of any active substance for which—
+
+&emsp;&emsp;(i) a claim for protection against disclosure of the specific chemical identity of the active substance was not asserted, as required under this subsection or section 2613 of this title;
+
+&emsp;&emsp;(ii) all claims for protection against disclosure of the specific chemical identity of the active substance have been denied by the Administrator; or
+
+&emsp;&emsp;(iii) the time period for protection against disclosure of the specific chemical identity of the active substance has expired.
+
+(8)
+
+Limitation.—No person may assert a new claim under this subsection or section 2613 of this title for protection from disclosure of a specific chemical identity of any active or inactive substance for which a notice is received under paragraph (4)(A)(i) or (5)(B)(i) that is not on the confidential portion of the list published under paragraph (1).
+
+(9)
+
+Certification.—Under the rules promulgated under this subsection, manufacturers and processors, as applicable, shall be required—
+
+&emsp;(A) to certify that each notice or substantiation the manufacturer or processor submits complies with the requirements of the rule, and that any confidentiality claims are true and correct; and
+
+&emsp;(B) to retain a record documenting compliance with the rule and supporting confidentiality claims for a period of 5 years beginning on the last day of the submission period.
+
+(10)
+
+Mercury.—
+
+&emsp;(A)
+
+Definition of mercury.—In this paragraph, notwithstanding section 2602(2)(B) of this title, the term "mercury" means—
+
+&emsp;&emsp;(i) elemental mercury; and
+
+&emsp;&emsp;(ii) a mercury compound.
+
+&emsp;(B)
+
+Publication.—Not later than April 1, 2017, and every 3 years thereafter, the Administrator shall carry out and publish in the Federal Register an inventory of mercury supply, use, and trade in the United States.
+
+&emsp;(C)
+
+Process.—In carrying out the inventory under subparagraph (B), the Administrator shall—
+
+&emsp;&emsp;(i) identify any manufacturing processes or products that intentionally add mercury; and
+
+&emsp;&emsp;(ii) recommend actions, including proposed revisions of Federal law or regulations, to achieve further reductions in mercury use.
+
+&emsp;(D)
+
+Reporting.—
+
+&emsp;&emsp;(i)
+
+In general.—To assist in the preparation of the inventory under subparagraph\(B), any person who manufactures mercury or mercury-added products or otherwise intentionally uses mercury in a manufacturing process shall make periodic reports to the Administrator, at such time and including such information as the Administrator shall determine by rule promulgated not later than 2 years after June 22, 2016.
+
+&emsp;&emsp;(ii)
+
+Coordination.—To avoid duplication, the Administrator shall coordinate the reporting under this subparagraph with the Interstate Mercury Education and Reduction Clearinghouse.
+
+&emsp;&emsp;(iii)
+
+Exemption.—Clause (i) shall not apply to a person engaged in the generation, handling, or management of mercury-containing waste, unless that person manufactures or recovers mercury in the management of that waste.
 
 #### (c) Records
 
@@ -72,7 +316,27 @@ Any person who manufactures, processes, or distributes in commerce a chemical su
 
 For purposes of this section, the terms "manufacture" and "process" mean manufacture or process for commercial purposes.
 
-(Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§8, 19(g), June 22, 2016, 130 Stat. 470, 507.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–182, §8(a)(1)(A), struck out concluding provisions which read as follows: "To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative."
+
+Subsec. (a)(2)(E). Pub. L. 114–182, §19(g)(1), substituted "information" for "data".
+
+Subsec. (a)(3)(A)(ii)(I). Pub. L. 114–182, §19(g)(2), substituted ", an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under section 2603 of this title" for "or an order in effect under section 2604(e) of this title".
+
+Subsec. (a)(3)(C). Pub. L. 114–182, §8(a)(1)(B), added subpar. (C).
+
+Subsec. (a)(4) to (6). Pub. L. 114–182, §8(a)(1)(C), added pars. (4) to (6).
+
+Subsec. (b)(3) to (9). Pub. L. 114–182, §8(a)(2), added pars. (3) to (9).
+
+Subsec. (b)(10). Pub. L. 114–182, §8(b), added par. (10).
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
 #### Asbestos Information
 
@@ -88,7 +352,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### "SEC. 3. PUBLICATION OF INFORMATION.
 
-"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
+"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publisha notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
 
 &emsp;"(1) review the information submitted under section 2 for accuracy, or
 
@@ -123,4 +387,6 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 &emsp;"(6) The term 'surfacing material' means material in a building that is sprayed on surfaces, troweled on surfaces, or otherwise applied to surfaces for acoustical, fireproofing, or other purposes, such as acoustical plaster on ceilings and fireproofing material on structural members.
 
 &emsp;"(7) The term 'thermal system insulation' means material in a building applied to pipes, fittings, boilers, breeching, tanks, ducts, or other structural components to prevent heat loss or gain or water condensation, or for other purposes."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -14,13 +14,13 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(i) in the Indian Health Service;
 
-&emsp;(ii) in a program conducted under a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\];
+&emsp;(ii) in a program conducted under a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\];
 
 &emsp;(iii) in a program assisted under subchapter IV of this chapter; <sup>1</sup>
 
 &emsp;(iv) in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or <sup>2</sup>
 
-(B) At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine),dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
+(B) At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine), dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
 
 &emsp;(i) No period of internship, residency, or other advanced clinical training shall be counted as satisfying any period of obligated service that is required under this section.
 
@@ -80,11 +80,11 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
 
-(Pub. L. 94–437, title I, §104, as added Pub. L. 100–713, title I, §104(a), Nov. 23, 1988, 102 Stat.4786; amended Pub. L. 102–573, title I, §§102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, §2(b), Oct. 19, 1996, 110 Stat. 3820.)
+(Pub. L. 94–437, title I, §104, as added Pub. L. 100–713, title I, §104(a), Nov. 23, 1988, 102 Stat. 4786; amended Pub. L. 102–573, title I, §§102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, §2(b), Oct. 19, 1996, 110 Stat. 3820.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (b)(3)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(3)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -104,7 +104,7 @@ Subsec. (b)(3)(D). Pub. L. 104–313, §2(b)(1)(E), substituted "Subject to subp
 
 Pub. L. 104–313, §2(b)(1)(B), redesignated subpar. (C) as (D).
 
-Subsec. (b)(4)(B). Pub. L. 104–313, §2(b)(2)(A), substituted "the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—" for "the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—" in introductory provisions.
+Subsec. (b)(4)(B). Pub. L. 104–313, §2(b)(2)(A), substituted "the period of obligated service described inparagraph (3)(A) shall be equal to the greater of—" for "the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—" in introductory provisions.
 
 Subsec. (b)(4)(C). Pub. L. 104–313, §2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254l(g)(1)(B) of title 42.
 

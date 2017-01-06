@@ -18,7 +18,7 @@
 
 #### (b) Exchange of wildfire protection resources without a reciprocal agreement
 
-In the absence of any agreement authorized under subsection (a) of this section, the Secretary of Agriculture or the Secretary of the Interior may—
+In the absence of any agreement authorized under subsection (a), the Secretary of Agriculture or the Secretary of the Interior may—
 
 &emsp;(1) furnish emergency wildfire protection resources to any foreign nation when the furnishing of such resources is determined by such Secretary to be in the best interest of the United States; and
 

@@ -26,6 +26,7 @@
 | [3732\.](Subchapter%20002%20%28II%29%20-%20Restrictions%20and%20Limitations/%C2%A7%2003732%20-%20Requirement%20for%20on-site%20managers.md) | Requirement for on-site managers. |
 | [3733\.](Subchapter%20002%20%28II%29%20-%20Restrictions%20and%20Limitations/%C2%A7%2003733%20-%20Limitation%20on%20use%20of%20funds%20until%20certain%20permits%20obtained.md) | Limitation on use of funds until certain permits obtained. |
 | [3734\.](Subchapter%20002%20%28II%29%20-%20Restrictions%20and%20Limitations/%C2%A7%2003734%20-%20Limitation%20on%20availability%20of%20funds%20for%20Cooperative%20Threat%20Reduction%20activities%20with%20Russian%20Federation.md) | Limitation on availability of funds for Cooperative Threat Reduction activities with Russian Federation. |
+| [3735\.](Subchapter%20002%20%28II%29%20-%20Restrictions%20and%20Limitations/%C2%A7%2003735%20-%20Limitation%20on%20availability%20of%20funds%20for%20Cooperative%20Threat%20Reduction%20activities%20in%20People%27s%20Republic%20of%20China.md) | Limitation on availability of funds for Cooperative Threat Reduction activities in People's Republic of China. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

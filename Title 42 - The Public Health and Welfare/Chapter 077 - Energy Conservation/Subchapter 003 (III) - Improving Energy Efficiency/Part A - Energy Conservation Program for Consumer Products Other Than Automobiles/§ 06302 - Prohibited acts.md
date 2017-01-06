@@ -14,7 +14,7 @@ It shall be unlawful—
 
 &emsp;(5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard;
 
-&emsp;(6) for any manufacturer or private labeler to knowingly sell a product to a distributor,contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product;
+&emsp;(6) for any manufacturer or private labeler to knowingly sell a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product;
 
 &emsp;(7) for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
 

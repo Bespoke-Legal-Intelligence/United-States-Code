@@ -154,7 +154,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In subsections (a)–(c)(1), the word "Administrator" in section 603 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
+In subsections (a)–(c)(1), the word "Administrator" in section 603 of the Federal Aviation Act of 1958 (PublicLaw 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
 
 In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words "in regulations" are omitted as surplus. The words "properly designed and manufactured, performs properly" are substituted for "of proper design, material, specification, construction, and performance for safe operation" to eliminate unnecessary words. The word "rules" is omitted as being synonymous with "regulations". The words "under section 44701(a) of this title" and "for a type certificate" are added for clarity. The words "including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance" are omitted as surplus.
 
@@ -224,7 +224,7 @@ Pub. L. 113–53, Nov. 27, 2013, 127 Stat. 584, provided that:
 
 &emsp;"(7) Since 2003, the United States lost 10,000 active private pilots per year on average, partially due to a lack of cost-effective, new small airplanes.
 
-&emsp;"(8) General aviation safety can be improved by modernizing and revamping the regulations relatingto small airplanes to clear the path for technology adoption and cost-effective means to retrofit the existing fleet with new safety technologies.
+&emsp;"(8) General aviation safety can be improved by modernizing and revamping the regulations relating to small airplanes to clear the path for technology adoption and cost-effective means to retrofit the existing fleet with new safety technologies.
 
 #### "SEC. 3. SAFETY AND REGULATORY IMPROVEMENTS FOR GENERAL AVIATION.
 
@@ -346,7 +346,7 @@ In general.—The Administrator of the Federal Aviation Administration shall tak
 
 &emsp;"(2)
 
-Revision of order.—Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\],the Administrator shall revise FAA Order 1350.15C, Item Number 8110. Such revision shall prohibit the destruction of the historical aircraft documents identified in paragraph (1).
+Revision of order.—Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall revise FAA Order 1350.15C, Item Number 8110. Such revision shall prohibit the destruction of the historical aircraft documents identified in paragraph (1).
 
 &emsp;"(3)
 
@@ -378,7 +378,7 @@ Rights of holder.—Nothing in this section shall affect the rights of a holder 
 
 &emsp;"(2)
 
-Liability.—There shall be no liability on the part of, and no cause of action of any nature shall arise against, a holder of a type certificate, its authorized representative, its agents, or its employees, or any firm, person, corporation, or insurer related to the type certificate data and documents identified in subsection (a)(1).
+Liability.—There shall be no liability on the part of, and no cause of action of any nature shall arise against, a holder of a type certificate, its authorized representative, its agents, or its employees,or any firm, person, corporation, or insurer related to the type certificate data and documents identified in subsection (a)(1).
 
 &emsp;"(3)
 

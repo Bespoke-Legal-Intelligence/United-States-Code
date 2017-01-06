@@ -10,7 +10,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (2) Medicine, food, and other consumables
 
-&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disaster assistance organizations medicine durable medical equipment,,<sup>1</sup> food, and other consumable supplies, and other services and assistance to disaster victims.
+&emsp;Distributing or rendering through State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief and disaster assistance organizations medicine durable medical equipment,,<sup>1</sup> food, and otherconsumable supplies, and other services and assistance to disaster victims.
 
 #### (3) Work and services to save lives and protect property
 
@@ -102,9 +102,9 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (3) No effect on mutual aid pacts
 
-&emsp;Nothing in this subsection shall affect the ability of the President to reimburse labor force expenses provided pursuant to an authorized mutual aid pact.
+&emsp;Nothing in this subsection shall affect the ability of the President to reimburse laborforce expenses provided pursuant to an authorized mutual aid pact.
 
-(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4,Oct. 6, 2006, 120 Stat. 1726; Pub. L. 113–2, div. B, §1108(b), Jan. 29, 2013, 127 Stat. 47.)
+(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4, Oct. 6, 2006, 120 Stat. 1726; Pub. L. 113–2, div. B, §1108(b), Jan. 29, 2013, 127 Stat. 47.)
 
 #### References in Text
 

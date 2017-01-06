@@ -32,7 +32,7 @@ In carrying out subsection (a), the Librarian of Congress shall take into accoun
 
 #### (3) Internet dissemination
 
-&emsp;Any arrangement under paragraph (2) shall include terms for dissemination of excerpts ofthe history over the Internet via facilities maintained by the United States Government.
+&emsp;Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
 
 #### (4) Member copies
 

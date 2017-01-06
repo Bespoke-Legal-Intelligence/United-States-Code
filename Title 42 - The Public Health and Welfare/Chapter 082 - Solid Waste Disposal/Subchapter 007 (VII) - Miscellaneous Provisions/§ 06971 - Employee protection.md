@@ -2,7 +2,7 @@
 
 #### (a) General
 
-No person shall fire, or in any other way discriminate against, or cause to be fired or discriminated against, any employee or any authorized representative of employees by reason of the fact that such employee or representative has filed, instituted, or caused to be filed or instituted any proceeding under this chapter or under any applicable implementation plan, or has testified or is about to testify in any proceeding resulting from the administration or enforcement of the provisions of this chapter or of any applicable implementation plan.
+No person shall fire, or in any other way discriminate against, or cause to be fired or discriminated against, any employee or any authorized representative of employees by reason of the fact that such employee or representativehas filed, instituted, or caused to be filed or instituted any proceeding under this chapter or under any applicable implementation plan, or has testified or is about to testify in any proceeding resulting from the administration or enforcement of the provisions of this chapter or of any applicable implementation plan.
 
 #### (b) Remedy
 
@@ -14,7 +14,7 @@ Whenever an order is issued under this section to abate such violation, at the r
 
 #### (d) Exception
 
-This section shall have no application to any employee who, acting without direction from hisemployer (or his agent) deliberately violates any requirement of this chapter.
+This section shall have no application to any employee who, acting without direction from his employer (or his agent) deliberately violates any requirement of this chapter.
 
 #### (e) Employment shifts and loss
 
@@ -38,7 +38,7 @@ In order to assist the Secretary of Labor and the Director of the National Insti
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (f), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (f), is Pub. L. 91–596, Dec. 29, 1970,84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 

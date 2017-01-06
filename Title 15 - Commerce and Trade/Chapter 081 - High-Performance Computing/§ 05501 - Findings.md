@@ -4,13 +4,13 @@ The Congress finds the following:
 
 &emsp;(1) Advances in computer science and technology are vital to the Nation's prosperity, national and economic security, industrial production, engineering, and scientific advancement.
 
-&emsp;(2) The United States currently leads the world in the development and use of high-performance computing for national security, industrial productivity, science, and engineering, but that lead is being challenged by foreign competitors.
+&emsp;(2) The United States currently leads the world in the development and use of networking and information technology, including high-performance computing, for national security, industrial productivity, science, and engineering, but that lead is being challenged by foreign competitors.
 
-&emsp;(3) Further research and development, expanded educational programs, improved computer research networks, and more effective technology transfer from government to industry are necessary for the United States to reap fully the benefits of high-performance computing.
+&emsp;(3) Further research and development, expanded educational programs, improved computer research networks, and more effective technology transfer from government to industry are necessary for the United States to reap fully the benefits of networking and information technology, including high-performance computing.
 
 &emsp;(4) A high-capacity, flexible, high-speed national research and education computer network is needed to provide researchers and educators with access to computational and information resources, act as a test bed for further research and development for high-capacity and high-speed computer networks, and provide researchers the necessary vehicle for continued network technology improvement through research.
 
-&emsp;(5) Several Federal agencies have ongoing high-performance computing programs, but improved long-term interagency coordination, cooperation, and planning would enhance the effectiveness of these programs.
+&emsp;(5) Several Federal agencies have ongoing networking and information technology, including high-performance computing, programs, but improved long-term interagency coordination, cooperation, and planning would enhance the effectiveness of these programs.
 
 &emsp;(6) A 1991 report entitled "Grand Challenges: High-Performance Computing and Communications" by the Office of Science and Technology Policy, outlining a research and development strategy for high-performance computing, provides a framework for a multiagency high-performance computing program. Such a program would provide American researchers and educators with the computer and information resources they need, and demonstrate how advanced computers, high-capacity and high-speed networks, and electronic data bases can improve the national information infrastructure for use by all Americans.
 
@@ -20,13 +20,23 @@ The Congress finds the following:
 
 &emsp;(9) Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspect of computing, information, and communications research programs.
 
-(Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, §2(b), Oct. 28, 1998, 112 Stat. 2919.)
+(Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, §2(b), Oct. 28, 1998, 112 Stat. 2919; Pub. L. 114–329, title I, §105(b), Jan. 6, 2017, 130 Stat. 2976.)
 
 #### Amendments
+
+<b>2017</b>—Par. (2). Pub. L. 114–329, §105(b)(1), substituted "networking and information technology, including high-performance computing," for "high-performance computing".
+
+Par. (3). Pub. L. 114–329, §105(b)(2), substituted "networking and information technology, including high-performance computing" for "high-performance computing".
+
+Par. (5). Pub. L. 114–329, §105(b)(1), substituted "networking and information technology, including high-performance computing," for "high-performance computing".
 
 <b>1998</b>—Par. (4). Pub. L. 105–305, §2(b)(1), added par. (4) and struck out former par. (4) which read as follows: "A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks."
 
 Pars. (7) to (9). Pub. L. 105–305, §2(b)(2), added pars. (7) to (9).
+
+#### Short Title of 2017 Amendment
+
+Pub. L. 114–329, title I, §105(a), Jan. 6, 2017, 130 Stat. 2976, provided that: "This section \[enacting section 5512 of this title, amending this section, sections 5502, 5503, 5511, 5521 to 5524, 5527, 7403, and 7431 of this title, and section 17912 of Title 42, The Public Health and Welfare, and repealing sections 5512, 5513, 5525, 5526, 5528, and 5543 of this title\] may be cited as the 'Networking and Information Technology Research and Development Modernization Act of 2016'."
 
 #### Short Title of 1998 Amendment
 
@@ -66,7 +76,7 @@ Pub. L. 105–305, §3(a), Oct. 28, 1998, 112 Stat. 2920, provided that: "The pu
 
 &emsp;&emsp;"(D) education, training, and human resources; and
 
-&emsp;"(2) to provide, through the High-Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.), for the development and coordination of a comprehensive and integrated United States research program which will—
+&emsp;"(2) to provide, through the High-Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.), for thedevelopment and coordination of a comprehensive and integrated United States research program which will—
 
 &emsp;&emsp;"(A) focus on the research and development of a coordinated set of technologies that seeks to create a network infrastructure that can support greater speed, robustness, and flexibility than is currently available and promote connectivity and interoperability among advanced computer networks of Federal agencies and departments;
 
@@ -122,7 +132,7 @@ Sec. 2. <i>Objectives</i>. Executive departments, agencies, and offices (agencie
 
 Sec. 3. <i>Roles and Responsibilities</i>. To achieve the five strategic objectives, this order identifies lead agencies, foundational research and development agencies, and deployment agencies. Lead agencies are charged with developing and delivering the next generation of integrated HPC capability and will engage in mutually supportive research and development in hardware and software, as well as in developing the workforce to support the objectives of the NSCI. Foundational research and development agencies are charged with fundamental scientific discovery work and associated advances in engineering necessary to support the NSCI objectives. Deployment agencies will develop mission-based HPC requirements to influence the early stages of the design of new HPC systems and will seek viewpoints from the private sector and academia on target HPC requirements. These groups may expand to include other government entities as HPC-related mission needs emerge.
 
-(a) <i>Lead Agencies</i>. There are three lead agencies for the NSCI: the Department of Energy (DOE), the Department of Defense (DOD), and the National ScienceFoundation (NSF). The DOE Office of Science and DOE National Nuclear Security Administration will execute a joint program focused on advanced simulation through a capable exascale computing program emphasizing sustained performance on relevant applications and analytic computing to support their missions. NSF will play a central role in scientific discovery advances, the broader HPC ecosystem for scientific discovery, and workforce development. DOD will focus on data analytic computing to support its mission. The assignment of these responsibilities reflects the historical roles that each of the lead agencies have played in pushing the frontiers of HPC, and will keep the Nation on the forefront of this strategically important field. The lead agencies will also work with the foundational research and development agencies and the deployment agencies to support the objectives of the NSCI and address the wide variety of needs across the Federal Government.
+(a) <i>Lead Agencies</i>. There are three lead agencies for the NSCI: the Department of Energy (DOE), the Department of Defense (DOD), and the National Science Foundation (NSF). The DOE Office of Science and DOE National Nuclear Security Administration will execute a joint program focused on advanced simulation through a capable exascale computing program emphasizing sustained performance on relevant applications and analytic computing to support their missions. NSF will play a central role in scientific discovery advances, the broader HPC ecosystem for scientific discovery, and workforce development. DOD will focus on data analytic computing to support its mission. The assignment of these responsibilities reflects the historicalroles that each of the lead agencies have played in pushing the frontiers of HPC, and will keep the Nation on the forefront of this strategically important field. The lead agencies will also work with the foundational research and development agencies and the deployment agencies to support the objectives of the NSCI and address the wide variety of needs across the Federal Government.
 
 (b) <i>Foundational Research and Development Agencies</i>. There are two foundational research and development agencies for the NSCI: the Intelligence Advanced Research Projects Activity (IARPA) and the National Institute of Standards and Technology (NIST). IARPA will focus on future computing paradigms offering an alternative to standard semiconductor computing technologies. NIST will focus on measurement science to support future computing technologies. The foundational research and development agencies will coordinate with deployment agencies to enable effective transition of research and development efforts that support the wide variety of requirements across the Federal Government.
 

@@ -12,7 +12,7 @@ Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 
 
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(12) of this title.
 
-Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(12) of this title.
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(12) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 

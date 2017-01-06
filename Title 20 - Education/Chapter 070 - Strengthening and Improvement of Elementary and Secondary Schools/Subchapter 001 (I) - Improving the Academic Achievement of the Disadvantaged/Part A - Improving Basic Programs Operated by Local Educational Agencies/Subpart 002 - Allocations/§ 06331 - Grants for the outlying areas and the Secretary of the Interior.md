@@ -56,7 +56,7 @@ For the purpose of this section, the term "outlying area" means the United State
 
 &emsp;&emsp;(A) Indian children on reservations served by elementary schools and secondary schools for Indian children operated or supported by the Department of the Interior; and
 
-&emsp;&emsp;(B) out-of-State Indian children in elementary schools and secondary schools in localeducational agencies under special contracts with the Department of the Interior.
+&emsp;&emsp;(B) out-of-State Indian children in elementary schools and secondary schools in local educational agencies under special contracts with the Department of the Interior.
 
 #### (2) Payments
 

@@ -1,6 +1,6 @@
 ### §1302. Trustee
 
-(a) If the United States trustee appoints an individual under section 586(b) of title 28 to serveas standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as a trustee in the case.
+(a) If the United States trustee appoints an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as a trustee in the case.
 
 (b) The trustee shall—
 
@@ -62,7 +62,7 @@ Section 1302 of the House amendment adopts a provision contained in the Senate a
 
 #### senate report no. 95–989
 
-The principal administrator in a chapter 13 case is the chapter 13 trustee. Experience under chapter XIII of the Bankruptcy Act \[chapter 13 of former title 11\] has shown that the more efficient and effective wage earner programs have been conducted by standing chapter XIII trustees who exercise a broad range of responsibilities in both the design and the effectuation of debtor plans.
+The principal administrator in a chapter 13 case is the chapter 13 trustee. Experience under chapter XIII ofthe Bankruptcy Act \[chapter 13 of former title 11\] has shown that the more efficient and effective wage earner programs have been conducted by standing chapter XIII trustees who exercise a broad range of responsibilities in both the design and the effectuation of debtor plans.
 
 Subsection (a) provides administrative flexibility by permitting the bankruptcy judge to appoint an individual from the panel of trustees established pursuant to 28 U.S.C. §604(f) and qualified under section 322 of title 11, either to serve as a standing trustee in all chapter 13 cases filed in the district or a portion thereof, or to serve in a single case.
 
@@ -76,7 +76,7 @@ Subsection (c) imposes on the trustee in a chapter 13 case filed by a debtor eng
 
 #### house report no. 95–595
 
-Subsection (d) gives the trustee an additional duty if the debtor is engaged in business, as defined in section1304. The trustee must perform the duties specified in sections 1106(a)(3) and 1106(a)(4), relating to investigation of the debtor.
+Subsection (d) gives the trustee an additional duty if the debtor is engaged in business, as defined in section 1304. The trustee must perform the duties specified in sections 1106(a)(3) and 1106(a)(4), relating to investigation of the debtor.
 
 #### References in Text
 

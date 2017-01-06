@@ -10,5 +10,5 @@ Any person who willfully attempts in any manner to evade or defeat any tax impos
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title III, §329(e), Sept. 3, 1982, 96 Stat. 619, provided that: "The amendments made by this section \[amending this section and sections 7203, 7206, and 7207 of this title\] shall apply to offenses committed after the date of the enactment of this Act \[Sept. 3, 1982\]."
+Pub. L. 97–248, title III, §329(e), Sept. 3, 1982, 96 Stat. 619, provided that: "The amendments made by this section \[amending this section and sections 7203, 7206, and7207 of this title\] shall apply to offenses committed after the date of the enactment of this Act \[Sept. 3, 1982\]."
 

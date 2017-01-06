@@ -8,7 +8,7 @@ Minimum wages to be paid.—All individuals employed by the contractor in the ma
 
 &emsp;(2)
 
-Maximum number of hours to be worked in a week.—No individual employed by the contractor in the manufacture or furnishing of materials, supplies, articles, or equipment under the contract shall be permitted to work in excess of 40 hours in any one week, exceptthat this paragraph does not apply to an employer who has entered into an agreement with employees pursuant to paragraph (1) or (2) of section 7(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(b)(1) or (2)).
+Maximum number of hours to be worked in a week.—No individual employed by the contractor in the manufacture or furnishing of materials, supplies, articles, or equipment under the contract shall be permitted to work in excess of 40 hours in any one week, except that this paragraph does not apply to an employer who has entered into an agreement with employees pursuant to paragraph (1) or (2) of section 7(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(b)(1) or (2)).
 
 &emsp;(3)
 

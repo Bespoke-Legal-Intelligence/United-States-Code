@@ -14,7 +14,7 @@ The Trust shall provide assistance payments for first-time homebuyers (including
 
 #### (3) Assistance in connection with mortgage revenue bonds financing
 
-&emsp;Interest rate buydowns and downpayment assistance in the manner provided in subsection (e) of this section.
+&emsp;Interest rate buydowns and downpayment assistance in the manner provided in subsection (e).
 
 #### (4) Second mortgage assistance
 
@@ -76,7 +76,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (8) Minimum downpayment
 
-&emsp;For a first-time homebuyer to receive downpayment assistance under subsection (a)(2) of this section, the homebuyer shall have paid not less than 1 percent of the cost of acquisition of the property (excluding any mortgage insurance premium paid at the time the mortgage is insured), as such cost is estimated by the Board of Directors.
+&emsp;For a first-time homebuyer to receive downpayment assistance under subsection (a)(2), the homebuyer shall have paid not less than 1 percent of the cost of acquisition of the property (excluding any mortgage insurance premium paid at the time the mortgage is insured), as such cost is estimated by the Board of Directors.
 
 #### (c) Terms of assistance
 
@@ -90,7 +90,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (3) Repayment upon increased income
 
-&emsp;If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) of this section for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
+&emsp;If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
 
 #### (4) Repayment if property ceases to be principal residence
 
@@ -98,7 +98,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (5) Available assistance
 
-&emsp;The Trust may make assistance payments under paragraphs (1) and (2) of subsection (a) of this section with respect to a single mortgage of an eligible homebuyer.
+&emsp;The Trust may make assistance payments under paragraphs (1) and (2) of subsection (a) with respect to a single mortgage of an eligible homebuyer.
 
 #### (d) Allocation formula
 
@@ -114,15 +114,15 @@ Amounts available in any fiscal year for assistance under this subchapter shall 
 
 &emsp;To be eligible for assistance under this subsection, homebuyers and mortgages shall also meet the requirements under subsection (b) of this section, except that—
 
-&emsp;&emsp;(A) the certification under subsection (b)(3) of this section shall not be required for assistance under this subsection;
+&emsp;&emsp;(A) the certification under subsection (b)(3) shall not be required for assistance under this subsection;
 
-&emsp;&emsp;(B) the provisions of subsection (b)(2) of this section shall not apply to assistance under this section; and
+&emsp;&emsp;(B) the provisions of subsection (b)(2) shall not apply to assistance under this section; and
 
 &emsp;&emsp;(C) the aggregate income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer, for the 12-month period preceding the date of the application of the homebuyer for assistance under this subsection, shall not exceed 80 percent of the median income for a family of 4 persons (as adjusted for family size) in the applicable metropolitan statistical area.
 
 #### (3) Limitation of assistance
 
-&emsp;Notwithstanding subsection (a) of this section, assistance payments for first-time homebuyers under this subsection shall be provided in the following manners:
+&emsp;Notwithstanding subsection (a), assistance payments for first-time homebuyers under this subsection shall be provided in the following manners:
 
 #### (A) Interest rate buydowns
 

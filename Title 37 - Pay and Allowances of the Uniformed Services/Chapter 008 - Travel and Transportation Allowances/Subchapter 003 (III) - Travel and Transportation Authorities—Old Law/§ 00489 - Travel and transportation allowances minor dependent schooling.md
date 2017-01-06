@@ -8,7 +8,7 @@ Authority.—Under regulations to be prescribed by the Secretary of Defense, a m
 
 Termination.—No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 95–561, title XIV, §1407(e)(1)(A), formerly §1407(c)(1)(A), Nov. 1, 1978, 92 Stat. 2367, renumbered §1407(d)(1)(A), Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered §1407(e)(1)(A), Pub. L. 107–107, div. A, title III, §353(1), Dec. 28, 2001, 115 Stat. 1063, §429; amended Pub. L. 99–145, title XIII, §1303(b)(10), Nov. 8, 1985, 99 Stat. 741; renumbered §489 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(28), Dec. 31, 2011, 125 Stat. 1460, 1464; Pub. L. 112–239, div. A, title X, §1076(a)(6), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 95–561, title XIV, §1407(e)(1)(A), formerly §1407(c)(1)(A), Nov. 1, 1978, 92 Stat. 2367, renumbered §1407(d)(1)(A), Pub. L. 101–510, div.A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered §1407(e)(1)(A), Pub. L. 107–107, div. A, title III, §353(1), Dec. 28, 2001, 115 Stat. 1063, §429; amended Pub. L. 99–145, title XIII, §1303(b)(10), Nov. 8, 1985, 99 Stat. 741; renumbered §489 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(28), Dec. 31, 2011, 125 Stat. 1460, 1464; Pub. L. 112–239, div. A, title X, §1076(a)(6), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ All functions of the Secretary of Defense and the Department of Defense under th
 
 #### Dependent Student Travel Within United States
 
-For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
+For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 1786 of Title 10, Armed Forces.
 
 #### Authority Under the Defense Department Overseas Teachers Pay and Personnel Practices Act Available to Secretary of Education
 

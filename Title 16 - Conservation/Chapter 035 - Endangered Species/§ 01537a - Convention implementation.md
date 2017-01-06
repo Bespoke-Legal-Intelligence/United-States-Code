@@ -46,7 +46,7 @@ Subsec. (e). Pub. L. 97–304, §5\[(a)\](3), substituted provisions implementin
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–304, §5(b), Oct. 13, 1982, 96 Stat. 1422, provided that: "The amendment made by paragraph (1) ofsubsection (a) \[amending this section\] shall take effect January 1, 1981."
+Pub. L. 97–304, §5(b), Oct. 13, 1982, 96 Stat. 1422, provided that: "The amendment made by paragraph (1) of subsection (a) \[amending this section\] shall take effect January 1, 1981."
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

@@ -115,6 +115,7 @@
 | [59ii.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ii%20-%20Declaration%20of%20nonnavigability%20of%20a%20portion%20of%20the%20canal%20known%20as%20the%20James%20River%20and%20Kanawha%20Canal%20in%20Richmond%2C%20Virginia.md) | Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia. |
 | [59jj.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059jj%20-%20Designation%20of%20nonnavigability%20for%20portions%20of%20Gloucester%20County%2C%20New%20Jersey.md) | Designation of nonnavigability for portions of Gloucester County, New Jersey. |
 | [59kk.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059kk%20-%20Wateree%20River.md) | Wateree River. |
+| 59<i>ll.</i> | Central Delaware River, Philadelphia, Pennsylvania. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

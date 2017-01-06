@@ -14,7 +14,7 @@
 
 #### (b) Basis for determination of quotas
 
-Quotas of men to be inducted for training and service under this chapter shall be determined for each State, Territory, possession, and the District of Columbia, and for subdivisions thereof, on the basis of the actual number of men in the several States, Territories, possessions, and the District of Columbia, and the subdivisions thereof, who are liable for such training and service but who are not deferred after classification, except that credits shall be given in fixing such quotas for residents of such subdivisions who are in the armed forces of the United States on the date fixed for determining such quotas. After such quotas are fixed, credits shall be given in filling such quotas for residents of such subdivisions who subsequently become members of such forces. Until the actual numbers necessary for determining the quotas are known, the quotas may be based on estimates, and subsequent adjustments therein shall be made when such actual numbers are known. All computations under this subsection shall be made in accordance with such rules and regulations as the President may prescribe.
+Quotas of men to be inducted for training and service under this chapter shall be determined for each State, Territory, possession, and the District of Columbia, and for subdivisions thereof, on the basis of the actual number of men in the several States, Territories, possessions, and the District of Columbia, and the subdivisions thereof, who are liable for such training and service but who are not deferred after classification, except that credits shall be given in fixing such quotas for residents of such subdivisions who are in the armed forces of the United States on the date fixed for determining such quotas. After such quotas are fixed, credits shall be given in filling such quotas for residents of such subdivisions who subsequently become members of such forces. Until the actual numbers necessary for determining the quotas are known,the quotas may be based on estimates, and subsequent adjustments therein shall be made when such actual numbers are known. All computations under this subsection shall be made in accordance with such rules and regulations as the President may prescribe.
 
 #### (c) Terminated
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 85–62 to take effect on July 1, 1957, and terminate on Ju
 
 Proc. No. 3945, Nov. 26, 1969, 34 F.R. 19017, 83 Stat. 972, provided:
 
-WHEREAS section 5(a)(1) of the Military Selective Service Act of 1967, as amended (50 U.S.C. App. 455(a)(1)) \[now the Military Selective Service Act, 50 U.S.C. 3805(a)(1)\], provides that selection of persons for training and service under that Act shall be made in an impartial manner without discrimination on account ofrace or color, under such rules and regulations as the President may prescribe; and
+WHEREAS section 5(a)(1) of the Military Selective Service Act of 1967, as amended (50 U.S.C. App. 455(a)(1)) \[now the Military Selective Service Act, 50 U.S.C. 3805(a)(1)\], provides that selection of persons for training and service under that Act shall be made in an impartial manner without discrimination on account of race or color, under such rules and regulations as the President may prescribe; and
 
 WHEREAS section 5(a)(2) of that Act (50 U.S.C. App. 455(a)(2)) \[now 50 U.S.C. 3805(a)(2)\] limited the President's authority to prescribe rules and regulations by requiring, in effect, the selection of registrants through a method known as "oldest first"; and
 

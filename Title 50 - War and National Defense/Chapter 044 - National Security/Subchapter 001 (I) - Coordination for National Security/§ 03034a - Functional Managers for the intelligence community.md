@@ -6,7 +6,7 @@ The Director of National Intelligence may establish within the intelligence comm
 
 #### (b) Personnel
 
-The Director shall designate individuals to serve as manager of intelligence functions established under subsection (a) from among officers and employees of elements of the intelligence community.
+The Director shall designate individuals to serve as manager of intelligence functions established under subsection (a) from among officersand employees of elements of the intelligence community.
 
 #### (c) Duties
 

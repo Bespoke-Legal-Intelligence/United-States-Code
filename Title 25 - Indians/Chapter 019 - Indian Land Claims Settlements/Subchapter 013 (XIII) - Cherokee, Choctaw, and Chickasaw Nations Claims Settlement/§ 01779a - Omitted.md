@@ -1,0 +1,6 @@
+### §1779a. Omitted
+
+#### Codification
+
+Section, Pub. L. 107–331, title VI, §603, Dec. 13, 2002, 116 Stat. 2847, which stated the purposes of this subchapter, was omitted from the Code as being of special and not general application.
+

@@ -30,7 +30,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (d) Application of other laws unaffected
 
-Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], the Age Discrimination Act \[42 U.S.C. 6101 et seq.\], or otherstatutes prohibiting discrimination, to any applicable program.
+Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], the Age Discrimination Act \[42 U.S.C. 6101 et seq.\], or other statutes prohibiting discrimination, to any applicable program.
 
 (Pub. L. 90–247, title IV, §400, formerly §401, Jan. 2, 1968, 81 Stat. 814; Pub. L. 90–576, title III, §301(a), Oct. 16, 1968, 82 Stat. 1094; Pub. L. 91–230, title IV, §401(a)(2), Apr. 13, 1970, 84 Stat. 164; renumbered §400, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 93–380, title V, §505(a)(1), Aug. 21, 1974, 88 Stat. 561; Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912.)
 
@@ -52,7 +52,7 @@ The Age Discrimination Act, referred to in subsec. (d), probably means the Age D
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–380 redesignated subsec. (d) as (a). Former subsec. (a) provisions "The provisions of this chapter shall apply to any program for which the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute. Amendments to Acts authorizing such programs shall not affect the applicability of this chapter unless so specified by such amendments" were incorporated in part in subsec. (b).
 
-Subsec. (b). Pub. L. 93–380 incorporated subsec. (a) provisions in subsec. (b), inserting introductory text "Except where otherwise specified,", substituting "an administrative head of an education agency has administrative responsibility as provided by law or by delegation of authority pursuant to law" for "the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute.", deleting "Amendments to Acts authorizing such programs shall not affect the applicability of this chapter unless so specified by such amendments." Former subsec. (b) definition provisions for "Commissioner", "Secretary", and "applicable program" incorporated in subsec. (c)(1).
+Subsec. (b). Pub. L. 93–380 incorporated subsec. (a) provisions in subsec. (b), inserting introductory text"Except where otherwise specified,", substituting "an administrative head of an education agency has administrative responsibility as provided by law or by delegation of authority pursuant to law" for "the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute.", deleting "Amendments to Acts authorizing such programs shall not affect the applicability of this chapter unless so specified by such amendments." Former subsec. (b) definition provisions for "Commissioner", "Secretary", and "applicable program" incorporated in subsec. (c)(1).
 
 Subsec. (c). Pub. L. 93–380 incorporated subsec. (b)(3), (1), (2) provisions in par. (1)(A), (D), (F), respectively; inserted in par. (1)(A) ", under the terms of subsection (b) of this section,"; and added pars. (1)(B), (C), (E), (2), and (3). Former subsec. (c) provisions "There are hereby authorized to be appropriated for any fiscal year, as part of the appropriations for salaries and expenses for the Office of Education, such sums as the Congress may determine to be necessary to carry out the provisions of this chapter," incorporated in subsec. (d).
 
@@ -120,7 +120,7 @@ Sec. 2. The Commission, in accordance with such standards and procedures as it m
 
 (iii) The Commonwealth of Puerto Rico.
 
-(iv) The following, collectively: American Samoa, Canal Zone, Guam, Virgin Islands, Trust Territory of the Pacific Islands, and, if the Commission in its discretion shall so determine, other places overseas. In respect of the said other places overseas, only children whose parents are citizens of the United States shall be eligible to be chosen hereunder as Presidential Scholars from those places.
+(iv) The following, collectively: American Samoa, Canal Zone, Guam, Virgin Islands, Trust Territory of the Pacific Islands, and, if the Commission in its discretion shall so determine, other places overseas. In respect of the said other places overseas, only children whose parents are citizens of the United States shall beeligible to be chosen hereunder as Presidential Scholars from those places.
 
 (4) In addition to the 106 Presidential Scholars provided for in paragraph (3), above, the Commission may choose other Presidential Scholars, not exceeding fifteen in number for any one year, to be chosen at large from the jurisdictions referred to in that paragraph.
 

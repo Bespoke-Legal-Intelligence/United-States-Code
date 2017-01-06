@@ -6,9 +6,9 @@ It is the purpose of this subchapter to promote research and extension activitie
 
 #### References in Text
 
-The National Aquaculture Act of 1980, referred to in text, is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification ofthis Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
+The National Aquaculture Act of 1980, referred to in text, is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 #### Effective Date
 
-Subchapter effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 

@@ -56,6 +56,18 @@ Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6
 
 (6) If the Secretary determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Secretary shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
 
+(8)(A) <sup>1</sup> If a small business concern is not included in the database because the Secretary does not verify the status of the concern as asmall business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+
+(B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals of the Small Business Administration as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
+
+(ii) In this subparagraph, the term "interested party" means—
+
+&emsp;(I) the Secretary; or
+
+&emsp;(II) in the case of a small business concern that is awarded a contract, the contracting officer of the Department or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
+
+(C) For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.
+
 (g)
 
 Enforcement Penalties for Misrepresentation.—(1) Any business concern that is determined by the Secretary to have willfully and intentionally misrepresented the status of that concern as a small business concern owned and controlled by veterans or as a small business concern owned and controlled by service-disabled veterans for purposes of this subsection shall be debarred from contracting with the Department for a period of not less than five years.
@@ -126,13 +138,99 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.
 
-(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206.)
+(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, §501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (e), Dec. 23, 2016, 130 Stat. 2659, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, this section is amended—</i>
+
+<i>(1) in subsection (b), by inserting "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans";</i>
+
+<i>(2) in subsection (c), by inserting "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans";</i>
+
+<i>(3) in subsection (d), by inserting "or small business concerns owned and controlled by veterans with service-connected disabilities" after "small business concerns owned and controlled by veterans" both places it appears;</i>
+
+<i>(4) in subsection (f):</i>
+
+<i>(A) by inserting ", small business concerns owned and controlled by veterans with service-connected disabilities," after "small business concerns owned and controlled by veterans" in paragraph (1);</i>
+
+<i>(B) by striking "verified" and inserting "verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern," in paragraph (4); and</i>
+
+<i>(C) by adding at the end the following new paragraph:</i>
+
+<i>"(7) The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.";</i>
+
+<i>(5) by striking subsection (h) and redesignating subsections (i) through (l) as subsections (h) through (k), respectively; and</i>
+
+<i>(6) in subsection (k), as so redesignated:</i>
+
+<i>(A) by amending paragraph (2) to read as follows:</i>
+
+&emsp;<i>"(2) The term 'small business concern owned and controlled by veterans' has the meaning given that term under section 3(q)(3) of the Small Business Act (15 U.S.C. 632(q)(3))."; and</i>
+
+<i>(B) by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(3) The term 'small business concern owned and controlled by veterans with service-connected disabilities' has the meaning given the term 'small business concern owned and controlled by service-disabled veterans' under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2))."</i>
+
+<i>See 2016 Amendment notes below.</i>
+
+#### Amendment of Subsection (h)
+
+<i>Pub. L. 114–315, title V, §501, Dec. 16, 2016, 130 Stat. 1566, provided that, effective on the date that is 180 days after Dec. 16, 2016, and applicable with respect to contracts awarded on or after such date, subsection (h) of this section is amended—</i>
+
+<i>(1) in paragraph (2), by amending subparagraph (C) to read as follows:</i>
+
+&emsp;<i>"(C) The date that—</i>
+
+&emsp;&emsp;<i>"(i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran's death; or</i>
+
+&emsp;&emsp;<i>"(ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran's death."; and</i>
+
+<i>(2) in paragraph (3), by striking "rated as" and all that follows through "disability." and inserting a period.</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 #### References in Text
 
-The Small Business Act, referred to in subsec. (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to section634(i) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–328, §1832(b)(2)(A), inserted "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans".
+
+Subsec. (c). Pub. L. 114–328, §1832(b)(2)(B), inserted "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans" in introductory provisions.
+
+Subsec. (d). Pub. L. 114–328, §1832(b)(2)(C), inserted "or small business concerns owned and controlled by veterans with service-connected disabilities" after "small business concerns owned and controlled by veterans" in two places.
+
+Subsec. (f)(1). Pub. L. 114–328, §1832(b)(2)(D), inserted ", small business concerns owned and controlled by veterans with service-connected disabilities," after "small business concerns owned and controlled by veterans".
+
+Subsec. (f)(4). Pub. L. 114–328, §1832(d)(1), substituted "verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern," for "verified" in introductory provisions.
+
+Subsec. (f)(7). Pub. L. 114–328, §1832(d)(2), added par. (7).
+
+Subsec. (f)(8). Pub. L. 114–328, §1832(f)(1), added par. (8).
+
+Subsec. (h). Pub. L. 114–328, §1832(b)(1)(A), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to treatment of businesses after death of veteran-owner.
+
+Subsec. (h)(2)(C). Pub. L. 114–315, §501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The date that is ten years after the date of the veteran's death."
+
+Subsec. (h)(3). Pub. L. 114–315, §501(a)(1), substituted period at end for "rated as 100 percent disabling or who dies as a result of a service-connected disability."
+
+Subsecs. (i), (j). Pub. L. 114–328, §1832(b)(1)(A), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
+
+Subsec. (k). Pub. L. 114–328, §1832(b)(1)(A), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(2). Pub. L. 114–328, §1832(b)(1)(B)(i), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'small business concern owned and controlled by veterans' means a small business concern—
+
+&emsp;"(A)(i) not less than 51 percent of which is owned by one or more veterans or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+
+&emsp;"(ii) the management and daily business operations of which are controlled by one or more veterans; or
+
+&emsp;"(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans."
+
+Subsec. (k)(3). Pub. L. 114–328, §1832(b)(1)(B)(ii), added par. (3).
+
+Subsec. (l). Pub. L. 114–328, §1832(b)(1)(A), redesignated subsec. (l) as (k).
 
 <b>2012</b>—Subsec. (g). Pub. L. 112–154 designated existing provisions as par. (1), inserted "willfully and intentionally" before "misrepresented", substituted "a period of not less than five years" for "a reasonable period of time, as determined by the Secretary", and added pars. (2) and (3).
 
@@ -148,6 +246,14 @@ Subsec. (f)(4). Pub. L. 111–275, §104(b)(1)(B), added par. (4) and struck out
 
 <b>2008</b>—Subsecs. (j) to (l). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
+#### Effective Date of 2016 Amendment
+
+Amendment by section 1832(b), (d) of Pub. L. 114–328 effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, see section 1832(e) of Pub. L. 114–328, set out as a note under section 632 of Title 15, Commerce and Trade.
+
+Pub. L. 114–328, div. A, title XVIII, §1832(f)(2), Dec. 23, 2016, 130 Stat. 2661, provided that: "Paragraph (8) of subsection (f) of title 38, United States Code, as added by paragraph (1), shall apply with respect to a verification decision made by the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
+Pub. L. 114–315, title V, §501(b), Dec. 16, 2016, 130 Stat. 1566, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 16, 2016\] and shall apply with respect to contracts awarded on or after such date."
+
 #### Effective Date
 
 Pub. L. 109–461, title V, §502(d), Dec. 22, 2006, 120 Stat. 3435, provided that: "This section \[enacting this section and provisions set out as a note below\] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\]."
@@ -160,9 +266,11 @@ Pub. L. 111–275, title I, §104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provided
 
 &emsp;"(B) verification of such status shall require that the person who owns and controls the concern apply for inclusion in the database in accordance with such subsection, as so amended;
 
-&emsp;"(C) application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code (commonly referred to as the Privacy Act), for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application; and
+&emsp;"(C) application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code (commonly referred to as the Privacy Act), for the Secretary to access such personalinformation maintained by the Secretary as may be necessary to verify the information contained in the application; and
 
 &emsp;"(D) the person who owns and controls the concern must submit to the Secretary all information required by the Secretary under this paragraph within 90 days of receiving the Secretary's notice of such requirement or the concern shall be removed from the database."
 
 Pub. L. 109–461, title V, §502(b), Dec. 22, 2006, 120 Stat. 3435, provided that: "A small business concern that is listed in any small business database maintained by the Secretary of Veterans Affairs on the date of the enactment of this Act \[Dec. 22, 2006\] shall be presumed to be eligible for inclusion in the database under subsection (f) of section 8127 of title 38, United States Code, as added by subsection (a), during the period beginning on the effective date of that section \[see Effective Date note above\] and ending one year after such effective date. Such a small business concern may be removed from the database during that period if it is found not to be a small business concern owned and controlled by veterans (as defined in subsection (k) of such section)."
+
+<i><sup>1</sup></i><i> See Amendment of Section notes below.</i>
 

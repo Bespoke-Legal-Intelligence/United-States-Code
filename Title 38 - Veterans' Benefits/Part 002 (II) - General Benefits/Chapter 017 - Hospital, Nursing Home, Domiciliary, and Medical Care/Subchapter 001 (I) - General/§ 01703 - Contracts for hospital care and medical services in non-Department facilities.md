@@ -152,7 +152,7 @@ In General.—The Secretary of Veterans Affairs may, through the Director of the
 
 "(b)
 
-Geographic Distribution.—The Secretary shall ensure that the demonstration projects carried out under subsection (a) are located at facilities that are geographically distributed throughout the United States.
+Geographic Distribution.—The Secretary shall ensure that the demonstration projects carried outunder subsection (a) are located at facilities that are geographically distributed throughout the United States.
 
 "(c)
 
@@ -168,7 +168,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
 
 "(a)
 
@@ -184,7 +184,7 @@ Commencement.—The Secretary shall commence the conduct of the pilot program on
 
 &emsp;"(3)
 
-Termination.—A veteran may receive health services under the pilot program only during the period beginning on the date of the commencement of the pilot program under paragraph (2) and ending on the date that is two years after the date of the enactment of the Veterans Access, Choice, and Accountability Act of 2014 \[Aug. 7, 2014\].
+Duration.—A veteran may receive health services under this section during the period beginning on the date specified in paragraph (2) and ending on September 30, 2017.
 
 &emsp;"(4)
 

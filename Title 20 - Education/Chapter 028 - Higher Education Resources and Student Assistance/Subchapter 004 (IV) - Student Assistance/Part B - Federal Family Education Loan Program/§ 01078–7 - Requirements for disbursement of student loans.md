@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) ofthe Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
 
 #### (4) Amendment to special rule
 
@@ -34,11 +34,11 @@
 
 #### (c) Method of multiple disbursement
 
-Disbursements under subsection (a) of this section—
+Disbursements under subsection (a)—
 
 &emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(II) of this title) that complies with the requirements of this section;
 
-&emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
+&emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
 
 &emsp;(3) notwithstanding subsection (a)(2), may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed by the lender in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
 
@@ -50,7 +50,7 @@ Disbursements under subsection (a) of this section—
 
 #### (2) Students receiving over-awards
 
-&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to the lender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
+&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter, the institution such student is attending shall withhold and return to the lender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 1087–53(b)(4) of this title shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
 
 #### (e) Exclusion of consolidation and foreign study loans
 
@@ -72,7 +72,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 #### References in Text
 
-Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section 422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
+Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
 
 Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
@@ -108,7 +108,7 @@ Subsec. (e). Pub. L. 103–66 substituted "consolidation" for "PLUS, consolidati
 
 <b>1992</b>—Subsec. (c)(3). Pub. L. 102–325, §421(a), added par. (3).
 
-Subsec. (d)(2). Pub. L. 102–325, §421(b), inserted ", except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph" before period at end of first sentence.
+Subsec. (d)(2). Pub. L. 102–325, §421(b), inserted ", except that overawards permitted pursuant to section 1087–53(b)(4) of this title shall not be construed to be overawards for purposes of this paragraph" before period at end of first sentence.
 
 Subsec. (g). Pub. L. 102–325, §421(c), added subsec. (g).
 

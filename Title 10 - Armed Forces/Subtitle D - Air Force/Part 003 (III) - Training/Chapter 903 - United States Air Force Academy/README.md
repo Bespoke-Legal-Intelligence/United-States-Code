@@ -9,15 +9,13 @@
 | [9334\.](%C2%A7%2009334%20-%20Command%20and%20supervision.md) | Command and supervision. |
 | [9335\.](%C2%A7%2009335%20-%20Dean%20of%20the%20Faculty.md) | Dean of the Faculty. |
 | [9336\.](%C2%A7%2009336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md) | Permanent professors; director of admissions. |
-| [9337\.](%C2%A7%2009337%20-%20Chaplain.md) | Chaplain. |
+| \[9337. | Repealed.\] |
 | [9338\.](%C2%A7%2009338%20-%20Civilian%20faculty%20number%3B%20compensation.md) | Civilian faculty: number; compensation. |
 | [9341\.](%C2%A7%2009341%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md) | Faculty and other officers: leaves of absence. |
 | [9341a.](%C2%A7%2009341a%20-%20Cadets%20appointment%20by%20the%20President.md) | Cadets: appointment by the President. |
 | [9342\.](%C2%A7%2009342%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md) | Cadets: appointment; numbers, territorial distribution. |
 | [9343\.](%C2%A7%2009343%20-%20Cadets%20appointment%3B%20to%20bring%20to%20full%20strength.md) | Cadets: appointment; to bring to full strength. |
-| [9344\.](%C2%A7%2009344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
-| [9345\.](%C2%A7%2009345%20-%20Exchange%20program%20with%20foreign%20military%20academies.md) | Exchange program with foreign military academies. |
-| [9345a.](%C2%A7%2009345a%20-%20Foreign%20and%20cultural%20exchange%20activities.md) | Foreign and cultural exchange activities. |
+| \[9344 to 9345a. Repealed.\] |  |
 | [9346\.](%C2%A7%2009346%20-%20Cadets%20requirements%20for%20admission.md) | Cadets: requirements for admission. |
 | [9347\.](%C2%A7%2009347%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md) | Cadets; nominees: effect of redistricting of States. |
 | [9348\.](%C2%A7%2009348%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md) | Cadets: agreement to serve as officer. |
@@ -38,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §591(b), title XII, §1248(b)(2)(C), Dec. 23, 2016, 130 Stat. 2152, 2525, struck out items 9337 "Chaplain", 9344 "Selection of persons from foreign countries", 9345 "Exchange program with foreign military academies", and 9345a "Foreign and cultural exchange activities".
 
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §528(b), Oct. 28, 2009, 123 Stat. 2290, added item 9362.
 
@@ -83,15 +83,13 @@ Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 09334 - Command and supervision](%C2%A7%2009334%20-%20Command%20and%20supervision.md)
 - [&sect; 09335 - Dean of the Faculty](%C2%A7%2009335%20-%20Dean%20of%20the%20Faculty.md)
 - [&sect; 09336 - Permanent professors; director of admissions](%C2%A7%2009336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md)
-- [&sect; 09337 - Chaplain](%C2%A7%2009337%20-%20Chaplain.md)
+- [&sect; 09337 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;591(a), Dec. 23, 2016, 130 Stat. 2152](%C2%A7%2009337%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7591%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202152.md)
 - [&sect; 09338 - Civilian faculty number; compensation](%C2%A7%2009338%20-%20Civilian%20faculty%20number%3B%20compensation.md)
 - [&sect; 09341 - Faculty and other officers leaves of absence](%C2%A7%2009341%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md)
 - [&sect; 09341a - Cadets appointment by the President](%C2%A7%2009341a%20-%20Cadets%20appointment%20by%20the%20President.md)
 - [&sect; 09342 - Cadets appointment; numbers, territorial distribution](%C2%A7%2009342%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md)
 - [&sect; 09343 - Cadets appointment; to bring to full strength](%C2%A7%2009343%20-%20Cadets%20appointment%3B%20to%20bring%20to%20full%20strength.md)
-- [&sect; 09344 - Selection of persons from foreign countries](%C2%A7%2009344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md)
-- [&sect; 09345 - Exchange program with foreign military academies](%C2%A7%2009345%20-%20Exchange%20program%20with%20foreign%20military%20academies.md)
-- [&sect; 09345a - Foreign and cultural exchange activities](%C2%A7%2009345a%20-%20Foreign%20and%20cultural%20exchange%20activities.md)
+- [&sect; 09344 to 9345a - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1248(b)(1), Dec. 23, 2016, 130 Stat. 2525](%C2%A7%2009344%20to%209345a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71248%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202525.md)
 - [&sect; 09346 - Cadets requirements for admission](%C2%A7%2009346%20-%20Cadets%20requirements%20for%20admission.md)
 - [&sect; 09347 - Cadets; nominees effect of redistricting of States](%C2%A7%2009347%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md)
 - [&sect; 09348 - Cadets agreement to serve as officer](%C2%A7%2009348%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md)

@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—(1)(A) Before the Secretary of Defense enters into a contract described in subparagraph (B), the Secretary shall determine whether Department of Defense personnel have the capability to perform the services proposed to be covered by the contract.
+Requirement.—(1)(A) Before the Secretary of Defense enters into a contract described insubparagraph (B), the Secretary shall determine whether Department of Defense personnel have the capability to perform the services proposed to be covered by the contract.
 
 (B) Subparagraph (A) applies to any contract of the Department of Defense for advisory and assistance services that is expected to have a value in excess of $100,000.
 

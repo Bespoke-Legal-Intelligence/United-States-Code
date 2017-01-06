@@ -218,7 +218,7 @@ A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–244, §428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: "Each eligible lender shall, at or prior to the time such lender disburses a loan which is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—".
 
-Subsec. (b). Pub. L. 105–244, §428(b), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: "Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower the information required under this subsection. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required by this subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall include—".
+Subsec. (b). Pub. L. 105–244, §428(b), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: "Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower the information required under this subsection. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required bythis subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall include—".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–208, §2(c)(53), substituted "30 days" for "60 days" in introductory provisions.
 
@@ -240,7 +240,7 @@ Subsec. (a)(8). Pub. L. 100–50, §10(z)(2), added par. (8) and struck out form
 
 Subsec. (b)(7). Pub. L. 100–50, §10(z)(3), inserted ", except that such explanation is not required when the loan being made is a consolidation loan under section 1078–3 of this title" before semicolon at end.
 
-Subsec. (d). Pub. L. 100–50, §10(z)(4), substituted "notifies a borrower of approval of a loan" for "makes thefirst disbursement of a loan with respect to a borrower".
+Subsec. (d). Pub. L. 100–50, §10(z)(4), substituted "notifies a borrower of approval of a loan" for "makes the first disbursement of a loan with respect to a borrower".
 
 #### Effective Date of 2008 Amendment
 

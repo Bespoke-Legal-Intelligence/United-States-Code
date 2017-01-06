@@ -4,7 +4,7 @@
 
 (1) It is the sense of Congress that the security, including the rapid removal or secure storage, of high-risk, proliferation-attractive fissile materials, radiological materials, and related equipment at vulnerable sites worldwide should be a top priority among the activities to achieve the national security of the United States.
 
-(2) It is the sense of Congress that the President may establish in the Department of Energy a task force to be known as the Task Force on Nuclear Materials to carry out the program authorized by subsection (b).
+(2) It is the sense of Congress that the President may establish in the Department of Energy a task force to be known as the Task Force onNuclear Materials to carry out the program authorized by subsection (b).
 
 #### (b) Program authorized
 

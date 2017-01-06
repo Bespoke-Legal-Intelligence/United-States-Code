@@ -2,7 +2,7 @@
 
 #### (a) Block grant program
 
-The Secretary of Health and Human Services shall make grants to eligible States to enable such States to carry out the activities described in subsection (e) of this section.
+The Secretary of Health and Human Services shall make grants to eligible States to enable such States to carry out the activities described in subsection (e).
 
 #### (b) Application
 
@@ -12,13 +12,13 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 #### (2) Demonstration of need
 
-&emsp;In the application submitted under paragraph (1), the State shall demonstrate a need for the activities described in subsection (e) of this section and provide a description of those activities and projects that will receive financial assistance from a grant made under this section to the State.
+&emsp;In the application submitted under paragraph (1), the State shall demonstrate a need for the activities described in subsection (e) and provide a description of those activities and projects that will receive financial assistance from a grant made under this section to the State.
 
 #### (c) Amount of grant
 
 #### (1) Minimum amount
 
-&emsp;Each State that submits for a fiscal year an application under subsection (b) of this section that meets the requirements of the Secretary shall, subject to the availability of appropriations, receive a grant in an amount determined in accordance with paragraph (3).
+&emsp;Each State that submits for a fiscal year an application under subsection (b) that meets the requirements of the Secretary shall, subject to the availability of appropriations, receive a grant in an amount determined in accordance with paragraph (3).
 
 #### (2) Programs of national significance
 
@@ -28,7 +28,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 #### (A) In general
 
-&emsp;&emsp;Of the aggregate amount appropriated under subsection (g) of this section for any fiscal year and after reserving the amount required by paragraph (2), the Secretary shall—
+&emsp;&emsp;Of the aggregate amount appropriated under subsection (g) for any fiscal year and after reserving the amount required by paragraph (2), the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) allot—
 
@@ -52,7 +52,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;&emsp;(iii) if the State involved has proposed the funding of additional projects targeted at the areas of highest need;
 
-> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
+> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1). The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b).
 
 #### (d) Priority
 
@@ -64,7 +64,7 @@ In making grants under this section, the Secretary shall give priority to—
 
 &emsp;(3) projects to provide after-school, vacation, and weekend activities designed to give youth opportunities to actively participate in a variety of activities, including youth sports programs;
 
-&emsp;(4) activities and projects that are consistent with activities and projects described in subsection (e)(1) of this section and that include participation by the business community;
+&emsp;(4) activities and projects that are consistent with activities and projects described in subsection (e)(1) and that include participation by the business community;
 
 &emsp;(5) projects that provide outreach to individuals of all ages who are at high risk of involvement with drug abuse;
 
@@ -112,7 +112,7 @@ Financial assistance may be provided with a grant received under subsection (a)�
 
 &emsp;&emsp;(F) business organizations; and
 
-> &emsp;in consultation with local and State health departments and with community health or mental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
+> &emsp;in consultation with local and State health departments and with community health ormental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
 
 #### (2) Other activities and projects
 

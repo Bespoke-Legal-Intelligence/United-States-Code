@@ -1,0 +1,6 @@
+### §1772a. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–228, §3, Dec. 31, 1987, 101 Stat. 1557, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.
+

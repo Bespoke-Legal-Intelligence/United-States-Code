@@ -56,7 +56,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (1) In general
 
-&emsp;Subject to paragraph (4) and subsections (d) and (m), of the amount available for allotment under subsection (a) of this section for a fiscal year, reduced by the amount of allotments made under subsection (c) of this section (determined without regard to paragraph (4) thereof) for the fiscal year, the Secretary shall allot to each State (other than a State described in such subsection) with a State child health plan approved under this subchapter the same proportion as the ratio of—
+&emsp;Subject to paragraph (4) and subsections (d) and (m), of the amount available for allotment under subsection (a) for a fiscal year, reduced by the amount of allotments made under subsection (c) (determined without regard to paragraph (4) thereof) for the fiscal year, the Secretary shall allot to each State (other than a State described in such subsection) with a State child health plan approved under this subchapter the same proportion as the ratio of—
 
 &emsp;&emsp;(A) the product of (i) the number of children described in paragraph (2) for the State for the fiscal year and (ii) the State cost factor for that State (established under paragraph (3)); to
 
@@ -138,7 +138,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (C) Construction
 
-&emsp;&emsp;This paragraph shall not be construed as applying to (or taking into account) amounts of allotments redistributed under subsection (f) of this section.
+&emsp;&emsp;This paragraph shall not be construed as applying to (or taking into account) amounts of allotments redistributed under subsection (f).
 
 #### (D) Definitions
 
@@ -156,7 +156,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (1) In general
 
-&emsp;Of the amount available for allotment under subsection (a) of this section for a fiscal year, subject to subsections (d) and (m)(5), the Secretary shall allot 0.25 percent among each of the commonwealths and territories described in paragraph (3) in the same proportion as the percentage specified in paragraph (2) for such commonwealth or territory bears to the sum of such percentages for all such commonwealths or territories so described.
+&emsp;Of the amount available for allotment under subsection (a) for a fiscal year, subject to subsections (d) and (m)(5), the Secretary shall allot 0.25 percent among each of the commonwealths and territories described in paragraph (3) in the same proportion as the percentage specified in paragraph (2) for such commonwealth or territory bears to the sum of such percentages for all such commonwealths or territories so described.
 
 #### (2) Percentage
 
@@ -246,7 +246,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (1) In general
 
-&emsp;The Secretary shall determine an appropriate procedure for redistribution of allotments from States that were provided allotments under this section for a fiscal year but that do not expend all of the amount of such allotments during the period in which such allotments are available for expenditure under subsection (e) of this section, to States that the Secretary determines with respect to the fiscal year for which unused allotments are available for redistribution under this subsection, are shortfall States described in paragraph (2) for such fiscal year, but not to exceed the amount of the shortfall described in paragraph (2)(A) for each such State (as may be adjusted under paragraph (2)(C)).
+&emsp;The Secretary shall determine an appropriate procedure for redistribution of allotments from States that were provided allotments under this section for a fiscal year but that do not expend all of the amount of such allotments during the period in which such allotments are available for expenditure under subsection (e), to States that the Secretary determines with respect to the fiscal year for which unused allotments are available for redistribution under this subsection, are shortfall States described in paragraph (2) for such fiscal year, but not to exceed the amount of the shortfall described in paragraph (2)(A) for each such State (as may be adjusted under paragraph (2)(C)).
 
 #### (2) Shortfall States described
 
@@ -262,7 +262,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Proration rule
 
-&emsp;&emsp;If the amounts available for redistribution under paragraph (1) for a fiscal year are lessthan the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally.
+&emsp;&emsp;If the amounts available for redistribution under paragraph (1) for a fiscal year are less than the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally.
 
 #### (C) Retrospective adjustment
 
@@ -274,15 +274,15 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) of this section for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
+&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
 
 #### (i) State
 
 &emsp;&emsp;&emsp;In the case of one of the 50 States or the District of Columbia, with respect to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the fiscal year 1998 allotment, the amount by which the State's expenditures under this subchapter in fiscal years 1998, 1999, and 2000 exceed the State's allotment for fiscal year 1998 under subsection (b) of this section;
+&emsp;&emsp;&emsp;&emsp;(I) the fiscal year 1998 allotment, the amount by which the State's expenditures under this subchapter in fiscal years 1998, 1999, and 2000 exceed the State's allotment for fiscal year 1998 under subsection (b);
 
-&emsp;&emsp;&emsp;&emsp;(II) the fiscal year 1999 allotment, the amount by which the State's expenditures under this subchapter in fiscal years 1999, 2000, and 2001 exceed the State's allotment for fiscal year 1999 under subsection (b) of this section;
+&emsp;&emsp;&emsp;&emsp;(II) the fiscal year 1999 allotment, the amount by which the State's expenditures under this subchapter in fiscal years 1999, 2000, and 2001 exceed the State's allotment for fiscal year 1999 under subsection (b);
 
 &emsp;&emsp;&emsp;&emsp;(III) the fiscal year 2000 allotment, the amount specified in subparagraph (C)(i) (less the total of the amounts under clause (ii) for such fiscal year), multiplied by the ratio of the amount specified in subparagraph (C)(ii) for the State to the amount specified in subparagraph (C)(iii); or
 
@@ -290,7 +290,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (ii) Territory
 
-&emsp;&emsp;&emsp;In the case of a commonwealth or territory described in subsection (c)(3) of this section, an amount that bears the same ratio to 1.05 percent of the total amount described in paragraph (2)(B)(i)(I) as the ratio of the commonwealth's or territory's fiscal year 1998, 1999, 2000, or 2001 allotment under subsection (c) of this section (as the case may be) bears to the total of all such allotments for such fiscal year under such subsection.
+&emsp;&emsp;&emsp;In the case of a commonwealth or territory described in subsection (c)(3), an amount that bears the same ratio to 1.05 percent of the total amount described in paragraph (2)(B)(i)(I) as the ratio of the commonwealth's or territory's fiscal year 1998, 1999, 2000, or 2001 allotment under subsection (c) (as the case may be) bears to the total of all such allotments for such fiscal year under such subsection.
 
 #### (B) Expenditure rules
 
@@ -298,9 +298,9 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;&emsp;(i) shall not be included in the determination of the State's allotment for any fiscal year under this section;
 
-&emsp;&emsp;&emsp;(ii) notwithstanding subsection (e) of this section, with respect to fiscal year 1998, 1999, or 2000, shall remain available for expenditure by the State through the end of fiscal year 2004;
+&emsp;&emsp;&emsp;(ii) notwithstanding subsection (e), with respect to fiscal year 1998, 1999, or 2000, shall remain available for expenditure by the State through the end of fiscal year 2004;
 
-&emsp;&emsp;&emsp;(iii) notwithstanding subsection (e) of this section, with respect to fiscal year 2001, shall remain available for expenditure by the State through the end of fiscal year 2005; and
+&emsp;&emsp;&emsp;(iii) notwithstanding subsection (e), with respect to fiscal year 2001, shall remain available for expenditure by the State through the end of fiscal year 2005; and
 
 &emsp;&emsp;&emsp;(iv) shall be counted as being expended with respect to a fiscal year allotment in accordance with applicable regulations of the Secretary.
 
@@ -310,7 +310,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;&emsp;(i) the amount specified in this clause is the amount specified in paragraph (2)(B)(i)(I) for fiscal year 2000, less the total amount remaining available pursuant to paragraph (2)(A)(iii);
 
-&emsp;&emsp;&emsp;(ii) the amount specified in this clause for a State is the amount by which the State's expenditures under this subchapter in fiscal years 2000, 2001, and 2002 exceed the State's allotment for fiscal year 2000 under subsection (b) of this section; and
+&emsp;&emsp;&emsp;(ii) the amount specified in this clause for a State is the amount by which the State's expenditures under this subchapter in fiscal years 2000, 2001, and 2002 exceed the State's allotment for fiscal year 2000 under subsection (b); and
 
 &emsp;&emsp;&emsp;(iii) the amount specified in this clause is the sum, for all States entitled to a redistribution under subparagraph (A) from the allotments for fiscal year 2000, of the amounts specified in clause (ii).
 
@@ -320,7 +320,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;&emsp;(i) the amount specified in this clause is the amount specified in paragraph (2)(B)(i)(I) for fiscal year 2001, less the total amount remaining available pursuant to paragraph (2)(A)(iv);
 
-&emsp;&emsp;&emsp;(ii) the amount specified in this clause for a State is the amount by which the State's expenditures under this subchapter in fiscal years 2001, 2002, and 2003 exceed the State's allotment for fiscal year 2001 under subsection (b) of this section; and
+&emsp;&emsp;&emsp;(ii) the amount specified in this clause for a State is the amount by which the State's expenditures under this subchapter in fiscal years 2001, 2002, and 2003 exceed the State's allotment for fiscal year 2001 under subsection (b); and
 
 &emsp;&emsp;&emsp;(iii) the amount specified in this clause is the sum, for all States entitled to a redistribution under subparagraph (A) from the allotments for fiscal year 2001, of the amounts specified in clause (ii).
 
@@ -328,7 +328,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (e) of this section:
+&emsp;&emsp;Notwithstanding subsection (e):
 
 #### (i) Fiscal year 1998 allotment
 
@@ -336,7 +336,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (ii) Fiscal year 1999 allotment
 
-&emsp;&emsp;&emsp;Of the amounts allotted to a State pursuant to this subsection for fiscal year 1999 that were not expended by the State by the end of fiscal year 2001, the amount specified in subparagraph (B) for fiscal year 1999 for such State shall remain available for expenditure by the State through the end of fiscal year 2004.
+&emsp;&emsp;&emsp;Of the amounts allotted to a State pursuant to this subsection for fiscal year 1999 that were not expended by the State bythe end of fiscal year 2001, the amount specified in subparagraph (B) for fiscal year 1999 for such State shall remain available for expenditure by the State through the end of fiscal year 2004.
 
 #### (iii) Fiscal year 2000 allotment
 
@@ -350,7 +350,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;The amount specified in this subparagraph for a State for a fiscal year is equal to—
 
-&emsp;&emsp;&emsp;(i) the amount by which (I) the total amount available for redistribution under subsection (f) of this section from the allotments for that fiscal year, exceeds (II) the total amounts redistributed under paragraph (1) for that fiscal year; multiplied by
+&emsp;&emsp;&emsp;(i) the amount by which (I) the total amount available for redistribution under subsection (f) from the allotments for that fiscal year, exceeds (II) the total amounts redistributed under paragraph (1) for that fiscal year; multiplied by
 
 &emsp;&emsp;&emsp;(ii) the ratio of the amount of such State's unexpended allotment for that fiscal year to the total amount described in clause (i)(I) for that fiscal year.
 
@@ -394,7 +394,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Shortfall State described
 
-&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of March 31, 2007, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which theSecretary estimates, on a monthly basis using the most recent data available to the Secretary as of March 31, 2007, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the State's allotments for each of fiscal years 2005 and 2006 that was not expended by the end of fiscal year 2006;
 
@@ -512,7 +512,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (6) 1–year availability; no further redistribution
 
-&emsp;Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2008 shall only remain available for expenditure by the Statethrough September 30, 2008, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
+&emsp;Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2008 shall only remain available for expenditure by the State through September 30, 2008, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
 
 #### (j) Additional allotments to eliminate funding shortfalls for fiscal year 2008
 
@@ -522,7 +522,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Shortfall States described
 
-&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of November 30, 2007, that the Federal share amount of the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
+&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of November 30,2007, that the Federal share amount of the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that will not be expended by the end of fiscal year 2007;
 
@@ -584,7 +584,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (1) Appropriation; allotment authority
 
-&emsp;For the purpose of providing additional allotments described in subparagraphs (A) and (B) of paragraph (3), there is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary, not to exceed $275,000,000 for the first 2 quarters of fiscal year 2009.
+&emsp;For the purpose of providing additional allotments described in subparagraphs (A) and\(B) of paragraph (3), there is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary, not to exceed $275,000,000 for the first 2 quarters of fiscal year 2009.
 
 #### (2) Shortfall States described
 
@@ -642,7 +642,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraphs (4) and (6),<sup>5</sup> from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+&emsp;&emsp;Subject to paragraphs (4) and (6),<sup>5</sup> from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the Districtof Columbia and each commonwealth and territory) for each such fiscal year as follows:
 
 #### (i) Growth factor update for fiscal year 2010
 
@@ -772,7 +772,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) Per capita health care growth factor
 
-&emsp;&emsp;1 plus the percentage increase in the projected per capita amount of National Health Expenditures from the calendar year inwhich the previous fiscal year ends to the calendar year in which the fiscal year involved ends, as most recently published by the Secretary before the beginning of the fiscal year.
+&emsp;&emsp;1 plus the percentage increase in the projected per capita amount of National Health Expenditures from the calendar year in which the previous fiscal year ends to the calendar year in which the fiscal year involved ends, as most recently published by the Secretary before the beginning of the fiscal year.
 
 #### (B) Child population growth factor
 
@@ -782,7 +782,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;In the case of one of the 50 States or the District of Columbia that—
 
-&emsp;&emsp;(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2017); and
+&emsp;&emsp;(A) has submitted to the Secretary, and has approved by the Secretary, a State planamendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2017); and
 
 &emsp;&emsp;(B) has submitted to the Secretary, before the August 31 preceding the beginning of the fiscal year, a request for an expansion allotment adjustment under this paragraph for such fiscal year that specifies—
 
@@ -832,7 +832,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, or a semi-annual allotment period for fiscal year 2015 or 2017, exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
+&emsp;&emsp;If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, or a semi-annual allotment period for fiscal year 2015 or 2017, exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year orperiod exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the amount by which such average monthly caseload exceeds such target number of enrollees; and
 
@@ -870,13 +870,13 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74,§1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158.)
 
 #### References in Text
 
 Paragraphs (4) and (6), referred to in subsec. (m)(2)(A), were redesignated (5) and (7), respectively, by Pub. L. 114–10, title III, §301(b)(1)(F), Apr. 16, 2015, 129 Stat. 156.
 
-Section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (m)(3)(A), (D)(i)(II), is section 108 of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, which is not classified to the Code.
+Section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec.\(m)(3)(A), (D)(i)(II), is section 108 of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, which is not classified to the Code.
 
 Section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (m)(4)(A), (D)(i)(II), is section 301(b)(3) of Pub. L. 114–10, title III, Apr. 16, 2015, 129 Stat. 157, which relates to a one-time appropriation for fiscal year 2017 and is not classified to the Code.
 
@@ -1042,7 +1042,7 @@ Pub. L. 108–74, §1(a)(2)(B)(iv), substituted ", 1999, or 2000" for "or 1999"
 
 Subsec. (g)(1)(B). Pub. L. 108–74, §1(a)(2)(B)(v), struck out "with respect to fiscal year 1998 or 1999" after "paragraph" in introductory provisions.
 
-Subsec. (g)(1)(B)(ii). Pub. L. 108–74, §1(a)(2)(B)(vi), inserted "with respect to fiscal year 1998, 1999, or 2000" after "subsection (e) of this section," and substituted "2004" for "2002".
+Subsec. (g)(1)(B)(ii). Pub. L. 108–74, §1(a)(2)(B)(vi), inserted "with respect to fiscal year 1998, 1999, or 2000" after "subsection (e)," and substituted "2004" for "2002".
 
 Subsec. (g)(1)(B)(iii), (iv). Pub. L. 108–74, §1(a)(3)(B)(v), added clause (iii) and redesignated former cl. (iii) as (iv).
 
@@ -1090,7 +1090,7 @@ Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(2)\], amen
 
 Subsec. (c)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §702\], inserted before period at end ", $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007".
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VII, §706(b)\], inserted "(determined without regard to paragraph (4) thereof)" after "subsection (c) of this section".
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VII, §706(b)\], inserted "(determined without regard to paragraph (4) thereof)" after "subsection (c)".
 
 Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VII, §706(a)\], added par. (4).
 

@@ -2,19 +2,19 @@
 
 #### (a) Waiver of State plan requirements; costs regarded as State plan expenditures; availability of appropriations
 
-In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting the objectives of subchapter I, X, XIV, XVI, or XIX of this chapter, or part A or D of subchapter IV of this chapter, in a State or States—
+In the case of any experimental, pilot, or demonstration project which, in the judgment of the Secretary, is likely to assist in promoting the objectives of subchapter I, X, XIV, XVI, or XIX, or part A or D of subchapter IV, in a State or States—
 
 &emsp;(1) the Secretary may waive compliance with any of the requirements of section 302, 602, 654, 1202, 1352, 1382, or 1396a of this title, as the case may be, to the extent and for the period he finds necessary to enable such State or States to carry out such project, and
 
 &emsp;(2)(A) costs of such project which would not otherwise be included as expenditures under section 303, 655, 1203, 1353, 1383, or 1396b of this title, as the case may be, and which are not included as part of the costs of projects under section 1310 of this title, shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under the State plan or plans approved under such subchapter, or for administration of such State plan or plans, as may be appropriate, and
 
-&emsp;(B) costs of such project which would not otherwise be a permissible use of funds under part A of subchapter IV of this chapter and which are not included as part of the costs of projects under section 1310 of this title, shall to the extent and for the period prescribed by the Secretary, be regarded as a permissible use of funds under such part.
+&emsp;(B) costs of such project which would not otherwise be a permissible use of funds under part A of subchapter IV and which are not included as part of the costs of projects under section 1310 of this title, shall to the extent and for the period prescribed by the Secretary, be regarded as a permissible use of funds under such part.
 
 > In addition, not to exceed $4,000,000 of the aggregate amount appropriated for payments to States under such subchapters for any fiscal year beginning after June 30, 1967, shall be available, under such terms and conditions as the Secretary may establish, for payments to States to cover so much of the cost of such projects as is not covered by payments under such subchapters and is not included as part of the cost of projects for purposes of section 1310 of this title.
 
 #### (b) Child support enforcement programs
 
-(1) In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV, the project—
+(1) In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) to assist in promoting the objectives of part D of subchapter IV, the project—
 
 &emsp;(A) must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
 
@@ -26,13 +26,13 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
-(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in suchStates to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
+(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
 
 (B) If any State with an agreement under this subsection so requests, the demonstration project conducted pursuant to such agreement may test and evaluate the complete elimination of the 100-hour rule and of any other durational standard that might be applied in defining unemployment for purposes of determining eligibility under section 607 of this title.
 
 (2) Notwithstanding section 602(a)(1) of this title, a demonstration project conducted under this subsection may be conducted in one or more political subdivisions of the State.
 
-(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV of this chapter as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements and conditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV of this chapter).
+(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements andconditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV).
 
 (4) A demonstration project under this subsection may be commenced any time after September 30, 1990, and shall be conducted for such period of time as the agreement with the Secretary may provide; except that, in no event may a demonstration project under this section be conducted after September 30, 1995.
 
@@ -66,9 +66,9 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 #### (e) Extensions of State-wide comprehensive demonstration projects for which waivers granted
 
-(1) The provisions of this subsection shall apply to the extension of any State-wide comprehensive demonstration project (in this subsection referred to as "waiver project") for which a waiver of compliance with requirements of subchapter XIX of this chapter is granted under subsection (a) of this section.
+(1) The provisions of this subsection shall apply to the extension of any State-wide comprehensive demonstration project (in this subsection referred to as "waiver project") for which a waiver of compliance with requirements of subchapter XIX is granted under subsection (a).
 
-(2) During the 6-month period ending 1 year before the date the waiver under subsection (a) of this section with respect to a waiver project would otherwise expire, the chief executive officer of the State which is operating the project may submit to the Secretary a written request for an extension, of up to 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title), of the project.
+(2) During the 6-month period ending 1 year before the date the waiver under subsection (a) with respect to a waiver project would otherwise expire, the chief executive officer of the State which is operating the project may submit to the Secretary a written request for an extension, of up to 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title), of the project.
 
 (3) If the Secretary fails to respond to the request within 6 months after the date it is submitted, the request is deemed to have been granted.
 
@@ -82,7 +82,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 #### (f) Application for extension of waiver project; submission; approval
 
-An application by the chief executive officer of a State for an extension of a waiver project the State is operating under an extension under subsection (e) of this section (in this subsection referred to as the "waiver project") shall be submitted and approved or disapproved in accordance with the following:
+An application by the chief executive officer of a State for an extension of a waiver project the State is operating under an extension under subsection (e) (in this subsection referred to as the "waiver project") shall be submitted and approved or disapproved in accordance with the following:
 
 &emsp;(1) The application for an extension of the waiver project shall be submitted to the Secretary at least 120 days prior to the expiration of the current period of the waiver project.
 
@@ -106,7 +106,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title).
 
-&emsp;(7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) of this section (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
+&emsp;(7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
 
 (Aug. 14, 1935, ch. 531, title XI, §1115, as added Pub. L. 87–543, title I, §122, July 25, 1962, 76 Stat. 192; amended Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title II, §§241(c)(4), 247, Jan. 2, 1968, 81 Stat. 917, 918; Pub. L. 93–233, §18(z–2)(1)(B), Dec. 31, 1973, 87 Stat. 973; Pub. L. 93–647, §3(c), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 95–216, title IV, §404, Dec. 20, 1977, 91 Stat. 1562; Pub. L. 97–35, title XXIII, §2353(g), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title VI, §2663(e)(5), July 18, 1984, 98 Stat. 1168; Pub. L. 98–378, §10, Aug. 16, 1984, 98 Stat. 1317; Pub. L. 99–272, title XIV, §14001(b)(2), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–485, title V, §503, Oct. 13, 1988, 102 Stat. 2402; Pub. L. 104–193, title I, §108(g)(2), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 105–33, title IV, §4757(a), Aug. 5, 1997, 111 Stat. 527; Pub. L. 106–554, §1(a)(6) \[title VII, §703(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574; Pub. L. 111–148, title II, §2601(b)(2), title X, §10201(i), Mar. 23, 2010, 124 Stat. 315, 922; Pub. L. 113–183, title III, §302(b), Sept. 29, 2014, 128 Stat. 1945.)
 
@@ -130,7 +130,7 @@ Subsec. (f)(6). Pub. L. 111–148, §2601(b)(2)(B), inserted "(5 years, in the c
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §108(g)(2)(A), designated existing provisions as subpar. (A), struck out "603," before "655,", substituted ", and" for period at end, and added subpar. (B).
 
-Subsec. (b). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to purposes, criteria and procedures applicable to establishment, participatory effect, duration and termination of demonstration projects.
+Subsec. (b). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to purposes, criteria and procedures applicable to establishment, participatory effect, duration and termination of demonstration projects.
 
 Subsec. (c). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
@@ -156,7 +156,7 @@ Pub. L. 98–369, §2663(e)(5), struck out "803," after "603,".
 
 Subsec. (c). Pub. L. 98–378, §10(b), added subsec. (c).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted in provision preceding par. (1) "or XIX of this chapter" for "XIX, or XX of this chapter", in par. (1) "or 1396a of this title" for "1396a, 1397a, 1397b, or 1397c of this title", and in par. (2) "or 1396b of this title" for "1396b, or 1397a of this title" and in par. (2) struck out "or expenditures with respect to which payment shall be made under section 1397a of this title," before "as may be appropriate".
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted in provision preceding par. (1) "or XIX" for "XIX, or XX", in par. (1) "or 1396a of this title" for "1396a, 1397a, 1397b, or 1397c of this title", and in par. (2) "or 1396b of this title" for "1396b, or 1397a of this title" and in par. (2) struck out "or expenditures with respect to which payment shall be made under section 1397a of this title," before "as may be appropriate".
 
 <b>1977</b>—Pub. L. 95–216 designated existing provisions as subsec. (a) and existing pars. (a) and (b) thereof as pars. (1) and (2), respectively, and added subsec. (b).
 
@@ -168,7 +168,7 @@ Subsec. (b). Pub. L. 93–647, §3(c)(3), (4), substituted "1396b, or 1397a" for
 
 <b>1973</b>—Pub. L. 93–233 inserted references in text preceding subsec. (a) to subchapter VI of this chapter, in subsec. (a) to section 802 of this title, and in subsec. (b) to section 803 of this title.
 
-<b>1968</b>—Pub. L. 90–248, §241(c)(4), in opening phrase struck out "IV," after "I," and inserted ", or part A of subchapter IV of this chapter," after "XIX of this chapter".
+<b>1968</b>—Pub. L. 90–248, §241(c)(4), in opening phrase struck out "IV," after "I," and inserted ", or part A of subchapter IV," after "XIX".
 
 Pub. L. 90–248, §247, substituted in second sentence "$4,000,000" for "$2,000,000" and "beginning after June 30, 1967" for "ending prior to July 1, 1968".
 
@@ -212,6 +212,10 @@ Amendment by Pub. L. 93–233 effective on and after Jan. 1, 1974, see section 1
 
 Pub. L. 89–97, title I, §121(c)(3), July 30, 1965, 79 Stat. 352, provided that the amendment made by that section is effective Jan. 1, 1966.
 
+#### Guidance on Opportunities for Innovation
+
+Pub. L. 114–255, div. B, title XII, §12003, Dec. 13, 2016, 130 Stat. 1273, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 13, 2016\], the Administrator of the Centers for Medicare \& Medicaid Services shall issue a State Medicaid Director letter regarding opportunities to design innovative service delivery systems, including systems for providing community-based services, for adults with a serious mental illness or children with a serious emotional disturbance who are receiving medical assistance under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.). The letter shall include opportunities for demonstration projects under section 1115 of such Act (42 U.S.C. 1315) to improve care for such adults and children."
+
 #### Family Support Demonstration Projects
 
 Pub. L. 100–485, title V, §501, Oct. 13, 1988, 102 Stat. 2400, as amended by Pub. L. 103–432, title II, §262, Oct. 31, 1994, 108 Stat. 4467, provided that:
@@ -228,7 +232,7 @@ Demonstration Projects To Test the Effect of Early Childhood Development Program
 
 "(b)
 
-State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
+State Demonstration Projects To Encourage Innovative Education and Training Programs forChildren.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
 
 "(c)
 
@@ -282,7 +286,7 @@ Nature of Project.—Under each demonstration project conducted under this secti
 
 &emsp;&emsp;"(D) A program to provide participants in the project (to the extent practicable) with such transportation, child care, and equipment as is necessary to carry out the purposes of the project.
 
-&emsp;"(2) The State shall designate two geographical areas within the State to be targeted by the project.One area will serve as the 'home base' for the project, where services will be concentrated and in which a local school system will be selected to receive services and provide facilities for resource referral and counseling. The second geographical area will serve as a 'peripheral' participant, receiving assistance and services from the home base.
+&emsp;"(2) The State shall designate two geographical areas within the State to be targeted by the project. One area will serve as the 'home base' for the project, where services will be concentrated and in which a local school system will be selected to receive services and provide facilities for resource referral and counseling. The second geographical area will serve as a 'peripheral' participant, receiving assistance and services from the home base.
 
 &emsp;"(3) A high-risk teenager is any male or female who has reached the age of 10 years and whose age does not exceed 20 years, and who—
 
@@ -372,7 +376,7 @@ Pub. L. 93–233, §11, Dec. 31, 1973, 87 Stat. 958, provided that:
 
 > the Secretary may waive such requirements of title XVI of such Act (as enacted by section 301 of the Social Security Amendments of 1972) to such extent as he determines to be necessary to the successful operation of such project.
 
-"(c) In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[42 U.S.C. 1382e\] (or which is deemed, under section 212(d) of Public Law 93–66 \[set out as a note under section 1382 of this title\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which thereis (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
+"(c) In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[42 U.S.C. 1382e\] (or which is deemed, under section 212(d) of Public Law 93–66 \[set out as a note under section 1382 of this title\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which there is (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
 
 &emsp;"(1) be paid, from time to time, to such State by the Secretary, and
 

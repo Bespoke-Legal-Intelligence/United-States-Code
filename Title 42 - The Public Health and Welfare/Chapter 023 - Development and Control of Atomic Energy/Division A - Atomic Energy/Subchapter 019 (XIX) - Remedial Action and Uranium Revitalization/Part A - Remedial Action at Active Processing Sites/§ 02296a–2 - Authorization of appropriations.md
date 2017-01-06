@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-There is authorized to be appropriated $715,000,000 to carry out this part. The aggregate amount authorized in the preceding sentence shall be increased annually as provided in section 2296a of this title, based upon an inflation index to be determined by the Secretary.
+There is authorized to be appropriated $715,000,000 to carry out this part. The aggregateamount authorized in the preceding sentence shall be increased annually as provided in section 2296a of this title, based upon an inflation index to be determined by the Secretary.
 
 #### (b) Source
 
-Funds described in subsection (a) of this section shall be provided from the Fund established under section 2297g of this title.
+Funds described in subsection (a) shall be provided from the Fund established under section 2297g of this title.
 
 (Pub. L. 102–486, title X, §1003, Oct. 24, 1992, 106 Stat. 2947; Pub. L. 104–259, §3(b), Oct. 9, 1996, 110 Stat. 3174; Pub. L. 105–388, §11(b), Nov. 13, 1998, 112 Stat. 3485; Pub. L. 107–222, §1(b), Aug. 21, 2002, 116 Stat. 1336.)
 

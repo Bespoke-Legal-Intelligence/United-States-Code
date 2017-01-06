@@ -10,7 +10,7 @@ Funds in the account established under subsection (a) shall be paid—
 
 &emsp;(1) for activities of the Republican Conference in such amounts, at such times, and under such terms and conditions as the Speaker of the House of Representatives may direct (or, if the Speaker is not a member of the Republican Party, under such terms and conditions as the Minority Leader of the House of Representatives may direct); and
 
-&emsp;(2) for activities of the Democratic Steering and Policy Committee in such amounts, at such times, and under such terms and conditions as the Minority Leader of the House of Representatives may direct (or, if the Speaker is a member of the Democratic Party, under such terms and conditions as the Speaker may direct).
+&emsp;(2) for activities of the Democratic Steering and Policy Committee in such amounts, at such times, and under such terms and conditions as the Minority Leader of the House of Representatives may direct (or, if the Speaker is a member of the Democratic Party, undersuch terms and conditions as the Speaker may direct).
 
 #### (c) Authorization of appropriations
 

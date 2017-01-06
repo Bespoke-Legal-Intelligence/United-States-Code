@@ -16,7 +16,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;(4) Providing any license or other approval under section 2778 of this title for any export or other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
 
-&emsp;(5) Otherwise facilitating the acquisition of any munitions item by a country described insubsection (d). This paragraph applies with respect to activities undertaken—
+&emsp;(5) Otherwise facilitating the acquisition of any munitions item by a country described in subsection (d). This paragraph applies with respect to activities undertaken—
 
 &emsp;&emsp;(A) by any department, agency, or other instrumentality of the Government,
 
@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
+The prohibitions contained in this section apply with respect to a country if the Secretaryof State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
 
 #### (e) Publication of determinations
 
@@ -122,7 +122,7 @@ The prohibitions contained in this section do not apply with respect to any tran
 
 #### (2) Section 614(a) waiver authority
 
-&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] is used to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
+&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] isused to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
 
 #### (j) Criminal penalty
 
@@ -144,7 +144,7 @@ As used in this section—
 
 &emsp;&emsp;(A) any citizen or permanent resident alien of the United States;
 
-&emsp;&emsp;(B) any sole proprietorship, partnership, company, association, or corporation having its principal place of business within the United States or organized under the laws of the United States, any State, the District ofColumbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States;
+&emsp;&emsp;(B) any sole proprietorship, partnership, company, association, or corporation having its principal place of business within the United States or organized under the laws of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States;
 
 &emsp;&emsp;(C) any other person with respect to that person's actions while in the United States; and
 
@@ -182,7 +182,7 @@ The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96
 
 <b>2010</b>—Subsec. (j). Pub. L. 111–195 substituted "20 years" for "10 years".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
+<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abet the efforts of an individual or group to use, develop,produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
 
 <b>1999</b>—Subsec. (k). Pub. L. 106–113 inserted "section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that" after "except that".
 

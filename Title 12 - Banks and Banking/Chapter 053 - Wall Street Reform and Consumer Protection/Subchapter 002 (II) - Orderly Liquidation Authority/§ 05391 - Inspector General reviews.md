@@ -6,7 +6,7 @@
 
 #### (1) Scope
 
-&emsp;The Inspector General of the Corporation shall conduct, supervise, and coordinate audits and investigations of the liquidation of any covered financial company by the Corporation as receiver under this subchapter, including collecting and summarizing—
+&emsp;The Inspector General of the Corporation shall conduct, supervise, and coordinate auditsand investigations of the liquidation of any covered financial company by the Corporation as receiver under this subchapter, including collecting and summarizing—
 
 &emsp;&emsp;(A) a description of actions taken by the Corporation as receiver;
 
@@ -95,6 +95,10 @@ The Inspector General Act of 1978, referred to in subsecs. (d)(3) and (e)(3), is
 #### Codification
 
 Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of section 211 of Pub. L. 111–203 amended section 4403 of this title and section 1032 of title 18, Crimes and Criminal Procedure.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -100,6 +100,7 @@
 | [355d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355d%20-%20Internal%20committee%20for%20review%20of%20pediatric%20plans%2C%20assessments%2C%20deferrals%2C%20deferral%20extensions%2C%20and%20waivers.md) | Internal committee for review of pediatric plans, assessments, deferrals, deferral extensions, and waivers. |
 | [355e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355e%20-%20Pharmaceutical%20security.md) | Pharmaceutical security. |
 | [355f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355f%20-%20Extension%20of%20exclusivity%20period%20for%20new%20qualified%20infectious%20disease%20products.md) | Extension of exclusivity period for new qualified infectious disease products. |
+| [355g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355g%20-%20Utilizing%20real%20world%20evidence.md) | Utilizing real world evidence. |
 | [356\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356%20-%20Expedited%20approval%20of%20drugs%20for%20serious%20or%20life-threatening%20diseases%20or%20conditions.md) | Expedited approval of drugs for serious or life-threatening diseases or conditions. |
 | 356–1. | Accelerated approval of priority countermeasures. |
 | [356a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356a%20-%20Manufacturing%20changes.md) | Manufacturing changes. |
@@ -109,18 +110,21 @@
 | [356d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356d%20-%20Coordination%3B%20task%20force%20and%20strategic%20plan.md) | Coordination; task force and strategic plan. |
 | [356e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356e%20-%20Drug%20shortage%20list.md) | Drug shortage list. |
 | [356f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356f%20-%20Hospital%20repackaging%20of%20drugs%20in%20shortage.md) | Hospital repackaging of drugs in shortage. |
-| [357\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000357%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93115%2C%20title%20I%2C%20%C2%A7125%28b%29%281%29%2C%20Nov.%2021%2C%201997%2C%20111%20Stat.%202325.md) | Repealed. |
+| [356g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356g%20-%20Standards%20for%20regenerative%20medicine%20and%20regenerative%20advanced%20therapies.md) | Standards for regenerative medicine and regenerative advanced therapies. |
+| [357\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000357%20-%20Qualification%20of%20drug%20development%20tools.md) | Qualification of drug development tools. |
 | [358\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000358%20-%20Authority%20to%20designate%20official%20names.md) | Authority to designate official names. |
 | [359\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000359%20-%20Nonapplicability%20of%20subchapter%20to%20cosmetics.md) | Nonapplicability of subchapter to cosmetics. |
 | [360\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360%20-%20Registration%20of%20producers%20of%20drugs%20or%20devices.md) | Registration of producers of drugs or devices. |
 | [360a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360a%20-%20Clinical%20trial%20guidance%20for%20antibiotic%20drugs.md) | Clinical trial guidance for antibiotic drugs. |
 | 360a–1. | Clinical trials. |
+| 360a–2. | Susceptibility test interpretive criteria for microorganisms. |
 | [360b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360b%20-%20New%20animal%20drugs.md) | New animal drugs. |
 | [360c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360c%20-%20Classification%20of%20devices%20intended%20for%20human%20use.md) | Classification of devices intended for human use. |
 | 360c–1. | Reporting. |
 | [360d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360d%20-%20Performance%20standards.md) | Performance standards. |
 | [360e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360e%20-%20Premarket%20approval.md) | Premarket approval. |
 | 360e–1. | Pediatric uses of devices. |
+| 360e–3. | Breakthrough devices. |
 | [360f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360f%20-%20Banned%20devices.md) | Banned devices. |
 | [360g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360g%20-%20Judicial%20review.md) | Judicial review. |
 | 360g–1. | Agency documentation and review of significant decisions regarding devices. |
@@ -146,6 +150,7 @@
 | [360dd.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360dd%20-%20Open%20protocols%20for%20investigations%20of%20drugs%20for%20rare%20diseases%20or%20conditions.md) | Open protocols for investigations of drugs for rare diseases or conditions. |
 | [360ee.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360ee%20-%20Grants%20and%20contracts%20for%20development%20of%20drugs%20for%20rare%20diseases%20and%20conditions.md) | Grants and contracts for development of drugs for rare diseases and conditions. |
 | [360ff.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360ff%20-%20Priority%20review%20to%20encourage%20treatments%20for%20rare%20pediatric%20diseases.md) | Priority review to encourage treatments for rare pediatric diseases. |
+| 360ff–1. | Targeted drugs for rare diseases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -181,12 +186,14 @@
 |  |  |
 | :--- | ---: |
 | [360bbb.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20E%20-%20General%20Provisions%20Relating%20to%20Drugs%20and%20Devices/%C2%A7%2000360bbb%20-%20Expanded%20access%20to%20unapproved%20therapies%20and%20diagnostics.md) | Expanded access to unapproved therapies and diagnostics. |
+| 360bbb–0. | Expanded access policy required for investigational drugs. |
 | 360bbb–1. | Dispute resolution. |
 | 360bbb–2. | Classification of products. |
 | 360bbb–3. | Authorization for medical products for use in emergencies. |
 | 360bbb–3a. | Emergency use of medical products. |
 | 360bbb–3b. | Products held for emergency use. |
 | 360bbb–4. | Countermeasure development, review, and technical assistance. |
+| 360bbb–4a. | Priority review to encourage treatments for agents that present national security threats. |
 | 360bbb–5. | Critical Path Public-Private Partnerships. |
 | 360bbb–6. | Risk communication. |
 | 360bbb–7. | Notification. |
@@ -279,6 +286,7 @@
 | 379d–1. | Conflicts of interest. |
 | 379d–2. | Policy on the review and clearance of scientific articles published by FDA employees. |
 | 379d–3. | Streamlined hiring authority. |
+| 379d–3a. | Hiring authority for scientific, technical, and professional personnel. |
 | 379d–4. | Reporting requirements. |
 | 379d–5. | Guidance document regarding product promotion using the Internet. |
 
@@ -500,6 +508,8 @@
 | [399d.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399d%20-%20Employee%20protections.md) | Employee protections. |
 | [399e.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399e%20-%20Nanotechnology.md) | Nanotechnology. |
 | [399f.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399f%20-%20Ensuring%20adequate%20information%20regarding%20pharmaceuticals%20for%20all%20populations%2C%20particularly%20underrepresented%20subpopulations%2C%20including%E2%80%A6.md) | Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including racial subgroups. |
+| [399g.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399g%20-%20Food%20and%20Drug%20Administration%20Intercenter%20Institutes.md) | Food and Drug Administration Intercenter Institutes. |
+| [399h.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399h%20-%20Grants%20for%20studying%20continuous%20drug%20manufacturing.md) | Grants for studying continuous drug manufacturing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

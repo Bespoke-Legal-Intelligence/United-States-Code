@@ -40,7 +40,7 @@
 
 &emsp;(iii) Such other data as the Secretary determines is appropriate for monitoring the accuracy and consistency of decisions with respect to such claims.
 
-(5) Nothing in this subsection shall be construed to require the Secretary to replace the quality assurance program under subsection (a) that was in effect on the day before the date of the enactment of this subsection.
+(5) Nothing in this subsection shall be construed to require the Secretary to replace thequality assurance program under subsection (a) that was in effect on the day before the date of the enactment of this subsection.
 
 (Added Pub. L. 106–117, §801(a)(1), Nov. 30, 1999, 113 Stat. 1585; amended Pub. L. 110–389, title II, §224(a), Oct. 10, 2008, 122 Stat. 4157.)
 

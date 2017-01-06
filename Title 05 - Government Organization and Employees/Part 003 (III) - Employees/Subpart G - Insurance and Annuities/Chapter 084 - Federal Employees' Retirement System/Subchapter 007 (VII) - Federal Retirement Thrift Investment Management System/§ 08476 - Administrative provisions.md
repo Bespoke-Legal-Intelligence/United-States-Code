@@ -6,7 +6,7 @@
 
 &emsp;(2) at additional times at the call of the Chairman.
 
-(b)(1) Except as provided in sections 8472(g)(1)(C) and 8474(a)(1) of this title, the Board shall perform the functions and exercise the powers of the Board on a majority vote of a quorum of the Board.
+(b)(1) Except as provided in sections 8472(g)(1)(C) and 8474(a)(1) of this title, the Boardshall perform the functions and exercise the powers of the Board on a majority vote of a quorum of the Board.
 
 (2) A vacancy on the Board shall not impair the authority of a quorum of the Board to perform the functions and exercise the powers of the Board.
 

@@ -55,7 +55,7 @@ Pub. L. 107–134, title I, §112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substitu
 
 <b>1996</b>—Pub. L. 104–168, title XII, §1204(b), July 30, 1996, 110 Stat. 1471, added item 7524.
 
-<b>1990</b>—Pub. L. 101–508, title XI, §§11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388-519, substituted "7522. Content of tax due, deficiency, and other notices." for "7521. Content of tax due, deficiency, and other notices." and added item 7523.
+<b>1990</b>—Pub. L. 101–508, title XI, §§11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388–519, substituted "7522. Content of tax due, deficiency, and other notices." for "7521. Content of tax due, deficiency, and other notices." and added item 7523.
 
 <b>1989</b>—Pub. L. 101–239, title VII, §7816(u)(2), Dec. 19, 1989, 103 Stat. 2423, redesignated item 7520, relating to procedures involving taxpayer interviews, as 7521.
 

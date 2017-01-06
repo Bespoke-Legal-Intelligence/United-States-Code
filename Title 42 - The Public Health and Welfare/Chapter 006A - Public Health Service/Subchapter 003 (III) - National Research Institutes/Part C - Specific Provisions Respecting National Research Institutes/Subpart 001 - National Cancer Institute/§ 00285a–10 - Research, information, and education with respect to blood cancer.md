@@ -24,7 +24,7 @@
 
 #### Codification
 
-Section 3 of Pub. L. 107–172, which directed that section 417D (this section) be inserted after section 419C ofpart C of title IV of the Public Health Service Act, was executed by adding section 417D to part C of title IV of the Public Health Service Act, to reflect the probable intent of Congress, notwithstanding that part C does not contain a section 419C.
+Section 3 of Pub. L. 107–172, which directed that section 417D (this section) be inserted after section 419C of part C of title IV of the Public Health Service Act, was executed by adding section 417D to part C of title IV of the Public Health Service Act, to reflect the probable intent of Congress, notwithstanding that part C does not contain a section 419C.
 
 #### Amendments
 

@@ -18,3 +18,7 @@ The Department of Agriculture may make available to States, units of local gover
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted "to identify the quantity of farmland actually converted by Federal programs, and" after "of this section,".
 
+#### Effective Date
+
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
+

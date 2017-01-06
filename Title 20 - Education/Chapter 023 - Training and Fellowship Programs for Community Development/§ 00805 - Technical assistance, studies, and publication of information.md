@@ -2,7 +2,7 @@
 
 In order to carry out the purpose of this chapter, the Secretary is authorized to provide technical assistance to State and local governmental or public bodies and to undertake such studies and publish and distribute such information, either directly or by contract, as he shall determine to be desirable. Nothing contained in this chapter shall limit any authority of the Secretary under any other provision of law.
 
-(Pub. L. 88–560, title VIII, §806, formerly §805, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, §21(e), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title XVII, §1707(b), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–152, title III, §307, Dec. 24, 1969, 83 Stat. 394; renumbered §806, Pub. L. 93–383, title IV, §402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VIII, §806, formerly §805, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, §21(e), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title XVII, §1707(b), Aug. 1, 1968, 82 Stat. 606; Pub. L.91–152, title III, §307, Dec. 24, 1969, 83 Stat. 394; renumbered §806, Pub. L. 93–383, title IV, §402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
 
 #### Amendments
 

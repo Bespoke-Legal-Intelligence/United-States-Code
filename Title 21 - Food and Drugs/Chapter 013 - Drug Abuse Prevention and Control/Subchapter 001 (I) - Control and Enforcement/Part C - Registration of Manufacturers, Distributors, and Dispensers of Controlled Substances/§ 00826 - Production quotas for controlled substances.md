@@ -6,11 +6,11 @@ The Attorney General shall determine the total quantity and establish production
 
 #### (b) Individual production quotas; revised quotas
 
-The Attorney General shall limit or reduce individual production quotas to the extent necessary to prevent the aggregate of individual quotas from exceeding the amount determined necessary each year by the Attorney General under subsection (a) of this section. The quota of each registered manufacturer for each basic class of controlled substance in schedule I or II or for ephedrine, pseudoephedrine, or phenylpropanolamine shall be revised in the same proportion as the limitation or reduction of the aggregate of the quotas. However, if any registrant, before the issuance of a limitation or reduction in quota, has manufactured in excess of his revised quota, the amount of the excess shall be subtracted from his quota for the following year.
+The Attorney General shall limit or reduce individual production quotas to the extent necessary to prevent the aggregate of individual quotas from exceeding the amount determined necessary each year by the Attorney General under subsection (a). The quota of each registered manufacturer for each basic class of controlled substance in schedule I or II or for ephedrine, pseudoephedrine, or phenylpropanolamine shall be revised in the same proportion as the limitation or reduction of the aggregate of the quotas. However, if any registrant, before the issuance of a limitation or reduction in quota, has manufactured in excess of his revised quota, the amount of the excess shall be subtracted from his quota for the following year.
 
 #### (c) Manufacturing quotas for registered manufacturers
 
-On or before October 1 of each year, upon application therefor by a registered manufacturer, the Attorney General shall fix a manufacturing quota for the basic classes of controlled substances in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine that the manufacturer seeks to produce. The quota shall be subject to the provisions of subsections (a) and (b) of this section. In fixing such quotas, the Attorney General shall determine the manufacturer's estimated disposal, inventory, and other requirements for the calendar year; and, in making his determination, the Attorney General shall consider the manufacturer's currentrate of disposal, the trend of the national disposal rate during the preceding calendar year, the manufacturer's production cycle and inventory position, the economic availability of raw materials, yield and stability problems, emergencies such as strikes and fires, and other factors.
+On or before October 1 of each year, upon application therefor by a registered manufacturer, the Attorney General shall fix a manufacturingquota for the basic classes of controlled substances in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine that the manufacturer seeks to produce. The quota shall be subject to the provisions of subsections (a) and (b) of this section. In fixing such quotas, the Attorney General shall determine the manufacturer's estimated disposal, inventory, and other requirements for the calendar year; and, in making his determination, the Attorney General shall consider the manufacturer's current rate of disposal, the trend of the national disposal rate during the preceding calendar year, the manufacturer's production cycle and inventory position, the economic availability of raw materials, yield and stability problems, emergencies such as strikes and fires, and other factors.
 
 #### (d) Quotas for registrants who have not manufactured controlled substance during one or more preceding years
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 109–177, §713(4), inserted "or ephedrine, pseudoephedrin
 
 Subsec. (e). Pub. L. 109–177, §713(5), inserted "or for ephedrine, pseudoephedrine, or phenylpropanolamine" after "for a basic class of controlled substance in schedule I or II".
 
-Subsec. (f). Pub. L. 109–177, §713(6), inserted "or ephedrine, pseudoephedrine, or phenylpropanolamine" after "controlled substances in schedules I and II", "or of ephedrine, pseudoephedrine, or phenylpropanolamine" after "the manufacture of a controlled substance", and "or chemicals" after "such incidentally produced substances".
+Subsec. (f). Pub. L. 109–177, §713(6), inserted "or ephedrine, pseudoephedrine, or phenylpropanolamine"after "controlled substances in schedules I and II", "or of ephedrine, pseudoephedrine, or phenylpropanolamine" after "the manufacture of a controlled substance", and "or chemicals" after "such incidentally produced substances".
 
 Subsec. (g). Pub. L. 109–177, §713(7), added subsec. (g).
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 109–177, §713(7), added subsec. (g).
 
 #### Effective Date
 
-Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with AttorneyGeneral authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### Coordination With United States Trade Representative
 

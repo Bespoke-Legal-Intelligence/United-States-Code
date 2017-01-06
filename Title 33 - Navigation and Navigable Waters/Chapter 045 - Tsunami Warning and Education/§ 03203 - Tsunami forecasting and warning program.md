@@ -76,7 +76,7 @@ The program under this section shall operate—
 
 &emsp;&emsp;(B) develop and execute a plan for the transfer of technology from ongoing research described in section 3205 of this title into the program under this section; and
 
-&emsp;&emsp;(C) ensure that maintaining operational tsunami detection equipment is the highest priority within the program carried out under this chapter.
+&emsp;&emsp;(C) ensure that maintaining operational tsunami detection equipment is the highestpriority within the program carried out under this chapter.
 
 #### (2) Report to Congress
 

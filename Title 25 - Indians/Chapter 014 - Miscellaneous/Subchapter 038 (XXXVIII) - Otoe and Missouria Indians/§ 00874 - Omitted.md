@@ -1,0 +1,6 @@
+### §874. Omitted
+
+#### Codification
+
+Section, Pub. L. 85–395, §4, May 9, 1958, 72 Stat. 106, which provided for costs incurred in the preparation of the tribal roll and in the payment of per capita shares to be paid from the judgment fund, was omitted from the Code as being of special and not general application.
+

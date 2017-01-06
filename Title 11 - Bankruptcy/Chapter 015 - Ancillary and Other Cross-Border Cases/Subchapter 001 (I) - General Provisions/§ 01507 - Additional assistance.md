@@ -2,7 +2,7 @@
 
 (a) Subject to the specific limitations stated elsewhere in this chapter the court, if recognition is granted, may provide additional assistance to a foreign representative under this title or under other laws of the United States.
 
-(b) In determining whether to provide additional assistance under this title or under other laws of the United States, the court shall consider whether such additional assistance, consistent with the principles of comity, will reasonably assure—
+(b) In determining whether to provide additional assistance under this title or under otherlaws of the United States, the court shall consider whether such additional assistance, consistent with the principles of comity, will reasonably assure—
 
 &emsp;(1) just treatment of all holders of claims against or interests in the debtor's property;
 
@@ -15,4 +15,8 @@
 &emsp;(5) if appropriate, the provision of an opportunity for a fresh start for the individual that such foreign proceeding concerns.
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 136.)
+
+#### Effective Date
+
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 

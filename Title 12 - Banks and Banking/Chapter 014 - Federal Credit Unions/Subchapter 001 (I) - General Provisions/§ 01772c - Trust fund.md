@@ -1,6 +1,6 @@
 ### §1772c. Trust fund
 
-Notwithstanding any other provision of law, all moneys of the Board shall be treated as trust funds for the purpose of section 906(a)(2) <sup>1</sup> of title 2. This section is effective for fiscal year 1986 and every fiscal year thereafter.
+Notwithstanding any other provision of law, all moneys of the Board shall be treated as trust funds for the purpose of section 906(a)(2) <sup>1</sup> of title2. This section is effective for fiscal year 1986 and every fiscal year thereafter.
 
 (June 26, 1934, ch. 750, title I, §129, as added Pub. L. 100–86, title VII, §708, Aug. 10, 1987, 101 Stat. 653.)
 

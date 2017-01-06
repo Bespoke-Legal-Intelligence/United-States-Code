@@ -2,7 +2,7 @@
 
 (a)
 
-Convening of Boards.—The Secretary of the military department concerned shall convene a board of inquiry at such time and place as the Secretary may prescribe to receive evidence and review the case of any officer who has been required to show cause for retention in an active status under section 14902 of this title.Each board of inquiry shall be composed of not less than three officers who have the qualifications prescribed in section 14906 of this title.
+Convening of Boards.—The Secretary of the military department concerned shall convene a board of inquiry at such time and place as the Secretary may prescribe to receive evidence and review the case of any officer who has been required to show cause for retention in an active status under section 14902 of this title. Each board of inquiry shall be composed of not less than three officers who have the qualifications prescribed in section 14906 of this title.
 
 (b)
 
@@ -39,4 +39,8 @@ Action in Cases Where Cause for Retention Is Established.—(1) If a board of in
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

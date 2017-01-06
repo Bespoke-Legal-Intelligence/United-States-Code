@@ -34,7 +34,7 @@ Meetings.—The board shall meet at the call of the Librarian or the chair at le
 
 (f)
 
-Compensation and Reimbursement.—Directors serve without compensation but may be reimbursed for actual and necessary travel and subsistence expenses incurred in performing duties for the corporation.
+Compensation and Reimbursement.—Directors serve without compensation but may be reimbursed for actual and necessary travel andsubsistence expenses incurred in performing duties for the corporation.
 
 (g)
 

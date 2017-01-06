@@ -8,7 +8,7 @@ It is unlawful for any person who is a United States citizen, or a foreign natio
 
 &emsp;(3) to refuse to permit any Federal officer or employee authorized to monitor or enforce the provisions of this chapter, as provided in sections 1424 and 1464 of this title, to board a vessel documented or numbered under the laws of the United States, or any vessel for which such boarding is authorized by a treaty or executive agreement, for purposes of conducting any search or inspection in connection with the monitoring or enforcement of this chapter or any regulation, term, condition, or restriction referred to in paragraph (1);
 
-&emsp;(4) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any suchauthorized officer or employee in the conduct of any search or inspection described in paragraph (3);
+&emsp;(4) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer or employee in the conduct of any search or inspection described in paragraph (3);
 
 &emsp;(5) to resist a lawful arrest for any act prohibited by this section;
 

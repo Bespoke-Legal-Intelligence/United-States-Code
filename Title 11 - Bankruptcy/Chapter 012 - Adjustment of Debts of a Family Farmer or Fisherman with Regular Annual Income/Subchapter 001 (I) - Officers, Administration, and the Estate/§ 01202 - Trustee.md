@@ -56,7 +56,7 @@
 
 #### References in Text
 
-Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections664 and 666, respectively, of Title 42, The Public Health and Welfare.
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Codification
 
@@ -104,9 +104,11 @@ Subsec. (c). Pub. L. 109–8, §219(c)(2), added subsec. (c).
 
 Amendment by section 219(c) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
-#### Effective Date
+#### Effective Dates
 
-Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out as an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
+
+Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Effective date and applicability of amendment by section 227 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554.
 
@@ -118,5 +120,5 @@ Until the amendments made by subtitle A (§§201 to 231) of title II of Pub. L. 
 
 &emsp;(2) any reference to section 586(b) of Title 28, Judiciary and Judicial Procedure, is deemed to be a reference to subsec. (c) of this section,
 
-> see section 302(c)(3)(B), (d), (e) of Pub. L. 99–554, set out as an Effective Date note under section 581 of Title 28.
+> see section 302(c)(3)(B), (d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28.
 

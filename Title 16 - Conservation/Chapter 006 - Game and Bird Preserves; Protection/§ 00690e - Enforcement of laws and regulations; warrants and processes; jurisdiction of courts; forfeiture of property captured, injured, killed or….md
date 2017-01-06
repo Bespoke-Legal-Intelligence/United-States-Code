@@ -2,7 +2,7 @@
 
 #### (a) Arrests and warrants
 
-Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of sections 690 to 690i of this title (1) shall have power, without warrant, to arrest any person committing in thepresence of such employee a violation of sections 690 to 690i of this title or of any regulation made pursuant thereto, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, and (2) shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of said sections or regulations made pursuant thereto. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.
+Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of sections 690 to 690i of this title (1) shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of sections 690 to 690i of this title or of any regulation made pursuant thereto, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, and (2) shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of said sections or regulations made pursuant thereto. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.
 
 #### (b) Seizures and forfeitures
 
@@ -20,7 +20,7 @@ Section 690i, included within the reference to sections 690 to 690i, was omitted
 
 #### Change of Name
 
-"United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Transfer of Functions
 

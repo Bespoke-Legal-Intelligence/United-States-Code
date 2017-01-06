@@ -12,7 +12,7 @@ The Office shall have a Director who shall be appointed by the President, by and
 
 The Secretary, acting through the Office, shall—
 
-&emsp;(1) administer the programs for controlling surface coal mining operations which are required by this chapter; review and approve or disapprove State programs for controlling surface coal mining operations and reclaiming abandoned mined lands; make those investigations and inspections necessary to insure compliance with this chapter; conduct hearings, administer oaths, issue subpenas, and compel the attendance of witnesses and production of written or printed material as provided for inthis chapter; issue cease-and-desist orders; review and vacate or modify or approve orders and decisions; and order the suspension, revocation, or withholding of any permit for failure to comply with any of the provisions of this chapter or any rules and regulations adopted pursuant thereto;
+&emsp;(1) administer the programs for controlling surface coal mining operations which are required by this chapter; review and approve or disapprove State programs for controlling surface coal mining operations and reclaiming abandoned mined lands; make those investigations and inspections necessary to insure compliance with this chapter; conduct hearings, administer oaths, issue subpenas, and compel the attendance of witnesses and production of written or printed material as provided for in this chapter; issue cease-and-desist orders; review and vacate or modify or approve orders and decisions; and order the suspension, revocation, or withholding of any permit for failure to comply with any of the provisions of this chapter or any rules and regulations adopted pursuant thereto;
 
 &emsp;(2) publish and promulgate such rules and regulations as may be necessary to carry out the purposes and provisions of this chapter;
 
@@ -58,7 +58,7 @@ No employee of the Office or any other Federal employee performing any function 
 
 (4) Within ninety days after filing of a petition described in paragraph (1), the Director shall either grant or deny the petition. If the Director grants such petition, the Director shall promptly commence an appropriate proceeding in accordance with the provisions of this chapter. If the Director denies such petition, the Director shall so notify the petitioner in writing setting forth the reasons for such denial.
 
-(Pub. L. 95–87, title II, §201, Aug. 3, 1977, 91 Stat. 449; Pub. L. 95–240, title I, §100, Mar. 7, 1978, 92 Stat. 109; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826.)
+(Pub. L. 95–87, title II, §201, Aug. 3, 1977, 91 Stat. 449; Pub. L. 95–240, title I, §100, Mar. 7, 1978, 92Stat. 109; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826.)
 
 #### References in Text
 

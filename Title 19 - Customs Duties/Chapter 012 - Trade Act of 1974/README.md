@@ -114,6 +114,7 @@
 | [2252\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20001%20-%20Positive%20Adjustment%20by%20Industries%20Injured%20by%20Imports/%C2%A7%2002252%20-%20Investigations%2C%20determinations%2C%20and%20recommendations%20by%20Commission.md) | Investigations, determinations, and recommendations by Commission. |
 | [2253\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20001%20-%20Positive%20Adjustment%20by%20Industries%20Injured%20by%20Imports/%C2%A7%2002253%20-%20Action%20by%20President%20after%20determination%20of%20import%20injury.md) | Action by President after determination of import injury. |
 | [2254\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20001%20-%20Positive%20Adjustment%20by%20Industries%20Injured%20by%20Imports/%C2%A7%2002254%20-%20Monitoring%2C%20modification%2C%20and%20termination%20of%20action.md) | Monitoring, modification, and termination of action. |
+| [2255\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20001%20-%20Positive%20Adjustment%20by%20Industries%20Injured%20by%20Imports/%C2%A7%2002255%20-%20Trade%20monitoring.md) | Trade monitoring. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -261,7 +262,7 @@
 | [2417\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20of%20United%20States%20Rights%20under%20Trade%20Agreements%20and%20Response%20to%20Certain%20Foreign%20Trade%20Practices/%C2%A7%2002417%20-%20Modification%20and%20termination%20of%20actions.md) | Modification and termination of actions. |
 | [2418\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20of%20United%20States%20Rights%20under%20Trade%20Agreements%20and%20Response%20to%20Certain%20Foreign%20Trade%20Practices/%C2%A7%2002418%20-%20Request%20for%20information.md) | Request for information. |
 | [2419\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20of%20United%20States%20Rights%20under%20Trade%20Agreements%20and%20Response%20to%20Certain%20Foreign%20Trade%20Practices/%C2%A7%2002419%20-%20Administration.md) | Administration. |
-| [2420\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20of%20United%20States%20Rights%20under%20Trade%20Agreements%20and%20Response%20to%20Certain%20Foreign%20Trade%20Practices/%C2%A7%2002420%20-%20Identification%20of%20trade%20expansion%20priorities.md) | Identification of trade expansion priorities. |
+| [2420\.](Subchapter%20003%20%28III%29%20-%20Enforcement%20of%20United%20States%20Rights%20under%20Trade%20Agreements%20and%20Response%20to%20Certain%20Foreign%20Trade%20Practices/%C2%A7%2002420%20-%20Trade%20enforcement%20priorities.md) | Trade enforcement priorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

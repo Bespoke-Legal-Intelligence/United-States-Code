@@ -64,7 +64,7 @@ Subsecs. (b), (c)(1) to (3). Pub. L. 104–204, §603(b)(3)(I)–(L), made techn
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning onand after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as a note under section 1003 of this title.
 
 #### Effective Date
 

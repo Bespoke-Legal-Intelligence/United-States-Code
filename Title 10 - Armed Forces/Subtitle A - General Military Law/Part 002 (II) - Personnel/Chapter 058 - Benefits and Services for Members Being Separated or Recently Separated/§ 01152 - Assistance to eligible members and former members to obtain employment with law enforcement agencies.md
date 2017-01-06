@@ -18,7 +18,7 @@ Selection.—In the selection of applicants for participation in a program cover
 
 (d)
 
-Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
+Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary ofHomeland Security with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
 
 (2) No grant with respect to an eligible member or former member may exceed a total of $50,000.
 
@@ -28,7 +28,7 @@ Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secreta
 
 (e)
 
-Administrative Expenses.—Ten percent of the amount, if any, appropriated for a fiscalyear to carry out the program established pursuant to subsection (a) may be used to administer the program.
+Administrative Expenses.—Ten percent of the amount, if any, appropriated for a fiscal year to carry out the program established pursuant to subsection (a) may be used to administer the program.
 
 (f)
 

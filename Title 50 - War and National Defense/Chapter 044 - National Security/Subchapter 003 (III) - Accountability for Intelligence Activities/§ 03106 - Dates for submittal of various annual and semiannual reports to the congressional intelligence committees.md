@@ -16,7 +16,7 @@ The date for the submittal to the congressional intelligence committees of the f
 
 #### (b) Semiannual reports
 
-The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2) of this section:
+The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2):
 
 &emsp;(1) The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
 
@@ -26,17 +26,17 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 #### (c) Submittal dates for reports
 
-(1) Except as provided in subsection (d) of this section, each annual report listed in subsection (a) of this section shall be submitted not later than February 1.
+(1) Except as provided in subsection (d), each annual report listed in subsection (a) shall be submitted not later than February 1.
 
-(2) Except as provided in subsection (d) of this section, each semiannual report listed in subsection (b) of this section shall be submitted not later than February 1 and August 1.
+(2) Except as provided in subsection (d), each semiannual report listed in subsection (b) shall be submitted not later than February 1 and August 1.
 
 #### (d) Postponement of submittal
 
 (1) Subject to paragraph (3), the date for the submittal of—
 
-&emsp;(A) an annual report listed in subsection (a) of this section may be postponed until March 1; and
+&emsp;(A) an annual report listed in subsection (a) may be postponed until March 1; and
 
-&emsp;(B) a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
+&emsp;(B) a semiannual report listed in subsection (b) may be postponed until March 1 or September 1, as the case may be,
 
 > if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
 
@@ -66,15 +66,15 @@ Section was formerly classified to section 415b of this title prior to editorial
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5)which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
+<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
 
 Subsec. (c)(1). Pub. L. 114–113, §701(c)(3), substituted "subsection (a)" for "subsection (a)(1)".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
 
-Subsec. (c)(1). Pub. L. 113–126, §329(c)(3)(B), struck out subpar. (A) designation before "Except" and struck out subpar. (B) which read as follows: "Except as provided in subsection (d) of this section, the annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1."
+Subsec. (c)(1). Pub. L. 113–126, §329(c)(3)(B), struck out subpar. (A) designation before "Except" and struck out subpar. (B) which read as follows: "Except as provided in subsection (d), the annual report listed in subsection (a)(2) shall be submitted not later than December 1."
 
-Subsec. (d)(1). Pub. L. 113–126, §329(c)(3)(C), in subpar. (A), substituted "subsection (a)" for "subsection (a)(1)" and inserted "and" after "March 1;", redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "the annual report listed in subsection (a)(2) of this section may be postponed until January 1; and".
+Subsec. (d)(1). Pub. L. 113–126, §329(c)(3)(C), in subpar. (A), substituted "subsection (a)" for "subsection (a)(1)" and inserted "and" after "March 1;", redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "the annual report listed in subsection (a)(2) may be postponed until January 1; and".
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–277, §310(b)(1)(A)(i)(I), (II), redesignated subpars. (B), (E), (F), (G), (H), and (I) as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
 
@@ -86,7 +86,7 @@ Subsec. (d)(1). Pub. L. 113–126, §329(c)(3)(C), in subpar. (A), substituted "
 
 Subsec. (a)(1)(D). Pub. L. 112–277, §310(b)(1)(A)(i)(III), substituted "section 404i(a)" for "section 404i(c)".
 
-Subsec. (a)(2). Pub. L. 112–277, §310(b)(1)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B) of this section:
+Subsec. (a)(2). Pub. L. 112–277, §310(b)(1)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B):
 
 &emsp;"(A) The annual report on the safety and security of Russian nuclear facilities and nuclear military forces required by section 404i(a) of this title.
 
@@ -196,7 +196,7 @@ Pub. L. 107–108, title V, §505, Dec. 28, 2001, 115 Stat. 1406.
 
 #### Deadline for Submittal of Various Overdue Reports
 
-Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director's Office would be reduced by 1/3.
+Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out thefunctions and duties of the Director's Office would be reduced by 1/3.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "General".</i>
 

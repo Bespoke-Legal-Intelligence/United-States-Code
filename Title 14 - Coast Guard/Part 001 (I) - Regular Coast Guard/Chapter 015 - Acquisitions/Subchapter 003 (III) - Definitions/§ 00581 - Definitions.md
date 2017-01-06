@@ -12,9 +12,13 @@ Chief acquisition officer.—The term "Chief Acquisition Officer" means the offi
 
 &emsp;(3)
 
-Commandant.—The term "Commandant" means the Commandant of the Coast Guard.
+Customer of a major acquisition program.—The term "customer of a major acquisition program" means the operating field unit of the Coast Guard that will field the system or systems acquired under a major acquisition program.
 
 &emsp;(4)
+
+Commandant.—The term "Commandant" means the Commandant of the Coast Guard.
+
+&emsp;(5)
 
 Level 1 acquisition.—The term "Level 1 acquisition" means—
 
@@ -38,19 +42,23 @@ Level 1 acquisition.—The term "Level 1 acquisition" means—
 
 &emsp;&emsp;&emsp;(ii) because such acquisition is a joint acquisition.
 
-&emsp;(5)
+&emsp;(6)
 
 Level 2 acquisition.—The term "Level 2 acquisition" means an acquisition by the Coast Guard—
 
 &emsp;&emsp;(A) the estimated life-cycle costs of which are equal to or less than $1,000,000,000, but greater than $300,000,000; or
 
-&emsp;&emsp;(B) the estimated total acquisition costs of which are equal to or less than $300,000,0000, <sup>1</sup> but greater than $100,000,000.
+&emsp;&emsp;(B) the estimated total acquisition costs of which are equal to or less than $300,000,000, but greater than $100,000,000.
 
-&emsp;(6)
+&emsp;(7)
 
 Life-cycle cost.—The term "life-cycle cost" means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.
 
-&emsp;(7)
+&emsp;(8)
+
+Major acquisition program.—The term "major acquisition program" means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+
+&emsp;(9)
 
 Project or program manager defined.—The term "project or program manager" means an individual designated—
 
@@ -58,11 +66,11 @@ Project or program manager defined.—The term "project or program manager" mean
 
 &emsp;&emsp;(B) to manage cost, schedule, and performance of the acquisition, project, or program.
 
-&emsp;(8)
+&emsp;(10)
 
 Safety concern.—The term "safety concern" means any hazard associated with a capability or asset or a subsystem of a capability or asset that is likely to cause serious bodily injury or death to a typical Coast Guard user in testing, maintaining, repairing, or operating the capability, asset, or subsystem or any hazard associated with the capability, asset, or subsystem that is likely to cause major damage to the capability, asset, or subsystem during the course of its normal operation by a typical Coast Guard user.
 
-&emsp;(9)
+&emsp;(11)
 
 Developmental test and evaluation.—The term "developmental test and evaluation" means—
 
@@ -70,15 +78,27 @@ Developmental test and evaluation.—The term "developmental test and evaluation
 
 &emsp;&emsp;(B) the evaluation of the results of such testing.
 
-&emsp;(10)
+&emsp;(12)
 
 Operational test and evaluation.—The term "operational test and evaluation" means—
 
-&emsp;&emsp;(A) the testing of a capability or asset and the subsystems of the capability or asset, under conditions similar to those in which the capability or asset and subsystems will actually be deployed, for the purpose of determining the effectiveness and suitabilityof the capability or asset and subsystems for use by typical Coast Guard users to conduct those missions for which the capability or asset and subsystems are intended to be used; and
+&emsp;&emsp;(A) the testing of a capability or asset and the subsystems of the capability or asset, under conditions similar to those in which the capability or asset and subsystems will actually be deployed, for the purpose of determining the effectiveness and suitability of the capability or asset and subsystems for use by typical Coast Guard users to conduct those missions for which the capability or asset and subsystems are intended to be used; and
 
 &emsp;&emsp;(B) the evaluation of the results of such testing.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2948.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2948; amended Pub. L. 114–120, title II, §209(8), Feb. 8, 2016, 130 Stat. 41; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(F), Dec. 23, 2016, 130 Stat. 2334.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+<b>2016</b>—Par. (3). Pub. L. 114–328, §899(b)(1)(F)(ii), added par. (3). Former par. (3) redesignated (4).
+
+Pars. (4), (5). Pub. L. 114–328, §899(b)(1)(F)(i), redesignated pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Par. (5)(B). Pub. L. 114–120 substituted "$300,000,000," for "$300,000,0000,".
+
+Pars. (6), (7). Pub. L. 114–328, §899(b)(1)(F)(i), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (9).
+
+Par. (8). Pub. L. 114–328, §899(b)(1)(F)(iii), added par. (8). Former par. (8) redesignated (10).
+
+Pars. (9) to (12). Pub. L. 114–328, §899(b)(1)(F)(i), redesignated pars. (7) to (10) as (9) to (12), respectively.
 

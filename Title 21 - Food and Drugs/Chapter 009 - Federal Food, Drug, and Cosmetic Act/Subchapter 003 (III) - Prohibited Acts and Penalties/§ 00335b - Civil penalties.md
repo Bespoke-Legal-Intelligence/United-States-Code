@@ -4,11 +4,11 @@
 
 Any person that the Secretary finds—
 
-&emsp;(1) knowingly made or caused to be made, to any officer, employee, or agent of the Department of Health and Human Services, a false statement or misrepresentation of a material fact in connection with an abbreviated drug application,
+&emsp;(1) knowingly made or caused to be made, to any officer, employee, or agent of the Department of Health and Human Services, a false statement or misrepresentation of a materialfact in connection with an abbreviated drug application,
 
 &emsp;(2) bribed or attempted to bribe or paid or attempted to pay an illegal gratuity to any officer, employee, or agent of the Department of Health and Human Services in connection with an abbreviated drug application,
 
-&emsp;(3) destroyed, altered, removed, or secreted, or procured the destruction, alteration, removal, or secretion of, any material document or other material evidence which was the property of or in the possession of the Department of Health and Human Services for thepurpose of interfering with that Department's discharge of its responsibilities in connection with an abbreviated drug application,
+&emsp;(3) destroyed, altered, removed, or secreted, or procured the destruction, alteration, removal, or secretion of, any material document or other material evidence which was the property of or in the possession of the Department of Health and Human Services for the purpose of interfering with that Department's discharge of its responsibilities in connection with an abbreviated drug application,
 
 &emsp;(4) knowingly failed to disclose, to an officer or employee of the Department of Health and Human Services, a material fact which such person had an obligation to disclose relating to any drug subject to an abbreviated drug application,
 
@@ -32,11 +32,11 @@ Any person that the Secretary finds—
 
 #### (A) Action by the Secretary
 
-&emsp;&emsp;A civil penalty under subsection (a) of this section shall be assessed by the Secretary on a person by an order made on the record after an opportunity for an agency hearing on disputed issues of material fact and the amount of the penalty. In the course of any investigation or hearing under this subparagraph, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+&emsp;&emsp;A civil penalty under subsection (a) shall be assessed by the Secretary on a person by an order made on the record after an opportunity for an agency hearing on disputed issues of material fact and the amount of the penalty. In the course of any investigation or hearing under this subparagraph, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
 #### (B) Action by the Attorney General
 
-&emsp;&emsp;In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a) of this section. Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
+&emsp;&emsp;In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a). Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
 
 #### (2) Amount
 
@@ -46,21 +46,21 @@ Any person that the Secretary finds—
 
 &emsp;No action may be initiated under this section—
 
-&emsp;&emsp;(A) with respect to any act described in subsection (a) of this section that occurred before May 13, 1992, or
+&emsp;&emsp;(A) with respect to any act described in subsection (a) that occurred before May 13, 1992, or
 
 &emsp;&emsp;(B) more than 6 years after the date when facts material to the act are known or reasonably should have been known by the Secretary but in no event more than 10 years after the date the act took place.
 
 #### (c) Judicial review
 
-Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+Any person that is the subject of an adverse decision under subsection (b)(1)(A) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (d) Recovery of penalties
 
-The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) of this section in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
+The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
 
 #### (e) Informants
 
-The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a) of this section) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
+The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a)) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
 
 &emsp;(1) $250,000, or
 
@@ -80,5 +80,5 @@ A prior section 307 of act June 25, 1938, was renumbered section 310 and is clas
 
 #### Construction
 
-This section not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L.102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
+This section not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
 

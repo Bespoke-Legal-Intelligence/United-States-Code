@@ -2,7 +2,7 @@
 
 #### (a) Indian tribes or tribal consortia
 
-From the amount reserved pursuant to section 629f(b)(3) of this title for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, asdetermined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+From the amount reserved pursuant to section 629f(b)(3) of this title for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (b) Territories
 
@@ -22,7 +22,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (B) Fiscal years used in calculation
 
-&emsp;&emsp;For purposes of the calculation pursuant to subparagraph (A), the Secretary shall use data for the 3 most recent fiscal years, preceding the fiscal year for which the State's allotment is calculated under this subsection, for which such data are available to the Secretary.
+&emsp;&emsp;For purposes of the calculation pursuant to subparagraph (A), the Secretary shall usedata for the 3 most recent fiscal years, preceding the fiscal year for which the State's allotment is calculated under this subsection, for which such data are available to the Secretary.
 
 #### (d) Reallotments
 
@@ -90,7 +90,7 @@ Amendment by section 4002(b)(1)(B), (D), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and withdelay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 2002 Amendment
 

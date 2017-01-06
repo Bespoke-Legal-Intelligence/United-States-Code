@@ -1,0 +1,6 @@
+### §747. Omitted
+
+#### Codification
+
+Section, act Sept. 1, 1954, ch. 1207, §7, 68 Stat. 1102, which related to property of deceased members, was omitted from the Code as being of special and not general application.
+

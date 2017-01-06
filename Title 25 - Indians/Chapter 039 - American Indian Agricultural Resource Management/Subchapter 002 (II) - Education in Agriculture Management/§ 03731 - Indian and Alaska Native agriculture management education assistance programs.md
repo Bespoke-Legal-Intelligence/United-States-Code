@@ -34,7 +34,7 @@
 
 &emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shallimplement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) the Bureau or other agency of the Federal Government providing agriculture or natural resource related services to Indians or Indian tribes;
 
-&emsp;(B) an agriculture or related program conducted under a contract, grant, or cooperative agreement entered into under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; or
+&emsp;(B) an agriculture or related program conducted under a contract, grant, or cooperative agreement entered into under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]; or
 
 &emsp;(C) a tribal agriculture or related program.
 
@@ -72,7 +72,7 @@ The Secretary shall administer the programs described in this section until a su
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Haskell Indian Nations University and Southwestern Indian Polytechnic Institute Administrative Systems
 
@@ -128,7 +128,7 @@ Applicability.—This Act applies to—
 
 "(a)
 
-In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited byany lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
+In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited by any lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
 
 &emsp;"(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 

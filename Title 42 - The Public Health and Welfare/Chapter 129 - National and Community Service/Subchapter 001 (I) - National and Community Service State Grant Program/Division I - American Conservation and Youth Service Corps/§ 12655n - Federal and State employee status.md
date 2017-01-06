@@ -20,7 +20,7 @@ Participants and crew leaders shall be responsible to, or be the responsibility 
 
 #### (3) Tort claims procedure
 
-&emsp;For purposes of chapter 171 of title 28, relating to tort claims procedure, a participant or crew leaders assigned to a youth corps program for which a grant has been made to the Secretary of Agriculture, Secretary of the Interior, or the Director of ACTION, shall be considered an employee of the United States within the meaning of the term "employee of the government" as defined in section 2671 of such title.
+&emsp;For purposes of chapter 171 of title 28, relating to tort claims procedure, a participant orcrew leaders assigned to a youth corps program for which a grant has been made to the Secretary of Agriculture, Secretary of the Interior, or the Director of ACTION, shall be considered an employee of the United States within the meaning of the term "employee of the government" as defined in section 2671 of such title.
 
 #### (4) Allowance for quarters
 

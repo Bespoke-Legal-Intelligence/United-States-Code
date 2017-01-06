@@ -4,7 +4,7 @@
 
 #### (1) Retention by program
 
-&emsp;Except as provided in sections 1621a(a)(2) and 1680c of this title, all reimbursements receivedor recovered under any of the programs described in paragraph (2), including under section 1680c of this title, by reason of the provision of health services by the Service, by an Indian tribe or tribal organization, or by an urban Indian organization, shall be credited to the Service, such Indian tribe or tribal organization, or such urban Indian organization, respectively, and may be used as provided in section 1641 of this title. In the case of such a service provided by or through a Service Unit, such amounts shall be credited to such unit and used for such purposes.
+&emsp;Except as provided in sections 1621a(a)(2) and 1680c of this title, all reimbursements received or recovered under any of the programs described in paragraph (2), including under section 1680c of this title, by reason of the provision of health services by the Service, by an Indian tribe or tribal organization, or by an urban Indian organization, shall be credited to the Service, such Indian tribe or tribal organization, or such urban Indian organization, respectively, and may be used as provided in section 1641 of this title. In the case of such a service provided by or through a Service Unit, such amounts shall be credited to such unit and used for such purposes.
 
 #### (2) Programs covered
 
@@ -20,7 +20,7 @@
 
 #### (b) No offset of amounts
 
-The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
+The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because ofthe receipt of reimbursements under subsection (a).
 
 (Pub. L. 94–437, title II, §207, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, §701(c)(1), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

@@ -14,7 +14,7 @@ From amounts made available for each fiscal year under subsection <sup>1</sup> 
 
 &emsp;&emsp;(A) $3,000,000, except for a fiscal year for which the amounts available are insufficient to allocate such amount to each State, the Secretary shall ratably reduce such amount for each State; and
 
-&emsp;&emsp;(B) with respect to any amounts remaining after the allocation under subparagraph (A),an amount that bears the same relationship to such total remaining amounts as the number of students aged 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;&emsp;(B) with respect to any amounts remaining after the allocation under subparagraph (A), an amount that bears the same relationship to such total remaining amounts as the number of students aged 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 #### (b) Amounts above trigger amount
 
@@ -52,7 +52,7 @@ In making funds available to States under this part, the Secretary shall comply 
 
 A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1543; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 113–128, title V, §512(i)(1), July 22, 2014, 128 Stat. 1708, related to applications for State formula grants, prior to the general amendment of this part by Pub. L. 114–95.
 
-Another prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Another prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to StateEven Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1203 of Pub. L. 89–10 was classified to section 2783 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 

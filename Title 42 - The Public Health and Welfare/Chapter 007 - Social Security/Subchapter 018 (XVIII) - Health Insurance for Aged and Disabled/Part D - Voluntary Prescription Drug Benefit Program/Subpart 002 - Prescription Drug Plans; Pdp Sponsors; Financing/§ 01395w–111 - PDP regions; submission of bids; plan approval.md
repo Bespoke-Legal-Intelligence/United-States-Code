@@ -62,7 +62,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Whether the PDP sponsor requires a modification of risk level under clause (ii)and, if so, the extent of such modification. Any such modification shall apply with respect to all prescription drug plans offered by a PDP sponsor in a PDP region. This subparagraph shall not apply to an MA–PD plan.
+&emsp;&emsp;&emsp;Whether the PDP sponsor requires a modification of risk level under clause (ii) and, if so, the extent of such modification. Any such modification shall apply with respect to all prescription drug plans offered by a PDP sponsor in a PDP region. This subparagraph shall not apply to an MA–PD plan.
 
 #### (ii) Risk levels described
 
@@ -122,11 +122,11 @@
 
 #### (1) Review of information
 
-&emsp;The Secretary shall review the information filed under subsection (b) of this section for the purpose of conducting negotiations under paragraph (2).
+&emsp;The Secretary shall review the information filed under subsection (b) for the purpose of conducting negotiations under paragraph (2).
 
 #### (2) Negotiation regarding terms and conditions
 
-&emsp;Subject to subsection (i) of this section, in exercising the authority under paragraph (1), the Secretary—
+&emsp;Subject to subsection (i), in exercising the authority under paragraph (1), the Secretary—
 
 &emsp;&emsp;(A) has the authority to negotiate the terms and conditions of the proposed bid submitted and other terms and conditions of a proposed plan; and
 
@@ -140,7 +140,7 @@
 
 #### (1) In general
 
-&emsp;After review and negotiation under subsection (d) of this section, the Secretary shall approve or disapprove the prescription drug plan.
+&emsp;After review and negotiation under subsection (d), the Secretary shall approve or disapprove the prescription drug plan.
 
 #### (2) Requirements for approval
 
@@ -152,17 +152,17 @@
 
 #### (B) Actuarial determinations
 
-&emsp;&emsp;The Secretary determines that the plan and PDP sponsor meet the requirements under this part relating to actuarial determinations, including such requirements under section 1395w–102(c) of this title.
+&emsp;&emsp;The Secretary determines that the plan and PDP sponsor meet the requirementsunder this part relating to actuarial determinations, including such requirements under section 1395w–102(c) of this title.
 
 #### (C) Application of FEHBP standard
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary determines that the portion of the bid submitted under subsection (b) of this section that is attributable to basic prescription drug coverage is supported by the actuarial bases provided under such subsection and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8)(C) of this title) for benefits provided under that plan, less the sum (determined on a monthly per capita basis) of the actuarial value of the reinsurance payments under section 1395w–115(b) of this title.
+&emsp;&emsp;&emsp;The Secretary determines that the portion of the bid submitted under subsection (b) that is attributable to basic prescription drug coverage is supported by the actuarial bases provided under such subsection and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8)(C) of this title) for benefits provided under that plan, less the sum (determined on a monthly per capita basis) of the actuarial value of the reinsurance payments under section 1395w–115(b) of this title.
 
 #### (ii) Supplemental coverage
 
-&emsp;&emsp;&emsp;The Secretary determines that the portion of the bid submitted under subsection (b) of this section that is attributable to supplemental prescription drug coverage pursuant to section 1395w–102(a)(2) of this title is supported by the actuarial bases provided under such subsection and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8)(C) of this title) for such coverage under the plan.
+&emsp;&emsp;&emsp;The Secretary determines that the portion of the bid submitted under subsection (b) that is attributable to supplemental prescription drug coverage pursuant to section 1395w–102(a)(2) of this title is supported by the actuarial bases provided under such subsection and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8)(C) of this title) for such coverage under the plan.
 
 #### (D) Plan design
 
@@ -178,7 +178,7 @@
 
 #### (1) Conditions for approval of limited risk plans
 
-&emsp;The Secretary may only approve a limited risk plan (as defined in paragraph (4)(A)) for a PDP region if the access requirements under section 1395w–103(a) of this title would not be met for the region but for the approval of such a plan (or a fallback prescription drug plan under subsection (g) of this section).
+&emsp;The Secretary may only approve a limited risk plan (as defined in paragraph (4)(A)) for a PDP region if the access requirements under section 1395w–103(a) of this title would not be met for the region but for the approval of such a plan (or a fallback prescription drug plan under subsection (g)).
 
 #### (2) Rules
 
@@ -198,7 +198,7 @@
 
 #### (3) Acceptance of all full risk contracts
 
-&emsp;There shall be no limit on the number of full risk plans that are approved under subsection (e) of this section.
+&emsp;There shall be no limit on the number of full risk plans that are approved under subsection (e).
 
 #### (4) Risk-plans defined
 
@@ -206,7 +206,7 @@
 
 #### (A) Limited risk plan
 
-&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) of this section in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
+&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
 
 #### (B) Full risk plan
 
@@ -218,13 +218,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;Separate from the bidding process under subsection (b) of this section, the Secretary shall provide for a process for the solicitation of bids from eligible fallback entities (as defined in paragraph (2)) for the offering in all fallback service areas (as defined in paragraph (3)) in one or more PDP regions of a fallback prescription drug plan (as defined in paragraph (4)) during the contract period specified in paragraph (5).
+&emsp;&emsp;Separate from the bidding process under subsection (b), the Secretary shall provide for a process for the solicitation of bids from eligible fallback entities (as defined in paragraph (2)) for the offering in all fallback service areas (as defined in paragraph (3)) in one or more PDP regions of a fallback prescription drug plan (as defined in paragraph (4)) during the contract period specified in paragraph (5).
 
 #### (B) Acceptance of bids
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in this subparagraph, the provisions of subsection (e) of this section shall apply with respect to the approval or disapproval of fallback prescription drug plans. The Secretary shall enter into contracts under this subsection with eligible fallback entities for the offering of fallback prescription drug plans so approved in fallback service areas.
+&emsp;&emsp;&emsp;Except as provided in this subparagraph, the provisions of subsection (e) shall apply with respect to the approval or disapproval of fallback prescription drug plans. The Secretary shall enter into contracts under this subsection with eligible fallback entities for the offering of fallback prescription drug plans so approved in fallback service areas.
 
 #### (ii) Limitation of 1 plan for all fallback service areas in a PDP region
 
@@ -232,7 +232,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) ofsection 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used toenter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;(A) meets the requirements to be a PDP sponsor (or would meet such requirements but for the fact that the entity is not a risk-bearing entity); and
 
-&emsp;&emsp;(B) does not submit a bid under subsection (b) of this section for any prescription drug plan for any PDP region for the first year of such contract period.
+&emsp;&emsp;(B) does not submit a bid under subsection (b) for any prescription drug plan for any PDP region for the first year of such contract period.
 
 > &emsp;For purposes of subparagraph (B), an entity shall be treated as submitting a bid with respect to a prescription drug plan if the entity is acting as a subcontractor of a PDP sponsor that is offering such a plan. The previous sentence shall not apply to entities that are subcontractors of an MA organization except insofar as such organization is acting as a PDP sponsor with respect to a prescription drug plan.
 
@@ -320,7 +320,7 @@
 
 #### (h) Annual report on use of limited risk plans and fallback plans
 
-The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g) of this section. The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection <sup>3</sup> (f) of this section.
+The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g). The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection <sup>3</sup> (f).
 
 #### (i) Noninterference
 

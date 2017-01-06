@@ -32,7 +32,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for any fiscal year for which the funds appropriated under section 6603(a) of this title and not reserved under subsection (a) exceed the total amount required to make allotments under paragraph (1), the Secretary shall allot to each State the sum of—
+&emsp;&emsp;Subject to subparagraph (B), for any fiscal year for which the funds appropriated undersection 6603(a) of this title and not reserved under subsection (a) exceed the total amount required to make allotments under paragraph (1), the Secretary shall allot to each State the sum of—
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2017—
 
@@ -50,7 +50,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 25 percent of the excess amount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
-&emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 75 percent of the excess amount as the number of individualsaged 5 through 17 from families with incomes below the poverty line in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
+&emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 75 percent of the excess amount as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
 &emsp;&emsp;&emsp;(iv) for fiscal year 2020—
 
@@ -92,7 +92,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 #### (A) In general
 
-&emsp;&emsp;The State educational agency for a State that receives an allotment under subsection (b) may use funds not reserved under paragraph (1) to carry out 1 or more of the activities described in subparagraph (B), which may be implemented in conjunction with a State agency of higher education (if such agencies are separate) and carried out through a grant or contract with a for-profit or nonprofit entity, including an institution of higher education.
+&emsp;&emsp;The State educational agency for a State that receives an allotment under subsection (b) may use funds not reserved under paragraph (1) to carry out 1 or more of the activities described in subparagraph (B), which may be implemented in conjunction with aState agency of higher education (if such agencies are separate) and carried out through a grant or contract with a for-profit or nonprofit entity, including an institution of higher education.
 
 #### (B) Types of State activities
 
@@ -166,7 +166,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;(xiii) Supporting the instructional services provided by effective school library programs.
 
-&emsp;&emsp;&emsp;(xiv) Developing, or assisting local educational agencies in developing, strategies that provide teachers, principals, or other school leaders with the skills, credentials,or certifications needed to educate all students in postsecondary education coursework through early college high school or dual or concurrent enrollment programs.
+&emsp;&emsp;&emsp;(xiv) Developing, or assisting local educational agencies in developing, strategies that provide teachers, principals, or other school leaders with the skills, credentials, or certifications needed to educate all students in postsecondary education coursework through early college high school or dual or concurrent enrollment programs.
 
 &emsp;&emsp;&emsp;(xv) Providing training for all school personnel, including teachers, principals, other school leaders, specialized instructional support personnel, and paraprofessionals, regarding how to prevent and recognize child sexual abuse.
 
@@ -214,7 +214,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;(K) A description of how the State will use data and ongoing consultation as described in paragraph (3) to continually update and improve the activities supported under this part.
 
-&emsp;&emsp;(L) A description of how the State educational agency will encourage opportunities for increased autonomy and flexibility for teachers, principals, or other school leaders, such as by establishing innovation schools that have a high degree of autonomy over budget and operations, are transparentand accountable to the public, and lead to improved academic outcomes for students.
+&emsp;&emsp;(L) A description of how the State educational agency will encourage opportunities for increased autonomy and flexibility for teachers, principals, or other school leaders, such as by establishing innovation schools that have a high degree of autonomy over budget and operations, are transparent and accountable to the public, and lead to improved academic outcomes for students.
 
 &emsp;&emsp;(M) A description of actions the State may take to improve preparation programs and strengthen support for teachers, principals, or other school leaders based on the needs of the State, as identified by the State educational agency.
 

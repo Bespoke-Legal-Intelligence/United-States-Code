@@ -14,7 +14,7 @@ As used in this chapter:
 
 &emsp;&emsp;(A) an amount that is owing to the United States on account of a direct loan, or loan insured or guaranteed, by the United States; or
 
-&emsp;&emsp;(B) an amount that is owing to the United States on account of a fee, duty, lease, rent, service, sale of real or personal property, overpayment, fine, assessment, penalty, restitution, damages, interest, tax, bail bond forfeiture, reimbursement, recovery of a cost incurred by the United States, or othersource of indebtedness to the United States, but that is not owing under the terms of a contract originally entered into by only persons other than the United States;
+&emsp;&emsp;(B) an amount that is owing to the United States on account of a fee, duty, lease, rent, service, sale of real or personal property, overpayment, fine, assessment, penalty, restitution, damages, interest, tax, bail bond forfeiture, reimbursement, recovery of a cost incurred by the United States, or other source of indebtedness to the United States, but that is not owing under the terms of a contract originally entered into by only persons other than the United States;
 
 > &emsp;and includes any amount owing to the United States for the benefit of an Indian tribe or individual Indian, but excludes any amount to which the United States is entitled under section 3011(a).
 

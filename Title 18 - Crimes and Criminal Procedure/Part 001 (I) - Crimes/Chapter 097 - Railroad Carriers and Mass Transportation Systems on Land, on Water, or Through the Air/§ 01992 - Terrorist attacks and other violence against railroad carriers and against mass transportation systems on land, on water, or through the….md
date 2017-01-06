@@ -8,7 +8,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(2) places any biological agent or toxin, destructive substance, or destructive device in, upon, or near railroad on-track equipment or a mass transportation vehicle with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life;
 
-&emsp;(3) places or releases a hazardous material or a biological agent or toxin on or near any property described in subparagraph (A) or (B) of paragraph (4), with intent to endanger the safety of any person, or with reckless disregard for the safety of human life;
+&emsp;(3) places or releases a hazardous material or a biological agent or toxin on or near anyproperty described in subparagraph (A) or (B) of paragraph (4), with intent to endanger the safety of any person, or with reckless disregard for the safety of human life;
 
 &emsp;(4) sets fire to, undermines, makes unworkable, unusable, or hazardous to work on or use, or places any biological agent or toxin, destructive substance, or destructive device in, upon, or near any—
 
@@ -50,7 +50,7 @@ Aggravated Offense.—Whoever commits an offense under subsection (a) of this se
 
 Circumstances Required for Offense.—A circumstance referred to in subsection (a) is any of the following:
 
-&emsp;(1) Any of the conduct required for the offense is, or, in the case of an attempt, threat,or conspiracy to engage in conduct, the conduct required for the completed offense would be, engaged in, on, against, or affecting a mass transportation provider, or a railroad carrier engaged in interstate or foreign commerce.
+&emsp;(1) Any of the conduct required for the offense is, or, in the case of an attempt, threat, or conspiracy to engage in conduct, the conduct required for the completed offense would be, engaged in, on, against, or affecting a mass transportation provider, or a railroad carrier engaged in interstate or foreign commerce.
 
 &emsp;(2) Any person travels or communicates across a State line in order to commit the offense, or transports materials across a State line in aid of the commission of the offense.
 
@@ -68,7 +68,7 @@ Definitions.—In this section—
 
 &emsp;(5) the term "hazardous material" has the meaning given to that term in chapter 51 of title 49;
 
-&emsp;(6) the term "high-level radioactive waste" has the meaning given to that term in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
+&emsp;(6) the term "high-level radioactive waste" has the meaning given to that term in section2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
 
 &emsp;(7) the term "mass transportation" has the meaning given to that term in section 5302(a)(7) <sup>2</sup> of title 49, except that the term includes intercity bus transportation <sup>3</sup> school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(22) of title 46, United States Code;
 

@@ -28,7 +28,7 @@
 
 For the purpose of selecting eligible applicants to receive grants under section 5651(b) of this title, the Administrator shall consider—
 
-&emsp;(1) the resources that are available to each applicant Indian tribe that will assist, and becoordinated with, the overall juvenile justice system of the Indian tribe; and
+&emsp;(1) the resources that are available to each applicant Indian tribe that will assist, and be coordinated with, the overall juvenile justice system of the Indian tribe; and
 
 &emsp;(2) with respect to each such applicant—
 
@@ -68,7 +68,7 @@ For the purpose of selecting eligible applicants to receive grants under section
 
 #### (d) Reporting requirement
 
-Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of section 450c(f)(1) of title 25, relating to the submission of a single-agency audit report required by chapter 75 of title 31.
+Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of section 5305(f)(1) of title 25, relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 
 #### (e) Matching requirement
 

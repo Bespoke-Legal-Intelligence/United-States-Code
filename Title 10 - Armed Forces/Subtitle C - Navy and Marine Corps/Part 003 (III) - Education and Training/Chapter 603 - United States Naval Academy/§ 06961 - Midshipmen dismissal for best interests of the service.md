@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Apr. 9, 1906, ch. 1370, §1, 34 Stat. 104.
 
-The words "court of inquiry" are substituted for the words "board of inquiry" to conform to the terminology of the Uniform Code of Military Justice. The words "under the rules and regulations for the government of the Navy" are omitted as unnecessary.
+The words "court of inquiry" are substituted for the words "board of inquiry" to conform to the terminology of the Uniform Code of Military Justice. The words"under the rules and regulations for the government of the Navy" are omitted as unnecessary.
 
 #### Delegation of Functions
 

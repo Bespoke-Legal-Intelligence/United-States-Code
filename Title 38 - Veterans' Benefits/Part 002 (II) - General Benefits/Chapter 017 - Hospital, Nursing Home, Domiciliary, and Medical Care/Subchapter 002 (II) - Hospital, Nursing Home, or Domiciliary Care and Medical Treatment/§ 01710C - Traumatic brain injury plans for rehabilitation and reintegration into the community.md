@@ -318,7 +318,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'community-based brain injury rehabilitative care services' means services of a facility in providing room, board, rehabilitation, and personal care for and supervision of residents for their health, safety, and welfare.
 
-&emsp;"(2) The term 'case management services' includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through a contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by an entity other than the Department), monitoring, reassessment, and followup.
+&emsp;"(2) The term 'case management services' includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through a contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by anentity other than the Department), monitoring, reassessment, and followup.
 
 &emsp;"(3) The term 'eligible veteran' means a veteran who—
 

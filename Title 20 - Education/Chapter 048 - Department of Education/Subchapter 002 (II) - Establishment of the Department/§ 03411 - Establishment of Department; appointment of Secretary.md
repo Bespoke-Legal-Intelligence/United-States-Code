@@ -14,7 +14,7 @@ Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the Preside
 
 #### Executive Order No. 12900
 
-Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
+Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiativeon Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
 
 #### Executive Order No. 13230
 
@@ -22,13 +22,15 @@ Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Depar
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanic Americans
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(d), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President's Advisory Commission on Educational Excellence for Hispanic Americans were contained in the following prior Executive Orders:
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13062, §1(d), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
+
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
 #### Ex. Ord. No. 13555. White House Initiative on Educational Excellence for Hispanics
 
@@ -38,7 +40,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. At more than 52 million strong, including 4 million in Puerto Rico, Hispanics constitute the country's largest and fastest growing minority group. They have had a profound and positive impact on our country through, among other things, their community's strong commitment to family, faith, hard work, and service. Many Hispanics contribute to this Nation bilingually in the English and Spanish languages—a true asset for our country in an increasingly global, interdependent world.
 
-Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challengesof crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
+Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
 
 Our country was built on and continues to thrive on its diversity, and there is no doubt that the future of the United States is inextricably linked to the future of the Hispanic community. To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of opportunity for all, we must provide the opportunities that will enable Hispanic students to raise their educational attainment at every level of the American education system. America's future competitiveness in our global economy will be substantially enhanced by improving educational outcomes for Hispanics.
 
@@ -144,9 +146,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanics
 
-Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extension of term of President's Advisory Commission on Educational Excellence for Hispanics was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 #### Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans
 
@@ -248,7 +252,7 @@ The Commission shall meet periodically, but at least twice a year.
 
 (d) <i>Commission Administration</i>. The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
 
-Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Initiative asmay be necessary to carry out the functions of the Initiative, consistent with applicable law.
+Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Initiative as may be necessary to carry out the functions of the Initiative, consistent with applicable law.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -264,9 +268,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for African Americans
 
-Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extension of term of President's Advisory Commission on Educational Excellence for African Americans was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 

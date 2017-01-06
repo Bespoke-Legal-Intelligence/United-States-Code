@@ -36,7 +36,7 @@ Superconductivity research and development activities by Secretary of Defense an
 
 #### Enhanced Transfer of Technology Developed at Department of Defense Laboratories
 
-Pub. L. 113–66, div. A, title VIII, §801, Dec. 26, 2013, 127 Stat. 802, provided that:
+Pub. L. 113–66, div. A, title VIII, §801, Dec. 26, 2013, 127 Stat. 802, as amended by Pub. L. 114–328, div. A, title VIII, §818, Dec. 23, 2016, 130 Stat. 2273, provided that:
 
 "(a)
 
@@ -68,7 +68,7 @@ In general.—The Secretary of Defense and the Secretary of a military departmen
 
 &emsp;"(2)
 
-Protections against unauthorized disclosure.—The Secretary of Defense and the Secretary of a military department each shall provide appropriate precautions against the unauthorized disclosure of any computer software or documentation covered by paragraph (1)(A), including exemption from section552 of title 5, United States Code, for a period of up to 5 years after the development of the computer software by the DOD laboratory.
+Protections against unauthorized disclosure.—The Secretary of Defense and the Secretary of a military department each shall provide appropriate precautions against the unauthorized disclosure of any computer software or documentation covered by paragraph (1)(A), including exemption from section 552 of title 5, United States Code, for a period of up to 5 years after the development of the computer software by the DOD laboratory.
 
 "(c)
 
@@ -114,13 +114,13 @@ Information in Report.—The report required by \[former\] section 2515(d) of ti
 
 "(e)
 
-Expiration.—The authority provided in this section shall expire on December 31, 2017."
+Expiration.—The authority provided in this section shall expire on December 31, 2021."
 
 #### Technology Transfer to Private Sector
 
 Pub. L. 100–180, div. A, title II, §218(c), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
-"(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance with section 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicable provisions of law, and Executive Order Number 12591, dated April 10, 1987 \[set out as a note under 15 U.S.C. 3710\].
+"(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance withsection 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicable provisions of law, and Executive Order Number 12591, dated April 10, 1987 \[set out as a note under 15 U.S.C. 3710\].
 
 "(2) The Secretary of Energy, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that the national laboratories of the Department of Energy participate, to the maximum appropriate extent, in the transfer to the private sector of technology developed under the Department of Defense superconductivity program in the national laboratories."
 

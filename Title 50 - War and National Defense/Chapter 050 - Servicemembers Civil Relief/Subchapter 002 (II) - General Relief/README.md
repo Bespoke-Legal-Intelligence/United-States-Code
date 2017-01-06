@@ -13,3 +13,4 @@
 - [&sect; 03936 - Statute of limitations](%C2%A7%2003936%20-%20Statute%20of%20limitations.md)
 - [&sect; 03937 - Maximum rate of interest on debts incurred before military service](%C2%A7%2003937%20-%20Maximum%20rate%20of%20interest%20on%20debts%20incurred%20before%20military%20service.md)
 - [&sect; 03938 - Child custody protection](%C2%A7%2003938%20-%20Child%20custody%20protection.md)
+- [&sect; 03938a - Annual notice to members of the Armed Forces regarding child custody protections guaranteed by the Servicemembers Civil Relief Act](%C2%A7%2003938a%20-%20Annual%20notice%20to%20members%20of%20the%20Armed%20Forces%20regarding%20child%20custody%20protections%20guaranteed%20by%20the%20Servicemembers%20Civil%20Relief%20Act.md)

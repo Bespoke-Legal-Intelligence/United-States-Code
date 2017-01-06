@@ -8,7 +8,7 @@ The Secretary, acting through the Institute, may make grants to public and nonpr
 
 &emsp;(2) to support projects of a demonstrable value in developing methods for the effective coordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300l <sup>1</sup> of this title, and
 
-&emsp;(3) to provide education and training, which may include additional training to enable treatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
+&emsp;(3) to provide education and training, which may include additional training to enabletreatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
 
 > for the prevention and treatment of alcohol abuse and alcoholism and for the rehabilitation of alcohol abusers and alcoholics.
 
@@ -28,7 +28,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (3) Approval of any application for a grant or contract by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria established by the Secretary that—
 
-&emsp;(A) provides that the projects and programs for which assistance under this section issought will be substantially administered by or under the supervision of the applicant;
+&emsp;(A) provides that the projects and programs for which assistance under this section is sought will be substantially administered by or under the supervision of the applicant;
 
 &emsp;(B) provides for such methods of administration as are necessary for the proper and efficient operation of such programs and projects; and
 
@@ -44,7 +44,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (ii) For purposes of this subparagraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
 
-(6) Each applicant, upon filing its application with the Secretary for a grant or contract to provide prevention or treatment services, shall provide a proposed performance standard or standards to measure, or research protocol to determine, the effectiveness of such services.
+(6) Each applicant, upon filing its application with the Secretary for a grant or contract toprovide prevention or treatment services, shall provide a proposed performance standard or standards to measure, or research protocol to determine, the effectiveness of such services.
 
 (7) Nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, or rehabilitation of drug abuse as well as alcohol abuse and alcoholism.
 

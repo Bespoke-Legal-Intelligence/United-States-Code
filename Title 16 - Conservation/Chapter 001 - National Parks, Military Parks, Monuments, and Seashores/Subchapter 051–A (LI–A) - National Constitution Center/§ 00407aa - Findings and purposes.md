@@ -10,7 +10,7 @@ Congress finds that:
 
 &emsp;(3) bicentennial activities included important educational and instructional programs to heighten public awareness of the Constitution and the democratic process;
 
-&emsp;(4) educational programs for the Constitution should continue after the bicentennial todocument its profound impact on the political, economic and social development of this Nation, and in order to recognize those Americans instrumental in the history of the Constitution; and
+&emsp;(4) educational programs for the Constitution should continue after the bicentennial to document its profound impact on the political, economic and social development of this Nation, and in order to recognize those Americans instrumental in the history of the Constitution; and
 
 &emsp;(5) units of the National Park System preserve and interpret key historic sites that document the history of the origins, subsequent development, and effects of the United States Constitution on this Nation.
 

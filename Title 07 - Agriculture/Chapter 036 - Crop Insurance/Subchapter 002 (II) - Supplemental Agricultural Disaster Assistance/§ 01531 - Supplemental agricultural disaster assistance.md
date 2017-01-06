@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(A) in the case of an eligible producer on a farm that has at least 4 years of production history under the noninsured crop disaster assistance program that are not replacement yields, the noninsured crop disaster assistance program yield without regard to any replacement yields;
 
-&emsp;&emsp;(B) in the case of an eligible producer on a farm that has less than 4 years of production history under the noninsured crop disaster assistance program that are not replacementyields, the noninsured crop disaster assistance program yield as calculated without including the lowest of the replacement yields; and
+&emsp;&emsp;(B) in the case of an eligible producer on a farm that has less than 4 years of production history under the noninsured crop disaster assistance program that are not replacement yields, the noninsured crop disaster assistance program yield as calculated without including the lowest of the replacement yields; and
 
 &emsp;&emsp;(C) in all other cases, the production history of the eligible producer on the farm under the noninsured crop disaster assistance program.
 
@@ -204,7 +204,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) for each insurable commodity on the farm, 115 percent of the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;&emsp;(I) a payment rate for the commodity that is equal to the price election for the commodity elected by the eligible producer;
+&emsp;&emsp;&emsp;&emsp;(I) a payment rate for the commodity that is equal to the price election for thecommodity elected by the eligible producer;
 
 &emsp;&emsp;&emsp;&emsp;(II) the payment acres for the commodity that is equal to the number of acres planted, or prevented from being planted, to the commodity;
 
@@ -276,7 +276,7 @@ In this section:
 
 #### (C) Maximum amount for certain crops
 
-&emsp;&emsp;With respect to a crop for which an eligible producer on a farm receives assistance under the noninsured crop assistance program, the national average market price received during the marketing year shall be an amount not more than 100 percent of the price of the crop established under the noninsured crop assistance program.
+&emsp;&emsp;With respect to a crop for which an eligible producer on a farm receives assistanceunder the noninsured crop assistance program, the national average market price received during the marketing year shall be an amount not more than 100 percent of the price of the crop established under the noninsured crop assistance program.
 
 #### (5) Expected revenue
 
@@ -328,7 +328,7 @@ In this section:
 
 #### (1) Payments
 
-&emsp;The Secretary shall make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverseweather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+&emsp;The Secretary shall make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
 
 #### (2) Payment rates
 
@@ -382,7 +382,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) is an owner, cash or share lessee, or contract grower of covered livestock that provides the pastureland or grazing land, including cash-leased pastureland or grazing land, for the livestock;
 
-&emsp;&emsp;&emsp;&emsp;(II) provides the pastureland or grazing land for covered livestock, including cash-leased pastureland or grazing land that is physically located in a county affected by drought;
+&emsp;&emsp;&emsp;&emsp;(II) provides the pastureland or grazing land for covered livestock, includingcash-leased pastureland or grazing land that is physically located in a county affected by drought;
 
 &emsp;&emsp;&emsp;&emsp;(III) certifies grazing loss; and
 
@@ -430,7 +430,7 @@ In this section:
 
 #### (ii) Partial compensation
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed ofcovered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed of covered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
 
 #### (C) Monthly feed cost
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (I) D2
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. DroughtMonitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
 
 #### (II) D3
 
@@ -548,7 +548,7 @@ In this section:
 
 #### (ii) 2008 calendar year
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year, the Secretary shall take special consideration to provide equitable relief in cases in which the eligible livestock producer failed to meet the requirements of subparagraph (A) due to the enactment of this subchapter after the closing date of sales periods for crop insurance under subchapter I and the noninsured crop assistance program.
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year, the Secretary shall take special consideration to provide equitable relief in cases in which the eligible livestock producer failed to meet the requirements of subparagraph (A) due to the enactment of this subchapter after the closing date of sales periods forcrop insurance under subchapter I and the noninsured crop assistance program.
 
 #### (6) No duplicative payments
 
@@ -676,7 +676,7 @@ In this section:
 
 #### (B) 2009 crop year
 
-&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, theSecretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
+&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
 #### (5) Equitable relief
 
@@ -710,7 +710,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) pay the appropriate fee described in paragraph (4)(A) not later than 90 days after February 17, 2009; and
 
-&emsp;&emsp;&emsp;(ii)(I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under subchapter I (excluding a crop insurance pilot program under that subchapter) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+&emsp;&emsp;&emsp;(ii)(I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under subchapter I (excluding a crop insurancepilot program under that subchapter) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
 &emsp;&emsp;&emsp;(II) in the case of each noninsurable commodity of the eligible producers on the farm, agree to file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the next year for which a policy is available.
 

@@ -10,7 +10,7 @@ General Authority.—If a State authority files an application not later than Se
 
 (b)
 
-Payments.—After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement. For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence.
+Payments.—After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program, except when the Secretary waives this requirement.
 
 (c)
 
@@ -34,7 +34,11 @@ Additional Authority and Considerations.—(1) The Secretary may prescribe—
 
 &emsp;(C) provide for approval of qualifications on a conditional basis until specified requirements are met.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(c), (d), Dec. 29, 2006, 120 Stat. 3489; Pub. L. 112–90, §19, Jan. 3, 2012, 125 Stat. 1916.)
+(e)
+
+Repurposing of Funds.—If a State program's certification is rejected under section 60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(c), (d), Dec. 29, 2006, 120 Stat. 3489; Pub. L. 112–90, §19, Jan. 3, 2012, 125 Stat. 1916; Pub. L. 114–183, §17, June 22, 2016, 130 Stat. 526.)
 
 Historical and Revision Notes
 
@@ -118,7 +122,11 @@ In subsection (d)(2), before clause (A), the words "qualifications prescribed" a
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–90 inserted at end "For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economichardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence."
+<b>2016</b>—Subsec. (b). Pub. L. 114–183, §17(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement. For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence."
+
+Subsec. (e). Pub. L. 114–183, §17(2), added subsec. (e).
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–90 inserted at end "For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence."
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–468, §2(c), substituted "not more than 80 percent" for "not more than 50 percent" in introductory provisions.
 

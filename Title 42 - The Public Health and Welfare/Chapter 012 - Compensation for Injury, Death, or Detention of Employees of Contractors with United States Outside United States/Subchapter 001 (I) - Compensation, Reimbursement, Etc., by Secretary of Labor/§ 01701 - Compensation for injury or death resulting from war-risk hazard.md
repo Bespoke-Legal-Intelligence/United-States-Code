@@ -18,7 +18,7 @@ In case of injury or death resulting from injury—
 
 #### (b) Missing persons considered as totally disabled
 
-(1) Any person specified in subsection (a) of this section who—
+(1) Any person specified in subsection (a) who—
 
 &emsp;(A) is found to be missing from his place of employment, whether or not such person then actually was engaged in the course of his employment, under circumstances supporting an inference that his absence is due to the belligerent action of a hostile force or person, or
 

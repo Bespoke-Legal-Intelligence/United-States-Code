@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) any other representative, officer, employee, or agent of the United States Government, a foreign government, or international organization who at the time and place concerned is entitled pursuant to international law to special protection against attack upon his person, freedom, or dignity, and any member of his family then forming part of his household.
 
-&emsp;(5) "International organization" means a public international organization designatedas such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
+&emsp;(5) "International organization" means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization createdpursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
 
 &emsp;(6) "Official guest" means a citizen or national of a foreign country present in the United States as an official guest of the Government of the United States pursuant to designation as such by the Secretary of State.
 

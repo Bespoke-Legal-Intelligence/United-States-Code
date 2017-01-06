@@ -1,0 +1,6 @@
+### §1234. Omitted
+
+#### Codification
+
+Section, Pub. L. 91–417, §4, Sept. 25, 1970, 84 Stat. 868, which exempted funds distributed under this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+

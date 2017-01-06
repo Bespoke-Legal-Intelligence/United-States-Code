@@ -18,7 +18,7 @@ Provision of Routine Airport Services on Non-Reimbursable Basis.—(1) Routine a
 
 &emsp;(B) if such services are provided under an agreement with the foreign country that provides for the reciprocal furnishing by the foreign country of routine airport services, as defined in that agreement, to military and other state aircraft of the United States without reimbursement.
 
-(2) If routine airport services are provided under this section by a working-capital fund activity of the Air Force under section 2208 of this title and such activity is not reimbursed directly for the costs incurred by the activity inproviding such services by reason of paragraph (1)(B), the working-capital fund activity shall be reimbursed for such costs out of funds currently available to the Air Force for operation and maintenance.
+(2) If routine airport services are provided under this section by a working-capital fund activity of the Air Force under section 2208 of this title and such activity is not reimbursed directly for the costs incurred by the activity in providing such services by reason of paragraph (1)(B), the working-capital fund activity shall be reimbursed for such costs out of funds currently available to the Air Force for operation and maintenance.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 581; Pub. L. 110–181, div. A, title X, §1031(a)(1), Jan. 28, 2008, 122 Stat. 305.)
 

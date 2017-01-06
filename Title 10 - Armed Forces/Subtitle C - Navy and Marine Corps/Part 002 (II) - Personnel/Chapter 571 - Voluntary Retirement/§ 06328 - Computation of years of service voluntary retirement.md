@@ -20,7 +20,7 @@ A prior section 6328, acts Aug. 10, 1956, ch. 1041, 70A Stat. 396; Sept. 24, 198
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–291 substituted "on or after October 28, 2009," for "on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010".
+<b>2014</b>—Subsec. (c). Pub. L. 113–291 substituted "on or after October 28, 2009," for "on or after the date of theenactment of the National Defense Authorization Act for Fiscal Year 2010".
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–84 added subsec. (c).
 

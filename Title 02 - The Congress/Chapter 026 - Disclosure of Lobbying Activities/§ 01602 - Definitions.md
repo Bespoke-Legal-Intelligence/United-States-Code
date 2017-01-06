@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Client
 
-&emsp;The term "client" means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term "client" means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person orentity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
 
-&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelledby statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
 &emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 
@@ -186,7 +186,7 @@ As used in this chapter:
 
 &emsp;&emsp;(C) an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
 
-&emsp;&emsp;(D) an Indian tribe (as defined in section 450b(e) of title 25; <sup>1</sup>
+&emsp;&emsp;(D) an Indian tribe (as defined in section 5304(e) of title 25; <sup>1</sup>
 
 &emsp;&emsp;(E) a national or State political party or any organizational unit thereof; or
 
@@ -206,7 +206,7 @@ Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(
 
 Section 109(13) of the Ethics in Government Act of 1978, referred to in par. (4)(D), is section 109(13) of Pub. L. 95–521, which is set out in the Appendix to Title 5.
 
-The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations andIntercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -231,6 +231,10 @@ Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end ", or a 
 #### Effective Date of 2007 Amendment
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

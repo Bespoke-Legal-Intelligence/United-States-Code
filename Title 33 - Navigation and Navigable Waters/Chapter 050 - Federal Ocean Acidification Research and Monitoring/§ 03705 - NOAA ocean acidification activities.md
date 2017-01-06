@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration to conduct research, monitoring, and other activities consistent with the strategic research and implementation plan developed by the Subcommittee under section 3704 of this title that—
+The Secretary shall establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration toconduct research, monitoring, and other activities consistent with the strategic research and implementation plan developed by the Subcommittee under section 3704 of this title that—
 
 &emsp;(1) includes—
 

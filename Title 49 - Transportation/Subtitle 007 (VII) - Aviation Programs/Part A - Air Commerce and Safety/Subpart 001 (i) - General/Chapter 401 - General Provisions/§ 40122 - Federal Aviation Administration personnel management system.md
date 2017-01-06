@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Consultation and negotiation.—In developing and making changes to the personnel management system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
+Consultation and negotiation.—In developing and making changes to the personnelmanagement system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Annual budget discussions.—The Administration and the exclusive bargaining rep
 
 (b)
 
-Expert Evaluation.—On the date that is 3 years after the personnel management system is implemented, the Administration shall employ outside experts to provide an independent evaluation of the effectiveness of the system within 3 months after such date. For this purpose, the Administrator may utilize the services of experts and consultants under section 3109 of title 5 without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary.
+Expert Evaluation.—On the date that is 3 years after the personnel management system is implemented, the Administration shall employ outside experts to provide an independent evaluation of the effectiveness of the system within 3 months after such date. For this purpose, the Administrator may utilize the services of experts and consultants under section 3109 of title5 without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary.
 
 (c)
 
@@ -120,7 +120,7 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;&emsp;(G) chapters 83–85, 87, and 89, relating to retirement, unemployment compensation, and insurance coverage;
 
-&emsp;&emsp;(H) sections 1204, 1211–1218, 1221, and 7701–7703, relating to the Merit Systems Protection Board; and
+&emsp;&emsp;(H) sections 1204, 1211–1218, 1221, and 7701–7703, relating to the Merit Systems Protection Board;
 
 &emsp;&emsp;(I) subsections (b), (c), and (d) of section 4507 (relating to Meritorious Executive or Distinguished Executive rank awards) and subsections (b) and (c) of section 4507a (relating to Meritorious Senior Professional or Distinguished Senior Professional rank awards), except that—
 
@@ -136,13 +136,19 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;&emsp;&emsp;(ii) receipt by a career appointee or a senior career employee of the rank of Meritorious Executive or Meritorious Senior Professional entitles the individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under the Federal Aviation Administration Executive Compensation Plan; and
 
-&emsp;&emsp;&emsp;(iii) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished Senior Professional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the Federal Aviation Administration Executive Compensation Plan.
+&emsp;&emsp;&emsp;(iii) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished Senior Professional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the Federal Aviation Administration Executive Compensation Plan; and
+
+&emsp;&emsp;(J) subject to paragraph (4) of this subsection, section 6329, relating to disabled veteran leave.
 
 &emsp;(3)
 
-Appeals to merit systems protection board.—Under the new personnel management system developed and implemented under paragraph (1), an employee of the Administration may submit an appeal to the Merit Systems Protection Board and may seek judicialreview of any resulting final orders or decisions of the Board from any action that was appealable to the Board under any law, rule, or regulation as of March 31, 1996. Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.
+Appeals to merit systems protection board.—Under the new personnel management system developed and implemented under paragraph (1), an employee of the Administration may submit an appeal to the Merit Systems Protection Board and may seek judicial review of any resulting final orders or decisions of the Board from any action that was appealable to the Board under any law, rule, or regulation as of March 31, 1996. Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.
 
 &emsp;(4)
+
+Certification of disabled veteran leave.—In order to verify that leave credited to an employee pursuant to paragraph (2)(J) is used for treating a service-connected disability, that employee shall, notwithstanding section 6329(c) of title 5, submit to the Assistant Administrator for Human Resource Management of the Federal Aviation Administration certification, in such form and manner as the Administrator of the Federal Aviation Administration may prescribe, that the employeeused that leave for purposes of being furnished treatment for that disability by a health care provider.
+
+&emsp;(5)
 
 Effective date.—This subsection shall take effect on April 1, 1996.
 
@@ -158,7 +164,7 @@ Election of Forum.—Where a major adverse personnel action may be contested thr
 
 Definition.—In this section, the term "major adverse personnel action" means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
 
-(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117.)
+(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978.)
 
 #### References in Text
 
@@ -169,6 +175,10 @@ Executive Order No. 12674, referred to in subsec. (d), is set out as a note unde
 The effective date of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (f), is the date that is 30 days after Oct. 9, 1996. See section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(2)(J). Pub. L. 114–242, §2(a), added subpar. (J).
+
+Subsec. (g)(4), (5). Pub. L. 114–242, §2(b), added par. (4) and redesignated former par. (4) as (5).
 
 <b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
 
@@ -195,4 +205,12 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Application of 2016 Amendment
+
+Pub. L. 114–242, §2(c), Oct. 7, 2016, 130 Stat. 978, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any employee of the Federal Aviation Administration hired on or after the date that is one year after the date of the enactment of this Act \[Oct. 7, 2016\]."
+
+#### Policies and Procedures
+
+Pub. L. 114–242, §2(d), Oct. 7, 2016, 130 Stat. 978, provided that: "Not later than 270 days after the date of the enactment of this Act \[Oct. 7, 2016\], the Administrator of the Federal Aviation Administration shall prescribe policies and procedures to carry out the amendments made by this section \[amending this section\] that are comparable, to the maximum extent practicable, to the regulations prescribed by the Office of Personnel Management under section 6329 of title 5, United States Code."
 

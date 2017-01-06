@@ -6,7 +6,7 @@ Inspection of Safety Equipment.—On the instruction of an authorized enforcemen
 
 (b)
 
-Inspection of Vehicles and Record Retention.—The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles and retention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under section 31136 of this title.
+Inspection of Vehicles and Record Retention.—The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles andretention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under section 31136 of this title.
 
 (c)
 
@@ -28,7 +28,7 @@ Preemption.—(1) Except as provided in paragraph (2) of this subsection, this s
 
 (d)
 
-Inspection To Be Accepted as Adequate in All States.—A periodic inspection of a commercial motor vehicle under the Governmentstandards prescribed under subsection (b) of this section or a program described in subsection (c)(1)(B) or (C) of this section that is being enforced shall be recognized as adequate in every State for the period of the inspection. This subsection does not prohibit a State from making random inspections of commercial motor vehicles.
+Inspection To Be Accepted as Adequate in All States.—A periodic inspection of a commercial motor vehicle under the Government standards prescribed under subsection (b) of this section or a program described in subsection (c)(1)(B) or (C) of this section that is being enforced shall be recognized as adequate in every State for the period of the inspection. This subsection does not prohibit a State from making random inspections of commercial motor vehicles.
 
 (e)
 

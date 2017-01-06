@@ -1,0 +1,6 @@
+### §1757. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–134, §8, Oct. 18, 1983, 97 Stat. 855, which provided for a restriction against alienation of lands, was omitted from the Code as being of special and not general application.
+

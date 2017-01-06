@@ -32,7 +32,7 @@
 
 #### (ii) Time of determination and distribution
 
-&emsp;&emsp;&emsp;The determination of the Secretary under clause (i) for a fiscal year shall be made not later than the end of the first quarter of the subsequent fiscal year. The redistribution of amounts under clause (i) shall be made as close as practicable to the date on which such determination is made. Any amount made available to a State from an appropriation for a fiscal year in accordance with this subparagraph shall, for purposes of this part, be regarded as part of such State's payment (as determined under this subsection) for the fiscal year in which the redistribution is made.
+&emsp;&emsp;&emsp;The determination of the Secretary under clause (i) for a fiscal year shall be made not later than the end of the first quarter of the subsequent fiscal year. Theredistribution of amounts under clause (i) shall be made as close as practicable to the date on which such determination is made. Any amount made available to a State from an appropriation for a fiscal year in accordance with this subparagraph shall, for purposes of this part, be regarded as part of such State's payment (as determined under this subsection) for the fiscal year in which the redistribution is made.
 
 #### (3) Appropriation
 
@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;Amounts received by a State under this section shall only be used to provide child care assistance. Amounts received by a State under a grant under subsection (a)(1) of this section shall be available for use by the State without fiscal year limitation.
+&emsp;Amounts received by a State under this section shall only be used to provide child care assistance. Amounts received by a State under a grant under subsection (a)(1) shall be available for use by the State without fiscal year limitation.
 
 #### (2) Use for certain populations
 
@@ -102,7 +102,7 @@ Subsec. (d). Pub. L. 105–33, §5601(c), substituted "and" for "or" before "the
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 2003 Amendment
 

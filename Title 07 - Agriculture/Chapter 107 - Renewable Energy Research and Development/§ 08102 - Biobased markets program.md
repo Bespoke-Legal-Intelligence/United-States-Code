@@ -340,6 +340,10 @@ Subsec. (j). Pub. L. 113–79, §9002(a)(7), added subsec. (j).
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+
 #### Driving Innovation and Creating Jobs in Rural America Through Biobased and Sustainable Product Procurement
 
 Memorandum of President of the United States, Feb. 21, 2012, 77 F.R. 10939, as amended by Ex. Ord. No. 13693, §16(b), Mar. 19, 2015, 80 F.R. 15880, provided:
@@ -368,7 +372,7 @@ Sec. 3. <i>Changes in Procurement Mechanisms</i>. Several actions can be taken t
 
 (b) the Secretary of Agriculture to work with relevant officials in agencies that have electronic product procurement catalogs to identify and implement solutions to increase the visibility of biobased and other sustainable products;
 
-(c) the Senior Sustainability Officers of all agencies that have established agency-specific product specifications, in coordination with any other appropriate officials, to review and revise all specifications under their control to assure that, wherever possible and appropriate, such specifications require the use of sustainable products, including USDA-designated biobased products, and that any language prohibiting the use ofbiobased products is removed. The review shall be on a 4-year cycle. Significant review should be completed within 1 year of the date of this memorandum, and the results of the reviews shall be annually reported to OMB and the Office of Science and Technology Policy (OSTP); and
+(c) the Senior Sustainability Officers of all agencies that have established agency-specific product specifications, in coordination with any other appropriate officials, to review and revise all specifications under their control to assure that, wherever possible and appropriate, such specifications require the use of sustainable products, including USDA-designated biobased products, and that any language prohibiting the use of biobased products is removed. The review shall be on a 4-year cycle. Significant review should be completed within 1 year of the date of this memorandum, and the results of the reviews shall be annually reported to OMB and the Office of Science and Technology Policy (OSTP); and
 
 (d) the Secretary of Agriculture to amend USDA's automated contract writing system, the Integrated Acquisition System, to serve as a model for biobased product procurement throughout the Federal Government by adding elements related to acquisition planning, evaluation factors for source selection, and specifications and requirements. Once completed, USDA shall share the model with all agencies and, as appropriate, assist any agency efforts to adopt similar mechanisms.
 

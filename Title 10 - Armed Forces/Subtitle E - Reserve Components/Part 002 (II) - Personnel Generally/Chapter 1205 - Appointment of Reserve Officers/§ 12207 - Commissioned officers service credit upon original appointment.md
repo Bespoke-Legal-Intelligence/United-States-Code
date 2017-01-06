@@ -12,7 +12,7 @@
 
 &emsp;(ii) Credit for experience in a health profession (other than medicine or dentistry), if such experience will be directly used by the armed force concerned.
 
-&emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal health professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a speciality required by the armed force concerned.
+&emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal health professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training orexperience creditable toward certification in a speciality required by the armed force concerned.
 
 &emsp;(D) Additional credit, in unusual cases, based on special experience in a particular field.
 
@@ -60,7 +60,7 @@ Provisions similar to those in this section were contained in sections 3353, 560
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, §512(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant."
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, §512(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant."
 
 Subsec. (b)(3). Pub. L. 110–181, §512(b), substituted "officers covered by paragraph (2)" for "a medical or dental officer".
 

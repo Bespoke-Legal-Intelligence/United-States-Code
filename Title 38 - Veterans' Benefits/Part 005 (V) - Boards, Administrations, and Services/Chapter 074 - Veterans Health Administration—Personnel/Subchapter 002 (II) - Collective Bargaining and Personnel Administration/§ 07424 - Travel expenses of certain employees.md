@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 4108(d) and 4113 of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+Provisions similar to those in this section were contained in sections 4108(d) and 4113 of this title prior tothe repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
 

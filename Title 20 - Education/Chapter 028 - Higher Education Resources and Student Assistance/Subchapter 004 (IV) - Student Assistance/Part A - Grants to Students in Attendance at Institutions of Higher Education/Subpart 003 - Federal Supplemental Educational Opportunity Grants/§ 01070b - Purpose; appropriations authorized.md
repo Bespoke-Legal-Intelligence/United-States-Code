@@ -2,7 +2,7 @@
 
 #### (a) Purpose of subpart
 
-It is the purpose of this subpart to provide, through institutions of higher education, supplemental grants to assist in making available the benefits of postsecondary education to qualified students who demonstrate financial need in accordance with the provisions of part E of this subchapter.
+It is the purpose of this subpart to provide, through institutions of higher education, supplemental grants to assist in making available the benefits of postsecondary education to qualified students who demonstrate financial need in accordance with the provisions of part F of this subchapter.
 
 #### (b) Authorization of appropriations
 
@@ -18,7 +18,7 @@ A prior section 1070b, Pub. L. 89–329, title IV, §413A, as added Pub. L. 92�
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009 and eachof the five succeeding fiscal years" for "$675,000,000 for fiscal year 1999 and such sums as may be necessary for the 4 succeeding fiscal years".
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years" for "$675,000,000 for fiscal year 1999 and such sums as may be necessary for the 4 succeeding fiscal years".
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–244 substituted "1999" for "1993".
 

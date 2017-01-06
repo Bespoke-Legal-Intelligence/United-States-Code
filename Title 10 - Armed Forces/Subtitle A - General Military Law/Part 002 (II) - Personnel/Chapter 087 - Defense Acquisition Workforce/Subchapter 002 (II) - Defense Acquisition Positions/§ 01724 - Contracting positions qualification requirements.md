@@ -16,13 +16,13 @@ Contracting Officers.—The Secretary of Defense shall require that, in order to
 
 Series Positions and Similar Military Positions.—(1) The Secretary of Defense shall require that in order to qualify to serve in a position in the Department of Defense that is in the GS–1102 occupational series an employee or potential employee of the Department of Defense meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to serve in such a position an employee or potential employee meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
-(2) The Secretary of Defense shall require that in order for a member of the armed forces to be selected for an occupational specialty within the armed forces that (as determined by the Secretary) is similar to the GS–1102 occupational series a member of the armed forces meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to be selected for such an occupationalspecialty a member meet any of the requirements of paragraphs (1) and (2) of that subsection.
+(2) The Secretary of Defense shall require that in order for a member of the armed forces to be selected for an occupational specialty within the armed forces that (as determined by the Secretary) is similar to the GS–1102 occupational series a member of the armed forces meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to be selected for such an occupational specialty a member meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
 (c)
 
 Exceptions.—The qualification requirements imposed by the Secretary of Defense pursuant to subsections (a) and (b) shall not apply to an employee of the Department of Defense or member of the armed forces who—
 
-&emsp;(1) served as a contracting officer with authority to award or administer contracts in excess of the simplified acquisition threshold on or before September 30, 2000;
+&emsp;(1) served as a contracting officer with authority to award or administer contracts inexcess of the simplified acquisition threshold on or before September 30, 2000;
 
 &emsp;(2) served, on or before September 30, 2000, in a position either as an employee in the GS–1102 series or as a member of the armed forces in a similar occupational specialty;
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 107–107, §824(a)(2), added subsec. (b) and struck out fo
 
 "(b) GS–1102
 
-Series Positions and Similar Military Positions.—The Secretary of Defense shall require thata person meet the requirements set forth in paragraph (3) of subsection (a), but not the other requirements set forth in that subsection, in order to qualify to serve in a position in the Department of Defense in—
+Series Positions and Similar Military Positions.—The Secretary of Defense shall require that a person meet the requirements set forth in paragraph (3) of subsection (a), but not the other requirements set forth in that subsection, in order to qualify to serve in a position in the Department of Defense in—
 
 &emsp;"(1) the GS–1102 occupational series; or
 

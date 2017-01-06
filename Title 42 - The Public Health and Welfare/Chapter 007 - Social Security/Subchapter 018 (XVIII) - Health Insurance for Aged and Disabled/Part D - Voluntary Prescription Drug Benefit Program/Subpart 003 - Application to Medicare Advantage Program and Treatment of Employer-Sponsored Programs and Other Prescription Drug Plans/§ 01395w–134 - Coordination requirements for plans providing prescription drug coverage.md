@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall apply the coordination requirements established under section 1395w–133(a) of this title to Rx plans described in subsection (b) of this section in the same manner as such requirements apply to a State Pharmaceutical Assistance Program.
+&emsp;The Secretary shall apply the coordination requirements established under section 1395w–133(a) of this title to Rx plans described in subsection (b) in the same manner as such requirements apply to a State Pharmaceutical Assistance Program.
 
 #### (2) Application to treatment of certain out-of-pocket expenditures
 
@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may impose user fees for the transmittal of information necessary for benefit coordination under section 1395w–102(b)(4)(D) of this title in a manner similar to the manner in which user fees are imposed under section 1395u(h)(3)(B) of this title, except that the Secretary may retain a portion of such fees to defray the Secretary's costs in carrying out procedures under section 1395w–102(b)(4)(D) of this title.
+&emsp;&emsp;The Secretary may impose user fees for the transmittal of information necessary forbenefit coordination under section 1395w–102(b)(4)(D) of this title in a manner similar to the manner in which user fees are imposed under section 1395u(h)(3)(B) of this title, except that the Secretary may retain a portion of such fees to defray the Secretary's costs in carrying out procedures under section 1395w–102(b)(4)(D) of this title.
 
 #### (B) Application
 
@@ -26,7 +26,7 @@ An Rx plan described in this subsection is any of the following:
 
 #### (1) Medicaid programs
 
-&emsp;A State plan under subchapter XIX of this chapter, including such a plan operating under a waiver under section 1315 of this title, if it meets the requirements of section 1395w–133(b)(2) of this title.
+&emsp;A State plan under subchapter XIX, including such a plan operating under a waiver under section 1315 of this title, if it meets the requirements of section 1395w–133(b)(2) of this title.
 
 #### (2) Group health plans
 

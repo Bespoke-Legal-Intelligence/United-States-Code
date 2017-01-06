@@ -44,7 +44,7 @@ There is hereby established in the State of New Mexico, the Chaco Culture Nation
 | Raton Well | 23&nbsp;&nbsp; |
 | Salmon Ruin | 5&nbsp;&nbsp; |
 | San Mateo | 61&nbsp;&nbsp; |
-| Sanostee | 1,565   |
+| Sanostee | 1,565&nbsp;&nbsp; |
 | Section 8 | 10&nbsp;&nbsp; |
 | Skunk Springs/Crumbled House | 533&nbsp;&nbsp; |
 | Standing Rock | 348&nbsp;&nbsp; |

@@ -1,6 +1,6 @@
 ### §2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
 
-(a)(1) The Secretary of the Army may appoint as a cadet in the Army Reserve or Army National Guard of the United States any eligible member of the program who is enrolled in theAdvanced Course of the Army Reserve Officers' Training Corps at a military college, military junior college, or civilian institution and who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as a second lieutenant in the Army Reserve or Army National Guard.
+(a)(1) The Secretary of the Army may appoint as a cadet in the Army Reserve or Army National Guard of the United States any eligible member of the program who is enrolled in the Advanced Course of the Army Reserve Officers' Training Corps at a military college, military junior college, or civilian institution and who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as a second lieutenant in the Army Reserve or Army National Guard.
 
 (2) To be considered a military college or military junior college for the purposes of this section, a school must be a civilian postsecondary educational institution essentially military in nature and meet such other requirements as the Secretary of the Army may prescribe. For purposes of this section, a military junior college does not confer a baccalaureate degree.
 
@@ -56,7 +56,7 @@
 
 (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date of rank of all other officers appointed under this section.
 
-(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to activeduty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
+(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
 
 (g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of the Selected Reserve.
 
@@ -114,7 +114,7 @@ Subsec. (b)(6). Pub. L. 102–190, §522(a)(3), substituted "a troop program uni
 
 Subsec. (f). Pub. L. 102–190, §522(a)(4), inserted "or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section," after "when offered,".
 
-Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted "not more than 208 cadets each year under this section, to include not less than 10 cadets" for "not less than 10 cadets under this section each year", and struck out par. (2) which read as follows: "If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of theprogram at such military junior college who are eligible under subsection (b) for such an appointment."
+Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted "not more than 208 cadets each year under this section, to include not less than 10 cadets" for "not less than 10 cadets under this section each year", and struck out par. (2) which read as follows: "If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment."
 
 #### Effective Date of 2003 Amendment
 

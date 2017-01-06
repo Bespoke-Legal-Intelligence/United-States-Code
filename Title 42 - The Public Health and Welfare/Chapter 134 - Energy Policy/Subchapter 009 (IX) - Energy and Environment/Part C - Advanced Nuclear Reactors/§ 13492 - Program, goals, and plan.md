@@ -14,11 +14,11 @@ The Secretary shall conduct a program to encourage the deployment of advanced nu
 
 #### (b) Program goals
 
-The goals of the program established under subsection (a) of this section shall include—
+The goals of the program established under subsection (a) shall include—
 
 &emsp;(1) for the near-term—
 
-&emsp;&emsp;(A) to facilitate the completion, by September 30, 1996, for certification by the Commission, of standardized advanced light water reactor technology designs that the Secretary determines have the characteristics described in subsection (a)(1) through (4) of this section;
+&emsp;&emsp;(A) to facilitate the completion, by September 30, 1996, for certification by the Commission, of standardized advanced light water reactor technology designs that the Secretary determines have the characteristics described in subsection (a)(1) through (4);
 
 &emsp;&emsp;(B) to facilitate the completion of submissions, by September 30, 1996, for preliminary design approvals by the Commission of standardized designs for the modular high-temperature gas-cooled reactor technology and the liquid metal reactor technology; and
 
@@ -38,15 +38,15 @@ The goals of the program established under subsection (a) of this section shall 
 
 Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. The program plan shall include schedule milestones, Federal funding requirements, and non-Federal cost sharing requirements. In preparing the program plan, the Secretary shall take into consideration—
 
-&emsp;(1) the need for, and the potential for future adoption by electric utilities or other entities of, advanced nuclear reactor technologies that are available, under development, or have thepotential for being developed, for the generation of energy from nuclear fission;
+&emsp;(1) the need for, and the potential for future adoption by electric utilities or other entities of, advanced nuclear reactor technologies that are available, under development, or have the potential for being developed, for the generation of energy from nuclear fission;
 
 &emsp;(2) how the Federal Government, acting through the Secretary, can be effective in ensuring the availability of such technologies when they are needed;
 
-&emsp;(3) how the Federal Government can most effectively cooperate with the private sector in the accomplishment of the goals set forth in subsection (b) of this section; and
+&emsp;(3) how the Federal Government can most effectively cooperate with the private sector in the accomplishment of the goals set forth in subsection (b); and
 
 &emsp;(4) potential alternative funding sources for carrying out this section.
 
-> In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies. The Secretary shall update the program plan annually and submit such update to Congress. Each such update shall describe any activities that are behind schedule, any funding shortfalls, and any other circumstances that might affect the ability of the Secretary to meet the goals set forth in subsection (b) of this section.
+> In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies. The Secretary shall update the program plan annually and submit such update to Congress. Each such update shall describe any activities that are behind schedule, any funding shortfalls, and any other circumstances that might affect the ability of the Secretary to meet the goals set forth in subsection (b).
 
 (Pub. L. 102–486, title XXI, §2122, Oct. 24, 1992, 106 Stat. 3082.)
 

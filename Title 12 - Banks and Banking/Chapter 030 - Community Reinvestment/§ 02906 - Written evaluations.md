@@ -26,7 +26,7 @@
 
 #### (B) Metropolitan area distinctions
 
-&emsp;&emsp;The information required by clauses (i) and (ii) of subparagraph (A) shall be presented separately for each metropolitan area in which a regulated depository institutionmaintains one or more domestic branch offices.
+&emsp;&emsp;The information required by clauses (i) and (ii) of subparagraph (A) shall be presented separately for each metropolitan area in which a regulated depository institution maintains one or more domestic branch offices.
 
 #### (2) Assigned rating
 

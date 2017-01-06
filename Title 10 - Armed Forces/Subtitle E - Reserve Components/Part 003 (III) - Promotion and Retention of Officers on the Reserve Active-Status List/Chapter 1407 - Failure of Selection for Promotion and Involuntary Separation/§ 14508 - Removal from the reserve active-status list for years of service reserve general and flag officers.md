@@ -40,7 +40,7 @@ Exception for State Adjutants General and Assistant Adjutants General.—This se
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852of this title, prior to repeal by Pub. L. 103–337, §§1628(4), 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852 of this title, prior to repeal by Pub. L. 103–337, §§1628(4), 1629(a)(3), (c)(3).
 
 #### Amendments
 
@@ -81,4 +81,8 @@ Subsec. (d). Pub. L. 109–364, §503(e)(2), substituted "64" for "62".
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

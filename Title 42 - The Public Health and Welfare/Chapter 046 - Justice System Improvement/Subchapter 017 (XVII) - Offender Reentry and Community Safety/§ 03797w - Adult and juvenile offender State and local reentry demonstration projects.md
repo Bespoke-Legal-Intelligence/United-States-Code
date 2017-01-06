@@ -76,13 +76,17 @@ The Attorney General shall give priority to grant applications under this sectio
 
 &emsp;&emsp;(B) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services; and
 
-&emsp;&emsp;(C) delivery of continuous and appropriate drug treatment, medical care, job training and placement, educational services, or any other service or support needed for reentry;
+&emsp;&emsp;(C) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, or any other service or support needed for reentry;
 
 &emsp;(4) review the process by which the applicant adjudicates violations of parole, probation, or supervision following release from prison, jail, or a juvenile facility, taking into account public safety and the use of graduated, community-based sanctions for minor and technical violations of parole, probation, or supervision (specifically those violations that are not otherwise, and independently, a violation of law);
 
-&emsp;(5) provide for an independent evaluation of reentry programs that include, to the maximum extent possible, random assignment and controlled studies to determine the effectiveness of such programs; and
+&emsp;(5) provide for an independent evaluation of reentry programs that include, to the maximum extent possible, random assignment and controlled studies to determine the effectiveness of such programs;
 
-&emsp;(6) target high-risk offenders for reentry programs through validated assessment tools.
+&emsp;(6) target high-risk offenders for reentry programs through validated assessment tools;
+
+&emsp;(7) provide mental health treatment and transitional services for those with mental illnesses or with co-occurring disorders, including housing placement or assistance; and
+
+&emsp;(8) target offenders with histories of homelessness, substance abuse, or mental illness, including a prerelease assessment of the housing status of the offender and behavioral health needs of the offender with clear coordination with mental health, substance abuse, and homelessness services systems to achieve stable and permanent housing outcomes with appropriate support service.
 
 #### (g) Uses of grant funds
 
@@ -280,19 +284,25 @@ Of amounts made available to carry out this section—
 
 #### (A) Limitation
 
-&emsp;&emsp;Of the amount made available to carry out this section for any fiscal year, not more than 3 percent or less than 2 percent may be used for technical assistance and training.
+&emsp;&emsp;Of the amount made available to carry out this section for any fiscal year, not morethan 3 percent or less than 2 percent may be used for technical assistance and training.
 
 #### (B) Equitable distribution
 
 &emsp;&emsp;The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
-(Pub. L. 90–351, title I, §2976, as added Pub. L. 107–273, div. B, title II, §2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, §101, Apr. 9, 2008, 122 Stat. 661.)
+(Pub. L. 90–351, title I, §2976, as added Pub. L. 107–273, div. B, title II, §2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, §101, Apr. 9, 2008, 122 Stat. 661; Pub. L. 114–255, div. B, title XIV, §§14006, 14009(a), Dec. 13, 2016, 130 Stat. 1296, 1297.)
 
 #### References in Text
 
 Section 17541(d)(3)(B) of this title, referred to in subsec. (j)(2)(A), was in the original "section 234(c)(2) of the Second Chance Act of 2007", and was translated as reading "section 231(d)(3)(B) of the Second Chance Act of 2007", meaning section 231(d)(3)(B) of Pub. L. 110–199, to reflect the probable intent of Congress, because Pub. L. 110–199 does not contain a section 234(c)(2), and section 231(d)(3)(B) of Pub. L. 110–199 relates to the selection of a measure for recidivism to be used by the Director of the Bureau of Justice Statistics.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(3)(C). Pub. L. 114–255, §14009(a)(1), inserted "mental health services," before "drug treatment".
+
+Subsec. (f)(7). Pub. L. 114–255, §14006, added par. (7).
+
+Subsec. (f)(8). Pub. L. 114–255, §14009(a)(2), added par. (8).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–199, §101(d), substituted "States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations." for "States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects."
 

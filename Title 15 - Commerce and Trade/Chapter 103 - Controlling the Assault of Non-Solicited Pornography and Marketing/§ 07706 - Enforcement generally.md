@@ -14,7 +14,7 @@ Compliance with this chapter shall be enforced—
 
 &emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, organizations operating under section 25 or 25A of the Federal Reserve Act (12 U.S.C. 601 and 611), and bank holding companies, by the Board;
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation; and
+&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insuredState branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation; and
 
 &emsp;&emsp;(D) savings associations the deposits of which are insured by the Federal Deposit Insurance Corporation, by the Director of the Office of Thrift Supervision;
 
@@ -70,7 +70,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying thenumber of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
 
 #### (B) Limitation
 
@@ -215,6 +215,10 @@ The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181,
 The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+#### Effective Date
+
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

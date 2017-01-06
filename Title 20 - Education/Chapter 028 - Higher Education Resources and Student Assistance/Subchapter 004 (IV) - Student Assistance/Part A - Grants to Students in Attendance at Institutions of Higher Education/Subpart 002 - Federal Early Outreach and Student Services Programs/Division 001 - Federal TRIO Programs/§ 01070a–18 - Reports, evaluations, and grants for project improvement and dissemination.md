@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall submit annually, to the authorizing committees, a report that documents the performance of all programs funded under this division. Such report shall—
 
-&emsp;&emsp;(A) be submitted not later than 12 months after the eligible entities receiving fundsunder this division are required to report their performance to the Secretary;
+&emsp;&emsp;(A) be submitted not later than 12 months after the eligible entities receiving funds under this division are required to report their performance to the Secretary;
 
 &emsp;&emsp;(B) focus on the programs' performance on the relevant outcome criteria determined under section 1070a–11(f)(4) of this title;
 
@@ -82,7 +82,7 @@ The Secretary may award grants to institutions of higher education or other priv
 
 #### (d) Results
 
-In order to improve overall program or project effectiveness, the results of evaluations and grants described in this section shall be disseminated by the Secretary to similar programs or projects assisted under this subpart, as well asother individuals concerned with postsecondary access for and retention of low-income individuals and first-generation college students.
+In order to improve overall program or project effectiveness, the results of evaluations and grants described in this section shall be disseminated by the Secretary to similar programs or projects assisted under this subpart, as well as other individuals concerned with postsecondary access for and retention of low-income individuals and first-generation college students.
 
 (Pub. L. 89–329, title IV, §402H, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(g), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(h), Aug. 14, 2008, 122 Stat. 3204.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Collection and remission to Board; persons required to pay
 
-(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in theorder. Upon the appointment of the Board, the assessments held in escrow shall be distributed to the Board. Except as provided in paragraph (3), assessments shall be payable by—
+(1) The order shall provide that, not later than 30 days after the effective date of the order under section 4805(c) of this title an assessment shall be paid, in the manner prescribed in the order. Upon the appointment of the Board, the assessments held in escrow shall be distributed to the Board. Except as provided in paragraph (3), assessments shall be payable by—
 
 &emsp;(A) each producer for each porcine animal described in subparagraph (A) or (C) of section 4802(8) of this title produced in the United States that is sold or slaughtered for sale;
 
@@ -133,6 +133,10 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original "th
 #### Amendments
 
 <b>1986</b>—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### Effective Date
+
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

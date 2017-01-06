@@ -30,7 +30,7 @@
 
 #### (3) Monitoring priorities
 
-&emsp;The Secretary shall monitor the States, and shall require each State to monitor the localeducational agencies located in the State (except the State exercise of general supervisory responsibility), using quantifiable indicators in each of the following priority areas, and using such qualitative indicators as are needed to adequately measure performance in the following priority areas:
+&emsp;The Secretary shall monitor the States, and shall require each State to monitor the local educational agencies located in the State (except the State exercise of general supervisory responsibility), using quantifiable indicators in each of the following priority areas, and using such qualitative indicators as are needed to adequately measure performance in the following priority areas:
 
 &emsp;&emsp;(A) Provision of a free appropriate public education in the least restrictive environment.
 

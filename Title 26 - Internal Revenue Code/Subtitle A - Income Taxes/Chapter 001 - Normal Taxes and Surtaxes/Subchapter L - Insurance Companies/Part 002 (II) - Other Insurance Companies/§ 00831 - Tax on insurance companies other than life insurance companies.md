@@ -14,19 +14,55 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall apply to every insurance company other than life (including interinsurers and reciprocal underwriters) if—
+&emsp;&emsp;This subsection shall apply to every insurance company other than life if—
 
-&emsp;&emsp;&emsp;(i) the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $1,200,000, and
+&emsp;&emsp;&emsp;(i) the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $2,200,000,
 
-&emsp;&emsp;&emsp;(ii) such company elects the application of this subsection for such taxable year.
+&emsp;&emsp;&emsp;(ii) such company meets the diversification requirements of subparagraph (B), and
 
-> &emsp;&emsp;The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;&emsp;(iii) such company elects the application of this subsection for such taxable year.
 
-#### (B) Controlled group rules
+> &emsp;&emsp;The election under clause (iii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clauses (i) and (ii) are met. Such an election, once made, may be revoked only with the consent of the Secretary.
+
+#### (B) Diversification requirements
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treated as receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made.
+&emsp;&emsp;&emsp;An insurance company meets the requirements of this subparagraph if—
+
+&emsp;&emsp;&emsp;&emsp;(I) no more than 20 percent of the net written premiums (or, if greater, direct written premiums) of such company for the taxable year is attributable to any one policyholder, or
+
+&emsp;&emsp;&emsp;&emsp;(II) such insurance company does not meet the requirement of subclause (I) and no person who holds (directly or indirectly) an interest in such insurance company is a specified holder who holds (directly or indirectly) aggregate interests in such insurance company which constitute a percentage of the entire interests in such insurance company which is more than a de minimis percentage higher than the percentage of interests in the specified assets with respect to such insurance company held (directly or indirectly) by such specified holder.
+
+#### (ii) Definitions
+
+&emsp;&emsp;&emsp;For purposes of clause (i)(II)—
+
+#### (I) Specified holder
+
+&emsp;&emsp;&emsp;&emsp;The term "specified holder" means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who is a spouse or lineal descendant (including by adoption) of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company.
+
+#### (II) Specified assets
+
+&emsp;&emsp;&emsp;&emsp;The term "specified assets" means, with respect to any insurance company, the trades or businesses, rights, or assets with respect to which the net written premiums (or direct written premiums) of such insurance company are paid.
+
+#### (III) Indirect interest
+
+&emsp;&emsp;&emsp;&emsp;An indirect interest includes any interest held through a trust, estate, partnership, or corporation.
+
+#### (IV) De minimis
+
+&emsp;&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary in regulations or other guidance, 2 percentage points or less shall be treated as de minimis.
+
+#### (C) Controlled group rules
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treated as receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
+
+&emsp;&emsp;&emsp;&emsp;(II) in determining the attribution of premiums to any policyholder under subparagraph (B)(i), all policyholders which are related (within the meaning of section 267(b) or 707(b)) or are members of the same controlled group shall be treated as one policyholder.
 
 #### (ii) Controlled group
 
@@ -35,6 +71,16 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 &emsp;&emsp;&emsp;&emsp;(I) "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a), and
 
 &emsp;&emsp;&emsp;&emsp;(II) subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply.
+
+#### (D) Inflation adjustment
+
+&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2015, the dollar amount set forth in subparagraph (A)(i) shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+
+> &emsp;&emsp;If the amount as adjusted under the preceding sentence is not a multiple of $50,000, such amount shall be rounded to the next lowest multiple of $50,000.
 
 #### (3) Limitation on use of net operating losses
 
@@ -48,7 +94,11 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 For purposes of this section, the term "insurance company" has the meaning given to such term by section 816(a)).<sup>1</sup>
 
-#### (d) Cross references
+#### (d) Reporting
+
+Every insurance company for which an election is in effect under subsection (b) for any taxable year shall furnish to the Secretary at such time and in such manner as the Secretary shall prescribe such information for such taxable year as the Secretary shall require with respect to the requirements of subsection (b)(2)(A)(ii).
+
+#### (e) Cross references
 
 &emsp;&emsp;<b>(1) For alternative tax in case of capital gains, see section 1201(a).</b>
 
@@ -58,85 +108,9 @@ For purposes of this section, the term "insurance company" has the meaning given
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108.)
 
-#### Amendment of Section
+#### Inflation Adjusted Items for Certain Years
 
-<i>Pub. L. 114–113, div. Q, title III, §333, Dec. 18, 2015, 129 Stat. 3106, provided that, applicable with respect to taxable years beginning after December 31, 2016, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(2):</i>
-
-<i>(A) in subparagraph (A):</i>
-
-<i>(i) by striking out "(including interinsurers and reciprocal underwriters)";</i>
-
-<i>(ii) in clause (i), by striking out "$1,200,000" and inserting "$2,200,000" and by striking out "and" at the end;</i>
-
-<i>(iii) by redesignating clause (ii) as (iii) and adding the following new clause (ii):</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) such company meets the diversification requirements of subparagraph (B), and"; and</i>
-
-<i>(iv) in concluding provisions, by striking out "clause (ii)" and inserting "clause (iii)" and striking out "clause (i)" and inserting "clauses (i) and (ii)";</i>
-
-<i>(B) by redesignating subparagraph (B) as (C) and adding the following new subparagraph (B):</i>
-
-#### <i>"(B) Diversification requirements</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"An insurance company meets the requirements of this subparagraph if—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) no more than 20 percent of the net written premiums (or, if greater, direct written premiums) of such company for the taxable year is attributable to any one policyholder, or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) such insurance company does not meet the requirement of subclause (I) and no person who holds (directly or indirectly) an interest in such insurance company is a specified holder who holds (directly or indirectly) aggregate interests in such insurance company which constitute a percentage of the entire interests in such insurance company which is more than a de minimis percentage higher than the percentage of interests in the specified assets with respect to such insurance company held (directly or indirectly) by such specified holder.</i>
-
-#### <i>"(ii) Definitions</i>
-
-&emsp;&emsp;&emsp;<i>"For purposes of clause (i)(II)—</i>
-
-#### <i>"(I) Specified holder</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"The term 'specified holder' means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who is a spouse or lineal descendant (including by adoption) of an individual who</i><i>holds an interest (directly or indirectly) in the specified assets with respect to such insurance company.</i>
-
-#### <i>"(II) Specified assets</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"The term 'specified assets' means, with respect to any insurance company, the trades or businesses, rights, or assets with respect to which the net written premiums (or direct written premiums) of such insurance company are paid.</i>
-
-#### <i>"(III) Indirect interest</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"An indirect interest includes any interest held through a trust, estate, partnership, or corporation.</i>
-
-#### <i>"(IV) De minimis</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"Except as otherwise provided by the Secretary in regulations or other guidance, 2 percentage points or less shall be treated as de minimis.";</i>
-
-<i>(C) in clause (i) of subparagraph (C), as so redesignated:</i>
-
-<i>(i) by striking "For purposes of subparagraph (A)," and inserting "For purposes of this paragraph—";</i>
-
-<i>(ii) by inserting the subclause (I) designation before "in determining" and by striking the period at the end and inserting ", and"; and</i>
-
-<i>(iii) by adding at the end the following new subclause:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) in determining the attribution of premiums to any policyholder under subparagraph (B)(i), all policyholders which are related (within the meaning of section 267(b) or 707(b)) or are members of the same controlled group shall be treated as one policyholder."; and</i>
-
-<i>(D) by adding at the end the following new subparagraph:</i>
-
-#### <i>"(D) Inflation adjustment</i>
-
-&emsp;&emsp;<i>"In the case of any taxable year beginning in a calendar year after 2015, the dollar amount set forth in subparagraph (A)(i) shall be increased by an amount equal to—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) such dollar amount, multiplied by</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting 'calendar year 2013' for 'calendar year 1992' in subparagraph (B) thereof.</i>
-
-> &emsp;&emsp;<i>If the amount as adjusted under the preceding sentence is not a multiple of $50,000, such amount shall be rounded to the next lowest multiple of $50,000."; and</i>
-
-<i>(2) by redesignating subsection (d) as (e) and adding the following new subsection (d):</i>
-
-#### <i>"(d) Reporting</i>
-
-<i>"Every insurance company for which an election is in effect under subsection (b) for any taxable year shall furnish to the Secretary at such time and in such manner as the Secretary shall prescribe such information for such taxable year as the Secretary shall require with respect to the requirements of subsection (b)(2)(A)(ii)."</i>
-
-<i>See 2015 Amendment notes below.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
 
@@ -176,7 +150,7 @@ Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated 
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title III, §333(c), Dec. 18, 2015, 129 Stat. 3108, provided that: "The amendments madeby this section \[amending this section\] shall apply to taxable years beginning after December 31, 2016."
+Pub. L. 114–113, div. Q, title III, §333(c), Dec. 18, 2015, 129 Stat. 3108, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2016."
 
 #### Effective Date of 2004 Amendment
 
@@ -192,7 +166,7 @@ Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided th
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(107) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(107) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1966 Amendment
 

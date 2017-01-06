@@ -70,7 +70,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) an identification and description of the properties to be acquired under the homeownership program and a description of the composition of potential eligible families, including family size and income;
 
-&emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
+&emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
 &emsp;&emsp;(F) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the project, where applicable, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
@@ -80,7 +80,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(I) identification and description of the entity that will operate and manage the property;
 
-&emsp;&emsp;(J) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application isconsistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
+&emsp;&emsp;(J) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
 &emsp;&emsp;(K) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 

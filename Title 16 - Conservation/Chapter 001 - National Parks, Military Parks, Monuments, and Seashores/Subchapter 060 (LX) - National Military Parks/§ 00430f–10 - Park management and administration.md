@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the Unit in accordance with sections 430f–6 to 430f–12 of thistitle and the laws generally applicable to units of the National Park System, including—
+The Secretary shall administer the Unit in accordance with sections 430f–6 to 430f–12 of this title and the laws generally applicable to units of the National Park System, including—
 
 &emsp;(1) the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1 et seq.); <sup>1</sup> and
 

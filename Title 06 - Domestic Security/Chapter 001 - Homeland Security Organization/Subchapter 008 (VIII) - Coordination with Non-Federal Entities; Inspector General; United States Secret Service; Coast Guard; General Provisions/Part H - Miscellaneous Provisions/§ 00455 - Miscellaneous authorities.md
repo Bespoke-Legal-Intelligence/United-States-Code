@@ -6,7 +6,7 @@ The Department shall have a seal, whose design is subject to the approval of the
 
 #### (b) Participation of members of the Armed Forces
 
-With respect to the Department, the Secretary shall have the same authorities that the Secretary of Transportation has with respect to the Department of Transportation under section 324 of title 49.
+With respect to the Department, the Secretary shall have the same authorities that the Secretary of Transportation has with respect to theDepartment of Transportation under section 324 of title 49.
 
 #### (c) Redelegation of functions
 

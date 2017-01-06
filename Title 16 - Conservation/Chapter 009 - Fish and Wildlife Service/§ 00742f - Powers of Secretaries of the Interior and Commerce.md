@@ -94,7 +94,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (ii) Use of Federal funds
 
-&emsp;&emsp;&emsp;Any Federal funds used to fund a project or program under a cooperative agreement may be used only for expenses directly related to the project or program and may not be used for operation or administration of any non-Federal entity.
+&emsp;&emsp;&emsp;Any Federal funds used to fund a project or program under a cooperative agreement may be used only for expenses directly related to the project or program and maynot be used for operation or administration of any non-Federal entity.
 
 #### (iii) Ownership of facilities
 

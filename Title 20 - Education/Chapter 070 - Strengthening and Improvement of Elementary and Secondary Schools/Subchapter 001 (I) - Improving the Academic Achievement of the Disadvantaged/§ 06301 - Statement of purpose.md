@@ -26,7 +26,7 @@ In General.—Except as otherwise provided in this Act \[see Tables for classifi
 
 "(b)
 
-Noncompetitive Programs.—With respect to noncompetitive programs under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq) and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, the amendments made by this Act shall be effective beginning on July 1, 2016, except as otherwise provided in such amendments.
+Noncompetitive Programs.—With respect to noncompetitive programs under the Elementary andSecondary Education Act of 1965 (20 U.S.C. 6301 et seq) and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, the amendments made by this Act shall be effective beginning on July 1, 2016, except as otherwise provided in such amendments.
 
 "(c)
 
@@ -170,7 +170,7 @@ Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121 \[see Tables for classification\],
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: "This Act \[see Tables for classification\] may becited as the 'Elementary and Secondary Education Amendments of 1967'."
+Pub. L. 90–247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: "This Act \[see Tables for classification\] may be cited as the 'Elementary and Secondary Education Amendments of 1967'."
 
 #### Short Title of 1966 Amendment
 
@@ -248,7 +248,7 @@ In general.—Notwithstanding any other provision of this Act, and subject to se
 
 &emsp;"(2)
 
-Waivers.—A waiver shall be subject to paragraph (1) if the waiver was granted by the Secretaryof Education to a State or consortium of local educational agencies under the program first introduced in a letter to chief State school officers dated September 23, 2011, and authorized under section 9401 \[now 8401\] of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7861), as in effect on the day before the date of enactment of this Act."
+Waivers.—A waiver shall be subject to paragraph (1) if the waiver was granted by the Secretary of Education to a State or consortium of local educational agencies under the program first introduced in a letter to chief State school officers dated September 23, 2011, and authorized under section 9401 \[now 8401\] of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7861), as in effect on the day before the date of enactment of this Act."
 
 Pub. L. 107–110, §4, Jan. 8, 2002, 115 Stat. 1426, provided that:
 
@@ -278,7 +278,7 @@ Ex. Ord. No. 13153, May 3, 2000, 65 F.R. 26475, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Elementary and Secondary Education Act of 1965 (ESEA) \[20 U.S.C. 6301 et seq.\], the Department of Education Appropriations Act, 2000 (as contained in Public Law 106–113) \[Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–242, see Tables for classification\], and in order to take actions to improve low-performing schools, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Since 1993, this Administration has sought to raise standards for students and to increase accountability in public education while investing more resources in elementary and secondary schools. While much has been accomplished—there has been progress in math and reading achievement, particularly for low-achieving students and students in our highest poverty schools—much more can be done, especially for low-performing schools.
+Section 1. <i>Policy</i>. Since 1993, this Administration has sought to raise standards for students and to increaseaccountability in public education while investing more resources in elementary and secondary schools. While much has been accomplished—there has been progress in math and reading achievement, particularly for low-achieving students and students in our highest poverty schools—much more can be done, especially for low-performing schools.
 
 Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of Education ("Secretary") shall work with State and local educational agencies ("LEAs") to develop and implement a comprehensive strategy for providing technical assistance and other assistance to States and LEAs to strengthen their capacity to improve the performance of schools identified as low performing. This comprehensive strategy shall include a number of steps, such as:
 
@@ -332,5 +332,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 
-Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, for the purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
+Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, forthe purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
 

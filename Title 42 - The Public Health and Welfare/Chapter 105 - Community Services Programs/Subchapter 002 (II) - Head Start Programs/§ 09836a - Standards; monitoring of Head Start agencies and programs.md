@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to Head Start agencies for utilizing, scientifically based measures that support, as appropriate—
+&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, andprogram management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to Head Start agencies for utilizing, scientifically based measures that support, as appropriate—
 
 &emsp;&emsp;(A) classroom instructional practices;
 
@@ -316,7 +316,7 @@
 
 #### (3) Training and technical assistance
 
-&emsp;The Secretary shall provide training and technical assistance to Head Start agenciesand programs with respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
+&emsp;The Secretary shall provide training and technical assistance to Head Start agencies and programs with respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
 
 #### (f) Summaries of monitoring outcomes
 
@@ -400,7 +400,7 @@
 
 &emsp;&emsp;(A) on a semiannual basis, determine which Head Start agencies are operating with an actual enrollment that is less than the funded enrollment based on not less than 4 consecutive months of data;
 
-&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a plan and timetable for reducing or eliminating underenrollment taking into consideration—
+&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a planand timetable for reducing or eliminating underenrollment taking into consideration—
 
 &emsp;&emsp;&emsp;(i) the quality and extent of the outreach, recruitment, and communitywide strategic planning and needs assessment conducted by such agency;
 
@@ -470,7 +470,7 @@
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 

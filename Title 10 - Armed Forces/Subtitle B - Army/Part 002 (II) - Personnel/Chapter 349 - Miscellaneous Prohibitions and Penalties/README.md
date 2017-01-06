@@ -9,7 +9,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. A, title V, §590(b)(2)(A), Jan. 28, 2008, 122 Stat. 138, struck out item 3634 "Armyband: may not be paid for performance outside Army post".
+<b>2008</b>—Pub. L. 110–181, div. A, title V, §590(b)(2)(A), Jan. 28, 2008, 122 Stat. 138, struck out item 3634 "Army band: may not be paid for performance outside Army post".
 
 <b>1980</b>—Pub. L. 96–513, title V, §512(6), Dec. 12, 1980, 94 Stat. 2929, struck out item 3632 "Members of Army: forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs", item 3633 "Commissioned officers: forfeiture of pay when dropped from rolls", and item 3636 "Enlisted members: pay and allowances not to accrue during suspended sentence of dishonorable discharge".
 

@@ -72,6 +72,498 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Organizational Strategy for the Department of Defense
+
+Pub. L. 114–328, div. A, title IX, §911, Dec. 23, 2016, 130 Stat. 2345, provided that:
+
+"(a)
+
+Organizational Strategy Required.—
+
+&emsp;"(1)
+
+In general.—Not later than September 1, 2017, the Secretary of Defense shall formulate and issue to the Department of Defense an organizational strategy for the Department that—
+
+&emsp;&emsp;"(A) identifies the critical objectives and other organizational outputs for the Department that span multiple functional boundaries and would benefit from the use of cross-functional teams under this section to ensure collaboration and integration across organizations within the Department;
+
+&emsp;&emsp;"(B) improves the manner in which the Department integrates the expertise and capacities of the functional components of the Department for effective and efficient achievement of such objectives and outputs;
+
+&emsp;&emsp;"(C) improves the management of relationships and processes involving the Office of the Secretary of Defense, the Joint Staff, the combatant commands, the military departments, and the Defense Agencies with regard to such objectives and outputs;
+
+&emsp;&emsp;"(D) improves the ability of the Department to work effectively in interagency processes with regard to such objectives and outputs in order to better serve the President; and
+
+&emsp;&emsp;"(E) achieves an organizational structure that enhances performance with regard to such objectives and outputs.
+
+&emsp;"(2)
+
+Elements.—The strategy shall provide for the following:
+
+&emsp;&emsp;"(A) The appropriate use of cross-functional teams to manage critical objectives and outputs of the Department described in paragraph (1)(A).
+
+&emsp;&emsp;"(B) The furtherance and advancement of a collaborative, team-oriented, results-driven, and innovative culture within the Department that fosters an open debate of ideas and alternative courses of action, and supports cross-functional teaming and integration.
+
+"(b)
+
+Actions in Support of Strategy.—
+
+&emsp;"(1)
+
+Study.—The Department of Defense shall conduct a study of the following in order to determine how best to implement effective cross-functional teams in the Department to achieve the strategic objectives of the Secretary of Defense:
+
+&emsp;&emsp;"(A) Lessons learned, as reflected in academic literature, business and management school case studies, and the work of leading management consultant firms, on the successful and failed application of cross-functional teams in the private sector and government, and on the cultural factors necessary to support effective cross-functional teams.
+
+&emsp;&emsp;"(B) The historical and current use by the Department of cross-functional working groups, integrated process teams, councils, and committees, and the reasons why such entities have or have not achieved high levels of teamwork or effectiveness.
+
+&emsp;"(2)
+
+Conduct of study.—The study required by paragraph (1) shall be conducted by an independent organization with widely acknowledged expertise in modern organizational management and teaming selected by the Secretary for purposes of the study.
+
+&emsp;"(3)
+
+Schedule.—The Secretary shall award any necessary contract for the study required by paragraph (1) pursuant to paragraph (2) by not later than March 15, 2017, and shall provide the results of the study to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than July 15, 2017.
+
+"(c)
+
+Cross-functional Teams.—In support of the strategy required by subsection (a):
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall establish cross-functional teams to address critical objectives and outputs for such teams as are determined to be appropriate in accordance with the organizational strategy issued under subsection (a), with initial teams established by not later than September 30, 2017.
+
+&emsp;"(2)
+
+Purposes.—The purposes of cross-functional teams established pursuant to this subsection shall be, as determined appropriate by the Secretary—
+
+&emsp;&emsp;"(A) to provide for effective collaboration and integration across organizational and functional boundaries in the Department of Defense;
+
+&emsp;&emsp;"(B) to develop, at the direction of the Secretary, recommendations for comprehensive and fully integrated policies, strategies, plans, and resourcing decisions;
+
+&emsp;&emsp;"(C) to make decisions on cross-functional issues, to the extent authorized by the Secretary and within parameters established by the Secretary; and
+
+&emsp;&emsp;"(D) to provide oversight for and, as directed by the Secretary, supervise the implementation of approved policies, strategies, plans, and resourcing decisions approved by the Secretary.
+
+&emsp;"(3)
+
+Guidance on teams.—Not later than September 30, 2017, the Secretary shall issue guidance—
+
+&emsp;&emsp;"(A) addressing the role, authorities, reporting relationships, resourcing, manning, training, and operations of cross-functional teams established pursuant to this subsection;
+
+&emsp;&emsp;"(B) delineating decision-making authority of such teams;
+
+&emsp;&emsp;"(C) providing that the leaders of functional components of the Department that provide personnel to such teams respect and respond to team needs and activities; and
+
+&emsp;&emsp;"(D) emphasizing that personnel selected for assignment to such teams shall faithfully represent the views and expertise of their functional components while contributing to the best of their ability to the success of the team concerned.
+
+&emsp;"(4)
+
+Participants.—In establishing a cross-functional team pursuant to this subsection, the Secretary shall consider personnel from the Office of the Secretary of Defense, the Joint Staff, the military departments, and the Defense Agencies in all functional areas that the Secretary considers appropriate.
+
+&emsp;"(5)
+
+Team personnel.—For each cross-functional team established by the Secretary pursuant to this subsection, the Secretary shall—
+
+&emsp;&emsp;"(A) assign as leader of such team a senior qualified and experienced individual, who shall report directly to the Secretary regarding the activities of such team;
+
+&emsp;&emsp;"(B) delegate to the team leader designated pursuant to subparagraph (A) authority to select members of such team from among civilian employees of the Department and members of the Armed Forces in any grade who are recommended for membership on such team by the head of a functional component of the Department within the Office of the Secretary of Defense, the Joint Staff, and the military departments, by the commander of a combatant command, or by the director of a Defense Agency;
+
+&emsp;&emsp;"(C) provide the team leader with necessary full time support from team members, and the means to co-locate team members;
+
+&emsp;&emsp;"(D) ensure that team members and all leaders in functional organizations that are in the supervisory chain for personnel serving on such team receive training in elements of successful cross-functional teams, including teamwork, collaboration, conflict resolution, and appropriately representing the views and expertise of their functional components; and
+
+&emsp;&emsp;"(E) ensure that the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] are provided information on the progress and results of such team upon request.
+
+&emsp;"(6)
+
+Team strategies and decision-making authority.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall ensure that the objectives of each cross-functional team established pursuant to this subsection are clearly established in writing, through a memorandum, statement, charter, or similar document.
+
+&emsp;&emsp;"(B)
+
+Metrics.—To improve team performance and accountability, the Secretary shall task each team, as appropriate, to establish a strategy to achieve the objectives specified by the Secretary, metrics for evaluation of the achievement of such objectives by such team, and the alignment of individual and team goals for the achievement of such objectives by such team.
+
+&emsp;&emsp;"(C)
+
+Delegation of authority.—The Secretary may delegate to a team any decision-making authority that, and shall delegate such authority as, the Secretary considers appropriate to permit such team to achieve the objectives established by the Secretary.
+
+&emsp;"(7)
+
+Review of teams.—Not later than 18 months after the date on which the first cross-functional team is established pursuant to this subsection, the Secretary shall complete an analysis, with support from external experts in organizational and management sciences, of the successes and failures of teams established pursuant to this subsection, and determine how to apply the lessons learned from that analysis.
+
+&emsp;"(8)
+
+Report on establishment.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to Congress a report on the establishment of cross-functional teams under this subsection, including descriptions from the leaders of teams established prior to the date on which this report is submitted of the manner in which the teams were designed and how they functioned.
+
+"(d)
+
+Directive on Collaborative Culture and Behavior.—The guidance issued by the Secretary of Defense pursuant to subsection (c)(3) shall also—
+
+&emsp;"(1) articulate the shared purposes, values, and principles for the operation of the Office of the Secretary of Defense that are required to promote a team-oriented, collaborative, results-driven culture within the Office to support the primary objectives of the Department of Defense;
+
+&emsp;"(2) ensure that collaboration across functional and organizational boundaries is an important factor in the performance review of leaders of cross-functional teams established pursuant to subsection (c), members of teams, and other appropriate leaders of the Department; and
+
+&emsp;"(3) identify key practices that senior leaders of the Department should follow with regard to leadership, organizational practice, collaboration, and the functioning of cross-functional teams, and the types of personnel behavior that senior leaders should encourage and discourage.
+
+"(e)
+
+Streamlining of Organizational Structure and Processes of OSD.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall take such actions as the Secretary considers appropriate to streamline the organizational structure and processes of the Office of the Secretary of Defense in order to increase spans of control, achieve a reduction in layers of management, eliminate unnecessary duplication between the Office and the Joint Staff, and reduce the time required to complete standard processes and activities.
+
+"(f)
+
+Training for Individuals Nominated for Appointment for OSD Positions Confirmed by the Senate.—
+
+&emsp;"(1)
+
+In general.—Within three months of the appointment of an individual to a position in the Office of the Secretary of Defense appointable by and with the advice and consent of the Senate, the individual shall complete a course of instruction in leadership, modern organizational practice, collaboration, and the operation of teams described in subsection (c).
+
+&emsp;"(2)
+
+Waiver.—The President may waive the requirement in paragraph (1) with respect to an individual if the Secretary determines in writing that the individual possesses, through training and experience, the skill and knowledge otherwise to be provided through a course of instruction as described in that paragraph.
+
+"(g)
+
+Comptroller General of the United States Assessments.—
+
+&emsp;"(1)
+
+Biannual report on assessments.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2016\], and every six months thereafter through December 31, 2019, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a comprehensive assessment of the actions taken under this section during the six-month period ending on the date of such report and cumulatively since the date of the enactment of this Act.
+
+&emsp;"(2)
+
+Assessment team.—The Comptroller General may establish within the Government Accountability Office a team of analysts to assist the Comptroller General in the performance assessments required by this subsection."
+
+#### Temporary Continuation of Certain Department of Defense Reporting Requirements
+
+Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, provided that:
+
+"(a)
+
+Exceptions to Reports Termination Provision.—Section 1080 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note) does not apply to any report required to be submitted to Congress by the Department of Defense, or by any officer, official, component, or element of the Department, pursuant to a provision of law specified in this section, notwithstanding the enactment of the reporting requirement by an annual national defense authorization Act or the inclusion of the report in the list of reports prepared by the Secretary of Defense pursuant to subsection (c) of such section 1080.
+
+"(b)
+
+Final Termination Date for Submittal of Exempted Reports.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), each report required pursuant to a provision of law specified in this section that is still required to be submitted to Congress as of December 31, 2021, shall no longer be required to be submitted to Congress after that date.
+
+&emsp;"(2)
+
+Reports exempted from termination.—The termination dates specified in paragraph (1) and section 1080 of the National Defense Authorization Act for Fiscal Year 2016 do not apply to the following:
+
+&emsp;&emsp;"(A) The submission of the reports on the National Military Strategy and Risk Assessment under section 153(b)(3) of title 10, United States Code.
+
+&emsp;&emsp;"(B) The submission of the future-years defense program (including associated annexes) under section 221 of title 10, United States Code.
+
+&emsp;&emsp;"(C) The submission of the future-years mission budget for the military programs of the Department of Defense under section 221 of such title.
+
+&emsp;&emsp;"(D) The submission of audits of contracting compliance by the Inspector General of the Department of Defense under section 1601(b) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2533a note).
+
+"(c)
+
+Reports Required by Title 10
+
+, United States Code.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of title 10, United States Code:
+
+&emsp;"(1) Section 113(i).
+
+&emsp;"(2) Section 117(e).
+
+&emsp;"(3) \[Section\] 118a(d).
+
+&emsp;"(4) Section 119(a) and (b).
+
+&emsp;"(5) Section 127b(f).
+
+&emsp;"(6) Section 139(h).
+
+&emsp;"(7) \[Former\] Section 139b(d).
+
+&emsp;"(8) Sections \[sic\] 153(c).
+
+&emsp;"(9) Section 171a(e) and (g)(2).
+
+&emsp;"(10) Section 179(f).
+
+&emsp;"(11) Section 196(d)(1), (d)(4), and (e)(3).
+
+&emsp;"(12) Section 223a(a).
+
+&emsp;"(13) Section 225(c)\[.\]
+
+&emsp;"(14) Section 229.
+
+&emsp;"(15) Section 231.
+
+&emsp;"(16) Section 231a.
+
+&emsp;"(17) Section 238.
+
+&emsp;"(18) Section 341(f) of title 10, United States Code, as amended by section 1246 of this Act.
+
+&emsp;"(19) Section 401(d).
+
+&emsp;"(20) Section 407(d).
+
+&emsp;"(21) Section 481a(c).
+
+&emsp;"(22) Section 482(a).
+
+&emsp;"(23) Section 488(c).
+
+&emsp;"(24) Section 494(b).
+
+&emsp;"(25) Section 526(j).
+
+&emsp;"(26) Section 946(c) (Article 146 of the Uniform Code of Military Justice).
+
+&emsp;"(27) Section 981(c).
+
+&emsp;"(28) Section 1116(d).
+
+&emsp;"(29) Section 1566(c)(3).
+
+&emsp;"(30) Section 1557(e).
+
+&emsp;"(31) Section 1781a(e).
+
+&emsp;"(32) Section 1781c(h) \[now 1781c(g)\].
+
+&emsp;"(33) Section 2011(e) \[now 322(e)\].
+
+&emsp;"(34) Section 2166(i) \[now 343(i)\].
+
+&emsp;"(35) Section 2218(h).
+
+&emsp;"(36) Section 2228(e).
+
+&emsp;"(37) Section 2229(d).
+
+&emsp;"(38) Section 2229a.
+
+&emsp;"(39) Section 2249c(c) \[now 345(c)\].
+
+&emsp;"(40) Section 2275.
+
+&emsp;"(41) Section 2276(e).
+
+&emsp;"(42) Section 2367(d).
+
+&emsp;"(43) Section 2399(g).
+
+&emsp;"(44) Section 2445b.
+
+&emsp;"(45) Section 2464(d).
+
+&emsp;"(46) Section 2466(d).
+
+&emsp;"(47) Section 2504.
+
+&emsp;"(48) Section 2561(c).
+
+&emsp;"(49) Section 2684a(g).
+
+&emsp;"(50) Section 2687a.
+
+&emsp;"(51) Section 2711.
+
+&emsp;"(52) Sections \[sic\] 2884(b) and (c).
+
+&emsp;"(53) Section 2911(a) and (b)(3).
+
+&emsp;"(54) Section 2925.
+
+&emsp;"(55) Section 2926(c)(4).
+
+&emsp;"(56) Section 4361(d)(4)(B).
+
+&emsp;"(57) Section 4721(e).
+
+&emsp;"(58) Section 6980(d)(4)(B).
+
+&emsp;"(59) Section 7310(c).
+
+&emsp;"(60) Section 9361(d)(4)(B).
+
+&emsp;"(61) Section 10216(c).
+
+&emsp;"(62) Section 10541.
+
+&emsp;"(63) Section 10543.
+
+"(d)
+
+Reports Required by National Defense Authorization Act for Fiscal Year 2015.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291):
+
+&emsp;"(1) Section 546(d) (10 U.S.C. 1561 note).
+
+&emsp;"(2) Section 1003\[A\] (10 U.S.C. 221 note).
+
+&emsp;"(3) Section 1026(d) (128 Stat. 3490).
+
+&emsp;"(4) Section 1055 (128 Stat. 3498).
+
+&emsp;"(5) Section 1204(b) (10 U.S.C. 2249e note) \[now 10 U.S.C. 362 note\].
+
+&emsp;"(6) Section 1205(e) (128 Stat. 3537).
+
+&emsp;"(7) Section 1206(e) (10 U.S.C. 2282 note).
+
+&emsp;"(8) Section 1211 (128 Stat. 3544).
+
+&emsp;"(9) Section 1225 (128 Stat. 3550).
+
+&emsp;"(10) Section 1235 (128 Stat. 3558).
+
+&emsp;"(11) Section 1245 (128 Stat. 3566).
+
+&emsp;"(12) Section 1253(b) (22 U.S.C. 2151 note).
+
+&emsp;"(13) Section 1275(b) (128 Stat. 3591).
+
+&emsp;"(14) Section 1343 (128 Stat. 3605; 50 U.S.C. 3743).
+
+&emsp;"(15) Section 1650 (128 Stat. 3653).
+
+&emsp;"(16) Section 1662(c)(2) and (d)(2) (128 Stat. 3657; 10 U.S.C. 2431 note).
+
+&emsp;"(17) Section 2821(a)(3) (10 U.S.C. 2687 note).
+
+"(e)
+
+Reports Required by National Defense Authorization Act for Fiscal Year 2014.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66):
+
+&emsp;"(1) Section 704(e) (10 U.S.C. 1074 note).
+
+&emsp;"(2) Sections \[sic\] 713(f), (g), and (h) (10 U.S.C. 1071 note).
+
+&emsp;"(3) Section 904(d)(2) (10 U.S.C. 111 note).
+
+&emsp;"(4) \[Former\] Section 1205(f)(3) (\[Former\] 32 U.S.C. 107 note).
+
+"(f)
+
+Reports Required by National Defense Authorization Act for Fiscal Year 2013.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239):
+
+&emsp;"(1) Section 524(c)(2) (10 U.S.C. 1222 note).
+
+&emsp;"(2) Section 904(h)(1) and (2) (10 U.S.C. 133 note).
+
+&emsp;"(3) Section 1009 (126 Stat. 1906).
+
+&emsp;"(4) Section 1023 (126 Stat. 1911).
+
+&emsp;"(5) Section 1052(b)(4) (126 Stat. 1936; 49 U.S.C. 40101 note).
+
+"(g)
+
+Reports Required by National Defense Authorization Act for Fiscal Year 2011.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383):
+
+&emsp;"(1) Section 123 (10 U.S.C. 167 note).
+
+&emsp;"(2) Section 1216(c) (124 Stat. 4392).
+
+&emsp;"(3) Section 1217(i) (22 U.S.C. 7513 note).
+
+&emsp;"(4) Section 1631(d) (10 U.S.C. 1561 note).
+
+"(h)
+
+Reports Required by National Defense Authorization Act for Fiscal Year 2010.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following sections of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84):
+
+&emsp;"(1) Section 711(d) (10 U.S.C. 1071 note).
+
+&emsp;"(2) Section 1003(b) (10 U.S.C. 2222 note).
+
+&emsp;"(3) Section 1244(d) (22 U.S.C. 1928 note).
+
+&emsp;"(4) Section 1245 (123 Stat. 2542) \[10 U.S.C. 113 note\].
+
+&emsp;"(5) Section 1806 (10 U.S.C. 948a note).
+
+"(i)
+
+Reports Required by Other Laws.—Subject to subsection (b), subsection (a) applies to reporting requirements contained in the following provisions of law:
+
+&emsp;"(1) Sections \[sic\] 1412(i) and (j) of the National Defense Authorization Act, 1986 \[probably should be "Department of Defense Authorization Act, 1986"\] (50 U.S.C. 1521), as amended by section 1421 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383).
+
+&emsp;"(2) Section 1703 of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 1523).
+
+&emsp;"(3) Section 717(c) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 1073 note).
+
+&emsp;"(4) Section 234 of the National Defense Authorization Act for Fiscal Year 1998 (50 U.S.C. 2367).
+
+&emsp;"(5) Section 1309(c) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 10 U.S.C. 113 note).
+
+&emsp;"(6) Section 1237(b)(2) of the \[Strom Thurmond\] National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 50 U.S.C. 1701 note).
+
+&emsp;"(7) Section 1202 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 10 U.S.C. 113 note).
+
+&emsp;"(8) Section 232(h)(2) \[probably should be "232(h)(3)"\] of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 2431 note).
+
+&emsp;"(9) Section 366(a)(5) and (c)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. 113 note).
+
+&emsp;"(10) Section 1208(f) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086).
+
+&emsp;"(11) Section 1208(d) of the National Defense Authorization Act for \[Fiscal Year\] 2006 (Public Law 109–163; 119 Stat. 3459).
+
+&emsp;"(12) Section 1405(d) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 10 U.S.C. 801 note).
+
+&emsp;"(13) Section 122(f)(1) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2104).
+
+&emsp;"(14) Section 721 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2294) \[10 U.S.C. 1074 note\].
+
+&emsp;"(15) Section 1017(e) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 2631 note).
+
+&emsp;"(16) Section 1517(f) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2443).
+
+&emsp;"(17) Section 911(f)(2) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 2271 note).
+
+&emsp;"(18) Section 1034(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 309) \[10 U.S.C. 272 note\].
+
+&emsp;"(19) Section 1107(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 358) \[10 U.S.C. 2358 note\].
+
+&emsp;"(20) Section 1233(f) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 393).
+
+&emsp;"(21) Section 1234(e) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 394).
+
+&emsp;"(22) Section 219(c) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note).
+
+&emsp;"(23) Section 533(i) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2010 \[2009\] (Public Law 110–417) \[10 U.S.C. note prec. 701\].
+
+&emsp;"(24) Section 1047(d)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2010 \[2009\] (Public Law 110–417; 10 U.S.C. 2366b note).
+
+&emsp;"(25) Section 1201(b)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1619).
+
+&emsp;"(26) Section 1236 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1641).
+
+&emsp;"(27) Section 103A(b)(3) \[probably should be "103a(b)(3)"\] of the Sikes Act (16 U.S.C. 670c–1(b)(3)).
+
+&emsp;"(28) Section 1511(h) of the Armed Forces Retirement Home Act of 1991 (24 U.S.C. 411(h)).
+
+&emsp;"(29) Section 901(f) \[now 901(g)\] of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 32 U.S.C. 112 note), as added by section 1008 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239).
+
+&emsp;"(30) Section 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5).
+
+&emsp;"(31) Section 105A(b) of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20308(b)), as added by section 586 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84).
+
+&emsp;"(32) Section 112(f) of title 32, United States Code.
+
+&emsp;"(33) Section 310b(i)(2) \[probably should be "301b(i)(2)"\] of title 37, United States Code.
+
+"(j) \[Amended section 1080(a) of Pub. L. 114–92, set out below.\]
+
+"(k)
+
+Report to Congress.—Not later than February 1, 2017, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes each of the following:
+
+&emsp;"(1) A list of all reports that are required to be submitted to Congress as of the date of the enactment of this Act \[Dec. 23, 2016\] that will no longer be required to be submitted to Congress as of November 25, 2017.
+
+&emsp;"(2) For each such report, a citation to the provision of law under which the report is or was required to be submitted."
+
 #### Reduction in Amounts Available for Department of Defense Headquarters, Administrative, and Support Activities
 
 Pub. L. 114–92, div. A, title III, §346(a), (b), Nov. 25, 2015, 129 Stat. 796, provided that:
@@ -110,7 +602,7 @@ Headquarters Reductions.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], theSecretary of Defense shall modify the headquarters reduction plan required by section 904 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 816; 10 U.S.C. 111 note) to ensure that it achieves savings in the total funding available for major Department of Defense headquarters activities by fiscal year 2020 that are not less than 25 percent of the baseline amount. The modified plan shall establish a specific savings objective for each major headquarters activity in each fiscal year through fiscal year 2020. The budget for the Department of Defense for each fiscal year after fiscal year 2016 shall reflect the savings required by the modified plan.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall modify the headquarters reduction plan required by section 904 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 816; 10 U.S.C. 111 note) to ensure that it achieves savings in the total funding available for major Department of Defense headquarters activities by fiscal year 2020 that are not less than 25 percent of the baseline amount. The modified plan shall establish a specific savings objective for each major headquarters activity in each fiscal year through fiscal year 2020. The budget for the Department of Defense for each fiscal year after fiscal year 2016 shall reflect the savings required by the modified plan.
 
 &emsp;"(2)
 
@@ -164,11 +656,11 @@ Implementation.—Not later than 120 days after the date of the enactment of thi
 
 #### Termination of Requirement for Submittal to Congress of Reports Required of Department of Defense by Statute
 
-Pub. L. 114–92, div. A, title X, §1080, Nov. 25, 2015, 129 Stat. 1000, provided that:
+Pub. L. 114–92, div. A, title X, §1080, Nov. 25, 2015, 129 Stat. 1000, as amended by Pub. L. 114–328, div. A, title X, §1061(j), Dec. 23, 2016, 130 Stat. 2405, provided that:
 
 "(a)
 
-Termination.—Effective on the date that is two years after the date of the enactment of this Act \[Nov. 25, 2015\], each report described in subsection (b) that is still required to be submitted to Congress as of such effective date shall no longer be required to be submitted to Congress.
+Termination.—Effective November 25, 2017, each report described in subsection (b) that is still required to be submitted to Congress as of such date shall no longer be required to be submitted to Congress.
 
 "(b)
 
@@ -255,6 +747,8 @@ Status report.—The Secretary shall include with the Department of Defense mate
 &emsp;&emsp;"(F) A description of how the plan supports or affects current Department of Defense strategic guidance, policy, and mission requirements, including the quadrennial defense review, the Unified Command Plan, and the strategic choices and management review.
 
 &emsp;&emsp;"(G) A description of the associated costs specifically addressed by the savings."
+
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 904(d)(2) of Pub. L. 113–66, set out above, see section 1061 of Pub. L. 114–328, set out as a note above.\]
 
 #### Military Activities in Cyberspace
 
@@ -382,7 +876,7 @@ Pub. L. 104–201, div. A, title IX, §912, Sept. 23, 1996, 110 Stat. 2623, as a
 
 "(a)
 
-Telecommunications Support and Audiovisual Support Services.—The Secretary of Defense shall ensure that the activities of the White House Communications Agency in providing support services on a nonreimbursable basis for the President from funds appropriated for the Department of Defense for any fiscalyear are limited to the provision of telecommunications support and audiovisual support services to the President and Vice President and to related elements (as defined in regulations of that agency and specified by the President with respect to particular individuals within those related elements).
+Telecommunications Support and Audiovisual Support Services.—The Secretary of Defense shall ensure that the activities of the White House Communications Agency in providing support services on a nonreimbursable basis for the President from funds appropriated for the Department of Defense for any fiscal year are limited to the provision of telecommunications support and audiovisual support services to the President and Vice President and to related elements (as defined in regulations of that agency and specified by the President with respect to particular individuals within those related elements).
 
 "(b)
 
@@ -412,7 +906,7 @@ Termination of Report Requirements.—Unless otherwise provided by a law enacted
 
 Preparation of List.—(1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
-"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
+"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit thatreport is unnecessary or incompatible with the efficient management of the Department of Defense.
 
 "(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
@@ -446,7 +940,7 @@ Pub. L. 99–433, §3, Oct. 1, 1986, 100 Stat. 993, provided that: "In enacting 
 
 &emsp;"(3) to place clear responsibility on the commanders of the unified and specified combatant commands for the accomplishment of missions assigned to those commands;
 
-&emsp;"(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility ofthose commanders for the accomplishment of missions assigned to their commands;
+&emsp;"(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility of those commanders for the accomplishment of missions assigned to their commands;
 
 &emsp;"(5) to increase attention to the formulation of strategy and to contingency planning;
 

@@ -14,7 +14,7 @@ When used in this chapter—
 
 (f) The term "Director" shall be deemed to mean the Director of the Selective Service System.
 
-(g)(1) The term "duly ordained minister of religion" means a person who has been ordained, in accordance with the ceremonial, ritual, or discipline of a church, religious sect, or organization established on the basis of a community of faith and belief, doctrines and practices of a religious character, to preach and to teach the doctrines of such church, sect, or organization and to administer the rites and ceremonies thereof in public worship, and who as his regular and customary vocation preaches and teaches the principles of religion and administers the ordinances of public worship as embodied in the creed or principles of such church, sect, or organization.
+(g)(1) The term "duly ordained minister of religion" means a person who has been ordained, in accordance with the ceremonial, ritual, or discipline of a church, religious sect, or organization established on the basis of a community of faith and belief, doctrines and practices of a religious character, to preach and to teach thedoctrines of such church, sect, or organization and to administer the rites and ceremonies thereof in public worship, and who as his regular and customary vocation preaches and teaches the principles of religion and administers the ordinances of public worship as embodied in the creed or principles of such church, sect, or organization.
 
 (2) The term "regular minister of religion" means one who as his customary vocation preaches and teaches the principles of religion of a church, a religious sect, or organization of which he is a member, without having been formally ordained as a minister of religion, and who is recognized by such church, sect, or organization as a regular minister.
 
@@ -52,7 +52,7 @@ Subsec. (i). Act Sept. 27, 1950, §1(13), struck out "and" after "Naval Reserve"
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard.
 

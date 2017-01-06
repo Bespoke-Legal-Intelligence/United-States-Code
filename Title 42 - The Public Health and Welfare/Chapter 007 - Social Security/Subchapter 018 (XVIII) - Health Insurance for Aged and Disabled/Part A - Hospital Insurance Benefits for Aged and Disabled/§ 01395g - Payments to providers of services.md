@@ -98,7 +98,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004."
+Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004."
 
 #### Effective Date of 1997 Amendment
 
@@ -120,7 +120,7 @@ Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contra
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–142, §2(a)(4), Oct. 25, 1977, 91 Stat. 1176, provided that: "The amendments made by this subsection \[amending this section and sections 1395u and 1396a of this title\] shall apply with respect to care and servicesfurnished on or after the date of the enactment of this Act \[Oct. 25, 1977\]."
+Pub. L. 95–142, §2(a)(4), Oct. 25, 1977, 91 Stat. 1176, provided that: "The amendments made by this subsection \[amending this section and sections 1395u and 1396a of this title\] shall apply with respect to care and services furnished on or after the date of the enactment of this Act \[Oct. 25, 1977\]."
 
 #### Effective Date of 1975 Amendment
 

@@ -6,7 +6,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 &emsp;(1) reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, tunnels, and other facilities and systems for the impoundment, storage, transportation, or distribution of water;
 
-&emsp;(2) pipelines and other systems for the transportation or distribution of liquids and gases, other than water and other than oil, natural gas, synthetic liquid or gaseous fuels, or anyrefined product produced therefrom, and for storage and terminal facilities in connection therewith;
+&emsp;(2) pipelines and other systems for the transportation or distribution of liquids and gases, other than water and other than oil, natural gas, synthetic liquid or gaseous fuels, or any refined product produced therefrom, and for storage and terminal facilities in connection therewith;
 
 &emsp;(3) pipelines, slurry and emulsion systems, and conveyor belts for transportation and distribution of solid materials, and facilities for the storage of such materials in connection therewith;
 
@@ -58,7 +58,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (C) Except as otherwise provided in this subsection, all rights-of-way issued pursuant to this subsection are subject to all conditions and requirements of this Act.
 
-(D) In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refuses to perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
+(D) In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refusesto perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
 
 #### (d) Rights-of-way on certain Federal lands
 

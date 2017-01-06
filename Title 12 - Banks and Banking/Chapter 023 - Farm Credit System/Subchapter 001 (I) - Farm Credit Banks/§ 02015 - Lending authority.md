@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) any production credit association, or
 
-&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged inthe making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
+&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
 
 > &emsp;any note, draft, or other obligation with the institution's endorsement or guarantee, the proceeds of which note, draft, or other obligation have been advanced to persons and for purposes eligible for financing by production credit associations as authorized by this chapter.
 
@@ -60,7 +60,7 @@
 
 #### (D) Subsidiaries and affiliates
 
-&emsp;&emsp;For purposes of this subsection, a financing institution together with the subsidiaries and affiliates of such may be considered as one, but such determination to consider such institution together with the subsidiaries and affiliates of such as one shall be made in the first instance by the bank and in the event of a denial by the bank of its services to a financial institution, then by the Farm Credit Administration on a case-by-case basis with due regard to the total relationship of the financing institution, its subsidiaries, and affiliates.
+&emsp;&emsp;For purposes of this subsection, a financing institution together with the subsidiaries and affiliates of such may be considered as one, but such determination to consider such institution together with the subsidiaries and affiliates of such as one shall be made in the first instance by the bank and in the event of a denial by the bank ofits services to a financial institution, then by the Farm Credit Administration on a case-by-case basis with due regard to the total relationship of the financing institution, its subsidiaries, and affiliates.
 
 #### (5) Effective date
 
@@ -88,5 +88,9 @@ Subsec. (b)(4)(A). Pub. L. 100–399, §401(f)(3), substituted "subsection" for 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233,which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+#### Effective Date
+
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 

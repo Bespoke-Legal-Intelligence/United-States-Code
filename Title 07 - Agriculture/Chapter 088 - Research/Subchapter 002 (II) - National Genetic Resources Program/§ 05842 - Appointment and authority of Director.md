@@ -32,7 +32,7 @@ The Director shall—
 
 The Director shall prepare and transmit to the Secretary and to the Congress a biennial report containing—
 
-&emsp;(1) a description of the activities carried out by and through the program and the policiesof the program, and such recommendations respecting such activities and policies as the Director considers to be appropriate;
+&emsp;(1) a description of the activities carried out by and through the program and the policies of the program, and such recommendations respecting such activities and policies as the Director considers to be appropriate;
 
 &emsp;(2) a description of the necessity for, and progress achieved toward providing, additional programs and activities designed to include the range of genetic resources described in section 5841(d)(5) of this title in the activities of the program; and
 

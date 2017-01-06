@@ -66,7 +66,7 @@ Pub. L. 112–81, div. A, title V, §553, Dec. 31, 2011, 125 Stat. 1413, as amen
 
 "(a)
 
-Waiver for Certain Enlisted Members.—The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy,the United States Naval Academy, or the United States Air Force Academy if the member—
+Waiver for Certain Enlisted Members.—The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy if the member—
 
 &emsp;"(1) satisfies the eligibility requirements for admission to that academy (other than the maximum age limitation); and
 
@@ -110,5 +110,5 @@ Definitions.—For purposes of this section:
 
 #### Persons From Countries Assisting U.S. in Vietnam; Service Academy Instruction: Oath of Trainees
 
-Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, §1(g), Nov. 9, 1966, 80 Stat. 1519, set out as a note under section 4344 of this title.
+Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, §1(g), Nov. 9, 1966, 80 Stat. 1519, formerly set out as a note under section 4344 of this title.
 

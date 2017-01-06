@@ -22,13 +22,13 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(2) that such agency is not being substantially compensated for the loss in revenue resulting from such ownership by increases in revenue accruing to the agency from the conduct of Federal activities with respect to such Federal property,
 
-> then such agency shall be eligible to receive the amount described in subsection (b) or (h) of this section.
+> then such agency shall be eligible to receive the amount described in subsection (b) or (h).
 
 #### (b) Amount
 
 #### (1) In general
 
-&emsp;(A)(i)(I) Subject to subclauses (II) and (III), the amount that a local educational agency shall be paid under subsection (a) of this section for a fiscal year shall be calculated in accordance with paragraph (2).
+&emsp;(A)(i)(I) Subject to subclauses (II) and (III), the amount that a local educational agency shall be paid under subsection (a) for a fiscal year shall be calculated in accordance with paragraph (2).
 
 &emsp;(II) Except as provided in subclause (III), the Secretary may not reduce the amount of a payment under this section to a local educational agency for a fiscal year by (aa) the amount equal to the amount of revenue, if any, the agency received during the previous fiscal year from activities conducted on Federal property eligible under this section and located in a school district served by the agency, including amounts received from any Federal department or agency (other than the Department of Education) from such activities, by reason of receipt of such revenue, or (bb) any other amount by reason of receipt of such revenue.
 
@@ -40,9 +40,9 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;&emsp;(II) the provision of a free public education to dependents of members of the Armed Forces residing on or near a military installation.
 
-&emsp;(B) If funds appropriated under section 7714(a) of this title are insufficient to pay the amount determined under subparagraph (A), the Secretary shall calculate the payment for each eligible local educational agency in accordance with subsection (h) of this section.
+&emsp;(B) If funds appropriated under section 7714(a) of this title are insufficient to pay the amount determined under subparagraph (A), the Secretary shall calculate the payment for each eligible local educational agency in accordance with subsection (h).
 
-&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agency may not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
+&emsp;(C) Notwithstanding any other provision of this subsection, a local educational agencymay not be paid an amount under this section that, when added to the amount such agency receives under section 7703(b) of this title, exceeds the maximum amount that such agency is eligible to receive for such fiscal year under section 7703(b)(1)(C) of this title, or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater.
 
 #### (2) Application of current levied real property tax rate
 
@@ -52,7 +52,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 #### (A) In general
 
-&emsp;&emsp;In determining the estimated taxable value of such acquired Federal property forfiscal year 2010 and each succeeding fiscal year, the Secretary shall—
+&emsp;&emsp;In determining the estimated taxable value of such acquired Federal property for fiscal year 2010 and each succeeding fiscal year, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) first determine the total taxable value for the purpose of levying property tax for school purposes for current expenditures of real property located within the boundaries of such local educational agency;
 
@@ -78,7 +78,7 @@ For the purpose of this section, any real property with respect to which payment
 
 The United States shall be deemed to own Federal property for the purposes of this chapter, where—
 
-&emsp;(1) prior to the transfer of Federal property, the United States owned Federal property meeting the requirements of subparagraphs (A), (B), and (C) of subsection (a)(1) of this section; and
+&emsp;(1) prior to the transfer of Federal property, the United States owned Federal property meeting the requirements of subparagraphs (A), (B), and (C) of subsection (a)(1); and
 
 &emsp;(2) the United States transfers a portion of the property referred to in paragraph (1) to another nontaxable entity, and the United States—
 
@@ -94,7 +94,7 @@ The United States shall be deemed to own Federal property for the purposes of th
 
 #### (e) Local educational agency containing Forest Service land and serving certain counties
 
-Beginning with fiscal year 1995, a local educational agency shall be deemed to meet the requirements of subsection (a)(1)(C) of this section if such local educational agency meets the following requirements:
+Beginning with fiscal year 1995, a local educational agency shall be deemed to meet the requirements of subsection (a)(1)(C) if such local educational agency meets the following requirements:
 
 #### (1) Acreage and acquisition by the Forest Service
 
@@ -106,7 +106,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (f) Special rule
 
-For each fiscal year beginning on or after December 10, 2015, a local educational agency shall be deemed to meet the requirements of subsection (a)(1)(C) if the agency was eligible under paragraph (1) or (3) of section 7702(f) of this title as such section was in effect on the day before December 10, 2015.
+For each fiscal year beginning on or after December 10, 2015, a local educational agency shallbe deemed to meet the requirements of subsection (a)(1)(C) if the agency was eligible under paragraph (1) or (3) of section 7702(f) of this title as such section was in effect on the day before December 10, 2015.
 
 #### (g) Former districts
 
@@ -118,7 +118,7 @@ For each fiscal year beginning on or after December 10, 2015, a local educationa
 
 &emsp;A local educational agency referred to in paragraph (1) is—
 
-&emsp;&emsp;(A) any local educational agency that, for fiscal year 1994 or any preceding fiscal year, applied, and was determined to be eligible under, section 2(c) of the Act of September30, 1950 (Public Law 874, 81st Congress) as that section was in effect for that fiscal year; or
+&emsp;&emsp;(A) any local educational agency that, for fiscal year 1994 or any preceding fiscal year, applied, and was determined to be eligible under, section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress) as that section was in effect for that fiscal year; or
 
 &emsp;&emsp;(B) a local educational agency—
 
@@ -132,7 +132,7 @@ For each fiscal year beginning on or after December 10, 2015, a local educationa
 
 #### (h) Payments with respect to fiscal years in which insufficient funds are appropriated
 
-For any fiscal year for which the amount appropriated under section 7714(a) of this title is insufficient to pay to each eligible local educational agency the full amount determined under subsection (b) of this section, the Secretary shall make payments to each local educational agency under this section as follows:
+For any fiscal year for which the amount appropriated under section 7714(a) of this title is insufficient to pay to each eligible local educational agency the full amount determined under subsection (b), the Secretary shall make payments to each local educational agency under this section as follows:
 
 #### (1) Foundation payments for pre-2010 recipients
 
@@ -180,7 +180,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (3) Remaining funds
 
-&emsp;From any funds remaining after making payments under paragraphs (1) and (2) for thefiscal year involved, the Secretary shall make a payment to each local educational agency that received a foundation payment under paragraph (1) or (2) or subsection (i)(1), for the fiscal year involved in an amount that bears the same relation to the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) by the total of the maximum amounts for all such agencies) bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b), data from the most current fiscal year shall be used.
+&emsp;From any funds remaining after making payments under paragraphs (1) and (2) for the fiscal year involved, the Secretary shall make a payment to each local educational agency that received a foundation payment under paragraph (1) or (2) or subsection (i)(1), for the fiscal year involved in an amount that bears the same relation to the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) by the total of the maximum amounts for all such agencies) bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b), data from the most current fiscal year shall be used.
 
 #### (4) Data
 
@@ -190,7 +190,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (1) In general
 
-&emsp;For any fiscal year beginning with fiscal year 2000 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996 and for which subsection (b)(1)(B) of this section applies, the Secretary shall use the remainder described in subsection (h)(3) of this section for the fiscal year involved (not to exceed the amount equal to the difference between (A) the amount appropriated to carry out this section for fiscal year 1997 and (B) the amount appropriated to carry out this section for fiscal year 1996) to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency described in paragraph (2).
+&emsp;For any fiscal year beginning with fiscal year 2000 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996 and for which subsection (b)(1)(B) applies, the Secretary shall use the remainder described in subsection (h)(3) for the fiscal year involved (not to exceed the amount equal to the difference between (A) the amount appropriated to carry out this section for fiscal year 1997 and (B) the amount appropriated to carry out this section for fiscal year 1996) to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) for any local educational agency described in paragraph (2).
 
 #### (2) Local educational agency described
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;(1) shall use data from the prior fiscal year with respect to the Federal property involved, including data with respect to the assessed value of the property and the real property tax rate for current expenditures levied against or imputed to the property; and
 
-&emsp;(2) shall use data from the second prior fiscal year with respect to determining the amount of revenue referred to in subsection (b)(1)(A)(i) of this section.
+&emsp;(2) shall use data from the second prior fiscal year with respect to determining the amount of revenue referred to in subsection (b)(1)(A)(i).
 
 #### (k) Loss of eligibility
 
@@ -224,13 +224,13 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(A) was eligible for, and received, a payment under this section for fiscal year 2002; and
 
-&emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) of this section as a result of the transfer of the Federal property involved to a non-Federal entity.
+&emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) as a result of the transfer of the Federal property involved to a non-Federal entity.
 
-(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
+(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101,Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
 
 #### References in Text
 
-Section 7702(f) of this title as such section was in effect on the day before December 10, 2015, referred to in subsec. (f), means section 7702(f) of this title prior to amendment by Pub. L. 114–95, title VII, §§7001(c)(1),7003(4), Dec. 10, 2015, 129 Stat. 2074, 2076. See 2015 Amendment note below.
+Section 7702(f) of this title as such section was in effect on the day before December 10, 2015, referred to in subsec. (f), means section 7702(f) of this title prior to amendment by Pub. L. 114–95, title VII, §§7001(c)(1), 7003(4), Dec. 10, 2015, 129 Stat. 2074, 2076. See 2015 Amendment note below.
 
 Section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in subsec. (g)(2)(A), means section 2(c) of act Sept. 30, 1950, ch. 1124, which was classified to section 237(c) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
@@ -290,13 +290,13 @@ Subsec. (h)(2) to (4). Pub. L. 112–239, §563(b)(1)(C)(ii), added pars. (2) to
 
 <b>2002</b>—Subsec. (h)(1)(A). Pub. L. 107–110, §801(a)(1), substituted "and that filed, or has been determined pursuant to statute to have filed a timely application, and met, or has been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950" for "and was eligible to receive a payment under section 2 of the Act of September 30, 1950".
 
-Subsec. (h)(1)(B). Pub. L. 107–110, §801(a)(2), substituted "(or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994" for "(or if the local educational agency was not eligible to receive a payment under such section 2 for fiscal year 1994".
+Subsec. (h)(1)(B). Pub. L. 107–110, §801(a)(2), substituted "(or if the local educational agency did notmeet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994" for "(or if the local educational agency was not eligible to receive a payment under such section 2 for fiscal year 1994".
 
 Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end ", or whose application under this section for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years".
 
 Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted "for each local educational agency described in subparagraph (A)" for "for each local educational agency that received a payment under this section for fiscal year 1995".
 
-Subsec. (h)(4)(B). Pub. L. 107–110, §801(c), substituted "(by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)" for "(in the same manner as percentage shares are determined for local educational agencies under paragraph (2)(B)(ii))" and ", except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section"for ", except that for the purpose of calculating a local educational agency's assessed value of the Federal property".
+Subsec. (h)(4)(B). Pub. L. 107–110, §801(c), substituted "(by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)" for "(in the same manner as percentage shares are determined for local educational agencies under paragraph (2)(B)(ii))" and ", except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section" for ", except that for the purpose of calculating a local educational agency's assessed value of the Federal property".
 
 Subsec. (j). Pub. L. 107–110, §801(d), struck out subsec. (j) which authorized additional assistance for certain local educational agencies impacted by Federal property acquisition.
 
@@ -306,7 +306,7 @@ Subsec. (n). Pub. L. 107–110, §801(e), added subsec. (n).
 
 Subsec. (b)(1)(A)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(b)(1)\], designated existing provisions as subcl. (I), substituted "Subject to subclauses (II) and (III), the amount" for "The amount", struck out ", except that such amount shall be reduced by the Secretary by an amount equal to the amount of revenue, if any, that such agency received during the previous fiscal year from activities conducted on such Federal property" after "in accordance with paragraph (2)", and added subcls. (II) and (III).
 
-Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(b)(2)\], substituted "shall calculate the payment for each eligible local educational agency in accordance with subsection (h) of this section" for "shall ratably reduce the payment to each eligible local educational agency".
+Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(b)(2)\], substituted "shall calculate the payment for each eligible local educational agency in accordance with subsection (h)" for "shall ratably reduce the payment to each eligible local educational agency".
 
 Subsec. (b)(1)(C). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(b)(3)\], inserted before period at end ", or the maximum amount that such agency is eligible to receive for such fiscal year under this section, whichever is greater".
 

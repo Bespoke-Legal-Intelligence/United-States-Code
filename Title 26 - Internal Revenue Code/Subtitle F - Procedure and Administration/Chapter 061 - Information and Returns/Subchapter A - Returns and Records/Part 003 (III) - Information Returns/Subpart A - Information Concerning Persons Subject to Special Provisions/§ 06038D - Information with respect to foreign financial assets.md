@@ -56,7 +56,7 @@ If—
 
 #### (f) Application to certain entities
 
-To the extent provided by the Secretary in regulations or other guidance, the provisions of this section shall apply to any domestic entity which is formed or availed of for purposes of holding, directly or indirectly, specified foreign financial assets, in the same manner as if such entity were an individual.
+To the extent provided by the Secretary in regulations or other guidance, the provisions of this section shall apply to any domestic entitywhich is formed or availed of for purposes of holding, directly or indirectly, specified foreign financial assets, in the same manner as if such entity were an individual.
 
 #### (g) Reasonable cause exception
 

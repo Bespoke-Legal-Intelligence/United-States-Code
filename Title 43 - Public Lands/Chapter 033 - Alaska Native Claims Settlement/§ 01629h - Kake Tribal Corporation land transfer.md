@@ -4,7 +4,7 @@
 
 If—
 
-&emsp;(1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act (Public Law 85–508) to lands described in subsection (c)(2) of this section; and
+&emsp;(1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act\(Public Law 85–508) to lands described in subsection (c)(2) of this section; and
 
 &emsp;(2) Kake Tribal Corporation and Sealaska Corporation convey all right, title, and interest to lands described in subsection (c)(1) to the City of Kake, Alaska,
 
@@ -34,7 +34,7 @@ The maps referred to in this chapter shall be maintained on file in the Office o
 
 #### (f) Watershed management
 
-The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreementsmay be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
+The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreements may be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
 
 #### (g) Effective date
 

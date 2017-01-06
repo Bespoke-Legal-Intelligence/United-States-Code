@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The Attorney General shall appoint a National Forensic Science Commission (in this section referred to as the "Commission"), composed of persons experienced in criminal justice issues, including persons from the forensic science and criminal justice communities, to carry out the responsibilities under subsection (b) of this section.
+The Attorney General shall appoint a National Forensic Science Commission (in this section referred to as the "Commission"), composed of persons experienced in criminal justice issues, including persons from the forensic science and criminal justice communities, to carry out the responsibilities under subsection (b).
 
 #### (b) Responsibilities
 
@@ -52,5 +52,5 @@ There are authorized to be appropriated $500,000 for each of fiscal years 2005 t
 
 #### Codification
 
-Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 

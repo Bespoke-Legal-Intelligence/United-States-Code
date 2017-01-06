@@ -32,6 +32,7 @@
 | [1533\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001533%20-%20Information%20collection%20and%20dissemination%20with%20respect%20to%20grant%20recipients.md) | Information collection and dissemination with respect to grant recipients. |
 | [1534\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001534%20-%20Technical%20assistance%20and%20training.md) | Technical assistance and training. |
 | [1535\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001535%20-%20Supplemental%20grants%20for%20coalition%20mentoring%20activities.md) | Supplemental grants for coalition mentoring activities. |
+| [1536\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001536%20-%20Community-based%20coalition%20enhancement%20grants%20to%20address%20local%20drug%20crises.md) | Community-based coalition enhancement grants to address local drug crises. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

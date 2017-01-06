@@ -1,0 +1,6 @@
+### §967. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–235, §7, Sept. 14, 1961, 75 Stat. 509, which authorized the prescription of rules and regulations, was omitted from the Code as being of special and not general application.
+

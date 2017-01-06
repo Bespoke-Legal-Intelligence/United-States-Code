@@ -6,7 +6,7 @@ For the purposes of this chapter:
 
 &emsp;(2) The term "Commission" means the Federal Trade Commission.
 
-&emsp;(3) The term "consumer" means a buyer (other than for purposes of resale) of any consumer product, any person to whom such product is transferred during the duration of animplied or written warranty (or service contract) applicable to the product, and any other person who is entitled by the terms of such warranty (or service contract) or under applicable State law to enforce against the warrantor (or service contractor) the obligations of the warranty (or service contract).
+&emsp;(3) The term "consumer" means a buyer (other than for purposes of resale) of any consumer product, any person to whom such product is transferred during the duration of an implied or written warranty (or service contract) applicable to the product, and any other person who is entitled by the terms of such warranty (or service contract) or under applicable State law to enforce against the warrantor (or service contractor) the obligations of the warranty (or service contract).
 
 &emsp;(4) The term "supplier" means any person engaged in the business of making a consumer product directly or indirectly available to consumers.
 
@@ -20,7 +20,7 @@ For the purposes of this chapter:
 
 > &emsp;which written affirmation, promise, or undertaking becomes part of the basis of the bargain between a supplier and a buyer for purposes other than resale of such product.
 
-&emsp;(7) The term "implied warranty" means an implied warranty arising under State law (as modified by sections 2308 and 2304(a) of this title) in connection with the sale by a supplier of a consumer product.
+&emsp;(7) The term "implied warranty" means an implied warranty arising under State law (as modified by sections 2308 and 2304(a) of thistitle) in connection with the sale by a supplier of a consumer product.
 
 &emsp;(8) The term "service contract" means a contract in writing to perform, over a fixed period of time or for a specified duration, services relating to the maintenance or repair (or both) of a consumer product.
 

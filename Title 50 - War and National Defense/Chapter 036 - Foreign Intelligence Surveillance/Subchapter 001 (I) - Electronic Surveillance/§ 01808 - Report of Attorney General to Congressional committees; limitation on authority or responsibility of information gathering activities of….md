@@ -8,7 +8,7 @@
 
 &emsp;(B) each criminal case in which information acquired under this chapter has been authorized for use at trial during the period covered by such report;
 
-&emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(e) of this title and the total number of subsequent orders approving or denying such electronic surveillance; and
+&emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(e) of this title and the total number ofsubsequent orders approving or denying such electronic surveillance; and
 
 &emsp;(D) the total number of authorizations under section 1805(f) of this title and the total number of subsequent emergency employments of electronic surveillance under section 1805(e) of this title or emergency physical searches pursuant to section 301(e).<sup>1</sup>
 
@@ -18,7 +18,7 @@
 
 #### References in Text
 
-Section 301, referred to in subsec. (a)(2)(D), means section 301 of Pub. L. 95–511, which is classified to section 1821 of this title, relates to definitions for terms used in subchapter II of this chapter, and does not contain a subsec. (e). Section 304(e) of Pub. L. 95–511, which is classified to section 1824(e) of this title, relates toauthorizations and orders for emergency physical searches.
+Section 301, referred to in subsec. (a)(2)(D), means section 301 of Pub. L. 95–511, which is classified to section 1821 of this title, relates to definitions for terms used in subchapter II of this chapter, and does not contain a subsec. (e). Section 304(e) of Pub. L. 95–511, which is classified to section 1824(e) of this title, relates to authorizations and orders for emergency physical searches.
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 

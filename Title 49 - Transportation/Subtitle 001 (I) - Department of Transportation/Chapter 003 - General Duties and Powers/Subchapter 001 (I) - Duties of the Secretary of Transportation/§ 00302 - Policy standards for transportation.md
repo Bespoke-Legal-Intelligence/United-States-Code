@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation is governed by the transportation policy of sections 10101 and 13101 of this title in addition to other laws.
 
-(b) This subtitle and chapters 221 and 315 of this title do not authorize, without appropriate action by Congress, the adoption, revision, or implementation of a transportation policy or investment standards or criteria.
+(b) This subtitle and chapters 221 and 315 of this title do not authorize, without appropriateaction by Congress, the adoption, revision, or implementation of a transportation policy or investment standards or criteria.
 
 (c) The Secretary shall consider the needs—
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized tobe appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of Title 23, Highways.
+Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of Title 23, Highways.
 

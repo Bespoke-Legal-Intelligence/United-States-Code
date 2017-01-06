@@ -6,7 +6,7 @@
 
 (2)(A) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
 
-(B) For major system acquisitions requiring a service or capability from another acquisition or program to deliver the end-to-end functionality for the intelligence community end users, independent cost estimates shall include, to the maximum extent practicable, all estimated costs across all pertinent elements of the intelligence community. For collection programs, such cost estimates shall include the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program. If such costs for processing, exploitation, dissemination, and storage are scheduled to be executed in other elements of the intelligence community, the independent cost estimate shall identify and annotate such costs for such other elements accordingly.
+(B) For major system acquisitions requiring a service or capability from another acquisition or program to deliver the end-to-end functionality for the intelligence community end users, independent cost estimates shall include, to themaximum extent practicable, all estimated costs across all pertinent elements of the intelligence community. For collection programs, such cost estimates shall include the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program. If such costs for processing, exploitation, dissemination, and storage are scheduled to be executed in other elements of the intelligence community, the independent cost estimate shall identify and annotate such costs for such other elements accordingly.
 
 (3)(A) In the case of a program of the intelligence community that qualifies as a major system, an independent cost estimate shall be prepared before the submission to Congress of the budget of the President for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
 
@@ -24,9 +24,9 @@
 
 #### (b) Preparation of independent cost estimates
 
-(1) The Director shall establish within the Office of the Director of National Intelligence for Community Management an office which shall be responsible for preparing independent cost estimates, and any updates thereof, under subsection (a) of this section, unless a designation is made under paragraph (2).
+(1) The Director shall establish within the Office of the Director of National Intelligence for Community Management an office which shall be responsible for preparing independent cost estimates, and any updates thereof, under subsection (a), unless a designation is made under paragraph (2).
 
-(2) In the case of the acquisition of a major system for an element of the intelligence community within the Department of Defense, the Director and the Secretary of Defense shall provide that the independent cost estimate, and any updates thereof, under subsection (a) of this section be prepared by an entity jointly designated by the Director and the Secretary in accordance with section 2434(b)(1)(A) of title 10.
+(2) In the case of the acquisition of a major system for an element of the intelligence community within the Department of Defense, the Director and the Secretary of Defense shall provide that the independent cost estimate, and any updates thereof, under subsection (a) be prepared by an entity jointly designated by the Director and the Secretary in accordance with section 2434(b)(1)(A) <sup>1</sup> of title 10.
 
 #### (c) Utilization in budgets of President
 
@@ -52,7 +52,7 @@ In this section:
 
 &emsp;(1) The term "budget of the President" means the budget of the President for a fiscal year as submitted to Congress under section 1105(a) of title 31.
 
-&emsp;(2)(A) The term "independent cost estimate" means a pragmatic and neutral analysis, assessment, and quantification of all costs and risks associated with the development, acquisition, procurement, operation, and sustainment of a major system across its proposed life cycle, which shall be based on programmatic and technical specifications provided by the office within the element of the intelligence community with primary responsibility for the development, procurement, or operation of the major system.
+&emsp;(2)(A) The term "independent cost estimate" means a pragmatic and neutral analysis, assessment, and quantification of all costs and risks associated with the development, acquisition, procurement, operation, and sustainment of a major system across its proposedlife cycle, which shall be based on programmatic and technical specifications provided by the office within the element of the intelligence community with primary responsibility for the development, procurement, or operation of the major system.
 
 &emsp;(B) In accordance with subsection (a)(2)(B), each independent cost estimate shall include all costs required across elements of the intelligence community to develop, acquire, procure, operate, and sustain the system to provide the end-to-end intelligence functionality of the system, including—
 
@@ -63,6 +63,10 @@ In this section:
 &emsp;(3) The term "major system" means any significant program of an element of the intelligence community with projected total development and procurement costs exceeding $500,000,000 (based on fiscal year 2010 constant dollars), which costs shall include all end-to-end program costs, including costs associated with the development and procurement of the program and any other costs associated with the development and procurement of systems required to support or utilize the program.
 
 (July 26, 1947, ch. 343, title V, §506A, as added Pub. L. 108–177, title III, §312(b)(1), Dec. 13, 2003, 117 Stat. 2607; amended Pub. L. 108–458, title I, §§1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §321(b), Oct. 7, 2010, 124 Stat. 2669; Pub. L. 112–87, title III, §306(a), title V, §505(3), Jan. 3, 2012, 125 Stat. 1881, 1897.)
+
+#### References in Text
+
+Section 2434 of title 10, referred to in subsec. (b)(2), was repealed by Pub. L. 114–328, div. A, title VIII, §842(c)(1), Dec. 23, 2016, 130 Stat. 2290.
 
 #### Codification
 
@@ -108,7 +112,7 @@ Pub. L. 108–177, title III, §312(a), Dec. 13, 2003, 117 Stat. 2606, provided 
 
 &emsp;"(4) Independent cost estimates, prepared by independent offices, have historically represented a more accurate projection of the costs of acquisition of major systems.
 
-&emsp;"(5) Recognizing the benefits associated with independent cost estimates for the acquisition of major systems, the Secretary of Defense has built upon the statutory requirement in section 2434 of title 10, United States Code, to develop and consider independent cost estimates for the acquisition of such systems by mandating the use of such estimates in budget requests of the Department of Defense.
+&emsp;"(5) Recognizing the benefits associated with independent cost estimates for the acquisition of major systems, the Secretary of Defense has built upon the statutory requirement in \[former\] section 2434 of title 10, United States Code, to develop and consider independent cost estimates for the acquisition of such systems by mandating the use of such estimates in budget requests of the Department of Defense.
 
 &emsp;"(6) The mandatory use throughout the intelligence community of independent cost estimates for the acquisition of major systems will assist the President and Congress in the development and funding of budgets which more accurately reflect the requirements and priorities of the United States Government for intelligence and intelligence-related activities."
 
@@ -123,4 +127,6 @@ Pub. L. 108–177, title III, §312(d), Dec. 13, 2003, 117 Stat. 2609, provided 
 "(2) Commencing as of the date of the submittal to Congress of the budget of the President for fiscal year 2006 pursuant to section 1105(a) of title 31, United States Code, no funds may be obligated or expended for the development or procurement of a major system until the President has complied with the requirements of section 506A of the National Security Act of 1947 (as added by subsection (b)) \[50 U.S.C. 3097\] with respect to such major system.
 
 "(3) In this subsection, the terms 'independent cost estimate' and 'major system' have the meaning given such terms in subsection (e) of section 506A of the National Security Act of 1947 (as so added) \[50 U.S.C. 3097(e)\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

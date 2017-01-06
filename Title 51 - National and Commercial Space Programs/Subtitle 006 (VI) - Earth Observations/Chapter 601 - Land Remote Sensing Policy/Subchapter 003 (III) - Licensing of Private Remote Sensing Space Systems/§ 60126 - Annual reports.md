@@ -10,7 +10,7 @@ In General.—The Secretary shall submit a report to the Committee on Commerce, 
 
 &emsp;&emsp;(B) a list of all applications that resulted in a license under section 60121;
 
-&emsp;&emsp;(C) a list of all applications denied and an explanation of why each application was denied, including any information relevant to the interagency adjudication process of a licensing request;
+&emsp;&emsp;(C) a list of all applications denied and an explanation of why each application was denied, including any information relevant tothe interagency adjudication process of a licensing request;
 
 &emsp;&emsp;(D) a list of all applications that required additional information; and
 

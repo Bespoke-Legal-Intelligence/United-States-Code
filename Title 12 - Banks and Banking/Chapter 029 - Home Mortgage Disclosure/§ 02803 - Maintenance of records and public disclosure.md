@@ -62,7 +62,7 @@ Any information required to be compiled and made available under this section, o
 
 #### (d) Duration of disclosure requirements
 
-Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures underthis section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
+Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
 
 #### (e) Format for disclosures
 
@@ -186,7 +186,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with 
 
 #### (2) Notice that data is subject to correction after final review
 
-&emsp;Any disclosure statement provided pursuant to paragraph (1) shall be accompanied by a clear and conspicuous notice that the statement is subject to final review and revision, if necessary.
+&emsp;Any disclosure statement provided pursuant to paragraph (1) shall be accompanied by aclear and conspicuous notice that the statement is subject to final review and revision, if necessary.
 
 #### (3) Reasonable charge for information
 

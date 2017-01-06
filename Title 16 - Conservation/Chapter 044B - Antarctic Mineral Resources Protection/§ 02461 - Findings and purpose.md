@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) the parties to the Antarctic Treaty have negotiated a Convention on the Regulation of Antarctic Mineral Resources Activities which the United States has signed but not yet ratified;
 
-&emsp;(5) the Convention on the Regulation of Antarctic Mineral Resources Activities does notguarantee the preservation of the fragile environment of Antarctica and could actually stimulate movement toward Antarctic mineral resource activity;
+&emsp;(5) the Convention on the Regulation of Antarctic Mineral Resources Activities does not guarantee the preservation of the fragile environment of Antarctica and could actually stimulate movement toward Antarctic mineral resource activity;
 
 &emsp;(6) the exploitation of mineral resources in Antarctica could lead to additional degradation of the Antarctic environment, including increased risk of oil spills;
 

@@ -6,7 +6,7 @@ The Secretary of State may prescribe duties for the Assistant Secretaries and th
 
 #### Codification
 
-Section was formerly classified to section 154 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 154 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 Provisions of this section which related to the Solicitor of the Department were omitted in view of act May 24, 1924, which abolished the office.
 

@@ -20,7 +20,7 @@ The Attorney General shall not make any grant under this section for the purpose
 
 #### (2) Compliance period
 
-&emsp;The compliance period referred to in paragraph (1) expires on the date that is 2 yearsafter July 27, 2006. However, the Attorney General may, on a case-by-case basis, extend the compliance period that applies to a jurisdiction if the Attorney General considers such an extension to be appropriate.
+&emsp;The compliance period referred to in paragraph (1) expires on the date that is 2 years after July 27, 2006. However, the Attorney General may, on a case-by-case basis, extend the compliance period that applies to a jurisdiction if the Attorney General considers such an extension to be appropriate.
 
 #### (3) Release notice
 

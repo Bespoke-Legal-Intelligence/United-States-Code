@@ -32,7 +32,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;&emsp;&emsp;(ii) delivery of services (such as job training and substance abuse treatment) to those released inmates;
 
-&emsp;&emsp;(D) promoting collaborative efforts, among officials of State and local governments andleaders of appropriate communities, to understand and address the effects on a community of the presence of a disproportionate number of released inmates in that community; or
+&emsp;&emsp;(D) promoting collaborative efforts, among officials of State and local governments and leaders of appropriate communities, to understand and address the effects on a community of the presence of a disproportionate number of released inmates in that community; or
 
 &emsp;&emsp;(E) developing policies and programs that reduce spending on prisons by effectively reducing rates of parole and probation revocation without compromising public safety.
 
@@ -60,11 +60,9 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;Each application required by paragraph (1) shall—
 
-&emsp;&emsp;(A) include the certification of the chief executive that the State receiving such grant—
+&emsp;&emsp;(A)(i) include the certification of the chief executive that the State receiving such grant has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; or
 
-&emsp;&emsp;&emsp;(i) has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; and
-
-&emsp;&emsp;&emsp;(ii) will consider adopting all national prison rape standards that are promulgated under this chapter after such date;
+&emsp;&emsp;(ii) demonstrate to the Attorney General, in such manner as the Attorney General shall require, that the State receiving such grant is actively working to adopt and achieve full compliance with the national prison rape standards described in clause (i);
 
 &emsp;&emsp;(B) specify with particularity the preventative, prosecutorial, or administrative activities to be undertaken by the State with the amounts received under the grant; and
 
@@ -92,7 +90,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 #### (f) State defined
 
-In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+In this section, the term "State" includes the District of Columbia, the Commonwealth ofPuerto Rico, and any other territory or possession of the United States.
 
 #### (g) Authorization of appropriations
 
@@ -104,5 +102,13 @@ In this section, the term "State" includes the District of Columbia, the Commonw
 
 &emsp;Of amounts made available for grants under this section, not less than 50 percent shall be available only for activities specified in paragraph (1) of subsection (b).
 
-(Pub. L. 108–79, §6, Sept. 4, 2003, 117 Stat. 978.)
+(Pub. L. 108–79, §6, Sept. 4, 2003, 117 Stat. 978; Pub. L. 114–324, §7(1), Dec. 16, 2016, 130 Stat. 1951.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (d)(2)(A). Pub. L. 114–324 added subpar. (A) and struck out former subpar. (A) which read as follows: "include the certification of the chief executive that the State receiving such grant—
+
+&emsp;"(i) has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; and
+
+&emsp;"(ii) will consider adopting all national prison rape standards that are promulgated under this chapter after such date;".
 

@@ -58,7 +58,7 @@ To receive a payment under this section, an eligible producer shall meet any oth
 
 &emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat.1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930.)
+(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930.)
 
 #### Codification
 
@@ -79,4 +79,8 @@ Subsec. (g)(2). Pub. L. 113–79, §9005(2), substituted "$20,000,000 for each o
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

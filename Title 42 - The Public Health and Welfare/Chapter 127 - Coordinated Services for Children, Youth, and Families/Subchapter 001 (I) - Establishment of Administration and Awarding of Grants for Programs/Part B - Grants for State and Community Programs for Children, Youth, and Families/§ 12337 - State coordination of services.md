@@ -66,7 +66,7 @@ Notwithstanding section 12340(g) of this title, the amounts made available to ea
 
 &emsp;(4) the costs of the dissemination of information obtained under paragraph (3); and
 
-&emsp;(5) the costs of the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this part.
+&emsp;(5) the costs of the provision of short-term training to personnel of public or nonprofitprivate agencies and organizations engaged in the operation of programs authorized by this part.
 
 #### (e) <sup>1</sup> Supplement not supplant
 

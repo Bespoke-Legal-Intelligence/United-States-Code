@@ -8,7 +8,7 @@ Whoever falsely—
 
 > that an entity is affiliated with, funded by, or operating under the authority of the Corporation, VISTA, or any of the programs of the National Senior Service Corps may be enjoined under an action filed by the Attorney General, on a complaint by the Director.
 
-(Pub. L. 93–113, title IV, §425, as added and amended Pub. L. 103–82, title III, §370, title IV,§405(a)(11), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 111–13, title II, §2155, Apr. 21, 2009, 123 Stat. 1592.)
+(Pub. L. 93–113, title IV, §425, as added and amended Pub. L. 103–82, title III, §370, title IV, §405(a)(11), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 111–13, title II, §2155, Apr. 21, 2009, 123 Stat. 1592.)
 
 #### Amendments
 

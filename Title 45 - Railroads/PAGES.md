@@ -1,6 +1,6 @@
 # Printed pages - Title 45 - Railroads
 
-GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
+GPO's 2016 edition (laws in effect as of 2017-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title45.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -45,8 +45,8 @@ from edition to edition; the section files hold the text only.
 | [Chapter 008 - Railway Labor](Chapter%20008%20-%20Railway%20Labor/README.md) | 8 |
 | [Subchapter 001 (I) - General Provisions](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md) | 8 |
 | [&sect; 00151 - Definitions; short title](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000151%20-%20Definitions%3B%20short%20title.md) | 8–10 |
-| [&sect; 00151a - General purposes](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000151a%20-%20General%20purposes.md) | 10 |
-| [&sect; 00152 - General duties](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000152%20-%20General%20duties.md) | 10–13 |
+| [&sect; 00151a - General purposes](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000151a%20-%20General%20purposes.md) | 10–11 |
+| [&sect; 00152 - General duties](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000152%20-%20General%20duties.md) | 11–13 |
 | [&sect; 00153 - National Railroad Adjustment Board](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000153%20-%20National%20Railroad%20Adjustment%20Board.md) | 13–17 |
 | [&sect; 00154 - National Mediation Board](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000154%20-%20National%20Mediation%20Board.md) | 17–18 |
 | [&sect; 00155 - Functions of Mediation Board](Chapter%20008%20-%20Railway%20Labor/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000155%20-%20Functions%20of%20Mediation%20Board.md) | 18–20 |
@@ -167,9 +167,9 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00642 to 644 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000642%20to%20644%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 147 |
 | [&sect; 00645 - Repealed. Pub. L. 99&#8211;272, title IV, &sect;4007(b), Apr. 7, 1986, 100 Stat. 108](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000645%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93272%2C%20title%20IV%2C%20%C2%A74007%28b%29%2C%20Apr.%207%2C%201986%2C%20100%20Stat.%20108.md) | 147 |
 | [&sect; 00646 to 650c - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000646%20to%20650c%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 147 |
-| [&sect; 00650d, 650e - Repealed. Pub. L. 103&#8211;429, &sect;8(6), Oct. 31, 1994, 108 Stat. 4390](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000650d%2C%20650e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93429%2C%20%C2%A78%286%29%2C%20Oct.%2031%2C%201994%2C%20108%20Stat.%204390.md) | 147 |
-| [Subchapter 009 (IX) - Rail Passenger Corridors](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20009%20%28IX%29%20-%20Rail%20Passenger%20Corridors/README.md) | 147 |
-| [&sect; 00651 to 658 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20009%20%28IX%29%20-%20Rail%20Passenger%20Corridors/%C2%A7%2000651%20to%20658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 147–148 |
+| [&sect; 00650d, 650e - Repealed. Pub. L. 103&#8211;429, &sect;8(6), Oct. 31, 1994, 108 Stat. 4390](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000650d%2C%20650e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93429%2C%20%C2%A78%286%29%2C%20Oct.%2031%2C%201994%2C%20108%20Stat.%204390.md) | 147–148 |
+| [Subchapter 009 (IX) - Rail Passenger Corridors](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20009%20%28IX%29%20-%20Rail%20Passenger%20Corridors/README.md) | 148 |
+| [&sect; 00651 to 658 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20014%20-%20Rail%20Passenger%20Service/Subchapter%20009%20%28IX%29%20-%20Rail%20Passenger%20Corridors/%C2%A7%2000651%20to%20658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 148 |
 | [Chapter 015 - Emergency Rail Services](Chapter%20015%20-%20Emergency%20Rail%20Services/README.md) | 148 |
 | [&sect; 00661 - Definitions](Chapter%20015%20-%20Emergency%20Rail%20Services/%C2%A7%2000661%20-%20Definitions.md) | 148 |
 | [&sect; 00662 - Guarantee of certificates](Chapter%20015%20-%20Emergency%20Rail%20Services/%C2%A7%2000662%20-%20Guarantee%20of%20certificates.md) | 148–150 |
@@ -187,8 +187,8 @@ from edition to edition; the section files hold the text only.
 | [Subchapter 002 (II) - United States Railway Association](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/README.md) | 154 |
 | [&sect; 00711 - Formation and structure](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000711%20-%20Formation%20and%20structure.md) | 154–156 |
 | [&sect; 00712 - Functions of Association](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000712%20-%20Functions%20of%20Association.md) | 156–158 |
-| [&sect; 00713 - Access to information](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000713%20-%20Access%20to%20information.md) | 158 |
-| [&sect; 00714 - Omitted](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000714%20-%20Omitted.md) | 158–159 |
+| [&sect; 00713 - Access to information](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000713%20-%20Access%20to%20information.md) | 158–159 |
+| [&sect; 00714 - Omitted](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000714%20-%20Omitted.md) | 159 |
 | [&sect; 00715 - Repealed. Pub. L. 95&#8211;473, &sect;4(b), Oct. 17, 1978, 92 Stat. 1466](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000715%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93473%2C%20%C2%A74%28b%29%2C%20Oct.%2017%2C%201978%2C%2092%20Stat.%201466.md) | 159 |
 | [&sect; 00716 - Final system plan](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000716%20-%20Final%20system%20plan.md) | 159–162 |
 | [&sect; 00717 - Adoption of final system plan](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000717%20-%20Adoption%20of%20final%20system%20plan.md) | 162–164 |
@@ -196,8 +196,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00719 - Judicial review](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000719%20-%20Judicial%20review.md) | 165–168 |
 | [&sect; 00720 - Obligations of Association](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000720%20-%20Obligations%20of%20Association.md) | 168–169 |
 | [&sect; 00721 - Loans](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000721%20-%20Loans.md) | 169–174 |
-| [&sect; 00722 - Records, audit, and examination](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000722%20-%20Records%2C%20audit%2C%20and%20examination.md) | 174 |
-| [&sect; 00723 - Emergency assistance pending implementation](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000723%20-%20Emergency%20assistance%20pending%20implementation.md) | 174–175 |
+| [&sect; 00722 - Records, audit, and examination](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000722%20-%20Records%2C%20audit%2C%20and%20examination.md) | 174–175 |
+| [&sect; 00723 - Emergency assistance pending implementation](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000723%20-%20Emergency%20assistance%20pending%20implementation.md) | 175 |
 | [&sect; 00724 - Authorization of appropriations](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000724%20-%20Authorization%20of%20appropriations.md) | 175–176 |
 | [&sect; 00725 - Interim agreements](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000725%20-%20Interim%20agreements.md) | 176–177 |
 | [&sect; 00726 - Debentures and series A preferred stock](Chapter%20016%20-%20Regional%20Rail%20Reorganization/Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000726%20-%20Debentures%20and%20series%20A%20preferred%20stock.md) | 177–182 |

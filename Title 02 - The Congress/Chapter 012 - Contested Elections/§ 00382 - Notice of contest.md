@@ -22,7 +22,7 @@ Service of the notice of contest upon contestee shall be made as follows:
 
 &emsp;(5) by mailing a copy by registered or certified mail addressed to contestee at his residence or principal office or place of business. Service by mail is complete upon mailing; or
 
-&emsp;(6) the verified return by the person so serving such notice, setting forth the time and manner of such service shall be proof of same, and the return post office receipt shall be proof of the service of said notice mailed by registered or certified mail as aforesaid. Proof of service shall be made to the Clerk promptlyand in any event within the time during which the contestee must answer the notice of contest. Failure to make proof of service does not affect the validity of the service.
+&emsp;(6) the verified return by the person so serving such notice, setting forth the time and manner of such service shall be proof of same, and the return post office receipt shall be proof of the service of said notice mailed by registered or certified mail as aforesaid. Proof of service shall be made to the Clerk promptly and in any event within the time during which the contestee must answer the notice of contest. Failure to make proof of service does not affect the validity of the service.
 
 (Pub. L. 91–138, §3, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, §211(3), Aug. 20, 1996, 110 Stat. 1744.)
 
@@ -31,4 +31,8 @@ Service of the notice of contest upon contestee shall be made as follows:
 <b>1996</b>—Subsec. (a). Pub. L. 104–186, §211(3)(A), struck out "to the House of Representatives" after "for election".
 
 Subsec. (c)(4), (5). Pub. L. 104–186, §211(3)(B), struck out "or" at end of par. (4) and inserted "or" at end of par. (5).
+
+#### Effective Date
+
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 

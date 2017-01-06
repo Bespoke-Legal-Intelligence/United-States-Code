@@ -24,7 +24,7 @@
 
 #### (1) Use of remainder
 
-&emsp;If a State uses less than 100 percent of the grant or allotment received under section 9905 or 9906 of this title to make grants under subsection (a) of this section, the State shall use the remainder of the grant or allotment under section 9905 or 9906 of this title (subject to paragraph (2)) for activities that may include—
+&emsp;If a State uses less than 100 percent of the grant or allotment received under section 9905 or 9906 of this title to make grants under subsection (a), the State shall use the remainder of the grant or allotment under section 9905 or 9906 of this title (subject to paragraph (2)) for activities that may include—
 
 &emsp;&emsp;(A) providing training and technical assistance to those entities in need of such training and assistance;
 
@@ -38,19 +38,19 @@
 
 &emsp;&emsp;(F) supporting innovative programs and activities conducted by community action agencies or other neighborhood-based organizations to eliminate poverty, promote self-sufficiency, and promote community revitalization;
 
-&emsp;&emsp;(G) supporting State charity tax credits as described in subsection (c) of this section; and
+&emsp;&emsp;(G) supporting State charity tax credits as described in subsection (c); and
 
 &emsp;&emsp;(H) supporting other activities, consistent with the purposes of this chapter.
 
 #### (2) Administrative cap
 
-&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant received under section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a) of this section. The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) of this section shall be considered to be administrative expenses.
+&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant received under section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a). The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) shall be considered to be administrative expenses.
 
 #### (c) Charity tax credit
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if there is in effect under State law a charity tax credit, the State may use for any purpose the amount of the allotment that is available for expenditure under subsection (b) of this section.
+&emsp;Subject to paragraph (2), if there is in effect under State law a charity tax credit, the State may use for any purpose the amount of the allotment that is available for expenditure under subsection (b).
 
 #### (2) Limit
 
@@ -168,7 +168,7 @@
 
 #### (4) Limitation on use of funds for startup and administrative activities
 
-&emsp;Except to the extent provided in subsection (b)(2) of this section, no part of the aggregate amount a State uses under paragraph (1) may be used to pay for the cost of the startup and administrative activities conducted under this subsection.
+&emsp;Except to the extent provided in subsection (b)(2), no part of the aggregate amount a State uses under paragraph (1) may be used to pay for the cost of the startup and administrative activities conducted under this subsection.
 
 #### (5) Prohibition on use of funds for legal services or tuition assistance
 

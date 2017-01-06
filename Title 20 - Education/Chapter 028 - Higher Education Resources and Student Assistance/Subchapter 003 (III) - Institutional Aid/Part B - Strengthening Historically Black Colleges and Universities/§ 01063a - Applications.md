@@ -4,7 +4,7 @@
 
 No part B institution shall be entitled to its allotment of Federal funds for any grant under section 1063 of this title for any period unless that institution meets the requirements of subparagraphs (C), (D), and (E) <sup>1</sup> of section 1058(b)(1) of this title and submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
-&emsp;(1) provide that the payments under this chapter and part C of subchapter I of chapter 34 of title 42 will be used for the purposes set forth in section 1062 of this title; and
+&emsp;(1) provide that the payments under this chapter will be used for the purposes set forth in section 1062 of this title; and
 
 &emsp;(2) provide for making an annual report to the Secretary and provide for—
 
@@ -14,13 +14,13 @@ No part B institution shall be entitled to its allotment of Federal funds for an
 
 #### (b) Approval
 
-The Secretary shall approve any application which meets the requirements of subsection (a) of this section and shall not disapprove any application submitted under this part, or any modification thereof, without first affording such institution reasonable notice and opportunity for a hearing.
+The Secretary shall approve any application which meets the requirements of subsection (a) and shall not disapprove any application submitted under this part, or any modification thereof, without first affording such institution reasonable notice and opportunity for a hearing.
 
 #### (c) Goals for financial management and academic programs
 
 Any application for a grant under this part shall describe measurable goals for the institution's financial management and academic programs and include a plan of how the applicant intends to achieve those goals.
 
-(Pub. L. 89–329, title III, §325, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 100–50, §2(a)(8), June 3,1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(e), July 23, 1992, 106 Stat. 475.)
+(Pub. L. 89–329, title III, §325, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 100–50, §2(a)(8), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(e), July 23, 1992, 106 Stat. 475.)
 
 #### References in Text
 

@@ -24,11 +24,101 @@ June 26, 1930, ch. 618, 46 Stat. 817.
 
 Sept. 21, 1944, ch. 412, §709, 58 Stat. 743.
 
-The authorization is restated to conform to the style of this title. The word "Executive agency" are substituted for "executive department, independent establishment" in view of the definitions in sections 103, 104, and 105. The source statute (an act to authorize the appointment of employees in the executive branch etc.) applied to the entire executive branch, and government corporations as well as other agencies in the executive branch were included within the words "independent establishment". The words "or a military department" are inserted to preserve the application of the source statute. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive department including the Department of the Army, the Departmentof the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source statute for this subsection, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301. The words "for services in the District of Columbia or elsewhere" are eliminated as surplusage. The reference to chapter 51 is substituted for the reference to the Classification Act of 1923 because the Act of Oct. 28, 1949, ch. 782, §1106(a), 63 Stat. 972, amended the section to refer to the Classification Act of 1949, which is carried into this title. The proviso in former section 43 and former section 514d (2d par.) are omitted as superseded by former section 22a, which is carried into section 302. The last sentence of the Act of June 26, 1930, is omitted as executed.
+The authorization is restated to conform to the style of this title. The word "Executive agency" are substituted for "executive department, independent establishment" in view of the definitions in sections 103, 104, and 105. The source statute (an act to authorize the appointment of employees in the executive branch etc.) applied to the entire executive branch, and government corporations as well as other agencies in the executive branch were included within the words "independent establishment". The words "or a military department" are inserted to preserve the application of the source statute. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source statute for this subsection, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301. The words "for services in the District of Columbia or elsewhere" are eliminated as surplusage. The reference to chapter 51 is substituted for the reference to the Classification Act of 1923 because the Act of Oct. 28, 1949, ch. 782, §1106(a), 63 Stat. 972, amended the section to refer to the Classification Act of 1949, which is carried into this title. The proviso in former section 43 and former section 514d (2d par.) are omitted as superseded by former section 22a, which is carried into section 302. The last sentence of the Act of June 26, 1930, is omitted as executed.
 
 This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides "Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense" is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Reports on Political Appointees Appointed to Nonpolitical Permanent Positions
+
+Pub. L. 114–136, §4, Mar. 18, 2016, 130 Stat. 305, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'agency' has the meaning given the term 'Executive agency' in section 105 of title 5, United States Code;
+
+&emsp;"(2) the term 'covered civil service position' means a position in the civil service (as defined in section 2101 of title 5, United States Code) that is not—
+
+&emsp;&emsp;"(A) a temporary position; or
+
+&emsp;&emsp;"(B) a political position;
+
+&emsp;"(3) the term 'former political appointee' means an individual who—
+
+&emsp;&emsp;"(A) is not serving in an appointment to a political position; and
+
+&emsp;&emsp;"(B) served as a political appointee during the 5-year period ending on the date of the request for an appointment to a covered civil service position in any agency;
+
+&emsp;"(4) the term 'political appointee' means an individual serving in an appointment to a political position; and
+
+&emsp;"(5) the term 'political position' means—
+
+&emsp;&emsp;"(A) a position described under sections 5312 through 5316 of title 5, United States Code (relating to the Executive Schedule);
+
+&emsp;&emsp;"(B) a noncareer appointment in the Senior Executive Service, as defined under paragraph (7) of section 3132(a) of title 5, United States Code; or
+
+&emsp;&emsp;"(C) a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations.
+
+"(b)
+
+Reporting on Current or Recent Political Appointees Appointed to Covered Civil Service Positions.—
+
+&emsp;"(1)
+
+Annual report.—Except as provided in paragraph (2), the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives an annual report regarding requests by agencies to appoint political appointees or former political appointees to covered civil service positions. Each report shall cover one calendar year and shall—
+
+&emsp;&emsp;"(A) for each request by an agency that a political appointee be appointed to a covered civil service position during the period covered by the report, provide—
+
+&emsp;&emsp;&emsp;"(i) the date on which the request was received by the Office of Personnel Management;
+
+&emsp;&emsp;&emsp;"(ii) subject to subsection (c), the name of the individual and the political position held by the individual, including title, office, and agency;
+
+&emsp;&emsp;&emsp;"(iii) the date on which the individual was first appointed to a political position in the agency in which the individual is serving as a political appointee;
+
+&emsp;&emsp;&emsp;"(iv) the grade and rate of basic pay for the individual as a political appointee;
+
+&emsp;&emsp;&emsp;"(v) the proposed covered civil service position, including title, office, and agency, and the proposed grade and rate of basic pay for the individual;
+
+&emsp;&emsp;&emsp;"(vi) whether the Office of Personnel Management approved or denied the request; and
+
+&emsp;&emsp;&emsp;"(vii) the date on which the individual was appointed to a covered civil service position, if applicable; and
+
+&emsp;&emsp;"(B) for each request by an agency that a former political appointee be appointed to a covered civil service position during the period covered by the report, provide—
+
+&emsp;&emsp;&emsp;"(i) the date on which the request was received by the Office of Personnel Management;
+
+&emsp;&emsp;&emsp;"(ii) subject to subsection (c), the name of the individual and the political position held by the individual, including title, office, and agency;
+
+&emsp;&emsp;&emsp;"(iii) the date on which the individual was first appointed to any political position;
+
+&emsp;&emsp;&emsp;"(iv) the grade and rate of basic pay for the individual as a political appointee;
+
+&emsp;&emsp;&emsp;"(v) the date on which the individual ceased to serve in a political position;
+
+&emsp;&emsp;&emsp;"(vi) the proposed covered civil service position, including title, office, and agency, and the proposed grade and rate of basic pay for the individual;
+
+&emsp;&emsp;&emsp;"(vii) whether the Office of Personnel Management approved or denied the request; and
+
+&emsp;&emsp;&emsp;"(viii) the date on which the individual was first appointed to a covered civil service position, if applicable.
+
+&emsp;"(2)
+
+Quarterly report in certain years.—In the last year of the term of a President, or, if applicable, the last year of the second consecutive term of a President, the report required under paragraph (1) shall be submitted quarterly and shall cover each quarter of the year, except that the last quarterly report shall also cover January 1 through 20 of the following year.
+
+"(c)
+
+Names and Titles of Certain Appointees.—If determined appropriate by the Director of the Office of Personnel Management, a report submitted under subsection (b) may exclude the name or title of a political appointee or former political appointee—
+
+&emsp;"(1) who—
+
+&emsp;&emsp;"(A) was requested to be appointed to a covered civil service position; and
+
+&emsp;&emsp;"(B) was not appointed to a covered civil service position; or
+
+&emsp;"(2) relating to whom a request to be appointed to a covered civil service position is pending at the end of the period covered by that report."
 
 #### Reduction of Federal Full-Time Equivalent Positions
 
@@ -134,7 +224,7 @@ Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9
 
 #### Citizenship Requirement for Employees Compensated From Appropriated Funds
 
-Pub. L. 114–113, div. E, title VII, §704, Dec. 18, 2015, 129 Stat. 2473, provided that: "Unless otherwise specified inlaw during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B); (3) is a person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: <i>Provided</i>, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: <i>Provided further</i>, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: <i>Provided further</i>, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: <i>Provided further</i>, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: <i>Provided further</i>, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: <i>Provided further</i>, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act \[Dec. 18, 2015\], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: <i>Provided further</i>, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country."
+Pub. L. 114–113, div. E, title VII, §704, Dec. 18, 2015, 129 Stat. 2473, provided that: "Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B); (3) is a person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: <i>Provided</i>, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: <i>Provided further</i>, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: <i>Provided further</i>, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: <i>Provided further</i>, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: <i>Provided further</i>, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: <i>Provided further</i>, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act \[Dec. 18, 2015\], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: <i>Provided further</i>, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country."
 
 Similar provisions to those in the Citizenship Requirement for Employees Compensated From Appropriated Funds note above were contained in the following prior appropriation acts:
 

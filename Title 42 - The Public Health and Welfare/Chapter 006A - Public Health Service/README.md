@@ -51,7 +51,7 @@
 | [234\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20IV%2C%20%C2%A7408%28b%29%281%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202281%2C%20eff.%20Oct.%201%2C%201977.md) | Repealed. |
 | [235\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000235%20-%20Administration%20of%20grants%20in%20multigrant%20projects%3B%20promulgation%20of%20regulations.md) | Administration of grants in multigrant projects; promulgation of regulations. |
 | [236\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000236%20-%20Orphan%20Products%20Board.md) | Orphan Products Board. |
-| [237\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20Service.md) | Silvio O. Conte Senior Biomedical Research Service. |
+| [237\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20and%20Biomedical%20Product%20Assessment%20Service.md) | Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service. |
 | [237a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000237a%20-%20Health%20and%20Human%20Services%20Office%20on%20Women%27s%20Health.md) | Health and Human Services Office on Women's Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -147,7 +147,7 @@
 | [245a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20V%2C%20%C2%A7503%28b%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202300.md) | Repealed. |
 | [246\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000246%20-%20Grants%20and%20services%20to%20States.md) | Grants and services to States. |
 | [246a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000246a%20-%20Bureau%20of%20State%20Services%20management%20fund%3B%20establishment%3B%20advancements%3B%20availability.md) | Bureau of State Services management fund; establishment; advancements; availability. |
-| [247\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247%20-%20Omitted.md) | Omitted. |
+| [247\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247%20-%20Assisting%20veterans%20with%20military%20emergency%20medical%20training%20to%20meet%20requirements%20for%20becoming%20civilian%20health%20care%20professionals.md) | Assisting veterans with military emergency medical training to meet requirements for becoming civilian health care professionals. |
 | [247a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247a%20-%20Family%20support%20groups%20for%20Alzheimer%27s%20disease%20patients.md) | Family support groups for Alzheimer's disease patients. |
 | [247b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247b%20-%20Project%20grants%20for%20preventive%20health%20services.md) | Project grants for preventive health services. |
 | 247b–1. | Screenings, referrals, and education regarding lead poisoning. |
@@ -169,6 +169,7 @@
 | 247b–11. | Effects of folic acid in prevention of birth defects. |
 | 247b–12. | Safe motherhood. |
 | 247b–13. | Prenatal and postnatal health. |
+| 247b–13a. | Screening and treatment for maternal depression. |
 | 247b–14. | Oral health promotion and disease prevention. |
 | 247b–14a. | Identification of interventions that reduce the burden and transmission of oral, dental, and craniofacial diseases in high risk populations; development of approaches for pediatric oral and craniofacial assessment. |
 | 247b–15. | Surveillance and education regarding hepatitis C virus. |
@@ -189,7 +190,7 @@
 | 247d–3b. | Partnerships for State and regional hospital preparedness to improve surge capacity. |
 | 247d–4. | Revitalizing the Centers for Disease Control and Prevention. |
 | 247d–5. | Combating antimicrobial resistance. |
-| 247d–5a. | Identification of clinically susceptible concentrations of antimicrobials. |
+| 247d–5a. | Repealed. |
 | 247d–6. | Public health countermeasures to a bioterrorist attack. |
 | 247d–6a. | Authority for use of certain procedures regarding qualified countermeasure research and development activities. |
 | 247d–6b. | Strategic National Stockpile and security countermeasure procurements. |
@@ -259,6 +260,7 @@
 | 254c–16. | Mental health services delivered via telehealth. |
 | 254c–17. | Repealed. |
 | 254c–18. | Telemedicine; incentive grants regarding coordination among States. |
+| 254c–19. | Pediatric mental health care access grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -567,11 +569,12 @@
 | [280g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20P%20-%20Additional%20Programs/%C2%A7%2000280g%20-%20Children%27s%20asthma%20treatment%20grants%20program.md) | Children's asthma treatment grants program. |
 | 280g–1. | Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants. |
 | 280g–2. | Childhood malignancies. |
-| 280g–3. | .Controlled substance monitoring program. |
+| 280g–3. | Controlled substance monitoring program. |
 | 280g–4. | Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking. |
 | 280g–5. | Public and health care provider education and support services. |
 | 280g–6. | Chronic kidney disease initiatives. |
 | 280g–7. | Amyotrophic lateral sclerosis registry. |
+| 280g–7a. | Surveillance of neurological diseases. |
 | 280g–8. | Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. |
 | 280g–9. | Programs to improve quality of life for persons with paralysis and other physical disabilities. |
 | 280g–10. | Community Preventive Services Task Force. |
@@ -581,6 +584,7 @@
 | 280g–14. | National diabetes prevention program. |
 | 280g–15. | State demonstration programs to evaluate alternatives to current medical tort litigation. |
 | 280g–16. | Food Safety Integrated Centers of Excellence. |
+| 280g–17. | Designation and investigation of potential cancer clusters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -594,6 +598,7 @@
 | 280h–3. | Health professional education and training. |
 | 280h–4. | Grants for the establishment of school-based health centers. |
 | 280h–5. | School-based health centers. |
+| 280h–6. | Infant and early childhood mental health promotion, intervention, and treatment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -664,7 +669,7 @@
 | [282b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282b%20-%20Electronic%20coding%20of%20grants%20and%20activities.md) | Electronic coding of grants and activities. |
 | [282c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282c%20-%20Public%20access%20to%20funded%20investigators%27%20final%20manuscripts.md) | Public access to funded investigators' final manuscripts. |
 | [282d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000282d%20-%20Transferred.md) | Transferred. |
-| [283\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283%20-%20Biennial%20reports%20of%20Director%20of%20NIH.md) | Biennial reports of Director of NIH. |
+| [283\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283%20-%20Triennial%20reports%20of%20Director%20of%20NIH.md) | Triennial reports of Director of NIH. |
 | [283a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283a%20-%20Annual%20reporting%20to%20increase%20interagency%20collaboration%20and%20coordination.md) | Annual reporting to increase interagency collaboration and coordination. |
 | 283a–1. | Annual reporting to prevent fraud and abuse. |
 | 283a–2. | Annual reporting regarding training of graduate students for doctoral degrees. |
@@ -676,11 +681,14 @@
 | [283f.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283f%20-%20Requirements%20regarding%20surveys%20of%20sexual%20behavior.md) | Requirements regarding surveys of sexual behavior. |
 | [283g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283g%20-%20Muscular%20dystrophy%3B%20initiative%20through%20Director%20of%20National%20Institutes%20of%20Health.md) | Muscular dystrophy; initiative through Director of National Institutes of Health. |
 | 283h, 283i. | Transferred. |
-| [283j.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283j%20-%20Review%20of%20centers%20of%20excellence.md) | Review of centers of excellence. |
+| [283j.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283j%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93255%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72042%28f%29%281%29%2C%20Dec.%2013%2C%202016%2C%20130%20Stat.%201073.md) | Repealed. |
 | [283k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283k%20-%20Biomedical%20and%20behavioral%20research%20facilities.md) | Biomedical and behavioral research facilities. |
 | [283l.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283l%20-%20Construction%20of%20regional%20centers%20for%20research%20on%20primates.md) | Construction of regional centers for research on primates. |
 | [283m.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283m%20-%20Sanctuary%20system%20for%20surplus%20chimpanzees.md) | Sanctuary system for surplus chimpanzees. |
 | [283n.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283n%20-%20Shared%20Instrumentation%20Grant%20Program.md) | Shared Instrumentation Grant Program. |
+| [283o.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283o%20-%20Next%20generation%20of%20researchers.md) | Next generation of researchers. |
+| [283p.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283p%20-%20Population%20focused%20research.md) | Population focused research. |
+| [283q.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283q%20-%20Eureka%20prize%20competitions.md) | Eureka prize competitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -707,6 +715,9 @@
 | 284<i>o.</i> | Activities of the National Institutes of Health with respect to research on paralysis. |
 | [284p.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284p%20-%20Activities%20of%20the%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20with%20implications%20for%20enhancing%20daily%20function%20for%20persons%20with%E2%80%A6.md) | Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis. |
 | [284q.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284q%20-%20Pain%20research.md) | Pain research. |
+| 284q–1. | NIH opioid research. |
+| [284r.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284r%20-%20Basic%20research.md) | Basic research. |
+| [284s.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284s%20-%20Tick-borne%20diseases.md) | Tick-borne diseases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -941,7 +952,7 @@
 | [285q.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20017%20-%20National%20Institute%20of%20Nursing%20Research/%C2%A7%2000285q%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
 | 285q–1. | Specific authorities. |
 | 285q–2. | Advisory council. |
-| 285q–3. | Biennial report. |
+| 285q–3. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -967,7 +978,7 @@
 | :--- | ---: |
 | [285t.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20020%20-%20National%20Institute%20on%20Minority%20Health%20and%20Health%20Disparities/%C2%A7%2000285t%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
 | 285t–1. | Centers of excellence for research education and training. |
-| 285t–2. | Loan repayment program for minority health disparities research. |
+| 285t–2. | Repealed. |
 | 285t–3. | General provisions regarding the Institute. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1087,13 +1098,11 @@
 |  |  |
 | :--- | ---: |
 | [288\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288%20-%20Ruth%20L.%20Kirschstein%20National%20Research%20Service%20Awards.md) | Ruth L. Kirschstein National Research Service Awards. |
-| 288–1. | Loan repayment program for research with respect to acquired immune deficiency syndrome. |
-| 288–2. | Loan repayment program for research with respect to contraception and infertility. |
-| 288–3. | Loan repayment program for research generally. |
+| 288–1. | Intramural loan repayment program. |
+| 288–2. | Extramural loan repayment program. |
+| 288–3. | Repealed. |
 | 288–4. | Undergraduate scholarship program regarding professions needed by National Research Institutes. |
-| 288–5. | Loan repayment program regarding clinical researchers from disadvantaged backgrounds. |
-| 288–5a. | Loan repayment program regarding clinical researchers. |
-| 288–6. | Pediatric research loan repayment program. |
+| 288–5 to 288–6. | Repealed. |
 | [288a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288a%20-%20Visiting%20Scientist%20Awards.md) | Visiting Scientist Awards. |
 | [288b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288b%20-%20Studies%20respecting%20biomedical%20and%20behavioral%20research%20personnel.md) | Studies respecting biomedical and behavioral research personnel. |
 
@@ -1119,6 +1128,7 @@
 | 289g–2. | Prohibitions regarding human fetal tissue. |
 | 289g–3. | Breast implant research. |
 | 289g–4. | Support for emergency medicine research. |
+| 289g–5. | Precision medicine initiative. |
 | [289h.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000289h%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9343%2C%20title%20I%2C%20%C2%A7121%28b%29%282%29%2C%20June%2010%2C%201993%2C%20107%20Stat.%20133.md) | Repealed. |
 | [290\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000290%20-%20National%20Institutes%20of%20Health%20Management%20Fund%3B%20establishment%3B%20advancements%3B%20availability%3B%20final%20adjustments%20of%20advances.md) | National Institutes of Health Management Fund; establishment; advancements; availability; final adjustments of advances. |
 | [290a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000290a%20-%20Victims%20of%20fire.md) | Victims of fire. |
@@ -1140,16 +1150,18 @@
 |  |  |
 | :--- | ---: |
 | [290aa.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20A%20-%20Organization%20and%20General%20Authorities/%C2%A7%2000290aa%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration.md) | Substance Abuse and Mental Health Services Administration. |
+| 290aa–0. | National Mental Health and Substance Use Policy Laboratory. |
 | 290aa–1. | Advisory councils. |
 | 290aa–2. | Omitted. |
 | 290aa–2a. | Report on individuals with co-occurring mental illness and substance abuse disorders. |
 | 290aa–3. | Peer review. |
 | 290aa–3a. | Transferred. |
-| 290aa–4. | Data collection. |
+| 290aa–4. | Center for behavioral health statistics and quality. |
 | 290aa–5. | Grants for the benefit of homeless individuals. |
 | 290aa–5a. | Alcohol and drug prevention or treatment services for Indians and Native Alaskans. |
-| 290aa–5b. | Grants for ecstasy and other club drugs abuse prevention. |
-| 290aa–6 to 290aa–14. Transferred or Repealed. |  |
+| 290aa–5b to 290aa–14. Transferred or Repealed. |  |
+| 290aa–15. | Department of Health and Human Services grant accountability. |
+| 290aa–16. | Evaluation of performance of Department of Health and Human Services programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1166,9 +1178,9 @@
 | 290bb–2a. | Medical treatment of narcotics addiction; report to Congress. |
 | 290bb–3 to 290bb–5. Repealed. |  |
 | 290bb–6. | Action by Center for Substance Abuse Treatment and States concerning military facilities. |
-| 290bb–7. | Substance abuse treatment services for children and adolescents. |
-| 290bb–8. | Early intervention services for children and adolescents. |
-| 290bb–9. | Methamphetamine and amphetamine treatment initiative. |
+| 290bb–7. | Substance use disorder treatment and early intervention services for children and adolescents. |
+| 290bb–8, 290bb–9. Repealed. |  |
+| 290bb–10. | Evidence-based prescription opioid and heroin treatment and interventions demonstration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1176,17 +1188,17 @@
 
 |  |  |
 | :--- | ---: |
-| 290bb–21. | Office for Substance Abuse Prevention. |
-| 290bb–22. | Priority substance abuse prevention needs of regional and national significance. |
-| 290bb–23. | Prevention, treatment, and rehabilitation model projects for high risk youth. |
-| 290bb–24. | Repealed. |
+| 290bb–21. | Center for Substance Abuse Prevention. |
+| 290bb–22. | Priority substance use disorder prevention needs of regional and national significance. |
+| 290bb–23, 290bb–24. Repealed. |  |
 | 290bb–25. | Grants for services for children of substance abusers. |
-| 290bb–25a. | Grants for strengthening families. |
+| 290bb–25a. | Repealed. |
 | 290bb–25b. | Programs to reduce underage drinking. |
-| 290bb–25c. | Services for individuals with fetal alcohol syndrome. |
+| 290bb–25c. | Repealed. |
 | 290bb–25d. | Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families. |
-| 290bb–25e. | Prevention of methamphetamine and inhalant abuse and addiction. |
+| 290bb–25e. | Repealed. |
 | 290bb–25f. | Prevention and education programs. |
+| 290bb–25g. | Awareness campaigns. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1196,18 +1208,22 @@
 | :--- | ---: |
 | 290bb–31. | Center for Mental Health Services. |
 | 290bb–32. | Priority mental health needs of regional and national significance. |
-| 290bb–33. | National centers of excellence for depression. |
-| 290bb–34. | Youth interagency research, training, and technical assistance centers. |
-| 290bb–35. | Services for youth offenders. |
+| 290bb–33. | Repealed. |
+| 290bb–34. | Suicide prevention technical assistance center. |
+| 290bb–35. | Repealed. |
 | 290bb–36. | Youth suicide early intervention and prevention strategies. |
 | 290bb–36a. | Suicide prevention for youth. |
-| 290bb–36b. | Mental and behavioral health services on campus. |
-| 290bb–37. | Grants for emergency mental health centers. |
+| 290bb–36b. | Mental health and substance use disorder services on campus. |
+| 290bb–36c. | National Suicide Prevention Lifeline program. |
+| 290bb–36d. | Treatment Referral Routing Service. |
+| 290bb–37. | Strengthening community crisis response systems. |
 | 290bb–38. | Grants for jail diversion programs. |
-| 290bb–39. | Improving outcomes for children and adolescents through services integration between child welfare and mental health services. |
+| 290bb–39. | Repealed. |
 | 290bb–40. | Grants for the integrated treatment of serious mental illness and co-occurring substance abuse. |
-| 290bb–41. | Training grants. |
-| 290bb–42. | Awards for co-locating primary and specialty care in community-based mental health settings. |
+| 290bb–41. | Mental health awareness training grants. |
+| 290bb–42. | Integration incentive grants and cooperative agreements. |
+| 290bb–43. | Adult suicide prevention. |
+| 290bb–44. | Assertive community treatment grant program. |
 | 290cc to 290cc–13. Repealed or Transferred. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1241,7 +1257,13 @@
 | [290dd.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20D%20-%20Miscellaneous%20Provisions%20Relating%20to%20Substance%20Abuse%20and%20Mental%20Health/%C2%A7%2000290dd%20-%20Substance%20abuse%20among%20government%20and%20other%20employees.md) | Substance abuse among government and other employees. |
 | 290dd–1. | Admission of substance abusers to private and public hospitals and outpatient facilities. |
 | 290dd–2. | Confidentiality of records. |
-| 290dd–3 to 290ee–3. Omitted. |  |
+| 290dd–2a. | Promoting access to information on evidence-based programs and practices. |
+| 290dd–3. | Grants for reducing overdose deaths. |
+| [290ee.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20D%20-%20Miscellaneous%20Provisions%20Relating%20to%20Substance%20Abuse%20and%20Mental%20Health/%C2%A7%2000290ee%20-%20Opioid%20overdose%20reversal%20medication%20access%20and%20education%20grant%20programs.md) | Opioid overdose reversal medication access and education grant programs. |
+| 290ee–1. | First responder training. |
+| 290ee–2. | Building communities of recovery. |
+| 290ee–3. | State demonstration grants for comprehensive opioid abuse response. |
+| 290ee–4. | Mental and behavioral health outreach and education on college campuses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1302,6 +1324,14 @@
 | 290kk–1. | Religious organizations as program participants. |
 | 290kk–2. | Limitations on use of funds for certain purposes. |
 | 290kk–3. | Educational requirements for personnel in drug treatment programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part K—Minority Fellowship Program
+
+|  |  |
+| :--- | ---: |
+| 290<i>ll.</i> | Fellowships. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1464,6 +1494,7 @@
 | 294g, 294h. | Repealed. |
 | [294i.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294i%20-%20Program%20for%20education%20and%20training%20in%20pain%20care.md) | Program for education and training in pain care. |
 | [294j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294j%20-%20Demonstration%20program%20to%20integrate%20quality%20improvement%20and%20patient%20safety%20training%20into%20clinical%20education%20of%20health%20professionals.md) | Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals. |
+| [294k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294k%20-%20Training%20demonstration%20program.md) | Training demonstration program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1968,6 +1999,7 @@
 | 300j–3a. | Grants to public sector agencies. |
 | 300j–3b. | Contaminant standards or treatment technique guidelines. |
 | 300j–3c. | National assistance program for water infrastructure and watersheds. |
+| 300j–3d. | Water supply cost savings. |
 | 300j–4. | Records and inspections. |
 | 300j–5. | National Drinking Water Advisory Council. |
 | 300j–6. | Federal agencies. |
@@ -1984,6 +2016,8 @@
 | 300j–17. | Estrogenic substances screening program. |
 | 300j–18. | Drinking water studies. |
 | 300j–19. | Algal toxin risk assessment and management. |
+| 300j–19a. | Assistance for small and disadvantaged communities. |
+| 300j–19b. | Reducing lead in drinking water. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1995,8 +2029,9 @@
 | 300j–22. | Recall of drinking water coolers with lead-lined tanks. |
 | 300j–23. | Drinking water coolers containing lead. |
 | 300j–24. | Lead contamination in school drinking water. |
-| 300j–25. | Federal assistance for State programs regarding lead contamination in school drinking water. |
+| 300j–25. | Repealed. |
 | 300j–26. | Certification of testing laboratories. |
+| 300j–27. | Registry for lead exposure and Advisory Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2104,12 +2139,9 @@
 
 #### SUBCHAPTER XVI—PRESIDENT'S COMMISSION FOR THE STUDY OF ETHICAL PROBLEMS IN MEDICINE AND BIOMEDICAL AND BEHAVIOR RESEARCH
 
-|  |  |
-| :--- | ---: |
-| [300v.](Subchapter%20016%20%28XVI%29%20-%20President%27s%20Commission%20for%20the%20Study%20of%20Ethical%20Problems%20in%20Medicine%20and%20Biomedical%20and%20Behavior%20Research/%C2%A7%2000300v%20-%20Commission.md) | Commission. |
-| 300v–1. | Duties of Commission. |
-| 300v–2. | Administrative provisions. |
-| 300v–3. | Authorization of appropriations; termination of Commission. |
+|  |
+| :--- |
+| 300v to 300v–3. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2160,12 +2192,12 @@
 | 300x–22. | Certain allocations. |
 | 300x–23. | Intravenous substance abuse. |
 | 300x–24. | Requirements regarding tuberculosis and human immunodeficiency virus. |
-| 300x–25. | Group homes for recovering substance abusers. |
+| 300x–25. | Group homes for persons in recovery from substance use disorders. |
 | 300x–26. | State law regarding sale of tobacco products to individuals under age of 18. |
 | 300x–26a. | Withholding of substance abuse funding under section 300x–26. |
 | 300x–27. | Treatment services for pregnant women. |
 | 300x–28. | Additional agreements. |
-| 300x–29. | Submission to Secretary of statewide assessment of needs. |
+| 300x–29. | Repealed. |
 | 300x–30. | Maintenance of effort regarding State expenditures. |
 | 300x–31. | Restrictions on expenditure of grant. |
 | 300x–32. | Application for grant; approval of State plan. |
@@ -2195,6 +2227,8 @@
 | 300x–64. | Definitions. |
 | 300x–65. | Services provided by nongovernmental organizations. |
 | 300x–66. | Services for individuals with co-occurring disorders. |
+| 300x–67. | Public health emergencies. |
+| 300x–68. | Joint applications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2661,7 +2695,7 @@
 
 |  |  |
 | :--- | ---: |
-| [300gg.](Subchapter%20025%20%28XXV%29%20-%20Requirements%20Relating%20to%20Health%20Insurance%20Coverage/Part%20A%20-%20Individual%20and%20Group%20Market%20Reforms/Subpart%20001%20-%20General%20Reform/%C2%A7%2000300gg%20-%20Fair%20health%20insurance%20premiums.md) | Fair health insurance premiums. |
+| [300gg.](Subchapter%20025%20%28XXV%29%20-%20Requirements%20Relating%20to%20Health%20Insurance%20Coverage/Part%20A%20-%20Individual%20and%20Group%20Market%20Reforms/Subpart%20001%20%28I%29%20-%20General%20Reform/%C2%A7%2000300gg%20-%20Fair%20health%20insurance%20premiums.md) | Fair health insurance premiums. |
 | 300gg–1. | Guaranteed availability of coverage. |
 | 300gg–2. | Guaranteed renewability of coverage. |
 | 300gg–3. | Prohibition of preexisting condition exclusions or other discrimination based on health status. |
@@ -2814,14 +2848,15 @@
 |  |  |
 | :--- | ---: |
 | 300jj–11. | Office of the National Coordinator for Health Information Technology. |
-| 300jj–12. | HIT Policy Committee. |
-| 300jj–13. | HIT Standards Committee. |
+| 300jj–12. | Health Information Technology Advisory Committee. |
+| 300jj–13. | Setting priorities for standards adoption. |
 | 300jj–14. | Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification criteria. |
 | 300jj–15. | Application and use of adopted standards and implementation specifications by Federal agencies. |
 | 300jj–16. | Voluntary application and use of adopted standards and implementation specifications by private entities. |
 | 300jj–17. | Federal health information technology. |
 | 300jj–18. | Transitions. |
 | 300jj–19. | Miscellaneous provisions. |
+| 300jj–19a. | Electronic health record reporting program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2845,6 +2880,7 @@
 |  |  |
 | :--- | ---: |
 | 300jj–51. | Health information technology enrollment standards and protocols. |
+| 300jj–52. | Information blocking. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

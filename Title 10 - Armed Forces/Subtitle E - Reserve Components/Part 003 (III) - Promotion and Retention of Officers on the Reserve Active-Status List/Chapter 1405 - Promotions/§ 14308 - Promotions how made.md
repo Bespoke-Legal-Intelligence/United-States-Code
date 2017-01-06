@@ -48,7 +48,7 @@ Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to th
 
 (f)
 
-Effective Date of Promotion After Federal Recognition.—The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federalrecognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+Effective Date of Promotion After Federal Recognition.—The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
 (g)
 
@@ -83,4 +83,8 @@ Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with resp
 #### Effective Date of 2001 Amendment
 
 Subsec. (c)(2) of this section applicable with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after Dec. 28, 2001, and Secretary of the military department concerned may apply subsec. (c)(2) of this section in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before Dec. 28, 2001, if the Secretary determines that such appointment would have been made on an earlier date that is on or after Oct. 1, 2001, and was delayed under the circumstances specified in section 741(d)(4) of this title, see section 506(c) of Pub. L. 107–107, set out as a note under section 741 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

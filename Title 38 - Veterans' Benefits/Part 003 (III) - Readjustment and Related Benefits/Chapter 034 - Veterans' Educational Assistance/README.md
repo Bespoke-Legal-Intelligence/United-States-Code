@@ -75,7 +75,7 @@ Pub. L. 102–16, §2(b)(1)(B), Mar. 22, 1991, 105 Stat. 49, struck out item 166
 
 <b>1974</b>—Pub. L. 93–508, title III, §302(b), Dec. 3, 1974, 88 Stat. 1591, added item 1686.
 
-<b>1972</b>—Pub. L. 92–540, title IV, §404(a), Oct. 24, 1972, 86 Stat. 1090, inserted in Subchapter IV heading "VETERAN-STUDENT SERVICES", and substituted in item 1683 "Approval of courses" for "Apprenticeship or otheron-job training"; in item 1684 "Apprenticeship or other on-job training; correspondence courses" for "Measurement of courses", and in item 1685 "Veteran-student services" for "Overcharges by educational institutions", struck out item 1672 "Change of program", item 1675 "Period of operation for approval", item 1686 "Approval of courses", and item 1687 "Discontinuance of allowances", and added item 1697A.
+<b>1972</b>—Pub. L. 92–540, title IV, §404(a), Oct. 24, 1972, 86 Stat. 1090, inserted in Subchapter IV heading "VETERAN-STUDENT SERVICES", and substituted in item 1683 "Approval of courses" for "Apprenticeship or other on-job training"; in item 1684 "Apprenticeship or other on-job training; correspondence courses" for "Measurement of courses", and in item 1685 "Veteran-student services" for "Overcharges by educational institutions", struck out item 1672 "Change of program", item 1675 "Period of operation for approval", item 1686 "Approval of courses", and item 1687 "Discontinuance of allowances", and added item 1697A.
 
 <b>1970</b>—Pub. L. 91–219, title II, §204(b), Mar. 26, 1970, 84 Stat. 81, struck out item 1678 "Special training for the educationally disadvantaged" and added subchapters V and VI.
 

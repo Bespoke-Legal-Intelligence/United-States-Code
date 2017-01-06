@@ -2,11 +2,11 @@
 
 #### (a) National primary drinking water regulations; maximum contaminant level goals; simultaneous publication of regulations and goals
 
-(1) Effective on June 19, 1986, each national interim or revised primary drinking water regulation promulgated under this section before June 19, 1986, shall be deemed to be a national primary drinking water regulation under subsection (b) of this section. No such regulation shall be required to comply with the standards set forth in subsection (b)(4) of this section unless such regulation is amended to establish a different maximum contaminant level after June 19, 1986.
+(1) Effective on June 19, 1986, each national interim or revised primary drinking water regulation promulgated under this section before June 19, 1986, shall be deemed to be a national primary drinking water regulation under subsection (b). No such regulation shall be required to comply with the standards set forth in subsection (b)(4) unless such regulation is amended to establish a different maximum contaminant level after June 19, 1986.
 
 (2) After June 19, 1986, each recommended maximum contaminant level published before June 19, 1986, shall be treated as a maximum contaminant level goal.
 
-(3) Whenever a national primary drinking water regulation is proposed under subsection (b) of this section for any contaminant, the maximum contaminant level goal for such contaminant shall be proposed simultaneously. Whenever a national primary drinking water regulation is promulgated under subsection (b) of this section for any contaminant, the maximum contaminant level goal for such contaminant shall be published simultaneously.
+(3) Whenever a national primary drinking water regulation is proposed under subsection (b) for any contaminant, the maximum contaminant level goal for such contaminant shall be proposed simultaneously. Whenever a national primary drinking water regulation is promulgated under subsection (b) for any contaminant, the maximum contaminant level goal for such contaminant shall be published simultaneously.
 
 (4) Paragraph (3) shall not apply to any recommended maximum contaminant level published before June 19, 1986.
 
@@ -32,7 +32,7 @@ Regulation of unregulated contaminants.—
 
 &emsp;&emsp;(i)
 
-Listing of contaminants for consideration.—(I) Not later than 18 months after August 6, 1996, and every 5 years thereafter,the Administrator, after consultation with the scientific community, including the Science Advisory Board, after notice and opportunity for public comment, and after considering the occurrence data base established under section 300j–4(g) of this title, shall publish a list of contaminants which, at the time of publication, are not subject to any proposed or promulgated national primary drinking water regulation, which are known or anticipated to occur in public water systems, and which may require regulation under this subchapter.
+Listing of contaminants for consideration.—(I) Not later than 18 months after August 6, 1996, and every 5 years thereafter, the Administrator, after consultation with the scientific community, including the Science Advisory Board, after notice and opportunity for public comment, and after considering the occurrence data base established under section 300j–4(g) of this title, shall publish a list of contaminants which, at the time of publication, are not subject to any proposed or promulgated national primary drinking water regulation, which are known or anticipated to occur in public water systems, and which may require regulation under this subchapter.
 
 &emsp;&emsp;(II) The unregulated contaminants considered under subclause (I) shall include, but not be limited to, substances referred to in section 9601(14) of this title, and substances registered as pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
@@ -140,7 +140,7 @@ Maximum contaminant levels.—When proposing any national primary drinking water
 
 &emsp;&emsp;(ii)
 
-Treatment techniques.—When proposing a national primary drinking water regulation that includes a treatment technique in accordance with paragraph (7)(A), the Administrator shall publish and seek publiccomment on an analysis of the health risk reduction benefits and costs likely to be experienced as the result of compliance with the treatment technique and alternative treatment techniques that are being considered, taking into account, as appropriate, the factors described in clause (i).
+Treatment techniques.—When proposing a national primary drinking water regulation that includes a treatment technique in accordance with paragraph (7)(A), the Administrator shall publish and seek public comment on an analysis of the health risk reduction benefits and costs likely to be experienced as the result of compliance with the treatment technique and alternative treatment techniques that are being considered, taking into account, as appropriate, the factors described in clause (i).
 
 &emsp;&emsp;(iii)
 
@@ -196,7 +196,7 @@ List of technologies that achieve compliance.—Except as provided in clause (v)
 
 &emsp;&emsp;(iv)
 
-Additional technologies.—The Administrator may, at any time after a national primary drinking water regulation has been promulgated, supplement the list of technologies describing additional or new or innovative treatment technologies that meet the requirements of this paragraph forcategories of small public water systems described in subclauses (I), (II), and (III) of clause (ii) that are subject to the regulation.
+Additional technologies.—The Administrator may, at any time after a national primary drinking water regulation has been promulgated, supplement the list of technologies describing additional or new or innovative treatment technologies that meet the requirements of this paragraph for categories of small public water systems described in subclauses (I), (II), and (III) of clause (ii) that are subject to the regulation.
 
 &emsp;&emsp;(v)
 
@@ -294,7 +294,7 @@ Study plan.—Not later than 180 days after August 6, 1996, the Administrator sh
 
 &emsp;&emsp;(iii)
 
-Cooperative agreements.—In carrying out the study plan, the Administrator may enter into cooperative agreements withother Federal agencies, State and local governments, and other interested public and private entities.
+Cooperative agreements.—In carrying out the study plan, the Administrator may enter into cooperative agreements with other Federal agencies, State and local governments, and other interested public and private entities.
 
 &emsp;&emsp;(iv)
 
@@ -330,7 +330,7 @@ Radon in drinking water.—
 
 &emsp;(A)
 
-National primary drinking water regulation.—Notwithstanding paragraph (2), the Administrator shall withdraw any national primary drinking water regulation for radon proposed prior to August 6, 1996, and shall propose and promulgate a regulation for radon under this section, as amended by the Safe Drinking Water Act Amendments of 1996.
+National primary drinking water regulation.—Notwithstanding paragraph (2), theAdministrator shall withdraw any national primary drinking water regulation for radon proposed prior to August 6, 1996, and shall propose and promulgate a regulation for radon under this section, as amended by the Safe Drinking Water Act Amendments of 1996.
 
 &emsp;(B)
 
@@ -378,7 +378,7 @@ Elements of programs.—State programs may rely on a variety of mitigation measu
 
 &emsp;&emsp;(iii)
 
-Approval.—The Administrator shall approve a State program submitted under this paragraph if the health risk reduction benefits expected to be achieved by the program are equal to or greater than the health risk reduction benefits that would be achieved if each public water system in the State complied with the maximum contaminant level promulgated under subparagraph (E). The Administrator shall approve or disapprove a program submitted under this paragraph within 180 days of receipt. A program that is not disapproved during such period shall be deemed approved. A program that is disapproved may be modified to address the objections of the Administrator and be resubmitted for approval.
+Approval.—The Administrator shall approve a State program submitted under this paragraph if the health risk reduction benefits expected to be achieved by the program are equal to or greater than the health risk reduction benefits that would be achieved if each public water system in the State complied with the maximum contaminant level promulgated under subparagraph (E). The Administrator shall approve or disapprove a program submitted under thisparagraph within 180 days of receipt. A program that is not disapproved during such period shall be deemed approved. A program that is disapproved may be modified to address the objections of the Administrator and be resubmitted for approval.
 
 &emsp;&emsp;(iv)
 
@@ -422,7 +422,7 @@ Additional information.—The Administrator shall include in the guidance or reg
 
 &emsp;(D)
 
-Regulations and guidance.—Not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue guidance or regulations under subparagraph (A) for each national primary drinking water regulation promulgated prior to August 6, 1996, for which a variance may be granted under section 300g–4(e) of this title. The Administrator may, at any time after a national primary drinking water regulation has been promulgated, issue guidance or regulations describing additional variance technologies. The Administrator shall, not less often than every 7 years, or upon receipt of a petition supported by substantial information, review variance technologies identified under this paragraph. The Administrator shall issue revised guidance or regulations if new or innovative variance technologies become available that meet the requirements of this paragraph and achieve an equal or greater reduction or inactivation efficiency than the variance technologies previously identified under this subparagraph. No public water system shall be required to replace a variance technology during the useful life of the technology for the sole reason that a more efficient variance technology has been listed under this subparagraph.
+Regulations and guidance.—Not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue guidance or regulations under subparagraph (A) for each national primary drinking water regulation promulgated prior to August 6, 1996, for which a variance may be granted under section 300g–4(e) of this title. The Administrator may, at any time after a national primary drinking water regulation has been promulgated, issue guidance or regulations describing additional variance technologies. The Administrator shall, not less often than every 7 years, or upon receipt of a petition supported by substantial information, review variance technologies identified under this paragraph. The Administrator shall issue revised guidance or regulations if new or innovative variance technologies become available that meet the requirements of this paragraph and achieve an equal or greater reduction or inactivation efficiency than thevariance technologies previously identified under this subparagraph. No public water system shall be required to replace a variance technology during the useful life of the technology for the sole reason that a more efficient variance technology has been listed under this subparagraph.
 
 #### (c) Secondary regulations; publication of proposed regulations; promulgation; amendments
 
@@ -472,7 +472,7 @@ Subsec. (b)(8). Pub. L. 104–182, §501(a)(2), substituted "section 300j–1(e)
 
 Pub. L. 104–182, §107, inserted heading, realigned margins, and substituted "At any time after the end of the 3-year period that begins on August 6, 1996, but not later than the date on which the Administrator promulgates a Stage II rulemaking for disinfectants and disinfection byproducts (as described in paragraph (2)(C)), the Administrator shall also promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems, including surface water systems and, as necessary, ground water systems. After consultation with the States, the Administrator shall (as part of the regulations) promulgate criteria that the Administrator, or a State that has primary enforcement responsibility under section 300g–2 of this title, shall apply to determine whether disinfection shall be required as a treatment technique for any public water system served by ground water." for "Not later than 36 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems."
 
-Subsec. (b)(9). Pub. L. 104–182, §104(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "National primary drinking water regulations shall be amended whenever changes in technology, treatment techniques, and other means permit greater protection of the health of persons, but in any event such regulations shall be reviewed at least once every 3 years. Such review shall include an analysis of innovations or changes in technology, treatment techniques or other activities that have occurred over the previous 3-year period and that may provide for greater protection of the health of persons. The findings of such review shall be published in the Federal Register. If, after opportunity for public comment, the Administrator concludes that the technology, treatment techniques, or other means resulting from such innovations or changes are not feasible within the meaning of paragraph (5), an explanation of such conclusion shall be published in the Federal Register."
+Subsec. (b)(9). Pub. L. 104–182, §104(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "National primary drinking water regulations shall be amended whenever changes in technology, treatment techniques, and other means permit greater protection of the health of persons, but in any event such regulations shall be reviewed at least once every 3 years. Such review shall include an analysis of innovations or changes in technology, treatment techniques or other activities that have occurred over the previous3-year period and that may provide for greater protection of the health of persons. The findings of such review shall be published in the Federal Register. If, after opportunity for public comment, the Administrator concludes that the technology, treatment techniques, or other means resulting from such innovations or changes are not feasible within the meaning of paragraph (5), an explanation of such conclusion shall be published in the Federal Register."
 
 Subsec. (b)(10). Pub. L. 104–182, §108, amended par. (10) generally. Prior to amendment, par. (10) read as follows: "National primary drinking water regulations promulgated under this subsection (and amendments thereto) shall take effect eighteen months after the date of their promulgation. Regulations under subsection (a) of this section shall be superseded by regulations under this subsection to the extent provided by the regulations under this subsection."
 
@@ -502,7 +502,7 @@ Subsec. (b)(3). Pub. L. 99–339, §101(b), substituted provisions directing the
 
 Subsec. (b)(4) to (11). Pub. L. 99–339, §101(b), (c)(1), (d), added pars. (4) to (8), redesignated former pars. (4) to (6) as pars. (9) to (11), respectively, in par. (9) substituted "National" for "Revised National" and inserted provision that review include analysis, and publication in Federal Register, of innovations in technology, treatment techniques or other activities occurring during previous three years and their feasibility, and in par. (10) substituted "National" for "Revised National".
 
-Subsec. (e). Pub. L. 99–339, §101(e), amended subsec. (e) generally, substituting provisions which relate tothe request by the Administrator of comments by the Science Advisory Board prior to proposal of a maximum contaminant level goal and national primary drinking water regulation for provisions which related to study by the National Academy of Sciences to determine the maximum contaminant levels, report to Congress, and funding therefor.
+Subsec. (e). Pub. L. 99–339, §101(e), amended subsec. (e) generally, substituting provisions which relate to the request by the Administrator of comments by the Science Advisory Board prior to proposal of a maximum contaminant level goal and national primary drinking water regulation for provisions which related to study by the National Academy of Sciences to determine the maximum contaminant levels, report to Congress, and funding therefor.
 
 <b>1977</b>—Subsec. (e)(2). Pub. L. 95–190 inserted provisions relating to revisions of the required report and cl. (G).
 

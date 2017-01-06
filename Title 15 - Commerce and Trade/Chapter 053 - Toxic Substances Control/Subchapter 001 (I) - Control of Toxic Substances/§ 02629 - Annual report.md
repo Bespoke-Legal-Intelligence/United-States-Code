@@ -4,7 +4,7 @@ The Administrator shall prepare and submit to the President and the Congress on 
 
 &emsp;(1) a list of the testing required under section 2603 of this title during the year for which the report is made and an estimate of the costs incurred during such year by the persons required to perform such tests;
 
-&emsp;(2) the number of notices received during such year under section 2604 of this title, the number of such notices received during such year under such section for chemical substances subject to a section 2603 rule, and a summary of any action taken during such year under section 2604(g) of this title;
+&emsp;(2) the number of notices received during such year under section 2604 of this title, the number of such notices received during such year under such section for chemical substances subject to a section 2603 rule, order, or consent agreement, and a summary of any action taken during such year under section 2604(g) of this title;
 
 &emsp;(3) a list of rules issued during such year under section 2605 of this title;
 
@@ -14,7 +14,15 @@ The Administrator shall prepare and submit to the President and the Congress on 
 
 &emsp;(6) such recommendations for additional legislation as the Administrator deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 94–469, title I, §30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(s), June 22, 2016, 130 Stat. 510.)
+
+#### Amendments
+
+<b>2016</b>—Par. (2). Pub. L. 114–182 substituted "rule, order, or consent agreement" for "rule".
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
 #### Termination of Reporting Requirements
 

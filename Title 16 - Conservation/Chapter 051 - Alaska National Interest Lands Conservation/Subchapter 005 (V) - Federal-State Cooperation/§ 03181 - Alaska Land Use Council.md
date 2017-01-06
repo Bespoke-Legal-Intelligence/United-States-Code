@@ -50,7 +50,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 #### (g) Meetings; authorities; reports
 
-The Council shall meet at the call of the Cochairmen, but not less than four times each year. In addition, the Council may, for the purpose of carrying out the provisions of this section, hold such hearings, take such testimony, receive such evidence and print or otherwise reproduce and distribute reports concerning so much of its proceedings as the Council deems advisable. No later than February 1 of each calendar year following the calendar year in which the Council is established, the Cochairmen shall submit to the President, the Congress, the Governor of Alaska, and the Alaska Legislature, in writing, a report on the activities of the Council during the previous year, together with their recommendations, if any, for legislative or other action in furtherance of the purposes of this section.
+The Council shall meet at the call of the Cochairmen, but not less than four times eachyear. In addition, the Council may, for the purpose of carrying out the provisions of this section, hold such hearings, take such testimony, receive such evidence and print or otherwise reproduce and distribute reports concerning so much of its proceedings as the Council deems advisable. No later than February 1 of each calendar year following the calendar year in which the Council is established, the Cochairmen shall submit to the President, the Congress, the Governor of Alaska, and the Alaska Legislature, in writing, a report on the activities of the Council during the previous year, together with their recommendations, if any, for legislative or other action in furtherance of the purposes of this section.
 
 #### (h) Rules
 
@@ -58,7 +58,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 #### (i) Functions of the Council
 
-(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture,other Federal agencies, the State, local governments, and Native Corporations with respect to ongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
+(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture, other Federal agencies, the State, local governments, and Native Corporations with respect to ongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
 
 (2) It shall be the function of the Council—
 

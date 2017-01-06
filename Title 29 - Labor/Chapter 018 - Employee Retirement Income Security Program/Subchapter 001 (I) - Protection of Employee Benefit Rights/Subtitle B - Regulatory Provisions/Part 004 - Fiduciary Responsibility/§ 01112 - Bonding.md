@@ -22,15 +22,15 @@ Every fiduciary of an employee benefit plan and every person who handles funds o
 
 #### (b) Unlawful acts
 
-It shall be unlawful for any plan official to whom subsection (a) of this section applies, to receive, handle, disburse, or otherwise exercise custody or control of any of the funds or other property of any employee benefit plan, without being bonded as required by subsection (a) of this section and it shall be unlawful for any plan official of such plan, or any other person having authority to direct the performance of such functions, to permit such functions, or any of them, to be performed by any plan official, with respect to whom the requirements of subsection (a) of this section have not been met.
+It shall be unlawful for any plan official to whom subsection (a) applies, to receive, handle, disburse, or otherwise exercise custody or control of any of the funds or other property of any employee benefit plan, without being bonded as required by subsection (a) and it shall be unlawful for any plan official of such plan, or any other person having authority to direct the performance of such functions, to permit such functions, or any of them, to be performed by any plan official, with respect to whom the requirements of subsection (a) have not been met.
 
 #### (c) Conflict of interest prohibited in procuring bonds
 
-It shall be unlawful for any person to procure any bond required by subsection (a) of this section from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest in such plan has any control or significant financial interest, direct or indirect.
+It shall be unlawful for any person to procure any bond required by subsection (a) from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest in such plan has any control or significant financial interest, direct or indirect.
 
 #### (d) Exclusiveness of statutory basis for bonding requirement for persons handling funds or other property of employee benefit plans
 
-Nothing in any other provision of law shall require any person, required to be bonded as provided in subsection (a) of this section because he handles funds or other property of an employee benefit plan, to be bonded insofar as the handling by such person of the funds or other property of such plan is concerned.
+Nothing in any other provision of law shall require any person, required to be bonded as provided in subsection (a) because he handles funds or other property of an employee benefit plan, to be bonded insofar as the handling by such person of the funds or other property of such plan is concerned.
 
 #### (e) Regulations
 
@@ -56,7 +56,7 @@ Pub. L. 109–280, title VI, §622(b), Aug. 17, 2006, 120 Stat. 979, provided th
 
 #### Regulations
 
-Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this partcall for the promulgation of regulations, see sections 1031 and 1114 of this title.
+Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be ", and".</i>
 

@@ -286,7 +286,7 @@
 
 &emsp;&emsp;&emsp;(i) is a State (or an integral part of a State) issuing pooled financing bonds to make or finance loans to subordinate governmental units of such State, or
 
-&emsp;&emsp;&emsp;(ii) is a State-created entity providing financing for water-infrastructure projectsthrough the federally-sponsored State revolving fund program.
+&emsp;&emsp;&emsp;(ii) is a State-created entity providing financing for water-infrastructure projects through the federally-sponsored State revolving fund program.
 
 #### (5) Redemption requirement
 

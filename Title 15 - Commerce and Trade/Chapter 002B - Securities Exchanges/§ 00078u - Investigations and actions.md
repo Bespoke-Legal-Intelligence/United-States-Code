@@ -8,7 +8,7 @@
 
 #### (b) Attendance of witnesses; production of records
 
-For the purpose of any such investigation, or any other proceeding under this chapter, any member of the Commission or any officer designated by it is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
+For the purpose of any such investigation, or any other proceeding under this chapter, anymember of the Commission or any officer designated by it is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
 
 #### (c) Judicial enforcement of investigative power of Commission; refusal to obey subpena; criminal sanctions
 
@@ -16,7 +16,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Injunction proceedings; authority of court to prohibit persons from serving as officers and directors; money penalties in civil actions
 
-(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission maytransmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
+(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
 
 (2)
 
@@ -56,7 +56,7 @@ Procedures for collection.—
 
 &emsp;&emsp;(i)
 
-Payment of penalty to treasury.—A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
+Payment of penalty to treasury.—A penalty imposed under this section shall bepayable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
 
 &emsp;&emsp;(ii)
 
@@ -92,7 +92,7 @@ In general.—In any proceeding under paragraph (1) against any person participa
 
 &emsp;(B)
 
-Definition.—For purposes of this paragraph, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commissionmay, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
+Definition.—For purposes of this paragraph, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
 #### (e) Mandamus
 
@@ -108,7 +108,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 #### (h) Access to records
 
-(1) The Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall apply with respect to the Commission, except as otherwise provided in this subsection.
+(1) The Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall apply with respectto the Commission, except as otherwise provided in this subsection.
 
 (2) Notwithstanding section 1105 or 1107 of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3405 or 3407\], the Commission may have access to and obtain copies of, or the information contained in financial records of a customer from a financial institution without prior notice to the customer upon an ex parte showing to an appropriate United States district court that the Commission seeks such financial records pursuant to a subpena issued in conformity with the requirements of section 19(b) <sup>1</sup> of the Securities Act of 1933, section 21(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78u(b)\], section 42(b) of the Investment Company Act of 1940 \[15 U.S.C. 80a–41(b)\], or section 209(b) of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–9(b)\], and that the Commission has reason to believe that—
 
@@ -162,7 +162,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (B) Upon a finding that the Commission has obtained financial records or information contained therein in violation of this subsection, other than paragraph (1), the court, in its discretion, may also or in the alternative issue injunctive relief to require the Commission to comply with this subsection with respect to any subpena which the Commission issues in the future for financial records of such customer for purposes of the same investigation.
 
-(C) Whenever the court determines that the Commission has failed to comply with this subsection, other than paragraph (1), and the court finds that the circumstances raise questions of whether an officer or employee of the Commission acted in a willful and intentional manner and without good faith with respect to the violation, the Office of Personnel Management shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the agent or employee who was primarily responsible for the violation. After investigating and considering the evidence submitted, the Office of Personnel Management shall submit its findings and recommendations to the Commission and shall send copies of the findings and recommendations to the officer or employee or his representative. The Commission shall take the corrective action that the Office of Personnel Management recommends.
+(C) Whenever the court determines that the Commission has failed to comply with this subsection, other than paragraph (1), and the court finds that the circumstances raise questions of whether an officer or employee of the Commission acted in a willful and intentional mannerand without good faith with respect to the violation, the Office of Personnel Management shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the agent or employee who was primarily responsible for the violation. After investigating and considering the evidence submitted, the Office of Personnel Management shall submit its findings and recommendations to the Commission and shall send copies of the findings and recommendations to the officer or employee or his representative. The Commission shall take the corrective action that the Office of Personnel Management recommends.
 
 (8) The relief described in paragraphs (7) and (10) shall be the only remedies or sanctions available to a customer for a violation of this subsection, other than paragraph (1), and nothing herein or in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall be deemed to prohibit the use in any investigation or proceeding of financial records, or the information contained therein, obtained by a subpena issued by the Commission. In the case of an unsuccessful action under paragraph (7), the court shall award the costs of the action and attorney's fees to the Commission if the presiding judge or magistrate judge finds that the customer's claims were made in bad faith.
 
@@ -196,7 +196,7 @@ Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragra
 
 #### Amendments
 
-<b>2015</b>—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
+<b>2015</b>—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which theCommission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted ", a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm" for "or a person associated with such a firm".
 
@@ -314,7 +314,7 @@ Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
 
 "(a)
 
-Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigationby a State securities commission of an alleged violation of State securities laws.
+Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws.
 
 "(b)
 

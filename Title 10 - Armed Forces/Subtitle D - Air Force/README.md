@@ -48,7 +48,7 @@
 | :--- | :---: | ---: |
 | [<b>901.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20901%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>9301</b> |
 | [<b>903.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20903%20-%20United%20States%20Air%20Force%20Academy/README.md) | <b>United States Air Force Academy</b> | <b>9331</b> |
-| [<b>905.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20905%20-%20Aviation%20Leadership%20Program/README.md) | <b>Aviation Leadership Program</b> | <b>9381</b> |
+| <b>\[905.</b> | <b>Repealed.\]</b> |  |
 | [<b>907.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20907%20-%20Schools%20and%20Camps/README.md) | <b>Schools and Camps</b> | <b>9411</b> |
 | [<b>909.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20909%20-%20Civil%20Air%20Patrol/README.md) | <b>Civil Air Patrol</b> | <b>9441</b> |
 
@@ -74,6 +74,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 "Aviation Leadership Program".
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 

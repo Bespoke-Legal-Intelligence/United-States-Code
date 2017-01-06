@@ -1,6 +1,6 @@
 ### §306. Agency strategic plans
 
-(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the Presidentand Congress of its availability. Such plan shall contain—
+(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the President and Congress of its availability. Such plan shall contain—
 
 &emsp;(1) a comprehensive mission statement covering the major functions and operations of the agency;
 

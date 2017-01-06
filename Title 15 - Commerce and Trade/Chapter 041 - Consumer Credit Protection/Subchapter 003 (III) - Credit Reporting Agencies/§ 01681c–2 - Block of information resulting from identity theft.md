@@ -66,7 +66,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 #### (3) Notice
 
-&emsp;In carrying out its obligation under paragraph (2), the reseller shall promptly provide a notice to the consumer of the decision to block the file. Such notice shall contain the name, address, and telephone number of each consumer reporting agency from which the consumer information was obtained for resale.
+&emsp;In carrying out its obligation under paragraph (2), the reseller shall promptly provide a notice to the consumer of the decision toblock the file. Such notice shall contain the name, address, and telephone number of each consumer reporting agency from which the consumer information was obtained for resale.
 
 #### (e) Exception for verification companies
 

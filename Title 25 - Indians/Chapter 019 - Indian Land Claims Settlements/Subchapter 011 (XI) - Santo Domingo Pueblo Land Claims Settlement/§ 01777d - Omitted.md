@@ -1,0 +1,6 @@
+### §1777d. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–425, §6, Nov. 1, 2000, 114 Stat. 1895, which related to affirmation of accurate boundaries of the Santo Domingo Pueblo Grant, was omitted from the Code as being of special and not general application.
+

@@ -172,7 +172,7 @@ Amendment by section 4432(b)(5)(B) of Pub. L. 105–33 applicable to items and s
 
 Pub. L. 105–33, title IV, §4511(e), Aug. 5, 1997, 111 Stat. 443, provided that: "The amendments made by this section \[amending this section and sections 1395l, 1395x, 1395y, 1395cc, and 1395yy of this title\] shall apply with respect to services furnished and supplies provided on and after January 1, 1998."
 
-Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, seesection 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
+Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -226,7 +226,7 @@ Pub. L. 99–509, title IX, §9337(e), Oct. 21, 1986, 100 Stat. 2034, provided t
 
 Pub. L. 98–369, div. B, title III, §2341(d), July 18, 1984, 98 Stat. 1094, provided that: "The amendments made by this section \[amending this section and section 1395x of this title\] apply to services furnished on or after the date of the enactment of this Act \[July 18, 1984\]."
 
-Amendment by section 2354(b)(6) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(b)(6) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1982 Amendment
 

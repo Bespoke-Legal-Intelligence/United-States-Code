@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders; and
 
-&emsp;(4) compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards that mandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
+&emsp;(4) compatibility among televisions, video cassette recorders, and cable systems can be assured with narrow technical standards thatmandate a minimum degree of common design and operation, leaving all features, functions, protocols, and other product and service options for selection through open competition in the market.
 
 #### (b) Compatible interfaces
 
@@ -60,7 +60,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) to promote the commercial availability, from cable operators and retail vendors that are not affiliated with cable systems, of converter boxes and of remote control devices compatible with converter boxes;
 
-&emsp;&emsp;(D) to ensure that any standards or regulations developed under the authority of this section to ensure compatibility between televisions, video cassette recorders, and cable systems do not affect features, functions, protocols, and other product and service options other than those specified in paragraph (1)(B), including telecommunications interface equipment, home automationcommunications, and computer network services;
+&emsp;&emsp;(D) to ensure that any standards or regulations developed under the authority of this section to ensure compatibility between televisions, video cassette recorders, and cable systems do not affect features, functions, protocols, and other product and service options other than those specified in paragraph (1)(B), including telecommunications interface equipment, home automation communications, and computer network services;
 
 &emsp;&emsp;(E) to require a cable operator who offers subscribers the option of renting a remote control unit—
 

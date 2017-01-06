@@ -8,7 +8,7 @@ Whenever—
 
 &emsp;(2) the owner or operator, or the master, pilot, conductor, driver, or other person in charge of a vessel, vehicle, or aircraft;
 
-> is subject to a penalty for violation of the customs laws, the conveyance involved shall be held for the payment of such penalty and may beseized and forfeited and sold in accordance with the customs laws. The proceeds of sale, if any, in excess of the assessed penalty and expenses of seizing, maintaining, and selling the property shall be held for the account of any interested party.
+> is subject to a penalty for violation of the customs laws, the conveyance involved shall be held for the payment of such penalty and may be seized and forfeited and sold in accordance with the customs laws. The proceeds of sale, if any, in excess of the assessed penalty and expenses of seizing, maintaining, and selling the property shall be held for the account of any interested party.
 
 #### (b) Exceptions
 
@@ -36,7 +36,7 @@ If any merchandise the importation of which is prohibited is found to be, or to 
 
 &emsp;(2) concealed in or on such a conveyance, but not in the cargo;
 
-> the conveyance may be seized, and after investigation, forfeited unless it is established that neither the owner or operator, master, pilot, nor any other employee responsible for maintaining and insuring the accuracy of the cargo manifest knew, or by the exercise of the highest degree of care and diligence could have known, that such merchandise was on board.
+> the conveyance may be seized, and after investigation, forfeited unless it is established that neither the owner or operator, master, pilot, nor any other employee responsible for maintaining and insuring the accuracy of the cargo manifest knew, or by the exercise of the highest degree ofcare and diligence could have known, that such merchandise was on board.
 
 #### (d) Definitions
 

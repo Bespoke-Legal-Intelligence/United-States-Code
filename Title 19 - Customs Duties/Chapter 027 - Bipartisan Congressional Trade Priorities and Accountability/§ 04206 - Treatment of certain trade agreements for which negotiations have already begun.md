@@ -24,17 +24,25 @@ In the case of any agreement to which subsection (a) applies, the applicability 
 
 &emsp;(2) before and after submission of the notice, consults regarding the negotiations with the committees referred to in section 4204(a)(1)(B) of this title and the House and Senate Advisory Groups on Negotiations convened under section 4203(c) of this title.
 
-#### (c) Agreement by Asia-Pacific Economic Cooperation members to reduce rates of duty on certain environmental goods
+#### (c) <sup>1</sup> Agreement by Asia-Pacific Economic Cooperation members to reduce rates of duty on certain environmental goods
 
 Notwithstanding the notification requirement described in section 4202(a)(2) of this title, the President may exercise the proclamation authority provided for in section 4202(a)(1)(B) of this title to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012, if (and only if) the President, as soon as feasible after December 18, 2015, and before exercising proclamation authority under section 4202(a)(1)(B) of this title, notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
 
-(Pub. L. 114–26, title I, §107, June 29, 2015, 129 Stat. 355; Pub. L. 114–113, div. Q, title V, §502, Dec. 18, 2015, 129 Stat. 3127.)
+#### (c) <sup>1</sup> Agreement by Asia-Pacific Economic Cooperation members to reduce rates of duty on certain environmental goods
+
+Notwithstanding the notification requirement described in section 4202(a)(2) of this title, the President may exercise the proclamation authority provided for in section 4202(a)(1)(B) of this title to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012, if (and only if) the President, as soon as feasible after February 24, 2016, and before exercising proclamation authority under section 4202(a)(1)(B) of this title, notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
+
+(Pub. L. 114–26, title I, §107, June 29, 2015, 129 Stat. 355; Pub. L. 114–113, div. Q, title V, §502, Dec. 18, 2015, 129 Stat. 3127; Pub. L. 114–125, title IX, §916, Feb. 24, 2016, 130 Stat. 279.)
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+<b>2016</b>—Subsec. (c). Pub. L. 114–125 added subsec. (c) relating to proclamation authority and requiring notification to Congress after Feb. 24, 2016.
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–113 added subsec. (c) relating to proclamation authority and requiring notification to Congress after Dec. 18, 2015.
 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, set out as a note under section 4201 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

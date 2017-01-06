@@ -24,7 +24,7 @@ In meeting the requirements of subsection (a), the Administrator—
 
 &emsp;(4) may procure, develop, and flight test applicable components; and
 
-&emsp;(5) shall take appropriate actions to ensure timely and cost-effective development of the Space Launch System and the multi-purpose crew vehicle, including the use of a procurement approach that incorporates adequate and effective oversight, the facilitation of contractor efficiencies, and the stream-lining of contract and procurement requirements.
+&emsp;(5) shall take appropriate actions to ensure timely and cost-effective development of the Space Launch System and the multi-purpose crew vehicle, including the use of a procurement approach that incorporates adequate andeffective oversight, the facilitation of contractor efficiencies, and the stream-lining of contract and procurement requirements.
 
 (Pub. L. 111–267, title III, §304, Oct. 11, 2010, 124 Stat. 2816.)
 

@@ -118,7 +118,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;(8) $168,000,000 for each of fiscal years 2012 through 2015; and
 
-&emsp;(9) $78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
+&emsp;(9) $166,000,000 for each of fiscal years 2016 and 2017.
 
 (b)
 
@@ -126,7 +126,7 @@ Research Priorities.—(1) The Administrator shall consider the advice and recom
 
 (2) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
 
-(3) At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title.
+(3) At least 3 percent of the amount appropriated under subsection (a) of this section shallbe available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title.
 
 (c)
 
@@ -214,7 +214,7 @@ Establishment.—The Administrator of the Federal Aviation Administration shall 
 
 &emsp;&emsp;(C) research on future training requirements on projected changes in regulatory requirements for aircraft maintenance and power plant licensees; or
 
-&emsp;&emsp;(D) research on the impact of new technologies and procedures, particularly thoserelated to aircraft flight deck and air traffic management functions, on training requirements for pilots and air traffic controllers.
+&emsp;&emsp;(D) research on the impact of new technologies and procedures, particularly those related to aircraft flight deck and air traffic management functions, on training requirements for pilots and air traffic controllers.
 
 &emsp;(2)
 
@@ -234,7 +234,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §208, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §8, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IX, §901(a), (b), Feb. 14, 2012, 126 Stat. 137; Pub. L. 114–55, title I, §105, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §105, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1105, July 15, 2016, 130 Stat. 618.)
 
 Historical and Revision Notes
 
@@ -298,6 +298,10 @@ The date of the enactment of the FAA Research, Engineering, and Development Auth
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(9). Pub. L. 114–190 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "$124,093,750 for the period beginning on October 1, 2015, and ending on July 15, 2016."
+
+Pub. L. 114–141 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "$78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016."
+
 <b>2015</b>—Subsec. (a)(9). Pub. L. 114–55 added par. (9).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §901(a)(1), substituted "of this title and, for each of fiscal years 2012 through 2015, under subsection (g)" for "of this title" in introductory provisions.
@@ -322,7 +326,7 @@ Pub. L. 111–153 amended par. (14) generally. Prior to amendment, par. (14) rea
 
 <b>2009</b>—Subsec. (a)(13). Pub. L. 111–12 substituted "$171,000,000 for fiscal year 2009" for "$85,507,500 for the 6-month period beginning on October 1, 2008".
 
-Subsec. (a)(14). Pub. L. 111–116 amended par. (14) generally. Prior to amendment, par. (14) read as follows:"$46,250,000 for the 3-month period beginning on October 1, 2009."
+Subsec. (a)(14). Pub. L. 111–116 amended par. (14) generally. Prior to amendment, par. (14) read as follows: "$46,250,000 for the 3-month period beginning on October 1, 2009."
 
 Pub. L. 111–69 added par. (14).
 

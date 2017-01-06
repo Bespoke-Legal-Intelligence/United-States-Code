@@ -14,7 +14,7 @@ In General.—Whoever—
 
 Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, §11008(b), Nov. 2, 2002, 116 Stat. 1818; Pub. L. 110–177, title II, §208(b), Jan. 7, 2008, 121 Stat. 2538.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat.4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, §11008(b), Nov. 2, 2002, 116 Stat. 1818; Pub. L. 110–177, title II, §208(b), Jan. 7, 2008, 121 Stat. 2538.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 107–273, §11008(b)(2), substituted "20" for "ten".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–132 inserted "(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)" after "deadly or dangerous weapon".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted ", where the acts in violation of this sectionconstitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases," after "shall" in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted ", where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases," after "shall" in concluding provisions.
 
 Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted "or inflicts bodily injury" after "weapon".
 

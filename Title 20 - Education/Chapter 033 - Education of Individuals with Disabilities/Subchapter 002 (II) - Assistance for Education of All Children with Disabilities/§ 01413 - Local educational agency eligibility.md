@@ -54,7 +54,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (iv) Special rule
 
-&emsp;&emsp;&emsp;The amount of funds expended by a local educational agency under subsection (f) shall count toward the maximum amount of expenditures such local educational agency may reduce under clause (i).
+&emsp;&emsp;&emsp;The amount of funds expended by a local educational agency under subsection (f)shall count toward the maximum amount of expenditures such local educational agency may reduce under clause (i).
 
 #### (D) Schoolwide programs under title I of the ESEA
 
@@ -86,7 +86,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (iii) High cost education and related services
 
-&emsp;&emsp;&emsp;To establish and implement cost or risk sharing funds, consortia, or cooperativesfor the local educational agency itself, or for local educational agencies working in a consortium of which the local educational agency is a part, to pay for high cost special education and related services.
+&emsp;&emsp;&emsp;To establish and implement cost or risk sharing funds, consortia, or cooperatives for the local educational agency itself, or for local educational agencies working in a consortium of which the local educational agency is a part, to pay for high cost special education and related services.
 
 #### (B) Administrative case management
 
@@ -206,7 +206,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;In implementing coordinated, early intervening services under this subsection, a local educational agency may carry out activities that include—
 
-&emsp;&emsp;(A) professional development (which may be provided by entities other than local educational agencies) for teachers and other school staff to enable such personnel to deliver scientifically based academic instruction and behavioral interventions, including scientifically based literacy instruction,and, where appropriate, instruction on the use of adaptive and instructional software; and
+&emsp;&emsp;(A) professional development (which may be provided by entities other than local educational agencies) for teachers and other school staff to enable such personnel to deliver scientifically based academic instruction and behavioral interventions, including scientifically based literacy instruction, and, where appropriate, instruction on the use of adaptive and instructional software; and
 
 &emsp;&emsp;(B) providing educational and behavioral evaluations, services, and supports, including scientifically based literacy instruction.
 
@@ -246,7 +246,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (h) State agency eligibility
 
-Any State agency that desires to receive a subgrant for any fiscal year under section 1411(f) of this title shall demonstrate to the satisfaction of the State educational agency that—
+Any State agency that desires to receive a subgrant for any fiscal year under section 1411(f)of this title shall demonstrate to the satisfaction of the State educational agency that—
 
 &emsp;(1) all children with disabilities who are participating in programs and projects funded under this subchapter receive a free appropriate public education, and that those children and their parents are provided all the rights and procedural safeguards described in this subchapter; and
 
@@ -264,7 +264,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (2) Prohibition
 
-&emsp;Notwithstanding paragraph (1), if the Secretary determines that a State educational agency is unable to establish, maintain, or oversee programs of free appropriate public education that meet the requirements of this subchapter, or that the State needs assistance,intervention, or substantial intervention under section 1416(d)(2)(A) of this title, the Secretary shall prohibit the State educational agency from exercising the authority in paragraph (1).
+&emsp;Notwithstanding paragraph (1), if the Secretary determines that a State educational agency is unable to establish, maintain, or oversee programs of free appropriate public education that meet the requirements of this subchapter, or that the State needs assistance, intervention, or substantial intervention under section 1416(d)(2)(A) of this title, the Secretary shall prohibit the State educational agency from exercising the authority in paragraph (1).
 
 #### (3) Education activities
 
@@ -294,7 +294,7 @@ Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(3). Pub. L. 114–95 substituted "subject to the requirements of section 1412(a)(14) of this title and section 2102(b) of the Elementary and Secondary Education Act of 1965" for "subject to the requirements of section 1412(a)(14) of this title and section 2122 of the Elementary and Secondary Education Act of 1965".
+<b>2015</b>—Subsec. (a)(3). Pub. L. 114–95 substituted "subject to the requirements of section 1412(a)(14) of thistitle and section 2102(b) of the Elementary and Secondary Education Act of 1965" for "subject to the requirements of section 1412(a)(14) of this title and section 2122 of the Elementary and Secondary Education Act of 1965".
 
 #### Effective Date of 2015 Amendment
 

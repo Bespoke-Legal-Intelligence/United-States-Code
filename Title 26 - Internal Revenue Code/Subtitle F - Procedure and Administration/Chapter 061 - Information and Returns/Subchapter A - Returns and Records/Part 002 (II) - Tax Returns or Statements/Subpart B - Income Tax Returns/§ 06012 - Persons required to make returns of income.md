@@ -88,7 +88,7 @@ Every person required to file a return under this section for the taxable year s
 
 &emsp;&emsp;<b>For provisions relating to consolidated returns by affiliated corporations, see chapter 6.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Subsec. (b)(3). Pub. L. 96–589, §6(i)(5), substituted "trustee in a case unde
 
 Subsec. (b)(4). Pub. L. 96–589, §3(b)(2), inserted reference to estate of an individual under chapter 7 or 11 of title 11 of the United States Code.
 
-<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), "$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and "$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
+<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–600, §§101(c), 102(b)(1), substituted in provision preceding cl. (i), "$1,000" for "$750", in cl. (i), "$3,050" for "$2,950" and "$3,300" for "$3,050", in cl. (ii), "$4,150" for "$3,950" and"$4,400" for "$4,150", and in cl. (iii), "$4,900" for "$4,700" and "$5,400" for "$4,900".
 
 Subsec. (a)(8). Pub. L. 95–600, §105(d), added par. (8).
 
@@ -236,7 +236,7 @@ Amendment by section 111(b)(3) of Pub. L. 97–34 applicable with respect to tax
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 6(i)(5) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under title 11 commenced before Oct. 1, 1979, and amendment by section 3(b) of Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b), (e) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by section 6(i)(5) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedingsunder title 11 commenced before Oct. 1, 1979, and amendment by section 3(b) of Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b), (e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -284,7 +284,7 @@ Amendment by section 941(d) of Pub. L. 91–172, which substituted "$750", "$1,7
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 

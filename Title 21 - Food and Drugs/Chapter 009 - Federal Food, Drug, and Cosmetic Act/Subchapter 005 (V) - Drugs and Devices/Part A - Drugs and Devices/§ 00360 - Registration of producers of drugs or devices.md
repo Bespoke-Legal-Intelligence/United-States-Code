@@ -30,17 +30,17 @@ Every person duly registered in accordance with the foregoing subsections of thi
 
 #### (e) Registration number; uniform system for identification of devices intended for human use
 
-The Secretary may assign a registration number to any person or any establishment registered in accordance with this section. The Secretary may also assign a listing number to each drug or class of drugs listed under subsection (j) of this section. Any number assigned pursuant to the preceding sentence shall be the same as that assigned pursuant to the National Drug Code. The Secretary may by regulation prescribe a uniform system for the identification of devices intended for human use and may require that persons who are required to list such devices pursuant to subsection (j) of this section shall list such devices in accordance with such system.
+The Secretary may assign a registration number to any person or any establishment registered in accordance with this section. The Secretary may also assign a listing number to each drug or class of drugs listed under subsection (j). Any number assigned pursuant to the preceding sentence shall be the same as that assigned pursuant to the National Drug Code. The Secretary may by regulation prescribe a uniform system for the identification of devices intended for human use and may require that persons who are required to list such devices pursuant to subsection (j) shall list such devices in accordance with such system.
 
 #### (f) Availability of registrations for inspection
 
-The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) of subsection (j) of this section and the information accompanying any list or notice filed under paragraph (1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
+The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) of subsection (j) and the information accompanying any list or notice filed under paragraph (1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
 
 #### (g) Exclusions from application of section
 
 The foregoing subsections of this section shall not apply to—
 
-&emsp;(1) pharmacies which maintain establishments in conformance with any applicable local laws regulating the practice of pharmacyand medicine and which are regularly engaged in dispensing prescription drugs or devices, upon prescriptions of practitioners licensed to administer such drugs or devices to patients under the care of such practitioners in the course of their professional practice, and which do not manufacture, prepare, propagate, compound, or process drugs or devices for sale other than in the regular course of their business of dispensing or selling drugs or devices at retail;
+&emsp;(1) pharmacies which maintain establishments in conformance with any applicable local laws regulating the practice of pharmacy and medicine and which are regularly engaged in dispensing prescription drugs or devices, upon prescriptions of practitioners licensed to administer such drugs or devices to patients under the care of such practitioners in the course of their professional practice, and which do not manufacture, prepare, propagate, compound, or process drugs or devices for sale other than in the regular course of their business of dispensing or selling drugs or devices at retail;
 
 &emsp;(2) practitioners licensed by law to prescribe or administer drugs or devices and who manufacture, prepare, propagate, compound, or process drugs or devices solely for use in the course of their professional practice;
 
@@ -68,7 +68,7 @@ The foregoing subsections of this section shall not apply to—
 
 #### (4) Risk factors
 
-&emsp;In establishing the risk-based scheduled <sup>2</sup> under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
+&emsp;In establishing a risk-based schedule under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
 
 &emsp;&emsp;(A) The compliance history of the establishment.
 
@@ -90,11 +90,11 @@ The foregoing subsections of this section shall not apply to—
 
 &emsp;Beginning in 2014, not later than February 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
 
-&emsp;&emsp;(A)(i) the number of domestic and foreign establishments registered pursuant to this section in the previous fiscal year; and
+&emsp;&emsp;(A)(i) the number of domestic and foreign establishments registered pursuant to this section in the previous calendar year; and
 
-&emsp;&emsp;(ii) the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous fiscal year;
+&emsp;&emsp;(ii) the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous calendar year;
 
-&emsp;&emsp;(B) with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug, a finished drug product, or an excipient of a drug, the number of each such type of establishment; and
+&emsp;&emsp;(B) with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment; and
 
 &emsp;&emsp;(C) the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A).
 
@@ -110,7 +110,7 @@ The foregoing subsections of this section shall not apply to—
 
 &emsp;(B) each establishment subject to the requirements of subparagraph (A) shall thereafter register with the Secretary during the period beginning on October 1 and ending on December 31 of each year.
 
-(2) The establishment shall also provide the information required by subsection (j) of this section.
+(2) The establishment shall also provide the information required by subsection (j).
 
 (3) The Secretary is authorized to enter into cooperative arrangements with officials of foreign countries to ensure that adequate and effective means are available for purposes of determining, from time to time, whether drugs or devices manufactured, prepared, propagated, compounded, or processed by an establishment described in paragraph (1), if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title.
 
@@ -118,7 +118,7 @@ The foregoing subsections of this section shall not apply to—
 
 #### (j) Filing of lists of drugs and devices manufactured, prepared, propagated and compounded by registrants; statements; accompanying disclosures
 
-(1) Every person who registers with the Secretary under subsection (b), (c), (d), or (i) of this section shall, at the time of registration under any such subsection, file with the Secretary a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name (as defined in section 352(e) of this title) and by any proprietary name) which are being manufactured, prepared, propagated, compounded, or processed by him for commercial distribution and which he has not included in any list of drugs or devices filed by him with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
+(1) Every person who registers with the Secretary under subsection (b), (c), (d), or (i) shall, at the time of registration under any such subsection, file with the Secretary a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name (as defined in section 352(e) of this title) and by any proprietary name) which are being manufactured, prepared, propagated, compounded, or processed by him for commercial distribution and which he has not included in any list of drugs or devices filed by him with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
 
 &emsp;(A) in the case of a drug contained in the applicable list and subject to section 355 or 360b of this title, or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under section 360d of this title or which is subject to section 360e of this title, a reference to the authority for the marketing of such drug or device and a copy of all labeling for such drug or device;
 
@@ -160,17 +160,37 @@ Each person who is required to register under this section and who proposes to b
 
 #### (l) Exemption from reporting requirements
 
-A report under subsection (k) of this section is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) of this section or is within a type that has been classified into class I under section 360c of this title. The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
+(1) A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title. The exception established in the preceding sentence does not apply to any class I device that is intended for a use which isof substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
 
-#### (m) List of exempt class II devices; determination by Secretary; publication in Federal Register
+(2) Not later than 120 calendar days after December 13, 2016, and at least once every 5 years thereafter, as the Secretary determines appropriate, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—
 
-(1) Not later than 60 days after November 21, 1997, the Secretary shall publish in the Federal Register a list of each type of class II device that does not require a report under subsection (k) of this section to provide reasonable assurance of safety and effectiveness. Each type of class II device identified by the Secretary as not requiring the report shall be exempt from the requirement to provide a report under subsection (k) of this section as of the date of the publication of the list in the Federal Register. The Secretary shall publish such list on the Internet site of the Food and Drug Administration. The list so published shall be updated not later than 30 days after each revision of the list by the Secretary.
+&emsp;(A) each type of class I device so identified shall be exempt from the requirement for a report under subsection (k); and
 
-(2) Beginning on the date that is 1 day after the date of the publication of a list under this subsection, the Secretary may exempt a class II device from the requirement to submit a report under subsection (k) of this section, upon the Secretary's own initiative or a petition of an interested person, if the Secretary determines that such report is not necessary to assure the safety and effectiveness of the device. The Secretary shall publish in the Federal Register notice of the intent of the Secretary to exempt the device, or of the petition, and provide a 30-day period for public comment. Within 120 days after the issuance of the notice in the Federal Register, the Secretary shall publish an order in the Federal Register that sets forth the final determination of the Secretary regarding the exemption of the device that was the subject of the notice. If the Secretary fails to respond to a petition within 180 days of receiving it, the petition shall be deemed to be granted.
+&emsp;(B) the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption.
+
+#### (m) List of exempt class II devices; initial and final determinations by Secretary; publication in Federal Register
+
+(1) The Secretary shall—
+
+&emsp;(A) not later than 90 days after December 13, 2016, and at least once every 5 years thereafter, as the Secretary determines appropriate—
+
+&emsp;&emsp;(i) publish in the Federal Register a notice that contains a list of each type of class II device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness; and
+
+&emsp;&emsp;(ii) provide for a period of not less than 60 calendar days for public comment beginning on the date of the publication of such notice; and
+
+&emsp;(B) not later than 210 calendar days after December 13, 2016, publish in the Federal Register a list representing the Secretary's final determination with respect to the devices contained in the list published under subparagraph (A).
+
+(2) Beginning on the date that is 1 calendar day after the date of publication of the final list under paragraph (1)(B), the Secretary may exempt a class II device from the requirement to submit a report under subsection (k), upon the Secretary's own initiative or a petition of an interested person, if the Secretary determines that such report is not necessary to assure the safety and effectiveness of the device. The Secretary shall publish in the Federal Register notice of the intent of the Secretary to exempt the device, or of the petition, and provide a 60-calendar-day period for public comment. Within 120 days after the issuance of the notice in the Federal Register, the Secretary shall publish an order in the Federal Register that sets forth the final determination of the Secretary regarding the exemption of the device that was the subject of the notice. If the Secretary fails to respond to a petition within 180 days of receiving it, the petition shall be deemed to be granted.
+
+(3) Upon the publication of the final list under paragraph (1)(B)—
+
+&emsp;(A) each type of class II device so listed shall be exempt from the requirement for a report under subsection (k); and
+
+&emsp;(B) the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption.
 
 #### (n) Review of report; time for determination by Secretary
 
-(1) The Secretary shall review the report required in subsection (k) of this section and make a determination under section 360c(f)(1) of this title not later than 90 days after receiving the report.
+(1) The Secretary shall review the report required in subsection (k) and make a determination under section 360c(f)(1) of this title not later than 90 days after receiving the report.
 
 (2)(A) Not later than 18 months after July 9, 2012, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report regarding when a premarket notification under subsection (k) should be submitted for a modification or change to a legally marketed device. The report shall include the Secretary's interpretation of the following terms: "could significantly affect the safety or effectiveness of the device", "a significant change or modification in design, material, chemical composition, energy source, or manufacturing process", and "major change or modification in the intended use of the device". The report also shall discuss possible processes for industry to use to determine whether a new submission under subsection (k) is required and shall analyze how to leverage existing quality system requirements to reduce premarket burden, facilitate continual device improvement, and provide reasonable assurance of safety and effectiveness of modified devices. In developing such report, the Secretary shall consider the input of interested stakeholders.
 
@@ -184,33 +204,33 @@ A report under subsection (k) of this section is not required for a device inten
 
 #### (o) Reprocessed single-use devices
 
-(1) With respect to reprocessed single-use devices for which reports are required under subsection (k) of this section:
+(1) With respect to reprocessed single-use devices for which reports are required under subsection (k):
 
-&emsp;(A) The Secretary shall identify such devices or types of devices for which reports under such subsection must, in order to ensure that the device is substantially equivalent to a predicate device, include validation data, the types of which shall be specified by the Secretary, regarding cleaning and sterilization, and functional performance demonstrating that the single-use device will remain substantially equivalent to its predicate device after the maximum number of times the device is reprocessed as intended by the person submitting the premarket notification. Within six months after October 26, 2002, the Secretary shall publish in the Federal Register a list of the types so identified, and shall revise the list as appropriate. Reports under subsection (k) of this section for devices or types of devices within a type included on the list are, upon publication of the list, required to include such validation data.
+&emsp;(A) The Secretary shall identify such devices or types of devices for which reports under such subsection must, in order to ensure that the device is substantially equivalent to a predicate device, include validation data, the types of which shall be specified by the Secretary, regarding cleaning and sterilization, and functional performance demonstrating that the single-use device will remain substantially equivalent to its predicate device after the maximum number of times the device is reprocessed as intended by the person submitting the premarket notification. Within six months after October 26, 2002, the Secretary shall publish in the Federal Register a list of the types so identified, and shall revise the list as appropriate. Reports under subsection (k) for devices or types of devices within a type included on the list are, upon publication of the list, required to include such validation data.
 
-&emsp;(B) In the case of each report under subsection (k) of this section that was submitted to the Secretary before the publication of the initial list under subparagraph (A), or any revision thereof, and was for a device or type of device included on such list, the person who submitted the report under subsection (k) of this section shall submit validation data as described in subparagraph (A) to the Secretary not later than nine months after the publication of the list. During such nine-month period, the Secretary may not take any action under this chapter against such device solely on the basis that the validation data for the device have not been submitted to the Secretary. After the submission of the validation data to the Secretary, the Secretary may not determine that the device is misbranded under section 352(o) of this title or adulterated under section 351(f)(1)(B) of this title, or take action against the device under section 331(p) of this title for failure to provide any information required by subsection (k) of this section until (i) the review is terminated by withdrawal of the submission of the report under subsection (k) of this section; (ii) the Secretary finds the data to be acceptable and issues a letter; or (iii) the Secretary determines that the device is not substantially equivalent to a predicate device. Upon a determination that a device is not substantially equivalent to a predicate device, or if such submission is withdrawn, the device can no longer be legally marketed.
+&emsp;(B) In the case of each report under subsection (k) that was submitted to the Secretary before the publication of the initial list under subparagraph (A), or any revision thereof, and was for a device or type of device included on such list, the person who submitted the report under subsection (k) shall submit validation data as described in subparagraph (A) to the Secretary not later than nine months after the publication of the list. During such nine-month period, the Secretary may not take any action under this chapter against such device solely on the basis that the validation data for the device have not been submitted to the Secretary. After the submission of the validation data to the Secretary, the Secretary may not determine that the device is misbranded under section 352(o) of this title or adulterated under section 351(f)(1)(B) of this title, or take action against the device under section 331(p) of this title for failure to provide any information required by subsection (k) until (i) the review is terminated by withdrawal of the submission of the report under subsection (k); (ii) the Secretary finds the data to be acceptable and issues a letter; or (iii) the Secretary determines that the device is not substantially equivalent to a predicate device. Upon a determination that a device is not substantially equivalent to a predicate device, or if such submission is withdrawn, the device can no longer be legally marketed.
 
-&emsp;(C) In the case of a report under subsection (k) of this section for a device identified under subparagraph (A) that is of a type for which the Secretary has not previously received a report under such subsection, the Secretary may, in advance of revising the list under subparagraph (A) to include such type, require that the report include the validation data specified in subparagraph (A).
+&emsp;(C) In the case of a report under subsection (k) for a device identified under subparagraph (A) that is of a type for which the Secretary has not previously received a report under such subsection, the Secretary may, in advance of revising the list under subparagraph (A) to include such type, require that the report include the validation data specified in subparagraph (A).
 
-&emsp;(D) Section 352(o) of this title applies with respect to the failure of a report under subsection (k) of this section to include validation data required under subparagraph (A).
+&emsp;(D) Section 352(o) of this title applies with respect to the failure of a report under subsection (k) to include validation data required under subparagraph (A).
 
-(2) With respect to critical or semi-critical reprocessed single-use devices that, under subsection (l) or (m) of this section, are exempt from the requirement of submitting reports under subsection (k) of this section:
+(2) With respect to critical or semi-critical reprocessed single-use devices that, under subsection (l) or (m), are exempt from the requirement of submitting reports under subsection (k):
 
-&emsp;(A) The Secretary shall identify such devices or types of devices for which such exemptions should be terminated in order to provide a reasonable assurance of the safety and effectiveness of the devices. The Secretary shall publish in the Federal Register a list of the devices or types of devices so identified, and shall revise the list as appropriate. The exemption for each device or type included on the list is terminated upon the publication of the list. For each report under subsection (k) of this section submitted pursuant to this subparagraph the Secretary shall require the validation data described in paragraph (1)(A).
+&emsp;(A) The Secretary shall identify such devices or types of devices for which such exemptions should be terminated in order to provide a reasonable assurance of the safety and effectiveness of the devices. The Secretary shall publish in the Federal Register a list of the devices or types of devices so identified, and shall revise the list as appropriate. The exemption for each device or type included on the list is terminated upon the publication of the list. For each report under subsection (k) submitted pursuant to this subparagraph the Secretary shall require the validation data described in paragraph (1)(A).
 
-&emsp;(B) For each device or type of device included on the list under subparagraph (A), a report under subsection (k) of this section shall be submitted to the Secretary not later than 15 months after the publication of the initial list, or a revision of the list, whichever terminates the exemption for the device. During such 15-month period, the Secretary may not take any action under this chapter against such device solely on the basis that such report has not been submitted to the Secretary. After the submission of the report to the Secretary the Secretary may not determine that the device is misbranded under section 352(o) of this title or adulterated under section 351(f)(1)(B) of this title, or take action against the device under section 331(p) of this title for failure to provide any information required by subsection (k) of this section until (i) the review is terminated by withdrawal of the submission; (ii) the Secretary determines by order that the device is substantially equivalent to a predicate device; or (iii) the Secretary determines by order that the device is not substantially equivalent to a predicate device. Upon a determination that a device is not substantially equivalent to a predicate device, the device can no longer be legally marketed.
+&emsp;(B) For each device or type of device included on the list under subparagraph (A), a report under subsection (k) shall be submitted to the Secretary not later than 15 months after the publication of the initial list, or a revision of the list, whichever terminates the exemption for the device. During such 15-month period, the Secretary may not take any action under this chapter against such device solely on the basis that such report has not been submitted to the Secretary. After the submission of the report to the Secretary the Secretary may not determine that the device is misbranded under section 352(o) of this title or adulterated under section 351(f)(1)(B) of this title, or take action against the device under section 331(p) of this title for failure to provide any information required by subsection (k) until (i) the review is terminated by withdrawal of the submission; (ii) the Secretary determines by order that the device is substantially equivalent to a predicate device; or (iii) the Secretary determines by order that the device is not substantially equivalent to a predicate device. Upon a determination that a device is not substantially equivalent to a predicate device, the device can no longer be legally marketed.
 
 &emsp;(C) In the case of semi-critical devices, the initial list under subparagraph (A) shall be published not later than 18 months after the effective date of this subsection. In the case of critical devices, the initial list under such subparagraph shall be published not later than six months after such effective date.
 
-&emsp;(D) Section 352(o) of this title applies with respect to the failure to submit a report under subsection (k) of this section that is required pursuant to subparagraph (A), including a failure of the report to include validation data required in such subparagraph.
+&emsp;(D) Section 352(o) of this title applies with respect to the failure to submit a report under subsection (k) that is required pursuant to subparagraph (A), including a failure of the report to include validation data required in such subparagraph.
 
-&emsp;(E) The termination under subparagraph (A) of an exemption under subsection (l) or (m) of this section for a critical or semi-critical reprocessed single-use device does not terminate the exemption under subsection (l) or (m) of this section for the original device.
+&emsp;(E) The termination under subparagraph (A) of an exemption under subsection (l) or (m) for a critical or semi-critical reprocessed single-use device does not terminate the exemption under subsection (l) or (m) for the original device.
 
 #### (p) Electronic registration and listing
 
 #### (1) In general
 
-&emsp;Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary by electronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
+&emsp;Registrations and listings under this section (including the submission of updated information) shall be submitted to the Secretary byelectronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting such waiver.
 
 #### (2) Electronic database
 
@@ -224,7 +244,27 @@ A report under subsection (k) of this section is not required for a device inten
 
 &emsp;The Secretary shall ensure the accuracy and coordination of relevant Food and Drug Administration databases in order to identify and inform risk-based inspections under subsection (h).
 
-(June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921; Pub. L. 112–144, title VI, §604, title VII, §§701, 702(b)–705, July 9, 2012, 126 Stat. 1052, 1064–1066.)
+#### (q) Reusable medical devices
+
+#### (1) In general
+
+&emsp;Not later than 180 days after December 13, 2016, the Secretary shall identify and publish a list of reusable device types for which reports under subsection (k) are required to include—
+
+&emsp;&emsp;(A) instructions for use, which have been validated in a manner specified by the Secretary; and
+
+&emsp;&emsp;(B) validation data, the types of which shall be specified by the Secretary;
+
+> &emsp;regarding cleaning, disinfection, and sterilization, and for which a substantial equivalence determination may be based.
+
+#### (2) Revision of list
+
+&emsp;The Secretary shall revise the list under paragraph (2),<sup>2</sup> as the Secretary determines appropriate, with notice in the Federal Register.
+
+#### (3) Content of reports
+
+&emsp;Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.
+
+(June 25, 1938, ch. 675, §510, as added Pub. L. 87–781, title III, §302, Oct. 10, 1962, 76 Stat. 794; amended Pub. L. 89–74, §4, July 15, 1965, 79 Stat. 231; Pub. L. 91–513, title II, §701(e), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 92–387, §§3, 4(a)–(c), Aug. 16, 1972, 86 Stat. 560–562; Pub. L. 94–295, §4(a), May 28, 1976, 90 Stat. 579; Pub. L. 105–115, title I, §125(a)(2)(C), title II, §§206(a), 209(a), 213(b), title IV, §417, Nov. 21, 1997, 111 Stat. 2325, 2338, 2341, 2347, 2379; Pub. L. 107–188, title III, §321(a), June 12, 2002, 116 Stat. 675; Pub. L. 107–250, title II, §§201(e), 207, 211, title III, §302(b), Oct. 26, 2002, 116 Stat. 1609, 1613, 1614, 1616; Pub. L. 108–214, §2(c)(2), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title II, §§222–224, title VIII, §801(b)(3)(C), Sept. 27, 2007, 121 Stat. 853, 921; Pub. L. 112–144, title VI, §604, title VII, §§701, 702(b)–705, July 9, 2012, 126 Stat. 1052, 1064–1066; Pub. L. 114–255, div. A, title III, §§3054, 3059(a), 3101(a)(2)(H), Dec. 13, 2016, 130 Stat. 1126, 1130, 1154.)
 
 #### References in Text
 
@@ -232,7 +272,25 @@ The effective date of this subsection, referred to in subsec. (o)(2)(C), probabl
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–144, §701(1)(A), which directed amendment of par. (1) by "striking 'On or before' and all that follows through the period at the end and inserting the following: 'During the period beginning on October 1 and ending on December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary the name of such person, places of business of such person, all such establishments, the unique facility identifier of each such establishment, and a point of contact e-mail address.; and", was executed as if an end quotation mark for the inserted material followed "address.", to reflect the probable intent of Congress.Prior to amendment, stricken text read as follows: "On or before December 31 of each year every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary his name, places of business, and all such establishments."
+<b>2016</b>—Subsec. (h)(4). Pub. L. 114–255, §3101(a)(2)(H)(i), substituted "establishing a risk-based schedule" for "establishing the risk-based scheduled" in introductory provisions.
+
+Subsec. (h)(6)(A). Pub. L. 114–255, §3101(a)(2)(H)(ii)(I), substituted "calendar" for "fiscal" in cls. (i) and (ii).
+
+Subsec. (h)(6)(B). Pub. L. 114–255, §3101(a)(2)(H)(ii)(II), substituted "an active ingredient of a drug or a finished drug product" for "an active ingredient of a drug, a finished drug product, or an excipient of a drug".
+
+Subsec. (l). Pub. L. 114–255, §3054(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (m)(1). Pub. L. 114–255, §3054(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Not later than 60 days after November 21, 1997, the Secretary shall publish in the Federal Register a list of each type of class II device that does not require a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Each type of class II device identified by the Secretary as not requiring the report shall be exempt from the requirement to provide a report under subsection (k) as of the date of the publication of the list in the Federal Register. The Secretary shall publish such list on the Internet site of the Food and Drug Administration. The list so published shall be updated not later than 30 days after each revision of the list by the Secretary."
+
+Subsec. (m)(2). Pub. L. 114–255, §3054(b)(2)(B), substituted "60-calendar-day period" for "30-day period".
+
+Pub. L. 114–255, §3054(b)(2)(A), which directed the substitution of "1 calendar day after the date of publication of the final list under paragraph (1)(B)," for "1 day after the date of publication of a list under this subsection,", was executed by making the substitution for "1 day after the date of the publication of a list under this subsection," to reflect the probable intent of Congress.
+
+Subsec. (m)(3). Pub. L. 114–255, §3054(b)(2)(C), added par. (3).
+
+Subsec. (q). Pub. L. 114–255, §3059(a), added subsec. (q).
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–144, §701(1)(A), which directed amendment of par. (1) by "striking 'On or before' and all that follows through the period at the end and inserting the following: 'During the period beginning on October 1 and ending on December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shall register with the Secretary the name of such person, places of business of such person, all such establishments, the unique facility identifier of each such establishment, and a point of contact e-mail address.; and", was executed as if an end quotation mark for the inserted material followed "address.", to reflect the probable intent of Congress. Prior to amendment, stricken text read as follows: "On or before December 31 of each year every person who owns or operates any establishment in any State engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs shallregister with the Secretary his name, places of business, and all such establishments."
 
 Subsec. (b)(3). Pub. L. 112–144, §701(1)(B), added par. (3).
 
@@ -290,7 +348,7 @@ Subsec. (p). Pub. L. 107–250, §207, added subsec. (p).
 
 Subsec. (g)(4), (5). Pub. L. 105–115, §213(b)(1), (2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (i). Pub. L. 105–115, §417, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs, or a device or devices, shall be permitted to register under this section pursuant to regulations promulgated by the Secretary. Such regulations shall require such establishment to provide the information required by subsection (j) of this section and shall require such establishment to provide the information required by subsection (j) of this section in the case of a device or devices and shall include provisions for registration of any such establishment upon condition that adequate and effective means are available, by arrangement with the government of such foreign country or otherwise,to enable the Secretary to determine from time to time whether drugs or devices manufactured, prepared, propagated, compounded, or processed in such establishment, if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title."
+Subsec. (i). Pub. L. 105–115, §417, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs, or a device or devices, shall be permitted to register under this section pursuant to regulations promulgated by the Secretary. Such regulations shall require such establishment to provide the information required by subsection (j) of this section and shall require such establishment to provide the information required by subsection (j) of this section in the case of a device or devices and shall include provisions for registration of any such establishment upon condition that adequate and effective means are available, by arrangement with the government of such foreign country or otherwise, to enable the Secretary to determine from time to time whether drugs or devices manufactured, prepared, propagated, compounded, or processed in such establishment, if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title."
 
 Subsec. (j)(1)(A), (D). Pub. L. 105–115, §125(a)(2)(C), struck out ", 356, 357," before "or 360b of this title".
 
@@ -364,7 +422,7 @@ Amendment by sections 206(a), 209(a), 213(b), and 417 of Pub. L. 105–115 effec
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–387, §5, Aug. 16, 1972, 86 Stat. 562, provided that: "The amendments made by this Act \[amendingthis section and sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\]."
+Pub. L. 92–387, §5, Aug. 16, 1972, 86 Stat. 562, provided that: "The amendments made by this Act \[amending this section and sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\]."
 
 #### Effective Date of 1970 Amendment
 
@@ -378,13 +436,17 @@ Amendment by Pub. L. 89–74 effective Feb. 1, 1966, subject to registration wit
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
-#### Congressional Declaration of Need for Registration and Inspection of Drug Establishments
+#### Device Modifications
 
-Pub. L. 87–781, title III, §301, Oct. 10, 1962, 76 Stat. 793, provided that: "The Congress hereby finds and declares that in order to make regulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments in which drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce."
+Pub. L. 114–255, div. A, title III, §3059(b), Dec. 13, 2016, 130 Stat. 1130, provided that: "The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue final guidance regarding when a premarket notification under section 510(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(k)) is required to be submitted for a modification or change to a legally marketed device. Such final guidance shall be issued not later than 1 year after the date on which the comment period closes for the draft guidance on such subject."
 
 #### Declaration of Policy of Drug Listing Act of 1972
 
-Pub. L. 92–387, §2, Aug. 16, 1972, 86 Stat. 559, provided that: "The Federal Government which is responsible for regulating drugs has no ready means of determining what drugs are actually being manufactured or packed by establishments registered under the Federal Food, Drug, and Cosmetic Act \[this chapter\] except by periodic inspection of such registered establishments. Knowledge of which particular drugs are being manufactured or packed by each registered establishment would substantially assist in the enforcement of Federal laws requiring that such drugs be pure, safe, effective, and properly labeled. Information on the discontinuance of a particular drug could serve to alleviate the burden of reviewing and implementing enforcement actions against drugs which, although commercially discontinued, remain active for regulatory purposes. Information on the type and number of different drugs being manufactured or packed by drug establishments could permit more effective and timely regulation by the agencies of the Federal Government responsible for regulating drugs, including identification of which drugs in interstate commerce are subject to section 505 or 507 \[section 355 or 357 of this title\], or to other provisions of the Federal Food, Drug, and Cosmetic Act."
+Pub. L. 92–387, §2, Aug. 16, 1972, 86 Stat. 559, provided that: "The Federal Government which is responsible for regulating drugs has no ready means of determining what drugs are actually being manufactured or packed by establishments registered under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] except by periodic inspection of such registered establishments. Knowledge of which particular drugs are being manufactured or packed by each registered establishment would substantially assist in the enforcement of Federal laws requiring that such drugs be pure, safe, effective, and properly labeled. Information on the discontinuance of a particular drug could serve to alleviate the burden of reviewing and implementing enforcement actions against drugs which, although commercially discontinued, remain active for regulatory purposes. Information on the type and number of different drugs being manufactured or packed by drug establishments could permit more effective and timely regulation by the agencies of the Federal Government responsible for regulating drugs, including identification of which drugs in interstate commerce are subject to section 505 or 507 \[21 U.S.C. 355, 357\], or to other provisions of the Federal Food, Drug, and Cosmetic Act."
+
+#### Congressional Declaration of Need for Registration and Inspection of Drug Establishments
+
+Pub. L. 87–781, title III, §301, Oct. 10, 1962, 76 Stat. 793, provided that: "The Congress hereby finds and declares that in order to make regulation of interstate commerce in drugs effective, it is necessary to provide for registration and inspection of all establishments in which drugs are manufactured, prepared, propagated, compounded, or processed; that the products of all such establishments are likely to enter the channels of interstate commerce and directly affect such commerce; and that the regulation of interstate commerce in drugs without provision for registration and inspection of establishments that may be engaged only in intrastate commerce in such drugs would discriminate against and depress interstate commerce in such drugs, and adversely burden, obstruct, and affect such interstate commerce."
 
 #### Registration of Certain Persons Owning or Operating Drug Establishments Prior to Oct. 10, 1962
 
@@ -392,5 +454,5 @@ Pub. L. 87–781, title III, §303, Oct. 10, 1962, 76 Stat. 795, provided that a
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "schedule".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1),".</i>
 

@@ -42,7 +42,7 @@ The Secretary shall permit certain activities or commercial uses of land that is
 
 &emsp;&emsp;&emsp;&emsp;(III) how often during a year in which routine grazing is permitted that routine grazing should be allowed to occur; and
 
-&emsp;&emsp;(C) the installation of wind turbines and associated access, except that in permitting the installation of wind turbines, the Secretary shall determine the number and location of wind turbines that may be installed, taking into account—
+&emsp;&emsp;(C) the installation of wind turbines and associated access, except that in permittingthe installation of wind turbines, the Secretary shall determine the number and location of wind turbines that may be installed, taking into account—
 
 &emsp;&emsp;&emsp;(i) the location, size, and other physical characteristics of the land;
 

@@ -1,6 +1,6 @@
 ### §8911. Advisory committee
 
-The Director of the Office of Personnel Management shall appoint a committee composed offive members, who serve without pay, to advise the Office regarding matters of concern to employees under this chapter. Each member of the committee shall be an employee enrolled under this chapter or an elected official of an employee organization.
+The Director of the Office of Personnel Management shall appoint a committee composed of five members, who serve without pay, to advise the Office regarding matters of concern to employees under this chapter. Each member of the committee shall be an employee enrolled under this chapter or an elected official of an employee organization.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 95–454, title IX, §906(a)(1), (4), Oct. 13, 1978, 92 Stat. 1224, 1225.)
 

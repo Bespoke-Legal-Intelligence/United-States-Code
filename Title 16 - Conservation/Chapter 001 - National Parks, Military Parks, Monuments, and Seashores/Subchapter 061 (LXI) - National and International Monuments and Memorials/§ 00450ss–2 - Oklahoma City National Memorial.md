@@ -20,5 +20,5 @@ Subsec. (c). Pub. L. 108–199, §544(c)(2), (4), redesignated subsec. (b) as (c
 
 "(1) Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service and the Trust.
 
-"(2) After advising the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives, in writing, the Trust, as established by section 450ss–3 of this title,in consultation with the Secretary, may make minor revisions of the boundaries of the Memorial when necessary by publication of a revised drawing or other boundary description in the Federal Register."
+"(2) After advising the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives, in writing, the Trust, as established by section 450ss–3 of this title, in consultation with the Secretary, may make minor revisions of the boundaries of the Memorial when necessary by publication of a revised drawing or other boundary description in the Federal Register."
 

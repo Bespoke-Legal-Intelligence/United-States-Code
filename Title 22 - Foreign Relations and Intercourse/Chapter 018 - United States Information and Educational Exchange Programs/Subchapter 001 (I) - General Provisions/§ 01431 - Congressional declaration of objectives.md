@@ -26,7 +26,7 @@ Pub. L. 93–168, §1, Nov. 29, 1973, 87 Stat. 688, provided: "That this Act \[a
 
 #### Short Title
 
-Act Jan. 27, 1948, ch. 36, title I, §1, 62 Stat. 6, provided that: "This Act \[enacting this chapter\] may be cited asthe 'United States Information and Educational Exchange Act of 1948'."
+Act Jan. 27, 1948, ch. 36, title I, §1, 62 Stat. 6, provided that: "This Act \[enacting this chapter\] may be cited as the 'United States Information and Educational Exchange Act of 1948'."
 
 #### Separability
 
@@ -124,7 +124,7 @@ In general.—There are authorized to be appropriated for each of fiscal years 2
 
 &emsp;"(2)
 
-Grants for media network.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriatedfor each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2)."
+Grants for media network.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2)."
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 

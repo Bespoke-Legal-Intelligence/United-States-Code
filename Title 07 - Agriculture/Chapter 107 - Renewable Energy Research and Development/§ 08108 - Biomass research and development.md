@@ -66,7 +66,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) solicitations are open and competitive with awards made annually; and
 
-&emsp;&emsp;&emsp;(ii) objectives and evaluation criteria of the solicitations are clearly stated andminimally prescriptive, with no areas of special interest; and
+&emsp;&emsp;&emsp;(ii) objectives and evaluation criteria of the solicitations are clearly stated and minimally prescriptive, with no areas of special interest; and
 
 &emsp;&emsp;(D) ensure that the panel of scientific and technical peers assembled under subsection (e) to review proposals is composed predominantly of independent experts selected from outside the Departments of Agriculture and Energy.
 
@@ -348,7 +348,11 @@ Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each o
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-YearExtension of Agricultural Programs note under section 8701 of this title.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

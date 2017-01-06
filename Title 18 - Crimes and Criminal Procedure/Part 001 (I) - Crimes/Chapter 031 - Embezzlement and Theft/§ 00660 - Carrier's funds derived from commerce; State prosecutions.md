@@ -22,7 +22,7 @@ Minimum punishment provision "less than one year nor" in section 412 of title 18
 
 Maximum fine of $5,000 was substituted for minimum fine of $500 in section 412 of title 18, U.S.C., 1940 ed., as being more consonant with the scheme of penalties and offenses provided by Congress for most sections in this chapter.
 
-Sentence in section 412 of title 18, U.S.C., 1940 ed., "Nothing in this section shall be held to take away orimpair the jurisdiction of the several courts under the laws thereof;", was omitted in view of section 3231 of this title.
+Sentence in section 412 of title 18, U.S.C., 1940 ed., "Nothing in this section shall be held to take away or impair the jurisdiction of the several courts under the laws thereof;", was omitted in view of section 3231 of this title.
 
 Changes were made in phraseology.
 

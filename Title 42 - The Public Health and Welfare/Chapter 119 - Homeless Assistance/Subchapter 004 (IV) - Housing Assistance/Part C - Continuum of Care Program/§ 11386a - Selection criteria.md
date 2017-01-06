@@ -64,7 +64,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;&emsp;(D) the extent to which the amount of assistance to be provided under this part to the recipient will be supplemented with resources from other public and private sources, including mainstream programs identified by the Government Accountability Office in the two reports described in section 11313(a)(7) of this title;
 
-&emsp;&emsp;(E) demonstrated coordination by the recipient with the other Federal, State, local,private, and other entities serving individuals and families experiencing homelessness and at risk of homelessness in the planning and operation of projects;
+&emsp;&emsp;(E) demonstrated coordination by the recipient with the other Federal, State, local, private, and other entities serving individuals and families experiencing homelessness and at risk of homelessness in the planning and operation of projects;
 
 &emsp;&emsp;(F) for collaborative applicants exercising the authority under section 11382(j) of this title to serve homeless families with children and youth defined as homeless under other Federal statutes, program goals and outcomes, which shall include—
 
@@ -116,7 +116,7 @@ This chapter, referred to in subsec. (c)(2), was in the original "this Act", mea
 
 #### Prior Provisions
 
-A prior section 427 of Pub. L. 100–77 was renumbered section 432 and is classified to section 11387 of this title.
+A prior section 427 of Pub. L. 100–77 was renumbered section 433 and is classified to section 11387 of this title.
 
 Another prior section 427 of Pub. L. 100–77, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §453, Nov. 7, 1988, 102 Stat. 3236, which provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, was classified to section 11387 of this title prior to repeal by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
 

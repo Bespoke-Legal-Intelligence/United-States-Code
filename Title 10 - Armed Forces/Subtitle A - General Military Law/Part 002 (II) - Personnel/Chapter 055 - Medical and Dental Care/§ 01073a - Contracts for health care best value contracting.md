@@ -18,3 +18,243 @@ Applicability.—The authority under the regulations prescribed under subsection
 
 (Added Pub. L. 106–65, div. A, title VII, §722(a), Oct. 5, 1999, 113 Stat. 695.)
 
+#### Value-Based Purchasing and Acquisition of Managed Care Support Contracts for TRICARE Program
+
+Pub. L. 114–328, div. A, title VII, §705, Dec. 23, 2016, 130 Stat. 2201, provided that:
+
+"(a)
+
+Value-based Health Care.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall develop and implement value-based incentive programs as part of any contract awarded under chapter 55 of title 10, United States Code, for the provision of health care services to covered beneficiaries to encourage health care providers under the TRICARE program (including physicians, hospitals, and other persons and facilities involved in providing such health care services) to improve the following:
+
+&emsp;&emsp;"(A) The quality of health care provided to covered beneficiaries under the TRICARE program.
+
+&emsp;&emsp;"(B) The experience of covered beneficiaries in receiving health care under the TRICARE program.
+
+&emsp;&emsp;"(C) The health of covered beneficiaries.
+
+&emsp;"(2)
+
+Value-based incentive programs.—
+
+&emsp;&emsp;"(A)
+
+Development.—In developing value-based incentive programs under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;&emsp;"(i) link payments to health care providers under the TRICARE program to improved performance with respect to quality, cost, and reducing the provision of inappropriate care;
+
+&emsp;&emsp;&emsp;"(ii) consider the characteristics of the population of covered beneficiaries affected by the value-based incentive program;
+
+&emsp;&emsp;&emsp;"(iii) consider how the value-based incentive program would affect the receipt of health care under the TRICARE program by such covered beneficiaries;
+
+&emsp;&emsp;&emsp;"(iv) establish or maintain an assurance that such covered beneficiaries will have timely access to health care during the operation of the value-based incentive program;
+
+&emsp;&emsp;&emsp;"(v) ensure that such covered beneficiaries do not incur any additional costs by reason of the value-based incentive program; and
+
+&emsp;&emsp;&emsp;"(vi) consider such other factors as the Secretary considers appropriate.
+
+&emsp;&emsp;"(B)
+
+Scope and metrics.—With respect to a value-based incentive program developed and implemented under paragraph (1), the Secretary shall ensure that—
+
+&emsp;&emsp;&emsp;"(i) the size, scope, and duration of the value-based incentive program is reasonable in relation to the purpose of the value-based incentive program; and
+
+&emsp;&emsp;&emsp;"(ii) the value-based incentive program relies on the core quality performance metrics adopted pursuant to section 728 \[amending section 1073b of this title and enacting provisions set out as notes under section 1071 of this title\].
+
+&emsp;"(3)
+
+Use of existing models.—In developing a value-based incentive program under paragraph (1), the Secretary may adapt a value-based incentive program conducted by a TRICARE managed care support contractor, the Centers for Medicare \& Medicaid Services, or any other Federal Government, State government, or commercial health care program.
+
+"(b)
+
+Transfer of Contracting Responsibility.—With respect to the acquisition of any managed care support contracts under the TRICARE program initiated after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall transfer contracting responsibility for the solicitation and award of such contracts from the Defense Health Agency to the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+"(c)
+
+Acquisition of Contracts.—
+
+&emsp;"(1)
+
+Strategy.—Not later than January 1, 2018, the Secretary of Defense shall develop and implement a strategy to ensure that managed care support contracts under the TRICARE program entered into with private sector entities, other than overseas medical support contracts—
+
+&emsp;&emsp;"(A) improve access to health care for covered beneficiaries;
+
+&emsp;&emsp;"(B) improve health outcomes for covered beneficiaries;
+
+&emsp;&emsp;"(C) improve the quality of health care received by covered beneficiaries;
+
+&emsp;&emsp;"(D) enhance the experience of covered beneficiaries in receiving health care; and
+
+&emsp;&emsp;"(E) lower per capita costs to the Department of Defense of health care provided to covered beneficiaries.
+
+&emsp;"(2)
+
+Applicability of strategy.—
+
+&emsp;&emsp;"(A)
+
+In general.—The strategy required by paragraph (1) shall apply to all managed care support contracts under the TRICARE program entered into with private sector entities.
+
+&emsp;&emsp;"(B)
+
+Modification of contracts.—Contracts entered into prior to the implementation of the strategy required by paragraph (1) shall be modified to ensure consistency with such strategy.
+
+&emsp;"(3)
+
+Local, regional, and national health plans.—In developing and implementing the strategy required by paragraph (1), the Secretary shall ensure that local, regional, and national health plans have an opportunity to participate in the competition for managed care support contracts under the TRICARE program.
+
+&emsp;"(4)
+
+Continuous innovation.—The strategy required by paragraph (1) shall include incentives for the incorporation of innovative ideas and solutions into managed care support contracts under the TRICARE program through the use of teaming agreements, subcontracts, and other contracting mechanisms that can be used to develop and continuously refresh high-performing networks of health care providers at the national, regional, and local level.
+
+&emsp;"(5)
+
+Elements of strategy.—The strategy required by paragraph (1) shall provide for the following with respect to managed care support contracts under the TRICARE program:
+
+&emsp;&emsp;"(A) The maximization of flexibility in the design and configuration of networks of individual and institutional health care providers, including a focus on the development of high-performing networks of health care providers.
+
+&emsp;&emsp;"(B) The establishment of an integrated medical management system between military medical treatment facilities and health care providers in the private sector that, when appropriate, effectively coordinates and integrates health care across the continuum of care.
+
+&emsp;&emsp;"(C) With respect to telehealth services—
+
+&emsp;&emsp;&emsp;"(i) the maximization of the use of such services to provide real-time interactive communications between patients and health care providers and remote patient monitoring; and
+
+&emsp;&emsp;&emsp;"(ii) the use of standardized payment methods to reimburse health care providers for the provision of such services.
+
+&emsp;&emsp;"(D) The use of value-based reimbursement methodologies, including through the use of value-based incentive programs under subsection (a), that transfer financial risk to health care providers and managed care support contractors.
+
+&emsp;&emsp;"(E) The use of financial incentives for contractors and health care providers to receive an equitable share in the cost savings to the Department resulting from improvement in health outcomes for covered beneficiaries and the experience of covered beneficiaries in receiving health care.
+
+&emsp;&emsp;"(F) The use of incentives that emphasize prevention and wellness for covered beneficiaries receiving health care services from private sector entities to seek such services from high-value health care providers.
+
+&emsp;&emsp;"(G) The adoption of a streamlined process for enrollment of covered beneficiaries to receive healthcare and timely assignment of primary care managers to covered beneficiaries.
+
+&emsp;&emsp;"(H) The elimination of the requirement for a referral to be authorized prior receiving specialty care services at a facility of the Department of Defense or through the TRICARE program.
+
+&emsp;&emsp;"(I) The use of incentives to encourage covered beneficiaries to participate in medical and lifestyle intervention programs.
+
+&emsp;"(6)
+
+Rural, remote, and isolated areas.—In developing and implementing the strategy required by paragraph (1), the Secretary shall—
+
+&emsp;&emsp;"(A) assess the unique characteristics of providing health care services in Alaska, Hawaii, and the territories and possessions of the United States, and in rural, remote, or isolated locations in the contiguous 48 States;
+
+&emsp;&emsp;"(B) consider the various challenges inherent in developing robust networks of health care providers in those locations;
+
+&emsp;&emsp;"(C) develop a provider reimbursement rate structure in those locations that ensures—
+
+&emsp;&emsp;&emsp;"(i) timely access of covered beneficiaries to health care services;
+
+&emsp;&emsp;&emsp;"(ii) the delivery of high-quality primary and specialty care;
+
+&emsp;&emsp;&emsp;"(iii) improvement in health outcomes for covered beneficiaries; and
+
+&emsp;&emsp;&emsp;"(iv) an enhanced experience of care for covered beneficiaries; and
+
+&emsp;&emsp;"(D) ensure that managed care support contracts under the TRICARE program in those locations will—
+
+&emsp;&emsp;&emsp;"(i) establish individual and institutional provider networks that will provide timely access to care for covered beneficiaries, including pursuant to such networks relating to an Indian tribe or tribal organization that is party to the Alaska Native Health Compact with the Indian Health Service or has entered into a contract with the Indian Health Service to provide health care in rural Alaska or other locations in the United States; and
+
+&emsp;&emsp;&emsp;"(ii) deliver high-quality care, better health outcomes, and a better experience of care for covered beneficiaries.
+
+"(d)
+
+Report Prior to Certain Contract Modifications.—Not later than 60 days before the date on which the Secretary of Defense first modifies a contract awarded under chapter 55 of title 10, United States Code, to implement a value-based incentive program under subsection (a), or the managed care support contract acquisition strategy under subsection (c), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on any implementation plan of the Secretary with respect to such value-based incentive program or managed care support contract acquisition strategy.
+
+"(e)
+
+Comptroller General Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date on which the Secretary submits the report under subsection (d), the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that assesses the compliance of the Secretary of Defense with the requirements of subsection (a) and subsection (c).
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include an assessment of the following:
+
+&emsp;&emsp;"(A) Whether the approach of the Department of Defense for acquiring managed care support contracts under the TRICARE program—
+
+&emsp;&emsp;&emsp;"(i) improves access to care;
+
+&emsp;&emsp;&emsp;"(ii) improves health outcomes;
+
+&emsp;&emsp;&emsp;"(iii) improves the experience of care for covered beneficiaries; and
+
+&emsp;&emsp;&emsp;"(iv) lowers per capita health care costs.
+
+&emsp;&emsp;"(B) Whether the Department has, in its requirements for managed care support contracts under the TRICARE program, allowed for—
+
+&emsp;&emsp;&emsp;"(i) maximum flexibility in network design and development;
+
+&emsp;&emsp;&emsp;"(ii) integrated medical management between military medical treatment facilities and network providers;
+
+&emsp;&emsp;&emsp;"(iii) the maximum use of the full range of telehealth services;
+
+&emsp;&emsp;&emsp;"(iv) the use of value-based reimbursement methods that transfer financial risk to health care providers and managed care support contractors;
+
+&emsp;&emsp;&emsp;"(v) the use of prevention and wellness incentives to encourage covered beneficiaries to seek health care services from high-value providers;
+
+&emsp;&emsp;&emsp;"(vi) a streamlined enrollment process and timely assignment of primary care managers;
+
+&emsp;&emsp;&emsp;"(vii) the elimination of the requirement to seek authorization for referrals for specialty care services;
+
+&emsp;&emsp;&emsp;"(viii) the use of incentives to encourage covered beneficiaries to engage in medical and lifestyle intervention programs; and
+
+&emsp;&emsp;&emsp;"(ix) the use of financial incentives for contractors and health care providers to receive an equitable share in cost savings resulting from improvements in health outcomes and the experience of care for covered beneficiaries.
+
+&emsp;&emsp;"(C) Whether the Department has considered, in developing requirements for managed care support contracts under the TRICARE program, the following:
+
+&emsp;&emsp;&emsp;"(i) The unique characteristics of providing health care services in Alaska, Hawaii, and the territories and possessions of the United States, and in rural, remote, or isolated locations in the contiguous 48 States;
+
+&emsp;&emsp;&emsp;"(ii) The various challenges inherent in developing robust networks of health care providers in those locations.
+
+&emsp;&emsp;&emsp;"(iii) A provider reimbursement rate structure in those locations that ensures—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) timely access of covered beneficiaries to health care services;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the delivery of high-quality primary and specialty care;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) improvement in health outcomes for covered beneficiaries; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) an enhanced experience of care for covered beneficiaries.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code.
+
+&emsp;"(2) The term 'high-performing networks of health care providers' means networks of health care providers that, in addition to such other requirements as the Secretary of Defense may specify for purposes of this section, do the following:
+
+&emsp;&emsp;"(A) Deliver high quality health care as measured by leading health quality measurement organizations such as the National Committee for Quality Assurance and the Agency for Healthcare Research and Quality.
+
+&emsp;&emsp;"(B) Achieve greater efficiency in the delivery of health care by identifying and implementing within such network improvement opportunities that guide patients through the entire continuum of care, thereby reducing variations in the delivery of health care and preventing medical errors and duplication of medical services.
+
+&emsp;&emsp;"(C) Improve population-based health outcomes by using a team approach to deliver case management, prevention, and wellness services to high-need and high-cost patients.
+
+&emsp;&emsp;"(D) Focus on preventive care that emphasizes—
+
+&emsp;&emsp;&emsp;"(i) early detection and timely treatment of disease;
+
+&emsp;&emsp;&emsp;"(ii) periodic health screenings; and
+
+&emsp;&emsp;&emsp;"(iii) education regarding healthy lifestyle behaviors.
+
+&emsp;&emsp;"(E) Coordinate and integrate health care across the continuum of care, connecting all aspects of the health care received by the patient, including the patient's health care team.
+
+&emsp;&emsp;"(F) Facilitate access to health care providers, including—
+
+&emsp;&emsp;&emsp;"(i) after-hours care;
+
+&emsp;&emsp;&emsp;"(ii) urgent care; and
+
+&emsp;&emsp;&emsp;"(iii) through telehealth appointments, when appropriate.
+
+&emsp;&emsp;"(G) Encourage patients to participate in making health care decisions.
+
+&emsp;&emsp;"(H) Use evidence-based treatment protocols that improve the consistency of health care and eliminate ineffective, wasteful health care practices."
+

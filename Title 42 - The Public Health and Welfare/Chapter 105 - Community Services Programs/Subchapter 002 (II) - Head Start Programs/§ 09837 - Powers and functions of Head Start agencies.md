@@ -8,7 +8,7 @@ To be designated as a Head Start agency under this subchapter, an agency shall h
 
 To be so designated, a Head Start agency shall, at a minimum, do all the following to involve and serve families and communities:
 
-&emsp;(1) Provide for the regular and direct participation of parents and community residents in the implementation of the Head Start program, including decisions that influence the character of such program, consistent with paragraphs (2)(D) and (3)(C) of subsection (c).
+&emsp;(1) Provide for the regular and direct participation of parents and community residents inthe implementation of the Head Start program, including decisions that influence the character of such program, consistent with paragraphs (2)(D) and (3)(C) of subsection (c).
 
 &emsp;(2) Seek the involvement of parents, community residents, and local business in the design and implementation of the program.
 
@@ -168,7 +168,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;&emsp;(VIII) reviewing results from monitoring conducted under section 9836a(c) of this title, including appropriate followup activities;
 
-&emsp;&emsp;&emsp;&emsp;(IX) approving personnel policies and procedures, including policies and procedures regarding the hiring, evaluation, compensation, and termination of the Executive Director, Head Start Director,Director of Human Resources, Chief Fiscal Officer, and any other person in an equivalent position with the agency;
+&emsp;&emsp;&emsp;&emsp;(IX) approving personnel policies and procedures, including policies and procedures regarding the hiring, evaluation, compensation, and termination of the Executive Director, Head Start Director, Director of Human Resources, Chief Fiscal Officer, and any other person in an equivalent position with the agency;
 
 &emsp;&emsp;&emsp;&emsp;(X) establishing, adopting, and periodically updating written standards of conduct that establish standards and formal procedures for disclosing, addressing, and resolving—
 
@@ -324,7 +324,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;&emsp;(i) where there is an absence of publicly funded preschool programs in the service area of a Head Start agency, this paragraph shall not apply; or
 
-&emsp;&emsp;&emsp;(ii) where the appropriate local entity responsible for managing the publicly funded preschool programs is unable or unwilling to enter into such a memorandum, this paragraph shall not apply and theHead Start agency shall inform the Secretary and the State Director of Head Start Collaboration of such inability or unwillingness; and
+&emsp;&emsp;&emsp;(ii) where the appropriate local entity responsible for managing the publicly funded preschool programs is unable or unwilling to enter into such a memorandum, this paragraph shall not apply and the Head Start agency shall inform the Secretary and the State Director of Head Start Collaboration of such inability or unwillingness; and
 
 &emsp;&emsp;(C) be revised periodically and renewed biennially by the parties to such memorandum, in alignment with the beginning of the school year.
 

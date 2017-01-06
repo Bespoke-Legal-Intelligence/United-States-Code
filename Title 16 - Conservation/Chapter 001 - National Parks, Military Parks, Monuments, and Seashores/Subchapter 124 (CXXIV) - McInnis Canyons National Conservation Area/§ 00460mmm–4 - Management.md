@@ -54,7 +54,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (2) Area and time closures
 
-&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in referenceto land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
+&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in reference to land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
 
 #### (g) Grazing
 

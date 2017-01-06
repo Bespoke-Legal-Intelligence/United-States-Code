@@ -4,13 +4,13 @@
 
 No employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\] the Walsh-Healey Act, or the Bacon-Davis Act <sup>1</sup> (in any action or proceeding commenced prior to or on or after May 14, 1947), on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any activity of an employee engaged in prior to May 14, 1947, except an activity which was compensable by either—
 
-&emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer; or
+&emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of suchactivity, between such employee, his agent, or collective-bargaining representative and his employer; or
 
 &emsp;(2) a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee was employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
 
 #### (b) Compensable activity
 
-For the purposes of subsection (a), an activity shall be considered as compensable under suchcontract provision or such custom or practice only when it was engaged in during the portion of the day with respect to which it was so made compensable.
+For the purposes of subsection (a), an activity shall be considered as compensable under such contract provision or such custom or practice only when it was engaged in during the portion of the day with respect to which it was so made compensable.
 
 #### (c) Time of employment
 

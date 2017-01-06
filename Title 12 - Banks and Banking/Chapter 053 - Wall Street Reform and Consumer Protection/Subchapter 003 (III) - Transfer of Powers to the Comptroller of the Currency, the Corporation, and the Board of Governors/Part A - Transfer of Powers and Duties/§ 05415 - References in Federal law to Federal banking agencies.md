@@ -10,3 +10,7 @@ This subtitle, referred to in text, is subtitle A (§§311–319) of title III o
 
 Subtitle E, referred to in text, is subtitle E (§351–378) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1546. For complete classification of subtitle E to the Code, see Tables.
 
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
+

@@ -62,7 +62,7 @@
 
 #### (4) Annual report
 
-&emsp;The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
+&emsp;The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce,Science, and Transportation of the Senate. Such report shall include—
 
 &emsp;&emsp;(A) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under subparagraph (3)(A);
 
@@ -262,7 +262,7 @@ Subsec. (b)(1)(B). Pub. L. 108–360, §103(2)(A)(ii), (iii), added subpar. (B) 
 
 Subsec. (b)(1)(C). Pub. L. 108–360, §103(2)(A)(ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 days after the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;".
 
-Subsec. (b)(1)(D), (E). Pub. L. 108–360, §103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted "Federal Emergency Management Agency, the National Science Foundation" for "National ScienceFoundation, the National Institute of Standards and Technology". Former subpar. (D) redesignated (C).
+Subsec. (b)(1)(D), (E). Pub. L. 108–360, §103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted "Federal Emergency Management Agency, the National Science Foundation" for "National Science Foundation, the National Institute of Standards and Technology". Former subpar. (D) redesignated (C).
 
 Subsec. (b)(2). Pub. L. 108–360, §103(2)(B), inserted heading, struck out former heading "Federal Emergency Management Agency", added subpar. (A), and struck out heading and text of former subpar. (A) which related to earthquake program responsibilities of the Director of the Federal Emergency Management Agency.
 
@@ -452,7 +452,7 @@ School.—The term 'school' means a nonprofit institutional day or residential s
 
 &emsp;"(2)
 
-Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or herunder section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 "(d)
 
@@ -488,7 +488,7 @@ Contents of assessment.—The assessment conducted under this subsection shall i
 
 &emsp;&emsp;"(A) a review of the disaster training programs offered by the Federal Emergency Management Agency at the time of the assessment;
 
-&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending on July 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of the training capabilities of the Federal Emergency Management Agency; and
+&emsp;&emsp;"(B) an estimate of the number and types of emergency response personnel that have, during the period beginning on January 1, 1990 and ending on July 1, 1997, sought the training referred to in subparagraph (A), but have been unable to receive that training as a result of the oversubscription of thetraining capabilities of the Federal Emergency Management Agency; and
 
 &emsp;&emsp;"(C) a recommendation on the need to provide additional Federal disaster-response training centers.
 
@@ -504,43 +504,85 @@ Pub. L. 101–614, §14, Nov. 16, 1990, 104 Stat. 3242, directed Director of Fed
 
 Pub. L. 100–570, title I, §115, Oct. 31, 1988, 102 Stat. 2871, directed National Academy of Sciences to conduct a study of earthquake engineering activities being carried out by the Foundation and other Federal agencies under the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7701 et seq.), such study to include (1) an assessment of adequacy of each agency's current Federal earthquake engineering efforts, including those designed to increase the implementation of new techniques; the need for specialized research facilities, including large-scale facilities; the division of responsibilities among the various Federal agencies; and recommended levels of funding that the Foundation and other agencies should provide, in the form of grants to individuals, groups, and centers, to non-Federal researchers principally engaged in earthquake engineering research; and (2) recommendations, if any, of the National Academy of Sciences for improvements in the current Federal efforts in the area of earthquake engineering research, with results of the study to be reported to Congress on or before expiration of 12-month period following Oct. 31, 1988.
 
-#### Ex. Ord. No. 12699. Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction
+#### Executive Order No. 12699
 
-Ex. Ord. No. 12699, Jan. 5, 1990, 55 F.R. 835, as amended by Ex. Ord. No. 13286, §40, Feb. 28, 2003, 68 F.R. 10626, provided:
+Ex. Ord. No. 12699, Jan. 5, 1990, 55 F.R. 835, as amended by Ex. Ord. No. 13286, §40, Feb. 28, 2003, 68 F.R. 10626, which related to seismic safety of Federal and federally assisted or regulated new building construction, was revoked by Ex. Ord. No. 13717, §5, Feb. 2, 2016, 81 F.R. 6409, set out below.
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in furtherance of the Earthquake Hazards Reduction Act of 1977, as amended (42 U.S.C. 7701 <i>et seq</i>.), which requires that Federal preparedness and mitigation activities are to include "development and promulgation of specifications, building standards, design criteria, and construction practices to achieve appropriate earthquake resistance for new . . . structures," and "an examination of alternative provisions and requirements for reducing earthquake hazards through Federal and federally financed construction, loans, loan guarantees, and licenses. . . ." (42 U.S.C. 7704(f)(3, 4)), it is hereby ordered as follows:
+#### Ex. Ord. No. 13717. Establishing a Federal Earthquake Risk Management Standard
 
-Section 1. Requirements for Earthquake Safety of New Federal Buildings.
+Ex. Ord. No. 13717, Feb. 2, 2016, 81 F.R. 6407, provided:
 
-The purposes of these requirements are to reduce risks to the lives of occupants of buildings owned by the Federal Government and to persons who would be affected by the failures of Federal buildings in earthquakes, to improve the capability of essential Federal buildings to function during or after an earthquake, and to reduce earthquake losses of public buildings, all in a cost-effective manner. A building means any structure, fully or partially enclosed, used or intended for sheltering persons or property.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Earthquake Hazards Reduction Act of 1977, as amended, and section 121(a) of title 40, United States Code, and to improve the Nation's resilience to earthquakes, I hereby direct the following:
 
-Each Federal agency responsible for the design and construction of each new Federal building shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all building projects for which development of detailed plans and specifications is initiated subsequent to the issuance of the order. Seismic design and construction standards shall be adopted for agency use in accord with sections 3(a) and 4(a) of this order.
+Section 1. <i>Policy</i>. It is the policy of the United States to strengthen the security and resilience of the Nation against earthquakes, to promote public safety, economic strength, and national security. To that end, the Federal Government must continue to take proactive steps to enhance the resilience of buildings that are owned, leased, financed, or regulated by the Federal Government. When making investment decisions related to Federal buildings, each executive department and agency (agency) responsible for implementing this order shall seek to enhance resilience by reducing risk to the lives of building occupants and improving continued performance of essential functions following future earthquakes. The Federal Government recognizes that building codes and standards primarily focus on ensuring minimum acceptable levels of earthquake safety for preserving the lives of building occupants. To achieve true resilience against earthquakes, however, new and existing buildings may need to exceed those codes and standards to ensure, for example, that the buildings can continue to perform their essential functions following future earthquakes. Agencies are thus encouraged to consider going beyond the codes and standards set out in this order to ensure that buildings are fully earthquake resilient.
 
-Sec. 2. Federally Leased, Assisted, or Regulated Buildings.
+Sec. 2. <i>Requirements for Earthquake Safety of New Federal Buildings, Improvements to Existing Federal Buildings, and Federally Leased, Financed, or Regulated Buildings</i>.
 
-The purposes of these requirements are to reduce risks to the lives of occupants of buildings leased for Federal uses or purchased or constructed with Federal assistance, to reduce risks to the lives of persons who would be affected by earthquake failures of federally assisted or regulated buildings, and to protect public investments, all in a cost-effective manner. The provisions of this order shall apply to all the new construction activities specified in the subsections below.
+(a) <i>New Buildings and Alterations to Existing Buildings</i>. Each agency responsible for the design and construction of a new building or an alteration to an existing building shall ensure that the building is designed, constructed, or altered, respectively, in accord with appropriate earthquake-resistant design and construction codes and standards as set forth in sections 3(a) and 3(b) of this order.
 
-(a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased building projects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
+(b) <i>Space Leased for Federal Occupancy</i>. Each agency responsible for the lease of a building shall, to the extent permitted by law, ensure that it leases only buildings that have been designed and constructed in accord with the appropriate earthquake-resistant design and construction standards that apply to the type of lease at issue, as set forth in section 3(c) of this order.
 
-(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no laterthan 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
+(c) <i>Federal Assistance Programs</i>. Each agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of a newly constructed building shall consider updating its procedures for providing the assistance to be consistent with section 3(a) of this order, to assure appropriate consideration of earthquake safety.
 
-(c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
+(d) <i>Federally Regulated Buildings</i>. Each agency with responsibility for regulating the structural safety of a new building shall consider using earthquake-resistant design and construction standards for the new building consistent with section 3(a) of this order.
 
-Sec. 3. Concurrent Requirements. (a) In accord with Office of Management and Budget Circular A–119 of January 17, 1980, entitled "Federal Participation in the Development and Use of Voluntary Standards," nationally recognized private sector standards and practices shall be used for the purposes identified in sections 1 and 2 above unless the responsible agency finds that none is available that meets its requirements. The actions ordered herein shall consider the seismic hazards in various areas of the country to be as shown in the most recent edition of the American National Standards Institute Standards A58, <i>Minimum Design Loans for Buildings and Other Structures</i>, or subsequent maps adopted for Federal use in accord with this order. Local building codes determined by the responsible agency or by the Interagency Committee for Seismic Safety in Construction to provide adequately for seismic safety, or special seismic standards and practices required by unique agency mission needs, may be used.
+Sec. 3. <i>Codes, Standards, and Concurrent Requirements</i>. (a) Commencing within 90 days after the date of this order, each agency shall ensure that every new building for which the agency has not started programming is in compliance with the earthquake-resistant design provisions of the 2015 editions of the International Building Code (IBC) or the International Residential Code (IRC), nationally recognized building codes promulgated by the International Code Council (ICC), or equivalent codes, consistent with the provisions of and to the extent required by 40 U.S.C. 3312. When the ICC releases a new version of the IRC or IBC, each agency that constructs buildings shall determine whether the new version is a nationally recognized code for the purposes of 40 U.S.C. 3312(b), as expeditiously as practicable, but not later than 2 years after the release of the new version. If an agency determines that a new version is a nationally recognized code, it shall ensure that any building, for which the agency has not started programming, shall be in compliance with that new version or an equivalent code.
 
-(b) All orders, regulations, circulars, or other directives issued, and all other actions taken prior to the date of this order that meet the requirements of this order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
+(b) Each agency that owns an existing Federal building shall adopt the <i>Standards of Seismic Safety for Existing Federally Owned and Leased Buildings</i> (Standards), which are developed, issued, and maintained by the Interagency Committee on Seismic Safety in Construction (ICSSC), as the minimum level acceptable for managing the earthquake risks in that building. Any agency that has not adopted the Standards at the time of this order shall adopt the Standards no later than 90 days from the date of this order. All agencies shall adopt subsequent editions of the Standards as expeditiously as practicable, but no later than 2 years following their issuance.
 
-(c) Federal agencies that are as of this date requiring seismic safety levels that are higher than those imposed by this order in their assigned new building construction programs shall continue to maintain in force such levels.
+(c) Each agency that leases space in an existing building shall adopt the Standards as the minimum level acceptable for managing the earthquake risks in that building. This requirement shall apply to existing leases or leases existing at the time of issuance of updated Standards only to the extent appropriate, as determined by the leasing agency. With respect to leases for a building being constructed to accommodate a Federal agency under the authority in 40 U.S.C. 585(a), the leasing agency shall ensure that the building complies with the earthquake-resistant design and construction standards that would apply to a building constructed by the agency pursuant to section 3(a) of this order. With respect to such leases entered into under authority other than 40 U.S.C. 585(a), the leasing agency shall ensure that the building complies with the earthquake-resistant design and construction standards that would apply to a building constructed by the agency pursuant to section 3(a) of this order, to the extent permitted by law.
 
-(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives and protect property and public health and safety, performed pursuant to Sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to Sections 408 and 411 of the Stafford Act (42 U.S.C. 5174 and former 5178). However, this order shall apply to other provisions of the Stafford Act \[42 U.S.C. 5121 et seq.\] after a presidentially declared major disaster or emergency when assistance actions involve new construction or total replacement of a building. Grantees and subgrantees shall be encouraged to adopt the standards established in section 3(a) of this order for use when the construction does not involve Federal funding as well as when Department of Homeland Security funding applies.
+(d) Agencies may require higher performance levels than exist in the codes and standards described in sections 3(a), (b), and (c) of this order.
 
-Sec. 4. Agency Responsibilities. (a) The Secretary of Homeland Security shall be responsible for reporting to the President on the execution of this order and providing support for the secretariat of the Interagency Committee on Seismic Safety in Construction (ICSSC). The ICSSC, using consensus procedures, shall be responsible to FEMA for the recommendation for adoption of cost-effective seismic design and construction standards and practices required by sections 1 and 2 of this order. Participation in ICSSC shall be open to all agencies with programs affected by this order.
+Sec. 4. <i>Agency and Committee Responsibilities</i>. (a) The ICSSC shall be composed of representatives of all Federal agencies engaged in construction, financing of construction, or related activities. The National Earthquake Hazards Reduction Program (NEHRP) Lead Agency, currently the National Institute of Standards and Technology (NIST), shall lead the ICSSC, and shall lead the development and maintenance of ICSSC guidelines to assist the Federal agencies with implementing earthquake risk reduction measures in their construction programs.
 
-(b) To the extent permitted by law, each agency shall issue or amend existing regulations or procedures to comply with this order within 3 years of its issuance and plan for their implementation through the usual budget process. Thereafter, each agency shall review, within a period not to exceed 3 years, its regulations or procedures to assess the need to incorporate new or revised standards and practices.
+(b) Agencies whose activities are covered by this order shall designate one or more Seismic Safety Coordinator(s) to serve as focal points for the agency's compliance with this order and to participate in the ICSSC as appropriate. Within 30 days of the date of this order, each agency shall identify its Seismic Safety Coordinator(s) to the Director of NIST.
 
-Sec. 5. Reporting. The Department of Homeland Security shall request, from each agency affected by this order, information on the status of its procedures, progress in its implementation plan, and the impact of this order on its operations. The Department of Homeland Security shall include an assessment of the execution of this order in its annual report to the Congress on the National Earthquake Hazards Reduction Program.
+(c) The Director of NIST, on behalf of the ICSSC, shall issue implementing guidelines to assist agency compliance with this order within 8 months of the date of this order. The implementing guidelines shall provide specific guidance, including guidance about the roles and responsibilities of the agencies under section 2 of this order. The implementing guidelines shall also describe the responsibilities and necessary qualifications of the Seismic Safety Coordinator.
 
-Sec. 6. Judicial Review. Nothing in this order is intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+(d) The Director of NIST, on behalf of the ICSSC, shall provide assistance in interpreting the implementing guidelines to the Federal departments and agencies.
+
+(e) The ICSSC shall publish updated Standards for assessing and enhancing the earthquake resilience of existing buildings as required by this order. The ICSSC shall review and update the Standards as needed to comply with this order at the maximum interval of every 6 years. Participation in the ICSSC shall continue to be open to all agencies with programs affected by this order. The Director of NIST shall provide support for the secretariat of the ICSSC and determine the frequency and scope of the ICSSC meetings as necessary to support this order.
+
+(f) Agencies whose activities are covered by this order shall submit biennial reports to the Director of the Office of Management and Budget (OMB) and the Director of NIST on their progress in implementing the order, commencing 2 years from the date of this order.
+
+(g) Agency compliance shall be summarized in the NEHRP reports to the Congress.
+
+Sec. 5. <i>Revocation</i>. Executive Order 12699 of January 5, 1990 (Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction), as amended, and Executive Order 12941 of December 1, 1994 (Seismic Safety of Existing Federally Owned or Leased Buildings) are hereby revoked.
+
+Sec. 6. <i>Definitions</i>. As used in this order:
+
+(a) "building" means any structure, fully or partially enclosed, used or intended for sheltering persons or property;
+
+(b) "alteration to an existing building" means an action that alters, as defined in 40 U.S.C. 3301(a)(1), a building and that significantly extends the building's useful life and totals more than the replacement values established in the Standards for the building's assigned Seismic Design Category; and
+
+(c) "programming" means developing and validating project assumptions, scope, budgets, and implementation strategy for a building.
+
+Sec. 7. <i>Exemption Authority</i>. (a) The head of an agency may exempt a building from sections 2 and 3 of this order:
+
+(i) to the extent the head of an agency determines that exempting such building is substantially related to an important law enforcement purpose; or
+
+(ii) to the extent the head of an agency determines that exempting such building is necessary to address an extraordinary circumstance relating to national security or public safety.
+
+(b) Even when otherwise eligible for an exemption under this section, each agency shall strive to comply with the purposes, goals, and requirements set forth in this order to the maximum extent practicable.
+
+(c) If the head of an agency issues an exemption under this section, the agency must notify the Director of OMB in writing within 30 days of issuance of the exemption under this subsection.
+
+Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives and protect property and public health and safety, performed pursuant to agencies' statutory authorities, and sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (the "Stafford Act") (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to section 408 of the Stafford Act (42 U.S.C. 5174). This order shall, however, apply to other provisions of the Stafford Act after a Presidentially declared major disaster or emergency when assistance actions involve new construction or alterations to an existing building.
+
+(e) This order applies only to buildings within the United States and its territories and possessions.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "subparagraph".</i>
 

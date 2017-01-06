@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (b) of this section, the Secretary shall determine the amount of the allotment required in section 300x–21 of this title for a State for a fiscal year as follows:
+&emsp;Subject to subsection (b), the Secretary shall determine the amount of the allotment required in section 300x–21 of this title for a State for a fiscal year as follows:
 
 &emsp;&emsp;(A) The formula established in paragraph (1) of section 300x–7(a) of this title shall apply to this subsection to the same extent and in the same manner as the formula applies for purposes of section 300x–7(a) of this title, except that, in the application of such formula for purposes of this subsection, the modifications described in subparagraph (B) shall apply.
 
@@ -46,7 +46,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for a fiscal year (as compared to the amount allotted to the State in the prior fiscal year) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for such fiscal year exceeds the amount appropriated for the prior fiscal year.
+&emsp;&emsp;In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section300x–21 of this title for a fiscal year (as compared to the amount allotted to the State in the prior fiscal year) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for such fiscal year exceeds the amount appropriated for the prior fiscal year.
 
 #### (3) Decrease in or equal appropriations
 
@@ -86,7 +86,7 @@
 
 #### (5) Applicability of certain provisions
 
-&emsp;For purposes of subsections (a) and (b) of this section, the term "State" does not include the territories of the United States.
+&emsp;For purposes of subsections (a) and (b), the term "State" does not include the territories of the United States.
 
 #### (d) Indian tribes and tribal organizations
 
@@ -110,13 +110,13 @@
 
 #### (4) Definitions
 
-&emsp;The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 450b of title 25.
+&emsp;The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 5304 of title 25.
 
 (July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXIII, §3304, Oct. 17, 2000, 114 Stat. 1212.)
 
 #### References in Text
 
-Section 450b of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 450 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 5304 nolonger define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Prior Provisions
 
@@ -160,7 +160,7 @@ Exception.—In applying subparagraph (A), the Secretary shall ensure that no St
 
 #### Effective and Termination Dates of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if enacted on Oct. 1, 1998, and applicable only during fiscal year1999, and upon expiration of fiscal year 1999, subsec. (b) of this section, as in effect on Sept. 30, 1998, to be applied as if such amendment had not been enacted, see section 101(f) \[title II, §218(c)\] of Pub. L. 105–277, set out as a note under section 300x–7 of this title.
+Amendment by Pub. L. 105–277 effective as if enacted on Oct. 1, 1998, and applicable only during fiscal year 1999, and upon expiration of fiscal year 1999, subsec. (b) of this section, as in effect on Sept. 30, 1998, to be applied as if such amendment had not been enacted, see section 101(f) \[title II, §218(c)\] of Pub. L. 105–277, set out as a note under section 300x–7 of this title.
 
 #### Effective Date of 1992 Amendment
 

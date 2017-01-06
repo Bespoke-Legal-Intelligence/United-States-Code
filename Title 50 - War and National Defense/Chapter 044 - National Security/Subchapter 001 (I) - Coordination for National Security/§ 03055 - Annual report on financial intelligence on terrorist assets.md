@@ -16,13 +16,13 @@ In the case of a designation of an individual or entity, or the assets of an ind
 
 #### (c) Submittal date of reports to congressional intelligence committees
 
-In the case of the reports required to be submitted under subsection (a) of this section to the congressional intelligence committees, the submittal dates for such reports shall be as provided in section 3106 of this title.
+In the case of the reports required to be submitted under subsection (a) to the congressional intelligence committees, the submittal dates for such reports shall be as provided in section 3106 of this title.
 
 #### (d) Appropriate congressional committees defined
 
 In this section, the term "appropriate congressional committees" means the following:
 
-&emsp;(1) The Permanent Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Financial Services of the House of Representatives.
+&emsp;(1) The Permanent Select Committee on Intelligence, the Committee on Appropriations,the Committee on Armed Services, and the Committee on Financial Services of the House of Representatives.
 
 &emsp;(2) The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 

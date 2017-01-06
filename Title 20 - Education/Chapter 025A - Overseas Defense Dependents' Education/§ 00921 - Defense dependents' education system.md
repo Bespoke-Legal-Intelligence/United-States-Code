@@ -6,9 +6,9 @@ The Secretary of Defense shall establish and operate a program (hereinafter in t
 
 #### (b) Program purposes and activities
 
-(1) The Secretary shall ensure that individuals eligible to receive a free public education under subsection (a) of this section receive an education of high quality.
+(1) The Secretary shall ensure that individuals eligible to receive a free public education under subsection (a) receive an education of high quality.
 
-(2) In establishing the defense dependents' education system under subsection (a) of this section, the Secretary shall provide programs designed to meet the special needs of—
+(2) In establishing the defense dependents' education system under subsection (a), the Secretary shall provide programs designed to meet the special needs of—
 
 &emsp;(A) the handicapped,
 
@@ -20,7 +20,7 @@ The Secretary of Defense shall establish and operate a program (hereinafter in t
 
 &emsp;(E) individuals of limited English-speaking ability.
 
-(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) of this section who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
+(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
 
 #### (c) Consultation requirements
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees tobe charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 substituted "to receive" for "to recieve".
 

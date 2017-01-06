@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide through the CO–OP program for the awarding to personsapplying to become qualified nonprofit health insurance issuers of—
+&emsp;The Secretary shall provide through the CO–OP program for the awarding to persons applying to become qualified nonprofit health insurance issuers of—
 
 &emsp;&emsp;(A) loans to provide assistance to such person in meeting its start-up costs; and
 
@@ -224,7 +224,7 @@ This Act, referred to in subsec. (i)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 
 #### Codification
 
-Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of section 1322 of Pub. L. 111–148 amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
+Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of section 1322 of Pub. L. 111–148 amendedsections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
 
 #### Amendments
 

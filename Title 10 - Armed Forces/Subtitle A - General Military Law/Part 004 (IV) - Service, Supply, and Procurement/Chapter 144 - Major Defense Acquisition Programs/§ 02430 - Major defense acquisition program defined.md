@@ -1,14 +1,16 @@
 ### §2430. Major defense acquisition program defined
 
-(a) In this chapter, the term "major defense acquisition program" means a Department of Defense acquisition program that is not a highly sensitive classified program (as determined by the Secretary of Defense) and—
+(a)(1) Except as provided under paragraph (2), in this chapter, the term "major defense acquisition program" means a Department of Defense acquisition program that is not a highly sensitive classified program (as determined by the Secretary of Defense) and—
 
-&emsp;(1) that is designated by the Secretary of Defense as a major defense acquisition program; or
+&emsp;(A) that is designated by the Secretary of Defense as a major defense acquisition program; or
 
-&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(B) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
-(b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+(2) In this chapter, the term "major defense acquisition program" does not include an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note).
 
-(c) For purposes of subsection (a)(2), the Secretary shall consider, as applicable, the following:
+(b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) <sup>1</sup> on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+
+(c) For purposes of subsection (a)(2),<sup>1</sup> the Secretary shall consider, as applicable, the following:
 
 &emsp;(1) The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title.
 
@@ -18,37 +20,43 @@
 
 &emsp;(4) The cost estimate within a baseline description as required by section 2435 of this title.
 
-(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, §1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title VIII, §825(a), Nov. 25, 2015, 129 Stat. 907.)
+(d)(1) The milestone decision authority for a major defense acquisition program reaching Milestone A after October 1, 2016, shall be the service acquisition executive of the military department that is managing the program, unless the Secretary of Defense designates, under paragraph (2), another official to serve as the milestone decision authority.
 
-#### Amendment of Section
+(2) The Secretary of Defense may designate an alternate milestone decision authority for a program with respect to which—
 
-<i>Pub. L. 114–92, div. A, title VIII, §825(a), (c)(3), Nov. 25, 2015, 129 Stat. 907, 908, provided that, effective Oct. 1, 2016, this section is amended by adding at the end the following new subsection:</i>
+&emsp;(A) subject to paragraph (5), the Secretary determines that the program is addressing a joint requirement;
 
-<i>(d)(1) The milestone decision authority for a major defense acquisition program reaching Milestone A after October 1, 2016, shall be the service acquisition executive of the military department that is managing the program, unless the Secretary of Defense designates, under paragraph (2), another official to serve as the milestone decision authority.</i>
+&emsp;(B) the Secretary determines that the program is best managed by a Defense Agency;
 
-<i>(2) The Secretary of Defense may designate an alternate milestone decision authority for a program with respect to which—</i>
+&emsp;(C) the program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under section 2433 of this title;
 
-&emsp;<i>(A) the Secretary determines that the program is addressing a joint requirement;</i>
+&emsp;(D) the program is critical to a major interagency requirement or technology development effort, or has significant international partner involvement; or
 
-&emsp;<i>(B) the Secretary determines that the program is best managed by a Defense Agency;</i>
+&emsp;(E) the Secretary determines that an alternate official serving as the milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes.
 
-&emsp;<i>(C) the program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under section 2433 of this title;</i>
+(3)(A) After designating an alternate milestone decision authority under paragraph (2) for a program, the Secretary of Defense may revert the position of milestone decision authority for the program back to the service acquisition executive upon request of the Secretary of the military department concerned. A decision on the request shall be made within 180 days after receipt of the request from the Secretary of the military department concerned.
 
-&emsp;<i>(D) the program is critical to a major interagency requirement or technology development effort, or has significant international partner involvement; or</i>
+(B) If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary's decision that an alternate official serving as milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under section 2433 of this title, except in exceptional circumstances.
 
-&emsp;<i>(E) the Secretary determines that an alternate official serving as the milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes.</i>
+(4)(A) For each major defense acquisition program, the Secretary of the military department concerned and the Chief of the armed force concerned shall, in each Selected Acquisition Report required under section 2432 of this title, certify that program requirements are stable and funding is adequate to meet cost, schedule, and performance objectives for the program and identify and report to the congressional defense committees on any increased risk to the program since the last report.
 
-<i>(3)(A) After designating an alternate milestone decision authority under paragraph (2) for a program, the Secretary of Defense may revert the position of milestone decision authority for the program back to the service acquisition executive upon request of the Secretary of the military department concerned. A decision on the request shall be made within 180 days after receipt of the request from the Secretary of the military department concerned.</i>
+(B) The Secretary of Defense shall review the acquisition oversight process for major defense acquisition programs and shall limit outside requirements for documentation to an absolute minimum on those programs where the service acquisition executive of the military department that is managing the program is the milestone decision authority and ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.
 
-<i>(B) If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary's decision that an alternate official serving as milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under section 2433 of this title, except in exceptional circumstances.</i>
+(5) The authority of the Secretary of Defense to designate an alternative milestone decision authority for a program with respect to which the Secretary determines that the program is addressing a joint requirement, as set forth in paragraph (2)(A), shall apply only for a major defense acquisition program that reaches Milestone A after October 1, 2016, and before October 1, 2019.
 
-<i>(4)(A) For each major defense acquisition program, the Secretary of the military department concerned and the Chief of the armed force concerned shall, in each Selected Acquisition Report required under section 2432 of this title, certify that program requirements are stable and funding is adequate to meet cost, schedule, and performance objectives for the program and identify and report to the congressional defense committees on any increased risk to the program since the last report.</i>
+(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, §1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title VIII, §825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§807(b), 847(a), Dec. 23, 2016, 130 Stat. 2261, 2292.)
 
-<i>(B) The Secretary of Defense shall review the acquisition oversight process for major defense acquisition programs and shall limit outside requirements for documentation to an absolute minimum on those programs where the service acquisition executive of the military department that is managing the program is the milestone decision authority and ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.</i>
+#### References in Text
 
-<i>See 2015 Amendment note below.</i>
+Subsection (a)(2), referred to in subsecs. (b) and (c), was redesignated subsection (a)(1)(B) by Pub. L. 114–328, div. A, title VIII, §847(a), Dec. 23, 2016, 130 Stat. 2292. See 2016 Amendment note below.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §847(a), designated existing provisions as par. (1), substituted "Except as provided under paragraph (2), in this chapter" for "In this chapter", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (d)(2)(A). Pub. L. 114–328, §807(b)(1), inserted "subject to paragraph (5)," before "the Secretary determines".
+
+Subsec. (d)(5). Pub. L. 114–328, §807(b)(2), added par. (5).
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–92 added subsec. (d).
 
@@ -64,9 +72,47 @@ Subsec. (c). Pub. L. 111–23, §206(b)(2), added subsec. (c).
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted "$300,000,000" for "$200,000,000", "1990" for "1980" in two places, and "$1,800,000,000" for "$1,000,000,000", and added subsec. (b).
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title VIII, §807(b), Dec. 23, 2016, 130 Stat. 2261, provided that the amendment made by section 807(b) is effective January 1, 2017.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–92 effective Oct. 1, 2016, see section 825(c)(3) of Pub. L. 114–92, set out as a note under section 133 of this title.
+
+#### Fire Suppressant and Fuel Containment Standards for Certain Vehicles
+
+Pub. L. 114–328, div. A, title I, §142, Dec. 23, 2016, 130 Stat. 2040, provided that:
+
+"(a)
+
+Guidance Required.—
+
+&emsp;"(1) The Secretary of the Army shall issue guidance regarding fire suppressant and fuel containment standards for covered vehicles of the Army.
+
+&emsp;"(2) The Secretary of the Navy shall issue guidance regarding fire suppressant and fuel containment standards for covered vehicles of the Marine Corps.
+
+"(b)
+
+Elements.—The guidance regarding fire suppressant and fuel containment standards issued pursuant to subsection (a) shall—
+
+&emsp;"(1) meet the survivability requirements applicable to each class of covered vehicles;
+
+&emsp;"(2) include standards for vehicle armor, vehicle fire suppression systems, and fuel containment technologies in covered vehicles; and
+
+&emsp;"(3) balance cost, survivability, and mobility.
+
+"(c)
+
+Report to Congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of the Army and the Secretary of the Navy shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+&emsp;"(1) the policy guidance established pursuant to subsection (a), set forth separately for each class of covered vehicle; and
+
+&emsp;"(2) any other information the Secretaries determine to be appropriate.
+
+"(d)
+
+Covered Vehicles.—In this section, the term 'covered vehicles' means ground vehicles acquired on or after October 1, 2018, under a major defense acquisition program (as such term is defined in section 2430 of title 10, United States Code), including light tactical vehicles, medium tactical vehicles, heavy tactical vehicles, and ground combat vehicles."
 
 #### Implementation of Procedures for Designation of Milestone Decision Authorities
 
@@ -82,7 +128,7 @@ Guidance.—The Deputy Chief Management Officer of the Department of Defense, in
 
 #### Tenure and Accountability of Program Managers for Program Definition Periods
 
-Pub. L. 114–92, div. A, title VIII, §826, Nov. 25, 2015, 129 Stat. 908, provided that:
+Pub. L. 114–92, div. A, title VIII, §826, Nov. 25, 2015, 129 Stat. 908, as amended by Pub. L. 114–328, div. A, title VIII, §862(a), Dec. 23, 2016, 130 Stat. 2302, provided that:
 
 "(a)
 
@@ -118,11 +164,11 @@ Qualifications, Resources, and Tenure.—The Secretary of Defense shall ensure t
 
 "(e)
 
-Waiver Authority.—The Secretary may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program definition period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire period covered by such paragraph."
+Waiver Authority.—The service acquisition executive, in the case of a major defense acquisition program of a military department, or the Under Secretary of Defense for Acquisition, Technology, and Logistics, in the case of a Defense-wide or Defense Agency major defense acquisition program, may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program definition period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire period covered by such paragraph."
 
 #### Tenure and Accountability of Program Managers for Program Execution Periods
 
-Pub. L. 114–92, div. A, title VIII, §827, Nov. 25, 2015, 129 Stat. 909, provided that:
+Pub. L. 114–92, div. A, title VIII, §827, Nov. 25, 2015, 129 Stat. 909, as amended by Pub. L. 114–328, div. A, title VIII, §862(b), Dec. 23, 2016, 130 Stat. 2302, provided that:
 
 "(a)
 
@@ -164,7 +210,7 @@ Qualifications, Resources, and Tenure.—The Secretary shall ensure that each pr
 
 "(e)
 
-Waiver Authority.—The immediate supervisor of a program manager for a major defense acquisition program may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program execution period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire program execution period."
+Waiver Authority.—The service acquisition executive, in the case of a major defense acquisition program of a military department, or the Under Secretary of Defense for Acquisition, Technology, and Logistics, in the case of a Defense-wide or Defense Agency major defense acquisition program, may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program execution period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire program execution period."
 
 #### Penalty for Cost Overruns
 
@@ -178,9 +224,9 @@ In General.—For each fiscal year beginning with fiscal year 2015, the Secretar
 
 Calculation of Penalty.—For the purposes of this section:
 
-&emsp;"(1) The amount of the cost overrun or underrun on any major defense acquisition program or subprogram in a fiscal year is the difference between the current program acquisition unit cost for the program or subprogram and the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program or subprogram, multiplied by the quantity of items to be purchased under the program or subprogram, as reported in the final Selected Acquisition Report for the fiscal yearin accordance with section 2432 of title 10, United States Code.
+&emsp;"(1) The amount of the cost overrun or underrun on any major defense acquisition program or subprogram in a fiscal year is the difference between the current program acquisition unit cost for the program or subprogram and the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program or subprogram, multiplied by the quantity of items to be purchased under the program or subprogram, as reported in the final Selected Acquisition Report for the fiscal year in accordance with section 2432 of title 10, United States Code.
 
-&emsp;"(2) Cost overruns or underruns for covered major defense acquisition programs that are joint programs of more than one military department shall be allocated among the military departments in percentages determined by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;"(2) Cost overruns or underruns for covered major defense acquisition programs that are joint programs of more than one military department shall be allocated among the military departments in percentagesdetermined by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 &emsp;"(3) The cumulative amount of cost overruns for a military department in a fiscal year is the sum of the cost overruns and cost underruns for all covered major defense acquisition programs of the department in the fiscal year (including cost overruns or underruns allocated to the military department in accordance with paragraph (2)).
 
@@ -284,7 +330,7 @@ Comptroller General of the United States Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 270 days after the date of the enactment of this Act, the ComptrollerGeneral of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
+In general.—Not later than 270 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate andthe House of Representatives\] a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
 
 &emsp;"(2)
 
@@ -380,7 +426,7 @@ Guidance Required.—Not later than 180 days after the date of the enactment of 
 
 Elements.—The guidance issued under subsection (a) shall, at a minimum—
 
-&emsp;"(1) require the use of manufacturing readiness levels or other manufacturing readiness standards as a basis for measuring, assessing, reporting, and communicating manufacturing readiness and risk on major defense acquisition programs throughout the Department of Defense;
+&emsp;"(1) require the use of manufacturing readiness levels or other manufacturing readiness standards as abasis for measuring, assessing, reporting, and communicating manufacturing readiness and risk on major defense acquisition programs throughout the Department of Defense;
 
 &emsp;"(2) provide guidance on the definition of manufacturing readiness levels or other manufacturing readiness standards and how manufacturing readiness levels or other manufacturing readiness standards should be used to assess manufacturing risk and readiness in major defense acquisition programs;
 
@@ -396,7 +442,7 @@ Elements.—The guidance issued under subsection (a) shall, at a minimum—
 
 Manufacturing Readiness Expertise.—The Secretary shall ensure that—
 
-&emsp;"(1) the acquisition workforce chapter of the annual strategic workforce plan required by section 115b of title 10, United States Code, includes an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce and a plan of action for addressing any gaps in such knowledge and skills; and
+&emsp;"(1) the acquisition workforce chapter of the annual strategic workforce plan required by \[former\] section 115b of title 10, United States Code, includes an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce and a plan of action for addressing any gaps in such knowledge and skills; and
 
 &emsp;"(2) the need of the Department for manufacturing readiness knowledge and skills is given appropriate consideration, comparable to the consideration given to other program management functions, as the Department identifies areas of need for funding through the Defense Acquisition Workforce Development Fund established in accordance with the requirements of section 1705 of title 10, United States Code.
 
@@ -450,9 +496,9 @@ Pub. L. 111–23, title II, §202, May 22, 2009, 123 Stat. 1720, as amended by P
 
 "(a)
 
-Acquisition Strategies To Ensure Competition.—The Secretary of Defense shall ensure that theacquisition strategy for each major defense acquisition program includes—
+Acquisition Strategies To Ensure Competition.—The Secretary of Defense shall ensure that the acquisition strategy for each major defense acquisition program includes—
 
-&emsp;"(1) measures to ensure competition, or the option of competition, at both the prime contract level and the subcontract level (at such tier or tiers as are appropriate) of such program throughout the life-cycle of such program as a means to improve contractor performance; and
+&emsp;"(1) measures to ensure competition, or the option of competition, at both the prime contract level andthe subcontract level (at such tier or tiers as are appropriate) of such program throughout the life-cycle of such program as a means to improve contractor performance; and
 
 &emsp;"(2) adequate documentation of the rationale for the selection of the subcontract tier or tiers under paragraph (1).
 
@@ -546,7 +592,7 @@ Consultation in Revision of Regulations.—
 
 &emsp;"(1)
 
-Recommendations of panel on contracting integrity.—Not later than 90 days after the date of the enactment of this Act \[May 22, 2009\], the Panel on Contracting Integrity established pursuant to section 813 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2320) \[10 U.S.C. 2304 note\] shall present recommendations to the Secretary of Defense on measuresto eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
+Recommendations of panel on contracting integrity.—Not later than 90 days after the date of the enactment of this Act \[May 22, 2009\], the Panel on Contracting Integrity established pursuant to section 813 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2320) \[10 U.S.C. 2304 note\] shall present recommendations to the Secretary of Defense on measures to eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
 
 &emsp;"(2)
 
@@ -668,7 +714,7 @@ Pub. L. 110–417, \[div. A\], title VIII, §815, Oct. 14, 2008, 122 Stat. 4530,
 
 Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue guidance requiring the preservation and storage of unique tooling associated with the production of hardware for a major defense acquisition program through the end of the service life of the end item associated with such a program. Such guidance shall—
 
-&emsp;"(1) require that the milestone decision authority approve a plan, including the identification of any contract clauses, facilities, and funding required, for the preservation and storage of such tooling prior to Milestone C approval;
+&emsp;"(1) require that the milestone decision authority approve a plan, including the identification of any contract clauses, facilities, and funding required, forthe preservation and storage of such tooling prior to Milestone C approval;
 
 &emsp;"(2) require that the milestone decision authority periodically review the plan required by paragraph (1) prior to the end of the service life of the end item, to ensure that the preservation and storage of such tooling remains adequate and in the best interest of the Department of Defense;
 
@@ -706,7 +752,7 @@ Pub. L. 110–181, div. A, title IX, §908(d), Jan. 28, 2008, 122 Stat. 278, as 
 
 &emsp;&emsp;"(A) significant cost growth or schedule slippage; and
 
-&emsp;&emsp;"(B) requirements creep (as defined in section 2547(c)(1) of title 10, United States Code); and
+&emsp;&emsp;"(B) requirements creep (as defined in section 2547(c)(1) \[now 2547(d)(1)\] of title 10, United States Code); and
 
 &emsp;"(3) ensuring that the views of the Chief of Staff on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process."
 
@@ -770,7 +816,7 @@ Guidance on Tenure and Accountability of Program Managers Before Milestone B.—
 
 "(d)
 
-Guidance on Tenure and Accountability of Program Managers After Milestone B.—Not later than 180 days after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure and accountability of program managers for the program execution period (from Milestone B approval (or Key Decision Point Bapproval in the case of a space program) until the delivery of the first production units of a program). The guidance issued pursuant to this subsection shall address, at a minimum—
+Guidance on Tenure and Accountability of Program Managers After Milestone B.—Not later than 180 days after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the qualifications, resources, responsibilities, tenure and accountability of program managers for the program execution period (from Milestone B approval (or Key Decision Point B approval in the case of a space program) until the delivery of the first production units of a program). Theguidance issued pursuant to this subsection shall address, at a minimum—
 
 &emsp;"(1) the need for a performance agreement between a program manager and the milestone decision authority for the program, setting forth expected parameters for cost, schedule, and performance, and appropriate commitments by the program manager and the milestone decision authority to ensure that such parameters are met;
 
@@ -842,7 +888,7 @@ Projects Comprising Program.—The National Security Agency Modernization Progra
 
 &emsp;"(4) Each other project of that Agency that—
 
-&emsp;&emsp;"(A) meets either of the dollar thresholds in effect under paragraph (2) of section 2430(a) of title 10, United States Code; and
+&emsp;&emsp;"(A) meets either of the dollar thresholds in effect under paragraph (2) \[now paragraph (1)(B)\] of section 2430(a) of title 10, United States Code; and
 
 &emsp;&emsp;"(B) is determined by the Under Secretary of Defense for Acquisition, Technology, and Logistics as being a major project that is within, or properly should be within, the National Security Agency Modernization Project.
 
@@ -874,7 +920,7 @@ Pub. L. 103–337, div. A, title VIII, §815, Oct. 5, 1994, 108 Stat. 2819, prov
 
 Guidance.—Before April 1, 1995, the Secretary of Defense shall issue guidance, to apply uniformly throughout the Department of Defense, regarding—
 
-&emsp;"(1) how to achieve the purposes and intent of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) by ensuring timely compliance for major defense acquisition programs (as defined in section 2430 of title 10, United States Code) through (A) initiation of compliance efforts before development begins, (B) appropriate environmental impact analysis in support of each milestone decision, and (C) accounting for all direct, indirect, and cumulative environmental effects before proceeding toward production; and
+&emsp;"(1) how to achieve the purposes and intent of the National Environmental Policy Act of 1969 (42 U.S.C.4321 et seq.) by ensuring timely compliance for major defense acquisition programs (as defined in section 2430 of title 10, United States Code) through (A) initiation of compliance efforts before development begins, (B) appropriate environmental impact analysis in support of each milestone decision, and (C) accounting for all direct, indirect, and cumulative environmental effects before proceeding toward production; and
 
 &emsp;"(2) how to analyze, as early in the process as feasible, the life-cycle environmental costs for such major defense acquisition programs, including the materials to be used, the mode of operations and maintenance, requirements for demilitarization, and methods of disposal, after consideration of all pollution prevention opportunities and in light of all environmental mitigation measures to which the department expressly commits.
 
@@ -944,7 +990,7 @@ Commercial-derivative aircraft (cda).—
 
 &emsp;&emsp;"(B) For purposes of this paragraph, the term 'commercial-derivative aircraft' means any of the following:
 
-&emsp;&emsp;&emsp;"(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificate by the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
+&emsp;&emsp;&emsp;"(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificate by the Administrator of the Federal Aviation Administration, and that has been sold or leased foruse in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
 
 &emsp;&emsp;&emsp;"(ii) Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made to meet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
 
@@ -1107,4 +1153,6 @@ Pub. L. 111–23, §2, May 22, 2009, 123 Stat. 1704, provided that: "In this Act
 &emsp;"(2) The term 'major defense acquisition program' has the meaning given that term in section 2430 of title 10, United States Code.
 
 &emsp;"(3) The term 'major weapon system' has the meaning given that term in section 2379(d) \[probably means section 2379(f)\] of title 10, United States Code."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

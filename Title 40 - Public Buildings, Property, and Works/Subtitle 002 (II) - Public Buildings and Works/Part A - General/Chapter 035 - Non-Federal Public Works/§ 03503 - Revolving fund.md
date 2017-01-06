@@ -6,7 +6,7 @@ Establishment.—There is a revolving fund established by the Secretary of Housi
 
 (b)
 
-Authorizations.—Not more than $70,000,000 may be appropriated to the revolving fund asnecessary to carry out the purposes of this chapter.
+Authorizations.—Not more than $70,000,000 may be appropriated to the revolving fund as necessary to carry out the purposes of this chapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1168.)
 

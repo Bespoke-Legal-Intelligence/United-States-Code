@@ -12,11 +12,11 @@ Liability During Course of Education or Training.—(1) Except as provided in su
 
 &emsp;(B) The participant is dismissed from such educational institution for disciplinary reasons.
 
-&emsp;(C) The participant voluntarily terminates the course of education or training in sucheducational institution before the completion of such course of education or training.
+&emsp;(C) The participant voluntarily terminates the course of education or training in such educational institution before the completion of such course of education or training.
 
 &emsp;(D) The participant fails to become licensed to practice medicine, osteopathy, dentistry, podiatry, or optometry in a State, fails to become licensed as a registered nurse in a State, or fails to meet any applicable licensure requirement in the case of any other health-care personnel who provide either direct patient-care services or services incident to direct patient-care services, during a period of time determined under regulations prescribed by the Secretary.
 
-&emsp;(E) In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by the participant, as a Department employee.
+&emsp;(E) The participant fails to maintain employment, while enrolled in the course of training being pursued by the participant, as a Department employee.
 
 (2) Liability under this subsection is in lieu of any service obligation arising under a participant's agreement.
 
@@ -52,5 +52,9 @@ Limitation on Liability for Reductions-in-Force.—Liability shall not arise und
 
 Period for Payment of Damages.—Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the 1-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 105–368, title VIII, §802(a), Nov. 11, 1998, 112 Stat. 3355.)
+(Added Pub. L. 105–368, title VIII, §802(a), Nov. 11, 1998, 112 Stat. 3355; amended Pub. L. 114–315, title VI, §616, Dec. 16, 2016, 130 Stat. 1577.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(1)(E). Pub. L. 114–315 substituted "The" for "In the case of a participant who is a part-time student, the".
 

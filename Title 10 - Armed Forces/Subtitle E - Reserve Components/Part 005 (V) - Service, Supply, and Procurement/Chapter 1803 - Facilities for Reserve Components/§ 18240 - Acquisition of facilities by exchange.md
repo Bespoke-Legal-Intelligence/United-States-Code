@@ -44,7 +44,7 @@ Advance Notice of Proposed Exchange.—(1) When a decision is made to enter into
 
 &emsp;(E) A certification that the conveyance of the facility under the agreement is in the best interests of the United States and that the Secretary used competitive procedures to the maximum extent practicable to protect the interests of the United States.
 
-(2) The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreement made, only after the end of the 30-day period beginning on the date the report is received by the congressional defense committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+(2) The agreement described in a report prepared under paragraph (1) may be entered into,and the exchange covered by the agreement made, only after the end of the 30-day period beginning on the date the report is received by the congressional defense committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (3) Section 2662 of this title shall not apply to an exchange carried out using the authority provided by this section.
 
@@ -82,7 +82,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 212
 
 "(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority provided by this subsection. The report shall include the following:
 
-&emsp;"(A) A description of the exchange agreements under section 18240 of title 10, United States Code,that included the authority to make or accept cash equalization payments.
+&emsp;"(A) A description of the exchange agreements under section 18240 of title 10, United States Code, that included the authority to make or accept cash equalization payments.
 
 &emsp;"(B) A description of the analysis and criteria used to select such agreements for inclusion of the authority to make or accept cash equalization payments.
 

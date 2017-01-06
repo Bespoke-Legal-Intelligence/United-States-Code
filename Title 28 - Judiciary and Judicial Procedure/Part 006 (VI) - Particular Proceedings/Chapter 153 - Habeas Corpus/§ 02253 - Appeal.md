@@ -1,6 +1,6 @@
 ### §2253. Appeal
 
-(a) In a habeas corpus proceeding or a proceeding under section 2255 before a district judge,the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
+(a) In a habeas corpus proceeding or a proceeding under section 2255 before a district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
 
 (b) There shall be no right of appeal from a final order in a proceeding to test the validity of a warrant to remove to another district or place for commitment or trial a person charged with a criminal offense against the United States, or to test the validity of such person's detention pending removal proceedings.
 

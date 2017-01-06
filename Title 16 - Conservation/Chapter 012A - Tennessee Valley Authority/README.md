@@ -17,6 +17,7 @@
 | [831h.](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md) | Annual financial statement; purchases and contracts; audit by Comptroller General. |
 | 831h–1. | Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity. |
 | 831h–2. | Repealed. |
+| 831h–3. | Recreational access. |
 | [831i.](%C2%A7%2000831i%20-%20Sale%20of%20surplus%20power%3B%20preferences%3B%20experimental%20work%3B%20acquisition%20of%20existing%20electric%20facilities.md) | Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities. |
 | [831j.](%C2%A7%2000831j%20-%20Equitable%20distribution%20of%20surplus%20power%20among%20States%20and%20municipalities%3B%20improvement%20in%20production%20of%20fertilizer.md) | Equitable distribution of surplus power among States and municipalities; improvement in production of fertilizer. |
 | [831k.](%C2%A7%2000831k%20-%20Transmission%20lines%3B%20construction%20or%20lease%3B%20sale%20of%20power%20over%20other%20than%20Government%20lines%3B%20rates%20when%20sold%20for%20resale%20at%20profit.md) | Transmission lines; construction or lease; sale of power over other than Government lines; rates when sold for resale at profit. |
@@ -70,6 +71,7 @@
 - [&sect; 00831h - Annual financial statement; purchases and contracts; audit by Comptroller General](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md)
 - [&sect; 00831h&#8211;1 - Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity](%C2%A7%2000831h%E2%80%931%20-%20Operation%20of%20dams%20primarily%20for%20promotion%20of%20navigation%20and%20controlling%20floods%3B%20generation%20and%20sale%20of%20electricity.md)
 - [&sect; 00831h&#8211;2 - Repealed. Pub. L. 86&#8211;137, &sect;1, Aug. 6, 1959, 73 Stat. 280](%C2%A7%2000831h%E2%80%932%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93137%2C%20%C2%A71%2C%20Aug.%206%2C%201959%2C%2073%20Stat.%20280.md)
+- [&sect; 00831h&#8211;3 - Recreational access](%C2%A7%2000831h%E2%80%933%20-%20Recreational%20access.md)
 - [&sect; 00831i - Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities](%C2%A7%2000831i%20-%20Sale%20of%20surplus%20power%3B%20preferences%3B%20experimental%20work%3B%20acquisition%20of%20existing%20electric%20facilities.md)
 - [&sect; 00831j - Equitable distribution of surplus power among States and municipalities; improvement in production of fertilizer](%C2%A7%2000831j%20-%20Equitable%20distribution%20of%20surplus%20power%20among%20States%20and%20municipalities%3B%20improvement%20in%20production%20of%20fertilizer.md)
 - [&sect; 00831k - Transmission lines; construction or lease; sale of power over other than Government lines; rates when sold for resale at profit](%C2%A7%2000831k%20-%20Transmission%20lines%3B%20construction%20or%20lease%3B%20sale%20of%20power%20over%20other%20than%20Government%20lines%3B%20rates%20when%20sold%20for%20resale%20at%20profit.md)

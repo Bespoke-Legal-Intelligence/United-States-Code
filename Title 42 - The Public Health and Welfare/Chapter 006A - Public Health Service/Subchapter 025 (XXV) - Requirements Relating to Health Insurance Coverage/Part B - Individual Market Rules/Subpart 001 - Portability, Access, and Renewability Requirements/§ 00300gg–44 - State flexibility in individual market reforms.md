@@ -10,15 +10,15 @@
 
 &emsp;&emsp;(B) under which such coverage does not impose any preexisting condition exclusion with respect to such coverage;
 
-&emsp;&emsp;(C) under which such choice of coverage includes at least one policy form of coverage that is comparable to comprehensive health insurance coverage offered in the individual market in such State or that is comparable to a standard option of coverage availableunder the group or individual health insurance laws of such State; and
+&emsp;&emsp;(C) under which such choice of coverage includes at least one policy form of coverage that is comparable to comprehensive health insurance coverage offered in the individual market in such State or that is comparable to a standard option of coverage available under the group or individual health insurance laws of such State; and
 
 &emsp;&emsp;(D) in a State which is implementing—
 
-&emsp;&emsp;&emsp;(i) a model act described in subsection (c)(1) of this section,
+&emsp;&emsp;&emsp;(i) a model act described in subsection (c)(1),
 
-&emsp;&emsp;&emsp;(ii) a qualified high risk pool described in subsection (c)(2) of this section, or
+&emsp;&emsp;&emsp;(ii) a qualified high risk pool described in subsection (c)(2), or
 
-&emsp;&emsp;&emsp;(iii) a mechanism described in subsection (c)(3) of this section.
+&emsp;&emsp;&emsp;(iii) a mechanism described in subsection (c)(3).
 
 #### (2) Permissible forms of mechanisms
 
@@ -82,11 +82,11 @@
 
 #### (1) Adoption of NAIC models
 
-&emsp;The model act referred to in subsection (a)(1)(D)(i) of this section is the Small Employer and Individual Health Insurance Availability Model Act (adopted by the National Association of Insurance Commissioners on June 3, 1996) insofar as it applies to individual health insurance coverage or the Individual Health Insurance Portability Model Act (also adopted by such Association on such date).
+&emsp;The model act referred to in subsection (a)(1)(D)(i) is the Small Employer and Individual Health Insurance Availability Model Act (adopted by the National Association of Insurance Commissioners on June 3, 1996) insofar as it applies to individual health insurance coverage or the Individual Health Insurance Portability Model Act (also adopted by such Association on such date).
 
 #### (2) Qualified high risk pool
 
-&emsp;For purposes of subsection (a)(1)(D)(ii) of this section, a "qualified high risk pool" described in this paragraph is a high risk pool that—
+&emsp;For purposes of subsection (a)(1)(D)(ii), a "qualified high risk pool" described in this paragraph is a high risk pool that—
 
 &emsp;&emsp;(A) provides to all eligible individuals health insurance coverage (or comparable coverage) that does not impose any preexisting condition exclusion with respect to such coverage for all eligible individuals, and
 
@@ -94,7 +94,7 @@
 
 #### (3) Other mechanisms
 
-&emsp;For purposes of subsection (a)(1)(D)(iii) of this section, a mechanism described in this paragraph—
+&emsp;For purposes of subsection (a)(1)(D)(iii), a mechanism described in this paragraph—
 
 &emsp;&emsp;(A) provides for risk adjustment, risk spreading, or a risk spreading mechanism (among issuers or policies of an issuer) or otherwise provides for some financial subsidization for eligible individuals, including through assistance to participating issuers; or
 

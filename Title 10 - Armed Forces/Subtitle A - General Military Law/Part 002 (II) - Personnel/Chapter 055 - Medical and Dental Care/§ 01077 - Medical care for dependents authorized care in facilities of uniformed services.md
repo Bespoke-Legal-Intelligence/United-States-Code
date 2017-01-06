@@ -32,7 +32,7 @@
 
 &emsp;(15) Prosthetic devices, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease.
 
-&emsp;(16) A hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
+&emsp;(16) Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
 
 &emsp;(17) Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
 
@@ -48,13 +48,13 @@
 
 (2)(A) Dependents who are 12 years of age or younger and are covered by a dental plan established under section 1076a of this title may be treated by postgraduate dental residents in a dental treatment facility of the uniformed services under a graduate dental education program accredited by the American Dental Association if—
 
-&emsp;(i) treatment of pediatric dental patients is necessary in order to satisfy an accreditation standard of the American Dental Association that is applicable to such program, or training in pediatric dental care is necessary for the residents to be professionally qualified to provide dental care for dependent children accompanying members of the uniformed services outside the United States; and
+&emsp;(i) treatment of pediatric dental patients is necessary in order to satisfy an accreditationstandard of the American Dental Association that is applicable to such program, or training in pediatric dental care is necessary for the residents to be professionally qualified to provide dental care for dependent children accompanying members of the uniformed services outside the United States; and
 
 &emsp;(ii) the number of pediatric patients at such facility is insufficient to support satisfaction of the accreditation or professional requirements in pediatric dental care that apply to such program or students.
 
 (B) The total number of dependents treated in all facilities of the uniformed services under subparagraph (A) in a fiscal year may not exceed 2,000.
 
-(d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed servicesto a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
+(d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
 
 (2) In this section, the term "hospice care" means the items and services described in section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
@@ -92,7 +92,63 @@
 
 &emsp;(C) otherwise assuring the proper functioning of the equipment.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985.)
+(g) In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents of former members of the uniformed services at cost to the United States.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§713, 714(a), Dec. 23, 2016, 130 Stat. 2220.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–328, div. A, title VII, §714, Dec. 23, 2016, 130 Stat. 2220, provided that, applicable to health care provided under this chapter on or after the date that is one year after Dec. 23, 2016, this section is amended:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (3), by inserting before the period at the end the following: ", including, in accordance with subsection (g), medically necessary vitamins"; and</i>
+
+<i>(B) by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(18) In accordance with subsection (g), medically necessary food and the medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies)."; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+<i>"(h)(1) Vitamins that may be provided under subsection (a)(3) are vitamins used for the management of a covered disease or condition pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation.</i>
+
+<i>"(2) Medically necessary food that may be provided under subsection (a)(18)—</i>
+
+&emsp;<i>"(A) is food, including a low protein modified food product or an amino acid preparation product, that is—</i>
+
+&emsp;&emsp;<i>"(i) furnished pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation, for the dietary management of a covered disease or condition;</i>
+
+&emsp;&emsp;<i>"(ii) a specially formulated and processed product (as opposed to a naturally occurring foodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;</i>
+
+&emsp;&emsp;<i>"(iii) intended for the dietary management of an individual who, because of therapeutic or chronic medical needs, has limited or impaired capacity to ingest, digest, absorb, or metabolize ordinary foodstuffs or certain nutrients, or who has other special medically determined nutrient requirements, the dietary management of which cannot be achieved by the modification of the normal diet alone;</i>
+
+&emsp;&emsp;<i>"(iv) intended to be used under medical supervision, which may include in a home setting; and</i>
+
+&emsp;&emsp;<i>"(v) intended only for an individual receiving active and ongoing medical supervision under which the individual requires medical care on a recurring basis for, among other things, instructions on the use of the food; and</i>
+
+&emsp;<i>"(B) may not include—</i>
+
+&emsp;&emsp;<i>"(i) food taken as part of an overall diet designed to reduce the risk of a disease or medical condition or as weight-loss products, even if the food is recommended by a physician or other health care professional;</i>
+
+&emsp;&emsp;<i>"(ii) food marketed as gluten-free for the management of celiac disease or non-celiac gluten sensitivity;</i>
+
+&emsp;&emsp;<i>"(iii) food marketed for the management of diabetes; or</i>
+
+&emsp;&emsp;<i>"(iv) such other products as the Secretary determines appropriate.</i>
+
+<i>"(3) In this subsection, the term 'covered disease or condition' means—</i>
+
+&emsp;<i>"(A) inborn errors of metabolism;</i>
+
+&emsp;<i>"(B) medical conditions of malabsorption;</i>
+
+&emsp;<i>"(C) pathologies of the alimentary tract or the gastrointestinal tract;</i>
+
+&emsp;<i>"(D) a neurological or physiological condition; and</i>
+
+&emsp;<i>"(E) such other diseases or conditions the Secretary determines appropriate."</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -141,6 +197,16 @@ Pub. L. 96–154, title VII, §769, Dec. 21, 1979, 93 Stat. 1163.
 A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–328, §714(a)(1)(A), inserted before period at end ", including, in accordance with subsection (g), medically necessary vitamins".
+
+Subsec. (a)(16). Pub. L. 114–328, §713(1), substituted "Except as provided by subsection (g), a hearing aid" for "A hearing aid".
+
+Subsec. (a)(18). Pub. L. 114–328, §714(a)(1)(B), added par. (18).
+
+Subsec. (g). Pub. L. 114–328, §713(2), added subsec. (g).
+
+Subsec. (h). Pub. L. 114–328, §714(a)(2), added subsec. (h).
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 designated existing provisions as par. (1), substituted "Except as specified in paragraph (2), a" for "A", and added par. (2).
 
@@ -191,6 +257,10 @@ Subsec. (a)(13), (14). Pub. L. 98–525, §633(a)(2), redesignated cls. (13) and
 Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
 <b>1966</b>—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title VII, §714(b), Dec. 23, 2016, 130 Stat. 2221, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to health care provided under chapter 55 of such title \[meaning title 10, United States Code\] on or after the date that is one year after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Effective Date of 1984 Amendment
 

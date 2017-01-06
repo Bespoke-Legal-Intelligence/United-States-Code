@@ -2,7 +2,7 @@
 
 (a) Any person, agency, or other entity proposing to develop a storage or disposal facility, including a test disposal facility, for high-level radioactive wastes, non-high-level radioactive wastes including transuranium contaminated wastes, or irradiated nuclear reactor fuel, shall notify the Commission as early as possible after the commencement of planning for a particular proposed facility. The Commission shall in turn notify the Governor and the State legislature of the State of proposed situs whenever the Commission has knowledge of such proposal.
 
-(b) The Commission is authorized and directed to prepare a report on means for improving the opportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of aprogram to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) of this section within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
+(b) The Commission is authorized and directed to prepare a report on means for improving the opportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of a program to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
 
 (Pub. L. 95–601, §14, Nov. 6, 1978, 92 Stat. 2953.)
 
@@ -68,7 +68,7 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 &emsp;&emsp;"(B) The Secretary shall provide technical assistance in securing required license amendments.
 
-&emsp;&emsp;"(C) The State shall pay 10 per centum of the costs of the project, as determined by the Secretary. In determining the costs of the project, the Secretary shall consider the value of the use of the Center for the project. The State may not use Federal funds to pay its share of the cost of the project,but may use the perpetual care fund to pay such share.
+&emsp;&emsp;"(C) The State shall pay 10 per centum of the costs of the project, as determined by the Secretary. In determining the costs of the project, the Secretary shall consider the value of the use of the Center for the project. The State may not use Federal funds to pay its share of the cost of the project, but may use the perpetual care fund to pay such share.
 
 &emsp;&emsp;"(D) Submission jointly by the Department of Energy and the State of New York of an application for a licensing amendment as soon as possible with the Nuclear Regulatory Commission providing for the demonstration.
 

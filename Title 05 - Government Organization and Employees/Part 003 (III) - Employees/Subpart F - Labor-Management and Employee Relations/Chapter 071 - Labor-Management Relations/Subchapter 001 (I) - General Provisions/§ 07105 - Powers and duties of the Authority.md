@@ -52,7 +52,7 @@
 
 &emsp;(1) hold hearings;
 
-&emsp;(2) administer oaths, take the testimony or deposition of any person under oath, and issuesubpenas as provided in section 7132 of this title; and
+&emsp;(2) administer oaths, take the testimony or deposition of any person under oath, and issue subpenas as provided in section 7132 of this title; and
 
 &emsp;(3) may require an agency or a labor organization to cease and desist from violations of this chapter and require it to take any remedial action it considers appropriate to carry out the policies of this chapter.
 
@@ -61,6 +61,10 @@
 (i) In the exercise of the functions of the Authority under this title, the Authority may request from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or policy directives issued by the Office of Personnel Management in connection with any matter before the Authority.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1196.)
+
+#### Effective Date
+
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 

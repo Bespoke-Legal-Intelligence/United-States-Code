@@ -4,7 +4,7 @@
 
 When used in this subchapter, unless the context otherwise requires, the following definitions shall apply:
 
-&emsp;(1) "Assignment" includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of theassignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
+&emsp;(1) "Assignment" includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
 &emsp;(2) "Bank" means (A) a banking institution organized under the laws of the United States or a Federal savings association, as defined in section 1462(5) of title 12, (B) a member bank of the Federal Reserve System, (C) any other banking institution, savings association, as defined in section 1462(4) of title 12, or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks or savings associations, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
@@ -42,7 +42,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(19) "State" means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
-&emsp;(20) "Underwriter" means any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission. As used in this paragraph the term "issuer" shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
+&emsp;(20) "Underwriter" means any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission.As used in this paragraph the term "issuer" shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
 
 &emsp;(21) "Securities Act of 1933" \[15 U.S.C. 77a et seq.\], "Securities Exchange Act of 1934" \[15 U.S.C. 78a et seq.\], and "Trust Indenture Act of 1939" \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
 
@@ -92,7 +92,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;&emsp;&emsp;&emsp;(II) a company that has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a–53), and has not withdrawn its election.
 
-&emsp;(29) <sup>3</sup> The terms "commodity pool", "commodity pool operator", "commodity trading advisor", "major swap participant", "swap", "swap dealer", and "swap execution facility" have the same meanings as in section 1a of title 7.
+&emsp;(29) <sup>3</sup> The terms "commodity pool", "commodity pool operator", "commodity tradingadvisor", "major swap participant", "swap", "swap dealer", and "swap execution facility" have the same meanings as in section 1a of title 7.
 
 #### (b) Applicability to Federal or State government, agency, or instrumentality, or to officers, agents, or employees thereof
 
@@ -112,7 +112,7 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of Title 12 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(12), (26)(B), (30)(D)(ii)(I), is title I of act Aug.22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(12), (26)(B), (30)(D)(ii)(I), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -150,7 +150,7 @@ Subsec. (a)(27). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(4)\], added p
 
 Subsec. (a)(7). Pub. L. 106–102, §219, amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'Dealer' means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business."
 
-Subsec. (a)(11)(A). Pub. L. 106–102, §217(a), substituted "investment company, except that the term 'investment adviser' includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to a registered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall be deemed to be the investment adviser" for "investment company".
+Subsec. (a)(11)(A). Pub. L. 106–102, §217(a), substituted "investment company, except that the term 'investment adviser' includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to aregistered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall be deemed to be the investment adviser" for "investment company".
 
 Subsec. (a)(26). Pub. L. 106–102, §217(b), added par. (26).
 

@@ -10,7 +10,7 @@ The notice of the Administrator shall be deemed to be a finding under section 74
 
 #### (c) Reciprocity
 
-This section shall apply only to a foreign country which the Administrator determineshas given the United States essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country by this section.
+This section shall apply only to a foreign country which the Administrator determines has given the United States essentially the same rights with respect to the prevention or control of air pollution occurring in that country as is given that country by this section.
 
 #### (d) Recommendations
 
@@ -46,7 +46,7 @@ Subsec. (k). Pub. L. 91–604, §4(b)(3), (10), substituted provisions relating 
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–148 substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
-Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from threeweeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 90–148 redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f) and amended.
 

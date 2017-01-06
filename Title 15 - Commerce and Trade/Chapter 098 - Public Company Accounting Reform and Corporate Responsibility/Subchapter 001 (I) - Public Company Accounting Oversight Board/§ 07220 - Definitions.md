@@ -36,7 +36,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, brokers, or dealers, or dealt with in the quality control system of a particular registered public accounting firm; and
 
-&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
+&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policiesand procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers, brokers, or dealers; and
 

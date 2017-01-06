@@ -54,13 +54,13 @@ A person may not—
 
 #### (2) State adoption of plan
 
-&emsp;Each State shall adopt a contractor accreditation plan at least as stringent as the model plan developed by the Administrator under paragraph (1), within 180 days after the commencement of the first regular session of the legislature of such State which is convened following the date on which the Administrator completes development of the model plan. In the case of a school operated under the defense dependents' education system provided for under the Defense Dependents' Education Act of 1978 (20 U.S.C. 921 et seq.), the Secretary of Defense shall adopt a contractor accreditation plan at least as stringent as that model.
+&emsp;Each State shall adopt a contractor accreditation plan at least as stringent as the model plan developed by the Administrator underparagraph (1), within 180 days after the commencement of the first regular session of the legislature of such State which is convened following the date on which the Administrator completes development of the model plan. In the case of a school operated under the defense dependents' education system provided for under the Defense Dependents' Education Act of 1978 (20 U.S.C. 921 et seq.), the Secretary of Defense shall adopt a contractor accreditation plan at least as stringent as that model.
 
 #### (c) Accreditation by Administrator-approved course
 
 #### (1) Course approval
 
-&emsp;Within 180 days after October 22, 1986, the Administrator shall ensure that any Environmental Protection Agency-approved asbestos training course is consistent with the model plan (including testing requirements) developed under subsection (b). A contractor maybe accredited by taking and passing such a course.
+&emsp;Within 180 days after October 22, 1986, the Administrator shall ensure that any Environmental Protection Agency-approved asbestos training course is consistent with the model plan (including testing requirements) developed under subsection (b). A contractor may be accredited by taking and passing such a course.
 
 #### (2) Treatment of persons with previous EPA asbestos training
 

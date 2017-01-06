@@ -84,9 +84,9 @@
 
 (B) Parents or relative guardians who have been receiving adoption assistance payments or kinship guardianship assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for the payments, or eligible for the payments in a different amount.
 
-(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
+(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c), to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
-(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
+(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" meansreasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
 (B) A State's payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title.
 
@@ -118,13 +118,13 @@
 
 #### (b) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX of this chapter, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
+(1) For purposes of subchapter XIX, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
 
-(2) For purposes of division A <sup>1</sup> of subchapter XX of this chapter, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
+(2) For purposes of division A <sup>1</sup> of subchapter XX, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
 
 (3) A child described in this paragraph is any child—
 
-&emsp;(A)(i) who is a child described in subsection (a)(2) of this section, and
+&emsp;(A)(i) who is a child described in subsection (a)(2), and
 
 &emsp;(ii) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued),
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the State has determined that the child cannot or should not be returned to the home of his parents; and
 
-&emsp;&emsp;(B) the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter; or
+&emsp;&emsp;(B) the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX; or
 
 &emsp;(2) in the case of a child who is an applicable child for a fiscal year, the child shall not be considered a child with special needs unless—
 
@@ -348,11 +348,11 @@ Subsec. (a)(5). Pub. L. 99–514, §1711(a)(1), (c)(4), redesignated par. (4) as
 
 Subsec. (a)(6). Pub. L. 99–514, §1711(b), added par. (6).
 
-Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom adoption assistance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter."
+Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom adoption assistance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter."
 
 Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted "subsection (a)(2)" for "subsection (a)(1)".
 
-Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX of this chapter" after "appropriate adoptive parents without providing adoption assistance under this section".
+Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX" after "appropriate adoptive parents without providing adoption assistance under this section".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
 

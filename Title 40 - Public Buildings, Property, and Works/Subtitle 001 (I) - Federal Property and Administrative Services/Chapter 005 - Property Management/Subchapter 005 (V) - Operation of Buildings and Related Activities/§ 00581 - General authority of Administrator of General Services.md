@@ -114,7 +114,7 @@ Leasing space for commercial and other purposes.—The Administrator may lease s
 
 &emsp;(2)
 
-Occasional use of space for non-commercial purposes.—The Administrator may make available, on occasion, or lease at a rate and on terms and conditions that the Administrator considers to be in the public interest, an auditorium, meeting room, courtyard, rooftop, or lobby of a public building to a person, firm, or organization engaged in cultural, educational, or recreational activity (as defined in section 3306(a) of this title) that will not disrupt the operation of the building.
+Occasional use of space for non-commercial purposes.—The Administrator may make available, on occasion, or lease at a rateand on terms and conditions that the Administrator considers to be in the public interest, an auditorium, meeting room, courtyard, rooftop, or lobby of a public building to a person, firm, or organization engaged in cultural, educational, or recreational activity (as defined in section 3306(a) of this title) that will not disrupt the operation of the building.
 
 &emsp;(3)
 

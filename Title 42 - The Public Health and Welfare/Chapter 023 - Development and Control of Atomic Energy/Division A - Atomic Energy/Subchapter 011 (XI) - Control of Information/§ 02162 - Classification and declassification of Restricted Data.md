@@ -10,7 +10,7 @@ The Commission shall maintain a continuous review of Restricted Data and of any 
 
 #### (c) Joint determination on atomic weapons; Presidential determination on disagreement
 
-In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defensejointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
+In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
 
 #### (d) Removal from Restricted Data category
 
@@ -32,7 +32,7 @@ In the case of Restricted Data which the Commission and the Department of Defens
 
 (2) The Commission may restore to the Restricted Data category any information concerning atomic energy programs of other nations removed under paragraph (1) if the Commission and the Director of National Intelligence jointly determine that—
 
-&emsp;(A) the programmatic requirements that caused the information to be removed from the Restricted Data category are no longer applicable or have diminished;
+&emsp;(A) the programmatic requirements that caused the information to be removed fromthe Restricted Data category are no longer applicable or have diminished;
 
 &emsp;(B) the information would be more appropriately protected as Restricted Data; and
 
@@ -72,7 +72,7 @@ The Central Intelligence Agency is hereby authorized to communicate for intellig
 
 (i) by the President, pursuant to the provisions of the Act, or
 
-(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance withthe terms and conditions of the agreement for cooperation involved: <i>Provided</i>, that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
+(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided</i>, that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,7 +96,7 @@ John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Modification of Executive Order No. 11057
 
-Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

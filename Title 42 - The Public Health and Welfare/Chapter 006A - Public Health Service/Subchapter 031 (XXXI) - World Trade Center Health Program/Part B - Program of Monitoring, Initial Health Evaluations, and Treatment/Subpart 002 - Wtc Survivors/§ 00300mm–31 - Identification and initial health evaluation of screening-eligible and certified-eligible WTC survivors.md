@@ -10,7 +10,7 @@
 
 #### (i) Currently identified survivor
 
-&emsp;&emsp;&emsp;An individual, including a WTC responder, who has been identified as eligible for medical treatment and monitoring by the WTC Environmental Health Center as of January 2, 2011.
+&emsp;&emsp;&emsp;An individual, including a WTC responder, who has been identified as eligiblefor medical treatment and monitoring by the WTC Environmental Health Center as of January 2, 2011.
 
 #### (ii) Survivor who meets current eligibility criteria
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) Any person who worked as a cleanup worker or performed maintenance work in the New York City disaster area during the 4-month period described in subparagraph (B)(i) and had extensive exposure to WTC dust as a result of such work.
 
-&emsp;&emsp;&emsp;(iv) A person who was deemed eligible to receive a grant from the Lower Manhattan Development Corporation ResidentialGrant Program, who possessed a lease for a residence or purchased a residence in the New York City disaster area, and who resided in such residence during the period beginning on September 11, 2001, and ending on May 31, 2003.
+&emsp;&emsp;&emsp;(iv) A person who was deemed eligible to receive a grant from the Lower Manhattan Development Corporation Residential Grant Program, who possessed a lease for a residence or purchased a residence in the New York City disaster area, and who resided in such residence during the period beginning on September 11, 2001, and ending on May 31, 2003.
 
 &emsp;&emsp;&emsp;(v) A person whose place of employment—
 
@@ -72,7 +72,7 @@
 
 #### (aa) Currently identified survivors
 
-&emsp;&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in subparagraph (A)(i), the WTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011.
+&emsp;&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in subparagraph (A)(i), theWTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011.
 
 #### (bb) Other members
 

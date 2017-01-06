@@ -34,7 +34,7 @@ The total dollar amount of loans outstanding under this section may not exceed $
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated such sums as may be necessary for the cost of loans under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §406, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V,§5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–40, §3(f), June 30, 2003, 117 Stat. 837.)
+(Aug. 14, 1935, ch. 531, title IV, §406, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–40, §3(f), June 30, 2003, 117 Stat. 837.)
 
 #### Prior Provisions
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) accept from any source, including Federal and State agencies, funds, equipment, or supplies that are available for the construction or operation of health care or sanitation facilities; and
 
-&emsp;&emsp;(B) use those funds, equipment, and supplies to plan, design,,<sup>1</sup> construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;(B) use those funds, equipment, and supplies to plan, design,,<sup>1</sup> construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>2</sup>
 
 #### (3) Effect of receipt
 
@@ -50,11 +50,13 @@ In this section, the term "sanitation facility" means a safe and adequate water 
 
 This chapter, referred to in subsecs. (a)(1)(A), (b)(1), and (c)(1), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
 Section 311 of Pub. L. 94–437 is based on section 145 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

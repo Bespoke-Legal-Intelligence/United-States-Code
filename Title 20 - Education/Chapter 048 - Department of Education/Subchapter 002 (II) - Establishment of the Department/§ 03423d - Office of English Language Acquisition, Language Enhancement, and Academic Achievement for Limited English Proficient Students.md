@@ -12,7 +12,7 @@ There shall be, in the Department, an Office of English Language Acquisition, La
 
 #### (2) Organization
 
-&emsp;The Office shall be organized as the Director determines to be appropriate in order to carryout such functions and responsibilities effectively.
+&emsp;The Office shall be organized as the Director determines to be appropriate in order to carry out such functions and responsibilities effectively.
 
 #### (3) Inclusion
 

@@ -76,7 +76,7 @@ In subsection (d), the words "House Administration" are substituted for "House O
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed bymaking the insertion before "Resources of the House", to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of "Natural" before "Resources", was executed by making the insertion before "Resources of the House", to reflect the probable intent of Congress.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted "work solely commemorating a limited military engagement" for "work commemorating a lesser conflict" and "such war or conflict" for "the event".
 
@@ -121,6 +121,8 @@ Gold Star Mothers Commemorative Work.—Pub. L. 112–239, div. B, title XXVIII,
 Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct. 24, 1992, 106 Stat. 3273; Pub. L. 104–333, div. I, title V, §514, Nov. 12, 1996, 110 Stat. 4165.
 
 Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, §101(f) \[title II, §§1, 2\], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, §8122, Oct. 17, 1998, 112 Stat. 2332.
+
+Korean War Veterans Memorial Wall of Remembrance.—Pub. L. 114–230, Oct. 7, 2016, 130 Stat. 947.
 
 Lincoln Memorial, "I Have a Dream Speech" Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, §4, Oct. 21, 2004, 118 Stat. 1395.
 

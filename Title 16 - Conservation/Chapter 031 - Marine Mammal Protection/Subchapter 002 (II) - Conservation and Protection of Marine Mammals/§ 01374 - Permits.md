@@ -58,7 +58,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) finds in concurrence with the Secretary of Agriculture, that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(ii) and is not reasonably likely to meet those requirements in the near future, or
 
-&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonablylikely to meet those requirements in the near future,
+&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonably likely to meet those requirements in the near future,
 
 > the Secretary may revoke the permit in accordance with subsection (e), seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
 
@@ -102,7 +102,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) Canada has a monitored and enforced sport hunting program consistent with the purposes of the Agreement on the Conservation of Polar Bears;
 
-&emsp;(ii) Canada has a sport hunting program based on scientifically sound quotas ensuringthe maintenance of the affected population stock at a sustainable level;
+&emsp;(ii) Canada has a sport hunting program based on scientifically sound quotas ensuring the maintenance of the affected population stock at a sustainable level;
 
 &emsp;(iii) the export and subsequent import are consistent with the provisions of the Convention on International Trade in Endangered Species of Wild Fauna and Flora and other international agreements and conventions; and
 
@@ -114,7 +114,7 @@ Any permit issued under this section shall—
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
-(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2), issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February 18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
+(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2), issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
 
 (6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
-(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
+(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B)shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
 (6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 
@@ -234,7 +234,7 @@ Subsec. (c)(5)(D). Pub. L. 105–18, §5004(2), added subpar. (D).
 
 Subsec. (h). Pub. L. 105–42 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to general permits, extension of general permit to American Tunaboat Association, and monitoring of incidental taking of marine mammals.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–238, §5(b)(1), inserted at end "Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section."
+<b>1994</b>—Subsec. (a). Pub. L. 103–238, §5(b)(1), inserted at end "Permits for the incidental taking of marine mammals in the course of commercial fishing operationsmay only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section."
 
 Subsec. (c)(1). Pub. L. 103–238, §5(b)(2)(A), struck out "and after" after "must be observed pursuant to".
 

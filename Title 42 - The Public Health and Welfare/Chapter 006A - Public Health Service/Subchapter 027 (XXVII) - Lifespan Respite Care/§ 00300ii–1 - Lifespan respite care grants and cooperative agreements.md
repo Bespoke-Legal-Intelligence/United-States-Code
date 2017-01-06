@@ -52,7 +52,7 @@ In carrying out this section, the Secretary shall work in cooperation with the N
 
 &emsp;&emsp;&emsp;(vii) how the population, including family caregivers, care recipients, and relevant public or private agencies, will participate in the planning and implementation of the proposed respite care activities;
 
-&emsp;&emsp;&emsp;(viii) how the proposed respite care activities will make use, to the maximumextent feasible, of other Federal, State, and local funds, programs, contributions, other forms of reimbursements, personnel, and facilities;
+&emsp;&emsp;&emsp;(viii) how the proposed respite care activities will make use, to the maximum extent feasible, of other Federal, State, and local funds, programs, contributions, other forms of reimbursements, personnel, and facilities;
 
 &emsp;&emsp;&emsp;(ix) respite care services available to family caregivers in the eligible State agency's State or locality, including unmet needs and how the eligible State agency's plan for use of funds will improve the coordination and distribution of respite care services for family caregivers of children and adults with special needs;
 
@@ -118,7 +118,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 #### (B) Determination of amount contributed
 
-&emsp;&emsp;Non-Federal contributions required by subparagraph (A) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;&emsp;Non-Federal contributions required by subparagraph (A) may be in cash or in kind,fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (g) Term of grants or cooperative agreements
 

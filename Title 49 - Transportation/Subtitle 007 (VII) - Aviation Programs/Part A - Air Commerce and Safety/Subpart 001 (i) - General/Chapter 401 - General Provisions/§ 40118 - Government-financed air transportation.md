@@ -6,7 +6,7 @@ Transportation by Air Carriers Holding Certificates.—A department, agency, or 
 
 &emsp;(1) the department, agency, or instrumentality—
 
-&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under which payment is made by the Government or payment is made from amounts provided for the use of the Government; or
+&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under whichpayment is made by the Government or payment is made from amounts provided for the use of the Government; or
 
 &emsp;&emsp;(B) provides the transportation to or for a foreign country or international or other organization without reimbursement;
 
@@ -96,7 +96,7 @@ In subsection (b), before clause (1), the words "government of a foreign country
 
 In subsection (c), the words "for payment for personnel or cargo transportation" are omitted as surplus.
 
-In subsection (d), the words "the limitations established by" are omitted as surplus. The words "after October 7, 1978" are omitted as executed. The words "Secretary of State" are substituted for "Department of State" because of 22:2651. The words "Director of the United States Information Agency" are substituted for "International Communication Agency" in section 706 of the Act of October 7, 1978 (Public Law 95–426, 92 Stat. 992), because of section 2 of Reorganization Plan No. 2 of 1977 (eff. July 1, 1978, 91 Stat. 1636) and section 303(b) of the United States Information Agency Authorization Act, Fiscals Year 1982 and 1983 (Public Law 97–241, 96 Stat. 291). The words "Director of the United States International Development Cooperation Agency" are substituted for "Agency for International Development (or any successor agency)" in section 706 because of section 6(a)(3) of Reorganization Plan No. 2 of 1979 (eff. October 1, 1979, 93 Stat. 1379). The words "a foreign air carrier" are substituted for "air carriers which do not hold certificates under section 1371 of this Appendix" for clarity. See H. Conf. Rept. No. 95–1535, 95th Cong., 2d Sess., p. 45 (1978).
+In subsection (d), the words "the limitations established by" are omitted as surplus. The words "after October 7, 1978" are omitted as executed. The words "Secretary of State" are substituted for "Department of State" because of 22:2651. The words "Director of the United States Information Agency" are substituted for "International Communication Agency" in section 706 of the Act of October 7, 1978 (Public Law 95–426, 92 Stat. 992), because of section 2 of Reorganization Plan No. 2 of 1977 (eff. July 1, 1978, 91 Stat. 1636) and section 303(b) of the United States Information Agency Authorization Act, Fiscals Year 1982 and 1983 (Public Law 97–241, 96 Stat. 291). The words "Director of the United States International Development Cooperation Agency" are substituted for "Agency for International Development (or any successor agency)" in section 706 because ofsection 6(a)(3) of Reorganization Plan No. 2 of 1979 (eff. October 1, 1979, 93 Stat. 1379). The words "a foreign air carrier" are substituted for "air carriers which do not hold certificates under section 1371 of this Appendix" for clarity. See H. Conf. Rept. No. 95–1535, 95th Cong., 2d Sess., p. 45 (1978).
 
 In subsection (e), the word "affect" is substituted for "prevent" for clarity. The words "to such traffic" are omitted as surplus.
 

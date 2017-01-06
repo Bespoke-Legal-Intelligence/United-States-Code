@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services and procedures in order to identify the manner in which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
 
-&emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII of this chapter are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 <sup>1</sup> of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
+&emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 <sup>1</sup> of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
 
 #### (2) Evaluations of alternative services and procedures
 
@@ -18,13 +18,13 @@
 
 &emsp;(A) In carrying out paragraph (1)(B) of this subsection, and section 299b–1(d) <sup>1</sup> of this title, the Secretary shall, by not later than January 1, 1991, assure the development of an initial set of the guidelines specified in paragraph (1)(B) that shall include not less than 3 clinical treatments or conditions that—
 
-&emsp;&emsp;(i)(I) account for a significant portion of expenditures under subchapter XVIII of this chapter; and
+&emsp;&emsp;(i)(I) account for a significant portion of expenditures under subchapter XVIII; and
 
 &emsp;&emsp;(II) have a significant variation in the frequency or the type of treatment provided; or
 
-&emsp;&emsp;(ii) otherwise meet the needs and priorities of the program under subchapter XVIII of this chapter, as set forth under subsection (b)(3) of this section.
+&emsp;&emsp;(ii) otherwise meet the needs and priorities of the program under subchapter XVIII, as set forth under subsection (b)(3).
 
-&emsp;(B)(i) The Secretary shall provide for the use of guidelines developed under subparagrah <sup>2</sup> (A) to improve the quality, effectiveness, and appropriateness of care provided under subchapter XVIII of this chapter. The Secretary shall determine the impact of such use on the quality, appropriateness, effectiveness, and cost of medical care provided under such subchapter and shall report to the Congress on such determination by not later than January 1, 1993.
+&emsp;(B)(i) The Secretary shall provide for the use of guidelines developed under subparagrah <sup>2</sup> (A) to improve the quality, effectiveness, and appropriateness of care provided under subchapter XVIII. The Secretary shall determine the impact of such use on the quality, appropriateness, effectiveness, and cost of medical care provided under such subchapter and shall report to the Congress on such determination by not later than January 1, 1993.
 
 &emsp;(ii) For the purpose of carrying out clause (i), the Secretary shall expend, from the amounts specified in clause (iii), $1,000,000 for fiscal year 1990 and $1,500,000 for each of the fiscal years 1991 and 1992.
 
@@ -38,11 +38,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supportedunder subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
+&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supported under subsection (a). In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
 
 &emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical management can benefit a significant number of individuals;
 
-&emsp;&emsp;(B) there is significant variation among physicians in the particular services and procedures utilized in making diagnoses and providing treatments or there is significant variation in the outcomes of health care services or procedures due to different patterns of diagnosis or treatment;
+&emsp;&emsp;(B) there is significant variation among physicians in the particular services andprocedures utilized in making diagnoses and providing treatments or there is significant variation in the outcomes of health care services or procedures due to different patterns of diagnosis or treatment;
 
 &emsp;&emsp;(C) the services and procedures utilized for diagnosis and treatment result in relatively substantial expenditures; and
 
@@ -60,11 +60,11 @@
 
 #### (3) Relationship with medicare program
 
-&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) <sup>1</sup> of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Centers for Medicare \& Medicaid Services.
+&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) <sup>1</sup> of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII, as set forth by the Administrator of the Centers for Medicare \& Medicaid Services.
 
 #### (c) Methodologies and criteria for evaluations
 
-For the purpose of facilitating research under subsection (a) of this section, the Secretary shall—
+For the purpose of facilitating research under subsection (a), the Secretary shall—
 
 &emsp;(1) conduct and support research with respect to the improvement of methodologies and criteria utilized in conducting research with respect to outcomes of health care services and procedures;
 
@@ -92,7 +92,7 @@ In carrying out this section, the Secretary shall develop—
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
+&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a), and for the education of providers and others in the application of such research findings and guidelines.
 
 #### (2) Cooperative educational activities
 
@@ -126,7 +126,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### (2) Specifications
 
-&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
+&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of suchamounts, are to be appropriated in the following proportions from the following trust funds:
 
 &emsp;&emsp;(A) 60 percent from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title).
 

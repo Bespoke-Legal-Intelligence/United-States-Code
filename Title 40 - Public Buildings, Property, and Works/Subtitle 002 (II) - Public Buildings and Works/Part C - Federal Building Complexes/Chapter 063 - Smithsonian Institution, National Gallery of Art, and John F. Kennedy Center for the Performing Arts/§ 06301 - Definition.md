@@ -8,7 +8,7 @@ Smithsonian institution.—The Smithsonian Institution and its grounds, which in
 
 &emsp;&emsp;(A)
 
-Smithsonian buildings and grounds on the national mall.—The Smithsonian Building, the Arts and Industries Building, the Freer Gallery of Art, the National Airand Space Museum, the National Museum of Natural History, the National Museum of American History, the National Museum of the American Indian, the Hirshhorn Museum and Sculpture Garden, the Arthur M. Sackler Gallery, the National Museum of African Art, the S. Dillon Ripley Center, and all other buildings of the Smithsonian Institution within the Mall, including the entrance walks, unloading areas, and other pertinent service roads and parking areas.
+Smithsonian buildings and grounds on the national mall.—The Smithsonian Building, the Arts and Industries Building, the Freer Gallery of Art, the National Air and Space Museum, the National Museum of Natural History, the National Museum of American History, the National Museum of the American Indian, the Hirshhorn Museum and Sculpture Garden, the Arthur M. Sackler Gallery, the National Museum of African Art, the S. Dillon Ripley Center, and all other buildings of the Smithsonian Institution within the Mall, including the entrance walks, unloading areas, and other pertinent service roads and parking areas.
 
 &emsp;&emsp;(B)
 
@@ -16,7 +16,7 @@ National zoological park.—The National Zoological Park comprising all the buil
 
 &emsp;&emsp;(C)
 
-Other smithsonian buildings and grounds.—All other buildings, service roads, walks, and other areas within the exterior boundaries of any real estate or land or interest in land (including temporary use) that the Smithsonian Institution acquires and that the Secretary of the Smithsonian Institution determines to be necessary for the adequate protection of individuals or property in the Smithsonian Institution and suitable for administration as a part of the Smithsonian Institution.
+Other smithsonian buildings and grounds.—All other buildings, service roads,walks, and other areas within the exterior boundaries of any real estate or land or interest in land (including temporary use) that the Smithsonian Institution acquires and that the Secretary of the Smithsonian Institution determines to be necessary for the adequate protection of individuals or property in the Smithsonian Institution and suitable for administration as a part of the Smithsonian Institution.
 
 &emsp;(2)
 

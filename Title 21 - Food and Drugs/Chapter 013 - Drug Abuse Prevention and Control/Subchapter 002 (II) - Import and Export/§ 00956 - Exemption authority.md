@@ -28,5 +28,5 @@ Pub. L. 105–277, div. C, title VIII, §872(b), Oct. 21, 1998, 112 Stat. 2681�
 
 #### Jurisdiction of Secretary of Health and Human Services
 
-Pub. L. 105–277, div. C, title VIII, §872(c), Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §2(c), Nov. 10, 1998, 112 Stat. 3271, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall not be construed to affect the jurisdiction of the Secretary of Health and Human Services under the Federal Food, Drug and Cosmetic Act (21 U.S.C. 301 et seq.)."
+Pub. L. 105–277, div. C, title VIII, §872(c), Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §2(c), Nov. 10, 1998, 112 Stat. 3271, provided that: "The amendment made by subsection (a) \[amending this section\] shall not be construed to affect the jurisdiction of the Secretary of Health and Human Services under the Federal Food, Drug and Cosmetic Act (21 U.S.C. 301 et seq.)."
 

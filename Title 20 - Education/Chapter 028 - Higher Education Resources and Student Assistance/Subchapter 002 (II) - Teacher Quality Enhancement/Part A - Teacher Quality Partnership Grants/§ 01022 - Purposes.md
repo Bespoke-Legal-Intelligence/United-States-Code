@@ -10,7 +10,7 @@ The purposes of this part are to—
 
 &emsp;(4) recruit highly qualified individuals, including minorities and individuals from other occupations, into the teaching force.
 
-(Pub. L. 89–329, title II, §201, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133; amended Pub. L. 114–95, title IX, §9214(c)(2), Dec. 10, 2015, 129 Stat. 2161.)
+(Pub. L. 89–329, title II, §201, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat.3133; amended Pub. L. 114–95, title IX, §9214(c)(2), Dec. 10, 2015, 129 Stat. 2161.)
 
 #### Prior Provisions
 

@@ -12,7 +12,7 @@ Each State electing to establish a water pollution control revolving fund under 
 
 #### (b) Annual Federal audits
 
-The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the Government Accountability Office, including chapter 75 of title 31.
+The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited inthe water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the Government Accountability Office, including chapter 75 of title 31.
 
 #### (c) Intended use plan
 
@@ -30,15 +30,15 @@ After providing for public comment and review, each State shall annually prepare
 
 #### (d) Annual report
 
-Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c) of this section, including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
+Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c), including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
 
 #### (e) Annual Federal oversight review
 
-The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c) of this section, each State report prepared under subsection (d) of this section, and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
+The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
 
 #### (f) Applicability of subchapter II provisions
 
-Except to the extent provided in this subchapter, the provisions of subchapter II of this chapter shall not apply to grants under this subchapter.
+Except to the extent provided in this subchapter, the provisions of subchapter II shall not apply to grants under this subchapter.
 
 (June 30, 1948, ch. 758, title VI, §606, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 25; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

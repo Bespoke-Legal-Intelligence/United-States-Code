@@ -16,7 +16,7 @@ The judges of the district courts of the United States and the United States mag
 
 Any person authorized by the Secretary to enforce this subchapter may execute any warrant or process issued by any officer or court of competent jurisdiction for the enforcement of this subchapter. Such a person so authorized may, in addition to any other authority conferred by law—
 
-&emsp;(1) with or without warrant or other process, arrest any person committing in his presenceor view a violation of this subchapter or the regulations issued thereunder;
+&emsp;(1) with or without warrant or other process, arrest any person committing in his presence or view a violation of this subchapter or the regulations issued thereunder;
 
 &emsp;(2) with a warrant or other process, or without a warrant if he has reasonable cause to believe that a vessel, other conveyance, or container subject to the jurisdiction of the United States or any person on board is in violation of any provision of this subchapter or the regulations issued thereunder, search such vessel or conveyance and arrest such person;
 
@@ -30,7 +30,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 (2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal or marine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
 
-(3)(A) Upon the assessment of a penalty pursuant to section 1375(a) of this title, all marine mammals and marine mammal products or other cargo seized in connection therewith may be proceeded against in any court of competent jurisdiction and forfeited to the Secretary for disposition by him in such manner as he deems appropriate.
+(3)(A) Upon the assessment of a penalty pursuant to section 1375(a) of this title, all marine mammals and marine mammal products or other cargo seized in connection therewith maybe proceeded against in any court of competent jurisdiction and forfeited to the Secretary for disposition by him in such manner as he deems appropriate.
 
 (B) Upon conviction for violation of section 1375(b) of this title, all marine mammals and marine mammal products seized in connection therewith shall be forfeited to the Secretary for disposition by him in such manner as he deems appropriate. Any other property or item so seized may, at the discretion of the court, be forfeited to the United States or otherwise disposed of.
 

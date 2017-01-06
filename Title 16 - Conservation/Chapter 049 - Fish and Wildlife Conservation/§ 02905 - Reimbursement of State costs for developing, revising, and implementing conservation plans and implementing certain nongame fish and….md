@@ -56,7 +56,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;&emsp;(ii) as penalties (including forfeitures) for violations of the hunting, fishing, and trapping laws of the State; or
 
-&emsp;(F) in implementing an approved conservation plan or any nongame fish and wildlife conservation action approved under section 2904(c) or (d) of this title, to the extent that—
+&emsp;(F) in implementing an approved conservation plan or any nongame fish and wildlifeconservation action approved under section 2904(c) or (d) of this title, to the extent that—
 
 &emsp;&emsp;(i) more than 10 percent of such costs are applied for purposes of conservation law enforcement under any such plan or action, and
 

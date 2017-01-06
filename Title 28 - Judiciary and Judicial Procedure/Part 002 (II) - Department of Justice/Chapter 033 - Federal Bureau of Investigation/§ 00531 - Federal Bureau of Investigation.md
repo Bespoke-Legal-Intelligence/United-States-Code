@@ -52,7 +52,7 @@ Enterprise Architecture, Agency Plans and Reports.—This section shall be carri
 
 #### Report to Congress
 
-Pub. L. 108–405, title II, §203(f), Oct. 30, 2004, 118 Stat. 2271, provided that: "If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate andthe Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change."
+Pub. L. 108–405, title II, §203(f), Oct. 30, 2004, 118 Stat. 2271, provided that: "If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate and the Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change."
 
 #### Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center
 
@@ -120,7 +120,7 @@ Report to Congress.—One year after the establishment of the CASMIRC, the Attor
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001."
 
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

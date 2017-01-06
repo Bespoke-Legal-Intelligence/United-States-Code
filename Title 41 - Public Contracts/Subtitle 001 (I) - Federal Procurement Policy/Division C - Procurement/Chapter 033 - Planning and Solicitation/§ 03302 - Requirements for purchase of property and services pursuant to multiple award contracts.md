@@ -78,9 +78,9 @@ Public Notice Requirements Related to Sole Source Task or Delivery Orders.—
 
 Public notice required.—The Federal Acquisition Regulation shall require the head of each executive agency to—
 
-&emsp;&emsp;(A) publish on FedBizOpps notice of all sole source task or delivery orders in excess of the simplified acquisition threshold that are placed against multiple award contracts not later than 14 days after the orders areplaced, except in the event of extraordinary circumstances or classified orders; and
+&emsp;&emsp;(A) publish on FedBizOpps notice of all sole source task or delivery orders in excess of the simplified acquisition threshold that are placed against multiple award contracts not later than 14 days after the orders are placed, except in the event of extraordinary circumstances or classified orders; and
 
-&emsp;&emsp;(B) disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 2304(f)(1) of title 10 and section 3304(e)(1) of this title, except in the event of extraordinary circumstances or classified orders.
+&emsp;&emsp;(B) disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplifiedacquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 2304(f)(1) of title 10 and section 3304(e)(1) of this title, except in the event of extraordinary circumstances or classified orders.
 
 &emsp;(2)
 

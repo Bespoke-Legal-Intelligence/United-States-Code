@@ -4,7 +4,7 @@
 
 From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
 
-&emsp;(1) the approximate real property taxes and assessments for local improvements which would be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
+&emsp;(1) the approximate real property taxes and assessments for local improvements whichwould be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
 
 &emsp;(2) the maintaining of municipal services at a level which will not impede the recruitment or retention of personnel essential to the Energy Research and Development Administration programs;
 
@@ -24,7 +24,7 @@ Special interim payments may be made under the provisions of this section to any
 
 #### (c) Payments for special burdens
 
-Payments made under this section shall be payments made for special burdens imposed onthe local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
+Payments made under this section shall be payments made for special burdens imposed on the local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
 
 #### (d) Recommendation for further assistance payments
 
@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 95–238, §205(a)(2), inserted provisions for applicabilit
 
 Subsec. (a)(2). Pub. L. 94–187, §601(2), substituted "Energy Research and Development Administration" for "atomic energy".
 
-Subsec. (d). Pub. L. 94–187, §601(1), (3), (6), substituted "Administrator" for "Commission", struck out "its" before "recommendations", and inserted "; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee" after "Richland School District" in parenthetical text.
+Subsec. (d). Pub. L. 94–187, §601(1), (3), (6), substituted "Administrator" for "Commission", struck out "its"before "recommendations", and inserted "; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee" after "Richland School District" in parenthetical text.
 
 Subsec. (e). Pub. L. 94–187, §601(1), (4), substituted "Administrator" for "Commission" in two places and struck out "itself" after "shall assure".
 
@@ -76,7 +76,7 @@ Environmental Restoration.—If the Secretary of Energy determines under any aut
 
 "(b)
 
-Conveyance or Transfer.—If the Secretary determines under any authority previously established bylaw that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
+Conveyance or Transfer.—If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
 
 "(c)
 
@@ -130,7 +130,7 @@ Agreement for Allocation of Parcels.—As soon as practicable after completing t
 
 "(f)
 
-Plan for Conveyance and Transfer.—(1) Not later than 90 days after the date of the submittal to the Secretary of Energy of the agreement under subsection (e), the Secretary shall submit to the congressional defense committees a plan for conveying or transferring parcels of land under this section in accordance with the allocation specified in the agreement.
+Plan for Conveyance and Transfer.—(1) Not later than 90 days after the date of the submittal to theSecretary of Energy of the agreement under subsection (e), the Secretary shall submit to the congressional defense committees a plan for conveying or transferring parcels of land under this section in accordance with the allocation specified in the agreement.
 
 "(2) The plan under paragraph (1) shall provide for the completion of the conveyance or transfer of parcels under this section not later than 9 months after the date of the submittal of the plan under that paragraph.
 
@@ -152,7 +152,7 @@ Use of Conveyed or Transferred Land.—The parcels of land conveyed or transferr
 
 Treatment of Conveyances and Transfers.—(1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the United States with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 (42 U.S.C. 2391, 2394).
 
-"(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall makeno further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
+"(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall make no further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
 
 "(j)
 

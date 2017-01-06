@@ -1,0 +1,6 @@
+### §1750d. Omitted
+
+#### Codification
+
+Section, Pub. L. 105–83, title VII, §706, Nov. 14, 1997, 111 Stat. 1626, which identified the Miccosukee Indian Reservation lands, was omitted from the Code as being of special and not general application.
+

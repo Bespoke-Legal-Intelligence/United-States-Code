@@ -112,7 +112,7 @@ Subsec. (d). Pub. L. 104–188, §1202(a), substituted "May 31, 1997. In the cas
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–227 substituted "June 30, 1992" for "December 31, 1991".
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11403(b), struck out at end "The term 'educational assistance' also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree."
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11403(b), struck out at end "The term 'educational assistance' also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of akind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree."
 
 Subsec. (d). Pub. L. 101–508, §11403(a), substituted "December 31, 1991" for "September 30, 1990".
 
@@ -208,7 +208,7 @@ Subsection (b).—The amendment made by subsection (b) \[amending this section\]
 
 Pub. L. 101–239, title VII, §7101(c), Dec. 19, 1989, 103 Stat. 2305, provided that: "The amendments made by this section \[amending this section and section 132 of this title\] shall apply to taxable years beginning after December 31, 1988."
 
-Amendment by section 7814(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in theprovision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7814(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 

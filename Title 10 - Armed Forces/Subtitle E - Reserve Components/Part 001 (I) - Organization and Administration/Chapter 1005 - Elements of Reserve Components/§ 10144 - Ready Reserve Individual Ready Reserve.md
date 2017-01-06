@@ -20,3 +20,7 @@
 
 <b>1997</b>—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date
+
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

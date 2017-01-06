@@ -22,7 +22,7 @@ After consultation with the Office of Research on Women's Health, the Director o
 
 #### (d) Exposure to DES in utero
 
-For purposes of this section, an individual shall be considered to have been exposed to DES in utero if, during the pregnancy that resulted in the birth of such individual, DES was (on or after January 1, 1938) administered to the biological mother of the individual.
+For purposes of this section, an individual shall be considered to have been exposed to DES in utero if, during the pregnancy that resulted in the birth of such individual, DES was (on orafter January 1, 1938) administered to the biological mother of the individual.
 
 (July 1, 1944, ch. 373, title IV, §403D, formerly §403A, as added Pub. L. 102–409, §2, Oct. 13, 1992, 106 Stat. 2092; amended Pub. L. 105–340, title I, §101(a), Oct. 31, 1998, 112 Stat. 3191; renumbered §403C and amended Pub. L. 109–482, title I, §§103(b)(2), 104(a)(1), Jan. 15, 2007, 120 Stat. 3687, 3689; renumbered §403D, Pub. L. 110–85, title XI, §1104(4), Sept. 27, 2007, 121 Stat. 975.)
 
@@ -38,5 +38,5 @@ Section was formerly classified to section 283a of this title prior to renumberi
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

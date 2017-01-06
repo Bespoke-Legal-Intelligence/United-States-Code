@@ -6,7 +6,7 @@ The Administrator shall—
 
 &emsp;(1) coordinate Federal energy programs and policies with such programs and policies of State governments by providing—
 
-&emsp;&emsp;(A) within sixty days of the effective date of this chapter, the Congress and State governments with a report on the manner inwhich he has organized the Administration based upon the functions delegated by the President or assigned to the Administrator by this chapter or under the authority of other Acts; and
+&emsp;&emsp;(A) within sixty days of the effective date of this chapter, the Congress and State governments with a report on the manner in which he has organized the Administration based upon the functions delegated by the President or assigned to the Administrator by this chapter or under the authority of other Acts; and
 
 &emsp;&emsp;(B) within one hundred and twenty days of the effective date of this chapter, the public, State governments, and all Members of the Congress with a report in nontechnical language which—
 

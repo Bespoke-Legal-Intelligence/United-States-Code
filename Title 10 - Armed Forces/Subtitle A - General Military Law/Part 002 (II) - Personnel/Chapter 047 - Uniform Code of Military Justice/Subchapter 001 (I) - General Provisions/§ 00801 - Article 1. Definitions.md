@@ -44,7 +44,23 @@ In this chapter:
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894.)
+
+#### Amendment of Clauses (10) and (13)
+
+<i>Pub. L. 114–328, div. E, title LI, §5101, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2894, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended as follows:</i>
+
+<i>(1) Clause (10) is amended to read as follows:</i>
+
+&emsp;<i>(10) The term "military judge" means a judge advocate designated under section 826(c) of this title (article 26(c)) who is detailed under section 826(a) or section 830a of this title (article 26(a) or 30a).</i>
+
+<i>(2) Clause (13) is amended—</i>
+
+<i>(A) in subparagraph (A), by striking "the Army or the Navy" and inserting "the Army, the Navy, or the Air Force"; and</i>
+
+<i>(B) in subparagraph (B), by striking "the Air Force or".</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -80,6 +96,12 @@ In clause (12), the words "Marine Corps" are inserted to make explicit that the 
 
 #### Amendments
 
+<b>2016</b>—Cl. (10). Pub. L. 114–328, §5101(a), amended cl. (10) generally. Prior to amendment, cl. (10) read as follows: "The term 'military judge' means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26)."
+
+Cl. (13)(A). Pub. L. 114–328, §5101(b)(1), substituted "the Army, the Navy, or the Air Force" for "the Army or the Navy".
+
+Cl. (13)(B). Pub. L. 114–328, §5101(b)(2), struck out "the Air Force or" after "an officer of".
+
 <b>2006</b>—Cl. (11). Pub. L. 109–241, §218(a)(1), struck out cl. (11) which read as follows: "The term 'law specialist' means a commissioned officer of the Coast Guard designated for special duty (law)."
 
 Cl. (13)(C). Pub. L. 109–241, §218(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "an officer of the Coast Guard who is designated as a law specialist."
@@ -103,6 +125,46 @@ Cl. (14). Pub. L. 98–209, §6(a), added cl. (14).
 Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
 <b>1966</b>—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of "Judge Advocate General" applicable to the Coast Guard when operating as a service in the Navy.
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. E, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2967, provided that:
+
+"(a)
+
+In General.—Except as otherwise provided in this division \[div. E (§§5001–5542) of Pub. L. 114–328, see Tables for classification\], the amendments made by this division \[enacting, amending, and transferring numerous sections throughout this chapter\] shall take effect on the date designated by the President, which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act \[Dec. 23, 2016\].
+
+"(b)
+
+Implementing Regulations.—The President shall prescribe regulations implementing this division and the amendments made by this division by not later than one year after the date of the enactment of this Act, except as otherwise provided in this division.
+
+"(c)
+
+Applicability.—
+
+&emsp;"(1)
+
+In general.—Subject to the provisions of this division and the amendments made by this division, the President shall prescribe in regulations whether, and to what extent, the amendments made by this division shall apply to a case in which one or more actions under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), have been taken before the effective date of such amendments.
+
+&emsp;"(2)
+
+Inapplicability to cases in which charges already referred to trial on effective date.—Except as otherwise provided in this division or the amendments made by this division, the amendments made by this division shall not apply to any case in which charges are referred to trial by court-martial before the effective date of such amendments. Proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted.
+
+&emsp;"(3)
+
+Punitive article amendments.—
+
+&emsp;&emsp;"(A)
+
+In general.—The amendments made by title LX \[§§5401–5452 of div. E of Pub. L. 114–328, enacting, amending, and transferring numerous sections within subchapter X of this chapter, see Tables for classification\] shall not apply to any offense committed before the effective date of such amendments.
+
+&emsp;&emsp;"(B)
+
+Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments.
+
+&emsp;"(4)
+
+Sentencing amendments.—The regulations prescribing the authorized punishments for any offense committed before the effective date of the amendments made by title LVIII \[§§5301–5303 of div. E of Pub. L. 114–328, amending sections 856 to 857a, 858a, 858b, and 871 of this title\] shall apply to the authorized punishments for the offense, as in effect at the time the offense is committed."
 
 #### Effective Date of 2002 Amendment
 
@@ -142,7 +204,7 @@ Act Aug. 10, 1956, ch. 1041, §51, 70A Stat. 640, provided that: "Chapter 47 of 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XI, §1101, Feb. 10, 1996, 110 Stat. 461, provided that: "This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the 'Military Justice Amendments of 1995'."
+Pub. L. 104–106, div. A, title XI, §1101, Feb. 10, 1996, 110 Stat. 461, provided that: "This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the 'Military Justice Amendments of 1995'."
 
 #### Short Title of 1986 Amendment
 
@@ -166,7 +228,7 @@ Navy law specialists redesignated judge advocates, see section 8 of Pub. L. 90�
 
 #### Savings Provision
 
-Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Judge Advocate General's Corps in Navy, see section 10 of Pub. L. 90–179, set out as a note under section 5148 of this title.
+Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Judge Advocate General's Corpsin Navy, see section 10 of Pub. L. 90–179, set out as a note under section 5148 of this title.
 
 #### Legislative Construction
 
@@ -222,7 +284,7 @@ Certification.—A certification described in this subsection is a written certi
 
 "(c)
 
-Coordination With Prohibition on Transfer to Certain Countries.—While the prohibition in section1033 \[of Pub. L. 114–92, 129 Stat. 968\] is in effect, no certification may be made under subsection (b) in connection with the transfer of an individual detained at Guantanamo to a country specified in such section.
+Coordination With Prohibition on Transfer to Certain Countries.—While the prohibition in section 1033 \[of Pub. L. 114–92, 129 Stat. 968\] is in effect, no certification may be made under subsection (b) in connection with the transfer of an individual detained at Guantanamo to a country specified in such section.
 
 "(d)
 
@@ -448,7 +510,7 @@ Elements.—The procedures for implementing this section shall include, but not 
 
 &emsp;&emsp;"(D) Procedures providing that the requirement for military custody under subsection (a)(1) does not apply when intelligence, law enforcement, or other Government officials of the United States are granted access to an individual who remains in the custody of a third country.
 
-&emsp;&emsp;"(E) Procedures providing that a certification of national security interests under subsection (a)(4) may be granted for the purpose of transferring a covered person from a third country if such a transfer is in the interest of the United States and could not otherwise be accomplished.
+&emsp;&emsp;"(E) Procedures providing that a certification of national security interests under subsection (a)(4)may be granted for the purpose of transferring a covered person from a third country if such a transfer is in the interest of the United States and could not otherwise be accomplished.
 
 "(d)
 
@@ -610,7 +672,7 @@ Limitation on delegation.—
 
 &emsp;&emsp;"(A)
 
-In general.—The waiver authority under paragraph (1) may not be delegated to any official below the level of the Deputy Secretary of Defense, except in the case of a waiver for an individual interrogation that is based on military exigencies, in which case the delegation of the waiver authority shall be done pursuant to regulations that the Secretary of Defense shall prescribe but in no instancemay the latter delegation be below the level of combatant commander of the theater in which the individual is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility within that theater.
+In general.—The waiver authority under paragraph (1) may not be delegated to any official below the level of the Deputy Secretary of Defense, except in the case of a waiver for an individual interrogation that is based on military exigencies, in which case the delegation of the waiver authority shall be done pursuant to regulations that the Secretary of Defense shall prescribe but in no instance may the latter delegation be below the level of combatant commander of the theater in which the individual is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility within that theater.
 
 &emsp;&emsp;"(B)
 
@@ -706,7 +768,7 @@ Suspensions authorized.—The Secretary may temporarily suspend the requirement 
 
 Limitation on delegation of authority.—This authority of the Secretary under this subsection may only be delegated as follows:
 
-&emsp;&emsp;"(A) In the case of the authority under paragraph (1), such authority may not be delegated below thelevel of the combatant commander of the theater in which the detention facility holding the person is located.
+&emsp;&emsp;"(A) In the case of the authority under paragraph (1), such authority may not be delegated below the level of the combatant commander of the theater in which the detention facility holding the person is located.
 
 &emsp;&emsp;"(B) In the case of the authority under paragraph (2), such authority may not be delegated below the level of the Deputy Secretary of Defense.
 
@@ -748,7 +810,7 @@ Pub. L. 111–32, title III, §319, June 24, 2009, 123 Stat. 1874, as amended by
 
 "(a)
 
-Reports Required.—Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and every 90 days thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
+Reports Required.—Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and every 90 days thereafter, the President shall submit tothe members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
 
 "(b)
 
@@ -844,7 +906,7 @@ Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, 
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committeeon Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
 &emsp;&emsp;"(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary of Defense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
 
@@ -964,7 +1026,7 @@ Required Policies.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall prescribe policies designed to ensure that all military and civilian Department of Defense personnel or contractor personnel of the Department of Defense responsible for the training of any unit of the Iraqi Security Forces provide training to such units regarding the international obligations and laws applicable to the humane treatment of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
+In general.—The Secretary of Defense shall prescribe policies designed to ensure that all military and civilian Department of Defense personnel or contractor personnel of the Department of Defense responsible for the training of any unit of the Iraqi Security Forces provide training to such units regarding the international obligations and laws applicableto the humane treatment of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
 
 &emsp;"(2)
 
@@ -993,6 +1055,8 @@ Transmittal to Congressional Committees.—Not less than 30 days after the date 
 "(d)
 
 Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section."
+
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1405(d) of Pub. L. 109–163, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637; Pub. L. 110–181, div. A, title X, §1063(d)(2), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title XVIII, §1803(b)(1), formerly §1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered §1803(b)(1) by Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
@@ -1026,7 +1090,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Designated civilian official.—The procedures submitted to Congress pursuant to paragraph (1)(A)shall ensure that the official of the Department of Defense who is designated by the President or Secretary of Defense to be the final review authority within the Department of Defense with respect to decisions of any such tribunal or board (referred to as the 'Designated Civilian Official') shall be a civilian officer of the Department of Defense holding an office to which appointments are required by law to be made by the President, by and with the advice and consent of the Senate.
+Designated civilian official.—The procedures submitted to Congress pursuant to paragraph (1)(A) shall ensure that the official of the Department of Defense who is designated by the President or Secretary of Defense to be the final review authority within the Department of Defense with respect to decisions of any such tribunal or board (referred to as the 'Designated Civilian Official') shall be a civilian officer of the Department of Defense holding an office to which appointments are required by law to be made by the President, by and with the advice and consent of the Senate.
 
 &emsp;"(3)
 
@@ -1154,7 +1218,7 @@ Army Field Manual.—
 
 &emsp;"(1)
 
-Translation.—The Secretary of Defense shall provide for the United States Army Field Manual onIntelligence Interrogation to be translated into arabic \[sic\] and any other language the Secretary determines appropriate for use by members of the Iraqi military forces.
+Translation.—The Secretary of Defense shall provide for the United States Army Field Manual on Intelligence Interrogation to be translated into arabic \[sic\] and any other language the Secretary determines appropriate for use by members of the Iraqi military forces.
 
 &emsp;"(2)
 
@@ -1318,7 +1382,7 @@ Sec. 7. <i>Relationship to Other Law and Forums.</i>
 
 &emsp;(1) military tribunals shall have exclusive jurisdiction with respect to offenses by the individual; and
 
-&emsp;(2) the individual shall not be privileged to seek any remedy or maintain any proceeding, directly or indirectly, or to have any such remedy or proceeding sought on the individual's behalf, in (i) any court of the United States, or any State thereof, (ii) any courtof any foreign nation, or (iii) any international tribunal.
+&emsp;(2) the individual shall not be privileged to seek any remedy or maintain any proceeding, directly or indirectly, or to have any such remedy or proceeding sought on the individual's behalf, in (i) any court of the United States, or any State thereof, (ii) any court of any foreign nation, or (iii) any international tribunal.
 
 (c) This order is not intended to and does not create any right, benefit, or privilege, substantive or procedural, enforceable at law or equity by any party, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
@@ -1354,7 +1418,7 @@ Section 1. <i>Definitions</i>. As used in this order:
 
 &emsp;(iv) the Convention Relative to the Protection of Civilian Persons in Time of War, August 12, 1949 (6 UST 3516).
 
-(c) "Individuals currently detained at Guantanamo" and "individuals covered by this order" mean individuals currently detained by the Department of Defense in facilities at the Guantanamo Bay Naval Base whom the Department of Defense has ever determined to be, or treated as, enemy combatants.
+(c) "Individuals currently detained at Guantanamo" and "individuals covered by this order" mean individuals currently detained by the Department of Defense in facilities at the Guantanamo Bay Naval Base whomthe Department of Defense has ever determined to be, or treated as, enemy combatants.
 
 Sec. 2. <i>Findings</i>.
 
@@ -1396,7 +1460,7 @@ Sec. 4. <i>Immediate Review of All Guantanamo Detentions.</i>
 
 (c) <i>Operation of Review</i>. The duties of the Review participants shall include the following:
 
-&emsp;(1) <i>Consolidation of Detainee Information</i>. The Attorney General shall, to the extent reasonably practicable, and in coordination with the other Review participants, assemble all information in the possession of the Federal Government that pertains to any individual currently detained at Guantanamo andthat is relevant to determining the proper disposition of any such individual. All executive branch departments and agencies shall promptly comply with any request of the Attorney General to provide information in their possession or control pertaining to any such individual. The Attorney General may seek further information relevant to the Review from any source.
+&emsp;(1) <i>Consolidation of Detainee Information</i>. The Attorney General shall, to the extent reasonably practicable, and in coordination with the other Review participants, assemble all information in the possession of the Federal Government that pertains to any individual currently detained at Guantanamo and that is relevant to determining the proper disposition of any such individual. All executive branch departments and agencies shall promptly comply with any request of the Attorney General to provide information in their possession or control pertaining to any such individual. The Attorney General may seek further information relevant to the Review from any source.
 
 &emsp;(2) <i>Determination of Transfer</i>. The Review shall determine, on a rolling basis and as promptly as possible with respect to the individuals currently detained at Guantanamo, whether it is possible to transfer or release the individuals consistent with the national security and foreign policy interests of the United States and, if so, whether and how the Secretary of Defense may effect their transfer or release. The Secretary of Defense, the Secretary of State, and, as appropriate, other Review participants shall work to effect promptly the release or transfer of all individuals for whom release or transfer is possible.
 
@@ -1452,7 +1516,7 @@ Sec. 3. <i>Periodic Review</i>. The Secretary of Defense shall coordinate a proc
 
 (6) The PRB shall conduct a hearing to consider the information described in subsection (a)(4) of this section, and other relevant information provided by the detainee or the detainee's representative or counsel, to determine whether the standard in section 2 of this order is met. The PRB shall consider the reliability of any information provided to it in making its determination.
 
-(7) The PRB shall make a prompt determination, by consensus and in writing, as to whether the detainee's continued detention is warranted under the standard in section 2 of this order. If the PRB determines that the standard is not met, the PRB shall also recommend any conditions that relate to the detainee's transfer. The PRB shall provide a written summary of any final determination in unclassified form to the detainee, in a language the detainee understands, within 30 days of the determination when practicable.
+(7) The PRB shall make a prompt determination, by consensus and in writing, as to whether the detainee'scontinued detention is warranted under the standard in section 2 of this order. If the PRB determines that the standard is not met, the PRB shall also recommend any conditions that relate to the detainee's transfer. The PRB shall provide a written summary of any final determination in unclassified form to the detainee, in a language the detainee understands, within 30 days of the determination when practicable.
 
 (8) The Secretary of Defense shall establish a secretariat to administer the PRB review and hearing process. The Director of National Intelligence shall assist in preparing the unclassified notice and the substitutes or summaries described above. Other executive departments and agencies shall assist in the process of providing the PRB with information required for the review processes detailed in this order.
 
@@ -1480,7 +1544,7 @@ Sec. 5. <i>Annual Committee Review</i>. (a) The Committee shall conduct an annua
 
 (b) After completion of the initial reviews under section 3(a) of this order, and at least once every 4 years thereafter, the Committee shall review whether a continued law of war detention policy remains consistent with the interests of the United States, including national security interests.
 
-Sec. 6. <i>Continuing Obligation of the Departments of Justice and Defense to Assess Feasibility of Prosecution</i>. As to each detainee whom the interagency review establishedby Executive Order 13492 has designated for continued law of war detention, the Attorney General and the Secretary of Defense shall continue to assess whether prosecution of the detainee is feasible and in the national security interests of the United States, and shall refer detainees for prosecution, as appropriate.
+Sec. 6. <i>Continuing Obligation of the Departments of Justice and Defense to Assess Feasibility of Prosecution</i>. As to each detainee whom the interagency review established by Executive Order 13492 has designated for continued law of war detention, the Attorney General and the Secretary of Defense shall continue to assess whether prosecution of the detainee is feasible and in the national security interests of the United States, and shall refer detainees for prosecution, as appropriate.
 
 Sec. 7. <i>Obligation of Other Departments and Agencies to Assist the Secretary of Defense</i>. All departments, agencies, entities, and officers of the United States, to the maximum extent permitted by law, shall provide the Secretary of Defense such assistance as may be requested to implement this order.
 

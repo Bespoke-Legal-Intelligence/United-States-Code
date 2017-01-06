@@ -76,7 +76,7 @@ Pub. L. 98–369, div. A, title I, §129(c)(2), July 18, 1984, 98 Stat. 660, pro
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to dispositions after June 18, 1980, in taxable years ending aftersuch date, see section 831(i) of Pub. L. 97–34, set out as a note under section 897 of this title.
+Amendment by Pub. L. 97–34 applicable to dispositions after June 18, 1980, in taxable years ending after such date, see section 831(i) of Pub. L. 97–34, set out as a note under section 897 of this title.
 
 #### Effective Date
 

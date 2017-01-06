@@ -1,0 +1,96 @@
+### §3723. STEM apprenticeship programs
+
+#### (a) In general
+
+The Secretary of Commerce may carry out a grant program to identify the need for skilled science, technology, engineering, and mathematics (referred to in this section as "STEM") workers and to expand STEM apprenticeship programs.
+
+#### (b) Eligible recipient defined
+
+In this section, the term "eligible recipient" means—
+
+&emsp;(1) a State;
+
+&emsp;(2) an Indian tribe;
+
+&emsp;(3) a city or other political subdivision of a State;
+
+&emsp;(4) an entity that—
+
+&emsp;&emsp;(A) is a nonprofit organization, an institution of higher education, a public-private partnership, a science or research park, a Federal laboratory, or an economic development organization or similar entity; and
+
+&emsp;&emsp;(B) has an application that is supported by a State, a political subdivision of a State, or a native organization; or
+
+&emsp;(5) a consortium of any of the entities described in paragraphs (1) through (5).
+
+#### (c) Needs assessment grants
+
+The Secretary of Commerce may provide a grant to an eligible recipient to conduct a needs assessment to identify—
+
+&emsp;(1) the unmet need of a region's employer base for skilled STEM workers;
+
+&emsp;(2) the potential of STEM apprenticeships to address the unmet need described in paragraph (1); and
+
+&emsp;(3) any barriers to addressing the unmet need described in paragraph (1).
+
+#### (d) Apprenticeship expansion grants
+
+The Secretary of Commerce may provide a grant to an eligible recipient that has conducted a needs assessment as described in subsection (c)(1) to develop infrastructure to expand STEM apprenticeship programs.
+
+(Pub. L. 96–480, §28, as added Pub. L. 114–329, title III, §312(e), Jan. 6, 2017, 130 Stat. 3014.)
+
+#### Developing STEM Apprenticeships
+
+Pub. L. 114–329, title III, §312(a)–(d), Jan. 6, 2017, 130 Stat. 3013, 3014, provided that:
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) The lack of data on the return on investment for United States employers using registered apprenticeships makes it difficult—
+
+&emsp;&emsp;"(A) to communicate the value of these programs to businesses; and
+
+&emsp;&emsp;"(B) to expand registered apprenticeships.
+
+&emsp;"(2) The lack of data on the value and impact of employer-provided worker training, which is likely substantial, hinders the ability of the Federal Government to formulate policy related to workforce training.
+
+&emsp;"(3) The Secretary of Commerce has initiated—
+
+&emsp;&emsp;"(A) the first study on the return on investment for United States employers using registered apprenticeships through case studies of firms in various sectors, occupations, and geographic locations to provide the business community with data on employer benefits and costs; and
+
+&emsp;&emsp;"(B) discussions with officials at relevant Federal agencies about the need to collect comprehensive data on—
+
+&emsp;&emsp;&emsp;"(i) employer-provided worker training; and
+
+&emsp;&emsp;&emsp;"(ii) existing tools that could be used to collect such data.
+
+"(b)
+
+Development of Apprenticeship Information.—The Secretary of Commerce shall continue to research the value to businesses of utilizing apprenticeship programs, including—
+
+&emsp;"(1) evidence of return on investment of apprenticeships, including estimates for the average time it takes a business to recover the costs associated with training apprentices; and
+
+&emsp;"(2) data from the United States Census Bureau and other statistical surveys on employer-provided training, including apprenticeships and other on-the-job training and industry-recognized certification programs.
+
+"(c)
+
+Dissemination of Apprenticeship Information.—The Secretary of Commerce shall disseminate findings from research on apprenticeships to businesses and other relevant stakeholders, including—
+
+&emsp;"(1) institutions of higher education;
+
+&emsp;"(2) State and local chambers of commerce; and
+
+&emsp;"(3) workforce training organizations.
+
+"(d)
+
+New Apprenticeship Program Study.—The Secretary of Commerce may collaborate with the Secretary of Labor to study approaches for reducing the cost of creating new apprenticeship programs and hosting apprentices for businesses, particularly small businesses, including—
+
+&emsp;"(1) training sharing agreements;
+
+&emsp;"(2) group training models; and
+
+&emsp;"(3) pooling resources and best practices."
+
+\[For definitions of "STEM" and "institution of higher education" as used in section 312(a)–(d) of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of Title 42, The Public Health and Welfare.\]
+

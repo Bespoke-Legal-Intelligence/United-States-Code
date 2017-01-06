@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (a) The term "person" means one or more individuals, partnerships, associations, labor organizations, corporations, business trusts, legal representatives, or any organized groups of persons.
 
-(b) The term "employer" means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
+(b) The term "employer" means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks inthe current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
 
 (c) The term "employment agency" means any person regularly undertaking with or without compensation to procure employees for an employer and includes an agent of such a person; but shall not include an agency of the United States.
 
@@ -36,7 +36,7 @@ For the purposes of this chapter—
 
 (l) The term "compensation, terms, conditions, or privileges of employment" encompasses all employee benefits, including such benefits provided pursuant to a bona fide employee benefit plan.
 
-(Pub. L. 90–202, §11, Dec. 15, 1967, 81 Stat. 605; Pub. L. 93–259, §28(a)(1)–(4), Apr. 8, 1974, 88 Stat. 74; Pub. L. 98–459, title VIII, §802(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–592, §4, Oct. 31, 1986, 100 Stat. 3343; Pub. L. 101–433, title I, §102, Oct. 16, 1990, 104 Stat. 978.)
+(Pub. L. 90–202, §11, Dec. 15, 1967, 81 Stat. 605; Pub. L. 93–259, §28(a)(1)–(4), Apr. 8, 1974, 88 Stat. 74; Pub. L. 98–459, title VIII, §802(a), Oct. 9, 1984,98 Stat. 1792; Pub. L. 99–592, §4, Oct. 31, 1986, 100 Stat. 3343; Pub. L. 101–433, title I, §102, Oct. 16, 1990, 104 Stat. 978.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 
 
 The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257,Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 

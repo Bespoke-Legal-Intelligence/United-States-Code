@@ -12,7 +12,7 @@ Field employee.—The term "field employee" means—
 
 &emsp;(2)
 
-Primary resource values.—The term "primary resource values" means resourcesthat are specifically mentioned in the enabling legislation for that field unit or other resource value recognized under Federal statute.
+Primary resource values.—The term "primary resource values" means resources that are specifically mentioned in the enabling legislation for that field unit or other resource value recognized under Federal statute.
 
 &emsp;(3)
 

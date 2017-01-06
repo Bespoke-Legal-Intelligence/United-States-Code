@@ -26,7 +26,7 @@
 
 &emsp;(2) the Secretary approves the resolution of the corporation under paragraph (1).
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 510, §4161; renumbered §7361 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–291, §3(a), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, §343(b), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, §204(a), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §801(a), (b)(1), (c), (d), May 5, 2010, 124 Stat. 1175, 1176.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 510, §4161; renumbered §7361 andamended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–291, §3(a), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, §343(b), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, §204(a), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §801(a), (b)(1), (c), (d), May 5, 2010, 124 Stat. 1175, 1176.)
 
 #### References in Text
 

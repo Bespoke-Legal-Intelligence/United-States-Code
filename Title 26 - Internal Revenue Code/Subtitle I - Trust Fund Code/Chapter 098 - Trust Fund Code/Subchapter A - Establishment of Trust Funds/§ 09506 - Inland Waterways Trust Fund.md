@@ -2,11 +2,11 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the "Inland Waterways Trust Fund", consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
+There is hereby established in the Treasury of the United States a trust fund to be known asthe "Inland Waterways Trust Fund", consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
 
 #### (b) Transfer to Trust Fund of amounts equivalent to certain taxes
 
-There are hereby appropriated to the Inland Waterways Trust Fund amounts equivalent tothe taxes received in the Treasury under section 4042 (relating to tax on fuel used in commercial transportation on inland waterways). The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).
+There are hereby appropriated to the Inland Waterways Trust Fund amounts equivalent to the taxes received in the Treasury under section 4042 (relating to tax on fuel used in commercial transportation on inland waterways). The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).
 
 #### (c) Expenditures from Trust Fund
 

@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 113–66, §3146(i)(3)(A), (C), (D), redesignated par. (2) 
 
 Pub. L. 112–239, §3131(w), redesignated subsec. (e) as (b) and struck out former subsec. (b) which related to a funding limitation in fiscal year 1998 pending submittal of annual report.
 
-Subsecs. (c) to (e). Pub. L. 112–239, §3131(w), redesignated subsec. (e) as (b) and struck out subsecs. (c) and (d). Prior to amendment, subsec. (c) was omitted and subsec. (d) related to an assessment of funding level for laboratory directed research and development.
+Subsecs. (c) to (e). Pub. L. 112–239, §3131(w), redesignated subsec. (e) as (b) and struck out subsecs. (c) and\(d). Prior to amendment, subsec. (c) was omitted and subsec. (d) related to an assessment of funding level for laboratory directed research and development.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(k)(7)(A)(iv), made technical amendment to reference in original act which appears in text as reference to section 2793(b) of this title.
 

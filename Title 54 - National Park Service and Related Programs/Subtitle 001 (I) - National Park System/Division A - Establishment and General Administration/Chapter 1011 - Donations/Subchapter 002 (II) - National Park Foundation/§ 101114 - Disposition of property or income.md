@@ -10,7 +10,7 @@ Restriction.—The National Park Foundation shall not engage in any business or 
 
 (c)
 
-Use of Services and Facilities of the Departments of the Interior and Justice.—The National Park Foundation may utilize the services and facilities of the Department of the Interior and the Department of Justice, and the services and facilities may be made available on request to the extent practicable with or without reimbursement. Amounts reimbursed to either Department shall be returned by the Department to the account from which the funds for which the reimbursement is made were drawn and may, without further appropriation, be expended for any purpose for which the account is authorized.
+Use of Services and Facilities of the Departments of the Interior and Justice.—The National Park Foundation may utilize the services and facilities of the Department of the Interior and the Department of Justice, and the services and facilities may be made available on request to the extent practicable with or without reimbursement. Amounts reimbursed to either Department shall be returned by the Department to the account from which the fundsfor which the reimbursement is made were drawn and may, without further appropriation, be expended for any purpose for which the account is authorized.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3121.)
 

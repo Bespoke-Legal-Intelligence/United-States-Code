@@ -2,11 +2,11 @@
 
 #### (a) Review of regulations
 
-Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation ofsuch regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction
 
-Except as provided in subsections (a) and (c) of this section, the United States district courts shall have exclusive original jurisdiction over all controversies arising under this Act, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the discharge or injury or damages occurred, or in which the defendant resides, may be found, has its principal office, or has appointed an agent for service of process. For the purposes of this section, the Fund shall reside in the District of Columbia.
+Except as provided in subsections (a) and (c), the United States district courts shall have exclusive original jurisdiction over all controversies arising under this Act, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the discharge or injury or damages occurred, or in which the defendant resides, may be found, has its principal office, or has appointed an agent for service of process. For the purposes of this section, the Fund shall reside in the District of Columbia.
 
 #### (c) State court jurisdiction
 
@@ -14,7 +14,7 @@ A State trial court of competent jurisdiction over claims for removal costs or d
 
 #### (d) Assessment and collection of tax
 
-The provisions of subsections (a), (b), and (c) of this section shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
+The provisions of subsections (a), (b), and (c) shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
 
 #### (e) Savings provision
 
@@ -32,7 +32,7 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 
 #### (2) Removal costs
 
-&emsp;An action for recovery of removal costs referred to in section 2702(b)(1) of this title must be commenced within 3 years after completion of the removal action. In any such action described in this subsection, the court shall enter a declaratory judgment on liability for removal costs or damages that will be binding on any subsequent action or actions to recover further removal costs or damages. Except as otherwise provided in this paragraph, an action may be commenced under this subchapter for recovery of removal costs at any time after such costs have been incurred.
+&emsp;An action for recovery of removal costs referred to in section 2702(b)(1) of this title must be commenced within 3 years after completionof the removal action. In any such action described in this subsection, the court shall enter a declaratory judgment on liability for removal costs or damages that will be binding on any subsequent action or actions to recover further removal costs or damages. Except as otherwise provided in this paragraph, an action may be commenced under this subchapter for recovery of removal costs at any time after such costs have been incurred.
 
 #### (3) Contribution
 

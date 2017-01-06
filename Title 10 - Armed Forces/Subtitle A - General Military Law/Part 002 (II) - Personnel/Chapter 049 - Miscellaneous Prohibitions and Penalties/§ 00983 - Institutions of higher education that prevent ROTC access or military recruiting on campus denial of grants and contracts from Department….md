@@ -4,7 +4,7 @@
 
 Denial of Funds for Preventing ROTC Access to Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-&emsp;(1) the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 <sup>1</sup> of this title and other applicable Federal laws) atthat institution (or any subelement of that institution); or
+&emsp;(1) the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 <sup>1</sup> of this title and other applicable Federal laws) at that institution (or any subelement of that institution); or
 
 &emsp;(2) a student at that institution (or any subelement of that institution) from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education.
 
@@ -50,7 +50,7 @@ Covered Funds.—(1) Except as provided in paragraph (2), the limitations establ
 
 Notice of Determinations.—Whenever the Secretary of Defense makes a determination under subsection (a), (b), or (c), the Secretary—
 
-&emsp;(1) shall transmit a notice of the determination to the Secretary of Education and to the head of each other department and agency the funds of which are subject to the determination; and
+&emsp;(1) shall transmit a notice of the determination to the Secretary of Education and to the head of each other department and agency thefunds of which are subject to the determination; and
 
 &emsp;(2) shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 108–375, §552(b)(2)(A), (d), in introductory provisions,
 
 Subsec. (b)(1). Pub. L. 108–375, §552(a), substituted "access to campuses" for "entry to campuses" and inserted before semicolon "in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer".
 
-Subsec. (d)(1). Pub. L. 108–375, §552(b)(1)(A)(i), (c)(1), in introductory provisions, substituted "Except as provided in paragraph (2), the" for "The" and "limitationsestablished in subsections (a) and (b) apply" for "limitation established in subsection (a) applies".
+Subsec. (d)(1). Pub. L. 108–375, §552(b)(1)(A)(i), (c)(1), in introductory provisions, substituted "Except as provided in paragraph (2), the" for "The" and "limitations established in subsections (a) and (b) apply" for "limitation established in subsection (a) applies".
 
 Subsec. (d)(1)(B). Pub. L. 108–375, §552(b)(1)(A)(ii), inserted "for any department or agency for which regular appropriations are made" after "made available".
 

@@ -100,7 +100,7 @@ In this section:
 
 #### (4) Manufactured home
 
-&emsp;The term "manufactured home" has the meaning given the term in section 3280.2 of title 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
+&emsp;The term "manufactured home" has the meaning given the term in section 3280.2 oftitle 24, Code of Federal Regulations (as in effect on the date of promulgation of regulations pursuant to subsection (d)).
 
 #### (5) Medium-density fiberboard
 
@@ -282,7 +282,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 &emsp;(6) glued laminated lumber, as specified in the standard entitled "Structural Glued Laminated Timber" and numbered ANSI A190.1–2002;
 
-&emsp;(7) prefabricated wood I-joists, as specified in the standard entitled "Standard Specification for Establishing and Monitoring Structural Capacities of Prefabricated Wood I-Joists" and numbered ASTM D 5055–05;
+&emsp;(7) prefabricated wood I-joists, as specified in the standard entitled "Standard Specificationfor Establishing and Monitoring Structural Capacities of Prefabricated Wood I-Joists" and numbered ASTM D 5055–05;
 
 &emsp;(8) finger-jointed lumber;
 
@@ -372,7 +372,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 #### (4) Import regulations
 
-&emsp;Not later than July 1, 2013, the Administrator, in coordination with the Commissioner of Customs and Border Protection and other appropriate Federal departments and agencies, shall revise regulations promulgated pursuant to section 2612 of this title as the Administrator determines to be necessary to ensure compliance with this section.
+&emsp;Not later than July 1, 2013, the Administrator, in coordination with the Commissioner of U.S. Customs and Border Protection and other appropriate Federal departments and agencies, shall revise regulations promulgated pursuant to section 2612 of this title as the Administrator determines to be necessary to ensure compliance with this section.
 
 #### (5) Successor standards and test methods
 
@@ -382,7 +382,11 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 An individual or entity that violates any requirement under this section (including any regulation promulgated pursuant to subsection (d)) shall be considered to have committed a prohibited act under section 2614 of this title.
 
-(Pub. L. 94–469, title VI, §601, as added Pub. L. 111–199, §2(a), July 7, 2010, 124 Stat. 1359.)
+(Pub. L. 94–469, title VI, §601, as added Pub. L. 111–199, §2(a), July 7, 2010, 124 Stat. 1359; amended Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs and Border Protection" in subsec. (d)(4) to reflect the probable intent of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security, which provided that on or after Feb. 24, 2016, any reference to the "Commissioner of Customs" or the "Commissioner of the Customs Service" would be deemed to be a reference to the Commissioner of U.S. Customs and Border Protection.
 
 #### Modification of Regulation
 

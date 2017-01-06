@@ -12,7 +12,7 @@
 
 #### (3) Membership
 
-&emsp;The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, and such other Federal agencies the President may designate.
+&emsp;The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management, and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, the United States Arctic Research Commission, and such other Federal agencies the President may designate.
 
 #### (4) Chairman
 
@@ -22,7 +22,7 @@
 
 #### (1) Implementation plan
 
-&emsp;Within 180 days after August 18, 1990, the Interagency Committee shall submit to Congress a plan for the implementation of the oil pollution research, development, and demonstration program established pursuant to subsection (c) of this section. The research plan shall—
+&emsp;Within 180 days after August 18, 1990, the Interagency Committee shall submit to Congress a plan for the implementation of the oil pollution research, development, and demonstration program established pursuant to subsection (c). The research plan shall—
 
 &emsp;&emsp;(A) identify agency roles and responsibilities;
 
@@ -32,13 +32,13 @@
 
 &emsp;&emsp;(D) establish research priorities and goals for oil pollution technology development related to prevention, response, mitigation, and environmental effects;
 
-&emsp;&emsp;(E) estimate the resources needed to conduct the oil pollution research and development program established pursuant to subsection (c) of this section, and timetables for completing research tasks; and
+&emsp;&emsp;(E) estimate the resources needed to conduct the oil pollution research and development program established pursuant to subsection (c), and timetables for completing research tasks; and
 
 &emsp;&emsp;(F) identify, in consultation with the States, regional oil pollution research needs and priorities for a coordinated, multidisciplinary program of research at the regional level.
 
 #### (2) Advice and guidance
 
-&emsp;The Chairman, through the Department of Transportation, shall contract with the National Academy of Sciences to—
+&emsp;The Chairman, through the department in which the Coast Guard is operating, shall contract with the National Academy of Sciences to—
 
 &emsp;&emsp;(A) provide advice and guidance in the preparation and development of the research plan; and
 
@@ -124,7 +124,7 @@
 
 #### (6) Demonstration projects
 
-&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
+&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollutionminimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
 
 #### (7) Simulated environmental testing
 
@@ -132,9 +132,9 @@
 
 #### (8) Regional research program
 
-&emsp;(A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+&emsp;(A) Consistent with the research plan in subsection (b), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
 
-&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award thegrants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
+&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
 &emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(ii) The applicant demonstrates the capability of making a significant contribution to regional research needs.
 
-&emsp;&emsp;(iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (b)(1)(F) of this section and would further the objectives of the research and development program established in this section.
+&emsp;&emsp;(iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (b)(1)(F) and would further the objectives of the research and development program established in this section.
 
 &emsp;(E) Grants provided under this paragraph shall be for a period up to 3 years, subject to annual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
 
@@ -154,11 +154,11 @@
 
 #### (9) Funding
 
-&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grants under this paragraph until the authorization for funding under section 2736(b) of this title expires.
+&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grantsunder this paragraph until the authorization for funding under section 2736(b) of this title expires.
 
 #### (10) Grants
 
-&emsp;In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b) of this section.
+&emsp;In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b).
 
 #### (11) Utilization of resources
 
@@ -166,7 +166,7 @@
 
 #### (d) International cooperation
 
-In accordance with the research plan submitted under subsection (b) of this section, the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
+In accordance with the research plan submitted under subsection (b), the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
 
 #### (e) Biennial reports
 
@@ -174,21 +174,27 @@ The Chairman of the Interagency Committee shall submit to Congress every 2 years
 
 #### (f) Funding
 
-Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8) of this section. Of such sums—
+Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8). Of such sums—
 
-&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
-&emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) of this section for fiscal years 1992, 1993, 1994, and 1995.
+&emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) for fiscal years 1992, 1993, 1994, and 1995.
 
-> All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
+> All activities authorized in this section, including subsection (c)(8), are subject to appropriations.
 
-(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(l)(3), (4), July 11, 2006, 120 Stat. 555, 568.)
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(l)(3), (4), July 11, 2006, 120 Stat. 555, 568; Pub. L. 114–120, title III, §319, Feb. 8, 2016, 130 Stat. 66.)
 
 #### References in Text
 
 This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–120, §319(a), substituted "Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management," for "Minerals Management Service" and inserted "the United States Arctic Research Commission," after "National Aeronautics and Space Administration,".
+
+Subsec. (b)(2). Pub. L. 114–120, §319(b)(1), substituted "department in which the Coast Guard is operating" for "Department of Transportation" in introductory provisions.
+
+Subsec. (c)(8)(A). Pub. L. 114–120, §319(b)(2), substituted "(2010)" for "(1989)".
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–241, §902(l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 

@@ -12,5 +12,5 @@ Title 4 of the Revised Statutes, referred to in text, was entitled "Provisions A
 
 #### Codification
 
-Section was formerly classified to section 408 of this title prior to editorial reclassification and renumbering as this section, and to section 171–1 of former Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 408 of this title prior to editorial reclassification and renumberingas this section, and to section 171–1 of former Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

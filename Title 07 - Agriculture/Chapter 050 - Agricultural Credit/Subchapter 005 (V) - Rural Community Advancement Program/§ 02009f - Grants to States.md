@@ -30,7 +30,7 @@
 
 #### (3) Source of funds
 
-&emsp;If the Secretary makes a grant under paragraph (1) before July 15 of the fiscal year, the grant shall be made from amounts allocated for the State in the accounts specified in section 2009d(c) of this title for the fiscal year, by reducing each allocated amount by the same percentage.
+&emsp;If the Secretary makes a grant under paragraph (1) before July 15 of the fiscal year, thegrant shall be made from amounts allocated for the State in the accounts specified in section 2009d(c) of this title for the fiscal year, by reducing each allocated amount by the same percentage.
 
 #### (c) Use of funds
 

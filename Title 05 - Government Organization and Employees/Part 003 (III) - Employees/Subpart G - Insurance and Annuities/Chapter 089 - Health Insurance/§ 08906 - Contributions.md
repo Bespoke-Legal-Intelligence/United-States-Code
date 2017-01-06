@@ -126,7 +126,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §§406(b), 602, 80 Stat. 298, 303.
 
-In subsection (a), the words "subsection (b) of this section", "this chapter", and "subsection (c) of this section" are substituted for "paragraph (2) of this subsection", "this Act", and "paragraph (3)", respectively, to reflect the codification of title 5, United States Code.
+In subsection (a), the words "subsection (b) of this section", "this chapter", and "subsection (c) of thissection" are substituted for "paragraph (2) of this subsection", "this Act", and "paragraph (3)", respectively, to reflect the codification of title 5, United States Code.
 
 In subsection (e)(2), the words "as defined by section 8901 of this title" are substituted for "as defined in section 2 of this Act" to reflect the codification of that section in 5 U.S.C. 8901. The words "Employees Health Benefits Fund" and "Fund" are substituted for "fund" and "fund", respectively. In the penultimate sentence, the words "will continue during nonpay status and end" are substituted for "will terminate" for clarity and on authority of 5 U.S.C. 8906(e)(1).
 
@@ -278,7 +278,7 @@ Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508,
 
 &emsp;&emsp;"(ii) for each of contract years 1997 and 1998, the subscription charges which would be derived by applying the terms of clause (i), reduced by 1 percent.
 
-"(2) The subscription charges under paragraph (1) shall be increased or decreased (as appropriate) by the average percentage by which the respective subscription charges taken into account under paragraphs (1), (3), and (4) of such section 8906(a) for that contract year increased or decreased from the subscription charges taken into account under such paragraphs (1), (3), and (4) for the preceding contract year.
+"(2) The subscription charges under paragraph (1) shall be increased or decreased (as appropriate) by theaverage percentage by which the respective subscription charges taken into account under paragraphs (1), (3), and (4) of such section 8906(a) for that contract year increased or decreased from the subscription charges taken into account under such paragraphs (1), (3), and (4) for the preceding contract year.
 
 "(b) Separate percentages shall be computed under subsection (a)(2) with respect to enrollments for self alone and enrollments for self and family, respectively.
 

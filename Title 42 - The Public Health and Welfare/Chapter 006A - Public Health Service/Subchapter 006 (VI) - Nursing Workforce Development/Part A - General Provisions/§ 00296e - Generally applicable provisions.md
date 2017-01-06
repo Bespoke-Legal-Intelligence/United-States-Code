@@ -50,11 +50,11 @@ The Secretary shall ensure that—
 
 &emsp;(2) discipline-specific workforce information is developed and analytical activities are carried out as part of—
 
-&emsp;&emsp;(A) the advanced education nursing activities under part B of this subchapter;
+&emsp;&emsp;(A) the advanced education nursing activities under part B;
 
-&emsp;&emsp;(B) the workforce diversity activities under part C of this subchapter; and
+&emsp;&emsp;(B) the workforce diversity activities under part C; and
 
-&emsp;&emsp;(C) basic nursing education and practice activities under part D of this subchapter.
+&emsp;&emsp;(C) basic nursing education and practice activities under part D.
 
 #### (g) State and regional priorities
 

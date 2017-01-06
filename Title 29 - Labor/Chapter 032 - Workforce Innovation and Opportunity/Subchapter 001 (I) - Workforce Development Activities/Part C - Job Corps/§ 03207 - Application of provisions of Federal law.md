@@ -12,7 +12,7 @@
 
 #### (3) Provisions relating to compensation to Federal employees for work injuries
 
-&emsp;For purposes of subchapter I of chapter 81 of title 5 (relating to compensation to Federalemployees for work injuries), enrollees shall be deemed to be civil employees of the Government of the United States within the meaning of the term "employee" as defined in section 8101 of title 5, and the provisions of such subchapter shall apply as specified in section 8143(a) of title 5.
+&emsp;For purposes of subchapter I of chapter 81 of title 5 (relating to compensation to Federal employees for work injuries), enrollees shall be deemed to be civil employees of the Government of the United States within the meaning of the term "employee" as defined in section 8101 of title 5, and the provisions of such subchapter shall apply as specified in section 8143(a) of title 5.
 
 #### (4) Federal tort claims provisions
 

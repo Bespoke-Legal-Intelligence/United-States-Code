@@ -1,0 +1,6 @@
+### §722. Omitted
+
+#### Codification
+
+Section, act Aug. 23, 1954, ch. 831, §2, 68 Stat. 769, which related to proclamation declaring termination of Federal trust upon conveyance of lands to the State of Texas, was omitted from the Code as being of special and not general application.
+

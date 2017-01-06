@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-The Attorney General may promulgate such guidelines, regulations, and procedures as may be necessary to carry out this subchapter, including guidelines, regulations, and procedures relating to the submission and review of applications for grants under section 3797k of this title.
+The Attorney General may promulgate such guidelines, regulations, and procedures as maybe necessary to carry out this subchapter, including guidelines, regulations, and procedures relating to the submission and review of applications for grants under section 3797k of this title.
 
 #### (b) Expenditure records
 

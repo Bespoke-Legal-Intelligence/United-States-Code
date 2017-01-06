@@ -14,7 +14,7 @@ The funds provided by appropriation or transfer from other accounts for any fisc
 
 #### (b) Delivery of commodities
 
-The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) <sup>1</sup> of this section for each school year for the school lunch program in the State, not later than September 30 of the following school year.
+The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) <sup>1</sup> for each school year for the school lunch program in the State, not later than September 30 of the following school year.
 
 #### (c) Level of commodity assistance; computation of index; calculation of total assistance to each State; emphasis on high protein foods; per meal value of donated foods
 
@@ -108,7 +108,7 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-Subsection (c) of this section, referred to in subsec. (b), was repealed and subsec. (e) was redesignated (c) by Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144.
+Subsection (c), referred to in subsec. (b), was repealed and subsec. (e) was redesignated (c) by Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144.
 
 #### Codification
 
@@ -164,7 +164,7 @@ Pub. L. 95–627, §12(a), which provided for inserting "(which may include dome
 
 Subsec. (b). Pub. L. 95–166, §5, in revising subsec. (b), changed commodity distribution program to a school year from a fiscal year basis, and among other changes, extended deadline for estimated valuation and payment to May 15 and June 15 from February 15 and March 15, and struck out provision respecting apportionment among State educational agencies on basis of meals served in all the States during the fiscal year and specific reference to regulations of the Department of Agriculture under title 7, subtitle (b), chapter II, subchapter (a), parts 210 and 220.
 
-Subsec. (e). Pub. L. 95–166, §19(a), substituted "school years" and "school year after June 30, 1975" for "fiscal years" and "fiscal year after June 30, 1975", respectively.
+Subsec. (e). Pub. L. 95–166, §19(a), substituted "school years" and "school year after June 30, 1975" for "fiscalyears" and "fiscal year after June 30, 1975", respectively.
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–105, §11(a), inserted provision prohibiting issuance of specifications in purchase of agricultural commodities and other foods unless such specifications result in significant advantages to the authorized food service programs.
 
@@ -232,7 +232,7 @@ Pub. L. 96–499, title II, §202(a), Dec. 5, 1980, 94 Stat. 2600, provided that
 
 #### Congressional Findings and Declaration of Purpose
 
-Pub. L. 93–13, §1, Mar. 30, 1973, 87 Stat. 9, provided that: "The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards establishedby law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis."
+Pub. L. 93–13, §1, Mar. 30, 1973, 87 Stat. 9, provided that: "The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards established by law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

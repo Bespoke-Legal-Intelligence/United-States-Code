@@ -268,7 +268,7 @@ For purposes of this subchapter—
 
 &emsp;Any expansion under this subsection shall take effect as provided in subsection (b).
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-589; amended Pub. L. 108–357, title II, §222(a), Oct. 22, 2004, 118 Stat. 1431; Pub. L. 109–135, title IV, §412(rr)(1), Dec. 21, 2005, 119 Stat. 2640.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–589; amended Pub. L. 108–357, title II, §222(a), Oct. 22, 2004, 118 Stat. 1431; Pub. L. 109–135, title IV, §412(rr)(1), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### References in Text
 
@@ -284,15 +284,15 @@ Section 119(b)(2) of the Housing and Community Development Act of 1974, referred
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title II, §222(b), Oct. 22, 2004, 118 Stat. 1432, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 101 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A-587\]."
+Pub. L. 108–357, title II, §222(b), Oct. 22, 2004, 118 Stat. 1432, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 101 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–587\]."
 
 #### Audit and Report
 
-Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-599, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities."
+Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities."
 
 #### Advisory Council on Community Renewal
 
-Pub. L. 106–554, §1(a)(7) \[title I, subtitle E, part II\], Dec. 21, 2000, 114 Stat. 2763, 2763A-622, as amended by Pub. L. 107–147, title IV, §417(21), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title IV, §408(b)(1), Oct. 4, 2004, 118 Stat. 1192, provided that:
+Pub. L. 106–554, §1(a)(7) \[title I, subtitle E, part II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–622, as amended by Pub. L. 107–147, title IV, §417(21), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title IV, §408(b)(1), Oct. 4, 2004, 118 Stat. 1192, provided that:
 
 #### "SEC. 151. SHORT TITLE.
 

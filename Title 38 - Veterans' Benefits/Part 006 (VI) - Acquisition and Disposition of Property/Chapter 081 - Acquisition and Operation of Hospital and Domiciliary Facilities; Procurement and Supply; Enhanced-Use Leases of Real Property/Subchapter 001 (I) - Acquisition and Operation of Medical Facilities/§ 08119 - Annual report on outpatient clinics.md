@@ -12,7 +12,7 @@ Contents of Report.—Each report required under subsection (a) shall include th
 
 &emsp;(2) A list of community-based outpatient clinics and other outpatient clinics that the Secretary opened during the fiscal year preceding the fiscal year during which the report is submitted and a list of clinics the Secretary proposes opening during the fiscal year during which the report is submitted and the subsequent fiscal year, together with the cost of activating each such clinic and the information required to be provided under paragraph (1) for each such clinic and proposed clinic.
 
-&emsp;(3) A list of proposed community-based outpatient clinics and other outpatient clinics that are, as of the date of the submission of the report, under review by the National Review Panel and a list of possible locations for future clinics identified in the Department's strategic planning process, including any identified locations in rural and underserved areas.
+&emsp;(3) A list of proposed community-based outpatient clinics and other outpatient clinics that are, as of the date of the submission of the report, under review by the National Review Panel and a list of possible locations for future clinics identified in the Department'sstrategic planning process, including any identified locations in rural and underserved areas.
 
 &emsp;(4) A prioritized list of sites of care identified by the Secretary that the Secretary could establish without carrying out construction or entering into a lease, including—
 

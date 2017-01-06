@@ -2,149 +2,17 @@
 
 #### SUBCHAPTER I—GENERAL PROVISIONS
 
-| Sec. |  |
-| :--- | ---: |
-| [441\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000441%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93277%2C%20%C2%A72%2C%20June%2017%2C%201980%2C%2094%20Stat.%20545.md) | Repealed. |
-| [442\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000442%20-%20Livestock%20loans%3B%20cash%20settlements.md) | Livestock loans; cash settlements. |
-| [443\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443%20-%20Disposition%20of%20cash%20settlements.md) | Disposition of cash settlements. |
-| [443a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443a%20-%20Conveyance%20to%20Indian%20tribes%20of%20federally%20owned%20buildings%2C%20improvements%2C%20or%20facilities%3B%20disposition%20of%20property%20by%20Indians%3B%20forfeiture%E2%80%A6.md) | Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; "Indian" defined. |
-| [443b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443b%20-%20Indian%20goods%20and%20supplies.md) | Indian goods and supplies. |
-| [443c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443c%20-%20Emergency%20plan%20for%20Indian%20safety%20and%20health.md) | Emergency plan for Indian safety and health. |
-| [443d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443d%20-%20Service%20of%20traditional%20foods%20in%20public%20facilities.md) | Service of traditional foods in public facilities. |
-| 444 to 449. | Repealed. |
+| Sec. |
+| :--- |
+| 441 to 449. Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER II—INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE
 
-|  |  |
-| :--- | ---: |
-| [450\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/%C2%A7%2000450%20-%20Congressional%20statement%20of%20findings.md) | Congressional statement of findings. |
-| [450a.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/%C2%A7%2000450a%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| 450a–1. | Tribal and Federal advisory committees. |
-| [450b.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/%C2%A7%2000450b%20-%20Definitions.md) | Definitions. |
-| [450c.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/%C2%A7%2000450c%20-%20Reporting%20and%20audit%20requirements%20for%20recipients%20of%20Federal%20financial%20assistance.md) | Reporting and audit requirements for recipients of Federal financial assistance. |
-| [450d.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/%C2%A7%2000450d%20-%20Criminal%20activities%20involving%20grants%2C%20contracts%2C%20etc.%3B%20penalties.md) | Criminal activities involving grants, contracts, etc.; penalties. |
-| [450e.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/%C2%A7%2000450e%20-%20Wage%20and%20labor%20standards.md) | Wage and labor standards. |
-| 450e–1. | Grant and cooperative agreements. |
-| 450e–2. | Use of excess funds. |
-| 450e–3. | Investment of advance payments; restrictions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part A—Indian Self-Determination
-
-|  |  |
-| :--- | ---: |
-| [450f.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450f%20-%20Self-determination%20contracts.md) | Self-determination contracts. |
-| [450g.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450g%20-%20Repealed%20or%20Transferred.%20Pub.%20L.%20100%E2%80%93472%2C%20title%20II%2C%20%C2%A7201%28b%29%281%29%2C%20Oct.%205%2C%201988%2C%20102%20Stat.%202289.md) | Repealed or Transferred. |
-| [450h.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450h%20-%20Grants%20to%20tribal%20organizations%20or%20tribes.md) | Grants to tribal organizations or tribes. |
-| [450i.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450i%20-%20Retention%20of%20Federal%20employee%20coverage%2C%20rights%20and%20benefits%20by%20employees%20of%20tribal%20organizations.md) | Retention of Federal employee coverage, rights and benefits by employees of tribal organizations. |
-| [450j.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450j%20-%20Contract%20or%20grant%20provisions%20and%20administration.md) | Contract or grant provisions and administration. |
-| 450j–1. | Contract funding and indirect costs. |
-| 450j–2. | Indian Health Service: availability of funds for Indian self-determination or self-governance contract or grant support costs. |
-| 450j–3. | Department of the Interior: availability of funds for Indian self-determination or self-governance contract or grant support costs. |
-| [450k.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| 450<i>l.</i> | Contract or grant specifications. |
-| [450m.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450m%20-%20Rescission%20of%20contract%20or%20grant%20and%20assumption%20of%20control%20of%20program%2C%20etc.%3B%20authority%3B%20grounds%3B%20procedure%3B%20correction%20of%20violation%20as%E2%80%A6.md) | Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements. |
-| 450m–1. | Contract disputes and claims. |
-| [450n.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450n%20-%20Sovereign%20immunity%20and%20trusteeship%20rights%20unaffected.md) | Sovereign immunity and trusteeship rights unaffected. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—Contracts With States
-
-|  |  |
-| :--- | ---: |
-| [451\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000451%20-%20Donations%20for%20Indians%3B%20use%20of%20gifts%3B%20annual%20report%20to%20Congress.md) | Donations for Indians; use of gifts; annual report to Congress. |
-| [452\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000452%20-%20Contracts%20for%20education%2C%20medical%20attention%2C%20relief%20and%20social%20welfare%20of%20Indians.md) | Contracts for education, medical attention, relief and social welfare of Indians. |
-| [453\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000453%20-%20Use%20of%20Government%20property%20by%20States%20and%20Territories.md) | Use of Government property by States and Territories. |
-| [454\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000454%20-%20Rules%20and%20regulations%3B%20minimum%20standards%20of%20service.md) | Rules and regulations; minimum standards of service. |
-| [455\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000455%20-%20Contracts%20for%20education%20in%20public%20schools%3B%20submission%20of%20education%20plan%20by%20contractor%20as%20prerequisite%3B%20criteria%20for%20approval%20of%20plan%20by%E2%80%A6.md) | Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students. |
-| [456\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000456%20-%20Local%20committee%20of%20Indian%20parents%20in%20school%20districts%20having%20school%20boards%20composed%20of%20non-Indian%20majority.md) | Local committee of Indian parents in school districts having school boards composed of non-Indian majority. |
-| [457\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20B%20-%20Contracts%20with%20States/%C2%A7%2000457%20-%20Reimbursement%20to%20school%20districts%20for%20educating%20non-resident%20students.md) | Reimbursement to school districts for educating non-resident students. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part C—Indian Education Assistance
-
-|  |  |
-| :--- | ---: |
-| [458\.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20C%20-%20Indian%20Education%20Assistance/%C2%A7%2000458%20-%20School%20construction%2C%20acquisition%2C%20or%20renovation%20contracts.md) | School construction, acquisition, or renovation contracts. |
-| [458a.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20C%20-%20Indian%20Education%20Assistance/%C2%A7%2000458a%20-%20General%20education%20contract%20and%20grant%20provisions%20and%20requirements%3B%20school%20district%20quality%20and%20standards%20of%20excellence.md) | General education contract and grant provisions and requirements; school district quality and standards of excellence. |
-| [458b.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20C%20-%20Indian%20Education%20Assistance/%C2%A7%2000458b%20-%20Availability%20of%20funds%20to%20agencies%2C%20institutions%2C%20and%20organizations.md) | Availability of funds to agencies, institutions, and organizations. |
-| [458c.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20C%20-%20Indian%20Education%20Assistance/%C2%A7%2000458c%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [458d.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20C%20-%20Indian%20Education%20Assistance/%C2%A7%2000458d%20-%20Eligibility%20for%20funds%20of%20tribe%20or%20tribal%20organization%20controlling%20or%20managing%20private%20schools.md) | Eligibility for funds of tribe or tribal organization controlling or managing private schools. |
-| [458e.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20C%20-%20Indian%20Education%20Assistance/%C2%A7%2000458e%20-%20Supplemental%20assistance%20to%20funds%20provided%20to%20local%20educational%20agencies.md) | Supplemental assistance to funds provided to local educational agencies. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part D—Tribal Self-Governance—Department of the Interior
-
-|  |  |
-| :--- | ---: |
-| [458aa.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458aa%20-%20Establishment.md) | Establishment. |
-| [458bb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458bb%20-%20Selection%20of%20participating%20Indian%20tribes.md) | Selection of participating Indian tribes. |
-| [458cc.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458cc%20-%20Funding%20agreements.md) | Funding agreements. |
-| [458dd.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458dd%20-%20Budget%20request.md) | Budget request. |
-| [458ee.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458ee%20-%20Reports.md) | Reports. |
-| [458ff.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458ff%20-%20Disclaimers.md) | Disclaimers. |
-| [458gg.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458gg%20-%20Regulations.md) | Regulations. |
-| [458hh.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2000458hh%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part E—Tribal Self-Governance—Indian Health Service
-
-|  |  |
-| :--- | ---: |
-| [458aaa.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20E%20-%20Tribal%20Self-Governance%E2%80%94Indian%20Health%20Service/%C2%A7%2000458aaa%20-%20Definitions.md) | Definitions. |
-| 458aaa–1. | Establishment. |
-| 458aaa–2. | Selection of participating Indian tribes. |
-| 458aaa–3. | Compacts. |
-| 458aaa–4. | Funding agreements. |
-| 458aaa–5. | General provisions. |
-| 458aaa–6. | Provisions relating to the Secretary. |
-| 458aaa–7. | Transfer of funds. |
-| 458aaa–8. | Construction projects. |
-| 458aaa–9. | Federal procurement laws and regulations. |
-| 458aaa–10. | Civil actions. |
-| 458aaa–11. | Facilitation. |
-| 458aaa–12. | Budget request. |
-| 458aaa–13. | Reports. |
-| 458aaa–14. | Disclaimers. |
-| 458aaa–15. | Application of other sections of this subchapter. |
-| 458aaa–16. | Regulations. |
-| 458aaa–17. | Appeals. |
-| 458aaa–18. | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part F—Transferred
-
 |  |
 | :--- |
-| 458bbb to 458bbb–2. Transferred. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part G—Indian Law Enforcement Foundation
-
-|  |  |
-| :--- | ---: |
-| [458ccc.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20G%20-%20Indian%20Law%20Enforcement%20Foundation/%C2%A7%2000458ccc%20-%20Definitions.md) | Definitions. |
-| 458ccc–1. | Indian Law Enforcement Foundation. |
-| 458ccc–2. | Administrative services and support. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part H—National Fund for Excellence in American Indian Education
-
-|  |  |
-| :--- | ---: |
-| [458ddd.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20H%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/%C2%A7%2000458ddd%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education.md) | National Fund for Excellence in American Indian Education. |
-| 458ddd–1. | Administrative services and support. |
-| 458ddd–2. | Definitions. |
+| 450 to 458ddd–2. Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -154,12 +22,7 @@
 
 |  |  |
 | :--- | ---: |
-| [459\.](Subchapter%20004%20%28IV%29%20-%20Conveyance%20of%20Submarginal%20Land/%C2%A7%2000459%20-%20Submarginal%20lands%20of%20United%20States%20held%20in%20trust%20for%20specified%20Indian%20tribes.md) | Submarginal lands of United States held in trust for specified Indian tribes. |
-| [459a.](Subchapter%20004%20%28IV%29%20-%20Conveyance%20of%20Submarginal%20Land/%C2%A7%2000459a%20-%20Designation%20of%20tribes.md) | Designation of tribes. |
-| [459b.](Subchapter%20004%20%28IV%29%20-%20Conveyance%20of%20Submarginal%20Land/%C2%A7%2000459b%20-%20Submarginal%20lands%20of%20United%20States%20held%20in%20trust%20for%20Stockbridge%20Munsee%20Indian%20Community.md) | Submarginal lands of United States held in trust for Stockbridge Munsee Indian Community. |
-| [459c.](Subchapter%20004%20%28IV%29%20-%20Conveyance%20of%20Submarginal%20Land/%C2%A7%2000459c%20-%20Existing%20rights%20of%20possession%2C%20contract%2C%20interest%2C%20etc.md) | Existing rights of possession, contract, interest, etc. |
-| [459d.](Subchapter%20004%20%28IV%29%20-%20Conveyance%20of%20Submarginal%20Land/%C2%A7%2000459d%20-%20Gross%20receipts%20from%20conveyed%20lands.md) | Gross receipts from conveyed lands. |
-| [459e.](Subchapter%20004%20%28IV%29%20-%20Conveyance%20of%20Submarginal%20Land/%C2%A7%2000459e%20-%20Tax%20exemption%20for%20conveyed%20lands%20and%20gross%20receipts%3B%20distribution%20of%20gross%20receipts%20to%20tribal%20members.md) | Tax exemption for conveyed lands and gross receipts; distribution of gross receipts to tribal members. |
+| 459 to 459e. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -167,62 +30,7 @@
 
 |  |  |
 | :--- | ---: |
-| [461\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000461%20-%20Allotment%20of%20land%20on%20Indian%20reservations.md) | Allotment of land on Indian reservations. |
-| [462\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000462%20-%20Existing%20periods%20of%20trust%20and%20restrictions%20on%20alienation%20extended.md) | Existing periods of trust and restrictions on alienation extended. |
-| [462a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000462a%20-%20Omitted.md) | Omitted. |
-| [463\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463%20-%20Restoration%20of%20lands%20to%20tribal%20ownership.md) | Restoration of lands to tribal ownership. |
-| [463a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463a%20-%20Extension%20of%20boundaries%20of%20Papago%20Indian%20Reservation.md) | Extension of boundaries of Papago Indian Reservation. |
-| [463b.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463b%20-%20Purchase%20of%20private%20lands%3B%20limitations.md) | Purchase of private lands; limitations. |
-| [463c.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463c%20-%20Gift%20of%20lands%20by%20Arizona.md) | Gift of lands by Arizona. |
-| [463d.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463d%20-%20Restoration%20of%20lands%20in%20Umatilla%20Indian%20Reservation%20to%20tribal%20ownership.md) | Restoration of lands in Umatilla Indian Reservation to tribal ownership. |
-| [463e.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463e%20-%20Exchanges%20of%20land.md) | Exchanges of land. |
-| [463f.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463f%20-%20Title%20to%20lands.md) | Title to lands. |
-| [463g.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463g%20-%20Use%20of%20funds%20appropriated%20under%20section%20465.md) | Use of funds appropriated under section 465. |
-| [464\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000464%20-%20Transfer%20and%20exchange%20of%20restricted%20Indian%20lands%20and%20shares%20of%20Indian%20tribes%20and%20corporations.md) | Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations. |
-| [465\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000465%20-%20Acquisition%20of%20lands%2C%20water%20rights%20or%20surface%20rights%3B%20appropriation%3B%20title%20to%20lands%3B%20tax%20exemption.md) | Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption. |
-| [465a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000465a%20-%20Receipt%20and%20purchase%20in%20trust%20by%20United%20States%20of%20land%20for%20Klamath%20Tribe%20Indians.md) | Receipt and purchase in trust by United States of land for Klamath Tribe Indians. |
-| [465b.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000465b%20-%20Klamath%20Tribe%20of%20Indians%20defined.md) | "Klamath Tribe of Indians" defined. |
-| [466\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000466%20-%20Indian%20forestry%20units%3B%20rules%20and%20regulations.md) | Indian forestry units; rules and regulations. |
-| [467\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000467%20-%20New%20Indian%20reservations.md) | New Indian reservations. |
-| [468\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000468%20-%20Allotments%20or%20holdings%20outside%20of%20reservations.md) | Allotments or holdings outside of reservations. |
-| [469\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000469%20-%20Indian%20corporations%3B%20appropriation%20for%20organizing.md) | Indian corporations; appropriation for organizing. |
-| [470\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000470%20-%20Revolving%20fund%3B%20appropriation%20for%20loans.md) | Revolving fund; appropriation for loans. |
-| [470a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000470a%20-%20Interest%20charges%20covered%20into%20revolving%20fund.md) | Interest charges covered into revolving fund. |
-| [471\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000471%20-%20Vocational%20and%20trade%20schools%3B%20appropriation%20for%20tuition.md) | Vocational and trade schools; appropriation for tuition. |
-| [472\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000472%20-%20Standards%20for%20Indians%20appointed%20to%20Indian%20Office.md) | Standards for Indians appointed to Indian Office. |
-| [472a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000472a%20-%20Indian%20preference%20laws%20applicable%20to%20Bureau%20of%20Indian%20Affairs%20and%20Indian%20Health%20Service%20positions.md) | Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions. |
-| [473\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000473%20-%20Application%20generally.md) | Application generally. |
-| [473a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000473a%20-%20Application%20to%20Alaska.md) | Application to Alaska. |
-| [474\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000474%20-%20Continuation%20of%20allowances.md) | Continuation of allowances. |
-| [475\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000475%20-%20Claims%20or%20suits%20of%20Indian%20tribes%20against%20United%20States%3B%20rights%20unimpaired.md) | Claims or suits of Indian tribes against United States; rights unimpaired. |
-| [475a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000475a%20-%20Offsets%20of%20gratuities.md) | Offsets of gratuities. |
-| [476\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000476%20-%20Organization%20of%20Indian%20tribes%3B%20constitution%20and%20bylaws%20and%20amendment%20thereof%3B%20special%20election.md) | Organization of Indian tribes; constitution and bylaws and amendment thereof; special election. |
-| [477\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000477%20-%20Incorporation%20of%20Indian%20tribes%3B%20charter%3B%20ratification%20by%20election.md) | Incorporation of Indian tribes; charter; ratification by election. |
-| [478\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000478%20-%20Acceptance%20optional.md) | Acceptance optional. |
-| 478–1. | Mandatory application of sections 462 and 477. |
-| [478a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000478a%20-%20Procedure.md) | Procedure. |
-| [478b.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000478b%20-%20Application%20of%20laws%20and%20treaties.md) | Application of laws and treaties. |
-| [479\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000479%20-%20Definitions.md) | Definitions. |
-| [479a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000479a%20-%20Definitions.md) | Definitions. |
-| 479a–1. | Publication of list of recognized tribes. |
-| [480\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000480%20-%20Indians%20eligible%20for%20loans.md) | Indians eligible for loans. |
-| [481\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000481%20-%20Omitted.md) | Omitted. |
-| [482\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000482%20-%20Revolving%20fund%3B%20loans%3B%20regulations.md) | Revolving fund; loans; regulations. |
-| [483\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000483%20-%20Sale%20of%20land%20by%20individual%20Indian%20owners.md) | Sale of land by individual Indian owners. |
-| [483a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000483a%20-%20Mortgages%20and%20deeds%20of%20trust%20by%20individual%20Indian%20owners%3B%20removal%20from%20trust%20or%20restricted%20status%3B%20application%20to%20Secretary.md) | Mortgages and deeds of trust by individual Indian owners; removal from trust or restricted status; application to Secretary. |
-| [484\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000484%20-%20Conversion%20of%20exchange%20assignments%20of%20tribal%20lands%20on%20certain%20Sioux%20reservations%20into%20trust%20titles%3B%20trust%20and%20tax%20exemption.md) | Conversion of exchange assignments of tribal lands on certain Sioux reservations into trust titles; trust and tax exemption. |
-| [485\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000485%20-%20Payment%20to%20assignment%20holders%20of%20moneys%20collected%20for%20use%20of%20subsurface%20rights.md) | Payment to assignment holders of moneys collected for use of subsurface rights. |
-| [486\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000486%20-%20Regulations.md) | Regulations. |
-| [487\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000487%20-%20Spokane%20Indian%20Reservation%3B%20consolidations%20of%20land.md) | Spokane Indian Reservation; consolidations of land. |
-| [488\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000488%20-%20Loans%20to%20purchasers%20of%20highly%20fractioned%20land.md) | Loans to purchasers of highly fractioned land. |
-| [488a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000488a%20-%20Removal%20of%20duplicative%20appraisals.md) | Removal of duplicative appraisals. |
-| [489\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000489%20-%20Title%20in%20trust%20to%20United%20States.md) | Title in trust to United States. |
-| [490\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000490%20-%20Tribal%20rights%20and%20privileges%20in%20connection%20with%20loans.md) | Tribal rights and privileges in connection with loans. |
-| [491\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000491%20-%20Mortgaged%20property%20governed%20by%20State%20law.md) | Mortgaged property governed by State law. |
-| [492\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000492%20-%20Interest%20rates%20and%20taxes.md) | Interest rates and taxes. |
-| [493\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000493%20-%20Reduction%20of%20unpaid%20principal.md) | Reduction of unpaid principal. |
-| [494\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000494%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [494a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000494a%20-%20Certification%20of%20rental%20proceeds.md) | Certification of rental proceeds. |
+| 461 to 494a. | Transferred or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -230,8 +38,7 @@
 
 |  |  |
 | :--- | ---: |
-| [495\.](Subchapter%20006%20%28VI%29%20-%20Indians%20of%20Alaska/%C2%A7%2000495%20-%20Annette%20Islands%20reserved%20for%20Metlakahtla%20Indians.md) | Annette Islands reserved for Metlakahtla Indians. |
-| 496, 497. | Repealed. |
+| 495 to 497. | Repealed or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -239,21 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| [500\.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500%20-%20Purpose.md) | Purpose. |
-| [500a.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500a%20-%20Acquisition%20of%20reindeer%20and%20other%20property.md) | Acquisition of reindeer and other property. |
-| [500b.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500b%20-%20Filing%20claim%20of%20title%20to%20reindeer%20by%20nonnatives.md) | Filing claim of title to reindeer by nonnatives. |
-| [500c.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500c%20-%20Acceptance%20of%20gifts.md) | Acceptance of gifts. |
-| [500d.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500d%20-%20Acceptance%20and%20expenditure%20of%20Federal%20funds.md) | Acceptance and expenditure of Federal funds. |
-| [500e.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500e%20-%20Revolving%20fund%3B%20moneys%20not%20to%20be%20covered%20into%20Treasury.md) | Revolving fund; moneys not to be covered into Treasury. |
-| [500f.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500f%20-%20Management%20of%20industry%20by%20Secretary%3B%20aim%20of%20management.md) | Management of industry by Secretary; aim of management. |
-| [500g.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500g%20-%20Distribution%20of%20reindeer%2C%20property%2C%20and%20profits%20to%20natives.md) | Distribution of reindeer, property, and profits to natives. |
-| [500h.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500h%20-%20Grant%20of%20administrative%20powers%20to%20organizations%20of%20natives.md) | Grant of administrative powers to organizations of natives. |
-| [500i.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500i%20-%20Alienation%20of%20reindeer%20or%20interests%3B%20penalty.md) | Alienation of reindeer or interests; penalty. |
-| [500j.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500j%20-%20Reindeer%20defined.md) | "Reindeer" defined. |
-| [500k.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| 500<i>l.</i> | Appointment of natives to administer industry. |
-| [500m.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500m%20-%20Use%20of%20public%20lands%3B%20violation.md) | Use of public lands; violation. |
-| [500n.](Subchapter%20007%20%28VII%29%20-%20Reindeer%20Industry/%C2%A7%2000500n%20-%20Natives%20of%20Alaska%20defined.md) | "Natives of Alaska" defined. |
+| 500 to 500n. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -261,16 +54,7 @@
 
 |  |  |
 | :--- | ---: |
-| [501\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000501%20-%20Acquisition%20of%20agricultural%20and%20grazing%20lands%20for%20Indians%3B%20title%20to%20lands%3B%20tax%20exemption.md) | Acquisition of agricultural and grazing lands for Indians; title to lands; tax exemption. |
-| [502\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000502%20-%20Purchase%20of%20restricted%20Indian%20lands%3B%20preference%20to%20Secretary%20of%20the%20Interior%3B%20waiver%20of%20preference.md) | Purchase of restricted Indian lands; preference to Secretary of the Interior; waiver of preference. |
-| [503\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000503%20-%20Organization%20of%20tribes%20or%20bands%3B%20constitution%3B%20charter%3B%20right%20to%20participate%20in%20revolving%20credit%20fund.md) | Organization of tribes or bands; constitution; charter; right to participate in revolving credit fund. |
-| [504\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000504%20-%20Cooperative%20associations%3B%20charter%3B%20purposes%3B%20voting%20rights.md) | Cooperative associations; charter; purposes; voting rights. |
-| [505\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000505%20-%20Amendment%20or%20revocation%20of%20charters%3B%20suits%20by%20and%20against%20associations.md) | Amendment or revocation of charters; suits by and against associations. |
-| [506\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000506%20-%20Loans%20to%20individuals%20and%20groups%3B%20appropriation.md) | Loans to individuals and groups; appropriation. |
-| [507\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000507%20-%20Availability%20and%20allocation%20of%20funds%3B%20royalties%20from%20mineral%20deposits.md) | Availability and allocation of funds; royalties from mineral deposits. |
-| [508\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000508%20-%20Application%20of%20provisions%20to%20Osage%20County.md) | Application of provisions to Osage County. |
-| [509\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000509%20-%20Rules%20and%20regulations%3B%20repeals.md) | Rules and regulations; repeals. |
-| [510\.](Subchapter%20008%20%28VIII%29%20-%20Indians%20in%20Oklahoma%20Promotion%20of%20Welfare/%C2%A7%2000510%20-%20Payment%20of%20gross%20production%20taxes%3B%20method.md) | Payment of gross production taxes; method. |
+| 501 to 510. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -278,8 +62,7 @@
 
 |  |  |
 | :--- | ---: |
-| [530\.](Subchapter%20009%20%28IX%29%20-%20Klamath%20Tribe%20Capital%20Reserve%20Fund/%C2%A7%2000530%20-%20Capital%20reserve%20fund%3B%20interest%20for%20administrative%20expenses.md) | Capital reserve fund; interest for administrative expenses. |
-| 531 to 535. | Repealed. |
+| 530 to 535. | Repealed or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -287,11 +70,7 @@
 
 |  |  |
 | :--- | ---: |
-| [541\.](Subchapter%20010%20%28X%29%20-%20Klamath%20Tribe%20Disposition%20of%20Certain%20Tribal%20Funds/%C2%A7%2000541%20-%20Creation%20of%20individual%20credits%3B%20authorized%20purchases.md) | Creation of individual credits; authorized purchases. |
-| [542\.](Subchapter%20010%20%28X%29%20-%20Klamath%20Tribe%20Disposition%20of%20Certain%20Tribal%20Funds/%C2%A7%2000542%20-%20Limitations%20on%20remainder%20of%20fund.md) | Limitations on remainder of fund. |
-| [543\.](Subchapter%20010%20%28X%29%20-%20Klamath%20Tribe%20Disposition%20of%20Certain%20Tribal%20Funds/%C2%A7%2000543%20-%20Liability%20of%20judgment%20funds%20for%20debts.md) | Liability of judgment funds for debts. |
-| [544\.](Subchapter%20010%20%28X%29%20-%20Klamath%20Tribe%20Disposition%20of%20Certain%20Tribal%20Funds/%C2%A7%2000544%20-%20Creation%20of%20individual%20credits%3B%20authorized%20purchases.md) | Creation of individual credits; authorized purchases. |
-| [545\.](Subchapter%20010%20%28X%29%20-%20Klamath%20Tribe%20Disposition%20of%20Certain%20Tribal%20Funds/%C2%A7%2000545%20-%20Liability%20of%20judgment%20funds%20for%20debts.md) | Liability of judgment funds for debts. |
+| 541 to 545. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -299,12 +78,7 @@
 
 |  |  |
 | :--- | ---: |
-| [551\.](Subchapter%20011%20%28XI%29%20-%20Klamath%20Tribe%20Payments%20in%20Lieu%20of%20Allotments%3B%20Inheritance%20of%20Restricted%20Property/%C2%A7%2000551%20-%20Klamath%20Tribe%20defined.md) | "Klamath Tribe" defined. |
-| [552\.](Subchapter%20011%20%28XI%29%20-%20Klamath%20Tribe%20Payments%20in%20Lieu%20of%20Allotments%3B%20Inheritance%20of%20Restricted%20Property/%C2%A7%2000552%20-%20Payments%20in%20lieu%20of%20allotments.md) | Payments in lieu of allotments. |
-| [553\.](Subchapter%20011%20%28XI%29%20-%20Klamath%20Tribe%20Payments%20in%20Lieu%20of%20Allotments%3B%20Inheritance%20of%20Restricted%20Property/%C2%A7%2000553%20-%20Deposit%20and%20expenditure%20of%20payments.md) | Deposit and expenditure of payments. |
-| [554\.](Subchapter%20011%20%28XI%29%20-%20Klamath%20Tribe%20Payments%20in%20Lieu%20of%20Allotments%3B%20Inheritance%20of%20Restricted%20Property/%C2%A7%2000554%20-%20Disposition%20of%20payment%20on%20death%20of%20Indian.md) | Disposition of payment on death of Indian. |
-| [555\.](Subchapter%20011%20%28XI%29%20-%20Klamath%20Tribe%20Payments%20in%20Lieu%20of%20Allotments%3B%20Inheritance%20of%20Restricted%20Property/%C2%A7%2000555%20-%20Repealed.%20Aug.%2013%2C%201954%2C%20ch.%20732%2C%20%C2%A79%28c%29%2C%2068%20Stat.%20721.md) | Repealed. |
-| [556\.](Subchapter%20011%20%28XI%29%20-%20Klamath%20Tribe%20Payments%20in%20Lieu%20of%20Allotments%3B%20Inheritance%20of%20Restricted%20Property/%C2%A7%2000556%20-%20Reversion%20of%20interest%20in%20property%20on%20death%20without%20heirs%20or%20devisees.md) | Reversion of interest in property on death without heirs or devisees. |
+| 551 to 556. | Repealed or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -312,8 +86,7 @@
 
 |  |  |
 | :--- | ---: |
-| 561, 562. | Omitted. |
-| [563\.](Subchapter%20012%20%28XII%29%20-%20Klamath%20Tribe%20Fees%20and%20Charges/%C2%A7%2000563%20-%20Salaries%20and%20expenses%20for%20Klamath%20Tribe%20Officials.md) | Salaries and expenses for Klamath Tribe Officials. |
+| 561 to 563. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -321,33 +94,7 @@
 
 |  |  |
 | :--- | ---: |
-| [564\.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564%20-%20Purpose.md) | Purpose. |
-| [564a.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564a%20-%20Definitions.md) | Definitions. |
-| [564b.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564b%20-%20Membership%20roll%3B%20closure%3B%20preparation%20and%20initial%20publication%3B%20appeal%20from%20inclusion%20or%20omission%20from%20roll%3B%20finality%20of%20determination%E2%80%A6.md) | Membership roll; closure; preparation and initial publication; appeal from inclusion or omission from roll; finality of determination; final publication. |
-| [564c.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564c%20-%20Personal%20property%20rights%3B%20restrictions%3B%20tax%20exemption.md) | Personal property rights; restrictions; tax exemption. |
-| [564d.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564d%20-%20Management%20specialists.md) | Management specialists. |
-| [564e.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564e%20-%20Sale%20of%20tribal%20property.md) | Sale of tribal property. |
-| [564f.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564f%20-%20Per%20capita%20payments%20to%20tribal%20members.md) | Per capita payments to tribal members. |
-| [564g.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564g%20-%20Individual%20property.md) | Individual property. |
-| [564h.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564h%20-%20Property%20of%20deceased%20members.md) | Property of deceased members. |
-| [564i.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564i%20-%20Transfer%20of%20federally%20owned%20property.md) | Transfer of federally owned property. |
-| [564j.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564j%20-%20Taxes%3B%20initial%20exemption%3B%20taxes%20following%20distribution%3B%20valuation%20for%20capital%20gains%20or%20losses.md) | Taxes; initial exemption; taxes following distribution; valuation for capital gains or losses. |
-| [564k.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564k%20-%20Loan%20transfers%3B%20collection%20by%20tribe.md) | Loan transfers; collection by tribe. |
-| 564<i>l.</i> | Klamath irrigation works. |
-| [564m.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564m%20-%20Water%20and%20fishing%20rights.md) | Water and fishing rights. |
-| [564n.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564n%20-%20Protection%20of%20minors%2C%20persons%20non%20compos%20mentis%2C%20and%20other%20members%20needing%20assistance%3B%20guardians%3B%20other%20adequate%20means%3B%20trusts%E2%80%A6.md) | Protection of minors, persons non compos mentis, and other members needing assistance; guardians; other adequate means; trusts; annuities; assistance factors; contests. |
-| 564<i>o.</i> | Advances or expenditures from tribal funds. |
-| [564p.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564p%20-%20Execution%20by%20Secretary%20of%20patents%2C%20deeds%2C%20etc.md) | Execution by Secretary of patents, deeds, etc. |
-| [564q.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564q%20-%20Termination%20of%20Federal%20trust.md) | Termination of Federal trust. |
-| [564r.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564r%20-%20Termination%20of%20Federal%20powers%20over%20tribe.md) | Termination of Federal powers over tribe. |
-| [564s.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564s%20-%20Set%20off%20of%20individual%20indebtedness%3B%20credit.md) | Set off of individual indebtedness; credit. |
-| [564t.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564t%20-%20Indian%20claims%20unaffected.md) | Indian claims unaffected. |
-| [564u.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564u%20-%20Valid%20leases%2C%20permits%2C%20liens%2C%20etc.%2C%20unaffected.md) | Valid leases, permits, liens, etc., unaffected. |
-| [564v.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564v%20-%20Rules%20and%20regulations%3B%20tribal%20referenda.md) | Rules and regulations; tribal referenda. |
-| [564w.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564w%20-%20Education%20and%20training%20program%3B%20purposes%3B%20subjects%3B%20transportation%3B%20subsistence%3B%20contracts%3B%20other%20education%20programs.md) | Education and training program; purposes; subjects; transportation; subsistence; contracts; other education programs. |
-| 564w–1. | Klamath Indian Forest and Klamath Marsh. |
-| 564w–2. | Federal acquisition of tribal land. |
-| [564x.](Subchapter%20013%20%28XIII%29%20-%20Klamath%20Tribe%20Termination%20of%20Federal%20Supervision/%C2%A7%2000564x%20-%20Timber%20sales.md) | Timber sales. |
+| 564 to 564x. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -355,14 +102,7 @@
 
 |  |  |
 | :--- | ---: |
-| [565\.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565%20-%20Authorization%20to%20distribute%20funds.md) | Authorization to distribute funds. |
-| [565a.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565a%20-%20Distribution%20to%20persons%20on%20final%20roll%3B%20payment%20of%20shares%20due%20living%20adults%2C%20deceased%20enrollees%2C%20adults%20under%20legal%20disabilities%2C%20persons%E2%80%A6.md) | Distribution to persons on final roll; payment of shares due living adults, deceased enrollees, adults under legal disabilities, persons in need of assistance, and minors. |
-| [565b.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565b%20-%20Time%20of%20payment%3B%20claims%20for%20shares%20of%20deceased%20enrollees.md) | Time of payment; claims for shares of deceased enrollees. |
-| [565c.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565c%20-%20Disposition%20of%20funds%20remaining%20after%20distribution.md) | Disposition of funds remaining after distribution. |
-| [565d.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565d%20-%20Disposition%20of%20funds%20insufficient%20to%20justify%20further%20distribution.md) | Disposition of funds insufficient to justify further distribution. |
-| [565e.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565e%20-%20Costs.md) | Costs. |
-| [565f.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565f%20-%20Taxes.md) | Taxes. |
-| [565g.](Subchapter%20014%20%28XIV%29%20-%20Klamath%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000565g%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 565 to 565g. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -370,15 +110,7 @@
 
 |  |  |
 | :--- | ---: |
-| [566\.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566%20-%20Restoration%20of%20Federal%20recognition%2C%20rights%2C%20and%20privileges.md) | Restoration of Federal recognition, rights, and privileges. |
-| [566a.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566a%20-%20Tribe%20Constitution%20and%20Bylaws.md) | Tribe Constitution and Bylaws. |
-| [566b.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566b%20-%20Conservation%20and%20development%20of%20lands.md) | Conservation and development of lands. |
-| [566c.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566c%20-%20Hunting%2C%20fishing%2C%20trapping%2C%20and%20water%20rights.md) | Hunting, fishing, trapping, and water rights. |
-| [566d.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566d%20-%20Transfer%20of%20land%20to%20be%20held%20in%20trust.md) | Transfer of land to be held in trust. |
-| [566e.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566e%20-%20Criminal%20and%20civil%20jurisdiction.md) | Criminal and civil jurisdiction. |
-| [566f.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566f%20-%20Economic%20development.md) | Economic development. |
-| [566g.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566g%20-%20Definitions.md) | Definitions. |
-| [566h.](Subchapter%20014%E2%80%93A%20%28XIV%E2%80%93A%29%20-%20Klamath%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000566h%20-%20Regulations.md) | Regulations. |
+| 566 to 566h. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -386,27 +118,7 @@
 
 |  |  |
 | :--- | ---: |
-| [571\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000571%20-%20Membership%20roll%3B%20preparation.md) | Membership roll; preparation. |
-| [572\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000572%20-%20Payments%20to%20individuals%3B%20expenditure%20of%20payments.md) | Payments to individuals; expenditure of payments. |
-| [573\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000573%20-%20Uses%20of%20judgment%20fund.md) | Uses of judgment fund. |
-| [574\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000574%20-%20Consolidation%20of%20lands.md) | Consolidation of lands. |
-| [574a.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000574a%20-%20Acquisition%20of%20lands%20on%20Wind%20River%20Reservation.md) | Acquisition of lands on Wind River Reservation. |
-| [575\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000575%20-%20Restoration%20of%20lands.md) | Restoration of lands. |
-| [576\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000576%20-%20Purchase%20of%20lands%3B%20reimbursement%20of%20expenditures.md) | Purchase of lands; reimbursement of expenditures. |
-| [577\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000577%20-%20Liability%20of%20judgment%20funds%20for%20debts.md) | Liability of judgment funds for debts. |
-| [581\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000581%20-%20Disposition%20of%20funds.md) | Disposition of funds. |
-| [582\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000582%20-%20Shoshone-Bannock%20Tribes%20of%20the%20Fort%20Hall%20Reservation%3B%20credit%20of%20funds.md) | Shoshone-Bannock Tribes of the Fort Hall Reservation; credit of funds. |
-| [583\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000583%20-%20Northwestern%20Bands%20of%20Shoshone%20Indians%3B%20credit%20of%20funds.md) | Northwestern Bands of Shoshone Indians; credit of funds. |
-| [584\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000584%20-%20Apportionment%20of%20remaining%20funds%3B%20Shoshone-Bannock%20Tribes%20of%20the%20Fort%20Hall%20Reservation%20and%20the%20Shoshone%20Tribe%20of%20the%20Wind%20River%20Reservation.md) | Apportionment of remaining funds; Shoshone-Bannock Tribes of the Fort Hall Reservation and the Shoshone Tribe of the Wind River Reservation. |
-| [585\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000585%20-%20Membership%20rolls%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20application%3B%20finality%20of%20determination.md) | Membership rolls; preparation; eligibility for enrollment; application; finality of determination. |
-| [586\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000586%20-%20Northwestern%20Band%20of%20Shoshone%20Indians%3B%20payment%20to%20enrollees%3B%20heirs%20or%20legatees%3B%20trust%20for%20minors%20and%20persons%20under%20legal%20disability.md) | Northwestern Band of Shoshone Indians; payment to enrollees; heirs or legatees; trust for minors and persons under legal disability. |
-| [587\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000587%20-%20Funds%20apportioned%20to%20Shoshone-Bannock%20Tribes%20of%20the%20Fort%20Hall%20Reservation.md) | Funds apportioned to Shoshone-Bannock Tribes of the Fort Hall Reservation. |
-| [588\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000588%20-%20Shoshone%20Tribe%20of%20the%20Wind%20River%20Reservation%3B%20distribution%20of%20funds.md) | Shoshone Tribe of the Wind River Reservation; distribution of funds. |
-| [589\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000589%20-%20Tax%20exemption.md) | Tax exemption. |
-| [590\.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000590%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [590a.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000590a%20-%20Shoshone-Bannock%20Tribes%20of%20the%20Fort%20Hall%20Reservation%3B%20credit%20of%20funds.md) | Shoshone-Bannock Tribes of the Fort Hall Reservation; credit of funds. |
-| [590b.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000590b%20-%20Disposition%20of%20funds.md) | Disposition of funds. |
-| [590c.](Subchapter%20015%20%28XV%29%20-%20Shoshone%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000590c%20-%20Tax%20exemption%3B%20trusts%20for%20minors%20and%20persons%20under%20legal%20disability.md) | Tax exemption; trusts for minors and persons under legal disability. |
+| 571 to 590c. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -414,11 +126,7 @@
 
 |  |  |
 | :--- | ---: |
-| [591\.](Subchapter%20016%20%28XVI%29%20-%20Chippewa%20Tribe%20of%20Minnesota/%C2%A7%2000591%20-%20Reservation%20of%20Chippewa%20National%20Forest%20lands%20for%20Minnesota%20Chippewa%20Tribe.md) | Reservation of Chippewa National Forest lands for Minnesota Chippewa Tribe. |
-| [592\.](Subchapter%20016%20%28XVI%29%20-%20Chippewa%20Tribe%20of%20Minnesota/%C2%A7%2000592%20-%20Withdrawal%20of%20tribal%20funds%20to%20reimburse%20United%20States%3B%20consent%20of%20Minnesota%20Chippewa%20Tribe%3B%20disposition%20of%20receipts.md) | Withdrawal of tribal funds to reimburse United States; consent of Minnesota Chippewa Tribe; disposition of receipts. |
-| [593\.](Subchapter%20016%20%28XVI%29%20-%20Chippewa%20Tribe%20of%20Minnesota/%C2%A7%2000593%20-%20Exchanges%20of%20allotted%2C%20restricted%2C%20and%20tribal%20lands%20for%20Chippewa%20National%20Forest%20lands.md) | Exchanges of allotted, restricted, and tribal lands for Chippewa National Forest lands. |
-| [594\.](Subchapter%20016%20%28XVI%29%20-%20Chippewa%20Tribe%20of%20Minnesota/%C2%A7%2000594%20-%20Distribution%20of%20judgment%20funds%3B%20Mississippi%20Bands%3B%20Pillager%20and%20Lake%20Winnibigoshish%20Bands.md) | Distribution of judgment funds; Mississippi Bands; Pillager and Lake Winnibigoshish Bands. |
-| [594a.](Subchapter%20016%20%28XVI%29%20-%20Chippewa%20Tribe%20of%20Minnesota/%C2%A7%2000594a%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 591 to 594a. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -426,23 +134,7 @@
 
 |  |  |
 | :--- | ---: |
-| [601\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000601%20-%20Membership%20roll%3B%20preparation%3B%20persons%20entitled%20to%20enrollment.md) | Membership roll; preparation; persons entitled to enrollment. |
-| [602\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000602%20-%20Application%20to%20Tribal%20Council%20on%20exclusion%20from%20roll%3B%20minors%20and%20incompetent%20persons.md) | Application to Tribal Council on exclusion from roll; minors and incompetent persons. |
-| [603\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000603%20-%20Correction%20of%20membership%20roll.md) | Correction of membership roll. |
-| [604\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000604%20-%20Loss%20of%20membership%20and%20removal%20from%20roll.md) | Loss of membership and removal from roll. |
-| [605\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000605%20-%20Expulsion%20of%20members%3B%20review%20by%20Secretary.md) | Expulsion of members; review by Secretary. |
-| [606\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000606%20-%20Back%20pay%20and%20annuities%20on%20enrollment%20of%20new%20members.md) | Back pay and annuities on enrollment of new members. |
-| [607\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000607%20-%20Divestment%20of%20inheritance%20of%20non-members.md) | Divestment of inheritance of non-members. |
-| [608\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000608%20-%20Purchase%2C%20sale%2C%20and%20exchange%20of%20land.md) | Purchase, sale, and exchange of land. |
-| [608a.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000608a%20-%20Sale%20of%20tribal%20trust%20lands%2C%20etc.md) | Sale of tribal trust lands, etc. |
-| [608b.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000608b%20-%20Rights%20of%20lessee.md) | Rights of lessee. |
-| [608c.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000608c%20-%20Regulations.md) | Regulations. |
-| [609\.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000609%20-%20Action%20to%20determine%20title%20to%20judgment%20fund%3B%20claim%20of%20Confederated%20Tribes%20of%20the%20Colville%20Reservation%3B%20jurisdiction%20of%20Court%20of%20Claims.md) | Action to determine title to judgment fund; claim of Confederated Tribes of the Colville Reservation; jurisdiction of Court of Claims. |
-| [609a.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000609a%20-%20Tax%20exemption.md) | Tax exemption. |
-| [609b.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000609b%20-%20Disposition%20of%20judgment%20fund%3B%20deductions%3B%20advances%2C%20expenditures%2C%20investments%2C%20or%20reinvestments%20for%20authorized%20purposes.md) | Disposition of judgment fund; deductions; advances, expenditures, investments, or reinvestments for authorized purposes. |
-| 609b–1. | Tax exemption; trusts and other procedures for protection of minors and persons under legal disability. |
-| [609c.](Subchapter%20017%20%28XVII%29%20-%20Yakima%20Tribes/%C2%A7%2000609c%20-%20Disbursement%20of%20minor%27s%20share%20of%20judgment%20funds.md) | Disbursement of minor's share of judgment funds. |
-| 609c–1. | Tax exemption; eligibility for Federal assistance without regard to payments. |
+| 601 to 609c–1. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -450,12 +142,7 @@
 
 |  |  |
 | :--- | ---: |
-| [610\.](Subchapter%20018%20%28XVIII%29%20-%20Swinomish%20Tribe/%C2%A7%2000610%20-%20Purchase%20of%20lands%20within%2C%20adjacent%20to%2C%20or%20in%20close%20proximity%20to%20boundaries%20of%20Swinomish%20Indian%20Reservation.md) | Purchase of lands within, adjacent to, or in close proximity to boundaries of Swinomish Indian Reservation. |
-| [610a.](Subchapter%20018%20%28XVIII%29%20-%20Swinomish%20Tribe/%C2%A7%2000610a%20-%20Sale%20or%20exchange%20of%20lands%3B%20money%20equalization%20payments.md) | Sale or exchange of lands; money equalization payments. |
-| [610b.](Subchapter%20018%20%28XVIII%29%20-%20Swinomish%20Tribe/%C2%A7%2000610b%20-%20Title%20to%20lands%3B%20tax%20exemption%3B%20prohibition%20of%20restrictions.md) | Title to lands; tax exemption; prohibition of restrictions. |
-| [610c.](Subchapter%20018%20%28XVIII%29%20-%20Swinomish%20Tribe/%C2%A7%2000610c%20-%20Mortgages%20or%20deeds%20in%20trust%3B%20law%20governing%20mortgage%20foreclosure%20or%20sale%3B%20United%20States%20as%20party%3B%20removal%20of%20cases%20appeals.md) | Mortgages or deeds in trust; law governing mortgage foreclosure or sale; United States as party; removal of cases: appeals. |
-| [610d.](Subchapter%20018%20%28XVIII%29%20-%20Swinomish%20Tribe/%C2%A7%2000610d%20-%20Moneys%20or%20credits%20for%20tribal%20purposes.md) | Moneys or credits for tribal purposes. |
-| [610e.](Subchapter%20018%20%28XVIII%29%20-%20Swinomish%20Tribe/%C2%A7%2000610e%20-%20Assignment%20of%20income.md) | Assignment of income. |
+| 610 to 610e. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -463,9 +150,7 @@
 
 |  |  |
 | :--- | ---: |
-| [611\.](Subchapter%20019%20%28XIX%29%20-%20Shoshone%20and%20Arapaho%20Tribes%20of%20Wyoming/%C2%A7%2000611%20-%20Division%20of%20trust%20fund%20on%20deposit%20in%20United%20States%20Treasury%20to%20joint%20credit%20of%20both%20tribes.md) | Division of trust fund on deposit in United States Treasury to joint credit of both tribes. |
-| [612\.](Subchapter%20019%20%28XIX%29%20-%20Shoshone%20and%20Arapaho%20Tribes%20of%20Wyoming/%C2%A7%2000612%20-%20Establishment%20of%20trust%20fund%20for%20each%20tribe%3B%20transfer%20of%20funds%3B%20interest%3B%20crediting%20of%20revenues%2C%20receipts%2C%20and%20proceeds%20of%20judgments.md) | Establishment of trust fund for each tribe; transfer of funds; interest; crediting of revenues, receipts, and proceeds of judgments. |
-| [613\.](Subchapter%20019%20%28XIX%29%20-%20Shoshone%20and%20Arapaho%20Tribes%20of%20Wyoming/%C2%A7%2000613%20-%20Advances%20or%20expenditures%20from%20tribal%20funds%3B%20emergency%20and%20educational%20loans%3B%20payments%20to%20individuals%20of%20tribes%3B%20per%20capita%20payments%20not%E2%80%A6.md) | Advances or expenditures from tribal funds; emergency and educational loans; payments to individuals of tribes; per capita payments not subject to liens or claims; exception. |
+| 611 to 613. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -473,10 +158,7 @@
 
 |  |  |
 | :--- | ---: |
-| [621\.](Subchapter%20020%20%28XX%29%20-%20Pueblo%20and%20Canoncito%20Navajo%20Indians/%C2%A7%2000621%20-%20Portions%20of%20tribal%20lands%20to%20be%20held%20in%20trust%20by%20the%20United%20States%3B%20remainder%20to%20become%20part%20of%20the%20public%20domain.md) | Portions of tribal lands to be held in trust by the United States; remainder to become part of the public domain. |
-| [622\.](Subchapter%20020%20%28XX%29%20-%20Pueblo%20and%20Canoncito%20Navajo%20Indians/%C2%A7%2000622%20-%20Exchange%20of%20tribal%20lands%3B%20title%20to%20lands.md) | Exchange of tribal lands; title to lands. |
-| [623\.](Subchapter%20020%20%28XX%29%20-%20Pueblo%20and%20Canoncito%20Navajo%20Indians/%C2%A7%2000623%20-%20Disbursement%20of%20deposits%20in%20the%20United%20Pueblos%20Agency.md) | Disbursement of deposits in the United Pueblos Agency. |
-| [624\.](Subchapter%20020%20%28XX%29%20-%20Pueblo%20and%20Canoncito%20Navajo%20Indians/%C2%A7%2000624%20-%20Exchange%20of%20lands.md) | Exchange of lands. |
+| 621 to 624. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -484,60 +166,15 @@
 
 |  |  |
 | :--- | ---: |
-| [631\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000631%20-%20Basic%20program%20for%20conservation%20and%20development%20of%20resources%3B%20projects%3B%20appropriations.md) | Basic program for conservation and development of resources; projects; appropriations. |
-| [632\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000632%20-%20Character%20and%20extent%20of%20administration%3B%20time%20limit%3B%20reports%20on%20use%20of%20funds.md) | Character and extent of administration; time limit; reports on use of funds. |
-| [633\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000633%20-%20Preference%20in%20employment%3B%20on-the-job%20training.md) | Preference in employment; on-the-job training. |
-| [634\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000634%20-%20Loans%20to%20Tribes%20or%20individual%20members%3B%20loan%20fund.md) | Loans to Tribes or individual members; loan fund. |
-| [635\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000635%20-%20Disposition%20of%20lands.md) | Disposition of lands. |
-| [636\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000636%20-%20Adoption%20of%20constitution%20by%20Navajo%20Tribe%3B%20method%3B%20contents.md) | Adoption of constitution by Navajo Tribe; method; contents. |
-| [637\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000637%20-%20Use%20of%20Navajo%20tribal%20funds.md) | Use of Navajo tribal funds. |
-| [638\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000638%20-%20Participation%20by%20Tribal%20Councils%3B%20recommendations.md) | Participation by Tribal Councils; recommendations. |
-| 639, 640. | Repealed. |
-| [640a.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640a%20-%20Din%C3%A9%20College%3B%20purpose.md) | Diné College; purpose. |
-| [640b.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640b%20-%20Grants.md) | Grants. |
-| [640c.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640c%20-%20Study%20of%20facilities%20needs.md) | Study of facilities needs. |
-| 640c–1. | Authorization of appropriations. |
-| 640c–2. | Effect on other laws. |
-| 640c–3. | Payments; interest. |
+| 631 to 640c–3. | Repealed or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER XXII—NAVAJO AND HOPI TRIBES: SETTLEMENT OF RIGHTS AND INTERESTS
 
-|  |  |
-| :--- | ---: |
-| [640d.](Subchapter%20022%20%28XXII%29%20-%20Navajo%20and%20Hopi%20Tribes%20Settlement%20of%20Rights%20and%20Interests/%C2%A7%2000640d%20-%20Mediator.md) | Mediator. |
-| 640d–1. | Negotiating teams. |
-| 640d–2. | Implementation of agreements. |
-| 640d–3. | Default or failure to reach agreement; recommendations to District Court; final adjudication. |
-| 640d–4. | Authorized recommendations for facilitation of agreement or report to District Court; discretionary nature of recommendations. |
-| 640d–5. | Considerations and guidelines for preparation of report by Mediator and final adjudication by District Court. |
-| 640d–6. | Joint ownership and management of coal, oil, gas and other minerals within or underlying partitioned lands; division of proceeds. |
-| 640d–7. | Determination of tribal rights and interests in land. |
-| 640d–8. | Allotments in severalty to Paiute Indians now located on lands; issue of patents declaring United States as trustee. |
-| 640d–9. | Partitioned or other designated lands. |
-| 640d–10. | Resettlement lands for Navajo Tribe. |
-| 640d–11. | Office of Navajo and Hopi Indian Relocation. |
-| 640d–12. | Report concerning relocation of households and members of each tribe. |
-| 640d–13. | Relocation of households and members. |
-| 640d–14. | Relocation housing. |
-| 640d–15. | Payment of fair rental value for use of lands subsequent to date of partition. |
-| 640d–16. | Title, possession, and enjoyment of lands. |
-| 640d–17. | Actions for accounting, fair value of grazing, and claims for damages to land. |
-| 640d–18. | Reduction of livestock within joint use area. |
-| 640d–19. | Perpetual use of Cliff Spring as shrine for religious ceremonial purposes; boundary; piping of water for use by residents. |
-| 640d–20. | Use and right of access to religious shrines on reservation of other tribe. |
-| 640d–21. | Payments not to be considered as income for eligibility under any other Federal or federally assisted program or for assistance under Social Security Act or for revenue purposes. |
-| 640d–22. | Authorization for exchange of reservation lands; availability of additional relocation benefits; restrictions. |
-| 640d–23. | Separability. |
-| 640d–24. | Authorization of appropriations. |
-| 640d–25. | Discretionary fund to expedite relocation efforts. |
-| 640d–26. | Implementation requirements. |
-| 640d–27. | Attorney fees, costs and expenses for litigation or court action. |
-| 640d–28. | Life estates. |
-| 640d–29. | Restrictions on lobbying; exception. |
-| 640d–30. | Navajo Rehabilitation Trust Fund. |
-| 640d–31. | Residence of families eligible for relocation assistance. |
+|  |
+| :--- |
+| 640d to 640d–31. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -545,12 +182,7 @@
 
 |  |  |
 | :--- | ---: |
-| [641\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000641%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
-| [642\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000642%20-%20Powers%20of%20Tribal%20Council.md) | Powers of Tribal Council. |
-| [643\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000643%20-%20Council%27s%20powers%20subject%20to%20approval%20by%20Secretary.md) | Council's powers subject to approval by Secretary. |
-| [644\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000644%20-%20Bonds%20as%20valid%20and%20binding%20obligations.md) | Bonds as valid and binding obligations. |
-| [645\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000645%20-%20Exemption%20from%20taxation.md) | Exemption from taxation. |
-| [646\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000646%20-%20Exempted%20securities.md) | Exempted securities. |
+| 641 to 646. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -558,9 +190,7 @@
 
 |  |  |
 | :--- | ---: |
-| [647\.](Subchapter%20024%20%28XXIV%29%20-%20Hualapai%20Tribe/%C2%A7%2000647%20-%20Disposition%20of%20judgment%20fund%3B%20deductions%3B%20advances%2C%20expenditures%2C%20investments%20or%20reinvestments%20for%20authorized%20purposes.md) | Disposition of judgment fund; deductions; advances, expenditures, investments or reinvestments for authorized purposes. |
-| [648\.](Subchapter%20024%20%28XXIV%29%20-%20Hualapai%20Tribe/%C2%A7%2000648%20-%20Tax%20exemption.md) | Tax exemption. |
-| [649\.](Subchapter%20024%20%28XXIV%29%20-%20Hualapai%20Tribe/%C2%A7%2000649%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 647 to 649. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -568,19 +198,7 @@
 
 |  |  |
 | :--- | ---: |
-| [651\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000651%20-%20Indians%20of%20California%20defined.md) | "Indians of California" defined. |
-| [652\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000652%20-%20Claims%20against%20United%20States%20for%20appropriated%20lands%3B%20submission%20to%20United%20States%20Court%20of%20Federal%20Claims%3B%20appeal%3B%20grounds%20for%20relief.md) | Claims against United States for appropriated lands; submission to United States Court of Federal Claims; appeal; grounds for relief. |
-| [653\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000653%20-%20Statutes%20of%20limitations%20unavailable%20against%20claims%3B%20amount%20of%20decree%3B%20set-off.md) | Statutes of limitations unavailable against claims; amount of decree; set-off. |
-| [654\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000654%20-%20Claims%20presented%20by%20petition%3B%20filing%20date%3B%20amendment%3B%20signature%20and%20verification%3B%20official%20letters%2C%20documents%2C%20etc.%2C%20furnished.md) | Claims presented by petition; filing date; amendment; signature and verification; official letters, documents, etc., furnished. |
-| [655\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000655%20-%20Reimbursement%20of%20State%20of%20California%20for%20necessary%20costs%20and%20expenses.md) | Reimbursement of State of California for necessary costs and expenses. |
-| [656\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000656%20-%20Judgment%20amount%20deposited%20in%20Treasury%20to%20credit%20of%20Indians%3B%20interest%20rate%3B%20use%20of%20fund.md) | Judgment amount deposited in Treasury to credit of Indians; interest rate; use of fund. |
-| [657\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000657%20-%20Revision%20of%20roll%20of%20Indians.md) | Revision of roll of Indians. |
-| [658\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000658%20-%20Distribution%20of%20%24150%20from%20fund%20to%20each%20enrolled%20Indian.md) | Distribution of $150 from fund to each enrolled Indian. |
-| [659\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000659%20-%20Distribution%20of%20judgment%20fund.md) | Distribution of judgment fund. |
-| [660\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000660%20-%20Equal%20share%20distribution%20of%201964%20appropriation.md) | Equal share distribution of 1964 appropriation. |
-| [661\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000661%20-%20Equal%20share%20distribution%20of%20undistributed%20balance%20of%201945%20appropriation.md) | Equal share distribution of undistributed balance of 1945 appropriation. |
-| [662\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000662%20-%20Heirs%20of%20deceased%20enrollees%3B%20tax%20exemption.md) | Heirs of deceased enrollees; tax exemption. |
-| [663\.](Subchapter%20025%20%28XXV%29%20-%20Indians%20of%20California/%C2%A7%2000663%20-%20Rules%20and%20regulations%3B%20filing%20deadline.md) | Rules and regulations; filing deadline. |
+| 651 to 663. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -588,9 +206,7 @@
 
 |  |  |
 | :--- | ---: |
-| [668\.](Subchapter%20026%20%28XXVI%29%20-%20Southern%20Ute%20Indian%20Tribe%20of%20Colorado/%C2%A7%2000668%20-%20Sale%20of%20lands%20held%20by%20the%20United%20States.md) | Sale of lands held by the United States. |
-| [669\.](Subchapter%20026%20%28XXVI%29%20-%20Southern%20Ute%20Indian%20Tribe%20of%20Colorado/%C2%A7%2000669%20-%20Use%20of%20sale%20proceeds%20for%20purchase%20of%20real%20property%20only.md) | Use of sale proceeds for purchase of real property only. |
-| [670\.](Subchapter%20026%20%28XXVI%29%20-%20Southern%20Ute%20Indian%20Tribe%20of%20Colorado/%C2%A7%2000670%20-%20Mortgage%20or%20deed%20of%20trust%20of%20lands%20sold%3B%20United%20States%20as%20party%20to%20all%20proceedings.md) | Mortgage or deed of trust of lands sold; United States as party to all proceedings. |
+| 668 to 670. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -598,15 +214,7 @@
 
 |  |  |
 | :--- | ---: |
-| [671\.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000671%20-%20Use%20of%20funds%20of%20the%20Ute%20Indian%20Tribe%20of%20the%20Uintah%20and%20Ouray%20Reservation%20for%20expenditure%20and%20per%20capita%20payments%3B%20regulations%20applicable%E2%80%A6.md) | Use of funds of the Ute Indian Tribe of the Uintah and Ouray Reservation for expenditure and per capita payments; regulations applicable to loans; restriction on attorney fees. |
-| [672\.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000672%20-%20Division%20of%20trust%20funds%3B%20ratification%20of%20resolution%3B%20crediting%20of%20shares%3B%20release%20of%20United%20States%20from%20liability%20in%20certain%20cases.md) | Division of trust funds; ratification of resolution; crediting of shares; release of United States from liability in certain cases. |
-| [673\.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000673%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93375%2C%20title%20I%2C%20%C2%A7108%28b%29%2C%20Dec.%2021%2C%201982%2C%2096%20Stat.%201820.md) | Repealed. |
-| [674\.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000674%20-%20Use%20of%20funds%20of%20the%20Ute%20Mountain%20Tribe%20of%20the%20Ute%20Mountain%20Reservation%20for%20expenditure%20and%20per%20capita%20payments%3B%20taxation%20of%20lands%20and%E2%80%A6.md) | Use of funds of the Ute Mountain Tribe of the Ute Mountain Reservation for expenditure and per capita payments; taxation of lands and funds; regulations applicable to loans. |
-| [675\.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000675%20-%20Restriction%20on%20payment%20of%20funds%20for%20agents%27%20or%20attorneys%27%20fees.md) | Restriction on payment of funds for agents' or attorneys' fees. |
-| [676\.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000676%20-%20Use%20of%20funds%20of%20Southern%20Ute%20Tribe%20of%20Southern%20Ute%20Reservation%20for%20expenditure%20and%20per%20capita%20payments%3B%20regulations%20applicable%20to%20loans.md) | Use of funds of Southern Ute Tribe of Southern Ute Reservation for expenditure and per capita payments; regulations applicable to loans. |
-| [676a.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000676a%20-%20Distribution%20of%20judgment%20fund.md) | Distribution of judgment fund. |
-| [676b.](Subchapter%20027%20%28XXVII%29%20-%20Ute%20Indians%20of%20Utah/%C2%A7%2000676b%20-%20Distribution%20of%20judgment%20fund%3B%20deductions%3B%20availability%20for%20certain%20uses.md) | Distribution of judgment fund; deductions; availability for certain uses. |
-| 676b–1. | Tax exemption. |
+| 671 to 676b–1. | Repealed or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -614,34 +222,7 @@
 
 |  |  |
 | :--- | ---: |
-| [677\.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677%20-%20Purpose.md) | Purpose. |
-| [677a.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677a%20-%20Definitions.md) | Definitions. |
-| [677b.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677b%20-%20Method%20of%20determining%20Ute%20Indian%20blood.md) | Method of determining Ute Indian blood. |
-| [677c.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677c%20-%20Transfer%20of%20members%20from%20full-blood%20roll%20to%20mixed-blood%20group%3B%20time%3B%20certification%20by%20Secretary.md) | Transfer of members from full-blood roll to mixed-blood group; time; certification by Secretary. |
-| [677d.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677d%20-%20Restriction%20of%20tribe%20to%20full-blood%20members%20after%20publication%20of%20final%20rolls%3B%20non-interest%20of%20mixed-blood%20members%3B%20new%20membership.md) | Restriction of tribe to full-blood members after publication of final rolls; non-interest of mixed-blood members; new membership. |
-| [677e.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677e%20-%20Organization%20of%20mixed-blood%20members%3B%20constitution%20and%20bylaws%3B%20representatives%3B%20actions%20in%20absence%20of%20organization.md) | Organization of mixed-blood members; constitution and bylaws; representatives; actions in absence of organization. |
-| [677f.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677f%20-%20Employment%20of%20legal%20counsel%20for%20mixed-blood%20members%3B%20fees.md) | Employment of legal counsel for mixed-blood members; fees. |
-| [677g.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677g%20-%20Membership%20rolls%20of%20full-blood%20and%20mixed-blood%20members%3B%20preparation%20and%20initial%20publication%3B%20appeal%20from%20inclusion%20or%20omission%20from%E2%80%A6.md) | Membership rolls of full-blood and mixed-blood members; preparation and initial publication; appeal from inclusion or omission from rolls; finality of determination; final publication; inheritable interest; future membership. |
-| [677h.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677h%20-%20Sale%20or%20other%20disposition%20of%20certain%20described%20lands%3B%20funds%3B%20relief%20of%20United%20States%20from%20liability%3B%20assigned%20lands.md) | Sale or other disposition of certain described lands; funds; relief of United States from liability; assigned lands. |
-| [677i.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677i%20-%20Division%20of%20assets%3B%20basis%3B%20prior%20alienation%20or%20encumbrance%3B%20partition%20by%20Secretary%20upon%20nonagreement%3B%20assistance%3B%20management%20of%20claims%E2%80%A6.md) | Division of assets; basis; prior alienation or encumbrance; partition by Secretary upon nonagreement; assistance; management of claims and rights; division of net proceeds; applicability of usual processes of the law to originally owned stock of corporate representative and to corporate distributions. |
-| [677j.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677j%20-%20Advances%20or%20expenditures%20from%20tribal%20funds%3B%20restrictions%20on%20mixed-blood%20group%20until%20adoption%20of%20plan%20for%20terminating%20supervision.md) | Advances or expenditures from tribal funds; restrictions on mixed-blood group until adoption of plan for terminating supervision. |
-| [677k.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677k%20-%20Adjustment%20of%20debts%20in%20making%20per%20capita%20payments%20to%20mixed-blood%20members%3B%20execution%20of%20mortgages%20on%20property.md) | Adjustment of debts in making per capita payments to mixed-blood members; execution of mortgages on property. |
-| 677<i>l.</i> | Distribution to individual members of mixed-blood group; preparation and approval of plan; assistance; provisions permitted in plan. |
-| [677m.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677m%20-%20Procedure%20by%20Secretary%20if%20distribution%20not%20completed%20within%20seven%20years%20from%20August%2027%2C%201954.md) | Procedure by Secretary if distribution not completed within seven years from August 27, 1954. |
-| [677n.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677n%20-%20Disposal%20by%20mixed-blood%20members%20of%20their%20individual%20interests%20in%20tribal%20assets%3B%20requisites%20and%20conditions.md) | Disposal by mixed-blood members of their individual interests in tribal assets; requisites and conditions. |
-| 677<i>o.</i> | Termination of restrictions on individually owned property of the mixed-blood group. |
-| [677p.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677p%20-%20Tax%20exemption%3B%20exceptions%20and%20time%20limits%3B%20valuation%20for%20income%20tax%20on%20gains%20or%20losses.md) | Tax exemption; exceptions and time limits; valuation for income tax on gains or losses. |
-| [677q.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677q%20-%20Applicability%20of%20decedents%27%20estates%20laws%20to%20individual%20trust%20property%20of%20mixed-blood%20members.md) | Applicability of decedents' estates laws to individual trust property of mixed-blood members. |
-| [677r.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677r%20-%20Indian%20claims%20unaffected.md) | Indian claims unaffected. |
-| [677s.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677s%20-%20Valid%20leases%2C%20permits%2C%20liens%2C%20etc.%2C%20unaffected.md) | Valid leases, permits, liens, etc., unaffected. |
-| [677t.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677t%20-%20Water%20rights.md) | Water rights. |
-| [677u.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677u%20-%20Protection%20of%20minors%2C%20persons%20non%20compos%20mentis%2C%20and%20other%20members%20needing%20assistance%3B%20guardians.md) | Protection of minors, persons non compos mentis, and other members needing assistance; guardians. |
-| [677v.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677v%20-%20Termination%20of%20Federal%20trust%3B%20publication%3B%20termination%20of%20Federal%20services%3B%20application%20of%20Federal%20and%20State%20laws.md) | Termination of Federal trust; publication; termination of Federal services; application of Federal and State laws. |
-| [677w.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677w%20-%20Presentation%20of%20development%20program%20for%20full-blood%20group%20to%20eventually%20terminate%20Federal%20supervision.md) | Presentation of development program for full-blood group to eventually terminate Federal supervision. |
-| [677x.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677x%20-%20Citizenship%20status%20unaffected.md) | Citizenship status unaffected. |
-| [677y.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677y%20-%20Execution%20by%20Secretary%20of%20patents%2C%20deeds%2C%20etc.md) | Execution by Secretary of patents, deeds, etc. |
-| [677z.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677z%20-%20Rules%20and%20regulations%3B%20tribal%20or%20group%20referenda.md) | Rules and regulations; tribal or group referenda. |
-| [677aa.](Subchapter%20028%20%28XXVIII%29%20-%20Ute%20Indians%20of%20Utah%20Distribution%20of%20Assets%20Between%20Mixed-Blood%20and%20Full-Blood%20Members%3B%20Termination%20of%20Federal%20Supervision%E2%80%A6/%C2%A7%2000677aa%20-%20Procedure%20by%20Secretary%20upon%20non-agreement%20between%20mixed-blood%20and%20full-blood%20groups.md) | Procedure by Secretary upon non-agreement between mixed-blood and full-blood groups. |
+| 677 to 677aa. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -649,16 +230,7 @@
 
 |  |  |
 | :--- | ---: |
-| [681\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000681%20-%20Per%20capita%20payment%20to%20tribal%20members%3B%20rules%20and%20regulations.md) | Per capita payment to tribal members; rules and regulations. |
-| [682\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000682%20-%20Payment%20free%20of%20liens%20or%20claims.md) | Payment free of liens or claims. |
-| [683\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000683%20-%20Payments%20not%20other%20income%20and%20resources.md) | Payments not "other income and resources". |
-| [684\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000684%20-%20Per%20capita%20payment%20to%20tribal%20members%3B%20installments%3B%20rules%20and%20regulations.md) | Per capita payment to tribal members; installments; rules and regulations. |
-| [685\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000685%20-%20Payment%20free%20of%20liens%20or%20claims.md) | Payment free of liens or claims. |
-| [686\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000686%20-%20Payments%20not%20other%20income%20and%20resources.md) | Payments not "other income and resources". |
-| [687\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000687%20-%20Per%20capita%20payment%20to%20tribal%20members%3B%20rules%20and%20regulations.md) | Per capita payment to tribal members; rules and regulations. |
-| [688\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000688%20-%20Payment%20free%20of%20liens%20or%20claims.md) | Payment free of liens or claims. |
-| [689\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000689%20-%20Payments%20not%20other%20income%20and%20resources.md) | Payments not "other income and resources". |
-| [690\.](Subchapter%20029%20%28XXIX%29%20-%20Red%20Lake%20Band%20of%20Chippewa%20Indians%20of%20Minnesota/%C2%A7%2000690%20-%20Distribution%20of%20judgment%20fund%3B%20tax%20exemption%20of%20per%20capita%20payments.md) | Distribution of judgment fund; tax exemption of per capita payments. |
+| 681 to 690. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -666,24 +238,7 @@
 
 |  |  |
 | :--- | ---: |
-| [691\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000691%20-%20Purpose.md) | Purpose. |
-| [692\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000692%20-%20Definitions.md) | Definitions. |
-| [693\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000693%20-%20Membership%20roll%3B%20preparation%20and%20initial%20publication%3B%20eligibility%20for%20enrollment%3B%20appeal%20from%20inclusion%20or%20omission%20from%20roll%3B%20finality%20of%E2%80%A6.md) | Membership roll; preparation and initial publication; eligibility for enrollment; appeal from inclusion or omission from roll; finality of determination; final publication. |
-| [694\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000694%20-%20Personal%20property%20rights%3B%20restrictions.md) | Personal property rights; restrictions. |
-| [695\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000695%20-%20Tribal%20property.md) | Tribal property. |
-| [696\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000696%20-%20Individual%20property.md) | Individual property. |
-| [697\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000697%20-%20Property%20of%20deceased%20members.md) | Property of deceased members. |
-| [698\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000698%20-%20Transfer%20of%20federally%20owned%20property.md) | Transfer of federally owned property. |
-| [699\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000699%20-%20Taxes%3B%20initial%20exemption%3B%20taxes%20following%20distribution%3B%20valuation%20for%20capital%20gains%20or%20losses.md) | Taxes; initial exemption; taxes following distribution; valuation for capital gains or losses. |
-| [700\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000700%20-%20Protection%20of%20minors%2C%20persons%20non%20compos%20mentis%20and%20other%20members%20needing%20assistance%3B%20guardians%3B%20other%20adequate%20means.md) | Protection of minors, persons non compos mentis and other members needing assistance; guardians; other adequate means. |
-| [701\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000701%20-%20Advances%20or%20expenditures%20from%20tribal%20funds.md) | Advances or expenditures from tribal funds. |
-| [702\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000702%20-%20Execution%20by%20Secretary%20of%20patents%2C%20deeds%2C%20etc.md) | Execution by Secretary of patents, deeds, etc. |
-| [703\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000703%20-%20Termination%20of%20Federal%20trust.md) | Termination of Federal trust. |
-| [704\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000704%20-%20Omitted.md) | Omitted. |
-| [705\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000705%20-%20Offset%20of%20individual%20indebtedness%3B%20credit.md) | Offset of individual indebtedness; credit. |
-| [706\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000706%20-%20Indian%20claims%20unaffected.md) | Indian claims unaffected. |
-| [707\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000707%20-%20Valid%20leases%2C%20permits%2C%20liens%2C%20etc.%2C%20unaffected.md) | Valid leases, permits, liens, etc., unaffected. |
-| [708\.](Subchapter%20030%20%28XXX%29%20-%20Western%20Oregon%20Indians%20Termination%20of%20Federal%20Supervision/%C2%A7%2000708%20-%20Rules%20and%20regulations%3B%20tribal%20referenda.md) | Rules and regulations; tribal referenda. |
+| 691 to 708. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -691,13 +246,7 @@
 
 |  |  |
 | :--- | ---: |
-| [711\.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711%20-%20Definitions.md) | Definitions. |
-| [711a.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711a%20-%20Federal%20recognition.md) | Federal recognition. |
-| [711b.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711b%20-%20Membership%20roll.md) | Membership roll. |
-| [711c.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711c%20-%20Interim%20Council.md) | Interim Council. |
-| [711d.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711d%20-%20Tribal%20constitution%20and%20bylaws.md) | Tribal constitution and bylaws. |
-| [711e.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711e%20-%20Reservation.md) | Reservation. |
-| [711f.](Subchapter%20030%E2%80%93A%20%28XXX%E2%80%93A%29%20-%20Siletz%20Indian%20Tribe%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000711f%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 711 to 711f. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -705,12 +254,7 @@
 
 |  |  |
 | :--- | ---: |
-| [712\.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712%20-%20Definitions.md) | Definitions. |
-| [712a.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712a%20-%20Extension%20of%20Federal%20recognition%2C%20rights%2C%20and%20privileges.md) | Extension of Federal recognition, rights, and privileges. |
-| [712b.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712b%20-%20Organization%20of%20tribe.md) | Organization of tribe. |
-| [712c.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712c%20-%20Tribal%20membership.md) | Tribal membership. |
-| [712d.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712d%20-%20Rules.md) | Rules. |
-| [712e.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712e%20-%20Certain%20property%20taken%20into%20trust.md) | Certain property taken into trust. |
+| 712 to 712e. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -718,14 +262,7 @@
 
 |  |  |
 | :--- | ---: |
-| [713\.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713%20-%20Definitions.md) | Definitions. |
-| [713a.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713a%20-%20Consideration%20of%20Confederated%20Tribes%20of%20Grand%20Ronde%20Community%20as%20one%20tribe.md) | Consideration of Confederated Tribes of Grand Ronde Community as one tribe. |
-| [713b.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713b%20-%20Restoration%20of%20Federal%20recognition%2C%20rights%2C%20and%20privileges.md) | Restoration of Federal recognition, rights, and privileges. |
-| [713c.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713c%20-%20Interim%20Council.md) | Interim Council. |
-| [713d.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713d%20-%20Tribal%20constitution%20and%20bylaws%3B%20tribal%20governing%20body.md) | Tribal constitution and bylaws; tribal governing body. |
-| [713e.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713e%20-%20Membership%20rolls%3B%20voting%20rights%20of%20member.md) | Membership rolls; voting rights of member. |
-| [713f.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713f%20-%20Establishment%20of%20tribal%20reservation.md) | Establishment of tribal reservation. |
-| [713g.](Subchapter%20030%E2%80%93C%20%28XXX%E2%80%93C%29%20-%20Confederated%20Tribes%20of%20the%20Grand%20Ronde%20Community%20of%20Oregon/%C2%A7%2000713g%20-%20Regulations.md) | Regulations. |
+| 713 to 713g. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -733,13 +270,7 @@
 
 |  |  |
 | :--- | ---: |
-| [714\.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714%20-%20Definitions.md) | Definitions. |
-| [714a.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714a%20-%20Extension%20of%20Federal%20recognition%2C%20rights%2C%20and%20privileges.md) | Extension of Federal recognition, rights, and privileges. |
-| [714b.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714b%20-%20Membership%20rolls.md) | Membership rolls. |
-| [714c.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714c%20-%20Interim%20Council.md) | Interim Council. |
-| [714d.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714d%20-%20Tribal%20constitution%20and%20bylaws.md) | Tribal constitution and bylaws. |
-| [714e.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714e%20-%20Reservation.md) | Reservation. |
-| [714f.](Subchapter%20030%E2%80%93D%20%28XXX%E2%80%93D%29%20-%20Confederated%20Tribes%20of%20Coos%2C%20Lower%20Umpqua%2C%20and%20Siuslaw%20Indians%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000714f%20-%20Regulations.md) | Regulations. |
+| 714 to 714f. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -747,15 +278,7 @@
 
 |  |  |
 | :--- | ---: |
-| [715\.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715%20-%20Definitions.md) | Definitions. |
-| [715a.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715a%20-%20Restoration%20of%20Federal%20recognition%2C%20rights%2C%20and%20privileges.md) | Restoration of Federal recognition, rights, and privileges. |
-| [715b.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715b%20-%20Economic%20development.md) | Economic development. |
-| [715c.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715c%20-%20Transfer%20of%20land%20to%20be%20held%20in%20trust.md) | Transfer of land to be held in trust. |
-| [715d.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715d%20-%20Criminal%20and%20civil%20jurisdiction.md) | Criminal and civil jurisdiction. |
-| [715e.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715e%20-%20Membership%20rolls.md) | Membership rolls. |
-| [715f.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715f%20-%20Interim%20government.md) | Interim government. |
-| [715g.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715g%20-%20Tribal%20constitution.md) | Tribal constitution. |
-| [715h.](Subchapter%20030%E2%80%93E%20%28XXX%E2%80%93E%29%20-%20Coquille%20Indian%20Tribe%20of%20Oregon%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000715h%20-%20Land%20and%20interests%20of%20Coquille%20Indian%20Tribe%2C%20Oregon.md) | Land and interests of Coquille Indian Tribe, Oregon. |
+| 715 to 715h. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -763,14 +286,7 @@
 
 |  |  |
 | :--- | ---: |
-| [721\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000721%20-%20Transfer%20of%20property%20to%20Texas.md) | Transfer of property to Texas. |
-| [722\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000722%20-%20Termination%20of%20Federal%20trust%3B%20publication%3B%20termination%20of%20Federal%20services%3B%20admission%20to%20hospitals%20and%20schools.md) | Termination of Federal trust; publication; termination of Federal services; admission to hospitals and schools. |
-| [723\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000723%20-%20Termination%20of%20Federal%20powers%20over%20tribe.md) | Termination of Federal powers over tribe. |
-| [724\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000724%20-%20Cancellation%20of%20indebtedness.md) | Cancellation of indebtedness. |
-| [725\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000725%20-%20Revocation%20of%20corporate%20charter.md) | Revocation of corporate charter. |
-| [726\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000726%20-%20Applicability%20of%20Federal%20and%20State%20laws.md) | Applicability of Federal and State laws. |
-| [727\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000727%20-%20Citizenship%20status%20unaffected.md) | Citizenship status unaffected. |
-| [728\.](Subchapter%20031%20%28XXXI%29%20-%20Alabama%20and%20Coushatta%20Indians%20of%20Texas%20Termination%20of%20Federal%20Supervision/%C2%A7%2000728%20-%20Protection%20of%20Alabama%20and%20Coushatta%20Indians%20and%20conservation%20of%20resources%20after%20issuance%20of%20proclamation.md) | Protection of Alabama and Coushatta Indians and conservation of resources after issuance of proclamation. |
+| 721 to 728. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -778,13 +294,7 @@
 
 |  |  |
 | :--- | ---: |
-| [731\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000731%20-%20Definitions.md) | Definitions. |
-| [732\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000732%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20considered%20as%20one%20tribe.md) | Alabama and Coushatta Indian Tribes of Texas considered as one tribe. |
-| [733\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000733%20-%20Restoration%20of%20Federal%20trust%20relationship%3B%20Federal%20services%20and%20assistance.md) | Restoration of Federal trust relationship; Federal services and assistance. |
-| [734\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000734%20-%20State%20and%20tribal%20authority.md) | State and tribal authority. |
-| [735\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000735%20-%20Adoption%20of%20new%20constitution%20and%20bylaws.md) | Adoption of new constitution and bylaws. |
-| [736\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000736%20-%20Provisions%20relating%20to%20tribal%20reservation.md) | Provisions relating to tribal reservation. |
-| [737\.](Subchapter%20031%E2%80%93A%20%28XXXI%E2%80%93A%29%20-%20Alabama%20and%20Coushatta%20Indian%20Tribes%20of%20Texas%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000737%20-%20Gaming%20activities.md) | Gaming activities. |
+| 731 to 737. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -792,26 +302,7 @@
 
 |  |  |
 | :--- | ---: |
-| [741\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000741%20-%20Purpose.md) | Purpose. |
-| [742\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000742%20-%20Definitions.md) | Definitions. |
-| [743\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000743%20-%20Membership%20roll%3B%20preparation%20and%20initial%20publication%3B%20appeal%20from%20inclusion%20or%20omission%20from%20roll%3B%20finality%20of%20determination%3B%20final%E2%80%A6.md) | Membership roll; preparation and initial publication; appeal from inclusion or omission from roll; finality of determination; final publication. |
-| [744\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000744%20-%20Personal%20property%20rights%3B%20restrictions.md) | Personal property rights; restrictions. |
-| [745\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000745%20-%20Tribal%20property.md) | Tribal property. |
-| [746\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000746%20-%20Individual%20property.md) | Individual property. |
-| [747\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000747%20-%20Property%20of%20deceased%20members.md) | Property of deceased members. |
-| [748\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000748%20-%20Transfer%20of%20federally%20owned%20property.md) | Transfer of federally owned property. |
-| [749\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000749%20-%20Taxes%3B%20initial%20exemption%3B%20taxes%20following%20distribution%3B%20valuation%20for%20capital%20gains%20and%20losses.md) | Taxes; initial exemption; taxes following distribution; valuation for capital gains and losses. |
-| [750\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000750%20-%20Indian%20claims%20unaffected.md) | Indian claims unaffected. |
-| [751\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000751%20-%20Valid%20leases%2C%20permits%2C%20liens%2C%20etc.%2C%20unaffected.md) | Valid leases, permits, liens, etc., unaffected. |
-| [752\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000752%20-%20Water%20rights.md) | Water rights. |
-| [753\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000753%20-%20Protection%20of%20minors%2C%20persons%20non%20compos%20mentis%20and%20other%20members%20needing%20assistance%3B%20guardians%3B%20other%20adequate%20means.md) | Protection of minors, persons non compos mentis and other members needing assistance; guardians; other adequate means. |
-| [754\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000754%20-%20Advances%20or%20expenditures%20from%20tribal%20funds.md) | Advances or expenditures from tribal funds. |
-| [755\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000755%20-%20Execution%20by%20Secretary%20of%20patents%2C%20deeds%2C%20etc.md) | Execution by Secretary of patents, deeds, etc. |
-| [756\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000756%20-%20Cancellation%20of%20indebtedness.md) | Cancellation of indebtedness. |
-| [757\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000757%20-%20Termination%20of%20Federal%20trust.md) | Termination of Federal trust. |
-| [758\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000758%20-%20Status%20of%20Tribes.md) | Status of Tribes. |
-| [759\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000759%20-%20Rules%20and%20regulations%3B%20tribal%20referenda.md) | Rules and regulations; tribal referenda. |
-| [760\.](Subchapter%20032%20%28XXXII%29%20-%20Paiute%20Indians%20of%20Utah%20Termination%20of%20Federal%20Supervision/%C2%A7%2000760%20-%20Education%20and%20training%20program%3B%20purposes%3B%20subjects%3B%20transportation%3B%20subsistence%3B%20contracts%3B%20other%20education%20programs.md) | Education and training program; purposes; subjects; transportation; subsistence; contracts; other education programs. |
+| 741 to 760. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -819,14 +310,7 @@
 
 |  |  |
 | :--- | ---: |
-| [761\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000761%20-%20Definitions.md) | Definitions. |
-| [762\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000762%20-%20Federal%20restoration%20of%20supervision.md) | Federal restoration of supervision. |
-| [763\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000763%20-%20Membership%20roll.md) | Membership roll. |
-| [764\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000764%20-%20Interim%20Council.md) | Interim Council. |
-| [765\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000765%20-%20Tribal%20constitution%20and%20bylaws.md) | Tribal constitution and bylaws. |
-| [766\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000766%20-%20Tribal%20reservation.md) | Tribal reservation. |
-| [767\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000767%20-%20Legal%20claims%20barred%20for%20lands%20lost%20through%20tax%20or%20other%20sales%20since%20September%201%2C%201954.md) | Legal claims barred for lands lost through tax or other sales since September 1, 1954. |
-| [768\.](Subchapter%20032%E2%80%93A%20%28XXXII%E2%80%93A%29%20-%20Paiute%20Indians%20of%20Utah%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000768%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 761 to 768. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -834,11 +318,7 @@
 
 |  |  |
 | :--- | ---: |
-| [771\.](Subchapter%20033%20%28XXXIII%29%20-%20Indian%20Tribes%20of%20Oregon/%C2%A7%2000771%20-%20Enrollment%20of%20descendants%3B%20determination%20of%20eligibility.md) | Enrollment of descendants; determination of eligibility. |
-| [772\.](Subchapter%20033%20%28XXXIII%29%20-%20Indian%20Tribes%20of%20Oregon/%C2%A7%2000772%20-%20Per%20capita%20payments%20to%20tribal%20members%3B%20tax%20exemption.md) | Per capita payments to tribal members; tax exemption. |
-| [773\.](Subchapter%20033%20%28XXXIII%29%20-%20Indian%20Tribes%20of%20Oregon/%C2%A7%2000773%20-%20Payments.md) | Payments. |
-| [774\.](Subchapter%20033%20%28XXXIII%29%20-%20Indian%20Tribes%20of%20Oregon/%C2%A7%2000774%20-%20Costs.md) | Costs. |
-| [775\.](Subchapter%20033%20%28XXXIII%29%20-%20Indian%20Tribes%20of%20Oregon/%C2%A7%2000775%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 771 to 775. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -846,22 +326,7 @@
 
 |  |  |
 | :--- | ---: |
-| [781\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000781%20-%20Distribution%20of%20funds.md) | Distribution of funds. |
-| [782\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000782%20-%20Payment%20to%20heirs%20or%20legatees.md) | Payment to heirs or legatees. |
-| [783\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000783%20-%20Payments%20to%20minors%20or%20persons%20under%20legal%20disability%3B%20liens%2C%20exception%3B%20tax%20exemption.md) | Payments to minors or persons under legal disability; liens, exception; tax exemption. |
-| [784\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000784%20-%20Appropriations.md) | Appropriations. |
-| [785\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000785%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [786\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000786%20-%20Credit%20of%20unclaimed%20and%20unpaid%20share%20of%20funds.md) | Credit of unclaimed and unpaid share of funds. |
-| [787\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000787%20-%20Advances%20or%20expenditures%20from%20tribal%20funds.md) | Advances or expenditures from tribal funds. |
-| [788\.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788%20-%20Federal%20trust%20upon%20escheat%20of%20estates%20of%20members%20dying%20intestate%20without%20heirs.md) | Federal trust upon escheat of estates of members dying intestate without heirs. |
-| [788a.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788a%20-%20Disposition%20of%20judgment%20funds%3B%20preparation%20of%20Indian%20roll%3B%20eligibility.md) | Disposition of judgment funds; preparation of Indian roll; eligibility. |
-| [788b.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788b%20-%20Distribution%20of%20funds%3B%20tax%20exemption%3B%20equal%20shares.md) | Distribution of funds; tax exemption; equal shares. |
-| [788c.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788c%20-%20Heirs%20of%20deceased%20enrollees.md) | Heirs of deceased enrollees. |
-| [788d.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788d%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [788e.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788e%20-%20Disposition%20of%20judgment%20funds.md) | Disposition of judgment funds. |
-| [788f.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788f%20-%20Distribution%20of%20funds%3B%20tax%20exemption%3B%20equal%20shares.md) | Distribution of funds; tax exemption; equal shares. |
-| [788g.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788g%20-%20Heirs%20of%20deceased%20enrollees.md) | Heirs of deceased enrollees. |
-| [788h.](Subchapter%20034%20%28XXXIV%29%20-%20Creek%20Nation%20of%20Indians/%C2%A7%2000788h%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 781 to 788h. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -893,10 +358,7 @@
 
 |  |  |
 | :--- | ---: |
-| [861\.](Subchapter%20037%E2%80%93A%20%28XXXVII%E2%80%93A%29%20-%20Wyandotte%2C%20Peoria%2C%20Ottawa%2C%20and%20Modoc%20Tribes%20of%20Oklahoma%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000861%20-%20Federal%20recognition%20of%20Wyandotte%2C%20Ottawa%2C%20and%20Peoria%20Tribes.md) | Federal recognition of Wyandotte, Ottawa, and Peoria Tribes. |
-| [861a.](Subchapter%20037%E2%80%93A%20%28XXXVII%E2%80%93A%29%20-%20Wyandotte%2C%20Peoria%2C%20Ottawa%2C%20and%20Modoc%20Tribes%20of%20Oklahoma%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000861a%20-%20Organization%20of%20tribes.md) | Organization of tribes. |
-| [861b.](Subchapter%20037%E2%80%93A%20%28XXXVII%E2%80%93A%29%20-%20Wyandotte%2C%20Peoria%2C%20Ottawa%2C%20and%20Modoc%20Tribes%20of%20Oklahoma%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000861b%20-%20Restoration%20of%20supervision%20as%20fulfilling%20other%20Federal%20statutory%20requirements.md) | Restoration of supervision as fulfilling other Federal statutory requirements. |
-| [861c.](Subchapter%20037%E2%80%93A%20%28XXXVII%E2%80%93A%29%20-%20Wyandotte%2C%20Peoria%2C%20Ottawa%2C%20and%20Modoc%20Tribes%20of%20Oklahoma%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000861c%20-%20Programs%20and%20services%20by%20United%20States%3B%20participation%20in%20by%20tribes%20as%20result%20of%20return%20to%20status%20as%20Indians.md) | Programs and services by United States; participation in by tribes as result of return to status as Indians. |
+| 861 to 861c. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -904,12 +366,7 @@
 
 |  |  |
 | :--- | ---: |
-| [871\.](Subchapter%20038%20%28XXXVIII%29%20-%20Otoe%20and%20Missouria%20Indians/%C2%A7%2000871%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20finality%20of%20determination.md) | Membership roll; preparation; eligibility for enrollment; finality of determination. |
-| [872\.](Subchapter%20038%20%28XXXVIII%29%20-%20Otoe%20and%20Missouria%20Indians/%C2%A7%2000872%20-%20Per%20capita%20distribution%20to%20tribal%20members.md) | Per capita distribution to tribal members. |
-| [873\.](Subchapter%20038%20%28XXXVIII%29%20-%20Otoe%20and%20Missouria%20Indians/%C2%A7%2000873%20-%20Per%20capita%20payments.md) | Per capita payments. |
-| [874\.](Subchapter%20038%20%28XXXVIII%29%20-%20Otoe%20and%20Missouria%20Indians/%C2%A7%2000874%20-%20Costs.md) | Costs. |
-| [875\.](Subchapter%20038%20%28XXXVIII%29%20-%20Otoe%20and%20Missouria%20Indians/%C2%A7%2000875%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [876\.](Subchapter%20038%20%28XXXVIII%29%20-%20Otoe%20and%20Missouria%20Indians/%C2%A7%2000876%20-%20Advances%20or%20expenditures%20from%20tribal%20funds%3B%20tax%20exemption.md) | Advances or expenditures from tribal funds; tax exemption. |
+| 871 to 876. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -917,15 +374,7 @@
 
 |  |  |
 | :--- | ---: |
-| [881\.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000881%20-%20Potawatomi%20Indians%3B%20disposition%20of%20judgment%20fund%3B%20deductions%3B%20advances%20or%20expenditures%20for%20authorized%20purposes%3B%20tax%20exemption.md) | Potawatomi Indians; disposition of judgment fund; deductions; advances or expenditures for authorized purposes; tax exemption. |
-| [881a.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000881a%20-%20Trusts%20and%20other%20procedures%20for%20protection%20of%20minors%20and%20persons%20under%20legal%20disability.md) | Trusts and other procedures for protection of minors and persons under legal disability. |
-| [882\.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000882%20-%20Sac%20and%20Fox%20Tribes%3B%20disposition%20of%20judgment%20fund%3B%20deductions%3B%20advances%2C%20expenditures%2C%20investments%2C%20or%20reinvestments%20for%20authorized%20purposes.md) | Sac and Fox Tribes; disposition of judgment fund; deductions; advances, expenditures, investments, or reinvestments for authorized purposes. |
-| [882a.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000882a%20-%20Tax%20exemption.md) | Tax exemption. |
-| [883\.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000883%20-%20Osage%20Tribe%3B%20disposition%20of%20judgment%20fund.md) | Osage Tribe; disposition of judgment fund. |
-| [883a.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000883a%20-%20Payment%20of%20allotments.md) | Payment of allotments. |
-| [883b.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000883b%20-%20Per%20capita%20shares%3B%20filing%20claims%3B%20reversion%20of%20unclaimed%20shares.md) | Per capita shares; filing claims; reversion of unclaimed shares. |
-| [883c.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000883c%20-%20Income%20tax%20exemption.md) | Income tax exemption. |
-| [883d.](Subchapter%20039%20%28XXXIX%29%20-%20Indians%20of%20Oklahoma/%C2%A7%2000883d%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 881 to 883d. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -941,13 +390,7 @@
 
 |  |  |
 | :--- | ---: |
-| [903\.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903%20-%20Definitions.md) | Definitions. |
-| [903a.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903a%20-%20Federal%20recognition.md) | Federal recognition. |
-| [903b.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903b%20-%20Menominee%20Restoration%20Committee.md) | Menominee Restoration Committee. |
-| [903c.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903c%20-%20Tribal%20constitution%20and%20bylaws.md) | Tribal constitution and bylaws. |
-| [903d.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903d%20-%20Transfer%20of%20assets%20of%20Menominee%20Enterprises%2C%20Inc.md) | Transfer of assets of Menominee Enterprises, Inc. |
-| [903e.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903e%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [903f.](Subchapter%20041%20%28XLI%29%20-%20Menominee%20Tribe%20of%20Wisconsin%20Restoration%20of%20Federal%20Supervision/%C2%A7%2000903f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 903 to 903g. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -955,10 +398,7 @@
 
 |  |  |
 | :--- | ---: |
-| [911\.](Subchapter%20042%20%28XLII%29%20-%20Quapaw%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000911%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20applications%20for%20enrollment%3B%20protests%3B%20finality%20of%20determination.md) | Membership roll; preparation; eligibility for enrollment; applications for enrollment; protests; finality of determination. |
-| [912\.](Subchapter%20042%20%28XLII%29%20-%20Quapaw%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000912%20-%20Per%20capita%20payments%20to%20enrollees%2C%20heirs%20or%20legatees%3B%20tax%20exemption.md) | Per capita payments to enrollees, heirs or legatees; tax exemption. |
-| [913\.](Subchapter%20042%20%28XLII%29%20-%20Quapaw%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000913%20-%20Distribution%20of%20shares.md) | Distribution of shares. |
-| [914\.](Subchapter%20042%20%28XLII%29%20-%20Quapaw%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000914%20-%20Costs.md) | Costs. |
+| 911 to 914. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -974,21 +414,7 @@
 
 |  |  |
 | :--- | ---: |
-| [941\.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941%20-%20Declaration%20of%20policy%2C%20Congressional%20findings%20and%20purpose.md) | Declaration of policy, Congressional findings and purpose. |
-| [941a.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941a%20-%20Definitions.md) | Definitions. |
-| [941b.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941b%20-%20Restoration%20of%20Federal%20trust%20relationship.md) | Restoration of Federal trust relationship. |
-| [941c.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941c%20-%20Settlement%20funds.md) | Settlement funds. |
-| [941d.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941d%20-%20Ratification%20of%20prior%20transfers%3B%20extinguishment%20of%20aboriginal%20title%2C%20rights%20and%20claims.md) | Ratification of prior transfers; extinguishment of aboriginal title, rights and claims. |
-| [941e.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941e%20-%20Base%20membership%20roll.md) | Base membership roll. |
-| [941f.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941f%20-%20Transitional%20and%20provisional%20government.md) | Transitional and provisional government. |
-| [941g.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941g%20-%20Tribal%20constitution%20and%20governance.md) | Tribal constitution and governance. |
-| [941h.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941h%20-%20Administrative%20provisions%20relating%20to%20jurisdiction%2C%20taxation%2C%20and%20other%20matters.md) | Administrative provisions relating to jurisdiction, taxation, and other matters. |
-| [941i.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941i%20-%20Tribal%20trust%20funds.md) | Tribal trust funds. |
-| [941j.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941j%20-%20Establishment%20of%20Expanded%20Reservation.md) | Establishment of Expanded Reservation. |
-| [941k.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941k%20-%20Non-Reservation%20properties.md) | Non-Reservation properties. |
-| 941<i>l.</i> | Games of chance. |
-| [941m.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941m%20-%20General%20provisions.md) | General provisions. |
-| [941n.](Subchapter%20043%E2%80%93A%20%28XLIII%E2%80%93A%29%20-%20Catawba%20Indian%20Tribe%20of%20South%20Carolina%3B%20Restoration%20of%20Federal%20Trust%20Relationship/%C2%A7%2000941n%20-%20Tax%20treatment%20of%20income%20and%20transactions.md) | Tax treatment of income and transactions. |
+| 941 to 941n. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -996,14 +422,7 @@
 
 |  |  |
 | :--- | ---: |
-| [951\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000951%20-%20Authority%20to%20equalize%20allotments.md) | Authority to equalize allotments. |
-| [952\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000952%20-%20Members%20entitled%20to%20allotment%3B%20prohibition%20against%20further%20allotments.md) | Members entitled to allotment; prohibition against further allotments. |
-| [953\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000953%20-%20Lands.md) | Lands. |
-| [954\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000954%20-%20Powers%20and%20duties%20of%20guardians.md) | Powers and duties of guardians. |
-| [955\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000955%20-%20Tax%20exemption.md) | Tax exemption. |
-| [956\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000956%20-%20Claims%20against%20allotments.md) | Claims against allotments. |
-| [957\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000957%20-%20Allotments%20deemed%20full%20equalization.md) | Allotments deemed full equalization. |
-| [958\.](Subchapter%20044%20%28XLIV%29%20-%20Agua%20Caliente%20%28Palm%20Springs%29%20Reservation%20of%20California%20Equalization%20of%20Allotments/%C2%A7%2000958%20-%20Organization%20and%20transfer%20of%20title%20to%20legal%20entity.md) | Organization and transfer of title to legal entity. |
+| 951 to 958. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1011,17 +430,7 @@
 
 |  |  |
 | :--- | ---: |
-| [961\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000961%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20applications%20for%20enrollment%3B%20protests%3B%20finality%20of%20determination.md) | Membership roll; preparation; eligibility for enrollment; applications for enrollment; protests; finality of determination. |
-| [962\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000962%20-%20Membership%20roll%3B%20enrollment%20of%20children%20born%20after%20September%2014%2C%201961.md) | Membership roll; enrollment of children born after September 14, 1961. |
-| [963\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000963%20-%20Per%20capita%20distributions%20to%20tribal%20members%3B%20attorneys%27%20fees%20and%20expenses%3B%20advances%20or%20expenditures%20from%20tribal%20funds%3B%20tax%20exemption.md) | Per capita distributions to tribal members; attorneys' fees and expenses; advances or expenditures from tribal funds; tax exemption. |
-| [964\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000964%20-%20Distribution%20of%20shares.md) | Distribution of shares. |
-| [965\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000965%20-%20Payments%20not%20subject%20to%20liens%2C%20debts%2C%20or%20claims%3B%20exception.md) | Payments not subject to liens, debts, or claims; exception. |
-| [966\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000966%20-%20Costs.md) | Costs. |
-| [967\.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000967%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [967a.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000967a%20-%20Per%20capita%20payments%20to%20enrolled%20tribal%20members%3B%20use%20of%20balance%20of%20funds.md) | Per capita payments to enrolled tribal members; use of balance of funds. |
-| [967b.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000967b%20-%20Payments%20to%20minors%20and%20persons%20under%20legal%20disability%3B%20shares%20under%20certain%20amount%20to%20revert%20to%20tribe.md) | Payments to minors and persons under legal disability; shares under certain amount to revert to tribe. |
-| [967c.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000967c%20-%20Tax%20exemption.md) | Tax exemption. |
-| [967d.](Subchapter%20045%20%28XLV%29%20-%20Omaha%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000967d%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 961 to 967d. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1029,16 +438,7 @@
 
 |  |  |
 | :--- | ---: |
-| [971\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000971%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20protests%20against%20inclusion%20or%20omission%20from%20roll%3B%20finality%20of%20determination%E2%80%A6.md) | Membership roll; preparation; eligibility for enrollment; protests against inclusion or omission from roll; finality of determination; publication of roll; publication of notice of agreement to division of assets; finality of roll. |
-| [972\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000972%20-%20Personal%20property%20rights%3B%20restrictions.md) | Personal property rights; restrictions. |
-| [973\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000973%20-%20Distribution%20of%20assets.md) | Distribution of assets. |
-| [974\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000974%20-%20Sale%20of%20trust%20lands.md) | Sale of trust lands. |
-| [975\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000975%20-%20Land%20surveys%20and%20execution%20of%20conveyances%20by%20Secretary%3B%20title%20of%20grantee.md) | Land surveys and execution of conveyances by Secretary; title of grantee. |
-| [976\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000976%20-%20Indian%20claims%20unaffected.md) | Indian claims unaffected. |
-| [977\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000977%20-%20Rights%2C%20privileges%2C%20and%20obligations%20under%20Nebraska%20laws%20unaffected.md) | Rights, privileges, and obligations under Nebraska laws unaffected. |
-| [978\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000978%20-%20Taxes%3B%20initial%20exemption%3B%20taxes%20following%20distribution%3B%20valuation%20for%20capital%20gains%20or%20losses.md) | Taxes; initial exemption; taxes following distribution; valuation for capital gains or losses. |
-| [979\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000979%20-%20Expenses%3B%20appropriation%20authorization.md) | Expenses; appropriation authorization. |
-| [980\.](Subchapter%20046%20%28XLVI%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Termination%20of%20Federal%20Supervision/%C2%A7%2000980%20-%20Termination%20of%20Federal%20trust%3B%20publication%3B%20termination%20of%20Federal%20services%3B%20application%20of%20Federal%20and%20State%20laws%3B%20citizenship%20status%E2%80%A6.md) | Termination of Federal trust; publication; termination of Federal services; application of Federal and State laws; citizenship status unaffected. |
+| 971 to 980. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1046,15 +446,7 @@
 
 |  |  |
 | :--- | ---: |
-| [983\.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983%20-%20Definitions.md) | Definitions. |
-| [983a.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983a%20-%20Federal%20recognition.md) | Federal recognition. |
-| [983b.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983b%20-%20Restoration%20of%20rights.md) | Restoration of rights. |
-| [983c.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983c%20-%20Services.md) | Services. |
-| [983d.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983d%20-%20Interim%20government.md) | Interim government. |
-| [983e.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983e%20-%20Membership%20roll.md) | Membership roll. |
-| [983f.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983f%20-%20Tribal%20constitution.md) | Tribal constitution. |
-| [983g.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983g%20-%20Regulations.md) | Regulations. |
-| [983h.](Subchapter%20046%E2%80%93A%20%28XLVI%E2%80%93A%29%20-%20Ponca%20Tribe%20of%20Nebraska%20Restoration%20of%20Rights%20and%20Privileges/%C2%A7%2000983h%20-%20Economic%20development%20plan.md) | Economic development plan. |
+| 983 to 983h. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1062,14 +454,7 @@
 
 |  |  |
 | :--- | ---: |
-| [991\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000991%20-%20Per%20capita%20payments%20to%20tribal%20members%3B%20closure%20of%20rolls%3B%20appropriations%3B%20accrued%20interest%3B%20deductions.md) | Per capita payments to tribal members; closure of rolls; appropriations; accrued interest; deductions. |
-| [992\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000992%20-%20Payments%20to%20adults%2C%20heirs%20or%20legatees%3B%20shares%20under%20certain%20amounts%20to%20revert%20to%20tribe%3B%20protection%20of%20minors%20and%20persons%20under%20legal%E2%80%A6.md) | Payments to adults, heirs or legatees; shares under certain amounts to revert to tribe; protection of minors and persons under legal disability. |
-| [993\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000993%20-%20Claims.md) | Claims. |
-| [994\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000994%20-%20Tax%20exemption.md) | Tax exemption. |
-| [995\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000995%20-%20Payments%20not%20subject%20to%20liens%2C%20debts%2C%20or%20claims%3B%20exception.md) | Payments not subject to liens, debts, or claims; exception. |
-| [996\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000996%20-%20Payments%20not%20other%20income%20and%20resources.md) | Payments not "other income and resources". |
-| [997\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000997%20-%20Costs.md) | Costs. |
-| [998\.](Subchapter%20047%20%28XLVII%29%20-%20Cherokee%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2000998%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 991 to 998. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1077,11 +462,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1011\.](Subchapter%20048%20%28XLVIII%29%20-%20Snake%20or%20Paiute%20Indians%20of%20Oregon%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001011%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20time%20for%20filing%20application%3B%20finality%20of%20Secretary%27s%20determination.md) | Membership roll; preparation; eligibility for enrollment; time for filing application; finality of Secretary's determination. |
-| [1012\.](Subchapter%20048%20%28XLVIII%29%20-%20Snake%20or%20Paiute%20Indians%20of%20Oregon%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001012%20-%20Authorization%20to%20withdraw%2C%20prorate%20and%20distribute%20funds.md) | Authorization to withdraw, prorate and distribute funds. |
-| [1013\.](Subchapter%20048%20%28XLVIII%29%20-%20Snake%20or%20Paiute%20Indians%20of%20Oregon%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001013%20-%20Distribution%3B%20persons%20entitled%3B%20considerations%3B%20tax%20exemption.md) | Distribution; persons entitled; considerations; tax exemption. |
-| [1014\.](Subchapter%20048%20%28XLVIII%29%20-%20Snake%20or%20Paiute%20Indians%20of%20Oregon%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001014%20-%20Costs.md) | Costs. |
-| [1015\.](Subchapter%20048%20%28XLVIII%29%20-%20Snake%20or%20Paiute%20Indians%20of%20Oregon%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001015%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1011 to 1015. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1089,14 +470,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1031\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001031%20-%20Disposition%20of%20funds.md) | Disposition of funds. |
-| [1032\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001032%20-%20Absentee%20and%20Eastern%20Bands%3B%20authorization%20for%20use%20of%20funds%20by%20tribal%20governing%20bodies%3B%20approval%20of%20Secretary%20of%20the%20Interior.md) | Absentee and Eastern Bands; authorization for use of funds by tribal governing bodies; approval of Secretary of the Interior. |
-| [1033\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001033%20-%20Cherokee%20Band%3B%20preparation%20of%20roll%3B%20eligibility%20for%20enrollment%3B%20rules%20and%20regulations.md) | Cherokee Band; preparation of roll; eligibility for enrollment; rules and regulations. |
-| [1034\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001034%20-%20Cherokee%20Band%3B%20per%20capita%20distribution.md) | Cherokee Band; per capita distribution. |
-| [1035\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001035%20-%20Distribution%20of%20shares.md) | Distribution of shares. |
-| [1036\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001036%20-%20Taxes.md) | Taxes. |
-| [1037\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001037%20-%20Costs.md) | Costs. |
-| [1038\.](Subchapter%20049%20%28XLIX%29%20-%20Shawnee%20Tribe%20or%20Nation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001038%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1031 to 1038. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1104,15 +478,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1041\.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041%20-%20Findings.md) | Findings. |
-| [1041a.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041a%20-%20Definitions.md) | Definitions. |
-| [1041b.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041b%20-%20Federal%20recognition%2C%20trust%20relationship%2C%20and%20program%20eligibility.md) | Federal recognition, trust relationship, and program eligibility. |
-| [1041c.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041c%20-%20Establishment%20of%20a%20tribal%20roll.md) | Establishment of a tribal roll. |
-| [1041d.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041d%20-%20Organization%20of%20the%20Tribe%3B%20tribal%20constitution.md) | Organization of the Tribe; tribal constitution. |
-| [1041e.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041e%20-%20Tribal%20land.md) | Tribal land. |
-| [1041f.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041f%20-%20Jurisdiction.md) | Jurisdiction. |
-| [1041g.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041g%20-%20Individual%20Indian%20land.md) | Individual Indian land. |
-| [1041h.](Subchapter%20049%E2%80%93A%20%28XLIX%E2%80%93A%29%20-%20Shawnee%20Tribe%20Status/%C2%A7%2001041h%20-%20Treaties%20not%20affected.md) | Treaties not affected. |
+| 1041 to 1041h. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1120,11 +486,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1051\.](Subchapter%20050%20%28L%29%20-%20Tillamook%20and%20Nehalem%20Bands%20of%20the%20Tillamook%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001051%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20filing%20of%20applications%3B%20finality%20of%20Secretary%27s%20decision.md) | Membership roll; preparation; eligibility for enrollment; filing of applications; finality of Secretary's decision. |
-| [1052\.](Subchapter%20050%20%28L%29%20-%20Tillamook%20and%20Nehalem%20Bands%20of%20the%20Tillamook%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001052%20-%20Distribution%20of%20funds%3B%20pro%20rata%20basis.md) | Distribution of funds; pro rata basis. |
-| [1053\.](Subchapter%20050%20%28L%29%20-%20Tillamook%20and%20Nehalem%20Bands%20of%20the%20Tillamook%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001053%20-%20Taxes.md) | Taxes. |
-| [1054\.](Subchapter%20050%20%28L%29%20-%20Tillamook%20and%20Nehalem%20Bands%20of%20the%20Tillamook%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001054%20-%20Costs.md) | Costs. |
-| [1055\.](Subchapter%20050%20%28L%29%20-%20Tillamook%20and%20Nehalem%20Bands%20of%20the%20Tillamook%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001055%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1051 to 1055. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1132,9 +494,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1071\.](Subchapter%20051%20%28LI%29%20-%20Confederated%20Tribes%20of%20the%20Colville%20Reservation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001071%20-%20Per%20capita%20payments%20to%20enrolled%20tribal%20members%3B%20tax%20exemption.md) | Per capita payments to enrolled tribal members; tax exemption. |
-| [1072\.](Subchapter%20051%20%28LI%29%20-%20Confederated%20Tribes%20of%20the%20Colville%20Reservation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001072%20-%20Per%20capita%20distribution%3B%20limitation%20of%20%24950%20per%20share.md) | Per capita distribution; limitation of $950 per share. |
-| [1073\.](Subchapter%20051%20%28LI%29%20-%20Confederated%20Tribes%20of%20the%20Colville%20Reservation%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001073%20-%20Tax%20exemption%3B%20payments%20to%20minors%20and%20persons%20under%20legal%20disabilities.md) | Tax exemption; payments to minors and persons under legal disabilities. |
+| 1071 to 1073. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1142,14 +502,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1081\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001081%20-%20Division%20of%20funds%20on%20basis%20of%20tribal%20membership%20rolls%3B%20advances%20or%20expenditures%20from%20tribal%20funds.md) | Division of funds on basis of tribal membership rolls; advances or expenditures from tribal funds. |
-| [1082\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001082%20-%20Membership%20rolls%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20relinquishment%20of%20membership%20with%20other%20tribes.md) | Membership rolls; preparation; eligibility for enrollment; relinquishment of membership with other tribes. |
-| [1083\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001083%20-%20Quileute%20base%20roll.md) | Quileute base roll. |
-| [1084\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001084%20-%20Hoh%20base%20roll.md) | Hoh base roll. |
-| [1085\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001085%20-%20Tribal%20organizational%20document%20development%20and%20adoption.md) | Tribal organizational document: development and adoption. |
-| [1086\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001086%20-%20Advances%20or%20expenditures%20from%20tribal%20funds.md) | Advances or expenditures from tribal funds. |
-| [1087\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001087%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1088\.](Subchapter%20052%20%28LII%29%20-%20Quileute%20and%20Hoh%20Tribes%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001088%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1081 to 1088. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1157,11 +510,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1101\.](Subchapter%20053%20%28LIII%29%20-%20Nooksack%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001101%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20filing%20of%20applications%3B%20finality%20of%20determination.md) | Membership roll; preparation; eligibility for enrollment; filing of applications; finality of determination. |
-| [1102\.](Subchapter%20053%20%28LIII%29%20-%20Nooksack%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001102%20-%20Distribution%20of%20funds%3B%20persons%20entitled.md) | Distribution of funds; persons entitled. |
-| [1103\.](Subchapter%20053%20%28LIII%29%20-%20Nooksack%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001103%20-%20Payments%20to%20enrollees%2C%20heirs%20or%20legatees%3B%20protection%20of%20minors%20and%20persons%20under%20legal%20disability%3B%20credits%20of%20shares%20under%20certain%E2%80%A6.md) | Payments to enrollees, heirs or legatees; protection of minors and persons under legal disability; credits of shares under certain amounts; escheat. |
-| [1104\.](Subchapter%20053%20%28LIII%29%20-%20Nooksack%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001104%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1105\.](Subchapter%20053%20%28LIII%29%20-%20Nooksack%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001105%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1101 to 1105. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1169,26 +518,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1111\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001111%20-%20Distribution%20and%20use%20of%20funds.md) | Distribution and use of funds. |
-| [1112\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001112%20-%20Advances%20or%20expenditures%20from%20funds%20of%20Miami%20Tribe%20of%20Oklahoma%3B%20persons%20entitled.md) | Advances or expenditures from funds of Miami Tribe of Oklahoma; persons entitled. |
-| [1113\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001113%20-%20Miami%20Indians%20of%20Indiana%3B%20membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment.md) | Miami Indians of Indiana; membership roll; preparation; eligibility for enrollment. |
-| [1114\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001114%20-%20Miami%20Indians%20of%20Oklahoma%3B%20membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment.md) | Miami Indians of Oklahoma; membership roll; preparation; eligibility for enrollment. |
-| [1115\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001115%20-%20Applications%3B%20place%20for%20filing%3B%20finality%20of%20determination.md) | Applications; place for filing; finality of determination. |
-| [1116\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001116%20-%20Distribution%20of%20funds%20of%20Miami%20Indians%20of%20Indiana%3B%20persons%20entitled.md) | Distribution of funds of Miami Indians of Indiana; persons entitled. |
-| [1117\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001117%20-%20Distribution%20of%20funds%20of%20Miami%20Indians%20of%20Oklahoma%3B%20persons%20entitled.md) | Distribution of funds of Miami Indians of Oklahoma; persons entitled. |
-| [1118\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001118%20-%20Distribution%20of%20shares.md) | Distribution of shares. |
-| [1119\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001119%20-%20Reserve%20funds%20for%20expenses.md) | Reserve funds for expenses. |
-| [1120\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001120%20-%20Tax%20exemption%3B%20costs.md) | Tax exemption; costs. |
-| [1121\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001121%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [1122\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001122%20-%20Payment%20and%20distribution%20of%20judgment%20funds.md) | Payment and distribution of judgment funds. |
-| [1123\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001123%20-%20Costs.md) | Costs. |
-| [1124\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001124%20-%20Revision%20of%20enrollment%20list.md) | Revision of enrollment list. |
-| [1125\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001125%20-%20Applications%20for%20enrollment.md) | Applications for enrollment. |
-| [1126\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001126%20-%20Equal%20distribution%20to%20individuals%20enrolled.md) | Equal distribution to individuals enrolled. |
-| [1127\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001127%20-%20Use%20of%20appropriated%20funds%3B%20approval%20by%20Secretary%20on%20receipt%20of%20recommendations%20from%20tribal%20governing%20body.md) | Use of appropriated funds; approval by Secretary on receipt of recommendations from tribal governing body. |
-| [1128\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001128%20-%20Distribution%20of%20shares.md) | Distribution of shares. |
-| [1129\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001129%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1130\.](Subchapter%20054%20%28LIV%29%20-%20Miami%20Indians%20of%20Indiana%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001130%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1111 to 1130. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1196,11 +526,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1131\.](Subchapter%20055%20%28LV%29%20-%20Duwamish%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001131%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20applications%3B%20place%20for%20filing%3B%20finality%20of%20determination.md) | Membership roll; preparation; eligibility for enrollment; applications; place for filing; finality of determination. |
-| [1132\.](Subchapter%20055%20%28LV%29%20-%20Duwamish%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001132%20-%20Equal%20share%20distribution%3B%20persons%20entitled.md) | Equal share distribution; persons entitled. |
-| [1133\.](Subchapter%20055%20%28LV%29%20-%20Duwamish%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001133%20-%20Payments%20to%20enrollees%2C%20heirs%2C%20or%20legatees%3B%20protection%20of%20minors%20and%20persons%20under%20legal%20disability%3B%20escheats.md) | Payments to enrollees, heirs, or legatees; protection of minors and persons under legal disability; escheats. |
-| [1134\.](Subchapter%20055%20%28LV%29%20-%20Duwamish%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001134%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1135\.](Subchapter%20055%20%28LV%29%20-%20Duwamish%20Tribe%20of%20Washington%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001135%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1131 to 1135. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1208,13 +534,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1141\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001141%20-%20Distribution%20of%20funds%3B%20attorney%27s%20fees%20and%20expenses.md) | Distribution of funds; attorney's fees and expenses. |
-| [1142\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001142%20-%20Membership%20rolls%3B%20Oneida%20Tribe%20of%20Wisconsin%3B%20Stockbridge-Munsee%20Indian%20Community%20of%20Wisconsin%3B%20Brotherton%20Indians%20of%20Wisconsin.md) | Membership rolls; Oneida Tribe of Wisconsin; Stockbridge-Munsee Indian Community of Wisconsin; Brotherton Indians of Wisconsin. |
-| [1143\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001143%20-%20Assistance%20of%20Secretary%20in%20preparing%20membership%20rolls%3B%20applications%20for%20enrollment.md) | Assistance of Secretary in preparing membership rolls; applications for enrollment. |
-| [1144\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001144%20-%20Apportionment%3B%20ratio%20of%20apportioned%20shares.md) | Apportionment; ratio of apportioned shares. |
-| [1145\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001145%20-%20Disposition%20of%20apportioned%20shares.md) | Disposition of apportioned shares. |
-| [1146\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001146%20-%20Federal%20and%20State%20income%20taxes.md) | Federal and State income taxes. |
-| [1147\.](Subchapter%20056%20%28LVI%29%20-%20Emigrant%20New%20York%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001147%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1141 to 1147. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1222,11 +542,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1151\.](Subchapter%20057%20%28LVII%29%20-%20Upper%20and%20Lower%20Chehalis%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001151%20-%20Membership%20roll%3B%20preparation%3B%20eligibility%20for%20enrollment%3B%20applications%3B%20finality%20of%20determination.md) | Membership roll; preparation; eligibility for enrollment; applications; finality of determination. |
-| [1152\.](Subchapter%20057%20%28LVII%29%20-%20Upper%20and%20Lower%20Chehalis%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001152%20-%20Distribution%20in%20equal%20shares.md) | Distribution in equal shares. |
-| [1153\.](Subchapter%20057%20%28LVII%29%20-%20Upper%20and%20Lower%20Chehalis%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001153%20-%20Payments%20to%20minors%20and%20persons%20under%20legal%20disabilities%3B%20escheats.md) | Payments to minors and persons under legal disabilities; escheats. |
-| [1154\.](Subchapter%20057%20%28LVII%29%20-%20Upper%20and%20Lower%20Chehalis%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001154%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1155\.](Subchapter%20057%20%28LVII%29%20-%20Upper%20and%20Lower%20Chehalis%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001155%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1151 to 1155. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1234,13 +550,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1161\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001161%20-%20Authorization%20for%20distribution%20of%20funds.md) | Authorization for distribution of funds. |
-| [1162\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001162%20-%20Trust%3B%20education%20and%20scholarships%3B%20approval%20of%20agreement.md) | Trust; education and scholarships; approval of agreement. |
-| [1163\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001163%20-%20Payments%20to%20enrollees%2C%20heirs%20or%20legatees%3B%20trust%20for%20minors%20and%20persons%20under%20legal%20disability%3B%20approval%20of%20agreement.md) | Payments to enrollees, heirs or legatees; trust for minors and persons under legal disability; approval of agreement. |
-| [1164\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001164%20-%20Claims.md) | Claims. |
-| [1165\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001165%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1166\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001166%20-%20Costs.md) | Costs. |
-| [1167\.](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001167%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1161 to 1167. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1248,7 +558,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1171\.](Subchapter%20059%20%28LIX%29%20-%20Iowa%20Tribes%20of%20Kansas%20and%20Nebraska%20and%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001171%20-%20Distribution%20of%20funds%3B%20authorized%20spending%3B%20per%20capita%20payment%3B%20tax%20exemption.md) | Distribution of funds; authorized spending; per capita payment; tax exemption. |
+| 1171\. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1256,12 +566,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1181\.](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/%C2%A7%2001181%20-%20Distribution%20of%20judgment%20fund%3B%20preparation%20of%20Indian%20roll%3B%20eligibility.md) | Distribution of judgment fund; preparation of Indian roll; eligibility. |
-| [1182\.](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/%C2%A7%2001182%20-%20Division%20between%20Cherokee%20Delawares%20and%20the%20Delaware%20Tribe%20of%20Indians%20of%20Western%20Oklahoma.md) | Division between Cherokee Delawares and the Delaware Tribe of Indians of Western Oklahoma. |
-| [1183\.](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/%C2%A7%2001183%20-%20Equal%20share%20distribution.md) | Equal share distribution. |
-| [1184\.](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/%C2%A7%2001184%20-%20Heirs%20of%20deceased%20enrollees.md) | Heirs of deceased enrollees. |
-| [1185\.](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/%C2%A7%2001185%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1186\.](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/%C2%A7%2001186%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1181 to 1186. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1269,11 +574,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1191\.](Subchapter%20061%20%28LXI%29%20-%20Confederated/%C2%A7%2001191%20-%20Per%20capita%20distribution%3B%20trusts%20for%20minors%20and%20incompetents%3B%20payments%20to%20heirs%20or%20legatees.md) | Per capita distribution; trusts for minors and incompetents; payments to heirs or legatees. |
-| [1192\.](Subchapter%20061%20%28LXI%29%20-%20Confederated/%C2%A7%2001192%20-%20Eligibility%20for%20per%20capita%20payments.md) | Eligibility for per capita payments. |
-| [1193\.](Subchapter%20061%20%28LXI%29%20-%20Confederated/%C2%A7%2001193%20-%20Status%20of%20funds%20pending%20distribution.md) | Status of funds pending distribution. |
-| [1194\.](Subchapter%20061%20%28LXI%29%20-%20Confederated/%C2%A7%2001194%20-%20Per%20capita%20distributions%20as%20exempt%20from%20taxation.md) | Per capita distributions as exempt from taxation. |
-| [1195\.](Subchapter%20061%20%28LXI%29%20-%20Confederated/%C2%A7%2001195%20-%20Disposition%20of%20funds%20withheld%20from%20per%20capita%20distribution.md) | Disposition of funds withheld from per capita distribution. |
+| 1191 to 1195. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1281,11 +582,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1201\.](Subchapter%20062%20%28LXII%29%20-%20Sioux%20Tribe%20of%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001201%20-%20Per%20capita%20distributions%20to%20tribal%20members%3B%20attorney%27s%20fees%2C%20expenses%2C%20and%20other%20deductions%3B%20eligibility%20of%20members.md) | Per capita distributions to tribal members; attorney's fees, expenses, and other deductions; eligibility of members. |
-| [1202\.](Subchapter%20062%20%28LXII%29%20-%20Sioux%20Tribe%20of%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001202%20-%20Per%20capita%20shares%3B%20reversion%20to%20tribe%3B%20use%20of%20reverted%20funds.md) | Per capita shares; reversion to tribe; use of reverted funds. |
-| [1203\.](Subchapter%20062%20%28LXII%29%20-%20Sioux%20Tribe%20of%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001203%20-%20Protection%20of%20minors%20and%20persons%20under%20legal%20disability.md) | Protection of minors and persons under legal disability. |
-| [1204\.](Subchapter%20062%20%28LXII%29%20-%20Sioux%20Tribe%20of%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001204%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1205\.](Subchapter%20062%20%28LXII%29%20-%20Sioux%20Tribe%20of%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001205%20-%20Amount%20of%20agreed%20contribution%20to%20joint%20account%20for%20expenditure%20for%20official%20salaries%20and%20expenses%20of%20Fort%20Peck%20Tribes%3B%20discretionary%20per%E2%80%A6.md) | Amount of agreed contribution to joint account for expenditure for official salaries and expenses of Fort Peck Tribes; discretionary per capita distributions. |
+| 1201 to 1205. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1293,11 +590,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1211\.](Subchapter%20063%20%28LXIII%29%20-%20Tlingit%20and%20Haida%20Indians%20of%20Alaska/%C2%A7%2001211%20-%20Distribution%20of%20fund%3B%20authorized%20spending%3B%20tax%20exemption.md) | Distribution of fund; authorized spending; tax exemption. |
-| [1212\.](Subchapter%20063%20%28LXIII%29%20-%20Tlingit%20and%20Haida%20Indians%20of%20Alaska/%C2%A7%2001212%20-%20Findings.md) | Findings. |
-| [1213\.](Subchapter%20063%20%28LXIII%29%20-%20Tlingit%20and%20Haida%20Indians%20of%20Alaska/%C2%A7%2001213%20-%20Reaffirmation%20of%20tribal%20status.md) | Reaffirmation of tribal status. |
-| [1214\.](Subchapter%20063%20%28LXIII%29%20-%20Tlingit%20and%20Haida%20Indians%20of%20Alaska/%C2%A7%2001214%20-%20Disclaimer.md) | Disclaimer. |
-| [1215\.](Subchapter%20063%20%28LXIII%29%20-%20Tlingit%20and%20Haida%20Indians%20of%20Alaska/%C2%A7%2001215%20-%20Prohibition%20against%20duplicative%20services.md) | Prohibition against duplicative services. |
+| 1211 to 1215. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1305,13 +598,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1221\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001221%20-%20Membership%20roll.md) | Membership roll. |
-| [1222\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001222%20-%20Disposition%20of%20funds%20improvement%20and%20maintenance%20of%20Peoria%20Indian%20Cemetery%3B%20distribution%20of%20balance%20in%20equal%20shares.md) | Disposition of funds: improvement and maintenance of Peoria Indian Cemetery; distribution of balance in equal shares. |
-| [1223\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001223%20-%20Distribution%20of%20shares.md) | Distribution of shares. |
-| [1224\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001224%20-%20Subsequent%20judgment%20funds%3B%20distribution%3B%20preparation%20of%20current%20membership%20roll.md) | Subsequent judgment funds; distribution; preparation of current membership roll. |
-| [1225\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001225%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1226\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001226%20-%20Shares%20not%20distributed%20within%20two%20years%3B%20unexpended%20funds%3B%20reversion%3B%20bar%20of%20claims.md) | Shares not distributed within two years; unexpended funds; reversion; bar of claims. |
-| [1227\.](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001227%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1221 to 1227. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1319,12 +606,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1231\.](Subchapter%20065%20%28LXV%29%20-%20Chemehuevi%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001231%20-%20Persons%20eligible%20for%20equal%20share%20payments.md) | Persons eligible for equal share payments. |
-| [1232\.](Subchapter%20065%20%28LXV%29%20-%20Chemehuevi%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001232%20-%20Enrollment.md) | Enrollment. |
-| [1233\.](Subchapter%20065%20%28LXV%29%20-%20Chemehuevi%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001233%20-%20Payments%20to%20enrollees%3B%20per%20capita%20shares%20to%20heirs%20or%20legatees%3B%20trusts%20and%20other%20procedures%20for%20protection%20of%20minors%20and%20persons%20under%E2%80%A6.md) | Payments to enrollees; per capita shares to heirs or legatees; trusts and other procedures for protection of minors and persons under legal disability. |
-| [1234\.](Subchapter%20065%20%28LXV%29%20-%20Chemehuevi%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001234%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1235\.](Subchapter%20065%20%28LXV%29%20-%20Chemehuevi%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001235%20-%20Identity%20of%20eligibility%20roll%20and%20membership%20roll.md) | Identity of eligibility roll and membership roll. |
-| [1236\.](Subchapter%20065%20%28LXV%29%20-%20Chemehuevi%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001236%20-%20Costs.md) | Costs. |
+| 1231 to 1236. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1332,14 +614,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1241\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001241%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
-| [1242\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001242%20-%20Membership%20rolls%3B%20preparation%3B%20eligibility%3B%20excluded%20persons.md) | Membership rolls; preparation; eligibility; excluded persons. |
-| [1243\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001243%20-%20Enrollment%20applications%3B%20filing%3B%20finality%20of%20determination.md) | Enrollment applications; filing; finality of determination. |
-| [1244\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001244%20-%20Apportionment%20of%20funds%3B%20members%20and%20descendants%20of%20Minnesota%20Chippewa%20Tribe%2C%20the%20Turtle%20Mountain%20Band%20of%20Chippewas%20of%20North%20Dakota%2C%20the%E2%80%A6.md) | Apportionment of funds; members and descendents of Minnesota Chippewa Tribe, the Turtle Mountain Band of Chippewas of North Dakota, the Chippewa-Cree Tribe of Montana. |
-| [1245\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001245%20-%20Use%20of%20funds%20apportioned%3B%20approval%20by%20Secretary%20on%20receipt%20of%20recommendations%20from%20certain%20tribal%20organizations.md) | Use of funds apportioned; approval by Secretary on receipt of recommendations from certain tribal organizations. |
-| [1246\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001246%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1247\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001247%20-%20Payments%20to%20enrollees%2C%20heirs%2C%20or%20legatees%3B%20protection%20of%20the%20interests%20of%20minors%20and%20persons%20under%20legal%20disability.md) | Payments to enrollees, heirs, or legatees; protection of the interests of minors and persons under legal disability. |
-| [1248\.](Subchapter%20066%20%28LXVI%29%20-%20Pembina%20Band%20of%20Chippewa%20Indians%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001248%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1241 to 1248. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1347,9 +622,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1251\.](Subchapter%20067%20%28LXVII%29%20-%20Confederated%20Salish%20and%20Kootenai%20Tribes%20of%20the%20Flathead%20Reservation%2C%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001251%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
-| [1252\.](Subchapter%20067%20%28LXVII%29%20-%20Confederated%20Salish%20and%20Kootenai%20Tribes%20of%20the%20Flathead%20Reservation%2C%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001252%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1253\.](Subchapter%20067%20%28LXVII%29%20-%20Confederated%20Salish%20and%20Kootenai%20Tribes%20of%20the%20Flathead%20Reservation%2C%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001253%20-%20Payments%20to%20minors.md) | Payments to minors. |
+| 1251 to 1253. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1357,11 +630,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1261\.](Subchapter%20068%20%28LXVIII%29%20-%20Blackfeet%20and%20Gros%20Ventre%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001261%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
-| [1262\.](Subchapter%20068%20%28LXVIII%29%20-%20Blackfeet%20and%20Gros%20Ventre%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001262%20-%20Membership%20roll%3B%20per%20capita%20distribution%3B%20minors.md) | Membership roll; per capita distribution; minors. |
-| [1263\.](Subchapter%20068%20%28LXVIII%29%20-%20Blackfeet%20and%20Gros%20Ventre%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001263%20-%20Use%20of%20funds%3B%20authorization%20and%20approval.md) | Use of funds; authorization and approval. |
-| [1264\.](Subchapter%20068%20%28LXVIII%29%20-%20Blackfeet%20and%20Gros%20Ventre%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001264%20-%20Tax%20exemption%3B%20Social%20Security%20eligibility.md) | Tax exemption; Social Security eligibility. |
-| [1265\.](Subchapter%20068%20%28LXVIII%29%20-%20Blackfeet%20and%20Gros%20Ventre%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001265%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1261 to 1265. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1369,10 +638,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1271\.](Subchapter%20069%20%28LXIX%29%20-%20Jicarilla%20Apache%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001271%20-%20Disposition%20of%20judgment%20funds.md) | Disposition of judgment funds. |
-| [1272\.](Subchapter%20069%20%28LXIX%29%20-%20Jicarilla%20Apache%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001272%20-%20Protection%20of%20minors%20and%20persons%20under%20legal%20disability.md) | Protection of minors and persons under legal disability. |
-| [1273\.](Subchapter%20069%20%28LXIX%29%20-%20Jicarilla%20Apache%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001273%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1274\.](Subchapter%20069%20%28LXIX%29%20-%20Jicarilla%20Apache%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001274%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1271 to 1274. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1380,10 +646,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1281\.](Subchapter%20070%20%28LXX%29%20-%20Havasupai%20Tribe%20of%20Arizona%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001281%20-%20Disposition%20of%20funds.md) | Disposition of funds. |
-| [1282\.](Subchapter%20070%20%28LXX%29%20-%20Havasupai%20Tribe%20of%20Arizona%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001282%20-%20Tax%20exemption.md) | Tax exemption. |
-| [1283\.](Subchapter%20070%20%28LXX%29%20-%20Havasupai%20Tribe%20of%20Arizona%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001283%20-%20Payments%20to%20adults%3B%20trusts%20for%20minors%20and%20persons%20under%20legal%20disability.md) | Payments to adults; trusts for minors and persons under legal disability. |
-| [1284\.](Subchapter%20070%20%28LXX%29%20-%20Havasupai%20Tribe%20of%20Arizona%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001284%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1281 to 1284. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1391,253 +654,133 @@
 
 |  |  |
 | :--- | ---: |
-| [1291\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001291%20-%20Disposition%20of%20funds.md) | Disposition of funds. |
-| [1292\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001292%20-%20Membership%20roll%20requirements.md) | Membership roll requirements. |
-| [1293\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001293%20-%20Applications%20for%20enrollment%3B%20filing%20date%20and%20place%3B%20notice%20and%20appeal%20of%20rejections%3B%20review.md) | Applications for enrollment; filing date and place; notice and appeal of rejections; review. |
-| [1294\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001294%20-%20Apportionment%2C%20credit%2C%20and%20disposition%20of%20funds.md) | Apportionment, credit, and disposition of funds. |
-| [1295\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001295%20-%20Payments%20to%20adults%3B%20trusts%20for%20minors%20and%20persons%20under%20legal%20disability.md) | Payments to adults; trusts for minors and persons under legal disability. |
-| [1296\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001296%20-%20Income%20tax%20exemption.md) | Income tax exemption. |
-| [1297\.](Subchapter%20071%20%28LXXI%29%20-%20Delaware%20Tribe%20and%20Absentee%20Delaware%20Tribe%20of%20Western%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001297%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
+| 1291 to 1297. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXII—YAVAPAI APACHE TRIBE OF ARIZONA: DISTRIBUTION OF JUDGMENT FUND
 
-|  |  |
-| :--- | ---: |
-| [1300\.](Subchapter%20072%20%28LXXII%29%20-%20Yavapai%20Apache%20Tribe%20of%20Arizona%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001300%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
-| [1300a.](Subchapter%20072%20%28LXXII%29%20-%20Yavapai%20Apache%20Tribe%20of%20Arizona%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001300a%20-%20Percentage%20of%20funds%20for%20Payson%20Indian%20Band.md) | Percentage of funds for Payson Indian Band. |
-| 1300a–1. | Membership roll; preparation; eligibility for enrollment; verification; approval. |
-| 1300a–2. | Apportionment of funds; advances, expenditures, investments, or reinvestments; utilization of funds for Payson Band. |
-| 1300a–3. | Tax exemption; trusts and other procedures for protection of minors and persons under legal disability. |
-| 1300a–4. | Rules and regulations. |
+|  |
+| :--- |
+| 1300 to 1300a–4. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXIII—KICKAPOO INDIANS OF KANSAS AND OKLAHOMA: DISTRIBUTION OF JUDGMENT FUND
 
-|  |  |
-| :--- | ---: |
-| [1300b.](Subchapter%20073%20%28LXXIII%29%20-%20Kickapoo%20Indians%20of%20Kansas%20and%20Oklahoma%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001300b%20-%20Disposition%20of%20judgment%20funds%3B%20division%20of%20funds%20on%20basis%20of%20tribal%20membership%20rolls%3B%20net%20tribal%20credits.md) | Disposition of judgment funds; division of funds on basis of tribal membership rolls; net tribal credits. |
-| 1300b–1. | Distribution of shares. |
-| 1300b–2. | Approval of plans for use of money after submission to Congressional committees. |
-| 1300b–3. | Per capital payments; trusts and other procedures for protection of minors and persons under legal disability. |
-| 1300b–4. | Tax exemption. |
-| 1300b–5. | Rules and regulations. |
+|  |
+| :--- |
+| 1300b to 1300b–5. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXIII–A—TEXAS BAND OF KICKAPOO INDIANS
 
-|  |  |
-| :--- | ---: |
-| 1300b–11. | Congressional findings and declaration of policy. |
-| 1300b–12. | Definitions. |
-| 1300b–13. | Band roll. |
-| 1300b–14. | Land acquisition. |
-| 1300b–15. | Jurisdiction. |
-| 1300b–16. | Provision of Federal Indian services. |
+|  |
+| :--- |
+| 1300b–11 to 1300b–16. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXIV—YANKTON SIOUX TRIBE: DISTRIBUTION OF JUDGMENT FUND
 
-|  |  |
-| :--- | ---: |
-| [1300c.](Subchapter%20074%20%28LXXIV%29%20-%20Yankton%20Sioux%20Tribe%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001300c%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
-| 1300c–1. | Funds for expert witnesses and programing needs. |
-| 1300c–2. | Membership roll; preparation; tribal constitutional requirements. |
-| 1300c–3. | Per capita distributions to tribal members; advances, expenditures, investments, or reinvestments for authorized purposes; trusts and other procedures for protection of minors and persons under legal disability. |
-| 1300c–4. | Tax exemption. |
-| 1300c–5. | Rules and regulations. |
+|  |
+| :--- |
+| 1300c to 1300c–5. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXV—MISSISSIPPI SIOUX TRIBES: DISTRIBUTION OF JUDGMENT FUND
 
-#### Part A—1972 Distribution Authority
-
-|  |  |
-| :--- | ---: |
-| [1300d.](Subchapter%20075%20%28LXXV%29%20-%20Mississippi%20Sioux%20Tribes%20Distribution%20of%20Judgment%20Fund/Part%20A%20-%201972%20Distribution%20Authority/%C2%A7%2001300d%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
-| 1300d–1. | Lower Council Sioux. |
-| 1300d–2. | Apportionment of funds; deposit in United States Treasury; per capita shares; advances, deposits, expenditures, investments, or reinvestments for approved purposes. |
-| 1300d–3. | Upper Council Sioux. |
-| 1300d–4. | Apportionment of funds. |
-| 1300d–5. | Citizenship requirement. |
-| 1300d–6. | Election of group for enrollment. |
-| 1300d–7. | Protection of minors and persons under legal disability. |
-| 1300d–8. | Income tax exemption. |
-| 1300d–9. | Rules and regulations. |
-| 1300d–10. | Authority to settle action. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—1998 Distribution Authority
-
-|  |  |
-| :--- | ---: |
-| 1300d–21. | Definitions. |
-| 1300d–22. | Distribution to, and use of certain funds by, the Sisseton and Wahpeton Tribes of Sioux Indians. |
-| 1300d–23. | Distribution of funds to tribes. |
-| 1300d–24. | Use of distributed funds. |
-| 1300d–25. | Effect of payments to covered Indian tribes on benefits. |
-| 1300d–26. | Distribution of funds to lineal descendants. |
-| 1300d–27. | Jurisdiction; procedure. |
+|  |
+| :--- |
+| 1300d to 1300d–27. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXVI—ASSINIBOINE TRIBES OF MONTANA: DISTRIBUTION OF JUDGMENT FUND
 
-|  |  |
-| :--- | ---: |
-| [1300e.](Subchapter%20076%20%28LXXVI%29%20-%20Assiniboine%20Tribes%20of%20Montana%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001300e%20-%20Disposition%20of%20funds%3B%20percentage%20basis%20for%20division%3B%20attorney%20fees%20and%20expenses.md) | Disposition of funds; percentage basis for division; attorney fees and expenses. |
-| 1300e–1. | Per capita shares to members of Assiniboine Tribe of Fort Peck Reservation; deductions; eligibility for payments. |
-| 1300e–2. | Expenditure of withheld funds for certain salaries and expenses; additional per capita distributions. |
-| 1300e–3. | Per capita shares to members of Assiniboine Tribe of Fort Belknap Reservation; deductions; eligibility for payments. |
-| 1300e–4. | Expenditure of withheld funds for authorized purposes; community projects; additional per capita distributions. |
-| 1300e–5. | Per capita shares; reversion to tribe. |
-| 1300e–6. | Income tax exemption; protection of minors and persons under legal disability. |
-| 1300e–7. | Rules and regulations. |
+|  |
+| :--- |
+| 1300e to 1300e–7. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXVII—PASCUA YAQUI TRIBE
 
-|  |  |
-| :--- | ---: |
-| [1300f.](Subchapter%20077%20%28LXXVII%29%20-%20Pascua%20Yaqui%20Tribe/%C2%A7%2001300f%20-%20Status%20of%20Pascua%20Yaqui%20Indian%20people.md) | Status of Pascua Yaqui Indian people. |
-| 1300f–1. | Tribal constitution and bylaws; review by Secretary; publication of documents and membership roll in Federal Register. |
-| 1300f–2. | Membership of Tribe. |
-| 1300f–3. | Study. |
+|  |
+| :--- |
+| 1300f to 1300f–3. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXVIII—YSLETA DEL SUR PUEBLO: RESTORATION OF FEDERAL SUPERVISION
 
-|  |  |
-| :--- | ---: |
-| [1300g.](Subchapter%20078%20%28LXXVIII%29%20-%20Ysleta%20Del%20Sur%20Pueblo%20Restoration%20of%20Federal%20Supervision/%C2%A7%2001300g%20-%20Definitions.md) | Definitions. |
-| 1300g–1. | Redesignation of tribe. |
-| 1300g–2. | Restoration of Federal trust relationship; Federal services and assistance. |
-| 1300g–3. | State and tribal authority. |
-| 1300g–4. | Provisions relating to tribal reservation. |
-| 1300g–5. | Tiwa Indians Act repealed. |
-| 1300g–6. | Gaming activities. |
-| 1300g–7. | Tribal membership. |
+|  |
+| :--- |
+| 1300g to 1300g–7. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXIX—LAC VIEUX DESERT BAND OF LAKE SUPERIOR CHIPPEWA INDIANS
 
-|  |  |
-| :--- | ---: |
-| [1300h.](Subchapter%20079%20%28LXXIX%29%20-%20Lac%20Vieux%20Desert%20Band%20of%20Lake%20Superior%20Chippewa%20Indians/%C2%A7%2001300h%20-%20Congressional%20findings.md) | Congressional findings. |
-| 1300h–1. | Definitions. |
-| 1300h–2. | Federal trust relationship. |
-| 1300h–3. | Establishment of a Band roll. |
-| 1300h–4. | Organization of tribe; constitution and governing body. |
-| 1300h–5. | Land acquisition; establishment of Federal reservation. |
-| 1300h–6. | Distribution of funds. |
-| 1300h–7. | Constitutional amendment. |
-| 1300h–8. | Compliance with Budget Act. |
+|  |
+| :--- |
+| 1300h to 1300h–8. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXX—HOOPA-YUROK SETTLEMENT
 
-|  |  |
-| :--- | ---: |
-| [1300i.](Subchapter%20080%20%28LXXX%29%20-%20Hoopa-Yurok%20Settlement/%C2%A7%2001300i%20-%20Short%20title%20and%20definitions.md) | Short title and definitions. |
-| 1300i–1. | Reservations; partition and additions. |
-| 1300i–2. | Preservation of Short cases. |
-| 1300i–3. | Hoopa-Yurok Settlement Fund. |
-| 1300i–4. | Hoopa-Yurok Settlement Roll. |
-| 1300i–5. | Election of settlement options. |
-| 1300i–6. | Division of Settlement Fund remainder. |
-| 1300i–7. | Hoopa Valley Tribe; confirmation of status. |
-| 1300i–8. | Recognition and organization of the Yurok Tribe. |
-| 1300i–9. | Economic development. |
-| 1300i–10. | Special considerations. |
-| 1300i–11. | Limitations of actions; waiver of claims. |
+|  |
+| :--- |
+| 1300i to 1300i–11. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXXI—POKAGON BAND OF POTAWATOMI INDIANS
 
-|  |  |
-| :--- | ---: |
-| [1300j.](Subchapter%20081%20%28LXXXI%29%20-%20Pokagon%20Band%20of%20Potawatomi%20Indians/%C2%A7%2001300j%20-%20Findings.md) | Findings. |
-| 1300j–1. | Federal recognition. |
-| 1300j–2. | Services. |
-| 1300j–3. | Tribal membership. |
-| 1300j–4. | Constitution and governing body. |
-| 1300j–5. | Tribal lands. |
-| 1300j–6. | Service area. |
-| 1300j–7. | Jurisdiction. |
-| 1300j–7a. | Membership list. |
-| 1300j–8. | Definitions. |
+|  |
+| :--- |
+| 1300j to 1300j–8. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXXII—LITTLE TRAVERSE BAY BANDS OF ODAWA INDIANS; LITTLE RIVER BAND OF OTTAWA INDIANS
 
-|  |  |
-| :--- | ---: |
-| [1300k.](Subchapter%20082%20%28LXXXII%29%20-%20Little%20Traverse%20Bay%20Bands%20of%20Odawa%20Indians%3B%20Little%20River%20Band%20of%20Ottawa%20Indians/%C2%A7%2001300k%20-%20Findings.md) | Findings. |
-| 1300k–1. | Definitions. |
-| 1300k–2. | Federal recognition. |
-| 1300k–3. | Reaffirmation of rights. |
-| 1300k–4. | Transfer of land for benefit of Bands. |
-| 1300k–5. | Membership. |
-| 1300k–6. | Constitution and governing body. |
-| 1300k–7. | Membership list. |
+|  |
+| :--- |
+| 1300k to 1300k–7. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXXIII—AUBURN INDIAN RESTORATION
 
-|  |  |
-| :--- | ---: |
-| 1300<i>l.</i> | Restoration of Federal recognition, rights, and privileges. |
-| 1300l–1. | Economic development. |
-| 1300l–2. | Transfer of land to be held in trust. |
-| 1300l–3. | Membership rolls. |
-| 1300l–4. | Interim government. |
-| 1300l–5. | Tribal constitution. |
-| 1300l–6. | Definitions. |
-| 1300l–7. | Regulations. |
+|  |
+| :--- |
+| 1300l to 1300l–7. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXXIV—PASKENTA BAND OF NOMLAKI INDIANS OF CALIFORNIA
 
-|  |  |
-| :--- | ---: |
-| [1300m.](Subchapter%20084%20%28LXXXIV%29%20-%20Paskenta%20Band%20of%20Nomlaki%20Indians%20of%20California/%C2%A7%2001300m%20-%20Definitions.md) | Definitions. |
-| 1300m–1. | Restoration of Federal recognition, rights, and privileges. |
-| 1300m–2. | Economic development. |
-| 1300m–3. | Transfer of land to be held in trust. |
-| 1300m–4. | Membership rolls. |
-| 1300m–5. | Interim government. |
-| 1300m–6. | Tribal constitution. |
-| 1300m–7. | General provision. |
+|  |
+| :--- |
+| 1300m to 1300m–7. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER LXXXV—GRATON RANCHERIA RESTORATION
 
-|  |  |
-| :--- | ---: |
-| [1300n.](Subchapter%20085%20%28LXXXV%29%20-%20Graton%20Rancheria%20Restoration/%C2%A7%2001300n%20-%20Findings.md) | Findings. |
-| 1300n–1. | Definitions. |
-| 1300n–2. | Restoration of Federal recognition, rights, and privileges. |
-| 1300n–3. | Transfer of land to be held in trust. |
-| 1300n–4. | Membership rolls. |
-| 1300n–5. | Interim government. |
-| 1300n–6. | Tribal constitution. |
+|  |
+| :--- |
+| 1300n to 1300n–6. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Codification
+
+This chapter has been editorially reorganized. Pursuant to this reorganization, subchapters II, IV, V, and VIII of this chapter have been reclassified and transferred to appear as chapters 46 (§5301 et seq.), 47 (§5501 et seq.), 45 (§5101 et seq.), and 45A (§5201 et seq.), respectively, of this title. Other provisions of this chapter which have not been previously repealed, transferred, or omitted from the Code have been either reclassified and transferred or omitted from the Code as being of special and not general application. For complete disposition of provisions pursuant to this reorganization, see table set out preceding section 1 of this title.
 
 
 ---
@@ -1716,7 +859,7 @@
 - [Subchapter 058 (LVIII) - Cheyenne-Arapaho Indians of Oklahoma Distribution of Judgment Fund](Subchapter%20058%20%28LVIII%29%20-%20Cheyenne-Arapaho%20Indians%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 059 (LIX) - Iowa Tribes of Kansas and Nebraska and of Oklahoma Distribution of Judgment Fund](Subchapter%20059%20%28LIX%29%20-%20Iowa%20Tribes%20of%20Kansas%20and%20Nebraska%20and%20of%20Oklahoma%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 060 (LX) - Delaware Nation of Indians](Subchapter%20060%20%28LX%29%20-%20Delaware%20Nation%20of%20Indians/README.md)
-- [Subchapter 061 (LXI) - Confederated](Subchapter%20061%20%28LXI%29%20-%20Confederated/README.md)
+- [Subchapter 061 (LXI) - Confederated Tribes of Umatilla Reservation Distribution of Judgment Fund](Subchapter%20061%20%28LXI%29%20-%20Confederated%20Tribes%20of%20Umatilla%20Reservation%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 062 (LXII) - Sioux Tribe of Montana Distribution of Judgment Fund](Subchapter%20062%20%28LXII%29%20-%20Sioux%20Tribe%20of%20Montana%20Distribution%20of%20Judgment%20Fund/README.md)
 - [Subchapter 063 (LXIII) - Tlingit and Haida Indians of Alaska](Subchapter%20063%20%28LXIII%29%20-%20Tlingit%20and%20Haida%20Indians%20of%20Alaska/README.md)
 - [Subchapter 064 (LXIV) - Confederated Tribes of Weas, Piankashaws, Peorias, and Kaskaskias Distribution of Judgment Fund](Subchapter%20064%20%28LXIV%29%20-%20Confederated%20Tribes%20of%20Weas%2C%20Piankashaws%2C%20Peorias%2C%20and%20Kaskaskias%20Distribution%20of%20Judgment%20Fund/README.md)

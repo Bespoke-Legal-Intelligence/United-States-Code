@@ -70,7 +70,7 @@ For purposes of this subchapter:
 
 &emsp;The term "qualified youth or conservation corps" means any program established by a State or local government, by the governing body of any Indian tribe, or by a nonprofit organization that—
 
-&emsp;&emsp;(A) is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 25, inclusive, in a natural or cultural resource setting;
+&emsp;&emsp;(A) is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 30, inclusive, in a natural or cultural resource setting;
 
 &emsp;&emsp;(B) gives participants a mix of work experience, basic and life skills, education, training, and support services; and
 
@@ -92,7 +92,7 @@ For purposes of this subchapter:
 
 &emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 91–378, title II, §203, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 849; amended Pub. L. 109–154, §2(a), Dec. 30, 2005, 119 Stat. 2890.)
+(Pub. L. 91–378, title II, §203, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 849; amended Pub. L. 109–154, §2(a), Dec. 30, 2005, 119 Stat. 2890; Pub. L. 114–289, title III, §302(1), Dec. 16, 2016, 130 Stat. 1487.)
 
 #### References in Text
 
@@ -102,9 +102,11 @@ Section 4 of Public Law 86–3, referred to in par. (4), is set out as a note pr
 
 The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§6501et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Par. (10)(A). Pub. L. 114–289 substituted "30" for "25".
 
 <b>2005</b>—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
 

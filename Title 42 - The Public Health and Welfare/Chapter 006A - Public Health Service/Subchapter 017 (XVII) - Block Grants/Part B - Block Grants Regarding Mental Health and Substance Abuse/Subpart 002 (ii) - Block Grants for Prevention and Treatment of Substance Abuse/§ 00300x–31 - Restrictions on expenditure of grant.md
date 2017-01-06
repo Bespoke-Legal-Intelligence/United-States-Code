@@ -6,7 +6,7 @@
 
 &emsp;A funding agreement for a grant under section 300x–21 of this title is that the State involved will not expend the grant—
 
-&emsp;&emsp;(A) to provide inpatient hospital services, except as provided in subsection (b) of this section;
+&emsp;&emsp;(A) to provide inpatient hospital services, except as provided in subsection (b);
 
 &emsp;&emsp;(B) to make cash payments to intended recipients of health services;
 
@@ -30,7 +30,7 @@
 
 #### (1) Medical necessity as precondition
 
-&emsp;With respect to compliance with the agreement made under subsection (a) of this section, a State may expend a grant under section 300x–21 of this title to provide inpatient hospital services as treatment for substance abuse only if it has been determined, in accordance with guidelines issued by the Secretary, that such treatment is a medical necessity for the individual involved, and that the individual cannot be effectively treated in a community-based, nonhospital, residential program of treatment.
+&emsp;With respect to compliance with the agreement made under subsection (a), a State may expend a grant under section 300x–21 of this title to provide inpatient hospital services as treatment for substance use disorders only if it has been determined, in accordance with guidelines issued by the Secretary, that such treatment is a medical necessity for the individual involved, and that the individual cannot be effectively treated in a community-based, nonhospital, residential program of treatment.
 
 #### (2) Rate of payment
 
@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may provide to any State a waiver of the restriction established in subsection (a)(1)(C) of this section for the purpose of authorizing the State to expend a grant under section 300x–21 of this title for the construction of a new facility or rehabilitation of an existing facility, but not for land acquisition.
+&emsp;The Secretary may provide to any State a waiver of the restriction established in subsection (a)(1)(C) for the purpose of authorizing the State to expend a grant under section 300x–21 of this title for the construction of a new facility or rehabilitation of an existing facility, but not for land acquisition.
 
 #### (2) Standard regarding need for waiver
 
@@ -58,7 +58,7 @@
 
 &emsp;The Secretary shall act upon a request for a waiver under paragraph (1) not later than 120 days after the date on which the request is made.
 
-(July 1, 1944, ch. 373, title XIX, §1931, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397.)
+(July 1, 1944, ch. 373, title XIX, §1931, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397; amended Pub. L. 114–255, div. B, title VIII, §8002(h), Dec. 13, 2016, 130 Stat. 1230.)
 
 #### References in Text
 
@@ -69,6 +69,10 @@ Section 300x–1a of this title, referred to in subsec. (a)(3), was repealed by 
 A prior section 1931 of act July 1, 1944, was classified to section 300y–21 of this title and subsequently omitted from the Code.
 
 Another prior section 1931 of act July 1, 1944, was classified to section 300y–10 of this title prior to repeal by Pub. L. 99–280.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–255 substituted "substance use disorders" for "substance abuse".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

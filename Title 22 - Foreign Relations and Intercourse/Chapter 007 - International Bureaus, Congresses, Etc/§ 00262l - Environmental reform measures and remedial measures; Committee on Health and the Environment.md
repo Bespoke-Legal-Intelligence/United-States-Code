@@ -28,7 +28,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) establish a regular integrated multidisciplinary planning process to conduct land use capability analyses in reviewing potential loans. Such plans shall include, but not be limited to, a review of ongoing or other potential resource utilization efforts in and adjacent to the project area;
 
-&emsp;(4) vigorously promote a commitment of these institutions to develop and implementplans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
+&emsp;(4) vigorously promote a commitment of these institutions to develop and implement plans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
 
 &emsp;&emsp;(A) long-term programs of research designed to manage ecosystems properly;
 
@@ -134,7 +134,7 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;&emsp;"(B) encouragement and adoption of policies which allow for public participation in the EIA process;
 
-&emsp;"(5) include environmental costs in the economic assessment of the proposed projects with significantpotential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
+&emsp;"(5) include environmental costs in the economic assessment of the proposed projects with significant potential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
 
 &emsp;"(6) encourage and promote end-use energy efficiency and renewable energy in negotiations of policy-based energy sector lending, and MDBs should consider not proceeding with policy-based sector loans which do not contain commitments from the borrowing country to devote a significant portion of its sector investments toward energy efficiency and renewable energy;
 

@@ -56,7 +56,7 @@ If all of the producers on a farm make the election under section 9015(a) of thi
 
 #### (3) Benchmark revenue for individual coverage
 
-&emsp;In the case of individual coverage, the benchmark revenue for a producer on a farm for a crop year shall be based on the producer's share of all covered commodities planted on all farms for which individual coverage has been selected and in which the producer has an interest, to be determined by the Secretary as follows:
+&emsp;In the case of individual coverage, the benchmark revenue for a producer on a farmfor a crop year shall be based on the producer's share of all covered commodities planted on all farms for which individual coverage has been selected and in which the producer has an interest, to be determined by the Secretary as follows:
 
 &emsp;&emsp;(A) For each covered commodity for each of the most recent 5 crop years, the product obtained by multiplying—
 
@@ -74,7 +74,7 @@ If all of the producers on a farm make the election under section 9015(a) of thi
 
 #### (5) Reference price
 
-&emsp;If the national average market price received by producers during the 12-month marketing year for any of the 5 most recent crop years is lower than the reference price for thecovered commodity, the Secretary shall use the reference price for any of those years for the amounts in paragraph (2)(B) or (3)(A)(ii).
+&emsp;If the national average market price received by producers during the 12-month marketing year for any of the 5 most recent crop years is lower than the reference price for the covered commodity, the Secretary shall use the reference price for any of those years for the amounts in paragraph (2)(B) or (3)(A)(ii).
 
 #### (d) Payment rate
 

@@ -4,35 +4,39 @@
 
 Certifications and Determination Required.—A major defense acquisition program may not receive Milestone B approval until the milestone decision authority—
 
-&emsp;(1) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the programdemonstrates a high likelihood of accomplishing its intended mission;
+&emsp;(1) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
 
-&emsp;(2) further certifies that the technology in the program has been demonstrated in a relevant environment, as determined by the milestone decision authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
+&emsp;(2) further certifies that the technology in the program has been demonstrated in a relevant environment, as determined by the milestone decision authority on the basis of an independent review and technical risk assessment conducted under section 2448b of this title;
 
 &emsp;(3) determines in writing that—
 
 &emsp;&emsp;(A) the program is affordable when considering the ability of the Department of Defense to accomplish the program's mission using alternative systems;
 
-&emsp;&emsp;(B) appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
+&emsp;&emsp;(B) appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost;
 
-&emsp;&emsp;(C) reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program; and <sup>1</sup>
+&emsp;&emsp;(C) reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program;
 
-&emsp;&emsp;(D) funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
+&emsp;&emsp;(D) the estimated procurement unit cost for the program and the estimated date for initial operational capability for the baseline description for the program (established under section 2435) do not exceed the program cost and fielding targets established under section 2448a(a) of this title, or, if such estimated cost is higher than the program cost targets or if such estimated date is later than the fielding target, the program cost targets have been increased or the fielding target has been delayed by the Secretary of Defense after a request for such increase or delay by the milestone decision authority;
 
-&emsp;&emsp;(E) appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
+&emsp;&emsp;(E) funding is expected to be available to execute the product development and production plan for the program, consistent with the estimates described in subparagraph (C) for the program;
 
-&emsp;&emsp;(F) the Department of Defense has completed an analysis of alternatives with respect to the program;
+&emsp;&emsp;(F) appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
 
-&emsp;&emsp;(G) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program;
+&emsp;&emsp;(G) the Department of Defense has completed an analysis of alternatives with respect to the program;
 
-&emsp;&emsp;(H) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
+&emsp;&emsp;(H) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program;
 
-&emsp;&emsp;(I) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
+&emsp;&emsp;(I) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
 
-&emsp;&emsp;(J) there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired;
+&emsp;&emsp;(J) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
 
-&emsp;&emsp;(K) the program complies with all relevant policies, regulations, and directives of the Department of Defense; and
+&emsp;&emsp;(K) there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired;
 
-&emsp;&emsp;(L) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B); and
+&emsp;&emsp;(L) the program complies with all relevant policies, regulations, and directives of the Department of Defense;
+
+&emsp;&emsp;(M) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B); and
+
+&emsp;&emsp;(N) the requirements of section 2446b(e) of this title are met; and
 
 &emsp;(4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019.
 
@@ -48,11 +52,45 @@ Changes to Certifications or Determination.—(1) The program manager for a majo
 
 (c)
 
-Submission to Congress.—(1) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
+Submissions to Congress on Milestone B.—
 
-(2) The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
+&emsp;(1)
 
-(3) At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program. The explanation shall be submitted in unclassified form, but may include a classified annex.
+Brief summary report.—Not later than 15 days after granting Milestone B approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence orintelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+
+&emsp;&emsp;(A) The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title.
+
+&emsp;&emsp;(B) The estimated cost and schedule for the program established by the military department concerned, including—
+
+&emsp;&emsp;&emsp;(i) the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+
+&emsp;&emsp;&emsp;(ii) the planned dates for each program milestone, initial operational test and evaluation, and initial operational capability.
+
+&emsp;&emsp;(C) The independent estimated cost for the program established pursuant to section 2334(a)(6) of this title, and any independent estimated schedule for the program, including—
+
+&emsp;&emsp;&emsp;(i) the dollar values and ranges estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+
+&emsp;&emsp;&emsp;(ii) the planned dates for each program milestone, initial operational test and evaluation, and initial operational capability.
+
+&emsp;&emsp;(D) A summary of the technical and manufacturing risks associated with the program, as determined by the military department concerned, including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
+
+&emsp;&emsp;(E) A summary of the independent technical risk assessment conducted or approved under section 2448b of this title, including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
+
+&emsp;&emsp;(F) A statement of whether a modular open system approach is being used for the program.
+
+&emsp;&emsp;(G) Any other information the milestone decision authority considers relevant.
+
+&emsp;(2)
+
+Certifications and determinations.—(A) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
+
+&emsp;(B) The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
+
+&emsp;(3)
+
+Additional information.—(A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.
+
+&emsp;(B) The explanation or information shall be submitted in unclassified form, but may include a classified annex.
 
 (d)
 
@@ -76,7 +114,7 @@ Waiver for National Security.—(1) The milestone decision authority may, at the
 
 (e)
 
-Designation of Certification Status in Budget Documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
+Designation of Certification Status in Budget Documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has notfully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
 
 (f)
 
@@ -96,13 +134,49 @@ Definitions.—In this section:
 
 &emsp;(5) The term "core logistics capabilities" means the core logistics capabilities identified under section 2464(a) of this title.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903.)
+&emsp;(6) The term "fielding target" has the meaning given that term in section 2448a(a) of this title.
+
+&emsp;(7) The term "major system component" has the meaning given that term in section 2446a(b)(3) of this title.
+
+&emsp;(8) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
+
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290.)
 
 #### Prior Provisions
 
 A prior section 2366b was renumbered section 2366a of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §807(e)(1), substituted "technical risk assessment conducted under section 2448b of this title" for "assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation".
+
+Subsec. (a)(3)(B). Pub. L. 114–328, §843(1), substituted "life-cycle cost;" for "acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;".
+
+Subsec. (a)(3)(C). Pub. L. 114–328, §807(e)(2)(A), struck out "and" at end.
+
+Subsec. (a)(3)(D). Pub. L. 114–328, §807(e)(2)(C), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (a)(3)(E). Pub. L. 114–328, §843(2), which directed amendment of subpar. (D) by substituting "funding is expected to be available to execute the product development and production plan for the program," for "funding is" and all that followed through "made,", was executed by making the substitution for "funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made," in subpar. (E), to reflect the probable intent of Congress and the amendment by Pub. L. 114–328, §807(e)(2)(B). See below.
+
+Pub. L. 114–328, §807(e)(2)(B), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+
+Subsec. (a)(3)(F) to (L). Pub. L. 114–328, §807(e)(2)(B), redesignated subpars. (E) to (K) as (F) to (L), respectively. Former subpar. (L) redesignated (M).
+
+Subsec. (a)(3)(M). Pub. L. 114–328, §807(e)(2)(B), redesignated subpar. (L) as (M). Former subpar. (M) redesignated (N).
+
+Pub. L. 114–328, §805(a)(3), added subpar. (M).
+
+Subsec. (a)(3)(N). Pub. L. 114–328, §807(e)(2)(B), redesignated subpar. (M) as (N).
+
+Subsec. (c). Pub. L. 114–328, §808(b)(1), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+"(1) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
+
+"(2) The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
+
+"(3) At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program. The explanation shall be submitted in unclassified form, but may include a classified annex."
+
+Subsec. (g)(6) to (8). Pub. L. 114–328, §808(b)(2), added pars. (6) to (8).
 
 <b>2015</b>—Pub. L. 114–92 amended section generally. Prior to amendment, section related to certification required before Milestone B approval of major defense acquisition programs.
 
@@ -122,7 +196,7 @@ Subsec. (a)(3)(D). Pub. L. 111–383, §901(j)(4), substituted "Assistant Secret
 
 Subsec. (a)(3)(E) to (G). Pub. L. 112–81, §801(b)(1), added subpars. (E) and (F) and redesignated former subpar. (E) as (G).
 
-Subsec. (b)(1). Pub. L. 111–383, §814(c)(1)(A), substituted "any changes to the program or a designatedmajor subprogram of such program" for "any changes to the program" in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–383, §814(c)(1)(A), substituted "any changes to the program or a designated major subprogram of such program" for "any changes to the program" in introductory provisions.
 
 Subsec. (b)(1)(B). Pub. L. 111–383, §814(c)(1)(B), substituted "otherwise cause the program or subprogram" for "otherwise cause the program".
 
@@ -206,11 +280,11 @@ Pub. L. 111–383, div. A, title X, §1075(k), Jan. 7, 2011, 124 Stat. 4378, pro
 
 #### Milestone B Decisions
 
-Pub. L. 114–92, div. A, title VIII, §802(d)(3), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366b(b)(3) of title 10, United States Code, as amended by section 824 of this Act, prior to a Milestone B decision on the program."
+Pub. L. 114–92, div. A, title VIII, §802(d)(3), Nov. 25, 2015, 129 Stat. 880, provided that: "The Chief of theArmed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief's views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366b(b)(3) of title 10, United States Code, as amended by section 824 of this Act, prior to a Milestone B decision on the program."
 
 #### Certification and Review of Programs Entering Development Prior to Enactment of Section 2366b of Title 10
 
-Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII,§813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
+Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
 
 #### Formal Review Process for Bandwidth Requirements
 
@@ -228,5 +302,5 @@ In general.—The Secretary of Defense and the Director of National Intelligence
 
 Reports.—Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on any determinations made under paragraph (1) with respect to meeting the bandwidth requirements for major defense acquisition programs and major system acquisition programs during the preceding fiscal year."
 
-<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1047(d)(2) of Pub. L. 110–417, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 

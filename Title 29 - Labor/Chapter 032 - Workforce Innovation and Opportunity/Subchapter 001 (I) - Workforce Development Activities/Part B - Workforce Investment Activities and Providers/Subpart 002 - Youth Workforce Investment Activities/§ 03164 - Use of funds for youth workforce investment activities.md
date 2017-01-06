@@ -82,7 +82,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;In each local area, not more than 5 percent of the in-school youth assisted under this section may be eligible under paragraph (1) because the youth are in-school youth described in paragraph (1)(C)(iv)(VII).
+&emsp;&emsp;In each local area, not more than 5 percent of the in-school youth assisted under thissection may be eligible under paragraph (1) because the youth are in-school youth described in paragraph (1)(C)(iv)(VII).
 
 #### (4) Out-of-school priority
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(B) disseminating a list of eligible providers of youth workforce investment activities, as determined under section 3153 of this title;
 
-&emsp;&emsp;(C) providing assistance to local areas as described in subsections (b)(7) and (c)(2) ofsection 3121 of this title, for local coordination of activities carried out under this subchapter;
+&emsp;&emsp;(C) providing assistance to local areas as described in subsections (b)(7) and (c)(2) of section 3121 of this title, for local coordination of activities carried out under this subchapter;
 
 &emsp;&emsp;(D) operating a fiscal and management accountability information system under section 3141(i) of this title;
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;&emsp;(ii) preparation for postsecondary educational and training opportunities;
 
-&emsp;&emsp;&emsp;(iii) strong linkages between academic instruction (based on challenging Stateacademic standards established under section 6311(b)(1) of title 20 <sup>2</sup> and occupational education that lead to the attainment of recognized postsecondary credentials;
+&emsp;&emsp;&emsp;(iii) strong linkages between academic instruction (based on challenging State academic standards established under section 6311(b)(1) of title 20 <sup>2</sup> and occupational education that lead to the attainment of recognized postsecondary credentials;
 
 &emsp;&emsp;&emsp;(iv) preparation for unsubsidized employment opportunities, in appropriate cases; and
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "who".</i>
 

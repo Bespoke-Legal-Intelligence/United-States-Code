@@ -16,7 +16,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who is otherwise eligible for such coverage (without regard to any enrollment season restrictions);
 
-&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
+&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV; and
 
 &emsp;&emsp;(C) not to disenroll (or eliminate coverage of) such a child unless the insurer is provided satisfactory written evidence that—
 
@@ -28,7 +28,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who is otherwise eligible for such coverage (without regard to any enrollment season restrictions);
 
-&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
+&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV; and
 
 &emsp;&emsp;(C) not to disenroll (or eliminate coverage of) any such child unless—
 
@@ -40,7 +40,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;&emsp;(ii) the employer has eliminated family health coverage for all of its employees; and
 
-&emsp;&emsp;(D) to withhold from such employee's compensation the employee's share (if any) of premiums for health coverage (except that the amount so withheld may not exceed the maximum amount permitted to be withheld under section 1673(b) of title 15), and to pay such share of premiums to the insurer, except that the Secretary may provide by regulation for appropriate circumstances under which an employer may withhold less than such employee's share of such premiums.
+&emsp;&emsp;(D) to withhold from such employee's compensation the employee's share (if any) ofpremiums for health coverage (except that the amount so withheld may not exceed the maximum amount permitted to be withheld under section 1673(b) of title 15), and to pay such share of premiums to the insurer, except that the Secretary may provide by regulation for appropriate circumstances under which an employer may withhold less than such employee's share of such premiums.
 
 &emsp;(4) A law that prohibits an insurer from imposing requirements on a State agency, which has been assigned the rights of an individual eligible for medical assistance under this subchapter and covered for health benefits from the insurer, that are different from requirements applicable to an agent or assignee of any other individual so covered.
 

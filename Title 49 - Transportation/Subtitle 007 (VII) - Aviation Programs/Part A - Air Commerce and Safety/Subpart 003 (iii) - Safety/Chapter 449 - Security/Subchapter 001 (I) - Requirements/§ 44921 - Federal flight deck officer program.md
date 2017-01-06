@@ -104,7 +104,7 @@ Conduct of training.—The training of a Federal flight deck officer in the use 
 
 &emsp;&emsp;&emsp;(iii)
 
-Requalification.—The Under Secretary shall require a Federal flight deck officer to requalify to carry a firearm under the program. Such requalification shall occur at an interval required by the Under Secretary.
+Requalification.—The Under Secretary shall require a Federal flight deck officer to requalify to carry a firearmunder the program. Such requalification shall occur at an interval required by the Under Secretary.
 
 (d)
 
@@ -112,7 +112,7 @@ Deputization.—
 
 &emsp;(1)
 
-In general.—The Under Secretary may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Under Secretary a request to be such an officer andwhom the Under Secretary determines is qualified to be such an officer.
+In general.—The Under Secretary may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Under Secretary a request to be such an officer and whom the Under Secretary determines is qualified to be such an officer.
 
 &emsp;(2)
 

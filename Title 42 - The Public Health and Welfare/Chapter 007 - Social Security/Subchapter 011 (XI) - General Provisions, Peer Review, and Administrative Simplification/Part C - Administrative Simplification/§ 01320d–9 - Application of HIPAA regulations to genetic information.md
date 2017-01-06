@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (1) Genetic information; genetic test; family member
 
-&emsp;The terms "genetic information", "genetic test", and "family member" have the meanings given such terms in section 300gg–91 of this title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
+&emsp;The terms "genetic information", "genetic test", and "family member" have the meanings given such terms in section 300gg–91 ofthis title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
 
 #### (2) Group health plan; health insurance coverage; medicare supplemental policy
 
@@ -48,7 +48,7 @@ In addition to any other sanctions or remedies that may be available under law, 
 
 #### References in Text
 
-The Genetic Information Nondiscrimination Act of 2007, referred to in subsec. (b)(1), probably means theGenetic Information Nondiscrimination Act of 2008, Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
+The Genetic Information Nondiscrimination Act of 2007, referred to in subsec. (b)(1), probably means the Genetic Information Nondiscrimination Act of 2008, Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
 
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 

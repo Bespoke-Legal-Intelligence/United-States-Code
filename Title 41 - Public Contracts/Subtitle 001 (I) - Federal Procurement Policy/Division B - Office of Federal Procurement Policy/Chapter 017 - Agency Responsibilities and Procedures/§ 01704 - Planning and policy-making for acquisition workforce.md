@@ -82,7 +82,7 @@ Acquisition Workforce Development Strategic Plan.—
 
 &emsp;(1)
 
-Purpose.—The purpose of this subsection is to authorize the preparation and completion of the Acquisition Workforce Development Strategic Plan, which is a plan for Federalagencies other than the Department of Defense to—
+Purpose.—The purpose of this subsection is to authorize the preparation and completion of the Acquisition Workforce Development Strategic Plan, which is a plan for Federal agencies other than the Department of Defense to—
 
 &emsp;&emsp;(A) develop a specific and actionable 5-year plan to increase the size of the acquisition workforce; and
 
@@ -106,7 +106,7 @@ Criteria.—The Acquisition Workforce Development Strategic Plan shall include a
 
 &emsp;&emsp;(E) Government-wide training standards and certification requirements necessary to enhance the mobility and career opportunities of the Federal acquisition workforce within the Federal agencies covered by the plan.
 
-&emsp;&emsp;(F) If the Associate Administrator recommends as part of the plan a growth in the acquisition workforce of the Federal agencies covered by the plan below 25 percent over the next 5 years, an examination of each of the matters specified in subparagraphs (A) to (E) in the context of a 5-year plan that increases the size of such acquisition workforce by not less than 25 percent, or an explanation why such a level of growth would not be in the best interest of the Federal Government.
+&emsp;&emsp;(F) If the Associate Administrator recommends as part of the plan a growth in the acquisition workforce of the Federal agencies covered by the plan below 25 percent over the next 5 years, an examination of each of the matters specified in subparagraphs (A) to (E) in the context of a 5-year plan that increases the size of such acquisition workforce by not less than 25 percent,or an explanation why such a level of growth would not be in the best interest of the Federal Government.
 
 &emsp;(4)
 
@@ -178,7 +178,7 @@ In subsection (a), the definition of "executive agency" is omitted as unnecessar
 
 In subsection (f)(1), the words "Not later than 1 year after the date of the enactment of this Act" are omitted as obsolete.
 
-In subsection (g)(2), the words "Associate Administrator" are substituted for "Associate Administrator for Acquisition Workforce Programs designated under section 855(a) of the National Defense AuthorizationAct for Fiscal Year 2008 (Public Law 110-181; 122 Stat. 251; 41 U.S.C. 433(a))" because of subsection (a)(1).
+In subsection (g)(2), the words "Associate Administrator" are substituted for "Associate Administrator for Acquisition Workforce Programs designated under section 855(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110-181; 122 Stat. 251; 41 U.S.C. 433(a))" because of subsection (a)(1).
 
 In subsection (g)(3)(D), the reference to "section 37(j) of the Office of Federal Procurement Policy Act" is changed to "section 1703(g) of this title" to correct an error in the law.
 

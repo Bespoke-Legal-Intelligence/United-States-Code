@@ -26,7 +26,7 @@ Pub. L. 110–49, §1(a), July 26, 2007, 121 Stat. 246, provided that: "This Act
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–195, §1, Dec. 19, 2003, 117 Stat. 2892, provided that: "This Act \[see Tables for classification\]may be cited as the 'Defense Production Act Reauthorization of 2003'."
+Pub. L. 108–195, §1, Dec. 19, 2003, 117 Stat. 2892, provided that: "This Act \[see Tables for classification\] may be cited as the 'Defense Production Act Reauthorization of 2003'."
 
 #### Short Title of 2001 Amendment
 

@@ -58,13 +58,15 @@ In general.—The Chairman shall—
 
 &emsp;&emsp;&emsp;(i) appoint and supervise officers and employees of the Commission;
 
-&emsp;&emsp;&emsp;(ii) appoint the heads of major organizational units, but only after consultation with the other Commissioners;
+&emsp;&emsp;&emsp;(ii) appoint the heads of major organizational units (with such appointments subject to the approval of the Commission);
 
 &emsp;&emsp;&emsp;(iii) distribute the business of the Commission among personnel and organizational units;
 
-&emsp;&emsp;&emsp;(iv) supervise the expenditure of money for administrative purposes; and
+&emsp;&emsp;&emsp;(iv) supervise the expenditure of money for administrative purposes;
 
-&emsp;&emsp;&emsp;(v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under section 304 of this title.
+&emsp;&emsp;&emsp;(v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under section 304 of this title; and
+
+&emsp;&emsp;&emsp;(vi) prepare and submit to the President and the Congress requests for appropriations for the Commission (with such requests subject to the approval of the Commission).
 
 &emsp;&emsp;(B)
 
@@ -78,7 +80,7 @@ Delegation.—The Chairman may designate officers and employees under the Chairm
 
 Seal.—The Commission shall have a seal which shall be judicially recognized.
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1488; Pub. L. 113–281, title IV, §403(a), Dec. 18, 2014, 128 Stat. 3056.)
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1488; Pub. L. 113–281, title IV, §403(a), Dec. 18, 2014, 128 Stat. 3056; Pub. L. 114–120, title IV, §402, Feb. 8, 2016, 130 Stat. 67.)
 
 Historical and Revision Notes
 
@@ -128,7 +130,7 @@ June 29, 1936, ch. 858, title II, §201(c) (related to seal), 49 Stat. 1986.
 
 In subsection (a), the words "is an independent establishment" are substituted for "shall not be a part of any executive department or under the authority of the head of any executive department" for consistency with other titles of the United States Code and to eliminate unnecessary words.
 
-In subsection (b)(2), the words "The term of each Commissioner is 5 years, with each term beginning oneyear apart" are substituted for the language about terms in section 102(c) of Reorganization Plan No. 7 of 1961 (46 App. U.S.C. 1111 note) and the Act of June 30, 1965 (Pub. L. 89–56, 79 Stat. 195), for clarity and to eliminate executed and obsolete language.
+In subsection (b)(2), the words "The term of each Commissioner is 5 years, with each term beginning one year apart" are substituted for the language about terms in section 102(c) of Reorganization Plan No. 7 of 1961 (46 App. U.S.C. 1111 note) and the Act of June 30, 1965 (Pub. L. 89–56, 79 Stat. 195), for clarity and to eliminate executed and obsolete language.
 
 In subsection (c), section 104 of Reorganization Plan No. 7 of 1961 is omitted as executed.
 
@@ -141,6 +143,10 @@ Subsection (c)(3) is based on section 2 of Reorganization Plan No. 6 of 1949 and
 Subsection (c)(4) is based on section 3 of Reorganization Plan No. 6 of 1949.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3)(A)(ii). Pub. L. 114–120, §402(1), substituted "units (with such appointments subject to the approval of the Commission);" for "units, but only after consultation with the other Commissioners;".
+
+Subsec. (c)(3)(A)(vi). Pub. L. 114–120, §402(2)–(4), added cl. (vi).
 
 <b>2014</b>—Subsec. (b)(2). Pub. L. 113–281, §403(a)(1), amended par. (2) generally. Prior to amendment, text read as follows: "The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified."
 

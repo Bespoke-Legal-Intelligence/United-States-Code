@@ -14,7 +14,7 @@ Section 7430, Pub. L. 89–10, title VII, §7120, as added Pub. L. 103–382, ti
 
 Section 7431, Pub. L. 89–10, title VII, §7121, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3728, related to coordination with other programs.
 
-Section 7432, Pub. L. 89–10, title VII, §7122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3728, related to programs for Native Americans and Puerto Rico.
+Section 7432, Pub. L. 89–10, title VII, §7122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3728,related to programs for Native Americans and Puerto Rico.
 
 Section 7433, Pub. L. 89–10, title VII, §7123, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3728, related to evaluations.
 

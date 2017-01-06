@@ -2,13 +2,13 @@
 
 #### (a) Amounts reserved
 
-The Secretary shall reserve not more than one-half of 1 percent of the amount appropriated under section 9859a of this title for each fiscal year to make allotments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
+The Secretary shall reserve not more than one-half of 1 percent of the amount appropriatedunder section 9859a of this title for each fiscal year to make allotments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
 
 #### (b) State allotments
 
 #### (1) General rule
 
-&emsp;From the amounts appropriated under section 9859a of this title for each fiscal year andremaining after reservations are made under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
+&emsp;From the amounts appropriated under section 9859a of this title for each fiscal year and remaining after reservations are made under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
 
 &emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
@@ -48,7 +48,7 @@ The Secretary shall reserve not more than one-half of 1 percent of the amount ap
 
 #### (c) Data and information
 
-The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
+The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b).
 
 #### (d) Definition
 

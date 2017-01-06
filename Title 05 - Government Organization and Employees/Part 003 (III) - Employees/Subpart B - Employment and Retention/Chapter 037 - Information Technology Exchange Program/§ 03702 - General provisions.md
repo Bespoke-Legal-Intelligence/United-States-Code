@@ -52,9 +52,13 @@ Section 209(b) of the E-Government Act of 2002, referred to in subsec. (a), is s
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of enactment of Pub. L. 107–347, which was approved Dec. 17, 2002.
 
-#### Pilot Program for the Temporary Assignment of Information Technology Personnel to Private Sector Organizations
+#### Effective Date
 
-Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div.A, title X, §1075(a), Nov. 25, 2015, 129 Stat. 997, provided that:
+Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
+
+#### Pilot Program for the Temporary Assignment of Cyber and Information Technology Personnel to Private Sector Organizations
+
+Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, §1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, §1123, Dec. 23, 2016, 130 Stat. 2455, provided that:
 
 "(a)
 
@@ -62,11 +66,11 @@ Assignment Authority.—The Secretary of Defense may, with the agreement of the 
 
 &emsp;"(1) the employee—
 
-&emsp;&emsp;"(A) works in the field of information technology management;
+&emsp;&emsp;"(A) works in the field of cyber operations or information technology management;
 
 &emsp;&emsp;"(B) is considered by the Secretary of Defense to be an exceptional employee;
 
-&emsp;&emsp;"(C) is expected to assume increased information technology management responsibilities in the future; and
+&emsp;&emsp;"(C) is expected to assume increased cyber operations or information technology management responsibilities in the future; and
 
 &emsp;&emsp;"(D) is compensated at not less than the GS–11 level (or the equivalent); and
 
@@ -88,7 +92,7 @@ Termination.—An assignment under this section may, at any time and for any rea
 
 "(d)
 
-Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2018.
+Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2022.
 
 "(e)
 
@@ -122,13 +126,13 @@ Prohibition Against Charging Certain Costs to the Federal Government.—A privat
 
 Considerations.—In carrying out this section, the Secretary of Defense—
 
-&emsp;"(1) shall ensure that, of the assignments made under this section each year, at least 20 percent are from small business concerns (as defined by section 3703(e)(2)(A) of title 5, United States Code); and
+&emsp;"(1) shall ensure that, of the assignments made under this section each year, at least 20 percent are to or from small business concerns (as defined by section 3703(e)(2)(A) of title 5, United States Code); and
 
-&emsp;"(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees in information technology management.
+&emsp;"(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees in cyber operations or information technology management.
 
 "(h)
 
-Numerical Limitation.—In no event may more than 10 employees be participating in assignments under this section at any given time.
+Numerical Limitation.—In no event may more than 50 employees be participating in assignments under this section at any given time.
 
 "(i)
 

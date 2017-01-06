@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary makes a finding under subsection (a), but determines that the failure to comply substantially with the provisions of this chapter—
+&emsp;If the Secretary makes a finding under subsection (a), but determines that the failure tocomply substantially with the provisions of this chapter—
 
 &emsp;&emsp;(A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -72,7 +72,7 @@
 
 #### (1) Authority
 
-&emsp;In lieu of, or in addition to, any action authorized by subsection (a), if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the UnitedStates with a recommendation that an appropriate civil action be instituted.
+&emsp;In lieu of, or in addition to, any action authorized by subsection (a), if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
 
 #### (2) Civil action
 

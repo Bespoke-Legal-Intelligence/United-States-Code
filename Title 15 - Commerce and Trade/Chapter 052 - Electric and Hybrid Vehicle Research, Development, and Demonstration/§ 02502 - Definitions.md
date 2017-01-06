@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) is capable of being mass-produced and operated at a cost and in a manner which is sufficiently competitive to enable it to be produced and sold in numbers representing a reasonable portion of the market;
 
-&emsp;&emsp;(C) is safe, damage-resistant, easy to repair, durable, and operates with sufficientperformance with respect to acceleration, cold-weather starting, cruising speed, and other performance factors; and
+&emsp;&emsp;(C) is safe, damage-resistant, easy to repair, durable, and operates with sufficient performance with respect to acceleration, cold-weather starting, cruising speed, and other performance factors; and
 
 &emsp;&emsp;(D) at a minimum, can be produced, distributed, operated, and disposed of in compliance with any applicable requirement of Federal law;
 

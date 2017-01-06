@@ -8,7 +8,7 @@ In the case of a major disaster or incident abroad which affects the health and 
 
 For purposes of this section and sections 2715b and 2715c of this title, the term "consular officer" includes any United States citizen employee of the Department of State who is designated by the Secretary of State to perform consular services pursuant to such regulations as the Secretary may prescribe.
 
-(Aug. 1, 1956, ch. 841, title I, §43, as added Pub. L. 101–246, title I, §115(c)(2), Feb. 16, 1990, 104Stat. 23; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §235\], Nov. 29, 1999, 113 Stat. 1536, 1501A–429.)
+(Aug. 1, 1956, ch. 841, title I, §43, as added Pub. L. 101–246, title I, §115(c)(2), Feb. 16, 1990, 104 Stat. 23; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §235\], Nov. 29, 1999, 113 Stat. 1536, 1501A–429.)
 
 #### Prior Provisions
 

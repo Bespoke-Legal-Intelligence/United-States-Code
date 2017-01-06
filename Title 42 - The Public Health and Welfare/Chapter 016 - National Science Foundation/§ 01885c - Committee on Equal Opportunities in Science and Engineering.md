@@ -18,9 +18,13 @@ The Committee may organize such standing or ad hoc subcommittees as the Committe
 
 #### (e) Biennial report
 
-Every two years, the Committee shall prepare and transmit to the Director a report on its activities during the previous two years and proposed activities for the next two years. The Director shall transmit to Congress the report, unaltered, together with such comments as the Director deems appropriate.
+Every 2 years, the Committee shall prepare and submit to the Director a report on its activities during the previous 2 years and proposed activities for the next 2 years. The Director shall submit to Congress the report, unaltered, together with such comments as the Director considers appropriate, including—
 
-(Pub. L. 96–516, §36, Dec. 12, 1980, 94 Stat. 3012; Pub. L. 99–159, title I, §111(b)(8), Nov. 22, 1985, 99 Stat. 893; Pub. L. 100–570, title I, §105(c), Oct. 31, 1988, 102 Stat. 2868; Pub. L. 105–207, title II, §202(d)(2), July 29, 1998, 112 Stat. 874.)
+&emsp;(1) review data on the participation in Foundation activities of institutions serving populations that are underrepresented in STEM disciplines, including poor, rural, and tribal populations; and
+
+&emsp;(2) recommendations regarding how the Foundation could improve outreach and inclusion of these populations in Foundation activities.
+
+(Pub. L. 96–516, §36, Dec. 12, 1980, 94 Stat. 3012; Pub. L. 99–159, title I, §111(b)(8), Nov. 22, 1985, 99 Stat. 893; Pub. L. 100–570, title I, §105(c), Oct. 31, 1988, 102 Stat. 2868; Pub. L. 105–207, title II, §202(d)(2), July 29, 1998, 112 Stat. 874; Pub. L. 114–329, title III, §313, Jan. 6, 2017, 130 Stat. 3014.)
 
 #### References in Text
 
@@ -32,11 +36,13 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 #### Amendments
 
+<b>2017</b>—Subsec. (e). Pub. L. 114–329, which directed the general amendment of section 204(e) of Pub. L. 100–570, was executed by making the amendment to subsec. (e) of this section, meaning section 36(e) of Pub. L. 96–516, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "Every two years, the Committee shall prepare and transmit to the Director a report on its activities during the previous two years and proposed activities for the next two years. The Director shall transmit to Congress the report, unaltered, together with such comments as the Director deems appropriate."
+
 <b>1998</b>—Subsec. (a). Pub. L. 105–207, §202(d)(2)(A), substituted "minorities, and persons with disabilities in scientific" for "minorities, and other groups currently underrepresented in scientific".
 
 Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out "with the concurrence of the National Science Board" after "the Director" and substituted "In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee." for "The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee."
 
-Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
+Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee onWomen in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
 
 Subsec. (d). Pub. L. 105–207, §202(d)(2)(F), struck out "additional" after "organize such".
 

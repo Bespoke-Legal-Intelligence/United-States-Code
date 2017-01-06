@@ -2,17 +2,17 @@
 
 #### (a) Corporation consideration of certain criteria
 
-The Corporation shall apply the criteria described in subsections (c) and (d) of this section in determining whether—
+The Corporation shall apply the criteria described in subsections (c) and (d) in determining whether—
 
 &emsp;(1) to approve an application submitted under section 12582 of this title and provide assistance under section 12571 of this title to the applicant; and
 
-&emsp;(2) to approve service positions described in the application as national service positions that include the national service educational award described in division D of this subchapter and provide such approved national service positions to the applicant.
+&emsp;(2) to approve service positions described in the application as national service positions that include the national service educational award described in division D and provide such approved national service positions to the applicant.
 
 #### (b) Application to subgrants
 
 #### (1) In general
 
-&emsp;A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
+&emsp;A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
 
 #### (2) Contents
 
@@ -74,7 +74,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;&emsp;&emsp;(ii) are innovative; and
 
-&emsp;&emsp;&emsp;(iii) are well established in 1 or more States at the time of the application andare proposed to be expanded to additional States using assistance provided under section 12571 of this title;
+&emsp;&emsp;&emsp;(iii) are well established in 1 or more States at the time of the application and are proposed to be expanded to additional States using assistance provided under section 12571 of this title;
 
 &emsp;&emsp;(B) grant programs in support of other national service programs if the grant programs are to be conducted by nonprofit organizations with demonstrated and extensive expertise in the provision of services to meet human, educational, environmental, or public safety needs; and
 
@@ -102,7 +102,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 In making assistance available under section 12571 of this title and in providing approved national service positions under section 12573 of this title, the Corporation shall ensure that not less than 50 percent of the total amount of assistance to be distributed to States under subsections (d) and (e) of section 12581 of this title for a fiscal year is provided to carry out or support national service programs and projects that—
 
-&emsp;(1) are conducted in any of the areas described in subsection (c)(6) of this section or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
+&emsp;(1) are conducted in any of the areas described in subsection (c)(6) or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
 
 &emsp;(2) place a priority on the recruitment of participants who are residents of any of such areas or Federal or other public lands.
 

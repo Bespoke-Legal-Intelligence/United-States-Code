@@ -1,10 +1,10 @@
 ### §3401. Misdemeanors; application of probation laws
 
-(a) When specially designated to exercise such jurisdiction by the district court or courts heserves, any United States magistrate judge shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed within that judicial district.
+(a) When specially designated to exercise such jurisdiction by the district court or courts he serves, any United States magistrate judge shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed within that judicial district.
 
 (b) Any person charged with a misdemeanor, other than a petty offense may elect, however, to be tried before a district judge for the district in which the offense was committed. The magistrate judge shall carefully explain to the defendant that he has a right to trial, judgment, and sentencing by a district judge and that he may have a right to trial by jury before a district judge or magistrate judge. The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.
 
-(c) A magistrate judge who exercises trial jurisdiction under this section, and before whom a person is convicted or pleads either guilty or nolo contendere, may, with the approval of a judge of the district court, direct the probation service of the court to conduct a presentence investigation on that person and render a report to the magistrate judge prior to the imposition of sentence.
+(c) A magistrate judge who exercises trial jurisdiction under this section, and before whom a person is convicted or pleads either guilty or nolo contendere, may, with the approval of a judge of the district court, direct the probationservice of the court to conduct a presentence investigation on that person and render a report to the magistrate judge prior to the imposition of sentence.
 
 (d) The probation laws shall be applicable to persons tried by a magistrate judge under this section, and such officer shall have power to grant probation and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge.
 
@@ -42,7 +42,7 @@ Subsec. (g). Pub. L. 104–317, §202(a)(2), substituted "The magistrate judge m
 
 Subsecs. (h), (i). Pub. L. 102–572, §103(2), added subsecs. (h) and (i).
 
-<b>1988</b>—Subsec. (g). Amendment by Pub. L. 100–690 directing that "and section 4216" be struck out after "under chapter 402" in subsec. (g), was executed to subsec. (g) applicable to offenses committed prior to Nov. 1, 1987, as the probable intent of Congress, in view of the amendment by section 223(j) of Pub. L. 98–473. See 1984 Amendment notes below.
+<b>1988</b>—Subsec. (g). Amendment by Pub. L. 100–690 directing that "and section 4216" be struck out after "under chapter 402" in subsec. (g), was executed to subsec. (g) applicable to offenses committed prior to Nov. 1, 1987, as the probable intent of Congress, in view ofthe amendment by section 223(j) of Pub. L. 98–473. See 1984 Amendment notes below.
 
 <b>1984</b>—Subsecs. (g), (h). Pub. L. 98–473, §223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: "The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1)of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
 #### Effective Date of 1968 Amendment
 

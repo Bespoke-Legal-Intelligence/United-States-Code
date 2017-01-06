@@ -40,13 +40,13 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;(C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals,,<sup>1</sup> and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
 
-&emsp;&emsp;(D) an assurance that the entity will provide to the Secretary the data described under section 247d–4(c)(3) of this title as determined feasible by the Secretary;
+&emsp;&emsp;(D) an assurance that the entity will provide to the Secretary the data describedunder section 247d–4(c)(3) of this title as determined feasible by the Secretary;
 
 &emsp;&emsp;(E) an assurance that the entity will conduct activities to inform and educate the hospitals within the jurisdiction of such entity on the role of such hospitals in the plan required under subparagraph (A);
 
 &emsp;&emsp;(F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity make <sup>2</sup> satisfactory annual improvement and describe <sup>3</sup> such system in the plan under subparagraph (A);
 
-&emsp;&emsp;(G) a description of the means by which to obtain public comment and input on theplan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
+&emsp;&emsp;(G) a description of the means by which to obtain public comment and input on the plan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
 
 &emsp;&emsp;(H) as relevant, a description of the process used by the entity to consult with local departments of public health to reach consensus, approval, or concurrence on the relative distribution of amounts received under this section.
 
@@ -174,7 +174,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;An entity that receives an award under this section shall maintain expenditures for public health security at a level that is notless than the average level of such expenditures maintained by the entity for the preceding 2 year period.
+&emsp;&emsp;An entity that receives an award under this section shall maintain expenditures for public health security at a level that is not less than the average level of such expenditures maintained by the entity for the preceding 2 year period.
 
 #### (B) Rule of construction
 
@@ -214,11 +214,11 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to political subdivisions that have a substantial number of residents, have a substantial local infrastructure for responding to public health emergencies, and face a high degree of risk from bioterrorist attacks or other public health emergencies. Not more than three political subdivisions may receive awards pursuant to this subparagraph.
+&emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) to political subdivisions that have a substantial number of residents, have a substantial local infrastructure for responding to public health emergencies, and face a high degree of risk from bioterrorist attacks or other public health emergencies. Not more than three political subdivisions may receive awards pursuant to this subparagraph.
 
 #### (B) Coordination with Statewide plans
 
-&emsp;&emsp;An award pursuant to subparagraph (A) may not be made unless the application of the political subdivision involved is in coordination with, and consistent with, applicable Statewide plans described in subsection (b) of this section.
+&emsp;&emsp;An award pursuant to subparagraph (A) may not be made unless the application of the political subdivision involved is in coordination with, and consistent with, applicable Statewide plans described in subsection (b).
 
 #### (C) Relationship to formula grants
 
@@ -226,21 +226,21 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (D) Continuity of funding
 
-&emsp;&emsp;In determining whether to make an award pursuant to subparagraph (A) to a political subdivision, the Secretary may consider, as a factor indicating that the award should be made, that the political subdivision received public health funding from the Secretary for fiscal year 2006.
+&emsp;&emsp;In determining whether to make an award pursuant to subparagraph (A) to a politicalsubdivision, the Secretary may consider, as a factor indicating that the award should be made, that the political subdivision received public health funding from the Secretary for fiscal year 2006.
 
 #### (5) Significant unmet needs; degree of risk
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to eligible entities that—
+&emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) to eligible entities that—
 
-&emsp;&emsp;&emsp;(i) have a significant need for funds to build capacity to identify, detect, monitor, and respond to a bioterrorist or other threat to the public health, which needwill not be met by awards pursuant to paragraph (3); and
+&emsp;&emsp;&emsp;(i) have a significant need for funds to build capacity to identify, detect, monitor, and respond to a bioterrorist or other threat to the public health, which need will not be met by awards pursuant to paragraph (3); and
 
 &emsp;&emsp;&emsp;(ii) face a particularly high degree of risk of such a threat.
 
 #### (B) Recipients of grants
 
-&emsp;&emsp;Awards pursuant to subparagraph (A) may be supplemental awards to States that receive awards pursuant to paragraph (3), or may be awards to eligible entities described in subsection (b)(1)(B) of this section within such States.
+&emsp;&emsp;Awards pursuant to subparagraph (A) may be supplemental awards to States that receive awards pursuant to paragraph (3), or may be awards to eligible entities described in subsection (b)(1)(B) within such States.
 
 #### (C) Finding with respect to District of Columbia
 
@@ -288,7 +288,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (C) Withholding of payment
 
-&emsp;&emsp;The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any entity which is not using its allotment under this section or section 247d–3b of this title in accordance with such section. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
+&emsp;&emsp;The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any entity which is not using its allotment under this section or section 247d–3b of this title in accordance with such section. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removedand there is reasonable assurance that it will not recur.
 
 #### (j) Compilation and availability of data
 

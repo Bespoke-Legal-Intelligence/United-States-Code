@@ -2,7 +2,7 @@
 
 (a) The Secretary is authorized—
 
-&emsp;(1) to acquire, subject to the availability of appropriations sufficient to cover its full obligations, real property or interests therein bypurchase, lease for a term not to exceed 5 years, or otherwise, for use as Coast Guard family housing units, including the acquisition of condominium units, which may include the obligation to pay maintenance, repair, and other condominium-related fees; and
+&emsp;(1) to acquire, subject to the availability of appropriations sufficient to cover its full obligations, real property or interests therein by purchase, lease for a term not to exceed 5 years, or otherwise, for use as Coast Guard family housing units, including the acquisition of condominium units, which may include the obligation to pay maintenance, repair, and other condominium-related fees; and
 
 &emsp;(2) to dispose of by sale, lease, or otherwise, any real property or interest therein used for Coast Guard family housing units for adequate consideration.
 

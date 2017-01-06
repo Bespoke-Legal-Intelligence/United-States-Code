@@ -64,7 +64,7 @@ Sexual assault or abuse.—The act of a person who forcibly or with coercion or 
 
 &emsp;&emsp;(I)
 
-Taking hostages.—The act of a person who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition for the safety or release of such person or persons.
+Taking hostages.—The act of a person who, having knowingly seized or detained one or more persons, threatens to kill, injure, or continue to detain such person or persons with the intent of compelling any nation, person other than the hostage, or group of persons to act or refrain from acting as an explicit or implicit condition forthe safety or release of such person or persons.
 
 &emsp;(2)
 

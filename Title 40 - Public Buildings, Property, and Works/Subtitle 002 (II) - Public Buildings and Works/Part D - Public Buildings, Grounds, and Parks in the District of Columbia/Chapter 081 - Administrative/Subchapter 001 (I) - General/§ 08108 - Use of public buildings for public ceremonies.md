@@ -1,6 +1,6 @@
 ### §8108. Use of public buildings for public ceremonies
 
-Except as expressly authorized by law, public buildings in the District of Columbia (other than the Capitol Building and the White House), and the approaches to those public buildings, shall not be used or occupied in connection with ceremonies for the inauguration of the President or other public functions.
+Except as expressly authorized by law, public buildings in the District of Columbia (other than the Capitol Building and the White House),and the approaches to those public buildings, shall not be used or occupied in connection with ceremonies for the inauguration of the President or other public functions.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1206.)
 

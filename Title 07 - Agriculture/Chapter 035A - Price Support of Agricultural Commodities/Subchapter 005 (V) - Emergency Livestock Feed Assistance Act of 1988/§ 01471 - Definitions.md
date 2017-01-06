@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term "livestock producer" means—
 
-&emsp;&emsp;(A) a person that is actively engaged in farming and that receives a substantial amount of total income from the production of grain or livestock, as determined by the Secretary, that is—
+&emsp;&emsp;(A) a person that is actively engaged in farming and that receives a substantialamount of total income from the production of grain or livestock, as determined by the Secretary, that is—
 
 &emsp;&emsp;&emsp;(i) an established producer or husbander of livestock or a dairy producer who is a citizen of, or legal resident alien in, the United States; or
 
@@ -12,11 +12,11 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) Any <sup>1</sup> of the following entities that is actively engaged in livestock production or husbandry, or dairy production—
 
-&emsp;&emsp;&emsp;(i) any Indian tribe (as defined in section 450b(b) of title 25); <sup>2</sup>
+&emsp;&emsp;&emsp;(i) any Indian tribe (as defined in section 5304(b) of title 25); <sup>2</sup>
 
-&emsp;&emsp;&emsp;(ii) any Indian organization or entity chartered under the Act of June 18, 1934 (48 Stat. 984, chapter 576; 25 U.S.C. 461 et seq.), commonly known as the "Indian Reorganization Act";
+&emsp;&emsp;&emsp;(ii) any Indian organization or entity chartered under the Act of June 18, 1934 (48 Stat. 984, chapter 576; 25 U.S.C. 461 et seq.),<sup>2</sup> commonly known as the "Indian Reorganization Act";
 
-&emsp;&emsp;&emsp;(iii) any tribal organization (as defined in section 450b(c) of title 25); <sup>2</sup> or
+&emsp;&emsp;&emsp;(iii) any tribal organization (as defined in section 5304(c) of title 25); <sup>2</sup> or
 
 &emsp;&emsp;&emsp;(iv) any economic enterprise (as defined in section 1452(e) of title 25);
 
@@ -40,9 +40,9 @@ As used in this subchapter:
 
 #### References in Text
 
-Section 450b of title 25, referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
-Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
 Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, §638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
 

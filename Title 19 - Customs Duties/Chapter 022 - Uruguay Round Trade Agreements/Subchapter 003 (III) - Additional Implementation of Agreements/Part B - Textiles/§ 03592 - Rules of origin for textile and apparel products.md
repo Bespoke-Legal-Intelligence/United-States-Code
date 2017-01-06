@@ -18,7 +18,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;&emsp;&emsp;(ii) the continuous filament is extruded in that country, territory, or possession;
 
-&emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, or yarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
+&emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, oryarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
 
 &emsp;&emsp;(D) the product is any other textile or apparel product that is wholly assembled in that country, territory, or possession from its component pieces.
 
@@ -32,7 +32,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;(B) Notwithstanding paragraph (1)(C), fabric classified under the HTS as of silk, cotton, man-made fiber, or vegetable fiber shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
-&emsp;(C) Notwithstanding paragraph (1)(D), goods classified under HTS heading 6117.10, 6213.00, 6214.00, 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, except for goods classified under such headings as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight ofcotton, shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
+&emsp;(C) Notwithstanding paragraph (1)(D), goods classified under HTS heading 6117.10, 6213.00, 6214.00, 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, except for goods classified under such headings as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
 #### (3) Multicountry rule
 
@@ -90,5 +90,5 @@ Pub. L. 106–200, title IV, §405(b), May 18, 2000, 114 Stat. 293, provided tha
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

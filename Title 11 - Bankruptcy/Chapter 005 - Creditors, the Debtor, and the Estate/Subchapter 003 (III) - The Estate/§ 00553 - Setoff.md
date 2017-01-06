@@ -40,9 +40,9 @@ Section 553 of the House amendment is derived from a similar provision contained
 
 #### senate report no. 95–989
 
-This section preserves, with some changes, the right of setoff in bankruptcy cases now found in section 68 of the Bankruptcy Act \[section 108 of former title 11\]. One exception to the right is the automatic stay, discussed in connection with proposed 11 U.S.C. 362. Another is the right of the trustee to use property under section 363 that is subject to a right of setoff.
+This section preserves, with some changes, the right of setoff in bankruptcy cases now found in section 68 ofthe Bankruptcy Act \[section 108 of former title 11\]. One exception to the right is the automatic stay, discussed in connection with proposed 11 U.S.C. 362. Another is the right of the trustee to use property under section 363 that is subject to a right of setoff.
 
-The section states that the right of setoff is unaffected by the bankruptcy code except to the extentthat the creditor's claim is disallowed, the creditor acquired (other than from the debtor) the claim during the 90 days preceding the case while the debtor was insolvent, the debt being offset was incurred for the purpose of obtaining a right of setoff, while the debtor was insolvent and during the 90-day prebankruptcy period, or the creditor improved his position in the 90-day period (similar to the improvement in position test found in the preference section 547(c)(5)). Only the last exception is an addition to current law.
+The section states that the right of setoff is unaffected by the bankruptcy code except to the extent that the creditor's claim is disallowed, the creditor acquired (other than from the debtor) the claim during the 90 days preceding the case while the debtor was insolvent, the debt being offset was incurred for the purpose of obtaining a right of setoff, while the debtor was insolvent and during the 90-day prebankruptcy period, or the creditor improved his position in the 90-day period (similar to the improvement in position test found in the preference section 547(c)(5)). Only the last exception is an addition to current law.
 
 As under section 547(f), the debtor is presumed to have been insolvent during the 90 days before the case.
 

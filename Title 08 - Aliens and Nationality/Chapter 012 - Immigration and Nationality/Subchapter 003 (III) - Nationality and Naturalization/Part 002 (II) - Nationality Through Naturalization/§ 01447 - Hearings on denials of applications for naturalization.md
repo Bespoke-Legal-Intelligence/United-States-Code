@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 97–116, §15(d)(1), struck out "and the witnesses" after 
 
 Subsec. (c). Pub. L. 97–116, §15(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which prescribed a waiting period of thirty days after the filing of a petition for naturalization for the holding of a final hearing and permitted waiver of such period by the Attorney General if he determined that a waiver was in the public interest.
 
-Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permittingthe substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permitting the substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 97–116, §15(d)(4), (5), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -60,7 +60,7 @@ Subsec. (f). Pub. L. 97–116, §15(d)(5), redesignated subsec. (f) as (e).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 

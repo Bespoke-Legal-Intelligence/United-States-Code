@@ -14,7 +14,7 @@
 
 &emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
 
-&emsp;(D) a requirement that any person engaged in telemarketing for the solicitation of charitable contributions, donations, or gifts of money or any other thing of value, shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to solicit charitable contributions, donations, or gifts, and make such other disclosures as the Commission considers appropriate, including the name and mailing address of the charitable organization on behalf of which the solicitation is made.
+&emsp;(D) a requirement that any person engaged in telemarketing for the solicitation of charitable contributions, donations, or gifts of money or any other thing of value, shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to solicit charitable contributions, donations, or gifts, and make such other disclosures asthe Commission considers appropriate, including the name and mailing address of the charitable organization on behalf of which the solicitation is made.
 
 > In prescribing the rules described in this paragraph, the Commission shall also consider recordkeeping requirements.
 

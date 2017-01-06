@@ -14,7 +14,7 @@
 
 #### (2) Program requirements
 
-&emsp;The program established under paragraph (1)(A) shall provide for the recognition of laboratory accreditation bodies that meet criteria established by the Secretary for accreditation of laboratories, including independent private laboratories and laboratories run and operated by a Federal agency (including theDepartment of Commerce), State, or locality with a demonstrated capability to conduct 1 or more sampling and analytical testing methodologies for food.
+&emsp;The program established under paragraph (1)(A) shall provide for the recognition of laboratory accreditation bodies that meet criteria established by the Secretary for accreditation of laboratories, including independent private laboratories and laboratories run and operated by a Federal agency (including the Department of Commerce), State, or locality with a demonstrated capability to conduct 1 or more sampling and analytical testing methodologies for food.
 
 #### (3) Increasing the number of qualified laboratories
 

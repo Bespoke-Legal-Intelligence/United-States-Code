@@ -14,7 +14,7 @@
 
 #### (2) Indian policy
 
-&emsp;All programs assisted under this section shall be administered in a manner consistent with the principles of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and the government-to-government relationship between the Federal Government and Indian tribal governments.
+&emsp;All programs assisted under this section shall be administered in a manner consistent with the principles of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> and the government-to-government relationship between the Federal Government and Indian tribal governments.
 
 #### (b) Definitions
 
@@ -26,7 +26,7 @@ As used in this section:
 
 #### (2) Indian, Indian tribe, and tribal organization
 
-&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given such terms in subsections (d), (e), and (l), respectively, of section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given such terms in subsections (d), (e), and (l), respectively, of section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).<sup>1</sup>
 
 #### (3) Native Hawaiian and Native Hawaiian organization
 
@@ -92,7 +92,7 @@ Nothing in this section shall be construed—
 
 #### (A) Development of indicators and standards
 
-&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performance indicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
+&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performanceindicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
 
 #### (B) Special considerations
 
@@ -130,7 +130,7 @@ Nothing in this section shall be construed—
 
 #### (B) Request and approval
 
-&emsp;&emsp;An entity described in subsection (c) that requests a waiver under subparagraph (A)shall submit a plan to the Secretary to improve the program of workforce investment activities carried out by the entity, which plan shall meet the requirements established by the Secretary and shall be generally consistent with the requirements of section 3249(i)(3)(B) of this title.
+&emsp;&emsp;An entity described in subsection (c) that requests a waiver under subparagraph (A) shall submit a plan to the Secretary to improve the program of workforce investment activities carried out by the entity, which plan shall meet the requirements established by the Secretary and shall be generally consistent with the requirements of section 3249(i)(3)(B) of this title.
 
 #### (4) Advisory Council
 
@@ -210,7 +210,7 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Section 4 of the Act was classified to section 450b of Title 25 prior to editorial reclassification as section 5304 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
@@ -231,4 +231,6 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

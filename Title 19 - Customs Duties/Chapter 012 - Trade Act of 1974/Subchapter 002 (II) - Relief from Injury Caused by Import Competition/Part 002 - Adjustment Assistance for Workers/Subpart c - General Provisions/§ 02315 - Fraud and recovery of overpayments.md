@@ -2,7 +2,7 @@
 
 #### (a) Repayment; deductions
 
-(1) If a cooperating State agency, the Secretary, or a court of competent jurisdiction determines that any person has received any payment under this part to which the person was not entitled, including a payment referred to in subsection (b), such person shall be liable to repay such amount to the State agency or the Secretary, as the case may be, except that theState agency or the Secretary shall waive such repayment if such agency or the Secretary determines that—
+(1) If a cooperating State agency, the Secretary, or a court of competent jurisdiction determines that any person has received any payment under this part to which the person was not entitled, including a payment referred to in subsection (b), such person shall be liable to repay such amount to the State agency or the Secretary, as the case may be, except that the State agency or the Secretary shall waive such repayment if such agency or the Secretary determines that—
 
 &emsp;(A) the payment was made without fault on the part of such individual, and
 
@@ -60,7 +60,7 @@ Subsecs. (c), (d). Pub. L. 97–35 added subsecs. (c) and (d).
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
-For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, withcertain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2011 Revival
 

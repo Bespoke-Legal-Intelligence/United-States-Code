@@ -10,7 +10,7 @@ The regulations prescribed under subsection (a) shall require that before initia
 
 &emsp;(1) is not submitted in response to a previously published agency requirement; and
 
-&emsp;(2) contains technical and cost information for evaluation and overall scientific, technical or socioeconomic merit, or cost-related or price-related factors.
+&emsp;(2) contains technical and cost information for evaluation and overall scientific, technicalor socioeconomic merit, or cost-related or price-related factors.
 
 (Pub. L. 107–296, title VIII, §834, Nov. 25, 2002, 116 Stat. 2227.)
 

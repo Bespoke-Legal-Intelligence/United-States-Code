@@ -6,7 +6,7 @@ It is unlawful—
 
 &emsp;&emsp;(A) to violate any provision of the Convention, this subchapter or any regulation adopted under this subchapter;
 
-&emsp;&emsp;(B) to refuse to permit any enforcement officer to board a fishing vessel subject to suchperson's control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
+&emsp;&emsp;(B) to refuse to permit any enforcement officer to board a fishing vessel subject to such person's control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
 
 &emsp;&emsp;(C) to forcibly assault, resist, oppose, impede, intimidate or interfere with any enforcement officer in the conduct of any search, investigation, or inspection described in paragraph (2);
 
@@ -22,7 +22,7 @@ It is unlawful—
 
 #### Amendment of Paragraph (2)
 
-<i>Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b), of this section is amended by substituting "exclusive economic zone or special areas" for "fishery conservation zone".</i>
+<i>Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the</i><i>date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b) of this section, is amended by substituting "exclusive economic zone or special areas" for "fishery conservation zone".</i>
 
 #### Effective Date of 1992 Amendment
 

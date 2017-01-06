@@ -42,7 +42,7 @@ As used in this subchapter:
 
 (7) The term "retailer" means any person who purchases motor fuel for sale to the general public for ultimate consumption.
 
-(8) The term "marketing premises" means, in the case of any franchise, premises which, undersuch franchise, are to be employed by the franchisee in connection with sale, consignment, or distribution of motor fuel.
+(8) The term "marketing premises" means, in the case of any franchise, premises which, under such franchise, are to be employed by the franchisee in connection with sale, consignment, or distribution of motor fuel.
 
 (9) The term "leased marketing premises" means marketing premises owned, leased, or in any way controlled by a franchisor and which the franchisee is authorized or permitted, under the franchise, to employ in connection with the sale, consignment, or distribution of motor fuel.
 

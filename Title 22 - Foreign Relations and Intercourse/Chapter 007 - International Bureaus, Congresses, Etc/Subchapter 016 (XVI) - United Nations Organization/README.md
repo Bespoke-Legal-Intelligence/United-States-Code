@@ -8,6 +8,7 @@
 - [&sect; 00287 - Representation in Organization](%C2%A7%2000287%20-%20Representation%20in%20Organization.md)
 - [&sect; 00287a - Action by representatives in accordance with Presidential instructions; voting](%C2%A7%2000287a%20-%20Action%20by%20representatives%20in%20accordance%20with%20Presidential%20instructions%3B%20voting.md)
 - [&sect; 00287b - Reports to Congress by President](%C2%A7%2000287b%20-%20Reports%20to%20Congress%20by%20President.md)
+- [&sect; 00287b&#8211;1 - Additional report on other United States contributions to the United Nations](%C2%A7%2000287b%E2%80%931%20-%20Additional%20report%20on%20other%20United%20States%20contributions%20to%20the%20United%20Nations.md)
 - [&sect; 00287c - Economic and communication sanctions pursuant to United Nations Security Council Resolution](%C2%A7%2000287c%20-%20Economic%20and%20communication%20sanctions%20pursuant%20to%20United%20Nations%20Security%20Council%20Resolution.md)
 - [&sect; 00287d - Use of armed forces; limitations](%C2%A7%2000287d%20-%20Use%20of%20armed%20forces%3B%20limitations.md)
 - [&sect; 00287d&#8211;1 - Noncombatant assistance to United Nations](%C2%A7%2000287d%E2%80%931%20-%20Noncombatant%20assistance%20to%20United%20Nations.md)

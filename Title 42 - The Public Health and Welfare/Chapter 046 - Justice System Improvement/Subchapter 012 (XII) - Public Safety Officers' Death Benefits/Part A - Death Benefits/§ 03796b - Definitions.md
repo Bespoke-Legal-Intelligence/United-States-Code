@@ -78,7 +78,7 @@ A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is clas
 
 <b>2013</b>—Par. (1). Pub. L. 112–239, §1086(b)(1)(E)(i), substituted "an injury, the direct and proximate consequences of which" for "consequences of an injury that".
 
-Par. (3). Pub. L. 112–239, §1086(b)(1)(E)(ii), inserted "or permanently and totally disabled" after "deceased"and substituted "fatal or catastrophic injury" for "death" in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+Par. (3). Pub. L. 112–239, §1086(b)(1)(E)(ii), inserted "or permanently and totally disabled" after "deceased" and substituted "fatal or catastrophic injury" for "death" in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
 Par. (5). Pub. L. 112–239, §1086(b)(1)(E)(iii)(II), (III), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and, in subpar. (B), substituted "fatal or catastrophic injury" for "death".
 

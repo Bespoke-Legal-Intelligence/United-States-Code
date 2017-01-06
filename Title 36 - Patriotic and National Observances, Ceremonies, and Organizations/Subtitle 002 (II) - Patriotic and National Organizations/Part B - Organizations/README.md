@@ -18,7 +18,7 @@ Establishment.—There is established the National Foundation on Fitness, Sports
 
 Purposes.—The purposes of the Foundation are—
 
-&emsp;"(1) in conjunction with the Office of the President's Council on Fitness, Sports and Nutrition, to develop a list and description of programs, events and other activities which would further the purposes andfunctions outlined in Executive Order 13265 \[42 U.S.C. 300u note\], as amended, and with respect to which combined private and governmental efforts would be beneficial;
+&emsp;"(1) in conjunction with the Office of the President's Council on Fitness, Sports and Nutrition, to develop a list and description of programs, events and other activities which would further the purposes and functions outlined in Executive Order 13265 \[42 U.S.C. 300u note\], as amended, and with respect to which combined private and governmental efforts would be beneficial;
 
 &emsp;"(2) to encourage and promote the participation by private organizations in the activities referred to in subsection (b)(1) and to encourage and promote private gifts of money and other property to support those activities; and
 

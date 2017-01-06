@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of carrying out paragraph (1)(B), the Secretary shall solicit, not later than January 1, 2012, and not less than every3 years thereafter, input from entities described in subparagraph (B) on—
+&emsp;&emsp;For purposes of carrying out paragraph (1)(B), the Secretary shall solicit, not later than January 1, 2012, and not less than every 3 years thereafter, input from entities described in subparagraph (B) on—
 
 &emsp;&emsp;&emsp;(i) whether there could be greater uniformity in financial and administrative activities and items, as determined appropriate by the Secretary; and
 
@@ -90,7 +90,7 @@
 
 &emsp;The Secretary shall adopt standards that—
 
-&emsp;&emsp;(A) select code sets for appropriate data elements for the transactions referred to in subsection (a)(1) of this section from among the code sets that have been developed by private and public entities; or
+&emsp;&emsp;(A) select code sets for appropriate data elements for the transactions referred to in subsection (a)(1) from among the code sets that have been developed by private and public entities; or
 
 &emsp;&emsp;(B) establish code sets for such data elements if no code sets for the data elements have been developed.
 
@@ -136,11 +136,11 @@
 
 #### (1) Standards
 
-&emsp;The Secretary, in coordination with the Secretary of Commerce, shall adopt standards specifying procedures for the electronic transmission and authentication of signatures with respect to the transactions referred to in subsection (a)(1) of this section.
+&emsp;The Secretary, in coordination with the Secretary of Commerce, shall adopt standards specifying procedures for the electronic transmission and authentication of signatures with respect to the transactions referred to in subsection (a)(1).
 
 #### (2) Effect of compliance
 
-&emsp;Compliance with the standards adopted under paragraph (1) shall be deemed to satisfy Federal and State statutory requirements for written signatures with respect to the transactions referred to in subsection (a)(1) of this section.
+&emsp;Compliance with the standards adopted under paragraph (1) shall be deemed to satisfy Federal and State statutory requirements for written signatures with respect to the transactions referred to in subsection (a)(1).
 
 #### (f) Transfer of information among health plans
 
@@ -150,7 +150,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (1) In general
 
-&emsp;The Secretary shall adopt a single set of operating rules for each transaction referred to under subsection (a)(1) with the goal of creating as much uniformity in the implementation of the electronic standards as possible. Such operating rules shall be consensus-based and reflect the necessary business rules affecting health plans and health care providers and the manner in which they operate pursuant tostandards issued under Health Insurance Portability and Accountability Act of 1996.
+&emsp;The Secretary shall adopt a single set of operating rules for each transaction referred to under subsection (a)(1) with the goal of creating as much uniformity in the implementation of the electronic standards as possible. Such operating rules shall be consensus-based and reflect the necessary business rules affecting health plans and health care providers and the manner in which they operate pursuant to standards issued under Health Insurance Portability and Accountability Act of 1996.
 
 #### (2) Operating rules development
 
@@ -184,7 +184,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall adopt operating rules under this subsection, by regulation in accordance with subparagraph (C), following consideration of the operating rules developed by the non-profit entity described in paragraph (2) and the recommendation submitted by the National Committee on Vital and Health Statistics under paragraph (3)(E) and having ensured consultation with providers.
+&emsp;&emsp;The Secretary shall adopt operating rules under this subsection, by regulation in accordance with subparagraph (C), followingconsideration of the operating rules developed by the non-profit entity described in paragraph (2) and the recommendation submitted by the National Committee on Vital and Health Statistics under paragraph (3)(E) and having ensured consultation with providers.
 
 #### (B) Adoption requirements; effective dates
 
@@ -240,7 +240,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) In general
 
-&emsp;&emsp;A health plan (including entities described under paragraph (3)) shall file a statement with the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable revised standards and associated operating rules under this subsection for any interim final rule promulgated by the Secretary under subsection (i) that—
+&emsp;&emsp;A health plan (including entities described under paragraph (3)) shall file a statementwith the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable revised standards and associated operating rules under this subsection for any interim final rule promulgated by the Secretary under subsection (i) that—
 
 &emsp;&emsp;&emsp;(i) amends any standard or operating rule described under paragraph (1) of this subsection; or
 
@@ -290,7 +290,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) Definition
 
-&emsp;&emsp;For the purposes of this subsection, the term "review committee' means a committee chartered by or within the Departmentof Health and Human services that has been designated by the Secretary to carry out this subsection, including—
+&emsp;&emsp;For the purposes of this subsection, the term "review committee' means a committee chartered by or within the Department of Health and Human services that has been designated by the Secretary to carry out this subsection, including—
 
 &emsp;&emsp;&emsp;(i) the National Committee on Vital and Health Statistics; or
 
@@ -398,6 +398,210 @@ Subsec. (a)(5). Pub. L. 111–148, §10109(a)(1)(B), added par. (5).
 
 Subsecs. (g) to (j). Pub. L. 111–148, §1104(b)(2)(C), added subsecs. (g) to (j).
 
+#### Accessing, Sharing, and Using Health Data for Research Purposes
+
+Pub. L. 114–255, div. A, title II, §2063, Dec. 13, 2016, 130 Stat. 1080, provided that:
+
+"(a)
+
+Guidance Related to Remote Access.—Not later than 1 year after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue guidance clarifying that subparagraph (B) of section 164.512(i)(1)(ii) of part 164 of the Rule (prohibiting the removal of protected health information by a researcher) does not prohibit remote access to health information by a researcher for such purposes as described in section 164.512(i)(1)(ii) of part 164 of the Rule so long as—
+
+&emsp;"(1) at a minimum, security and privacy safeguards, consistent with the requirements of the Rule, are maintained by the covered entity and the researcher; and
+
+&emsp;"(2) the protected health information is not copied or otherwise retained by the researcher.
+
+"(b)
+
+Guidance Related to Streamlining Authorization.—Not later than 1 year after the date of enactment of this Act, the Secretary shall issue guidance on the following:
+
+&emsp;"(1)
+
+Authorization for use and disclosure of health information.—Clarification of the circumstances under which the authorization for the use or disclosure of protected health information, with respect to an individual, for future research purposes contains a sufficient description of the purpose of the use or disclosure, such as if the authorization—
+
+&emsp;&emsp;"(A) sufficiently describes the purposes such that it would be reasonable for the individual to expect that the protected health information could be used or disclosed for such future research;
+
+&emsp;&emsp;"(B) either—
+
+&emsp;&emsp;&emsp;"(i) states that the authorization will expire on a particular date or on the occurrence of a particular event; or
+
+&emsp;&emsp;&emsp;"(ii) states that the authorization will remain valid unless and until it is revoked by the individual; and
+
+&emsp;&emsp;"(C) provides instruction to the individual on how to revoke such authorization at any time.
+
+&emsp;"(2)
+
+Reminder of the right to revoke.—Clarification of the circumstances under which it is appropriate to provide an individual with an annual notice or reminder that the individual has the right to revoke such authorization.
+
+&emsp;"(3)
+
+Revocation of authorization.—Clarification of appropriate mechanisms by which an individual may revoke an authorization for future research purposes, such as described in paragraph (1)(C).
+
+"(c)
+
+Working Group on Protected Health Information for Research.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 1 year after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary shall convene a working group to study and report on the uses and disclosures of protected health information for research purposes, under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) \[see Tables for classification\].
+
+&emsp;"(2)
+
+Members.—The working group shall include representatives of—
+
+&emsp;&emsp;"(A) relevant Federal agencies, including the National Institutes of Health, the Centers for Disease Control and Prevention, the Food and Drug Administration, and the Office for Civil Rights;
+
+&emsp;&emsp;"(B) the research community;
+
+&emsp;&emsp;"(C) patients;
+
+&emsp;&emsp;"(D) experts in civil rights, such as privacy rights;
+
+&emsp;&emsp;"(E) developers of health information technology;
+
+&emsp;&emsp;"(F) experts in data privacy and security;
+
+&emsp;&emsp;"(G) health care providers;
+
+&emsp;&emsp;"(H) bioethicists; and
+
+&emsp;&emsp;"(I) other experts and entities, as the Secretary determines appropriate.
+
+&emsp;"(3)
+
+Report.—Not later than 1 year after the date on which the working group is convened under paragraph (1), the working group shall conduct a review and submit a report to the Secretary containing recommendations on whether the uses and disclosures of protected health information for research purposes should be modified to allow protected health information to be available, as appropriate, for research purposes, including studies to obtain generalizable knowledge, while protecting individuals' privacy rights. In conducting the review and making recommendations, the working group shall—
+
+&emsp;&emsp;"(A) address, at a minimum—
+
+&emsp;&emsp;&emsp;"(i) the appropriate manner and timing of authorization, including whether additional notification to the individual should be required when the individual's protected health information will be used or disclosed for such research;
+
+&emsp;&emsp;&emsp;"(ii) opportunities for individuals to set preferences on the manner in which their protected health information is used in research;
+
+&emsp;&emsp;&emsp;"(iii) opportunities for patients to revoke authorization;
+
+&emsp;&emsp;&emsp;"(iv) notification to individuals of a breach in privacy;
+
+&emsp;&emsp;&emsp;"(v) existing gaps in statute, regulation, or policy related to protecting the privacy of individuals, and
+
+&emsp;&emsp;&emsp;"(vi) existing barriers to research related to the current restrictions on the uses and disclosures of protected health information; and
+
+&emsp;&emsp;"(B) consider, at a minimum—
+
+&emsp;&emsp;&emsp;"(i) expectations and preferences on how an individual's protected health information is shared and used;
+
+&emsp;&emsp;&emsp;"(ii) issues related to specific subgroups of people, such as children, incarcerated individuals, and individuals with a cognitive or intellectual disability impacting capacity to consent;
+
+&emsp;&emsp;&emsp;"(iii) relevant Federal and State laws;
+
+&emsp;&emsp;&emsp;"(iv) models of facilitating data access and levels of data access, including data segmentation, where applicable;
+
+&emsp;&emsp;&emsp;"(v) potential impacts of disclosure and non-disclosure of protected health information on access to health care services; and
+
+&emsp;&emsp;&emsp;"(vi) the potential uses of such data.
+
+&emsp;"(4)
+
+Report submission.—The Secretary shall submit the report under paragraph (3) to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and shall post such report on the appropriate Internet website of the Department of Health and Human Services.
+
+&emsp;"(5)
+
+Termination.—The working group convened under paragraph (1) shall terminate the day after the report under paragraph (3) is submitted to Congress and made public in accordance with paragraph (4).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+The rule.—References to 'the Rule' refer to part 160 or part 164, as appropriate, of title 45, Code of Federal Regulations (or any successor regulation).
+
+&emsp;"(2)
+
+Part 164.—References to a specified section of 'part 164', refer to such specified section of part 164 of title 45, Code of Federal Regulations (or any successor section)."
+
+#### Clarification on Permitted Uses and Disclosures of Protected Health Information
+
+Pub. L. 114–255, div. B, title XI, §11003, Dec. 13, 2016, 130 Stat. 1270, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Health and Human Services\], acting through the Director of the Office for Civil Rights, shall ensure that health care providers, professionals, patients and their families, and others involved in mental or substance use disorder treatment have adequate, accessible, and easily comprehensible resources relating to appropriate uses and disclosures of protected health information under the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] (42 U.S.C. 1320d–2 note).
+
+"(b)
+
+Guidance.—
+
+&emsp;"(1)
+
+Issuance.—In carrying out subsection (a), not later than 1 year after the date of enactment of this section \[Dec. 13, 2016\], the Secretary shall issue guidance clarifying the circumstances under which, consistent with regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, a health care provider or covered entity may use or disclose protected health information.
+
+&emsp;"(2)
+
+Circumstances addressed.—The guidance issued under this section shall address circumstances including those that—
+
+&emsp;&emsp;"(A) require the consent of the patient;
+
+&emsp;&emsp;"(B) require providing the patient with an opportunity to object;
+
+&emsp;&emsp;"(C) are based on the exercise of professional judgment regarding whether the patient would object when the opportunity to object cannot practicably be provided because of the incapacity of the patient or an emergency treatment circumstance; and
+
+&emsp;&emsp;"(D) are determined, based on the exercise of professional judgment, to be in the best interest of the patient when the patient is not present or otherwise incapacitated.
+
+&emsp;"(3)
+
+Communication with family members and caregivers.—In addressing the circumstances described in paragraph (2), the guidance issued under this section shall clarify permitted uses or disclosures of protected health information for purposes of—
+
+&emsp;&emsp;"(A) communicating with a family member of the patient, caregiver of the patient, or other individual, to the extent that such family member, caregiver, or individual is involved in the care of the patient;
+
+&emsp;&emsp;"(B) in the case that the patient is an adult, communicating with a family member of the patient, caregiver of the patient, or other individual involved in the care of the patient;
+
+&emsp;&emsp;"(C) in the case that the patient is a minor, communicating with the parent or caregiver of the patient;
+
+&emsp;&emsp;"(D) involving the family members or caregivers of the patient, or others involved in the patient's care or care plan, including facilitating treatment and medication adherence;
+
+&emsp;&emsp;"(E) listening to the patient, or receiving information with respect to the patient from the family or caregiver of the patient;
+
+&emsp;&emsp;"(F) communicating with family members of the patient, caregivers of the patient, law enforcement, or others when the patient presents a serious and imminent threat of harm to self or others; and
+
+&emsp;&emsp;"(G) communicating to law enforcement and family members or caregivers of the patient about the admission of the patient to receive care at, or the release of a patient from, a facility for an emergency psychiatric hold or involuntary treatment."
+
+#### Development and Dissemination of Model Training Programs
+
+Pub. L. 114–255, div. B, title XI, §11004, Dec. 13, 2016, 130 Stat. 1271, provided that:
+
+"(a)
+
+Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary \[of Health and Human Services\], in consultation with appropriate experts, shall identify the following model programs and materials, or (in the case that no such programs or materials exist) recognize private or public entities to develop and disseminate each of the following:
+
+&emsp;"(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, including child and adolescent psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) regarding the permitted uses and disclosures, consistent with the standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under part C of title XI of the Social Security Act (42 U.S.C. 1320d et seq.) and regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] (42 U.S.C. 1320d–2 note) and such part C, of the protected health information of patients seeking or undergoing mental or substance use disorder treatment.
+
+&emsp;"(2) A model program and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations specified in paragraph (1).
+
+"(b)
+
+Periodic Updates.—The Secretary shall—
+
+&emsp;"(1) periodically review and update the model programs and materials identified or developed under subsection (a); and
+
+&emsp;"(2) disseminate the updated model programs and materials to the individuals described in subsection (a).
+
+"(c)
+
+Coordination.—The Secretary shall carry out this section in coordination with the Director of the Office for Civil Rights within the Department of Health and Human Services, the Assistant Secretary for Mental Health and Substance Use, the Administrator of the Health Resources and Services Administration, and the heads of other relevant agencies within the Department of Health and Human Services.
+
+"(d)
+
+Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under subsections (a) and (b), the Secretary shall solicit the input of relevant national, State, and local associations; medical societies; licensing boards; providers of mental and substance use disorder treatment; organizations with expertise on domestic violence, sexual assault, elder abuse, and child abuse; and organizations representing patients and consumers and the families of patients and consumers.
+
+"(e)
+
+Funding.—There are authorized to be appropriated to carry out this section—
+
+&emsp;"(1) $4,000,000 for fiscal year 2018;
+
+&emsp;"(2) $2,000,000 for each of fiscal years 2019 and 2020; and
+
+&emsp;"(3) $1,000,000 for each of fiscal years 2021 and 2022."
+
 #### Delay in Transition From ICD–9 to ICD–10 Code Sets
 
 Pub. L. 113–93, title II, §212, Apr. 1, 2014, 128 Stat. 1047, provided that: "The Secretary of Health and Human Services may not, prior to October 1, 2015, adopt ICD–10 code sets as the standard for code sets under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)) and section 162.1002 of title 45, Code of Federal Regulations."
@@ -454,7 +658,7 @@ Use of revised crosswalk.—For purposes of paragraph (2), any revised crosswalk
 
 &emsp;"(4)
 
-Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification ofDiseases not later than the date of implementation of such subsequent revision."
+Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification of Diseases not later than the date of implementation of such subsequent revision."
 
 #### Recommendations With Respect to Privacy of Certain Health Information
 

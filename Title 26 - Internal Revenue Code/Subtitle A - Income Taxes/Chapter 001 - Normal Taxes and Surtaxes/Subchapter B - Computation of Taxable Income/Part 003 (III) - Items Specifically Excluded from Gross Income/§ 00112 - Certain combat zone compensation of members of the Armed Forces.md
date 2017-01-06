@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the highest rate of basic pay payable for such month to any enlisted member of the Armed Forces of the United States at the highest pay grade applicable to enlisted members, and
 
-&emsp;&emsp;(B) in the case of an officer entitled to special pay under section 310 of title 37, United States Code, for such month, the amount of such special pay payable to such officer for such month.
+&emsp;&emsp;(B) in the case of an officer entitled to special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37, United States Code, for such month, the amount of such special pay payable to such officer for such month.
 
 #### (d) Prisoners of war, etc.
 
@@ -46,15 +46,17 @@ For purposes of this section—
 
 #### (2) Civilian employees
 
-&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms "activeservice", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
+&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms "active service", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
 
 #### (3) Period of conflict
 
 &emsp;For purposes of this subsection, the Vietnam conflict began February 28, 1961, and ends on the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam. For purposes of this subsection, an individual is in a missing status as a result of the Vietnam conflict if immediately before such status began he was performing service in Vietnam or was performing service in Southeast Asia in direct support of military operations in Vietnam.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1, Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 113–295, div. A, title II, §221(a)(18), Dec. 19, 2014, 128 Stat. 4039.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1,Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 113–295, div. A, title II, §221(a)(18), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–328, div. A, title VI, §618(k), Dec. 23, 2016, 130 Stat. 2161.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(5)(B). Pub. L. 114–328 inserted ", or paragraph (1) or (3) of section 351(a)," after "section 310".
 
 <b>2014</b>—Subsec. (c)(2). Pub. L. 113–295, §221(a)(18)(A), struck out "(after June 24, 1950)" after "are or have".
 
@@ -106,7 +108,7 @@ Pub. L. 89–739, §2, Nov. 2, 1966, 80 Stat. 1165, provided that: "The amendmen
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A-294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 
@@ -138,7 +140,7 @@ General Rule.—For purposes of the following provisions of the Internal Revenue
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means any area of the Federal Republic of Yugoslavia (Serbia/Montenegro), Albania, the Adriatic Sea, and the northern Ionian Sea (above the 39th parallel) during the period (which includes the date of the enactment of this Act \[Apr. 19, 1999\]) that any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay: duty subject to hostile fire or imminent danger) for services performed in such area.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means any area of the Federal Republic of Yugoslavia\(Serbia/Montenegro), Albania, the Adriatic Sea, and the northern Ionian Sea (above the 39th parallel) during the period (which includes the date of the enactment of this Act \[Apr. 19, 1999\]) that any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay: duty subject to hostile fire or imminent danger) for services performed in such area.
 
 "(c)
 
@@ -238,7 +240,7 @@ Ex. Ord. No. 11216, Apr. 24, 1965, 30 F.R. 5817, provided:
 
 Pursuant to the authority vested in me by section 112 of the Internal Revenue Code of 1954 \[now I.R.C. 1986\], I hereby designate, for the purposes of that section, as an area in which Armed Forces of the United States are and have been engaged in combat:
 
-Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.;thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ N Lat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
+Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.; thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ N Lat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
 
 The date of the commencing of combatant activities in such area is hereby designated as January 1, 1964.
 

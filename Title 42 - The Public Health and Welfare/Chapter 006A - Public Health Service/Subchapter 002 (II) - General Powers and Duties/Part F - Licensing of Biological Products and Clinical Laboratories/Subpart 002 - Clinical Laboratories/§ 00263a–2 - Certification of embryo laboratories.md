@@ -36,7 +36,7 @@ The certification program shall include the following requirements:
 
 &emsp;The certification program shall provide for the submission of an application to a State by an embryo laboratory for certification, in such form as may be specified by the State. Such an application shall include—
 
-&emsp;&emsp;(A) assurances satisfactory to the State that the embryo laboratory will be operated in accordance with the standards under subsection (d) of this section,
+&emsp;&emsp;(A) assurances satisfactory to the State that the embryo laboratory will be operated in accordance with the standards under subsection (d),
 
 &emsp;&emsp;(B) a report to the State identifying the assisted reproductive technology programs with which the laboratory is associated, and
 
@@ -66,7 +66,7 @@ A State may qualify to adopt the certification program if the State has submitte
 
 &emsp;(2) an agreement to make such reports as the Secretary may require, and
 
-&emsp;(3) information about any proposed use of accreditation organizations under subsection (g) <sup>2</sup> of this section.
+&emsp;(3) information about any proposed use of accreditation organizations under subsection (g).<sup>2</sup>
 
 #### (f) Use of accreditation organizations
 
@@ -76,7 +76,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (1) In general
 
-&emsp;A State which qualifies to adopt the certification program within the State shall conduct inspections in accordance with paragraph (2) to determine if laboratories in the State meet the requirements of such program. Such inspections shall be carried out by the State or by accreditation organizations used by the State under subsection (g) <sup>2</sup> of this section.
+&emsp;A State which qualifies to adopt the certification program within the State shall conduct inspections in accordance with paragraph (2) to determine if laboratories in the State meet the requirements of such program. Such inspections shall be carried out by the State or by accreditation organizations used by the State under subsection (g).<sup>2</sup>
 
 #### (2) Requirements
 
@@ -102,15 +102,15 @@ A State which has adopted the certification program may use accreditation organi
 
 &emsp;&emsp;(B) which have been certified by an accreditation organization approved by the Secretary under section 263a–3 of this title,
 
-> &emsp;for the purpose of determining whether the laboratory is being operated in accordance with the standards in subsection (d) of this section.
+> &emsp;for the purpose of determining whether the laboratory is being operated in accordance with the standards in subsection (d).
 
 #### (2) Access to facilities and records
 
-&emsp;In conducting an inspection of an embryo laboratory under paragraph (1), the Secretary shall have access to all facilities, equipment, materials, records, and information which the Secretary determines is necessary to determine if such laboratory is being operated in accordance with the standards in subsection (d) of this section. As part of such an inspection, the Secretary may copy any material, record, or information inspected or require it to be submitted to the Secretary. Such an inspection may be made only upon the presentation of identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;In conducting an inspection of an embryo laboratory under paragraph (1), the Secretary shall have access to all facilities, equipment, materials, records, and information which the Secretary determines is necessary to determine if such laboratory is being operated in accordance with the standards in subsection (d). As part of such an inspection, the Secretary may copy any material, record, or information inspected or require it to be submitted to the Secretary. Such an inspection may be made only upon the presentation of identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (3) Failure to comply
 
-&emsp;If the Secretary determines as a result of an inspection under paragraph (1) that the embryo laboratory is not in compliance with the standards in subsection (d) of this section, the Secretary shall—
+&emsp;If the Secretary determines as a result of an inspection under paragraph (1) that the embryo laboratory is not in compliance with the standards in subsection (d), the Secretary shall—
 
 &emsp;&emsp;(A) notify the State in which the laboratory is located and, if appropriate, the accreditation organization which certified the laboratory,
 
@@ -134,7 +134,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (1) Secretary
 
-&emsp;In developing the certification program, the Secretary may not establish any regulation,standard, or requirement which has the effect of exercising supervision or control over the practice of medicine in assisted reproductive technology programs.
+&emsp;In developing the certification program, the Secretary may not establish any regulation, standard, or requirement which has the effect of exercising supervision or control over the practice of medicine in assisted reproductive technology programs.
 
 #### (2) State
 
@@ -142,7 +142,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (j) Term
 
-The term of a certification issued by a State or an accreditation organization in a State shall be prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2) <sup>4</sup> of this section. The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownership of a certified laboratory or changes in the administration of such a laboratory.
+The term of a certification issued by a State or an accreditation organization in a State shall be prescribed by the Secretary in the certification program and shall be valid for a period of time to be defined by the Secretary through the public comment process described in subsection (h)(2).<sup>4</sup> The Secretary shall provide an application for recertification to be submitted at the time of changes in the ownership of a certified laboratory or changes in the administration of such a laboratory.
 
 (Pub. L. 102–493, §3, Oct. 24, 1992, 106 Stat. 3146.)
 

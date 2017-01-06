@@ -26,7 +26,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (B) Quality assessment and assurance
 
-&emsp;&emsp;A skilled nursing facility must maintain a quality assessment and assurance committee, consisting of the director of nursing services, a physician designated by the facility, and at least 3 other members of the facility's staff, which (i) meets at least quarterly to identify issues with respect to which quality assessment and assurance activities are necessary and (ii) develops and implements appropriate plans of action to correct identified quality deficiencies. A State or the Secretary may not require disclosure of the records of such committee except insofaras such disclosure is related to the compliance of such committee with the requirements of this subparagraph.
+&emsp;&emsp;A skilled nursing facility must maintain a quality assessment and assurance committee, consisting of the director of nursing services, a physician designated by the facility, and at least 3 other members of the facility's staff, which (i) meets at least quarterly to identify issues with respect to which quality assessment and assurance activities are necessary and (ii) develops and implements appropriate plans of action to correct identified quality deficiencies. A State or the Secretary may not require disclosure of the records of such committee except insofar as such disclosure is related to the compliance of such committee with the requirements of this subparagraph.
 
 #### (2) Scope of services and activities under plan of care
 
@@ -46,9 +46,9 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;&emsp;(i) describes the resident's capability to perform daily life functions and significant impairments in functional capacity;
 
-&emsp;&emsp;&emsp;(ii) is based on a uniform minimum data set specified by the Secretary under subsection (f)(6)(A) of this section;
+&emsp;&emsp;&emsp;(ii) is based on a uniform minimum data set specified by the Secretary under subsection (f)(6)(A);
 
-&emsp;&emsp;&emsp;(iii) uses an instrument which is specified by the State under subsection (e)(5) of this section; and
+&emsp;&emsp;&emsp;(iii) uses an instrument which is specified by the State under subsection (e)(5); and
 
 &emsp;&emsp;&emsp;(iv) includes the identification of medical problems.
 
@@ -68,7 +68,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (iii) Use of independent assessors
 
-&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
+&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
 
 #### (C) Frequency
 
@@ -148,7 +148,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;(i) Except as provided in clause (ii), a skilled nursing facility must not use on a full-time basis any individual as a nurse aide in the facility on or after October 1, 1990 for more than 4 months unless the individual—
 
-&emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved by the State under subsection (e)(1)(A) of this section, and
+&emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved by the State under subsection (e)(1)(A), and
 
 &emsp;&emsp;&emsp;(II) is competent to provide nursing or nursing-related services.
 
@@ -156,15 +156,15 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (B) Offering competency evaluation programs for current employees
 
-&emsp;&emsp;A skilled nursing facility must provide, for individuals used as a nurse aide <sup>2</sup> by the facility as of January 1, 1990, for a competency evaluation program approved by the State under subsection (e)(1) of this section and such preparation as may be necessary for the individual to complete such a program by October 1, 1990.
+&emsp;&emsp;A skilled nursing facility must provide, for individuals used as a nurse aide <sup>2</sup> by the facility as of January 1, 1990, for a competency evaluation program approved by the State under subsection (e)(1) and such preparation as may be necessary for the individual to complete such a program by October 1, 1990.
 
 #### (C) Competency
 
-&emsp;&emsp;The skilled nursing facility must not permit an individual, other than in a training and competency evaluation program approved by the State, to serve as a nurse aide or provide services of a type for which the individual has not demonstrated competency and must not use such an individual as a nurse aide unless the facility has inquired of any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information concerning the individual.
+&emsp;&emsp;The skilled nursing facility must not permit an individual, other than in a training and competency evaluation program approved by the State, to serve as a nurse aide or provide services of a type for which the individual has not demonstrated competency and must not use such an individual as a nurse aide unless the facility has inquired of any State registry established under subsection (e)(2)(A) that the facility believes will include information concerning the individual.
 
 #### (D) Re-training required
 
-&emsp;&emsp;For purposes of subparagraph (A), if, since an individual's most recent completion of atraining and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual performed nursing or nursing-related services for monetary compensation, such individual shall complete a new training and competency evaluation program or a new competency evaluation program.
+&emsp;&emsp;For purposes of subparagraph (A), if, since an individual's most recent completion of a training and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual performed nursing or nursing-related services for monetary compensation, such individual shall complete a new training and competency evaluation program or a new competency evaluation program.
 
 #### (E) Regular in-service education
 
@@ -222,7 +222,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (ii) Free from restraints
 
-&emsp;&emsp;&emsp;The right to be free from physical or mental abuse, corporal punishment, involuntary seclusion, and any physical or chemical restraints imposed for purposes of discipline or convenience and not required to treat the resident's medical symptoms. Restraints may only be imposed—
+&emsp;&emsp;&emsp;The right to be free from physical or mental abuse, corporal punishment, involuntary seclusion, and any physical or chemical restraints imposed for purposesof discipline or convenience and not required to treat the resident's medical symptoms. Restraints may only be imposed—
 
 &emsp;&emsp;&emsp;&emsp;(I) to ensure the physical safety of the resident or other residents, and
 
@@ -288,7 +288,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (D) Use of psychopharmacologic drugs
 
-&emsp;&emsp;Psychopharmacologic drugs may be administered only on the orders of a physician and only as part of a plan (included in the written plan of care described in paragraph (2)) designed to eliminate or modify the symptoms for which the drugs are prescribed and only if, at least annually, an independent, external consultant reviews the appropriateness of the drug plan of each resident receiving such drugs. In determining whether such a consultant is qualified to conduct reviews under the preceding sentence, the Secretary shall take into account the needs of nursing facilities under this subchapter to have access to the services of such a consultant on a timely basis.
+&emsp;&emsp;Psychopharmacologic drugs may be administered only on the orders of a physician and only as part of a plan (included in the written plan of care described in paragraph (2)) designed to eliminate or modify the symptoms for which the drugs are prescribed and only if, at least annually, an independent, external consultant reviews the appropriateness of the drug plan of each resident receiving such drugs. In determining whether such a consultant is qualified to conduct reviews under the preceding sentence, the Secretary shall take into account the needsof nursing facilities under this subchapter to have access to the services of such a consultant on a timely basis.
 
 #### (E) Information respecting advance directives
 
@@ -308,7 +308,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;&emsp;(iv) the health of individuals in the facility would otherwise be endangered;
 
-&emsp;&emsp;&emsp;(v) the resident has failed, after reasonable and appropriate notice, to pay (or to have paid under this subchapter or subchapter XIX of this chapter on the resident's behalf) for a stay at the facility; or
+&emsp;&emsp;&emsp;(v) the resident has failed, after reasonable and appropriate notice, to pay (or to have paid under this subchapter or subchapter XIX on the resident's behalf) for a stay at the facility; or
 
 &emsp;&emsp;&emsp;(vi) the facility ceases to operate.
 
@@ -344,7 +344,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;&emsp;Each notice under clause (i) must include—
 
-&emsp;&emsp;&emsp;&emsp;(I) for transfers or discharges effected on or after October 1, 1990, notice of the resident's right to appeal the transfer or discharge under the State process established under subsection (e)(3) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) for transfers or discharges effected on or after October 1, 1990, notice of the resident's right to appeal the transfer or discharge under the State process established under subsection (e)(3); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the name, mailing address, and telephone number of the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]).
 
@@ -376,7 +376,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 &emsp;&emsp;With respect to admissions practices, a skilled nursing facility must—
 
-&emsp;&emsp;&emsp;(i)(I) not require individuals applying to reside or residing in the facility to waive their rights to benefits under this subchapter or under a State plan under subchapter XIX of this chapter, (II) not require oral or written assurance that such individuals are not eligible for, or will not apply for, benefits under this subchapter or such a State plan, and (III) prominently display in the facility and provide to such individuals written information about how to apply for and use such benefits and how to receive refunds for previous payments covered by such benefits; and
+&emsp;&emsp;&emsp;(i)(I) not require individuals applying to reside or residing in the facility to waive their rights to benefits under this subchapter or under a State plan under subchapter XIX, (II) not require oral or written assurance that such individuals are not eligible for, or will not apply for, benefits under this subchapter or such a State plan, and (III) prominently display in the facility and provide to such individuals written information about how to apply for and use such benefits and how to receive refunds for previous payments covered by such benefits; and
 
 &emsp;&emsp;&emsp;(ii) not require a third party guarantee of payment to the facility as a condition of admission (or expedited admission) to, or continued stay in, the facility.
 
@@ -388,7 +388,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (ii) Contracts with legal representatives
 
-&emsp;&emsp;&emsp;Subparagraph (A)(ii) shall not be construed as preventing a facility from requiring an individual, who has legal access to a resident's income or resources available to pay for care in the facility, to sign acontract (without incurring personal financial liability) to provide payment from the resident's income or resources for such care.
+&emsp;&emsp;&emsp;Subparagraph (A)(ii) shall not be construed as preventing a facility from requiring an individual, who has legal access to a resident's income or resources available to pay for care in the facility, to sign a contract (without incurring personal financial liability) to provide payment from the resident's income or resources for such care.
 
 #### (6) Protection of resident funds
 
@@ -422,7 +422,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (D) Limitation on charges to personal funds
 
-&emsp;&emsp;The facility may not impose a charge against the personal funds of a resident for any item or service for which payment is made under this subchapter or subchapter XIX of this chapter.
+&emsp;&emsp;The facility may not impose a charge against the personal funds of a resident for any item or service for which payment is made under this subchapter or subchapter XIX.
 
 #### (d) Requirements relating to administration and other matters
 
@@ -430,7 +430,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (A) In general
 
-&emsp;&emsp;A skilled nursing facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident (consistent with requirements established under subsection (f)(5) of this section).
+&emsp;&emsp;A skilled nursing facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident (consistent with requirements established under subsection (f)(5)).
 
 #### (B) Required notices
 
@@ -448,7 +448,7 @@ In this subchapter, the term "skilled nursing facility" means an institution (or
 
 #### (C) <sup>4</sup> Skilled nursing facility administrator
 
-&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
+&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4).
 
 #### (C) <sup>4</sup> Availability of survey, certification, and complaint investigation reports
 
@@ -500,21 +500,21 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;The State must—
 
-&emsp;&emsp;(A) by not later than January 1, 1989, specify those training and competency evaluation programs, and those competency evaluation programs, that the State approves for purposes of subsection (b)(5) of this section and that meet the requirements established under subsection (f)(2) of this section, and
+&emsp;&emsp;(A) by not later than January 1, 1989, specify those training and competency evaluation programs, and those competency evaluation programs, that the State approves for purposes of subsection (b)(5) and that meet the requirements established under subsection (f)(2), and
 
-&emsp;&emsp;(B) by not later than January 1, 1990, provide for the review and reapproval of such programs, at a frequency and using a methodology consistent with the requirements established under subsection (f)(2)(A)(iii) of this section.
+&emsp;&emsp;(B) by not later than January 1, 1990, provide for the review and reapproval of such programs, at a frequency and using a methodology consistent with the requirements established under subsection (f)(2)(A)(iii).
 
-> &emsp;The failure of the Secretary to establish requirements under subsection (f)(2) of this section shall not relieve any State of its responsibility under this paragraph.
+> &emsp;The failure of the Secretary to establish requirements under subsection (f)(2) shall not relieve any State of its responsibility under this paragraph.
 
 #### (2) Nurse aide registry
 
 #### (A) In general
 
-&emsp;&emsp;By not later than January 1, 1989, the State shall establish and maintain a registry of all individuals who have satisfactorily completed a nurse aide training and competency evaluation program, or a nurse aide competency evaluation program, approved under paragraph (1) in the State, or any individual described in subsection (f)(2)(B)(ii) of this section or in subparagraph (B), (C), or (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989.
+&emsp;&emsp;By not later than January 1, 1989, the State shall establish and maintain a registry of all individuals who have satisfactorily completed a nurse aide training and competency evaluation program, or a nurse aide competency evaluation program, approved under paragraph (1) in the State, or any individual described in subsection (f)(2)(B)(ii) or in subparagraph (B), (C), or (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989.
 
 #### (B) Information in registry
 
-&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listed in the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
+&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of resident neglect or abuse or misappropriation of resident property involving an individual listed in the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also includedisclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
 
 #### (C) Prohibition against charges
 
@@ -522,19 +522,19 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
+&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3); but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
 
 #### (4) Skilled nursing facility administrator standards
 
-&emsp;By not later than January 1, 1990, the State must have implemented and enforced the skilled nursing facility administrator standards developed under subsection (f)(4) of this section respecting the qualification of administrators of skilled nursing facilities.
+&emsp;By not later than January 1, 1990, the State must have implemented and enforced the skilled nursing facility administrator standards developed under subsection (f)(4) respecting the qualification of administrators of skilled nursing facilities.
 
 #### (5) Specification of resident assessment instrument
 
-&emsp;Effective July 1, 1990, the State shall specify the instrument to be used by nursing facilities in the State in complying with the requirement of subsection (b)(3)(A)(iii) of this section. Such instrument shall be—
+&emsp;Effective July 1, 1990, the State shall specify the instrument to be used by nursing facilities in the State in complying with the requirement of subsection (b)(3)(A)(iii). Such instrument shall be—
 
-&emsp;&emsp;(A) one of the instruments designated under subsection (f)(6)(B) of this section, or
+&emsp;&emsp;(A) one of the instruments designated under subsection (f)(6)(B), or
 
-&emsp;&emsp;(B) an instrument which the Secretary has approved as being consistent with the minimum data set of core elements, common definitions, and utilization guidelines specified by the Secretary under subsection (f)(6)(A) of this section.
+&emsp;&emsp;(B) an instrument which the Secretary has approved as being consistent with the minimum data set of core elements, common definitions, and utilization guidelines specified by the Secretary under subsection (f)(6)(A).
 
 #### (f) Responsibilities of Secretary relating to skilled nursing facility requirements
 
@@ -546,7 +546,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsections (b)(5) and (e)(1)(A) of this section, the Secretary shall establish, by not later than September 1, 1988—
+&emsp;&emsp;For purposes of subsections (b)(5) and (e)(1)(A), the Secretary shall establish, by not later than September 1, 1988—
 
 &emsp;&emsp;&emsp;(i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents' rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training,<sup>5</sup> (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
@@ -568,17 +568,17 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(i) may permit approval of programs offered by or in facilities (subject to clause (iii)), as well as outside facilities (including employee organizations), and of programs in effect on December 22, 1987;
 
-&emsp;&emsp;&emsp;(ii) shall permit a State to find that an individual who has completed (before July 1, 1989) a nurse aide training and competency evaluation program shall be deemed to have completed such a program approved under subsection (b)(5) of this section if the State determines that, at the time the program was offered, the program met the requirements for approval under such paragraph; and
+&emsp;&emsp;&emsp;(ii) shall permit a State to find that an individual who has completed (before July 1, 1989) a nurse aide training and competency evaluation program shall be deemed to have completed such a program approved under subsection (b)(5) if the State determines that, at the time the program was offered, the program met the requirements for approval under such paragraph; and
 
 &emsp;&emsp;&emsp;(iii) subject to subparagraphs (C) and (D), shall prohibit approval of such a program—
 
 &emsp;&emsp;&emsp;&emsp;(I) offered by or in a skilled nursing facility which, within the previous 2 years—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(a) has operated under a waiver under subsection (b)(4)(C)(ii)(II) of this section;
+&emsp;&emsp;&emsp;&emsp;&emsp;(a) has operated under a waiver under subsection (b)(4)(C)(ii)(II);
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(b) has been subject to an extended (or partial extended) survey under subsection (g)(2)(B)(i) of this section or section 1396r(g)(2)(B)(i) of this title, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(b) has been subject to an extended (or partial extended) survey under subsection (g)(2)(B)(i) or section 1396r(g)(2)(B)(i) of this title, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) of this section or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) of subsection (h)(2)(B) of this section, subsection (h)(4) of this section, section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) of subsection (h)(2)(B), subsection (h)(4), section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(II) offered by or in a skilled nursing facility unless the State makes the determination, upon an individual's completion of the program, that the individual is competent to provide nursing and nursing-related services in skilled nursing facilities.
 
@@ -600,15 +600,15 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) Federal guidelines for State appeals process for transfers and discharges
 
-&emsp;For purposes of subsections (c)(2)(B)(iii)(I) and (e)(3) of this section, by not later than October 1, 1988, the Secretary shall establish guidelines for minimum standards which State appeals processes under subsection (e)(3) of this section must meet to provide a fair mechanism for hearing appeals on transfers and discharges of residents from skilled nursing facilities.
+&emsp;For purposes of subsections (c)(2)(B)(iii)(I) and (e)(3), by not later than October 1, 1988, the Secretary shall establish guidelines for minimum standards which State appeals processes under subsection (e)(3) must meet to provide a fair mechanism for hearing appeals on transfers and discharges of residents from skilled nursing facilities.
 
 #### (4) Secretarial standards for qualification of administrators
 
-&emsp;For purposes of subsections (d)(1)(C) and (e)(4) of this section, the Secretary shall develop, by not later than March 1, 1989, standards to be applied in assuring the qualifications of administrators of skilled nursing facilities.
+&emsp;For purposes of subsections (d)(1)(C) and (e)(4), the Secretary shall develop, by not later than March 1, 1989, standards to be applied in assuring the qualifications of administrators of skilled nursing facilities.
 
 #### (5) Criteria for administration
 
-&emsp;The Secretary shall establish criteria for assessing a skilled nursing facility's compliance with the requirement of subsection (d)(1) of this section with respect to—
+&emsp;The Secretary shall establish criteria for assessing a skilled nursing facility's compliance with the requirement of subsection (d)(1) with respect to—
 
 &emsp;&emsp;(A) its governing body and management,
 
@@ -628,15 +628,15 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) not later than January 1, 1989, specify a minimum data set of core elements and common definitions for use by nursing facilities in conducting the assessments required under subsection (b)(3) of this section, and establish guidelines for utilization of the data set; and
+&emsp;&emsp;(A) not later than January 1, 1989, specify a minimum data set of core elements and common definitions for use by nursing facilities in conducting the assessments required under subsection (b)(3), and establish guidelines for utilization of the data set; and
 
-&emsp;&emsp;(B) by not later than April 1, 1990, designate one or more instruments which are consistent with the specification made under subparagraph (A) and which a State may specify under subsection (e)(5)(A) of this section for use by nursing facilities in complying with the requirements of subsection (b)(3)(A)(iii) of this section.
+&emsp;&emsp;(B) by not later than April 1, 1990, designate one or more instruments which are consistent with the specification made under subparagraph (A) and which a State may specify under subsection (e)(5)(A) for use by nursing facilities in complying with the requirements of subsection (b)(3)(A)(iii).
 
 #### (7) List of items and services furnished in skilled nursing facilities not chargeable to the personal funds of a resident
 
 #### (A) Regulations required
 
-&emsp;&emsp;Pursuant to the requirement of section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, the Secretary shall issue regulations, on or before the first day of the seventh month to begin after December 22, 1987, that define those costs which may be charged to the personal funds of residents in skilled nursing facilities who are individuals receiving benefits under this part and those costs which are to be included in the reasonable cost (or other payment amount) under this subchapter for extended care services.
+&emsp;&emsp;Pursuant to the requirement of section 21(b) of the Medicare-Medicaid Anti-Fraudand Abuse Amendments of 1977, the Secretary shall issue regulations, on or before the first day of the seventh month to begin after December 22, 1987, that define those costs which may be charged to the personal funds of residents in skilled nursing facilities who are individuals receiving benefits under this part and those costs which are to be included in the reasonable cost (or other payment amount) under this subchapter for extended care services.
 
 #### (B) Rule if failure to publish regulations
 
@@ -658,7 +658,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;Pursuant to an agreement under section 1395aa of this title, each State shall be responsible for certifying, in accordance with surveys conducted under paragraph (2), the compliance of skilled nursing facilities (other than facilities of the State) with the requirements of subsections (b), (c), and (d) of this section. The Secretary shall be responsible for certifying, in accordance with surveys conducted under paragraph (2), the compliance of State skilled nursing facilities with the requirements of such subsections.
+&emsp;&emsp;Pursuant to an agreement under section 1395aa of this title, each State shall be responsible for certifying, in accordance with surveys conducted under paragraph (2), the compliance of skilled nursing facilities (other than facilities of the State) with the requirements of subsections (b), (c), and (d). The Secretary shall be responsible for certifying, in accordance with surveys conducted under paragraph (2), the compliance of State skilled nursing facilities with the requirements of such subsections.
 
 #### (B) Educational program
 
@@ -700,9 +700,9 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(I) a survey of the quality of care furnished, as measured by indicators of medical, nursing, and rehabilitative care, dietary and nutrition services, activities and social participation, and sanitation, infection control, and the physical environment,
 
-&emsp;&emsp;&emsp;&emsp;(II) written plans of care provided under subsection (b)(2) of this sectionand an audit of the residents' assessments under subsection (b)(3) of this section to determine the accuracy of such assessments and the adequacy of such plans of care, and
+&emsp;&emsp;&emsp;&emsp;(II) written plans of care provided under subsection (b)(2) and an audit of the residents' assessments under subsection (b)(3) to determine the accuracy of such assessments and the adequacy of such plans of care, and
 
-&emsp;&emsp;&emsp;&emsp;(III) a review of compliance with residents' rights under subsection (c) of this section.
+&emsp;&emsp;&emsp;&emsp;(III) a review of compliance with residents' rights under subsection (c).
 
 #### (iii) Frequency
 
@@ -726,11 +726,11 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (iii) Contents
 
-&emsp;&emsp;&emsp;In such an extended survey, the survey team shall review and identify the policies and procedures which produced such substandard quality of care and shall determine whether the facility has complied with all the requirements described in subsections (b), (c), and (d) of this section. Such review shall include an expansion of the size of the sample of residents' assessments reviewed and a review of the staffing, of in-service training, and, if appropriate, of contracts with consultants.
+&emsp;&emsp;&emsp;In such an extended survey, the survey team shall review and identify the policies and procedures which produced such substandard quality of care and shall determine whether the facility has complied with all the requirements described in subsections (b), (c), and (d). Such review shall include an expansion of the size of the sample of residents' assessments reviewed and a review of the staffing, of in-service training, and, if appropriate, of contracts with consultants.
 
 #### (iv) Construction
 
-&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as requiring an extended or partial extended survey as a prerequisite to imposing a sanction against a facility under subsection (h) of this section on the basis of findings in a standard survey.
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as requiring an extended or partial extended survey as a prerequisite to imposing a sanction against a facility under subsection (h) on the basis of findings in a standard survey.
 
 #### (C) Survey protocol
 
@@ -754,17 +754,17 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (ii) Prohibition of conflicts of interest
 
-&emsp;&emsp;&emsp;A State may not use as a member of a survey team under this subsection an individual who is serving (or has served within the previous 2 years) as a member of the staff of, or as a consultant to, the facility surveyed respecting compliance with the requirements of subsections (b), (c), and (d) of this section, or who has a personal or familial financial interest in the facility being surveyed.
+&emsp;&emsp;&emsp;A State may not use as a member of a survey team under this subsection an individual who is serving (or has served within the previous 2 years) as a member of the staff of, or as a consultant to, the facility surveyed respecting compliance with the requirements of subsections (b), (c), and (d), or who has a personal or familial financial interest in the facility being surveyed.
 
 #### (iii) Training
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federal surveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federal surveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey teamunless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
 
 #### (3) Validation surveys
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of skilled nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determined that an individual skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
+&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of skilled nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determined that an individual skilled nursing facility meets the requirements of subsections (b), (c), and (d), but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
 
 #### (B) Scope
 
@@ -776,7 +776,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (D) Special surveys of compliance
 
-&emsp;&emsp;Where the Secretary has reason to question the compliance of a skilled nursing facility with any of the requirements of subsections (b), (c), and (d) of this section, the Secretary may conduct a survey of the facility and, on the basis of that survey, make independent and binding determinations concerning the extent to which the skilled nursing facility meets such requirements.
+&emsp;&emsp;Where the Secretary has reason to question the compliance of a skilled nursing facility with any of the requirements of subsections (b), (c), and (d), the Secretary may conduct a survey of the facility and, on the basis of that survey, make independent and binding determinations concerning the extent to which the skilled nursing facility meets such requirements.
 
 #### (4) Investigation of complaints and monitoring compliance
 
@@ -784,7 +784,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;(A) investigate complaints of violations of requirements by skilled nursing facilities, and
 
-&emsp;&emsp;(B) monitor, on-site, on a regular, as needed basis, a skilled nursing facility's compliance with the requirements of subsections (b), (c), and (d) of this section, if—
+&emsp;&emsp;(B) monitor, on-site, on a regular, as needed basis, a skilled nursing facility's compliance with the requirements of subsections (b), (c), and (d), if—
 
 &emsp;&emsp;&emsp;(i) the facility has been found not to be in compliance with such requirements and is in the process of correcting deficiencies to achieve such compliance;
 
@@ -802,7 +802,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(i) information respecting all surveys and certifications made respecting skilled nursing facilities, including statements of deficiencies, within 14 calendar days after such information is made available to those facilities, and approved plans of correction,
 
-&emsp;&emsp;&emsp;(ii) copies of cost reports of such facilities filed under this subchapter or subchapter XIX of this chapter,
+&emsp;&emsp;&emsp;(ii) copies of cost reports of such facilities filed under this subchapter or subchapter XIX,
 
 &emsp;&emsp;&emsp;(iii) copies of statements of ownership under section 1320a–3 of this title, and
 
@@ -810,7 +810,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Notice to ombudsman
 
-&emsp;&emsp;Each State shall notify the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]) of the State's findings of noncompliance with any of the requirements of subsections (b), (c), and (d) of this section, or of any adverse action taken against a skilled nursing facility under paragraph (1), (2), or (4) of subsection (h) of this section, with respect to a skilled nursing facility in the State.
+&emsp;&emsp;Each State shall notify the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]) of the State's findings of noncompliance with any of the requirements of subsections (b), (c), and (d), or of any adverse action taken against a skilled nursing facility under paragraph (1), (2), or (4) of subsection (h), with respect to a skilled nursing facility in the State.
 
 #### (C) Notice to physicians and skilled nursing facility administrator licensing board
 
@@ -826,25 +826,25 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (E) Submission of survey and certification information to the Secretary
 
-&emsp;&emsp;In order to improve the timeliness of information made available to the public under subparagraph (A) and provided on the Nursing Home Compare Medicare website under subsection (i), each State shall submit information respecting any survey or certification made respecting a skilled nursing facility (including any enforcement actions taken by the State) to the Secretary not later than the date on which the State sends such information to the facility. The Secretary shall use the information submitted under the preceding sentence to update the information provided on the Nursing Home Compare Medicare website as expeditiously as practicable but not less frequently than quarterly.
+&emsp;&emsp;In order to improve the timeliness of information made available to the public undersubparagraph (A) and provided on the Nursing Home Compare Medicare website under subsection (i), each State shall submit information respecting any survey or certification made respecting a skilled nursing facility (including any enforcement actions taken by the State) to the Secretary not later than the date on which the State sends such information to the facility. The Secretary shall use the information submitted under the preceding sentence to update the information provided on the Nursing Home Compare Medicare website as expeditiously as practicable but not less frequently than quarterly.
 
 #### (h) Enforcement process
 
 #### (1) In general
 
-&emsp;If a State finds, on the basis of a standard, extended, or partial extended survey under subsection (g)(2) of this section or otherwise, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), or (d) ofthis section, and further finds that the facility's deficiencies—
+&emsp;If a State finds, on the basis of a standard, extended, or partial extended survey under subsection (g)(2) or otherwise, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), or (d), and further finds that the facility's deficiencies—
 
 &emsp;&emsp;(A) immediately jeopardize the health or safety of its residents, the State shall recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(i); or
 
 &emsp;&emsp;(B) do not immediately jeopardize the health or safety of its residents, the State may recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(ii).
 
-> &emsp;If a State finds that a skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but, as of a previous period, did not meet such requirements, the State may recommend a civil money penalty under paragraph (2)(B)(ii) for the days in which it finds that the facility was not in compliance with such requirements.
+> &emsp;If a State finds that a skilled nursing facility meets the requirements of subsections (b), (c), and (d), but, as of a previous period, did not meet such requirements, the State may recommend a civil money penalty under paragraph (2)(B)(ii) for the days in which it finds that the facility was not in compliance with such requirements.
 
 #### (2) Secretarial authority
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
+&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e), and further finds that the facility's deficiencies—
 
 &emsp;&emsp;&emsp;(i) immediately jeopardize the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subparagraph (B)(iii), or terminate the facility's participation under this subchapter and may provide, in addition, for one or more of the other remedies described in subparagraph (B); or
 
@@ -902,15 +902,15 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(I) there is an orderly closure of the facility, or
 
-&emsp;&emsp;&emsp;&emsp;(II) improvements are made in order to bring the facility into compliance with all the requirements of subsections (b), (c), and (d) of this section.
+&emsp;&emsp;&emsp;&emsp;(II) improvements are made in order to bring the facility into compliance with all the requirements of subsections (b), (c), and (d).
 
-&emsp;&emsp;&nbsp;The temporary management under this clause shall not be terminated under subclause (II) until the Secretary has determined that the facility has the management capability to ensure continued compliance with all the requirements of subsections (b), (c), and (d) of this section.
+&emsp;&emsp;&nbsp;The temporary management under this clause shall not be terminated under subclause (II) until the Secretary has determined that the facility has the management capability to ensure continued compliance with all the requirements of subsections (b), (c), and (d).
 
 > &emsp;&emsp;The Secretary shall specify criteria, as to when and how each of such remedies is to be applied, the amounts of any fines, and the severity of each of these remedies, to be used in the imposition of such remedies. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the remedies and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies. In addition, the Secretary may provide for other specified remedies, such as directed plans of correction.
 
 #### (C) Continuation of payments pending remediation
 
-&emsp;&emsp;The Secretary may continue payments, over a period of not longer than 6 months after the effective date of the findings, under this subchapter with respect to a skilled nursing facility not in compliance with a requirement of subsection (b), (c), or (d) of this section, if—
+&emsp;&emsp;The Secretary may continue payments, over a period of not longer than 6 months after the effective date of the findings, under this subchapter with respect to a skilled nursing facility not in compliance with a requirement of subsection (b), (c), or (d), if—
 
 &emsp;&emsp;&emsp;(i) the State survey agency finds that it is more appropriate to take alternative action to assure compliance of the facility with the requirements than to terminate the certification of the facility,
 
@@ -922,25 +922,25 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (D) Assuring prompt compliance
 
-&emsp;&emsp;If a skilled nursing facility has not complied with any of the requirements of subsections (b), (c), and (d) of this section, within 3 months after the date the facility is found to be out of compliance with such requirements, the Secretary shall impose the remedy described in subparagraph (B)(i) for all individuals who are admitted to the facility after such date.
+&emsp;&emsp;If a skilled nursing facility has not complied with any of the requirements of subsections (b), (c), and (d), within 3 months after the date the facility is found to be out of compliance with such requirements, the Secretary shall impose the remedy described in subparagraph (B)(i) for all individuals who are admitted to the facility after such date.
 
 #### (E) Repeated noncompliance
 
-&emsp;&emsp;In the case of a skilled nursing facility which, on 3 consecutive standard surveys conducted under subsection (g)(2) of this section, has been found to have provided substandard quality of care, the Secretary shall (regardless of what other remedies are provided)—
+&emsp;&emsp;In the case of a skilled nursing facility which, on 3 consecutive standard surveys conducted under subsection (g)(2), has been found to have provided substandard quality of care, the Secretary shall (regardless of what other remedies are provided)—
 
 &emsp;&emsp;&emsp;(i) impose the remedy described in subparagraph (B)(i), and
 
-&emsp;&emsp;&emsp;(ii) monitor the facility under subsection (g)(4)(B) of this section,
+&emsp;&emsp;&emsp;(ii) monitor the facility under subsection (g)(4)(B),
 
-> &emsp;&emsp;until the facility has demonstrated, to the satisfaction of the Secretary, that it is in compliance with the requirements of subsections (b), (c), and (d) of this section, and that it will remain in compliance with such requirements.
+> &emsp;&emsp;until the facility has demonstrated, to the satisfaction of the Secretary, that it is incompliance with the requirements of subsections (b), (c), and (d), and that it will remain in compliance with such requirements.
 
 #### (3) Effective period of denial of payment
 
-&emsp;A finding to deny payment under this subsection shall terminate when the Secretary finds that the facility is in substantial compliance with all the requirements of subsections (b), (c), and (d) of this section.
+&emsp;A finding to deny payment under this subsection shall terminate when the Secretary finds that the facility is in substantial compliance with all the requirements of subsections (b), (c), and (d).
 
 #### (4) Immediate termination of participation for facility where Secretary finds noncompliance and immediate jeopardy
 
-&emsp;If the Secretary finds that a skilled nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(B)(iii), or the Secretary, subject to section 1320a–7j(h) of this title, shall terminate the facility's participation under this subchapter. If the facility's participation under this subchapter is terminated, the State shall provide for the safe and orderly transfer of the residents eligible under this subchapter consistent with the requirements of subsection (c)(2) and section 1320a–7j(h) of this title.
+&emsp;If the Secretary finds that a skilled nursing facility has not met a requirement of subsection (b), (c), or (d), and finds that the failure immediately jeopardizes the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(B)(iii), or the Secretary, subject to section 1320a–7j(h) of this title, shall terminate the facility's participation under this subchapter. If the facility's participation under this subchapter is terminated, the State shall provide for the safe and orderly transfer of the residents eligible under this subchapter consistent with the requirements of subsection (c)(2) and section 1320a–7j(h) of this title.
 
 #### (5) Construction
 
@@ -948,7 +948,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (6) Sharing of information
 
-&emsp;Notwithstanding any other provision of law, all information concerning skilled nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XIX of this chapter, including investigations by State medicaid fraud control units.
+&emsp;Notwithstanding any other provision of law, all information concerning skilled nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XIX, including investigations by State medicaid fraud control units.
 
 #### (i) Nursing Home Compare website
 
@@ -990,7 +990,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Secretary shall ensure that the information described in subparagraph (A)(i) is included on such website (or a successor website) not later than the date on which the requirements under section 1320a–7j(g) of this title are implemented.
+&emsp;&emsp;&emsp;The Secretary shall ensure that the information described in subparagraph (A)(i)is included on such website (or a successor website) not later than the date on which the requirements under section 1320a–7j(g) of this title are implemented.
 
 #### (2) Review and modification of website
 
@@ -1026,7 +1026,7 @@ Where requirements or obligations under this section are identical to those prov
 
 #### Amendment of Subsection (d)(1)
 
-<i>Pub. L. 111–148, title VI, §6101(c)(1)(A), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.</i>
+<i>Pub. L. 111–148, title VI, §6101(c)(1)(A), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) relating to skilled nursing facility administrator as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -1114,7 +1114,7 @@ Subsec. (b)(4)(C)(ii)(IV), (V). Pub. L. 101–508, §4008(h)(2)(E), added subcls
 
 Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted "Except as provided in clause (ii), a skilled nursing facility" for "A skilled nursing facility" and "on a full-time basis" for "(on a full-time, temporary, per diem, or other basis)", redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
-Subsec. (b)(5)(C). Pub. L. 101–508, §4008(h)(1)(C), substituted "any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information" for "the State registry established under subsection (e)(2)(A) of this section as to information in the registry".
+Subsec. (b)(5)(C). Pub. L. 101–508, §4008(h)(1)(C), substituted "any State registry established under subsection (e)(2)(A) that the facility believes will include information" for "the State registry established under subsection (e)(2)(A) as to information in the registry".
 
 Subsec. (b)(5)(D). Pub. L. 101–508, §4008(h)(1)(D), inserted before period at end ", or a new competency evaluation program" after "and competency evaluation program".
 
@@ -1130,9 +1130,9 @@ Subsec. (c)(1)(B)(ii). Pub. L. 101–508, §4008(h)(2)(I), inserted "including t
 
 Subsec. (c)(1)(E). Pub. L. 101–508, §4206(d)(1), added subpar. (E).
 
-Subsec. (e)(1)(A). Pub. L. 101–508, §4008(h)(2)(J), substituted "subsection (f)(2) of this section" for "clause (i) or (ii) of subsection (f)(2)(A) of this section".
+Subsec. (e)(1)(A). Pub. L. 101–508, §4008(h)(2)(J), substituted "subsection (f)(2)" for "clause (i) or (ii) of subsection (f)(2)(A)".
 
-Subsec. (e)(2)(A). Pub. L. 101–508, §4008(h)(2)(K)(i), inserted before period at end ", or any individual described in subsection (f)(2)(B)(ii) of this section or in subparagraph (B), (C), or (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989".
+Subsec. (e)(2)(A). Pub. L. 101–508, §4008(h)(2)(K)(i), inserted before period at end ", or any individual described in subsection (f)(2)(B)(ii) or in subparagraph (B), (C), or (D) of section 6901(b)(4) of the Omnibus Budget Reconciliation Act of 1989".
 
 Subsec. (e)(2)(C). Pub. L. 101–508, §4008(h)(2)(K)(ii), added subpar. (C).
 
@@ -1148,7 +1148,7 @@ Subsec. (g)(1)(C). Pub. L. 101–508, §4008(h)(2)(L), inserted at end "A State 
 
 Subsec. (g)(5)(A)(i). Pub. L. 101–508, §4008(h)(2)(M), substituted "deficiencies, within 14 calendar days after such information is made available to those facilities, and approved plans" for "deficiencies and plans".
 
-Subsec. (g)(5)(B). Pub. L. 101–508, §4008(h)(2)(N), substituted "or of any adverse action taken against a skilled nursing facility under paragraphs (1), (2), or (4) of subsection (h) of this section, with respect" for "with respect".
+Subsec. (g)(5)(B). Pub. L. 101–508, §4008(h)(2)(N), substituted "or of any adverse action taken against a skilled nursing facility under paragraphs (1), (2), or (4) of subsection (h), with respect" for "with respect".
 
 <b>1989</b>—Subsec. (b)(5)(A). Pub. L. 101–239, §6901(b)(1)(A), substituted "October 1, 1990" for "January 1, 1990" in introductory provisions.
 
@@ -1224,7 +1224,7 @@ Subsec. (g)(1)(C). Pub. L. 100–360, §411(l)(5)(A)–(C), substituted "and tim
 
 Subsec. (g)(1)(D). Pub. L. 100–360, §411(l)(5)(D), substituted "to issue regulations to carry out this subsection" for "to establish standards under subsection (f) of this section".
 
-Subsec. (g)(2)(A)(i). Pub. L. 100–360, §411(l)(5)(E), amended third sentence generally. Prior to amendment, third sentence read as follows: "The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title."
+Subsec. (g)(2)(A)(i). Pub. L. 100–360, §411(l)(5)(E), amended third sentence generally. Prior to amendment, third sentence read as follows: "The Secretary shall provide for imposition of civil money penaltiesunder this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title."
 
 Subsec. (g)(2)(B)(ii). Pub. L. 100–360, §411(l)(5)(F), as added by Pub. L. 100–485, §608(d)(27)(I), substituted "practicable" for "practical".
 
@@ -1232,7 +1232,7 @@ Subsec. (g)(2)(C)(i). Pub. L. 100–360, §411(l)(4), substituted "January" for 
 
 Subsec. (g)(3)(D). Pub. L. 100–360, §411(l)(5)(G), formerly §411(l)(5)(F), as redesignated by Pub. L. 100–485, §608(d)(27)(I), substituted "on the basis of that survey" for "on that basis".
 
-Subsec. (g)(4). Pub. L. 100–360, §411(l)(5)(H), formerly §411(l)(5)(G), as redesignated by Pub. L. 100–485,§608(d)(27)(I), struck out "chronically" after "enforcement actions against" in last sentence.
+Subsec. (g)(4). Pub. L. 100–360, §411(l)(5)(H), formerly §411(l)(5)(G), as redesignated by Pub. L. 100–485, §608(d)(27)(I), struck out "chronically" after "enforcement actions against" in last sentence.
 
 Subsec. (h)(2)(B)(ii). Pub. L. 100–360, §411(l)(7)(A), substituted ". The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title." for "and the Secretary shall impose and collect such a penalty in the same manner as civil money penalties are imposed and collected under section 1320a–7a of this title."
 
@@ -1302,7 +1302,7 @@ Pub. L. 101–508, title IV, §4008(h)(1)(F)(ii), Nov. 5, 1990, 104 Stat. 1388�
 
 &emsp;"(ee) pursuant to State action, was closed or had its residents transferred.
 
-"(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[42 U.S.C. 1395i–3(f)(2)(B)(iii)(I)\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility."
+"(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[42U.S.C. 1395i–3(f)(2)(B)(iii)(I)\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility."
 
 Pub. L. 101–508, title IV, §4008(h)(1)(H), Nov. 5, 1990, 104 Stat. 1388–48, provided that: "Except as provided in subparagraph (F) \[amending this section and enacting provisions set out as a note above\], the amendments made by this subsection \[probably means this paragraph, amending this section\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\]."
 

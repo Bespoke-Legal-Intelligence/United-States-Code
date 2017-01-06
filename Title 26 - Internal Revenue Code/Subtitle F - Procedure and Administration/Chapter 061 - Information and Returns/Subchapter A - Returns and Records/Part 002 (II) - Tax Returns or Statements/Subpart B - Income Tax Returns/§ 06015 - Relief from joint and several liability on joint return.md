@@ -24,7 +24,7 @@ Notwithstanding section 6013(d)(3)—
 
 &emsp;&emsp;(D) taking into account all the facts and circumstances, it is inequitable to hold the other individual liable for the deficiency in tax for such taxable year attributable to such understatement; and
 
-&emsp;&emsp;(E) the other individual elects (in such form as the Secretary may prescribe) the benefits of this subsection not later than the date which is 2 years after the date the Secretary has begun collection activities with respect to the individual making the election,
+&emsp;&emsp;(E) the other individual elects (in such form as the Secretary may prescribe) thebenefits of this subsection not later than the date which is 2 years after the date the Secretary has begun collection activities with respect to the individual making the election,
 
 > &emsp;then the other individual shall be relieved of liability for tax (including interest, penalties, and other amounts) for such taxable year to the extent such liability is attributable to such understatement.
 
@@ -64,7 +64,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (B) Time for election
 
-&emsp;&emsp;An election under this subsection for any taxable year may be made at any time aftera deficiency for such year is asserted but not later than 2 years after the date on which the Secretary has begun collection activities with respect to the individual making the election.
+&emsp;&emsp;An election under this subsection for any taxable year may be made at any time after a deficiency for such year is asserted but not later than 2 years after the date on which the Secretary has begun collection activities with respect to the individual making the election.
 
 #### (C) Election not valid with respect to certain deficiencies
 
@@ -168,7 +168,7 @@ For purposes of subsection (c)—
 
 &emsp;The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended—
 
-&emsp;&emsp;(A) for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter, and
+&emsp;&emsp;(A) for the period during which the Secretary is prohibited by paragraph (1)(B) fromcollecting by levy or a proceeding in court and for 60 days thereafter, and
 
 &emsp;&emsp;(B) if a waiver under paragraph (5) is made, from the date the claim for relief was filed until 60 days after the waiver is filed with the Secretary.
 
@@ -224,7 +224,7 @@ The Secretary shall prescribe such regulations as are necessary to carry out the
 
 &emsp;(2) regulations providing the opportunity for an individual to have notice of, and an opportunity to participate in, any administrative proceeding with respect to an election made under subsection (b) or (c) or a request for equitable relief made under subsection (f) by the other individual filing the joint return.
 
-(Added Pub. L. 105–206, title III, §3201(a), July 22, 1998, 112 Stat. 734; amended Pub. L. 105–277, div. J, title IV, §4002(c)(2), Oct. 21, 1998, 112 Stat. 2681–906; Pub. L. 106–554, §1(a)(7) \[title III, §313(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-640; Pub. L. 109–432, div. C, title IV, §408(a), (b), Dec. 20, 2006, 120 Stat. 3061, 3062; Pub. L. 114–113, div. Q, title IV, §424(a)(1), Dec. 18, 2015, 129 Stat. 3124.)
+(Added Pub. L. 105–206, title III, §3201(a), July 22, 1998, 112 Stat. 734; amended Pub. L. 105–277, div. J, title IV, §4002(c)(2), Oct. 21, 1998, 112 Stat. 2681–906; Pub. L. 106–554, §1(a)(7) \[title III, §313(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 109–432, div. C, title IV, §408(a), (b), Dec. 20, 2006, 120 Stat. 3061, 3062; Pub. L. 114–113, div. Q, title IV, §424(a)(1), Dec. 18, 2015, 129 Stat. 3124.)
 
 #### Prior Provisions
 
@@ -278,7 +278,7 @@ Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, pr
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §313(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-643, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 6330, 6331, 7421, and 7463 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]. The amendments made by subsections (c), (d), and (e) \[amending sections 6103, 6110, and 6330 of this title\] shall take effect as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which they relate."
+Pub. L. 106–554, §1(a)(7) \[title III, §313(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 6330, 6331, 7421, and 7463 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]. The amendments made by subsections (c), (d), and (e) \[amending sections 6103, 6110, and 6330 of this title\] shall take effect as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which they relate."
 
 #### Effective Date of 1998 Amendment
 

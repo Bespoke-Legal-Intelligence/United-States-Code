@@ -2,7 +2,7 @@
 
 #### (a) <sup>1</sup> In general
 
-The Secretary is authorized to establish a partnership of Department of Energy laboratories, academic institutions, and private sector industries to conduct environmentally-related education programs, including programs involving environmentally conscious manufacturing and waste management activities that have undergraduate and graduate educational training as a component.
+The Secretary is authorized to establish a partnership of Department of Energy laboratories, academic institutions, and private sectorindustries to conduct environmentally-related education programs, including programs involving environmentally conscious manufacturing and waste management activities that have undergraduate and graduate educational training as a component.
 
 (Pub. L. 103–382, title V, §517, Oct. 20, 1994, 108 Stat. 4044.)
 

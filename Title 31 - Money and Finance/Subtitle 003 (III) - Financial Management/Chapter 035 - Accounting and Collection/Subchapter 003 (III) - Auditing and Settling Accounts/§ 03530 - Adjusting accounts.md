@@ -10,7 +10,7 @@
 
 (c) The Comptroller General shall prescribe regulations to carry out subsection (a) of this section.
 
-(d) Under procedures prescribed by the Comptroller General, the head of an agency may charge the net amount of unpaid and overpaid balances in individual pay accounts against the appropriation for the fiscal year in which the balances occurred and from which the accounts were payable. The net amount shall be credited to and paid from the corresponding appropriation for the next fiscal year.
+(d) Under procedures prescribed by the Comptroller General, the head of an agency maycharge the net amount of unpaid and overpaid balances in individual pay accounts against the appropriation for the fiscal year in which the balances occurred and from which the accounts were payable. The net amount shall be credited to and paid from the corresponding appropriation for the next fiscal year.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 967.)
 

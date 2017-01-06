@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) "International Safety Management Code" has the same meaning given that term in chapter IX of the Annex to the International Convention for the Safety of Life at Sea, 1974;
+&emsp;(1) "International Safety Management Code" has the same meaning given that termin chapter IX of the Annex to the International Convention for the Safety of Life at Sea, 1974;
 
 &emsp;(2) "responsible person" means—
 

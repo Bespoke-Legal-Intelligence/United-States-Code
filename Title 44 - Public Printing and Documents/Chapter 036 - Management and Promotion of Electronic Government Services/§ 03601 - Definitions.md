@@ -344,7 +344,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(2) The Federal Government has had uneven success in applying advances in information technology to enhance governmental functions and services, achieve more efficient performance, increase access to Government information, and increase citizen participation in Government.
 
-&emsp;"(3) Most Internet-based services of the Federal Government are developed and presented separately, according to the jurisdictional boundaries of an individual department or agency, rather than being integrated cooperatively according to function or topic.
+&emsp;"(3) Most Internet-based services of the Federal Government are developed and presented separately,according to the jurisdictional boundaries of an individual department or agency, rather than being integrated cooperatively according to function or topic.
 
 &emsp;"(4) Internet-based Government services involving interagency cooperation are especially difficult to develop and promote, in part because of a lack of sufficient funding mechanisms to support such interagency cooperation.
 

@@ -18,11 +18,11 @@
 
 #### (b) International Energy Conservation Code
 
-If the Secretaries have not, by September 30, 2006, established energy efficiency standards under subsection (a) of this section, all new construction and rehabilitation of housing specified in such subsection shall meet the requirements of the 2006 IECC, or, in the case of multifamily high rises, the requirements of ASHRAE Standard 90.1–2004.
+If the Secretaries have not, by September 30, 2006, established energy efficiency standards under subsection (a), all new construction and rehabilitation of housing specified in such subsection shall meet the requirements of the 2006 IECC, or, in the case of multifamily high rises, the requirements of ASHRAE Standard 90.1–2004.
 
 #### (c) Revisions of the International Energy Conservation Code
 
-If the requirements of the 2006 IECC, or, in the case of multifamily high rises, ASHRAE Standard 90.1–2004, are revised at any time, the Secretaries shall, not later than 1 year after such revision, amend the standards established under subsection (a) of this section to meet or exceed the requirements of such revised code or standard unless the Secretaries determine that compliance with such revised code or standard would not result in a significant increase in energy efficiency or would not be technologically feasible or economically justified.
+If the requirements of the 2006 IECC, or, in the case of multifamily high rises, ASHRAE Standard 90.1–2004, are revised at any time, the Secretaries shall, not later than 1 year after such revision, amend the standards established under subsection (a) to meet or exceed the requirements of such revised code or standard unless the Secretaries determine that compliance with such revised code or standard would not result in a significant increase in energy efficiency or would not be technologically feasible or economically justified.
 
 #### (d) Failure to amend the standards
 
@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 109–58, §153(2), substituted "by September 30, 2006" for
 
 Subsec. (c). Pub. L. 109–58, §153(3), inserted "and the International Energy Conservation Code" after "Model Energy Code" in heading and ", or, with respect to rehabilitation and new construction of public and assisted housing funded by HOPE VI revitalization grants under section 1437v of this title, the 2003 International Energy Conservation Code" after "90.1–1989" in text.
 
-<b>1992</b>—Pub. L. 102–486 amended section generally. Prior to amendment, section read as follows: "The Secretaryof Housing and Urban Development shall, not later than one year after November 28, 1990, promulgate energy efficiency standards for new construction of public and assisted housing and single-family and multifamily residential housing (other than manufactured homes) subject to mortgages under the National Housing Act. Such standards shall meet or exceed the provisions of the most recent edition of the Model Energy Code of the Council of American Building Officials and shall be cost-effective with respect to construction and operating costs. In developing such standards the Secretary shall consult with an advisory task force composed of homebuilders, national, State, and local housing agencies (including public housing agencies), energy agencies and building code organizations and agencies, energy efficiency organizations, utility organizations, low-income housing organizations, and other parties designated by the Secretary."
+<b>1992</b>—Pub. L. 102–486 amended section generally. Prior to amendment, section read as follows: "The Secretary of Housing and Urban Development shall, not later than one year after November 28, 1990, promulgate energy efficiency standards for new construction of public and assisted housing and single-family and multifamily residential housing (other than manufactured homes) subject to mortgages under the National Housing Act. Such standards shall meet or exceed the provisions of the most recent edition of the Model Energy Code of the Council of American Building Officials and shall be cost-effective with respect to construction and operating costs. In developing such standards the Secretary shall consult with an advisory task force composed of homebuilders, national, State, and local housing agencies (including public housing agencies), energy agencies and building code organizations and agencies, energy efficiency organizations, utility organizations, low-income housing organizations, and other parties designated by the Secretary."
 
 #### Effective Date of 2007 Amendment
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §402(c) (clause (5)), 63 Stat. 818.
 
-The first 52 words are inserted for clarity and are based on the rule stated in section 1204 of this title, which restates that part of 37:272(c) relating to retirement for physical disability. The revised section incorporates by reference those provisions which are identical for retirement and for placement on the temporary disability retired list. This is possible, since 37:272(f) applies to placement on the temporary disability retired list as well as to retirement (see opinion of the Judge Advocate General of the Army (JAGA 1953/1900, 9 Mar. 1953)).
+The first 52 words are inserted for clarity and are based on the rule stated in section 1204 of this title, which restates that part of 37:272(c) relating to retirement for physical disability. The revised section incorporates by reference those provisions which are identical for retirement and for placement on the temporary disability retired list. This is possible, since37:272(f) applies to placement on the temporary disability retired list as well as to retirement (see opinion of the Judge Advocate General of the Army (JAGA 1953/1900, 9 Mar. 1953)).
 
 #### Amendments
 

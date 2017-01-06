@@ -1,0 +1,6 @@
+### §638. Omitted
+
+#### Codification
+
+Section, act Apr. 19, 1950, ch. 92, §8, 64 Stat. 46, which related to participation by Tribal Councils in the administration of the program authorized by this subchapter, was omitted from the Code as being of special and not general application.
+

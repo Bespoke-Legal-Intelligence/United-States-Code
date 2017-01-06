@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of activities, including joint venture activities, under this subchapter, and in the case of any existing or future activities, including joint venture activities, related primarily to battery technology for electric motor vehicles under other provisions of law, where the knowledge resulting from research and development activities conducted pursuant to such activities, including joint venture activities, is for the benefit of the participants (particularly domestic companies) that provide financial resources to a project under this subchapter, the Secretary, for a period of up to 5 years after the development of information that—
+In the case of activities, including joint venture activities, under this subchapter, and in thecase of any existing or future activities, including joint venture activities, related primarily to battery technology for electric motor vehicles under other provisions of law, where the knowledge resulting from research and development activities conducted pursuant to such activities, including joint venture activities, is for the benefit of the participants (particularly domestic companies) that provide financial resources to a project under this subchapter, the Secretary, for a period of up to 5 years after the development of information that—
 
 &emsp;(1) results from research and development activities conducted under this subchapter; and
 
@@ -12,7 +12,7 @@ In the case of activities, including joint venture activities, under this subcha
 
 #### (b) "Domestic companies" defined
 
-For purposes of subsection (a) of this section, the term "domestic companies" means entitieswhich are substantially involved in the United States in the domestic production of motor vehicles for sale in the United States and have a substantial percentage of their production facilities in the United States.
+For purposes of subsection (a), the term "domestic companies" means entities which are substantially involved in the United States in the domestic production of motor vehicles for sale in the United States and have a substantial percentage of their production facilities in the United States.
 
 (Pub. L. 102–486, title VI, §623, Oct. 24, 1992, 106 Stat. 2904.)
 

@@ -100,7 +100,7 @@ In this section:
 
 &emsp;&emsp;Subject to the approval of the Secretary, the national fund manager shall establish eligibility criteria for projects under the Initiative, which shall include the existence or planned execution of agreements—
 
-&emsp;&emsp;&emsp;(i) to expand or preserve the availability of staple foods in underserved areas with moderate- and low-income populations by maintaining or increasing the number of retail outlets that offer an assortment of perishable food and staple food items, as determined by the Secretary, in those areas; and
+&emsp;&emsp;&emsp;(i) to expand or preserve the availability of staple foods in underserved areas withmoderate- and low-income populations by maintaining or increasing the number of retail outlets that offer an assortment of perishable food and staple food items, as determined by the Secretary, in those areas; and
 
 &emsp;&emsp;&emsp;(ii) to accept benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 

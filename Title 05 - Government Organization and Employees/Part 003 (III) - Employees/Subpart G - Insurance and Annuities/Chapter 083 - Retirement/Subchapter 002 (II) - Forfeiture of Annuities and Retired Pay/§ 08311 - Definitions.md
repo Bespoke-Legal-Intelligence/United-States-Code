@@ -12,7 +12,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) an individual employed by the government of the District of Columbia;
 
-&emsp;(2) "annuity" means a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which is creditable to an employee toward the benefit under the statute, regulation, or agreement which provides the benefit, but does not include—
+&emsp;(2) "annuity" means a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which iscreditable to an employee toward the benefit under the statute, regulation, or agreement which provides the benefit, but does not include—
 
 &emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
 
@@ -92,7 +92,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Subchapter II of chapter 7 of title 42, referred to in par. (2), is classified to section 401 et seq. of Title 42, The Public Health and Welfare.
 
-Sections 228b, 228c(e), 228c–1, and 228e of title 45, referred to in par. (2), are references to sections 2, 3(e), 4, and 5 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified to subchapter IV (section 231 et seq.) of chapter 9 of Title 45, Railroads.
+Sections 228b, 228c(e), 228c–1, and 228e of title 45, referred to in par. (2), are references to sections 2, 3(e), 4, and 5 of the Railroad Retirement Act of 1937. That Actwas amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified to subchapter IV (section 231 et seq.) of chapter 9 of Title 45, Railroads.
 
 Section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), referred to in text, is covered by section 1438 of Title 10, Armed Forces.
 

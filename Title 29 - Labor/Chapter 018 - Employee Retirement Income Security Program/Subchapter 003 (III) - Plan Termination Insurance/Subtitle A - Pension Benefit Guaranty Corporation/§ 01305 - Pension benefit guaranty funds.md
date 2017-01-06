@@ -12,7 +12,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(B) the value of the assets of a plan administered under section 1342 of this title by a trustee to the extent that they exceed the liabilities of such plan,
 
-&emsp;(C) the amount of any employer liability payments under subtitle D of this subchapter, to the extent that such payments exceed liabilities of the plan (taking into account all other plan assets),
+&emsp;(C) the amount of any employer liability payments under subtitle D, to the extent that such payments exceed liabilities of the plan (taking into account all other plan assets),
 
 &emsp;(D) earnings on investments of the fund or on assets credited to the fund under this subsection,
 
@@ -20,7 +20,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(F) receipts from any other operations under this subchapter.
 
-(2) Subject to the provisions of subsection (a) of this section, each fund shall be available—
+(2) Subject to the provisions of subsection (a), each fund shall be available—
 
 &emsp;(A) for making such payments as the corporation determines are necessary to pay benefits guaranteed under section 1322 or 1322a of this title or benefits payable under section 1350 of this title,
 
@@ -60,7 +60,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(B) earnings on investments of the fund or on assets credited to the fund.
 
-> The fund shall be available to make payments pursuant to the supplemental program established under section 1402 of this title, including those expenses and other charges determined to be appropriate by the corporation.
+> The fund shall be available to make payments pursuant to the supplemental program established under section 1402 of this title, includingthose expenses and other charges determined to be appropriate by the corporation.
 
 (2) The corporation may invest amounts of the fund in such obligations as the corporation considers appropriate.
 
@@ -114,15 +114,15 @@ Any stock in a person liable to the corporation under this subchapter which is p
 
 <b>2014</b>—Subsec. (b)(3). Pub. L. 113–235 designated existing provisions as subpar. (A) and added subpar. (B).
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §40234(b)(1)(A)(i), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: "funds borrowed under subsection (c) of this section,".
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §40234(b)(1)(A)(i), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: "funds borrowed under subsection (c),".
 
-Subsec. (b)(2)(C) to (E). Pub. L. 112–141, §40234(b)(1)(A)(ii), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: "to repay to the Secretary of the Treasury such sums as may be borrowed (together with interest thereon) under subsection (c) of this section,".
+Subsec. (b)(2)(C) to (E). Pub. L. 112–141, §40234(b)(1)(A)(ii), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: "to repay to the Secretary of the Treasury such sums as may be borrowed (together with interest thereon) under subsection (c),".
 
-Subsec. (b)(3). Pub. L. 112–141, §40234(b)(1)(A)(iii), substituted period at end for "but, until all borrowings under subsection (c) of this section have been repaid, the obligations in which such excess moneys are invested may not yield a rate of return in excess of the rate of interest payable on such borrowings."
+Subsec. (b)(3). Pub. L. 112–141, §40234(b)(1)(A)(iii), substituted period at end for "but, until all borrowings under subsection (c) have been repaid, the obligations in which such excess moneys are invested may not yield a rate of return in excess of the rate of interest payable on such borrowings."
 
 Subsec. (c). Pub. L. 112–141, §40234(a), struck out subsec. (c) which related to authority to issue notes or other obligations and purchase by Secretary of the Treasury as public debt transaction.
 
-Subsec. (g)(2), (3). Pub. L. 112–141, §40234(b)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "None of the funds borrowed under subsection (c) of this section may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section."
+Subsec. (g)(2), (3). Pub. L. 112–141, §40234(b)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "None of the funds borrowed under subsection (c) may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a)."
 
 <b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–465, which directed the amendment of subpar. (A) by inserting "or benefits payable under section 1350 of this title" after "section 1322a of this title", was executed by making the insertion after "section 1322 or 1322a of this title" to reflect the probable intent of Congress.
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 99–272, §11016(c)(7), added subsec. (g).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(a)(1), substituted provisions respecting benefits guaranteed under sections 1322 and 1322a of this title, for provisions respecting benefits guaranteed under sections 1322 and 1323 of this title.
 
-Subsec. (b)(2). Pub. L. 96–364, §403(a)(2), (3), in subpar. (A) inserted reference to section 1322a of this title, struck out subpar. (B) relating to payments under section 1323 of this title, and redesignated former subpars. (C) to (E) as (B) to (D), respectively.
+Subsec. (b)(2). Pub. L. 96–364, §403(a)(2), (3), in subpar. (A) inserted reference to section 1322a of this title,struck out subpar. (B) relating to payments under section 1323 of this title, and redesignated former subpars. (C) to (E) as (B) to (D), respectively.
 
 Subsecs. (d) to (f). Pub. L. 96–364, §403(a)(4), added subsecs. (d) to (f).
 

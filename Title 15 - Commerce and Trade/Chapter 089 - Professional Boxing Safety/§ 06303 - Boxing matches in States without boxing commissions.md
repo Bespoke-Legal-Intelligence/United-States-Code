@@ -14,3 +14,7 @@
 
 <b>2000</b>—Pub. L. 106–210 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date
+
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
+

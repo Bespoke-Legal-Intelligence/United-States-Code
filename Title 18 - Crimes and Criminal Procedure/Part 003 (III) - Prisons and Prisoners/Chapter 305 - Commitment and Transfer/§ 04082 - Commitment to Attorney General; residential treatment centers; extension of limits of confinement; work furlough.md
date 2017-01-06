@@ -24,7 +24,7 @@
 
 &emsp;the term "relative" shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
 
-(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec.28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
+(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec. 28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
 
 #### Historical and Revision Notes
 
@@ -62,7 +62,7 @@ This section supersedes section 705 of title 18, U.S.C., 1940 ed., providing for
 
 &emsp;&emsp;"(iii) the rates of pay and other conditions of employment will not be less than those paid or provided for work of similar nature in the locality in which the work is to be performed.
 
-> &emsp;A prisoner authorized to work at paid employment in the community under this subsection may be required to pay, and the Attorney General is authorized to collect, such costs incident to the prisoner's confinement as the Attorney General deems appropriate and reasonable. Collections shall be deposited in the Treasury of the United States as miscellaneous receipts.
+> &emsp;A prisoner authorized to work at paid employment in the community under this subsection may be required to pay, and the Attorney General is authorized to collect, such costs incident to the prisoner's confinement as the Attorney General deems appropriate and reasonable. Collections shall be deposited in theTreasury of the United States as miscellaneous receipts.
 
 "(e) The authority conferred upon the Attorney General by this section shall extend to all persons committed to the National Training School for Boys."
 

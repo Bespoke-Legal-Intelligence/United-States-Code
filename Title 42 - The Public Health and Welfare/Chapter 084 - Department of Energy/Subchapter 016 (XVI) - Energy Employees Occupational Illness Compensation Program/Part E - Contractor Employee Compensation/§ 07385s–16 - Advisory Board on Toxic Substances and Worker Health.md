@@ -50,7 +50,7 @@ Members of the Board, other than full-time employees of the United States, while
 
 #### (g) Information
 
-The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board, access to any information that the Board considers relevant to carry outits responsibilities under this section, including information such as Restricted Data (as defined in section 2014(y) of this title) and information covered by section 552a of title 5 (commonly known as the "Privacy Act").
+The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board, access to any information that the Board considers relevant to carry out its responsibilities under this section, including information such as Restricted Data (as defined in section 2014(y) of this title) and information covered by section 552a of title 5 (commonly known as the "Privacy Act").
 
 #### (h) Authorization of appropriations
 

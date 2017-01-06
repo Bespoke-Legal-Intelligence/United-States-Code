@@ -70,7 +70,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (2) Differently treated items
 
-&emsp;For purposes of this section, the term "differently treated item" means any item of tax preference or any other item which is treated differently for purposes of this part than for purposes of computing the regular tax.
+&emsp;For purposes of this section, the term "differently treated item" means any item of tax preference or any other item which is treateddifferently for purposes of this part than for purposes of computing the regular tax.
 
 #### (e) Optional 10-year writeoff of certain tax preferences
 
@@ -122,7 +122,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (6) Amounts to which election apply not treated as tax preference
 
-&emsp;Any portion of any qualified expenditure to which an election under paragraph (1) appliesshall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
+&emsp;Any portion of any qualified expenditure to which an election under paragraph (1) applies shall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
 
 #### (f) Coordination with section 291
 
@@ -160,7 +160,7 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 > &emsp;If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388-490, 1388-514, 1388-523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -202,7 +202,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 104–188, §1703(e)(3), substituted "which would
 
 Subsec. (a)(3). Pub. L. 104–188, §1703(e)(4), added par. (3).
 
-Subsec. (b). Pub. L. 104–188, §1601(b)(2)(D), substituted "section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936." for "section 936, alternative minimum taxable income shall not include any amount with respect to which therequirements of subparagraph (A) or (B) of section 936(a)(1) are met."
+Subsec. (b). Pub. L. 104–188, §1601(b)(2)(D), substituted "section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936." for "section 936, alternative minimum taxable income shall not include any amount with respect to which the requirements of subparagraph (A) or (B) of section 936(a)(1) are met."
 
 Subsec. (j)(1)(B). Pub. L. 104–188, §1704(m)(3), substituted "twice the amount in effect for the taxable year under section 63(c)(5)(A)" for "$1,000".
 
@@ -322,7 +322,7 @@ For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 b
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 
-Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amount of the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid or accrued in a taxable year beginning on or before December 31, 1986."
+Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provided that: "In determining the amount of the alternative minimum tax foreign tax credit under section 59 of the 1986 Code, there shall not be taken into account any taxes paid or accrued in a taxable year beginning after December 31, 1986, which are treated under section 904(c) of the 1986 Code as paid oraccrued in a taxable year beginning on or before December 31, 1986."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

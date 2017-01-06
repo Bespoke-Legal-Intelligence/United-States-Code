@@ -14,7 +14,7 @@ National Reporting.—
 
 &emsp;(1)
 
-In general.—The Commandant shall maintain and publicize a means by which an individual can report, with respect to a Coast Guard child development center or a family home daycare—
+In general.—The Commandant shall maintain and publicize a means by which anindividual can report, with respect to a Coast Guard child development center or a family home daycare—
 
 &emsp;&emsp;(A) any suspected violation of—
 

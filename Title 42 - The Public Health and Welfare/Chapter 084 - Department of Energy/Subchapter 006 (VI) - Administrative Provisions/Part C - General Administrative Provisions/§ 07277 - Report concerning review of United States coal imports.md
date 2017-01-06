@@ -28,7 +28,7 @@ Information and data required for the purpose of this section shall be subject t
 
 #### Codification
 
-Section was enacted as part of the Energy Policy and Conservation Amendments Act of 1985, and also as partof the National Coal Imports Reporting Act of 1985, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Energy Policy and Conservation Amendments Act of 1985, and also as part of the National Coal Imports Reporting Act of 1985, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 #### Short Title
 

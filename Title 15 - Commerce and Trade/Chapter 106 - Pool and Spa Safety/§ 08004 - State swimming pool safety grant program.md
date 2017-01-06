@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations authorized by subsection (e), the Commission shall establish a grant program to provide assistance to eligible States.
+Subject to the availability of appropriations authorized by subsection (e), the Commissionshall establish a grant program to provide assistance to eligible States.
 
 #### (b) Eligibility
 
@@ -34,7 +34,7 @@ A State receiving a grant under this section shall use—
 
 &emsp;&emsp;(A) to educate pool construction and installation companies and pool service companies about the standards;
 
-&emsp;&emsp;(B) to educate pool owners, pool operators, and other members of the public about thestandards under the swimming pool and spa safety law and about the prevention of drowning or entrapment of children using swimming pools and spas; and
+&emsp;&emsp;(B) to educate pool owners, pool operators, and other members of the public about the standards under the swimming pool and spa safety law and about the prevention of drowning or entrapment of children using swimming pools and spas; and
 
 &emsp;&emsp;(C) to defray administrative costs associated with such training and education programs.
 
@@ -59,6 +59,10 @@ Subsec. (e). Pub. L. 113–76, §501(1)(B), substituted "There is authorized to 
 Subsec. (e). Pub. L. 112–74, §502(a), substituted "2012" for "2011".
 
 Pub. L. 112–10, which directed substitution of "2011" for "2010", was executed by making the substitution for "2010" the second place appearing to reflect the probable intent of Congress.
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

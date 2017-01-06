@@ -14,7 +14,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;(3) whether an individual's coverage under an employer-sponsored health benefits plan is treated as unaffordable under sections 36B(c)(2)(C) and 5000A(e)(2) of title 26; <sup>1</sup> and
 
-&emsp;(4) whether to grant a certification under section 18031(d)(4)(H) of this title attesting that, for purposes of the individual responsibility requirement under section 5000A of title 26, an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
+&emsp;(4) whether to grant a certification under section 18031(d)(4)(H) of this title attestingthat, for purposes of the individual responsibility requirement under section 5000A of title 26, an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
 
 #### (b) Information required to be provided by applicants
 
@@ -32,7 +32,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;(A) In the case of an enrollee whose eligibility is based on an attestation of citizenship of the enrollee, the enrollee's social security number.
 
-&emsp;&emsp;(B) In the case of an individual whose eligibility is based on an attestation of the enrollee's immigration status, the enrollee's social security number (if applicable) and such identifying information with respect tothe enrollee's immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
+&emsp;&emsp;(B) In the case of an individual whose eligibility is based on an attestation of the enrollee's immigration status, the enrollee's social security number (if applicable) and such identifying information with respect to the enrollee's immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
 
 #### (3) Eligibility and amount of tax credit or reduced cost-sharing
 
@@ -42,7 +42,11 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;The information described in section 6103(l)(21) of title 26 <sup>1</sup> for the taxable year ending with or within the second calendar year preceding the calendar year in which the plan year begins.
 
-#### (B) Changes in circumstances
+#### (B) Certain individual health insurance policies obtained through small employers
+
+&emsp;&emsp;The amount of the enrollee's permitted benefit (as defined in section 9831(d)(3)(C) of title 26) under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of such title).
+
+#### (C) Changes in circumstances
 
 &emsp;&emsp;The information described in section 18082(b)(2) of this title, including information with respect to individuals who were not required to file an income tax return for the taxable year described in subparagraph (A) or individuals who experienced changes in marital status or family size or significant reductions in income.
 
@@ -102,7 +106,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;&emsp;&emsp;(I) The name, date of birth, and any identifying information with respect to the individual's immigration status provided under subsection (b)(2).
 
-&emsp;&emsp;&emsp;&emsp;(II) The attestation that the individual is an alien lawfully present in the UnitedStates or in the case of an individual described in clause (i)(II), the attestation that the individual is a citizen.
+&emsp;&emsp;&emsp;&emsp;(II) The attestation that the individual is an alien lawfully present in the United States or in the case of an individual described in clause (i)(II), the attestation that the individual is a citizen.
 
 #### (3) Eligibility for tax credit and cost-sharing reduction
 
@@ -230,7 +234,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (2) Receipt of information
 
-&emsp;Any person who receives information provided by an applicant under subsection (b)\(whether directly or by another person at the request of the applicant), or receives information from a Federal agency under subsection (c), (d), or (e), shall—
+&emsp;Any person who receives information provided by an applicant under subsection (b) (whether directly or by another person at the request of the applicant), or receives information from a Federal agency under subsection (c), (d), or (e), shall—
 
 &emsp;&emsp;(A) use the information only for the purposes of, and to the extent necessary in, ensuring the efficient operation of the Exchange, including verifying the eligibility of an individual to enroll through an Exchange or to claim a premium tax credit or cost-sharing reduction or the amount of the credit or reduction; and
 
@@ -286,7 +290,7 @@ In the case of information provided under subsection (b) that is not required un
 
 &emsp;Not later than January 1, 2013, the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of Education and Labor and Ways and Means of the House of Representatives.
 
-(Pub. L. 111–148, title I, §1411, Mar. 23, 2010, 124 Stat. 224.)
+(Pub. L. 111–148, title I, §1411, Mar. 23, 2010, 124 Stat. 224; Pub. L. 114–255, div. C, title XVIII, §18001(a)(6)(B), Dec. 13, 2016, 130 Stat. 1342.)
 
 #### References in Text
 
@@ -296,9 +300,17 @@ This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 
 
 Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111–148.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(B), (C). Pub. L. 114–255 added subpar. (B) and redesignated former subpar. (B) as (C).
+
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–255 applicable to applications for enrollment made after Dec. 31, 2016, see section 18001(a)(7)(F) of Pub. L. 114–255, set out in a note under section 36B of Title 26, Internal Revenue Code.
 
 #### Verification of Household Income and Other Qualifications for the Provision of ACA Premium and Cost-Sharing Subsidies
 

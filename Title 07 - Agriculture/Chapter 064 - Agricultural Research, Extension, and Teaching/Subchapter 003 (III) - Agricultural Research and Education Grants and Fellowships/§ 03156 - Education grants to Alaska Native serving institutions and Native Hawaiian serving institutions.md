@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) to attract and support undergraduate and graduate students from under represented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
 
-&emsp;&emsp;(D) to facilitate cooperative initiatives between two or more Native Hawaiian servinginstitutions, or between Native Hawaiian serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
+&emsp;&emsp;(D) to facilitate cooperative initiatives between two or more Native Hawaiian serving institutions, or between Native Hawaiian serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
 
 #### (3) Authorization of appropriations
 
@@ -48,7 +48,7 @@
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 1419B of Pub. L. 95–113 and made identical amendments to this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 1419B of Pub. L. 95–113 and madeidentical amendments to this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was formerly classified to section 3242 of this title.
 

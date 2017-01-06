@@ -38,6 +38,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part A–1—Advanced Notification of Traveling Sex Offenders
+
+|  |  |
+| :--- | ---: |
+| [16935\.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935%20-%20Findings.md) | Findings. |
+| [16935a.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935a%20-%20Definitions.md) | Definitions. |
+| [16935b.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935b%20-%20Angel%20Watch%20Center.md) | Angel Watch Center. |
+| [16935c.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935c%20-%20Notification%20by%20the%20United%20States%20Marshals%20Service.md) | Notification by the United States Marshals Service. |
+| [16935d.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935d%20-%20Implementation.md) | Implementation. |
+| [16935e.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935e%20-%20Reciprocal%20notifications.md) | Reciprocal notifications. |
+| [16935f.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935f%20-%20Implementation%20plan.md) | Implementation plan. |
+| [16935g.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935g%20-%20Technical%20assistance.md) | Technical assistance. |
+| [16935h.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [16935i.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20A%E2%80%931%20-%20Advanced%20Notification%20of%20Traveling%20Sex%20Offenders/%C2%A7%2016935i%20-%20Rule%20of%20construction.md) | Rule of construction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compliance With Registration and Notification Requirements and Protection of Children From Violent Predators
 
 |  |  |

@@ -6,7 +6,7 @@ Each issuer that is required to file reports pursuant to section 13(a) or 15(d) 
 
 &emsp;(1) For each coal or other mine of which the issuer or a subsidiary of the issuer is an operator—
 
-&emsp;&emsp;(A) the total number of violations of mandatory health or safety standards that could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard under section 104 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814) for which the operator received a citation from the Mine Safety and Health Administration;
+&emsp;&emsp;(A) the total number of violations of mandatory health or safety standards that could significantly and substantially contribute tothe cause and effect of a coal or other mine safety or health hazard under section 104 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 814) for which the operator received a citation from the Mine Safety and Health Administration;
 
 &emsp;&emsp;(B) the total number of orders issued under section 104(b) of such Act (30 U.S.C. 814(b));
 

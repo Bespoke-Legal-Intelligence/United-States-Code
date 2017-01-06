@@ -1,0 +1,6 @@
+### §575. Omitted
+
+#### Codification
+
+Section, act July 27, 1939, ch. 387, §5, 53 Stat. 1129, which related to restoration of lands to tribal ownership, was omitted from the Code as being of special and not general application.
+

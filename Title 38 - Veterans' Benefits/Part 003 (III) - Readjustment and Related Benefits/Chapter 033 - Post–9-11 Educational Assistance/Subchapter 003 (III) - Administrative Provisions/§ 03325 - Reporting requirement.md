@@ -36,7 +36,23 @@ Contents of Secretary of Veterans Affairs Reports.—The Secretary shall include
 
 Termination.—No report shall be required under this section after January 1, 2021.
 
-(Added Pub. L. 112–154, title IV, §402(a)(1), Aug. 6, 2012, 126 Stat. 1188.)
+(Added Pub. L. 112–154, title IV, §402(a)(1), Aug. 6, 2012, 126 Stat. 1188; amended Pub. L. 114–315, title IV, §404(a)(1), Dec. 16, 2016, 130 Stat. 1554.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 114–315, title IV, §404(a)(1), (c), Dec. 16, 2016, 130 Stat. 1554, provided that, effective 1 year after Dec. 16, 2016, subsection (c) of this section is amended by striking "and" at the end of paragraph (2), redesignating paragraph (3) as (4), and adding after paragraph (2) the following new paragraph (3):</i>
+
+&emsp;<i>"(3) the information received by the Secretary under section 3326 of this title; and".</i>
+
+<i>See 2016 Amendment note below.</i>
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(3), (4). Pub. L. 114–315 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–315, title IV, §404(c), Dec. 16, 2016, 130 Stat. 1554, provided that: "The amendments made by this section \[enacting section 3326 of this title and amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Dec. 16, 2016\]."
 
 #### Deadline for Submittal of First Report
 

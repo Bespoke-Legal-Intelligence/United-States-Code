@@ -1,6 +1,6 @@
 # Printed pages - Title 04 - Flag and Seal, Seat of Government, and the States
 
-GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
+GPO's 2016 edition (laws in effect as of 2017-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title4.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

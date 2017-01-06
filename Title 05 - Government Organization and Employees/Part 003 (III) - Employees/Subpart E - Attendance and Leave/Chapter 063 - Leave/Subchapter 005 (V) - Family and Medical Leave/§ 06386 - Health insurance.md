@@ -4,3 +4,7 @@ An employee enrolled in a health benefits plan under chapter 89 who is placed in
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 23.)
 
+#### Effective Date
+
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
+

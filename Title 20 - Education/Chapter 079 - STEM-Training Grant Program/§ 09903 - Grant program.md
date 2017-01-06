@@ -52,7 +52,7 @@ To be eligible to apply for a grant under this section, an institution of higher
 
 #### (e) Application requirements
 
-An institution of higher education seeking a grant under the program shall submit an application to the Director in such form, at suchtime, and containing such information and assurances as the Director may require, including—
+An institution of higher education seeking a grant under the program shall submit an application to the Director in such form, at such time, and containing such information and assurances as the Director may require, including—
 
 &emsp;(1) a description of the current rate at which individuals majoring in science, technology, engineering, and mathematics become certified as elementary and secondary teachers;
 

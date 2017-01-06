@@ -42,7 +42,7 @@ Training for Foreign Law Enforcement Personnel.—
 
 &emsp;(1)
 
-In general.—The Assistant Secretary for Immigration and Customs Enforcement of the Department of Homeland Security, after consultation with the Secretary of State, may direct the Federal Air Marshal Service to provide appropriate air marshal training to law enforcement personnel of foreign countries.
+In general.—The Assistant Secretary for Immigration and Customs Enforcement of theDepartment of Homeland Security, after consultation with the Secretary of State, may direct the Federal Air Marshal Service to provide appropriate air marshal training to law enforcement personnel of foreign countries.
 
 &emsp;(2)
 

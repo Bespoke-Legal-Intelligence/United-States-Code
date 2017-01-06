@@ -48,7 +48,7 @@ The Plan shall include—
 
 &emsp;(8) an identification of the security resources, including information security resources, that will be required to protect security-related technology from physical or cyber theft, diversion, sabotage, or attack;
 
-&emsp;(9) an identification of initiatives to streamline the Administration's acquisition processand provide greater predictability and clarity to small, medium, and large businesses, including the timeline for testing and evaluation;
+&emsp;(9) an identification of initiatives to streamline the Administration's acquisition process and provide greater predictability and clarity to small, medium, and large businesses, including the timeline for testing and evaluation;
 
 &emsp;(10) an assessment of the impact to commercial aviation passengers;
 
@@ -76,7 +76,7 @@ Beginning 2 years after the date the Plan is submitted to Congress under subsect
 
 &emsp;(1) an update of the Plan; and
 
-&emsp;(2) a report on the extent to which each security-related technology acquired by the Administration since the last issuance or update of the Plan is consistent with the planned technology programs and projects identified under subsection (d)(2) for that security-related technology.
+&emsp;(2) a report on the extent to which each security-related technology acquired by the Administration since the last issuance or updateof the Plan is consistent with the planned technology programs and projects identified under subsection (d)(2) for that security-related technology.
 
 (Pub. L. 107–296, title XVI, §1611, as added Pub. L. 113–245, §3(a), Dec. 18, 2014, 128 Stat. 2872.)
 

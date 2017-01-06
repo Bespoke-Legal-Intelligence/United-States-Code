@@ -6,7 +6,7 @@
 
 (3)(A) Except as provided in subsection (d), officers on the active-duty list in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who are on an approved all-fully-qualified-officers list shall be promoted to the next higher grade in accordance with regulations prescribed by the Secretary concerned.
 
-(B) An all-fully-qualified-officers list shall be considered to be approved for purposes of subparagraph (A) when the list is approved by thePresident. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
+(B) An all-fully-qualified-officers list shall be considered to be approved for purposes of subparagraph (A) when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
 
 (C) The Secretary of a military department may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
 
@@ -40,7 +40,7 @@
 
 (2) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may also be delayed in any case in which there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade for which he was selected for promotion. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon such promotion, have the same date of rank, the same effective date for pay and allowances in the higher grade to which appointed, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
 
-(3) The appointment of an officer may not be delayed under this subsection unless the officer has been given written notice of the grounds for the delay, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable. An officer whose promotion has been delayed under this subsection shall be afforded an opportunity to make a written statement to the Secretary concerned in response to the action taken. Any suchstatement shall be given careful consideration by the Secretary.
+(3) The appointment of an officer may not be delayed under this subsection unless the officer has been given written notice of the grounds for the delay, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable. An officer whose promotion has been delayed under this subsection shall be afforded an opportunity to make a written statement to the Secretary concerned in response to the action taken. Any such statement shall be given careful consideration by the Secretary.
 
 (4) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer's appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
@@ -84,7 +84,7 @@ Subsec. (d)(2). Pub. L. 107–107, §505(c)(2)(A)(ii), inserted "shall be retain
 
 Subsec. (a)(2). Pub. L. 97–22, §4(d)(1)(B), inserted provision that officers to be promoted to grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
 
-Subsec. (c). Pub. L. 97–22, §4(d)(2), substituted "under this section in the grade of first lieutenant or captain or lieutenant (junior grade) or lieutenant" for "in the grade of first lieutenant or lieutenant (junior grade) under this section".
+Subsec. (c). Pub. L. 97–22, §4(d)(2), substituted "under this section in the grade of first lieutenant or captainor lieutenant (junior grade) or lieutenant" for "in the grade of first lieutenant or lieutenant (junior grade) under this section".
 
 Subsec. (d)(1). Pub. L. 97–22, §4(d)(3)(A), (B), substituted "Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may be delayed" for "The Secretary concerned may delay the appointment of an officer under this section" in provisions preceding subpar. (A) and, in provisions following subpar. (D), inserted "then unless action to delay an appointment has also been taken under subsection (d)(2)" after "as the case may be,".
 
@@ -98,7 +98,11 @@ Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, pro
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §511(e), Oct. 17, 2006, 120 Stat. 2184, provided that: "The amendments made by this section \[amending this section and sections14308 and 14311 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\] and shall apply with respect to officers on promotion lists established on or after the date of the enactment of this Act."
+Pub. L. 109–364, div. A, title V, §511(e), Oct. 17, 2006, 120 Stat. 2184, provided that: "The amendments made by this section \[amending this section and sections 14308 and 14311 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\] and shall apply with respect to officers on promotion lists established on or after the date of the enactment of this Act."
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Delegation of Functions
 

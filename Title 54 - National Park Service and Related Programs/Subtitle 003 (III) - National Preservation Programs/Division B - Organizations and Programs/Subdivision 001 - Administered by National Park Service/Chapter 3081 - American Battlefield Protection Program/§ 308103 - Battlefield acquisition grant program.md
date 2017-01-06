@@ -66,7 +66,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 &emsp;<i>"(7) REPORT.—Not later than 5 years after the date of the enactment of this paragraph, the Secretary shall submit to Congress a report on the activities carried out under this subsection, including a description of—</i>
 
-&emsp;&emsp;<i>"(A) preservation activities carried out at the battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the report required under this paragraph;</i>
+&emsp;&emsp;<i>"(A) preservation activities carried out at the battlefields and associated sites identified in the battlefield report during the period between</i><i>publication of the battlefield report and the report required under this paragraph;</i>
 
 &emsp;&emsp;<i>"(B) changes in the condition of the battlefields and associated sites during that period; and</i>
 

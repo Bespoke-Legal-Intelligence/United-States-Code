@@ -54,7 +54,7 @@
 
 (b)(1) For the purpose of paragraph (8) of subsection (a) of this section, the Office shall prescribe the criteria and regulations governing the designation of career reserved positions. The criteria and regulations shall provide that a position shall be designated as a career reserved position only if the filling of the position by a career appointee is necessary to ensure impartiality, or the public's confidence in the impartiality, of the Government. The head of each agency shall be responsible for designating career reserved positions in such agency in accordance with such criteria and regulations.
 
-(2) The Office shall periodically review general positions to determine whether the positionsshould be designated as career reserved. If the Office determines that any such position should be so designated, it shall order the agency to make the designation.
+(2) The Office shall periodically review general positions to determine whether the positions should be designated as career reserved. If the Office determines that any such position should be so designated, it shall order the agency to make the designation.
 
 (3) Notwithstanding the provisions of any other law, any position to be designated as a Senior Executive Service position (except a position in the Executive Office of the President) which—
 
@@ -94,7 +94,7 @@
 
 Level IV or V of the Executive Schedule, referred to in subsec. (a)(2), are set out in sections 5315 and 5316 of this title.
 
-Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec. (a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, §3(a), Dec. 18, 2014, 128 Stat. 3005, which is classified to section 147 of Title 6, Domestic Security.
+Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec.\(a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, §3(a), Dec. 18, 2014, 128 Stat. 3005, which is classified to section 147 of Title 6, Domestic Security.
 
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
@@ -120,7 +120,7 @@ Subsec. (a)(1)(E), (F). Pub. L. 110–289, §1161(g)(2)(C), (D), inserted "or" a
 
 <b>2002</b>—Subsec. (a)(1)(C). Pub. L. 107–252, §811(b), inserted "or the Election Assistance Commission" after "Commission".
 
-Pub. L. 107–171, §10702(c)(1)(A), which directed amendment by striking "or" at the end, could not be executedbecause the word "or" did not appear at the end. See below.
+Pub. L. 107–171, §10702(c)(1)(A), which directed amendment by striking "or" at the end, could not be executed because the word "or" did not appear at the end. See below.
 
 Pub. L. 107–123, §8(d)(1)(B)(i), struck out "or" at end.
 
@@ -183,6 +183,10 @@ Amendment by Pub. L. 96–187 effective on Jan. 8, 1980, see section 301(a) of P
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Effective Date
+
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
 #### Construction
 

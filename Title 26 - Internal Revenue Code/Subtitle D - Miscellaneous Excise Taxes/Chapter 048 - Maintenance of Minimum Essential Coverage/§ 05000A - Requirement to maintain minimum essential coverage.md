@@ -68,7 +68,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (C) Special rule for individuals under age 18
 
-&emsp;&emsp;If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
+&emsp;&emsp;If an applicable individual has not attained the age of 18 as of the beginning of amonth, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
 
 #### (D) Indexing of amount
 
@@ -86,7 +86,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (A) Family size
 
-&emsp;&emsp;The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is alloweda deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
+&emsp;&emsp;The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
 
 #### (B) Household income
 
@@ -306,6 +306,10 @@ For purposes of this section—
 
 (Added and amended Pub. L. 111–148, title I, §1501(b), title X, §10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, §2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, §1(a), May 27, 2010, 124 Stat. 1215.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
 #### References in Text
 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (d)(2)(A), (e)(1)(A), (2), and (f)(5), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Title I of the Act enacted chapter 157 of Title 42, The Public Health and Welfare, and enacted, amended, and transferred numerous other sections and notes in the Code. Sections 1311(d)(4)(H) and 1412(b)(1)(B) of the Act are classified to sections 18031(d)(4)(H) and 18082(b)(1)(B), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
@@ -320,7 +324,7 @@ Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A),
 
 Subsec. (c)(1), (2). Pub. L. 111–148, §10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
 
-Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer" before "for the taxable year" in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount ofgross income specified in section 6012(a)(1) with respect to the taxpayer" before "for the taxable year" in introductory provisions.
 
 Subsec. (c)(2)(B)(i). Pub. L. 111–152, §1002(a)(1)(B), substituted "1.0" for "0.5".
 
@@ -354,7 +358,7 @@ In general.—The term 'poverty line' has the meaning given that term in section
 
 "(ii)
 
-Poverty line used.—In the case of any taxable year ending with or within a calendar year, the povertyline used shall be the most recently published poverty line as of the 1st day of such calendar year."
+Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year."
 
 Subsec. (d)(2)(A). Pub. L. 111–148, §10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: "Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section."
 

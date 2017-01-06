@@ -30,7 +30,7 @@ Congress finds that—
 
 &emsp;&emsp;(D) the diversion of certain materials and facilities from ordinary use to national defense purposes, when national defense needs cannot otherwise be satisfied in a timely fashion;
 
-&emsp;(4) to meet the requirements referred to in this subsection, this chapter provides the President with an array of authorities to shape national defense preparedness programsand to take appropriate steps to maintain and enhance the domestic industrial base;
+&emsp;(4) to meet the requirements referred to in this subsection, this chapter provides the President with an array of authorities to shape national defense preparedness programs and to take appropriate steps to maintain and enhance the domestic industrial base;
 
 &emsp;(5) in order to ensure national defense preparedness, it is necessary and appropriate to assure the availability of domestic energy supplies for national defense needs;
 
@@ -62,7 +62,7 @@ It is the policy of the United States that—
 
 &emsp;(7) to ensure that essential national defense requirements are met, consideration should be given to stockpiling strategic materials, to the extent that such stockpiling is economical and feasible; and
 
-&emsp;(8) in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of the Federal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
+&emsp;(8) in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of theFederal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
 
 (Sept. 8, 1950, ch. 932, §2, 64 Stat. 798; June 30, 1953, ch. 171, §2, 67 Stat. 129; Aug. 9, 1955, ch. 655, §2, 69 Stat. 580; June 29, 1956, ch. 474, §4, 70 Stat. 408; Pub. L. 96–294, title I, §102, June 30, 1980, 94 Stat. 617; Pub. L. 102–558, title I, §101, Oct. 28, 1992, 106 Stat. 4199; Pub. L. 111–67, §3(a), Sept. 30, 2009, 123 Stat. 2007.)
 

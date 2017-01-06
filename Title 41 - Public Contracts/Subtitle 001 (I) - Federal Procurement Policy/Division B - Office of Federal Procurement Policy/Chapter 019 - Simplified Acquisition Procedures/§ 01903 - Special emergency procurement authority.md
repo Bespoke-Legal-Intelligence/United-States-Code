@@ -4,9 +4,13 @@
 
 Applicability.—The authorities provided in subsections (b) and (c) apply with respect to a procurement of property or services by or for an executive agency that the head of the executive agency determines are to be used—
 
-&emsp;(1) in support of a contingency operation (as defined in section 101(a) of title 10); or
+&emsp;(1) in support of a contingency operation (as defined in section 101(a) of title 10);
 
-&emsp;(2) to facilitate the defense against or recovery from nuclear, biological, chemical, or radiological attack against the United States.
+&emsp;(2) to facilitate the defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack against the United States;
+
+&emsp;(3) in support of a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate the provision of international disaster assistance pursuant to chapter 9 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2292 et seq.); or
+
+&emsp;(4) in support of an emergency or major disaster (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)).
 
 (b)
 
@@ -24,7 +28,7 @@ Increased Thresholds and Limitation.—For a procurement to which this section a
 
 &emsp;&emsp;(B) $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
 
-&emsp;(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
+&emsp;(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
 
 (c)
 
@@ -42,7 +46,7 @@ Certain contracts not exempt from standards or requirements.—A contract in an 
 
 &emsp;&emsp;(B) cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and section 2306a of title 10.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, §816, Nov. 25, 2015, 129 Stat. 897.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, §816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, §816, title XVI, §1641, Dec. 23, 2016, 130 Stat. 2272, 2600.)
 
 Historical and Revision Notes
 
@@ -68,7 +72,15 @@ Pub. L. 93–400, §32A, as added Pub. L. 108–136, title XIV, §1443(a)(1), No
 
 41:428a(d).
 
+#### References in Text
+
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX \[§2292 et seq.\] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §1641, inserted "cyber," before "nuclear,".
+
+Subsec. (a)(3), (4). Pub. L. 114–328, §816, added pars. (3) and (4).
 
 <b>2015</b>—Subsec. (b)(2)(A). Pub. L. 114–92, §816(1), substituted "$750,000" for "$250,000".
 

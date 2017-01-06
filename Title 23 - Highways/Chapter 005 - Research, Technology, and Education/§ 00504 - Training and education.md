@@ -346,7 +346,7 @@ Eligible activities.—The freight planning capacity building initiative shall i
 
 &emsp;&emsp;(C) Refinement of data and analysis tools used in conjunction with assessing freight transportation needs.
 
-&emsp;&emsp;(D) Technical assistance to State transportation departments and local transportation agencies reorganizing to address freight transportation issues.
+&emsp;&emsp;(D) Technical assistance to State transportation departments and local transportationagencies reorganizing to address freight transportation issues.
 
 &emsp;&emsp;(E) Facilitating relationship building between governmental and private entities involved in freight transportation.
 
@@ -408,7 +408,7 @@ A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportationblock grant program" for "surface transportation program".
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportation block grant program" for "surface transportation program".
 
 Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 

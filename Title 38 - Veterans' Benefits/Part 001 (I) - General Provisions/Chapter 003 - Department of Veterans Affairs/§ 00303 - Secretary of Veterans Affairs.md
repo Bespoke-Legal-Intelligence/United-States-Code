@@ -8,9 +8,57 @@ There is a Secretary of Veterans Affairs, who is the head of the Department and 
 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
 
+#### Inclusion in Annual Budget Submission of Information on Capacity of Veterans Benefits Administration To Process Benefits Claims
+
+Pub. L. 114–315, title I, §106, Dec. 16, 2016, 130 Stat. 1542, provided that:
+
+"(a)
+
+In General.—Along with the supporting information included in the budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code, the President shall include information on the capacity of the Veterans Benefits Administration to process claims for benefits under the laws administered by the Secretary of Veterans Affairs, including information described in subsection (b), during the fiscal year covered by the budget with which the information is submitted.
+
+"(b)
+
+Information Described.—The information described in this subsection is the following:
+
+&emsp;"(1) An estimate of the average number of claims for benefits under the laws administered by the Secretary, excluding such claims completed during mandatory overtime, that a single full-time equivalent employee of the Administration should be able to process in a year, based on the following:
+
+&emsp;&emsp;"(A) A time and motion study that the Secretary shall conduct on the processing of such claims.
+
+&emsp;&emsp;"(B) Such other information relating to such claims as the Secretary considers appropriate.
+
+&emsp;"(2) A description of the actions the Secretary will take to improve the processing of such claims.
+
+&emsp;"(3) An assessment of the actions identified by the Secretary under paragraph (2) in the previous year and an identification of the effects of those actions.
+
+"(c)
+
+Effective Date.—This section shall apply with respect to any budget submitted as described in subsection (a) with respect to any fiscal year after fiscal year 2018."
+
+#### Information To Be Included in Budget Justification Documents for Construction, Major Projects Account
+
+Pub. L. 114–223, div. A, title II, §258, Sept. 29, 2016, 130 Stat. 895, provided that:
+
+"(a) In fiscal year 2017 and each fiscal year hereafter, beginning with the fiscal year 2018 budget request submitted to Congress pursuant to section 1105(a) of title 31, United States Code, the budget justification documents submitted for the 'Construction, Major Projects' account of the Department of Veterans Affairs shall include, at a minimum, the information required under subsection (b).
+
+"(b) The budget justification documents submitted pursuant to subsection (a) shall include, for each project—
+
+&emsp;"(1) the estimated total cost of the project;
+
+&emsp;"(2) the funding provided for each fiscal year prior to the budget year;
+
+&emsp;"(3) the amount requested for the budget year;
+
+&emsp;"(4) the estimated funding required for the project for each of the 4 fiscal years succeeding the budget year; and
+
+&emsp;"(5) such additional information as is enumerated under the heading relating to the 'Construction, Major Projects' account of the Department of Veterans Affairs in the joint explanatory statement accompanying this Act.
+
+"(c) Not later than 45 days after the date of enactment of this Act \[Sept. 29, 2016\], the Secretary of Veterans Affairs shall submit to the Committees on Appropriations of both Houses of Congress a proposed budget justification template that complies with the requirements of this section."
+
+\[For definition of "joint explanatory statement accompanying this Act" as used in section 258 of div. A of Pub. L. 114–223, set out above, see section 6 of Pub. L. 114–223, Sept. 29, 2016, 130 Stat. 858.\]
+
 #### Notice to Congressional Veterans Committees of Certain Transfers of Funds
 
-Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretaryof Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
+Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
 
 #### National Center on War-Related Illnesses and Post-Deployment Health Issues
 
@@ -88,7 +136,7 @@ Pub. L. 100–322, title I, §123, May 20, 1988, 102 Stat. 504, as amended by Pu
 
 "(a)
 
-Information Program.—The Secretary of Veterans Affairs shall establish and carry out an information program relating to the acquired immune deficiency syndrome (hereinafter in this section referred to as 'AIDS'). The information program shall be for employees and consultants of the Department of Veterans Affairs, for other persons providing services in Department of Veterans Affairs facilities to beneficiaries ofprograms administered by the Department of Veterans Affairs, and for such beneficiaries.
+Information Program.—The Secretary of Veterans Affairs shall establish and carry out an information program relating to the acquired immune deficiency syndrome (hereinafter in this section referred to as 'AIDS'). The information program shall be for employees and consultants of the Department of Veterans Affairs, for other persons providing services in Department of Veterans Affairs facilities to beneficiaries of programs administered by the Department of Veterans Affairs, and for such beneficiaries.
 
 "(b)
 

@@ -14,3 +14,7 @@ A management official of a depository institution or a depository holding compan
 
 <b>1983</b>—Par. (1). Pub. L. 98–181 substituted "primary metropolitan statistical area, the same metropolitan statistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas" for "standard metropolitan statistical area".
 
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+

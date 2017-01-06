@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) The maintenance and replication of existing successful services in domestic violence, dating violence, sexual assault, and stalking community-based programs providing culturally specific services and other resources.
 
-&emsp;&emsp;(B) The development of innovative culturally specific strategies and projects to enhance access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who faceobstacles to using more traditional services and resources.
+&emsp;&emsp;(B) The development of innovative culturally specific strategies and projects to enhance access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources.
 
 #### (2) Purposes for which grants may be used
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 109–271, §1(c)(3), added subsec. (h).
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, seesection 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

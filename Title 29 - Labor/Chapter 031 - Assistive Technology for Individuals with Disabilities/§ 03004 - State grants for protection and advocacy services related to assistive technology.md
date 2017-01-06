@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 
 #### (3) Application of provisions
 
-&emsp;Except as provided in this subsection, the provisions of this section shall apply to thegrant in the same manner, and to the same extent, as the provisions apply to a grant to a system.
+&emsp;Except as provided in this subsection, the provisions of this section shall apply to the grant in the same manner, and to the same extent, as the provisions apply to a grant to a system.
 
 #### (e) Carryover
 

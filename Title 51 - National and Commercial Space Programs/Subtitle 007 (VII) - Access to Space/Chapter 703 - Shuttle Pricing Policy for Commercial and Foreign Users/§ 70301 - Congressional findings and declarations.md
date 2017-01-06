@@ -4,7 +4,7 @@ Congress finds and declares that—
 
 &emsp;(1) the Space Transportation System is a vital element of the United States space program, contributing to the United States leadership in space research, technology, and development;
 
-&emsp;(2) the Space Transportation System is the primary space launch system for both UnitedStates national security and civil government missions;
+&emsp;(2) the Space Transportation System is the primary space launch system for both United States national security and civil government missions;
 
 &emsp;(3) the Space Transportation System contributes to the expansion of United States private sector investment and involvement in space and therefore should serve commercial users;
 

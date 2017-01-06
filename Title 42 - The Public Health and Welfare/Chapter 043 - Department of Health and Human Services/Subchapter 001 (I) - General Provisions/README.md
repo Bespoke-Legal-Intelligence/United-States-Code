@@ -17,6 +17,7 @@
 - [&sect; 03505c - Repealed. Pub. L. 94&#8211;63, title II, &sect;203(b), July 29, 1975, 89 Stat. 307](%C2%A7%2003505c%20-%20Repealed.%20Pub.%20L.%2094%E2%80%9363%2C%20title%20II%2C%20%C2%A7203%28b%29%2C%20July%2029%2C%201975%2C%2089%20Stat.%20307.md)
 - [&sect; 03505d - National Health Professional Shortage Clearinghouse](%C2%A7%2003505d%20-%20National%20Health%20Professional%20Shortage%20Clearinghouse.md)
 - [&sect; 03506 - Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services](%C2%A7%2003506%20-%20Travel%20and%20subsistence%20expenses%20of%20officers%20and%20employees%20in%20connection%20with%20attendance%20at%20meetings%20or%20in%20performing%20advisory%20services.md)
+- [&sect; 03506a - Scientific engagement](%C2%A7%2003506a%20-%20Scientific%20engagement.md)
 - [&sect; 03507 - Transfer of personnel and household goods; delegation of Secretary's authority](%C2%A7%2003507%20-%20Transfer%20of%20personnel%20and%20household%20goods%3B%20delegation%20of%20Secretary%27s%20authority.md)
 - [&sect; 03508 - Omitted](%C2%A7%2003508%20-%20Omitted.md)
 - [&sect; 03509 - Repealed. Pub. L. 105&#8211;362, title VI, &sect;601(a)(2)(C), Nov. 10, 1998, 112 Stat. 3285](%C2%A7%2003509%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VI%2C%20%C2%A7601%28a%29%282%29%28C%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203285.md)

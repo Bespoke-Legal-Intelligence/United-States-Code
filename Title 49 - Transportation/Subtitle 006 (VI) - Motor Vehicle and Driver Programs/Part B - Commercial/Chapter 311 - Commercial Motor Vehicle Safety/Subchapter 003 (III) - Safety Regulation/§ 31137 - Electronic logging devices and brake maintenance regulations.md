@@ -48,7 +48,7 @@ Performance and design standards.—The regulations prescribed under subsection 
 
 &emsp;&emsp;&emsp;(v) data transfer and transportability for law enforcement officials;
 
-&emsp;&emsp;(C) establishing a standard security level for an electronic logging device and relatedcomponents to be tamper resistant by using a methodology endorsed by a nationally recognized standards organization; and
+&emsp;&emsp;(C) establishing a standard security level for an electronic logging device and related components to be tamper resistant by using a methodology endorsed by a nationally recognized standards organization; and
 
 &emsp;&emsp;(D) identifying each driver subject to the hours of service and record of duty status requirements under part 395 of title 49, Code of Federal Regulations.
 
@@ -114,7 +114,7 @@ Electronic logging device.—The term "electronic logging device" means an elect
 
 &emsp;(2)
 
-Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
+Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or tosubsequently alter the record created by that device.
 
 (g)
 
@@ -160,7 +160,7 @@ Subsec. (b)(3). Pub. L. 114–94, §5507(2), added par. (3).
 
 <b>2012</b>—Pub. L. 112–141, §32301(b)(1), substituted "Electronic logging devices and brake maintenance regulations" for "Monitoring device and brake maintenance regulations" in section catchline.
 
-Subsecs. (a) to (f). Pub. L. 112–141, §32301(b)(3), as amended by Pub. L. 114–94, §5508(b)(2), added subsecs. (a) to (f) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: "If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of theSecretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators." Former subsec. (b) redesignated (g).
+Subsecs. (a) to (f). Pub. L. 112–141, §32301(b)(3), as amended by Pub. L. 114–94, §5508(b)(2), added subsecs. (a) to (f) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: "If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators." Former subsec. (b) redesignated (g).
 
 Subsec. (g). Pub. L. 112–141, §32931(a), which directed substitution of "The Secretary shall maintain" for "Not later than December 1, 1990, the Secretary shall prescribe", was executed by making the substitution for "Not later than December 31, 1990, the Secretary shall prescribe", to reflect the probable intent of Congress.
 

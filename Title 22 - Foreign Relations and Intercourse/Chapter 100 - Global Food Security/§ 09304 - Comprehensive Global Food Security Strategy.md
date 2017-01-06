@@ -1,0 +1,86 @@
+### §9304. Comprehensive Global Food Security Strategy
+
+#### (a) Strategy
+
+The President shall coordinate the development and implementation of a United States whole-of-government strategy to accomplish the policy objectives set forth in section 9302(a) of this title, which shall—
+
+&emsp;(1) set specific and measurable goals, benchmarks, timetables, performance metrics, and monitoring and evaluation plans that reflect international best practices relating to transparency, accountability, food and nutrition security, and agriculture-led economic growth, consistent with the policy objectives described in section 9302(a) of this title;
+
+&emsp;(2) establish clear and transparent selection criteria for target countries, communities, regions, and intended beneficiaries of assistance;
+
+&emsp;(3) describe the methodology and criteria for the selection of target countries;
+
+&emsp;(4) support and be aligned with country-owned agriculture, nutrition, and food security policy and investment plans developed with input from key stakeholders, as appropriate;
+
+&emsp;(5) support inclusive agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, resource management capacity, networking, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;
+
+&emsp;(6) support improvement of the nutritional status of women and children, particularly during the critical first 1,000-day window until a child reaches 2 years of age and with a focus on reducing child stunting, through nutrition-specific and nutrition-sensitive programs, including related water, sanitation, and hygiene programs;
+
+&emsp;(7) facilitate communication and collaboration, as appropriate, among local stakeholders in support of a multi-sectoral approach to food and nutrition security, to include analysis of the multiple underlying causes of malnutrition, including lack of access to safe drinking water, sanitation, and hygiene;
+
+&emsp;(8) support the long-term success of programs by building the capacity of local organizations and institutions in target countries and communities;
+
+&emsp;(9) integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to build safety nets, secure livelihoods, access markets, and access opportunities for longer-term economic growth;
+
+&emsp;(10) develop community and producer resilience to natural disasters, emergencies, and natural occurrences that adversely impact agricultural yield;
+
+&emsp;(11) harness science, technology, and innovation, including the research and extension activities supported by relevant Federal Departments and agencies and Feed the Future Innovation Labs, or any successor entities;
+
+&emsp;(12) integrate agricultural development activities among food insecure populations living in proximity to designated national parks or wildlife areas into wildlife conservation efforts, as necessary and appropriate;
+
+&emsp;(13) leverage resources and expertise through partnerships with the private sector, farm organizations, cooperatives, civil society, faith-based organizations, and agricultural research and academic institutions;
+
+&emsp;(14) strengthen and expand collaboration between United States universities, including public, private, and land-grant universities, with higher education institutions in target countries to increase their effectiveness and relevance to promote agricultural development and innovation through the creation of human capital, innovation, and cutting edge science in the agricultural sector;
+
+&emsp;(15) seek to ensure that target countries and communities respect and promote land tenure rights of local communities, particularly those of women and small-scale producers;
+
+&emsp;(16) include criteria and methodologies for graduating target countries and communities from assistance provided to implement the Global Food Security Strategy as such countries and communities meet the progress benchmarks identified pursuant to section 9307(b)(4) of this title; and
+
+&emsp;(17) demonstrably support the United States national security and economic interest in the countries where assistance is being provided.
+
+#### (b) Coordination
+
+The President shall coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies in the implementation of the Global Food Security Strategy by—
+
+&emsp;(1) establishing monitoring and evaluation systems, coherence, and coordination across relevant Federal departments and agencies;
+
+&emsp;(2) establishing linkages with other initiatives and strategies of relevant Federal departments and agencies; and
+
+&emsp;(3) establishing platforms for regular consultation and collaboration with key stakeholders and the appropriate congressional committees.
+
+#### (c) Strategy submission
+
+#### (1) In general
+
+&emsp;Not later than October 1, 2016, the President, in consultation with the head of each relevant Federal department and agency, shall submit to the appropriate congressional committees the Global Food Security Strategy required under this section, including a detailed description of how the United States intends to advance the objectives set forth in section 9302(a) of this title and the agency-specific plans described in paragraph (2).
+
+#### (2) Agency-specific plans
+
+&emsp;The Global Food Security Strategy shall include specific implementation plans from each relevant Federal department and agency that describes—
+
+&emsp;&emsp;(A) the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
+
+&emsp;&emsp;(B) the efforts of the department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
+
+(Pub. L. 114–195, §5, July 20, 2016, 130 Stat. 678.)
+
+#### Delegation of Authority Pursuant to Sections 5, 6(a) and 6(c), and 8(a) of the Global Food Security Act of 2016
+
+Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, provided:
+
+Memorandum for the Secretary of State \[and\] the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
+
+I hereby delegate to the Administrator of the United States Agency for International Development the functions and authorities vested in the President by sections 5, 6(c), and 8(a) of the Global Food Security Act of 2016 (the "Act").
+
+I hereby delegate to the Secretary of State and the Administrator of the United States Agency for International Development the functions and authorities vested in the President by section 6(a) of the Act.
+
+These functions shall be exercised consistent with the Secretary of State's responsibility for the continuous supervision and general direction of assistance programs under section 2382 of title 22, United States Code, and lead role in coordinating U.S. assistance under section 6593 of title 22, United States Code.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provisions.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

@@ -32,7 +32,7 @@
 
 (2) With respect to any individual paid to accompany or assist a handicapped employee under paragraph (1) of this subsection—
 
-&emsp;(A) the amount paid to that individual shall not exceed the limit or limits which the Office of Personnel Management shall prescribe by regulation to ensure that the payment does not exceed amounts (including pay and, if appropriate, travel expenses and per diem allowances) which could be paid to an employee assigned to accompany or assist the handicapped employee; and
+&emsp;(A) the amount paid to that individual shall not exceed the limit or limits which the Office of Personnel Management shall prescribe by regulation to ensure that the payment doesnot exceed amounts (including pay and, if appropriate, travel expenses and per diem allowances) which could be paid to an employee assigned to accompany or assist the handicapped employee; and
 
 &emsp;(B) that individual shall be considered an employee, but only for purposes of chapter 81 of this title (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 

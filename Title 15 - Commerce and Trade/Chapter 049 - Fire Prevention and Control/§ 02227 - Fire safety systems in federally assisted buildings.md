@@ -44,7 +44,7 @@ For purposes of this section, the following definitions apply:
 
 (1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federalemployees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 (ii) The first sentence of clause (i) shall not apply to the lease of a building the construction of which is completed before October 26, 1992, if the leasing agency certifies that no suitable building with automatic sprinkler systems or an equivalent level of safety is available at an affordable cost.
 
@@ -118,7 +118,7 @@ Nothing in this section shall be construed to limit the power of any State or po
 
 #### (f) Prefire plan
 
-The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
+The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibilityfor fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 
 #### (g) Reports to Congress
 

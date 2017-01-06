@@ -1,0 +1,6 @@
+### §1752. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–134, §3, Oct. 18, 1983, 97 Stat. 852, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.
+

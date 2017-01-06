@@ -74,7 +74,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 #### (1) Method of certification
 
-&emsp;A certification described in subsection (c) shall be made in accordance with guidance prescribed by the Secretary, after consultation with the Secretary of Energy. Such guidance shall specify procedures and methods for calculating energy and cost savings.
+&emsp;A certification described in subsection (c) shall be made in accordance with guidanceprescribed by the Secretary, after consultation with the Secretary of Energy. Such guidance shall specify procedures and methods for calculating energy and cost savings.
 
 #### (2) Form
 

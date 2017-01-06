@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) are paid under the General Schedule pursuant to section 5332 of title 5;
 
-&emsp;&emsp;(iii) are determined by the Secretary to be providing either direct patient-care services or services incident to direct patient-care services; and
+&emsp;&emsp;(iii) are determined by the Secretary to be providing either direct patient-care servicesor services incident to direct patient-care services; and
 
 &emsp;&emsp;(iv) would not otherwise be available to provide medical care and treatment for veterans.
 

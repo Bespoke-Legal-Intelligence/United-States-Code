@@ -68,7 +68,7 @@ Firearms, dangerous weapons, explosives, or incendiary devices.—An individual 
 
 Violent entry and disorderly conduct.—An individual or group of individuals may not willfully and knowingly—
 
-&emsp;&emsp;(A) enter or remain on the floor of either House of Congress or in any cloakroom orlobby adjacent to that floor, in the Rayburn Room of the House of Representatives, or in the Marble Room of the Senate, unless authorized to do so pursuant to rules adopted, or an authorization given, by that House;
+&emsp;&emsp;(A) enter or remain on the floor of either House of Congress or in any cloakroom or lobby adjacent to that floor, in the Rayburn Room of the House of Representatives, or in the Marble Room of the Senate, unless authorized to do so pursuant to rules adopted, or an authorization given, by that House;
 
 &emsp;&emsp;(B) enter or remain in the gallery of either House of Congress in violation of rules governing admission to the gallery adopted by that House or pursuant to an authorization given by that House;
 
@@ -78,7 +78,7 @@ Violent entry and disorderly conduct.—An individual or group of individuals ma
 
 &emsp;&emsp;&emsp;(ii) the Library of Congress;
 
-&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
+&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or eitherHouse of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
 
 &emsp;&emsp;(E) obstruct, or impede passage through or within, the Grounds or any of the Capitol Buildings;
 

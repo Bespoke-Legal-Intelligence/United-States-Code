@@ -24,9 +24,9 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 (1) Persons appointed as members of the Council shall be broadly representative of the general public, including educational institutions, private volunteer agencies, private industry, farm organizations, labor unions, different regions of the United States, different educational, economic, racial, and national backgrounds and age groupings, and both sexes.
 
-(2)(A) The Council shall consist of fifteen voting members who shall be appointed by thePresident, by and with the advice and consent of the Senate. At least seven of such members shall be former Peace Corps volunteers, and not more than eight of such members shall be members of the same political party.
+(2)(A) The Council shall consist of fifteen voting members who shall be appointed by the President, by and with the advice and consent of the Senate. At least seven of such members shall be former Peace Corps volunteers, and not more than eight of such members shall be members of the same political party.
 
-(B) The first appointments of members of the Council under this paragraph shall be made not more than sixty days after August 8, 1985, and, solely for purposes of determining the expiration of their terms, shall be deemed to take effect on the sixtieth day after August 8, 1985.
+(B) The first appointments of members of the Council under this paragraph shall be made notmore than sixty days after August 8, 1985, and, solely for purposes of determining the expiration of their terms, shall be deemed to take effect on the sixtieth day after August 8, 1985.
 
 (C) No member appointed under this paragraph may be an officer or employee of the United States Government.
 
@@ -88,7 +88,7 @@ This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original 
 
 #### Prior Provisions
 
-A prior section 2511, Pub. L. 87–293, title I, §12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L.92–352, title IV, §403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
+A prior section 2511, Pub. L. 87–293, title I, §12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L. 92–352, title IV, §403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
 
 #### Effective Date
 

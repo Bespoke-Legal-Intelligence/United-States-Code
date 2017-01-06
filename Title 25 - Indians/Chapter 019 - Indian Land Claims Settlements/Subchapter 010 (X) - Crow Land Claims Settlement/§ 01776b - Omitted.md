@@ -1,0 +1,6 @@
+### §1776b. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–444, §4, Nov. 2, 1994, 108 Stat. 4634, which related to ratification of the Settlement Agreement, was omitted from the Code as being of special and not general application.
+

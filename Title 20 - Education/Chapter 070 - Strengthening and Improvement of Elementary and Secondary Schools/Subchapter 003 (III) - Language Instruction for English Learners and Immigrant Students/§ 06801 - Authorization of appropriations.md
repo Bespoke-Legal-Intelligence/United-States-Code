@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out this subchapter—
 
 &emsp;(4) $884,959,633 for fiscal year 2020.
 
-(Pub. L. 89–10, title III, §3001, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1689;amended Pub. L. 114–95, title III, §3002, Dec. 10, 2015, 129 Stat. 1953.)
+(Pub. L. 89–10, title III, §3001, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1689; amended Pub. L. 114–95, title III, §3002, Dec. 10, 2015, 129 Stat. 1953.)
 
 #### Prior Provisions
 

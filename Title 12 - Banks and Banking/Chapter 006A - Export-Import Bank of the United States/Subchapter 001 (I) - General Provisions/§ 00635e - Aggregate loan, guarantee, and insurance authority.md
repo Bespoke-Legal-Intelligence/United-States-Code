@@ -18,7 +18,11 @@
 
 &emsp;All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-#### (b) Presidential determination
+#### (b) Reserve requirement
+
+The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.
+
+#### (c) Presidential determination
 
 #### (1) In general
 
@@ -42,20 +46,6 @@
 
 (July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I \[title VI, §§615, 620(d)\], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763.)
 
-#### Amendment of Section
-
-<i>Pub. L. 114–94, div. E, title LI, §51002, Dec. 4, 2015, 129 Stat. 1763, provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended:</i>
-
-<i>(1) by redesignating subsection (b) as subsection (c); and</i>
-
-<i>(2) by inserting after subsection (a) the following:</i>
-
-#### <i>"(b) Reserve requirement</i>
-
-<i>"The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank."</i>
-
-<i>See 2015 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to section 635d of this title.
@@ -70,9 +60,9 @@ Subsecs. (b), (c). Pub. L. 114–94, §51002(a), added subsec. (b) and redesigna
 
 <b>2006</b>—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "during fiscal year 2006, $100,000,000,000."
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
+<b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 
-<b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15of each year, the President of the United States shall transmit to the Congress a report on such determination."
+<b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination."
 
 <b>1992</b>—Pub. L. 102–429, §109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted "$75,000,000,000" for "$40,000,000,000", redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: "
 

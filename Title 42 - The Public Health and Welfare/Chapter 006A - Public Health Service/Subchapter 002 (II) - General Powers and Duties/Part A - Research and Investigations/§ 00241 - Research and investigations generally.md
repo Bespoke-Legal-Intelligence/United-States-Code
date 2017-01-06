@@ -20,8 +20,6 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(8) adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
-> The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
-
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
 (1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
@@ -30,7 +28,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 (B) The Secretary shall conduct a comprehensive review of Federal programs of research on the biological effects of ionizing radiation.
 
-(3) The Secretary shall conduct and may support through grants and contracts research and studies on human nutrition, with particular emphasis on the role of nutrition in the prevention and treatment of disease and on the maintenance and promotion of health, and programs for the dissemination of information respecting human nutrition to health professionals and thepublic. In carrying out activities under this paragraph, the Secretary shall provide for the coordination of such of these activities as are performed by the different divisions within the Department of Health and Human Services and shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct and support such activities for such entity.
+(3) The Secretary shall conduct and may support through grants and contracts research and studies on human nutrition, with particular emphasis on the role of nutrition in the prevention and treatment of disease and on the maintenance and promotion of health, and programs for the dissemination of information respecting human nutrition to health professionals and the public. In carrying out activities under this paragraph, the Secretary shall provide for the coordination of such of these activities as are performed by the different divisions within the Department of Health and Human Services and shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct and support such activities for such entity.
 
 (4) The Secretary shall publish a biennial report which contains—
 
@@ -56,15 +54,85 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 #### (d) Protection of privacy of individuals who are research subjects
 
-The Secretary may authorize persons engaged in biomedical, behavioral, clinical, or other research (including research on mental health, including research on the use and effect of alcohol and other psychoactive drugs) to protect the privacy of individuals who are the subject of such research by withholding from all persons not connected with the conduct of such research the names or other identifying characteristics of such individuals. Persons so authorized to protect the privacy of such individuals may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceedings to identify such individuals.
+(1)(A) If a person is engaged in biomedical, behavioral, clinical, or other research, in which identifiable, sensitive information is collected (including research on mental health and research on the use and effect of alcohol and other psychoactive drugs), the Secretary, in coordination with other agencies, as applicable—
+
+&emsp;(i) shall issue to such person a certificate of confidentiality to protect the privacy of individuals who are the subjects of such research if the research is funded wholly or in part by the Federal Government; and
+
+&emsp;(ii) may, upon application by a person engaged in research, issue to such person a certificate of confidentiality to protect the privacy of such individuals if the research is not so funded.
+
+(B) Except as provided in subparagraph (C), any person to whom a certificate is issued under subparagraph (A) to protect the privacy of individuals described in such subparagraph shall not disclose or provide to any other person not connected with the research the name of such an individual or any information, document, or biospecimen that contains identifiable, sensitive information about such an individual and that was created or compiled for purposes of the research.
+
+(C) The disclosure prohibition in subparagraph (B) shall not apply to disclosure or use that is—
+
+&emsp;(i) required by Federal, State, or local laws, excluding instances described in subparagraph (D);
+
+&emsp;(ii) necessary for the medical treatment of the individual to whom the information, document, or biospecimen pertains and made with the consent of such individual;
+
+&emsp;(iii) made with the consent of the individual to whom the information, document, or biospecimen pertains; or
+
+&emsp;(iv) made for the purposes of other scientific research that is in compliance with applicable Federal regulations governing the protection of human subjects in research.
+
+(D) Any person to whom a certificate is issued under subparagraph (A) to protect the privacy of an individual described in such subparagraph shall not, in any Federal, State, or local civil, criminal, administrative, legislative, or other proceeding, disclose or provide the name of such individual or any such information, document, or biospecimen that contains identifiable, sensitive information about the individual and that was created or compiled for purposes of the research, except in the circumstance described in subparagraph (C)(iii).
+
+(E) Identifiable, sensitive information protected under subparagraph (A), and all copies thereof, shall be immune from the legal process, and shall not, without the consent of the individual to whom the information pertains, be admissible as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceeding.
+
+(F) Identifiable, sensitive information collected by a person to whom a certificate has been issued under subparagraph (A), and all copies thereof, shall be subject to the protections afforded by this section for perpetuity.
+
+(G) The Secretary shall take steps to minimize the burden to researchers, streamline the process, and reduce the time it takes to comply with the requirements of this subsection.
+
+(2) The Secretary shall coordinate with the heads of other applicable Federal agencies to ensure that such departments have policies in place with respect to the issuance of a certificate of confidentiality pursuant to paragraph (1) and other requirements of this subsection.
+
+(3) Nothing in this subsection shall be construed to limit the access of an individual who is a subject of research to information about himself or herself collected during such individual's participation in the research.
+
+(4) For purposes of this subsection, the term "identifiable, sensitive information" means information that is about an individual and that is gathered or used during the course of research described in paragraph (1)(A) and—
+
+&emsp;(A) through which an individual is identified; or
+
+&emsp;(B) for which there is at least a very small risk, as determined by current scientific practices or statistical methods, that some combination of the information, a request for the information, and other available data sources could be used to deduce the identity of an individual.
 
 #### (e) Preterm labor and delivery and infant mortality
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341.)
+#### (f) Exemption of certain biomedical information from disclosure
+
+(1) The Secretary may exempt from disclosure under section 552(b)(3) of title 5 biomedical information that is about an individual and that is gathered or used during the course of biomedical research if—
+
+&emsp;(A) an individual is identified; or
+
+&emsp;(B) there is at least a very small risk, as determined by current scientific practices or statistical methods, that some combination of the information, the request, and other available data sources could be used to deduce the identity of an individual.
+
+(2)(A) Each determination of the Secretary under paragraph (1) to exempt information from disclosure shall be made in writing and accompanied by a statement of the basis for the determination.
+
+(B) Each such determination and statement of basis shall be available to the public, upon request, through the Office of the Chief FOIA Officer of the Department of Health and Human Services.
+
+(3) Nothing in this subsection shall be construed to limit a research participant's access to information about such participant collected during the participant's participation in the research.
+
+#### (g) Inapplicability of Federal information policy
+
+Subchapter I of chapter 35 of title 44 shall not apply to the voluntary collection of information during the conduct of research by the National Institutes of Health.
+
+#### (h) Availability of substances and living organisms for biomedical and behavioral research
+
+(1) The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
+
+(2) Where research substances and living organisms are made available under paragraph (1) through contractors, the Secretary may direct such contractors to collect payments on behalf of the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
+
+(3) Amounts collected under paragraph (2) shall be credited to the appropriations accounts that incurred the costs to make available the research substances and living organisms involved, and shall remain available until expended for carrying out activities under such accounts.
+
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341; Pub. L. 114–255, div. A, title II, §§2012(a), 2013, 2035, 2043, Dec. 13, 2016, 130 Stat. 1049, 1050, 1062, 1074.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, §2043(1), redesignated concluding provisions of subsec. (a) as par. (1) of subsec. (h).
+
+Subsec. (d). Pub. L. 114–255, §2012(a), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary may authorize persons engaged in biomedical, behavioral, clinical, or other research (including research on mental health, including research on the use and effect of alcohol and other psychoactive drugs) to protect the privacy of individuals who are the subject of such research by withholding from all persons not connected with the conduct of such research the names or other identifying characteristics of such individuals. Persons so authorized to protect the privacy of such individuals may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceedings to identify such individuals."
+
+Subsec. (f). Pub. L. 114–255, §2013, added subsec. (f).
+
+Subsec. (g). Pub. L. 114–255, §2035, added subsec. (g).
+
+Subsec. (h). Pub. L. 114–255, §2043, redesignated concluding provisions of subsec. (a) as par. (1) of subsec. (h) and added pars. (2) and (3).
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–450 added subsec. (e).
 
@@ -76,7 +144,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 Subsec. (c). Pub. L. 99–660 added subsec. (c).
 
-<b>1985</b>—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted "as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; andmake, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research" for "as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year".
+<b>1985</b>—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted "as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research" for "as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year".
 
 Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted "recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers" for "recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems".
 
@@ -88,7 +156,7 @@ Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted "recommendations of 
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
-Pub. L. 93–282 substituted "mental health, including research on the use and effect of alcohol and other psychoactive drugs" for "the use and effect of drugs" in former concluding provisions of section 242a(a) of this title. See 1988 Amendment note above.
+Pub. L. 93–282 substituted "mental health, including research on the use and effect of alcohol and otherpsychoactive drugs" for "the use and effect of drugs" in former concluding provisions of section 242a(a) of this title. See 1988 Amendment note above.
 
 Subsecs. (e), (f). Pub. L. 93–348, §104(a)(1)(C), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
 
@@ -136,7 +204,7 @@ Sections 261 and 262 of Pub. L. 95–622 provided that the amendments made by th
 
 #### Effective Date of 1974 Amendment
 
-Section 104(b) of Pub. L. 93–348 provided that: "The amendments made by subsection (a) \[amending this section and sections 242a, 282, 286a, 286b, 287a, 287b, 287d,288a, 289c, 289c–1, 289g, 289k, and heading preceding section 289l of this title\] shall not apply with respect to commitments made before the date of the enactment of this Act \[July 12, 1974\] by the Secretary of Health, Education, and Welfare for research training under the provisions of the Public Health Service Act amended or repealed by subsection (a)."
+Section 104(b) of Pub. L. 93–348 provided that: "The amendments made by subsection (a) \[amending this section and sections 242a, 282, 286a, 286b, 287a, 287b, 287d, 288a, 289c, 289c–1, 289g, 289k, and heading preceding section 289l of this title\] shall not apply with respect to commitments made before the date of the enactment of this Act \[July 12, 1974\] by the Secretary of Health, Education, and Welfare for research training under the provisions of the Public Health Service Act amended or repealed by subsection (a)."
 
 #### Effective Date of 1972 Amendment
 
@@ -145,6 +213,10 @@ Amendment by Pub. L. 92–423 effective 60 days after Sept. 19, 1972, or on such
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such prior date after Dec. 23, 1971, as the President shall prescribe and publish in the Federal Register, see section 7 of Pub. L. 92–218, set out as a note under section 218 of this title.
+
+#### Applicability of 2016 Amendment
+
+Pub. L. 114–255, div. A, title II, §2012(b), Dec. 13, 2016, 130 Stat. 1050, provided that: "Beginning 180 days after the date of enactment of this Act \[Dec. 13, 2016\], all persons engaged in research and authorized by the Secretary of Health and Human Services to protect information under section 301(d) of the Public Health Service Act (42 U.S.C. 241(d)) prior to the date of enactment of this Act shall be subject to the requirements of such section (as amended by this Act)."
 
 #### Coordination of Data Surveys and Reports
 
@@ -220,7 +292,7 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Executive Order No. 13435
 
-Ex. Ord. No. 13435, June 20, 2007, 72 F.R. 34591, which directed research with stem cells not derived from the creation or destruction of a human embryo or fetus, was revoked by Ex. Ord. No. 13505, §5(b), Mar. 9, 2009, 74 F.R. 10668, set out below.
+Ex. Ord. No. 13435, June 20, 2007, 72 F.R. 34591, which directed research with stem cells not derived from thecreation or destruction of a human embryo or fetus, was revoked by Ex. Ord. No. 13505, §5(b), Mar. 9, 2009, 74 F.R. 10668, set out below.
 
 #### Ex. Ord. No. 13505. Removing Barriers to Responsible Scientific Research Involving Human Stem Cells
 
@@ -260,7 +332,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 As outlined in Executive Order 13505 of March 9, 2009, my Administration is committed to supporting and conducting ethically responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law. Pursuant to that order, the National Institutes of Health (NIH) published final "National Institutes of Health Guidelines for Human Stem Cell Research" (Guidelines), effective July 7, 2009. These Guidelines apply to the expenditure of NIH funds for research using human embryonic stem cells and certain uses of human induced pluripotent stem cells. The Guidelines are based on the principles that responsible research with human embryonic stem cells has the potential to improve our understanding of human biology and aid in the discovery of new ways to prevent and treat illness, and that individuals donating embryos for research purposes should do so freely, with voluntary and informed consent. These Guidelines will ensure that NIH-funded research adheres to the highest ethical standards.
 
-In order to ensure that all federally funded human stem cell research is conducted according to thesesame principles and to promote a uniform Federal policy across the executive branch, I hereby direct the heads of executive departments and agencies that support and conduct stem cell research to adopt these Guidelines, to the fullest extent practicable in light of legal authorities and obligations. I also direct those departments and agencies to submit to the Director of the Office of Management and Budget (OMB), within 90 days, proposed additions or revisions to any other guidance, policies, or procedures related to human stem cell research, consistent with Executive Order 13505 and this memorandum. The Director of the OMB shall, in coordination with the Director of NIH, review these proposals to ensure consistent implementation of Executive Order 13505 and this memorandum.
+In order to ensure that all federally funded human stem cell research is conducted according to these same principles and to promote a uniform Federal policy across the executive branch, I hereby direct the heads of executive departments and agencies that support and conduct stem cell research to adopt these Guidelines, to the fullest extent practicable in light of legal authorities and obligations. I also direct those departments and agencies to submit to the Director of the Office of Management and Budget (OMB), within 90 days, proposed additions or revisions to any other guidance, policies, or procedures related to human stem cell research, consistent with Executive Order 13505 and this memorandum. The Director of the OMB shall, in coordination with the Director of NIH, review these proposals to ensure consistent implementation of Executive Order 13505 and this memorandum.
 
 This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law and consistent with their statutory and regulatory authorities and their enforcement mechanisms.
 

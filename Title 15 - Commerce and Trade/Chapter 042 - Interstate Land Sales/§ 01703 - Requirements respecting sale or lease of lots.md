@@ -2,7 +2,7 @@
 
 #### (a) Prohibited activities
 
-It shall be unlawful for any developer or agent, directly or indirectly, to make use of anymeans or instruments of transportation or communication in interstate commerce, or of the mails—
+It shall be unlawful for any developer or agent, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce, or of the mails—
 
 &emsp;(1) with respect to the sale or lease of any lot not exempt under section 1702 of this title—
 
@@ -26,7 +26,7 @@ It shall be unlawful for any developer or agent, directly or indirectly, to make
 
 #### (b) Revocation of nonexempt contract or agreement at option of purchaser or lessee; time limit
 
-Any contract or agreement for the sale or lease of a lot not exempt under section 1702 of this title may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws, and such contract or agreement shall clearly provide this right.
+Any contract or agreement for the sale or lease of a lot not exempt under section 1702 of this title may be revoked at the option of thepurchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws, and such contract or agreement shall clearly provide this right.
 
 #### (c) Revocation of contract or agreement at option of purchaser or lessee where required property report not supplied
 
@@ -46,7 +46,7 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 #### (e) Repayment of purchaser or lessee upon revocation of all money paid under contract or agreement to seller or lessor
 
-If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or herrights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
+If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
 (Pub. L. 90–448, title XIV, §1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93–383, title VIII, §812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96–153, title IV, §403, Dec. 21, 1979, 93 Stat. 1127.)
 
@@ -67,4 +67,8 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 #### Effective Date of 1974 Amendment
 
 Pub. L. 93–383, title VIII, §812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\]."
+
+#### Effective Date
+
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 

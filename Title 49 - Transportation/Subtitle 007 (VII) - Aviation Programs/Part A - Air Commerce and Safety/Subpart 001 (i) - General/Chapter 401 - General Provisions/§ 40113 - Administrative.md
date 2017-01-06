@@ -120,7 +120,7 @@ Subsec. (e)(2). Pub. L. 112–95, §207(2), inserted at end "The Administrator i
 
 Subsec. (e)(3). Pub. L. 112–95, §207(3), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Funds received by the Administrator pursuant to this section shall be credited to the appropriation from which the expenses were incurred in providing such services."
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" before "the Administrator of the Federal Aviation Administration" and substituted ", Under Secretary, or Administrator" for "or Administrator".
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted "the Under Secretary of Transportation for Securitywith respect to security duties and powers designated to be carried out by the Under Secretary or" before "the Administrator of the Federal Aviation Administration" and substituted ", Under Secretary, or Administrator" for "or Administrator".
 
 Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted "Under Secretary of Transportation for Security or the" after "The" and substituted "employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be," for "employee of the Administration" and "the Under Secretary or Administrator, as the case may be, decides" for "the Administrator decides".
 

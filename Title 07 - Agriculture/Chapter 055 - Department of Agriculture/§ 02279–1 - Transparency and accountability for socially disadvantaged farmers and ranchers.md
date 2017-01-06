@@ -14,7 +14,7 @@ In this section, the term "socially disadvantaged farmer or rancher" has the mea
 
 &emsp;For each county and State in the United States, the Secretary of Agriculture (referred to in this section as the "Secretary") shall annually compile program application and participation rate data regarding socially disadvantaged farmers or ranchers by computing for each program of the Department of Agriculture that serves agricultural producers and landowners—
 
-&emsp;&emsp;(A) raw numbers of applicants and participants by race, ethnicity, and gender, subjectto appropriate privacy protections, as determined by the Secretary; and
+&emsp;&emsp;(A) raw numbers of applicants and participants by race, ethnicity, and gender, subject to appropriate privacy protections, as determined by the Secretary; and
 
 &emsp;&emsp;(B) the application and participation rate, by race, ethnicity, and gender, as a percentage of the total participation rate of all agricultural producers and landowners.
 
@@ -62,7 +62,7 @@ In any case in which a current or prospective producer or landowner, in person o
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

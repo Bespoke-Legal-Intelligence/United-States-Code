@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title39",
- "package": "USCODE-2015-title39",
+ "package": "USCODE-2016-title39",
  "pieces": [
   {
    "id": "39_",
@@ -370,14 +370,10 @@
      true
     ],
     [
-     "I",
-     56,
-     [
-      [
-       115,
-       "[Page 19]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 19]",
+     true
     ]
    ],
    "path": "Part 001 (I) - General/Chapter 004 - General Authority/§ 00407 - International postal arrangements.md",
@@ -400,19 +396,15 @@
    "marks": [
     [
      "L",
-     34,
+     32,
      "[Page 20]",
      true
     ],
     [
-     "I",
-     100,
-     [
-      [
-       118,
-       "[Page 21]"
-      ]
-     ]
+     "L",
+     80,
+     "[Page 21]",
+     true
     ]
    ],
    "path": "Part 001 (I) - General/Chapter 004 - General Authority/§ 00409 - Suits by and against the Postal Service.md",
@@ -426,17 +418,17 @@
    "marks": [
     [
      "I",
-     52,
+     46,
      [
       [
-       105,
+       569,
        "[Page 22]"
       ]
      ]
     ],
     [
      "L",
-     136,
+     124,
      "[Page 23]",
      true
     ]
@@ -461,10 +453,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       367,
+       90,
        "[Page 24]"
       ]
      ]
@@ -490,10 +482,10 @@
    "marks": [
     [
      "I",
-     38,
+     32,
      [
       [
-       91,
+       268,
        "[Page 25]"
       ]
      ]
@@ -507,11 +499,18 @@
   },
   {
    "id": "39_415",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 26]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - General/Chapter 004 - General Authority/§ 00415 - Prohibition on restriction or elimination of services.md",
    "printed_pages": [
     25,
-    25
+    26
    ]
   },
   {
@@ -519,34 +518,20 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 26]",
+     104,
+     "[Page 27]",
      true
     ],
     [
-     "I",
-     108,
-     [
-      [
-       223,
-       "[Page 27]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     226,
-     [
-      [
-       104,
-       "[Page 28]"
-      ]
-     ]
+     "L",
+     222,
+     "[Page 28]",
+     true
     ]
    ],
    "path": "Part 001 (I) - General/Chapter 004 - General Authority/§ 00416 - Authority to issue semipostals.md",
    "printed_pages": [
-    25,
+    26,
     28
    ]
   },
@@ -563,14 +548,10 @@
    "id": "39_501",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       157,
-       "[Page 29]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 29]",
+     true
     ]
    ],
    "path": "Part 001 (I) - General/Chapter 005 - Postal Regulatory Commission/§ 00501 - Establishment.md",
@@ -593,10 +574,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       97,
+       137,
        "[Page 30]"
       ]
      ]
@@ -613,10 +594,10 @@
    "marks": [
     [
      "I",
-     38,
+     36,
      [
       [
-       281,
+       135,
        "[Page 31]"
       ]
      ]
@@ -630,30 +611,30 @@
   },
   {
    "id": "39_505",
-   "marks": [],
-   "path": "Part 001 (I) - General/Chapter 005 - Postal Regulatory Commission/§ 00505 - Officer of the Postal Regulatory Commission representing the general public.md",
-   "printed_pages": [
-    31,
-    31
-   ]
-  },
-  {
-   "id": "39_-ptI-ch6",
    "marks": [
     [
      "I",
-     5,
+     2,
      [
       [
-       43,
+       88,
        "[Page 32]"
       ]
      ]
     ]
    ],
-   "path": "Part 001 (I) - General/Chapter 006 - Private Carriage of Letters/README.md",
+   "path": "Part 001 (I) - General/Chapter 005 - Postal Regulatory Commission/§ 00505 - Officer of the Postal Regulatory Commission representing the general public.md",
    "printed_pages": [
     31,
+    32
+   ]
+  },
+  {
+   "id": "39_-ptI-ch6",
+   "marks": [],
+   "path": "Part 001 (I) - General/Chapter 006 - Private Carriage of Letters/README.md",
+   "printed_pages": [
+    32,
     32
    ]
   },
@@ -688,10 +669,14 @@
    "id": "39_604",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 33]",
-     true
+     "I",
+     2,
+     [
+      [
+       279,
+       "[Page 33]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - General/Chapter 006 - Private Carriage of Letters/§ 00604 - Seizing and detaining letters.md",
@@ -741,7 +726,7 @@
    "marks": [
     [
      "L",
-     40,
+     36,
      "[Page 34]",
      true
     ]
@@ -756,10 +741,14 @@
    "id": "39_1002",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 35]",
-     true
+     "I",
+     16,
+     [
+      [
+       87,
+       "[Page 35]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Personnel/Chapter 010 - Employment Within the Postal Service/§ 01002 - Political recommendations.md",
@@ -772,10 +761,14 @@
    "id": "39_1003",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 36]",
-     true
+     "I",
+     18,
+     [
+      [
+       117,
+       "[Page 36]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Personnel/Chapter 010 - Employment Within the Postal Service/§ 01003 - Employment policy.md",
@@ -788,21 +781,17 @@
    "id": "39_1004",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       95,
-       "[Page 37]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 37]",
+     true
     ],
     [
      "I",
-     72,
+     66,
      [
       [
-       131,
+       140,
        "[Page 38]"
       ]
      ]
@@ -819,19 +808,23 @@
    "marks": [
     [
      "I",
-     30,
+     26,
      [
       [
-       95,
+       145,
        "[Page 39]"
       ]
      ]
     ],
     [
-     "L",
-     86,
-     "[Page 40]",
-     true
+     "I",
+     80,
+     [
+      [
+       114,
+       "[Page 40]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Personnel/Chapter 010 - Employment Within the Postal Service/§ 01005 - Applicability of laws relating to Federal employees.md",
@@ -871,10 +864,14 @@
    "id": "39_1009",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 41]",
-     true
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 41]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Personnel/Chapter 010 - Employment Within the Postal Service/§ 01009 - Personnel not to receive fees.md",
@@ -915,10 +912,10 @@
    "marks": [
     [
      "I",
-     34,
+     30,
      [
       [
-       126,
+       706,
        "[Page 42]"
       ]
      ]
@@ -950,30 +947,30 @@
   },
   {
    "id": "39_1204",
-   "marks": [],
-   "path": "Part 002 (II) - Personnel/Chapter 012 - Employee-Management Agreements/§ 01204 - Elections.md",
-   "printed_pages": [
-    42,
-    42
-   ]
-  },
-  {
-   "id": "39_1205",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       92,
+       190,
        "[Page 43]"
       ]
      ]
     ]
    ],
-   "path": "Part 002 (II) - Personnel/Chapter 012 - Employee-Management Agreements/§ 01205 - Deductions of dues.md",
+   "path": "Part 002 (II) - Personnel/Chapter 012 - Employee-Management Agreements/§ 01204 - Elections.md",
    "printed_pages": [
     42,
+    43
+   ]
+  },
+  {
+   "id": "39_1205",
+   "marks": [],
+   "path": "Part 002 (II) - Personnel/Chapter 012 - Employee-Management Agreements/§ 01205 - Deductions of dues.md",
+   "printed_pages": [
+    43,
     43
    ]
   },
@@ -994,7 +991,7 @@
      12,
      [
       [
-       645,
+       90,
        "[Page 44]"
       ]
      ]
@@ -1035,26 +1032,26 @@
   },
   {
    "id": "39_-ptIII-ch20",
-   "marks": [],
-   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/README.md",
-   "printed_pages": [
-    44,
-    44
-   ]
-  },
-  {
-   "id": "39_2001",
    "marks": [
     [
      "L",
-     6,
+     25,
      "[Page 45]",
      true
     ]
    ],
-   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02001 - Definitions.md",
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/README.md",
    "printed_pages": [
     44,
+    45
+   ]
+  },
+  {
+   "id": "39_2001",
+   "marks": [],
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02001 - Definitions.md",
+   "printed_pages": [
+    45,
     45
    ]
   },
@@ -1062,10 +1059,14 @@
    "id": "39_2002",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 46]",
-     true
+     "I",
+     40,
+     [
+      [
+       109,
+       "[Page 46]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02002 - Capital of the Postal Service.md",
@@ -1079,19 +1080,23 @@
    "marks": [
     [
      "I",
-     38,
+     34,
      [
       [
-       213,
+       472,
        "[Page 47]"
       ]
      ]
     ],
     [
-     "L",
-     130,
-     "[Page 48]",
-     true
+     "I",
+     116,
+     [
+      [
+       343,
+       "[Page 48]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02003 - The Postal Service Fund.md",
@@ -1113,10 +1118,14 @@
    "id": "39_2005",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 49]",
-     true
+     "I",
+     20,
+     [
+      [
+       190,
+       "[Page 49]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02005 - Obligations.md",
@@ -1129,10 +1138,14 @@
    "id": "39_2006",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 50]",
-     true
+     "I",
+     8,
+     [
+      [
+       96,
+       "[Page 50]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02006 - Relationship between the Treasury and the Postal Service.md",
@@ -1163,10 +1176,14 @@
    "id": "39_2009",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 51]",
-     true
+     "I",
+     12,
+     [
+      [
+       217,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02009 - Annual budget.md",
@@ -1197,20 +1214,20 @@
    "id": "39_2011",
    "marks": [
     [
+     "L",
+     20,
+     "[Page 52]",
+     true
+    ],
+    [
      "I",
-     22,
+     84,
      [
       [
        133,
-       "[Page 52]"
+       "[Page 53]"
       ]
      ]
-    ],
-    [
-     "L",
-     92,
-     "[Page 53]",
-     true
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 020 - Finance/§ 02011 - Provisions relating to competitive products.md",
@@ -1251,33 +1268,25 @@
    "marks": [
     [
      "I",
-     20,
+     6,
      [
       [
-       92,
+       144,
        "[Page 54]"
       ]
      ]
     ],
     [
-     "I",
-     58,
-     [
-      [
-       120,
-       "[Page 55]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 55]",
+     true
     ],
     [
-     "I",
-     116,
-     [
-      [
-       110,
-       "[Page 56]"
-      ]
-     ]
+     "L",
+     108,
+     "[Page 56]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 024 - Appropriations and Annual Report/§ 02401 - Appropriations.md",
@@ -1306,26 +1315,26 @@
   },
   {
    "id": "39_2601",
-   "marks": [],
-   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 026 - Debts and Collection/§ 02601 - Collection and adjustment of debts.md",
-   "printed_pages": [
-    56,
-    56
-   ]
-  },
-  {
-   "id": "39_2602",
    "marks": [
     [
      "L",
-     6,
+     30,
      "[Page 57]",
      true
     ]
    ],
-   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 026 - Debts and Collection/§ 02602 - Transportation of international mail by air carriers of the United States.md",
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 026 - Debts and Collection/§ 02601 - Collection and adjustment of debts.md",
    "printed_pages": [
     56,
+    57
+   ]
+  },
+  {
+   "id": "39_2602",
+   "marks": [],
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 026 - Debts and Collection/§ 02602 - Transportation of international mail by air carriers of the United States.md",
+   "printed_pages": [
+    57,
     57
    ]
   },
@@ -1367,26 +1376,26 @@
   },
   {
    "id": "39_2801",
-   "marks": [],
-   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 028 - Strategic Planning and Performance Management/§ 02801 - Definitions.md",
-   "printed_pages": [
-    57,
-    57
-   ]
-  },
-  {
-   "id": "39_2802",
    "marks": [
     [
      "L",
-     4,
+     18,
      "[Page 58]",
      true
     ]
    ],
-   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 028 - Strategic Planning and Performance Management/§ 02802 - Strategic plans.md",
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 028 - Strategic Planning and Performance Management/§ 02801 - Definitions.md",
    "printed_pages": [
     57,
+    58
+   ]
+  },
+  {
+   "id": "39_2802",
+   "marks": [],
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 028 - Strategic Planning and Performance Management/§ 02802 - Strategic plans.md",
+   "printed_pages": [
+    58,
     58
    ]
   },
@@ -1395,7 +1404,7 @@
    "marks": [
     [
      "L",
-     30,
+     20,
      "[Page 59]",
      true
     ]
@@ -1425,12 +1434,50 @@
    ]
   },
   {
+   "id": "39_-ptIII-ch29",
+   "marks": [],
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 029 - Property Management/README.md",
+   "printed_pages": [
+    59,
+    59
+   ]
+  },
+  {
+   "id": "39_2901",
+   "marks": [],
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 029 - Property Management/§ 02901 - Definitions.md",
+   "printed_pages": [
+    59,
+    59
+   ]
+  },
+  {
+   "id": "39_2902",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       101,
+       "[Page 60]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 003 (III) - Modernization and Fiscal Administration/Chapter 029 - Property Management/§ 02902 - Property management.md",
+   "printed_pages": [
+    59,
+    60
+   ]
+  },
+  {
    "id": "39_-ptIV",
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/README.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
@@ -1438,49 +1485,51 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/README.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
    "id": "39_3001",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 60]",
-     true
+     "I",
+     22,
+     [
+      [
+       99,
+       "[Page 61]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       93,
+       "[Page 62]"
+      ]
+     ]
     ],
     [
      "L",
-     54,
-     "[Page 61]",
-     true
-    ],
-    [
-     "L",
-     110,
-     "[Page 62]",
-     true
-    ],
-    [
-     "L",
-     190,
+     124,
      "[Page 63]",
      true
     ],
     [
      "L",
-     264,
+     192,
      "[Page 64]",
      true
     ],
     [
      "I",
-     330,
+     276,
      [
       [
-       651,
+       102,
        "[Page 65]"
       ]
      ]
@@ -1488,17 +1537,28 @@
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03001 - Nonmailable matter.md",
    "printed_pages": [
-    59,
+    60,
     65
    ]
   },
   {
    "id": "39_3002",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       231,
+       "[Page 66]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03002 - Nonmailable motor vehicle master keys.md",
    "printed_pages": [
     65,
-    65
+    66
    ]
   },
   {
@@ -1506,8 +1566,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03002a - Nonmailability of locksmithing devices.md",
    "printed_pages": [
-    65,
-    65
+    66,
+    66
    ]
   },
   {
@@ -1515,8 +1575,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03003 - Mail bearing a fictitious name or address.md",
    "printed_pages": [
-    65,
-    65
+    66,
+    66
    ]
   },
   {
@@ -1524,8 +1584,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03004 - Delivery of mail to persons not residents of the place of address.md",
    "printed_pages": [
-    65,
-    65
+    66,
+    66
    ]
   },
   {
@@ -1533,360 +1593,11 @@
    "marks": [
     [
      "I",
-     12,
-     [
-      [
-       137,
-       "[Page 66]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       106,
-       "[Page 67]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03005 - False representations; lotteries.md",
-   "printed_pages": [
-    65,
-    67
-   ]
-  },
-  {
-   "id": "39_[3006",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03006 - Repealed. Pub. L. 106–168, title I, §105(b)(1), Dec. 12, 1999, 113 Stat. 1811.md",
-   "printed_pages": [
-    67,
-    67
-   ]
-  },
-  {
-   "id": "39_3007",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03007 - Detention of mail for temporary periods.md",
-   "printed_pages": [
-    67,
-    67
-   ]
-  },
-  {
-   "id": "39_3008",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       237,
-       "[Page 68]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03008 - Prohibition of pandering advertisements.md",
-   "printed_pages": [
-    67,
-    68
-   ]
-  },
-  {
-   "id": "39_3009",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03009 - Mailing of unordered merchandise.md",
-   "printed_pages": [
-    68,
-    68
-   ]
-  },
-  {
-   "id": "39_3010",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       105,
-       "[Page 69]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03010 - Mailing of sexually oriented advertisements.md",
-   "printed_pages": [
-    68,
-    69
-   ]
-  },
-  {
-   "id": "39_3011",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03011 - Judicial enforcement.md",
-   "printed_pages": [
-    69,
-    69
-   ]
-  },
-  {
-   "id": "39_3012",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 70]",
-     true
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03012 - Civil penalties.md",
-   "printed_pages": [
-    69,
-    70
-   ]
-  },
-  {
-   "id": "39_3013",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       94,
-       "[Page 71]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03013 - Semiannual reports on investigative activities of the Postal Service.md",
-   "printed_pages": [
-    70,
-    71
-   ]
-  },
-  {
-   "id": "39_3014",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 72]",
-     true
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03014 - Nonmailable plants.md",
-   "printed_pages": [
-    71,
-    72
-   ]
-  },
-  {
-   "id": "39_3015",
-   "marks": [
-    [
-     "I",
-     112,
-     [
-      [
-       100,
-       "[Page 73]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03015 - Nonmailable plant pests and injurious animals.md",
-   "printed_pages": [
-    72,
-    73
-   ]
-  },
-  {
-   "id": "39_3016",
-   "marks": [
-    [
-     "I",
-     52,
-     [
-      [
-       141,
-       "[Page 74]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03016 - Administrative subpoenas.md",
-   "printed_pages": [
-    73,
-    74
-   ]
-  },
-  {
-   "id": "39_3017",
-   "marks": [
-    [
-     "I",
-     66,
-     [
-      [
-       217,
-       "[Page 75]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03017 - Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings.md",
-   "printed_pages": [
-    74,
-    75
-   ]
-  },
-  {
-   "id": "39_3018",
-   "marks": [
-    [
-     "L",
-     40,
-     "[Page 76]",
-     true
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03018 - Hazardous material.md",
-   "printed_pages": [
-    75,
-    76
-   ]
-  },
-  {
-   "id": "39_-ptIV-ch32",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/README.md",
-   "printed_pages": [
-    76,
-    76
-   ]
-  },
-  {
-   "id": "39_3201",
-   "marks": [
-    [
-     "L",
      16,
-     "[Page 77]",
-     true
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03201 - Definitions.md",
-   "printed_pages": [
-    76,
-    77
-   ]
-  },
-  {
-   "id": "39_3202",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03202 - Penalty mail.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "39_3203",
-   "marks": [
-    [
-     "I",
-     2,
      [
       [
-       91,
-       "[Page 78]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03203 - Endorsements on penalty covers.md",
-   "printed_pages": [
-    77,
-    78
-   ]
-  },
-  {
-   "id": "39_3204",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03204 - Restrictions on use of penalty mail.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "39_3205",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03205 - Accounting for penalty covers.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "39_3206",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03206 - Reimbursement for penalty mail service.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "39_3207",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 79]",
-     true
-    ]
-   ],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03207 - Limit of weight of penalty mail; postage on overweight matter.md",
-   "printed_pages": [
-    78,
-    79
-   ]
-  },
-  {
-   "id": "39_3208",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03208 - Shipment by most economical means.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "39_3209",
-   "marks": [],
-   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03209 - Executive departments to supply information.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "39_3210",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       181,
-       "[Page 80]"
+       480,
+       "[Page 67]"
       ]
      ]
     ],
@@ -1895,28 +1606,373 @@
      76,
      [
       [
-       372,
+       107,
+       "[Page 68]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03005 - False representations; lotteries.md",
+   "printed_pages": [
+    66,
+    68
+   ]
+  },
+  {
+   "id": "39_[3006",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03006 - Repealed. Pub. L. 106–168, title I, §105(b)(1), Dec. 12, 1999, 113 Stat. 1811.md",
+   "printed_pages": [
+    68,
+    68
+   ]
+  },
+  {
+   "id": "39_3007",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03007 - Detention of mail for temporary periods.md",
+   "printed_pages": [
+    68,
+    68
+   ]
+  },
+  {
+   "id": "39_3008",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 69]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03008 - Prohibition of pandering advertisements.md",
+   "printed_pages": [
+    68,
+    69
+   ]
+  },
+  {
+   "id": "39_3009",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03009 - Mailing of unordered merchandise.md",
+   "printed_pages": [
+    69,
+    69
+   ]
+  },
+  {
+   "id": "39_3010",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       212,
+       "[Page 70]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03010 - Mailing of sexually oriented advertisements.md",
+   "printed_pages": [
+    69,
+    70
+   ]
+  },
+  {
+   "id": "39_3011",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03011 - Judicial enforcement.md",
+   "printed_pages": [
+    70,
+    70
+   ]
+  },
+  {
+   "id": "39_3012",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       138,
+       "[Page 71]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03012 - Civil penalties.md",
+   "printed_pages": [
+    70,
+    71
+   ]
+  },
+  {
+   "id": "39_3013",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 72]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03013 - Semiannual reports on investigative activities of the Postal Service.md",
+   "printed_pages": [
+    71,
+    72
+   ]
+  },
+  {
+   "id": "39_3014",
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 73]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03014 - Nonmailable plants.md",
+   "printed_pages": [
+    72,
+    73
+   ]
+  },
+  {
+   "id": "39_3015",
+   "marks": [
+    [
+     "L",
+     130,
+     "[Page 74]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03015 - Nonmailable plant pests and injurious animals.md",
+   "printed_pages": [
+    73,
+    74
+   ]
+  },
+  {
+   "id": "39_3016",
+   "marks": [
+    [
+     "L",
+     70,
+     "[Page 75]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03016 - Administrative subpoenas.md",
+   "printed_pages": [
+    74,
+    75
+   ]
+  },
+  {
+   "id": "39_3017",
+   "marks": [
+    [
+     "I",
+     86,
+     [
+      [
+       79,
+       "[Page 76]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03017 - Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings.md",
+   "printed_pages": [
+    75,
+    76
+   ]
+  },
+  {
+   "id": "39_3018",
+   "marks": [
+    [
+     "L",
+     62,
+     "[Page 77]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 030 - Nonmailable Matter/§ 03018 - Hazardous material.md",
+   "printed_pages": [
+    76,
+    77
+   ]
+  },
+  {
+   "id": "39_-ptIV-ch32",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/README.md",
+   "printed_pages": [
+    77,
+    77
+   ]
+  },
+  {
+   "id": "39_3201",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03201 - Definitions.md",
+   "printed_pages": [
+    77,
+    77
+   ]
+  },
+  {
+   "id": "39_3202",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 78]",
+     true
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03202 - Penalty mail.md",
+   "printed_pages": [
+    77,
+    78
+   ]
+  },
+  {
+   "id": "39_3203",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03203 - Endorsements on penalty covers.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "39_3204",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       141,
+       "[Page 79]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03204 - Restrictions on use of penalty mail.md",
+   "printed_pages": [
+    78,
+    79
+   ]
+  },
+  {
+   "id": "39_3205",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03205 - Accounting for penalty covers.md",
+   "printed_pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "id": "39_3206",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03206 - Reimbursement for penalty mail service.md",
+   "printed_pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "id": "39_3207",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03207 - Limit of weight of penalty mail; postage on overweight matter.md",
+   "printed_pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "id": "39_3208",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       175,
+       "[Page 80]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03208 - Shipment by most economical means.md",
+   "printed_pages": [
+    79,
+    80
+   ]
+  },
+  {
+   "id": "39_3209",
+   "marks": [],
+   "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03209 - Executive departments to supply information.md",
+   "printed_pages": [
+    80,
+    80
+   ]
+  },
+  {
+   "id": "39_3210",
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       134,
        "[Page 81]"
       ]
      ]
     ],
     [
-     "L",
-     128,
-     "[Page 82]",
-     true
+     "I",
+     78,
+     [
+      [
+       500,
+       "[Page 82]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     132,
+     [
+      [
+       442,
+       "[Page 83]"
+      ]
+     ]
     ],
     [
      "L",
-     200,
-     "[Page 83]",
+     208,
+     "[Page 84]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03210 - Franked mail transmitted by the Vice President, Members of Congress, and congressional officials.md",
    "printed_pages": [
-    79,
-    83
+    80,
+    84
    ]
   },
   {
@@ -1924,33 +1980,33 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03211 - Public documents.md",
    "printed_pages": [
-    83,
-    83
+    84,
+    84
    ]
   },
   {
    "id": "39_3212",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 84]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03212 - Congressional Record under frank of Members of Congress.md",
    "printed_pages": [
-    83,
+    84,
     84
    ]
   },
   {
    "id": "39_3213",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 85]",
+     true
+    ]
+   ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03213 - Seeds and reports from Department of Agriculture.md",
    "printed_pages": [
     84,
-    84
+    85
    ]
   },
   {
@@ -1958,8 +2014,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03214 - Mailing privilege of former President; surviving spouse of former President.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
@@ -1967,8 +2023,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03215 - Lending or permitting use of frank unlawful.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
@@ -1976,30 +2032,35 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 85]",
-     true
-    ],
-    [
-     "L",
-     70,
+     18,
      "[Page 86]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03216 - Reimbursement for franked mailings.md",
    "printed_pages": [
-    84,
+    85,
     86
    ]
   },
   {
    "id": "39_3217",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       418,
+       "[Page 87]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03217 - Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain.md",
    "printed_pages": [
     86,
-    86
+    87
    ]
   },
   {
@@ -2007,8 +2068,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03218 - Franked mail for survivors of Members of Congress.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
@@ -2016,24 +2077,28 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03219 - Mailgrams.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
    "id": "39_3220",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 87]",
-     true
+     "I",
+     26,
+     [
+      [
+       177,
+       "[Page 88]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 032 - Penalty and Franked Mail/§ 03220 - Use of official mail in the location and recovery of missing children.md",
    "printed_pages": [
-    86,
-    87
+    87,
+    88
    ]
   },
   {
@@ -2041,8 +2106,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/README.md",
    "printed_pages": [
-    87,
-    87
+    88,
+    88
    ]
   },
   {
@@ -2050,26 +2115,20 @@
    "marks": [
     [
      "I",
-     20,
+     22,
      [
       [
-       99,
-       "[Page 88]"
+       105,
+       "[Page 89]"
       ]
      ]
     ],
     [
-     "L",
-     60,
-     "[Page 89]",
-     true
-    ],
-    [
      "I",
-     134,
+     62,
      [
       [
-       219,
+       112,
        "[Page 90]"
       ]
      ]
@@ -2077,17 +2136,24 @@
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/§ 03401 - Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations.md",
    "printed_pages": [
-    87,
+    88,
     90
    ]
   },
   {
    "id": "39_[3402",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 91]",
+     true
+    ]
+   ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/§ 03402 - Repealed. Pub. L. 96–70, title I, §1331(e)(3)(A), Sept. 27, 1979, 93 Stat. 482.md",
    "printed_pages": [
     90,
-    90
+    91
    ]
   },
   {
@@ -2095,8 +2161,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/§ 03403 - Matter for blind and other handicapped persons.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
@@ -2104,8 +2170,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/§ 03404 - Unsealed letters sent by blind or physically handicapped persons.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
@@ -2113,8 +2179,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/§ 03405 - Markings.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
@@ -2122,8 +2188,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 034 - Armed Forces and Free Postage/§ 03406 - Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
@@ -2131,19 +2197,19 @@
    "marks": [
     [
      "I",
-     38,
+     59,
      [
       [
-       49,
-       "[Page 91]"
+       39,
+       "[Page 92]"
       ]
      ]
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/README.md",
    "printed_pages": [
-    90,
-    91
+    91,
+    92
    ]
   },
   {
@@ -2151,8 +2217,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/README.md",
    "printed_pages": [
-    91,
-    91
+    92,
+    92
    ]
   },
   {
@@ -2160,8 +2226,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03621 - Applicability; definitions.md",
    "printed_pages": [
-    91,
-    91
+    92,
+    92
    ]
   },
   {
@@ -2169,31 +2235,27 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 92]",
-     true
-    ],
-    [
-     "L",
-     94,
+     32,
      "[Page 93]",
      true
     ],
     [
-     "I",
-     186,
-     [
-      [
-       370,
-       "[Page 94]"
-      ]
-     ]
+     "L",
+     106,
+     "[Page 94]",
+     true
+    ],
+    [
+     "L",
+     194,
+     "[Page 95]",
+     true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03622 - Modern rate regulation.md",
    "printed_pages": [
-    91,
-    94
+    92,
+    95
    ]
   },
   {
@@ -2201,8 +2263,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03623 to 3625 - Repealed. Pub. L. 109–435, title II, §201(b), Dec. 20, 2006, 120 Stat. 3205.md",
    "printed_pages": [
-    94,
-    94
+    95,
+    95
    ]
   },
   {
@@ -2210,65 +2272,61 @@
    "marks": [
     [
      "I",
-     34,
+     40,
      [
       [
-       99,
-       "[Page 95]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     80,
-     [
-      [
-       360,
+       138,
        "[Page 96]"
       ]
      ]
     ],
     [
      "I",
-     124,
+     84,
      [
       [
-       157,
+       365,
        "[Page 97]"
       ]
      ]
     ],
     [
+     "I",
+     128,
+     [
+      [
+       620,
+       "[Page 98]"
+      ]
+     ]
+    ],
+    [
      "L",
-     194,
-     "[Page 98]",
+     208,
+     "[Page 99]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03626 - Reduced rates.md",
    "printed_pages": [
-    94,
-    98
+    95,
+    99
    ]
   },
   {
    "id": "39_3627",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       157,
-       "[Page 99]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 100]",
+     true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03627 - Adjusting free rates.md",
    "printed_pages": [
-    98,
-    99
+    99,
+    100
    ]
   },
   {
@@ -2276,8 +2334,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03628 - Repealed. Pub. L. 109–435, title II, §201(b), Dec. 20, 2006, 120 Stat. 3205.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
@@ -2285,8 +2343,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 001 (I) - Provisions Relating to Market-Dominant Products/§ 03629 - Reduced rates for voter registration purposes.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
@@ -2294,8 +2352,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 002 (II) - Provisions Relating to Competitive Products/README.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
@@ -2303,33 +2361,37 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 002 (II) - Provisions Relating to Competitive Products/§ 03631 - Applicability; definitions and updates.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
    "id": "39_3632",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 100]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 002 (II) - Provisions Relating to Competitive Products/§ 03632 - Action of the Governors.md",
    "printed_pages": [
-    99,
+    100,
     100
    ]
   },
   {
    "id": "39_3633",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       86,
+       "[Page 101]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 002 (II) - Provisions Relating to Competitive Products/§ 03633 - Provisions applicable to rates for competitive products.md",
    "printed_pages": [
     100,
-    100
+    101
    ]
   },
   {
@@ -2337,8 +2399,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 002 (II) - Provisions Relating to Competitive Products/§ 03634 - Assumed Federal income tax on competitive products income.md",
    "printed_pages": [
-    100,
-    100
+    101,
+    101
    ]
   },
   {
@@ -2346,54 +2408,50 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 003 (III) - Provisions Relating to Experimental and New Products/README.md",
    "printed_pages": [
-    100,
-    100
+    101,
+    101
    ]
   },
   {
    "id": "39_3641",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 101]",
-     true
-    ],
-    [
      "I",
-     90,
+     24,
      [
       [
-       179,
+       85,
        "[Page 102]"
       ]
      ]
+    ],
+    [
+     "L",
+     106,
+     "[Page 103]",
+     true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 003 (III) - Provisions Relating to Experimental and New Products/§ 03641 - Market tests of experimental products.md",
    "printed_pages": [
-    100,
-    102
+    101,
+    103
    ]
   },
   {
    "id": "39_3642",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       76,
-       "[Page 103]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 104]",
+     true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 003 (III) - Provisions Relating to Experimental and New Products/§ 03642 - New products and transfers of products between the market-dominant and competitive categories of mail.md",
    "printed_pages": [
-    102,
-    103
+    103,
+    104
    ]
   },
   {
@@ -2401,8 +2459,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 004 (IV) - Reporting Requirements and Related Provisions/README.md",
    "printed_pages": [
-    103,
-    103
+    104,
+    104
    ]
   },
   {
@@ -2410,8 +2468,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 004 (IV) - Reporting Requirements and Related Provisions/§ 03651 - Annual reports by the Commission.md",
    "printed_pages": [
-    103,
-    103
+    104,
+    104
    ]
   },
   {
@@ -2419,15 +2477,15 @@
    "marks": [
     [
      "L",
-     36,
-     "[Page 104]",
+     50,
+     "[Page 105]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 004 (IV) - Reporting Requirements and Related Provisions/§ 03652 - Annual reports to the Commission.md",
    "printed_pages": [
-    103,
-    104
+    104,
+    105
    ]
   },
   {
@@ -2435,33 +2493,23 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 004 (IV) - Reporting Requirements and Related Provisions/§ 03653 - Annual determination of compliance.md",
    "printed_pages": [
-    104,
-    104
+    105,
+    105
    ]
   },
   {
    "id": "39_3654",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       79,
-       "[Page 105]"
-      ]
-     ]
-    ],
-    [
      "L",
-     86,
+     14,
      "[Page 106]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 004 (IV) - Reporting Requirements and Related Provisions/§ 03654 - Additional financial reporting.md",
    "printed_pages": [
-    104,
+    105,
     106
    ]
   },
@@ -2476,11 +2524,18 @@
   },
   {
    "id": "39_3661",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 107]",
+     true
+    ]
+   ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 005 (V) - Postal Services, Complaints, and Judicial Review/§ 03661 - Postal services.md",
    "printed_pages": [
     106,
-    106
+    107
    ]
   },
   {
@@ -2488,28 +2543,24 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 005 (V) - Postal Services, Complaints, and Judicial Review/§ 03662 - Rate and service complaints.md",
    "printed_pages": [
-    106,
-    106
+    107,
+    107
    ]
   },
   {
    "id": "39_3663",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 107]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 108]",
+     true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 005 (V) - Postal Services, Complaints, and Judicial Review/§ 03663 - Appellate review.md",
    "printed_pages": [
-    106,
-    107
+    107,
+    108
    ]
   },
   {
@@ -2517,8 +2568,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 005 (V) - Postal Services, Complaints, and Judicial Review/§ 03664 - Enforcement of orders.md",
    "printed_pages": [
-    107,
-    107
+    108,
+    108
    ]
   },
   {
@@ -2526,8 +2577,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/README.md",
    "printed_pages": [
-    107,
-    107
+    108,
+    108
    ]
   },
   {
@@ -2535,8 +2586,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/§ 03681 - Reimbursement.md",
    "printed_pages": [
-    107,
-    107
+    108,
+    108
    ]
   },
   {
@@ -2544,28 +2595,24 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/§ 03682 - Size and weight limits.md",
    "printed_pages": [
-    107,
-    107
+    108,
+    108
    ]
   },
   {
    "id": "39_3683",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       182,
-       "[Page 108]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 109]",
+     true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/§ 03683 - Uniform rates for books; films; other materials.md",
    "printed_pages": [
-    107,
-    108
+    108,
+    109
    ]
   },
   {
@@ -2573,8 +2620,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/§ 03684 - Limitations.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
@@ -2582,8 +2629,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/§ 03685 - Filing of information relating to periodical publications.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
@@ -2591,19 +2638,19 @@
    "marks": [
     [
      "I",
-     20,
+     28,
      [
       [
-       97,
-       "[Page 109]"
+       82,
+       "[Page 110]"
       ]
      ]
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 006 (VI) - General/§ 03686 - Bonus authority.md",
    "printed_pages": [
-    108,
-    109
+    109,
+    110
    ]
   },
   {
@@ -2611,8 +2658,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 007 (VII) - Modern Service Standards/README.md",
    "printed_pages": [
-    109,
-    109
+    110,
+    110
    ]
   },
   {
@@ -2620,15 +2667,15 @@
    "marks": [
     [
      "L",
-     68,
-     "[Page 110]",
+     88,
+     "[Page 111]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Mail Matter/Chapter 036 - Postal Rates, Classes, and Services/Subchapter 007 (VII) - Modern Service Standards/§ 03691 - Establishment of modern service standards.md",
    "printed_pages": [
-    109,
-    110
+    110,
+    111
    ]
   },
   {
@@ -2636,37 +2683,33 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/README.md",
    "printed_pages": [
-    110,
-    110
+    111,
+    111
    ]
   },
   {
    "id": "39_-ptV-ch50",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       40,
-       "[Page 111]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/README.md",
    "printed_pages": [
-    110,
+    111,
     111
    ]
   },
   {
    "id": "39_5001",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 112]",
+     true
+    ]
+   ],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05001 - Provisions for carrying mail.md",
    "printed_pages": [
     111,
-    111
+    112
    ]
   },
   {
@@ -2674,8 +2717,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05002 - Transportation of mail of adjoining countries through the United States.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
@@ -2683,8 +2726,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05003 - Establishment of post roads.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
@@ -2692,8 +2735,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05004 - Discontinuance of service on post roads.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
@@ -2701,15 +2744,15 @@
    "marks": [
     [
      "L",
-     30,
-     "[Page 112]",
+     46,
+     "[Page 113]",
      true
     ]
    ],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05005 - Mail transportation.md",
    "printed_pages": [
-    111,
-    112
+    112,
+    113
    ]
   },
   {
@@ -2717,8 +2760,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05006 - Lien on compensation of contractor.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -2726,8 +2769,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 050 - General/§ 05007 - Free transportation of postal employees.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -2735,8 +2778,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 052 - Repealed/README.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -2744,8 +2787,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 052 - Repealed/§ 05201 to 5215 - Repealed. Pub. L. 109–435, title X, §1002(a)(1), Dec. 20, 2006, 120 Stat. 3254.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
@@ -2753,23 +2796,16 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 054 - Transportation of Mail by Air/README.md",
    "printed_pages": [
-    112,
-    112
+    113,
+    113
    ]
   },
   {
    "id": "39_5401",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 113]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 054 - Transportation of Mail by Air/§ 05401 - Authorization.md",
    "printed_pages": [
-    112,
+    113,
     113
    ]
   },
@@ -2778,85 +2814,107 @@
    "marks": [
     [
      "L",
-     72,
+     6,
      "[Page 114]",
      true
     ],
     [
      "I",
-     126,
+     86,
      [
       [
-       788,
+       406,
        "[Page 115]"
       ]
      ]
     ],
     [
      "L",
-     192,
+     132,
      "[Page 116]",
      true
     ],
     [
-     "I",
-     254,
-     [
-      [
-       95,
-       "[Page 117]"
-      ]
-     ]
+     "L",
+     204,
+     "[Page 117]",
+     true
     ],
     [
      "I",
-     314,
+     262,
      [
       [
-       94,
+       98,
        "[Page 118]"
       ]
      ]
     ],
     [
      "I",
-     352,
+     318,
      [
       [
-       241,
+       382,
        "[Page 119]"
       ]
      ]
     ],
     [
-     "L",
-     410,
-     "[Page 120]",
-     true
+     "I",
+     360,
+     [
+      [
+       227,
+       "[Page 120]"
+      ]
+     ]
     ],
     [
-     "L",
-     468,
-     "[Page 121]",
-     true
+     "I",
+     412,
+     [
+      [
+       605,
+       "[Page 121]"
+      ]
+     ]
     ],
     [
-     "L",
-     558,
-     "[Page 122]",
-     true
+     "I",
+     478,
+     [
+      [
+       221,
+       "[Page 122]"
+      ]
+     ]
     ],
     [
-     "L",
-     660,
-     "[Page 123]",
-     true
+     "I",
+     564,
+     [
+      [
+       163,
+       "[Page 123]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     664,
+     [
+      [
+       170,
+       "[Page 124]"
+      ]
+     ]
     ]
    ],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 054 - Transportation of Mail by Air/§ 05402 - Contracts for transportation of mail by air.md",
    "printed_pages": [
     113,
-    123
+    124
    ]
   },
   {
@@ -2864,8 +2922,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 054 - Transportation of Mail by Air/§ 05403 - Fines.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
@@ -2873,8 +2931,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 056 - Transportation of Mail by Vessel/README.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
@@ -2882,8 +2940,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 056 - Transportation of Mail by Vessel/§ 05601 - Sea post service.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
@@ -2891,8 +2949,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 056 - Transportation of Mail by Vessel/§ 05602 - Termination of contracts for foreign transportation.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
@@ -2900,8 +2958,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 056 - Transportation of Mail by Vessel/§ 05603 - Transportation of mail by vessel as freight or express.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
@@ -2909,8 +2967,8 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 056 - Transportation of Mail by Vessel/§ 05604 - Fines on ocean carriers.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   },
   {
@@ -2918,11 +2976,11 @@
    "marks": [],
    "path": "Part 005 (V) - Transportation of Mail/Chapter 056 - Transportation of Mail by Vessel/§ 05605 - Contracts for transportation of mail by vessel.md",
    "printed_pages": [
-    123,
-    123
+    124,
+    124
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2015-title39 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2016-title39 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 39 - Postal Service"
 }

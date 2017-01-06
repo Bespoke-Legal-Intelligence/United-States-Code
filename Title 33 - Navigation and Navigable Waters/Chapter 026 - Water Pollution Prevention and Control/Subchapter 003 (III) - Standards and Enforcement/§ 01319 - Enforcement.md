@@ -10,7 +10,7 @@
 
 &emsp;(B) by bringing a civil action under subsection (b) of this section.
 
-(3) Whenever on the basis of any information available to him the Administrator finds thatany person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
+(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
 
 (4) A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State in which the violation occurs and other affected States. In any case in which an order under this subsection (or notice to a violator under paragraph (1) of this subsection) is issued to a corporation, a copy of such order (or notice) shall be served on any appropriate corporate officers. An order issued under this subsection relating to a violation of section 1318 of this title shall not take effect until the person to whom it is issued has had an opportunity to confer with the Administrator concerning the alleged violation.
 
@@ -90,7 +90,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 #### (7) Hazardous substance defined
 
-&emsp;For the purpose of this subsection, the term "hazardous substance" means (A) any substance designated pursuant to section 1321(b)(2)(A) of this title, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of title 42, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any wastethe regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of this title, and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15.
+&emsp;For the purpose of this subsection, the term "hazardous substance" means (A) any substance designated pursuant to section 1321(b)(2)(A) of this title, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of title 42, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of this title, and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15.
 
 #### (d) Civil penalties; factors considered in determining amount
 
@@ -124,7 +124,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (B) Class II
 
-&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing onthe record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
+&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
 
 #### (3) Determining amount
 
@@ -182,7 +182,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;(B) in the case of assessment of a class II civil penalty, in United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business,
 
-> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or the Secretary, as the case may be, and the Attorney General. The Administrator or the Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or the Secretary, as the case may be, and the Attorney General. The Administrator or the Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment ofthe penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 #### (9) Collection
 
@@ -240,7 +240,7 @@ Subsec. (f). Pub. L. 95–217, §54(b), added subsec. (f).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Savings Provision
 

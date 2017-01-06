@@ -32,7 +32,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(viii) Other interested parties.
 
-&emsp;"eligible community" means an area identified pursuant to subsection (e) of this section.
+&emsp;"eligible community" means an area identified pursuant to subsection (e).
 
 &emsp;"Indian tribe" means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
@@ -98,7 +98,7 @@ In this section—
 
 &emsp;&emsp;(C) may use—
 
-&emsp;&emsp;&emsp;(i) such funds for minor renovation of facilities that are in existence prior to the operation of the program and that are necessary for the operation of the program for which the organization receives the grant, purchase of sporting and recreational equipment and supplies, reasonable costs for the transportation of participants in the program, hiring of staff, provision of meals for such participants, provision of health services consisting of an initial basic physical examination, provision of first aid and nutrition guidance, family counselling, parental training, and substance abuse treatment where appropriate; and
+&emsp;&emsp;&emsp;(i) such funds for minor renovation of facilities that are in existence prior to the operation of the program and that are necessary for the operation of the program for which the organization receives the grant, purchase of sporting and recreationalequipment and supplies, reasonable costs for the transportation of participants in the program, hiring of staff, provision of meals for such participants, provision of health services consisting of an initial basic physical examination, provision of first aid and nutrition guidance, family counselling, parental training, and substance abuse treatment where appropriate; and
 
 &emsp;&emsp;&emsp;(ii) not more than 5 percent of such funds to pay for the administrative costs of the program; and
 
@@ -126,7 +126,7 @@ In this section—
 
 &emsp;&emsp;(A) describe the activities and services to be provided through the program for which the grant is sought;
 
-&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organizationdetermines will best accomplish the objectives of this section;
+&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organization determines will best accomplish the objectives of this section;
 
 &emsp;&emsp;(C) contain a comprehensive plan for the program that is designed to achieve identifiable goals for children in the eligible community;
 
@@ -136,7 +136,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) where appropriate, make a public school the focal point of the eligible community; or
 
-&emsp;&emsp;&emsp;&emsp;(II) make a local facility described in subsection (d)(1)(B) of this section such a focal point; and
+&emsp;&emsp;&emsp;&emsp;(II) make a local facility described in subsection (d)(1)(B) such a focal point; and
 
 &emsp;&emsp;&emsp;(ii) may include reducing the percentage of children in the eligible community that enter the juvenile justice system, increasing the graduation rates, school attendance, and academic success of children in the eligible community, and improving the skills of program participants;
 
@@ -156,11 +156,11 @@ In this section—
 
 &emsp;&emsp;&emsp;(vii) other organizations that the community-based organization determines to be appropriate;
 
-&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2) of this section;
+&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
 
 &emsp;&emsp;(G) contain a list of the activities and services that will be offered through the program for which the grant is sought and sponsored by private nonprofit organizations, individuals, and groups serving the eligible community, including—
 
-&emsp;&emsp;&emsp;(i) extracurricular and academic programs, such as programs described in subsection (d)(2)(B) of this section; and
+&emsp;&emsp;&emsp;(i) extracurricular and academic programs, such as programs described in subsection (d)(2)(B); and
 
 &emsp;&emsp;&emsp;(ii) activities that address specific needs in the community;
 
@@ -176,7 +176,7 @@ In this section—
 
 &emsp;&emsp;(M) contain an assurance that the program will maintain an average attendance rate of not less than 75 percent of the participants enrolled in the program, or will enroll additional participants in the program;
 
-&emsp;&emsp;(N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m) <sup>4</sup> of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
+&emsp;&emsp;(N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m),<sup>4</sup> any research effort authorized under Federal law, and any investigation by the Secretary;
 
 &emsp;&emsp;(O) contain an assurance that the community-based organization shall prepare and submit to the Secretary an annual report regarding any program conducted under this section;
 
@@ -206,7 +206,7 @@ In this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designingand implementing community-based programs.
+&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designing and implementing community-based programs.
 
 #### (2) Composition
 
@@ -226,7 +226,7 @@ In this section—
 
 #### (3) Functions
 
-&emsp;A peer review panel shall conduct the initial review of all grant applications received by the Secretary under subsection (f) of this section, make recommendations to the Secretary regarding—
+&emsp;A peer review panel shall conduct the initial review of all grant applications received by the Secretary under subsection (f), make recommendations to the Secretary regarding—
 
 &emsp;&emsp;(A) grant funding under this section; and
 
@@ -240,7 +240,7 @@ The Secretary may conduct such investigations and inspections as may be necessar
 
 #### (1) Payments
 
-&emsp;The Secretary shall, subject to the availability of appropriations, pay to each community-based organization having an application approved under subsection (f) of this section the Federal share of the costs of developing and carrying out programs described in subsection (c) of this section.
+&emsp;The Secretary shall, subject to the availability of appropriations, pay to each community-based organization having an application approved under subsection (f) the Federal share of the costs of developing and carrying out programs described in subsection (c).
 
 #### (2) Federal share
 
@@ -256,7 +256,7 @@ The Secretary may conduct such investigations and inspections as may be necessar
 
 #### (A) In general
 
-&emsp;&emsp;The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services (including the services described in subsection (f)(2)(P) of this section), and funds appropriated by the Congress for the activity of any agency of an Indian tribal government or the Bureau of Indian Affairs on any Indian lands may be used to provide the non-Federal share of the costs of programs or projects funded under this part.
+&emsp;&emsp;The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services (including the services described in subsection (f)(2)(P)), and funds appropriated by the Congress for the activity of any agency of an Indian tribal government or the Bureau of Indian Affairs on any Indian lands may be used to provide the non-Federal share of the costs of programs or projects funded under this part.
 
 #### (B) Special rule
 

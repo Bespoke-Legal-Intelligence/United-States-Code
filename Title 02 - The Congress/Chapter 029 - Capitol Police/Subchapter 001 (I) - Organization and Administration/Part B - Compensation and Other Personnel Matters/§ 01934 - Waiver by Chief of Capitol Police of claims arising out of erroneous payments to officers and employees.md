@@ -2,7 +2,7 @@
 
 #### (a) Waiver of claim
 
-Subject to the joint approval of the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate, the Chief of the United States Capitol Police may waive in whole or in part a claim of the United States against a person arising out of an erroneous payment of any pay or allowances, other than travel and transportation expenses and allowances, to an officer, member, or employee of the United States Capitol Police, if the collection of the claim would be against equity and good conscience and not in the best interests of the United States.
+Subject to the joint approval of the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate, the Chief of the United States Capitol Police may waive in whole or in part a claim of the United States against a person arising out of an erroneous payment of any pay or allowances, other than travel and transportation expenses and allowances,to an officer, member, or employee of the United States Capitol Police, if the collection of the claim would be against equity and good conscience and not in the best interests of the United States.
 
 #### (b) Investigation of application; report
 

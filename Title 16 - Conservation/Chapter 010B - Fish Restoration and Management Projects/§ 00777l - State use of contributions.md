@@ -1,6 +1,6 @@
 ### §777<i>l</i>. State use of contributions
 
-A State may use contributions of funds, real property, materials, and services to carry out an activity under this chapter in lieu of payment by the State of the State share of the cost of such activity. Such a State share shall be considered to be paid in an amount equal to the fair market value of any contribution so used.
+A State may use contributions of funds, real property, materials, and services to carry out anactivity under this chapter in lieu of payment by the State of the State share of the cost of such activity. Such a State share shall be considered to be paid in an amount equal to the fair market value of any contribution so used.
 
 (Aug. 9, 1950, ch. 658, §13, as added Pub. L. 100–448, §6(c)(2), Sept. 28, 1988, 102 Stat. 1841.)
 

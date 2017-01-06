@@ -10,7 +10,7 @@ At the earliest practicable date after August 23, 1988, the President shall—
 
 &emsp;&emsp;(A) the future outstanding staged rate reductions authorized by the Congress in—
 
-&emsp;&emsp;&emsp;(i) the Trade Act of 1974 (19 U.S.C. 2101 et seq.) and the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) to reflect the tariff reductions that resulted from the Tokyo Round of multilateral trade negotiations, and
+&emsp;&emsp;&emsp;(i) the Trade Act of 1974 (19 U.S.C. 2101 et seq.) and the Trade Agreements Act of 1979\(19 U.S.C. 2501 et seq.) to reflect the tariff reductions that resulted from the Tokyo Round of multilateral trade negotiations, and
 
 &emsp;&emsp;&emsp;(ii) the United States-Israel Free Trade Area Implementation Act of 1985 \[19 U.S.C. 2112 note\] to reflect the tariff reduction resulting from the United States-Israel Free Trade Area Agreement,
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsec. (c)(1)(A), (2), was in the original "this s
 
 #### Codification
 
-Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amendedtitle I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
+Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amended title I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
 
 #### Effective Date
 

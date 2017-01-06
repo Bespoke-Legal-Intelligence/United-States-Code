@@ -6,7 +6,7 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 &emsp;(2) Price support for wheat accompanied by export certificates shall be at such level not more than 90 per centum of the parity price therefor as the Secretary determines appropriate, taking into consideration the factors specified in section 1421(b) of this title.
 
-&emsp;(3) Price support for wheat not accompanied by marketing certificates shall be at such level, not in excess of 90 per centum of the parity price therefor, as the Secretary determines appropriate, taking into consideration competitive world prices of wheat, the feeding value of wheat in relation to feed grains, and the level at which price support is made available for feed grains.
+&emsp;(3) Price support for wheat not accompanied by marketing certificates shall be at such level, not in excess of 90 per centum of the parity price therefor, as the Secretary determinesappropriate, taking into consideration competitive world prices of wheat, the feeding value of wheat in relation to feed grains, and the level at which price support is made available for feed grains.
 
 &emsp;(4) Price support shall be made available only to cooperators: and, if a commercial wheat-producing area is established for such crop, price support shall be made available only in the commercial wheat-producing area.
 

@@ -38,7 +38,7 @@ Substance Abuse Treatment.—
 
 &emsp;(1)
 
-Phase-in.—In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with a substance abuse problem have the opportunity to participate in appropriate substance abuse treatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
+Phase-in.—In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with asubstance abuse problem have the opportunity to participate in appropriate substance abuse treatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
 
 &emsp;&emsp;(A) for not less than 50 percent of eligible prisoners by the end of fiscal year 1995, with priority for such treatment accorded based on an eligible prisoner's proximity to release date;
 
@@ -52,7 +52,7 @@ Incentive for prisoners' successful completion of treatment program.—
 
 &emsp;&emsp;(A)
 
-Generally.—Any prisoner who, in the judgment of the Director of the Bureau ofPrisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
+Generally.—Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
 
 &emsp;&emsp;(B)
 
@@ -124,7 +124,7 @@ In general.—In order to ensure a minimum standard of health and habitability, 
 
 &emsp;(2)
 
-Definition.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+Definition.—In this subsection, the term "community confinement" has the meaninggiven that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693.)
 

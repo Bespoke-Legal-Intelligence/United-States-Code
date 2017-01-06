@@ -66,7 +66,7 @@ Pub. L. 105–261, div. A, title VI, §655(d), Oct. 17, 1998, 112 Stat. 2053, pr
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, see section 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, seesection 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
 
 #### Different Coverage for Reserve Officer Training Corps Members
 

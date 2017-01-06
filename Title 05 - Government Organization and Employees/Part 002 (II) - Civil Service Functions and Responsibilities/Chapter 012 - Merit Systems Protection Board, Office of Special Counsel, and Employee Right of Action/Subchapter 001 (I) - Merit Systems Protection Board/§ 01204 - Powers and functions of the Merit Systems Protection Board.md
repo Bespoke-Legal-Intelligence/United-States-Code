@@ -32,7 +32,7 @@
 
 (2)(A) In enforcing compliance with any order under subsection (a)(2), the Board may order that any employee charged with complying with such order, other than an employee appointed by the President by and with the advice and consent of the Senate, shall not be entitled to receive payment for service as an employee during any period that the order has not been complied with. The Board shall certify to the Comptroller General of the United States that such an order has been issued and no payment shall be made out of the Treasury of the United States for any service specified in such order.
 
-(B) The Board shall prescribe regulations under which any employee who is aggrieved bythe failure of any other employee to comply with an order of the Board may petition the Board to exercise its authority under subparagraph (A).
+(B) The Board shall prescribe regulations under which any employee who is aggrieved by the failure of any other employee to comply with an order of the Board may petition the Board to exercise its authority under subparagraph (A).
 
 (3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries as may be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
 
@@ -84,7 +84,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in
 
 #### Prior Provisions
 
-A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101–12, §3(a)(6). Pub. L. 102–378,§2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
+A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101–12, §3(a)(6). Pub. L. 102–378, §2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Pub. L. 112–199, title II, §202, Nov. 27, 2012, 126 Stat. 1476, provided that
 
 Pub. L. 103–424, §14, Oct. 29, 1994, 108 Stat. 4368, provided that: "The provisions of this Act \[amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and section 1441a of Title 12, Banks and Banking, and amending provisions set out as a note under section 5509 of this title\] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act \[Oct. 29, 1994\]."
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans' Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set outas an Effective Date note under section 4301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1989 Amendment
 

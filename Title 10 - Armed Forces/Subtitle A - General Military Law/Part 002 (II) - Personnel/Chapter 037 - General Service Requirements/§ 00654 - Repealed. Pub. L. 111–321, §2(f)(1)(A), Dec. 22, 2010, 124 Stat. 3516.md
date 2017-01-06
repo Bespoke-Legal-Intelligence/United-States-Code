@@ -86,7 +86,7 @@ Title 10.—Upon the effective date established by subsection (b), chapter 37 of
 
 &emsp;"(2)
 
-Conforming amendment.—Upon the effective date established by subsection (b), section 571 of the National Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160\] (10 U.S.C. 654 note) is amended by striking subsections (b), (c), and (d)."
+Conforming amendment.—Upon the effective date established by subsection (b), section 571 of theNational Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160\] (10 U.S.C. 654 note) is amended by striking subsections (b), (c), and (d)."
 
 \[The report referred to in section 2(b)(1) of Pub. L. 111–321, set out above, was released Nov. 30, 2010. The certification referred to in section 2(b)(2) of Pub. L. 111–321 was transmitted July 22, 2011.\]
 

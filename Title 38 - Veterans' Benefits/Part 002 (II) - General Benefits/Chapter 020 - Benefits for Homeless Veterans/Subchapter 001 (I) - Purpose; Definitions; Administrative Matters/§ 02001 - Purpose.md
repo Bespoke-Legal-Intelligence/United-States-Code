@@ -16,7 +16,7 @@ Pub. L. 109–461, title VII, §701, Dec. 22, 2006, 120 Stat. 3439, provided tha
 
 "(a)
 
-Reaffirmation.—Congress reaffirms the national goal to end chronic homelessness among veterans within a decade of the enactment of the HomelessVeterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903) \[Dec. 21, 2001\].
+Reaffirmation.—Congress reaffirms the national goal to end chronic homelessness among veterans within a decade of the enactment of the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903) \[Dec. 21, 2001\].
 
 "(b)
 

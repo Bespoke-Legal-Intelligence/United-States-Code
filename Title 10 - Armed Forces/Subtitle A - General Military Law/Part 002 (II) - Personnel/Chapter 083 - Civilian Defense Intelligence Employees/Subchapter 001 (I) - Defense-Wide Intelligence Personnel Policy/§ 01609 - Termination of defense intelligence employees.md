@@ -18,7 +18,7 @@ Notification to Congressional Committees.—Whenever the Secretary of Defense te
 
 (d)
 
-Preservation of Right To Seek Other Employment.—Any termination of employment under this section does not affect the right of the employee involved to seek or accept employment with any other department or agency of the United States if that employee is declared eligible for such employment by the Director of the Office of Personnel Management.
+Preservation of Right To Seek Other Employment.—Any termination of employment under this section does not affect the right ofthe employee involved to seek or accept employment with any other department or agency of the United States if that employee is declared eligible for such employment by the Director of the Office of Personnel Management.
 
 (e)
 

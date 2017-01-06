@@ -1,0 +1,6 @@
+### §997. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–775, §7, Oct. 9, 1962, 76 Stat. 777, which provided for costs incident to making payments to be paid from the judgment fund, was omitted from the Code as being of special and not general application.
+

@@ -8,7 +8,7 @@ Of the funds authorized to be appropriated to the Department of Energy under tit
 
 The programs to be developed by the States may include only the following activities:
 
-&emsp;(1) Preparing and distributing information on the health effects of radiation to healthcare professionals, and to persons who may have been exposed to radiation.
+&emsp;(1) Preparing and distributing information on the health effects of radiation to health care professionals, and to persons who may have been exposed to radiation.
 
 &emsp;(2) Developing and implementing mechanisms for referring persons who may have been exposed to radiation to health care professionals with expertise in the health effects of radiation.
 
@@ -44,7 +44,7 @@ The programs to be developed by the States may include only the following activi
 
 &emsp;(H) Such other information or categories of information as the chief officers of the health departments of the States of Washington, Oregon, and Idaho jointly designate as information covered by this subsection.
 
-(2) Information referred to in paragraph (1) may be disclosed to the public if the person identified by the information, or the legal representative of that person, has consented in writing to the disclosure.
+(2) Information referred to in paragraph (1) may be disclosed to the public if the personidentified by the information, or the legal representative of that person, has consented in writing to the disclosure.
 
 (3) The States of Washington, Oregon, and Idaho shall establish uniform procedures for carrying out this subsection, including procedures governing the following:
 

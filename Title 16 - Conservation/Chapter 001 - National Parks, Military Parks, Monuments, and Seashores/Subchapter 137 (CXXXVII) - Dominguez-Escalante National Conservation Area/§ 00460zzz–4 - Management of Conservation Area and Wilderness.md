@@ -108,7 +108,7 @@ In accordance with any applicable laws and subject to such terms and conditions 
 
 #### (C) Deadline
 
-&emsp;&emsp;The Secretary shall promptly, but not earlier than January 2009, appropriate thewater rights required to fulfill the purposes of the Wilderness.
+&emsp;&emsp;The Secretary shall promptly, but not earlier than January 2009, appropriate the water rights required to fulfill the purposes of the Wilderness.
 
 #### (D) Required determination
 

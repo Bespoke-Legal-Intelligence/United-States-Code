@@ -32,7 +32,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) which does not constitute part of the principal residence (within the meaning of section 121) of the taxpayer or any employee of the taxpayer,
 
-&emsp;&emsp;&emsp;(ii) for the operating costs of a qualified child care facility of the taxpayer, including costs related to the training of employees, to scholarship programs, and to the providing of increased compensation to employees with higher levels of child care training, or
+&emsp;&emsp;&emsp;(ii) for the operating costs of a qualified child care facility of the taxpayer, including costs related to the training of employees, to scholarship programs, and to the providing of increased compensation toemployees with higher levels of child care training, or
 
 &emsp;&emsp;&emsp;(iii) under a contract with a qualified child care facility to provide child care services to employees of the taxpayer.
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 | &nbsp;If the recapture event occurs in: | <b>The applicable recapture percentage is:</b> |
 | :--- | ---: |
-| Years 1–3 | 100   |
+| Years 1–3 | 100&nbsp;&nbsp; |
 | Year 4 | 85&nbsp;&nbsp; |
 | Year 5 | 70&nbsp;&nbsp; |
 | Year 6 | 55&nbsp;&nbsp; |
@@ -127,7 +127,7 @@ For purposes of this section—
 
 #### (A) Tax benefit rule
 
-&emsp;&emsp;The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section 39 shall be appropriately adjusted.
+&emsp;&emsp;The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards andcarrybacks under section 39 shall be appropriately adjusted.
 
 #### (B) No credits against tax
 

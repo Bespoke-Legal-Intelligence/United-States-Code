@@ -62,7 +62,7 @@ For purposes of this subchapter:
 
 #### (B) Schools providing flight training to members of Air Force
 
-&emsp;&emsp;The term "Federal property" includes, so long as not subject to taxation by any State or any political subdivision of a State, and whether or not that tax exemption is due to Federal agreement, law, or policy, any school providing flight training to members of the Air Force under contract with the Air Force at an airport owned by a State or political subdivision of a State.
+&emsp;&emsp;The term "Federal property" includes, so long as not subject to taxation by any State or any political subdivision of a State, and whether or not that tax exemption is due to Federal agreement, law, or policy, any school providing flight training to membersof the Air Force under contract with the Air Force at an airport owned by a State or political subdivision of a State.
 
 #### (C) Non-Federal easements, leases, licenses, permits, improvements, and certain other real property
 

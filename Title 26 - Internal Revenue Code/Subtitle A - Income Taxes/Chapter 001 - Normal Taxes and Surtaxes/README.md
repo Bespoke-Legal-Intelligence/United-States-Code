@@ -48,7 +48,7 @@
 
 <b>2002</b>—Pub. L. 107–147, title III, §301(c), Mar. 9, 2002, 116 Stat. 40, added subchapter Y.
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §101(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-600, added subchapter X.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §101(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, added subchapter X.
 
 <b>1997</b>—Pub. L. 105–34, title VII, §701(c), Aug. 5, 1997, 111 Stat. 869, added subchapter W.
 

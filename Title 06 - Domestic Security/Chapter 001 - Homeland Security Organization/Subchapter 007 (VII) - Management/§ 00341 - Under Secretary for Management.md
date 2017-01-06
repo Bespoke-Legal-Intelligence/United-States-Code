@@ -20,49 +20,27 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(8) Grants and other assistance management programs.
 
-&emsp;(9) The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation of functions and personnel in the Department and transition, including—
+&emsp;(9) The management integration and transformation within each functional management discipline of the Department, including information technology, financial management, acquisition management, and human capital management, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
 
-&emsp;&emsp;(A) the development of a management integration strategy for the Department, and
+&emsp;&emsp;(A) the development of centralized data sources and connectivity of information systems to the greatest extent practicable to enhance program visibility, transparency, and operational effectiveness and coordination;
 
-&emsp;&emsp;(B) before December 1 of any year in which a Presidential election is held, the development of a transition and succession plan, to be made available to the incoming Secretary and Under Secretary for Management, to guide the transition of management functions to a new Administration.
+&emsp;&emsp;(B) the development of standardized and automated management information to manage and oversee programs and make informed decisions to improve the efficiency of the Department;
 
-&emsp;(10) The conduct of internal audits and management analyses of the programs and activities of the Department.
+&emsp;&emsp;(C) the development of effective program management and regular oversight mechanisms, including clear roles and processes for program governance, sharing of best practices, and access to timely, reliable, and evaluated data on all acquisitions and investments; and
 
-&emsp;(11) Any other management duties that the Secretary may designate.
+&emsp;&emsp;(D) the overall supervision, including the conduct of internal audits and management analyses, of the programs and activities of the Department, including establishment of oversight procedures to ensure a full and effective review of the efforts by components of the Department to implement policies and procedures of the Department for management integration and transformation.
 
-#### (b) Immigration
+&emsp;(10) The development of a transition and succession plan, before December 1 of each year in which a Presidential election is held, to guide the transition of Department functions to a new Presidential administration, and making such plan available to the next Secretary and Under Secretary for Management and to the congressional homeland security committees.
 
-#### (1) In general
+&emsp;(11) Reporting to the Government Accountability Office every six months to demonstrate measurable, sustainable progress made in implementing the corrective action plans of the Department to address the designation of the management functions of the Department on the bi-annual high risk list of the Government Accountability Office, until the Comptroller General of the United States submits to the appropriate congressional committees written notification of removal of the high-risk designation.
 
-&emsp;In addition to the responsibilities described in subsection (a), the Under Secretary for Management shall be responsible for the following:
+&emsp;(12) The conduct of internal audits and management analyses of the programs and activities of the Department.
 
-&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled "Statistical Yearbook of the Immigration and Naturalization Service" prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer of functions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
+&emsp;(13) Any other management duties that the Secretary may designate.
 
-&emsp;&emsp;(B) Establishment of standards of reliability and validity for immigration statistics collected by such bureaus.
+#### (b) Waivers for conducting business with suspended or debarred contractors
 
-#### (2) Transfer of functions
-
-&emsp;In accordance with subchapter XII, there shall be transferred to the Under Secretary for Management all functions performed immediately before such transfer occurs by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the following programs:
-
-&emsp;&emsp;(A) The Border Patrol program.
-
-&emsp;&emsp;(B) The detention and removal program.
-
-&emsp;&emsp;(C) The intelligence program.
-
-&emsp;&emsp;(D) The investigations program.
-
-&emsp;&emsp;(E) The inspections program.
-
-&emsp;&emsp;(F) Adjudication of immigrant visa petitions.
-
-&emsp;&emsp;(G) Adjudication of naturalization petitions.
-
-&emsp;&emsp;(H) Adjudication of asylum and refugee applications.
-
-&emsp;&emsp;(I) Adjudications performed at service centers.
-
-&emsp;&emsp;(J) All other adjudications performed by the Immigration and Naturalization Service.
+Not later than five days after the date on which the Chief Procurement Officer or Chief Financial Officer of the Department issues a waiver of the requirement that an agency not engage in business with a contractor or other recipient of funds listed as a party suspended or debarred from receiving contracts, grants, or other types of Federal assistance in the System for Award Management maintained by the General Services Administration, or any successor thereto, the Under Secretary for Management shall submit to the congressional homeland security committees and the Inspector General of the Department notice of the waiver and an explanation of the finding by the Under Secretary that a compelling reason exists for the waiver.
 
 #### (c) Appointment and evaluation
 
@@ -82,13 +60,27 @@ The Under Secretary for Management shall—
 
 &emsp;(3) be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
 
-#### (d) Interoperable communications defined
+#### (d) System for Award Management consultation
+
+The Under Secretary for Management shall require that all Department contracting and grant officials consult the System for Award Management (or successor system) as maintained by the General Services Administration prior to awarding a contract or grant or entering into other transactions to ascertain whether the selected contractor is excluded from receiving Federal contracts, certain subcontracts, and certain types of Federal financial and non-financial assistance and benefits.
+
+#### (e) Interoperable communications defined
 
 In this section, the term "interoperable communications" has the meaning given that term in section 194(g) of this title.
 
-(Pub. L. 107–296, title VII, §701, Nov. 25, 2002, 116 Stat. 2218; Pub. L. 110–53, title XXIV, §2405(a), (b), Aug. 3, 2007, 121 Stat. 548; Pub. L. 114–29, §3, July 6, 2015, 129 Stat. 421.)
+(Pub. L. 107–296, title VII, §701, Nov. 25, 2002, 116 Stat. 2218; Pub. L. 110–53, title XXIV, §2405(a), (b), Aug. 3, 2007, 121 Stat. 548; Pub. L. 114–29, §3, July 6, 2015, 129 Stat. 421; Pub. L. 114–328, div. A, title XIX, §1903(b), Dec. 23, 2016, 130 Stat. 2673.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation of functions and personnel in the Department and transition, including—
+
+&emsp;"(A) the development of a management integration strategy for the Department, and
+
+&emsp;"(B) before December 1 of any year in which a Presidential election is held, the development of a transition and succession plan, to be made available to the incoming Secretary and Under Secretary for Management, to guide the transition of management functions to a new Administration."
+
+Subsec. (b). Pub. L. 114–328, §1903(b)(2), added subsec. (b) and struck out former subsec. (b) which related to maintenance of immigration statistics by the Under Secretary for Management and transfer of certain functions of the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service to the Under Secretary for Management.
+
+Subsecs. (d), (e). Pub. L. 114–328, §1903(b)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2015</b>—Subsec. (a)(4). Pub. L. 114–29, §3(1), inserted before period at end ", including policies and directives to achieve and maintain interoperable communications among the components of the Department".
 
@@ -96,15 +88,11 @@ Subsec. (d). Pub. L. 114–29, §3(2), added subsec. (d).
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–53, §2405(a)(1), inserted in introductory provisions "The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs."
 
-Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows:"Identification and tracking of performance measures relating to the responsibilities of the Department."
+Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: "Identification and tracking of performance measures relating to the responsibilities of the Department."
 
 Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
 
 Subsec. (c). Pub. L. 110–53, §2405(b), added subsec. (c).
-
-#### Change of Name
-
-Bureau of Border Security, referred to in subsec. (b)(1)(A), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
 #### Deadline for Appointment; Incumbent
 

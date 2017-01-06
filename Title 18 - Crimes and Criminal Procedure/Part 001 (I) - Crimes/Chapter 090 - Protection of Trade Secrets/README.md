@@ -7,7 +7,7 @@
 | [1833\.](%C2%A7%2001833%20-%20Exceptions%20to%20prohibitions.md) | Exceptions to prohibitions. |
 | [1834\.](%C2%A7%2001834%20-%20Criminal%20forfeiture.md) | Criminal forfeiture. |
 | [1835\.](%C2%A7%2001835%20-%20Orders%20to%20preserve%20confidentiality.md) | Orders to preserve confidentiality. |
-| [1836\.](%C2%A7%2001836%20-%20Civil%20proceedings%20to%20enjoin%20violations.md) | Civil proceedings to enjoin violations. |
+| [1836\.](%C2%A7%2001836%20-%20Civil%20proceedings.md) | Civil proceedings. |
 | [1837\.](%C2%A7%2001837%20-%20Applicability%20to%20conduct%20outside%20the%20United%20States.md) | Applicability to conduct outside the United States. |
 | [1838\.](%C2%A7%2001838%20-%20Construction%20with%20other%20laws.md) | Construction with other laws. |
 | [1839\.](%C2%A7%2001839%20-%20Definitions.md) | Definitions. |
@@ -15,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–153, §2(d)(2), May 11, 2016, 130 Stat. 381, substituted "Civil proceedings" for "Civil proceedings to enjoin violations" in item 1836.
 
 <b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted "Applicability to conduct" for "Conduct" in item 1837.
 
@@ -28,7 +30,7 @@
 - [&sect; 01833 - Exceptions to prohibitions](%C2%A7%2001833%20-%20Exceptions%20to%20prohibitions.md)
 - [&sect; 01834 - Criminal forfeiture](%C2%A7%2001834%20-%20Criminal%20forfeiture.md)
 - [&sect; 01835 - Orders to preserve confidentiality](%C2%A7%2001835%20-%20Orders%20to%20preserve%20confidentiality.md)
-- [&sect; 01836 - Civil proceedings to enjoin violations](%C2%A7%2001836%20-%20Civil%20proceedings%20to%20enjoin%20violations.md)
+- [&sect; 01836 - Civil proceedings](%C2%A7%2001836%20-%20Civil%20proceedings.md)
 - [&sect; 01837 - Applicability to conduct outside the United States](%C2%A7%2001837%20-%20Applicability%20to%20conduct%20outside%20the%20United%20States.md)
 - [&sect; 01838 - Construction with other laws](%C2%A7%2001838%20-%20Construction%20with%20other%20laws.md)
 - [&sect; 01839 - Definitions](%C2%A7%2001839%20-%20Definitions.md)

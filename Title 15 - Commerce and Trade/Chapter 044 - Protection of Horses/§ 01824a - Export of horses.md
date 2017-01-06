@@ -12,7 +12,7 @@ The Secretary of Commerce, in consultation with the Secretary of Agriculture, ma
 
 #### (1) Criminal penalty
 
-&emsp;Any person who knowingly violates this section or any regulation, order, or license issued under this section shall be fined not more than 5 times the value of the consignment of horsesinvolved or $50,000, whichever is greater, or imprisoned not more than 5 years, or both.
+&emsp;Any person who knowingly violates this section or any regulation, order, or license issued under this section shall be fined not more than 5 times the value of the consignment of horses involved or $50,000, whichever is greater, or imprisoned not more than 5 years, or both.
 
 #### (2) Civil penalty
 

@@ -126,7 +126,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;For each 2-fiscal-year period, the Administrator shall prepare and submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes—
 
-&emsp;&emsp;&emsp;(i) an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the period covered by the report, as reflected by financial statements provided in accordance with—
+&emsp;&emsp;&emsp;(i) an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the periodcovered by the report, as reflected by financial statements provided in accordance with—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat. 2838) and amendments made by that Act; and
 
@@ -146,7 +146,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;&emsp;&emsp;(I) the fees collected and disbursed under this section;
 
-&emsp;&emsp;&emsp;&emsp;(II) the reasonableness of the fee structure in place as of the date of the auditto meet current and projected costs of the system;
+&emsp;&emsp;&emsp;&emsp;(II) the reasonableness of the fee structure in place as of the date of the audit to meet current and projected costs of the system;
 
 &emsp;&emsp;&emsp;&emsp;(III) the level of use of the system by users; and
 
@@ -244,7 +244,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (B) Inclusions
 
-&emsp;&emsp;The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines tobe necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
+&emsp;&emsp;The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines to be necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
 
 #### (C) Requirements
 

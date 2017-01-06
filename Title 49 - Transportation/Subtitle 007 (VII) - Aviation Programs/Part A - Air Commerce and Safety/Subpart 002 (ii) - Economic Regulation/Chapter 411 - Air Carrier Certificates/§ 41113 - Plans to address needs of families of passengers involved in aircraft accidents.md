@@ -88,7 +88,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by section 402(a)(5)(B) to (c) of Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
-Pub. L. 106–181, title IV, §402(a)(4), Apr. 5, 2000, 114 Stat. 130, provided that: "The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each air carrier holding a certificate of public convenience and necessity under section 41102 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41113 of such title that meets the requirements of the amendments made by paragraphs (1), (2), and (3)."
+Pub. L. 106–181, title IV, §402(a)(4), Apr. 5, 2000, 114 Stat. 130, provided that: "The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shalltake effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each air carrier holding a certificate of public convenience and necessity under section 41102 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41113 of such title that meets the requirements of the amendments made by paragraphs (1), (2), and (3)."
 
 #### Effective Date
 

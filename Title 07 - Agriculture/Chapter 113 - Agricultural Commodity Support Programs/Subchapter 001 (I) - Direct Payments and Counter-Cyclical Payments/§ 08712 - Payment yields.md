@@ -18,7 +18,7 @@ For the purpose of making direct payments and counter-cyclical payments under th
 
 &emsp;&emsp;&emsp;(i) The average yield for the designated oilseed or pulse crop determined under paragraph (1).
 
-&emsp;&emsp;&emsp;(ii) The ratio resulting from dividing the national average yield for the designated oilseed or pulse crop for the 1981 through 1985 crops by the national average yield for the designated oilseed or pulse crop for the 1998 through 2001 crops.
+&emsp;&emsp;&emsp;(ii) The ratio resulting from dividing the national average yield for the designatedoilseed or pulse crop for the 1981 through 1985 crops by the national average yield for the designated oilseed or pulse crop for the 1998 through 2001 crops.
 
 #### (B) No national average yield information available
 
@@ -37,4 +37,8 @@ For the purpose of making direct payments and counter-cyclical payments under th
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

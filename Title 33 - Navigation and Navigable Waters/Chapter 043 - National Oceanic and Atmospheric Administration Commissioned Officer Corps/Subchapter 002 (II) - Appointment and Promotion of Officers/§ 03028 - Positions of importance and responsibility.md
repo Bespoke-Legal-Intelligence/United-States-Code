@@ -6,7 +6,7 @@ The Secretary may designate positions in the Administration as being positions o
 
 #### (b) Assignment of officers to designated positions
 
-The Secretary may assign officers to positions designated under subsection (a) of this section.
+The Secretary may assign officers to positions designated under subsection (a).
 
 #### (c) Director of NOAA Corps and Office of Marine and Aviation Operations
 
@@ -62,7 +62,7 @@ Provisions similar to those in this section were contained in section 853u of th
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) ofPub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Appointment of Commissioned Officers
 

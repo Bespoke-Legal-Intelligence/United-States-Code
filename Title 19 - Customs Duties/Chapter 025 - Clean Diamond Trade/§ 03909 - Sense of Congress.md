@@ -12,7 +12,7 @@ It is the sense of the Congress that under Annex III to the Kimberley Process Ce
 
 &emsp;(2) make these statistics available for analysis by interested parties and by Participants; and
 
-&emsp;(3) take a leadership role in negotiating a standardized methodology among Participantsfor reporting statistics on imports and exports of rough diamonds.
+&emsp;(3) take a leadership role in negotiating a standardized methodology among Participants for reporting statistics on imports and exports of rough diamonds.
 
 (Pub. L. 108–19, §10, Apr. 25, 2003, 117 Stat. 635.)
 

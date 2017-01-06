@@ -58,7 +58,7 @@
 
 (e) Any person injured as the result of a violation of subsection (a) may commence a civil action on his own behalf against any person who is alleged to be in violation of subsection (a). The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, in such civil actions. The court may award, in addition to monetary damages for any injury resulting from an alleged violation of subsection (a), costs of litigation, including reasonable attorney and expert witness fees, to any prevailing or substantially prevailing party, whenever the court determines such award is appropriate.
 
-(Added Pub. L. 100–690, title VI, §6254(f), Nov. 18, 1988, 102 Stat. 4366; amended Pub. L. 101–647, title XXXV, §3555, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title XXXIII, §330007, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 104–134, title I, §101(c) \[title III, §330\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–208; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Added Pub. L. 100–690, title VI, §6254(f), Nov. 18, 1988, 102 Stat. 4366; amended Pub. L. 101–647, title XXXV, §3555, Nov. 29, 1990, 104 Stat. 4927; Pub. L.103–322, title XXXIII, §330007, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 104–134, title I, §101(c) \[title III, §330\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–208; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 

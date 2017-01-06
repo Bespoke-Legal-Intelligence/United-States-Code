@@ -30,13 +30,13 @@ Not later than eighteen months after October 21, 1976, the Administrator shall, 
 
 &emsp;(I) as to disposal sites for such wastes which are to be closed, to identify the locations of such sites through surveying, platting, or other measures, together with recordation of such information on the public record, to assure that the locations where such wastes are disposed of are known and can be located in the future, and
 
-&emsp;(II) to provide chemical and physical analysis and composition of such wastes, based on available information, to be placed on the public record.
+&emsp;(II) to provide chemical and physical analysis and composition of such wastes, based onavailable information, to be placed on the public record.
 
 (ii)(I) In conducting any study under subsection (f), (n), (o), or (p), of section 6982 of this title, any officer, employee, or authorized representative of the Environmental Protection Agency, duly designated by the Administrator, is authorized, at reasonable times and as reasonably necessary for the purposes of such study, to enter any establishment where any waste subject to such study is generated, stored, treated, disposed of, or transported from; to inspect, take samples, and conduct monitoring and testing; and to have access to and copy records relating to such waste. Each such inspection shall be commenced and completed with reasonable promptness. If the officer, employee, or authorized representative obtains any samples prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the sample obtained and if requested a portion of each such sample equal in volume or weight to the portion retained. If any analysis is made of such samples, or monitoring and testing performed, a copy of the results shall be furnished promptly to the owner, operator, or agent in charge.
 
 (II) Any records, reports, or information obtained from any person under subclause (I) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, to which the Administrator has access under this subparagraph is made public, would divulge information entitled to protection under section 1905 of title 18, the Administrator shall consider such information or particular portion thereof confidential in accordance with the purposes of that section, except that such record, report, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter. Any person not subject to the provisions of section 1905 of title 18 who knowingly and willfully divulges or discloses any information entitled to protection under this subparagraph shall, upon conviction, be subject to a fine of not more than $5,000 or to imprisonment not to exceed one year, or both.
 
-(iii) The Administrator may prescribe regulations, under the authority of this chapter, to prevent radiation exposure which presents an unreasonable risk to human health from the use in construction or land reclamation (with or without revegetation) of (I) solid waste from theextraction, beneficiation, and processing of phosphate rock or (II) overburden from the mining of uranium ore.
+(iii) The Administrator may prescribe regulations, under the authority of this chapter, to prevent radiation exposure which presents an unreasonable risk to human health from the use in construction or land reclamation (with or without revegetation) of (I) solid waste from the extraction, beneficiation, and processing of phosphate rock or (II) overburden from the mining of uranium ore.
 
 (iv) Whenever on the basis of any information the Administrator determines that any person is in violation of any requirement of this subparagraph, the Administrator shall give notice to the violator of his failure to comply with such requirement. If such violation extends beyond the thirtieth day after the Administrator's notification, the Administrator may issue an order requiring compliance within a specified time period or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
@@ -64,7 +64,7 @@ At any time after the date eighteen months after October 21, 1976, the Governor 
 
 &emsp;(E) the name and address of the facility designated to receive the waste.
 
-> If subparagraph (B) is not applicable, in lieu of the description referred to in such subparagraph (B), the form shall contain the Environmental Protection Agency identification number, or a generic description of the waste, or a description of the waste by hazardous waste characteristic. Additional requirements related to the manifest form shall apply only if determined necessary by the Administrator to protect human health and the environment.
+> If subparagraph (B) is not applicable, in lieu of the description referred to in such subparagraph\(B), the form shall contain the Environmental Protection Agency identification number, or a generic description of the waste, or a description of the waste by hazardous waste characteristic. Additional requirements related to the manifest form shall apply only if determined necessary by the Administrator to protect human health and the environment.
 
 (4) The Administrator's responsibility under this subchapter to protect human health and the environment may require the promulgation of standards under this subchapter for hazardous wastes which are generated by any generator who does not generate more than one hundred kilograms of hazardous waste in a calendar month.
 
@@ -100,7 +100,7 @@ At any time after the date eighteen months after October 21, 1976, the Governor 
 
 (1) When evaluating a petition to exclude a waste generated at a particular facility from listing under this section, the Administrator shall consider factors (including additional constituents) other than those for which the waste was listed if the Administrator has a reasonable basis to believe that such additional factors could cause the waste to be a hazardous waste. The Administrator shall provide notice and opportunity for comment on these additional factors before granting or denying such petition.
 
-(2)(A) To the maximum extent practicable the Administrator shall publish in the Federal Register a proposal to grant or deny a petition referred to in paragraph (1) within twelve months after receiving a complete application to exclude a waste generated at a particular facility from being regulated as a hazardous waste and shall grant or deny such a petition within twenty-four months after receiving a complete application.
+(2)(A) To the maximum extent practicable the Administrator shall publish in the Federal Register a proposal to grant or deny a petition referred to in paragraph (1) within twelve months after receiving a complete application to exclude a waste generated at a particular facilityfrom being regulated as a hazardous waste and shall grant or deny such a petition within twenty-four months after receiving a complete application.
 
 (B) The temporary granting of such a petition prior to November 8, 1984, without the opportunity for public comment and the full consideration of such comments shall not continue for more than twenty-four months after November 8, 1984. If a final decision to grant or deny such a petition has not been promulgated after notice and opportunity for public comment within the time limit prescribed by the preceding sentence, any such temporary granting of such petition shall cease to be in effect.
 
@@ -126,7 +126,7 @@ A resource recovery facility recovering energy from the mass burning of municipa
 
 &emsp;&emsp;(B) does not accept hazardous wastes identified or listed under this section, and
 
-&emsp;(2) the owner or operator of such facility has established contractual requirements or otherappropriate notification or inspection procedures to assure that hazardous wastes are not received at or burned in such facility.
+&emsp;(2) the owner or operator of such facility has established contractual requirements or other appropriate notification or inspection procedures to assure that hazardous wastes are not received at or burned in such facility.
 
 #### (j) Methamphetamine production
 
@@ -164,7 +164,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 #### Ash Management and Disposal
 
-Pub. L. 101–549, title III, §306, Nov. 15, 1990, 104 Stat. 2584, provided that: "For a period of 2 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990."
+Pub. L. 101–549, title III, §306, Nov. 15, 1990, 104 Stat. 2584, provided that: "For a period of 2 years after the date of enactment of the Clean Air Act Amendments of1990 \[Nov. 15, 1990\], ash from solid waste incineration units burning municipal waste shall not be regulated by the Administrator of the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\]. Such reference and limitation shall not be construed to prejudice, endorse or otherwise affect any activity by the Administrator following the 2-year period from the date of enactment of the Clean Air Act Amendments of 1990."
 
 #### Small Quantity Generator Waste; Inform and Educate; Waste Generators
 
@@ -180,7 +180,7 @@ Pub. L. 98–616, title II, §221(e), Nov. 8, 1984, 98 Stat. 3250, directed Admi
 
 #### Educational Institutions; Accumulation, Storage and Disposal of Hazardous Wastes; Study
 
-Pub. L. 98–616, title II, §221(f), Nov. 8, 1984, 98 Stat. 3250, as amended by Pub. L. 107–110, title X, §1076(aa),Jan. 8, 2002, 115 Stat. 2093, directed Administrator of Environmental Protection Agency, in consultation with Secretary of Education, the States, and appropriate educational associations, to conduct a comprehensive study of problems associated with accumulation, storage, and disposal of hazardous wastes from educational institutions, such study to include an investigation of feasibility and availability of environmentally sound methods for treatment, storage, or disposal of hazardous waste from such institutions, taking into account the types and quantities of such waste which are generated by these institutions, and the nonprofit nature of these institutions, and directed Administrator to submit a report to Congress containing the findings of the study not later than Apr. 1, 1987.
+Pub. L. 98–616, title II, §221(f), Nov. 8, 1984, 98 Stat. 3250, as amended by Pub. L. 107–110, title X, §1076(aa), Jan. 8, 2002, 115 Stat. 2093, directed Administrator of Environmental Protection Agency, in consultation with Secretary of Education, the States, and appropriate educational associations, to conduct a comprehensive study of problems associated with accumulation, storage, and disposal of hazardous wastes from educational institutions, such study to include an investigation of feasibility and availability of environmentally sound methods for treatment, storage, or disposal of hazardous waste from such institutions, taking into account the types and quantities of such waste which are generated by these institutions, and the nonprofit nature of these institutions, and directed Administrator to submit a report to Congress containing the findings of the study not later than Apr. 1, 1987.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "teratogens)".</i>
 

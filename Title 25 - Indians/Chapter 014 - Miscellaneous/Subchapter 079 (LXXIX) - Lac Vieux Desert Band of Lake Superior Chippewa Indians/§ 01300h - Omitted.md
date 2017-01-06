@@ -1,0 +1,10 @@
+### §1300h. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–420, §2, Sept. 8, 1988, 102 Stat. 1577, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 100–420, §1, Sept. 8, 1988, 102 Stat. 1577, provided that Pub. L. 100–420, enacting this subchapter, could be cited as the "Lac Vieux Desert Band of Lake Superior Chippewa Indians Act".
+

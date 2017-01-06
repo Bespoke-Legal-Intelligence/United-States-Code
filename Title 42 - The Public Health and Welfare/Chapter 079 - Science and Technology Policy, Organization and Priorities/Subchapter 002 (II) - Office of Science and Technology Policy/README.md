@@ -19,3 +19,5 @@
 - [&sect; 06622 - Coordination of advanced manufacturing research and development](%C2%A7%2006622%20-%20Coordination%20of%20advanced%20manufacturing%20research%20and%20development.md)
 - [&sect; 06623 - Interagency public access committee](%C2%A7%2006623%20-%20Interagency%20public%20access%20committee.md)
 - [&sect; 06624 - Federal scientific collections](%C2%A7%2006624%20-%20Federal%20scientific%20collections.md)
+- [&sect; 06625 - Coordination of international science and technology partnerships](%C2%A7%2006625%20-%20Coordination%20of%20international%20science%20and%20technology%20partnerships.md)
+- [&sect; 06626 - Working group on inclusion in STEM fields](%C2%A7%2006626%20-%20Working%20group%20on%20inclusion%20in%20STEM%20fields.md)

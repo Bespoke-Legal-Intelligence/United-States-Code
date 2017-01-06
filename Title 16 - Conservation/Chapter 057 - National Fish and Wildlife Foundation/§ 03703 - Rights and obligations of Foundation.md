@@ -70,7 +70,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(i) the conveyance or provision is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use; and
 
-&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal programunder which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision of Federal funds within 60 calendar days after the date of the notification.
+&emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision of Federal funds within 60 calendar days after the date of the notification.
 
 (4) All real property acquired by the Foundation in whole or in part with Federal funds and held by it shall be administered for the conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use.
 
@@ -106,7 +106,7 @@ Reconveyance of real property.—The Foundation shall convey at not less than fa
 
 #### (g) Consultation
 
-In carrying out any action on the part of the Foundation under subsection (f), the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
+In carrying out any action on the part of the Foundation under subsection (f), the Directorsof the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
 
 #### (h) Expenditures for printing services or capital equipment
 
@@ -134,7 +134,7 @@ Subsec. (c)(6) to (11). Pub. L. 106–408, §204(b), added par. (6) and redesign
 
 Subsec. (e)(1)(B). Pub. L. 106–408, §204(c), added subpar. (B) and struck out former subpar. (B) which read as follows: "the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the 'Director') consents to the acquisition in writing."
 
-Subsec. (e)(3)(B)(ii). Pub. L. 106–408, §204(e), added cl. (ii) and struck out former cl. (ii) which read as follows:"the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing."
+Subsec. (e)(3)(B)(ii). Pub. L. 106–408, §204(e), added cl. (ii) and struck out former cl. (ii) which read as follows: "the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing."
 
 Subsec. (e)(5). Pub. L. 106–408, §204(f), added par. (5) and struck out former par. (5) which read as follows: "The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
 
@@ -196,5 +196,5 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 #### Draw Down of Federal Funds; Exemption From Audit Requirements
 
-Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
+Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federalfunds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
 

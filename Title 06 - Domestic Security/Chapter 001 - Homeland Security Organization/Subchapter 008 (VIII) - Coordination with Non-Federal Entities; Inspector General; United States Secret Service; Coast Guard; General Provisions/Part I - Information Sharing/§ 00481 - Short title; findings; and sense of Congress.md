@@ -44,5 +44,5 @@ This part, referred to in subsec. (a), was in the original "This subtitle", mean
 
 #### Reports to Congress
 
-Pub. L. 110–28, title III, May 25, 2007, 121 Stat. 139, provided in part: "That starting July 1, 2007, the Secretary of Homeland Security shall submit quarterly reports tothe Committees on Appropriations of the Senate and the House of Representatives detailing the information required in House Report 110–107."
+Pub. L. 110–28, title III, May 25, 2007, 121 Stat. 139, provided in part: "That starting July 1, 2007, the Secretary of Homeland Security shall submit quarterly reports to the Committees on Appropriations of the Senate and the House of Representatives detailing the information required in House Report 110–107."
 

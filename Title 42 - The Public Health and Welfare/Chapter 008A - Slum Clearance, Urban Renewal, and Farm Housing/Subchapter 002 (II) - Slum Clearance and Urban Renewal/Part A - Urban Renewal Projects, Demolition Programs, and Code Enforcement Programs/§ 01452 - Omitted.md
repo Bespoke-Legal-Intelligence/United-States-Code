@@ -10,5 +10,5 @@ Pub. L. 90–448, title V, §507(b), Aug. 1, 1968, 82 Stat. 522, provided that l
 
 #### Temporary Relief From Interest Rate Conflict Between Federal and State Law
 
-Pub. L. 91–351, title VII, §702, July 24, 1970, 84 Stat. 462, provided that notwithstanding any other law, from July 24, 1970, until July 1, 1972, loans to local public agencies under this subchapter and to local public housing agencies under the United States Housing Act of 1937, section 1401 et seq. of this title, may, when determined by the Secretary of Housing and Urban Development to be necessary because of interest rate limitations of State laws, bear interest at a rate less than the applicable going Federal rate but not less than 6 percent per year.
+Pub. L. 91–351, title VII, §702, July 24, 1970, 84 Stat. 462, provided that notwithstanding any other law, fromJuly 24, 1970, until July 1, 1972, loans to local public agencies under this subchapter and to local public housing agencies under the United States Housing Act of 1937, section 1401 et seq. of this title, may, when determined by the Secretary of Housing and Urban Development to be necessary because of interest rate limitations of State laws, bear interest at a rate less than the applicable going Federal rate but not less than 6 percent per year.
 

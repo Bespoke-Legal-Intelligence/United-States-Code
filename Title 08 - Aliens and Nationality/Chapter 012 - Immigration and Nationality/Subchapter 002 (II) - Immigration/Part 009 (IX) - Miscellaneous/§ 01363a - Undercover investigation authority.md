@@ -48,7 +48,7 @@ In subsec. (a)(1)(A), (E), (2) to (4), "section 1341(a) of title 31" substituted
 
 In subsec. (a)(1)(B), (C), (F), "section 6301(a) and (b)(1) to (3) of title 41" substituted for "section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))", "chapter 45 of title 41" substituted for "section 305 of the Act of June 30, 1949 (63 Stat. 396; 41 U.S.C. 255)", and "section 6306 of title 41" substituted for "section 3741 of the Revised Statutes (41 U.S.C. 22)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(1)(D), "section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L.107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(1)(D), "section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (a)(1)(G), "section 3901 of title 41" substituted for "subsections (a) and (c) of section 304 of the Federal Property and Administrative Services Act of 1949 (63 Stat. 395; 41 U.S.C. 254(a) and (c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts and because subsec. (c) was previously repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320.
 

@@ -6,7 +6,7 @@ In General.—An employee of an agency assigned to a private sector organization
 
 (b)
 
-Coordination With Chapter 81.—Notwithstanding any other provision of law, an employee of an agency assigned to a private sector organization under this chapter is entitled to retain coverage, rights, and benefits under subchapter I of chapter 81, and employment during the assignment is deemed employment by the United States, except that, if the employee or the employee's dependents receive from the private sector organization any payment under an insurance policy for which the premium is wholly paid by the private sector organization, or other benefit of any kind on account of the same injury or death, then, the amount of such payment or benefit shall be credited against any compensation otherwise payable under subchapter I of chapter 81.
+Coordination With Chapter 81.—Notwithstanding any other provision of law, an employee of an agency assigned to a private sector organization under this chapter is entitled to retain coverage, rights, and benefits under subchapter I of chapter 81, and employment during the assignment is deemed employment by the United States, except that, if the employee or the employee's dependents receive from the private sector organization any payment under an insurance policy for which the premium is wholly paid by the private sector organization, orother benefit of any kind on account of the same injury or death, then, the amount of such payment or benefit shall be credited against any compensation otherwise payable under subchapter I of chapter 81.
 
 (c)
 
@@ -65,4 +65,8 @@ Committee on Government Reform of House of Representatives changed to Committee 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
+#### Effective Date
+
+Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 

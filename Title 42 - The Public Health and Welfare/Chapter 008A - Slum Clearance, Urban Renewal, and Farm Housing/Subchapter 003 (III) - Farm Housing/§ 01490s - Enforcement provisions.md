@@ -38,7 +38,7 @@
 
 &emsp;&emsp;The amount of a civil monetary penalty imposed under this subsection shall not exceed the greater of—
 
-&emsp;&emsp;&emsp;(i) twice the damages the Department of Agriculture, the guaranteed lender, or the project that is secured for a loan under this section suffered or would have suffered as a result of the violation; or
+&emsp;&emsp;&emsp;(i) twice the damages the Department of Agriculture, the guaranteed lender, or theproject that is secured for a loan under this section suffered or would have suffered as a result of the violation; or
 
 &emsp;&emsp;&emsp;(ii) $50,000 per violation.
 

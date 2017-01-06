@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) to propose adoption of any grouping of such standards, implementation specifications, or certification criteria, the Secretary shall, by regulation under section 553 of title 5, determine whether or not to adopt such grouping of standards, implementation specifications, or certification criteria; or
 
-&emsp;&emsp;(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator and the HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
+&emsp;&emsp;(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator and the HIT Advisory Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
 
 #### (3) Publication
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Not later than December 31, 2009, the Secretary shall, through the rulemaking process consistent with subsection (a)(2)(A), adopt an initial set of standards, implementation specifications, and certification criteria for the areas required for consideration under section 300jj–12(b)(2)(B) of this title. The rulemaking for the initial set of standards, implementation specifications, and certification criteria may be issued on an interim, final basis.
+&emsp;Not later than December 31, 2009, the Secretary shall, through the rulemaking process consistent with subsection (a)(2)(A), adopt an initial set of standards, implementation specifications, and certification criteria for the areas required for consideration under section 300jj–12(b)(2)(B) <sup>1</sup> of this title. The rulemaking for the initial set of standards, implementation specifications, and certification criteria may be issued on an interim, final basis.
 
 #### (2) Application of current standards, implementation specifications, and certification criteria
 
@@ -30,9 +30,71 @@
 
 #### (3) Subsequent standards activity
 
-&emsp;The Secretary shall adopt additional standards, implementation specifications, and certification criteria as necessary and consistent with the schedule published under section 300jj–13(b)(2) <sup>1</sup> of this title.
+&emsp;The Secretary shall adopt additional standards, implementation specifications, and certification criteria as necessary and consistent with the schedule published under section 300jj–12(b)(4) of this title.
 
-(July 1, 1944, ch. 373, title XXX, §3004, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 240.)
+#### (c) Deference to standards development organizations
 
-<i><sup>1</sup></i><i> So in original. Probably should be a reference to section 300jj–13(b)(3).</i>
+In adopting and implementing standards under this section, the Secretary shall give deference to standards published by standards development organizations and voluntary consensus-based standards bodies.
+
+(July 1, 1944, ch. 373, title XXX, §3004, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 240; amended Pub. L. 114–255, div. A, title IV, §4003(d), (e)(2)(A)(i), (D), Dec. 13, 2016, 130 Stat. 1168, 1174, 1175.)
+
+#### References in Text
+
+Section 300jj–12(b)(2)(B) of this title, referred to in subsec. (b)(1), related to areas of health information technology required to be considered by the HIT Policy Committee and was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(B). Pub. L. 114–255, §4003(e)(2)(A)(i), substituted "HIT Advisory Committee" for "HIT Standards Committee".
+
+Subsec. (b)(3). Pub. L. 114–255, §4003(e)(2)(D), substituted "300jj–12(b)(4)" for "300jj–13(b)(2)".
+
+Subsec. (c). Pub. L. 114–255, §4003(d), added subsec. (c).
+
+#### Leveraging Electronic Health Records To Improve Patient Care
+
+Pub. L. 114–255, div. A, title IV, §4005, Dec. 13, 2016, 130 Stat. 1180, provided that:
+
+"(a)
+
+Requirement Relating to Registries.—
+
+&emsp;"(1)
+
+In general.—To be certified in accordance with title XXX of the Public Health Service Act (42 U.S.C. 300jj et seq.), electronic health records shall be capable of transmitting to, and where applicable, receiving and accepting data from, registries in accordance with standards recognized by the Office of the National Coordinator for Health Information Technology, including clinician-led clinical data registries, that are also certified to be technically capable of receiving and accepting from, and where applicable, transmitting data to certified electronic health record technology in accordance with such standards.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in this subsection shall be construed to require the certification of registries beyond the technical capability to exchange data in accordance with applicable recognized standards.
+
+"(b)
+
+Definition.—For purposes of this Act \[see Tables for classification\], the term 'clinician-led clinical data registry' means a clinical data repository—
+
+&emsp;"(1) that is established and operated by a clinician-led or controlled, tax-exempt (pursuant to section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)\]), professional society or other similar clinician-led or -controlled organization, or such organization's controlled affiliate, devoted to the care of a population defined by a particular disease, condition, exposure or therapy;
+
+&emsp;"(2) that is designed to collect detailed, standardized data on an ongoing basis for medical procedures, services, or therapies for particular diseases, conditions, or exposures;
+
+&emsp;"(3) that provides feedback to participants who submit reports to the repository;
+
+&emsp;"(4) that meets standards for data quality including—
+
+&emsp;&emsp;"(A) systematically collecting clinical and other health care data, using standardized data elements and having procedures in place to verify the completeness and validity of those data; and
+
+&emsp;&emsp;"(B) being subject to regular data checks or audits to verify completeness and validity; and
+
+&emsp;"(5) that provides ongoing participant training and support.
+
+"(c)
+
+Treatment of Health Information Technology Developers With Respect to Patient Safety Organizations.—
+
+&emsp;"(1)
+
+In general.—In applying part C of title IX of the Public Health Service Act (42 U.S.C. 299b–21 et seq.), a health information technology developer shall be treated as a provider (as defined in section 921 of such Act \[42 U.S.C. 299b–21\]) for purposes of reporting and conducting patient safety activities concerning improving clinical care through the use of health information technology that could result in improved patient safety, health care quality, or health care outcomes.
+
+&emsp;"(2)
+
+Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning best practices and current trends voluntarily provided, without identifying individual providers or disclosing or using protected health information or individually identifiable information, by patient safety organizations to improve the integration of health information technology into clinical practice."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

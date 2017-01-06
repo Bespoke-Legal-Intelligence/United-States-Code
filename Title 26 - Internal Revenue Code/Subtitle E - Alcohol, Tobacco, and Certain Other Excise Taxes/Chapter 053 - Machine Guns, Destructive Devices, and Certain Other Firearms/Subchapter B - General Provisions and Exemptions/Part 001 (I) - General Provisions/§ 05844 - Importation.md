@@ -2,7 +2,7 @@
 
 No firearm shall be imported or brought into the United States or any territory under its control or jurisdiction unless the importer establishes, under regulations as may be prescribed by the Secretary, that the firearm to be imported or brought in is—
 
-&emsp;(1) being imported or brought in for the use of the United States or any department, independent establishment, or agency thereof orany State or possession or any political subdivision thereof; or
+&emsp;(1) being imported or brought in for the use of the United States or any department, independent establishment, or agency thereof or any State or possession or any political subdivision thereof; or
 
 &emsp;(2) being imported or brought in for scientific or research purposes; or
 

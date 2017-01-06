@@ -1,0 +1,6 @@
+### §505. Transferred
+
+#### Codification
+
+Section 505 was editorially reclassified as section 5205 of this title.
+

@@ -88,7 +88,7 @@ A member of the Delegate Body shall serve for a term of 1 year, except that the 
 
 #### (f) Compensation
 
-A member of the Delegate Body shall serve without compensation, but may be reimbursed by the Board from assessments collected under section 4809 of this title for transportation expenses incurred in performing duties as a member of the Delegate Body.
+A member of the Delegate Body shall serve without compensation, but may be reimbursedby the Board from assessments collected under section 4809 of this title for transportation expenses incurred in performing duties as a member of the Delegate Body.
 
 #### (g) Nomination of members to National Pork Board; annual meeting; majority vote in person to nominate
 
@@ -115,6 +115,10 @@ The Delegate Body shall—
 &emsp;(2) determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under section 4809(c)(1) of this title.
 
 (Pub. L. 99–198, title XVI, §1617, Dec. 23, 1985, 99 Stat. 1609.)
+
+#### Effective Date
+
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "4809(b)".</i>
 

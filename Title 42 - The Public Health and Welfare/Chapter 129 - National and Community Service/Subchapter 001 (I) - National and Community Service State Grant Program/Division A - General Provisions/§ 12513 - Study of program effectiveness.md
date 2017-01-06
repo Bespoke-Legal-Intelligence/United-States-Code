@@ -20,7 +20,7 @@ The performance measures developed under subsection (a) shall—
 
 #### (c) Report
 
-Not later than 2 years after the development of the performance measures under subsection (a), and every 5 years thereafter, the Comptroller General of the United States shall prepare and submit to the authorizing committees and the Corporation's Board of Directors a report containing an assessment of each such programwith respect to the performance measures developed under subsection (a).
+Not later than 2 years after the development of the performance measures under subsection (a), and every 5 years thereafter, the Comptroller General of the United States shall prepare and submit to the authorizing committees and the Corporation's Board of Directors a report containing an assessment of each such program with respect to the performance measures developed under subsection (a).
 
 #### (d) Definitions
 
@@ -38,7 +38,7 @@ In this section:
 
 #### References in Text
 
-Subtitle C, referred to in subsec. (d)(2), probably means subtitle C (§121 et seq.) of title I of Pub. L. 101–610, which is classified generally to division C (§12571 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
+Subtitle C, referred to in subsec. (d)(2), probably means subtitle C (§121 et seq.) of title I of Pub. L.101–610, which is classified generally to division C (§12571 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
 #### Codification
 

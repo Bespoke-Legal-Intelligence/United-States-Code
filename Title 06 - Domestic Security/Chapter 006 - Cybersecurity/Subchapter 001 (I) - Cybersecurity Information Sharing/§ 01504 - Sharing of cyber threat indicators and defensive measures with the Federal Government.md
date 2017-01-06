@@ -66,7 +66,7 @@
 
 #### (1) Interim guidelines
 
-&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultation with heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in connection with activities authorized in this subchapter.
+&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultation with heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entityobtained in connection with activities authorized in this subchapter.
 
 #### (2) Final guidelines
 
@@ -76,7 +76,7 @@
 
 #### (B) Periodic review
 
-&emsp;&emsp;The Attorney General and the Secretary of Homeland Security shall, in coordinationwith heads of the appropriate Federal entities and in consultation with officers and private entities described in subparagraph (A), periodically, but not less frequently than once every 2 years, jointly review the guidelines issued under subparagraph (A).
+&emsp;&emsp;The Attorney General and the Secretary of Homeland Security shall, in coordination with heads of the appropriate Federal entities and in consultation with officers and private entities described in subparagraph (A), periodically, but not less frequently than once every 2 years, jointly review the guidelines issued under subparagraph (A).
 
 #### (3) Content
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(E) does not limit or prohibit otherwise lawful disclosures of communications, records, or other information, including—
 
-&emsp;&emsp;&emsp;(i) reporting of known or suspected criminal activity, by a non-Federal entity to any other non-Federal entity or a Federal entity, including cyber threat indicators or defensive measures shared with a Federal entity in furtherance of opening a Federal law enforcement investigation;
+&emsp;&emsp;&emsp;(i) reporting of known or suspected criminal activity, by a non-Federal entityto any other non-Federal entity or a Federal entity, including cyber threat indicators or defensive measures shared with a Federal entity in furtherance of opening a Federal law enforcement investigation;
 
 &emsp;&emsp;&emsp;(ii) voluntary or legally compelled participation in a Federal investigation; and
 
@@ -184,7 +184,7 @@
 
 #### (4) Ex parte communications
 
-&emsp;The provision of a cyber threat indicator or defensive measure to the Federal Government under this subchapter shall not be subject to a rule of any Federal agency or department or any judicial doctrine regarding ex parte communications with a decision-making official.
+&emsp;The provision of a cyber threat indicator or defensive measure to the Federal Governmentunder this subchapter shall not be subject to a rule of any Federal agency or department or any judicial doctrine regarding ex parte communications with a decision-making official.
 
 #### (5) Disclosure, retention, and use
 

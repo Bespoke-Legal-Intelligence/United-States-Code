@@ -10,9 +10,9 @@ An individual is eligible for membership in the corporation only if the individu
 
 &emsp;(2) on the Korean peninsula or in its territorial waters for at least 30 consecutive days, or a total of 60 days, after June 30, 1949; or
 
-&emsp;(3) in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under section 310 of title 37.
+&emsp;(3) in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of title 37.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1481; Pub. L. 107–242, §1(a), Oct. 16, 2002, 116 Stat. 1497.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1481; Pub. L. 107–242, §1(a), Oct. 16, 2002, 116 Stat. 1497; Pub. L. 114–328, div. A, title VI, §618(g), Dec. 23, 2016, 130 Stat. 2160.)
 
 Historical and Revision Notes
 
@@ -30,9 +30,11 @@ Historical and Revision Notes
 
 May 28, 1936, ch. 471, §5, 49 Stat. 1391; May 29, 1953, ch. 85, §2, 67 Stat. 40; Mar. 7, 1995, Pub. L. 104–3, 109 Stat. 47.
 
-The words "is eligible for membership . . . only if" are substituted for "may not be a member . . . unless" for consistency in the revised title. The words "served honorably as a member of the armed forces of the United States" are substituted for "served honorably as a member of the Armed Forces of the United States" and "while a member of the Armed Forces of the United States, served honorably" to eliminate unnecessary words. In clause (2), the words "at least" are substituted for "not less than" for consistency in the revised title.
+The words "is eligible for membership . . . only if" are substituted for "may not be a member . . . unless"for consistency in the revised title. The words "served honorably as a member of the armed forces of the United States" are substituted for "served honorably as a member of the Armed Forces of the United States" and "while a member of the Armed Forces of the United States, served honorably" to eliminate unnecessary words. In clause (2), the words "at least" are substituted for "not less than" for consistency in the revised title.
 
 #### Amendments
+
+<b>2016</b>—Par. (3). Pub. L. 114–328 inserted "or 351" after "section 310".
 
 <b>2002</b>—Par. (3). Pub. L. 107–242 added par. (3).
 

@@ -24,7 +24,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (f) Maintenance of records
 
-&emsp;that the Council shall maintain such books and records, which shall be available to the Secretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting by the Council, with respect to the receipt and disbursement of all funds entrusted to it;
+&emsp;that the Council shall maintain such books and records, which shall be available to theSecretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting by the Council, with respect to the receipt and disbursement of all funds entrusted to it;
 
 #### (g) Contracts
 
@@ -43,4 +43,8 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 &emsp;that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
 (Pub. L. 95–113, title XVII, §1706, Sept. 29, 1977, 91 Stat. 1034.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

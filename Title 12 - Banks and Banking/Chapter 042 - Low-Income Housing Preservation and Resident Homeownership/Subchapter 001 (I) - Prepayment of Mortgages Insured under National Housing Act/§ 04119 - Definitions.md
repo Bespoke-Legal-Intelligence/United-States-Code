@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–327 is based on section 601(e) of title VI of S. 2281
 
 <b>1994</b>—Par. (4). Pub. L. 103–327 temporarily amended par. (4) to read as follows:
 
-"(4)(A) The term 'low-income tenants' means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
+"(4)(A) The term 'low-income tenants' means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (asdetermined by the Secretary with adjustments for family size).
 
 "(B) The term 'very low-income tenants' means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size)." See Effective and Termination Dates of 1994 Amendment note below.
 

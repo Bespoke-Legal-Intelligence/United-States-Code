@@ -8,7 +8,7 @@ Consistent with sections 3023 and 3024 of this title, the Secretary of Defense, 
 
 &emsp;(2) ensure appropriate implementation of the policies and resource decisions of the Director by elements of the Department of Defense within the National Intelligence Program;
 
-&emsp;(3) ensure that the tactical intelligence activities of the Department of Defense complement and are compatible with intelligence activities under the National Intelligence Program;
+&emsp;(3) ensure that the tactical intelligence activities of the Department of Defense complement and are compatible with intelligenceactivities under the National Intelligence Program;
 
 &emsp;(4) ensure that the elements of the intelligence community within the Department of Defense are responsive and timely with respect to satisfying the needs of operational military forces;
 
@@ -58,25 +58,27 @@ Consistent with sections 3023 and 3024 of this title, the Secretary of Defense s
 
 (2) The Director of the Defense Intelligence Agency may not expend more than five percent of the amounts made available to the Director under the National Intelligence Program for human intelligence and counterintelligence activities for a fiscal year for objects of a confidential, extraordinary, or emergency nature in accordance with paragraph (1) during such fiscal year unless—
 
-&emsp;(A) the Director notifies the congressional intelligence committees of the intent to expend the amounts; and
+&emsp;(A) the Director notifies the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives of the intent to expend the amounts; and
 
-&emsp;(B) 30 days have elapsed from the date on which the Director notifies the congressional intelligence committees in accordance with subparagraph (A).
+&emsp;(B) 30 days have elapsed from the date on which the Director notifies the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives in accordance with subparagraph (A).
 
 (3) For each expenditure referred to in paragraph (1), the Director shall certify that such expenditure was made for an object of a confidential, extraordinary, or emergency nature.
 
-(4) Not later than December 31 of each year, the Director of the Defense Intelligence Agency shall submit to the congressional intelligence committees a report on any expenditures made during the preceding fiscal year in accordance with paragraph (1).
+(4) Not later than December 31 of each year, the Director of the Defense Intelligence Agency shall submit to the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a report on any expenditures made during the preceding fiscal year in accordance with paragraph (1).
 
 #### (d) Use of elements of Department of Defense
 
-The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
+The Secretary of Defense, in carrying out the functions described in this section, may usesuch elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
 
-(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421; Pub. L. 108–136, div. A, title IX, §921(e)(2), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title III, §361(a), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §§1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692, 3694; Pub. L. 112–18, title IV, §411, June 8, 2011, 125 Stat. 228.)
+(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421; Pub. L. 108–136, div. A, title IX, §921(e)(2), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title III, §361(a), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §§1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692, 3694; Pub. L. 112–18, title IV, §411, June 8, 2011, 125 Stat. 228; Pub. L. 114–328, div. A, title X, §1066, Dec. 23, 2016, 130 Stat. 2411.)
 
 #### Codification
 
 Section was formerly classified to section 403–5 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(2), (4). Pub. L. 114–328 inserted ", the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives" after "committees" wherever appearing.
 
 <b>2011</b>—Subsec. (b)(5). Pub. L. 112–18, §411(1), inserted "and counterintelligence" after "human intelligence".
 
@@ -142,7 +144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) The production of open-source intelligence is a valuable intelligence discipline that must be integrated into intelligence tasking, collection, processing, exploitation, and dissemination to ensure that United States policymakers are fully and completely informed.
 
-&emsp;"(4) The dissemination and use of validated open-source intelligence inherently enables information sharing since open-source intelligence is produced without the use of sensitive sources and methods. Open-source intelligence products can be shared with the American public and foreign allies because of the unclassified nature of open-source intelligence.
+&emsp;"(4) The dissemination and use of validated open-source intelligence inherently enables information sharing since open-source intelligence is produced without the use of sensitive sources and methods.Open-source intelligence products can be shared with the American public and foreign allies because of the unclassified nature of open-source intelligence.
 
 &emsp;"(5) The National Commission on Terrorist Attacks Upon the United States (popularly referred to as the '9/11 Commission'), in its final report released on July 22, 2004, identified shortfalls in the ability of the United States to use all-source intelligence, a large component of which is open-source intelligence.
 
@@ -188,7 +190,7 @@ Matters to Be Included.—The strategy under subsection (b) shall include the fo
 
 &emsp;&emsp;"(B) into service intelligence organizations.
 
-&emsp;"(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systemsof the Department of Defense, including military personnel systems.
+&emsp;"(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systems of the Department of Defense, including military personnel systems.
 
 &emsp;"(9) A plan for the use of intelligence personnel of the reserve components to augment and support the open-source intelligence mission.
 
@@ -196,7 +198,7 @@ Matters to Be Included.—The strategy under subsection (b) shall include the fo
 
 #### Role of Director of Central Intelligence in Experimental Personnel Program for Certain Scientific and Technical Personnel
 
-Pub. L. 106–567, title V, §501, Dec. 27, 2000, 114 Stat. 2850, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "If the Director of Central Intelligence requests that the Secretary of Defense exercise any authority available to the Secretary under section 1101(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 5 U.S.C. 3104 note) to carry out a program of special personnel management authority at the National Geospatial-Intelligence Agency and the National Security Agency in order to facilitate recruitment of eminent experts in science and engineering at such agencies, the Secretary shall respond to such request not later than 30 days after the date of such request."
+Pub. L. 106–567, title V, §501, Dec. 27, 2000, 114 Stat. 2850, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "If the Director of Central Intelligence requests that the Secretary of Defense exercise any authority available to the Secretary under \[former\] section 1101(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 5 U.S.C. 3104 note) to carry out a program of special personnel management authority at the National Geospatial-Intelligence Agency and the National Security Agency in order to facilitate recruitment of eminent experts in science and engineering at such agencies, the Secretary shall respond to such request not later than 30 days after the date of such request."
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.\]
 

@@ -12,9 +12,13 @@
 
 (c) Each agency shall endeavor to provide notice of each regulatory flexibility agenda to small entities or their representatives through direct notification or publication of the agenda in publications likely to be obtained by such small entities and shall invite comments upon each subject area on the agenda.
 
-(d) Nothing in this section precludes an agency from considering or acting on any matter notincluded in a regulatory flexibility agenda, or requires an agency to consider or act on any matter listed in such agenda.
+(d) Nothing in this section precludes an agency from considering or acting on any matter not included in a regulatory flexibility agenda, or requires an agency to consider or act on any matter listed in such agenda.
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1166.)
+
+#### Effective Date
+
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

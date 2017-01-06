@@ -78,7 +78,7 @@ Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
 Pub. L. 103–236, §126(2)(A), substituted "Institution for training" for "Foreign Service Institute" as section catchline.
 
-Subsec. (a). Pub. L. 103–236, §126(2)(B), inserted heading, substituted "an institution or center for training\(hereinafter in this subchapter referred to as the 'institution')" for "the Foreign Service Institute (hereinafter in this subchapter referred to as the 'Institute'),", and substituted "institution shall" for "Institute shall".
+Subsec. (a). Pub. L. 103–236, §126(2)(B), inserted heading, substituted "an institution or center for training (hereinafter in this subchapter referred to as the 'institution')" for "the Foreign Service Institute (hereinafter in this subchapter referred to as the 'Institute'),", and substituted "institution shall" for "Institute shall".
 
 Subsec. (b). Pub. L. 103–236, §126(3), substituted "institution" for "Institute".
 
@@ -130,7 +130,7 @@ Foreign Language Resources Coordinator.—
 
 #### Foreign Service Institute Facilities
 
-Pub. L. 99–93, title I, §123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, §135, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 102–138, title I, §124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
+Pub. L. 99–93, title I, §123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, §135, Dec. 22, 1987,101 Stat. 1345; Pub. L. 102–138, title I, §124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
 
 "(a)
 
@@ -162,7 +162,7 @@ Jurisdiction and Custody.—The facility constructed under this section and the 
 
 "(e)
 
-Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3314\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
+Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3315\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
 
 "\[(2) Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.\]
 

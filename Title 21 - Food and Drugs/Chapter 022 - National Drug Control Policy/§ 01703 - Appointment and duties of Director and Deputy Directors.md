@@ -84,7 +84,7 @@ The Director—
 
 &emsp;&emsp;(E) implementation of drug treatment and prevention programs in the United States and improvements in the adequacy and effectiveness of such programs;
 
-&emsp;(14) shall submit to the appropriate congressional committees on an annual basis, notlater than 60 days after the date of the last day of the applicable period, a summary of—
+&emsp;(14) shall submit to the appropriate congressional committees on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
 
 &emsp;&emsp;(A) each of the evaluations received by the Director under paragraph (13); and
 
@@ -118,7 +118,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
+&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategyshall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
 
 #### (B) Submission of drug control budget requests
 
@@ -172,7 +172,7 @@ The Director—
 
 &emsp;&emsp;&emsp;(v) requests funding for drug treatment activities that do not adequately support and enhance Federal drug treatment programs and capacity;
 
-&emsp;&emsp;&emsp;(vi) requests funding for fiscal year 2007 for activities of the Department of Education, unless it is accompanied by a report setting forth a plan for providing expedited consideration of student loan applications for all individuals who submitted an application for any Federal grant, loan, or work assistance that was rejected or denied pursuant to 1091(r)(1) <sup>1</sup> of title 20 by reason of a conviction for a drug-related offense not occurring during a period of enrollment for which the individual was receiving any Federal grant, loan, or work assistance; and
+&emsp;&emsp;&emsp;(vi) requests funding for fiscal year 2007 for activities of the Department of Education, unless it is accompanied by a report setting forth a plan for providing expedited consideration of student loan applications for all individuals who submitted an application for any Federal grant, loan, or work assistance that was rejected or denied pursuant to 1091(r)(1) <sup>1</sup> of title 20by reason of a conviction for a drug-related offense not occurring during a period of enrollment for which the individual was receiving any Federal grant, loan, or work assistance; and
 
 &emsp;&emsp;&emsp;(vii) requests funding for the operations and management of the Department of Homeland Security that does not include a specific request for funds for the Office of Counternarcotics Enforcement to carry out its responsibilities under section 458 of title 6.
 
@@ -210,13 +210,13 @@ The Director—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) may issue a written decertification of that agency's budget; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a decertification issued under item (aa), shall submit tothe Senate and the House of Representatives and the appropriate congressional committees, a copy of—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a decertification issued under item (aa), shall submit to the Senate and the House of Representatives and the appropriate congressional committees, a copy of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(aaa) the decertification issued under item (aa);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(bbb) the description made under subparagraph (B); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(ccc) the budget recommendations made under subsection (b)(8) of this section.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(ccc) the budget recommendations made under subsection (b)(8).
 
 #### (4) Reprogramming and transfer requests
 
@@ -230,11 +230,11 @@ The Director—
 
 #### (d) Powers of the Director
 
-In carrying out subsection (b) of this section, the Director may—
+In carrying out subsection (b), the Director may—
 
 &emsp;(1) select, appoint, employ, and fix compensation of such officers and employees of the Office as may be necessary to carry out the functions of the Office under this chapter;
 
-&emsp;(2) subject to subsection (e)(3) of this section, request the head of a department or agency, or program of the Federal Government to place department, agency, or program personnel who are engaged in drug control activities on temporary detail to another department, agency, or program in order to implement the National Drug Control Strategy, and the head of the department or agency shall comply with such a request;
+&emsp;(2) subject to subsection (e)(3), request the head of a department or agency, or program of the Federal Government to place department, agency, or program personnel who are engaged in drug control activities on temporary detail to another department, agency, or program in order to implement the National Drug Control Strategy, and the head of the department or agency shall comply with such a request;
 
 &emsp;(3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
@@ -264,9 +264,9 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;&emsp;&emsp;(i) submit to Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office, and any other applicable committees of jurisdiction, a reprogramming or transfer request in advance of any transfer under this paragraph in accordance with the regulations of the affected agency or agencies; and
 
-&emsp;&emsp;&emsp;(ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) of this section during the 12-month period preceding the date on which the report is submitted;
+&emsp;&emsp;&emsp;(ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) during the 12-month period preceding the date on which the report is submitted;
 
-&emsp;(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) of this section to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);
+&emsp;(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);
 
 &emsp;(10) participate in the drug certification process pursuant to section 2291j of title 22 and section 2291j–1 of title 22.
 
@@ -296,7 +296,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (3) Maximum number of detailees
 
-&emsp;The maximum number of personnel who may be detailed to another department or agency (including the Office) under subsection (d)(2) of this section during any fiscal year is—
+&emsp;The maximum number of personnel who may be detailed to another department or agency (including the Office) under subsection (d)(2) during any fiscal year is—
 
 &emsp;&emsp;(A) for the Department of Defense, 50; and
 
@@ -368,7 +368,7 @@ Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and 
 
 This chapter, referred to in subsec. (h), was in the original "this Act" and was translated as reading "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, whichwas formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Central Intelligence Agency Act of 1949, referred to in subsec. (h), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -400,7 +400,7 @@ Subsec. (b)(16) to (20). Pub. L. 109–469, §103(b)(6), added pars. (16) to (20
 
 Subsec. (c)(1)(C). Pub. L. 109–469, §105(a), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 109–469, §105(b)(1), inserted "and the head of each major national organization that represents law enforcement officers, agencies, or associations" after "agency" in introductory provisions.
+Subsec. (c)(2). Pub. L. 109–469, §105(b)(1), inserted "and the head of each major national organization thatrepresents law enforcement officers, agencies, or associations" after "agency" in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 109–469, §105(b)(2), inserted "and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C)" before semicolon at end.
 
@@ -434,7 +434,7 @@ Pub. L. 109–469, §103(e), added pars. (4) and (5) set out first.
 
 Subsec. (g). Pub. L. 109–469, §103(f)(3)(A), amended subsec. (g) generally. Prior to amendment, text read as follows: "The provisions of this section shall not apply to the National Foreign Intelligence Program, the Joint Military Intelligence Program and Tactical Intelligence and Related Activities unless the agency that carries out such program is designated as a National Drug Control Program agency by the President or jointly by the Director and the head of the agency."
 
-Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: "Nothing in this chapter shall be construed as derogating the authorities and responsibilities of theDirector of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law."
+Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: "Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law."
 
 #### Effective Date of 2012 Amendment
 
@@ -462,7 +462,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 (d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction are sufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
 
-(e) The Director shall examine the number and structure of command/control and drug intelligence centers operated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
+(e) The Director shall examine the number and structure of command/control and drug intelligence centersoperated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
 
 (f) The Director, utilizing the services of the Drugs and Crime Data Center and Department of Justice Clearinghouse, shall assist in coordinating and enhancing the dissemination of statistics and studies relating to anti-drug abuse policy.
 

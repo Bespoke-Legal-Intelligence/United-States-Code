@@ -36,7 +36,7 @@ Improvements on leased properties.—The Administrator may make improvements to 
 
 (b)
 
-Certification of Necessity.—Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
+Certification of Necessity.—Except for Government money expended under this part orfor a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
 
 (c)
 
@@ -152,7 +152,7 @@ In subsection (a)(1), before clause (A), the words "within the limits of availab
 
 In subsection (a)(2), the words "by the Secretary" and "to the Secretary" are omitted as surplus. The last sentence is substituted for 49 App.:2205(a)(3) (last sentence) to eliminate unnecessary words.
 
-In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe" are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
+In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe"are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
 
 In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
 
@@ -238,7 +238,7 @@ Cancellation.—A contract described in subsection (a) may include a cancellatio
 
 "(c)
 
-Contract Provisions.—If feasible and practicable for the pilot program, the Administrator may make an advance contract provision to achieve economic-lot purchases and more efficient production rates.
+Contract Provisions.—If feasible and practicable for the pilot program, the Administrator maymake an advance contract provision to achieve economic-lot purchases and more efficient production rates.
 
 "(d)
 
@@ -326,7 +326,7 @@ In general.—The amount of each quarterly retention allowance payment to which 
 
 &emsp;"(2)
 
-Section rule.—In the case of an employee on leave without pay or other similar status for any part of the quarter prior to June 17, 1994, based on which the amount of the allowance payments for such employee under subsection (a) are computed, the 'amount of the last quarterly retention allowance payment paid to such employee under the personnel demonstration project prior to June 17, 1994' shall, for purposes of paragraph (1), be deemed to be the amount of the allowance which would have been payable to such employee for such quarter under such project had such employee been in pay status throughout such quarter.
+Section rule.—In the case of an employee on leave without pay or other similar status for any partof the quarter prior to June 17, 1994, based on which the amount of the allowance payments for such employee under subsection (a) are computed, the 'amount of the last quarterly retention allowance payment paid to such employee under the personnel demonstration project prior to June 17, 1994' shall, for purposes of paragraph (1), be deemed to be the amount of the allowance which would have been payable to such employee for such quarter under such project had such employee been in pay status throughout such quarter.
 
 "(c)
 

@@ -6,7 +6,7 @@
 
 (B) Within level AL–3, there shall be 6 rates of basic pay, designated as AL–3, rates A through F, respectively. Level AL–2 and level AL–1 shall each have 1 rate of basic pay.
 
-(C) The rate of basic pay for AL–3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule, and the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.
+(C) The rate of basic pay for AL–3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule, andthe rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.
 
 (2) The Office of Personnel Management shall determine, in accordance with procedures which the Office shall by regulation prescribe, the level in which each administrative-law-judge position shall be placed and the qualifications to be required for appointment to each level.
 
@@ -18,7 +18,7 @@
 
 (c) The Office of Personnel Management shall prescribe regulations necessary to administer this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5362; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92Stat. 183; renumbered §5372 and amended Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, §529 \[title I, §104(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, §2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, §1, Nov. 12, 1999, 113 Stat. 1322.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5362; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; renumbered §5372 and amended Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, §529 \[title I, §104(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, §2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, §1, Nov. 12, 1999, 113 Stat. 1322.)
 
 Historical and Revision Notes
 

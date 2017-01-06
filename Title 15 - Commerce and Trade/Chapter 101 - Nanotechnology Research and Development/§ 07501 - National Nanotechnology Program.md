@@ -50,7 +50,7 @@ The activities of the Program shall include—
 
 &emsp;&emsp;(C) insofar as possible, integrating research on societal, ethical, and environmental concerns with nanotechnology research and development, and ensuring that advances in nanotechnology bring about improvements in quality of life for all Americans; and
 
-&emsp;&emsp;(D) providing, through the National Nanotechnology Coordination Office established in section 7502 of this title, for public input and outreach to be integrated into the Program by the convening of regular and ongoing public discussions, through mechanisms such as citizens' panels, consensus conferences, and educational events, as appropriate; and
+&emsp;&emsp;(D) providing, through the National Nanotechnology Coordination Office established in section 7502 of this title, for public input and outreach to be integrated into the Program by the convening of regular and ongoing public discussions, through mechanisms such as citizens' panels, consensusconferences, and educational events, as appropriate; and
 
 &emsp;(11) encouraging research on nanotechnology advances that utilize existing processes and technologies.
 
@@ -64,17 +64,23 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 &emsp;(3) oversee interagency coordination of the Program, including with the activities of the Defense Nanotechnology Research and Development Program established under section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and the National Institutes of Health;
 
-&emsp;(4) develop, within 12 months after December 3, 2003, and update every 3 years thereafter, a strategic plan to guide the activities described under subsection (b), meet the goals, priorities, and anticipated outcomes of the participating agencies, and describe—
+&emsp;(4) develop, not later than 5 years after the date of the release of the most-recent strategic plan, and update every 5 years thereafter, a strategic plan to guide the activities described under subsection (b) that describes—
 
-&emsp;&emsp;(A) how the Program will move results out of the laboratory and into application for the benefit of society;
+&emsp;&emsp;(A) the near-term and long-term objectives for the Program;
 
-&emsp;&emsp;(B) the Program's support for long-term funding for interdisciplinary research and development in nanotechnology; and
+&emsp;&emsp;(B) the anticipated schedule for achieving the near-term objectives; and <sup>1</sup>
 
-&emsp;&emsp;(C) the allocation of funding for interagency nanotechnology projects;
+&emsp;&emsp;(C) the metrics that will be used to assess progress toward the near-term and long-term objectives;
+
+&emsp;&emsp;(D) how the Program will move results out of the laboratory and into application for the benefit of society;
+
+&emsp;&emsp;(E) the Program's support for long-term funding for interdisciplinary research and development in nanotechnology; and
+
+&emsp;&emsp;(F) the allocation of funding for interagency nanotechnology projects;
 
 &emsp;(5) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced nanotechnology research portfolio and an appropriate level of research effort;
 
-&emsp;(6) exchange information with academic, industry, State and local government (includingState and regional nanotechnology programs), and other appropriate groups conducting research on and using nanotechnology;
+&emsp;(6) exchange information with academic, industry, State and local government (including State and regional nanotechnology programs), and other appropriate groups conducting research on and using nanotechnology;
 
 &emsp;(7) develop a plan to utilize Federal programs, such as the Small Business Innovation Research Program and the Small Business Technology Transfer Research Program, in support of the activity stated in subsection (b)(7);
 
@@ -98,11 +104,21 @@ The Council shall prepare an annual report, to be submitted to the Senate Commit
 
 &emsp;(5) an assessment of how Federal agencies are implementing the plan described in subsection (c)(7), and a description of the amount of Small Business Innovative Research and Small Business Technology Transfer Research funds supporting the plan.
 
-(Pub. L. 108–153, §2, Dec. 3, 2003, 117 Stat. 1923.)
+(Pub. L. 108–153, §2, Dec. 3, 2003, 117 Stat. 1923; Pub. L. 114–329, title II, §204(b)(1), Jan. 6, 2017, 130 Stat. 2999.)
 
 #### References in Text
 
 Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (c)(3), is section 246 of Pub. L. 107–314, which is set out as a note under section 2358 of Title 10, Armed Forces.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (c)(4). Pub. L. 114–329 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "develop, within 12 months after December 3, 2003, and update every 3 years thereafter, a strategic plan to guide the activities described under subsection (b), meet the goals, priorities, and anticipated outcomes of the participating agencies, and describe—
+
+&emsp;"(A) how the Program will move results out of the laboratory and into application for the benefit of society;
+
+&emsp;"(B) the Program's support for long-term funding for interdisciplinary research and development in nanotechnology; and
+
+&emsp;"(C) the allocation of funding for interagency nanotechnology projects;".
 
 #### Change of Name
 
@@ -111,4 +127,6 @@ Committee on Science of House of Representatives changed to Committee on Science
 #### Short Title
 
 Pub. L. 108–153, §1, Dec. 3, 2003, 117 Stat. 1923, provided that: "This Act \[enacting this chapter\] may be cited as the '21st Century Nanotechnology Research and Development Act'."
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

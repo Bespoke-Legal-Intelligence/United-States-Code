@@ -10,7 +10,7 @@
 
 <b>2002</b>—Pub. L. 107–252, title VI, §601(b), Oct. 29, 2002, 116 Stat. 1721, added item for chapter 1526.
 
-Pub. L. 107–241, §1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted "AMVETS (American Veterans)" for"AMVETS (American Veterans of World War II, Korea, and Vietnam)" in item for chapter 227.
+Pub. L. 107–241, §1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted "AMVETS (American Veterans)" for "AMVETS (American Veterans of World War II, Korea, and Vietnam)" in item for chapter 227.
 
 <b>2000</b>—Pub. L. 106–474, title II, §201(b), Nov. 9, 2000, 114 Stat. 2095, added item for chapter 1524.
 

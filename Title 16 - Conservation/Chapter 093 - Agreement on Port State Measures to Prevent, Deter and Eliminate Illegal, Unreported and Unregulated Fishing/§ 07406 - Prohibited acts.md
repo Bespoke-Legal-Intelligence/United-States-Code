@@ -8,7 +8,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 &emsp;(3) to submit false information pursuant to any requirement under this chapter or the regulations issued under this chapter; or
 
-&emsp;(4) to commit any offense enumerated in paragraph (4), (5), (7), or (9) of section 707(a) <sup>1</sup> of the Western and Central Pacific FisheriesConvention Implementation Act (16 U.S.C. 6906(a)).
+&emsp;(4) to commit any offense enumerated in paragraph (4), (5), (7), or (9) of section 707(a) <sup>1</sup> of the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6906(a)).
 
 (Pub. L. 114–81, title III, §307, Nov. 5, 2015, 129 Stat. 667.)
 

@@ -1,6 +1,6 @@
 ### §8037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
 
-(a) There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years. The Judge Advocate General, while so serving, has the grade of lieutenant general.
+(a) There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years.
 
 (b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least eight years of experience in legal duties as commissioned officers.
 
@@ -12,13 +12,13 @@
 
 &emsp;(3) shall receive, revise, and have recorded the proceedings of courts of inquiry and military commissions.
 
-(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
+(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years.
 
 (2) When there is a vacancy in the office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
 (3) When paragraph (2) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the heads of the major divisions of the Office of the Judge Advocate General, in the order directed by the Secretary of the Air Force, shall perform the duties of the Judge Advocate General, unless otherwise directed by the President.
 
-(e) Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+(e) Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure thatthe officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (f) No officer or employee of the Department of Defense may interfere with—
 
@@ -26,7 +26,7 @@
 
 &emsp;(2) the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Pub. L. 96–343, §12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered §8037, Pub. L. 99–433, title V, §522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, §504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, §507(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 108–375, div. A, title V, §574(c), Oct. 28, 2004, 118 Stat. 1922; Pub. L.109–163, div. A, title V, §508(c), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, §543(c), Jan. 28, 2008, 122 Stat. 115.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Pub. L. 96–343, §12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered §8037, Pub. L. 99–433, title V, §522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, §504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, §507(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 108–375, div. A, title V, §574(c), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, §508(c), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, §543(c), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, §502(kk), Dec. 23, 2016, 130 Stat. 2106.)
 
 Historical and Revision Notes
 
@@ -67,6 +67,10 @@ In subsection (b), the words "Hereafter" and "exclusive of the present incumbent
 In subsection (c), the Act of June 23, 1874, ch. 458, §2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §502(kk)(1), struck out last sentence which read as follows: "The Judge Advocate General, while so serving, has the grade of lieutenant general."
+
+Subsec. (d)(1). Pub. L. 114–328, §502(kk)(2), struck out last sentence which read as follows: "An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general."
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "The Judge Advocate General, while so serving, has the grade of lieutenant general." for "The Judge Advocate General, while so serving, shall hold a grade not lower than major general."
 

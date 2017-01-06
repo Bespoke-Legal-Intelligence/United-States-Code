@@ -10,7 +10,7 @@ Pub. L. 104–106, div. A, title XV, §1501(f)(2), Feb. 10, 1996, 110 Stat. 501,
 
 #### Effective Date
 
-Section 1691 of title XVI of div. A of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title XVI, §1691, Oct. 5, 1994, 108 Stat. 3026, provided that:
 
 "(a)
 

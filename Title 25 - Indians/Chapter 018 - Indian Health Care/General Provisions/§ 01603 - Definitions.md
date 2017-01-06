@@ -188,7 +188,7 @@ In this chapter:
 
 &emsp;The term "Indians" or "Indian", unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) hereof,<sup>1</sup> except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who <sup>2</sup>
 
-&emsp;&emsp;(A),<sup>3</sup> irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
+&emsp;&emsp;(A),<sup>3</sup> irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognizednow or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
 
 &emsp;&emsp;(B) is an Eskimo or Aleut or other Alaska Native, or
 
@@ -254,11 +254,11 @@ In this chapter:
 
 #### (25) Tribal health program
 
-&emsp;The term "tribal health program" means an Indian tribe or tribal organization that operates any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;The term "tribal health program" means an Indian tribe or tribal organization that operates any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 #### (26) Tribal organization
 
-&emsp;The term "tribal organization" has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;The term "tribal organization" has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).<sup>1</sup>
 
 #### (27) Urban center
 
@@ -280,11 +280,11 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 Subsection (d) hereof, referred to in par. (13), was redesignated par. (14) of this section by section 10221(a) of Pub. L. 111–148.
 
-The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(iii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
+The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(iii), is Pub. L. 92–203, Dec. 18,1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 
 Section 1058(e) of title 20, referred to in par. (15), probably means section 1058(f) of title 20, which defines "junior or community college". Section 1058(e) of title 20 was redesignated section 1058(f) of title 20 by Pub. L. 105–244, title III, §303(b)(1), Oct. 7, 1998, 112 Stat. 1639.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (25), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (25) and (26), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Subsection (g) hereof, referred to in par. (28), was redesignated par. (27) of this section by section 10221(a) of Pub. L. 111–148.
 

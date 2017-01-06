@@ -6,7 +6,7 @@ The Director shall prepare the estimates of the annual appropriations required t
 
 #### (b) Actuarial valuations
 
-The Director shall cause to be made actuarial valuations of the fund at such intervals as the Director determines to be necessary, but not less often than every five years.
+The Director shall cause to be made actuarial valuations of the fund at such intervals as theDirector determines to be necessary, but not less often than every five years.
 
 #### (c) Changes in law affecting actuarial status of fund
 

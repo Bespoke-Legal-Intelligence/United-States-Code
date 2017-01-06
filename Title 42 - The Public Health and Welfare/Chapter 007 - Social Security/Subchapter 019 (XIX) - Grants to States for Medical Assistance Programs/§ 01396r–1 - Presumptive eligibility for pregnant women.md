@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) participates in a State perinatal program; or
 
-&emsp;&emsp;(iv) is the Indian Health Service or is a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) \[25 U.S.C. 450f et seq.\].
+&emsp;&emsp;(iv) is the Indian Health Service or is a health program or facility operated by a tribe or tribal organization under the IndianSelf-Determination Act (Public Law 93–638) \[25 U.S.C. 5321 et seq.\].
 
 > The term "qualified provider" also includes a qualified entity, as defined in section 1396r–1a(b)(3) of this title.
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;(B) information on how to assist such women in completing and filing such forms.
 
-(2) A qualified provider that determines under subsection (b)(1)(A) of this section that a pregnant woman is presumptively eligible for medical assistance under a State plan shall—
+(2) A qualified provider that determines under subsection (b)(1)(A) that a pregnant woman is presumptively eligible for medical assistance under a State plan shall—
 
 &emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made, and
 
@@ -88,7 +88,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III)
 
 Section 4(a) of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(D)(ii)(II), is section 4(a) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, which is set out as a note under section 612c of Title 7, Agriculture.
 
-The Indian Self-Determination Act (Public Law 93–638), referred to in subsec. (b)(2)(D)(iv), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act (Public Law 93–638), referred to in subsec. (b)(2)(D)(iv), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -118,7 +118,7 @@ Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end ", 
 
 Pub. L. 101–508, §4605(a)(2), substituted "by not later than the last day of the month following the month during which" for "within 14 calendar days after the date on which".
 
-<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted "section 254b, 254c, or 256 of this title," for "section 254b of this title or section 254c of this title, or" in subcl. (I), substituted "chapter, or" for "chapter;" in subcl. (II), and added subcl. (III).
+<b>1988</b>—Subsec. (b)(2)(D)(i). Pub. L. 100–360, §411(k)(16)(B)(i), substituted "section 254b, 254c, or 256 of this title," for "section 254b of this title or section254c of this title, or" in subcl. (I), substituted "chapter, or" for "chapter;" in subcl. (II), and added subcl. (III).
 
 Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out "or" after "1973;".
 

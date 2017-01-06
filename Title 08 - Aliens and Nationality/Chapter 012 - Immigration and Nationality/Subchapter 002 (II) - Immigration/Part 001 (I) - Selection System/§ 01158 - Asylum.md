@@ -44,11 +44,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establish that the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
+&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establishthat the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
 
 #### (ii) Sustaining burden
 
-&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony,such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
+&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony, such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
 
 #### (iii) Credibility determination
 
@@ -118,7 +118,7 @@
 
 #### (2) Termination of asylum
 
-&emsp;Asylum granted under subsection (b) does not convey a right to remain permanently inthe United States, and may be terminated if the Attorney General determines that—
+&emsp;Asylum granted under subsection (b) does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that—
 
 &emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) owing to a fundamental change in circumstances;
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date\(except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments
 

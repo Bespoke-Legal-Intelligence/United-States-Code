@@ -1,0 +1,6 @@
+### §1300d–6. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–555, title III, §302, Oct. 25, 1972, 86 Stat. 1170, which required any person qualifying for enrollment with more than one group to elect the group with which he would be enrolled for the purpose of this part, was omitted from the Code as being of special and not general application.
+

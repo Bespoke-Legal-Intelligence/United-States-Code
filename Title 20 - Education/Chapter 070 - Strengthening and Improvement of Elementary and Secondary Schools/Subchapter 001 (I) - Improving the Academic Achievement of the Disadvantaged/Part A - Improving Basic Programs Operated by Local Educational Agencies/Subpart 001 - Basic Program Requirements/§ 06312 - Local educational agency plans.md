@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is developed with timely and meaningful consultation with teachers, principals, other school leaders, paraprofessionals, specialized instructional support personnel, charter school leaders (in a local educational agency that has charter schools), administrators (including administrators of programs described in other parts of this subchapter), other appropriate school personnel, and with parents of children in schools served under this part; and
 
-&emsp;&emsp;(B) as appropriate, is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (20 U.S.C. 701 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.), the Adult Education and Family Literacy Act (29 U.S.C. 3271 et seq.), and other Acts as appropriate.
+&emsp;&emsp;(B) as appropriate, is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Rehabilitation Act of 1973 (20 U.S.C. 701 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.), the Adult Education and Family Literacy Act (29U.S.C. 3271 et seq.), and other Acts as appropriate.
 
 #### (2) Consolidated application
 
@@ -54,7 +54,7 @@ To ensure that all children receive a high-quality education, and to close the a
 
 &emsp;&emsp;(D) identifying and implementing instructional and other strategies intended to strengthen academic programs and improve school conditions for student learning;
 
-&emsp;(2) how the local educational agency will identify and address, as required under State plans as described in section 6311(g)(1)(B) of this title, any disparities that result in low-income students and minority students being taught at higher rates than other students byineffective, inexperienced, or out-of-field teachers;
+&emsp;(2) how the local educational agency will identify and address, as required under State plans as described in section 6311(g)(1)(B) of this title, any disparities that result in low-income students and minority students being taught at higher rates than other students by ineffective, inexperienced, or out-of-field teachers;
 
 &emsp;(3) how the local educational agency will carry out its responsibilities under paragraphs (1) and (2) of section 6311(d) of this title;
 

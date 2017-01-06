@@ -36,7 +36,7 @@ Prior to the promulgation of rules or regulations under this section, the Secret
 
 #### (f) Minerals Management Office; establishment; duties
 
-There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundaries of the Big Cypress National Preserve and the Addition.
+There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundariesof the Big Cypress National Preserve and the Addition.
 
 #### (g) Authorization of appropriations
 

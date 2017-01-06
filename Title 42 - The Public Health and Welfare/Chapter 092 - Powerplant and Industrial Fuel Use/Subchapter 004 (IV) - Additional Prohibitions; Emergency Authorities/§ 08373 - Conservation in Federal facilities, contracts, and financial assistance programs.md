@@ -42,7 +42,7 @@ The effective date of this chapter, referred to in subsec. (b)(1), is the effect
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out ", major fuel-burning installation, or other unit" after "electric powerplant" and ", installation, or unit" after "such powerplant".
 
-Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out ", installation, or other unit" after "powerplant" in introductory provisions, ", installation, or unit" after "powerplant" in subpar. (A), and last sentence which read as follows: "Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary."
+Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out ", installation, or other unit" after "powerplant" in introductory provisions, ", installation, or unit" after "powerplant" in subpar. (A), and last sentence which read as follows: "Any powerplant, installation,or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary."
 
 Subsec. (a)(3). Pub. L. 100–42, §1(c)(14)(D), struck out par. (3) which read as follows: "Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person."
 
@@ -52,7 +52,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Ex. Ord. No. 12185. Effectuation of Conservation of Petroleum and Natural Gas by Recipients of Federal Financial Assistance
 

@@ -1,0 +1,6 @@
+### §622. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1949, ch. 425, §2, 63 Stat. 605, which related to exchange of Pueblo and Navajo tribal lands, was omitted from the Code as being of special and not general application.
+

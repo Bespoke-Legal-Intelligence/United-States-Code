@@ -20,7 +20,7 @@
 
 <b>1986</b>—Pub. L. 99–554, title I, §144(g)(1), Oct. 27, 1986, 100 Stat. 3097, substituted "40" for "39" as chapter designation.
 
-<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039, substituted "independent counsel" for "specialprosecutor" in chapter heading and in items 592, 594, and 596.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039, substituted "independent counsel" for "special prosecutor" in chapter heading and in items 592, 594, and 596.
 
 
 ---

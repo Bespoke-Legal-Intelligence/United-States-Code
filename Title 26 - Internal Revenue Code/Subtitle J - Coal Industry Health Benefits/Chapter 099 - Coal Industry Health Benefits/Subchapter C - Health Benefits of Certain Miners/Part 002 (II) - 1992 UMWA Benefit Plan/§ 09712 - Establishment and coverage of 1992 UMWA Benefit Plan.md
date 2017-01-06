@@ -60,7 +60,7 @@
 
 #### (2) Managed care
 
-&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of this subsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
+&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment ruleswhich shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of this subsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
 
 #### (3) Major elements of rules
 
@@ -130,7 +130,7 @@
 
 &emsp;For purposes of this section, the term "1988 last signatory operator" means a last signatory operator which is a 1988 agreement operator.
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432,div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026.)
 
 #### References in Text
 

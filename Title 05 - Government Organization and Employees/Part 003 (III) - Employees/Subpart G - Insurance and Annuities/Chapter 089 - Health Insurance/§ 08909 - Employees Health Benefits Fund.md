@@ -14,7 +14,7 @@
 
 &emsp;(2) For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
 
-> The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The income derived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in future rates, or may be applied to reduce the contributions of enrollees and the Government to, or toincrease the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
+> The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The income derived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in future rates, or may be applied to reduce the contributions of enrollees and the Government to, or to increase the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
 
 (c) The Secretary of the Treasury may invest and reinvest any of the money in the Fund in interest-bearing obligations of the United States, and may sell these obligations for the purposes of the Fund. The interest on and the proceeds from the sale of these obligations become a part of the Fund.
 
@@ -28,7 +28,7 @@
 
 (f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
 
-(2) Paragraph (1) shall not be construed to exempt any carrier or underwriting or plan administration subcontractor of an approved health benefits plan from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such carrier or underwriting or plan administration subcontractor from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
+(2) Paragraph (1) shall not be construed to exempt any carrier or underwriting or plan administration subcontractor of an approved health benefits plan from the imposition, payment, orcollection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such carrier or underwriting or plan administration subcontractor from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
 (g) The fund described in subsection (a) is available to pay costs that the Office incurs for activities associated with implementation of the demonstration project under section 1108 of title 10.
 
@@ -120,7 +120,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 &emsp;"(A) shall determine the minimum level of financial reserves necessary to be held by a carrier for each health benefits plan under chapter 89 of such title for the purpose of ensuring the stable and efficient operation of such plan; and
 
-&emsp;"(B) shall require the carrier to refund to the Employees Health Benefits Fund (described in section 8909(a) of title 5, United States Code) any such reserves in excess of such minimum level in such amounts and at such times during fiscal years 1986 and 1987 as the Office determines appropriate.
+&emsp;"(B) shall require the carrier to refund to the Employees Health Benefits Fund (described in section8909(a) of title 5, United States Code) any such reserves in excess of such minimum level in such amounts and at such times during fiscal years 1986 and 1987 as the Office determines appropriate.
 
 "(2) In carrying out its responsibilities under this subsection, the Office shall ensure that the aggregate amount to be refunded to the Employees Health Benefits Fund under this subsection—
 

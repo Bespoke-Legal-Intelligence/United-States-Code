@@ -14,11 +14,11 @@
 
 #### (B) Requirement of Presidential action
 
-&emsp;&emsp;For each foreign country the government of which engages in or tolerates violations of religious freedom, the President shall oppose such violations and promote the right to freedom of religion in that country through the actions described in subsection (b).
+&emsp;&emsp;For each foreign country the government of which engages in or tolerates violations ofreligious freedom, the President shall oppose such violations and promote the right to freedom of religion in that country through the actions described in subsection (b).
 
 #### (2) Basis of actions
 
-&emsp;Each action taken under paragraph (1)(B) shall be based upon information regarding violations of religious freedom, as described in the latest Country Reports on Human Rights Practices, the Annual Report and Executive Summary, and on any other evidence available, and shall take into account any findingsor recommendations by the Commission with respect to the foreign country.
+&emsp;Each action taken under paragraph (1)(B) shall be based upon information regarding violations of religious freedom, as described in the latest Country Reports on Human Rights Practices, the Annual Report and Executive Summary, and on any other evidence available, and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
 
 #### (b) Presidential actions
 

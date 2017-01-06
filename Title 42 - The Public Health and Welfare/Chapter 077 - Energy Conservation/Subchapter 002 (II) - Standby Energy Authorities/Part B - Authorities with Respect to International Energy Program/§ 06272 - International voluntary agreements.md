@@ -128,7 +128,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 #### (n) Joint resolution of disapproval
 
-(1)(A) The application of defenses under subsections (f) and (j) of this section for Type 1 activities with respect to any plan of action transmitted to Congress as described in subsection (m)(1)(A)(i) of this section shall be disapproved if a joint resolution of disapproval has been enacted into law during the 90-day period of continuous session after which such transmission was received by the Congress. For the purpose ofthis subsection, the term "joint resolution" means only a joint resolution of either House of the Congress as described in paragraph (3).
+(1)(A) The application of defenses under subsections (f) and (j) of this section for Type 1 activities with respect to any plan of action transmitted to Congress as described in subsection (m)(1)(A)(i) of this section shall be disapproved if a joint resolution of disapproval has been enacted into law during the 90-day period of continuous session after which such transmission was received by the Congress. For the purpose of this subsection, the term "joint resolution" means only a joint resolution of either House of the Congress as described in paragraph (3).
 
 (B) After receipt by the Congress of such plan of action, a joint resolution of disapproval may be introduced in either House of the Congress. Upon introduction in the Senate, the joint resolution shall be referred in the Senate immediately to the Committee on Energy and Natural Resources of the Senate.
 

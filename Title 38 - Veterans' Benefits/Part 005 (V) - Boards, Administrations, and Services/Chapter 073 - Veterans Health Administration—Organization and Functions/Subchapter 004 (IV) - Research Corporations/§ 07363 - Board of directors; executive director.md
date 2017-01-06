@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(iii) as appropriate for the activities of such corporation, the associate chief of staff for research and the associate chief of staff for education; or
 
-&emsp;&emsp;(B) in the case of a Department medical center at which one or more of the positions referred to in subparagraph (A) do not exist,the official or officials who are responsible for carrying out the responsibilities of such position or positions at the Department medical center; and
+&emsp;&emsp;(B) in the case of a Department medical center at which one or more of the positions referred to in subparagraph (A) do not exist, the official or officials who are responsible for carrying out the responsibilities of such position or positions at the Department medical center; and
 
 &emsp;(2) subject to subsection (c), not less than two members who are not officers or employees of the Federal Government and who have backgrounds, or business, legal, financial, medical, or scientific expertise, of benefit to the operations of the corporation.
 

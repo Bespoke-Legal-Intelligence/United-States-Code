@@ -60,7 +60,7 @@ In general.—Subject to the availability of funds under section 5128(c), the Se
 
 &emsp;(2)
 
-Eligibility.—A grant under this subsection shall be made through a competitiveprocess to a nonprofit organization that demonstrates—
+Eligibility.—A grant under this subsection shall be made through a competitive process to a nonprofit organization that demonstrates—
 
 &emsp;&emsp;(A) expertise in conducting a training program for hazmat employees; and
 

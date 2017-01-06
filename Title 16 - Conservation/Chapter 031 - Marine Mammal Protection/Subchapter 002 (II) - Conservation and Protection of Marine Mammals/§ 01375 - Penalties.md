@@ -4,7 +4,7 @@
 
 (2) In any case involving an alleged unlawful importation of a marine mammal or marine mammal product, if such importation is made by an individual for his own personal or family use (which does not include importation as an accommodation to others or for sale or other commercial use), the Secretary may, in lieu of instituting a proceeding under paragraph (1), allow the individual to abandon the mammal or product, under procedures to be prescribed by the Secretary, to the enforcement officer at the port of entry.
 
-(b) Any person who knowingly violates any provision of this subchapter or of any permit orregulation issued thereunder (except as provided in section 1387 of this title) shall, upon conviction, be fined not more than $20,000 for each such violation, or imprisoned for not more than one year, or both.
+(b) Any person who knowingly violates any provision of this subchapter or of any permit or regulation issued thereunder (except as provided in section 1387 of this title) shall, upon conviction, be fined not more than $20,000 for each such violation, or imprisoned for not more than one year, or both.
 
 (Pub. L. 92–522, title I, §105, Oct. 21, 1972, 86 Stat. 1036; Pub. L. 97–58, §3(b), Oct. 9, 1981, 95 Stat. 982; Pub. L. 103–238, §13(a), (b), Apr. 30, 1994, 108 Stat. 558.)
 

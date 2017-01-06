@@ -17,7 +17,7 @@
 | 701b–8. | Submission of report by Chief of Engineers. |
 | 701b–8a. | Discontinuance of preliminary examination reports. |
 | 701b–9. | Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures. |
-| 701b–10. | Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation. |
+| 701b–10. | Omitted. |
 | 701b–11. | Flood protection projects. |
 | 701b–12. | Floodplain management requirements. |
 | 701b–13. | Repealed. |
@@ -121,7 +121,7 @@
 - [&sect; 00701b&#8211;8 - Submission of report by Chief of Engineers](%C2%A7%2000701b%E2%80%938%20-%20Submission%20of%20report%20by%20Chief%20of%20Engineers.md)
 - [&sect; 00701b&#8211;8a - Discontinuance of preliminary examination reports](%C2%A7%2000701b%E2%80%938a%20-%20Discontinuance%20of%20preliminary%20examination%20reports.md)
 - [&sect; 00701b&#8211;9 - Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of&#8230;](%C2%A7%2000701b%E2%80%939%20-%20Availability%20of%20appropriations%20for%20expenses%20incident%20to%20operation%20of%20power%20boats%20or%20vessels%3B%20expenses%20defined%3B%20certification%20of%E2%80%A6.md)
-- [&sect; 00701b&#8211;10 - Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation](%C2%A7%2000701b%E2%80%9310%20-%20Revolving%20fund%3B%20establishment%3B%20availability%3B%20reimbursement%3B%20transfer%20of%20funds%3B%20limitation.md)
+- [&sect; 00701b&#8211;10 - Omitted](%C2%A7%2000701b%E2%80%9310%20-%20Omitted.md)
 - [&sect; 00701b&#8211;11 - Flood protection projects](%C2%A7%2000701b%E2%80%9311%20-%20Flood%20protection%20projects.md)
 - [&sect; 00701b&#8211;12 - Floodplain management requirements](%C2%A7%2000701b%E2%80%9312%20-%20Floodplain%20management%20requirements.md)
 - [&sect; 00701b&#8211;13 - Repealed. Pub. L. 113&#8211;121, title I, &sect;1014(c)(3), June 10, 2014, 128 Stat. 1222](%C2%A7%2000701b%E2%80%9313%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93121%2C%20title%20I%2C%20%C2%A71014%28c%29%283%29%2C%20June%2010%2C%202014%2C%20128%20Stat.%201222.md)

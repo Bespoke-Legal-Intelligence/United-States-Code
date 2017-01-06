@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A committee shall not be considered to be the Inaugural Committee forpurposes of this chapter unless the committee agrees to, and meets, the requirements of subsections (b) and (c).
+In General.—A committee shall not be considered to be the Inaugural Committee for purposes of this chapter unless the committee agrees to, and meets, the requirements of subsections (b) and (c).
 
 (b)
 

@@ -22,15 +22,21 @@ The Administrator shall evaluate on a continuing basis the potential effects on 
 
 (B) If public hearings are to be held on any matter involved in an investigation conducted under this subsection—
 
-&emsp;(i) at least five days' notice shall be provided the person making the request for the investigation and any person identified in such request,
+&emsp;(i) at least five days' notice shall be provided the person making the request for the investigation and any person identified in such request, and
 
-&emsp;(ii) such hearings shall be held in accordance with section 2605(c)(3) of this title, and
-
-&emsp;(iii) each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
+&emsp;(ii) each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
 
 (3) Upon completion of an investigation under paragraph (2), the Administrator shall make findings of fact, shall make such recommendations as the Administrator deems appropriate, and shall make available to the public such findings and recommendations.
 
 (4) This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.
 
-(Pub. L. 94–469, title I, §24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, §24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(p), June 22, 2016, 130 Stat. 510.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(2)(B)(ii), (iii). Pub. L. 114–182 redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: "such hearings shall be held in accordance with section 2605(c)(3) of this title, and".
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 

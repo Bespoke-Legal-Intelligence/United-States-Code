@@ -8,7 +8,7 @@ Congress declares that it is the policy of the United States that—
 
 &emsp;(2) Corps of Engineers approval of non-Federal hydroelectric power at Corps of Engineers civil works projects, including permitting required under section 408 of this title, shall be completed by the Corps of Engineers in a timely and consistent manner; and
 
-&emsp;(3) approval of hydropower at Corps of Engineers civil works projects shall in no way diminish the other priorities and missions of the Corps of Engineers, including authorized project purposes and habitat and environmental protection.
+&emsp;(3) approval of hydropower at Corps of Engineers civil works projects shall in no way diminish the other priorities and missions of theCorps of Engineers, including authorized project purposes and habitat and environmental protection.
 
 #### (b) Report
 

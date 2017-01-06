@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the National Institutes of Health (in this sectionreferred to as the "Director"), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the "Program"). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
+The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the "Director"), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the "Program"). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
 
 #### (b) Plan for Program
 
 #### (1) In general
 
-&emsp;The Director, in consultation with the Trauma Research Interagency Coordinating Committee established under subsection (g) of this section, shall establish and implement a plan for carrying out the activities of the Program, including the activities described in subsection (d) of this section. All such activities shall be carried out in accordance with the plan. The plan shall be periodically reviewed, and revised as appropriate.
+&emsp;The Director, in consultation with the Trauma Research Interagency Coordinating Committee established under subsection (g), shall establish and implement a plan for carrying out the activities of the Program, including the activities described in subsection (d). All such activities shall be carried out in accordance with the plan. The plan shall be periodically reviewed, and revised as appropriate.
 
 #### (2) Submission to Congress
 
@@ -48,11 +48,11 @@ The Program shall include—
 
 #### (e) Mechanisms of support
 
-In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1) of this section, may make grants to public and nonprofit entities, including designated trauma centers.
+In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1), may make grants to public and nonprofit entities, including designated trauma centers.
 
 #### (f) Resources
 
-The Director shall assure the availability of appropriate resources to carry out the Program, including the plan established under subsection (b) of this section (including the activities described in subsection (d) of this section).
+The Director shall assure the availability of appropriate resources to carry out the Program, including the plan established under subsection (b) (including the activities described in subsection (d)).
 
 #### (g) Coordinating Committee
 
@@ -70,7 +70,7 @@ The Director shall assure the availability of appropriate resources to carry out
 
 #### (3) Composition
 
-&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c) of this section, have responsibilities under the Program, and any other individuals who are practitioners in the trauma field as designated by the Director of the National Institutes of Health.
+&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c), have responsibilities under the Program, and any other individuals who are practitioners in the trauma field as designated by the Director of the National Institutes of Health.
 
 #### (h) Definitions
 

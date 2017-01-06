@@ -20,7 +20,47 @@ Proceeds.—The proceeds referred to in paragraph (1) are proceeds under this ch
 
 Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, §20(a), Dec. 16, 2016, 130 Stat. 1477; Pub. L. 114–318, §7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–287, §20, Dec. 16, 2016, 130 Stat. 1477, which Act is set out as a note under section 1303 of this title, provided that, effective upon the termination of the Public Buildings Reform Board pursuant to section 10 of Pub. L. 114–287 and not applicable to proceeds from transactions conducted under section 14 of Pub. L. 114–287, this section is amended by striking subsections (a) and (b) and inserting the following:</i>
+
+<i>(a)</i>
+
+<i>Proceeds From Transfer or Sale of Real Property.—</i>
+
+&emsp;<i>(1)</i>
+
+<i>Deposit of net proceeds.—Net proceeds described in subsection (c) shall be deposited into the appropriate real property account of the agency that had custody and accountability for the real property at the time the real property is determined to be excess.</i>
+
+&emsp;<i>(2)</i>
+
+<i>Expenditure of net proceeds.—The net proceeds deposited pursuant to paragraph (1) may only be expended, as authorized in annual appropriations Acts, for activities described in sections 543 and 545, including paying costs incurred by the General Services Administration for any disposal-related activity authorized by this chapter.</i>
+
+&emsp;<i>(3)</i>
+
+<i>Deficit reduction.—Any net proceeds described in subsection (c) from the sale, lease, or other disposition of surplus real property that are not expended under paragraph (2) shall be used for deficit reduction. Any net proceeds not obligated within 3 years after the date of deposit and not expended within 5 years after such date shall be deposited as miscellaneous receipts in the Treasury.</i>
+
+<i>(b)</i>
+
+<i>Effect on Other Sections.—Nothing in this section is intended to affect section 572(b), 573, or 574.</i>
+
+<i>(c)</i>
+
+<i>Net Proceeds.—The net proceeds described in this subsection are proceeds under this chapter, less expenses of the transfer or disposition as provided in section 572(a), from a—</i>
+
+&emsp;<i>(1) transfer of excess real property to a Federal agency for agency use; or</i>
+
+&emsp;<i>(2) sale, lease, or other disposition of surplus real property.</i>
+
+<i>Pub. L. 114–318, §7(c), Dec. 16, 2016, 130 Stat. 1616, provided that, effective as if enacted as part of Pub. L. 114–287, this section is amended by adding at the end the following:</i>
+
+<i>(d)</i>
+
+<i>Savings Provision.—Nothing in this section modifies, alters, or repeals any other provision of Federal law directing the use of retained proceeds relating to the sale of property of an agency.</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -45,4 +85,18 @@ June 30, 1949, ch. 288, title II, §204(a), 63 Stat. 388; Pub. L. 101–510, div
 June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, §2(20), 65 Stat. 707; Pub. L. 104–316, title I, §120(a), Oct. 19, 1996, 110 Stat. 3836.
 
 In subsection (b), the words "whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law" are substituted for "either as miscellaneous receipts on account of 'proceeds of Government property' or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be" to eliminate unnecessary words.
+
+#### Amendments
+
+<b>2016</b>—Subsecs. (a) to (c). Pub. L. 114–287 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to deposit in the Treasury as miscellaneous receipts of net proceeds from transfer or other disposition of surplus property and payment of expenses of sale before deposit.
+
+Subsec. (d). Pub. L. 114–318 added subsec. (d).
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–318, §7(c)(2), Dec. 16, 2016, 130 Stat. 1617, provided that: "The amendments made by this subsection \[amending this section\] shall take effect as if enacted as part of the applicable Act \[Pub. L. 114–287\]."
+
+Pub. L. 114–318, §7(e), Dec. 16, 2016, 130 Stat. 1617, provided that: "Except as provided in subsection (c)(2) \[set out above\], this section \[amending this section and provisions set out as a note under section 1303 of this title\] and the amendments made by this section shall take effect immediately after the enactment of the applicable Act \[Pub. L. 114–287\]."
+
+Amendment by Pub. L. 114–287 effective upon the termination of the Public Buildings Reform Board pursuant to section 10 of Pub. L. 114–287 and not applicable to proceeds from transactions conducted under section 14 of Pub. L. 114–287, see section 20(b) of Pub. L. 114–287, set out in a note under section 1303 of this title.
 

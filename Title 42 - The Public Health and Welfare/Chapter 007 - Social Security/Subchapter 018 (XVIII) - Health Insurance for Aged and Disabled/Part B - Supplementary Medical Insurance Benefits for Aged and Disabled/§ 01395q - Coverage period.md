@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the monthfollowing the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
@@ -34,7 +34,7 @@ Where an individual who is deemed to have enrolled for medical insurance pursuan
 
 #### (c) Termination
 
-In the case of an individual satisfying paragraph (1) of section 1395o of this title whose entitlement to hospital insurance benefits under part A of this subchapter is based on a disability rather than on his having attained the age of 65, his coverage period (and his enrollment under this part) shall be terminated as of the close of the last month for which he is entitled to hospital insurance benefits.
+In the case of an individual satisfying paragraph (1) of section 1395o of this title whose entitlement to hospital insurance benefits under part A is based on a disability rather than on his having attained the age of 65, his coverage period (and his enrollment under this part) shall be terminated as of the close of the last month for which he is entitled to hospital insurance benefits.
 
 #### (d) Payment of expenses incurred during coverage period
 
@@ -42,7 +42,7 @@ No payments may be made under this part with respect to the expenses of an indiv
 
 #### (e) Commencement of coverage for special enrollment periods
 
-Notwithstanding subsection (a) of this section, in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(i)(3) or 1395p(i)(4)(B) of this title—
+Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(i)(3) or 1395p(i)(4)(B) of this title—
 
 &emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
 

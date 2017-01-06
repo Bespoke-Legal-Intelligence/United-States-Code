@@ -1,0 +1,6 @@
+### §1300i–10. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–580, §11, Oct. 31, 1988, 102 Stat. 2935, which set out special considerations related to certain tribal lands, was omitted from the Code as being of special and not general application.
+

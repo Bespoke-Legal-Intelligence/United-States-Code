@@ -26,7 +26,7 @@ Grants under this subchapter may be used in public housing or other federally as
 
 #### (b) Other PHA-owned housing
 
-Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a) of this section, but only if—
+Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a), but only if—
 
 &emsp;(1) the housing is located in a high intensity drug trafficking area designated pursuant to section 1504 <sup>1</sup> of title 21; and
 

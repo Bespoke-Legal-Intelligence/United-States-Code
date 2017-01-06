@@ -4,7 +4,7 @@
 
 &emsp;(1) the United States may, by written notice to the contractor, terminate the right of the contractor to proceed under the contract if the Secretary concerned or his designee finds, after notice and hearing, that the contractor, or his agent or other representative, offered or gave any gratuity, such as entertainment or a gift, to an officer, official, or employee of the United States to obtain a contract or favorable treatment in the awarding, amending, or making of determinations concerning the performance, of a contract; and
 
-&emsp;(2) if a contract is terminated under clause (1), the United States has the same remedies against the contractor that it would have had if the contractor had breached the contract and, in addition to other damages, is entitled to exemplary damages in an amount at least three, but not more than 10, as determined by the Secretary or his designee, times the cost incurred by the contractor in giving gratuities to the officer, official, or employee concerned.
+&emsp;(2) if a contract is terminated under clause (1), the United States has the same remedies against the contractor that it would have hadif the contractor had breached the contract and, in addition to other damages, is entitled to exemplary damages in an amount at least three, but not more than 10, as determined by the Secretary or his designee, times the cost incurred by the contractor in giving gratuities to the officer, official, or employee concerned.
 
 > The existence of facts upon which the Secretary makes findings under clause (1) may be reviewed by any competent court.
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 June 30, 1954, ch. 432, §719, 68 Stat. 353.
 
-The following substitutions are made: "spent" for "expended"; "United States" for "Government"; "if acontract is terminated under clause (1)" for "that in the event any such contract is so terminated"; and "has . . . that it would have had if" for "shall be entitled . . . to pursue . . . as it could pursue in the event of". The word "official" is inserted for clarity. The words "entered into after June 30, 1954" are omitted as executed.
+The following substitutions are made: "spent" for "expended"; "United States" for "Government"; "if a contract is terminated under clause (1)" for "that in the event any such contract is so terminated"; and "has . . . that it would have had if" for "shall be entitled . . . to pursue . . . as it could pursue in the event of". The word "official" is inserted for clarity. The words "entered into after June 30, 1954" are omitted as executed.
 
 #### Amendments
 

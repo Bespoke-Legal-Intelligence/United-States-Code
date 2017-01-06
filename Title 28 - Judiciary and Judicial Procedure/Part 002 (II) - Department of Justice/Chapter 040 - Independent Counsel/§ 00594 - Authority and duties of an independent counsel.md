@@ -90,7 +90,7 @@ National security.—An independent counsel shall comply with guidelines and pro
 
 (g)
 
-Dismissal of Matters.—The independent counsel shall have full authority to dismiss matters within the independent counsel's prosecutorial jurisdiction without conducting an investigation or at any subsequent time before prosecution, if to do so would be consistent with thewritten or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
+Dismissal of Matters.—The independent counsel shall have full authority to dismiss matters within the independent counsel's prosecutorial jurisdiction without conducting an investigation or at any subsequent time before prosecution, if to do so would be consistent with the written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
 (h)
 
@@ -106,7 +106,7 @@ Required reports.—An independent counsel shall—
 
 &emsp;(2)
 
-Disclosure of information in reports.—The division of the court may release to the Congress, the public, or any appropriate person, such portions of a report made under this subsection as the division of the court considers appropriate. The division of the court shall make such orders as are appropriate to protect the rights of any individual named in such report and to prevent undue interference with any pending prosecution. The division of the court may make any portion of a final report filed under paragraph (1)(B) available to any individual named in such report for the purposes of receiving within a time limit set by the division of the court any comments or factual information that such individual may submit. Such comments and factual information, in whole or in part, may, in the discretion of the division of the court, be included as an appendix to such final report.
+Disclosure of information in reports.—The division of the court may release to the Congress, the public, or any appropriate person, such portions of a report made under this subsection as the division of the court considers appropriate. The division of the court shall make such orders as are appropriate to protect the rights of any individual named in such report and to prevent undue interference with any pending prosecution. The division of the court may make any portion of a final reportfiled under paragraph (1)(B) available to any individual named in such report for the purposes of receiving within a time limit set by the division of the court any comments or factual information that such individual may submit. Such comments and factual information, in whole or in part, may, in the discretion of the division of the court, be included as an appendix to such final report.
 
 &emsp;(3)
 
@@ -224,7 +224,7 @@ Administrative support.—The Director of the Administrative Office of the Unite
 
 Office space.—The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009-23; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 

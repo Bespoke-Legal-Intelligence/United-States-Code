@@ -22,7 +22,7 @@ Another prior section 4304 was renumbered section 7604 of this title.
 
 Section 4305, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1600, §2025; renumbered §4305, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, directed the Secretary of Labor, through the Office of Veterans' Reemployment Rights, to render assistance in obtaining reemployment.
 
-Section 4306, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1600, §2026; renumbered §4306, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to prior rights for reemployment in a case inwhich more than one person is entitled to be reemployed.
+Section 4306, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1600, §2026; renumbered §4306, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to prior rights for reemployment in a case in which more than one person is entitled to be reemployed.
 
 A prior section 4307, added Pub. L. 102–25, title III, §339(a), Apr. 6, 1991, 105 Stat. 91, §2027; renumbered §4307, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to qualification for employment position, prior to repeal by Pub. L. 103–353, §8(d)(2), Oct. 13, 1994, 108 Stat. 3176, eff. Aug. 1, 1990.
 

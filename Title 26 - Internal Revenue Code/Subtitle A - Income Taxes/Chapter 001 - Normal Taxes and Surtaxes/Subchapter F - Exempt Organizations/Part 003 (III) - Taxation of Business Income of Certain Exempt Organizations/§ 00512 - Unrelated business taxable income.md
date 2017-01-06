@@ -52,7 +52,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;&emsp;(II) For purposes of subclause (I), the term "reserve for post-retirement medical or life insurance benefits" means the greater of the amount of assets set aside for purposes of post-retirement medical or life insurance benefits to be provided to covered employees as of the close of the last plan year ending before the date of the enactment of the Tax Reform Act of 1984 or on July 18, 1984.
 
-&emsp;&emsp;&emsp;&emsp;(III) All payments during plan years ending on or after the date of the enactment of the Tax Reform Act of 1984 of post-retirement medical benefits or life insurance benefits shall be charged against the reserve referred to in subclause (II). Except to the extent provided in regulations prescribed by the Secretary, all plans of an employer shall betreated as 1 plan for purposes of the preceding sentence.
+&emsp;&emsp;&emsp;&emsp;(III) All payments during plan years ending on or after the date of the enactment of the Tax Reform Act of 1984 of post-retirement medical benefits or life insurance benefits shall be charged against the reserve referred to in subclause (II). Except to the extent providedin regulations prescribed by the Secretary, all plans of an employer shall be treated as 1 plan for purposes of the preceding sentence.
 
 #### (iii) Treatment of tax exempt organizations
 
@@ -114,7 +114,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;(B) property held primarily for sale to customers in the ordinary course of the trade or business.
 
-> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture ofgood-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
+> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse ortermination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
 
 &emsp;(6) The net operating loss deduction provided in section 172 shall be allowed, except that—
 
@@ -182,7 +182,7 @@ Control.—The term "control" means—
 
 &emsp;&emsp;&emsp;(ii)
 
-Constructive ownership.—Section 318 (relating to constructive ownership ofstock) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
+Constructive ownership.—Section 318 (relating to constructive ownership of stock) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
 
 &emsp;&emsp;(E)
 

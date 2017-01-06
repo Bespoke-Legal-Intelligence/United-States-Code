@@ -18,7 +18,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 #### (1) Notification
 
-&emsp;An agency or instrumentality of the Federal Government shall notify the chairperson of the President's Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a) of this section.
+&emsp;An agency or instrumentality of the Federal Government shall notify the chairperson of the President's Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a).
 
 #### (2) Notification descriptions
 
@@ -36,7 +36,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 #### (A) In general
 
-&emsp;&emsp;In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President's Council on Environmental Quality before using the Foundation or Institute to provide the services described in subsection (a) of this section.
+&emsp;&emsp;In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President's Council on Environmental Quality before using the Foundation or Institute to provide the services described in subsection (a).
 
 #### (B) Indication of concurrence or nonconcurrence
 
@@ -70,7 +70,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 (2)
 
-Payment into the environmental dispute resolution fund.—Entities utilizing services pursuant to this subsection shall reimburse the Institute for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
+Payment into the environmental dispute resolution fund.—Entities utilizing servicespursuant to this subsection shall reimburse the Institute for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
 
 #### (f) Agency management or control
 

@@ -60,7 +60,7 @@ As used in this chapter—
 
 #### (15) State and United States
 
-&emsp;The terms "State" and "United States" include the 50 States of the United States, theDistrict of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The terms "State" and "United States" include the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 101–624, title XIX, §1923, Nov. 28, 1990, 104 Stat. 3855.)
 

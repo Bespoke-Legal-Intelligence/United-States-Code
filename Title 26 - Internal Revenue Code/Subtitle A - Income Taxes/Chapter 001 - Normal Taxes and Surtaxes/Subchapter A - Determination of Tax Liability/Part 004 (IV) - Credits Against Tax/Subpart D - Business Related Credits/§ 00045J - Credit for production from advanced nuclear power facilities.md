@@ -16,7 +16,7 @@ For purposes of section 38, the advanced nuclear power facility production credi
 
 #### (1) In general
 
-&emsp;The amount of credit which would (but for this subsection and subsection (c)) be allowed with respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as—
+&emsp;The amount of credit which would (but for this subsection and subsection (c)) be allowedwith respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as—
 
 &emsp;&emsp;(A) the national megawatt capacity limitation allocated to the facility, bears to
 

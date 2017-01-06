@@ -120,7 +120,7 @@ In this section:
 
 #### (3) No liability for nonparticipation
 
-&emsp;Nothing in this section shall be construed to subject a health care industry stakeholder to liability for choosing not to engage in the voluntary activities authorized or guidelines developed under this subsection.
+&emsp;Nothing in this section shall be construed to subject a health care industry stakeholder toliability for choosing not to engage in the voluntary activities authorized or guidelines developed under this subsection.
 
 #### (e) Incorporating ongoing activities
 

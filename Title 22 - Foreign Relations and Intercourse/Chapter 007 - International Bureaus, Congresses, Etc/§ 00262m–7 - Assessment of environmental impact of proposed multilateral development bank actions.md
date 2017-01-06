@@ -16,7 +16,7 @@ The Secretary of the Treasury shall seek the adoption of policies and procedures
 
 The Secretary of the Treasury shall—
 
-&emsp;(1) ensure that an environmental impact assessment or comprehensive summary of such assessment described in subsection (a) of this section accompanies loan proposals through the agency review process; and
+&emsp;(1) ensure that an environmental impact assessment or comprehensive summary of such assessment described in subsection (a) accompanies loan proposals through the agency review process; and
 
 &emsp;(2) take into consideration recommendations from all other interested Federal agencies and interested members of the public.
 
@@ -28,7 +28,7 @@ The Secretary of the Treasury, in consultation with other Federal agencies, incl
 
 &emsp;(2) in determining the position of the United States on any action proposed to be taken by a multilateral development bank, develop and prescribe procedures for the consideration of, among other things—
 
-&emsp;&emsp;(A) the environmental impact assessment of the action described in subsection (a) of this section;
+&emsp;&emsp;(A) the environmental impact assessment of the action described in subsection (a);
 
 &emsp;&emsp;(B) interagency and public review of such assessment; and
 

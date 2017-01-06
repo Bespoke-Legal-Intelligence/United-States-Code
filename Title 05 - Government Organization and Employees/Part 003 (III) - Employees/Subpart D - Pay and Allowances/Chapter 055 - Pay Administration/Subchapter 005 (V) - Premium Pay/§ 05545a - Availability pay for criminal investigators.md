@@ -36,7 +36,7 @@
 
 &emsp;(4) the term "regular work day" means each day in the investigator's basic work week during which the investigator works at least 4 hours that are not overtime hours paid under section 5542 or hours considered part of section 5545a.
 
-(b) The purpose of this section is to provide premium pay to criminal investigators to ensurethe availability of criminal investigators for unscheduled duty in excess of a 40 hour work week based on the needs of the employing agency.
+(b) The purpose of this section is to provide premium pay to criminal investigators to ensure the availability of criminal investigators for unscheduled duty in excess of a 40 hour work week based on the needs of the employing agency.
 
 (c) Each criminal investigator shall be paid availability pay as provided under this section. Availability pay shall be paid to ensure the availability of the investigator for unscheduled duty. The investigator is generally responsible for recognizing, without supervision, circumstances which require the investigator to be on duty or be available for unscheduled duty based on the needs of the agency. Availability pay provided to a criminal investigator for such unscheduled duty shall be paid instead of premium pay provided by other provisions of this subchapter, except premium pay for regularly scheduled overtime work as provided under section 5542, night duty, Sunday duty, and holiday duty.
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(B) such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(i) The provisions of subsections (a)–(h) providing for availability pay shall apply to a pilot employed by the United States Customs Service who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title, and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(16) and (b)(30)), such pilot shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
+(i) The provisions of subsections (a)–(h) providing for availability pay shall apply to any employee of the U.S. Customs and Border Protection's Air and Marine Operations, or any successor organization, who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title, and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(16) and (b)(30)), such employee shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
 
 (j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
@@ -100,7 +100,7 @@
 
 &emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for "Office of Personnel Management" the following: "Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)".
 
-(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat.3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
+(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828; Pub. L. 114–250, §1(a), Dec. 8, 2016, 130 Stat. 1001.)
 
 #### References in Text
 
@@ -109,6 +109,8 @@ Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is t
 Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (i). Pub. L. 114–250 substituted "apply to any employee of the U.S. Customs and Border Protection's Air and Marine Operations, or any successor organization," for "apply to a pilot employed by the United States Customs Service" and "such employee" for "such pilot".
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title IV, §407(c)(1)\] and §2316(c)(1), amended subsec. (a)(2) identically, substituting "Public Law 99–399, subject to subsection (k))" for "Public Law 99–399)" in introductory provisions.
 
@@ -124,13 +126,17 @@ Subsec. (i). Pub. L. 104–19, §902(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–250, §1(b), Dec. 8, 2016, 130 Stat. 1001, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after the date that is 14 days after the date of enactment of this Act \[Dec. 8, 2016\]."
+
 #### Effective Date of 1998 Amendment
 
 For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d) of Pub. L. 105–277, set out as a note under section 5542 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: "This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations."
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §207\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–378, provided that: "This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided underthe amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations."
 
 #### Effective Date of 1995 Amendment
 
@@ -150,7 +156,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IV, §407(b)\], div. G, subdiv. B, t
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Certification of Criminal Investigators
 

@@ -15,17 +15,20 @@
 | [2432\.](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports. |
 | [2433\.](%C2%A7%2002433%20-%20Unit%20cost%20reports.md) | Unit cost reports. |
 | [2433a.](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md) | Critical cost growth in major defense acquisition programs. |
-| [2434\.](%C2%A7%2002434%20-%20Independent%20cost%20estimates.md) | Independent cost estimates. |
+| \[2434. | Repealed.\] |
 | [2435\.](%C2%A7%2002435%20-%20Baseline%20description.md) | Baseline description. |
 | [2436\.](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md) | Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States. |
 | [2437\.](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md) | Development of major defense acquisition programs: sustainment of system to be replaced. |
 | [2438\.](%C2%A7%2002438%20-%20Performance%20assessments%20and%20root%20cause%20analyses.md) | Performance assessments and root cause analyses. |
 | \[2439. | Repealed.\] |
 | [2440\.](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md) | Technology and industrial base plans. |
+| [2441\.](%C2%A7%2002441%20-%20Sustainment%20reviews.md) | Sustainment reviews. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §§842(c)(2), 849(c)(2), Dec. 23, 2016, 130 Stat. 2290, 2294, struck out item 2434 "Independent cost estimates" and added item 2441.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VIII, §§821(a)(2), 822(a)(2), 831(c)(2), Nov. 25, 2015, 129 Stat. 900, 901, 912, added items 2431a and 2431b and substituted "Independent cost estimates" for "Independent cost estimates; operational manpower requirements" in item 2434.
 
@@ -68,10 +71,11 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02432 - Selected Acquisition Reports](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md)
 - [&sect; 02433 - Unit cost reports](%C2%A7%2002433%20-%20Unit%20cost%20reports.md)
 - [&sect; 02433a - Critical cost growth in major defense acquisition programs](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md)
-- [&sect; 02434 - Independent cost estimates](%C2%A7%2002434%20-%20Independent%20cost%20estimates.md)
+- [&sect; 02434 - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;842(c)(1), Dec. 23, 2016, 130 Stat. 2290](%C2%A7%2002434%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7842%28c%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202290.md)
 - [&sect; 02435 - Baseline description](%C2%A7%2002435%20-%20Baseline%20description.md)
 - [&sect; 02436 - Major defense acquisition programs incentive program for contractors to purchase capital assets manufactured in United States](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md)
 - [&sect; 02437 - Development of major defense acquisition programs sustainment of system to be replaced](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md)
 - [&sect; 02438 - Performance assessments and root cause analyses](%C2%A7%2002438%20-%20Performance%20assessments%20and%20root%20cause%20analyses.md)
 - [&sect; 02439 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3007(a), Oct. 13, 1994, 108 Stat. 3331](%C2%A7%2002439%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73007%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203331.md)
 - [&sect; 02440 - Technology and industrial base plans](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md)
+- [&sect; 02441 - Sustainment reviews](%C2%A7%2002441%20-%20Sustainment%20reviews.md)

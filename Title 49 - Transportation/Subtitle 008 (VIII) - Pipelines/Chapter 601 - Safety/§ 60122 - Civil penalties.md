@@ -152,5 +152,5 @@ Subsec. (b). Pub. L. 107–355, §8(b)(2), substituted "under this section—" a
 
 #### Comptroller General Study
 
-Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
+Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmissionpipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
 

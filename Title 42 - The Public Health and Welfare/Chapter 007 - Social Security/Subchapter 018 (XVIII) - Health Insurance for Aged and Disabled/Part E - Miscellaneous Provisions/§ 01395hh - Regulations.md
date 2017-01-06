@@ -14,11 +14,11 @@
 
 (D) The Secretary shall annually submit to Congress a report that describes the instances in which the Secretary failed to publish a final regulation within the applicable regular timeline under this paragraph and that provides an explanation for such failures.
 
-(4) If the Secretary publishes a final regulation that includes a provision that is not a logical outgrowth of a previously published notice of proposed rulemaking or interim final rule, such provision shall be treated as a proposed regulation and shall not take effect until there is the further opportunity for public comment and a publication of the provision again as a final regulation.
+(4) If the Secretary publishes a final regulation that includes a provision that is not a logical outgrowth of a previously published notice of proposed rulemaking or interim final rule, such provision shall be treated as a proposed regulation and shall not take effect until thereis the further opportunity for public comment and a publication of the provision again as a final regulation.
 
 #### (b) Notice of proposed regulations; public comment
 
-(1) Except as provided in paragraph (2), before issuing in final form any regulation under subsection (a) of this section, the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.
+(1) Except as provided in paragraph (2), before issuing in final form any regulation under subsection (a), the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.
 
 (2) Paragraph (1) shall not apply where—
 
@@ -34,7 +34,7 @@
 
 &emsp;(A) are promulgated to carry out this subchapter, but
 
-&emsp;(B) are not published pursuant to subsection (a)(1) of this section and have not been previously published in a list under this subsection.
+&emsp;(B) are not published pursuant to subsection (a)(1) and have not been previously published in a list under this subsection.
 
 (2) Effective June 1, 1988, each fiscal intermediary and carrier administering claims for extended care, post-hospital extended care, home health care, and durable medical equipment benefits under this subchapter shall make available to the public all interpretative materials, guidelines, and clarifications of policies which relate to payments for such benefits.
 
@@ -42,7 +42,7 @@
 
 #### (e) <sup>1</sup> Retroactivity of substantive changes; reliance upon written guidance
 
-(1)(A) A substantive change in regulations, manual instructions, interpretative rules, statements of policy, or guidelines of general applicability under this subchapter shall not be applied (by extrapolation or otherwise) retroactively toitems and services furnished before the effective date of the change, unless the Secretary determines that—
+(1)(A) A substantive change in regulations, manual instructions, interpretative rules, statements of policy, or guidelines of general applicability under this subchapter shall not be applied (by extrapolation or otherwise) retroactively to items and services furnished before the effective date of the change, unless the Secretary determines that—
 
 &emsp;(i) such retroactive application is necessary to comply with statutory requirements; or
 
@@ -62,7 +62,7 @@
 
 &emsp;(iii) the guidance was in error;
 
-> the provider of services or supplier shall not be subject to any penalty or interest under this subchapter or the provisions of subchapter XI of this chapter insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
+> the provider of services or supplier shall not be subject to any penalty or interest under this subchapter or the provisions of subchapter XI insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
 
 (B) Subparagraph (A) shall not be construed as preventing the recoupment or repayment (without any additional penalty) relating to an overpayment insofar as the overpayment was solely the result of a clerical or technical operational error.
 
@@ -72,7 +72,7 @@
 
 (2) In preparing a report under paragraph (1), the Secretary shall collect—
 
-&emsp;(A) information from individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
+&emsp;(A) information from individuals entitled to benefits under part A or enrolled under part B, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
 
 &emsp;(B) information from medicare contractors that tracks the nature of written and telephone inquiries.
 
@@ -110,7 +110,7 @@ Pub. L. 108–173, title IX, §903(a)(2), Dec. 8, 2003, 117 Stat. 2376, provided
 
 Pub. L. 108–173, title IX, §903(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to compliance actions undertaken on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
-Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposedwith respect to guidance provided on or after July 24, 2003."
+Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003."
 
 #### Effective Date of 1987 Amendment
 

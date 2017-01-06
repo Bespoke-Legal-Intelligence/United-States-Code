@@ -4,7 +4,7 @@
 
 Subject to the extent of amounts made available in appropriations Acts, the amount of an allotment under section 300d–11(a) of this title for a State for a fiscal year shall be the greater of—
 
-&emsp;(1) the amount determined under subsection (b)(1) of this section; and
+&emsp;(1) the amount determined under subsection (b)(1); and
 
 &emsp;(2) $250,000 in the case of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico, and $50,000 in the case of each of the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
@@ -12,7 +12,7 @@ Subject to the extent of amounts made available in appropriations Acts, the amou
 
 #### (1) In general
 
-&emsp;The amount referred to in subsection (a)(1) of this section for a State for a fiscal year is the sum of—
+&emsp;The amount referred to in subsection (a)(1) for a State for a fiscal year is the sum of—
 
 &emsp;&emsp;(A) an amount determined under paragraph (2); and
 
@@ -64,7 +64,7 @@ Subject to the extent of amounts made available in appropriations Acts, the amou
 
 &emsp;&emsp;(A) an amount equal to the amount described in paragraph (2) for the fiscal year involved; and
 
-&emsp;&emsp;(B) the percentage determined under subsection (b)(2) of this section for the State.
+&emsp;&emsp;(B) the percentage determined under subsection (b)(2) for the State.
 
 (July 1, 1944, ch. 373, title XII, §1218, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2924.)
 

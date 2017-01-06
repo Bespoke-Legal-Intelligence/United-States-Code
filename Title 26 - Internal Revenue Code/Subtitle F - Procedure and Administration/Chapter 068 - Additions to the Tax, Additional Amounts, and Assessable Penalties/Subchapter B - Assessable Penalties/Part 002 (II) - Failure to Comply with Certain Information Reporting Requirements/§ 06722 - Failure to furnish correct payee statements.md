@@ -54,6 +54,28 @@
 
 &emsp;&emsp;(B) one-half of 1 percent of the total number of payee statements required to be furnished by the person during the calendar year.
 
+#### (3) Safe harbor for certain de minimis errors
+
+#### (A) In general
+
+&emsp;&emsp;If, with respect to any payee statement—
+
+&emsp;&emsp;&emsp;(i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+
+&emsp;&emsp;&emsp;(ii) no single amount in error differs from the correct amount by more than $100, and
+
+&emsp;&emsp;&emsp;(iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+
+> &emsp;&emsp;then no correction shall be required and, for purposes of this section, such statement shall be treated as having been filed with all of the correct required information.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any payee statement if the person to whom such statement is required to be furnished makes an election (at such time and in such manner as the Secretary may prescribe) that subparagraph (A) not apply with respect to such statement.
+
+#### (C) Regulatory authority
+
+&emsp;&emsp;The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
+
 #### (d) Lower limitations for persons with gross receipts of not more than $5,000,000
 
 #### (1) In general
@@ -102,35 +124,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 &emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2733; amended Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2390; Pub. L. 111–240, title II, §2102(g), Sept. 27, 2010, 124 Stat. 2562; Pub. L. 113–295, div. A, title II, §207(a)(2),\(3), div. B, title II, §208(g), Dec. 19, 2014, 128 Stat. 4027, 4028, 4074; Pub. L. 114–27, title VIII, §806(e), June 29, 2015, 129 Stat. 417; Pub. L. 114–113, div. Q, title II, §202(b), Dec. 18, 2015, 129 Stat. 3077.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 114–113, div. Q, title II, §202(b), (e), Dec. 18, 2015, 129 Stat. 3077, 3078, provided that, applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, subsection (c) of this section is amended by adding at the end the following new paragraph:</i>
-
-#### <i>(3) Safe harbor for certain de minimis errors</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>If, with respect to any payee statement—</i>
-
-&emsp;&emsp;&emsp;<i>(i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,</i>
-
-&emsp;&emsp;&emsp;<i>(ii) no single amount in error differs from the correct amount by more than $100, and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,</i>
-
-> &emsp;&emsp;<i>then no correction shall be required and, for purposes of this section, such statement shall be treated as having been filed with all of the correct required information.</i>
-
-#### <i>(B) Exception</i>
-
-&emsp;&emsp;<i>Subparagraph (A) shall not apply to any payee statement if the person to whom such statement is required to be furnished makes an election (at such time and in such manner as the Secretary may prescribe) that subparagraph (A) not apply with respect to such statement.</i>
-
-#### <i>(C) Regulatory authority</i>
-
-&emsp;&emsp;<i>The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.</i>
-
-<i>See 2015 Amendment note below.</i>
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2733; amended Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2390; Pub. L. 111–240, title II, §2102(g), Sept. 27, 2010, 124 Stat. 2562; Pub. L. 113–295, div. A, title II, §207(a)(2), (3), div. B, title II, §208(g), Dec. 19, 2014, 128 Stat. 4027, 4028, 4074; Pub. L. 114–27, title VIII, §806(e), June 29, 2015, 129 Stat. 417; Pub. L. 114–113, div. Q, title II, §202(b), Dec. 18, 2015, 129 Stat. 3077.)
 
 #### Inflation Adjusted Items for Certain Years
 

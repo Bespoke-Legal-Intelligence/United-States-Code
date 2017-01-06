@@ -16,7 +16,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (1) Rural systems
 
-&emsp;Notwithstanding subsections (a), (b), and (c) of this section, a local exchange carrier (with respect to a cable system located in its telephone service area) and a cable operator (with respect to the facilities of a local exchange carrier used to provide telephone exchange service in its cable franchise area) may obtain a controlling interest in, management interestin, or enter into a joint venture or partnership with the operator of such system or facilities for the use of such system or facilities to the extent that—
+&emsp;Notwithstanding subsections (a), (b), and (c) of this section, a local exchange carrier (with respect to a cable system located in its telephone service area) and a cable operator (with respect to the facilities of a local exchange carrier used to provide telephone exchange service in its cable franchise area) may obtain a controlling interest in, management interest in, or enter into a joint venture or partnership with the operator of such system or facilities for the use of such system or facilities to the extent that—
 
 &emsp;&emsp;(A) such system or facilities only serve incorporated or unincorporated—
 
@@ -28,15 +28,15 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (2) Joint use
 
-&emsp;Notwithstanding subsection (c) of this section, a local exchange carrier may obtain, with the concurrence of the cable operator on the rates, terms, and conditions, the use of that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end user, if such use is reasonably limited in scope and duration, as determined by the Commission.
+&emsp;Notwithstanding subsection (c), a local exchange carrier may obtain, with the concurrence of the cable operator on the rates, terms, and conditions, the use of that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end user, if such use is reasonably limited in scope and duration, as determined by the Commission.
 
 #### (3) Acquisitions in competitive markets
 
-&emsp;Notwithstanding subsections (a) and (c) of this section, a local exchange carrier may obtain a controlling interest in, or form a joint venture or other partnership with, or provide financing to, a cable system (hereinafter in this paragraph referred to as "the subject cable system"), if—
+&emsp;Notwithstanding subsections (a) and (c), a local exchange carrier may obtain a controlling interest in, or form a joint venture or other partnership with, or provide financing to, a cable system (hereinafter in this paragraph referred to as "the subject cable system"), if—
 
 &emsp;&emsp;(A) the subject cable system operates in a television market that is not in the top 25 markets, and such market has more than 1 cable system operator, and the subject cable system is not the cable system with the most subscribers in such television market;
 
-&emsp;&emsp;(B) the subject cable system and the cable system with the most subscribers in such television market held on May 1, 1995, cable television franchises from the largest municipality in the television market and the boundaries of such franchises were identical on such date;
+&emsp;&emsp;(B) the subject cable system and the cable system with the most subscribers in such television market held on May 1, 1995, cabletelevision franchises from the largest municipality in the television market and the boundaries of such franchises were identical on such date;
 
 &emsp;&emsp;(C) the subject cable system is not owned by or under common ownership or control of any one of the 50 cable system operators with the most subscribers as such operators existed on May 1, 1995; and
 
@@ -44,7 +44,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (4) Exempt cable systems
 
-&emsp;Subsection (a) of this section does not apply to any cable system if—
+&emsp;Subsection (a) does not apply to any cable system if—
 
 &emsp;&emsp;(A) the cable system serves no more than 17,000 cable subscribers, of which no less than 8,000 live within an urban area, and no less than 6,000 live within a nonurbanized area as of June 1, 1995;
 
@@ -54,11 +54,11 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (5) Small cable systems in nonurban areas
 
-&emsp;Notwithstanding subsections (a) and (c) of this section, a local exchange carrier with less than $100,000,000 in annual operating revenues (or any affiliate of such carrier owned by, operated by, controlled by, or under common control with such carrier) may purchase or otherwise acquire more than a 10 percent financial interest in, or any management interest in, or enter into a joint venture or partnership with, any cable system within the local exchange carrier's telephone service area that serves no more than 20,000 cable subscribers, if no more than 12,000 of those subscribers live within an urbanized area, as defined by the Bureau of the Census.
+&emsp;Notwithstanding subsections (a) and (c), a local exchange carrier with less than $100,000,000 in annual operating revenues (or any affiliate of such carrier owned by, operated by, controlled by, or under common control with such carrier) may purchase or otherwise acquire more than a 10 percent financial interest in, or any management interest in, or enter into a joint venture or partnership with, any cable system within the local exchange carrier's telephone service area that serves no more than 20,000 cable subscribers, if no more than 12,000 of those subscribers live within an urbanized area, as defined by the Bureau of the Census.
 
 #### (6) Waivers
 
-&emsp;The Commission may waive the restrictions of subsections <sup>1</sup> (a), (b), or (c) of this section only if—
+&emsp;The Commission may waive the restrictions of subsections <sup>1</sup> (a), (b), or (c) only if—
 
 &emsp;&emsp;(A) the Commission determines that, because of the nature of the market served by the affected cable system or facilities used to provide telephone exchange service—
 

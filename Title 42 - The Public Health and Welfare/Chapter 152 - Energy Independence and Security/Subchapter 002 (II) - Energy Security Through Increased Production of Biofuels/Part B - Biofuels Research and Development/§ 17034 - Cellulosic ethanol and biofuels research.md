@@ -18,7 +18,7 @@ The Secretary shall make cellulosic ethanol and biofuels research and developmen
 
 #### (c) Collaboration
 
-An eligible entity that is selected to receive a grant under subsection (b) shall collaborate with1 of the Bioenergy Research Centers of the Office of Science of the Department.
+An eligible entity that is selected to receive a grant under subsection (b) shall collaborate with 1 of the Bioenergy Research Centers of the Office of Science of the Department.
 
 #### (d) Authorization of appropriations
 

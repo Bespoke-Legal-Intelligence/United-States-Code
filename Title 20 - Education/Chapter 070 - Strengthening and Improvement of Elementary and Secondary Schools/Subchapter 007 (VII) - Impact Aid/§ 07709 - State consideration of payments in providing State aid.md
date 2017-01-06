@@ -2,7 +2,7 @@
 
 #### (a) General prohibition
 
-Except as provided in subsection (b) of this section, a State may not—
+Except as provided in subsection (b), a State may not—
 
 &emsp;(1) consider payments under this subchapter in determining for any fiscal year—
 
@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (1) In general
 
-&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
+&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A), that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
 
 #### (2) Computation
 
@@ -46,7 +46,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (A) In general
 
-&emsp;&emsp;Any State that wishes to consider payments described in subsection (b)(1) of thissection in providing State aid to local educational agencies shall submit to the Secretary, not later than 120 days before the beginning of the State's fiscal year, a written notice of such State's intention to do so.
+&emsp;&emsp;Any State that wishes to consider payments described in subsection (b)(1) in providing State aid to local educational agencies shall submit to the Secretary, not later than 120 days before the beginning of the State's fiscal year, a written notice of such State's intention to do so.
 
 #### (B) Contents
 
@@ -54,11 +54,11 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (2) Opportunity to present views
 
-&emsp;Before making a determination under subsection (b) of this section, the Secretary shall afford the State, and local educational agencies in the State, an opportunity to present their views.
+&emsp;Before making a determination under subsection (b), the Secretary shall afford the State, and local educational agencies in the State, an opportunity to present their views.
 
 #### (3) Qualification procedures
 
-&emsp;If the Secretary determines that a program of State aid qualifies under subsection (b) of this section, the Secretary shall—
+&emsp;If the Secretary determines that a program of State aid qualifies under subsection (b), the Secretary shall—
 
 &emsp;&emsp;(A) certify the program and so notify the State; and
 
@@ -66,7 +66,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (4) Nonqualification procedures
 
-&emsp;If the Secretary determines that a program of State aid does not qualify under subsection (b) of this section, the Secretary shall—
+&emsp;If the Secretary determines that a program of State aid does not qualify under subsection (b), the Secretary shall—
 
 &emsp;&emsp;(A) so notify the State; and
 
@@ -84,13 +84,13 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (2) Prohibition
 
-&emsp;A State may not take into consideration payments under this subchapter before such State's program of State aid has been certified by the Secretary under subsection (c)(3) of this section.
+&emsp;A State may not take into consideration payments under this subchapter before such State's program of State aid has been certified by the Secretary under subsection (c)(3).
 
 #### (e) Remedies for State violations
 
 #### (1) In general
 
-&emsp;The Secretary or any aggrieved local educational agency may, not earlier than 150 days after an adverse determination by the Secretary against a State for violation of subsections (a) or (d)(2) of this section or for failure to carry out an assurance under subsection (b)(3)(B) of this section, and if an administrative proceeding has not been concluded within such time, bring an action in a United States district court against such State for such violations or failure.
+&emsp;The Secretary or any aggrieved local educational agency may, not earlier than 150 days after an adverse determination by the Secretary against a State for violation of subsections (a) or (d)(2) or for failure to carry out an assurance under subsection (b)(3)(B), and if an administrative proceeding has not been concluded within such time, bring an action in a United States district court against such State for such violations or failure.
 
 #### (2) Immunity
 
@@ -120,7 +120,7 @@ Subsec. (c)(3)(B), (4)(B). Pub. L. 114–95, §7009(1), made technical amendment
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out "or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)" after "under this subchapter" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(2)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C),\(2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State."
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(2)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C), (2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State."
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(3)\], struck out "or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)" after "under this subchapter" wherever appearing.
 

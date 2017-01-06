@@ -28,7 +28,7 @@ Beginning 180 days after August 14, 2008, the provisions of ASTM International S
 
 &emsp;&emsp;(A) take into account other children's product safety rules; and
 
-&emsp;&emsp;(B) are more stringent than such standards, if the Commission determines that more stringent standards would further reduce the risk of injury of such toys.
+&emsp;&emsp;(B) are more stringent than such standards, if the Commission determines thatmore stringent standards would further reduce the risk of injury of such toys.
 
 #### (c) Periodic review
 
@@ -56,7 +56,7 @@ Rules issued under this section shall be considered consumer product safety stan
 
 #### (g) Revisions
 
-If ASTM International (or its successor entity) proposes to revise ASTM F963–07, or a successor standard, it shall notify the Commission of the proposed revision. The Commission shall incorporate the revision or a section of the revision into the consumer product safety rule. The revised standard shall be considered to be a consumer product safety standard issued by the Consumer Product Safety Commission under section 2058 of this title, effective 180 days after the date on which ASTM International notifies the Commission of the revision unless, within 90days after receiving that notice, the Commission notifies ASTM International that it has determined that the proposed revision does not improve the safety of the consumer product covered by the standard. If the Commission so notifies ASTM International with respect to a proposed revision of the standard, the existing standard shall continue to be considered to be a consumer product safety rule without regard to the proposed revision.
+If ASTM International (or its successor entity) proposes to revise ASTM F963–07, or a successor standard, it shall notify the Commission of the proposed revision. The Commission shall incorporate the revision or a section of the revision into the consumer product safety rule. The revised standard shall be considered to be a consumer product safety standard issued by the Consumer Product Safety Commission under section 2058 of this title, effective 180 days after the date on which ASTM International notifies the Commission of the revision unless, within 90 days after receiving that notice, the Commission notifies ASTM International that it has determined that the proposed revision does not improve the safety of the consumer product covered by the standard. If the Commission so notifies ASTM International with respect to a proposed revision of the standard, the existing standard shall continue to be considered to be a consumer product safety rule without regard to the proposed revision.
 
 #### (h) Rulemaking to consider exemption from preemption
 

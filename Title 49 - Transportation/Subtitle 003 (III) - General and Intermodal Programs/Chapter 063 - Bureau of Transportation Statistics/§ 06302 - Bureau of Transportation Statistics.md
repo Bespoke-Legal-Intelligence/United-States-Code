@@ -110,7 +110,7 @@ Duties.—The Director shall—
 
 (c)
 
-Access to Federal Data.—In carrying out subsection (b)(3)(B)(ii), the Director shall be given access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
+Access to Federal Data.—In carrying out subsection (b)(3)(B)(ii), the Director shall begiven access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
 
 (d)
 

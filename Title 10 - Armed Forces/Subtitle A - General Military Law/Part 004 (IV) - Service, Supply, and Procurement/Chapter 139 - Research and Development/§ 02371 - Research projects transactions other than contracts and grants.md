@@ -24,13 +24,13 @@ Conditions.—(1) The Secretary of Defense shall ensure that—
 
 &emsp;(A) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
 
-&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
+&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by theGovernment under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
 
 (2) A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
 (f)
 
-Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agencyfor support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 
 (g)
 
@@ -94,7 +94,7 @@ Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as sec
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §827(b)(1)(C), substituted "section 2358 of this title" for "subsection (a)" in par. (1) and "subsection (d)" for "subsection (e)" in par. (2).
 
-Pub. L. 103–160, §827(b)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), as amended by Pub. L. 103–160, §1182(a)(6), (h), which read as follows: "The Secretary of Defense, in carrying out advanced research projects through the Advanced Research Projects Agency, and the Secretary of each military department, in carrying out advanced research projects, may enter into cooperative agreements andother transactions with any person, any agency or instrumentality of the United States, any unit of State or local government, any educational institution, and any other entity."
+Pub. L. 103–160, §827(b)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), as amended by Pub. L. 103–160, §1182(a)(6), (h), which read as follows: "The Secretary of Defense, in carrying out advanced research projects through the Advanced Research Projects Agency, and the Secretary of each military department, in carrying out advanced research projects, may enter into cooperative agreements and other transactions with any person, any agency or instrumentality of the United States, any unit of State or local government, any educational institution, and any other entity."
 
 Pub. L. 103–160, §1182(a)(6), substituted "Advanced Research Projects Agency" for "Defense Advanced Research Projects Agency".
 

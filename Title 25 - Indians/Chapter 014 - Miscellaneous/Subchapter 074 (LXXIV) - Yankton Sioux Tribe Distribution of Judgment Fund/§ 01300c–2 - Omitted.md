@@ -1,0 +1,6 @@
+### §1300c–2. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–468, §3, Oct. 6, 1972, 86 Stat. 782, which related to preparation of tribal membership roll, was omitted from the Code as being of special and not general application.
+

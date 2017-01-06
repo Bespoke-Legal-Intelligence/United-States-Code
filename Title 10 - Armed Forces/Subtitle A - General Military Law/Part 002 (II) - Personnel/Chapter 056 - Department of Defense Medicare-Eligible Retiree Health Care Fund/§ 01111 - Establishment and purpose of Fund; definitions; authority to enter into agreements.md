@@ -54,7 +54,7 @@ Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, pro
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VII, §725(d), Oct. 28, 2004, 118 Stat. 1992, provided that: "The amendments made by this section \[amending this section and sections 1115 and 1116 of this title\] shall take effect on October 1, 2005."
+Pub. L. 108–375, div. A, title VII, §725(d), Oct. 28, 2004, 118 Stat. 1992, provided that: "The amendments madeby this section \[amending this section and sections 1115 and 1116 of this title\] shall take effect on October 1, 2005."
 
 #### Effective Date of 2001 Amendment
 

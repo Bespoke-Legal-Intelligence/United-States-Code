@@ -64,7 +64,7 @@ Not later than 180 days after August 8, 2005, the Commission shall issue regulat
 
 #### (d) Penalty
 
-A violation of a regulation issued under subsection (a) or (b) of this section shall be punishable by a civil penalty not to exceed $1,000,000.
+A violation of a regulation issued under subsection (a) or (b) shall be punishable by a civil penalty not to exceed $1,000,000.
 
 #### (e) National Academy of Sciences study
 
@@ -122,7 +122,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 &emsp;&emsp;(IV) chemical and material form;
 
-&emsp;&emsp;(V) for radioactive materials with a medical use, the availability of the sources tophysicians and patients for medical treatment; and
+&emsp;&emsp;(V) for radioactive materials with a medical use, the availability of the sources to physicians and patients for medical treatment; and
 
 &emsp;&emsp;(VI) any other factor that the Chairperson of the Commission determines to be appropriate;
 
@@ -162,7 +162,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 #### (g) Action by Commission
 
-Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B) of this section, the Commission, in accordance with the recommendations of the task force, shall—
+Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
 
 &emsp;(1) take any action the Commission determines to be appropriate, including revising the system of the Commission for licensing radiation sources; and
 

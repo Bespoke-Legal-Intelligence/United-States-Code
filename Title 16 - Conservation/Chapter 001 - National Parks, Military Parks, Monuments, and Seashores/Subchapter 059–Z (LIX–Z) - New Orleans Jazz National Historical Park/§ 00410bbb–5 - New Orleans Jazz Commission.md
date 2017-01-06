@@ -30,7 +30,7 @@ The Commission shall consist of 17 members to be appointed no later than six mon
 
 &emsp;(11) One member representing the New Orleans Jazz Club from recommendations submitted by the club.
 
-&emsp;(12) One member who is a recognized local expert on the history, development and progression of jazz in New Orleans and is familiarwith existing archival materials from recommendations submitted by the Librarian of Congress.
+&emsp;(12) One member who is a recognized local expert on the history, development and progression of jazz in New Orleans and is familiar with existing archival materials from recommendations submitted by the Librarian of Congress.
 
 &emsp;(13) The Director of the National Park Service, or the Director's designee, ex officio.
 
@@ -62,7 +62,7 @@ The Commission shall elect a chairman from among its members. The term of the ch
 
 #### (f) Terms
 
-Any member of the Commission appointed by the Secretary for a 3-year term may serve after the expiration of his or her term until a successor is appointed. Any vacancy shall be filled in the same manner in which the original appointment was made. Any member appointed to fill a vacancy shall serve for the remainder of the term for which the predecessor was appointed.
+Any member of the Commission appointed by the Secretary for a 3-year term may serve after the expiration of his or her term until a successor is appointed. Any vacancy shall be filled in the same manner in which the original appointment was made. Any member appointed to fill avacancy shall serve for the remainder of the term for which the predecessor was appointed.
 
 #### (g) Per diem expenses
 

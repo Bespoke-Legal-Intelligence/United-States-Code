@@ -24,7 +24,7 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in su
 
 #### Codification
 
-In subsec. (a), "section 101511 of title 54" substituted for "the Act of April 9, 1924 (43 Stat. 90; 16 U.S.C. 8a et seq.), as amended" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (a), "section 101511 of title 54" substituted for "the Act of April 9, 1924 (43 Stat. 90; 16 U.S.C. 8a etseq.), as amended" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 

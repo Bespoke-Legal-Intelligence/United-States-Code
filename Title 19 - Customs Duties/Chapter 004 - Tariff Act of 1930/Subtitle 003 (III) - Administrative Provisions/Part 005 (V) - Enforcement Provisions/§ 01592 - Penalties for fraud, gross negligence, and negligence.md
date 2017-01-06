@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice wassent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(A) if the violation resulted from fraud—
 
-&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
+&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the CustomsService may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
 
 &emsp;&emsp;&emsp;(ii) if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
 
@@ -134,7 +134,7 @@
 
 #### (11) Prior disclosure regarding claims under the United States–Korea Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordancewith regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
 #### (12) Prior disclosure regarding claims under the United States–Colombia Trade Promotion Agreement
 
@@ -158,7 +158,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;(1) all issues, including the amount of the penalty, shall be tried de novo;
 
-&emsp;(2) if the monetary penalty is based on fraud, the United States shall have the burden ofproof to establish the alleged violation by clear and convincing evidence;
+&emsp;(2) if the monetary penalty is based on fraud, the United States shall have the burden of proof to establish the alleged violation by clear and convincing evidence;
 
 &emsp;(3) if the monetary penalty is based on gross negligence, the United States shall have the burden of proof to establish all the elements of the alleged violation; and
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section thatapply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Immediate and voluntary disclosure of incorrect information
 
@@ -226,7 +226,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-PeruTrade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -322,7 +322,7 @@ Section 202 of the United States-Singapore Free Trade Agreement Implementation A
 
 Section 203 of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec. (c)(8)(A), is section 203 of Pub. L. 108–286, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(10) and (i)(1), is section 203 of Pub. L. 110–138, which is set out in a note under section 3805 of this title.
+Section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(10) and (i)(1), is section 203 of Pub. L.110–138, which is set out in a note under section 3805 of this title.
 
 Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsecs. (c)(11) and (j)(1), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect t
 
 Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the UnitedStates–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 
@@ -492,7 +492,7 @@ Pub. L. 95–410, title I, §110(f), Oct. 3, 1978, 92 Stat. 897, provided that:
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

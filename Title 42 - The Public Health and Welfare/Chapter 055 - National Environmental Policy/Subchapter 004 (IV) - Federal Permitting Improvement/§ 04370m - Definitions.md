@@ -58,7 +58,7 @@ In this subchapter:
 
 #### (8) Environmental assessment
 
-&emsp;The term "environmental assessment" means a concise public document for which aFederal agency is responsible under section 1508.9 of title 40, Code of Federal Regulations (or successor regulations).
+&emsp;The term "environmental assessment" means a concise public document for which a Federal agency is responsible under section 1508.9 of title 40, Code of Federal Regulations (or successor regulations).
 
 #### (9) Environmental document
 

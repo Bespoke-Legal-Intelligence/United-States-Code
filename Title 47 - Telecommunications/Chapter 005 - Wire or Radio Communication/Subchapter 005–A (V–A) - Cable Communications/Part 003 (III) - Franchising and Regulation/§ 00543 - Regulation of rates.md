@@ -10,15 +10,15 @@
 
 &emsp;If the Commission finds that a cable system is subject to effective competition, the rates for the provision of cable service by such system shall not be subject to regulation by the Commission or by a State or franchising authority under this section. If the Commission finds that a cable system is not subject to effective competition—
 
-&emsp;&emsp;(A) the rates for the provision of basic cable service shall be subject to regulation by a franchising authority, or by the Commission if the Commission exercises jurisdiction pursuant to paragraph (6), in accordance with the regulations prescribed by the Commission under subsection (b) of this section; and
+&emsp;&emsp;(A) the rates for the provision of basic cable service shall be subject to regulation by a franchising authority, or by the Commission if the Commission exercises jurisdiction pursuant to paragraph (6), in accordance with the regulations prescribed by the Commission under subsection (b); and
 
-&emsp;&emsp;(B) the rates for cable programming services shall be subject to regulation by the Commission under subsection (c) of this section.
+&emsp;&emsp;(B) the rates for cable programming services shall be subject to regulation by the Commission under subsection (c).
 
 #### (3) Qualification of franchising authority
 
 &emsp;A franchising authority that seeks to exercise the regulatory jurisdiction permitted under paragraph (2)(A) shall file with the Commission a written certification that—
 
-&emsp;&emsp;(A) the franchising authority will adopt and administer regulations with respect to the rates subject to regulation under this section that are consistent with the regulations prescribed by the Commission under subsection (b) of this section;
+&emsp;&emsp;(A) the franchising authority will adopt and administer regulations with respect to the rates subject to regulation under this section that are consistent with the regulations prescribed by the Commission under subsection (b);
 
 &emsp;&emsp;(B) the franchising authority has the legal authority to adopt, and the personnel to administer, such regulations; and
 
@@ -28,7 +28,7 @@
 
 &emsp;A certification filed by a franchising authority under paragraph (3) shall be effective 30 days after the date on which it is filed unless the Commission finds, after notice to the authority and a reasonable opportunity for the authority to comment, that—
 
-&emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under this section that are not consistent with the regulations prescribed by the Commission under subsection (b) of this section;
+&emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under this section that are not consistent with the regulations prescribed by the Commission under subsection (b);
 
 &emsp;&emsp;(B) the franchising authority does not have the legal authority to adopt, or the personnel to administer, such regulations; or
 
@@ -38,7 +38,7 @@
 
 #### (5) Revocation of jurisdiction
 
-&emsp;Upon petition by a cable operator or other interested party, the Commission shall review the regulation of cable system rates by a franchising authority under this subsection. A copy of the petition shall be provided to the franchising authority by the person filing the petition. If the Commission finds that the franchising authority has acted inconsistently with the requirements of this subsection, the Commission shall grant appropriate relief. If the Commission, after the franchising authority has had a reasonable opportunity to comment, determines that the State and local laws and regulations are not in conformance with the regulations prescribed by the Commission under subsection (b) of this section, the Commission shall revoke the jurisdiction of such authority.
+&emsp;Upon petition by a cable operator or other interested party, the Commission shall review the regulation of cable system rates by a franchising authority under this subsection. A copy of the petition shall be provided to the franchising authority by the person filing the petition. If the Commission finds that the franchising authority has acted inconsistently with the requirements of this subsection, the Commission shall grant appropriate relief. If the Commission, after the franchising authority has had a reasonable opportunity to comment, determines that the State and local laws and regulations are not in conformance with the regulations prescribed by the Commission under subsection (b), the Commission shall revoke the jurisdiction of such authority.
 
 #### (6) Exercise of jurisdiction by Commission
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall allow cable operators, pursuant to any rules promulgated under subsection (b)(3) of this section, to aggregate, on a franchise, system, regional, or company level, their equipment costs into broad categories, such as converter boxes, regardless of the varying levels of functionality of the equipment within each such broad category. Such aggregation shall not be permitted with respect to equipment used by subscribers who receive only a rate regulated basic service tier.
+&emsp;&emsp;The Commission shall allow cable operators, pursuant to any rules promulgated under subsection (b)(3), to aggregate, on a franchise, system, regional, or company level, their equipment costs into broad categories, such as converter boxes, regardlessof the varying levels of functionality of the equipment within each such broad category. Such aggregation shall not be permitted with respect to equipment used by subscribers who receive only a rate regulated basic service tier.
 
 #### (B) Revision to Commission rules; forms
 
@@ -224,7 +224,7 @@ During the term of an agreement made before July 1, 1990, by a franchising autho
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall include in its report under paragraph (1) the aggregate averagetotal amount paid by cable systems in compensation under section 325 of this title.
+&emsp;&emsp;The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under section 325 of this title.
 
 #### (B) Form
 
@@ -254,7 +254,7 @@ As used in this section—
 
 #### (1) In general
 
-&emsp;Subsections (a), (b), and (c) of this section do not apply to a small cable operator with respect to—
+&emsp;Subsections (a), (b), and (c) do not apply to a small cable operator with respect to—
 
 &emsp;&emsp;(A) cable programming services, or
 
@@ -302,7 +302,7 @@ Subsec. (c)(1)(B). Pub. L. 104–104, §301(b)(1)(A), substituted "franchising a
 
 Subsec. (c)(1)(C). Pub. L. 104–104, §301(b)(1)(B), substituted "the first complaint filed with the franchising authority under paragraph (3)" for "such complaint".
 
-Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text offormer par. (3). Text read as follows: "Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers."
+Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: "Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers."
 
 Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end "This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory."
 

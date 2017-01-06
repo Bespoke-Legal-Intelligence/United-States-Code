@@ -28,7 +28,7 @@ United States Maritime Commission abolished by Reorg. Plan No. 21, 1950, eff. Ma
 
 Federal Maritime Board, including offices of members of Board, abolished by section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 843, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
-Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat.151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
+Maritime Administration transferred from Department of Commerce to Department of Transportation by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
 
 #### Vessel Operations Under Revolving Fund
 

@@ -26,7 +26,7 @@
 
 (c)(1) After his final review of the report of a selection board, the Secretary concerned shall submit the report, with his recommendations thereon, to the Secretary of Defense for transmittal to the President for his approval or disapproval. The Secretary of Defense shall, before transmitting the report of a selection board to the President, take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman transmitted to him under subsection (b)(5). If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.
 
-(2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
+(2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause forhis retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
 
 (d)(1) Except as provided in paragraph (2), the name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
 
@@ -78,11 +78,11 @@ Subsec. (c)(1). Pub. L. 100–456, §501(d)(2), struck out ", modification," af
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–433, §402(c)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 99–433, §402(c)(1), (3), redesignated subsec. (b) as (c) and in par. (1) inserted provisions directing the Secretary of Defense, before transmitting the report, to take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 99–433, §402(c)(1), (3), redesignated subsec. (b) as (c) and in par. (1) inserted provisions directing the Secretary of Defense, before transmitting the report, to take appropriate action to resolve anydisagreement between the Secretary concerned and the Chairman. Former subsec. (c) redesignated (d).
 
 Subsecs. (d) to (f). Pub. L. 99–433, §402(c)(1), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525 substituted "If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review ofthe record of that officer as provided for under regulations prescribed under section 1181 of this title" for "The Secretary concerned may submit to a board of officers convened under section 1181 of this title the name of any officer who is named in the report of a selection board as having a record which indicates that the officer should be required to show cause for his retention on active duty".
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525 substituted "If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title" for "The Secretary concerned may submit to a board of officers convened under section 1181 of this title the name of any officer who is named in the report of a selection board as having a record which indicates that the officer should be required to show cause for his retention on active duty".
 
 #### Effective Date of 2006 Amendment
 
@@ -99,6 +99,10 @@ Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and appli
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–433 effective with respect to selection boards convened under section 611(a) of this title after end of 120-day period beginning on Oct. 1, 1986, see section 406(f) of Pub. L. 99–433, set out as a note under section 612 of this title.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Delegation of Functions
 

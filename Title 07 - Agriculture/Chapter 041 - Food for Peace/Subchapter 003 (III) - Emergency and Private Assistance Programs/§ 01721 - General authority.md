@@ -22,7 +22,7 @@ The President shall establish a program under this subchapter (to be implemented
 
 <b>2014</b>—Pub. L. 113–79 inserted "(to be implemented by the Administrator)" after "under this subchapter" in introductory provisions and struck out concluding provisions which read as follows: "Such program shall be implemented by the Administrator."
 
-Par. (7). Pub. L. 113–79, §3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7)read as follows: "promote economic and nutritional security by increasing educational, training, and other productive activities."
+Par. (7). Pub. L. 113–79, §3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: "promote economic and nutritional security by increasing educational, training, and other productive activities."
 
 <b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows: "address famine or other urgent or extraordinary relief requirements;".
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 99–198, §1103, added subsec. (c).
 
 <b>1975</b>—Pub. L. 94–161 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1966</b>—Pub. L. 89–808 expanded scope of assistance to include emergency relief without regard to recipient being a friendly people, combating malnutrition in children, promotion of economic and community development in friendly developing areas, and for nonprofit school lunch and preschool feeding programs outside the United States and to be furnished from available commodities rather than surplus agricultural commodities.
+<b>1966</b>—Pub. L. 89–808 expanded scope of assistance to include emergency relief without regard to recipient being a friendly people, combating malnutrition in children, promotion of economic and community development in friendly developing areas, and for nonprofit school lunch and preschool feeding programs outside the United States and to be furnished from availablecommodities rather than surplus agricultural commodities.
 
 <b>1956</b>—Act Aug. 3, 1956, inserted "or extraordinary" after "urgent" wherever appearing.
 

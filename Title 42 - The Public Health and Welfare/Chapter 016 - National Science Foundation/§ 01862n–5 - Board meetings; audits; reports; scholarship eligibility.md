@@ -14,7 +14,7 @@
 
 #### (4) Report
 
-&emsp;Not later than February 15 of every third year, the Inspector General of the Foundation shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health,Education, Labor, and Pensions of the Senate the audit required under paragraph (3) along with recommendations for corrective actions that need to be taken to achieve fuller compliance with the requirements described in paragraph (2), and recommendations on how to ensure public access to the Board's deliberations.
+&emsp;Not later than February 15 of every third year, the Inspector General of the Foundation shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate the audit required under paragraph (3) along with recommendations for corrective actions that need to be taken to achieve fuller compliance with the requirements described in paragraph (2), and recommendations on how to ensure public access to the Board's deliberations.
 
 #### (5) Materials relating to closed portions of meetings
 

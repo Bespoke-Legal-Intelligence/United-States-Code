@@ -28,7 +28,7 @@ Whenever the Attorney General of the United States has reasonable cause to belie
 
 #### (c) Actions by States
 
-Whenever the chief law enforcement officer of any State has reason to believe that a person or organization is engaging in practices which violate any requirement of this chapter, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States—
+Whenever the chief law enforcement officer of any State has reason to believe that a person or organization is engaging in practices which violate any requirement of this chapter, the State,as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States—
 
 &emsp;(1) to enjoin the holding of any professional boxing match which the practice involves;
 
@@ -63,6 +63,10 @@ Subsec. (b)(2). Pub. L. 106–210, §6(3), added par. (2). Former par. (2) redes
 Subsec. (b)(3), (4). Pub. L. 106–210, §6(2), (4), redesignated pars. (2) and (3) as (3) and (4), respectively, and in par. (3) substituted "section 6308(a)" for "section 6308".
 
 Subsecs. (c) to (e). Pub. L. 106–210, §6(5), added subsecs. (c) to (e).
+
+#### Effective Date
+
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Section 6307a does not contain a subsec. (b).</i>
 

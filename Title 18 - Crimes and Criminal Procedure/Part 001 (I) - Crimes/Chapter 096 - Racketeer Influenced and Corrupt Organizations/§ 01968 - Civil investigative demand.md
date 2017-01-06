@@ -20,7 +20,7 @@
 
 (d) Service of any such demand or any petition filed under this section may be made upon a person by—
 
-&emsp;(1) delivering a duly executed copy thereof to any partner, executive officer, managing agent, or general agent thereof, or to any agent thereof authorized by appointment or by law to receive service of process on behalf of such person, or upon any individual person;
+&emsp;(1) delivering a duly executed copy thereof to any partner, executive officer, managing agent, or general agent thereof, or to any agent thereof authorized by appointment or bylaw to receive service of process on behalf of such person, or upon any individual person;
 
 &emsp;(2) delivering a duly executed copy thereof to the principal office or place of business of the person to be served; or
 

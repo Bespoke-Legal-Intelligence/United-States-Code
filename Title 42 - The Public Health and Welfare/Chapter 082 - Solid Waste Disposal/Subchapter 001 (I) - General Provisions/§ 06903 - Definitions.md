@@ -32,7 +32,7 @@ As used in this chapter:
 
 (12) The term "manifest" means the form used for identifying the quantity, composition, and the origin, routing, and destination of hazardous waste during its transportation from the point of generation to the point of disposal, treatment, or storage.
 
-(13) The term "municipality" (A) means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law, with responsibility for the planning or administration of solid waste management, or an Indian tribe or authorized tribal organization or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
+(13) The term "municipality" (A) means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law, with responsibility for the planningor administration of solid waste management, or an Indian tribe or authorized tribal organization or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
 
 (14) The term "open dump" means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 6944 of this title and which is not a facility for disposal of hazardous waste.
 
@@ -84,7 +84,7 @@ As used in this chapter:
 
 (34) The term "treatment", when used in connection with hazardous waste, means any method, technique, or process, including neutralization, designed to change the physical, chemical, or biological character or composition of any hazardous waste so as to neutralize such waste or so as to render such waste nonhazardous, safer for transport, amenable for recovery, amenable for storage, or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of hazardous waste so as to render it nonhazardous.
 
-(35) The term "virgin material" means a raw material, including previously unused copper, aluminum, lead, zinc, iron, or other metal or metal ore, any undeveloped resource that is, or with new technology will become, a source of raw materials.
+(35) The term "virgin material" means a raw material, including previously unused copper,aluminum, lead, zinc, iron, or other metal or metal ore, any undeveloped resource that is, or with new technology will become, a source of raw materials.
 
 (36) The term "used oil" means any oil which has been—
 
@@ -100,7 +100,7 @@ As used in this chapter:
 
 (39) The term "re-refined oil" means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
 
-(40) Except as otherwise provided in this paragraph, the term "medical waste" means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III of this chapter or any household waste as defined in regulations under subchapter III of this chapter.
+(40) Except as otherwise provided in this paragraph, the term "medical waste" means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
 
 (41) The term "mixed waste" means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 

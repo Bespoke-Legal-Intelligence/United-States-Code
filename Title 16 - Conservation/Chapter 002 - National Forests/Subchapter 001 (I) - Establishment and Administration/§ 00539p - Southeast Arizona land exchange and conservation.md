@@ -18,7 +18,7 @@ In this section:
 
 #### (3) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (4) Non-Federal land
 
@@ -50,7 +50,7 @@ In this section:
 
 #### (11) Resolution mine plan of operations
 
-&emsp;The term "Resolution mine plan of operations" means the mine plan of operations submitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
+&emsp;The term "Resolution mine plan of operations" means the mine plan of operationssubmitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
 
 #### (c) Land exchange
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (iii) Disposition and use of proceeds
 
-&emsp;&emsp;&emsp;Any amounts received by the United States under this subparagraph shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+&emsp;&emsp;&emsp;Any amounts received by the United States under this subparagraph shall be deposited in the fund established undersection 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
 #### (C) Surplus of non-Federal land
 
@@ -270,7 +270,7 @@ In this section:
 
 #### (ii) Dripping springs
 
-&emsp;&emsp;&emsp;Land acquired by the Secretary of the Interior under paragraph (1)(B)(ii) shall be managed in accordance with the Federal Land Policy and Management Act of 1976\(43 U.S.C. 1701 et seq.) and applicable land use plans.
+&emsp;&emsp;&emsp;Land acquired by the Secretary of the Interior under paragraph (1)(B)(ii) shall be managed in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and applicable land use plans.
 
 #### (iii) Las Cienegas National Conservation Area
 
@@ -354,7 +354,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
 
 &emsp;&emsp;&emsp;(ii) installation of fences, signs, or other measures necessary to protect the health and safety of the public; and
 
-&emsp;&emsp;&emsp;(iii) operation of an underground tunnel and associated workings, as described in the Resolution mine plan of operations,subject to any terms and conditions the Secretary may reasonably require.
+&emsp;&emsp;&emsp;(iii) operation of an underground tunnel and associated workings, as described in the Resolution mine plan of operations, subject to any terms and conditions the Secretary may reasonably require.
 
 #### (5) Plan
 
@@ -434,7 +434,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
 
 #### (3) Public access in and around Oak Flat Campground
 
-&emsp;As a condition of conveyance of the Federal land, Resolution Copper shall agree to provideaccess to the surface of the Oak Flat Campground to members of the public, including Indian tribes, to the maximum extent practicable, consistent with health and safety requirements, until such time as the operation of the mine precludes continued public access for safety reasons, as determined by Resolution Copper.
+&emsp;As a condition of conveyance of the Federal land, Resolution Copper shall agree to provide access to the surface of the Oak Flat Campground to members of the public, including Indian tribes, to the maximum extent practicable, consistent with health and safety requirements, until such time as the operation of the mine precludes continued public access for safety reasons, as determined by Resolution Copper.
 
 (Pub. L. 113–291, div. B, title XXX, §3003, Dec. 19, 2014, 128 Stat. 3732.)
 
@@ -446,7 +446,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat.1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Codification
 

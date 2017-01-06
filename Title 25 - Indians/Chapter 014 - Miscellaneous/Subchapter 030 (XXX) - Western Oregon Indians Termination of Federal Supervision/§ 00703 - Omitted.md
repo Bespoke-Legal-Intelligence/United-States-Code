@@ -1,0 +1,6 @@
+### §703. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §13, 68 Stat. 727, which related to termination of Federal trust, was omitted from the Code as being of special and not general application.
+

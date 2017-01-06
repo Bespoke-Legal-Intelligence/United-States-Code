@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
-(b)(1) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
+(b)(1) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may,with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
 (2) Paragraph (1) does not apply to a member or former member entitled to retired pay for non-regular service under chapter 1223 of this title who is under 60 years of age.
 
@@ -34,7 +34,7 @@
 
 &emsp;(i) receives a duty assignment described in subparagraph (C); and
 
-&emsp;(ii) pursuant to the assignment of such duty, resides at a location that is more than 50 miles, or approximately one hour of drivingtime, from the nearest military medical treatment facility adequate to provide the needed care.
+&emsp;(ii) pursuant to the assignment of such duty, resides at a location that is more than 50 miles, or approximately one hour of driving time, from the nearest military medical treatment facility adequate to provide the needed care.
 
 (C) A duty assignment referred to in subparagraph (B) means any of the following:
 
@@ -62,7 +62,7 @@
 
 (2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L.110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373.)
 
 Historical and Revision Notes
 
@@ -204,6 +204,90 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
+#### Adjustment of Medical Services, Personnel Authorized Strengths, and Infrastructure in Military Health System To Maintain Readiness and Core Competencies of Health Care Providers
+
+Pub. L. 114–328, div. A, title VII, §725, Dec. 23, 2016, 130 Stat. 2230, provided that:
+
+"(a)
+
+In General.—Except as provided by subsection (c), not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall implement measures to maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces.
+
+"(b)
+
+Measures.—The measures under subsection (a) shall include measures under which the Secretary ensures the following:
+
+&emsp;"(1) Medical services provided through the military health system at military medical treatment facilities—
+
+&emsp;&emsp;"(A) maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces; and
+
+&emsp;&emsp;"(B) ensure the medical readiness of the Armed Forces.
+
+&emsp;"(2) The authorized strengths for military and civilian personnel throughout the military health system—
+
+&emsp;&emsp;"(A) maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces; and
+
+&emsp;&emsp;"(B) ensure the medical readiness of the Armed Forces.
+
+&emsp;"(3) The infrastructure in the military health system, including infrastructure of military medical treatment facilities—
+
+&emsp;&emsp;"(A) maintains the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces; and
+
+&emsp;&emsp;"(B) ensures the medical readiness of the Armed Forces.
+
+&emsp;"(4) Any covered beneficiary who may be affected by the measures implemented under subsection (a) will be able to receive through the purchased care component of the TRICARE program any medical services that will not be available to such covered beneficiary at a military medical treatment facility by reason of such measures.
+
+"(c)
+
+Exception.—The Secretary is not required to implement measures under subsection (a)(1) with respect to military medical treatment facilities located in a foreign country if the Secretary determines that providing medical services in addition to the medical services described in such subsection is necessary to ensure that covered beneficiaries located in that foreign country have access to a similar level of care available to covered beneficiaries located in the United States.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'clinical and logistical capabilities' means those capabilities relating to the provision of health care that are necessary to accomplish operational requirements, including—
+
+&emsp;&emsp;"(A) combat casualty care;
+
+&emsp;&emsp;"(B) medical response to and treatment of injuries sustained from chemical, biological, radiological, nuclear, or explosive incidents;
+
+&emsp;&emsp;"(C) diagnosis and treatment of infectious diseases;
+
+&emsp;&emsp;"(D) aerospace medicine;
+
+&emsp;&emsp;"(E) undersea medicine;
+
+&emsp;&emsp;"(F) diagnosis, treatment, and rehabilitation of specialized medical conditions;
+
+&emsp;&emsp;"(G) diagnosis and treatment of diseases and injuries that are not related to battle; and
+
+&emsp;&emsp;"(H) humanitarian assistance.
+
+&emsp;"(2) The terms 'covered beneficiary' and 'TRICARE program' have the meanings given those terms in section 1072 of title 10, United States Code.
+
+&emsp;"(3) The term 'critical wartime medical readiness skills and core competencies' means those essential medical capabilities, including clinical and logistical capabilities, that are—
+
+&emsp;&emsp;"(A) necessary to be maintained by health care providers within the Armed Forces for national security purposes; and
+
+&emsp;&emsp;"(B) vital to the provision of effective and timely health care during contingency operations."
+
+#### Requirement To Review and Monitor Prescribing Practices at Military Treatment Facilities of Pharmaceutical Agents for Treatment of Post-Traumatic Stress
+
+Pub. L. 114–328, div. A, title VII, §745, Dec. 23, 2016, 130 Stat. 2240, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall—
+
+&emsp;"(1) conduct a comprehensive review of the prescribing practices at military treatment facilities of pharmaceutical agents for the treatment of post-traumatic stress;
+
+&emsp;"(2) implement a process or processes to monitor the prescribing practices at military treatment facilities of pharmaceutical agents that are discouraged from use under the VA/DOD Clinical Practice Guideline for Management of Post-Traumatic Stress; and
+
+&emsp;"(3) implement a plan to address any deviations from such guideline in prescribing practices of pharmaceutical agents for management of post-traumatic stress at such facilities.
+
+"(b)
+
+Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) of title 10, United States Code."
+
 #### Pilot Program on Investigational Treatment of Members of the Armed Forces for Traumatic Brain Injury and Post-Traumatic Stress Disorder
 
 Pub. L. 113–66, div. A, title VII, §704, Dec. 26, 2013, 127 Stat. 792, provided that:
@@ -290,7 +374,7 @@ Chain of Command Involvement.—In establishing the program, the Secretary of De
 
 "(e)
 
-Plan.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to implement the program.
+Plan.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretaryshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to implement the program.
 
 "(f)
 
@@ -414,7 +498,7 @@ Tracking system.—Not later than 180 days after the date of the enactment of th
 
 &emsp;"(2)
 
-Access.—Not later than October 1, 2006, and each quarter thereafter during fiscal year 2007, the Secretary shall submit to such committees a report on the performance of the health care system in meeting the access standards described in the report required by subsection (a)."
+Access.—Not later than October 1, 2006, and each quarter thereafter during fiscal year 2007, the Secretary shall submit to such committees a report on the performance of the health care system inmeeting the access standards described in the report required by subsection (a)."
 
 #### Pilot Projects on Early Diagnosis and Treatment of Post Traumatic Stress Disorder and Other Mental Health Conditions
 
@@ -442,7 +526,7 @@ National guard or reserve members.—
 
 &emsp;&emsp;"(A) One of the pilot projects under this section shall be focused on members of the National Guard or Reserves who are located more than 40 miles from a military medical facility and who are served primarily by civilian community health resources.
 
-&emsp;&emsp;"(B) The pilot project described in subparagraph (A) shall be designed to develop educational materials and other tools for use by members of the National Guard or Reserves who come into contact with other members of the National Guard or Reserves who may suffer from post traumatic stressdisorder in order to encourage and facilitate early reporting and referral for treatment.
+&emsp;&emsp;"(B) The pilot project described in subparagraph (A) shall be designed to develop educational materials and other tools for use by members of the National Guard or Reserves who come into contact with other members of the National Guard or Reserves who may suffer from post traumatic stress disorder in order to encourage and facilitate early reporting and referral for treatment.
 
 &emsp;"(3)
 
@@ -642,7 +726,7 @@ Implementation and Report.—Not later than six months after the date of the ena
 
 #### Medical Readiness Plan and Joint Medical Readiness Oversight Committee
 
-Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, §1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, §1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, titleV, §515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, §1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, §1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 "(a)
 
@@ -990,7 +1074,7 @@ Reports on Implementation.—(1) Not later than six months after the date of the
 
 "(f)
 
-Project 112.—For purposes of this section, Project 112 refers to the chemical and biological weapons vulnerability-testing program of the Department of Defense conducted by the Deseret Test Center from 1963 to 1969. The project included the Shipboard Hazard and Defense (SHAD) project of the Navy."
+Project 112.—For purposes of this section, Project 112 refers to the chemical and biological weapons vulnerability-testing program of the Department of Defense conducted by the Deseret Test Center from 1963to 1969. The project included the Shipboard Hazard and Defense (SHAD) project of the Navy."
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
@@ -1006,7 +1090,7 @@ Eligibility.—A member of the uniformed services (as defined in section 1072(1)
 
 "(c)
 
-Applicable Policies.—In furnishing health care to an eligible member under subsection (a), a designated provider shall adhere to the Department of Defense policies applicable to the furnishing of care underthe TRICARE Prime Remote program, including coordinating with uniformed services medical authorities for hospitalizations and all referrals for specialty care.
+Applicable Policies.—In furnishing health care to an eligible member under subsection (a), a designated provider shall adhere to the Department of Defense policies applicable to the furnishing of care under the TRICARE Prime Remote program, including coordinating with uniformed services medical authorities for hospitalizations and all referrals for specialty care.
 
 "(d)
 
@@ -1086,7 +1170,7 @@ Pub. L. 104–201, div. A, title VII, §743, Sept. 23, 1996, 110 Stat. 2601, pro
 
 Definitions.—For purposes of this section:
 
-&emsp;"(1) The term 'Gulf War service' means service on active duty as a member of the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+&emsp;"(1) The term 'Gulf War service' means service on active duty as a member of the Armed Forces in theSouthwest Asia theater of operations during the Persian Gulf War.
 
 &emsp;"(2) The term 'Gulf War syndrome' means the complex of illnesses and symptoms commonly known as Gulf War syndrome.
 
@@ -1188,7 +1272,7 @@ Outreach Program to Persian Gulf Veterans and Families.—The Secretary of Defen
 
 &emsp;&emsp;"(D) possible health risks to children of Persian Gulf veterans;
 
-&emsp;"(2) inform such individuals of the procedures for registering in either the Persian Gulf Veterans Health Surveillance System of the Department of Defense or the Persian Gulf War Health Registry of the Department of Veterans Affairs; and
+&emsp;"(2) inform such individuals of the procedures for registering in either the Persian Gulf VeteransHealth Surveillance System of the Department of Defense or the Persian Gulf War Health Registry of the Department of Veterans Affairs; and
 
 &emsp;"(3) encourage such members to report any symptoms they may have and to register in the appropriate health surveillance registry.
 
@@ -1330,7 +1414,7 @@ Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, dire
 
 #### Registry of Members of Armed Forces Serving in Operation Desert Storm
 
-Pub. L. 102–190, div. A, title VII, §734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, §704, Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, §1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 102–190, div. A, title VII, §734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, §704,Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, §1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 "(a)
 

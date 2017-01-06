@@ -34,7 +34,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (B) Changes in ownership
 
-&emsp;&emsp;No wetland reserve easement shall be created on land that has changed ownershipduring the preceding 24-month period unless—
+&emsp;&emsp;No wetland reserve easement shall be created on land that has changed ownership during the preceding 24-month period unless—
 
 &emsp;&emsp;&emsp;(i) the new ownership was acquired by will or succession as a result of the death of the previous owner;
 
@@ -90,7 +90,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 &emsp;&emsp;&emsp;(i) permit—
 
-&emsp;&emsp;&emsp;&emsp;(I) repairs, improvements, and inspections on the land that are necessary to maintain existing public drainage systems; and
+&emsp;&emsp;&emsp;&emsp;(I) repairs, improvements, and inspections on the land that are necessary tomaintain existing public drainage systems; and
 
 &emsp;&emsp;&emsp;&emsp;(II) owners to control public access on the easement areas while identifying access routes to be used for restoration activities and management and easement monitoring;
 
@@ -120,7 +120,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (C) Compatible uses
 
-&emsp;&emsp;Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement ofthe wetland resources for which the easement was established.
+&emsp;&emsp;Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement of the wetland resources for which the easement was established.
 
 #### (D) Reservation of grazing rights
 
@@ -172,7 +172,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (1) In general
 
-&emsp;The Secretary shall provide financial assistance to owners of eligible land to carry out the establishment of conservation measures and practices and protect wetland functions and values, including necessary maintenance activities, as set forth in a wetland reserve easement plan developed for the eligible land under subsection (f).
+&emsp;The Secretary shall provide financial assistance to owners of eligible land to carry outthe establishment of conservation measures and practices and protect wetland functions and values, including necessary maintenance activities, as set forth in a wetland reserve easement plan developed for the eligible land under subsection (f).
 
 #### (2) Payments
 

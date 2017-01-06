@@ -6,7 +6,7 @@
 
 &emsp;The Commissioner of Social Security (in this section referred to as the "Commissioner") shall conduct outreach efforts to—
 
-&emsp;&emsp;(A) identify individuals entitled to benefits under the medicare program under subchapter XVIII of this chapter who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title <sup>1</sup> for the transitional assistance under section 1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title; and
+&emsp;&emsp;(A) identify individuals entitled to benefits under the medicare program under subchapter XVIII who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title <sup>1</sup> for the transitional assistance under section 1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title; and
 
 &emsp;&emsp;(B) notify such individuals of the availability of such medical assistance, program, and subsidies under such sections.
 
@@ -30,7 +30,7 @@
 
 #### (2) Information in periodic updates
 
-&emsp;The periodic updates described in paragraph (1)(B) shall include information on individuals who are or may be eligible for the medical assistance, program, and subsidies described in paragraph (1)(A) because such individuals have experienced reductions in benefits under subchapter II of this chapter.
+&emsp;The periodic updates described in paragraph (1)(B) shall include information on individuals who are or may be eligible for the medical assistance, program, and subsidies described in paragraph (1)(A) because such individuals have experienced reductions in benefits under subchapter II.
 
 #### (c) Assistance with Medicare Savings Program and low-income subsidy program applications
 
@@ -54,7 +54,7 @@
 
 #### (3) Transmittal of data to States
 
-&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shall initiate an application of the individual for benefits under the Medicare Savings Program with the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after theSecretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
+&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shall initiate an application of the individual for benefits under the Medicare Savings Program with the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after the Secretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
 
 #### (4) Coordination with outreach
 
@@ -126,7 +126,7 @@ Subsec. (a)(1)(A). Pub. L. 108–173, §103(g)(2)(A)(i), inserted "for the trans
 
 Subsec. (a)(1)(B). Pub. L. 108–173, §103(g)(2)(A)(ii), inserted ", program, and subsidies" after "medical assistance".
 
-Subsec. (a)(2). Pub. L. 108–173, §103(g)(2)(B)(i), inserted ", the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidiesunder section 1395w–114 of this title" after "assistance" in introductory provisions.
+Subsec. (a)(2). Pub. L. 108–173, §103(g)(2)(B)(i), inserted ", the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title" after "assistance" in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 108–173, §103(g)(2)(B)(ii), substituted "eligibility for medicare cost-sharing under the medicaid program" for "such eligibility".
 

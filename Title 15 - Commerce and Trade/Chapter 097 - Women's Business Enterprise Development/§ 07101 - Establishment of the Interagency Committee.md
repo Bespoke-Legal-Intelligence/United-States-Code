@@ -58,7 +58,7 @@ Establishment of the Interagency Committee on Women's Business Enterprise
 
 1–203. The Committee shall be composed of the Chairperson and other members appointed by the heads of departments and agencies from among high level policy-making officials. In making these appointments, the recommendations of the Chairperson shall be taken into consideration. The following departments and agencies and such other departments and agencies as the Chairperson shall select shall be members of the Committee: the Departments of Agriculture; Commerce; Defense; Energy; Health and Human Services; Housing and Urban Development; Interior; Justice; Labor; Transportation; Treasury; the Federal Trade Commission; General Services Administration; National Science Foundation; Office of Federal Procurement Policy; and the Small Business Administration. These members shall have a vote. Nonvoting members shall include the Executive Director of the Committee and at least one but no more than three representatives from the Executive Office of the President appointed by the President.
 
-1–204. The Committee shall meet at least quarterly at the call of the Chairperson, and at such other times asmay be determined to be useful according to the rules of procedure adopted by the Committee.
+1–204. The Committee shall meet at least quarterly at the call of the Chairperson, and at such other times as may be determined to be useful according to the rules of procedure adopted by the Committee.
 
 1–205. The Administrator of the Small Business Administration shall provide an Executive Director and adequate staff and administrative support for the Committee. The staff shall be located in the Office of the Chief Counsel for Advocacy of the Small Business Administration, or in such other office as may be established specifically to further the policies expressed herein. Nothing in this Section prohibits the use of other properly available funds and resources in support of the Committee.
 
@@ -110,7 +110,7 @@ For the purposes of this Order, the following definitions shall apply:
 
 1–601. "Women-owned business" means a business that is at least 51 percent owned by a woman or women who also control and operate it. "Control" in this context means exercising the power to make policy decisions. "Operate" in this context means being actively involved in the day-to-day management.
 
-1–602. "Women's business enterprise" means a woman-owned business or businesses or the efforts of a woman or women to establish, maintain or develop such a business or businesses.
+1–602. "Women's business enterprise" means a woman-owned business or businesses or the efforts of awoman or women to establish, maintain or develop such a business or businesses.
 
 1–603. Nothing in subsections 1–601 or 1–602 of this Section (1–6) should be construed to prohibit the use of other definitions of a woman-owned business or women's business enterprise by departments and agencies of the Executive Branch where other definitions are deemed reasonable and useful for any purpose not inconsistent with the purposes of this Order. Wherever feasible, departments and agencies should use the definition of a woman-owned business in subsection 1–601 above for monitoring performance with respect to women's business enterprise in order to assure comparability of data throughout the Federal Government.
 

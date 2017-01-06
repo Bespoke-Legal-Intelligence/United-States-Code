@@ -16,7 +16,7 @@
 
 #### (b) Inapplicability of carriers and other service providers
 
-For purposes of subsection (a) of this section, a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
+For purposes of subsection (a), a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
 
 &emsp;(1) a telecommunications carrier engaged in the provision of a telecommunications service;
 
@@ -24,7 +24,7 @@ For purposes of subsection (a) of this section, a person shall not be considered
 
 &emsp;(3) a person engaged in the business of providing an Internet information location tool; or
 
-&emsp;(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
+&emsp;(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
 
 #### (c) Affirmative defense
 
@@ -46,7 +46,7 @@ For purposes of subsection (a) of this section, a person shall not be considered
 
 #### (1) Disclosure of information limited
 
-&emsp;A person making a communication described in subsection (a) of this section—
+&emsp;A person making a communication described in subsection (a)—
 
 &emsp;&emsp;(A) shall not disclose any information collected for the purposes of restricting access to such communications to individuals 17 years of age or older without the prior written or electronic consent of—
 
@@ -58,7 +58,7 @@ For purposes of subsection (a) of this section, a person shall not be considered
 
 #### (2) Exceptions
 
-&emsp;A person making a communication described in subsection (a) of this section may disclose such information if the disclosure is—
+&emsp;A person making a communication described in subsection (a) may disclose such information if the disclosure is—
 
 &emsp;&emsp;(A) necessary to make the communication or conduct a legitimate business activity related to making the communication; or
 
@@ -130,147 +130,7 @@ Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–73
 
 #### Study by Commission on Online Child Protection
 
-Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501–592; Pub. L. 106–229, title IV, §401, June 30, 2000, 114 Stat. 476, provided that:
-
-"(a)
-
-Establishment.—There is hereby established a temporary Commission to be known as the Commission on Online Child Protection (in this section referred to as the 'Commission') for the purpose of conducting a study under this section regarding methods to help reduce access by minors to material that is harmful to minors on the Internet.
-
-"(b)
-
-Membership.—The Commission shall be composed of 19 members, as follows:
-
-&emsp;"(1)
-
-Industry members.—The Commission shall include 16 members who shall consist of representatives of—
-
-&emsp;&emsp;"(A) providers of Internet filtering or blocking services or software;
-
-&emsp;&emsp;"(B) Internet access services;
-
-&emsp;&emsp;"(C) labeling or ratings services;
-
-&emsp;&emsp;"(D) Internet portal or search services;
-
-&emsp;&emsp;"(E) domain name registration services;
-
-&emsp;&emsp;"(F) academic experts; and
-
-&emsp;&emsp;"(G) providers that make content available over the Internet.
-
-> &emsp;Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
-
-&emsp;"(2)
-
-Ex officio members.—The Commission shall include the following officials:
-
-&emsp;&emsp;"(A) The Assistant Secretary (or the Assistant Secretary's designee).
-
-&emsp;&emsp;"(B) The Attorney General (or the Attorney General's designee).
-
-&emsp;&emsp;"(C) The Chairman of the Federal Trade Commission (or the Chairman's designee).
-
-&emsp;"(3)
-
-Prohibition of pay.—Members of the Commission shall not receive any pay by reason of their membership on the Commission.
-
-"(c)
-
-First Meeting.—The Commission shall hold its first meeting not later than March 31, 2000.
-
-"(d)
-
-Chairperson.—The chairperson of the Commission shall be elected by a vote of a majority of the members, which shall take place not later than 30 days after the first meeting of the Commission.
-
-"(e)
-
-Study.—
-
-&emsp;"(1)
-
-In general.—The Commission shall conduct a study to identify technological or other methods that—
-
-&emsp;&emsp;"(A) will help reduce access by minors to material that is harmful to minors on the Internet; and
-
-&emsp;&emsp;"(B) may meet the requirements for use as affirmative defenses for purposes of section 231(c) of the Communications Act of 1934 \[47 U.S.C. 231(c)\] (as added by this title).
-
-&emsp;"Any methods so identified shall be used as the basis for making legislative recommendations to the Congress under subsection (d)(3).
-
-&emsp;"(2)
-
-Specific methods.—In carrying out the study, the Commission shall identify and analyze various technological tools and methods for protecting minors from material that is harmful to minors, which shall include (without limitation)—
-
-&emsp;&emsp;"(A) a common resource for parents to use to help protect minors (such as a 'one-click-away' resource);
-
-&emsp;&emsp;"(B) filtering or blocking software or services;
-
-&emsp;&emsp;"(C) labeling or rating systems;
-
-&emsp;&emsp;"(D) age verification systems;
-
-&emsp;&emsp;"(E) the establishment of a domain name for posting of any material that is harmful to minors; and
-
-&emsp;&emsp;"(F) any other existing or proposed technologies or methods for reducing access by minors to such material.
-
-&emsp;"(3)
-
-Analysis.—In analyzing technologies and other methods identified pursuant to paragraph (2), the Commission shall examine—
-
-&emsp;&emsp;"(A) the cost of such technologies and methods;
-
-&emsp;&emsp;"(B) the effects of such technologies and methods on law enforcement entities;
-
-&emsp;&emsp;"(C) the effects of such technologies and methods on privacy;
-
-&emsp;&emsp;"(D) the extent to which material that is harmful to minors is globally distributed and the effect of such technologies and methods on such distribution;
-
-&emsp;&emsp;"(E) the accessibility of such technologies and methods to parents; and
-
-&emsp;&emsp;"(F) such other factors and issues as the Commission considers relevant and appropriate.
-
-"(f)
-
-Report.—Not later than 2 years after the enactment of this Act \[Oct. 21, 1998\], the Commission shall submit a report to the Congress containing the results of the study under this section, which shall include—
-
-&emsp;"(1) a description of the technologies and methods identified by the study and the results of the analysis of each such technology and method;
-
-&emsp;"(2) the conclusions and recommendations of the Commission regarding each such technology or method;
-
-&emsp;"(3) recommendations for legislative or administrative actions to implement the conclusions of the committee; and
-
-&emsp;"(4) a description of the technologies or methods identified by the study that may meet the requirements for use as affirmative defenses for purposes of section 231(c) of the Communications Act of 1934 \[47 U.S.C. 231(c)\] (as added by this title).
-
-"(g)
-
-Rules of the Commission.—
-
-&emsp;"(1)
-
-Quorum.—Nine members of the Commission shall constitute a quorum for conducting the business of the Commission.
-
-&emsp;"(2)
-
-Meetings.—Any meetings held by the Commission shall be duly noticed at least 14 days in advance and shall be open to the public.
-
-&emsp;"(3)
-
-Opportunities to testify.—The Commission shall provide opportunities for representatives of the general public to testify.
-
-&emsp;"(4)
-
-Additional rules.—The Commission may adopt other rules as necessary to carry out this section.
-
-"(h)
-
-Gifts, Bequests, and Devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real (including the use of office space) and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts or grants not used at the termination of the Commission shall be returned to the donor or grantee.
-
-"(l)\[i\]
-
-Termination.—The Commission shall terminate 30 days after the submission of the report under subsection (d) or November 30, 2000, whichever occurs earlier.
-
-"(m)\[j\]
-
-Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission."
+Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501–592; Pub. L. 106–229, title IV, §401, June 30, 2000, 114 Stat. 476, established a Commission to study methods to reduce access by minors to harmful material on the Internet and provided that the Commission would terminate 30 days after submitting a report to Congress or Nov. 30, 2000, whichever occured earlier.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 

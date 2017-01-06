@@ -28,7 +28,7 @@ From amounts available under section 1068h(a)(2) of this title for any fiscal ye
 
 &emsp;(12) Acquisition of real property in connection with the construction, renovation, or addition to or improvement of campus facilities.
 
-&emsp;(13) Education or financial information designed to improve the financial literacy and economic literacy of students or the students' families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;(13) Education or financial information designed to improve the financial literacy and economic literacy of students or the students' families, especially with regard to student indebtedness and student assistance programs under subchapter IV.
 
 &emsp;(14) Services necessary for the implementation of projects or activities that are described in the grant application and that are approved, in advance, by the Secretary, except that not more than two percent of the grant amount may be used for this purpose.
 
@@ -50,11 +50,11 @@ From amounts available under section 1068h(a)(2) of this title for any fiscal ye
 
 #### (3) Comparability
 
-&emsp;The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+&emsp;The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
 #### (c) Limitations
 
-(1) No grant may be made under this chapter and part C of subchapter I of chapter 34 of title 42 for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term "school or department of divinity" means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
+(1) No grant may be made under this chapter for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term "school or department of divinity" means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
 
 (2) Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 

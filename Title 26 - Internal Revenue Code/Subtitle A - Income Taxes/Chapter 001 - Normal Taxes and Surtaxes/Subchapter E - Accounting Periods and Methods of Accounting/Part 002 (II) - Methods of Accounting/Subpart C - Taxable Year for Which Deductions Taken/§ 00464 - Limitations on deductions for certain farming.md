@@ -74,7 +74,7 @@ For purposes of this section, the term "farming" means the cultivation of land o
 
 #### References in Text
 
-Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined "farming syndicate", was transferred to section 461 of this title and redesignated as subsec. (j) of that section by Pub. L. 113–295, div. A, title II, §221(a)(58)(B)(i), Dec. 19, 2014, 128 Stat. 4047.
+Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined "farming syndicate", was transferred to section 461 of this title and redesignated as subsec. (j) by Pub. L. 113–295, div. A, title II, §221(a)(58)(B)(i), Dec. 19, 2014, 128 Stat. 4047.
 
 #### Amendments
 

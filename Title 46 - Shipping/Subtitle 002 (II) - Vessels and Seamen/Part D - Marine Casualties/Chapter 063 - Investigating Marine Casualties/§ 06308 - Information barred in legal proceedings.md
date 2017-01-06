@@ -28,5 +28,5 @@ Subsec. (d). Pub. L. 109–241, §902(e)(2)(A), (D), formerly §902(e)(2)(A), (4
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(5)(B)–(7), is effective with enactment of Pub. L. 109–241.
+Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section903(a)(5)(B)–(7), is effective with enactment of Pub. L. 109–241.
 

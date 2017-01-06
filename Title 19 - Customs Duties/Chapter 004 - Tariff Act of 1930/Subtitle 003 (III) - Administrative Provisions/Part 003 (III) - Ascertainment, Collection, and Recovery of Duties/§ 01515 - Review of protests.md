@@ -10,13 +10,13 @@ A request for accelerated disposition of a protest filed in accordance with sect
 
 #### (c) Request for set aside of denial of further review
 
-If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of Customs a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of Customs may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of Customs fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of section 2636 of title 28. If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
+If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of U.S. Customs and Border Protection a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of U.S. Customs and Border Protection may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of U.S. Customs and Border Protection fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of section 2636 of title 28. If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
 
 #### (d) Voiding denial of protest
 
 If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
-(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171; Pub. L. 108–429, title II, §2104, Dec. 3, 2004, 118 Stat. 2598.)
+(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub.L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171; Pub. L. 108–429, title II, §2104, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Prior Provisions
 
@@ -40,6 +40,10 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 
 <b>1970</b>—Pub. L. 91–271 designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" wherever appearing in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
@@ -62,7 +66,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 

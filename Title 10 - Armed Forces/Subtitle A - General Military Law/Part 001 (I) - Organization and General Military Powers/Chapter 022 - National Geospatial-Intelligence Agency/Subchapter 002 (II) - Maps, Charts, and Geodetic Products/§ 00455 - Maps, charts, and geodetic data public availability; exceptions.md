@@ -8,7 +8,7 @@
 
 &emsp;(B) that contains information that the Secretary of Defense has determined in writing would, if disclosed, reveal sources and methods, or capabilities, used to obtain source material for production of the geodetic product; or
 
-&emsp;(C) that contains information that the Director of the National Geospatial-Intelligence Agency has determined in writing would, if disclosed, jeopardize or interfere with ongoing military or intelligence operations, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities.
+&emsp;(C) that contains information that the Director of the National Geospatial-Intelligence Agency has determined in writing would, if disclosed, jeopardize or interfere with ongoingmilitary or intelligence operations, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities.
 
 (2) In this subsection, the term "geodetic product" means imagery, imagery intelligence, or geospatial information.
 

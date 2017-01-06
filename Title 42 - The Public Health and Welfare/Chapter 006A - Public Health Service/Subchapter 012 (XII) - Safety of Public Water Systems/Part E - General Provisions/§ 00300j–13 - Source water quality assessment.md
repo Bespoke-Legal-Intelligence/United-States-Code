@@ -10,7 +10,7 @@
 
 &emsp;A source water assessment program under this subsection shall—
 
-&emsp;&emsp;(A) delineate the boundaries of the assessment areas in such State from which one or more public water systems in the State receive supplies of drinking water, using all reasonably available hydrogeologic information on the sources of the supply of drinking water in the State and the water flow, recharge, and discharge and any other reliable information as the State deems necessary to adequately determine such areas; and
+&emsp;&emsp;(A) delineate the boundaries of the assessment areas in such State from which one ormore public water systems in the State receive supplies of drinking water, using all reasonably available hydrogeologic information on the sources of the supply of drinking water in the State and the water flow, recharge, and discharge and any other reliable information as the State deems necessary to adequately determine such areas; and
 
 &emsp;&emsp;(B) identify for contaminants regulated under this subchapter for which monitoring is required under this subchapter (or any unregulated contaminants selected by the State, in its discretion, which the State, for the purposes of this subsection, has determined may present a threat to public health), to the extent practical, the origins within each delineated area of such contaminants to determine the susceptibility of the public water systems in the delineated area to such contaminants.
 

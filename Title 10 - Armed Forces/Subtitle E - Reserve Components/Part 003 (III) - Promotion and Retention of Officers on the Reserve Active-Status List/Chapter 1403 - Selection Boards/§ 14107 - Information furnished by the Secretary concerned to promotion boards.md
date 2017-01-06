@@ -26,7 +26,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 &emsp;(B) the information is provided to the later selection board in accordance with paragraph (2) or (3), as applicable.
 
-(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
+(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer isfurnished to a selection board, the Secretary of the military department concerned shall ensure—
 
 &emsp;(i) that such information is made available to such officer; and
 
@@ -83,4 +83,8 @@ Subsec. (d). Pub. L. 109–163, §515(b)(1)(QQ), substituted "Navy Reserve" for 
 #### Effective Date of 2006 Amendment
 
 Amendment by section 506(b) of Pub. L. 109–163 effective Oct. 1, 2006, and applicable with respect to promotion selection boards convened on or after that date, see section 506(c) of Pub. L. 109–163, set out as a note under section 615 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

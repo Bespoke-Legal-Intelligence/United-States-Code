@@ -202,7 +202,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 &emsp;&emsp;(C) if the investigation was completed under subsection (g), issue a countervailing duty order under section 1671e(a) of this title effective with respect to entries of merchandise the liquidation of which was suspended,
 
-&emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
+&emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of U.S. Customs and Border Protection who shall take appropriate action under paragraph (2), and
 
 &emsp;&emsp;(E) notify the petitioner, interested parties who are or were parties to the investigation, and the Commission of its action under this paragraph.
 
@@ -232,7 +232,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 &emsp;If an agreement described in paragraph (1) is accepted after the countervailing duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1671b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to countervailing duties.
 
-(June 17, 1930, ch. 497, title VII, §704, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 154; amended Pub. L. 98–573, title VI, §§604(a), 612(b)(2), Oct. 30, 1984, 98 Stat. 3025, 3034; Pub. L. 99–514, title XVIII, §1886(a)(4), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §1326(d)(2), Aug. 23, 1988, 102 Stat. 1204; Pub. L. 103–465, title II, §§216(a), 217(a), 218(a)(1), 233(a)(5)(D)–(M), 264(c)(3)–(6), 270(a)(1)(E), (2)(A), (c)(1), Dec. 8, 1994, 108 Stat. 4853, 4854, 4899, 4914, 4917.)
+(June 17, 1930, ch. 497, title VII, §704, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 154; amended Pub. L. 98–573, title VI, §§604(a), 612(b)(2), Oct. 30, 1984, 98 Stat. 3025, 3034; Pub. L. 99–514, title XVIII, §1886(a)(4), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §1326(d)(2), Aug. 23, 1988, 102 Stat. 1204; Pub. L. 103–465, title II, §§216(a), 217(a), 218(a)(1), 233(a)(5)(D)–(M), 264(c)(3)–(6), 270(a)(1)(E), (2)(A), (c)(1), Dec. 8, 1994, 108 Stat. 4853, 4854, 4899, 4914, 4917; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendments
 
@@ -300,6 +300,10 @@ Subsec. (i)(1)(D), (E). Pub. L. 98–573, §604(a)(4)(A)–(C), added subpar. (D
 
 Subsec. (k). Pub. L. 98–573, §604(a)(5), added subsec. (k).
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
@@ -314,7 +318,7 @@ Amendment by section 604(a) of Pub. L. 98–573 effective Oct. 30, 1984, and ame
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

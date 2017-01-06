@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for purposes of the application of this subchapter in aState, the term "family" has the meaning given the term by the State.
+&emsp;&emsp;Subject to subparagraph (B), for purposes of the application of this subchapter in a State, the term "family" has the meaning given the term by the State.
 
 #### (B) Exclusion of employees
 
@@ -56,7 +56,7 @@ In this subchapter:
 
 References in this subchapter to a child with a disability shall be considered to include references to an individual who is not younger than age 18 who—
 
-&emsp;(1) has a significant impairment described in subsection (a)(1)(A) of this section; and
+&emsp;(1) has a significant impairment described in subsection (a)(1)(A); and
 
 &emsp;(2) is residing with and receiving assistance from a family member.
 

@@ -34,7 +34,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit organization that is awarded a grant under this subchapter and uses the procedures prescribed in regulationsunder section 53.4958–6 of title 26 of the Code of Federal Regulations to create a rebuttable presumption of reasonableness of the compensation for its officers, directors, trustees and key employees, shall disclose to the Attorney General the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information available for public inspection.
+&emsp;&emsp;Each nonprofit organization that is awarded a grant under this subchapter and uses the procedures prescribed in regulations under section 53.4958–6 of title 26 of the Code of Federal Regulations to create a rebuttable presumption of reasonableness of the compensation for its officers, directors, trustees and key employees, shall disclose to the Attorney General the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information available for public inspection.
 
 #### (6) Conference expenditures
 

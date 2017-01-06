@@ -36,7 +36,7 @@
 
 (C) The declassification of some of the information contained in exempted operational files shall not affect the status of the operational file as being exempt from search, review, publication, or disclosure.
 
-(D) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph\(1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
+(D) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph (1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
 (5) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after November 27, 2002, and which specifically cites and repeals or modifies its provisions.
 
@@ -64,7 +64,7 @@
 
 #### (b) Decennial review of exempted operational files
 
-(1) Not less than once every 10 years, the Director of the National Reconnaissance Office and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
+(1) Not less than once every 10 years, the Director of the National Reconnaissance Office and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 

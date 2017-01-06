@@ -46,7 +46,7 @@ Sale.—Pursuant to paragraph (1), the Administrator shall sell, at wholesale to
 
 &emsp;(C)
 
-No resale.—A public body or cooperative to which a joint operating entity sellselectric power under subparagraph (B) shall not resell that power except to retail customers of the public body or cooperative or to another regional member or participant of the same joint operating entity, or except as otherwise permitted by law.
+No resale.—A public body or cooperative to which a joint operating entity sells electric power under subparagraph (B) shall not resell that power except to retail customers of the public body or cooperative or to another regional member or participant of the same joint operating entity, or except as otherwise permitted by law.
 
 #### (c) Purchase and exchange sales
 
@@ -92,7 +92,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (4)(A) As used in this section, the term "existing direct service industrial customer" means any direct service industrial customer of the Administrator which has a contract for the purchase of electric power from the Administrator on December 5, 1980.
 
-(B) The term "new direct service industrial customer" means any industrial entity otherthan an existing direct service industrial customer.
+(B) The term "new direct service industrial customer" means any industrial entity other than an existing direct service industrial customer.
 
 (C)(i) Where a new contract is offered in accordance with subsection (g) to any existing direct service industrial customer which has not received electric power prior to December 5, 1980, from the Administrator pursuant to a contract with the Administrator existing on December 5, 1980, electric power delivered under such new contract shall be conditioned on the Administrator reasonably acquiring, in accordance with this chapter and within such estimated period of time (as specified in the contract) as he deems reasonable, sufficient resources to meet, on a planning basis, the load requirement of such customer. Such contract shall also provide that the obligation of the Administrator to acquire such resources to meet such load requirement shall, except as provided in clause (ii) of this subparagraph, apply only to such customer and shall not be sold or exchanged by such customer to any other person.
 

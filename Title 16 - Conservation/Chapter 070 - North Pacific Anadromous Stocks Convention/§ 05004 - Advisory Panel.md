@@ -14,27 +14,43 @@ An Advisory Panel to the United States Section is established. The Advisory Pane
 
 #### (b) Qualifications
 
-Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4) of this section, the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
+Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4), the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
 
 #### (c) Limitation on service
 
-Any person appointed to the Advisory Panel pursuant to subsection (a)(4) of this section shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
+Any person appointed to the Advisory Panel pursuant to subsection (a)(4) shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
 
 #### (d) Functions
 
 The Advisory Panel shall be invited to all nonexecutive meetings of the United States Section and at such meetings shall be granted the opportunity to examine and to be heard on all proposed programs of study and investigation, reports, and recommendations of the United States Section.
 
-#### (e) Compensation and expenses
+#### (e) Compensation
 
-The members of the Advisory Panel shall receive no compensation or travel expenses for their services as such members.
+The members of the Advisory Panel shall receive no compensation for their service as such members.
 
-(Pub. L. 102–567, title VIII, §805, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, §8005, Nov. 4, 1992, 106 Stat. 5100; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
+#### (f) Travel expenses
+
+#### (1) In general
+
+&emsp;The Secretary may pay the necessary travel expenses of the members of the Advisory Panel in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+
+#### (2) Reimbursement
+
+&emsp;The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph.<sup>1</sup>
+
+(Pub. L. 102–567, title VIII, §805, Oct. 29, 1992, 106 Stat. 4311; Pub. L. 102–587, title VIII, §8005, Nov. 4, 1992, 106 Stat. 5100; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, §121(b)(2), Dec. 16, 2016, 130 Stat. 1985.)
 
 #### Codification
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
+#### Amendments
+
+<b>2016</b>—Subsecs. (e), (f). Pub. L. 114–327 added subsecs. (e) and (f) and struck out former subsec. (e) which related to compensation and expenses.
+
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel isrenewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

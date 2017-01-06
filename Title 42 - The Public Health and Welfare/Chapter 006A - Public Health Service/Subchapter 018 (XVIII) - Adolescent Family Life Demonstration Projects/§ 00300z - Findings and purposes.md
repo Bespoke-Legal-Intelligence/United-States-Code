@@ -54,7 +54,7 @@
 
 &emsp;(6) to encourage and provide for the dissemination of results, findings, and information from programs and research projects relating to adolescent premarital sexual relations, pregnancy, and parenthood.
 
-(July 1, 1944, ch. 373, title XX, §2001, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 578; amended Pub. L. 98–512, §2(b), (c), Oct. 19, 1984, 98 Stat. 2409.)
+(July 1, 1944, ch. 373, title XX, §2001, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95Stat. 578; amended Pub. L. 98–512, §2(b), (c), Oct. 19, 1984, 98 Stat. 2409.)
 
 #### Amendments
 

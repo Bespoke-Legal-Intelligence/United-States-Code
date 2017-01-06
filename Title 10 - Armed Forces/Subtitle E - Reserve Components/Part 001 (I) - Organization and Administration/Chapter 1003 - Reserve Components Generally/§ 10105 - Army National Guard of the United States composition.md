@@ -12,6 +12,10 @@ The Army National Guard of the United States is the reserve component of the Arm
 
 Provisions similar to those in this section were contained in section 3077 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
 
+#### Effective Date
+
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
 #### Active Component Support for Reserve Training
 
 Pub. L. 103–160, div. A, title V, §515, Nov. 30, 1993, 107 Stat. 1650, provided that:
@@ -30,7 +34,7 @@ Pub. L. 103–160, div. A, title V, §516, Nov. 30, 1993, 107 Stat. 1650, direct
 
 #### Army National Guard Combat Readiness Reform
 
-Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372, provided that:
+Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372; Pub. L. 114–328, div. A, title III, §321(b), Dec. 23, 2016, 130 Stat. 2075, provided that:
 
 #### "SEC. 1101. SHORT TITLE.
 
@@ -74,7 +78,7 @@ Review.—Whenever an officer in an Army Selected Reserve unit as defined in sub
 
 Coverage of Selected Reserve Combat and Early Deploying Units.—(1) Subsection (a) applies to officers in all units of the Selected Reserve that are designated as combat units or that are designated for deployment within 75 days of mobilization.
 
-"(2) Subsection (a) shall take effect with respect to officers of the Army Reserve, and with respect to officers of the Army National Guard in units not subject tosubsection (a) as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 \[Feb. 10, 1996\], at the end of the 90-day period beginning on such date of enactment.
+"(2) Subsection (a) shall take effect with respect to officers of the Army Reserve, and with respect to officers of the Army National Guard in units not subject to subsection (a) as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 \[Feb. 10, 1996\], at the end of the 90-day period beginning on such date of enactment.
 
 "(c)
 
@@ -132,25 +136,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 #### "Subtitle B—Assessment of National Guard Capability
 
-#### "SEC. 1121. DEPLOYABILITY RATING SYSTEM.
-
-"The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve and Army National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
-
-&emsp;"(1) that the personnel readiness rating of a unit reflects—
-
-&emsp;&emsp;"(A) both the percentage of the overall personnel requirement of the unit that is manned and deployable and the fill and deployability rate for critical occupational specialties necessary for the unit to carry out its basic mission requirements; and
-
-&emsp;&emsp;"(B) the number of personnel in the unit who are qualified in their primary military occupational specialty; and
-
-&emsp;"(2) that the equipment readiness assessment of a unit—
-
-&emsp;&emsp;"(A) documents all equipment required for deployment;
-
-&emsp;&emsp;"(B) reflects only that equipment that is directly possessed by the unit;
-
-&emsp;&emsp;"(C) specifies the effect of substitute items; and
-
-&emsp;&emsp;"(D) assesses the effect of missing components and sets on the readiness of major equipments items.
+#### "\[SEC. 1121. Repealed. Pub. L. 114–328, div. A, title III, §321(b), Dec. 23, 2016, 130 Stat. 2075.\]
 
 #### "SEC. 1122. INSPECTIONS.
 
@@ -196,29 +182,13 @@ Compatibility Program.—The Secretary of the Army shall develop and implement a
 
 "(b)
 
-Report.—Not later than September 30, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program under subsection (a) and setting forth a plan for implementation of the program by the end of fiscal year 1997.
+Report.—Not later than September 30, 1993, the Secretary shall submit to the Committees on ArmedServices of the Senate and House of Representatives a report describing the program under subsection (a) and setting forth a plan for implementation of the program by the end of fiscal year 1997.
 
 #### "SEC. 1134. EQUIPMENT COMPATIBILITY.
 
 "\[Amended section 115b(b) \[now 10541(b)\] of this title.\]
 
-#### "SEC. 1135. DEPLOYMENT PLANNING REFORM.
-
-"(a)
-
-Requirement for Priority System.—The Secretary of the Army shall develop a system for identifying the priority for mobilization of Army reserve component units. The priority system shall be based on regional contingency planning requirements and doctrine to be integrated into the Army war planning process.
-
-"(b)
-
-Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to group units according to the timing of deployment after mobilization.
-
-"(c)
-
-Use of Designators.—(1) The Secretary shall establish procedures to link the Unit Deployment Designator system to the process by which resources are provided for National Guard units.
-
-"(2) The Secretary shall develop a plan that allocates greater funding for training, full-time support, equipment, and manpower in excess of 100 percent of authorized strength to units assigned Unit Deployment Designators that allow fewer post-mobilization training days.
-
-"(3) The Secretary shall establish procedures to identify the command level at which combat units would, upon deployment, be integrated with active component forces consistent with the Unit Deployment Designator system.
+#### "\[SEC. 1135. Repealed. Pub. L. 114–328, div. A, title III, §321(b), Dec. 23, 2016, 130 Stat. 2075.\]
 
 #### "SEC. 1136. QUALIFICATION FOR PRIOR-SERVICE ENLISTMENT BONUS.
 

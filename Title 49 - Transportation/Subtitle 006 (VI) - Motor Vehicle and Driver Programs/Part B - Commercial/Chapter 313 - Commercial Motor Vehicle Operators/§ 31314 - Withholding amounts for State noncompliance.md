@@ -62,7 +62,7 @@ In subsection (e), the words "by the Secretary" are omitted as surplus.
 
 #### References in Text
 
-Section 104(b)(1), (3), and (4) of title 23, referred to in subsecs. (a) and (b), probably refers to section 104(b)(1), (3), and (4) of title 23 prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+Section 104(b)(1), (3), and (4) of title 23, referred to in subsecs. (a) and (b), probably refers to section 104(b)(1),\(3), and (4) of title 23 prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Amendments
 

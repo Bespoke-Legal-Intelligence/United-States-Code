@@ -4,7 +4,7 @@
 
 Requirement.—Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:
 
-&emsp;(1) The following types of end items, or components thereof, containing a specialty metal not melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
+&emsp;(1) The following types of end items, or components thereof, containing a specialty metalnot melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
 
 &emsp;(2) A specialty metal that is not melted or produced in the United States and that is to be purchased directly by the Department of Defense or a prime contractor of the Department.
 
@@ -84,7 +84,7 @@ Streamlined Compliance for Commercial Derivative Military Articles.—(1) Subsec
 
 &emsp;&emsp;(ii) an amount equivalent to 50 percent of the amount of specialty metal that is purchased by the contractor and its subcontractors for use during such period in the production of the commercial derivative military article and the related commercial article.
 
-(2) For the purposes of this subsection, the amount of specialty metal that is required tocarry out the production of the commercial derivative military article includes specialty metal contained in any item, including commercially available off-the-shelf items, incorporated into such commercial derivative military article.
+(2) For the purposes of this subsection, the amount of specialty metal that is required to carry out the production of the commercial derivative military article includes specialty metal contained in any item, including commercially available off-the-shelf items, incorporated into such commercial derivative military article.
 
 (k)
 
@@ -152,7 +152,7 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505.)
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan.28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505.)
 
 #### Amendments
 
@@ -224,7 +224,7 @@ Completion of Review.—The Secretary shall complete the review required by subs
 
 #### Revision of Domestic Nonavailability Determinations and Rules
 
-Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: "No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed and amended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
+Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: "No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed andamended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
 
 &emsp;"(1) an individual contract that was entered into before the date of the enactment of this Act; or
 
@@ -238,7 +238,7 @@ Pub. L. 110–181, div. A, title VIII, §884, Jan. 28, 2008, 122 Stat. 264, prov
 
 Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
 
-&emsp;"(1) publish a notice on the website maintained by the General Services Administration known asFedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
+&emsp;"(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
 
 &emsp;"(2) solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
 

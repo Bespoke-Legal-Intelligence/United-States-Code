@@ -32,7 +32,7 @@ Payment of funds to any State for programs authorized under section 2662(a), (b)
 
 #### (f) Availability; budgets and accounts
 
-Funds shall be available for use by each State in the fiscal year for which appropriated and the next fiscal year following the fiscal year for which appropriated. Funds shall be budgeted and accounted for on such forms and at such times as the Secretary shall prescribe.
+Funds shall be available for use by each State in the fiscal year for which appropriated and thenext fiscal year following the fiscal year for which appropriated. Funds shall be budgeted and accounted for on such forms and at such times as the Secretary shall prescribe.
 
 #### (g) Financing of programs at other than cooperating institutions
 
@@ -58,7 +58,7 @@ Pub. L. 104–127, §792(b)(2)(A)(i), (B), struck out "(1)" before "Such sums" a
 
 <b>1991</b>—Subsec. (c)(1). Pub. L. 102–237 substituted "subsections (e) and (i) of section 2662 of this title" for "the provisions of section 2662(e) of this title" and "objectives of those subsections" for "objectives of section 2662(e) of this title".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–624, §2390(b)(2), which directed substitution of "section 2662(f) of this title, and section 2662(h) of this title" for "and section 2662(f) ofthis title", could not be executed because of prior amendment by Pub. L. 101–624, §2389(c)(2)(B), which struck out "and section 2662(f)" wherever appearing in par. (1). See below.
+<b>1990</b>—Subsec. (c). Pub. L. 101–624, §2390(b)(2), which directed substitution of "section 2662(f) of this title, and section 2662(h) of this title" for "and section 2662(f) of this title", could not be executed because of prior amendment by Pub. L. 101–624, §2389(c)(2)(B), which struck out "and section 2662(f)" wherever appearing in par. (1). See below.
 
 Pub. L. 101–624, §2389(c)(2), inserted heading, designated existing provisions as par. (1), struck out "and section 2662(f)" before "of this title" in two places, and added par. (2).
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated to carry out this subchapter—
 
 Funds made available under this section may not be used to acquire or construct a building.
 
-(Pub. L. 95–113, title XIV, §1477, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1318; amended Pub. L. 99–198, title XIV, §1429(c), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, §1614(c), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 104–127, title VIII, §820(d), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, §301(a)(15), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7116, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7140, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, §4(a), title VII, §7140, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, §7124(b), Feb. 7, 2014, 128 Stat. 876.)
+(Pub. L. 95–113, title XIV, §1477, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1318; amended Pub. L. 99–198, title XIV, §1429(c), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, §1614(c), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 104–127, title VIII, §820(d), Apr. 4, 1996, 110 Stat.1168; Pub. L. 105–185, title III, §301(a)(15), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7116, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7140, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, §4(a), title VII, §7140, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, §7124(b), Feb. 7, 2014, 128 Stat. 876.)
 
 #### Codification
 
@@ -37,4 +37,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+#### Effective Date
+
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 

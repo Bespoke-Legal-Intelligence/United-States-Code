@@ -6,9 +6,9 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(1) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with those costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
-&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
+&emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature,or a legislative body of a political subdivision of a State.
 
-&emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification)brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
+&emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
 &emsp;(4) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance those payments in accordance with applicable provisions of the Federal Acquisition Regulation.
 
@@ -36,11 +36,11 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
 
-&emsp;(15) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
+&emsp;(15) Costs incurred by a contractor or subcontractor, or personal service <sup>1</sup> contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
 
-&emsp;(16) <sup>1</sup> Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+&emsp;(16) <sup>2</sup> Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
-&emsp;(16) <sup>1</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+&emsp;(16) <sup>2</sup> Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
 (b)
 
@@ -72,7 +72,7 @@ Determination to be made before contract awarded.—An executive agency shall ma
 
 Establishment of Definitions, Exclusions, Limitations, and Qualifications.—The provisions of the Federal Acquisition Regulation implementing this chapter may establish appropriate definitions, exclusions, limitations, and qualifications. A submission by a contractor of costs that are incurred by the contractor and that are claimed to be allowable under Department of Energy management and operating contracts shall be considered a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3785; Pub. L. 113–66, div. A, title VIII, §811(b), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(1), Dec. 26, 2013, 127 Stat. 1189.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3785; Pub. L. 113–66, div. A, title VIII, §811(b), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(1), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 114–261, §1(b)(2)(B), Dec. 14, 2016, 130 Stat. 1363.)
 
 Historical and Revision Notes
 
@@ -91,6 +91,8 @@ Historical and Revision Notes
 June 30, 1949, ch. 288, title III, §306(e), as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3310; Pub. L. 105–85, title VIII, §808(b)(1), Nov. 18, 1997, 111 Stat. 1836.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(15). Pub. L. 114–261 inserted "or subcontractor, or personal service contractor" after "contractor".
 
 <b>2013</b>—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: "Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title." See Effective Date of 2013 Amendment notes below.
 
@@ -190,5 +192,7 @@ Sec. 8. This order shall become effective immediately, and shall apply to contra
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Two pars. (16) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "services".</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (16) have been enacted.</i>
 

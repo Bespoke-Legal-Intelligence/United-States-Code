@@ -1,0 +1,6 @@
+### §624. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–231, §10, Sept. 14, 1961, 75 Stat. 505, which related to exchange of Pueblo lands, was omitted from the Code as being of special and not general application.
+

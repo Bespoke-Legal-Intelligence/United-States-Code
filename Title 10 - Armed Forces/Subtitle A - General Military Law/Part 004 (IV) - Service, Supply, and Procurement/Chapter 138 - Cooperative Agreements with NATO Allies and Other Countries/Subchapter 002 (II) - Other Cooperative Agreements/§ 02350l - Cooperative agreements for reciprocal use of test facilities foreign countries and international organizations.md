@@ -28,7 +28,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "direct cost", with respect to the use of a test facility pursuant to a memorandum or other agreement under subsection (a)—
 
-&emsp;&emsp;(A) means any item of cost that is easily and readily identified to a specific unit of work or output within the test facilitywhere the use occurred, that would not have been incurred if such use had not occurred; and
+&emsp;&emsp;(A) means any item of cost that is easily and readily identified to a specific unit of work or output within the test facility where the use occurred, that would not have been incurred if such use had not occurred; and
 
 &emsp;&emsp;(B) may include costs of labor, materials, facilities, utilities, equipment, supplies, and any other resources of the test facility that are consumed or damaged in connection with—
 

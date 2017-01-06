@@ -68,7 +68,7 @@ The Commissioner of Customs shall, no later than July 1, 1994, and annually ther
 
 &emsp;(3) the plan of such institution or institutions for operating the Center.
 
-> Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Government policymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
+> Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Governmentpolicymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
 
 (Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat. 2158; amended Pub. L. 104–295, §21(d), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–29, §2(a), May 21, 1999, 113 Stat. 54.)
 
@@ -82,7 +82,7 @@ Subsec. (h)(1), (2). Pub. L. 104–295, §21(d)(2), substituted semicolon for co
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Authorization of Appropriations
 

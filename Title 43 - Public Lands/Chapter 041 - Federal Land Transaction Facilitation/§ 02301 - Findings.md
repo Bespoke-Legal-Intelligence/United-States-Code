@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) promote consolidation of the ownership of public and private land in a manner that would allow for better overall resource management;
 
-&emsp;(13) in certain locations, the sale of public land that has been identified for disposal isthe best way for the public to receive fair market value for the land; and
+&emsp;(13) in certain locations, the sale of public land that has been identified for disposal is the best way for the public to receive fair market value for the land; and
 
 &emsp;(14) to allow for the least disruption of existing land and resource management programs, the Bureau of Land Management may use non-Federal entities to prepare appraisal documents for agency review and approval consistent with applicable provisions of the Uniform Standards for Federal Land Acquisition.
 
@@ -44,7 +44,7 @@ Congress finds that—
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in pars. (1) to (3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in pars. (1) to (3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classifiedprincipally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Short Title
 

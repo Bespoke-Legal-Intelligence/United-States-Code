@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption and legal guardianship incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
+Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption and legal guardianship incentive payment payable to the State under this sectionfor the fiscal year, which shall be payable in the immediately succeeding fiscal year.
 
 #### (b) Incentive-eligible State
 
@@ -10,7 +10,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;(1) the State has a plan approved under this part for the fiscal year;
 
-&emsp;(2) the State is in compliance with subsection (c) of this section for the fiscal year;
+&emsp;(2) the State is in compliance with subsection (c) for the fiscal year;
 
 &emsp;(3) the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
 
@@ -86,7 +86,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;(A) the amount of the adoption and legal guardianship incentive payment that would otherwise be payable to the State under paragraph (1) for the fiscal year; multiplied by
 
-&emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption and legal guardianship incentive payments otherwise payable under paragraph (1) for the fiscal year.
+&emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption andlegal guardianship incentive payments otherwise payable under paragraph (1) for the fiscal year.
 
 #### (3) Increased adoption and legal guardianship incentive payment for timely adoptions
 
@@ -108,7 +108,7 @@ Payments to a State under this section in a fiscal year shall remain available f
 
 #### (f) Limitations on use of incentive payments
 
-A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B of this subchapter or this part, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
+A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B or E, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
 
 #### (g) Definitions
 
@@ -160,7 +160,7 @@ As used in this section:
 
 #### (7) Older child adoption and older foster child guardianship rate
 
-&emsp;The term "older child adoption and older foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
+&emsp;The term "older child adoption and older foster child guardianship rate" means, withrespect to a State and a fiscal year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the number of older child adoptions and older foster child guardianships finalized in the State during the fiscal year; by
 
@@ -178,7 +178,7 @@ As used in this section:
 
 &emsp;The term "older child adoption and older foster child guardianship" means the final adoption, or the placement into foster child guardianship (as defined in paragraph (12)) of a child who has attained 14 years of age if—
 
-&emsp;&emsp;(A) at the time of the adoptive or foster child guardianship placement, the child wasin foster care under the supervision of the State; or
+&emsp;&emsp;(A) at the time of the adoptive or foster child guardianship placement, the child was in foster care under the supervision of the State; or
 
 &emsp;&emsp;(B) an adoption assistance agreement was in effect under section 673(a) of this title with respect to the child.
 
@@ -218,7 +218,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary—
+&emsp;For grants under subsection (a), there are authorized to be appropriated to the Secretary—
 
 &emsp;&emsp;(A) $20,000,000 for fiscal year 1999;
 
@@ -230,7 +230,7 @@ As used in this section:
 
 #### (2) Availability
 
-&emsp;Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a) of this section, are authorized to remain available until expended, but not after fiscal year 2016.
+&emsp;Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a), are authorized to remain available until expended, but not after fiscal year 2016.
 
 #### (i) Technical assistance
 
@@ -386,7 +386,7 @@ Subsec. (g)(5), (6). Pub. L. 108–145, §3(a)(4)(C), added pars. (5) and (6).
 
 Subsec. (h)(1)(D). Pub. L. 108–145, §3(a)(5)(A), added subpar. (D).
 
-Subsec. (h)(2). Pub. L. 108–145, §3(a)(5)(B), inserted ", or under any other law for grants under subsection (a) of this section," after "(1)" and substituted "2008" for "2003".
+Subsec. (h)(2). Pub. L. 108–145, §3(a)(5)(B), inserted ", or under any other law for grants under subsection (a)," after "(1)" and substituted "2008" for "2003".
 
 Subsec. (i)(4). Pub. L. 108–145, §3(a)(6), substituted "2004 through 2006" for "1998 through 2000".
 
@@ -426,7 +426,7 @@ Pub. L. 108–145, §2, Dec. 2, 2003, 117 Stat. 1879, provided that: "The Congre
 
 &emsp;"(1) In 1997, the Congress passed the Adoption and Safe Families Act of 1997 \[Pub. L. 105–89; see Short Title of 1997 Amendment note set out under section 1305 of this title\] to promote comprehensive child welfare reform to ensure that consideration of children's safety is paramount in child welfare decisions, and to provide a greater sense of urgency to find every child a safe, permanent home.
 
-&emsp;"(2) The Adoption and Safe Families Act of 1997 also created the Adoption Incentives program, which authorizes incentive payments to States to promote adoptions, with additional incentives provided for the adoption of foster children with special needs.
+&emsp;"(2) The Adoption and Safe Families Act of 1997 also created the Adoption Incentives program, whichauthorizes incentive payments to States to promote adoptions, with additional incentives provided for the adoption of foster children with special needs.
 
 &emsp;"(3) Since 1997, all States, the District of Columbia, and Puerto Rico have qualified for incentive payments for their work in promoting adoption of foster children.
 

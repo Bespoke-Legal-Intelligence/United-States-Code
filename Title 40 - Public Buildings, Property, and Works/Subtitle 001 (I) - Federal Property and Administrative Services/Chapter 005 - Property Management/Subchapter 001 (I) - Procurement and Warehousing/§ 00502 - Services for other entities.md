@@ -52,7 +52,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(B) The term "tribal government" means—
 
-&emsp;&emsp;&emsp;(i) the governing body of any Indian tribe, band, nation, or other organized group or community located in the continental United States (excluding the State of Alaska) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and
+&emsp;&emsp;&emsp;(i) the governing body of any Indian tribe, band, nation, or other organized group or community located in the continental United States (excluding the State of Alaska) that is recognized as eligible for the special programs and servicesprovided by the United States to Indians because of their status as Indians, and
 
 &emsp;&emsp;&emsp;(ii) any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 

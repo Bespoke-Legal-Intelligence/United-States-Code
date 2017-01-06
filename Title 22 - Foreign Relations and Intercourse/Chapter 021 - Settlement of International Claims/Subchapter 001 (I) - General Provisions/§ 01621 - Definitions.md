@@ -44,7 +44,363 @@ International Claims Commission of the United States, including offices of its m
 
 #### Appropriations
 
-Act Mar. 10, 1950, ch. 54, §9, 64 Stat. 18, provided that: "There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated,such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\]."
+Act Mar. 10, 1950, ch. 54, §9, 64 Stat. 18, provided that: "There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\]."
+
+#### Guam World War II Loyalty Recognition
+
+Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, provided that:
+
+#### "SEC. 1701. SHORT TITLE.
+
+"This title may be cited as the 'Guam World War II Loyalty Recognition Act'.
+
+#### "SEC. 1702. RECOGNITION OF THE SUFFERING AND LOYALTY OF THE RESIDENTS OF GUAM.
+
+"(a)
+
+Recognition of the Suffering of the Residents of Guam.—The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjected to death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
+
+"(b)
+
+Recognition of the Loyalty of the Residents of Guam.—The United States forever will be grateful to the residents of Guam for their steadfast loyalty to the United States, as demonstrated by the countless acts of courage they performed despite the threat of death or great bodily harm they faced at the hands of the Imperial Japanese military forces that occupied Guam during World War II.
+
+#### "SEC. 1703. GUAM WORLD WAR II CLAIMS FUND.
+
+"(a)
+
+Establishment of Fund.—The Secretary of the Treasury shall establish in the Treasury of the United States a special fund (in this title referred to as the 'Claims Fund') for the payment of claims submitted by compensable Guam victims and survivors of compensable Guam decedents in accordance with sections 1704 and 1705.
+
+"(b)
+
+Composition of Fund.—The Claims Fund established under subsection (a) shall be composed of amounts deposited into the Claims Fund under subsection (c) and any other payments made available for the payment of claims under this title.
+
+"(c)
+
+Payment of Certain Duties, Taxes, and Fees Collected From Guam Deposited Into Fund.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding section 30 of the Organic Act of Guam (48 U.S.C. 1421h), the excess of—
+
+&emsp;&emsp;"(A) any amount of duties, taxes, and fees collected under such section after fiscal year 2014, over
+
+&emsp;&emsp;"(B) the amount of duties, taxes, and fees collected under such section during fiscal year 2014,
+
+> &emsp;shall be deposited into the Claims Fund.
+
+&emsp;"(2)
+
+Application.—Paragraph (1) shall not apply after the date for which the Secretary of the Treasury determines that all payments required to be made under section 1704 have been made.
+
+"(d)
+
+Limitation on Payments Made From Fund.—
+
+&emsp;"(1)
+
+In general.—No payment may be made in a fiscal year under section 1704 until funds are deposited into the Claims Fund in such fiscal year under subsection (c).
+
+&emsp;"(2)
+
+Amounts.—For each fiscal year in which funds are deposited into the Claims Fund under subsection (c), the total amount of payments made in a fiscal year under section 1704 may not exceed the amount of funds available in the Claims Fund for such fiscal year.
+
+"(e)
+
+Deductions From Fund for Administrative Expenses.—The Secretary of the Treasury shall deduct from any amounts deposited into the Claims Fund an amount equal to 5 percent of such amounts as reimbursement to the Federal Government for expenses incurred by the Foreign Claims Settlement Commission and by the Department of the Treasury in the administration of this title. The amounts so deducted shall be covered into the Treasury as miscellaneous receipts.
+
+#### "SEC. 1704. PAYMENTS FOR GUAM WORLD WAR II CLAIMS.
+
+"(a)
+
+Payments for Death, Personal Injury, Forced Labor, Forced March, and Internment.—After the Secretary of the Treasury receives the certification from the Chairman of the Foreign Claims Settlement Commission as required under section 1705(b)(8), the Secretary of the Treasury shall make payments, subject to the availably of appropriations, to compensable Guam victims and survivors of a compensable Guam decedents as follows:
+
+&emsp;"(1)
+
+Compensable guam victim.—Before making any payments under paragraph (2), the Secretary shall make payments to compensable Guam victims as follows:
+
+&emsp;&emsp;"(A) In the case of a victim who has suffered an injury described in subsection (c)(2)(A), $15,000.
+
+&emsp;&emsp;"(B) In the case of a victim who is not described in subparagraph (A), but who has suffered an injury described in subsection (c)(2)(B), $12,000.
+
+&emsp;&emsp;"(C) In the case of a victim who is not described in subparagraph (A) or (B), but who has suffered an injury described in subsection (c)(2)(C), $10,000.
+
+&emsp;"(2)
+
+Survivors of compensable guam decedents.—In the case of a compensable Guam decedent, the Secretary shall pay $25,000 for distribution to survivors of the decedent in accordance with subsection (b). The Secretary shall make payments under this paragraph only after all payments are made under paragraph (1).
+
+"(b)
+
+Distribution of Survivor Payments.—A payment made under subsection (a)(2) to the survivors of a compensable Guam decedent shall be distributed as follows:
+
+&emsp;"(1) In the case of a decedent whose spouse is living as of the date of the enactment of this Act \[Dec. 23, 2016\], but who had no living children as of such date, the payment shall be made to such spouse.
+
+&emsp;"(2) In the case of a decedent whose spouse is living as of the date of the enactment of this Act and who had one or more living children as of such date, 50 percent of the payment shall be made to the spouse and 50 percent shall be made to such children, to be divided among such children to the greatest extent possible into equal shares.
+
+&emsp;"(3) In the case of a decedent whose spouse is not living as of the date of the enactment of this Act and who had one or more living children as of such date, the payment shall be made to such children, to be divided among such children to the greatest extent possible into equal shares.
+
+&emsp;"(4) In the case of a decedent whose spouse is not living as of the date of the enactment of this Act and who had no living children as of such date, but who—
+
+&emsp;&emsp;"(A) had a parent who is living as of such date, the payment shall be made to the parent; or
+
+&emsp;&emsp;"(B) had two parents who are living as of such date, the payment shall be divided equally between the parents.
+
+&emsp;"(5) In the case of a decedent whose spouse is not living as of the date of the enactment of this Act, who had no living children as of such date, and who had no parents who are living as of such date, no payment shall be made.
+
+"(c)
+
+Definitions.—For purposes of this title:
+
+&emsp;"(1)
+
+Compensable guam decedent.—The term 'compensable Guam decedent' means an individual determined under section 1705 to have been a resident of Guam who died as a result of the attack and occupation of Guam by Imperial Japanese military forces during World War II, or incident to the liberation of Guam by United States military forces, and whose death would have been compensable under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59 Stat. 582\] if a timely claim had been filed under the terms of such Act.
+
+&emsp;"(2)
+
+Compensable guam victim.—The term 'compensable Guam victim' means an individual who is not deceased as of the date of the enactment of this Act \[Dec. 23, 2016\] and who is determined under section 1705 to have suffered, as a result of the attack and occupation of Guam by Imperial Japanese military forces during World War II, or incident to the liberation of Guam by United States military forces, any of the following:
+
+&emsp;&emsp;"(A) Rape or severe personal injury (such as loss of a limb, dismemberment, or paralysis).
+
+&emsp;&emsp;"(B) Forced labor or a personal injury not under subparagraph (A) (such as disfigurement, scarring, or burns).
+
+&emsp;&emsp;"(C) Forced march, internment, or hiding to evade internment.
+
+&emsp;"(3)
+
+Definitions of severe personal injuries and personal injuries.—Not later than 180 days after the date of the enactment of this Act, the Foreign Claims Settlement Commission shall promulgate regulations to specify the injuries that constitute a severe personal injury or a personal injury for purposes of subparagraphs (A) and (B), respectively, of paragraph (2).
+
+#### "SEC. 1705. ADJUDICATION.
+
+"(a)
+
+Authority of Foreign Claims Settlement Commission.—
+
+&emsp;"(1)
+
+In general.—The Foreign Claims Settlement Commission shall adjudicate claims and determine the eligibility of individuals for payments under section 1704.
+
+&emsp;"(2)
+
+Rules and regulations.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Chairman of the Foreign Claims Settlement Commission shall publish in the Federal Register such rules and regulations as may be necessary to enable the Commission to carry out the functions of the Commission under this title.
+
+"(b)
+
+Claims Submitted for Payments.—
+
+&emsp;"(1)
+
+Submittal of claim.—For purposes of subsection (a)(1) and subject to paragraph (2), the Foreign Claims Settlement Commission may not determine an individual is eligible for a payment under section 1704 unless the individual submits to the Commission a claim in such manner and form and containing such information as the Commission specifies.
+
+&emsp;"(2)
+
+Filing period for claims and notice.—
+
+&emsp;&emsp;"(A)
+
+Filing period.—An individual filing a claim for a payment under section 1704 shall file such claim not later than one year after the date on which the Foreign Claims Settlement Commission publishes the notice described in subparagraph (B).
+
+&emsp;&emsp;"(B)
+
+Notice of filing period.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Foreign Claims Settlement Commission shall publish a notice of the deadline for filing a claim described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;"(i) in the Federal Register; and
+
+&emsp;&emsp;&emsp;"(ii) in newspaper, radio, and television media in Guam.
+
+&emsp;"(3)
+
+Adjudicatory decisions.—The decision of the Foreign Claims Settlement Commission on each claim filed under this title shall—
+
+&emsp;&emsp;"(A) be by majority vote;
+
+&emsp;&emsp;"(B) be in writing;
+
+&emsp;&emsp;"(C) state the reasons for the approval or denial of the claim; and
+
+&emsp;&emsp;"(D) if approved, state the amount of the payment awarded and the distribution, if any, to be made of the payment.
+
+&emsp;"(4)
+
+Deductions in payment.—The Foreign Claims Settlement Commission shall deduct, from a payment made to a compensable Guam victim or survivors of a compensable Guam decedent under this section, amounts paid to such victim or survivors under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59 Stat. 582\] before the date of the enactment of this Act.
+
+&emsp;"(5)
+
+Interest.—No interest shall be paid on payments made by the Foreign Claims Settlement Commission under section 1704.
+
+&emsp;"(6)
+
+Limited compensation for provision of representational services.—
+
+&emsp;&emsp;"(A)
+
+Limit on compensation.—Any agreement under which an individual who provided representational services to an individual who filed a claim for a payment under this title that provides for compensation to the individual who provided such services in an amount that is more than one percent of the total amount of such payment shall be unlawful and void.
+
+&emsp;&emsp;"(B)
+
+Penalties.—Whoever demands or receives any compensation in excess of the amount allowed under subparagraph (A) shall be fined not more than $5,000 or imprisoned not more than one year, or both.
+
+&emsp;"(7)
+
+Appeals and finality.—Objections and appeals of decisions of the Foreign Claims Settlement Commission shall be to the Commission, and upon rehearing, the decision in each claim shall be final, and not subject to further review by any court or agency.
+
+&emsp;"(8)
+
+Certifications for payment.—After a decision approving a claim becomes final, the Chairman of the Foreign Claims Settlement Commission shall certify such decision to the Secretary of the Treasury for authorization of a payment under section 1704.
+
+&emsp;"(9)
+
+Treatment of affidavits.—For purposes of section 1704 and subject to paragraph (2), the Foreign Claims Settlement Commission shall treat a claim that is accompanied by an affidavit of an individual that attests to all of the material facts required for establishing the eligibility of such individual for payment under such section as establishing a prima facie case of the eligibility of the individual for such payment without the need for further documentation, except as the Commission may otherwise require. Such material facts shall include, with respect to a claim for a payment made under section 1704(a), a detailed description of the injury or other circumstance supporting the claim involved, including the level of payment sought.
+
+&emsp;"(10)
+
+Release of related claims.—Acceptance of a payment under section 1704 by an individual for a claim related to a compensable Guam decedent or a compensable Guam victim shall be in full satisfaction of all claims related to such decedent or victim, respectively, arising under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59 Stat. 582\], the implementing regulations issued by the United States Navy pursuant to such Act (Public Law 79–224), or this title.
+
+#### "SEC. 1706. GRANTS PROGRAM TO MEMORIALIZE THE OCCUPATION OF GUAM DURING WORLD WAR II.
+
+"(a)
+
+Establishment.—Subject to subsection (b), the Secretary of the Interior shall establish a grant program under which the Secretary shall award grants for research, educational, and media activities for purposes of appropriately illuminating and interpreting the causes and circumstances of the occupation of Guam during World War II and other similar occupations during the war that—
+
+&emsp;"(1) memorialize the events surrounding such occupation; or
+
+&emsp;"(2) honor the loyalty of the people of Guam during such occupation.
+
+"(b)
+
+Eligibility.—The Secretary of the Interior may not award a grant under subsection (a) unless the person seeking the grant submits an application to the Secretary for such grant, in such time, manner, and form and containing such information as the Secretary specifies.
+
+#### "SEC. 1707. AUTHORIZATION OF APPROPRIATIONS.
+
+"(a)
+
+Guam World War II Claims Payments and Adjudication.—For the purposes of carrying out sections 1704 and 1705, there is authorized to be appropriated for any fiscal year beginning after the date of enactment of this Act \[Dec. 23, 2016\], an amount equal to the amount deposited into the Claims Fund in a fiscal year under section 1703. Not more than 5 percent of funds make available under this subsection shall be used for administrative costs. Amounts appropriated under this section may remain available until expended.
+
+"(b)
+
+Guam World War II Grants Program.—For purposes of carrying out section 1706, there are authorized to be appropriated $5,000,000 for each fiscal year beginning after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
+#### Holocaust Expropriated Art Recovery
+
+Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Holocaust Expropriated Art Recovery Act of 2016'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) It is estimated that the Nazis confiscated or otherwise misappropriated hundreds of thousands of works of art and other property throughout Europe as part of their genocidal campaign against the Jewish people and other persecuted groups. This has been described as the 'greatest displacement of art in human history'.
+
+&emsp;"(2) Following World War II, the United States and its allies attempted to return the stolen artworks to their countries of origin. Despite these efforts, many works of art were never reunited with their owners. Some of the art has since been discovered in the United States.
+
+&emsp;"(3) In 1998, the United States convened a conference with 43 other nations in Washington, DC, known as the Washington Conference, which produced Principles on Nazi-Confiscated Art. One of these principles is that 'steps should be taken expeditiously to achieve a just and fair solution' to claims involving such art that has not been restituted if the owners or their heirs can be identified.
+
+&emsp;"(4) The same year, Congress enacted the Holocaust Victims Redress Act (Public Law 105–158, 112 Stat. 15), which expressed the sense of Congress that 'all governments should undertake good faith efforts to facilitate the return of private and public property, such as works of art, to the rightful owners in cases where assets were confiscated from the claimant during the period of Nazi rule and there is reasonable proof that the claimant is the rightful owner.'.
+
+&emsp;"(5) In 2009, the United States participated in a Holocaust Era Assets Conference in Prague, Czech Republic, with 45 other nations. At the conclusion of this conference, the participating nations issued the Terezin Declaration, which reaffirmed the 1998 Washington Conference Principles on Nazi-Confiscated Art and urged all participants 'to ensure that their legal systems or alternative processes, while taking into account the different legal traditions, facilitate just and fair solutions with regard to Nazi-confiscated and looted art, and to make certain that claims to recover such art are resolved expeditiously and based on the facts and merits of the claims and all the relevant documents submitted by all parties.'. The Declaration also urged participants to 'consider all relevant issues when applying various legal provisions that may impede the restitution of art and cultural property, in order to achieve just and fair solutions, as well as alternative dispute resolution, where appropriate under law.'.
+
+&emsp;"(6) Victims of Nazi persecution and their heirs have taken legal action in the United States to recover Nazi-confiscated art. These lawsuits face significant procedural obstacles partly due to State statutes of limitations, which typically bar claims within some limited number of years from either the date of the loss or the date that the claim should have been discovered. In some cases, this means thatthe claims expired before World War II even ended. (See, e.g., Detroit Institute of Arts v. Ullin, No. 06–10333, 2007 WL 1016996 (E.D. Mich. Mar. 31, 2007).) The unique and horrific circumstances of World War II and the Holocaust make statutes of limitations especially burdensome to the victims and their heirs. Those seeking recovery of Nazi-confiscated art must painstakingly piece together their cases from a fragmentary historical record ravaged by persecution, war, and genocide. This costly process often cannot be done within the time constraints imposed by existing law.
+
+&emsp;"(7) Federal legislation is needed because the only court that has considered the question held that the Constitution prohibits States from making exceptions to their statutes of limitations to accommodate claims involving the recovery of Nazi-confiscated art. In Von Saher v. Norton Simon Museum of Art, 592 F.3d 954 (9th Cir. 2009), the United States Court of Appeals for the Ninth Circuit invalidated a California law that extended the State statute of limitations for claims seeking recovery of Holocaust-era artwork. The Court held that the law was an unconstitutional infringement of the Federal Government's exclusive authority over foreign affairs, which includes the resolution of war-related disputes. In light of this precedent, the enactment of a Federal law is necessary to ensure that claims to Nazi-confiscated art are adjudicated in accordance with United States policy as expressed in the Washington Conference Principles on Nazi-Confiscated Art, the Holocaust Victims Redress Act, and the Terezin Declaration.
+
+&emsp;"(8) While litigation may be used to resolve claims to recover Nazi-confiscated art, it is the sense of Congress that the private resolution of claims by parties involved, on the merits and through the use of alternative dispute resolution such as mediation panels established for this purpose with the aid of experts in provenance research and history, will yield just and fair resolutions in a more efficient and predictable manner.
+
+#### "SEC. 3. PURPOSES.
+
+"The purposes of this Act are the following:
+
+&emsp;"(1) To ensure that laws governing claims to Nazi-confiscated art and other property further United States policy as set forth in the Washington Conference Principles on Nazi-Confiscated Art, the Holocaust Victims Redress Act, and the Terezin Declaration.
+
+&emsp;"(2) To ensure that claims to artwork and other property stolen or misappropriated by the Nazis are not unfairly barred by statutes of limitations but are resolved in a just and fair manner.
+
+#### "SEC. 4. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Actual discovery.—The term 'actual discovery' means knowledge.
+
+&emsp;"(2)
+
+Artwork or other property.—The term 'artwork or other property' means—
+
+&emsp;&emsp;"(A) pictures, paintings, and drawings;
+
+&emsp;&emsp;"(B) statuary art and sculpture;
+
+&emsp;&emsp;"(C) engravings, prints, lithographs, and works of graphic art;
+
+&emsp;&emsp;"(D) applied art and original artistic assemblages and montages;
+
+&emsp;&emsp;"(E) books, archives, musical objects and manuscripts (including musical manuscripts and sheets), and sound, photographic, and cinematographic archives and mediums; and
+
+&emsp;&emsp;"(F) sacred and ceremonial objects and Judaica.
+
+&emsp;"(3)
+
+Covered period.—The term 'covered period' means the period beginning on January 1, 1933, and ending on December 31, 1945.
+
+&emsp;"(4)
+
+Knowledge.—The term 'knowledge' means having actual knowledge of a fact or circumstance or sufficient information with regard to a relevant fact or circumstance to amount to actual knowledge thereof.
+
+&emsp;"(5)
+
+Nazi persecution.—The term 'Nazi persecution' means any persecution of a specific group of individuals based on Nazi ideology by the Government of Germany, its allies or agents, members of the Nazi Party, or their agents or associates, during the covered period.
+
+#### "SEC. 5. STATUTE OF LIMITATIONS.
+
+"(a)
+
+In General.—Notwithstanding any other provision of Federal or State law or any defense at law relating to the passage of time, and except as otherwise provided in this section, a civil claim or cause of action against a defendant to recover any artwork or other property that was lost during the covered period because of Nazi persecution may be commenced not later than 6 years after the actual discovery by the claimant or the agent of the claimant of—
+
+&emsp;"(1) the identity and location of the artwork or other property; and
+
+&emsp;"(2) a possessory interest of the claimant in the artwork or other property.
+
+"(b)
+
+Possible Misidentification.—For purposes of subsection (a)(1), in a case in which the artwork or other property is one of a group of substantially similar multiple artworks or other property, actual discovery of the identity and location of the artwork or other property shall be deemed to occur on the date on which there are facts sufficient to form a substantial basis to believe that the artwork or other property is the artwork or other property that was lost.
+
+"(c)
+
+Preexisting Claims.—Except as provided in subsection (e), a civil claim or cause of action described in subsection (a) shall be deemed to have been actually discovered on the date of enactment of this Act \[Dec. 16, 2016\] if—
+
+&emsp;"(1) before the date of enactment of this Act—
+
+&emsp;&emsp;"(A) a claimant had knowledge of the elements set forth in subsection (a); and
+
+&emsp;&emsp;"(B) the civil claim or cause of action was barred by a Federal or State statute of limitations; or
+
+&emsp;"(2)(A) before the date of enactment of this Act, a claimant had knowledge of the elements set forth in subsection (a); and
+
+&emsp;"(B) on the date of enactment of this Act, the civil claim or cause of action was not barred by a Federal or State statute of limitations.
+
+"(d)
+
+Applicability.—Subsection (a) shall apply to any civil claim or cause of action that is—
+
+&emsp;"(1) pending in any court on the date of enactment of this Act \[Dec. 16, 2016\], including any civil claim or cause of action that is pending on appeal or for which the time to file an appeal has not expired; or
+
+&emsp;"(2) filed during the period beginning on the date of enactment of this Act and ending on December 31, 2026.
+
+"(e)
+
+Exception.—Subsection (a) shall not apply to any civil claim or cause of action barred on the day before the date of enactment of this Act \[Dec. 16, 2016\] by a Federal or State statute of limitations if—
+
+&emsp;"(1) the claimant or a predecessor-in-interest of the claimant had knowledge of the elements set forth in subsection (a) on or after January 1, 1999; and
+
+&emsp;"(2) not less than 6 years have passed from the date such claimant or predecessor-in-interest acquired such knowledge and during which time the civil claim or cause of action was not barred by a Federal or State statute of limitations.
+
+"(f)
+
+Rule of Construction.—Nothing in this Act shall be construed to create a civil claim or cause of action under Federal or State law.
+
+"(g)
+
+Sunset.—This Act shall cease to have effect on January 1, 2027, except that this Act shall continue to apply to any civil claim or cause of action described in subsection (a) that is pending on January 1, 2027. Any civil claim or cause of action commenced on or after that date to recover artwork or other property described in this Act shall be subject to any applicable Federal or State statute of limitations or any other Federal or State defense at law relating to the passage of time."
 
 #### United States Holocaust Assets Commission
 
@@ -184,11 +540,11 @@ Information to be included.—The report on insurance companies prepared pursuan
 
 &emsp;&emsp;"(C)
 
-Coordination.—The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department ofState and the United States Holocaust Memorial Council.
+Coordination.—The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
 
 "(b)
 
-Comprehensive Review of Other Research.—Upon receiving permission from any relevant individuals or entities, the Commission shall review comprehensively any research by private individuals, private entities, and non-Federal government entities, whether domestic or foreign, into the collection and disposition of the assets described in subsection (a)(2), to the extent that such research focuses on assets that came into the possession or control of private individuals, private entities, or non-Federal government entities within the United States at any time after January 30, 1933, either—
+Comprehensive Review of Other Research.—Upon receiving permission from any relevant individuals or entities, the Commission shall review comprehensively any research by private individuals, private entities, and non-Federal government entities,whether domestic or foreign, into the collection and disposition of the assets described in subsection (a)(2), to the extent that such research focuses on assets that came into the possession or control of private individuals, private entities, or non-Federal government entities within the United States at any time after January 30, 1933, either—
 
 &emsp;"(1) after having been obtained from victims of the Holocaust by, on behalf of, or under authority of a government referred to in subsection (c); or
 
@@ -314,7 +670,7 @@ Detail of Government Employees.—Any Federal Government employee may be detaile
 
 "(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent ofthe annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 "(f)
 

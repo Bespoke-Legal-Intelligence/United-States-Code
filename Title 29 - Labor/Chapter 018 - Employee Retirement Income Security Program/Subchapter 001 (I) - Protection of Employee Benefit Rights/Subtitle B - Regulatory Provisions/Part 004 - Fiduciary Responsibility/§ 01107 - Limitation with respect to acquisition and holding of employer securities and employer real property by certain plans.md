@@ -26,7 +26,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(4)(A) After December 31, 1979, a plan may not hold any employer securities or employer real property in excess of the amount specified in regulations under subparagraph (B). This subparagraph shall not apply to a plan after the earliest date after December 31, 1974, on which it complies with such regulations.
 
-&emsp;(B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph (2) or subsection (c) of this section (whichever is applicable).
+&emsp;(B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph (2) or subsection (c) (whichever is applicable).
 
 #### (b) Exception
 
@@ -66,13 +66,13 @@ Cross References.—
 
 #### (c) Election
 
-(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying therequirement of subsection (a)(3) of this section if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
+(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
 
 &emsp;(A) the fair market value of the assets of the plan determined on such date (disregarding any portion of the fair market value of employer securities which is attributable to appreciation of such securities after December 31, 1974) but not less than the fair market value of plan assets on January 1, 1975, or
 
 &emsp;(B) an amount equal to the sum of (i) the total amount of the contributions to the plan received after December 31, 1974, and prior to such date, plus (ii) the fair market value of the assets of the plan, determined on January 1, 1975.
 
-(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities held by the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
+(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities held by the plan on January 1, 1975, or from the exercise of rights derived from such ownership, thevalue of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
 
 (3) An election under this paragraph may not be made after December 31, 1975. Such an election shall be made in accordance with regulations prescribed by the Secretary, and shall be irrevocable. A plan may make an election under this paragraph only if on January 1, 1975, the plan holds no employer real property. After such election and before January 1, 1985 the plan may not acquire any employer real property.
 
@@ -104,11 +104,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) stock,
 
-&emsp;&emsp;(B) a marketable obligation (as defined in subsection (e) of this section), or
+&emsp;&emsp;(B) a marketable obligation (as defined in subsection (e)), or
 
 &emsp;&emsp;(C) an interest in a publicly traded partnership (as defined in section 7704(b) of title 26), but only if such partnership is an existing partnership as defined in section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203).
 
-> &emsp;After December 17, 1987, in the case of a plan other than an eligible individual account plan, an employer security described in subparagraph (A) or (C) shall be considered a qualifying employer security only if such employer security satisfies the requirements of subsection (f)(1) of this section.
+> &emsp;After December 17, 1987, in the case of a plan other than an eligible individual account plan, an employer security described in subparagraph (A) or (C) shall be considered a qualifying employer security only if such employer security satisfies the requirements of subsection (f)(1).
 
 &emsp;(6) The term "employee stock ownership plan" means an individual account plan—
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets such other requirements as the Secretary of the Treasury may prescribe by regulation.
 
-&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintainsthe plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
+&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintains the plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (e) Marketable obligations
 
-For purposes of subsection (d)(5) of this section, the term "marketable obligation" means a bond, debenture, note, or certificate, or other evidence of indebtedness (hereinafter in this subsection referred to as "obligation") if—
+For purposes of subsection (d)(5), the term "marketable obligation" means a bond, debenture, note, or certificate, or other evidence of indebtedness (hereinafter in this subsection referred to as "obligation") if—
 
 &emsp;(1) such obligation is acquired—
 
@@ -150,7 +150,7 @@ For purposes of subsection (d)(5) of this section, the term "marketable obligati
 
 &emsp;(B) at least 50 percent of the aggregate amount referred to in subparagraph (A) is held by persons independent of the issuer.
 
-(2) Until January 1, 1993, a plan shall not be treated as violating subsection (a) of this section solely by holding stock which fails to satisfy the requirements of paragraph (1) if such stock—
+(2) Until January 1, 1993, a plan shall not be treated as violating subsection (a) solely by holding stock which fails to satisfy the requirements of paragraph (1) if such stock—
 
 &emsp;(A) has been so held since December 17, 1987, or
 
@@ -168,7 +168,7 @@ Section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203), referr
 
 <b>1997</b>—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'qualifying employer security' means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section."
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'qualifying employer security' means an employer security which is stock or a marketable obligation (as defined in subsection (e)). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1)."
 
 <b>1989</b>—Subsec. (d)(3)(A), (6)(A), (7). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
@@ -180,11 +180,11 @@ Subsec. (d)(9). Pub. L. 101–239, §7881(l)(2), substituted "such individual ac
 
 Subsec. (f)(1). Pub. L. 101–239, §7881(l)(3)(A), (4), substituted "paragraph" for "subsection" and "if, immediately following the acquisition of such stock" for "if".
 
-Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which read as follows: "After December 17,1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date."
+Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which read as follows: "After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date."
 
 <b>1987</b>—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
 
-Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section."
+Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1)."
 
 Subsec. (d)(9). Pub. L. 100–203, §9345(a)(2), added par. (9).
 
@@ -200,7 +200,7 @@ Pub. L. 105–34, title XV, §1524(b), Aug. 5, 1997, 111 Stat. 1072, as amended 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to elective deferrals for plan years beginning after December 31, 1998.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply to elective deferrals for plan years beginning after December 31, 1998.
 
 "(2)
 

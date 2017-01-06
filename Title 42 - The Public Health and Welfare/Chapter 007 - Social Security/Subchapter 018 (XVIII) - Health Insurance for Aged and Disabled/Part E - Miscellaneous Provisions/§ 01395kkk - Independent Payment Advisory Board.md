@@ -38,7 +38,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;(iii) In the case of proposals submitted prior to December 31, 2018, the proposal shall not include any recommendation that would reduce payment rates for items and services furnished, prior to December 31, 2019, by providers of services (as defined in section 1395x(u) of this title) and suppliers (as defined in section 1395x(d) of this title) scheduled, pursuant to the amendments made by section 3401 of the Patient Protection and Affordable Care Act, to receive a reduction to the inflationary payment updates of such providers of services and suppliers in excess of a reduction due to productivity in a year in which such recommendations would take effect.
 
-&emsp;&emsp;&emsp;(iv) As appropriate, the proposal shall include recommendations to reduce Medicare payments under parts C and D, such as reductions in direct subsidy payments to Medicare Advantage and prescription drug plans specified under paragraph <sup>1</sup> (1) and (2) of section 1395w–115(a) of this title that are related to administrative expenses (including profits) for basic coverage, denying high bids or removing highbids for prescription drug coverage from the calculation of the national average monthly bid amount under section 1395w–113(a)(4) of this title, and reductions in payments to Medicare Advantage plans under clauses (i) and (ii) of section 1395w–23(a)(1)(B) of this title that are related to administrative expenses (including profits) and performance bonuses for Medicare Advantage plans under section 1395w–23(n) <sup>2</sup> of this title. Any such recommendation shall not affect the base beneficiary premium percentage specified under 1395w–113(a) <sup>3</sup> of this title or the full premium subsidy under section 1395w–114(a) of this title.
+&emsp;&emsp;&emsp;(iv) As appropriate, the proposal shall include recommendations to reduce Medicare payments under parts C and D, such as reductions in direct subsidy payments to Medicare Advantage and prescription drug plans specified under paragraph <sup>1</sup> (1) and (2) of section 1395w–115(a) of this title that are related to administrative expenses (including profits) for basic coverage, denying high bids or removing high bids for prescription drug coverage from the calculation of the national average monthly bid amount under section 1395w–113(a)(4) of this title, and reductions in payments to Medicare Advantage plans under clauses (i) and (ii) of section 1395w–23(a)(1)(B) of this title that are related to administrative expenses (including profits) and performance bonuses for Medicare Advantage plans under section 1395w–23(n) <sup>2</sup> of this title. Any such recommendation shall not affect the base beneficiary premium percentage specified under 1395w–113(a) <sup>3</sup> of this title or the full premium subsidy under section 1395w–114(a) of this title.
 
 &emsp;&emsp;&emsp;(v) The proposal shall include recommendations with respect to administrative funding for the Secretary to carry out the recommendations contained in the proposal.
 
@@ -98,7 +98,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;&emsp;(I) a year for which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year under paragraph (6)(A) that the growth rate described in clause (i) of such paragraph does not exceed the growth rate described in clause (ii) of such paragraph; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a year in which the Chief Actuary of the Centers for Medicare \& MedicaidServices makes a determination in the determination year that the projected percentage increase (if any) for the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average) for the implementation year is less than the projected percentage increase (if any) in the Consumer Price Index for All Urban Consumers (all items; United States city average) for such implementation year.
+&emsp;&emsp;&emsp;&emsp;(II) a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the projected percentage increase (if any) for the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average) for the implementation year is less than the projected percentage increase (if any) in the Consumer Price Index for All Urban Consumers (all items; United States city average) for such implementation year.
 
 #### (iii) Start-up period
 
@@ -112,7 +112,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;(ii) an explanation of each recommendation contained in the proposal and the reasons for including such recommendation;
 
-&emsp;&emsp;&emsp;(iii) an actuarial opinion by the Chief Actuary of the Centers for Medicare \& Medicaid Services certifying that the proposal meets the requirements of subparagraphs (A)(i) and (C) of paragraph (2);
+&emsp;&emsp;&emsp;(iii) an actuarial opinion by the Chief Actuary of the Centers for Medicare \&Medicaid Services certifying that the proposal meets the requirements of subparagraphs (A)(i) and (C) of paragraph (2);
 
 &emsp;&emsp;&emsp;(iv) a legislative proposal that implements the recommendations; and
 
@@ -198,7 +198,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (8) Per capita rate of growth in national health expenditures
 
-&emsp;In each determination year (beginning in 2018), the Chief Actuary of the Centers for Medicare \& Medicaid Services shall project the per capita rate of growth in national health expenditures for the implementation year. Such rate of growth for an implementation year shall be calculated as the projected 5-year average (ending with such year) percentage increase in national health care expenditures.
+&emsp;In each determination year (beginning in 2018), the Chief Actuary of the Centers forMedicare \& Medicaid Services shall project the per capita rate of growth in national health expenditures for the implementation year. Such rate of growth for an implementation year shall be calculated as the projected 5-year average (ending with such year) percentage increase in national health care expenditures.
 
 #### (d) Congressional consideration
 
@@ -250,7 +250,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (C) Limitation on changes to this subsection
 
-&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider anybill, resolution, amendment, or conference report that would repeal or otherwise change this subsection.
+&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider any bill, resolution, amendment, or conference report that would repeal or otherwise change this subsection.
 
 #### (D) Waiver
 
@@ -270,7 +270,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (i) Time limitation
 
-&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
+&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limitedto 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
 
 #### (ii) Germane
 
@@ -334,7 +334,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (iv) Final disposition
 
-&emsp;&emsp;&emsp;After 30 hours of consideration, the Senate shall proceed, without any further debate on any question, to vote on the finaldisposition thereof to the exclusion of all amendments not then pending before the Senate at that time and to the exclusion of all motions, except a motion to table, or to reconsider and one quorum call on demand to establish the presence of a quorum (and motions required to establish a quorum) immediately before the final vote begins.
+&emsp;&emsp;&emsp;After 30 hours of consideration, the Senate shall proceed, without any further debate on any question, to vote on the final disposition thereof to the exclusion of all amendments not then pending before the Senate at that time and to the exclusion of all motions, except a motion to table, or to reconsider and one quorum call on demand to establish the presence of a quorum (and motions required to establish a quorum) immediately before the final vote begins.
 
 #### (E) Consideration in conference
 
@@ -344,7 +344,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (ii) Time limitation
 
-&emsp;&emsp;&emsp;Debate in the Senate on any amendment under this subparagraph shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
+&emsp;&emsp;&emsp;Debate in the Senate on any amendment under this subparagraph shall be limitedto 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
 
 #### (iii) Final disposition
 
@@ -396,7 +396,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall not implement the recommendations contained in a proposalsubmitted in a proposal year by the Board or the President to Congress pursuant to this section if—
+&emsp;&emsp;The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or the President to Congress pursuant to this section if—
 
 &emsp;&emsp;&emsp;(i) prior to August 15 of the proposal year, Federal legislation is enacted that includes the following provision: "This Act supercedes the recommendations of the Board contained in the proposal submitted, in the year which includes the date of enactment of this Act, to Congress under section 1899A of the Social Security Act."; and
 
@@ -536,7 +536,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (C) Ethical disclosure
 
-&emsp;&emsp;The President shall establish a system for public disclosure by appointed members ofthe Board of financial and other potential conflicts of interest relating to such members. Appointed members of the Board shall be treated as officers in the executive branch for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+&emsp;&emsp;The President shall establish a system for public disclosure by appointed members of the Board of financial and other potential conflicts of interest relating to such members. Appointed members of the Board shall be treated as officers in the executive branch for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
 
 #### (D) Conflicts of interest
 
@@ -650,7 +650,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (2) Travel expenses
 
-&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
+&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu ofsubsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
 #### (3) Staff
 
@@ -812,7 +812,7 @@ Subsec. (c)(3). Pub. L. 111–148, §10320(a)(1)(D)(i), substituted "Submission 
 
 Subsec. (c)(3)(A)(i). Pub. L. 111–148, §10320(a)(1)(D)(ii), substituted "submit a proposal under this section to Congress and the President" for "transmit a proposal under this section to the President".
 
-Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted "or" at end of subcl. (I), substituted a period for "; or" at end of subcl. (II), and struck out subcl. (III), which read as follows: "for proposal year 2019 and subsequent proposal years, a year inwhich the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i)."
+Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted "or" at end of subcl. (I), substituted a period for "; or" at end of subcl. (II), and struck out subcl. (III), which read as follows: "for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i)."
 
 Subsec. (c)(4). Pub. L. 111–148, §10320(a)(1)(E), struck out "the Board under paragraph (3)(A)(i) or" before "the Secretary" and substituted "within 2 days" for "immediately".
 

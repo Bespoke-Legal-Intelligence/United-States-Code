@@ -74,5 +74,5 @@ Section was formerly classified to section 1622 of this title.
 
 <b>1992</b>—Subsec. (b)(4). Pub. L. 102–573, §403(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act."
 
-Subsec. (c). Pub. L. 102–573, §403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984."
+Subsec. (c). Pub. L. 102–573, §403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984."
 

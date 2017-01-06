@@ -66,7 +66,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (C) Annual report
 
-&emsp;&emsp;On an annual basis, the Director shall prepare and submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that documents the progress of the Bureau of Prisons in responding to the reentry needs and deficits of inmates.
+&emsp;&emsp;On an annual basis, the Director shall prepare and submit to the Committee on theJudiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that documents the progress of the Bureau of Prisons in responding to the reentry needs and deficits of inmates.
 
 #### (D) Evaluation
 
@@ -82,7 +82,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the end of each fiscal year, the Director shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report containing statistics demonstrating the relative reduction in recidivism for inmates released by the Bureau of Prisons within that fiscal year and the 2 prior fiscal years, comparing inmateswho participated in major inmate programs (including residential drug treatment, vocational training, and prison industries) with inmates who did not participate in such programs. Such statistics shall be compiled separately for each such fiscal year.
+&emsp;&emsp;&emsp;At the end of each fiscal year, the Director shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report containing statistics demonstrating the relative reduction in recidivism for inmates released by the Bureau of Prisons within that fiscal year and the 2 prior fiscal years, comparing inmates who participated in major inmate programs (including residential drug treatment, vocational training, and prison industries) with inmates who did not participate in such programs. Such statistics shall be compiled separately for each such fiscal year.
 
 #### (ii) Scope
 
@@ -146,7 +146,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (4) Implementation and evaluation
 
-&emsp;The Attorney General shall monitor and evaluate each eligible elderly offender placed on home detention under this section, and shall report to Congress concerning the experience with the program at the end of the period described in paragraph (3). The AdministrativeOffice of the United States Courts and the United States probation offices shall provide such assistance and carry out such functions as the Attorney General may request in monitoring, supervising, providing services to, and evaluating eligible elderly offenders released to home detention under this section.
+&emsp;The Attorney General shall monitor and evaluate each eligible elderly offender placed on home detention under this section, and shall report to Congress concerning the experience with the program at the end of the period described in paragraph (3). The Administrative Office of the United States Courts and the United States probation offices shall provide such assistance and carry out such functions as the Attorney General may request in monitoring, supervising, providing services to, and evaluating eligible elderly offenders released to home detention under this section.
 
 #### (5) Definitions
 
@@ -202,7 +202,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 &emsp;&emsp;&emsp;(ii) community corrections facilities and home confinement.
 
-&emsp;&emsp;(B) Substance abuse treatment and aftercare related to such treatment, mental and medical health treatment and aftercare related to such treatment, vocational and educational training, life skills instruction, conflict resolution skills training, batterer intervention programs, and other programs to promote effective reentry into the community as appropriate.
+&emsp;&emsp;(B) Substance abuse treatment and aftercare related to such treatment, mental and medical health treatment and aftercare related to such treatment, vocational and educational training, life skills instruction,conflict resolution skills training, batterer intervention programs, and other programs to promote effective reentry into the community as appropriate.
 
 &emsp;&emsp;(C) Involvement of the family of such an individual, a victim advocate, and the victim of the offense committed by such an individual, if such involvement is safe for such victim (especially in a domestic violence case).
 
@@ -218,7 +218,7 @@ There are authorized to be appropriated to the Attorney General to carry out thi
 
 #### Codification
 
-Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of section 231 of Pub. L. 110–199 amendedsection 4042(a) of Title 18, Crimes and Criminal Procedure. Subsec. (f) of section 231 of Pub. L. 110–199 amended section 3621 of Title 18.
+Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of section 231 of Pub. L. 110–199 amended section 4042(a) of Title 18, Crimes and Criminal Procedure. Subsec. (f) of section 231 of Pub. L. 110–199 amended section 3621 of Title 18.
 
 #### Amendments
 

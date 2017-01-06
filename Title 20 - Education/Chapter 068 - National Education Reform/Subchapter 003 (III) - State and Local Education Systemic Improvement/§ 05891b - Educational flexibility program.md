@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each local educational agency, educational service agency, or school requestinga waiver of a Federal statutory or regulatory requirement as described in paragraph (1)(A) and any relevant State statutory or regulatory requirement from a State educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require. Each such application shall—
+&emsp;&emsp;Each local educational agency, educational service agency, or school requesting a waiver of a Federal statutory or regulatory requirement as described in paragraph (1)(A) and any relevant State statutory or regulatory requirement from a State educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require. Each such application shall—
 
 &emsp;&emsp;&emsp;(i) indicate each Federal program affected and each statutory or regulatory requirement that will be waived;
 
@@ -110,7 +110,7 @@
 
 #### (D) Termination
 
-&emsp;&emsp;The State educational agency shall annually review the performance of any local educational agency, educational service agency, or school granted a waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) in accordance with the evaluation requirement described in paragraph (3)(A)(v), and shall terminate or temporarily suspend any waiver granted to the local educational agency, educational service agency, or school if the State educational agency determines, after notice and an opportunity for a hearing, that—
+&emsp;&emsp;The State educational agency shall annually review the performance of any localeducational agency, educational service agency, or school granted a waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) in accordance with the evaluation requirement described in paragraph (3)(A)(v), and shall terminate or temporarily suspend any waiver granted to the local educational agency, educational service agency, or school if the State educational agency determines, after notice and an opportunity for a hearing, that—
 
 &emsp;&emsp;&emsp;(i) there is compelling evidence of systematic waste, fraud, or abuse;
 
@@ -212,7 +212,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall terminate or temporarily suspend the authority of a Stateeducational agency to grant waivers under this section if the Secretary determines that—
+&emsp;&emsp;&emsp;The Secretary shall terminate or temporarily suspend the authority of a State educational agency to grant waivers under this section if the Secretary determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is compelling evidence of systematic waste, fraud or abuse; or
 

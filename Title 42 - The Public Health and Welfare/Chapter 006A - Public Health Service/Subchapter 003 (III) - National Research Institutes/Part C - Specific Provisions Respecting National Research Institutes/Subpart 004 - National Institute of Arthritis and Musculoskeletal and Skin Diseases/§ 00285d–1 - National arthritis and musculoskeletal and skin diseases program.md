@@ -2,7 +2,7 @@
 
 #### (a) Plan to expand, intensify, and coordinate activities; submission; periodic review and revision
 
-The Director of the Institute, with the advice of the Institute's advisory council, shall prepare and transmit to the Director of NIH a plan for a national arthritis and musculoskeletal and skin diseases program to expand, intensify, and coordinate the activities of the Institute respecting arthritis and musculoskeletal and skin diseases. The plan shall include such comments and recommendations as the Director of the Institute determines appropriate. The plan shall place particular emphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children. The Director of the Institute shall periodically review and revise such plan and shall transmit any revisions of such plan to the Director of NIH.
+The Director of the Institute, with the advice of the Institute's advisory council, shall prepare and transmit to the Director of NIH a plan for a national arthritis and musculoskeletal and skin diseases program to expand, intensify, and coordinate the activities of the Institute respecting arthritis and musculoskeletal and skin diseases. The plan shall include such comments and recommendations as the Director of the Institute determines appropriate. The plan shall place particular emphasis upon expanding research into better understanding the causes andthe development of effective treatments for arthritis affecting children. The Director of the Institute shall periodically review and revise such plan and shall transmit any revisions of such plan to the Director of NIH.
 
 #### (b) Coordination of activities with other national research institutes; minimum activities under program
 
@@ -20,7 +20,7 @@ Activities under the national arthritis and musculoskeletal and skin diseases pr
 
 #### (c) Program to be carried out in accordance with plan
 
-The Director of the Institute shall carry out the national arthritis and musculoskeletal and skin diseases program in accordance with the plan prepared under subsection (a) of this section and any revisions of such plan made under such subsection.
+The Director of the Institute shall carry out the national arthritis and musculoskeletal and skin diseases program in accordance with the plan prepared under subsection (a) and any revisions of such plan made under such subsection.
 
 (July 1, 1944, ch. 373, title IV, §436, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 848; amended Pub. L. 100–607, title I, §136, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 103–43, title VII, §701(b), June 10, 1993, 107 Stat. 162.)
 

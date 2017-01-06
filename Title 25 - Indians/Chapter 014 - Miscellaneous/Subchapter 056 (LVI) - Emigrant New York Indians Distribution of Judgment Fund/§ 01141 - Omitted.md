@@ -1,0 +1,6 @@
+### §1141. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–93, §1, Sept. 27, 1967, 81 Stat. 229, which related to distribution of judgment funds andpayment of attorney's fees and expenses, was omitted from the Code as being of special and not general application.
+

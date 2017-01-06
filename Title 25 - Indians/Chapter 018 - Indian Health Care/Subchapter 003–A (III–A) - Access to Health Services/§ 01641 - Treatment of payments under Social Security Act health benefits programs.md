@@ -2,7 +2,7 @@
 
 #### (a) Disregard of Medicare, Medicaid, and CHIP payments in determining appropriations
 
-Any payments received by an Indian health program or by an urban Indian organization under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.,1397aa et seq.\] for services provided to Indians eligible for benefits under such respective titles shall not be considered in determining appropriations for the provision of health care and services to Indians.
+Any payments received by an Indian health program or by an urban Indian organization under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\] for services provided to Indians eligible for benefits under such respective titles shall not be considered in determining appropriations for the provision of health care and services to Indians.
 
 #### (b) Nonpreferential treatment
 
@@ -48,7 +48,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, acting through the Service and with the assistance of the Administrator of the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this subsection, including any agreements with States that may benecessary to provide for direct billing under a program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
+&emsp;&emsp;The Secretary, acting through the Service and with the assistance of the Administrator of the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this subsection, including any agreements with States that may be necessary to provide for direct billing under a program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
 
 #### (B) Coordination of information
 
@@ -56,25 +56,25 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (4) Withdrawal from program
 
-&emsp;A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.). All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary's acceptance of the withdrawal of participation in this program.
+&emsp;A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>2</sup> All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary's acceptance of the withdrawal of participation in this program.
 
 #### (5) Termination for failure to comply with requirements
 
-&emsp;The Secretary may terminate the participation of a tribal health program or <sup>2</sup> in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program's participation in the direct billing program established under this subsection.
+&emsp;The Secretary may terminate the participation of a tribal health program or <sup>3</sup> in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program's participation in the direct billing program established under this subsection.
 
 #### (e) Related provisions under the Social Security Act
 
-For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) of the Social Security Act \[42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)\].
+For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> of the Social Security Act \[42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)\].
 
 (Pub. L. 94–437, title IV, §401, Sept. 30, 1976, 90 Stat. 1408; Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(e)(1)(D) of the Social Security Act, referred to in subsec. (e), is section 2107(e)(1)(D) of act Aug. 14, 1935, ch. 531, as added by Pub. L. 111–148, which was redesignated section 2107(e)(1)(F) of act Aug. 14, 1935, ch. 531, by Pub. L. 114–255, div. A, title V, §5005(c)(1)(A), Dec. 13, 2016, 130 Stat. 1194. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -90,5 +90,7 @@ Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437
 
 <i><sup>1</sup></i><i> So in original. Probably should be "XXI".</i>
 
-<i><sup>2</sup></i><i> So in original. The word "or" probably should not appear.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The word "or" probably should not appear.</i>
 

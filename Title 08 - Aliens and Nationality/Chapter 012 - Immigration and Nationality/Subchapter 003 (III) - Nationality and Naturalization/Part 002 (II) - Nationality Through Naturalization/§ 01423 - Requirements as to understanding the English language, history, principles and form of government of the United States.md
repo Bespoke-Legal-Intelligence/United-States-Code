@@ -80,7 +80,7 @@ Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415,
 
 #### "SEC. 4. DOCUMENTATION OF QUALIFYING SERVICE.
 
-"A person seeking an exemption under section 2 or special consideration under section 3 shall submit to the Attorney General documentation of their, or their spouse's, service with a special guerrilla unit, or irregular forces, described in section 2(1)(B), in the form of—
+"A person seeking an exemption under section 2 or special consideration under section 3 shall submit to the Attorney General documentation of their, or theirspouse's, service with a special guerrilla unit, or irregular forces, described in section 2(1)(B), in the form of—
 
 &emsp;"(1) original documents;
 

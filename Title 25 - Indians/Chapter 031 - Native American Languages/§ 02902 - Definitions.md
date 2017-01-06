@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(4) The term "Native American Pacific Islander" means any descendent of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
 
-&emsp;(5) The terms "Indian tribe" and "tribal organization" have the respective meaning given to each of such terms under section 450b of this title.
+&emsp;(5) The terms "Indian tribe" and "tribal organization" have the respective meaning given to each of such terms under section 5304 of this title.
 
 &emsp;(6) The term "Native American language" means the historical, traditional languages spoken by Native Americans.
 

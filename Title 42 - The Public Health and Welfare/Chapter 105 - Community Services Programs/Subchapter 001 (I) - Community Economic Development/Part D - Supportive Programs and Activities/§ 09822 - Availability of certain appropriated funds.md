@@ -40,7 +40,7 @@ Continued Availability of Appropriated Funds.—All funds appropriated to the Fu
 
 "(c)
 
-Transfer of Assets; Etc.—The Secretary shall transfer to the National Credit Union Administration all assets, liabilities, grants, contracts, property, records, and funds held, used, arising from, or available to the Secretary in connection with the administration of the Fund before the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
+Transfer of Assets; Etc.—The Secretary shall transfer to the National Credit Union Administration all assets, liabilities, grants, contracts, property,records, and funds held, used, arising from, or available to the Secretary in connection with the administration of the Fund before the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
 
 "(d)
 
@@ -52,7 +52,7 @@ Regulations.—Any regulations prescribed by the Secretary in connection with th
 
 &emsp;"(2)
 
-Existing rights, duties, and obligations not affected.—Subsection (a) shall not be construed asaffecting the validity of any right, duty, or obligation of the United States or any other person arising under or pursuant to any contract, loan, or other instrument or agreement which was in effect on the day before the date of the enactment of this Act \[Nov. 6, 1986\].
+Existing rights, duties, and obligations not affected.—Subsection (a) shall not be construed as affecting the validity of any right, duty, or obligation of the United States or any other person arising under or pursuant to any contract, loan, or other instrument or agreement which was in effect on the day before the date of the enactment of this Act \[Nov. 6, 1986\].
 
 &emsp;"(3)
 

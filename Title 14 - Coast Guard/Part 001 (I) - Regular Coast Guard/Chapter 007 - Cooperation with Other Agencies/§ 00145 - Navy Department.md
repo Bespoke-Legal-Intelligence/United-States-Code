@@ -16,7 +16,7 @@
 
 (d)(1) As part of the services provided by the Secretary of the Navy pursuant to subsection (a)(4), the Secretary may provide support services to chaplain-led programs to assist members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, in building and maintaining a strong family structure.
 
-(2) In this subsection, the term "support services" include transportation, food, lodging, childcare, supplies, fees, and training materials for members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, while participating in programs referred to in paragraph (1), including participation at retreats and conferences.
+(2) In this subsection, the term "support services" include transportation, food, lodging, child care, supplies, fees, and training materials for members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, while participating in programs referred to in paragraph (1), including participation at retreats and conferences.
 
 (3) In this subsection, the term "dependents" has the same meaning as defined in section 1072(2) of title 10.
 
@@ -30,7 +30,7 @@ Subsection (b) is based on title 14, U.S.C., 1946 ed., §31 (Mar. 6, 1920, ch. 9
 
 Subsection (c) is new. This subsection enacts what has been the practice of the Navy and Coast Guard in keeping the Coast Guard trained to "come on board with some muscle" in time of emergency.
 
-Section 3 of this title deals with the relationship of the Coast Guard to the Navy Department. This section deals with cooperation with the Navy. Whereas the status of the Coast Guard in time of war was treated in chapter 1 of this title, this section has application in time of peace when the Coast Guard is not under the Navy Department.
+Section 3 of this title deals with the relationship of the Coast Guard to the Navy Department. This sectiondeals with cooperation with the Navy. Whereas the status of the Coast Guard in time of war was treated in chapter 1 of this title, this section has application in time of peace when the Coast Guard is not under the Navy Department.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 

@@ -10,7 +10,7 @@ Each small business investment company may make use, wherever practicable, of th
 
 &emsp;(1) in direct obligations of, or obligations guaranteed as to principal and interest by, the United States;
 
-&emsp;(2) in certificates of deposit or other accounts of federally insured banks or other federally insured depository institutions, if the certificates or other accounts mature or areotherwise fully available not more than 1 year after the date of the investment; or
+&emsp;(2) in certificates of deposit or other accounts of federally insured banks or other federally insured depository institutions, if the certificates or other accounts mature or are otherwise fully available not more than 1 year after the date of the investment; or
 
 &emsp;(3) in mutual funds, securities, or other instruments that consist of, or represent pooled assets of, investments described in paragraphs (1) or (2).
 
@@ -54,7 +54,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 &emsp;(I) A report from the Securities and Exchange Commission with respect to actions taken to facilitate and stabilize the access of small business concerns to the securities markets.
 
-&emsp;(J) Actions undertaken by the Securities and Exchange Commission to simplify compliance by small business investment companies with the requirements of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and to facilitate the election to be taxed as regulated investment companies pursuant to section 851 of title 26.
+&emsp;(J) Actions undertaken by the Securities and Exchange Commission to simplify complianceby small business investment companies with the requirements of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and to facilitate the election to be taxed as regulated investment companies pursuant to section 851 of title 26.
 
 (3) In its annual report for the year ending on December 31, 1993, and in each succeeding annual report made pursuant to section 10(a) of the Small Business Act \[15 U.S.C. 639(a)\], the Administration shall include a full and detailed description or account relating to—
 
@@ -92,7 +92,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (B) In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
-(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465.)
+(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016,1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465.)
 
 #### References in Text
 

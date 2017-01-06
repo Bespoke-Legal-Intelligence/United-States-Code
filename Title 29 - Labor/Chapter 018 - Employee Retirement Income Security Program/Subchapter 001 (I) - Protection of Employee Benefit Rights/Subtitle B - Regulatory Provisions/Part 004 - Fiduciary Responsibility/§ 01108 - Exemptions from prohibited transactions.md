@@ -66,7 +66,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;(12) The sale by a plan to a party in interest on or after December 18, 1987, of any stock, if—
 
-&emsp;&emsp;(A) the requirements of paragraphs (1) and (2) of subsection (e) of this section are met with respect to such stock,
+&emsp;&emsp;(A) the requirements of paragraphs (1) and (2) of subsection (e) are met with respect to such stock,
 
 &emsp;&emsp;(B) on the later of the date on which the stock was acquired by the plan, or January 1, 1975, such stock constituted a qualifying employer security (as defined in section 1107(d)(5) of this title as then in effect), and
 
@@ -132,13 +132,13 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;(18)
 
-Foreign exchange transactions.—Any foreign exchange transactions, between a bankor broker-dealer (or any affiliate of either), and a plan (as defined in section 1002(3) of this title) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
+Foreign exchange transactions.—Any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either), and a plan (as defined in section 1002(3) of this title) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
 
 &emsp;&emsp;(A) the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>1</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time ofthe transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
 &emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
 
@@ -178,7 +178,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(i) The term "security" has the meaning given such term by section 475(c)(2) of title 26 (without regard to subparagraph (F)(iii) and the last sentence thereof).
 
-&emsp;&emsp;(ii) The term "commodity" has the meaning given such term by section 475(e)(2) of title 26 (without regard to subparagraph (D)(iii) thereof).
+&emsp;&emsp;(ii) The term "commodity" has the meaning given such term by section 475(e)(2) oftitle 26 (without regard to subparagraph (D)(iii) thereof).
 
 &emsp;&emsp;(iii) The term "correct" means, with respect to a transaction—
 
@@ -234,11 +234,11 @@ Sections 1106 and 1107 of this title shall not apply to the acquisition or sale 
 
 &emsp;&emsp;(A) the plan is an eligible individual account plan (as defined in section 1107(d)(3) of this title), or
 
-&emsp;&emsp;(B) in the case of an acquisition or lease of qualifying employer real property by a planwhich is not an eligible individual account plan, or of an acquisition of qualifying employer securities by such a plan, the lease or acquisition is not prohibited by section 1107(a) of this title.
+&emsp;&emsp;(B) in the case of an acquisition or lease of qualifying employer real property by a plan which is not an eligible individual account plan, or of an acquisition of qualifying employer securities by such a plan, the lease or acquisition is not prohibited by section 1107(a) of this title.
 
 #### (f) Applicability of statutory prohibitions to mergers or transfers
 
-Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11) of this section.
+Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11).
 
 #### (g) Provision of investment advice to participant and beneficiaries
 
@@ -312,7 +312,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (5) Annual audit
 
-&emsp;The requirements of this paragraph are met if an independent auditor, who has appropriatetechnical training or experience and proficiency and so represents in writing—
+&emsp;The requirements of this paragraph are met if an independent auditor, who has appropriate technical training or experience and proficiency and so represents in writing—
 
 &emsp;&emsp;(A) conducts an annual audit of the arrangement for compliance with the requirements of this subsection, and
 
@@ -386,7 +386,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;&emsp;(i) the advice is provided by a fiduciary adviser pursuant to an eligible investment advice arrangement between the plan sponsor or other fiduciary and the fiduciary adviser for the provision by the fiduciary adviser of investment advice referred to in such section,
 
-&emsp;&emsp;&emsp;(ii) the terms of the eligible investment advice arrangement require compliance by the fiduciary adviser with the requirements of this subsection, and
+&emsp;&emsp;&emsp;(ii) the terms of the eligible investment advice arrangement require compliance bythe fiduciary adviser with the requirements of this subsection, and
 
 &emsp;&emsp;&emsp;(iii) the terms of the eligible investment advice arrangement include a written acknowledgment by the fiduciary adviser that the fiduciary adviser is a fiduciary of the plan with respect to the provision of the advice.
 
@@ -428,13 +428,13 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;The term "registered representative" of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec.17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is title II of act Aug. 22, 1940, ch.686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
@@ -520,7 +520,7 @@ Amendment by Pub. L. 106–170 applicable to qualified transfers occurring after
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1506(c) of Pub. L. 105–34, set out as a note under section 409 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1506(c) ofPub. L. 105–34, set out as a note under section 409 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 

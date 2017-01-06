@@ -4,3 +4,7 @@ A prescriber may require payment of fees for an eye examination, fitting, and ev
 
 (Pub. L. 108–164, §3, Dec. 6, 2003, 117 Stat. 2024.)
 
+#### Effective Date
+
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) Contract with National Academy of Sciences-National Academy of Engineering; requirements
 
-The Chairman of the Council on Environmental Quality is directed to contract to such extent or in such amounts as are provided in appropriation Acts with the National Academy of Sciences-National Academy of Engineering, other Government agencies or private groups as appropriate, for an in-depth study of current anddeveloping technology for surface and open pit mining and reclamation for minerals other than coal designed to assist in the establishment of effective and reasonable regulation of surface and open pit mining and reclamation for minerals other than coal. The study shall—
+The Chairman of the Council on Environmental Quality is directed to contract to such extent or in such amounts as are provided in appropriation Acts with the National Academy of Sciences-National Academy of Engineering, other Government agencies or private groups as appropriate, for an in-depth study of current and developing technology for surface and open pit mining and reclamation for minerals other than coal designed to assist in the establishment of effective and reasonable regulation of surface and open pit mining and reclamation for minerals other than coal. The study shall—
 
 &emsp;(1) assess the degree to which the requirements of this chapter can be met by such technology and the costs involved;
 

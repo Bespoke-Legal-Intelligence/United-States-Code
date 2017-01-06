@@ -20,7 +20,7 @@ Section 1h, act Nov. 11, 1943, ch. 298, §8, 57 Stat. 589, provided for commissi
 
 Section 1i, act Nov. 11, 1943, ch. 298, §9, 57 Stat. 589, provided for beneficiaries' benefits where commissioned officer lost his life on active duty between Dec. 7, 1941, and Nov. 11, 1943.
 
-Section 1j, act Nov. 11, 1943, ch. 298, §11, 57 Stat. 589, provided for transfer of appropriations to continuetransferred functions. See note set out under section 201 of this title.
+Section 1j, act Nov. 11, 1943, ch. 298, §11, 57 Stat. 589, provided for transfer of appropriations to continue transferred functions. See note set out under section 201 of this title.
 
 #### Renumbering and Repeal of Repealing Act
 

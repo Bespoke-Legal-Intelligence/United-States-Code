@@ -84,7 +84,7 @@ This section shall not apply to—
 
 #### Codification
 
-The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section byPub. L. 101–647, §2401(b), was based on Pub. L. 99–570, title I, §1822(b)–(f), Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, §6485, Nov. 18, 1988, 102 Stat. 4384.
+The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section by Pub. L. 101–647, §2401(b), was based on Pub. L. 99–570, title I, §1822(b)–(f), Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, §6485, Nov. 18, 1988, 102 Stat. 4384.
 
 #### Amendments
 

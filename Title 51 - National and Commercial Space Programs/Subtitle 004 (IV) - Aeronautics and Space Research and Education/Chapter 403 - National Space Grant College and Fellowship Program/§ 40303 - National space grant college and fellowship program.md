@@ -32,7 +32,23 @@ General Authorities.—To carry out the provisions of this chapter, the Administ
 
 &emsp;(3) issue such rules and regulations as may be necessary and appropriate.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3383.)
+(d)
+
+Program Administration Costs.—In carrying out the provisions of this chapter, the Administrator—
+
+&emsp;(1) shall maximize appropriated funds for grants and contracts made under section 40304 in each fiscal year; and
+
+&emsp;(2) in each fiscal year, the Administrator shall limit its program administration costs to no more than 5 percent of funds appropriated for this program for that fiscal year.
+
+(e)
+
+Reports.—For any fiscal year in which the Administrator cannot meet the administration cost target under subsection (d)(2), if the Administration is unable to limit program costs under subsection (b), the Administrator shall submit to the appropriate committees of Congress a report, including—
+
+&emsp;(1) a description of why the Administrator did not meet the cost target under subsection (d); and
+
+&emsp;(2) the measures the Administrator will take in the next fiscal year to meet the cost target under subsection (d) without drawing upon other Federal funding.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3383; Pub. L. 114–329, title III, §302(b), Jan. 6, 2017, 130 Stat. 3003.)
 
 Historical and Revision Notes
 
@@ -49,4 +65,8 @@ Historical and Revision Notes
 42 U.S.C. 2486c.
 
 Pub. L. 100–147, title II, §205, Oct. 30, 1987, 101 Stat. 871.
+
+#### Amendments
+
+<b>2017</b>—Subsecs. (d), (e). Pub. L. 114–329 added subsecs. (d) and (e).
 

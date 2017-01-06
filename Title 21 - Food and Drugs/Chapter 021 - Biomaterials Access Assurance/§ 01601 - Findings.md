@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;
 
-&emsp;(7) notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device,the suppliers have been the subject of actions alleging inadequate—
+&emsp;(7) notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device, the suppliers have been the subject of actions alleging inadequate—
 
 &emsp;&emsp;(A) design and testing of medical devices manufactured with materials or parts supplied by the suppliers; or
 
@@ -50,7 +50,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) to provide expeditious procedures to dispose of unwarranted suits against the suppliers in such manner as to minimize litigation costs;
 
-&emsp;(16) the several States and their courts are the primary architects and regulators of our tort system; Congress, however, must, in certain circumstances involving the national interest, address tort issues, and a threatened shortage of raw materials and component parts for lifesaving medical devices is one such circumstance; and
+&emsp;(16) the several States and their courts are the primary architects and regulators of ourtort system; Congress, however, must, in certain circumstances involving the national interest, address tort issues, and a threatened shortage of raw materials and component parts for lifesaving medical devices is one such circumstance; and
 
 &emsp;(17) the protections set forth in this chapter are needed to assure the continued supply of materials for lifesaving medical devices, although such protections do not protect negligent suppliers.
 

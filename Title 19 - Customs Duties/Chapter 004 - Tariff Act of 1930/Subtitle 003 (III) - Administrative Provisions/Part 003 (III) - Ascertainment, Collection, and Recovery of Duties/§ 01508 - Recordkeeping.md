@@ -84,7 +84,7 @@ The records required by subsections (a) and (b) shall be kept for such periods o
 
 &emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
-&emsp;(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+&emsp;(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 
 #### (d) Limitation
 
@@ -92,7 +92,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;(1) the terms and conditions of the importation are controlled by the person placing the order; or
 
-&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
+&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will beused in the manufacture or production of the imported merchandise.
 
 #### (e) Subsection (b) penalties
 
@@ -188,7 +188,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to Peru
 
-&emsp;Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -244,7 +244,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to Colombia
 
-&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -276,7 +276,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (3) Retention period
 
-&emsp;The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+&emsp;The person who issues a Panama TPA certification of origin shall keep the records andsupporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
 
 #### (l) Penalties
 
@@ -286,7 +286,7 @@ Any person who fails to retain records and supporting documents required by subs
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520; Pub. L. 114–125, title IX, §906(o), Feb. 24, 2016, 130 Stat. 233.)
 
 #### Amendment of Section
 
@@ -309,6 +309,8 @@ Any person who fails to retain records and supporting documents required by subs
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–125 substituted "liquidation" for "payment".
 
 <b>2011</b>—Subsec. (i). Pub. L. 112–41, §§107(c), 206(2), temporarily added subsec. (i). Former subsec. (i) redesignated (j). See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -346,13 +348,17 @@ Subsecs. (f), (g). Pub. L. 108–77, §§107(c), 207(2), temporarily added subse
 
 Subsec. (b). Pub. L. 103–182, §205(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Any person who exports, or who knowingly causes to be exported, any merchandise to Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to such exportations."
 
-Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as amended by Pub. L. 103–182, §614(2) (see below). Prior to amendment, subsec. (c) read as follows: "The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim." See Construction of 1993 Amendment note below.
+Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as amended by Pub. L. 103–182, §614(2)\(see below). Prior to amendment, subsec. (c) read as follows: "The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim." See Construction of 1993 Amendment note below.
 
 Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe." See Construction of 1993 Amendment note below.
 
 Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000."
 
 <b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted "and (b)" after "subsection (a)", redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see section 906(q) of Pub. L. 114–125, set out as a note under section 1313 of this title.
 
 #### Effective and Termination Dates of 2011 Amendment
 
@@ -384,7 +390,7 @@ Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Construction of 1993 Amendment
 
@@ -392,5 +398,5 @@ Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

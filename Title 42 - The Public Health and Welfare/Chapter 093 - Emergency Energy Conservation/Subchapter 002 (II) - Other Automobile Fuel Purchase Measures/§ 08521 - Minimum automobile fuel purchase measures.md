@@ -44,7 +44,7 @@ The Secretary may increase the $5.00 and $7.00 amounts specified in subsections 
 
 (2) Any penalty under paragraph (1) may be assessed by the court in any action under this section brought in any appropriate United States district court or any other court of competent jurisdiction. Except to the extent provided in paragraph (3), any such penalty collected shall be deposited into the general fund of the United States Treasury as miscellaneous receipts.
 
-(3) The Secretary may enter into an agreement with the Governor of any State underwhich amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of the requirements of subsection (a) of this section the authority for which is delegated under subsection (g) of this section.
+(3) The Secretary may enter into an agreement with the Governor of any State under which amounts collected pursuant to this subsection may be collected and retained by the State to the extent necessary to cover costs incurred by that State in connection with the administration and enforcement of the requirements of subsection (a) of this section the authority for which is delegated under subsection (g) of this section.
 
 #### (g) Administration and enforcement delegated to States
 

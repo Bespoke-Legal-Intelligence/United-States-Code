@@ -2,17 +2,17 @@
 
 #### (a) In general
 
-As a condition of receiving grants, cooperative agreements, or contracts under this chapter, each of the entities specified in subsection (c) of this section shall, to the extent determined to be appropriate by the Secretary, make available information concerning breast and cervical cancer.
+As a condition of receiving grants, cooperative agreements, or contracts under this chapter, each of the entities specified in subsection (c) shall, to the extent determined to be appropriate by the Secretary, make available information concerning breast and cervical cancer.
 
 #### (b) Certain authorities
 
-In carrying out subsection (a) of this section, an entity specified in subsection (c) of this section—
+In carrying out subsection (a), an entity specified in subsection (c)—
 
 &emsp;(1) may make the information involved available to such individuals as the entity determines appropriate;
 
-&emsp;(2) may, as appropriate, provide information under subsection (a) of this section on the need for self-examination of the breasts and on the skills for such self-examinations;
+&emsp;(2) may, as appropriate, provide information under subsection (a) on the need for self-examination of the breasts and on the skills for such self-examinations;
 
-&emsp;(3) shall provide information under subsection (a) of this section in the language and cultural context most appropriate to the individuals to whom the information is provided; and
+&emsp;(3) shall provide information under subsection (a) in the language and cultural context most appropriate to the individuals to whom the information is provided; and
 
 &emsp;(4) shall refer such clients as the entities determine appropriate for breast and cervical cancer screening, treatment, or other appropriate services.
 
@@ -32,13 +32,13 @@ The entities specified in this subsection are the following:
 
 &emsp;(6) Entities receiving assistance under section 256a <sup>1</sup> of this title (relating to health services for residents of public housing).
 
-&emsp;(7) Entities providing services with assistance under subchapter III–A of this chapter or subchapter XVII of this chapter.
+&emsp;(7) Entities providing services with assistance under subchapter III–A or subchapter XVII.
 
 &emsp;(8) Entities receiving assistance under section 300 of this title (relating to family planning).
 
-&emsp;(9) Entities receiving assistance under subchapter XXIV of this chapter (relating to services with respect to acquired immune deficiency syndrome).
+&emsp;(9) Entities receiving assistance under subchapter XXIV (relating to services with respect to acquired immune deficiency syndrome).
 
-&emsp;(10) Non-Federal entities authorized under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+&emsp;(10) Non-Federal entities authorized under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
 
 (July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
@@ -50,7 +50,7 @@ Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were i
 
 Section 256a of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
 

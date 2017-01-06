@@ -6,7 +6,7 @@ In addition to any amounts provided by appropriation Acts, funding for this chap
 
 #### (b) Compensation
 
-The Assistant Secretary of Commerce for Communications and Information shall compensate any such broadcast station licensee or permittee for reasonable costs incurred in complying with the requirements imposed pursuant to section 1201(c) of this title from funds made available under this section. The Assistant Secretary shall ensure that sufficient funds are made available to effectuate geographically targeted alerts.
+The Assistant Secretary of Commerce for Communications and Information shall compensate any such broadcast station licensee or permittee for reasonable costs incurred in complying with the requirements imposed pursuant to section 1201(c) of this title from funds madeavailable under this section. The Assistant Secretary shall ensure that sufficient funds are made available to effectuate geographically targeted alerts.
 
 #### (c) Credit
 

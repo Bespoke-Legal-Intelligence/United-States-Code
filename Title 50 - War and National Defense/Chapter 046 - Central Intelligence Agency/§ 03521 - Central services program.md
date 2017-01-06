@@ -28,9 +28,9 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(A) Amounts appropriated to the Fund.
 
-&emsp;(B) Amounts credited to the Fund from payments received by central service providers under subsection (e) of this section.
+&emsp;(B) Amounts credited to the Fund from payments received by central service providers under subsection (e).
 
-&emsp;(C) Fees imposed and collected under subsection (f)(1) of this section.
+&emsp;(C) Fees imposed and collected under subsection (f)(1).
 
 &emsp;(D) Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
 
@@ -46,7 +46,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(A) To pay the costs of providing items or services under the program.
 
-&emsp;(B) To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2) of this section.
+&emsp;(B) To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2).
 
 #### (d) Limitation on amount of orders
 
@@ -54,7 +54,7 @@ The total value of all orders for items or services to be provided under the pro
 
 #### (e) Payment for items and services
 
-(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers' compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
+(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers' compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
 
 (2) Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 
@@ -114,7 +114,7 @@ Subsec. (h). Pub. L. 107–108, §401(b), redesignated pars. (2) and (3) as (1) 
 
 Subsec. (e)(1). Pub. L. 106–567, §401(b), in second sentence, inserted "other than structures owned by the Agency" after "depreciation of plant and equipment".
 
-Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted "financial statements to be prepared with respect to theprogram. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1)." for "annual audits under paragraph (1)".
+Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted "financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1)." for "annual audits under paragraph (1)".
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–120, §401(a), substituted ", nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other" for "and to other".
 

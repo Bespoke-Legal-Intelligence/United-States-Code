@@ -134,7 +134,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;&emsp;&emsp;(I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
 
-&emsp;&emsp;&emsp;&emsp;(II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
+&emsp;&emsp;&emsp;&emsp;(II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residentialimproved real estate or mobile home is covered by a flood insurance policy that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
 
@@ -414,7 +414,7 @@ Option to escrow flood insurance payments.—Each Federal entity for lending reg
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, which provided that the amendment made to this section by section 100209(a) of Pub. L. 112–141 would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by Pub. L. 113–89, §25(b)(2), Mar. 21, 2014, 128 Stat. 1032. For effective date of amendment by section 100209(a) of Pub. L. 112–141, see Effective Date of 2014 Amendment note above.
+Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, which provided that the amendment made to this section by section 100209(a) of Pub. L. 112–141 would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by Pub. L. 113–89,§25(b)(2), Mar. 21, 2014, 128 Stat. 1032. For effective date of amendment by section 100209(a) of Pub. L. 112–141, see Effective Date of 2014 Amendment note above.
 
 #### Effective Date of 1994 Amendment
 

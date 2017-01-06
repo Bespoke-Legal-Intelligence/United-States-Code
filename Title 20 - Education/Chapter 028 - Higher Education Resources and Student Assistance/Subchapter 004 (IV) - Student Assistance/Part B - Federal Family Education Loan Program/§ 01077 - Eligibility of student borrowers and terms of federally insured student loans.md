@@ -10,7 +10,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(A) is made without security and without endorsement;
 
-&emsp;&emsp;(B) provides for repayment (except as provided in subsection (c) of this section) of theprincipal amount of the loan in installments over a period of not less than 5 years (unless sooner repaid or unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at an eligible institution at least one-half the normal full-time academic workload as determined by the institution, except—
+&emsp;&emsp;(B) provides for repayment (except as provided in subsection (c)) of the principal amount of the loan in installments over a period of not less than 5 years (unless sooner repaid or unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at an eligible institution at least one-half the normal full-time academic workload as determined by the institution, except—
 
 &emsp;&emsp;&emsp;(i) as provided in subparagraph (C);
 
@@ -48,7 +48,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;(3) the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except—
 
-&emsp;&emsp;(A) that nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted—
+&emsp;&emsp;(A) that nothing in this subchapter shall be interpreted—
 
 &emsp;&emsp;&emsp;(i) to allow the Secretary to require checks to be made copayable to the institution and the borrower; or
 
@@ -60,7 +60,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 #### (b) Special rules for multiple disbursement
 
-For the purpose of subsection (a)(4) of this section—
+For the purpose of subsection (a)(4)—
 
 &emsp;(1) all loans issued for the same period of enrollment shall be considered as a single loan; and
 
@@ -68,7 +68,7 @@ For the purpose of subsection (a)(4) of this section—
 
 #### (c) Special repayment rules
 
-Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
+Except as provided in subsection (a)(2)(H), the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
 
 #### (d) Borrower information
 
@@ -98,9 +98,9 @@ Subsec. (a)(2)(C). Pub. L. 102–325, §414(b), amended subpar. (C) generally, r
 
 Subsec. (a)(2)(G) to (I). Pub. L. 102–325, §414(c)(1), struck out "and" at end of subpar. (G), added subpar. (H), and redesignated former subpar. (H) as (I).
 
-Subsec. (a)(3). Pub. L. 102–325, §414(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check; and".
+Subsec. (a)(3). Pub. L. 102–325, §414(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check; and".
 
-Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted "Special repayment rules" for "Minimum repayment rate" in heading and in text "Except as provided in subsection (a)(2)(H) of this section, the total" for "The total" and "(but in no instance less than the amount of interest due and payable)" for ", except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less".
+Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted "Special repayment rules" for "Minimum repayment rate" in heading and in text "Except as provided in subsection (a)(2)(H), the total" for "The total" and "(but in no instance less than the amount of interest due and payable)" for ", except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less".
 
 <b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–164, §601(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by the borrower would not, under the applicable law, create a binding obligation, endorsement may be required;".
 
@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 102–164, §602(a), added subsec. (d).
 
 <b>1989</b>—Subsec. (a)(2)(C)(i). Pub. L. 101–239, §2002(a)(1), inserted before semicolon at end ", except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program".
 
-Subsec. (a)(4). Pub. L. 101–239, §2004(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "in the case of any loan made for any period of enrollment that ends more than 180 days (or 6 months) after the date disbursement is scheduled to occur, and for an amount of $1,000 or more, the proceeds of the loan will, subject to subsection (b) of this section, be disbursed directly by the lender in two or more installments, none of which exceeds one-half of the loan, with the second installment being disbursed after not less than one-third of such period (except as necessary topermit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment)."
+Subsec. (a)(4). Pub. L. 101–239, §2004(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "in the case of any loan made for any period of enrollment that ends more than 180 days (or 6 months) after the date disbursement is scheduled to occur, and for an amount of $1,000 or more, the proceeds of the loan will, subject to subsection (b) of this section, be disbursed directly by the lender in two or more installments, none of which exceeds one-half of the loan, with the second installment being disbursed after not less than one-third of such period (except as necessary to permit the second installment to be disbursed at thebeginning of the second semester, quarter, or similar division of such period of enrollment)."
 
 <b>1988</b>—Subsec. (a)(2)(C)(v). Pub. L. 100–369, §7(c), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

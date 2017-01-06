@@ -2,7 +2,7 @@
 
 #### (a) Supplemental Security Income program
 
-Notwithstanding any other provision of law (but subject to subsection (b) of this section), no individual who is an applicant for or recipient of aid or assistance under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or of benefits under the Supplemental Security Income program established by subchapter XVI of this chapter shall—
+Notwithstanding any other provision of law (but subject to subsection (b)), no individual who is an applicant for or recipient of aid or assistance under a State plan approved under subchapter I, X, XIV, or XVI, or of benefits under the Supplemental Security Income program established by subchapter XVI shall—
 
 &emsp;(1) be required, as a condition of eligibility for (or of continuing to receive) such aid, assistance, or benefits, to make an election under section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978 with respect to pension paid by the Secretary of Veterans Affairs, or
 
@@ -10,13 +10,13 @@ Notwithstanding any other provision of law (but subject to subsection (b) of thi
 
 #### (b) Period of effectiveness
 
-The provisions of subsection (a) of this section shall be applicable only with respect to an individual, who is an applicant for or recipient of aid, assistance, or benefits described in subsection (a) of this section, during a period with respect to which there is in effect—
+The provisions of subsection (a) shall be applicable only with respect to an individual, who is an applicant for or recipient of aid, assistance, or benefits described in subsection (a), during a period with respect to which there is in effect—
 
-&emsp;(1) in case such individual is an applicant for or recipient of aid or assistance under a State plan referred to in subsection (a) of this section, in the State having such plan, or
+&emsp;(1) in case such individual is an applicant for or recipient of aid or assistance under a State plan referred to in subsection (a), in the State having such plan, or
 
-&emsp;(2) in case such individual is an applicant for or recipient of benefits under the Supplemental Security Income program established by subchapter XVI of this chapter, in the State in which the individual applies for or receives such benefits,
+&emsp;(2) in case such individual is an applicant for or recipient of benefits under the Supplemental Security Income program established by subchapter XVI, in the State in which the individual applies for or receives such benefits,
 
-> a State plan for medical assistance, approved under subchapter XIX of this chapter, under which medical assistance is available to such individual only for periods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a) of this section.
+> a State plan for medical assistance, approved under subchapter XIX, under which medical assistance is available to such individual only for periods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a).
 
 (Aug. 14, 1935, ch. 531, title XI, §1133, as added Pub. L. 96–272, title III, §310(a)(1), June 17, 1980, 94 Stat. 532; amended Pub. L. 102–54, §13(q)(3)(B)(iii), June 13, 1991, 105 Stat. 279; Pub. L. 104–193, title I, §108(g)(6), Aug. 22, 1996, 110 Stat. 2168.)
 
@@ -26,7 +26,7 @@ Section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978, ref
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted "subchapter I, X, XIV, or XVI of this chapter," for "subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter,".
+<b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted "subchapter I, X, XIV, or XVI," for "subchapter I, X, XIV, or XVI, or part A of subchapter IV,".
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–54 substituted "Secretary of Veterans Affairs" for "Veterans' Administration".
 
@@ -42,7 +42,7 @@ Pub. L. 96–272, title III, §310(a)(2), June 17, 1980, 94 Stat. 532, provided 
 
 Pub. L. 96–272, title III, §310(b)(2), June 17, 1980, 94 Stat. 533, provided that:
 
-"(A) The Administrator shall provide to each individual to whom section 1133 of the Social Security Act (as added by subsection (a)(1) of this section) \[42 U.S.C. 1320b–3\] applies and who is eligible to make or has made an election under section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978 \[Pub. L. 95–588, set out as a note under section 1521 of Title 38, Veterans' Benefits\], a written notice, in clear and understandable language, which (i) describes the consequences to such individual (and possibly to such individual's family), in terms of a determination or possible determination of ineligibility for medical assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], of making an election with respect to pension under such section 306, (ii) describes the provisions of subparagraph (B) of this paragraph and subsection (a) of this section, (iii) sets forth other relevant information that would be helpful to such individual in making an informed decision concerning such an election or the disaffirmation thereof, and (iv) in the case of any individual who hasmade such an election, is accompanied by a form prepared for the purpose of enabling such individual to file with the Administrator a written disaffirmation of such an election.
+"(A) The Administrator shall provide to each individual to whom section 1133 of the Social Security Act (as added by subsection (a)(1) of this section) \[42 U.S.C. 1320b–3\] applies and who is eligible to make or has made an election under section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978 \[Pub. L. 95–588, set out as a note under section 1521 of Title 38, Veterans' Benefits\], a written notice, in clear and understandable language, which (i) describes the consequences to such individual (and possibly to such individual's family), in terms of a determination or possible determination of ineligibility for medical assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], of making an election with respect to pension under such section 306, (ii) describes the provisions of subparagraph (B) of this paragraph and subsection (a) of this section, (iii) sets forth other relevant information that would be helpful to such individual in making an informed decision concerning such an election or the disaffirmation thereof, and (iv) in the case of any individual who has made such an election, is accompanied by a form prepared for the purpose of enabling such individual to file with the Administrator a written disaffirmation of such an election.
 
 "(B) Notwithstanding any other provision of law—
 

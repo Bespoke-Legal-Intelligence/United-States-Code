@@ -16,7 +16,7 @@
 
 (2)(A) In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.
 
-(B)(i) Subject to clauses (ii) and (iii), for purposes of any period in any year beginning after December 31, 2013, the normal-cost percentage under this subsection shall be determined and applied as if section 401(b) of the Bipartisan Budget Act of 2013 had not been enacted.
+(B)(i) Subject to clauses (ii) and (iii), for purposes of any period in any year beginning afterDecember 31, 2013, the normal-cost percentage under this subsection shall be determined and applied as if section 401(b) of the Bipartisan Budget Act of 2013 had not been enacted.
 
 (ii) Any contributions under this subsection in excess of the amounts which (but for clause (i)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Civil Service Retirement System.
 
@@ -42,7 +42,7 @@
 
 > as of the close of each fiscal year beginning after September 30, 1987.
 
-(2) The amount of any supplemental liability computed under paragraph (1)(A) or (1)(B) shallbe amortized in 30 equal annual installments, with interest computed at the rate used in the most recent valuation of the System.
+(2) The amount of any supplemental liability computed under paragraph (1)(A) or (1)(B) shall be amortized in 30 equal annual installments, with interest computed at the rate used in the most recent valuation of the System.
 
 (3) At the end of each fiscal year, the Office shall notify—
 

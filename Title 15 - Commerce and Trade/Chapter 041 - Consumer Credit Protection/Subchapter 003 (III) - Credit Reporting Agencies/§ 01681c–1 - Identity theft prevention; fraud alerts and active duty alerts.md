@@ -4,7 +4,7 @@
 
 #### (1) Initial alerts
 
-&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
+&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personalrepresentative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
 
 &emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 90 days, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, during the 7-year period beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period and the agency has received appropriate proof of the identity of the requester for such purpose;
 
-&emsp;&emsp;(B) during the 5-year period beginning on the date of such request, exclude the consumer from any list of consumers preparedby the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer or such representative requests that such exclusion be rescinded before the end of such period; and
+&emsp;&emsp;(B) during the 5-year period beginning on the date of such request, exclude the consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer or such representative requests that such exclusion be rescinded before the end of such period; and
 
 &emsp;&emsp;(C) refer the information regarding the extended fraud alert under this paragraph to each of the other consumer reporting agencies described in section 1681a(p) of this title, in accordance with procedures developed under section 1681s(f) of this title.
 
@@ -82,7 +82,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No prospective user of a consumer report that includes an initial fraud alert or anactive duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
+&emsp;&emsp;&emsp;No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
 
 #### (ii) Verification
 

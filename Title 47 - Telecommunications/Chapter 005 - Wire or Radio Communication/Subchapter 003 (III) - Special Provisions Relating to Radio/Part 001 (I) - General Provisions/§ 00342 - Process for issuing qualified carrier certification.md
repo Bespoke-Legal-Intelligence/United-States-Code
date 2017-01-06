@@ -16,7 +16,7 @@ The Commission shall issue a certification for the purposes of section 119(g)(3)
 
 Any entity seeking the certification provided for in subsection (a) shall submit to the Commission the following information:
 
-&emsp;(1) An affidavit stating that, to the best of the affiant's knowledge, the satellite carrierprovides local service in all designated market areas pursuant to the statutory license provided for in section 122 of title 17 and listing those designated market areas in which local service was provided as of the date of enactment of the Satellite Television Extension and Localism Act of 2010.
+&emsp;(1) An affidavit stating that, to the best of the affiant's knowledge, the satellite carrier provides local service in all designated market areas pursuant to the statutory license provided for in section 122 of title 17 and listing those designated market areas in which local service was provided as of the date of enactment of the Satellite Television Extension and Localism Act of 2010.
 
 &emsp;(2) For each designated market area not listed in paragraph (1):
 

@@ -16,7 +16,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(3) Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
 
-&emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+&emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, andsupport supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
 &emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
@@ -32,7 +32,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 (b)
 
-Civil-Military Integration Policy.—It is the policy of Congress that the United States attain the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
+Civil-Military Integration Policy.—The Secretary of Defense shall ensure that the United States attains the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
 
 &emsp;(1) Relying, to the maximum extent practicable, upon the commercial national technology and industrial base that is required to meet the national security needs of the United States.
 
@@ -40,7 +40,7 @@ Civil-Military Integration Policy.—It is the policy of Congress that the Unite
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316.)
 
 #### Prior Provisions
 
@@ -50,11 +50,13 @@ Another prior section 2501 was renumbered section 2533 of this title.
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b). Pub. L. 114–328, in introductory provisions, substituted "The Secretary of Defense shall ensure that the United States attains" for "It is the policy of Congress that the United States attain".
+
 <b>2014</b>—Subsec. (a)(1)(A). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 
 <b>2013</b>—Pub. L. 112–239, §1603(a)(1)(A), substituted "strategy for" for "objectives concerning" in section catchline.
 
-Subsec. (a). Pub. L. 112–239, §1603(a)(1)(B)(i), (ii), substituted "Strategy" for "Objectives" in heading and "The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:" for "It is the policyof Congress that the national technology and industrial base be capable of meeting the following national security objectives:" in introductory provisions.
+Subsec. (a). Pub. L. 112–239, §1603(a)(1)(B)(i), (ii), substituted "Strategy" for "Objectives" in heading and "The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:" for "It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:" in introductory provisions.
 
 Subsec. (a)(9), (10). Pub. L. 112–239, §1603(a)(1)(B)(iii), added pars. (9) and (10).
 
@@ -83,6 +85,40 @@ Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec.
 Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted "that, by reducing the public sector demand for capital, increases the amount of capital available" for "and thereby free up capital".
+
+#### Greater Integration of the National Technology and Industrial Base
+
+Pub. L. 114–328, div. A, title VIII, §881, Dec. 23, 2016, 130 Stat. 2315, provided that:
+
+"(a)
+
+Plan Required.—Not later than January 1, 2018, the Secretary of Defense shall develop a plan to reduce the barriers to the seamless integration between the persons and organizations that comprise the national technology and industrial base (as defined in section 2500 of title 10, United States Code). The plan shall include at a minimum the following elements:
+
+&emsp;"(1) A description of the various components of the national technology and industrial base, including government entities, universities, nonprofit research entities, nontraditional and commercial item contractors, and private contractors that conduct commercial and military research, produce commercial items that could be used by the Department of Defense, and produce items designated and controlled under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] (also known as the 'United States Munitions List').
+
+&emsp;"(2) Identification of the barriers to the seamless integration of the transfer of knowledge, goods, and services among the persons and organizations of the national technology and industrial base.
+
+&emsp;"(3) Identification of current authorities that could contribute to further integration of the persons and organizations of the national technology and industrial base, and a plan to maximize the use of those authorities.
+
+&emsp;"(4) Identification of changes in export control rules, procedures, and laws that would enhance the civil-military integration policy objectives set forth in section 2501(b) of title 10, United States Code, for the national technology and industrial base to increase the access of the Armed Forces to commercial products, services, and research and create incentives necessary for nontraditional and commercial item contractors, universities, and nonprofit research entities to modify commercial products or services to meet Department of Defense requirements.
+
+&emsp;"(5) Recommendations for increasing integration of the national technology and industrial base that supplies defense articles to the Armed Forces and enhancing allied interoperability of forces through changes to the text or the implementation of—
+
+&emsp;&emsp;"(A) section 126.5 of title 22, Code of Federal Regulations (relating to exemptions that are applicable to Canada under the International Traffic in Arms Regulations);
+
+&emsp;&emsp;"(B) the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney on September 5, 2007;
+
+&emsp;&emsp;"(C) the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007; and
+
+&emsp;&emsp;"(D) any other agreements among the countries comprising the national technology and industrial base.
+
+"(b)
+
+Amendment to Definition of National Technology and Industrial Base.—\[Amended section 2500 of this title.\]
+
+"(c)
+
+Reporting Requirement.—The Secretary of Defense shall report on the progress of implementing the plan in subsection (a) in the report required under section 2504 of title 10, United States Code."
 
 #### Department of Defense Technology Offset Program To Build and Maintain the Military Technological Superiority of the United States
 
@@ -170,7 +206,7 @@ Program To Expand Industrial Base Required.—The Secretary of Defense shall est
 
 "(b)
 
-Identifying and Communicating With Firms That Are Not Traditional Suppliers.—The program established under subsection (a) shall use tools and resources available within the Federal Government and available from the private sector to provide a capability for identifying and communicating with firms that are not traditional suppliers, including commercialfirms and firms of all business sizes, that are engaged in markets of importance to the Department of Defense in which such firms can make a significant contribution.
+Identifying and Communicating With Firms That Are Not Traditional Suppliers.—The program established under subsection (a) shall use tools and resources available within the Federal Government and available from the private sector to provide a capability for identifying and communicating with firms that are not traditional suppliers, including commercial firms and firms of all business sizes, that are engaged in markets of importance to the Department of Defense in which such firms can make a significant contribution.
 
 "(c)
 
@@ -264,7 +300,7 @@ Use of Existing Data.—(1) At a minimum, with respect to each prime contract wi
 
 &emsp;"(D) The dollar value of the contract.
 
-"(2) The Federal Procurement Data System described in section 1122(a)(4)(A) of title 41, United States Code,or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
+"(2) The Federal Procurement Data System described in section 1122(a)(4)(A) of title 41, United States Code, or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
 
 "(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under section 2507 of title 10, United States Code. Such information also shall be exempt from release under section 552 of title 5, United States Code.
 
@@ -360,7 +396,7 @@ Reinstatement of Development Planning.—(1) The Secretary of the Air Force shal
 
 &emsp;"(G) Utilizing existing analysis capabilities within the Air Force product centers in a collaborative and integrated manner.
 
-"(2) Not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of the Air Force shall submit to Congress a report on the implementation of the planning process required by paragraph (1). The report shall include the annual amount that the Secretary considers necessary to carry out paragraph (1).
+"(2) Not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of theAir Force shall submit to Congress a report on the implementation of the planning process required by paragraph (1). The report shall include the annual amount that the Secretary considers necessary to carry out paragraph (1).
 
 #### "SEC. 253. STUDY AND REPORT ON EFFECTIVENESS OF AIR FORCE SCIENCE AND TECHNOLOGY PROGRAM CHANGES.
 
@@ -464,7 +500,7 @@ Short-Term Objectives.—(1) The Secretary of the Air Force shall establish a ta
 
 &emsp;"(B) identifying deficiencies in the enabling capabilities that must be addressed if the short-term objective is to be achieved; and
 
-&emsp;"(C) working with the Air Force science and technology community to identify science and technologyprojects and programs that should be undertaken to eliminate each deficiency in an enabling capability.
+&emsp;"(C) working with the Air Force science and technology community to identify science and technology projects and programs that should be undertaken to eliminate each deficiency in an enabling capability.
 
 "(6) In carrying out subsection (a), the Secretary of the Air Force shall review the short-term science and technology objectives identified pursuant to this subsection and, for each such objective, at a minimum—
 

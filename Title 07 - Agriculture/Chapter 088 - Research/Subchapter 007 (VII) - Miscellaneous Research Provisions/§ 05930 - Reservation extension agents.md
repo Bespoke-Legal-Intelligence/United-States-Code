@@ -28,7 +28,7 @@ On a determination by the Secretary of Agriculture that a program carried out un
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XVI, §1677, Nov. 28, 1990, 104 Stat. 3779; Pub. L. 102–237, title IV, §407(15), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §840, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 110–234, title VII, §7511(c)(23), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(23), June 18, 2008, 122 Stat. 1664, 2031.)
+(Pub. L. 101–624, title XVI, §1677, Nov. 28, 1990, 104 Stat. 3779; Pub. L. 102–237, title IV, §407(15),Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §840, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 110–234, title VII, §7511(c)(23), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(23), June 18, 2008, 122 Stat. 1664, 2031.)
 
 #### Codification
 

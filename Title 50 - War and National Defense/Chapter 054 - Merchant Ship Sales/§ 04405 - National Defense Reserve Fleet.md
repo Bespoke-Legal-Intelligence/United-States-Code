@@ -2,7 +2,7 @@
 
 #### (a) Fleet components
 
-The Secretary of Transportation shall maintain a National Defense Reserve Fleet, including any vessel assigned by the Secretary to the Ready Reserve Force component of the fleet, consisting of those vessels owned or acquired by the United States Government that the Secretary of Transportation, after consultation with the Secretary of the Navy, determines are of value for national defense purposes and that the Secretary of Transportation decides to place and maintain in the fleet.
+The Secretary of Transportation shall maintain a National Defense Reserve Fleet, including any vessel assigned by the Secretary to the Ready Reserve Force component of the fleet, consisting of those vessels owned or acquired by the United States Government that the Secretary of Transportation, after consultation with the Secretary of the Navy, determines are of value for national defense purposes and that the Secretary of Transportation decides to place and maintain in the fleet. Vessels in the National Defense Reserve Fleet, including vessels loaned to State maritime academies, shall be considered public vessels of the United States.
 
 #### (b) Permitted uses
 
@@ -60,7 +60,7 @@ Except as otherwise provided by law, a vessel in the fleet may be used—
 
 #### (1) Application of limitation
 
-&emsp;The provisions of section 7310 of title 10 shall apply to vessels specified in subsection (b), andto the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
+&emsp;The provisions of section 7310 of title 10 shall apply to vessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
 
 #### (2) Covered vessels
 
@@ -94,7 +94,11 @@ With the concurrence of the Secretary of Defense, the Secretary of Transportatio
 
 &emsp;Any other matters the Maritime Administrator considers appropriate.
 
-(Mar. 8, 1946, ch. 82, §11, 60 Stat. 49; June 28, 1947, ch. 161, §1, 61 Stat. 190; Feb. 27, 1948, ch. 78, §1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, §1, 63 Stat. 349; June 30, 1950, ch. 427, §2, 64 Stat. 308; Pub. L. 97–31, §12(157), Aug. 6, 1981, 95 Stat. 167; Pub. L. 101–115, §6, Oct. 13, 1989, 103 Stat. 693; Pub. L. 101–225, title III, §307(12), Dec. 12, 1989, 103 Stat. 1925; Pub. L. 102–241, §57, Dec. 19, 1991, 105 Stat. 2234; Pub. L. 102–587, title VI, §6205(a), Nov. 4, 1992, 106 Stat. 5094; Pub. L. 104–106, div. A, title X, §1014(b), Feb. 10, 1996, 110 Stat. 424; Pub. L. 104–239, §9, Oct. 8, 1996, 110 Stat. 3133; Pub. L. 109–364, div. C, title XXXV, §3503, Oct. 17, 2006, 120 Stat. 2516; Pub. L. 110–181, div. C, title XXXV, §§3513, 3516, Jan. 28, 2008, 122 Stat. 594, 595; Pub. L. 112–81, div. C, title XXXV, §3502, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–213, title IV, §410, Dec. 20, 2012, 126 Stat. 1572.)
+#### (g) Vessel status
+
+A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1 and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
+
+(Mar. 8, 1946, ch. 82, §11, 60 Stat. 49; June 28, 1947, ch. 161, §1, 61 Stat. 190; Feb. 27, 1948, ch. 78, §1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, §1, 63 Stat. 349; June 30, 1950, ch. 427, §2, 64 Stat. 308; Pub. L. 97–31, §12(157), Aug. 6, 1981, 95 Stat. 167; Pub. L. 101–115, §6, Oct. 13, 1989, 103 Stat. 693; Pub. L. 101–225, title III, §307(12), Dec. 12, 1989, 103 Stat. 1925; Pub. L. 102–241, §57, Dec. 19, 1991, 105 Stat. 2234; Pub. L. 102–587, title VI, §6205(a), Nov. 4, 1992, 106 Stat. 5094; Pub. L. 104–106, div. A, title X, §1014(b), Feb. 10, 1996, 110 Stat. 424; Pub. L. 104–239, §9, Oct. 8, 1996, 110 Stat. 3133; Pub. L. 109–364, div. C, title XXXV, §3503, Oct. 17, 2006, 120 Stat. 2516; Pub. L. 110–181, div. C, title XXXV, §§3513, 3516, Jan. 28, 2008, 122 Stat. 594, 595; Pub. L. 112–81, div. C, title XXXV, §3502, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–213, title IV, §410, Dec. 20, 2012, 126 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3504, Dec. 23, 2016, 130 Stat. 2776.)
 
 #### Codification
 
@@ -103,6 +107,10 @@ Section was formerly classified to section 1744 of the former Appendix to this t
 In subsec. (b)(1), "chapter 563 of title 46" substituted for "section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted chapter 563 of Title 46, Shipping.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §3504(1), inserted at end "Vessels in the National Defense Reserve Fleet, including vessels loaned to State maritime academies, shall be considered public vessels of the United States."
+
+Subsec. (g). Pub. L. 114–328, §3504(2), added subsec. (g).
 
 <b>2012</b>—Subsec. (c)(1)(B) to (D). Pub. L. 112–213 amended subpars. (B) to (D) generally. Prior to amendment, subpars. (B) to (D) read as follows:
 
@@ -140,7 +148,7 @@ Subsec. (e). Pub. L. 104–106 added subsec. (e).
 
 Pub. L. 101–115 amended section generally. Prior to amendment, section read as follows:
 
-"(a) The Secretary of Transportation shall place in a national defense reserve (1) such vessels owned by the Department of Transportation as, after consultation with the Secretary of the Army and the Secretary of the Navy, he deems should be retained for the national defense, and (2) all vessels owned by the Department of Transportation on June 30, 1950, for the sale of which a contract has not been made by that time, except those determined by the Secretary of Transportation to be ofinsufficient value for commercial and national defense purposes to warrant their maintenance and preservation, and except those vessels, the contracts for the construction of which are made after September 2, 1945, under the provisions of the Merchant Marine Act, 1936, as amended. A vessel under charter on March 1, 1948, shall not be placed in the reserve until the termination of such charter. Unless otherwise provided for by law, all vessels placed in such reserve shall be preserved and maintained by the Secretary of Transportation for the purpose of national defense. A vessel placed in such reserve shall in no case be used for any purpose whatsoever except that any such vessel may be used for account of any agency or department of the United States during any period in which vessels may be requisitioned under section 902 of the Merchant Marine Act, 1936, as amended, and that any such vessel may be used under a bare-boat charter entered into pursuant to authority vested in the Secretary of Transportation on July 1, 1950, or granted to the Secretary of Transportation after such date.
+"(a) The Secretary of Transportation shall place in a national defense reserve (1) such vessels owned by the Department of Transportation as, after consultation with the Secretary of the Army and the Secretary of the Navy, he deems should be retained for the national defense, and (2) all vessels owned by the Department of Transportation on June 30, 1950, for the sale of which a contract has not been made by that time, except those determined by the Secretary of Transportation to be of insufficient value for commercial and national defense purposes to warrant their maintenance and preservation, and except those vessels, the contracts for the construction of which are made after September 2, 1945, under the provisions of the Merchant Marine Act, 1936, as amended. A vessel under charter on March 1, 1948, shall not be placed in the reserve until the termination of such charter. Unless otherwise provided for by law, all vessels placed in such reserve shall be preserved and maintained by the Secretary of Transportation for the purpose of national defense. A vessel placed in such reserve shall in no case be used for any purpose whatsoever except that any such vessel may be used for account of any agency or department of the United States during any period in which vessels may be requisitioned under section 902 of the Merchant Marine Act, 1936, as amended, and that any such vessel may be used under a bare-boat charter entered into pursuant to authority vested in the Secretary of Transportation on July 1, 1950, or granted to the Secretary of Transportation after such date.
 
 "(b) Any war-built vessel may be made available by the Secretary of Transportation to any State maintaining a marine school or nautical branch in accordance with the Act of July 29, 1941 (Public Law 191, Seventy-seventh Congress; 55 Stat. 607)."
 

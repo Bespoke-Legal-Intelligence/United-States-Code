@@ -38,7 +38,7 @@
 
 &emsp;(1) premium pay under section 5545(c)(1) of this title; and
 
-&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of thistitle, premium pay under section 5545(c)(2) of this title.
+&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of this title, premium pay under section 5545(c)(2) of this title.
 
 (d) In determining the amount of insurance to which an employee is entitled—
 
@@ -104,7 +104,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 | 17,000&nbsp;&nbsp; | 18,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; |
 | 18,000&nbsp;&nbsp; | 19,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; |
 | 19,000&nbsp;&nbsp; | 20,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; |
-| 20,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; |
+| 20,000&nbsp;&nbsp; | 21,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 23,000   |
 | 21,000&nbsp;&nbsp; | 22,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; |
 | 22,000&nbsp;&nbsp; | 23,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; | 25,000&nbsp;&nbsp; |
 | 23,000&nbsp;&nbsp; | 24,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; | 26,000&nbsp;&nbsp; |

@@ -54,7 +54,7 @@
 
 #### (5) Community-based care
 
-&emsp;The Secretary may make grants to dental schools and programs described in paragraph (1)(B) that partner with community-based dentists to provide oral health care to patients with HIV/AIDS in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
+&emsp;The Secretary may make grants to dental schools and programs described in paragraph (1)(B) that partner with community-based dentists to provide oral health care to patientswith HIV/AIDS in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
 
 #### (c) Authorization of appropriations
 
@@ -114,7 +114,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted "and" after sem
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: "to train practitioners to provide for the health care needs of such individuals;".
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "with respectto improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and".
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and".
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section:
 

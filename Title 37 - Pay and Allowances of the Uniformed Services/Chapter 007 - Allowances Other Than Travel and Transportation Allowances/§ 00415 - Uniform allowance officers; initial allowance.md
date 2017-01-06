@@ -20,7 +20,7 @@
 
 > An officer is not entitled to more than one allowance under this subsection.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–444, §2(1), June 9, 1966, 80 Stat. 198; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–83, §5(1), Sept. 11, 1967, 81 Stat. 221; Pub. L. 91–278, §3(3), June 12, 1970, 84 Stat. 306; Pub. L. 96–76, title III, §313(c), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title IV, §412, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 97–22, §10(c), July 10, 1981, 95 Stat. 137; Pub. L. 97–60, title I, §131(a), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–444, §2(1), June 9, 1966, 80 Stat. 198; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123;Pub. L. 90–83, §5(1), Sept. 11, 1967, 81 Stat. 221; Pub. L. 91–278, §3(3), June 12, 1970, 84 Stat. 306; Pub. L. 96–76, title III, §313(c), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title IV, §412, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 97–22, §10(c), July 10, 1981, 95 Stat. 137; Pub. L. 97–60, title I, §131(a), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150.)
 
 Historical and Revision Notes
 

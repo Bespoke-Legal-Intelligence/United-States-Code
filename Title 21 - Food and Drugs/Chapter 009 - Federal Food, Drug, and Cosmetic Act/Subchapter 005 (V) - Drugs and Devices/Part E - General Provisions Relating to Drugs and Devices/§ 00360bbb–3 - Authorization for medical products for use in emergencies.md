@@ -4,15 +4,15 @@
 
 #### (1) Emergency uses
 
-&emsp;Notwithstanding any provision of this chapter and section 351 of the Public Health Service Act \[42 U.S.C. 262\], and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b) of this section, of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an "emergency use").
+&emsp;Notwithstanding any provision of this chapter and section 351 of the Public Health Service Act \[42 U.S.C. 262\], and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b), of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an "emergency use").
 
 #### (2) Approval status of product
 
 &emsp;An authorization under paragraph (1) may authorize an emergency use of a product that—
 
-&emsp;&emsp;(A) is not approved, licensed, or cleared for commercial distribution under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\] (referred to in this section as an "unapproved product"); or
+&emsp;&emsp;(A) is not approved, licensed, or cleared for commercial distribution under section 355, 360(k), 360b, or 360e of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\] or conditionally approved under section 360ccc of this title (referred to in this section as an "unapproved product"); or
 
-&emsp;&emsp;(B) is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an "unapproved use of an approved product").
+&emsp;&emsp;(B) is approved, conditionally approved under section 360ccc of this title, licensed, or cleared under such a provision, but which use is not under such provision an approved, conditionally approved under section 360ccc of this title, licensed, or cleared use of the product (referred to in this section as an "unapproved use of an approved product").
 
 #### (3) Relation to other uses
 
@@ -58,19 +58,19 @@
 
 #### (B) Disposition of product
 
-&emsp;&emsp;If an authorization under this section with respect to an unapproved product ceases tobe effective as a result of a termination under subparagraph (A) of this paragraph, the Secretary shall consult with the manufacturer of such product with respect to the appropriate disposition of the product.
+&emsp;&emsp;If an authorization under this section with respect to an unapproved product ceases to be effective as a result of a termination under subparagraph (A) of this paragraph, the Secretary shall consult with the manufacturer of such product with respect to the appropriate disposition of the product.
 
 #### (3) Advance notice of termination
 
 &emsp;The Secretary shall provide advance notice that a declaration under this subsection will be terminated. The period of advance notice shall be a period reasonably determined to provide—
 
-&emsp;&emsp;(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2) of this section) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
+&emsp;&emsp;(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2)) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
 
-&emsp;&emsp;(B) in the case of an unapproved use of an approved product, a sufficient period for the disposition of any labeling, or any information under subsection (e)(2)(B)(ii) of this section, as the case may be, that was provided with respect to the emergency use involved.
+&emsp;&emsp;(B) in the case of an unapproved use of an approved product, a sufficient period for the disposition of any labeling, or any information under subsection (e)(2)(B)(ii), as the case may be, that was provided with respect to the emergency use involved.
 
 #### (4) Publication
 
-&emsp;The Secretary shall promptly publish in the Federal Register each declaration, determination,,<sup>1</sup> and advance notice of termination under this subsection.
+&emsp;The Secretary shall promptly publish in the Federal Register each declaration, determination, and advance notice of termination under this subsection.
 
 #### (5) Explanation by Secretary
 
@@ -80,7 +80,7 @@
 
 The Secretary may issue an authorization under this section with respect to the emergency use of a product only if, after consultation with the Assistant Secretary for Preparedness and Response, the Director of the National Institutes of Health, and the Director of the Centers for Disease Control and Prevention (to the extent feasible and appropriate given the applicable circumstances described in subsection (b)(1)), the Secretary concludes—
 
-&emsp;(1) that an agent referred to in a declaration under subsection (b) of this section can cause a serious or life-threatening disease or condition;
+&emsp;(1) that an agent referred to in a declaration under subsection (b) can cause a serious or life-threatening disease or condition;
 
 &emsp;(2) that, based on the totality of scientific evidence available to the Secretary, including data from adequate and well-controlled clinical trials, if available, it is reasonable to believe that—
 
@@ -102,9 +102,9 @@ An authorization of a product under this section shall state—
 
 &emsp;(1) each disease or condition that the product may be used to diagnose, prevent, or treat within the scope of the authorization;
 
-&emsp;(2) the Secretary's conclusions, made under subsection (c)(2)(B) of this section, that the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product; and
+&emsp;(2) the Secretary's conclusions, made under subsection (c)(2)(B), that the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product; and
 
-&emsp;(3) the Secretary's conclusions, made under subsection (c) of this section, concerning the safety and potential effectiveness of the product in diagnosing, preventing, or treating such diseases or conditions, including, to the extent practicable given the circumstances of the emergency, an assessment of the available scientific evidence.
+&emsp;(3) the Secretary's conclusions, made under subsection (c), concerning the safety and potential effectiveness of the product in diagnosing, preventing, or treating such diseases or conditions, including, to the extent practicable given the circumstances of the emergency, an assessment of the available scientific evidence.
 
 #### (e) Conditions of authorization
 
@@ -164,7 +164,7 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;(A) requirements regarding current good manufacturing practice otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including such requirements established under section 351 or 360j(f)(1) of this title, and including relevant conditions prescribed with respect to the product by an order under section 360j(f)(2) of this title;
 
-&emsp;&emsp;(B) requirements established under section 353(b) of this title; and
+&emsp;&emsp;(B) requirements established under subsection (b) or (f) of section 353 of this title or under section 354 of this title; and
 
 &emsp;&emsp;(C) requirements established under section 360j(e) of this title.
 
@@ -180,17 +180,17 @@ An authorization of a product under this section shall state—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an authorization under this section shall be effective until the earlier of the termination of the declaration under subsection (b) of this section or a revocation under subsection (g) of this section.
+&emsp;Except as provided in paragraph (2), an authorization under this section shall be effective until the earlier of the termination of the declaration under subsection (b) or a revocation under subsection (g).
 
 #### (2) Continued use after end of effective period
 
-&emsp;Notwithstanding the termination of the declaration under subsection (b) of this section or a revocation under subsection (g) of this section, an authorization shall continue to be effective to provide for continued use of an unapproved product with respect to a patient to whom it was administered during the period described by paragraph (1), to the extent found necessary by such patient's attending physician.
+&emsp;Notwithstanding the termination of the declaration under subsection (b) or a revocation under subsection (g), an authorization shall continue to be effective to provide for continued use of an unapproved product with respect to a patient to whom, or an animal to which, it was administered during the period described by paragraph (1), to the extent found necessary by such patient's attending physician or by the veterinarian caring for such animal, as applicable.
 
 #### (g) Review and revocation of authorization
 
 #### (1) Review
 
-&emsp;The Secretary shall periodically review the circumstances and the appropriateness of an authorization under this section. As part of such review, the Secretary shall regularly review the progress made with respect to the approval, licensure, or clearance of—
+&emsp;The Secretary shall periodically review the circumstances and the appropriateness of an authorization under this section. As part of such review, the Secretary shall regularly review the progress made with respect to the approval, conditional approval under section 360ccc of this title, licensure, or clearance of—
 
 &emsp;&emsp;(A) an unapproved product for which an authorization was issued under this section; or
 
@@ -210,7 +210,7 @@ An authorization of a product under this section shall state—
 
 #### (1) Publication
 
-&emsp;The Secretary shall promptly publish in the Federal Register a notice of each authorization, and each termination or revocation of an authorization under this section, and an explanation of the reasons therefor (which may include a summary of data or information that has been submitted to the Secretary in an application under section 355(i) of this title or section 360j(g) of this title, even if such summary may indirectly reveal the existence of such application). The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.
+&emsp;The Secretary shall promptly publish in the Federal Register a notice of each authorization, and each termination or revocation of an authorization under this section, and an explanation of the reasons therefor (which may include a summary of data or information that has been submitted to the Secretary in an application under section 355(i) <sup>1</sup> 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application). The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.
 
 #### (2) Confidential information
 
@@ -234,11 +234,11 @@ The following applies with respect to this section:
 
 #### (k) Relation to other provisions
 
-If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\].
+If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i), 360b(j), or 360j(g) of this title or any other provision of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\].
 
 #### (l) Option to carry out authorized activities
 
-Nothing in this section provides the Secretary any authority to require any person to carry out any activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\]. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
+Nothing in this section provides the Secretary any authority to require any person to carry out any activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out anactivity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\]. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
 
 #### (m) Categorization of laboratory tests associated with devices subject to authorization
 
@@ -258,13 +258,29 @@ Nothing in this section provides the Secretary any authority to require any pers
 
 &emsp;A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act \[42 U.S.C. 263a\] notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).
 
-(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179.)
+(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148.)
 
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255, §3088(a)(1)(A), substituted "360b, or 360e" for "or 360e" and inserted "or conditionally approved under section 360ccc of this title" after "Public Health Service Act".
+
+Subsec. (a)(2)(B). Pub. L. 114–255, §3088(a)(1)(B), inserted "conditionally approved under section 360ccc of this title," after "approved," in two places.
+
+Subsec. (b)(4). Pub. L. 114–255, §3088(a)(2), struck out second comma after "determination".
+
+Subsec. (e)(3)(B). Pub. L. 114–255, §3088(a)(3), substituted "subsection (b) or (f) of section 353 of this title or under section 354 of this title" for "section 353(b) of this title".
+
+Subsec. (f)(2). Pub. L. 114–255, §3088(a)(4), inserted ", or an animal to which," after "to a patient to whom" and "or by the veterinarian caring for such animal, as applicable" after "attending physician".
+
+Subsec. (g)(1). Pub. L. 114–255, §3088(a)(5), inserted "conditional approval under section 360ccc of this title," after "approval,".
+
+Subsec. (h)(1). Pub. L. 114–255, §3088(a)(6), substituted "360b(j), or 360j(g) of this title" for "or section 360j(g) of this title".
+
+Subsec. (k). Pub. L. 114–255, §3088(a)(7), substituted "360b(j), or 360j(g) of this title" for "section 360j(g) of this title,".
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 113–5, §302(a)(1)(A), substituted "any provision of this chapter" for "sections 355, 360(k), and 360e of this title".
 
@@ -322,5 +338,5 @@ Subsec. (m). Pub. L. 113–5, §302(a)(9), added subsec. (m).
 
 <b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

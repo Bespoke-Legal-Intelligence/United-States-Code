@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it isnecessary to augment the active forces for any named operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
+Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any named operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
 
 (b)
 
@@ -62,7 +62,7 @@ Considerations for Involuntary Order to Active Duty.—(1) In determining which 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "Individual Ready Reserve mobilization category" means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.
+&emsp;(1) The term "Individual Ready Reserve mobilization category" means, in the case of anyreserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.
 
 &emsp;(2) The term "weapon of mass destruction" has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
 
@@ -210,7 +210,7 @@ This order shall be published in the Federal Register and transmitted to the Con
 
 Ex. Ord. No. 13076, Feb. 24, 1998, 63 F.R. 9719, as amended by Ex. Ord. No. 13286, §17, Feb. 28, 2003, 68 F.R. 10623, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around Southwest Asia. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around Southwest Asia. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

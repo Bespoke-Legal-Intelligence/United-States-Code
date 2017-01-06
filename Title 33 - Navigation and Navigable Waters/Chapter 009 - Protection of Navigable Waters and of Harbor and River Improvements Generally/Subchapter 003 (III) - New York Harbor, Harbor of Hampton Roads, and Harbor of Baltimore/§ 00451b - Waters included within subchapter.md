@@ -12,5 +12,5 @@ For the purposes of this subchapter—
 
 #### Effective Date
 
-Section effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as an Effective Date of 1958 Amendment note under section 441 of this title.
+Section effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as an EffectiveDate of 1958 Amendment note under section 441 of this title.
 

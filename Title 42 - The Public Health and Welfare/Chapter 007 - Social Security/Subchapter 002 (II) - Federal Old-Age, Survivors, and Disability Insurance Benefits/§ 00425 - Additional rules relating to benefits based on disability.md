@@ -6,7 +6,7 @@ If the Commissioner of Social Security, on the basis of information obtained by 
 
 #### (b) Continued payments during rehabilitation program
 
-Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
+Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a)) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
 
 &emsp;(1) such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 (4) The Commissioner shall inform any person who provides authorization pursuant to this clause of the duration and scope of the authorization.
 
-(5) If an individual who applies for or is entitled to benefits under this subchapter refuses to provide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
+(5) If an individual who applies for or is entitled to benefits under this subchapter refuses toprovide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
 
 #### (d) Reporting responsibilities for beneficiaries subject to information exchange with payroll data provider
 
@@ -104,7 +104,7 @@ Effective date.—
 
 &emsp;"(i)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[42 U.S.C. 425(c)(9)\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
+In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[42 U.S.C. 425(c)(9)\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulationsnecessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
 
 &emsp;"(ii)
 
@@ -170,7 +170,7 @@ Concurrent beneficiaries currently under treatment.—In any case in which the i
 
 &emsp;&emsp;"(III)
 
-Concurrent beneficiaries not currently under treatment.—In any case in which the individual is also entitled to benefits under title XVI but, as of 180 days after the date of the enactment of this Act, such individual is not undergoing treatment described in subclause (II), section 225(c)(7) (added by this subsection) shall apply only with respect to benefits for months after the month inwhich treatment required under section 1611(e)(3) of the Social Security Act (as amended by subsection (b)) is available, as determined under regulations of the Secretary of Health and Human Services, and the Secretary notifies such individual of the availability of such treatment and describes in such notification the provisions of section 225(c)(7) of the Social Security Act (added by this subsection)."
+Concurrent beneficiaries not currently under treatment.—In any case in which the individual is also entitled to benefits under title XVI but, as of 180 days after the date of the enactment of this Act, such individual is not undergoing treatment described in subclause (II), section 225(c)(7) (added by this subsection) shall apply only with respect to benefits for months after the month in which treatment required under section 1611(e)(3) of the Social Security Act (as amended by subsection (b)) is available, as determined under regulations of the Secretary of Health and Human Services, and the Secretary notifies such individual of the availability of such treatment and describes in such notification the provisions of section 225(c)(7) of the Social Security Act (added by this subsection)."
 
 #### Demonstration Projects Relating to Referral, Monitoring, and Treatment for Alcoholics or Drug Addicts
 

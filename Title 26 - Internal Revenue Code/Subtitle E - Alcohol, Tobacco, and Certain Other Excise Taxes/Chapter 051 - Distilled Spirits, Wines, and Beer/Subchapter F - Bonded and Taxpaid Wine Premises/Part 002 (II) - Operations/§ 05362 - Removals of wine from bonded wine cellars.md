@@ -28,7 +28,7 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (5) Bonded premises
 
-&emsp;For purposes of this subsection, the term "bonded premises" means a bonded wine cellar or the bonded premises of a distilled spirits plant.
+&emsp;For purposes of this subsection, the term "bonded premises" means a bonded wine cellaror the bonded premises of a distilled spirits plant.
 
 #### (c) Withdrawals of wine free of tax or without payment of tax
 

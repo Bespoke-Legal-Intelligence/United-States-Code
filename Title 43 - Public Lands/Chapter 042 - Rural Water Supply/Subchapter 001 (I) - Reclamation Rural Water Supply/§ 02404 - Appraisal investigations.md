@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On request of a non-Federal project entity with respect to a proposed rural water supplyproject that meets the eligibility criteria published under section 2402(c) of this title and subject to the availability of appropriations, the Secretary may—
+On request of a non-Federal project entity with respect to a proposed rural water supply project that meets the eligibility criteria published under section 2402(c) of this title and subject to the availability of appropriations, the Secretary may—
 
 &emsp;(1) receive and review an appraisal investigation that is—
 
@@ -114,7 +114,7 @@ Once the Secretary has determined that an investigation provides the information
 
 #### (C) Form
 
-&emsp;&emsp;The non-Federal share under subparagraph (A) may be in the form of any in-kind services that the Secretary determines would contribute substantially toward the conduct and completion of the appraisal investigation.
+&emsp;&emsp;The non-Federal share under subparagraph (A) may be in the form of any in-kind services that the Secretary determines would contribute substantially toward the conductand completion of the appraisal investigation.
 
 #### (h) Consultation; identification of funding sources
 

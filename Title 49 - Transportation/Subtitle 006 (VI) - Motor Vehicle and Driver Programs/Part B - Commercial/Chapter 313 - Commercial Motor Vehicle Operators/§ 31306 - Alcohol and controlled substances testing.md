@@ -50,7 +50,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
-&emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
+&emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath andbody fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
 &emsp;(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
 
@@ -58,7 +58,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 (d)
 
-Testing as Part of Medical Examination.—The Secretary of Transportation mayprovide that testing under subsection (a) of this section for operators subject to subpart E of part 391 of title 49, Code of Federal Regulations, be conducted as part of the medical examination required under that subpart.
+Testing as Part of Medical Examination.—The Secretary of Transportation may provide that testing under subsection (a) of this section for operators subject to subpart E of part 391 of title 49, Code of Federal Regulations, be conducted as part of the medical examination required under that subpart.
 
 (e)
 

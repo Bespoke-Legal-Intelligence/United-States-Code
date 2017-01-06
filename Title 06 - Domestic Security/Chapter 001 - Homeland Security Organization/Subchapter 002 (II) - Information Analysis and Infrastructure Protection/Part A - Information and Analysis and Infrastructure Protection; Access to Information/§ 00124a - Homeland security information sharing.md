@@ -42,7 +42,7 @@ For each intelligence component of the Department, the Secretary shall designate
 
 &emsp;The Under Secretary for Intelligence and Analysis shall—
 
-&emsp;&emsp;(A) on an ongoing basis, evaluate how employees of the Office of Intelligence andAnalysis and the intelligence components of the Department are utilizing homeland security information or national intelligence, sharing information within the Department, as described in this subchapter, and participating in the information sharing environment established under section 485 of this title; and
+&emsp;&emsp;(A) on an ongoing basis, evaluate how employees of the Office of Intelligence and Analysis and the intelligence components of the Department are utilizing homeland security information or national intelligence, sharing information within the Department, as described in this subchapter, and participating in the information sharing environment established under section 485 of this title; and
 
 &emsp;&emsp;(B) provide to the appropriate component heads regular reports regarding the evaluations under subparagraph (A).
 

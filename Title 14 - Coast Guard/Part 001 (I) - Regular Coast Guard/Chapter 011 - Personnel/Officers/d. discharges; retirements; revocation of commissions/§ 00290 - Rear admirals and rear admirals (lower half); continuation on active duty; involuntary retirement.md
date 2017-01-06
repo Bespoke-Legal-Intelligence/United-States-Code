@@ -1,12 +1,12 @@
 ### §290. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement
 
-(a) The Secretary shall from time to time convene boards to recommend for continuation on active duty the most senior officers on the active duty promotion list serving in the grade of rear admiral (lower half) or rear admiral who have not previously been considered for continuation in that grade. Officers, other than the Commandant, serving for the time being or who have served in or above the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral. A board shall consist of at least five officers serving in the grade of vice admiral or as rear admirals previously continued. Boards shall be convened frequently enough to assure that each officer serving in the grade of rear admiral (lower half) or rear admiral is subject to consideration for continuation during a promotion year in which that officer completes not less than four or more than five years combined service in the grades of rear admiral (lower half) and rear admiral.
+(a) The Secretary shall from time to time convene boards to recommend for continuation on active duty the most senior officers on the active duty promotion list serving in the grade of rear admiral (lower half) or rear admiral who have not previously been considered for continuation in that grade. Officers, other than the Commandant, serving for the time being or who have served in or above the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral. A board shall consist of at least 5 officers (other than the Commandant) serving in the grade of admiral or vice admiral or as rear admirals previously continued. Boards shall be convened frequently enough to assure that each officer serving in the grade of rear admiral (lower half) or rear admiral is subject to consideration for continuation during a promotion year in which that officer completes not less than four or more than five years combined service in the grades of rear admiral (lower half) and rear admiral.
 
 (b) The Secretary shall, based upon the needs of the service, furnish each board convened under this section with the number of officers to be considered for continuation on active duty. The number that may be recommended for continuation shall be not less than 50 per centum or more than 75 per centum of the number of officers being considered for continuation.
 
 (c) The provisions of sections 253, 254, 258, and 260 of this title relating to selection and continuation boards shall to the extent they are not inconsistent with the provisions of this section, apply to boards convened under this section.
 
-(d) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After final review the Secretary shall submit the report of the board to the President for approval.
+(d) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings inrevision and resubmission to the Secretary. After final review the Secretary shall submit the report of the board to the President for approval.
 
 (e) Each officer who is considered but not continued on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on July 1 of the promotion year immediately following the promotion year in which the report of the continuation board convened under this section is approved.
 
@@ -18,9 +18,11 @@
 
 (2) The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 92–451, §1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, §1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, §6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, §2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, §5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, §205(d), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 111–281, title V, §511(e), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 112–213, title II, §217(5), Dec. 20, 2012, 126 Stat. 1557.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 92–451, §1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, §1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, §6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, §2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, §5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, §205(d), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 111–281, title V, §511(e), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 112–213, title II, §217(5), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. C, title XXXV, §3522, Dec. 23, 2016, 130 Stat. 2793.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328 substituted "5 officers (other than the Commandant) serving in the grade of admiral or vice admiral" for "five officers serving in the grade of vice admiral".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted "in or above the grade of vice admiral" for "in the grade of vice admiral" in second sentence.
 
@@ -60,7 +62,7 @@ Subsec. (a). Pub. L. 97–417, §2(9)(A)(ii), substituted "commodore or rear adm
 
 Subsecs. (a), (b). Pub. L. 92–451 added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (f) and (g), respectively.
 
-Subsec. (c). Pub. L. 92–451 added subsec. (c). Former subsec. (c) provided that provisions of former subsecs. (a) and (b) were inapplicable to officers serving as Commandants.
+Subsec. (c). Pub. L. 92–451 added subsec. (c). Former subsec. (c) provided that provisions of former subsecs.\(a) and (b) were inapplicable to officers serving as Commandants.
 
 Subsecs. (d), (e). Pub. L. 92–451 added subsecs. (d) and (e).
 
@@ -74,5 +76,5 @@ Pub. L. 92–451, §3, Oct. 2, 1972, 86 Stat. 757, provided that: "This Act \[en
 
 #### Retired Pay on or Prior to September 24, 1963
 
-Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retiredpay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
+Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
 

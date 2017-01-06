@@ -40,7 +40,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 The Secretary of the Treasury is authorized to include in such rules and regulations any of the provisions of section 1484 or 1485 of this title (relating, respectively, to entry and to declaration of merchandise generally).
 
-(June 17, 1930, ch. 497, title IV, §498, 46 Stat. 728; Aug. 8, 1953, ch. 397, §16(d), (e), 67 Stat. 517; Pub. L. 96–609, title II, §202, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 98–573, title II, §206, Oct. 30, 1984, 98 Stat. 2975; Pub. L. 100–418, title I, §1214(h)(5), Aug. 23,1988, 102 Stat. 1157; Pub. L. 103–182, title VI, §662, Dec. 8, 1993, 107 Stat. 2214.)
+(June 17, 1930, ch. 497, title IV, §498, 46 Stat. 728; Aug. 8, 1953, ch. 397, §16(d), (e), 67 Stat. 517; Pub. L. 96–609, title II, §202, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 98–573, title II, §206, Oct. 30, 1984, 98 Stat. 2975; Pub. L. 100–418, title I, §1214(h)(5), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 103–182, title VI, §662, Dec. 8, 1993, 107 Stat. 2214.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ Subsec. (a)(11). Act Aug. 8, 1953, §16(e), substituted "paragraph 1631 of secti
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

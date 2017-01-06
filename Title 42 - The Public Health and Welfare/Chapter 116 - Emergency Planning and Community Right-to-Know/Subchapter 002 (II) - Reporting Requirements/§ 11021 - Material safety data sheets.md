@@ -16,7 +16,7 @@
 
 &emsp;(A) The list of chemicals referred to in paragraph (1) shall include each of the following:
 
-&emsp;&emsp;(i) A list of the hazardous chemicals for which a material safety data sheet is required under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] andregulations promulgated under that Act, grouped in categories of health and physical hazards as set forth under such Act and regulations promulgated under such Act, or in such other categories as the Administrator may prescribe under subparagraph (B).
+&emsp;&emsp;(i) A list of the hazardous chemicals for which a material safety data sheet is required under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act, grouped in categories of health and physical hazards as set forth under such Act and regulations promulgated under such Act, or in such other categories as the Administrator may prescribe under subparagraph (B).
 
 &emsp;&emsp;(ii) The chemical name or the common name of each such chemical as provided on the material safety data sheet.
 
@@ -40,7 +40,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 #### (1) To local emergency planning committee
 
-&emsp;If an owner or operator of a facility submits a list of chemicals under subsection (a)(1) of this section, the owner or operator, upon request by the local emergency planning committee, shall submit the material safety data sheet for any chemical on the list to such committee.
+&emsp;If an owner or operator of a facility submits a list of chemicals under subsection (a)(1), the owner or operator, upon request by the local emergency planning committee, shall submit the material safety data sheet for any chemical on the list to such committee.
 
 #### (2) To public
 
@@ -54,7 +54,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 &emsp;(B) 3 months after the owner or operator of a facility is required to prepare or have available a material safety data sheet for the chemical under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act.
 
-(2) Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a) of this section, a revised sheet shall be provided to such person.
+(2) Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a), a revised sheet shall be provided to such person.
 
 #### (e) "Hazardous chemical" defined
 

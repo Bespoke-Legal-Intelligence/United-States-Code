@@ -49,7 +49,7 @@
 
 <b>2002</b>—Pub. L. 107–273, div. C, title I, §11020(b)(1)(B), Nov. 2, 2002, 116 Stat. 1827, added item 1369.
 
-<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A-552, substituted "trademarks" for "trade-marks" in item 1338.
+<b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, substituted "trademarks" for "trade-marks" in item 1338.
 
 <b>1998</b>—Pub. L. 105–304, title V, §503(b)(2)(B), Oct. 28, 1998, 112 Stat. 2917, inserted "designs," after "mask works," in item 1338.
 

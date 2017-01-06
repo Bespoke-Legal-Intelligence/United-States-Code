@@ -198,7 +198,7 @@ Pub. L. 106–246 substituted "Department of Defense" for "Federal".
 
 Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(c)\], added subsec. (m).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the 'National Guard Challenge Program') to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth."
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the 'National Guard Challenge Program') to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth."
 
 Subsec. (b). Pub. L. 106–65, §579(b), substituted "$62,500,000" for "$50,000,000".
 

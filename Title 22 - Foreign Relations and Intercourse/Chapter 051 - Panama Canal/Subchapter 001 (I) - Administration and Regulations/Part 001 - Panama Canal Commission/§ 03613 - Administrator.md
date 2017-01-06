@@ -26,7 +26,7 @@ If before the Canal Transfer Date the Republic of Panama appoints as the Adminis
 
 &emsp;&emsp;(D) that individual is not subject to sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978 (5 U.S.C. App.), with respect to compensation received for, and service in, the position of Administrator of the Panama Canal Authority; and
 
-&emsp;(2) effective upon termination of the individual's appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is not subject to section 207 of title 18, with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
+&emsp;(2) effective upon termination of the individual's appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is notsubject to section 207 of title 18, with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
 
 (Pub. L. 96–70, title I, §1103, Sept. 27, 1979, 93 Stat. 457; Pub. L. 104–201, div. C, title XXXV, §3523(a), Sept. 23, 1996, 110 Stat. 2860; Pub. L. 105–85, div. C, title XXXV, §3521, Nov. 18, 1997, 111 Stat. 2063.)
 

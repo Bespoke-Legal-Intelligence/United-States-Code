@@ -4,17 +4,17 @@
 
 The Corporation shall provide, directly or through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
 
-&emsp;(1) the effectiveness of programs receiving assistance under the national service laws in achieving stated goals and the costs associated with such programs, including an evaluation of each such program's performance based on the performance levels established under subsection (k); and
+&emsp;(1) the effectiveness of programs receiving assistance under the national service laws in achieving stated goals and the costs associated with such programs, including an evaluation of each such program's performance basedon the performance levels established under subsection (k); and
 
 &emsp;(2) the effectiveness of the structure and mechanisms for delivery of services, such as the effective utilization of the participants' time, the management of the participants, and the ease with which recipients were able to receive services, to maximize the cost effectiveness and the impact of such programs.
 
 #### (b) Comparisons
 
-The Corporation shall provide for inclusion in the evaluations required under subsection (a) of this section, where appropriate, comparisons of participants in such programs with individuals who have not participated in such programs.
+The Corporation shall provide for inclusion in the evaluations required under subsection (a), where appropriate, comparisons of participants in such programs with individuals who have not participated in such programs.
 
 #### (c) Conducting evaluations
 
-Evaluations of programs under subsection (a) of this section shall be conducted by individuals who are not directly involved in the administration of such program.
+Evaluations of programs under subsection (a) shall be conducted by individuals who are not directly involved in the administration of such program.
 
 #### (d) Standards
 
@@ -26,11 +26,11 @@ In evaluating a program receiving assistance under the national service laws, th
 
 #### (f) Comparison of program models
 
-The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described in subsection (g) of this section including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
+The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described in subsection (g) including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
 
 #### (g) Program objectives
 
-The Corporation shall ensure that programs that receive assistance under division C of this subchapter are evaluated to determine their effectiveness in—
+The Corporation shall ensure that programs that receive assistance under division C are evaluated to determine their effectiveness in—
 
 &emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
 
@@ -78,7 +78,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall, on an annual basis, arrange for an independent evaluation of the programs assisted under division C of this subchapter.
+&emsp;&emsp;The Corporation shall, on an annual basis, arrange for an independent evaluation of the programs assisted under division C.
 
 #### (B) Participants
 
@@ -166,7 +166,7 @@ If, after a period for correction as approved by the Corporation in accordance w
 
 #### (n) Reports
 
-The Corporation shall submit to the authorizing committees not later than 2 years after April 21, 2009, and annually thereafter, a report containing information on the number of—
+The Corporation shall submit to the authorizing committees not later than 2 years afterApril 21, 2009, and annually thereafter, a report containing information on the number of—
 
 &emsp;(1) recipients of assistance under the national service laws implementing corrective action plans under subsection (l)(1);
 
@@ -226,7 +226,7 @@ Subsec. (f). Pub. L. 103–82, §402(b)(1), substituted "Corporation" for "Commi
 
 Subsec. (g). Pub. L. 103–82, §402(b)(1), substituted "Corporation" for "Commission" in introductory provisions.
 
-Pub. L. 103–82, §118(2)(A), substituted "division C of this subchapter" for "part D of this subchapter" in introductory provisions.
+Pub. L. 103–82, §118(2)(A), substituted "division C" for "part D" in introductory provisions.
 
 Subsec. (g)(3), (9). Pub. L. 103–82, §118(2)(B), substituted "National Senior Volunteer Corps programs" for "older American volunteer programs".
 

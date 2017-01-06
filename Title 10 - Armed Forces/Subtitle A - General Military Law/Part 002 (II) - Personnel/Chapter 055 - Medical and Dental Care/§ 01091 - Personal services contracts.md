@@ -12,7 +12,7 @@ Limitation on Amount of Compensation.—In no case may the total amount of compe
 
 (c)
 
-Procedures.—(1) The Secretary shall establish by regulation procedures for entering into personal services contracts with individualsunder subsection (a). At a minimum, such procedures shall assure—
+Procedures.—(1) The Secretary shall establish by regulation procedures for entering into personal services contracts with individuals under subsection (a). At a minimum, such procedures shall assure—
 
 &emsp;(A) the provision of adequate notice of contract opportunities to individuals residing in the area of the medical treatment facility involved; and
 
@@ -30,7 +30,7 @@ Procedures.—(1) The Secretary shall establish by regulation procedures for ent
 
 Exceptions.—The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, §1 \[\[div. A\], title VII, §705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, §721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, §713(b), Jan. 2, 2013, 126 Stat. 1803.)
+(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30,1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, §1 \[\[div. A\], title VII, §705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, §721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, §713(b), Jan. 2, 2013, 126 Stat. 1803.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Pub. L. 98–94, title IX, §932(f), Sept. 24, 1983, 97 Stat. 650, provided that
 
 #### Acquisition Strategy for Health Care Professional Staffing Services
 
-Pub. L. 113–291, div. A, title VII, §725, Dec. 19, 2014, 128 Stat. 3418, provided that:
+Pub. L. 114–328, div. A, title VII, §727(a)–(c), Dec. 23, 2016, 130 Stat. 2232, 2233, provided that:
 
 "(a)
 
@@ -80,29 +80,49 @@ Acquisition Strategy.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall develop and carry out an acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities.
+In general.—The Secretary of Defense shall develop and carry out a performance-based, strategic sourcing acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities located in a State.
 
 &emsp;"(2)
 
 Elements.—The acquisition strategy under paragraph (1) shall include the following:
 
-&emsp;&emsp;"(A) Identification of the responsibilities of the military departments and elements of the Department of Defense in carrying out such strategy.
+&emsp;&emsp;"(A) Except as provided by subparagraph (B), a requirement that all the military medical treatment facilities that provide direct care use contracts described under paragraph (1).
 
-&emsp;&emsp;"(B) Methods to analyze, using reliable and detailed data covering the entire Department, the amount of funds expended on contracts for the services of health care professional staff.
+&emsp;&emsp;"(B) A process for a military medical treatment facility to obtain a waiver of the requirement under subparagraph (A) in order to use an acquisition strategy not described in paragraph (1).
 
-&emsp;&emsp;"(C) Methods to identify opportunities to consolidate requirements for such services and reduce cost.
+&emsp;&emsp;"(C) Identification of the responsibilities of the military departments and the elements of the Department of Defense in carrying out such strategy.
 
-&emsp;&emsp;"(D) Methods to measure cost savings that are realized by using such contracts instead of purchased care.
+&emsp;&emsp;"(D) Projection of the demand by covered beneficiaries for health care services, including with respect to primary care and expanded-hours urgent care services.
 
-&emsp;&emsp;"(E) Metrics to determine the effectiveness of such strategy.
+&emsp;&emsp;"(E) Estimation of the workload gaps at military medical treatment facilities for health care services, including with respect to primary care and expanded-hours urgent care services.
 
-&emsp;&emsp;"(F) Metrics to evaluate the success of the strategy in achieving its objectives, including metrics to assess the effects of the strategy on the timeliness of beneficiary access to professional health care services in military medical treatment facilities.
+&emsp;&emsp;"(F) Methods to analyze, using reliable and detailed data covering the entire direct care component of the military health system, the amount of funds expended on contracts for the services of health care professional staff.
 
-&emsp;&emsp;"(G) Such other matters as the Secretary considers appropriate.
+&emsp;&emsp;"(G) Methods to identify opportunities to consolidate requirements for such services and reduce cost.
+
+&emsp;&emsp;"(H) Methods to measure cost savings that are realized by using such contracts instead of purchased care.
+
+&emsp;&emsp;"(I) Metrics to determine the effectiveness of such strategy.
+
+&emsp;&emsp;"(J) Metrics to evaluate the success of the strategy in achieving its objectives, including metrics to assess the effects of the strategy on the timeliness of beneficiary access to professional health care services in military medical treatment facilities.
+
+&emsp;&emsp;"(K) Such other matters as the Secretary considers appropriate.
 
 "(b)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of implementing the acquisition strategy under paragraph (1) of subsection (a), including how each element under subparagraphs (A) through (G) of paragraph (2) of such subsection is being carried out."
+Report.—Not later than July 1, 2017, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the status of implementing the acquisition strategy under paragraph (1) of subsection (a), including how each element under subparagraphs (A) through (K) of paragraph (2) of such subsection is being carried out.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered beneficiary' has the meaning given that term in section 1072 of title 10, United States Code.
+
+&emsp;"(2) The term 'State' means the several States and the District of Columbia."
+
+#### Acquisition Strategy for Health Care Professional Staffing Services
+
+Pub. L. 113–291, div. A, title VII, §725, Dec. 19, 2014, 128 Stat. 3418, required the Secretary of Defense to develop and carry out an acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities, prior to repeal by Pub. L. 114–328, div. A, title VII, §727(d), Dec. 23, 2016, 130 Stat. 2233.
 
 #### Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification
 

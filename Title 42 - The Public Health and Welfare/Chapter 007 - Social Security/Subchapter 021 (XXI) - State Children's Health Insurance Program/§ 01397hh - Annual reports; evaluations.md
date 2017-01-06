@@ -32,9 +32,9 @@ Subject to subsection (e), the State shall—
 
 &emsp;&emsp;&emsp;(vii) the sources of non-Federal funding used in the State plan.
 
-&emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in the State in increasing the availability of affordable quality individual and family health insurance for children.
+&emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in theState in increasing the availability of affordable quality individual and family health insurance for children.
 
-&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under thissubchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
+&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under this subchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
 
 &emsp;&emsp;(E) An analysis of changes and trends in the State that affect the provision of accessible, affordable, quality health insurance and health care to children.
 
@@ -60,13 +60,13 @@ Subject to subsection (e), the State shall—
 
 #### (3) Matters included
 
-&emsp;In addition to the elements described in subsection (b)(1) of this section, the evaluation conducted under this subsection shall include each of the following:
+&emsp;In addition to the elements described in subsection (b)(1), the evaluation conducted under this subsection shall include each of the following:
 
 &emsp;&emsp;(A) Surveys of the target population (enrollees, disenrollees, and individuals eligible for but not enrolled in the program under this subchapter).
 
-&emsp;&emsp;(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX of this chapter), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX of this chapter but have not been enrolled previously in the medicaid program under that subchapter.
+&emsp;&emsp;(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX but have not been enrolled previously in the medicaid program under that subchapter.
 
-&emsp;&emsp;(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX of this chapter are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
+&emsp;&emsp;(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
 
 &emsp;&emsp;(D) An assessment of the effect of cost-sharing on utilization, enrollment, and coverage retention.
 
@@ -102,7 +102,7 @@ For the purpose of evaluating and auditing the program established under this su
 
 The State shall include the following information in the annual report required under subsection (a):
 
-&emsp;(1) Eligibility criteria, enrollment, and retention data (including data with respect to continuity of coverage or duration of benefits).
+&emsp;(1) Eligibility criteria, enrollment, and retention data (including data with respect tocontinuity of coverage or duration of benefits).
 
 &emsp;(2) Data regarding the extent to which the State uses process measures with respect to determining the eligibility of children under the State child health plan, including measures such as 12-month continuous eligibility, self-declaration of income for applications or renewals, or presumptive eligibility.
 
@@ -156,7 +156,7 @@ Pub. L. 111–3, §402(a)(2), added subsec. (e) relating to information required
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
 Amendment by section 501(e)(2) of Pub. L. 111–3 effective for annual reports submitted for years beginning after Feb. 4, 2009, see section 501(e)(3) of Pub. L. 111–3, set out as a note under section 1396a of this title.
 

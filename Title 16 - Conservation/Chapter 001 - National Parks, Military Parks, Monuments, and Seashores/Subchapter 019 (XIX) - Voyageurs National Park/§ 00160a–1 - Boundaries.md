@@ -16,13 +16,13 @@ Except as provided in subsection (b) of this section, the park shall include the
 
 &emsp;(D) add approximately 120 acres owned by the State of Minnesota, being a strip of land through that portion of section 1, township 68 north, range 20 west, fourth principal meridian, which is parallel to and 400 feet on both sides of the unimproved road extending northward from the Ash River Trail as such road crosses each section; and
 
-&emsp;(E) subject to the provisions of paragraph (2), delete approximately 1,000 acres at Black Bay and convey such lands to the State of Minnesota.
+&emsp;(E) subject to the provisions of paragraph (2), delete approximately 1,000 acres at BlackBay and convey such lands to the State of Minnesota.
 
 > All of the aforementioned boundary changes if accomplished shall be accomplished such that the boundary of the park shall conform to that generally depicted on the drawing entitled "Boundary, Voyageurs National Park, United States Department of the Interior, National Park Service", numbered 172–80, 008–MWR, and dated November 1981, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
 (2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless, prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
 
-&emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land describedin paragraph 1(E) <sup>1</sup> shall revert to the United States for administration by the Secretary as part of the park; and
+&emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph 1(E) <sup>1</sup> shall revert to the United States for administration by the Secretary as part of the park; and
 
 &emsp;(B) enters into a recordable agreement satisfactory to the Secretary which provides that—
 

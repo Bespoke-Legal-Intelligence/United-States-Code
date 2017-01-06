@@ -2,7 +2,7 @@
 
 #### (a) Management objectives
 
-Consistent with the provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
+Consistent with the provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
 
 &emsp;(1) To protect, conserve, utilize, and maintain the highest productive potential on Indian agricultural lands through the application of sound conservation practices and techniques. These practices and techniques shall be applied to planning, development, inventorying, classification, and management of agricultural resources.
 
@@ -10,7 +10,7 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 &emsp;(3) To manage agricultural resources consistent with integrated resource management plans in order to protect and maintain other values such as wildlife, fisheries, cultural resources, recreation and to regulate water runoff and minimize soil erosion.
 
-&emsp;(4) To enable Indian farmers and ranchers to maximize the potential benefits available to them through their land by providing technical assistance, training, and education in conservation practices, management and economics of agribusiness, sources and use of credit and marketing of agricultural products, and other applicable subject areas.
+&emsp;(4) To enable Indian farmers and ranchers to maximize the potential benefits available tothem through their land by providing technical assistance, training, and education in conservation practices, management and economics of agribusiness, sources and use of credit and marketing of agricultural products, and other applicable subject areas.
 
 &emsp;(5) To develop Indian agricultural lands and associated value-added industries of Indians and Indian tribes to promote self-sustaining communities.
 
@@ -48,5 +48,5 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

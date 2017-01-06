@@ -30,13 +30,13 @@ The chief State election official of a State shall make the forms described in s
 
 #### (d) Undelivered notices
 
-If a notice of the disposition of a mail voter registration application under section 20507(a)(2) of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title.
+If a notice of the disposition of a mail voter registration application under section 20507(a)(2)of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title.
 
 (Pub. L. 103–31, §6, May 20, 1993, 107 Stat. 79.)
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (c)(2)(A), is Pub. L.99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to chapter 203 (§20301 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (c)(2)(A), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to chapter 203 (§20301 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

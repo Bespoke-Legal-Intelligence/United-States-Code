@@ -4,7 +4,7 @@
 
 #### (1) Issuance of certificates by the Secretary of State
 
-&emsp;The Secretary of State shall, with respect to each Convention adoption, issue a certificate to the adoptive citizen parent domiciled in the United States that the adoption has been granted or, in the case of a prospective adoptive citizen parent, that legal custody of the child has been granted to the citizen parent for purposes of emigration and adoption, pursuant to the Convention and this chapter, if the Secretary of State—
+&emsp;The Secretary of State shall, with respect to each Convention adoption, issue a certificate to the adoptive citizen parent domiciled in the United States that the adoption has beengranted or, in the case of a prospective adoptive citizen parent, that legal custody of the child has been granted to the citizen parent for purposes of emigration and adoption, pursuant to the Convention and this chapter, if the Secretary of State—
 
 &emsp;&emsp;(A) receives appropriate notification from the central authority of such child's country of origin; and
 
@@ -20,7 +20,7 @@ A final adoption in another Convention country, certified by the Secretary of St
 
 #### (c) Condition on finalization of Convention adoption by State court
 
-In the case of a child who has entered the United States from another Convention country for the purpose of adoption, an order declaring the adoption final shall not be entered unless the Secretary of State has issued the certificate provided for in subsection (a) of this section with respect to the adoption.
+In the case of a child who has entered the United States from another Convention country for the purpose of adoption, an order declaring the adoption final shall not be entered unless the Secretary of State has issued the certificate provided for in subsection (a) with respect to the adoption.
 
 (Pub. L. 106–279, title III, §301, Oct. 6, 2000, 114 Stat. 837.)
 

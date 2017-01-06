@@ -6,7 +6,7 @@
 
 (c) In assigning judges or justices to sit on such division of the court, priority shall be given to senior circuit judges and retired justices.
 
-(d) The Chief Justice of the United States shall designate and assign three circuit court judges or justices, one of whom shall be a judge of the United States Court of Appeals for the District of Columbia, to such division of the court. Not more than one judge or justice or senior or retired judge or justice may be named to such division from a particular court.
+(d) The Chief Justice of the United States shall designate and assign three circuit courtjudges or justices, one of whom shall be a judge of the United States Court of Appeals for the District of Columbia, to such division of the court. Not more than one judge or justice or senior or retired judge or justice may be named to such division from a particular court.
 
 (e) Any vacancy in such division of the court shall be filled only for the remainder of the two-year period in which such vacancy occurs and in the same manner as initial assignments to such division were made.
 

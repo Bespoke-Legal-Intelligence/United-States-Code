@@ -1,0 +1,6 @@
+### §725. Omitted
+
+#### Codification
+
+Section, act Aug. 23, 1954, ch. 831, §5, 68 Stat. 769, which provided for the revocation, effective on the date of the proclamation, of the corporate charter that was ratified on Oct. 17, 1939, was omitted from the Code as being of special and not general application.
+

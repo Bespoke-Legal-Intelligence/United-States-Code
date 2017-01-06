@@ -32,7 +32,7 @@ As used in this chapter:
 
 #### (8) Order
 
-&emsp;The term "order" means a lime research, promotion, and consumer information orderissued by the Secretary under section 6203(a) of this title.
+&emsp;The term "order" means a lime research, promotion, and consumer information order issued by the Secretary under section 6203(a) of this title.
 
 #### (9) Person
 

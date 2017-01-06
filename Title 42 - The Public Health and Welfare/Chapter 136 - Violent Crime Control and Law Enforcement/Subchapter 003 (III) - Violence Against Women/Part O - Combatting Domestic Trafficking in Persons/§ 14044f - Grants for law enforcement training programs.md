@@ -42,7 +42,7 @@ A grant awarded under this section shall be used to—
 
 #### (2) Nonexclusivity
 
-&emsp;Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c) of this section.
+&emsp;Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c).
 
 #### (e) Authorization of appropriations
 

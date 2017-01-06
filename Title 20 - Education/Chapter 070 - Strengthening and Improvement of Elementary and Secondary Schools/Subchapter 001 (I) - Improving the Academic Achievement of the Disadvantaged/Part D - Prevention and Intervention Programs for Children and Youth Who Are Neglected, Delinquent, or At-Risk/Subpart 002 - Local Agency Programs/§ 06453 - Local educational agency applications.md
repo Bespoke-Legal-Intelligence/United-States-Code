@@ -12,7 +12,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(3) as appropriate, a description of how participating schools will coordinate with facilities working with delinquent children and youth to ensure that such children and youth are participating in an education program comparable to one operating in the local school such youth would attend;
 
-&emsp;(4) a description of the program operated by participating schools to facilitate the successful transition of children and youth returning from correctional facilities and, as appropriate, the types of services that such schoolswill provide such children and youth and other at-risk children and youth;
+&emsp;(4) a description of the program operated by participating schools to facilitate the successful transition of children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;
 
 &emsp;(5) a description of the characteristics (including learning difficulties, substance abuse problems, and other special needs) of the children and youth who will be returning from correctional facilities and, as appropriate, other at-risk children and youth expected to be served by the program, and a description of how the school will coordinate existing educational programs to meet the unique educational needs of such children and youth;
 

@@ -14,7 +14,7 @@ The burden of proof in any hearing conducted under subsection (b) shall be on th
 
 #### (d) Determination
 
-Based upon the evidence presented at a hearing under subsection (b), the cease and desist order involved may be affirmed, modified, or set aside by the Secretary in whole or in part.
+Based upon the evidence presented at a hearing under subsection (b), the cease and desistorder involved may be affirmed, modified, or set aside by the Secretary in whole or in part.
 
 #### (e) Seizure
 

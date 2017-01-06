@@ -32,7 +32,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 #### (b) Region mergers; limitation
 
-The Secretary may, on request made within one year of December 18, 1971, by representativeand responsible leaders of the Native associations listed in subsection (a), merge two or more of the twelve regions: <i>Provided</i>, That the twelve regions may not be reduced to less than seven, and there may be no fewer than seven Regional Corporations.
+The Secretary may, on request made within one year of December 18, 1971, by representative and responsible leaders of the Native associations listed in subsection (a), merge two or more of the twelve regions: <i>Provided</i>, That the twelve regions may not be reduced to less than seven, and there may be no fewer than seven Regional Corporations.
 
 #### (c) Establishment of thirteenth region for nonresident Natives; majority vote; Regional Corporation for thirteenth region
 
@@ -54,7 +54,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 #### (1) Settlement Common Stock
 
-&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.
+&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled inthe region pursuant to section 1604 of this title.
 
 &emsp;(B)(i) A Regional Corporation may amend its articles of incorporation to authorize the issuance of additional shares of Settlement Common Stock to—
 
@@ -160,7 +160,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;(A)(i) No shares of stock issued pursuant to paragraphs (1)(C) and (2) shall carry rights to share in distributions made to shareholders pursuant to subsections (j) and (m). No shares of stock issued pursuant to paragraph (1)(B) shall carry such rights unless authorized pursuant to paragraph (1)(B)(iv).
 
-&emsp;(ii) Notwithstanding the issuance of additional shares of stock pursuant to paragraphs <sup>1</sup>\(1)(B), (1)(C), or (2), a Regional Corporation shall apply the ratio last computed pursuant to subsection (m) prior to February 3, 1988, for purposes of distributing funds pursuant to subsections (j) and (m).
+&emsp;(ii) Notwithstanding the issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or (2), a Regional Corporation shall apply the ratio last computed pursuant to subsection (m) prior to February 3, 1988, for purposes of distributing funds pursuant to subsections (j) and (m).
 
 &emsp;(B) The issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or (2) shall not affect the division and distribution of revenues pursuant to subsection (i).
 
@@ -354,7 +354,7 @@ The Regional Corporation may undertake on behalf of one or more of the Village C
 
 #### (o) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
 
-The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
+The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports,files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
 
 #### (p) Federal-State conflict of laws
 

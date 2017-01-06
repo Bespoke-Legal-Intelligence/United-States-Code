@@ -36,7 +36,7 @@ In this part:
 
 #### (3) Eligible entity
 
-&emsp;The term "eligible entity" means a local educational agency, community-based organization, Indian tribe or tribal organization (as such terms are defined in section 450b of title 25), another public or private entity, or a consortium of 2 or more such agencies, organizations, or entities.
+&emsp;The term "eligible entity" means a local educational agency, community-based organization, Indian tribe or tribal organization (as such terms are defined in section 5304 of title 25), another public or private entity, or a consortium of 2 or more such agencies, organizations, or entities.
 
 #### (4) External organization
 
@@ -50,7 +50,7 @@ In this part:
 
 &emsp;The term "rigorous peer-review process" means a process by which—
 
-&emsp;&emsp;(A) employees of a State educational agency who are familiar with the programs andactivities assisted under this part review all applications that the State receives for awards under this part for completeness and applicant eligibility;
+&emsp;&emsp;(A) employees of a State educational agency who are familiar with the programs and activities assisted under this part review all applications that the State receives for awards under this part for completeness and applicant eligibility;
 
 &emsp;&emsp;(B) the State educational agency selects peer reviewers for such applications, who shall—
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may, through representative sampling and other appropriate methodologies, provide for the continuous collection of data on the incidence in the United States of cases of acquired immune deficiency syndrome and of cases of infection with the etiologic agent for such syndrome. The Secretary may carry out the program of data collection directly or through cooperative agreements and contracts with public and nonprofit private entities.
 
-(2) The Secretary shall encourage each State to enter into a cooperative agreement or contract under paragraph (1) with the Secretary in order to facilitate the prompt collection of the most recent accurate data on the incidence of cases described in such paragraph.
+(2) The Secretary shall encourage each State to enter into a cooperative agreement or contract under paragraph (1) with the Secretary in order to facilitate the prompt collection of themost recent accurate data on the incidence of cases described in such paragraph.
 
 (3) The Secretary shall ensure that data collected under paragraph (1) includes data on the demographic characteristics of the population of individuals with cases described in paragraph (1), including data on specific subpopulations at risk of infection with the etiologic agent for acquired immune deficiency syndrome.
 
@@ -34,7 +34,7 @@ The Secretary, acting through the Director of the National Institute of Mental H
 
 (1) For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
-(2) Amounts appropriated pursuant to paragraph (1) to carry out subsection (c) of this section shall remain available until expended.
+(2) Amounts appropriated pursuant to paragraph (1) to carry out subsection (c) shall remain available until expended.
 
 (July 1, 1944, ch. 373, title XXIII, §2320, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3074; amended Pub. L. 100–690, title II, §2617(d), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(20), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, §1811(5), (6), June 10, 1993, 107 Stat. 200.)
 

@@ -28,11 +28,11 @@ At the expiration of 10 days from the decision of the district court upon the pe
 
 #### Sixth. Finality of decision of court of appeals
 
-The determination of said court of appeals upon said questions shall be final, and, being certified by the clerk thereof to said district court, judgment pursuant thereto shall thereupon be entered by said district court.
+The determination of said court of appeals upon said questions shall be final, and, beingcertified by the clerk thereof to said district court, judgment pursuant thereto shall thereupon be entered by said district court.
 
 #### Seventh. Judgment where petitioner's contentions are sustained
 
-If the petitioner's contentions are finally sustained, judgment shall be entered setting asidethe award in whole or, if the parties so agree, in part; but in such case the parties may agree upon a judgment to be entered disposing of the subject matter of the controversy, which judgment when entered shall have the same force and effect as judgment entered upon an award.
+If the petitioner's contentions are finally sustained, judgment shall be entered setting aside the award in whole or, if the parties so agree, in part; but in such case the parties may agree upon a judgment to be entered disposing of the subject matter of the controversy, which judgment when entered shall have the same force and effect as judgment entered upon an award.
 
 #### Eighth. Duty of employee to render service without consent; right to quit
 

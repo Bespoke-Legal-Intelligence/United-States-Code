@@ -16,7 +16,7 @@ For the purpose of carrying out this section, the Assistant Secretary may make g
 
 &emsp;(6) technical assistance in planning, developing, implementing, and improving the programs, services, and activities provided under this section;
 
-&emsp;(7) coordination with the designated State agency described in section 101(a)(2)(A)(i) of the Rehabilitation Act of 1973 (29 U.S.C.721(a)(2)(A)(i)) to provide services to older individuals who are blind as described in such Act \[29 U.S.C. 701 et seq.\];
+&emsp;(7) coordination with the designated State agency described in section 101(a)(2)(A)(i) of the Rehabilitation Act of 1973 (29 U.S.C. 721(a)(2)(A)(i)) to provide services to older individuals who are blind as described in such Act \[29 U.S.C. 701 et seq.\];
 
 &emsp;(8) the training of graduate level professionals specializing in the mental health needs of older individuals;
 
@@ -38,19 +38,27 @@ For the purpose of carrying out this section, the Assistant Secretary may make g
 
 &emsp;&emsp;(C) programs supporting caregivers in the role they play in providing disease prevention and health promotion services;
 
-&emsp;(12) building public awareness of cognitive impairments such as Alzheimer's disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders; and
+&emsp;(12) building public awareness of cognitive impairments such as Alzheimer's disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders;
 
-&emsp;(13) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+&emsp;(13) continuing support for program integrity initiatives concerning the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) that train senior volunteers to prevent and identify health care fraud and abuse; and
+
+&emsp;(14) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+There are authorized to be appropriated to carry out—
 
-(Pub. L. 89–73, title IV, §411, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2257; amended Pub. L. 109–365, title IV, §402, Oct. 17, 2006, 120 Stat. 2552.)
+&emsp;(1) aging network support activities under this section, $6,216,054 for fiscal year 2017, $6,346,048 for fiscal year 2018, and $6,476,043 for fiscal year 2019; and
+
+&emsp;(2) elder rights support activities under this section, $10,856,828 for fiscal year 2017, $11,083,873 for fiscal year 2018, and $11,310,919 for fiscal year 2019.
+
+(Pub. L. 89–73, title IV, §411, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2257; amended Pub. L. 109–365, title IV, §402, Oct. 17, 2006, 120 Stat. 2552; Pub. L. 114–144, §5(a), Apr. 19, 2016, 130 Stat. 341.)
 
 #### References in Text
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+The Social Security Act, referred to in subsec. (a)(13), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -65,6 +73,10 @@ A prior section 411 of Pub. L. 89–73 was classified to section 3031 of this ti
 Another prior section 411 of Pub. L. 89–73 was classified to section 3035 of this title, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(13), (14). Pub. L. 114–144, §5(a)(1), added par. (13) and redesignated former par. (13) as (14).
+
+Subsec. (b). Pub. L. 114–144, §5(a)(2), substituted "carry out—" for "carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011." and added pars. (1) and (2).
 
 <b>2006</b>—Subsec. (a)(9) to (13). Pub. L. 109–365, §402(1), added pars. (9) to (12) and redesignated former par. (9) as (13).
 

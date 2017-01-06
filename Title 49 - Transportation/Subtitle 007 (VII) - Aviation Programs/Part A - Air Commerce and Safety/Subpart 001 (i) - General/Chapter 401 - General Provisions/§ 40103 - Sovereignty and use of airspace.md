@@ -146,7 +146,7 @@ Subsection (c) is added for clarity.
 
 In subsection (d), the words "including the Canal Zone" are omitted because of the Panama Canal Treaty of 1977.
 
-In subsection (e), before clause (1), the words "any landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The word "only" is added for clarity.In clause (2), the words "on September 3, 1982" are added for clarity.
+In subsection (e), before clause (1), the words "any landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The word "only" is added for clarity. In clause (2), the words "on September 3, 1982" are added for clarity.
 
 #### Regulations
 

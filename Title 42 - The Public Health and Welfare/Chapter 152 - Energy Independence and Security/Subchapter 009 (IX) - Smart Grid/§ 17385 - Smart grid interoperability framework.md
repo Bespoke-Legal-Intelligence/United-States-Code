@@ -20,7 +20,7 @@ The framework developed under subsection (a) shall be flexible, uniform and tech
 
 &emsp;&emsp;(B) technological innovations;
 
-&emsp;(3) to consider the use of voluntary uniform standards for certain classes of mass-producedelectric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
+&emsp;(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured withthe ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
 
 &emsp;&emsp;(A) load reduction to reduce total electrical demand;
 

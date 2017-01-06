@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, whoever knowingly violates
 
 #### (b) Willful violations
 
-(1) Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes—
+(1) Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination ofthe goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes—
 
 &emsp;(A) except in the case of an individual, shall be fined not more than five times the value of the exports involved or $1,000,000, whichever is greater; and
 
@@ -72,7 +72,7 @@ In the event of the failure of any person to pay a penalty imposed pursuant to s
 
 (1) No person convicted of a violation of this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], section 793, 794, or 798 of title 18, section 783(b) <sup>1</sup> of this title, or section 2778 of title 22 shall be eligible, at the discretion of the Secretary, to apply for or use any export license under this chapter for a period of up to 10 years from the date of the conviction. The Secretary may revoke any export license under this chapter in which such person has an interest at the time of the conviction.
 
-(2) The Secretary may exercise the authority under paragraph (1) with respect to any person related, through affiliation, ownership, control, or position of responsibility, to any person convicted of any violation of law set forth in paragraph (1), upon a showing of such relationshipwith the convicted party, and subject to the procedures set forth in section 4615(c) of this title.
+(2) The Secretary may exercise the authority under paragraph (1) with respect to any person related, through affiliation, ownership, control, or position of responsibility, to any person convicted of any violation of law set forth in paragraph (1), upon a showing of such relationship with the convicted party, and subject to the procedures set forth in section 4615(c) of this title.
 
 #### (i) Other authorities
 
@@ -110,7 +110,7 @@ A prior section 2410 of the former Appendix to this title, Pub. L. 91–184, §1
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–64, §112(a), inserted "or conspires to or attempts to violate".
 
-Subsec. (b)(1). Pub. L. 99–64, §112(b)(1), in provisions preceding subpar. (A), substituted "Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or any country to which exports are controlled for foreign policy purposes" for "Whoever willfully exports anything contrary to any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that such exports will be used for the benefit of any country to which exports are restricted for national security or foreign policy purposes".
+Subsec. (b)(1). Pub. L. 99–64, §112(b)(1), in provisions preceding subpar. (A), substituted "Whoever willfully violates or conspires to or attempts to violate any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that the exports involved will be used for the benefit of, or that the destination or intended destination of the goods or technology involved is, any controlled country or anycountry to which exports are controlled for foreign policy purposes" for "Whoever willfully exports anything contrary to any provision of this chapter or any regulation, order, or license issued thereunder, with knowledge that such exports will be used for the benefit of any country to which exports are restricted for national security or foreign policy purposes".
 
 Subsec. (b)(2). Pub. L. 99–64, §112(b)(2), struck out sentence which provided that for purposes of this paragraph, "controlled country" means any country described in section 2370(f) of title 22.
 

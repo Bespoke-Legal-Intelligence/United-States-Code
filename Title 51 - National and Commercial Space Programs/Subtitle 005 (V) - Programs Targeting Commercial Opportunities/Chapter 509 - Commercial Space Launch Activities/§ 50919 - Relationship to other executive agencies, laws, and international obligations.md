@@ -134,5 +134,5 @@ Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted "reentry, ope
 
 Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted "reentry," after "launch,".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–287 substituted "Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 etseq.)" for "Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)".
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–287 substituted "Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)" for "Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)".
 

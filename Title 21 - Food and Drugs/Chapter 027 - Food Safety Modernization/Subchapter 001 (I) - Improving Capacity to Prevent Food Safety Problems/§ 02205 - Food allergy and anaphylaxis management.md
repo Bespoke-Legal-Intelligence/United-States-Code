@@ -94,7 +94,7 @@ In this section:
 
 &emsp;&emsp;(J) Maintenance of information for each administration of epinephrine to a child at risk for anaphylaxis and prompt notification to parents.
 
-&emsp;&emsp;(K) Other elements the Secretary determines necessary for the management of foodallergies and anaphylaxis in schools and early childhood education programs.
+&emsp;&emsp;(K) Other elements the Secretary determines necessary for the management of food allergies and anaphylaxis in schools and early childhood education programs.
 
 #### (3) Relation to State law
 

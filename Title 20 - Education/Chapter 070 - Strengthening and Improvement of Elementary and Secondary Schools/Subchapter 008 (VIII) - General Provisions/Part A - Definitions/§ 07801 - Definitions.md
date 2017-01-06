@@ -118,7 +118,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) is transferable to the institutions of higher education in the partnership; and
 
-&emsp;&emsp;(B) applies toward completion of a degree or recognized educational credential as described in the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\].
+&emsp;&emsp;(B) applies toward completion of a degree or recognized educational credential as described in the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
 
 #### (16) Early childhood education program
 
@@ -174,7 +174,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) promising evidence from at least 1 well-designed and well-implemented correlational study with statistical controls for selection bias; or
 
-&emsp;&emsp;&emsp;(ii)(I) demonstrates a rationale based on high-quality research findings or positive evaluation that such activity, strategy, or intervention is likely to improve student outcomes or other relevant outcomes; and
+&emsp;&emsp;&emsp;(ii)(I) demonstrates a rationale based on high-quality research findings or positive evaluation that such activity, strategy, orintervention is likely to improve student outcomes or other relevant outcomes; and
 
 &emsp;&emsp;&emsp;(II) includes ongoing efforts to examine the effects of such activity, strategy, or intervention.
 
@@ -558,7 +558,7 @@ Except as otherwise provided, in this chapter:
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (15)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in par. (15)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -632,7 +632,7 @@ Par. (37). Pub. L. 114–95, §8002(1), (13), added par. (37) and struck out for
 
 Par. (38). Pub. L. 114–95, §8002(2), redesignated par. (31) as (38). Former par. (38) redesignated (45).
 
-Par. (39). Pub. L. 114–95, §8002(2), (14), redesignated par. (32) as (39), inserted "and" after semicolon at endof subpar. (C), and made technical amendment to reference in original act which appears in subpar. (D) as reference to section 6318 of this title. Former par. (39) redesignated (46).
+Par. (39). Pub. L. 114–95, §8002(2), (14), redesignated par. (32) as (39), inserted "and" after semicolon at end of subpar. (C), and made technical amendment to reference in original act which appears in subpar. (D) asreference to section 6318 of this title. Former par. (39) redesignated (46).
 
 Par. (40). Pub. L. 114–95, §8002(15), added par. (40).
 

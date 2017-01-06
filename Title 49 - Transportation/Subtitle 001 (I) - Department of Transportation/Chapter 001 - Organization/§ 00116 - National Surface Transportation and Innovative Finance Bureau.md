@@ -208,7 +208,7 @@ Data collection.—The Bureau shall—
 
 &emsp;&emsp;(A) collect information related to procurement benchmarks developed under paragraph (1), including project specific information detailed under paragraph (2); and
 
-&emsp;&emsp;(B) provide on a publicly accessible Internet Web site of the Department a report on the information collected under subparagraph (A).
+&emsp;&emsp;(B) provide on a publicly accessible Internet Web site of the Department a report onthe information collected under subparagraph (A).
 
 (h)
 
@@ -276,7 +276,7 @@ Laws and regulations.—Nothing in this section may be construed to change a law
 
 &emsp;(2)
 
-Responsibilities.—Nothing in this section may be construed to abrogate the responsibilities of an agency, operating administration, or office within the Department otherwise charged by a law or regulation with other aspects of program administration, oversight,or project approval or implementation for the programs and projects subject to this section.
+Responsibilities.—Nothing in this section may be construed to abrogate the responsibilities of an agency, operating administration, or office within the Department otherwise charged by a law or regulation with other aspects of program administration, oversight, or project approval or implementation for the programs and projects subject to this section.
 
 &emsp;(3)
 

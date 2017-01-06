@@ -1,6 +1,6 @@
 ### §§300ff–41 to 300ff–50. Repealed. Pub. L. 106–345, title III, §301(a), Oct. 20, 2000, 114 Stat. 1345
 
-Section 300ff–41, act July 1, 1944, ch. 373, title XXVI, §2641, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 597; amended Pub. L. 102–531, title III, §312(d)(31), Oct. 27, 1992, 106 Stat. 3506, established program of formula grants to States.
+Section 300ff–41, act July 1, 1944, ch. 373, title XXVI, §2641, as added Pub. L. 101–381, title III, §301(a), Aug. 18,1990, 104 Stat. 597; amended Pub. L. 102–531, title III, §312(d)(31), Oct. 27, 1992, 106 Stat. 3506, established program of formula grants to States.
 
 Section 300ff–42, act July 1, 1944, ch. 373, title XXVI, §2642, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 599, related to provision of services through medicaid providers.
 

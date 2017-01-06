@@ -66,13 +66,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2014</b>—Par. (2). Pub. L. 113–79, §1609(b)(1), amended language inserted by Pub. L. 110–246, §1603(g)(6). See 2008 Amendment note below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-<b>2009</b>—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment,text read as follows: "The term 'agricultural commodity' means any agricultural commodity (including livestock) in its raw or natural state." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Par. (1). Pub. L. 111–5, §§1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment, text read as follows: "The term 'agricultural commodity' means any agricultural commodity (including livestock) in its raw or natural state." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Par. (2). Pub. L. 111–5, §§1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: "The term 'agricultural commodity producer' has the same meaning as the term 'person' as prescribed by regulations promulgated under section 1308(e) of title 7 (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 

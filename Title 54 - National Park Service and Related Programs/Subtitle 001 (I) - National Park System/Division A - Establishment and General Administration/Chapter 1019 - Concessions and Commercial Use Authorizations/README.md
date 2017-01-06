@@ -31,6 +31,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Codification
+
+Pub. L. 114–289, title VII, §701, Dec. 16, 2016, 130 Stat. 1492, added subchapter III of this chapter without corresponding amendment of chapter analysis. For analysis of subchapter III, see table of sections set out preceding section 101931 of this title.
+
 
 ---
 
@@ -38,3 +42,4 @@
 
 - [Subchapter 001 (I) - Authority of Secretary](Subchapter%20001%20%28I%29%20-%20Authority%20of%20Secretary/README.md)
 - [Subchapter 002 (II) - Commercial Visitor Services](Subchapter%20002%20%28II%29%20-%20Commercial%20Visitor%20Services/README.md)
+- [Subchapter 003 (III) - Commercial Services Authorization](Subchapter%20003%20%28III%29%20-%20Commercial%20Services%20Authorization/README.md)

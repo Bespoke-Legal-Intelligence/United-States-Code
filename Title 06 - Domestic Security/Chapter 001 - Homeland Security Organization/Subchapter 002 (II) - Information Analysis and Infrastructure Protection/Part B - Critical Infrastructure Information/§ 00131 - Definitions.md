@@ -54,7 +54,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) in the case of any action brought under the securities laws as is defined in section 78c(a)(47) of title 15—
 
-&emsp;&emsp;&emsp;&emsp;(I) does not include information or statements contained in any documentsor materials filed with the Securities and Exchange Commission, or with Federal banking regulators, pursuant to section 78l(i) of title 15; and
+&emsp;&emsp;&emsp;&emsp;(I) does not include information or statements contained in any documents or materials filed with the Securities and Exchange Commission, or with Federal banking regulators, pursuant to section 78l(i) of title 15; and
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to the submittal of critical infrastructure information, does not include any disclosure or writing that when made accompanied the solicitation of an offer or a sale of securities; and
 
@@ -70,7 +70,7 @@ In this part:
 
 <b>2015</b>—Par. (5)(A). Pub. L. 114–113, §204(1)(A), inserted ", including information related to cybersecurity risks and incidents," after "critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
 
-Par. (5)(B). Pub. L. 114–113, §204(1)(B), inserted ", including cybersecurity risks and incidents," after "critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
+Par. (5)(B). Pub. L. 114–113, §204(1)(B), inserted ", including cybersecurity risks and incidents," after"critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
 
 Par. (5)(C). Pub. L. 114–113, §204(1)(C), inserted ", including cybersecurity risks and incidents," after "critical infrastructure information".
 

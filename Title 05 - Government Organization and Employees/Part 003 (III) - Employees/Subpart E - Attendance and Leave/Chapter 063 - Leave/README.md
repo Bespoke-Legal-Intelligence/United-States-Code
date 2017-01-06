@@ -32,6 +32,9 @@
 | [6327\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006327%20-%20Absence%20in%20connection%20with%20serving%20as%20a%20bone-marrow%20or%20organ%20donor.md) | Absence in connection with serving as a bone-marrow or organ donor. |
 | [6328\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006328%20-%20Absence%20in%20connection%20with%20funerals%20of%20fellow%20Federal%20law%20enforcement%20officers.md) | Absence in connection with funerals of fellow Federal law enforcement officers. |
 | [6329\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329%20-%20Disabled%20veteran%20leave.md) | Disabled veteran leave. |
+| [6329a.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329a%20-%20Administrative%20leave.md) | Administrative leave. |
+| [6329b.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329b%20-%20Investigative%20leave%20and%20notice%20leave.md) | Investigative leave and notice leave. |
+| [6329c.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329c%20-%20Weather%20and%20safety%20leave.md) | Weather and safety leave. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,6 +99,8 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+
 <b>2015</b>—Pub. L. 114–75, §2(b), Nov. 5, 2015, 129 Stat. 641, added item 6329.
 
 <b>1999</b>—Pub. L. 106–56, §1(c)(2), Sept. 24, 1999, 113 Stat. 407, added item 6328.
@@ -136,7 +141,7 @@ Now more than ever, our Nation's economic success rests on our ability to empowe
 
 Men and women both need time to care for their families and should have access to workplace flexibilities that help them succeed at work and at home. Offering family leave and other workplace flexibilities to parents can help achieve the goals of recruiting and retaining talent, lowering costly worker turnover, increasing employee engagement, boosting employee morale, and ensuring a diverse and inclusive workforce. Yet, the United States lags behind almost every other country in ensuring some form of paid parental leave to its Federal workforce; we are the only developed country in the world without it.
 
-My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directs the heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies of leading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
+My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directsthe heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies of leading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to further build on these important goals and the work currently underway by the Office of Personnel Management (OPM) and other agencies to review existing personnel policies, I hereby direct as follows:
 
@@ -146,7 +151,7 @@ Section 1. <i>Advanced Sick and Annual Leave</i>. (a) Agencies shall ensure that
 
 Sec. 2. <i>Emergency Backup Dependent Care</i>. Agencies shall consider, consistent with existing resources, providing access to affordable emergency backup dependent care services such as through an Employee Assistance Program.
 
-Sec. 3. <i>Update Leave Policies</i>. (a) In coordination with the agency review and related OPM summary report of workplace flexibilities and work-life policies required by sections 4 and 5 of my memorandum of June 23, 2014, agencies shall make necessary changes to their policiesand practices to ensure that employees experiencing the birth or adoption of a child, foster care placement in their home, or who have other circumstances eligible for sick or annual leave are aware of the full range of benefits to which they are entitled. These changes shall also ensure that discretionary flexibilities are used to the maximum extent practicable, in accordance with the laws and regulations governing these programs and consistent with mission needs, and that employees understand the benefits for which they may qualify. Any necessary changes to agency policies required by this section shall be made as soon as possible, and no later than January 1, 2016.
+Sec. 3. <i>Update Leave Policies</i>. (a) In coordination with the agency review and related OPM summary report of workplace flexibilities and work-life policies required by sections 4 and 5 of my memorandum of June 23, 2014, agencies shall make necessary changes to their policies and practices to ensure that employees experiencing the birth or adoption of a child, foster care placement in their home, or who have other circumstances eligible for sick or annual leave are aware of the full range of benefits to which they are entitled. These changes shall also ensure that discretionary flexibilities are used to the maximum extent practicable, in accordance with the laws and regulations governing these programs and consistent with mission needs, and that employees understand the benefits for which they may qualify. Any necessary changes to agency policies required by this section shall be made as soon as possible, and no later than January 1, 2016.
 
 (b) For purposes of the changes required by subsection (a) of this section, agencies shall review policies with respect to the following required benefits:
 

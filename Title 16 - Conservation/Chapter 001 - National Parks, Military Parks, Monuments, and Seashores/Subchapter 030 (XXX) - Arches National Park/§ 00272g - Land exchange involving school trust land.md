@@ -50,7 +50,7 @@
 
 #### (3) Activities authorized by management plan
 
-&emsp;Nothing in this subsection precludes the State of Utah from authorizing or undertaking a surface or mineral activity that is authorized by a land management plan for the acquired land.
+&emsp;Nothing in this subsection precludes the State of Utah from authorizing or undertakinga surface or mineral activity that is authorized by a land management plan for the acquired land.
 
 (Pub. L. 92–155, §8, as added Pub. L. 105–329, §2(e)(2), Oct. 30, 1998, 112 Stat. 3062; amended Pub. L. 106–176, title III, §302, Mar. 10, 2000, 114 Stat. 32.)
 

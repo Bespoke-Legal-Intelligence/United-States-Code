@@ -8,7 +8,7 @@ The purpose of this section is to direct the Secretary to further the commercial
 
 #### (1) Establishment
 
-&emsp;(A) The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c) of this section. Such projects may include projects for—
+&emsp;(A) The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c). Such projects may include projects for—
 
 &emsp;&emsp;(i) the production and sale of electricity, thermal energy, or other forms of energy using a renewable energy technology;
 
@@ -22,9 +22,9 @@ Requirements.—Each project selected under this section shall include at least 
 
 #### (2) Forms of financial assistance
 
-&emsp;(A) In supporting projects selected under subsection (c) of this section, the Secretary may choose from among the forms of agreements described in section 13541 of this title.
+&emsp;(A) In supporting projects selected under subsection (c), the Secretary may choose from among the forms of agreements described in section 13541 of this title.
 
-&emsp;(B) In supporting projects selected under subsection (c) of this section, the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
+&emsp;(B) In supporting projects selected under subsection (c), the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
 
 #### (3) Cost sharing
 

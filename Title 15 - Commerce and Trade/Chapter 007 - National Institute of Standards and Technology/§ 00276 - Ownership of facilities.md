@@ -6,7 +6,7 @@ In the absence of specific agreement to the contrary, additional facilities, inc
 
 #### Amendments
 
-<b>1956</b>—Act Aug. 3, 1956, substituted provisions relating to ownership of additional facilities by the Department of Commerce (formerly contained in section 278b of this title) for those relating to fees, see section 275a of this title.
+<b>1956</b>—Act Aug. 3, 1956, substituted provisions relating to ownership of additional facilities by the Departmentof Commerce (formerly contained in section 278b of this title) for those relating to fees, see section 275a of this title.
 
 <b>1932</b>—Act June 30, 1932, inserted provision for payment of moneys into the Treasury, among other changes.
 

@@ -62,10 +62,6 @@ Protest not authorized.—A protest is not authorized in connection with the iss
 
 Jurisdiction over protests.—Notwithstanding section 3556 of title 31, the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
-&emsp;(3)
-
-Effective period.—Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
-
 (g)
 
 Task and Delivery Order Ombudsman.—
@@ -78,7 +74,7 @@ Appointment or designation and responsibilities.—The head of each executive ag
 
 Who is eligible.—The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's advocate for competition.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, §813, Dec. 31, 2011, 125 Stat. 1491.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, §813, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 114–260, §2, Dec. 14, 2016, 130 Stat. 1361; Pub. L. 114–328, div. A, title VIII, §835(b), Dec. 23, 2016, 130 Stat. 2285.)
 
 #### Amendment Not Shown in Text
 
@@ -127,6 +123,8 @@ June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, 
 In subsection (g)(2), the words "advocate for competition" are substituted for "competition advocate" for consistency with section 1705 of the revised title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(3). Pub. L. 114–260 and Pub. L. 114–328 amended subsec. (f) identically by striking out par. (3). Text read as follows: "Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016."
 
 <b>2011</b>—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: "This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008."
 

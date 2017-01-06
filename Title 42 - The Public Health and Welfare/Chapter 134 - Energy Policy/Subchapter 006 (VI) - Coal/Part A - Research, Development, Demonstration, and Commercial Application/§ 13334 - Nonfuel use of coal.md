@@ -10,13 +10,13 @@ The Secretary shall prepare a plan for and carry out a program of research, deve
 
 &emsp;(3) production of chemicals from coal-derived synthesis gas;
 
-&emsp;(4) coal treatment processes, including methodologies such as solvent-extraction techniques that produce low ash, low sulfur, coal-based chemical feedstocks; and
+&emsp;(4) coal treatment processes, including methodologies such as solvent-extractiontechniques that produce low ash, low sulfur, coal-based chemical feedstocks; and
 
 &emsp;(5) waste utilization, including recovery, processing, and marketing of products derived from sulfur, carbon dioxide, nitrogen, and ash from coal.
 
 #### (b) Plan contents
 
-The plan described in subsection (a) of this section shall address and evaluate—
+The plan described in subsection (a) shall address and evaluate—
 
 &emsp;(1) the known and potential processes for using coal in the creation of products in the chemical, utility, fuel, and carbon-based materials industries;
 

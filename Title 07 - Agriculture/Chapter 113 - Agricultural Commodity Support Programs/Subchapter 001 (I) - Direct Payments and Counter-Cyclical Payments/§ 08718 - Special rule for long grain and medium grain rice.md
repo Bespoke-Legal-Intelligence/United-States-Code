@@ -2,7 +2,7 @@
 
 #### (a) Calculation method
 
-Subject to subsections (b) and (c), for the purposes of determining the amount of the counter-cyclical payments to be paid to the producers on a farm for long grain rice and medium grain rice under section 8714 <sup>1</sup> of this title, the base acres of rice on the farm shall be apportioned using the 4-year average of the percentages of acreage planted in the applicable State to long grain rice and medium grain rice during the 2003 through 2006 crop years, as determined by the Secretary.
+Subject to subsections (b) and (c), for the purposes of determining the amount of the counter-cyclical payments to be paid to the producers on a farm for long grain rice and medium grain rice under section 8714 <sup>1</sup> of this title, the base acres ofrice on the farm shall be apportioned using the 4-year average of the percentages of acreage planted in the applicable State to long grain rice and medium grain rice during the 2003 through 2006 crop years, as determined by the Secretary.
 
 #### (b) Producer election
 
@@ -27,6 +27,10 @@ Section 8714 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

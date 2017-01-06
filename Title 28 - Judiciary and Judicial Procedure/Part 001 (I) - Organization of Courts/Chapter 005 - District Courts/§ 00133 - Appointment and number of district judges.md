@@ -129,7 +129,7 @@
 
 (2) For purposes of paragraph (1), the term "office of Federal judicial administration" means a position as Director of the Federal Judicial Center, Director of the Administrative Office of the United States Courts, or Counselor to the Chief Justice.
 
-(June 25, 1948, ch. 646, 62 Stat. 895; Aug. 3, 1949, ch. 387, §2(a), 63 Stat. 493; Aug. 14, 1950, ch. 708, 64 Stat. 443; Aug. 29, 1950, ch. 819, §1, 64 Stat. 562; Sept. 5, 1950, ch. 848, §1, 64 Stat. 578; Feb. 10, 1954, ch. 6, §2(a)(3), 68 Stat. 9; Pub. L. 85–310, Sept. 7, 1957, 71 Stat. 631; Pub. L. 85–508, §12(c), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, §9(b), Mar. 18, 1959, 73 Stat. 8; Pub. L. 87–36, §2(d), May 19, 1961, 75 Stat. 81; Pub. L. 87–562, §3, July 30, 1962, 76 Stat. 248; Pub. L. 89–242, §1(c), Oct. 7, 1965, 79 Stat. 951; Pub. L. 89–372, §4, Mar. 18, 1966, 80 Stat. 77; Pub. L. 91–272, §1(d), June 2, 1970, 84 Stat. 295; Pub. L. 92–208, §3(d), Dec. 18, 1971, 85 Stat. 742; Pub. L. 95–408, §4(b)(2), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–486, §1(c), Oct. 20, 1978, 92 Stat. 1630; Pub. L. 97–471, §3, Jan. 14, 1983, 96 Stat. 2601; Pub. L. 98–353, title II, §202(e), July 10, 1984, 98 Stat. 348; Pub. L. 101–650, title II, §203(d), title III, §303, Dec. 1, 1990, 104 Stat. 5101, 5105; Pub. L. 105–53, §4, Oct. 6, 1997, 111 Stat. 1174; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A-37; Pub. L. 106–553, §1(a)(2) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A-85; Pub. L. 107–273, div. A, title III, §312(a)(2), (b)(2), Nov. 2, 2002, 116 Stat. 1786, 1787; Pub. L. 110–402, §1(b)(1), Oct. 13, 2008, 122 Stat. 4254.)
+(June 25, 1948, ch. 646, 62 Stat. 895; Aug. 3, 1949, ch. 387, §2(a), 63 Stat. 493; Aug. 14, 1950, ch. 708, 64 Stat. 443; Aug. 29, 1950, ch. 819, §1, 64 Stat. 562; Sept. 5, 1950, ch. 848, §1, 64 Stat. 578; Feb. 10, 1954, ch. 6, §2(a)(3), 68 Stat. 9; Pub. L. 85–310, Sept. 7, 1957, 71 Stat. 631; Pub. L. 85–508, §12(c), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, §9(b), Mar. 18, 1959, 73 Stat. 8; Pub. L. 87–36, §2(d), May 19, 1961, 75 Stat. 81; Pub. L. 87–562, §3, July 30, 1962, 76 Stat. 248; Pub. L. 89–242, §1(c), Oct. 7, 1965, 79 Stat. 951; Pub. L. 89–372, §4, Mar. 18, 1966, 80 Stat. 77; Pub. L. 91–272, §1(d), June 2, 1970, 84 Stat. 295; Pub. L. 92–208, §3(d), Dec. 18, 1971, 85 Stat. 742; Pub. L. 95–408, §4(b)(2), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–486, §1(c), Oct. 20, 1978, 92 Stat. 1630; Pub. L. 97–471, §3, Jan. 14, 1983, 96 Stat. 2601; Pub. L. 98–353, title II, §202(e), July 10, 1984, 98 Stat. 348; Pub. L. 101–650, title II, §203(d), title III, §303, Dec. 1, 1990, 104 Stat. 5101, 5105; Pub. L. 105–53, §4, Oct. 6, 1997, 111 Stat. 1174; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–553, §1(a)(2) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–85; Pub. L. 107–273, div. A, title III, §312(a)(2), (b)(2), Nov. 2, 2002, 116 Stat. 1786, 1787; Pub. L. 110–402, §1(b)(1), Oct. 13, 2008, 122 Stat. 4254.)
 
 #### Historical and Revision Notes
 
@@ -927,7 +927,7 @@ Vacancies not filled.—The first vacancy in the office of district judge in eac
 
 Effective date.—This subsection shall take effect on July 15, 2003."
 
-Pub. L. 106–553, §1(a)(2) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A-84, provided that: "The President shall appoint, by and with the advice and consent of the Senate—
+Pub. L. 106–553, §1(a)(2) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–84, provided that: "The President shall appoint, by and with the advice and consent of the Senate—
 
 &emsp;"(1) 1 additional district judge for the district of Arizona;
 
@@ -949,7 +949,7 @@ Pub. L. 106–553, §1(a)(2) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2
 
 &emsp;"(10) 1 additional district judge for the eastern district of Wisconsin."
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A-37, provided that: "The President shall appoint, by and with the advice and consent of the Senate—
+Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37, provided that: "The President shall appoint, by and with the advice and consent of the Senate—
 
 &emsp;"(1) three additional district judges for the district of Arizona;
 

@@ -2,7 +2,7 @@
 
 #### (a) Time periods for required affidavits
 
-Each registration shall remain in force for 10 years, except that the registration of any mark shall be canceled by the Director unless the owner of the registration files in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
+Each registration shall remain in force for 10 years, except that the registration of any mark shall be canceled by the Director unless theowner of the registration files in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
 
 &emsp;(1) Within the 1-year period immediately preceding the expiration of 6 years following the date of registration under this chapter or the date of the publication under section 1062(c) of this title.
 
@@ -30,7 +30,7 @@ The affidavit referred to in subsection (a) shall—
 
 #### (c) Deficient affidavit
 
-If any submission filed within the period set forth in subsection (a) is deficient, includingthat the affidavit was not filed in the name of the owner of the registration, the deficiency may be corrected after the statutory time period, within the time prescribed after notification of the deficiency. Such submission shall be accompanied by the additional deficiency surcharge prescribed by the Director.
+If any submission filed within the period set forth in subsection (a) is deficient, including that the affidavit was not filed in the name of the owner of the registration, the deficiency may be corrected after the statutory time period, within the time prescribed after notification of the deficiency. Such submission shall be accompanied by the additional deficiency surcharge prescribed by the Director.
 
 #### (d) Notice of requirement
 

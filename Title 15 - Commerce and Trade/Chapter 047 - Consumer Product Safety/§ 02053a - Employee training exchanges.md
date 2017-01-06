@@ -26,7 +26,7 @@ An individual retained or employed under subsection (a)(1) shall be considered t
 
 #### References in Text
 
-The Ethics in Government Act, referred to in subsec. (c)(2), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 inthe Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act, referred to in subsec. (c)(2), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 #### Codification
 

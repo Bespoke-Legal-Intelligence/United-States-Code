@@ -112,7 +112,7 @@ Subsec. (d)(2). Pub. L. 112–81, §1061(21)(B), struck out at end "The economic
 
 Subsec. (f). Pub. L. 112–81, §1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows: "Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter."
 
-Subsec. (h). Pub. L. 112–81, §1061(21)(D), struck out at end "The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2)."
+Subsec. (h). Pub. L. 112–81, §1061(21)(D), struck out at end "The Secretary concerned shall consider any suchcontribution in the economic analysis required under subsection (a)(2)."
 
 <b>2009</b>—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, §2821(a), substituted "system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and" for "system; and".
 
@@ -173,4 +173,8 @@ Subsec. (g). Pub. L. 106–65, §2812(c)(2), added subsec. (g). Former subsec. (
 Subsec. (g)(2)(B). Pub. L. 106–65, §2812(b), substituted "Real property, easements," for "Easements".
 
 Subsecs. (h) to (j). Pub. L. 106–65, §2812(c)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+
+#### Sense of Congress Regarding Inclusion of Stormwater Systems and Components Within the Meaning of "Wastewater System" Under the Department of Defense Authority for Conveyance of Utility Systems
+
+Pub. L. 114–328, div. B, title XXVIII, §2813, Dec. 23, 2016, 130 Stat. 2717, provided that: "It is the sense of Congress that the reference to a system for the collection or treatment of wastewater in the definition of 'utility system' in section 2688 of title 10, United States Code, which authorizes the Department of Defense to convey utility systems, includes stormwater systems and components."
 

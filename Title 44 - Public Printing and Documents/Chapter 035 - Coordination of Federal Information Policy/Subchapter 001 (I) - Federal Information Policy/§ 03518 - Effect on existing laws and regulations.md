@@ -1,6 +1,6 @@
 ### §3518. Effect on existing laws and regulations
 
-(a) Except as otherwise provided in this subchapter, the authority of an agency under any other law to prescribe policies, rules, regulations, and procedures for Federal information resources management activities is subject to the authority of the Director under this subchapter.
+(a) Except as otherwise provided in this subchapter, the authority of an agency under anyother law to prescribe policies, rules, regulations, and procedures for Federal information resources management activities is subject to the authority of the Director under this subchapter.
 
 (b) Nothing in this subchapter shall be deemed to affect or reduce the authority of the Secretary of Commerce or the Director of the Office of Management and Budget pursuant to Reorganization Plan No. 1 of 1977 (as amended) and Executive order, relating to telecommunications and information policy, procurement and management of telecommunications and information systems, spectrum use, and related matters.
 
@@ -56,7 +56,7 @@ A prior section 3518, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 

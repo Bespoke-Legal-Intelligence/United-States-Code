@@ -98,7 +98,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (7) State administration
 
-&emsp;Each State may develop and submit to the Administrator a procedure under State law for implementing and enforcing regulations promulgated under this subsection. If the Administrator finds the State procedure is adequate,the Administrator shall approve such procedure. Nothing in this paragraph shall prohibit the Administrator from enforcing any applicable regulations under this subsection.
+&emsp;Each State may develop and submit to the Administrator a procedure under State law for implementing and enforcing regulations promulgated under this subsection. If the Administrator finds the State procedure is adequate, the Administrator shall approve such procedure. Nothing in this paragraph shall prohibit the Administrator from enforcing any applicable regulations under this subsection.
 
 #### (8) Size, etc.
 

@@ -26,7 +26,7 @@ The Chair and other officers of the Commission shall be elected by a majority of
 
 #### (d) Meetings
 
-The Commission shall meet at the call of the Chair or a majority of its members, but not less than twice annually. Seven members of the Commission shall constitute a quorum. Consistent with the public meeting requirements of theFederal Advisory Committee Act, the Commission shall, from time to time, meet with persons concerned with maritime preservation.
+The Commission shall meet at the call of the Chair or a majority of its members, but not less than twice annually. Seven members of the Commission shall constitute a quorum. Consistent with the public meeting requirements of the Federal Advisory Committee Act, the Commission shall, from time to time, meet with persons concerned with maritime preservation.
 
 #### (e) Bylaws and charter
 

@@ -2,7 +2,7 @@
 
 A State that establishes and operates a nutrition project under this chapter <sup>1</sup> shall—
 
-&emsp;(1) solicit the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
+&emsp;(1) utilize the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
 
 &emsp;(2) ensure that the project—
 
@@ -42,21 +42,27 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided,
 
-&emsp;&emsp;(J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate, and
+&emsp;&emsp;(J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate,
 
-&emsp;&emsp;(K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals' communities.
+&emsp;&emsp;(K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals' communities, and
 
-(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252; amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548.)
+&emsp;&emsp;(L) where feasible, encourages the use of locally grown foods in meal programs and identifies potential partnerships and contracts with local producers and providers of locally grown foods.
+
+(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252; amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548; Pub. L. 114–144, §4(i), Apr. 19, 2016, 130 Stat. 339.)
 
 #### Codification
 
-Pub. L. 106–501, §313, which directed amendment of subpart 4 of part C of title III of the Older Americans Act of 1965 (Pub. L. 89–73) by striking section 339 and inserting this section, was executed in this subpart, which is subpart 3 of part C of title III of the Act, by repealing prior section 3030g–21, and inserting this section, to reflect the probable intent of Congress and the redesignation of subpart 4 of part C of title III of the Act as subpart 3 by Pub. L. 106–501, §312(b).
+Pub. L. 106–501, §313, which directed amendment of subpart 4 of part C of title III of the Older Americans Act of 1965 (Pub. L. 89–73) by striking section 339 and inserting this section, was executed in this subpart,which is subpart 3 of part C of title III of the Act, by repealing prior section 3030g–21, and inserting this section, to reflect the probable intent of Congress and the redesignation of subpart 4 of part C of title III of the Act as subpart 3 by Pub. L. 106–501, §312(b).
 
 #### Prior Provisions
 
 A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106 Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
 
 #### Amendments
+
+<b>2016</b>—Par. (1). Pub. L. 114–144, §4(i)(1), substituted "utilize" for "solicit".
+
+Par. (2)(L). Pub. L. 114–144, §4(i)(2), added subpar. (L).
 
 <b>2006</b>—Par. (1). Pub. L. 109–365, §316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and".
 

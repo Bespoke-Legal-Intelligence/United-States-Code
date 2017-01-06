@@ -158,7 +158,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may,and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
+&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may, and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
 
 #### (B) Civil service status
 
@@ -200,7 +200,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law limiting the ability of an agency, along with other agencies, to provide funds to the Coordinating Committee or a State rural development council in order to carry out the purposes of this section, a Federal agency may make grants, gifts, or contributions to, provide technical assistance to, or enter into contracts or cooperative agreements with, the Coordinating Committee or a State rural development council.
+&emsp;&emsp;Notwithstanding any other provision of law limiting the ability of an agency, along with other agencies, to provide funds to the Coordinating Committee or a State rural development council in order to carry out thepurposes of this section, a Federal agency may make grants, gifts, or contributions to, provide technical assistance to, or enter into contracts or cooperative agreements with, the Coordinating Committee or a State rural development council.
 
 #### (B) Assistance
 

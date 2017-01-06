@@ -72,7 +72,11 @@ Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Sta
 
 Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015, 80 F.R. 41969.
 
+Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139.
+
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
+
+Belmont-Paul Women's Equality National Monument, District of Columbia.—Proc. No. 9423, Apr. 12, 2016, 81 F.R. 22505.
 
 Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93 Stat. 1451.
 
@@ -119,6 +123,8 @@ Casa Grande National Monument, Arizona.—Proc. No. 1470, Aug. 3, 1918, 40 Stat.
 Cascade-Siskiyou National Monument, Oregon.—Proc. No. 7318, June 9, 2000, 65 F.R. 37249; Pub. L. 111–11, title I, §§1401–1406, Mar. 30, 2009, 123 Stat. 1026–1031.
 
 Castillo de San Marcos National Monument, Florida \[Monument changed from Fort Marion National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Pub. L. 108–480, Dec. 23, 2004, 118 Stat. 3907.
+
+Castle Mountains National Monument, California.—Proc. No. 9394, Feb. 12, 2016, 81 F.R. 8365.
 
 Castle Pinckney National Monument, South Carolina.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
@@ -202,6 +208,8 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
+Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149.
+
 Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003, 68 F.R. 7053.
 
 Gran Quivira National Monument, New Mexico \[Monument abolished and funds made available to Salinas National Monument by Pub. L. 96–550, title VI, §601(b), Dec. 19, 1980, 94 Stat. 3231. Salinas National Monument redesignated Salinas Pueblo Missions National Monument by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797\].—Proc. No. 882, Mar. 20, 1909, 36 Stat. 2503; Proc. No. 1545, Nov. 25, 1919, 41 Stat. 1778.
@@ -242,6 +250,8 @@ Joshua Tree National Monument, California \[see section 450ii of Title 16, Conse
 
 Kasha-Katuwe Tent Rocks National Monument, New Mexico.—Proc. No. 7394, Jan. 17, 2001, 66 F.R. 7343.
 
+Katahdin Woods and Waters National Monument, Maine.—Proc. No. 9476, Aug. 24, 2016, 81 F.R. 59121.
+
 Katmai National Monument, Alaska \[Monument redesignated Katmai National Park, see section 410hh–1(2) of Title 16, Conservation\].—Proc. No. 1487, Sept. 24, 1918, 40 Stat. 1855; Proc. No. 1950, Apr. 24, 1931, 47 Stat. 2453; Proc. No. 2177, June 15, 1936, 49 Stat. 3523; Proc. No. 2564, Aug. 4, 1942, 56 Stat. 1972; Proc. No. 3890, Jan. 20, 1969, 83 Stat. 926; Proc. No. 4619, Dec. 1, 1978, 93 Stat. 1460.
 
 Kenai Fjords National Monument, Alaska.—Proc. No. 4620, Dec. 1, 1978, 93 Stat. 1462.
@@ -270,6 +280,8 @@ Minidoka Internment National Monument, Idaho \[Monument abolished and lands inco
 
 Misty Fjords National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(a), Dec. 2, 1980, 94 Stat. 2399\].—Proc. No. 4623, Dec. 1, 1978, 93 Stat. 1466.
 
+Mojave Trails National Monument, California.—Proc. No. 9395, Feb. 12, 2016, 81 F.R. 8371.
+
 Montezuma Castle National Monument, Arizona.—Proc. No. 696, Dec. 8, 1906, 34 Stat. 3265; Proc. No. 2226, Feb. 23, 1937, 50 Stat. 1817; Pub. L. 108–190, Dec. 19, 2003, 117 Stat. 2867.
 
 Mound City Group National Monument, Ohio \[Monument redesignated Hopewell Culture National Historic Park, see section 401uu of Title 16, Conservation\].—Proc. No. 1653, Mar. 2, 1923, 42 Stat. 2298; Pub. L. 96–607, title VII, §701, Dec. 28, 1980, 94 Stat. 3540.
@@ -290,6 +302,8 @@ Navajo National Monument, Arizona.—Proc. No. 873, Mar. 20, 1909, 36 Stat. 2491
 
 Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
 
+Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016, 81 F.R. 65161.
+
 Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papahānaumokuākea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
 Ocmulgee National Monument, Georgia \[see section 447a of Title 16, Conservation\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
@@ -309,6 +323,8 @@ Pacific Remote Islands Marine National Monument Expansion, Wake and Jarvis Islan
 Papago Saguaro National Monument, Arizona \[Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, §2873, Jan. 6, 2006, 119 Stat. 3535\].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
 
 Papahānaumokuākea Marine National Monument, Hawaii \[Monument changed from Northwestern Hawaiian Islands Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
+
+Papahānaumokuākea Marine National Monument Expansion, Hawaii.—Proc. No. 9478, Aug. 26, 2016, 81 F.R. 60227.
 
 Perry's Victory and International Peace Memorial National Monument, Ohio.—Proc. No. 2182, July 6, 1936, 50 Stat. 1734.
 
@@ -338,6 +354,8 @@ San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 
 
 San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272.
 
+Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016, 81 F.R. 8379.
+
 Santa Rosa Island National Monument, Florida.—Proc. No. 2337, May 17, 1939, 53 Stat. 2542; Proc. No. 2659, Aug. 13, 1945, 59 Stat. 877.
 
 Scotts Bluff National Monument, Nebraska.—Proc. No. 1547, Dec. 12, 1919, 41 Stat. 1779; Proc. No. 1999, June 1, 1932, 47 Stat. 2512; Proc. No. 2391, Mar. 29, 1940, 54 Stat. 2690.
@@ -353,6 +371,8 @@ c22.
 Sonoran Desert National Monument, Arizona.—Proc. No. 7397, Jan. 17, 2001, 66 F.R. 7354.
 
 Statue of Liberty National Monument.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Proc. No. 2250, Sept. 7, 1937, 51 Stat. 393; Proc. No. 3656, May 11, 1965, 79 Stat. 1490.
+
+Stonewall National Monument, New York.—Proc. No. 9465, June 24, 2016, 81 F.R. 42215.
 
 Sunset Crater Volcano National Monument, Arizona \[Monument changed from Sunset Crater National Monument by Pub. L. 101–612, §15, Nov. 16, 1990, 104 Stat. 3222\].—Proc. No. 1911, May 26, 1930, 46 Stat. 3023.
 

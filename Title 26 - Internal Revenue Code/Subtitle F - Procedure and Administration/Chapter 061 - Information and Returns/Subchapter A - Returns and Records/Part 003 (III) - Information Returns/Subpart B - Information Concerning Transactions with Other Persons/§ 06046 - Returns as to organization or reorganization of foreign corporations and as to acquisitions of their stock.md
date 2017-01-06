@@ -48,7 +48,7 @@ No information shall be required to be furnished under this section with respect
 
 &emsp;&emsp;<b>For provisions relating to penalties for violations of this section, sections 6679 and 7203.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 86–780, §7(a), Sept. 14, 1960, 74 Stat. 1016; Pub. L.87–834, §20(b), Oct. 16, 1962, 76 Stat. 1061; Pub. L. 94–455, title XIX, §1906(a)(4), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–248, title III, §341(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 100–647, title I, §1012(i)(19), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 105–34, title XI, §1146(a), Aug. 5, 1997, 111 Stat. 986; Pub. L. 110–172, §11(a)(33), Dec. 29, 2007, 121 Stat. 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 86–780, §7(a), Sept. 14, 1960, 74 Stat. 1016; Pub. L. 87–834, §20(b), Oct. 16, 1962, 76 Stat. 1061; Pub. L. 94–455, title XIX, §1906(a)(4), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–248, title III, §341(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 100–647, title I, §1012(i)(19), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 105–34, title XI, §1146(a), Aug. 5, 1997, 111 Stat. 986; Pub. L. 110–172, §11(a)(33), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 

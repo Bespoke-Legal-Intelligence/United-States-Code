@@ -10,7 +10,7 @@ For purposes of section 4371(1), the term "policy of casualty insurance" means a
 
 #### (c) Indemnity bond
 
-For purposes of this chapter the term "indemnity bond" means any instrument by whatever name called whereby an obligation of the nature of an indemnity, fidelity, or surety bond is made, continued, or renewed. The term includes any bond for indemnifying any person who shall have become bound or engaged as surety, and any bond for the due execution or performance of any contract, obligation, or requirement, or the duties of any office or position, and to account for money received by virtue thereof, where a premium is charged for the execution of such bond.
+For purposes of this chapter the term "indemnity bond" means any instrument by whatever name called whereby an obligation of the nature of an indemnity, fidelity, or surety bond is made, continued, or renewed. The term includesany bond for indemnifying any person who shall have become bound or engaged as surety, and any bond for the due execution or performance of any contract, obligation, or requirement, or the duties of any office or position, and to account for money received by virtue thereof, where a premium is charged for the execution of such bond.
 
 #### (d) Insured
 
@@ -22,7 +22,7 @@ For purposes of section 4371(1), the term "insured" means—
 
 #### (e) Policy of life, sickness, or accident insurance, or annuity contract
 
-For the purpose of section 4371(2), the term "policy of life, sickness, or accident insurance,or annuity contract" means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
+For the purpose of section 4371(2), the term "policy of life, sickness, or accident insurance, or annuity contract" means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
 
 #### (f) Policy of reinsurance
 

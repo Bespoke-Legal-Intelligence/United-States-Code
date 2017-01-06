@@ -8,7 +8,7 @@
 
 #### (2) Collaboration
 
-&emsp;The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
+&emsp;The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department ofEducation, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
 
 #### (3) Administration
 
@@ -58,7 +58,7 @@
 
 #### (4) Secretarial action
 
-&emsp;As part of the annual report required under subsection (d), the Secretary shall describeeach such action taken under paragraph (1) or (2) and the outcomes of each such action.
+&emsp;As part of the annual report required under subsection (d), the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
 
 #### (5) Public notification
 

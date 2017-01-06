@@ -30,6 +30,10 @@
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
+#### Effective Date
+
+Section effective 60 days after Nov. 25, 2002, see section 1313(a)(4) of Pub. L. 107–296, set out as a note under section 3521 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "within".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>

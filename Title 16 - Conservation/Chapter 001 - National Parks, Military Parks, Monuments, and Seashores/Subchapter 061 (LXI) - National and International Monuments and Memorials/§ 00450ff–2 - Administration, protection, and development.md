@@ -1,6 +1,6 @@
 ### §450ff–2. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid national historic site shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916 (39 Stat. 535), entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended.
+The administration, protection, and development of the aforesaid national historic site shall be exercised under the direction of the Secretary of the Interior by the National Park Service,subject to the provisions of the Act of August 25, 1916 (39 Stat. 535), entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended.
 
 (June 19, 1948, ch. 546, §3, 62 Stat. 533; Pub. L. 87–78, §4, June 30, 1961, 75 Stat. 197.)
 
@@ -10,7 +10,7 @@ The Act of August 25, 1916 (39 Stat. 535), entitled "An Act to establish a Natio
 
 #### Change of Name
 
-Words "national historic site" substituted in text for "national monument" in view of redesignation of FortVancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.
+Words "national historic site" substituted in text for "national monument" in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.
 
 #### Transfer of Functions
 

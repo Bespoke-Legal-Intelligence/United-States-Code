@@ -16,7 +16,7 @@ Pub. L. 109–415, §303, substituted ", $218,600,000 for fiscal year 2007, $22
 
 <b>2000</b>—Pub. L. 106–345 substituted "for each of the fiscal years 2001 through 2005" for "in each of the fiscal years 1996, 1997, 1998, 1999, and 2000".
 
-<b>1996</b>—Pub. L. 104–146 substituted "such sums as may be necessary in each of the fiscal years 1996, 1997, 1998, 1999, and 2000." for "$75,000,000 for fiscal years 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995."
+<b>1996</b>—Pub. L. 104–146 substituted "such sums as may be necessary in each of the fiscal years 1996, 1997, 1998, 1999, and 2000." for "$75,000,000 for fiscal years 1991, andsuch sums as may be necessary for each of the fiscal years 1992 through 1995."
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

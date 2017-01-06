@@ -50,7 +50,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 #### Sec. 4. Incidental Transfers
 
-As he may deem necessary in order to carry out the provisions of this reorganization plan, the Secretary may from time to time effect transfers within the Department of Health, Education, and Welfare of any of the records, property, personnel and unexpended balances (available or to be made available) of appropriations, allocations, and other funds of the Department which relate to functions affected by this reorganization plan.
+As he may deem necessary in order to carry out the provisions of this reorganization plan, the Secretary may from time to time effect transfers within the Department of Health, Education, and Welfare of any of the records, property, personnel and unexpended balances (available or to be made available) of appropriations, allocations, and other funds of the Departmentwhich relate to functions affected by this reorganization plan.
 
 \[The Secretary and Department of Health, Education, and Welfare were redesignated the Secretary and Department of Health and Human Services, respectively, by 20 U.S.C. 3508.\]
 

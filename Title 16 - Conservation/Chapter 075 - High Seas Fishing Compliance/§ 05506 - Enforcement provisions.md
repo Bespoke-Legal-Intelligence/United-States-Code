@@ -10,7 +10,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (c) Powers of enforcement officers
 
-(1) Any officer who is authorized under subsection (a) of this section to enforce the provisions of this chapter may—
+(1) Any officer who is authorized under subsection (a) to enforce the provisions of this chapter may—
 
 &emsp;(A) with or without a warrant or other process—
 
@@ -32,7 +32,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (d) Issuance of citations
 
-If any authorized officer finds that a high seas fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (c) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+If any authorized officer finds that a high seas fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (c). If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 #### (e) Liability for costs
 
@@ -46,5 +46,5 @@ This chapter, referred to in subsec. (e), was in the original "this Act", and wa
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

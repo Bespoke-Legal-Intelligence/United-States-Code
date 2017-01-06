@@ -48,7 +48,7 @@ Pub. L. 102–484, div. A, title X, §1043, Oct. 23, 1992, 106 Stat. 2492, provi
 
 "(a)
 
-Requirements of Detection and Monitoring Systems.—The Secretary of Defense shall establish requirements for counter-drug detection and monitoring systems to be used by the Department of Defense in the performance of its mission under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of thetransit of illegal drugs into the United States. Such requirements shall be designed—
+Requirements of Detection and Monitoring Systems.—The Secretary of Defense shall establish requirements for counter-drug detection and monitoring systems to be used by the Department of Defense in the performance of its mission under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of the transit of illegal drugs into the United States. Such requirements shall be designed—
 
 &emsp;"(1) to minimize unnecessary redundancy between counter-drug detection and monitoring systems;
 
@@ -124,7 +124,7 @@ Report.—(1) Not later than February 1 of 1991 and 1992, the Secretary shall su
 
 &emsp;"(A) a description of the exercises conducted in drug-interdiction areas and the effectiveness of those exercises in the national counter-drug effort; and
 
-&emsp;"(B) a description of those additional actions that could be taken (and an assessment of the results of those actions) if additional funds were made available to the Department of Defense for additional military training exercises in drug-interdiction areas for the purpose of enhancing interdiction and deterrence of drug smuggling.
+&emsp;"(B) a description of those additional actions that could be taken (and an assessment of the results of those actions) if additional funds were made availableto the Department of Defense for additional military training exercises in drug-interdiction areas for the purpose of enhancing interdiction and deterrence of drug smuggling.
 
 "(c)
 

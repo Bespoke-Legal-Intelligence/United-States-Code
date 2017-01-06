@@ -46,7 +46,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
 
-&emsp;&emsp;(B) determined by the Administrator and the Secretary of Defense to be the most effective equipment or management practice to reduce the environmental impacts of the discharge consistent with the considerations set forth in subsection (n)(2)(B) of this section; and
+&emsp;&emsp;(B) determined by the Administrator and the Secretary of Defense to be the most effective equipment or management practice to reduce the environmental impacts of the discharge consistent with the considerations set forth in subsection (n)(2)(B); and
 
 &emsp;(14) "vessel of the Armed Forces" means—
 
@@ -78,9 +78,9 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 #### (f) Regulation by States or political subdivisions thereof; complete prohibition upon discharge of sewage
 
-(1)(A) Except as provided in subparagraph (B), after the effective date of the initial standardsand regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
+(1)(A) Except as provided in subparagraph (B), after the effective date of the initial standards and regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
 
-(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term "houseboat" means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
+(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term "houseboat" means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residenceand is not used primarily as a means of transportation.
 
 (2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
@@ -116,7 +116,7 @@ The district courts of the United States shall have jurisdictions to restrain vi
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
@@ -246,7 +246,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(II) regulations promulgated by the Secretary of Defense under paragraph (4);
 
-&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, the State may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
+&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, theState may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
 
 #### (ii) Documentation
 
@@ -286,7 +286,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (9) Enforcement
 
-&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k) of this section, against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
+&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k), against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
 
 #### (o) Management practices for recreational vessels
 
@@ -404,7 +404,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
-(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311,Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
+(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
 
 #### References in Text
 
@@ -418,7 +418,7 @@ For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see sectio
 
 Subsec. (a)(12) to (14). Pub. L. 104–106, §325(c)(1)(B), (C), added pars. (12) to (14).
 
-Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted "subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable" for "subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable".
+Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted "subsection (g)(1), clause (1) or (2) of subsection (h), orsubsection (n)(8) shall be liable" for "subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable".
 
 Subsec. (n). Pub. L. 104–106, §325(b), added subsec. (n).
 
@@ -508,7 +508,7 @@ Purpose.—The purpose of this subtitle is to provide funds to States for the co
 
 Survey.—Within 3 months after the notification under section 5605(b), each coastal State shall conduct a survey to determine—
 
-&emsp;"(1) the number and location of all operational pumpout stations and waste reception facilities atpublic and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and
+&emsp;"(1) the number and location of all operational pumpout stations and waste reception facilities at public and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and
 
 &emsp;"(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate.
 
@@ -518,7 +518,7 @@ Plan.—Within 6 months after the notification under section 5605(b), and based 
 
 &emsp;"(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and
 
-&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal.
+&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in thecoastal zone of the State which are operational on the date of submittal.
 
 "(c)
 
@@ -626,7 +626,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 "(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized,the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;"(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 

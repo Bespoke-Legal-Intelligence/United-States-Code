@@ -116,7 +116,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;&emsp;(III) The Secretary may request a single postponement of the consideration by the Board of Directors of the application for up to 14 days to allow the Secretary to submit to the Board of Directors a memorandum objecting to the application.
 
-&emsp;&emsp;&emsp;&emsp;(IV) Case-by-case decisions on whether to approve the use of the Tied Aid Credit Fund shall be made by the Board of Directors, except that the approval of theBoard of Directors (or a commitment letter based on that approval) shall not become final (except as provided in subclause (V)), if the Secretary indicates to the President of the Bank in writing the Secretary's intention to appeal the decision of the Board of Directors to the President of the United States and makes the appeal in writing not later than 20 days after the meeting at which the Board of Directors considered the application.
+&emsp;&emsp;&emsp;&emsp;(IV) Case-by-case decisions on whether to approve the use of the Tied Aid Credit Fund shall be made by the Board of Directors, except that the approval of the Board of Directors (or a commitment letter based on that approval) shall not become final (except as provided in subclause (V)), if the Secretary indicates to the President of the Bank in writing the Secretary's intention to appeal the decision of the Board of Directors to the President of the United States and makes the appeal in writing not later than 20 days after the meeting at which the Board of Directors considered the application.
 
 &emsp;&emsp;&emsp;&emsp;(V) The Bank shall not grant final approval of an application for any tied aid credit (or a commitment letter based on that approval) if the President of the United States, after consulting with the President of the Bank and the Secretary, determines within 30 days of an appeal by the Secretary under subclause (IV) that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6). If no such Presidential determination is made during the 30-day period, the approval by the Bank of the application (or related commitment letter) that was the subject of such appeal shall become final.
 
@@ -184,7 +184,7 @@ No action taken under this section shall be reviewable by any court, except for 
 
 &emsp;&emsp;(C) any use by the Bank of the Tied Aid Credit Fund to match specific offers, including those that are grandfathered or exceptions under the Arrangement; and
 
-&emsp;&emsp;(D) other actions by the United States Government to combat predatory financingpractices by foreign governments, including additional negotiations among participating governments in the Arrangement.
+&emsp;&emsp;(D) other actions by the United States Government to combat predatory financing practices by foreign governments, including additional negotiations among participating governments in the Arrangement.
 
 #### (3) Confidential information
 

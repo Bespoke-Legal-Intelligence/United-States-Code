@@ -6,7 +6,7 @@ Every member of a labor organization shall have equal rights and privileges with
 
 #### (2) Freedom of speech and assembly
 
-Every member of any labor organization shall have the right to meet and assemble freely with other members; and to express any views, arguments, or opinions; and to express at meetings of the labor organization his views, upon candidates in an election of the labor organizationor upon any business properly before the meeting, subject to the organization's established and reasonable rules pertaining to the conduct of meetings: <i>Provided</i>, That nothing herein shall be construed to impair the right of a labor organization to adopt and enforce reasonable rules as to the responsibility of every member toward the organization as an institution and to his refraining from conduct that would interfere with its performance of its legal or contractual obligations.
+Every member of any labor organization shall have the right to meet and assemble freely with other members; and to express any views, arguments, or opinions; and to express at meetings of the labor organization his views, upon candidates in an election of the labor organization or upon any business properly before the meeting, subject to the organization's established and reasonable rules pertaining to the conduct of meetings: <i>Provided</i>, That nothing herein shall be construed to impair the right of a labor organization to adopt and enforce reasonable rules as to the responsibility of every member toward the organization as an institution and to his refraining from conduct that would interfere with its performance of its legal or contractual obligations.
 
 #### (3) Dues, initiation fees, and assessments
 

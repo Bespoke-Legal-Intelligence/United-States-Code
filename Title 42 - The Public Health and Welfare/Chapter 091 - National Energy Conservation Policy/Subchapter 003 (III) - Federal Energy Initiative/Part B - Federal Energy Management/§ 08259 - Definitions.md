@@ -14,7 +14,7 @@ For the purposes of this part—
 
 &emsp;(6) the term "Federal building" means any building, structure, or facility, or part thereof, including the associated energy consuming support systems, which is constructed, renovated, leased, or purchased in whole or in part for use by the Federal Government and which consumes energy; such term also means a collection of such buildings, structures, or facilities and the energy consuming support systems for such collection;
 
-&emsp;(7) the term "life cycle cost" means the total costs of owning, operating, and maintaining a building over its useful life (including such costs as fuel, energy, labor, and replacement components) determined on the basis of a systematic evaluation and comparison of alternative building systems, except that in the case of leased buildings, the life cycle costs shall be calculated over the effective remaining term of the lease;
+&emsp;(7) the term "life cycle cost" means the total costs of owning, operating, and maintaining a building over its useful life (including such costs as fuel, energy, labor, and replacement components) determined on the basis of a systematic evaluation and comparison of alternative building systems, except that in the case of leased buildings, the lifecycle costs shall be calculated over the effective remaining term of the lease;
 
 &emsp;(8) the term "renewable energy sources" includes, but is not limited to, sources such as agriculture and urban waste, geothermal energy, solar energy, and wind energy; and
 

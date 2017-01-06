@@ -1,0 +1,6 @@
+### §1780<i>o</i>. Omitted
+
+#### Codification
+
+Section, Pub. L. 109–286, §17, Sept. 27, 2006, 120 Stat. 1229, which expressed intent of Congress that most land conveyances and adjustments be completed by 180 days after Sept. 27, 2006, was omitted from the Code as being of special and not general application.
+

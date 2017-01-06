@@ -1,0 +1,6 @@
+### §554. Omitted
+
+#### Codification
+
+Section, act June 1, 1938, ch. 310, §4, 52 Stat. 606, which related to disposition of payment upon the death of an Indian, was omitted from the Code as being of special and not general application.
+

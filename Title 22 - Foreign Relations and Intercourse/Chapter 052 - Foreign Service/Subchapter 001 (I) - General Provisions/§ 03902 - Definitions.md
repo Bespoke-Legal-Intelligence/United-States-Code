@@ -20,7 +20,7 @@ As used in this chapter, the term—
 
 &emsp;(9) "principal officer" means the officer in charge of a diplomatic mission, consular mission (other than a consular agency), or other Foreign Service post;
 
-&emsp;(10) "Secretary" means the Secretary of State, except that (subject to section 3921 of this title) with reference to the exercise of functions under this Act with respect to any agency authorized by law to utilize the Foreign Service personnel system, such term means the head of that agency;
+&emsp;(10) "Secretary" means the Secretary of State, except that (subject to section 3921 ofthis title) with reference to the exercise of functions under this Act with respect to any agency authorized by law to utilize the Foreign Service personnel system, such term means the head of that agency;
 
 &emsp;(11) "Service" or "Foreign Service" means the Foreign Service of the United States; and
 

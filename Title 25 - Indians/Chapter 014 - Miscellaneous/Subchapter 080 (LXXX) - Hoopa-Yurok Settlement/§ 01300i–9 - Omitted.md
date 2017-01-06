@@ -1,0 +1,6 @@
+### §1300i–9. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–580, §10, Oct. 31, 1988, 102 Stat. 2934, which related to establishment of a plan for economic development for the Yurok Tribe, was omitted from the Code as being of special and not general application.
+

@@ -16,7 +16,7 @@ Section effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as
 
 #### Amendment to Rule 23 of Federal Rules of Civil Procedure; Effective Date
 
-Pub. L. 109–2, §7, Feb. 18, 2005, 119 Stat. 13, provided that: "Notwithstanding any other provision of law, the amendments to rule 23 of the Federal Rules of Civil Procedure, which are set forth in the order entered by the Supreme Court of the United States on March 27, 2003, shall take effect on the date of enactment of this Act \[Feb. 18, 2005\] or on December 1, 2003 (as specified in that order), whichever occurs first."
+Pub. L. 109–2, §7, Feb. 18, 2005, 119 Stat. 13, provided that: "Notwithstanding any other provision of law, the amendments to rule 23 of the Federal Rules of Civil Procedure, which are set forth in the order entered by the Supreme Court of the United States on March 27, 2003, shall take effect on the date of enactment of thisAct \[Feb. 18, 2005\] or on December 1, 2003 (as specified in that order), whichever occurs first."
 
 #### Modification of Amendments to Federal Rules of Criminal Procedure Proposed April 29, 2002; Effective Date
 
@@ -60,7 +60,7 @@ Pub. L. 102–198, §11, Dec. 9, 1991, 105 Stat. 1626, provided that:
 
 "(a)
 
-Technical Amendment.—Rule 15(c)(3) of the Federal Rules of Civil Procedure for the United StatesCourts, as transmitted to the Congress by the Supreme Court pursuant to section 2074 of title 28, United States Code, to become effective on December 1, 1991, is amended by striking 'Rule 4(m)' and inserting 'Rule 4(j)'.
+Technical Amendment.—Rule 15(c)(3) of the Federal Rules of Civil Procedure for the United States Courts, as transmitted to the Congress by the Supreme Court pursuant to section 2074 of title 28, United States Code, to become effective on December 1, 1991, is amended by striking 'Rule 4(m)' and inserting 'Rule 4(j)'.
 
 "(b)
 
@@ -100,7 +100,7 @@ Pub. L. 95–78, §4, July 30, 1977, 91 Stat. 322, provided that:
 
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings for United States District Courts
 
-Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: "That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled 'An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court' (Public Law 94–349), are approved with the amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977."
+Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: "That the rules governing section 2254 cases inthe United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled 'An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court' (Public Law 94–349), are approved with the amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977."
 
 #### Amendments to Criminal Rules Under Supreme Court Order of April 26, 1976; Postponement of Effective Date
 
@@ -112,7 +112,7 @@ Pub. L. 94–349, §2, July 8, 1976, 90 Stat. 822, provided: "That, notwithstand
 
 #### Approval and Effective Date of Amendments Proposed April 22, 1974
 
-Pub. L. 94–64, §2, July 31, 1975, 89 Stat. 370, provided that: "The amendments proposed by the United StatesSupreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2, and 29.1 and amending rules 4, 9(a), 11, 12, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act \[making further amendments to rules 4, 9(a), 11, 12, 12.1, 12.2, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act shall also take effect on December 1, 1975."
+Pub. L. 94–64, §2, July 31, 1975, 89 Stat. 370, provided that: "The amendments proposed by the United States Supreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2, and 29.1 and amending rules 4, 9(a), 11, 12, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act \[making further amendments to rules 4, 9(a), 11, 12, 12.1, 12.2, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act shall also take effect on December 1, 1975."
 
 #### Approval and Effective Date of Amendments Proposed November 20, 1972 and December 18, 1972
 

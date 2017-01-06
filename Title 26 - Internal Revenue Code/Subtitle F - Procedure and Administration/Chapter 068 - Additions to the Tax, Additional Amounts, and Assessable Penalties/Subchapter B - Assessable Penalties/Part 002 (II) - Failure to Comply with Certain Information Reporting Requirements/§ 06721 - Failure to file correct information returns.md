@@ -32,9 +32,9 @@
 
 &emsp;&emsp;(B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
-#### (c) Exception for de minimis failures to include all required information
+#### (c) Exceptions for certain de minimis failures
 
-#### (1) In general
+#### (1) Exception for de minimis failure to include all required information
 
 &emsp;If—
 
@@ -53,6 +53,28 @@
 &emsp;&emsp;(A) 10, or
 
 &emsp;&emsp;(B) one-half of 1 percent of the total number of information returns required to be filed by the person during the calendar year.
+
+#### (3) Safe harbor for certain de minimis errors
+
+#### (A) In general
+
+&emsp;&emsp;If, with respect to an information return filed with the Secretary—
+
+&emsp;&emsp;&emsp;(i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+
+&emsp;&emsp;&emsp;(ii) no single amount in error differs from the correct amount by more than $100, and
+
+&emsp;&emsp;&emsp;(iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+
+> &emsp;&emsp;then no correction shall be required and, for purposes of this section, such return shall betreated as having been filed with all of the correct required information.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply with respect to any incorrect dollar amount to the extent that such error relates to an amount with respect to which an election is made under section 6722(c)(3)(B).
+
+#### (C) Regulatory authority
+
+&emsp;&emsp;The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
 
 #### (d) Lower limitations for persons with gross receipts of not more than $5,000,000
 
@@ -117,40 +139,6 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 &emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
 (Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b), Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073; Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562; Pub. L. 113–295, div. B, title II, §208(f), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–27, title VIII, §806(a)–(d), June 29, 2015, 129 Stat. 416, 417; Pub. L. 114–113, div. Q, title II, §202(a), (d), Dec. 18, 2015, 129 Stat. 3076, 3077.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 114–113, div. Q, title II, §202(a), (d), (e), Dec. 18, 2015, 129 Stat. 3076–3078, provided that, applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, subsection (c) of this section is amended as follows:</i>
-
-<i>(1) in the subsection heading, by striking "Exception for de minimis failures to include all required information" and inserting "Exceptions for certain de minimis failures";</i>
-
-<i>(2) in the par. (1) heading, by striking "In general" and inserting "Exception for de minimis failure to include all required information"; and</i>
-
-<i>(3) by adding at the end the following new paragraph:</i>
-
-#### <i>(3) Safe harbor for certain de minimis errors</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>If, with respect to an information return filed with the Secretary—</i>
-
-&emsp;&emsp;&emsp;<i>(i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,</i>
-
-&emsp;&emsp;&emsp;<i>(ii) no single amount in error differs from the correct amount by more than $100, and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,</i>
-
-> &emsp;&emsp;<i>then no correction shall be required and, for purposes of this section, such return shall be treated as having been filed with all of the correct required information.</i>
-
-#### <i>(B) Exception</i>
-
-&emsp;&emsp;<i>Subparagraph (A) shall not apply with respect to any incorrect dollar amount to the extent that such error relates to an amount with respect to which an election is made under section 6722(c)(3)(B).</i>
-
-#### <i>(C) Regulatory authority</i>
-
-&emsp;&emsp;<i>The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 

@@ -34,7 +34,7 @@ The purpose of this section is to support the participation of low-income parent
 
 #### (B) Payments
 
-&emsp;&emsp;Subject to subsection (e)(2) of this section, the Secretary shall make annual grant payments under this section.
+&emsp;&emsp;Subject to subsection (e)(2), the Secretary shall make annual grant payments under this section.
 
 #### (4) Eligible institutions
 
@@ -62,13 +62,13 @@ The purpose of this section is to support the participation of low-income parent
 
 #### (8) Publicity
 
-&emsp;The Secretary shall publicize the availability of grants under this section in appropriate periodicals, in addition to publication in the Federal Register, and shall inform appropriate educational organizations of such availability.
+&emsp;The Secretary shall publicize the availability of grants under this section in appropriate periodicals, in addition to publication in theFederal Register, and shall inform appropriate educational organizations of such availability.
 
 #### (c) Applications
 
 An institution of higher education desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall—
 
-&emsp;(1) demonstrate that the institution is an eligible institution described in subsection (b)(4) of this section;
+&emsp;(1) demonstrate that the institution is an eligible institution described in subsection (b)(4);
 
 &emsp;(2) specify the amount of funds requested;
 

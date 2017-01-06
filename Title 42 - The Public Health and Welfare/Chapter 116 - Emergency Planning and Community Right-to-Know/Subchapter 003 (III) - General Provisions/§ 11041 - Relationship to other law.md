@@ -6,7 +6,7 @@ Nothing in this chapter shall—
 
 &emsp;(1) preempt any State or local law,
 
-&emsp;(2) except as provided in subsection (b) of this section, otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law, or
+&emsp;(2) except as provided in subsection (b), otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law, or
 
 &emsp;(3) affect or modify in any way the obligations or liabilities of any person under other Federal law.
 

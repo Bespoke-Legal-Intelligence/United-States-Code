@@ -6,7 +6,7 @@ Any committee of either House of Congress before which any private claim against
 
 #### Codification
 
-This section and section 190m of this title were an act entitled "An act to provide for taking testimony, to be used before Congress, in cases of private claims against the United States."
+This section and section 190m of this title were an act entitled "An act to provide for taking testimony, to beused before Congress, in cases of private claims against the United States."
 
 The original text referred to "any standing master in chancery of the circuit of the United States within the judicial district where such testimony or evidence is to be taken." The words "of the circuit of the United States" were omitted as inappropriate since the abolition of circuit courts by act Mar. 3, 1911.
 

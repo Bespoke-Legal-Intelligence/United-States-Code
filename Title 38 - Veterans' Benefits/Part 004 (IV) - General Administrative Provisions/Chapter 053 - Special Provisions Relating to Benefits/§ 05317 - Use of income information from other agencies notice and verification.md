@@ -22,7 +22,7 @@
 
 (d) In the case of compensation described in subsection (c)(4) of this section, the Secretary may independently verify or otherwise act upon wage or self-employment information referred to in subsection (b) of this section only if the Secretary finds that the amount and duration of the earnings reported in that information clearly indicate that the individual may no longer be qualified for a rating of total disability.
 
-(e) The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (b) of this section, and shall give the individual an opportunity to contest such findings, in the same manner as applies to other informationand findings relating to eligibility for the benefit or service involved.
+(e) The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (b) of this section, and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
 
 (f) The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 

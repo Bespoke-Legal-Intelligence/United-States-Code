@@ -1,6 +1,6 @@
 ### §3741. Annual certifications on use of facilities being constructed for Department of Defense Cooperative Threat Reduction projects or activities
 
-Not later than the first Monday in February each year, the Secretary of Defense shall submit to the congressional defense committees a certification for each facility of a project or activity of the Program for which construction occurred during the preceding fiscal year on matters as follows:
+Not later than the first Monday in February each year, the Secretary of Defense shall submitto the congressional defense committees a certification for each facility of a project or activity of the Program for which construction occurred during the preceding fiscal year on matters as follows:
 
 &emsp;(1) Whether or not such facility will be used for its intended purpose by the government of the foreign country in which the facility is constructed.
 

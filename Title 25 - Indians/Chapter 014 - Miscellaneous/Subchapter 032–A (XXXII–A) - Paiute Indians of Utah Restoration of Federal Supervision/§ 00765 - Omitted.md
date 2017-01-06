@@ -1,0 +1,6 @@
+### §765. Omitted
+
+#### Codification
+
+Section, Pub. L. 96–227, §6, Apr. 3, 1980, 94 Stat. 319, which related to tribal constitution and bylaws, was omitted from the Code as being of special and not general application.
+

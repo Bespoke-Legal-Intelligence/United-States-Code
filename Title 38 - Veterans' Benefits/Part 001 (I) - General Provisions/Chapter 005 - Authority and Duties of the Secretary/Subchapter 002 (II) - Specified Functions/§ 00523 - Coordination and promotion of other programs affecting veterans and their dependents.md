@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in section 220 of thi
 
 #### Pilot Program on Use of Community-Based Organizations and Local and State Government Entities To Ensure That Veterans Receive Care and Benefits for Which They Are Eligible
 
-Pub. L. 111–163, title V, §506, May 5, 2010, 124 Stat. 1160, provided that:
+Pub. L. 111–163, title V, §506, May 5, 2010, 124 Stat. 1160, as amended by Pub. L. 114–228, title I, §108, Sept. 29, 2016, 130 Stat. 938, provided that:
 
 "(a)
 
@@ -82,7 +82,7 @@ Report on Program.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program.
+In general.—Not later than September 30, 2017, the Secretary shall submit to Congress a report on the pilot program.
 
 &emsp;"(2)
 

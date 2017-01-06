@@ -54,6 +54,26 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 &emsp;&emsp;(ii) include in every final report of investigation any exculpatory information, as well as any inculpatory information, that has been discovered in the course of the investigation.
 
+(6)
+
+Required reporting of allegations and investigations and inspector general authority.—
+
+&emsp;(A)
+
+In general.—The head of a bureau, post, or other office of the Department of State (in this paragraph referred to as a "Department entity") shall submit to the Inspector General a report of any allegation of—
+
+&emsp;&emsp;(i) waste, fraud, or abuse in a Department program or operation;
+
+&emsp;&emsp;(ii) criminal or serious misconduct on the part of a Department employee at the FS–1, GS–15, or GM–15 level or higher;
+
+&emsp;&emsp;(iii) criminal misconduct on the part of a Department employee; and
+
+&emsp;&emsp;(iv) serious, noncriminal misconduct on the part of any Department employee who is authorized to carry a weapon, make arrests, or conduct searches, such as conduct that, if proved, would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority.
+
+&emsp;(B)
+
+Deadline.—The head of a Department entity shall submit to the Inspector General a report of an allegation described in subparagraph (A) not later than 5 business days after the date on which the head of such Department entity is made aware of such allegation.
+
 #### (d) Reports by Inspector General and Secretary of State
 
 (1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
@@ -100,13 +120,15 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
-(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443.)
+(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443; Pub. L. 114–323, title II, §203, Dec. 16, 2016, 130 Stat. 1916.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(6). Pub. L. 114–323 added par. (6).
 
 <b>1999</b>—Subsec. (c)(5). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §339(a)\], added par. (5).
 
@@ -144,5 +166,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### No Grievance or Right of Action
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: "A failure to comply with the amendments made by this section \[amending this section\] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, providedthat: "A failure to comply with the amendments made by this section \[amending this section\] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law."
 

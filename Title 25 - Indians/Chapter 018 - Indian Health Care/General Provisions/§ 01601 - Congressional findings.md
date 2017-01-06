@@ -42,7 +42,7 @@ Pub. L. 102–573, §1, Oct. 29, 1992, 106 Stat. 4526, provided that: "This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–630, title V, §501, Nov. 28, 1990, 104 Stat. 4556, provided that: "This title \[enacting sections 1621h,1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title\] may be cited as the 'Indian Health Care Amendments of 1990'."
+Pub. L. 101–630, title V, §501, Nov. 28, 1990, 104 Stat. 4556, provided that: "This title \[enacting sections 1621h, 1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title\] may be cited as the 'Indian Health Care Amendments of 1990'."
 
 #### Short Title of 1988 Amendment
 
@@ -62,5 +62,5 @@ Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided th
 
 #### Availability of Appropriations
 
-Pub. L. 100–713, §4, Nov. 23, 1988, 102 Stat. 4785, provided that: "Any new spending authority (described in subsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(A), (B)\]) which is provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
+Pub. L. 100–713, §4, Nov. 23, 1988, 102 Stat. 4785, provided that: "Any new spending authority (described insubsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(A), (B)\]) which is provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 

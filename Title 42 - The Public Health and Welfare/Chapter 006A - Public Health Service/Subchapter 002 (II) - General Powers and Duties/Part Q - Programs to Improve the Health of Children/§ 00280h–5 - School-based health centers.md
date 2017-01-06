@@ -20,7 +20,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "medically underserved children and adolescents" means a population of children and adolescents who are residents of an area designated as a medically underserved area or a health professional shortage area by the Secretary.
+&emsp;&emsp;The term "medically underserved children and adolescents" means a population of children and adolescents who are residents of anarea designated as a medically underserved area or a health professional shortage area by the Secretary.
 
 #### (B) Criteria
 
@@ -150,7 +150,7 @@ An eligible entity receiving funds under this section shall only provide age app
 
 #### (k) Parental consent
 
-An eligible entity receiving funds under this section shall not provide services through a <sup>1</sup>SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
+An eligible entity receiving funds under this section shall not provide services through a <sup>1</sup> SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
 
 #### (l) Authorization of appropriations
 

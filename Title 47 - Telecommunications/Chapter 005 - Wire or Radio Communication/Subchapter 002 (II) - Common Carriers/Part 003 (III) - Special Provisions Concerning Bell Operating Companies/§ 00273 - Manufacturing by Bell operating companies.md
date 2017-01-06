@@ -8,11 +8,11 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (1) Collaboration
 
-&emsp;Subsection (a) of this section shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
+&emsp;Subsection (a) shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
 
 #### (2) Certain research arrangements; royalty agreements
 
-&emsp;Subsection (a) of this section shall not prohibit a Bell operating company from—
+&emsp;Subsection (a) shall not prohibit a Bell operating company from—
 
 &emsp;&emsp;(A) engaging in research activities related to manufacturing, and
 
@@ -46,7 +46,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;(B) notwithstanding paragraph (3), shall not engage in manufacturing telecommunications equipment or customer premises equipment as long as it is an affiliate of more than 1 otherwise unaffiliated Bell operating company or successor or assign of any such company.
 
-> &emsp;Nothing in this subsection prohibits Bell Communications Research, Inc., or any successor entity, from engaging in any activity in which it is lawfully engaged on February 8, 1996. Nothing provided in this subsection shall render Bell Communications Research, Inc., orany successor entity, a common carrier under this subchapter. Nothing in this subsection restricts any manufacturer from engaging in any activity in which it is lawfully engaged on February 8, 1996.
+> &emsp;Nothing in this subsection prohibits Bell Communications Research, Inc., or any successor entity, from engaging in any activity in which it is lawfully engaged on February 8, 1996. Nothing provided in this subsection shall render Bell Communications Research, Inc., or any successor entity, a common carrier under this subchapter. Nothing in this subsection restricts any manufacturer from engaging in any activity in which it is lawfully engaged on February 8, 1996.
 
 #### (2) Proprietary information
 
@@ -98,7 +98,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;(C) not undertake any actions to monopolize or attempt to monopolize the market for such services; and
 
-&emsp;&emsp;(D) not preferentially treat its own telecommunications equipment or customer premises equipment, or that of its affiliate, over that of any other entity in establishing and publishing industry-wide standards or industry-wide generic requirements for, and in certification of, telecommunications equipment and customer premises equipment.
+&emsp;&emsp;(D) not preferentially treat its own telecommunications equipment or customerpremises equipment, or that of its affiliate, over that of any other entity in establishing and publishing industry-wide standards or industry-wide generic requirements for, and in certification of, telecommunications equipment and customer premises equipment.
 
 #### (5) Alternate dispute resolution
 
@@ -146,7 +146,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (3) Network planning and design
 
-&emsp;A Bell operating company shall, to the extent consistent with the antitrust laws, engage in joint network planning and design with local exchange carriers operating in the same area of interest. No participant in such planning shall be allowed to delay the introduction of new technology or the deployment of facilities to provide telecommunications services, and agreement with such other carriers shall not be required as a prerequisite for such introduction or deployment.
+&emsp;A Bell operating company shall, to the extent consistent with the antitrust laws, engage in joint network planning and design with local exchange carriers operating in the same area of interest. No participant in such planning shall be allowed to delay the introduction of new technology or the deployment of facilities to provide telecommunicationsservices, and agreement with such other carriers shall not be required as a prerequisite for such introduction or deployment.
 
 #### (4) Sales restrictions
 

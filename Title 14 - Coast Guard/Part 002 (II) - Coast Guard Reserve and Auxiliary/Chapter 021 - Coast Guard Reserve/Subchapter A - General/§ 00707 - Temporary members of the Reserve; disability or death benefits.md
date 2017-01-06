@@ -26,7 +26,7 @@
 
 #### References in Text
 
-The law authorizing compensation for employees of the United States, referred to in subsec. (a), appears insubchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees.
+The law authorizing compensation for employees of the United States, referred to in subsec. (a), appears in subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
 

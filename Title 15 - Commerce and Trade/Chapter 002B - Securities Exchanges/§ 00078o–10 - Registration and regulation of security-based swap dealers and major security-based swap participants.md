@@ -74,7 +74,7 @@
 
 #### (A) Security-based swap dealers and major security-based swap participants that are banks
 
-&emsp;&emsp;Each registered security-based swap dealer and major security-based swap participant for which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
+&emsp;&emsp;Each registered security-based swap dealer and major security-based swap participantfor which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
 
 #### (B) Security-based swap dealers and major security-based swap participants that are not banks
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To offset the greater risk to the security-based swap dealer or major security-based swap participant and the financial systemarising from the use of security-based swaps that are not cleared, the requirements imposed under paragraph (2) shall—
+&emsp;&emsp;To offset the greater risk to the security-based swap dealer or major security-based swap participant and the financial system arising from the use of security-based swaps that are not cleared, the requirements imposed under paragraph (2) shall—
 
 &emsp;&emsp;&emsp;(i) help ensure the safety and soundness of the security-based swap dealer or major security-based swap participant; and
 
@@ -182,7 +182,7 @@
 
 #### (3) Counterparty records
 
-&emsp;Each registered security-based swap dealer and major security-based swap participantshall maintain daily trading records for each counterparty in a manner and form that is identifiable with each security-based swap transaction.
+&emsp;Each registered security-based swap dealer and major security-based swap participant shall maintain daily trading records for each counterparty in a manner and form that is identifiable with each security-based swap transaction.
 
 #### (4) Audit trail
 
@@ -490,7 +490,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 &emsp;&emsp;(D) is subject to an order or a final order specified in subparagraph (F) or (H), respectively, of such paragraph (4); or
 
-&emsp;&emsp;(E) has been found by a foreign financial regulatory authority to have committed oromitted any act, or violated any foreign statute or regulation, enumerated in subparagraph (G) of such paragraph (4).
+&emsp;&emsp;(E) has been found by a foreign financial regulatory authority to have committed or omitted any act, or violated any foreign statute or regulation, enumerated in subparagraph (G) of such paragraph (4).
 
 #### (4) Unlawful conduct
 

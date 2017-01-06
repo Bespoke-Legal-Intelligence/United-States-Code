@@ -26,7 +26,7 @@ The Secretary shall develop innovative methods of disseminating information on a
 
 #### (2) Annual review of most and least successful work programs
 
-&emsp;The Secretary shall review the programs of the 3 States most recently ranked highest under paragraph (1) and the 3 States most recently ranked lowest under paragraph (1) that provide parents with work experience, assistance in finding employment, and other work preparation activities and support services to enable the families of such parents to leave the program and become self-sufficient.
+&emsp;The Secretary shall review the programs of the 3 States most recently ranked highestunder paragraph (1) and the 3 States most recently ranked lowest under paragraph (1) that provide parents with work experience, assistance in finding employment, and other work preparation activities and support services to enable the families of such parents to leave the program and become self-sufficient.
 
 #### (e) Annual ranking of States and review of issues relating to out-of-wedlock births
 
@@ -76,7 +76,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;The matters described in this paragraph are the following:
 
-&emsp;&emsp;(A) The percentage of each group that has dropped out of secondary school (or the equivalent), and the percentage of eachgroup at each level of educational attainment.
+&emsp;&emsp;(A) The percentage of each group that has dropped out of secondary school (or the equivalent), and the percentage of each group at each level of educational attainment.
 
 &emsp;&emsp;(B) The percentage of each group that is employed.
 
@@ -98,11 +98,11 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;Funds made available to carry out this section for a fiscal year shall be used for the purpose of paying—
 
-&emsp;&emsp;(A) the cost of conducting the research described in subsection (a) of this section;
+&emsp;&emsp;(A) the cost of conducting the research described in subsection (a);
 
-&emsp;&emsp;(B) the cost of developing and evaluating innovative approaches for reducing welfare dependency and increasing the well-being of minor children under subsection (b) of this section;
+&emsp;&emsp;(B) the cost of developing and evaluating innovative approaches for reducing welfare dependency and increasing the well-being of minor children under subsection (b);
 
-&emsp;&emsp;(C) the Federal share of any State-initiated study approved under subsection (f) of this section; and
+&emsp;&emsp;(C) the Federal share of any State-initiated study approved under subsection (f); and
 
 &emsp;&emsp;(D) an amount determined by the Secretary to be necessary to operate and evaluate demonstration projects, relating to this part, that are in effect or approved under section 1315 of this title as of August 22, 1996, and are continued after such date.
 
@@ -184,7 +184,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### References in Text
 
-Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
+Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out asthis part. For complete classification of section 103 to the Code, see Tables.
 
 #### Codification
 
@@ -270,7 +270,7 @@ Pub. L. 105–33, title V, §5001(i), Aug. 5, 1997, 111 Stat. 593, directed the 
 
 #### Study on Alternative Outcomes Measures
 
-Pub. L. 104–193, title I, §107, Aug. 22, 1996, 110 Stat. 2164, as amended by Pub. L. 105–33, title V, §5511, Aug. 5, 1997, 111 Stat. 619, directed the Secretary, in cooperation with the States, to study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in 42 U.S.C. 607, and to submit a report to the appropriate committees of Congress by Sept. 30, 1998.
+Pub. L. 104–193, title I, §107, Aug. 22, 1996, 110 Stat. 2164, as amended by Pub. L. 105–33, title V, §5511, Aug.5, 1997, 111 Stat. 619, directed the Secretary, in cooperation with the States, to study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in 42 U.S.C. 607, and to submit a report to the appropriate committees of Congress by Sept. 30, 1998.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Qualified property or services
 
-&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinarycourse of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
+&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
 
 #### (d) Working condition fringe defined
 
@@ -338,7 +338,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (8) Application of section to otherwise taxable educational or training benefits
 
-&emsp;Amounts paid or expenses incurred by the employer for education or training provided tothe employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
+&emsp;Amounts paid or expenses incurred by the employer for education or training provided to the employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
 
 #### (k) Customers not to include employees
 
@@ -346,7 +346,7 @@ For purposes of this section (other than subsection (c)(2)), the term "customers
 
 #### (l) Section not to apply to fringe benefits expressly provided for elsewhere
 
-This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of a type the tax treatment of which is expressly provided for in any other section of this chapter.
+This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of atype the tax treatment of which is expressly provided for in any other section of this chapter.
 
 #### (m) Qualified retirement planning services
 
@@ -520,7 +520,7 @@ Pub. L. 114–113, div. Q, title I, §105(b), Dec. 18, 2015, 129 Stat. 3046, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §103(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made by this section \[amending this section\] shall apply to months after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §103(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made bythis section \[amending this section\] shall apply to months after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 
@@ -686,7 +686,7 @@ Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as ame
 
 &emsp;"(2) the primary business of the affiliated group is the operation of retail department stores,
 
-> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employershall be treated as engaged in the same line of business as such other member."
+> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "performing".</i>
 

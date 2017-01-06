@@ -16,7 +16,7 @@ Amounts available for fellowships under this section, including amounts accepted
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original "this Act" and was translated as reading "thistitle" meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (a), was in the original "this Act" and was translated as reading "this title" meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 107–299, §5(b), struck out heading and text of subsec. (
 
 <b>1991</b>—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted "and" after semicolon at end of par. (5), redesignated par. (7) as (6), and struck out former par. (6) which read as follows: "may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under section 1125 of this title; and".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by sea grant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes."
+<b>1987</b>—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by seagrant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes."
 
 Pub. L. 100–66, §3(1), substituted "Except as provided in subsection (b) of this section, sea" for "Sea".
 

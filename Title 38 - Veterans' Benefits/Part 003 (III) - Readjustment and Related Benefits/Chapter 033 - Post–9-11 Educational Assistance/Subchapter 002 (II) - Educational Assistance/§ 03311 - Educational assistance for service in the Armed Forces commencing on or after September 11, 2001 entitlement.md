@@ -32,7 +32,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;&emsp;(i) continues on active duty for an aggregate of less than 36 months; or
 
-&emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 36 months, is discharged or released from active duty as described in subsection (c).
+&emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 36 months, isdischarged or released from active duty as described in subsection (c).
 
 &emsp;(4) An individual who—
 
@@ -122,7 +122,7 @@ Prohibition on Treatment of Certain Service as Period of Active Duty.—The foll
 
 (e)
 
-Treatment of Individuals Entitled Under Multiple Provisions.—In the event an individual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
+Treatment of Individuals Entitled Under Multiple Provisions.—In the event anindividual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
 
 (f)
 
@@ -142,15 +142,41 @@ Limitation.—The entitlement of an individual to assistance under subsection (a
 
 &emsp;(3)
 
-Election on receipt of certain benefits.—A surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
 &emsp;(4)
 
-Definition of child.—For purposes of that paragraph, the term "child" includes a married individual or an individual who is above the age of twenty-three years.
+Exception for certain elections.—
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795.)
+&emsp;&emsp;(A)
+
+In general.—An election made under paragraph (3) by a spouse described in subparagraph (B) may not be treated as irrevocable if such election occurred before the date of the enactment of this paragraph.
+
+&emsp;&emsp;(B)
+
+Eligible surviving spouse.—A spouse described in this subparagraph is an individual—
+
+&emsp;&emsp;&emsp;(i) who is entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b); and
+
+&emsp;&emsp;&emsp;(ii) who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005.
+
+&emsp;(5)
+
+Definition of child.—For purposes of paragraph (9) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(3). Pub. L. 114–315, §401(b)(1), substituted "Except as provided in paragraph (4), a surviving spouse" for "A surviving spouse".
+
+Subsec. (f)(4). Pub. L. 114–315, §401(b)(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (f)(5). Pub. L. 114–315, §401(b)(2), (c), redesignated par. (4) as (5) and substituted "paragraph (9) of subsection (b)" for "that paragraph".
 
 <b>2014</b>—Subsec. (b)(9). Pub. L. 113–146, §701(a), inserted "or spouse" after "child".
 
@@ -166,7 +192,15 @@ Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–146, title VII, §701(d), Aug. 7, 2014, 128 Stat. 1796, provided that: "The amendments made by this section \[amending this section and section 3321 of this title\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015."
+Pub. L. 113–146, title VII, §701(d), Aug. 7, 2014, 128 Stat. 1796, as amended by Pub. L. 114–315, title IV, §401(a), Dec. 16, 2016, 130 Stat. 1553, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section and section 3321 of this title\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015.
+
+"(2)
+
+Deaths that occurred between september 11, 2001, and december 31, 2005.—For purposes of section 3311(f)(2) of title 38, United States Code, any member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005, is deemed to have died on January 1, 2006."
 
 #### Effective Date of 2011 Amendment
 

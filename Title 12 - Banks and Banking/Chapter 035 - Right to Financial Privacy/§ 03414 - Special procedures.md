@@ -54,7 +54,7 @@
 
 #### (B) Certification
 
-&emsp;&emsp;The requirements of subparagraph (A) shall apply if the Director of the Federal Bureau of Investigation, or a designee of the Director whose rank shall be no lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office, certifies that the absenceof a prohibition of disclosure under this subsection may result in—
+&emsp;&emsp;The requirements of subparagraph (A) shall apply if the Director of the Federal Bureau of Investigation, or a designee of the Director whose rank shall be no lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
 &emsp;&emsp;&emsp;(i) a danger to the national security of the United States;
 
@@ -124,7 +124,7 @@ Subsecs. (d), (e). Pub. L. 114–23, §503(b), added subsec. (d) and redesignate
 
 Subsec. (a)(3). Pub. L. 109–177, §116(d), which directed the general amendment of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: "No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that a Government authority described in paragraph (1) has sought or obtained access to a customer's financial records."
 
-Subsec. (a)(3)(D). Pub. L. 109–178, §4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: "At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agencyor the Secret Service the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance."
+Subsec. (a)(3)(D). Pub. L. 109–178, §4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: "At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was madeprior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance."
 
 Subsec. (a)(5)(D). Pub. L. 109–177, §116(e), which directed the general amendment of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: "No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under this paragraph."
 
@@ -149,6 +149,10 @@ Pub. L. 109–178, Mar. 9, 2006, 120 Stat. 282, provided in part that: "This Act
 #### Effective Date of 2001 Amendment
 
 Amendment by section 358(f)(2) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
 #### Transfer of Functions
 

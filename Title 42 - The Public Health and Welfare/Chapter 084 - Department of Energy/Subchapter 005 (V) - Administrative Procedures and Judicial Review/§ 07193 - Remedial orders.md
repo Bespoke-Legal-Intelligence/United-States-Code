@@ -26,7 +26,7 @@ The provisions of preceding provisions of this section shall be applicable only 
 
 #### (g) Retroactive application; marketing of petroleum products
 
-With respect to any person whose sole petroleum industry operation relates to the marketing of petroleum products, the Secretary or any person acting on his behalf may not exercise discretion to maintain a civil action (other than an action for injunctive relief) or issue a remedial order against such person for any violation of any rule or regulation if—
+With respect to any person whose sole petroleum industry operation relates to the marketing of petroleum products, the Secretary or any person acting on his behalf may not exercise discretion to maintain a civil action (other than an action for injunctive relief) or issue a remedialorder against such person for any violation of any rule or regulation if—
 
 &emsp;(1) such civil action or order is based on a retroactive application of such rule or regulation or is based upon a retroactive interpretation of such rule or regulation; and
 

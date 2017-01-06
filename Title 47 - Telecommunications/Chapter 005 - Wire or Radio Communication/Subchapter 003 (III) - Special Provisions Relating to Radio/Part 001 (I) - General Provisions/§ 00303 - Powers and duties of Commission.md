@@ -190,7 +190,7 @@ Subsec. (n). Pub. L. 97–259, §113(b), inserted ", or which the Commission by
 
 Subsec. (t). Pub. L. 97–259, §111(a), added subsec. (t).
 
-<b>1974</b>—Subsec. (l)(2). Pub. L. 93–505 substituted provisions relating to issuance, notwithstanding par. (1) of this subsection, to an individual to whom a radio station is licensed under this chapter of an operator's license to operate that station, for provisions relating to issuance by the Commission of authorizations, under terms and conditions, for aliens licensed as amateur radio operators by their governments to operate in the United States, possessions, and Puerto Rico upon meeting specified preconditions.
+<b>1974</b>—Subsec. (l)(2). Pub. L. 93–505 substituted provisions relating to issuance, notwithstanding par. (1) of this subsection, to an individual to whom a radio station is licensed under this chapter of an operator's license to operate that station, for provisions relating toissuance by the Commission of authorizations, under terms and conditions, for aliens licensed as amateur radio operators by their governments to operate in the United States, possessions, and Puerto Rico upon meeting specified preconditions.
 
 Subsec. (l)(3). Pub. L. 93–505 substituted provisions relating to issuance of authorizations for aliens licensed by their governments as amateur radio operators to operate their radio stations in the United States, possessions, and Puerto Rico, under terms and conditions prescribed by the Commission and upon meeting specified preconditions, for provisions relating to issuance of licenses by the Commission, notwithstanding par. (1) of this subsection, to aliens admitted to the United States as permanent residents.
 
@@ -290,7 +290,7 @@ Separate equipment or software.—
 
 &emsp;"(A)
 
-In general.—Such regulations shall permit but not require the entity providing the navigationdevice to the requesting blind or visually impaired individual to comply with section 303(bb)(1) of the Communications Act of 1934 \[47 U.S.C. 303(bb)(1)\] through that entity's use of software, a peripheral device, specialized consumer premises equipment, a network-based service or other solution, and shall provide the maximum flexibility to select the manner of compliance.
+In general.—Such regulations shall permit but not require the entity providing the navigation device to the requesting blind or visually impaired individual to comply with section 303(bb)(1) of the Communications Act of 1934 \[47 U.S.C. 303(bb)(1)\] through that entity's use of software, a peripheral device, specialized consumer premises equipment, a network-based service or other solution, and shall provide the maximum flexibility to select the manner of compliance.
 
 &emsp;"(B)
 
@@ -468,7 +468,7 @@ Applicable caps.—The Commission shall revise section 73.3555(a) of its regulat
 
 &emsp;&emsp;"(C) in a radio market with between 15 and 29 (inclusive) commercial radio stations, a party may own, operate, or control up to 6 commercial radio stations, not more than 4 of which are in the same service (AM or FM); and
 
-&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not morethan 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
+&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not more than 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
 
 &emsp;"(2)
 
@@ -558,7 +558,7 @@ Pub. L. 104–104, title V, §551(a), Feb. 8, 1996, 110 Stat. 139, provided that
 
 &emsp;"(8) There is a compelling governmental interest in empowering parents to limit the negative influences of video programming that is harmful to children.
 
-&emsp;"(9) Providing parents with timely information about the nature of upcoming video programming and with the technological tools that allow them easily to block violent, sexual, or other programming that they believe harmful to their children is a nonintrusive and narrowly tailored means of achieving that compelling governmental interest."
+&emsp;"(9) Providing parents with timely information about the nature of upcoming video programming and with the technological tools that allow them easilyto block violent, sexual, or other programming that they believe harmful to their children is a nonintrusive and narrowly tailored means of achieving that compelling governmental interest."
 
 #### Advisory Committee Requirements
 

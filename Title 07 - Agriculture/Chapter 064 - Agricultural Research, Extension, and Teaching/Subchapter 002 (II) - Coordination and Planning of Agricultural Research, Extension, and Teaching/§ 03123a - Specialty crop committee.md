@@ -62,7 +62,7 @@ Not later than 180 days after the establishment of the specialty crops committee
 
 &emsp;&emsp;(C) prevent the introduction of foreign invasive pests and diseases;
 
-&emsp;&emsp;(D) develop new products and new uses of specialty crops, including improving the quality and taste of processed specialty crops;
+&emsp;&emsp;(D) develop new products and new uses of specialty crops, including improving thequality and taste of processed specialty crops;
 
 &emsp;&emsp;(E) develop new and improved marketing tools for specialty crops;
 

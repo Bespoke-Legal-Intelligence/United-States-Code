@@ -6,6 +6,7 @@
 | [3802\.](%C2%A7%2003802%20-%20Definitions.md) | Definitions. |
 | [3803\.](%C2%A7%2003803%20-%20Dam%20Safety%20Maintenance%20and%20Repair%20Program.md) | Dam Safety Maintenance and Repair Program. |
 | [3804\.](%C2%A7%2003804%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3805\.](%C2%A7%2003805%20-%20Indian%20dam%20safety.md) | Indian dam safety. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,3 +19,4 @@
 - [&sect; 03802 - Definitions](%C2%A7%2003802%20-%20Definitions.md)
 - [&sect; 03803 - Dam Safety Maintenance and Repair Program](%C2%A7%2003803%20-%20Dam%20Safety%20Maintenance%20and%20Repair%20Program.md)
 - [&sect; 03804 - Authorization of appropriations](%C2%A7%2003804%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03805 - Indian dam safety](%C2%A7%2003805%20-%20Indian%20dam%20safety.md)

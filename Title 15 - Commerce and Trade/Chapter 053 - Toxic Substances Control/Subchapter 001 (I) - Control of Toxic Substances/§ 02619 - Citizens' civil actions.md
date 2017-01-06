@@ -4,11 +4,11 @@
 
 Except as provided in subsection (b), any person may commence a civil action—
 
-&emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of this chapter or any rule promulgated under section 2603, 2604, or 2605 of this title, or subchapter II or IV, or order issued under section 2604 of this title or subchapter II or IV to restrain such violation, or
+&emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of this chapter or any rule promulgated under section 2603, 2604, or 2605 of this title, or subchapter II or IV, or order issued under section 2603 or 2604 of this title or subchapter II or IV to restrain such violation, or
 
 &emsp;(2) against the Administrator to compel the Administrator to perform any act or duty under this chapter which is not discretionary.
 
-> Any civil action under paragraph (1) shall be brought in the United States district court for the district in which the alleged violation occurred or in which the defendant resides or in which the defendant's principal place of business is located. Any action brought under paragraph (2) shall be brought in the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the plaintiff is domiciled. The district courts of the United States shall have jurisdiction over suits brought under this section, without regard to the amount in controversy or the citizenship of the parties. In any civil action under this subsection process may be served on a defendant in any judicial district in which the defendant resides or may be found and subpoenas for witnesses may be served in any judicial district.
+> Any civil action under paragraph (1) shall be brought in the United States district court for the district in which the alleged violation occurred or in which the defendant resides or in which the defendant's principal place of business is located. Any action brought under paragraph (2) shall be brought in the United States District Court for the District of Columbia, or theUnited States district court for the judicial district in which the plaintiff is domiciled. The district courts of the United States shall have jurisdiction over suits brought under this section, without regard to the amount in controversy or the citizenship of the parties. In any civil action under this subsection process may be served on a defendant in any judicial district in which the defendant resides or may be found and subpoenas for witnesses may be served in any judicial district.
 
 #### (b) Limitation
 
@@ -18,9 +18,11 @@ No civil action may be commenced—
 
 &emsp;&emsp;(A) before the expiration of 60 days after the plaintiff has given notice of such violation (i) to the Administrator, and (ii) to the person who is alleged to have committed such violation, or
 
-&emsp;&emsp;(B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
+&emsp;&emsp;(B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action;
 
-&emsp;(2) under subsection (a)(2) before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under section 2606 of this title, before the expiration of ten days after such notification.
+&emsp;(2) under subsection (a)(2) before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under section 2606 of this title, before the expiration of ten days after such notification, except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to section 2617(f)(3)(B) of this title; or
+
+&emsp;(3) in the case of a civil action brought to compel a decision by the Administrator pursuant to section 2617(f)(3)(B) of this title, after the date that is 60 days after the deadline specified in section 2617(f)(3)(B) of this title.
 
 > Notice under this subsection shall be given in such manner as the Administrator shall prescribe by rule.
 
@@ -44,11 +46,19 @@ When two or more civil actions brought under subsection (a) involving the same d
 
 > The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
 
-(Pub. L. 94–469, title I, §20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, §3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(9), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, §20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, §3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(9), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§15, 19(n), June 22, 2016, 130 Stat. 498, 509.)
 
 #### Amendments
+
+Subsec. (a)(1). Pub. L. 114–182, §19(n), substituted "order issued under section 2603 or 2604 of this title" for "order issued under section 2604 of this title".
+
+Subsec. (b)(2), (3). Pub. L. 114–182, §15, substituted ", except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to section 2617(f)(3)(B) of this title; or" for period at end of par. (2) and added par. (3).
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted "subchapter II or IV" for "subchapter II" in two places.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 

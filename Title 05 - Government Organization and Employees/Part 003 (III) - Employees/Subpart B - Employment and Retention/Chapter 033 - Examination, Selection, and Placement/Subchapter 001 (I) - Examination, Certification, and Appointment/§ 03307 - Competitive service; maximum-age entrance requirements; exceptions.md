@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(II) in the case of a military department, the Secretary of such military department.
 
-(f) The Secretary of Energy may determine and fix the maximum age limit for an original appointment to a position as a nuclear materials courier, as defined by section 8331(27) or 8401(33).
+(f) The Secretary of Energy may determine and fix the maximum age limit for an originalappointment to a position as a nuclear materials courier, as defined by section 8331(27) or 8401(33).
 
 (g) The Secretary of Homeland Security may determine and fix the maximum age limit for an original appointment to a position as a customs and border protection officer, as defined by section 8401(36).
 
@@ -176,7 +176,7 @@ Pub. L. 110–161, div. E, title V, §535(d), Dec. 26, 2007, 121 Stat. 2077, pro
 
 #### United States Park Police; Age Limits for Original Appointments
 
-Pub. L. 91–73, Sept. 26, 1969, 83 Stat. 116, which provided for age limits for appointments to the UnitedStates Park Police, was repealed by Pub. L. 92–297, §11, May 16, 1972, 86 Stat. 145, effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
+Pub. L. 91–73, Sept. 26, 1969, 83 Stat. 116, which provided for age limits for appointments to the United States Park Police, was repealed by Pub. L. 92–297, §11, May 16, 1972, 86 Stat. 145, effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
 
 #### Ex. Ord. No. 11817. Office of Personnel Management Designated Agent To Concur With Agency Determination Fixing Age Limits for Making Original Appointments Respecting Law Enforcement Officer and Firefighter Positions
 

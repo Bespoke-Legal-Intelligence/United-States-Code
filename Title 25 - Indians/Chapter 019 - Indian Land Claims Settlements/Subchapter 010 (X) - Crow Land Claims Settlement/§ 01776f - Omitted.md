@@ -1,0 +1,6 @@
+### §1776f. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–444, §8, Nov. 2, 1994, 108 Stat. 4640, which related to exchanges of land or minerals, was omitted from the Code as being of special and not general application.
+

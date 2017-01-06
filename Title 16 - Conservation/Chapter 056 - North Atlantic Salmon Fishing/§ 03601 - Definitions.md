@@ -34,7 +34,7 @@ Section 3602 of this title, referred to in par. (3), was in the original "sectio
 
 #### Short Title
 
-Pub. L. 97–389, §1, Dec. 29, 1982, 96 Stat. 1949, provided: "That this Act \[enacting this chapter, amending sections 779b, 1034, and 1401 of this title and sections 688 and 883 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under section 1823 of this title and section 688 of Title 46, Appendix\] may be cited as the 'Fisheries Amendments of 1982'."
+Pub. L. 97–389, §1, Dec. 29, 1982, 96 Stat. 1949, provided: "That this Act \[enacting this chapter, amending sections 779b, 1034, and 1401 of this title and sections 688 and 883 of Title 46, Appendix, Shipping, and enactingprovisions set out as notes under section 1823 of this title and section 688 of Title 46, Appendix\] may be cited as the 'Fisheries Amendments of 1982'."
 
 Pub. L. 97–389, title III, §301, Dec. 29, 1982, 96 Stat. 1951, provided that: "This title \[enacting this chapter\] may be cited as the 'Atlantic Salmon Convention Act of 1982'."
 

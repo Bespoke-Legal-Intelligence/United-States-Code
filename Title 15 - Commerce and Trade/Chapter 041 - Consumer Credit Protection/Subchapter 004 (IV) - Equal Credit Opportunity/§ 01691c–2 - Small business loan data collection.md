@@ -8,7 +8,7 @@ The purpose of this section is to facilitate enforcement of fair lending laws an
 
 Subject to the requirements of this section, in the case of any application to a financial institution for credit for women-owned, minority-owned, or small business, the financial institution shall—
 
-&emsp;(1) inquire whether the business is a women-owned, minority-owned, or small business, without regard to whether such application is received in person, by mail, by telephone, by electronic mail or other form of electronic transmission, or by any other means, and whether or not such application is in response to a solicitation by the financial institution; and
+&emsp;(1) inquire whether the business is a women-owned, minority-owned, or small business, without regard to whether such application is received in person, by mail, by telephone, byelectronic mail or other form of electronic transmission, or by any other means, and whether or not such application is in response to a solicitation by the financial institution; and
 
 &emsp;(2) maintain a record of the responses to such inquiry, separate from the application and accompanying information.
 
@@ -96,7 +96,7 @@ Any applicant for credit may refuse to provide any information requested pursuan
 
 #### (3) Guidance
 
-&emsp;The Bureau shall issue guidance designed to facilitate compliance with the requirements of this section, including assisting financial institutions in working with applicants to determine whether the applicants are women-owned, minority-owned, or small businesses for purposes of this section.
+&emsp;The Bureau shall issue guidance designed to facilitate compliance with the requirements ofthis section, including assisting financial institutions in working with applicants to determine whether the applicants are women-owned, minority-owned, or small businesses for purposes of this section.
 
 #### (h) Definitions
 

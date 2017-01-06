@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To be eligible to receive funds under this chapter, a local government entity, Indian tribe, Regional Corporation, or Native Hawaiian entity, as appropriate, shall establish or designate a Local Council, which shall be composed of—
+&emsp;To be eligible to receive funds under this chapter, a local government entity, Indiantribe, Regional Corporation, or Native Hawaiian entity, as appropriate, shall establish or designate a Local Council, which shall be composed of—
 
 &emsp;&emsp;(A) representatives of local agencies directly affected by early learning programs assisted under this chapter;
 

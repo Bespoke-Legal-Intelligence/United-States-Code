@@ -50,7 +50,7 @@ The Board on behalf of the Facility shall have the ability to—
 
 (2) The Central Liquidity Facility or its Agent members shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this subsection.
 
-(3) The Board is authorized, with respect to participation in the collection and settlement of any items by the Central Liquidity Facility or by its Agent members, and with respect to the collection and settlement (including payment by the payor institution) of items payable by members of the Central Liquidity Facility or of any of its Agent members, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such entities and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
+(3) The Board is authorized, with respect to participation in the collection and settlement of any items by the Central Liquidity Facility or by its Agent members, and with respect to the collection and settlement (including payment by the payor institution) of items payable by members of the Central Liquidity Facility or of any of its Agent members, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such entities and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, FederalReserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
 (June 26, 1934, ch. 750, title III, formerly subch. III, §307, as added and amended Pub. L. 95–630, title V, §502(b), title XVIII, §1802, Nov. 10, 1978, 92 Stat. 3681, 3722; Pub. L. 96–221, title III, §§309(a)(3), (4), (b), 312, Mar. 31, 1980, 94 Stat. 149, 150; Pub. L. 97–320, title V, §531, Oct. 15, 1982, 96 Stat. 1536.)
 
@@ -69,4 +69,8 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 #### Effective Date of 1978 Amendment
 
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 

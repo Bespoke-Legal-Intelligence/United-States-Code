@@ -62,7 +62,7 @@ Additional notifications.—If the Secretary determines, after taking into accou
 
 &emsp;&emsp;(A)(i) to send additional notifications in the manner prescribed by the Secretary, by regulation; or
 
-&emsp;&emsp;(ii) to take additional steps to locate and notify each person registered under Statelaw as the owner or lessee or the most recent purchaser or lessee, as appropriate; and
+&emsp;&emsp;(ii) to take additional steps to locate and notify each person registered under State law as the owner or lessee or the most recent purchaser or lessee, as appropriate; and
 
 &emsp;&emsp;(B) to emphasize the magnitude of the safety risk caused by the defect or noncompliance in such notification.
 
@@ -82,7 +82,7 @@ Information Regarding Components Involved in Recall.—A manufacturer that is re
 
 &emsp;(3) The part number of the component or components, if any.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012, 126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §24116, Dec. 4, 2015, 129 Stat. 1711.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012,126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §24116, Dec. 4, 2015, 129 Stat. 1711.)
 
 Historical and Revision Notes
 
@@ -172,7 +172,7 @@ In subsection (e), the word "replacement" is added for clarity and consistency w
 
 Subsec. (d)(2). Pub. L. 112–141, §31310(a)(2), substituted "shall be sent in the manner prescribed by the Secretary, by regulation," for "(except a tire) shall be sent by first class mail" and struck out second sentence which read as follows: "In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer."
 
-Subsec. (d)(3). Pub. L. 112–141, §31310(a)(3), struck out first sentence which read "Notification required under section 30118 of this title about a tire shall be sent byfirst class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer." and inserted "to the notification required under paragraphs (1) and (2)" after "addition" and "by the manufacturer" after "given" in introductory provisions.
+Subsec. (d)(3). Pub. L. 112–141, §31310(a)(3), struck out first sentence which read "Notification required under section 30118 of this title about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer." and inserted "to the notification required under paragraphs (1) and (2)" after "addition" and "by the manufacturer" after "given" in introductory provisions.
 
 Subsec. (d)(4). Pub. L. 112–141, §31310(a)(4), substituted "in the manner prescribed by the Secretary, by regulation" for "by certified mail or quicker means if available".
 
@@ -198,7 +198,7 @@ Pub. L. 114–94, div. B, title XXIV, §24104(a), Dec. 4, 2015, 129 Stat. 1703, 
 
 "(1)
 
-In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail.
+In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of FederalRegulations, to include notification by electronic means in addition to notification by first class mail.
 
 "(2)
 

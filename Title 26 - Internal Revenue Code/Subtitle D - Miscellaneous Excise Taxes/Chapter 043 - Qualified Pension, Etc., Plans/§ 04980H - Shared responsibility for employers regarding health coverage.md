@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (ii) Aggregation
 
-&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated amongsuch persons ratably on the basis of the number of full-time employees employed by each such person.
+&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated among such persons ratably on the basis of the number of full-time employees employed by each such person.
 
 #### (E) Full-time equivalents treated as full-time employees
 
@@ -156,13 +156,13 @@ For purposes of this section—
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former section 139D of this title and section 18101 of Title 42, amended sections 36B, 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former section 139D of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former section 139D of this title and section 18101 of Title 42, amended sections 36B, 162, 4980H, 6056, and 6724 of this title and section 218b of Title 29, Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056of this title and former section 139D of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
 #### Amendments
 
 <b>2015</b>—Subsec. (c)(2)(F). Pub. L. 114–41 added subpar. (F).
 
-<b>2011</b>—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: "No assessable payment shall beimposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month."
+<b>2011</b>—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: "No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month."
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–152, §1003(d), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to large employers with enrollment waiting periods exceeding 60 days.
 

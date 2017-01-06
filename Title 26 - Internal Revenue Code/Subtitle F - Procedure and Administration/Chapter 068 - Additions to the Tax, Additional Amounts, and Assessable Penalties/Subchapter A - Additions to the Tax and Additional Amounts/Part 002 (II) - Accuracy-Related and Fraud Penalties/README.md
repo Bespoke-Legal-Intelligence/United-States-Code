@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357, title VIII, §812(e)(2), Oct. 22, 2004, 118 Stat. 1580, added items 6662 and 6662A and struck out former item 6662 "Imposition of accuracy-related penalty".
+<b>2004</b>—Pub. L. 108–357, title VIII, §812(e)(2), Oct. 22, 2004, 118 Stat. 1580, added items 6662 and 6662A andstruck out former item 6662 "Imposition of accuracy-related penalty".
 
 <b>1989</b>—Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, added part heading and analysis of sections.
 

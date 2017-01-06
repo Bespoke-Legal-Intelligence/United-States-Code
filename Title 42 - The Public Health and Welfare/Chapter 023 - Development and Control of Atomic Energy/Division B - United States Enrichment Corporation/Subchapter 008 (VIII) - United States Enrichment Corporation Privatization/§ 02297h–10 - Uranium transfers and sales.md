@@ -6,7 +6,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 #### (b) Russian HEU
 
-(1) On or before December 31, 1996, the United States Executive Agent under the Russian HEUAgreement shall transfer to the Secretary without charge title to an amount of uranium hexafluoride equivalent to the natural uranium component of low-enriched uranium derived from at least 18 metric tons of highly enriched uranium purchased from the Russian Executive Agent under the Russian HEU Agreement. The quantity of such uranium hexafluoride delivered to the Secretary shall be based on a tails assay of 0.30 U<sup>235</sup>. Uranium hexafluoride transferred to the Secretary pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
+(1) On or before December 31, 1996, the United States Executive Agent under the Russian HEU Agreement shall transfer to the Secretary without charge title to an amount of uranium hexafluoride equivalent to the natural uranium component of low-enriched uranium derived from at least 18 metric tons of highly enriched uranium purchased from the Russian Executive Agent under the Russian HEU Agreement. The quantity of such uranium hexafluoride delivered to the Secretary shall be based on a tails assay of 0.30 U<sup>235</sup>. Uranium hexafluoride transferred to the Secretary pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
 
 (2) Within 7 years of April 26, 1996, the Secretary shall sell, and receive payment for, the uranium hexafluoride transferred to the Secretary pursuant to paragraph (1). Such uranium hexafluoride shall be sold—
 
@@ -22,7 +22,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 (4) In the event that the Russian Executive Agent does not exercise its right to enter into an agreement to take delivery of the natural uranium component of any low-enriched uranium, as contemplated in paragraph (3), within 90 days of the date such low-enriched uranium is delivered to the United States Executive Agent, or upon request of the Russian Executive Agent, then the United States Executive Agent shall engage an independent entity through a competitive selection process to auction an amount of uranium hexafluoride or U<sub>3</sub>O<sub>8</sub> (in the event that the conversion component of such hexafluoride has previously been sold) equivalent to the natural uranium component of such low-enriched uranium. An agreement executed pursuant to a request of the Russian Executive Agent, as contemplated in this paragraph, may pertain to any deliveries due during any period remaining under the Russian HEU Agreement. Such independent entity shall sell such uranium hexafluoride in one or more lots to any person or entity to maximize the proceeds from such sales, for disposition consistent with the limitations set forth in this subsection. The independent entity shall pay to the Russian Executive Agent the proceeds of any such auction less all reasonable transaction and other administrative costs. The quantity of such uranium hexafluoride auctioned shall be based on a tails assay of 0.30 U<sup>235</sup>. Title to uranium hexafluoride auctioned pursuant to this paragraph shall transfer to the buyer of such material upon delivery of such material to the buyer. Uranium hexafluoride auctioned pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
 
-(5) Except as provided in paragraphs (6) and (7), uranium hexafluoride delivered to the Russian Executive Agent under paragraph (3) or auctioned pursuant to paragraph (4), may not be delivered for consumption by end users in the United States either directly or indirectly prior to January 1, 1998, and thereafter only in accordance with the following schedule:
+(5) Except as provided in paragraphs (6) and (7), uranium hexafluoride delivered to the Russian Executive Agent under paragraph (3) or auctioned pursuant to paragraph (4), may not be delivered for consumption by end users in theUnited States either directly or indirectly prior to January 1, 1998, and thereafter only in accordance with the following schedule:
 
 <b>Annual Maximum Deliveries to End Users</b>
 
@@ -54,7 +54,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 #### (c) Transfers to Corporation
 
-(1) The Secretary shall transfer to the Corporation without charge up to 50 metric tons of enriched uranium and up to 7,000 metric tons of natural uranium from the Department of Energy's stockpile, subject to the restrictions in subsection (c)(2) of this section.
+(1) The Secretary shall transfer to the Corporation without charge up to 50 metric tons of enriched uranium and up to 7,000 metric tons of natural uranium from the Department of Energy's stockpile, subject to the restrictions in subsection (c)(2).
 
 (2) The Corporation shall not deliver for commercial end use in the United States—
 
@@ -66,9 +66,9 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 #### (d) Inventory sales
 
-(1) In addition to the transfers authorized under subsections (c) and (e) of this section, the Secretary may, from time to time, sell natural and low-enriched uranium (including low-enriched uranium derived from highly enriched uranium) from the Department of Energy's stockpile.
+(1) In addition to the transfers authorized under subsections (c) and (e), the Secretary may, from time to time, sell natural and low-enriched uranium (including low-enriched uranium derived from highly enriched uranium) from the Department of Energy's stockpile.
 
-(2) Except as provided in subsections (b), (c), and (e) of this section, no sale or transfer of natural or low-enriched uranium shall be made unless—
+(2) Except as provided in subsections (b), (c), and (e), no sale or transfer of natural or low-enriched uranium shall be made unless—
 
 &emsp;(A) the President determines that the material is not necessary for national security needs,
 
@@ -78,7 +78,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 #### (e) Government transfers
 
-Notwithstanding subsection (d)(2) of this section, the Secretary may transfer or sell enriched uranium—
+Notwithstanding subsection (d)(2), the Secretary may transfer or sell enriched uranium—
 
 &emsp;(1) to a Federal agency if the material is transferred for the use of the receiving agency without any resale or transfer to another entity and the material does not meet commercial specifications;
 
@@ -98,7 +98,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

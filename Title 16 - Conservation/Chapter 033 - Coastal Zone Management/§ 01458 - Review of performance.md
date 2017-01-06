@@ -2,7 +2,7 @@
 
 #### (a) Evaluation of adherence with terms of grants
 
-The Secretary shall conduct a continuing review of the performance of coastal states with respect to coastal management. Each review shall include a written evaluation with an assessment and detailed findings concerning the extent to which the state has implemented and enforced the program approved by the Secretary, addressed the coastal management needs identified in section 1452(2)(A) through (K) of this title, and adhered to the terms of any grant, loan, or cooperative agreement funded under this chapter.
+The Secretary shall conduct a continuing review of the performance of coastal states withrespect to coastal management. Each review shall include a written evaluation with an assessment and detailed findings concerning the extent to which the state has implemented and enforced the program approved by the Secretary, addressed the coastal management needs identified in section 1452(2)(A) through (K) of this title, and adhered to the terms of any grant, loan, or cooperative agreement funded under this chapter.
 
 #### (b) Public participation; notice of meetings; reports
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 101–508, §6212(b), amended subsec. (c) generally. Prior 
 
 Subsec. (d). Pub. L. 101–508, §6212(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The Secretary shall withdraw approval of the management program of any coastal state, and shall withdraw any financial assistance available to that state under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state is failing to adhere to, is not justified in deviating from (1) the management program approved by the Secretary, or (2) the terms of any grant or cooperative agreement funded under section 1455 of this title, and refuses to remedy the deviation."
 
-Subsec. (f). Pub. L. 101–508, §6212(d), struck out subsec. (f) which read as follows: "The Secretary shall carry out research on, and offer technical assistance of the coastal states with respect to, those activities, projects, and other relevant matters evaluated under this section that the Secretary considers to offer promise toward improving coastal zone management."
+Subsec. (f). Pub. L. 101–508, §6212(d), struck out subsec. (f) which read as follows: "The Secretary shall carry out research on, and offer technical assistance of the coastal states with respect to, those activities, projects, and other relevant matters evaluated underthis section that the Secretary considers to offer promise toward improving coastal zone management."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272 designated existing provisions relating to failure to achieve objectives specified in section 1452(2)(A) through (I) as par. (1), and added par. (2).
 

@@ -48,7 +48,7 @@ Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) a
 
 "(3) such sums, not to exceed $1,000,000 for the fiscal year ending September 30, 1986, and not to exceed $1,500,000 for each of the fiscal years occurring during the period beginning October 1, 1986, and ending September 30, 1990, as may be necessary for grants under section 1456b of this title, to remain available until expended;
 
-"(4) such sums, not to exceed $2,500,000 for the fiscal year ending September 30, 1986, not to exceed $3,800,000 for the fiscal year ending September 30, 1987, $4,500,000 for the fiscal year ending September 30, 1988, $5,000,000 for the fiscal year ending September 30, 1989, and$5,500,000 for the fiscal year ending September 30, 1990, as may be necessary for grants under section 1461 of this title, to remain available until expended; and
+"(4) such sums, not to exceed $2,500,000 for the fiscal year ending September 30, 1986, not to exceed $3,800,000 for the fiscal year ending September 30, 1987, $4,500,000 for the fiscal year ending September 30, 1988, $5,000,000 for the fiscal year ending September 30, 1989, and $5,500,000 for the fiscal year ending September 30, 1990, as may be necessary for grants under section 1461 of this title, to remain available until expended; and
 
 "(5) such sums, not to exceed $3,300,000 for the fiscal year ending September 30, 1986, not to exceed $3,300,000 for the fiscal year ending September 30, 1987, $3,300,000 for the fiscal year ending September 30, 1988, $4,000,000 for the fiscal year ending September 30, 1989, and $4,000,000 for the fiscal year ending September 30, 1990, as may be necessary for administrative expenses incident to the administration of this chapter."
 

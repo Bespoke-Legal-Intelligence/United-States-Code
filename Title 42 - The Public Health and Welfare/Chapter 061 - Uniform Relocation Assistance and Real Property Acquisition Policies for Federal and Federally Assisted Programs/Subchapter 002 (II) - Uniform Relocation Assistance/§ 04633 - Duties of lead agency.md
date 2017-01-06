@@ -30,7 +30,7 @@ The head of the lead agency is authorized to issue such regulations and establis
 
 #### (c) Applicability to Tennessee Valley Authority and Rural Electrification Administration
 
-The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
+The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I.
 
 #### (d) Adjustment of payments
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 112–141, §1521(d)(2), added subsec. (d).
 
 <b>1987</b>—Pub. L. 100–17 in amending section generally, substituted "Duties of lead agency" for "Regulations and procedures" in section catchline.
 
-Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:"In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federal financial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs."
+Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federal financial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs."
 
 Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The head of each Federal agency is authorized to establish such regulations and procedures as he may determine to be necessary to assure—
 

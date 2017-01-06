@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Conservation
 
-&emsp;The term "conservation" means the use of methods and procedures necessary to bring a species of neotropical migratory bird to the point at which there are sufficient populations in the wild to ensure the long-term viability of the species, including—
+&emsp;The term "conservation" means the use of methods and procedures necessary to bring aspecies of neotropical migratory bird to the point at which there are sufficient populations in the wild to ensure the long-term viability of the species, including—
 
 &emsp;&emsp;(A) protection and management of neotropical migratory bird populations;
 

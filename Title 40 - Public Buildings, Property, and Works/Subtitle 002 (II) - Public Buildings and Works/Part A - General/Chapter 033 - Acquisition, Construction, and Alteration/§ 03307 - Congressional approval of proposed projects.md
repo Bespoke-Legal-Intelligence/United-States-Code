@@ -24,13 +24,15 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 &emsp;(5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under section 3303(c) of this title as suitable for the public building needs of the Government;
 
-&emsp;(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased; and
+&emsp;(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased;
 
-&emsp;(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project.
+&emsp;(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project; and
+
+&emsp;(8) a statement of how the proposed project is consistent with the standards and criteria developed under section 11(b) of the Federal Assets Sale and Transfer Act of 2016.
 
 (c)
 
-Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by theAdministrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
+Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
 
 (d)
 
@@ -70,7 +72,7 @@ Exception.—The Administrator may lease space with respect to which paragraph (
 
 Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, §323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, §323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590; Pub. L. 114–287, §17, Dec. 16, 2016, 130 Stat. 1476.)
 
 Historical and Revision Notes
 
@@ -124,7 +126,13 @@ In subsection (d), the words "at any time thereafter" are omitted as unnecessary
 
 In subsection (f)(2)(A), the word "first" is omitted as unnecessary.
 
+#### References in Text
+
+Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (b)(8), is section 11(b) of Pub. L. 114–287, which is set out in a note under section 1303 of this title.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(8). Pub. L. 114–287 added par. (8).
 
 <b>2007</b>—Subsec. (b)(7). Pub. L. 110–140, §323(a), added par. (7).
 

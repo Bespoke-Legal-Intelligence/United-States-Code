@@ -28,11 +28,11 @@
 
 #### (C) Continued detention
 
-&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State,shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien in custody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
+&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State, shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien in custody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
 
 #### (D) Fingerprinting
 
-&emsp;&emsp;Before an alien is removed from the United States pursuant to this subsection, or pursuant to an order of removal because such alien is inadmissible under section 1182(a)(3)(B) of this title, the alien shall be photographed and fingerprinted, and shall be advised of the provisions of section 1326(b) of this title.
+&emsp;&emsp;Before an alien is removed from the United States pursuant to this subsection, or pursuant to an order of removal because such alien is inadmissible under section1182(a)(3)(B) of this title, the alien shall be photographed and fingerprinted, and shall be advised of the provisions of section 1326(b) of this title.
 
 #### (c) Continued detention pending trial
 

@@ -108,7 +108,7 @@ The entry and exit data system shall include a requirement for the collection of
 
 #### (B) Training
 
-&emsp;&emsp;The Secretary shall develop training on the rules, guidelines, policies, and procedures established under subparagraph (A),and on immigration law and procedure. All personnel authorized to access information maintained in the databases and data system shall receive such training.
+&emsp;&emsp;The Secretary shall develop training on the rules, guidelines, policies, and procedures established under subparagraph (A), and on immigration law and procedure. All personnel authorized to access information maintained in the databases and data system shall receive such training.
 
 #### (2) Data collected from foreign nationals
 
@@ -272,7 +272,7 @@ The Visa Waiver Permanent Program Act, referred to in subsec. (b)(3), is Pub. L.
 
 The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is Pub. L. 107–173, May 14, 2002, 116 Stat. 543, as amended, which is classified principally to chapter 15 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was Pub. L. 107–56, Oct. 26, 2001, 115Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original "the date of enactment of this paragraph" and was translated a meaning the date of enactment of Pub. L. 110–161, which amended subsec. (k)(3) of this section generally, to reflect the probable intent of Congress.
 

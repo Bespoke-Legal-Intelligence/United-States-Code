@@ -2,7 +2,7 @@
 
 #### (a) Preferential treatment
 
-Textile and apparel articles described in subsection (b) that are imported directly into thecustoms territory of the United States from a beneficiary sub-Saharan African country described in section 2466a(c) <sup>1</sup> of this title, shall enter the United States free of duty and free of any quantitative limitations in accordance with the provisions set forth in subsection (b), if the country has satisfied the requirements set forth in section 3722 of this title.
+Textile and apparel articles described in subsection (b) that are imported directly into the customs territory of the United States from a beneficiary sub-Saharan African country described in section 2466a(c) <sup>1</sup> of this title, shall enter the United States free of duty and free of any quantitative limitations in accordance with the provisions set forth in subsection (b), if the country has satisfied the requirements set forth in section 3722 of this title.
 
 #### (b) Products covered
 
@@ -22,7 +22,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (3) Apparel articles from regional fabric or yarns
 
-&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African country from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:
+&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African countryfrom yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:
 
 #### (A) Limitations on benefits
 
@@ -136,7 +136,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (7) Apparel articles assembled in one or more beneficiary sub-Saharan African countries from United States and beneficiary sub-Saharan African country components
 
-&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States from components cut in the United States and one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, or from components knit-to-shape in the United States and one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States).
+&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States from components cut in the United States and one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, or from components knit-to-shape in the United States and one or more beneficiarysub-Saharan African countries or former beneficiary sub-Saharan African countries from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States).
 
 #### (8) Textile articles originating entirely in one or more lesser developed beneficiary sub-Saharan African countries
 
@@ -160,7 +160,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (2) Applicability of other provisions
 
-&emsp;Subsection (b)(3)(B) applies to apparel articles eligible for preferential treatment underthis subsection to the same extent as that subsection applies to apparel articles eligible for preferential treatment under subsection (b)(3).
+&emsp;Subsection (b)(3)(B) applies to apparel articles eligible for preferential treatment under this subsection to the same extent as that subsection applies to apparel articles eligible for preferential treatment under subsection (b)(3).
 
 #### (3) Definition
 
@@ -252,7 +252,7 @@ In this section and section 3722 of this title:
 
 #### (4) Former sub-Saharan African country
 
-&emsp;The term "former <sup>3</sup> sub-Saharan African country" means a country that, after beingdesignated as a beneficiary sub-Saharan African country under this chapter <sup>4</sup>, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
+&emsp;The term "former <sup>3</sup> sub-Saharan African country" means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter <sup>4</sup>, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
 
 #### (5) Enter; entered
 
@@ -338,7 +338,7 @@ Subsec. (b)(3)(B)(iv). Pub. L. 108–429 added cl. (iv).
 
 Subsec. (b)(5)(A). Pub. L. 108–274, §7(b)(3), amended heading and text generally. Prior to amendment, text read as follows: "Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, from fabric or yarn that is not formed in the United States or a beneficiary sub-Saharan African country, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabric or yarn, under Annex 401 to the NAFTA."
 
-Subsec. (b)(6). Pub. L. 108–274, §7(c), amended heading and text generally. Prior to amendment, text read asfollows: "A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles."
+Subsec. (b)(6). Pub. L. 108–274, §7(c), amended heading and text generally. Prior to amendment, text read as follows: "A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles."
 
 Subsec. (b)(7). Pub. L. 108–274, §7(d), inserted "or former beneficiary sub-Saharan African countries" after "and one or more beneficiary sub-Saharan African countries" in two places.
 
@@ -374,7 +374,7 @@ Pub. L. 110–436, §3(b), Oct. 16, 2008, 122 Stat. 4980, provided that: "The am
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–429, title II, §2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provided that: "Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, upon proper request filed with the Bureau of Customs and Border Protection before the 90th day after the date of the enactment of this Act \[Dec. 3, 2004\], any entry, or withdrawal from warehouse for consumption, of any good—
+Pub. L. 108–429, title II, §2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provided that: "Notwithstanding section 514of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, upon proper request filed with the Bureau of Customs and Border Protection before the 90th day after the date of the enactment of this Act \[Dec. 3, 2004\], any entry, or withdrawal from warehouse for consumption, of any good—
 
 &emsp;"(A) that was made on or after October 1, 2004, and before the date of the enactment of this Act, and
 
@@ -384,7 +384,7 @@ Pub. L. 108–429, title II, §2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provide
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Delegation of Authority
 
@@ -402,7 +402,7 @@ Pub. L. 107–210, div. C, title XXXI, §3108(b), Aug. 6, 2002, 116 Stat. 1039, 
 
 #### Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences
 
-Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the United States Trade Representative is authorized to determine whether Kenya and Mauritius have satisfied the requirements of section 3721(c)\[d\] of this title, is directed to set forth the determination ina notice to be published in the Federal Register and to cause the existing quotas on textile and apparel articles imported into the United States from such country to be eliminated within 30 days after the determination, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the Harmonized Tariff Schedule of the United States.
+Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the United States Trade Representative is authorized to determine whether Kenya and Mauritius have satisfied the requirements of section 3721(c)\[d\] of this title, is directed to set forth the determination in a notice to be published in the Federal Register and to cause the existing quotas on textile and apparel articles imported into the United States from such country to be eliminated within 30 days after the determination, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the Harmonized Tariff Schedule of the United States.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

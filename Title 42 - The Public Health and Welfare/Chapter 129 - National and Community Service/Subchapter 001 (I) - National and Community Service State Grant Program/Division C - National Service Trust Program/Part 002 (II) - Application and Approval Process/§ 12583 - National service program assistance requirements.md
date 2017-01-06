@@ -24,13 +24,13 @@ An application submitted under section 12582 of this title shall also include an
 
 #### (c) Consultation
 
-An application submitted under section 12582 of this title shall also include an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and anynational service program supported by a grant made by the applicant using such assistance will—
+An application submitted under section 12582 of this title shall also include an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will—
 
 &emsp;(1) provide in the design, recruitment, and operation of the program for broad-based input from—
 
 &emsp;&emsp;(A) the community served, the municipality and government of the county (if appropriate) in which the community is located, and potential participants in the program; and
 
-&emsp;&emsp;(B) community-based agencies with a demonstrated record of experience in providing services and local labor organizations representing employees of service sponsors, if these entities exist in the area to be served by the program;
+&emsp;&emsp;(B) community-based agencies with a demonstrated record of experience in providing services and local labor organizations representing employees of service sponsors, ifthese entities exist in the area to be served by the program;
 
 &emsp;(2) prior to the placement of participants, consult with the appropriate local labor organization, if any, representing employees in the area who are engaged in the same or similar work as that proposed to be carried out by such program to ensure compliance with the nondisplacement requirements specified in section 12637 of this title; and
 

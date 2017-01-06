@@ -72,7 +72,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(A) identify the primary public and private sector opportunities for United States exporters of environmental technologies, goods, and services in the priority country;
 
-&emsp;&emsp;(B) analyze the financing and other requirements for major projects in the priority country which will use environmental technologies, goods, and services, and analyzewhether such projects are dependent upon financial assistance from foreign countries or multilateral institutions; and
+&emsp;&emsp;(B) analyze the financing and other requirements for major projects in the priority country which will use environmental technologies, goods, and services, and analyze whether such projects are dependent upon financial assistance from foreign countries or multilateral institutions; and
 
 &emsp;&emsp;(C) list specific actions to be taken by the member agencies of the Working Group to increase United States exports to the priority country.
 
@@ -118,7 +118,7 @@ In addition to the training provided under subsection (f)(2)(C), the Secretary s
 
 &emsp;(2) Commercial Service Officers assigned to district offices in districts having large numbers of environmental businesses,
 
-> in environmental technologies and in the international environmental marketplace, and ensure that such officers receive appropriate training under such mechanism. Such training may be provided by officers or employees of the Department of Commerce, and other United States Government departments and agencies, with appropriate expertise in environmental technologies and the international environmental workplace, and by appropriate representatives of the private sector.
+> in environmental technologies and in the international environmental marketplace, and ensure that such officers receive appropriate training under such mechanism. Such training may be provided by officers or employees of the Department of Commerce, and other United StatesGovernment departments and agencies, with appropriate expertise in environmental technologies and the international environmental workplace, and by appropriate representatives of the private sector.
 
 #### (h) International regional environmental initiatives
 
@@ -130,7 +130,7 @@ In addition to the training provided under subsection (f)(2)(C), the Secretary s
 
 &emsp;In carrying out each international regional environmental initiative, the TPCC shall—
 
-&emsp;&emsp;(A) support, through the provision of foreign assistance, the development of sound environmental policies and practices in countries in the geographic region for whichthe initiative is established, including the development of environmentally sound regulatory regimes and enforcement mechanisms;
+&emsp;&emsp;(A) support, through the provision of foreign assistance, the development of sound environmental policies and practices in countries in the geographic region for which the initiative is established, including the development of environmentally sound regulatory regimes and enforcement mechanisms;
 
 &emsp;&emsp;(B) identify and disseminate to United States environmental businesses information regarding specific environmental business opportunities in that geographic region;
 

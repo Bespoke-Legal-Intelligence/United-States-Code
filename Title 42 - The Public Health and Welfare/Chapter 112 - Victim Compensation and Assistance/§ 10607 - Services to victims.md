@@ -2,7 +2,7 @@
 
 #### (a) Designation of responsible officials
 
-The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.
+The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) at each stage of a criminal case.
 
 #### (b) Identification of victims
 
@@ -10,9 +10,9 @@ At the earliest opportunity after the detection of a crime at which it may be do
 
 &emsp;(1) identify the victim or victims of a crime;
 
-&emsp;(2) inform the victims of their right to receive, on request, the services described in subsection (c) of this section; and
+&emsp;(2) inform the victims of their right to receive, on request, the services described in subsection (c); and
 
-&emsp;(3) inform each victim of the name, title, and business address and telephone number of the responsible official to whom the victim should address a request for each of the services described in subsection (c) of this section.
+&emsp;(3) inform each victim of the name, title, and business address and telephone number of the responsible official to whom the victim should address a request for each of the services described in subsection (c).
 
 #### (c) Description of services
 
@@ -62,13 +62,13 @@ At the earliest opportunity after the detection of a crime at which it may be do
 
 #### (d) No cause of action or defense
 
-This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by subsection (b) or (c) of this section.
+This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by subsection (b) or (c).
 
 #### (e) Definitions
 
 For the purposes of this section—
 
-&emsp;(1) the term "responsible official" means a person designated pursuant to subsection (a) of this section to perform the functions of a responsible official under that section; and
+&emsp;(1) the term "responsible official" means a person designated pursuant to subsection (a) to perform the functions of a responsible official under that section; and
 
 &emsp;(2) the term "victim" means a person that has suffered direct physical, emotional, or pecuniary harm as a result of the commission of a crime, including—
 
@@ -98,7 +98,7 @@ Section 10606(b)(4) of this title, referred to in subsec. (c)(3)(D), was in the 
 
 #### Codification
 
-Section enacted as part of the Victims' Rights and Restitution Act of 1990 and also as part of the CrimeControl Act of 1990, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
+Section enacted as part of the Victims' Rights and Restitution Act of 1990 and also as part of the Crime Control Act of 1990, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
 
 #### Amendments
 

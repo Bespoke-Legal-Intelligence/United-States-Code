@@ -52,7 +52,7 @@ Pub. L. 109–444, §3(b)(2)(B)(ii), which substituted "subparagraph (D) or (E) 
 
 Subsec. (b)(4). Pub. L. 109–461, §301(b)(2)(B)(iii), added par. (4).
 
-Pub. L. 109–444, §3(b)(2)(B)(iii), which added par. (4) identical to that added by Pub. L. 109–461, §301(b)(2)(B)(iii), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+Pub. L. 109–444, §3(b)(2)(B)(iii), which added par. (4) identical to that added by Pub. L. 109–461,§301(b)(2)(B)(iii), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Subsec. (c). Pub. L. 109–461, §301(b)(2)(C), struck out subsec. (c), which read as follows: "Any entitlement used by an eligible person as a result of eligibility under section 3501(a)(1)(A)(iii), 3501(a)(1)(C), or 3501(a)(1)(D)(i) of this title shall be deducted from any entitlement to which such person may subsequently be entitled under this chapter."
 

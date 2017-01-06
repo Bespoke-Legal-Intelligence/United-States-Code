@@ -18,3 +18,7 @@ Waiver.—The Secretary may waive the requirement under subsection (a) for fisca
 
 (Added Pub. L. 113–291, div. A, title XVI, §1631(a)(1), Dec. 19, 2014, 128 Stat. 3637.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+

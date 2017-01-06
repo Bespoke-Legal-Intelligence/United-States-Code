@@ -28,7 +28,7 @@ Members of an Advisory Board who are officers or employees of the Federal Govern
 
 #### (d) Term of office; vacancies
 
-The term of office of an appointed member of the Advisory Board is four years, except that no term of office may extend beyond the expirationof the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days from the date the vacancy occurred.
+The term of office of an appointed member of the Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days from the date the vacancy occurred.
 
 #### (e) Chairman
 
@@ -40,7 +40,7 @@ The Secretary shall, after consultation with and consideration of the recommenda
 
 #### (g) Meetings
 
-The Advisory Board shall meet at the call of the chairman or upon request of the Director of the Institute, but not less often than four times a year.
+The Advisory Board shall meet at the call of the chairman or upon request of the Director ofthe Institute, but not less often than four times a year.
 
 #### (h) Functions
 
@@ -100,7 +100,7 @@ For effective date of amendment by section 2613(b)(2) of Pub. L. 100–690, see 
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board isrenewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

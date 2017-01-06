@@ -34,7 +34,7 @@ A civil action brought under subsection (a) shall be referred to the Attorney Ge
 
 #### (4) Finality
 
-&emsp;The penalty assessed or cease and desist order issued under this subsection shall befinal and conclusive unless the person against whom the penalty is assessed or the order is issued files an appeal with the appropriate district court of the United States in accordance with subsection (d).
+&emsp;The penalty assessed or cease and desist order issued under this subsection shall be final and conclusive unless the person against whom the penalty is assessed or the order is issued files an appeal with the appropriate district court of the United States in accordance with subsection (d).
 
 #### (d) Review by district court
 
@@ -60,7 +60,7 @@ A civil action brought under subsection (a) shall be referred to the Attorney Ge
 
 #### (1) In general
 
-&emsp;A person who fails to obey a cease and desist order issued under subsection (c) after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary of not more than $5,000 for each offense, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d).
+&emsp;A person who fails to obey a cease and desist order issued under subsection (c) after theorder has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary of not more than $5,000 for each offense, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d).
 
 #### (2) Separate violations
 

@@ -10,7 +10,7 @@ In general.—Subject to subsection (b), a member or former member of the unifor
 
 &emsp;&emsp;(A) A qualified retiree receiving veterans' disability compensation for a disability rated as 100 percent.
 
-&emsp;&emsp;(B) A qualified retiree receiving veterans' disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability.
+&emsp;&emsp;(B) A qualified retiree receiving veterans' disability compensation at the rate payablefor a 100 percent disability by reason of a determination of individual unemployability.
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Calendar year 2008.—For a month during 2008, the amount of retired pay payable
 
 &emsp;&emsp;(A) the amount determined under paragraph (4) for that qualified retiree; and
 
-&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) theamount determined under paragraph (4) for that qualified retiree.
+&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
 
 &emsp;(6)
 
@@ -174,7 +174,7 @@ In general.—The term "current baseline offset" for any qualified retiree means
 
 Applicable retired pay.—In subparagraph (A), the term "applicable retired pay" for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316; Pub. L. 110–181, div. A, title VI, §642(a), Jan. 28, 2008, 122 Stat. 157; Pub. L. 113–76, div. C, title X, §10001(b)(2), Jan. 17, 2014, 128 Stat. 151; Pub. L.114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845.)
+(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316; Pub. L. 110–181, div. A, title VI, §642(a), Jan. 28, 2008, 122 Stat. 157; Pub. L. 113–76, div. C, title X, §10001(b)(2), Jan. 17, 2014, 128 Stat. 151; Pub. L. 114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845.)
 
 #### Amendments
 

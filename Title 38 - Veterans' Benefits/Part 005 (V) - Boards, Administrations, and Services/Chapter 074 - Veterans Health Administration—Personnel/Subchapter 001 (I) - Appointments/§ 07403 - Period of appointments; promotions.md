@@ -60,7 +60,7 @@
 
 (C) The Secretary shall give full and fair consideration to any recommendations received under subparagraph (B) in deciding whether and how to proceed with a proposed system.
 
-(3) The Secretary shall implement immediately any part of a system of promotion andadvancement under paragraph (1) that is proposed under paragraph (2) for which the Secretary receives no recommendations from exclusive employee representatives under paragraph (2).
+(3) The Secretary shall implement immediately any part of a system of promotion and advancement under paragraph (1) that is proposed under paragraph (2) for which the Secretary receives no recommendations from exclusive employee representatives under paragraph (2).
 
 (4) If the Secretary receives recommendations under paragraph (2) from exclusive employee representatives on any part of a proposed system of promotion and advancement under that paragraph, the Secretary shall determine whether or not to accept the recommendations, either in whole or in part. If the Secretary determines not to accept all or part of the recommendations, the Secretary shall—
 
@@ -80,7 +80,7 @@
 
 (6) In implementing a system of promotion and advancement under this subsection, the Secretary shall—
 
-&emsp;(A) develop and implement mechanisms to permit exclusive employee representatives to participate in the periodic review and evaluation of the system, including peer review, and in any further planning or development required with respect to the system as a result of such review and evaluation; and
+&emsp;(A) develop and implement mechanisms to permit exclusive employee representatives to participate in the periodic review and evaluation of the system, including peer review, andin any further planning or development required with respect to the system as a result of such review and evaluation; and
 
 &emsp;(B) provide exclusive employee representatives appropriate access to information to ensure that the participation of such exclusive employee representative in activities under subparagraph (A) is productive.
 

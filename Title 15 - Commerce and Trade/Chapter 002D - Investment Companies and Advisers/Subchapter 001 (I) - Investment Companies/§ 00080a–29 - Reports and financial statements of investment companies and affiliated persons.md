@@ -26,7 +26,7 @@ Every registered investment company shall file with the Commission—
 
 &emsp;(A) feasible alternatives that minimize the reporting burdens on registered investment companies; and
 
-&emsp;(B) the utility of such information, documents, and reports to the Commission in relation to the costs to registered investment companies and their affiliated persons of providing such information, documents, and reports.
+&emsp;(B) the utility of such information, documents, and reports to the Commission in relation to the costs to registered investmentcompanies and their affiliated persons of providing such information, documents, and reports.
 
 #### (d) Reports under this section in lieu of reports under other provisions of law
 
@@ -56,7 +56,7 @@ The Commission may, by rule, require that semiannual reports containing the info
 
 #### (g) Certificate of independent public accountants
 
-Financial statements contained in annual reports required pursuant to subsections (a) and (e), if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. Thecertificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
+Financial statements contained in annual reports required pursuant to subsections (a) and (e), if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
 #### (h) Duties and liabilities of affiliated persons
 
@@ -72,7 +72,7 @@ A person that maintains a church plan that is excluded from the definition of an
 
 #### (j) Notice to Commission
 
-The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
+The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason ofsection 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
 (Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
 

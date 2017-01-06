@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of section 1831o(c) of this title, the Federal banking agencies increase or decrease the required minimum level for the leverage limit (as those terms are used in section 1831o of this title), the Board may, by regulation, and subject to subparagraph\(B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
+&emsp;&emsp;If, for purposes of section 1831o(c) of this title, the Federal banking agencies increase or decrease the required minimum level for the leverage limit (as those terms are used in section 1831o of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
 
 #### (B) Determinations required
 
@@ -432,7 +432,7 @@ For purposes of this section the following definitions shall apply:
 
 #### References in Text
 
-Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L.95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -494,7 +494,7 @@ Advance notice of proposed rulemaking.—Not later than 180 days after the date 
 
 &emsp;"(B)
 
-Final regulations.—The Board shall promulgate final regulations, as required by section 216(d)not later than 2 years after the date of enactment of this Act."
+Final regulations.—The Board shall promulgate final regulations, as required by section 216(d) not later than 2 years after the date of enactment of this Act."
 
 #### Consultation Required
 

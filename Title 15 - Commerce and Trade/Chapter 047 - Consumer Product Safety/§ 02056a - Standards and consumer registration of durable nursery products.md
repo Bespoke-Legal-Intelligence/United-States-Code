@@ -34,7 +34,7 @@ This section may be cited as the "Danny Keysar Child Product Safety Notification
 
 #### (B) Commission action on revised voluntary standard
 
-&emsp;&emsp;If an organization revises a standard that has been adopted, in whole or in part, as a consumer product safety standard under this subsection, it shall notify the Commission. The revised voluntary standard shall be considered to be a consumer product safety standard issued by the Commission under section 2058 of this title, effective 180 days after the date on which the organization notifies the Commission (or such later date specified by the Commission in the Federal Register) unless, within 90 days after receiving that notice, the Commission notifies the organization that it has determined that the proposed revision does not improve the safety of the consumer product covered by the standard and that the Commission is retaining the existing consumer product safety standard.
+&emsp;&emsp;If an organization revises a standard that has been adopted, in whole or in part, as a consumer product safety standard under this subsection, it shall notify the Commission. The revised voluntary standard shall be considered to be a consumer product safety standard issued by the Commission under section 2058 of this title, effective 180 days after the date on which the organization notifies the Commission (or such later date specified by the Commission in the Federal Register) unless, within 90 days after receiving that notice, the Commission notifies the organization that it has determined that the proposed revision does not improve the safety of the consumer product covered by thestandard and that the Commission is retaining the existing consumer product safety standard.
 
 #### (c) Cribs
 
@@ -72,7 +72,7 @@ This section may be cited as the "Danny Keysar Child Product Safety Notification
 
 #### (1) Rulemaking
 
-&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of1980 (44 U.S.C. 3501 et seq.), not later than 1 year after August 14, 2008, the Commission shall, pursuant to its authority under section 2065(b) of this title, promulgate a final consumer product safety rule to require each manufacturer of a durable infant or toddler product—
+&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), not later than 1 year after August 14, 2008, the Commission shall, pursuant to its authority under section 2065(b) of this title, promulgate a final consumer product safety rule to require each manufacturer of a durable infant or toddler product—
 
 &emsp;&emsp;(A) to provide consumers with a postage-paid consumer registration form with each such product;
 

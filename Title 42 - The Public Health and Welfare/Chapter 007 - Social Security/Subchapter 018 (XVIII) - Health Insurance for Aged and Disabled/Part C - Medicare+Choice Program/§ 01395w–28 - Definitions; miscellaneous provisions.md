@@ -38,13 +38,13 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
 
-&emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
+&emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
 
 &emsp;&emsp;&emsp;(iii) provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to in clause (i) in the year, for a level of reimbursement that is not less than—
 
 &emsp;&emsp;&emsp;&emsp;(I) 100 percent of such expenses, or
 
-&emsp;&emsp;&emsp;&emsp;(II) 100 percent of the amounts that would have been paid (without regard to any deductibles or coinsurance) under parts A and B of this subchapter with respect to such expenses,
+&emsp;&emsp;&emsp;&emsp;(II) 100 percent of the amounts that would have been paid (without regard to any deductibles or coinsurance) under parts A and B with respect to such expenses,
 
 &emsp;&emsp;&nbsp;whichever is less.
 
@@ -84,7 +84,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) is institutionalized (as defined by the Secretary);
 
-&emsp;&emsp;&emsp;(ii) is entitled to medical assistance under a State plan under subchapter XIX of this chapter; or
+&emsp;&emsp;&emsp;(ii) is entitled to medical assistance under a State plan under subchapter XIX; or
 
 &emsp;&emsp;&emsp;(iii) meets such requirements as the Secretary may determine would benefit from enrollment in such a specialized MA plan described in subparagraph (A) for individuals with severe or disabling chronic conditions who have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care.
 
@@ -114,7 +114,7 @@ In this part—
 
 #### (d) Coordinated acute and long-term care benefits under Medicare+Choice plan
 
-Nothing in this part shall be construed as preventing a State from coordinating benefits under a medicaid plan under subchapter XIX of this chapter with those provided under a Medicare+Choice plan in a manner that assures continuity of a full-range of acute care and long-term care services to poor elderly or disabled individuals eligible for benefits under this subchapter and under such plan.
+Nothing in this part shall be construed as preventing a State from coordinating benefits under a medicaid plan under subchapter XIX with those provided under a Medicare+Choice plan in a manner that assures continuity of a full-range of acute care and long-term care services to poor elderly or disabled individuals eligible for benefits under this subchapter and under such plan.
 
 #### (e) Restriction on enrollment for certain Medicare+Choice plans
 
@@ -152,7 +152,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) Requirements for enrollment
 
-&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2019, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6)), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2019, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
 #### (2) Additional requirements for institutional SNPS
 
@@ -260,13 +260,19 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(B), Dec. 13, 2016, 130 Stat. 1334.)
+
+#### Amendment of Subsection (b)(6)
+
+<i>Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(B), (3), Dec. 13, 2016, 130 Stat. 1334, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2021, subsection (b)(6) of this section is amended, in the last sentence, by striking "may waive" and all that follows through "subparagraph and". See 2016 Amendment note below.</i>
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(6). Pub. L. 114–255 struck out "may waive application of section 1395w–21(a)(3)(B) of this title in the case of an individual described in clause (i), (ii), or (iii) of this subparagraph and" after "The Secretary" in concluding provisions.
 
 <b>2015</b>—Subsec. (f)(1). Pub. L. 114–10 substituted "2019" for "2017".
 
@@ -320,6 +326,10 @@ Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–255 applicable with respect to plan years beginning on or after Jan. 1, 2021, see section 17006(a)(3) of Pub. L. 114–255, set out as a note under section 1395w–21 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title III, §3208(b), Mar. 23, 2010, 124 Stat. 460, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 2010, and shall apply to plan years beginning on or after such date."
@@ -364,7 +374,7 @@ Pub. L. 110–275, title I, §164(e)(2), July 15, 2008, 122 Stat. 2574, provided
 
 #### No Effect on Medicaid Benefits for Duals
 
-Pub. L. 110–275, title I, §164(h), July 15, 2008, 122 Stat. 2575, provided that: "Nothing in the provisions of, or amendments made by, this section \[amending this section and sections 1395w–22 and 1395w–27 of this title and enacting provisions set out as notes under this section and sections 1395w–21, 1395w–22, and 1395w–27 of this title\] shall affect the benefits available under the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for special needs individuals described in section 1859(b)(6)(B)(ii) of such Act (42 U.S.C. 1395w–28(b)(6)(B)(ii))."
+Pub. L. 110–275, title I, §164(h), July 15, 2008, 122 Stat. 2575, provided that: "Nothing in the provisions of, oramendments made by, this section \[amending this section and sections 1395w–22 and 1395w–27 of this title and enacting provisions set out as notes under this section and sections 1395w–21, 1395w–22, and 1395w–27 of this title\] shall affect the benefits available under the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for special needs individuals described in section 1859(b)(6)(B)(ii) of such Act (42 U.S.C. 1395w–28(b)(6)(B)(ii))."
 
 #### Authority To Designate Other Plans as Specialized MA Plans
 

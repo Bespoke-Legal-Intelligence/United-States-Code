@@ -16,7 +16,7 @@ In addition to the person causing or permitting the discharge, the owner or owne
 
 (1) The amount of the civil penalty shall not exceed $1,000 per barrel of oil discharged.
 
-(2) In determining the amount of civil penalty under this section, the Secretary shall consider the seriousness of the damages from the discharge, the cause of the discharge, any history of prior violations of applicable rules and laws, and the degree of success of any efforts by the violator to minimize or mitigate the effects of such discharge.
+(2) In determining the amount of civil penalty under this section, the Secretary shall considerthe seriousness of the damages from the discharge, the cause of the discharge, any history of prior violations of applicable rules and laws, and the degree of success of any efforts by the violator to minimize or mitigate the effects of such discharge.
 
 (3) The Secretary may reduce or waive the penalty imposed under this section if the discharge was solely caused by an act of war, act of God, or third party action beyond the control of the persons liable under this section.
 

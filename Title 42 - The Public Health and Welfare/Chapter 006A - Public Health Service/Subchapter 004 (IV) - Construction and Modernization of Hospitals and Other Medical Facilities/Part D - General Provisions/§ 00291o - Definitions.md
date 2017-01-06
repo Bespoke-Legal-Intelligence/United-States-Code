@@ -88,7 +88,7 @@ Pub. L. 91–296, title I, §117, June 30, 1970, 84 Stat. 342, provided that the
 
 Pub. L. 91–296, title I, §118, June 30, 1970, 84 Stat. 342, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
-Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefromunder part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
+Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
 
 #### Effective Date of 1964 Amendment
 

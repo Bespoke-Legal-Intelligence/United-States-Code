@@ -14,7 +14,7 @@ Exhaustion of Remedies.—(1) An organization or person may file a complaint und
 
 (c)
 
-Hearings.—If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it shall hold a hearing, within 90 days after thecomplaint is filed, to receive testimony to decide whether the national governing body is complying with sections 220522, 220524, and 220525 of this title.
+Hearings.—If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it shall hold a hearing, within 90 days after the complaint is filed, to receive testimony to decide whether the national governing body is complying with sections 220522, 220524, and 220525 of this title.
 
 (d)
 
@@ -26,7 +26,7 @@ Disposition of Complaint.—(1) If the corporation decides, as a result of the h
 
 &emsp;(B) revoke the recognition of the national governing body.
 
-(3) If the corporation places a national governing body on probation under paragraph (2) of this subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed by the corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
+(3) If the corporation places a national governing body on probation under paragraph (2) ofthis subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed by the corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Introduction or manufacture for introduction into commerce, sale, advertising or offering for sale in commerce
 
-The introduction, or manufacture for introduction, into commerce, or the sale, advertising or offering for sale in commerce, or the transportation or distribution in commerce, of any fur product which is misbranded or falsely or deceptively advertised or invoiced, within themeaning of this subchapter or the rules and regulations prescribed under section 69f(b) of this title, is unlawful and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The introduction, or manufacture for introduction, into commerce, or the sale, advertising or offering for sale in commerce, or the transportation or distribution in commerce, of any fur product which is misbranded or falsely or deceptively advertised or invoiced, within the meaning of this subchapter or the rules and regulations prescribed under section 69f(b) of this title, is unlawful and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (b) Manufacture for sale, sale, advertising, offering for sale, transportation or distribution
 

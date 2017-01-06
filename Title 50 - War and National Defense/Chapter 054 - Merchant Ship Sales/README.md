@@ -13,7 +13,7 @@
 
 #### Elimination of Title 50, Appendix
 
-Act Mar. 8, 1946, ch. 82, 60 Stat. 41, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see the Elimination of Title 50, Appendix note and Table II, set out preceding section 1 of this title.
+Act Mar. 8, 1946, ch. 82, 60 Stat. 41, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see the Elimination ofTitle 50, Appendix note and Table II, set out preceding section 1 of this title.
 
 
 ---

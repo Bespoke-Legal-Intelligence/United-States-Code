@@ -44,7 +44,7 @@
 
 #### (5) Reports
 
-&emsp;The entity carrying out an evaluation described in paragraph (1) or (2) shall prepareand submit to the Secretary a draft report and a final report containing the results of the evaluation.
+&emsp;The entity carrying out an evaluation described in paragraph (1) or (2) shall prepare and submit to the Secretary a draft report and a final report containing the results of the evaluation.
 
 #### (6) Reports to Congress
 
@@ -100,7 +100,7 @@
 
 #### (D) Study on participants entering nontraditional occupations
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the number and percentage of individuals who receive employment and training activities and who enter nontraditional occupations, successful strategies to place and support the retention of individuals in nontraditional employment (such as by providing post-placement assistance to participants in the form of exit interviews, mentoring, networking, and leadership development), and the degree towhich recipients of employment and training activities are informed of the possibility of, or directed to begin, training or education needed for entrance into nontraditional occupations.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the number and percentage of individuals who receive employment and training activities and who enter nontraditional occupations, successful strategies to place and support the retention of individuals in nontraditional employment (such as by providing post-placement assistance to participants in the form of exit interviews, mentoring, networking, and leadership development), and the degree to which recipients of employment and training activities are informed of the possibility of, or directed to begin, training or education needed for entrance into nontraditional occupations.
 
 #### (E) Study on performance indicators
 

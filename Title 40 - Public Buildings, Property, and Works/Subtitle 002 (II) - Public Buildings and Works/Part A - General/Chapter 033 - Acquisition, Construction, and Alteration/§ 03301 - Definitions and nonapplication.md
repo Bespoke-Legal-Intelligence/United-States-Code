@@ -154,7 +154,7 @@ Pub. L. 94–541, title I, §105(1), (2), Oct. 18, 1976, 90 Stat. 2507.
 
 Pub. L. 86–249, §14, Sept. 9, 1959, 73 Stat. 483.
 
-In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section. In clause (5)(A), the words "mixed-ownership Government corporation" are substituted for "mixed ownership corporation" for consistency with 31:9101. In clause (5)(B) and (C), the words "from time to time hereafter" are omitted as unnecessary. In clause (6), the words "territories and" areadded for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section. In clause (5)(A), the words "mixed-ownership Government corporation" are substituted for "mixed ownership corporation" for consistency with 31:9101. In clause (5)(B) and (C), the words "from time to time hereafter" are omitted as unnecessary. In clause (6), the words "territories and" are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), the text of 40:613(1)–(3) is omitted as obsolete. The reference is to section 241(g) of the Immigration and Nationality Act rather than to section 242(c) to reflect the amendment of sections 241 and 242 by sections 305(a)(3) and 306(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208, div. C, 110 Stat. 3009–598, 3009–607).
 

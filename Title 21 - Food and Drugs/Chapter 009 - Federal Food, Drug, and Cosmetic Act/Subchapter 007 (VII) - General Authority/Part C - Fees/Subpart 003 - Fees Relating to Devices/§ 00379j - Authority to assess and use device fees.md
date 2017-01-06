@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d), (e), and (f) of this section, each person who submits any of the following, on or after October 1, 2012, shall be subject to a fee established under subsection (c) of this section for the fiscal year involved in accordance with the following:
+&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d), (e), and (f), each person who submits any of the following, on or after October 1, 2012, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
 
 &emsp;&emsp;&emsp;(i) A premarket application.
 
@@ -76,7 +76,7 @@
 
 #### (iii) Application withdrawn before first action
 
-&emsp;&emsp;&emsp;After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based onthe level of effort already expended on the review of such application, report, or supplement.
+&emsp;&emsp;&emsp;After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of such application, report, or supplement.
 
 #### (iv) Modular applications withdrawn before first action
 
@@ -98,7 +98,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 450 et seq.\]), unless a device manufactured by the establishment is to be distributed commercially.
+&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a device manufactured by the establishment is to be distributed commercially.
 
 #### (C) Payment
 
@@ -205,7 +205,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees
 
@@ -221,11 +221,11 @@
 
 #### (ii) Firms submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
+&emsp;&emsp;&emsp;The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of itsmost recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income taxreturn, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
@@ -237,13 +237,13 @@
 
 #### (D) Request for fee waiver or reduction
 
-&emsp;&emsp;An applicant seeking a fee waiver or reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a) of this section. The decision of the Secretary regarding whether an entity qualifies for such a waiver or reduction is not reviewable.
+&emsp;&emsp;An applicant seeking a fee waiver or reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a). The decision of the Secretary regarding whether an entity qualifies for such a waiver or reduction is not reviewable.
 
 #### (e) Small businesses; fee reduction regarding premarket notification submissions
 
 #### (1) In general
 
-&emsp;For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(viii) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(viii) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket notification submissions
 
@@ -263,7 +263,7 @@
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates duringwhich these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
@@ -271,7 +271,7 @@
 
 #### (D) Request for reduction
 
-&emsp;&emsp;An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a) of this section. The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
+&emsp;&emsp;An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a). The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
 
 #### (f) Fee waiver or reduction
 
@@ -315,7 +315,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
 
 #### (2) Collections and appropriation acts
 
@@ -357,11 +357,11 @@
 
 #### (j) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (k) Written requests for refunds
 
-To qualify for consideration for a refund under subsection (a)(2)(D) of this section, a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
+To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 
 #### (l) Construction
 
@@ -375,7 +375,7 @@ This section may not be construed to require that the number of full-time equiva
 
 #### References in Text
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
 
@@ -475,7 +475,7 @@ Subsec. (e)(2)(C). Pub. L. 110–85, §212(e)(3), amended subpar. (C) generally.
 
 Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to amendment, text read as follows: "A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid."
 
-Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
+Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment,par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
 
 Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
 
@@ -543,7 +543,7 @@ Subsec. (d)(1). Pub. L. 108–214, §2(d)(2)(B)(i), substituted "subsection (a)(
 
 Subsec. (d)(2)(B). Pub. L. 108–214, §2(a)(2)(B), substituted "firms, which show" for "firms. which show" in second sentence.
 
-Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted "For fiscal year 2004 and each subsequent fiscal year, where" for "Where" and "subsection (a)(2)(A)(vii)" for "subsection (a)(1)(A)(vii)".
+Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted "For fiscal year 2004 and eachsubsequent fiscal year, where" for "Where" and "subsection (a)(2)(A)(vii)" for "subsection (a)(1)(A)(vii)".
 
 Subsec. (e)(2)(B). Pub. L. 108–214, §2(a)(2)(C)(ii)(I), substituted "firms, which show" for "firms. which show".
 

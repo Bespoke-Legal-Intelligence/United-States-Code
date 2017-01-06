@@ -12,7 +12,7 @@ Each such application shall include—
 
 &emsp;&emsp;(A) the full range of services that are available for migratory children from appropriate local, State, and Federal educational programs;
 
-&emsp;&emsp;(B) joint planning among local, State, and Federal educational programs serving migratory children, including language instruction educational programs under part A of subchapter III of this chapter;
+&emsp;&emsp;(B) joint planning among local, State, and Federal educational programs serving migratory children, including language instruction educational programs under part A of subchapter III;
 
 &emsp;&emsp;(C) the integration of services available under this part with services provided by those other programs; and
 
@@ -24,7 +24,7 @@ Each such application shall include—
 
 &emsp;(4) a description of the State's priorities for the use of funds received under this part, and how such priorities relate to the State's assessment of needs for services in the State;
 
-&emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the numbers and needs of migratory children, the requirements of subsection (d) of this section, and the availability of funds from other Federal, State, and local programs; and
+&emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the numbers and needs of migratory children, the requirements of subsection (d), and the availability of funds from other Federal, State, and local programs; and
 
 &emsp;(6) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children whose parents do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
@@ -48,7 +48,7 @@ Each such application shall also include assurances that—
 
 &emsp;(4) in planning and carrying out such programs and projects, there has been, and will be, adequate provision for addressing the unmet education needs of preschool migratory children and migratory children who have dropped out of school;
 
-&emsp;(5) the effectiveness of such programs and projects will be determined, where feasible, using the same approaches and standards that will be used to assess the performance of students, schools, and local educational agencies under part A of this subchapter;
+&emsp;(5) the effectiveness of such programs and projects will be determined, where feasible, using the same approaches and standards that will be used to assess the performance of students, schools, and local educational agencies under part A;
 
 &emsp;(6) such programs and projects will provide for outreach activities for migratory children and their families to inform such children and families of other education, health, nutrition, and social services to help connect them to such services;
 
@@ -68,7 +68,7 @@ Each such application shall also include assurances that—
 
 #### (d) Priority for services
 
-In providing services with funds received under this part, each recipient of such funds shall give priority to migratory children who have made a qualifying move within the previous 1-year period and who—
+In providing services with funds received under this part, each recipient of such funds shall give priority to migratory children whohave made a qualifying move within the previous 1-year period and who—
 
 &emsp;(1) are failing, or most at risk of failing, to meet the challenging State academic standards; or
 
@@ -98,7 +98,7 @@ Subsec. (b)(1)(B). Pub. L. 114–95, §1301(c)(1)(A)(ii), substituted "migratory
 
 Subsec. (b)(1)(D). Pub. L. 114–95, §1301(c)(1)(A)(iii), added subpar. (D) and struck out former subpar. (D) which read as follows: "measurable program goals and outcomes;".
 
-Subsec. (b)(2). Pub. L. 114–95, §1301(c)(1)(B), substituted "challenging State academic standards" for "challenging State academic content standards andchallenging State student academic achievement standards".
+Subsec. (b)(2). Pub. L. 114–95, §1301(c)(1)(B), substituted "challenging State academic standards" for "challenging State academic content standards and challenging State student academic achievement standards".
 
 Subsec. (b)(3). Pub. L. 114–95, §1301(c)(1)(C), struck out ", consistent with procedures the Secretary may require," after "including how".
 

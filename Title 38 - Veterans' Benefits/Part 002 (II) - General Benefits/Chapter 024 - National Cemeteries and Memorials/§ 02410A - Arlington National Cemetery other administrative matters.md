@@ -30,5 +30,5 @@ In general.—Except as provided in paragraph (2), section 2410A of title 38, Un
 
 "(2)
 
-Exception.—Subsection (b) of such section, as so added, shall not apply with respect to the interment ofan individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962."
+Exception.—Subsection (b) of such section, as so added, shall not apply with respect to the interment of an individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962."
 

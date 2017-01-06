@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products bythe States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -48,7 +48,7 @@ It is the sense of the Congress that:
 
 #### (B) Other agencies
 
-&emsp;&emsp;The officials referred to in paragraph (1) are the Secretary of Education, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Defense, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Director of the National Institute on Alcohol Abuse and Alcoholism, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, the Assistant Secretary for Children and Families, the Director of the Office of National Drug Control Policy, the Administrator of the National Highway Traffic Safety Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Chairman of the Federal Trade Commission, and such other Federal officials as the Secretary of Health and Human Services determines to be appropriate.
+&emsp;&emsp;The officials referred to in paragraph (1) are the Secretary of Education, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Defense, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Director of the National Institute on Alcohol Abuse and Alcoholism, the Assistant Secretary for Mental Health and Substance Use, the Director of the National Institute on Drug Abuse, the Assistant Secretary for Children and Families, the Director of the Office of National Drug Control Policy, the Administrator of the National Highway Traffic Safety Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Chairman of the Federal Trade Commission, and such other Federal officials as the Secretary of Health and Human Services determines to be appropriate.
 
 #### (C) Chair
 
@@ -108,7 +108,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;In developing these measures, the Secretary shall consider categories including, but not limited to:
 
-&emsp;&emsp;&emsp;&emsp;(I) Whether or not the State has comprehensive anti-underage drinking laws such as for the illegal sale, purchase, attempt to purchase, consumption, or possession of alcohol; illegal use of fraudulent ID; illegal furnishing or obtaining of alcohol for an individual under 21 years;the degree of strictness of the penalties for such offenses; and the prevalence of the enforcement of each of these infractions.
+&emsp;&emsp;&emsp;&emsp;(I) Whether or not the State has comprehensive anti-underage drinking laws such as for the illegal sale, purchase, attempt to purchase, consumption, or possession of alcohol; illegal use of fraudulent ID; illegal furnishing or obtaining of alcohol for an individual under 21 years; the degree of strictness of the penalties for such offenses; and the prevalence of the enforcement of each of these infractions.
 
 &emsp;&emsp;&emsp;&emsp;(II) Whether or not the State has comprehensive liability statutes pertaining to underage access to alcohol such as dram shop, social host, and house party laws, and the prevalence of enforcement of each of these laws.
 
@@ -138,7 +138,7 @@ It is the sense of the Congress that:
 
 #### (3) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $1,000,000 for fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;There are authorized to be appropriated to carry out this subsection $1,000,000 for each of the fiscal years 2018 through 2022.
 
 #### (d) National media campaign to prevent underage drinking
 
@@ -156,7 +156,7 @@ It is the sense of the Congress that:
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;There are authorized to be appropriated to carry out this subsection, $1,000,000 for each of the fiscal years 2018 through 2022.
 
 #### (e) Interventions
 
@@ -164,7 +164,7 @@ It is the sense of the Congress that:
 
 #### (A) Authorization of program
 
-&emsp;&emsp;The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, "enhancement grants" to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
+&emsp;&emsp;The Assistant Secretary for Mental Health and Substance Use, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Assistant Secretary determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, "enhancement grants" to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
 
 #### (B) Purposes
 
@@ -184,7 +184,7 @@ It is the sense of the Congress that:
 
 #### (C) Application
 
-&emsp;&emsp;An eligible entity desiring an enhancement grant under this paragraph shall submit an application to the Administrator at such time, and in such manner, and accompanied by such information as the Administrator may require. Each application shall include—
+&emsp;&emsp;An eligible entity desiring an enhancement grant under this paragraph shall submit an application to the Assistant Secretary at such time, and in such manner, and accompanied by such information as the Assistant Secretary may require. Each application shall include—
 
 &emsp;&emsp;&emsp;(i) a complete description of the entity's current underage alcohol use prevention initiatives and how the grant will appropriately enhance the focus on underage drinking issues; or
 
@@ -212,7 +212,7 @@ It is the sense of the Congress that:
 
 #### (I) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated to carry out this paragraph $5,000,000 for fiscal year 2007, and $5,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;&emsp;There are authorized to be appropriated to carry out this paragraph $5,000,000 for each of the fiscal years 2018 through 2022.
 
 #### (2) Grants directed at preventing and reducing alcohol abuse at institutions of higher education
 
@@ -254,7 +254,7 @@ It is the sense of the Congress that:
 
 #### (D) Accountability
 
-&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under this paragraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
+&emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under thisparagraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
 
 &emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of student studies, mental health referrals, illnesses, or deaths);
 
@@ -344,9 +344,75 @@ It is the sense of the Congress that:
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $6,000,000 for fiscalyear 2007, and $6,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;There are authorized to be appropriated to carry out this subsection $3,000,000 for each of the fiscal years 2018 through 2022 <sup>1</sup>
 
-(July 1, 1944, ch. 373, title V, §519B, as added Pub. L. 106–310, div. B, title XXXI, §3109, Oct. 17, 2000, 114 Stat. 1182; amended Pub. L. 109–422, §2, Dec. 20, 2006, 120 Stat. 2890.)
+#### (g) Reducing underage drinking through screening and brief intervention
+
+#### (1) Grants to pediatric health care providers to reduce underage drinking
+
+&emsp;The Assistant Secretary may make grants to eligible entities to increase implementation of practices for reducing the prevalence of alcohol use among individuals under the age of 21, including college students.
+
+#### (2) Purposes
+
+&emsp;Grants under this subsection shall be made to improve—
+
+&emsp;&emsp;(A) screening children and adolescents for alcohol use;
+
+&emsp;&emsp;(B) offering brief interventions to children and adolescents to discourage such use;
+
+&emsp;&emsp;(C) educating parents about the dangers of, and methods of discouraging, such use;
+
+&emsp;&emsp;(D) diagnosing and treating alcohol use disorders; and
+
+&emsp;&emsp;(E) referring patients, when necessary, to other appropriate care.
+
+#### (3) Use of funds
+
+&emsp;An entity receiving a grant under this subsection may use such funding for the purposes identified in paragraph (2) by—
+
+&emsp;&emsp;(A) providing training to health care providers;
+
+&emsp;&emsp;(B) disseminating best practices, including culturally and linguistically appropriate best practices, as appropriate, and developing and distributing materials; and
+
+&emsp;&emsp;(C) supporting other activities, as determined appropriate by the Assistant Secretary.
+
+#### (4) Application
+
+&emsp;To be eligible to receive a grant under this subsection, an entity shall submit an application to the Assistant Secretary at such time, and in such manner, and accompanied by such information as the Assistant Secretary may require. Each application shall include—
+
+&emsp;&emsp;(A) a description of the entity;
+
+&emsp;&emsp;(B) a description of activities to be completed;
+
+&emsp;&emsp;(C) a description of how the services specified in paragraphs (2) and (3) will be carried out and the qualifications for providing such services; and
+
+&emsp;&emsp;(D) a timeline for the completion of such activities.
+
+#### (5) Definitions
+
+&emsp;For the purpose of this subsection:
+
+#### (A) Brief intervention
+
+&emsp;&emsp;The term "brief intervention" means, after screening a patient, providing the patient with brief advice and other brief motivational enhancement techniques designed to increase the insight of the patient regarding the patient's alcohol use, and any realized or potential consequences of such use, to effect the desired related behavioral change.
+
+#### (B) Children and adolescents
+
+&emsp;&emsp;The term "children and adolescents" means any person under 21 years of age.
+
+#### (C) Eligible entity
+
+&emsp;&emsp;The term "eligible entity" means an entity consisting of pediatric health care providers and that is qualified to support or provide the activities identified in paragraph (2).
+
+#### (D) Pediatric health care provider
+
+&emsp;&emsp;The term "pediatric health care provider" means a provider of primary health care to individuals under the age of 21 years.
+
+#### (E) Screening
+
+&emsp;&emsp;The term "screening" means using validated patient interview techniques to identify and assess the existence and extent of alcohol use in a patient.
+
+(July 1, 1944, ch. 373, title V, §519B, as added Pub. L. 106–310, div. B, title XXXI, §3109, Oct. 17, 2000, 114 Stat. 1182; amended Pub. L. 109–422, §2, Dec. 20, 2006, 120 Stat. 2890; Pub. L. 114–255, div. B, title VI, §6001(c), title IX, §9016, Dec. 13, 2016, 130 Stat. 1203, 1246.)
 
 #### References in Text
 
@@ -354,5 +420,23 @@ The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub.
 
 #### Amendments
 
+<b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
+
+Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (d)(4). Pub. L. 114–255, §9016(2), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (e)(1)(A). Pub. L. 114–255, §6001(c), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration" and "Assistant Secretary" for "Administrator".
+
+Subsec. (e)(1)(C). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in two places.
+
+Subsec. (e)(1)(I). Pub. L. 114–255, §9016(3), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $5,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (f)(2). Pub. L. 114–255, §9016(4), substituted "$3,000,000 for each of the fiscal years 2018 through 2022" for "$6,000,000 for fiscal year 2007, and $6,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (g). Pub. L. 114–255, §9016(5), added subsec. (g).
+
 <b>2006</b>—Pub. L. 109–422 added subsecs. (a) to (f) and struck out former subsecs. (a) to (f), which related, respectively, to the Secretary's authority to make grants, cooperative agreements, or contracts for programs to prevent underage drinking; eligibility requirements; evaluation; geographical distribution; duration of award; and authorization of appropriations.
+
+<i><sup>1</sup></i><i> So in original. A period probably should appear.</i>
 

@@ -44,7 +44,7 @@ Security Incidents.—During a transportation security incident on or adjacent t
 
 (e)
 
-Deployment of Interoperable Communications Equipment at Interagency Operational Centers.—The Secretary, subject to the availability of appropriations, shall ensure that interoperable communications technology is deployed at all interagency operational centers established under subsection (a) and that such technology and equipment has been tested in live operational environments before deployment.
+Deployment of Interoperable Communications Equipment at Interagency Operational Centers.—The Secretary, subject to the availability of appropriations, shall ensure that interoperable communications technology is deployed at all interagency operational centers established under subsection (a) and that such technology and equipment has been testedin live operational environments before deployment.
 
 (f)
 

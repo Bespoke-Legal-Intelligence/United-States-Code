@@ -8,7 +8,7 @@ In this section—
 
 &emsp;(2) the term "private nonprofit organization" means an entity that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title;
 
-&emsp;(3) the term "small business concern owned and controlled by women", either startup or existing, includes any small business concern—
+&emsp;(3) the term "small business concern owned and controlled by women", either startup orexisting, includes any small business concern—
 
 &emsp;&emsp;(A) that is not less than 51 percent owned by 1 or more women; and
 
@@ -82,7 +82,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (1) Establishment
 
-&emsp;There is established within the Administration an Office of Women's Business Ownership, which shall be responsible for the administration of the Administration's programs for the development of women's business enterprises (as defined in section 7108 of this title). The Office of Women's Business Ownership shall be administered by an Assistant Administrator, who shall be appointed by the Administrator.
+&emsp;There is established within the Administration an Office of Women's Business Ownership, which shall be responsible for the administration of the Administration's programs for thedevelopment of women's business enterprises (as defined in section 7108 of this title). The Office of Women's Business Ownership shall be administered by an Assistant Administrator, who shall be appointed by the Administrator.
 
 #### (2) Assistant Administrator of the Office of Women's Business Ownership
 
@@ -280,7 +280,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (D) Priority
 
-&emsp;&emsp;In allocating funds made available for grants under this section, the Administrator shall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
+&emsp;&emsp;In allocating funds made available for grants under this section, the Administratorshall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
 
 #### (5) Renewal
 

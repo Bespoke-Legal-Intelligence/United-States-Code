@@ -104,7 +104,7 @@ Grants awarded under subsection (a) may be used for—
 
 &emsp;&emsp;&emsp;(i) any other grant funding from the Department of Justice or from any other Federal department or agency for purposes similar to those described in subsection (b) for which the eligible entity has applied, and which application is pending on the date of the submission of an application under this section; and
 
-&emsp;&emsp;&emsp;(ii) any other such grant funding that the eligible entity has received during the 5-year period ending on the date of the submission of an application under this section.
+&emsp;&emsp;&emsp;(ii) any other such grant funding that the eligible entity has received during the5-year period ending on the date of the submission of an application under this section.
 
 #### (3) Preference
 
@@ -176,7 +176,7 @@ In this section—
 
 &emsp;(2) the term "child advocacy center" means a center created under subtitle A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.);
 
-&emsp;(3) the term "child human trafficking" means 1 or more severe forms of trafficking inpersons (as defined in section 7102 of title 22) involving a victim who is a child; and
+&emsp;(3) the term "child human trafficking" means 1 or more severe forms of trafficking in persons (as defined in section 7102 of title 22) involving a victim who is a child; and
 
 &emsp;(4) the term "eligible entity" means a State or unit of local government that—
 
@@ -194,7 +194,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(iv) prevention, deterrence, and prosecution of offenses involving child human trafficking, including soliciting, patronizing, or purchasing human acts with children;
 
-&emsp;&emsp;&emsp;(v) cooperation or referral agreements with organizations providing outreach or other related services to runaway and homeless youth;
+&emsp;&emsp;&emsp;(v) cooperation or referral agreements with organizations providing outreach orother related services to runaway and homeless youth;
 
 &emsp;&emsp;&emsp;(vi) law enforcement protocols or procedures to screen all individuals arrested for prostitution, whether adult or child, for victimization by sex trafficking and by other crimes, such as sexual assault and domestic violence; and
 

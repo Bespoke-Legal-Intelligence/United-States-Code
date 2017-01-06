@@ -64,7 +64,7 @@ For purposes of this part, the terms "low-income person" and "person of low inco
 
 &emsp;(D) locally generated contributions in excess of the amount required to be contributed under subsection (a) of this section, in the discretion of the recipient of a grant or contract under such subsection.
 
-(Pub. L. 93–113, title II, §211, Oct. 1, 1973, 87 Stat. 402; Pub. L. 94–135, title II, §205(b)(1), (2), Nov. 28,1975, 89 Stat. 727; Pub. L. 94–293, §7, May 27, 1976, 90 Stat. 526; Pub. L. 95–478, title IV, §402(b), Oct. 18, 1978, 92 Stat. 1557; Pub. L. 97–35, title VI, §608(b), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §14(c), May 21, 1984, 98 Stat. 192; Pub. L. 99–551, §7(a)(1), Oct. 27, 1986, 100 Stat. 3074; Pub. L. 101–204, title V, §§503, 504, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§344, 345, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 108–446, title III, §305(k), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title II, §2144, Apr. 21, 2009, 123 Stat. 1588.)
+(Pub. L. 93–113, title II, §211, Oct. 1, 1973, 87 Stat. 402; Pub. L. 94–135, title II, §205(b)(1), (2), Nov. 28, 1975, 89 Stat. 727; Pub. L. 94–293, §7, May 27, 1976, 90 Stat. 526; Pub. L. 95–478, title IV, §402(b), Oct. 18, 1978, 92 Stat. 1557; Pub. L. 97–35, title VI, §608(b), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §14(c), May 21, 1984, 98 Stat. 192; Pub. L. 99–551, §7(a)(1), Oct. 27, 1986, 100 Stat. 3074; Pub. L. 101–204, title V, §§503, 504, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§344, 345, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 108–446, title III, §305(k), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title II, §2144, Apr. 21, 2009, 123 Stat. 1588.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 99–551, §7(a)(1)(B), added subsec. (f).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288, §14(c)(1), substituted "the Director" for "he" in two places.
 
-Subsec. (b)(2). Pub. L. 98–288, §14(c)(2), inserted at end "If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agencyor organization may select another foster grandparent."
+Subsec. (b)(2). Pub. L. 98–288, §14(c)(2), inserted at end "If the particular foster grandparent subject to the determination under this paragraph becomes unavailable to serve after such determination is made, the agency or organization may select another foster grandparent."
 
 Subsec. (d). Pub. L. 98–288, §14(c)(3), substituted "the Director" for "he" in two places and "$2.20" for "$2" in two places.
 

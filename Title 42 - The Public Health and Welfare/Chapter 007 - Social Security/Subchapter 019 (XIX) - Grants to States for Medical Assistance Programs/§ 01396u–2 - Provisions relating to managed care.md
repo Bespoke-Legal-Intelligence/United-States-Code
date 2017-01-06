@@ -30,19 +30,19 @@
 
 &emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entity of an individual under 19 years of age who—
 
-&emsp;&emsp;&emsp;(i) is eligible for supplemental security income under subchapter XVI of this chapter;
+&emsp;&emsp;&emsp;(i) is eligible for supplemental security income under subchapter XVI;
 
 &emsp;&emsp;&emsp;(ii) is described in section 701(a)(1)(D) of this title;
 
 &emsp;&emsp;&emsp;(iii) is described in section 1396a(e)(3) of this title;
 
-&emsp;&emsp;&emsp;(iv) is receiving foster care or adoption assistance under part E of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;(iv) is receiving foster care or adoption assistance under part E of subchapter IV; or
 
 &emsp;&emsp;&emsp;(v) is in foster care or otherwise in an out-of-home placement.
 
 #### (B) Exemption of medicare beneficiaries
 
-&emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entity of an individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title) or an individual otherwise eligible for benefits under subchapter XVIII of this chapter.
+&emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entity of an individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title) or an individual otherwise eligible for benefits under subchapter XVIII.
 
 #### (C) Indian enrollment
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) The Indian Health Service.
 
-&emsp;&emsp;&emsp;(ii) An Indian health program operated by an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+&emsp;&emsp;&emsp;(ii) An Indian health program operated by an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
 
 &emsp;&emsp;&emsp;(iii) An urban Indian health program operated by an urban Indian organization pursuant to a grant or contract with the Indian Health Service pursuant to title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;In carrying out paragraph (1)(A), the State shall establish a default enrollment process—
 
-&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entityduring the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
+&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
 
 &emsp;&emsp;&emsp;(ii) that takes into consideration—
 
@@ -140,7 +140,7 @@
 
 #### (iv) Information on covered items and services
 
-&emsp;&emsp;&emsp;All items and services that are available to enrollees under the contract between the State and the organization that are covered either directly or through a method of referral and prior authorization. Each managed care entity that is a primary care case manager shall, upon request, make available to enrollees and potential enrollees in the organization's service area the information described in clause (iii).
+&emsp;&emsp;&emsp;All items and services that are available to enrollees under the contract betweenthe State and the organization that are covered either directly or through a method of referral and prior authorization. Each managed care entity that is a primary care case manager shall, upon request, make available to enrollees and potential enrollees in the organization's service area the information described in clause (iii).
 
 #### (C) Comparative information
 
@@ -176,13 +176,13 @@
 
 &emsp;&emsp;&emsp;(i) to provide coverage for emergency services (as defined in subparagraph (B)) without regard to prior authorization or the emergency care provider's contractual relationship with the organization or manager, and
 
-&emsp;&emsp;&emsp;(ii) to comply with guidelines established under section 1395w–22(d)(2) of this title (respecting coordination of post-stabilization care) in the same manner as such guidelines apply to Medicare+Choice plans offered under part C of subchapter XVIII of this chapter.
+&emsp;&emsp;&emsp;(ii) to comply with guidelines established under section 1395w–22(d)(2) of this title (respecting coordination of post-stabilization care) in the same manner as such guidelines apply to Medicare+Choice plans offered under part C of subchapter XVIII.
 
 > &emsp;&emsp;The requirement under clause (ii) shall first apply 30 days after the date of promulgation of the guidelines referred to in such clause.
 
 #### (B) "Emergency services" defined
 
-&emsp;&emsp;In subparagraph (A)(i), the term "emergency services" means, with respect to an individual enrolled with an organization,covered inpatient and outpatient services that—
+&emsp;&emsp;In subparagraph (A)(i), the term "emergency services" means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -206,7 +206,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), under a contract under section 1396b(m) of this title a medicaid managed care organization (in relation to an individual enrolled under the contract) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the contract, if the professional is acting within the lawful scope of practice.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), under a contract under section 1396b(m) of this title a medicaid managed care organization (in relation to an individual enrolledunder the contract) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the contract, if the professional is acting within the lawful scope of practice.
 
 #### (B) Construction
 
@@ -262,7 +262,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a State provides for contracts with medicaid managed care organizations under section 1396b(m) of this title, the State shall develop and implement a quality assessment and improvement strategy consistent with this paragraph. Such strategy shall include the following:
+&emsp;&emsp;If a State provides for contracts with medicaid managed care organizations under section 1396b(m) of this title, the State shall develop and implement a quality assessmentand improvement strategy consistent with this paragraph. Such strategy shall include the following:
 
 #### (i) Access standards
 
@@ -274,7 +274,7 @@
 
 #### (iii) Monitoring procedures
 
-&emsp;&emsp;&emsp;Procedures for monitoring and evaluating the quality and appropriateness of care and services to enrollees that reflect the full spectrum of populations enrolled under the contract and that includes requirements for provision of quality assurance data to the State using the data and information set that the Secretary has specified for use under part C of subchapter XVIII of this chapter or such alternative data as the Secretary approves, in consultation with the State.
+&emsp;&emsp;&emsp;Procedures for monitoring and evaluating the quality and appropriateness of care and services to enrollees that reflect the full spectrum of populations enrolled under the contract and that includes requirements for provision of quality assurance data to the State using the data and information set that the Secretary has specified for use under part C of subchapter XVIII or such alternative data as the Secretary approves, in consultation with the State.
 
 #### (iv) Periodic review
 
@@ -318,7 +318,7 @@
 
 #### (C) Deemed compliance for medicare managed care organizations
 
-&emsp;&emsp;At the option of a State, the requirements of subparagraph (A) shall not apply with respect to a medicaid managed care organization if the organization is an eligible organization with a contract in effect under section 1395mm of this title or a Medicare+Choice organization with a contract in effect under part C of subchapter XVIII of this chapter and the organization has had a contract in effect under section 1396b(m) of this title at least during the previous 2-year period.
+&emsp;&emsp;At the option of a State, the requirements of subparagraph (A) shall not apply with respect to a medicaid managed care organization if the organization is an eligible organization with a contract in effect under section 1395mm of this title or a Medicare+Choice organization with a contract in effect under part C of subchapter XVIII and the organization has had a contract in effect under section 1396b(m) of this title at least during the previous 2-year period.
 
 #### (d) Protections against fraud and abuse
 
@@ -330,7 +330,7 @@
 
 &emsp;&emsp;&emsp;(i) have a person described in subparagraph (C) as a director, officer, partner, or person with beneficial ownership of more than 5 percent of the entity's equity, or
 
-&emsp;&emsp;&emsp;(ii) have an employment, consulting, or other agreement with a person described in such subparagraph for the provision of items and services that are significant and material to the entity's obligations under its contract with the State.
+&emsp;&emsp;&emsp;(ii) have an employment, consulting, or other agreement with a person describedin such subparagraph for the provision of items and services that are significant and material to the entity's obligations under its contract with the State.
 
 #### (B) Effect of noncompliance
 
@@ -386,11 +386,25 @@
 
 #### (3) State conflict-of-interest safeguards in medicaid risk contracting
 
-&emsp;A medicaid managed care organization may not enter into a contract with any State under section 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under chapter 21 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
+&emsp;A medicaid managed care organization may not enter into a contract with any State under section 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) that are at least as effective as the Federal safeguards provided under chapter 21 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
 
 #### (4) Use of unique physician identifier for participating physicians
 
 &emsp;Each medicaid managed care organization shall require each physician providing services to enrollees eligible for medical assistance under the State plan under this subchapter to have a unique identifier in accordance with the system established under section 1320d–2(b) of this title.
+
+#### (5) Contract requirement for managed care entities
+
+&emsp;With respect to any contract with a managed care entity under section 1396b(m) or 1396d(t)(3) of this title (as applicable), no later than July 1, 2018, such contract shall include a provision that providers of services or persons terminated (as described in section 1396a(kk)(8) of this title) from participation under this subchapter, subchapter XVIII, or subchapter XXI shall be terminated from participating under this subchapter as a provider in any network of such entity that serves individuals eligible to receive medical assistance under this subchapter.
+
+#### (6) Enrollment of participating providers
+
+#### (A) In general
+
+&emsp;&emsp;Beginning not later than January 1, 2018, a State shall require that, in order to participate as a provider in the network of a managed care entity that provides services to, or orders, prescribes, refers, or certifies eligibility for services for, individuals who are eligible for medical assistance under the State plan under this subchapter (or under a waiver of the plan) and who are enrolled with the entity, the provider is enrolled consistent with section 1396a(kk) of this title with the State agency administering the State plan under this subchapter. Such enrollment shall include providing to the State agency the provider's identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed as requiring a provider described in such subparagraph to provide services to individuals who are not enrolled with a managed care entity under this subchapter.
 
 #### (e) Sanctions for noncompliance
 
@@ -414,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(v) fails to comply with the applicable requirements of section 1396b(m)(2)(A)(x) of this title.
 
-> &emsp;&emsp;The State may also impose such intermediate sanction against a managed care entity if the State determines that the entity distributed directly or through any agent or independent contractor marketing materials in violation of subsection (d)(2)(A)(i)(II) of this section.
+> &emsp;&emsp;The State may also impose such intermediate sanction against a managed care entity if the State determines that the entity distributed directly or through any agent or independent contractor marketing materials in violation of subsection (d)(2)(A)(i)(II).
 
 #### (B) Rule of construction
 
@@ -444,7 +458,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) improvements are made to remedy the violations found under paragraph (1),
 
-&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that themedicaid managed care organization has the capability to ensure that the violations shall not recur.
+&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that the medicaid managed care organization has the capability to ensure that the violations shall not recur.
 
 &emsp;&emsp;(C) Permitting individuals enrolled with the managed care entity to terminate enrollment without cause, and notifying such individuals of such right to terminate enrollment.
 
@@ -504,7 +518,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (2) Assurance of payment to Indian health care providers for provision of covered services
 
-&emsp;Each contract with a managed care entity under section 1396b(m) of this title or undersection 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
+&emsp;Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
 
 #### (A) Demonstration of access to Indian health care providers and application of alternative payment arrangements
 
@@ -512,7 +526,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;&emsp;(i) demonstrate that the number of Indian health care providers that are participating providers with respect to such entity are sufficient to ensure timely access to covered Medicaid managed care services for those Indian enrollees who are eligible to receive services from such providers; and
 
-&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
+&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to thoseIndian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
 
 > &emsp;&emsp;The Secretary shall establish procedures for applying the requirements of clause (i) in States where there are no or few Indian health providers.
 
@@ -568,13 +582,13 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;The term "Medicaid managed care program" means a program under sections 1396b(m), 1396d(t), and 1396u–2 of this title and includes a managed care program operating under a waiver under section 1396n(b) or 1315 of this title or otherwise.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a),4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193.)
 
 #### References in Text
 
 Section 4(c) of the Indian Health Care Improvement Act of 1976, referred to in subsec. (a)(2)(C), probably means section 4(c) of the Indian Health Care Improvement Act, which was redesignated section 4(13) of the Act by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and is classified to section 1603(13) of Title 25, Indians.
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
@@ -601,6 +615,10 @@ In subsec. (d)(3), "chapter 21 of title 41" substituted for "section 27 of the O
 A prior section 1932 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(5). Pub. L. 114–255, §5005(a)(2), added par. (5).
+
+Subsec. (d)(6). Pub. L. 114–255, §5005(b)(2), added par. (6).
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–152 inserted "; adequacy of payment for primary care services" after "payment" in heading and "and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation)" before period at end of text.
 
@@ -643,6 +661,10 @@ Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(A)\], Dec. 21, 2000, 114 S
 #### Effective Date
 
 Section effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, except that, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, subsec. (c)(1) effective Jan. 1, 1999, and subsec. (e) applicable to contracts entered into or renewed on or after Apr. 1, 1998, see section 4710(a), (b)(3), (5) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1396b of this title.
+
+#### Construction of 2016 Amendment
+
+Nothing in amendment by Pub. L. 114–255 to be construed as changing or limiting the appeal rights of providers or the process for appeals of States under the Social Security Act, see section 5005(d) of Pub. L. 114–255, set out as a note under section 1396a of this title.
 
 #### Studies and Reports
 

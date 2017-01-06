@@ -6,7 +6,7 @@ Without the prior consent of the consumer given directly to the debt collector o
 
 &emsp;(1) at any unusual time or place or a time or place known or which should be known to be inconvenient to the consumer. In the absence of knowledge of circumstances to the contrary, a debt collector shall assume that the convenient time for communicating with a consumer is after 8 o'clock antemeridian and before 9 o'clock postmeridian, local time at the consumer's location;
 
-&emsp;(2) if the debt collector knows the consumer is represented by an attorney with respect to such debt and has knowledge of, or can readilyascertain, such attorney's name and address, unless the attorney fails to respond within a reasonable period of time to a communication from the debt collector or unless the attorney consents to direct communication with the consumer; or
+&emsp;(2) if the debt collector knows the consumer is represented by an attorney with respect to such debt and has knowledge of, or can readily ascertain, such attorney's name and address, unless the attorney fails to respond within a reasonable period of time to a communication from the debt collector or unless the attorney consents to direct communication with the consumer; or
 
 &emsp;(3) at the consumer's place of employment if the debt collector knows or has reason to know that the consumer's employer prohibits the consumer from receiving such communication.
 
@@ -31,4 +31,8 @@ If a consumer notifies a debt collector in writing that the consumer refuses to 
 For the purpose of this section, the term "consumer" includes the consumer's spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
 
 (Pub. L. 90–321, title VIII, §805, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
+
+#### Effective Date
+
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 

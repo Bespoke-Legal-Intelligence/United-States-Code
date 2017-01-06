@@ -10,7 +10,7 @@
 
 &emsp;(4) information with respect to the research and development activities conducted under sections 98a and 98g of this title;
 
-&emsp;(5) a statement and explanation of the financial status of the National Defense Stockpile Transaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
+&emsp;(5) a statement and explanation of the financial status of the National Defense StockpileTransaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
 
 &emsp;(6) such other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program provided for under this subchapter and to determine the need for additional legislation.
 
@@ -62,5 +62,5 @@ Subsec. (b). Pub. L. 100–456, §1503(b), substituted "the next fiscal year" fo
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No.12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 

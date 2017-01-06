@@ -28,7 +28,7 @@
 - [&sect; 03319 - Alternative ranking and selection procedures](%C2%A7%2003319%20-%20Alternative%20ranking%20and%20selection%20procedures.md)
 - [&sect; 03320 - Excepted service; government of the District of Columbia; selection](%C2%A7%2003320%20-%20Excepted%20service%3B%20government%20of%20the%20District%20of%20Columbia%3B%20selection.md)
 - [&sect; 03321 - Competitive service; probationary period](%C2%A7%2003321%20-%20Competitive%20service%3B%20probationary%20period.md)
-- [&sect; 03322 - Repealed. Pub. L. 95&#8211;256, &sect;5(b)(1), Apr. 6, 1978, 92 Stat. 191](%C2%A7%2003322%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93256%2C%20%C2%A75%28b%29%281%29%2C%20Apr.%206%2C%201978%2C%2092%20Stat.%20191.md)
+- [&sect; 03322 - Voluntary separation before resolution of personnel investigation](%C2%A7%2003322%20-%20Voluntary%20separation%20before%20resolution%20of%20personnel%20investigation.md)
 - [&sect; 03323 - Automatic separations; reappointment; reemployment of annuitants](%C2%A7%2003323%20-%20Automatic%20separations%3B%20reappointment%3B%20reemployment%20of%20annuitants.md)
 - [&sect; 03324 - Appointments to positions classified above GS&#8211;15](%C2%A7%2003324%20-%20Appointments%20to%20positions%20classified%20above%20GS%E2%80%9315.md)
 - [&sect; 03325 - Appointments to scientific and professional positions](%C2%A7%2003325%20-%20Appointments%20to%20scientific%20and%20professional%20positions.md)
@@ -41,3 +41,4 @@
 - [&sect; 03330b - Preference eligibles; judicial redress](%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md)
 - [&sect; 03330c - Preference eligibles; remedy](%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md)
 - [&sect; 03330d - Appointment of certain military spouses](%C2%A7%2003330d%20-%20Appointment%20of%20certain%20military%20spouses.md)
+- [&sect; 03330e - Review of official personnel file of former Federal employees before rehiring](%C2%A7%2003330e%20-%20Review%20of%20official%20personnel%20file%20of%20former%20Federal%20employees%20before%20rehiring.md)

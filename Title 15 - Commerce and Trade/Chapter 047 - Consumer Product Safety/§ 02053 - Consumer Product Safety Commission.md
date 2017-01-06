@@ -12,7 +12,7 @@ An independent regulatory commission is hereby established, to be known as the C
 
 #### (c) Restrictions on Commissioner's outside activities
 
-Not more than three of the Commissioners shall be affiliated with the same political party. No individual (1) in the employ of, or holding any official relation to, any person engaged in selling or manufacturing consumer products, or (2) owning stock or bonds of substantial value in a person so engaged, or (3) who is in any other manner pecuniarily interested in such a person, or in a substantial supplier of such a person, shall hold the office of Commissioner. A Commissioner may not engage in any other business, vocation, or employment.
+Not more than three of the Commissioners shall be affiliated with the same political party. No individual (1) in the employ of, or holding any official relation to, any person engaged in selling or manufacturing consumer products, or (2) owning stock or bonds of substantial value in a person so engaged, or (3) who is in any other manner pecuniarily interested in such a person,or in a substantial supplier of such a person, shall hold the office of Commissioner. A Commissioner may not engage in any other business, vocation, or employment.
 
 #### (d) Quorum; seal; Vice Chairman
 
@@ -62,7 +62,7 @@ Subsections (a) and (h) of section 2680 of title 28 do not prohibit the bringing
 
 &emsp;(2) is not made with respect to any agency action (as defined in section 551(13) of title 5).
 
-> In the case of a civil action on a claim based upon the exercise or performance of, or failure to exercise or perform, a discretionary function, no judgment may be entered against the United States unless the court in which such action was brought determines (based upon consideration of all the relevant circumstances, including the statutory responsibility of the Commission and the public interest in encouraging rather than inhibiting the exercise of discretion) that such exercise, performance, or failure to exercise or perform was unreasonable.
+> In the case of a civil action on a claim based upon the exercise or performance of, or failureto exercise or perform, a discretionary function, no judgment may be entered against the United States unless the court in which such action was brought determines (based upon consideration of all the relevant circumstances, including the statutory responsibility of the Commission and the public interest in encouraging rather than inhibiting the exercise of discretion) that such exercise, performance, or failure to exercise or perform was unreasonable.
 
 #### (j) Agenda and priorities; establishment and comments
 
@@ -82,7 +82,7 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 <b>2011</b>—Subsec. (g)(5). Pub. L. 112–74 added par. (5).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risksto safety, are qualified to serve as members of the Commission."
+<b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission."
 
 Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
 
@@ -126,7 +126,7 @@ Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part tha
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

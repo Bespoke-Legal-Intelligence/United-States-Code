@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary"), shall establish a program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees on a nationwide basis (in this subsection, such program shall be referred to as the "nationwide program"). Except for the following modifications, the Secretary shall carry out the nationwide program under similar termsand conditions as the pilot program under section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2257), including the prohibition on hiring abusive workers and the authorization of the imposition of penalties by a participating State under subsection (b)(3)(A) and (b)(6), respectively, of such section 307:
+The Secretary of Health and Human Services (in this section referred to as the "Secretary"), shall establish a program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees on a nationwide basis (in this subsection, such program shall be referred to as the "nationwide program"). Except for the following modifications, the Secretary shall carry out the nationwide program under similar terms and conditions as the pilot program under section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2257), including the prohibition on hiring abusive workers and the authorization of the imposition of penalties by a participating State under subsection (b)(3)(A) and (b)(6), respectively, of such section 307:
 
 #### (1) Agreements
 
@@ -58,7 +58,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(v) provide for the designation of a single State agency as responsible for—
 
-&emsp;&emsp;&emsp;&emsp;(I) overseeing the coordination of any State and national criminal historybackground checks requested by a long-term care facility or provider (or the designated agent of the long-term care facility or provider) utilizing a search of State and Federal criminal history records, including a fingerprint check of such records;
+&emsp;&emsp;&emsp;&emsp;(I) overseeing the coordination of any State and national criminal history background checks requested by a long-term care facility or provider (or the designated agent of the long-term care facility or provider) utilizing a search of State and Federal criminal history records, including a fingerprint check of such records;
 
 &emsp;&emsp;&emsp;&emsp;(II) overseeing the design of appropriate privacy and security safeguards for use in the review of the results of any State or national criminal history background checks conducted regarding a prospective direct patient access employee to determine whether the employee has any conviction for a relevant crime;
 
@@ -70,7 +70,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(vii) as appropriate, specify offenses, including convictions for violent crimes, for purposes of the nationwide program; and
 
-&emsp;&emsp;&emsp;(viii) describe and test methods that reduce duplicative fingerprinting, including providing for the development of "rap back" capability such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department—
+&emsp;&emsp;&emsp;(viii) describe and test methods that reduce duplicative fingerprinting, including providing for the development of "rapback" capability such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department—
 
 &emsp;&emsp;&emsp;&emsp;(I) the department will immediately inform the State agency designated under clause (v) and such agency will immediately inform the facility or provider which employs the direct patient access employee of such conviction; and
 
@@ -144,7 +144,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(vii) A provider of adult day care.
 
-&emsp;&emsp;&emsp;(viii) A residential care provider that arranges for, or directly provides, long-term care services, including an assisted living facility that provides a level of care established by the Secretary.
+&emsp;&emsp;&emsp;(viii) A residential care provider that arranges for, or directly provides, long-termcare services, including an assisted living facility that provides a level of care established by the Secretary.
 
 &emsp;&emsp;&emsp;(ix) An intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act (42 U.S.C. 1396d(d))).
 
@@ -338,7 +338,7 @@ In general.—In selecting States to participate in the pilot program, the Secre
 
 &emsp;&emsp;&emsp;"(ii)
 
-Additional criteria.—The Secretary shall, to the greatest extent practicable, selectStates to participate in the pilot program in accordance with the following:
+Additional criteria.—The Secretary shall, to the greatest extent practicable, select States to participate in the pilot program in accordance with the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) At least one participating State should permit long-term care facilities or providers to provide for a provisional period of employment pending completion of a background check and at least one such State should not permit such a period of employment.
 
@@ -362,7 +362,7 @@ Payments.—Of the amounts made available under subsection (f) to conduct the pi
 
 Evaluation.—The Secretary, in consultation with the Attorney General, shall conduct by grant, contract, or interagency agreement an evaluation of the pilot program conducted under this section. Such evaluation shall—
 
-&emsp;"(1) review the various procedures implemented by participating States for long-term care facilities or providers to conduct background checks of direct patient access employees and identify the most efficient, effective, and economical procedures for conducting such background checks;
+&emsp;"(1) review the various procedures implemented by participating States for long-term care facilities orproviders to conduct background checks of direct patient access employees and identify the most efficient, effective, and economical procedures for conducting such background checks;
 
 &emsp;"(2) assess the costs of conducting such background checks (including start-up and administrative costs);
 

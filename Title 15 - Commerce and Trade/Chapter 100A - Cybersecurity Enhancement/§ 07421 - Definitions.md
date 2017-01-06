@@ -18,5 +18,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Short Title
 
-Pub. L. 113–274, §1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: "This Act \[enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title\] may be cited as the 'Cybersecurity Enhancement Act of 2014'."
+Pub. L. 113–274, §1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: "This Act \[enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of thistitle\] may be cited as the 'Cybersecurity Enhancement Act of 2014'."
 

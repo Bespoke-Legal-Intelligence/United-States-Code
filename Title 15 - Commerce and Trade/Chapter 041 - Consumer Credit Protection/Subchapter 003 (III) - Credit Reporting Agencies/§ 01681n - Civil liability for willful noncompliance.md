@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who willfully fails to comply with any requirement imposed under this subchapterwith respect to any consumer is liable to that consumer in an amount equal to the sum of—
+Any person who willfully fails to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of—
 
 &emsp;(1)(A) any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000; or
 
@@ -41,6 +41,10 @@ Subsec. (c). Pub. L. 104–208, §2412(e)(1), added subsec. (c).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
 #### Construction
 

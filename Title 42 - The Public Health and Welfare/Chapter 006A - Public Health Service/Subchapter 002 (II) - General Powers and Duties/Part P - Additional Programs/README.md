@@ -13,6 +13,7 @@ Part P—Additional Programs
 - [&sect; 00280g&#8211;5 - Public and health care provider education and support services](%C2%A7%2000280g%E2%80%935%20-%20Public%20and%20health%20care%20provider%20education%20and%20support%20services.md)
 - [&sect; 00280g&#8211;6 - Chronic kidney disease initiatives](%C2%A7%2000280g%E2%80%936%20-%20Chronic%20kidney%20disease%20initiatives.md)
 - [&sect; 00280g&#8211;7 - Amyotrophic lateral sclerosis registry](%C2%A7%2000280g%E2%80%937%20-%20Amyotrophic%20lateral%20sclerosis%20registry.md)
+- [&sect; 00280g&#8211;7a - Surveillance of neurological diseases](%C2%A7%2000280g%E2%80%937a%20-%20Surveillance%20of%20neurological%20diseases.md)
 - [&sect; 00280g&#8211;8 - Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions](%C2%A7%2000280g%E2%80%938%20-%20Support%20for%20patients%20receiving%20a%20positive%20diagnosis%20of%20Down%20syndrome%20or%20other%20prenatally%20or%20postnatally%20diagnosed%20conditions.md)
 - [&sect; 00280g&#8211;9 - Programs to improve quality of life for persons with paralysis and other physical disabilities](%C2%A7%2000280g%E2%80%939%20-%20Programs%20to%20improve%20quality%20of%20life%20for%20persons%20with%20paralysis%20and%20other%20physical%20disabilities.md)
 - [&sect; 00280g&#8211;10 - Community Preventive Services Task Force](%C2%A7%2000280g%E2%80%9310%20-%20Community%20Preventive%20Services%20Task%20Force.md)
@@ -22,3 +23,4 @@ Part P—Additional Programs
 - [&sect; 00280g&#8211;14 - National diabetes prevention program](%C2%A7%2000280g%E2%80%9314%20-%20National%20diabetes%20prevention%20program.md)
 - [&sect; 00280g&#8211;15 - State demonstration programs to evaluate alternatives to current medical tort litigation](%C2%A7%2000280g%E2%80%9315%20-%20State%20demonstration%20programs%20to%20evaluate%20alternatives%20to%20current%20medical%20tort%20litigation.md)
 - [&sect; 00280g&#8211;16 - Food Safety Integrated Centers of Excellence](%C2%A7%2000280g%E2%80%9316%20-%20Food%20Safety%20Integrated%20Centers%20of%20Excellence.md)
+- [&sect; 00280g&#8211;17 - Designation and investigation of potential cancer clusters](%C2%A7%2000280g%E2%80%9317%20-%20Designation%20and%20investigation%20of%20potential%20cancer%20clusters.md)

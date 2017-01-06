@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State plan under this subchapter shall provide, under section 1396a(a)(10)(E)(iv) of this title and subject to the succeeding provisions of this section and through a plan amendment, for medical assistance for payment of the cost of medicare cost-sharing described in such section on behalf of all individuals described in such section (in this section referred to as "qualifying individuals") who are selected to receive such assistance under subsection (b) of this section.
+A State plan under this subchapter shall provide, under section 1396a(a)(10)(E)(iv) of this title and subject to the succeeding provisions of this section and through a plan amendment, for medical assistance for payment of the cost of medicare cost-sharing described in such section on behalf of all individuals described in such section (in this section referred to as "qualifying individuals") who are selected to receive such assistance under subsection (b).
 
 #### (b) Selection of qualifying individuals
 
@@ -16,7 +16,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (A) In general
 
-&emsp;&emsp;For each calendar year (beginning with 1998), from (and to the extent of) the amount of the allocation under subsection (c) of this section for the State for the fiscal year ending in such calendar year, the State shall select qualifying individuals who apply for the assistance in the order in which they apply.
+&emsp;&emsp;For each calendar year (beginning with 1998), from (and to the extent of) the amount of the allocation under subsection (c) for the State for the fiscal year ending in such calendar year, the State shall select qualifying individuals who apply for the assistance in the order in which they apply.
 
 #### (B) Carryover
 
@@ -24,7 +24,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (3) Limit on number of individuals based on allocation
 
-&emsp;The State shall limit the number of qualifying individuals selected with respect to assistance in a calendar year so that the aggregate amount of such assistance provided to such individuals in such year is estimated to be equal to (but not exceed) the State's allocation under subsection (c) of this section for the fiscal year ending in such calendar year.
+&emsp;The State shall limit the number of qualifying individuals selected with respect to assistance in a calendar year so that the aggregate amount of such assistance provided to such individuals in such year is estimated to be equal to (but not exceed) the State's allocation under subsection (c) for the fiscal year ending in such calendar year.
 
 #### (4) Receipt of assistance during duration of year
 
@@ -48,7 +48,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (2) Allocation to States
 
-&emsp;The Secretary shall provide for the allocation of the total amount described in paragraph (1) for a fiscal year, among the States that executed a plan amendment in accordance with subsection (a) of this section, based upon the Secretary's estimate of the ratio of—
+&emsp;The Secretary shall provide for the allocation of the total amount described in paragraph (1) for a fiscal year, among the States that executed a plan amendment in accordance with subsection (a), based upon the Secretary's estimate of the ratio of—
 
 &emsp;&emsp;(A) an amount equal to the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to
 
@@ -58,7 +58,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 With respect to assistance described in section 1396a(a)(10)(E)(iv) of this title furnished in a State for calendar quarters in a calendar year—
 
-&emsp;(1) to the extent that such assistance does not exceed the State's allocation under subsection (c) of this section for the fiscal year ending in the calendar year, the Federal medical assistance percentage shall be equal to 100 percent; and
+&emsp;(1) to the extent that such assistance does not exceed the State's allocation under subsection (c) for the fiscal year ending in the calendar year, the Federal medical assistance percentage shall be equal to 100 percent; and
 
 &emsp;(2) to the extent that such assistance exceeds such allocation, the Federal medical assistance percentage is 0 percent.
 
@@ -78,7 +78,7 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(A) references in the preceding subsections of this section to a year, whether fiscal or calendar, shall be deemed to be references to such period; and
 
-&emsp;&emsp;(B) the total allocation amount under subsection (c) of this section for such period shall be the amount described in paragraph (2) for that period.
+&emsp;&emsp;(B) the total allocation amount under subsection (c) for such period shall be the amount described in paragraph (2) for that period.
 
 #### (2) Periods and total allocation amounts described
 
@@ -122,11 +122,11 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;For any specific period described in subparagraph (B), (D), (F), (H), (J), (L), (N), or (P) of paragraph (2), the following applies:
 
-&emsp;&emsp;(A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) of this section and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
+&emsp;&emsp;(A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
 
-&emsp;&emsp;(B) The limit to be applied under subsection (b)(3) of this section for the specific period shall be the same as the limit applied under such subsection for the immediately preceding period.
+&emsp;&emsp;(B) The limit to be applied under subsection (b)(3) for the specific period shall be the same as the limit applied under such subsection for the immediately preceding period.
 
-&emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
+&emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
 #### (4) Adjustment to allocations
 
@@ -134,7 +134,7 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 #### (A) Maximum allocation amount for previous year
 
-&emsp;&emsp;In the case of 2017, the allocation amount for 2016, or in the case of a subsequent year,the maximum allocation amount allowed under this paragraph for the previous year.
+&emsp;&emsp;In the case of 2017, the allocation amount for 2016, or in the case of a subsequent year, the maximum allocation amount allowed under this paragraph for the previous year.
 
 #### (B) Increase in part B premium
 

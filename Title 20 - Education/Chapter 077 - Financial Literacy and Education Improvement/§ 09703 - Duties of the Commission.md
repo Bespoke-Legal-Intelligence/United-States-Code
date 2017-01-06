@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Commission, through the authority of the members referred to in section 9702(c) ofthis title, shall take such actions as it deems necessary to streamline, improve, or augment the financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
+&emsp;The Commission, through the authority of the members referred to in section 9702(c) of this title, shall take such actions as it deems necessary to streamline, improve, or augment the financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
 
 #### (2) Areas of emphasis
 

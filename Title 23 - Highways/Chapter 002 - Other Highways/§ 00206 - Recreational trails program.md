@@ -98,7 +98,7 @@ Small state exclusion.—Any State with a total land area of less than 3,500,000
 
 &emsp;&emsp;(C)
 
-State administrative costs.—State administrative costs eligible for funding under paragraph (2)(H) shall be exempt from the requirements of subparagraph (A).
+State administrative costs.—State administrative costs eligible for fundingunder paragraph (2)(H) shall be exempt from the requirements of subparagraph (A).
 
 &emsp;(4)
 
@@ -160,7 +160,7 @@ Uses Not Permitted.—A State may not obligate funds apportioned to carry out th
 
 &emsp;(2) construction of any recreational trail on National Forest System land for any motorized use unless—
 
-&emsp;&emsp;(A) the land has been designated for uses other than wilderness by an approved forest land and resource management plan or hasbeen released to uses other than wilderness by an Act of Congress; and
+&emsp;&emsp;(A) the land has been designated for uses other than wilderness by an approved forest land and resource management plan or has been released to uses other than wilderness by an Act of Congress; and
 
 &emsp;&emsp;(B) the construction is otherwise consistent with the management direction in the approved forest land and resource management plan;
 
@@ -264,7 +264,7 @@ In General.—The Secretary shall encourage the States and regional transportati
 
 "(b)
 
-Requirements.—Under any contract or cooperative agreement entered into with a qualified youth service or conservation corps under this section, the Secretary shall—
+Requirements.—Under any contract or cooperative agreement entered into with a qualified youthservice or conservation corps under this section, the Secretary shall—
 
 &emsp;"(1) set the amount of a living allowance or rate of pay for each participant in such corps at—
 

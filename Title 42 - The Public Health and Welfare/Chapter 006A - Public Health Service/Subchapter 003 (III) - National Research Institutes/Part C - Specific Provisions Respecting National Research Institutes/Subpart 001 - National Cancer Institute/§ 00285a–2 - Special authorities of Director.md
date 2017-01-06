@@ -2,7 +2,7 @@
 
 #### (a) Information and education program
 
-(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and betweenthe Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
+(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and between the Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
 
 (2) In carrying out paragraph (1), the Director of the Institute shall—
 
@@ -38,7 +38,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(7) may, in consultation with the advisory council for the Institute, appoint one or more advisory committees composed of such private citizens and officials of Federal, State, and local governments to advise the Director with respect to the Director's functions;
 
-&emsp;(8) may, subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 6101 of title 41, enter into such contracts, leases, cooperative agreements, as may be necessary in the conduct of functions of the Director, with any public agency, or with any person, firm, association, corporation, or educational institution; and
+&emsp;(8) may, subject to section 284(b)(2) of this title and without regard to section 3324 of title31 and section 6101 of title 41, enter into such contracts, leases, cooperative agreements, as may be necessary in the conduct of functions of the Director, with any public agency, or with any person, firm, association, corporation, or educational institution; and
 
 &emsp;(9) shall, notwithstanding section 284(a) of this title, prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for the National Cancer Program, after reasonable opportunity for comment (but without change) by the Secretary, the Director of NIH, and the Institute's advisory council.
 

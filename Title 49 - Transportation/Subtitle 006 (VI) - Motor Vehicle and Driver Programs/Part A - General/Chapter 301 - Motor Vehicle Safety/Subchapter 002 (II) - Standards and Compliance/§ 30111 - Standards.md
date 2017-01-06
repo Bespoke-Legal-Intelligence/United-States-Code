@@ -152,7 +152,7 @@ Compliance with successor standards.—Any rule promulgated pursuant to this sec
 
 &emsp;"(2)
 
-No retrofitting required.—Any rule promulgated pursuant to this section may not require the retrofitting of agricultural equipment that was manufactured before the date on which the lighting and marking standards are enforceable under subsection (b)(2)(A).
+No retrofitting required.—Any rule promulgated pursuant to this section may not require theretrofitting of agricultural equipment that was manufactured before the date on which the lighting and marking standards are enforceable under subsection (b)(2)(A).
 
 &emsp;"(3)
 
@@ -198,15 +198,15 @@ Pub. L. 111–373, Jan. 4, 2011, 124 Stat. 4086, provided that:
 
 &emsp;"(3) the term 'cross-over speed' means the speed at which tire noise, wind resistance, or other factors eliminate the need for a separate alert sound as determined by the Secretary;
 
-&emsp;"(4) the term 'motor vehicle' has the meaning given such term in section 30102(a)(6) of title 49, United States Code, except that such term shall not include a trailer (as such term is defined in section 571.3 of title 49, Code of Federal Regulations);
+&emsp;"(4) the term 'motor vehicle' has the meaning given such term in section 30102(a)(6) \[now 30102(a)(7)\] of title 49, United States Code, except that such term shall not include a trailer (as such term is defined in section 571.3 of title 49, Code of Federal Regulations);
 
 &emsp;"(5) the term 'conventional motor vehicle' means a motor vehicle powered by a gasoline, diesel, or alternative fueled internal combustion engine as its sole means of propulsion;
 
-&emsp;"(6) the term 'manufacturer' has the meaning given such term in section 30102(a)(5) of title 49, United States Code;
+&emsp;"(6) the term 'manufacturer' has the meaning given such term in section 30102(a)(5) \[now 30102(a)(6)\] of title 49, United States Code;
 
-&emsp;"(7) the term 'dealer' has the meaning given such term in section 30102(a)(1) of title 49, United States Code;
+&emsp;"(7) the term 'dealer' has the meaning given such term in section 30102(a)(1) \[now 30102(a)(2)\] of title 49, United States Code;
 
-&emsp;"(8) the term 'defect' has the meaning given such term in section 30102(a)(2) of title 49, United States Code;
+&emsp;"(8) the term 'defect' has the meaning given such term in section 30102(a)(2) \[now 30102(a)(3)\] of title 49, United States Code;
 
 &emsp;"(9) the term 'hybrid vehicle' means a motor vehicle which has more than one means of propulsion; and
 
@@ -236,7 +236,7 @@ Consideration.—When conducting the required rulemaking, the Secretary shall—
 
 "(c)
 
-Phase-in Required.—The motor vehicle safety standard prescribed pursuant to subsection (a) of this section shall establish a phase-in period for compliance, as determined by the Secretary, and shall require full compliance with the required motor vehicle safety standard for motor vehicles manufactured on or afterSeptember 1st of the calendar year that begins 3 years after the date on which the final rule is issued.
+Phase-in Required.—The motor vehicle safety standard prescribed pursuant to subsection (a) of this section shall establish a phase-in period for compliance, as determined by the Secretary, and shall require full compliance with the required motor vehicle safety standard for motor vehicles manufactured on or after September 1st of the calendar year that begins 3 years after the date on which the final rule is issued.
 
 "(d)
 
@@ -252,7 +252,7 @@ Required Consultation.—When conducting the required study and rulemaking, the 
 
 "(e)
 
-Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
+Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United StatesCode, to extend the standard to conventional motor vehicles.
 
 #### "SEC. 4. FUNDING.
 
@@ -330,7 +330,7 @@ Publication.—Not later than 30 days after receiving the information submitted 
 
 "(e)
 
-Definition of Motor Vehicle.—As used in this Act and for purposes of the motor vehicle safety standards described in subsections (a) and (b), the term 'motor vehicle' has the meaning given such term in section 30102(a)(6) of title 49, United States Code, except that such term shall not include—
+Definition of Motor Vehicle.—As used in this Act and for purposes of the motor vehicle safety standards described in subsections (a) and (b), the term 'motor vehicle' has the meaning given such term in section 30102(a)(6) \[now 30102(a)(7)\] of title 49, United States Code, except that such term shall not include—
 
 &emsp;"(1) a motorcycle or trailer (as such terms are defined in section 571.3 of title 49, Code of Federal Regulations); or
 

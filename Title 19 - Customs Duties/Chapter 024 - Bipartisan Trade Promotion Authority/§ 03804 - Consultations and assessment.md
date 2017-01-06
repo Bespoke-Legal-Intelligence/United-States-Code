@@ -90,7 +90,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;(i) At any time after the transmission of the report under subparagraph (A), if a resolution is introduced with respect to that report in either House of Congress, the procedures set forth in clauses (iii) through (vi) shall apply to that resolution if—
 
-&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committeeon Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
+&emsp;&emsp;&emsp;(I) no other resolution with respect to that report has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be, pursuant to those procedures; and
 
 &emsp;&emsp;&emsp;(II) no procedural disapproval resolution under section 3805(b) of this title introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 

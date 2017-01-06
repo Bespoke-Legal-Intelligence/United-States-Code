@@ -1,8 +1,8 @@
 ### §2828. Leasing of military family housing
 
-(a)(1) Subject to paragraph (2), the Secretary of the military department concerned may lease housing facilities at or near a military installation in the United States, Puerto Rico, or Guam for assignment, without rental charge, as family housing to members of the armed forces and for assignment, with fair market rental charge, as family housing to civilian employees of the Department of Defense stationed at such installation.
+(a)(1) Subject to paragraph (2), the Secretary of the military department concerned may lease housing facilities at or near a military installation in the United States, Puerto Rico, or Guam for assignment, without rental charge, as familyhousing to members of the armed forces and for assignment, with fair market rental charge, as family housing to civilian employees of the Department of Defense stationed at such installation.
 
-(2) A lease may only be made under paragraph (1) if the Secretary concerned finds that there isa shortage of adequate housing at or near such military installation and that—
+(2) A lease may only be made under paragraph (1) if the Secretary concerned finds that there is a shortage of adequate housing at or near such military installation and that—
 
 &emsp;(A) the requirement for such housing is temporary;
 
@@ -58,7 +58,7 @@
 
 &emsp;(C) shall include a provision that the obligation of the United States to make payments under the agreement in any fiscal year is subject to the availability of appropriations.
 
-(e)(1) Expenditures for the rental of family housing in foreign countries (including the costsof utilities, maintenance, and operation) may not exceed $20,000 per unit per year, except that 450 units may be leased in foreign countries for not more than $25,000 per unit per year. These maximum lease amounts may be waived by the Secretary concerned with respect to not more than a total of 350 such units that are leased for incumbents of special positions or for personnel assigned to Defense Attache Offices or that are leased in countries where excessive costs of housing would cause undue hardship on Department of Defense personnel.
+(e)(1) Expenditures for the rental of family housing in foreign countries (including the costs of utilities, maintenance, and operation) may not exceed $20,000 per unit per year, except that 450 units may be leased in foreign countries for not more than $25,000 per unit per year. These maximum lease amounts may be waived by the Secretary concerned with respect to not more than a total of 350 such units that are leased for incumbents of special positions or for personnel assigned to Defense Attache Offices or that are leased in countries where excessive costs of housing would cause undue hardship on Department of Defense personnel.
 
 (2) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretaries of the military departments may lease not more than 3,300 units of family housing in Italy, subject to that maximum lease amount.
 

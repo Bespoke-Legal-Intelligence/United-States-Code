@@ -1,6 +1,6 @@
 ### §465. Detention of vessels
 
-The President may employ such part of the land or naval forces of the United States as he may deem necessary to carry out the purposes of sections 462 and 465 of this title, and sections 756, 960, 963 to 967, and 3058 of title 18.
+The President may employ such part of the land or naval forces of the United States as hemay deem necessary to carry out the purposes of sections 462 and 465 of this title, and sections 756, 960, 963 to 967, and 3058 of title 18.
 
 (June 15, 1917, ch. 30, title V, §9, 40 Stat. 223.)
 

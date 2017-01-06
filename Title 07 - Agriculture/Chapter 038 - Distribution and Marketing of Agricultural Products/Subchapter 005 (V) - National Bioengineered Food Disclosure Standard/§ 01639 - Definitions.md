@@ -1,0 +1,22 @@
+### §1639. Definitions
+
+In this subchapter:
+
+#### (1) Bioengineering
+
+&emsp;The term "bioengineering", and any similar term, as determined by the Secretary, with respect to a food, refers to a food—
+
+&emsp;&emsp;(A) that contains genetic material that has been modified through in vitro recombinant deoxyribonucleic acid (DNA) techniques; and
+
+&emsp;&emsp;(B) for which the modification could not otherwise be obtained through conventional breeding or found in nature.
+
+#### (2) Food
+
+&emsp;The term "food" means a food (as defined in section 321 of title 21) that is intended for human consumption.
+
+#### (3) Secretary
+
+&emsp;The term "Secretary" means the Secretary of Agriculture.
+
+(Aug. 14, 1946, ch. 966, title II, §291, as added Pub. L. 114–216, §1, July 29, 2016, 130 Stat. 834.)
+

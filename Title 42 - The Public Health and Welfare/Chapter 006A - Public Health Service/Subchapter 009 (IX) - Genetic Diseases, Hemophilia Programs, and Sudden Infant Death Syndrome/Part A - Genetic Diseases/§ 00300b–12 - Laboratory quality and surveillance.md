@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Surveillance activities
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and taking into consideration the expertise of the Advisory Committee on Heritable Disorders in Newborns and Children established under section 300b–10 of this title, may provide, as appropriate, for the coordination of surveillance activities, including—
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and taking into consideration the expertise of the Advisory Committee on Heritable Disordersin Newborns and Children established under section 300b–10 of this title, may provide, as appropriate, for the coordination of surveillance activities, including—
 
 &emsp;(1) through standardized data collection and reporting, as well as the use of electronic health records; and
 

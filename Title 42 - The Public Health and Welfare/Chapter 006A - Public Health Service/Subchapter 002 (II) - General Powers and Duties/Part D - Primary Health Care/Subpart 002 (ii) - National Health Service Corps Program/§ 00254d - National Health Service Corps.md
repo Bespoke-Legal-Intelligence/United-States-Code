@@ -16,7 +16,7 @@
 
 &emsp;(A) The term "Corps" means the National Health Service Corps.
 
-&emsp;(B) The term "Corps member" means each of the officers, employees, and individuals ofwhich the Corps consists pursuant to paragraph (1).
+&emsp;(B) The term "Corps member" means each of the officers, employees, and individuals of which the Corps consists pursuant to paragraph (1).
 
 &emsp;(C) The term "health professional shortage area" has the meaning given such term in section 254e(a) of this title.
 
@@ -42,7 +42,7 @@
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; "monthly pay" defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
-(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C)) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
 &emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
@@ -52,9 +52,9 @@
 
 > For purposes of subparagraphs (A) and (B), the term "monthly pay" includes special pay received under chapter 5 of title 37.
 
-(2) In the case of a member of the Corps who is directly engaged in the delivery of healthservices in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
+(2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
 
-(3) A member of the Corps described in subparagraph (C) of subsection (a)(1) of this section shall when assigned to an entity under section 254f of this title be subject to the personnel system of such entity, except that such member shall receive during the period of assignment the income that the member would receive if the member was a member of the Corps described in subparagraph (B) of such subsection.
+(3) A member of the Corps described in subparagraph (C) of subsection (a)(1) shall when assigned to an entity under section 254f of this title be subject to the personnel system of such entity, except that such member shall receive during the period of assignment the income that the member would receive if the member was a member of the Corps described in subparagraph (B) of such subsection.
 
 #### (e) Employment ceiling of Department not affected by Corps members
 
@@ -66,9 +66,9 @@ Sections 215 and 217 of this title shall not apply to members of the National He
 
 #### (g) Conversion from Corps member to commissioned officer; retirement credits
 
-(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C) of this section, becomes a commissioned officer in the Regular or Reserve Corps of the Service.
+(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C), becomes a commissioned officer in the Regular or Reserve Corps of the Service.
 
-(2) The rules prescribed under paragraph (1) shall provide that in applying the appropriate provisions of this chapter which relate to retirement, any individual who becomes such an officer shall be entitled to have credit for any period of service as a member of the Corps described in subsection (a)(1)(C) of this section.
+(2) The rules prescribed under paragraph (1) shall provide that in applying the appropriate provisions of this chapter which relate to retirement, any individual who becomes such an officer shall be entitled to have credit for any period of service as a member of the Corps described in subsection (a)(1)(C).
 
 #### (h) Effective administration of program
 
@@ -222,13 +222,13 @@ Pub. L. 94–484, title IV, §407(c), Oct. 12, 1976, 90 Stat. 2278, provided tha
 
 "(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing section 254b of this title\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[42 U.S.C. 254e\] after the date of enactment of this Act \[Oct. 12, 1976\].
 
-"(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d et seq.\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[42 U.S.C. 254e\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[42 U.S.C. 254f\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) \[former 42 U.S.C. 254g\] has expired.
+"(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d et seq.\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[42 U.S.C. 254e\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[42 U.S.C. 254f\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area\(within the meaning of section 334 (as so added)) \[former 42 U.S.C. 254g\] has expired.
 
 "(B) The assignment period (within the meaning of such section 334) \[former 42 U.S.C. 254g\] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b\].
 
 "(C) In the case of any physician or dentist member of the Corps who was providing health care and services on September 30, 1977, under an assignment made under section 329(b) of such Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\], the number of the months during which such member provided such care and services before October 1, 1977, shall be counted in determining the application of the additional pay provisions of section 331(d) of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d(d)\] to such number.
 
-"(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former 42 U.S.C. 254b\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[42 U.S.C. 254j\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliestfeasible time, the Advisory Council composition prescribed by the amendment."
+"(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former 42 U.S.C. 254b\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[42 U.S.C. 254j\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

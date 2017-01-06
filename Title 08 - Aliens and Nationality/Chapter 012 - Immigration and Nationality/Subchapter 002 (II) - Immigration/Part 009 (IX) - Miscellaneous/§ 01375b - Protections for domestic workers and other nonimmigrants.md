@@ -94,7 +94,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 &emsp;&emsp;(A) the legal rights of employment-based nonimmigrants under Federal immigration, labor, and employment laws;
 
-&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion,blackmail, and worker exploitation in the United States; and
+&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion, blackmail, and worker exploitation in the United States; and
 
 &emsp;&emsp;(C) the legal rights of immigrant victims of trafficking in persons, worker exploitation, and other related crimes, including—
 

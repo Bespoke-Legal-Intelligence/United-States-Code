@@ -130,7 +130,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 #### (2) Factors
 
-&emsp;In determining the financial capability of non-Federal project entities to pay for a rural water supply project under paragraph (1), theSecretary shall evaluate factors for the project area, relative to the State average, including—
+&emsp;In determining the financial capability of non-Federal project entities to pay for a rural water supply project under paragraph (1), the Secretary shall evaluate factors for the project area, relative to the State average, including—
 
 &emsp;&emsp;(A) per capita income;
 
@@ -160,7 +160,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 #### (2) Form
 
-&emsp;The non-Federal share under paragraph (1) may be in the form of any in-kind services that the Secretary determines would contribute substantially toward the conduct and completion of the study.
+&emsp;The non-Federal share under paragraph (1) may be in the form of any in-kind servicesthat the Secretary determines would contribute substantially toward the conduct and completion of the study.
 
 #### (3) Financial hardship
 

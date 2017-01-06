@@ -2,7 +2,7 @@
 
 #### (a) Impleading of dismissed defendant
 
-A court, upon motion by a manufacturer or a claimant within 90 days after entry of a finaljudgment in an action by the claimant against a manufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—
+A court, upon motion by a manufacturer or a claimant within 90 days after entry of a final judgment in an action by the claimant against a manufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—
 
 &emsp;(1) the manufacturer has made an assertion, either in a motion or other pleading filed with the court or in an opening or closing statement at trial, or as part of a claim for contribution or indemnification, and the court finds based on the court's independent review of the evidence contained in the record of the action, that under applicable law—
 
@@ -18,9 +18,9 @@ A court, upon motion by a manufacturer or a claimant within 90 days after entry 
 
 #### (b) Standard of liability
 
-Notwithstanding any preliminary finding under subsection (a) of this section, a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
+Notwithstanding any preliminary finding under subsection (a), a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
 
-&emsp;(1) may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a) of this section; and
+&emsp;(1) may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a); and
 
 &emsp;(2) may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.
 

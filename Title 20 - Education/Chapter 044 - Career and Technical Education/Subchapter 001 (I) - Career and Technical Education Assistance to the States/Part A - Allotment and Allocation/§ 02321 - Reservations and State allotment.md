@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) an amount that bears the same ratio to 15 percent of the sum being allotted as the product of the population aged 25 to 65, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States; and
 
-&emsp;&emsp;(D) an amount that bears the same ratio to 15 percent of the sum being allotted as theamounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.
+&emsp;&emsp;(D) an amount that bears the same ratio to 15 percent of the sum being allotted as the amounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.
 
 #### (3) Minimum allotment for years with no additional funds
 
@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing suchpayments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Special rule
 

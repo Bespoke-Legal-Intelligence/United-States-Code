@@ -40,7 +40,7 @@ In this chapter:
 
 &emsp;The term "unilateral agricultural sanction" means any prohibition, restriction, or condition on carrying out an agricultural program with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
 
-&emsp;&emsp;(A) a multilateral regime and the other member countries of that regime haveagreed to impose substantially equivalent measures; or
+&emsp;&emsp;(A) a multilateral regime and the other member countries of that regime have agreed to impose substantially equivalent measures; or
 
 &emsp;&emsp;(B) a mandatory decision of the United Nations Security Council.
 

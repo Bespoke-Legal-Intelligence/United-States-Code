@@ -1,6 +1,6 @@
 ### §286e–8. Treatment of creditors in debt rescheduling
 
-The Secretary of the Treasury shall instruct the United States executive director to seek toassure that no decision by the International Monetary Fund undermines or departs from United States policy regarding the comparability of treatment of public and private creditors in cases of debt rescheduling where official United States credits are involved.
+The Secretary of the Treasury shall instruct the United States executive director to seek to assure that no decision by the International Monetary Fund undermines or departs from United States policy regarding the comparability of treatment of public and private creditors in cases of debt rescheduling where official United States credits are involved.
 
 (July 31, 1945, ch. 339, §29, as added Pub. L. 95–435, §3, Oct. 10, 1978, 92 Stat. 1052; amended Pub. L. 96–389, §5, Oct. 7, 1980, 94 Stat. 1554.)
 

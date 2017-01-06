@@ -20,3 +20,7 @@ As used in this section, the term "issue date" means the date on which the patie
 
 (Pub. L. 108–164, §5, Dec. 6, 2003, 117 Stat. 2025.)
 
+#### Effective Date
+
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
+

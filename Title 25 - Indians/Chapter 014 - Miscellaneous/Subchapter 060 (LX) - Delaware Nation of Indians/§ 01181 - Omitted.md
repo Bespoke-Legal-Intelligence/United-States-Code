@@ -1,0 +1,6 @@
+### §1181. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–508, §1, Sept. 21, 1968, 82 Stat. 861, which related to preparation of membership roll and eligibility for inclusion, was omitted from the Code as being of special and not general application.
+

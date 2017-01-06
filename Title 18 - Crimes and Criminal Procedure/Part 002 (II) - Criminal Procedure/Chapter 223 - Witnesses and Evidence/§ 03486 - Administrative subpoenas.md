@@ -54,7 +54,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (7) A summons issued under this section shall not require the production of anything that would be protected from production under the standards applicable to a subpoena duces tecum issued by a court of the United States.
 
-(8) If no case or proceeding arises from the production of records or other things pursuant to this section within a reasonable time after those records or things are produced, the agency to which those records or things were delivered shall, upon written demand made by the personproducing those records or things, return them to that person, except where the production required was only of copies rather than originals.
+(8) If no case or proceeding arises from the production of records or other things pursuant to this section within a reasonable time after those records or things are produced, the agency to which those records or things were delivered shall, upon written demand made by the person producing those records or things, return them to that person, except where the production required was only of copies rather than originals.
 
 (9) A subpoena issued under paragraph (1)(A)(i)(II) or (1)(A)(iii) may require production as soon as possible, but in no event less than 24 hours after service of the subpoena.
 
@@ -66,7 +66,7 @@ Service.—A subpoena issued under this section may be served by any person who 
 
 (c)
 
-Enforcement.—In the case of contumacy by or refusal to obey a subpoena issued to any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpoenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpoena. The court may issue an order requiring the subpoenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony concerning the production and authentication of such records. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
+Enforcement.—In the case of contumacy by or refusal to obey a subpoena issued to anyperson, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpoenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpoena. The court may issue an order requiring the subpoenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony concerning the production and authentication of such records. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
 
 (d)
 
@@ -108,7 +108,7 @@ Subsec. (a)(9), (10). Pub. L. 112–206, §4(a)(2)(B), (C), substituted "(1)(A)(
 
 Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
 
-&emsp;"(A) requiring the production of any records (including any books, papers, documents, electronicmedia, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
+&emsp;"(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 
 &emsp;"(B) requiring a custodian of records to give testimony concerning the production and authentication of such records."
 
@@ -126,7 +126,7 @@ Subsec. (a)(1). Pub. L. 105–277 inserted "or any act or activity involving a F
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security,and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "3056(a),".</i>
 

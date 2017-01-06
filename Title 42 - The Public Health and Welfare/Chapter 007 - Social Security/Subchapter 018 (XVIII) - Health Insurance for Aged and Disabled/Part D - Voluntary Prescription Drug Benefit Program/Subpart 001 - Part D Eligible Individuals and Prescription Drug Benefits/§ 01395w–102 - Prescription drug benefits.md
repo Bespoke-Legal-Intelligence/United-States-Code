@@ -4,15 +4,15 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part and part C of this subchapter, the term "qualified prescription drug coverage" means either of the following:
+&emsp;For purposes of this part and part C, the term "qualified prescription drug coverage" means either of the following:
 
 #### (A) Standard prescription drug coverage with access to negotiated prices
 
-&emsp;&emsp;Standard prescription drug coverage (as defined in subsection (b) of this section) and access to negotiated prices under subsection (d) of this section.
+&emsp;&emsp;Standard prescription drug coverage (as defined in subsection (b)) and access to negotiated prices under subsection (d).
 
 #### (B) Alternative prescription drug coverage with at least actuarially equivalent benefits and access to negotiated prices
 
-&emsp;&emsp;Coverage of covered part D drugs which meets the alternative prescription drug coverage requirements of subsection (c) of this section and access to negotiated prices under subsection (d) of this section, but only if the benefit design of such coverage is approved by the Secretary, as provided under subsection (c) of this section.
+&emsp;&emsp;Coverage of covered part D drugs which meets the alternative prescription drug coverage requirements of subsection (c) and access to negotiated prices under subsection (d), but only if the benefit design of such coverage is approved by the Secretary, as provided under subsection (c).
 
 #### (2) Permitting supplemental prescription drug coverage
 
@@ -28,11 +28,11 @@
 
 #### (II) Construction
 
-&emsp;&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the application of subsection (c)(3) of this section.
+&emsp;&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the application of subsection (c)(3).
 
 #### (ii) Optional drugs
 
-&emsp;&emsp;&emsp;Coverage of any product that would be a covered part D drug but for the application of subsection (e)(2)(A) of this section.
+&emsp;&emsp;&emsp;Coverage of any product that would be a covered part D drug but for the application of subsection (e)(2)(A).
 
 #### (B) Requirement
 
@@ -40,7 +40,7 @@
 
 #### (3) Basic prescription drug coverage
 
-&emsp;For purposes of this part and part C of this subchapter, the term "basic prescription drug coverage" means either of the following:
+&emsp;For purposes of this part and part C, the term "basic prescription drug coverage" means either of the following:
 
 &emsp;&emsp;(A) Coverage that meets the requirements of paragraph (1)(A).
 
@@ -48,15 +48,15 @@
 
 #### (4) Application of secondary payor provisions
 
-&emsp;The provisions of section 1395w–22(a)(4) of this title shall apply under this part in the same manner as they apply under part C of this subchapter.
+&emsp;The provisions of section 1395w–22(a)(4) of this title shall apply under this part in the same manner as they apply under part C.
 
 #### (5) Construction
 
-&emsp;Nothing in this subsection shall be construed as changing the computation of incurred costs under subsection (b)(4) of this section.
+&emsp;Nothing in this subsection shall be construed as changing the computation of incurred costs under subsection (b)(4).
 
 #### (b) Standard prescription drug coverage
 
-For purposes of this part and part C of this subchapter, the term "standard prescription drug coverage" means coverage of covered part D drugs that meets the following requirements:
+For purposes of this part and part C, the term "standard prescription drug coverage" means coverage of covered part D drugs that meets the following requirements:
 
 #### (1) Deductible
 
@@ -144,7 +144,7 @@ For purposes of this part and part C of this subchapter, the term "standard pres
 
 #### (B) Rounding
 
-&emsp;&emsp;Any amount determined under subparagraph (A)(ii) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+&emsp;&emsp;Any amount determined under subparagraph (A)(ii) that is not a multiple of $10shall be rounded to the nearest multiple of $10.
 
 #### (4) Protection against high out-of-pocket expenditures
 
@@ -252,19 +252,19 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Assuring standard payment for costs at initial coverage limit
 
-&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) of this section for the year, of an amount equal to at least the product of—
+&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) for the year, of an amount equal to at least the product of—
 
-&emsp;&emsp;&emsp;(i) the amount by which the initial coverage limit described in subsection (b)(3) of this section for the year exceeds the deductible described in subsection (b)(1) of this section for the year; and
+&emsp;&emsp;&emsp;(i) the amount by which the initial coverage limit described in subsection (b)(3) for the year exceeds the deductible described in subsection (b)(1) for the year; and
 
-&emsp;&emsp;&emsp;(ii) 100 percent minus the coinsurance percentage specified in subsection (b)(2)(A)(i) of this section.
+&emsp;&emsp;&emsp;(ii) 100 percent minus the coinsurance percentage specified in subsection (b)(2)(A)(i).
 
 #### (2) Maximum required deductible
 
-&emsp;The deductible under the coverage shall not exceed the deductible amount specified under subsection (b)(1) of this section for the year.
+&emsp;The deductible under the coverage shall not exceed the deductible amount specified under subsection (b)(1) for the year.
 
 #### (3) Same protection against high out-of-pocket expenditures
 
-&emsp;The coverage provides the coverage required under subsection (b)(4) of this section.
+&emsp;The coverage provides the coverage required under subsection (b)(4).
 
 #### (d) Access to negotiated prices
 
@@ -272,7 +272,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (A) In general
 
-&emsp;&emsp;Under qualified prescription drug coverage offered by a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan, the sponsor or organization shall provide enrollees with access to negotiated prices used for payment for covered part D drugs, regardless of the fact that no benefits may be payable under the coverage with respect to such drugs because of the application of a deductible or other cost-sharing or an initial coverage limit (described in subsection (b)(3) of this section).
+&emsp;&emsp;Under qualified prescription drug coverage offered by a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan, the sponsor or organization shall provide enrollees with access to negotiated prices used for payment for covered part D drugs, regardless of the fact that no benefits may be payable under the coverage with respect to such drugs because of the application of a deductible or other cost-sharing or an initial coverage limit (described in subsection (b)(3)).
 
 #### (B) Negotiated prices
 
@@ -280,7 +280,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Medicaid-related provisions
 
-&emsp;&emsp;The prices negotiated by a prescription drug plan, by an MA–PD plan with respect to covered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1396r–8(c)(1)(C) of this title.
+&emsp;&emsp;The prices negotiated by a prescription drug plan, by an MA–PD plan with respect tocovered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1396r–8(c)(1)(C) of this title.
 
 #### (2) Disclosure
 
@@ -310,7 +310,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (B) Medicare covered drugs
 
-&emsp;&emsp;A drug prescribed for a part D eligible individual that would otherwise be a covered part D drug under this part shall not be so considered if payment for such drug as so prescribed and dispensed or administered with respect to that individual is available (or would be available but for the application of a deductible) under part A or B of this subchapter for that individual.
+&emsp;&emsp;A drug prescribed for a part D eligible individual that would otherwise be a covered part D drug under this part shall not be so considered if payment for such drug as so prescribed and dispensed or administered with respect to that individual is available (or would be available but for the application of a deductible) under part A or B for that individual.
 
 #### (3) Application of general exclusion provisions
 
@@ -342,7 +342,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Update
 
-&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
+&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list ofcompendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub. L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039.)
 

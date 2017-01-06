@@ -62,7 +62,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;A person may discontinue participation in the biosimilar biological product development program for a product effective October 1 of a fiscal year by, not later than August 1 of the preceding fiscal year—
 
-&emsp;&emsp;&emsp;(i) if no investigational new drug application concerning the product has been submitted, submitting to the Secretary a written declaration that the person has no present intention of further developing theproduct as a biosimilar biological product; or
+&emsp;&emsp;&emsp;(i) if no investigational new drug application concerning the product has been submitted, submitting to the Secretary a written declaration that the person has no present intention of further developing the product as a biosimilar biological product; or
 
 &emsp;&emsp;&emsp;(ii) if an investigational new drug application concerning the product has been submitted, withdrawing the investigational new drug application in accordance with part 312 of title 21, Code of Federal Regulations (or any successor regulations).
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) A fee for a biosimilar biological product application that is equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval; minus
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respectto safety or effectiveness are required for approval; minus
 
 &emsp;&emsp;&emsp;&emsp;(II) the cumulative amount of fees paid, if any, under subparagraphs (A), (B), and (D) of paragraph (1) for the product that is the subject of the application.
 
@@ -138,7 +138,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (B) Reduction in fees
 
-&emsp;&emsp;Notwithstanding section 404 of the Biosimilars <sup>1</sup> User Fee Act of 2012, any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017, but submits a biosimilar biological product application for that product after such date, shall be entitled to the reduction of any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted, by the cumulative amount of fees paid under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
+&emsp;&emsp;Notwithstanding section 404 of the Biosimilar User Fee Act of 2012, any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017, but submits a biosimilar biological product application for that product after such date, shall be entitled to the reduction of any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted, by the cumulative amount of fees paid under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
 
 #### (C) Payment due date
 
@@ -258,7 +258,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (3) Small business defined
 
-&emsp;In this subsection, the term "small business" means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in section 379g of this title) or a biosimilar biological product application (as defined in section 379j–51(4) of this title) and introduced or delivered for introduction into interstate commerce.
+&emsp;In this subsection, the term "small business" means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in section 379g of this title) or a biosimilar biological product application (asdefined in section 379j–51(4) of this title) and introduced or delivered for introduction into interstate commerce.
 
 #### (d) Effect of failure to pay fees
 
@@ -268,7 +268,7 @@ A biosimilar biological product application or supplement submitted by a person 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), fees authorized under subsection (a) shall be collected and available for obligation only to the extent andin the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of biosimilar biological product applications.
+&emsp;Subject to paragraph (2), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of biosimilar biological product applications.
 
 #### (2) Collections and appropriation Acts
 
@@ -304,7 +304,7 @@ To qualify for consideration for a waiver under subsection (c), or for a refund 
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of biosimilar biological product applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §744H, as added Pub. L. 112–144, title IV, §402, July 9, 2012, 126 Stat. 1029.)
+(June 25, 1938, ch. 675, §744H, as added Pub. L. 112–144, title IV, §402, July 9, 2012, 126 Stat. 1029; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(V), Dec. 13, 2016, 130 Stat. 1155.)
 
 #### Termination of Section
 
@@ -312,15 +312,17 @@ This section may not be construed to require that the number of full-time equiva
 
 #### References in Text
 
-July 9, 2012, referred to in subsec. (a)(1)(A)(v), was in the original "the date of the enactment of the Biosimilars User Fee Act of 2012", which was translated as meaning the date of enactment of the Biosimilar User Fee Act of 2012, title IV of Pub. L. 112–144, to reflect the probable intent of Congress.
-
 Section 404 of the Biosimilar User Fee Act of 2012, referred to in subsec. (a)(2)(B), is section 404 of title IV of Pub. L. 112–144, July 9, 2012, 126 Stat. 1038. Section 404(a) is set out as a note under section 379j–51 of this title, and section 404(b) is set out as a note under section 379j–53 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(A)(v). Pub. L. 114–255, §3101(a)(2)(V)(i), which directed technical amendment in paragraph (1)(A)(v) to reference in original act which appears in text as reference to July 9, 2012, was executed by making the amendment in introductory provisions and in subcl. (I), to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(B). Pub. L. 114–255, §3101(a)(2)(V)(ii), substituted "Biosimilar User Fee Act of 2012" for "Biosimilars User Fee Act of 2012".
 
 #### Effective and Termination Dates
 
 Section ceases to be effective Oct. 1, 2017, see section 404(a) of Pub. L. 112–144, set out as a note under section 379j–51 of this title.
 
 Section effective Oct. 1, 2012, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under section 379j–51 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Biosimilar".</i>
 

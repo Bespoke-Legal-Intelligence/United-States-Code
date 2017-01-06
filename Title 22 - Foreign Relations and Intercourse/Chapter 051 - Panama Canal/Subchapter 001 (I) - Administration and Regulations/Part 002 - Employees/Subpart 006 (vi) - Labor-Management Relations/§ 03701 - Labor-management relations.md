@@ -18,7 +18,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 (1) This subsection applies to any matter that becomes the subject of collective bargaining between the Commission and the exclusive representative for any bargaining unit of employees of the Commission during the period beginning on November 18, 1997, and ending on the Canal Transfer Date.
 
-(2)(A) The resolution of impasses resulting from collective bargaining between the Commission and any such exclusive representative during that period shall be conducted in accordance with such procedures as may be mutually agreed upon between the Commission and the exclusive representative (without regard to any otherwise applicable provisions of chapter 71 of title 5). Such mutually agreed upon procedures shall become effective upon transmittal by the Chairman of the Supervisory Board of the Commission to the Congress of notice of the agreement to use those procedures and a description of those procedures.
+(2)(A) The resolution of impasses resulting from collective bargaining between the Commission and any such exclusive representative during that period shall be conducted in accordancewith such procedures as may be mutually agreed upon between the Commission and the exclusive representative (without regard to any otherwise applicable provisions of chapter 71 of title 5). Such mutually agreed upon procedures shall become effective upon transmittal by the Chairman of the Supervisory Board of the Commission to the Congress of notice of the agreement to use those procedures and a description of those procedures.
 
 (B) The Federal Services Impasses Panel shall not have jurisdiction to resolve any impasse between the Commission and any such exclusive representative in negotiations over a procedure for resolving impasses.
 
@@ -34,7 +34,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 (4) In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998, the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
 
-(Pub. L. 96–70, title I, §1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, §3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85,div. C, title XXXV, §3527, Nov. 18, 1997, 111 Stat. 2068.)
+(Pub. L. 96–70, title I, §1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, §3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85, div. C, title XXXV, §3527, Nov. 18, 1997, 111 Stat. 2068.)
 
 #### References in Text
 

@@ -25,7 +25,7 @@
 
 <b>1971</b>—Pub. L. 92–168, §1(2), Nov. 24, 1971, 85 Stat. 489, struck out item 3692 "Pilot rating in time of peace: qualifications".
 
-<b>1968</b>—Pub. L. 90–235, §§6(a)(3), 7(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 762, 763, struck out item 3682 "Servicecredit: officers; service as cadet not counted", item 3685 "Regular Army; Army Reserve: female members; definition of 'dependents' ", item 3690 "Exemption from arrest for debt: enlisted members", and item 3693 "Replacement of certificate of discharge".
+<b>1968</b>—Pub. L. 90–235, §§6(a)(3), 7(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 762, 763, struck out item 3682 "Service credit: officers; service as cadet not counted", item 3685 "Regular Army; Army Reserve: female members; definition of 'dependents' ", item 3690 "Exemption from arrest for debt: enlisted members", and item 3693 "Replacement of certificate of discharge".
 
 <b>1958</b>—Pub. L. 85–861, §1(91), Sept. 2, 1958, 72 Stat. 1482, struck out items 3681 "Army Register: regular officers; service to be listed" and 3688 "Death Gratuity".
 

@@ -10,7 +10,7 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 &emsp;(2) the application of appropriate position standards and position descriptions for such positions; and
 
-&emsp;(3) the adoption of organization and position titles in the House which accurately reflect the respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
+&emsp;(3) the adoption of organization and position titles in the House which accurately reflectthe respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
 
 (Pub. L. 88–652, §2, Oct. 13, 1964, 78 Stat. 1079.)
 

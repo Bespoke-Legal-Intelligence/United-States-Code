@@ -8,7 +8,7 @@
 
 #### (2) Invitation for bid
 
-&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
+&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II shall be consistent with open, competitive, and responsive bidprocedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
 
 #### (b) Agents
 
@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term "transportation-related services" means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term "transportation-related services" means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;&emsp;Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 ofsuch funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (B) Additional prepositioning sites
 
@@ -150,7 +150,7 @@ An agreement under subchapters II and III–A shall, to the extent practicable, 
 
 &emsp;&emsp;&emsp;(ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under section 1726a of this title.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV,§1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777.)
 
 #### References in Text
 
@@ -226,7 +226,7 @@ Subsec. (d)(3). Pub. L. 102–237, §328(b), struck out "other" before "foreign 
 
 Subsec. (d)(4). Pub. L. 102–237, §332, substituted "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" for "the Federal Property Act of 1949, as amended,".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established an Advisory Committee to survey the general policies relating to the administration of this chapter, including implementation of self-help provisions, uses to be made of foreign currencies, amount of currencies to be reserved in sales agreements for loans to private industry, rates of exchange, interest rates, and terms under which dollar credit sales are made.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established an Advisory Committee to survey the general policies relating to the administration of this chapter, including implementation of self-help provisions, usesto be made of foreign currencies, amount of currencies to be reserved in sales agreements for loans to private industry, rates of exchange, interest rates, and terms under which dollar credit sales are made.
 
 Subsec. (c)(4). Pub. L. 101–508 substituted "providing ocean transportation or" for "providing ocean".
 

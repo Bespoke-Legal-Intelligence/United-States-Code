@@ -62,7 +62,7 @@ It shall not be an infringement of the rights of the owner of a variety to perfo
 
 #### (f) "Perform without authority" defined
 
-As used in this section, the term "perform without authority" includes performance without authority by any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee.Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+As used in this section, the term "perform without authority" includes performance without authority by any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 (Pub. L. 91–577, title III, §111, Dec. 24, 1970, 84 Stat. 1554; Pub. L. 96–574, §19(a), Dec. 22, 1980, 94 Stat. 3351; Pub. L. 102–560, §3(a), Oct. 28, 1992, 106 Stat. 4231; Pub. L. 103–349, §§9, 13(q), Oct. 6, 1994, 108 Stat. 3141, 3144.)
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f)
 
 <b>1992</b>—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1980</b>—Par. (5). Pub. L. 96–574 substituted " 'Unauthorized Propagation Prohibited' or 'Unauthorized Seed Multiplication Prohibited' " for " 'propagation prohibited' ".
+<b>1980</b>—Par. (5). Pub. L. 96–574 substituted " 'Unauthorized Propagation Prohibited' or 'Unauthorized SeedMultiplication Prohibited' " for " 'propagation prohibited' ".
 
 #### Effective Date of 1994 Amendment
 

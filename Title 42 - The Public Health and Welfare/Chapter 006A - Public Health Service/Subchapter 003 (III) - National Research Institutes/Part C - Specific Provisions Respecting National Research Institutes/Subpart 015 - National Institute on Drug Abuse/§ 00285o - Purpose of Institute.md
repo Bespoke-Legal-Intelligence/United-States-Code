@@ -10,7 +10,7 @@ The research program established under this subpart shall encompass the social, 
 
 #### (c) Collaboration
 
-The Director of the Institute shall collaborate with the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
+The Director of the Institute shall collaborate with the Substance Abuse and Mental Health Services Administration in focusing the servicesresearch activities of the Institute and in disseminating the results of such research to health professionals and the general public.
 
 (July 1, 1944, ch. 373, title IV, §464L, as added Pub. L. 102–321, title I, §123(a), July 10, 1992, 106 Stat. 360; amended Pub. L. 102–352, §2(a)(3), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(33), Jan. 15, 2007, 120 Stat. 3688.)
 

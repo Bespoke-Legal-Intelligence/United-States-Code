@@ -48,7 +48,7 @@ Definitions.—In this section:
 
 Effect on Liability.—Nothing in this section shall affect the liability of the Federal Government under any Federal or State law or under common law.
 
-(Added Pub. L. 102–190, div. A, title III, §331(a)(1), Dec. 5, 1991, 105 Stat. 1339; amended Pub. L. 102–484, div. A, title III, §321, title X,§1052(36), Oct. 23, 1992, 106 Stat. 2365, 2501; Pub. L. 103–160, div. A, title X, §1004, Nov. 30, 1993, 107 Stat. 1748.)
+(Added Pub. L. 102–190, div. A, title III, §331(a)(1), Dec. 5, 1991, 105 Stat. 1339; amended Pub. L. 102–484, div. A, title III, §321, title X, §1052(36), Oct. 23, 1992, 106 Stat. 2365, 2501; Pub. L. 103–160, div. A, title X, §1004, Nov. 30, 1993, 107 Stat. 1748.)
 
 #### References in Text
 

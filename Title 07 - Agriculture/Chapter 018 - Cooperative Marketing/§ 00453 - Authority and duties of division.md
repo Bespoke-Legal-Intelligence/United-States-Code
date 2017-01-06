@@ -16,7 +16,7 @@
 
 &emsp;(6) To promote the knowledge of cooperative principles and practices and to cooperate, in promoting such knowledge, with educational and marketing agencies, cooperative associations, and others.
 
-&emsp;(7) To make such special studies, in the United States and foreign countries, and to acquire and disseminate such information andfindings as may be useful in the development and practice of cooperation.
+&emsp;(7) To make such special studies, in the United States and foreign countries, and to acquire and disseminate such information and findings as may be useful in the development and practice of cooperation.
 
 (July 2, 1926, ch. 725, §3, 44 Stat. 802.)
 

@@ -212,7 +212,7 @@ This amends 49:40109(c) to correct an error in the codification enacted by secti
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–287, §5(65)(B), substituted "sections 44909 and 46301(b)" for "section 46301(b)".
 
-Pub. L. 104–287, §5(65)(A), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714)," for "sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,".
+Pub. L. 104–287, §5(65)(A), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714)," for"sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,".
 
 #### Effective Date of 1996 Amendment
 

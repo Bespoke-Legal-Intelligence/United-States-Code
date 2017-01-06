@@ -18,7 +18,7 @@ The Secretary shall permit hunting and fishing on lands and waters within the sp
 
 #### (e) Mining and mineral leasing
 
-Subject to valid, existing rights, lands within the special management areas are withdrawnfrom location, entry, and patent under the mining laws of the United States, and from the operation of the mineral and geothermal leasing laws of the United States.
+Subject to valid, existing rights, lands within the special management areas are withdrawn from location, entry, and patent under the mining laws of the United States, and from the operation of the mineral and geothermal leasing laws of the United States.
 
 #### (f) Vehicular access
 

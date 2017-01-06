@@ -20,7 +20,7 @@ Except as otherwise provided in this subchapter, a textile fiber product shall b
 
 #### (c) False or deceptive advertisement
 
-For the purposes of this subchapter, a textile fiber product shall be considered to be falsely or deceptively advertised if any disclosure or implication of fiber content is made in any written advertisement which is used to aid, promote, or assist directly or indirectly in the sale or offering for sale of such textile fiber product, unless the same information as that required to be shown on the stamp, tag, label, or other identification under subsection (b)(1) and (2) is contained in the heading, body, or other part of such written advertisement, except that the percentages of the fiber present in the textile fiber product need not be stated.
+For the purposes of this subchapter, a textile fiber product shall be considered to be falsely ordeceptively advertised if any disclosure or implication of fiber content is made in any written advertisement which is used to aid, promote, or assist directly or indirectly in the sale or offering for sale of such textile fiber product, unless the same information as that required to be shown on the stamp, tag, label, or other identification under subsection (b)(1) and (2) is contained in the heading, body, or other part of such written advertisement, except that the percentages of the fiber present in the textile fiber product need not be stated.
 
 #### (d) Additional information allowed
 
@@ -52,7 +52,7 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 #### (k) Marking of certain sock products
 
-(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product, and shall be set forth in such a manner as to beclearly legible, conspicuous, and readily accessible to the ultimate consumer.
+(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product, and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
 
 (2)
 

@@ -64,7 +64,7 @@ The term "innovative assessment system" means a system of assessments that may i
 
 #### (5) Prohibition
 
-&emsp;The Secretary shall not require States that have demonstration authority to submit any information for the purposes of the progress report that is in addition to the information the State is already required to provide under subsection (e)(2)(B)(x).
+&emsp;The Secretary shall not require States that have demonstration authority to submit anyinformation for the purposes of the progress report that is in addition to the information the State is already required to provide under subsection (e)(2)(B)(x).
 
 #### (d) Expansion of the demonstration authority
 
@@ -88,7 +88,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;&emsp;(iii) express student results or student competencies in terms consistent with the State's aligned academic achievement standards under section 6311(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(iv) generate results that are valid and reliable, and comparable, for all studentsand for each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, as compared to the results for such students on the State assessments under section 6311(b)(2) of this title;
+&emsp;&emsp;&emsp;(iv) generate results that are valid and reliable, and comparable, for all students and for each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, as compared to the results for such students on the State assessments under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;(v) be developed in collaboration with—
 
@@ -268,7 +268,7 @@ A State may use funds available under section 6361 of this title to carry out th
 
 #### (l) Consortium
 
-A consortium of States may apply to participate in the program of demonstration authority under this section, and the Secretary may provide each State member of such consortium with such authority if each such State member meets all of the requirements of this section.Such consortium shall be subject to the limitation described in subsection (b)(3)(B) during the initial 3 years of the demonstration authority.
+A consortium of States may apply to participate in the program of demonstration authority under this section, and the Secretary may provide each State member of such consortium with such authority if each such State member meets all of the requirements of this section. Such consortium shall be subject to the limitation described in subsection (b)(3)(B) during the initial 3 years of the demonstration authority.
 
 #### (m) Dissemination of best practices
 
@@ -312,7 +312,7 @@ Another prior section 6365, Pub. L. 89–10, title I, §1205, as added Pub. L. 1
 
 Section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1548, related to activities of Secretary of Education.
 
-Another prior section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, §251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Another prior section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, §251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(j)\], Dec. 21, 2000, 114Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Section 6367, Pub. L. 89–10, title I, §1207, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1549; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828, related to dissemination of information.
 

@@ -38,13 +38,13 @@ There is established the United States Commission on International Religious Fre
 
 #### (1) In general
 
-&emsp;The term of office of each member of the Commission shall be 2 years. An individual, including any member appointed to the Commission prior to December 23, 2011, shall not serve more than 2 terms as a member of the Commission under any circumstance. For any member serving on the Commission on such date who has completed at least 2 full terms on the Commission, such member's term shall expire 90 days after such date. A member of the Commission may not serve after the expiration of that member's term.
+&emsp;The term of office of each member of the Commission shall be 2 years. An individual, including any member appointed to the Commission prior to December 23, 2011, shall not serve more than 2 terms as a member of the Commission under any circumstance. For anymember serving on the Commission on such date who has completed at least 2 full terms on the Commission, such member's term shall expire 90 days after such date. A member of the Commission may not serve after the expiration of that member's term.
 
 #### (2) Establishment of staggered terms
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on theCommission during the period May 15, 2003, through May 14, 2005, shall be appointed to terms in accordance with the provisions of this paragraph.
+&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on the Commission during the period May 15, 2003, through May 14, 2005, shall be appointed to terms in accordance with the provisions of this paragraph.
 
 #### (B) Presidential appointments
 
@@ -98,7 +98,7 @@ Members of the Commission shall be allowed travel expenses, including per diem i
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(1). Pub. L. 112–75, §2(a)(1), added par. (1) and struck out former par. (1) which read as follows: "The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term."
+<b>2011</b>—Subsec. (c)(1). Pub. L. 112–75, §2(a)(1), added par. (1) and struck out former par. (1) which read as follows:"The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term."
 
 Subsec. (c)(3). Pub. L. 112–75, §2(a)(2), added par. (3).
 

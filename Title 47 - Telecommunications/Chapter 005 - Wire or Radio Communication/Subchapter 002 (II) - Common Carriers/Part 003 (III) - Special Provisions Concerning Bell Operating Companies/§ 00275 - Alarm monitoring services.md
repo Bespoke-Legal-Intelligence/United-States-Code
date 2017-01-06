@@ -4,11 +4,11 @@
 
 #### (1) Prohibition
 
-&emsp;No Bell operating company or affiliate thereof shall engage in the provision of alarm monitoring services before the date which is 5 years after February 8, 1996.
+&emsp;No Bell operating company or affiliate thereof shall engage in the provision of alarmmonitoring services before the date which is 5 years after February 8, 1996.
 
 #### (2) Existing activities
 
-&emsp;Paragraph (1) does not prohibit or limit the provision, directly or through an affiliate, of alarm monitoring services by a Bell operating company that was engaged in providing alarm monitoring services as of November 30, 1995,directly or through an affiliate. Such Bell operating company or affiliate may not acquire any equity interest in, or obtain financial control of, any unaffiliated alarm monitoring service entity after November 30, 1995, and until 5 years after February 8, 1996, except that this sentence shall not prohibit an exchange of customers for the customers of an unaffiliated alarm monitoring service entity.
+&emsp;Paragraph (1) does not prohibit or limit the provision, directly or through an affiliate, of alarm monitoring services by a Bell operating company that was engaged in providing alarm monitoring services as of November 30, 1995, directly or through an affiliate. Such Bell operating company or affiliate may not acquire any equity interest in, or obtain financial control of, any unaffiliated alarm monitoring service entity after November 30, 1995, and until 5 years after February 8, 1996, except that this sentence shall not prohibit an exchange of customers for the customers of an unaffiliated alarm monitoring service entity.
 
 #### (b) Nondiscrimination
 
@@ -20,7 +20,7 @@ An incumbent local exchange carrier (as defined in section 251(h) of this title)
 
 #### (c) Expedited consideration of complaints
 
-The Commission shall establish procedures for the receipt and review of complaints concerning violations of subsection (b) of this section or the regulations thereunder that result in material financial harm to a provider of alarm monitoring service. Such procedures shall ensure that the Commission will make a final determination with respect to any such complaint within 120 days after receipt of the complaint. If the complaint contains an appropriate showing that the alleged violation occurred, as determined by the Commission in accordance with such regulations, the Commission shall, within 60 days after receipt of the complaint, order the incumbent local exchange carrier (as defined in section 251(h) of this title) and its affiliates to cease engaging in such violation pending such final determination.
+The Commission shall establish procedures for the receipt and review of complaints concerning violations of subsection (b) or the regulations thereunder that result in material financial harm to a provider of alarm monitoring service. Such procedures shall ensure that the Commission will make a final determination with respect to any such complaint within 120 days after receipt of the complaint. If the complaint contains an appropriate showing that the alleged violation occurred, as determined by the Commission in accordance with such regulations, the Commission shall, within 60 days after receipt of the complaint, order the incumbent local exchange carrier (as defined in section 251(h) of this title) and its affiliates to cease engaging in such violation pending such final determination.
 
 #### (d) Use of data
 

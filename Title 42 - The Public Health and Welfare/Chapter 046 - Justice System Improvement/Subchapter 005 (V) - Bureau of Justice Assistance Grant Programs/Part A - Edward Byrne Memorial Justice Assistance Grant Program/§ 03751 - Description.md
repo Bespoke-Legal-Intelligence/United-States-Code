@@ -20,6 +20,8 @@
 
 &emsp;&emsp;(G) Crime victim and witness programs (other than compensation).
 
+&emsp;&emsp;(H) Mental health programs and related law enforcement and corrections programs, including behavioral programs and crisis intervention teams.
+
 #### (2) Rule of construction
 
 &emsp;Paragraph (1) shall be construed to ensure that a grant under that paragraph may be used for any purpose for which a grant was authorized to be used under either or both of the programs specified in section 3750(b) of this title, as those programs were in effect immediately before January 5, 2006.
@@ -68,17 +70,19 @@ The period of a grant made under this part shall be four years, except that rene
 
 Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indirectly, of funds provided under this part to provide security at a public event, such as a political convention or major sports event, so long as such security is provided under applicable laws and procedures.
 
-(Pub. L. 90–351, title I, §501, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095; amended Pub. L. 109–271, §8(h), Aug. 12, 2006, 120 Stat. 767.)
+(Pub. L. 90–351, title I, §501, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095; amended Pub. L. 109–271, §8(h), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, §14001(a), Dec. 13, 2016, 130 Stat. 1287.)
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as theOmnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Prior Provisions
 
 For prior sections 501 of Pub. L. 90–351 and prior sections 3751 of this title, see notes set out preceding section 3750 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(H). Pub. L. 114–255 added subpar. (H).
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–271 struck out par. (3) which read as follows: "tribal governments."
 

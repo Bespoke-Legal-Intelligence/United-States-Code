@@ -128,7 +128,7 @@ In this subchapter:
 
 &emsp;The term "postsecondary educational institution" means—
 
-&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
+&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program ofinstruction that is acceptable for credit toward a bachelor's degree;
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 

@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is established in the Treasury of the United States a separate account for theCapitol Police, into which shall be deposited appropriations received by the Chief of the Capitol Police and available for the salaries of the Capitol Police.
+&emsp;&emsp;There is established in the Treasury of the United States a separate account for the Capitol Police, into which shall be deposited appropriations received by the Chief of the Capitol Police and available for the salaries of the Capitol Police.
 
 #### (B) Transfer authority during transition
 
@@ -74,7 +74,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (1) In general
 
-&emsp;The provisions of this section shall not be construed to reduce the pay or benefits of any employee of the Capitol Police whose pay was disbursed by the Chief Administrative Officerof the House of Representatives or the Secretary of the Senate before February 20, 2003.
+&emsp;The provisions of this section shall not be construed to reduce the pay or benefits of any employee of the Capitol Police whose pay was disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate before February 20, 2003.
 
 #### (2) Superseding provisions
 

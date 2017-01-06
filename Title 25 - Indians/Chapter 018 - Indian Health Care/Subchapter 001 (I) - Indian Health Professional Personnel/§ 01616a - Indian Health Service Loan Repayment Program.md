@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) by any Indian tribe or tribal or Indian organization pursuant to a contract under—
 
-&emsp;&emsp;&emsp;(I) the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], or
+&emsp;&emsp;&emsp;(I) the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\], or
 
 &emsp;&emsp;&emsp;(II) section 23 of the Act of April 30, 1908 <sup>1</sup> (25 U.S.C. 47), popularly known as the "Buy-Indian" Act; or
 
@@ -140,7 +140,7 @@ The written contract referred to in this section between the Secretary and an in
 
 (3) For the purpose of providing reimbursements for tax liability resulting from payments under paragraph (2) on behalf of an individual, the Secretary—
 
-&emsp;(A) in addition to such payments, may make payments to the individual in an amount notless than 20 percent and not more than 39 percent of the total amount of loan repayments made for the taxable year involved; and
+&emsp;(A) in addition to such payments, may make payments to the individual in an amount not less than 20 percent and not more than 39 percent of the total amount of loan repayments made for the taxable year involved; and
 
 &emsp;(B) may make such additional payments as the Secretary determines to be appropriate with respect to such purpose.
 
@@ -234,7 +234,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(6) the amount of scholarship grants provided under section 1613a of this title, in total and by health profession;
 
-&emsp;(7) the number of providers of health care that will be needed by Indian health programs, by location and profession, during the three fiscal years beginning after the date the report is filed; and
+&emsp;(7) the number of providers of health care that will be needed by Indian health programs,by location and profession, during the three fiscal years beginning after the date the report is filed; and
 
 &emsp;(8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
@@ -242,7 +242,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the "Buy Indian Act", and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
 

@@ -18,7 +18,7 @@ The Director of the National Museum under the direction of the Secretary of the 
 
 #### (b) Authorization of appropriations
 
-There are hereby authorized to be appropriated to the Smithsonian Institution for the fiscal year 1981, the sum of $803,000, and for the fiscal year 1982, the sum of $1,000,000.
+There are hereby authorized to be appropriated to the Smithsonian Institution for thefiscal year 1981, the sum of $803,000, and for the fiscal year 1982, the sum of $1,000,000.
 
 (Pub. L. 89–674, §2, Oct. 15, 1966, 80 Stat. 953; Pub. L. 91–629, §§1, 2 Dec. 31, 1970, 84 Stat. 1875; Pub. L. 93–345, §§1, 2, July 12, 1974, 88 Stat. 339; Pub. L. 94–336, July 1, 1976, 90 Stat. 795; Pub. L. 96–268, June 13, 1980, 94 Stat. 485.)
 

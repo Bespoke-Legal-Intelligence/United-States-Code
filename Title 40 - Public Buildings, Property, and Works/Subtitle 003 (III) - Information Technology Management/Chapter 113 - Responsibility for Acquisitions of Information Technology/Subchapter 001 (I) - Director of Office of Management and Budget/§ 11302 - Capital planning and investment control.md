@@ -24,7 +24,7 @@ Definitions.—In this subsection:
 
 &emsp;(2)
 
-Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
+Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating therisks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
 
 &emsp;(3)
 
@@ -68,7 +68,7 @@ Additional limitation.—The requirements of subparagraph (A) shall not apply to
 
 Risk management.—For each major information technology investment listed under paragraph (3)(A) that receives a high risk rating, as described in paragraph (3)(C), for 4 consecutive quarters—
 
-&emsp;&emsp;(A) the Chief Information Officer of the covered agency and the program manager ofthe investment within the covered agency, in consultation with the Administrator of the Office of Electronic Government, shall conduct a review of the investment that shall identify—
+&emsp;&emsp;(A) the Chief Information Officer of the covered agency and the program manager of the investment within the covered agency, in consultation with the Administrator of the Office of Electronic Government, shall conduct a review of the investment that shall identify—
 
 &emsp;&emsp;&emsp;(i) the root causes of the high level of risk of the investment;
 
@@ -159,6 +159,56 @@ The date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National
 <b>2004</b>—Subsec. (b). Pub. L. 108–458, §8401(1), inserted "security," after "use,".
 
 Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted ", including information security risks," after "evaluating the risks" and "costs, benefits, and risks".
+
+#### Management of Software Licenses
+
+Pub. L. 114–210, July 29, 2016, 130 Stat. 824, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016' or the 'MEGABYTE Act of 2016'.
+
+#### "SEC. 2. OMB DIRECTIVE ON MANAGEMENT OF SOFTWARE LICENSES.
+
+"(a)
+
+Definition.—In this section—
+
+&emsp;"(1) the term 'Director' means the Director of the Office of Management and Budget; and
+
+&emsp;"(2) the term 'executive agency' has the meaning given that term in section 105 of title 5, United States Code.
+
+"(b)
+
+OMB Directive.—The Director shall issue a directive to require the Chief Information Officer of each executive agency to develop a comprehensive software licensing policy, which shall—
+
+&emsp;"(1) identify clear roles, responsibilities, and central oversight authority within the executive agency for managing enterprise software license agreements and commercial software licenses; and
+
+&emsp;"(2) require the Chief Information Officer of each executive agency to—
+
+&emsp;&emsp;"(A) establish a comprehensive inventory, including 80 percent of software license spending and enterprise licenses in the executive agency, by identifying and collecting information about software license agreements using automated discovery and inventory tools;
+
+&emsp;&emsp;"(B) regularly track and maintain software licenses to assist the executive agency in implementing decisions throughout the software license management life cycle;
+
+&emsp;&emsp;"(C) analyze software usage and other data to make cost-effective decisions;
+
+&emsp;&emsp;"(D) provide training relevant to software license management;
+
+&emsp;&emsp;"(E) establish goals and objectives of the software license management program of the executive agency; and
+
+&emsp;&emsp;"(F) consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, anddisposal phases, to implement effective decisionmaking and incorporate existing standards, processes, and metrics.
+
+"(c)
+
+Report on Software License Management.—
+
+&emsp;"(1)
+
+In general.—Beginning in the first fiscal year beginning after the date of enactment of this Act \[July 29, 2016\], and in each of the following 5 fiscal years, the Chief Information Officer of each executive agency shall submit to the Director a report on the financial savings or avoidance of spending that resulted from improved software license management.
+
+&emsp;"(2)
+
+Availability.—The Director shall make each report submitted under paragraph (1) publically available."
 
 #### Appropriate Use of Requirements Regarding Experience and Education of Contractor Personnel in the Procurement of Information Technology Services
 

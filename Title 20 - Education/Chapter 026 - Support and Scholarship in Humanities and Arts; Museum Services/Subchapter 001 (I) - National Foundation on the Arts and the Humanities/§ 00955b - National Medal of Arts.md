@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b) of this section.
+There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b).
 
 #### (b) Award of Medal; conditions; recipients; presentation ceremonies
 
@@ -14,7 +14,7 @@ There is hereby established a National Medal of Arts, which shall be a medal of 
 
 &emsp;(A) is a citizen or other national of the United States; or
 
-&emsp;(B) is an alien lawfully admitted to the United States for permanent residence who (i)has filed an application or petition for naturalization in the manner prescribed by section 1445 of title 8 and (ii) is not permanently ineligible to become a citizen of the United States.
+&emsp;(B) is an alien lawfully admitted to the United States for permanent residence who (i) has filed an application or petition for naturalization in the manner prescribed by section 1445 of title 8 and (ii) is not permanently ineligible to become a citizen of the United States.
 
 (4) A group may be awarded the National Medal of Arts only if such group is organized or incorporated in the United States.
 

@@ -32,5 +32,5 @@ Pub. L. 91–563 authorized crediting of amounts received for jury service in co
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section 7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
+Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
 

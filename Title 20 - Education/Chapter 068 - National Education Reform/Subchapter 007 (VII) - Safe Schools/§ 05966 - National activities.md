@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is authorized to use funds reserved under section 5962(b)(2) of this title to—
 
-&emsp;&emsp;&emsp;(i) conduct national leadership activities such as research, program development and evaluation, data collection, public awareness activities, training and technical assistance, dissemination (through appropriate research entities assisted by the Department of Education) of information on successful projects, activities, and strategies developed pursuant to this subchapter;
+&emsp;&emsp;&emsp;(i) conduct national leadership activities such as research, program developmentand evaluation, data collection, public awareness activities, training and technical assistance, dissemination (through appropriate research entities assisted by the Department of Education) of information on successful projects, activities, and strategies developed pursuant to this subchapter;
 
 &emsp;&emsp;&emsp;(ii) provide grants to noncommercial telecommunications entities for the production and distribution of national video-based projects that provide young people with models for conflict resolution and responsible decisionmaking; and
 

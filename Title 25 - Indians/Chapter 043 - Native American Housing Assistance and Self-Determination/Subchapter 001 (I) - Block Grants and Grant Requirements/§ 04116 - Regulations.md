@@ -44,7 +44,7 @@
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) initiate a negotiated rulemaking in accordance with this section by not later than 90 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter; and
+&emsp;&emsp;&emsp;(i) initiate a negotiated rulemaking in accordance with this section by not later than 90 days after the date of enactment of the Native American Housing Assistanceand Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter; and
 
 &emsp;&emsp;&emsp;(ii) promulgate regulations pursuant to this section by not later than 2 years after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter.
 
@@ -70,7 +70,7 @@ The date of enactment of the Native American Housing Assistance and Self-Determi
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted "Not later than 180 days after the date of enactment of the Native American Housing Assistanceand Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary" for "The Secretary".
+<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted "Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary" for "The Secretary".
 
 Subsec. (b)(2)(C), (D). Pub. L. 110–411, §105(2), added subpars. (C) and (D).
 

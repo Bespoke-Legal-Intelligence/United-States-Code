@@ -28,7 +28,7 @@ In this chapter:
 
 #### (6) Kimberley Process Certification Scheme
 
-&emsp;The term "Kimberley Process Certification Scheme" means those standards, practices, and procedures of the international certification scheme for rough diamonds presented in the document entitled "Kimberley Process Certification Scheme" referred to in the Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002.
+&emsp;The term "Kimberley Process Certification Scheme" means those standards, practices,and procedures of the international certification scheme for rough diamonds presented in the document entitled "Kimberley Process Certification Scheme" referred to in the Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002.
 
 #### (7) Participant
 

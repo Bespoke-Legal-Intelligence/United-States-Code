@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(2) the term "Federal juvenile delinquency program" means any juvenile delinquency program which is conducted, directly, or indirectly, or is assisted by any Federal department or agency, including any program funded under this chapter;
 
-&emsp;(3) the term "juvenile delinquency program" means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides <sup>1</sup> activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior;
+&emsp;(3) the term "juvenile delinquency program" means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvementof the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides <sup>1</sup> activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior;
 
 &emsp;(4)(A) the term "Bureau of Justice Assistance" means the bureau established by section 3741 of this title;
 
@@ -124,7 +124,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996.
 
-(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12,1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871.)
+(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871.)
 
 #### References in Text
 

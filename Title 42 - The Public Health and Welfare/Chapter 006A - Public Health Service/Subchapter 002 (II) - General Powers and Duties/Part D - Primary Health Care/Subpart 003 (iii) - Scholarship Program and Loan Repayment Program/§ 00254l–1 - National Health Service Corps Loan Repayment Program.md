@@ -24,7 +24,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps; and
 
-&emsp;(3) submit to the Secretary an application for a contract described in subsection (f) of this section (relating to the payment by the Secretary of the educational loans of the individual in consideration of the individual serving for a period of obligated service).
+&emsp;(3) submit to the Secretary an application for a contract described in subsection (f) (relating to the payment by the Secretary of the educational loans of the individual in consideration of the individual serving for a period of obligated service).
 
 #### (c) Information to be included with application and contract forms; understandability; availability
 
@@ -66,13 +66,13 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(A) to any application for such a contract submitted by an individual whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps;
 
-&emsp;(B) to any application for such a contract submitted by an individual who has (and whose spouse, if any, has) characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) of this section is completed; and
+&emsp;(B) to any application for such a contract submitted by an individual who has (and whose spouse, if any, has) characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
 &emsp;(C) subject to subparagraph (B), to any application for such a contract submitted by an individual who is from a disadvantaged background.
 
 #### (e) Approval required for participation
 
-An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.
+An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f).
 
 #### (f) Contents of contracts
 
@@ -82,7 +82,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;(A) subject to paragraph (3), the Secretary agrees—
 
-&emsp;&emsp;&emsp;(i) to pay on behalf of the individual loans in accordance with subsection (g) of this section; and
+&emsp;&emsp;&emsp;(i) to pay on behalf of the individual loans in accordance with subsection (g); and
 
 &emsp;&emsp;&emsp;(ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h of this title and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
@@ -90,11 +90,11 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(i) to accept loan payments on behalf of the individual;
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual described in subsection (b)(1)(C) of this section, to maintain enrollment in a course of study or training described in such subsection until the individual completes the course of study or training;
+&emsp;&emsp;&emsp;(ii) in the case of an individual described in subsection (b)(1)(C), to maintain enrollment in a course of study or training described in such subsection until the individual completes the course of study or training;
 
-&emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C) of this section, while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
+&emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C), while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individualmay agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
+&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
@@ -120,7 +120,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 #### (A) In general
 
-&emsp;&emsp;For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $50,000, plus, beginning with fiscal year 2012, an amount determined by the Secretary on an annual basis to reflect inflation, on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
+&emsp;&emsp;For each year of obligated service that an individual contracts to serve under subsection (f) the Secretary may pay up to $50,000, plus, beginning with fiscal year 2012, an amount determined by the Secretary on an annual basis to reflect inflation, on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
 &emsp;&emsp;&emsp;(i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
@@ -148,7 +148,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L.101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
 
 #### Prior Provisions
 
@@ -216,7 +216,7 @@ Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, 
 
 &emsp;"(2) individuals who are committed to service in medically underserved areas."
 
-Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted "only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section." for "only on the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section." in par. (1) and struck out par. (2) which read as follows: "The Secretary shall provide written notice to an individual promptly on—
+Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted "only upon the Secretary and the individual entering into a written contract described in subsection (f)." for "only on the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section." in par. (1) and struck out par. (2) which read as follows: "The Secretary shall provide written notice to an individual promptly on—
 
 &emsp;"(A) the Secretary's approving, under paragraph (1), of the individual's participation in the Loan Repayment Program; or
 
@@ -242,7 +242,7 @@ Subsec. (g)(3). Pub. L. 101–597, §202(g)(1), amended par. (3) generally. Prio
 
 Subsec. (i). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (8).
 
-Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "TheSecretary shall, not later than March 1 of each year, submit to the Congress a report specifying—
+Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "The Secretary shall, not later than March 1 of each year, submit to the Congress a report specifying—
 
 &emsp;"(1) the number, and type of health profession training, of individuals receiving loan payments under the Loan Repayment Program;
 
@@ -265,4 +265,8 @@ Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provide
 #### Regulations
 
 Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
+
+#### Clarification on Current Eligibility for Loan Repayment Programs
+
+Pub. L. 114–255, div. B, title IX, §9023, Dec. 13, 2016, 130 Stat. 1253, provided that: "The Administrator of the Health Resources and Services Administration shall clarify the eligibility pursuant to section 338B(b)(1)(B) of the Public Health Service Act (42 U.S.C. 254l–1(b)(1)(B)) of child and adolescent psychiatrists for the National Health Service Corps Loan Repayment Program under subpart III of part D of title III of such Act (42 U.S.C. 254l et seq.)."
 

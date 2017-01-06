@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 
-&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
+&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, andconserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
 
 #### (b) Statement of purpose
 

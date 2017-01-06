@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Energy
 
-Subject to sections 8835 and 8836 of this title, the Secretary of Energy may commit to guarantee, and guarantee, against loss on up to 90 per centum of the principal and interest, any loan which is made solely to provide funds for the construction of a municipal waste energy project and which does not exceed 90 per centum of the cost of the construction of the project involved, as estimated by the Secretary on the date of the guarantee or commitment to guarantee.
+Subject to sections 8835 and 8836 of this title, the Secretary of Energy may commit to guarantee, and guarantee, against loss on up to 90 per centum of the principal and interest, any loan which is made solely to provide funds for theconstruction of a municipal waste energy project and which does not exceed 90 per centum of the cost of the construction of the project involved, as estimated by the Secretary on the date of the guarantee or commitment to guarantee.
 
 #### (b) Estimated project construction costs as determinative of revised amount of guarantee
 
@@ -14,7 +14,7 @@ The terms and conditions of loan guarantees under this section shall provide tha
 
 #### (d) Termination, cancellation, or revocation, and conclusive nature of guarantee
 
-Any loan guarantee under this section shall not be terminated, canceled, or otherwise revoked, except in accordance with the terms thereof and shall be conclusive evidence thatsuch guarantee complies fully with the provisions of this chapter and of the approval and legality of the principal amount, interest rate, and all other terms of the securities, obligations, or loans and of the guarantee.
+Any loan guarantee under this section shall not be terminated, canceled, or otherwise revoked, except in accordance with the terms thereof and shall be conclusive evidence that such guarantee complies fully with the provisions of this chapter and of the approval and legality of the principal amount, interest rate, and all other terms of the securities, obligations, or loans and of the guarantee.
 
 #### (e) Payment to lender
 

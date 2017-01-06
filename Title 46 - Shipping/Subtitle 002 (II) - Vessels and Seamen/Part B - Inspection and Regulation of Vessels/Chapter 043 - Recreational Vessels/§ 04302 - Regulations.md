@@ -12,7 +12,7 @@
 
 &emsp;(3) requiring or permitting the display of seals, labels, plates, insignia, or other devices for certifying or evidencing compliance with safety regulations and standards of the United States Government for recreational vessels and associated equipment.
 
-(b) Each regulation prescribed under this section shall specify an effective date that is not earlier than 180 days from the date the regulation was published, unless the Secretary finds that there exists a recreational vessel safetyhazard so critical as to require an earlier effective date. However, this period may not be more than 24 months for cases involving, in the discretion of the Secretary, major product design, retooling, or major changes in the manufacturing process.
+(b) Each regulation prescribed under this section shall specify an effective date that is not earlier than 180 days from the date the regulation was published, unless the Secretary finds that there exists a recreational vessel safety hazard so critical as to require an earlier effective date. However, this period may not be more than 24 months for cases involving, in the discretion of the Secretary, major product design, retooling, or major changes in the manufacturing process.
 
 (c) In prescribing regulations under this section, the Secretary shall, among other things—
 
@@ -26,7 +26,15 @@
 
 (d) Section 8903 of this title does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 of this title for individuals in control of vessels carrying passengers for hire.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 530.)
+(e)(1) Under this section, a model year for recreational vessels and associated equipment shall, except as provided in paragraph (2)—
+
+&emsp;(A) begin on June 1 of a year and end on July 31 of the following year; and
+
+&emsp;(B) be designated by the year in which it ends.
+
+(2) Upon the request of a recreational vessel manufacturer to which this chapter applies, the Secretary may alter a model year for a model of recreational vessel of the manufacturer and associated equipment, by no more than 6 months from the model year described in paragraph (1).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 530; Pub. L. 114–120, title III, §303(a), Feb. 8, 2016, 130 Stat. 53.)
 
 Historical and Revision Notes
 
@@ -53,6 +61,14 @@ Section 4302(b) requires a regulation prescribed under this section to have an e
 Section 4302(c) requires the Secretary to consider certain objectives in developing regulatory controls and regulations or standards and that there must be an effective consultation process.
 
 Section 4302(d) exempts dealer demonstration boats from the requirement of having to be named by a licensed individual when demonstrating boats to prospective purchasers or other business invitees when no fees are charged. The Secretary may require that boats so used be under control of a licensed individual.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–120 added subsec. (e).
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–120, title III, §303(b), Feb. 8, 2016, 130 Stat. 53, provided that: "This section \[amending this section\] shall only apply with respect to recreational vessels and associated equipment constructed or manufactured, respectively, on or after the date of enactment of this Act \[Feb. 8, 2016\]."
 
 #### Availability and Use of EPIRBs for Recreational Vessels
 

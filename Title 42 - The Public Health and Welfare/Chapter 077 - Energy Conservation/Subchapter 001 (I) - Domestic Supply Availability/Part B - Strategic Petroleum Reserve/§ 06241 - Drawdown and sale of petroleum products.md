@@ -34,7 +34,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 (3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
 
-(4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the samearea at the time the Secretary is offering crude oil for sale in such area under this subsection.
+(4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
 
 (5) The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.
 
@@ -84,9 +84,9 @@ Report.—A detailed description submitted under clause (i) may be included as p
 
 &emsp;(B) for more than 60 days with respect to each such shortage;
 
-&emsp;(C) if there are fewer than 500,000,000 barrels of petroleum product stored in the Reserve; or
+&emsp;(C) if there are fewer than 450,000,000 barrels of petroleum product stored in the Reserve; or
 
-&emsp;(D) below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
+&emsp;(D) below the level of an aggregate of 450,000,000 barrels of petroleum product stored in the Reserve.
 
 (3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
 
@@ -208,13 +208,15 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec.22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h)(2)(C), (D). Pub. L. 114–255 substituted "450,000,000" for "500,000,000".
 
 <b>2015</b>—Subsec. (g)(8). Pub. L. 114–74 added par. (8) and struck out former par. (8) which read as follows: "The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title."
 
@@ -299,6 +301,30 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 &emsp;"(B) section 501 of the Department of Energy Organization Act (42 U.S.C. 7191)."
 
 #### Strategic Petroleum Reserve Drawdown and Sale
+
+Pub. L. 114–255, div. A, title V, §5010(a), (b), Dec. 13, 2016, 130 Stat. 1197, 1198, provided that:
+
+"(a)
+
+Drawdown and Sale.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsections (b) and (c) \[subsec. (c) amended this section\], the Secretary of Energy shall drawdown and sell from the Strategic Petroleum Reserve—
+
+&emsp;&emsp;"(A) 10,000,000 barrels of crude oil during fiscal year 2017;
+
+&emsp;&emsp;"(B) 9,000,000 barrels of crude oil during fiscal year 2018; and
+
+&emsp;&emsp;"(C) 6,000,000 barrels of crude oil during fiscal year 2019.
+
+&emsp;"(2)
+
+Deposit of amounts received from sale.—Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
+
+"(b)
+
+Emergency Protection.—The Secretary shall not draw down and sell crude oil under this section in quantities that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full quantity authorized by that subsection."
 
 Pub. L. 114–94, div. C, title XXXII, §32204, Dec. 4, 2015, 129 Stat. 1740, provided that:
 

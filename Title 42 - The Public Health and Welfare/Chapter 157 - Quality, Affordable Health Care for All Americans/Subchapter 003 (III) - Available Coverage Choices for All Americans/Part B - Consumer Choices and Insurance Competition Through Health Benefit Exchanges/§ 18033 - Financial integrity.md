@@ -20,7 +20,7 @@
 
 #### (5) Protections against fraud and abuse
 
-&emsp;With respect to activities carried out under this title,<sup>1</sup> the Secretary shall provide for theefficient and non-discriminatory administration of Exchange activities and implement any measure or procedure that—
+&emsp;With respect to activities carried out under this title,<sup>1</sup> the Secretary shall provide for the efficient and non-discriminatory administration of Exchange activities and implement any measure or procedure that—
 
 &emsp;&emsp;(A) the Secretary determines is appropriate to reduce fraud and abuse in the administration of this title; <sup>1</sup> and
 
@@ -58,7 +58,7 @@ This title, referred to in subsecs. (a)(4), (5) and (b), is title I of Pub. L. 1
 
 This Act, referred to in subsec. (a)(4), (6)(A), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-The False Claims Act, referred to in subsec. (a)(6), was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+The False Claims Act, referred to in subsec. (a)(6), was the popular name for sections 231, 232, 233, and 235of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
 #### Amendments
 

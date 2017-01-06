@@ -8,9 +8,9 @@ No grant may be made under this part unless the public or nonprofit private orga
 
 &emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
 
-&emsp;(3) provide assurances that the organization will coordinate its activities with the State agency on aging and with the activities carried out under subchapter III of this chapter in the same geographical area;
+&emsp;(3) provide assurances that the organization will coordinate its activities with the State agency on aging and with the activities carried out under subchapter III in the same geographical area;
 
-&emsp;(4) provide that the organization will make such reports in such form and containing such information as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary mayimpose to ensure the correctness of such reports;
+&emsp;(4) provide that the organization will make such reports in such form and containing such information as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to ensure the correctness of such reports;
 
 &emsp;(5) provide for periodic evaluation of activities and projects carried out under the application;
 
@@ -20,7 +20,7 @@ No grant may be made under this part unless the public or nonprofit private orga
 
 &emsp;(8) provide a preference for Native Hawaiians 60 years of age and older for full or part-time staff positions wherever feasible;
 
-&emsp;(9) provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing and similar services; and
+&emsp;(9) provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing and similar services; and
 
 &emsp;(10) provide satisfactory assurances that the fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the nonprofit private organization, including any funds paid by the organization to a recipient of a grant or contract.
 
@@ -48,7 +48,7 @@ Whenever the Assistant Secretary approves an application of a nonprofit private 
 
 <b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–375, §603, inserted before semicolon at end "and with the activities carried out under subchapter III of this chapter in the same geographical area".
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–375, §603, inserted before semicolon at end "and with the activities carried out under subchapter III in the same geographical area".
 
 Subsec. (a)(7). Pub. L. 102–375, §102(b)(4), substituted "information and assistance" for "information and referral".
 

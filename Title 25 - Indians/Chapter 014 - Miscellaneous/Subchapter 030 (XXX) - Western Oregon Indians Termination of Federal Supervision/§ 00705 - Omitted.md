@@ -1,0 +1,6 @@
+### §705. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §15, 68 Stat. 727, which related to offset of funds payable under this subchapter against indebtedness payable to the tribe or to the United States, was omitted from the Code as being of special and not general application.
+

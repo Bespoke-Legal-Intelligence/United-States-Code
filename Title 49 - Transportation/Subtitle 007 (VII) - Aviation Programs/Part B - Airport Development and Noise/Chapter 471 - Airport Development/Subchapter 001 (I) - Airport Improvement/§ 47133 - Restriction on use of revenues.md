@@ -26,7 +26,7 @@ Sale of private airport to public sponsor.—In the case of a privately owned ai
 
 &emsp;&emsp;(B) funding is provided under this subchapter for any portion of the public sponsor's acquisition of airport land; and
 
-&emsp;&emsp;(C) an amount equal to the remaining unamortized portion of any airport improvement grant made to that airport for purposes other than land acquisition, amortizedover a 20-year period, plus an amount equal to the Federal share of the current fair market value of any land acquired with an airport improvement grant made to that airport on or after October 1, 1996, is repaid to the Secretary by the private owner.
+&emsp;&emsp;(C) an amount equal to the remaining unamortized portion of any airport improvement grant made to that airport for purposes other than land acquisition, amortized over a 20-year period, plus an amount equal to the Federal share of the current fair market value of any land acquired with an airport improvement grant made to that airport on or after October 1, 1996, is repaid to the Secretary by the private owner.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Pub. L. 112–95, title I, §149(b), Feb. 14, 2012, 126 Stat. 32, provided that:
 
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, seesection 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Use of Mineral Revenue at Certain Airports
 

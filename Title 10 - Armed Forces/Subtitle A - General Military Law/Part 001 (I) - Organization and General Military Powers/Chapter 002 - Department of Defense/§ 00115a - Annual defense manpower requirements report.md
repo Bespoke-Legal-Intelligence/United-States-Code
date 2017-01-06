@@ -6,9 +6,9 @@
 
 &emsp;(2) the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year; and
 
-&emsp;(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title.
+&emsp;(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) <sup>1</sup> of this title.
 
-(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnelstrength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
 
 (2) The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:
 
@@ -64,7 +64,7 @@
 
 &emsp;(1) The military end strength and civilian full-time equivalents assigned to major Department of Defense headquarters activities for the preceding fiscal year and estimates of such numbers for the current fiscal year and subsequent fiscal years.
 
-&emsp;(2) A summary of the replacement during the preceding fiscal year of contract workyears providing support to major Department of Defense headquarters activities with military end strength or civilian full-time equivalents, including an estimate of the number of contract workyears associated with the replacement of contracts performing inherently governmental or exempt functions.
+&emsp;(2) A summary of the replacement during the preceding fiscal year of contract workyears providing support to major Department of Defense headquarters activities with military end strength or civilian full-timeequivalents, including an estimate of the number of contract workyears associated with the replacement of contracts performing inherently governmental or exempt functions.
 
 &emsp;(3) The plan for the continued review of contract personnel supporting major Department of Defense headquarters activities for possible conversion to military or civilian performance in accordance with section 2463 of this title.
 
@@ -96,6 +96,8 @@
 
 #### References in Text
 
+Section 2330a(c) of this title, referred to in subsec. (a)(3), was amended by Pub. L. 114–328 with respect to the requirement that the Secretary of Defense submit to Congress an annual inventory of the activities performed pursuant to contracts for services.
+
 Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (f)(4), is section 1111(b)(2) of Pub. L. 110–417, which is set out as a note under section 143 of this title.
 
 #### Prior Provisions
@@ -124,7 +126,7 @@ Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read
 
 Subsec. (d). Pub. L. 104–106, §1061(d)(3), redesignated subsec. (e) as (d) and struck out pars. (4) and (5) which read as follows:
 
-"(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:
+"(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade inwhich serving and years of active commissioned service:
 
 &emsp;"(A) Regular officers.
 
@@ -176,7 +178,7 @@ Elements.—
 
 &emsp;"(1)
 
-Identification of positions.—The database required by subsection (a) shall identify each militarytechnician position, whether dual-status or non-dual status.
+Identification of positions.—The database required by subsection (a) shall identify each military technician position, whether dual-status or non-dual status.
 
 &emsp;"(2)
 
@@ -203,4 +205,6 @@ Implementation Report.—Not later than September 1, 2015, the Secretary of Defe
 #### Assessment of Structure and Mix of Active and Reserve Forces
 
 Pub. L. 102–190, div. A, title IV, §402, Dec. 5, 1991, 105 Stat. 1349, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

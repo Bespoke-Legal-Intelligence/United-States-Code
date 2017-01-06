@@ -116,7 +116,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference point using an adjustment made by the Secretary) of the barrows and gilts slaughtered during the applicable reporting period;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the barrows and gilts slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packershall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the barrows and gilts of the individual packer to correlate to a common percent lean measurement; and
+&emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the barrows and gilts slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the barrows and gilts of the individual packer to correlate to a common percent lean measurement; and
 
 &emsp;&emsp;&emsp;&emsp;(IX) the total slaughter quantity, which shall be equal to the total number of barrows and gilts slaughtered during the applicable reporting period, including all types of purchases and barrows and gilts that qualify as packer-owned swine; and
 
@@ -152,7 +152,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;(i) the packer's best estimate of the total number of barrows and gilts, and barrows and gilts that qualify as packer-owned swine, expected to be purchased throughout the reporting day through each type of purchase;
 
-&emsp;&emsp;&emsp;(ii) the total number of barrows and gilts, and barrows and gilts that qualify as packer-owned swine, purchased up to that time of the reporting day through each type of purchase;
+&emsp;&emsp;&emsp;(ii) the total number of barrows and gilts, and barrows and gilts that qualify aspacker-owned swine, purchased up to that time of the reporting day through each type of purchase;
 
 &emsp;&emsp;&emsp;(iii) the base price paid for all base market hogs purchased up to that time of the reporting day through negotiated purchases; and
 
@@ -188,7 +188,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (1) Prior day report
 
-&emsp;The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, foreach business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
+&emsp;The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, for each business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
 
 &emsp;&emsp;(A) comply with the publication requirements of this section; and
 

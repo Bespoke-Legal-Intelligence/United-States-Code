@@ -20,9 +20,9 @@
 
 (b)(1) An officer subject to retirement under section 633 or 634 of this title may, subject to the needs of the service, have his retirement deferred and be continued on active duty if he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.
 
-(2) An officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, rear admiral (lower half), major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active dutyby the Secretary concerned. An officer subject to retirement under section 635 or 636 of this title who is serving in a grade above major general or rear admiral may have his retirement deferred and be continued on active duty by the President.
+(2) An officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, rear admiral (lower half), major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active duty by the Secretary concerned. An officer subject to retirement under section 635 or 636 of this title who is serving in a grade above major general or rear admiral may have his retirement deferred and be continued on active duty by the President.
 
-(3) Any deferral of retirement and continuation on active duty under this subsection shall be for a period not to exceed five years, except as provided under section 1251 or 1253 of this title.
+(3) Any deferral of retirement and continuation on active duty under this subsection shallbe for a period not to exceed five years, except as provided under section 1251 or 1253 of this title.
 
 (c) Continuation of an officer on active duty under this section pursuant to the action of a selection board convened under section 611(b) of this title is subject to the approval of the Secretary of the military department concerned. The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date
 
-Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

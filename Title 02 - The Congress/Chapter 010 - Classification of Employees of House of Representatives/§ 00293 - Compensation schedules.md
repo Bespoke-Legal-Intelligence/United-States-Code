@@ -12,7 +12,7 @@
 
 (b) The committee shall establish and maintain, and, from time to time, may revise, for positions under the Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, the compensation for which, in the judgment of the committee, should be fixed and adjusted from time to time in accordance with prevailing rates, a compensation schedule providing for per annum or per hour rates, or both, established in accordance with prevailing rates and consisting of such number of compensation levels and steps as the committee deems appropriate, which shall be known as the "House Wage Schedule" and for which the symbol shall be "HWS". The rates of compensation for such positions shall be in accordance with such schedule. Notwithstanding any other provision of this chapter, for purposes of applying the adjustment made by the committee under this subsection for 2002 and each succeeding year (other than any period during which a memorandum of understanding described in section 2168(a) of this title is in effect), positions under the Chief Administrative Officer shall include positions of the United States Capitol telephone exchange under the Chief Administrative Officer.
 
-(Pub. L. 88–652, §4, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, §108(2), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, §209(1), Aug. 20, 1996, 110 Stat. 1743; Pub. L. 107–68, title III, §310, Nov. 12, 2001, 115 Stat. 592; Pub. L. 108–447, div. G, title II, §215(d), Dec. 8, 2004, 118 Stat. 3198.)
+(Pub. L. 88–652, §4, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, §108(2), Nov. 19, 1995, 109Stat. 522; Pub. L. 104–186, title II, §209(1), Aug. 20, 1996, 110 Stat. 1743; Pub. L. 107–68, title III, §310, Nov. 12, 2001, 115 Stat. 592; Pub. L. 108–447, div. G, title II, §215(d), Dec. 8, 2004, 118 Stat. 3198.)
 
 #### References in Text
 
@@ -35,6 +35,10 @@ Committee on House Oversight of House of Representatives changed to Committee on
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and each succeeding fiscal year, see section 2168(f) of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
 #### Increases in Compensation
 

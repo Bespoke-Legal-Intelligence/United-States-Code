@@ -16,7 +16,7 @@
 
 (h) "Party" or "parties" means the United States of America, Canada, Japan, and Russia (except that as used in subsection (b) of this section, "party" and "parties" refer to the Union of Soviet Socialist Republics).
 
-(i) "Person" means any individual, partnership, corporation, trust, association or any other private entity, or any officer, employee, agent, department, or instrumentality of theFederal Government, of any State or political subdivision thereof, or of any foreign government.
+(i) "Person" means any individual, partnership, corporation, trust, association or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.
 
 (j) "Pribilof Islands" means the islands of Saint Paul and Saint George, Walrus and Otter Islands, and Sea Lion Rock.
 
@@ -44,6 +44,12 @@
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–328, div. C, title XXXV, §3531, Dec. 23, 2016, 130 Stat. 2794, provided that: "This subtitle \[subtitle B (§§3531–3533) of title XXXV of div. C of Pub. L. 114–328, amending provisions set out as a note under section 1161 of this title\] may be cited as the 'Pribilof Islands Transition Completion Amendments Act of 2016'."
+
+Pub. L. 114–120, title V, §521, Feb. 8, 2016, 130 Stat. 70, as amended by Pub. L. 114–328, div. C, title XXXV, §3503(c), Dec. 23, 2016, 130 Stat. 2775, provided that: "This subtitle \[subtitle B (§§521–524) of title V of Pub. L. 114–120, amending section 1165 of this title and provisions set out as a note under section 1161 of this title\] may be cited as the 'Pribilof Island \[sic\] Transition Completion Act of 2016'."
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–562, title I, §101, Dec. 23, 2000, 114 Stat. 2794, provided that: "This title \[enacting section 1169b of this title, amending sections 1161, 1165, and 1166 of this title, repealing section 1165 of this title, enacting provisions set out as notes under this section and section 1161 of this title, amending provisions set out as a note under section 1165 of this title, and repealing provisions set out as a note under section 1165 of this title\] may be referred to as the 'Pribilof Islands Transition Act'."
@@ -52,7 +58,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 11
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–129, §1, Oct. 14, 1983, 97 Stat. 835, provided: "That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the 'Fur Seal Act Amendments of 1983'."
+Pub. L. 98–129, §1, Oct. 14, 1983, 97 Stat. 835, provided: "That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 5323 of Title 25, Indians\] may be cited as the 'Fur Seal Act Amendments of 1983'."
 
 #### Short Title
 

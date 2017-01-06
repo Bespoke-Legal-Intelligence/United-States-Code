@@ -40,7 +40,7 @@ As used in this section, the Charlestown Navy Yard shall include the United Stat
 
 <b>1978</b>—Subsec. (a)(8). Pub. L. 95–625, §310(a), added par. (8).
 
-Subsec. (d). Pub. L. 95–625, §310(d), authorized grant of easements and rights-of-way for vehicular, pedestrian and utility access to the Boston Navy Yard outside the boundaries of the Boston National Historical Park upon express condition that the grantee convey to the United States the part of the Boston Navy Yard owned by the Boston Redevelopment Authority.
+Subsec. (d). Pub. L. 95–625, §310(d), authorized grant of easements and rights-of-way for vehicular, pedestrianand utility access to the Boston Navy Yard outside the boundaries of the Boston National Historical Park upon express condition that the grantee convey to the United States the part of the Boston Navy Yard owned by the Boston Redevelopment Authority.
 
 #### Short Title
 

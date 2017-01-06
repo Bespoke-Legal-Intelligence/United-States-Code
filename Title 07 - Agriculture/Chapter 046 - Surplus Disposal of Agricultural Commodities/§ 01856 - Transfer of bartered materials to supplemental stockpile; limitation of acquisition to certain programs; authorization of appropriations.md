@@ -20,7 +20,7 @@ Section 1704(b) of this title, referred to in subsec. (a), was amended generally
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–456 repealed subsec. (b) which permitted strategic materials acquired by Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products to be entered, or withdrawn from warehouse, free of duty.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–341 authorized acquisition of strategic and critical materials for national stockpile to meet requirements of Government agencies.
+<b>1959</b>—Subsec. (a). Pub. L. 86–341 authorized acquisition of strategic and critical materials for nationalstockpile to meet requirements of Government agencies.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or military aid or assistance programs and offshore construction programs.
 

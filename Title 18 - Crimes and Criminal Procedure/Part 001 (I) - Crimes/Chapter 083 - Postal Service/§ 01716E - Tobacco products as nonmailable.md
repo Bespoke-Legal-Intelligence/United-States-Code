@@ -106,7 +106,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;(C)
 
-Definition.—In this paragraph, the term "minor" means an individual who isless than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
+Definition.—In this paragraph, the term "minor" means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
 
 &emsp;(5)
 

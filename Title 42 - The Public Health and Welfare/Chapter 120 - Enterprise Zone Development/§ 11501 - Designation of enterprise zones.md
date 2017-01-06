@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3) of this section, and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3), and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
 
 #### (B) Exception where inadequate course of action, etc.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(ii) the parameters relating to the size and population characteristics of an enterprise zone; and
 
-&emsp;&emsp;&emsp;(iii) the manner in which nominated areas will be evaluated based on the criteria specified in subsection (d) of this section.
+&emsp;&emsp;&emsp;(iii) the manner in which nominated areas will be evaluated based on the criteria specified in subsection (d).
 
 #### (B) Time limitations
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to nominate such area for designation as an enterprise zone;
 
-&emsp;&emsp;&emsp;&emsp;(II) to make the State and local commitments under subsection (d) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) to make the State and local commitments under subsection (d); and
 
 &emsp;&emsp;&emsp;&emsp;(III) to provide assurances satisfactory to the Secretary that such commitments will be fulfilled;
 
@@ -90,19 +90,19 @@
 
 &emsp;&emsp;(A) December 31 of the 24th calendar year following the calendar year in which such date occurs;
 
-&emsp;&emsp;(B) the termination date designated by the State and local governments as provided for in their nomination pursuant to subsection (a)(4)(C)(ii) of this section; or
+&emsp;&emsp;(B) the termination date designated by the State and local governments as provided for in their nomination pursuant to subsection (a)(4)(C)(ii); or
 
 &emsp;&emsp;(C) the date the Secretary revokes such designation under paragraph (2).
 
 #### (2) Revocation of designation
 
-&emsp;The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
+&emsp;The Secretary, after consultation with the officials described in subsection (a)(1)(B) and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d).
 
 #### (c) Area and eligibility requirements
 
 #### (1) In general
 
-&emsp;The Secretary may make a designation of any nominated area under subsection (a)(1) of this section only if it meets the requirements of paragraphs (2) and (3).
+&emsp;The Secretary may make a designation of any nominated area under subsection (a)(1) only if it meets the requirements of paragraphs (2) and (3).
 
 #### (2) Area requirements
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) has a population, as determined by the most recent census data available, of not less than—
 
-&emsp;&emsp;&emsp;&emsp;(I) 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i) of this section) is located within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) with a population of 50,000 or more; or
+&emsp;&emsp;&emsp;&emsp;(I) 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i)) is located within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) with a population of 50,000 or more; or
 
 &emsp;&emsp;&emsp;&emsp;(II) 1,000 in any other case; or
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;(C) the unemployment rate, as determined by the appropriate available data, was not less than 1.5 times the national unemployment rate for that period;
 
-&emsp;&emsp;(D) the poverty rate (as determined by the most recent census data available) for each populous census tract (or where not tracted, the equivalent county division as defined by the Bureau of the Census for the purpose of defining poverty areas) within the area was not less than 20 percent for the period to which such data relate; and
+&emsp;&emsp;(D) the poverty rate (as determined by the most recent census data available) for eachpopulous census tract (or where not tracted, the equivalent county division as defined by the Bureau of the Census for the purpose of defining poverty areas) within the area was not less than 20 percent for the period to which such data relate; and
 
 &emsp;&emsp;(E) the area meets at least one of the following criteria:
 
@@ -142,7 +142,7 @@
 
 #### (4) Eligibility requirements for rural areas
 
-&emsp;For purposes of paragraph (1), a nominated area that is a rural area described in subsection (a)(2)(B) of this section meets the requirements of paragraph (3) if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that the area meets—
+&emsp;For purposes of paragraph (1), a nominated area that is a rural area described in subsection (a)(2)(B) meets the requirements of paragraph (3) if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that the area meets—
 
 &emsp;&emsp;(A) the criteria set forth in subparagraphs (A) and (B) of paragraph (3); and
 
@@ -216,7 +216,7 @@ For purposes of this section:
 
 #### (4) State
 
-&emsp;The term "State" includes Puerto Rico, the Virgin Islands, Guam, American Samoa, theNorthern Mariana Islands, and any other possession of the United States.
+&emsp;The term "State" includes Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other possession of the United States.
 
 (Pub. L. 100–242, title VII, §701, Feb. 5, 1988, 101 Stat. 1957; Pub. L. 100–628, title X, §1090(a), (b), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 102–550, title VIII, §834(a), Oct. 28, 1992, 106 Stat. 3855.)
 

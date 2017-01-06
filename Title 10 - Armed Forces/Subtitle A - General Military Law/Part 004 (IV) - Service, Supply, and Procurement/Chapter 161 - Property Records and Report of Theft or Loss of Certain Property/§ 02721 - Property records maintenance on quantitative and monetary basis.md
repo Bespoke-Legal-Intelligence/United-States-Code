@@ -46,7 +46,7 @@ In subsection (b), the words "on property records maintained under this section"
 
 Pub. L. 102–190, §347(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–510 struck out "(a)" before "Under regulations" and struck out subsec. (b) which read as follows: "The Secretary shall report once a year to Congress and the President on property records maintained under this section."
+<b>1990</b>—Pub. L. 101–510 struck out "(a)" before "Under regulations" and struck out subsec. (b) which read asfollows: "The Secretary shall report once a year to Congress and the President on property records maintained under this section."
 
 #### Implementation of 1991 Amendment
 

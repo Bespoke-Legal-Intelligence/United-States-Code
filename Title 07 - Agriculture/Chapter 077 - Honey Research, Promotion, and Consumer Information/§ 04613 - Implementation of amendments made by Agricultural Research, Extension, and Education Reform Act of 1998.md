@@ -2,7 +2,7 @@
 
 #### (a) Issuance of amended order
 
-To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended order under section 4603 of this title that reflects those amendments.
+To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended orderunder section 4603 of this title that reflects those amendments.
 
 #### (b) Proposal of amended order
 
@@ -48,7 +48,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (4) Effectiveness of order
 
-&emsp;The amended order shall become effective only if the Secretary determines that theamended order is effective in accordance with section 4611 of this title.
+&emsp;The amended order shall become effective only if the Secretary determines that the amended order is effective in accordance with section 4611 of this title.
 
 #### (e) Continuation of existing order if amended order is rejected
 

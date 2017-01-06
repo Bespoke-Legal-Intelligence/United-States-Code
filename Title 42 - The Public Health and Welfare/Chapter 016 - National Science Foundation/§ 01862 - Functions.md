@@ -34,7 +34,7 @@ The Board and the Director shall recommend and encourage the pursuit of national
 
 #### (e) Balancing of research and educational activities in the sciences and engineering
 
-In exercising the authority and discharging the functions referred to in the foregoing subsections, it shall be an objective of the Foundation to strengthen research and education in the sciences and engineering, including independent research by individuals, throughout the United States, and to avoid undue concentration of such research and education.
+In exercising the authority and discharging the functions referred to in the foregoing subsections, it shall be an objective of the Foundation to strengthen research and education in thesciences and engineering, including independent research by individuals, throughout the United States, and to avoid undue concentration of such research and education.
 
 #### (f) Annual report to the President and Congress
 
@@ -121,6 +121,40 @@ Subsec. (f). Pub. L. 90–407 redesignated former subsec. (c) as (f) and struck 
 #### Transfer of National Science Foundation Programs
 
 For transfer of all programs relating to science education of the National Science Foundation or the Director thereof under this chapter, with certain exceptions, to the Secretary of Education, see section 3444 of Title 20, Education.
+
+#### Management of the U.S. Antarctic Program
+
+Pub. L. 114–329, title I, §112, Jan. 6, 2017, 130 Stat. 2992, provided that:
+
+"(a)
+
+Review.—
+
+&emsp;"(1)
+
+In general.—The Director of the Foundation shall continue to review the efforts by the Foundation to sustain and strengthen scientific efforts in the face of logistical challenges for the United States Antarctic Program.
+
+&emsp;"(2)
+
+Issues to be examined.—In conducting the review, the Director shall examine, at a minimum, the following:
+
+&emsp;&emsp;"(A) Implementation by the Foundation of issues and recommendations identified by—
+
+&emsp;&emsp;&emsp;"(i) the Inspector General of the National Science Foundation in audit reports and memoranda on the United States Antarctic Program in the last 4 years;
+
+&emsp;&emsp;&emsp;"(ii) the U.S. Antarctic Program Blue Ribbon Panel report, More and Better Science in Antarctica through Increased Logistical Effectiveness, issued July 23, 2012; and
+
+&emsp;&emsp;&emsp;"(iii) the National Research Council report, Future Science Opportunities in Antarctica and the Southern Ocean, issued September 2011.
+
+&emsp;&emsp;"(B) Efforts by the Foundation to track its progress in addressing the issues and recommendations under subparagraph (A).
+
+&emsp;&emsp;"(C) Efforts by the Foundation to address other opportunities and challenges, including efforts on scientific research, coordination with other Federal agencies and international partners, logistics and transportation, health and safety of participants, oversight and financial management of awardees and contractors, and resources and policy challenges.
+
+"(b)
+
+Briefing.—Not later than 180 days after the date of enactment of this Act \[Jan. 6, 2017\], the Director shall brief the appropriate committees of Congress on the ongoing review, including findings and any recommendations."
+
+\[For definitions of terms used in section 112 of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.\]
 
 #### NSF Study and Report on the "Digital Divide"
 

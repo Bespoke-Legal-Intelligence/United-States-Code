@@ -14,13 +14,13 @@ As used in this chapter:
 
 "Securities" includes any note, stock certificate, bond, debenture, check, draft, warrant, traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate; valid or blank motor vehicle title; certificate of interest in property, tangible or intangible; instrument or document or writing evidencing ownership of goods, wares, and merchandise, or transferring or assigning any right, title, or interest in or to goods, wares, and merchandise; or, in general, any instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, warrant, or right to subscribe to or purchase any of the foregoing, or any forged, counterfeited, or spurious representation of any of the foregoing;
 
-"Tax stamp" includes any tax stamp, tax token, tax meter imprint, or any other form ofevidence of an obligation running to a State, or evidence of the discharge thereof;
+"Tax stamp" includes any tax stamp, tax token, tax meter imprint, or any other form of evidence of an obligation running to a State, or evidence of the discharge thereof;
 
 "Value" means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
 "Vessel" means any watercraft or other contrivance used or designed for transportation or navigation on, under, or immediately above, water.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L.103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
 
 #### Historical and Revision Notes
 

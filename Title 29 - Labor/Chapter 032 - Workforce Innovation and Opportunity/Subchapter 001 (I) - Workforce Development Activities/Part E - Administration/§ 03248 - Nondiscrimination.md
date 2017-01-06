@@ -8,7 +8,7 @@
 
 #### (2) Prohibition of discrimination regarding participation, benefits, and employment
 
-&emsp;No individual shall be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in the administration of or in connection with, any such program or activity because of race, color, religion, sex (except as otherwise permitted under title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), nationalorigin, age, disability, or political affiliation or belief.
+&emsp;No individual shall be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in the administration of or in connection with, any such program or activity because of race, color, religion, sex (except as otherwise permitted under title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), national origin, age, disability, or political affiliation or belief.
 
 #### (3) Prohibition on assistance for facilities for sectarian instruction or religious worship
 

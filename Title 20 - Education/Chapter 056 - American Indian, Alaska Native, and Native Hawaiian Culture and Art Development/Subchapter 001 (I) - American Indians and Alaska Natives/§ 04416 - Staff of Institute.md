@@ -44,19 +44,19 @@ Individuals who elect to remain civil service employees shall be transferred in 
 
 (1) Any individual who—
 
-&emsp;(A) elects under subsection (g) of this section to be covered under the provisions of this section, or
+&emsp;(A) elects under subsection (g) to be covered under the provisions of this section, or
 
 &emsp;(B) is an employee of the Federal Government and is transferred or reappointed, without a break in service, from a position under a different leave system to the Institute,
 
-> shall be credited for purposes of the leave system provided under rules and regulations promulgated pursuant to subsection (b) of this section, with the annual and sick leave to the credit of such individual immediately before the effective date of such election, transfer, or reappointment.
+> shall be credited for purposes of the leave system provided under rules and regulations promulgated pursuant to subsection (b), with the annual and sick leave to the credit of such individual immediately before the effective date of such election, transfer, or reappointment.
 
-(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
+(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) shall not be so liquidated.
 
-(3) In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) of this section shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
+(3) In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (f) Applicability
 
-(1) This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
+(1) This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g), the enactment of this chapter shall not affect—
 
 &emsp;(A) the continued employment of any individual employed before October 17, 1986; or
 
@@ -68,7 +68,7 @@ Individuals who elect to remain civil service employees shall be transferred in 
 
 #### (g) Termination of civil service positions
 
-(1) On June 30, 1989, any position at the Institute which is occupied by an individual in the civil service shall terminate. During such period, such individual may make an irrevocableelection to be covered under the provisions of this section, except that any such individual who is subject to subchapter III of chapter 83 of title 5 may elect to continue to be subject to such subchapter, and any such individual who is subject to chapter 84 of such title may elect to continue to be subject to such chapter.
+(1) On June 30, 1989, any position at the Institute which is occupied by an individual in the civil service shall terminate. During such period, such individual may make an irrevocable election to be covered under the provisions of this section, except that any such individual who is subject to subchapter III of chapter 83 of title 5 may elect to continue to be subject to such subchapter, and any such individual who is subject to chapter 84 of such title may elect to continue to be subject to such chapter.
 
 (2) Any individual who makes an election under paragraph (1) to continue to be subject to subchapter III of chapter 83 of title 5 or chapter 84 of such title shall, so long as continually employed by the Institute without a break in service subject to such subchapter or such chapter 84, as the case may be, continue to be treated as an employee subject to such subchapter or such chapter 84, as the case may be. Employment by the Institute without a break of continuity in service shall be considered to be employment by the United States Government for the purpose of such subchapter or such chapter 84, as the case may be. The Institute shall be responsible for making the contributions required to be made by an employing agency under such subchapter or such chapter 84, as the case may be.
 

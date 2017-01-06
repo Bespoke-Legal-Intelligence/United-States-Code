@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-(1) Grants authorized under section 6204 of this title shall be available to make annual grants for the purpose of carrying out radio broadcasting to the following countries: The People's Republic of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam.
+(1) Grants authorized under section 6204 of this title shall be available to make annual grantsfor the purpose of carrying out radio broadcasting to Asia.
 
 (2) Such broadcasting service shall be referred to as "Radio Free Asia".
 
@@ -10,7 +10,7 @@
 
 Radio Free Asia shall—
 
-&emsp;(1) provide accurate and timely information, news, and commentary about events in the respective countries of Asia and elsewhere; and
+&emsp;(1) provide accurate and timely information, news, and commentary about events in Asia and elsewhere; and
 
 &emsp;(2) be a forum for a variety of opinions and voices from within Asian nations whose people do not fully enjoy freedom of expression.
 
@@ -58,19 +58,31 @@ Not later than 3 years after the date on which initial funding is provided for t
 
 #### (2) Consultation
 
-&emsp;The Chairman of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
+&emsp;The Chief Executive Officer of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
 
-#### (g) Not a Federal agency or instrumentality
+#### (g) Alternative grantee
+
+If the Chief Executive Officer determines at any time that Radio Free Asia is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
+
+#### (h) Not a Federal agency or instrumentality
 
 Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
-(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450; Pub. L. 110–321, §4, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–71, §1, Oct. 9, 2009, 123 Stat. 2058; Pub. L. 111–202, §3, July 13, 2010, 124 Stat. 1374.)
+(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450; Pub. L. 110–321, §4, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–71, §1, Oct. 9, 2009, 123 Stat. 2058; Pub. L. 111–202, §3, July 13, 2010, 124 Stat. 1374; Pub. L. 114–323, title VII, §703(a), Dec. 16, 2016, 130 Stat. 1941; Pub. L. 114–328, div. A, title XII, §1288(6), Dec. 23, 2016, 130 Stat. 2553.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (e)(2) and (g), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (e)(2) and (h), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–323, §703(a)(1), substituted "Asia." for "the following countries: The People's Republic of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam."
+
+Subsec. (b)(1). Pub. L. 114–323, §703(a)(2), struck out "the respective countries of" before "Asia".
+
+Subsec. (f)(2). Pub. L. 114–328, §1288(6)(A), substituted "Chief Executive Officer of the Board" for "Chairman of the Board".
+
+Subsecs. (g), (h). Pub. L. 114–328, §1288(6)(B), (C), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2010</b>—Subsec. (c)(2). Pub. L. 111–202, §3(1), struck out ", and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010" after "Government".
 
@@ -140,7 +152,7 @@ Pub. L. 111–202, §1, July 13, 2010, 124 Stat. 1373, provided that: "Congress 
 
 &emsp;"(7) Despite these attempts, RFA has successfully managed to reach its online audiences through proxies, cutting-edge software, and active republication and repostings by its audience.
 
-&emsp;"(8) RFA also provides forums for local opinions and experiences through message boards, podcasts,web logs (blogs), cell phone-distributed newscasts, and new media, including Facebook, Flickr, Twitter, and YouTube.
+&emsp;"(8) RFA also provides forums for local opinions and experiences through message boards, podcasts, web logs (blogs), cell phone-distributed newscasts, and new media, including Facebook, Flickr, Twitter, and YouTube.
 
 &emsp;"(9) Freedom House has documented that freedom of the press is in decline in nearly every region of the world, particularly in Asia, where none of the countries served by RFA have increased their freedom of the press during the past 5 years.
 

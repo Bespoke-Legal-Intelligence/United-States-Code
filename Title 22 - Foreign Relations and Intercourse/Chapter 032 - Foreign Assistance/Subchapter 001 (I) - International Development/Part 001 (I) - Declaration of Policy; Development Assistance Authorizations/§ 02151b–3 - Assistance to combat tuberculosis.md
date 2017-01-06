@@ -14,7 +14,7 @@ It is a major objective of the foreign assistance program of the United States t
 
 &emsp;(1) Reduce by half the tuberculosis death and disease burden from the 1990 baseline.
 
-&emsp;(2) Sustain or exceed the detection of at least 70 percent of sputum smear-positive cases of tuberculosis and the successful treatment of at least 85 percent of the cases detected in countries with established United States Agency for International Development tuberculosis programs.
+&emsp;(2) Sustain or exceed the detection of at least 70 percent of sputum smear-positive cases of tuberculosis and the successful treatment of at least 85 percent of the cases detected in countries with established UnitedStates Agency for International Development tuberculosis programs.
 
 &emsp;(3) In support of the Global Plan to Stop TB, the President shall establish a comprehensive, 5-year United States strategy to expand and improve United States efforts to combat tuberculosis globally, including a plan to support—
 
@@ -90,7 +90,7 @@ In this section:
 
 #### (2) DOTS-Plus
 
-&emsp;The term "DOTS-Plus" means a comprehensive tuberculosis management strategy that is built upon and works as a supplement to the standard DOTS strategy, and which takes into account specific issues (such as use of second line anti-tuberculosis drugs) that need to be addressed in areas where there is high prevalence of multi-drug resistant tuberculosis.
+&emsp;The term "DOTS-Plus" means a comprehensive tuberculosis management strategy that isbuilt upon and works as a supplement to the standard DOTS strategy, and which takes into account specific issues (such as use of second line anti-tuberculosis drugs) that need to be addressed in areas where there is high prevalence of multi-drug resistant tuberculosis.
 
 #### (3) Global Alliance for Tuberculosis Drug Development
 

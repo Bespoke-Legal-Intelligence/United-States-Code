@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-Subject to subsections (c) and (d) of this section, payment under this part may be made for inpatient hospital services or post-hospital extended care services furnished an individual in a religious nonmedical health care institution and for home health services furnished an individual by a religious nonmedical health care institution only if—
+Subject to subsections (c) and (d), payment under this part may be made for inpatient hospital services or post-hospital extended care services furnished an individual in a religious nonmedical health care institution and for home health services furnished an individual by a religious nonmedical health care institution only if—
 
-&emsp;(1) the individual has an election in effect for such benefits under subsection (b) of this section; and
+&emsp;(1) the individual has an election in effect for such benefits under subsection (b); and
 
 &emsp;(2) the individual has a condition such that the individual would qualify for benefits under this part for inpatient hospital services, extended care services, or home health services, respectively, if the individual were an inpatient or resident in a hospital or skilled nursing facility, or receiving services from a home health agency, that was not such an institution.
 
@@ -24,7 +24,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 &emsp;&emsp;&emsp;(ii) the individual's acceptance of nonexcepted medical treatment would be inconsistent with the individual's sincere religious beliefs.
 
-&emsp;&emsp;(B) A statement that the receipt of nonexcepted medical services shall constitute a revocation of the election and may limit further receipt of services described in subsection (a) of this section.
+&emsp;&emsp;(B) A statement that the receipt of nonexcepted medical services shall constitute a revocation of the election and may limit further receipt of services described in subsection (a).
 
 #### (3) Revocation
 
@@ -58,13 +58,13 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (1) Estimate of expenditures
 
-&emsp;Before the beginning of each fiscal year (beginning with fiscal year 2000), the Secretary shall estimate the level of expenditures under this part for services described in subsection (a) of this section for that fiscal year.
+&emsp;Before the beginning of each fiscal year (beginning with fiscal year 2000), the Secretary shall estimate the level of expenditures under this part for services described in subsection (a) for that fiscal year.
 
 #### (2) Adjustment in payments
 
 #### (A) Proportional adjustment
 
-&emsp;&emsp;If the Secretary determines that the level estimated under paragraph (1) for a fiscal year will exceed the trigger level (as defined in subparagraph (C)) for that fiscal year, the Secretary shall, subject to subparagraph (B), provide for such a proportional reduction in payment amounts under this part for services described in subsection (a) of this section for the fiscal year involved as will assure that such level (taking into account any adjustment under subparagraph (B)) does not exceed the trigger level for that fiscal year.
+&emsp;&emsp;If the Secretary determines that the level estimated under paragraph (1) for a fiscal year will exceed the trigger level (as defined in subparagraph (C)) for that fiscal year, the Secretary shall, subject to subparagraph (B), provide for such a proportional reduction in payment amounts under this part for services described in subsection (a) for the fiscal year involved as will assure that such level (taking into account any adjustment under subparagraph (B)) does not exceed the trigger level for that fiscal year.
 
 #### (B) Alternative adjustments
 
@@ -112,19 +112,19 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (d) Sunset
 
-If the Secretary determines that the level of expenditures described in subsection (c)(1) of this section for 3 consecutive fiscal years (with the first such year being not earlier than fiscal year 2002) exceeds the trigger level for such expenditures for such years (as determined under subsection (c)(2) of this section), benefits shall be paid under this part for services described in subsection (a) of this section and furnished on or after the first January 1 that occurs after such 3 consecutive years only with respect to an individual who has an election in effect under subsection (b) of this section as of such January 1 and only during the duration of such election.
+If the Secretary determines that the level of expenditures described in subsection (c)(1) for 3 consecutive fiscal years (with the first such year being not earlier than fiscal year 2002) exceeds the trigger level for such expenditures for such years (as determined under subsection (c)(2)), benefits shall be paid under this part for services described in subsection (a) and furnished on or after the first January 1 that occurs after such 3 consecutive years only with respect to an individual who has an election in effect under subsection (b) as of such January 1 and only during the duration of such election.
 
 #### (e) Annual report
 
-At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) of this section under this part and under State plans under subchapter XIX of this chapter. Such report shall include—
+At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submitto the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under State plans under subchapter XIX. Such report shall include—
 
-&emsp;(1) level of expenditures described in subsection (c)(1) of this section for the previous fiscal year and estimated for the fiscal year involved;
+&emsp;(1) level of expenditures described in subsection (c)(1) for the previous fiscal year and estimated for the fiscal year involved;
 
 &emsp;(2) trends in such level; and
 
 &emsp;(3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997,111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
 
 #### Amendments
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(vi) any additional funding projections that the Director of National Intelligence considers appropriate;
 
-&emsp;(B) a budget projection based on effective cost and schedule execution of current or planned major system acquisitions and application of Office of Management and Budget inflation estimates to future major system acquisitions;
+&emsp;(B) a budget projection based on effective cost and schedule execution of current orplanned major system acquisitions and application of Office of Management and Budget inflation estimates to future major system acquisitions;
 
 &emsp;(C) any additional assumptions and projections that the Director of National Intelligence considers appropriate; and
 

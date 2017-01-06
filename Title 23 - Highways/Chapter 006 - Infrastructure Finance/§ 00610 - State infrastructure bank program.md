@@ -100,7 +100,7 @@ Transit account.—Subject to subsection (j), the Secretary may permit a State e
 
 &emsp;(3)
 
-Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
+Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank,and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
 
 &emsp;(4)
 
@@ -166,7 +166,7 @@ Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank 
 
 Infrastructure Bank Requirements.—In order to establish an infrastructure bank under this section, the State establishing the bank shall—
 
-&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and therail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
+&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and the rail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
 
 &emsp;(2) ensure that the bank maintains on a continuing basis an investment grade rating on its debt, or has a sufficient level of bond or debt financing instrument insurance, to maintain the viability of the bank;
 
@@ -180,7 +180,7 @@ Infrastructure Bank Requirements.—In order to establish an infrastructure bank
 
 &emsp;(4) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603;
 
-&emsp;(5) ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in the case of a highway project, the facility has opened to traffic, whichever is later;
+&emsp;(5) ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in thecase of a highway project, the facility has opened to traffic, whichever is later;
 
 &emsp;(6) ensure that the term for repaying any loan will not exceed 30 years after the date of the first payment on the loan; and
 

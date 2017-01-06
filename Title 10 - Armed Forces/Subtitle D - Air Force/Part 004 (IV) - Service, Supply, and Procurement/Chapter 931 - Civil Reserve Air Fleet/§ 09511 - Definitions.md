@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;(5) The term "cargo-convertible aircraft" means a passenger aircraft equipped or designed so that all or substantially all of the main deck of the aircraft can be readily converted for the carriage of property or mail.
 
-&emsp;(6) The term "Civil Reserve Air Fleet" means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071),<sup>1</sup> or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
+&emsp;(6) The term "Civil Reserve Air Fleet" means those aircraft allocated, or identifiedfor allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 (50 U.S.C. 4511), or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
 &emsp;(7) The term "contractor" means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under section 9512 of this title to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
 
@@ -26,13 +26,11 @@ In this chapter:
 
 &emsp;(12) The term "Civil Reserve Air Fleet program" means the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
-(Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1125; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(k)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title XVI, §1636(a), Nov. 29, 1989, 103 Stat. 1609; Pub. L. 103–272, §5(b)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3031, Oct. 13, 1994, 108 Stat. 3334; Pub. L. 114–92, div. A, title X, §1085(b)(3), Nov. 25, 2015, 129 Stat. 1005.)
-
-#### References in Text
-
-Section 101 of the Defense Production Act of 1950, referred to in par. (6), was classified to section 2071 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4511 of Title 50.
+(Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1125; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(k)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title XVI, §1636(a), Nov. 29, 1989, 103 Stat. 1609; Pub. L. 103–272, §5(b)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3031, Oct. 13, 1994, 108 Stat. 3334; Pub. L. 114–92, div. A, title X, §1085(b)(3), Nov. 25, 2015, 129 Stat. 1005; Pub. L. 114–328, div. A, title X, §1081(b)(4)(C), Dec. 23, 2016, 130 Stat. 2419.)
 
 #### Amendments
+
+<b>2016</b>—Par. (6). Pub. L. 114–328 substituted "(50 U.S.C. 4511)" for "(50 U.S.C. App. 2071)".
 
 <b>2015</b>—Par. (12). Pub. L. 114–92 added par. (12).
 
@@ -44,7 +42,7 @@ Pub. L. 103–355, §3031(b)(1)(A), (B), inserted " 'civil aircraft'," before "
 
 Pub. L. 103–272 substituted "section 40102(a) of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)".
 
-Par. (6). Pub. L. 103–355, §3031(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which readas follows: "The term 'civil aircraft' means an aircraft other than a public aircraft."
+Par. (6). Pub. L. 103–355, §3031(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The term 'civil aircraft' means an aircraft other than a public aircraft."
 
 Par. (7). Pub. L. 103–355, §3031(b)(3), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
@@ -73,6 +71,4 @@ Par. (12). Pub. L. 101–189, §1636(a)(4), added par. (12).
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

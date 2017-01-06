@@ -18,7 +18,7 @@ For the purposes of this Act, the term—
 
 &emsp;(8) "exclusive economic zone" means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as "eastern special areas" in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990;
 
-&emsp;(9) "facility" means any structure, group of structures, equipment, or device (other than a vessel) which is used for one or more of the following purposes: exploring for, drilling for,producing, storing, handling, transferring, processing, or transporting oil. This term includes any motor vehicle, rolling stock, or pipeline used for one or more of these purposes;
+&emsp;(9) "facility" means any structure, group of structures, equipment, or device (other than a vessel) which is used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil. This term includes any motor vehicle, rolling stock, or pipeline used for one or more of these purposes;
 
 &emsp;(10) "foreign offshore unit" means a facility which is located, in whole or in part, in the territorial sea or on the continental shelf of a foreign country and which is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the seabed beneath the foreign country's territorial sea or from the foreign country's continental shelf;
 
@@ -76,7 +76,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;&emsp;(V) other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign;
 
-&emsp;&emsp;&emsp;(vi) notwithstanding subparagraph (B)(ii), a person that is a lender and thatholds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
+&emsp;&emsp;&emsp;(vi) notwithstanding subparagraph (B)(ii), a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
 
 &emsp;&emsp;&emsp;&emsp;(I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for oil handling or disposal practices related to the vessel or facility; or
 
@@ -106,7 +106,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;&emsp;(I) forecloses on the vessel or facility; and
 
-&emsp;&emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
+&emsp;&emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction),or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
 
 &emsp;&emsp;&nbsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
 
@@ -144,7 +144,7 @@ Pipelines.—In the case of a pipeline, any person owning or operating the pipel
 
 &emsp;&emsp;(F)
 
-Abandonment.—In the case of an abandoned vessel, onshore facility, deepwaterport, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 &emsp;(33) "Secretary" means the Secretary of the department in which the Coast Guard is operating;
 
@@ -174,7 +174,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwaterpo
 
 &emsp;&emsp;&emsp;(ii) holding a security interest or abandoning or releasing a security interest;
 
-&emsp;&emsp;&emsp;(iii) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
+&emsp;&emsp;&emsp;(iii) including in the terms of an extension of credit, or in a contract or securityagreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
 
 &emsp;&emsp;&emsp;(iv) monitoring or enforcing the terms and conditions of the extension of credit or security interest;
 
@@ -214,7 +214,7 @@ The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pu
 
 Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of Title 16, Conservation.
 
-The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to theCode, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 

@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §§83, 84, 39 Stat. 203, 204.
 
-In subsection (a), the word "supplies" is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, "supplies" includes stores, material, and equipment. The words "may buy or manufacture" are substituted for the words "is authorized to procure \* \* \* by purchase or manufacture". The words "within the limits ofavailable appropriations made by Congress" and "from time to time" are omitted as surplusage.
+In subsection (a), the word "supplies" is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, "supplies" includes stores, material, and equipment. The words "may buy or manufacture" are substituted for the words "is authorized to procure \* \* \* by purchase or manufacture". The words "within the limits of available appropriations made by Congress" and "from time to time" are omitted as surplusage.
 
 In subsection (b), the words "the Secretary concerned is satisfied" are substituted for the words "it shall be shown to the satisfaction of the Secretary of the Army". The words "buy any article issued by the Army or the Air Force" are substituted for the words "purchase, from the Department of the Army, of any article issued by any of the supply departments of the Army".
 

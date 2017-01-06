@@ -40,15 +40,15 @@ The Secretary is authorized to provide, through the Service, Indian tribes, and 
 
 #### (B) Certain activities
 
-&emsp;&emsp;Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
+&emsp;&emsp;Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>2</sup> and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
 
-(Pub. L. 94–437, title II, §204, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat.4806; amended Pub. L. 102–573, title II, §§204, 217(b)(3), title IX, §901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, §204, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4806; amended Pub. L. 102–573, title II, §§204, 217(b)(3), title IX, §901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
 Public Law 108–87, referred to in subsec. (c), is Pub. L. 108–87, Sept. 30, 2003, 117 Stat. 1054, known as the Department of Defense Appropriations Act, 2004. Title IV of the Act (117 Stat. 1067) is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 111–148 is based on sections 101(c)(1) and 123 of title I
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to determination of incidence of, and types of complications resulting from, diabetes among Indians, measures for treatment and control of diabetes among tribes, screening of each Indian receiving services from the Service, model diabetes projects, establishment by diabetes control officers of registry of patients with diabetes, and authorization of appropriations.
 
-Subsec. (c)(1). Pub. L. 111–148 struck out "through fiscal year 2000" before "each model diabetes project" in introductory provisions prior to general amendment of section. See above.
+Subsec. (c)(1). Pub. L. 111–148 struck out "through fiscal year 2000" before "each model diabetes project" inintroductory provisions prior to general amendment of section. See above.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–573, §901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted "paragraph (1)" for "subparagraph (A)" in par. (2), and struck out former par. (2) which read as follows: "Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians."
 
@@ -97,4 +97,6 @@ Subsec. (d)(4). Pub. L. 102–573, §204(2), added par. (4).
 Subsec. (e). Pub. L. 102–573, §217(b)(3), substituted "this section" for "subsection (c) of this section" and struck out at beginning "There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

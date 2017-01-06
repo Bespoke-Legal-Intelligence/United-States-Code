@@ -82,7 +82,7 @@ Display.—A donor acknowledgment shall be displayed—
 
 &emsp;&emsp;"(B)
 
-Guidelines.—The Secretary shall establish donor acknowledgment guidelines that take intoaccount the unique requirements of individual units and programs of the National Park System.
+Guidelines.—The Secretary shall establish donor acknowledgment guidelines that take into account the unique requirements of individual units and programs of the National Park System.
 
 &emsp;&emsp;"(C)
 

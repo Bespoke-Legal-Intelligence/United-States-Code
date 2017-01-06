@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-Not later than January 1 of each year, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the status of efforts during the preceding fiscal year under the Nuclear Materials Protection, Control, and Accounting Program of the Department of Energy to secure weapons-usable nuclear materials in countries where such materials have been identified as being at risk for theft or diversion.
+Not later than January 1 of each year, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the status of effortsduring the preceding fiscal year under the Nuclear Materials Protection, Control, and Accounting Program of the Department of Energy to secure weapons-usable nuclear materials in countries where such materials have been identified as being at risk for theft or diversion.
 
 #### (b) Contents
 

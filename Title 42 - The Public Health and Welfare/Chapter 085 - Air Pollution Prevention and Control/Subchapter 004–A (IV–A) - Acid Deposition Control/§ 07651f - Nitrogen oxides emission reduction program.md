@@ -48,7 +48,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 > The permitting authority shall issue an operating permit for the unit in question, in accordance with section 7651g of this title and part B <sup>3</sup> of title III—
 
-&emsp;(i) that permits the unit during the demonstration period referred to in subparagraph (2) above, to emit at a rate in excess of the applicable emission rate;
+&emsp;(i) that permits the unit during the demonstration period referred to in subparagraph\(2) above, to emit at a rate in excess of the applicable emission rate;
 
 &emsp;(ii) at the conclusion of the demonstration period to revise the operating permit to reflect the alternative emission rate demonstrated in paragraphs (2) and (3) above.
 

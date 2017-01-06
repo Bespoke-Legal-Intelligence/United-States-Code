@@ -24,7 +24,7 @@ The Administrator may make grants to a State, to be transmitted through the Stat
 
 The requirements of this subsection are met with respect to a unit of general local government if—
 
-&emsp;(1) the unit is in compliance with the requirements of part B of subchapter II of this chapter;
+&emsp;(1) the unit is in compliance with the requirements of part B of subchapter II;
 
 &emsp;(2) the unit has submitted to the State advisory group a minimum 3-year comprehensive plan outlining the unit's local front end plans for investment for delinquency prevention and early intervention activities;
 
@@ -48,7 +48,7 @@ In considering grant applications under this section, the Administrator shall gi
 
 &emsp;(3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
 
-&emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; <sup>2</sup> and
+&emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II; <sup>2</sup> and
 
 &emsp;(5) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness.
 
@@ -56,7 +56,7 @@ In considering grant applications under this section, the Administrator shall gi
 
 #### (1) In general
 
-&emsp;The Administrator shall make grants under this section, on a competitive basis, to eligibleIndian tribes or consortia of Indian tribes, as described in paragraph (2)—
+&emsp;The Administrator shall make grants under this section, on a competitive basis, to eligible Indian tribes or consortia of Indian tribes, as described in paragraph (2)—
 
 &emsp;&emsp;(A) to support and enhance—
 
@@ -88,7 +88,7 @@ In considering grant applications under this section, the Administrator shall gi
 
 #### References in Text
 
-Part C of subchapter II of this chapter, referred to in subsec. (c)(4), was in the original "part C of this subtitle", and was translated as reading "part C of title II", meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
+Part C of subchapter II, referred to in subsec. (c)(4), was in the original "part C of this subtitle", and was translated as reading "part C of title II", meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
 
 #### Codification
 

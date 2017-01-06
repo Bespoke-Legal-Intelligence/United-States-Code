@@ -60,7 +60,7 @@ Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 198
 
 Subsecs. (a)(5), (c), and (d) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-Subsec. (a)(6) of this section applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(A) of Pub. L. 96–417.
+Subsec. (a)(6) of this section applicable with respect to civil actions commenced on or after the 90th dayafter Nov. 1, 1980, see section 701(c)(1)(A) of Pub. L. 96–417.
 
 #### Application of 1993 Amendment
 
@@ -68,5 +68,5 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

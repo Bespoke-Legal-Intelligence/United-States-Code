@@ -4,7 +4,7 @@
 
 Appointment.—(1) There is a Vice Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
 
-(2) The Chairman and Vice Chairman may not be members of the same armed force. However, the President may waive the restriction in the preceding sentence for a limited period of time in order to provide for the orderly transition of officers appointed to serve in the positions of Chairman and Vice Chairman.
+(2) The Chairman and Vice Chairman may not be members of the same armed force. However,the President may waive the restriction in the preceding sentence for a limited period of time in order to provide for the orderly transition of officers appointed to serve in the positions of Chairman and Vice Chairman.
 
 (3) The Vice Chairman serves at the pleasure of the President for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
 
@@ -14,7 +14,7 @@ Requirement for Appointment.—(1) The President may appoint an officer as Vice 
 
 &emsp;(A) has the joint specialty under section 661 of this title; and
 
-&emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title) as a general or flag officer.
+&emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) <sup>1</sup> of this title) as a general or flag officer.
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -34,9 +34,31 @@ Succession After Chairman and Vice Chairman.—When there is a vacancy in the of
 
 Grade and Rank.—The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1008; amended Pub. L. 100–456, div. A, title V, §519(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–484, div. A, title IX, §911(b)(1), Oct. 23, 1992, 106 Stat. 2473.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1008; amended Pub. L. 100–456, div. A, title V, §519(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–484, div. A, title IX, §911(b)(1), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 114–328, div. A, title IX, §921(d)(1), (2), Dec. 23, 2016, 130 Stat. 2354.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 114–328, div. A, title IX, §921(d), Dec. 23, 2016, 130 Stat. 2354, provided that, effective on Jan. 1, 2021, and applicable to individuals appointed as Vice Chairman of the Joint Chiefs of Staff on or after that date, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (3), by striking "for a term of two years" and all that follows and inserting "for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments."; and</i>
+
+<i>(2) by adding at the end the following new paragraph:</i>
+
+<i>"(4)(A) The Vice Chairman shall not be eligible for promotion to the position of Chairman or any other position in the armed forces.</i>
+
+<i>"(B) The President may waive subparagraph (A) if the President determines such action is necessary in the national interest."</i>
+
+<i>See 2016 Amendment notes below.</i>
+
+#### References in Text
+
+Section 664(f) of this title, referred to in subsec. (b)(1)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, §510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–328, §921(d)(1), substituted "for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments." for "for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments."
+
+Subsec. (a)(4). Pub. L. 114–328, §921(d)(2), added par. (4).
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–484, §911(b)(1)(A), substituted "the duties prescribed for him as a member of the Joint Chiefs of Staff and such other" for "such".
 
@@ -46,11 +68,17 @@ Participation in JCS Meetings.—The Vice Chairman may participate in all meetin
 
 <b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–456 substituted "completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "served in at least one joint duty assignment (as defined under section 668(b) of this title)".
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title IX, §921(d)(3), Dec. 23, 2016, 130 Stat. 2354, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on January 1, 2021, and shall apply to individuals appointed as Vice Chairman of the Joint Chiefs of Staff on or after that date."
+
 #### Extension of Term of Office of Vice Chairman of Joint Chiefs of Staff
 
-Pub. L. 100–526, title I, §107, Oct. 24, 1988, 102 Stat. 2625, authorized President to extend until June 1, 1989,term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
+Pub. L. 100–526, title I, §107, Oct. 24, 1988, 102 Stat. 2625, authorized President to extend until June 1, 1989, term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
 
 #### Waiver of Qualifications for Appointment as Vice Chairman of Joint Chiefs of Staff
 
 Pub. L. 99–433, title II, §204(c), Oct. 1, 1986, 100 Stat. 1011, authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

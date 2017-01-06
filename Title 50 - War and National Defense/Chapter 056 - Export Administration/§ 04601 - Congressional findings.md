@@ -40,7 +40,7 @@ A prior section 2401 of the former Appendix to this title, Pub. L. 91–184, §2
 
 #### Amendments
 
-<b>1993</b>—Pars. (11) to (13). Pub. L. 103–199 redesignated pars. (12) and (13) as (11) and (12), respectively, andstruck out former par. (11) which read as follows: "The acquisition of national security sensitive goods and technology by the Soviet Union and other countries the actions or policies of which run counter to the national security interests of the United States, has led to the significant enhancement of Soviet bloc military-industrial capabilities. This enhancement poses a threat to the security of the United States, its allies, and other friendly nations, and places additional demands on the defense budget of the United States."
+<b>1993</b>—Pars. (11) to (13). Pub. L. 103–199 redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: "The acquisition of national security sensitive goods and technology by the Soviet Union and other countries the actions or policies of which run counter to the national security interests of the United States, has led to the significant enhancement of Soviet bloc military-industrial capabilities. This enhancement poses a threat to the security of the United States, its allies, and other friendly nations, and places additional demands on the defense budget of the United States."
 
 <b>1985</b>—Par. (2). Pub. L. 99–64, §102(1), substituted "by earning foreign exchange, thereby contributing favorably to the trade balance" for "by strengthening the trade balance and the value of the United States dollar, thereby reducing inflation".
 
@@ -172,9 +172,9 @@ General Provisions
 
 #### Extension of Term of President's Export Council
 
-Term of the President's Export Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Export Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extensions of term of the President's Export Council were contained in the following prior Executive Orders:
+Previous extensions of term of President's Export Council were contained in the following prior Executive Orders:
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -242,7 +242,7 @@ Sec. 2. <i>Establishment</i>. (a) The Secretary of Homeland Security shall estab
 
 (ix) other executive branch departments, agencies, or offices as the President, from time to time, may designate.
 
-(c) The Center shall have a Director, who shall be a full-time senior officer or employee of the Department of Homeland Security, designated by the Secretary of Homeland Security. The Center shall have two Deputy Directors, who shall be full-time senior officers or employees of the Department of Commerce and the Department of Justice, designated by the Secretary of Commerce and the Attorney General, respectively, detailed to the Center and reporting to the Director. TheCenter shall also have an Intelligence Community Liaison, who shall be a full-time senior officer or employee of the Federal Government, designated by the Director of National Intelligence, and detailed or assigned to the Center.
+(c) The Center shall have a Director, who shall be a full-time senior officer or employee of the Department of Homeland Security, designated by the Secretary of Homeland Security. The Center shall have two Deputy Directors, who shall be full-time senior officers or employees of the Department of Commerce and the Department of Justice, designated by the Secretary of Commerce and the Attorney General, respectively, detailed to the Center and reporting to the Director. The Center shall also have an Intelligence Community Liaison, who shall be a full-time senior officer or employee of the Federal Government, designated by the Director of National Intelligence, and detailed or assigned to the Center.
 
 (d) The Center shall have a full-time staff reporting to the Director. To the extent permitted by law, executive departments and agencies enumerated in subsection (b) of this section are encouraged to detail or assign their employees to the Center without reimbursement.
 

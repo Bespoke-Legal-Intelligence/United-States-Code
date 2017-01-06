@@ -1,6 +1,6 @@
 ### §1114. Effective date
 
-(a) Except as provided in subsections (b), (c), and (d) of this section, this part shall take effect on January 1, 1975.
+(a) Except as provided in subsections (b), (c), and (d), this part shall take effect on January 1, 1975.
 
 (b)(1) The provisions of this part authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974.
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) if the party in interest ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if such provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of title 26) or the corresponding provisions of prior law; or
 
-&emsp;(5) the sale, exchange, or other disposition of property which is owned by a plan on June 30,1974, and all times thereafter, to a party in interest, if such plan is required to dispose of such property in order to comply with the provisions of section 1107(a) of this title (relating to the prohibition against holding excess employer securities and employer real property), and if the plan receives not less than adequate consideration.
+&emsp;(5) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a party in interest, if such plan is required to dispose of such property in order to comply with the provisions of section 1107(a) of this title (relating to the prohibition against holding excess employer securities and employer real property), and if the plan receives not less than adequate consideration.
 
 (d) Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) of this Act shall be treated for purposes of this part (but not for purposes of section 1144 of this title) as an act or omission occurring before the effective date of this part.
 
@@ -40,7 +40,7 @@ Section 2003(c)(1)(B) of this Act, referred to in subsec. (d), is section 2003(c
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–239, §7894(e)(6), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text, and substituted "or the corresponding provisions of prior law)" for ") or the corresponding provisions of prior law".
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–239, §7894(e)(6), substituted "Internal Revenue Code of 1986" for "InternalRevenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text, and substituted "or the corresponding provisions of prior law)" for ") or the corresponding provisions of prior law".
 
 Subsec. (e). Pub. L. 101–239, §7894(h)(4), added subsec. (e).
 

@@ -88,7 +88,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(i) the productivity of the employee or employees identified in the petition and the conditions under which such productivity was measured; and
 
-&emsp;(ii) the productivity of other employees performing work of essentially the same type andquality for other employers in the same vicinity.
+&emsp;(ii) the productivity of other employees performing work of essentially the same type and quality for other employers in the same vicinity.
 
 (E) The administrative law judge shall issue a decision within thirty days after the hearing provided for in subparagraph (B). Such action shall be deemed to be a final agency action unless within thirty days the Secretary grants a request to review the decision of the administrative law judge. Either the petitioner or the employer may request review by the Secretary within fifteen days of the date of issuance of the decision by the administrative law judge.
 

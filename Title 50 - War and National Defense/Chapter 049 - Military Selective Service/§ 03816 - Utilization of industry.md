@@ -10,7 +10,7 @@ It shall be the duty of any person with whom an order is placed pursuant to the 
 
 #### (c) Failure to give precedence; Government possession
 
-In case any person with whom an order is placed pursuant to the provisions of subsection (a) of this section refuses or fails—
+In case any person with whom an order is placed pursuant to the provisions of subsection (a) refuses or fails—
 
 &emsp;(1) to give such order such precedence with respect to all other orders (Government or private) theretofore or thereafter placed with such person as the President may have prescribed;
 
@@ -18,13 +18,13 @@ In case any person with whom an order is placed pursuant to the provisions of su
 
 &emsp;(3) to produce the kind or quality of articles or materials ordered; or
 
-&emsp;(4) to furnish the quantity, kind, and quality of articles or materials ordered at such price as shall be negotiated between such person and the Government agency concerned; or in the event of failure to negotiate a price, to furnish the quantity, kind, and quality of articles or materials ordered at such price as he may subsequently be determined to be entitled to receive under subsection (d);
+&emsp;(4) to furnish the quantity, kind, and quality of articles or materials ordered at such priceas shall be negotiated between such person and the Government agency concerned; or in the event of failure to negotiate a price, to furnish the quantity, kind, and quality of articles or materials ordered at such price as he may subsequently be determined to be entitled to receive under subsection (d);
 
 > the President is authorized to take immediate possession of any plant, mine, or other facility of such person and to operate it, through any Government agency, for the production of such articles or materials as may be required by the Government.
 
 #### (d) Payment of compensation by United States
 
-Fair and just compensation shall be paid by the United States (1) for any articles or materials furnished pursuant to an order placed under subsection (a) of this section, or (2) as rental for any plant, mine, or other facility of which possession is taken under subsection (c).
+Fair and just compensation shall be paid by the United States (1) for any articles or materials furnished pursuant to an order placed under subsection (a), or (2) as rental for any plant, mine, or other facility of which possession is taken under subsection (c).
 
 #### (e) Application of Federal and State laws governing employees
 

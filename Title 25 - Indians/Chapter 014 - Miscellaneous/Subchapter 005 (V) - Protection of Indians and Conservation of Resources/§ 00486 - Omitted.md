@@ -1,0 +1,6 @@
+### §486. Omitted
+
+#### Codification
+
+Section, act July 14, 1954, ch. 472, §3, 68 Stat. 468, which authorized prescription of regulations to carry out sections 484 to 486 of this title, was omitted from the Code as being of special and not general application.
+

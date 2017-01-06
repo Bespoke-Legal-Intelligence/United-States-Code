@@ -56,7 +56,7 @@ In this section:
 
 #### (h) Authorization of appropriations
 
-Of the funds appropriated annually to the Centers for Disease Control and Prevention for HIV/AIDS prevention activities, $30,000,000 shall be made available for each of the fiscal years 2007 through 2009 for grants under subsection (a), of which $20,000,000 shall be made available for grants to States with the policies described insubsection (b)(1), and $10,000,000 shall be made available for grants to States with the policies described in subsection (b)(2). Funds provided under this section are available until expended.
+Of the funds appropriated annually to the Centers for Disease Control and Prevention for HIV/AIDS prevention activities, $30,000,000 shall be made available for each of the fiscal years 2007 through 2009 for grants under subsection (a), of which $20,000,000 shall be made available for grants to States with the policies described in subsection (b)(1), and $10,000,000 shall be made available for grants to States with the policies described in subsection (b)(2). Funds provided under this section are available until expended.
 
 (July 1, 1944, ch. 373, title XXVI, §2625, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1369; amended Pub. L. 106–345, title II, §212(a), Oct. 20, 2000, 114 Stat. 1339; Pub. L. 109–415, title II, §209, title VII, §703, Dec. 19, 2006, 120 Stat. 2802, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
@@ -76,7 +76,7 @@ Subsec. (c)(4). Pub. L. 106–345, §212(a)(3), added par. (4).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section asin effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date
 

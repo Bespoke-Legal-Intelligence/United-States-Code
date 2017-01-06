@@ -108,7 +108,7 @@ A consumer product safety rule shall express in the rule itself the risk of inju
 
 (1) Each consumer product safety rule shall specify the date such rule is to take effect not exceeding 180 days from the date promulgated, unless the Commission finds, for good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. The effective date of a consumer product safety standard under this chapter shall be set at a date at least 30 days after the date of promulgation unless the Commission for good cause shown determines that an earlier effective date is in the public interest. In no case may the effective date be set at a date which is earlier than the date of promulgation. A consumer product safety standard shall be applicable only to consumer products manufactured after the effective date.
 
-(2) The Commission may by rule prohibit a manufacturer of a consumer product from stockpiling any product to which a consumer product safety rule applies, or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies, so as to prevent such manufacturer from circumventing the purpose of suchrule, regulation, standard, or ban. For purposes of this paragraph, the term "stockpiling" means manufacturing or importing a product between the date of promulgation of such rule, regulation, standard, or ban and its effective date at a rate which is significantly greater (as determined under the rule under this paragraph) than the rate at which such product was produced or imported during a base period (prescribed in the rule under this paragraph) ending before the date of promulgation of the rule, regulation, standard, or ban.
+(2) The Commission may by rule prohibit a manufacturer of a consumer product from stockpiling any product to which a consumer product safety rule applies, or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies, so as to prevent such manufacturer from circumventing the purpose of such rule, regulation, standard, or ban. For purposes of this paragraph, the term "stockpiling" means manufacturing or importing a product between the date of promulgation of such rule, regulation, standard, or ban and its effective date at a rate which is significantly greater (as determined under the rule under this paragraph) than the rate at which such product was produced or imported during a base period (prescribed in the rule under this paragraph) ending before the date of promulgation of the rule, regulation, standard, or ban.
 
 #### (h) Amendment or revocation of rule
 
@@ -122,7 +122,7 @@ The Commission shall grant, in whole or in part, or deny any petition under sect
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §§204(a)(1)(A), 235(c)(3), substituted "may be commenced" for "shall be commenced" in introductory provisions and "the appropriate Congressional committees" for "the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives" in concluding provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §§204(a)(1)(A), 235(c)(3), substituted "may be commenced" for "shallbe commenced" in introductory provisions and "the appropriate Congressional committees" for "the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives" in concluding provisions.
 
 Subsec. (b). Pub. L. 110–314, §204(a)(1)(B), which directed amendment of subsec. (b) by substituting "in a notice" for "in the notice", was executed by making the substitution the first place the words appeared in par. (1) after "risk of injury identified", to reflect the probable intent of Congress.
 
@@ -157,4 +157,8 @@ Subsecs. (f) to (h). Pub. L. 97–35 added subsecs. (f) to (h).
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 

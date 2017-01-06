@@ -46,7 +46,7 @@ The Secretary is authorized to provide financial, technical, and related assista
 
 &emsp;(3) procure, produce, and distribute tree seeds and trees for the purpose of establishing forests, windbreaks, shelterbelts, woodlots, and other plantings;
 
-&emsp;(4) plant tree seeds and seedlings on non-Federal forest lands that are suitable for the production of timber, recreation, and for other benefits associated with the growing of trees;
+&emsp;(4) plant tree seeds and seedlings on non-Federal forest lands that are suitable for theproduction of timber, recreation, and for other benefits associated with the growing of trees;
 
 &emsp;(5) plan, organize, and implement measures on non-Federal forest lands, including thinning, prescribed burning, and other silvicultural activities designed to increase the quantity and improve the quality of trees and other vegetation, fish and wildlife habitat, and water yielded therefrom; and
 

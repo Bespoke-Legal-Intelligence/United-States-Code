@@ -10,11 +10,11 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(1) sue and be sued in any court of record of a State having general jurisdiction, or in any United States district court, and jurisdiction is conferred upon such district court to determine such controversies without regard to the amount in controversy; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Administrator or his property;
 
-&emsp;(2) under regulations prescribed by him, assign or sell at public or private sale, or otherwise dispose of for cash or credit, in his discretion and upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any evidence of debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of loans granted under this chapter, and to collect or compromise all obligations assigned to or held by him and all legal or equitable rights accruing to him in connection with the payment of such loans until such time as such obligations may be referred to the Attorney General for suit or collection;
+&emsp;(2) under regulations prescribed by him, assign or sell at public or private sale, or otherwise dispose of for cash or credit, in his discretion and upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any evidenceof debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of loans granted under this chapter, and to collect or compromise all obligations assigned to or held by him and all legal or equitable rights accruing to him in connection with the payment of such loans until such time as such obligations may be referred to the Attorney General for suit or collection;
 
 &emsp;(3) deal with, complete, renovate, improve, modernize, insure, or rent, or sell for cash or credit upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any real property conveyed to or otherwise acquired by him in connection with the payment of loans granted under this chapter;
 
-&emsp;(4) pursue to final collection, by way of compromise or otherwise, all claims against third parties assigned to the Administrator in connection with loans made by him. This shall include authority to obtain deficiency judgments or otherwise in the case of mortgages assigned to the Administrator. Section 6101 of title 41 shall not be construed to apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Administrator as a result of loans made under this chapter if the premium therefor or the amount thereof does not exceed $1,000. The power to convey and to execute in the name of the Administrator deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real property or any interest therein acquired by the Administrator pursuant to the provisions of this chapter may be exercised by the Administrator or by any officer or agentappointed by him without the execution of any express delegation of power or power of attorney. Nothing in this section shall be construed to prevent the Administrator from delegating such power by order or by power of attorney, in his discretion, to any officer or agent he may appoint;
+&emsp;(4) pursue to final collection, by way of compromise or otherwise, all claims against third parties assigned to the Administrator in connection with loans made by him. This shall include authority to obtain deficiency judgments or otherwise in the case of mortgages assigned to the Administrator. Section 6101 of title 41 shall not be construed to apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Administrator as a result of loans made under this chapter if the premium therefor or the amount thereof does not exceed $1,000. The power to convey and to execute in the name of the Administrator deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real property or any interest therein acquired by the Administrator pursuant to the provisions of this chapter may be exercised by the Administrator or by any officer or agent appointed by him without the execution of any express delegation of power or power of attorney. Nothing in this section shall be construed to prevent the Administrator from delegating such power by order or by power of attorney, in his discretion, to any officer or agent he may appoint;
 
 &emsp;(5) acquire, in any lawful manner, any property (real, personal, or mixed, tangible or intangible), whenever deemed necessary or appropriate to the conduct of the activities authorized in sections 636(a) and 636(b) of this title;
 
@@ -40,7 +40,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;&emsp;(D) to recover the direct, incremental cost involved in the production and dissemination of compilations of information produced by the Administration under the authority of this chapter and the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
 
-&emsp;(13) collect, retain and utilize, subject to approval in appropriations Acts, any amounts collected by fiscal transfer agents and not used by such agent as payment of the cost of loan pooling or debenture servicing operations, except that amounts collected underthis paragraph and paragraph (12) shall be utilized solely to facilitate the administration of the program that generated the excess amounts; and
+&emsp;(13) collect, retain and utilize, subject to approval in appropriations Acts, any amounts collected by fiscal transfer agents and not used by such agent as payment of the cost of loan pooling or debenture servicing operations, except that amounts collected under this paragraph and paragraph (12) shall be utilized solely to facilitate the administration of the program that generated the excess amounts; and
 
 &emsp;(14) require any lender authorized to make loans under section 636 of this title to pay examination and review fees, which shall be deposited in the account for salaries and expenses of the Administration, and shall be available for the costs of examinations, reviews, and other lender oversight activities.
 
@@ -74,7 +74,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(iii) by a combination of the payments described in clause (i) and clause (ii).
 
-(B) In addition to requiring the small business concern to execute the agreement described in subparagraph (A), the Administration shall, prior to the undertaking or suspension of the obligation, take such action, and require the small business concern to take such action as the Administration deems appropriate in the circumstances, including the provision of such security as the Administration deems necessary or appropriate to insure that the rights and interests of the lender (Small Business Administration or participant) will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
+(B) In addition to requiring the small business concern to execute the agreement described insubparagraph (A), the Administration shall, prior to the undertaking or suspension of the obligation, take such action, and require the small business concern to take such action as the Administration deems appropriate in the circumstances, including the provision of such security as the Administration deems necessary or appropriate to insure that the rights and interests of the lender (Small Business Administration or participant) will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
 
 (5) The term "required payments" with respect to any loan means payments of principal and interest under the loan.
 
@@ -86,7 +86,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(B) all fees due the Administration on a guaranteed loan shall have been paid in full prior to any sale; and
 
-&emsp;(C) each loan, except each loan made under section 636(a)(14) of this title, shall have beenfully disbursed to the borrower prior to any sale.
+&emsp;(C) each loan, except each loan made under section 636(a)(14) of this title, shall have been fully disbursed to the borrower prior to any sale.
 
 (2) After a loan is sold in the secondary market, the lender shall remain obligated under its guarantee agreement with the Administration, and shall continue to service the loan in a manner consistent with the terms and conditions of such agreement.
 
@@ -148,7 +148,13 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 #### (B) Jurisdiction
 
-&emsp;&emsp;The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Office of Hearings and Appeals shall hear appeals of agency actions under or pursuant to this chapter, the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations, and shall hear such other matters as the Administrator may determine appropriate.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;The Office of Hearings and Appeals shall not adjudicate disputes that require a hearing on the record, except disputes pertaining to the small business programs described in this chapter.
 
 #### (C) Associate Administrator
 
@@ -202,11 +208,11 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;In this subsection, the term "Hearing Officer" means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.
 
-(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452; Pub. L. 111–240, title I, §1117, Sept. 27, 2010, 124 Stat. 2509; Pub. L. 114–92, div. A, title VIII, §869(a)(1), Nov. 25, 2015, 129 Stat. 936.)
+(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452; Pub. L. 111–240, title I, §1117, Sept. 27, 2010, 124 Stat. 2509; Pub. L. 114–92, div. A, title VIII, §869(a)(1), Nov. 25, 2015, 129 Stat. 936; Pub. L. 114–328, div. A, title XVIII, §1833(a), Dec. 23, 2016, 130 Stat. 2661.)
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsecs. (b)(12)(C), (D) and (i)(1)(B) is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsecs. (b)(12)(C), (D) and (i)(1)(B)(i), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 Subsection (h)(2) of this section, referred to in subsec. (g)(4)(A), was redesignated subsec. (h)(1)(B) by Pub. L. 104–208, div. D, title II, §205(a)(1), (2), Sept. 30, 1996, 110 Stat. 3009–738.
 
@@ -227,6 +233,8 @@ In subsec. (d), "Section 3324(a) and (b) of title 31" substituted for "Section 3
 Prior similar provisions were contained in section 205 of act July 30, 1953, ch. 282, title II, 67 Stat. 234, as amended by act Aug. 9, 1955, ch. 628, §4, 69 Stat. 547, which was classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (i)(1)(B). Pub. L. 114–328 amended subpar. (B) generally. Prior to amendment, text read as follows: "The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations."
 
 <b>2015</b>—Subsec. (i). Pub. L. 114–92 added subsec. (i).
 
@@ -292,7 +300,7 @@ Pub. L. 104–36, §8, Oct. 12, 1995, 109 Stat. 297, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan made or guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
+In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan madeor guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
 
 "(b)
 
@@ -344,7 +352,7 @@ Pub. L. 102–366, title II, §226, Sept. 4, 1992, 106 Stat. 1001, provided that
 
 #### Small Business Loan Secondary Market Study
 
-Pub. L. 102–366, title III, §311, Sept. 4, 1992, 106 Stat. 1005, directed Secretary of the Treasury, Director of Congressional Budget Office, and Chairman of Securities and Exchange Commission, in consultation with Administrator of Small Business Administration, to conduct a study of potential benefits of, and legal, regulatory, and market-based barriers to, developing a secondary market for loans to small businesses, specified considerations to be included in the study, and required that, not later than 1 year after Sept. 4, 1992, a report be submitted to Congress on results of the study, including recommendations for legislation to facilitate development of a secondary market for loans to small businesses.
+Pub. L. 102–366, title III, §311, Sept. 4, 1992, 106 Stat. 1005, directed Secretary of the Treasury, Director of Congressional Budget Office, and Chairman of Securities and Exchange Commission, in consultation with Administrator of Small Business Administration, to conduct a study of potential benefits of, and legal, regulatory, and market-based barriers to, developing a secondary market for loans to small businesses, specified considerations to be included in the study, and required that, not later than 1 year after Sept. 4, 1992, a report be submitted to Congress on results of the study, including recommendations for legislation to facilitatedevelopment of a secondary market for loans to small businesses.
 
 #### Appropriations Not Authorized
 

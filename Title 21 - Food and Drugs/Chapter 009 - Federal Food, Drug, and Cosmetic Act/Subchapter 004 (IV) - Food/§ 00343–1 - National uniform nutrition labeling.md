@@ -1,6 +1,6 @@
 ### §343–1. National uniform nutrition labeling
 
-(a) Except as provided in subsection (b) of this section, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
+(a) Except as provided in subsection (b), no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
 
 &emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
 
@@ -14,13 +14,13 @@
 
 > Paragraph (3) shall take effect in accordance with section 6(b) of the Nutrition Labeling and Education Act of 1990.
 
-(b) Upon petition of a State or a political subdivision of a State, the Secretary may exempt from subsection (a) of this section, under such conditions as may be prescribed by regulation, any State or local requirement that—
+(b) Upon petition of a State or a political subdivision of a State, the Secretary may exempt from subsection (a), under such conditions as may be prescribed by regulation, any State or local requirement that—
 
 &emsp;(1) would not cause any food to be in violation of any applicable requirement under Federal law,
 
 &emsp;(2) would not unduly burden interstate commerce, and
 
-&emsp;(3) is designed to address a particular need for information which need is not met by the requirements of the sections referred to in subsection (a) of this section.
+&emsp;(3) is designed to address a particular need for information which need is not met by the requirements of the sections referred to in subsection (a).
 
 (June 25, 1938, ch. 675, §403A, as added Pub. L. 101–535, §6(a), Nov. 8, 1990, 104 Stat. 2362; amended Pub. L. 102–108, §2(b), Aug. 17, 1991, 105 Stat. 549; Pub. L. 103–396, §3(a), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 108–282, title II, §203(c)(2), Aug. 2, 2004, 118 Stat. 908; Pub. L. 111–148, title IV, §4205(c), Mar. 23, 2010, 124 Stat. 576.)
 
@@ -88,9 +88,9 @@ Pub. L. 101–535, §6(b), Nov. 8, 1990, 104 Stat. 2363, provided that:
 
 "(2) The contract under paragraph (1) shall provide that the study required by such paragraph shall be completed within 6 months of the date of the enactment of this Act \[Nov. 8, 1990\].
 
-"(3)(A) Within 9 months of the date of the enactment of this Act, the Secretary shall publish a proposed list of sections which are adequately being implemented by regulations as determined under paragraph (1)(B) and sections which are not adequately being implemented by regulations as so determined. After publication of the lists, the Secretary shall provide 60 days for comments on such lists.
+"(3)(A) Within 9 months of the date of the enactment of this Act, the Secretary shall publish a proposed list of sections which are adequately being implemented by regulations as determined under paragraph (1)(B) and sections which are not adequately being implemented by regulations as so determined. After publication ofthe lists, the Secretary shall provide 60 days for comments on such lists.
 
-"(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list of sections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect asto any food in interstate commerce any requirement which is not identical to the requirement of such section.
+"(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list of sections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
 
 "(C) Within 24 months of the date of the enactment of this Act, the Secretary shall publish proposed revisions to the regulations found to be inadequate under subparagraph (B) and within 30 months of such date shall issue final revisions. Upon the effective date of such final revisions, no State or political subdivision may establish or continue in effect any requirement which is not identical to the requirement of the section which had its regulations revised in accordance with this subparagraph.
 

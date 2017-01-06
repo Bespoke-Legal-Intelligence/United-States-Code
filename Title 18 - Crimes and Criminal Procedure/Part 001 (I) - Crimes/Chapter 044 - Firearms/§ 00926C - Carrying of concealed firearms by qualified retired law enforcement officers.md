@@ -16,7 +16,7 @@
 
 &emsp;(3)(A) before such separation, served as a law enforcement officer for an aggregate of 10 years or more; or
 
-&emsp;(B) separated from service with such agency, after completing any applicable probationary period of such service, due to a service-connected disability, as determined by such agency;
+&emsp;(B) separated from service with such agency, after completing any applicable probationaryperiod of such service, due to a service-connected disability, as determined by such agency;
 
 &emsp;(4) during the most recent 12-month period, has met, at the expense of the individual, the standards for qualification in firearms training for active law enforcement officers, as determined by the former agency of the individual, the State in which the individual resides or, if the State has not established such standards, either a law enforcement agency within the State in which the individual resides or the standards used by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State;
 
@@ -82,7 +82,7 @@ Subsec. (c)(3)(B). Pub. L. 111–272, §2(c)(1)(C)(ii), substituted "separated" 
 
 Subsec. (c)(4). Pub. L. 111–272, §2(c)(1)(D), added par. (4) and struck out former par. (4) which read as follows: "has a nonforfeitable right to benefits under the retirement plan of the agency;".
 
-Subsec. (c)(5). Pub. L. 111–272, §2(c)(1)(E), added par. (5) and struck out former par. (5) which read as follows: "during the most recent 12-month period, has met, at the expense of the individual, the State's standards for training and qualification for active law enforcement officers to carry firearms;".
+Subsec. (c)(5). Pub. L. 111–272, §2(c)(1)(E), added par. (5) and struck out former par. (5) which read as follows: "during the most recent 12-month period, has met, atthe expense of the individual, the State's standards for training and qualification for active law enforcement officers to carry firearms;".
 
 Subsec. (d)(1). Pub. L. 111–272, §2(c)(2)(A), substituted "separated" for "retired" and "to meet the active duty standards for qualification in firearms training as established by the agency to carry a firearm of the same type as the concealed firearm" for "to meet the standards established by the agency for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm".
 

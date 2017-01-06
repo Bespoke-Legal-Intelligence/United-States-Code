@@ -2,11 +2,11 @@
 
 #### (a) Scope of activities
 
-The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII of this chapter.
+The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII.
 
 #### (b) Additional authority; scope of activities
 
-To implement subsection (a) of this section and section 242k of this title, the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
+To implement subsection (a) and section 242k of this title, the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
 
 &emsp;(1) Utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, provide technical assistance and advice, make grants to public and nonprofit private entities and individuals, and, when appropriate, enter into contracts with public and private entities and individuals.
 
@@ -38,13 +38,13 @@ In subsec. (b)(4), "section 8141 of title 40" substituted for "the Act of March 
 
 <b>1999</b>—Subsecs. (a), (c). Pub. L. 106–129 substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research" wherever appearing.
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoing study of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
+<b>1993</b>—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoingstudy of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII of this chapter" for "in sections 242c, 242k, and 242n of this title".
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII" for "in sections 242c, 242k, and 242n of this title".
 
 Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 
-Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted "subsection (a) of this section and section 242k of this title" for "subsection (a) of this section".
+Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted "subsection (a) and section 242k of this title" for "subsection (a)".
 
 Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment".
 
@@ -92,7 +92,7 @@ Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) a
 
 Subsec. (b). Pub. L. 91–515, §201(a)(2)(A), (b), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated subsec. (d) as (c), and substituted provisions authorizing appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and authorizing to be appropriated such additional sums for each fiscal year as may be necessary to carry out the provisions of subsec. (b), for provisions authorizing appropriations of $20,000,000 for the fiscal year ending June 30, 1968, $40,000,000 for the fiscal year ending June 30, 1969, and $60,000,000 for the fiscal year ending June 30, 1970. Former subsec. (c) redesignated (a)(3)(A).
+Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated subsec. (d) as (c), and substituted provisions authorizing appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and authorizing to be appropriated such additionalsums for each fiscal year as may be necessary to carry out the provisions of subsec. (b), for provisions authorizing appropriations of $20,000,000 for the fiscal year ending June 30, 1968, $40,000,000 for the fiscal year ending June 30, 1969, and $60,000,000 for the fiscal year ending June 30, 1970. Former subsec. (c) redesignated (a)(3)(A).
 
 Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for evaluation of program authorized by this section. See section 229b of this title.
 
@@ -124,7 +124,7 @@ Pub. L. 95–83, title III, §314, Aug. 1, 1977, 91 Stat. 398, required the Secr
 
 #### Transfer of Equipment
 
-Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractorswithout further obligation to the Government or on such terms as the Secretary considered appropriate.
+Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractors without further obligation to the Government or on such terms as the Secretary considered appropriate.
 
 #### Congressional Declaration of Purpose
 

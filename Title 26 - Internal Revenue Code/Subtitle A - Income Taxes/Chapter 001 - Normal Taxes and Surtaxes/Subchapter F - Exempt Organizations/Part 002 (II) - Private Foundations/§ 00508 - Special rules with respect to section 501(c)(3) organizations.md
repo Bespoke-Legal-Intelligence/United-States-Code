@@ -66,7 +66,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 &emsp;In the case of any organization organized before January 1, 1970, paragraph (1) shall not apply—
 
-&emsp;&emsp;(A) to any period after December 31, 1971, during the pendency of any judicial proceeding begun before January 1, 1972, by the private foundation which is necessary to reform, or to excuse such foundation fromcompliance with, its governing instrument or any other instrument in order to meet the requirements of paragraph (1), and
+&emsp;&emsp;(A) to any period after December 31, 1971, during the pendency of any judicial proceeding begun before January 1, 1972, by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument in order to meet the requirements of paragraph (1), and
 
 &emsp;&emsp;(B) to any period after the termination of any judicial proceeding described in subparagraph (A) during which its governing instrument or any other instrument does not permit it to meet the requirements of paragraph (1).
 

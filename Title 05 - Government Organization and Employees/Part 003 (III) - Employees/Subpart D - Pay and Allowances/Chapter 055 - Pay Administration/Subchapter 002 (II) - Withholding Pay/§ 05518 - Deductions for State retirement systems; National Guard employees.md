@@ -56,7 +56,7 @@ Sec. 3. Each such agreement shall:
 
 (b) Specify when the withholding of sums from the compensation of such State employees shall commence; and
 
-(c) Provide for procedures for the withholding, the filing of the returns, and the payment of the sums withheld from compensation to the officials of the State, or organization designated by such officials to receive sums withheld for such programs, which procedures shall conform, so far as practicable, to the usual fiscalpractices of the Department of the Army and the Department of the Air Force, respectively.
+(c) Provide for procedures for the withholding, the filing of the returns, and the payment of the sums withheld from compensation to the officials of the State, or organization designated by such officials to receive sums withheld for such programs, which procedures shall conform, so far as practicable, to the usual fiscal practices of the Department of the Army and the Department of the Air Force, respectively.
 
 Sec. 4. The Secretary of the Army with respect to civilian employees of the Army National Guard, and the Secretary of the Air Force with respect to civilian employees of the Air National Guard, shall designate, or provide for the designation of, the officers or employees whose duty it shall be to withhold sums from compensation, file required returns, and direct the payment of sums so withheld, in accordance with the terms of the agreements entered into between the Secretary of Defense and the States.
 

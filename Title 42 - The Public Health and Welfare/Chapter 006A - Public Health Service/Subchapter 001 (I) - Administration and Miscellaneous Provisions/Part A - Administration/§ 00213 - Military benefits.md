@@ -2,7 +2,7 @@
 
 #### (a) Rights, privileges, immunities, and benefits accorded to commissioned officers or their survivors
 
-Except as provided in subsection (b) of this section, commissioned officers of the Service and their surviving beneficiaries shall, with respect to active service performed by such officers—
+Except as provided in subsection (b), commissioned officers of the Service and their surviving beneficiaries shall, with respect to active service performed by such officers—
 
 &emsp;(1) in time of war;
 
@@ -18,7 +18,7 @@ The President may prescribe the conditions under which commissioned officers of 
 
 #### (c) Authority of Surgeon General
 
-The authority vested by law in the Department of the Army, the Secretary of the Army, or other officers of the Department of the Army with respect to rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Surgeon General.
+The authority vested by law in the Department of the Army, the Secretary of the Army, or other officers of the Department of the Army with respect to rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Surgeon General.
 
 #### (d) Active service deemed active military service with respect to laws administered by Secretary of Veterans Affairs
 
@@ -50,7 +50,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–278 added subsec. (e).
 
-<b>1956</b>—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans' Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
+<b>1956</b>—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans' Administration (exceptthe Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
 <b>1954</b>—Subsec. (a)(1). Act July 15, 1954, struck out "burial payments in the event of death," after "limited to,".
 

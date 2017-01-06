@@ -14,8 +14,7 @@
 | [2007\.](%C2%A7%2002007%20-%20Payment%20of%20tuition%20for%20off-duty%20training%20or%20education.md) | Payment of tuition for off-duty training or education. |
 | [2008\.](%C2%A7%2002008%20-%20Authority%20to%20use%20funds%20for%20certain%20educational%20purposes.md) | Authority to use funds for certain educational purposes. |
 | [2009\.](%C2%A7%2002009%20-%20Military%20colleges%20female%20students.md) | Military colleges: female students. |
-| [2010\.](%C2%A7%2002010%20-%20Participation%20of%20developing%20countries%20in%20combined%20exercises%20payment%20of%20incremental%20expenses.md) | Participation of developing countries in combined exercises: payment of incremental expenses. |
-| [2011\.](%C2%A7%2002011%20-%20Special%20operations%20forces%20training%20with%20friendly%20foreign%20forces.md) | Special operations forces: training with friendly foreign forces. |
+| \[2010, 2011. Renumbered.\] |  |
 | [2012\.](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md) | Support and services for eligible organizations and activities outside Department of Defense. |
 | [2013\.](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md) | Training at non-Government facilities. |
 | [2014\.](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md) | Administrative actions adversely affecting military training or other readiness activities. |
@@ -25,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1244(d), Dec. 23, 2016, 130 Stat. 2518, struck out items 2010 "Participation of developing countries in combined exercises: payment of incremental expenses" and 2011 "Special operations forces: training with friendly foreign forces".
 
 <b>2014</b>—Pub. L. 113–291, div. A, title V, §551(b), Dec. 19, 2014, 128 Stat. 3377, substituted "Program to assist members in obtaining professional credentials" for "Payment of expenses to obtain professional credentials" in item 2015.
 
@@ -151,8 +152,8 @@ Educational Institution Defined.—In this section, the term 'educational instit
 - [&sect; 02007 - Payment of tuition for off-duty training or education](%C2%A7%2002007%20-%20Payment%20of%20tuition%20for%20off-duty%20training%20or%20education.md)
 - [&sect; 02008 - Authority to use funds for certain educational purposes](%C2%A7%2002008%20-%20Authority%20to%20use%20funds%20for%20certain%20educational%20purposes.md)
 - [&sect; 02009 - Military colleges female students](%C2%A7%2002009%20-%20Military%20colleges%20female%20students.md)
-- [&sect; 02010 - Participation of developing countries in combined exercises payment of incremental expenses](%C2%A7%2002010%20-%20Participation%20of%20developing%20countries%20in%20combined%20exercises%20payment%20of%20incremental%20expenses.md)
-- [&sect; 02011 - Special operations forces training with friendly foreign forces](%C2%A7%2002011%20-%20Special%20operations%20forces%20training%20with%20friendly%20foreign%20forces.md)
+- [&sect; 02010 - Renumbered &sect;321](%C2%A7%2002010%20-%20Renumbered%20%C2%A7321.md)
+- [&sect; 02011 - Renumbered &sect;322](%C2%A7%2002011%20-%20Renumbered%20%C2%A7322.md)
 - [&sect; 02012 - Support and services for eligible organizations and activities outside Department of Defense](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md)
 - [&sect; 02013 - Training at non-Government facilities](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md)
 - [&sect; 02014 - Administrative actions adversely affecting military training or other readiness activities](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md)

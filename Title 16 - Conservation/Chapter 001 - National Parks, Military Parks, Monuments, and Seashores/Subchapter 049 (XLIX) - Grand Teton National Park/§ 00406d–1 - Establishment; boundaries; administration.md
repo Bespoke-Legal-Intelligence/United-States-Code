@@ -10,7 +10,7 @@ This Act, referred to in text, is act Sept. 14, 1950, ch. 950, 64 Stat. 849, whi
 
 The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 482m and 673b of this title.
 
-Provisions relating to the "present Grand Teton National Park", referred to in text, were contained informer sections 406 to 406d of this title, which sections were repealed by another provision of section 1 of act Sept. 14, 1950.
+Provisions relating to the "present Grand Teton National Park", referred to in text, were contained in former sections 406 to 406d of this title, which sections were repealed by another provision of section 1 of act Sept. 14, 1950.
 
 #### Codification
 
@@ -84,7 +84,7 @@ Findings.—Congress finds that—
 
 &emsp;"(4) Craig Thomas authored legislation to provide critical funding and management reforms to protect units of the National Park System into the 21st century, ensuring quality visits to units of the National Park System and the protection of natural and cultural resources;
 
-&emsp;"(5) Craig Thomas strongly supported public-private partnerships and collaboration between the National Park Service and other organizations that foster new opportunities for providing visitor services while encouraging greater citizen involvement in the stewardship of units of the National Park System;
+&emsp;"(5) Craig Thomas strongly supported public-private partnerships and collaboration between the National Park Service and other organizations that foster new opportunities for providing visitor serviceswhile encouraging greater citizen involvement in the stewardship of units of the National Park System;
 
 &emsp;"(6) Craig Thomas was instrumental in obtaining the Federal share for a public-private partnership with the Grand Teton National Park Foundation and the Grand Teton Natural History Association to construct a new discovery and visitor center at Grand Teton National Park;
 

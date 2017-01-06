@@ -32,7 +32,7 @@
 
 &emsp;(A) shall prospectively void any election made by the employee or Member under section 8420 with respect to such individual; or
 
-&emsp;(B) shall, if an election was made by the employee or Member under section 8420 with respect to a different individual, prospectively void such election if appropriate written application is made by such employee or Member at the time of making the election under this subsection.
+&emsp;(B) shall, if an election was made by the employee or Member under section 8420 with respect to a different individual, prospectively void such election if appropriate written application is made by such employee or Member atthe time of making the election under this subsection.
 
 (d)(1) An employee or Member—
 

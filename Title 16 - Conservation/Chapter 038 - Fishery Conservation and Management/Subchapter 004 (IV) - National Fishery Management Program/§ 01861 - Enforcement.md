@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraftand vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -34,7 +34,7 @@ If any officer authorized to enforce the provisions of this chapter (as provided
 
 #### (d) Jurisdiction of courts
 
-The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
+The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Hawaii or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Hawaii, except that in the case of Guam and Wake Island, the appropriate court is the United States District Court for the District of Guam, and in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
 
 &emsp;(1) enter restraining orders or prohibitions;
 
@@ -56,7 +56,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
-&emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19, as made applicable by section 1860(c) of this title or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
+&emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19, asmade applicable by section 1860(c) of this title or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
 
 &emsp;(F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a), or any similar agreement authorized by law.
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;(2) The term "violation of any provision of this chapter" includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
 
-(Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, §115, Oct. 11, 1996, 110 Stat. 3599; Pub. L. 109–479, title I, §111(a), Jan. 12, 2007, 120 Stat. 3596.)
+(Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, §115, Oct. 11, 1996, 110 Stat. 3599; Pub. L. 109–479, title I, §111(a), Jan. 12, 2007, 120 Stat. 3596; Pub. L. 114–120, title VI, §609, Feb. 8, 2016, 130 Stat. 83.)
 
 #### Amendment of Subsection (b)(2)
 
@@ -167,6 +167,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–120, in introductory provisions, substituted "In the case of Hawaii or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Hawaii, except that in the case of Guam and Wake Island, the appropriate court is the United States District Court for the District of Guam, and in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands." for "In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands."
 
 <b>2007</b>—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, §111(a)(1)–(3), added cl. (vi).
 
@@ -194,7 +196,7 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–627 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Notwithstanding any other provision of law, after September 30, 1986, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, or forfeitures of property for violations of any provision of this chapter—
 
-&emsp;"(1) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenanceof seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter with respect to that fish or other property; and
+&emsp;"(1) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenance of seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter with respect to that fish or other property; and
 
 &emsp;"(2) a reward to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter.
 

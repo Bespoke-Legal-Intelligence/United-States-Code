@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;By October 1, 2001, each State that receives funds under this chapter shall participate, and shall ensure that all eligible entities in the State participate, in a performance measurement system, which may be a performance measurement system for which the Secretary facilitated development pursuant to subsection (b) of this section, or an alternative system that the Secretary is satisfied meets the requirements of subsection (b) of this section.
+&emsp;&emsp;By October 1, 2001, each State that receives funds under this chapter shall participate, and shall ensure that all eligible entities in the State participate, in a performance measurement system, which may be a performance measurement system for which the Secretary facilitated development pursuant to subsection (b), or an alternative system that the Secretary is satisfied meets the requirements of subsection (b).
 
 #### (B) Local agencies
 
@@ -20,7 +20,7 @@
 
 #### (1) Performance measurement
 
-&emsp;The Secretary, in collaboration with the States and with eligible entities throughoutthe Nation, shall facilitate the development of one or more model performance measurement systems, which may be used by the States and by eligible entities to measure their performance in carrying out the requirements of this chapter and in achieving the goals of their community action plans. The Secretary shall provide technical assistance, including support for the enhancement of electronic data systems, to States and to eligible entities to enhance their capability to collect and report data for such a system and to aid in their participation in such a system.
+&emsp;The Secretary, in collaboration with the States and with eligible entities throughout the Nation, shall facilitate the development of one or more model performance measurement systems, which may be used by the States and by eligible entities to measure their performance in carrying out the requirements of this chapter and in achieving the goals of their community action plans. The Secretary shall provide technical assistance, including support for the enhancement of electronic data systems, to States and to eligible entities to enhance their capability to collect and report data for such a system and to aid in their participation in such a system.
 
 #### (2) Reporting requirements
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(D) a comparison of the planned uses of funds for each State and the actual uses of the funds;
 
-&emsp;&emsp;(E) a summary of each State's performance results, and the results for the eligible entities, as collected and submitted by the States in accordance with subsection (a)(2) of this section; and
+&emsp;&emsp;(E) a summary of each State's performance results, and the results for the eligible entities, as collected and submitted by the States in accordance with subsection (a)(2); and
 
 &emsp;&emsp;(F) any additional information that the Secretary considers to be appropriate to carry out this chapter, if the Secretary informs the States of the need for such additional information and allows a reasonable period of time for the States to collect and provide the information.
 

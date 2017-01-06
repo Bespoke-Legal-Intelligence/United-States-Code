@@ -52,7 +52,7 @@ The Director of the Bureau may delegate to any duly authorized employee, represe
 
 #### (4) Recommendations and testimony
 
-&emsp;No officer or agency of the United States shall have any authority to require the Director or any other officer of the Bureau to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony, or comments to the Congress, if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the Director or such officer, and do not necessarily reflect the views of the Board of Governors or the President.
+&emsp;No officer or agency of the United States shall have any authority to require the Director or any other officer of the Bureau to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony,or comments to the Congress, if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the Director or such officer, and do not necessarily reflect the views of the Board of Governors or the President.
 
 #### (5) Clarification of autonomy of the Bureau in legal proceedings
 
@@ -62,7 +62,7 @@ The Director of the Bureau may delegate to any duly authorized employee, represe
 
 #### References in Text
 
-This title, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known asthe Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Federal Reserve Act, referred to in subsec. (c)(2), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 

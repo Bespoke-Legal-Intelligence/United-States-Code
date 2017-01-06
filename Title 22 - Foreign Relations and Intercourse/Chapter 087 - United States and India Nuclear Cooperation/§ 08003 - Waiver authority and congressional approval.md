@@ -82,7 +82,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the entry into force of an agreement for cooperation with India arranged pursuant to section 2153 of title 42 and pursuant to this chapter, and except as provided under subparagraph (B), exports of nuclear and nuclear-related material, equipment, or technology to India shall be terminated if there is any materially significant transfer by an Indian person of—
+&emsp;&emsp;Notwithstanding the entry into force of an agreement for cooperation with India arranged pursuant to section 2153 of title 42 and pursuant to this chapter, and except asprovided under subparagraph (B), exports of nuclear and nuclear-related material, equipment, or technology to India shall be terminated if there is any materially significant transfer by an Indian person of—
 
 &emsp;&emsp;&emsp;(i) nuclear or nuclear-related material, equipment, or technology that is not consistent with NSG guidelines or decisions, or
 
@@ -278,7 +278,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;&emsp;(II) nuclear explosive devices;
 
-&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that canbe attributed to India's declared civil reactors;
+&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that can be attributed to India's declared civil reactors;
 
 &emsp;&emsp;(J) an analysis as to whether imported uranium has affected the rate of production in India of nuclear explosive devices;
 

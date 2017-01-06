@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) of this section to have shortages of qualified personnel.
+&emsp;&emsp;The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) to have shortages of qualified personnel.
 
 #### (B) Types of projects
 
@@ -138,7 +138,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of training a sufficient number of qualified interpreters to meet the communications needs of individuals who are deaf or hard of hearing, and individuals who are deaf-blind, the Commissioner, acting through a Federal office responsible for deafness and communicative disorders, may award grants to public or private nonprofit agencies or organizations to pay part of the costs—
+&emsp;&emsp;For the purpose of training a sufficient number of qualified interpreters to meet the communications needs of individuals who are deaf or hard of hearing, and individuals who are deaf-blind, the Commissioner, acting through a Federal office responsible for deafness and communicative disorders, may award grants to public or private nonprofitagencies or organizations to pay part of the costs—
 
 &emsp;&emsp;&emsp;(i) for the establishment of interpreter training programs; or
 
@@ -204,7 +204,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4) and 
 
 Provisions similar to this section were contained in section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 772, Pub. L. 93–112, title III, §303, formerly §302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, §105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, §105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, §132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §402, title X, §1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, §204(b), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, §4(b), June 6, 1991, 105 Stat. 261; renumbered §303 and amended Pub. L. 102–569, title I, §102(p)(16), title III, §§301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 772, Pub. L. 93–112, title III, §303, formerly §302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, §105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, §105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, §132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §402, title X, §1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, §204(b), Nov. 7, 1988, 102Stat. 3308; Pub. L. 102–52, §4(b), June 6, 1991, 105 Stat. 261; renumbered §303 and amended Pub. L. 102–569, title I, §102(p)(16), title III, §§301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 A prior section 302 of Pub. L. 93–112 was classified to section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 

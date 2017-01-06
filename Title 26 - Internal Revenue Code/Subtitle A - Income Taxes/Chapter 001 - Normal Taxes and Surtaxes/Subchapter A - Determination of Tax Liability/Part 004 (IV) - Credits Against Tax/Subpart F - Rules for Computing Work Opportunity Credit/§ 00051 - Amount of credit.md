@@ -14,7 +14,7 @@ For purposes of this subpart—
 
 #### (2) Qualified first-year wages
 
-&emsp;The term "qualified first-year wages" means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with theday the individual begins work for the employer.
+&emsp;The term "qualified first-year wages" means, with respect to any individual, qualified wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer.
 
 #### (3) Limitation on wages per year taken into account
 
@@ -194,7 +194,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;(ii) subsection (b)(3) shall be applied by substituting "$3,000" for "$6,000".
 
-> &emsp;&emsp;The preceding sentence shall not apply to an individual who, with respect to the same employer, is certified as a member of anothertargeted group after such individual has been a qualified summer youth employee.
+> &emsp;&emsp;The preceding sentence shall not apply to an individual who, with respect to the same employer, is certified as a member of another targeted group after such individual has been a qualified summer youth employee.
 
 #### (C) Youth must continue to reside in zone or community
 
@@ -220,7 +220,7 @@ For purposes of this subpart—
 
 #### (9) Qualified SSI recipient
 
-&emsp;The term "qualified SSI recipient" means any individual who is certified by the designated local agency as receiving supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66) for any month ending within the 60-day period ending on the hiring date.
+&emsp;The term "qualified SSI recipient" means any individual who is certified by the designated local agency as receiving supplemental security income benefits under titleXVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66) for any month ending within the 60-day period ending on the hiring date.
 
 #### (10) Long-term family assistance recipient
 
@@ -278,7 +278,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;Notwithstanding subparagraph (A), for purposes of paragraph (3)(A)—
 
-&emsp;&emsp;&emsp;&emsp;(I) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemploymentmeeting the requirements of clause (ii)(II) or (iv) of such paragraph (whichever is applicable) if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and
+&emsp;&emsp;&emsp;&emsp;(I) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause (ii)(II) or (iv) of such paragraph (whichever is applicable) if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 6 months during the 1-year period ending on the hiring date, and
 
 &emsp;&emsp;&emsp;&emsp;(II) a veteran will be treated as certified by the designated local agency as having aggregate periods of unemployment meeting the requirements of clause (iii) of such paragraph if such veteran is certified by such agency as being in receipt of unemployment compensation under State or Federal law for not less than 4 weeks (but less than 6 months) during the 1-year period ending on the hiring date.
 
@@ -432,7 +432,7 @@ For purposes of this subpart—
 
 &emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(l)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(l)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681-912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-600, 2763A-644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730; Pub. L. 112–240, title III, §309(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §119(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §142(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(l)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(l)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O),June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730; Pub. L. 112–240, title III, §309(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §119(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §142(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
 
 #### References in Text
 
@@ -794,7 +794,7 @@ Pub. L. 111–147, title I, §101(e), Mar. 18, 2010, 124 Stat. 75, provided that
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this subsection \[probablyshould be "section", amending this section and sections 3111 and 3221 of this title\] shall apply to wages paid after the date of the enactment of this Act \[Mar. 18, 2010\].
+In general.—Except as provided in paragraph (2), the amendments made by this subsection \[probably should be "section", amending this section and sections 3111 and 3221 of this title\] shall apply to wages paid after the date of the enactment of this Act \[Mar. 18, 2010\].
 
 "(2)
 
@@ -828,7 +828,7 @@ Consolidation.—The amendments made by subsections (b), (c), (d), and (e) \[ame
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 207(5) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+Amendment by section 207(5) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, seesection 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 Pub. L. 108–311, title III, §303(b), Oct. 4, 2004, 118 Stat. 1179, provided that:"The amendments made by this section \[amending this section and section 51A of this title\] shall apply to individuals who begin work for the employer after December 31, 2003."
 
@@ -838,9 +838,9 @@ Pub. L. 107–147, title VI, §604(b), Mar. 9, 2002, 116 Stat. 59, provided that
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §102(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-600, provided that: "The amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 2001."
+Pub. L. 106–554, §1(a)(7) \[title I, §102(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, provided that: "The amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 2001."
 
-Pub. L. 106–554, §1(a)(7) \[title III, §316(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645, provided that: "The amendments made by this section \[amending this section and sections 219, 401 and 1361 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate."
+Pub. L. 106–554, §1(a)(7) \[title III, §316(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: "The amendments made by this section \[amending this section and sections 219, 401 and 1361 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate."
 
 #### Effective Date of 1999 Amendment
 
@@ -908,7 +908,7 @@ Amendment by section 1878(f)(1) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(p)(1)–(3) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(p)(1)–(3) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31,1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 712 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -976,7 +976,7 @@ Certifications.—
 
 &emsp;"(A)
 
-In general.—The amendment made by subsection (c)(1) \[amending this section\] shall apply toall individuals whether such individuals began work for their employer before, on, or after the date of the enactment of this Act \[Aug. 13, 1981\].
+In general.—The amendment made by subsection (c)(1) \[amending this section\] shall apply to all individuals whether such individuals began work for their employer before, on, or after the date of the enactment of this Act \[Aug. 13, 1981\].
 
 &emsp;"(B)
 
@@ -998,7 +998,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §321(d)(1), Nov. 6, 1978, 92 Stat. 2835, provided that: "Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 44B, 52, 53, and 6501 of this title\] shall apply to amounts paid or incurred after December 31, 1978, in taxable years ending after such date."
+Pub. L. 95–600, title III, §321(d)(1), Nov. 6, 1978, 92 Stat. 2835, provided that: "Except as otherwise provided inthis subsection, the amendments made by this section \[amending this section and sections 44B, 52, 53, and 6501 of this title\] shall apply to amounts paid or incurred after December 31, 1978, in taxable years ending after such date."
 
 #### Effective Date
 

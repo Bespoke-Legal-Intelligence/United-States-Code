@@ -106,7 +106,7 @@ In General.—
 
 &emsp;"(1)
 
-Status of 1994 institutions.—Except as provided in paragraph (2), 1994 Institutions shall be considered land-grant colleges established for the benefit of agriculture and the mechanic arts in accordance with the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act).
+Status of 1994 institutions.—Except as provided in paragraph (2), 1994 Institutions shall be considered land-grant colleges established for the benefitof agriculture and the mechanic arts in accordance with the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act).
 
 &emsp;"(2) 1994
 
@@ -156,7 +156,7 @@ Investments.—The Secretary shall invest the endowment fund corpus and income i
 
 Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
-&emsp;&emsp;"(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a prorata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a))).
+&emsp;&emsp;"(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a))).
 
 &emsp;&emsp;"(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
@@ -288,7 +288,7 @@ Pub. L. 96–374, title XIII, §1361(c), (d), Oct. 3, 1980, 94 Stat. 1502, as am
 
 "(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
 
-"(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuilaand Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\]."
+"(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuila and Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\]."
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

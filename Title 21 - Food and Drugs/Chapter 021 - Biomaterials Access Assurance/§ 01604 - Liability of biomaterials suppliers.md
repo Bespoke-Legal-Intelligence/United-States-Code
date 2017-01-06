@@ -4,11 +4,11 @@
 
 Except as provided in section 1606 of this title, a biomaterials supplier shall not be liable for harm to a claimant caused by an implant unless such supplier is liable—
 
-&emsp;(1) as a manufacturer of the implant, as provided in subsection (b) of this section;
+&emsp;(1) as a manufacturer of the implant, as provided in subsection (b);
 
-&emsp;(2) as a seller of the implant, as provided in subsection (c) of this section; or
+&emsp;(2) as a seller of the implant, as provided in subsection (c); or
 
-&emsp;(3) for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in subsection (d) of this section.
+&emsp;(3) for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in subsection (d).
 
 #### (b) Liability as manufacturer
 

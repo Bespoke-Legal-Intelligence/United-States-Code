@@ -10,7 +10,7 @@ Credit for Acquired Lands.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this title, the State share of thecost of a project with respect to which Federal assistance is provided from the Highway Trust Fund (other than the Mass Transit Account) may be credited in an amount equal to the fair market value of any land that—
+In general.—Notwithstanding any other provision of this title, the State share of the cost of a project with respect to which Federal assistance is provided from the Highway Trust Fund (other than the Mass Transit Account) may be credited in an amount equal to the fair market value of any land that—
 
 &emsp;&emsp;(A) is lawfully obtained by the State or a unit of local government in the State;
 

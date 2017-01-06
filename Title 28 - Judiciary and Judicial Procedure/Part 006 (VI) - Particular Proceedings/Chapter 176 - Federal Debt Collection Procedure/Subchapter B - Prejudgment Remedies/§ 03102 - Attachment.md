@@ -18,7 +18,7 @@ Availability of Attachment.—If the requirements of section 3101 are satisfied,
 
 &emsp;&emsp;(A) the contract is not fully secured by real or personal property; or
 
-&emsp;&emsp;(B) the value of the original security is substantially diminished, without any act of the United States or the person to whom the security was given, below the amount of the debt;
+&emsp;&emsp;(B) the value of the original security is substantially diminished, without any act ofthe United States or the person to whom the security was given, below the amount of the debt;
 
 &emsp;(2) in an action against the debtor for damages in tort;
 
@@ -92,7 +92,7 @@ Reduction or Dissolution of Attachment.—(1) If an excessive or unreasonable at
 
 (h)
 
-Replevin of Attached Property by Debtor; Bond.—If attached property is not sold before judgment, the debtor may replevy such property or any part thereof by giving a bond approved by counsel for the United States or the court and payable to the United States in double the reasonable value of the property to be replevied or double the value of the claim, whichever is less.
+Replevin of Attached Property by Debtor; Bond.—If attached property is not sold before judgment, the debtor may replevy such property or any part thereof by giving a bond approved by counsel for the United States or the court and payable to the United States in doublethe reasonable value of the property to be replevied or double the value of the claim, whichever is less.
 
 (i)
 

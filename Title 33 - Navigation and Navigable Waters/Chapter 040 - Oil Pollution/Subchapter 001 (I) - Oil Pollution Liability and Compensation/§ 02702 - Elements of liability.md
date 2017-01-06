@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable for the removal costs and damages specified in subsection (b) of this section that result from such incident.
+Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable for the removal costs and damages specified in subsection (b) that result from such incident.
 
 #### (b) Covered removal costs and damages
 
 #### (1) Removal costs
 
-&emsp;The removal costs referred to in subsection (a) of this section are—
+&emsp;The removal costs referred to in subsection (a) are—
 
 &emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (l) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
 
@@ -16,7 +16,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (2) Damages
 
-&emsp;The damages referred to in subsection (a) of this section are the following:
+&emsp;The damages referred to in subsection (a) are the following:
 
 #### (A) Natural resources
 
@@ -58,7 +58,7 @@ This subchapter does not apply to any discharge—
 
 #### (A) Third party treated as responsible party
 
-&emsp;&emsp;Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act or omission of one or more third parties described in section 2703(a)(3) of this title (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposes of determining liability under this subchapter.
+&emsp;&emsp;Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act oromission of one or more third parties described in section 2703(a)(3) of this title (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposes of determining liability under this subchapter.
 
 #### (B) Subrogation of responsible party
 

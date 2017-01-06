@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (4) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (5) Non-Federal project entity
 
@@ -26,7 +26,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "operations, maintenance, and replacement costs" means all costs for the operation of a rural water supply project that are necessary for the safe, efficient, and continued functioning of the project to produce the benefits described in a feasibility study.
+&emsp;&emsp;The term "operations, maintenance, and replacement costs" means all costs for theoperation of a rural water supply project that are necessary for the safe, efficient, and continued functioning of the project to produce the benefits described in a feasibility study.
 
 #### (B) Inclusions
 

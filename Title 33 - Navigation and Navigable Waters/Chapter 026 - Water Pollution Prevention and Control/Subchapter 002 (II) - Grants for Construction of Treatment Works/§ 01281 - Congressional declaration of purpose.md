@@ -26,7 +26,7 @@ The Administrator shall encourage waste treatment management which results in th
 
 #### (e) Waste treatment management integration of facilities
 
-The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and wasteheat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
+The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and waste heat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
 
 #### (f) Waste treatment management "open space" and recreational considerations
 
@@ -54,9 +54,9 @@ The Administrator shall encourage waste treatment management which combines "ope
 
 A grant may be made under this section to construct a privately owned treatment works serving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
 
-&emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
+&emsp;(1) a public body otherwise eligible for a grant under subsection (g) has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
-&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will payits proportionate share of the cost of operation and maintenance (including replacement); and
+&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and willcomply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
 
 &emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
 
@@ -94,7 +94,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
-(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
+(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combinedstorm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
 #### (o) Capital financing plan
 
@@ -262,9 +262,9 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(b) \[Establishment\] There is hereby created a body corporate to be known as the Environmental Financing Authority, which shall have succession until dissolved by Act of Congress. The Authority shall be subject to the general supervision and direction of the Secretary of the Treasury. The Authority shall be an instrumentality of the United States Government and shall maintain such offices as may be necessary or appropriate in the conduct of its business.
 
-"(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
+"(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out anyproject for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 
-"(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one ofwhom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
+"(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one of whom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
 
 "(2) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Authority. The Chairman of the Board shall select and effect the appointment of qualified persons to fill the offices as may be provided for in the bylaws, with such executive functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the executive officers of the Authority and shall discharge all such executive functions, powers, and duties. The members of the Board, as such, shall not receive compensation for their services.
 

@@ -10,7 +10,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions of law to the contrary, so to assign or detail any officer or employee for duty with the Agency;
 
-&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, and the protection of the Director of National Intelligence and such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate;
+&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within theUnited States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, and the protection of the Director of National Intelligence and such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate;
 
 &emsp;(5) Make alterations, improvements, and repairs on premises rented by the Agency, and pay rent therefor;
 
@@ -20,7 +20,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 #### (b) Scope of authority for expenditure
 
-(1) The authority to enter into a multiyear lease under subsection (a)(7) of this section shall be subject to appropriations provided in advance for—
+(1) The authority to enter into a multiyear lease under subsection (a)(7) shall be subject to appropriations provided in advance for—
 
 &emsp;(A) the entire lease; or
 
@@ -72,7 +72,7 @@ Subsec. (a)(4). Pub. L. 111–259, §421, substituted "the protection of current
 
 Subsec. (a)(4). Pub. L. 105–272, §401, substituted "and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families," for "and the protection of Agency personnel and of defectors, their families,".
 
-<b>1997</b>—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for "without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and", and added par. (7) and subsec. (b).
+<b>1997</b>—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) aspars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for "without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and", and added par. (7) and subsec. (b).
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–178 substituted "Office of Management and Budget" for "Bureau of the Budget" and "subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title" for "sections 403 and 405 of this title".
 

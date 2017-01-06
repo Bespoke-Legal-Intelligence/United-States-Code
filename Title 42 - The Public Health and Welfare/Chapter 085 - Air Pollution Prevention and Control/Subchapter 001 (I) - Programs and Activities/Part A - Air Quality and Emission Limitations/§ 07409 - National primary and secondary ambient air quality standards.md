@@ -82,7 +82,7 @@ Report.—The Administrator shall request the National Academy of Sciences to pr
 
 Submission to Congress; Comments; Authorization.—(1) The report shall be transmitted to the Congress not later than 3 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 
-"(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for public comment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
+"(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for publiccomment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
 
 "(3) There are authorized to be appropriated such sums as are necessary to carry out this section."
 

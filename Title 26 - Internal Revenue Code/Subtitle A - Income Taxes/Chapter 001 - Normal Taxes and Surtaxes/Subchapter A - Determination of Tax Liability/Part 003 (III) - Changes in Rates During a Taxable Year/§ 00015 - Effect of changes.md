@@ -56,7 +56,7 @@ Subsecs. (e), (f). Pub. L. 97–34 struck out subsecs. (e) and (f) which had rel
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–30, §101(d)(2)(A), (B), redesignated subsec. (f) as (d). Former subsec. (d), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Tax Reform Act of 1969 in part I or in the application of part IV or V of subchapter B for purposes of the determination of taxable income should be treated as a change in a rate of tax, was struck out.
 
-Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
+Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individualwhich was not a calendar year, each change made by the Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
 
 Subsec. (f). Pub. L. 95–30, §101(d)(2)(B), redesignated subsec. (f) as (d).
 

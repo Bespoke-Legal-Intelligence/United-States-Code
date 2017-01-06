@@ -94,7 +94,7 @@ Act of June 25, 1910 (36 Stat. 363), referred to in subsec. (a), probably means 
 
 Act of May 17, 1906 (34 Stat. 197), as amended, referred to in subsecs. (a), (d)(2)(B)(i), and (f)(1), is act May 17, 1906, ch. 2469, 34 Stat. 197, which enacted sections 270–1, 270–2, and 270–3 of this title, and was repealed by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710. For complete classification of this Act to the Code, see Tables.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–487,Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 Section 6 of the Act entitled "An Act to provide for the admission of the State of Alaska into the Union", approved July 7, 1958 (commonly referred to as the "Alaska Statehood Act"), referred to in subsec. (c)(2)(B), is section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
@@ -134,7 +134,7 @@ Pub. L. 108–452, title III, §304, Dec. 10, 2004, 118 Stat. 3589, provided tha
 
 "(a)
 
-In General.—The Secretary \[of the Interior\] shall adjust the acreage entitlement computation records for the State \[of Alaska\] or an affected Native Corporation to account for any difference in the amount of acreage between the corrected description and the previous description in any conveyance document as a result of actions taken under section 18(d) of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\] or section 18(e) of the Alaska Native Claims Settlement Act (as added by section 303), or for other voluntary reconveyances to the United States for the purpose of facilitating land transfers in the State.
+In General.—The Secretary \[of the Interior\] shall adjust the acreage entitlement computation records for the State \[of Alaska\] or an affected Native Corporation to account for any difference in the amount of acreage between the corrected description and the previous description in any conveyance document as a result of actions taken under section 18(d) of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\] or section 18(e) of theAlaska Native Claims Settlement Act (as added by section 303), or for other voluntary reconveyances to the United States for the purpose of facilitating land transfers in the State.
 
 "(b)
 

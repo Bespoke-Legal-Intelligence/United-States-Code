@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a portion of the combined State plan covering the core programs or a program or activity described in subsection (a)(2) shall be considered to be approved by the appropriate Secretary at the end of the90-day period beginning on the day the plan is submitted.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a portion of the combined State plan covering the core programs or a program or activity described in subsection (a)(2) shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the plan is submitted.
 
 #### (B) Plan approved by 3 or more appropriate Secretaries
 
@@ -84,7 +84,7 @@ In this section, the term "appropriate Secretary" means—
 
 &emsp;(1) with respect to the portion of a combined plan relating to any of the core programs (including a description, and an assurance concerning that program, specified in subsection (b)(3)), the Secretary of Labor and the Secretary of Education; and
 
-&emsp;(2) with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federal law authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercises administrative authority over the program or activity under that Federal law.
+&emsp;(2) with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federallaw authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercises administrative authority over the program or activity under that Federal law.
 
 (Pub. L. 113–128, title I, §103, July 22, 2014, 128 Stat. 1450.)
 

@@ -26,7 +26,7 @@
 
 #### (B) Submission of proposed strategy
 
-&emsp;&emsp;Not later than 120 days after the Secretary notifies the holder of an approved covered application that the Secretary has made a determination under subparagraph (A) with respect to the drug involved, or within suchother reasonable time as the Secretary requires to protect the public health, the holder shall submit to the Secretary a proposed risk evaluation and mitigation strategy.
+&emsp;&emsp;Not later than 120 days after the Secretary notifies the holder of an approved covered application that the Secretary has made a determination under subparagraph (A) with respect to the drug involved, or within such other reasonable time as the Secretary requires to protect the public health, the holder shall submit to the Secretary a proposed risk evaluation and mitigation strategy.
 
 #### (3) Abbreviated new drug applications
 
@@ -210,7 +210,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (4) Implementation system
 
-&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs (B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
+&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs\(B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
 
 &emsp;&emsp;(A) monitor and evaluate implementation of such elements by health care providers, pharmacists, and other parties in the health care system who are responsible for implementing such elements; and
 
@@ -218,7 +218,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (5) Evaluation of elements to assure safe use
 
-&emsp;The Secretary, through the Drug Safety and Risk Management Advisory Committee (or successor committee) of the Food and Drug Administration, shall—
+&emsp;The Secretary, through the Drug Safety and Risk Management Advisory Committee (or successor committee) or other advisory committee of the Food and Drug Administration, shall—
 
 &emsp;&emsp;(A) seek input from patients, physicians, pharmacists, and other health care providers about how elements to assure safe use under this subsection for 1 or more drugs may be standardized so as not to be—
 
@@ -226,7 +226,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, minimize the burden on the health care delivery system;
 
-&emsp;&emsp;(B) at least annually, evaluate, for 1 or more drugs, the elements to assure safe use of such drug to assess whether the elements—
+&emsp;&emsp;(B) periodically evaluate, for 1 or more drugs, the elements to assure safe use of such drug to assess whether the elements—
 
 &emsp;&emsp;&emsp;(i) assure safe use of the drug;
 
@@ -282,7 +282,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (B) On initiative of Secretary
 
-&emsp;&emsp;After the approval of a risk evaluation and mitigation strategy by the Secretary, theSecretary may, at any time, require a responsible person to submit a proposed modification to the strategy within 120 days or within such reasonable time as the Secretary specifies, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that 1 or more goals or elements should be added, modified, or removed from the approved strategy to—
+&emsp;&emsp;After the approval of a risk evaluation and mitigation strategy by the Secretary, the Secretary may, at any time, require a responsible person to submit a proposed modification to the strategy within 120 days or within such reasonable time as the Secretary specifies, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that 1 or more goals or elements should be added, modified, or removed from the approved strategy to—
 
 &emsp;&emsp;&emsp;(i) ensure the benefits of the drug outweigh the risks of the drug; or
 
@@ -306,9 +306,9 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;The Secretary shall review and act on a proposed minor modification, as defined by the Secretary in guidance, within 60 days of receipt of such modification.
 
-#### (iii) REMS modification due to safety label changes
+#### (iii) REMS modification due to safety labeling changes
 
-&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification to an approved risk evaluation and mitigation strategy to conform the strategy to approved safety label changes, including safety labeling changes initiated by the sponsor in accordance with FDA regulatory requirements, or to a safety label change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
+&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification to an approved risk evaluation and mitigation strategy to conform the strategy to approved safety labeling changes, including safety labeling changes initiated by the responsible person in accordance with FDA regulatory requirements, or to a safety labeling change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
 
 #### (iv) Guidance
 
@@ -350,7 +350,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (i) Further discussion or administrative appeals
 
-&emsp;&emsp;&emsp;A request for review under subparagraph (A) shall not preclude further discussions to reach agreement on the risk evaluation and mitigation strategy, and such a request shall not preclude the use of administrative appeals within the Food and Drug Administration to reach agreement on the strategy, including appeals as described in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 for procedural or scientific matters involving the review of human drug applications and supplemental applications that cannot be resolved at the divisional level. At the time a review has been scheduled under subparagraph (B) and notice of such review has been posted, the responsible person shall either withdraw the request under subparagraph (A) or terminate the use of such administrative appeals.
+&emsp;&emsp;&emsp;A request for review under subparagraph (A) shall not preclude further discussions to reach agreement on the risk evaluation and mitigation strategy, and such a request shall not preclude the use of administrative appeals within the Food and DrugAdministration to reach agreement on the strategy, including appeals as described in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 for procedural or scientific matters involving the review of human drug applications and supplemental applications that cannot be resolved at the divisional level. At the time a review has been scheduled under subparagraph (B) and notice of such review has been posted, the responsible person shall either withdraw the request under subparagraph (A) or terminate the use of such administrative appeals.
 
 #### (ii) Agreement terminates dispute resolution
 
@@ -416,7 +416,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (A) In general
 
-&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacological class of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approved risk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
+&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacological class of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approvedrisk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
 
 #### (B) Notice
 
@@ -454,7 +454,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (8) Effect
 
-&emsp;Use of the processes described in paragraphs (6) and (7).<sup>1</sup> shall not be the sole source of delay of action on an application or a supplement to an application for a drug.
+&emsp;Use of the processes described in paragraphs (6) and (7) shall not be the sole source of delay of action on an application or a supplement to an application for a drug.
 
 #### (i) Abbreviated new drug applications
 
@@ -466,7 +466,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
+&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>1</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 
 &emsp;&emsp;&emsp;(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
@@ -476,7 +476,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;For an applicable listed drug for which a drug is approved under section 355(j) of this title, the Secretary—
 
-&emsp;&emsp;(A) shall undertake any communication plan to health care providers required undersubsection (e)(3) for the applicable listed drug; and
+&emsp;&emsp;(A) shall undertake any communication plan to health care providers required under subsection (e)(3) for the applicable listed drug; and
 
 &emsp;&emsp;(B) shall inform the responsible person for the drug that is so approved if the risk evaluation and mitigation strategy for the applicable listed drug is modified.
 
@@ -508,7 +508,7 @@ The Secretary may waive any requirement of this section with respect to a qualif
 
 &emsp;(2) the identification of a material threat described in subparagraph (D) of section 360bbb–3(b)(1) of this title has been made pursuant to section 247d–6b of title 42.
 
-(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185.)
+(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153.)
 
 #### References in Text
 
@@ -517,6 +517,14 @@ For the effective date of this section, referred to in subsec. (a)(2)(A), see Ef
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (h)(3), (4)(C)(i), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(5). Pub. L. 114–255, §3075(c)(1), inserted "or other advisory committee" after "(or successor committee)" in introductory provisions.
+
+Subsec. (f)(5)(B). Pub. L. 114–255, §3075(c)(2), substituted "periodically" for "at least annually," in introductory provisions.
+
+Subsec. (h)(2)(A)(iii). Pub. L. 114–255, §3101(a)(2)(C)(i), substituted, in heading, "labeling" for "label" and in text, "approved safety labeling changes" for "approved safety label changes", "responsible person" for "sponsor", and "a safety labeling change" for "a safety label change".
+
+Subsec. (h)(8). Pub. L. 114–255, §3101(a)(2)(C)(ii), struck out period after "(7)".
 
 <b>2013</b>—Subsec. (f)(7). Pub. L. 113–5, §302(c)(1), struck out par. (7) which related to waiver of subsec. (f) requirements in public health emergencies.
 
@@ -572,11 +580,17 @@ Subsec. (h)(8), (9). Pub. L. 112–144, §1132(b)(4), (8), redesignated par. (9)
 
 Section effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as an Effective Date of 2007 Amendment note under section 331 of this title.
 
+#### Prescriber Education
+
+Pub. L. 114–198, title I, §106(b), July 22, 2016, 130 Stat. 703, provided that: "Not later than 1 year after the date of the enactment of this Act \[July 22, 2016\], the Secretary \[of Health and Human Services\], acting through the Commissioner of Food and Drugs, as part of the Food and Drug Administration's evaluation of the Extended-Release/Long-Acting Opioid Analgesics Risk Evaluation and Mitigation Strategy, and in consultation with relevant stakeholders, shall develop recommendations regarding education programs for prescribers of opioids pursuant to section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1), including recommendations on—
+
+&emsp;"(1) which prescribers should participate in such programs; and
+
+&emsp;"(2) how often participation in such programs is necessary."
+
 #### Guidance
 
 Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: "Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies."
 
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "single, shared system,".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "single, shared system,".</i>
 

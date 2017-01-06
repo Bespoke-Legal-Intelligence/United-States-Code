@@ -6,7 +6,7 @@
 
 &emsp;(2) imposes the duty to withhold generally on the payment of compensation earned within the jurisdiction of the city or county in the case of employees whose regular place of employment is within such jurisdiction;
 
-> the Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the city or county within 120 days of a request for agreement by the proper city or county official. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of the city or county ordinance in the case of any employee of the agency who is subject to the tax and (i) whose regular place of Federal employment is within the jurisdiction of the city or county with which the agreement is made or (ii) is a resident of such city or county. The agreement may not apply to pay for service as a member of the Armed Forces (other than service described in section 5517(d) of this title). The agreement may not permit withholding of a city or county tax from the pay of an employee who is not a resident of, or whose regular place of Federal employment is not within, the State in which that city or county is located unless the employee consents to the withholding.
+> the Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the city or county within 120 days of a request for agreement by the proper city or county official. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of the city or county ordinance in the case of any employee of the agency who is subject to the taxand (i) whose regular place of Federal employment is within the jurisdiction of the city or county with which the agreement is made or (ii) is a resident of such city or county. The agreement may not apply to pay for service as a member of the Armed Forces (other than service described in section 5517(d) of this title). The agreement may not permit withholding of a city or county tax from the pay of an employee who is not a resident of, or whose regular place of Federal employment is not within, the State in which that city or county is located unless the employee consents to the withholding.
 
 (b) This section does not give the consent of the United States to the application of an ordinance which imposes more burdensome requirements on the United States than on other employers or which subjects the United States or its employees to a penalty or liability because of this section. An agency of the United States may not accept pay from a city or county for services performed in withholding city or county income or employment taxes from the pay of employees of the agency.
 
@@ -82,7 +82,7 @@ Ex. Ord. No. 11863, June 12, 1975, 40 F.R. 25431, which related to the withholdi
 
 #### Executive Order No. 11968
 
-Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, which related to the withholding of District of Columbia, State and city income or employment taxes, was revoked by Ex. Ord. No. 11997, June 22, 1977, 42 F.R. 31759, set out below.
+Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, which related to the withholding of District of Columbia, Stateand city income or employment taxes, was revoked by Ex. Ord. No. 11997, June 22, 1977, 42 F.R. 31759, set out below.
 
 #### Ex. Ord. No. 11997. Withholding of District of Columbia, State, City and County Income or Employment Taxes
 
@@ -98,7 +98,7 @@ Sec. 3. The head of each agency shall designate, or provide for the designation 
 
 Sec. 4. The Secretary of the Treasury is authorized to prescribe additional regulations to implement Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and this Order.
 
-Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretoforetaken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
+Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

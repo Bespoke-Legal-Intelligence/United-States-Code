@@ -34,7 +34,7 @@
 
 &emsp;(B) the authority granted to the Office of Personnel Management under this section shall be exercised by the Director of the Congressional Budget Office.
 
-(Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, §1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, §209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931; Pub. L. 111–68, div. A, title I, §1303(a), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–76, div. I, title I, §1201(a), Jan. 17, 2014, 128 Stat. 426.)
+(Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, §1314(b), Nov. 25, 2002, 116 Stat. 2296;Pub. L. 107–347, title II, §209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931; Pub. L. 111–68, div. A, title I, §1303(a), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–76, div. I, title I, §1201(a), Jan. 17, 2014, 128 Stat. 426.)
 
 #### References in Text
 

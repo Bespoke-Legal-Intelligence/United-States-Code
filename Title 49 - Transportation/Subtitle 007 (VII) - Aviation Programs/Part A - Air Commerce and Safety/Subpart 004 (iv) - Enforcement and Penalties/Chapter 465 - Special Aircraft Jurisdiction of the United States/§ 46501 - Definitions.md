@@ -6,7 +6,7 @@ In this chapter—
 
 &emsp;&emsp;(A) through the moment when one external door is opened to allow passengers to leave the aircraft; or
 
-&emsp;&emsp;(B) until, if a forced landing, competent authorities take over responsibility for theaircraft and individuals and property on the aircraft.
+&emsp;&emsp;(B) until, if a forced landing, competent authorities take over responsibility for the aircraft and individuals and property on the aircraft.
 
 &emsp;(2) "special aircraft jurisdiction of the United States" includes any of the following aircraft in flight:
 
@@ -20,7 +20,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(i) that has its next scheduled destination or last place of departure in the United States, if the aircraft next lands in the United States;
 
-&emsp;&emsp;&emsp;(ii) on which an individual commits an offense (as defined in the Convention for the Suppression of Unlawful Seizure of Aircraft) if the aircraft lands in the United States with the individual still on the aircraft; or
+&emsp;&emsp;&emsp;(ii) on which an individual commits an offense (as defined in the Convention forthe Suppression of Unlawful Seizure of Aircraft) if the aircraft lands in the United States with the individual still on the aircraft; or
 
 &emsp;&emsp;&emsp;(iii) against which an individual commits an offense (as defined in subsection (d) or (e) of article I, section I of the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation) if the aircraft lands in the United States with the individual still on the aircraft.
 

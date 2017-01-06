@@ -2,7 +2,7 @@
 
 (a) The president may appoint temporary commissioned officers—
 
-&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrantofficers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
+&emsp;(1) in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from holders of licenses issued under chapter 71 of title 46; and
 
 &emsp;(2) in the Coast Guard Reserve in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers of the Coast Guard Reserve.
 

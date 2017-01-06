@@ -60,9 +60,9 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(v) Exports which have been reported to the Attorney General pursuant to section 954 or 971 of this title or which are subject to a waiver granted under section 971(f)(2) of this title.
 
-&emsp;(vi) Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II of this chapter.
+&emsp;(vi) Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II.
 
-(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
+(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
@@ -70,9 +70,9 @@ Mail order reporting.—(A) As used in this paragraph:
 
 (2) Information referred to in paragraph (1) may be disclosed only—
 
-&emsp;(A) to an officer or employee of the United States engaged in carrying out this subchapter, subchapter II of this chapter, or the customs laws;
+&emsp;(A) to an officer or employee of the United States engaged in carrying out this subchapter, subchapter II, or the customs laws;
 
-&emsp;(B) when relevant in any investigation or proceeding for the enforcement of this subchapter, subchapter II of this chapter, or the customs laws;
+&emsp;(B) when relevant in any investigation or proceeding for the enforcement of this subchapter, subchapter II, or the customs laws;
 
 &emsp;(C) when necessary to comply with an obligation of the United States under a treaty or other international agreement; or
 
@@ -108,7 +108,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
 
-&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except that such requirement does not apply to any purchase by an individual of a single salespackage if that package contains not more than 60 milligrams of pseudoephedrine.
+&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the "logbook"), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
 
 &emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless the sale is made in accordance with the following:
 
@@ -232,7 +232,7 @@ The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably 
 
 This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-Subchapter II of this chapter, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
 
@@ -286,7 +286,7 @@ Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided
 
 &emsp;"(B) Such subsection (e)(1) applies on and after September 30, 2006."
 
-Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: "The amendments made byparagraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\]."
+Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\]."
 
 #### Effective Date of 1993 Amendment
 

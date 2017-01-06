@@ -162,7 +162,7 @@ The State must ensure that the policies and procedures under this section are pu
 
 In this section—
 
-&emsp;(1) the term "child care provider" means a center-based child care provider, a family child care provider, or another provider of child care services for compensation and on a regular basis that—
+&emsp;(1) the term "child care provider" means a center-based child care provider, a familychild care provider, or another provider of child care services for compensation and on a regular basis that—
 
 &emsp;&emsp;(A) is not an individual who is related to all children for whom child care services are provided; and
 

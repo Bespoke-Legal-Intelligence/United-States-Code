@@ -6,7 +6,7 @@ In order to carry out the obligations of the United States under the Convention,
 
 &emsp;(b) to construct, operate, and maintain any project or works designed to facilitate compliance with the provisions of the Convention relating to the sea lamprey control program; and
 
-&emsp;(c) to enter into contract or agreement with any State or other public agency or privateagency or individual for the construction, operation, or maintenance of any such project or works.
+&emsp;(c) to enter into contract or agreement with any State or other public agency or private agency or individual for the construction, operation, or maintenance of any such project or works.
 
 (June 4, 1956, ch. 358, §6, 70 Stat. 243.)
 

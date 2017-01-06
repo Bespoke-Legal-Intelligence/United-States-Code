@@ -6,11 +6,31 @@ Gas and Hazardous Liquid.—
 
 &emsp;(1)
 
-In general.—To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants.
+In general.—To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—
+
+&emsp;&emsp;(A) $124,500,000 for fiscal year 2016, of which $9,000,000 shall be expended for carrying out such section 12 and $39,385,000 shall be expended for making grants;
+
+&emsp;&emsp;(B) $128,000,000 for fiscal year 2017 <sup>1</sup> of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;
+
+&emsp;&emsp;(C) $131,000,000 for fiscal year 2018, of which $9,000,000 shall be expended for carrying out such section 12 and $44,885,000 shall be expended for making grants; and
+
+&emsp;&emsp;(D) $134,000,000 for fiscal year 2019, of which $9,000,000 shall be expended for carrying out such section 12 and $47,885,000 shall be expended for making grants.
 
 &emsp;(2)
 
-Trust fund amounts.—In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.
+Trust fund amounts.—In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355)—
+
+&emsp;&emsp;(A) $22,123,000 for fiscal year 2016, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+
+&emsp;&emsp;(B) $22,123,000 for fiscal year 2017, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+
+&emsp;&emsp;(C) $23,000,000 for fiscal year 2018, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants; and
+
+&emsp;&emsp;(D) $23,000,000 for fiscal year 2019, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants.
+
+&emsp;(3)
+
+Underground natural gas storage facility safety account.—To carry out section 60141, there is authorized to be appropriated to the Department of Transportation from fees collected under section 60302 $8,000,000 for each of fiscal years 2017 through 2019.
 
 (b)
 
@@ -28,7 +48,7 @@ Authorization of appropriations.—There is authorized to be appropriated $10,00
 
 Crediting Appropriations for Expenditures for Training.—The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922; Pub. L. 114–183, §2(a), June 22, 2016, 130 Stat. 514.)
 
 Historical and Revision Notes
 
@@ -88,7 +108,7 @@ In this section, references to fiscal years ending September 30, 1980, 1981, and
 
 In subsection (a), the words "(except sections 60107 and 60114(b))" are substituted for "(other than provisions for which funds are authorized to be appropriated under subsection . . . (c) of this section or section 1687 of this Appendix)" to eliminate unnecessary words. The reference to subsection (b) is omitted as obsolete.
 
-In subsection (b), the words "(except sections 60107" are substituted for "(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)" to eliminate unnecessary words. The words "subsection (b) of this section or" areomitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
+In subsection (b), the words "(except sections 60107" are substituted for "(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)" to eliminate unnecessary words. The words "subsection (b) of this section or" are omitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
 
 In subsection (c)(1) and (2), the words "the Federal grants-in-aid provisions of" are omitted as surplus.
 
@@ -99,6 +119,12 @@ In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as exp
 In subsection (f)(5), the words "made available" are omitted as surplus.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–183, §2(a)(1), substituted "there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—" for "there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants." and added subpars. (A) to (D).
+
+Subsec. (a)(2). Pub. L. 114–183, §2(a)(2), substituted "there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355)—" for "there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants." and added subpars. (A) to (D).
+
+Subsec. (a)(3). Pub. L. 114–183, §2(a)(3), added par. (3).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–90, §32(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations and trust fund amounts for gas and hazardous liquid transportation for fiscal years 2007 through 2010.
 
@@ -199,4 +225,6 @@ Gas.—Not more than the following amounts may be appropriated to the Secretary 
 &emsp;"(3) $7,500,000 for the fiscal year ending September 30, 1995."
 
 Subsec. (c)(1). Pub. L. 104–304, §21(b), added subpars. (D) to (H).
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -22,3 +22,7 @@ The District of Columbia Campaign Finance Reform and Conflict of Interest Act, r
 
 The Office of the Chief Technology Officer Establishment Act of 1998, referred to in subsec. (c), is an act of the District of Columbia and is not classified to the Code.
 
+#### Effective Date
+
+Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
+

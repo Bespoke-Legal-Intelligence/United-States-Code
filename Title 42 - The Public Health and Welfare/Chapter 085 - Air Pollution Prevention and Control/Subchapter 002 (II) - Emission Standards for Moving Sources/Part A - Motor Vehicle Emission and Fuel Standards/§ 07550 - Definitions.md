@@ -16,7 +16,7 @@ As used in this part—
 
 &emsp;(7)
 
-Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight.—The terms "vehicle curb weight", "gross vehicle weight rating" (GVWR), "light-duty truck" (LDT), light-duty vehicle,<sup>1</sup> and "loaded vehicle weight" (LVW) have the meaning provided in regulations promulgated by the Administrator and in effect as of November 15, 1990. The abbreviations in parentheses corresponding to any term referred to in this paragraph shall have the same meaning as the corresponding term.
+Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight.—The terms "vehicle curb weight", "gross vehicle weight rating" (GVWR), "light-duty truck" (LDT), light-duty vehicle,<sup>1</sup> and "loaded vehicle weight" (LVW) have the meaning provided inregulations promulgated by the Administrator and in effect as of November 15, 1990. The abbreviations in parentheses corresponding to any term referred to in this paragraph shall have the same meaning as the corresponding term.
 
 &emsp;(8)
 

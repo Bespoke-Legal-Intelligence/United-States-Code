@@ -120,7 +120,7 @@ Effective Date of Section 506.—The amendments made by section 506 of this Act 
 
 Pub. L. 98–459, title VIII, §803, Oct. 9, 1984, 98 Stat. 1793, provided that:
 
-"(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f,3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
+"(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
 
 "(b)(1) The amendment made by section 206(a) \[amending section 3017 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 9, 1984\].
 
@@ -133,6 +133,10 @@ Pub. L. 98–459, title VIII, §803, Oct. 9, 1984, 98 Stat. 1793, provided that:
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–478, title V, §504, Oct. 18, 1978, 92 Stat. 1559, provided that: "This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978."
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–144, §1, Apr. 19, 2016, 130 Stat. 334, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Reauthorization Act of 2016'."
 
 #### Short Title of 2007 Amendment
 
@@ -152,7 +156,7 @@ Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: "This Act \
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Amendments of 1992'."
+Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This Act \[see Tables for classification\]may be cited as the 'Older Americans Act Amendments of 1992'."
 
 #### Short Title of 1987 Amendment
 
@@ -201,6 +205,32 @@ Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 9
 #### Regulations
 
 Pub. L. 102–375, title IX, §902, Sept. 30, 1992, 106 Stat. 1305, provided that: "Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\]."
+
+#### Guidance on Serving Holocaust Survivors
+
+Pub. L. 114–144, §10, Apr. 19, 2016, 130 Stat. 352, provided that:
+
+"(a)
+
+In General.—Because the services under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) arecritical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizations serving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography.
+
+"(b)
+
+Contents.—The guidance shall include the following:
+
+&emsp;"(1) How nutrition service providers may meet the special health-related or other dietary needs of participants in programs under the Older Americans Act of 1965, including needs based on religious, cultural, or ethnic requirements.
+
+&emsp;"(2) How transportation service providers may address the urgent transportation needs of Holocaust survivors.
+
+&emsp;"(3) How State long-term care ombudsmen may address the unique needs of residents of long-term care facilities for whom institutional settings may produce sights, sounds, smells, emotions, and routines, that can induce panic, anxiety, and retraumatization as a result of experiences from the Holocaust.
+
+&emsp;"(4) How supportive services providers may consider the unique needs of Holocaust survivors.
+
+&emsp;"(5) How other services provided under that Act, as determined by the Assistant Secretary for Aging, may serve Holocaust survivors.
+
+"(c)
+
+Date of Issuance.—The guidance described in subsection (a) shall be issued not later than 180 days after the date of enactment of this Act \[Apr. 19, 2016\]."
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 
@@ -556,7 +586,7 @@ Participants.—In order to carry out the purposes of this section, the Conferen
 
 &emsp;"(2)
 
-Selection of delegates.—The delegates shall be selected without regard to political affiliation orpast partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
+Selection of delegates.—The delegates shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
 
 #### "SEC. 202. CONFERENCE ADMINISTRATION.
 
@@ -666,11 +696,11 @@ Other committees.—The Secretary may establish such other committees, including
 
 "(c)
 
-Composition of Committees.—Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minoritygroups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
+Composition of Committees.—Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minority groups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
 
 "(d)
 
-Compensation.—Appointed members of any such committee (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily equivalent of the maximum rate of pay payable under section 5376 of title 5, United States Code (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
+Compensation.—Appointed members of any such committee (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily equivalent of the maximumrate of pay payable under section 5376 of title 5, United States Code (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
 
 #### "SEC. 204. REPORT OF THE CONFERENCE.
 

@@ -22,7 +22,7 @@ In general.—The Space Launch System developed pursuant to subsection (b) shall
 
 &emsp;&emsp;(A) The initial capability of the core elements, without an upper stage, of lifting payloads weighing between 70 tons and 100 tons into low-Earth orbit in preparation for transit for missions beyond low-Earth orbit.
 
-&emsp;&emsp;(B) The capability to carry an integrated upper Earth departure stage bringing the total lift capability of the Space Launch System to 130 tons or more.
+&emsp;&emsp;(B) The capability to carry an integrated upper Earth departure stage bringing thetotal lift capability of the Space Launch System to 130 tons or more.
 
 &emsp;&emsp;(C) The capability to lift the multipurpose crew vehicle.
 

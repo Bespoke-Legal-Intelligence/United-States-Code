@@ -32,7 +32,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 #### (b) Availability of terms to consumer; manner and form for presentation and display of information; duration; extension of period for written warranty or service contract; electronic display of terms of warranty
 
-(1)(A) The Commission shall prescribe rules requiring that the terms of any written warranty on a consumer product be made available to the consumer (or prospective consumer) prior to the sale of the product to him.
+(1)(A) The Commission shall prescribe rules requiring that the terms of any written warrantyon a consumer product be made available to the consumer (or prospective consumer) prior to the sale of the product to him.
 
 (B) The Commission may prescribe rules for determining the manner and form in which information with respect to any written warranty of a consumer product shall be clearly and conspicuously presented or displayed so as not to mislead the reasonable, average consumer, when such information is contained in advertising, labeling, point-of-sale material, or other representations in writing.
 
@@ -96,5 +96,5 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 "(2)
 
-Authority to waive requirement for oral presentation.—In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act (15 U.S.C. 2309(a)) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere with the ability of the Commission to revise rules under paragraph (1) in a timely manner."
+Authority to waive requirement for oral presentation.—In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act (15 U.S.C. 2309(a)) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere withthe ability of the Commission to revise rules under paragraph (1) in a timely manner."
 

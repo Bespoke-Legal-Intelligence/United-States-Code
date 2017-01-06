@@ -38,19 +38,19 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall issue regulations establishing standards and procedures governing the imposition of civil money penalties under subsection (b) of this section. These standards and procedures—
+&emsp;The Secretary shall issue regulations establishing standards and procedures governing the imposition of civil money penalties under subsection (b). These standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Secretary or other department official to make the determination to impose the penalty;
 
 &emsp;&emsp;(B) shall provide for the imposition of a penalty only after the liable party has received notice and the opportunity for a hearing on the record; and
 
-&emsp;&emsp;(C) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing and judicial review, as provided under subsection (d) of this section.
+&emsp;&emsp;(C) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing and judicial review, as provided under subsection (d).
 
 #### (2) Final orders
 
 #### (A) In general
 
-&emsp;&emsp;If a hearing is not requested before the expiration of the 15-day period beginning on the date on which the notice of opportunity for hearing is received, the imposition of a penalty under subsection (b) of this section shall constitute a final and unappealable determination.
+&emsp;&emsp;If a hearing is not requested before the expiration of the 15-day period beginning on the date on which the notice of opportunity for hearing is received, the imposition of a penalty under subsection (b) shall constitute a final and unappealable determination.
 
 #### (B) Effect of review
 
@@ -62,7 +62,7 @@
 
 #### (3) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under subsection (b) of this section, the Secretary shall take into consideration—
+&emsp;In determining the amount of a penalty under subsection (b), the Secretary shall take into consideration—
 
 &emsp;&emsp;(A) the gravity of the offense;
 
@@ -94,7 +94,7 @@ Judicial review of determinations made under this section shall be carried out i
 
 #### (A) In general
 
-&emsp;&emsp;If a person or entity fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (b) of this section, after the determination or order is no longer subject to review as provided by subsections (c) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against that person or entity and such other relief as may be available.
+&emsp;&emsp;If a person or entity fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (b), after the determination or order is no longer subject to review as provided by subsections (c) and (d), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against that person or entity and such other relief as may be available.
 
 #### (B) Fees and expenses
 

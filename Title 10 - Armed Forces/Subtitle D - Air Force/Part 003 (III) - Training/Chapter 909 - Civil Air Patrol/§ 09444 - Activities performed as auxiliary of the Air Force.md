@@ -60,3 +60,7 @@ Assistance by Other Agencies.—(1) The Secretary of the Air Force may arrange f
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–217, in introductory provisions, inserted "subtitle I of title 40 and title III of" before "the Federal Property and Administrative Services Act of 1949" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
+#### Effective Date
+
+Section effective 120 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1090(c)\] of Pub. L. 106–398, set out as a note under section 9441 of this title.
+

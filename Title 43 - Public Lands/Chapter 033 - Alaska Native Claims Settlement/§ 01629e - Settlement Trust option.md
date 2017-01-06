@@ -26,7 +26,7 @@
 
 &emsp;(A) operate as a business;
 
-&emsp;(B) alienate land or any interest in land received from the settlor Native Corporation (except if the recipient of the land is the settlor corporation or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres); or
+&emsp;(B) alienate land or any interest in land received from the settlor Native Corporation\(except if the recipient of the land is the settlor corporation or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres); or
 
 &emsp;(C) discriminate in favor of a group of individuals composed only or principally of employees, officers, or directors of the settlor Native Corporation.
 
@@ -72,7 +72,7 @@
 
 &emsp;(B) occur when the Native Corporation is insolvent;
 
-> the assets so conveyed to the Settlement Trust shall not be subject to attachment, distraint, orsale on execution of judgment or other process or order of any court, except with respect to the lawful debts or obligations of the Settlement Trust.
+> the assets so conveyed to the Settlement Trust shall not be subject to attachment, distraint, or sale on execution of judgment or other process or order of any court, except with respect to the lawful debts or obligations of the Settlement Trust.
 
 (6) No transferee Settlement Trust shall make a distribution or conveyance of assets (including cash, stock, or beneficial interests) that would render it unable to satisfy a claim made pursuant to paragraph (1), (2), or (3). A distribution or conveyance made in violation of this paragraph shall be void ab initio and shall not be given effect by any court.
 

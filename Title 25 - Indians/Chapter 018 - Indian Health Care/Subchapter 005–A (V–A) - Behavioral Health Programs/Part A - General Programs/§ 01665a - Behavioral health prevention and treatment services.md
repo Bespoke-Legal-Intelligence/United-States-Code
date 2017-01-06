@@ -158,5 +158,5 @@ Section 702 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665a, Pub. L. 94–437, title VII, §702, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, provided for Indian Health Service program, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665a, Pub. L. 94–437, title VII, §702, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, provided for Indian Health Service program,prior to the general amendment of this subchapter by Pub. L. 111–148.
 

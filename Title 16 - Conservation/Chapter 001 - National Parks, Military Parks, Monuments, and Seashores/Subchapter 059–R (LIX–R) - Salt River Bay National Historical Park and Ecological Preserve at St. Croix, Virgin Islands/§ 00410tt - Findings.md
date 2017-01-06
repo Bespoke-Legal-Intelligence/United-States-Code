@@ -10,7 +10,7 @@ The Congress finds that the Salt River Bay area of the north central coast of St
 
 &emsp;(4) was a focal point of various European attempts to colonize the area during the post-Columbian period and contains sites of Spanish, French, Dutch, English, and Danish settlements, including Fort Sale, one of the few remaining earthwork fortifications in the Western Hemisphere;
 
-&emsp;(5) presents an outstanding opportunity to preserve and interpret Caribbean history andculture, including the impact of European exploration and settlement;
+&emsp;(5) presents an outstanding opportunity to preserve and interpret Caribbean history and culture, including the impact of European exploration and settlement;
 
 &emsp;(6) has been a national natural landmark since February 1980 and has been nominated for acquisition as a nationally significant wildlife habitat;
 

@@ -1,0 +1,6 @@
+### §1750a. Omitted
+
+#### Codification
+
+Section, Pub. L. 105–83, title VII, §703, Nov. 14, 1997, 111 Stat. 1624, which set out definitions for this part, was omitted from the Code as being of special and not general application.
+

@@ -234,7 +234,7 @@ Pub. L. 99–509, title IX, §9313(d), Oct. 21, 1986, 100 Stat. 2004, as amended
 
 #### Special Treatment of States Formerly Under Waiver
 
-For treatment of hospitals in States which have had a waiver approved under this section, upon termination of waiver, see section 9202(j) of Pub. L. 99–272, as amended, set out as a note under section 1395ww of this title.
+For treatment of hospitals in States which have had a waiver approved under this section, upon terminationof waiver, see section 9202(j) of Pub. L. 99–272, as amended, set out as a note under section 1395ww of this title.
 
 #### Drug Detoxification Medicare Coverage and Facility Incentives
 
@@ -254,7 +254,7 @@ Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secreta
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 
-Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submitto Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
 #### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
 

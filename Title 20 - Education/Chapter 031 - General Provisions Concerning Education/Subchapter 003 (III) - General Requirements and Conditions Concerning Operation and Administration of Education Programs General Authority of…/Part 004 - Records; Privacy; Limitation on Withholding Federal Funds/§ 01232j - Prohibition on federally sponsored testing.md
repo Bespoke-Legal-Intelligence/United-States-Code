@@ -2,11 +2,11 @@
 
 #### (a) General prohibition
 
-Notwithstanding any other provision of Federal law and except as provided in subsection (b) of this section, no funds provided to the Department of Education or to an applicable program, may be used to pilot test, field test, implement, administer or distribute in any way any federally sponsored national test in reading, mathematics, or any other subject that is not specifically and explicitly provided for in authorizing legislation enacted into law.
+Notwithstanding any other provision of Federal law and except as provided in subsection (b), no funds provided to the Department of Education or to an applicable program, may be used to pilot test, field test, implement, administer or distribute in any way any federally sponsored national test in reading, mathematics, or any other subject that is not specifically and explicitly provided for in authorizing legislation enacted into law.
 
 #### (b) Exceptions
 
-Subsection (a) of this section shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
+Subsection (a) shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to onlya representative sample of pupils in the United States and in foreign nations.
 
 (Pub. L. 90–247, title IV, §447, as added Pub. L. 105–277, div. A, §101(f) \[title III, §305(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374; amended Pub. L. 107–110, title X, §1062(4), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–279, title IV, §404(c), Nov. 5, 2002, 116 Stat. 1985.)
 
@@ -28,7 +28,7 @@ Section 1233d, Pub. L. 90–247, title IV, §445, formerly §435, as added Pub. 
 
 Section 1233e, Pub. L. 90–247, title IV, §446, formerly §436, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §446, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to advisory council meetings.
 
-Section 1233f, Pub. L. 90–247, title IV, §447, formerly §437, as added Pub. L. 91–230, title IV, §401(a)(10), Apr.13, 1970, 84 Stat. 172; renumbered §447, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, §517(b), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to auditing and review of advisory council activities.
+Section 1233f, Pub. L. 90–247, title IV, §447, formerly §437, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §447, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, §517(b), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to auditing and review of advisory council activities.
 
 Section 1233g, Pub. L. 90–247, title IV, §448, formerly §438, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §448, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, §1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary.
 

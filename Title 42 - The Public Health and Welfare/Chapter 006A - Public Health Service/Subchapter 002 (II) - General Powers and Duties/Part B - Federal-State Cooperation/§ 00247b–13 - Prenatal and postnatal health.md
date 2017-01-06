@@ -4,7 +4,7 @@
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out programs—
 
-&emsp;(1) to collect, analyze, and make available data on prenatal smoking, alcohol and illegal drug use, including data on the implications of such activities and on the incidence and prevalence of such activities and their implications;
+&emsp;(1) to collect, analyze, and make available data on prenatal smoking, alcohol and illegaldrug use, including data on the implications of such activities and on the incidence and prevalence of such activities and their implications;
 
 &emsp;(2) to conduct applied epidemiological research on the prevention of prenatal and postnatal smoking, alcohol and illegal drug use;
 
@@ -14,7 +14,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Grants
 
-In carrying out subsection (a) of this section, the Secretary may award grants to and enter into contracts with States, local governments, scientific and academic institutions, federally qualified health centers, and other public and nonprofit entities, and may provide technical and consultative assistance to such entities.
+In carrying out subsection (a), the Secretary may award grants to and enter into contracts with States, local governments, scientific and academic institutions, federally qualified health centers, and other public and nonprofit entities, and may provide technical and consultative assistance to such entities.
 
 #### (c) Authorization of appropriations
 

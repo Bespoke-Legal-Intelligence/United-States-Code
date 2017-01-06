@@ -14,5 +14,5 @@ Section 617, added Pub. L. 93–443, title I, §101(f)(1), Oct. 15, 1974, 88 Sta
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture, or liability incurred under such sections, with each section to be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see section 114 of Pub. L. 94–283, set out as a note under section 441 of Title 2, The Congress.
+Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture, or liability incurred under such sections, with each section to be treated as remainingin force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see section 114 of Pub. L. 94–283, set out as a note under section 441 of Title 2, The Congress.
 

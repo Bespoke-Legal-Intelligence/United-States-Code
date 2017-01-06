@@ -4,9 +4,21 @@ In the case of a major automated information system program covered by this chap
 
 (Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2326; amended Pub. L. 111–84, div. A, title VIII, §817(a), Oct. 28, 2009, 123 Stat. 2408.)
 
+#### Repeal of Section
+
+<i>For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.</i>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–84 substituted "of this title, the Secretary may designate the program to be treated only as a major automated information system program covered by this chapter or to be treated only as a major defense acquisition program covered by such chapter 144." for "of this title, no reports on the program are required under such chapter if the requirements of this chapter with respect to the program are met."
+
+#### Effective Date of Repeal
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
+#### Effective Date
+
+Section effective Jan. 1, 2008, and applicable with respect to any major automated information system program for which amounts are requested in the budget of the President for a fiscal year after fiscal year 2008, see section 816(c) of Pub. L. 109–364, set out as a note under section 2445a of this title.
 
 #### Guidance Required
 
@@ -14,5 +26,5 @@ Pub. L. 111–84, div. A, title VIII, §817(b), Oct. 28, 2009, 123 Stat. 2408, p
 
 &emsp;"(1) a program covered by such section that requires the development of customized hardware shall be treated only as a major defense acquisition program under chapter 144 of title 10, United States Code; and
 
-&emsp;"(2) a program covered by such section that does not require the development of customized hardware shall be treated only as a major automated information system program under chapter 144A of title 10, United States Code."
+&emsp;"(2) a program covered by such section that does not require the development of customized hardwareshall be treated only as a major automated information system program under chapter 144A of title 10, United States Code."
 

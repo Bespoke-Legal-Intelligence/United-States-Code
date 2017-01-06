@@ -50,13 +50,13 @@ Special rule for regional projects.—A Commission may increase to 60 percent un
 
 (e)
 
-Maintenance of Effort.—Funds may be provided by a Commission for a program or project in a State under this section only if the Commission determines that the level of Federal or State financial assistance provided under a law other than this subtitle, for the same type of program or project in the same area of the State within region, will not be reduced as a result of funds made available by this subtitle.
+Maintenance of Effort.—Funds may be provided by a Commission for a program or project in a State under this section only if the Commission determines that the level of Federal or State financial assistance provided under a law other than this subtitle, for the same typeof program or project in the same area of the State within region, will not be reduced as a result of funds made available by this subtitle.
 
 (f)
 
 No Relocation Assistance.—Financial assistance authorized by this section may not be used to assist a person or entity in relocating from one area to another.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236.)
 
 #### Codification
 

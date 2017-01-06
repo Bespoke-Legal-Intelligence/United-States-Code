@@ -10,7 +10,7 @@ It shall be unlawful for any affiliated person or promoter of or principal under
 
 &emsp;(3) to borrow money or other property from such registered company or from any company controlled by such registered company (unless the borrower is controlled by the lender) except as permitted in section 80a–21(b) of this title; or
 
-&emsp;(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultationwith and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), prescribe or issue consistent with the protection of investors.
+&emsp;(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), prescribe or issue consistent with the protection of investors.
 
 #### (b) Application for exemption of proposed transaction from certain restrictions
 
@@ -58,7 +58,7 @@ The Commission is authorized to require by rules and regulations or orders for t
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
-After one year from the effective date of this subchapter, neither the charter, certificate of incorporation, articles of association, indenture of trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provision which protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
+After one year from the effective date of this subchapter, neither the charter, certificate of incorporation, articles of association, indenture of trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provisionwhich protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
 
 #### (i) Provisions in contracts protecting against willful misfeasance, etc.
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

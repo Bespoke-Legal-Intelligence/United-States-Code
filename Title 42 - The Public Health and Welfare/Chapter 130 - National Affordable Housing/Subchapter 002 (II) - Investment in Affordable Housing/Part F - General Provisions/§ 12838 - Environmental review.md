@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of lawwhich further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the expenditure of funds under this subchapter, and to assure to the public undiminished protection of the environment, the Secretary, in lieu of the environmental protection procedures otherwise applicable, may under regulations provide for the release of funds for particular projects to jurisdictions or insular areas under this subchapter who assume all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were he to undertake such projects as Federal projects. The Secretary shall issue regulations to carry out this section only after consultation with the Council on Environmental Quality. The regulations shall provide—
+In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the expenditure of funds under this subchapter, and to assure to the public undiminished protection of the environment, the Secretary, in lieu of the environmental protection procedures otherwise applicable, may under regulations provide for the release of funds for particular projects to jurisdictions or insular areas under this subchapter who assume all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were he to undertake such projects as Federal projects. The Secretary shall issue regulations to carry out this section only after consultation with the Council on Environmental Quality. The regulations shall provide—
 
 &emsp;(1) for the monitoring of the environmental reviews performed under this section;
 
@@ -14,7 +14,7 @@ In order to assure that the policies of the National Environmental Policy Act of
 
 #### (b) Procedure
 
-The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, at least 15 days prior to such approval and prior to any commitment of funds to such projects <sup>1</sup> the jurisdiction or insular area has submitted to the Secretary a request for such release accompanied by a certification which meets the requirements of subsection (c) of this section. The Secretary's approval of any such certification shall be deemed to satisfy his responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto which are covered by such certification.
+The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, at least 15 days prior to such approval and prior to any commitment of funds to such projects <sup>1</sup> the jurisdiction or insular area has submitted to the Secretary a request for such release accompanied by a certification which meets the requirements of subsection (c). The Secretary's approval of any such certification shall be deemed to satisfy his responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto which are covered by such certification.
 
 #### (c) Certification
 
@@ -24,13 +24,13 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(2) be executed by the chief executive officer or other officer of the recipient of assistance under this subchapter qualified under regulations of the Secretary,
 
-&emsp;(3) specify that the recipient of assistance under this subchapter has fully carried out its responsibilities as described under subsection (a) of this section, and
+&emsp;(3) specify that the recipient of assistance under this subchapter has fully carried out its responsibilities as described under subsection (a), and
 
-&emsp;(4) specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a) of this section, and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
+&emsp;(4) specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a), and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
 
 #### (d) Assistance to units of general local government from a State
 
-In the case of assistance to units of general local government from a State, the State shall perform those actions of the Secretary described in subsection (b) of this section and the performance of such actions shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of such subsection.
+In the case of assistance to units of general local government from a State, the State shall perform those actions of the Secretary described in subsection (b) and the performance of such actions shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of such subsection.
 
 (Pub. L. 101–625, title II, §288, Nov. 28, 1990, 104 Stat. 4127; Pub. L. 103–233, title II, §206, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–330, title V, §505(a)(2), Oct. 26, 1996, 110 Stat. 4044.)
 

@@ -22,7 +22,7 @@ Acquiring New Bus Models.—
 
 &emsp;(1)
 
-In general.—Amounts appropriated or otherwise made available under this chaptermay be obligated or expended to acquire a new bus model only if—
+In general.—Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if—
 
 &emsp;&emsp;(A) a bus of that model has been tested at a facility authorized under subsection (a); and
 
@@ -114,7 +114,7 @@ Subsec. (e). Pub. L. 109–59, §3020(c), amended heading and text of subsec. (e
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–178, §3018(a), substituted "enter into a contract or cooperative agreement with, or make a grant to," for "make a contract with" and inserted "or organization" after "qualified person", ", cooperative agreement, or grant" after "The contract", and "mass transportation" after "and other".
 
-Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted "enter into a contract or cooperative agreement with, or make a grant to," for "make a contractwith" and "5309(m)(1)(C) of this title" for "5338(j)(5) of this title".
+Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted "enter into a contract or cooperative agreement with, or make a grant to," for "make a contract with" and "5309(m)(1)(C) of this title" for "5338(j)(5) of this title".
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–429 inserted "Uniform" before "Relocation".
 

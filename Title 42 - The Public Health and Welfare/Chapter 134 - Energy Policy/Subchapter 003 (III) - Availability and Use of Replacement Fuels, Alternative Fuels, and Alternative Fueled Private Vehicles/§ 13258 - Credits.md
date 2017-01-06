@@ -70,7 +70,7 @@ In this section:
 
 #### (c) Allocation
 
-In allocating credits under subsection (b) of this section, the Secretary shall allocate one credit for each alternative fueled vehicle the fleet or covered person acquires that exceeds the number of alternative fueled vehicles that fleet or person is required to acquire under this subchapter or that is acquired before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter. In the event that a vehicle is acquired before the date otherwise required, the Secretary shall allocate one credit per vehicle for each year the vehicle is acquired before the required date. The credit shall be allocated for the same type vehicle as the excess vehicle or earlier acquired vehicle.
+In allocating credits under subsection (b), the Secretary shall allocate one credit for each alternative fueled vehicle the fleet or covered person acquires that exceeds the number of alternative fueled vehicles that fleet or person is required to acquire under this subchapter or that is acquired before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter. In the event that a vehicle is acquired before the date otherwise required, the Secretary shall allocate one credit per vehicle for each year the vehicle is acquired before the required date. The credit shall be allocated for the same type vehicle as the excess vehicle or earlier acquired vehicle.
 
 #### (d) Use of credits
 
@@ -90,7 +90,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–140, §133(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par.\(1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par. (1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 110–140, §133(1), (4), redesignated subsec. (b) as (c) and substituted "subsection (b)" for "subsection (a)". Former subsec. (c) redesignated (d).
 

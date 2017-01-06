@@ -224,7 +224,7 @@ Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–69
 
 Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295; Pub. L. 111–11, title VIII, §8203, Mar. 30, 2009, 123 Stat. 1294; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(G), (2), Dec. 19, 2014, 128 Stat. 3802.
 
-Gullah/Geechee Cultural Heritage Corridor, Florida, Georgia, North Carolina, and South Carolina.—Pub. L. 109–338, title II, §§295–295L, Oct. 12, 2006, 120 Stat. 1832–1837.
+Gullah/Geechee Cultural Heritage Corridor, Florida, Georgia, North Carolina, and South Carolina.—Pub. L. 109–338, title II, §§295–295L, Oct. 12, 2006, 120 Stat. 1832–1837; Pub. L. 114–233, §1, Oct. 7, 2016, 130 Stat. 962.
 
 Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 105–355, title V, §502, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §126\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–338, title IV, Oct. 12, 2006, 120 Stat. 1850.
 
@@ -252,7 +252,7 @@ Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, tit
 
 Automobile National Heritage Area (see MotorCities National Heritage Area, Michigan).
 
-Baltimore National Heritage Area, Maryland.—Pub. L. 111–11, title VIII, §8005, Mar. 30, 2009, 123 Stat. 1247.
+Baltimore National Heritage Area, Maryland.—Pub. L. 111–11, title VIII, §8005, Mar. 30, 2009, 123 Stat. 1247; Pub. L. 114–289, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1490.
 
 Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274.
 
@@ -284,7 +284,7 @@ Mormon Pioneer National Heritage Area, Utah.—Pub. L. 109–338, title II, §§
 
 MotorCities National Heritage Area \[formerly Automobile National Heritage Area\], Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(C), (2), (c)(2), Dec. 19, 2014, 128 Stat. 3802, 3805.
 
-Muscle Shoals National Heritage Area, Alabama.—Pub. L. 111–11, title VIII, §8009, Mar. 30, 2009, 123 Stat. 1275.
+Muscle Shoals National Heritage Area, Alabama.—Pub. L. 111–11, title VIII, §8009, Mar. 30, 2009, 123 Stat. 1275; Pub. L. 114–289, title VI, §601(h), Dec. 16, 2016, 130 Stat. 1491.
 
 National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361; Pub. L. 111–11, title VII, §7117(d), Mar. 30, 2009, 123 Stat. 1204.
 
@@ -364,7 +364,7 @@ Evaluation.—An evaluation conducted under subparagraph (A)(i) shall—
 
 "(C)
 
-Report.—Based on the evaluation conducted under subparagraph (A)(i), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that includes recommendations for the future role of the National Park Service with respect to the national heritage area."
+Report.—Based on the evaluation conducted under subparagraph (A)(i), the Secretary shall submit to the Committee on Energy and Natural Resources ofthe Senate and the Committee on Natural Resources of the House of Representatives a report that includes recommendations for the future role of the National Park Service with respect to the national heritage area."
 
 #### Crossroads of the West Historic District
 
@@ -392,7 +392,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat.
 
 &emsp;"(4) notwithstanding the important role of the Charleston School District in the successful implementation of integrated public schools, the role of the district has not been adequately commemorated and interpreted for the benefit and understanding of the nation.
 
-"(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the'Charleston National Commemorative Site' in commemoration of the Charleston schools' role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
+"(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the 'Charleston National Commemorative Site' in commemoration of the Charleston schools' role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
 
 "(c) The Secretary, after consultation with the Charleston Public School District, shall establish an appropriate commemorative monument and interpretive exhibit at the Charleston National Commemorative Site to commemorate the 1954 integration of Charleston's public schools."
 
@@ -440,7 +440,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;"(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
 
-&emsp;"(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76,9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
+&emsp;"(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
 
 &emsp;"(4) the growth since 1883 of the historic town of Coupeville.
 
@@ -468,7 +468,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 "Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
-"(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
+"(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government towhich such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
 
 "(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section."
 

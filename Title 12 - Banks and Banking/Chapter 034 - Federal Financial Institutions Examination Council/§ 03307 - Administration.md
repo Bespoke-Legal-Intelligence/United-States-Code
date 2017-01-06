@@ -26,5 +26,9 @@ The provisions of title 5 relating to classification, referred to in subsec. (c)
 
 The provisions of title 5 relating to General Schedule pay rates, referred to in subsec. (c), are set out under section 5332 of Title 5.
 
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

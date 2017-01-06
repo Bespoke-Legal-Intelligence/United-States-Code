@@ -1,6 +1,6 @@
 ### §361d. Additions to park
 
-The boundaries of the Hot Springs National Park in the State of Arkansas be, and the same are, extended to include the following lands, to wit:
+The boundaries of the Hot Springs National Park in the State of Arkansas be, and the sameare, extended to include the following lands, to wit:
 
 So much of the northeast quarter section 33, township 2 south, range 19 west, as is now privately owned;
 
@@ -14,7 +14,7 @@ All of section 36, southeast quarter section 35, southeast quarter northeast qua
 
 Northeast quarter section 2, north half southeast quarter section 2, north half section 1, north half southwest quarter section 1, north half southeast quarter section 1, all lying and being situated in township 3 south, range 20 west;
 
-North half section 6, north half southwest quarter section 6, northwest quarter southeastquarter section 6, all lying and being situated in township 3 south, range 19 west;
+North half section 6, north half southwest quarter section 6, northwest quarter southeast quarter section 6, all lying and being situated in township 3 south, range 19 west;
 
 Blocks 27, 189, 195, and 196, city of Hot Springs;
 

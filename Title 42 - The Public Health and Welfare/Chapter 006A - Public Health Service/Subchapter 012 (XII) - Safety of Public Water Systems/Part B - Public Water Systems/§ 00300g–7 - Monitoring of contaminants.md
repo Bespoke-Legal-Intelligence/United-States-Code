@@ -12,7 +12,7 @@
 
 #### (2) Termination; timing of monitoring
 
-&emsp;The interim relief period referred to in paragraph (1) shall terminate when permanent monitoring relief is adopted and approved for such State, or at the end of 36 months afterAugust 6, 1996, whichever comes first. In order to serve as a basis for interim relief, the monitoring conducted at the beginning of the period must occur at the time determined by the State to be the time of the public water system's greatest vulnerability to the contaminant concerned in the relevant ground or surface water, taking into account in the case of pesticides the time of application of the pesticide for the source water area and the travel time for the pesticide to reach such waters and taking into account, in the case of other contaminants, seasonality of precipitation and contaminant travel time.
+&emsp;The interim relief period referred to in paragraph (1) shall terminate when permanent monitoring relief is adopted and approved for such State, or at the end of 36 months after August 6, 1996, whichever comes first. In order to serve as a basis for interim relief, the monitoring conducted at the beginning of the period must occur at the time determined by the State to be the time of the public water system's greatest vulnerability to the contaminant concerned in the relevant ground or surface water, taking into account in the case of pesticides the time of application of the pesticide for the source water area and the travel time for the pesticide to reach such waters and taking into account, in the case of other contaminants, seasonality of precipitation and contaminant travel time.
 
 #### (b) Permanent monitoring relief authority
 
@@ -28,7 +28,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the phrase "reliably and consistently below the maximum contaminant level" means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
+&emsp;&emsp;For purposes of subparagraph (A), the phrase "reliably and consistently below the maximum contaminant level" means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that themaximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
 
 #### (3) Effect of detection of contaminants
 
@@ -44,7 +44,7 @@
 
 #### (c) Treatment as NPDWR
 
-All monitoring relief granted by a State to a public water system for a regulated contaminant under subsection (a) or (b) of this section shall be treated as part of the national primary drinking water regulation for that contaminant.
+All monitoring relief granted by a State to a public water system for a regulated contaminant under subsection (a) or (b) shall be treated as part of the national primary drinking water regulation for that contaminant.
 
 #### (d) Other monitoring relief
 

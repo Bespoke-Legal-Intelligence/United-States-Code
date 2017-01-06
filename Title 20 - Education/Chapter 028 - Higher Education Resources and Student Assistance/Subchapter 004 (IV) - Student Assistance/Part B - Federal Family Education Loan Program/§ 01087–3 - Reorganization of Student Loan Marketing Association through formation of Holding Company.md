@@ -2,7 +2,7 @@
 
 #### (a) Actions by Association's Board of Directors
 
-The Board of Directors of the Association shall take or cause to be taken all such action as the Board of Directors deems necessary or appropriate to effect, upon the shareholder approval described in subsection (b) of this section, a restructuring of the common stock ownership of the Association, as set forth in a plan of reorganization adopted by the Board of Directors (the terms of which shall be consistent with this section) so that all of the outstanding common shares of the Association shall be directly owned by a Holding Company. Such actions may include, in the Board of Director's discretion, a merger of a wholly owned subsidiary of the Holding Company with and into the Association, which would have the effect provided in the plan of reorganization and the law of the jurisdiction in which such subsidiary is incorporated. As part of the restructuring, the Board of Directors may cause—
+The Board of Directors of the Association shall take or cause to be taken all such action as the Board of Directors deems necessary or appropriate to effect, upon the shareholder approval described in subsection (b), a restructuring of the common stock ownership of the Association, as set forth in a plan of reorganization adopted by the Board of Directors (the terms of which shall be consistent with this section) so that all of the outstanding common shares of the Association shall be directly owned by a Holding Company. Such actions may include, in the Board of Director's discretion, a merger of a wholly owned subsidiary of the Holding Company with and into the Association, which would have the effect provided in the plan of reorganization and the law of the jurisdiction in which such subsidiary is incorporated. As part of the restructuring, the Board of Directors may cause—
 
 &emsp;(1) the common shares of the Association to be converted, on the reorganization effective date, to common shares of the Holding Company on a one for one basis, consistent with applicable State or District of Columbia law; and
 
@@ -10,15 +10,15 @@ The Board of Directors of the Association shall take or cause to be taken all su
 
 #### (b) Shareholder approval
 
-The plan of reorganization adopted by the Board of Directors pursuant to subsection (a) of this section shall be submitted to common shareholders of the Association for their approval. The reorganization shall occur on the reorganization effective date, provided that the plan of reorganization has been approved by the affirmative votes, cast in person or by proxy, of the holders of a majority of the issued and outstanding shares of the Association common stock.
+The plan of reorganization adopted by the Board of Directors pursuant to subsection (a) shall be submitted to common shareholders of the Association for their approval. The reorganization shall occur on the reorganization effective date, provided that the plan of reorganization has been approved by the affirmative votes, cast in person or by proxy, of the holders of a majority of the issued and outstanding shares of the Association common stock.
 
 #### (c) Transition
 
-In the event the shareholders of the Association approve the plan of reorganization under subsection (b) of this section, the following provisions shall apply beginning on the reorganization effective date:
+In the event the shareholders of the Association approve the plan of reorganization under subsection (b), the following provisions shall apply beginning on the reorganization effective date:
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter and part C of subchapter I of chapter 34 of title 42 until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
+&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
 
 #### (2) Transfer of certain property
 
@@ -36,7 +36,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit the Association fromtransferring remaining property from time to time to the Holding Company or any subsidiary of the Holding Company, subject to the provisions of paragraph (4).
+&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit the Association from transferring remaining property from time to time to the Holding Company or any subsidiary of the Holding Company, subject to the provisions of paragraph (4).
 
 #### (3) Transfer of personnel
 
@@ -70,7 +70,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 
-&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shall modify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d) of this section.
+&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shall modify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d).
 
 #### (8) Monitoring of safety and soundness
 
@@ -84,13 +84,13 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Summary reports
 
-&emsp;&emsp;The Secretary of the Treasury may require summary reports of the information described in subparagraph (A) to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and subparagraph (A), require the Association to make reports concerning the activities of any associated person whose business activities are reasonably likely tohave a material impact on the financial or operational condition of the Association.
+&emsp;&emsp;The Secretary of the Treasury may require summary reports of the information described in subparagraph (A) to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and subparagraph (A), require the Association to make reports concerning the activities of any associated person whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
 
 #### (C) Separate operation of corporations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the Holding Company or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
+&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the HoldingCompany or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
 
 #### (ii) Books and records
 
@@ -156,7 +156,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (d) Termination of Association
 
-In the event the shareholders of the Association approve a plan of reorganization under subsection (b) of this section, the Association shall dissolve, and the Association's separate existence shall terminate on September 30, 2008, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days after receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to section 1087–2(q) of this title or continues to be needed to purchase loans under an agreement with the Secretary described in subsection (c)(6) of this section. On the dissolution date, the Association shall take the following actions:
+In the event the shareholders of the Association approve a plan of reorganization under subsection (b), the Association shall dissolve, and the Association's separate existence shall terminate on September 30, 2008, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days after receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to section 1087–2(q) of this title or continues to be needed to purchase loans under an agreement with the Secretary described in subsection (c)(6). On the dissolution date, the Association shall take the following actions:
 
 #### (1) Establishment of a trust
 
@@ -176,7 +176,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (e) Operation of Holding Company
 
-In the event the shareholders of the Association approve the plan of reorganization under subsection (b) of this section, the following provisions shall apply beginning on the reorganization effective date:
+In the event the shareholders of the Association approve the plan of reorganization under subsection (b), the following provisions shall apply beginning on the reorganization effective date:
 
 #### (1) Holding Company Board of Directors
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, anydebt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 daysof the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -224,11 +224,11 @@ For purposes of this section:
 
 #### (2) Dissolution date
 
-&emsp;The term "dissolution date" means September 30, 2008, or such earlier date as the Secretary of Education permits the transfer of remaining obligations in accordance with subsection (d) of this section.
+&emsp;The term "dissolution date" means September 30, 2008, or such earlier date as the Secretary of Education permits the transfer of remaining obligations in accordance with subsection (d).
 
 #### (3) Holding Company
 
-&emsp;The term "Holding Company" means the new business corporation established pursuant to this section by the Association under the laws of any State of the United States or the District of Columbia for the purposes of the reorganization and restructuring described in subsection (a) of this section.
+&emsp;The term "Holding Company" means the new business corporation established pursuant to this section by the Association under the laws of any State of the United States or the District of Columbia for the purposes of the reorganization and restructuring described in subsection (a).
 
 #### (4) Remaining obligations
 
@@ -250,11 +250,11 @@ For purposes of this section:
 
 #### (6) Reorganization
 
-&emsp;The term "reorganization" means the restructuring event or events (including any merger event) giving effect to the Holding Company structure described in subsection (a) of this section.
+&emsp;The term "reorganization" means the restructuring event or events (including any merger event) giving effect to the Holding Company structure described in subsection (a).
 
 #### (7) Reorganization effective date
 
-&emsp;The term "reorganization effective date" means the effective date of the reorganization as determined by the Board of Directors of the Association, which shall not be earlier than the date that shareholder approval is obtained pursuant to subsection (b) of this section and shall not be later than the date that is 18 months after September 30, 1996.
+&emsp;The term "reorganization effective date" means the effective date of the reorganization as determined by the Board of Directors of the Association, which shall not be earlier than the date that shareholder approval is obtained pursuant to subsection (b) and shall not be later than the date that is 18 months after September 30, 1996.
 
 #### (8) Subsidiary
 
@@ -264,11 +264,11 @@ For purposes of this section:
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reor</i><i>ganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
 #### References in Text
 
-Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
+Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208,div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
 
 #### Prior Provisions
 

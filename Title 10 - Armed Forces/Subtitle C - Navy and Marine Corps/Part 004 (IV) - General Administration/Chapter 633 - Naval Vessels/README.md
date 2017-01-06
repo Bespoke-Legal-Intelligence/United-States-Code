@@ -13,7 +13,8 @@
 | [7299\.](%C2%A7%2007299%20-%20Contracts%20applicability%20of%20chapter%2065%20of%20title%2041.md) | Contracts: applicability of chapter 65 of title 41. |
 | [7299a.](%C2%A7%2007299a%20-%20Construction%20of%20combatant%20and%20escort%20vessels%20and%20assignment%20of%20vessel%20projects.md) | Construction of combatant and escort vessels and assignment of vessel projects. |
 | [7300\.](%C2%A7%2007300%20-%20Contracts%20for%20nuclear%20ships%20sales%20of%20naval%20shipyard%20articles%20and%20services%20to%20private%20shipyards.md) | Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards. |
-| \[7301, 7302. Repealed.\] |  |
+| [7301\.](%C2%A7%2007301%20-%20Determination%20of%20vessel%20delivery%20dates.md) | Determination of vessel delivery dates. |
+| \[7302. | Repealed.\] |
 | [7303\.](%C2%A7%2007303%20-%20Model%20Basin%3B%20investigation%20of%20hull%20designs.md) | Model basin; investigation of hull designs. |
 | [7304\.](%C2%A7%2007304%20-%20Examination%20of%20vessels%3B%20striking%20of%20vessels%20from%20Naval%20Vessel%20Register.md) | Examination of vessels; striking of vessels from Naval Vessel Register. |
 | [7305\.](%C2%A7%2007305%20-%20Vessels%20stricken%20from%20Naval%20Vessel%20Register%20sale.md) | Vessels stricken from Naval Vessel Register: sale. |
@@ -32,10 +33,15 @@
 | [7315\.](%C2%A7%2007315%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md) | Preservation of Navy shipbuilding capability. |
 | [7316\.](%C2%A7%2007316%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md) | Support for transfers of decommissioned vessels and shipboard equipment. |
 | [7317\.](%C2%A7%2007317%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md) | Status of Government rights in the designs of vessels, boats, and craft, and components thereof. |
+| [7318\.](%C2%A7%2007318%20-%20Warranty%20requirements%20for%20shipbuilding%20contracts.md) | Warranty requirements for shipbuilding contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective on the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
+
+Pub. L. 114–328, div. A, title I, §121(a)(2), Dec. 23, 2016, 130 Stat. 2030, added item 7301.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §1022(e)(2), Dec. 26, 2013, 127 Stat. 846, substituted "Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation" for "Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise" in item 7306.
 
@@ -99,7 +105,7 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 07299 - Contracts applicability of chapter 65 of title 41](%C2%A7%2007299%20-%20Contracts%20applicability%20of%20chapter%2065%20of%20title%2041.md)
 - [&sect; 07299a - Construction of combatant and escort vessels and assignment of vessel projects](%C2%A7%2007299a%20-%20Construction%20of%20combatant%20and%20escort%20vessels%20and%20assignment%20of%20vessel%20projects.md)
 - [&sect; 07300 - Contracts for nuclear ships sales of naval shipyard articles and services to private shipyards](%C2%A7%2007300%20-%20Contracts%20for%20nuclear%20ships%20sales%20of%20naval%20shipyard%20articles%20and%20services%20to%20private%20shipyards.md)
-- [&sect; 07301 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;824(a)(7), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2007301%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7824%28a%29%287%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
+- [&sect; 07301 - Determination of vessel delivery dates](%C2%A7%2007301%20-%20Determination%20of%20vessel%20delivery%20dates.md)
 - [&sect; 07302 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3024(a), Oct. 13, 1994, 108 Stat. 3334](%C2%A7%2007302%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73024%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203334.md)
 - [&sect; 07303 - Model Basin; investigation of hull designs](%C2%A7%2007303%20-%20Model%20Basin%3B%20investigation%20of%20hull%20designs.md)
 - [&sect; 07304 - Examination of vessels; striking of vessels from Naval Vessel Register](%C2%A7%2007304%20-%20Examination%20of%20vessels%3B%20striking%20of%20vessels%20from%20Naval%20Vessel%20Register.md)
@@ -119,3 +125,4 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 07315 - Preservation of Navy shipbuilding capability](%C2%A7%2007315%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md)
 - [&sect; 07316 - Support for transfers of decommissioned vessels and shipboard equipment](%C2%A7%2007316%20-%20Support%20for%20transfers%20of%20decommissioned%20vessels%20and%20shipboard%20equipment.md)
 - [&sect; 07317 - Status of Government rights in the designs of vessels, boats, and craft, and components thereof](%C2%A7%2007317%20-%20Status%20of%20Government%20rights%20in%20the%20designs%20of%20vessels%2C%20boats%2C%20and%20craft%2C%20and%20components%20thereof.md)
+- [&sect; 07318 - Warranty requirements for shipbuilding contracts](%C2%A7%2007318%20-%20Warranty%20requirements%20for%20shipbuilding%20contracts.md)

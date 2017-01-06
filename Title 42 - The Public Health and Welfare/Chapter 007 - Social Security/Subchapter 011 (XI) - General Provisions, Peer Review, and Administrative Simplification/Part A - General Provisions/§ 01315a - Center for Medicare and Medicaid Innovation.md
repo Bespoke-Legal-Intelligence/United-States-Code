@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
+&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality ofcare furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
 
 #### (2) Deadline
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(iv) Promote <sup>1</sup> care coordination between providers of services and suppliers that transition health care providers away from fee-for-service based reimbursement and toward salary-based payment.
 
-&emsp;&emsp;&emsp;(v) Supporting care coordination for chronically-ill applicable individuals at high risk of hospitalization through a health information technology-enabled provider network that includes carecoordinators, a chronic disease registry, and home tele-health technology.
+&emsp;&emsp;&emsp;(v) Supporting care coordination for chronically-ill applicable individuals at high risk of hospitalization through a health information technology-enabled provider network that includes care coordinators, a chronic disease registry, and home tele-health technology.
 
 &emsp;&emsp;&emsp;(vi) Varying payment to physicians who order advanced diagnostic imaging services (as defined in section 1395m(e)(1)(B) of this title) according to the physician's adherence to appropriateness criteria for the ordering of such services, as determined in consultation with physician specialty groups and other relevant stakeholders.
 
@@ -288,7 +288,7 @@ Duration and Scope.—The demonstration project conducted under this section sha
 
 "(c)
 
-Eligible Safety Net Hospital System or Network.—For purposes of this section, the term 'eligible safety net hospital system or network' means a large, safety net hospital system or network (as defined by the Secretary) that operates within a State selected by the Secretary under subsection (b).
+Eligible Safety Net Hospital System or Network.—For purposes of this section, the term 'eligible safety net hospital system or network' means a large, safety net hospital system or network (as defined bythe Secretary) that operates within a State selected by the Secretary under subsection (b).
 
 "(d)
 

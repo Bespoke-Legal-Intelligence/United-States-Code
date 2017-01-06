@@ -32,7 +32,7 @@ In this chapter, the following definitions apply:
 
 #### (5) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (6) Inspection
 
@@ -122,17 +122,21 @@ In this chapter, the following definitions apply:
 
 #### (11) Participating program
 
-&emsp;The term "participating program" means a levee safety program developed by a State or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
+&emsp;The term "participating program" means a levee safety program developed by a State, regional district, or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
 
-#### (12) Rehabilitation
+#### (12) Regional district
+
+&emsp;The term "regional district" means a subdivision of a State government, or a subdivision of multiple State governments, that is authorized to acquire, construct, operate, and maintain projects for the purpose of flood damage reduction.
+
+#### (13) Rehabilitation
 
 &emsp;The term "rehabilitation" means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
 
-#### (13) Risk
+#### (14) Risk
 
 &emsp;The term "risk" means a measure of the probability and severity of undesirable consequences.
 
-#### (14) State
+#### (15) State
 
 &emsp;The term "State" means—
 
@@ -144,17 +148,21 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(D) any other territory or possession of the United States.
 
-#### (15) State levee safety agency
+#### (16) State levee safety agency
 
 &emsp;The term "State levee safety agency" means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
 
-#### (16) United States
+#### (17) United States
 
 &emsp;The term "United States", when used in a geographical sense, means all of the States.
 
-(Pub. L. 110–114, title IX, §9002, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 113–121, title III, §3016(b), June 10, 2014, 128 Stat. 1289.)
+(Pub. L. 110–114, title IX, §9002, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 113–121, title III, §3016(b), June 10, 2014, 128 Stat. 1289; Pub. L. 114–322, title I, §1130(a), Dec. 16, 2016, 130 Stat. 1650.)
 
 #### Amendments
+
+<b>2016</b>—Par. (11). Pub. L. 114–322, §1130(a)(1), substituted "State, regional district, or Indian tribe" for "State or Indian tribe".
+
+Pars. (12) to (17). Pub. L. 114–322, §1130(a)(2), (3), added par. (12) and redesignated former pars. (12) to (16) as (13) to (17), respectively.
 
 <b>2014</b>—Pars. (1) to (6). Pub. L. 113–121, §3016(b)(1)–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15), and (16), respectively.
 
@@ -176,7 +184,7 @@ Pub. L. 110–114, title IX, §9001(b), as added Pub. L. 113–121, title III, �
 
 &emsp;"(2) to encourage the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operation and maintenance, inspection, assessment, and emergency preparedness;
 
-&emsp;"(3) to develop and support public education and awareness projects to increase public acceptance andsupport of levee safety programs and provide information;
+&emsp;"(3) to develop and support public education and awareness projects to increase public acceptance and support of levee safety programs and provide information;
 
 &emsp;"(4) to build public awareness of the residual risks associated with living in levee protected areas;
 

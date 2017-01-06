@@ -22,7 +22,7 @@ The Congress finds that:
 
 &emsp;(8) In pursuance of that conspiracy, the United States Minister and the naval representative of the United States caused armed naval forces of the United States to invade the sovereign Hawaiian Nation in support of the overthrow of the indigenous and lawful Government of Hawaii and the United States Minister thereupon extended diplomatic recognition of a provisional government formed by the conspirators without the consent of the native people of Hawaii or the lawful Government of Hawaii in violation of treaties between the two nations and of international law.
 
-&emsp;(9) In a message to Congress on December 18, 1893, then President Grover Cleveland reported fully and accurately on these illegal actions,and acknowledged that by these acts, described by the President as acts of war, the government of a peaceful and friendly people was overthrown, and the President concluded that a "substantial wrong has thus been done which a due regard for our national character as well as the rights of the injured people required that we should endeavor to repair".
+&emsp;(9) In a message to Congress on December 18, 1893, then President Grover Cleveland reported fully and accurately on these illegal actions, and acknowledged that by these acts, described by the President as acts of war, the government of a peaceful and friendly people was overthrown, and the President concluded that a "substantial wrong has thus been done which a due regard for our national character as well as the rights of the injured people required that we should endeavor to repair".
 
 &emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii, promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
 
@@ -46,9 +46,9 @@ The Congress finds that:
 
 &emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to Native Hawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans' Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
 
-&emsp;(21) The United States has also affirmed the historical and unique legal relationship to the Hawaiian people by authorizing the provision of services to Native Hawaiians to address problems of alcohol and drug abuse under the Anti-Drug Abuse Act of 1986.
+&emsp;(21) The United States has also affirmed the historical and unique legal relationship to theHawaiian people by authorizing the provision of services to Native Hawaiians to address problems of alcohol and drug abuse under the Anti-Drug Abuse Act of 1986.
 
-&emsp;(22) Despite such services, the unmet health needs of the Native Hawaiian people are severeand the health status of Native Hawaiians continues to be far below that of the general population of the United States.
+&emsp;(22) Despite such services, the unmet health needs of the Native Hawaiian people are severe and the health status of Native Hawaiians continues to be far below that of the general population of the United States.
 
 (Pub. L. 100–579, §2, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2302, Nov. 18, 1988, 102 Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
@@ -106,7 +106,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 
 #### Short Title
 
-Pub. L. 100–579, §1, Oct. 31, 1988, 102 Stat. 2916, and Pub. L. 100–690, title II, subtitle D, §2301, Nov. 18, 1988, 102 Stat. 4222, as amended by Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, provided that: "This Act \[enacting this chapter and repealing section 1621d of Title 25, Indians\] may be cited as the 'Native Hawaiian Health Care Improvement Act'."
+Pub. L. 100–579, §1, Oct. 31, 1988, 102 Stat. 2916, and Pub. L. 100–690, title II, subtitle D, §2301, Nov. 18, 1988,102 Stat. 4222, as amended by Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, provided that: "This Act \[enacting this chapter and repealing section 1621d of Title 25, Indians\] may be cited as the 'Native Hawaiian Health Care Improvement Act'."
 
 \[The note set out above is based on section 1 of Pub. L. 100–579 as amended generally by Pub. L. 102–396. See Codification note preceding this section.\]
 

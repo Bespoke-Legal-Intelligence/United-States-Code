@@ -26,7 +26,7 @@ Section 3(a)(34)(G), (42)(B), (C), (43), (44) of the Securities Exchange Act of 
 
 Section 8(b) or 8(c) of the Federal Deposit Insurance Act, referred to in subsec. (b), is classified to section 1818(b), (c) of Title 12, Banks and Banking.
 
-Section 5(d)(2) or 5(d)(3) of the Home Owners' Loan Act of 1933, referred to in subsec. (b), is classified tosection 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
+Section 5(d)(2) or 5(d)(3) of the Home Owners' Loan Act of 1933, referred to in subsec. (b), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
 
 Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 

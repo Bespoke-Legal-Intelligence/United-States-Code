@@ -112,7 +112,7 @@ The State and Local Board shall do the following:
 
 #### (3) Travel expenses
 
-&emsp;Each State and Local Board member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+&emsp;Each State and Local Board member shall receive travel expenses, including per diem inlieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
 (Pub. L. 110–298, title II, §203, July 31, 2008, 122 Stat. 2991.)
 

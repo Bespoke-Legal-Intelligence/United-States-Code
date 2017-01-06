@@ -2,7 +2,7 @@
 
 It is the sense of Congress that—
 
-&emsp;(1) preventing the proliferation of nuclear weapons, other weapons of mass destruction, the means to produce them, and the means to deliver them are critical objectives for United States foreign policy;
+&emsp;(1) preventing the proliferation of nuclear weapons, other weapons of mass destruction, the means to produce them, and the means todeliver them are critical objectives for United States foreign policy;
 
 &emsp;(2) sustaining the Nuclear Non-Proliferation Treaty (NPT) and strengthening its implementation, particularly its verification and compliance, is the keystone of United States nonproliferation policy;
 
@@ -80,7 +80,7 @@ In General.—Notwithstanding the provisions for congressional consideration and
 
 Applicability of Atomic Energy Act of 1954,
 
-Hyde Act, and Other Provisions of Law.—The Agreement shall be subject to the provisions of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8001 et. seq; Public Law 109–401), and any other applicable United States law as if the Agreement had been approved pursuant to the provisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954.
+Hyde Act, and Other Provisions of Law.—The Agreement shall be subject to the provisions of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), the Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006 (22 U.S.C. 8001 et. seq; Public Law 109–401), and any other applicable United States law as if the Agreement had been approved pursuant to theprovisions for congressional consideration and approval of a proposed agreement for cooperation in section 123 b. and d. of the Atomic Energy Act of 1954.
 
 "(c)
 

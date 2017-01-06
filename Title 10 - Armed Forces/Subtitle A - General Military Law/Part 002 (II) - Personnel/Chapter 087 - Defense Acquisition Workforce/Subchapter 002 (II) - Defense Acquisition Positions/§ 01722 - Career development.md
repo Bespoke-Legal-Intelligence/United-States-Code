@@ -52,7 +52,7 @@ Pub. L. 101–510, div. A, title XII, §1209(c), (d), Nov. 5, 1990, 104 Stat. 16
 
 "(c)
 
-Military Positions Policy Deadlines.—(1) The policy required by paragraph (2) of section 1722(b) oftitle 10, United States Code (as added by section 1202), shall be established by the Secretary of Defense not later than October 1, 1991.
+Military Positions Policy Deadlines.—(1) The policy required by paragraph (2) of section 1722(b) of title 10, United States Code (as added by section 1202), shall be established by the Secretary of Defense not later than October 1, 1991.
 
 "(2) The first report required by section 1722(b)(2)(B) of title 10, United States Code (as added by section 1202), shall be submitted to the Secretary of Defense not later than September 30, 1993.
 

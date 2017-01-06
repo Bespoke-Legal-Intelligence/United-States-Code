@@ -18,5 +18,5 @@ Jurisdiction, powers, or prerogatives of the International Joint Commission, Uni
 
 #### Passamaquoddy Tidal Power Project
 
-Joint Res. Jan. 31, 1956, ch. 27, 70 Stat. 9, provided for the Secretary of State to request the International Joint Commission created by the treaty between theUnited States and Great Britain relating to boundary waters between the United States and Canada to arrange for a final survey to be made to determine the cost of construction and economic feasibility of the proposed Passamaquoddy tidal power project at Passamaquoddy Bay, authorized United States agencies to assist the Commission, authorized appropriations, and required the Secretary of State to report the results of the survey to Congress.
+Joint Res. Jan. 31, 1956, ch. 27, 70 Stat. 9, provided for the Secretary of State to request the International Joint Commission created by the treaty between the United States and Great Britain relating to boundary waters between the United States and Canada to arrange for a final survey to be made to determine the cost of construction and economic feasibility of the proposed Passamaquoddy tidal power project at Passamaquoddy Bay, authorized United States agencies to assist the Commission, authorized appropriations, and required the Secretary of State to report the results of the survey to Congress.
 

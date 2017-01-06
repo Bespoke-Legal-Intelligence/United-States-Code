@@ -124,7 +124,7 @@
 
 (4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20,1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, §401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, §106, Oct. 10, 2008, 122 Stat. 4149.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, §401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, §106, Oct. 10, 2008, 122 Stat. 4149.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Subsec. (c)(4). Pub. L. 108–454, §302(a), added par. (4).
 
 &emsp;"(15) peptic ulcer disease,
 
-> which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service."
+> which became manifest to a degree of 10 percent or more after active military, naval, or air service shallbe considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service."
 
 <b>1999</b>—Subsec. (c)(2)(P). Pub. L. 106–117 added subpar. (P).
 

@@ -54,7 +54,7 @@ Child crimes and sexual offenses.—
 
 Sentencing.—In sentencing a defendant convicted of an offense under section 1201 involving a minor victim, an offense under section 1591, or an offense under chapter 71, 109A, 110, or 117, the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless—
 
-&emsp;&emsp;&emsp;(i) the court finds that there exists an aggravating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commissionin formulating the guidelines that should result in a sentence greater than that described;
+&emsp;&emsp;&emsp;(i) the court finds that there exists an aggravating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence greater than that described;
 
 &emsp;&emsp;&emsp;(ii) the court finds that there exists a mitigating circumstance of a kind or to a degree, that—
 
@@ -64,7 +64,7 @@ Sentencing.—In sentencing a defendant convicted of an offense under section 12
 
 &emsp;&emsp;&emsp;&emsp;(III) should result in a sentence different from that described; or
 
-&emsp;&emsp;&emsp;(iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another person who has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
+&emsp;&emsp;&emsp;(iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another personwho has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
 
 > In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission, together with any amendments thereto by act of Congress. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission, together with any amendments to such guidelines or policy statements by act of Congress.
 
@@ -154,7 +154,7 @@ Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §6
 
 Pub. L. 100–182, §3(3), inserted after first sentence "In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission."
 
-Pub. L. 100–182, §16(a), substituted "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicableto similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission." for "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2)."
+Pub. L. 100–182, §16(a), substituted "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission." for "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2)."
 
 Subsec. (c)(1). Pub. L. 100–182, §17, inserted "and that range exceeds 24 months,".
 
@@ -248,7 +248,7 @@ Pub. L. 100–182, §24, Dec. 7, 1987, 101 Stat. 1271, provided that: "Notwithst
 
 &emsp;"(2) rule 35(b) of the Federal Rules of Criminal Procedure as amended by section 215(b) of such Act \[set out in the Appendix to this title\]; and
 
-&emsp;"(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by theUnited States Sentencing Commission pursuant to chapter 58 of title 28, United States Code,
+&emsp;"(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code,
 
 > shall apply in the case of an offense committed before the taking effect of such guidelines."
 

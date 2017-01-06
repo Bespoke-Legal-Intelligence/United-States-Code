@@ -66,7 +66,13 @@ The Institute shall—
 
 &emsp;&emsp;(C) information security policies, procedures, and practices;
 
-&emsp;(3) conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+&emsp;(3) conduct research and analysis—
+
+&emsp;&emsp;(A) to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+
+&emsp;&emsp;(B) to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44, and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
+
+&emsp;&emsp;(C) to evaluate the effectiveness and sufficiency of, and challenges to, Federal agencies' implementation of standards and guidelines developed under this section and policies and standards promulgated under section 11331 of title 40;
 
 &emsp;(4) develop and periodically revise performance indicators and measures for agency information security policies and practices;
 
@@ -110,7 +116,7 @@ As used in this section—
 
 &emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) <sup>1</sup> of such title.<sup>3</sup>
 
-(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957;Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087.)
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, §104(b)(3), Jan. 6, 2017, 130 Stat. 2976.)
 
 #### Codification
 
@@ -122,6 +128,8 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Amendments
 
+<b>2017</b>—Subsec. (d)(3). Pub. L. 114–329 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;".
+
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–283, §2(e)(4)(A), substituted "section 3552(b)(5)" for "section 3532(b)(2)".
 
 Subsec. (e). Pub. L. 113–274, §204(2), added subsec. (e). Former subsec. (e) redesignated (f).
@@ -132,93 +140,7 @@ Pub. L. 113–274, §204(1), redesignated subsec. (e) as (f).
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2002</b>—Pub. L. 107–347 added text of section and struck out former text which read as follows:
-
-"(a) The Institute shall—
-
-&emsp;"(1) have the mission of developing standards, guidelines, and associated methods and techniques for computer systems;
-
-&emsp;"(2) except as described in paragraph (3) of this subsection (relating to security standards), develop uniform standards and guidelines for Federal computer systems, except those systems excluded by section 2315 of title 10 or section 3502(9) of title 44;
-
-&emsp;"(3) have responsibility within the Federal Government for developing technical, management, physical, and administrative standards and guidelines for the cost-effective security and privacy of sensitive information in Federal computer systems except—
-
-&emsp;&emsp;"(A) those systems excluded by section 2315 of title 10 or section 3502(9) of title 44; and
-
-&emsp;&emsp;"(B) those systems which are protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
-
-> the primary purpose of which standards and guidelines shall be to control loss and unauthorized modification or disclosure of sensitive information in such systems and to prevent computer-related fraud and misuse;
-
-&emsp;"(4) submit standards and guidelines developed pursuant to paragraphs (2) and (3) of this subsection, along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 1441 of title 40;
-
-&emsp;"(5) develop guidelines for use by operators of Federal computer systems that contain sensitive information in training their employees in security awareness and accepted security practice, as required by section 5 of the Computer Security Act of 1987; and
-
-&emsp;"(6) develop validation procedures for, and evaluate the effectiveness of, standards and guidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
-
-"(b) In fulfilling subsection (a) of this section, the Institute is authorized—
-
-&emsp;"(1) to assist the private sector, upon request, in using and applying the results of the programs and activities under this section;
-
-&emsp;"(2) as requested, to provide to operators of Federal computer systems technical assistance in implementing the standards and guidelines promulgated pursuant to section 1441 of title 40;
-
-&emsp;"(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertaining to training, as required by section 5 of the Computer Security Act of 1987;
-
-&emsp;"(4) to perform research and to conduct studies, as needed, to determine the nature and extent of the vulnerabilities of, and to devise techniques for the cost-effective security and privacy of sensitive information in Federal computer systems; and
-
-&emsp;"(5) to coordinate closely with other agencies and offices (including, but not limited to, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, the Office of Technology Assessment, and the Office of Management and Budget)—
-
-&emsp;&emsp;"(A) to assure maximum use of all existing and planned programs, materials, studies, and reports relating to computer systems security and privacy, in order to avoid unnecessary and costly duplication of effort; and
-
-&emsp;&emsp;"(B) to assure, to the maximum extent feasible, that standards developed pursuant to subsection (a)(3) and (5) of this section are consistent and compatible with standards and procedures developed for the protection of information in Federal computer systems which is authorized under criteria established by Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy.
-
-"(c) For the purposes of—
-
-&emsp;"(1) developing standards and guidelines for the protection of sensitive information in Federal computer systems under subsections (a)(1) and (a)(3) of this section, and
-
-&emsp;"(2) performing research and conducting studies under subsection (b)(5) of this section,
-
-> the Institute shall draw upon computer system technical security guidelines developed by the National Security Agency to the extent that the Institute determines that such guidelines are consistent with the requirements for protecting sensitive information in Federal computer systems.
-
-"(d) As used in this section—
-
-&emsp;"(1) the term 'computer system'—
-
-&emsp;&emsp;"(A) means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception, of data or information; and
-
-&emsp;&emsp;"(B) includes—
-
-&emsp;&emsp;&emsp;"(i) computers and computer networks;
-
-&emsp;&emsp;&emsp;"(ii) ancillary equipment;
-
-&emsp;&emsp;&emsp;"(iii) software, firmware, and similar procedures;
-
-&emsp;&emsp;&emsp;"(iv) services, including support services; and
-
-&emsp;&emsp;&emsp;"(v) related resources;
-
-&emsp;"(2) the term 'Federal computer system' means a computer system operated by a Federal agency or by a contractor of a Federal agency or other organization that processes information (using a computer system) on behalf of the Federal Government to accomplish a Federal function;
-
-&emsp;"(3) the term 'operator of a Federal computer system' means a Federal agency, contractor of a Federal agency, or other organization that processes information using a computer system on behalf of the Federal Government to accomplish a Federal function;
-
-&emsp;"(4) the term 'sensitive information' means any information, the loss, misuse, or unauthorized access to or modification of which could adversely affect thenational interest or the conduct of Federal programs, or the privacy to which individuals are entitled under section 552a of title 5 (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; and
-
-&emsp;"(5) the term 'Federal agency' has the meaning given such term by section 472(b) of title 40.
-
-"(e)
-
-Intramural Security Research.—As part of the research activities conducted in accordance with subsection (b)(4) of this section, the Institute shall—
-
-&emsp;"(1) conduct a research program to address emerging technologies associated with assembling a networked computer system from components while ensuring it maintains desired security properties;
-
-&emsp;"(2) carry out research associated with improving the security of real-time computing and communications systems for use in process control; and
-
-&emsp;"(3) carry out multidisciplinary, long-term, high-risk research on ways to improve the security of computer systems.
-
-"(f)
-
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $1,060,000 for fiscal year 2003 and $1,090,000 for fiscal year 2004 to enable the Computer System Security and Privacy Advisory Board, established by section 278g–4 of this title, to identify emerging issues, including research needs, related to computer security, privacy, and cryptography and, as appropriate, to convene public meetings on those subjects, receive presentations, and publish reports, digests, and summaries for public distribution on those subjects."
-
-Pub. L. 107–296 added text of section and struck out former text, as added by Pub. L. 107–347, which read:
+<b>2002</b>—Pub. L. 107–296 added text of section and struck out former text, as added by Pub. L. 107–347, which read:
 
 "(a)
 
@@ -317,6 +239,92 @@ Definitions.—As used in this section—
 "(f)
 
 Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $20,000,000 for each of fiscal years 2003, 2004, 2005, 2006, and 2007 to enable the National Institute of Standards and Technology to carry out the provisions of this section."
+
+Pub. L. 107–347 added text of section and struck out former text which read as follows:
+
+"(a) The Institute shall—
+
+&emsp;"(1) have the mission of developing standards, guidelines, and associated methods and techniques for computer systems;
+
+&emsp;"(2) except as described in paragraph (3) of this subsection (relating to security standards), develop uniform standards and guidelines for Federal computer systems, except those systems excluded by section 2315 of title 10 or section 3502(9) of title 44;
+
+&emsp;"(3) have responsibility within the Federal Government for developing technical, management, physical, and administrative standards and guidelines for the cost-effective security and privacy of sensitive information in Federal computer systems except—
+
+&emsp;&emsp;"(A) those systems excluded by section 2315 of title 10 or section 3502(9) of title 44; and
+
+&emsp;&emsp;"(B) those systems which are protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
+
+> the primary purpose of which standards and guidelines shall be to control loss and unauthorized modification or disclosure of sensitive information in such systems and to prevent computer-related fraud and misuse;
+
+&emsp;"(4) submit standards and guidelines developed pursuant to paragraphs (2) and (3) of this subsection, along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 1441 of title 40;
+
+&emsp;"(5) develop guidelines for use by operators of Federal computer systems that contain sensitive information in training their employees in security awareness and accepted security practice, as required by section 5 of the Computer Security Act of 1987; and
+
+&emsp;"(6) develop validation procedures for, and evaluate the effectiveness of, standards and guidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
+
+"(b) In fulfilling subsection (a) of this section, the Institute is authorized—
+
+&emsp;"(1) to assist the private sector, upon request, in using and applying the results of the programs and activities under this section;
+
+&emsp;"(2) as requested, to provide to operators of Federal computer systems technical assistance in implementing the standards and guidelines promulgated pursuant to section 1441 of title 40;
+
+&emsp;"(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertaining to training, as required by section 5 of the Computer Security Act of 1987;
+
+&emsp;"(4) to perform research and to conduct studies, as needed, to determine the nature and extent of the vulnerabilities of, and to devise techniques for the cost-effective security and privacy of sensitive information in Federal computer systems; and
+
+&emsp;"(5) to coordinate closely with other agencies and offices (including, but not limited to, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, the Office of Technology Assessment, and the Office of Management and Budget)—
+
+&emsp;&emsp;"(A) to assure maximum use of all existing and planned programs, materials, studies, and reports relating to computer systems security and privacy, in order to avoid unnecessary and costly duplication of effort; and
+
+&emsp;&emsp;"(B) to assure, to the maximum extent feasible, that standards developed pursuant to subsection (a)(3) and (5) of this section are consistent and compatible with standards and procedures developed for the protection of information in Federal computer systems which is authorized under criteria established by Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy.
+
+"(c) For the purposes of—
+
+&emsp;"(1) developing standards and guidelines for the protection of sensitive information in Federal computer systems under subsections (a)(1) and (a)(3) of this section, and
+
+&emsp;"(2) performing research and conducting studies under subsection (b)(5) of this section,
+
+> the Institute shall draw upon computer system technical security guidelines developed by the National Security Agency to the extent that the Institute determines that such guidelines are consistent with the requirements for protecting sensitive information in Federal computer systems.
+
+"(d) As used in this section—
+
+&emsp;"(1) the term 'computer system'—
+
+&emsp;&emsp;"(A) means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception, of data or information; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) computers and computer networks;
+
+&emsp;&emsp;&emsp;"(ii) ancillary equipment;
+
+&emsp;&emsp;&emsp;"(iii) software, firmware, and similar procedures;
+
+&emsp;&emsp;&emsp;"(iv) services, including support services; and
+
+&emsp;&emsp;&emsp;"(v) related resources;
+
+&emsp;"(2) the term 'Federal computer system' means a computer system operated by a Federal agency or by a contractor of a Federal agency or other organization that processes information (using a computer system) on behalf of the Federal Government to accomplish a Federal function;
+
+&emsp;"(3) the term 'operator of a Federal computer system' means a Federal agency, contractor of a Federal agency, or other organization that processes information using a computer system on behalf of the Federal Government to accomplish a Federal function;
+
+&emsp;"(4) the term 'sensitive information' means any information, the loss, misuse, or unauthorized access to or modification of which could adversely affect the national interest or the conduct of Federal programs, or the privacy to which individuals are entitled under section 552a of title 5 (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; and
+
+&emsp;"(5) the term 'Federal agency' has the meaning given such term by section 472(b) of title 40.
+
+"(e)
+
+Intramural Security Research.—As part of the research activities conducted in accordance with subsection (b)(4) of this section, the Institute shall—
+
+&emsp;"(1) conduct a research program to address emerging technologies associated with assembling a networked computer system from components while ensuring it maintains desired security properties;
+
+&emsp;"(2) carry out research associated with improving the security of real-time computing and communications systems for use in process control; and
+
+&emsp;"(3) carry out multidisciplinary, long-term, high-risk research on ways to improve the security of computer systems.
+
+"(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $1,060,000 for fiscal year 2003 and $1,090,000 for fiscal year 2004 to enable the Computer System Security and Privacy Advisory Board, established by section 278g–4 of this title, to identify emerging issues, including research needs, related to computer security, privacy, and cryptography and, as appropriate, to convene public meetings on those subjects, receive presentations, and publish reports, digests, and summaries for public distribution on those subjects."
 
 Subsec. (d)(1)(B)(i). Pub. L. 107–305, §8(b), substituted "computers and computer networks" for "computers".
 

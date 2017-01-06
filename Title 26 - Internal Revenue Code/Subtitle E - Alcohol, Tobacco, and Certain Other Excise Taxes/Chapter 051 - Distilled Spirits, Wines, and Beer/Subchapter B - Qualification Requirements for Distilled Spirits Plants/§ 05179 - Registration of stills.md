@@ -10,7 +10,7 @@ Every person having in his possession or custody, or under his control, any stil
 
 &emsp;&emsp;<b>(2) For provisions requiring notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1355; amended Pub. L. 94–455, title XIX, §§1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 98–369, div. A, title IV, §451(b)(1), July 18, 1984, 98 Stat. 819.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1355; amended Pub. L. 94–455, title XIX,§§1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 98–369, div. A, title IV, §451(b)(1), July 18, 1984, 98 Stat. 819.)
 
 #### Prior Provisions
 

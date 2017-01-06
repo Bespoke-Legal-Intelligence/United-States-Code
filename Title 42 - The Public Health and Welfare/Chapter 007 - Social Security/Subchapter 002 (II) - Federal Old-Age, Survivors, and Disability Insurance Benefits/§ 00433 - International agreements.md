@@ -8,7 +8,7 @@ The President is authorized (subject to the succeeding provisions of this sectio
 
 For the purposes of this section—
 
-&emsp;(1) the term "social security system" means, with respect to a foreign country, a social insurance or pension system which is of general application in the country and under which periodic benefits, or the actuarial equivalentthereof, are paid on account of old age, death, or disability; and
+&emsp;(1) the term "social security system" means, with respect to a foreign country, a social insurance or pension system which is of general application in the country and under which periodic benefits, or the actuarial equivalent thereof, are paid on account of old age, death, or disability; and
 
 &emsp;(2) the term "period of coverage" means a period of payment of contributions or a period of earnings based on wages for employment or on self-employment income, or any similar period recognized as equivalent thereto under this subchapter or under the social security system of a country which is a party to an agreement entered into under this section.
 
@@ -16,7 +16,7 @@ For the purposes of this section—
 
 (1) Any agreement establishing a totalization arrangement pursuant to this section shall provide—
 
-&emsp;(A) that in the case of an individual who has at least 6 quarters of coverage as defined in section 413 of this title and periods of coverage under the social security system of a foreign country which is a party to such agreement, periods of coverage of such individual under such social security system of such foreign country may be combined with periods of coverage under this subchapter and otherwise considered for the purposes of establishing entitlement to and the amount of old-age, survivors, and disability insurance benefits under this subchapter;
+&emsp;(A) that in the case of an individual who has at least 6 quarters of coverage as defined in section 413 of this title and periods of coverage under the social security system of a foreigncountry which is a party to such agreement, periods of coverage of such individual under such social security system of such foreign country may be combined with periods of coverage under this subchapter and otherwise considered for the purposes of establishing entitlement to and the amount of old-age, survivors, and disability insurance benefits under this subchapter;
 
 &emsp;(B)(i) that employment or self-employment, or any service which is recognized as equivalent to employment or self-employment under this subchapter or the social security system of a foreign country which is a party to such agreement, shall, on or after the effective date of such agreement, result in a period of coverage under the system established under this subchapter or under the system established under the laws of such foreign country, but not under both, and (ii) the methods and conditions for determining under which system employment, self-employment, or other service shall result in a period of coverage; and
 

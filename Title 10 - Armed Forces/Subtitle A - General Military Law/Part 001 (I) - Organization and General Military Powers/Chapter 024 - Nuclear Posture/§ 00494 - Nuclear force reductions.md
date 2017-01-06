@@ -22,7 +22,7 @@ Insufficient funding.—
 
 &emsp;&emsp;(A)
 
-Report.—During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
+Report.—During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Actfor Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
 
 &emsp;&emsp;&emsp;(i) a plan to address the resource shortfall;
 
@@ -102,7 +102,7 @@ Proposal described.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to alevel that is lower than the level on December 31, 2011.
+In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011.
 
 &emsp;&emsp;(B)
 
@@ -166,6 +166,10 @@ Subsec. (d). Pub. L. 112–239, §1034, added subsec. (d).
 
 Pub. L. 112–239, div. A, title X, §1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: "The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012."
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
 #### Report on Implementation of the New START Treaty
 
 Pub. L. 114–92, div. A, title XII, §1247, Nov. 25, 2015, 129 Stat. 1066, provided that:
@@ -215,6 +219,8 @@ INF treaty.—The term 'INF Treaty' means the Treaty Between the United States o
 &emsp;"(4)
 
 New start treaty.—The term 'New START Treaty' means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011."
+
+\[For delegation of functions vested in President by section 1247 of Pub. L. 114–92, set out above, see Memorandum of President of the United States, July 26, 2016, 81 F.R. 51773, set out below.\]
 
 #### Retention of Missile Silos
 
@@ -266,9 +272,25 @@ Memorandum of President of the United States, Mar. 16, 2012, 77 F.R. 16649, prov
 
 Memorandum for the Secretary of State\[,\] the Secretary of Defense\[, and\] the Secretary of Energy
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretaries of Defense and Energy the reporting functions conferred upon the President by section 1045 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81), and by section (a)(9)(B) of the Resolution of Advice and Consent to Ratification of the New START Treaty. Subsection (a)(9)(B)(iv) of the Resolution shall be fulfilled in coordination with the Secretary of State.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretaries of Defense and Energy the reporting functions conferred upon the President by section 1045 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81) \[see Codification note above\], and by section (a)(9)(B) of the Resolution of Advice and Consent to Ratification of the New START Treaty. Subsection (a)(9)(B)(iv) of the Resolution shall be fulfilled in coordination with the Secretary of State.
 
 The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Delegation of Authority Under Section 1247 of the National Defense Authorization Act for Fiscal Year 2016
+
+Memorandum of President of the United States, July 26, 2016, 81 F.R. 51773, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
+
+I hereby delegate the functions and authorities vested in the President by section 1247 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92) (the "Act") to the Secretary of State.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

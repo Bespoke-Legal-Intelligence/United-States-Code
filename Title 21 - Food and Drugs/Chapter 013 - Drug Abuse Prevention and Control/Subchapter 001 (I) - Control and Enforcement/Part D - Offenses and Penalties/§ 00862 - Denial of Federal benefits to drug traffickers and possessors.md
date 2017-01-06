@@ -26,13 +26,13 @@
 
 &emsp;&emsp;(iv) any combination of clause (i), (ii), or (iii); and
 
-&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federal benefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
+&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federalbenefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
 
 (2) The penalties and conditions which may be imposed under this subsection shall be waived in the case of a person who, if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an addict and submits himself to a long-term treatment program for addiction, or is deemed to be rehabilitated pursuant to rules established by the Secretary of Health and Human Services.
 
 #### (c) Suspension of period of ineligibility
 
-The period of ineligibility referred to in subsections (a) and (b) of this section shall be suspended if the individual—
+The period of ineligibility referred to in subsections (a) and (b) shall be suspended if the individual—
 
 &emsp;(A) completes a supervised drug rehabilitation program after becoming ineligible under this section;
 
@@ -58,7 +58,7 @@ The penalties provided by this section shall not apply to any individual who coo
 
 #### (f) Indian provision
 
-Nothing in this section shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this subsection shall exempt any individual Indian from the sanctions provided for in this section, provided that no individual Indian shall be denied any benefit under Federal Indian programs comparable to those described in subsection (d)(1)(B) or (d)(2) of this section.
+Nothing in this section shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this subsection shall exempt any individual Indian from the sanctions provided for in this section, provided that no individual Indian shall be denied any benefit under Federal Indian programs comparable to those described in subsection (d)(1)(B) or (d)(2).
 
 #### (g) Presidential report
 

@@ -58,7 +58,7 @@ The proceeds of this fund shall be available for payments:
 
 &emsp;(2) Under section 908(f) and (g), under section 918(b), and under section 939(c) of this title.
 
-&emsp;(3) To repay the sums deposited in the fund pursuant to subsection (d) of this section.
+&emsp;(3) To repay the sums deposited in the fund pursuant to subsection (d).
 
 &emsp;(4) To defray the expense of making examinations as provided in section 907(e) of this title.
 

@@ -26,7 +26,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (B) Reasonable cause found; preliminary order
 
-&emsp;&emsp;If the Secretary concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary shall accompany the Secretary's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+&emsp;&emsp;If the Secretary concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary shall accompany the Secretary's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay anyreinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 #### (C) Dismissal of complaint
 
@@ -74,7 +74,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary has not issued a final decision within 210 days after the filing of the complaint, or within 90 days after receiving a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States with jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be triedby the court with a jury. The proceedings shall be governed by the same legal burdens of proof specified in paragraph (2)(C).
+&emsp;&emsp;If the Secretary has not issued a final decision within 210 days after the filing of the complaint, or within 90 days after receiving a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States with jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The proceedings shall be governed by the same legal burdens of proof specified in paragraph (2)(C).
 
 #### (B) Relief
 
@@ -90,7 +90,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (A) In general
 
-&emsp;&emsp;Unless the complainant brings an action under paragraph (4), any person adversely affected or aggrieved by a final order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+&emsp;&emsp;Unless the complainant brings an action under paragraph (4), any person adversely affected or aggrieved by a final order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filednot later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 #### (B) No judicial review
 
@@ -128,7 +128,7 @@ Any nondiscretionary duty imposed by this section shall be enforceable in a mand
 
 Subsection (a) shall not apply with respect to an employee of an entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food who, acting without direction from such entity (or such entity's agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, rule, regulation, standard, or ban under this chapter.
 
-(June 25, 1938, ch. 675, §1012, as added Pub. L. 111–353, title IV, §402, Jan. 4, 2011, 124 Stat. 3968.)
+(June 25, 1938, ch. 675, §1013, formerly §1012, as added Pub. L. 111–353, title IV, §402, Jan. 4, 2011, 124 Stat. 3968; renumbered §1013, Pub. L. 114–255, div. A, title III, §3073(b)(1), Dec. 13, 2016, 130 Stat. 1137.)
 
 #### Construction
 

@@ -28,3 +28,7 @@ Provisions similar to those in this section were contained in sections 3362(b), 
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted "Selection boards convened under section 14101(b) of this title" for "Continuation boards".
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

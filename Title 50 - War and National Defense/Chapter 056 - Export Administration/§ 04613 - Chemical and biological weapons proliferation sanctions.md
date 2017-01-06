@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(i) under existing contracts or subcontracts, including the exercise of options for production quantities to satisfy United States operational military requirements;
 
-&emsp;&emsp;&emsp;(ii) if the President determines that the person or other entity to which the sanctions would otherwise be applied is a sole source supplier of the defense articles orservices, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
+&emsp;&emsp;&emsp;(ii) if the President determines that the person or other entity to which the sanctions would otherwise be applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
 
 &emsp;&emsp;&emsp;(iii) if the President determines that such articles or services are essential to the national security under defense coproduction agreements;
 

@@ -50,7 +50,7 @@
 
 &emsp;(B) subject to the provisions of the preceding sentence, the amount which should be charged to each of the Trust Funds.
 
-(5) For purposes of this subsection the term "vocational rehabilitation services" shall have the meaning assigned to it in title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], except that such services may be limited in type,scope, or amount in accordance with regulations of the Commissioner of Social Security designed to achieve the purpose of this subsection.
+(5) For purposes of this subsection the term "vocational rehabilitation services" shall have the meaning assigned to it in title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], except that such services may be limited in type, scope, or amount in accordance with regulations of the Commissioner of Social Security designed to achieve the purpose of this subsection.
 
 #### (e) Treatment referrals for individuals with alcoholism or drug addiction condition
 
@@ -108,7 +108,7 @@ Subsec. (b)(2). Pub. L. 98–21, §309(m), inserted "or father's" after "mother'
 
 Subsec. (b)(3). Pub. L. 98–21, §309(n), inserted "divorced husband," after "husband,".
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for thereasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
 
 <b>1980</b>—Subsec. (c)(1). Pub. L. 96–265, §303(a)(1), inserted references to sections 402(e) and 402(f) of this title.
 
@@ -192,7 +192,7 @@ Amendment by section 158(c)(5) of Pub. L. 90–248 applicable with respect to ap
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 308(d)(11) of Pub. L. 89–97 applicable with respect to monthly insurance benefits under this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefit under section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
+Amendment by section 308(d)(11) of Pub. L. 89–97 applicable with respect to monthly insurance benefitsunder this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefit under section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
 
 #### Effective Date of 1960 Amendment
 

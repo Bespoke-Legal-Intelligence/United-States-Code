@@ -6,7 +6,7 @@ There shall be established a Social Security Advisory Board (in this section ref
 
 #### (b) Functions of Board
 
-On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter, and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
+On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II, the program of special benefits for certain World War II veterans under subchapter VIII, and the supplemental security income program under subchapter XVI. Specific functions of the Board shall include—
 
 &emsp;(1) analyzing the Nation's retirement and disability systems and making recommendations with respect to how the old-age, survivors, and disability insurance program and the supplemental security income program, supported by other public and private systems, can most effectively assure economic security;
 
@@ -78,7 +78,7 @@ A member of the Board shall, for each day (including traveltime) during which th
 
 (1) The Board shall meet at the call of the Chairman (in consultation with the other members of the Board) not less than 4 times each year to consider a specific agenda of issues, as determined by the Chairman in consultation with the other members of the Board.
 
-(2) Four members of the Board (not more than 3 of whom may be of the same political party)shall constitute a quorum for purposes of conducting business.
+(2) Four members of the Board (not more than 3 of whom may be of the same political party) shall constitute a quorum for purposes of conducting business.
 
 #### (h) Federal Advisory Committee Act
 
@@ -106,7 +106,7 @@ The provisions of title 5 relating to the competitive service, referred to in su
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently."
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–169 substituted "subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter," for "subchapter II of this chapter" in introductory provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–169 substituted "subchapter II, the program of special benefits for certain World War II veterans under subchapter VIII," for "subchapter II" in introductory provisions.
 
 <b>1997</b>—Subsec. (i). Pub. L. 105–33 struck out ", and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board," after "Staff Director" and "clerical" after "provide adequate".
 
@@ -162,5 +162,5 @@ Section 5227.—Section 5227 \[probably means section 5527 of this Act which is 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

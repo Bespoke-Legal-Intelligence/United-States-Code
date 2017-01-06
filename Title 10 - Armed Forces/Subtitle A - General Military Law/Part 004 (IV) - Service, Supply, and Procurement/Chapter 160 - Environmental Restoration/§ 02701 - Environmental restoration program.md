@@ -74,7 +74,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A) The term "Indian tribe" has the meaning given such term in section 101(36) of CERCLA (42 U.S.C. 9601(36)).
 
-&emsp;&emsp;(B) The term "nonprofit conservation organization" means any non-governmental nonprofit organization whose primary purpose is conservation of open space or natural resources.
+&emsp;&emsp;(B) The term "nonprofit conservation organization" means any non-governmentalnonprofit organization whose primary purpose is conservation of open space or natural resources.
 
 &emsp;&emsp;(C) The term "owner of covenant property" means an owner of property subject to a covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
 
@@ -138,7 +138,7 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII,§2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469.)
 
 #### References in Text
 
@@ -254,6 +254,122 @@ Pub. L. 104–106, div. A, title XV, §1504(a), Feb. 10, 1996, 110 Stat. 513, pr
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
+#### Plan, Funding Documents, and Management Review Relating to Explosive Ordnance Disposal
+
+Pub. L. 114–328, div. A, title III, §343, Dec. 23, 2016, 130 Stat. 2082, provided that:
+
+"(a)
+
+Plan Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall develop a plan to establish an explosive ordnance disposal program in the Department of Defense to ensure close and continuous coordination among the military departments on matters relating to explosive ordnance disposal.
+
+&emsp;"(2)
+
+Roles, responsibilities, and authorities.—The plan under paragraph (1) shall include provisions under which—
+
+&emsp;&emsp;"(A) the Secretary of Defense shall—
+
+&emsp;&emsp;&emsp;"(i) assign responsibility for the coordination and integration of explosive ordnance disposal to a joint office or entity in the Office of the Secretary of Defense; and
+
+&emsp;&emsp;&emsp;"(ii) designate the Secretary of the Navy (or a designee of the Secretary of the Navy) as the executive agent for the Department of Defense to coordinate and integrate research, development, test, and evaluation activities and procurement activities of the military departments relating to explosive ordnance disposal; and
+
+&emsp;&emsp;"(B) the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities and procurement activities to address such needs.
+
+"(b)
+
+Annual Explosive Ordnance Disposal Funding Documents.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for each fiscal year after fiscal year 2017, a consolidated funding display, in classified and unclassified form, that identifies the funding source for all explosive ordnance disposal activities within the Department of Defense.
+
+&emsp;"(2)
+
+Elements.—The funding display under paragraph (1) for a fiscal year shall include a single program element from each military department for each of the following:
+
+&emsp;&emsp;"(A) Research, development, test, and evaluation.
+
+&emsp;&emsp;"(B) Procurement.
+
+&emsp;&emsp;"(C) Operation and maintenance.
+
+&emsp;&emsp;"(D) Any other program element used to fund explosive ordnance disposal activities (but not including any program element relating to military construction).
+
+"(c)
+
+Management Review and Assessment.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall review and assess the effectiveness of current management structures in supporting the explosive ordnance disposal needs of the combatant commands and the military departments.
+
+&emsp;"(2)
+
+Elements.—The review and assessment under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A review of the organizational structures and responsibilities within the Office of the Secretary of Defense that provide policy and oversight of the policies, programs, acquisition activities, and personnel of the military departments relating to explosive ordnance disposal.
+
+&emsp;&emsp;"(B) A review of the organizational structures and responsibilities within the military departments that—
+
+&emsp;&emsp;&emsp;"(i) man, equip, and train explosive ordnance disposal forces; and
+
+&emsp;&emsp;&emsp;"(ii) support such forces with manpower, technology, equipment, and readiness.
+
+&emsp;&emsp;"(C) A review of the organizational structures and responsibilities of the Secretary of the Navy as the executive agent for explosive ordnance disposal technology and training.
+
+&emsp;&emsp;"(D) Budget displays for each military department that support research, development, test, and evaluation; procurement; and operation and maintenance, relating to explosive ordnance disposal.
+
+&emsp;&emsp;"(E) An assessment of the adequacy of the organizational structures and responsibilities and the alignment of funding within the military departments in supporting the needs of the combatant commands and the military departments with respect to explosive ordnance disposal.
+
+"(d)
+
+Briefing.—Not later than March 1, 2017, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that includes—
+
+&emsp;"(1) details of the plan required under subsection (a);
+
+&emsp;"(2) the results of the review and assessment under subsection (c);
+
+&emsp;"(3) a description of any measures undertaken to improve joint coordination, oversight, and management of programs relating to explosive ordnance disposal;
+
+&emsp;"(4) recommendations to the Secretary to improve the capabilities and readiness of explosive ordnance disposal forces; and
+
+&emsp;"(5) an explanation of the advantages and disadvantages of assigning responsibility for the coordination and integration of explosive ordnance disposal to a single joint office or entity in the Office of the Secretary of Defense.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Explosive ordnance.—The term 'explosive ordnance' means any munition containing explosives, nuclear fission or fusion materials, or biological or chemical agents, including—
+
+&emsp;&emsp;"(A) bombs and warheads;
+
+&emsp;&emsp;"(B) guided and ballistic missiles;
+
+&emsp;&emsp;"(C) artillery, mortar, rocket, and small arms munitions;
+
+&emsp;&emsp;"(D) mines, torpedoes, and depth charges;
+
+&emsp;&emsp;"(E) demolition charges;
+
+&emsp;&emsp;"(F) pyrotechnics;
+
+&emsp;&emsp;"(G) clusters and dispensers;
+
+&emsp;&emsp;"(H) cartridge and propellant actuated devices;
+
+&emsp;&emsp;"(I) electro-explosive devices; and
+
+&emsp;&emsp;"(J) clandestine and improvised explosive devices.
+
+&emsp;"(2)
+
+Disposal.—The term 'disposal' means, with respect to explosive ordnance, the detection, identification, field evaluation, defeat, disablement, or rendering safe, recovery and exploitation, and final disposition of the ordnance."
+
 #### Prohibition on Disposing of Waste in Open-Air Burn Pits
 
 Pub. L. 111–84, div. A, title III, §317, Oct. 28, 2009, 123 Stat. 2249, as amended by Pub. L. 112–81, div. A, title III, §316, Dec. 31, 2011, 125 Stat. 1358; Pub. L. 113–66, div. A, title III, §314, Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(g)(1), Dec. 19, 2014, 128 Stat. 3511, provided that:
@@ -346,7 +462,7 @@ Definitions.—In this section:
 
 #### Purpose of Pub. L. 109–284
 
-Pub. L. 109–284, §1, Sept. 27, 2006, 120 Stat. 1211, provided that: "The purpose of this Act \[amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure,sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works\] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters."
+Pub. L. 109–284, §1, Sept. 27, 2006, 120 Stat. 1211, provided that: "The purpose of this Act \[amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure, sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works\] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters."
 
 #### Formerly Utilized Sites Remedial Action Program
 
@@ -428,7 +544,7 @@ Guidelines.—(1) The regulations prescribed under subsection (a) shall contain 
 
 "(c)
 
-Requirements.—The regulations prescribed under subsection (a) shall contain requirements for the Secretaries of the military departments and the heads of defense agencies to—
+Requirements.—The regulations prescribed under subsection (a) shall contain requirements for theSecretaries of the military departments and the heads of defense agencies to—
 
 &emsp;"(1) obtain all data that is relevant for purposes of cost-recovery and cost-sharing activities; and
 
@@ -516,7 +632,7 @@ Identification of Military Facilities With Environmental Training Expertise.—A
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
-Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A,title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, §1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
+Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, §1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
 
 "(a)
 
@@ -754,7 +870,7 @@ Repayment.—(1) Any individual receiving scholarship assistance from the Secret
 
 "(h)
 
-Coordination of Benefits.—Any scholarship assistance provided to an individual under this section shall be taken into account in determining the eligibility of the individual for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]).
+Coordination of Benefits.—Any scholarship assistance provided to an individual under this section shall be taken into account in determining the eligibility of the individual for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
 
 "(i)
 
@@ -958,7 +1074,7 @@ Preference.—In evaluating applicants for the award of a scholarship or fellows
 
 "(h)
 
-Coordination of Benefits.—A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the individual for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\].
+Coordination of Benefits.—A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the individual for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
 
 "(i)
 
@@ -1048,11 +1164,11 @@ Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as a
 
 "(a)
 
-Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
+Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carryout, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
 "(b)
 
-Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reductiongoals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
+Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
 
 "(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph, the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
 

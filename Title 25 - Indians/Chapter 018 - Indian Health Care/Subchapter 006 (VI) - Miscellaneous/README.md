@@ -45,3 +45,5 @@ This subchapter was in the original title VIII, formerly VII, of Pub. L. 94–43
 - [&sect; 01681 - Omitted](%C2%A7%2001681%20-%20Omitted.md)
 - [&sect; 01682 - Subrogation of claims by Indian Health Service](%C2%A7%2001682%20-%20Subrogation%20of%20claims%20by%20Indian%20Health%20Service.md)
 - [&sect; 01683 - Indian Catastrophic Health Emergency Fund](%C2%A7%2001683%20-%20Indian%20Catastrophic%20Health%20Emergency%20Fund.md)
+- [&sect; 01684 - Emergency plan for Indian safety and health](%C2%A7%2001684%20-%20Emergency%20plan%20for%20Indian%20safety%20and%20health.md)
+- [&sect; 01685 - Service of traditional foods in public facilities](%C2%A7%2001685%20-%20Service%20of%20traditional%20foods%20in%20public%20facilities.md)

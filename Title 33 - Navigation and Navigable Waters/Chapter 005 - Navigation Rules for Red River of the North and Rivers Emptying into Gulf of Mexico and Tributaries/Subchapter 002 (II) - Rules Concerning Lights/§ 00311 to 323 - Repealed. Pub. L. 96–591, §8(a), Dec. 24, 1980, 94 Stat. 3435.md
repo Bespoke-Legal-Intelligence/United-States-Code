@@ -2,7 +2,7 @@
 
 Section 311, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 250, related generally to the times during which rules for the display of lights were to be followed.
 
-Section 312, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 250; Aug. 14, 1958, Pub. L. 85–635, §3, 72 Stat. 590, set out requirements for lights on vessels towing alongside or pushing a vessel or vessels.
+Section 312, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 250; Aug. 14,1958, Pub. L. 85–635, §3, 72 Stat. 590, set out requirements for lights on vessels towing alongside or pushing a vessel or vessels.
 
 Section 313, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 251, related to lights of vessels towing a vessel or vessels astern.
 

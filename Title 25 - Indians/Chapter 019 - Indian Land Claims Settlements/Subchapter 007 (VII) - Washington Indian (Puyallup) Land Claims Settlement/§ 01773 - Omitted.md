@@ -1,0 +1,10 @@
+### §1773. Omitted
+
+#### Codification
+
+Section, Pub. L. 101–41, §2, June 21, 1989, 103 Stat. 83, which set out congressional findings and purpose, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 101–41, §1, June 21, 1989, 103 Stat. 83, provided that Pub. L. 101–41, enacting this subchapter and provisions formerly set out as a note under section 1773a of this title, could be cited as the "Puyallup Tribe of Indians Settlement Act of 1989".
+

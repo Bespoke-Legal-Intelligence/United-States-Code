@@ -106,7 +106,7 @@ Cohort default data examinations.—The amendment made by section 2(c)(60)(A) \[
 
 &emsp;"(8)
 
-Cohort default rate determinations.—The amendments made to subsection\[s\] (a)(3) and (m)(1)(B) of section 435 of this \[the\] Act \[section 1085(a)(3) and (m)(1)(B) of this title\] shall apply withrespect to the determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year."
+Cohort default rate determinations.—The amendments made to subsection\[s\] (a)(3) and (m)(1)(B) of section 435 of this \[the\] Act \[section 1085(a)(3) and (m)(1)(B) of this title\] shall apply with respect to the determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year."
 
 #### Effective Date of 1992 Amendment
 

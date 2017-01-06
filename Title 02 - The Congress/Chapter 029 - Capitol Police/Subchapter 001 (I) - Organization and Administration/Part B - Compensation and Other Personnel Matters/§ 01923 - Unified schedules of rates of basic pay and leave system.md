@@ -48,7 +48,7 @@
 
 (2) The lump sum payment under paragraph (1)—
 
-&emsp;(A) shall equal the pay the member or civilian employee would have received had such member or employee remained in the serviceuntil the expiration of the period of annual leave;
+&emsp;(A) shall equal the pay the member or civilian employee would have received had such member or employee remained in the service until the expiration of the period of annual leave;
 
 &emsp;(B) shall be paid from amounts appropriated to the Capitol Police;
 

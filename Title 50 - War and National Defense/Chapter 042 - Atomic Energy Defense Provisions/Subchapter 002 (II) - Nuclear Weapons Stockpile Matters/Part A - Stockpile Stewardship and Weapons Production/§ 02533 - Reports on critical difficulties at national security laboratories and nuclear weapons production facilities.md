@@ -12,7 +12,7 @@ Not later than 10 days after receipt of a report under subsection (a), the Admin
 
 #### (d) Inclusion of reports in annual stockpile assessment
 
-Any report submitted pursuant to subsection (a) shall also be submitted to the President and Congress with the matters required to be submitted under section 2525(f) of this title for the year in which such report is submitted.
+Any report submitted pursuant to subsection (a) shall also be submitted to the President andCongress with the matters required to be submitted under section 2525(f) of this title for the year in which such report is submitted.
 
 (Pub. L. 107–314, div. D, title XLII, §4213, formerly Pub. L. 104–201, div. C, title XXXI, §3159, Sept. 23, 1996, 110 Stat. 2842, §4218(b), (c), formerly Pub. L. 105–85, div. A, title XIII, §1305(c), (d), Nov. 18, 1997, 111 Stat. 1954; Pub. L. 106–65, div. C, title XXXI, §3163(f), Oct. 5, 1999, 113 Stat. 946; renumbered Pub. L. 107–314, div. D, title XLII, §4213, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; renumbered Pub. L. 107–314, div. D, title XLII, §4218(c), (d), and amended Pub. L. 112–239, div. C, title XXXI, §§3131(f)(1), 3164(a)(3), Jan. 2, 2013, 126 Stat. 2181, 2206; renumbered Pub. L. 107–314, div. D, title XLII, §4218(b), (c), and amended Pub. L. 113–66, div. C, title XXXI, §3146(c)(7), (10)(B), Dec. 26, 2013, 127 Stat. 1074, 1075.)
 

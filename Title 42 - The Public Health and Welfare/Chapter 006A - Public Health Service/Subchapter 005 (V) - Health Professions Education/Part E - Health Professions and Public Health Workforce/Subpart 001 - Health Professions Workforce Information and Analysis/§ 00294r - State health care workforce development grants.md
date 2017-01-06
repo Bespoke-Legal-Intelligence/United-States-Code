@@ -22,7 +22,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive a planning grant, an entity shall be an eligible partnership. An eligible partnership shall be a State workforce investment board, if it includes or modifies the members to include at least one representative from each of the following: health care employer, labor organization, a public 2-year institution of higher education, a public 4-year institution of higher education, the recognized State federation of labor, the State public secondary education agency, the State P–16 or P–20 Council if such a council exists, and a philanthropic organization that is actively engaged in providing learning, mentoring, and work opportunities to recruit, educate, and train individuals for, and retain individuals in, careers in health care and related industries.
+&emsp;To be eligible to receive a planning grant, an entity shall be an eligible partnership. An eligible partnership shall be a State workforce investment board, if it includes or modifies the members to include at least one representative from each of the following: health care employer, labor organization, a public 2-year institution of higher education, a public 4-year institution of higher education, the recognized State federation of labor, the State public secondary education agency, the State P–16 or P–20 Council if such a council exists, and a philanthropic organization that is actively engaged in providing learning, mentoring, and work opportunities to recruit, educate, andtrain individuals for, and retain individuals in, careers in health care and related industries.
 
 #### (3) Fiscal and administrative agent
 
@@ -174,7 +174,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 #### Prior Provisions
 
-A prior section 294r, act July 1, 1944, ch. 373, title VII, §751, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §604,102 Stat. 3126, which related to establishment of a loan repayment program for allied health personnel, was omitted in the general amendment of this subchapter by Pub. L. 102–408.
+A prior section 294r, act July 1, 1944, ch. 373, title VII, §751, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §604, 102 Stat. 3126, which related to establishment of a loan repayment program for allied health personnel, was omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
 Another prior section 294r, act July 1, 1944, ch. 373, title VII, §748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583, which related to traineeships for students in schools of public health, was renumbered section 792 of act July 1, 1944, by Pub. L. 97–35 and transferred to section 295h–1b of this title, and was subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 

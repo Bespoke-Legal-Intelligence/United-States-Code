@@ -12,7 +12,7 @@ The Inspector General of the Commission shall conduct reviews and audits to asse
 
 Within 1 year after August 14, 2008, the Inspector General shall conduct a review of—
 
-&emsp;(1) complaints received by the Inspector General from employees of the Commission about failures of other employees to enforce the rules or regulations of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\] or any other Act enforced by the Commission or otherwise carry out their responsibilities under such Acts if such alleged failures raise issues of conflicts of interest, ethical violations, or the absence of good faith; and
+&emsp;(1) complaints received by the Inspector General from employees of the Commissionabout failures of other employees to enforce the rules or regulations of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\] or any other Act enforced by the Commission or otherwise carry out their responsibilities under such Acts if such alleged failures raise issues of conflicts of interest, ethical violations, or the absence of good faith; and
 
 &emsp;(2) actions taken by the Commission to address such failures and complaints, including an assessment of the timeliness and effectiveness of such actions.
 
@@ -28,7 +28,7 @@ Not later than 30 days after August 14, 2008, the Commission shall establish and
 
 #### (1) Activities and needs of Inspector General
 
-&emsp;Not later than 60 days after August 14, 2008, the Inspector General of the Commission shall transmit a report to the appropriate Congressional committees on the activities of the Inspector General, any structural barriers whichprevent the Inspector General from providing robust oversight of the activities of the Commission, and any additional authority or resources that would facilitate more effective oversight.
+&emsp;Not later than 60 days after August 14, 2008, the Inspector General of the Commission shall transmit a report to the appropriate Congressional committees on the activities of the Inspector General, any structural barriers which prevent the Inspector General from providing robust oversight of the activities of the Commission, and any additional authority or resources that would facilitate more effective oversight.
 
 #### (2) Reviews of improvements and employee complaints
 

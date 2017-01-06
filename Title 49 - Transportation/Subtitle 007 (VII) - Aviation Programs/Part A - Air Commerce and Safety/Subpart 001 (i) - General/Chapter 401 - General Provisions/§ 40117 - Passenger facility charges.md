@@ -24,11 +24,11 @@ Eligible airport-related project.—The term "eligible airport-related project" 
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
-&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance undersection 47504, whether or not a program for those measures has been approved under section 47504.
+&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance under section 47504, whether or not a program for those measures has been approved under section 47504.
 
 &emsp;&emsp;(F) A project for constructing gates and related areas at which passengers board or exit aircraft. In the case of a project required to enable additional air service by an air carrier with less than 50 percent of the annual passenger boardings at an airport, the project for constructing gates and related areas may include structural foundations and floor systems, exterior building walls and load-bearing interior columns or walls, windows, door and roof systems, building utilities (including heating, air conditioning, ventilation, plumbing, and electrical service), and aircraft fueling facilities adjacent to the gate.
 
-&emsp;&emsp;(G) A project for converting vehicles and ground support equipment used at a commercial service airport to low-emission technology (as defined in section 47102) or to use cleaner burning conventional fuels, retrofitting of any such vehicles or equipment that are powered by a diesel or gasoline engine with emission control technologies certified or verified by the Environmental Protection Agency to reduce emissions, or acquiring for use at a commercial service airport vehicles and ground support equipment that include low-emission technology or use cleaner burning fuels if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act (42 U.S.C. 7501(2))) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
+&emsp;&emsp;(G) A project for converting vehicles and ground support equipment used at a commercial service airport to low-emission technology (as defined in section 47102) or to use cleaner burning conventional fuels, retrofitting of any such vehicles or equipment that are powered by a diesel or gasoline engine with emission control technologies certified or verified by the Environmental Protection Agency to reduce emissions, or acquiring for use at a commercial service airport vehicles and ground support equipment that include low-emission technology or use cleaner burning fuels if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act\(42 U.S.C. 7501(2))) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
 &emsp;(4)
 
@@ -74,7 +74,7 @@ In general.—In addition to the uses specified in paragraphs (1), (4), and (6),
 
 &emsp;&emsp;(i) the Secretary determines that the building is adversely affected by airport noise;
 
-&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff incase number 986,442 or 986,446, which was resolved by such judgment and final order;
+&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order;
 
 &emsp;&emsp;(iii) the project is for a school identified in 1 of the settlement agreements effective February 16, 2005, between the airport and each of the school districts;
 
@@ -90,7 +90,7 @@ Eligible project costs.—In subparagraph (A)(iv), the term "eligible project co
 
 Applications.—(1) An eligible agency must submit to the Secretary an application for authority to impose a passenger facility charge. The application shall contain information and be in the form that the Secretary may require by regulation.
 
-(2) Before submitting an application, the eligible agency must provide reasonable notice to, and an opportunity for consultation with, air carriers and foreign air carriers operating at the airport. The Secretary shall prescribe regulations that define reasonable notice and contain at least the following requirements:
+(2) Before submitting an application, the eligible agency must provide reasonable notice to, and an opportunity for consultation with, aircarriers and foreign air carriers operating at the airport. The Secretary shall prescribe regulations that define reasonable notice and contain at least the following requirements:
 
 &emsp;(A) The agency must provide written notice of individual projects being considered for financing by a passenger facility charge and the date and location of a meeting to present the projects to air carriers and foreign air carriers operating at the airport.
 
@@ -222,7 +222,7 @@ Competition Plans.—
 
 &emsp;(1)
 
-In general.—Beginning in fiscal year 2001, no eligible agency may impose a passenger facility charge under this section with respect to a covered airport (as such term is defined in section 47106(f)) unless the agency has submitted to the Secretary a written competition plan in accordance with such section. This subsection does not apply to passenger facility charges in effect before the date of the enactment of this subsection.
+In general.—Beginning in fiscal year 2001, no eligible agency may impose a passenger facility charge under this section with respect to a covered airport (as such term is defined in section 47106(f)) unless the agencyhas submitted to the Secretary a written competition plan in accordance with such section. This subsection does not apply to passenger facility charges in effect before the date of the enactment of this subsection.
 
 &emsp;(2)
 
@@ -298,7 +298,15 @@ Existing regulations.—The provisions of section 158.49 of title 14, Code of Fe
 
 Covered air carrier defined.—In this section, the term "covered air carrier" means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34.)
+(n)
+
+Use of Revenues at Previously Associated Airport.—Notwithstanding the requirements relating to airport control under subsection (b)(1), the Secretary may authorize use of a passenger facility charge under subsection (b) to finance an eligible airport-related project if—
+
+&emsp;(1) the eligible agency seeking to impose the new charge controls an airport where a $2.00 passenger facility charge became effective on January 1, 2013; and
+
+&emsp;(2) the location of the project to be financed by the new charge is at an airport that was under the control of the same eligible agency that had controlled the airport described in paragraph (1).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b),135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638.)
 
 Historical and Revision Notes
 
@@ -431,6 +439,8 @@ The date of the enactment of this subsection, referred to in subsec. (k)(1), is 
 The date of enactment of this subsection, referred to in subsecs. (l)(6) and (m)(7), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (n). Pub. L. 114–190 added subsec. (n).
 
 <b>2012</b>—Pub. L. 112–95, §111(c)(1)(H), substituted "charges" for "fees" wherever appearing in text.
 
@@ -574,7 +584,7 @@ Pub. L. 112–21, §5(j), June 29, 2011, 125 Stat. 235, provided that: "The amen
 
 Pub. L. 112–16, §5(j), May 31, 2011, 125 Stat. 220, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on June 1, 2011."
 
-Pub. L. 112–7, §5(j), Mar. 31, 2011, 125 Stat. 33, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2011."
+Pub. L. 112–7, §5(j), Mar. 31, 2011, 125 Stat. 33, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115,47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2011."
 
 #### Effective Date of 2010 Amendment
 

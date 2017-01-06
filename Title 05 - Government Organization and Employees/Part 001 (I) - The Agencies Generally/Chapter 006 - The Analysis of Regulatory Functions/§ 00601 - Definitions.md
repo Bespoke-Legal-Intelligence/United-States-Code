@@ -284,7 +284,7 @@ Procedures.—Procedures described under subparagraph (B)(ii)—
 
 &emsp;"(5)
 
-Agency preparation of guides.—The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written usingsufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
+Agency preparation of guides.—The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
 
 &emsp;"(6)
 
@@ -378,7 +378,7 @@ Pub. L. 101–574, title III, §309, Nov. 15, 1990, 104 Stat. 2831, provided tha
 
 "(a)
 
-Study.—The Office of Technology Assessment shall conduct a study of the effects of deregulation onthe economic vitality of rural areas. Such study shall include, but not be limited to, a thorough analysis of the impact of deregulation on—
+Study.—The Office of Technology Assessment shall conduct a study of the effects of deregulation on the economic vitality of rural areas. Such study shall include, but not be limited to, a thorough analysis of the impact of deregulation on—
 
 &emsp;"(1) the number of loans made by financial institutions to small businesses located in rural areas, a change in the level of security interests required for such loans, and the cost of such loans to rural small businesses for creation and expansion;
 
@@ -448,7 +448,7 @@ Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitu
 
 (c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
-Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) "Policies that have takings implications" refers to Federal regulations, proposed Federal regulations, proposed Federal legislation, comments on proposed Federal legislation, or other Federal policy statements that, if implemented or enacted, could effect a taking, such as rules and regulations that propose or implement licensing, permitting, or other condition requirements or limitations on private property use, or that require dedications or exactions from owners of private property. "Policies that have takings implications" does not include:
+Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) "Policies that have takings implications" refers toFederal regulations, proposed Federal regulations, proposed Federal legislation, comments on proposed Federal legislation, or other Federal policy statements that, if implemented or enacted, could effect a taking, such as rules and regulations that propose or implement licensing, permitting, or other condition requirements or limitations on private property use, or that require dedications or exactions from owners of private property. "Policies that have takings implications" does not include:
 
 (1) Actions abolishing regulations, discontinuing governmental programs, or modifying regulations in a manner that lessens interference with the use of private property;
 
@@ -492,7 +492,7 @@ Sec. 3. <i>General Principles</i>. In formulating or implementing policies that 
 
 (d) While normal governmental processes do not ordinarily effect takings, undue delays in decision-making during which private property use if interfered with carry a risk of being held to be takings. Additionally, a delay in processing may increase significantly the size of compensation due if a taking is later found to have occurred.
 
-(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for theaction contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
+(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for the action contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
 
 Sec. 4. <i>Department and Agency Action</i>. In addition to the fundamental principles set forth in Section 3, Executive departments and agencies shall adhere, to the extent permitted by law, to the following criteria when implementing policies that have takings implications:
 
@@ -654,13 +654,13 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (6) The Vice President, with the Advisors' assistance, may consult with the heads of agencies with respect to their Plans and, in appropriate instances, request further consideration or inter-agency coordination.
 
-(7) The Plans developed by the issuing agency shall be published annually in the October publication of theUnified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
+(7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
 
 (d) <i>Regulatory Working Group</i>. Within 30 days of the date of this Executive order, the Administrator of OIRA shall convene a Regulatory Working Group ("Working Group"), which shall consist of representatives of the heads of each agency that the Administrator determines to have significant domestic regulatory responsibility, the Advisors, and the Vice President. The Administrator of OIRA shall chair the Working Group and shall periodically advise the Vice President on the activities of the Working Group. The Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues (including, among others (1) the development of innovative regulatory techniques, (2) the methods, efficacy, and utility of comparative risk assessment in regulatory decision-making, and (3) the development of short forms and other streamlined regulatory approaches for small businesses and other entities). The Working Group shall meet at least quarterly and may meet as a whole or in subgroups of agencies with an interest in particular issues or subject areas. To inform its discussions, the Working Group may commission analytical studies and reports by OIRA, the Administrative Conference of the United States, or any other agency.
 
 (e) <i>Conferences</i>. The Administrator of OIRA shall meet quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations that may uniquely or significantly affect those governmental entities. The Administrator of OIRA shall also convene, from time to time, conferences with representatives of businesses, nongovernmental organizations, and the public to discuss regulatory issues of common concern.
 
-Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
+Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified orunnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
 (b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
@@ -968,7 +968,7 @@ Section 1. <i>Establishment of Executive Department Centers for Faith-Based and 
 
 Sec. 2. <i>Purpose of Executive Department Centers for Faith-Based and Community Initiatives</i>. The purpose of the executive department Centers will be to coordinate department efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social services.
 
-Sec. 3. <i>Responsibilities of Executive Department Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law: (a) conduct, in coordination with the White House OFBCI, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social services by the department, including but not limited to regulations, rules, orders, procurement, and other internal policiesand practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+Sec. 3. <i>Responsibilities of Executive Department Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law: (a) conduct, in coordination with the White House OFBCI, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social services by the department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in department programs and initiatives to the greatest extent possible;
 
@@ -1026,7 +1026,7 @@ Sec. 3. <i>Responsibilities of Federal Agencies</i>. Consistent with the require
 
 Sec. 4. <i>Definitions</i>. Terms defined in section 601 of title 5, United States Code, including the term "agency," shall have the same meaning in this order.
 
-Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or affect the authority ofthe Administrator of the Small Business Administration to supervise the Small Business Administration as provided in the first sentence of section 2(b)(1) of Public Law 85–09536 \[Pub. L. 85–536\] (15 U.S.C. 633(b)(1)).
+Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or affect the authority of the Administrator of the Small Business Administration to supervise the Small Business Administration as provided in the first sentence of section 2(b)(1) of Public Law 85–09536 \[Pub. L. 85–536\] (15 U.S.C. 633(b)(1)).
 
 Sec. 6. <i>Reporting</i>. For the purpose of promoting compliance with this order, Advocacy shall submit a report not less than annually to the Director of the Office of Management and Budget on the extent of compliance with this order by agencies.
 
@@ -1110,13 +1110,13 @@ Sec. 2. <i>Fundamental Principles</i>. In formulating and implementing policies 
 
 (e) The Federal Government must implement Federal programs in accordance with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution, as well as other applicable law, and must monitor and enforce standards regarding the relationship between religion and government in ways that avoid excessive entanglement between religious bodies and governmental entities.
 
-(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, orproselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
+(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
 
 (g) Faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression outside the programs in question, or religious character. Accordingly, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime award or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain religious terms in its name, select its board members on a religious basis, and include religious references in its organization's mission statements and other chartering or governing documents.
 
 (h) Each agency responsible for administering or awarding Federal financial assistance for social service programs shall offer protections for beneficiaries of such programs pursuant to the following principles:
 
-(i) <i>Referral to an Alternative Provider</i>. If a beneficiary or prospective beneficiary of a social service program supported by Federal financial assistance objects to the religious character of an organization that provides services under the program, that organization shall, within a reasonable time after the date of the objection, refer the beneficiary to an alternative provider.
+(i) <i>Referral to an Alternative Provider</i>. If a beneficiary or prospective beneficiary of a social service programsupported by Federal financial assistance objects to the religious character of an organization that provides services under the program, that organization shall, within a reasonable time after the date of the objection, refer the beneficiary to an alternative provider.
 
 (ii) <i>Agency Responsibilities</i>. Each agency responsible for administering a social service program or supporting a social service program with Federal financial assistance shall establish policies and procedures designed to ensure that (1) appropriate and timely referrals are made to an alternative provider; (2) all referrals are made in a manner consistent with all applicable privacy laws and regulations; (3) the organization subject to subsection (h)(i) notifies the agency of any referral; (4) such organization has established a process for determining whether the beneficiary has contacted the alternative provider; and (5) each beneficiary of a social service program receives written notice of the protections set forth in this subsection prior to enrolling in or receiving services from such program.
 
@@ -1178,7 +1178,7 @@ Pursuant to section 121(a) of title 40, United States Code, and section 301 of t
 
 (b) The Secretary of Labor may, by rule or regulation, exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier.
 
-(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
+(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected withthe carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
 
 (d) The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor that are in all respects separate and distinct from activities of the contractor related to the performance of the contract: provided, that such an exemption will not interfere with or impede the effectuation of the purposes of this Order: and provided further, that in the absence of such an exemption all facilities shall be covered by the provisions of this Order."
 
@@ -1324,7 +1324,7 @@ Sec. 2. <i>Purpose of Center</i>. The purpose of the Center shall be to coordina
 
 Sec. 3. <i>Responsibilities of the Center for Faith-Based and Community Initiatives</i>. In carrying out the purpose set forth in section 2 of this order, the Center shall:
 
-(a) conduct, in coordination with the WHOFBCI Director, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the WHOFBCI Director, a department-wide audit to identify all existingbarriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in Department programs and initiatives to the greatest extent possible;
 
@@ -1382,7 +1382,7 @@ Sec. 3. <i>Specific Exclusions</i>. Nothing in this order shall be construed to 
 
 (a) public ownership or exclusive use of the property by the public, such as for a public medical facility, roadway, park, forest, governmental office building, or military reservation;
 
-(b) projects designated for public, common carrier, public transportation, or public utility use, includingthose for which a fee is assessed, that serve the general public and are subject to regulation by a governmental entity;
+(b) projects designated for public, common carrier, public transportation, or public utility use, including those for which a fee is assessed, that serve the general public and are subject to regulation by a governmental entity;
 
 (c) conveying the property to a nongovernmental entity, such as a telecommunications or transportation common carrier, that makes the property available for use by the general public as of right;
 
@@ -1506,11 +1506,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. (a) To maintain our Nation's competitive edge and ensure an economy built to last, the United States must have fast, reliable, resilient, and environmentally sound means of moving people, goods, energy, and information. In a global economy, we will compete for the world's investments based in significant part on the quality of our infrastructure. Investing in the Nation's infrastructure provides immediate and long-term economic benefits for local communities and the Nation as a whole.
 
-The quality of our Nation's infrastructure depends in critical part on Federal permitting and review processes, including planning, approval, and consultation processes. These processes inform decision-makers and affected communities about the potential benefits and impacts of proposed infrastructure projects, and ensure that projects are designed, built, and maintained in a manner that is consistent with protecting our publichealth, welfare, safety, national security, and environment. Reviews and approvals of infrastructure projects can be delayed due to many factors beyond the control of the Federal Government, such as poor project design, incomplete applications, uncertain funding, or multiple reviews and approvals by State, local, tribal, or other jurisdictions. Given these factors, it is critical that executive departments and agencies (agencies) take all steps within their authority, consistent with available resources, to execute Federal permitting and review processes with maximum efficiency and effectiveness, ensuring the health, safety, and security of communities and the environment while supporting vital economic growth.
+The quality of our Nation's infrastructure depends in critical part on Federal permitting and review processes, including planning, approval, and consultation processes. These processes inform decision-makers and affected communities about the potential benefits and impacts of proposed infrastructure projects, and ensure that projects are designed, built, and maintained in a manner that is consistent with protecting our public health, welfare, safety, national security, and environment. Reviews and approvals of infrastructure projects can be delayed due to many factors beyond the control of the Federal Government, such as poor project design, incomplete applications, uncertain funding, or multiple reviews and approvals by State, local, tribal, or other jurisdictions. Given these factors, it is critical that executive departments and agencies (agencies) take all steps within their authority, consistent with available resources, to execute Federal permitting and review processes with maximum efficiency and effectiveness, ensuring the health, safety, and security of communities and the environment while supporting vital economic growth.
 
 To achieve that objective, our Federal permitting and review processes must provide a transparent, consistent, and predictable path for both project sponsors and affected communities. They must ensure that agencies set and adhere to timelines and schedules for completion of reviews, set clear permitting performance goals, and track progress against those goals. They must encourage early collaboration among agencies, project sponsors, and affected stakeholders in order to incorporate and address their interests and minimize delays. They must provide for transparency and accountability by utilizing cost-effective information technology to collect and disseminate information about individual projects and agency performance, so that the priorities and concerns of all our citizens are considered. They must rely upon early and active consultation with State, local, and tribal governments to avoid conflicts or duplication of effort, resolve concerns, and allow for concurrent rather than sequential reviews. They must recognize the critical role project sponsors play in assuring the timely and cost-effective review of projects by providing complete information and analysis and by supporting, as appropriate, the costs associated with review. And, they must enable agencies to share priorities, work collaboratively and concurrently to advance reviews and permitting decisions, and facilitate the resolution of disputes at all levels of agency organization.
 
-Each of these elements must be incorporated into routine agency practice to provide demonstrable improvements in the performance of Federal infrastructure permitting and review processes, including lower costs, more timely decisions, and a healthier and cleaner environment. Also, these elements must be integrated into project planning processes so that projects are designed appropriately to avoid, to the extent practicable, adverse impacts on public health, security, historic properties and other cultural resources, and the environment, and to minimize or mitigate impacts that may occur. Permitting and review process improvements that have proven effective must be expanded and institutionalized.
+Each of these elements must be incorporated into routine agency practice to provide demonstrable improvements in the performance of Federal infrastructure permitting and review processes, including lower costs, more timely decisions, and a healthier and cleaner environment. Also, these elements must be integrated into project planning processes so that projectsare designed appropriately to avoid, to the extent practicable, adverse impacts on public health, security, historic properties and other cultural resources, and the environment, and to minimize or mitigate impacts that may occur. Permitting and review process improvements that have proven effective must be expanded and institutionalized.
 
 (b) In advancing this policy, this order expands upon efforts undertaken pursuant to Executive Order 13580 of July 12, 2011 (Interagency Working Group on Coordination of Domestic Energy Development and Permitting in Alaska), Executive Order 13563 of January 18, 2011 (Improving Regulation and Regulatory Review), and my memorandum of August 31, 2011 (Speeding Infrastructure Development Through More Efficient and Effective Permitting and Environmental Review), as well as other ongoing efforts.
 
@@ -1568,7 +1568,7 @@ Sec. 3. <i>Plans for Measurable Performance Improvement</i>. (a) By May 31, 2012
 
 (ii) developing mechanisms to better communicate priorities and resolve disputes among agencies at the national and regional levels;
 
-(iii) institutionalizing use of the Dashboard, working with the CIO to enhance the Dashboard, and utilizingother cost-effective information technology systems to share environmental and project-related information with the public, project sponsors, and permit reviewers; and
+(iii) institutionalizing use of the Dashboard, working with the CIO to enhance the Dashboard, and utilizing other cost-effective information technology systems to share environmental and project-related information with the public, project sponsors, and permit reviewers; and
 
 (iv) identifying timeframes and Member Agency responsibilities for the implementation of each proposed action.
 
@@ -1596,7 +1596,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order shall be implemented consistent with Executive Order 13175 of November 6, 2000 (Consultation and Coordination with Indian Tribal Governments) and my memorandum of November 5, 2009 (Tribal Consultation).
+(c) This order shall be implemented consistent with Executive Order 13175 of November 6, 2000 (Consultationand Coordination with Indian Tribal Governments) and my memorandum of November 5, 2009 (Tribal Consultation).
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -1778,6 +1778,178 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13725. Steps To Increase Competition and Better Inform Consumers and Workers To Support Continued Growth of the American Economy
+
+Ex. Ord. No. 13725, Apr. 15, 2016, 81 F.R. 23417, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to protect American consumers and workers and encourage competition in the U.S. economy, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Maintaining, encouraging, and supporting a fair, efficient, and competitive marketplace is a cornerstone of the American economy. Consumers and workers need both competitive markets and information to make informed choices.
+
+Certain business practices such as unlawful collusion, illegal bid rigging, price fixing, and wage setting, as well as anticompetitive exclusionary conduct and mergers stifle competition and erode the foundation ofAmerica's economic vitality. The immediate results of such conduct—higher prices and poorer service for customers, less innovation, fewer new businesses being launched, and reduced opportunities for workers—can impact Americans in every walk of life.
+
+Competitive markets also help advance national priorities, such as the delivery of affordable health care, energy independence, and improved access to fast and affordable broadband. Competitive markets also promote economic growth, which creates opportunity for American workers and encourages entrepreneurs to start innovative companies that create jobs.
+
+The Department of Justice (DOJ) and the Federal Trade Commission (FTC) have a proven record of detecting and stopping anticompetitive conduct and challenging mergers and acquisitions that threaten to consolidate markets and reduce competition.
+
+Promoting competitive markets and ensuring that consumers and workers have access to the information needed to make informed choices must be a shared priority across the Federal Government. Executive departments and agencies can contribute to these goals through, among other things, pro-competitive rulemaking and regulations, and by eliminating regulations that create barriers to or limit competition. Such Government-wide action is essential to ensuring that consumers, workers, startups, small businesses, and farms reap the full benefits of competitive markets.
+
+Sec. 2. <i>Agency Responsibilities</i>. (a) Executive departments and agencies with authorities that could be used to enhance competition (agencies) shall, where consistent with other laws, use those authorities to promote competition, arm consumers and workers with the information they need to make informed choices, and eliminate regulations that restrict competition without corresponding benefits to the American public.
+
+(b) Agencies shall identify specific actions that they can take in their areas of responsibility to build upon efforts to detect abuses such as price fixing, anticompetitive behavior in labor and other input markets, exclusionary conduct, and blocking access to critical resources that are needed for competitive entry. Behaviors that appear to violate our antitrust laws should be referred to antitrust enforcers at DOJ and the FTC. Such a referral shall not preclude further action by the referring agency against that behavior under that agency's relevant statutory authority.
+
+(c) Agencies shall also identify specific actions that they can take in their areas of responsibility to address undue burdens on competition. As permitted by law, agencies shall consult with other interested parties to identify ways that the agency can promote competition through pro-competitive rulemaking and regulations, by providing consumers and workers with information they need to make informed choices, and by eliminating regulations that restrict competition without corresponding benefits to the American public.
+
+(d) Not later than 30 days from the date of this order, agencies shall submit to the Director of the National Economic Council an initial list of (1) actions each agency can potentially take to promote more competitive markets; (2) any specific practices, such as blocking access to critical resources, that potentially restrict meaningful consumer or worker choice or unduly stifle new market entrants, along with any actions the agency can potentially take to address those practices; and (3) any relevant authorities and tools potentially available to enhance competition or make information more widely available for consumers and workers.
+
+(e) Not later than 60 days from the date of this order, agencies shall report to the President, through the Director of the National Economic Council, recommendations on agency-specific actions that eliminate barriers to competition, promote greater competition, and improve consumer access to information needed to make informed purchasing decisions. Such recommendations shall include a list of priority actions, including rulemakings, as well as timelines for completing those actions.
+
+(f) Subsequently, agencies shall report semi-annually to the President, through the Director of the National Economic Council, on additional actions that they plan to undertake to promote greater competition.
+
+(g) Sections 2(d), 2(e), and 2(f) of this order do not require reporting of information related to law enforcement policy and activities.
+
+Sec. 3. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Independent agencies are strongly encouraged to comply with the requirements of this order.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13748. Establishing a Community Solutions Council
+
+Ex. Ord. No. 13748, Nov. 16, 2016, 81 F.R. 83619, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Place is a strong determinant of opportunity and well-being. Research shows that the neighborhood in which a child grows up impacts his or her odds of going to college, enjoying good health, and obtaining a lifetime of economic opportunities. Even after 73 consecutive months of total job growth since 2009, communities of persistent poverty remain and for far too many, the odds are stacked against opportunity and achieving the American dream. In addition, between now and 2050, growing our economy, expected population growth, climate change, and demographic shifts will require major new investments in physical, social, and technological infrastructure.
+
+Specific challenges in communities—including crime, access to care, opportunities to pursue quality education, lack of housing options, unemployment, and deteriorating infrastructure—can be met by leveraging Federal assistance and resources. While the Federal Government provides rural, suburban, urban, and tribal communities with significant investments in aid annually, coordinating these investments, as appropriate, across agencies based on locally led visions can more effectively reach communities of greatest need to maximize impact. In recent years, the Federal Government has deepened its engagement with communities, recognizing the critical role of these partnerships in enabling Americans to live healthier and more prosperous lives. Since 2015, the Community Solutions Task Force, comprising executive departments, offices, and agencies (agencies) across the Federal Government, has served as the primary interagency coordinator of agency work to engage with communities to deliver improved outcomes. This order builds on recent work to facilitate inter-agency and community-level collaboration to meet the unique needs of communities in a way that reflects these communities' local assets, economies, geography, size, history, strengths, talent networks, and visions for the future.
+
+Sec. 2. <i>Principles</i>. Our effort to modernize the Federal Government's work with communities is rooted in the following principles:
+
+(a) A community-driven, locally led vision and long-term plan for clear outcomes should guide individual projects.
+
+(b) The Federal Government should coordinate its efforts at the Federal, regional, State, local, tribal, and community level, and with cross-sector partners, to offer a more seamless process for communities to access needed support and ensure equitable investments.
+
+(c) The Federal Government should help communities identify, develop, and share local solutions, rely on data to determine what does and does not work, and harness technology and modern collaboration and engagement methods to help share these solutions and help communities meet their local goals.
+
+Sec. 3. <i>Community Solutions Council</i>.
+
+(a) <i>Establishment</i>. There is hereby established a Council for Community Solutions (Council), led by two Co-Chairs. One Co-Chair will be an Assistant to the President or the Director of the Office of Management and Budget, as designated by the President. The second Co-Chair will be rotated every 4 years and designated by the President from among the heads of the Departments of Justice, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, and Education, and the Environmental Protection Agency (Agency Co-Chair).
+
+(b) <i>Membership</i>. The Council shall consist of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of the Treasury;
+
+(iii) the Secretary of Defense;
+
+(iv) the Attorney General;
+
+(v) the Secretary of the Interior;
+
+(vi) the Secretary of Agriculture;
+
+(vii) the Secretary of Commerce;
+
+(viii) the Secretary of Labor;
+
+(ix) the Secretary of Health and Human Services;
+
+(x) the Secretary of Housing and Urban Development;
+
+(xi) the Secretary of Transportation;
+
+(xii) the Secretary of Energy;
+
+(xiii) the Secretary of Education;
+
+(xiv) the Secretary of Veterans Affairs;
+
+(xv) the Secretary of Homeland Security;
+
+(xvi) the Administrator of the Environmental Protection Agency;
+
+(xvii) the Administrator of General Services;
+
+(xviii) the Administrator of the Small Business Administration;
+
+(xix) the Chief Executive Officer of the Corporation for National and Community Service;
+
+(xx) the Chairperson of the National Endowment for the Arts;
+
+(xxi) the Director of the Institute for Museum and Library Services;
+
+(xxii) the Federal Co-Chair of the Delta Regional Authority;
+
+(xxiii) the Federal Co-Chair of the Appalachian Regional Commission;
+
+(xxiv) the Director of the Office of Personnel Management;
+
+(xxv) the Director of the Office of Management and Budget;
+
+(xxvi) the Chair of the Council of Economic Advisers;
+
+(xxvii) the Assistant to the President for Intergovernmental Affairs and Public Engagement;
+
+(xxviii) the Assistant to the President and Cabinet Secretary;
+
+(xxix) the Assistant to the President for Economic Policy and Director of the National Economic Council;
+
+(xxx) the Chair of the Council on Environmental Quality;
+
+(xxxi) the Director of the Office of Science and Technology Policy;
+
+(xxxii) the Assistant to the President and Chief Technology Officer;
+
+(xxxiii) the Administrator of the United States Digital Service; and
+
+(xxxiv) other officials, as the Co-Chairs may designate or invite to participate.
+
+(c) <i>Administration</i>.
+
+(i) The President will designate one of the Co-Chairs to appoint or designate, as appropriate, an Executive Director, who shall coordinate the Council's activities. The department, agency, or component within the Executive Office of the President in which the Executive Director is appointed or designated, as appropriate, (funding entity) shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations as may be necessary for the performance of its functions.
+
+(ii) To the extent permitted by law, including the Economy Act, and within existing appropriations, participating agencies may detail staff to the funding entity to support the Council's coordination and implementation efforts.
+
+(iii) The Co-Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate.
+
+(iv) A member of the Council may designate a senior-level official who is part of the member's department, agency, or office to perform the Council functions of the member.
+
+Sec. 4. <i>Mission and Priorities of the Council</i>. (a) The Council shall foster collaboration across agencies, policy councils, and offices to coordinate actions, identify working solutions to share broadly, and develop and implement policy recommendations that put the community-driven, locally led vision at the center of policymaking. The Council shall:
+
+(i) Work across agencies to coordinate investments in initiatives and practices that align the work of the Federal Government to have the greatest impact on the lives of individuals and communities.
+
+(ii) Use evidence-based practices in policymaking, including identifying existing solutions, scaling up practices that are working, and designing solutions with regular input of the individuals and communities to be served.
+
+(iii) Invest in recruiting, training, and retaining talent to further the effective delivery of services to individuals and communities and empower them with best-practice community engagement options, open government transparency methods, equitable policy approaches, technical assistance and capacity building tools, and data-driven practice.
+
+(b) Consistent with the principles set forth in this order and in accordance with applicable law, including the Federal Advisory Committee Act, the Council should conduct outreach to representatives of nonprofit organizations, civil rights organizations, businesses, labor and professional organizations, start-up and entrepreneurial communities, State, local, and tribal government agencies, school districts, youth, elected officials, seniors, faith and other community-based organizations, philanthropies, technologists, other institutions of local importance, and other interested or affected persons with relevant expertise in the expansion and improvement of efforts to build local capacity, ensure equity, and address economic, social, environmental, and other issues in communities or regions.
+
+Sec. 5. <i>Executive Orders 13560 and 13602, and Building Upon Other Efforts</i>. This order supersedes Executive Order 13560 of December 14, 2010 (White House Council for Community Solutions), and Executive Order 13602 of March 15, 2012 (Establishing a White House Council on Strong Cities, Strong Communities), which are hereby revoked.
+
+This Council builds on existing efforts involving Federal working groups, task forces, memoranda of agreement, and initiatives, including the Community Solutions Task Force, the Federal Working Groups dedicated to supporting the needs and priorities of local leadership in Detroit, Baltimore, and Pine Ridge; the Interagency Working Group on Environmental Justice; the Partnership for Sustainable Communities; Local Foods, Local Places; Performance Partnership Pilots for Disconnected Youth; Empowerment Zones; StrikeForce; Partnerships for Opportunity and Workforce and Economic Revitalization; the Neighborhood Revitalization Initiative; Climate Action Champions; Better Communities Alliance; Investing in Manufacturing Communities Partnership; Promise Zones; and the 2016 Memorandum of Agreement on Interagency Technical Assistance. The Council shall also coordinate with existing Chief Officer Councils across the government with oversight responsibility for human capital, performance improvement, and financial assistance.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Regulatory Reform—Waiver of Penalties and Reduction of Reports
 
 Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
@@ -1872,7 +2044,7 @@ The Vice President and I have made reinventing the Federal Government a top prio
 
 The Federal Government's writing must be in plain language. By using plain language, we send a clear message about what the Government is doing, what it requires, and what services it offers. Plain language saves the Government and the private sector time, effort, and money.
 
-Plain language requirements vary from one document to another, depending on the intended audience. Plain language documents have logical organization, easy-to-read design features, and use:
+Plain language requirements vary from one document to another, depending on the intended audience.Plain language documents have logical organization, easy-to-read design features, and use:
 
 &emsp;• common, everyday words, except for necessary technical terms;
 
@@ -1934,7 +2106,7 @@ My Administration is committed to enhancing effectiveness and efficiency in Gove
 
 To that end, much progress has been made toward strengthening our democracy and improving how Government operates. In the regulatory area, several agencies, such as the Department of Labor and the Environmental Protection Agency, have begun to post online (at ogesdw.dol.gov and www.epa-echo.gov), and to make readily accessible to the public, information concerning their regulatory compliance and enforcement activities, such as information with respect to administrative inspections, examinations, reviews, warnings, citations, and revocations (but excluding law enforcement or otherwise sensitive information about ongoing enforcement actions).
 
-Greater disclosure of regulatory compliance information fosters fair and consistent enforcement of important regulatory obligations. Such disclosure is a critical step in encouraging the public to hold the Government and regulated entities accountable. Sound regulatory enforcement promotes the welfare of Americans in many ways, by increasing public safety, improving working conditions, and protecting the air we breathe and the water we drink. Consistent regulatory enforcement also levels the playing field among regulated entities, ensuring that those that fail to comply with the law do not have an unfair advantage over their law-abiding competitors. Greater agency disclosure of compliance and enforcement data will provide Americans with information they need to make informed decisions. Such disclosure can lead the Government to hold itself more accountable, encouraging agencies to identify and address enforcement gaps.
+Greater disclosure of regulatory compliance information fosters fair and consistent enforcement of important regulatory obligations. Such disclosure is a critical step in encouraging the public to hold the Government and regulated entities accountable. Sound regulatory enforcement promotes the welfare of Americansin many ways, by increasing public safety, improving working conditions, and protecting the air we breathe and the water we drink. Consistent regulatory enforcement also levels the playing field among regulated entities, ensuring that those that fail to comply with the law do not have an unfair advantage over their law-abiding competitors. Greater agency disclosure of compliance and enforcement data will provide Americans with information they need to make informed decisions. Such disclosure can lead the Government to hold itself more accountable, encouraging agencies to identify and address enforcement gaps.
 
 Accordingly, I direct the following:
 
@@ -2098,7 +2270,7 @@ The Federal Government can meaningfully expand opportunities for public-private 
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
-Section 1. <i>Policy</i>. It shall be the policy of the Federal Government for all executive departments and agencies (agencies) that provide grants, technical assistance, and other forms of support for nonfederal domestic infrastructure assets, or regulate the development of these infrastructure assets, to actively support nonfederal predevelopment activities with all available tools, including grants, technical assistance, and regulatory changes, to the extent permitted by law and consistent with agency mission. Agencies shall seek to make predevelopment funding and support available, as permitted by law and consistent with agency mission and where it is in the public interest and does not supplant existing public investment, to encourage opportunities for private sector investment. Agencies shallpay particular attention to predevelopment activities in sectors where State, local, and tribal governments have traditionally played a significant role, such as surface transportation, drinking water, sewage and storm water management systems, landside ports, and social infrastructure like schools and community facilities.
+Section 1. <i>Policy</i>. It shall be the policy of the Federal Government for all executive departments and agencies (agencies) that provide grants, technical assistance, and other forms of support for nonfederal domestic infrastructure assets, or regulate the development of these infrastructure assets, to actively support nonfederal predevelopment activities with all available tools, including grants, technical assistance, and regulatory changes, to the extent permitted by law and consistent with agency mission. Agencies shall seek to make predevelopment funding and support available, as permitted by law and consistent with agency mission and where it is in the public interest and does not supplant existing public investment, to encourage opportunities for private sector investment. Agencies shall pay particular attention to predevelopment activities in sectors where State, local, and tribal governments have traditionally played a significant role, such as surface transportation, drinking water, sewage and storm water management systems, landside ports, and social infrastructure like schools and community facilities.
 
 Sec. 2. <i>Definitions</i>. For the purposes of this memorandum:
 

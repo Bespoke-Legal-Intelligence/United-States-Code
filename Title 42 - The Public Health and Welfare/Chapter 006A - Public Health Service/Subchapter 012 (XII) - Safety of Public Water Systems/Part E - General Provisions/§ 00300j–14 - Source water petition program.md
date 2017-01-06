@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
-&emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishment of a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
+&emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishmentof a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
 
 &emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategies for the long-term protection of the source water of community water systems.
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) use funds set aside pursuant to section 300j–12(k)(1)(A)(iii) of this title by the State to carry out a program described in subparagraph (A), including assistance to voluntary local partnerships for the development and implementation of partnership recommendations for the protection of source water such as source water quality assessment, contingency plans, and demonstration projects for partners within a source water area delineated under section 300j–13(a) of this title; and
 
-&emsp;&emsp;&emsp;(ii) provide assistance in response to a petition submitted under this subsection using funds referred to in subsection (b)(2)(B) of this section.
+&emsp;&emsp;&emsp;(ii) provide assistance in response to a petition submitted under this subsection using funds referred to in subsection (b)(2)(B).
 
 #### (2) Objectives
 
@@ -70,15 +70,15 @@
 
 #### (1) In general
 
-&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a) of this section, the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
+&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a), the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
 
 #### (2) Approval
 
-&emsp;The State may approve a petition if the petition meets the requirements established under subsection (a) of this section. The notice of approval shall, at a minimum, include for informational purposes—
+&emsp;The State may approve a petition if the petition meets the requirements established under subsection (a). The notice of approval shall, at a minimum, include for informational purposes—
 
 &emsp;&emsp;(A) an identification of technical, financial, or other assistance that the State will provide to assist in addressing the drinking water contaminants that may be addressed by a petition based on—
 
-&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petition with respect to the other water quality needs identified by the State;
+&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petitionwith respect to the other water quality needs identified by the State;
 
 &emsp;&emsp;&emsp;(ii) any necessary coordination that the State will perform of the program established under this section with programs implemented or planned by other States under this section; and
 
@@ -106,7 +106,7 @@
 
 #### (3) Disapproval
 
-&emsp;If the State disapproves a petition submitted under subsection (a) of this section, the State shall notify the entity submitting the petition in writing of the reasons for disapproval. A petition may be resubmitted at any time if—
+&emsp;If the State disapproves a petition submitted under subsection (a), the State shall notify the entity submitting the petition in writing of the reasons for disapproval. A petition may be resubmitted at any time if—
 
 &emsp;&emsp;(A) new information becomes available;
 
@@ -122,7 +122,7 @@
 
 #### (2) Approval
 
-&emsp;In order to receive grant assistance under this subsection, a State shall submit to the Administrator for approval a plan for a source water quality protection partnership program that is consistent with the guidance published under subsection (d) of this section. The Administrator shall approve the plan if the plan is consistent with the guidance published under subsection (d) of this section.
+&emsp;In order to receive grant assistance under this subsection, a State shall submit to the Administrator for approval a plan for a source water quality protection partnership program that is consistent with the guidance published under subsection (d). The Administrator shall approve the plan if the plan is consistent with the guidance published under subsection (d).
 
 #### (d) Guidance
 
@@ -138,17 +138,17 @@
 
 &emsp;The guidance shall, at a minimum—
 
-&emsp;&emsp;(A) recommend procedures for the approval or disapproval by a State of a petition submitted under subsection (a) of this section;
+&emsp;&emsp;(A) recommend procedures for the approval or disapproval by a State of a petition submitted under subsection (a);
 
-&emsp;&emsp;(B) recommend procedures for the submission of petitions developed under subsection (a) of this section;
+&emsp;&emsp;(B) recommend procedures for the submission of petitions developed under subsection (a);
 
 &emsp;&emsp;(C) recommend criteria for the assessment of source water areas within a State; and
 
-&emsp;&emsp;(D) describe technical or financial assistance pursuant to Federal and State programs that is available to address the contamination of sources of drinking water and to develop and respond to petitions submitted under subsection (a) of this section.
+&emsp;&emsp;(D) describe technical or financial assistance pursuant to Federal and State programs that is available to address the contamination of sources of drinking water and to develop and respond to petitions submitted under subsection (a).
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 1997 through 2003. Each State with a plan for a program approved under subsection (b) of this section shall receive an equitable portion of the funds available for any fiscal year.
+There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 1997 through 2003. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
 
 #### (f) Statutory construction
 

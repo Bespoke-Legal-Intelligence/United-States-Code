@@ -18,7 +18,7 @@ The Assistant Secretary of State for Democracy, Human Rights, and Labor shall be
 
 This part does not apply to information exchange activities conducted by agencies of the United States Government under other authority for such purposes.
 
-(Pub. L. 87–195, pt. II, §573, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972;amended Pub. L. 99–83, title V, §501(b), (c), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–399, title V, §507, Aug. 27, 1986, 100 Stat. 873; Pub. L. 101–604, title II, §213(b), Nov. 16, 1990, 104 Stat. 3086; Pub. L. 103–236, title I, §162(e)(3), Apr. 30, 1994, 108 Stat. 405; Pub. L. 104–132, title III, §328(a), Apr. 24, 1996, 110 Stat. 1257; Pub. L. 104–164, title I, §121(b), July 21, 1996, 110 Stat. 1428.)
+(Pub. L. 87–195, pt. II, §573, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title V, §501(b), (c), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–399, title V, §507, Aug. 27, 1986, 100 Stat. 873; Pub. L. 101–604, title II, §213(b), Nov. 16, 1990, 104 Stat. 3086; Pub. L. 103–236, title I, §162(e)(3), Apr. 30, 1994, 108 Stat. 405; Pub. L. 104–132, title III, §328(a), Apr. 24, 1996, 110 Stat. 1257; Pub. L. 104–164, title I, §121(b), July 21, 1996, 110 Stat. 1428.)
 
 #### References in Text
 

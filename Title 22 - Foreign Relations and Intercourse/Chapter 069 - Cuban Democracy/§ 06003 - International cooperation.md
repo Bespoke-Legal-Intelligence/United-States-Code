@@ -2,7 +2,7 @@
 
 #### (a) Cuban trading partners
 
-The President should encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
+The President should encourage the governments of countries that conduct trade with Cubato restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
 
 #### (b) Sanctions against countries assisting Cuba
 

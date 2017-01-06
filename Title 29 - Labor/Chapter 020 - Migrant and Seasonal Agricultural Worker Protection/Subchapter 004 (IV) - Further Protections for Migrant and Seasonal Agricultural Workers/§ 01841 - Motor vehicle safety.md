@@ -8,7 +8,7 @@
 
 #### (b) Applicability of standards, licensing, and insurance requirements; promulgation of regulations for standards; criteria, etc., for regulations; amount of insurance required
 
-(1) When using, or causing to be used, any vehicle for providing transportation to which thissection applies, each agricultural employer, agricultural association, and farm labor contractor shall—
+(1) When using, or causing to be used, any vehicle for providing transportation to which this section applies, each agricultural employer, agricultural association, and farm labor contractor shall—
 
 &emsp;(A) ensure that such vehicle conforms to the standards prescribed by the Secretary under paragraph (2) of this subsection and other applicable Federal and State safety standards,
 
@@ -38,7 +38,7 @@
 
 #### (c) Adjustments of insurance requirements in the event of workers' compensation coverage
 
-If an agricultural employer, agricultural association, or farm labor contractor is the employer of any migrant or seasonal agricultural worker for purposes of a State workers' compensation law and such employer provides workers' compensation coverage for such worker in the case of bodily injury or death as provided by such State law, the following adjustments in the requirements of subsection (b)(1)(C) of this section relating to having an insurance policy or liability bond apply:
+If an agricultural employer, agricultural association, or farm labor contractor is the employer of any migrant or seasonal agricultural worker for purposes of a State workers' compensation law and such employer provides workers' compensation coverage for such worker in the case of bodily injury or death as provided by such State law, the following adjustments in the requirements of subsection (b)(1)(C) relating to having an insurance policy or liability bond apply:
 
 &emsp;(1) No insurance policy or liability bond shall be required of the employer, if such workers are transported only under circumstances for which there is coverage under such State law.
 
@@ -68,7 +68,7 @@ Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment,
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-Pub. L. 104–49, §5(c), Nov. 15, 1995, 109 Stat. 435, provided that: "The amendment made by subsection (a)\[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first."
+Pub. L. 104–49, §5(c), Nov. 15, 1995, 109 Stat. 435, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first."
 
 #### Regulations
 

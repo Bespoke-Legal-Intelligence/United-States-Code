@@ -42,9 +42,63 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136 added subsec. (c).
 
+#### Prohibition on Use of Funds for Certain Programs and Projects of the Department of Defense in Afghanistan That Cannot Be Safely Accessed by United States Government Personnel
+
+Pub. L. 114–328, div. A, title XII, §1216, Dec. 23, 2016, 130 Stat. 2480, provided that:
+
+"(a)
+
+Prohibition.—
+
+&emsp;"(1)
+
+In general.—Amounts available to the Department of Defense may not be obligated or expended for a construction or other infrastructure program or project of the Department in Afghanistan if military or civilian personnel of the United States Government or their representatives with authority to conduct oversight of such program or project cannot safely access such program or project.
+
+&emsp;"(2)
+
+Applicability.—Paragraph (1) shall apply only with respect to a program or project that is initiated on or after the date of the enactment of this Act \[Dec. 23, 2016\].
+
+"(b)
+
+Waiver.—
+
+&emsp;"(1)
+
+In general.—The prohibition in subsection (a) may be waived with respect to a program or project otherwise covered by that subsection if a determination described in paragraph (2) is made as follows:
+
+&emsp;&emsp;"(A) In the case of a program or project with an estimated lifecycle cost of less than $1,000,000, by the contracting officer assigned to oversee the program or project.
+
+&emsp;&emsp;"(B) In the case of a program or project with an estimated lifecycle cost of $1,000,000 or more, but less than $20,000,000, by the Commander of the Combined Security Transition Command-Afghanistan.
+
+&emsp;&emsp;"(C) In the case of a program or project with an estimated lifecycle cost of $20,000,000 or more, but less than $40,000,000, by the Commander of United States Forces-Afghanistan.
+
+&emsp;&emsp;"(D) In the case of a program or project with an estimated lifecycle cost of $40,000,000 or more, by the Secretary of Defense.
+
+&emsp;"(2)
+
+Determination.—A determination described in this paragraph with respect to a program or project is a determination of each of the following:
+
+&emsp;&emsp;"(A) That the program or project clearly contributes to United States national interests or strategic objectives.
+
+&emsp;&emsp;"(B) That the Government of Afghanistan has requested or expressed a need for the program or project.
+
+&emsp;&emsp;"(C) That the program or project has been coordinated with the Government of Afghanistan, and with any other implementing agencies or international donors.
+
+&emsp;&emsp;"(D) That security conditions permit effective implementation and oversight of the program or project.
+
+&emsp;&emsp;"(E) That the program or project includes safeguards to detect, deter, and mitigate corruption and waste, fraud, and abuse of funds.
+
+&emsp;&emsp;"(F) That adequate arrangements have been made for the sustainment of the program or project following its completion, including arrangements with respect to funding and technical capacity for sustainment.
+
+&emsp;&emsp;"(G) That meaningful metrics have been established to measure the progress and effectiveness of the program or project in meeting its objectives.
+
+&emsp;"(3)
+
+Notice on certain waivers.—In the event a waiver is issued under paragraph (1) for a program or project described in subparagraph (D) of that paragraph, the Secretary of Defense shall notify Congress of the waiver not later than 15 days after the issuance of the waiver."
+
 #### Funds Prohibited for Support of Department or Agency in Arrears in Making Payment to Department of Defense
 
-Pub. L. 113–235, div. C, title VIII, §8063, Dec. 16, 2014, 128 Stat. 2268, provided that: "During the current fiscal year and hereafter, none of the funds available to the Department of Defense may be used to provide support to another department or agency of the United States if such department or agency is more than 90 days inarrears in making payment to the Department of Defense for goods or services previously provided to such department or agency on a reimbursable basis: <i>Provided</i>, That this restriction shall not apply if the department is authorized by law to provide support to such department or agency on a nonreimbursable basis, and is providing the requested support pursuant to such authority: <i>Provided further</i>, That the Secretary of Defense may waive this restriction on a case-by-case basis by certifying in writing to the Committees on Appropriations of the House of Representatives and the Senate that it is in the national security interest to do so."
+Pub. L. 113–235, div. C, title VIII, §8063, Dec. 16, 2014, 128 Stat. 2268, provided that: "During the current fiscal year and hereafter, none of the funds available to the Department of Defense may be used to provide support to another department or agency of the United States if such department or agency is more than 90 days in arrears in making payment to the Department of Defense for goods or services previously provided to such department or agency on a reimbursable basis: <i>Provided</i>, That this restriction shall not apply if the department is authorized by law to provide support to such department or agency on a nonreimbursable basis, and is providing the requested support pursuant to such authority: <i>Provided further</i>, That the Secretary of Defense may waive this restriction on a case-by-case basis by certifying in writing to the Committees on Appropriations of the House of Representatives and the Senate that it is in the national security interest to do so."
 
 #### Public Financial Disclosure Required by Senior Mentor Advising Department of Defense
 
@@ -78,7 +132,7 @@ Pub. L. 110–417, \[div. A\], title X, §1056, Oct. 14, 2008, 122 Stat. 4610, p
 
 "(a)
 
-Prohibition.—No part of any funds authorized to be appropriated in this or any other Act shall be used by the Department of Defense for publicity or propaganda purposes within the United States not otherwise specifically authorized by law.
+Prohibition.—No part of any funds authorized to be appropriated in this or any other Act shall be usedby the Department of Defense for publicity or propaganda purposes within the United States not otherwise specifically authorized by law.
 
 "(b)
 
@@ -224,7 +278,7 @@ Pub. L. 105–262, title VIII, §8118, Oct. 17, 1998, 112 Stat. 2331, provided t
 
 #### Use of Funds for Modification of Retired Aircraft, Weapon, Ship or Other Item of Equipment
 
-Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, which provided that none of the funds provided inthe Act and hereafter would be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned planned to retire or otherwise dispose of within 5 years after completion of the modification, was repealed and restated in section 2244a of this title by Pub. L. 109–163, div. A, title III, §372(a), (c), 119 Stat. 3209, 3210.
+Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, which provided that none of the funds provided in the Act and hereafter would be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned planned to retire or otherwise dispose of within 5 years after completion of the modification, was repealed and restated in section 2244a of this title by Pub. L. 109–163, div. A, title III, §372(a), (c), 119 Stat. 3209, 3210.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -252,7 +306,7 @@ Pub. L. 103–335, title VIII, §8119, Sept. 30, 1994, 108 Stat. 2649, provided 
 
 #### Restrictions on Procurements From Outside of United States
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8109\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, provided for application of section 9005 of Public Law 102–396 (formerly set out below), prior to repeal by Pub. L. 107–107, div. A, title VIII, §832(b)(2), Dec. 28, 2001, 115 Stat. 1190.
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8109\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, providedfor application of section 9005 of Public Law 102–396 (formerly set out below), prior to repeal by Pub. L. 107–107, div. A, title VIII, §832(b)(2), Dec. 28, 2001, 115 Stat. 1190.
 
 Pub. L. 102–396, title IX, §9005, Oct. 6, 1992, 106 Stat. 1900, as amended by Pub. L. 103–139, title VIII, §8005, Nov. 11, 1993, 107 Stat. 1438; Pub. L. 103–355, title IV, §4401(e), Oct. 13, 1994, 108 Stat. 3348, provided for restrictions on procurements from outside of the United States, prior to repeal by Pub. L. 107–107, div. A, title VIII, §832(b)(1), Dec. 28, 2001, 115 Stat. 1190.
 
@@ -274,7 +328,7 @@ Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided th
 
 &emsp;"(3) with respect to any appropriation account made available to the Department of Defense for an indefinite period against which no obligations have been made for two consecutive years and upon a determination by the Secretary of Defense or the President that the purposes of such indefinite appropriation have been carried out,
 
-> any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currently applicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity,the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
+> any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currently applicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity, the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
 
 "(c) The provisions of this section shall apply to any appropriation account now or hereafter made unless the appropriation Act for that account specifically provides for an extension of the availability of such account and provides an exception to the five year period of availability for recording, adjusting and liquidating obligations properly chargeable to that account."
 

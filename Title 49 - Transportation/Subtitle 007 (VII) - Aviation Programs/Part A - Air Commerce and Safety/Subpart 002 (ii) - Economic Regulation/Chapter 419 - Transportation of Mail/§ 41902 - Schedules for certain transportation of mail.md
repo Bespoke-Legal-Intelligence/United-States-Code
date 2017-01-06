@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in section 41906 <sup>1</sup> of this title and section 5402 of title39, an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+Requirement.—Except as provided in section 41906 <sup>1</sup> of this title and section 5402 of title 39, an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 (b)
 
@@ -24,7 +24,7 @@ Designating and Additional Schedules.—The Postal Service may—
 
 (d)
 
-Changing Schedules.—A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days' notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
+Changing Schedules.—A schedule designated or required to be established for the transportation of mail under subsection (c) ofthis section may be changed only after 10 days' notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
 
 (Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 110–405, §2(b)(3), Oct. 13, 2008, 122 Stat. 4289.)
 
@@ -148,7 +148,7 @@ Subsecs. (e), (f). Pub. L. 110–405, §2(b)(3)(D), struck out subsecs. (e) and 
 
 "(e)
 
-Orders.—An order of the Postal Service under this section may become effective only after 10 days after the order is issued. A person adversely affected by the order may appeal the order to the Secretary before the end of the 10-day period under regulations the Secretary prescribes. If the public convenience and necessity require, the Secretary may amend, modify, suspend, or cancel the order. Pending a decision about the order, the Secretary may postpone the effective date of the order.
+Orders.—An order of the Postal Service under this section may become effective only after 10 days after the order is issued. A person adversely affected bythe order may appeal the order to the Secretary before the end of the 10-day period under regulations the Secretary prescribes. If the public convenience and necessity require, the Secretary may amend, modify, suspend, or cancel the order. Pending a decision about the order, the Secretary may postpone the effective date of the order.
 
 "(f)
 

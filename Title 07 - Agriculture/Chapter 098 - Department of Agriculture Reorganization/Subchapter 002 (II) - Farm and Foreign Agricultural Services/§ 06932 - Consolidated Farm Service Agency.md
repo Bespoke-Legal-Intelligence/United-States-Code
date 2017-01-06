@@ -36,7 +36,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (1) In general
 
-&emsp;Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Consolidated Farm Service Agency shall haveinitial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
+&emsp;Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Consolidated Farm Service Agency shall have initial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
 
 #### (2) Treatment of technical determination
 
@@ -46,7 +46,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (B) Economic hardship
 
-&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county or area committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
+&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county orarea committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
 
 #### (3) Reinstatement of program benefits
 

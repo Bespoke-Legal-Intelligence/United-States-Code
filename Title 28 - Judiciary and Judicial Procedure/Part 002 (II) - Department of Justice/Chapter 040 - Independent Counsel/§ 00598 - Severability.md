@@ -1,6 +1,6 @@
 ### §598. Severability
 
-If any provision of this chapter or the application thereof to any person or circumstance isheld invalid, the remainder of this chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
+If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1873; amended Pub. L. 97–409, §§2(a)(1)(A), 7, Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1306.)
 

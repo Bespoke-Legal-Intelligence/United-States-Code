@@ -10,7 +10,7 @@ Section was formerly classified to section 342 of Title 5 prior to the general r
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–313, title II, §201, Oct. 17, 2000, 114 Stat. 1262, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Immigration Services and Infrastructure Improvements Act of 2000'."
+Pub. L. 106–313, title II, §201, Oct. 17, 2000, 114 Stat. 1262, provided that: "This title \[enacting subchapter IIof this chapter\] may be cited as the 'Immigration Services and Infrastructure Improvements Act of 2000'."
 
 #### Transfer of Functions
 
@@ -26,7 +26,7 @@ Functions of the Commissioner of Immigration and Naturalization performed under 
 
 Functions of the Commissioner of Immigration and Naturalization relating to adjudications of immigrant visa petitions, adjudications of naturalization petitions, adjudications of asylum and refugee applications, adjudications performed at service centers, and all other adjudications performed by the Immigration and Naturalization Service, and all personnel, infrastructure, and funding provided to the Commissioner in support of such functions, were transferred to the Director of the Bureau of Citizenship and Immigration Services of the Department of Homeland Security by section 271(b) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
-Functions performed by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the functions of the Commissioner referred to in the two preceding paragraphs were transferred to the Under Secretary for Management of the Department of Homeland Security by section 341(b)(2) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
+Functions performed by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the functions of the Commissioner referred to in the two preceding paragraphs were transferred to the Under Secretary for Management of the Department of Homeland Security by former section 341(b)(2) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
 Functions under the immigration laws of the United States with respect to the care of unaccompanied alien children that were vested by statute in, or performed by, the Commissioner of Immigration and Naturalization (or any officer, employee, or component of the Immigration and Naturalization Service) were transferred to the Director of the Office of Refugee Resettlement of the Department of Health and Human Services by section 279(a) of Title 6 and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified.
 
@@ -52,7 +52,7 @@ Pub. L. 96–132, §22, Nov. 30, 1979, 93 Stat. 1050, provided that:
 
 > there is hereby established in the Immigration and Naturalization Service of the Department of Justice an Office of Special Investigator (hereinafter in this section referred to as 'the Office').
 
-"(b)(1) There shall be at the head of the Office a Special Investigator (hereinafter in this section referred toas 'the Special Investigator') who shall be appointed by the Attorney General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Special Investigator shall report to and be under the general supervision of the Commissioner, who shall not prevent or prohibit the Special Investigator from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation.
+"(b)(1) There shall be at the head of the Office a Special Investigator (hereinafter in this section referred to as 'the Special Investigator') who shall be appointed by the Attorney General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Special Investigator shall report to and be under the general supervision of the Commissioner, who shall not prevent or prohibit the Special Investigator from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation.
 
 "(2) The Special Investigator may be removed from office by the Attorney General. The Attorney General shall communicate the reasons for any such removal to both Houses of Congress.
 

@@ -80,7 +80,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Definitions
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: "In this title \[see Short Title of 1999 Amendment note set out under section 2551 of this title\]:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, providedthat: "In this title \[see Short Title of 1999 Amendment note set out under section 2551 of this title\]:
 
 &emsp;"(1)
 

@@ -42,11 +42,11 @@
 
 &emsp;&emsp;(A) any period during which the teacher candidate is enrolled in a noncredit or remedial course of study as described in paragraph (3) shall not be counted for the purpose of this paragraph; and
 
-&emsp;&emsp;(B) the total amount that a teacher candidate may receive under this subpart for undergraduate or post-baccalaureate study shall not exceed $16,000.
+&emsp;&emsp;(B) the total amount that a teacher candidate may receive under this subpart forundergraduate or post-baccalaureate study shall not exceed $16,000.
 
 #### (2) Graduate students
 
-&emsp;The period during which a graduate student may receive grants under this subpart shall bethe period required for the completion of a master's degree course of study pursued by the teacher candidate at the eligible institution at which the teacher candidate is in attendance, except that the total amount that a teacher candidate may receive under this subpart for graduate study shall not exceed $8,000.
+&emsp;The period during which a graduate student may receive grants under this subpart shall be the period required for the completion of a master's degree course of study pursued by the teacher candidate at the eligible institution at which the teacher candidate is in attendance, except that the total amount that a teacher candidate may receive under this subpart for graduate study shall not exceed $8,000.
 
 #### (3) Remedial course; study abroad
 

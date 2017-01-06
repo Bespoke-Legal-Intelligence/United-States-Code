@@ -1,6 +1,6 @@
 ### §2481. Plant variety protection
 
-(a) If it appears that a certificate of plant variety protection should be issued on an application, a written notice of allowance shall be given or mailed to the owner. The notice shallspecify the sum, constituting the issue fee, which shall be paid within one month thereafter.
+(a) If it appears that a certificate of plant variety protection should be issued on an application, a written notice of allowance shall be given or mailed to the owner. The notice shall specify the sum, constituting the issue fee, which shall be paid within one month thereafter.
 
 (b) Upon timely payment of this sum, and provided that deposit of seed has been made in accordance with section 2422(3) <sup>1</sup> of this title, the certificate of plant variety protection shall issue.
 

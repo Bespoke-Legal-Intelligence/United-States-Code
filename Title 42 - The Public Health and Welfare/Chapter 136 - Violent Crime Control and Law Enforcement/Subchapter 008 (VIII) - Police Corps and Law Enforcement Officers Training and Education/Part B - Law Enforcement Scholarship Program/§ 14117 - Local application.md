@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-A person who desires a scholarship or employment under this part shall submit an application to the State at such time, in such manner, and accompanied by such information as the State may reasonably require.
+A person who desires a scholarship or employment under this part shall submit an application to the State at such time, in such manner,and accompanied by such information as the State may reasonably require.
 
 #### (b) Contents
 
-An application under subsection (a) of this section shall describe—
+An application under subsection (a) shall describe—
 
 &emsp;(1) the academic courses for which a scholarship is sought; or
 
@@ -20,11 +20,11 @@ In awarding scholarships and providing student employment under this part, each 
 
 &emsp;(2) pursuing an undergraduate degree; and
 
-&emsp;(3) not receiving financial assistance under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\].
+&emsp;(3) not receiving financial assistance under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\].
 
 (Pub. L. 103–322, title XX, §200208, Sept. 13, 1994, 108 Stat. 2060.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (c)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

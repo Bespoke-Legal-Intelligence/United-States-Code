@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) applications for private education loans or private education loan volume;
 
-&emsp;&emsp;&emsp;&emsp;(II) applications or loan volume for any loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\]; or
+&emsp;&emsp;&emsp;&emsp;(II) applications or loan volume for any loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.); or
 
 &emsp;&emsp;&emsp;&emsp;(III) the purchase of a product or service of a specific private educational lender;
 
@@ -58,7 +58,7 @@ As used in this section—
 
 &emsp;&emsp;(A) means a loan provided by a private educational lender that—
 
-&emsp;&emsp;&emsp;(i) is not made, insured, or guaranteed under of <sup>1</sup> title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\]; and
+&emsp;&emsp;&emsp;(i) is not made, insured, or guaranteed under of <sup>1</sup> title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
 
@@ -122,7 +122,7 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ The Congress of the United States makes the following findings concerning the de
 
 (c) The processing and utilization of source, byproduct, and special nuclear material affect interstate and foreign commerce and must be regulated in the national interest.
 
-(d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in order to provide for the common defense and security and to protect the health and safety of the public.
+(d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in orderto provide for the common defense and security and to protect the health and safety of the public.
 
 (e) Source and special nuclear material, production facilities, and utilization facilities are affected with the public interest, and regulation by the United States of the production and utilization of atomic energy and of the facilities used in connection therewith is necessary in the national interest to assure the common defense and security and to protect the health and safety of the public.
 
@@ -24,7 +24,7 @@ The Congress of the United States makes the following findings concerning the de
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, asadded by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Prior Provisions
 

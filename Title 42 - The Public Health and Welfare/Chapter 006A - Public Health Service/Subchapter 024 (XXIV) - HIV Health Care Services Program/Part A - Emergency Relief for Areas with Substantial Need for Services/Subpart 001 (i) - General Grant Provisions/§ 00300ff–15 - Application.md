@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible to receive a grant under section 300ff–11 of this title, an eligible area shall prepare and submit to the Secretary an application, in accordance with subsection (c) of this section regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including assurances adequate to ensure—
+To be eligible to receive a grant under section 300ff–11 of this title, an eligible area shall prepare and submit to the Secretary an application, in accordance with subsection (c) regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including assurances adequate to ensure—
 
 &emsp;(1)(A) that funds received under a grant awarded under this subpart will be utilized to supplement not supplant State funds made available in the year for which the grant is awarded to provide HIV-related services as described in section 300ff–14(b)(1) of this title;
 
@@ -36,7 +36,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;&emsp;(C) a program of outreach will be provided to low-income individuals with HIV/AIDS to inform such individuals of such services;
 
-&emsp;(8) that the applicant has participated, or will agree to participate, in the statewide coordinated statement of need process where it has been initiated by the State public health agency responsible for administering grants under part B of this subchapter, and ensure that the services provided under the comprehensive plan are consistent with the statewide coordinated statement of need;
+&emsp;(8) that the applicant has participated, or will agree to participate, in the statewide coordinated statement of need process where it has been initiated by the State public health agency responsible for administering grants under part B, and ensure that the services provided under the comprehensive plan are consistent with the statewide coordinated statement of need;
 
 &emsp;(9) that the eligible area has procedures in place to ensure that services provided with funds received under this subpart meet the criteria specified in section 300ff–14(b)(1) of this title; and
 
@@ -44,7 +44,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 #### (b) Application
 
-An eligible area that desires to receive a grant under section 300ff–13(b) of this title shall prepare and submit to the Secretary an application, in accordance with subsection (c) of this section regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including the information required under such subsection and information concerning—
+An eligible area that desires to receive a grant under section 300ff–13(b) of this title shall prepare and submit to the Secretary an application, in accordance with subsection (c) regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including the information required under such subsection and information concerning—
 
 &emsp;(1) the number of individuals to be served within the eligible area with assistance provided under the grant, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title;
 
@@ -72,7 +72,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (1) Requirement
 
-&emsp;Except as provided in paragraph (2), to be eligible to receive a grant under section 300ff–11(a) of this title for a fiscal year, an application under subsection (a) of this section shall be submitted not later than 45 days after the date on which appropriations are made under section 300ff–77 of this title for the fiscal year.
+&emsp;Except as provided in paragraph (2), to be eligible to receive a grant under section 300ff–11(a) of this title for a fiscal year, an application under subsection (a) shall be submitted not later than 45 days after the date on which appropriations are made under section 300ff–77 of this title for the fiscal year.
 
 #### (2) Exception
 
@@ -80,7 +80,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (3) Distribution by Secretary
 
-&emsp;Not later than 45 days after receiving an application that meets the requirements of subsection (a) of this section from an eligible area, the Secretary shall distribute to such eligible area the amounts awarded under the grant for which the application was submitted.
+&emsp;Not later than 45 days after receiving an application that meets the requirements of subsection (a) from an eligible area, the Secretary shall distribute to such eligible area the amounts awarded under the grant for which the application was submitted.
 
 #### (4) Redistribution
 
@@ -166,13 +166,13 @@ Subsec. (d)(1). Pub. L. 106–345, §503(a)(1)(A), made technical amendment to r
 
 Subsec. (d)(4). Pub. L. 106–345, §503(a)(1)(B), inserted "section" before "300ff–11(a) of this title".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(b)(5)(A)(i), inserted ", in accordance with subsection (c) of this section regarding a single application and grant award," after "application" in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(b)(5)(A)(i), inserted ", in accordance with subsection (c) regarding a single application and grant award," after "application" in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 104–146, §3(b)(5)(A)(ii), substituted "preceding fiscal year" for "1-year period preceding the first fiscal year for which a grant is received by the eligible area".
 
 Subsec. (a)(6). Pub. L. 104–146, §3(b)(5)(A)(iii)–(v), added par. (6).
 
-Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted "Application" for "Additional application" in heading and substituted "application, in accordance with subsection (c) of this section regarding a single application and grant award," for "additional application" in introductory provisions.
+Subsec. (b). Pub. L. 104–146, §3(b)(5)(B), substituted "Application" for "Additional application" in heading and substituted "application, in accordance with subsection (c) regarding a single application and grant award," for "additional application" in introductory provisions.
 
 Subsec. (c). Pub. L. 104–146, §3(b)(5)(D), added subsec. (c). Former subsec. (c) redesignated (d).
 

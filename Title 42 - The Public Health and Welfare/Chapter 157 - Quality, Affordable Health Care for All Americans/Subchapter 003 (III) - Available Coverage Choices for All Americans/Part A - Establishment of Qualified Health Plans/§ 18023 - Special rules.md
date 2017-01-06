@@ -38,7 +38,7 @@
 
 &emsp;&emsp;If a qualified health plan provides coverage of services described in paragraph (1)(B)(i), the issuer of the plan shall not use any amount attributable to any of the following for purposes of paying for such services:
 
-&emsp;&emsp;&emsp;(i) The credit under section 36B of title 26 (and the amount (if any) of the advance payment of the credit under section 18082 of this title).
+&emsp;&emsp;&emsp;(i) The credit under section 36B of title 26 (and the amount (if any) of the advancepayment of the credit under section 18082 of this title).
 
 &emsp;&emsp;&emsp;(ii) Any cost-sharing reduction under section 18071 of this title (and the amount (if any) of the advance payment of the reduction under section 18082 of this title).
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;The issuer of a plan to which subparagraph (A) applies shall deposit—
 
-&emsp;&emsp;&emsp;&emsp;(I) all payments described in subparagraph (B)(i)(I) into a separate account that consists solely of such payments and that is used exclusively to pay forservices other than services described in paragraph (1)(B)(i); and
+&emsp;&emsp;&emsp;&emsp;(I) all payments described in subparagraph (B)(i)(I) into a separate account that consists solely of such payments and that is used exclusively to pay for services other than services described in paragraph (1)(B)(i); and
 
 &emsp;&emsp;&emsp;&emsp;(II) all payments described in subparagraph (B)(i)(II) into a separate account that consists solely of such payments and that is used exclusively to pay for services described in paragraph (1)(B)(i).
 
@@ -166,7 +166,7 @@ Sec. 2. <i>Strict Compliance with Prohibitions on Abortion Funding in Health Ins
 
 I hereby direct the Director of the OMB and the Secretary of HHS to develop, within 180 days of the date of this order, a model set of segregation guidelines for State health insurance commissioners to use when determining whether exchange plans are complying with the Act's segregation requirements, established in section 1303 of the Act, for enrollees receiving Federal financial assistance. The guidelines shall also offer technical information that States should follow to conduct independent regular audits of insurance companies that participate in the health insurance exchanges. In developing these model guidelines, the Director of the OMB and the Secretary of HHS shall consult with executive agencies and offices that have relevant expertise in accounting principles, including, but not limited to, the Department of the Treasury, and with the Government Accountability Office. Upon completion of those model guidelines, the Secretary of HHS should promptly initiate a rulemaking to issue regulations, which will have the force of law, to interpret the Act's segregation requirements, and shall provide guidance to State health insurance commissioners on how to comply with the model guidelines.
 
-Sec. 3. <i>Community Health Center Program</i>. The Act establishes a new Community Health Center (CHC) Fund within HHS, which provides additional Federal funds for the community health center program. Existing law prohibits these centers from using Federal funds to provide abortion services (except in cases of rape or incest, or when the life of the woman would be endangered), as a result of both the Hyde Amendment and longstanding regulations containing the Hyde language. Under the Act, the Hyde language shall apply to the authorization and appropriations of funds for Community Health Centers under section 10503 and all other relevant provisions. I hereby direct the Secretary of HHS to ensure that program administrators and recipients of Federal funds are aware of and comply with the limitations on abortion services imposed on CHCs by existing law. Such actions should include, but are not limited to, updating Grant Policy Statements that accompany CHC grants and issuing new interpretive rules.
+Sec. 3. <i>Community Health Center Program</i>. The Act establishes a new Community Health Center (CHC) Fund within HHS, which provides additional Federal funds for the community health center program. Existing law prohibits these centers from using Federal funds to provide abortion services (except in cases of rape or incest, or when the life of the woman would be endangered), as a result of both the Hyde Amendment and longstanding regulations containing the Hyde language. Under the Act, the Hyde language shall apply to the authorization and appropriations of funds for Community Health Centers under section 10503 and all other relevant provisions. I hereby direct the Secretary of HHS to ensure that program administrators and recipients of Federal funds are aware of and comply with the limitations on abortion services imposed on CHCs by existing law.Such actions should include, but are not limited to, updating Grant Policy Statements that accompany CHC grants and issuing new interpretive rules.
 
 Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect: (i) authority granted by law or Presidential directive to an agency, or the head thereof; or (ii) functions of the Director of the OMB relating to budgetary, administrative, or legislative proposals.
 

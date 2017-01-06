@@ -84,7 +84,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part G of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Executive Order No. 13607, referred to in subsec. (d)(1), is set out as a note under section 3301 of this title.
 
@@ -132,5 +132,5 @@ Commercially available off-the-shelf.—The term 'commercially available off-the
 
 &emsp;"(3)
 
-Postsecondary education and training opportunities.—The term 'postsecondary educationand training opportunities' means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces."
+Postsecondary education and training opportunities.—The term 'postsecondary education and training opportunities' means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces."
 

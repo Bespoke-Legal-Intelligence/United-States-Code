@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) through the holder of the loan, to assume the obligation to repay a qualified loan amount for a loan made, insured, or guaranteed under this part (other than an excepted PLUS loan or an excepted consolidation loan (as such terms are defined in section 1098e(a) of this title)); and
 
-&emsp;&emsp;(B) to cancel a qualified loan amount for a loan made under part C of this subchapter (other than an excepted PLUS loan or an excepted consolidation loan).
+&emsp;&emsp;(B) to cancel a qualified loan amount for a loan made under part D of this subchapter (other than an excepted PLUS loan or an excepted consolidation loan).
 
 #### (3) Regulations
 
@@ -114,7 +114,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;(B) emergency management (including as an emergency medical technician);
 
-&emsp;&emsp;(C) public health (including full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics); or
+&emsp;&emsp;(C) public health (including full-time professionals engaged in health care practitioner occupations and health care supportoccupations, as such terms are defined by the Bureau of Labor Statistics); or
 
 &emsp;&emsp;(D) public interest legal services (including prosecution, public defense, or legal advocacy in low-income communities at a nonprofit organization).
 
@@ -318,7 +318,7 @@ In this section:
 
 &emsp;The term "physical therapist" means an individual who—
 
-&emsp;&emsp;(A) has received, at a minimum, a graduate degree in physical therapy from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
+&emsp;&emsp;(A) has received, at a minimum, a graduate degree in physical therapy from an institution of higher education accredited byan agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
 &emsp;&emsp;(B)(i) provides physical therapy services under section 1395x(p) of title 42; or
 
@@ -340,7 +340,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "HighlyQualified" in Other Laws note under section 1070g–2 of this title.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 

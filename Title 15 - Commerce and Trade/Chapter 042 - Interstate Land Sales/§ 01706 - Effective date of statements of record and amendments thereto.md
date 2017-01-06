@@ -34,3 +34,7 @@ Any notice required under this section shall be sent to or served on the develop
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
+#### Effective Date
+
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
+

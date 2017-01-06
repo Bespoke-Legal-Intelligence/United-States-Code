@@ -17,7 +17,7 @@
 
 <b>2013</b>—Pub. L. 112–239, div. A, title XVI, §1603(a)(2), Jan. 2, 2013, 126 Stat. 2063, substituted "National security strategy for national technology and industrial base" for "National security objectives concerning national technology and industrial base" in item 2501.
 
-<b>2011</b>—Pub. L. 111–383, div. A, title VIII, §896(b)(2), Jan. 7, 2011, 124 Stat. 4316, which directed amendment of table of sections at the beginning of this chapter by adding item 2508 at the end, was executed by addingitem 2508 at the end of the table of sections at the beginning of this subchapter to reflect the probable intent of Congress.
+<b>2011</b>—Pub. L. 111–383, div. A, title VIII, §896(b)(2), Jan. 7, 2011, 124 Stat. 4316, which directed amendment of table of sections at the beginning of this chapter by adding item 2508 at the end, was executed by adding item 2508 at the end of the table of sections at the beginning of this subchapter to reflect the probable intent of Congress.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title VIII, §829(g), Sept. 23, 1996, 110 Stat. 2614, added item 2504 and substituted "Department of Defense technology and industrial base policy guidance" for "National technology and industrial base: periodic defense capability plan" in item 2506.
 

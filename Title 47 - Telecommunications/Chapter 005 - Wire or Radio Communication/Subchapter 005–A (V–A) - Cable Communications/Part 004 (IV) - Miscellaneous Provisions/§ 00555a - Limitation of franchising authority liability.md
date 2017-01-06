@@ -2,11 +2,11 @@
 
 #### (a) Suits for damages prohibited
 
-In any court proceeding pending on or initiated after October 5, 1992, involving any claim against a franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity, arising from the regulation of cable service or from a decision of approval or disapproval with respect to a grant, renewal, transfer, or amendment of a franchise, any relief, to the extent such relief is required by any other provision of Federal, State, or local law, shall be limited to injunctive relief and declaratory relief.
+In any court proceeding pending on or initiated after October 5, 1992, involving any claim against a franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity, arising from the regulation of cable service or from a decision of approval or disapproval withrespect to a grant, renewal, transfer, or amendment of a franchise, any relief, to the extent such relief is required by any other provision of Federal, State, or local law, shall be limited to injunctive relief and declaratory relief.
 
 #### (b) Exception for completed cases
 
-The limitation contained in subsection (a) of this section shall not apply to actions that, prior to such violation, have been determined by a final order of a court of binding jurisdiction, no longer subject to appeal, to be in violation of a cable operator's rights.
+The limitation contained in subsection (a) shall not apply to actions that, prior to such violation, have been determined by a final order of a court of binding jurisdiction, no longer subject to appeal, to be in violation of a cable operator's rights.
 
 #### (c) Discrimination claims permitted
 

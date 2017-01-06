@@ -1,0 +1,6 @@
+### §1742. Omitted
+
+#### Codification
+
+Section, Pub. L. 97–399, §3, Dec. 31, 1982, 96 Stat. 2012, which set out definitions for this part, was omitted from the Code as being of special and not general application.
+

@@ -4,7 +4,7 @@ The President of the United States is authorized, upon the recommendation of the
 
 Sections 5 and 6, township 3 north, range 75 west.
 
-All of section 3 except the northeast quarter northeast quarter; all of section 4; north half, north half southeast quarter, southwest quarter southeast quarter section 5; north half, northwest quarter southwest quarter section 9; north half, northeast quarter southwest quarter, southeast quarter section 10; northeast quarter, north half southeast quarter section 15, in township 4 north, range 73 west.
+All of section 3 except the northeast quarter northeast quarter; all of section 4; north half,north half southeast quarter, southwest quarter southeast quarter section 5; north half, northwest quarter southwest quarter section 9; north half, northeast quarter southwest quarter, southeast quarter section 10; northeast quarter, north half southeast quarter section 15, in township 4 north, range 73 west.
 
 North half, southwest quarter, northwest quarter southeast quarter section 17; south half southwest quarter, southwest quarter southeast quarter section 20; south half northeast quarter, southeast quarter northwest quarter, south half section 28; all of section 29 except northeast quarter northeast quarter; east half section 32; all of section 33; southwest quarter northeast quarter, northwest quarter northwest quarter, south half northwest quarter, southwest quarter, west half southeast quarter, southeast quarter southeast quarter section 34, in township 5 north, range 73 west.
 

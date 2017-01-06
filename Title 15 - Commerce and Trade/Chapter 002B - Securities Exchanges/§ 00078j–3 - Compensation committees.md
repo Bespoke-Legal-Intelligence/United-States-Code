@@ -108,7 +108,7 @@ Each issuer shall provide for appropriate funding, as determined by the compensa
 
 #### (2) Opportunity to cure defects
 
-&emsp;The rules of the Commission under paragraph (1) shall provide for appropriate procedures for an issuer to have a reasonable opportunity to cure any defects that would be the basis for the prohibition under paragraph (1), before the imposition of such prohibition.
+&emsp;The rules of the Commission under paragraph (1) shall provide for appropriate procedures for an issuer to have a reasonable opportunity to cure any defects that would be thebasis for the prohibition under paragraph (1), before the imposition of such prohibition.
 
 #### (3) Exemption authority
 

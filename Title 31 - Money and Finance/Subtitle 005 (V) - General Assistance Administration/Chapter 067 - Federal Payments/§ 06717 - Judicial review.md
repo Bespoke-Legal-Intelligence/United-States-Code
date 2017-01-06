@@ -20,5 +20,5 @@ Review Only by Supreme Court.—A judgment of a court under this section may be 
 
 #### Prior Provisions
 
-A prior section 6717, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1025; Pub. L. 98–185, §§7, 9(h), Nov. 30, 1983, 97 Stat.1310, 1312, related to discrimination proceedings, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+A prior section 6717, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1025; Pub. L. 98–185, §§7, 9(h), Nov. 30, 1983, 97 Stat. 1310, 1312, related to discrimination proceedings, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 

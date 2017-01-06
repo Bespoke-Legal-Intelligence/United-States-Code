@@ -82,7 +82,7 @@ This Act, referred to in subsec. (f), is Pub. L. 102–245, Feb. 14, 1992, 106 S
 
 #### Codification
 
-Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of theStevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
+Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
 #### Termination of Reporting Requirements
 

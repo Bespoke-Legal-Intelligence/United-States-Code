@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated the following sums, to remain ava
 
 &emsp;(1) $60,000,000 for the fiscal year ending June 30, 1973; and
 
-&emsp;(2) $75,000,000 for the fiscal year ending June 30, 1974, and the fiscal year ending June 30,1975, $100,000,000 per fiscal year for the fiscal years 1977, 1978, 1979, and 1980, $75,000,000 per fiscal year for the fiscal years 1981 and 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990;
+&emsp;(2) $75,000,000 for the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, $100,000,000 per fiscal year for the fiscal years 1977, 1978, 1979, and 1980, $75,000,000 per fiscal year for the fiscal years 1981 and 1982, such sums as may be necessary for fiscal years1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990;
 
 > for grants to States and to interstate agencies to assist them in administering programs for the prevention, reduction, and elimination of pollution, including enforcement directly or through appropriate State law enforcement officers or agencies.
 
@@ -18,7 +18,7 @@ From the sums appropriated in any fiscal year, the Administrator shall make allo
 
 The Administrator is authorized to pay to each State and interstate agency each fiscal year either—
 
-&emsp;(1) the allotment of such State or agency for such fiscal year under subsection (b) of this section, or
+&emsp;(1) the allotment of such State or agency for such fiscal year under subsection (b), or
 
 &emsp;(2) the reasonable costs as determined by the Administrator of developing and carrying out a pollution program by such State or agency during such fiscal year,
 
@@ -52,7 +52,7 @@ Grants shall be made under this section on condition that—
 
 #### (g) Reallotment of unpaid allotments
 
-Any sums allotted under subsection (b) of this section in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
+Any sums allotted under subsection (b) in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
 
 (June 30, 1948, ch. 758, title I, §106, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 827; amended Pub. L. 93–592, §3, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–273, §3(20), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–217, §4(c), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, §1(b), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(b), Feb. 4, 1987, 101 Stat. 9.)
 

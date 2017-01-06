@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) an amount determined by the agency head, not to exceed $25,000;
 
-&emsp;(4) may be made only in the case of an employee who voluntarily separates (whether by retirement or resignation) under this subchapter;
+&emsp;(4) may be made only in the case of an employee who voluntarily separates (whether byretirement or resignation) under this subchapter;
 
 &emsp;(5) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit;
 
@@ -35,6 +35,10 @@
 &emsp;(7) shall be paid from appropriations or funds available for the payment of the basic pay of the employee.
 
 (Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2293.)
+
+#### Effective Date
+
+Section effective 60 days after Nov. 25, 2002, see section 1313(a)(4) of Pub. L. 107–296, set out as a note under section 3521 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

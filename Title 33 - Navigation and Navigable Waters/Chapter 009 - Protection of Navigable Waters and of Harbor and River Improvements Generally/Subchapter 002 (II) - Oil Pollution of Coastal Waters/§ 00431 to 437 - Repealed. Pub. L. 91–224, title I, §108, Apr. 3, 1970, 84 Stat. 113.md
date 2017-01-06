@@ -8,7 +8,7 @@ Section 433, acts June 7, 1924, ch. 316, §3, 43 Stat. 605; Nov. 3, 1966, Pub. L
 
 Section 434, acts June 7, 1924, ch. 316, §4, 43 Stat. 605; Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1253, related to penalties for violation of oil discharge prohibition and liability of vessel.
 
-Section 435, act June 7, 1924, ch. 316, §5, 43 Stat. 605; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; act Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1254, related to revocation or suspension of licenses of officers of offending vessels.
+Section 435, act June 7, 1924, ch. 316, §5, 43 Stat. 605; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; act Nov. 3, 1966, Pub. L. 89–753,title II, §211(a), 80 Stat. 1254, related to revocation or suspension of licenses of officers of offending vessels.
 
 Section 436, acts June 7, 1924, ch. 316, §7, 43 Stat. 605; Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1254, related to authorization of use of certain personnel in enforcement of this subchapter and arrest of offenders.
 

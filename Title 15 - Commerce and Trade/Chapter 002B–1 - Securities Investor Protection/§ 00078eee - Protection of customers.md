@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) is the subject of a proceeding pending in any court or before any agency of the United States or any State in which a receiver, trustee, or liquidator for such debtor has been appointed;
 
-&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78a et seq.\] or rules of the Commission or any self-regulatory organization with respect to financial responsibility or hypothecation of customers' securities; or
+&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78a et seq.\] or rules of the Commission or any self-regulatory organization with respect tofinancial responsibility or hypothecation of customers' securities; or
 
 &emsp;&emsp;(D) is unable to make such computations as may be necessary to establish compliance with such financial responsibility or hypothecation rules.
 
@@ -82,7 +82,7 @@
 
 #### (3) Appointment of trustee and attorney
 
-&emsp;If the court issues a protective decree under paragraph (1), such court shall forthwith appoint, as trustee for the liquidation of the business of the debtor and as attorney for the trustee, such persons as SIPC, in its sole discretion, specifies. The persons appointed as trustee and as attorney for the trustee may be associated with the same firm. SIPC may, in its sole discretion, specify itself or one of its employees as trustee in any case in which SIPC has determined that the liabilities of the debtor to unsecured general creditors and to subordinated lenders appear to aggregate less than $750,000 and that there appear to be fewer than five hundred customers of such debtor. No person may be appointed to serve as trustee or attorney for the trustee if such person is not disinterested within the meaning of paragraph (6), except that for any specified purpose other than to represent a trustee in conducting a liquidation proceeding, the trustee may, with the approval of SIPC and the court, employ an attorney who is not disinterested. A trustee appointed under this paragraph shall qualify by filing a bond in the manner prescribed by section 322 of title 11, except that neither SIPC nor any employee of SIPC shall be required to file a bond when appointed as trustee.
+&emsp;If the court issues a protective decree under paragraph (1), such court shall forthwith appoint, as trustee for the liquidation of the business of the debtor and as attorney for the trustee, such persons as SIPC, in its sole discretion, specifies. The persons appointed as trustee and as attorney for the trustee may be associated with the same firm. SIPC may, in its sole discretion, specify itself or one of its employees as trustee in any case in which SIPC has determined that the liabilities of the debtor to unsecured general creditors and to subordinated lenders appear to aggregate less than $750,000 and that there appear to be fewer than five hundred customers of such debtor. No person may be appointed to serve as trustee or attorney for the trustee if such person is not disinterested within the meaning of paragraph (6), except that for any specified purpose other than to represent a trustee in conducting a liquidation proceeding, the trustee may,with the approval of SIPC and the court, employ an attorney who is not disinterested. A trustee appointed under this paragraph shall qualify by filing a bond in the manner prescribed by section 322 of title 11, except that neither SIPC nor any employee of SIPC shall be required to file a bond when appointed as trustee.
 
 #### (4) Removal to bankruptcy court
 
@@ -128,7 +128,7 @@
 
 #### (B) Hearing
 
-&emsp;&emsp;The court shall fix a time for a hearing on disinterestedness, to be held promptly after the appointment of a trustee. Notice of such hearing shall be mailed at least ten days prior thereto to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor, and to the creditors and stockholders of the debtor, to SIPC, and to such other persons as the court may designate. The court may, in its discretion, also require that notice be given by publication in such newspaper or newspapers of general circulation as it may designate. At such hearing, at any adjournment thereof, or upon application, the court shall hear objections to the retention in office of a trustee or attorney for a trustee on the grounds that such person is not disinterested.
+&emsp;&emsp;The court shall fix a time for a hearing on disinterestedness, to be held promptly after the appointment of a trustee. Notice of such hearing shall be mailed at least ten days prior thereto to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor, and to the creditors and stockholders of the debtor, to SIPC, and to such other persons as the court may designate. The court may, inits discretion, also require that notice be given by publication in such newspaper or newspapers of general circulation as it may designate. At such hearing, at any adjournment thereof, or upon application, the court shall hear objections to the retention in office of a trustee or attorney for a trustee on the grounds that such person is not disinterested.
 
 #### (c) SEC participation in proceedings
 
@@ -164,7 +164,7 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted "section 101 of title 11" for "the Bankruptcy Act".
 
-Subsec. (b)(1)(B) to (E). Pub. L. 95–598, §308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D),respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
+Subsec. (b)(1)(B) to (E). Pub. L. 95–598, §308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 95–598, §308(b), substituted "the United States having jurisdiction over cases under title 11" for "bankruptcy by the Bankruptcy Act".
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization for issuance; use of proceeds; legislative initiative and binding referendum vote
 
-In addition to the authority conferred by section 1574(b) of this title, the legislature of the government of the Virgin Islands is authorized to cause to be issued bonds or other obligations of such government in anticipation of revenues to be received under section 7652(b)(3) of title 26. The proceeds of such bonds or other obligations may be used for any purpose authorized by an act of the legislature. The legislature of the government of the Virgin Islands may initiate, by majority vote of the members, a binding referendum vote to approve or disapprove the amount of any such bond or other obligation and/or any purpose for which such bond or other obligation is authorized.
+In addition to the authority conferred by section 1574(b) of this title, the legislature of the government of the Virgin Islands is authorized to cause to be issued bonds or other obligations of such government in anticipation of revenuesto be received under section 7652(b)(3) of title 26. The proceeds of such bonds or other obligations may be used for any purpose authorized by an act of the legislature. The legislature of the government of the Virgin Islands may initiate, by majority vote of the members, a binding referendum vote to approve or disapprove the amount of any such bond or other obligation and/or any purpose for which such bond or other obligation is authorized.
 
 #### (b) Federal guarantee
 
@@ -32,5 +32,5 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 #### Authorization of Appropriations
 
-Pub. L. 94–392, §6, Aug. 19, 1976, 90 Stat. 1195, provided that: "There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this section and sections1574b to 1574d of this title and amending section 1397 of this title\]."
+Pub. L. 94–392, §6, Aug. 19, 1976, 90 Stat. 1195, provided that: "There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this section and sections 1574b to 1574d of this title and amending section 1397 of this title\]."
 

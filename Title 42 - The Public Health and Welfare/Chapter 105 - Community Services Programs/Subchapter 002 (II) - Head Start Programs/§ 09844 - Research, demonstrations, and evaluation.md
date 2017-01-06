@@ -104,7 +104,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (B) Travel expenses
 
-&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employeesof agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
+&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
 
 #### (2) General authority
 
@@ -242,7 +242,7 @@ For purposes of conducting the study described in subsection (h), activities des
 
 &emsp;&emsp;&emsp;(ii) validity and reliability for all purposes for which assessments under this subchapter are designed and used;
 
-&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for childrenassessed, including children who are limited English proficient; and
+&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for children assessed, including children who are limited English proficient; and
 
 &emsp;&emsp;&emsp;(iv) that the results can be used to improve the quality of, accountability of, and training and technical assistance in, Head Start programs.
 
@@ -292,7 +292,7 @@ The Secretary shall—
 
 &emsp;(5) through regulation, ensure the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out Indian Head Start programs, and by State Directors of Head Start Collaboration, by the Indian Head Start Collaboration Project Director and by other appropriate entities pursuant to this subsection (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20); and
 
-&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this subsection.
+&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personallyidentifiable information on individuals involved in studies or other collections of data under this subsection.
 
 #### (l) Migrant and seasonal Head Start program study
 
@@ -342,7 +342,7 @@ The Secretary shall—
 
 &emsp;&emsp;(D) an evaluation of procedures for Head Start agencies and the Secretary to coordinate with appropriate Federal, State, and local emergency management agencies in the event of a large scale emergency and recommendations to improve such procedures.
 
-(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244, title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
+(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244,title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
 
 #### References in Text
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Study of Full-Day and Full-Year Head Start Programs
 
-Pub. L. 103–252, title I, §126, May 18, 1994, 108 Stat. 650, directed Secretary of Health and Human Services to conduct a study of extent to which Head Start programs address the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children and to submit a report to Congress not later than Jan. 31, 1997.
+Pub. L. 103–252, title I, §126, May 18, 1994, 108 Stat. 650, directed Secretary of Health and Human Services toconduct a study of extent to which Head Start programs address the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children and to submit a report to Congress not later than Jan. 31, 1997.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "services or".</i>
 

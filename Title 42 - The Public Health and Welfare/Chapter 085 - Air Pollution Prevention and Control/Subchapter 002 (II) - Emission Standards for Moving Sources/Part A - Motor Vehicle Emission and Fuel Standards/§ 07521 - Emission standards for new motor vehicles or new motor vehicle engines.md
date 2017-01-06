@@ -4,13 +4,13 @@
 
 Except as otherwise provided in subsection (b) of this section—
 
-(1) The Administrator shall by regulation prescribe (and from time to time revise) in accordance with the provisions of this section, standards applicable to the emission of any air pollutant from any class or classes of new motor vehicles or new motor vehicle engines, which in his judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare. Such standards shall be applicable to such vehicles and engines for their useful life (as determined under subsection (d) of this section, relating to useful life of vehicles for purposes of certification), whether such vehicles and engines are designed as complete systems or incorporate devices to prevent or control such pollution.
+(1) The Administrator shall by regulation prescribe (and from time to time revise) in accordance with the provisions of this section, standards applicable to the emission of any air pollutant from any class or classes of new motor vehicles or new motor vehicle engines, which in his judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare. Such standards shall be applicable to such vehicles and engines for their useful life (as determined under subsection (d) of this section, relating to useful lifeof vehicles for purposes of certification), whether such vehicles and engines are designed as complete systems or incorporate devices to prevent or control such pollution.
 
 (2) Any regulation prescribed under paragraph (1) of this subsection (and any revision thereof) shall take effect after such period as the Administrator finds necessary to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
 
 (3)(A)
 
-In general.—(i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbon monoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which suchstandards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
+In general.—(i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbon monoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which such standards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
 
 (ii) In establishing classes or categories of vehicles or engines for purposes of regulations under this paragraph, the Administrator may base such classes or categories on gross vehicle weight, horsepower, type of fuel used, or other appropriate factors.
 
@@ -40,7 +40,7 @@ Motorcycles.—For purposes of this paragraph, motorcycles and motorcycle engine
 
 (B) Regulations prescribing standards under subparagraph (A) shall not become effective until the introduction of the model year for which it would be feasible to implement such standards, taking into consideration the restraints of an adequate leadtime for design and production.
 
-(C) Nothing in subparagraph (A) shall (i) prevent the Administrator from specifying different nozzle and fill neck sizes for gasoline with additives and gasoline without additives or (ii) permit the Administrator to require a specific location, configuration, modeling, or styling of themotor vehicle body with respect to the fuel tank fill neck or fill nozzle clearance envelope.
+(C) Nothing in subparagraph (A) shall (i) prevent the Administrator from specifying different nozzle and fill neck sizes for gasoline with additives and gasoline without additives or (ii) permit the Administrator to require a specific location, configuration, modeling, or styling of the motor vehicle body with respect to the fuel tank fill neck or fill nozzle clearance envelope.
 
 (D) For the purpose of this paragraph, the term "fill pipe" shall include the fuel tank fill pipe, fill neck, fill inlet, and closure.
 
@@ -122,7 +122,7 @@ The Administrator shall prescribe regulations under which the useful life of veh
 
 &emsp;(1) in the case of light duty vehicles and light duty vehicle engines and light-duty trucks up to 3,750 lbs. LVW and up to 6,000 lbs. GVWR, be a period of use of five years or fifty thousand miles (or the equivalent), whichever first occurs, except that in the case of any requirement of this section which first becomes applicable after November 15, 1990, where the useful life period is not otherwise specified for such vehicles and engines, the period shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs, with testing for purposes of in-use compliance under section 7541 of this title up to (but not beyond) 7 years or 75,000 miles (or the equivalent), whichever first occurs;
 
-&emsp;(2) in the case of any other motor vehicle or motor vehicle engine (other than motorcycles or motorcycle engines), be a period of use set forth in paragraph (1) unless the Administrator determines that a period of use ofgreater duration or mileage is appropriate; and
+&emsp;(2) in the case of any other motor vehicle or motor vehicle engine (other than motorcycles or motorcycle engines), be a period of use set forth in paragraph (1) unless the Administrator determines that a period of use of greater duration or mileage is appropriate; and
 
 &emsp;(3) in the case of any motorcycle or motorcycle engine, be a period of use the Administrator shall determine.
 
@@ -384,7 +384,7 @@ CO
 
 \*Emission levels are expressed in grams per mile (GPM). For vehicles and engines subject to this subsection for purposes of subsection (d) of this section and any reference thereto, the useful life of such vehicles and engines shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs.
 
-> Such study shall also consider other standards and useful life periods which are more stringentor less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h) of this section).
+> Such study shall also consider other standards and useful life periods which are more stringent or less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h) of this section).
 
 (2)(A) As part of the study under paragraph (1), the Administrator shall examine the need for further reductions in emissions in order to attain or maintain the national ambient air quality standards, taking into consideration the waiver provisions of section 7543(b) of this title. As part of such study, the Administrator shall also examine—
 
@@ -424,7 +424,7 @@ CO
 
 > the Administrator shall either promulgate the standards (and useful life periods) set forth in Table 3 in paragraph (1) or promulgate alternative standards (and useful life periods) which are more stringent than those referred to in subsections (g) and (h) of this section. Any such standards (or useful life periods) promulgated by the Administrator shall take effect with respect to any such vehicles or engines no earlier than the model year 2003 but not later than model year 2006, as determined by the Administrator in the rule.
 
-(D) Nothing in this paragraph shall be construed by the Administrator or by a court as a presumption that any standards (or useful life period) set forth in Table 3 shall be promulgated in the rulemaking required under this paragraph. The action required of the Administrator in accordance with this paragraph shall be treated as a nondiscretionary duty for purposes of section 7604(a)(2) of this title (relating to citizen suits).
+(D) Nothing in this paragraph shall be construed by the Administrator or by a court as a presumption that any standards (or useful life period) set forth in Table 3 shall be promulgatedin the rulemaking required under this paragraph. The action required of the Administrator in accordance with this paragraph shall be treated as a nondiscretionary duty for purposes of section 7604(a)(2) of this title (relating to citizen suits).
 
 (E) Unless the Administrator determines not to promulgate more stringent standards as provided in subparagraph (B) or to postpone the effective date of standards referred to in Table 3 in paragraph (1) or to establish alternative standards as provided in subparagraph (C), effective with respect to model years commencing after January 1, 2003, the regulations under subsection (a) of this section applicable to emissions of nonmethane hydrocarbons (NMHC), oxides of nitrogen (NO<sub>x</sub>), and carbon monoxide (CO) from motor vehicles and motor vehicle engines in the classes specified in Table 3 in paragraph (1) above shall contain standards which provide that emissions may not exceed the pending emission levels specified in Table 3 in paragraph (1).
 
@@ -476,13 +476,13 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 &emsp;(2) over 2 or more days of nonuse;
 
-> under ozone-prone summertime conditions (as determined by regulations of the Administrator). The regulations shall take effect as expeditiously as possible and shall require the greatest degree of emission reduction achievable by means reasonably expected to be available for production during any model year to which the regulations apply, giving appropriate consideration to fuel volatility, and to cost, energy, and safety factors associated with the application of the appropriate technology. The Administrator shall commence a rulemaking under this subsection within 12 months after November 15, 1990. If final regulations are not promulgated under this subsection within 18 months after November 15, 1990, the Administrator shall submit a statement to the Congress containing an explanation of the reasons for the delay and a date certain for promulgation of such final regulations in accordance with this chapter. Such date certain shall not be later than 15 months after the expiration of such 18 month deadline.
+> under ozone-prone summertime conditions (as determined by regulations of the Administrator). The regulations shall take effect as expeditiously as possible and shall require the greatest degree of emission reduction achievable by means reasonably expected to be available for production during any model year to which the regulations apply, giving appropriate consideration to fuel volatility, and to cost, energy, and safety factors associated with the application of the appropriate technology. The Administrator shall commence a rulemaking under this subsection within 12 months after November 15, 1990. If final regulations are not promulgated under this subsection within 18 months after November 15, 1990, the Administrator shall submit a statement to the Congress containing an explanation of the reasons for the delay and a date certain for promulgation of such finalregulations in accordance with this chapter. Such date certain shall not be later than 15 months after the expiration of such 18 month deadline.
 
 #### (l) Mobile source-related air toxics
 
 #### (1) Study
 
-&emsp;Not later than 18 months after November 15, 1990, the Administrator shall complete a study of the need for, and feasibility of, controlling emissions of toxic air pollutants which are unregulated under this chapter and associated with motor vehicles and motor vehicle fuels, and the need for, and feasibility of, controlling such emissions and the means and measures for such controls. The study shall focus onthose categories of emissions that pose the greatest risk to human health or about which significant uncertainties remain, including emissions of benzene, formaldehyde, and 1,3 butadiene. The proposed report shall be available for public review and comment and shall include a summary of all comments.
+&emsp;Not later than 18 months after November 15, 1990, the Administrator shall complete a study of the need for, and feasibility of, controlling emissions of toxic air pollutants which are unregulated under this chapter and associated with motor vehicles and motor vehicle fuels, and the need for, and feasibility of, controlling such emissions and the means and measures for such controls. The study shall focus on those categories of emissions that pose the greatest risk to human health or about which significant uncertainties remain, including emissions of benzene, formaldehyde, and 1,3 butadiene. The proposed report shall be available for public review and comment and shall include a summary of all comments.
 
 #### (2) Standards
 
@@ -524,11 +524,11 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (5) Information availability
 
-&emsp;The Administrator, by regulation, shall require (subject to the provisions of section 7542(c) of this title regarding the protection of methods or processes entitled to protection as trade secrets) manufacturers to provide promptly to any person engaged in the repairing or servicing of motor vehicles or motor vehicle engines, and the Administrator for use by any such persons, with any and all information needed to make use of the emission control diagnostics system prescribed under this subsection and such other information including instructions for making emission related diagnosis and repairs. No such information may be withheld under section 7542(c) of this title if that information is provided (directly or indirectly) by the manufacturer to franchised dealers or other persons engaged in the repair, diagnosing, or servicing of motor vehicles or motor vehicle engines. Such information shall also be available to the Administrator, subject to section 7542(c) of this title, in carrying out the Administrator's responsibilities under this section.
+&emsp;The Administrator, by regulation, shall require (subject to the provisions of section 7542(c) of this title regarding the protection of methods or processes entitled to protection as trade secrets) manufacturers to provide promptly to any person engaged in the repairing or servicing of motor vehicles or motor vehicle engines, and the Administrator for use by any such persons, with any and all information needed to make use of the emission control diagnostics system prescribed under this subsection and such other information including instructions for making emission related diagnosis and repairs. No such information may be withheld under section 7542(c) of this title if that information is provided (directlyor indirectly) by the manufacturer to franchised dealers or other persons engaged in the repair, diagnosing, or servicing of motor vehicles or motor vehicle engines. Such information shall also be available to the Administrator, subject to section 7542(c) of this title, in carrying out the Administrator's responsibilities under this section.
 
 #### (f) <sup>5</sup> Model years after 1990
 
-For model years prior to model year 1994, the regulations under subsection (a) of this section applicable to buses other than those subject tostandards under section 7554 of this title shall contain a standard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table:
+For model years prior to model year 1994, the regulations under subsection (a) of this section applicable to buses other than those subject to standards under section 7554 of this title shall contain a standard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table:
 
 pm standard for buses
 
@@ -590,7 +590,7 @@ Subsec. (a)(3)(D). Pub. L. 101–549, §201(1), added subpar. (D) and struck out
 
 Subsec. (a)(3)(E), (F). Pub. L. 101–549, §201, redesignated subpar. (F) as (E), inserted heading, and struck out former subpar. (E) which read as follows:
 
-"(i) The Administrator shall conduct a continuing pollutant-specific study concerning the effects of each air pollutant emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare. The results of such study shall be published in the Federal Register and reported to the Congress not later than June 1, 1978, in the case of hydrocarbons and carbon monoxide, and June 1, 1980, in the case of oxides of nitrogen, and before June 1 of each third year thereafter.
+"(i) The Administrator shall conduct a continuing pollutant-specific study concerning the effects of each air pollutant emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare. The resultsof such study shall be published in the Federal Register and reported to the Congress not later than June 1, 1978, in the case of hydrocarbons and carbon monoxide, and June 1, 1980, in the case of oxides of nitrogen, and before June 1 of each third year thereafter.
 
 "(ii) On the basis of such study and such other information as is available to him (including the studies under section 7548 of this title), the Administrator may, after notice and opportunity for a public hearing, promulgate regulations under paragraph (1) of this subsection changing any standard prescribed in subparagraph (A)(ii) (or revised under subparagraph (B) or previously changed under this subparagraph). No such changed standard shall apply for any model year before the model year four years after the model year during which regulations containing such changed standard are promulgated."
 
@@ -624,7 +624,7 @@ Subsecs. (g) to (i). Pub. L. 101–549, §203(a), added subsecs. (g) to (i).
 
 Subsecs. (j) to (m). Pub. L. 101–549, §§204–207(a), added subsecs. (j) to (m).
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190, §14(a)(60), restructured subsec. (a) by providing for designation of par. (1) to precede "The Administrator" in place of "Except as".
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190, §14(a)(60), restructured subsec. (a) by providing for designation of par. (1)to precede "The Administrator" in place of "Except as".
 
 Pub. L. 95–95, §401(d)(1), substituted "Except as otherwise provided in subsection (b) of this section the Administrator" for "The Administrator", "cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare" for "causes or contributes to, or is likely to cause or contribute to, air pollution which endangers the public health or welfare", and "useful life (as determined under subsection (d) of this section, relating to useful life of vehicles for purposes of certification), whether such vehicles and engines are designed as complete systems or incorporate devices" for "useful life (as determined under subsection (d) of this section) whether such vehicles and engines are designed as complete systems or incorporated devices".
 
@@ -754,7 +754,7 @@ Sec. 4. <i>Duties of the Heads of Agencies</i>. (a) To implement this order, the
 
 (4) coordinate with the other agencies to avoid duplication of requests to the public for information from the public in the course of undertaking such regulatory action, consistent with the Paperwork Reduction Act (44 U.S.C. 3501 <i>et seq</i>.); and
 
-(5) consult with the Secretary of Agriculture whenever a regulatory action will have a significant effect on agriculture related to the production or use of ethanol, biodiesel, or other renewable fuels, including actions undertaken in whole or in part based on authorityor requirements in title XV of the Energy Policy Act of 2005, or the amendments made by such title, or when otherwise appropriate or required by law.
+(5) consult with the Secretary of Agriculture whenever a regulatory action will have a significant effect on agriculture related to the production or use of ethanol, biodiesel, or other renewable fuels, including actions undertaken in whole or in part based on authority or requirements in title XV of the Energy Policy Act of 2005, or the amendments made by such title, or when otherwise appropriate or required by law.
 
 (b) To implement this order, the heads of the agencies acting jointly may allocate as appropriate among the agencies administrative responsibilities relating to regulatory actions to which section 3 refers, such as publication of notices in the Federal Register and receipt of comments in response to notices.
 

@@ -1,0 +1,6 @@
+### §1300<i>l</i>–3. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–434, title II, §205, Oct. 31, 1994, 108 Stat. 4534, which related to tribal membership rolls, was omitted from the Code as being of special and not general application.
+

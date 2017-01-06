@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) information on the incidence and prevalence of autism spectrum disorder, including available information on the prevalence of autism spectrum disorder among children and adults, and identification of any changes over time with respect to the incidence and prevalence of autism spectrum disorder;
 
-&emsp;&emsp;(D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups;
+&emsp;&emsp;(D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including howthat age may have changed over the 4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups;
 
 &emsp;&emsp;(E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups;
 
@@ -80,7 +80,7 @@
 
 #### References in Text
 
-The Autism CARES Act of 2014, referred to in subsec. (a)(2)(A), (B), is Pub. L. 113–157, Aug. 8, 2014, 128 Stat. 1831, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 201 of this title and Tables.
+The Autism CARES Act of 2014, referred to in subsec. (a)(2)(A), (B), is Pub. L. 113–157, Aug. 8, 2014, 128 Stat.1831, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 201 of this title and Tables.
 
 #### Amendments
 

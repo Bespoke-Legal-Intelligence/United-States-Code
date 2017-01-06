@@ -6,7 +6,7 @@
 
 &emsp;The Corporation share of the cost of carrying out a program for which a grant is made from an allotment under this part—
 
-&emsp;&emsp;(A) for new grants may not exceed 80 percent of the total cost of the program for thefirst year of the grant period, 65 percent for the second year, and 50 percent for each remaining year; and
+&emsp;&emsp;(A) for new grants may not exceed 80 percent of the total cost of the program for the first year of the grant period, 65 percent for the second year, and 50 percent for each remaining year; and
 
 &emsp;&emsp;(B) for continuing grants, may not exceed 50 percent of the total cost of the program.
 

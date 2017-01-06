@@ -27,3 +27,4 @@ This subchapter is comprised of title I of the Child Abuse Prevention and Treatm
 - [&sect; 05106h - Authorization of appropriations](%C2%A7%2005106h%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 05106i - Rule of construction](%C2%A7%2005106i%20-%20Rule%20of%20construction.md)
 - [&sect; 05107 - Discretionary programs; authorization of appropriations](%C2%A7%2005107%20-%20Discretionary%20programs%3B%20authorization%20of%20appropriations.md)
+- [&sect; 05108 - Monitoring and oversight](%C2%A7%2005108%20-%20Monitoring%20and%20oversight.md)

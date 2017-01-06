@@ -36,7 +36,7 @@ Funds provided under this section may be used for the following purposes:
 
 To be eligible to receive a grant under this section, an entity shall be—
 
-&emsp;(1) a victim service provider, community-based organization, tribe or tribal organization, or other non-profit, nongovernmental organization that has a history of effective work preventing domestic violence, dating violence, sexual assault, or stalking and expertise in the specific area for which they are applying for funds; or
+&emsp;(1) a victim service provider, community-based organization, tribe or tribal organization, or other non-profit, nongovernmental organization that has a history of effective workpreventing domestic violence, dating violence, sexual assault, or stalking and expertise in the specific area for which they are applying for funds; or
 
 &emsp;(2) a partnership between a victim service provider, community-based organization, tribe or tribal organization, or other non-profit, nongovernmental organization that has a history of effective work preventing domestic violence, dating violence, sexual assault, or stalking and at least one of the following that has expertise in serving children exposed to domestic violence, dating violence, sexual assault, or stalking, youth domestic violence, dating violence, sexual assault, or stalking prevention, or engaging men to prevent domestic violence, dating violence, sexual assault, or stalking:
 
@@ -102,7 +102,7 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleXVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

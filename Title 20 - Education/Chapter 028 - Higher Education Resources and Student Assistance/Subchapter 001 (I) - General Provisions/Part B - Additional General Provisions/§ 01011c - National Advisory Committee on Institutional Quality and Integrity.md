@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the "Committee") to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title) under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the "Committee") to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title) under subchapter IV.
 
 #### (b) Membership
 
@@ -52,13 +52,13 @@ There is established in the Department a National Advisory Committee on Institut
 
 The Committee shall—
 
-&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations undersubpart 2 of part G of subchapter IV of this chapter;
+&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations under subpart 2 of part H of subchapter IV;
 
 &emsp;(2) advise the Secretary with respect to the recognition of a specific accrediting agency or association;
 
 &emsp;(3) advise the Secretary with respect to the preparation and publication of the list of nationally recognized accrediting agencies and associations;
 
-&emsp;(4) advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, together with recommendations for improvements in such process;
+&emsp;(4) advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV, together with recommendations for improvements in such process;
 
 &emsp;(5) advise the Secretary with respect to the relationship between—
 
@@ -156,7 +156,7 @@ Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided th
 
 #### Transition
 
-Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: "Notwithstanding section 114 of theHigher Education Act of 1965 (20 U.S.C. 1011c) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
+Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: "Notwithstanding section 114 of the Higher Education Act of 1965 (20 U.S.C. 1011c) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
 
 &emsp;"(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act;
 

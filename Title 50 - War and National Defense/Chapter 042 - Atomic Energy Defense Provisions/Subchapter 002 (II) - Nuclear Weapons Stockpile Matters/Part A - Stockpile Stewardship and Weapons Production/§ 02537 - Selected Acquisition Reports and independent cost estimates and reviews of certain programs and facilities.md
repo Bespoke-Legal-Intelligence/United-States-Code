@@ -2,7 +2,7 @@
 
 #### (a) Selected Acquisition Reports
 
-(1) At the end of each fiscal-year quarter, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension or a major alteration project (as defined in section 2753(a)(2) of this title). The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
+(1) At the end of each fiscal-year quarter, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension or a major alteration project (as defined in section2753(a)(2) of this title). The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
 
 (2) The information contained in the Selected Acquisition Report for a fiscal-year quarter for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for such fiscal-year quarter for a major defense acquisition program under section 2432 of title 10, expressed in terms of the nuclear weapon system.
 

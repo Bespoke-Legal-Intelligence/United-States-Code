@@ -44,7 +44,7 @@ In this chapter:
 
 #### (6) National Drug Control Program
 
-&emsp;The term "National Drug Control Program" means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilitiesof such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
+&emsp;The term "National Drug Control Program" means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
 
 #### (7) National Drug Control Program agency
 
@@ -158,7 +158,7 @@ Pub. L. 109–469, title XI, §1105, Dec. 29, 2006, 120 Stat. 3541, provided tha
 
 In General.—The Director of the Office of National Drug Control Policy shall provide for or shall enter into an agreement with a non-profit corporation that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from tax under section 501(a) of such Code to—
 
-&emsp;"(1) advise States on establishing laws and policies to address alcohol and other drug issues, based on the model State drug laws developed by the President's Commission on Model State Drug Laws in 1993; and
+&emsp;"(1) advise States on establishing laws and policies to address alcohol and other drug issues, based on themodel State drug laws developed by the President's Commission on Model State Drug Laws in 1993; and
 
 &emsp;"(2) revise such model State drug laws and draft supplementary model State laws to take into consideration changes in the alcohol and drug abuse problems in the State involved.
 
@@ -182,7 +182,7 @@ Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. 
 
 (d) To the extent permitted by law and at the request of the Chairs, agencies shall cooperate with and provide information to the Task Force.
 
-Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my Administration's efforts to address the problem of drug use in sports, the United States has played a leading role in the formation of a World Anti-Doping Agency (WADA) by the Olympic and sports community and the nations of the world. Through these efforts, the United States has been selected to serve as a governmental representative on the board ofthe WADA. This order will authorize the Director to serve as the United States Government's representative on the WADA board.
+Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my Administration's efforts to address the problem of drug use in sports, the United States has played a leading role in the formation of a World Anti-Doping Agency (WADA) by the Olympic and sports community and the nations of the world. Through these efforts, the United States has been selected to serve as a governmental representative on the board of the WADA. This order will authorize the Director to serve as the United States Government's representative on the WADA board.
 
 (b) Pursuant to 21 U.S.C. 1701 <i>et seq</i>., the Director, or in his absence his designee, is hereby authorized to take all necessary and proper actions to execute his responsibilities as United States representative to the WADA.
 

@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 109–432, §203(3), inserted ", subject to the approval o
 
 Subsec. (b)(2). Pub. L. 102–486, §2504(e), inserted ", or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title" after "1977" in two places.
 
-<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and ", except as providedfor under section 1240a of this title," after "subchapter", and added subsecs. (b) and (c).
+<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and ", except as provided for under section 1240a of this title," after "subchapter", and added subsecs. (b) and (c).
 
 #### Effective Date of 1990 Amendment
 

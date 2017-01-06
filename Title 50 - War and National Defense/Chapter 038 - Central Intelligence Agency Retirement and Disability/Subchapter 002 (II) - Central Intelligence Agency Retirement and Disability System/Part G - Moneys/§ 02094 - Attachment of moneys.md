@@ -2,7 +2,7 @@
 
 #### (a) Exemption from legal process
 
-Except as provided in subsections (b), (c), and (e) of this section, none of the moneys mentioned in this subchapter shall be assignable either in law or equity, or be subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
+Except as provided in subsections (b), (c), and (e), none of the moneys mentioned in this subchapter shall be assignable either in law or equity, or be subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
 
 #### (b) Payment to former spouses under court order or spousal agreement
 
@@ -14,17 +14,17 @@ In the case of any participant, former participant, or retired participant who h
 
 &emsp;(3) any right of the former spouse of a former participant to any payment of a lump-sum credit under section 2071(b) of this title, and the amount of any such payment;
 
-> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of thespousal agreement or court order that are not inconsistent with the requirements of this subchapter.
+> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this subchapter.
 
 #### (c) Other payments under court orders
 
-Payments under this subchapter that would otherwise be made to a participant, former participant, or retired participant based upon that participant's service shall be paid, in whole or in part, by the Director to another individual if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
+Payments under this subchapter that would otherwise be made to a participant, former participant, or retired participant based upon that participant's service shall be paid, in whole or in part, by the Director to another individual if and to the extent expressly provided for in theterms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
 
 #### (d) Prospective payments; bar to recovery
 
-(1) Subsections (b) and (c) of this section apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
+(1) Subsections (b) and (c) apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
 
-(2) Any payment under subsection (b) or (c) of this section to an individual bars recovery by any other individual.
+(2) Any payment under subsection (b) or (c) to an individual bars recovery by any other individual.
 
 #### (e) Allotments
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (5) Ceremonial activities
 
-&emsp;Any items of cultural significance, reimbursement of costs, or cash honorarium forparticipation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
+&emsp;Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
 
 (Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883.)
 

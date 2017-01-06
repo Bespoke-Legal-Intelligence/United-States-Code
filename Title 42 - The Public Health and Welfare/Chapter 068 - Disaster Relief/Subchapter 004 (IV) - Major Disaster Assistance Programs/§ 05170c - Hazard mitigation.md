@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
 Pub. L. 113–2, div. B, §1104(c), Jan. 29, 2013, 127 Stat. 43, provided that: "The authority under the amendments made by this section \[amending this section\] shall apply to—
 
-&emsp;"(1) any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) on or after the date of enactment of this division \[Jan. 29, 2013\]; and
+&emsp;"(1) any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) onor after the date of enactment of this division \[Jan. 29, 2013\]; and
 
 &emsp;"(2) a major disaster or emergency declared under that Act before the date of enactment of this division for which the period for processing requests for assistance has not ended as of the date of enactment of this division."
 

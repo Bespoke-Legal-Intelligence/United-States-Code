@@ -14,7 +14,7 @@ The Auxiliary shall be composed of nationals of the United States, as defined in
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §§262, 351 (Feb. 19, 1941, ch. 8, title I, §3, title III, §301, 55 Stat. 9, 13; Oct. 26, 1942, ch. 628, 56 Stat. 990; Sept. 30, 1944, ch. 453, §2, 58 Stat. 760).
+Based on title 14, U.S.C., 1946 ed., §§262, 351 (Feb. 19, 1941, ch. 8, title I, §3, title III, §301, 55 Stat. 9, 13; Oct.26, 1942, ch. 628, 56 Stat. 990; Sept. 30, 1944, ch. 453, §2, 58 Stat. 760).
 
 All reference to the Philippine Islands is eliminated.
 

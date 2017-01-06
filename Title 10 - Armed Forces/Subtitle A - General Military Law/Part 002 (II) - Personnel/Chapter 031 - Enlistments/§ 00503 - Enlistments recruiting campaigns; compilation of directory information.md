@@ -78,7 +78,7 @@ Directory Information Defined.—In this section, the term "directory informatio
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification ofthis Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1
 
 Subsec. (c)(6)(A)(i). Pub. L. 108–136, §543(b), substituted "9101" and "7801" for "14101" and "8801", respectively.
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1)generally. Prior to amendment, par. (1) read as follows: "Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students."
+<b>2001</b>—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: "Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students."
 
 Subsec. (c)(6)(A)(i). Pub. L. 107–107, §1048(a)(5)(A), substituted "14101" for "14101(18)" and "8801" for "8801(18)".
 
@@ -137,6 +137,38 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Sta
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Pilot Programs on Direct Commissions to Cyber Positions
+
+Pub. L. 114–328, div. A, title V, §509, Dec. 23, 2016, 130 Stat. 2109, provided that:
+
+"(a)
+
+Pilot Programs Authorized.—Each Secretary of a military department may carry out a pilot program to improve the ability of an Armed Force under the jurisdiction of the Secretary to recruit cyber professionals.
+
+"(b)
+
+Elements.—Under a pilot program established under this section, an individual who meets educational, physical, and other requirements determined appropriate by the Secretary of the military department concerned may receive an original appointment as a commissioned officer in a cyber specialty.
+
+"(c)
+
+Consultation.—In developing a pilot program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy with respect to an existing, similar program carried out by the Secretary of the Navy.
+
+"(d)
+
+Duration.—
+
+&emsp;"(1)
+
+Commencement.—The Secretary of a military department may commence a pilot program under this section on or after January 1, 2017.
+
+&emsp;"(2)
+
+Termination.—All pilot programs under this section shall terminate no later than December 31, 2022.
+
+"(e)
+
+Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces."
 
 #### Temporary Authority To Develop and Provide Additional Recruitment Incentives
 
@@ -454,7 +486,7 @@ Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot pr
 
 "(2) The Secretary of the Army shall select the institutions and colleges to be invited to participate in the pilot program.
 
-"(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing body or authorized official of the institution or college, as the case may be.
+"(3) The conduct of the pilot program at an institution or college shall be subject to an agreement which the Secretary shall enter into with the governing bodyor authorized official of the institution or college, as the case may be.
 
 "(4) Under the pilot program, the Secretary shall provide for the following:
 
@@ -490,7 +522,7 @@ Duration of Pilot Programs.—The pilot programs required by this section shall 
 
 "(f)
 
-Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate andthe Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
+Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
 
 "(g)
 
@@ -566,7 +598,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;"(2) Develop a range of incentives for new recruits to participate in physical fitness programs, as well as for those recruits who improve their level of fitness while in the Delayed Entry Program, which may include access to Department of Defense military fitness facilities, and access to military medical facilities in the case of a recruit who is injured while participating in physical activities with recruiters or other military personnel.
 
-&emsp;"(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical trainingprograms for new recruits in the Delayed Entry Program."
+&emsp;"(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical training programs for new recruits in the Delayed Entry Program."
 
 #### Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions
 

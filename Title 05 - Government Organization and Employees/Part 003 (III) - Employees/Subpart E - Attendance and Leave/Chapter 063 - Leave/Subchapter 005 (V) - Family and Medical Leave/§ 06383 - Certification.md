@@ -16,7 +16,7 @@
 
 &emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dates on which such treatment is expected to be given and the duration of such treatment.
 
-(c)(1) In any case in which the employing agency has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of section 6382(a)(1), the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a second health care provider designated or approved by the employing agency concerning any information certified under subsection (b) for such leave.
+(c)(1) In any case in which the employing agency has reason to doubt the validity of thecertification provided under subsection (a) for leave under subparagraph (C) or (D) of section 6382(a)(1), the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a second health care provider designated or approved by the employing agency concerning any information certified under subsection (b) for such leave.
 
 (2) Any health care provider designated or approved under paragraph (1) shall not be employed on a regular basis by the employing agency.
 
@@ -35,4 +35,8 @@
 <b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "paragraph (1)(E) or (3) of section 6382(a)" for "section 6382(a)(3)".
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
+
+#### Effective Date
+
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 

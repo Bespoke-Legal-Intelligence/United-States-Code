@@ -15,9 +15,10 @@
 | [127a.](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md) | Operations for which funds are not provided in advance: funding mechanisms. |
 | [127b.](%C2%A7%2000127b%20-%20Department%20of%20Defense%20rewards%20program.md) | Department of Defense rewards program. |
 | [127c.](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md) | Purchase of weapons overseas: force protection. |
-| [127d.](%C2%A7%2000127d%20-%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md) | Allied forces participating in combined operations: authority to provide logistic support, supplies, and services. |
-| [128\.](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Physical protection of special nuclear material: limitation on dissemination of unclassified information. |
-| [129\.](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md) | Prohibition of certain civilian personnel management constraints. |
+| \[127d. | Renumbered.\] |
+| [127e.](%C2%A7%2000127e%20-%20Support%20of%20special%20operations%20to%20combat%20terrorism.md) | Support of special operations to combat terrorism. |
+| [128\.](%C2%A7%2000128%20-%20Control%20and%20physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Control and physical protection of special nuclear material: limitation on dissemination of unclassified information. |
+| [129\.](%C2%A7%2000129%20-%20Civilian%20personnel%20management.md) | Civilian personnel management. |
 | [129a.](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md) | General policy for total force management. |
 | [129b.](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md) | Authority to procure personal services. |
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
@@ -28,17 +29,20 @@
 | [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
 | [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
 | [130e.](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20critical%20infrastructure%20security%20information.md) | Treatment under Freedom of Information Act of certain critical infrastructure security information. |
-| [130f.](%C2%A7%2000130f%20-%20Congressional%20notification%20of%20sensitive%20military%20operations.md) | Congressional notification of sensitive military operations. |
+| [130f.](%C2%A7%2000130f%20-%20Notification%20requirements%20for%20sensitive%20military%20operations.md) | Notification requirements for sensitive military operations. |
 | [130g.](%C2%A7%2000130g%20-%20Authorities%20concerning%20military%20cyber%20operations.md) | Authorities concerning military cyber operations. |
-| [130h.](%C2%A7%2000130h%20-%20Prohibitions%20on%20providing%20certain%20missile%20defense%20information%20to%20Russian%20Federation.md) | Prohibitions on providing certain missile defense information to Russian Federation. |
+| [130h.](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md) | Prohibitions relating to missile defense information and systems. |
+| [130i.](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain facilities and assets from unmanned aircraft. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1036(f)(2), title XI, §1101(b)(2), title XII, §§1203(a)(2), 1245(b), title XVI, §§1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e,128, 130f, 130h, and 130i, substituted "Civilian personnel management" for "Prohibition of certain civilian personnel management constraints" in item 129, and struck out former items 127d "Allied forces participating in combined operations: authority to provide logistic support, supplies, and services", 128 "Physical protection of special nuclear material: limitation on dissemination of unclassified information", 130f "Congressional notification of sensitive military operations", and 130h "Prohibitions on providing certain missile defense information to Russian Federation".
+
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1042(d)(2), title XVI, §§1642(b), 1671(a)(2), Nov. 25, 2015, 129 Stat. 977, 1116, 1130, added items 130g and 130h and substituted "Department of Defense rewards program" for "Assistance in combating terrorism: rewards" in item 127b.
 
-<b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted "Treatment underFreedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in item 130e and "Congressional notification of sensitive military operations" for "Congressional notification regarding sensitive military operations" in item 130f.
+<b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in item 130e and "Congressional notification of sensitive military operations" for "Congressional notification regarding sensitive military operations" in item 130f.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted "Treatment under Freedom of Information Act of critical infrastructure security information" for "Treatment under Freedom of Information Act of certain critical infrastructure security information" in item 130e.
 
@@ -108,9 +112,10 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00127a - Operations for which funds are not provided in advance funding mechanisms](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md)
 - [&sect; 00127b - Department of Defense rewards program](%C2%A7%2000127b%20-%20Department%20of%20Defense%20rewards%20program.md)
 - [&sect; 00127c - Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
-- [&sect; 00127d - Allied forces participating in combined operations authority to provide logistic support, supplies, and services](%C2%A7%2000127d%20-%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md)
-- [&sect; 00128 - Physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
-- [&sect; 00129 - Prohibition of certain civilian personnel management constraints](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md)
+- [&sect; 00127d - Renumbered &sect;331](%C2%A7%2000127d%20-%20Renumbered%20%C2%A7331.md)
+- [&sect; 00127e - Support of special operations to combat terrorism](%C2%A7%2000127e%20-%20Support%20of%20special%20operations%20to%20combat%20terrorism.md)
+- [&sect; 00128 - Control and physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Control%20and%20physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
+- [&sect; 00129 - Civilian personnel management](%C2%A7%2000129%20-%20Civilian%20personnel%20management.md)
 - [&sect; 00129a - General policy for total force management](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md)
 - [&sect; 00129b - Authority to procure personal services](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md)
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
@@ -121,6 +126,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00130c - Nondisclosure of information certain sensitive information of foreign governments and international organizations](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md)
 - [&sect; 00130d - Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md)
 - [&sect; 00130e - Treatment under Freedom of Information Act of certain critical infrastructure security information](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20critical%20infrastructure%20security%20information.md)
-- [&sect; 00130f - Congressional notification of sensitive military operations](%C2%A7%2000130f%20-%20Congressional%20notification%20of%20sensitive%20military%20operations.md)
+- [&sect; 00130f - Notification requirements for sensitive military operations](%C2%A7%2000130f%20-%20Notification%20requirements%20for%20sensitive%20military%20operations.md)
 - [&sect; 00130g - Authorities concerning military cyber operations](%C2%A7%2000130g%20-%20Authorities%20concerning%20military%20cyber%20operations.md)
-- [&sect; 00130h - Prohibitions on providing certain missile defense information to Russian Federation](%C2%A7%2000130h%20-%20Prohibitions%20on%20providing%20certain%20missile%20defense%20information%20to%20Russian%20Federation.md)
+- [&sect; 00130h - Prohibitions relating to missile defense information and systems](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md)
+- [&sect; 00130i - Protection of certain facilities and assets from unmanned aircraft](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md)

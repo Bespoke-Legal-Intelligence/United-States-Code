@@ -62,7 +62,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (6) Designation renewal system
 
-&emsp;Not later than 12 months after publishing a notice describing the proposed system under paragraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
+&emsp;Not later than 12 months after publishing a notice describing the proposed system underparagraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
 
 &emsp;&emsp;(A) whether a Head Start grantee is successfully delivering a high-quality and comprehensive Head Start program; and
 
@@ -204,7 +204,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;&emsp;(II) targeting increased male participation in the conduct of the program;
 
-&emsp;&emsp;(K) the plan of such applicant to meet the needs of limited English proficient children and their families, including procedures to identify such children, plans to provide trained personnel, and plans to provide services to assist the children in makingprogress toward the acquisition of the English language, while making meaningful progress in attaining the knowledge, skills, abilities, and development described in section 9836a(a)(1)(B) of this title;
+&emsp;&emsp;(K) the plan of such applicant to meet the needs of limited English proficient children and their families, including procedures to identify such children, plans to provide trained personnel, and plans to provide services to assist the children in making progress toward the acquisition of the English language, while making meaningful progress in attaining the knowledge, skills, abilities, and development described in section 9836a(a)(1)(B) of this title;
 
 &emsp;&emsp;(L) the plan of such applicant to meet the diverse needs of the population served;
 

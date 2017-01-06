@@ -30,7 +30,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term "inflation adjustment factor" means, with respect to any calendar year, a fraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
+&emsp;&emsp;The term "inflation adjustment factor" means, with respect to any calendar year, a fraction the numerator of which is the GNPimplicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
 
 #### (c) Qualified enhanced oil recovery costs
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645; Pub. L. 108–357, title VII, §707(a), (b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
+(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a), (b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -174,7 +174,7 @@ Pub. L. 108–357, title VII, §707(c), Oct. 22, 2004, 118 Stat. 1550, provided 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 11511 of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 11511 of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508\]."
 
 #### Effective Date
 

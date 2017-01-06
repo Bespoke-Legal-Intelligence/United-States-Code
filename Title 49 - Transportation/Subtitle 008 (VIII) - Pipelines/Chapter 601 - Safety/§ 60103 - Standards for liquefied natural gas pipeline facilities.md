@@ -12,9 +12,11 @@ Location Standards.—The Secretary of Transportation shall prescribe minimum sa
 
 &emsp;(4) natural physical aspects of the location;
 
-&emsp;(5) medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility; and
+&emsp;(5) medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility;
 
-&emsp;(6) need to encourage remote siting.
+&emsp;(6) need to encourage remote siting; and
+
+&emsp;(7) national security.
 
 (b)
 
@@ -36,7 +38,7 @@ Nonapplication.—(1) Except as provided in paragraph (2) of this subsection, a 
 
 &emsp;(B) under another law, and the standard is not prescribed at the time the authority is applied.
 
-(2)(A) Any design, installation, construction, initial inspection, or initial testing standardprescribed under this chapter after March 1, 1978, may provide that the standard applies to any part of a replacement component of a liquefied natural gas pipeline facility if the component or part is placed in service after the standard is prescribed and application of the standard—
+(2)(A) Any design, installation, construction, initial inspection, or initial testing standard prescribed under this chapter after March 1, 1978, may provide that the standard applies to any part of a replacement component of a liquefied natural gas pipeline facility if the component or part is placed in service after the standard is prescribed and application of the standard—
 
 &emsp;(i) does not make the component or part incompatible with other components or parts; or
 
@@ -74,7 +76,7 @@ Contingency Plans.—A new liquefied natural gas pipeline facility may be operat
 
 Effect on Other Standards.—This section does not preclude applying a standard prescribed under section 60102 of this title to a gas pipeline facility (except a liquefied natural gas pipeline facility) associated with a liquefied natural gas pipeline facility.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1307.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1307; Pub. L. 114–183, §27(a), June 22, 2016, 130 Stat. 531.)
 
 Historical and Revision Notes
 
@@ -124,7 +126,7 @@ In subsections (a), (b), and (d), the words "general safety" are omitted as surp
 
 In subsections (a) and (b), before each clause (1), the words "Not later than 180 days after November 30, 1979" are omitted as executed. The word "prescribe" is substituted for "establish by regulation" for consistency in the revised title and with other titles of the Code.
 
-In subsection (a), before clause (1), the words "with respect to standards relating to the location of any new LNG facility" are omitted because of the restatement. In clause (2), the word "involved" is omitted as surplus. In clause (4), the words "meteorological, geological, topographical, seismic, and other" are omitted as surplus. In clause (5), the word "existing" is omitted as surplus.
+In subsection (a), before clause (1), the words "with respect to standards relating to the location of any new LNG facility" are omitted because of the restatement.In clause (2), the word "involved" is omitted as surplus. In clause (4), the words "meteorological, geological, topographical, seismic, and other" are omitted as surplus. In clause (5), the word "existing" is omitted as surplus.
 
 In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words "with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility" are omitted because of the restatement. In clause (1), the words "thermal resistance and other" are omitted as surplus. In clause (2), the words "(such as multiple diking, insulated concrete, and vapor containment barriers)" are omitted as surplus. In clause (3), the words "(for example, whether it is to be in a liquid or semisolid state)" are omitted as surplus. In clause (4), the words "under such a design" are omitted as surplus.
 
@@ -139,4 +141,16 @@ In subsection (d), before clause (1), the words "Not later than 270 days after N
 In subsection (e), the text of 49 App.:1674a(f) (related to 49 App.:1672(a)(1) (8th, last sentences), (c), and (d)) is omitted as surplus because those provisions apply to all standards prescribed under the Natural Gas Pipeline Safety Act of 1968 (Public Law 90–481, 82 Stat. 720).
 
 In subsection (f), the words "Secretary of Energy" are substituted for "Department of Energy" because of 42:7131. The words "or local" are added for clarity. The words "in the case of any facility not subject to the jurisdiction of the Department under the Natural Gas Act" are omitted as surplus.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(7). Pub. L. 114–183 added par. (7).
+
+#### Savings Clause
+
+Pub. L. 114–183, §27(c), June 22, 2016, 130 Stat. 532, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note below\] shall be construed to limit the Secretary's authority under chapter 601 of title 49, United States Code, to regulate liquefied natural gas pipeline facilities."
+
+#### Update to Minimum Safety Standards
+
+Pub. L. 114–183, §27(b), June 22, 2016, 130 Stat. 532, provided that: "The Secretary of Transportation shall review and update the minimum safety standards prescribed pursuant to section 60103 of title 49, United States Code, for permanent, small scale liquefied natural gas pipeline facilities."
 

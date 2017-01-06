@@ -60,7 +60,7 @@ In each fiscal year, each participating jurisdiction may use not more than 10 pe
 
 Funds made available under this part may not be used to—
 
-&emsp;(1) defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c) of this section,
+&emsp;(1) defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c),
 
 &emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8 \[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
 
@@ -134,7 +134,7 @@ Subsec. (a)(5). Pub. L. 102–550, §1012(e), added par. (5).
 
 Subsec. (c). Pub. L. 102–550, §207(b)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 102–550, §207(b)(1), inserted before comma at end of par. (1) "that exceed the amount specified under subsection (c) of this section".
+Pub. L. 102–550, §207(b)(1), inserted before comma at end of par. (1) "that exceed the amount specified under subsection (c)".
 
 Subsec. (d). Pub. L. 102–550, §207(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -146,7 +146,7 @@ Subsec. (g). Pub. L. 102–550, §207(d), added subsec. (g).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extentthat such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, and dissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training of corrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
 
-&emsp;(3) to assist and serve in a consulting capacity to Federal, State, tribal, and local courts, departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
+&emsp;(3) to assist and serve in a consulting capacity to Federal, State, tribal, and local courts,departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
 
 &emsp;(4) to encourage and assist Federal, State, tribal, and local government programs and services, and programs and services of other public and private agencies, institutions, and organizations in their efforts to develop and implement improved corrections programs;
 
@@ -32,7 +32,7 @@
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 
-(c) Each recipient of assistance under this chapter shall keep such records as the Instituteshall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(c) Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (d) The Institute, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for purposes of audit and examinations to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this chapter.
 

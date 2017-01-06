@@ -12,7 +12,7 @@ There is established within the Foundation a National Endowment for the Arts.
 
 #### (c) Program of contracts, grants-in-aid, or loans to groups and individuals for projects and productions; traditionally underrepresented recipients of financial assistance
 
-The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of contracts with, or grants-in-aid or loans to, groups or, in appropriate cases, individuals of exceptional talent engaged in or concerned with the arts, for the purpose of enabling them to provide or support—
+The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of contracts with, or grants-in-aid or loans to, groups or, inappropriate cases, individuals of exceptional talent engaged in or concerned with the arts, for the purpose of enabling them to provide or support—
 
 &emsp;(1) projects and productions which have substantial national or international artistic and cultural significance, giving emphasis to American creativity and cultural diversity and to the maintenance and encouragement of professional excellence;
 
@@ -34,7 +34,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 &emsp;(10) other relevant projects, including surveys, research, planning, and publications relating to the purposes of this subsection.
 
-> In the case of publications under paragraph (10) of this subsection such publications may be supported without regard for the provisions of section 501 of title 44 only if the Chairperson consults with the Joint Committee on Printing of the Congress and the Chairperson submits to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a report justifying any exemption from such section 501. Any loans made by the Chairperson under this subsection shall be made in accordance with terms and conditions approved by the Secretary of the Treasury. In selecting individuals andgroups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented.
+> In the case of publications under paragraph (10) of this subsection such publications may be supported without regard for the provisions of section 501 of title 44 only if the Chairperson consults with the Joint Committee on Printing of the Congress and the Chairperson submits to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a report justifying any exemption from such section 501. Any loans made by the Chairperson under this subsection shall be made in accordance with terms and conditions approved by the Secretary of the Treasury. In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented.
 
 #### (d) Application for payment; regulations and procedures
 
@@ -48,7 +48,7 @@ No payment shall be made under this section except upon application therefor whi
 
 #### (e) Limitation on amount of grant to group; grants and contracts of the National Endowment for the Arts
 
-The total amount of any grant to any group pursuant to subsection (c) of this section shall not exceed 50 per centum of the total cost of such project or production, except that not more than 20 per centum of the funds allotted by the National Endowment for the Arts for the purposes of subsection (c) of this section for any fiscal year may be available for grants and contracts in that fiscal year without regard to such limitation.
+The total amount of any grant to any group pursuant to subsection (c) of this section shall not exceed 50 per centum of the total cost of such project or production, except that not more than 20 per centum of the funds allotted by the National Endowment for the Arts for the purposes of subsection (c) for any fiscal year may be available for grants and contracts in that fiscal year without regard to such limitation.
 
 #### (f) Eligibility for financial assistance
 
@@ -60,9 +60,9 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 (2) In order to receive assistance under this subsection in any fiscal year, a State shall submit an application for such grants at such time as shall be specified by the Chairperson and accompany such application with a plan which the Chairperson finds—
 
-&emsp;(A) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the "State agency") as the sole agency for the administration of the State plan;
+&emsp;(A) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the "State agency") asthe sole agency for the administration of the State plan;
 
-&emsp;(B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c) of this section;
+&emsp;(B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c);
 
 &emsp;(C) provides that the State agency will make such reports, in such form and containing such information, as the Chairperson may from time to time require, including a description of the progress made toward achieving the goals of the State plan;
 
@@ -82,7 +82,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(3) Of the sums available to carry out this subsection for any fiscal year, each State which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States in equal amounts.In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(3) Of the sums available to carry out this subsection for any fiscal year, each State which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any fiscal year shall be available only to the Chairperson for making grants under this subsection to States and regional groups, and
 
@@ -104,7 +104,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 (E) For purposes of paragraph (3)(B), the term "State" includes, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
-(5) All amounts allotted or made available under paragraph (3) for a fiscal year which are not granted to a State during such year shall be available at the end of such year to the National Endowment for the Arts for the purpose of carrying out subsection (c) of this section.
+(5) All amounts allotted or made available under paragraph (3) for a fiscal year which are not granted to a State during such year shall be available at the end of such year to the National Endowment for the Arts for the purpose of carrying out subsection (c).
 
 #### (h) Suspension of grants for defaults, noncompliance with provisions and plans, and diversion of funds; repayment of funds
 
@@ -182,7 +182,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 #### (o) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations
 
-The Chairperson shall correlate the programs of the National Endowment for the Arts insofar as practicable, with existing Federal programs and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs. The Chairperson may enter into interagency agreements to promote or assist with the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) of this section for the costs of such activities.
+The Chairperson shall correlate the programs of the National Endowment for the Arts insofar as practicable, with existing Federal programs and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs. The Chairperson may enter into interagency agreements to promote or assist with the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) for the costs of such activities.
 
 #### (p) Program of contracts or grants-in-aid to public agencies and private nonprofit organizations; limitation on payments; authority of Chairperson
 
@@ -228,11 +228,11 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 (3) The total amount of any payment made under this subsection for a program or project may not exceed 50 per centum of the cost of such program or project.
 
-(4) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Arts shall have the same authority as is established in subsection (c) of this section and section 959 of this title.
+(4) In carrying out the program authorized by this subsection, the Chairperson of the NationalEndowment for the Arts shall have the same authority as is established in subsection (c) and section 959 of this title.
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g), to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
 (Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966; Pub. L. 113–76, div. G, title IV, §416, Jan. 17, 2014, 128 Stat. 341.)
 
@@ -298,7 +298,7 @@ Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (m) as (
 
 Subsec. (p)(1)(G). Pub. L. 101–512, §318 \[title I, §103(e)\], added subpar. (G).
 
-Subsec. (p)(2) to (4). Pub. L. 101–512, §318 \[title I, §104\], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted "subsection (c)" for "section 5(c)", which for purposes of codification was translated as "subsection (c) of this section" thus requiring no change in text.
+Subsec. (p)(2) to (4). Pub. L. 101–512, §318 \[title I, §104\], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted "subsection (c)" for "section 5(c)", which for purposes of codification was translated as "subsection (c)" thus requiring no change in text.
 
 Subsec. (q). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (p) as (q).
 
@@ -360,7 +360,7 @@ Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: "From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term 'State' shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts."
 
-Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: "The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection."
+Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: "The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting astudy and establishing a State agency under paragraph (2)(B) of this subsection."
 
 Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted "All amounts allotted or made available" for "All amounts allotted".
 

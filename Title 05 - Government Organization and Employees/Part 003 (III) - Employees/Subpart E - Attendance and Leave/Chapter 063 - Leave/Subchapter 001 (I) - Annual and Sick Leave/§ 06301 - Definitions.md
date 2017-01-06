@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 > Notwithstanding clauses (x)–(xii) of paragraph (2), the term "employee" includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat.498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
 
 Historical and Revision Notes
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–519 effective beginning on first day of first applicable pay period beginning on or after Oct. 25, 1978, see section 4(a) of Pub. L. 95–519, set out as a note under section 5551 of this title.
+Amendment by Pub. L. 95–519 effective beginning on first day of first applicable pay period beginning on orafter Oct. 25, 1978, see section 4(a) of Pub. L. 95–519, set out as a note under section 5551 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -150,7 +150,7 @@ Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: "This Act 
 
 #### Employees of the District of Columbia
 
-Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: "The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United StatesCode, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made."
+Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: "The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made."
 
 #### Executive Order No. 10540
 

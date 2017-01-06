@@ -4,7 +4,7 @@
 
 #### (1) Denial of visas
 
-&emsp;The Secretary shall report, on a timely basis, to the appropriate committees of the Congress each time a consular post denies a visa on the grounds of terrorist activities or foreign policy. Such report shall set forth the name and nationality of each such person and a factual statement of the basis for such denial.
+&emsp;The Secretary shall report, on a timely basis, to the appropriate committees of theCongress each time a consular post denies a visa on the grounds of terrorist activities or foreign policy. Such report shall set forth the name and nationality of each such person and a factual statement of the basis for such denial.
 
 #### (2) Visa issuance to inadmissible aliens
 

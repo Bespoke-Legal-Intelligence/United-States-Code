@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) agricultural and nonindustrial private forest lands (as defined in section 2103a(c) of title 16); and
 
-&emsp;&emsp;&emsp;(ii) land enrolled in the conservation reserve program established under subchapter B of chapter I of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.), or the Agricultural Conservation Easement Program established under subtitle H of title XII of that Act \[16 U.S.C. 3865 et seq.\], under a contract that will expire at the end of the current fiscal year.
+&emsp;&emsp;&emsp;(ii) land enrolled in the conservation reserve program established under subchapter B of chapter I of subtitle D of title XII of the Food Security Act of 1985 (16U.S.C. 3831 et seq.), or the Agricultural Conservation Easement Program established under subtitle H of title XII of that Act \[16 U.S.C. 3865 et seq.\], under a contract that will expire at the end of the current fiscal year.
 
 #### (B) Exclusions
 
@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) a forest stewardship plan; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a plan that the Secretary determines is equivalent to a plan described in item (aa) or (bb) and consistent withExecutive Order 13112 (42 U.S.C. 4321 note; relating to invasive species);
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a plan that the Secretary determines is equivalent to a plan described in item (aa) or (bb) and consistent with Executive Order 13112 (42 U.S.C. 4321 note; relating to invasive species);
 
 &emsp;&emsp;&emsp;(ii) if woody eligible material, woody eligible material that is produced on land other than contract acreage that—
 
@@ -358,7 +358,7 @@ Not later than 4 years after February 7, 2014, the Secretary shall submit to the
 
 #### References in Text
 
-The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (C)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (C)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsecs. (a)(5)(A)(ii), (B)(iii), (iv), and (c)(3)(B)(ii), (5)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B, C, and H of title XII of the Act are classified generally to subchapters II (§3811 et seq.), III (§3821 et seq.), and VII (§3865 et seq.), respectively, of chapter 58 of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -381,6 +381,10 @@ A prior section 9011 of Pub. L. 107–171 was classified to section 8109 of this
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

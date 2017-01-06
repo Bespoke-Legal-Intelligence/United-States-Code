@@ -18,7 +18,7 @@ The Secretary of Energy shall establish an office at the Hanford Reservation, Ri
 
 #### (c) Department responsibilities
 
-The Secretary shall provide the head of the Office with the resources and personnel necessaryto carry out the responsibilities specified in subsection (b)(2).
+The Secretary shall provide the head of the Office with the resources and personnel necessary to carry out the responsibilities specified in subsection (b)(2).
 
 #### (d) Notification
 
@@ -26,7 +26,7 @@ The Assistant Secretary of Energy for Environmental Management shall submit to t
 
 #### (e) Termination
 
-The Office shall terminate on September 30, 2019. The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
+The Office shall terminate on September 30, 2019. The Office may be extended beyond thatdate if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
 
 (Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767; Pub. L. 112–81, div. C, title XXXI, §3113, Dec. 31, 2011, 125 Stat. 1709; Pub. L. 113–66, div. C, title XXXI, §3146(e)(13), Dec. 26, 2013, 127 Stat. 1078.)
 

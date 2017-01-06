@@ -12,7 +12,7 @@ There is established within the Commission—
 
 #### (c) Inspection Division; duties
 
-&emsp;an Inspection Division under the direction of a Director who shall be appointed by the Commission. The Inspection Division shall be responsible for gathering information to show whether or not the contractors, licensees, and officers and employees of the Commission are complying with the provisions of this chapter (except those provisions for which the Federal Bureau of Investigation is responsible) and the appropriate rules and regulations of the Commission.
+&emsp;an Inspection Division under the direction of a Director who shall be appointed by the Commission. The Inspection Division shall be responsible for gathering information to show whether or not the contractors, licensees, and officers and employees of the Commission are complying with the provisions of this chapter\(except those provisions for which the Federal Bureau of Investigation is responsible) and the appropriate rules and regulations of the Commission.
 
 #### (d) Executive management positions; appointment; removal
 
@@ -30,7 +30,7 @@ Provisions similar to this section were contained in section 1802(a)(4)(B) of th
 
 #### Amendments
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, whowould be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted "other program division" for "such division".
+<b>1967</b>—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted "other program division" for "such division".
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
 

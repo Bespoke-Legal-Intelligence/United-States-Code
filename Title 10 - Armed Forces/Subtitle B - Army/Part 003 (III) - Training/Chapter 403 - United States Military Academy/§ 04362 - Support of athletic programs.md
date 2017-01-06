@@ -32,7 +32,7 @@ Authority.—To the extent required by a contract or cooperative agreement under
 
 &emsp;(2)
 
-Support services defined.—(A) In this subsection, the term "support services" includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support,and security systems in conjunction with the leasing or licensing of property.
+Support services defined.—(A) In this subsection, the term "support services" includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support, and security systems in conjunction with the leasing or licensing of property.
 
 &emsp;(B) Such term includes—
 
@@ -74,7 +74,7 @@ Limitations.—No licensing, marketing, or sponsorship agreement may be entered 
 
 &emsp;&emsp;(A) such agreement would reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
 
-&emsp;&emsp;(B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
+&emsp;&emsp;(B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Departmentof the Army, or any individual involved in such a program.
 
 (e)
 

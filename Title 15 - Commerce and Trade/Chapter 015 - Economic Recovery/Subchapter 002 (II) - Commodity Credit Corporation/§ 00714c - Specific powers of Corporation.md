@@ -4,7 +4,7 @@ In the fulfillment of its purposes and in carrying out its annual budget program
 
 (a) Support the prices of agricultural commodities (other than tobacco) through loans, purchases, payments, and other operations.
 
-(b) Make available materials and facilities required in connection with the production andmarketing of agricultural commodities (other than tobacco).
+(b) Make available materials and facilities required in connection with the production and marketing of agricultural commodities (other than tobacco).
 
 (c) Procure agricultural commodities (other than tobacco) for sale to other Government agencies, foreign governments, and domestic, foreign, or international relief or rehabilitation agencies, and to meet domestic requirements.
 
@@ -70,7 +70,7 @@ Funding.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
+In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) ofthe Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
 
 &emsp;"(2)
 
@@ -82,7 +82,7 @@ Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 
-Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject tosuch terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
+Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
 
 &emsp;"(1) were intended to be exported to the Union of Soviet Socialist Republics under contracts entered into prior to January 5, 1980, but
 

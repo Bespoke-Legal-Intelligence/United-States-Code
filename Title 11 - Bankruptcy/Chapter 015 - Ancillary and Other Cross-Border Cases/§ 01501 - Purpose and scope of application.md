@@ -40,7 +40,7 @@
 
 #### References in Text
 
-The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generallyto chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 #### Prior Provisions
 
@@ -48,5 +48,5 @@ A prior section 1501, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to 
 
 #### Effective Date
 
-Chapter effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
+Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 

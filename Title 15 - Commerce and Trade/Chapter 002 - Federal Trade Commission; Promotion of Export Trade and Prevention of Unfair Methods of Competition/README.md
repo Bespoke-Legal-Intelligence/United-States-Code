@@ -10,6 +10,8 @@
 | [44\.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000044%20-%20Definitions.md) | Definitions. |
 | [45\.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000045%20-%20Unfair%20methods%20of%20competition%20unlawful%3B%20prevention%20by%20Commission.md) | Unfair methods of competition unlawful; prevention by Commission. |
 | [45a.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000045a%20-%20Labels%20on%20products.md) | Labels on products. |
+| [45b.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000045b%20-%20Consumer%20review%20protection.md) | Consumer review protection. |
+| [45c.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000045c%20-%20Unfair%20and%20deceptive%20acts%20and%20practices%20relating%20to%20circumvention%20of%20ticket%20access%20control%20measures.md) | Unfair and deceptive acts and practices relating to circumvention of ticket access control measures. |
 | [46\.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000046%20-%20Additional%20powers%20of%20Commission.md) | Additional powers of Commission. |
 | [46a.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000046a%20-%20Concurrent%20resolution%20essential%20to%20authorize%20investigations.md) | Concurrent resolution essential to authorize investigations |
 | [47\.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000047%20-%20Reference%20of%20suits%20under%20antitrust%20statutes%20to%20Commission.md) | Reference of suits under antitrust statutes to Commission. |

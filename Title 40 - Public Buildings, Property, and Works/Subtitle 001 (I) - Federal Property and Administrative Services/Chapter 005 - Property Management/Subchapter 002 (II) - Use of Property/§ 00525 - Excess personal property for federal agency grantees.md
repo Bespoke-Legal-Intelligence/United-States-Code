@@ -34,7 +34,7 @@ Definition.—In this subsection, the term "State" means a State of the United S
 
 &emsp;(2)
 
-In general.—Under regulations and restrictions the Administrator may prescribe,subsection (a) does not apply to property furnished by the Secretary of Agriculture to—
+In general.—Under regulations and restrictions the Administrator may prescribe, subsection (a) does not apply to property furnished by the Secretary of Agriculture to—
 
 &emsp;&emsp;(A) a state <sup>1</sup> or county extension service engaged in cooperative agricultural extension work under the Smith-Lever Act (7 U.S.C. 341 et seq.);
 
@@ -50,7 +50,7 @@ Other Exceptions.—Under regulations and restrictions the Administrator may pre
 
 &emsp;(2) scientific equipment furnished under section 11(e) of the National Science Foundation Act of 1950 (42 U.S.C. 1870(e));
 
-&emsp;(3) property furnished under section 203 of the Department of Agriculture Organic Act of 1944 (16 U.S.C. 580a), in connection with the Cooperative Forest Fire Control Program, if the Government retains title; or
+&emsp;(3) property furnished under section 203 of the Department of Agriculture Organic Act of1944 (16 U.S.C. 580a), in connection with the Cooperative Forest Fire Control Program, if the Government retains title; or
 
 &emsp;(4) property furnished in connection with a grant to a tribe, as defined in section 3(c) of the Indian Financing Act of 1974 (25 U.S.C. 1452(c)).
 

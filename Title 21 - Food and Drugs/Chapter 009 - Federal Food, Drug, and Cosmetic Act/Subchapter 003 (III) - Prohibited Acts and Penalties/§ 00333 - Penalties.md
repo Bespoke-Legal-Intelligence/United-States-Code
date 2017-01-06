@@ -8,11 +8,11 @@
 
 #### (b) Prescription drug marketing violations
 
-(1) Notwithstanding subsection (a) of this section, any person who violates section 331(t) of this title by—
+(1) Notwithstanding subsection (a), any person who violates section 331(t) of this title by—
 
 &emsp;(A) knowingly importing a drug in violation of section 381(d)(1) of this title,
 
-&emsp;(B) knowingly selling, purchasing, or trading a drug or drug sample or knowingly offering tosell, purchase, or trade a drug or drug sample, in violation of section 353(c)(1) of this title,
+&emsp;(B) knowingly selling, purchasing, or trading a drug or drug sample or knowingly offering to sell, purchase, or trade a drug or drug sample, in violation of section 353(c)(1) of this title,
 
 &emsp;(C) knowingly selling, purchasing, or trading a coupon, knowingly offering to sell, purchase, or trade such a coupon, or knowingly counterfeiting such a coupon, in violation of section 353(c)(2) of this title, or
 
@@ -42,13 +42,13 @@
 
 (5) If a person provides information leading to the institution of a criminal proceeding against, and conviction of, a person for a violation of section 331(t) of this title because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample in violation of section 353(c)(1) of this title, such person shall be entitled to one-half of the criminal fine imposed and collected for such violation but not more than $125,000.
 
-(6) Notwithstanding subsection (a) of this section, any person who is a manufacturer or importer of a prescription drug under section 384(b) of this title and knowingly fails to comply with a requirement of section 384(e) of this title that is applicable to such manufacturer or importer, respectively, shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
+(6) Notwithstanding subsection (a), any person who is a manufacturer or importer of a prescription drug under section 384(b) of this title and knowingly fails to comply with a requirement ofsection 384(e) of this title that is applicable to such manufacturer or importer, respectively, shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
 
 (7) Notwithstanding subsection (a)(2), any person that knowingly and intentionally adulterates a drug such that the drug is adulterated under subsection (a)(1), (b), (c), or (d) of section 351 of this title and has a reasonable probability of causing serious adverse health consequences or death to humans or animals shall be imprisoned for not more than 20 years or fined not more than $1,000,000, or both.
 
 #### (c) Exceptions in certain cases of good faith, etc.
 
-No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violatedsection 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
+No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
 
 #### (d) Exceptions involving misbranded food
 
@@ -78,7 +78,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 &emsp;(iii) to violations of section 351(a)(2)(A) of this title which involve one or more devices which are not defective.
 
-(2)(A) Any person who introduces into interstate commerce or delivers for introduction into interstate commerce an article of food that is adulterated within the meaning of section 342(a)(2)(B) of this title or any person who does not comply with a recall order under section 350l of this title shall be subject to a civil money penalty of not more than $50,000 in the case of an individual and $250,000 in the case of any other person for such introduction or delivery, not to exceed $500,000 for all such violations adjudicated in a single proceeding.
+(2)(A) Any person who introduces into interstate commerce or delivers for introduction intointerstate commerce an article of food that is adulterated within the meaning of section 342(a)(2)(B) of this title or any person who does not comply with a recall order under section 350l of this title shall be subject to a civil money penalty of not more than $50,000 in the case of an individual and $250,000 in the case of any other person for such introduction or delivery, not to exceed $500,000 for all such violations adjudicated in a single proceeding.
 
 (B) This paragraph shall not apply to any person who grew the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the criminal authorities under this section to sanction such person for the introduction or delivery for introduction into interstate commerce of the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the seizure authorities of section 334 of this title or the injunction authorities of section 332 of this title with respect to the article of food that is adulterated.
 
@@ -86,7 +86,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (3)(A) Any person who violates section 331(jj) of this title shall be subject to a civil monetary penalty of not more than $10,000 for all violations adjudicated in a single proceeding.
 
-(B) If a violation of section 331(jj) of this title is not corrected within the 30-day period following notification under section 282(j)(5)(C)(ii) <sup>2</sup> oftitle 42, the person shall, in addition to any penalty under subparagraph (A), be subject to a civil monetary penalty of not more than $10,000 for each day of the violation after such period until the violation is corrected.
+(B) If a violation of section 331(jj) of this title is not corrected within the 30-day period following notification under section 282(j)(5)(C)(ii) <sup>2</sup> of title 42, the person shall, in addition to any penalty under subparagraph (A), be subject to a civil monetary penalty of not more than $10,000 for each day of the violation after such period until the violation is corrected.
 
 (4)(A) Any responsible person (as such term is used in section 355–1 of this title) that violates a requirement of section 355(o), 355(p), or 355–1 of this title shall be subject to a civil monetary penalty of—
 
@@ -288,7 +288,7 @@ Subsec. (e). Pub. L. 100–690 added subsec. (e).
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–278 added subsec. (d).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out reference to subsec. (b) and transferred to subsec. (b) provisions covering second offenses and offenses committed with intent to defraud or mislead.
+<b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out reference to subsec. (b) and transferred to subsec. (b) provisionscovering second offenses and offenses committed with intent to defraud or mislead.
 
 Subsec. (b). Pub. L. 91–513 inserted provisions covering second offenses and offenses committed with intent to defraud or mislead formerly set out in subsec. (a) and struck out provisions covering violations involving depressant and stimulant drugs. See section 801 et seq. of this title.
 
@@ -314,7 +314,7 @@ Pub. L. 111–31, div. A, title I, §103(q)(3), (4), June 22, 2009, 123 Stat. 18
 
 "(3)
 
-General effective date.—The amendments made by paragraphs (2) \[amending this section\], (3)\[amending this section\], and (4) \[no par. (4) has been enacted\] of subsection (c) shall take effect upon the issuance of guidance described in paragraph (1) of this subsection \[set out as a Guidance note below\].
+General effective date.—The amendments made by paragraphs (2) \[amending this section\], (3) \[amending this section\], and (4) \[no par. (4) has been enacted\] of subsection (c) shall take effect upon the issuance of guidance described in paragraph (1) of this subsection \[set out as a Guidance note below\].
 
 "(4)
 
@@ -374,7 +374,7 @@ Act Oct. 26, 1951, ch. 578, §3, 65 Stat. 649, provided that: "The provisions of
 
 #### Savings Provision
 
-Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now theDrug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
 #### Transfer of Functions
 

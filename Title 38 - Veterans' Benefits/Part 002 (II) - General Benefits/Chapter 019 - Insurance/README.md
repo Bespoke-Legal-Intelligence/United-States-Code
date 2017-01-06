@@ -113,7 +113,7 @@
 
 <b>1998</b>—Pub. L. 105–368, title III, §302(a)(2), Nov. 11, 1998, 112 Stat. 3333, added item 1980.
 
-<b>1996</b>—Pub. L. 104–275, title IV, §405(b)(3), Oct. 9, 1996, 110 Stat. 3339, substituted "SERVICEMEMBERS'GROUP" for "SERVICEMEN'S GROUP" in subchapter III heading and "Servicemembers' Group" for "Servicemen's Group" in item 1974.
+<b>1996</b>—Pub. L. 104–275, title IV, §405(b)(3), Oct. 9, 1996, 110 Stat. 3339, substituted "SERVICEMEMBERS' GROUP" for "SERVICEMEN'S GROUP" in subchapter III heading and "Servicemembers' Group" for "Servicemen's Group" in item 1974.
 
 <b>1992</b>—Pub. L. 102–568, title II, §203(b), Oct. 29, 1992, 106 Stat. 4325, added item 1922A.
 

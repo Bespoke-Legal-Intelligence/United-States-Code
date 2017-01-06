@@ -112,7 +112,7 @@ For purposes of this chapter—
 
 #### (20) Receiving depository institution
 
-&emsp;The term "receiving depository institution" means the branch of a depository institution or the proprietary ATM in which a check is first deposited.
+&emsp;The term "receiving depository institution" means the branch of a depository institutionor the proprietary ATM in which a check is first deposited.
 
 #### (21) State
 

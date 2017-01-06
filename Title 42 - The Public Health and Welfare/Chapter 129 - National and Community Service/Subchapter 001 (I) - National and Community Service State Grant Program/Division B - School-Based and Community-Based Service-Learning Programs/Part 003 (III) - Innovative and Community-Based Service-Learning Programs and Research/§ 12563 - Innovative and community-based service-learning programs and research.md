@@ -100,7 +100,7 @@ Funds under this part may be used to—
 
 &emsp;&emsp;&emsp;(ii) improve student engagement, including student attendance and student behavior, and student achievement, graduation rates, and college-going rates at secondary schools; and
 
-&emsp;&emsp;&emsp;(iii) involve an increasing percentage of students in secondary school and out-of-school youth in the community in school-based or community-based service-learning activities each year, with the goal of involving all students in secondary schoolsserved by the local educational agency and involving an increasing percentage of the out-of-school youth in service-learning activities; and
+&emsp;&emsp;&emsp;(iii) involve an increasing percentage of students in secondary school and out-of-school youth in the community in school-based or community-based service-learning activities each year, with the goal of involving all students in secondary schools served by the local educational agency and involving an increasing percentage of the out-of-school youth in service-learning activities; and
 
 &emsp;(10) conduct semester of service programs that—
 

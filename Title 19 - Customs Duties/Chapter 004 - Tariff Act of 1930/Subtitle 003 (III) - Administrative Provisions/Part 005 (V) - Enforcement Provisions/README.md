@@ -59,6 +59,7 @@ Part V—Enforcement Provisions
 - [&sect; 01627 - Repealed. Pub. L. 100&#8211;690, title VII, &sect;7367(c)(6), Nov. 18, 1988, 102 Stat. 4480](%C2%A7%2001627%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93690%2C%20title%20VII%2C%20%C2%A77367%28c%29%286%29%2C%20Nov.%2018%2C%201988%2C%20102%20Stat.%204480.md)
 - [&sect; 01627a - Unlawful importation or exportation of certain vehicles; inspections](%C2%A7%2001627a%20-%20Unlawful%20importation%20or%20exportation%20of%20certain%20vehicles%3B%20inspections.md)
 - [&sect; 01628 - Exchange of information](%C2%A7%2001628%20-%20Exchange%20of%20information.md)
+- [&sect; 01628a - Exchange of information related to trade enforcement](%C2%A7%2001628a%20-%20Exchange%20of%20information%20related%20to%20trade%20enforcement.md)
 - [&sect; 01629 - Inspections and preclearance in foreign countries](%C2%A7%2001629%20-%20Inspections%20and%20preclearance%20in%20foreign%20countries.md)
 - [&sect; 01630 - Authority to settle claims](%C2%A7%2001630%20-%20Authority%20to%20settle%20claims.md)
 - [&sect; 01631 - Use of private collection agencies](%C2%A7%2001631%20-%20Use%20of%20private%20collection%20agencies.md)

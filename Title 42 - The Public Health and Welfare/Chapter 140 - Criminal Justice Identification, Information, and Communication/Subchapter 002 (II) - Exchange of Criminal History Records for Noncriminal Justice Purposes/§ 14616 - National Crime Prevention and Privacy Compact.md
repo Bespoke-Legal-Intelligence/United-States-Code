@@ -38,7 +38,7 @@ In this Compact:
 
 &emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
-&emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvementof the individual with the criminal justice system.
+&emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
 
 #### (5) Criminal history record repository
 
@@ -90,7 +90,7 @@ In this Compact:
 
 &emsp;&emsp;(A) means the cooperative Federal-State system for the exchange of criminal history records; and
 
-&emsp;&emsp;(B) includes the National Identification Index, the National Fingerprint File and, to the extent of their participation in such system, the criminal history record repositories of the States and the FBI.
+&emsp;&emsp;(B) includes the National Identification Index, the National Fingerprint File and, tothe extent of their participation in such system, the criminal history record repositories of the States and the FBI.
 
 #### (14) National Fingerprint File
 
@@ -394,7 +394,7 @@ The FBI shall exercise immediate and necessary action to preserve the integrity 
 
 #### (c) Right of appeal
 
-The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by section 1446 of title 28, United States Code, or other statutory authority.
+The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriatedistrict court of the United States in the manner provided by section 1446 of title 28, United States Code, or other statutory authority.
 
 (Pub. L. 105–251, title II, §217, Oct. 9, 1998, 112 Stat. 1876.)
 

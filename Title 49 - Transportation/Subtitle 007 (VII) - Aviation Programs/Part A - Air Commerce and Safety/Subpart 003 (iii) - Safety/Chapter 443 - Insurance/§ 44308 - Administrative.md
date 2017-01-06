@@ -18,7 +18,7 @@ Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue in
 
 (c)
 
-Underwriting Agent.—(1) The Secretary may, and when practical shall, employ an insurance carrier or group of insurance carriers to act as an underwriting agent. The Secretarymay use the agent, or a claims adjuster who is independent of the underwriting agent, to adjust claims under this chapter, but claims may be paid only when approved by the Secretary.
+Underwriting Agent.—(1) The Secretary may, and when practical shall, employ an insurance carrier or group of insurance carriers to act as an underwriting agent. The Secretary may use the agent, or a claims adjuster who is independent of the underwriting agent, to adjust claims under this chapter, but claims may be paid only when approved by the Secretary.
 
 (2) The Secretary may pay reasonable compensation to an underwriting agent for servicing insurance the agent writes for the Secretary. Compensation may include payment for reasonable expenses incurred by the agent but may not include a payment by the agent for stimulation or solicitation of insurance business.
 
@@ -90,7 +90,7 @@ In subsection (a), the words "may carry out this chapter" are substituted for "i
 
 In subsection (b)(1), the word "insurance" is added for clarity. The words "rules, and regulations" are omitted as unnecessary because of 49:322(a). The words "as he deems proper" and "subject to the following provisions of this subsection" are omitted as surplus. The words "and change" and "fix, adjust, and change" are omitted as being included in "prescribe". The words "under the policies" are added for clarity. The word "charged" is substituted for "provided for in this subchapter" for consistency in this subchapter.
 
-In subsection (b)(2), before clause (A), the words "the Secretary" are added because of the restatement. In clause (A), the words "adjust and . . . losses, compromise and" are omitted as included in "settle and pay the claim". The word "made" is substituted for "whether" for clarity. In clause (B), the word "entered" is substituted for "rendered" because it is more appropriate. The words "in any suit" are omitted as surplus. The words "or the amount of any settlement agreed upon" are omitted as being included in "settle and pay the claim".
+In subsection (b)(2), before clause (A), the words "the Secretary" are added because of the restatement. Inclause (A), the words "adjust and . . . losses, compromise and" are omitted as included in "settle and pay the claim". The word "made" is substituted for "whether" for clarity. In clause (B), the word "entered" is substituted for "rendered" because it is more appropriate. The words "in any suit" are omitted as surplus. The words "or the amount of any settlement agreed upon" are omitted as being included in "settle and pay the claim".
 
 In subsection (c)(1), the words "and when practical shall" are substituted for "and whenever he finds it practical to do so shall" to eliminate unnecessary words. The word "his" is omitted as surplus. The words "The Secretary may use" are substituted for "may be utilized" for consistency. The words "The services of" are omitted as unnecessary.
 

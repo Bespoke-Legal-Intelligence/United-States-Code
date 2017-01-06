@@ -14,7 +14,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
-&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide astatement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
+&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicatewhether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
 
 &emsp;&emsp;(i) the amount that is or will be paid directly to the consumer;
 
@@ -60,7 +60,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.
 
-&emsp;(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and theamount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.
+&emsp;(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.
 
 &emsp;(18) In the case of a residential mortgage loan, the aggregate amount of fees paid to the mortgage originator in connection with the loan, the amount of such fees paid directly by the consumer, and any additional amount received by the originator from the creditor.
 
@@ -102,7 +102,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 &emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
 
-&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made inaccordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
@@ -150,7 +150,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(G) the term of the private education loan;
 
-&emsp;&emsp;(H) whether interest will accrue while the student to whom the private education loanrelates is enrolled at a covered educational institution;
+&emsp;&emsp;(H) whether interest will accrue while the student to whom the private education loan relates is enrolled at a covered educational institution;
 
 &emsp;&emsp;(I) payment deferral options;
 
@@ -164,9 +164,9 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(L) that a covered educational institution may have school-specific education loan benefits and terms not detailed on the disclosure form;
 
-&emsp;&emsp;(M) that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\], in lieu of, or in addition to, a loan from a non-Federal source;
+&emsp;&emsp;(M) that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source;
 
-&emsp;&emsp;(N) the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\];
+&emsp;&emsp;(N) the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.);
 
 &emsp;&emsp;(O) that, as provided in paragraph (6)—
 
@@ -214,13 +214,13 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(M) that the borrower—
 
-&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\], in lieu of, or in addition to, a loan from a non-Federal source; and
+&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
 
 &emsp;&emsp;&emsp;(ii) may obtain additional information concerning such assistance from their institution of higher education or the website of the Department of Education;
 
-&emsp;&emsp;(N) the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\];
+&emsp;&emsp;(N) the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.);
 
-&emsp;&emsp;(O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to theextent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
+&emsp;&emsp;(O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
 
 &emsp;&emsp;(P) such other information as the Bureau shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
 
@@ -298,7 +298,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
-&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by adate determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next awardyear (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
 #### (f) Periodic statements for residential mortgage loans
 
@@ -336,7 +336,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

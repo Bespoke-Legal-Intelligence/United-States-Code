@@ -28,7 +28,7 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (1) Validity
 
-&emsp;An election under paragraph (2) or (3) of subsection (b) shall not be considered valid unlessa majority of the stockholders eligible to vote in the election have voted in the election.
+&emsp;An election under paragraph (2) or (3) of subsection (b) shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
 
 #### (2) Balloting
 

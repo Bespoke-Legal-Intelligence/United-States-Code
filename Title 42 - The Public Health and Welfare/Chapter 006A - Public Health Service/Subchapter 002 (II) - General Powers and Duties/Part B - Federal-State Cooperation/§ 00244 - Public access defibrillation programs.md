@@ -18,7 +18,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 #### (b) Preference
 
-In awarding grants under subsection (a) of this section, the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
+In awarding grants under subsection (a), the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
 
 &emsp;(1) has a particularly low local survival rate for cardiac arrests, or a particularly low local response rate for cardiac arrest victims; or
 
@@ -26,7 +26,7 @@ In awarding grants under subsection (a) of this section, the Secretary shall giv
 
 #### (c) Use of funds
 
-A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under subsection (a) of this section may use funds received through such grant to—
+A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under subsection (a) may use funds received through such grant to—
 
 &emsp;(1) purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
 
@@ -46,7 +46,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under subsection (a) of this section, a State, political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+&emsp;To be eligible to receive a grant under subsection (a), a State, political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (2) Contents
 
@@ -66,7 +66,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for for <sup>1</sup> each of fiscal years 2003 through 2014. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for for <sup>1</sup> each of fiscal years 2003through 2014. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
 (July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634; amended Pub. L. 108–41, §2, July 1, 2003, 117 Stat. 839; Pub. L. 111–148, title X, §10412, Mar. 23, 2010, 124 Stat. 990.)
 

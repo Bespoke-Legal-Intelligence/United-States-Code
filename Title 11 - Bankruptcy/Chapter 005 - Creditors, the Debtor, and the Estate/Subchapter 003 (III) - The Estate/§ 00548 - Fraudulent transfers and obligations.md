@@ -22,7 +22,7 @@
 
 (b) The trustee of a partnership debtor may avoid any transfer of an interest of the debtor in property, or any obligation incurred by the debtor, that was made or incurred on or within 2 years before the date of the filing of the petition, to a general partner in the debtor, if the debtor was insolvent on the date such transfer was made or such obligation was incurred, or became insolvent as a result of such transfer or obligation.
 
-(c) Except to the extent that a transfer or obligation voidable under this section is voidableunder section 544, 545, or 547 of this title, a transferee or obligee of such a transfer or obligation that takes for value and in good faith has a lien on or may retain any interest transferred or may enforce any obligation incurred, as the case may be, to the extent that such transferee or obligee gave value to the debtor in exchange for such transfer or obligation.
+(c) Except to the extent that a transfer or obligation voidable under this section is voidable under section 544, 545, or 547 of this title, a transferee or obligee of such a transfer or obligation that takes for value and in good faith has a lien on or may retain any interest transferred or may enforce any obligation incurred, as the case may be, to the extent that such transferee or obligee gave value to the debtor in exchange for such transfer or obligation.
 
 (d)(1) For the purposes of this section, a transfer is made when such transfer is so perfected that a bona fide purchaser from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest in the property transferred that is superior to the interest in such property of the transferee, but if such transfer is not so perfected before the commencement of the case, such transfer is made immediately before the date of the filing of the petition.
 
@@ -80,7 +80,7 @@ Section 548(d)(2) is modified to reflect general application of a provision cont
 
 #### senate report no. 95–989
 
-This section is derived in large part from section 67d of the Bankruptcy Act \[section 107(d) of former title 11\]. It permits the trustee to avoid transfers by the debtor in fraud of his creditors. Its history dates from the statute of 13 Eliz. c. 5 (1570).
+This section is derived in large part from section 67d of the Bankruptcy Act \[section 107(d) of former title 11\]. It permits the trustee to avoid transfers by thedebtor in fraud of his creditors. Its history dates from the statute of 13 Eliz. c. 5 (1570).
 
 The trustee may avoid fraudulent transfers or obligations if made with actual intent to hinder, delay, or defraud a past or future creditor. Transfers made for less than a reasonably equivalent consideration are also vulnerable if the debtor was or thereby becomes insolvent, was engaged in business with an unreasonably small capital, or intended to incur debts that would be beyond his ability to repay.
 

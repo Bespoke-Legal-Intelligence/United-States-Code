@@ -6,7 +6,7 @@ The Secretary may enter into cooperation agreements with non-Federal interests w
 
 #### (b) Contents of strategies
 
-Each strategy developed under subsection (a) of this section shall—
+Each strategy developed under subsection (a) shall—
 
 &emsp;(1) include assessments of sediment rates and composition, sediment reduction options, dredging practices, long-term management of any dredged material disposal facilities, remediation of such facilities, and alternative disposal and reuse options;
 
@@ -16,7 +16,7 @@ Each strategy developed under subsection (a) of this section shall—
 
 #### (c) Consultation
 
-In developing strategies under subsection (a) of this section, the Secretary shall consult with interested Federal agencies, States, and Indian tribes and provide an opportunity for public comment.
+In developing strategies under subsection (a), the Secretary shall consult with interested Federal agencies, States, and Indian tribes and provide an opportunity for public comment.
 
 #### (d) Dredged material disposal
 
@@ -26,13 +26,13 @@ In developing strategies under subsection (a) of this section, the Secretary sha
 
 #### (2) Report
 
-&emsp;The Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a) of this section.
+&emsp;The Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a).
 
 #### (e) Great Lakes tributary model
 
 #### (1) In general
 
-&emsp;In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a) of this section.
+&emsp;In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a).
 
 #### (2) Requirements for models
 
@@ -40,7 +40,7 @@ In developing strategies under subsection (a) of this section, the Secretary sha
 
 #### (3) Report
 
-&emsp;Not later than December 31, 2003, the Secretary shall transmit to Congress a report onthe Secretary's activities under this subsection.
+&emsp;Not later than December 31, 2003, the Secretary shall transmit to Congress a report on the Secretary's activities under this subsection.
 
 #### (f) "Great Lakes States" defined
 
@@ -54,13 +54,13 @@ In this section, the term "Great Lakes States" means the States of Illinois, Ind
 
 #### (2) Great Lakes tributary model
 
-&emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) of this section $5,000,000 for each of fiscal years 2002 through 2012.
+&emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) $5,000,000 for each of fiscal years 2002 through 2012.
 
 (Pub. L. 104–303, title V, §516, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–541, title V, §505, Dec. 11, 2000, 114 Stat. 2645; Pub. L. 110–114, title V, §5013, Nov. 8, 2007, 121 Stat. 1195.)
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

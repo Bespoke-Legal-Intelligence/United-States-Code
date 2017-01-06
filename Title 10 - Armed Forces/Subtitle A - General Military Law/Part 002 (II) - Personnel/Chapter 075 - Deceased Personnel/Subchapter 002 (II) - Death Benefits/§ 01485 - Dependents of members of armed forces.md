@@ -44,5 +44,5 @@ In subsection (c), the words "the authority of" and "the payments of" are omitte
 
 <b>1965</b>—Pub. L. 89–150 struck out "; death while outside United States" in section catchline.
 
-Subsec. (a). Pub. L. 89–150 substituted provision for payment of transportation expenses of remains of deceased dependent of a member of an armed force while the member is on active duty (other than for training), for former provision for payment of the expenses where the member of the armed force is on active duty at a place outside the United States and the dependent dies while residing with that member or while traveling to or from that place.
+Subsec. (a). Pub. L. 89–150 substituted provision for payment of transportation expenses of remains of deceased dependent of a member of an armed force while the member is on active duty (other than for training), for former provision for payment of the expenses wherethe member of the armed force is on active duty at a place outside the United States and the dependent dies while residing with that member or while traveling to or from that place.
 

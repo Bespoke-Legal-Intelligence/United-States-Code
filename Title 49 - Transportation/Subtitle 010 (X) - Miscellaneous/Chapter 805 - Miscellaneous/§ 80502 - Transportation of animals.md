@@ -14,7 +14,7 @@ Confinement.—(1) Except as provided in this section, a rail carrier, express c
 
 (b)
 
-Unloading, Feeding, Watering, and Rest.—Animals being transported shall be unloaded in a humane way into pens equipped for feeding, water, and rest for at least 5 consecutive hours. The owner or person having custody of the animals shall feed and water the animals. When the animals are not fed and watered by the owner or person having custody, the rail carrier, express carrier, or common carrier (except by air or water), the receiver, trustee, or lessee of one of those carriers, or the owner or master of a vessel transporting the animals—
+Unloading, Feeding, Watering, and Rest.—Animals being transported shall be unloaded in a humane way into pens equipped for feeding, water, and rest for at least 5 consecutive hours. The owner or person having custody of the animals shall feed and water the animals. When the animals are not fed and watered bythe owner or person having custody, the rail carrier, express carrier, or common carrier (except by air or water), the receiver, trustee, or lessee of one of those carriers, or the owner or master of a vessel transporting the animals—
 
 &emsp;(1) shall feed and water the animals at the reasonable expense of the owner or person having custody, except that the owner or shipper may provide food;
 
@@ -68,7 +68,7 @@ June 29, 1906, ch. 3594, §§1–4, 34 Stat. 607.
 
 45:74.
 
-In this section, the words "rail carrier, express carrier" are substituted for "railroad, express company, car company" for consistency in the revised title. Theword "air" is included in the exception because when the source provision was enacted air carriers did not exist. The words "a vehicle or vessel" are substituted for "cars, boats, or vessels of any description", and the word "vessel" is substituted for "steam, sailing, or other vessels", for consistency in the revised title and with other titles of the United States Code.
+In this section, the words "rail carrier, express carrier" are substituted for "railroad, express company, car company" for consistency in the revised title. The word "air" is included in the exception because when the source provision was enacted air carriers did not exist. The words "a vehicle or vessel" are substituted for "cars, boats, or vessels of any description", and the word "vessel" is substituted for "steam, sailing, or other vessels", for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(1), the words "transporting animals" are substituted for "whose road forms any part of a line of road over which cattle, sheep, swine, or other animals shall be conveyed" and "carrying or transporting cattle, sheep, swine, or other animals" to eliminate unnecessary words. The word "possession" is added for consistency in the revised title and with other titles of the Code. The words "for feeding, water, and rest" are added because of the restatement.
 

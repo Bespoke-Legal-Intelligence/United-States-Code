@@ -198,7 +198,7 @@ Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, an
 
 Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, as amended by Ex. Ord. No. 13666, Apr. 18, 2014, 79 F.R. 22591, provided:
 
-By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
+By virtue of the authority vested in me as President of the United States of America, and as Commander inChief of the Armed Forces, it is hereby ordered as follows:
 
 Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 

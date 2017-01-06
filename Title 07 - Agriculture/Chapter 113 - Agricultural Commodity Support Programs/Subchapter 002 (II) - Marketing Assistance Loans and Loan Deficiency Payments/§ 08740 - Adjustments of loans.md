@@ -2,7 +2,7 @@
 
 #### (a) Adjustment authority
 
-Subject to subsection (e), the Secretary may make appropriate adjustments in the loan rates for any loan commodity (other than cotton) fordifferences in grade, type, quality, location, and other factors.
+Subject to subsection (e), the Secretary may make appropriate adjustments in the loan rates for any loan commodity (other than cotton) for differences in grade, type, quality, location, and other factors.
 
 #### (b) Manner of adjustment
 
@@ -72,7 +72,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### (e) Rice
 
-The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
+The Secretary shall not make adjustments in the loan rates for long grain rice and mediumgrain rice, except for differences in grade and quality (including milling yields).
 
 (Pub. L. 110–234, title I, §1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, §4(a), title I, §1210, June 18, 2008, 122 Stat. 1664, 1693.)
 
@@ -87,6 +87,10 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L.
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

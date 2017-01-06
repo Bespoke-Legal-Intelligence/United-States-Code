@@ -2,7 +2,7 @@
 
 (a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
-(b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury hasbeen in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
+(b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
 (c)(1) In any case in which a plea of not guilty is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall commence within seventy days from the filing date (and making public) of the information or indictment, or from the date the defendant has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs. If a defendant consents in writing to be tried before a magistrate judge on a complaint, the trial shall commence within seventy days from the date of such consent.
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(H) delay reasonably attributable to any period, not to exceed thirty days, during which any proceeding concerning the defendant is actually under advisement by the court.
 
-&emsp;(2) Any period of delay during which prosecution is deferred by the attorney for theGovernment pursuant to written agreement with the defendant, with the approval of the court, for the purpose of allowing the defendant to demonstrate his good conduct.
+&emsp;(2) Any period of delay during which prosecution is deferred by the attorney for the Government pursuant to written agreement with the defendant, with the approval of the court, for the purpose of allowing the defendant to demonstrate his good conduct.
 
 &emsp;(3)(A) Any period of delay resulting from the absence or unavailability of the defendant or an essential witness.
 
@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 96–43, §3(a), designated existing provisions as par. (1)
 
 Subsec. (e). Pub. L. 96–43, §3(b), substituted "seventy days" for "sixty days" in three places and inserted provisions excluding the periods of delay enumerated in subsec. (h) of this section in computing the time limitations specified in this section and applying the sanctions of section 3162 of this title to this subsection.
 
-Subsec. (h)(1). Pub. L. 96–43, §4, added to the listing of excludable delays, delays resulting from the deferral of prosecution under section 2902 of title 28, delays caused by consideration by the court of proposed plea agreements, and delays resulting from the transportation of a defendant from another district or for the purpose of examination or hospitalization, and expanded provisions relating to exclusions of periods of delay resulting from hearings on pretrial motions, examinations and hearings relating to the mental or physical condition of defendant, or the removal of a defendant from another district under the Federal Rules of Criminal Procedure.
+Subsec. (h)(1). Pub. L. 96–43, §4, added to the listing of excludable delays, delays resulting from the deferral of prosecution under section 2902 of title 28, delays caused by consideration by the court of proposed plea agreements, and delays resulting from the transportation of a defendant from another district or for the purpose of examination or hospitalization, and expanded provisions relating to exclusions of periods ofdelay resulting from hearings on pretrial motions, examinations and hearings relating to the mental or physical condition of defendant, or the removal of a defendant from another district under the Federal Rules of Criminal Procedure.
 
 Subsec. (h)(8)(B)(ii). Pub. L. 96–43, §5(a), expanded provisions authorizing the granting of continuances based on the complexity or unusual nature of a case to include delays in preparation of all phases of a case, including pretrial motion preparation.
 

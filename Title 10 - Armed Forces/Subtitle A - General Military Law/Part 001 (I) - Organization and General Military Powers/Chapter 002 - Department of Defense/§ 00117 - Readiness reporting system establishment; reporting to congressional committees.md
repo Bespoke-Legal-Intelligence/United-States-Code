@@ -36,7 +36,7 @@ Capabilities.—The readiness reporting system shall measure such factors relati
 
 &emsp;(6) Measure, on a monthly basis, the level of current risk based upon the readiness reporting system relative to the capability of forces to carry out their wartime missions.
 
-&emsp;(7) Measure, on a quarterly basis, the extent to which units of the armed forces removeserviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
+&emsp;(7) Measure, on a quarterly basis, the extent to which units of the armed forces remove serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
 
 &emsp;(8) Measure, on an annual basis, the capability of operational contract support to support current and anticipated wartime missions of the armed forces.
 
@@ -48,7 +48,7 @@ Quarterly and Monthly Joint Readiness Reviews.—(1) The Chairman of the Joint C
 
 &emsp;(B) on a monthly basis, review any changes that have been reported in readiness since the previous joint readiness review.
 
-(2) The Chairman shall incorporate into both the joint readiness review required under paragraph (1)(A) and the monthly review required under paragraph (1)(B) the current information derived from the readiness reporting system and shall assess the capability of the armed forces to execute their wartime missions based upon their posture at the time the review is conducted. The Chairman shall submit to the Secretary of Defense the results of each review under paragraph (1), including the deficiencies in readiness identified during that review.
+(2) The Chairman shall incorporate into both the joint readiness review required under paragraph (1)(A) and the monthly review required under paragraph (1)(B) the current information derived from the readiness reporting system andshall assess the capability of the armed forces to execute their wartime missions based upon their posture at the time the review is conducted. The Chairman shall submit to the Secretary of Defense the results of each review under paragraph (1), including the deficiencies in readiness identified during that review.
 
 (e)
 
@@ -79,6 +79,10 @@ A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted "an annual" for "a quarterly".
 
 Subsec. (e). Pub. L. 106–65, §1067(1), substituted "and the Committee on Armed Services" for "and the Committee on National Security".
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of quarterly report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Defense Materiel Readiness Board
 

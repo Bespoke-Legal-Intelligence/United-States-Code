@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) has experience operating programs that fulfill the purposes of this part; and
 
-&emsp;&emsp;&emsp;(ii) is granted an official charter or sanction, as described in the definition of a tribal organization under section 450b of title 25, from at least one Alaska Native tribe or Alaska Native organization to carry out programs that meet the purposes of this part.
+&emsp;&emsp;&emsp;(ii) is granted an official charter or sanction, as described in the definition of a tribal organization under section 5304 of title 25, from at least one Alaska Native tribe or Alaska Native organization to carry out programs that meet the purposes of this part.
 
 #### (2) Mandatory activities
 

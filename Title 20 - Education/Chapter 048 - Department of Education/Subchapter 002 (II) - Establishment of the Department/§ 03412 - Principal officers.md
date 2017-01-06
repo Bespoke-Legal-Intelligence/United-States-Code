@@ -64,7 +64,7 @@ Each officer of the Department established under this section shall report direc
 
 #### (h) Coordination of literacy related functions by Assistant Secretary for Career, Technical, and Adult Education
 
-The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
+The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiativesin the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
 
 #### (i) Liaison for Community and Junior Colleges
 
@@ -96,7 +96,7 @@ The Assistant Secretary for Career, Technical, and Adult Education, in addition 
 
 The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Pub. L. 102–103, title II, §203, Aug. 17, 1991, 105 Stat. 499, provided that:
 
 "(a)
 
-In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
+In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay periodthat begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
 
 "(b)
 

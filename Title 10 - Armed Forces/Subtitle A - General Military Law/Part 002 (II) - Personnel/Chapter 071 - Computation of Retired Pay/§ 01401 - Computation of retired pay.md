@@ -216,7 +216,7 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 
@@ -254,7 +254,7 @@ Pub. L. 111–118, div. A, title VIII, §8055, Dec. 19, 2009, 123 Stat. 3441.
 
 #### Recomputation of Retired Pay for Certain Recently Retired Officers
 
-Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: "In the case of a commissioned officer of the uniformed services who retired during the period beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay if the provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999."
+Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: "In the case of a commissioned officer of the uniformed services who retired during theperiod beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay if the provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999."
 
 #### Six-Month Rounding Rule
 
@@ -292,7 +292,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 S
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
-Pub. L. 90–207, §5, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstanding any other provision of law, amember of an armed force who is entitled to pay and allowances under any of the following provisions of law on September 30, 1967, shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 4.5 per centum in the total of his pay and allowances:
+Pub. L. 90–207, §5, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstanding any other provision of law, a member of an armed force who is entitled to pay and allowances under any of the following provisions of law on September 30, 1967, shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 4.5 per centum in the total of his pay and allowances:
 
 &emsp;"(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59).
 
@@ -326,7 +326,7 @@ Pub. L. 89–132, §7, Aug. 21, 1965, 79 Stat. 547, provided that: "Notwithstand
 
 Pub. L. 85–422, §4, May 20, 1958, 72 Stat. 128, as amended by Pub. L. 85–855, §1(a), Aug. 28, 1958, 72 Stat. 1104, provided that:
 
-"(a) Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day before the effective date of this Act \[June 1, 1958\], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
+"(a) Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day beforethe effective date of this Act \[June 1, 1958\], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
 
 "(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
 

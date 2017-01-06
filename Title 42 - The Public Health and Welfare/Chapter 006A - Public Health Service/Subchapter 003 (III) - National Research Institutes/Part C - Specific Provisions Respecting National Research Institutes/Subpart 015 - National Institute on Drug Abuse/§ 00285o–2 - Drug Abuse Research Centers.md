@@ -32,7 +32,7 @@ The Director of the Institute shall, under such conditions as the Secretary may 
 
 #### (2) Use of funds
 
-&emsp;Amounts made available under a grant or cooperative agreement under paragraph (1) for drug abuse and addiction may be used for research and clinical trials relating to—
+&emsp;Amounts made available under a grant or cooperative agreement under paragraph (1) fordrug abuse and addiction may be used for research and clinical trials relating to—
 
 &emsp;&emsp;(A) the effects of drug abuse on the human body, including the brain;
 

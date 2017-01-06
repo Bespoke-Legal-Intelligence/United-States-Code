@@ -8,7 +8,7 @@
 
 (b) Guardians ad litem appointed by the verifying officer under section 4100 of this title to represent offenders who are financially unable to provide for compensation and travel expenses of the guardian ad litem shall be compensated and reimbursed under subsection (a)(1) of this section.
 
-(c) The offender shall have the right to advice of counsel in proceedings before the United States Parole Commission under section 4106A of this title and in an appeal from a determination of such Commission under such section. If the offender is financially unable to obtain counsel, counsel for such proceedings and appeal shall be appointed under section 3006A of this title.
+(c) The offender shall have the right to advice of counsel in proceedings before the United States Parole Commission under section 4106Aof this title and in an appeal from a determination of such Commission under such section. If the offender is financially unable to obtain counsel, counsel for such proceedings and appeal shall be appointed under section 3006A of this title.
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1218; amended Pub. L. 97–258, §3(e)(2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 100–690, title VII, §7101(d), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §3598, Nov. 29, 1990, 104 Stat. 4931.)
 

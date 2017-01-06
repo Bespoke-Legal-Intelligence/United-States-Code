@@ -38,7 +38,7 @@ The Director may execute a contract for program oversight and fiscal management 
 
 #### (2) Discretionary duties
 
-&emsp;At the request of the Director, the organization under contract under subsection (a) mayassist the Director in evaluating grant applications.
+&emsp;At the request of the Director, the organization under contract under subsection (a) may assist the Director in evaluating grant applications.
 
 #### (c) Reports to Congress
 

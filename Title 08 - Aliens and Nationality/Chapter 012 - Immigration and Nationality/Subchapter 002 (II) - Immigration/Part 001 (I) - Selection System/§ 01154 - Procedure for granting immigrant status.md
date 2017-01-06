@@ -2,7 +2,7 @@
 
 #### (a) Petitioning procedure
 
-(1)(A)(i) Except as provided in clause (viii), any citizen of the United States claiming that an alien is entitled to classification by reason of a relationship described in paragraph (1), (3), or (4) of section 1153(a) of this title or to an immediate relative status under section 1151(b)(2)(A)(i) of this title may file a petition with the Attorney General for such classification.
+(1)(A)(i) Except as provided in clause (viii), any citizen of the United States claiming that an alien is entitled to classification by reason of a relationship described in paragraph (1), (3), or (4) of section 1153(a) of this title or to an immediate relative status under section1151(b)(2)(A)(i) of this title may file a petition with the Attorney General for such classification.
 
 (ii) An alien spouse described in the second sentence of section 1151(b)(2)(A)(i) of this title also may file a petition with the Attorney General under this subparagraph for classification of the alien (and the alien's children) under such section.
 
@@ -116,7 +116,7 @@
 
 (C) Notwithstanding section 1101(f) of this title, an act or conviction that is waivable with respect to the petitioner for purposes of a determination of the petitioner's admissibility under section 1182(a) of this title or deportability under section 1227(a) of this title shall not bar the Attorney General from finding the petitioner to be of good moral character under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty.
 
-(D)(i)(I) Any child who attains 21 years of age who has filed a petition under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii) that was filed or approved before the date on which the child attained 21 years of age shall be considered (if the child has not been admitted or approved for lawful permanent residence by the date the child attained 21 years of age) a petitioner for preference status under paragraph (1), (2), or (3) of section 1153(a) of this title, whichever paragraph is applicable, with the same priority date assigned to the self-petition filed under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii). No new petition shall be required to be filed.
+(D)(i)(I) Any child who attains 21 years of age who has filed a petition under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii) that was filed or approved before the date on which the child attained 21 years of age shall be considered (if the child has not been admitted or approved for lawful permanent residence by the date the child attained 21 years of age) a petitioner for preference status under paragraph (1),\(2), or (3) of section 1153(a) of this title, whichever paragraph is applicable, with the same priority date assigned to the self-petition filed under clause (iv) of subsection (a)(1)(A) or subsection (a)(1)(B)(iii). No new petition shall be required to be filed.
 
 (II) Any individual described in subclause (I) is eligible for deferred action and work authorization.
 
@@ -162,7 +162,7 @@
 
 (L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
-(2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien, by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
+(2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien,by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
 
 &emsp;(i) a period of 5 years has elapsed after the date the alien acquired the status of an alien lawfully admitted for permanent residence, or
 
@@ -170,7 +170,7 @@
 
 > In this subparagraph, the term "spousal second preference petition" refers to a petition, seeking preference status under section 1153(a)(2) of this title, for an alien as a spouse of an alien lawfully admitted for permanent residence.
 
-(B) Subparagraph (A) shall not apply to a petition filed for the classification of the spouse ofan alien if the prior marriage of the alien was terminated by the death of his or her spouse.
+(B) Subparagraph (A) shall not apply to a petition filed for the classification of the spouse of an alien if the prior marriage of the alien was terminated by the death of his or her spouse.
 
 #### (b) Investigation; consultation; approval; authorization to grant preference status
 
@@ -212,7 +212,7 @@ Nothing in this section shall be construed to entitle an immigrant, in behalf of
 
 &emsp;(i) be signed in the presence of an immigration officer or consular officer by an individual (hereinafter in this paragraph referred to as the "sponsor") who is twenty-one years of age or older, is of good moral character, and is a citizen of the United States or alien lawfully admitted for permanent residence, and
 
-&emsp;(ii) provide that the sponsor agrees (I) in the case of an alien under eighteen years of age, toassume legal custody for the alien after the alien's departure to the United States and until the alien becomes eighteen years of age, in accordance with the laws of the State where the alien and the sponsor will reside, and (II) to furnish, during the five-year period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence, or during the period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence and ending on the date on which the alien becomes twenty-one years of age, whichever period is longer, such financial support as is necessary to maintain the family in the United States of which the alien is a member at a level equal to at least 125 per centum of the current official poverty line (as established by the Director of the Office of Management and Budget, under section 9902(2) of title 42 and as revised by the Secretary of Health and Human Services under the second and third sentences of such section) for a family of the same size as the size of the alien's family.
+&emsp;(ii) provide that the sponsor agrees (I) in the case of an alien under eighteen years of age, to assume legal custody for the alien after the alien's departure to the United States and until the alien becomes eighteen years of age, in accordance with the laws of the State where the alien and the sponsor will reside, and (II) to furnish, during the five-year period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence, or during the period beginning on the date of the alien's acquiring the status of an alien lawfully admitted for permanent residence and ending on the date on which the alien becomes twenty-one years of age, whichever period is longer, such financial support as is necessary to maintain the family in the United States of which the alien is a member at a level equal to at least 125 per centum of the current official poverty line (as established by the Director of the Office of Management and Budget, under section 9902(2) of title 42 and as revised by the Secretary of Health and Human Services under the second and third sentences of such section) for a family of the same size as the size of the alien's family.
 
 (B) A guarantee of legal custody and financial responsibility described in subparagraph (A) may be enforced with respect to an alien against his sponsor in a civil suit brought by the Attorney General in the United States district court for the district in which the sponsor resides, except that a sponsor or his estate shall not be liable under such a guarantee if the sponsor dies or is adjudicated a bankrupt under title 11.
 
@@ -250,7 +250,7 @@ A petition under subsection (a)(1)(D) <sup>4</sup> for an individual whose appl
 
 #### (2) Exception
 
-&emsp;Paragraph (1) does not apply if the son or daughter files with the Attorney General a written statement that he or she elects not to have such conversion occur (or if it has occurred, to have such conversion revoked). Where such an election has been made, any determination with respect to the son or daughter's eligibility for admission as a family-sponsored immigrant shall be made as if such naturalization had not taken place.
+&emsp;Paragraph (1) does not apply if the son or daughter files with the Attorney General awritten statement that he or she elects not to have such conversion occur (or if it has occurred, to have such conversion revoked). Where such an election has been made, any determination with respect to the son or daughter's eligibility for admission as a family-sponsored immigrant shall be made as if such naturalization had not taken place.
 
 #### (3) Priority date
 
@@ -298,7 +298,7 @@ Subsection (a)(4)(D) and subsection (a)(1)(D), referred to in subsecs. (i)(1) an
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(I)(iv). Pub. L. 113–6 temporarily added cl. (iv). Text read as follows: "Each petition to compete for consideration for a visa under section 1153(c) of this title shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts." See Effective and Termination Dates of 2013 Amendment note below.
+<b>2013</b>—Subsec. (a)(1)(I)(iv). Pub. L. 113–6 temporarily added cl. (iv). Text read as follows: "Each petition to compete for consideration for a visa under section 1153(c) of this title shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts."See Effective and Termination Dates of 2013 Amendment note below.
 
 Subsec. (l)(2)(F), (G). Pub. L. 113–4 added subpar. (F) and redesignated former subpar. (F) as (G).
 
@@ -378,7 +378,7 @@ Subsec. (i). Pub. L. 104–208, §624(b), added subsec. (i).
 
 Subsec. (a)(1)(A). Pub. L. 103–416 in second sentence inserted "spouse" after "alien" and "of the alien (and the alien's children)" after "for classification".
 
-Subsec. (a)(2). Pub. L. 103–322, §40701(b)(1), in subpar. (A), substituted "for the classification of the spouse of an alien if the alien," for "filed by an alien who," in introductory provisions and in subpar. (B), substituted "for the classification of the spouse of an alien if the prior marriage of the alien" for "by an alien whose prior marriage".
+Subsec. (a)(2). Pub. L. 103–322, §40701(b)(1), in subpar. (A), substituted "for the classification of the spouse of an alien if the alien," for "filed by an alien who," in introductory provisions and in subpar. (B), substituted "for the classification of the spouse of an alien if theprior marriage of the alien" for "by an alien whose prior marriage".
 
 Subsec. (h). Pub. L. 103–322, §40701(c), added subsec. (h).
 
@@ -394,7 +394,7 @@ Subsec. (f)(4)(A)(ii)(II). Pub. L. 102–232, §309(b)(5), substituted "the seco
 
 Subsec. (g). Pub. L. 102–232, §308(b), made technical correction to directory language of Pub. L. 101–649, §702(b). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–649, §162(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Any citizen of the United States claiming thatan alien is entitled to a preference status by reason of a relationship described in paragraph (1), (4), or (5) of section 1153(a) of this title, or to an immediate relative status under section 1151(b) of this title, or any alien lawfully admitted for permanent residence claiming that an alien is entitled to a preference status by reason of the relationship described in section 1153(a)(2) of this title, or any alien desiring to be classified as a preference immigrant under section 1153(a)(3) of this title (or any person on behalf of such an alien), or any person desiring and intending to employ within the United States an alien entitled to classification as a preference immigrant under section 1153(a)(6) of this title, may file a petition with the Attorney General for such classification. The petition shall be in such form as the Attorney General may by regulations prescribe and shall contain such information and be supported by such documentary evidence as the Attorney General may require. The petition shall be made under oath administered by any individual having authority to administer oaths, if executed in the United States, but, if executed outside the United States, administered by a consular officer or an immigration officer."
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–649, §162(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Any citizen of the United States claiming that an alien is entitled to a preference status by reason of a relationship described in paragraph (1), (4), or (5) of section 1153(a) of this title, or to an immediate relative status under section 1151(b) of this title, or any alien lawfully admitted for permanent residence claiming that an alien is entitled to a preference status by reason of the relationship described in section 1153(a)(2) of this title, or any alien desiring to be classified as a preference immigrant under section 1153(a)(3) of this title (or any person on behalf of such an alien), or any person desiring and intending to employ within the United States an alien entitled to classification as a preference immigrant under section 1153(a)(6) of this title, may file a petition with the Attorney General for such classification. The petition shall be in such form as the Attorney General may by regulations prescribe and shall contain such information and be supported by such documentary evidence as the Attorney General may require. The petition shall be made under oath administered by any individual having authority to administer oaths, if executed in the United States, but, if executed outside the United States, administered by a consular officer or an immigration officer."
 
 Subsec. (b). Pub. L. 101–649, §162(b)(2), substituted reference to section 1153(b)(2) or 1153(b)(3) of this title for reference to section 1153(a)(3) or (6) of this title, and reference to preference under section 1153(a) or (b) of this title for reference to a preference status under section 1153(a) of this title.
 
@@ -462,7 +462,7 @@ Amendment by Pub. L. 106–279 effective Apr. 1, 2008, see section 505(a)(2), (b
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(e)(1)(A), (f)(2)(A) of Pub. L. 104–208 effective, with certain transitional provisions,on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(e)(1)(A), (f)(2)(A) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1994 Amendments
 

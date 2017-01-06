@@ -32,7 +32,7 @@ Potential Trainees.—In designing the education and training programs under thi
 
 (e)
 
-Consultation.—In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
+Consultation.—In establishing education and training programs under this section, theSecretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 
 (Added Pub. L. 107–287, §3(a)(1), Nov. 7, 2002, 116 Stat. 2027.)
 

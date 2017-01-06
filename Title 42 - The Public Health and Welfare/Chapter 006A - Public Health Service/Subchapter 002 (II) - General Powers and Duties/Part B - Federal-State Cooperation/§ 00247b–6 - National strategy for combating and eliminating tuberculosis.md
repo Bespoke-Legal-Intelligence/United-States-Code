@@ -42,17 +42,17 @@ With respect to the prevention, treatment, control, and elimination of tuberculo
 
 #### (c) Cooperation with providers of primary health services
 
-The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254b, or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
+The Secretary may make a grant under subsection (a) or (b) only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254b, or 256a of this title <sup>1</sup> or under subchapter III–A or XVII.
 
 #### (d) Application for grant
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under subsection (a) or (b) of this section only if an application for the grant is submitted to the Secretary and the application, subject to paragraph (2), is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
+&emsp;The Secretary may make a grant under subsection (a) or (b) only if an application for the grant is submitted to the Secretary and the application, subject to paragraph (2), is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
 
 #### (2) Plan for prevention, control, and elimination
 
-&emsp;The Secretary may make a grant under subsection (a) of this section only if the application under paragraph (1) contains a plan regarding the prevention, control, and elimination of tuberculosis in the geographic area with respect to which the grant is sought.
+&emsp;The Secretary may make a grant under subsection (a) only if the application under paragraph (1) contains a plan regarding the prevention, control, and elimination of tuberculosis in the geographic area with respect to which the grant is sought.
 
 #### (3) Determination of amount of nonfederal contributions
 
@@ -68,7 +68,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) In general
 
-&emsp;Upon the request of a grantee under subsection (a) or (b) of this section, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the grantee in carrying out the subsection involved and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
+&emsp;Upon the request of a grantee under subsection (a) or (b), the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the grantee in carrying out the subsection involved and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
 
 #### (2) Corresponding reduction in payments
 
@@ -108,7 +108,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 &emsp;&emsp;&emsp;(iv) members from the general public who are knowledgeable with respect to tuberculosis elimination including individuals who have or have had tuberculosis; and
 
-&emsp;&emsp;&emsp;(v) scientists, physicians, laboratorians, and other health professionals who reside in a foreign country with a substantial incidence or prevalence of tuberculosis, and who represent the specialties and disciplines relevant to the research under consideration.
+&emsp;&emsp;&emsp;(v) scientists, physicians, laboratorians, and other health professionals who residein a foreign country with a substantial incidence or prevalence of tuberculosis, and who represent the specialties and disciplines relevant to the research under consideration.
 
 #### (C) Certain components of plan
 

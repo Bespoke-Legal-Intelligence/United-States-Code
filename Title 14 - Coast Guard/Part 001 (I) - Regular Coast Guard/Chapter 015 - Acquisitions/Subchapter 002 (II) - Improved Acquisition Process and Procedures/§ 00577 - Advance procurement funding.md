@@ -28,7 +28,7 @@ Pub. L. 113–6, div. D, title V, §557, Mar. 26, 2013, 127 Stat. 377, provided 
 
 "(a) Notwithstanding Office of Management and Budget Circular A–11, funds made available in fiscal year 2013, or any fiscal year thereafter, under Department of Homeland Security, Coast Guard, 'Acquisition, Construction, and Improvements' for—
 
-&emsp;"(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contractaward notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and
+&emsp;"(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and
 
 &emsp;"(2) production of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for outfitting, post-delivery activities, and spare or repair parts.
 

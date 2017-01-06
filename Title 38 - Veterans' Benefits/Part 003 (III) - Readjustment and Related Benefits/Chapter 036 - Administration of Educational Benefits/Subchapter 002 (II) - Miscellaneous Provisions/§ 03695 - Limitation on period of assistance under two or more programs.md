@@ -30,7 +30,7 @@ Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a
 
 The Veterans' Readjustment Assistance Act of 1952, referred to in subsec. (a)(2), is act July 16, 1952, ch. 875, 66 Stat. 663, as amended. Title II of the Veterans' Readjustment Assistance Act of 1952 was classified generally to subchapter II (§911 et seq.) of chapter 14 of former Title 38, which was repealed and the provisions thereof reenacted as chapter 33 (§1601 et seq.) of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. Chapter 33 of this title was repealed by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23. See chapter 32 (§3201 et seq.) of this title.
 
-The War Orphans' Educational Assistance Act of 1956, referred to in subsec. (a)(3), is act June 29, 1956, ch. 476, 70 Stat. 411, as amended, which was classified generally to chapter 15 (§1031 et seq.) of former Title 38, which was repealed and the provisions thereof reenacted aschapter 35 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The War Orphans' Educational Assistance Act of 1956, referred to in subsec. (a)(3), is act June 29, 1956, ch. 476, 70 Stat. 411, as amended, which was classified generally to chapter 15 (§1031 et seq.) of former Title 38, which was repealed and the provisions thereof reenacted as chapter 35 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(6), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
@@ -44,7 +44,7 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 Subsec. (c). Pub. L. 112–154, §401(a)(2), added subsec. (c).
 
-<b>2008</b>—Subsec. (a)(4). Pub. L. 110–252 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33."
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–252 amended par. (4) generally. Prior to amendment, par. (4) read as follows:"Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33."
 
 <b>2004</b>—Subsec. (a)(5). Pub. L. 108–375 inserted "1607," after "1606,".
 

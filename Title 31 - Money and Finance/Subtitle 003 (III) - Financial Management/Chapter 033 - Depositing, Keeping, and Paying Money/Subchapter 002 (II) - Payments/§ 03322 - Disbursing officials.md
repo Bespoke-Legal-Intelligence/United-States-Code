@@ -18,7 +18,7 @@
 
 (c) A disbursing official is not liable for an overpayment provided under a United States Government bill of lading or transportation request when the overpayment is caused by the—
 
-&emsp;(1) use of improper transportation rates or classifications if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
+&emsp;(1) use of improper transportation rates or classifications if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular modeor modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government; or
 
 &emsp;(2) failure to deduct the proper amount under—
 

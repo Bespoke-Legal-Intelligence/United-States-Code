@@ -4,7 +4,7 @@
 
 (1) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall jointly develop and implement a program for the long-term collection, assimilation, and analysis of scientific data designed to measure the environmental quality of the Nation's coastal ecosystems pursuant to this section. Monitoring conducted pursuant to this section shall be coordinated with relevant monitoring programs conducted by the Administrator, Under Secretary, and other Federal, State, and local authorities.
 
-(2) Primary leadership for the monitoring program activities conducted by the Environmental Protection Agency pursuant to this section shallbe located at the Environmental Research Laboratory in Narragansett, Rhode Island.
+(2) Primary leadership for the monitoring program activities conducted by the Environmental Protection Agency pursuant to this section shall be located at the Environmental Research Laboratory in Narragansett, Rhode Island.
 
 #### (b) Program elements
 
@@ -26,7 +26,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;(5) analysis of expected short-term and long-term trends in the environmental quality of the Nation's coastal ecosystems; and
 
-&emsp;(6) the development and implementation of intensive coastal water quality monitoring programs in accordance with subsection (d) of this section.
+&emsp;(6) the development and implementation of intensive coastal water quality monitoring programs in accordance with subsection (d).
 
 #### (c) Monitoring guidelines and protocols
 
@@ -104,7 +104,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(C) identify the water quality and biological parameters of the monitoring program and their relationship to these goals and objectives;
 
-&emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
+&emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c);
 
 &emsp;&emsp;(E) survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in or on the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
 
@@ -122,7 +122,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;&emsp;(v) the changes in Federal, State, and local monitoring programs necessary to implement the program;
 
-&emsp;&emsp;(H) estimate the costs to Federal and State governments, and other participants, of implementing the monitoring program; and
+&emsp;&emsp;(H) estimate the costs to Federal and State governments, and other participants,of implementing the monitoring program; and
 
 &emsp;&emsp;(I) describe the methods to assess periodically the success of the monitoring program in meeting its goals and objectives, and the manner in which the program may be modified from time-to-time.
 

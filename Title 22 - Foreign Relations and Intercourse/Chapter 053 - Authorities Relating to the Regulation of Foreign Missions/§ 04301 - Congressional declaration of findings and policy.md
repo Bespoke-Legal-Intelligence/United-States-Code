@@ -12,7 +12,7 @@ The Congress declares that it is the policy of the United States to support the 
 
 The treatment to be accorded to a foreign mission in the United States shall be determined by the Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.
 
-(Aug. 1, 1956, ch. 841, title II, §201, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(a), Aug. 16, 1985, 99 Stat. 418.)
+(Aug. 1, 1956, ch. 841, title II, §201, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat.283; amended Pub. L. 99–93, title I, §127(a), Aug. 16, 1985, 99 Stat. 418.)
 
 #### Amendments
 
@@ -20,7 +20,7 @@ The treatment to be accorded to a foreign mission in the United States shall be 
 
 #### Effective Date
 
-Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: "The amendments made by this title\[see Short Title note below\] shall take effect on October 1, 1982."
+Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: "The amendments made by this title \[see Short Title note below\] shall take effect on October 1, 1982."
 
 #### Short Title of 1983 Amendment
 

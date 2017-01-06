@@ -14,7 +14,7 @@ Computation of High-Three Average for Members Entitled to Retired or Retainer Pa
 
 &emsp;(1)
 
-General rule.—The high-three average of a member entitled to retired or retainer pay under any provision of law other than section1204 or 1205 or section 12731 of this title is the amount equal to—
+General rule.—The high-three average of a member entitled to retired or retainer pay under any provision of law other than section 1204 or 1205 or section 12731 of this title is the amount equal to—
 
 &emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled for the 36 months (whether or not consecutive) out of all the months of active service of the member for which the monthly basic pay to which the member was entitled was the highest, divided by
 
@@ -62,7 +62,7 @@ Special rule for short-term disability retirees.—In the case of a member who i
 
 &emsp;(4)
 
-High-36 months.—The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
+High-36 months.—The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of allthe months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
 
 (e)
 

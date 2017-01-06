@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to loans made by a school under this subpart after June 30, 1986, each school, in order to carry out the provisions of sections 292q and 292r of this title, shall, at any time suchschool makes such a loan to a student under this subpart, provide thorough and adequate loan information on loans made under this subpart to the student. The loan information required to be provided to the student by this subsection shall include—
+With respect to loans made by a school under this subpart after June 30, 1986, each school, in order to carry out the provisions of sections 292q and 292r of this title, shall, at any time such school makes such a loan to a student under this subpart, provide thorough and adequate loan information on loans made under this subpart to the student. The loan information required to be provided to the student by this subsection shall include—
 
 &emsp;(1) the yearly and cumulative maximum amounts that may be borrowed by the student;
 
@@ -16,7 +16,7 @@ With respect to loans made by a school under this subpart after June 30, 1986, e
 
 &emsp;(6) any options the borrower may have for deferral, cancellation, prepayment, consolidation, or other refinancing of the loan;
 
-&emsp;(7) a definition of default on the loan and a specification of the consequences which will result to the borrower if the borrower defaults, including a description of any arrangements which may be made with credit bureau organizations;
+&emsp;(7) a definition of default on the loan and a specification of the consequences which will result to the borrower if the borrower defaults, including a description of any arrangementswhich may be made with credit bureau organizations;
 
 &emsp;(8) to the extent practicable, the effect of accepting the loan on the eligibility of the borrower for other forms of student assistance; and
 

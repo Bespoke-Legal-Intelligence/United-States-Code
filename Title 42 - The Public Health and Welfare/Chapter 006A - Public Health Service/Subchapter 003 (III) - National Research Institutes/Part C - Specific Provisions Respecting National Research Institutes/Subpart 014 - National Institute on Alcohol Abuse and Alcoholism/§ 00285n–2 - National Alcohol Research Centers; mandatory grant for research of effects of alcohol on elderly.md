@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 96–180, §16(c), authorized appropriation of $8,000,000 a
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L.102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) a military department;
 
-&emsp;&emsp;(C) an establishment (as such term is defined in section 11(2) of the Inspector General Act of 1978) which is not an executive department;
+&emsp;&emsp;(C) an establishment (as such term is defined in section 11(2) <sup>1</sup> of the Inspector General Act of 1978) which is not an executive department;
 
 &emsp;&emsp;(D) the United States Postal Service;
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the head of an authority; or
 
-&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
+&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgatedby the head of the authority, to act on behalf of the head of the authority;
 
 &emsp;(3) "claim" means any request, demand, or submission—
 
@@ -132,7 +132,7 @@
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
 
@@ -181,4 +181,6 @@ Purposes.—The purposes of this subtitle \[see Short Title note above\] are—
 &emsp;"(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims and statements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
 
 &emsp;"(2) to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

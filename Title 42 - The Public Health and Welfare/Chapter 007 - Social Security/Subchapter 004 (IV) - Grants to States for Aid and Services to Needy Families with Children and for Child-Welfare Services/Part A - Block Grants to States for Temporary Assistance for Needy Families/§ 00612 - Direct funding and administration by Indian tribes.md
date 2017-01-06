@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
 
 #### (ii) Use of State submitted data
 
@@ -22,7 +22,7 @@
 
 #### (II) Disagreement with determination
 
-&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
+&emsp;&emsp;&emsp;&emsp;If an Indian tribe or tribal organization disagrees with State submitted datadescribed under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.
 
 #### (2) Grants for Indian tribes that received jobs funds
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ii) The Indian tribe is operating a program under a tribal family assistance plan approved by the Secretary of Health and Human Services, a program described in paragraph (2)(C), or an employment program funded through other sources under which substantial services are provided to recipients of assistance under a program funded under this part.
 
-&emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of theamount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
+&emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of the amount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
 
 &emsp;&emsp;&emsp;(iv) The Indian tribe has agreed to negotiate in good faith with the Secretary of Health and Human Services with respect to the substance and funding of any evaluation under section 613(j) of this title, and to cooperate with the conduct of any such evaluation.
 
@@ -88,9 +88,9 @@
 
 &emsp;&emsp;(D) provides that a family receiving assistance under the plan may not receive duplicative assistance from other State or tribal programs funded under this part;
 
-&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas of the Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
+&emsp;&emsp;(E) identifies the employment opportunities in or near the service area or areas ofthe Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
 
-&emsp;&emsp;(F) applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c(f)(1)), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
+&emsp;&emsp;(F) applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c(f)(1)),<sup>1</sup> relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 
 #### (2) Approval
 
@@ -120,7 +120,7 @@ Nothing in this section shall be construed to limit the ability of the Secretary
 
 &emsp;(1) generally accepted accounting principles; and
 
-&emsp;(2) the requirements of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;(2) the requirements of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 #### (f) Eligibility for Federal loans
 
@@ -140,7 +140,7 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph\(2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
+&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
 
 #### (2) Waiver
 
@@ -150,11 +150,11 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### References in Text
 
-Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+Part F, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 682 of this title, referred to in subsec. (a)(2)(A), (B), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b)(1)(F) and (e)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Section 5 of the Act was classified to section 450c of Title 25 prior to editorial reclassification as section 5305 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -209,4 +209,6 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

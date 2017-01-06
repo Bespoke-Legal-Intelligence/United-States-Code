@@ -1,0 +1,6 @@
+### §700. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §10, 68 Stat. 726, which related to transfer of property to minors, persons non compos mentis, and other members needing assistance, was omitted from the Code as being of special and not general application.
+

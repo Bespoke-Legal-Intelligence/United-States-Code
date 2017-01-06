@@ -90,9 +90,9 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–378 struck out "(not to exceed 517)" after "positions" in first sentence and amended second sentence generally, substituting provisions authorizing establishment of positions by Director and by agency action for provisions specifying that only Director may establish positions.
 
-<b>1986</b>—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted "subsection (a) of this section" for "paragraph (1) of this subsection" wherever appearing in subsecs. (b) and (c) as redesignated.
+<b>1986</b>—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted "subsection (a) of this section" for"paragraph (1) of this subsection" wherever appearing in subsecs. (b) and (c) as redesignated.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professionalpositions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
 
 Subsec. (b). Pub. L. 95–454, §414(a)(2)(B), (C), struck out subsec. (b), redesignated subsec. (c) as (b), and substituted in subsec. (b), as redesignated, "to fix under section 5361 of this title the pay for positions established under this section" for "to establish and fix the pay of positions under this section and section 5361 of this title".
 
@@ -122,75 +122,7 @@ Pub. L. 114–113, div. B, title II, §206, Dec. 18, 2015, 129 Stat. 2312, provi
 
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, §1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vi), title XI, §1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973; Pub. L. 113–291, div. A, title XI, §1104, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 114–92, div. A, title X, §§1075(b), 1081(b)(5), Nov. 25, 2015, 129 Stat. 997, 1001, provided that:
-
-"(a)
-
-Program Authorized.—During the program period specified in subsection (e)(1), the Secretary of Defense may carry out a program of experimental use of the special personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects administered by the Defense Advanced Research Projects Agency and research and development projects administered by laboratories designated for the program by the Secretary from among the laboratories of each of the military departments.
-
-"(b)
-
-Special Personnel Management Authority.—Under the program, the Secretary may—
-
-&emsp;"(1) without regard to any provision of title 5, United States Code, governing the appointment of employees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
-
-&emsp;&emsp;"(A) not more than 100 scientific and engineering positions in the Defense Advanced Research Projects Agency;
-
-&emsp;&emsp;"(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services; and
-
-&emsp;&emsp;"(C) not more than a total of 10 scientific and engineering positions in the Office of the Director of Operational Test and Evaluation;
-
-&emsp;"(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5, United States Code, as increased by locality-based comparability payments under section 5304 of such title, notwithstanding any provision of such title governing the rates of pay or classification of employees in the executive branch; and
-
-&emsp;"(3) pay any employee appointed under paragraph (1) payments in addition to basic pay within the limit applicable to the employee under subsection (d).
-
-"(c)
-
-Limitation on Term of Appointment.—(1) Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed 4 years.
-
-"(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Department of Defense.
-
-"(d)
-
-Limitations on Additional Payments.—(1) Subject to paragraph (3), the total amount of additional payments paid to an employee under subsection (b)(3) for any calendar year may not exceed the lesser of the following amounts:
-
-&emsp;"(A) $50,000 in calendar year 2010, which may be adjusted annually thereafter by the Secretary, with a percentage increase equal to one-half of 1 percentage point less than the percentage by which the Employment Cost Index, published quarterly by the Bureau of Labor Statistics, for the base quarter of the year before the preceding calendar year exceeds the Employment Cost Index for the base quarter of the second year before the preceding calendar year.
-
-&emsp;"(B) The amount equal to 50 percent of the employee's annual rate of basic pay.
-
-"(2) In paragraph (1), the term 'base quarter' has the meaning given that term in section 5302(3) of title 5, United States Code.
-
-"(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, noadditional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
-
-"(4) An employee appointed under the program is not eligible for any bonus, monetary award, or other monetary incentive for service under the appointment other than payments authorized by this section.
-
-"(e)
-
-Period of Program.—(1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2019.
-
-"(2) After the termination of the program—
-
-&emsp;"(A) no appointment may be made under paragraph (1) of subsection (b);
-
-&emsp;"(B) a rate of basic pay prescribed under paragraph (2) of that subsection may not take effect for a position; and
-
-&emsp;"(C) no period of service may be extended under subsection (c)(2).
-
-"(f)
-
-Savings Provisions.—In the case of an employee who, on the last day of the program period specified in subsection (e)(1), is serving in a position pursuant to an appointment under subsection (b)(1)—
-
-&emsp;"(1) the termination of the program does not terminate the employee's employment in that position before the expiration of the lesser of—
-
-&emsp;&emsp;"(A) the period for which the employee was appointed; or
-
-&emsp;&emsp;"(B) the period to which the employee's service is limited under subsection (c), including any extension made under paragraph (2) of that subsection before the termination of the program; and
-
-&emsp;"(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service."
-
-\[Pub. L. 112–239, div. A, title XI, §1102(b), Jan. 2, 2013, 126 Stat. 1973, provided that: "The amendment made by subsection (a) \[amending section 1101 of Pub. L. 105–261, set out above\] shall not be construed as affecting any applicable authorization or delimitation of the numbers of personnel that may be employed at the Defense Advanced Research Projects Agency."\]
-
-\[For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, §1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vi), title XI, §1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973; Pub. L. 113–291, div. A, title XI, §1104, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 114–92, div. A, title X, §§1075(b), 1081(b)(5), Nov. 25, 2015, 129 Stat. 997, 1001, allowed Secretary of Defense, from Oct. 17, 1998, to Sept. 30, 2019, to carry out a program of experimental use of special personnel management authority to facilitate recruitment of eminent experts in science or engineering for certain research and development projects, prior to repeal by Pub. L. 114–328, div. A, title XI, §1121(b), Dec. 23, 2016, 130 Stat. 2452. See section 1599h of Title 10, Armed Forces.
 
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
@@ -214,7 +146,7 @@ Pub. L. 109–108, title I, §106, Nov. 22, 2005, 119 Stat. 2304.
 
 Pub. L. 108–447, div. B, title I, §109, Dec. 8, 2004, 118 Stat. 2868.
 
-Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, §216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, §216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, §216, Nov. 30, 2005, 119 Stat. 2439; Pub. L. 110–161, div. D, title I, §115, Dec. 26, 2007, 121 Stat. 1978; Pub. L. 111–8, div. D, title I, §113, Mar. 11, 2009, 123 Stat. 637; Pub. L. 111–117, div. C, title I, §113, Dec. 16, 2009, 123 Stat. 3166; Pub. L. 112–74, div. C, title I, §111, Dec. 23, 2011, 125 Stat. 890, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of 14 years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, §216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, §216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, §216, Nov. 30, 2005, 119 Stat. 2439; Pub. L. 110–161, div. D, title I, §115, Dec. 26, 2007, 121 Stat. 1978; Pub. L. 111–8, div. D, title I, §113, Mar. 11, 2009, 123 Stat. 637; Pub. L. 111–117, div. C, title I, §113, Dec. 16, 2009, 123 Stat. 3166; Pub. L. 112–74, div. C, title I, §111, Dec. 23, 2011, 125 Stat. 890, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of 14 years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medicalpositions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
 
 \[Personnel management demonstration project transferred to Attorney General for continued use by Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and Secretary of the Treasury for continued use by Tax and Trade Bureau, see section 599B of Title 28, Judiciary and Judicial Procedure.\]
 
@@ -240,5 +172,5 @@ Pub. L. 95–454, title IV, §414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided 
 
 \[Pub. L. 95–454, title IV, §415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.\]
 
-\[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, tobe considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
+\[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
 

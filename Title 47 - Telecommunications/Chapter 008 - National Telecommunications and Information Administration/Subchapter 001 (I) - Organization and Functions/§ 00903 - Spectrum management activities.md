@@ -6,7 +6,7 @@ Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA s
 
 #### (b) Requirements for revisions
 
-The amendments required by subsection (a) of this section shall—
+The amendments required by subsection (a) shall—
 
 &emsp;(1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
 
@@ -16,7 +16,7 @@ The amendments required by subsection (a) of this section shall—
 
 &emsp;(4) include provisions that will require that nonclassified spectrum management information be made available to the public, including access to electronic databases; and
 
-&emsp;(5) establish procedures that provide for the prompt and impartial consideration of requests for access to Government spectrum by the public, which procedures shall include provisions that will require the disclosure of the status and ultimate disposition of any such request.
+&emsp;(5) establish procedures that provide for the prompt and impartial consideration of requests for access to Government spectrum bythe public, which procedures shall include provisions that will require the disclosure of the status and ultimate disposition of any such request.
 
 #### (c) Certification to Congress
 
@@ -44,7 +44,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 #### (1) Amendment to manual required
 
-&emsp;Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) of this section to require that—
+&emsp;Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) to require that—
 
 &emsp;&emsp;(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
 

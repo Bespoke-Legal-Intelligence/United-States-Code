@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the"Asbestos Trust Fund", consisting of such amounts as may be transferred or credited to such Trust Fund as provided in this section.
+There is established in the Treasury of the United States a trust fund to be known as the "Asbestos Trust Fund", consisting of such amounts as may be transferred or credited to such Trust Fund as provided in this section.
 
 #### (b) Transfers to Trust Fund
 
@@ -56,7 +56,7 @@ Amounts in the Asbestos Trust Fund shall be available, as provided by appropriat
 
 #### (A) In general
 
-&emsp;&emsp;Advances made under this subsection shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Asbestos Trust Fund.
+&emsp;&emsp;Advances made under this subsection shall be repaid, and interest on such advancesshall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Asbestos Trust Fund.
 
 #### (B) Rate of interest
 

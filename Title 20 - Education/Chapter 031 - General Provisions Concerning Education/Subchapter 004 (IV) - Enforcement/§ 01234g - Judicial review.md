@@ -2,11 +2,11 @@
 
 #### (a) Recipients entitled to review; stay of action by Secretary
 
-Any recipient of funds under an applicable program that would be adversely affected by a final agency action under section 1234a, 1234d, or 1234e of this title, and any State entitled to receive funds under a program described in section 1232d(a) of this title whose application has been disapproved by the Secretary, shall be entitled to judicial review of such action in accordance with the provisions of this section. The Secretary may not take any action on the basis of a final agency action until judicial review is completed.
+Any recipient of funds under an applicable program that would be adversely affected by a final agency action under section 1234a, 1234d, or 1234e of this title, and any State entitled to receive funds under a program described in section 1232d(a) of this title whose application has beendisapproved by the Secretary, shall be entitled to judicial review of such action in accordance with the provisions of this section. The Secretary may not take any action on the basis of a final agency action until judicial review is completed.
 
 #### (b) Petition for review; filing of record
 
-A recipient that desires judicial review of an action described in subsection (a) of this section shall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in section 2112 of title 28.
+A recipient that desires judicial review of an action described in subsection (a) shall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in section 2112 of title 28.
 
 #### (c) Findings of fact
 

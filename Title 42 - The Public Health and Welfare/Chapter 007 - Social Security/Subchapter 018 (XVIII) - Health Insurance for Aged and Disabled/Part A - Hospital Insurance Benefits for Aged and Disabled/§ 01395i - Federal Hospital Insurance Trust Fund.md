@@ -2,13 +2,13 @@
 
 #### (a) Creation; deposits; transfers from Treasury
 
-There is hereby created on the books of the Treasury of the United States a trust fund to be known as the "Federal Hospital Insurance Trust Fund" (hereinafter in this section referred to as the "Trust Fund"). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part. There are hereby appropriated to the Trust Fund for the fiscal year ending June 30, 1966, and for each fiscal year thereafter, out of any moneys in the Treasury not otherwise appropriated, amounts equivalent to 100 per centum of—
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the "Federal Hospital Insurance Trust Fund" (hereinafter in this section referred to as the "Trust Fund"). The Trust Fund shall consistof such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part. There are hereby appropriated to the Trust Fund for the fiscal year ending June 30, 1966, and for each fiscal year thereafter, out of any moneys in the Treasury not otherwise appropriated, amounts equivalent to 100 per centum of—
 
 &emsp;(1) the taxes imposed by sections 3101(b) and 3111(b) of the Internal Revenue Code of 1986 with respect to wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of such Code after December 31, 1965, as determined by the Secretary of the Treasury by applying the applicable rates of tax under such sections to such wages, which wages shall be certified by the Commissioner of Social Security on the basis of records of wages established and maintained by the Commissioner of Social Security in accordance with such reports; and
 
 &emsp;(2) the taxes imposed by section 1401(b) of the Internal Revenue Code of 1986 with respect to self-employment income reported to the Secretary of the Treasury or his delegate on tax returns under subtitle F of such Code, as determined by the Secretary of the Treasury by applying the applicable rate of tax under such section to such self-employment income, which self-employment income shall be certified by the Commissioner of Social Security on the basis of records of self-employment established and maintained by the Commissioner of Social Security in accordance with such returns.
 
-> The amounts appropriated by the preceding sentence shall be transferred from time to time from the general fund in the Treasury to the Trust Fund, such amounts to be determined on the basis of estimates by the Secretary of the Treasury of the taxes, specified in the preceding sentence, paid to or deposited into the Treasury; and proper adjustments shall be made in amounts subsequently transferred to the extentprior estimates were in excess of or were less than the taxes specified in such sentence.
+> The amounts appropriated by the preceding sentence shall be transferred from time to time from the general fund in the Treasury to the Trust Fund, such amounts to be determined on the basis of estimates by the Secretary of the Treasury of the taxes, specified in the preceding sentence, paid to or deposited into the Treasury; and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or were less than the taxes specified in such sentence.
 
 #### (b) Board of Trustees; composition; meetings; duties
 
@@ -26,7 +26,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
-It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
+It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued underchapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
 
 #### (d) Authority of Managing Trustee to sell obligations
 
@@ -38,7 +38,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### (f) Payment of estimated taxes
 
-(1) The Managing Trustee is directed to pay from time to time from the Trust Fund into theTreasury the amount estimated by him as taxes imposed under section 3101(b) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1986 with respect to wages paid after December 31, 1965. Such taxes shall be determined on the basis of the records of wages established and maintained by the Commissioner of Social Security in accordance with the wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1986, and the Commissioner of Social Security shall furnish the Managing Trustee such information as may be required by the Managing Trustee for such purpose. The payments by the Managing Trustee shall be covered into the Treasury as repayments to the account for refunding internal revenue collections.
+(1) The Managing Trustee is directed to pay from time to time from the Trust Fund into the Treasury the amount estimated by him as taxes imposed under section 3101(b) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1986 with respect to wages paid after December 31, 1965. Such taxes shall be determined on the basis of the records of wages established and maintained by the Commissioner of Social Security in accordance with the wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1986, and the Commissioner of Social Security shall furnish the Managing Trustee such information as may be required by the Managing Trustee for such purpose. The payments by the Managing Trustee shall be covered into the Treasury as repayments to the account for refunding internal revenue collections.
 
 (2) Repayments made under paragraph (1) shall not be available for expenditures but shall be carried to the surplus fund of the Treasury. If it subsequently appears that the estimates under such paragraph in any particular period were too high or too low, appropriate adjustments shall be made by the Managing Trustee in future payments.
 
@@ -56,9 +56,9 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (j) Loans from other Funds; interest; repayment; report to Congress
 
-(1) If at any time prior to January 1988 the Managing Trustee determines that borrowing authorized under this subsection is appropriate in order to best meet the need for financing the benefit payments from the Federal Hospital Insurance Trust Fund, the Managing Trustee may, subject to paragraph (5), borrow such amounts as he determines to be appropriate from either the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund for transfer to and deposit in the Federal Hospital Insurance Trust Fund.
+(1) If at any time prior to January 1988 the Managing Trustee determines that borrowingauthorized under this subsection is appropriate in order to best meet the need for financing the benefit payments from the Federal Hospital Insurance Trust Fund, the Managing Trustee may, subject to paragraph (5), borrow such amounts as he determines to be appropriate from either the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund for transfer to and deposit in the Federal Hospital Insurance Trust Fund.
 
-(2) In any case where a loan has been made to the Federal Hospital Insurance Trust Fund under paragraph (1), there shall be transferred on the last day of each month after such loan is made, from such Trust Fund to the lending Trust Fund, the total interest accrued to such day with respect to the unrepaid balance of such loan at a rate equal to the rate which the lending Trust Fund would earn on the amount involved if the loan were an investment under subsection (c) of this section (even if such an investment would earn interest at a rate different than the rate earned by investments redeemed by the lending fund in order to make the loan).
+(2) In any case where a loan has been made to the Federal Hospital Insurance Trust Fund under paragraph (1), there shall be transferred on the last day of each month after such loan is made, from such Trust Fund to the lending Trust Fund, the total interest accrued to such day with respect to the unrepaid balance of such loan at a rate equal to the rate which the lending Trust Fund would earn on the amount involved if the loan were an investment under subsection (c) (even if such an investment would earn interest at a rate different than the rate earned by investments redeemed by the lending fund in order to make the loan).
 
 (3)(A) If in any month after a loan has been made to the Federal Hospital Insurance Trust Fund under paragraph (1), the Managing Trustee determines that the assets of such Trust Fund are sufficient to permit repayment of all or part of any loans made to such Fund under paragraph (1), he shall make such repayments as he determines to be appropriate.
 
@@ -104,7 +104,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;(i) such gifts and bequests as may be made as provided in subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) such amounts as may be deposited in the Trust Fund as provided in sections 242(b) and 249(c) of the Health Insurance Portability and Accountability Act of 1996, and subchapter XI of this chapter; and
+&emsp;&emsp;&emsp;(ii) such amounts as may be deposited in the Trust Fund as provided in sections 242(b) and 249(c) of the Health Insurance Portability and Accountability Act of 1996, and subchapter XI; and
 
 &emsp;&emsp;&emsp;(iii) such amounts as are transferred to the Trust Fund under subparagraph (C).
 
@@ -118,11 +118,11 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;(i) Criminal fines recovered in cases involving a Federal health care offense (as defined in section 24(a) of title 18).
 
-&emsp;&emsp;&emsp;(ii) Civil monetary penalties and assessments imposed in health care cases, including amounts recovered under this subchapter and subchapters XI and XIX of this chapter, and chapter 38 of title 31 (except as otherwise provided by law).
+&emsp;&emsp;&emsp;(ii) Civil monetary penalties and assessments imposed in health care cases, including amounts recovered under this subchapter and subchapters XI and XIX, and chapter 38 of title 31 (except as otherwise provided by law).
 
 &emsp;&emsp;&emsp;(iii) Amounts resulting from the forfeiture of property by reason of a Federal health care offense.
 
-&emsp;&emsp;&emsp;(iv) Penalties and damages obtained and otherwise creditable to miscellaneous receipts of the general fund of the Treasury obtained under sections 3729 through 3733 of title 31 (known as the False Claims Act), in cases involving claims related to the provision of health care items andservices (other than funds awarded to a relator, for restitution or otherwise authorized by law).
+&emsp;&emsp;&emsp;(iv) Penalties and damages obtained and otherwise creditable to miscellaneous receipts of the general fund of the Treasury obtained under sections 3729 through 3733 of title 31 (known as the False Claims Act), in cases involving claims related to the provision of health care items and services (other than funds awarded to a relator, for restitution or otherwise authorized by law).
 
 #### (D) Application
 
@@ -146,7 +146,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (ii) Medicare and medicaid activities
 
-&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the following amounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the programs under this subchapter and subchapter XIX of this chapter—
+&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the following amounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the programs under this subchapter and subchapter XIX—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, not less than $60,000,000 and not more than $70,000,000;
 
@@ -198,7 +198,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;(iv) inspections and other evaluations; and
 
-&emsp;&emsp;&emsp;(v) provider and consumer education regarding compliance with the provisions of subchapter XI of this chapter.
+&emsp;&emsp;&emsp;(v) provider and consumer education regarding compliance with the provisions of subchapter XI.
 
 #### (4) Appropriated amounts to Account for Medicare Integrity Program
 
@@ -272,7 +272,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (7) Additional funding
 
-&emsp;In addition to the funds otherwise appropriated to the Account from the Trust Fund under paragraphs (3) and (4) and for purposes described in paragraphs (3)(C) and (4)(A), there are hereby appropriated an additional $10,000,000 to such Account from such Trust Fund for each of fiscal years 2011 through 2020. The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
+&emsp;In addition to the funds otherwise appropriated to the Account from the Trust Fund under paragraphs (3) and (4) and for purposes described in paragraphs (3)(C) and (4)(A), there are hereby appropriated an additional $10,000,000 to such Account from such Trust Fund for each of fiscal years 2011 through 2020. The funds appropriated under this paragraphshall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
 
 #### (8) Additional funding
 
@@ -292,7 +292,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, titleII, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371; Pub. L. 109–171, title V, §5204, title VI, §6034(d)(2), Feb. 8, 2006, 120 Stat. 48, 78; Pub. L. 109–432, div. B, title III, §303, Dec. 20, 2006, 120 Stat. 2992; Pub. L. 111–148, title VI, §6402(i), Mar. 23, 2010, 124 Stat. 760; Pub. L. 111–152, title I, §1303(a)(1), Mar. 30, 2010, 124 Stat. 1057.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371; Pub. L. 109–171, title V, §5204, title VI, §6034(d)(2), Feb. 8, 2006, 120 Stat. 48, 78; Pub. L. 109–432, div. B, title III, §303, Dec. 20, 2006, 120 Stat. 2992; Pub. L. 111–148, title VI, §6402(i), Mar. 23, 2010, 124 Stat. 760; Pub. L. 111–152, title I, §1303(a)(1), Mar. 30, 2010, 124 Stat. 1057.)
 
 #### References in Text
 
@@ -354,7 +354,7 @@ Subsec. (b)(2). Pub. L. 108–173, §801(d)(1), inserted at end "Each report pro
 
 Subsec. (k)(3)(A)(i)(I). Pub. L. 108–173, §736(a)(5)(A), substituted semicolon for comma at end.
 
-Subsec. (k)(3)(A)(ii). Pub. L. 108–173, §736(a)(5)(B), substituted "the programs under this subchapter and subchapter XIX of this chapter" for "the Medicare and medicaid programs" in introductory provisions.
+Subsec. (k)(3)(A)(ii). Pub. L. 108–173, §736(a)(5)(B), substituted "the programs under this subchapter and subchapter XIX" for "the Medicare and medicaid programs" in introductory provisions.
 
 Subsec. (k)(6)(B). Pub. L. 108–173, §736(a)(6), substituted "program under this subchapter" for "Medicare program under this subchapter".
 
@@ -398,7 +398,7 @@ Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding p
 
 Pub. L. 98–21, §154(b), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
-Pub. L. 98–21, §341(b)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+Pub. L. 98–21, §341(b)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personallyliable for actions taken in such capacity with respect to the Trust Fund.
 
 Subsec. (j)(1). Pub. L. 98–21, §142(b)(1), substituted reference to January 1988 for reference to January 1983 and inserted ", subject to paragraph (5)," after "may".
 
@@ -636,7 +636,7 @@ Gifts.—Amounts received by the medicare trust funds under section 201(i) of th
 
 Total medicare outlays.—The term 'total medicare outlays' means total outlays from the medicare trust funds and shall—
 
-&emsp;&emsp;"(A) include payments made to plans under part C of title XVIII of the Social Security Act \[42 U.S.C. 1395w–21 et seq.\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act (42 U.S.C. 1395w–24(b)(1)(C)), as amended by section 222(b)(1);
+&emsp;&emsp;"(A) include payments made to plans under part C of title XVIII of the Social Security Act \[42U.S.C. 1395w–21 et seq.\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act (42 U.S.C. 1395w–24(b)(1)(C)), as amended by section 222(b)(1);
 
 &emsp;&emsp;"(B) include administrative expenditures made in carrying out title XVIII of such Act \[42 U.S.C. 1395 et seq.\] and Federal outlays under section 1935(b) of such Act \[42 U.S.C. 1396u–5(b)\], as added by section 103(a)(2); and
 
@@ -676,7 +676,7 @@ Pub. L. 104–191, title II, §249(c), Aug. 21, 1996, 110 Stat. 2020, provided t
 
 "(1)
 
-In general.—After the payment of the costs of asset forfeiture has been made and after all restoration payments (if any) have been made, and notwithstanding any other provision of law, the Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act \[42 U.S.C. 1395i(k)(2)(C)\], as added by section 301(b), an amount equal to the net amountrealized from the forfeiture of property by reason of a Federal health care offense pursuant to section 982(a)(6) of title 18, United States Code.
+In general.—After the payment of the costs of asset forfeiture has been made and after all restoration payments (if any) have been made, and notwithstanding any other provision of law, the Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act \[42 U.S.C. 1395i(k)(2)(C)\], as added by section 301(b), an amount equal to the net amount realized from the forfeiture of property by reason of a Federal health care offense pursuant to section 982(a)(6) of title 18, United States Code.
 
 "(2)
 

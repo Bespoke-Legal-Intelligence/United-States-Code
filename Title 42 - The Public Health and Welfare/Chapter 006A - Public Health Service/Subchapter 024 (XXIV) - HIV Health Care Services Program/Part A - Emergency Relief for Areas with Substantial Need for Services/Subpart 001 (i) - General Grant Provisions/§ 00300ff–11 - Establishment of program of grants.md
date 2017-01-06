@@ -2,7 +2,7 @@
 
 #### (a) Eligible areas
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall, subject to subsections (b) through (c) of this section, make grants in accordance with section 300ff–13 of this title for the purpose of assisting in the provision of the services specified in section 300ff–14 of this title in any metropolitan area for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of more than 2,000 cases of AIDS during the most recent period of 5 calendar years for which such data are available.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall, subject to subsections (b) through (c), make grants in accordance with section 300ff–13 of this title for the purpose of assisting in the provision of the services specified in section 300ff–14 of this title in any metropolitan area for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of more than 2,000 cases of AIDS during the most recent period of 5 calendar years for which such data are available.
 
 #### (b) Continued status as eligible area
 
@@ -72,7 +72,7 @@ Contingency Provisions.—Notwithstanding section 703 of the Ryan White HIV/AIDS
 
 #### Effective Date of Repeal
 
-Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, which provided for the repeal of this subchapter effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), Oct. 30, 2009, 123 Stat. 2885.
+Pub. L. 109–415, title VII, §703, Dec. 19, 2006, 120 Stat. 2820, which provided for the repeal of this subchaptereffective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), Oct. 30, 2009, 123 Stat. 2885.
 
 #### Effective Date of 1996 Amendment
 

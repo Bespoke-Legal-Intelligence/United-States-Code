@@ -34,7 +34,7 @@
 
 &emsp;(ii) the United States economic interests that would be adversely affected by the investigation.
 
-(D) The Trade Representative shall, from time to time, consult with the Register of Copyrights,the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
+(D) The Trade Representative shall, from time to time, consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
 
 #### (c) Discretion
 

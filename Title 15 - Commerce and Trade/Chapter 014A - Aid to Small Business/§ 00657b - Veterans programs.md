@@ -18,7 +18,7 @@ The Associate Administrator—
 
 #### (1) Establishment
 
-&emsp;Not later than 90 days after February 14, 2008, the President shall establish an interagency task force to coordinate the efforts of Federal agencies necessary to improve capital and business development opportunities for, and ensure achievement of the pre-established Federal contracting goals for, small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans (in this section referred to as the "task force").
+&emsp;Not later than 90 days after February 14, 2008, the President shall establish an interagency task force to coordinate the efforts ofFederal agencies necessary to improve capital and business development opportunities for, and ensure achievement of the pre-established Federal contracting goals for, small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans (in this section referred to as the "task force").
 
 #### (2) Membership
 
@@ -366,7 +366,7 @@ Information on Federal Procurement Practices.—The Administrator of the Small B
 
 "(b)
 
-Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraphthat information on Federal procurement is available from the Administrator.
+Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
 
 "(c)
 
@@ -440,11 +440,13 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Definitions
 

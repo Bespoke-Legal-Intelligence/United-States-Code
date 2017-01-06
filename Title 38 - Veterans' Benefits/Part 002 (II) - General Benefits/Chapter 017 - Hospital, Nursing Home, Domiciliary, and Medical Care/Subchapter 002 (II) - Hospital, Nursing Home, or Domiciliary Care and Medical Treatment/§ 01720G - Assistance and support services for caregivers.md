@@ -46,7 +46,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (B) Respite care provided under subparagraph (A)(ii)(III) shall be medically and age-appropriate and include in-home care.
 
-(C)(i) The amount of the monthly personal caregiver stipend provided under subparagraph (A)(ii)(V) shall be determined in accordance with a schedule established by the Secretarythat specifies stipends based upon the amount and degree of personal care services provided.
+(C)(i) The amount of the monthly personal caregiver stipend provided under subparagraph (A)(ii)(V) shall be determined in accordance with a schedule established by the Secretary that specifies stipends based upon the amount and degree of personal care services provided.
 
 (ii) The Secretary shall ensure, to the extent practicable, that the schedule required by clause (i) specifies that the amount of the monthly personal caregiver stipend provided to a primary provider of personal care services for the provision of personal care services to an eligible veteran is not less than the monthly amount a commercial home health care entity would pay an individual in the geographic area of the eligible veteran to provide equivalent personal care services to the eligible veteran.
 
@@ -96,11 +96,11 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;(ii) may designate, in consultation with the eligible veteran, a new primary provider of personal care services for the eligible veteran under such subparagraph.
 
-(E) The Secretary shall take such actions as may be necessary to ensure that the revocation of a designation under subparagraph (A) with respect to an eligible veteran does not interfere with the provision of personal care services required by the eligible veteran.
+(E) The Secretary shall take such actions as may be necessary to ensure that the revocationof a designation under subparagraph (A) with respect to an eligible veteran does not interfere with the provision of personal care services required by the eligible veteran.
 
 (8) If an eligible veteran lacks the capacity to make a decision under this subsection, the Secretary may, in accordance with regulations and policies of the Department regarding appointment of guardians or the use of powers of attorney, appoint a surrogate for the eligible veteran who may make decisions and take action under this subsection on behalf of the eligible veteran.
 
-(9)(A) The Secretary shall monitor the well-being of each eligible veteran receiving personalcare services under the program required by paragraph (1).
+(9)(A) The Secretary shall monitor the well-being of each eligible veteran receiving personal care services under the program required by paragraph (1).
 
 (B) The Secretary shall document each finding the Secretary considers pertinent to the appropriate delivery of personal care services to an eligible veteran under the program.
 
@@ -196,13 +196,17 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 &emsp;(1) $60,000,000 for fiscal year 2010;
 
-&emsp;(2) $1,542,000,000 for the period of fiscal years 2011 through 2015; and
+&emsp;(2) $1,542,000,000 for the period of fiscal years 2011 through 2015;
 
-&emsp;(3) $625,000,000 for fiscal year 2016.
+&emsp;(3) $625,000,000 for fiscal year 2016; and
 
-(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538.)
+&emsp;(4) $734,628,000 for fiscal year 2017.
+
+(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, §103, Sept. 29, 2016, 130 Stat. 937.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(4). Pub. L. 114–228 added par. (4).
 
 <b>2015</b>—Subsec. (a)(7)(B)(iii). Pub. L. 114–58, §601(6), substituted "have" for "has".
 

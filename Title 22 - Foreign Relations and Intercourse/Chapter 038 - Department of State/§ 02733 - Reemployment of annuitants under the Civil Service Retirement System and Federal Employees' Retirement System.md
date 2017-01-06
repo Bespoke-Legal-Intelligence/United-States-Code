@@ -2,13 +2,7 @@
 
 #### (a) Authority
 
-#### (1) In general
-
-&emsp;To facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, the Secretary of State may waive the application of the provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of an annuitant in a position in the Department of State for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
-
-#### (2) Termination of authority
-
-&emsp;The authority of the Secretary under paragraph (1) shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+The Secretary of State may waive the application of section 8344 or 8468 of title 5 on a case-by-case basis, for employment of an annuitant in a position in the Department of State for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
 
 #### (b) Procedures
 
@@ -18,7 +12,7 @@ The Secretary should prescribe procedures for the exercise of any authority unde
 
 An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
 
-(Aug. 1, 1956, ch. 841, title I, §61, as added Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441; amended Pub. L. 111–32, title XI, §1115(c)(2), June 24, 2009, 123 Stat. 1905.)
+(Aug. 1, 1956, ch. 841, title I, §61, as added Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441; amended Pub. L. 111–32, title XI, §1115(c)(2), June 24, 2009, 123 Stat. 1905; Pub. L. 114–323, title IV, §405(b), Dec. 16, 2016, 130 Stat. 1929.)
 
 #### Codification
 
@@ -26,15 +20,17 @@ Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which di
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a). Pub. L. 114–323 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authority of the Secretary of State to waive application of provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of certain annuitants to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan and terminated the Secretary's authority as of Oct. 1, 2010.
+
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–32 inserted ", Pakistan," after "Iraq" in two places.
 
 Subsec. (a)(2). Pub. L. 111–32 substituted "2010" for "2008".
 
 #### Extension of Authority
 
-Pub. L. 114–113, div. K, title VII, §7034(k)(5), Dec. 18, 2015, 129 Stat. 2765, provided that: "Section 61(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2733(a)) shall be applied by substituting 'September 30, 2016' for 'October 1, 2010' in paragraph (2)."
+Extensions of the waiver authority of the Secretary of State under former subsec. (a) of this section (see 2016 Amendment note above) were contained in the following acts:
 
-Prior extensions were contained in the following prior acts:
+Pub. L. 114–113, div. K, title VII, §7034(k)(5), Dec. 18, 2015, 129 Stat. 2765.
 
 Pub. L. 113–235, div. J, title VII, §7034(l)(5), Dec. 16, 2014, 128 Stat. 2625.
 

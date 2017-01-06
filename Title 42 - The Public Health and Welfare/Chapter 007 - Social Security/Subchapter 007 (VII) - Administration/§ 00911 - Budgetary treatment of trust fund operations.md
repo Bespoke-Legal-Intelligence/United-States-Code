@@ -2,7 +2,7 @@
 
 (a) The receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund and the taxes imposed under sections 1401 and 3101 of the Internal Revenue Code of 1986 shall not be included in the totals of the budget of the United States Government as submitted by the President or of the congressional budget and shall be exempt from any general budget limitation imposed by statute on expenditures and net lending (budget outlays) of the United States Government.
 
-(b) No provision of law enacted after December 12, 1985 (other than a provision of an appropriation Act that appropriated funds authorized under this chapter as in effect on December 12, 1985) may provide for payments from the general fund of the Treasury to any Trust Fund specified in subsection (a) of this section or for payments from any such Trust Fund to the general fund of the Treasury.
+(b) No provision of law enacted after December 12, 1985 (other than a provision of an appropriation Act that appropriated funds authorized under this chapter as in effect on December 12, 1985) may provide for payments from the general fund of the Treasury to any Trust Fund specified in subsection (a) or for payments from any such Trust Fund to the general fund of the Treasury.
 
 (Aug. 14, 1935, ch. 531, title VII, §710, as added and amended Pub. L. 98–21, title III, §346(a)(1), (b), Apr. 20, 1983, 97 Stat. 137, 138; Pub. L. 99–177, title II, §261(a)(1), (b), Dec. 12, 1985, 99 Stat. 1093, 1094; Pub. L. 105–33, title X, §10209(c), Aug. 5, 1997, 111 Stat. 711.)
 
@@ -12,7 +12,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33 amended section generally. Prior to amendment, section provided that receipts and disbursements of Federal Old-Age and Survivors Insurance Trust Fund, Federal Disability Insurance Trust Fund, and Federal Hospital Insurance Trust Fund and taxes imposed under sections 1401, 3101, and 3111 of title 26 were not to be included in totals of budget of United States Government, that no law enacted after Dec. 12, 1985, except certain appropriations Act provisions, could provide for payments from general fund of the Treasury to any such Trust Fund or from any such Trust Fund to general fund, and that disbursements of Federal Supplementary Medical Insurance Trust Fund were to be treated as a separate major functional category in budget of the Government.
+<b>1997</b>—Pub. L. 105–33 amended section generally. Prior to amendment, section provided that receipts and disbursements of Federal Old-Age and Survivors InsuranceTrust Fund, Federal Disability Insurance Trust Fund, and Federal Hospital Insurance Trust Fund and taxes imposed under sections 1401, 3101, and 3111 of title 26 were not to be included in totals of budget of United States Government, that no law enacted after Dec. 12, 1985, except certain appropriations Act provisions, could provide for payments from general fund of the Treasury to any such Trust Fund or from any such Trust Fund to general fund, and that disbursements of Federal Supplementary Medical Insurance Trust Fund were to be treated as a separate major functional category in budget of the Government.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–177, §261(b), designated existing provisions as par. (1) and added par. (2).
 

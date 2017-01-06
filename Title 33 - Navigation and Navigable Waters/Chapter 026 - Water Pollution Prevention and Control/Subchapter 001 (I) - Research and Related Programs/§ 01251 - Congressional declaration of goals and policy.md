@@ -32,7 +32,7 @@ Except as otherwise expressly provided in this chapter, the Administrator of the
 
 #### (e) Public participation in development, revision, and enforcement of any regulation, etc.
 
-Public participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established by the Administrator or any State under this chapter shall be provided for, encouraged, and assisted by the Administrator and theStates. The Administrator, in cooperation with the States, shall develop and publish regulations specifying minimum guidelines for public participation in such processes.
+Public participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established by the Administrator or any State under this chapter shall be provided for, encouraged, and assisted by the Administrator and the States. The Administrator, in cooperation with the States, shall develop and publish regulations specifying minimum guidelines for public participation in such processes.
 
 #### (f) Procedures utilized for implementing chapter
 
@@ -104,11 +104,11 @@ Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: "This Act \[
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–217 provided: "That this Act \[enacting sections 1281a, 1294 to 1296, and 1297 of thistitle, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Clean Water Act of 1977'."
+Section 1 of Pub. L. 95–217 provided: "That this Act \[enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Clean Water Act of 1977'."
 
 #### Short Title
 
-Section 1 of Pub. L. 92–500 provided that: "That this Act \[enacting this chapter, amending section 24 of Title 12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1972'."
+Section 1 of Pub. L. 92–500 provided that: "That this Act \[enacting this chapter, amending section 24 of Title12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1972'."
 
 Section 519, formerly section 518, of Act June 30, 1948, ch. 758, title V, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 896, and amended Dec. 27, 1977, Pub. L. 95–217, §2, 91 Stat. 1566, and renumbered §519, Feb. 4, 1987, Pub. L. 100–4, title V, §506, 101 Stat. 76, provided that: "This Act \[this chapter\] may be cited as the 'Federal Water Pollution Control Act' (commonly referred to as the Clean Water Act)."
 
@@ -174,7 +174,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 "(4) The Chairman of the Committee shall be selected from among the Committee members described in paragraph (3)(A).
 
-"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
+"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice,assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
 
 "(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by section 5703 of title 5, United States Code.
 
@@ -242,7 +242,7 @@ Pub. L. 92–500, §6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 &emsp;&emsp;"(C) in any way reimburses or otherwise subsidizes its manufacturers for the costs of such program;
 
-&emsp;"(4) alternative means by which any competitive advantage accruing to the products of any foreign nation as a result of any factor described in paragraph (3) may be (A) accurately and quickly determined, and (B) equalized, for example, by the imposition ofa surcharge or duty, on a foreign product in an amount necessary to compensate for such advantage; and
+&emsp;"(4) alternative means by which any competitive advantage accruing to the products of any foreign nation as a result of any factor described in paragraph (3) may be (A) accurately and quickly determined, and (B) equalized, for example, by the imposition of a surcharge or duty, on a foreign product in an amount necessary to compensate for such advantage; and
 
 &emsp;"(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure may have in encouraging foreign nations to implement pollution and abatement control programs.
 

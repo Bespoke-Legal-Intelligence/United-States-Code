@@ -24,13 +24,13 @@
 
 &emsp;(3) In order to encourage the effective provision of preventive health services by Veterans Health Administration personnel—
 
-&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information onsuch services that is derived from research carried out by the Administration; and
+&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information on such services that is derived from research carried out by the Administration; and
 
 &emsp;&emsp;(B) acquire and ensure the dissemination to such personnel of any appropriate information on research and clinical practices relating to such services that are carried out by researchers, clinicians, and educators who are not affiliated with the Administration.
 
 &emsp;(4) Facilitate the optimal use of the unique resources of the Department for cooperative research into health outcomes by initiating recommendations, and responding to requests of the Under Secretary for Health and the Director of the Medical and Prosthetic Research Service, for such research into preventive health services.
 
-&emsp;(5) Provide advisory services to personnel of Department health-care facilities with respect to the planning or furnishing of preventive health services by such personnel.
+&emsp;(5) Provide advisory services to personnel of Department health-care facilities with respectto the planning or furnishing of preventive health services by such personnel.
 
 (d) There is authorized to be appropriated $1,500,000 to the Medical Care General and Special Fund of the Department of Veterans Affairs for each fiscal year for the purpose of permitting the National Center for Preventive Health to carry out research, clinical, educational, and administrative activities under this section. Such activities shall be considered to be part of the operation of health-care facilities of the Department without regard to the location at which such activities are carried out.
 

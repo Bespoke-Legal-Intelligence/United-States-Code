@@ -22,7 +22,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;(A) after the expiration of 3 years from the last date prescribed by law for filing the return for such taxable year (determined without regard to any extension of time granted to either spouse); or
 
-&emsp;&emsp;(B) after there has been mailed to either spouse, with respect to such taxable year, anotice of deficiency under section 6212, if the spouse, as to such notice, files a petition with the Tax Court within the time prescribed in section 6213; or
+&emsp;&emsp;(B) after there has been mailed to either spouse, with respect to such taxable year, a notice of deficiency under section 6212, if the spouse, as to such notice, files a petition with the Tax Court within the time prescribed in section 6213; or
 
 &emsp;&emsp;(C) after either spouse has commenced a suit in any court for the recovery of any part of the tax for such taxable year; or
 
@@ -48,7 +48,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 #### (4) Additional time for assessment
 
-&emsp;If a joint return is made under this subsection, the periods of limitations provided in sections 6501 and 6502 on the making of assessments and the beginning of levy or a proceeding in court for collection shall with respect to such return include one year immediately after the date of the filing of such joint return (computed without regard to the provisions of paragraph (3)).
+&emsp;If a joint return is made under this subsection, the periods of limitations provided insections 6501 and 6502 on the making of assessments and the beginning of levy or a proceeding in court for collection shall with respect to such return include one year immediately after the date of the filing of such joint return (computed without regard to the provisions of paragraph (3)).
 
 #### (5) Additions to the tax and penalties
 
@@ -96,7 +96,7 @@ For purposes of this section and subtitle A—
 
 &emsp;&emsp;(A) an individual is in a missing status (within the meaning of paragraph (3)) as a result of service in a combat zone (as determined for purposes of section 112), and
 
-&emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for anytaxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
+&emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for any taxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
 
 > &emsp;then such spouse may elect under subsection (a) to file a joint return for such taxable year. With respect to service in the combat zone designated for purposes of the Vietnam conflict, such election may be made for any taxable year while an individual is in missing status.
 
@@ -128,7 +128,7 @@ For purposes of this section and subtitle A—
 
 #### (1) In general
 
-&emsp;A nonresident alien individual with respect to whom this subsection is in effect for the taxable year shall be treated as a resident of the United States—
+&emsp;A nonresident alien individual with respect to whom this subsection is in effect for thetaxable year shall be treated as a resident of the United States—
 
 &emsp;&emsp;(A) for purposes of chapter 1 for all of such taxable year, and
 
@@ -228,7 +228,7 @@ Subsec. (e). Pub. L. 98–369, §424(a), in amending subsec. (e) generally, reen
 
 Subsec. (f)(1). Pub. L. 97–448 substituted "December 31, 1982" for "January 2, 1978".
 
-<b>1982</b>—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, andpatronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages", and subsec. (h)(1) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages", and subsec. (h)(1) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1981</b>—Subsec. (b)(3)(A). Pub. L. 97–34 substituted "the exemption amount" for "$1,000" and "twice the exemption amount" for "$2,000" in cls. (ii) and (iii) and inserted provision following cl. (iii) defining "exemption amount".
 
@@ -260,7 +260,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §1012(a)(1), added subsecs. (g) and (h).
 
 Subsec. (e). Pub. L. 91–679 added subsec. (e).
 
-<b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
+<b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect totaxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
 
 <b>1958</b>—Subsec. (b)(2)(C). Pub. L. 85–866 substituted "section 6213" for "such section".
 
@@ -370,7 +370,7 @@ Pub. L. 91–679, §3, Jan. 12, 1971, 84 Stat. 2064, as amended by Pub. L. 94–
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginningafter Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
+Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
 
 #### Effective Date of 1958 Amendment
 

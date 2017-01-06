@@ -26,7 +26,7 @@
 
 &emsp;(5) The use of a multiyear contract will not inhibit small business concerns in competing for the contract.
 
-&emsp;(6) In the case of the procurement of a pharmaceutical item for which a patent has expired less than four years before the date on which the solicitation of offers is issued, there is no substantial likelihood that increased competition among potential contractors would occur during the term of the contract asthe result of the availability of generic equivalents increasing during the term of the contract.
+&emsp;(6) In the case of the procurement of a pharmaceutical item for which a patent has expired less than four years before the date on which the solicitation of offers is issued, there is no substantial likelihood that increased competition among potential contractors would occur during the term of the contract as the result of the availability of generic equivalents increasing during the term of the contract.
 
 (b)(1) A multiyear contract authorized by this section shall contain—
 
@@ -36,7 +36,7 @@
 
 (2)(A) If, during a fiscal year after the fiscal year during which a multiyear contract is entered into under this section, the Secretary determines that, in light of other funding needs involved in the operation of Department programs, the amount of funds appropriated for such subsequent fiscal year is not sufficient for such contract, the Secretary shall cancel such contract pursuant to the provisions required by paragraph (1)(A) of this subsection.
 
-(B) Cancellation charges under a multiyear contract shall be paid from the appropriated funds which were originally available for performance of the contract or the payment of cancellation costs unless such funds are not available in an amount sufficient to pay the entire amount of the cancellation charges payable under the contract. In a case in which such funds are not available in such amount, funds available for the procurement of supplies and services for use for the same purposes as the supplies or services procured through such contract shall be used to the extent necessary to pay such cost.
+(B) Cancellation charges under a multiyear contract shall be paid from the appropriated funds which were originally available for performance of the contract or the payment of cancellation costs unless such funds are not available in an amount sufficient to pay the entireamount of the cancellation charges payable under the contract. In a case in which such funds are not available in such amount, funds available for the procurement of supplies and services for use for the same purposes as the supplies or services procured through such contract shall be used to the extent necessary to pay such cost.
 
 (c) Nothing in this section shall be construed so as to restrict the Secretary's exercise of the right to terminate for convenience a contract under any other provision of law which authorizes multiyear contracting.
 

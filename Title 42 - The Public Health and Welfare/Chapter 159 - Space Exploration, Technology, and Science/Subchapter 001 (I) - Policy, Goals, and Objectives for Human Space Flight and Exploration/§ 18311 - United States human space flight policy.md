@@ -6,7 +6,7 @@ It is the policy of the United States that reliance upon and use of non-United S
 
 #### (b) United States human space flight capabilities
 
-Congress reaffirms the policy stated in section 70501(a) of title 51, that the United States shall maintain an uninterrupted capability for human space flight and operations in low-Earth orbit, and beyond, as an essential instrument of national security and of the capacity to ensure continued United States participation and leadership in the exploration and utilization of space.
+Congress reaffirms the policy stated in section 70501(a) of title 51, that the United States shallmaintain an uninterrupted capability for human space flight and operations in low-Earth orbit, and beyond, as an essential instrument of national security and of the capacity to ensure continued United States participation and leadership in the exploration and utilization of space.
 
 (Pub. L. 111–267, title II, §201, Oct. 11, 2010, 124 Stat. 2811.)
 

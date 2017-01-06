@@ -2,7 +2,7 @@
 
 (a) Authority under this section may be exercised with respect to any occupation or group of occupations to which subchapter III applies (or would apply but for this section).
 
-(b) Subject to subsection (a), the President's pay agent (as referred to in section 5304(d)) may establish one or more special occupational pay systems for any positions within occupations or groups of occupations that the pay agent determines, for reasons of good administration, should not be classified under chapter 51 or subject to subchapter III.
+(b) Subject to subsection (a), the President's pay agent (as referred to in section 5304(d)) may establish one or more special occupational pay systems for any positions within occupations or groups of occupations that the pay agent determines, for reasons of good administration,should not be classified under chapter 51 or subject to subchapter III.
 
 (c) In establishing special occupational pay systems, the pay agent shall—
 
@@ -35,4 +35,8 @@
 Level V of the Executive Schedule, referred to in subsec. (d)(2), is set out in section 5316 of this title.
 
 The General Schedule, referred to in subsec. (e), is set out under section 5332 of this title.
+
+#### Effective Date
+
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 

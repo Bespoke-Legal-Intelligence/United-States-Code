@@ -18,7 +18,7 @@ A secondary school student or college student is eligible for assistance under t
 
 The Secretary is authorized to enter into a contract with, or make a grant to, the Council on Legal Education Opportunity, for a period of not less than 5 years—
 
-&emsp;(1) to identify secondary school and college students who are from low-income families, are minorities, or are from disadvantaged backgrounds described in subsection (b)(3) of this section;
+&emsp;(1) to identify secondary school and college students who are from low-income families, are minorities, or are from disadvantaged backgrounds described in subsection (b)(3);
 
 &emsp;(2) to prepare such students for successful completion of a baccalaureate degree and for study at accredited law schools, and to assist them with the development of analytical skills, writing skills, and study methods to enhance the students' success in, and promote the students' admission to and completion of, law school;
 
@@ -40,7 +40,7 @@ The Secretary is authorized to enter into a contract with, or make a grant to, t
 
 #### (d) Services provided
 
-In carrying out the purposes described in subsection (c) of this section, the contract or grant shall provide for the delivery of services through pre-college programs, undergraduate prelaw information resource centers, summer institutes, midyear seminars, and other educational activities, conducted under this section. Such services may include—
+In carrying out the purposes described in subsection (c), the contract or grant shall provide for the delivery of services through pre-college programs, undergraduate prelaw information resource centers, summer institutes, midyear seminars, and other educational activities, conducted under this section. Such services may include—
 
 &emsp;(1) information and counseling regarding—
 
@@ -66,7 +66,7 @@ In carrying out the purposes described in subsection (c) of this section, the co
 
 #### (e) Duration of provision of services
 
-The services described in subsection (d) of this section may be provided—
+The services described in subsection (d) may be provided—
 
 &emsp;(1) prior to the period of law school study, including before and during undergraduate study;
 
@@ -76,7 +76,7 @@ The services described in subsection (d) of this section may be provided—
 
 #### (f) Subcontracts and subgrants
 
-For the purposes of planning, developing, or delivering one or more of the services described in subsection (d) of this section, the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, national and State bar associations, and combinations of such institutions, schools, agencies, organizations, and associations.
+For the purposes of planning, developing, or delivering one or more of the services described in subsection (d), the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, national and State bar associations, and combinations of such institutions, schools, agencies, organizations, and associations.
 
 #### (g) Fellowships and stipends
 
@@ -108,7 +108,7 @@ Another prior section 721 of Pub. L. 89–329 was classified to section 1132b of
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–39 substituted "services through pre-college programs, undergraduate prelawinformation resource centers" for "services through" and all that followed through "resource centers", resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §704(d)(1). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 substituted "services through pre-college programs, undergraduate prelaw information resource centers" for "services through" and all that followed through "resource centers", resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §704(d)(1). See 2008 Amendment note below.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–315, §704(a)(1), inserted "secondary school and" after "disadvantaged" and "and admission to law practice" before period at end.
 

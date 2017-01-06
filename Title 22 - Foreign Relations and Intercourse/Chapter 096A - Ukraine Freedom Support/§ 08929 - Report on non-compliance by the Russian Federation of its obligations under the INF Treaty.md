@@ -22,7 +22,7 @@ It is the sense of Congress that—
 
 &emsp;Not later than 90 days after December 18, 2014, and every 90 days thereafter, the President shall submit to the committees specified in subsection (d) a report that includes the following elements:
 
-&emsp;&emsp;(A) A description of the status of the President's efforts, in cooperation withUnited States allies, to hold the Russian Federation accountable for being in violation of its obligations under the INF Treaty and obtain the complete and verifiable elimination of its military systems that constitute the violation of its obligations under the INF Treaty.
+&emsp;&emsp;(A) A description of the status of the President's efforts, in cooperation with United States allies, to hold the Russian Federation accountable for being in violation of its obligations under the INF Treaty and obtain the complete and verifiable elimination of its military systems that constitute the violation of its obligations under the INF Treaty.
 
 &emsp;&emsp;(B) The President's assessment as to whether it remains in the national security interests of the United States to remain a party to the INF Treaty, and other related treaties and agreements, while the Russian Federation is in violation of its obligations under the INF Treaty.
 

@@ -1,0 +1,6 @@
+### §699. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §9, 68 Stat. 726, which related to taxation of property distributed under this subchapter, was omitted from the Code as being of special and not general application.
+

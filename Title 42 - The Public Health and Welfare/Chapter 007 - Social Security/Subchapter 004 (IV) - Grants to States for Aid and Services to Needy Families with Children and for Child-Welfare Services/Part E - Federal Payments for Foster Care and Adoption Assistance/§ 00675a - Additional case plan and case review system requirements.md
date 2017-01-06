@@ -6,7 +6,7 @@ In the case of any child for whom another planned permanent living arrangement i
 
 #### (1) Documentation of intensive, ongoing, unsuccessful efforts for family placement
 
-&emsp;At each permanency hearing held with respect to the child, the State agency documents the intensive, ongoing, and, as of the date of the hearing, unsuccessful efforts made by the State agency to return the child home or secure a placement for the child with a fit and willing relative (including adult siblings), a legal guardian, or an adoptive parent, including through efforts that utilize search technology (including social media) to find biological family members for the children.
+&emsp;At each permanency hearing held with respect to the child, the State agency documents the intensive, ongoing, and, as of the date of the hearing, unsuccessful efforts made by the State agency to return the child home or secure a placement for the child with a fitand willing relative (including adult siblings), a legal guardian, or an adoptive parent, including through efforts that utilize search technology (including social media) to find biological family members for the children.
 
 #### (2) Redetermination of appropriateness of placement at each permanency hearing
 

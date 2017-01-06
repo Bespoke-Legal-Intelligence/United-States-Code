@@ -34,7 +34,7 @@ The Administrator of a facility shall—
 
 (1) The Ombudsman of a facility shall, under the authority, direction, and control of the Administrator of the facility, serve as ombudsman for the residents and perform such other duties as the Administrator may assign.
 
-(2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Under Secretary of Defense for Personnel and Readiness.
+(2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the InspectorGeneral of the Department of Defense, and the Under Secretary of Defense for Personnel and Readiness.
 
 #### (f) Staff
 

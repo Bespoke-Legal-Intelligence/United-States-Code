@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 113–86, §2(3), added subsec. (e).
 
 #### Authorization of Appropriations
 
-Pub. L. 109–430, §4, Dec. 20, 2006, 120 Stat. 2919, as amended by Pub. L. 113–86, §3, Mar. 6, 2014, 128 Stat. 1016, provided that: "There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under section 311 of this title\] $13,500,000 for each of fiscal years 2014 through 2018."
+Pub. L. 109–430, §4, Dec. 20, 2006, 120 Stat. 2919, as amended by Pub. L. 113–86, §3, Mar. 6, 2014, 128 Stat.1016, provided that: "There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under section 311 of this title\] $13,500,000 for each of fiscal years 2014 through 2018."
 
 #### Definitions
 

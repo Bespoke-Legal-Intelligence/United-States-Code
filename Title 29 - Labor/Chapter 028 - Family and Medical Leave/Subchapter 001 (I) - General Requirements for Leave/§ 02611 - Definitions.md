@@ -138,7 +138,7 @@ As used in this subchapter:
 
 &emsp;The term "covered servicemember" means—
 
-&emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
+&emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on thetemporary disability retired list, for a serious injury or illness; or
 
 &emsp;&emsp;(B) a veteran who is undergoing medical treatment, recuperation, or therapy, for a serious injury or illness and who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the period of 5 years preceding the date on which the veteran undergoes that medical treatment, recuperation, or therapy.
 

@@ -52,7 +52,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which current procurement requirements, when fully implemented in accordance with subsection (b) of this section, may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
+&emsp;The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which current procurement requirements, when fully implemented in accordance with subsection (b) of this section, may realize energy savings and environmentalbenefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
 
 #### (2) Matters to be addressed
 

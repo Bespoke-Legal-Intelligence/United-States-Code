@@ -4,17 +4,17 @@
 
 The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
 
-&emsp;(1) be administered by FEMA to achieve the objectives set forth in subsection (c) of this section;
+&emsp;(1) be administered by FEMA to achieve the objectives set forth in subsection (c);
 
 &emsp;(2) involve, to the extent appropriate, each Federal agency; and
 
 &emsp;(3) include—
 
-&emsp;&emsp;(A) each of the components described in subsection (d) of this section;
+&emsp;&emsp;(A) each of the components described in subsection (d);
 
-&emsp;&emsp;(B) the strategic plan described in subsection (b) of this section; and
+&emsp;&emsp;(B) the strategic plan described in subsection (b); and
 
-&emsp;&emsp;(C) assistance for State dam safety programs described in subsection (e) of this section.
+&emsp;&emsp;(C) assistance for State dam safety programs described in subsection (e).
 
 #### (b) Duties
 
@@ -70,7 +70,7 @@ The objectives of the Program are to—
 
 #### (A) Leadership
 
-&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
+&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercisedby chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
 
 #### (B) Technical assistance
 
@@ -148,7 +148,7 @@ The objectives of the Program are to—
 
 #### (B) Approval
 
-&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
+&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safetyprogram fails to meet the requirements of paragraphs (1) through (3).
 
 #### (C) Notification of disapproval
 
@@ -208,7 +208,7 @@ The objectives of the Program are to—
 
 #### (A) Federal employees
 
-&emsp;&emsp;Each member of the Board who is an officer or employee of the United States shall serve without compensation in addition to compensation received for the services of themember as an officer or employee of the United States.
+&emsp;&emsp;Each member of the Board who is an officer or employee of the United States shall serve without compensation in addition to compensation received for the services of the member as an officer or employee of the United States.
 
 #### (B) Other members
 
@@ -292,7 +292,7 @@ Subsec. (e)(1). Pub. L. 107–310, §3(f)(1), substituted "the Director shall pr
 
 &emsp;"(A) in accordance with the criteria specified in paragraph (2); and
 
-&emsp;"(B) in accordance with more advanced requirements and standards established by the Board and the Director with the assistance of established criteria such as the Model State Dam Safety Programpublished by FEMA, numbered 123 and dated April 1987, and amendments to the Model State Dam Safety Program."
+&emsp;"(B) in accordance with more advanced requirements and standards established by the Board and the Director with the assistance of established criteria such as the Model State Dam Safety Program published by FEMA, numbered 123 and dated April 1987, and amendments to the Model State Dam Safety Program."
 
 Subsec. (e)(2). Pub. L. 107–310, §3(f)(2)(A), in introductory provisions, struck out "primary" after "For a State to be eligible for" and ", and for a State to be eligible for advanced assistance under this subsection, a State dam safety program must meet the following criteria and budgeting requirement and be working toward meeting the advanced requirements and standards established under paragraph (1)(B)" before colon.
 
@@ -318,7 +318,7 @@ Subsec. (f)(4) to (6). Pub. L. 107–310, §3(g)(3)(B), added pars. (4) to (6). 
 
 Subsec. (f)(7). Pub. L. 107–310, §3(g)(3)(A), redesignated par. (4) as (7).
 
-Subsec. (f)(8). Pub. L. 107–310, §3(g)(4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: "Each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board."
+Subsec. (f)(8). Pub. L. 107–310, §3(g)(4), added par. (8) and struck out heading and text of former par. (8). Textread as follows: "Each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board."
 
 Pub. L. 107–310, §3(g)(3)(A), redesignated par. (5) as (8).
 

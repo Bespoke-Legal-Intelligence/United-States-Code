@@ -22,7 +22,7 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 #### (I) Safety vacuum release system
 
-&emsp;&emsp;&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that hasbeen tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
+&emsp;&emsp;&emsp;&emsp;A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
 
 #### (II) Suction-limiting vent system
 
@@ -77,4 +77,8 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–314 inserted at end "If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public."
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

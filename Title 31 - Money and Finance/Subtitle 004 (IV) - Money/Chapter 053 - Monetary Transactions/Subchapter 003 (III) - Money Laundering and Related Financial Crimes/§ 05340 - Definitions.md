@@ -12,7 +12,7 @@ Money laundering and related financial crime.—The term "money laundering and r
 
 &emsp;&emsp;(A) means the movement of illicit cash or cash equivalent proceeds into, out of, or through the United States, or into, out of, or through United States financial institutions, as defined in section 5312 of title 31, United States Code; or
 
-&emsp;&emsp;(B) has the meaning given that term (or the term used for an equivalent offense) under State and local criminal statutes pertaining to the movement of illicit cash or cash equivalent proceeds.
+&emsp;&emsp;(B) has the meaning given that term (or the term used for an equivalent offense)under State and local criminal statutes pertaining to the movement of illicit cash or cash equivalent proceeds.
 
 &emsp;(3)
 

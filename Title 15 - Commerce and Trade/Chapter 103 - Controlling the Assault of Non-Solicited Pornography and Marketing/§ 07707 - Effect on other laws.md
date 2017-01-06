@@ -4,13 +4,13 @@
 
 (1) Nothing in this chapter shall be construed to impair the enforcement of section 223 or 231 of title 47, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
 
-(2) Nothing in this chapter shall be construed to affect in any way the Commission's authority to bring enforcement actions under FTC Act for materially false or deceptive representations or unfair practices in commercial electronic mail messages.
+(2) Nothing in this chapter shall be construed to affect in any way the Commission's authorityto bring enforcement actions under FTC Act for materially false or deceptive representations or unfair practices in commercial electronic mail messages.
 
 #### (b) State law
 
 #### (1) In general
 
-&emsp;This chapter supersedes any statute, regulation, or rule of a State or political subdivision of a State that expressly regulates the use of electronic mail to send commercial messages, except to the extent that any such statute,regulation, or rule prohibits falsity or deception in any portion of a commercial electronic mail message or information attached thereto.
+&emsp;This chapter supersedes any statute, regulation, or rule of a State or political subdivision of a State that expressly regulates the use of electronic mail to send commercial messages, except to the extent that any such statute, regulation, or rule prohibits falsity or deception in any portion of a commercial electronic mail message or information attached thereto.
 
 #### (2) State law not specific to electronic mail
 
@@ -29,4 +29,8 @@ Nothing in this chapter shall be construed to have any effect on the lawfulness 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### Effective Date
+
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 

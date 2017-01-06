@@ -94,7 +94,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(II) In calculating the proportionate amount of Federal funds, the local educational agency, after timely and meaningful consultation with representatives of private schools as described in clause (iii), shall conduct a thorough and complete child find process to determine the number of parentally placed children with disabilities attending private schools located in the local educational agency.
 
-&emsp;&emsp;&emsp;&emsp;(III) Such services to parentally placed private school children with disabilities may be provided to the children on thepremises of private, including religious, schools, to the extent consistent with law.
+&emsp;&emsp;&emsp;&emsp;(III) Such services to parentally placed private school children with disabilities may be provided to the children on the premises of private, including religious, schools, to the extent consistent with law.
 
 &emsp;&emsp;&emsp;&emsp;(IV) State and local funds may supplement and in no case shall supplant the proportionate amount of Federal funds required to be expended under this subparagraph.
 
@@ -130,7 +130,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(II) the determination of the proportionate amount of Federal funds available to serve parentally placed private school children with disabilities under this subparagraph, including the determination of how the amount was calculated;
 
-&emsp;&emsp;&emsp;&emsp;(III) the consultation process among the local educational agency, private school officials, and representatives of parents of parentally placed private school children with disabilities, including how such process will operate throughout the school year to ensure that parentally placed private school children with disabilities identified through the child find process can meaningfully participate in special education and related services;
+&emsp;&emsp;&emsp;&emsp;(III) the consultation process among the local educational agency, private school officials, and representatives ofparents of parentally placed private school children with disabilities, including how such process will operate throughout the school year to ensure that parentally placed private school children with disabilities identified through the child find process can meaningfully participate in special education and related services;
 
 &emsp;&emsp;&emsp;&emsp;(IV) how, where, and by whom special education and related services will be provided for parentally placed private school children with disabilities, including a discussion of types of services, including direct services and alternate service delivery mechanisms, how such services will be apportioned if funds are insufficient to serve all children, and how and when these decisions will be made; and
 
@@ -148,7 +148,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (II) Procedure
 
-&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educationalagency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
+&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
 
 #### (vi) Provision of equitable services
 
@@ -210,7 +210,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the school prevented the parent from providing such notice;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the parents had not received notice, pursuant to section 1415 of thistitle, of the notice requirement in clause (iii)(I); or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the parents had not received notice, pursuant to section 1415 of this title, of the notice requirement in clause (iii)(I); or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) compliance with clause (iii)(I) would likely result in physical harm to the child; and
 
@@ -252,7 +252,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) Agency financial responsibility
 
-&emsp;&emsp;&emsp;An identification of, or a method for defining, the financial responsibility of each agency for providing services described in subparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child's IEP).
+&emsp;&emsp;&emsp;An identification of, or a method for defining, the financial responsibility of each agency for providing services described insubparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child's IEP).
 
 #### (ii) Conditions and terms of reimbursement
 
@@ -374,7 +374,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
 
-&emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
+&emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments,and the number of those children who were provided accommodations in order to participate in those assessments.
 
 &emsp;&emsp;&emsp;(ii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(I).
 
@@ -404,7 +404,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;The State does not reduce the amount of State financial support for special educationand related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
+&emsp;&emsp;The State does not reduce the amount of State financial support for special education and related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
 
 #### (B) Reduction of funds for failure to maintain support
 
@@ -596,7 +596,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (A) Determination of amounts
 
-&emsp;&emsp;If the Secretary arranges for services pursuant to this subsection, the Secretary, after consultation with the appropriate public and private school officials, shall pay to the provider of such services for a fiscal year an amount per child that does not exceed the amount determined by dividing—
+&emsp;&emsp;If the Secretary arranges for services pursuant to this subsection, the Secretary, afterconsultation with the appropriate public and private school officials, shall pay to the provider of such services for a fiscal year an amount per child that does not exceed the amount determined by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount received by the State under this subchapter for such fiscal year; by
 
@@ -622,7 +622,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (C) Review of findings of fact
 
-&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall beconclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (D) Jurisdiction of court of appeals; review by United States Supreme Court
 

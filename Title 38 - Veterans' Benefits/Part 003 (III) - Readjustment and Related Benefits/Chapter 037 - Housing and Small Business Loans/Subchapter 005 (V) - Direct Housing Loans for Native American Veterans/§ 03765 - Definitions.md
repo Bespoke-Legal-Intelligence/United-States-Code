@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 &emsp;(3) The term "Native American" means—
 
-&emsp;&emsp;(A) an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d));
+&emsp;&emsp;(A) an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)); <sup>1</sup>
 
 &emsp;&emsp;(B) a native Hawaiian, as that term is defined in section 201(a)(7) of the Hawaiian Homes Commission Act, 1920 (Public Law 67–34; 42 Stat. 108);
 
@@ -24,7 +24,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(D) a Pacific Islander, within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).
 
-&emsp;(4) The term "tribal organization" shall have the meaning given such term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)) and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
+&emsp;(4) The term "tribal organization" shall have the meaning given such term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)) <sup>1</sup> and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
 
 &emsp;(5) The term "qualified non-Native American veteran" means a veteran who—
 
@@ -36,13 +36,19 @@ For the purposes of this subchapter—
 
 #### References in Text
 
+Section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)), referred to in par. (3)(A), was classified to section 450b(d) of Title 25, Indians, prior to editorial reclassification as section 5304(d) of Title 25.
+
 Section 201(a)(7) of the Hawaiian Homes Commission Act, 1920, referred to in par. (3)(B), was classified to section 692 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+
+Section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)), referred to in par. (4), was classified to section 450b(l) of Title 25, prior to editorial reclassification as section 5304(l) of Title 25.
 
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–233, §104(a)(1), renumbered section 3764 of this title as this section.
 
 Par. (5). Pub. L. 109–233, §104(b), added par. (5).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

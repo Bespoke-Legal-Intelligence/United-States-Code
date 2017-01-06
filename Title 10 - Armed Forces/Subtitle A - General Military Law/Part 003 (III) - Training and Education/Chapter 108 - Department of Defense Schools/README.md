@@ -7,7 +7,7 @@
 | [2163\.](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md) | Degree granting authority for National Defense University. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
-| [2166\.](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
+| \[2166. | Renumbered.\] |
 | [2167\.](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md) | National Defense University: admission of private sector civilians to professional military education program. |
 | [2167a.](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md) | Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction. |
 | [2168\.](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md) | Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language. |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+Pub. L. 114–328, div. A, title XII, §1241(o)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 "Western Hemisphere Institute for Security Cooperation".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted "National Intelligence University" for "National Defense Intelligence College" in item 2161.
 
@@ -43,7 +45,7 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 #### Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations
 
-Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, §2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: "During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: <i>Provided</i>, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center."
+Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, §2861(c), Dec. 19, 2014, 128 Stat. 3716, related to waiver by the Secretary of Defense of reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations, prior to repeal by Pub. L. 114–328, div. A, title XII, §1241(e)(5)(D), Dec. 23, 2016, 130 Stat. 2507.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -103,7 +105,7 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 - [&sect; 02163 - Degree granting authority for National Defense University](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
-- [&sect; 02166 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)
+- [&sect; 02166 - Renumbered &sect;343](%C2%A7%2002166%20-%20Renumbered%20%C2%A7343.md)
 - [&sect; 02167 - National Defense University admission of private sector civilians to professional military education program](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md)
 - [&sect; 02167a - Defense Cyber Investigations Training Academy admission of private sector civilians to receive instruction](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md)
 - [&sect; 02168 - Defense Language Institute Foreign Language Center degree of Associate of Arts in foreign language](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md)

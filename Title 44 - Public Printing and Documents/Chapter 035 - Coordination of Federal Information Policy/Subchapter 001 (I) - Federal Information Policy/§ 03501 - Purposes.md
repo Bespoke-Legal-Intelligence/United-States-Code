@@ -6,7 +6,7 @@ The purposes of this subchapter are to—
 
 &emsp;(2) ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the Federal Government;
 
-&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniformFederal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
+&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
 
 &emsp;(4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
 
@@ -14,7 +14,7 @@ The purposes of this subchapter are to—
 
 &emsp;(6) strengthen the partnership between the Federal Government and State, local, and tribal governments by minimizing the burden and maximizing the utility of information created, collected, maintained, used, disseminated, and retained by or for the Federal Government;
 
-&emsp;(7) provide for the dissemination of public information on a timely basis, on equitable terms, and in a manner that promotes the utility of the information to the public and makes effective use of information technology;
+&emsp;(7) provide for the dissemination of public information on a timely basis, on equitable terms, and in a manner that promotes theutility of the information to the public and makes effective use of information technology;
 
 &emsp;(8) ensure that the creation, collection, maintenance, use, dissemination, and disposition of information by or for the Federal Government is consistent with applicable laws, including laws relating to—
 
@@ -94,7 +94,7 @@ Pub. L. 107–347, title II, Dec. 17, 2002, 116 Stat. 2910, as amended by Pub. L
 
 In General.—The head of each agency shall be responsible for—
 
-&emsp;"(1) complying with the requirements of this Act \[see Tables for classification\] (including the amendments made by this Act), the related information resource management policies and guidance established by the Director of the Office of Management andBudget, and the related information technology standards promulgated by the Secretary of Commerce;
+&emsp;"(1) complying with the requirements of this Act \[see Tables for classification\] (including the amendments made by this Act), the related information resource management policies and guidance established by the Director of the Office of Management and Budget, and the related information technology standards promulgated by the Secretary of Commerce;
 
 &emsp;"(2) ensuring that the information resource management policies and guidance established under this Act by the Director, and the related information technology standards promulgated by the Secretary of Commerce are communicated promptly and effectively to all relevant officials within their agency; and
 
@@ -498,7 +498,7 @@ Committee functions.—Not later than 2 years after the date of enactment of thi
 
 Functions of the archivist.—Not later than 1 year after the submission of recommendations by the Committee under paragraph (1), the Archivist of the United States shall issue policies—
 
-&emsp;&emsp;"(A) requiring the adoption by agencies of policies and procedures to ensure that chapters 21, 25, 27, 29, and 31 of title 44, United States Code, are applied effectively and comprehensively to Government information on the Internet and to other electronic records; and
+&emsp;&emsp;"(A) requiring the adoption by agencies of policies and procedures to ensure that chapters 21, 25,27, 29, and 31 of title 44, United States Code, are applied effectively and comprehensively to Government information on the Internet and to other electronic records; and
 
 &emsp;&emsp;"(B) imposing timetables for the implementation of the policies, procedures, and technologies by agencies.
 
@@ -624,7 +624,7 @@ Repository and website.—The Director of the Office of Management and Budget (o
 
 &emsp;&emsp;&emsp;"(cc) the entity or institution performing the task or award and its contact information;
 
-&emsp;&emsp;&emsp;"(dd) the total amount of Federal funds expected to be provided to the task or awardover its lifetime and the amount of funds expected to be provided in each fiscal year in which the work of the task or award is ongoing;
+&emsp;&emsp;&emsp;"(dd) the total amount of Federal funds expected to be provided to the task or award over its lifetime and the amount of funds expected to be provided in each fiscal year in which the work of the task or award is ongoing;
 
 &emsp;&emsp;&emsp;"(ee) any restrictions attached to the task or award that would prevent the sharing with the general public of any or all of the information required by this subsection, and the reasons for such restrictions; and
 
@@ -776,7 +776,7 @@ Contents.—The guidance shall require that a privacy notice address, consistent
 
 &emsp;&emsp;&emsp;"(iv) with whom the information will be shared;
 
-&emsp;&emsp;&emsp;"(v) what notice or opportunities for consent would be provided to individuals regarding whatinformation is collected and how that information is shared;
+&emsp;&emsp;&emsp;"(v) what notice or opportunities for consent would be provided to individuals regarding what information is collected and how that information is shared;
 
 &emsp;&emsp;&emsp;"(vi) how the information will be secured; and
 
@@ -1052,7 +1052,7 @@ Procedures.—Not later than 30 days after the date of the enactment of this Act
 
 "(c)
 
-Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
+Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representativesand the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
 
 #### "SEC. 212. INTEGRATED REPORTING STUDY AND PILOT PROJECTS.
 
@@ -1296,7 +1296,7 @@ Authorization of appropriations.—There are authorized to be appropriated for r
 
 "(c)
 
-Pilot Projects.—Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further the goal of maximizing the utility of information technology in disaster management. The Administratorshall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
+Pilot Projects.—Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further the goal of maximizing the utility of information technology in disaster management. The Administrator shall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
 
 #### "SEC. 215. DISPARITIES IN ACCESS TO THE INTERNET.
 
@@ -1310,7 +1310,7 @@ Study.—Not later than 90 days after the date of enactment of this Act \[Dec. 1
 
 &emsp;"(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
+Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives a final report of the study under this section, which shall set forth the findings,conclusions, and recommendations of the National Research Council.
 
 "(b)
 
@@ -1512,7 +1512,7 @@ Various Energy Statutes.—Data or information acquired by the Energy Informatio
 
 Section 201
 
-of Congressional Budget Act of 1974 \[2 U.S.C. 601\].—This title, including amendments made by this title, shall not be construed to limit any authorities of the Congressional Budget Office to work (consistent with laws governing the confidentiality of information the disclosure of which would be a violation of law) with databases of Designated StatisticalAgencies (as defined in section 522), either separately or, for data that may be shared pursuant to section 524 of this title or other authority, jointly in order to improve the general utility of these databases for the statistical purpose of analyzing pension and health care financing issues.
+of Congressional Budget Act of 1974 \[2 U.S.C. 601\].—This title, including amendments made by this title, shall not be construed to limit any authorities of the Congressional Budget Office to work (consistent with laws governing the confidentiality of information the disclosure of which would be a violation of law) with databases of Designated Statistical Agencies (as defined in section 522), either separately or, for data that may be shared pursuant to section 524 of this title or other authority, jointly in order to improve the general utility of these databases for the statistical purpose of analyzing pension and health care financing issues.
 
 "(f)
 
@@ -1604,7 +1604,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, Pub. L. 94–472, as amended by Pub. L. 101–533, which is classified to 22 U.S.C. 3101 et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
 
-&emsp;"(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
+&emsp;"(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest levelof confidentiality for respondents to statistical surveys.
 
 "(b)
 

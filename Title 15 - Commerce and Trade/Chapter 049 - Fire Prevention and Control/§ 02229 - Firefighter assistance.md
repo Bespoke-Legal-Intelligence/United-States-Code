@@ -268,7 +268,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;(3) not less than 25 percent are awarded under subsection (c) to combination fire departments and fire departments using paid-on-call firefighting personnel;
 
-&emsp;(4) not less than 10 percent are available for open competition among career fire departments, volunteer fire departments, combination fire departments, and fire departmentsusing paid-on-call firefighting personnel for grants awarded under subsection (c);
+&emsp;(4) not less than 10 percent are available for open competition among career fire departments, volunteer fire departments, combination fire departments, and fire departments using paid-on-call firefighting personnel for grants awarded under subsection (c);
 
 &emsp;(5) not less than 10 percent are awarded under subsection (d); and
 
@@ -400,7 +400,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 #### (B) Means of matching
 
-&emsp;&emsp;An applicant for a grant under subsection (d) may meet the matching requirement under subparagraph (A) through direct funding, funding of complementary activities, or the provision of staff, facilities, services, material, or equipment.
+&emsp;&emsp;An applicant for a grant under subsection (d) may meet the matching requirement under subparagraph (A) through direct funding, funding of complementary activities, orthe provision of staff, facilities, services, material, or equipment.
 
 #### (3) Maintenance of expenditures
 
@@ -498,7 +498,7 @@ The Alaska Village Initiatives, a non-profit organization incorporated in the St
 
 #### (o) Training standards
 
-If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6, the applicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
+If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6, theapplicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
 
 #### (p) Ensuring effective use of grants
 

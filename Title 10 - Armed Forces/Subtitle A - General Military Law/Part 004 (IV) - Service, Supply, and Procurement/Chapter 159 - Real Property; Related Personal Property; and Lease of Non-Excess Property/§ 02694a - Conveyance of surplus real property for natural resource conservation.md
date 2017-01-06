@@ -10,7 +10,7 @@ Authority to Convey.—The Secretary of a military department may convey to an e
 
 &emsp;(3) has been made available for public benefit transfer for a sufficient period of time to potential claimants; and
 
-&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real propertydisposal processes and authorities under subtitle I of title 40.
+&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real property disposal processes and authorities under subtitle I of title 40.
 
 (b)
 

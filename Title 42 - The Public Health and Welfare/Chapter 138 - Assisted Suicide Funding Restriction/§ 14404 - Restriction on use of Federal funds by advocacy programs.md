@@ -14,7 +14,7 @@ Subject to section 14402(b) of this title (relating to construction and treatmen
 
 #### (1) In general
 
-&emsp;Subsection (a) of this section applies to funds appropriated under or to carry out the following:
+&emsp;Subsection (a) applies to funds appropriated under or to carry out the following:
 
 #### (A) Protection and advocacy systems under the Developmental Disabilities Assistance and Bill of Rights Act of 2000
 
@@ -38,7 +38,7 @@ Subject to section 14402(b) of this title (relating to construction and treatmen
 
 #### (2) Nonexclusive list
 
-&emsp;Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1).
+&emsp;Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1).
 
 (Pub. L. 105–12, §5, Apr. 30, 1997, 111 Stat. 25; Pub. L. 106–402, title IV, §401(b)(15)(B), Oct. 30, 2000, 114 Stat. 1740.)
 
@@ -54,7 +54,7 @@ The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "Part C of the Developmental Disabilities Assistance and Bill of Rights Act."
+<b>2000</b>—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar.\(A). Text read as follows: "Part C of the Developmental Disabilities Assistance and Bill of Rights Act."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "or governmental entity".</i>
 

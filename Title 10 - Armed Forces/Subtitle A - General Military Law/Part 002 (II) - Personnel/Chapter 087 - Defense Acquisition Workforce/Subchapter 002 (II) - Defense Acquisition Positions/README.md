@@ -8,11 +8,13 @@
 | [1722b.](%C2%A7%2001722b%20-%20Special%20requirements%20for%20civilian%20employees%20in%20the%20acquisition%20field.md) | Special requirements for civilian employees in the acquisition field. |
 | [1723\.](%C2%A7%2001723%20-%20General%20education%2C%20training%2C%20and%20experience%20requirements.md) | General education, training, and experience requirements. |
 | [1724\.](%C2%A7%2001724%20-%20Contracting%20positions%20qualification%20requirements.md) | Contracting positions: qualification requirements. |
-| \[1725. | Repealed.\] |
+| [1725\.](%C2%A7%2001725%20-%20Senior%20Military%20Acquisition%20Advisors.md) | Senior Military Acquisition Advisors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §866(a)(2), Dec. 23, 2016, 130 Stat. 2306, added item 1725.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title VIII, §873(a)(2), Jan. 7, 2011, 124 Stat. 4303, added item 1722b.
 
@@ -33,4 +35,4 @@
 - [&sect; 01722b - Special requirements for civilian employees in the acquisition field](%C2%A7%2001722b%20-%20Special%20requirements%20for%20civilian%20employees%20in%20the%20acquisition%20field.md)
 - [&sect; 01723 - General education, training, and experience requirements](%C2%A7%2001723%20-%20General%20education%2C%20training%2C%20and%20experience%20requirements.md)
 - [&sect; 01724 - Contracting positions qualification requirements](%C2%A7%2001724%20-%20Contracting%20positions%20qualification%20requirements.md)
-- [&sect; 01725 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;832(a), Nov. 24, 2003, 117 Stat. 1550; amended Pub. L. 108&#8211;375, div. A, title X&#8230;](%C2%A7%2001725%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7832%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201550%3B%20amended%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20X%E2%80%A6.md)
+- [&sect; 01725 - Senior Military Acquisition Advisors](%C2%A7%2001725%20-%20Senior%20Military%20Acquisition%20Advisors.md)

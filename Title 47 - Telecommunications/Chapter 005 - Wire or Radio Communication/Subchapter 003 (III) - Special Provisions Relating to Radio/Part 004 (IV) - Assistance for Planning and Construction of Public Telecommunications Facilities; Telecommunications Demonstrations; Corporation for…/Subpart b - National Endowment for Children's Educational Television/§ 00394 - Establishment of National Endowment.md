@@ -42,7 +42,7 @@ It is the purpose of this section to enhance the education of children through t
 
 #### (d) Amount of grants
 
-Upon approving any application for a grant under subsection (b)(1)(B) of this section, the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amounts shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of the project for which the grant is made.
+Upon approving any application for a grant under subsection (b)(1)(B), the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amounts shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of the project for which the grant is made.
 
 #### (e) Advisory Council on Children's Educational Television
 
@@ -66,13 +66,13 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 #### (h) Authorization of appropriations; availability
 
-There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
+There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and$6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
 
 #### (i) Definitions
 
 For purposes of this section—
 
-&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience ofchildren who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
+&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience of children who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
 
 &emsp;(2) the term "person" means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
 

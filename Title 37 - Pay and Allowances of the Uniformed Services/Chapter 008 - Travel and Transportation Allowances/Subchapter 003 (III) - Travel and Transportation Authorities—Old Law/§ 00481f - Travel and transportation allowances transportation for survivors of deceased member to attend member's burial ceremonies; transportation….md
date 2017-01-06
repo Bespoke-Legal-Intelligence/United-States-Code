@@ -34,7 +34,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 (d)
 
-Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
+Transportation to Transfer Ceremonies of Members of the Armed Forces Who DieOverseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
 &emsp;(A) The primary next of kin of the member.
 
@@ -48,7 +48,7 @@ Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Ove
 
 (3) Transportation shall be provided under this subsection by means of Invitational Travel Authorizations.
 
-(4) The Secretary of a military department may, upon the request of the primary next ofkin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
+(4) The Secretary of a military department may, upon the request of the primary next of kin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
 
 (e)
 
@@ -124,7 +124,7 @@ Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted "The" for "If no per
 
 "(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under this section may be provided to and from such place and may be extended to accommodate the time necessary for such travel.
 
-"(c) In this section, the term 'dependents' includes the dependents specified in paragraphs (1) and (2) ofsection 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section."
+"(c) In this section, the term 'dependents' includes the dependents specified in paragraphs (1) and (2) of section 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section."
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–35 substituted "section 401(a) of this title" for "section 401 of this title".
 

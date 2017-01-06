@@ -18,7 +18,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) does not include the Government Accountability Office.
 
-&emsp;(3) The term "geographic area of the permanent duty station" means the area from which individuals reasonably can be expected to travel daily to and from work at the location of a member's permanent duty station.
+&emsp;(3) The term "geographic area of the permanent duty station" means the area from whichindividuals reasonably can be expected to travel daily to and from work at the location of a member's permanent duty station.
 
 &emsp;(4) The term "permanent change of station" means the assignment, detail, or transfer of a member of the Armed Forces who is on active duty and serving at a permanent duty station under a competent authorization or order that does not—
 
@@ -70,6 +70,10 @@ In general.—An appointment of a relocating spouse of a member of the Armed For
 
 Single permanent appointment per duty station.—A relocating spouse of a member of the Armed Forces may not receive more than 1 permanent appointment under this section for each time the spouse relocates as described in subparagraphs (B) and (C) of subsection (a)(5).
 
+&emsp;(3)
+
+No time limitation on appointment.—A relocating spouse of a member of the Armed Forces remains eligible for noncompetitive appointment under this section for the duration of the spouse's relocation to the permanent duty station of the member.
+
 (d)
 
 Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—
@@ -82,7 +86,11 @@ In general.—An appointment of an eligible spouse as described in subparagraph 
 
 Single permanent appointment.—A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.
 
-(Added Pub. L. 112–239, div. A, title V, §566(a), Jan. 2, 2013, 126 Stat. 1749.)
+(Added Pub. L. 112–239, div. A, title V, §566(a), Jan. 2, 2013, 126 Stat. 1749; amended Pub. L. 114–328, div. A, title XI, §1131, Dec. 23, 2016, 130 Stat. 2457.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 added par. (3).
 
 #### Regulations
 

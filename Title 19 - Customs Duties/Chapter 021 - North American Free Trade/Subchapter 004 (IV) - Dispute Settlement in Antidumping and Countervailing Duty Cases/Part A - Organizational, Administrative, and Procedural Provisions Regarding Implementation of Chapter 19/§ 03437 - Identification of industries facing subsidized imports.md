@@ -62,7 +62,7 @@ Any decision, whether positive or negative, or any action by the Trade Represent
 
 &emsp;(1) prejudice the right of any industry to file a petition under any trade law;
 
-&emsp;(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, theInternational Trade Commission, or the Trade Representative pursuant to such a petition; or
+&emsp;(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the International Trade Commission, or the Trade Representative pursuant to such a petition; or
 
 &emsp;(3) prejudice, affect, substitute for, or obviate any proceeding, investigation, or determination under section 2411 of this title, title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], or any other trade law.
 

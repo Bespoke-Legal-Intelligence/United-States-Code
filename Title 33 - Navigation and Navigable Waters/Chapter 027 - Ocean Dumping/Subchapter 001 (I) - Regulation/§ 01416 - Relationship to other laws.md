@@ -6,7 +6,7 @@ After the effective date of this subchapter, all licenses, permits, and authoriz
 
 #### (b) Actions under authority of Rivers and Harbors Act
 
-The provisions of subsection (a) of this section shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 (30 Stat. 1151), as amended (33 U.S.C. 401 et seq.).
+The provisions of subsection (a) shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 (30 Stat. 1151), as amended (33 U.S.C. 401 et seq.).
 
 #### (c) Impairment of navigation
 
@@ -20,7 +20,7 @@ Prior to issuing any permit under this subchapter, if it appears to the Administ
 
 #### (2) Federal projects
 
-&emsp;In the case of a Federal project, a State may not adopt or enforce a requirement that is more stringent than a requirement under this subchapter if the Administrator finds that such requirement—
+&emsp;In the case of a Federal project, a State may not adopt or enforce a requirement that ismore stringent than a requirement under this subchapter if the Administrator finds that such requirement—
 
 &emsp;&emsp;(A) is not supported by relevant scientific evidence showing the requirement to be protective of human health, aquatic resources, or the environment;
 
@@ -46,7 +46,7 @@ In addition to other provisions of law and not withstanding the specific exclusi
 
 #### (g) Savings clause
 
-Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting fromnoncompliance with any requirement of this Act or any permit under this Act.
+Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting from noncompliance with any requirement of this Act or any permit under this Act.
 
 (Pub. L. 92–532, title I, §106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, §4, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 99–499, title I, §127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, §203, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, §505, Oct. 31, 1992, 106 Stat. 4867.)
 

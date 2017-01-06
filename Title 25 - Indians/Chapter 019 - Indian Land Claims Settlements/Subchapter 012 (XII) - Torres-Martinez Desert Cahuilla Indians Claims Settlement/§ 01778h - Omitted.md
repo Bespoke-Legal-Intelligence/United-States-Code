@@ -1,0 +1,6 @@
+### §1778h. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–568, title VI, §610, Dec. 27, 2000, 114 Stat. 2912, which authorized appropriations, was omitted from the Code as being of special and not general application.
+

@@ -18,7 +18,7 @@ The term of office of each member of the Board shall be six years; except that a
 
 #### (e) Meetings; quorum; notice
 
-The Board shall meet annually on the third Monday in May unless, prior to May 10 in anyyear, the Chairman has set the annual meeting for a day in May other than the third Monday, and at such other times as the Chairman may determine, but he shall also call a meeting whenever one-third of the members so request in writing. The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.
+The Board shall meet annually on the third Monday in May unless, prior to May 10 in any year, the Chairman has set the annual meeting for a day in May other than the third Monday, and at such other times as the Chairman may determine, but he shall also call a meeting whenever one-third of the members so request in writing. The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.
 
 #### (f) Election of Chairman and Vice Chairman; vacancy
 
@@ -100,7 +100,7 @@ Pub. L. 94–273 substituted "April" for "January".
 
 Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to (i), respectively.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, for provisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
+<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, forprovisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -130,7 +130,7 @@ For reference to maximum rate under section 5376 of Title 5, Government Organiza
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

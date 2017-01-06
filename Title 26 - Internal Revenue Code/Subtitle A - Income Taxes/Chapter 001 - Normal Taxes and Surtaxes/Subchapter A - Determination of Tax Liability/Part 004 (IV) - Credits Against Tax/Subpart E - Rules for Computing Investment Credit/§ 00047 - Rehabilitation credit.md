@@ -16,7 +16,7 @@ For purposes of section 46, the rehabilitation credit for any taxable year is th
 
 #### (2) Coordination with subsection (d)
 
-&emsp;The amount which would (but for this paragraph) be taken into account under paragraph (1) with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection (d) by the taxpayer or a predecessor of the taxpayer (or, in the case of a sale and leaseback described in section 50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section 50(a).
+&emsp;The amount which would (but for this paragraph) be taken into account under paragraph\(1) with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection (d) by the taxpayer or a predecessor of the taxpayer (or, in the case of a sale and leaseback described in section 50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section 50(a).
 
 #### (c) Definitions
 
@@ -244,7 +244,11 @@ For purposes of this section—
 
 &emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388-536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 48(g) of this title, prior to the general amendment of this subpart by Pub. L. 101–508.
 
 #### Amendments
 
@@ -340,7 +344,7 @@ Subsec. (a)(4). Pub. L. 91–172, §703(c)(1), inserted provision making subpars
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3025(b), July 30, 2008, 122 Stat. 2897, provided that: "The amendments made by this section \[amending this section\] shall apply to expenditures properly taken into account for periods after December 31, 2007."
+Pub. L. 110–289, div. C, title I, §3025(b), July 30, 2008, 122 Stat. 2897, provided that: "The amendments madeby this section \[amending this section\] shall apply to expenditures properly taken into account for periods after December 31, 2007."
 
 #### Effective Date of 1990 Amendment
 
@@ -406,7 +410,7 @@ Pub. L. 92–178, title I, §107(b)(2), Dec. 10, 1971, 85 Stat. 507, as amended 
 
 Pub. L. 92–178, title I, §102(d)(3), Dec. 10, 1971, 85 Stat. 500, provided that: "The amendment made by subsection (c) \[amending this section\] shall apply to leases executed after April 18, 1969."
 
-Pub. L. 91–676, §2, Jan. 12, 1971, 84 Stat. 2060, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after April 18, 1969."
+Pub. L. 91–676, §2, Jan. 12, 1971, 84 Stat. 2060, provided that: "The amendment made by the first section of thisAct \[amending this section\] shall apply to taxable years ending after April 18, 1969."
 
 #### Effective Date
 

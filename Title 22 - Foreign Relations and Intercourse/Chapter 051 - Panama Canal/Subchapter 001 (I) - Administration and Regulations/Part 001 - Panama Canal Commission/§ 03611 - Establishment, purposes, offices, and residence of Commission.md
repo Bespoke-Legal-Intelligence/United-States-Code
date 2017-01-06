@@ -48,7 +48,7 @@ Pub. L. 102–484, div. C, title XXXV, §3523, Oct. 23, 1992, 106 Stat. 2658, pr
 
 "(a)
 
-Report.—The Comptroller General shall submit to Congress a report analyzing the effectiveness of the fiscal, operational, and management structure of the Panama Canal Commission and setting forth recommendations for such changes to that structure as the Comptroller General determines would, if implemented, enable the Commission to operate more efficiently and, thereby, serve as a model for the Government of Panama for the operation of the Panama Canal after the transfer of the Panama Canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The Comptroller General shall submit the report to Congress not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\].
+Report.—The Comptroller General shall submit to Congress a report analyzing the effectiveness of thefiscal, operational, and management structure of the Panama Canal Commission and setting forth recommendations for such changes to that structure as the Comptroller General determines would, if implemented, enable the Commission to operate more efficiently and, thereby, serve as a model for the Government of Panama for the operation of the Panama Canal after the transfer of the Panama Canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The Comptroller General shall submit the report to Congress not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\].
 
 "(b)
 

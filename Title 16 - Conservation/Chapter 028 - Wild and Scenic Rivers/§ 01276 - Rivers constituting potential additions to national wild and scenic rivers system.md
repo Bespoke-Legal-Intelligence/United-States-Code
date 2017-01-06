@@ -180,7 +180,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (88) Koyuk, Alaska.
 
-(89) Wildcat Brook, New Hampshire: The segment from its headwaters including the principal tributaries to its confluence with the EllisRiver. The study authorized in this paragraph shall be completed no later than six years from June 19, 1984, and an interim report shall be prepared and submitted to the Congress no later than three years from June 19, 1984.
+(89) Wildcat Brook, New Hampshire: The segment from its headwaters including the principal tributaries to its confluence with the Ellis River. The study authorized in this paragraph shall be completed no later than six years from June 19, 1984, and an interim report shall be prepared and submitted to the Congress no later than three years from June 19, 1984.
 
 (90) Horsepasture, North Carolina: The segment from Bohaynee Road (N.C. 281) downstream to Lake Jocassee.
 
@@ -374,7 +374,7 @@ Delaware River, Pennsylvania and New Jersey.—(A) The approximately 3.6-mile se
 
 (B) The approximately 2-mile segment from the southern tip of Mack Island to the northern border of the town of Belvidere, New Jersey.
 
-(C) The approximately 12.5-mile segment from the southern border of the town of Belvidere, New Jersey, to the northern border of the city ofEaston, Pennsylvania, excluding river mile 196.0 to 193.8.
+(C) The approximately 12.5-mile segment from the southern border of the town of Belvidere, New Jersey, to the northern border of the city of Easton, Pennsylvania, excluding river mile 196.0 to 193.8.
 
 (D) The approximately 9.5-mile segment from the southern border of the town of Phillipsburg, New Jersey, to a point just north of the Gilbert Generating Station.
 
@@ -472,7 +472,7 @@ Nashua river, massachusetts.—The following segments:
 
 &emsp;(A) The approximately 19-mile segment of the mainstem of the Nashua River from the confluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
 
-&emsp;(B) The 10-mile segment of the Squannacook River from the headwaters at Ash Swampdownstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
+&emsp;(B) The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
 
 &emsp;(C) The 3.5-mile segment of the Nissitissit River from the Massachusetts-New Hampshire State line downstream to the confluence with the Nashua River in Pepperell, Massachusetts.
 
@@ -490,7 +490,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a), there are authorized to be appropriated such sums as necessary.
 
-(5) The studies of the rivers in paragraphs (77) through (88) shall be completed and reports transmitted thereon not later than three full fiscal years from December 2, 1980. For the rivers listed in paragraphs (77), (78), and (79) the studies prepared and transmitted to the Congress pursuant to section 6505(c) of title 42 shall satisfy the requirements of this section.
+(5) The studies of the rivers in paragraphs (77) through (88) shall be completed and reports transmitted thereon not later than three fullfiscal years from December 2, 1980. For the rivers listed in paragraphs (77), (78), and (79) the studies prepared and transmitted to the Congress pursuant to section 6505(c) of title 42 shall satisfy the requirements of this section.
 
 (6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when the Bristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>3</sup> of this title.
 
@@ -510,7 +510,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 (C) The Secretary shall prepare the study, including the recommended management plan, in cooperation and consultation with appropriate State and local governments, and affected landowners.
 
-(13) The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990,<sup>5</sup> andshall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
+(13) The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990,<sup>5</sup> and shall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
 
 (14)(A) The study of the Delaware River segments and tributaries designated for potential addition to the National Wild and Scenic Rivers System pursuant to subsection (a)( ) <sup>6</sup> of this section shall be completed and the report submitted to Congress not later than one year after October 23, 1992.
 
@@ -534,7 +534,7 @@ Taunton River, Massachusetts.—Not later than 3 years after October 19, 2000, t
 
 &emsp;(B) shall submit to Congress a report describing the results of the study.
 
-(18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection (a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
+(18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection\(a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
 
 (19)
 
@@ -598,7 +598,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484; Pub. L. 109–370, §2(a), Nov. 27, 2006, 120 Stat. 2643; Pub. L. 111–11, title V, §5101(a), (b), Mar. 30, 2009, 123 Stat. 1153; Pub. L. 113–291, div. B, title XXX, §§3041(e)(2), 3074, Dec. 19, 2014, 128 Stat. 3791, 3847.)
+(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V,§503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484; Pub. L. 109–370, §2(a), Nov. 27, 2006, 120 Stat. 2643; Pub. L. 111–11, title V, §5101(a), (b), Mar. 30, 2009, 123 Stat. 1153; Pub. L. 113–291, div. B, title XXX, §§3041(e)(2), 3074, Dec. 19, 2014, 128 Stat. 3791, 3847.)
 
 #### References in Text
 

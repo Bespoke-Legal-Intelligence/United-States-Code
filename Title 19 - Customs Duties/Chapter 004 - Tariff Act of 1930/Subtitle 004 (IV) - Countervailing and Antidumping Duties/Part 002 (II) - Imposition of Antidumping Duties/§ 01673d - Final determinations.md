@@ -122,7 +122,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(B) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was affirmative, but the preliminary determination under section 1673b(e)(1) of this title was negative, shall modify any suspension of liquidation and security requirement previously ordered under section 1673b(d) of this title to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date onwhich suspension of liquidation is first ordered.
 
 #### (5) Method for determining estimated all-others rate
 
@@ -140,7 +140,7 @@ Whenever the administering authority or the Commission makes a determination und
 
 #### (e) Correction of ministerial errors
 
-The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present theirviews regarding any such errors. As used in this subsection, the term "ministerial error" includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term "ministerial error" includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
 (June 17, 1930, ch. 497, title VII, §735, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 169; amended Pub. L. 98–573, title VI, §§602(c), 605(b), Oct. 30, 1984, 98 Stat. 3024, 3028; Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1201, 1209; Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, 108 Stat. 4849–4851, 4856, 4857, 4900; Pub. L. 104–295, §20(b)(6), Oct. 11, 1996, 110 Stat. 3527.)
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3)of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

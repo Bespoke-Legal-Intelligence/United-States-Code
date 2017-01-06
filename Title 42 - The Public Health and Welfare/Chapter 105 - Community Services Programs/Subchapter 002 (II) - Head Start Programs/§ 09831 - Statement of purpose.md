@@ -78,7 +78,7 @@ Existing program.—The term 'existing program' means a Federal, State, local, o
 
 &emsp;&emsp;"(A) was operating in the State on the day before the date of enactment of this Act \[Dec. 10, 2015\]; or
 
-&emsp;&emsp;"(B) began operating in the State at any time on or after the date of enactment of this Act throughfunds that were not provided by a grant under this section.
+&emsp;&emsp;"(B) began operating in the State at any time on or after the date of enactment of this Act through funds that were not provided by a grant under this section.
 
 &emsp;"(5)
 
@@ -276,7 +276,7 @@ Initial grants.—A State that receives an initial grant under subsection (c)(1)
 
 &emsp;&emsp;"(A) how, and to what extent, the grant funds were utilized for activities described in subsection (f), and any other activities through which funds were used to meet the purposes of this section, as described in subsection (a);
 
-&emsp;&emsp;"(B) strategies undertaken at the State level and, if applicable, local or program level, to implement recommendations in the strategic plan developed under subsection (f)(2);
+&emsp;&emsp;"(B) strategies undertaken at the State level and, if applicable, local or program level, to implementrecommendations in the strategic plan developed under subsection (f)(2);
 
 &emsp;&emsp;"(C)(i) any new partnerships among Head Start providers, State and local governments, Indian tribes and tribal organizations, and private entities (including faith- and community-based entities); and
 

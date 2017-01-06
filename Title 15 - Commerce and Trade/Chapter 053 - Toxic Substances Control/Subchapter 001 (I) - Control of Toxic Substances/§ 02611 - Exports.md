@@ -8,15 +8,15 @@
 
 &emsp;(B) such substance, mixture, or article (when distributed in commerce), or any container in which it is enclosed (when so distributed), bears a stamp or label stating that such substance, mixture, or article is intended for export.
 
-(2) Paragraph (1) shall not apply to any chemical substance, mixture, or article if the Administrator finds that the substance, mixture, or article will present an unreasonable risk of injury to health within the United States or to the environment of the United States. The Administrator may require, under section 2603 of this title, testing of any chemical substance or mixture exempted from this chapter by paragraph (1) for the purpose of determining whether or not such substance or mixture presents an unreasonable risk of injury to health within the United States or to the environment of the United States.
+(2) Paragraph (1) shall not apply to any chemical substance, mixture, or article if the Administrator finds that the substance, mixture, or article presents an unreasonable risk of injury to health within the United States or to the environment of the United States. The Administrator may require, under section 2603 of this title, testing of any chemical substance or mixture exempted from this chapter by paragraph (1) for the purpose of determining whether or not such substance or mixture presents an unreasonable risk of injury to health within the United States or to the environment of the United States.
 
 #### (b) Notice
 
-(1) If any person exports or intends to export to a foreign country a chemical substance or mixture for which the submission of data is required under section 2603 or 2604(b) of this title, such person shall notify the Administrator of such exportation or intent to export and the Administrator shall furnish to the government of such country notice of the availability of the data submitted to the Administrator under such section for such substance or mixture.
+(1) If any person exports or intends to export to a foreign country a chemical substance or mixture for which the submission of information is required under section 2603 or 2604(b) of this title, such person shall notify the Administrator of such exportation or intent to export and theAdministrator shall furnish to the government of such country notice of the availability of the information submitted to the Administrator under such section for such substance or mixture.
 
 (2) If any person exports or intends to export to a foreign country a chemical substance or mixture for which an order has been issued under section 2604 of this title or a rule has been proposed or promulgated under section 2604 or 2605 of this title, or with respect to which an action is pending, or relief has been granted under section 2604 or 2606 of this title, such person shall notify the Administrator of such exportation or intent to export and the Administrator shall furnish to the government of such country notice of such rule, order, action, or relief.
 
-#### (c) Prohibition on export of elemental mercury
+#### (c) Prohibition on export of elemental mercury and mercury compounds
 
 #### (1) Prohibition
 
@@ -44,7 +44,7 @@
 
 #### (B) Procedure
 
-&emsp;&emsp;For the purpose of preparing the report under this paragraph, the Administratormay utilize the information gathering authorities of this subchapter, including sections 2609 and 2610 of this title.
+&emsp;&emsp;For the purpose of preparing the report under this paragraph, the Administrator may utilize the information gathering authorities of this subchapter, including sections 2609 and 2610 of this title.
 
 #### (4) Essential use exemption
 
@@ -78,13 +78,79 @@
 
 &emsp;Nothing in this subsection shall be construed to prohibit the export of coal.
 
-(Pub. L. 94–469, title I, §12, Oct. 11, 1976, 90 Stat. 2033; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 110–414, §4, Oct. 14, 2008, 122 Stat. 4342.)
+#### (7) Prohibition on export of certain mercury compounds
+
+#### (A) In general
+
+&emsp;&emsp;Effective January 1, 2020, the export of the following mercury compounds is prohibited:
+
+&emsp;&emsp;&emsp;(i) Mercury (I) chloride or calomel.
+
+&emsp;&emsp;&emsp;(ii) Mercury (II) oxide.
+
+&emsp;&emsp;&emsp;(iii) Mercury (II) sulfate.
+
+&emsp;&emsp;&emsp;(iv) Mercury (II) nitrate.
+
+&emsp;&emsp;&emsp;(v) Cinnabar or mercury sulphide.
+
+&emsp;&emsp;&emsp;(vi) Any mercury compound that the Administrator adds to the list published under subparagraph (B) by rule, on determining that exporting that mercury compound for the purpose of regenerating elemental mercury is technically feasible.
+
+#### (B) Publication
+
+&emsp;&emsp;Not later than 90 days after June 22, 2016, and as appropriate thereafter, the Administrator shall publish in the Federal Register a list of the mercury compounds that are prohibited from export under this paragraph.
+
+#### (C) Petition
+
+&emsp;&emsp;Any person may petition the Administrator to add a mercury compound to the list published under subparagraph (B).
+
+#### (D) Environmentally sound disposal
+
+&emsp;&emsp;This paragraph does not prohibit the export of mercury compounds on the list published under subparagraph (B) to member countries of the Organization for Economic Co-operation and Development for environmentally sound disposal, on the condition that no mercury or mercury compounds so exported are to be recovered, recycled, or reclaimed for use, or directly reused, after such export.
+
+#### (E) Report
+
+&emsp;&emsp;Not later than 5 years after June 22, 2016, the Administrator shall evaluate any exports of mercury compounds on the list published under subparagraph (B) for disposal that occurred after June 22, 2016, and shall submit to Congress a report that—
+
+&emsp;&emsp;&emsp;(i) describes volumes and sources of mercury compounds on the list published under subparagraph (B) exported for disposal;
+
+&emsp;&emsp;&emsp;(ii) identifies receiving countries of such exports;
+
+&emsp;&emsp;&emsp;(iii) describes methods of disposal used after such export;
+
+&emsp;&emsp;&emsp;(iv) identifies issues, if any, presented by the export of mercury compounds on the list published under subparagraph (B);
+
+&emsp;&emsp;&emsp;(v) includes an evaluation of management options in the United States for mercury compounds on the list published under subparagraph (B), if any, that are commercially available and comparable in cost and efficacy to methods being utilized in such receiving countries; and
+
+&emsp;&emsp;&emsp;(vi) makes a recommendation regarding whether Congress should further limit or prohibit the export of mercury compounds on the list published under subparagraph (B) for disposal.
+
+#### (F) Effect on other law
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the authority of the Administrator under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+
+(Pub. L. 94–469, title I, §12, Oct. 11, 1976, 90 Stat. 2033; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 110–414, §4, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, §§10(a), (b), 19(k), June 22, 2016, 130 Stat. 477, 508.)
+
+#### References in Text
+
+The Solid Waste Disposal Act, referred to in subsec. (c)(7)(F), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–182, §10(a), substituted "presents" for "will present".
+
+Subsec. (b)(1). Pub. L. 114–182, §19(k), substituted "information" for "data" in two places.
+
+Subsec. (c). Pub. L. 114–182, §10(b)(1), inserted "and mercury compounds" after "mercury" in heading.
+
+Subsec. (c)(7). Pub. L. 114–182, §10(b)(2), added par. (7).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–414, §4(1), substituted "subsections (b) and (c)" for "subsection (b)" in introductory provisions.
 
 Subsec. (c). Pub. L. 110–414, §4(2), added subsec. (c).
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
 #### Findings
 
@@ -112,7 +178,7 @@ Pub. L. 110–414, §2, Oct. 14, 2008, 122 Stat. 4341, provided that: "Congress 
 
 &emsp;"(8) the free trade of elemental mercury on the world market, at relatively low prices and in ready supply, encourages the continued use of elemental mercury outside of the United States, often involving highly dispersive activities such as artisinal \[probably should be "artisanal"\] gold mining;
 
-&emsp;"(9) the intentional use of mercury is declining in the United States as a consequence of process changes to manufactured products (including batteries, paints, switches, and measuring devices), but those uses remain substantial in the developing world where releases from the products are extremely likely due to the limited pollution control and waste management infrastructures in those countries;
+&emsp;"(9) the intentional use of mercury is declining in the United States as a consequence of processchanges to manufactured products (including batteries, paints, switches, and measuring devices), but those uses remain substantial in the developing world where releases from the products are extremely likely due to the limited pollution control and waste management infrastructures in those countries;
 
 &emsp;"(10) the member countries of the European Union collectively are the largest source of elemental mercury exports globally;
 
@@ -120,5 +186,5 @@ Pub. L. 110–414, §2, Oct. 14, 2008, 122 Stat. 4341, provided that: "Congress 
 
 &emsp;"(12) the United States is a net exporter of elemental mercury and, according to the United States Geological Survey, exported 506 metric tons of elemental mercury more than the United States imported during the period of 2000 through 2004; and
 
-&emsp;"(13) banning exports of elemental mercury from the United States will have a notable effect on themarket availability of elemental mercury and switching to affordable mercury alternatives in the developing world."
+&emsp;"(13) banning exports of elemental mercury from the United States will have a notable effect on the market availability of elemental mercury and switching to affordable mercury alternatives in the developing world."
 

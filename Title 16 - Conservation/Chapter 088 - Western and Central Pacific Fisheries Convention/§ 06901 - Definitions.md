@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Agreement
 
-&emsp;The term "Agreement" means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
+&emsp;The term "Agreement" means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Lawof the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
 
 #### (3) Commission
 
@@ -58,7 +58,7 @@ In this chapter:
 
 #### (11) Transhipment
 
-&emsp;The term "transshipment" means the unloading of all or any of the fish on board afishing vessel to another fishing vessel either at sea or in port.
+&emsp;The term "transshipment" means the unloading of all or any of the fish on board a fishing vessel to another fishing vessel either at sea or in port.
 
 #### (12) WCPFC Convention; Western and Central Pacific Convention
 

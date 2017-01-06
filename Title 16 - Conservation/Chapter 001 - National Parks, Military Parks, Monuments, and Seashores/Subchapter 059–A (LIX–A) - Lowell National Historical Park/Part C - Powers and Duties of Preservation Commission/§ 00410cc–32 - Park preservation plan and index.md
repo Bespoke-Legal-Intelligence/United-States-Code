@@ -18,7 +18,7 @@
 
 (1) Except as provided in paragraph (2) of this subsection, the Secretary shall not make any funds available to the Commission to carry out section 410cc–33 or 410cc–34 of this title until a park preservation plan has been approved under subsection (a) of this section.
 
-(2) Before a park preservation plan is approved under subsection (a) of this section, the Secretary may make available to the Commission such funds as the Commission may request to carry out any activity specified in paragraph (3) of this section. However, no funds shall be made available under this paragraph unless a proposal describing such activity is reviewed and approved by the Secretary.
+(2) Before a park preservation plan is approved under subsection (a) of this section, the Secretary may make available to the Commissionsuch funds as the Commission may request to carry out any activity specified in paragraph (3) of this section. However, no funds shall be made available under this paragraph unless a proposal describing such activity is reviewed and approved by the Secretary.
 
 (3) The Commission may request funds from the Secretary to—
 

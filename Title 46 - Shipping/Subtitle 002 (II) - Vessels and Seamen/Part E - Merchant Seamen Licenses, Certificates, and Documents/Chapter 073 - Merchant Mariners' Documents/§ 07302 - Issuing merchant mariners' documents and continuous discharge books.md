@@ -24,7 +24,7 @@ Advance renewals.—A renewed merchant mariner's document may be issued under th
 
 (g)(1) The Secretary may, pending receipt and review of information required under subsections (c) and (d), immediately issue an interim merchant mariner's document valid for a period not to exceed 120 days, to—
 
-&emsp;(A) an individual to be employed as gaming personnel, entertainment personnel, wait staff, or other service personnel on board a passenger vessel not engaged in foreign service, with no duties, including emergency duties, related to the navigation of the vessel or the safety of the vessel, its crew, cargo or passengers; or
+&emsp;(A) an individual to be employed as gaming personnel, entertainment personnel, wait staff, or other service personnel on board a passenger vessel not engaged in foreign service, with no duties, including emergency duties, related to the navigation of the vessel orthe safety of the vessel, its crew, cargo or passengers; or
 
 &emsp;(B) an individual seeking renewal of, or qualifying for a supplemental endorsement to, a valid merchant mariner's document issued under this section.
 
@@ -77,6 +77,34 @@ Pub. L. 109–241, title IX, §901(h)(1), July 11, 2006, 120 Stat. 564, provided
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Merchant Mariner Credential Expiration Harmonization
+
+Pub. L. 114–120, title III, §304, Feb. 8, 2016, 130 Stat. 53, provided that:
+
+"(a)
+
+In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates of merchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
+
+"(b)
+
+Requirements.—The Secretary shall ensure that the process established under subsection (a)—
+
+&emsp;"(1) does not require an individual to renew a merchant mariner credential earlier than the date on which the individual's current credential expires; and
+
+&emsp;"(2) results in harmonization of expiration dates for merchant mariner credentials, mariner medical certificates, and radar observer endorsements for all individuals by not later than 6 years after the date of the enactment of this Act \[Feb. 8, 2016\].
+
+"(c)
+
+Exception.—The process established under subsection (a) does not apply to individuals—
+
+&emsp;"(1) holding a merchant mariner credential with—
+
+&emsp;&emsp;"(A) an active Standards of Training, Certification, and Watchkeeping endorsement; or
+
+&emsp;&emsp;"(B) Federal first-class pilot endorsement; or
+
+&emsp;"(2) who have been issued a time-restricted medical certificate."
 
 #### Crediting of United States Armed Forces Service, Training, and Qualifications
 

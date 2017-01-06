@@ -12,5 +12,5 @@ All lands allotted to Indians in severalty, except allotments made to members of
 
 Pub. L. 106–462, title II, §201, Nov. 7, 2000, 114 Stat. 2007, authorized the Secretary of the Interior to approve oil or gas leases affecting individually owned Navajo Indian allotted lands in certain circumstances and defined pertinent terms with respect to such leases.
 
-Pub. L. 105–188, §1, July 7, 1998, 112 Stat. 620, as amended by Pub. L. 106–67, §1(2), Oct. 6, 1999, 113 Stat. 979, authorized Secretary of the Interior to approve anymineral lease or agreement that affects individually owned land located within Fort Berthold Indian Reservation in North Dakota or certain former Indian reservations located in Oklahoma upon consent of majority interest and best interest determination.
+Pub. L. 105–188, §1, July 7, 1998, 112 Stat. 620, as amended by Pub. L. 106–67, §1(2), Oct. 6, 1999, 113 Stat. 979, authorized Secretary of the Interior to approve any mineral lease or agreement that affects individually owned land located within Fort Berthold Indian Reservation in North Dakota or certain former Indian reservations located in Oklahoma upon consent of majority interest and best interest determination.
 

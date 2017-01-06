@@ -88,7 +88,7 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;&emsp;(B) such other date as the Secretary of Defense may prescribe.
 
-&emsp;(5) In the case of a person described in subsection (b)(5), by such date as the Secretary shall prescribe in the regulations required for purposes of that subsection.
+&emsp;(5) In the case of a person described in subsection (b)(5), by such date as the Secretaryshall prescribe in the regulations required for purposes of that subsection.
 
 (e)
 

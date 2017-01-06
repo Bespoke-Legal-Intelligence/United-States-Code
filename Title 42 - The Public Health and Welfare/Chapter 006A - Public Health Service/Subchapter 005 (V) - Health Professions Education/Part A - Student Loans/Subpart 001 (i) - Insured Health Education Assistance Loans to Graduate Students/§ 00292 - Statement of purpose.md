@@ -14,7 +14,7 @@ A prior section 701 of act July 1, 1944, was classified to section 292a of this 
 
 #### Effective Date
 
-Pub. L. 102–408, title I, §103, Oct. 13, 1992, 106 Stat. 2069, provided that: "The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except thatsection 708 of the Public Health Service Act \[42 U.S.C. 292g\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former 42 U.S.C. 294e(c)\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708."
+Pub. L. 102–408, title I, §103, Oct. 13, 1992, 106 Stat. 2069, provided that: "The amendment made by section 102 \[enacting this subchapter\] takes effect on the date of the enactment of this Act \[Oct. 13, 1992\], except that section 708 of the Public Health Service Act \[42 U.S.C. 292g\], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act \[former 42 U.S.C. 294e(c)\], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708."
 
 #### Transfer of Health Education Assistance Loan Program
 
@@ -22,7 +22,7 @@ Pub. L. 113–76, div. H, title V, §525, Jan. 17, 2014, 128 Stat. 413, provided
 
 "(a)
 
-In General.—The Health Education Assistance Loan ('HEAL') program under title VII, part A, subpart I of the PHS \[Public Health Service\] Act \[42 U.S.C. 292 et seq.\], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act \[Jan. 17, 2014\].
+In General.—The Health Education Assistance Loan ('HEAL') program under title VII, part A, subpart I of the PHS \[Public Health Service\] Act \[42 U.S.C. 292et seq.\], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act \[Jan. 17, 2014\].
 
 "(b)
 

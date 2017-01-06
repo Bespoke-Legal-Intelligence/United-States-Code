@@ -16,7 +16,7 @@
 
 (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Army honorably or under honorable conditions, at the prices at which like articles are sold to members of the Army. This subsection does not modify section 772 or 773 of this title.
 
-(f) Whenever, under regulations to be prescribed by the Secretary, subsistence supplies are furnished to any branch of the Army or soldto employees of any executive department other than the Department of Defense, payment shall be made in cash or by commercial credit.
+(f) Whenever, under regulations to be prescribed by the Secretary, subsistence supplies are furnished to any branch of the Army or sold to employees of any executive department other than the Department of Defense, payment shall be made in cash or by commercial credit.
 
 (g) The Secretary may, by regulation, provide for the procurement and sale of stores designated by him to such civilian officers and employees of the United States, and such other persons, as he considers proper—
 
@@ -146,7 +146,7 @@ In subsections (c) and (d), the words "other armed forces" are substituted for t
 
 In subsection (d), the words "other than subsistence supplies" are inserted, since the sale of subsistence supplies is covered by subsection (c).
 
-In subsection (e), the words "a person who has been discharged" are substituted for the words "discharged officers and enlisted men". The words "Navy \* \* \* or Marine Corps", omitted from the 1952 Edition of theUnited States Code, are inserted to conform to the source statute. The words "may buy" are substituted for the words "shall \* \* \* be permitted to purchase". The words "at the prices at which like property is sold" are substituted for the words "at the same price as charged". The word "member" is substituted for the words "officers and enlisted men". The words "while undergoing such care and treatment" are omitted as surplusage.
+In subsection (e), the words "a person who has been discharged" are substituted for the words "discharged officers and enlisted men". The words "Navy \* \* \* or Marine Corps", omitted from the 1952 Edition of the United States Code, are inserted to conform to the source statute. The words "may buy" are substituted for the words "shall \* \* \* be permitted to purchase". The words "at the prices at which like property is sold" are substituted for the words "at the same price as charged". The word "member" is substituted for the words "officers and enlisted men". The words "while undergoing such care and treatment" are omitted as surplusage.
 
 In subsection (f), the words "person who has been discharged" are substituted for the words "former members \* \* \* who have been separated therefrom". The words "at the prices at which like articles are sold to members" are inserted to conform to the last sentence of subsection (a) and subsection (e).
 

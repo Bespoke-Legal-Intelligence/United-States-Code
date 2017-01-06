@@ -2,11 +2,11 @@
 
 (a)
 
-Offense.—Whoever knowingly operates, or attempts or conspires to operate, by any means,or embarks in any submersible vessel or semi-submersible vessel that is without nationality and that is navigating or has navigated into, through, or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country, with the intent to evade detection, shall be fined under this title, imprisoned not more than 15 years, or both.
+Offense.—Whoever knowingly operates, or attempts or conspires to operate, by any means, or embarks in any submersible vessel or semi-submersible vessel that is without nationality and that is navigating or has navigated into, through, or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country, with the intent to evade detection, shall be fined under this title, imprisoned not more than 15 years, or both.
 
 (b)
 
-Evidence of Intent To Evade Detection.—For purposes of subsection (a), the presence of any of the indicia described in paragraph (1)(A), (E), (F), or (G), or in paragraph (4), (5), or (6), of section 70507(b) of title 46 may be considered, in the totality of the circumstances, to be prima facie evidence of intent to evade detection.
+Evidence of Intent To Evade Detection.—For purposes of subsection (a), the presence of any of the indicia described in paragraph (1)(A), (E), (F), or (G), or in paragraph (4), (5), or (6), of section 70507(b) of title 46 may be considered, in the totality of the circumstances, to beprima facie evidence of intent to evade detection.
 
 (c)
 

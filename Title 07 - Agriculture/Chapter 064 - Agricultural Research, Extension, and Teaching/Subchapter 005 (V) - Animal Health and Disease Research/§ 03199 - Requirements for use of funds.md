@@ -10,3 +10,7 @@ With respect to research projects on problems of animal health and disease to be
 
 <b>1998</b>—Pub. L. 105–185 struck out "with the advice, when available, of the Board" after "by the Secretary" in first sentence.
 
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
+

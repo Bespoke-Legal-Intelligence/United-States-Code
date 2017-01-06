@@ -6,7 +6,7 @@ The Secretary shall be responsible for developing and promulgating the security,
 
 #### (b) Intelligence Executive Committee
 
-(1) There is within the Department an Intelligence Executive Committee. The Committee shall consist of the Deputy Secretary of Energy, who shall chair the Committee, and each Under Secretary of Energy.
+(1) There is within the Department an Intelligence Executive Committee. The Committeeshall consist of the Deputy Secretary of Energy, who shall chair the Committee, and each Under Secretary of Energy.
 
 (2) The Committee shall be staffed by the Director of the Office of Intelligence and the Director of the Office of Counterintelligence.
 

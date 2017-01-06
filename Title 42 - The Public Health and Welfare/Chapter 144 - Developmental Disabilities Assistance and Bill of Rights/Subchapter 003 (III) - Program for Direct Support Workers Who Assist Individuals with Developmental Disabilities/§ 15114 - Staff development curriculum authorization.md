@@ -16,7 +16,7 @@
 
 #### (b) Application requirements
 
-To be eligible to receive an award under this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
+To be eligible to receive an award under this section, an entity shall submit to the Secretaryan application at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;(1) a comprehensive analysis of the content of direct support roles;
 
@@ -60,7 +60,7 @@ To be eligible to receive an award under this section, an entity shall submit to
 
 &emsp;&emsp;&emsp;(ii) community-based organizations of and for individuals with developmental disabilities and their families;
 
-&emsp;&emsp;&emsp;(iii) entities funded under subchapter I of this chapter;
+&emsp;&emsp;&emsp;(iii) entities funded under subchapter I;
 
 &emsp;&emsp;&emsp;(iv) centers for independent living;
 

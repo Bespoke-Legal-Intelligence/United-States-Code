@@ -84,7 +84,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given that term in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the meaning given that term in section 5304(e) of title 25.
 
 #### (8) Metropolitan statistical area
 
@@ -92,7 +92,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (9) National Special Security Event
 
-&emsp;The term "National Special Security Event" means a designated event that, by virtue of itspolitical, economic, social, or religious significance, may be the target of terrorism or other criminal activity.
+&emsp;The term "National Special Security Event" means a designated event that, by virtue of its political, economic, social, or religious significance, may be the target of terrorism or other criminal activity.
 
 #### (10) Population
 

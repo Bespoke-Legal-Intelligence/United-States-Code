@@ -18,7 +18,7 @@
 
 #### (B) Extension
 
-&emsp;&emsp;The 90-day period in subparagraph (A)(ii) may be extended for an additional period\(not to exceed 90 days) for good cause by the Chairman of the applicable Committee, upon the request of the Chief of the Capitol Police.
+&emsp;&emsp;The 90-day period in subparagraph (A)(ii) may be extended for an additional period (not to exceed 90 days) for good cause by the Chairman of the applicable Committee, upon the request of the Chief of the Capitol Police.
 
 #### (C) Approval consistent with Federal Tort Claims Act
 

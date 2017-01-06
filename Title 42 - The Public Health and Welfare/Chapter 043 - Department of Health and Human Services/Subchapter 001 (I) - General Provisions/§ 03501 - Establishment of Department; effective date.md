@@ -16,7 +16,7 @@ Section was formerly classified to section 623 of former Title 5, Executive Depa
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Department of Health and Human Services, including the functions of the Secretary of Healthand Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and (6), and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and (6), and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Emergency Preparedness Functions
 
@@ -25,6 +25,130 @@ For assignment of certain emergency preparedness functions to Secretary of Healt
 #### Order of Succession
 
 For order of succession during any period when both Secretary and Deputy Secretary of Health and Human Services are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+
+#### Reducing Administrative Burden for Researchers
+
+Pub. L. 114–255, div. A, title II, §2034, Dec. 13, 2016, 130 Stat. 1059, provided that:
+
+"(a)
+
+Plan Preparation and Implementation of Measures To Reduce Administrative Burdens.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall—
+
+&emsp;&emsp;"(A) lead a review by research funding agencies of all regulations and policies related to the disclosure of financial conflicts of interest, including the minimum threshold for reporting financial conflicts of interest;
+
+&emsp;&emsp;"(B) make revisions, as appropriate, to harmonize existing policies and reduce administrative burden on researchers while maintaining the integrity and credibility of research findings and protections of human participants; and
+
+&emsp;&emsp;"(C) confer with the Office of the Inspector General about the activities of such office related to financial conflicts of interest involving research funding agencies.
+
+&emsp;"(2)
+
+Considerations.—In updating policies under paragraph (1)(B), the Secretary shall consider—
+
+&emsp;&emsp;"(A) modifying the timelines for the reporting of financial conflicts of interest to just-in-time information by institutions receiving grant or cooperative agreement funding from the National Institutes of Health;
+
+&emsp;&emsp;"(B) ensuring that financial interest disclosure reporting requirements are appropriate for, and relevant to, awards that will directly fund research, which may include modification of the definition of the term 'investigator' for purposes of the regulations and policies described in subparagraphs (A) and (B) of paragraph (1); and
+
+&emsp;&emsp;"(C) updating any applicable training modules of the National Institutes of Health related to Federal financial interest disclosure.
+
+"(b)
+
+Monitoring of Subrecipients of Funding From the National Institutes of Health.—The Director of the National Institutes of Health (referred to in this section as the 'Director of National Institutes of Health') shall implement measures to reduce the administrative burdens related to monitoring of subrecipients of grants by primary awardees of funding from the National Institutes of Health, which may incorporate findings and recommendations from existing and ongoing activities. Such measures may include, as appropriate—
+
+&emsp;"(1) an exemption from subrecipient monitoring requirements, upon request from the primary awardees, provided that—
+
+&emsp;&emsp;"(A) the subrecipient is subject to Federal audit requirements pursuant to the Uniform Guidance of the Office of Management and Budget;
+
+&emsp;&emsp;"(B) the primary awardee conducts, pursuant to guidance of the National Institutes of Health, a pre-award evaluation of each subrecipient's risk of noncompliance with Federal statutes and regulations, the conditions of the subaward, and any recurring audit findings; and
+
+&emsp;&emsp;"(C) such exemption does not absolve the primary awardee of liability for misconduct by subrecipients; and
+
+&emsp;"(2) the implementation of alternative grant structures that obviate the need for subrecipient monitoring, which may include collaborative grant models allowing for multiple primary awardees.
+
+"(c)
+
+Reporting of Financial Expenditures.—The Secretary, in consultation with the Director of National Institutes of Health, shall evaluate financial expenditure reporting procedures and requirements for recipients of funding from the National Institutes of Health and take action, as appropriate, to avoid duplication between department and agency procedures and requirements and minimize burden to funding recipients.
+
+"(d)
+
+Animal Care and Use in Research.—Not later than 2 years after the date of enactment of this Act \[Dec. 13, 2016\], the Director of National Institutes of Health, in collaboration with the Secretary of Agriculture and the Commissioner of Food and Drugs, shall complete a review of applicable regulations and policies for the care and use of laboratory animals and make revisions, as appropriate, to reduce administrative burden on investigators while maintaining the integrity and credibility of research findings and protection of research animals. In carrying out this effort, the Director of the National Institutes of Health shall seek the input of experts, as appropriate. The Director of the National Institutes of Health shall—
+
+&emsp;"(1) identify ways to ensure such regulations and policies are not inconsistent, overlapping, or unnecessarily duplicative, including with respect to inspection and review requirements by Federal agencies and accrediting associations;
+
+&emsp;"(2) take steps to eliminate or reduce identified inconsistencies, overlap, or duplication among such regulations and policies; and
+
+&emsp;"(3) take other actions, as appropriate, to improve the coordination of regulations and policies with respect to research with laboratory animals.
+
+"(e)
+
+Documentation of Personnel Expenses.—The Secretary shall clarify the applicability of the requirements under the Office of Management and Budget Uniform Guidance for management and certification systems adopted by entities receiving Federal research grants through the Department of Health and Human Services regarding documentation of personnel expenses, including clarification of the extent to which any flexibility to such requirements specified in such Uniform Guidance applies to entities receiving grants through the Department of Health and Human Services.
+
+"(f)
+
+Research Policy Board.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 1 year after the date of enactment of this Act \[Dec. 13, 2016\], the Director of the Office of Management and Budget shall establish an advisory committee, to be known as the 'Research Policy Board' (referred to in this subsection as the 'Board'), to provide Federal Government officials with information on the effects of regulations related to Federal research requirements.
+
+&emsp;"(2)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Board shall include not more than 10 Federal members, including each of the following Federal members or their designees:
+
+&emsp;&emsp;&emsp;"(i) The Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget.
+
+&emsp;&emsp;&emsp;"(ii) The Director of the Office of Science and Technology Policy.
+
+&emsp;&emsp;&emsp;"(iii) The Secretary of Health and Human Services.
+
+&emsp;&emsp;&emsp;"(iv) The Director of the National Science Foundation.
+
+&emsp;&emsp;&emsp;"(v) The secretaries and directors of other departments and agencies that support or regulate scientific research, as determined by the Director of the Office of Management and Budget.
+
+&emsp;&emsp;"(B)
+
+Non-federal members.—The Board shall be comprised of not less than 9 and not more than 12 representatives of academic research institutions, other private, nonprofit research institutions, or other nonprofit organizations with relevant expertise. Such members shall be appointed by a formal process, to be established by the Director of the Office of Management and Budget, in consultation with the Federal membership, and that incorporates—
+
+&emsp;&emsp;&emsp;"(i) nomination by members of the nonprofit scientific research community, including academic research institutions; and
+
+&emsp;&emsp;&emsp;"(ii) procedures to fill membership positions vacated before the end of a member's term.
+
+&emsp;"(3)
+
+Purpose and responsibilities.—The Board shall make recommendations regarding the modification and harmonization of regulations and policies having similar purposes across research funding agencies to ensure that the administrative burden of such research policy and regulation is minimized to the greatest extent possible and consistent with maintaining responsible oversight of federally funded research. Activities of the Board may include—
+
+&emsp;&emsp;"(A) providing thorough and informed analysis of regulations and policies;
+
+&emsp;&emsp;"(B) identifying negative or adverse consequences of existing policies and making actionable recommendations regarding possible improvement of such policies;
+
+&emsp;&emsp;"(C) making recommendations with respect to efforts within the Federal Government to improve coordination of regulation and policy related to research;
+
+&emsp;&emsp;"(D) creating a forum for the discussion of research policy or regulatory gaps, challenges, clarification, or harmonization of such policies or regulation, and best practices; and
+
+&emsp;&emsp;"(E) conducting ongoing assessment and evaluation of regulatory burden, including development of metrics, periodic measurement, and identification of process improvements and policy changes.
+
+&emsp;"(4)
+
+Expert subcommittees.—The Board may form temporary expert subcommittees, as appropriate, to develop timely analysis on pressing issues and assist the Board in anticipating future regulatory challenges, including challenges emerging from new scientific advances.
+
+&emsp;"(5)
+
+Reporting requirements.—Not later than 2 years after the date of enactment of this Act, and once thereafter, the Board shall submit a report to the Director of the Office of Management and Budget, the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, the heads of relevant Federal departments and agencies, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives containing formal recommendations on the conceptualization, development, harmonization, and reconsideration of scientific research policy, including the regulatory benefits and burdens.
+
+&emsp;"(6)
+
+Sunset.—The Board shall terminate on September 30, 2021.
+
+&emsp;"(7)
+
+GAO report.—Not later than 4 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out by the Board pursuant to this subsection and submit to the appropriate committees of Congress a report regarding the results of the independent evaluation. Such report shall review and assess the Board's activities with respect to the responsibilities described in paragraph (3)."
 
 #### Data Collection Relating to Race or Ethnicity
 
@@ -74,7 +198,7 @@ There is hereby established an executive department, which shall be known as the
 
 #### Sec. 2. Under Secretary and Assistant Secretaries
 
-There shall be in the Department an Under Secretary of Health, Education, and Welfare and two Assistant Secretaries of Health, Education, and Welfare, each of whom shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter provided by law for under secretaries and assistant secretaries, respectively, of executive departments. The Under Secretary (or, during the absence or disability of the Under Secretary or in the event of a vacancy in the office of Under Secretary, an Assistant Secretary determined according to such order as the Secretary shall prescribe) shall act as Secretary during the absence or disability of the Secretary or in the event of a vacancy in the office of Secretary.
+There shall be in the Department an Under Secretary of Health, Education, and Welfare and two Assistant Secretaries of Health, Education, and Welfare, each ofwhom shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter provided by law for under secretaries and assistant secretaries, respectively, of executive departments. The Under Secretary (or, during the absence or disability of the Under Secretary or in the event of a vacancy in the office of Under Secretary, an Assistant Secretary determined according to such order as the Secretary shall prescribe) shall act as Secretary during the absence or disability of the Secretary or in the event of a vacancy in the office of Secretary.
 
 #### Sec. 3. Special Assistant
 
@@ -82,7 +206,7 @@ There shall be in the Department an Under Secretary of Health, Education, and We
 
 #### Sec. 4. Commissioner of Social Security
 
-There shall be in the Department a Commissioner of Social Security who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions concerning social security and public welfare as the Secretary may prescribe, and shall receive compensation at the rate now or hereafterfixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
+There shall be in the Department a Commissioner of Social Security who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions concerning social security and public welfare as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
 
 #### Sec. 5. Transfers to the Department
 
@@ -120,7 +244,7 @@ There should be an unremitting effort to improve those health, education, and so
 
 But good intent and high purpose are not enough; all such programs depend for their success upon efficient, responsible administration. I have recently taken action to assure that the Federal Security Administrator's views are given proper consideration in executive councils by inviting her to attend meetings of the Cabinet. Now the establishment of the new Department provided for in Reorganization Plan No. 1 of 1953 will give the needed additional assurance that these matters will receive the full consideration they deserve in the whole operation of the Government.
 
-This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committeeon Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
+This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
 
 The present plan will make it possible to give the officials directing the Department titles indicative of their responsibilities and salaries comparable to those received by their counterparts in other executive departments. As the Under Secretary of an executive department, the Secretary's principal assistant will be better equipped to give leadership in the Department's organization and management activities, for which he will be primarily responsible. The plan opens the way to further administrative improvement by authorizing the Secretary to centralize services and activities common to the several agencies of the Department. It also established a uniform method of appointment for the heads of the three major constituent agencies. At present, the Surgeon General and the Commissioner of Education are appointed by the President and confirmed by the Senate, while the Commissioner for Social Security is appointed by the Federal Security Administrator. Hereafter, all three will be Presidential appointees subject to Senate confirmation.
 
@@ -156,7 +280,7 @@ There is need for a consumer office within the Executive Office of the President
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
 
-Section 1. <i>Office of Consumer Affairs</i>. The Office of Consumer Affairs (hereinafter referred to as the "Office") is hereby established in the Executive Office of the President. The Office shall be headed by a Director, who shall be appointed by the President, and there shall be in the Office two Deputy Directors who shall also be appointed by the President. The Deputy Directors shall perform such duties as the Director may designate, and in case of a vacancy in the office of Director or during the absence or incapacity of the Director, the Deputy Directors, in the order designated by the President, shall act as Director. The Director and Deputy Directors shall receive compensation at such rates as the President, consonant with law, may hereafter determine.
+Section 1. <i>Office of Consumer Affairs</i>. The Office of Consumer Affairs (hereinafter referred to as the "Office") is hereby established in the Executive Office of the President. The Office shall be headed by a Director, who shall be appointed by the President, and there shall be in the Office two Deputy Directors who shall also be appointed by the President. The Deputy Directors shall perform such duties as the Director may designate, and in case of a vacancy in the office of Director or during the absence or incapacity of the Director, the Deputy Directors, in the order designated by the President, shall act as Director. The Director and Deputy Directors shall receive compensation at such ratesas the President, consonant with law, may hereafter determine.
 
 Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be responsible for the exercise of the powers and the discharge of the duties of the Office, and shall have the authority to direct and supervise all personnel and activities thereof. The Director shall take all actions as may be necessary to organize the Office so as to carry out the functions and to achieve the purposes set forth in this order.
 
@@ -164,7 +288,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
-(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authorityfor the performance of any function to any officer or employee under his direction and supervision;
+(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
 
 (3) utilize, with their consent, the services, personnel, and facilities of other Federal, State, local and private agencies and instrumentalities with or without reimbursement thereof except as reimbursement may be required by law; and
 
@@ -338,7 +462,7 @@ Consumer Program Reforms
 
 Implementation of Consumer Program Reforms
 
-1–501. Within 60 days after the issuance of this Order, each agency shall prepare a draft report setting forth with specificity its program for complying with the requirements of Section 1–4 above. Each agency shall publish its draft consumer program in the Federal Register and shall give the public 60 days to comment on the program. A copy of the program shall be sent to the Council.
+1–501. Within 60 days after the issuance of this Order, each agency shall prepare a draft report setting forthwith specificity its program for complying with the requirements of Section 1–4 above. Each agency shall publish its draft consumer program in the Federal Register and shall give the public 60 days to comment on the program. A copy of the program shall be sent to the Council.
 
 1–502. Each agency shall, within 30 days after the close of the public comment period on its draft consumer program, submit a revised program to the Chairperson. The Chairperson shall be responsible, on behalf of the President, for approving agency programs for compliance with this Order before their final publication in the Federal Register. Each agency's final program shall be published no later than 90 days after the close of the public comment period, and shall include a summary of public comments on the draft program and a discussion of how those comments are reflected in the final program.
 

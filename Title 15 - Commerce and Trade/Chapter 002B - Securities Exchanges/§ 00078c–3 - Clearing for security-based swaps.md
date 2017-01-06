@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-based swaps, described in the submission is required to be cleared; and
 
-&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determinationwhether the clearing requirement under subsection (a)(1) shall apply to the submission.
+&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determination whether the clearing requirement under subsection (a)(1) shall apply to the submission.
 
 #### (3) Deadline
 
@@ -282,7 +282,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (i) Board approval
 
-Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap executionfacility shall be available to a counterparty that is an issuer of securities that are registered under section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title, only if an appropriate committee of the issuer's board or governing body has reviewed and approved the issuer's decision to enter into security-based swaps that are subject to such exemptions.
+Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title, only if an appropriate committee of the issuer's board or governing body has reviewed and approved the issuer's decision to enter into security-based swaps that are subject to such exemptions.
 
 #### (j) Designation of chief compliance officer
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall award grants described in subsection (b) of this section to States to support the design, establishment, and operation of State infrastructures that provide items and services to support working individuals with disabilities.
+&emsp;The Secretary of Health and Human Services (in this section referred to as the "Secretary") shall award grants described in subsection (b) to States to support the design, establishment, and operation of State infrastructures that provide items and services to support working individuals with disabilities.
 
 #### (2) Application
 
@@ -18,9 +18,9 @@
 
 #### (1) In general
 
-&emsp;Out of the funds appropriated under subsection (e) of this section, the Secretary shall award grants to States to—
+&emsp;Out of the funds appropriated under subsection (e), the Secretary shall award grants to States to—
 
-&emsp;&emsp;(A) support the establishment, implementation, and operation of the State infrastructures described in subsection (a) of this section; and
+&emsp;&emsp;(A) support the establishment, implementation, and operation of the State infrastructures described in subsection (a); and
 
 &emsp;&emsp;(B) conduct outreach campaigns regarding the existence of such infrastructures.
 
@@ -44,7 +44,7 @@
 
 #### (ii) Personal assistance services
 
-&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 or more persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;&emsp;&emsp;The term "personal assistance services" means a range of services, provided by 1 ormore persons, designed to assist an individual with a disability to perform daily activities on and off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (3) Determination of awards
 
@@ -66,7 +66,7 @@
 
 #### (II) Pro rata reductions
 
-&emsp;&emsp;&emsp;&emsp;If the funds appropriated under subsection (e) of this section for a fiscal year are not sufficient to pay each State with an application approved under this section the minimum amount described in subclause (I), the Secretary shall pay each such State an amount equal to the pro rata share of the amount made available.
+&emsp;&emsp;&emsp;&emsp;If the funds appropriated under subsection (e) for a fiscal year are not sufficient to pay each State with an application approved under this section the minimum amount described in subclause (I), the Secretary shall pay each such State an amount equal to the pro rata share of the amount made available.
 
 #### (ii) Maximum awards
 

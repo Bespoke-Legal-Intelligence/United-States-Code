@@ -50,7 +50,7 @@ Deadline.—The decision regarding the promulgation of any standard by the Direc
 
 &emsp;(2)
 
-Notice and comment.—A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), shall be made after the public is given an opportunity to comment on the Director's proposed decision.
+Notice and comment.—A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), shall be made after the public is given an opportunityto comment on the Director's proposed decision.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, §1002(a), Nov. 25, 2002, 116 Stat. 2268; Pub. L. 107–347, title III, §302(a), Dec. 17, 2002, 116 Stat. 2956.)
 
@@ -72,7 +72,7 @@ Pub. L. 104–106, div. E, title LI, §5131(a)–(d), Feb. 10, 1996, 110 Stat. 6
 
 #### References in Text
 
-Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by Pub. L. 113–283.
+Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to sections 3532 and 3533 of title 44 are now contained, respectively, in sections 3552 and 3553 of title 44, as enacted by Pub. L. 113–283.
 
 #### Amendments
 

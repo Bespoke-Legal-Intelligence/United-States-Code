@@ -32,7 +32,7 @@ The Secretary is authorized to take the following actions:
 
 #### (A) In general
 
-&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projectsbased upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
+&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
 
 #### (B) Contract terms
 
@@ -118,7 +118,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (A) Initial project rental assistance contract
 
-&emsp;&emsp;Contracts for project rental assistance shall comply with subsection (e)(2) and shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income persons with disabilities that is not met from project income. The amount provided under the contract for each year covered by the contract for any project shall not exceed the sum of the initial annual project rentals for all units and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the amount provided under the contract for each year covered by the contract if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable project costs. In the case of an intermediate care facility which is the residence of persons assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], project income under this paragraph shall include the same amount as if such person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
+&emsp;&emsp;Contracts for project rental assistance shall comply with subsection (e)(2) and shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income persons with disabilities that is not met from project income. The amount provided under the contract for each year covered by the contract for any project shall not exceed the sum of the initial annual project rentals for all units and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the amount provided under the contract for each year covered by the contract if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable projectcosts. In the case of an intermediate care facility which is the residence of persons assisted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], project income under this paragraph shall include the same amount as if such person were being assisted under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
 
 #### (B) Renewal of and increases in contract amounts
 
@@ -154,7 +154,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (A) Term
 
-&emsp;&emsp;Any project for which a capital advance is provided under subsection (d)(1) shall be operated for not less than 40 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary and shall,during such period, be made available for occupancy only by very low-income persons with disabilities.
+&emsp;&emsp;Any project for which a capital advance is provided under subsection (d)(1) shall be operated for not less than 40 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary and shall, during such period, be made available for occupancy only by very low-income persons with disabilities.
 
 #### (B) Conversion
 
@@ -288,7 +288,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) notless than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) not less than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
@@ -374,7 +374,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (3) Site control
 
-&emsp;An applicant may obtain ownership or control of a suitable site different from the site specified in the initial application. If an applicant fails to obtain ownership or control of the site within 1 year after notification of an award for assistance, the assistance shall be recaptured and reallocated.
+&emsp;An applicant may obtain ownership or control of a suitable site different from the site specified in the initial application. If an applicant fails to obtain ownership or control of the site within 1 year after notification of anaward for assistance, the assistance shall be recaptured and reallocated.
 
 #### (4) Notice of appeal
 
@@ -470,7 +470,7 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 &emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
-(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991,105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
+(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
 
 #### References in Text
 
@@ -484,7 +484,7 @@ Section 1441a of title 12, referred to in subsec. (h)(2), was repealed by Pub. L
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (h)(6)(A), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. TitleVI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -544,7 +544,7 @@ Subsec. (g). Pub. L. 111–374, §3(c), substituted "Selection criteria and proc
 
 Subsec. (g)(1)(D). Pub. L. 111–374, §5(5)(A), substituted "appropriate supportive services will be made available" for "the necessary supportive services will be provided".
 
-Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: "the extent to which the proposed design ofthe housing will accommodate the provision of such services;".
+Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: "the extent to which the proposed design of the housing will accommodate the provision of such services;".
 
 Subsec. (g)(1)(F). Pub. L. 111–374, §3(d), added subpar. (F).
 
@@ -626,7 +626,7 @@ Subsec. (f). Pub. L. 102–550, §623(a)(5), substituted "subsection (b)(2) of t
 
 Subsec. (g). Pub. L. 102–550, §623(a)(6), which directed the substitution of "subsection (b)(2) of this section" for "this section", was executed by making the substitution in the introductory provisions and in par. (7), to reflect the probable intent of Congress.
 
-Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as subpar. (A), inserted subpar. heading, substituted "with 12 or more units assisted under this section" for "assisted under this section and designed for dwelling use by 12 or more persons with disabilities", inserted "commonly known as" before "the Davis-Bacon Act", struck out before period at end "; but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purposes of lowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction", and added subpar. (B).
+Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as subpar. (A), inserted subpar. heading, substituted "with 12 or more units assisted under this section" for "assisted under this section and designed for dwelling use by 12 or more persons with disabilities", inserted "commonly known as" before "the Davis-Bacon Act", struck out before period at end "; but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purposes oflowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction", and added subpar. (B).
 
 Subsec. (k)(6). Pub. L. 102–550, §603, struck out "incorporated private" before "institution" in introductory provisions, added subpar. (A), and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 

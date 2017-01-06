@@ -2,7 +2,7 @@
 
 #### (a) Time requirement; referral to Congressional committee; single report
 
-Any joint resolution or bill introduced pursuant to section 1544(b) of this title at least thirty calendar days before the expiration of the sixty-day period specified in such section shall be referred to the Committee on Foreign Affairs ofthe House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be, and such committee shall report one such joint resolution or bill, together with its recommendations, not later than twenty-four calendar days before the expiration of the sixty-day period specified in such section, unless such House shall otherwise determine by the yeas and nays.
+Any joint resolution or bill introduced pursuant to section 1544(b) of this title at least thirty calendar days before the expiration of the sixty-day period specified in such section shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be, and such committee shall report one such joint resolution or bill, together with its recommendations, not later than twenty-four calendar days before the expiration of the sixty-day period specified in such section, unless such House shall otherwise determine by the yeas and nays.
 
 #### (b) Pending business; vote
 
@@ -10,7 +10,7 @@ Any joint resolution or bill so reported shall become the pending business of th
 
 #### (c) Referral to other House committee
 
-Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) of this section and shall be reported out not later than fourteen calendar days before the expiration of the sixty-day period specified in section 1544(b) of this title. The joint resolution or bill so reported shall become the pending business of the House in question and shall be voted on within three calendar days after it has been reported, unless such House shall otherwise determine by yeas and nays.
+Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out not later than fourteen calendar days before the expiration of the sixty-day period specified in section 1544(b) of this title. The joint resolution or bill so reported shall become the pending business of the House in question and shall be voted on within three calendar days after it has been reported, unless such House shall otherwise determine by yeas and nays.
 
 #### (d) Disagreement between Houses
 

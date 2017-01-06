@@ -18,7 +18,7 @@ In general.—The Secretary of Defense may enter into a cooperative agreement wi
 
 &emsp;(2)
 
-Inapplicability of certain contract requirements.—Notwithstanding section 2304(k) of this title, the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to section 2304(c)(5) of this title.
+Inapplicability of certain contract requirements.—Notwithstanding section 2304(k)of this title, the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to section 2304(c)(5) of this title.
 
 (d)
 

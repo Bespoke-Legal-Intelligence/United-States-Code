@@ -36,7 +36,7 @@ The Secretary—
 
 &emsp;&emsp;(D) other Federal departments and agencies; and
 
-&emsp;&emsp;(E) other Federal and private research laboratories, research entities, and institutions of higher education, including Historically Black Colleges and Universities, Hispanic Serving Institutions, and Indian Tribally Controlled Colleges and Universities;
+&emsp;&emsp;(E) other Federal and private research laboratories, research entities, and institutions of higher education, including HistoricallyBlack Colleges and Universities, Hispanic Serving Institutions, and Indian Tribally Controlled Colleges and Universities;
 
 &emsp;(3) shall carry out any research and development project authorized by this section through a reimbursable agreement with an appropriate Federal agency, if the agency—
 
@@ -52,7 +52,7 @@ The Secretary—
 
 #### (1) Consultation
 
-&emsp;In carrying out research and development projects under this section, the Secretaryshall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Department as appropriate and in accordance with section 142 of this title.
+&emsp;In carrying out research and development projects under this section, the Secretary shall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Department as appropriate and in accordance with section 142 of this title.
 
 #### (2) Privacy impact assessments
 

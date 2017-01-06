@@ -74,7 +74,11 @@ Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after pub
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Children's Gasoline Burn Prevention
 
@@ -132,7 +136,7 @@ Requirements.—
 
 &emsp;"(2)(A) Effective on and after January 1, 1993, all residential automatic garage door openers manufactured on and after such date for sale in the United States shall conform to any additional entrapment protection requirements of the American National Standards Institute Underwriters Laboratories, Inc. Standards for Safety—UL 325, third edition, which were issued after the date of the enactment of this Act \[Nov. 16, 1990\] to become effective on or before January 1, 1993.
 
-&emsp;"(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
+&emsp;"(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additionalsuch feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
 
 "(c)
 

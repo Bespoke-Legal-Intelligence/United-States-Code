@@ -24,6 +24,7 @@
 | [8117\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008117%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 | [8118\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008118%20-%20Authority%20for%20transfer%20of%20real%20property%3B%20Department%20of%20Veterans%20Affairs%20Capital%20Asset%20Fund.md) | Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund. |
 | [8119\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008119%20-%20Annual%20report%20on%20outpatient%20clinics.md) | Annual report on outpatient clinics. |
+| [8120\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008120%20-%20Quarterly%20report%20on%20super%20construction%20projects.md) | Quarterly report on super construction projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -94,6 +95,8 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–315, title VIII, §801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
+
 <b>2012</b>—Pub. L. 112—154, title II, §211(i)(3), Aug. 6, 2012, 126 Stat. 1182, added item 8168.
 
 <b>2010</b>—Pub. L. 111–163, title V, §501(b)(2), May 5, 2010, 124 Stat. 1157, struck out item 8107 "Operational and construction plans for medical facilities".
@@ -142,7 +145,7 @@ Pub. L. 100–322, title IV, §403(a)(2), May 20, 1988, 102 Stat. 545, added ite
 
 <b>1977</b>—Pub. L. 95–62, §4(c), July 5, 1977, 91 Stat. 263, substituted "DOMICILIARY, NURSING HOME, AND HOSPITAL CARE" for "NURSING HOME CARE" in heading for subchapter III.
 
-<b>1976</b>—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted "health services development activities carried out under the National Health Planningand Resources Development Act of 1974" for "programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965" in item 5056.
+<b>1976</b>—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted "health services development activities carried out under the National Health Planning and Resources Development Act of 1974" for "programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965" in item 5056.
 
 <b>1973</b>—Pub. L. 93–82, title III, §302(3), Aug. 2, 1973, 87 Stat. 195, added item 5007.
 

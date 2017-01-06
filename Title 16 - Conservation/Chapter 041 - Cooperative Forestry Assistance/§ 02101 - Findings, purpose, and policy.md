@@ -26,7 +26,7 @@ Congress finds that—
 
 &emsp;(11) forest landowners are being faced with increased pressure to convert their forest land to development and other purposes;
 
-&emsp;(12) increased population pressures and user demands are being placed on private, as well as public, landholders to provide a wide variety of products and services, including fish and wildlife habitat, aesthetic quality, and recreational opportunities;
+&emsp;(12) increased population pressures and user demands are being placed on private, as well as public, landholders to provide a wide variety of products and services, including fishand wildlife habitat, aesthetic quality, and recreational opportunities;
 
 &emsp;(13) stewardship of privately held forest resources requires a long-term commitment that can be fostered through local, State, and Federal governmental actions;
 
@@ -90,7 +90,7 @@ This chapter shall be construed to complement the policies and direction under t
 
 This chapter, referred to in subsecs. (b) to (d) and (f), was in the original "this Act", meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 #### Codification
 
@@ -106,7 +106,7 @@ Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Con
 
 Pub. L. 101–513, §607(b)(1), directed the amendment of subsec. (a) by striking out "and" at end of par. (16), substituting "; and" for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
-Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting "in the United States, and forest lands in foreign countries," after "non-Federal forest lands," the first place it appears and inparagraph (10), was executed by making the insertion after "non-Federal forest lands" to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting "in the United States, and forest lands in foreign countries," after "non-Federal forest lands," the first place it appears and in paragraph (10), was executed by making the insertion after "non-Federal forest lands" to reflect the probable intent of Congress. See Codification note above.
 
 #### Effective Date of 2008 Amendment
 
@@ -304,7 +304,7 @@ Pub. L. 99–198, title XII, §1256, as added by Pub. L. 101–624, title XIV, �
 
 #### Transfer of Forest Tree Nursery Facilities to States
 
-Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: "That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act (7 U.S.C. 1801 et seq.) \[repealed\] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in theprogram, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 (16 U.S.C. 567), and in the reforestation of lands under title IV of the Agricultural Act of 1956 (16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
+Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: "That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act (7 U.S.C. 1801 et seq.) \[repealed\] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 (16 U.S.C. 567), and in the reforestation of lands under title IV of the Agricultural Act of 1956 (16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
 
 "
 

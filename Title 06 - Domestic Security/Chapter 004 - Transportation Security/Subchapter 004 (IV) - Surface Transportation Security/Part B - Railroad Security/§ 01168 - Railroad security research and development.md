@@ -8,7 +8,7 @@ The Secretary, acting through the Under Secretary for Science and Technology and
 
 The research and development program may include projects—
 
-&emsp;(1) to reduce the vulnerability of passenger trains, stations, and equipment to explosives and hazardous chemical, biological, and radioactive substances, including the development of technology to screen passengers in large numbers at peak commuting times with minimal interference and disruption;
+&emsp;(1) to reduce the vulnerability of passenger trains, stations, and equipment to explosives and hazardous chemical, biological, and radioactive substances, including the developmentof technology to screen passengers in large numbers at peak commuting times with minimal interference and disruption;
 
 &emsp;(2) to test new emergency response and recovery techniques and technologies, including those used at international borders;
 

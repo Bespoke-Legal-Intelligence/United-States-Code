@@ -12,7 +12,7 @@
 
 #### (3) Low power station carriage optional
 
-&emsp;No low power television station whose signals are provided under section 119(a)(14) <sup>1</sup> of title 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
+&emsp;No low power television station whose signals are provided under section 119(a)(14) <sup>1</sup> oftitle 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
 
 #### (4) Carriage of signals of local stations in certain markets
 
@@ -36,21 +36,21 @@
 
 #### (1) Costs
 
-&emsp;A television broadcast station asserting its right to carriage under subsection (a) of this section shall be required to bear the costs associated with delivering a good quality signal to the designated local receive facility of the satellite carrier or to another facility that is acceptable to at least one-half the stations asserting the right to carriage in the local market.
+&emsp;A television broadcast station asserting its right to carriage under subsection (a) shall be required to bear the costs associated with delivering a good quality signal to the designated local receive facility of the satellite carrier or to another facility that is acceptable to at least one-half the stations asserting the right to carriage in the local market.
 
 #### (2) Regulations
 
-&emsp;The regulations issued under subsection (g) of this section shall set forth the obligations necessary to carry out this subsection.
+&emsp;The regulations issued under subsection (g) shall set forth the obligations necessary to carry out this subsection.
 
 #### (c) Duplication not required
 
 #### (1) Commercial stations
 
-&emsp;Notwithstanding subsection (a)(1) of this section, a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast station in a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
+&emsp;Notwithstanding subsection (a)(1), a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast station in a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
 
 #### (2) Noncommercial stations
 
-&emsp;The Commission shall prescribe regulations limiting the carriage requirements under subsection (a) of this section of satellite carriers with respect to the carriage of multiple local noncommercial television broadcast stations. To the extent possible, such regulations shallprovide the same degree of carriage by satellite carriers of such multiple stations as is provided by cable systems under section 535 of this title.
+&emsp;The Commission shall prescribe regulations limiting the carriage requirements under subsection (a) of satellite carriers with respect to the carriage of multiple local noncommercial television broadcast stations. To the extent possible, such regulations shall provide the same degree of carriage by satellite carriers of such multiple stations as is provided by cable systems under section 535 of this title.
 
 #### (d) Channel positioning
 
@@ -72,7 +72,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed under paragraph (1), the Commission shall determine whether the satellite carrier has met its obligations under subsections (b) through (e) of this section. If the Commission determines that the satellite carrier has failed to meet such obligations, the Commission shall order the satellite carrier to take appropriate remedial action. If the Commission determines that the satellite carrier has fully met the requirements of such subsections, the Commission shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed under paragraph (1), the Commission shall determine whether the satellite carrier has met its obligations under subsections (b) through (e). If the Commission determines that the satellite carrier has failed to meet such obligations, the Commission shall order the satellite carrier to take appropriate remedial action. If the Commission determines that the satellite carrier has fully met the requirements of such subsections, the Commission shall dismiss the complaint.
 
 #### (g) Carriage of local stations on a single reception antenna
 
@@ -190,7 +190,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;&emsp;(II) the disclosure does not reveal, directly or indirectly, the—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) extent of any viewing or other use by the subscriber of a satelliteservice or other service provided by the satellite carrier; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) extent of any viewing or other use by the subscriber of a satellite service or other service provided by the satellite carrier; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the nature of any transaction made by the subscriber over any facilities used by the satellite carrier; or
 
@@ -364,7 +364,7 @@ Pub. L. 111–175, §207(b)(1), redesignated pars. (6) to (8) as (7) to (9), res
 
 Subsec. (k)(10). Pub. L. 111–175, §207(b)(3), redesignated par. (9) as (10).
 
-<b>2004</b>—Subsec. (a)(1) to (3). Pub. L. 108–447, §203(b)(1), added pars. (1) and (2) and the par. (3) relating to low power station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
+<b>2004</b>—Subsec. (a)(1) to (3). Pub. L. 108–447, §203(b)(1), added pars. (1) and (2) and the par. (3) relating to lowpower station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
 
 Subsec. (a)(4). Pub. L. 108–447, §210, added par. (4).
 
@@ -464,7 +464,7 @@ Definitions.—As used in this subtitle \[title II of Pub. L. 111–175 does not
 
 &emsp;"(1)
 
-Local market; low power television station; satellite carrier; subscriber; television broadcast station.—The terms 'local market', 'low power television station', 'satellite carrier', 'subscriber',and 'television broadcast station' have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[47 U.S.C. 338(k)\].
+Local market; low power television station; satellite carrier; subscriber; television broadcast station.—The terms 'local market', 'low power television station', 'satellite carrier', 'subscriber', and 'television broadcast station' have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[47 U.S.C. 338(k)\].
 
 &emsp;"(2)
 

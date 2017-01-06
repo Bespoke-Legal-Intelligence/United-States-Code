@@ -12,7 +12,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;(4) on-the-spot coverage of bona fide news events (including but not limited to political conventions and activities incidental thereto),
 
-> shall not be deemed to be use of a broadcasting station within the meaning of this subsection. Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
+> shall not be deemed to be use of a broadcasting station within the meaning of this subsection.Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
 
 #### (b) Charges
 

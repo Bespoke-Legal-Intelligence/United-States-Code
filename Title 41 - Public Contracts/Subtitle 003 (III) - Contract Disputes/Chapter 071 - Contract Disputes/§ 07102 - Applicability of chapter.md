@@ -26,7 +26,7 @@ Exclusion.—Notwithstanding any other provision of this chapter, this chapter d
 
 (c)
 
-Foreign Government or International Organization Contracts.—If an agency head determines that applying this chapter would not be in the public interest, this chapter does not apply to a contract with a foreign government, an agency of a foreign government, an international organization, or a subsidiary body of an international organization.
+Foreign Government or International Organization Contracts.—If an agency head determines that applying this chapter would not be in the public interest, this chapter does notapply to a contract with a foreign government, an agency of a foreign government, an international organization, or a subsidiary body of an international organization.
 
 (d)
 

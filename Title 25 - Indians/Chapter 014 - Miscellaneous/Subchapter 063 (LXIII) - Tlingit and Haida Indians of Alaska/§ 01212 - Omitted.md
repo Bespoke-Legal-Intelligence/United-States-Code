@@ -1,0 +1,10 @@
+### §1212. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–454, title II, §202, Nov. 2, 1994, 108 Stat. 4792, which set out Congressional findings, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 103–454, title II, §201, Nov. 2, 1994, 108 Stat. 4792, provided that title II of Pub. L. 103–454, enacting sections 1212 to 1215 of this title, could be cited as the "Tlingit and Haida Status Clarification Act".
+

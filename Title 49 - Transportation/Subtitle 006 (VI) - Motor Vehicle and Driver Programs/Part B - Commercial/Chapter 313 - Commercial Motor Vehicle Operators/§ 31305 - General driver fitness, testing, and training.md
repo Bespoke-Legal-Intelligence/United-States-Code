@@ -118,7 +118,7 @@ Reserve components.—The term "reserve components" means—
 
 &emsp;&emsp;&emsp;(vii) the Coast Guard Reserve.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397; Pub. L. 112–141, div. C, title II, §32304(a), (c), July 6, 2012, 126 Stat. 791, 792; Pub. L. 114–94, div. A, title V, §5401(a), Dec. 4, 2015, 129 Stat. 1546.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397; Pub. L. 112–141, div. C, title II, §32304(a), (c), July 6, 2012, 126 Stat. 791, 792; Pub. L. 114–94, div. A, title V, §5401(a), Dec. 4, 2015, 129 Stat. 1546.)
 
 Historical and Revision Notes
 
@@ -224,7 +224,7 @@ Revision of Final Rule.—Not later than 90 days after the date of the enactment
 
 "(b)
 
-No Period of Commercial Driving While Using Insulin Required for Qualification.—After the earlier of the date of issuance of the revised final rule under subsection (a) or the 90th day following the dateof enactment of this Act \[Aug. 10, 2005\], the Secretary may not require individuals with insulin-treated diabetes mellitus who are applying for an exemption from the physical qualification standards to have experience operating commercial motor vehicles while using insulin in order to be exempted from the physical qualification standards to operate a commercial motor vehicle in interstate commerce.
+No Period of Commercial Driving While Using Insulin Required for Qualification.—After the earlier of the date of issuance of the revised final rule under subsection (a) or the 90th day following the date of enactment of this Act \[Aug. 10, 2005\], the Secretary may not require individuals with insulin-treated diabetes mellitus who are applying for an exemption from the physical qualification standards to have experience operating commercial motor vehicles while using insulin in order to be exempted from the physical qualification standards to operate a commercial motor vehicle in interstate commerce.
 
 "(c)
 
@@ -324,5 +324,5 @@ Funding.—The Secretary may use amounts made available under section 5001(a)(2)
 
 "(b)
 
-Nonsedating Medications.—The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as ameans of reducing the adverse effects of the use of other medications by drivers."
+Nonsedating Medications.—The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as a means of reducing the adverse effects of the use of other medications by drivers."
 

@@ -12,7 +12,7 @@ The President may exercise any authority vested in him by section 5192 of this t
 
 #### (1) In general
 
-&emsp;The Chief Executive of an affected Indian tribal government may submit a request for adeclaration by the President that an emergency exists consistent with the requirements of subsection (a).
+&emsp;The Chief Executive of an affected Indian tribal government may submit a request for a declaration by the President that an emergency exists consistent with the requirements of subsection (a).
 
 #### (2) References
 

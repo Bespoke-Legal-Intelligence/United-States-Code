@@ -32,7 +32,7 @@ The national objectives of this chapter are—
 
 #### (3) Essential families
 
-&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter for a family on an Indian reservation or other Indian area if the recipient determines that the presence of the family on the Indian reservation or other Indian area is essential to the well-being of Indian families and the need for housing for the family cannot reasonably be met without such assistance.
+&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activitiesassisted with grant amounts under this chapter for a family on an Indian reservation or other Indian area if the recipient determines that the presence of the family on the Indian reservation or other Indian area is essential to the well-being of Indian families and the need for housing for the family cannot reasonably be met without such assistance.
 
 #### (4) Law enforcement officers
 

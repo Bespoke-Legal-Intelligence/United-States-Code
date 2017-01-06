@@ -58,7 +58,7 @@ A prior section 163 of Pub. L. 101–610 was classified to section 12614 of this
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1513(1), substituted "There shall be" for "Upon the establishment of theProgram, there shall also be", inserted "National" before "Civilian Community Corps Advisory Board", and substituted "to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters." for "to assist in the development and administration of the Corps."
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1513(1), substituted "There shall be" for "Upon the establishment of the Program, there shall also be", inserted "National" before "Civilian Community Corps Advisory Board", and substituted "to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters." for "to assist in the development and administration of the Corps."
 
 Subsec. (b)(8) to (12). Pub. L. 111–13, §1513(2)(B), added pars. (8) to (12). Former pars. (8) and (9) redesignated (13) and (14), respectively.
 

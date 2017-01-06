@@ -20,7 +20,7 @@ Maintenance of Military Construction Information on Internet; Access.—(1) The 
 
 &emsp;(D) Each unspecified minor construction project carried out under the authority of section 2805(a) of this title.
 
-&emsp;(E) Each military construction project or military family housing project regarding which a statutory requirement exists to notify Congress.
+&emsp;(E) Each military construction project or military family housing project regardingwhich a statutory requirement exists to notify Congress.
 
 (2) The information to be provided via the Internet site required by paragraph (1) for each project described in such paragraph shall include the following:
 

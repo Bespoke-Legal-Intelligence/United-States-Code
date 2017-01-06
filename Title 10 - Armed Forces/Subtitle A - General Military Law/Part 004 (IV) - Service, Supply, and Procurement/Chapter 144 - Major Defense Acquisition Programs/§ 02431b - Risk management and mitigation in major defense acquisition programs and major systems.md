@@ -22,7 +22,7 @@ Approach to Manage and Mitigate Risks.—The comprehensive approach to manage an
 
 &emsp;(2) Modeling and simulation, the areas that modeling and simulation will assess, and identification of the need for development of any new modeling and simulation tools in order to support the comprehensive strategy.
 
-&emsp;(3) Technology demonstrations and decision points for disciplined transition of plannedtechnologies into programs or the selection of alternative technologies.
+&emsp;(3) Technology demonstrations and decision points for disciplined transition of planned technologies into programs or the selection of alternative technologies.
 
 &emsp;(4) Multiple design approaches.
 
@@ -46,7 +46,19 @@ Preference for Prototyping.—To the maximum extent practicable and consistent w
 
 (d)
 
-Definitions.—In this section, the terms "major defense acquisition program" and "major system" have the meanings provided in section 2431a of this title.
+Definitions.—
 
-(Added Pub. L. 114–92, div. A, title VIII, §822(a)(1), Nov. 25, 2015, 129 Stat. 900.)
+&emsp;(1)
+
+Concurrency.—The term "concurrency" means, with respect to an acquisition strategy, the combination or overlap of program phases or activities.
+
+&emsp;(2)
+
+Major defense acquisition program and major system.—The terms "major defense acquisition program" and "major system" have the meanings provided in section 2431a of this title.
+
+(Added Pub. L. 114–92, div. A, title VIII, §822(a)(1), Nov. 25, 2015, 129 Stat. 900; amended Pub. L. 114–328, div. A, title X, §1081(a)(7), Dec. 23, 2016, 130 Stat. 2417.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–328 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms "major defense acquisition program" and "major system".
 

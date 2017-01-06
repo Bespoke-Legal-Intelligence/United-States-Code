@@ -190,7 +190,7 @@
 
 #### (B) Factors for consideration
 
-&emsp;&emsp;In establishing the permitting timetable under subparagraph (A), the facilitating orlead agency shall follow the performance schedules established under section 4370m–1(c)(1)(C) of this title, but may vary the timetable based on relevant factors, including—
+&emsp;&emsp;In establishing the permitting timetable under subparagraph (A), the facilitating or lead agency shall follow the performance schedules established under section 4370m–1(c)(1)(C) of this title, but may vary the timetable based on relevant factors, including—
 
 &emsp;&emsp;&emsp;(i) the size and complexity of the covered project;
 
@@ -212,7 +212,7 @@
 
 #### (ii) Disputes
 
-&emsp;&emsp;&emsp;If a dispute remains unresolved 30 days after the date on which the dispute was submitted to the Executive Director, the Director of the Office of Management and Budget, in consultation with the Chairman of the Council on Environmental Quality, shall facilitate a resolution of the dispute and direct the agencies party to the dispute to resolve the dispute by the end of the 60-day period beginning on the date of submission of the dispute to the Executive Director.
+&emsp;&emsp;&emsp;If a dispute remains unresolved 30 days after the date on which the dispute was submitted to the Executive Director, the Director of the Office of Management and Budget, in consultation with the Chairman of the Council on Environmental Quality, shall facilitate a resolution of the dispute and direct the agencies party to the dispute to resolve the dispute by the end ofthe 60-day period beginning on the date of submission of the dispute to the Executive Director.
 
 #### (iii) Final resolution
 

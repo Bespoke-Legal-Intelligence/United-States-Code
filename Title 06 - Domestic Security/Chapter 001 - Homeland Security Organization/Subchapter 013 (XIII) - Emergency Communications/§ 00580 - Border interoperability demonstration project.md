@@ -12,7 +12,7 @@
 
 #### (3) Location of communities
 
-&emsp;No fewer than 3 of the communities selected under paragraph (2) shall be located on the northern border of the United States and no fewer than 3 of the communities selected under paragraph (2) shall be located on the southern border of the United States.
+&emsp;No fewer than 3 of the communities selected under paragraph (2) shall be located on thenorthern border of the United States and no fewer than 3 of the communities selected under paragraph (2) shall be located on the southern border of the United States.
 
 #### (b) Conditions
 

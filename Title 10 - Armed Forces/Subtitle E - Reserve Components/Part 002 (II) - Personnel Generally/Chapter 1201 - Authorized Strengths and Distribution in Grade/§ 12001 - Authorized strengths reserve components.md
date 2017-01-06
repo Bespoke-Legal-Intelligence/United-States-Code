@@ -12,7 +12,7 @@ Provisions similar to those in this section were contained in sections 3221, 322
 
 #### Effective Date
 
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 #### Transfer of Functions
 
@@ -122,7 +122,7 @@ Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 188
 
 Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, provided that:
 
-"(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 10 U.S.C. 261 note \[now set out below\]), as amended by subsection (a).
+"(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; \[former\] 10 U.S.C. 261 note \[now set out below\]), as amended by subsection (a).
 
 "(2) Each such presentation shall include, with respect to the period covered by the report, the following information:
 
@@ -152,7 +152,7 @@ Objectives of Program.—The objectives of the program are as follows:
 
 Personnel To Be Assigned.—(1) The Secretary shall assign not less than 3,500 active component personnel to serve as advisers under the program.
 
-"(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active componentpersonnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support.
+"(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active component personnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support.
 
 "(d)
 
@@ -164,7 +164,7 @@ Pub. L. 98–525, title V, §552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, as
 
 "(a)(1) The Secretary of Defense shall conduct a review of the various systems used to measure the readiness of reserve units of the Armed Forces and shall implement a measurement system for the active and reserve components of the Armed Forces to provide an objective and uniform evaluation of the readiness of all units of the Armed Forces. The measurement system should be designed to produce information adequate to provide comparisons concerning the readiness of all units. The system for evaluation of the readiness of a unit of an active component should incorporate the performance of any unit of a reserve component affiliated with the active component unit, including the effect of the reserve component unit on the mobilization capability of the active component unit.
 
-"(2) Not later than March 31, 1985, the Secretary shall submit a report to the Committees on Armed Services of the Senate and House of Representatives describing the results of the review under paragraph (1) and the measurement system implemented in accordance with that paragraph.
+"(2) Not later than March 31, 1985, the Secretary shall submit a report to the Committees on Armed Servicesof the Senate and House of Representatives describing the results of the review under paragraph (1) and the measurement system implemented in accordance with that paragraph.
 
 "(b)(1) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], shall conduct a study to evaluate the feasibility of allocating equipment to units of reserve components based on a measure of effectiveness of such units. The study should consider the effects of allocating equipment by comparing units with similar deployment times and similar capabilities in terms of training and equipment rather than by comparing all reserve component units with each other. The study should be integrated with an evaluation of the system for measuring unit effectiveness to be implemented in accordance with subsection (a).
 

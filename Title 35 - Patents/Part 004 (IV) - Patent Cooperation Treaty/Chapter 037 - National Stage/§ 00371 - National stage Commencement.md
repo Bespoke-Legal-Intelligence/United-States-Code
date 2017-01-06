@@ -42,7 +42,7 @@ Pub. L. 107–273, §13206(a)(20), inserted period at end.
 
 <b>1991</b>—Subsec. (c)(1). Pub. L. 102–204 substituted "provided in section 41(a) of this title" for "prescribed under section 376(a)(4) of this part".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–616, §7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States."
+<b>1986</b>—Subsec. (a). Pub. L. 99–616, §7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: "Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States."
 
 Subsec. (b). Pub. L. 99–616, §7(b), amended subsec. (b) generally, substituting ", or under article 39(1)(a) of the treaty" for "of the treaty."
 

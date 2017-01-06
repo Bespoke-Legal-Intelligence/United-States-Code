@@ -154,5 +154,5 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, andas if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 

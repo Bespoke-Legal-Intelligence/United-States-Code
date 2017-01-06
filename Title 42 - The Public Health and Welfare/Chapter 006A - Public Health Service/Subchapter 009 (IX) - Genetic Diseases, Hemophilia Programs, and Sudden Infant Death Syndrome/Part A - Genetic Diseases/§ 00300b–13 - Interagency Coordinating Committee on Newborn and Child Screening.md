@@ -24,7 +24,7 @@ The Interagency Coordinating Committee shall—
 
 &emsp;(2) carry out other activities determined appropriate by the Secretary.
 
-(July 1, 1944, ch. 373, title XI, §1114, as added Pub. L. 110–204, §6, Apr. 24, 2008, 122 Stat. 710;amended Pub. L. 110–237, §1(a)(6), May 27, 2008, 122 Stat. 1557; Pub. L. 113–240, §7, Dec. 18, 2014, 128 Stat. 2855.)
+(July 1, 1944, ch. 373, title XI, §1114, as added Pub. L. 110–204, §6, Apr. 24, 2008, 122 Stat. 710; amended Pub. L. 110–237, §1(a)(6), May 27, 2008, 122 Stat. 1557; Pub. L. 113–240, §7, Dec. 18, 2014, 128 Stat. 2855.)
 
 #### Amendments
 

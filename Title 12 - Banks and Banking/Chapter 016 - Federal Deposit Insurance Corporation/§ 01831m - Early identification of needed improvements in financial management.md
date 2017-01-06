@@ -36,7 +36,7 @@ Each insured depository institution shall prepare—
 
 &emsp;&emsp;&emsp;(ii) establishing and maintaining an adequate internal control structure and procedures for financial reporting; and
 
-&emsp;&emsp;&emsp;(iii) complying with the laws and regulations relating to safety and soundness which are designated by the Corporation and the appropriate Federal banking agency; and
+&emsp;&emsp;&emsp;(iii) complying with the laws and regulations relating to safety and soundness which are designated by the Corporationand the appropriate Federal banking agency; and
 
 &emsp;&emsp;(B) an assessment, as of the end of the institution's most recent fiscal year, of—
 

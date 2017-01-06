@@ -47,7 +47,7 @@
 | [5522\.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005522%20-%20Advance%20payments%3B%20rates%3B%20amounts%20recoverable.md) | Advance payments; rates; amounts recoverable. |
 | [5523\.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005523%20-%20Duration%20of%20payments%3B%20rates%3B%20active%20service%20period.md) | Duration of payments; rates; active service period. |
 | [5524\.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005524%20-%20Review%20of%20accounts.md) | Review of accounts. |
-| [5524a.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005524a%20-%20Advance%20payments%20for%20new%20appointees.md) | Advance payments for new appointees. |
+| [5524a.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005524a%20-%20Advance%20payments%20for%20new%20appointees%20and%20employees%20relocating%20within%20the%20United%20States%20and%20its%20territories.md) | Advance payments for new appointees and employees relocating within the United States and its territories. |
 | [5525\.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005525%20-%20Allotment%20and%20assignment%20of%20pay.md) | Allotment and assignment of pay. |
 | [5526\.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005526%20-%20Funds%20available%20on%20reimbursable%20basis.md) | Funds available on reimbursable basis. |
 | [5527\.](Subchapter%20003%20%28III%29%20-%20Advancement%2C%20Allotment%2C%20and%20Assignment%20of%20Pay/%C2%A7%2005527%20-%20Regulations.md) | Regulations. |
@@ -143,6 +143,8 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title XI, §1134(c)(2), Dec. 23, 2016, 130 Stat. 2459, substituted "Advance payments for new appointees and employees relocating within the United States and its territories" for "Advance payments for new appointees" in item 5524a.
+
 <b>2014</b>—Pub. L. 113–277, §2(g)(3), Dec. 18, 2014, 128 Stat. 3005, added item 5550.
 
 <b>2009</b>—Pub. L. 111–8, div. D, title VII, §751(b), Mar. 11, 2009, 123 Stat. 695, added item 5538.
@@ -195,7 +197,7 @@ Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
 #### No Payment of Services to Individual in Acting or Temporary Capacity After Second Nomination for That Individual is Withdrawn or Returned to President
 
-Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: "Effective January 20, 2009, and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President."
+Pub. L. 111–8, div. D, title VII, §749, Mar. 11, 2009, 123 Stat. 693, provided that: "Effective January 20, 2009,and for each fiscal year thereafter, no part of any appropriation contained in this or any other Act may be used for the payment of services to any individual carrying out the responsibilities of any position requiring Senate advice and consent in an acting or temporary capacity after the second submission of a nomination for that individual to that position has been withdrawn or returned to the President."
 
 #### No Payment to Person Filling Position After Vote by Senate Not To Approve Person's Nomination
 

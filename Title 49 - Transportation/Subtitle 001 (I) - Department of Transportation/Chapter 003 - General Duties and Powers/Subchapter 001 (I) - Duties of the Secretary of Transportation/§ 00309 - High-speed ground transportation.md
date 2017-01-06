@@ -8,7 +8,7 @@
 
 (B)(i) Any eligible applicant may submit to the Secretary a proposal for demonstration of any advancement in a high-speed ground transportation technology or technologies to be incorporated as a component, subsystem, or system in any revenue service high-speed ground transportation project or system under construction or in operation at the time the application is made.
 
-(ii) Grants or contracts shall be awarded only to eligible applicants showing demonstrable benefit to the research and development, design, construction, or ultimate operation of any maglev technology or high-speed steel wheel on rail technology. Criteria to be considered in evaluating the suitability of a proposal under this paragraph shall include—
+(ii) Grants or contracts shall be awarded only to eligible applicants showing demonstrable benefit to the research and development, design, construction, or ultimate operation of any maglev technology or high-speed steel wheel onrail technology. Criteria to be considered in evaluating the suitability of a proposal under this paragraph shall include—
 
 &emsp;(I) feasibility of guideway or track design and construction;
 
@@ -220,7 +220,7 @@ Proprietary rights.—No trade secrets or commercial or financial information th
 
 &emsp;"(B)
 
-Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
+Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royaltiesmay be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
 
 "(6)
 

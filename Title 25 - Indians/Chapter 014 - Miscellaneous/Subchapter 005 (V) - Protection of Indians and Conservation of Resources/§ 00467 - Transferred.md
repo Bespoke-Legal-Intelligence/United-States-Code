@@ -1,0 +1,6 @@
+### §467. Transferred
+
+#### Codification
+
+Section 467 was editorially reclassified as section 5110 of this title.
+

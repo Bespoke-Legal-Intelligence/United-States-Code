@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(8) The ability to develop and maintain purity standards for honey and honey products is critical to maintaining the consumer confidence, safety, and trust that are essential components of any undertaking to maintain and develop markets for honey and honey products.
 
-&emsp;(9) Research directed at improving the cost effectiveness and efficiency of beekeeping, as well as developing better means of dealingwith pest and disease problems, is essential to keeping honey and honey product prices competitive and facilitating market growth as well as maintaining the financial well-being of the honey industry.
+&emsp;(9) Research directed at improving the cost effectiveness and efficiency of beekeeping, as well as developing better means of dealing with pest and disease problems, is essential to keeping honey and honey product prices competitive and facilitating market growth as well as maintaining the financial well-being of the honey industry.
 
 &emsp;(10) Research involving the quality, safety, and image of honey and honey products and how that quality, safety, and image may be affected during the extraction, processing, packaging, marketing, and other stages of the honey and honey product production and distribution process, is highly important to building and maintaining markets for honey and honey products.
 

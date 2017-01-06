@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 466 to 466g of this title were transferred to sections 1151 to 1160 of this title and were subsequentlyomitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
+Sections 466 to 466g of this title were transferred to sections 1151 to 1160 of this title and were subsequently omitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
 
 Section 466, acts June 30, 1948, ch. 758, §1, 62 Stat. 1155; July 9, 1956, ch. 518, §1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §1(a), 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, §1(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, §§1(a), (e)(1), 5, 31 F.R. 6857, 80 Stat. 1608, which related to Congressional declaration of policy, was transferred to section 1151 of this title.
 

@@ -11,3 +11,4 @@
 - [&sect; 02064 - Technical assistance grants for nonprofit community-based groups](%C2%A7%2002064%20-%20Technical%20assistance%20grants%20for%20nonprofit%20community-based%20groups.md)
 - [&sect; 02065 - Annual report on assistance to homeless veterans](%C2%A7%2002065%20-%20Annual%20report%20on%20assistance%20to%20homeless%20veterans.md)
 - [&sect; 02066 - Advisory Committee on Homeless Veterans](%C2%A7%2002066%20-%20Advisory%20Committee%20on%20Homeless%20Veterans.md)
+- [&sect; 02067 - National Center on Homelessness Among Veterans](%C2%A7%2002067%20-%20National%20Center%20on%20Homelessness%20Among%20Veterans.md)

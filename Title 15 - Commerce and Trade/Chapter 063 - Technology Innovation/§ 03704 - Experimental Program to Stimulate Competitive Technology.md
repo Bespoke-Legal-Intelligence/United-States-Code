@@ -10,7 +10,7 @@
 
 &emsp;In carrying out the program, the Secretary shall—
 
-&emsp;&emsp;(A) enter into such arrangements as may be necessary to provide for the coordinationof the program through the State committees established under the Experimental Program to Stimulate Competitive Research of the National Science Foundation; and
+&emsp;&emsp;(A) enter into such arrangements as may be necessary to provide for the coordination of the program through the State committees established under the Experimental Program to Stimulate Competitive Research of the National Science Foundation; and
 
 &emsp;&emsp;(B) cooperate with—
 
@@ -74,13 +74,13 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (C) Review panels
 
-&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review any application has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
+&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality andmerit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review any application has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
 
 #### (3) Awards
 
 #### (A) Limitation
 
-&emsp;&emsp;An eligible institution that receives a grant, cooperative agreement, or contract under this subsection that exceeds $2,500,000 shall not be eligible to receive anothergrant, cooperative agreement, or contract under this subsection.
+&emsp;&emsp;An eligible institution that receives a grant, cooperative agreement, or contract under this subsection that exceeds $2,500,000 shall not be eligible to receive another grant, cooperative agreement, or contract under this subsection.
 
 #### (B) Consortia
 
@@ -146,7 +146,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (iii) Review of reports
 
-&emsp;&emsp;&emsp;In carrying out the assessments under this subparagraph, the National Academy of Public Administration shall review thereports submitted to the Secretary under subparagraph (A).
+&emsp;&emsp;&emsp;In carrying out the assessments under this subparagraph, the National Academy of Public Administration shall review the reports submitted to the Secretary under subparagraph (A).
 
 #### (iv) Report to Congress
 
@@ -220,7 +220,7 @@ Subsec. (a). Pub. L. 110–69, §3002(a)(3)(B), (E), substituted "Program establ
 
 Pub. L. 110–69, §3002(a)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which related to the establishment of a Technology Administration within the Department of Commerce.
 
-Subsec. (a)(1). Pub. L. 110–69, §3002(a)(3)(A), substituted "Beginning in fiscal year 1999, the Secretary shall establish" for "The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999".
+Subsec. (a)(1). Pub. L. 110–69, §3002(a)(3)(A), substituted "Beginning in fiscal year 1999, the Secretaryshall establish" for "The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999".
 
 Subsec. (a)(6). Pub. L. 110–69, §3002(a)(3)(C), redesignated par. (6) as subsec. (b).
 

@@ -360,7 +360,7 @@ In this section:
 
 #### (3) Cooperating and participating agency responsibilities
 
-&emsp;Based on information received from the Federal lead agency, cooperating and participating agencies shall identify, as early as practicable, any issues of concern regarding the potential environmental or socioeconomic impacts of the project, including any issues thatcould substantially delay or prevent an agency from granting a permit or other approval that is needed for the project study.
+&emsp;Based on information received from the Federal lead agency, cooperating and participating agencies shall identify, as early as practicable, any issues of concern regarding the potential environmental or socioeconomic impacts of the project, including any issues that could substantially delay or prevent an agency from granting a permit or other approval that is needed for the project study.
 
 #### (4) Accelerated issue resolution and elevation
 
@@ -430,7 +430,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A transfer of funds under this paragraph shall not be made if the applicable agency described in subparagraph (A) notifies, with a supporting explanation, the Federallead agency, cooperating agencies, and project sponsor, as applicable, that—
+&emsp;&emsp;&emsp;A transfer of funds under this paragraph shall not be made if the applicable agency described in subparagraph (A) notifies, with a supporting explanation, the Federal lead agency, cooperating agencies, and project sponsor, as applicable, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency has not received necessary information or approvals from another entity in a manner that affects the ability of the agency to meet any requirements under Federal, State, or local law;
 
@@ -448,7 +448,7 @@ In this section:
 
 #### (E) Limitation
 
-&emsp;&emsp;The Federal agency from which funds are transferred pursuant to this paragraph shall not reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
+&emsp;&emsp;The Federal agency from which funds are transferred pursuant to this paragraph shallnot reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
 
 #### (F) Effect of paragraph
 

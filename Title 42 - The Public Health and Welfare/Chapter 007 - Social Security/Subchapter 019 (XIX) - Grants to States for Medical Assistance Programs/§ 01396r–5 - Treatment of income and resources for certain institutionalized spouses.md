@@ -4,7 +4,7 @@
 
 #### (1) Supersedes other provisions
 
-&emsp;In determining the eligibility for medical assistance of an institutionalized spouse (as defined in subsection (h)(1) of this section), the provisions of this section supersede any other provision of this subchapter (including sections 1396a(a)(17) and 1396a(f) of this title) which is inconsistent with them.
+&emsp;In determining the eligibility for medical assistance of an institutionalized spouse (as defined in subsection (h)(1)), the provisions of this section supersede any other provision of this subchapter (including sections 1396a(a)(17) and 1396a(f) of this title) which is inconsistent with them.
 
 #### (2) No comparable treatment required
 
@@ -40,7 +40,7 @@
 
 #### (2) Attribution of income
 
-&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d) of this section, except as otherwise provided in this section and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
+&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d), except as otherwise provided in this section and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
 
 #### (A) Non-trust property
 
@@ -88,7 +88,7 @@
 
 #### (B) Assessment
 
-&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
+&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2).
 
 #### (2) Attribution of resources at time of initial eligibility determination
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, or both, shall be considered to be available to the institutionalized spouse, and
 
-&emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds the amount computed under subsection (f)(2)(A) of this section (as of the time of application for benefits).
+&emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds the amount computed under subsection (f)(2)(A) (as of the time of application for benefits).
 
 #### (3) Assignment of support rights
 
@@ -140,7 +140,7 @@
 
 &emsp;In this section (except as provided in paragraph (5)), the "community spouse monthly income allowance" for a community spouse is an amount by which—
 
-&emsp;&emsp;(A) except as provided in subsection (e) of this section, the minimum monthly maintenance needs allowance (established under and in accordance with paragraph (3)) for the spouse, exceeds
+&emsp;&emsp;(A) except as provided in subsection (e), the minimum monthly maintenance needs allowance (established under and in accordance with paragraph (3)) for the spouse, exceeds
 
 &emsp;&emsp;(B) the amount of monthly income otherwise available to the community spouse (determined without regard to such an allowance).
 
@@ -168,7 +168,7 @@
 
 #### (C) Cap on minimum monthly maintenance needs allowance
 
-&emsp;&emsp;The minimum monthly maintenance needs allowance established under subparagraph (A) may not exceed $1,500 (subject to adjustment under subsections (e) and (g) of this section).
+&emsp;&emsp;The minimum monthly maintenance needs allowance established under subparagraph (A) may not exceed $1,500 (subject to adjustment under subsections (e) and (g)).
 
 #### (4) Excess shelter allowance defined
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(B) a request by either the institutionalized spouse, or the community spouse, or a representative acting on behalf of either spouse,
 
-> &emsp;each State shall notify both spouses (in the case described in subparagraph (A)) or the spouse making the request (in the case described in subparagraph (B)) of the amount of the community spouse monthly income allowance (described in subsection (d)(1)(B) of this section), of the amount of any family allowances (described in subsection (d)(1)(C) of this section), of the method for computing the amount of the community spouse resources allowance permitted under subsection (f) of this section, and of the spouse's right to a fair hearing under this subsection respecting ownership or availability of income or resources, and the determination of the community spouse monthly income or resource allowance.
+> &emsp;each State shall notify both spouses (in the case described in subparagraph (A)) or the spouse making the request (in the case described in subparagraph (B)) of the amount of the community spouse monthly income allowance (described in subsection (d)(1)(B)), of the amount of any family allowances (described in subsection (d)(1)(C)), of the method for computing the amount of the community spouse resources allowance permitted under subsection (f), and of the spouse's right to a fair hearing under this subsection respecting ownership or availability of income or resources, and the determination of the community spouse monthly income or resource allowance.
 
 #### (2) Fair hearing
 
@@ -208,23 +208,23 @@
 
 &emsp;&emsp;&emsp;(i) the community spouse monthly income allowance;
 
-&emsp;&emsp;&emsp;(ii) the amount of monthly income otherwise available to the community spouse (as applied under subsection (d)(2)(B) of this section);
+&emsp;&emsp;&emsp;(ii) the amount of monthly income otherwise available to the community spouse (as applied under subsection (d)(2)(B));
 
-&emsp;&emsp;&emsp;(iii) the computation of the spousal share of resources under subsection (c)(1) of this section;
+&emsp;&emsp;&emsp;(iii) the computation of the spousal share of resources under subsection (c)(1);
 
-&emsp;&emsp;&emsp;(iv) the attribution of resources under subsection (c)(2) of this section; or
+&emsp;&emsp;&emsp;(iv) the attribution of resources under subsection (c)(2); or
 
-&emsp;&emsp;&emsp;(v) the determination of the community spouse resource allowance (as defined in subsection (f)(2) of this section);
+&emsp;&emsp;&emsp;(v) the determination of the community spouse resource allowance (as defined in subsection (f)(2));
 
-> &emsp;&emsp;such spouse is entitled to a fair hearing described in section 1396a(a)(3) of this titlewith respect to such determination if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse. Any such hearing respecting the determination of the community spouse resource allowance shall be held within 30 days of the date of the request for the hearing.
+> &emsp;&emsp;such spouse is entitled to a fair hearing described in section 1396a(a)(3) of this title with respect to such determination if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse. Any such hearing respecting the determination of the community spouse resource allowance shall be held within 30 days of the date of the request for the hearing.
 
 #### (B) Revision of minimum monthly maintenance needs allowance
 
-&emsp;&emsp;If either such spouse establishes that the community spouse needs income, above the level otherwise provided by the minimum monthly maintenance needs allowance, due to exceptional circumstances resulting in significant financial duress, there shall be substituted, for the minimum monthly maintenance needs allowance in subsection (d)(2)(A) of this section, an amount adequate to provide such additional income as is necessary.
+&emsp;&emsp;If either such spouse establishes that the community spouse needs income, above the level otherwise provided by the minimum monthly maintenance needs allowance, due to exceptional circumstances resulting in significant financial duress, there shall be substituted, for the minimum monthly maintenance needs allowance in subsection (d)(2)(A), an amount adequate to provide such additional income as is necessary.
 
 #### (C) Revision of community spouse resource allowance
 
-&emsp;&emsp;If either such spouse establishes that the community spouse resource allowance (in relation to the amount of income generated by such an allowance) is inadequate to raise the community spouse's income to the minimum monthly maintenance needs allowance, there shall be substituted, for the community spouse resource allowance under subsection (f)(2) of this section, an amount adequate to provide such a minimum monthly maintenance needs allowance.
+&emsp;&emsp;If either such spouse establishes that the community spouse resource allowance (in relation to the amount of income generated by such an allowance) is inadequate to raise the community spouse's income to the minimummonthly maintenance needs allowance, there shall be substituted, for the community spouse resource allowance under subsection (f)(2), an amount adequate to provide such a minimum monthly maintenance needs allowance.
 
 #### (f) Permitting transfer of resources to community spouse
 
@@ -238,11 +238,11 @@
 
 &emsp;&emsp;(A) the greatest of—
 
-&emsp;&emsp;&emsp;(i) $12,000 (subject to adjustment under subsection (g) of this section), or, if greater (but not to exceed the amount specified in clause (ii)(II)) an amount specified under the State plan,
+&emsp;&emsp;&emsp;(i) $12,000 (subject to adjustment under subsection (g)), or, if greater (but not to exceed the amount specified in clause (ii)(II)) an amount specified under the State plan,
 
-&emsp;&emsp;&emsp;(ii) the lesser of (I) the spousal share computed under subsection (c)(1) of this section, or (II) $60,000 (subject to adjustment under subsection (g) of this section),
+&emsp;&emsp;&emsp;(ii) the lesser of (I) the spousal share computed under subsection (c)(1), or (II) $60,000 (subject to adjustment under subsection (g)),
 
-&emsp;&emsp;&emsp;(iii) the amount established under subsection (e)(2) of this section; or
+&emsp;&emsp;&emsp;(iii) the amount established under subsection (e)(2); or
 
 &emsp;&emsp;&emsp;(iv) the amount transferred under a court order under paragraph (3);
 
@@ -252,11 +252,11 @@
 
 #### (3) Transfers under court orders
 
-&emsp;If a court has entered an order against an institutionalized spouse for the support of the community spouse, section 1396p of this title shall not apply to amounts of resources transferred pursuant to such order for the support of the spouse or a family member (as defined in subsection (d)(1) of this section).
+&emsp;If a court has entered an order against an institutionalized spouse for the support of the community spouse, section 1396p of this title shall not apply to amounts of resources transferred pursuant to such order for the support of the spouse or a family member (as defined in subsection (d)(1)).
 
 #### (g) Indexing dollar amounts
 
-For services furnished during a calendar year after 1989, the dollar amounts specified in subsections (d)(3)(C), (f)(2)(A)(i), and (f)(2)(A)(ii)(II) of this section shall be increased by the same percentage as the percentage increase in the consumer price index for all urban consumers (all items; U.S. city average) between September 1988 and the September before the calendar year involved.
+For services furnished during a calendar year after 1989, the dollar amounts specified in subsections (d)(3)(C), (f)(2)(A)(i), and (f)(2)(A)(ii)(II) shall be increased by the same percentage as the percentage increase in the consumer price index for all urban consumers (all items; U.S. city average) between September 1988 and the September before the calendar year involved.
 
 #### (h) Definitions
 
@@ -298,7 +298,7 @@ Subsec. (b)(2)(B)(i). Pub. L. 103–66, §13611(d)(2), substituted "1396p(d) of 
 
 <b>1990</b>—Subsec. (a)(5). Pub. L. 101–508, §4744(b)(1), added par. (5).
 
-Subsec. (b)(2). Pub. L. 101–508, §4714(a), substituted "for purposes of the post-eligibility income determination described in subsection (d) of this section" for ", after the institutionalized spouse has been determined or redetermined to be eligible for medical assistance".
+Subsec. (b)(2). Pub. L. 101–508, §4714(a), substituted "for purposes of the post-eligibility income determination described in subsection (d)" for ", after the institutionalized spouse has been determined or redetermined to be eligible for medical assistance".
 
 Subsec. (c)(1). Pub. L. 101–508, §4714(c), substituted "the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse" for "the beginning of a continuous period of institutionalization of the institutionalized spouse" in subpars. (A) and (B).
 
@@ -306,7 +306,7 @@ Subsec. (f)(1). Pub. L. 101–508, §4714(b), substituted "section 1396p(c)(1)" 
 
 <b>1989</b>—Subsecs. (b)(2), (d)(1). Pub. L. 101–239 inserted "or redetermined" after "determined".
 
-<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–485, §608(d)(16)(A)(i), substituted "will have a right to a fair hearing under subsection (e)(2) of this section" for "has right to a fair hearing under subsection (e)(2)(E) of this section with respect to the determination of the community spouse resource allowance, to provide for an allowance adequate to raise the spouse's income to the minimum monthly maintenance needs allowance".
+<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–485, §608(d)(16)(A)(i), substituted "will have a right to a fair hearing under subsection (e)(2)" for "has right to a fair hearing under subsection (e)(2)(E) with respect to the determination of the community spouse resource allowance, to provide for an allowance adequate to raise the spouse's income to the minimum monthly maintenance needs allowance".
 
 Subsec. (c)(2)(B). Pub. L. 100–485, §608(d)(16)(A)(ii), substituted "resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds" for "resources shall not be considered to be available to an institutionalized spouse, to the extent that the amount of such resources does not exceed".
 
@@ -358,7 +358,7 @@ Pub. L. 100–360, title III, §303(g), July 1, 1988, 102 Stat. 763, as amended 
 
 "(B) Section 1924 of the Social Security Act \[42 U.S.C. 1396r–5\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
-"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social SecurityAct for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 "(B) Section 1917(c) of the Social Security Act \[42 U.S.C. 1396p(c)\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 

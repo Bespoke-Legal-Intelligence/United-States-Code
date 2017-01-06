@@ -38,7 +38,7 @@ Not later than 180 days after August 3, 2007, the President shall transmit to th
 
 The Government Accountability Office shall submit to Congress, for each of fiscal years 2007, 2009, and 2011, a report with its assessment of the progress and effectiveness of the PSI, which shall include an assessment of the measures referred to in subsection (a).
 
-(Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067, formerly §1067(b), Dec. 31, 2011, 125 Stat. 1589, renumbered §1067, Pub. L. 112–239, div. A, title X, §1076(a)(20)(B), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title X, §1076(b), Nov. 25, 2015, 129 Stat. 998.)
+(Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067, formerly §1067(b), Dec. 31, 2011, 125 Stat. 1589, renumbered §1067, Pub. L. 112–239, div. A, title X,§1076(a)(20)(B), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title X, §1076(b), Nov. 25, 2015, 129 Stat. 998.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Memorandum of President of the United States, Mar. 28, 2008, 73 F.R. 19957, prov
 
 Memorandum for the Secretary of State
 
-By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the Presidentunder section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53).
+By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53).
 
 In the performance of your responsibility under this memorandum, you shall, as appropriate, consult the heads of other departments and agencies.
 

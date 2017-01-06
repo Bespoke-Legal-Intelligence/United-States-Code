@@ -50,7 +50,7 @@ Before making any written determination or background file document open or avai
 
 &emsp;(7) geological and geophysical information and data, including maps, concerning wells.
 
-> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in a proceeding under subsection (f)(3)) to make such deletions.
+> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in aproceeding under subsection (f)(3)) to make such deletions.
 
 #### (d) Procedures with regard to third party contacts
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 Except as otherwise provided in this title, or with respect to a discovery order made in connection with a judicial proceeding, the Secretary shall not be required by any Court to make any written determination or background file document open or available to public inspection, or to refrain from disclosure of any such documents.
 
-(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634, 2763A-643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484.)
+(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, 2763A–643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### References in Text
 
@@ -364,7 +364,7 @@ Pub. L. 110–172, §10(b), Dec. 29, 2007, 121 Stat. 2484, provided that: "The a
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634, provided that: "The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: "The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 Amendment by section 1(a)(7) \[title III, §313(e)\] of Pub. L. 106–554 effective as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 1(a)(7) \[title III, §313(f)\] of Pub. L. 106–554, set out as a note under section 6015 of this title.
 

@@ -14,7 +14,7 @@ The Congress, after careful review of the problem of child abuse on Indian reser
 
 &emsp;&emsp;(D) Federal Government investigations of the background of Federal employees who care for, or teach, Indian children are often deficient;
 
-&emsp;&emsp;(E) funds spent by the United States on Indian reservations or otherwise spent for thebenefit of Indians who are victims of child abuse or family violence are inadequate to meet the growing needs for mental health treatment and counseling for victims of child abuse or family violence and their families; and
+&emsp;&emsp;(E) funds spent by the United States on Indian reservations or otherwise spent for the benefit of Indians who are victims of child abuse or family violence are inadequate to meet the growing needs for mental health treatment and counseling for victims of child abuse or family violence and their families; and
 
 &emsp;&emsp;(F) there is no resource that is more vital to the continued existence and integrity of Indian tribes than their children and the United States has a direct interest, as trustee, in protecting Indian children who are members of, or are eligible for membership in, an Indian tribe; and
 
@@ -51,6 +51,10 @@ The purposes of this chapter are to—
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this title", meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–165, §1, June 3, 2016, 130 Stat. 415, provided that: "This Act \[amending section 3207 of this title\] may be cited as the 'Native American Children's Safety Act'."
 
 #### Short Title
 

@@ -26,7 +26,7 @@
 
 #### (E) Reservation
 
-&emsp;&emsp;Of the amounts made available to carry out this paragraph, the Secretary may reserve not more than 1 percent for each fiscal year to make grants to private, nonprofit organizations or to enter into contracts with private, nonprofit or for-profit organizations to provide technical assistance to aid community development corporations in developing or implementing activities funded to carry out this paragraph and to evaluate activities funded to carry out this paragraph.
+&emsp;&emsp;Of the amounts made available to carry out this paragraph, the Secretary may reserve not more than 1 percent for each fiscal year to make grants to private, nonprofit organizations or to enter into contracts with private, nonprofit or for-profit organizationsto provide technical assistance to aid community development corporations in developing or implementing activities funded to carry out this paragraph and to evaluate activities funded to carry out this paragraph.
 
 #### (3) Rural community development activities
 
@@ -46,7 +46,7 @@ The Secretary shall require all activities receiving assistance under this secti
 
 #### (c) Annual report
 
-The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) of this section and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.
+The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.
 
 (Pub. L. 97–35, title VI, §680, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2750.)
 

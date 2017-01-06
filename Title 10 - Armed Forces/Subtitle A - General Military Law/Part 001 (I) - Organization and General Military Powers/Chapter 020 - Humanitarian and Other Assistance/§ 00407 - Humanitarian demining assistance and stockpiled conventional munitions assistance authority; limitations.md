@@ -8,7 +8,7 @@ Authority.—(1) Under regulations prescribed by the Secretary of Defense, the S
 
 &emsp;(B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
-(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and maynot duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
+(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
 
 (3) The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance or stockpiled conventional munitions assistance under this section—
 
@@ -32,7 +32,7 @@ Expenses.—(1) Expenses incurred as a direct result of providing humanitarian d
 
 &emsp;(B) The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting humanitarian demining activities or stockpiled conventional munitions activities, including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war, or stockpiled conventional munitions, as applicable, that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
 
-(3) The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $10,000,000.
+(3) The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $15,000,000.
 
 (d)
 
@@ -56,15 +56,17 @@ Definitions.—In this section:
 
 &emsp;(2) The term "stockpiled conventional munitions assistance", as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.
 
-(Added Pub. L. 109–364, div. A, title XII, §1203(b)(1), Oct. 17, 2006, 120 Stat. 2413; amended Pub. L. 112–81, div. A, title X, §1092(a), (b)(1), Dec. 31, 2011, 125 Stat. 1605, 1606; Pub. L. 113–66, div. A, title X, §1083, Dec. 26, 2013, 127 Stat. 871; Pub. L. 113–291, div. A, title X, §§1041, 1071(f)(5), Dec. 19, 2014, 128 Stat. 3492, 3510.)
+(Added Pub. L. 109–364, div. A, title XII, §1203(b)(1), Oct. 17, 2006, 120 Stat. 2413; amended Pub. L. 112–81, div. A, title X, §1092(a), (b)(1), Dec. 31, 2011, 125 Stat. 1605, 1606; Pub. L. 113–66, div. A, title X, §1083, Dec. 26, 2013, 127 Stat. 871; Pub. L. 113–291, div. A, title X, §§1041, 1071(f)(5), Dec. 19, 2014, 128 Stat. 3492, 3510; Pub. L. 114–328, div. A, title X, §1082, Dec. 23, 2016, 130 Stat. 2420.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "$15,000,000" for "$10,000,000".
 
 <b>2014</b>—Subsec. (a)(3)(A). Pub. L. 113–291, §1071(f)(5), struck out comma after "as applicable".
 
 Subsec. (d)(3). Pub. L. 113–291, §1041(a), inserted "or insufficient funding" after "such activities".
 
-Subsec. (e)(2). Pub. L. 113–291, §1041(b), substituted "small arms, and light weapons, including man-portable air-defense systems. Such term includes" for "and includes" and inserted before period at end ", smallarms, and light weapons, including man-portable air-defense systems".
+Subsec. (e)(2). Pub. L. 113–291, §1041(b), substituted "small arms, and light weapons, including man-portable air-defense systems. Such term includes" for "and includes" and inserted before period at end ", small arms, and light weapons, including man-portable air-defense systems".
 
 <b>2013</b>—Subsec. (d)(5). Pub. L. 113–66 added par. (5).
 
@@ -91,6 +93,10 @@ Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted "or stockpiled conventi
 Subsec. (d)(2). Pub. L. 112–81, §1092(a)(4)(B), inserted ", and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance" after "paragraph (1)".
 
 Subsec. (e). Pub. L. 112–81, §1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "In this section, the term 'humanitarian demining assistance', as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war."
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Authority To Transfer Surplus Mine-Resistant Ambush-Protected Vehicles and Spare Parts
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) ensure the design and implementation of appropriate program evaluation methodologies;
 
-&emsp;&emsp;(C) provide guidance to Department personnel in the United States and overseas who conduct or implement public diplomacy policies, programs, and activities;
+&emsp;&emsp;(C) provide guidance to Department personnel in the United States and overseaswho conduct or implement public diplomacy policies, programs, and activities;
 
 &emsp;&emsp;(D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively; and
 
@@ -50,7 +50,7 @@
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
-&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shallbe responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
+&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
 
 &emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
@@ -94,7 +94,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (1) In general
 
-&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
+&emsp;There shall be established within the Department of State in the immediate office ofthe Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
 
 #### (2) Authorities and duties; definitions
 
@@ -112,7 +112,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government to combat the HIV/AIDS pandemic, including all programs, projects, and activities of the United States Governmentrelating to the HIV/AIDS pandemic under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 \[22 U.S.C. 7601 et seq.\] or any amendment made by that Act.
+&emsp;&emsp;&emsp;The Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government to combat the HIV/AIDS pandemic, including all programs, projects, and activities of the United States Government relating to the HIV/AIDS pandemic under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 \[22 U.S.C. 7601 et seq.\] or any amendment made by that Act.
 
 #### (ii) Specific duties
 
@@ -216,7 +216,7 @@ Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcl
 
 Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
 
-Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "Indesignating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
+Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
 
 Pub. L. 110–293, §102(2)(C), redesignated subcl. (VII) as (IX).
 
@@ -464,7 +464,7 @@ Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided tha
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
-Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
+Pub. L. 103–236, title I, §161(d), Apr. 30, 1994, 108 Stat. 404, provided that: "Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department ofState affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate."
 
 #### Office of Coordinator for Counterterrorism
 

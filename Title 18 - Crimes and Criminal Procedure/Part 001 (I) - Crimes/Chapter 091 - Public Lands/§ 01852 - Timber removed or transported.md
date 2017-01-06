@@ -4,7 +4,7 @@ Whoever cuts, or wantonly destroys any timber growing on the public lands of the
 
 Whoever removes any timber from said public lands, with intent to export or to dispose of the same; or
 
-Whoever, being the owner, master, pilot, operator, or consignee of any vessel, motor vehicle, or aircraft or the owner, director, or agent of any railroad, knowingly transports any timberso cut or removed from said lands, or lumber manufactured therefrom—
+Whoever, being the owner, master, pilot, operator, or consignee of any vessel, motor vehicle, or aircraft or the owner, director, or agent of any railroad, knowingly transports any timber so cut or removed from said lands, or lumber manufactured therefrom—
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 

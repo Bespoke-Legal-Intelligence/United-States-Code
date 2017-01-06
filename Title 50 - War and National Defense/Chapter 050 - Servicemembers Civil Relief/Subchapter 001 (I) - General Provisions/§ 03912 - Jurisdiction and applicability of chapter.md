@@ -12,7 +12,7 @@ This chapter applies to—
 
 #### (b) Applicability to proceedings
 
-This chapter applies to any judicial or administrative proceeding commenced in any court oragency in any jurisdiction subject to this chapter. This chapter does not apply to criminal proceedings.
+This chapter applies to any judicial or administrative proceeding commenced in any court or agency in any jurisdiction subject to this chapter. This chapter does not apply to criminal proceedings.
 
 #### (c) Court in which application may be made
 

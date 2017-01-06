@@ -56,7 +56,7 @@ Research and Technical Assistance.—The Secretary of Defense may make grants to
 
 Definitions.—In this section:
 
-&emsp;(1) The terms "military installation" and "realignment" have the meanings given those terms in section 2687 of this title. For purposesof subsection (b)(1)(D), the term "military installation" includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
+&emsp;(1) The terms "military installation" and "realignment" have the meanings given those terms in section 2687 of this title. For purposes of subsection (b)(1)(D), the term "military installation" includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
 
 &emsp;(2) The term "defense facility" means any private facility producing goods or services pursuant to a defense contract.
 
@@ -118,7 +118,7 @@ Subsec. (b)(6), (7). Pub. L. 103–160 added pars. (6) and (7).
 
 Subsec. (b). Pub. L. 102–484, §4301(c)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 102–484, §4301(b)(1), as amended by Pub. L. 103–35, substituted ", (D)" for ", or (D)",substituted "(C), or (E)" for "or (C)", and inserted cl. (E) before first reference to "if the Secretary".
+Subsec. (b)(1). Pub. L. 102–484, §4301(b)(1), as amended by Pub. L. 103–35, substituted ", (D)" for ", or (D)", substituted "(C), or (E)" for "or (C)", and inserted cl. (E) before first reference to "if the Secretary".
 
 Pub. L. 102–484, §1052(28), substituted "publicly announced" for "publicly-announced".
 
@@ -184,7 +184,7 @@ Pub. L. 102–172, title VIII, §8149, Nov. 26, 1991, 105 Stat. 1214, provided t
 
 #### Defense Economic Adjustment, Diversification, Conversion, and Stabilization
 
-Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub.L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 113–66, div. B, title XXVIII, §2841, Dec. 26, 2013, 127 Stat. 1024, provided that:
+Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L.104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub. L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 113–66, div. B, title XXVIII, §2841, Dec. 26, 2013, 127 Stat. 1024, provided that:
 
 #### "SEC. 4001. SHORT TITLE
 
@@ -288,7 +288,7 @@ Duties of Committee.—The Economic Adjustment Committee shall—
 
 "(a)
 
-In General.—Any substantially and seriously affected community shall be eligible for economic adjustment planning assistance through the Office of Economic Adjustment in the Department of Defense under subsection (b) of section 2391 of title 10, United States Code, subject to subsection (e) of such section. Such assistance shall be provided in accordance with the standards, procedures, and priorities established by the Committee under this division.
+In General.—Any substantially and seriously affected community shall be eligible for economic adjustment planning assistance through the Office of Economic Adjustment in the Department of Defense undersubsection (b) of section 2391 of title 10, United States Code, subject to subsection (e) of such section. Such assistance shall be provided in accordance with the standards, procedures, and priorities established by the Committee under this division.
 
 "(b) \[Amended section 2391(b) of this title.\]
 
@@ -376,7 +376,7 @@ Coordination and Integration of Activities and Assistance with Other Agencies.�
 
 "(d)
 
-Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment reportunder section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
+Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment report under section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
 
 &emsp;"(1) providing financing described in subsections (a)(2) and (b), respectively, to businesses or groups of workers which were substantially and seriously affected by defense budget reductions; and
 
@@ -450,7 +450,7 @@ Sec. 3. <i>Functions of the Defense Economic Adjustment Program</i>. The Defense
 
 (e) Identify and strengthen existing agency mechanisms to improve reemployment opportunities for dislocated Defense industry personnel;
 
-(f) Assure timely consultation and cooperation with Federal, State, regional, metropolitan, and communityofficials concerning Defense-related impacts on Defense-affected communities' problems;
+(f) Assure timely consultation and cooperation with Federal, State, regional, metropolitan, and community officials concerning Defense-related impacts on Defense-affected communities' problems;
 
 (g) Assure coordinated interagency and intergovernmental adjustment assistance concerning Defense impact problems;
 

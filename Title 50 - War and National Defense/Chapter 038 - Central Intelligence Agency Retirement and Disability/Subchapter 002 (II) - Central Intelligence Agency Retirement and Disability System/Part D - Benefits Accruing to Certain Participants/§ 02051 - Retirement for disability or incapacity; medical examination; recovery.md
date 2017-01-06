@@ -4,7 +4,7 @@
 
 #### (1) Eligibility
 
-&emsp;A participant who has become disabled shall, upon the participant's own application or upon order of the Director, be retired on an annuity computed under subsection (b) of this section.
+&emsp;A participant who has become disabled shall, upon the participant's own application or upon order of the Director, be retired on an annuity computed under subsection (b).
 
 #### (2) Standard for disability determination
 
@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an annuity payable under subsection (a) of this section shall be computed under section 2031(a) of this title. However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant's age at the time of retirement and age 60.
+&emsp;Except as provided in paragraph (2), an annuity payable under subsection (a) shall be computed under section 2031(a) of this title. However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant's age at the time of retirement and age 60.
 
 #### (2) Coordination with military retired pay and veterans' compensation and pension
 
@@ -100,7 +100,7 @@
 
 #### (1) Refund to Department of Labor
 
-&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so muchof the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to the Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
+&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to theDepartment for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
 
 &emsp;&emsp;(A) refund to the Secretary of Labor the amount representing the commuted compensation payments for the extended period; or
 

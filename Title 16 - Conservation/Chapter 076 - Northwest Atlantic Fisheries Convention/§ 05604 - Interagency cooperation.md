@@ -1,8 +1,16 @@
 ### §5604. Interagency cooperation
 
-#### (a) Authorities of Secretary
+#### (a) Authorities of the Secretary
 
-In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with other agencies of the United States, the States, the New England and the Mid-Atlantic Fishery Management Councils, and private institutions and organizations.
+In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with—
+
+&emsp;(1) any department, agency, or instrumentality of the United States;
+
+&emsp;(2) a State;
+
+&emsp;(3) a Council; or
+
+&emsp;(4) a private institution or an organization.
 
 #### (b) Other agencies
 
@@ -12,5 +20,9 @@ The head of any Federal agency may—
 
 &emsp;(2) accept reimbursement from the Organization for providing such services, facilities, and personnel.
 
-(Pub. L. 104–43, title II, §205, Nov. 3, 1995, 109 Stat. 379.)
+(Pub. L. 104–43, title II, §205, Nov. 3, 1995, 109 Stat. 379; Pub. L. 114–327, title V, §505, Dec. 16, 2016, 130 Stat. 1996.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–327 amended subsec. (a) generally. Prior to amendment, text read as follows: "In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with other agencies of the United States, the States, the New England and the Mid-Atlantic Fishery Management Councils, and private institutions and organizations."
 

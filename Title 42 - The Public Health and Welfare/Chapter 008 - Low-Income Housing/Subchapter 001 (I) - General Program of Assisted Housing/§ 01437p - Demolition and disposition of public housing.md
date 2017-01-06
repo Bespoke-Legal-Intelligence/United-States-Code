@@ -2,7 +2,7 @@
 
 #### (a) Applications for demolition and disposition
 
-Except as provided in subsection (b) of this section, upon receiving an application by a public housing agency for authorization, with or without financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
+Except as provided in subsection (b), upon receiving an application by a public housing agency for authorization, with or without financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
 
 &emsp;(1) in the case of—
 
@@ -74,11 +74,11 @@ Except as provided in subsection (b) of this section, upon receiving an applicat
 
 &emsp;&emsp;&emsp;(ii) leveraging amounts for securing commercial enterprises, on-site in public housing projects of the public housing agency, appropriate to serve the needs of the residents; and
 
-&emsp;(6) that the public housing agency has complied with subsection (c) of this section.
+&emsp;(6) that the public housing agency has complied with subsection (c).
 
 #### (b) Disapproval of applications
 
-The Secretary shall disapprove an application submitted under subsection (a) of this section if the Secretary determines that—
+The Secretary shall disapprove an application submitted under subsection (a) if the Secretary determines that—
 
 &emsp;(1) any certification made by the public housing agency under that subsection is clearly inconsistent with information and data available to the Secretary or information or data requested by the Secretary; or
 
@@ -126,7 +126,7 @@ The Uniform Relocation and Real Property Acquisition Policies Act of 1970 \[42 U
 
 Of the amounts appropriated for tenant-based assistance under section 1437f of this title in any fiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
 
-(Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title I \[title II, §214(a)\], Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5,June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
+(Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title I \[title II, §214(a)\], Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ Subsec. (a)(2)(B). Pub. L. 101–625, §572, substituted "low-income families" f
 
 Pub. L. 101–625, §512(a), inserted before first comma ", which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition".
 
-Subsec. (b)(1). Pub. L. 101–625, §412(a), substituted "disposition, and the tenant councils, resident management corporation, and tenant cooperative, if any, havebeen given appropriate opportunities to purchase the project or portion of the project covered by the application," for "disposition".
+Subsec. (b)(1). Pub. L. 101–625, §412(a), substituted "disposition, and the tenant councils, resident management corporation, and tenant cooperative, if any, have been given appropriate opportunities to purchase the project or portion of the project covered by the application," for "disposition".
 
 Subsec. (c)(2). Pub. L. 101–625, §513(b), inserted at end "As part of each annual budget request for the Department of Housing and Urban Development, the Secretary shall submit to the Congress a report—", and added subpars. (A) and (B).
 
@@ -212,7 +212,7 @@ Pub. L. 105–276, title V, §531(c), Oct. 21, 1998, 112 Stat. 2574, provided th
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion tohomeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Effective Date of 1990 Amendment
 

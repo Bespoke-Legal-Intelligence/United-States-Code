@@ -6,7 +6,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (b) Alternates; term of office
 
-The President, by and with the advice and consent of the Senate, shall appoint an alternate for the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) of this section for the governor and executive directors.
+The President, by and with the advice and consent of the Senate, shall appoint an alternate for the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) for the governor and executive directors.
 
 #### (c) Governor to serve as councillor; alternates and associates
 
@@ -14,7 +14,7 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 #### (d) Compensation for services
 
-(1) No person shall be entitled to receive any salary or other compensation from the UnitedStates for services as a Governor, executive director, councillor, alternate, or associate.
+(1) No person shall be entitled to receive any salary or other compensation from the United States for services as a Governor, executive director, councillor, alternate, or associate.
 
 (2) The United States executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level IV of the Executive Schedule under section 5315 of title 5. The United States alternate executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level V of the Executive Schedule under section 5316 of title 5.
 
@@ -38,5 +38,5 @@ Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendme
 
 #### Levels of Fund Salaries and Minimization of Travel Costs
 
-Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: "The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists."
+Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: "The United States Executive Director to theFund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists."
 

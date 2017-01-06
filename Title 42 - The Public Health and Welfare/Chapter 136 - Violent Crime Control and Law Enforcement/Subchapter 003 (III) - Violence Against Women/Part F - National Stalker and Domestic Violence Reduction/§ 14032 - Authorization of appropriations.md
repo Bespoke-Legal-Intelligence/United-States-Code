@@ -16,7 +16,7 @@ This part, referred to in text, was in the original "this subtitle", meaning sub
 
 Pub. L. 109–162, §109(1), substituted "2007" for "2001".
 
-<b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this part—
+<b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior toamendment, text read as follows: "There are authorized to be appropriated to carry out this part—
 
 &emsp;"(1) $1,500,000 for fiscal year 1996;
 

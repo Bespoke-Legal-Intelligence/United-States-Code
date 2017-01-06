@@ -10,7 +10,7 @@
 
 (c) The President may—
 
-&emsp;(1) establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
+&emsp;(1) establish by Executive order a safety council composed of representatives of theagencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
 
 &emsp;(2) undertake such other measures as he considers proper to prevent injuries and accidents to employees of the agencies.
 
@@ -122,7 +122,7 @@ Heads of Agencies
 
 Occupational Safety and Health Committees
 
-1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the nationallevel and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
+1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
 
 1–302. The committees shall, except where prohibited by law,
 
@@ -184,7 +184,7 @@ General Services Administration
 
 (a) Upon request, require personnel of the General Services Administration to accompany the Secretary or an agency head on any inspection or investigation conducted pursuant to this order of a facility subject to the authority of the General Services Administration.
 
-(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action tocorrect the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
+(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action to correct the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
 
 (c) Procure and provide safe supplies, devices, and equipment, and establish and maintain a product safety program for those supplies, devices, equipment and services furnished to agencies, including the issuance of Material Safety Data Sheets when hazardous substances are furnished them.
 
@@ -206,47 +206,49 @@ Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt 
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1978, by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1980, by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Previous extensions of term of Federal Advisory Council on Occupational Safety and Health were contained in the following prior Executive Orders:
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, extended term until Sept. 30, 1995.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, extended term until Sept. 30, 1993.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, extended term until Sept. 30, 1991.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, extended term until Sept. 30, 1989.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, extended term until Sept. 30, 1987.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, extended term until Sept. 30, 1985.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Sept. 30, 1984.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, extended term until Dec. 31, 1982.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, extended term until Dec. 31, 1980.
+
+Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, extended term until Dec. 31, 1978.
 
 #### The Presidential POWER Initiative: Protecting Our Workers and Ensuring Reemployment
 

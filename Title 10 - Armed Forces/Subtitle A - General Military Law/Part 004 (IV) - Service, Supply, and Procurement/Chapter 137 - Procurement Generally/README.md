@@ -6,7 +6,7 @@
 | [2302\.](%C2%A7%2002302%20-%20Definitions.md) | Definitions. |
 | [2302a.](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md) | Simplified acquisition threshold. |
 | [2302b.](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md) | Implementation of simplified acquisition procedures. |
-| [2302c.](%C2%A7%2002302c%20-%20Implementation%20of%20electronic%20commerce%20capability.md) | Implementation of electronic commerce capability. |
+| \[2302c. | Repealed.\] |
 | [2302d.](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md) | Major system: definitional threshold amounts. |
 | [2303\.](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
 | \[2303a. | Repealed.\] |
@@ -56,10 +56,14 @@
 | [2335\.](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md) | Prohibition on collection of political information. |
 | \[2336. | Repealed.\] |
 | [2337\.](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md) | Life-cycle management and product support. |
+| [2338\.](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md) | Micro-purchase threshold. |
+| [2339\.](%C2%A7%2002339%20-%20Micro-purchase%20threshold%20for%20basic%20research%20programs%20and%20activities%20of%20the%20Department%20of%20Defense%20science%20and%20technology%20reinvention%E2%80%A6.md) | Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title II, §217(a)(2), title VIII, §§821(b), 833(b)(5)(B), Dec. 23, 2016, 130 Stat. 2051, 2276, 2285, added items 2338 and 2339 and struck out item 2302c "Implementation of electronic commerce capability".
 
 <b>2014</b>—Pub. L. 113–291, div. A, title III, §351(c)(1), Dec. 19, 2014, 128 Stat. 3347, struck out item 2336 "Intergovernmental support agreements with State and local governments".
 
@@ -134,7 +138,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02302 - Definitions](%C2%A7%2002302%20-%20Definitions.md)
 - [&sect; 02302a - Simplified acquisition threshold](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md)
 - [&sect; 02302b - Implementation of simplified acquisition procedures](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md)
-- [&sect; 02302c - Implementation of electronic commerce capability](%C2%A7%2002302c%20-%20Implementation%20of%20electronic%20commerce%20capability.md)
+- [&sect; 02302c - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(5)(A)(i), Dec. 23, 2016, 130 Stat. 2285](%C2%A7%2002302c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%285%29%28A%29%28i%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202285.md)
 - [&sect; 02302d - Major system definitional threshold amounts](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md)
 - [&sect; 02303 - Applicability of chapter](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md)
 - [&sect; 02303a - Repealed. Pub. L. 98&#8211;577, title III, &sect;302(c)(1), Oct. 30, 1984, 98 Stat. 3077](%C2%A7%2002303a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93577%2C%20title%20III%2C%20%C2%A7302%28c%29%281%29%2C%20Oct.%2030%2C%201984%2C%2098%20Stat.%203077.md)
@@ -184,3 +188,5 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02335 - Prohibition on collection of political information](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md)
 - [&sect; 02336 - Renumbered &sect;2679](%C2%A7%2002336%20-%20Renumbered%20%C2%A72679.md)
 - [&sect; 02337 - Life-cycle management and product support](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md)
+- [&sect; 02338 - Micro-purchase threshold](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md)
+- [&sect; 02339 - Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention&#8230;](%C2%A7%2002339%20-%20Micro-purchase%20threshold%20for%20basic%20research%20programs%20and%20activities%20of%20the%20Department%20of%20Defense%20science%20and%20technology%20reinvention%E2%80%A6.md)

@@ -72,7 +72,7 @@ Congressional Request.—
 
 &emsp;(1)
 
-By judiciary committee or members thereof.—The Committee on the Judiciary ofeither House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that the Attorney General apply for the appointment of an independent counsel.
+By judiciary committee or members thereof.—The Committee on the Judiciary of either House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that the Attorney General apply for the appointment of an independent counsel.
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Report by attorney general pursuant to request.—Not later than 30 days after t
 
 &emsp;(3)
 
-Submission of information in response to congressional request.—At the same time as any notification, application, or any other document, material, or memorandum is supplied to the division of the court pursuant to this section with respect to a preliminary investigation of any matter with respect to which a request is made under paragraph (1), such notification, application, or other document, material, or memorandum shall be supplied to the committee making the request, or to the committee on which the persons making the request serve. If no application for the appointment of an independent counsel is made to the division of the court under this section pursuant to such a preliminary investigation, the Attorney General shall submit a report to that committee stating the reasons why such application was not made, addressing each matter with respect to which the congressional request was made.
+Submission of information in response to congressional request.—At the same time as any notification, application, or any other document, material, or memorandum is supplied to the division of the court pursuant to this section with respect to a preliminary investigation of any matter with respect to which a request is made under paragraph (1), such notification, application, or other document, material, or memorandum shall be supplied to the committee making the request, orto the committee on which the persons making the request serve. If no application for the appointment of an independent counsel is made to the division of the court under this section pursuant to such a preliminary investigation, the Attorney General shall submit a report to that committee stating the reasons why such application was not made, addressing each matter with respect to which the congressional request was made.
 
 &emsp;(4)
 

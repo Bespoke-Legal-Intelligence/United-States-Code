@@ -76,7 +76,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;&emsp;(E) support, through financial incentives, private sector efforts to commercialize and export renewable energy and energy efficiency products and services; and
 
-&emsp;&emsp;(F) augment budgets for trade and development programs in order to support pre-feasibility or feasibility studies for projects that utilize renewable energy and energy efficiency products and services.
+&emsp;&emsp;(F) augment budgets for trade and development programs in order to support pre-feasibility or feasibility studies for projectsthat utilize renewable energy and energy efficiency products and services.
 
 #### (4) Study of export promotion practices
 
@@ -110,7 +110,7 @@ Subsection (e) of this section, referred to in subsec. (f)(2), was omitted from 
 
 #### Codification
 
-Subsec. (e) of this section, which required the interagency working group established under subsec. (d) of this section to annually report to Congress, describing the actions of each agency represented by a member of the working group taken during the previous fiscal year to achieve the purposes of such working group and of this section and describing the exports of renewable energy technology that have occurred as a result of such agency actions, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance. See, also, the 6th item on page 175 of House Document No. 103–7.
+Subsec. (e) of this section, which required the interagency working group established under subsec. (d) of this section to annually report to Congress, describing the actions of each agency represented by a member of the working group taken during the previous fiscal year to achieve the purposes of such working group and of this section and describing the exports of renewable energy technology that have occurred as a result of such agency actions, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 6th item on page 175 of House Document No. 103–7.
 
 #### Amendments
 

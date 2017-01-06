@@ -252,7 +252,7 @@ Sec. 2. <i>Agency Responsibilities</i>. (a) The head of each Executive agency sh
 
 (5) Provision for identifying illegal drug users, including testing on a controlled and carefully monitored basis in accordance with this Order.
 
-Sec. 3. <i>Drug Testing Programs</i>. (a) The head of each Executive agency shall establish a program to test for the use of illegal drugs by employees in sensitive positions. The extent to which such employees are tested and the criteria for such testing shall be determined by the head of each agency, based upon the nature of the agency's mission and its employees' duties, the efficient use of agency resources, and the danger to the public health and safety or national security that could result from the failure of an employee adequately to discharge his or her position.
+Sec. 3. <i>Drug Testing Programs</i>. (a) The head of each Executive agency shall establish a program to test for the use of illegal drugs by employees in sensitive positions. The extent to which such employees are tested and the criteria for such testing shall be determined bythe head of each agency, based upon the nature of the agency's mission and its employees' duties, the efficient use of agency resources, and the danger to the public health and safety or national security that could result from the failure of an employee adequately to discharge his or her position.
 
 (b) The head of each Executive agency shall establish a program for voluntary employee drug testing.
 
@@ -320,7 +320,7 @@ Sec. 7. <i>Definitions</i>.(a) This Order applies to all agencies of the Executi
 
 (b) For purposes of this Order, the term "agency" means an Executive agency, as defined in 5 U.S.C. 105; the Uniformed Services, as defined in 5 U.S.C. 2101(3) (but excluding the armed forces as defined by 5 U.S.C. 2101(2)); or any other employing unit or authority of the Federal government, except the United States Postal Service, the Postal Rate Commission, and employing units or authorities in the Judicial and Legislative Branches.
 
-(c) For purposes of this Order, the term "illegal drugs" means a controlled substance included in Schedule I or II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawful under chapter 13 of that Title. The term "illegal drugs" does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
+(c) For purposes of this Order, the term "illegal drugs" means a controlled substance included in Schedule I or II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawfulunder chapter 13 of that Title. The term "illegal drugs" does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
 
 (d) For purposes of this Order, the term "employee in a sensitive position" refers to:
 
@@ -396,7 +396,7 @@ Sec. 201. <i>The Office of Government Ethics</i>. The Office of Government Ethic
 
 (b) Developing, disseminating, and periodically updating an ethics manual for employees of the executive branch describing the applicable statutes, rules, decisions, and policies.
 
-(c) Promulgating, with the concurrence of the Attorney General, regulations interpreting the provisions of the post-employment statute, section 207 of title 18, United States Code; the general conflict-of-interest statute, section 208 of title 18, United States Code; and the statute prohibiting supplementation of salaries, section 209 of title 18, United States Code.
+(c) Promulgating, with the concurrence of the Attorney General, regulations interpreting the provisions of the post-employment statute, section 207 of title 18, United States Code; the general conflict-of-interest statute, section 208 of title 18, United States Code; andthe statute prohibiting supplementation of salaries, section 209 of title 18, United States Code.
 
 (d) Promulgating, in consultation with the Attorney General and the Office of Personnel Management, regulations establishing a system of nonpublic (confidential) financial disclosure by executive branch employees to complement the system of public disclosure under the Ethics in Government Act of 1978 \[Pub. L. 95–521, see Tables for classification\]. Such regulations shall include criteria to guide agencies in determining which employees shall submit these reports.
 
@@ -470,7 +470,7 @@ Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, which provided for ethics commi
 
 Ex. Ord. No. 13058, Aug. 9, 1997, 62 F.R. 43451, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to protect Federal Government employees and members of the public from exposure to tobacco smoke in the Federal workplace, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica and in order to protect Federal Government employees and members of the public from exposure to tobacco smoke in the Federal workplace, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
 
@@ -524,7 +524,7 @@ Sec. 2. <i>Goals and Responsibilities of the Liaison</i>. The Liaison shall fost
 
 (d) promote, expand, and enhance skilled volunteer community service opportunities;
 
-(e) work with the USA Freedom Corps and the Director of the Office of Personnel Management (OPM) to consider any appropriate changes in agency policies or practices that are not currently consistent with OPM guidance;
+(e) work with the USA Freedom Corps and the Director of the Office of Personnel Management (OPM) to consider any appropriate changes in agency policies orpractices that are not currently consistent with OPM guidance;
 
 (f) coordinate the awarding of the President's Volunteer Service Award to recognize outstanding volunteer service by employees within the agency; and
 
@@ -600,7 +600,7 @@ Sec. 4. <i>Reciprocal Recognition of Fitness and Suitability Determinations</i>.
 
 &emsp;(iii) the individual's investigative record shows conduct that is incompatible with the core duties of the new position.
 
-Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trustshall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
+Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trust shall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
 
 Sec. 6. <i>Responsibilities</i>. (a) An agency shall report to the Office of Personnel Management the nature and results of the background investigation and fitness determination (or later changes to that determination) made on an individual, to the extent consistent with law.
 
@@ -674,9 +674,9 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledge set forth in sectio
 
 (g) "Particular matter" shall have the same meaning as set forth in section 207 of title 18, United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
 
-(h) "Particular matter involving specific parties" shall have the same meaning as set forth in section2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
+(h) "Particular matter involving specific parties" shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
 
-(i) "Former employer" is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that "former employer" does not include any executive agency or other entity of the Federal Government, State or local government, the District of Columbia, Native American tribe, or any United States territory or possession.
+(i) "Former employer" is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that "former employer" does not include any executive agency or other entity of the Federal Government, State or localgovernment, the District of Columbia, Native American tribe, or any United States territory or possession.
 
 (j) "Former client" is any person for whom the appointee served personally as agent, attorney, or consultant within the 2 years prior to the date of his or her appointment, but excluding instances where the service provided was limited to a speech or similar appearance. It does not include clients of the appointee's former employer to whom the appointee did not personally provide services.
 
@@ -800,7 +800,7 @@ Section 1. <i>Government-wide Guidance to Address the Effects of Domestic Violen
 
 Sec. 2. <i>Agency-Specific Actions and Policies</i>. (a) Within 90 days from the date of this memorandum, each agency shall make available to the Director of OPM any existing agency-specific policies and practices for addressing the effects of domestic violence on its workforce.
 
-(b) Within 120 days from the issuance of the guidance created pursuant to section 1 of this memorandum, each agency shall develop or modify, as appropriate, agency-specific polices for addressing the effects of domestic violence on its workforce, consistent with OPM guidance. Each agency shall submit for review and comment to the Director of OPM, a draft new or modified agency-specific policy. In reviewing the draft agency-specific policies, the Director of OPM shall consult with the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Homeland Security, and other interested agency heads. Each agency shall issue a final agency-specific policy within 180 days after submission of its draft policy to the Director of OPM.
+(b) Within 120 days from the issuance of the guidance created pursuant to section 1 of this memorandum, each agency shall develop or modify, as appropriate,agency-specific polices for addressing the effects of domestic violence on its workforce, consistent with OPM guidance. Each agency shall submit for review and comment to the Director of OPM, a draft new or modified agency-specific policy. In reviewing the draft agency-specific policies, the Director of OPM shall consult with the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Homeland Security, and other interested agency heads. Each agency shall issue a final agency-specific policy within 180 days after submission of its draft policy to the Director of OPM.
 
 Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) reserve enlisted members of the Air Force who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time duty).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 555; Pub. L. 85–861, §1(198A), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 98–525, title V, §533(c), Oct. 19, 1984, 98 Stat.2528; Pub. L. 100–180, div. A, title V, §512(c), Dec. 4, 1987, 101 Stat. 1090.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 555; Pub. L. 85–861, §1(198A), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 98–525, title V, §533(c), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 100–180, div. A, title V, §512(c), Dec. 4, 1987, 101 Stat. 1090.)
 
 Historical and Revision Notes<br>1956
 
@@ -34,7 +34,7 @@ Aug. 21, 1941, ch. 384, §5 (1st proviso, less last 39 words; and last proviso);
 
 June 29, 1948, ch. 708, §203(e) (less 30 words before proviso), 62 Stat. 1086.
 
-The words "when his active service plus his service on the retired list totals 30 years" are substituted for the words "upon the completion of thirty years' \[years of\] service, to include the sum of his active service and his service on the retired list", in 10:594 and 1004. The words "under any provision of law", in 10:594 and 1004; "officer, flight officer, or warrant officer", in 10:594; and "commissioned, warrant, or enlisted", in 10:1004; are omitted as surplusage. 10:594 (last proviso) and 1004 (proviso) are omitted as superseded by section 1372 of this title.
+The words "when his active service plus his service on the retired list totals 30 years" are substituted for the words "upon the completion of thirty years' \[yearsof\] service, to include the sum of his active service and his service on the retired list", in 10:594 and 1004. The words "under any provision of law", in 10:594 and 1004; "officer, flight officer, or warrant officer", in 10:594; and "commissioned, warrant, or enlisted", in 10:1004; are omitted as surplusage. 10:594 (last proviso) and 1004 (proviso) are omitted as superseded by section 1372 of this title.
 
 1958
 

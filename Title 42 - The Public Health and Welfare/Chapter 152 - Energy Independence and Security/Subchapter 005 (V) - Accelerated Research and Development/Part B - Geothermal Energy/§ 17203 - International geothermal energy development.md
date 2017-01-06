@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Energy, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall support international collaborative efforts to promote the research, development, and deployment of geothermal technologies used to develop hydrothermal and enhanced geothermal system resources, including as partners (as appropriate) the African Rift Geothermal Development Facility, Australia, China, France, the Republic of Iceland, India, Japan, and the United Kingdom.
+The Secretary of Energy, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall supportinternational collaborative efforts to promote the research, development, and deployment of geothermal technologies used to develop hydrothermal and enhanced geothermal system resources, including as partners (as appropriate) the African Rift Geothermal Development Facility, Australia, China, France, the Republic of Iceland, India, Japan, and the United Kingdom.
 
 #### (b) United States Trade and Development Agency
 

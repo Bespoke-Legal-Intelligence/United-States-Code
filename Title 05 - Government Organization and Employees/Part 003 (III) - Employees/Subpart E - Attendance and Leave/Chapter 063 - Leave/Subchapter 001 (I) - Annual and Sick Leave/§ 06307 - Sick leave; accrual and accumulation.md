@@ -8,7 +8,7 @@
 
 (d) When required by the exigencies of the situation, a maximum of 30 days sick leave with pay may be advanced for serious disability or ailment, or for purposes relating to the adoption of a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
 
-(d)(1) <sup>1</sup> For the purpose of this subsection, the term "family member" shall have such meaning as the Office of Personnel Management shall byregulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
+(d)(1) <sup>1</sup> For the purpose of this subsection, the term "family member" shall have such meaning as the Office of Personnel Management shall by regulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
 
 (2) Subject to paragraph (3) and in addition to any other allowable purpose, sick leave may be used by an employee—
 
@@ -82,7 +82,7 @@ Pub. L. 103–329, title VI, §629(b)(3), Sept. 30, 1994, 108 Stat. 2423, provid
 
 #### Adoptions During Fiscal Year 1991
 
-Pub. L. 101–509, title V, §536, Nov. 5, 1990, 104 Stat. 1470, for fiscal year 1991, authorized sick leave provided by section 6307 of this title to be approved for purposes related to the adoption of a child.
+Pub. L. 101–509, title V, §536, Nov. 5, 1990, 104 Stat. 1470, for fiscal year 1991, authorized sick leave providedby section 6307 of this title to be approved for purposes related to the adoption of a child.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(e)(1)".</i>
 

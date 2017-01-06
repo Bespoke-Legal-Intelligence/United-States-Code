@@ -56,7 +56,7 @@ Grants for Maritime Heritage Preservation Projects.—
 
 &emsp;(1)
 
-Grants to state historic preservation officers.—The Secretary, acting through the National Maritime Initiative of the Service and subject to paragraph (2), and the availability of amounts for that purpose under section 308704(b)(1)(B) of this title, shall make grants to State Historic Preservation Officers for maritime heritage preservation projects.
+Grants to state historic preservation officers.—The Secretary, acting through the National Maritime Initiative of the Service and subject to paragraph (2), and the availability of amounts for that purpose under section 308704(b)(1)(A) of this title, shall make grants to State Historic Preservation Officers for maritime heritage preservation projects.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ Allocation of, and Limitation on, Grant Funding.—
 
 &emsp;(1)
 
-Allocation.—To the extent feasible, the Secretary shall ensure that the amount made available under subsection (b) for maritime heritage education projects is equal to theamount made available under subsection (c) for maritime heritage preservation projects.
+Allocation.—To the extent feasible, the Secretary shall ensure that the amount made available under subsection (b) for maritime heritage education projects is equal to the amount made available under subsection (c) for maritime heritage preservation projects.
 
 &emsp;(2)
 
@@ -170,15 +170,17 @@ Assistance of Maritime Preservation Organizations.—The Secretary, the National
 
 (j)
 
-Report to Congress.—The Secretary shall submit to Congress an annual report on the Program, including—
+Report to Congress.—The Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives an annual report on the Program, including—
 
-&emsp;(1) a description of each project funded under the Program in the period covered by the report;
+&emsp;(1) the total number of grant applications submitted and approved under the Program in the period covered by the report;
 
-&emsp;(2) the results or accomplishments of each such project; and
+&emsp;(2) a detailed description of each project funded under the Program in the period covered by the report;
 
-&emsp;(3) recommended priorities for achieving the policy set forth in section 308701 of this title.
+&emsp;(3) the results or accomplishments of each such project; and
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3238.)
+&emsp;(4) recommended priorities for achieving the policy set forth in section 308701 of this title.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3238; Pub. L. 114–328, div. C, title XXXV, §3507(b), (c), Dec. 23, 2016, 130 Stat. 2778.)
 
 Historical and Revision Notes
 
@@ -209,4 +211,16 @@ In subsection (f), the text of 16 U.S.C. 5403(f)(1) is omitted as obsolete.
 In subsection (g), the text of 16 U.S.C. 5403(g)(2) is omitted as obsolete.
 
 In subsection (h)(2), the text of 16 U.S.C. 5403(h)(5) and (6) is omitted as obsolete.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §3507(b), substituted "under section 308704(b)(1)(A)" for "under section 308704(b)(1)(B)".
+
+Subsec. (j). Pub. L. 114–328, §3507(c)(1), in introductory provisions, substituted "the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives" for "Congress".
+
+Subsec. (j)(1). Pub. L. 114–328, §3507(c)(3), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (j)(2). Pub. L. 114–328, §3507(c)(2), (4), redesignated par. (1) as (2) and inserted "detailed" before "description". Former par. (2) redesignated (3).
+
+Subsec. (j)(3), (4). Pub. L. 114–328, §3507(c)(2), redesignated pars. (2) and (3) as (3) and (4), respectively.
 

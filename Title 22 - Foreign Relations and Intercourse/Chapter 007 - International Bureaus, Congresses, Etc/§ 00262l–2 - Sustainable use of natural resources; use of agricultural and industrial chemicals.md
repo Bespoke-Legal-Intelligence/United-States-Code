@@ -10,7 +10,7 @@ It is the policy of the United States that sustainable economic growth must be p
 
 &emsp;(3) promote expansion of MDB expertise in the areas of energy conservation and renewable energy sources;
 
-&emsp;(4) promote the adoption of lending strategies which place increased emphasis on energyconservation and efficiency as opposed to merely increasing generating capacity;
+&emsp;(4) promote the adoption of lending strategies which place increased emphasis on energy conservation and efficiency as opposed to merely increasing generating capacity;
 
 &emsp;(5) promote adoption of policies which minimize emissions of greenhouse gases;
 

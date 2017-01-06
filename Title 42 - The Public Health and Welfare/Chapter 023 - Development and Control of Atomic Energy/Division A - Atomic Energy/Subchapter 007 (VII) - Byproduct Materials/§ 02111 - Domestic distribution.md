@@ -18,7 +18,7 @@ No person may transfer or receive in interstate commerce, manufacture, produce, 
 
 #### (2) Effect of subsection
 
-&emsp;Nothing in this subsection affects the authority of any entity to dispose of byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, at a disposal facility in accordance with any Federal or State solid or hazardous waste law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+&emsp;Nothing in this subsection affects the authority of any entity to dispose of byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, at a disposal facility in accordance with any Federal or State solid or hazardous waste law, including theSolid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
 #### (c) Treatment as low-level radioactive waste
 

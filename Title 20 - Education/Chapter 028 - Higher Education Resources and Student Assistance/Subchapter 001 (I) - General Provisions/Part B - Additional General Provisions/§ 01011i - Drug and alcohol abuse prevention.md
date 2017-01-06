@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, no institution of higher education s
 
 &emsp;&emsp;(D) a description of any drug or alcohol counseling, treatment, or rehabilitation or re-entry programs that are available to employees or students; and
 
-&emsp;&emsp;(E) a clear statement that the institution will impose sanctions on students and employees (consistent with local, State, and Federal law), and a description of those sanctions, up to and including expulsion or termination of employment and referral for prosecution, for violations of the standards of conduct required by subparagraph (A); and
+&emsp;&emsp;(E) a clear statement that the institution will impose sanctions on students and employees (consistent with local, State, and Federal law), and a description of thosesanctions, up to and including expulsion or termination of employment and referral for prosecution, for violations of the standards of conduct required by subparagraph (A); and
 
 &emsp;(2) a biennial review by the institution of the institution's program to—
 
@@ -32,21 +32,21 @@ Notwithstanding any other provision of law, no institution of higher education s
 
 #### (b) Information availability
 
-Each institution of higher education that provides the certification required by subsection (a) of this section shall, upon request, make available to the Secretary and to the public a copy of each item required by subsection (a)(1) of this section as well as the results of the biennial review required by subsection (a)(2) of this section.
+Each institution of higher education that provides the certification required by subsection (a) shall, upon request, make available to the Secretary and to the public a copy of each item required by subsection (a)(1) as well as the results of the biennial review required by subsection (a)(2).
 
 #### (c) Regulations
 
 #### (1) In general
 
-&emsp;The Secretary shall publish regulations to implement and enforce the provisions of thissection, including regulations that provide for—
+&emsp;The Secretary shall publish regulations to implement and enforce the provisions of this section, including regulations that provide for—
 
-&emsp;&emsp;(A) the periodic review of a representative sample of programs required by subsection (a) of this section; and
+&emsp;&emsp;(A) the periodic review of a representative sample of programs required by subsection (a); and
 
 &emsp;&emsp;(B) a range of responses and sanctions for institutions of higher education that fail to implement their programs or to consistently enforce their sanctions, including information and technical assistance, the development of a compliance agreement, and the termination of any form of Federal financial assistance.
 
 #### (2) Rehabilitation program
 
-&emsp;The sanctions required by subsection (a)(1)(E) of this section may include the completion of an appropriate rehabilitation program.
+&emsp;The sanctions required by subsection (a)(1)(E) may include the completion of an appropriate rehabilitation program.
 
 #### (d) Appeals
 

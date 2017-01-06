@@ -52,7 +52,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
 
-&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor's degrees in their field and working toward a master's degree—
+&emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teacherswith bachelor's degrees in their field and working toward a master's degree—
 
 &emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
 
@@ -188,7 +188,31 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 &emsp;&emsp;(B) for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title.
 
-(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540.)
+#### (k) STEM teacher service and retention
+
+#### (1) In general
+
+&emsp;The Director shall develop and implement practices for increasing the proportion of individuals receiving fellowships under this section who—
+
+&emsp;&emsp;(A) fulfill the service obligation required under subsection (h); and
+
+&emsp;&emsp;(B) remain in the teaching profession in a high need local educational agency beyond the service obligation.
+
+#### (2) Practices
+
+&emsp;The practices described under paragraph (1) may include—
+
+&emsp;&emsp;(A) partnering with nonprofit or professional associations or with other government entities to provide individuals receiving fellowships under this section with opportunities for professional development, including mentorship programs that pair those individuals with currently employed and recently retired science, technology, engineering, mathematics, or computer science professionals;
+
+&emsp;&emsp;(B) increasing recruitment from high need districts;
+
+&emsp;&emsp;(C) establishing a system to better collect, track, and respond to data on the career decisions of individuals receiving fellowships under this section;
+
+&emsp;&emsp;(D) conducting research to better understand factors relevant to teacher service and retention, including factors specifically impacting the retention of teachers who are individuals identified in sections 1885a and 1885b of this title; and
+
+&emsp;&emsp;(E) conducting pilot programs to improve teacher service and retention.
+
+(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540; Pub. L. 114–329, title III, §301, Jan. 6, 2017, 130 Stat. 3003.)
 
 #### Codification
 
@@ -197,6 +221,8 @@ Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the Nationa
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (k). Pub. L. 114–329 added subsec. (k).
 
 <b>2015</b>—Subsec. (a)(2)(B). Pub. L. 114–59, §4(a)(1), inserted "or bachelor's" after "master's".
 

@@ -8,7 +8,7 @@
 
 #### (2) Board authority
 
-&emsp;The Board may, by rule, determine that a foreign public accounting firm (or a class of such firms) that does not issue audit reportsnonetheless plays such a substantial role in the preparation and furnishing of such reports for particular issuers, brokers, or dealers, that it is necessary or appropriate, in light of the purposes of this Act and in the public interest or for the protection of investors, that such firm (or class of firms) should be treated as a public accounting firm (or firms) for purposes of registration under, and oversight by the Board in accordance with, this subchapter.
+&emsp;The Board may, by rule, determine that a foreign public accounting firm (or a class of such firms) that does not issue audit reports nonetheless plays such a substantial role in the preparation and furnishing of such reports for particular issuers, brokers, or dealers, that it is necessary or appropriate, in light of the purposes of this Act and in the public interest or for the protection of investors, that such firm (or class of firms) should be treated as a public accounting firm (or firms) for purposes of registration under, and oversight by the Board in accordance with, this subchapter.
 
 #### (b) Production of documents
 
@@ -58,7 +58,7 @@ In this section, the term "foreign public accounting firm" means a public accoun
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as theSarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

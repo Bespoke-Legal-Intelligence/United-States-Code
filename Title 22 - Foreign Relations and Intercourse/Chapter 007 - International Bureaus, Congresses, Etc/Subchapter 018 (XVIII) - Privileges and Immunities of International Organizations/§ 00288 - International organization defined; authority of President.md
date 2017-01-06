@@ -6,7 +6,7 @@ For the purposes of this subchapter, the term "international organization" means
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this title", meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to thissubchapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 2010 Amendment
 

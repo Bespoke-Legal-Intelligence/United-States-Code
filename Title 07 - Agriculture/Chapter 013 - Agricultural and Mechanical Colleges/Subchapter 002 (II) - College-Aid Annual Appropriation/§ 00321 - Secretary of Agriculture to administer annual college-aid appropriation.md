@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture is charged with the proper administration of this subchapter.
 
-(Aug. 30, 1890, ch. 841, §4, 26 Stat. 419; 1939 Reorg. Plan No. 1, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, §301(a)(2)(E), Oct. 17, 1979, 93 Stat. 677; Pub. L. 97–98, title XIV, §1419, Dec. 22, 1981, 95 Stat. 1306.)
+(Aug. 30, 1890, ch. 841, §4, 26 Stat. 419; 1939 Reorg. Plan No. 1, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, §301(a)(2)(E), Oct. 17, 1979, 93 Stat.677; Pub. L. 97–98, title XIV, §1419, Dec. 22, 1981, 95 Stat. 1306.)
 
 #### Codification
 
@@ -44,5 +44,5 @@ Funding Restriction.—Notwithstanding the designation under subsection (a), for
 
 #### West Virginia State College at Institute, West Virginia
 
-Pub. L. 107–76, title VII, §753, Nov. 28, 2001, 115 Stat. 740, provided that: "Hereafter, any provision of any Act of Congress relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee University, shall apply to West Virginia State College at Institute, West Virginia: <i>Provided</i>, That the Secretary may waive thematching funds' requirement under section 1449 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222d) for fiscal year 2002 for West Virginia State College if the Secretary determines the State of West Virginia will be unlikely to satisfy the matching requirement."
+Pub. L. 107–76, title VII, §753, Nov. 28, 2001, 115 Stat. 740, provided that: "Hereafter, any provision of any Act of Congress relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee University, shall apply to West Virginia State College at Institute, West Virginia: <i>Provided</i>, That the Secretary may waive the matching funds' requirement under section 1449 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222d) for fiscal year 2002 for West Virginia State College if the Secretary determines the State of West Virginia will be unlikely to satisfy the matching requirement."
 

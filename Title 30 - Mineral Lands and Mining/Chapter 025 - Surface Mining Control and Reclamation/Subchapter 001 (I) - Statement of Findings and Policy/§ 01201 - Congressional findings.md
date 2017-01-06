@@ -30,6 +30,10 @@ The Congress finds and declares that—
 
 This chapter, referred to in pars. (e), (f), and (k), was in the original "this Act", meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–223, div. C, §167(a), as added by Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, provided that: "This section \[amending section 1232 of this title\] may be cited as the 'Continued Health Benefits for Miners Act'."
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: "This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the 'Surface Mining Control and Reclamation Act Amendments of 2006'."
@@ -42,7 +46,7 @@ Pub. L. 101–498, §1, Nov. 2, 1990, 104 Stat. 1207, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
+Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222,1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
 
 #### Short Title
 

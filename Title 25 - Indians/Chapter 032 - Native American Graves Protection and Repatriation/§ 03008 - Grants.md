@@ -2,7 +2,7 @@
 
 #### (a) Indian tribes and Native Hawaiian organizations
 
-The Secretary is authorized to make grants to Indian tribes and Native Hawaiian organizationsfor the purpose of assisting such tribes and organizations in the repatriation of Native American cultural items.
+The Secretary is authorized to make grants to Indian tribes and Native Hawaiian organizations for the purpose of assisting such tribes and organizations in the repatriation of Native American cultural items.
 
 #### (b) Museums
 

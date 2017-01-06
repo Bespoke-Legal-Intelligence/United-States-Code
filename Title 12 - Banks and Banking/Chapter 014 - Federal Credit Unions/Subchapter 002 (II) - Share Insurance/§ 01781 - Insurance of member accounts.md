@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-The Board, as hereinafter provided, shall insure the member accounts of all Federal credit unions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
+The Board, as hereinafter provided, shall insure the member accounts of all Federal credit unions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including thetrust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
 
 #### (b) Application; agreement
 
@@ -66,7 +66,7 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 &emsp;No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994;amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### References in Text
 

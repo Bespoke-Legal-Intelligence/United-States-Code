@@ -12,7 +12,7 @@
 
 &emsp;(4) establishing policies of the Department of Defense for maintenance of the defense industrial base of the United States; and
 
-&emsp;(5) the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department of Defense with regard to matters for which the Under Secretary has responsibility.
+&emsp;(5) the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department of Defense with regard to matters for which the Under Secretary has responsibility, except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority.
 
 (c) The Under Secretary—
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) is the Defense Acquisition Executive for purposes of regulations and procedures of the Department providing for a Defense Acquisition Executive; and
 
-&emsp;(3) to the extent directed by the Secretary, exercises overall supervision of all personnel\(civilian and military) in the Office of the Secretary of Defense with regard to matters for which the Under Secretary has responsibility, unless otherwise provided by law.
+&emsp;(3) to the extent directed by the Secretary, exercises overall supervision of all personnel (civilian and military) in the Office of the Secretary of Defense with regard to matters for which the Under Secretary has responsibility, unless otherwise provided by law.
 
 (d)(1) The Under Secretary shall prescribe policies to ensure that audit and oversight of contractor activities are coordinated and carried out in a manner to prevent duplication by different elements of the Department. Such policies shall provide for coordination of the annual plans developed by each such element for the conduct of audit and oversight functions within each contracting activity.
 
@@ -28,15 +28,15 @@
 
 (3) Nothing in this subsection shall affect the authority of the Inspector General of the Department of Defense to establish audit policy for the Department of Defense under the Inspector General Act of 1978 and otherwise to carry out the functions of the Inspector General under that Act.
 
-(e)(1) With regard to all matters for which he has responsibility by law or by direction of the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
+(e)(1) With regard to all matters for which he has responsibility by law or by direction of theSecretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
 
 (2) With regard to all matters other than matters for which he has responsibility by law or by direction of the Secretary of Defense, the Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, and the Secretaries of the military departments.
 
 (Added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) \[title X, §901\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) \[title X, §901\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, §801(a), Dec. 28, 2001, 115 Stat. 1174; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §907, Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–350, §5(b)(1), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 113–291, div. A, title IX, §901(j)(2)(A), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 114–92, div. A, title VIII, §825(b), Nov. 25, 2015, 129 Stat. 908.)
 
-#### Amendment of Subsection (b)(5)
+#### Repeal of Section
 
-<i>Pub. L. 114–92, div. A, title VIII, §825(b), (c)(3), Nov. 25, 2015, 129 Stat. 908, provided that, effective Oct. 1, 2016, subsection (b)(5) of this section is amended by inserting before the period at the end ", except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority". See 2015 Amendment note below.</i>
+<i>For repeal of section by section 901(a)(1) of Pub. L. 114–328, see Effective Date of Repeal note below.</i>
 
 #### Amendment of Subsection (e)(1)
 
@@ -58,7 +58,7 @@ A prior section 133 was renumbered section 113 of this title.
 
 <b>2015</b>—Subsec. (b)(5). Pub. L. 114–92 inserted before period at end ", except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority".
 
-<b>2014</b>—Subsec. (e)(1). Pub. L. 113–291 substituted ", the Deputy Secretary of Defense, and the Under Secretary of Defense for Business Management and Information" for "and the Deputy Secretary of Defense".
+<b>2014</b>—Subsec. (e)(1). Pub. L. 113–291, which directed substitution of ", the Deputy Secretary of Defense, and the Under Secretary of Defense for Business Management and Information" for "and the Deputy Secretary of Defense", effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
 
 <b>2011</b>—Subsec. (c)(1). Pub. L. 111–350 substituted "section 1702(c) of title 41" for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))".
 
@@ -98,13 +98,17 @@ Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, pr
 
 Pub. L. 103–160, div. A, title IX, §904(a), (f), Nov. 30, 1993, 107 Stat. 1728, 1729, provided that the office of Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Under Secretary of Defense for Acquisition and Technology, the office of Deputy Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Deputy Under Secretary of Defense for Acquisition and Technology, and any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than this title, or in any rule, regulation, or other paper of the United States was to be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.
 
+#### Effective Date of Repeal
+
+Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that the repeal of this section is effective Feb. 1, 2018.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–92, div. A, title VIII, §825(c)(3), Nov. 25, 2015, 129 Stat. 908, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 2430 of this title\] shall take effect on October 1, 2016."
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(2)(A) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(2)(A) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.
 
 #### Reports to Congress on Failure To Comply With Recommendations
 
@@ -114,7 +118,7 @@ Pub. L. 112–239, div. A, title IX, §904(h), Jan. 2, 2013, 126 Stat. 1868, pro
 
 Report required.—Not later than 60 days after the end of each fiscal year, from fiscal year 2013 through fiscal year 2018, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on each case in which a major defense acquisition program, in the preceding fiscal year—
 
-&emsp;"(A) proceeded to implement a test and evaluation master plan notwithstanding a decision of the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation to disapprove the developmental test and evaluation plan within that plan in accordance with section 139b(a)(5)(B) of title 10, United States Code; or
+&emsp;"(A) proceeded to implement a test and evaluation master plan notwithstanding a decision of the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation to disapprove the developmental test and evaluation plan within that plan in accordance with former section 139b(a)(5)(B) of title 10, United States Code; or
 
 &emsp;"(B) proceeded to initial operational testing and evaluation notwithstanding a determination by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation on the basis of an assessment of operational test readiness that the program is not ready for operational testing.
 
@@ -170,7 +174,7 @@ In general.—The senior acquisition official designated under subsection (a) sh
 
 &emsp;"(2)
 
-Urgent requirements.—Guidance developed under paragraph (1) shall take into account the needto fulfill the urgent requirements of the commanders of combatant commands and the heads of Defense Agencies and to ensure that those requirements are addressed expeditiously.
+Urgent requirements.—Guidance developed under paragraph (1) shall take into account the need to fulfill the urgent requirements of the commanders of combatant commands and the heads of Defense Agencies and to ensure that those requirements are addressed expeditiously.
 
 "(c)
 
@@ -182,5 +186,5 @@ Deadline for Designation.—The Secretary of Defense shall make the designation 
 
 #### Improvement in Defense Research and Procurement Liaison With Israel
 
-Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: "The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel."
+Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: "The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty inIsrael an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel."
 

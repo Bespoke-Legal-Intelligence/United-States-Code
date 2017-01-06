@@ -8,17 +8,17 @@
 
 &emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
 
-&emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
+&emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI, to the extent medical assistance for such services is not provided under subchapter XIX; and
 
-&emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
+&emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3)) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
 &emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
-&emsp;&emsp;(A) maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and (B) of subsection (b)(4) of this section, health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
+&emsp;&emsp;(A) maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and (B) of subsection (b)(4), health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
 
-&emsp;&emsp;(B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state <sup>1</sup> plans approved under subchapter XIX of this chapter,
+&emsp;&emsp;(B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state <sup>1</sup> plans approved under subchapter XIX,
 
 &emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 <sup>2</sup> of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) section 1382d(c) of this title (relating to supplemental security income for disabled children),
 
-&emsp;&emsp;(C) sections 247a of this title (relating to lead-based paint poisoning prevention programs), 300b of this title (relating to geneticdisease programs), 300c–11 of this title (relating to sudden infant death syndrome programs) and 300c–21 of this title (relating to hemophilia treatment centers), and
+&emsp;&emsp;(C) sections 247a of this title (relating to lead-based paint poisoning prevention programs), 300b of this title (relating to genetic disease programs), 300c–11 of this title (relating to sudden infant death syndrome programs) and 300c–21 of this title (relating to hemophilia treatment centers), and
 
 &emsp;&emsp;(D) title VI of the Health Services and Centers Amendments of 1978 (Public Law 95–626; relating to adolescent pregnancy grants),
 
@@ -106,13 +106,13 @@
 
 (5) For purposes of this subsection, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV,§4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153.)
 
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997,111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
 
 Section 1320b–6 of this title, referred to in subsec. (a)(3)(C), was repealed by Pub. L. 104–193, title I, §108(g)(7), Aug. 22, 1996, 110 Stat. 2168.
 
@@ -176,7 +176,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §921(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to alsobeing applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -196,7 +196,7 @@ Application and Report.—The amendments made—
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: "The amendment made bysubsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983."
+Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983."
 
 #### Effective Date of 1982 Amendment
 
@@ -260,7 +260,7 @@ Pub. L. 101–239, title VI, §6506(a), Dec. 19, 1989, 103 Stat. 2281, directed 
 
 #### Research on Infant Mortality and Medicaid Services
 
-Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: "The Secretary of Health andHuman Services shall develop a national data system for linking, for any infant up to age one—
+Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: "The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
 
 &emsp;"(1) the infant's birth record,
 

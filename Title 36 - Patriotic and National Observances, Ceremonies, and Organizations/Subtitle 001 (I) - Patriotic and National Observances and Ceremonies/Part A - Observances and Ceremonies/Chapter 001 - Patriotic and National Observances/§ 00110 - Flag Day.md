@@ -10,7 +10,7 @@ Proclamation.—The President is requested to issue each year a proclamation—
 
 &emsp;(1) calling on United States Government officials to display the flag of the United States on all Government buildings on Flag Day; and
 
-&emsp;(2) urging the people of the United States to observe Flag Day as the anniversary of the adoption on June 14, 1777, by the Continental Congress of the Stars and Stripes as the official flag of the United States.
+&emsp;(2) urging the people of the United States to observe Flag Day as the anniversary of the adoption on June 14, 1777, by the ContinentalCongress of the Stars and Stripes as the official flag of the United States.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1256.)
 

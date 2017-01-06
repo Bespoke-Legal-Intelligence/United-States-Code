@@ -8,7 +8,19 @@
 
 (d) The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, and the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, §126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, §1011(a), Oct. 17, 2006, 120 Stat. 2374.)
+(e) The Secretary of the Navy shall ensure that—
+
+&emsp;(1) the Navy maintains a minimum of 9 carrier air wings until the earlier of—
+
+&emsp;&emsp;(A) the date on which additional operationally deployable aircraft carriers can fully support a 10th carrier air wing; or
+
+&emsp;&emsp;(B) October 1, 2025;
+
+&emsp;(2) after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings; and
+
+&emsp;(3) for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, §126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, §1011(a), Oct. 17, 2006, 120 Stat. 2374; Pub. L. 114–328, div. A, title X, §1042(a), Dec. 23, 2016, 130 Stat. 2393.)
 
 Historical and Revision Notes
 
@@ -30,6 +42,8 @@ A prior section 5062, act Aug. 10, 1956, ch. 1041, 70A Stat. 281, prescribed the
 
 #### Amendments
 
+<b>2016</b>—Subsec. (e). Pub. L. 114–328 added subsec. (e).
+
 <b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted "11" for "12".
 
 Pub. L. 109–163, §126(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
@@ -44,9 +58,5 @@ Subsec. (d). Pub. L. 99–433, §511(b)(4)(B), struck out subsec. (d) which rela
 
 #### Number of Navy Carrier Air Wings and Carrier Air Wing Headquarters
 
-Pub. L. 112–81, div. A, title X, §1093, Dec. 31, 2011, 125 Stat. 1606, provided that: "The Secretary of the Navy shall ensure that the Navy maintains—
-
-&emsp;"(1) a minimum of 10 carrier air wings; and
-
-&emsp;"(2) for each such carrier air wing, a dedicated and fully staffed headquarters."
+Pub. L. 112–81, div. A, title X, §1093, Dec. 31, 2011, 125 Stat. 1606, required the Secretary of the Navy to ensure that the Navy maintain a minimum of 10 carrier air wings and a dedicated and fully staffed headquarters for each, prior to repeal by Pub. L. 114–328, div. A, title X, §1042(b), Dec. 23, 2016, 130 Stat. 2393. See subsec. (e) of this section.
 

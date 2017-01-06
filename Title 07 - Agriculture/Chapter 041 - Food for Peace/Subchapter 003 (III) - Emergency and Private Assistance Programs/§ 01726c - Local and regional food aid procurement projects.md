@@ -174,7 +174,7 @@ Subsec. (d)(4). Pub. L. 113–79, §3207(5)(B), struck out par. (4). Text read a
 
 Subsec. (e). Pub. L. 113–79, §3207(6), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Subsecs. (f), (g). Pub. L. 113–79, §3207(3), struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporation funding and funding amounts for fiscal years 2009 through 2012.
+Subsecs. (f), (g). Pub. L. 113–79, §3207(3), struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporationfunding and funding amounts for fiscal years 2009 through 2012.
 
 #### Effective Date
 

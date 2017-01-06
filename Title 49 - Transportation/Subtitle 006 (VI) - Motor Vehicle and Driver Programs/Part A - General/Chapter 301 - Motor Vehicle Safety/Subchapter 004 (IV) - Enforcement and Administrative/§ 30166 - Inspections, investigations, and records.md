@@ -20,7 +20,7 @@ Matters That Can Be Inspected and Impoundment.—In carrying out this chapter, a
 
 &emsp;(1) at reasonable times, may inspect and copy any record related to this chapter;
 
-&emsp;(2) on request, may inspect records of a manufacturer, distributor, or dealer to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
+&emsp;(2) on request, may inspect records of a manufacturer, distributor, dealer, or rental company to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
 
 &emsp;(3) at reasonable times, in a reasonable way, and on display of proper credentials and written notice to an owner, operator, or agent in charge, may—
 
@@ -40,7 +40,7 @@ Reasonable Compensation.—When a motor vehicle (except a vehicle subject to sub
 
 (e)
 
-Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under thischapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor <sup>1</sup> dealer, or rental company in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
 (f)
 
@@ -48,7 +48,7 @@ Providing Copies of Communications About Defects and Noncompliance.—
 
 &emsp;(1)
 
-In general.—A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer's dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+In general.—A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer's dealers, rental companies, or other owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Civil Actions To Enforce and Venue.—A civil action to enforce a subpena or ord
 
 (i)
 
-Governmental Cooperation.—The Secretary of Transportation may request a department, agency, or instrumentality of the United States Government to provide records the Secretary considers necessary to carry out this chapter. The head of the department, agency, or instrumentality shall provide the record on request, may detail personnel on a reimbursable basis, and otherwise shall cooperate with the Secretary. This subsection does not affect a law limiting the authority of a department, agency, or instrumentality to provide information to another department, agency, or instrumentality.
+Governmental Cooperation.—The Secretary of Transportation may request a department, agency, or instrumentality of the United States Government to provide records the Secretary considers necessary to carry out this chapter. The head of the department, agency, or instrumentality shall provide the record on request, may detail personnel on a reimbursable basis, and otherwise shall cooperate with theSecretary. This subsection does not affect a law limiting the authority of a department, agency, or instrumentality to provide information to another department, agency, or instrumentality.
 
 (j)
 
@@ -122,7 +122,7 @@ Reporting elements.—
 
 Warranty and claims data.—As part of the final rule promulgated under paragraph (1), the Secretary shall require manufacturers of motor vehicles and motor vehicle equipment to report, periodically or upon request by the Secretary, information which is received by the manufacturer derived from foreign and domestic sources to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States and which concerns—
 
-&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (includingdeath) and aggregate statistical data on property damage from alleged defects in a motor vehicle or in motor vehicle equipment; or
+&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (including death) and aggregate statistical data on property damage from alleged defects in a motor vehicle or in motor vehicle equipment; or
 
 &emsp;&emsp;&emsp;(ii) customer satisfaction campaigns, consumer advisories, recalls, or other activity involving the repair or replacement of motor vehicles or items of motor vehicle equipment.
 
@@ -204,19 +204,7 @@ Notice.—The certification requirements of this section shall be clearly stated
 
 Deadline.—Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat.4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764; Pub. L. 114–94, div. B, title XXIV, §§24109(e), 24112, Dec. 4, 2015, 129 Stat. 1707, 1709.)
-
-#### Amendment of Section
-
-<i>Pub. L. 114–94, div. B, title XXIV, §24109(e), (k), Dec. 4, 2015, 129 Stat. 1707, 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, this section is amended as follows:</i>
-
-<i>(1) in subsection (c)(2), by striking "or dealer" each place such term appears and inserting "dealer, or rental company";</i>
-
-<i>(2) in subsection (e), by striking "or dealer" each place such term appears and inserting "dealer, or rental company"; and</i>
-
-<i>(3) in subsection (f), by striking "or to owners" and inserting ", rental companies, or other owners".</i>
-
-<i>See 2015 Amendment notes below.</i>
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764; Pub. L. 114–94, div. B, title XXIV, §§24109(e), 24112, Dec. 4, 2015, 129 Stat. 1707, 1709.)
 
 Historical and Revision Notes
 
@@ -437,4 +425,6 @@ Rulemaking.—The Secretary may initiate a rulemaking proceeding to require each
 "(c)
 
 Promotion of Public Awareness.—The Secretary shall improve public awareness of safety recall information made publicly available by periodically updating the method of conveying that information to consumers, dealers, and manufacturers, such as through public service announcements."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -8,7 +8,7 @@ If any person shall fail to make a return required by this title or by regulatio
 
 #### (1) Authority of Secretary to execute return
 
-&emsp;If any person fails to make any return required by any internal revenue law or regulation made thereunder at the time prescribed therefor, or makes, willfully or otherwise, a false or fraudulent return, the Secretary shall make such return from his own knowledge andfrom such information as he can obtain through testimony or otherwise.
+&emsp;If any person fails to make any return required by any internal revenue law or regulation made thereunder at the time prescribed therefor, or makes, willfully or otherwise, a false or fraudulent return, the Secretary shall make such return from his own knowledge and from such information as he can obtain through testimony or otherwise.
 
 #### (2) Status of returns
 

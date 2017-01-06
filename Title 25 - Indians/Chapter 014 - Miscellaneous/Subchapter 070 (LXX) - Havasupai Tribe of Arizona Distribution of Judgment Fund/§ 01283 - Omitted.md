@@ -1,0 +1,6 @@
+### §1283. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–438, §3, Sept. 29, 1972, 86 Stat. 741, which related to payment of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.
+

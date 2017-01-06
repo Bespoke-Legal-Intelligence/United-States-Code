@@ -8,7 +8,7 @@
 
 &emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuing the training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
 
-&emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualificationand performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
+&emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualification and performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
 
 (b)(1) Each State approving agency carrying out a contract or agreement with the Secretary under section 3674(a) of this title shall—
 

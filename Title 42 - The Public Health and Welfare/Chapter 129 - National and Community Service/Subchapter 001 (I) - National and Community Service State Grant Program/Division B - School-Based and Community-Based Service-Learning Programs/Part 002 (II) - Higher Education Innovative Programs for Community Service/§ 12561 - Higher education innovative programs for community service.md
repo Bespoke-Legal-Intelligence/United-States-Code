@@ -28,7 +28,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 &emsp;(4) facilitating the integration of community service carried out under the program into academic curricula, including integration of clinical programs into the curriculum for students in professional schools, so that students can obtain credit for their community service projects;
 
-&emsp;(5) supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) to support service-learning and community service through the community service program;
+&emsp;(5) supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) <sup>1</sup> to support service-learning and community service through the community service program;
 
 &emsp;(6) strengthening the service infrastructure within institutions of higher education in the United States through the program; and
 
@@ -134,7 +134,7 @@ In making grants and entering into contracts under subsection (b), the Corporati
 
 #### (g) Federal work-study
 
-To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 (42 U.S.C. 2753(b)(2)(A)) relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) (relating to Federal Work-Study <sup>1</sup> programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
+To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 (42 U.S.C. 2753(b)(2)(A)) <sup>1</sup> relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) <sup>1</sup> (relating to Federal Work-Study <sup>2</sup> programs) in community service activities, or has received awaiver of those requirements from the Secretary of Education.
 
 #### (h) Definition
 
@@ -142,13 +142,13 @@ Notwithstanding section 12511 of this title, as used in this part, the term "stu
 
 #### (i) National service educational award
 
-A participant in a program funded under this part shall be eligible for the national service educational award described in division D of this subchapter, if the participant served in an approved national service position.
+A participant in a program funded under this part shall be eligible for the national service educational award described in division D, if the participant served in an approved national service position.
 
 (Pub. L. 101–610, title I, §118, formerly §119, as added Pub. L. 103–82, title I, §103(b), Sept. 21, 1993, 107 Stat. 837; renumbered §118 and amended Pub. L. 111–13, title I, §1202, Apr. 21, 2009, 123 Stat. 1474.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(5) and (g), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20, Education, and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(5) and (g), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 443 of the Act was transferred from section 2753 of this title to section 1087–53 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -180,5 +180,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 Part effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

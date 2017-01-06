@@ -12,7 +12,7 @@
 | [<b>7.</b>](Chapter%20007%20-%20Campaign%20Communications/README.md) | <b>Campaign Communications \[Repealed\]</b> | <b>801</b> |
 | [<b>8.</b>](Chapter%20008%20-%20National%20Telecommunications%20and%20Information%20Administration/README.md) | <b>National Telecommunications and Information Administration</b> | <b>901</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Interception%20of%20Digital%20and%20Other%20Communications/README.md) | <b>Interception of Digital and Other Communications</b> | <b>1001</b> |
-| [<b>10.</b>](Chapter%20010%20-%20Local%20TV/README.md) | <b>LOCAL TV</b> | <b>1101</b> |
+| [<b>10.</b>](Chapter%20010%20-%20Local%20TV/README.md) | <b>LOCAL TV \[Omitted\]</b> | <b>1101</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Commercial%20Mobile%20Service%20Alerts/README.md) | <b>Commercial Mobile Service Alerts</b> | <b>1201</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Broadband/README.md) | <b>Broadband</b> | <b>1301</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Public%20Safety%20Communications%20and%20Electromagnetic%20Spectrum%20Auctions/README.md) | <b>Public Safety Communications and Electromagnetic Spectrum Auctions</b> | <b>1401</b> |

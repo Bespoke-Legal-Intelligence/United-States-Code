@@ -28,5 +28,5 @@ Pub. L. 108–400, §1(g), Oct. 30, 2004, 118 Stat. 2254, provided that: "This s
 
 #### Short Title
 
-Pub. L. 106–353, §1, Oct. 24, 2000, 114 Stat. 1374, as amended by Pub. L. 108–400, §1(e), Oct. 30, 2004, 118 Stat. 2254, provided that: "This Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'McInnis Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000'."
+Pub. L. 106–353, §1, Oct. 24, 2000, 114 Stat. 1374, as amended by Pub. L. 108–400, §1(e), Oct. 30, 2004, 118 Stat.2254, provided that: "This Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'McInnis Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000'."
 

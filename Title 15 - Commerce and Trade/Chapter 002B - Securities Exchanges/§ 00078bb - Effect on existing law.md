@@ -26,7 +26,7 @@
 
 #### (b) Modification of disciplinary procedures
 
-Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
+Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputesbetween municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
 
 #### (c) Continuing validity of disciplinary sanctions
 
@@ -142,7 +142,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (E) Covered security
 
-&emsp;&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
+&emsp;&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conductoccurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
 
 #### (F) Rule of construction
 

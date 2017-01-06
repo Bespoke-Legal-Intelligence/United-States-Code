@@ -60,13 +60,13 @@ Annuity accrued and unpaid on the death of a survivor annuitant shall be paid in
 
 #### (h) Amount of credit
 
-<sup>1</sup> Amounts deducted and withheld from basic salary of a participant under section 4045 of this title from the beginning of the first pay period after the participant has completed 35 years of service computed under section 4056 of this title (excluding service credit for unused sick leave under section 4056(b) of this title), together with interest on the amounts at the rate of 3 percent a year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under section 4045(d) of this title), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f).
+<sup>1</sup> Amounts deducted and withheld from basic salary of a participant under section 4045 of this title from the beginning of the first pay period after the participant has completed 35 years of service computed under section 4056 of this title (excluding service credit for unused sick leave under section 4056(b) of this title), together with interest on the amounts at the rate of 3 percenta year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under section 4045(d) of this title), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f).
 
 #### (i) Former spouses
 
 Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, the amount of a participant's or former participant's lump-sum credit payable to a former spouse of that participant shall be—
 
-&emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent ofthe lump-sum credit to which such participant would be entitled in the absence of this subsection, or
+&emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 
 &emsp;(2) if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
 

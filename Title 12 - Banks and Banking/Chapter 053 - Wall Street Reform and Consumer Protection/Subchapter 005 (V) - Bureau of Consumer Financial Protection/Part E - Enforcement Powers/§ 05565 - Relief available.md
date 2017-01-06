@@ -38,7 +38,7 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 #### (1) In general
 
-&emsp;Any person that violates, through any act or omission, any provision of Federal consumerfinancial law shall forfeit and pay a civil penalty pursuant to this subsection.
+&emsp;Any person that violates, through any act or omission, any provision of Federal consumer financial law shall forfeit and pay a civil penalty pursuant to this subsection.
 
 #### (2) Penalty amounts
 

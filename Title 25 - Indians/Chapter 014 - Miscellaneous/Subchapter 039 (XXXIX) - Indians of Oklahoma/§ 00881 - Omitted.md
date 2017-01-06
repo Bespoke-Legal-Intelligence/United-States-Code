@@ -1,0 +1,6 @@
+### §881. Omitted
+
+#### Codification
+
+Section, Pub. L. 91–401, §1, Sept. 16, 1970, 84 Stat. 838, which related to disposition of the judgment fund of the Potawatomi Indians, was omitted from the Code as being of special and not general application.
+

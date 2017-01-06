@@ -26,7 +26,7 @@ Any contract entered into by a public utility under subsection (a)(1) of this se
 
 &emsp;&emsp;(B) the savings in energy costs that are likely to result from the installation of such energy conservation measures;
 
-&emsp;&emsp;(C) suggestions (including suggestions developed by the Secretary) of energy conservation techniques, including adjustments in energy use patterns and modifications in household activities, which can be used by the owner or occupant of the building to save energy and which do not require the installation of energy conservation measures; and
+&emsp;&emsp;(C) suggestions (including suggestions developed by the Secretary) of energy conservation techniques, including adjustments in energy use patterns and modifications in household activities, which can be used by the owner or occupant of the building tosave energy and which do not require the installation of energy conservation measures; and
 
 &emsp;&emsp;(D) the savings in energy costs that are likely to result from the adoption of such suggested energy conservation techniques;
 

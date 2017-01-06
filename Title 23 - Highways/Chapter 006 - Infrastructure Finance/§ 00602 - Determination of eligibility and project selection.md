@@ -26,7 +26,7 @@ In general.—To be eligible for assistance under the TIFIA program, a project s
 
 &emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
 
-&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agencyopinion for each of the senior debt and Federal credit instrument shall be sufficient.
+&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
 &emsp;&emsp;(B)
 
@@ -130,7 +130,7 @@ Selection Among Eligible Projects.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are availableto cover the subsidy costs associated with the Federal credit instrument.
+Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
 
 &emsp;(2)
 
@@ -158,7 +158,7 @@ Federal Requirements.—
 
 &emsp;(1)
 
-In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
+In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds madeavailable under the TIFIA program and projects assisted with those funds:
 
 &emsp;&emsp;(A) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 

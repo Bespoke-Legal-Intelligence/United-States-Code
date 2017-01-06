@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(iii) a remote likelihood of or no known incidental mortality or serious injury of marine mammals;
 
-&emsp;(B) after the close of the period for such public comment, publish in the Federal Register a revised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
+&emsp;(B) after the close of the period for such public comment, publish in the Federal Register arevised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
@@ -124,7 +124,7 @@
 
 &emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
 
-(5) The Secretary may establish an alternative observer program to provide statistically reliable information on the species and number of marine mammals incidentally taken in thecourse of commercial fishing operations. The alternative observer program may include direct observation of fishing activities from vessels, airplanes, or points on shore.
+(5) The Secretary may establish an alternative observer program to provide statistically reliable information on the species and number of marine mammals incidentally taken in the course of commercial fishing operations. The alternative observer program may include direct observation of fishing activities from vessels, airplanes, or points on shore.
 
 (6) The Secretary is not required to place an observer on a vessel in a fishery if the Secretary finds that—
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementationof the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
@@ -256,7 +256,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (g) Emergency regulations
 
-(1) If the Secretary finds that the incidental mortality and serious injury of marine mammals from commercial fisheries is having, or islikely to have, an immediate and significant adverse impact on a stock or species, the Secretary shall take actions as follows:
+(1) If the Secretary finds that the incidental mortality and serious injury of marine mammals from commercial fisheries is having, or is likely to have, an immediate and significant adverse impact on a stock or species, the Secretary shall take actions as follows:
 
 &emsp;(A) In the case of a stock or species for which a take reduction plan is in effect, the Secretary shall—
 
@@ -322,7 +322,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a)(1), (c)(2)(B)(ii), (l). Pub. L. 104–208 made technical amendment to references in originalact which appear in text as references to sections 1802 and 1824(b) of this title.
+<b>1996</b>—Subsecs. (a)(1), (c)(2)(B)(ii), (l). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802 and 1824(b) of this title.
 
 #### Effective Date of 1996 Amendment
 

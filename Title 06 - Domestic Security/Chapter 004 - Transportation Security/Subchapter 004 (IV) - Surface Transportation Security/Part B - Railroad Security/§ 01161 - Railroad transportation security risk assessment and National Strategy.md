@@ -30,7 +30,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 &emsp;The modal plan shall include prioritized goals, actions, objectives, policies, mechanisms, and schedules for, at a minimum—
 
-&emsp;&emsp;(A) improving the security of railroad tunnels, railroad bridges, railroad switching and car storage areas, other railroad infrastructure and facilities, information systems, and other areas identified by the Secretary as posing significant railroad-related risks to public safety and the movement of interstate commerce, taking into account the impact that any proposed security measure might have on the provision of railroad service or on operations served or otherwise affected by railroad service;
+&emsp;&emsp;(A) improving the security of railroad tunnels, railroad bridges, railroad switching and car storage areas, other railroad infrastructure and facilities, information systems, and other areas identified by the Secretary as posing significant railroad-related risks to public safety and the movement of interstate commerce, taking into account the impact that any proposed security measuremight have on the provision of railroad service or on operations served or otherwise affected by railroad service;
 
 &emsp;&emsp;(B) deploying equipment and personnel to detect security threats, including those posed by explosives and hazardous chemical, biological, and radioactive substances, and any appropriate countermeasures;
 

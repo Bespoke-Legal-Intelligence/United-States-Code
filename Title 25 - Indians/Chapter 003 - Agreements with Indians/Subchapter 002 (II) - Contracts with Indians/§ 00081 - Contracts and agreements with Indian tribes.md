@@ -6,7 +6,7 @@ In this section:
 
 &emsp;(1) The term "Indian lands" means lands the title to which is held by the United States in trust for an Indian tribe or lands the title to which is held by an Indian tribe subject to a restriction by the United States against alienation.
 
-&emsp;(2) The term "Indian tribe" has the meaning given that term in section 450b(e) of this title.
+&emsp;(2) The term "Indian tribe" has the meaning given that term in section 5304(e) of this title.
 
 &emsp;(3) The term "Secretary" means the Secretary of the Interior.
 
@@ -42,7 +42,7 @@ Nothing in this section shall be construed to—
 
 &emsp;(1) require the Secretary to approve a contract for legal services by an attorney;
 
-&emsp;(2) amend or repeal the authority of the National Indian Gaming Commission under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.); or
+&emsp;(2) amend or repeal the authority of the National Indian Gaming Commission under theIndian Gaming Regulatory Act (25 U.S.C. 2701 et seq.); or
 
 &emsp;(3) alter or amend any ordinance, resolution, or charter of an Indian tribe that requires approval by the Secretary of any action by that Indian tribe.
 

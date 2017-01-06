@@ -20,7 +20,7 @@ The Director may not, with respect to any program under this subchapter authoriz
 
 #### (2) Corresponding reduction in funds
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce theamount of the financial assistance involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Director. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of the financial assistance involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Director. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (d) Applicability of certain provisions with respect to contracts
 

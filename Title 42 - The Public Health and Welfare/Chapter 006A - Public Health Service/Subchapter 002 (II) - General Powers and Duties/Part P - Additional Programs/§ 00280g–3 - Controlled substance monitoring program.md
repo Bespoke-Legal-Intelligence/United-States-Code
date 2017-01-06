@@ -4,11 +4,13 @@
 
 #### (1) In general
 
-&emsp;Each fiscal year, the Secretary shall award a grant to each State with an application approved under this section to enable the State—
+&emsp;Each fiscal year, the Secretary, in consultation with the Administrator of the Substance Abuse and Mental Health Services Administration and Director of the Centers for Disease Control and Prevention, shall award a grant to each State with an application approved under this section to enable the State—
 
-&emsp;&emsp;(A) to establish and implement a State controlled substance monitoring program; or
+&emsp;&emsp;(A) to establish and implement a State controlled substance monitoring program;
 
-&emsp;&emsp;(B) to make improvements to an existing State controlled substance monitoring program.
+&emsp;&emsp;(B) to make improvements to an existing State controlled substance monitoring program; or
+
+&emsp;&emsp;(C) to maintain an existing State-controlled substance monitoring program.
 
 #### (2) Determination of amount
 
@@ -24,9 +26,9 @@
 
 &emsp;Grants awarded under this section shall be obligated in the year in which funds are allotted.
 
-#### (b) Development of minimum requirements
+#### (b) Minimum requirements
 
-Prior to awarding a grant under this section, and not later than 6 months after the date on which funds are first appropriated to carry out this section, after seeking consultation with States and other interested parties, the Secretary shall, after publishing in the Federal Register proposed minimum requirements and receiving public comments, establish minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A) of this section.
+The Secretary shall maintain and, as appropriate, supplement or revise (after publishing proposed additions and revisions in the Federal Register and receiving public comments thereon) minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A).
 
 #### (c) Application approval process
 
@@ -34,37 +36,41 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 &emsp;To be eligible to receive a grant under this section, a State shall submit an application to the Secretary at such time, in such manner, and containing such assurances and information as the Secretary may reasonably require. Each such application shall include—
 
-&emsp;&emsp;(A) with respect to a State that intends to use funds under the grant as provided for in subsection (a)(1)(A) of this section—
+&emsp;&emsp;(A) with respect to a State that intends to use funds under the grant as provided for in subsection (a)(1)(A)—
 
 &emsp;&emsp;&emsp;(i) a budget cost estimate for the controlled substance monitoring program to be implemented under the grant;
 
-&emsp;&emsp;&emsp;(ii) criteria for security for information handling and for the database maintained by the State under subsection (e) of this section generally including efforts to use appropriate encryption technology or other appropriate technology to protect the security of such information;
+&emsp;&emsp;&emsp;(ii) criteria for security for information handling and for the database maintained by the State under subsection (e) generally including efforts to use appropriate encryption technology or other appropriate technology to protect the security of such information;
 
 &emsp;&emsp;&emsp;(iii) an agreement to adopt health information interoperability standards, including health vocabulary and messaging standards, that are consistent with any such standards generated or identified by the Secretary or his or her designee;
 
-&emsp;&emsp;&emsp;(iv) criteria for meeting the uniform electronic format requirement of subsection (h) of this section;
+&emsp;&emsp;&emsp;(iv) criteria for meeting the uniform electronic format requirement of subsection (i);
 
 &emsp;&emsp;&emsp;(v) criteria for availability of information and limitation on access to program personnel;
 
 &emsp;&emsp;&emsp;(vi) criteria for access to the database, and procedures to ensure that information in the database is accurate;
 
-&emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of the certification process to be applied to requests for information under subsection (f) of this section;
+&emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of the certification process to be applied to requests for information under subsection (f);
 
-&emsp;&emsp;&emsp;(viii) penalties for the unauthorized use and disclosure of information maintainedin the State controlled substance monitoring program in violation of applicable State law or regulation;
+&emsp;&emsp;&emsp;(viii) penalties for the unauthorized use and disclosure of information maintained in the State controlled substance monitoring program in violation of applicable State law or regulation;
 
 &emsp;&emsp;&emsp;(ix) information on the relevant State laws, policies, and procedures, if any, regarding purging of information from the database; and
 
 &emsp;&emsp;&emsp;(x) assurances of compliance with all other requirements of this section; or
 
-&emsp;&emsp;(B) with respect to a State that intends to use funds under the grant as provided for in subsection (a)(1)(B) of this section—
+&emsp;&emsp;(B) with respect to a State that intends to use funds under the grant as provided for in subsection (a)(1)(B) or (a)(1)(C)—
 
-&emsp;&emsp;&emsp;(i) a budget cost estimate for the controlled substance monitoring program to be improved under the grant;
+&emsp;&emsp;&emsp;(i) a budget cost estimate for the controlled substance monitoring program to be improved or maintained under the grant;
 
 &emsp;&emsp;&emsp;(ii) a plan for ensuring that the State controlled substance monitoring program is in compliance with the criteria and penalty requirements described in clauses (ii) through (viii) of subparagraph (A);
 
-&emsp;&emsp;&emsp;(iii) a plan to enable the State controlled substance monitoring program to achieve interoperability with at least one other State controlled substance monitoring program; and
+&emsp;&emsp;&emsp;(iii) a plan to apply the latest advances in health information technology, to the extent practicable, in order to incorporate prescription drug monitoring program data directly into the workflow of prescribers and dispensers to ensure timely access to patients' controlled prescription drug history;
 
-&emsp;&emsp;&emsp;(iv) assurances of compliance with all other requirements of this section or a statement describing why such compliance is not feasible or is contrary to the best interests of public health in such State.
+&emsp;&emsp;&emsp;(iv) a plan to enable the State controlled substance monitoring program to achieve interoperability with at least one otherState controlled substance monitoring program and at least one health information technology system such as electronic health records, health information exchanges, or e-prescribing systems;
+
+&emsp;&emsp;&emsp;(v) assurances of compliance with all other requirements of this section or a statement describing why such compliance is not feasible or is contrary to the best interests of public health or safety in such State; and
+
+&emsp;&emsp;&emsp;(vi) information, where applicable, on how the controlled substance monitoring program jointly works with the applicant's respective State substance abuse agency to ensure information collected and maintained by the controlled substance monitoring program is used to inform the provision of clinically appropriate substance use disorder services to individuals in need.
 
 #### (2) State legislation
 
@@ -72,7 +78,13 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 #### (3) Interoperability
 
-&emsp;If a State that submits an application under this subsection geographically borders another State that is operating a controlled substance monitoring program under subsection (a)(1) of this section on the date of submission of such application, and such applicant State has not achieved interoperability for purposes of information sharing between its monitoring program and the monitoring program of such border State, such applicant State shall, as part of the plan under paragraph (1)(B)(iii), describe the manner in which the applicant State will achieve interoperability between the monitoring programs of such States.
+#### (A) In general
+
+&emsp;&emsp;If a State that submits an application under this subsection geographically borders another State that is operating a controlled substance monitoring program under subsection (a)(1) on the date of submission of such application, and such applicant State has not achieved interoperability for purposes of information sharing between its monitoring program and the monitoring program of such border State, such applicant State shall, as part of the plan under paragraph (1)(B)(iii), describe the manner in which the applicant State will achieve interoperability between the monitoring programs of such States and include timelines for full implementation of such interoperability. The State shall also describe the manner in which it will achieve interoperability between its monitoring program and health information technology systems, as allowable under State law, and include timelines for the implementation of such interoperability.
+
+#### (B) Monitoring of efforts
+
+&emsp;&emsp;The Secretary shall monitor State efforts to achieve interoperability, as described in subparagraph (A).
 
 #### (4) Approval
 
@@ -80,11 +92,11 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 #### (5) Return of funds
 
-&emsp;If the Secretary withdraws approval of a State's application under this section, or the State chooses to cease to implement or improve a controlled substance monitoring program under this section, a funding agreement for the receipt of a grant under this section is that the State will return to the Secretary an amount which bears the same ratio to the overall grant as the remaining time period for expending the grant funds bears to the overall time period for expending the grant (as specified by the Secretary at the time of the grant).
+&emsp;If the Secretary withdraws approval of a State's application under this section, or the State chooses to cease to establish, improve, or maintain a controlled substance monitoring program under this section, a funding agreement for the receipt of a grant under this section is that the State will return to the Secretary an amount which bears the same ratio to the overall grant as the remaining time period for expending the grant funds bears to the overall time period for expending the grant (as specified by the Secretary at the time of the grant). The Secretary shall redistribute any funds that are so returned among the remaining grantees under this section in accordance with the formula described in subsection (a)(2)(B).
 
 #### (d) Reporting requirements
 
-In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
+In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subparagraph (B) or (C) of subsection (a)(1) submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health or safety in such State, with the following:
 
 &emsp;(1) The State shall require dispensers to report to such State each dispensing in the State of a controlled substance to an ultimate user not later than 1 week after the date of such dispensing.
 
@@ -118,13 +130,15 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;&emsp;(J) Such other information as may be required by State law to be reported under this subsection.
 
-&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
+&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (i), except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
+
+&emsp;(5) The State shall report on interoperability with the controlled substance monitoring program of Federal agencies, where appropriate, interoperability with health information technology systems such as electronic health records, health information exchanges, and e-prescribing, where appropriate, and whether or not the State provides automatic, up-to-date, or daily information about a patient when a practitioner (or the designee of a practitioner, where permitted) requests information about such patient.
 
 #### (e) Database
 
-In implementing or improving a controlled substance monitoring program under this section, a State shall comply with the following:
+In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply with the following:
 
-&emsp;(1) The State shall establish and maintain an electronic database containing the information reported to the State under subsection (d) of this section.
+&emsp;(1) The State shall establish and maintain an electronic database containing the information reported to the State under subsection (d).
 
 &emsp;(2) The database must be searchable by any field or combination of fields.
 
@@ -136,15 +150,15 @@ In implementing or improving a controlled substance monitoring program under thi
 
 #### (1) In general
 
-&emsp;Subject to subsection (g) of this section, in implementing or improving a controlled substance monitoring program under this section, a State may disclose information from the database established under subsection (e) of this section and, in the case of a request under subparagraph (D), summary statistics of such information, only in response to a request by—
+&emsp;Subject to subsection (g), in establishing, improving, or maintaining a controlled substance monitoring program under this section, a State may disclose information from the database established under subsection (e) and, in the case of a request under subparagraph (D), summary statistics of such information, only in response to a request by—
 
 &emsp;&emsp;(A) a practitioner (or the agent thereof) who certifies, under the procedures determined by the State, that the requested information is for the purpose of providing medical or pharmaceutical treatment or evaluating the need for such treatment to a bona fide current patient;
 
-&emsp;&emsp;(B) any local, State, or Federal law enforcement, narcotics control, licensure, disciplinary, or program authority, who certifies, under the procedures determined by the State, that the requested information is related to an individual investigation or proceeding involving the unlawful diversion or misuse of a schedule II, III, or IV substance, and such information will further the purpose of the investigation or assist in the proceeding;
+&emsp;&emsp;(B) any local, State, or Federal law enforcement, narcotics control, licensure, disciplinary, or program authority, who certifies, under the procedures determined by the State, that the requested information is related to an individual investigation or proceeding involving the unlawful diversion or misuse of a controlled substance included in schedule II, III, or IV of section 812(c) of title 21, and such information will further the purpose of the investigation or assist in the proceeding;
 
 &emsp;&emsp;(C) the controlled substance monitoring program of another State or group of States with whom the State has established an interoperability agreement;
 
-&emsp;&emsp;(D) any agent of the Department of Health and Human Services, a State medicaid program, a State health department, or the Drug Enforcement Administration who certifies that the requested information is necessary for research to be conducted by such department, program, or administration, respectively, and the intended purpose of the research is related to a function committed to such department, program, or administration by law that is not investigative in nature; or
+&emsp;&emsp;(D) any agent of the Department of Health and Human Services, a State medicaid program, a State health department, a State substance abuse agency, or the Drug Enforcement Administration who certifies that the requested information is necessary for research to be conducted by such department, program, agency, or administration, respectively, and the intended purpose of the research is related to a function committed to such department, program, agency, or administration by law that is not investigative in nature; or
 
 &emsp;&emsp;(E) an agent of the State agency or entity of another State that is responsible for the establishment and maintenance of that State's controlled substance monitoring program, who certifies that—
 
@@ -154,25 +168,45 @@ In implementing or improving a controlled substance monitoring program under thi
 
 #### (2) Drug diversion
 
-&emsp;In consultation with practitioners, dispensers, and other relevant and interested stakeholders, a State receiving a grant under subsection (a) of this section—
+&emsp;In consultation with practitioners, dispensers, and other relevant and interested stakeholders, a State receiving a grant under subsection (a)—
 
 &emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of information that will help identify and prevent the unlawful diversion or misuse of controlled substances; and
 
-&emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the database maintained by the State under subsection (e) of this section indicates an unlawful diversion or abuse of a controlled substance.
+&emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the database maintained by the State under subsection (e) indicates an unlawful diversion or abuse of a controlled substance.
+
+#### (3) Evaluation and reporting
+
+&emsp;Subject to subsection (g), a State receiving a grant under subsection (a) shall provide the Secretary with aggregate data to enable the Secretary—
+
+&emsp;&emsp;(A) to evaluate the success of the State's program in achieving its purposes; or
+
+&emsp;&emsp;(B) to prepare and submit the report to Congress required by subsection (k)(2).
+
+#### (4) Research by other entities
+
+&emsp;A department, program, agency, or administration receiving nonidentifiable information under paragraph (1)(D) may make such information available to other entities for research purposes.
 
 #### (g) Limitations
 
-In implementing or improving a controlled substance monitoring program under this section, a State—
+In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State—
 
-&emsp;(1) shall limit the information provided pursuant to a valid request under subsection (f)(1) of this section to the minimum necessary to accomplish the intended purpose of the request; and
+&emsp;(1) shall limit the information provided pursuant to a valid request under subsection (f)(1) to the minimum necessary to accomplish the intended purpose of the request; and
 
-&emsp;(2) shall limit information provided in response to a request under subsection (f)(1)(D) of this section to nonidentifiable information.
+&emsp;(2) shall limit information provided in response to a request under subsection (f)(1)(D) to nonidentifiable information.
 
-#### (h) Electronic format
+#### (h) Education and access to the monitoring system
+
+A State receiving a grant under subsection (a) shall take steps to—
+
+&emsp;(1) facilitate prescriber and dispenser use of the State's controlled substance monitoring system, to the extent practicable; and
+
+&emsp;(2) educate prescribers and dispensers on the benefits of the system.
+
+#### (i) Electronic format
 
 The Secretary shall specify a uniform electronic format for the reporting, sharing, and disclosure of information under this section.
 
-#### (i) Rules of construction
+#### (j) Rules of construction
 
 #### (1) Functions otherwise authorized by law
 
@@ -194,7 +228,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 &emsp;Nothing in this section shall be construed to create a Federal private cause of action.
 
-#### (j) Studies and reports
+#### (k) Studies and reports
 
 #### (1) Implementation report
 
@@ -210,7 +244,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 #### (B) Additional categories of exclusion
 
-&emsp;&emsp;If the Secretary determines under subparagraph (A) that a substantial negative impact has been demonstrated with regard to one or more of the categories of patients described in such subparagraph, the Secretary shall identify additional appropriate categories of exclusion from reporting as authorized under subsection (d)(2)(C) of this section.
+&emsp;&emsp;If the Secretary determines under subparagraph (A) that a substantial negative impact has been demonstrated with regard to one or more of the categories of patients described in such subparagraph, the Secretary shall identify additional appropriate categories of exclusion from reporting as authorized under subsection (d)(2)(C).
 
 #### (2) Progress report
 
@@ -220,9 +254,9 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 &emsp;&emsp;&emsp;(i) determines the progress of States in establishing and implementing controlled substance monitoring programs under this section;
 
-&emsp;&emsp;&emsp;(ii) provides an analysis of the extent to which the operation of controlled substance monitoring programs have reduced inappropriate use, abuse, or diversion of controlled substances or affected patient access to appropriate pain care in States operating such programs;
+&emsp;&emsp;&emsp;(ii) provides an analysis of the extent to which the operation of controlled substance monitoring programs have reduced inappropriate use, abuse, or diversion of controlled substances, established or strengthened initiatives to ensure linkages to substance use disorder services, or affected patient access to appropriate pain care in States operating such programs;
 
-&emsp;&emsp;&emsp;(iii) determines the progress of States in achieving interoperability between controlled substance monitoring programs, including an assessment of technical and legal barriers to such activities and recommendations for addressing these barriers;
+&emsp;&emsp;&emsp;(iii) determines the progress of States in achieving interoperability between controlled substance monitoring programs, and between controlled substance monitoring programs and health information technology systems, including an assessment of technical and legal barriers to such activities and recommendations for addressing these barriers;
 
 &emsp;&emsp;&emsp;(iv) determines the feasibility of implementing a real-time electronic controlled substance monitoring program, including the costs associated with establishing such a program;
 
@@ -234,15 +268,11 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 &emsp;&emsp;(B) submit a report to the Congress on the results of the study.
 
-#### (k) Preference
-
-Beginning 3 years after the date on which funds are first appropriated to carry out this section, the Secretary, in awarding any competitive grant that is related to drug abuse (as determined by the Secretary) and for which only States are eligible to apply, shall give preference to any State with an application approved under this section. The Secretary shall have the discretion to apply such preference to States with existing controlled substance monitoring programs that meet minimum requirements under this section or to States that put forth a good faith effort to meet those requirements (as determined by the Secretary).
-
 #### (l) Advisory council
 
 #### (1) Establishment
 
-&emsp;A State may establish an advisory council to assist in the establishment, implementation, or improvement of a controlled substance monitoring program under this section.
+&emsp;A State may establish an advisory council to assist in the establishment, improvement, or maintenance of a controlled substance monitoring program under this section.
 
 #### (2) Limitation
 
@@ -264,37 +294,89 @@ For purposes of this section:
 
 &emsp;(4) The term "dispenser" means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 
-&emsp;(5) The term "interoperability" with respect to a State controlled substance monitoringprogram means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
+&emsp;(5) The term "interoperability" with respect to a State controlled substance monitoring program means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d), with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
 
 &emsp;(6) The term "nonidentifiable information" means information that does not identify a practitioner, dispenser, or an ultimate user and with respect to which there is no reasonable basis to believe that the information can be used to identify a practitioner, dispenser, or an ultimate user.
 
 &emsp;(7) The term "practitioner" means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he or she practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
 
-&emsp;(8) The term "State" means each of the 50 States and the District of Columbia.
+&emsp;(8) The term "State" means each of the 50 States, the District of Columbia, and any commonwealth or territory of the United States.
 
 &emsp;(9) The term "ultimate user" means a person who has obtained from a dispenser, and who possesses, a controlled substance for his or her own use, for the use of a member of his or her household, or for the use of an animal owned by him or her or by a member of his or her household.
 
 #### (n) Authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated—
+To carry out this section, there are authorized to be appropriated, $10,000,000 for each of fiscal years 2017 through 2021.
 
-&emsp;(1) $15,000,000 for each of fiscal years 2006 and 2007; and
-
-&emsp;(2) $10,000,000 for each of fiscal years 2008, 2009, and 2010.
-
-(July 1, 1944, ch. 373, title III, §399O, as added Pub. L. 109–60, §3, Aug. 11, 2005, 119 Stat. 1979.)
+(July 1, 1944, ch. 373, title III, §399O, as added Pub. L. 109–60, §3, Aug. 11, 2005, 119 Stat. 1979; amended Pub. L. 114–198, title I, §109(b), July 22, 2016, 130 Stat. 706.)
 
 #### References in Text
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(4), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (j)(4), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 #### Codification
 
 Another section 399O of act July 1, 1944, was renumbered section 399P and is classified to section 280g–4 of this title.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–198, §109(b)(1)(A), inserted ", in consultation with the Administrator of the Substance Abuse and Mental Health Services Administration and Director of the Centers for Disease Control and Prevention," after "the Secretary" in introductory provisions.
+
+Subsec. (a)(1)(C). Pub. L. 114–198, §109(b)(1)(B)–(D), added subpar. (C).
+
+Subsec. (b). Pub. L. 114–198, §109(b)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Prior to awarding a grant under this section, and not later than 6 months after the date on which funds are first appropriated to carry out this section, after seeking consultation with States and other interested parties, the Secretary shall, after publishing in the Federal Register proposed minimum requirements and receiving public comments, establish minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A) of this section."
+
+Subsec. (c)(1)(A)(iv). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for "subsection (h)".
+
+Subsec. (c)(1)(B). Pub. L. 114–198, §109(b)(3)(A)(i), substituted "(a)(1)(B) or (a)(1)(C)" for "(a)(1)(B)" in introductory provisions.
+
+Subsec. (c)(1)(B)(i). Pub. L. 114–198, §109(b)(3)(A)(ii), substituted "program to be improved or maintained" for "program to be improved".
+
+Subsec. (c)(1)(B)(iii). Pub. L. 114–198, §109(b)(3)(A)(iv), added cl. (iii). Former cl. (iii) redesignated (iv).
+
+Subsec. (c)(1)(B)(iv). Pub. L. 114–198, §109(b)(3)(A)(iii), (v), redesignated cl. (iii) as (iv) and substituted "and at least one health information technology system such as electronic health records, health information exchanges, or e-prescribing systems;" for "; and". Former cl. (iv) redesignated (v).
+
+Subsec. (c)(1)(B)(v). Pub. L. 114–198, §109(b)(3)(A)(iii), (vi), redesignated cl. (iv) as (v) and substituted "public health or safety in such State; and" for "public health in such State."
+
+Subsec. (c)(1)(B)(vi). Pub. L. 114–198, §109(b)(3)(A)(vii), added cl. (vi).
+
+Subsec. (c)(3). Pub. L. 114–198, §109(b)(3)(B), designated existing provisions as subpar. (A) and inserted heading, inserted before period at end "and include timelines for full implementation of such interoperability. The State shall also describe the manner in which it will achieve interoperability between its monitoring program and health information technology systems, as allowable under State law, and includetimelines for the implementation of such interoperability", and added subpar. (B).
+
+Subsec. (c)(5). Pub. L. 114–198, §109(b)(3)(C), substituted "establish, improve, or maintain" for "implement or improve" and inserted at end "The Secretary shall redistribute any funds that are so returned among the remaining grantees under this section in accordance with the formula described in subsection (a)(2)(B)."
+
+Subsec. (d). Pub. L. 114–198, §109(b)(4)(A), in introductory provisions, substituted "In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subparagraph (B) or (C) of subsection (a)(1)" for "In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B)" and "public health or safety" for "public health".
+
+Subsec. (d)(4). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for "subsection (h)".
+
+Subsec. (d)(5). Pub. L. 114–198, §109(b)(4)(B), added par. (5).
+
+Subsecs. (e), (f)(1). Pub. L. 114–198, §109(b)(5), substituted "establishing, improving, or maintaining" for "implementing or improving" in introductory provisions.
+
+Subsec. (f)(1)(B). Pub. L. 114–198, §109(b)(6)(A)(i), substituted "misuse of a controlled substance included in schedule II, III, or IV of section 812(c) of title 21" for "misuse of a schedule II, III, or IV substance".
+
+Subsec. (f)(1)(D). Pub. L. 114–198, §109(b)(6)(A)(ii), inserted "a State substance abuse agency," after "State health department," and substituted "such department, program, agency, or administration" for "such department, program, or administration" in two places.
+
+Subsec. (f)(3), (4). Pub. L. 114–198, §109(b)(6)(B), added pars. (3) and (4).
+
+Subsec. (g). Pub. L. 114–198, §109(b)(5), substituted "establishing, improving, or maintaining" for "implementing or improving" in introductory provisions.
+
+Subsecs. (h) to (j). Pub. L. 114–198, §109(b)(8), (10), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 114–198, §109(b)(7), (8), redesignated subsec. (j) as (k) and struck out former subsec. (k). Prior to amendment, text of subsec. (k) read as follows: "Beginning 3 years after the date on which funds are first appropriated to carry out this section, the Secretary, in awarding any competitive grant that is related to drug abuse (as determined by the Secretary) and for which only States are eligible to apply, shall give preference to any State with an application approved under this section. The Secretary shall have the discretion to apply such preference to States with existing controlled substance monitoring programs that meet minimum requirements under this section or to States that put forth a good faith effort to meet those requirements (as determined by the Secretary)."
+
+Subsec. (k)(2)(A)(ii). Pub. L. 114–198, §109(b)(11)(A), substituted ", established or strengthened initiatives to ensure linkages to substance use disorder services, or affected" for "or affected".
+
+Subsec. (k)(2)(A)(iii). Pub. L. 114–198, §109(b)(11)(B), substituted "and between controlled substance monitoring programs and health information technology systems, including an assessment" for "including an assessment".
+
+Subsec. (l)(1). Pub. L. 114–198, §109(b)(12), substituted "establishment, improvement, or maintenance" for "establishment, implementation, or improvement".
+
+Subsec. (m)(8). Pub. L. 114–198, §109(b)(13), substituted ", the District of Columbia, and any commonwealth or territory of the United States" for "and the District of Columbia".
+
+Subsec. (n). Pub. L. 114–198, §109(b)(14), amended subsec. (n) generally. Prior to amendment, subsec. (n) authorized appropriations for fiscal years 2006 to 2010.
+
 #### Purpose
 
-Pub. L. 109–60, §2, Aug. 11, 2005, 119 Stat. 1979, provided that: "It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
+Pub. L. 109–60, §2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114–198, title I, §109(a), July 22, 2016, 130 Stat. 706, provided that: "It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
 
 &emsp;"(1) foster the establishment of State-administered controlled substance monitoring systems in order to ensure that health care providers have access to the accurate, timely prescription history information that they may use as a tool for the early identification of patients at risk for addiction in order to initiate appropriate medical interventions and avert the tragic personal, family, and community consequences of untreated addiction; and
 

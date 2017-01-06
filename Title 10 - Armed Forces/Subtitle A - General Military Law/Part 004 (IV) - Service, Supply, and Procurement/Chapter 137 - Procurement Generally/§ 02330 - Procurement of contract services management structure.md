@@ -90,6 +90,18 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after "a task order".
 
+#### Modernization of Services Acquisition
+
+Pub. L. 114–328, div. A, title VIII, §803(a), Dec. 23, 2016, 130 Stat. 2249, provided that:
+
+"(a)
+
+Review of Services Acquisition Categories.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall review and, if necessary, revise Department of Defense Instruction 5000.74, dated January 5, 2016 (in this section referred to as the 'Acquisition of Services Instruction'), and other guidance pertaining to the acquisition of services. In conducting the review, the Secretary shall examine—
+
+&emsp;"(1) how the acquisition community should consider the changing nature of the technology and professional services markets, particularly the convergence of hardware and services; and
+
+&emsp;"(2) the services acquisition portfolio groups referenced in the Acquisition of Services Instruction and other guidance in order to ensure the portfoliogroups are fully reflective of changes to the technology and professional services market."
+
 #### Examination and Guidance Relating to Oversight and Approval of Services Contracts
 
 Pub. L. 114–92, div. A, title VIII, §882, Nov. 25, 2015, 129 Stat. 942, provided that: "Not later than March 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
@@ -118,7 +130,7 @@ Elements.—The plan developed pursuant to subsection (a) shall include, to the 
 
 &emsp;"(4) Formal certification and training requirements for services acquisition personnel, consistent with the requirements of sections 1723 and 1724 of title 10, United States Code.
 
-&emsp;"(5) Appropriate emphasis on the recruiting and training of services acquisition personnel, consistent with the strategic workforce plan developed pursuant to section 115b of title 10, United States Code, and the funds available through the Department of Defense Acquisition Workforce Development Fund established pursuant to section 1705 of title 10, United States Code.
+&emsp;"(5) Appropriate emphasis on the recruiting and training of services acquisition personnel, consistent with the strategic workforce plan developed pursuant to \[former\] section 115b of title 10, United States Code, and the funds available through the Department of Defense Acquisition Workforce Development Fund established pursuant to section 1705 of title 10, United States Code.
 
 &emsp;"(6) Policies and guidance on career development for services acquisition personnel, consistent with the requirements of sections 1722a and 1722b of title 10, United States Code.
 
@@ -182,7 +194,7 @@ Implementation Plans Required.—The Secretary shall ensure that an implementati
 
 "(e)
 
-Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
+Matters Required in Implementation Plan.—Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements forthe acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
 
 "(f)
 
@@ -262,7 +274,7 @@ Guidance and Instructions.—Not later than 180 days after the date of the enact
 
 &emsp;"(4) the staffing of contract management and oversight functions; and
 
-&emsp;"(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of theJohn Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
+&emsp;"(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
 
 "(b)
 
@@ -364,7 +376,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'senior procurement executive' means the official designated as the senior procurement executive under section 1702(c) of title 41, United States Code.
 
-&emsp;"(2) The term 'performance-based', with respect to a contract or a task order means that the contract ortask order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
+&emsp;"(2) The term 'performance-based', with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
 
 #### Performance Goals for Procurements of Services
 
@@ -382,7 +394,7 @@ Goals.—(1) It shall be an objective of the Department of Defense to achieve ef
 
 "(2) In furtherance of such objective, the Department of Defense shall have the following goals:
 
-&emsp;"(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
+&emsp;"(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollarvalue), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
 
 &emsp;&emsp;"(i) For fiscal year 2003, a percentage not less than 40 percent.
 

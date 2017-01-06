@@ -26,7 +26,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (b) Violations of this subchapter deemed violations of pre-existing statutory requirements; additional agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In additionto its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
 
 #### (c) Overall enforcement authority of the Federal Trade Commission
 
@@ -44,7 +44,7 @@ The authority of the Bureau to issue regulations under this subchapter does not 
 
 &emsp;(A) resulted from an error involving the disclosure of a fee or charge that would otherwise be excludable in computing the finance charge, including but not limited to violations involving the disclosures described in sections 1605(b), (c) and (d) of this title, in which event the agency may require such remedial action as it determines to be equitable, except that for transactions consummated after two years after March 31, 1980, such an adjustment shall be ordered for violations of section 1605(b) of this title;
 
-&emsp;(B) involved a disclosed amount which was 10 per centum or less of the amount thatshould have been disclosed and (i) in cases where the error involved a disclosed finance charge, the annual percentage rate was disclosed correctly, and (ii) in cases where the error involved a disclosed annual percentage rate, the finance charge was disclosed correctly; in which event the agency may require such adjustment as it determines to be equitable;
+&emsp;(B) involved a disclosed amount which was 10 per centum or less of the amount that should have been disclosed and (i) in cases where the error involved a disclosed finance charge, the annual percentage rate was disclosed correctly, and (ii) in cases where the error involved a disclosed annual percentage rate, the finance charge was disclosed correctly; in which event the agency may require such adjustment as it determines to be equitable;
 
 &emsp;(C) involved a total failure to disclose either the annual percentage rate or the finance charge, in which event the agency may require such adjustment as it determines to be equitable; or
 
@@ -54,7 +54,7 @@ The authority of the Bureau to issue regulations under this subchapter does not 
 
 (3) Notwithstanding paragraph (2), no adjustment shall be ordered—
 
-&emsp;(A) if it would have a significantly adverse impact upon the safety or soundness of the creditor, but in any such case, the agency may—
+&emsp;(A) if it would have a significantly adverse impact upon the safety or soundness of thecreditor, but in any such case, the agency may—
 
 &emsp;&emsp;(i) require a partial adjustment in an amount which does not have such an impact; or
 
@@ -80,7 +80,7 @@ The authority of the Bureau to issue regulations under this subchapter does not 
 
 (7) Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii), each agency referred to in subsection (a) or (c) shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to section 1606(c) of this title, with respect to any transaction consummated between January 1, 1977, and March 31, 1980.
 
-(Pub. L. 90–321, title I, §108, May 29, 1968, 82 Stat. 150; Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 93–495, title IV, §403, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 96–221, title VI, §608(a), (c), Mar. 21, 1980, 94 Stat. 171, 173; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(k), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(b), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title XVI, §1604(a)(5), Oct. 28, 1992, 106 Stat. 4082; Pub. L.104–208, div. A, title II, §2106, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, §1100A(2), (8), title XIV, §1414(b), July 21, 2010, 124 Stat. 2107, 2108, 2152.)
+(Pub. L. 90–321, title I, §108, May 29, 1968, 82 Stat. 150; Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 93–495, title IV, §403, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 96–221, title VI, §608(a), (c), Mar. 21, 1980, 94 Stat. 171, 173; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(k), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(b), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title XVI, §1604(a)(5), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–208, div. A, title II, §2106, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 111–203, title X, §1100A(2), (8), title XIV, §1414(b), July 21, 2010, 124 Stat. 2107, 2108, 2152.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 #### Transfer of Functions
 
-"National Credit Union Administration Board" substituted for "Director of the Bureau of Federal Credit Unions" in subsec. (a)(3) pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
+"National Credit Union Administration Board" substituted for "Director of the Bureau of Federal CreditUnions" in subsec. (a)(3) pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "if".</i>
 

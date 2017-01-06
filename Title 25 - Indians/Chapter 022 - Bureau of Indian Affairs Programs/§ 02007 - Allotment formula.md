@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 #### (1) In general
 
-&emsp;The Secretary shall reserve from the funds available for distribution for each fiscal year under this section an amount that, in the aggregate, equals 1 percent of the funds available for such purpose for that fiscal year, to be used, at the discretion of the Director of the Office of Indian Education Programs, to meet emergencies and unforeseen contingencies affecting the education programs funded under this section.
+&emsp;The Secretary shall reserve from the funds available for distribution for each fiscal yearunder this section an amount that, in the aggregate, equals 1 percent of the funds available for such purpose for that fiscal year, to be used, at the discretion of the Director of the Office of Indian Education Programs, to meet emergencies and unforeseen contingencies affecting the education programs funded under this section.
 
 #### (2) Use of funds
 
@@ -144,7 +144,7 @@ In this section, the term "eligible Indian student" means a student who—
 
 #### (1) In general
 
-&emsp;No eligible Indian student or a student attending a Bureau school under paragraph\(2)(C) may be charged tuition for attendance at a Bureau school or contract or grant school.
+&emsp;No eligible Indian student or a student attending a Bureau school under paragraph (2)(C) may be charged tuition for attendance at a Bureau school or contract or grant school.
 
 #### (2) Attendance of non-Indian students at Bureau schools
 

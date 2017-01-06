@@ -32,7 +32,7 @@ Provisions similar to those comprising this section were contained in section 4 
 
 #### References to United States Enrichment Corporation
 
-References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
+References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 
 #### Isotope Production and Distribution Program Fund
 

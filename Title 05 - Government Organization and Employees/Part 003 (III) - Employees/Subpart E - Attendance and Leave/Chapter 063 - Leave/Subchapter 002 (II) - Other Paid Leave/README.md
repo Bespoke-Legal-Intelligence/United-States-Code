@@ -14,3 +14,6 @@
 - [&sect; 06327 - Absence in connection with serving as a bone-marrow or organ donor](%C2%A7%2006327%20-%20Absence%20in%20connection%20with%20serving%20as%20a%20bone-marrow%20or%20organ%20donor.md)
 - [&sect; 06328 - Absence in connection with funerals of fellow Federal law enforcement officers](%C2%A7%2006328%20-%20Absence%20in%20connection%20with%20funerals%20of%20fellow%20Federal%20law%20enforcement%20officers.md)
 - [&sect; 06329 - Disabled veteran leave](%C2%A7%2006329%20-%20Disabled%20veteran%20leave.md)
+- [&sect; 06329a - Administrative leave](%C2%A7%2006329a%20-%20Administrative%20leave.md)
+- [&sect; 06329b - Investigative leave and notice leave](%C2%A7%2006329b%20-%20Investigative%20leave%20and%20notice%20leave.md)
+- [&sect; 06329c - Weather and safety leave](%C2%A7%2006329c%20-%20Weather%20and%20safety%20leave.md)

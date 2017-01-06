@@ -24,7 +24,7 @@
 
 &emsp;A local educational agency is eligible for assistance under this subsection for a fiscal year if—
 
-&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) of this section for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
+&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
 
 &emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
 
@@ -40,7 +40,7 @@
 
 #### (A) Pro rata distribution
 
-&emsp;&emsp;The amount of the assistance provided under this subsection to a local educational agency that is eligible for such assistance for a fiscal year shall be equal to the product obtained by multiplying—
+&emsp;&emsp;The amount of the assistance provided under this subsection to a local educationalagency that is eligible for such assistance for a fiscal year shall be equal to the product obtained by multiplying—
 
 &emsp;&emsp;&emsp;(i) the per-student rate determined under subparagraph (B) for that fiscal year; by
 
@@ -66,13 +66,13 @@
 
 Not later than June 30, 2006, and June 30 of each fiscal year thereafter for which funds are made available to carry out this section, the Secretary of Defense shall notify each local educational agency that is eligible for assistance under this section for that fiscal year of—
 
-&emsp;(1) the eligibility of the local educational agency for the assistance, including whether the agency is eligible for assistance under either subsection (a) or (b) of this section or both subsections; and
+&emsp;(1) the eligibility of the local educational agency for the assistance, including whether the agency is eligible for assistance under either subsection (a) or (b) or both subsections; and
 
 &emsp;(2) the amount of the assistance for which the local educational agency is eligible.
 
 #### (d) Disbursement of funds
 
-The Secretary of Defense shall disburse assistance made available under this section for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (c) of this section for that fiscal year.
+The Secretary of Defense shall disburse assistance made available under this section for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (c) for that fiscal year.
 
 #### (e) Definitions
 
@@ -124,7 +124,13 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
 
-Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, §573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, \[div. A\], title V, §553, Oct. 14, 2008, 122 Stat. 4469; Pub. L. 112–81, div. A, title V, §573, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–92, div. A, title X, §1072(h), Nov. 25, 2015, 129 Stat. 995, provided that:
+Pub. L. 114–328, div. A, title V, §572(b), Dec. 23, 2016, 130 Stat. 2141, provided that: "The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) that includes a request for the extension of section 574(c) of the John Warner National DefenseAuthorization Act for Fiscal Year 2007 \[section 574(c) of Pub. L. 109–364, set out below\] shall include the following:
+
+&emsp;"(1) A full accounting of the expenditure of funds pursuant to such section 574(c) during the last fiscal year ending before the date of the submittal of the budget.
+
+&emsp;"(2) An assessment of the impact of the expenditure of such funds on the quality of opportunities for elementary and secondary education made available for military dependent students."
+
+Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, §573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, \[div. A\], title V, §553, Oct. 14, 2008, 122 Stat. 4469; Pub. L. 112–81, div. A, title V, §573, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–92, div. A, title X, §1072(h), Nov. 25, 2015, 129 Stat. 995; Pub. L. 114–328, div. A, title V, §572(a), Dec. 23, 2016, 130 Stat. 2141, provided that:
 
 "(a)
 
@@ -174,7 +180,7 @@ Transition of Military Dependents Among Local Educational Agencies.—(1) The Se
 
 &emsp;&emsp;"(vi) Other appropriate services to improve the academic achievement of such students.
 
-"(3) The authority provided by this subsection expires September 30, 2016.
+"(3) The authority provided by this subsection expires September 30, 2017.
 
 "(d)
 

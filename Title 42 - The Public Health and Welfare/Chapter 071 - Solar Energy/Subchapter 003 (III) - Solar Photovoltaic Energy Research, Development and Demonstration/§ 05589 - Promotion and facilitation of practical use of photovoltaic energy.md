@@ -12,7 +12,7 @@ The Secretary shall—
 
 &emsp;(2) study and investigate the effect of utility rate structures, building codes, zoning ordinances, and other laws, codes, ordinances, and practices upon the practical use of photovoltaic systems;
 
-&emsp;(3) determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use and the methods by which any such changes may best be accomplished; and
+&emsp;(3) determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use andthe methods by which any such changes may best be accomplished; and
 
 &emsp;(4) determine the necessity of a program of incentives to accelerate the commercial application of photovoltaic technologies.
 

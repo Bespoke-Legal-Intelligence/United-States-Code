@@ -16,7 +16,7 @@ The Secretary shall vest in the Assistant Secretary for Indian Affairs all funct
 
 #### (c) Inherent Federal function
 
-For purposes of this Act, all functions relating to education that are located at the Area or Agency level and performed by an education line officer shall be subject to contract under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], unless determined by the Secretary to be inherently Federal functions as defined in section 2021(12) of this title.
+For purposes of this Act, all functions relating to education that are located at the Area or Agency level and performed by an education line officer shall be subject to contract under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\], unless determined by the Secretary to be inherently Federal functions as defined in section 2021(12) of this title.
 
 #### (d) Evaluation of programs; services and support functions; technical and coordinating assistance
 
@@ -44,7 +44,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 #### (A) Establishment
 
-&emsp;&emsp;The Assistant Secretary shall establish a program, including the distribution of appropriated funds, for the operation and maintenance of education facilities. Such program shall include—
+&emsp;&emsp;The Assistant Secretary shall establish a program, including the distribution of appropriated funds, for the operation andmaintenance of education facilities. Such program shall include—
 
 &emsp;&emsp;&emsp;(i) a method of computing the amount necessary for each educational facility;
 
@@ -72,7 +72,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 #### (2) Monitoring and reports
 
-&emsp;Except as provided in paragraph (3), in a case in which a Bureau-operated educationprogram is the beneficiary of such a gift or bequest, the Director shall—
+&emsp;Except as provided in paragraph (3), in a case in which a Bureau-operated education program is the beneficiary of such a gift or bequest, the Director shall—
 
 &emsp;&emsp;(A) make provisions for monitoring use of the gift or bequest; and
 
@@ -92,7 +92,7 @@ For the purpose of this section, the term "functions" includes powers and duties
 
 This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Prior Provisions
 

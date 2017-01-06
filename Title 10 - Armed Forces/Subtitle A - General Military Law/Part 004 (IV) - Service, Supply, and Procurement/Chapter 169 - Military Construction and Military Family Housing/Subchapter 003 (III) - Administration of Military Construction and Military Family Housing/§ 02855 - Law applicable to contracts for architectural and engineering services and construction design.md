@@ -22,7 +22,7 @@ The Small Business Act, referred to in subsec. (b)(1)(B), is Pub. L. 85–536, �
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 substituted "$300,000" for "$85,000".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "chapter 11 of title 40" for "title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)".
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "chapter 11 of title 40" for "title IX of the Federal Property andAdministrative Services Act of 1949 (40 U.S.C. 541 et seq.)".
 
 <b>1984</b>—Pub. L. 98–407 designated existing provisions as subsec. (a) and added subsec. (b).
 

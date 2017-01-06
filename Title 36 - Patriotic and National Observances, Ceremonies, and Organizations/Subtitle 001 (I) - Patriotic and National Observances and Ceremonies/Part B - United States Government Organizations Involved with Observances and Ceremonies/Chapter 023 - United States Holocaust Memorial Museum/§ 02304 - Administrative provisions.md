@@ -10,7 +10,7 @@ Authority To Contract.—The Museum may, in accordance with applicable law, ente
 
 (c)
 
-Assistance From Other Federal Departments and Agencies.—The Secretary of theSmithsonian Institution, the Library of Congress, and the heads of all executive branch departments, agencies, and establishments of the United States may assist the Museum in the performance of its functions under this chapter.
+Assistance From Other Federal Departments and Agencies.—The Secretary of the Smithsonian Institution, the Library of Congress, and the heads of all executive branch departments, agencies, and establishments of the United States may assist the Museum in the performance of its functions under this chapter.
 
 (d)
 

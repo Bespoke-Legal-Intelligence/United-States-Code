@@ -6,19 +6,19 @@ The Secretary shall provide for the conduct of a study of facilities available f
 
 &emsp;(1) on which structurally sound buildings suitable for use as educational facilities are located, and
 
-&emsp;(2) which is available for use by tribally controlled colleges or universities under section 523 of title 40 and section 443a of this title.
+&emsp;(2) which is available for use by tribally controlled colleges or universities under section 523 of title 40 and under the Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a).<sup>1</sup>
 
 #### (b) Renovation program
 
-The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations, repairs, and reconstruction identified pursuant to subsection (a) of this section.
+The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations,repairs, and reconstruction identified pursuant to subsection (a) of this section.
 
 #### (c) Determination and prioritization of construction and renovation needs
 
-(1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
+(1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act.
 
 (2) An organization described in this section is any organization that—
 
-&emsp;(A) is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
+&emsp;(A) is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]; and
 
 &emsp;(B) has demonstrated expertise in areas and issues dealing with tribally controlled colleges or universities.
 
@@ -32,9 +32,11 @@ For the purposes of this section, the term "reconstruction" has the meaning prov
 
 #### References in Text
 
-The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
+The Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a), referred to in subsec. (a)(2), is act Aug. 6, 1956, ch. 979, 70 Stat. 1057, which was formerly classified to section 443a of this title prior to editorial reclassification as a note under section 1457 of Title 43, Public Lands.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application.
+
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 1132e–1 of title 20, referred to in subsec. (d), was omitted in the general revision of subchapter VII (§1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1520. See section 1132i–1 of Title 20.
 

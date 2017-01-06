@@ -18,7 +18,7 @@ Except as authorized by section 2601 of title 10, by section 93 of title 14, or 
 
 Under section 1105 of title 31, the President shall submit to Congress a detailed budget request for the Department for fiscal year 2004, and for each subsequent fiscal year.
 
-(Pub. L. 107–296, title VIII, §873, Nov. 25, 2002, 116 Stat. 2243; Pub. L. 108–7, div. L, §103(3), Feb. 20, 2003, 117 Stat. 529; Pub. L. 111–245, §2(a)(2), Sept. 30, 2010, 124 Stat. 2621.)
+(Pub. L. 107–296, title VIII, §873, Nov. 25, 2002, 116 Stat. 2243; Pub. L. 108–7, div. L, §103(3), Feb. 20,2003, 117 Stat. 529; Pub. L. 111–245, §2(a)(2), Sept. 30, 2010, 124 Stat. 2621.)
 
 #### References in Text
 

@@ -66,6 +66,106 @@ Subsec. (c)(3). Pub. L. 104–201 added par. (3).
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–355 substituted "The Department of Defense" for "military departments of the Department of Defense".
 
+#### Fraud Reduction and Data Analytics
+
+Pub. L. 114–186, June 30, 2016, 130 Stat. 546, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Fraud Reduction and Data Analytics Act of 2015'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act—
+
+&emsp;"(1) the term 'agency' has the meaning given the term in section 551 of title 5, United States Code; and
+
+&emsp;"(2) the term 'improper payment' has the meaning given the term in section 2(g) of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31 U.S.C. 3321 note).
+
+#### "SEC. 3. ESTABLISHMENT OF FINANCIAL AND ADMINISTRATIVE CONTROLS RELATING TO FRAUD AND IMPROPER PAYMENTS.
+
+"(a)
+
+Guidelines.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[June 30, 2016\], the Director of the Office of Management and Budget, in consultation with the Comptroller General of the United States, shall establish guidelines for agencies to establish financial and administrative controls to identify and assess fraud risks and design and implement control activities in order to prevent, detect, and respond to fraud, including improper payments.
+
+&emsp;"(2)
+
+Contents.—The guidelines described in paragraph (1) shall incorporate the leading practices identified in the report published by the Government Accountability Office on July 28, 2015, entitled 'Framework for Managing Fraud Risks in Federal Programs'.
+
+&emsp;"(3)
+
+Modification.—The Director of the Office of Management and Budget, in consultation with the Comptroller General of the United States, may periodically modify the guidelines described in paragraph (1) as the Director and Comptroller General may determine necessary.
+
+"(b)
+
+Requirements for Controls.—The financial and administrative controls required to be established by agencies under subsection (a) shall include—
+
+&emsp;"(1) conducting an evaluation of fraud risks and using a risk-based approach to design and implement financial and administrative control activities to mitigate identified fraud risks;
+
+&emsp;"(2) collecting and analyzing data from reporting mechanisms on detected fraud to monitor fraud trends and using that data and information to continuously improve fraud prevention controls; and
+
+&emsp;"(3) using the results of monitoring, evaluation, audits, and investigations to improve fraud prevention, detection, and response.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), for each of the first 3 fiscal years beginning after the date of enactment of this Act, each agency shall submit to Congress, as part of the annual financial report of the agency, a report on the progress of the agency in—
+
+&emsp;&emsp;"(A) implementing—
+
+&emsp;&emsp;&emsp;"(i) the financial and administrative controls required to be established under subsection (a);
+
+&emsp;&emsp;&emsp;"(ii) the fraud risk principle in the Standards for Internal Control in the Federal Government; and
+
+&emsp;&emsp;&emsp;"(iii) Office of Management and Budget Circular A–123 with respect to the leading practices for managing fraud risk;
+
+&emsp;&emsp;"(B) identifying risks and vulnerabilities to fraud, including with respect to payroll, beneficiary payments, grants, large contracts, and purchase and travel cards; and
+
+&emsp;&emsp;"(C) establishing strategies, procedures, and other steps to curb fraud.
+
+&emsp;"(2)
+
+First report.—If the date of enactment of this Act is less than 180 days before the date on which an agency is required to submit the annual financial report of the agency, the agency may submit the report required under paragraph (1) as part of the following annual financial report of the agency.
+
+#### "SEC. 4. WORKING GROUP.
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[June 30, 2016\], the Office of Management and Budget shall establish a working group to improve—
+
+&emsp;"(1) the sharing of financial and administrative controls established under section 3(a) and other best practices and techniques for detecting, preventing, and responding to fraud, including improper payments; and
+
+&emsp;"(2) the sharing and development of data analytics techniques.
+
+"(b)
+
+Composition.—The working group established under subsection (a) shall be composed of—
+
+&emsp;"(1) the Controller of the Office of Management and Budget, who shall serve as Chairperson;
+
+&emsp;"(2) the Chief Financial Officer of each agency; and
+
+&emsp;"(3) any other party determined to be appropriate by the Director of the Office of Management and Budget, which may include the Chief Information Officer, the Chief Procurement Officer, or the Chief Operating Officer of each agency.
+
+"(c)
+
+Consultation.—The working group established under subsection (a) shall consult with Offices of Inspectors General and Federal and non-Federal experts on fraud risk assessments, financial controls, and other relevant matters.
+
+"(d)
+
+Meetings.—The working group established under subsection (a) shall hold not fewer than 4 meetings per year.
+
+"(e)
+
+Plan.—Not later than 270 days after the date of enactment of this Act, the working group established under subsection (a) shall submit to Congress a plan for the establishment and use of a Federal interagency library of data analytics and data sets, which can incorporate or improve upon existing Federal resources and capacities, for use by agencies and Offices of Inspectors General to facilitate the detection, prevention, and recovery of fraud, including improper payments."
+
 #### Improper Payments Elimination and Recovery Improvement
 
 Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§2–4, Dec. 18, 2015, 129 Stat. 2225–2227, provided that:
@@ -80,7 +180,7 @@ Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67
 
 &emsp;"(1) the term 'agency' means an executive agency as that term is defined under section 102 of title 31, United States Code;
 
-&emsp;"(2) the term 'improper payment' has the meaning given that term in section 2(g) of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31 U.S.C. 3321 note), as redesignated by section 3(a)(1) of this Act; and
+&emsp;"(2) the term 'improper payment' has the meaning given that term in section 2(g) of the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31U.S.C. 3321 note), as redesignated by section 3(a)(1) of this Act; and
 
 &emsp;"(3) the term 'State' means each State of the United States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian tribe.
 
@@ -178,7 +278,7 @@ In general.—For purposes of identifying and preventing improper payments, each
 
 &emsp;&emsp;"(B)
 
-Other entities.—States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments (as defined in section 2(g)(3) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note)) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of theState, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.
+Other entities.—States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments (as defined in section 2(g)(3) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note)) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of the State, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.
 
 &emsp;&emsp;"(C)
 
@@ -290,7 +390,7 @@ Guidance by the office of management and budget.—Not later than 6 months after
 
 &emsp;"(4)
 
-Corrections.—The Director of the Office of Management and Budget shall establish proceduresproviding for the correction of data in order to ensure—
+Corrections.—The Director of the Office of Management and Budget shall establish procedures providing for the correction of data in order to ensure—
 
 &emsp;&emsp;"(A) compliance with section 552a(p) of title 5, United States Code; and
 
@@ -314,7 +414,7 @@ Plan To Curb Federal Improper Payments to Deceased Individuals by Improving the 
 
 &emsp;"(1)
 
-Establishment.—In conjunction with the Commissioner of Social Security and in consultation with relevant stakeholders that have an interest in or responsibility for providing the data, and the States, the Director of the Office of Management and Budget shall establish a plan for improving the quality, accuracy, and timeliness of death data maintained by the Social Security Administration, including death information reported to the Commissioner under section 205(r) of the Social Security Act (42 U.S.C. 405(r)).
+Establishment.—In conjunction with the Commissioner of Social Security and in consultation with relevant stakeholders that have an interest in or responsibility for providing the data, and the States, the Director of the Office of Management and Budget shall establish a plan for improving the quality, accuracy, and timeliness of death data maintained by theSocial Security Administration, including death information reported to the Commissioner under section 205(r) of the Social Security Act (42 U.S.C. 405(r)).
 
 &emsp;"(2)
 
@@ -504,7 +604,7 @@ Use for inspector general activities.—Not more than 5 percent of the amounts c
 
 &emsp;"(E)
 
-Remainder.—Amounts collected that are not applied in accordance with subparagraph (A), (B), (C), or (D) shall be deposited in the Treasury as miscellaneous receipts, except that in the case of recoveries of overpayments that are made from trust orspecial fund accounts, such amounts shall revert to those accounts.
+Remainder.—Amounts collected that are not applied in accordance with subparagraph (A), (B), (C), or (D) shall be deposited in the Treasury as miscellaneous receipts, except that in the case of recoveries of overpayments that are made from trust or special fund accounts, such amounts shall revert to those accounts.
 
 &emsp;"(F)
 
@@ -640,7 +740,7 @@ In general.—If an agency is determined by the Inspector General of that agency
 
 &emsp;&emsp;"(B)
 
-Funding.—In providing additional funding described under subparagraph (A), the head of an agency shall use any reprogramming or transfer authority available to the agency. If after exercisingthat reprogramming or transfer authority additional funding is necessary to obligate the full level of funding determined by the Director of the Office of Management and Budget under subparagraph (A), the agency shall submit a request to Congress for additional reprogramming or transfer authority.
+Funding.—In providing additional funding described under subparagraph (A), the head of an agency shall use any reprogramming or transfer authority available to the agency. If after exercising that reprogramming or transfer authority additional funding is necessary to obligate the full level of funding determined by the Director of the Office of Management and Budget under subparagraph (A), the agency shall submit a request to Congress for additional reprogramming or transfer authority.
 
 &emsp;"(3)
 
@@ -664,7 +764,7 @@ Report.—Not later than 5 years after the date of enactment of this Act \[July 
 
 "(e)
 
-Report on Chief Financial Officers Act of 1990.—Not later than 1 year after the date of the enactment of this Act \[July 22, 2010\], the Chief Financial Officers Council established under section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\] (31 U.S.C. 901 note) and the Council of Inspectors General on Integrity and Efficiency established under section 7 of the Inspector General Reform Act of 2009 \[2008\] (Public Law 110–409) \[see section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], in consultation with a broad cross-section of experts and stakeholders in Government accounting and financial management shall—
+Report on Chief Financial Officers Act of 1990.—Not later than 1 year after the date of the enactment of this Act \[July 22, 2010\], the Chief Financial Officers Council established under section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\] (31 U.S.C.901 note) and the Council of Inspectors General on Integrity and Efficiency established under section 7 of the Inspector General Reform Act of 2009 \[2008\] (Public Law 110–409) \[see section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], in consultation with a broad cross-section of experts and stakeholders in Government accounting and financial management shall—
 
 &emsp;"(1) jointly examine the lessons learned during the first 20 years of implementing the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\] (31 U.S.C. 901) \[see Short Title of 1990 Amendment note set out under section 501 of this title\] and identify reforms or improvements, if any, to the legislative and regulatory compliance framework for Federal financial management that will optimize Federal agency efforts to—
 
@@ -956,7 +1056,7 @@ Information on entities that have received the greatest amount of outstanding im
 
 Sec. 3. <i>Agency Accountability and Coordination</i>.
 
-(a) Within 120 days of the date of this order, the head of each agency responsible for operating a high-priorityprogram shall designate an official who holds an existing Senate-confirmed position to be accountable for meeting the targets established under section 2 of this order without unduly burdening program access and participation by eligible beneficiaries. In those agencies where the majority of payments are isolated to a single component, the head of the agency shall name a second accountable official for that component whose sole responsibility would be for program integrity activities and, as appropriate, shall consolidate and coordinate all program integrity activities within the component.
+(a) Within 120 days of the date of this order, the head of each agency responsible for operating a high-priority program shall designate an official who holds an existing Senate-confirmed position to be accountable for meeting the targets established under section 2 of this order without unduly burdening program access and participation by eligible beneficiaries. In those agencies where the majority of payments are isolated to a single component, the head of the agency shall name a second accountable official for that component whose sole responsibility would be for program integrity activities and, as appropriate, shall consolidate and coordinate all program integrity activities within the component.
 
 (b) Within 180 days of the date of this order, each agency official designated under subsection (a) of this section, or otherwise designated by the Director of OMB, shall provide the agency's Inspector General a report containing:
 
@@ -968,7 +1068,7 @@ Sec. 3. <i>Agency Accountability and Coordination</i>.
 
 Following the receipt and review of this information, the agency Inspector General shall assess the level of risk associated with the applicable programs, determine the extent of oversight warranted, and provide the agency head with recommendations, if any, for modifying the agency's methodology, improper payment reduction plans, or program access and participation plans.
 
-(c) If an agency fails to meet the targets established under section 2 of this order or implement the plan described in subsection (b)(iii) of this section for 2 consecutive years, that agency's accountable official designated under subsection (a) of this section shall submit to the agency head, Inspector General, and Chief Financial Officer a report describing the likely causes of the agency's failure and proposing a remedial plan. The agency head shall review this plan and, in consultation with the Inspector General and Chief Financial Officer, forward the plan with any additional comments and analysis to the Director of OMB.
+(c) If an agency fails to meet the targets established under section 2 of this order or implement the plan described in subsection (b)(iii) of this section for 2 consecutive years, that agency's accountable official designated under subsection (a) of this section shall submit to the agency head, Inspector General, and ChiefFinancial Officer a report describing the likely causes of the agency's failure and proposing a remedial plan. The agency head shall review this plan and, in consultation with the Inspector General and Chief Financial Officer, forward the plan with any additional comments and analysis to the Director of OMB.
 
 (d) Within 180 days of the date of this order, the Chief Financial Officers Council (CFOC) in consultation with the CIGIE, the Department of Justice, and program experts, shall make recommendations to the Director of OMB and the Secretary of the Treasury on actions (including actions related to forensic accounting and audits) agencies should take to more effectively tailor their methodologies for identifying and measuring improper payments to those programs, or components of programs, where improper payments are most likely to occur. Recommendations shall address the manner in which the recommended actions would affect program access and participation by eligible beneficiaries.
 
@@ -1050,11 +1150,11 @@ Memorandum of President of the United States, Mar. 10, 2010, 75 F.R. 12119, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-My Administration is committed to reducing payment errors and eliminating waste, fraud, and abuse in Federal programs—a commitment reflected in Executive Order 13520 of November 20, 2009, Reducing Improper Payments. Executive departments and agenciesshould use every tool available to identify and subsequently reclaim the funds associated with improper payments. Thorough identification of improper payments promotes accountability at executive departments and agencies; it also makes the integrity of Federal spending transparent to taxpayers. Reclaiming the funds associated with improper payments is a critical component of the proper stewardship and protection of taxpayer dollars, and it underscores that waste, fraud, and abuse by entities receiving Federal payments will not be tolerated.
+My Administration is committed to reducing payment errors and eliminating waste, fraud, and abuse in Federal programs—a commitment reflected in Executive Order 13520 of November 20, 2009, Reducing Improper Payments. Executive departments and agencies should use every tool available to identify and subsequently reclaim the funds associated with improper payments. Thorough identification of improper payments promotes accountability at executive departments and agencies; it also makes the integrity of Federal spending transparent to taxpayers. Reclaiming the funds associated with improper payments is a critical component of the proper stewardship and protection of taxpayer dollars, and it underscores that waste, fraud, and abuse by entities receiving Federal payments will not be tolerated.
 
 Today, to further intensify efforts to reclaim improper payments, my Administration is expanding the use of "Payment Recapture Audits," which have proven to be effective mechanisms for detecting and recapturing payment errors. A Payment Recapture Audit is a process of identifying improper payments paid to contractors or other entities whereby highly skilled accounting specialists and fraud examiners use state-of-the-art tools and technology to examine payment records and uncover such problems as duplicate payments, payments for services not rendered, overpayments, and fictitious vendors. (A Payment Recapture Audit as used in this memorandum shall have the same meaning as the term "recovery audit" as defined in Appendix C to Office of Management and Budget Circular A-123.) One approach that has worked effectively is using professional and specialized auditors on a contingency basis, with their compensation tied to the identification of misspent funds.
 
-Therefore, I hereby direct executive departments and agencies to expand their use of Payment Recapture Audits, to the extent permitted by law and where cost-effective. The Director of the Office of Management and Budget (OMB) shall develop guidance within 90 days of the date of this memorandum on actions executive departments and agencies must take to carry out the requirements of this memorandum. The guidance may require additional actions and strategies designed to improve the recapture of improper payments, including, as appropriate, agency-specific targets for increasing recoveries. The Director of the OMB shall further coordinate with the Council for Inspectors General on Integrity and Efficiency to identify an appropriate process for obtaining review by Inspectors General of the effectiveness of agency efforts under this memorandum. The agencies' expanded use of Payment Recapture Audits does not preclude Offices of Inspectors General from performing any activities to identify and prevent improper payments.
+Therefore, I hereby direct executive departments and agencies to expand their use of Payment Recapture Audits, to the extent permitted by law and where cost-effective. The Director of the Office of Management and Budget (OMB) shall develop guidance within 90 days of the date of this memorandum on actions executive departments and agencies must take to carry out the requirements of this memorandum. The guidance may require additional actions and strategies designed to improve the recapture of improper payments, including, as appropriate, agency-specific targets for increasingrecoveries. The Director of the OMB shall further coordinate with the Council for Inspectors General on Integrity and Efficiency to identify an appropriate process for obtaining review by Inspectors General of the effectiveness of agency efforts under this memorandum. The agencies' expanded use of Payment Recapture Audits does not preclude Offices of Inspectors General from performing any activities to identify and prevent improper payments.
 
 Nothing in this memorandum shall be construed to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interests of national security.
 

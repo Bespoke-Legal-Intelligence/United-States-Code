@@ -66,7 +66,7 @@ If more than 1 person is liable for the penalty under subsection (a) with respec
 
 #### (e) Exception for voluntary board members of tax-exempt organizations
 
-No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of any boardof trustees or directors of an organization exempt from tax under subtitle A if such member—
+No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of any board of trustees or directors of an organization exempt from tax under subtitle A if such member—
 
 &emsp;(1) is solely serving in an honorary capacity,
 

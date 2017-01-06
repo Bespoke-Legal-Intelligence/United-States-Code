@@ -1,0 +1,6 @@
+### §768. Omitted
+
+#### Codification
+
+Section, Pub. L. 96–227, §9, Apr. 3, 1980, 94 Stat. 322, which authorized the Secretary of the Interior to make rules and regulations necessary to carry out the purposes of this subchapter, was omitted from the Code as being of special and not general application.
+

@@ -10,7 +10,7 @@
 
 &emsp;Not later than 18 months after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
 
-&emsp;&emsp;(A) the needs of the Service, tribal health care facilities, and urban Indian health carefacilities with respect to the prescription drug monitoring program under paragraph (1);
+&emsp;&emsp;(A) the needs of the Service, tribal health care facilities, and urban Indian health care facilities with respect to the prescription drug monitoring program under paragraph (1);
 
 &emsp;&emsp;(B) the planned development of that program, including any relevant statutory or administrative limitations; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Selection
 
-(1) The Secretary, in consultation with the Secretary of Transportation, the Secretary of Commerce, and the Administrator of the Environmental Protection Agency, shall, not later than 120 days after the closing date, as established by the Secretary, for receipt of proposals under section 13281 of this title, select at least one, but not more than 10, proposals to receive financial assistance under section 13283 of this title.
+(1) The Secretary, in consultation with the Secretary of Transportation, the Secretary ofCommerce, and the Administrator of the Environmental Protection Agency, shall, not later than 120 days after the closing date, as established by the Secretary, for receipt of proposals under section 13281 of this title, select at least one, but not more than 10, proposals to receive financial assistance under section 13283 of this title.
 
 (2) The Secretary may select more than 10 proposals under this section, if the Secretary determines that the total amount of available funds is not likely to be otherwise utilized.
 
@@ -16,7 +16,7 @@
 
 In selecting a proposal and in negotiating financial assistance under this section, the Secretary shall consider—
 
-&emsp;(1) the ability of the manufacturer, directly, indirectly, or in combination with the proposer, to develop, assist in the demonstration of, manufacture, distribute, sell, provide warranties for, service, and ensure the continuedavailability of parts for, electric motor vehicles in the demonstration project;
+&emsp;(1) the ability of the manufacturer, directly, indirectly, or in combination with the proposer, to develop, assist in the demonstration of, manufacture, distribute, sell, provide warranties for, service, and ensure the continued availability of parts for, electric motor vehicles in the demonstration project;
 
 &emsp;(2) the geographic and climatic diversity of the eligible metropolitan area or areas in which the demonstration project is to be undertaken, when considered in combination with other proposals and other selected demonstration projects;
 

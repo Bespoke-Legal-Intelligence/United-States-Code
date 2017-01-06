@@ -6,19 +6,21 @@ Permanent Limitation on OSD Personnel.—The number of OSD personnel may not exc
 
 (b) OSD
 
-Personnel Defined.—For purposes of this section, the term "OSD personnel" means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
+Personnel Defined.—For purposes of this section, the term "OSD personnel" means military, civilian, and detailed personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
 
 (c)
 
 Limitation on Reassignment of Functions.—In carrying out reductions in the number of personnel assigned to, or employed in, the Office of the Secretary of Defense in order to comply with this section, the Secretary of Defense may not reassign functions solely in order to evade the requirements contained in this section.
 
-(Added Pub. L. 105–85, div. A, title IX, §911(d)(1), Nov. 18, 1997, 111 Stat. 1859; amended Pub. L. 106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723.)
+(Added Pub. L. 105–85, div. A, title IX, §911(d)(1), Nov. 18, 1997, 111 Stat. 1859; amended Pub. L. 106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723; Pub. L. 114–328, div. A, title IX, §903(a), Dec. 23, 2016, 130 Stat. 2344.)
 
 #### Codification
 
 Section, as added by Pub. L. 105–85, consists of text of Pub. L. 104–201, div. A, title IX, §903(a)–(f), Sept. 23, 1996, 110 Stat. 2617. Section 903 of Pub. L. 104–201, which was formerly set out as a note under section 131 of this title, was repealed by Pub. L. 105–85, div. A, title IX, §911(d)(3), Nov. 18, 1997, 111 Stat. 1860.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–328 substituted ", civilian, and detailed personnel" for "and civilian personnel".
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted "The number" for "Effective October 1, 1999, the number" and "3,767" for "75 percent of the baseline number".
 
@@ -52,9 +54,9 @@ Exception to Limitations on Personnel.—For fiscal year 2009 and fiscal years t
 
 "(b)
 
-Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a militarydepartment may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
+Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a military department may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
 
-&emsp;"(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the requirements of section 115b of such title; or
+&emsp;"(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the requirements of \[former\] section 115b of such title; or
 
 &emsp;"(2) accommodate increases in workload or modify the type of personnel required to accomplish work, for any of the following purposes:
 

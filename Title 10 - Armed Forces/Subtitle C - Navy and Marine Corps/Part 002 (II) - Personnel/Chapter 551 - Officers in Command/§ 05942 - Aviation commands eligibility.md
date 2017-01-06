@@ -36,7 +36,7 @@ June 24, 1926, ch. 668, §3 (4th par.), 44 Stat. 767.
 
 June 24, 1926, ch. 668, §3 (7th par.), 44 Stat. 767.
 
-The last proviso of §8 of the Act of July 12, 1921, ch. 44 (34 U.S.C. 734), was superseded by paragraphs 4, 5, and 7 of §3 of the Act of June 24, 1926, ch. 668 (34 U.S.C. 735), insofar as ships and activities mentioned in those paragraphs are concerned. The requirements of this section are stated as conditions of eligibility for clarity.
+The last proviso of §8 of the Act of July 12, 1921, ch. 44 (34 U.S.C. 734), was superseded by paragraphs 4, 5, and7 of §3 of the Act of June 24, 1926, ch. 668 (34 U.S.C. 735), insofar as ships and activities mentioned in those paragraphs are concerned. The requirements of this section are stated as conditions of eligibility for clarity.
 
 #### Amendments
 

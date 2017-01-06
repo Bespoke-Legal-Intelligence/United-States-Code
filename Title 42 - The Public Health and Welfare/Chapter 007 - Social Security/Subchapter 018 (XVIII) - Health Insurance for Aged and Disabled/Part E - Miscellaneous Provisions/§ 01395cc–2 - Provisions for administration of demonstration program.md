@@ -6,9 +6,9 @@
 
 &emsp;Except as otherwise provided by the Secretary, an individual shall only be eligible to receive benefits under the program under section 1395cc–1 of this title (in this section referred to as the "demonstration program") if such individual—
 
-&emsp;&emsp;(A) is enrolled under the program under part B of this subchapter and entitled to benefits under part A of this subchapter; and
+&emsp;&emsp;(A) is enrolled under the program under part B and entitled to benefits under part A; and
 
-&emsp;&emsp;(B) is not enrolled in a Medicare+Choice plan under part C of this subchapter, an eligible organization under a contract under section 1395mm of this title (or a similar organization operating under a demonstration project authority), an organization with an agreement under section 1395l(a)(1)(A) of this title, or a PACE program under section 1395eee of this title.
+&emsp;&emsp;(B) is not enrolled in a Medicare+Choice plan under part C, an eligible organization under a contract under section 1395mm of this title (or a similar organization operating under a demonstration project authority), an organization with an agreement under section 1395l(a)(1)(A) of this title, or a PACE program under section 1395eee of this title.
 
 #### (2) Secretary's discretion as to scope of program
 
@@ -106,7 +106,7 @@
 
 #### (D) Payment of bonuses
 
-&emsp;&emsp;Using such guidelines as the Secretary shall establish, and subject to the approval of the Secretary, make bonus payments as described in subsection (c)(2)(B) of this section to entities furnishing items or services for which payment may be made under the program.
+&emsp;&emsp;Using such guidelines as the Secretary shall establish, and subject to the approval of the Secretary, make bonus payments as described in subsection (c)(2)(B) to entities furnishing items or services for which payment may be made under the program.
 
 #### (E) Oversight
 
@@ -114,7 +114,7 @@
 
 #### (F) Administrative review
 
-&emsp;&emsp;Conduct reviews of adverse determinations specified in subsection (a)(6) of this section.
+&emsp;&emsp;Conduct reviews of adverse determinations specified in subsection (a)(6).
 
 #### (G) Review of marketing materials
 
@@ -136,7 +136,7 @@
 
 #### (1) Records, reports, and audits
 
-&emsp;The Secretary is authorized to require entities with agreements to provide health care items or services under the demonstration program, and entities with program administration contracts under subsection (b) of this section, to maintain adequate records, to afford the Secretary access to such records (including for audit purposes), and to furnish such reports and other materials (including audited financial statements and performance data) as the Secretary may require for purposes of implementation, oversight, and evaluation of the program and of individuals' and entities' effectiveness in performance of such agreements or contracts.
+&emsp;The Secretary is authorized to require entities with agreements to provide health care items or services under the demonstration program, and entities with program administration contracts under subsection (b), to maintain adequate records, to afford the Secretary access to such records (including for audit purposes), and to furnish such reports and other materials (including audited financial statements and performance data) as the Secretary may require for purposes of implementation, oversight, and evaluation of the program and of individuals' and entities' effectiveness in performance of such agreements or contracts.
 
 #### (2) Bonuses
 
@@ -154,7 +154,7 @@
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement in processes or outcomes of care, or such other factors as the Secretary determines to be appropriate.
+&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement inprocesses or outcomes of care, or such other factors as the Secretary determines to be appropriate.
 
 #### (3) Antidiscrimination limitation
 
@@ -164,15 +164,15 @@
 
 The following actions and determinations with respect to the demonstration program shall not be subject to review by a judicial or administrative tribunal:
 
-&emsp;(1) Limiting the implementation of the program under subsection (a)(2) of this section.
+&emsp;(1) Limiting the implementation of the program under subsection (a)(2).
 
-&emsp;(2) Establishment of program participation standards under subsection (a)(5) of this section or the denial or termination of, or refusal to renew, an agreement with an entity to provide health care items and services under the program.
+&emsp;(2) Establishment of program participation standards under subsection (a)(5) or the denial or termination of, or refusal to renew, an agreement with an entity to provide health care items and services under the program.
 
-&emsp;(3) Establishment of program administration contract performance standards under subsection (b)(6) of this section, the refusal to renew a program administration contract, or the noncompetitive award or renewal of a program administration contract under subsection (b)(4)(B) of this section.
+&emsp;(3) Establishment of program administration contract performance standards under subsection (b)(6), the refusal to renew a program administration contract, or the noncompetitive award or renewal of a program administration contract under subsection (b)(4)(B).
 
 &emsp;(4) Establishment of payment rates, through negotiation or otherwise, under a program agreement or a program administration contract.
 
-&emsp;(5) A determination with respect to the program (where specifically authorized by the program authority or by subsection (c)(2) of this section)—
+&emsp;(5) A determination with respect to the program (where specifically authorized by the program authority or by subsection (c)(2))—
 
 &emsp;&emsp;(A) as to whether cost savings have been achieved, and the amount of savings; or
 
@@ -180,7 +180,7 @@ The following actions and determinations with respect to the demonstration progr
 
 #### (e) Application limited to parts A and B
 
-None of the provisions of this section or of the demonstration program shall apply to the programs under part C of this subchapter.
+None of the provisions of this section or of the demonstration program shall apply to the programs under part C.
 
 #### (f) Reports to Congress
 

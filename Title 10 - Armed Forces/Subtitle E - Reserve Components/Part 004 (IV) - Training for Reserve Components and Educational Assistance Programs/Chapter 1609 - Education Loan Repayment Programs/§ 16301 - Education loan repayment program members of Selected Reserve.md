@@ -24,7 +24,7 @@
 
 (b) The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 
-(c) If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
+(c) If a portion of a loan is repaid under this section for any year, interest on the remainderof the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
 
 (d) Nothing in this section shall be construed to authorize refunding any repayment of a loan.
 
@@ -42,7 +42,7 @@
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), D (§1087a et seq.), and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Subsec. (a)(1)(D). Pub. L. 110–181, §672(a), added subpar. (D).
 
 Subsec. (a)(2). Pub. L. 110–181, §672(b)(1), substituted "The Secretary" for "Except as provided in paragraph (3), the Secretary" and "a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty" for "an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty".
 
-Subsec. (a)(3). Pub. L. 110–181, §672(b)(2), struck out par. (3) which read as follows: "In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member underparagraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve."
+Subsec. (a)(3). Pub. L. 110–181, §672(b)(2), struck out par. (3) which read as follows: "In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve."
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §526(1), substituted "Except as provided in paragraph (3), the Secretary of Defense may repay loans" for "The Secretary may repay loans".
 

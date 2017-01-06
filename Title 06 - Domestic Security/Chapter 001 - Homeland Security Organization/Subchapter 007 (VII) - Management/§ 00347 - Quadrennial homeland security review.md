@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the heads of other Federal agencies, including the Attorney General, the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of the Treasury, the Secretary of Agriculture, and the Director of National Intelligence;
 
-&emsp;&emsp;(B) key officials of the Department; and
+&emsp;&emsp;(B) key officials of the Department, including the Under Secretary for Strategy, Policy, and Plans; and
 
 &emsp;&emsp;(C) other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
 
@@ -36,7 +36,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;(4) identify the budget plan required to provide sufficient resources to successfully execute the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
 
-&emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referred to in paragraph (1) and the homeland security mission areas outlined under paragraph (2); and
+&emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referredto in paragraph (1) and the homeland security mission areas outlined under paragraph (2); and
 
 &emsp;(6) review and assess the effectiveness of the mechanisms of the Department for executing the process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department.
 
@@ -76,7 +76,11 @@ In each quadrennial homeland security review, the Secretary shall—
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–296, title VII, §707, as added Pub. L. 110–53, title XXIV, §2401(a), Aug. 3, 2007, 121 Stat. 543.)
+(Pub. L. 107–296, title VII, §707, as added Pub. L. 110–53, title XXIV, §2401(a), Aug. 3, 2007, 121 Stat. 543; amended Pub. L. 114–328, div. A, title XIX, §1902(b), Dec. 23, 2016, 130 Stat. 2672.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(3)(B). Pub. L. 114–328 inserted ", including the Under Secretary for Strategy, Policy, and Plans" after "Department".
 
 #### Preparation for First Quadrennial Homeland Security Review
 

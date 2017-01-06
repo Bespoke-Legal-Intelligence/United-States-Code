@@ -14,9 +14,9 @@
 
 #### (b) General application of rates to meet general requirements
 
-(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
+(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of publicbody, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
 
-(2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive ofamounts charged such customers under subsection (g) for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customers if, the Administrator assumes that—
+(2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customers if, the Administrator assumes that—
 
 &emsp;(A) the public body and cooperative customers' general requirements had included during such five-year period the direct service industrial customer loads which are—
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
 
-(2) The determination under paragraph (1)(B) of this subsection shall be based upon the Administrator's applicable wholesale rates to such public body and cooperative customers and the typical margins included by such public body and cooperative customers in their retail industrial rates but shall take into account—
+(2) The determination under paragraph (1)(B) of this subsection shall be based upon the Administrator's applicable wholesale rates to suchpublic body and cooperative customers and the typical margins included by such public body and cooperative customers in their retail industrial rates but shall take into account—
 
 &emsp;(A) the comparative size and character of the loads served,
 
@@ -72,7 +72,7 @@
 
 > all as related to the delivery of power to industrial customers, except that the Administrator's rates during such period shall in no event be less than the rates in effect for the contract year ending on June 30, 1985.
 
-(3) The Administrator shall adjust such rates to take into account the value of power systemreserves made available to the Administrator through his rights to interrupt or curtail service to such direct service industrial customers.
+(3) The Administrator shall adjust such rates to take into account the value of power system reserves made available to the Administrator through his rights to interrupt or curtail service to such direct service industrial customers.
 
 #### (d) Discount rates; special rates
 
@@ -146,7 +146,7 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 (3) Payments made pursuant to this subsection shall be made solely from the fund established by section 11 of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i\]. The provisions of section 13 of such Act \[16 U.S.C. 838k\], and any appropriations provided to the Administrator under any law, shall not be available for such payments. The authorization of payments under this subsection shall not be construed as an obligation of the United States.
 
-(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
+(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently madeavailable to the Administrator for such facilities.
 
 #### (n) Limiting the inclusion of costs of protection of, mitigation of damage to, and enhancement of fish and wildlife, within rates charged by the Bonneville Power Administration, to the rate period in which the costs are incurred
 

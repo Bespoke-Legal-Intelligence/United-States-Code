@@ -2,17 +2,17 @@
 
 #### (a) Establishment
 
-Any State that submits an application in accordance with subsection (b) of this section may establish a medicare rural hospital flexibility program described in subsection (c) of this section.
+Any State that submits an application in accordance with subsection (b) may establish a medicare rural hospital flexibility program described in subsection (c).
 
 #### (b) Application
 
-A State may establish a medicare rural hospital flexibility program described in subsection (c) of this section if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing—
+A State may establish a medicare rural hospital flexibility program described in subsection (c) if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing—
 
 &emsp;(1) assurances that the State—
 
 &emsp;&emsp;(A) has developed, or is in the process of developing, a State rural health care plan that—
 
-&emsp;&emsp;&emsp;(i) provides for the creation of 1 or more rural health networks (as defined in subsection (d) of this section) in the State;
+&emsp;&emsp;&emsp;(i) provides for the creation of 1 or more rural health networks (as defined in subsection (d)) in the State;
 
 &emsp;&emsp;&emsp;(ii) promotes regionalization of rural health services in the State; and
 
@@ -28,9 +28,9 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (1) In general
 
-&emsp;A State that has submitted an application in accordance with subsection (b) of this section, may establish a medicare rural hospital flexibility program that provides that—
+&emsp;A State that has submitted an application in accordance with subsection (b), may establish a medicare rural hospital flexibility program that provides that—
 
-&emsp;&emsp;(A) the State shall develop at least 1 rural health network (as defined in subsection (d) of this section) in the State; and
+&emsp;&emsp;(A) the State shall develop at least 1 rural health network (as defined in subsection (d)) in the State; and
 
 &emsp;&emsp;(B) at least 1 facility in the State shall be designated as a critical access hospital in accordance with paragraph (2).
 
@@ -92,7 +92,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(II) a rehabilitation unit of the hospital that is a distinct part of the hospital,
 
-&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation) that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
+&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation) that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) <sup>1</sup> of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
 
 #### (ii) Limitation on number of beds
 
@@ -100,7 +100,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (iii) Exclusion of beds from bed count
 
-&emsp;&emsp;&emsp;In determining the number of beds of a critical access hospital for purposes of applying the bed limitations referred to in subparagraph (B)(iii) and subsection (f) of this section, the Secretary shall not take into account any bed established under clause (i).
+&emsp;&emsp;&emsp;In determining the number of beds of a critical access hospital for purposes of applying the bed limitations referred to in subparagraph (B)(iii) and subsection (f), the Secretary shall not take into account any bed established under clause (i).
 
 #### (iv) Effect of failure to meet requirements
 
@@ -150,7 +150,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 The Secretary shall certify a facility as a critical access hospital if the facility—
 
-&emsp;(1) is located in a State that has established a medicare rural hospital flexibility program in accordance with subsection (c) of this section;
+&emsp;(1) is located in a State that has established a medicare rural hospital flexibility program in accordance with subsection (c);
 
 &emsp;(2) is designated as a critical access hospital by the State in which it is located; and
 
@@ -164,7 +164,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (1) Medicare rural hospital flexibility program
 
-&emsp;The Secretary may award grants to States that have submitted applications in accordance with subsection (b) of this section for—
+&emsp;The Secretary may award grants to States that have submitted applications in accordance with subsection (b) for—
 
 &emsp;&emsp;(A) engaging in activities relating to planning and implementing a rural health care plan;
 
@@ -182,13 +182,13 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (B) Application
 
-&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii), (A)(iii), and (B) of subsection (b)(1) of this section and paragraph (3) of that subsection.
+&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii), (A)(iii), and (B) of subsection (b)(1) and paragraph (3) of that subsection.
 
 #### (3) Upgrading data systems
 
 #### (A) Grants to hospitals
 
-&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendmentsmade by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
+&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (B) Eligible small rural hospital defined
 
@@ -250,7 +250,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (A) Grants to States
 
-&emsp;&emsp;The Secretary may award grants to States that have submitted applications in accordance with subparagraph (B) for increasing the delivery of mental health services or other health care services deemed necessary to meet the needs of veterans of Operation Iraqi Freedom and Operation Enduring Freedom living in rural areas (as defined for purposes of section 1395ww(d) of this title and including areas that are rural census tracks, as defined by the Administrator of the Health Resources and Services Administration), including for the provision of crisis intervention services and the detection of post-traumatic stress disorder, traumatic brain injury, and other signature injuries of veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and for referral of such veterans to medical facilities operated by the Department of Veterans Affairs, and for the delivery of such services to other residents of such rural areas.
+&emsp;&emsp;The Secretary may award grants to States that have submitted applications in accordance with subparagraph (B) for increasing the delivery of mental health services or other health care services deemed necessary to meet the needs of veterans of Operation Iraqi Freedom and Operation Enduring Freedom living in rural areas (as defined for purposes of section 1395ww(d) of this title and including areas that are rural census tracks,as defined by the Administrator of the Health Resources and Services Administration), including for the provision of crisis intervention services and the detection of post-traumatic stress disorder, traumatic brain injury, and other signature injuries of veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and for referral of such veterans to medical facilities operated by the Department of Veterans Affairs, and for the delivery of such services to other residents of such rural areas.
 
 #### (B) Application
 
@@ -314,13 +314,13 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (F) Eligible critical access hospital defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "eligible critical access hospital" means acritical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
+&emsp;&emsp;For purposes of this paragraph, the term "eligible critical access hospital" means a critical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
 
 #### (h) Grandfathering provisions
 
 #### (1) In general
 
-&emsp;Any medical assistance facility operating in Montana and any rural primary care hospital designated by the Secretary under this section prior to August 5, 1997, shall be deemed to have been certified by the Secretary under subsection (e) of this section as a critical access hospital if such facility or hospital is otherwise eligible to be designated by the State as a critical access hospital under subsection (c) of this section.
+&emsp;Any medical assistance facility operating in Montana and any rural primary care hospital designated by the Secretary under this section prior to August 5, 1997, shall be deemed to have been certified by the Secretary under subsection (e) as a critical access hospital if such facility or hospital is otherwise eligible to be designated by the State as a critical access hospital under subsection (c).
 
 #### (2) Continuation of medical assistance facility and rural primary care hospital terms
 
@@ -328,19 +328,21 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (3) State authority to waive 35-mile rule
 
-&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II), as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 #### (i) Waiver of conflicting part A provisions
 
-The Secretary is authorized to waive such provisions of this part and part E of this subchapter as are necessary to conduct the program established under this section.
+The Secretary is authorized to waive such provisions of this part and part E as are necessary to conduct the program established under this section.
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g), $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g), $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
 
 #### References in Text
+
+The matter following clause (v) of section 1395ww(d)(1)(B) of this title, referred to in subsec. (c)(2)(E)(i), now follows cl. (vi) of section 1395ww(d)(1)(B) of this title following the redesignation of subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) by Pub. L. 114–255, div. C, title XV, §15008(a)(2)(B), Dec. 13, 2016, 130 Stat. 1321.
 
 The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
@@ -366,7 +368,7 @@ Subsec. (g)(6). Pub. L. 110–275, §121(a), added par. (6).
 
 Subsec. (g)(7). Pub. L. 110–275, §121(e), added par. (7).
 
-Subsec. (j). Pub. L. 110–275, §121(c), substituted "2002, for" for "2002, and for" and inserted ", for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscalyears 2009 and 2010, to remain available until expended" before period at end.
+Subsec. (j). Pub. L. 110–275, §121(c), substituted "2002, for" for "2002, and for" and inserted ", for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended" before period at end.
 
 <b>2003</b>—Subsec. (c)(2)(B)(i)(II). Pub. L. 108–173, §405(h)(1), inserted "before January 1, 2006," after "is certified".
 
@@ -384,7 +386,7 @@ Subsec. (h)(3). Pub. L. 108–173, §405(h)(2)(B), added par. (3).
 
 Subsec. (i). Pub. L. 108–173, §101(e)(1), substituted "part E" for "part D".
 
-Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end ", and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008".
+Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end ", and for making grants to all States under paragraphs (1) and (2) of subsection (g), $35,000,000 in each of fiscal years 2005 through 2008".
 
 <b>1999</b>—Subsec. (c)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(c)(1)\], substituted "subparagraphs (B), (C), and (D)" for "subparagraph (B)".
 
@@ -530,7 +532,7 @@ In general.—An eligible entity seeking to participate in the demonstration pro
 
 &emsp;&emsp;"(B)
 
-Limitation.—The Secretary shall select eligible entities located in not more than 4 States to participate in the demonstration project under this section.
+Limitation.—The Secretary shall select eligible entities located in not more than 4 States toparticipate in the demonstration project under this section.
 
 &emsp;"(3)
 
@@ -725,4 +727,6 @@ Extension.—If the Secretary determines that the transition is not complete as 
 #### GAO Reports
 
 Pub. L. 103–432, title I, §102(a)(4), Oct. 31, 1994, 108 Stat. 4402, directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

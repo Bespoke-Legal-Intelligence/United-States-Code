@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regional plan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
+Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regionalplan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
 
 #### (b) Contents
 
@@ -28,7 +28,7 @@ The local plan shall include—
 
 &emsp;(2) a description of the workforce development system in the local area that identifies the programs that are included in that system and how the local board will work with the entities carrying out core programs and other workforce development programs to support alignment to provide services, including programs of study authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), that support the strategy identified in the State plan under section 3112(b)(1)(E) of this title;
 
-&emsp;(3) a description of how the local board, working with the entities carrying out core programs, will expand access to employment, training, education, and supportive services for eligible individuals, particularly eligible individuals with barriers to employment, including how the local board will facilitate thedevelopment of career pathways and co-enrollment, as appropriate, in core programs, and improve access to activities leading to a recognized postsecondary credential (including a credential that is an industry-recognized certificate or certification, portable, and stackable);
+&emsp;(3) a description of how the local board, working with the entities carrying out core programs, will expand access to employment, training, education, and supportive services for eligible individuals, particularly eligible individuals with barriers to employment, including how the local board will facilitate the development of career pathways and co-enrollment, as appropriate, in core programs, and improve access to activities leading to a recognized postsecondary credential (including a credential that is an industry-recognized certificate or certification, portable, and stackable);
 
 &emsp;(4) a description of the strategies and services that will be used in the local area—
 
@@ -72,7 +72,7 @@ The local plan shall include—
 
 &emsp;(14) a description of the replicated cooperative agreements (as defined in section 3122(d)(11) of this title) between the local board or other local entities described in section 101(a)(11)(B) of the Rehabilitation Act of 1973 (29 U.S.C. 721(a)(11)(B)) and the local office of a designated State agency or designated State unit administering programs carried out under title I of such Act (29 U.S.C. 720 et seq.) (other than section 112 or part C of that title (29 U.S.C. 732, 741) and subject to section 3151(f) of this title) in accordance with section 101(a)(11) of such Act (29 U.S.C. 721(a)(11)) with respect to efforts that will enhance the provision of services to individuals with disabilities and to other individuals, such as cross training of staff, technical assistance, use and sharing of information, cooperative efforts with employers, and other efforts at cooperation, collaboration, and coordination;
 
-&emsp;(15) an identification of the entity responsible for the disbursal of grant funds described in section 3122(d)(12)(B)(i)(III) of this title, as determined by the chief elected official or theGovernor under section 3122(d)(12)(B)(i) of this title;
+&emsp;(15) an identification of the entity responsible for the disbursal of grant funds described in section 3122(d)(12)(B)(i)(III) of this title, as determined by the chief elected official or the Governor under section 3122(d)(12)(B)(i) of this title;
 
 &emsp;(16) a description of the competitive process to be used to award the subgrants and contracts in the local area for activities carried out under this subchapter;
 
@@ -98,7 +98,7 @@ Prior to the date on which the local board submits a local plan under this secti
 
 &emsp;(1) make available copies of a proposed local plan to the public through electronic and other means, such as public hearings and local news media;
 
-&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not later than the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
+&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not laterthan the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
 
 &emsp;(3) include with the local plan submitted to the Governor under this section any such comments that represent disagreement with the plan.
 

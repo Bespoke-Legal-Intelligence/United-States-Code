@@ -22,7 +22,7 @@
 
 (4) When a witness is detained pursuant to section 3144 of title 18 for want of security for his appearance, he shall be entitled for each day of detention when not in attendance at court, in addition to his subsistence, to the daily attendance fee provided by subsection (b) of this section.
 
-(e) An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible toreceive the fees or allowances provided by this section.
+(e) An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
 
 (f) Any witness who is incarcerated at the time that his or her testimony is given (except for a witness to whom the provisions of section 3144 of title 18 apply) may not receive fees or allowances under this section, regardless of whether such a witness is incarcerated at the time he or she makes a claim for fees or allowances under this section.
 
@@ -72,7 +72,7 @@ Subsec. (f). Pub. L. 102–417, §2(a), added subsec. (f).
 
 <b>1978</b>—Pub. L. 95–535 increased the daily witness attendance fee from $20 to $30, substituted provisions relating to compensation for the actual expenses of travel based on the form of transportation used, to a travel allowance equal to the mileage allowance under section 5704 of Title 5 for a witness travelling by privately owned vehicle, and to tolls, taxi fares, and parking fees for provisions that a witness would receive 10 cents per mile and that mileage computation would be based on a uniform table of distances regardless of the mode of travel employed, provisions relating to a subsistence allowance in amounts not to exceed those which Government employees receive for official travel for provisions that such subsistence allowance would be $16 per day, provisions relating to a witness detained for want of security for his appearance being entitled to the daily attendance fee in addition to subsistence for provisions that such a witness would be entitled to $1 per day in addition to his subsistence, and inserted provisions defining "court of the United States" and relating to travel expenses being taxable as costs and to certain aliens being ineligible to receive fees and allowances.
 
-<b>1968</b>—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
+<b>1968</b>—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive thesame fees and allowances provided in this section for witnesses in other district courts of the United States.
 
 <b>1956</b>—Act Aug. 1, 1956, substituted ", or before any person authorized to take his deposition pursuant to any rule or order" for "or person taking his disposition pursuant to any order", increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–417, §2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: "The amendments made by this section \[amending this section\] shall be effective on and after the date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance undersection 1821 of title 28, United States Code, relating to such testimony."
+Pub. L. 102–417, §2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: "The amendments made by this section \[amending this section\] shall be effective on and after the date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance under section 1821 of title 28, United States Code, relating to such testimony."
 
 #### Effective Date of 1978 Amendment
 

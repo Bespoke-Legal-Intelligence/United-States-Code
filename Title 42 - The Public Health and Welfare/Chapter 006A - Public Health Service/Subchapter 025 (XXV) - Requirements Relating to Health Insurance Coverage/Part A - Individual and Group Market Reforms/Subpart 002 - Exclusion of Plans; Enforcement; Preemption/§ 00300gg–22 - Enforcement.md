@@ -8,7 +8,7 @@
 
 #### (2) Failure to implement provisions
 
-&emsp;In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) of this section insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
+&emsp;In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
 
 #### (b) Secretarial enforcement authority
 
@@ -16,7 +16,7 @@
 
 &emsp;The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part only—
 
-&emsp;&emsp;(A) as provided under subsection (a)(2) of this section; and
+&emsp;&emsp;(A) as provided under subsection (a)(2); and
 
 &emsp;&emsp;(B) with respect to individual health insurance coverage or group health plans that are non-Federal governmental plans.
 
@@ -100,7 +100,7 @@
 
 #### (G) Payment of penalties
 
-&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for thepurpose of enforcing the provisions with respect to which the penalty was imposed.
+&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
 
 #### (3) Enforcement authority relating to genetic discrimination
 
@@ -174,7 +174,7 @@ Section 300gg–23 of this title, referred to in subsec. (a)(1), was in the orig
 
 Section 2702, referred to in subsec. (b)(3)(A), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
-Section 2701, referred to in subsec. (b)(3)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2),1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701, referred to in subsec. (b)(3)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Prior Provisions
 
@@ -192,7 +192,7 @@ Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–21 of this title.
+Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub.L. 110–233, set out as a note under section 300gg–21 of this title.
 
 #### Effective Date
 

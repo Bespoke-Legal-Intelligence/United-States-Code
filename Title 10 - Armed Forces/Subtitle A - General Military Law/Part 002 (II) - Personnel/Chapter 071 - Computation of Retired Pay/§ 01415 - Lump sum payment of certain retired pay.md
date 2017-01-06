@@ -48,7 +48,7 @@ In general.—An eligible person entitled to covered retired pay (including an e
 
 &emsp;&emsp;&emsp;(i) in the case of an eligible person electing to receive an amount described in subparagraph (A)(i), 50 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period; and
 
-&emsp;&emsp;&emsp;(ii) in the case of an eligible person electing to receive an amount described insubparagraph (A)(ii), 75 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) in the case of an eligible person electing to receive an amount described in subparagraph (A)(ii), 75 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period.
 
 &emsp;(2)
 
@@ -72,7 +72,7 @@ Single payment or combination of payments.—An eligible person may elect to rec
 
 &emsp;(5)
 
-Commencement of payment.—An eligible person who makes an election under this subsection shall receive the lump sum payment, or the first installment of a combination of payments of the lump sum payment if elected under paragraph (4), as follows:
+Commencement of payment.—An eligible person who makes an election under this subsection shall receive the lump sum payment,or the first installment of a combination of payments of the lump sum payment if elected under paragraph (4), as follows:
 
 &emsp;&emsp;(A) Not later than 60 days after the date of the retirement of the eligible person from the uniformed services.
 
@@ -104,9 +104,9 @@ Payment of Retired Pay to Persons Not Making Election.—An eligible person who 
 
 (e)
 
-Regulations.—The Secretary of Defense concerned <sup>2</sup> shall prescribe regulations to carry out the provisions of this section.
+Regulations.—The Secretary of Defense concerned <sup>1</sup> shall prescribe regulations to carry out the provisions of this section.
 
-(Added Pub. L. 114–92, div. A, title VI, §633(a)(1), Nov. 25, 2015, 129 Stat. 847.)
+(Added Pub. L. 114–92, div. A, title VI, §633(a)(1), Nov. 25, 2015, 129 Stat. 847; amended Pub. L. 114–328, div. A, title X, §1081(a)(4), Dec. 23, 2016, 130 Stat. 2417.)
 
 #### References in Text
 
@@ -114,11 +114,13 @@ The National Oceanic and Atmospheric Administration Commissioned Officer Corps A
 
 The Public Health Service Act, referred to in subsec. (a)(1)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(1)(B)(ii). Pub. L. 114–328 inserted period at end.
+
 #### Effective Date; Implementation
 
 Section effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment; Implementation note under section 8432 of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

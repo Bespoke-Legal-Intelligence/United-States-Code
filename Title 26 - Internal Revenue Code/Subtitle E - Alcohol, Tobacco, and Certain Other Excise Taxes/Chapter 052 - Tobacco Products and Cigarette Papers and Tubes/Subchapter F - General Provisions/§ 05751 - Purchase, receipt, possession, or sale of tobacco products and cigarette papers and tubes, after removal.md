@@ -28,7 +28,7 @@ Any person who possesses tobacco products or cigarette papers or tubes in violat
 
 Subsec. (a) amended generally by Pub. L. 85–859, which included within the restrictions, purchase, receipt, possession, offer for sale, or sale of other disposition of tobacco products or cigarette papers or tubes, after removal, upon which the tax has not been paid or determined, or which after removal without payment of tax have been diverted from the applicable purpose or use specified in section 5704, and to provide that par. (3) shall not prevent the delivery of tobacco products or cigarette papers or tubes directly to consumers from proper packages, nor apply to such articles when so delivered.
 
-Subsec. (b). Pub. L. 85–859 substituted "tobacco products or cigarette papers or tubes in violation of subsection (a)(1) or (a)(2) shall be liable for a tax equal tothe tax on such articles" or "articles in violation of subsection (a) of this section, shall incur liability to the tax thereon in addition to the penalties prescribed elsewhere in this title".
+Subsec. (b). Pub. L. 85–859 substituted "tobacco products or cigarette papers or tubes in violation of subsection (a)(1) or (a)(2) shall be liable for a tax equal to the tax on such articles" or "articles in violation of subsection (a) of this section, shall incur liability to the tax thereon in addition to the penalties prescribed elsewhere in this title".
 
 #### Effective Date of 1976 Amendment
 

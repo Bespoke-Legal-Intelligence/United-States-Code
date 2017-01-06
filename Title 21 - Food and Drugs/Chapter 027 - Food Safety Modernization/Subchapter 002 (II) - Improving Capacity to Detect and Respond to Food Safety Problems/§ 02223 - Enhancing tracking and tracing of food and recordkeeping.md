@@ -90,7 +90,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;Not later than 1 year after January 4, 2011, and thereafter as the Secretary determines necessary, the Secretary shall designate high-risk foods for which the additional recordkeeping requirements described in paragraph (1) are appropriate and necessary to protect the public health. Each such designation shall be based on—
 
-&emsp;&emsp;&emsp;(i) the known safety risks of a particular food, including the history and severity of foodborne illness outbreaks attributed to such food, taking into considerationfoodborne illness data collected by the Centers for Disease Control and Prevention;
+&emsp;&emsp;&emsp;(i) the known safety risks of a particular food, including the history and severity of foodborne illness outbreaks attributed to such food, taking into consideration foodborne illness data collected by the Centers for Disease Control and Prevention;
 
 &emsp;&emsp;&emsp;(ii) the likelihood that a particular food has a high potential risk for microbiological or chemical contamination or would support the growth of pathogenic microorganisms due to the nature of the food or the processes used to produce such food;
 
@@ -122,7 +122,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (5) Retention of records
 
-&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or loss of palatability of the applicable food when determining the appropriate timeframes.
+&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or lossof palatability of the applicable food when determining the appropriate timeframes.
 
 #### (6) Limitations
 
@@ -154,7 +154,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;&emsp;(I) the term "commingled raw agricultural commodity" means any commodity that is combined or mixed after harvesting, but before processing;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of seriousadverse health consequences or death; and
+&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the term "processing" means operations that alter the general state of the commodity, such as canning, cooking, freezing, dehydration, milling, grinding, pasteurization, or homogenization.
 

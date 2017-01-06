@@ -106,7 +106,7 @@ Definition.—For purposes of this section, the term 'best commercial inventory 
 
 "(c)
 
-GAO Reports on Military Department and Defense Logistics Agency Schedules.—(1) Not laterthan 240 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report evaluating the extent to which the Secretary of each military department has complied with the requirements of this section.
+GAO Reports on Military Department and Defense Logistics Agency Schedules.—(1) Not later than 240 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report evaluating the extent to which the Secretary of each military department has complied with the requirements of this section.
 
 "(2) Not later than 18 months after the date on which the Director of the Defense Logistics Agency submits to Congress a schedule for implementing best commercial inventory practices under section 395 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1718; 10 U.S.C. 2458 note), the Comptroller General shall submit to Congress an evaluation of the extent to which best commercial inventory practices are being implemented in the Defense Logistics Agency in accordance with that schedule."
 

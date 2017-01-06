@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;(5) the term "country of the Eastern Group of States Parties" means a country that is listed in paragraph 1(A) of article II of the CFE Treaty within the group of States Parties that signed the Treaty of Warsaw of 1955 or a successor state to such a country.
 
-(Pub. L. 90–629, ch. 9, §95, as added Pub. L. 102–228, §2, Dec. 12, 1991, 105 Stat. 1693; amended Pub. L. 103–199, title IV, §402(2), Dec. 17, 1993, 107 Stat. 2324.)
+(Pub. L. 90–629, ch. 9, §95, as added Pub. L. 102–228, §2, Dec. 12, 1991, 105 Stat. 1693; amendedPub. L. 103–199, title IV, §402(2), Dec. 17, 1993, 107 Stat. 2324.)
 
 #### Amendments
 

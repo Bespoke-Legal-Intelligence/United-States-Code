@@ -6,7 +6,7 @@ Grants.—Subject to the availability of appropriations provided for such purpos
 
 (b)
 
-Use of Funds.—Grants under this section shall be used to provide job training, counseling, placement services (including job readiness and literacy and skills training) and child care services to expedite the reintegration of homelesswomen veterans and homeless veterans with children into the labor force.
+Use of Funds.—Grants under this section shall be used to provide job training, counseling, placement services (including job readiness and literacy and skills training) and child care services to expedite the reintegration of homeless women veterans and homeless veterans with children into the labor force.
 
 (c)
 
@@ -24,13 +24,15 @@ Biennial Report to Congress.—The Secretary of Labor shall include as part of t
 
 (f)
 
-Authorization of Appropriations.—(1) In addition to any amount authorized to be appropriated to carry out section 2021 of this title, there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2016.
+Authorization of Appropriations.—(1) In addition to any amount authorized to be appropriated to carry out section 2021 of this title, there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2017.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 111–275, title II, §202(a), Oct. 13, 2010, 124 Stat. 2873; amended Pub. L. 114–58, title III, §302, Sept. 30, 2015, 129 Stat. 534.)
+(Added Pub. L. 111–275, title II, §202(a), Oct. 13, 2010, 124 Stat. 2873; amended Pub. L. 114–58, title III, §302, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §302, Sept. 29, 2016, 130 Stat. 938.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(1). Pub. L. 114–228 substituted "2017" for "2016".
 
 <b>2015</b>—Subsec. (f)(1). Pub. L. 114–58 substituted "2016" for "2015".
 

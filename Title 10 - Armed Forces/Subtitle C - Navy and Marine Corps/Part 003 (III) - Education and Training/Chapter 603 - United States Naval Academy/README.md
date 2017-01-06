@@ -9,9 +9,7 @@
 | [6954\.](%C2%A7%2006954%20-%20Midshipmen%20number.md) | Midshipmen: number. |
 | [6955\.](%C2%A7%2006955%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md) | Midshipmen: allotment upon redistricting of Congressional Districts. |
 | [6956\.](%C2%A7%2006956%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md) | Midshipmen: nomination and selection to fill vacancies. |
-| [6957\.](%C2%A7%2006957%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
-| [6957a.](%C2%A7%2006957a%20-%20Exchange%20program%20with%20foreign%20military%20academies.md) | Exchange program with foreign military academies. |
-| [6957b.](%C2%A7%2006957b%20-%20Foreign%20and%20cultural%20exchange%20activities.md) | Foreign and cultural exchange activities. |
+| \[6957 to 6957b. Repealed.\] |  |
 | [6958\.](%C2%A7%2006958%20-%20Midshipmen%20qualifications%20for%20admission.md) | Midshipmen: qualifications for admission. |
 | [6959\.](%C2%A7%2006959%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md) | Midshipmen: agreement for length of service. |
 | [6960\.](%C2%A7%2006960%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md) | Midshipmen: clothing and equipment; uniform allowance. |
@@ -41,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1248(b)(2)(B), Dec. 23, 2016, 130 Stat. 2525, struck out items 6957 "Selection of persons from foreign countries", 6957a "Exchange program with foreign military academies", and 6957b "Foreign and cultural exchange activities".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §542(b), Jan. 2, 2013, 126 Stat. 1737, added item 6981.
 
@@ -84,9 +84,7 @@ Pub. L. 108–375, div. A, title V, §544(b)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 06954 - Midshipmen number](%C2%A7%2006954%20-%20Midshipmen%20number.md)
 - [&sect; 06955 - Midshipmen allotment upon redistricting of Congressional Districts](%C2%A7%2006955%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md)
 - [&sect; 06956 - Midshipmen nomination and selection to fill vacancies](%C2%A7%2006956%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md)
-- [&sect; 06957 - Selection of persons from foreign countries](%C2%A7%2006957%20-%20Selection%20of%20persons%20from%20foreign%20countries.md)
-- [&sect; 06957a - Exchange program with foreign military academies](%C2%A7%2006957a%20-%20Exchange%20program%20with%20foreign%20military%20academies.md)
-- [&sect; 06957b - Foreign and cultural exchange activities](%C2%A7%2006957b%20-%20Foreign%20and%20cultural%20exchange%20activities.md)
+- [&sect; 06957 to 6957b - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1248(b)(1), Dec. 23, 2016, 130 Stat. 2525](%C2%A7%2006957%20to%206957b%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71248%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202525.md)
 - [&sect; 06958 - Midshipmen qualifications for admission](%C2%A7%2006958%20-%20Midshipmen%20qualifications%20for%20admission.md)
 - [&sect; 06959 - Midshipmen agreement for length of service](%C2%A7%2006959%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md)
 - [&sect; 06960 - Midshipmen clothing and equipment; uniform allowance](%C2%A7%2006960%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md)

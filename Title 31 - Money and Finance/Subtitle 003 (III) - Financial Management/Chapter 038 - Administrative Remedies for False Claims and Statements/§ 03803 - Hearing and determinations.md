@@ -154,7 +154,7 @@
 
 &emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
 
-&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
+&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
 
 (4) Each hearing under subsection (f) of this section shall be held—
 
@@ -192,7 +192,7 @@ Section 17 of the Child Nutrition Act of 1966, referred to in subsec. (c)(2)(C)(
 
 Section 336 of the Older Americans Act, referred to in subsec. (c)(2)(C)(xi), probably means section 336 of the Older Americans Act of 1965, which is classified to section 3030f of Title 42.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally tosubchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -202,7 +202,7 @@ The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

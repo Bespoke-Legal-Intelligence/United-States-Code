@@ -2,7 +2,7 @@
 
 #### (a) Availability of funds
 
-The Secretary shall use $100,000,000 of the funds of the Commodity Credit Corporation foreach of fiscal years 2014 through 2018 to carry out the program.
+The Secretary shall use $100,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2014 through 2018 to carry out the program.
 
 #### (b) Duration of availability
 

@@ -34,7 +34,7 @@ In this subchapter:
 
 #### (7) Holder of an international registration
 
-&emsp;A "holder" of an international registration is the natural or juristic person in whose namethe international registration is recorded on the International Register.
+&emsp;A "holder" of an international registration is the natural or juristic person in whose name the international registration is recorded on the International Register.
 
 #### (8) International application
 

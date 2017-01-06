@@ -16,9 +16,9 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;Not later than 1 year after June 10, 2014, the Secretary, in consultation with the Administrator and in coordination with State, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—
+&emsp;Not later than 1 year after December 16, 2016, the Secretary, in consultation with the Administrator and in coordination with State, regional, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—
 
-&emsp;&emsp;(A) are available for common, uniform use by all Federal, State, tribal, and local agencies;
+&emsp;&emsp;(A) are available for common, uniform use by all Federal, State, regional, local, and tribal agencies;
 
 &emsp;&emsp;(B) incorporate policies, procedures, standards, and criteria for a range of levee types, canal structures, and related facilities and features; and
 
@@ -32,9 +32,9 @@ The Secretary shall appoint—
 
 &emsp;The guidelines shall address, to the maximum extent practicable—
 
-&emsp;&emsp;(A) the activities and practices carried out by State, local, and tribal governments, and the private sector to safely build, regulate, operate, and maintain levees; and
+&emsp;&emsp;(A) the activities and practices carried out by State, regional, local, and tribal governments and the private sector to safely build, regulate, operate, and maintain levees; and
 
-&emsp;&emsp;(B) Federal activities that facilitate State efforts to develop and implement effective State programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.
+&emsp;&emsp;(B) Federal activities that facilitate State, regional, or tribal efforts to develop and implement effective State, regional, or tribal programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.
 
 #### (4) Consideration by Federal agencies
 
@@ -44,7 +44,7 @@ The Secretary shall appoint—
 
 &emsp;Prior to finalizing the guidelines under this subsection, the Secretary shall—
 
-&emsp;&emsp;(A) issue draft guidelines for public comment, including comment by States, non-Federal interests, and other appropriate stakeholders; and
+&emsp;&emsp;(A) issue draft guidelines for public comment, including comment by States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders; and
 
 &emsp;&emsp;(B) consider any comments received in the development of final guidelines.
 
@@ -66,7 +66,7 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, communities, and levee owners in—
+&emsp;The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, regional districts, Indian tribes, communities, and levee owners in—
 
 &emsp;&emsp;(A) developing levee safety programs;
 
@@ -102,17 +102,17 @@ The Secretary shall appoint—
 
 &emsp;&emsp;(B) promote consistency in the transmission of information regarding levees among Federal agencies and regarding risk communication at the State and local levels.
 
-#### (g) State and tribal levee safety program
+#### (g) State, regional, and tribal levee safety program
 
 #### (1) Guidelines
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after June 10, 2014, in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State or tribal levee safety program as a participating program.
+&emsp;&emsp;Not later than 1 year after December 16, 2016, in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State, regional, or tribal levee safety program as a participating program.
 
 #### (B) Guideline contents
 
-&emsp;&emsp;The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State and Indian tribe to certify to the Secretary that the State or Indian tribe, as applicable—
+&emsp;&emsp;The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State, regional district, and Indian tribe to certify to the Secretary that the State, regional district, or Indian tribe, as applicable—
 
 &emsp;&emsp;&emsp;(i) has the authority to participate in the levee safety initiative;
 
@@ -136,21 +136,21 @@ The Secretary shall appoint—
 
 &emsp;&emsp;&emsp;(ii) consider any comments received in the development of final guidelines.
 
-#### (2) Assistance to States
+#### (2) Assistance to States, regional districts, and Indian tribes
 
 #### (A) Establishment
 
-&emsp;&emsp;The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).
+&emsp;&emsp;The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States, regional districts, and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).
 
 #### (B) Requirements
 
-&emsp;&emsp;To be eligible to receive assistance under this section, a State or Indian tribe shall—
+&emsp;&emsp;To be eligible to receive assistance under this section, a State, regional district, or Indian tribe shall—
 
 &emsp;&emsp;&emsp;(i) meet the requirements of a participating program established by the guidelines issued under paragraph (1);
 
-&emsp;&emsp;&emsp;(ii) use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or on land of the Indian tribe;
+&emsp;&emsp;&emsp;(ii) use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or regional district or on land of the Indian tribe;
 
-&emsp;&emsp;&emsp;(iii) submit to the Secretary and Administrator any information collected by the State or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
+&emsp;&emsp;&emsp;(iii) submit to the Secretary and Administrator any information collected by the State, regional district, or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
 
 &emsp;&emsp;&emsp;(iv) identify actions to address hazard mitigation activities associated with levees and leveed areas identified in the hazard mitigation plan of the State approved by the Administrator of the Federal Emergency Management Agency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
@@ -162,7 +162,7 @@ The Secretary shall appoint—
 
 #### (ii) Considerations
 
-&emsp;&emsp;&emsp;In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State or tribal program—
+&emsp;&emsp;&emsp;In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State, regional, or tribal program—
 
 &emsp;&emsp;&emsp;&emsp;(I) ensures that human lives and property that are protected by new and existing levees are safe;
 
@@ -186,19 +186,19 @@ The Secretary shall appoint—
 
 #### (ii) Allocation
 
-&emsp;&emsp;&emsp;For each fiscal year, amounts made available under this subparagraph shall be allocated among the States and Indian tribes as follows:
+&emsp;&emsp;&emsp;For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) 1/3 among States and Indian tribes that qualify for assistance under this subsection.
+&emsp;&emsp;&emsp;&emsp;(I) 1/3 among States, regional districts, and Indian tribes that qualify for assistance under this subsection.
 
-&emsp;&emsp;&emsp;&emsp;(II) 2/3 among States and Indian tribes that qualify for assistance under this subsection, to each such State or Indian tribe in the proportion that—
+&emsp;&emsp;&emsp;&emsp;(II) 2/3 among States, regional districts, and Indian tribes that qualify for assistance under this subsection, to each such State, regional district, or Indian tribe in the proportion that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the miles of levees in the State or on the land of the Indian tribe that are listed on the inventory of levees; bears to
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the miles of levees in the State or regional district or on the land of the Indian tribe that are listed on the inventory of levees; bears to
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the miles of levees in all States and on the land of all Indian tribes that are in the national levee database.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the miles of levees in all States and regional districts and on the land of all Indian tribes that are in the national levee database.
 
 #### (iii) Maximum amount of allocation
 
-&emsp;&emsp;&emsp;The amounts allocated to a State or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State or tribal levee safety program.
+&emsp;&emsp;&emsp;The amounts allocated to a State, regional district, or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State, regional, or tribal levee safety program.
 
 #### (F) Prohibition
 
@@ -208,11 +208,11 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;The Secretary shall provide assistance to States, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
+&emsp;The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
 
 #### (2) Requirements
 
-&emsp;To be eligible to receive assistance under this subsection, a State, Indian tribe, or local government shall—
+&emsp;To be eligible to receive assistance under this subsection, a State, regional district, Indian tribe, or local government shall—
 
 &emsp;&emsp;(A) participate in, and comply with, all applicable Federal floodplain management and flood insurance programs;
 
@@ -226,7 +226,7 @@ The Secretary shall appoint—
 
 &emsp;&emsp;(D) commit to provide normal operation and maintenance of the project for the 50 year-period following completion of rehabilitation; and
 
-&emsp;&emsp;(E) comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State or tribal levee safety program—
+&emsp;&emsp;(E) comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State, regional, or tribal levee safety program—
 
 &emsp;&emsp;&emsp;(i) acts in accordance with the guidelines developed under subsection (c); and
 
@@ -236,7 +236,7 @@ The Secretary shall appoint—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.
+&emsp;&emsp;Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, regional district, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.
 
 #### (B) Inclusions
 
@@ -254,7 +254,7 @@ The Secretary shall appoint—
 
 #### (D) Guidelines
 
-&emsp;&emsp;Not later than 180 days after June 10, 2014, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
+&emsp;&emsp;Not later than 180 days after December 16, 2016, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
 
 #### (E) Technical support
 
@@ -266,7 +266,7 @@ The Secretary shall appoint—
 
 &emsp;&emsp;Assistance provided under this subsection may be used—
 
-&emsp;&emsp;&emsp;(i) for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State or tribal levee safety program; and
+&emsp;&emsp;&emsp;(i) for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State, regional, or tribal levee safety program; and
 
 &emsp;&emsp;&emsp;(ii) only for a levee that is not federally operated and maintained.
 
@@ -314,19 +314,73 @@ Nothing in this section—
 
 &emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
-(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293.)
+(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650.)
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-The Disaster Mitigation Act of 2000, referred to in subsec. (h)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42 and Tables.
+The Disaster Mitigation Act of 2000, referred to in subsec. (h)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42, The Public Health and Welfare, and Tables.
 
 The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. Chapter I of the Act is classified principally to subchapter I (§4011 et seq.) of chapter 50 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to section 3304 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(1). Pub. L. 114–322, §1130(c)(1)(A)(i), substituted "1 year after December 16, 2016," for "1 year after June 10, 2014," and "State, regional, local, and tribal governments and organizations" for "State, local, and tribal governments and organizations" in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 114–322, §1130(c)(1)(A)(ii), substituted "Federal, State, regional, local, and tribal agencies" for "Federal, State, tribal, and local agencies".
+
+Subsec. (c)(3)(A). Pub. L. 114–322, §1130(c)(1)(B)(i), substituted "State, regional, local, and tribal governments" for "State, local, and tribal governments,".
+
+Subsec. (c)(3)(B). Pub. L. 114–322, §1130(c)(1)(B)(ii), inserted ", regional, or tribal" after "State" in two places.
+
+Subsec. (c)(5)(A). Pub. L. 114–322, §1130(c)(1)(C), substituted "States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders" for "States, non-Federal interests, and other appropriate stakeholders".
+
+Subsec. (e)(1). Pub. L. 114–322, §1130(c)(2), substituted "States, regional districts, Indian tribes, communities, and levee owners" for "States, communities, and levee owners" in introductory provisions.
+
+Subsec. (g). Pub. L. 114–322, §1130(c)(3)(A), substituted "State, regional, and tribal" for "State and tribal" in heading.
+
+Subsec. (g)(1)(A). Pub. L. 114–322, §1130(c)(3)(B)(i), substituted "1 year after December 16, 2016," for "1 year after June 10, 2014," and "State, regional, or tribal" for "State or tribal".
+
+Subsec. (g)(1)(B). Pub. L. 114–322, §1130(c)(3)(B)(ii), substituted "State, regional district, and Indian tribe" for "State and Indian tribe" and "State, regional district, or Indian tribe" for "State or Indian tribe" in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 114–322, §1130(c)(3)(C)(i), substituted "States, regional districts, and Indian tribes" for "States" in heading.
+
+Subsec. (g)(2)(A). Pub. L. 114–322, §1130(c)(3)(C)(ii), substituted "States, regional districts, and Indian tribes" for "States and Indian tribes".
+
+Subsec. (g)(2)(B). Pub. L. 114–322, §1130(c)(3)(C)(iii)(I), substituted "State, regional district, or Indian tribe" for "State or Indian tribe" in introductory provisions.
+
+Subsec. (g)(2)(B)(ii). Pub. L. 114–322, §1130(c)(3)(C)(iii)(II), substituted "levees within the State or regional district" for "levees within the State".
+
+Subsec. (g)(2)(B)(iii). Pub. L. 114–322, §1130(c)(3)(C)(iii)(III), substituted "State, regional district, or Indian tribe" for "State or Indian tribe".
+
+Subsec. (g)(2)(C)(ii). Pub. L. 114–322, §1130(c)(3)(C)(iv), substituted "State, regional, or tribal" for "State or tribal" in introductory provisions.
+
+Subsec. (g)(2)(E)(ii). Pub. L. 114–322, §1130(c)(3)(C)(v)(I), substituted "States, regional districts, and Indian tribes" for "States and Indian tribes" wherever appearing.
+
+Subsec. (g)(2)(E)(ii)(II). Pub. L. 114–322, §1130(c)(3)(C)(v)(II)(aa), substituted "State, regional district, or Indian tribe" for "State or Indian tribe" in introductory provisions.
+
+Subsec. (g)(2)(E)(ii)(II)(aa). Pub. L. 114–322, §1130(c)(3)(C)(v)(II)(bb), substituted "miles of levees in the State or regional district" for "miles of levees in the State".
+
+Subsec. (g)(2)(E)(ii)(II)(bb). Pub. L. 114–322, §1130(c)(3)(C)(v)(II)(cc), substituted "miles of levees in all States and regional districts" for "miles of levees in all States".
+
+Subsec. (g)(2)(E)(iii). Pub. L. 114–322, §1130(c)(3)(C)(v)(III), substituted "State, regional district, or Indian tribe" for "State or Indian tribe" and "State, regional, or tribal" for "State or tribal".
+
+Subsec. (h)(1). Pub. L. 114–322, §1130(c)(4)(A), substituted "States, regional districts, Indian tribes, and local governments" for "States, Indian tribes, and local governments".
+
+Subsec. (h)(2). Pub. L. 114–322, §1130(c)(4)(B)(i), substituted "State, regional district, Indian tribe, or local government" for "State, Indian tribe, or local government" in introductory provisions.
+
+Subsec. (h)(2)(E). Pub. L. 114–322, §1130(c)(4)(B)(ii), substituted "State, regional, or tribal" for "State or tribal" in introductory provisions.
+
+Subsec. (h)(3)(A). Pub. L. 114–322, §1130(c)(4)(C)(i), substituted "State, regional district, Indian tribe, or local government" for "State, Indian tribe, or local government".
+
+Subsec. (h)(3)(D). Pub. L. 114–322, §1130(c)(4)(C)(ii), substituted "180 days after December 16, 2016" for "180 days after June 10, 2014".
+
+Subsec. (h)(4)(A)(i). Pub. L. 114–322, §1130(c)(4)(D), substituted "State, regional, or tribal" for "State or tribal".
 
 #### Rehabilitation of Existing Levees
 

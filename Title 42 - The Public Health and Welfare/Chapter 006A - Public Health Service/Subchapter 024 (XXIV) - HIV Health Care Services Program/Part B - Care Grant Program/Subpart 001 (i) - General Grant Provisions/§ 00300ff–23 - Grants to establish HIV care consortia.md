@@ -18,17 +18,17 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (1) Requirement
 
-&emsp;To receive assistance from a State under subsection (a) of this section, an applicantconsortium shall provide the State with assurances that—
+&emsp;To receive assistance from a State under subsection (a), an applicant consortium shall provide the State with assurances that—
 
 &emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV/AIDS have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
 
-&emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
+&emsp;&emsp;(B) the service plan established under subsection (c)(2) by such consortium is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
 
 &emsp;&emsp;(C) except as provided in paragraph (2), the consortium will be a single coordinating entity that will integrate the delivery of services among the populations and subpopulations identified under subparagraph (A).
 
 #### (2) Exception
 
-&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a community or locality in which it has been demonstrated by the applicant consortium that—
+&emsp;Subparagraph (C) of paragraph (1) shall not apply to any applicant consortium that the State determines will operate in a communityor locality in which it has been demonstrated by the applicant consortium that—
 
 &emsp;&emsp;(A) subpopulations exist within the community to be served that have unique service requirements; and
 
@@ -38,7 +38,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (1) In general
 
-&emsp;To receive assistance from the State under subsection (a) of this section, a consortium shall prepare and submit to the State, an application that—
+&emsp;To receive assistance from the State under subsection (a), a consortium shall prepare and submit to the State, an application that—
 
 &emsp;&emsp;(A) demonstrates that the consortium includes agencies and community-based organizations—
 
@@ -86,11 +86,11 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (d) "Family centered care" defined
 
-As used in section 300ff–21 of this title, the term "family centered care" means the system of services described in this section that is targeted specifically to the special needs of infants,children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
+As used in section 300ff–21 of this title, the term "family centered care" means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
 
 #### (e) Priority
 
-In providing assistance under subsection (a) of this section, the State shall, among applicants that meet the requirements of this section, give priority—
+In providing assistance under subsection (a), the State shall, among applicants that meet the requirements of this section, give priority—
 
 &emsp;(1) first to consortia that are receiving assistance from the Health Resources and Services Administration for adult and pediatric HIV-related care demonstration projects; and then
 

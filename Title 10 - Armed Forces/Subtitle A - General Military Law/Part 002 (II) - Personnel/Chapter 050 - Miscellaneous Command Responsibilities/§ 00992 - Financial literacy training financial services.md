@@ -74,7 +74,7 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (B) In the case of any military installation not described in subparagraph (A), the Secretary concerned shall provide counseling on financial services under this subsection at such installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.
 
-(3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
+(3) Each financial services counselor under paragraph (2)(A)(i), and any other individualproviding counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
 (4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
 
@@ -300,7 +300,7 @@ Primary State Jurisdiction.—To the extent that multiple State laws would other
 
 &emsp;&emsp;"(B) in the case of an entity engaged in the business of insurance, such entity is domiciled;
 
-&emsp;&emsp;"(C) in the case of an individual engaged in the offer or sale (or both) of securities, such individual is registered or required to be registered to do business or the person solicited by such individual resides; or
+&emsp;&emsp;"(C) in the case of an individual engaged in the offer or sale (or both) of securities, such individualis registered or required to be registered to do business or the person solicited by such individual resides; or
 
 &emsp;&emsp;"(D) in the case of an entity engaged in the offer or sale (or both) of securities, such entity is registered or is required to be registered to do business or the person solicited by such entity resides.
 

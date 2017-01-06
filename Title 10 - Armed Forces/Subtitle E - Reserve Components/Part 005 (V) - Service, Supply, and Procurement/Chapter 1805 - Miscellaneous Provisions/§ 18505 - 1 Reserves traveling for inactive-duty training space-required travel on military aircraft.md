@@ -4,7 +4,7 @@
 
 (b) A member traveling in a space-required status on any such aircraft under subsection (a) is not authorized to receive travel, transportation, or per diem allowances in connection with that travel.
 
-(Added Pub. L. 106–65, div. A, title V, §517(a)(1), Oct. 5, 1999, 113 Stat. 594; amended Pub. L.106–398, §1 \[\[div. A\], title III, §384(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87; Pub. L. 107–107, div. A, title V, §518, Dec. 28, 2001, 115 Stat. 1096.)
+(Added Pub. L. 106–65, div. A, title V, §517(a)(1), Oct. 5, 1999, 113 Stat. 594; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §384(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87; Pub. L. 107–107, div. A, title V, §518, Dec. 28, 2001, 115 Stat. 1096.)
 
 #### Amendments
 

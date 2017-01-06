@@ -68,7 +68,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academic standards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
 
-&emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programs or other ways to acquire postsecondary education credits; and
+&emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programsor other ways to acquire postsecondary education credits; and
 
 &emsp;&emsp;&emsp;(iv) lead to an industry-recognized credential or certificate at the postsecondary level, or an associate or baccalaureate degree;
 
@@ -100,7 +100,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;&emsp;(iii) that lead to employment in high skill, high wage, or high demand occupations;
 
-&emsp;&emsp;(J) how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II andeligible recipients to improve program quality and student achievement;
+&emsp;&emsp;(J) how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II and eligible recipients to improve program quality and student achievement;
 
 &emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at the postsecondary level in a manner that increases student academic and career and technical achievement; and
 
@@ -222,7 +222,7 @@ The State plan shall include information that—
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

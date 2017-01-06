@@ -90,7 +90,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 &emsp;&emsp;&emsp;(i)(I) is separated or released from active duty after four or more years of continuous active duty immediately before the separation or release; or
 
-&emsp;&emsp;&emsp;(II) has completed a total of at least six years of active duty service, six years of service computed under section 12732 of this title, or six years of any combination of such service; and
+&emsp;&emsp;&emsp;(II) has completed a total of at least six years of active duty service, six years ofservice computed under section 12732 of this title, or six years of any combination of such service; and
 
 &emsp;&emsp;&emsp;(ii) executes a reserve commitment agreement for a period of not less than three years under paragraph (5)(B).
 
@@ -100,7 +100,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 Submission of applications.—(A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
-&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i),\(B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
+&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
 
 &emsp;(3)
 
@@ -166,7 +166,7 @@ Violation of participation agreement; exceptions.—A participant shall not be c
 
 &emsp;(3)
 
-Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretarymay pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
+Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretary may pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
 
 &emsp;(B)(i) Subject to subparagraph (C), the Secretary may pay a bonus to a participant who agrees in the participation agreement under paragraph (1) to accept full-time employment as an elementary school teacher, secondary school teacher, or career or technical teacher for not less than three school years in an eligible school.
 
@@ -242,7 +242,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(
 
 The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

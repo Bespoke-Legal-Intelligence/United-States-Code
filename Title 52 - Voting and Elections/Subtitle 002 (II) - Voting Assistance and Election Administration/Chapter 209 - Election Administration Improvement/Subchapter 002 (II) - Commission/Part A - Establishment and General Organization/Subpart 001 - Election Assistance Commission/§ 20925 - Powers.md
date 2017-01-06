@@ -2,7 +2,7 @@
 
 #### (a) Hearings and sessions
 
-The Commission may hold such hearings for the purpose of carrying out this chapter, sit andact at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this chapter. The Commission may administer oaths and affirmations to witnesses appearing before the Commission.
+The Commission may hold such hearings for the purpose of carrying out this chapter, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this chapter. The Commission may administer oaths and affirmations to witnesses appearing before the Commission.
 
 #### (b) Information from Federal agencies
 

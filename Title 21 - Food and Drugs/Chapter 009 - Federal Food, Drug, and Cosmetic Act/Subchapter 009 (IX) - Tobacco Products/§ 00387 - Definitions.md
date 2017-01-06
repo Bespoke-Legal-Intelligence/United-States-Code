@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Brand
 
-&emsp;The term "brand" means a variety of tobacco product distinguished by the tobaccoused, tar content, nicotine content, flavoring used, size, filtration, packaging, logo, registered trademark, brand name, identifiable pattern of colors, or any combination of such attributes.
+&emsp;The term "brand" means a variety of tobacco product distinguished by the tobacco used, tar content, nicotine content, flavoring used, size, filtration, packaging, logo, registered trademark, brand name, identifiable pattern of colors, or any combination of such attributes.
 
 #### (3) Cigarette
 
@@ -48,7 +48,7 @@ In this subchapter:
 
 #### (10) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given such term in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the meaning given such term in section 5304(e) of title 25.
 
 #### (11) Little cigar
 
@@ -244,7 +244,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(43) The only way to effectively protect the public health from the dangers of unsubstantiated modified risk tobacco products is to empower the Food and Drug Administration to require that products that tobacco manufacturers sold or distributed for risk reduction be reviewed in advance of marketing, and to require that the evidence relied on to support claims be fully verified.
 
-&emsp;"(44) The Food and Drug Administration is a regulatory agency with the scientific expertise to identify harmful substances in products to which consumers are exposed, to design standards to limit exposure to those substances, to evaluate scientific studies supporting claims about the safety of products, and to evaluate the impact of labels, labeling, and advertising on consumer behavior in order to reduce the risk of harm and promote understanding of the impact of the product on health. In connection with its mandate to promote health and reduce the risk of harm, the Food and Drug Administration routinely makes decisions about whether and how products may be marketed in the United States.
+&emsp;"(44) The Food and Drug Administration is a regulatory agency with the scientific expertise to identify harmful substances in products to which consumers are exposed, to design standards to limit exposure tothose substances, to evaluate scientific studies supporting claims about the safety of products, and to evaluate the impact of labels, labeling, and advertising on consumer behavior in order to reduce the risk of harm and promote understanding of the impact of the product on health. In connection with its mandate to promote health and reduce the risk of harm, the Food and Drug Administration routinely makes decisions about whether and how products may be marketed in the United States.
 
 &emsp;"(45) The Federal Trade Commission was created to protect consumers from unfair or deceptive acts or practices, and to regulate unfair methods of competition. Its focus is on those marketplace practices that deceive or mislead consumers, and those that give some competitors an unfair advantage. Its mission is to regulate activities in the marketplace. Neither the Federal Trade Commission nor any other Federal agency except the Food and Drug Administration possesses the scientific expertise needed to implement effectively all provisions of the Family Smoking Prevention and Tobacco Control Act \[div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title\].
 
@@ -294,7 +294,7 @@ In general.—Except as provided in subsection (c), with respect to any time per
 
 &emsp;"(2)
 
-Limitation.—Subsection (a) shall only apply with respect to obligations of the Secretary of Health and Human Services that must be completed withina specified time period and shall not apply to the obligations of any other person or to any other provision of this division (including the amendments made by this division) that do not create such obligations of the Secretary and are not contingent on actions by the Secretary.
+Limitation.—Subsection (a) shall only apply with respect to obligations of the Secretary of Health and Human Services that must be completed within a specified time period and shall not apply to the obligations of any other person or to any other provision of this division (including the amendments made by this division) that do not create such obligations of the Secretary and are not contingent on actions by the Secretary.
 
 "(b)
 

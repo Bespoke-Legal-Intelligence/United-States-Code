@@ -18,7 +18,7 @@ The Director shall make awards under this section based on the advice of the pro
 
 #### (d) Use of funds
 
-Grants awarded under this section shall be used to enable an individual to resubmit an updated research proposal for review by the Foundation through the agency's competitive meritreview process. Uses of funds made available under this section may include the generation of new data and the performance of additional analysis.
+Grants awarded under this section shall be used to enable an individual to resubmit an updated research proposal for review by the Foundation through the agency's competitive merit review process. Uses of funds made available under this section may include the generation of new data and the performance of additional analysis.
 
 #### (e) Program administration
 

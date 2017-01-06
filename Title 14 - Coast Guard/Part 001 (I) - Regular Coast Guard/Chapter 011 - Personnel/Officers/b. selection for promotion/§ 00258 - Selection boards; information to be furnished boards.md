@@ -24,7 +24,7 @@ Provision of Direction and Guidance.—
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted "with—" for "with:" in introductory provisions, and added subsec. (b).
+<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted "with—" for"with:" in introductory provisions, and added subsec. (b).
 
 <b>1996</b>—Cl. (2). Pub. L. 104–324 struck out ", with identification of those officers who are in the promotion zone" after "officers for promotion".
 

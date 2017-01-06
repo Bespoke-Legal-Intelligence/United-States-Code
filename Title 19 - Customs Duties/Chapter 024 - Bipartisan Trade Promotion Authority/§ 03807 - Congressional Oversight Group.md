@@ -44,7 +44,7 @@
 
 &emsp;The guidelines developed under paragraph (1) shall provide for, among other things—
 
-&emsp;&emsp;(A) regular, detailed briefings of the Congressional Oversight Group regarding negotiating objectives, including the promotion of certain priorities referred to in section3802(c) of this title, and positions and the status of the applicable negotiations, beginning as soon as practicable after the Congressional Oversight Group is convened, with more frequent briefings as trade negotiations enter the final stage;
+&emsp;&emsp;(A) regular, detailed briefings of the Congressional Oversight Group regarding negotiating objectives, including the promotion of certain priorities referred to in section 3802(c) of this title, and positions and the status of the applicable negotiations, beginning as soon as practicable after the Congressional Oversight Group is convened, with more frequent briefings as trade negotiations enter the final stage;
 
 &emsp;&emsp;(B) access by members of the Congressional Oversight Group, and staff with proper security clearances, to pertinent documents relating to the negotiations, including classified materials;
 
@@ -66,7 +66,7 @@ Upon the request of a majority of the Congressional Oversight Group, the Preside
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehousefor consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Delegation of Functions
 

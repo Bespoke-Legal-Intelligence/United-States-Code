@@ -72,7 +72,7 @@ Nothing in this subchapter shall be construed to authorize, or to modify any exi
 
 #### (1) In general
 
-&emsp;This subchapter supersedes any statute or other provision of law of a State or politicalsubdivision of a State that restricts or otherwise expressly regulates an activity authorized under this subchapter.
+&emsp;This subchapter supersedes any statute or other provision of law of a State or political subdivision of a State that restricts or otherwise expressly regulates an activity authorized under this subchapter.
 
 #### (2) State law enforcement
 

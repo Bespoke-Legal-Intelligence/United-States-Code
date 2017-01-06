@@ -1,6 +1,6 @@
 ### §8706. Termination of insurance; assignment of ownership
 
-(a) A policy purchased under this chapter shall contain a provision, approved by the Office of Personnel Management, to the effect that insurance on an employee stops on his separation from the service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.
+(a) A policy purchased under this chapter shall contain a provision, approved by the Office of Personnel Management, to the effect that insurance on an employee stops on his separation from the service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemedto continue in active employment for purposes of this chapter.
 
 (b)(1) In the case of any employee who retires on an immediate annuity and has been insured under this chapter throughout—
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) in addition to any deductions which would be required if the insurance were continued as provided under subparagraph (A) of this paragraph, the employee may elect continuous withholdings from annuity or compensation in amounts determined by the Office, and the employee's life insurance coverage shall be either continued without reduction or reduced each month by no more than 1 percent of its face value until no less than 50 percent of the amount of insurance in force before the first reduction remains.
 
-(4) If an employee elects to continue insurance under subparagraph (B) of paragraph (3) of thissubsection at the time eligibility to continue insurance during retirement or receipt of compensation for disease or injury arises, the individual may later cancel that election and life insurance coverage shall continue as if the individual had originally elected coverage under subparagraph (A) of paragraph (3) of this subsection.
+(4) If an employee elects to continue insurance under subparagraph (B) of paragraph (3) of this subsection at the time eligibility to continue insurance during retirement or receipt of compensation for disease or injury arises, the individual may later cancel that election and life insurance coverage shall continue as if the individual had originally elected coverage under subparagraph (A) of paragraph (3) of this subsection.
 
 (c) Notwithstanding subsections (a) and (b) of this section, an employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8701(a) of this title, within 60 days after entering on that leave without pay, may elect to continue his insurance and arrange to pay currently into the Employees' Life Insurance Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, his insurance will continue during nonpay status and stop as provided by subsection (a) of this section.
 
@@ -84,7 +84,7 @@ Aug. 1, 1956, ch. 837, §501(c)(1) (less applicability to §2(b)), 70 Stat. 882.
 
 In subsection (b), the words "armed forces" are coextensive with and substituted for "Army, Navy, Air Force, and Marine Corps, or Coast Guard of the United States" in view of the definition of "armed forces" in section 2101.
 
-In subsection (c), the word "only" is supplied for clarity and for consistency with subsection (b). The words "under conditions determined by the Commission,without cost to him" are coextensive with and substituted for "as provided in subsection (b) of this section".
+In subsection (c), the word "only" is supplied for clarity and for consistency with subsection (b). The words "under conditions determined by the Commission, without cost to him" are coextensive with and substituted for "as provided in subsection (b) of this section".
 
 In subsection (d), the first sentence of former section 2091(c) is omitted as unnecessary as the definition of "employee" in section 8701 precludes acquisition of coverage by a member of a uniformed service. The words "section 101 of title 38" are substituted for "section 1101 of title 38" on authority of section 5(a) of the Act of Sept. 2, 1958, Pub. L. 85–857, 72 Stat. 1262.
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 105–311 effective in any case in which a finding of erron
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 98–353, title II, §207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, §7(2), provided that: "The amendments to chapter 87 of title 5, UnitedStates Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982."
+Pub. L. 98–353, title II, §207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, §7(2), provided that: "The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982."
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
@@ -214,7 +214,7 @@ Pub. L. 99–53, §3(c), June 17, 1985, 99 Stat. 95, provided that:
 
 &emsp;"(ii) coverage under chapter 89 of title 5, United States Code, in the case of any individual who becomes enrolled in a health benefits plan under section 8908(c) of such title (as amended by this Act), for any period before the date as of which such individual becomes so enrolled.
 
-"(B) This paragraph applies with respect to any individual receiving a disability annuity which is or was restored under section 8337(e) of title 5, United States Code, after December 31, 1983, and before the expiration of the 90-day period beginning on the date of enactment of this Act \[June 17, 1985\]."
+"(B) This paragraph applies with respect to any individual receiving a disability annuity which is or was restored under section 8337(e) of title 5, United States Code, after December 31, 1983, and before the expirationof the 90-day period beginning on the date of enactment of this Act \[June 17, 1985\]."
 
 #### Election of Life Insurance or Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Life Insurance Fund or Employees Health Benefits Fund, Non-Election; Regulations
 

@@ -158,7 +158,7 @@ In this section:
 
 #### (c) Mandatory exclusion
 
-An eligible entity that receives a grant under this section that is found to have utilized grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
+An eligible entity that receives a grant under this section that is found to have utilized grantfunds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
 
 #### (d) Compliance requirement
 

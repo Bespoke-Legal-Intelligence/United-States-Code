@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An issue shall be treated as meeting the requirements of this paragraph if, as of thedate of issuance, the issuer reasonably expects—
+&emsp;&emsp;An issue shall be treated as meeting the requirements of this paragraph if, as of the date of issuance, the issuer reasonably expects—
 
 &emsp;&emsp;&emsp;(i) 100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (B) Maximum term
 
-&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond.Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (6) Prohibition on financial conflicts of interest
 
@@ -272,5 +272,5 @@ Pub. L. 110–343, div. C, title III, §313(c), Oct. 3, 2008, 122 Stat. 3872, pr
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-Section applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 54 of this title.
+Section applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as anEffective Date of 2008 Amendment note under section 54 of this title.
 

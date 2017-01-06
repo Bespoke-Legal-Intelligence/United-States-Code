@@ -6,7 +6,7 @@ A hospital or skilled nursing facility of the Indian Health Service, whether ope
 
 #### (b) Eligibility based on submission of plan to achieve compliance with conditions and requirements; twelve-month period
 
-Notwithstanding subsection (a) of this section, a hospital or skilled nursing facility of the Indian Health Service which does not meet all of the conditions and requirements of this subchapter which are applicable generally to hospitals or skilled nursing facilities (as the case may be), but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for payments under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first 12 months after the month in which such plan is submitted.
+Notwithstanding subsection (a), a hospital or skilled nursing facility of the Indian Health Service which does not meet all of the conditions and requirements of this subchapter which are applicable generally to hospitals or skilled nursing facilities (as the case may be), but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for payments under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first 12 months after the month in which such plan is submitted.
 
 #### (c) Payments into special fund for improvements to achieve compliance with conditions and requirements; certification of compliance by Secretary
 
@@ -14,11 +14,11 @@ Notwithstanding any other provision of this subchapter, payments to which any ho
 
 #### (d) Report by Secretary; status of facilities in complying with conditions and requirements
 
-The annual report of the Secretary which is required by section 1671 of title 25 shall include (along with the matters specified in section 1643 of title 25) a detailed statement of the status of the hospitals and skilled nursing facilities of the Service in terms of their compliance with the applicable conditions and requirements of this subchapter and of the progress being made by such hospitals and facilities (under plans submitted under subsection (b) of this section and otherwise) toward the achievement of such compliance.
+The annual report of the Secretary which is required by section 1671 of title 25 shall include (along with the matters specified in section 1643 of title 25) a detailed statement of the status of the hospitals and skilled nursing facilities of the Service in terms of their compliance with the applicable conditions and requirements of this subchapter and of the progress being made by such hospitals and facilities (under plans submitted under subsection (b) and otherwise) toward the achievement of such compliance.
 
 #### (e) Services provided by Indian Health Service, Indian tribe, or tribal organization
 
-(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretary shall make payment under part B of this subchapter to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a) of this section) for services described in paragraph (2) (and for items and services furnished on or after January 1, 2005, all items and services for which payment may be made under part B of this subchapter) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
+(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretaryshall make payment under part B to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a)) for services described in paragraph (2) (and for items and services furnished on or after January 1, 2005, all items and services for which payment may be made under part B) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
 
 (B) Payment shall not be made for services under subparagraph (A) to the extent that payment is otherwise made for such services under this subchapter.
 
@@ -26,15 +26,15 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
 &emsp;(A) Services for which payment is made under section 1395w–4 of this title.
 
-&emsp;(B) Services furnished by a practitioner described in section 1395u(b)(18)(C) of this title for which payment under part B of this subchapter is made under a fee schedule.
+&emsp;(B) Services furnished by a practitioner described in section 1395u(b)(18)(C) of this title for which payment under part B is made under a fee schedule.
 
-&emsp;(C) Services furnished by a physical therapist or occupational therapist as described in section 1395x(p) of this title for which payment under part B of this subchapter is made under a fee schedule.
+&emsp;(C) Services furnished by a physical therapist or occupational therapist as described in section 1395x(p) of this title for which payment under part B is made under a fee schedule.
 
-(3) Subsection (c) of this section shall not apply to payments made under this subsection.
+(3) Subsection (c) shall not apply to payments made under this subsection.
 
 #### (f) Cross reference
 
-For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, healthcare services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
+For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Pub. L. 94–437, title IV, §401(b), Sept. 30, 1976, 90 Stat. 1408; amended Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 106–417, §3(b)(1), Nov. 1, 2000, 114 Stat. 1815; Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–525; Pub. L. 108–173, title VI, §630, Dec. 8, 2003, 117 Stat. 2321; Pub. L. 111–148, title II, §2902(a), title X, §10221(a), (b)(4), Mar. 23, 2010, 124 Stat. 333, 935, 936.)
 
@@ -50,7 +50,7 @@ Pub. L. 111–148, §10221(a), enacted into law S. 1790, One Hundred Eleventh Co
 
 <b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–148, §2902(a), substituted "on or after" for "during the 5-year period beginning on".
 
-<b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–173 inserted "(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter)" after "for services described in paragraph (2)".
+<b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–173 inserted "(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B)" after "for services described in paragraph (2)".
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)(2)\], added subsec. (e). Former subsec. (e) redesignated (f).
 

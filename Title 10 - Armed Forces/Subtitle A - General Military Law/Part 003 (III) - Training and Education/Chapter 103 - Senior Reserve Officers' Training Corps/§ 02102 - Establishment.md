@@ -10,7 +10,7 @@
 
 &emsp;(3) the institution adopts, as a part of its curriculum, a four-year course of military instruction or a two-year course of advanced training of military instruction, or both, which the Secretary of the military department concerned prescribes and conducts.
 
-(c) At those institutions where a unit of the program is established membership of students in the program shall be elective or compulsory as provided by State law or the authorities of the institution concerned.
+(c) At those institutions where a unit of the program is established membership of studentsin the program shall be elective or compulsory as provided by State law or the authorities of the institution concerned.
 
 (d) The President shall cause to be established and maintained in each State at least one unit of the program if—
 

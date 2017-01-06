@@ -28,7 +28,7 @@ The Secretary shall initiate a 5-year program, in accordance with sections 13541
 
 &emsp;&emsp;(A) evidence of knowledge of current building practices in the United States and in other countries;
 
-&emsp;&emsp;(B) an explanation of how the proposal will encourage the commercialization of the technologies resulting from activities in subsection (a) of this section;
+&emsp;&emsp;(B) an explanation of how the proposal will encourage the commercialization of the technologies resulting from activities in subsection (a);
 
 &emsp;&emsp;(C) evidence of consideration of collaboration with Department of Energy national laboratories;
 

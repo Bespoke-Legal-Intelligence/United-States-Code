@@ -132,7 +132,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Termination of Reporting Requirements Contained in This Section
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), seesection 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
@@ -632,7 +632,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;"(3) Section 118(f) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2151p–1 \[(f)\]) (relating to the protection of tropical forests).
 
-&emsp;"(4) Section 586J(c)(4) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (Public Law 101–513 \[50 U.S.C. 1701 note\]) (relating to sanctions taken by other nations against Iraq).
+&emsp;"(4) Section 586J(c)(4) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (Public Law 101–513 \[50 U.S.C. 1701note\]) (relating to sanctions taken by other nations against Iraq).
 
 &emsp;"(5) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1; 105 Stat. 3 \[50 U.S.C. 1541 note\]) (relating to the status of efforts to obtain Iraqi compliance with United Nations Security Council resolutions).
 
@@ -834,7 +834,7 @@ Pub. L. 103–356, title III, §301, Oct. 13, 1994, 108 Stat. 3412, provided tha
 
 "(a)
 
-Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlinesthat shall provide for more efficient workload distribution or improve the quality of reports.
+Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlines that shall provide for more efficient workload distribution or improve the quality of reports.
 
 "(b)
 

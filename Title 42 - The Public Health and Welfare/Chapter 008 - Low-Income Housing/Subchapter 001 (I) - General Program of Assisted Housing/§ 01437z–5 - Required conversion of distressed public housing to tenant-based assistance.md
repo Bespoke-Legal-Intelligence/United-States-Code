@@ -6,7 +6,7 @@ Each public housing agency shall identify all public housing projects of the pub
 
 &emsp;(1) The project is on the same or contiguous sites.
 
-&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteriaestablished in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
+&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteria established in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
 
 &emsp;(3) The project—
 
@@ -16,13 +16,13 @@ Each public housing agency shall identify all public housing projects of the pub
 
 #### (b) Consultation
 
-Each public housing agency shall consult with the appropriate public housing residents and the appropriate unit of general local government in identifying any public housing projects under subsection (a) of this section.
+Each public housing agency shall consult with the appropriate public housing residents and the appropriate unit of general local government in identifying any public housing projects under subsection (a).
 
 #### (c) Plan for removal of units from inventories of PHAs
 
 #### (1) Development
 
-&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunction with the Secretary for the removal of public housing units identified under subsection (a) of this section from the inventory of the public housing agency and the annual contributions contract.
+&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunction with the Secretary for the removal of public housing units identified under subsection (a) from the inventory of the public housing agency and the annual contributions contract.
 
 #### (2) Approval
 
@@ -42,11 +42,11 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (A) Failure to identify projects
 
-&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a) of this section, the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
+&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that apublic housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a), the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
 
 #### (B) Erroneous identification of projects
 
-&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has identified 1 or more public housing projects that should not have been identified pursuant to subsection (a) of this section, the Secretary shall—
+&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has identified 1 or more public housing projects that should not have been identified pursuant to subsection (a), the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) require the public housing agency to revise the plan of the public housing agency under this subsection; and
 
@@ -60,7 +60,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (2) Conversion requirements
 
-&emsp;Each agency carrying out a plan under subsection (c) of this section for removal of public housing dwelling units from the inventory of the agency shall—
+&emsp;Each agency carrying out a plan under subsection (c) for removal of public housing dwelling units from the inventory of the agency shall—
 
 &emsp;&emsp;(A) notify each family residing in a public housing project to be converted under the plan 90 days prior to the displacement date, except in cases of imminent threat to health or safety, consistent with any guidelines issued by the Secretary governing such notifications, that—
 
@@ -88,11 +88,11 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (e) Cessation of unnecessary spending
 
-Notwithstanding any other provision of law, if, in the determination of the Secretary, a project or projects of a public housing agency meet or are likely to meet the criteria set forth in subsection (a) of this section, the Secretary may direct the agency to cease additional spending in connection with such project or projects until the Secretary determines or approves an appropriate course of action with respect to such project or projects under this section, except to the extent that failure to expend such amounts would endanger the health or safety of residents in the project or projects.
+Notwithstanding any other provision of law, if, in the determination of the Secretary, a project or projects of a public housing agency meet or are likely to meet the criteria set forth in subsection (a), the Secretary may direct the agency to cease additional spending in connection with such project or projects until the Secretary determines or approves an appropriate course of action with respect to such project or projects under this section, except to the extent that failure to expend such amounts would endanger the health or safety of residents in the project or projects.
 
 #### (f) Use of budget authority
 
-Notwithstanding any other provision of law, if a project or projects are identified pursuant to subsection (a) of this section, the Secretary may authorize or direct the transfer, to the tenant-based assistance program of such agency or to appropriate site revitalization or other capital improvements approved by the Secretary, of—
+Notwithstanding any other provision of law, if a project or projects are identified pursuant to subsection (a), the Secretary may authorize or direct the transfer, to the tenant-based assistance program of such agency or to appropriate site revitalization or other capital improvements approved by the Secretary, of—
 
 &emsp;(1) in the case of an agency receiving assistance under the comprehensive improvement assistance program, any amounts obligated by the Secretary for the modernization of such project or projects pursuant to section 1437l of this title (as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, if a project or projects are identif
 
 #### (g) Removal by Secretary
 
-The Secretary shall take appropriate actions to ensure removal of any public housing project identified under subsection (a) of this section from the inventory of a public housing agency, if the public housing agency fails to adequately develop a plan under subsection (c) of this section with respect to that project, or fails to adequately implement such plan in accordance with the terms of the plan.
+The Secretary shall take appropriate actions to ensure removal of any public housing project identified under subsection (a) from the inventory of a public housing agency, if the public housing agency fails to adequately develop a plan under subsection (c) with respect to thatproject, or fails to adequately implement such plan in accordance with the terms of the plan.
 
 #### (h) Administration
 

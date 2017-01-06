@@ -12,7 +12,7 @@ Promotion Authority for Certain Officers With Critical Skills.—An officer in t
 
 (b)
 
-Status of Officers Appointed.—(1) An appointment under this section does not changethe position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+Status of Officers Appointed.—(1) An appointment under this section does not change the position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
 
 (2) For the purposes of section 523 of this title, an officer holding an appointment under this section is considered as serving in the grade of lieutenant commander.
 
@@ -34,7 +34,7 @@ Termination of Appointment.—Unless sooner terminated, an appointment under thi
 
 (f)
 
-Limitation on Number of Eligible Positions.—An appointment under this section may only be made for service in a position designated by the Secretary of the Navy for purposes of this section. The number of positions so designated may not exceed 325.
+Limitation on Number of Eligible Positions.—An appointment under this section may only be made for service in a position designatedby the Secretary of the Navy for purposes of this section. The number of positions so designated may not exceed 325.
 
 (Added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 104–106, div. A, title V, §508(a), (b), (d), Feb. 10, 1996, 110 Stat. 296, 297; Pub. L. 104–201, div. A, title V, §503, Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title X, §1041(a)(20), Dec. 2, 2002, 116 Stat. 2645.)
 

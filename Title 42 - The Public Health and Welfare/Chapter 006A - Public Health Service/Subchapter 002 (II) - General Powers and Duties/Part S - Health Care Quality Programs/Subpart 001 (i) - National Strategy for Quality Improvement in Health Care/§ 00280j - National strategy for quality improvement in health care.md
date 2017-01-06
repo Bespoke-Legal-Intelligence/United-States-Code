@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) identify areas in the delivery of health care services that have the potential for rapid improvement in the quality and efficiency of patient care;
 
-&emsp;&emsp;&emsp;(iii) address gaps in quality, efficiency, comparative effectiveness information (taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act \[42 U.S.C. 1320e–1(c), (d)\]), and health outcomes measures and data aggregation techniques;
+&emsp;&emsp;&emsp;(iii) address gaps in quality, efficiency, comparative effectiveness information\(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act \[42 U.S.C. 1320e–1(c), (d)\]), and health outcomes measures and data aggregation techniques;
 
 &emsp;&emsp;&emsp;(iv) improve Federal payment policy to emphasize quality and efficiency;
 

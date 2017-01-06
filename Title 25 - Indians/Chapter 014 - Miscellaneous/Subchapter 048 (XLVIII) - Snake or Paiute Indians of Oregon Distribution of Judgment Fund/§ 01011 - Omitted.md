@@ -1,0 +1,6 @@
+### §1011. Omitted
+
+#### Codification
+
+Section, Pub. L. 88–464, §1, Aug. 20, 1964, 78 Stat. 563, which related to membership roll, was omitted from the Code as being of special and not general application.
+

@@ -46,7 +46,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;&emsp;(C) Losses from sales or other dispositions of property shall be allowed only to the extent of gains from such sales or other dispositions, and there shall be no capital loss carryovers or carrybacks.
 
-&emsp;&emsp;(D) Except to the extent provided by regulation, under rules similar to the rules of section 1031 (including the exception under subsection (a)(2) thereof), no gain or loss shall be taken into account with respect to any portion of property used for a period of not less than 1 year for a purpose or function constituting the basis of the private foundation's exemption if the entire property is exchanged immediately following such period solely for property of like kind which is to be used primarily for a purpose or function constituting the basis for such foundation's exemption.
+&emsp;&emsp;(D) Except to the extent provided by regulation, under rules similar to the rules of section 1031 (including the exception under subsection (a)(2) thereof), no gain or lossshall be taken into account with respect to any portion of property used for a period of not less than 1 year for a purpose or function constituting the basis of the private foundation's exemption if the entire property is exchanged immediately following such period solely for property of like kind which is to be used primarily for a purpose or function constituting the basis for such foundation's exemption.
 
 #### (5) Tax-exempt income
 
@@ -374,5 +374,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Public Support Requirement Not Applicable to Certain Existing Foundations
 
-Pub. L. 98–369, div. A, title III, §302(c)(3), July 18, 1984, 98 Stat. 781, provided that: "A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a))."
+Pub. L. 98–369, div. A, title III, §302(c)(3), July 18, 1984, 98 Stat. 781, provided that: "A foundation which was anoperating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a))."
 

@@ -4,7 +4,7 @@
 
 #### (1) Report card
 
-&emsp;Each institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and that enrolls students receiving Federal assistance under this chapter and part C of subchapter I of chapter 34 of title 42 shall report annually to the State and the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, the following:
+&emsp;Each institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and that enrolls students receiving Federal assistance under this chapter shall report annually to the State and the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, the following:
 
 #### (A) Goals and assurances
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) the percentage of all students who passed such assessment;
 
-&emsp;&emsp;&emsp;(iii) the percentage of students who have taken such assessment who enrolled in andcompleted the traditional teacher preparation program or alternative routes to State certification or licensure program, as applicable;
+&emsp;&emsp;&emsp;(iii) the percentage of students who have taken such assessment who enrolled in and completed the traditional teacher preparation program or alternative routes to State certification or licensure program, as applicable;
 
 &emsp;&emsp;&emsp;(iv) the average scaled score for all students who took such assessment;
 
@@ -62,7 +62,7 @@
 
 #### (G) Teacher training
 
-&emsp;&emsp;A description of the activities that prepare general education and special education teachers to teach students with disabilities effectively, including training related to participation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title, and to effectively teach students who are limited English proficient.
+&emsp;&emsp;A description of the activities that prepare general education and special education teachers to teach students with disabilities effectively, including training related toparticipation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title, and to effectively teach students who are limited English proficient.
 
 #### (2) Report
 
@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;Each State that receives funds under this chapter and part C of subchapter I of chapter 34 of title 42 shall provide to the Secretary, and make widely available to the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, an annual State report card on the quality of teacher preparation in the State, both for traditional teacher preparation programs and for alternative routes to State certification or licensure programs, which shall include not less than the following:
+&emsp;Each State that receives funds under this chapter shall provide to the Secretary, and make widely available to the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, an annual State report card on the quality of teacher preparation in the State, both for traditional teacher preparation programs and for alternative routes to State certification or licensure programs, which shall include not less than the following:
 
 &emsp;&emsp;(A) A description of the reliability and validity of the teacher certification and licensure assessments, and any other certification and licensure requirements, used by the State.
 

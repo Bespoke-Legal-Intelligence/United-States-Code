@@ -2,7 +2,15 @@
 
 (a)
 
-Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of the simplified acquisition threshold, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement.
+Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
+
+&emsp;(1) Logistics management services.
+
+&emsp;(2) Equipment related services.
+
+&emsp;(3) Knowledge-based services.
+
+&emsp;(4) Electronics and communications services.
 
 (b)
 
@@ -36,7 +44,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 (c)
 
-Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+Inventory Summary.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
 
 &emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
 
@@ -68,17 +76,15 @@ Inventory.—(1) Not later than the end of the third quarter of each fiscal year
 
 (d)
 
-Public Availability of Inventories.—Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall—
-
-&emsp;(1) make the inventory available to the public; and
-
-&emsp;(2) publish in the Federal Register a notice that the inventory is available to the public.
-
-(e)
-
 Review and Planning Requirements.—Within 90 days after the date on which an inventory is submitted under subsection (c), the Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall—
 
-&emsp;(1) review the contracts and activities in the inventory for which such Secretary or agency head is responsible;
+&emsp;(1) review the contracts and activities in the inventory for which such Secretary or agency head is responsible, with particular focus and attention on the following categories of high-risk product service codes (also referred to as Federal supply codes):
+
+&emsp;&emsp;(A) Special studies or analysis that is not research and development.
+
+&emsp;&emsp;(B) Information technology and telecommunications.
+
+&emsp;&emsp;(C) Support, including professional, administrative, and management.; <sup>1</sup>
 
 &emsp;(2) ensure that—
 
@@ -94,7 +100,7 @@ Review and Planning Requirements.—Within 90 days after the date on which an in
 
 &emsp;&emsp;(B) to an acquisition approach that would be more advantageous to the Department of Defense.
 
-(f)
+(e)
 
 Development of Plan and Enforcement and Approval Mechanisms.—The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
 
@@ -106,49 +112,93 @@ Development of Plan and Enforcement and Approval Mechanisms.—The Secretary of 
 
 &emsp;(4) provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
 
+(f)
+
+Comptroller General Report.—Not later than March 31, 2018, the Comptroller General of the United States shall submit to the congressional defense committees a report on the status of the data collection required in subsection (a) and an assessment of the efforts by the Department of Defense to implement subsection (e).
+
 (g)
-
-Inspector General Report.—Not later than May 1 of each year, beginning with 2014 and ending with 2016, the Inspector General of the Department of Defense shall submit to the congressional defense committees a report containing the Inspector General's assessment of—
-
-&emsp;(1) the efforts by the Department of Defense to compile the inventory pursuant to subsection (c); and
-
-&emsp;(2) the reviews conducted under subsection (e), including the actions taken to resolve thefindings of the reviews in accordance with section 2463 of this title.
-
-(h)
-
-Comptroller General Report.—Not later than September 30 of each year, beginning with 2014 and ending with 2016, the Comptroller General of the United States shall submit to the congressional defense committees a report containing the Comptroller General's assessment of the efforts by the Department of Defense to implement subsections (e) and (f).
-
-(i)
 
 Rule of Construction.—Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
 
-(j)
+(h)
 
 Definitions.—In this section:
 
 &emsp;(1) The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
 
-&emsp;(2) The definitions set forth in section 2225(f) of this title for the terms "simplified acquisition threshold", "small business concern", "small business concern owned and controlled by socially and economically disadvantaged individuals", and "small business concern owned and controlled by women" shall apply.
-
-&emsp;(3)
+&emsp;(2)
 
 Function closely associated with inherently governmental functions.—The term "function closely associated with inherently governmental functions" has the meaning given that term in section 2383(b)(3) of this title.
 
-&emsp;(4)
+&emsp;(3)
 
 Inherently governmental functions.—The term "inherently governmental functions" has the meaning given that term in section 2383(b)(2) of this title.
 
-&emsp;(5)
+&emsp;(4)
 
 Personal services contract.—The term "personal services contract" means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839.)
+&emsp;(6) <sup>2</sup> The term "service acquisition portfolio groups" means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services (January 5, 2016) or successor guidance.
+
+&emsp;(7) The term "staff augmentation contracts" means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency's missions, including authorized personal services contracts (as that term is defined in section 2330a(g)(5) of this title).
+
+&emsp;(5) <sup>3</sup>
+
+Simplified acquisition threshold.—The term "simplified acquisition threshold" has the meaning given the term in section 134 of title 41.
+
+&emsp;(6) <sup>2</sup>
+
+Small business act definitions.—
+
+&emsp;&emsp;(A) The term "small business concern" has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632).
+
+&emsp;&emsp;(B) The terms "small business concern owned and controlled by socially and economically disadvantaged individuals" and "small business concern owned and controlled by women" have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
+
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284.)
+
+#### Codification
+
+Amendments by section 833(b)(2)(C)(ii) of Pub. L. 114–328, which were directed to be made to subsec. (j) of this section, were executed to subsec. (h) of this section to reflect the probable intent of Congress and the redesignation of subsec. (j) as (h) by section 812(d)(2) of Pub. L. 114–328. Section 833(b)(2)(C)(ii)(III) of Pub. L. 114–328, which directed the addition of pars. (5) and (6) at the end of such subsection, was executed after the amendment by section 812(g) of Pub. L. 114–328, which added pars. (6) and (7) at the end of subsec. (h).
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §812(a), (b), substituted "in excess of $3,000,000" for "in excess of the simplified acquisition threshold" and ", for services in the following service acquisition portfolio groups:" for period at end and added pars. (1) to (4).
+
+Subsec. (c). Pub. L. 114–328, §812(c)(1), substituted "Inventory Summary" for "Inventory" in heading.
+
+Subsec. (c)(1). Pub. L. 114–328, §812(c)(2), substituted "prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts on behalf" for "submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf".
+
+Subsec. (d). Pub. L. 114–328, §812(d), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall—
+
+&emsp;"(1) make the inventory available to the public; and
+
+&emsp;"(2) publish in the Federal Register a notice that the inventory is available to the public."
+
+Subsec. (d)(1). Pub. L. 114–328, §812(e), inserted ", with particular focus and attention on the following categories of high-risk product service codes (also referred to as Federal supply codes):" after "responsible" and added subpars. (A) to (C).
+
+Subsec. (e). Pub. L. 114–328, §812(d)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 114–328, §812(f), added subsec. (f). Former subsec. (f) redesignated (e).
+
+Subsecs. (g), (h). Pub. L. 114–328, §812(d), redesignated subsecs. (i) and (j) as (g) and (h), respectively, and struck out former subsecs. (g) and (h) which related to Inspector General reports and Comptroller General reports, respectively.
+
+Subsec. (h)(2). Pub. L. 114–328, §833(b)(2)(C)(ii)(I), (II), redesignated par. (3) as (2) and struck out former par. (2). See Codification note above. Prior to amendment, par. (2) read as follows: "The definitions set forth in section 2225(f) of this title for the terms 'simplified acquisition threshold', 'small business concern', 'small business concern owned and controlled by socially and economically disadvantaged individuals', and 'small business concern owned and controlled by women' shall apply."
+
+Subsec. (h)(3), (4). Pub. L. 114–328, §833(b)(2)(C)(ii)(II), redesignated pars. (4) and (5) as (3) and (4), respectively. See Codification note above. Former par. (3) redesignated (2).
+
+Subsec. (h)(5). Pub. L. 114–328, §833(b)(2)(C)(ii)(III), added par. (5). See Codification note above. Former par. (5) redesignated (4).
+
+Subsec. (h)(6). Pub. L. 114–328, §833(b)(2)(C)(ii)(III), added par. (6) relating to Small Business Act definitions. See Codification note above.
+
+Pub. L. 114–328, §812(g), added par. (6) defining "service acquisition portfolio groups".
+
+Subsec. (h)(7). Pub. L. 114–328, §812(g), added par. (7).
+
+Subsecs. (i), (j). Pub. L. 114–328, §812(d)(2), redesignated subsecs. (i) and (j) as (g) and (h), respectively.
+
 <b>2013</b>—Subsecs. (g) to (j). Pub. L. 113–66 added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted "The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:" for "The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:" in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out formersubpar. (E) which read as follows: "The number of full-time contractor employees (or its equivalent) paid for the performance of the activity."
 
 Subsec. (c)(1). Pub. L. 112–81, §936(a)(1), inserted "(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)" after "pursuant to contracts for services" in introductory provisions.
 
@@ -192,5 +242,11 @@ Guidance Required.—Not later than 270 days after the date of the enactment of 
 
 "(b)
 
-Definition of Personal Services Contract.—In this section, the term 'personal services contract' has the meaning given that term in section 2330a(g)(5) \[now 2330a(h)(5)\] of title 10, United States Code."
+Definition of Personal Services Contract.—In this section, the term 'personal services contract' has the meaning given that term in section 2330a(g)(5) \[former 2330a(h)(5)\] of title 10, United States Code."
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. There are two pars. (6).</i>
+
+<i><sup>3</sup></i><i> See Codification note below.</i>
 

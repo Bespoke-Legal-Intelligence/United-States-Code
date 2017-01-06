@@ -6,7 +6,7 @@ It is the purpose of this section to encourage the establishment of partnerships
 
 &emsp;(1) improve the diversity and quality of educational opportunities for such students;
 
-&emsp;(2) assist the development efforts of eligible countries by providing training and educational assistance to persons who can helpaddress the social and economic needs of these countries;
+&emsp;(2) assist the development efforts of eligible countries by providing training and educational assistance to persons who can help address the social and economic needs of these countries;
 
 &emsp;(3) expand opportunities for cross-cultural studies and exchanges and improve the exchange of understanding and principles of democracy;
 
@@ -26,7 +26,7 @@ In carrying out this section, the Administrator may make grants to States to pro
 
 #### (d) Agreement with States
 
-The Administrator and each participating State shall agree on a program regarding the educational opportunities available within the State, the selection and assignment of scholarship recipients, and related issues. To the maximum extent practicable, each State shall be given flexibility in designing its program.
+The Administrator and each participating State shall agree on a program regarding theeducational opportunities available within the State, the selection and assignment of scholarship recipients, and related issues. To the maximum extent practicable, each State shall be given flexibility in designing its program.
 
 #### (e) Federal share
 

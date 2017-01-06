@@ -2,7 +2,7 @@
 
 #### (a) Contract authority of Secretary; limitation; available appropriations
 
-The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
+The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b). The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
 
 #### (b) Functions
 
@@ -66,7 +66,7 @@ Clarification.—In adopting and using standards of quality under paragraph (2)(
 
 The Secretary shall establish procedures for—
 
-&emsp;(1) receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
+&emsp;(1) receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 

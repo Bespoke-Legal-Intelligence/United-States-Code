@@ -9,7 +9,7 @@
 | [2384a.](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md) | Supplies: economic order quantities. |
 | [2385\.](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md) | Arms and ammunition: immunity from taxation. |
 | [2386\.](%C2%A7%2002386%20-%20Copyrights%2C%20patents%2C%20designs%2C%20etc.%3B%20acquisition.md) | Copyrights, patents, designs, etc.; acquisition. |
-| [2387\.](%C2%A7%2002387%20-%20Procurement%20of%20table%20and%20kitchen%20equipment%20for%20officers%27%20quarters%20limitation%20on.md) | Procurement of table and kitchen equipment for officers' quarters: limitation on. |
+| \[2387. | Repealed.\] |
 | \[2388. | Renumbered.\] |
 | [2389\.](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md) | Ensuring safety regarding insensitive munitions. |
 | [2390\.](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md) | Prohibition on the sale of certain defense articles from the stocks of the Department of Defense. |
@@ -47,10 +47,13 @@
 | 2410<i>o.</i> | Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products. |
 | [2410p.](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md) | Contracts: limitations on lead system integrators. |
 | [2410q.](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md) | Multiyear contracts: purchase of electricity from renewable energy sources. |
+| [2410r.](%C2%A7%2002410r%20-%20Contract%20working%20dogs%20requirement%20to%20transfer%20animals%20to%20341st%20Training%20Squadron%20after%20service%20life.md) | Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title III, §342(a)(2), title VIII, §833(b)(4)(B), Dec. 23, 2016, 130 Stat. 2082, 2285, added item 2410r and struck out item 2387 "Procurement of table and kitchen equipment for officers' quarters: limitation on".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title XVI, §1671(c)(1), Jan. 2, 2013, 126 Stat. 2084, struck out item 2382 "Consolidation of contract requirements: policy and restrictions".
 
@@ -74,7 +77,7 @@ Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382
 
 <b>1997</b>—Pub. L. 105–85, div. A, title VIII, §§801(b), 810(a)(2), 831(b), 847(b)(1), title X, §1014(b)(2), Nov. 18, 1997, 111 Stat. 1831, 1839, 1842, 1845, 1875, inserted "public utility services," after "tuition," in item 2396, struck out items 2403 "Major weapon systems: contractor guarantees" and 2405 "Limitation on adjustment of shipbuilding contracts", substituted "Severable service contracts for periods crossing fiscal years" for "Appropriated funds: availability for certain contracts for 12 months" in item 2410a, and added item 2410m.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 "Procurement of critical aircraft and ship spare parts: quality control", 2397 "Employees or former employees of defense contractors: reports", 2397a "Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors", 2397b "Certain former Department of Defense procurement officials: limitations on employment by contractors", and 2397c "Defense contractors: requirements concerning former Department of Defense officials" and substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" in item 2401a.
+<b>1996</b>—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 "Procurement of critical aircraft and ship spare parts: quality control", 2397 "Employees or former employees of defense contractors: reports", 2397a "Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors", 2397b "Certain former Department of Defenseprocurement officials: limitations on employment by contractors", and 2397c "Defense contractors: requirements concerning former Department of Defense officials" and substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" in item 2401a.
 
 <b>1994</b>—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 "Contract profit controls during emergency periods", 2406 "Availability of cost and pricing records", 2409a "Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions", and 2410e "Contract claims: certification regulations", and substituted in item 2410 "Requests for equitable adjustment or other relief: certification" for "Contract claims: certification".
 
@@ -154,7 +157,7 @@ Certification.—Not later than 90 days after the date of the enactment of this 
 - [&sect; 02384a - Supplies economic order quantities](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md)
 - [&sect; 02385 - Arms and ammunition immunity from taxation](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md)
 - [&sect; 02386 - Copyrights, patents, designs, etc.; acquisition](%C2%A7%2002386%20-%20Copyrights%2C%20patents%2C%20designs%2C%20etc.%3B%20acquisition.md)
-- [&sect; 02387 - Procurement of table and kitchen equipment for officers' quarters limitation on](%C2%A7%2002387%20-%20Procurement%20of%20table%20and%20kitchen%20equipment%20for%20officers%27%20quarters%20limitation%20on.md)
+- [&sect; 02387 - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(4)(A), Dec. 23, 2016, 130 Stat. 2285](%C2%A7%2002387%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%284%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202285.md)
 - [&sect; 02388 - Renumbered &sect;2922](%C2%A7%2002388%20-%20Renumbered%20%C2%A72922.md)
 - [&sect; 02389 - Ensuring safety regarding insensitive munitions](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md)
 - [&sect; 02390 - Prohibition on the sale of certain defense articles from the stocks of the Department of Defense](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md)
@@ -199,3 +202,4 @@ Certification.—Not later than 90 days after the date of the enactment of this 
 - [&sect; 02410o - Multiyear procurement authority purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products](%C2%A7%2002410o%20-%20Multiyear%20procurement%20authority%20purchase%20of%20dinitrogen%20tetroxide%2C%20hydrazine%2C%20and%20hydrazine-related%20products.md)
 - [&sect; 02410p - Contracts limitations on lead system integrators](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md)
 - [&sect; 02410q - Multiyear contracts purchase of electricity from renewable energy sources](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md)
+- [&sect; 02410r - Contract working dogs requirement to transfer animals to 341st Training Squadron after service life](%C2%A7%2002410r%20-%20Contract%20working%20dogs%20requirement%20to%20transfer%20animals%20to%20341st%20Training%20Squadron%20after%20service%20life.md)

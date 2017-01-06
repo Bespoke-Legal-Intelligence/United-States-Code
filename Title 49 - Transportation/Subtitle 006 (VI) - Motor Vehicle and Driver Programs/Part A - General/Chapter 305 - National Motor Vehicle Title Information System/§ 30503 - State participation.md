@@ -26,7 +26,7 @@ Grants to States.—(1) In cooperation with the States and not later than Januar
 
 &emsp;(B) determine for each State the cost of making titling information maintained by that State available to the operator to meet the requirements of section 30502(d) of this title.
 
-(2) The Attorney General may make reasonable and necessary grants to participating States to be used in making titling information maintained by those States available to the operator.
+(2) The Attorney General may make reasonable and necessary grants to participating States to be used in making titling informationmaintained by those States available to the operator.
 
 (d)
 

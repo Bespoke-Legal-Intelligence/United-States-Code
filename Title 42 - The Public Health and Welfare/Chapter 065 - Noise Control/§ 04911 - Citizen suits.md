@@ -2,7 +2,7 @@
 
 #### (a) Authority to commence suits
 
-Except as provided in subsection (b) of this section, any person (other than the UnitedStates) may commence a civil action on his own behalf—
+Except as provided in subsection (b) of this section, any person (other than the United States) may commence a civil action on his own behalf—
 
 &emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup> of this section), or
 

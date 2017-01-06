@@ -6,11 +6,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;On their own initiative, or at the request of the Secretary, the Corporation and the Board of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the board of directors of the Corporation then serving.
+&emsp;&emsp;On their own initiative, or at the request of the Secretary, the Corporation and the Board of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be madeupon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the board of directors of the Corporation then serving.
 
 #### (B) Cases involving brokers or dealers
 
-&emsp;&emsp;In the case of a broker or dealer, or in which the largest United States subsidiary\(as measured by total assets as of the end of the previous calendar quarter) of a financial company is a broker or dealer, the Commission and the Board of Governors, at the request of the Secretary, or on their own initiative, shall consider whether to make the written recommendation described in paragraph (2) with respect to the financial company. Subject to the requirements in paragraph (2), such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the Commission then serving, and in consultation with the Corporation.
+&emsp;&emsp;In the case of a broker or dealer, or in which the largest United States subsidiary (as measured by total assets as of the end of the previous calendar quarter) of a financial company is a broker or dealer, the Commission and the Board of Governors, at the request of the Secretary, or on their own initiative, shall consider whether to make the written recommendation described in paragraph (2) with respect to the financial company. Subject to the requirements in paragraph (2), such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the Commission then serving, and in consultation with the Corporation.
 
 #### (C) Cases involving insurance companies
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 &emsp;&emsp;(B) the sources of capital and credit support that were available to the covered financial company;
 
-&emsp;&emsp;(C) the operations of the covered financial company that could have had a significantimpact on financial stability, markets, or both;
+&emsp;&emsp;(C) the operations of the covered financial company that could have had a significant impact on financial stability, markets, or both;
 
 &emsp;&emsp;(D) identification of the banks and financial companies which may be able to provide the services offered by the covered financial company;
 
@@ -167,4 +167,8 @@ This subchapter, referred to in subsecs. (a) to (d), was in the original "this t
 #### Amendments
 
 <b>2015</b>—Subsec. (e)(3). Pub. L. 114–113 inserted "or rehabilitation" after "orderly liquidation" in two places.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 

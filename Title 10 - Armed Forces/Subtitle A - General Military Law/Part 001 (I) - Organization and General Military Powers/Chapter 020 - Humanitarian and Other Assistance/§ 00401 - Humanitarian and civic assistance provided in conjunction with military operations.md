@@ -116,7 +116,11 @@ Subsec. (d). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 405 "Definition of humanitarian and civic assistance", designated text of former section 405 as subsec. (e) of this section, and substituted "section" for "chapter".
 
-Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditurelimitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
+Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditure limitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Authority To Conduct Activities To Enhance the Capability of Foreign Countries To Respond to Incidents Involving Weapons of Mass Destruction
 
@@ -189,6 +193,8 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 "(h)
 
 Expiration.—The authority to provide assistance under this section may not be exercised after September 30, 2019."
+
+<i>\[Pub. L. 114–328, div. A, title XII, §1241(d)(5), Dec. 23, 2016, 130 Stat. 2504, provided that, effective as of the date that is 270 days after Dec. 23, 2016, section 1204 of Pub. L. 113–66, set out above, is repealed.\]</i>
 
 #### Requirement To Ensure the Effectiveness and Efficiency of Health Engagements
 

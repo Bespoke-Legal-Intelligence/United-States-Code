@@ -58,11 +58,11 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–227, §1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: "This Act \[amending section 58c of thistitle and enacting provisions set out as notes under section 58c of this title and section 6655 of Title 26, Internal Revenue Code\] may be cited as the 'United States Manufacturing Enhancement Act of 2010'."
+Pub. L. 111–227, §1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: "This Act \[amending section 58c of this title and enacting provisions set out as notes under section 58c of this title and section 6655 of Title 26, Internal Revenue Code\] may be cited as the 'United States Manufacturing Enhancement Act of 2010'."
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1965</b>
 
@@ -120,7 +120,7 @@ This results in a net reduction of more than 50 separate principal field offices
 
 At the headquarters level, four new offices will be established to replace seven divisions. A new position of special assistant to the Commissioner will be created and charged with responsibility for insuring that all Customs employees conduct themselves in strict compliance with all applicable laws and regulations. Up to now this function has been one of a number lodged with an existing division.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 1 of 1965 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
+After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 1 of 1965 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
 It should be emphasized that abolition by Reorganization Plan No. 1 of 1965 of the offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise will in no way prejudice any right of any person affected by the laws administered by the Bureau of Customs. The rights of importers and others, for example, before the Customs Court, arising out of the administration of such functions will remain unaffected. In addition it should be emphasized that all essential services to the importing, exporting, and traveling public will continue to be performed.
 

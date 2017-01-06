@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;&emsp;(B) risks potential depletion in the future without effective monitoring and conservation and management measures.
 
-&emsp;(4) It is in the national interest to implement effective procedures and measures to provide for effective interjurisdictional conservation and management of this species.
+&emsp;(4) It is in the national interest to implement effective procedures and measures toprovide for effective interjurisdictional conservation and management of this species.
 
 #### (b) Purpose
 

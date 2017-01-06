@@ -198,5 +198,5 @@ Electric light bulbs used in manufacture of articles upon which tax is repealed.
 
 #### Construction of 2004 Amendment
 
-Pub. L. 108–493, §1(a), Dec. 23, 2004, 118 Stat. 3984, provided that: "Subsection (b) of section 332 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\], and the amendments made by such subsection \[amending this section\], are hereby repealed; and the Internal RevenueCode of 1986 shall be applied as if such subsection and amendments had never been enacted."
+Pub. L. 108–493, §1(a), Dec. 23, 2004, 118 Stat. 3984, provided that: "Subsection (b) of section 332 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\], and the amendments made by such subsection \[amending this section\], are hereby repealed; and the Internal Revenue Code of 1986 shall be applied as if such subsection and amendments had never been enacted."
 

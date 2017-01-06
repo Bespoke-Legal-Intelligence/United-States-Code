@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(2) The total acreage identified in 1936 for consideration for inclusion in the battlefield park consisted of approximately 225,000 acres in and around the City of Richmond. A study undertaken by the congressionally authorized Civil War Sites Advisory Committee determined that of these 225,000 acres, the historically significant areas relating to the campaigns against and in defense of Richmond encompass approximately 38,000 acres.
 
-&emsp;(3) In a 1996 general management plan, the National Park Service identified approximately 7,121 acres in and around the City of Richmond that satisfy the National ParkService criteria of significance, integrity, feasibility, and suitability for inclusion in the battlefield park. The National Park Service later identified an additional 186 acres for inclusion in the battlefield park.
+&emsp;(3) In a 1996 general management plan, the National Park Service identified approximately 7,121 acres in and around the City of Richmond that satisfy the National Park Service criteria of significance, integrity, feasibility, and suitability for inclusion in the battlefield park. The National Park Service later identified an additional 186 acres for inclusion in the battlefield park.
 
 &emsp;(4) There is a national interest in protecting and preserving sites of historical significance associated with the Civil War and the City of Richmond.
 

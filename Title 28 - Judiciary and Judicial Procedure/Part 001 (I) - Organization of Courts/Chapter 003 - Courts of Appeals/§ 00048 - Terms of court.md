@@ -32,7 +32,7 @@
 
 &emsp;(1) through the Administrative Office of the United States Courts, shall—
 
-&emsp;&emsp;(A) send notice of such order, including the reasons for the issuance of such order, to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives; and
+&emsp;&emsp;(A) send notice of such order, including the reasons for the issuance of such order, to theCommittee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives; and
 
 &emsp;&emsp;(B) not later than 180 days after the expiration of such court order submit a brief report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives describing the impact of such order, including—
 

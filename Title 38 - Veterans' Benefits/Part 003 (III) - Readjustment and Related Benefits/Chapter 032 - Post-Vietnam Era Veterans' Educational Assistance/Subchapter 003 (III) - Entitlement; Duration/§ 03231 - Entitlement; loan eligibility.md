@@ -18,7 +18,7 @@
 
 &emsp;(i) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; or
 
-&emsp;(ii) in the case of a person serving on active duty, had to discontinue such course pursuit as a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
+&emsp;(ii) in the case of a person serving on active duty, had to discontinue such course pursuitas a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
 
 &emsp;(iii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) or (ii) of this subparagraph, his or her course pursuit.
 
@@ -50,7 +50,7 @@
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979; Pub. L. 109–461, title X, §1002(c), Dec. 22, 2006, 120 Stat. 3465.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat.3365; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979; Pub. L. 109–461, title X, §1002(c), Dec. 22, 2006, 120 Stat. 3465.)
 
 #### Amendments
 

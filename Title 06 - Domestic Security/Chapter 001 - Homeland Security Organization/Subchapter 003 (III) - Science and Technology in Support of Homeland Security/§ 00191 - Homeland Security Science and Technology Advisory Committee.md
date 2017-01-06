@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department a Homeland Security Science and Technology Advisory Committee (in this section referred to as the "Advisory Committee"). The Advisory Committee shall make recommendations with respect to the activities of the Under Secretary for Science and Technology, including identifying research areas of potential importance to the security of the Nation.
+There is established within the Department a Homeland Security Science and Technology Advisory Committee (in this section referred to as the "Advisory Committee"). The Advisory Committee shall make recommendations with respect to the activities of the Under Secretaryfor Science and Technology, including identifying research areas of potential importance to the security of the Nation.
 
 #### (b) Membership
 

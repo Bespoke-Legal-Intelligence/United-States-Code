@@ -12,7 +12,7 @@
 
 (2) Except as provided in paragraphs (3) and (4) of this subsection, the following fish tender vessels are exempt from section 3301(1), (6), (7), (11), and (12) of this title:
 
-&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title oran alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 &emsp;(B) A vessel engaged in the Aleutian trade that is not more than 2,500 gross tons as measured under section 14302 of this title.
 
@@ -128,7 +128,7 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711,title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703.)
 
 Historical and Revision Notes
 
@@ -150,7 +150,7 @@ Historical and Revision Notes
 
 46:442
 
-Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
+Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vesselssubject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
 
@@ -222,7 +222,7 @@ Amendment by section 602(b) of Pub. L. 101–595 effective Nov. 16, 1990, except
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Vessels Repaired or Retrofitted for Mobile Trade Fair Purposes Deemed Out of Commission
 
@@ -230,7 +230,7 @@ Pub. L. 100–418, title X, §10003(b), Aug. 23, 1988, 102 Stat. 1573, provided 
 
 #### Exemption of Certain Fishing and Fish Processing Vessels
 
-Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat. 68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
+Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat.68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
 
 "(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type, before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
 

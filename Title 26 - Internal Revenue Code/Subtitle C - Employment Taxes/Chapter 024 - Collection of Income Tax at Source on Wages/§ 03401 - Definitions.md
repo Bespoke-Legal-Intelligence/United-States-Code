@@ -52,7 +52,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 &emsp;&emsp;(D) under an arrangement to which section 408(p) applies; or
 
-&emsp;&emsp;(E) under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b)which is maintained by an eligible employer described in section 457(e)(1)(A),<sup>1</sup> or
+&emsp;&emsp;(E) under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b) which is maintained by an eligible employer described in section 457(e)(1)(A),<sup>1</sup> or
 
 &emsp;(13) pursuant to any provision of law other than section 5(c) or 6(1) of the Peace Corps Act, for service performed as a volunteer or volunteer leader within the meaning of such Act; or
 
@@ -190,7 +190,7 @@ Subsec. (a)(20). Pub. L. 98–369, §531(d)(4)(B), added par. (20).
 
 Subsec. (a)(18). Pub. L. 97–34, §124(e)(2)(A), substituted "section 127 or 129" for "section 127".
 
-Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), relating to remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it was reasonable to believe that a corresponding deduction was allowable under section 913 (relating to deduction for certain expenses of living abroad), was struck out.
+Pub. L. 97–34, §112(b)(5), redesignated par. (19) as (18). Former par. (18), relating to remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it was reasonable to believe that a corresponding deduction wasallowable under section 913 (relating to deduction for certain expenses of living abroad), was struck out.
 
 Subsec. (a)(19), (20). Pub. L. 97–34, §112(b)(5), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
@@ -366,7 +366,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Controversies Involving Whether Individuals Are Employees for Purposes of Employment Taxes
 
-Pub. L. 95–600, title V, §530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat.2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766; Pub. L. 109–280, title VIII, §864(a), Aug. 17, 2006, 120 Stat. 1024; Pub. L. 110–458, title I, §108(m), Dec. 23, 2008, 122 Stat. 5110, provided that:
+Pub. L. 95–600, title V, §530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat. 2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766; Pub. L. 109–280, title VIII, §864(a), Aug. 17, 2006, 120 Stat. 1024; Pub. L. 110–458, title I, §108(m), Dec. 23, 2008, 122 Stat. 5110, provided that:
 
 "(a)
 

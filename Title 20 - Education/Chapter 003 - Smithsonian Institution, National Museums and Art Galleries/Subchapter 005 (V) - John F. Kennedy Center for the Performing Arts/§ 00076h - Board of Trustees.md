@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(iii) three additional Members of the Senate appointed by the President of the Senate; and
 
-&emsp;&emsp;(L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b) of this section.
+&emsp;&emsp;(L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b).
 
 #### (b) General trustees
 
@@ -84,7 +84,7 @@ Pub. L. 103–279, §2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
 
 "(A)
 
-Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
+Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of theDistrict of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
 
 "(B)
 

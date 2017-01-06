@@ -26,7 +26,7 @@ Terms and Conditions.—An employee of a private sector organization assigned to
 
 &emsp;&emsp;(G) chapter 21 of title 41;
 
-&emsp;(3) may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which he is assigned; and
+&emsp;(3) may not have access to any trade secrets or to any other nonpublic information whichis of commercial value to the private sector organization from which he is assigned; and
 
 &emsp;(4) is subject to such regulations as the President may prescribe.
 
@@ -53,4 +53,8 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(2)(G). Pub. L. 111–350 substituted "chapter 21 of title 41" for "section 27 of the Office of Federal Procurement Policy Act".
+
+#### Effective Date
+
+Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
 

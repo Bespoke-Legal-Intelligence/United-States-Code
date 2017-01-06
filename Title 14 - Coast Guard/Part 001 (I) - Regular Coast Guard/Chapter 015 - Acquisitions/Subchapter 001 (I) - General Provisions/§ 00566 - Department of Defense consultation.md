@@ -26,7 +26,7 @@ Assessment.—Within 180 days after the date of enactment of the Coast Guard Aut
 
 &emsp;(2) includes recommendations as to how the Coast Guard can improve its acquisition management, either through internal reforms or by seeking acquisition expertise from the Department of Defense; and
 
-&emsp;(3) addresses specifically the question of whether the Coast Guard can better leverage Department of Defense or other agencies' contracts that would meet the needs of Level 1 or Level 2 acquisitions in order to obtain the best possible price.
+&emsp;(3) addresses specifically the question of whether the Coast Guard can better leverageDepartment of Defense or other agencies' contracts that would meet the needs of Level 1 or Level 2 acquisitions in order to obtain the best possible price.
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2937; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569.)
 

@@ -38,7 +38,7 @@
 
 &emsp;(B) The State commission may require the petitioning party and the responding party to provide such information as may be necessary for the State commission to reach a decision on the unresolved issues. If any party refuses or fails unreasonably to respond on a timely basis to any reasonable request from the State commission, then the State commission may proceed on the basis of the best information available to it from whatever source derived.
 
-&emsp;(C) The State commission shall resolve each issue set forth in the petition and the response, if any, by imposing appropriate conditions as required to implement subsection (c) of this section upon the parties to the agreement, and shall conclude the resolution of any unresolved issues not later than 9 months after the date on which the local exchange carrier received the request under this section.
+&emsp;(C) The State commission shall resolve each issue set forth in the petition and the response, if any, by imposing appropriate conditions as required to implement subsection (c) upon the parties to the agreement, and shall conclude the resolution of any unresolved issues not later than 9 months after the date on which the local exchange carrier received the request under this section.
 
 #### (5) Refusal to negotiate
 
@@ -46,11 +46,11 @@
 
 #### (c) Standards for arbitration
 
-In resolving by arbitration under subsection (b) of this section any open issues and imposing conditions upon the parties to the agreement, a State commission shall—
+In resolving by arbitration under subsection (b) any open issues and imposing conditions upon the parties to the agreement, a State commission shall—
 
 &emsp;(1) ensure that such resolution and conditions meet the requirements of section 251 of this title, including the regulations prescribed by the Commission pursuant to section 251 of this title;
 
-&emsp;(2) establish any rates for interconnection, services, or network elements according to subsection (d) of this section; and
+&emsp;(2) establish any rates for interconnection, services, or network elements according to subsection (d); and
 
 &emsp;(3) provide a schedule for implementation of the terms and conditions by the parties to the agreement.
 
@@ -100,13 +100,13 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 &emsp;The State commission may only reject—
 
-&emsp;&emsp;(A) an agreement (or any portion thereof) adopted by negotiation under subsection (a) of this section if it finds that—
+&emsp;&emsp;(A) an agreement (or any portion thereof) adopted by negotiation under subsection (a) if it finds that—
 
 &emsp;&emsp;&emsp;(i) the agreement (or portion thereof) discriminates against a telecommunications carrier not a party to the agreement; or
 
 &emsp;&emsp;&emsp;(ii) the implementation of such agreement or portion is not consistent with the public interest, convenience, and necessity; or
 
-&emsp;&emsp;(B) an agreement (or any portion thereof) adopted by arbitration under subsection (b) of this section if it finds that the agreement does not meet the requirements of section 251 of this title, including the regulations prescribed by the Commission pursuant to section 251 of this title, or the standards set forth in subsection (d) of this section.
+&emsp;&emsp;(B) an agreement (or any portion thereof) adopted by arbitration under subsection (b) if it finds that the agreement does not meet the requirements of section 251 of this title, including the regulations prescribed by the Commission pursuant to section 251 of this title, or the standards set forth in subsection (d) of this section.
 
 #### (3) Preservation of authority
 
@@ -114,7 +114,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (4) Schedule for decision
 
-&emsp;If the State commission does not act to approve or reject the agreement within 90 days after submission by the parties of an agreement adopted by negotiation under subsection (a) of this section, or within 30 days after submission by the parties of an agreement adopted by arbitration under subsection (b) of this section, the agreement shall be deemed approved. No State court shall have jurisdiction to review the action of a State commission in approving or rejecting an agreement under this section.
+&emsp;If the State commission does not act to approve or reject the agreement within 90 days after submission by the parties of an agreement adopted by negotiation under subsection (a), or within 30 days after submission by the parties of an agreement adopted by arbitration under subsection (b), the agreement shall be deemed approved. No State court shall have jurisdiction to review the action of a State commission in approving or rejecting an agreement under this section.
 
 #### (5) Commission to act if State will not act
 
@@ -122,7 +122,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (6) Review of State commission actions
 
-&emsp;In a case in which a State fails to act as described in paragraph (5), the proceeding by the Commission under such paragraph and any judicial review of the Commission's actions shall be the exclusive remedies for a State commission's failure to act. In any case in which a State commission makes a determinationunder this section, any party aggrieved by such determination may bring an action in an appropriate Federal district court to determine whether the agreement or statement meets the requirements of section 251 of this title and this section.
+&emsp;In a case in which a State fails to act as described in paragraph (5), the proceeding by the Commission under such paragraph and any judicial review of the Commission's actions shall be the exclusive remedies for a State commission's failure to act. In any case in which a State commission makes a determination under this section, any party aggrieved bysuch determination may bring an action in an appropriate Federal district court to determine whether the agreement or statement meets the requirements of section 251 of this title and this section.
 
 #### (f) Statements of generally available terms
 
@@ -156,7 +156,7 @@ Where not inconsistent with the requirements of this chapter, a State commission
 
 #### (h) Filing required
 
-A State commission shall make a copy of each agreement approved under subsection (e) of this section and each statement approved under subsection (f) of this section available for public inspection and copying within 10 days after the agreement or statement is approved. The State commission may charge a reasonable and nondiscriminatory fee to the parties to the agreement or to the party filing the statement to cover the costs of approving and filing such agreement or statement.
+A State commission shall make a copy of each agreement approved under subsection (e) and each statement approved under subsection (f) available for public inspection and copying within 10 days after the agreement or statement is approved. The State commission may charge a reasonable and nondiscriminatory fee to the parties to the agreement or to the party filing the statement to cover the costs of approving and filing such agreement or statement.
 
 #### (i) Availability to other telecommunications carriers
 

@@ -2,7 +2,7 @@
 
 #### (a) Priority communications
 
-During the continuance of a war in which the United States is engaged, the President is authorized, if he finds it necessary for the national defense and security, to direct that such communications as in his judgment may be essential to the national defense and security shall have preference or priority with any carrier subject to this chapter. He may give these directions at and for such times as he may determine, and may modify, change, suspend, or annul them and for any such purpose he is authorized to issue orders directly, or through such person or persons as he designates for the purpose, or through the Commission. Any carrier complying with any such order or direction for preference or priority herein authorized shall be exempt from any and all provisions in existing law imposing civil or criminal penalties, obligations, or liabilities upon carriers by reason of giving preference or priority in compliance with such order or direction.
+During the continuance of a war in which the United States is engaged, the President is authorized, if he finds it necessary for the national defense and security, to direct that such communications as in his judgment may be essential to the national defense and security shall havepreference or priority with any carrier subject to this chapter. He may give these directions at and for such times as he may determine, and may modify, change, suspend, or annul them and for any such purpose he is authorized to issue orders directly, or through such person or persons as he designates for the purpose, or through the Commission. Any carrier complying with any such order or direction for preference or priority herein authorized shall be exempt from any and all provisions in existing law imposing civil or criminal penalties, obligations, or liabilities upon carriers by reason of giving preference or priority in compliance with such order or direction.
 
 #### (b) Obstruction of interstate or foreign communications
 
@@ -14,7 +14,7 @@ Upon proclamation by the President that there exists war or a threat of war, or 
 
 #### (d) Suspension or amendment of rules and regulations applicable to wire communications; closing of facilities; Government use of facilities
 
-Upon proclamation by the President that there exists a state or threat of war involving the United States, the President, if he deems it necessary in the interest of the national security and defense, may, during a period ending not later than six months after the termination of such state or threat of war and not later than such earlier date as the Congress by concurrent resolution may designate, (1) suspend or amend the rules and regulations applicable to any or all facilities or stations for wire communication within the jurisdiction of the United States as prescribed by the Commission, (2) cause the closing of any facility or station for wire communication and the removal therefrom of its apparatus and equipment, or (3) authorize the use or control of any such facility or station and itsapparatus and equipment by any department of the Government under such regulations as he may prescribe, upon just compensation to the owners.
+Upon proclamation by the President that there exists a state or threat of war involving the United States, the President, if he deems it necessary in the interest of the national security and defense, may, during a period ending not later than six months after the termination of such state or threat of war and not later than such earlier date as the Congress by concurrent resolution may designate, (1) suspend or amend the rules and regulations applicable to any or all facilities or stations for wire communication within the jurisdiction of the United States as prescribed by the Commission, (2) cause the closing of any facility or station for wire communication and the removal therefrom of its apparatus and equipment, or (3) authorize the use or control of any such facility or station and its apparatus and equipment by any department of the Government under such regulations as he may prescribe, upon just compensation to the owners.
 
 #### (e) Compensation
 
@@ -22,11 +22,11 @@ The President shall ascertain the just compensation for such use or control and 
 
 #### (f) Affect on State laws and powers
 
-Nothing in subsection (c) or (d) of this section shall be construed to amend, repeal, impair, or affect existing laws or powers of the States in relation to taxation or the lawful police regulations of the several States, except wherein such laws, powers, or regulations may affect the transmission of Government communications, or the issue of stocks and bonds by any communication system or systems.
+Nothing in subsection (c) or (d) shall be construed to amend, repeal, impair, or affect existing laws or powers of the States in relation to taxation or the lawful police regulations of the several States, except wherein such laws, powers, or regulations may affect the transmission of Government communications, or the issue of stocks and bonds by any communication system or systems.
 
 #### (g) Limitations upon Presidential power
 
-Nothing in subsection (c) or (d) of this section shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) of this section shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
+Nothing in subsection (c) or (d) shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
 
 #### (h) Penalties
 
@@ -80,7 +80,7 @@ Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 10312
 
-Ex. Ord. No. 10312, eff. Dec. 10, 1951, 16 F.R. 12452, as amended by Ex. Ord. No. 10438, eff. Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, eff. July 1, 1958, 23 F.R. 5061; Ex.Ord. No. 10782, eff. Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, eff. Sept. 27, 1962, 27 F.R. 9683, relating to delegation of authority to the Federal Communications Commission was revoked by Ex. Ord. No. 11490, eff. Oct. 28, 1969, 34 F.R. 17567.
+Ex. Ord. No. 10312, eff. Dec. 10, 1951, 16 F.R. 12452, as amended by Ex. Ord. No. 10438, eff. Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, eff. July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, eff. Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, eff. Sept. 27, 1962, 27 F.R. 9683, relating to delegation of authority to the Federal Communications Commission was revoked by Ex. Ord. No. 11490, eff. Oct. 28, 1969, 34 F.R. 17567.
 
 #### Executive Order No. 10705
 

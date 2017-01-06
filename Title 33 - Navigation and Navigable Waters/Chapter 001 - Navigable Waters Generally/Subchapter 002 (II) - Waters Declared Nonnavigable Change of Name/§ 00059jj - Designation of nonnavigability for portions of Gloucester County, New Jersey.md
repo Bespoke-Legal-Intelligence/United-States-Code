@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(xxviii) S. 61°28′35″ W. 863.52 feet to the point of beginning.
 
-&emsp;&emsp;(C)(i) Except as provided in clause (ii), beginning at a point in the centerline of Church Street (49.50 feet wide) where the same is intersected by the curved northerly line of Pennsylvania-Reading Seashore LinesRailroad right-of-way (66.00 feet wide), along that Railroad, on a curve to the left, having a radius of 1465.69 feet, an arc distance of 1132.14 feet—
+&emsp;&emsp;(C)(i) Except as provided in clause (ii), beginning at a point in the centerline of Church Street (49.50 feet wide) where the same is intersected by the curved northerly line of Pennsylvania-Reading Seashore Lines Railroad right-of-way (66.00 feet wide), along that Railroad, on a curve to the left, having a radius of 1465.69 feet, an arc distance of 1132.14 feet—
 
 &emsp;&emsp;&emsp;(I) N. 88°45′47″ W. 1104.21 feet; thence
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;The designation under subsection (a)(1) of this section shall apply to those parts of the areas described in subsection (a) of this section that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities.
+&emsp;The designation under subsection (a)(1) shall apply to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities.
 
 #### (2) Applicable law
 
@@ -134,7 +134,7 @@
 
 #### (c) Termination of designation
 
-If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup>4</sup> of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
+If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup>4</sup> is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b), or if work in connection with any activity authorized under subsection (b) is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) for that area or portion of an area shall terminate.
 
 (Pub. L. 107–66, title I, §107, Nov. 12, 2001, 115 Stat. 494.)
 

@@ -48,7 +48,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;&emsp;(E) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Administrator specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
 
-&emsp;&emsp;(F) the development or update of mitigation plans by a State or community whichmeet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
+&emsp;&emsp;(F) the development or update of mitigation plans by a State or community which meet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
 
 &emsp;&emsp;(G) the provision of technical assistance by States to communities and individuals to conduct eligible mitigation activities;
 
@@ -98,7 +98,7 @@ Not later than 1 year after July 6, 2012, and biennially thereafter, the Adminis
 
 #### (g) Failure to make grant award within 5 years
 
-For any application for a grant under this section for which the Administrator fails to make a grant award within 5 years of the date of the application, the grant application shall be considered to be denied and any funding amounts allocated for such grant applications shall remain in the National Flood Mitigation Fund under section 4104d of this title and shall be made available for grants under this section.
+For any application for a grant under this section for which the Administrator fails to makea grant award within 5 years of the date of the application, the grant application shall be considered to be denied and any funding amounts allocated for such grant applications shall remain in the National Flood Mitigation Fund under section 4104d of this title and shall be made available for grants under this section.
 
 #### (h) Definitions
 
@@ -178,7 +178,7 @@ Pub. L. 112–141, §100225(a)(5)(D)(ii), (iii), redesignated subpar. (G) as (H)
 
 Subsec. (c)(3)(I), (J). Pub. L. 112–141, §100225(a)(5)(D)(vi), (vii), added subpars. (I) and (J).
 
-Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available."
+Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and struck out former par. (4). Prior toamendment, text read as follows: "In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available."
 
 Subsec. (c)(5). Pub. L. 112–141, §100225(a)(5)(C), redesignated par. (5) as (3).
 

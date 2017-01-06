@@ -30,7 +30,7 @@ Section 3755, Pub. L. 90–351, title I, §505, as added Pub. L. 96–157, §2, 
 
 Another prior subchapter V, consisting of sections 3751 to 3774, related to administrative provisions, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-Section 3751, Pub. L. 90–351, title I, §501, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, §120, Oct. 15, 1976, 90 Stat. 2418,related to administrative rules, regulations, and procedures.
+Section 3751, Pub. L. 90–351, title I, §501, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, §120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures.
 
 Section 3752, Pub. L. 90–351, title I, §502, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211, made provision for delegation of functions of Law Enforcement Assistance Administration to other officers of Department of Justice.
 
@@ -66,7 +66,7 @@ Section 3766, Pub. L. 90–351, title I, §518, June 19, 1968, 82 Stat. 208; Pub
 
 Section 3767, Pub. L. 90–351, title I, §519, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, §7(7), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–273, §5(5), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–503, title I, §125, Oct. 15, 1976, 90 Stat. 2422; Pub. L. 95–115, §9(a), Oct. 3, 1977, 91 Stat. 1060, related to annual reports to President and Congress.
 
-Section 3768, Pub. L. 90–351, title I, §520, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, §1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, §7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 93–415, title V, §544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, §3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, §126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations.
+Section 3768, Pub. L. 90–351, title I, §520, June 19, 1968, 82 Stat. 208; Pub. L. 90–462, §1, Aug. 8, 1968, 82 Stat. 638; Pub. L. 91–644, title I, §7(8), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L.93–415, title V, §544, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–430, §3, Sept. 29, 1976, 90 Stat. 1348; Pub. L. 94–503, title I, §126, Oct. 15, 1976, 90 Stat. 2423, related to authorization of appropriations.
 
 Section 3769, Pub. L. 90–351, title I, §521, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, §7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements.
 

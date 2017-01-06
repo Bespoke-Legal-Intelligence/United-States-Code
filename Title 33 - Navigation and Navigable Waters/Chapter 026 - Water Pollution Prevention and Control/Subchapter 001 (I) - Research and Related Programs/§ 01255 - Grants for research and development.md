@@ -26,7 +26,7 @@ In carrying out the provisions of this section, the Administrator shall conduct,
 
 &emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
 
-&emsp;(3) improved methods and procedures to identify and measure the effects of pollutantson the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
+&emsp;(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
 
 #### (e) Research and demonstration projects covering agricultural pollution and pollution from sewage in rural areas; dissemination of information
 
@@ -42,7 +42,7 @@ Federal grants under subsection (a) of this section shall be subject to the foll
 
 &emsp;(2) No grant shall be made for any project in an amount exceeding 75 per centum of cost thereof as determined by the Administrator; and
 
-&emsp;(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a) of this section.
+&emsp;(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a).
 
 #### (g) Maximum grants
 
@@ -50,7 +50,7 @@ Federal grants under subsections (c) and (d) of this section shall not exceed 75
 
 #### (h) Authorization of appropriations
 
-For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e) of this section.
+For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e).
 
 #### (i) Assistance for research and demonstration projects
 

@@ -142,7 +142,7 @@ Removal of kna lands from the national wildlife refuge system.—
 
 &emsp;&emsp;&emsp;"(II) In the event that no agreement is executed as provided for in subclause (I), solely for the purposes of administering CIRI's rights under paragraph 1(B)(1) of the Terms and Conditions, the Secretary and CIRI shall be deemed to have retained their respective rights and obligations with respect to CIRI's subsurface interests under the requirements of the Terms and Conditions in effect on June 18, 1996. Notwithstanding the boundary adjustments made pursuant to this section, conveyances to KNA shall be deemed to remain subject to the Secretary's and CIRI's rights and obligations under paragraph 1(B)(1) of the Terms and Conditions.
 
-&emsp;&emsp;&emsp;"(iii) The Secretary is authorized to acquire by purchase or exchange, on a willing seller basisonly, any lands retained by or conveyed to KNA. In the event that any lands owned by KNA are subsequently acquired by the United States, they shall be automatically included in the Refuge System. The laws and regulations applicable to Refuge lands shall then apply to these lands and the Secretary shall then adjust the boundaries accordingly.
+&emsp;&emsp;&emsp;"(iii) The Secretary is authorized to acquire by purchase or exchange, on a willing seller basis only, any lands retained by or conveyed to KNA. In the event that any lands owned by KNA are subsequently acquired by the United States, they shall be automatically included in the Refuge System. The laws and regulations applicable to Refuge lands shall then apply to these lands and the Secretary shall then adjust the boundaries accordingly.
 
 &emsp;&emsp;&emsp;"(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume from KNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
 
@@ -158,7 +158,7 @@ Acceptance.—KNA may accept the offer made in this section by notifying the Sec
 
 &emsp;&emsp;"(D)
 
-Final maps.—Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a final report and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
+Final maps.—Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a finalreport and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
 
 "(e)
 

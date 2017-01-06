@@ -6,7 +6,7 @@ Payment of Wages.—
 
 &emsp;(1)
 
-In general.—The Secretary of Labor shall pay directly to laborers and mechanics from any accrued payments withheld underthe terms of a contract any wages found to be due laborers and mechanics under this subchapter.
+In general.—The Secretary of Labor shall pay directly to laborers and mechanics from any accrued payments withheld under the terms of a contract any wages found to be due laborers and mechanics under this subchapter.
 
 &emsp;(2)
 

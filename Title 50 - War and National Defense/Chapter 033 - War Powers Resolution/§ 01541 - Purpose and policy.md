@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration
 
-It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collective judgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
+It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collectivejudgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
 
 #### (b) Congressional legislative power under necessary and proper clause
 
@@ -94,7 +94,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas Iraq, in direct and flagrant violation of the cease-fire, attempted to thwart the efforts of weapons inspectors to identify and destroy Iraq's weapons of mass destruction stockpiles and development capabilities, which finally resulted in the withdrawal of inspectors from Iraq on October 31, 1998;
 
-"Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuingweapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in 'material and unacceptable breach of its international obligations' and urged the President 'to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations';
+"Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuing weapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in 'material and unacceptable breach of its international obligations' and urged the President 'to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations';
 
 "Whereas Iraq both poses a continuing threat to the national security of the United States and international peace and security in the Persian Gulf region and remains in material and unacceptable breach of its international obligations by, among other things, continuing to possess and develop a significant chemical and biological weapons capability, actively seeking a nuclear weapons capability, and supporting and harboring terrorist organizations;
 
@@ -144,7 +144,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 &emsp;"(1) strictly enforce through the United Nations Security Council all relevant Security Council resolutions regarding Iraq and encourages him in those efforts; and
 
-&emsp;"(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategyof delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
+&emsp;"(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategy of delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
 
 #### "SEC. 3. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
@@ -196,7 +196,7 @@ Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
 
 "Whereas, on September 11, 2001, acts of treacherous violence were committed against the United States and its citizens; and
 
-"Whereas, such acts render it both necessary and appropriate that the United States exercise its rights to self-defense and to protect United States citizens both at home and abroad; and
+"Whereas, such acts render it both necessary and appropriate that the United States exercise its rights toself-defense and to protect United States citizens both at home and abroad; and
 
 "Whereas, in light of the threat to the national security and foreign policy of the United States posed by these grave acts of violence; and
 
@@ -382,7 +382,7 @@ Pub. L. 103–139, title VIII, §8151, Nov. 11, 1993, 107 Stat. 1475, provided t
 
 &emsp;&emsp;"(A) United States military logistical support services to United Nations forces; and
 
-&emsp;&emsp;"(B) United States combat forces in a security role and as an interim force protection supplement to United Nations units: <i>Provided</i>, That funds appropriated, or otherwise made available, in this or any other Act to the Department of Defense may be obligated for expenses incurred only through March 31, 1994, for the operations of United States Armed Forces in Somalia: <i>Provided further</i>, That such date may be extended if so requested by the President and authorized by the Congress: <i>Provided further</i>, That funds may be obligated beyond March 31, 1994 to support a limited number of United States military personnel sufficient only to protect American diplomatic facilities and American citizens, and noncombat personnel to advise the United Nations commander in Somalia: <i>Provided further</i>, That United States combat forces in Somalia shall be under the command and control of United States commanders under the ultimate direction of the President of the United States: <i>Provided further</i>, That the President should intensify efforts to have United Nations member countries immediately deploy additional troops to Somalia to fulfill previous force commitments made to the United Nations and to deploy additional forces to assume the security missions of United States Armed Forces: <i>Provided further</i>, That—
+&emsp;&emsp;"(B) United States combat forces in a security role and as an interim force protection supplement to United Nations units: <i>Provided</i>, That funds appropriated, or otherwise made available, in this or any other Act to the Department of Defense may be obligated for expenses incurred only through March 31, 1994, for the operations of United States Armed Forces in Somalia: <i>Provided further</i>, That such date may be extended if so requested by the President and authorized by the Congress: <i>Provided further</i>, That funds may be obligated beyond March 31, 1994 to support a limited number of United States military personnel sufficient only to protect American diplomatic facilities and American citizens, and noncombat personnel to advise the United Nations commander in Somalia: <i>Provided further</i>, That United States combat forces in Somalia shall be under the command and control of United States commanders under the ultimate direction of the President of the United States: <i>Provided further</i>, That the President should intensify efforts to have United Nations member countries immediately deploy additional troops to Somalia to fulfill previous force commitments made to the United Nations and to deploy additional forces to assume the securitymissions of United States Armed Forces: <i>Provided further</i>, That—
 
 &emsp;&emsp;&emsp;"(i) captured United States personnel in Somalia should be treated humanely and fairly; and
 
@@ -420,7 +420,7 @@ Authorization.—The President is authorized, subject to subsection (b), to use 
 
 "(b)
 
-Requirement for Determination That Use of Military Force Is Necessary.—Before exercising theauthority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+Requirement for Determination That Use of Military Force Is Necessary.—Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
 
 &emsp;"(1) the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
 
@@ -474,7 +474,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8101\], Oct. 12, 1984, 98 St
 
 &emsp;"(1) United States Armed Forces should not be introduced into or over the countries of Central America for combat; and
 
-&emsp;"(2) if circumstances change from those present on the date of the enactment of this Act \[Oct. 12, 1984\] and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consult with Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\]."
+&emsp;"(2) if circumstances change from those present on the date of the enactment of this Act \[Oct. 12, 1984\] and the President believes that those changed circumstances require the introduction of United States Armed Forces into or over a country of Central America for combat, the President should consultwith Congress before any decision to so introduce United States Armed Forces and any such introduction of United States Armed Forces must comply with the War Powers Resolution \[this chapter\]."
 
 #### Multinational Force in Lebanon Resolution
 
@@ -516,7 +516,7 @@ Sec. 3. The President is authorized, for purposes of section 5(b) of the War Pow
 
 "
 
-Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on thestatus, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
+Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on the status, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
 
 &emsp;"(1) the activities being performed by the Multinational Force in Lebanon;
 
@@ -582,7 +582,7 @@ Memorandum of President of the United States, July 2, 2004, 69 F.R. 43723, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in anote above\], to make the specified reports to the Congress.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

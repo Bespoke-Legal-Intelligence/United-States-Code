@@ -143,6 +143,7 @@
 | [340\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000340%20-%20Significantly%20viewed%20signals%20permitted%20to%20be%20carried.md) | Significantly viewed signals permitted to be carried. |
 | [341\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000341%20-%20Carriage%20of%20television%20signals%20to%20certain%20subscribers.md) | Carriage of television signals to certain subscribers. |
 | [342\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000342%20-%20Process%20for%20issuing%20qualified%20carrier%20certification.md) | Process for issuing qualified carrier certification. |
+| [343\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000343%20-%20Conditions%20on%20commercial%20terrestrial%20operations.md) | Conditions on commercial terrestrial operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

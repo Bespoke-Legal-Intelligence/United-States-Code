@@ -38,9 +38,9 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(ii) as of July 1, 1998, such station was retransmitted by a satellite carrier under the statutory license of section 119 of title 17; or
 
-&emsp;(E) during the 6-month period beginning on November 29, 1999, to the retransmission of the signal of a television broadcast station withinthe station's local market by a satellite carrier directly to its subscribers under the statutory license of section 122 of title 17.
+&emsp;(E) during the 6-month period beginning on November 29, 1999, to the retransmission of the signal of a television broadcast station within the station's local market by a satellite carrier directly to its subscribers under the statutory license of section 122 of title 17.
 
-> For purposes of this paragraph, the terms "satellite carrier" and "superstation" have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992, the term "unserved household" has the meaning given that term under section 119(d) of such title, and the term "local market" has the meaning given that term in section 122(j) of such title.
+> For purposes of this paragraph, the terms "satellite carrier" and "superstation" have the meanings given those terms, respectively, insection 119(d) of title 17, as in effect on October 5, 1992, the term "unserved household" has the meaning given that term under section 119(d) of such title, and the term "local market" has the meaning given that term in section 122(j) of such title.
 
 (3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
 
@@ -72,7 +72,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 #### (c) Broadcast to foreign countries for rebroadcast to United States; permit
 
-No person shall be permitted to locate, use, or maintain a radio broadcast studio or other placeor apparatus from which or whereby sound waves are converted into electrical energy, or mechanical or physical reproduction of sound waves produced, and caused to be transmitted or delivered to a radio station in a foreign country for the purpose of being broadcast from any radio station there having a power output of sufficient intensity and/or being so located geographically that its emissions may be received consistently in the United States, without first obtaining a permit from the Commission upon proper application therefor.
+No person shall be permitted to locate, use, or maintain a radio broadcast studio or other place or apparatus from which or whereby sound waves are converted into electrical energy, or mechanical or physical reproduction of sound waves produced, and caused to be transmitted or delivered to a radio station in a foreign countryfor the purpose of being broadcast from any radio station there having a power output of sufficient intensity and/or being so located geographically that its emissions may be received consistently in the United States, without first obtaining a permit from the Commission upon proper application therefor.
 
 #### (d) Application for permit
 
@@ -82,7 +82,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (1) Complaints by television broadcast stations
 
-&emsp;If after the expiration of the 6-month period described under subsection (b)(2)(E) of this section a television broadcast station believes that a satellite carrier has retransmitted its signal to any person in the local market of such station in violation of subsection (b)(1) of this section, the station may file with the Commission a complaint providing—
+&emsp;If after the expiration of the 6-month period described under subsection (b)(2)(E) a television broadcast station believes that a satellite carrier has retransmitted its signal to any person in the local market of such station in violation of subsection (b)(1), the station may file with the Commission a complaint providing—
 
 &emsp;&emsp;(A) the name, address, and call letters of the station;
 
@@ -98,7 +98,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (2) Service of complaints on satellite carriers
 
-&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
+&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked "URGENT LITIGATION MATTER" on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
 
 #### (3) Answers by satellite carriers
 
@@ -116,7 +116,7 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;&emsp;&emsp;(i) the satellite carrier did not retransmit the television broadcast station to any person in the local market of the station during the time period specified in the complaint;
 
-&emsp;&emsp;&emsp;(ii) the television broadcast station had, in a writing signed by an officer of the television broadcast station, expressly authorized the retransmission of the station by the satellite carrier to each person in the local market of the television broadcast station to which the satellite carrier made such retransmissions for the entire time period during which it is alleged that a violation of subsection (b)(1) of this section has occurred;
+&emsp;&emsp;&emsp;(ii) the television broadcast station had, in a writing signed by an officer of the television broadcast station, expressly authorized the retransmission of the station by the satellite carrier to each person in the local market of the television broadcast station to which the satellite carrier made such retransmissions for the entire time period during which it is alleged that a violation of subsection (b)(1) has occurred;
 
 &emsp;&emsp;&emsp;(iii) the retransmission was made after January 1, 2002, and the television broadcast station had elected to assert the right to carriage under section 338 of this title as against the satellite carrier for the relevant period; or
 
@@ -124,11 +124,11 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (5) Counting of violations
 
-&emsp;The retransmission without consent of a particular television broadcast station on a particular day to one or more persons in the local market of the station shall be considered a separate violation of subsection (b)(1) of this section.
+&emsp;The retransmission without consent of a particular television broadcast station on a particular day to one or more persons in the local market of the station shall be considered a separate violation of subsection (b)(1).
 
 #### (6) Burden of proof
 
-&emsp;With respect to each alleged violation, the burden of proof shall be on a television broadcast station to establish that the satellite carrier retransmitted the station to at least one person in the local market of the station onthe day in question. The burden of proof shall be on the satellite carrier with respect to all defenses other than the defense under paragraph (4)(B)(i).
+&emsp;With respect to each alleged violation, the burden of proof shall be on a television broadcast station to establish that the satellite carrier retransmitted the station to at least one person in the local market of the station on the day in question. The burden of proof shall be on the satellite carrier with respect to all defenses other than the defense under paragraph (4)(B)(i).
 
 #### (7) Procedures
 
@@ -150,13 +150,13 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;If the Commission determines that a satellite carrier has retransmitted the television broadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defenses under paragraph (4) with respect to such retransmission, the Commission shall be required to—
 
-&emsp;&emsp;(A) make a finding that the satellite carrier violated subsection (b)(1) of this section with respect to that station; and
+&emsp;&emsp;(A) make a finding that the satellite carrier violated subsection (b)(1) with respect to that station; and
 
 &emsp;&emsp;(B) issue an order, within 45 days after the filing of the complaint, containing—
 
-&emsp;&emsp;&emsp;(i) a cease-and-desist order directing the satellite carrier immediately to stop making any further retransmissions of the television broadcast station to any person within the local market of such station until such time as the Commission determines that the satellite carrier is in compliance with subsection (b)(1) of this section with respect to such station;
+&emsp;&emsp;&emsp;(i) a cease-and-desist order directing the satellite carrier immediately to stop making any further retransmissions of the television broadcast station to any person within the local market of such station until such time as the Commission determines that the satellite carrier is in compliance with subsection (b)(1) with respect to such station;
 
-&emsp;&emsp;&emsp;(ii) if the satellite carrier is found to have violated subsection (b)(1) of this section with respect to more than two television broadcast stations, a cease-and-desist order directing the satellite carrier to stop making any further retransmission of any television broadcast station to any person within the local market of such station, until such time as the Commission, after giving notice to the station, that the satellite carrier is in compliance with subsection (b)(1) of this section with respect to such stations; and
+&emsp;&emsp;&emsp;(ii) if the satellite carrier is found to have violated subsection (b)(1) with respect to more than two television broadcast stations, a cease-and-desist order directing the satellite carrier to stop making any further retransmission of any television broadcast station to any person within the local market of such station, until such time as the Commission, after giving notice to the station, that the satellite carrier is in compliance with subsection (b)(1) with respect to such stations; and
 
 &emsp;&emsp;&emsp;(iii) an award to the complainant of that complainant's costs and reasonable attorney's fees.
 
@@ -176,7 +176,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (10) Civil action for statutory damages
 
-&emsp;Within 6 months after issuance of an order by the Commission under this subsection, a television broadcast station may file a civil action in any United States district court that has personal jurisdiction over the satellite carrier for an award of statutory damages for any violation that the Commission has determined to have been committed by a satellite carrier under this subsection. Such action shall not be subject to transfer under section 1404(a) of title 28. On finding that the satellite carrier has committed one or more violations of subsection (b) of this section, the DistrictCourt shall be required to award the television broadcast station statutory damages of $25,000 per violation, in accordance with paragraph (5), and the costs and attorney's fees incurred by the station. Such statutory damages shall be awarded only if the television broadcast station has filed a binding stipulation with the court that such station will donate the full amount in excess of $1,000 of any statutory damage award to the United States Treasury for public purposes. Notwithstanding any other provision of law, a station shall incur no tax liability of any kind with respect to any amounts so donated. Discovery may be conducted by the parties in any proceeding under this paragraph only if and to the extent necessary to resolve a genuinely disputed issue of fact concerning one of the defenses under paragraph (4). In any such action, the defenses under paragraph (4) shall be exclusive, and the burden of proof shall be on the satellite carrier with respect to all defenses other than the defense under paragraph (4)(B)(i). A judgment under this paragraph may be enforced in any manner permissible under Federal or State law.
+&emsp;Within 6 months after issuance of an order by the Commission under this subsection, a television broadcast station may file a civil action in any United States district court that has personal jurisdiction over the satellite carrier for an award of statutory damages for any violation that the Commission has determined to have been committed by a satellite carrier under this subsection. Such action shall not be subject to transfer under section 1404(a) of title 28. On finding that the satellite carrier has committed one or more violations of subsection (b), the District Court shall be required to award the television broadcast station statutory damages of $25,000 per violation, in accordance with paragraph (5), and the costs and attorney's fees incurred by the station. Such statutory damages shall be awarded only if the television broadcast station has filed a binding stipulation with the court that such station will donate the full amount in excess of $1,000 of any statutory damage awardto the United States Treasury for public purposes. Notwithstanding any other provision of law, a station shall incur no tax liability of any kind with respect to any amounts so donated. Discovery may be conducted by the parties in any proceeding under this paragraph only if and to the extent necessary to resolve a genuinely disputed issue of fact concerning one of the defenses under paragraph (4). In any such action, the defenses under paragraph (4) shall be exclusive, and the burden of proof shall be on the satellite carrier with respect to all defenses other than the defense under paragraph (4)(B)(i). A judgment under this paragraph may be enforced in any manner permissible under Federal or State law.
 
 #### (11) Appeals
 
@@ -252,7 +252,7 @@ Subsec. (b)(3)(C)(iii). Pub. L. 108–447, §207(a)(3), (4)(B), (5), added cl. (
 
 &emsp;"(C) retransmission of the signal of a broadcasting station that is owned or operated by, or affiliated with, a broadcasting network directly to a home satellite antenna, if the household receiving the signal is an unserved household; or
 
-&emsp;"(D) retransmission by a cable operator or other multichannel video programming distributor of the signal of a superstation if such signal was obtainedfrom a satellite carrier and the originating station was a superstation on May 1, 1991.
+&emsp;"(D) retransmission by a cable operator or other multichannel video programming distributor of the signal of a superstation if such signal was obtained from a satellite carrier and the originating station was a superstation on May 1, 1991.
 
 > For purposes of this paragraph, the terms 'satellite carrier', 'superstation', and 'unserved household' have the meanings given those terms, respectively, in section 119(d) of title 17 as in effect on October 5, 1992."
 

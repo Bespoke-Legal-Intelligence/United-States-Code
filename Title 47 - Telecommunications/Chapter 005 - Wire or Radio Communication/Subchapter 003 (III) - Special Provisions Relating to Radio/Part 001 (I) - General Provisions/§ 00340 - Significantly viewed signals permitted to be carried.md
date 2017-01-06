@@ -24,7 +24,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 #### (4) Authority to grant station-specific waivers
 
-&emsp;Paragraphs (1) and (2) shall not prohibit a retransmission of a network station to a subscriber if and to the extent that the networkstation in the local market in which the subscriber is located, and that is affiliated with the same television network, has privately negotiated and affirmatively granted a waiver from the requirements of paragraphÂ <sup>2</sup> (1) and (2) to such satellite carrier with respect to retransmission of the significantly viewed station to such subscriber.
+&emsp;Paragraphs (1) and (2) shall not prohibit a retransmission of a network station to a subscriber if and to the extent that the network station in the local market in which the subscriber is located, and that is affiliated with the same television network, has privately negotiated and affirmatively granted a waiver from the requirements of paragraphÂ <sup>2</sup> (1) and (2) to such satellite carrier with respect to retransmission of the significantly viewed station to such subscriber.
 
 #### (c) Publication and modifications of lists; regulations
 
@@ -34,7 +34,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 &emsp;&emsp;(A) within 60 days after December 8, 2004â€”
 
-&emsp;&emsp;&emsp;(i) publish a list of the stations that are eligible for retransmission under subsection (a)(1) of this section and the communities in which such stations are eligible for such retransmission; and
+&emsp;&emsp;&emsp;(i) publish a list of the stations that are eligible for retransmission under subsection (a)(1) and the communities in which such stations are eligible for such retransmission; and
 
 &emsp;&emsp;&emsp;(ii) commence a rulemaking proceeding to implement this section by publication of a notice of proposed rulemaking;
 
@@ -42,15 +42,15 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 #### (2) Public availability of list
 
-&emsp;The Commission shall make readily available to the public in electronic form, on the Internet website of the Commission or other comparable facility, a list of the stations that are eligible for retransmission under subsection (a) of this section and the communities in which such stations are eligible for such retransmission. The Commission shall update such list within 10 business days after the date on which the Commission issues an order making any modification of such stations and communities.
+&emsp;The Commission shall make readily available to the public in electronic form, on the Internet website of the Commission or other comparable facility, a list of the stations that are eligible for retransmission under subsection (a) and the communities in which such stations are eligible for such retransmission. The Commission shall update such list within 10 business days after the date on which the Commission issues an order making any modification of such stations and communities.
 
 #### (3) Modifications
 
 &emsp;In addition to cable operators and television broadcast station licensees, the Commission shall permit a satellite carrier to petition for decisions and ordersâ€”
 
-&emsp;&emsp;(A) by which stations may be added to those that are eligible for retransmission under subsection (a) of this section, and by which communities may be added in which such stations are eligible for such retransmission; and
+&emsp;&emsp;(A) by which stations may be added to those that are eligible for retransmission under subsection (a), and by which communities may be added in which such stations are eligible for such retransmission; and
 
-&emsp;&emsp;(B) by which network nonduplication or syndicated exclusivity regulations are applied to the retransmission in accordance with subsection (e) of this section.
+&emsp;&emsp;(B) by which network nonduplication or syndicated exclusivity regulations are applied to the retransmission in accordance with subsection (e).
 
 #### (d) Effect on other obligations and rights
 
@@ -92,7 +92,7 @@ In addition to the broadcast signals that subscribers may receive under sectionÂ
 
 #### (4) No effect on copyright proceedings
 
-&emsp;Any determination, action, or failure to act of the Commission under this subsection shall have no effect on any proceeding under title 17 and shall not be introduced in evidence in any proceeding under that title. In no instanceshall a Commission enforcement proceeding under this subsection be required as a predicate to the pursuit of a remedy available under title 17.
+&emsp;Any determination, action, or failure to act of the Commission under this subsection shall have no effect on any proceeding under title 17 and shall not be introduced in evidence in any proceeding under that title. In no instance shall a Commission enforcement proceeding under this subsection be required as a predicate to the pursuit of a remedy available under title 17.
 
 #### (g) Notices concerning significantly viewed stations
 
@@ -100,7 +100,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 &emsp;(1) not less than 60 days before commencing such retransmission, provide a written notice to any television broadcast station in such local market of such proposal; and
 
-&emsp;(2) designate on such carrier's website all significantly viewed signals carried pursuant to section 340 of this title and the communities in which the signals are carried.
+&emsp;(2) designate on such carrier's website all significantly viewed signals carried pursuantto section 340 of this title and the communities in which the signals are carried.
 
 #### (h) Additional corresponding changes in regulations
 
@@ -158,7 +158,7 @@ As used in this section:
 
 &emsp;The term "community" meansâ€”
 
-&emsp;&emsp;(A) a county or a cable community, as determined under the rules, regulations, andauthorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
+&emsp;&emsp;(A) a county or a cable community, as determined under the rules, regulations, and authorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
 
 &emsp;&emsp;(B) a satellite community, as determined under such rules, regulations, and authorizations (or revisions thereof) as the Commission may prescribe in implementing the requirements of this section.
 

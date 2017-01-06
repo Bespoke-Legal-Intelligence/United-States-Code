@@ -20,7 +20,7 @@ A security-based swap execution facility that is registered under subsection (a)
 
 #### (c) Identification of facility used to trade security-based swaps by national securities exchanges
 
-A national securities exchange shall, to the extent that the exchange also operates a security-based swap execution facility and uses the same electronic trade execution system for listing and executing trades of security-based swapson or through the exchange and the facility, identify whether electronic trading of such security-based swaps is taking place on or through the national securities exchange or the security-based swap execution facility.
+A national securities exchange shall, to the extent that the exchange also operates a security-based swap execution facility and uses the same electronic trade execution system for listing and executing trades of security-based swaps on or through the exchange and the facility, identify whether electronic trading of such security-based swaps is taking place on or through the national securities exchange or the security-based swap execution facility.
 
 #### (d) Core principles for security-based swap execution facilities
 
@@ -98,7 +98,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 #### (B) Capacity of security-based swap execution facility
 
-&emsp;&emsp;The security-based swap execution facility shall be required to have the capacity to electronically capture and transmit and disseminate trade information with respect to transactions executed on or through the facility.
+&emsp;&emsp;The security-based swap execution facility shall be required to have the capacity toelectronically capture and transmit and disseminate trade information with respect to transactions executed on or through the facility.
 
 #### (9) Recordkeeping and reporting
 
@@ -202,7 +202,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;&emsp;(V) through validated complaints; and
 
-&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues.
+&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, managementresponse, remediation, retesting, and closing of noncompliance issues.
 
 #### (C) Annual reports
 

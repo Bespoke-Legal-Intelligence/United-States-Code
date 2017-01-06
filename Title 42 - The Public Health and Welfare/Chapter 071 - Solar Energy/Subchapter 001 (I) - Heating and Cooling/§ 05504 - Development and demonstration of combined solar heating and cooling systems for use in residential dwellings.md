@@ -8,7 +8,7 @@ The Administrator and the Secretary shall promptly initiate and carry out a prog
 
 (1) As soon as possible after September 3, 1974, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
 
-&emsp;(A) interim performance criteria for combined solar heating and cooling components and systems to be used in residential dwellings, and
+&emsp;(A) interim performance criteria for combined solar heating and cooling componentsand systems to be used in residential dwellings, and
 
 &emsp;(B) interim performance criteria (relating to suitability for solar heating and cooling) for such dwellings themselves,
 

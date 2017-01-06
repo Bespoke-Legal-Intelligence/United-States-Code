@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary toStates, centers for independent living, and other entities in accordance with subsections (b) through (d) of this section.
+From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary to States, centers for independent living, and other entities in accordance with subsections (b) through (d).
 
 #### (b) Training
 
@@ -32,7 +32,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (A) Population basis
 
-&emsp;&emsp;After the reservation required by subsection (b) of this section has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
+&emsp;&emsp;After the reservation required by subsection (b) has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
 
 #### (B) Maintenance of 1992 amounts
 
@@ -52,7 +52,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of paragraph (1)(C), Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
+&emsp;&emsp;For the purposes of paragraph (1)(C), Guam, American Samoa, the United StatesVirgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
 
 #### (B) Allotment
 
@@ -60,7 +60,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (3) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriatedto carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
 
 #### (4) Proportional reduction
 

@@ -28,7 +28,7 @@ The certification required by this subsection is a certification by the Secretar
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), none of the funds appropriated for security-related assistancefor fiscal years 2010 through 2014, or any amounts appropriated to the Pakistan Counterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 (Public Law 111–32), may be obligated or expended to make payments relating to—
+&emsp;Subject to paragraph (2), none of the funds appropriated for security-related assistance for fiscal years 2010 through 2014, or any amounts appropriated to the Pakistan Counterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 (Public Law 111–32), may be obligated or expended to make payments relating to—
 
 &emsp;&emsp;(A) the Letter of Offer and Acceptance PK–D–YAD signed between the Governments of the United States of America and Pakistan on September 30, 2006;
 

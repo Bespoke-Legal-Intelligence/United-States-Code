@@ -8,7 +8,7 @@
 
 #### (2) Reduction or elimination of assistance for noncooperation in establishing paternity or obtaining child support
 
-&emsp;If the agency responsible for administering the State plan approved under part D of this subchapter determines that an individual is not cooperating with the State in establishing paternity or in establishing, modifying, or enforcing a support order with respect to a child of the individual, and the individual does not qualify for any good cause or other exception established by the State pursuant to section 654(29) of this title, then the State—
+&emsp;If the agency responsible for administering the State plan approved under part D determines that an individual is not cooperating with the State in establishing paternity or in establishing, modifying, or enforcing a support order with respect to a child of the individual, and the individual does not qualify for any good cause or other exception established by the State pursuant to section 654(29) of this title, then the State—
 
 &emsp;&emsp;(A) shall deduct from the assistance that would otherwise be provided to the family of the individual under the State program funded under this part an amount equal to not less than 25 percent of the amount of such assistance; and
 
@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliabledata available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
+&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliable data available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
 
 #### (ii) "Indian country" defined
 
@@ -144,7 +144,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX, or the Food and Nutrition Act of 2008 \[7 U.S.C.2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -182,17 +182,17 @@
 
 #### (C) Denial of assistance for relative who fails to notify State agency of absence of child
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home forthe period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home for the period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
 
 #### (11) Medical assistance required to be provided for certain families having earnings from employment or child support
 
 #### (A) Earnings from employment
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D and that was so treated as receiving such aid in at least 3 of the 6months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (12) State requirement to prevent unauthorized spending of benefits
 
@@ -240,7 +240,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On the basis of the assessment made under subsection (a) of this section with respect to an individual, the State agency, in consultation with the individual, may develop an individual responsibility plan for the individual, which—
+&emsp;&emsp;On the basis of the assessment made under subsection (a) with respect to an individual, the State agency, in consultation with the individual, may develop an individual responsibility plan for the individual, which—
 
 &emsp;&emsp;&emsp;(i) sets forth an employment goal for the individual and a plan for moving the individual immediately into private sector employment;
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;The State agency may comply with paragraph (1) with respect to an individual—
 
-&emsp;&emsp;&emsp;(i) within 90 days (or, at the option of the State, 180 days) after the effective date of this part, in the case of an individual who, as of such effective date, is a recipient of aid under the State plan approved under part A of this subchapter (as in effect immediately before such effective date); or
+&emsp;&emsp;&emsp;(i) within 90 days (or, at the option of the State, 180 days) after the effective date of this part, in the case of an individual who, as of such effective date, is a recipient of aid under the State plan approved under part A (as in effect immediately before such effective date); or
 
 &emsp;&emsp;&emsp;(ii) within 30 days (or, at the option of the State, 90 days) after the individual is determined to be eligible for such assistance, in the case of any other individual.
 
@@ -318,7 +318,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (C) Sponsors of multiple non-213A aliens
 
-&emsp;&emsp;If a person is a sponsor of 2 or more non-213A aliens who are living in the same home,the income and resources of the sponsor and any spouse of the sponsor that would be deemed income and resources of any such alien under subparagraph (A) shall be divided into a number of equal shares equal to the number of such aliens, and the State shall deem the income and resources of each such alien to include 1 such share.
+&emsp;&emsp;If a person is a sponsor of 2 or more non-213A aliens who are living in the same home, the income and resources of the sponsor and any spouse of the sponsor that would be deemed income and resources of any such alien under subparagraph (A) shall be divided into a number of equal shares equal to the number of such aliens, and the State shall deem the income and resources of each such alien to include 1 such share.
 
 #### (2) Ineligibility of non-213A aliens sponsored by agencies; exception
 
@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (4) "Non-213A alien" defined
 
-&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support or similar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
+&emsp;An alien is a non-213A alien for purposes of this subsection if the affidavit of support orsimilar agreement with respect to the alien that was executed by the sponsor of the alien's entry into the United States was executed other than pursuant to section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
 #### (5) Inapplicability to alien minor sponsored by a parent
 
@@ -364,7 +364,7 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 #### References in Text
 
-Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
+Part D, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -382,7 +382,7 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

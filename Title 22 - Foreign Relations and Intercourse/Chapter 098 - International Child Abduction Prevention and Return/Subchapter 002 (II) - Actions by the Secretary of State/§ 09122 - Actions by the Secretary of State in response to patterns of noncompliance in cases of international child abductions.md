@@ -86,7 +86,7 @@ Except as provided in subsection (f), the actions by the Secretary of State refe
 
 &emsp;(7) the withdrawal, limitation, or suspension of assistance to the central government of a country pursuant to chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to the Economic Support Fund); and
 
-&emsp;(8) a formal request to the foreign country concerned to extradite an individual who isengaged in abduction and who has been formally accused of, charged with, or convicted of an extraditable offense.
+&emsp;(8) a formal request to the foreign country concerned to extradite an individual who is engaged in abduction and who has been formally accused of, charged with, or convicted of an extraditable offense.
 
 #### (e) Commensurate action
 

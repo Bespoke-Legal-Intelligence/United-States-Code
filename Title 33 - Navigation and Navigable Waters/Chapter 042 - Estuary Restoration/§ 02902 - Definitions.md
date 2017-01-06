@@ -8,7 +8,7 @@ In this chapter, the following definitions apply:
 
 #### (2) Estuary
 
-&emsp;The term "estuary" means a part of a river or stream or other body of water that has an unimpaired connection with the open sea and where the sea water is measurably diluted with fresh water derived from land drainage. The term also includes near coastal waters and wetlands of the Great Lakes that are similar in form and function to estuaries, including the area located in the Great Lakes biogeographic region and designated as a National Estuarine Research Reserve under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) as of November 7, 2000.
+&emsp;The term "estuary" means a part of a river or stream or other body of water that has an unimpaired connection with the open sea andwhere the sea water is measurably diluted with fresh water derived from land drainage. The term also includes near coastal waters and wetlands of the Great Lakes that are similar in form and function to estuaries, including the area located in the Great Lakes biogeographic region and designated as a National Estuarine Research Reserve under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) as of November 7, 2000.
 
 #### (3) Estuary habitat
 
@@ -68,7 +68,7 @@ In this chapter, the following definitions apply:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given such term by section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given such term by section 5304 of title 25.
 
 #### (8) Non-Federal interest
 

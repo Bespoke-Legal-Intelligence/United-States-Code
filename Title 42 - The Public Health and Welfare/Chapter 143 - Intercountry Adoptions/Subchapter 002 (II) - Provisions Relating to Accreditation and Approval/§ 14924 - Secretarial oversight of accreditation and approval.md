@@ -26,7 +26,7 @@ The Secretary shall—
 
 &emsp;&emsp;(B)(i) in the case of a suspension, terminate the suspension; or
 
-&emsp;&emsp;(ii) in the case of a cancellation, notify the agency or person that the agency or personmay re-apply to the accrediting entity for accreditation or approval.
+&emsp;&emsp;(ii) in the case of a cancellation, notify the agency or person that the agency or person may re-apply to the accrediting entity for accreditation or approval.
 
 #### (c) Debarment
 
@@ -62,15 +62,15 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 &emsp;&emsp;(A) frequent and careful monitoring of compliance by agencies and approved persons with the requirements of section 14923(b)(A)(ii) <sup>1</sup> of this title; and
 
-&emsp;&emsp;(B) consultation between the Secretary and the accrediting entity where an agency or person has engaged in substantial noncompliance with the requirements of section 14923(b)(A)(ii) <sup>1</sup> of this title, unless the accrediting entity has taken appropriate corrective action and the noncompliance has not recurred.
+&emsp;&emsp;(B) consultation between the Secretary and the accrediting entity where an agencyor person has engaged in substantial noncompliance with the requirements of section 14923(b)(A)(ii) <sup>1</sup> of this title, unless the accrediting entity has taken appropriate corrective action and the noncompliance has not recurred.
 
 #### (3) Repeated failures to comply
 
-&emsp;Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this title by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B) of this section.
+&emsp;Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this title by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B).
 
 #### (4) Failure to comply with certain requirements
 
-&emsp;A failure to comply with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute a serious failure to comply under subsection (c)(1)(B) of this section unless it is shown by clear and convincing evidence that such noncompliance had neither the purpose nor the effect of determining the outcome of a decision or proceeding by a court or other competent authority in the United States or the child's country of origin.
+&emsp;A failure to comply with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute a serious failure to comply under subsection (c)(1)(B) unless it is shown by clear and convincing evidence that such noncompliance had neither the purpose nor the effect of determining the outcome of a decision or proceeding by a court or other competent authority in the United States or the child's country of origin.
 
 (Pub. L. 106–279, title II, §204, Oct. 6, 2000, 114 Stat. 835.)
 

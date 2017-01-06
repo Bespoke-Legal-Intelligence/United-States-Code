@@ -16,7 +16,7 @@ The Attorney General shall cover into the Treasury, to the credit of miscellaneo
 
 Notwithstanding any of the provisions of subsections (a) and (b) of this section, the Attorney General is authorized to pay from property vested in or transferred to the Attorney General under this chapter, the sum of $20,000 as an ex gratia payment to the Government of Switzerland in accordance with the terms of the agreement entered into by that Government and the Government of the United States on March 12, 1980.
 
-(Oct. 6, 1917, ch. 106, §39, as added July 3, 1948, ch. 826, §12, 62 Stat. 1246; amended Aug. 7, 1953, ch. 344, 67 Stat. 461; Pub. L. 85–884, Sept. 2, 1958, 72 Stat. 1708; Pub. L. 87–846, title II, §§202, 204(c), Oct. 22, 1962, 76 Stat. 1113, 1115; Pub. L. 87–861, §1, Oct. 23, 1962, 76 Stat. 1139; Pub. L. 89–619, Oct. 4, 1966, 80 Stat. 871; Pub. L. 99–93, title VIII, §803, Aug. 16, 1985, 99 Stat. 449; Pub. L. 100–418, title II, §2501(a), Aug. 23, 1988, 102 Stat. 1370.)
+(Oct. 6, 1917, ch. 106, §39, as added July 3, 1948, ch. 826, §12, 62 Stat. 1246; amended Aug. 7, 1953, ch. 344, 67 Stat. 461; Pub. L. 85–884, Sept. 2, 1958, 72 Stat. 1708; Pub. L. 87–846, title II, §§202, 204(c), Oct. 22, 1962, 76 Stat. 1113, 1115; Pub. L. 87–861, §1, Oct. 23, 1962, 76 Stat. 1139; Pub. L. 89–619, Oct. 4,1966, 80 Stat. 871; Pub. L. 99–93, title VIII, §803, Aug. 16, 1985, 99 Stat. 449; Pub. L. 100–418, title II, §2501(a), Aug. 23, 1988, 102 Stat. 1370.)
 
 #### References in Text
 
@@ -30,7 +30,7 @@ Section was formerly classified to section 39 of the former Appendix to this tit
 
 #### Amendments
 
-<b>1988</b>—Subsecs. (b) to (f). Pub. L. 100–418 added subsec. (b), redesignated subsec. (f) as (c) and substituted "and\(b)" for "through (d)", and struck out former subsecs. (b) to (e) which related to authorizations for certain transfers of funds into the Treasury by the Attorney General for deposit into the War Claims Fund and transfer of certain paintings to the Federal Republic of Germany.
+<b>1988</b>—Subsecs. (b) to (f). Pub. L. 100–418 added subsec. (b), redesignated subsec. (f) as (c) and substituted "and (b)" for "through (d)", and struck out former subsecs. (b) to (e) which related to authorizations for certain transfers of funds into the Treasury by the Attorney General for deposit into the War Claims Fund and transfer of certain paintings to the Federal Republic of Germany.
 
 <b>1985</b>—Subsec. (f). Pub. L. 99–93 added subsec. (f).
 

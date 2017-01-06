@@ -44,9 +44,9 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(iii) the methods by which complaints concerning such rates, charges, or collection practices will be resolved;
 
-&emsp;&emsp;(D) ensure, by contract or tariff, that each aggregator for which such provider is the presubscribed provider of operator services is in compliance with the requirements of subsection (c) of this section and, if applicable, subsection (e)(1) of this section;
+&emsp;&emsp;(D) ensure, by contract or tariff, that each aggregator for which such provider is the presubscribed provider of operator services is in compliance with the requirements of subsection (c) and, if applicable, subsection (e)(1);
 
-&emsp;&emsp;(E) withhold payment (on a location-by-location basis) of any compensation, including commissions, to aggregators if such provider reasonably believes that the aggregator (i) is blocking access by means of "950" or "800" numbers to interstate common carriers in violation of subsection (c)(1)(B) of this section or (ii) is blocking access to equal access codes in violation of rules the Commission may prescribe under subsection (e)(1) of this section;
+&emsp;&emsp;(E) withhold payment (on a location-by-location basis) of any compensation, including commissions, to aggregators if such provider reasonably believes that the aggregator (i) is blocking access by means of "950" or "800" numbers to interstate common carriers in violation of subsection (c)(1)(B) or (ii) is blocking access to equal access codes in violation of rules the Commission may prescribe under subsection (e)(1);
 
 &emsp;&emsp;(F) not bill for unanswered telephone calls in areas where equal access is available;
 
@@ -96,7 +96,7 @@ As used in this section—
 
 &emsp;The regulations prescribed under this section shall—
 
-&emsp;&emsp;(A) contain provisions to implement each of the requirements of this section, other than the requirements established by the rulemaking under subsection (e) of this section on access and compensation; and
+&emsp;&emsp;(A) contain provisions to implement each of the requirements of this section, other than the requirements established by the rulemaking under subsection (e) on access and compensation; and
 
 &emsp;&emsp;(B) contain such other provisions as the Commission determines necessary to carry out this section and the purposes and policies of this section.
 
@@ -144,7 +144,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 &emsp;&emsp;The Commission may, after 4 years following October 17, 1990, waive the requirements of this paragraph only if—
 
-&emsp;&emsp;&emsp;(i) the findings and conclusions of the Commission in the final report issued under paragraph (3)(B)(iii) state that the regulatory objectives specified in subsection (d)(1)(A) and (B) of this section have been achieved; and
+&emsp;&emsp;&emsp;(i) the findings and conclusions of the Commission in the final report issued under paragraph (3)(B)(iii) state that the regulatory objectives specified in subsection (d)(1)(A) and (B) have been achieved; and
 
 &emsp;&emsp;&emsp;(ii) the Commission determines that such waiver will not adversely affect the continued achievement of such regulatory objectives.
 
@@ -160,7 +160,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (A) In general
 
-&emsp;&emsp;Within 60 days after October 17, 1990, the Commission shall initiate a proceeding to determine whether the regulatory objectives specified in subsection (d)(1)(A) and (B) of this section are being achieved. The proceeding shall—
+&emsp;&emsp;Within 60 days after October 17, 1990, the Commission shall initiate a proceeding to determine whether the regulatory objectives specified in subsection (d)(1)(A) and (B) are being achieved. The proceeding shall—
 
 &emsp;&emsp;&emsp;(i) monitor operator service rates;
 

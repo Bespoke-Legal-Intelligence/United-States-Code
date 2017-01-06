@@ -1,0 +1,10 @@
+### §1701. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–395, §2, Sept. 30, 1978, 92 Stat. 813, which set out congressional findings and declaration of policy, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 95–395, §1, Sept. 30, 1978, 92 Stat. 813, provided that Pub. L. 95–395, enacting this subchapter, could be cited as the "Rhode Island Indian Claims Settlement Act".
+

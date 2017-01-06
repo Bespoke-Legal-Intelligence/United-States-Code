@@ -16,11 +16,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) benefits based on Federal disability status;
 
-&emsp;&emsp;&emsp;&emsp;(III) aid under a State plan approved under subchapter XIV of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972);
+&emsp;&emsp;&emsp;&emsp;(III) aid under a State plan approved under subchapter XIV (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972);
 
-&emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI of this chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
+&emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
 
-&emsp;&emsp;&emsp;&emsp;(V) supplemental security income benefits under subchapter XVI of this chapter (as in effect pursuant to such amendment) by reason of disability.
+&emsp;&emsp;&emsp;&emsp;(V) supplemental security income benefits under subchapter XVI (as in effect pursuant to such amendment) by reason of disability.
 
 &emsp;&emsp;&emsp;(iii) The ages of the members of such families.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(viii) The race and educational level of each child in the family.
 
-&emsp;&emsp;&emsp;(ix) Whether the family received subsidized housing, medical assistance under the State plan approved under subchapter XIX of this chapter, supplemental nutrition assistance program benefits, or subsidized child care, and if the latter 2, the amount received.
+&emsp;&emsp;&emsp;(ix) Whether the family received subsidized housing, medical assistance under the State plan approved under subchapter XIX, supplemental nutrition assistance program benefits, or subsidized child care, and if the latter 2, the amount received.
 
 &emsp;&emsp;&emsp;(x) The number of months that the family has received each type of assistance under the program.
 
@@ -80,7 +80,7 @@
 
 #### (i) Authority
 
-&emsp;&emsp;&emsp;A State may comply with subparagraph (A) by submitting disaggregated case record information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
+&emsp;&emsp;&emsp;A State may comply with subparagraph (A) by submitting disaggregated caserecord information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
 
 #### (ii) Sampling and other methods
 
@@ -220,7 +220,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (A) Designation
 
-&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a data exchange standard for any category of information required to be reported under this part.
+&emsp;&emsp;The Secretary, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and tribal perspectives, shall, by rule, designate a dataexchange standard for any category of information required to be reported under this part.
 
 #### (B) Data exchange standards must be nonproprietary and interoperable
 
@@ -304,7 +304,7 @@ Subsec. (a)(1)(B). Pub. L. 105–33, §5507(1)(B), substituted "samples" for "es
 
 Subsec. (a)(2). Pub. L. 105–33, §5001(e)(2), inserted before period at end ", with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title".
 
-Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of the total amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
+Subsec. (a)(3). Pub. L. 105–33, §5001(e)(3), inserted before period at end ", with a separate statement of thetotal amount expended by the State during the quarter on programs operated with funds provided under section 603(a)(5) of this title".
 
 Subsec. (a)(4). Pub. L. 105–33, §5001(e)(4), inserted before period at end ", with a separate statement of the number of such parents who participated in programs operated with funds provided under section 603(a)(5) of this title".
 

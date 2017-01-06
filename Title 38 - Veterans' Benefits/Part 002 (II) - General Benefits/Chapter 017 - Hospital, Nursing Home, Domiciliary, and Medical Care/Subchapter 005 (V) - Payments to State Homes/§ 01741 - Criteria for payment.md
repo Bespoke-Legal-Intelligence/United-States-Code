@@ -120,7 +120,7 @@ Pub. L. 94–417, §1(c), Sept. 21, 1976, 90 Stat. 1277, provided that:
 
 "(1) The amendments made by subsection (a) of this section \[amending this section\] shall be effective on October 1, 1976.
 
-"(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, asamended by subsection (a) of this section, the Administrator of Veterans' Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection (a) of this section had been effective on January 1, 1976."
+"(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans' Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection (a) of this section had been effective on January 1, 1976."
 
 #### Effective Date of 1973 Amendment
 

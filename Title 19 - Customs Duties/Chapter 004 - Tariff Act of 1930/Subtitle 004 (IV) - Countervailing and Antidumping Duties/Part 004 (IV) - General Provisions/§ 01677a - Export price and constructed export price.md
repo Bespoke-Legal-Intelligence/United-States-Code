@@ -24,7 +24,7 @@ The price used to establish export price and constructed export price shall beâ€
 
 &emsp;&emsp;(A) except as provided in paragraph (1)(C), the amount, if any, included in such price, attributable to any additional costs, charges, or expenses, and United States import duties, which are incident to bringing the subject merchandise from the original place of shipment in the exporting country to the place of delivery in the United States, and
 
-&emsp;&emsp;(B) the amount, if included in such price, of any export tax, duty, or other charge imposed by the exporting country on the exportation of the subject merchandise to the United States, other than an export tax,duty, or other charge described in section 1677(6)(C) of this title.
+&emsp;&emsp;(B) the amount, if included in such price, of any export tax, duty, or other charge imposed by the exporting country on the exportation of the subject merchandise to the United States, other than an export tax, duty, or other charge described in section 1677(6)(C) of this title.
 
 #### (d) Additional adjustments to constructed export price
 

@@ -20,7 +20,7 @@
 
 &emsp;(D) adequate observer coverage and port sampling of commercial and recreational fishing activity;
 
-&emsp;(E) collection of comparable real-time data on commercial and recreational catches and landings through the use of permits, logbooks,landing reports for charter operations and fishing tournaments, and programs to provide reliable reporting of the catch by private anglers;
+&emsp;(E) collection of comparable real-time data on commercial and recreational catches and landings through the use of permits, logbooks, landing reports for charter operations and fishing tournaments, and programs to provide reliable reporting of the catch by private anglers;
 
 &emsp;(F) studies of the life history parameters of Atlantic bluefin tuna and other highly migratory species;
 

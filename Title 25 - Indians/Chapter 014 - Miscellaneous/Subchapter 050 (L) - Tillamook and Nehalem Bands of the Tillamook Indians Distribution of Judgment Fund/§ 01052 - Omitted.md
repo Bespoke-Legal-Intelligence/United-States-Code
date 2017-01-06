@@ -1,0 +1,6 @@
+### §1052. Omitted
+
+#### Codification
+
+Section, Pub. L. 88–506, §2, Aug. 30, 1964, 78 Stat. 639, which authorized distribution to tribal members of prorated shares of funds appropriated for a certain judgment against the United States, was omitted from the Code as being of special and not general application.
+

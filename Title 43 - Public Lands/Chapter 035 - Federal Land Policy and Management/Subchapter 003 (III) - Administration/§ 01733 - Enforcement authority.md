@@ -38,7 +38,7 @@ This Act, referred to in subsecs. (a), (b), and (f), is Pub. L. 94–579, Oct. 2
 
 #### Change of Name
 
-"United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Modification of Regulations Relating to Mining Operations on Public Lands; Posting of Reclamation Bond for All Operations Involving Significant Surface Disturbance
 

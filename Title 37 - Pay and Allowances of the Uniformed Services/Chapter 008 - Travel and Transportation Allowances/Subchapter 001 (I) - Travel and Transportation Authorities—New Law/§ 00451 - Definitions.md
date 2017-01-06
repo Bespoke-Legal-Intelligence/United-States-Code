@@ -126,5 +126,5 @@ Program of Compliance.—The Secretary of Defense and the other administering Se
 
 "(e)
 
-Transition Period.—In this section, the term 'transition period' means the 10-year period beginningon the first day of the first month beginning after the date of the enactment of this Act."
+Transition Period.—In this section, the term 'transition period' means the 10-year period beginning on the first day of the first month beginning after the date of the enactment of this Act."
 

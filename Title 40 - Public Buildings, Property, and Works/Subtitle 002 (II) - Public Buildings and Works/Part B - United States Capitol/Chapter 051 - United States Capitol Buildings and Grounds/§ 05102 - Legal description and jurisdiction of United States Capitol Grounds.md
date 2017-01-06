@@ -58,7 +58,7 @@ In general.—Except as provided under paragraph (2), the United States Capitol 
 
 Authority of librarian of congress.—Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with section 1 of the Act of June 29, 1922 (2 U.S.C. 141; 42 Stat. 715).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233;Pub. L. 110–178, §4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 #### Definition of United States Capitol Grounds
 
@@ -80,7 +80,7 @@ Historical and Revision Notes
 
 July 31, 1946, ch. 707, §1, 60 Stat. 718; Pub. L. 90–108, §1(a), Oct. 20, 1967, 81 Stat. 275; Pub. L. 93–198, §739(g)(7), Dec. 24, 1973, 87 Stat. 829; Pub. L. 96–432, §2, Oct. 10, 1980, 94 Stat. 1852.
 
-In subsection (b)(2), the words "Mayor of the District of Columbia" are substituted for "Commissioners of the District of Columbia" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner of the District of Columbia" because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words "Washington Avenue Southwest" are substituted for "Canal Street S. W." and "Canal Street Southwest" because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
+In subsection (b)(2), the words "Mayor of the District of Columbia" are substituted for "Commissioners of the District of Columbia" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner of the District of Columbia" because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words "Washington Avenue Southwest" are substituted for "Canal Street S. W." and "Canal Street Southwest" because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
 
 #### References in Text
 
@@ -188,7 +188,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;"(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
-&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;"(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
 
@@ -282,7 +282,7 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 &emsp;"(3) The term 'Map' means the map entitled 'Transfer and Conveyance of Properties in the District of Columbia', numbered 869/80460, and dated July 2005, which shall be kept on file in the appropriate office of the National Park Service.
 
-&emsp;"(4) The term 'park purposes' includes landscaped areas, pedestrian walkways, bicycle trails, seating,opensided shelters, natural areas, recreational use areas, and memorial sites reserved for public use.
+&emsp;"(4) The term 'park purposes' includes landscaped areas, pedestrian walkways, bicycle trails, seating, opensided shelters, natural areas, recreational use areas, and memorial sites reserved for public use.
 
 &emsp;"(5) The term 'Secretary' means the Secretary of the Interior.
 
@@ -584,13 +584,13 @@ WHEREAS, Squares 732 north and south were acquired as an addition to the Capitol
 
 WHEREAS, the aforesaid Additional House Office Building Act provides, in pertinent part, with respect to these properties, as follows:
 
-&emsp;"\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled 'An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisionsof law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\]."
+&emsp;"\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled 'An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\]."
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 
 &nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
 
-&nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
+&nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 
 &nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use and operation of the four House Garages and outdoor parking lots.
 

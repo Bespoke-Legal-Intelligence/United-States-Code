@@ -1394,7 +1394,7 @@ Construction.—Nothing in this subsection shall preclude an alien from filing a
 
 \[Pub. L. 105–100, title II, §203(f), Nov. 19, 1997, 111 Stat. 2200, provided that: "The amendments made by this section to the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[amending section 309 of Pub. L. 104–208, div. C, set out above\] shall take effect as if included in the enactment of such Act."\]
 
-\[Pub. L. 104–302, §2, Oct. 11, 1996, 110 Stat. 3657, provided that the amendment made by that section to section 309 of Pub. L. 104–208, set out above, is effective Sept. 30, 1996.\]
+\[Pub. L. 104–302, §2, Oct. 11, 1996, 110 Stat. 3657, provided that the amendment made by section 2(2), (3) to section 309 of Pub. L. 104–208, set out above, is effective Sept. 30, 1996.\]
 
 Pub. L. 104–208, div. C, title III, §321(c), Sept. 30, 1996, 110 Stat. 3009–628, provided that: "The amendments made by this section \[amending this section\] shall apply to actions taken on or after the date of the enactment of this Act \[Sept. 30, 1996\], regardless of when the conviction occurred, and shall apply under section 276(b) of the Immigration and Nationality Act \[8 U.S.C. 1326(b)\] only to violations of section 276(a) of such Act occurring on or after such date."
 
@@ -1916,7 +1916,7 @@ Pub. L. 111–230, title IV, §402, Aug. 13, 2010, 124 Stat. 2487, as amended by
 
 #### Afghan Allies Protection
 
-Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045, provided that:
+Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
@@ -1960,11 +1960,19 @@ Principal aliens.—An alien is described in this subparagraph if the alien—
 
 &emsp;&emsp;&emsp;"(ii) was or is employed in Afghanistan on or after October 7, 2001, for not less than 1 year, or, if submitting a petition after September 30, 2015, for a period of not less than 2 years—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) by, or on behalf of, the United States Government; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)(aa) by, or on behalf of, the United States Government, in the case of an alien submitting an application for Chief of Mission approval pursuant to subparagraph (D) before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 \[Dec. 23, 2016\]; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) by, or on behalf of, the United States Government, in the case of an alien submittingan application for Chief of Mission approval pursuant to subparagraph (D) on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, which employment required the alien—
+
+&emsp;&emsp;&emsp;"(AA) to serve as an interpreter or translator for personnel of the Department of State or the United States Agency for International Development in Afghanistan, particularly while traveling away from United States embassies or consulates with such personnel;
+
+&emsp;&emsp;&emsp;"(BB) to serve as an interpreter or translator for United States military personnel in Afghanistan, particularly while traveling off-base with such personnel; or
+
+&emsp;&emsp;&emsp;"(CC) to perform sensitive and trusted activities for the United States Government in Afghanistan; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) by the International Security Assistance Force (or any successor name for such Force) in a capacity that required the alien—
 
-&emsp;&emsp;&emsp;"(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force (or any successor name for such Force), to serve as aninterpreter or translator for such United States military personnel; or
+&emsp;&emsp;&emsp;"(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force (or any successor name for such Force), to serve as an interpreter or translator for such United States military personnel; or
 
 &emsp;&emsp;&emsp;"(bb) to perform sensitive and trusted activities for United States military personnel stationed at International Security Assistance Force (or any successor name for such Force);
 
@@ -2060,7 +2068,7 @@ Fiscal years 2009 through 2013.—If the numerical limitation specified in subpa
 
 &emsp;&emsp;&emsp;"(ii)
 
-Fiscal year 2014.—If the numerical limitation determined under clause (i) is not reached in fiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—
+Fiscal year 2014.—If the numerical limitation determined under clause (i) is not reached infiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the numerical limitation determined under clause (i) for fiscal year 2013; and
 
@@ -2090,11 +2098,11 @@ Construction.—Clause (i) shall not be construed to affect the authority, numer
 
 &emsp;&emsp;"(F)
 
-Fiscal years 2015, 2016, and 2017.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 7,000. For purposes of status provided under this subparagraph—
+Fiscal years 2015, 2016, and 2017.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 8,500. For purposes of status provided under this subparagraph—
 
-&emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2016;
+&emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2020\[;\]
 
-&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2016; and
+&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2020\[;\] and
 
 &emsp;&emsp;&emsp;"(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on the date such visas are exhausted.
 
@@ -2230,11 +2238,11 @@ Public quarterly reports.—Not later than 120 days after the date of the enactm
 
 &emsp;"(14)
 
-Report.—Not later than 60 days after the date of the enactment of this paragraph \[Dec. 19, 2014\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives containing the following information:
+Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2021, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives containing the following information:
 
 &emsp;&emsp;"(A) The occupations of aliens who—
 
-&emsp;&emsp;&emsp;"(i) were provided special immigrant status under this section; and
+&emsp;&emsp;&emsp;"(i) were provided special immigrant status under subclause (I) or (II)(bb) of paragraph (2)(A)(ii); and
 
 &emsp;&emsp;&emsp;"(ii) were considered principal aliens for such purpose.
 
@@ -2254,7 +2262,7 @@ Report.—Not later than 60 days after the date of the enactment of this paragra
 
 &emsp;"(15)
 
-Reports informing the conclusion of the afghan special immigrant visa program.—Not later than June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
+Reports informing the conclusion of the afghan special immigrant visa program.—Not later than June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee onArmed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
 
 &emsp;&emsp;"(A) a description of the United States force presence in Afghanistan during the previous 6 months;
 
@@ -2348,7 +2356,7 @@ Principal aliens.—An alien is described in this subsection if the alien—
 
 &emsp;"(2)
 
-Spouses and children.—An alien is described in this subsection if the alien is the spouse or child of a principal alien described in paragraph (1), and is following or accompanying to join the principal alien.
+Spouses and children.—An alien is described in this subsection if the alien is the spouse or child of a principal alien described in paragraph (1), and isfollowing or accompanying to join the principal alien.
 
 "(c)
 
@@ -2460,7 +2468,7 @@ Philippine traders classifiable as nonimmigrants under subsec. (a)(15)(E) of thi
 
 #### Irish Peace Process Cultural and Training Program
 
-Pub. L. 105–319, Oct. 30, 1998, 112 Stat. 3013, as amended by Pub. L. 107–234, §1, Oct. 4, 2002, 116 Stat. 1481; Pub.L. 108–449, §1(a), Dec. 10, 2004, 118 Stat. 3469, known as the Irish Peace Process Cultural and Training Program Act of 1998, which related to the Irish Peace Process Cultural and Training Program, was repealed by section 2(c)(1) of Pub. L. 105–319, effective Oct. 1, 2008.
+Pub. L. 105–319, Oct. 30, 1998, 112 Stat. 3013, as amended by Pub. L. 107–234, §1, Oct. 4, 2002, 116 Stat. 1481; Pub. L. 108–449, §1(a), Dec. 10, 2004, 118 Stat. 3469, known as the Irish Peace Process Cultural and Training Program Act of 1998, which related to the Irish Peace Process Cultural and Training Program, was repealed by section 2(c)(1) of Pub. L. 105–319, effective Oct. 1, 2008.
 
 #### Coordination of Amendments by Pub. L. 104–208
 
@@ -2634,7 +2642,7 @@ Meetings, Staff, and Authority of Commission.—The provisions of subsections (e
 
 "(f)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated to the Commissionsuch sums as may be necessary to carry out this section.
+Authorization of Appropriations.—(1) There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
 
 "(2) Notwithstanding any other provision of this section, the authority to make payments, or to enter into contracts, under this section shall be effective only to such extent, or in such amounts, as are provided in advance in appropriations Acts.
 
@@ -2700,7 +2708,7 @@ Pub. L. 101–649, title II, §204(b), Nov. 29, 1990, 104 Stat. 5019, provided t
 
 #### Clarification of Treatment of Certain International Accounting and Management Consulting Firms
 
-Pub. L. 101–649, title II, §206(a), Nov. 29, 1990, 104 Stat. 5022, as amended by Pub. L. 102–232, title III, §303(a)(9), Dec. 12, 1991, 105 Stat. 1748; Pub. L. 106–95, §6, Nov. 12, 1999, 113 Stat. 1319, provided that: "In applying sections 101(a)(15)(L) and 203(b)(1)(C) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(L), 1153(b)(1)(C)\], and for no other purpose, in the case of a partnership that is organized in the United States to provide accounting or management consulting services and that markets its accounting or management consulting services under an internationally recognized name under an agreement with a worldwide coordinating organization that is collectively owned and controlled by the member accounting and management consulting firms or by the elected members (partners, shareholders, members, employees) thereof, an entity that is organized outside the United States to provide accounting or management consulting services shall be considered to be an affiliate of the United States accounting or management consulting partnership if it markets its accounting or management consulting services under the same internationally recognized name directly or indirectly under an agreement with the same worldwide coordinating organization of which the United States partnership is also a member. Those partnerships organized within the United States and entities organized outside the United States which are considered affiliates under this subsection shall continue to be considered affiliates to the extent such firms enter into a plan of association with a successor worldwide coordinating organization, which need not be collectively owned and controlled."
+Pub. L. 101–649, title II, §206(a), Nov. 29, 1990, 104 Stat. 5022, as amended by Pub. L. 102–232, title III, §303(a)(9),Dec. 12, 1991, 105 Stat. 1748; Pub. L. 106–95, §6, Nov. 12, 1999, 113 Stat. 1319, provided that: "In applying sections 101(a)(15)(L) and 203(b)(1)(C) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(L), 1153(b)(1)(C)\], and for no other purpose, in the case of a partnership that is organized in the United States to provide accounting or management consulting services and that markets its accounting or management consulting services under an internationally recognized name under an agreement with a worldwide coordinating organization that is collectively owned and controlled by the member accounting and management consulting firms or by the elected members (partners, shareholders, members, employees) thereof, an entity that is organized outside the United States to provide accounting or management consulting services shall be considered to be an affiliate of the United States accounting or management consulting partnership if it markets its accounting or management consulting services under the same internationally recognized name directly or indirectly under an agreement with the same worldwide coordinating organization of which the United States partnership is also a member. Those partnerships organized within the United States and entities organized outside the United States which are considered affiliates under this subsection shall continue to be considered affiliates to the extent such firms enter into a plan of association with a successor worldwide coordinating organization, which need not be collectively owned and controlled."
 
 #### Admission of Nonimmigrants for Cooperative Research, Development, and Coproduction Projects
 
@@ -2762,7 +2770,7 @@ Pub. L. 100–525, §2(o)(2), Oct. 24, 1988, 102 Stat. 2613, provided that: "Onl
 
 #### Nonimmigrant Traders and Investors Under United States-Canada Free-Trade Agreement
 
-For provisions allowing Canadian citizens to be classifiable as nonimmigrants under subsec. (a)(15)(E) of this section upon a basis of reciprocity secured by the United States-Canada Free-Trade Agreement, see section 307(a) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+For provisions allowing Canadian citizens to be classifiable as nonimmigrants under subsec. (a)(15)(E) ofthis section upon a basis of reciprocity secured by the United States-Canada Free-Trade Agreement, see section 307(a) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
 #### Amerasian Immigration
 
@@ -2816,7 +2824,7 @@ Two Essential Elements.—It is the sense of Congress that two essential element
 
 "(b)
 
-Increased Authorization of Appropriations for INS and EOIR.—In addition to any other amounts authorized to be appropriated, in order to carry out this Act there are authorized to be appropriated to the Department of Justice—
+Increased Authorization of Appropriations for INS and EOIR.—In addition to any other amountsauthorized to be appropriated, in order to carry out this Act there are authorized to be appropriated to the Department of Justice—
 
 &emsp;"(1) for the Immigration and Naturalization Service, for fiscal year 1987, $422,000,000, and for fiscal year 1988, $419,000,000; and
 
@@ -2830,7 +2838,7 @@ Use of Funds for Improved Services.—Of the funds appropriated to the Departmen
 
 "(d)
 
-Supplemental Authorization of Appropriations for Wage and Hour Enforcement.—There are authorized to be appropriated, in addition to such sumsas may be available for such purposes, such sums as may be necessary to the Department of Labor for enforcement activities of the Wage and Hour Division and the Office of Federal Contract Compliance Programs within the Employment Standards Administration of the Department in order to deter the employment of unauthorized aliens and remove the economic incentive for employers to exploit and use such aliens."
+Supplemental Authorization of Appropriations for Wage and Hour Enforcement.—There are authorized to be appropriated, in addition to such sums as may be available for such purposes, such sums as may be necessary to the Department of Labor for enforcement activities of the Wage and Hour Division and the Office of Federal Contract Compliance Programs within the Employment Standards Administration of the Department in order to deter the employment of unauthorized aliens and remove the economic incentive for employers to exploit and use such aliens."
 
 #### Eligibility of H–2 Agricultural Workers for Certain Legal Assistance
 
@@ -2866,7 +2874,7 @@ Pub. L. 97–116, §5(e), Dec. 29, 1981, 95 Stat. 1614, directed Secretary of He
 
 #### Adjustment of Status of Nonimmigrant Aliens Residing in the Virgin Islands to Permanent Resident Alien Status
 
-Upon application during the one-year period beginning Sept. 30, 1982, by an alien who was inspected and admitted to the Virgin Islands of the United States either as a nonimmigrant alien worker under subsec. (a)(15)(H)(ii) of this section or as a spouse or minor child of such worker, and has resided continuously in the Virgin Islands since June 30, 1975, the Attorney General may adjust the status of such nonimmigrant alien to that of an alien lawfully admitted for permanent residence, provided certain conditions are met, and such alien is not to be deported for failure to maintain nonimmigrant status until final action is taken on the alien's application for adjustment, see section 2(a), (b) of Pub. L. 97–271, set out as a note under section 1255 of this title.
+Upon application during the one-year period beginning Sept. 30, 1982, by an alien who was inspected andadmitted to the Virgin Islands of the United States either as a nonimmigrant alien worker under subsec. (a)(15)(H)(ii) of this section or as a spouse or minor child of such worker, and has resided continuously in the Virgin Islands since June 30, 1975, the Attorney General may adjust the status of such nonimmigrant alien to that of an alien lawfully admitted for permanent residence, provided certain conditions are met, and such alien is not to be deported for failure to maintain nonimmigrant status until final action is taken on the alien's application for adjustment, see section 2(a), (b) of Pub. L. 97–271, set out as a note under section 1255 of this title.
 
 #### Limitation on Admission of Aliens Seeking Employment in the Virgin Islands
 
@@ -2874,7 +2882,7 @@ Notwithstanding any other provision of law, the Attorney General not to be autho
 
 #### Limitation on Admission of Special Immigrants
 
-Pub. L. 96–70, title III, §3201(c), Sept. 27, 1979, 93 Stat. 497, provided that notwithstanding any other provision of law, not more than 15,000 individuals could be admitted to the United States as special immigrants undersubparagraphs (E), (F), and (G) of subsec. (a)(27) of this section, of which not more than 5,000 could be admitted in any fiscal year, prior to repeal by Pub. L. 103–416, title II, §212(a), Oct. 25, 1994, 108 Stat. 4314.
+Pub. L. 96–70, title III, §3201(c), Sept. 27, 1979, 93 Stat. 497, provided that notwithstanding any other provision of law, not more than 15,000 individuals could be admitted to the United States as special immigrants under subparagraphs (E), (F), and (G) of subsec. (a)(27) of this section, of which not more than 5,000 could be admitted in any fiscal year, prior to repeal by Pub. L. 103–416, title II, §212(a), Oct. 25, 1994, 108 Stat. 4314.
 
 #### Ex. Ord. No. 12711. Policy Implementation With Respect to Nationals of People's Republic of China
 

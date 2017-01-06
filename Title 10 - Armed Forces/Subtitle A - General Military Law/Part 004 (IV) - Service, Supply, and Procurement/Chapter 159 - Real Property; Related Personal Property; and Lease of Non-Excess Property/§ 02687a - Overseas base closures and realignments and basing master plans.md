@@ -60,21 +60,35 @@ Congressional Oversight of Use of Payments-In-Kind for Construction or Operation
 
 (f)
 
-Authorized Use of Payments-In-Kind.—(1) A military construction project, as defined in chapter 159 of this title, may be accepted as a payment-in-kind contribution pursuant to a bilateral agreement with a host country only if that military construction project is authorized by law.
+Acceptance of Military Construction Projects As Payments-In-Kind and In-Kind Contributions.—(1)(A) Except as provided in subparagraph (B), a military construction project costing more than $6,000,000 may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.
 
-(2) Operations of United States forces may be funded through a payment-in-kind contribution under this section only if the costs covered by such payment are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 <sup>1</sup> of title 31.
+(B) Subparagraph (A) does not apply to a military construction project that—
 
-(3) If funds previously appropriated for a military construction project, facility improvement, or operating costs are subsequently addressed in an agreement for a payment-in-kind contribution, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
+&emsp;(i) was specified in a bilateral agreement with a host country that was entered into before December 26, 2013;
 
-(4) This subsection does not apply to a military construction project that—
+&emsp;(ii) was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015; or
 
-&emsp;(A) was specified in a bilateral agreement with a host country that was entered into prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014;
+&emsp;(iii) was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; 10 U.S.C. 2687 note) before December 26, 2013.
 
-&emsp;(B) was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; 10 U.S.C. 2687 note) prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014; or
+(2)(A) If the Secretary of Defense accepts a military construction project to be built for Department of Defense personnel outside the United States as a payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country, the Secretary shall submit to the congressional defense committees a written notification at least 30 days before the initiation date for any such military construction project.
 
-&emsp;(C) subject to paragraph (5), will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.
+(B) A notification under subparagraph (A) with respect to a proposed military construction project shall include the following:
 
-(5) In the case of a military construction project excluded pursuant to paragraph (4)(C) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
+&emsp;(i) The requirements for, and purpose and description of, the proposed project.
+
+&emsp;(ii) The cost of the proposed project.
+
+&emsp;(iii) The scope of the proposed project.
+
+&emsp;(iv) The schedule for the proposed project.
+
+&emsp;(v) Such other details as the Secretary considers relevant.
+
+(C) Subparagraph (A) shall not apply to a military construction project authorized in a Military Construction Authorization Act.
+
+(3) To the extent that a payment-in-kind or an in-kind contribution is provided under a bilateral agreement with a host country with respect to a military construction project for which funds have already been obligated or expended by the Secretary of Defense, the Secretary shall return to the Treasury funds in an amount equal to the value of the funds already obligated or expended for the project.
+
+(4) In this subsection, the term "military construction project" has the meaning given such term in section 2801 of this title.
 
 (g)
 
@@ -92,53 +106,23 @@ Definitions.—In this section:
 
 &emsp;(4) The term "nonappropriated fund instrumentality" means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, §1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, §1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, §2807(a), Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. B, title XXVIII, §2803(a), Dec. 19, 2014, 128 Stat. 3696; Pub. L. 114–92, div. A, title X, §1081(a)(11), (b)(7), Nov. 25, 2015, 129 Stat. 1001, 1002.)
-
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 113–291, div. B, title XXVIII, §2803(a), (d), Dec. 19, 2014, 128 Stat. 3696, 3697, as amended by Pub. L. 114–92, div. A, title X, §1081(b)(7), Nov. 25, 2015, 129 Stat. 1002, provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (f) of this section is amended to read as follows:</i>
-
-<i>(f)</i>
-
-<i>Authorized Use of Payments-In-Kind and In-Kind Contributions.—(1) A military construction project, as defined in chapter 159 of this title, may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.</i>
-
-<i>(2) Operations of United States forces may be funded through payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country under this section only if the costs covered by such payment or contribution are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under section 1105 of title 31.</i>
-
-<i>(3) If funds previously appropriated for a military construction project or operating costs are subsequently addressed in an agreement for payment-in-kind or by an in-kind contribution required by a bilateral agreement with a host country, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.</i>
-
-<i>(4) This subsection does not apply to a military construction project that—</i>
-
-&emsp;<i>(A) was specified in a bilateral agreement with a host country that was entered into before December 26, 2013;</i>
-
-&emsp;<i>(B) was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015;</i>
-
-&emsp;<i>(C) was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; 10 U.S.C. 2687 note) before December 26, 2013; or</i>
-
-&emsp;<i>(D) subject to paragraph (6), will cost less than the cost specified in subsection (a)(2) of section 2805 of this title for certain unspecified minor military construction projects.</i>
-
-<i>(5) This subsection does not apply to an in-kind contribution toward operating costs that—</i>
-
-&emsp;<i>(A) was specified in a bilateral agreement with a host country that was entered into before December 26, 2013;</i>
-
-&emsp;<i>(B) was the subject of negotiation between the United States and a host country as of the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015; or</i>
-
-&emsp;<i>(C) was accepted as an in-kind contribution for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; 10 U.S.C. 2687 note) before December 26, 2013.</i>
-
-<i>(6) In the case of a military construction project excluded pursuant to paragraph (4)(D) whose cost will exceed the cost specified in subsection (b) of section 2805 of this title for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.</i>
-
-<i>See 2014 Amendment note below.</i>
+(Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, §1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, §1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, §2807(a), Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. B, title XXVIII, §2803(a), Dec. 19, 2014, 128 Stat. 3696; Pub. L. 114–92, div. A, title X, §1081(a)(11), (b)(7), Nov. 25, 2015, 129 Stat. 1001, 1002; Pub. L. 114–328, div. B, title XXVIII, §2811(a), (c), Dec. 23, 2016, 130 Stat. 2715, 2716.)
 
 #### References in Text
 
-The date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (f)(4)(A) and (B), is the date of enactment of div. B of Pub. L. 113–66, which was approved Dec. 26, 2013.
+The date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015, referred to in subsec. (f)(1)(B)(ii), is the date of enactment of div. B of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f). Pub. L. 114–328, §2811(a), which directed the general amendment of subsec. (f), was executed by amending subsec. (f) as it read after the repeal of Pub. L. 113–291, §2803(a), and restoration of the text prior to that amendment, to reflect the probable intent of Congress. As restored, subsec. (f) related to authorized use of payments-in-kind.
+
+Pub. L. 114–328, §2811(c), repealed Pub. L. 113–291, §2803(a), and provided that the provisions of law amended by such section 2803(a) are restored as if such section had not been enacted into law. See 2014 Amendment note below.
 
 <b>2015</b>—Subsec. (d)(2). Pub. L. 114–92, §1081(a)(11), inserted "fair market" before "value".
 
 Subsec. (f). Pub. L. 114–92, §1081(b)(7), amended Pub. L. 113–291, §2803(a). See 2014 Amendment note below.
 
-<b>2014</b>—Subsec. (f). Pub. L. 113–291, §2803(a), as amended by Pub. L. 114–92, §1081(b)(7), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
+<b>2014</b>—Subsec. (f). Pub. L. 113–291, §2803(a), as amended by Pub. L. 114–92, §1081(b)(7), which amended subsec. (f) generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, §2811(c).
 
 <b>2013</b>—Pub. L. 113–66, §2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 
@@ -150,15 +134,17 @@ Subsec. (b)(1). Pub. L. 112–239, §1076(f)(34)(B), struck out comma after "inc
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–92, div. A, title X, §1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendmentmade by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+Pub. L. 114–92, div. A, title X, §1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. B, title XXVIII, §2803(d), Dec. 19, 2014, 128 Stat. 3697, provided that: "The amendments made by this section \[amending this section and section 2802 of this title\] shall take effect on the later of—
+Pub. L. 113–291, div. B, title XXVIII, §2803(d), Dec. 19, 2014, 128 Stat. 3697, which provided the effective date for the amendments made by section 2803 of Pub. L. 113–291, was repealed by Pub. L. 114–328, div. B, title XXVIII, §2811(c), Dec. 23, 2016, 130 Stat. 2716.
 
-&emsp;"(1) September 30, 2016; or
+#### Repeal of 2014 Amendment
 
-&emsp;"(2) the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017."
+Pub. L. 114–328, div. B, title XXVIII, §2811(c), Dec. 23, 2016, 130 Stat. 2716, provided that: "Section 2803 of the Carl Levin and Howard 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) is repealed, and the provisions of law amended by subsections (a) and (b) of that section \[amending this section and section 2802 of this title\] shall be restored as if such section had not been enacted into law."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

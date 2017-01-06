@@ -10,11 +10,11 @@ Establishment.—(1) The Secretary of Defense shall establish a Strategic Materi
 
 &emsp;(B) The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
 
-&emsp;(C) A designee of the Assistant Secretary of the Army for Acquisition, Logistics, and Technology.
+&emsp;(C) A designee of the Assistant Secretary of the Army for Acquisition, Technology, and Logistics.
 
 &emsp;(D) A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
 
-&emsp;(E) A designee of the Assistant Secretary of the Air Force for Acquisition.
+&emsp;(E) A designee of the Assistant Secretary of the Air Force for Acquisition.<sup>1</sup>
 
 (b)
 
@@ -54,9 +54,11 @@ Definitions.—In this section:
 
 &emsp;(3) The term "secure supply", with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
-(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864.)
+(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, §1081(a)(2), Dec. 23, 2016, 130 Stat. 2417.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(C). Pub. L. 114–328 substituted "Acquisition, Technology, and Logistics" for "Acquisition, Logistics, and Technology".
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 112–239, §901(c)(1), amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
 
@@ -64,13 +66,19 @@ Subsec. (b)(3), (4). Pub. L. 112–239, §901(c)(2), substituted "Secretary" for
 
 Subsec. (c). Pub. L. 112–239, §901(c)(3), substituted "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy" for "Secretary of Defense".
 
-Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: "After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate."
+Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: "After each meeting of the Board, the Board shallprepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate."
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383, §829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
 
 Subsec. (e). Pub. L. 111–383, §829(a), added subsec. (e).
 
+#### Change of Name
+
+Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under section 8016 of this title.
+
 #### First Meeting of Board
 
 Pub. L. 109–364, div. A, title VIII, §843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: "The first meeting of the Strategic Materials Protection Board, established by section 187 of title 10, United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

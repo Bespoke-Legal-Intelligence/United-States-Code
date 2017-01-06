@@ -42,7 +42,7 @@ If the Director elects not to terminate a major system pursuant to subsection (b
 
 &emsp;(2) rescind the most recent Milestone approval for the major system;
 
-&emsp;(3) require a new Milestone approval for the major system before taking any action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the system, except to the extent determined necessary by the Milestone Decision Authority, on a nondelegable basis, to ensure that the system may be restructured as intended by the Director without unnecessarily wasting resources;
+&emsp;(3) require a new Milestone approval for the major system before taking any action to enter a new contract, exercise an option under an existing contract, or otherwise extend thescope of an existing contract under the system, except to the extent determined necessary by the Milestone Decision Authority, on a nondelegable basis, to ensure that the system may be restructured as intended by the Director without unnecessarily wasting resources;
 
 &emsp;(4) establish a revised current Baseline Estimate for the major system based upon an updated cost estimate; and
 

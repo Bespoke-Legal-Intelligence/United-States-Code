@@ -88,7 +88,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (13) Qualified risk manager
 
-&emsp;The term "qualified risk manager" means, with respect to a policyholder of commercialinsurance, a person who meets all of the following requirements:
+&emsp;The term "qualified risk manager" means, with respect to a policyholder of commercial insurance, a person who meets all of the following requirements:
 
 &emsp;&emsp;(A) The person is an employee of, or third-party consultant retained by, the commercial policyholder.
 

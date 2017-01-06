@@ -30,7 +30,7 @@ Plans developed in accordance with this section shall—
 
 &emsp;(1) form one integrated plan for each unit of the National Forest System, incorporating in one document or one set of documents, available to the public at convenient locations, all of the features required by this section;
 
-&emsp;(2) be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methods of timber harvest within the unit necessary to fulfill the plan;
+&emsp;(2) be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methodsof timber harvest within the unit necessary to fulfill the plan;
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
@@ -80,7 +80,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) cut blocks, patches, or strips are shaped and blended to the extent practicable with the natural terrain;
 
-&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceed the established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
+&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceedthe established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
 
 &emsp;&emsp;&emsp;(v) such cuts are carried out in a manner consistent with the protection of soil, watershed, fish, wildlife, recreation, and esthetic resources, and the regeneration of the timber resource.
 
@@ -108,7 +108,7 @@ In developing land management plans pursuant to this subchapter, the Secretary s
 
 The Secretary shall—
 
-&emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>1</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expendituresassociated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
+&emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>1</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
 &emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>2</sup>
 

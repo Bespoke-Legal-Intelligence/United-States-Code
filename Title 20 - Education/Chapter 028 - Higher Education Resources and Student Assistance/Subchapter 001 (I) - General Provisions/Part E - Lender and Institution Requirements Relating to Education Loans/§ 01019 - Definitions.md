@@ -16,7 +16,7 @@ In this part:
 
 &emsp;&emsp;(A) any loan made, insured, or guaranteed under part B of subchapter IV;
 
-&emsp;&emsp;(B) any loan made under part C of subchapter IV; or
+&emsp;&emsp;(B) any loan made under part D of subchapter IV; or
 
 &emsp;&emsp;(C) a private education loan.
 
@@ -34,7 +34,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(ii) is engaged in the practice of recommending, promoting, or endorsing education loans for students attending such covered institution or the families of such students;
 
-&emsp;&emsp;(B) may include an alumni organization, athletic organization, foundation, or social, academic, or professional organization, of a covered institution; and
+&emsp;&emsp;(B) may include an alumni organization, athletic organization, foundation, or social,academic, or professional organization, of a covered institution; and
 
 &emsp;&emsp;(C) notwithstanding subparagraphs (A) and (B), does not include any lender with respect to any education loan secured, made, or extended by such lender.
 
@@ -46,7 +46,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) in the case of a loan made, insured, or guaranteed under part B of subchapter IV, an eligible lender;
 
-&emsp;&emsp;&emsp;(ii) in the case of any loan issued or provided to a student under part C of subchapter IV, the Secretary; and
+&emsp;&emsp;&emsp;(ii) in the case of any loan issued or provided to a student under part D of subchapter IV, the Secretary; and
 
 &emsp;&emsp;&emsp;(iii) in the case of a private education loan, a private educational lender as defined in section 1650 of title 15; and
 
@@ -68,7 +68,7 @@ In this part:
 
 &emsp;&emsp;(B) does not include—
 
-&emsp;&emsp;&emsp;(i) arrangements or agreements with respect to loans under part C of subchapter IV; or
+&emsp;&emsp;&emsp;(i) arrangements or agreements with respect to loans under part D of subchapter IV; or
 
 &emsp;&emsp;&emsp;(ii) arrangements or agreements with respect to loans that originate through the auction pilot program under section 1099d(b) of this title.
 

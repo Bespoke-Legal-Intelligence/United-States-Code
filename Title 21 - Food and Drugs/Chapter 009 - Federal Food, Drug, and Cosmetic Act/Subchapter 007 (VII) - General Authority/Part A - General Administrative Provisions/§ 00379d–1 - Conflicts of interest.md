@@ -62,7 +62,7 @@ Notwithstanding section 107(a)(2) of the Ethics in Government Act of 1978, the f
 
 &emsp;&emsp;(A) the type, nature, and magnitude of the financial interests of the advisory committee member to which such determination or certification applies; and
 
-&emsp;&emsp;(B) the reasons of the Secretary for such determination or certification, including, as appropriate, the public health interest inhaving the expertise of the member with respect to the particular matter before the advisory committee.
+&emsp;&emsp;(B) the reasons of the Secretary for such determination or certification, including, as appropriate, the public health interest in having the expertise of the member with respect to the particular matter before the advisory committee.
 
 #### (2) Less than 30 days in advance
 
@@ -80,7 +80,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 &emsp;&emsp;(A) with respect to the fiscal year that ended on September 30 of the previous year, the number of persons nominated for participation at meetings for each advisory committee, the number of persons so nominated, and willing to serve, the number of vacancies on each advisory committee, and the number of persons contacted for service as members on each advisory committee meeting for each advisory committee who did not participate because of the potential for such participation to constitute a disqualifying financial interest under section 208 of title 18;
 
-&emsp;&emsp;(B) with respect to such year, the number of persons contacted for services as members for each advisory committee meeting for each advisory committee who did not participate because of reasons other than the potential for such participation to constitute a disqualifying financial interest under section 208 of title 18;
+&emsp;&emsp;(B) with respect to such year, the number of persons contacted for service as members for each advisory committee meeting for each advisory committee who did not participate because of reasons other than the potential for such participation to constitute a disqualifying financial interest under section 208 of title 18;
 
 &emsp;&emsp;(C) with respect to such year, the number of members attending meetings for each advisory committee; and
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 #### (2) Public availability
 
-&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretary shall make each such report available to the public.
+&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretaryshall make each such report available to the public.
 
 #### (f) Periodic review of guidance
 
@@ -102,7 +102,7 @@ Not less than once every 5 years, the Secretary shall—
 
 The Secretary shall issue guidance that describes how the Secretary reviews the financial interests and involvement of advisory committee members that are disclosed under subsection (c) but that the Secretary determines not to meet the definition of a disqualifying interest under section 208 of title 18 for the purposes of participating in a particular matter.
 
-(June 25, 1938, ch. 675, §712, as added Pub. L. 110–85, title VII, §701(a), Sept. 27, 2007, 121 Stat. 900; amended Pub. L. 112–144, title XI, §1142(a), July 9, 2012, 126 Stat. 1127.)
+(June 25, 1938, ch. 675, §712, as added Pub. L. 110–85, title VII, §701(a), Sept. 27, 2007, 121 Stat. 900; amended Pub. L. 112–144, title XI, §1142(a), July 9, 2012, 126 Stat. 1127; Pub. L. 114–255, div. A, title III, §3101(a)(2)(U), Dec. 13, 2016, 130 Stat. 1155.)
 
 #### References in Text
 
@@ -117,6 +117,8 @@ The Privacy Act of 1974, referred to in subsec. (c)(3)(A), is Pub. L. 93–579, 
 A prior section 712 of act June 25, 1938, was renumbered section 711 by Pub. L. 102–571 and is classified to section 379d of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(1)(B). Pub. L. 114–255 substituted "service as members" for "services as members".
 
 <b>2012</b>—Subsecs. (b), (c). Pub. L. 112–144, §1142(a)(1), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to appointments to advisory committees and disclosures, prohibitions on participation, and waivers.
 

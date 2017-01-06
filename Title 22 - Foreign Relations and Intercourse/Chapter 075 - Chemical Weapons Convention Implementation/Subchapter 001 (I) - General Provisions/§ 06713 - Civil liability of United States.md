@@ -156,7 +156,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (6) Notification to Congress
 
-&emsp;Not later than five days after sanctions become effective against a foreign person pursuant to this chapter, the President shall transmit written notification of the imposition of sanctions against that foreign person to the chairmen and ranking members of the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
+&emsp;Not later than five days after sanctions become effective against a foreign person pursuant to this chapter, the President shall transmit written notification of the imposition ofsanctions against that foreign person to the chairmen and ranking members of the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 #### (f) Sanctions for unauthorized disclosure of United States confidential business information
 

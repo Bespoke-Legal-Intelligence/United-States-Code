@@ -26,7 +26,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 &emsp;&emsp;(iii) such method of contracting will not inhibit small business participation.
 
-(2) In the event that funds are not made available for the continuation of such a contract intoa subsequent fiscal year, the contract shall be canceled and any cancellation costs incurred shall be paid from appropriations originally available for the performance of the contract, appropriations currently available for the acquisition of similar property or services and not otherwise obligated, or appropriations made for such cancellation payments.
+(2) In the event that funds are not made available for the continuation of such a contract into a subsequent fiscal year, the contract shall be canceled and any cancellation costs incurred shall be paid from appropriations originally available for the performance of the contract, appropriations currently available for the acquisition of similar property or services and not otherwise obligated, or appropriations made for such cancellation payments.
 
 (3) This subsection applies to contracts for the procurement of property or services, or both, for the operation, maintenance, and support of programs, facilities, and installations for or related to telecommunication activities, newswire services, and the distribution of books and other publications in foreign countries.
 

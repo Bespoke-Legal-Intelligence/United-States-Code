@@ -44,7 +44,7 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 #### (h) Purchase from stripper well properties
 
-(1) If the President finds that declines in the production of oil from domestic resources pose a threat to national energy security, the President may direct the Secretary to acquire oil from domestic production of stripper well properties for storage in the Strategic Petroleum Reserve. Except as provided in paragraph (2), the Secretary may set such terms and conditions as he deems necessary for such acquisition.
+(1) If the President finds that declines in the production of oil from domestic resources pose a threat to national energy security, the President may direct the Secretary to acquire oil from domestic production of stripper well properties for storage in the Strategic Petroleum Reserve. Except as provided in paragraph (2), theSecretary may set such terms and conditions as he deems necessary for such acquisition.
 
 (2) Crude oil purchased by the Secretary pursuant to this subsection shall be by competitive bid. The price paid by the Secretary—
 
@@ -116,7 +116,7 @@ Pub. L. 99–272, §7102(b)(2), added subpar. (C) and struck out former subpar. 
 
 Subsec. (d)(3). Pub. L. 99–58, §103(b)(1), added par. (3).
 
-Subsec. (e)(1)(B). Pub. L. 99–58, §102(b)(1), (2), inserted "and" at end of cl. (i), inserted a period following "to the Congress", and struck out "in accordance with section 6422 of this title, together with a request for a suspension of such provisions; and" in cl. (ii), and struck out cl. (iii) which directed that provisions of subsecs. (c) and (d) of this section would not apply if a Presidential request for the suspension of such provisions was approved by a resolution of each House of Congress within 60 days of continuous session after the date of its transmittal in accordance with provisions of section 6422 of this title applicable to energy conservation contingency plans.
+Subsec. (e)(1)(B). Pub. L. 99–58, §102(b)(1), (2), inserted "and" at end of cl. (i), inserted a period following "to the Congress", and struck out "in accordance with section 6422 of this title, together with a request for a suspension of such provisions; and" in cl. (ii), and struck out cl. (iii) which directed that provisions of subsecs. (c) and (d) of this section would not apply if a Presidential request for the suspension of such provisionswas approved by a resolution of each House of Congress within 60 days of continuous session after the date of its transmittal in accordance with provisions of section 6422 of this title applicable to energy conservation contingency plans.
 
 Subsec. (e)(2). Pub. L. 99–58, §102(b)(3), substituted "may become effective on the day the finding is transmitted to the Congress and shall terminate nine months thereafter or on such earlier date as is specified in such finding" for "shall take effect on the date on which a resolution approving that request is adopted by the second House to have so approved that request and shall terminate 9 months thereafter, or such earlier date as is specified in the request transmitted under paragraph (1)(B)(ii)".
 
@@ -182,7 +182,7 @@ Pub. L. 101–46, §2, June 30, 1989, 103 Stat. 132, directed Secretary of Energ
 
 #### Exchange of Agricultural Products for Crude Oil To Be Delivered to Strategic Petroleum Reserve
 
-Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1254, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture, at the request of the Secretary of Energy, may exchange agricultural products owned by the Commodity Credit Corporation for crude oil to be delivered to the Strategic Petroleum Reserve: <i>Provided</i>, That the Secretary of Energy shall approve the quantity, quality, delivery method, scheduling, market value and other aspects of the exchange of such agricultural products: <i>Provided further</i>, That if the volume of agricultural products to be exchanged has a value in excess of the market value of the crude oil acquired by such exchange, then the Secretary of Agriculture shall require as part of the terms and conditions of the exchange that the party or entity providing such crude oil shall agree to purchase, within six months following the exchange, current crop commodities or value-added food products from United States producers or processors in an amount equal to at least one-half the difference between the value of the commodities received in exchange and the market value of the crude oil acquired for the Strategic Petroleum Reserve."
+Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1254, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture, at the request of the Secretary of Energy, may exchange agricultural products owned by the Commodity Credit Corporation for crude oil to be delivered to the StrategicPetroleum Reserve: <i>Provided</i>, That the Secretary of Energy shall approve the quantity, quality, delivery method, scheduling, market value and other aspects of the exchange of such agricultural products: <i>Provided further</i>, That if the volume of agricultural products to be exchanged has a value in excess of the market value of the crude oil acquired by such exchange, then the Secretary of Agriculture shall require as part of the terms and conditions of the exchange that the party or entity providing such crude oil shall agree to purchase, within six months following the exchange, current crop commodities or value-added food products from United States producers or processors in an amount equal to at least one-half the difference between the value of the commodities received in exchange and the market value of the crude oil acquired for the Strategic Petroleum Reserve."
 
 #### Allocation to Strategic Petroleum Reserve of Lower Tier Crude Oil and Federal Royalty Oil; Procedures Applicable, Authorities, Etc.
 
@@ -212,7 +212,7 @@ Pub. L. 96–294, title VIII, §805, June 30, 1980, 94 Stat. 777, provided that:
 
 "(2)(A) Subject to the provisions of any Act enacted pursuant to section 660 of the Department of Energy Organization Act \[42 U.S.C. 7270\], such account shall be available (except as provided in subparagraph (B)) for use by the Secretary of Energy, without fiscal year limitation, for the purchase of crude oil for the Strategic Petroleum Reserve, to the extent provided in advance in appropriation Acts.
 
-"(B) Amounts in such account attributable to the proceeds from the sale of entitlements under theamendment to the regulation under subsection (a) are hereby appropriated for fiscal year 1981 for acquisition of crude oil for the Strategic Petroleum Reserve pursuant to subsection (a).
+"(B) Amounts in such account attributable to the proceeds from the sale of entitlements under the amendment to the regulation under subsection (a) are hereby appropriated for fiscal year 1981 for acquisition of crude oil for the Strategic Petroleum Reserve pursuant to subsection (a).
 
 "(d) For purposes of this section—
 

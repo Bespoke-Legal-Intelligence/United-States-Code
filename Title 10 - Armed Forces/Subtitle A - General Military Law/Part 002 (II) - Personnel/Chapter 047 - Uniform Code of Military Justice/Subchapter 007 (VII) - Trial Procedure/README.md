@@ -23,9 +23,29 @@
 | [851\.](%C2%A7%2000851%20-%20Art.%2051.%20Voting%20and%20rulings.md) | 51\. | Voting and rulings. |
 | [852\.](%C2%A7%2000852%20-%20Art.%2052.%20Number%20of%20votes%20required.md) | 52\. | Number of votes required. |
 | [853\.](%C2%A7%2000853%20-%20Art.%2053.%20Court%20to%20announce%20action.md) | 53\. | Court to announce action. |
+| [853a.](%C2%A7%2000853a%20-%20Art.%2053a.%20Plea%20agreements.md) | 53a. | Plea agreements. |
 | [854\.](%C2%A7%2000854%20-%20Art.%2054.%20Record%20of%20trial.md) | 54\. | Record of trial. |
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–328, div. E, title LXIII, §§5541(4), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 846 to 848, 850, 852, and 853 and by inserting the following new items:</i>
+
+&nbsp;
+
+| Sec. | Art. | &nbsp; |
+| :--- | :---: | ---: |
+| [846\.](%C2%A7%2000846%20-%20Art.%2046.%20Opportunity%20to%20obtain%20witnesses%20and%20other%20evidence.md) | 46\. | Opportunity to obtain witnesses and other evidence in trials by court-martial. |
+| [847\.](%C2%A7%2000847%20-%20Art.%2047.%20Refusal%20to%20appear%20or%20testify.md) | 47\. | Refusal of person not subject to chapter to appear, testify, or produce evidence. |
+| [848\.](%C2%A7%2000848%20-%20Art.%2048.%20Contempts.md) | 48\. | Contempt. |
+| [850\.](%C2%A7%2000850%20-%20Art.%2050.%20Admissibility%20of%20records%20of%20courts%20of%20inquiry.md) | 50\. | Admissibility of sworn testimony from records of courts of inquiry. |
+| [852\.](%C2%A7%2000852%20-%20Art.%2052.%20Number%20of%20votes%20required.md) | 52\. | Votes required for conviction, sentencing, and other matters. |
+| [853\.](%C2%A7%2000853%20-%20Art.%2053.%20Court%20to%20announce%20action.md) | 53\. | Findings and sentencing. |
+
+<i>See 2016 Amendment note below.</i>
+
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(4), Dec. 23, 2016, 130 Stat. 2966, added item 853a and substituted "Opportunity to obtain witnesses and other evidence in trials by court-martial" for "Opportunity to obtain witnesses and other evidence" in item 846, "Refusal of person not subject to chapter to appear, testify, or produce evidence" for "Refusal to appear or testify" initem 847, "Contempt" for "Contempts" in item 848, "Admissibility of sworn testimony from records of courts of inquiry" for "Admissibility of records of courts of inquiry" in item 850, "Votes required for conviction, sentencing, and other matters" for "Number of votes required" in item 852, and "Findings and sentencing" for "Court to announce action" in item 853.
 
 <b>1986</b>—Pub. L. 99–661, div. A, title VIII, §802(a)(2), Nov. 14, 1986, 100 Stat. 3906, added item 850a.
 
@@ -53,4 +73,5 @@
 - [&sect; 00851 - Art. 51. Voting and rulings](%C2%A7%2000851%20-%20Art.%2051.%20Voting%20and%20rulings.md)
 - [&sect; 00852 - Art. 52. Number of votes required](%C2%A7%2000852%20-%20Art.%2052.%20Number%20of%20votes%20required.md)
 - [&sect; 00853 - Art. 53. Court to announce action](%C2%A7%2000853%20-%20Art.%2053.%20Court%20to%20announce%20action.md)
+- [&sect; 00853a - Art. 53a. Plea agreements](%C2%A7%2000853a%20-%20Art.%2053a.%20Plea%20agreements.md)
 - [&sect; 00854 - Art. 54. Record of trial](%C2%A7%2000854%20-%20Art.%2054.%20Record%20of%20trial.md)

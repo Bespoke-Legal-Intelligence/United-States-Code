@@ -44,7 +44,7 @@ At the end of the 6-month period beginning on August 23, 1988, and at the end of
 
 #### (d) Final report
 
-On the conclusion of the study or of discussions described in subsection (a), the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, togetherwith such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
+On the conclusion of the study or of discussions described in subsection (a), the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
 
 (Pub. L. 100–418, title III, §3111, Aug. 23, 1988, 102 Stat. 1376.)
 

@@ -18,7 +18,7 @@ The prohibition under subsection (a) shall not apply to—
 
 &emsp;(2) an increase in a variable annual percentage rate in accordance with a credit card agreement that provides for changes in the rate according to operation of an index that is not under the control of the creditor and is available to the general public;
 
-&emsp;(3) an increase due to the completion of a workout or temporary hardship arrangement by the obligor or the failure of the obligor to comply with the terms of a workout or temporary hardship arrangement, provided that—
+&emsp;(3) an increase due to the completion of a workout or temporary hardship arrangement by the obligor or the failure of the obligor tocomply with the terms of a workout or temporary hardship arrangement, provided that—
 
 &emsp;&emsp;(A) the annual percentage rate, fee, or finance charge applicable to a category of transactions following any such increase does not exceed the rate, fee, or finance charge that applied to that category of transactions prior to commencement of the arrangement; and
 

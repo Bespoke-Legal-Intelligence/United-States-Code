@@ -1,6 +1,6 @@
 ### §2636. Time for commencement of action
 
-(a) A civil action contesting the denial, in whole or in part, of a protest under section 515 of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade—
+(a) A civil action contesting the denial, in whole or in part, of a protest under section 515of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade—
 
 &emsp;(1) within one hundred and eighty days after the date of mailing of notice of denial of a protest under section 515(a) of such Act; or
 
@@ -32,7 +32,9 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Section 516A of the Tariff Act of 1930, referred to in subsec. (c), is classified to section 1516a of Title 19.
 
-Sections 223, 251, and 271 of the Trade Act of 1974, referred to in subsec. (d), are classified to sections 2273, 2341, and 2371, respectively, of Title 19, Customs Duties. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982.
+Sections 223 and 251 of the Trade Act of 1974, referred to in subsec. (d), are classified to sections 2273 and 2341, respectively, of Title 19, Customs Duties.
+
+Section 271 of the Trade Act of 1974, referred to in subsec. (d), means section 271 of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2035, which related to petitions and determinations for trade adjustment assistance for communities and was classified to section 2371 of Title 19, Customs Duties, prior to being omitted from the Code as terminated Sept. 30, 1982, and later being omitted in the general revision of part 4 of subchapter II of chapter 12 of Title 19 by Pub. L. 111–5.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19.
 
@@ -70,7 +72,7 @@ Amendment by section 623(b)(1) of Pub. L. 98–573 applicable with respect to ci
 
 #### Effective Date
 
-Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B)of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
+Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
 #### Application of 1993 Amendment
 
@@ -78,5 +80,5 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

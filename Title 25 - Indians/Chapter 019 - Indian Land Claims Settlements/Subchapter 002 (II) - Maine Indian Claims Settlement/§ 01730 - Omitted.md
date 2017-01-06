@@ -1,0 +1,6 @@
+### §1730. Omitted
+
+#### Codification
+
+Section, Pub. L. 96–420, §11, Oct. 10, 1980, 94 Stat. 1796, which related to transfer of tribal trust funds held by the State of Maine, was omitted from the Code as being of special and not general application.
+

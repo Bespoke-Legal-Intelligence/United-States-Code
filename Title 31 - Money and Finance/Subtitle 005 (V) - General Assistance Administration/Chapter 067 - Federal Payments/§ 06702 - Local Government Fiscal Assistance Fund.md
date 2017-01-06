@@ -2,7 +2,7 @@
 
 (a)
 
-Administration of Fund.—The Department of the Treasury has a Local GovernmentFiscal Assistance Fund, which consists of amounts appropriated to the Fund.
+Administration of Fund.—The Department of the Treasury has a Local Government Fiscal Assistance Fund, which consists of amounts appropriated to the Fund.
 
 (b)
 

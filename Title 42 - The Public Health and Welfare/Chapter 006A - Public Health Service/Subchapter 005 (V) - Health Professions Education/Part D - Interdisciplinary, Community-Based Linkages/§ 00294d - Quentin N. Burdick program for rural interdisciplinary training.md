@@ -2,13 +2,13 @@
 
 #### (a) Grants
 
-The Secretary may make grants or contracts under this section to help entities fund authorized activities under an application approved under subsection (c) of this section.
+The Secretary may make grants or contracts under this section to help entities fund authorized activities under an application approved under subsection (c).
 
 #### (b) Use of amounts
 
 #### (1) In general
 
-&emsp;Amounts provided under subsection (a) of this section shall be used by the recipients to fund interdisciplinary training projects designed to—
+&emsp;Amounts provided under subsection (a) shall be used by the recipients to fund interdisciplinary training projects designed to—
 
 &emsp;&emsp;(A) use new and innovative methods to train health care practitioners to provide services in rural areas;
 
@@ -22,7 +22,7 @@ The Secretary may make grants or contracts under this section to help entities f
 
 #### (2) Methods
 
-&emsp;A recipient of funds under subsection (a) of this section may use various methods in carrying out the projects described in paragraph (1), including—
+&emsp;A recipient of funds under subsection (a) may use various methods in carrying out the projects described in paragraph (1), including—
 
 &emsp;&emsp;(A) the distribution of stipends to students of eligible applicants;
 
@@ -36,15 +36,15 @@ The Secretary may make grants or contracts under this section to help entities f
 
 #### (A) In general
 
-&emsp;&emsp;An applicant shall not use more than 10 percent of the funds made available to such applicant under subsection (a) of this section for administrative expenses.
+&emsp;&emsp;An applicant shall not use more than 10 percent of the funds made available to such applicant under subsection (a) for administrative expenses.
 
 #### (B) Training
 
-&emsp;&emsp;Not more than 10 percent of the individuals receiving training with funds made available to an applicant under subsection (a) of this section shall be trained as doctors of medicine or doctors of osteopathy.
+&emsp;&emsp;Not more than 10 percent of the individuals receiving training with funds made available to an applicant under subsection (a) shall be trained as doctors of medicine or doctors of osteopathy.
 
 #### (C) Limitation
 
-&emsp;&emsp;An institution that receives a grant under this section shall use amounts received under such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) of this section in the fiscal year preceding the year for which the grant is received.
+&emsp;&emsp;An institution that receives a grant under this section shall use amounts received under such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) in the fiscal year preceding the year for which the grant is received.
 
 #### (c) Applications
 
@@ -52,7 +52,7 @@ Applications submitted for assistance under this section shall—
 
 &emsp;(1) be jointly submitted by at least two eligible applicants with the express purpose of assisting individuals in academic institutions in establishing long-term collaborative relationships with health care providers in rural areas; and
 
-&emsp;(2) designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+&emsp;(2) designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
 
 #### (d) Definitions
 
@@ -62,7 +62,7 @@ For the purposes of this section, the term "rural" means geographic areas that a
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (c)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 

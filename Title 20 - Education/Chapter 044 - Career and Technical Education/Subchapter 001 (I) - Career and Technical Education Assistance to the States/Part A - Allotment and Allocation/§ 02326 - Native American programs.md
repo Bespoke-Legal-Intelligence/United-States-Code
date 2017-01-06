@@ -14,11 +14,11 @@ In this section:
 
 #### (3) Indian, Indian tribe, and tribal organization
 
-&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given the terms in section 450b of title 25.
+&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given the terms in section 5304 of title 25.
 
 #### (4) Native Hawaiian
 
-&emsp;The term "Native Hawaiian" means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
+&emsp;The term "Native Hawaiian" means any individual any of whose ancestors were natives,prior to 1778, of the area which now comprises the State of Hawaii.
 
 #### (5) Native Hawaiian organization
 
@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Indian tribes and tribal organizations
 
-&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 5321 of title 25 and shall be conducted in accordance with the provisions of sections 5345, 5346, and 5347 of title 25, which are relevant to the programs administered under this subsection.
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 

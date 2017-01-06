@@ -2,7 +2,7 @@
 
 #### (a) Subchapter I
 
-(1) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of subchapter I of this chapter.
+(1) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of subchapter I.
 
 (2) Funds appropriated under the authority of paragraph (1) shall remain available without fiscal year limitation.
 
@@ -28,7 +28,7 @@ There are authorized to be appropriated for the purpose of carrying out the prov
 
 #### References in Text
 
-Section 4425 of this title, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–644, title V, §505,Nov. 29, 1990, 104 Stat. 4669, and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
+Section 4425 of this title, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–644, title V, §505, Nov. 29, 1990, 104 Stat. 4669, and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
 
 This chapter, referred to in subsec. (a)(5), was in the original "this Act" and was translated as reading "this title", meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 

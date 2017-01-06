@@ -36,13 +36,13 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (B) Time of submission
 
-&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
+&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than30 days after the conclusion of each such 1-year period.
 
 #### (d) Penalties
 
 #### (1) In general
 
-&emsp;In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on suchlender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) <sup>1</sup> may not exceed $100,000.
+&emsp;In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) <sup>1</sup> may not exceed $100,000.
 
 #### (2) Intentional violations
 
@@ -71,6 +71,10 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as a note under section 2602 of this title.
+
+#### Effective Date
+
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)".</i>
 

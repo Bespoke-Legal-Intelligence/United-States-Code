@@ -10,7 +10,7 @@
 
 (C) For purposes of this paragraph, the term "available collateral" means the amount (determined at the close of the last calendar quarter ending before such call) by which a bank's collateral as described in section 2154 of this title exceeds the collateral required to support the bank's outstanding notes, bonds, debentures, and other similar obligations.
 
-(D) If the Farm Credit Administration makes any such call and the available collateral of all such banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank's remaining assets.
+(D) If the Farm Credit Administration makes any such call and the available collateral of allsuch banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank's remaining assets.
 
 (E) Any System bank that, pursuant to a call by the Farm Credit Administration, makes a payment of principal or interest to the holder of any consolidated or System-wide obligation issued on behalf of another System bank shall be subrogated to all rights of the holder against such other bank to the extent of such payment.
 

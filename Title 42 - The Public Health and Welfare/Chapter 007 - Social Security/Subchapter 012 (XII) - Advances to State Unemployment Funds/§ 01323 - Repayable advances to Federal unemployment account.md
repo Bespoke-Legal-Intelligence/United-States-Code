@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated to the Federal unemployment accou
 
 #### Prior Provisions
 
-Provisions similar to those comprising the first sentence of this section were contained in section 1322(c), act Aug. 14, 1935, ch. 531, title XII, §1202(c), as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672, prior to amendment by Pub. L. 86–778.
+Provisions similar to those comprising the first sentence of this section were contained in section 1322(c),act Aug. 14, 1935, ch. 531, title XII, §1202(c), as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672, prior to amendment by Pub. L. 86–778.
 
 #### Amendments
 

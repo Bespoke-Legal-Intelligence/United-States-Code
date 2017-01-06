@@ -24,7 +24,7 @@ Section was enacted as part of the Financial Institutions Reform, Recovery, and 
 
 Pub. L. 111–203, §367(8)(A), which directed substitution of "Agency, and" for "Board, the Oversight Board of the Resolution Trust Corporation", was executed by substituting "Agency" for "Board" after "Federal Housing Finance", to reflect the probable intent of Congress and the amendments made by Pub. L. 107–123 and section 302(a) of Pub. L. 102–233. See 2002 Amendment note and Change of Name note below.
 
-Pub. L. 111–203, §152(d)(3), substituted "Finance Board, the Office of Financial Research, and the Bureauof Consumer Financial Protection" for "Finance Board," and struck out "and the Office of Thrift Supervision," after "Credit Administration,".
+Pub. L. 111–203, §152(d)(3), substituted "Finance Board, the Office of Financial Research, and the Bureau of Consumer Financial Protection" for "Finance Board," and struck out "and the Office of Thrift Supervision," after "Credit Administration,".
 
 <b>2002</b>—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -38,7 +38,7 @@ Oversight Board redesignated Thrift Depositor Protection Oversight Board, effect
 
 Amendment by section 152(d)(3)of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-Amendment by section 367(8) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+Amendment by section 367(8) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L.111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 

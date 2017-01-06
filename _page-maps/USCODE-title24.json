@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-2015-title24",
+ "package": "USCODE-2016-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1807,30 +1807,26 @@
   },
   {
    "id": "24_412",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     60,
+     "[Page 34]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00412 - Residents of Retirement Home.md",
    "printed_pages": [
     33,
-    33
+    34
    ]
   },
   {
    "id": "24_413",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       95,
-       "[Page 34]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413 - Services provided to residents.md",
    "printed_pages": [
-    33,
+    34,
     34
    ]
   },
@@ -1838,14 +1834,10 @@
    "id": "24_413a",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       90,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413a - Oversight of health care provided to residents.md",
@@ -1859,10 +1851,10 @@
    "marks": [
     [
      "I",
-     32,
+     30,
      [
       [
-       333,
+       164,
        "[Page 36]"
       ]
      ]
@@ -1878,14 +1870,10 @@
    "id": "24_415",
    "marks": [
     [
-     "I",
-     66,
-     [
-      [
-       164,
-       "[Page 37]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 37]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Chief Operating Officer.md",
@@ -1899,10 +1887,10 @@
    "marks": [
     [
      "I",
-     64,
+     58,
      [
       [
-       89,
+       90,
        "[Page 38]"
       ]
      ]
@@ -1928,10 +1916,10 @@
    "marks": [
     [
      "I",
-     40,
+     36,
      [
       [
-       92,
+       134,
        "[Page 39]"
       ]
      ]
@@ -1947,20 +1935,20 @@
    "id": "24_418",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       96,
-       "[Page 40]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 40]",
+     true
     ],
     [
-     "L",
-     82,
-     "[Page 41]",
-     true
+     "I",
+     76,
+     [
+      [
+       103,
+       "[Page 41]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00418 - Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.md",
@@ -1986,16 +1974,20 @@
      22,
      [
       [
-       377,
+       92,
        "[Page 42]"
       ]
      ]
     ],
     [
-     "L",
-     80,
-     "[Page 43]",
-     true
+     "I",
+     76,
+     [
+      [
+       152,
+       "[Page 43]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00420 - Disposition of effects of deceased persons; unclaimed property.md",
@@ -2018,7 +2010,7 @@
    "marks": [
     [
      "L",
-     10,
+     6,
      "[Page 44]",
      true
     ]
@@ -2034,7 +2026,7 @@
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 45]",
      true
     ]
@@ -2091,6 +2083,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2015-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2016-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

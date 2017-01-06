@@ -54,7 +54,7 @@ Review.—During the two-year period beginning on the date of the enactment of t
 
 "(b)
 
-Report.—The Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the results of the review and assessment under subsection (a) not later than 30 months after the date of the enactment of this Act \[Nov. 24, 2003\]."
+Report.—The Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the results of the review and assessment under subsection (a) not later than 30months after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Defense Task Force on Domestic Violence
 

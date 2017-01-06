@@ -30,7 +30,7 @@ Apprenticeship and Other On-Job Training.—No training assistance allowance sha
 
 &emsp;(1) from such veteran or person a certification as to such veteran's or person's actual attendance during such period; and
 
-&emsp;(2) from the training establishment a certification, or an endorsement on the veteran's orperson's certificate, that such veteran or person was enrolled in and pursuing a program of apprenticeship or other on-job training during such period.
+&emsp;(2) from the training establishment a certification, or an endorsement on the veteran's or person's certificate, that such veteran or person was enrolled in and pursuing a program of apprenticeship or other on-job training during such period.
 
 (d)
 
@@ -58,7 +58,7 @@ Recovery of Erroneous Payments.—(1) Subject to paragraph (2), if an eligible v
 
 (f)
 
-Payments for Less Than Half-Time Training.—Payment of educational assistance allowance in the case of any eligible veteran or eligible person pursuing a program of education on less than a half-time basis shall be made in an amount computed for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such veteran or person has enrolled in and is pursuing a program at such institution. Such lump sum payment shall be computed at the rate provided in section 3482(b) or 3532(a)(2) of this title, as applicable.
+Payments for Less Than Half-Time Training.—Payment of educational assistance allowance in the case of any eligible veteran or eligible person pursuing a program of educationon less than a half-time basis shall be made in an amount computed for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such veteran or person has enrolled in and is pursuing a program at such institution. Such lump sum payment shall be computed at the rate provided in section 3482(b) or 3532(a)(2) of this title, as applicable.
 
 (g)
 
@@ -98,7 +98,7 @@ Subsec. (a)(C). Pub. L. 103–446, §1201(i)(6), substituted "one full" for "1 f
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "3108, 3482, 3491, or 3532" for "1508, 1682, 1691, or 1732" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 102–127 amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: "to any eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof; or".
+Subsec. (a)(3). Pub. L. 102–127 amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: "toany eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof; or".
 
 Subsec. (a)(4). Pub. L. 102–83, §5(c)(1), substituted "3686" for "1786".
 
@@ -108,7 +108,7 @@ Subsec. (f). Pub. L. 102–83, §5(c)(1), substituted "3482(b) or 3532(a)(2)" fo
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
-Pub. L. 101–237, §412(a), struck out "enrolled in a course which leads to a standard college degree, or a course that meets the requirements of section 1788(a)(7) of this title," after "or eligible person" in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read asfollows: "to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of section 1788(a)(7) of this title and programs of apprenticeship and programs of other on-job training authorized by section 1787 of this title) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;", substituted "set forth in clause (1)" for "set forth in clause (1) or (2)" in third sentence, struck out ", and such periods shall not be counted as absences for the purposes of clause (2) of this subsection" before semicolon at end of subcl. (A), and struck out ", but such periods shall be counted as absences for the purposes of clause (2) of this subsection" before punctuation at end of subcls. (B) and (C).
+Pub. L. 101–237, §412(a), struck out "enrolled in a course which leads to a standard college degree, or a course that meets the requirements of section 1788(a)(7) of this title," after "or eligible person" in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: "to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of section 1788(a)(7) of this title and programs of apprenticeship and programs of other on-job training authorized by section 1787 of this title) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;", substituted "set forth in clause (1)" for "set forth in clause (1) or (2)" in third sentence, struck out ", and such periods shall not be counted as absences for the purposes of clause (2) of this subsection" before semicolon at end of subcl. (A), and struck out ", but such periods shall be counted as absences for the purposes of clause (2) of this subsection" before punctuation at end of subcls. (B) and (C).
 
 Subsecs. (b), (c), (d)(2). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
@@ -158,7 +158,7 @@ Subsec. (f). Pub. L. 96–466, §601(d)(2), struck out "(except as provided by s
 
 Subsec. (g). Pub. L. 96–466, §341(b), inserted "and define" after "determine".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted "such veteran's or person's" for "his", and added cls. (3) to (5).
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1full calendar month, substituted "such veteran's or person's" for "his", and added cls. (3) to (5).
 
 Subsec. (b). Pub. L. 94–502, §513(a)(5), substituted "spouse or surviving spouse" for "wife or widow" wherever appearing, and "spouse's or surviving spouse's" for "wife's or widow's".
 
@@ -230,7 +230,7 @@ Pub. L. 92–540, title VI, §603, Oct. 24, 1972, 86 Stat. 1099, provided that:
 
 #### Study of Tuition Assistance Allowance Program Abuses
 
-Pub. L. 93–508, title I, §105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans' Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
+Pub. L. 93–508, title I, §105, Dec. 3, 1974, 88 Stat. 1581, authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans' Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendationsfor legislative and administrative action no later than one year after Dec. 3, 1974.
 
 #### Ex. Ord. No. 12020. Payment of Benefits When Schools Are Temporarily Closed To Conserve Energy
 

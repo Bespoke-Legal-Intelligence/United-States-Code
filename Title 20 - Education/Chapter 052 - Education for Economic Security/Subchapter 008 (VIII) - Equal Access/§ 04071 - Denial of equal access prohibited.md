@@ -6,7 +6,7 @@ It shall be unlawful for any public secondary school which receives Federal fina
 
 #### (b) "Limited open forum" defined
 
-A public secondary school has a limited open forum whenever such school grants an offering to or opportunity for one or more noncurriculum related student groups to meet on school premises during noninstructional time.
+A public secondary school has a limited open forum whenever such school grants an offeringto or opportunity for one or more noncurriculum related student groups to meet on school premises during noninstructional time.
 
 #### (c) Fair opportunity criteria
 

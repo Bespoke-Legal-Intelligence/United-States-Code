@@ -8,7 +8,7 @@ For the purposes specified in this section there is authorized to be appropriate
 
 &emsp;(2) Payment of any claim for necessary response costs incurred by any other person as a result of carrying out the national contingency plan established under section 1321(c) <sup>1</sup> of title 33 and amended by section 9605 of this title: <i>Provided, however</i>, That such costs must be approved under said plan and certified by the responsible Federal official.
 
-&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decided pursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
+&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decidedpursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
 
 &emsp;(4) Payment of costs specified under subsection (c) of this section.
 
@@ -60,7 +60,7 @@ Evaluation costs under petition provisions of section 9605(d).—Costs incurred 
 
 &emsp;(8)
 
-Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studies undertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
+Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studiesundertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
 
 &emsp;(9)
 
@@ -114,7 +114,7 @@ The President shall provide for the promulgation of rules and regulations with r
 
 #### (i) Restoration, etc., of natural resources
 
-Except in a situation requiring action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action, funds may not be used under this chapter for the restoration, rehabilitation, or replacement or acquisition of the equivalent of any natural resources until a plan for the use of such funds for such purposes has been developed and adopted by affected Federal agencies and the Governor or Governors of any State having sustained damage to natural resources within its borders, belonging to, managed by or appertaining to such State, and by the governing body ofany Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation, after adequate public notice and opportunity for hearing and consideration of all public comment.
+Except in a situation requiring action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action, funds may not be used under this chapter for the restoration, rehabilitation, or replacement or acquisition of the equivalent of any natural resources until a plan for the use of such funds for such purposes has been developed and adopted by affected Federal agencies and the Governor or Governors of any State having sustained damage to natural resources within its borders, belonging to, managed by or appertaining to such State, and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation, after adequate public notice and opportunity for hearing and consideration of all public comment.
 
 #### (j) Use of Post-closure Liability Fund
 
@@ -138,7 +138,7 @@ To the extent that the provisions of this chapter permit, a foreign claimant may
 
 #### (m) Agency for Toxic Substances and Disease Registry
 
-There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) of this section and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
+There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
 
 #### (n) Limitations on research, development, and demonstration program
 
@@ -244,7 +244,7 @@ Subsec. (n)(3). Pub. L. 101–508, §6301(7), substituted "1991, 1992, 1993, and
 
 Subsec. (p)(1)(F) to (H). Pub. L. 101–508, §6301(8), added subpars. (F) to (H).
 
-<b>1989</b>—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting "$20,000,000" for "$10,000,000", was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because theSuperfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
+<b>1989</b>—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting "$20,000,000" for "$10,000,000", was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and "For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund)." in introductory provisions, substituted "Payment" for "payment" in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for "; and" in par. (3), and added pars. (5) and (6).
 

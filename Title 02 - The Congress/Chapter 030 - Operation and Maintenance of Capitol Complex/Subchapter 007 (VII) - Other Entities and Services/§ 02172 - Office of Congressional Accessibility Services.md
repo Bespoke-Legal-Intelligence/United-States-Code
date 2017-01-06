@@ -56,7 +56,7 @@
 
 #### (A) Personnel, disbursements, and contracts
 
-&emsp;&emsp;In carrying out the functions of the Office of Congressional Accessibility Services under subsection (a), the Director of Accessibility Services shall have the authority to—
+&emsp;&emsp;In carrying out the functions of the Office of Congressional Accessibility Servicesunder subsection (a), the Director of Accessibility Services shall have the authority to—
 
 &emsp;&emsp;&emsp;(i) appoint, hire, and fix the compensation of such personnel as may be necessary for operations of the Office of Congressional Accessibility Services, except that no employee may be paid at an annual rate in excess of the annual rate of pay for the Director of Accessibility Services;
 
@@ -68,7 +68,7 @@
 
 #### (B) Agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with offices of the Senate and House of Representatives
 
-&emsp;&emsp;Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office ofCongressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
+&emsp;&emsp;Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office of Congressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
 
 #### (3) Semiannual reports
 

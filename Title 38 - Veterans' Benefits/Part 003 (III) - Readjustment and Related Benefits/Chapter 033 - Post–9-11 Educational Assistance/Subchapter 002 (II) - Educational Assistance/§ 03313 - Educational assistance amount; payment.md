@@ -2,7 +2,7 @@
 
 (a)
 
-Payment.—The Secretary shall pay to each individual entitled to educational assistanceunder this chapter who is pursuing an approved program of education (other than a program covered by subsections (e) and (f)) the amounts specified in subsection (c) to meet the expenses of such individual's subsistence, tuition, fees, and other educational costs for pursuit of such program of education.
+Payment.—The Secretary shall pay to each individual entitled to educational assistance under this chapter who is pursuing an approved program of education (other than a program covered by subsections (e) and (f)) the amounts specified in subsection (c) to meet the expenses of such individual's subsistence, tuition, fees, and other educational costs for pursuit of such program of education.
 
 (b)
 
@@ -128,7 +128,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h); or
 
-&emsp;&emsp;&emsp;(iii) the amount of the charges of the educational institution as elected by theindividual in the manner specified in section 3014(b)(1).
+&emsp;&emsp;&emsp;(iii) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1).
 
 &emsp;&emsp;(B) Subject to subparagraph (C), for the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
 
@@ -236,7 +236,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(i) Subject to clauses (iii) and (iv), for each month the individual pursues the program of education, a monthly housing stipend equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) during the first six-month period of the program, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the employer at which the individual pursues such program;
+&emsp;&emsp;&emsp;&emsp;(I) during the first six-month period of the program, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a memberwith dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the employer at which the individual pursues such program;
 
 &emsp;&emsp;&emsp;&emsp;(II) during the second six-month period of the program, 80 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I);
 
@@ -294,7 +294,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an individual entitled to educational assistance by reasonof paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
 &emsp;(4)
 
@@ -334,7 +334,7 @@ In general.—In the case of amounts paid under paragraph (3)(A)(i) for pursuit 
 
 &emsp;&emsp;(B)
 
-Pro rata adjustment based on certain eligibility.—If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall bethe amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
+Pro rata adjustment based on certain eligibility.—If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 
 (h)
 
@@ -460,7 +460,7 @@ In General.—Notwithstanding paragraph (1)(A)(ii) of section 3313(c) of title 3
 
 Covered Individuals.—An individual described in this subsection is an individual entitled to educational assistance under chapter 33 of title 38, United States Code, who, since January 4, 2011, has been enrolled in the same non-public institution of higher learning in a State in which—
 
-&emsp;"(1) the maximum amount of tuition per credit in the 2010–2011 academic year, as determined pursuant to the table referred to in subsection (a)(2), exceeded $700; and
+&emsp;"(1) the maximum amount of tuition per credit in the 2010–2011 academic year, as determined pursuantto the table referred to in subsection (a)(2), exceeded $700; and
 
 &emsp;"(2) the combined amount of tuition and fees for full-time attendance in the program of education in such academic year exceeded $17,500.
 

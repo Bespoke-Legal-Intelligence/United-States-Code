@@ -34,7 +34,7 @@ The Secretary of Education and the Secretary of Health and Human Services shall 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and in accordance with regulations developed under subsection (f), States, grant recipients, administrative entities, and other recipients of financial assistance under the Workforce Investment Act of 1998 may expend funds received under such Act in order to plan and implement programs and activities authorized under this Act.
+&emsp;Subject to paragraph (2) and in accordance with regulations developed under subsection (f), States, grant recipients, administrativeentities, and other recipients of financial assistance under the Workforce Investment Act of 1998 may expend funds received under such Act in order to plan and implement programs and activities authorized under this Act.
 
 #### (2) Additional requirements
 

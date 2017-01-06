@@ -10,7 +10,7 @@ The Inspector General of the Department of Defense shall have the duty to inspec
 
 (2) The Inspector General shall be assisted in inspections under this subsection by a medical inspector general of a military department designated for purposes of this subsection by the Secretary of Defense.
 
-(3) In conducting the inspection of a facility of the Retirement Home under this subsection, theInspector General shall solicit concerns, observations, and recommendations from the Advisory Council, the Resident Advisory Committee of the facility, and the residents of the facility. Any concerns, observations, and recommendations solicited from residents shall be solicited on a not-for-attribution basis.
+(3) In conducting the inspection of a facility of the Retirement Home under this subsection, the Inspector General shall solicit concerns, observations, and recommendations from the Advisory Council, the Resident Advisory Committee of the facility, and the residents of the facility. Any concerns, observations, and recommendations solicited from residents shall be solicited on a not-for-attribution basis.
 
 (4) The Chief Operating Officer and the Administrator of each facility of the Retirement Home shall make all staff, other personnel, and records of each facility available to the Inspector General in a timely manner for purposes of inspections under this subsection.
 

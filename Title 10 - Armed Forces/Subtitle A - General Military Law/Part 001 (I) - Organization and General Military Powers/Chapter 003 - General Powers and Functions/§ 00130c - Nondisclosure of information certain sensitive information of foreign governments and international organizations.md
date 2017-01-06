@@ -36,7 +36,7 @@ Limitations.—(1) If a request for disclosure covers any sensitive information 
 
 &emsp;(ii) if there are more than one such foreign governments or international organizations, the latest date so specified by any of them.
 
-(C) If no date is applicable under subparagraph (B) to a request referred to in subparagraph (A) and the information referred to in that subparagraph came into possession or under the controlof the United States more than 10 years before the date on which the request is received by an agency, the information may be withheld under this section only as set forth in paragraph (3).
+(C) If no date is applicable under subparagraph (B) to a request referred to in subparagraph (A) and the information referred to in that subparagraph came into possession or under the control of the United States more than 10 years before the date on which the request is received by an agency, the information may be withheld under this section only as set forth in paragraph (3).
 
 (3) Information referred to in paragraph (1) or (2)(C) may be withheld under this section in the case of a request for disclosure only if, upon the notification of each foreign government and international organization concerned in accordance with the regulations prescribed under subsection (g)(2), any such government or organization requests in writing that the information not be disclosed for an additional period stated in the request of that government or organization. After the national security official concerned considers the request of the foreign government or international organization, the official shall designate a later date as the date after which the information is not to be withheld under this section. The later date may be extended in accordance with a later request of any such foreign government or international organization under this paragraph.
 
@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "international organization" means the following:
 
-&emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
+&emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act\(59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
 
 &emsp;&emsp;(B) A public international organization created pursuant to a treaty or other international agreement as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
 

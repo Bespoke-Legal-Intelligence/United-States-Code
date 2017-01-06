@@ -22,7 +22,7 @@ Subject to the conditions described in subsection (b)(1), an Indian tribe receiv
 
 #### (B) Approval of transactions
 
-&emsp;&emsp;Notwithstanding section 476 of this title, or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
+&emsp;&emsp;Notwithstanding section 5123 of this title, or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
 
 #### (3) Removal of liens after findings
 

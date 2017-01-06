@@ -36,7 +36,7 @@
 
 (e) Notwithstanding section 3394(b) and section 3395—
 
-&emsp;(1) a limited term appointee serving under a term prescribed under this section may be reassigned to another Senior Executive Serviceposition in the Administration, the duties of which will expire at the end of a term of 4 years or less; and
+&emsp;(1) a limited term appointee serving under a term prescribed under this section may be reassigned to another Senior Executive Service position in the Administration, the duties of which will expire at the end of a term of 4 years or less; and
 
 &emsp;(2) a limited term appointee serving under a term prescribed under this section may be reassigned to another continuing Senior Executive Service position in the Administration, except that the appointee may not serve in 1 or more positions in the Administration under such appointment in excess of 1 year, except that in rare circumstances, the Administrator may approve an extension up to an additional 1 year.
 

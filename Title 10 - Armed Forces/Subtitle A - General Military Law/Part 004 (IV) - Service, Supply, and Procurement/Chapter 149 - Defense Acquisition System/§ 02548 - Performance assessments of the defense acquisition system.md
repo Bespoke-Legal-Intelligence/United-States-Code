@@ -24,7 +24,7 @@ Areas Considered in Performance Assessments.—(1) Each performance assessment c
 
 &emsp;&emsp;(i) the extent of competition and the use of exceptions to competition requirements;
 
-&emsp;&emsp;(ii) compliance with Department of Defense policies regarding the participation of small business concerns and various categories of small business concerns, including the use of contract bundling and the availability of non-bundled contract vehicles;
+&emsp;&emsp;(ii) compliance with Department of Defense policies regarding the participation ofsmall business concerns and various categories of small business concerns, including the use of contract bundling and the availability of non-bundled contract vehicles;
 
 &emsp;&emsp;(iii) the quality of market research;
 
@@ -56,7 +56,7 @@ Areas Considered in Performance Assessments.—(1) Each performance assessment c
 
 (c)
 
-Contents of Guidance.—The guidance issued pursuant to subsection (a) shall ensure that each element of the defense acquisition systemis subject to a performance assessment under this section not less often than once every four years, and shall address, at a minimum—
+Contents of Guidance.—The guidance issued pursuant to subsection (a) shall ensure that each element of the defense acquisition system is subject to a performance assessment under this section not less often than once every four years, and shall address, at a minimum—
 
 &emsp;(1) the designation of elements of the defense acquisition system that are subject to performance assessment at an organizational level that ensures such assessments can be performed in an efficient and integrated manner;
 

@@ -44,7 +44,7 @@ If a bond issued at any time with interest coupons—
 
 &emsp;In the case of any tax-exempt obligation (as defined in section 1275(a)(3)) from which 1 or more coupons have been stripped—
 
-&emsp;&emsp;(A) the amount of the original issue discount determined under subsection (a) with respect to any stripped bond or stripped coupon—
+&emsp;&emsp;(A) the amount of the original issue discount determined under subsection (a) withrespect to any stripped bond or stripped coupon—
 
 &emsp;&emsp;&emsp;(i) shall be treated as original issue discount on a tax-exempt obligation to the extent such discount does not exceed the tax-exempt portion of such discount, and
 

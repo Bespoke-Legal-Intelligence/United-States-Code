@@ -16,3 +16,7 @@ The recommendations of the President taking effect as provided in section 359 of
 
 <b>1977</b>—Pub. L. 95–19 inserted ", if approved by the Congress as provided in section 359 of this title,".
 
+#### Effective Date
+
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
+

@@ -28,7 +28,7 @@ Executive director.—The term 'Executive Director' means the Executive Director
 
 &emsp;"(2)
 
-Indian tribe.—The term 'Indian tribe' means any Indian tribe included on the list published by the Secretary of the Interior under section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a–1).
+Indian tribe.—The term 'Indian tribe' means any Indian tribe included on the list published by the Secretary of the Interior under section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a–1) \[now 25 U.S.C. 5131\].
 
 "(b)
 

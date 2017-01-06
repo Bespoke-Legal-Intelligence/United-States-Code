@@ -26,7 +26,7 @@ It is the policy of the United States—
 
 &emsp;(12) to condemn the continuing and long-standing pattern and practice by the Government of the Russian Federation of physical and economic aggression toward neighboring countries;
 
-&emsp;(13) to enhance and extend our security cooperation with, security assistance to, and military exercises conducted with, states inCentral and Eastern Europe, including North Atlantic Treaty Organization (NATO) member countries, NATO aspirants, and appropriate Eastern Partnership countries;
+&emsp;(13) to enhance and extend our security cooperation with, security assistance to, and military exercises conducted with, states in Central and Eastern Europe, including North Atlantic Treaty Organization (NATO) member countries, NATO aspirants, and appropriate Eastern Partnership countries;
 
 &emsp;(14) to reaffirm United States defense commitments to its treaty allies under Article V of the North Atlantic Treaty;
 

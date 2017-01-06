@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) regulations described in section 2643(h) of this title (relating to transportation and disposal);
 
-> &emsp;each local educational agency shall carry out the requirements described in this section in subsection (b); subsections (c), (d), and (e); or subsection (f); respectively, in accordance withthe Environmental Protection Agency's most current guidance document.
+> &emsp;each local educational agency shall carry out the requirements described in this section in subsection (b); subsections (c), (d), and (e); or subsection (f); respectively, in accordance with the Environmental Protection Agency's most current guidance document.
 
 #### (2) Stay by court
 
@@ -84,7 +84,7 @@ The local educational agency shall, within 720 days after October 22, 1986, deve
 
 #### (4) Standard
 
-&emsp;The ambient interior concentration of asbestos after the completion of actions described in the most current guidance document, other than the type of action described in sections 2643(f) of this title and subsection (c) of this section, shall not exceed the ambient exterior concentration, discounting any contribution from any local stationary source. Either a scanning electron microscope or a transmission electron microscope shall be used to determine the ambient interior concentration. In the absence of reliable measurements, the ambient exterior concentration shall be deemed to be—
+&emsp;The ambient interior concentration of asbestos after the completion of actions described in the most current guidance document, other than the type of action described in sections 2643(f) of this title and subsection (c) of this section, shall not exceed the ambient exteriorconcentration, discounting any contribution from any local stationary source. Either a scanning electron microscope or a transmission electron microscope shall be used to determine the ambient interior concentration. In the absence of reliable measurements, the ambient exterior concentration shall be deemed to be—
 
 &emsp;&emsp;(A) less than 0.003 fibers per cubic centimeter if a scanning electron microscope is used, and
 

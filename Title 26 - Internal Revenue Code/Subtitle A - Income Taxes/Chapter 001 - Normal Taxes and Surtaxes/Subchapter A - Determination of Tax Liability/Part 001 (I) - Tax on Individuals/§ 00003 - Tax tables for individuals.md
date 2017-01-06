@@ -110,7 +110,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 101(c)(2)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 101(f)(1) of Pub. L. 97–34, set out as a note under section 1 of this title.
 
-Amendment by section 121(c)(3) of Pub. L. 97–34 applicable to contributions made after Dec. 31, 1981, in taxable years beginning after such date, see section 121(d)of Pub. L. 97–34, set out as a note under section 170 of this title.
+Amendment by section 121(c)(3) of Pub. L. 97–34 applicable to contributions made after Dec. 31, 1981, in taxable years beginning after such date, see section 121(d) of Pub. L. 97–34, set out as a note under section 170 of this title.
 
 #### Effective Date of 1980 Amendment
 

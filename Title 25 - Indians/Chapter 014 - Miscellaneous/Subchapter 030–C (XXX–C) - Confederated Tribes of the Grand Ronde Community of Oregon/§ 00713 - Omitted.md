@@ -1,0 +1,10 @@
+### §713. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–165, §2, Nov. 22, 1983, 97 Stat. 1064, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 98–165, §1, Nov. 22, 1983, 97 Stat. 1064, provided that Pub. L. 98–165, enacting this subchapter, could be cited as the "Grand Ronde Restoration Act".
+

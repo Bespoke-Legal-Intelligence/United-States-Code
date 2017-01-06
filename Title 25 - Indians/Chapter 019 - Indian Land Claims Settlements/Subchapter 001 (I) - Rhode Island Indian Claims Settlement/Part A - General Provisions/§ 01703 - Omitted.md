@@ -1,0 +1,6 @@
+### §1703. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–395, §4, Sept. 30, 1978, 92 Stat. 814, which established the Rhode Island Indian Claims Settlement Fund, was omitted from the Code as being of special and not general application.
+

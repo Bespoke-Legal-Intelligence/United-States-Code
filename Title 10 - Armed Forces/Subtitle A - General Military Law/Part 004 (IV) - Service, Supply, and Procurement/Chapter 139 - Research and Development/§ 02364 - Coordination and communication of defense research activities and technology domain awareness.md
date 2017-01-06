@@ -12,7 +12,7 @@ Coordination of Department of Defense Research, Development, and Technological D
 
 &emsp;(4) among private commercial, research institution, and university entities engaged in research, development, and technological matters potentially relevant to defense on a voluntary basis;
 
-&emsp;(5) to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it may occur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
+&emsp;(5) to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it mayoccur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
 
 &emsp;(6) through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that conveys <sup>1</sup> successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
 
@@ -28,7 +28,7 @@ Functions of Defense Research Facilities.—The Secretary of Defense shall ensur
 
 &emsp;(4) that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts;
 
-&emsp;(5) that, in order to promote increased consideration of technological issues early in thedevelopment process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions; and
+&emsp;(5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions; and
 
 &emsp;(6) that, in light of Defense research facilities being funded by the public, Defense research facilities are broadly authorized and encouraged to support national technological development goals and support technological missions of other departments and agencies of the Federal Government, when such support is determined by the Secretary of Defense to be in the best interests of the Federal Government.
 

@@ -26,7 +26,7 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;&emsp;(C) the return of runaway and homeless youth from correctional institutions;
 
-&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth whoare returned beyond the State in which the runaway and homeless youth center is located;
+&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth who are returned beyond the State in which the runaway and homeless youth center is located;
 
 &emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) of this section may be expended;
 
@@ -102,7 +102,7 @@ To be eligible to use assistance under section 5711(a)(2)(C)(iii) of this title 
 
 #### References in Text
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22,1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 

@@ -282,7 +282,7 @@ The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VII
 
 Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2427, provided in part: "That such section 114A \[this section\] shall remain in effect until September 30, 2016."
 
-Similar provisions were contained in the following prior appropriations act:
+Additional provisions delaying the termination of this section were contained in the following prior appropriations act:
 
 Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2336.
 

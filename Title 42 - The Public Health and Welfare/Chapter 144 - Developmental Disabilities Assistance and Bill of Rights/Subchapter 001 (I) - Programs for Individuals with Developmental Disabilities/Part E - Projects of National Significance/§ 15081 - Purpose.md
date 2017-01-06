@@ -10,7 +10,7 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
 
 &emsp;&emsp;(B) data collection and analysis;
 
-&emsp;&emsp;(C) technical assistance to entities funded under parts B and D of this subchapter, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
+&emsp;&emsp;(C) technical assistance to entities funded under parts B and D, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
 
 &emsp;&emsp;(D) other projects of sufficient size and scope that hold promise to expand or improve opportunities for such individuals, including—
 

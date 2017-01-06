@@ -8,7 +8,7 @@
 
 > covering the same period of time.
 
-(2) An individual is not entitled to receive an annuity under subchapter IV and a concurrent benefit under subchapter I of chapter 81 on account of the death of the same person.
+(2) An individual is not entitled to receive an annuity under subchapter IV and a concurrentbenefit under subchapter I of chapter 81 on account of the death of the same person.
 
 (3) Paragraphs (1) and (2) do not bar the right of a claimant to the greater benefit conferred by either this chapter or subchapter I of chapter 81.
 

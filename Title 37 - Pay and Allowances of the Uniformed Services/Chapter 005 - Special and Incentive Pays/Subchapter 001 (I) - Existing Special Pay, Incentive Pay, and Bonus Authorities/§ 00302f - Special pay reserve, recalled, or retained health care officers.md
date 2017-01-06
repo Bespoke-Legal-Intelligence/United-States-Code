@@ -62,7 +62,7 @@ Eligible for Special Pay.—A health care officer described in subsection (b) sh
 
 "(b)
 
-Health Care Officers Described.—A health care officer referred to in subsection (a) is an officer ofthe Armed Forces who is otherwise eligible for special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code, and who—
+Health Care Officers Described.—A health care officer referred to in subsection (a) is an officer of the Armed Forces who is otherwise eligible for special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code, and who—
 
 &emsp;"(1) is a reserve officer on active duty under a call or order to active duty for a period of less than one year in connection with Operation Desert Storm;
 

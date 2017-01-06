@@ -30,7 +30,7 @@ June 27, 1944, 287, §7, 58 Stat. 389.
 
 Aug. 14, 1953, ch. 485, §1(b), 67 Stat. 581.
 
-The section is restated for clarity and conciseness. The words "for the competitive service" are added forclarity. Application of this section to the excepted service in the executive branch and to the government of the District of Columbia is carried into section 3320. The words "employment lists" are omitted as included in "appropriate registers or lists of eligibles".
+The section is restated for clarity and conciseness. The words "for the competitive service" are added for clarity. Application of this section to the excepted service in the executive branch and to the government of the District of Columbia is carried into section 3320. The words "employment lists" are omitted as included in "appropriate registers or lists of eligibles".
 
 In paragraph (1), the words "in GS–9 or higher" are substituted for "in grade 9 or higher of the General Schedule of the Classification Act of 1949, as amended" in view of the codification of the Act in this title, and, in specific sections 5104 and 5332.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Administrative Expenses.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
+Administrative Expenses.—There is authorized to be appropriated from the HighwayTrust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
 
 &emsp;(1) $267,400,000 for fiscal year 2016;
 

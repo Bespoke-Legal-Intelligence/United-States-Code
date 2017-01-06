@@ -46,7 +46,7 @@ Grade and Exclusion From General and Flag Officer Authorized Strength.—(1) The
 
 Succession.—(1) When there is a vacancy in the office of the Chief of the National Guard Bureau or in the absence or disability of the Chief, the Vice Chief of the National Guard Bureau acts as Chief and performs the duties of the Chief until a successor is appointed or the absence or disability ceases.
 
-(2) When there is a vacancy in the offices of both the Chief and the Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and the Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of theUnited States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
+(2) When there is a vacancy in the offices of both the Chief and the Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and the Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 108–375, div. A, title V, §507(a), (b)(1), Oct. 28, 2004, 118 Stat. 1876; Pub. L. 110–181, div. A, title XVIII, §§1811, 1825(c)(2), Jan. 28, 2008, 122 Stat. 496, 502; Pub. L. 112–81, div. A, title V, §§511(a)(1),(2), 512(b), Dec. 31, 2011, 125 Stat. 1391, 1393.)
 
@@ -85,4 +85,8 @@ Subsec. (d). Pub. L. 110–181, §1811(b), substituted "general" for "lieutenant
 <b>2004</b>—Pub. L. 108–375, §507(b)(1), inserted "; succession" after "grade" in section catchline.
 
 Subsec. (e). Pub. L. 108–375, §507(a), added subsec. (e).
+
+#### Effective Date
+
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 

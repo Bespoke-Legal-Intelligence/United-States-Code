@@ -32,7 +32,7 @@ For purposes of this section and part IV—
 
 &emsp;The term "State" includes the District of Columbia and any possession of the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 29; Pub. L. 90–364, title I, §107(a), June 28, 1968, 82 Stat. 266; Pub. L. 90–634, title IV, §401(a), Oct. 24, 1968, 82 Stat. 1349; Pub. L. 91–172, title VI, §601(a), Dec. 30, 1969, 83 Stat. 656; Pub. L. 92–178, title III, §315(a), (b), Dec. 10, 1971, 85 Stat. 529; Pub. L. 94–164, §7(a), Dec. 23, 1975, 89 Stat. 976; Pub. L. 94–182, title III, §301(a), Dec. 31, 1975, 89 Stat. 1056; Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), Oct. 4, 1976, 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Pub. L. 95–339, title II, §201(a), Aug. 8, 1978, 92 Stat. 467; Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), Nov. 6, 1978, 92 Stat. 2839–2841, 2941, 2944; Pub. L. 96–222, title I, §107(a)(3)(C), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), Apr. 2, 1980, 94 Stat. 281, 283, 286; Pub. L. 96–499, title XI, §1103, Dec. 5, 1980, 94 Stat. 2669; Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), Aug. 13, 1981, 95 Stat. 349, 350; Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), Sept. 3, 1982, 96 Stat. 466–469, 472-474, 477, 478, 596, 599; Pub. L. 97–424, title V, §547(a), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 97–473, title II, §202(b)(2), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, July 18, 1984, 98 Stat. 839, 915-922, 924, 926, 928, 931-933; Pub. L. 99–272, title XIII, §13209(e), Apr. 7, 1986, 100 Stat. 323; Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), Oct. 22, 1986, 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), Nov. 10, 1988, 102 Stat. 3544, 3547.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 29; Pub. L. 90–364, title I, §107(a), June 28, 1968, 82 Stat. 266; Pub. L. 90–634, title IV, §401(a), Oct. 24, 1968, 82 Stat. 1349; Pub. L. 91–172, title VI, §601(a), Dec. 30, 1969, 83 Stat. 656; Pub. L. 92–178, title III, §315(a), (b), Dec. 10, 1971, 85 Stat. 529; Pub. L. 94–164, §7(a), Dec. 23, 1975, 89 Stat. 976; Pub. L. 94–182, title III, §301(a), Dec. 31, 1975, 89 Stat. 1056; Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), Oct. 4, 1976, 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Pub. L. 95–339, title II, §201(a), Aug. 8, 1978, 92 Stat. 467; Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), Nov. 6, 1978, 92 Stat. 2839–2841, 2941, 2944; Pub. L. 96–222, title I, §107(a)(3)(C), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), Apr. 2, 1980, 94 Stat. 281, 283, 286; Pub. L. 96–499, title XI, §1103, Dec. 5, 1980, 94 Stat. 2669; Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), Aug. 13, 1981, 95 Stat. 349, 350; Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), Sept. 3, 1982, 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Pub. L. 97–424, title V, §547(a), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 97–473, title II, §202(b)(2), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, July 18, 1984, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Pub. L. 99–272, title XIII, §13209(e), Apr. 7, 1986, 100 Stat. 323; Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), Oct. 22, 1986, 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), Nov. 10, 1988, 102 Stat. 3544, 3547.)
 
 #### Amendments
 
@@ -274,7 +274,7 @@ Subsec. (d). Pub. L. 90–364 redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1013(a)(34)(B), Nov. 10, 1988, 102 Stat. 3544, provided that: "Subparagraph (A)\[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply."
+Pub. L. 100–647, title I, §1013(a)(34)(B), Nov. 10, 1988, 102 Stat. 3544, provided that: "Subparagraph (A) \[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply."
 
 #### Effective Date of 1986 Amendment
 
@@ -495,7 +495,7 @@ Exception.—Subparagraph (A) shall not apply with respect to the amendment made
 
 &emsp;"(4)
 
-Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting 'the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]' for 'December 31, 1984' and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting 'December 31, 1987' for 'December 31, 1984' and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
+Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting 'the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]' for 'December 31, 1984' and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of thisparagraph shall be applied by substituting 'December 31, 1987' for 'December 31, 1984' and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
 
 &emsp;"(5)
 
@@ -583,7 +583,7 @@ Termination.—The amendment made by subsection (c) \[amending this section\] sh
 
 "(3)
 
-Research expenditures.—The amendment made by subsection (d) \[amending this section\] shall applywith respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
+Research expenditures.—The amendment made by subsection (d) \[amending this section\] shall apply with respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
 
 "(4)
 
@@ -693,7 +693,7 @@ Pub. L. 94–164, §7(b), Dec. 23, 1975, 89 Stat. 976, provided that: "The amend
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title III, §315(c), Dec. 10, 1971, 85 Stat. 529, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after January 1, 1969. The amendment made by subsection (b) \[amending this section\] shall apply with respect to expenditures incurred after the date of the enactment of this Act \[Dec. 10, 1971\]."
+Pub. L. 92–178, title III, §315(c), Dec. 10, 1971, 85 Stat. 529, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after January 1, 1969. Theamendment made by subsection (b) \[amending this section\] shall apply with respect to expenditures incurred after the date of the enactment of this Act \[Dec. 10, 1971\]."
 
 #### Effective Date of 1969 Amendment
 
@@ -763,7 +763,7 @@ Solid waste disposal facility.—A solid waste disposal facility is described in
 
 &emsp;&emsp;"(i) such facility is operated by the South Eastern Public Service Authority of Virginia, and
 
-&emsp;&emsp;"(ii) on December 20, 1984, the Internal Revenue Service issued a ruling concluding that a portion of the obligations with respect to such facility wouldnot be treated as federally guaranteed under section 103(h) of such Code by reason of the transitional rule contained in section 631(c)(3)(A)(i) of the Tax Reform Act of 1984 \[section 631(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\],
+&emsp;&emsp;"(ii) on December 20, 1984, the Internal Revenue Service issued a ruling concluding that a portion of the obligations with respect to such facility would not be treated as federally guaranteed under section 103(h) of such Code by reason of the transitional rule contained in section 631(c)(3)(A)(i) of the Tax Reform Act of 1984 \[section 631(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\],
 
 &emsp;"(C) if—
 
@@ -853,7 +853,7 @@ Tax increment bonds.—The amendment made by section 626(a) of the Tax Reform Ac
 
 &emsp;"(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in real property tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
 
-&emsp;"(D) none of the property described in subparagraph (A) is subject to a real property or other tax based ona rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
+&emsp;"(D) none of the property described in subparagraph (A) is subject to a real property or other tax based on a rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
 
 "(4)
 
@@ -1009,7 +1009,7 @@ Qualified date.—
 
 In general.—For purposes of this paragraph, the term 'qualified date' means the earlier of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the date on which the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] expires, or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the date on which the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] expires, or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the date, after the date of enactment of this Act \[July 18, 1984\], on which the Higher Education Act of 1965 is reauthorized.
 
@@ -1053,7 +1053,7 @@ Study on Tax-Exempt Student Loan Bonds.—
 
 In general.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall conduct studies of—
 
-&emsp;&emsp;"(A) the appropriate role of tax-exempt bonds which are issued in connection with the guaranteed student loan program and the PLUS program established under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\], and
+&emsp;&emsp;"(A) the appropriate role of tax-exempt bonds which are issued in connection with the guaranteed student loan program and the PLUS program established under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], and
 
 &emsp;&emsp;"(B) the appropriate arbitrage rules for such bonds.
 
@@ -1075,7 +1075,7 @@ Solid waste-energy producing facilities.—For purposes of paragraph (1), the te
 
 &emsp;"(A) substantially all of the fuel for the facility producing steam and electrical energy is derived from solid waste from such solid waste disposal facility,
 
-&emsp;"(B) both such solid waste disposal facility and the facility producing steam and electrical energy areowned and operated by the authority referred to in paragraph (1), and
+&emsp;"(B) both such solid waste disposal facility and the facility producing steam and electrical energy are owned and operated by the authority referred to in paragraph (1), and
 
 &emsp;"(C) all of the electrical energy and steam produced by the facility for producing steam and electricity which is not used by such facility is sold, for purposes other than resale, to an agency or instrumentality of the United States.
 
@@ -1103,7 +1103,7 @@ In general.—Subparagraph (C) of section 103(g)(3) of the Internal Revenue Code
 
 &emsp;&emsp;"(iii) is located in the same metropolitan area as the alcohol-producing facility, and
 
-&emsp;"(B) before March 1, 1980, there were negotiations between a governmental body and an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 with respect to the utilization of a special process for the production of alcohol at such alcohol-producing facility.
+&emsp;"(B) before March 1, 1980, there were negotiations between a governmental body and an organization described in section 501(c)(3) of the Internal RevenueCode of 1986 with respect to the utilization of a special process for the production of alcohol at such alcohol-producing facility.
 
 "(2)
 
@@ -1191,7 +1191,7 @@ Pub. L. 95–600, title III, §337, Nov. 6, 1978, 92 Stat. 2842, as amended by P
 
 General Rule.—The payment to a charitable organization of a refund profit held in a trust fund or escrow arrangement, or held by an underwriter or other person under a qualified agreement in accordance with that agreement—
 
-&emsp;"(1) shall not cause the refunding obligations out of which the refund profit arose to be treated as arbitrage bonds (within the meaning of section 103(c) ofthe Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and
+&emsp;"(1) shall not cause the refunding obligations out of which the refund profit arose to be treated as arbitrage bonds (within the meaning of section 103(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and
 
 &emsp;"(2) may be paid without penalty imposed on the issuer of such obligations.
 
@@ -1215,7 +1215,7 @@ Refund profit.—The term 'Refund profit' means interest, profit, or other amoun
 
 &emsp;"(2)
 
-Charitable organization.—The term 'charitable organization' means an organization described in section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
+Charitable organization.—The term 'charitable organization' means an organization describedin section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
 
 &emsp;"(3)
 

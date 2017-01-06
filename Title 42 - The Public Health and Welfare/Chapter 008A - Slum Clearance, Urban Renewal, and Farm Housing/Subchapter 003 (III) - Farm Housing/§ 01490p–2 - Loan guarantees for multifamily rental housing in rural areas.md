@@ -82,11 +82,11 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (2) Foreclosure
 
-&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
+&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b)) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
 
 #### (3) Assignment by Secretary
 
-&emsp;After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section).
+&emsp;After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b)).
 
 #### (4) Requirements
 
@@ -96,7 +96,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (1) Indemnification
 
-&emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
+&emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) to issue the guarantee certificate for the loan—
 
 &emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
 
@@ -104,11 +104,11 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (2) Termination of authority to issue guarantees
 
-&emsp;The Secretary may cancel a delegation of authority under subsection (h) of this section to an eligible lender if the Secretary determines that the lender has violated the requirements and procedures for guaranteed loans under this section or for other good cause. Any such cancellation shall be made by giving notice to the eligible lender and shall take effect upon receipt of the notice by the mortgagee or at a later date, as the Secretary may provide. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
+&emsp;The Secretary may cancel a delegation of authority under subsection (h) to an eligible lender if the Secretary determines that the lender has violated the requirements and procedures for guaranteed loans under this section or for other good cause. Any such cancellation shall be made by giving notice to the eligible lender and shall take effect upon receipt of the notice by the mortgagee or at a later date, as the Secretary may provide. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
 
 #### (k) Refinancing
 
-Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
+Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f).
 
 #### (l) Geographical targeting
 
@@ -140,7 +140,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 #### (2) Annual limitation on amount of loan guarantee
 
-&emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may beprovided in appropriation Acts for such fiscal year.
+&emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (q) Report
 
@@ -166,7 +166,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;(1) The term "development cost" has the meaning given the term in section 1485(e) of this title.
 
-&emsp;(2) The term "eligible lender" means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1) of this section.
+&emsp;(2) The term "eligible lender" means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1).
 
 &emsp;(3) The terms "housing" and "related facilities" have the meanings given such terms in section 1485(e) of this title.
 
@@ -174,7 +174,7 @@ For purposes of this section, the following definitions shall apply:
 
 Indian tribe.—The term "Indian tribe" means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
+&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); <sup>2</sup> or
 
 &emsp;&emsp;(B) any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
 
@@ -192,7 +192,7 @@ Any amounts collected by the Secretary pursuant to the fees charged to lenders f
 
 #### (v) Defaults of loans secured by reservation lands
 
-In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.),<sup>2</sup> the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 (July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
 
@@ -204,9 +204,9 @@ Subpar. (D) of section 42(i)(2) of title 26, referred to in subsec. (f)(5), was 
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.), referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 ofTitle 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Indian Reorganization Act, referred to in subsec. (v), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+The Indian Reorganization Act (25 U.S.C. 461 et seq.), referred to in subsec. (v), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
 #### Codification
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law (including section 407 of this title 
 
 #### (b) Consent to requirements applicable to private person
 
-With respect to notice to withhold income pursuant to subsection (a)(1) or (b) of section 666 of this title, or any other order or process to enforce support obligations against an individual (if the order or process contains or is accompanied by sufficient data to permit prompt identification of the individual and the moneys involved), each governmental entity specified in subsection (a) of this section shall be subject to the same requirements as would apply if the entity were a private person, except as otherwise provided in this section.
+With respect to notice to withhold income pursuant to subsection (a)(1) or (b) of section 666 of this title, or any other order or process to enforce support obligations against an individual (if the order or process contains or is accompanied by sufficient data to permit prompt identification of the individual and the moneys involved), each governmental entity specified in subsection (a) shall be subject to the same requirements as would apply if the entity were a private person, except as otherwise provided in this section.
 
 #### (c) Designation of agent; response to notice or process
 
@@ -30,9 +30,9 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 #### (d) Priority of claims
 
-If a governmental entity specified in subsection (a) of this section receives notice or is served with process, as provided in this section, concerning amounts owed by an individual to more than 1 person—
+If a governmental entity specified in subsection (a) receives notice or is served with process, as provided in this section, concerning amounts owed by an individual to more than 1 person—
 
-&emsp;(1) support collection under section 666(b) of this title must be given priority over any other process, as provided in section 666(b)(7) of this title;
+&emsp;(1) support collection under section 666(b) of this title must be given priority over anyother process, as provided in section 666(b)(7) of this title;
 
 &emsp;(2) allocation of moneys due or payable to an individual among claimants under section 666(b) of this title shall be governed by section 666(b) of this title and the regulations prescribed under such section; and
 
@@ -46,7 +46,7 @@ A governmental entity that is affected by legal process served for the enforceme
 
 (1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
 
-(2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) of this section with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
+(2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
 
 #### (g) Regulations
 
@@ -70,7 +70,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;(ii) periodic benefits (including a periodic benefit as defined in section 428(h)(3) of this title) or other payments—
 
-&emsp;&emsp;&emsp;&emsp;(I) under the insurance system established by subchapter II of this chapter;
+&emsp;&emsp;&emsp;&emsp;(I) under the insurance system established by subchapter II;
 
 &emsp;&emsp;&emsp;&emsp;(II) under any other system or fund established by the United States which provides for the payment of pensions, retirement or retired pay, annuities, dependents' or survivors' benefits, or similar amounts payable on account of personal services performed by the individual or any other individual;
 
@@ -84,7 +84,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;(iv) benefits paid or payable under the Railroad Retirement System,<sup>1</sup> and
 
-&emsp;&emsp;&emsp;(v) special benefits for certain World War II veterans payable under subchapter VIII of this chapter; but
+&emsp;&emsp;&emsp;(v) special benefits for certain World War II veterans payable under subchapter VIII; but
 
 &emsp;&emsp;(B) do not include any payment—
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (2) Child support
 
-&emsp;The term "child support", when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, ora child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, and which may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
+&emsp;The term "child support", when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, and which may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
 
 #### (3) Alimony
 
@@ -268,7 +268,7 @@ Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in 
 
 Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate with the Federal Parent Locator Service, established under 42 U.S.C. 653, by providing complete, timely and accurate information that will assist in locating noncustodial parents and their employers.
 
-Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offsetpurposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(o)–(u).
+Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(o)–(u).
 
 (b) All Federal agencies shall inform current and prospective employees that crossmatches are routinely made between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
 
@@ -300,7 +300,7 @@ Sec. 402. <i>Additional Federal Agency Actions</i>. (a) OPM and HHS shall jointl
 
 Sec. 501. <i>Internal Management</i>. This order is intended only to improve the internal management of the executive branch with regard to child support enforcement and shall not be interpreted to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its officers, or any other person.
 
-Sec. 502. <i>Sovereignty of the United States Government</i>. This order is intended only to provide that the Federal Government has elected to require Federal agencies to adhere to the same standards as are applicable to all other employers in the Nation and shall not be interpreted as subjecting the Federal Government to any State law or requirement. This order should not be construed as a waiver of the sovereign immunity of the United States Government or of any existing statutory or regulatory provisions, including 42 U.S.C. 659, 662, and 665; 5 CFR Part 581; 42 CFR Part 21, Subpart C; 32 CFR Part 54; and 32 CFR Part 81.
+Sec. 502. <i>Sovereignty of the United States Government</i>. This order is intended only to provide that the FederalGovernment has elected to require Federal agencies to adhere to the same standards as are applicable to all other employers in the Nation and shall not be interpreted as subjecting the Federal Government to any State law or requirement. This order should not be construed as a waiver of the sovereign immunity of the United States Government or of any existing statutory or regulatory provisions, including 42 U.S.C. 659, 662, and 665; 5 CFR Part 581; 42 CFR Part 21, Subpart C; 32 CFR Part 54; and 32 CFR Part 81.
 
 Sec. 503. <i>Defense and Security.</i>
 

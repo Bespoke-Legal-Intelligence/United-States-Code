@@ -40,3 +40,7 @@ Provisions similar to those in this section were contained in sections 3850 and 
 
 Subsecs. (b) to (d). Pub. L. 113–66, §503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

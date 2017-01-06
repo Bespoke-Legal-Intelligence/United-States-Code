@@ -30,11 +30,11 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(9) the progress made under the program of the Republic of Korea to modernize its armed forces, the role of the United States in mutual security efforts in the Republic of Korea and the military balance between the People's Republic of Korea and the Republic of Korea;
 
-&emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cubaduring the preceding fiscal year and the military capabilities of those armed forces;
+&emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cuba during the preceding fiscal year and the military capabilities of those armed forces;
 
 &emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
-&emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
+&emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing ofeducation, training, and technical assistance for the detection and clearance of landmines; and
 
 &emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number of personnel involved in performing such activities;
 
@@ -102,7 +102,7 @@ Pub. L. 99–83, §113(2), added subsec. (d) relating to transmittal of informat
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no later than Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
 
-Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of this section. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
+Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of thissection. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
 
 Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title, covered in par. (5).
 

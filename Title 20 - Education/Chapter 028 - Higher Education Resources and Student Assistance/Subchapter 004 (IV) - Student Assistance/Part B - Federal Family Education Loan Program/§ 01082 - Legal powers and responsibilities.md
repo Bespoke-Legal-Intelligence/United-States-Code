@@ -18,7 +18,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 #### (b) Financial operations responsibilities
 
-The Secretary shall, with respect to the financial operations arising by reason of this part prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31. The transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government. The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—
+The Secretary shall, with respect to the financial operations arising by reason of this part prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31. The transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government. The Secretary may not enter into any settlement of any claim under this subchapter that exceeds $1,000,000 unless—
 
 &emsp;(1) the Secretary requests a review of the proposed settlement of such claim by the Attorney General; and
 
@@ -60,7 +60,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
 
-&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
+&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a)), and recommending litigation with respect to any such claim.
 
 #### (e) Use of information on borrowers
 
@@ -148,7 +148,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 > &emsp;the Secretary shall limit, suspend, or terminate that lender from participation in the insurance programs operated by guaranty agencies under this part.
 
-&emsp;(B) The Secretary shall not lift any such limitation, suspension, or termination until the Secretary is satisfied that the lender's failure under subparagraph (A)(i) of this paragraph or practice under subparagraph (A)(ii) of this paragraph has ceased and finds that there are reasonable assurances that the lender will—
+&emsp;(B) The Secretary shall not lift any such limitation, suspension, or termination until the Secretary is satisfied that the lender'sfailure under subparagraph (A)(i) of this paragraph or practice under subparagraph (A)(ii) of this paragraph has ceased and finds that there are reasonable assurances that the lender will—
 
 &emsp;&emsp;(i) exercise the necessary care and diligence,
 
@@ -200,17 +200,17 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;If the Secretary—
 
-&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
+&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation;
 
 &emsp;&emsp;(B) determines that immediate action is necessary to prevent misuse of Federal funds; and
 
-&emsp;&emsp;(C) determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h) of this section;
+&emsp;&emsp;(C) determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h);
 
 > &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
 
 #### (2) Length of emergency action
 
-&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation, suspension, or termination proceeding is initiated against the lender under subsection (h) of this section before the expiration of that period.
+&emsp;An emergency action under this subsection may not exceed 30 days unless a limitation,suspension, or termination proceeding is initiated against the lender under subsection (h) before the expiration of that period.
 
 #### (3) Opportunity to show cause
 
@@ -220,7 +220,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) In general
 
-&emsp;The Secretary shall undertake a program to encourage corporations and other private and public employers, including the Federal Government, to assist borrowers in repaying loans received under this subchapter and part C of subchapter I of chapter 34 of title 42, including providing employers with options for payroll deduction of loan payments and offering loan repayment matching provisions as part of employee benefit packages.
+&emsp;The Secretary shall undertake a program to encourage corporations and other private and public employers, including the Federal Government, to assist borrowers in repaying loans received under this subchapter, including providing employers with options for payroll deduction of loan payments and offering loan repayment matching provisions as part of employee benefit packages.
 
 #### (2) Publication
 
@@ -234,7 +234,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) In general
 
-&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicersand other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
+&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicers and other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
 
 &emsp;&emsp;(A) origination of loans;
 
@@ -268,7 +268,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(B) authorization of alternate means of document retention, including the use of microfilm, microfiche, laser disc, compact disc, and other methods allowing the production of a facsimile of the original documents;
 
-&emsp;&emsp;(C) authorization of the use of computer or similar electronic methods of maintaining records relating to the performance of servicing, collection, and other regulatory requirements under this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;(C) authorization of the use of computer or similar electronic methods of maintaining records relating to the performance of servicing, collection, and other regulatory requirements under this chapter; and
 
 &emsp;&emsp;(D) authorization and implementation of electronic data linkages for the exchange of information to and from lenders, guarantors, institutions of higher education, third party servicers, and the Department of Education for student status confirmation reports, claim filing, interest and special allowance billing, deferment processing, and all other administrative steps relating to loans made pursuant to this part where using electronic data linkage is feasible.
 
@@ -300,7 +300,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part D. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part D as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D may use a master promissory note for loans under this part and part D.
 
 #### (ii) Consultation
 
@@ -326,7 +326,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Common deferment form
 
-&emsp;The Secretary, in cooperation with representatives of guaranty agencies, institutions of higher education, and lenders involved in loans made under this part, shall prescribe a common deferment reporting form to be used for the processing of deferments of loans made under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The Secretary, in cooperation with representatives of guaranty agencies, institutions of higher education, and lenders involved in loans made under this part, shall prescribe a common deferment reporting form to be used for the processing of deferments of loans made under this subchapter.
 
 #### (3) Common reporting formats
 
@@ -348,7 +348,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Plan for use required
 
-&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing the expenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year, the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
+&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing the expenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year,the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
 
 &emsp;&emsp;(A) why the goal was not met, including an indication of any managerial deficiencies or of any legal obstacles;
 
@@ -366,7 +366,7 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 #### (p) Reporting requirement
 
-All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
+All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter or as to the eligibility of any entity or individual to participate under this subchapter, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter.
 
 (Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247; Pub. L. 111–39, title IV, §402(f)(9), July 1, 2009, 123 Stat. 1944.)
 
@@ -386,11 +386,11 @@ A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 
 
 Subsec. (m)(1)(B). Pub. L. 111–39, §402(f)(9)(B), in cl. (i), inserted "and" at end and, in cl. (ii), substituted period for "; and".
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end "The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—" and pars. (1) and (2).
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end "The Secretary may not enter into any settlement of any claim under this subchapter that exceeds $1,000,000 unless—" and pars. (1) and (2).
 
 Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted "either of the authorizing committees" for "the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate".
 
-Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end "Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C."
+Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end "Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D may use a master promissory note for loans under this part and part D."
 
 Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted "authorizing committees" for "Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate" in concluding provisions.
 
@@ -422,13 +422,13 @@ Subsec. (n)(1). Pub. L. 105–244, §427(d)(1), substituted "1999" for "1993".
 
 Subsec. (n)(3). Pub. L. 105–244, §427(d)(2), substituted "and the Workforce" for "and Labor" in concluding provisions.
 
-Subsec. (p). Pub. L. 105–244, §427(e), struck out "State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter," after "agencies or boards,".
+Subsec. (p). Pub. L. 105–244, §427(e), struck out "State postsecondary reviewing entities designated under subpart 1 of part H," after "agencies or boards,".
 
 <b>1995</b>—Subsec. (b). Pub. L. 104–66 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary shall, with respect to the financial operations arising by reason of this part—
 
 &emsp;"(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financialstatements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
+&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
 
 <b>1993</b>—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 
@@ -488,7 +488,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

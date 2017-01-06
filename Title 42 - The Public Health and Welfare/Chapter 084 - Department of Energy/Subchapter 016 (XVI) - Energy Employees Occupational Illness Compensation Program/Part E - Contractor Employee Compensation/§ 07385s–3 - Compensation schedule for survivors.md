@@ -30,7 +30,7 @@ The amount under subsection (a) of this section shall be paid only as follows:
 
 &emsp;(1) If a covered spouse is alive at the time of payment, such payment shall be made to such surviving spouse.
 
-&emsp;(2) If there is no covered spouse described in paragraph (1), such payment shall be made in equal shares to all covered children who are alive at the time of payment.
+&emsp;(2) If there is no covered spouse described in paragraph (1), such payment shall be made inequal shares to all covered children who are alive at the time of payment.
 
 &emsp;(3) Notwithstanding the other provisions of this subsection, if there is—
 

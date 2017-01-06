@@ -44,15 +44,15 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(B) determines that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this part,
 
-> the Secretary shall reserve from amounts which would otherwise be allotted to such State under subsection (a) of this section for the fiscal year the amount determined under paragraph (2).
+> the Secretary shall reserve from amounts which would otherwise be allotted to such State under subsection (a) for the fiscal year the amount determined under paragraph (2).
 
-(2) The Secretary shall reserve for the purpose of paragraph (1) from amounts that would otherwise be allotted to such State under subsection (a) of this section an amount equal to the amount which bears the same ratio to the State's allotment for the fiscal year involved as the total amount provided or allotted for fiscal year 1981 by the Secretary to such tribe or tribal organization under the provisions of law referred to in subsection (a) of this section bore to the total amount provided or allotted for such fiscal year by the Secretary to the State and entities (including Indian tribes and tribal organizations) in the State under such provisions of law.
+(2) The Secretary shall reserve for the purpose of paragraph (1) from amounts that would otherwise be allotted to such State under subsection (a) an amount equal to the amount which bears the same ratio to the State's allotment for the fiscal year involved as the total amount provided or allotted for fiscal year 1981 by the Secretary to such tribe or tribal organization under the provisions of law referred to in subsection (a) bore to the total amount provided or allotted for such fiscal year by the Secretary to the State and entities (including Indian tribes and tribal organizations) in the State under such provisions of law.
 
 (3) The amount reserved by the Secretary on the basis of a determination under this subsection shall be granted to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
 
 (4) In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary a plan for such fiscal year which meets such criteria as the Secretary may prescribe.
 
-(5) The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in section 450b(b) and (c) <sup>2</sup> of title 25.
+(5) The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in section 5304(b) and (c) <sup>2</sup> of title 25.
 
 #### (e) Report on equitable distribution of available funds
 
@@ -78,9 +78,9 @@ Section 246(d) of this title, referred to in subsec. (a)(2)(E), was repealed eff
 
 Section 255 of this title, referred to in subsec. (a)(2)(F), was in the original a reference to section 339 of act July 1, 1944, which was repealed effective Oct. 1, 1981, by Pub. L. 97–35, title IX, §902(b), (h), Aug. 13, 1981, 95 Stat. 559, 561. Pub. L. 97–414, §6(a), Jan. 4, 1983, 96 Stat. 2057, added a new section 339 of act July 1, 1944, which is classified to section 255 of this title.
 
-Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1,1981, by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561. Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916–2918, enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. Pub. L. 103–183, title VI, §601(b), Dec. 14, 1983, 107 Stat. 2238, repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively. Pub. L. 110–23, §§3, 5, May 3, 2007, 121 Stat. 90, 91, repealed section 1202, renumbered section 1203 as 1202, and enacted new section 1203 of act July 1, 1944, which is classified to section 300d–5 of this title.
+Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1, 1981, by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561. Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916–2918, enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. Pub. L. 103–183, title VI, §601(b), Dec. 14, 1983, 107 Stat. 2238, repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively. Pub. L. 110–23, §§3, 5, May 3, 2007, 121 Stat. 90, 91, repealed section 1202,renumbered section 1203 as 1202, and enacted new section 1203 of act July 1, 1944, which is classified to section 300d–5 of this title.
 
-Section 450b of title 25, referred to in subsec. (d)(5), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in subsec. (d)(5), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

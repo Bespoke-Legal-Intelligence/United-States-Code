@@ -34,7 +34,7 @@ Subsecs. (c), (d). Pub. L. 104–106, §333(b), added subsec. (c) and redesignat
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title III, §312(b), Dec. 4, 1987, 101 Stat. 1073, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to purchases of malt beverages and wine after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\]."
+Pub. L. 100–180, div. A, title III, §312(b), Dec. 4, 1987, 101 Stat. 1073, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to purchases of malt beverages and wine after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\]."
 
 #### Procurement of Malt Beverages and Wine by Nonappropriated Fund Activity
 

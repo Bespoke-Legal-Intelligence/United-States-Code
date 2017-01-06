@@ -34,7 +34,7 @@ Security.—The Secretary may require a person assessed a fee under this subsect
 
 "(d)
 
-Sustainable Harvest Levels for Forest Botanical Products.—The Secretary of Agriculture shallconduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 528 et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products.
+Sustainable Harvest Levels for Forest Botanical Products.—The Secretary of Agriculture shall conduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 528 et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products.
 
 "(e)
 

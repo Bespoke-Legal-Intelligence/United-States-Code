@@ -194,7 +194,249 @@ Subsec. (i)(2). Pub. L. 106–264 inserted at end "In addition, providing traini
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Electrify Africa
+
+Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Electrify Africa Act of 2015'.
+
+#### "SEC. 2. PURPOSE.
+
+"The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for inclusive economic growth, job creation, food security, improved health, education, and environmental outcomes, and poverty reduction.
+
+#### "SEC. 3. STATEMENT OF POLICY.
+
+"It is the policy of the United States to partner, consult, and coordinate with the governments of sub-Saharan African countries, international financial institutions, and African regional economic communities, cooperatives, and the private sector, in a concerted effort to—
+
+&emsp;"(1) promote first-time access to power and power services for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas;
+
+&emsp;"(2) encourage the installation of at least 20,000 additional megawatts of electrical power in sub-Saharan Africa by 2020 using a broad mix of energy options to help reduce poverty, promote sustainable development, and drive inclusive economic growth;
+
+&emsp;"(3) promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation;
+
+&emsp;"(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations;
+
+&emsp;"(5) encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible;
+
+&emsp;"(6) promote reforms of power production, delivery, and pricing, as well as regulatory reforms and transparency, to support long-term, market-based power generation and distribution;
+
+&emsp;"(7) promote policies to displace kerosene lighting with other technologies;
+
+&emsp;"(8) promote an all-of-the-above energy development strategy for sub-Saharan Africa that includes the use of oil, natural gas, coal, hydroelectric, wind, solar, and geothermal power, and other sources of energy; and
+
+&emsp;"(9) promote and increase the use of private financing and seek ways to remove barriers to private financing and assistance for projects, including through charitable organizations.
+
+#### "SEC. 4. DEVELOPMENT OF COMPREHENSIVE, MULTIYEAR STRATEGY.
+
+"(a)
+
+Strategy Required.—
+
+&emsp;"(1)
+
+In general.—The President shall establish a comprehensive, integrated, multiyear strategy to encourage the efforts of countries in sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions to provide access to sufficient reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth and job creation consistent with the policy stated in section 3.
+
+&emsp;"(2)
+
+Flexibility and responsiveness.—The President shall ensure that the strategy required under paragraph (1) maintains sufficient flexibility for and remains responsive to concerns and interests of affected local communities and technological innovation in the power sector.
+
+"(b)
+
+Report Required.—Not later than 180 days after the date of the enactment of this Act \[Feb. 8, 2016\], the President shall transmit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that contains the strategy required under subsection (a) and includes a discussion of the following elements:
+
+&emsp;"(1) The objectives of the strategy and the criteria for determining the success of the strategy.
+
+&emsp;"(2) A general description of efforts in sub-Saharan Africa to—
+
+&emsp;&emsp;"(A) increase power production;
+
+&emsp;&emsp;"(B) strengthen electrical transmission and distribution infrastructure;
+
+&emsp;&emsp;"(C) provide for regulatory reform and transparent and accountable governance and oversight;
+
+&emsp;&emsp;"(D) improve the reliability of power;
+
+&emsp;&emsp;"(E) maintain the affordability of power;
+
+&emsp;&emsp;"(F) maximize the financial sustainability of the power sector; and
+
+&emsp;&emsp;"(G) improve non-discriminatory access to power that is done in consultation with affected communities.
+
+&emsp;"(3) A description of plans to support efforts of countries in sub-Saharan Africa to increase access to power in urban and rural areas, including a description of plans designed to address commercial, industrial, and residential needs.
+
+&emsp;"(4) A description of plans to support efforts to reduce waste and corruption, ensure local community consultation, and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate.
+
+&emsp;"(5) An analysis of existing mechanisms for ensuring, and recommendations to promote—
+
+&emsp;&emsp;"(A) commercial cost recovery;
+
+&emsp;&emsp;"(B) commercialization of electric service through distribution service providers, including cooperatives, to consumers;
+
+&emsp;&emsp;"(C) improvements in revenue cycle management, power pricing, and fees assessed for service contracts and connections;
+
+&emsp;&emsp;"(D) reductions in technical losses and commercial losses; and
+
+&emsp;&emsp;"(E) non-discriminatory access to power, including recommendations on the creation of new service provider models that mobilize community participation in the provision of power services.
+
+&emsp;"(6) A description of the reforms being undertaken or planned by countries in sub-Saharan Africa to ensure the long-term economic viability of power projects and to increase access to power, including—
+
+&emsp;&emsp;"(A) reforms designed to allow third parties to connect power generation to the grid;
+
+&emsp;&emsp;"(B) policies to ensure there is a viable and independent utility regulator;
+
+&emsp;&emsp;"(C) strategies to ensure utilities become or remain creditworthy;
+
+&emsp;&emsp;"(D) regulations that permit the participation of independent power producers and private-public partnerships;
+
+&emsp;&emsp;"(E) policies that encourage private sector and cooperative investment in power generation;
+
+&emsp;&emsp;"(F) policies that ensure compensation for power provided to the electrical grid by on-site producers;
+
+&emsp;&emsp;"(G) policies to unbundle power services;
+
+&emsp;&emsp;"(H) regulations to eliminate conflicts of interest in the utility sector;
+
+&emsp;&emsp;"(I) efforts to develop standardized power purchase agreements and other contracts to streamline project development;
+
+&emsp;&emsp;"(J) efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector; and
+
+&emsp;&emsp;"(K) policies that promote local community consultation with respect to the development of power generation and transmission projects.
+
+&emsp;"(7) A description of plans to ensure meaningful local consultation, as appropriate, in the planning, long-term maintenance, and management of investments designed to increase access to power in sub-Saharan Africa.
+
+&emsp;"(8) A description of the mechanisms to be established for—
+
+&emsp;&emsp;"(A) selection of partner countries for focused engagement on the power sector;
+
+&emsp;&emsp;"(B) monitoring and evaluating increased access to, and reliability and affordability of, power in sub-Saharan Africa;
+
+&emsp;&emsp;"(C) maximizing the financial sustainability of power generation, transmission, and distribution in sub-Saharan Africa;
+
+&emsp;&emsp;"(D) establishing metrics to demonstrate progress on meeting goals relating to access to power, power generation, and distribution in sub-Saharan Africa; and
+
+&emsp;&emsp;"(E) terminating unsuccessful programs.
+
+&emsp;"(9) A description of how the President intends to promote trade in electrical equipment with countries in sub-Saharan Africa, including a description of how the government of each country receiving assistance pursuant to the strategy—
+
+&emsp;&emsp;"(A) plans to lower or eliminate import tariffs or other taxes for energy and other power production and distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and
+
+&emsp;&emsp;"(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa.
+
+&emsp;"(10) A description of how the President intends to encourage the growth of distributed renewable energy markets in sub-Saharan Africa, including off-grid lighting and power, that includes—
+
+&emsp;&emsp;"(A) an analysis of the state of distributed renewable energy in sub-Saharan Africa;
+
+&emsp;&emsp;"(B) a description of market barriers to the deployment of distributed renewable energy technologies both on- and off-grid in sub-Saharan Africa;
+
+&emsp;&emsp;"(C) an analysis of the efficacy of efforts by the Overseas Private Investment Corporation and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and
+
+&emsp;&emsp;"(D) a description of how bolstering distributed renewable energy can enhance the overall effort to increase power access in sub-Saharan Africa.
+
+&emsp;"(11) A description of plans to ensure that small and medium enterprises based in sub-Saharan Africa can fairly compete for energy development and energy access opportunities associated with this Act.
+
+&emsp;"(12) A description of how United States investments to increase access to energy in sub-Saharan Africa may reduce the need for foreign aid and development assistance in the future.
+
+&emsp;"(13) A description of policies or regulations, both domestically and internationally, that create barriers to private financing of the projects undertaken in this Act.
+
+&emsp;"(14) A description of the specific national security benefits to the United States that will be derived from increased energy access in sub-Saharan Africa.
+
+"(c)
+
+Interagency Working Group.—
+
+&emsp;"(1)
+
+In general.—The President may, as appropriate, establish an Interagency Working Group to coordinate the activities of relevant United States Government departments and agencies involved in carrying out the strategy required under this section.
+
+&emsp;"(2)
+
+Functions.—The Interagency Working Group may, among other things—
+
+&emsp;&emsp;"(A) seek to coordinate the activities of the United States Government departments and agencies involved in implementing the strategy required under this section;
+
+&emsp;&emsp;"(B) ensure efficient and effective coordination between participating departments and agencies; and
+
+&emsp;&emsp;"(C) facilitate information sharing, and coordinate partnerships between the United States Government, the private sector, and other development partners to achieve the goals of the strategy.
+
+#### "SEC. 5. PRIORITIZATION OF EFFORTS AND ASSISTANCE FOR POWER PROJECTS IN SUB-SAHARAN AFRICA BY KEY UNITED STATES INSTITUTIONS.
+
+"(a)
+
+In General.—In pursuing the policy goals described in section 3, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the Overseas Private Investment Corporation, and the Chief Executive Officer and Board of Directors of the Millennium Challenge Corporation should, as appropriate, prioritize and expedite institutional efforts and assistance to facilitate the involvement of such institutions in power projects and markets, both on- and off-grid, in sub-Saharan Africa and partner with other investors and local institutions in sub-Saharan Africa, including private sector actors, to specifically increase access to reliable, affordable, and sustainable power in sub-Saharan Africa, including through—
+
+&emsp;"(1) maximizing the number of people with new access to power and power services;
+
+&emsp;"(2) improving and expanding the generation, transmission and distribution of power;
+
+&emsp;"(3) providing reliable power to people and businesses in urban and rural communities;
+
+&emsp;"(4) addressing the energy needs of marginalized people living in areas where there is little or no access to a power grid and developing plans to systematically increase coverage in rural areas;
+
+&emsp;"(5) reducing transmission and distribution losses and improving end-use efficiency and demand-side management;
+
+&emsp;"(6) reducing energy-related impediments to business productivity and investment; and
+
+&emsp;"(7) building the capacity of countries in sub-Saharan Africa to monitor and appropriately and transparently regulate the power sector and encourage private investment in power production and distribution.
+
+"(b)
+
+Effectiveness Measurement.—In prioritizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3.
+
+"(c)
+
+Promotion of Use of Private Financing and Assistance.—In carrying out policies under this section, such institutions shall promote the use of private financing and assistance and seek ways to remove barriers to private financing for projects and programs under this Act, including through charitable organizations.
+
+"(d)
+
+Rule of Construction.—Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions.
+
+#### "SEC. 6. LEVERAGING INTERNATIONAL SUPPORT.
+
+"In implementing the strategy described in section 4, the President should direct the United States representatives to appropriate international bodies to use the influence of the United States, consistent with the broad development goals of the United States, to advocate that each such body—
+
+&emsp;"(1) commit to significantly increase efforts to promote investment in well-designed power sector and electrification projects in sub-Saharan Africa that increase energy access, in partnership with the private sector and consistent with the host countries' absorptive capacity;
+
+&emsp;"(2) address energy needs of individuals and communities where access to an electricity grid is impractical or cost-prohibitive;
+
+&emsp;"(3) enhance coordination with the private sector in sub-Saharan Africa to increase access to electricity;
+
+&emsp;"(4) provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary barriers to investment in otherwise commercially viable projects; and
+
+&emsp;"(5) utilize clear, accountable, and metric-based targets to measure the effectiveness of such projects.
+
+#### "SEC. 7. PROGRESS REPORT.
+
+"(a)
+
+In General.—Not later than three years after the date of the enactment of this Act \[Feb. 8, 2016\], the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on progress made toward achieving the strategy described in section 4 that includes the following:
+
+&emsp;"(1) A report on United States programs supporting implementation of policy and legislative changes leading to increased power generation and access in sub-Saharan Africa, including a description of the number, type, and status of policy, regulatory, and legislative changes initiated or implemented as a result of programs funded or supported by the United States in countries in sub-Saharan Africa to support increased power generation and access after the date of the enactment of this Act.
+
+&emsp;"(2) A description of power projects receiving United States Government support and how such projects, including off-grid efforts, are intended to achieve the strategy described in section 4.
+
+&emsp;"(3) For each project described in paragraph (2)—
+
+&emsp;&emsp;"(A) a description of how the project fits into, or encourages modifications of, the national energy plan of the country in which the project will be carried out, including encouraging regulatory reform in that county;
+
+&emsp;&emsp;"(B) an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors;
+
+&emsp;&emsp;"(C) the amount of financing provided or guaranteed by the United States Government for the project;
+
+&emsp;&emsp;"(D) an estimate of United States Government resources for the project, itemized by funding source,including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
+
+&emsp;&emsp;"(E) an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report;
+
+&emsp;&emsp;"(F) an assessment of the increase in the number of people and businesses with access to power, and in the operating electrical power capacity in megawatts as a result of the project between the date of the enactment of this Act and the date of the report;
+
+&emsp;&emsp;"(G) a description of efforts to gain meaningful local consultation for projects associated with this Act and any significant estimated noneconomic effects of the efforts carried out pursuant to this Act; and
+
+&emsp;&emsp;"(H) a description of the participation by small and medium enterprises based in sub-Saharan Africa on projects associated with this Act."
+
+\[For delegation of functions vested in President by sections 4 and 7 of Pub. L. 114–121, set out above, see Memorandum of President of the United States, Aug. 3, 2016, 81 F.R. 52323, set out below.\]
 
 #### Agricultural and Rural Development in Sub-Saharan Africa
 
@@ -363,6 +605,110 @@ Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided tha
 &emsp;"(4) program assistance provided, including the amounts obligated, the criteria used for assisting reforms, and the provisions made pursuant to section 496(h)(2)(B) to protect vulnerable groups from possible negative consequences of the reforms; and
 
 &emsp;"(5) a description of the assistance for the critical sector priorities specified in section 496(i), by sector, including the amounts obligated."
+
+#### Ex. Ord. No. 13746. Advancing the Goals of the Power Africa Initiative To Expand Access to Electricity in Sub-Saharan Africa Through the Establishment of the President's Power Africa Working Group
+
+Ex. Ord. No. 13746, Nov. 3, 2016, 81 F.R. 78697, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to partner, consult, and coordinate with African governments, bilateral and multilateral partners, the private sector, and civil society to expand access to electricity and increase electricity generation in Sub-Saharan Africa, in both urban and rural areas. Through the Power Africa initiative (Power Africa), we aim to double access to power in Sub-Saharan Africa by adding 30,000 megawatts (MW) of capacity and 60 million new household and business connections by 2030, and in so doing, leapfrog to cleaner forms of energy and foster inclusive economic growth and opportunity across Sub-Saharan Africa.
+
+On June 30, 2013, my Administration launched Power Africa, a new initiative to double access to power in Sub-Saharan Africa, where more than two-thirds of the population is without electricity, and more than 85 percent of those living in rural areas lack access to electricity. In its initial phase, Power Africa aimed to add more than 10,000 MW of cleaner, more efficient electricity generation capacity and to increase electricity access by at least 20 million new households and commercial entities with on-grid, mini-grid, and off-grid solutions. Power Africa builds on Africa's enormous power potential, including extensive clean geothermal, hydro, wind and solar energy resources, as well as vast oil and gas reserves. Power Africa works with countries to develop resources responsibly, build out power generation, transmission, and distribution, and expand the reach of mini-grid and off-grid solutions. Power Africa brings to bear a wide range of tools from across the Federal Government and more than 130 public and private sector partners to support investment in Africa's energy sector. Power Africa provides coordinated support to help African partners expand their power networks and access to electricity, including through policy and regulatory best practices, institutional capacity building, pre-feasibility support, grants, long-term financing, insurance, guarantees, credit enhancements, and technical assistance.
+
+On August 5, 2014, during the U.S.-Africa Leaders Summit, my Administration affirmed that Power Africa is intended to reach across Sub-Saharan Africa, and tripled Power Africa's goals. Power Africa is now working toward adding 30,000 MW of new, cleaner electricity generation capacity and increasing electricity access by at least 60 million new connections. On January 28, 2016, my Administration, in coordination with Power Africa partners, launched the Power Africa Roadmap, which lays out a concrete plan for Power Africa to meet its ambitious goals by 2030.
+
+The Electrify Africa Act of 2015, enacted on February 8, 2016 (Public Law 114–121) (the "Act"), calls for the development of a strategy to add at least 20,000 MW of electrical power and promote first-time access to power and power services for at least 50 million people in Sub-Saharan Africa by 2020 in both urban and rural areas—an effort that directly supports and complements Power Africa's goals. This order furthers the purposes of the Act and the work that Power Africa has been undertaking.
+
+Sec. 2. <i>Establishment of the Coordinator for Power Africa</i>. The United States Agency for International Development (USAID) shall serve as the lead agency to facilitate the implementation of Power Africa and associated activities across the United States Government. The Administrator of USAID shall establish the position of Coordinator for Power Africa within USAID.
+
+Sec. 3. <i>Power Africa Working Group</i>. (a) There is hereby established the Power Africa Working Group (Working Group), co-chaired by the Coordinator for Power Africa within USAID and a member of the National Security Council (NSC) staff to be designated by the Assistant to the President for National Security Affairs. The Working Group shall serve as the multi-agency coordinating and advisory body for the Federal Government's efforts to identify, evaluate, prioritize, and deliver assistance to energy projects across Sub-Saharan Africa in order to advance the energy access and electricity generation goals of Power Africa and promote policy cohesion across the Federal Government. Through the Working Group, participating departments and agencies shall provide advice and promote coherence of United States Government positions on and assistance for priority energy projects and policy reforms in support of Power Africa.
+
+(b) The Working Group shall consist of representatives of the following executive branch departments and agencies (Participating Agencies):
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Agriculture;
+
+(iv) the Department of Commerce;
+
+(v) the Department of Energy;
+
+(vi) the Export-Import Bank of the United States;
+
+(vii) the United States Agency for International Development;
+
+(viii) the Overseas Private Investment Corporation;
+
+(ix) the United States Trade and Development Agency;
+
+(x) the Millennium Challenge Corporation;
+
+(xi) the United States Army Corps of Engineers;
+
+(xii) the Office of Management and Budget; and
+
+(xiii) such other agencies as the Co-Chairs may designate or invite to participate, including the United States African Development Foundation.
+
+(c) The Working Group may consult with non-United States Government entities that participate in Power Africa as bilateral, multilateral, private sector partners and nongovernmental organizations to provide input and advice to the United States Government, as appropriate, regarding the implementation of Power Africa.
+
+(d) The Working Group may establish sub-groups consisting exclusively of Working Group members or their designees, as appropriate, such as one for each of the three pillars of the Power Africa Roadmap: (1) megawatts, (2) connections, and (3) unlocking energy sector potential.
+
+(e) The Working Group shall be supported by the Office of the Coordinator for Power Africa within USAID.
+
+Sec. 4. <i>Mission and Functions of the Working Group</i>. The Working Group, as may be necessary and appropriate to carry out this order, shall:
+
+(a) Ensure efficient and effective coordination of energy access activities in Sub-Saharan Africa among Participating Agencies.
+
+(b) Identify, prioritize, and evaluate potential Power Africa projects, regulatory and policy reforms, and programmatic focus areas, including maximizing deployment of and access to renewable energy.
+
+(c) Identify country and project specific obstacles to the development of the electricity sector, including financial and technical assistance needs and capacity building needs, and identify opportunities for Participating Agencies to deploy their respective tools and best practices to advance needed reforms and accelerate the completion of Power Africa projects.
+
+(d) Enhance coordination among Participating Agencies to maximize the efficiency and effectiveness of United States Government development assistance and other development finance tools as related to Power Africa priorities.
+
+(e) Facilitate information sharing and coordination of partnerships between Participating Agencies and African governments, the private sector, development partners, and bilateral and multilateral partners to help advance Power Africa's goals.
+
+(f) Identify appropriate courses of action to liaise with host governments to advance regulatory and policy reforms, as well as energy transactions, related to Power Africa.
+
+(g) Identify best practices for Participating Agencies to coordinate their engagement with development partners, including bilateral donors, development finance institutions, and multilateral development banks on energy access issues, to ensure that Power Africa's tools are deployed in a way that is complementary to and leverages the impact of United States Government resources.
+
+(h) Meet with private sector partners, as appropriate, to review Power Africa projects and activities, and to solicit input regarding technical, policy, financial or political, obstacles that partners are encountering in the energy sector across Sub-Saharan Africa.
+
+(i) Meet with bilateral and multilateral development partners, as appropriate, to coordinate country-specific and regional energy access policy agendas, coordinate deployment of financial resources and technical expertise to identify and accelerate Power Africa projects and activities, and review project pipelines.
+
+(j) Monitor and periodically evaluate Power Africa projects and activities to measure the effectiveness of United States Government assistance and other development finance tools in achieving Power Africa's electricity generation and access goals, and to share lessons learned. These evaluations may recommend reforms to facilitate support for future projects and activities, and to increase the Working Group's effectiveness.
+
+Sec. 5. <i>Partnering with African Private Sector Companies</i>. I hereby direct Participating Agencies to facilitate as appropriate, to the maximum extent possible under the law, the participation of local and regional companies in power, renewable energy, and climate change projects in low-income countries in Africa, including through the use of financing and risk insurance, where appropriate.
+
+Sec. 6. <i>Reporting</i>. The Administrator of USAID, in coordination with the Participating Agencies, shall lead in the development of a report, to be transmitted to the Congress pursuant to section 7 of the Act and the Presidential Memorandum of August 3, 2016, "Delegation of Authority Pursuant to Section 4 and Section 7 of the Electrify Africa Act of 2015," on progress made toward achieving the comprehensive, integrated, multiyear strategy that was transmitted to the Congress on August 6, 2016, pursuant to section 4 of the Act, to encourage the efforts of countries in Sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions to provide access to sufficient, reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth and job creation.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Delegation of Authority Pursuant to Section 4 and Section 7 of the Electrify Africa Act of 2015
+
+Memorandum of President of the United States, Aug. 3, 2016, 81 F.R. 52323, provided:
+
+Memorandum for the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authorities vested in the President by section 4 and section 7 of the Electrify Africa Act of 2015 (Public Law 114–121) (the "Act") \[22 U.S.C. 2293 note\].
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provisions.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be "has".</i>
 

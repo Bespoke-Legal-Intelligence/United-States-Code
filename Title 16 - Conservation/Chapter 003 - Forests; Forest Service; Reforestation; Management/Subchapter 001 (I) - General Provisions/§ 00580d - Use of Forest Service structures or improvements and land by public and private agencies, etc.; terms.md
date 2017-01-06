@@ -126,7 +126,7 @@ Notice of changes to conveyance list.—If the Secretary proposes to convey an a
 
 &emsp;"(3)
 
-Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee onAgriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
+Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
 "(f)
 
@@ -252,7 +252,7 @@ Use.—Amounts deposited under paragraph (1) shall be available to the Secretary
 
 "(c)
 
-Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection withthe conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
+Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
 #### Conveyance of Excess Forest Service Structures
 

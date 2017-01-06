@@ -26,7 +26,7 @@ For the purpose of calculating any refund of interest required under subsection 
 
 #### (1) In general
 
-&emsp;Before the end of the 5-day period beginning on the date an oral or written request is received by a creditor from a consumer for the disclosure of the amount due on any precomputed consumer credit account, the creditor or assignee shall provide the consumer with a statement of—
+&emsp;Before the end of the 5-day period beginning on the date an oral or written request is received by a creditor from a consumer for thedisclosure of the amount due on any precomputed consumer credit account, the creditor or assignee shall provide the consumer with a statement of—
 
 &emsp;&emsp;(A) the amount necessary to prepay the account in full; and
 

@@ -1,0 +1,6 @@
+### §1772f. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–228, §8, Dec. 31, 1987, 101 Stat. 1561, which related to judicial review of provisions of this subchapter, was omitted from the Code as being of special and not general application.
+

@@ -36,7 +36,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (6) Contract or grant school
 
-&emsp;The term "contract or grant school" means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 450f, 450h(a), or 458d of this title, or under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
+&emsp;The term "contract or grant school" means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 5321, 5322(a), or 5352 of this title, or under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
 
 #### (7) Director
 
@@ -140,7 +140,7 @@ A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103�
 
 Another prior section 2021, Pub. L. 95–561, title XI, §1140A, formerly §1141, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398; renumbered §1140A and amended Pub. L. 99–89, §9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-A prior section 2022, Pub. L. 95–561, title XI, §1142, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012, related to extracurricular activities, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2022, Pub. L. 95–561, title XI, §1142, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4012, related to extracurricular activities, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2022 and prior sections 2022a and 2022b were omitted in the general amendment of this chapter by Pub. L. 103–382.
 

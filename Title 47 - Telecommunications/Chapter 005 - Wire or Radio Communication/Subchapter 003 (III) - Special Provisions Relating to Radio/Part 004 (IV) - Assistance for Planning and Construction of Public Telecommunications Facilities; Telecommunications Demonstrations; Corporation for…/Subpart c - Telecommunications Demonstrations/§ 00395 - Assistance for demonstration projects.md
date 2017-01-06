@@ -6,7 +6,7 @@ It is the purpose of this subpart to promote the development of nonbroadcast tel
 
 #### (b) Application approval
 
-The Secretary may approve an application submitted under subsection (a) of this section if he determines that—
+The Secretary may approve an application submitted under subsection (a) if he determines that—
 
 &emsp;(1) the project for which application is made will demonstrate innovative methods or techniques of utilizing nonbroadcast telecommunications equipment or facilities to satisfy the purpose of this subpart;
 
@@ -22,7 +22,7 @@ Upon approving any application under this subpart with respect to any project, t
 
 #### (d) Use of funds
 
-Funds made available pursuant to this subpart shall not be available for the construction, remodeling, or repair of structures to house the facilities or equipment acquired or developed with such funds, except that such funds may be used for minor remodeling which is necessary for and incidental to the installation of such facilities or equipment.
+Funds made available pursuant to this subpart shall not be available for the construction, remodeling, or repair of structures to house the facilities or equipment acquired or developed with such funds, except that such funds may be used for minor remodeling which is necessaryfor and incidental to the installation of such facilities or equipment.
 
 #### (e) "Nonbroadcast telecommunications facilities" defined
 

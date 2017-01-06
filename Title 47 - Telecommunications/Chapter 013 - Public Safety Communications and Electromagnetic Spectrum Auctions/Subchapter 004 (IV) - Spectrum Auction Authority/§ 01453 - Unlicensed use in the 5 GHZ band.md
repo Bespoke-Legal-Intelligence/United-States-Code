@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) licensed users will be protected by technical solutions, including use of existing, modified, or new spectrum-sharing technologies and solutions, such as dynamic frequency selection; and
 
-&emsp;&emsp;(B) the primary mission of Federal spectrum users in the 5350–5470 MHz band willnot be compromised by the introduction of unlicensed devices.
+&emsp;&emsp;(B) the primary mission of Federal spectrum users in the 5350–5470 MHz band will not be compromised by the introduction of unlicensed devices.
 
 #### (b) Study by NTIA
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
 
-(b) The head of an agency may, on request of an employee, grant the employee compensatory time off from the employee's scheduled tour of duty instead of payment under section 5544 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work. An agency headmay not require an employee to be compensated for overtime work with an equivalent amount of compensatory time-off from the employee's tour of duty.
+(b) The head of an agency may, on request of an employee, grant the employee compensatory time off from the employee's scheduled tour of duty instead of payment under section 5544 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work. An agency head may not require an employee to be compensated for overtime work with an equivalent amount of compensatory time-off from the employee's tour of duty.
 
 (c) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
@@ -44,7 +44,7 @@ In subsection (a), the words "head of an agency" are substituted for "head of an
 
 In subsection (a)(1), the word "officer" is omitted as included in "employee".
 
-In subsection (a)(2), the words "at his own discretion" are omitted as unnecessary in view of the permissive nature of the authority. The word "officer" is omitted as included in "employee". The word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the "Classification Act of 1949, as amended" is omitted as unnecessary.
+In subsection (a)(2), the words "at his own discretion" are omitted as unnecessary in view of the permissive nature of the authority. The word "officer" is omitted as included in "employee". The word "scheduled" is omitted since section 603 of the Act of Oct. 11,1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity. Reference to the "Classification Act of 1949, as amended" is omitted as unnecessary.
 
 In subsection (b), the words "in his discretion" are omitted as unnecessary in view of the permissive nature of the authority. The words "overtime work" are substituted for "any work in excess of forty hours in any regularly scheduled administrative workweek" because of the definition of "overtime work" in section 5542(a).
 

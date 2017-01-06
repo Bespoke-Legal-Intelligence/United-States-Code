@@ -34,7 +34,7 @@ Amounts appropriated for or collected by the Appraisal Subcommittee under this s
 
 &emsp;(4) to make grants in such amounts as it deems appropriate to the Appraisal Foundation, to help defray those costs of the foundation relating to the activities of its Appraisal Standards and Appraiser Qualification Boards;
 
-&emsp;(5) to make grants to State appraiser certifying and licensing agencies, in accordancewith policies to be developed by the Appraisal Subcommittee, to support the efforts of such agencies to comply with this chapter, including—
+&emsp;(5) to make grants to State appraiser certifying and licensing agencies, in accordance with policies to be developed by the Appraisal Subcommittee, to support the efforts of such agencies to comply with this chapter, including—
 
 &emsp;&emsp;(A) the complaint process, complaint investigations, and appraiser enforcement activities of such agencies; and
 

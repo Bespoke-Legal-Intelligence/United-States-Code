@@ -10,7 +10,7 @@ Base closure law.—The term "base closure law" has the meaning given that term 
 
 &emsp;(2)
 
-State.—The term "State" includes the District of Columbia, Puerto Rico, Guam,American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
+State.—The term "State" includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
 
 (b)
 
@@ -26,7 +26,7 @@ In general.—Subject to disapproval by the Administrator or the Secretary of De
 
 &emsp;(2)
 
-Conveyance requirements.—A transfer of property may be made under this section only after the Secretary of Transportation has—
+Conveyance requirements.—A transfer of property may be made under this sectiononly after the Secretary of Transportation has—
 
 &emsp;&emsp;(A) determined, after consultation with the Secretary of Labor, that the property to be conveyed is located in an area of serious economic disruption;
 

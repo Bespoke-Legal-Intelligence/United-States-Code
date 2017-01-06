@@ -44,7 +44,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;(7) whether or not its corporate powers, insofar as they will be exercised through the proposed insured branch, are consistent with the purposes of this chapter, and
 
-&emsp;(8) the probable adequacy and reliability of information supplied and to be supplied by thebank to the Corporation to enable it to carry out its functions under this chapter.
+&emsp;(8) the probable adequacy and reliability of information supplied and to be supplied by the bank to the Corporation to enable it to carry out its functions under this chapter.
 
 #### (c) Protection to Deposit Insurance Fund; surety bond, pledge of assets, etc.; injunction
 
@@ -100,7 +100,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(i) in good faith, estimate the amount of the loss the Corporation will incur from such default or assistance;
 
-&emsp;&emsp;&emsp;(ii) if, with respect to such insured depository institution, there is more than 1 commonly controlled insured depository institution, estimate the amount of eachsuch commonly controlled depository institution's share of such liability; and
+&emsp;&emsp;&emsp;(ii) if, with respect to such insured depository institution, there is more than 1 commonly controlled insured depository institution, estimate the amount of each such commonly controlled depository institution's share of such liability; and
 
 &emsp;&emsp;&emsp;(iii) advise each commonly controlled depository institution of the Corporation's estimate of the amount of such institution's liability for such losses.
 
@@ -114,7 +114,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (C) Priority
 
-&emsp;&emsp;The liability of any insured depository institution under this subsection shall have priority with respect to other obligations and liabilities as follows:
+&emsp;&emsp;The liability of any insured depository institution under this subsection shall havepriority with respect to other obligations and liabilities as follows:
 
 #### (i) Superiority
 
@@ -192,7 +192,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (6) Exclusion for institutions acquired in debt collections
 
-&emsp;Any depository institution shall not be treated as commonly controlled, for purposes of this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period as the Corporation may determine after written application by the acquirer, if—
+&emsp;Any depository institution shall not be treated as commonly controlled, for purposesof this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period as the Corporation may determine after written application by the acquirer, if—
 
 &emsp;&emsp;(A) 1 depository institution controls another by virtue of ownership of voting shares acquired in securing or collecting a debt previously contracted in good faith; and
 
@@ -240,7 +240,7 @@ Subsec. (d)(1). Pub. L. 109–173, §8(a)(5) substituted, "the reserve ratio of 
 
 Subsec. (d)(2). Pub. L. 109–173, §8(a)(4), (5)(B), added par. (2) and struck out former par. (2) which related to conversion transactions by insured depository institutions.
 
-Subsec. (d)(3). Pub. L. 109–173, §8(a)(4), (5)(D), redesignated par. (1)(C) of subsec. (d) as (3), realigned margin,and struck out former par. (3) which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments.
+Subsec. (d)(3). Pub. L. 109–173, §8(a)(4), (5)(D), redesignated par. (1)(C) of subsec. (d) as (3), realigned margin, and struck out former par. (3) which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments.
 
 Subsec. (e)(5)(A). Pub. L. 109–173, §8(a)(6)(A), substituted "Deposit Insurance Fund" for "Bank Insurance Fund or the Savings Association Insurance Fund".
 
@@ -370,51 +370,9 @@ Pub. L. 102–558, title III, §305, Oct. 28, 1992, 106 Stat. 4226, provided tha
 
 &emsp;"(3) \[sic\] Paragraphs (2) through (7) of section 1605(a) of such Act \[amending sections 1815, 1817, 1818, 1820, 1834, and 1834a of this title and enacting provisions set out as notes under sections 1817, 1834, and 1834a of this title\]."
 
-#### Moratorium on Treatment of Credit Card Banks, Industrial Loan Companies, and Certain Other Companies Under the Bank Holding Company Act of 1956.
+#### Moratorium on Treatment of Credit Card Banks, Industrial Loan Companies, and Certain Other Companies Under the Bank Holding Company Act of 1956
 
-Pub. L. 111–203, title VI, §603(a), July 21, 2010, 124 Stat. 1597, provided that:
-
-"(1)
-
-Definitions.—In this subsection—
-
-&emsp;"(A) the term 'credit card bank' means an institution described in section 2(c)(2)(F) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(F));
-
-&emsp;"(B) the term 'industrial bank' means an institution described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H)); and
-
-&emsp;"(C) the term 'trust bank' means an institution described in section 2(c)(2)(D) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(D)).
-
-"(2)
-
-Moratorium on provision of deposit insurance.—The Corporation may not approve an application for deposit insurance under section 5 of the Federal Deposit Insurance Act (12 U.S.C. 1815) that is received after November 23, 2009, for an industrial bank, a credit card bank, or a trust bank that is directly or indirectly owned or controlled by a commercial firm.
-
-"(3)
-
-Change in control.—
-
-&emsp;"(A)
-
-In general.—Except as provided in subparagraph (B), the appropriate Federal banking agency shall disapprove a change in control, as provided in section 7(j) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)), of an industrial bank, a credit card bank, or a trust bank if the change in control would result in direct or indirect control of the industrial bank, credit card bank, or trust bank by a commercial firm.
-
-&emsp;"(B)
-
-Exceptions.—Subparagraph (A) shall not apply to a change in control of an industrial bank, credit card bank, or trust bank—
-
-&emsp;&emsp;"(i) that—
-
-&emsp;&emsp;&emsp;"(I) is in danger of default, as determined by the appropriate Federal banking agency;
-
-&emsp;&emsp;&emsp;"(II) results from the merger or whole acquisition of a commercial firm that directly or indirectly controls the industrial bank, credit card bank, or trust bank in a bona fide merger with or acquisition by another commercial firm, as determined by the appropriate Federal banking agency; or
-
-&emsp;&emsp;&emsp;"(III) results from an acquisition of voting shares of a publicly traded company that controls an industrial bank, credit card bank, or trust bank, if, after the acquisition, the acquiring shareholder (or group of shareholders acting in concert) holds less than 25 percent of any class of the voting shares of the company; and
-
-&emsp;&emsp;"(ii) that has obtained all regulatory approvals otherwise required for such change of control under any applicable Federal or State law, including section 7(j) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)).
-
-"(4)
-
-Sunset.—This subsection shall cease to have effect 3 years after the date of enactment of this Act \[July 21, 2010\]."
-
-\[For definitions of terms used in section 603(a) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
+Pub. L. 111–203, title VI, §603(a), July 21, 2010, 124 Stat. 1597, provided that, effective until 3 years after July 21, 2010, the Federal Deposit Insurance Corporation would not approve an application for deposit insurance received after Nov. 23, 2009, for an industrial bank, a credit card bank, or a trust bank owned by a commercial firm and would disapprove, with certain exceptions, a change in control of such a bank that would result in control of the industrial bank, credit card bank, or trust bank by a commercial firm.
 
 #### Deposit of Funds Into Deposit Insurance Fund
 

@@ -28,7 +28,7 @@ The amount of a grant to a State with an application approved under this section
 
 #### (1) In general
 
-&emsp;A State that receives a grant under this section shall use funds made available throughsuch grant to promote the development and implementation of a comprehensive elder justice system by—
+&emsp;A State that receives a grant under this section shall use funds made available through such grant to promote the development and implementation of a comprehensive elder justice system by—
 
 &emsp;&emsp;(A) establishing formal working relationships among public and private providers of elder justice programs, service providers, and stakeholders in order to create a unified elder justice network across such State to coordinate programmatic efforts;
 

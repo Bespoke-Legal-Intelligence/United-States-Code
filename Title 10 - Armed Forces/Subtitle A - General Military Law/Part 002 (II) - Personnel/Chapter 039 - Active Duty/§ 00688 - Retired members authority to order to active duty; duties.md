@@ -66,5 +66,5 @@ Pub. L. 107–107, div. A, title V, §509(c), Dec. 28, 2001, 115 Stat. 1091, pro
 
 #### Effective Date
 
-Pub. L. 104–201, div. A, title V, §521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: "The amendments madeby this section \[enacting this section and sections 689 and 690 of this title, amending section 6151 of this title, and repealing former section 688 of this title\] shall take effect on September 30, 1997."
+Pub. L. 104–201, div. A, title V, §521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: "The amendments made by this section \[enacting this section and sections 689 and 690 of this title, amending section 6151 of this title, and repealing former section 688 of this title\] shall take effect on September 30, 1997."
 

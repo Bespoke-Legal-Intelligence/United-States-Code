@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which the United States has made a commitment to provide, or has provided financing from the stabilization fund established under section 5302 of title 31. The reports shall include the following:
+The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which theUnited States has made a commitment to provide, or has provided financing from the stabilization fund established under section 5302 of title 31. The reports shall include the following:
 
 &emsp;(1) A description of the condition of the economies of countries requiring the financial stabilization programs, including the monetary, fiscal, and exchange rate policies of the countries.
 
@@ -42,7 +42,7 @@ The Secretary of the Treasury, in consultation with the Secretary of Commerce an
 
 #### (b) Timing
 
-Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services, Ways and Means, and International Relations of the House of Representatives and the Committees on Finance, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section.
+Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services, Ways and Means, and International Relations of the House of Representatives and the Committees on Finance, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a).
 
 (Pub. L. 95–118, title XVII, §1704, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §612\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228; amended Pub. L. 106–200, title IV, §404(b), May 18, 2000, 114 Stat. 292.)
 
@@ -52,7 +52,7 @@ Not later than March 15, 1999, and semiannually thereafter, the Secretary of the
 
 #### Change of Name
 
-Committee on Banking and Financial Services of House of Representatives abolished and replaced byCommittee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -46,7 +46,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;(A) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a suspension order without conducting a hearing pursuant to subsection (f). If the Administrator issues a suspension under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f).
 
-&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4)to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
+&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
 
 (3) The small business lending company or non-Federally regulated lender must notify borrowers of a revocation and that a new entity has been appointed to service their loans. The Administrator or an employee of the Administration designated by the Administrator may provide such notice to the borrower.
 
@@ -160,7 +160,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (C) Authority upon conviction
 
-&emsp;&emsp;If a judgment of conviction with respect to an offense described in subparagraph (A) is entered against a management official, then at such time as the judgment is not subject to further judicial review (and for purposes of this subparagraph shall not include any petition for a writ of habeas corpus), the Administrator may issue and serve upon the management official an order removing the management official, effective upon service of a copy of the order upon the small business lending company or non-Federally regulated lender.
+&emsp;&emsp;If a judgment of conviction with respect to an offense described in subparagraph (A) isentered against a management official, then at such time as the judgment is not subject to further judicial review (and for purposes of this subparagraph shall not include any petition for a writ of habeas corpus), the Administrator may issue and serve upon the management official an order removing the management official, effective upon service of a copy of the order upon the small business lending company or non-Federally regulated lender.
 
 #### (D) Authority upon dismissal or other disposition
 

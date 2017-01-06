@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (c) of this section, in issuing or enforcing any regulation or establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
+Except as provided in subsection (c), in issuing or enforcing any regulation or establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
 
 &emsp;(1) differentiate between and establish separate classes for—
 
@@ -10,11 +10,11 @@ Except as provided in subsection (c) of this section, in issuing or enforcing an
 
 &emsp;&emsp;(B) other oils and greases, including petroleum; and
 
-&emsp;(2) apply standards to different classes of fats and oils based on considerations in subsection (b) of this section.
+&emsp;(2) apply standards to different classes of fats and oils based on considerations in subsection (b).
 
 #### (b) Considerations
 
-In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) of this section and the class of oils and greases described in subsection (a)(1)(B) of this section, the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
+In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) and the class of oils and greases described in subsection (a)(1)(B), the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
 
 #### (c) Exception
 
@@ -36,7 +36,7 @@ Section is comprised of section 2 of Pub. L. 104–55. Subsec. (d) of section 2 
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §343\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–473, provided that:
 
-"(a) None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard to issue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) \[see Short Title of 1995 Amendment note set out under section 2701 of this title\], or the amendments made by that Act,that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
+"(a) None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard to issue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) \[see Short Title of 1995 Amendment note set out under section 2701 of this title\], or the amendments made by that Act, that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
 
 &emsp;"(1) physical, chemical, biological and other relevant properties; and
 

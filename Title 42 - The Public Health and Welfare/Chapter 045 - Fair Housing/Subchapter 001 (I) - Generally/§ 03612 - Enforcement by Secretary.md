@@ -2,7 +2,7 @@
 
 #### (a) Election of judicial determination
 
-When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) of this section in lieu of a hearing under subsection (b) of this section. The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
+When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action undersubsection (o) of this section in lieu of a hearing under subsection (b) of this section. The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
 
 #### (b) Administrative law judge hearing in absence of election
 
@@ -72,7 +72,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 (1) The Secretary may petition any United States court of appeals for the circuit in which the discriminatory housing practice is alleged to have occurred or in which any respondent resides or transacts business for the enforcement of the order of the administrative law judge and for appropriate temporary relief or restraining order, by filing in such court a written petition praying that such order be enforced and for appropriate temporary relief or restraining order.
 
-(2) The Secretary shall file in court with the petition the record in the proceeding. A copy ofsuch petition shall be forthwith transmitted by the clerk of the court to the parties to the proceeding before the administrative law judge.
+(2) The Secretary shall file in court with the petition the record in the proceeding. A copy of such petition shall be forthwith transmitted by the clerk of the court to the parties to the proceeding before the administrative law judge.
 
 #### (k) Relief which may be granted
 

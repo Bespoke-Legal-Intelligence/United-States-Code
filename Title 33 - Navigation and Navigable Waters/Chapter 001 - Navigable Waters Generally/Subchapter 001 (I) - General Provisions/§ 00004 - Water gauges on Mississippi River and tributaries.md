@@ -14,7 +14,7 @@ The first paragraph of this section is from R.S. §5252, which, as enacted, auth
 
 #### Amendments
 
-<b>1954</b>—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in gauging waters of the Mississippi River and its tributaries, as provided in this section, should accompany the annual report of the Chief of Engineers.
+<b>1954</b>—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred ingauging waters of the Mississippi River and its tributaries, as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 

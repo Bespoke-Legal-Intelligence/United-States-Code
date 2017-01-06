@@ -1,0 +1,18 @@
+### §103502. Signature projects and programs
+
+(a)
+
+List.—The Secretary shall—
+
+&emsp;(1) develop a list of signature projects and programs eligible for funding from the National Park Centennial Challenge Fund;
+
+&emsp;(2) submit the list developed pursuant to paragraph (1) to the Committees on Appropriations and Energy and Natural Resources in theUnited States Senate, and to the Committees on Appropriations and Natural Resources in the House of Representatives; and
+
+&emsp;(3) prioritize deferred maintenance projects, physical improvements to visitor services facilities and trail maintenance.
+
+(b)
+
+Updates.—The Secretary may, from time to time, as the Secretary finds appropriate, add any signature project or program to the list and provide notice of such addition as required by subsection (a).
+
+(Added Pub. L. 114–289, title I, §101(a), Dec. 16, 2016, 130 Stat. 1484.)
+

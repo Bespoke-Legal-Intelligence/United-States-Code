@@ -6,7 +6,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 #### (b) Grantee organizations
 
-(1) An organization to which a grant is made pursuant to subsection (a) of this section—
+(1) An organization to which a grant is made pursuant to subsection (a)—
 
 &emsp;(A) shall be a national organization that has broad membership among court-appointed special advocates and has demonstrated experience in grant administration of court-appointed special advocate programs and in providing training and technical assistance to court-appointed special advocate program; or
 
@@ -46,7 +46,7 @@ State and local Court Appointed Special Advocate programs are authorized to requ
 
 #### (e) Reporting
 
-An organization that receives a grant under this section for a fiscal year shall submit to theAdministrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
+An organization that receives a grant under this section for a fiscal year shall submit to the Administrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
 
 (Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 109–162, title I, §112(c), Jan. 5, 2006, 119 Stat. 2986; Pub. L. 113–4, title I, §106(2), Mar. 7, 2013, 127 Stat. 77.)
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 113–4, §106(2)(B), added subsec. (e).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(c)(1), substituted "to initiate, sustain, and expand" for "to expand".
 
-Subsec. (b)(1). Pub. L. 109–162, §112(c)(2)(A), substituted "subsection (a) of this section—" for "subsection (a) of this section", inserted subpar. (A) designation before "shall be", and substituted "(B) may be" for "(2) may be" and "to initiate, sustain, and expand" for "to initiate or expand".
+Subsec. (b)(1). Pub. L. 109–162, §112(c)(2)(A), substituted "subsection (a)—" for "subsection (a)", inserted subpar. (A) designation before "shall be", and substituted "(B) may be" for "(2) may be" and "to initiate, sustain, and expand" for "to initiate or expand".
 
 Subsec. (b)(2). Pub. L. 109–162, §112(c)(2)(B), substituted "(1)(A)" for "(1)(a)" and "to initiate, sustain, and expand" for "to initiate and to expand".
 

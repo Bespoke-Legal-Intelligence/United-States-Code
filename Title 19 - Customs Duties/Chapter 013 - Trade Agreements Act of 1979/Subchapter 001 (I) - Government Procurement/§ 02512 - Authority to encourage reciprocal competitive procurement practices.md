@@ -50,7 +50,7 @@ Notwithstanding subsection (a), but in furtherance of the objective of encouragi
 
 #### (3) Consultation
 
-&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysis required by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisorycommittees established pursuant to section 2155 of this title.
+&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysis required by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisory committees established pursuant to section 2155 of this title.
 
 #### (d) Proposed action
 
@@ -92,7 +92,7 @@ Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prio
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1994 Amendment
 

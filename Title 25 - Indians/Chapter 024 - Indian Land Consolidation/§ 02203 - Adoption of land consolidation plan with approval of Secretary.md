@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose; sales or exchanges: terms and conditions
 
-Notwithstanding any other provision of law, any tribe, acting through its governing body, isauthorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: <i>Provided</i>, That—
+Notwithstanding any other provision of law, any tribe, acting through its governing body, is authorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: <i>Provided</i>, That—
 
 &emsp;(1) except as provided by subsection (c), the sale price or exchange value received by the tribe for land or interests in land covered by this section shall be no less than within 10 per centum of the fair market value as determined by the Secretary;
 
@@ -30,7 +30,7 @@ The Secretary may execute instruments of conveyance for less than fair market va
 
 Subsec. (c). Pub. L. 102–238, §3(2), added subsec. (c).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–608 amended subsec. (a) generally, substituting ": <i>Provided</i>, That—" for period at end and inserting five numbered pars., thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, the text of which had a portion of section 204 appearing in section 206 (classified to section 2205 of this title) as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill. Pub. L. 97–459 enacted subsec. (a) as ending with "tribal landholdings.", and included portion of section 204 containing proviso and five numbered pars. within text of section 206.
+<b>1984</b>—Subsec. (a). Pub. L. 98–608 amended subsec. (a) generally, substituting ": <i>Provided</i>, That—" for period at end and inserting five numbered pars., thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, the text of which had a portion of section 204 appearing in section 206 (classified to section 2205 of this title) as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill. Pub. L. 97–459 enacted subsec. (a) as ending with "triballandholdings.", and included portion of section 204 containing proviso and five numbered pars. within text of section 206.
 
 Subsec. (b). Pub. L. 98–608 included subsec. (b) within this section and substituted a period for the dash after "tribal land consolidation plan", thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, which, as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill, enacted subsec. (b) as part of section 206(b) of Pub. L. 97–459 and ended it with "tribal land consolidation plan—".
 

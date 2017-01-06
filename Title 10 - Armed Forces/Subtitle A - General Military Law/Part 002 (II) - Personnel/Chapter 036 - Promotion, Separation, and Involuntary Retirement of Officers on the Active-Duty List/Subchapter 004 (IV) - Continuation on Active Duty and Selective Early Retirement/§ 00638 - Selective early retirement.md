@@ -40,7 +40,7 @@
 
 (2)(A) Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
 
-(B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
+(B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during thefiscal year in which the selection board is convened or during the following fiscal year.
 
 (C) An officer not considered by a selection board convened under section 611(b) of this title by reason of subparagraph (B) shall be retired on the date approved for the retirement of that officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
 
@@ -89,4 +89,8 @@ Subsecs. (b), (c). Pub. L. 97–86 substituted "commodore" for "commodore admira
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under section 101 of this title.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

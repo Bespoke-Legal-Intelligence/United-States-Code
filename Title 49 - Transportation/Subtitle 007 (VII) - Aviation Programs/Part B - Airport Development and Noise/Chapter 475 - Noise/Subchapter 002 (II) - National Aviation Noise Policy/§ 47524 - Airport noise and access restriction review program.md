@@ -22,7 +22,7 @@ Aircraft.—Except as provided in subsection (d) of this section, an airport noi
 
 Stage 3
 
-Aircraft.—(1) Except as provided in subsection (d) of this section, an airport noise or access restriction on the operation of stage 3 aircraft not in effect on October 1, 1990, may become effective only if the restriction has been agreed to by the airport proprietor and all aircraft operators or has been submitted to and approved by the Secretary of Transportation after an airport or aircraft operator's request for approval as provided by the program established under this section. Restrictions to which this paragraph applies include—
+Aircraft.—(1) Except as provided in subsection (d) of this section, an airport noise or access restriction on the operation of stage 3 aircraft not in effect on October 1, 1990, may become effective only if the restriction has been agreed to by the airport proprietor and all aircraft operators or has been submitted to and approved by the Secretary of Transportation after an airport or aircraft operator's request for approval as provided by the program establishedunder this section. Restrictions to which this paragraph applies include—
 
 &emsp;(A) a restriction on noise levels generated on either a single event or cumulative basis;
 
@@ -136,7 +136,7 @@ In subsection (a), the words "shall provide for establishing" are substituted fo
 
 In subsection (b), the words "proposed after October 1, 1990" are substituted for 49 App.:2153(a)(2)(A) to eliminate unnecessary words.
 
-In subsection (c)(1), before clause (A), the words "not in effect on October 1, 1990" are substituted for 49 App.:2153(a)(2)(B) to eliminate unnecessary words. In clause (B), the words "direct or indirect" are omitted as surplus.
+In subsection (c)(1), before clause (A), the words "not in effect on October 1, 1990" are substituted for 49App.:2153(a)(2)(B) to eliminate unnecessary words. In clause (B), the words "direct or indirect" are omitted as surplus.
 
 In subsection (c)(2)(A)–(D) and (F), the word "proposed" is omitted as surplus. In clause (D), the word "existing" is omitted as surplus.
 

@@ -4,7 +4,7 @@
 
 General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703,41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -16,7 +16,7 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (3)
 
-Penalty for diversion of aviation revenues.—The amount of a civil penalty assessedunder this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
+Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
 (4)
 
@@ -84,7 +84,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) "repairman" means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any ofthose provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -184,7 +184,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 Small Business Concern Defined.—In this section, the term "small business concern" has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981; Pub. L. 112–95, title IV, §415(b), title VIII, §803, Feb. 14, 2012, 126 Stat. 96, 119; Pub. L. 113–188, title XV, §1501(b)(2)(B), Nov. 26, 2014, 128 Stat. 2024.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981; Pub. L. 112–95, title IV, §415(b), title VIII, §803, Feb. 14, 2012, 126 Stat. 96, 119; Pub. L. 113–188, title XV, §1501(b)(2)(B), Nov. 26, 2014, 128 Stat. 2024; Pub. L. 114–190, title II, §2205(b), July 15, 2016, 130 Stat. 631.)
 
 Historical and Revision Notes
 
@@ -372,6 +372,8 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 
 #### Amendments
 
+<b>2016</b>—Subsec. (d)(2). Pub. L. 114–190 inserted "section 46320," after "section 46319,".
+
 <b>2014</b>—Subsec. (d)(2). Pub. L. 113–188 substituted "section 47107(k)" for "section 47107(l)".
 
 <b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–95, §803(1), inserted "chapter 451," before "section 47107(b)".
@@ -408,7 +410,7 @@ Subsec. (a)(1)(A). Pub. L. 108–176, §503(a)(2), (3), struck out "or" before "
 
 Subsec. (a)(2). Pub. L. 108–176, §503(a)(5), substituted "section 41719" for "section 41715" in two places.
 
-Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "Aperson operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
 &emsp;"(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
@@ -573,6 +575,26 @@ Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: "Notwith
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Laser Pointer Incidents
+
+Pub. L. 114–190, title II, §2104, July 15, 2016, 130 Stat. 620, provided that:
+
+"(a)
+
+In General.—Beginning 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide quarterly updates to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] regarding—
+
+&emsp;"(1) the number of incidents involving the beam from a laser pointer (as defined in section 39A of title 18, United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States;
+
+&emsp;"(2) the number of civil or criminal enforcement actions taken by the Federal Aviation Administration, the Department of Transportation, or another Federal agency with regard to the incidents described in paragraph (1), including the amount of the civil or criminal penalties imposed on violators;
+
+&emsp;"(3) the resolution of any incidents described in paragraph (1) that did not result in a civil or criminal enforcement action; and
+
+&emsp;"(4) any actions the Department of Transportation or another Federal agency has taken on its own, or in conjunction with other Federal agencies or local law enforcement agencies, to deter the type of activity described in paragraph (1).
+
+"(b)
+
+Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000."
 
 <i><sup>1</sup></i><i> So in original. The word "or" probably should not appear.</i>
 

@@ -78,7 +78,7 @@ After a determination that a producer is eligible for the program under subsecti
 
 &emsp;&emsp;&emsp;&emsp;(II) the producer shall refund all or a portion of the payments received by the producer under the contract, including any interest on the payments, as determined by the Secretary; or
 
-&emsp;&emsp;&emsp;(ii) if the Secretary determines that the violation does not warrant termination ofthe contract, the producer shall refund or accept adjustments to the payments provided to the producer, as the Secretary determines to be appropriate;
+&emsp;&emsp;&emsp;(ii) if the Secretary determines that the violation does not warrant termination of the contract, the producer shall refund or accept adjustments to the payments provided to the producer, as the Secretary determines to be appropriate;
 
 &emsp;&emsp;(F) include provisions in accordance with paragraphs (3) and (4); and
 
@@ -134,7 +134,7 @@ At the end of the initial 5-year contract period, the Secretary may allow the pr
 
 &emsp;&emsp;(A) to meet the stewardship threshold of at least 2 additional priority resource concerns on the agricultural operation; or
 
-&emsp;&emsp;(B) to exceed the stewardship threshold of 2 existing priority resource concerns that are specified by the Secretary in the initial contract.
+&emsp;&emsp;(B) to exceed the stewardship threshold of 2 existing priority resource concerns thatare specified by the Secretary in the initial contract.
 
 (Pub. L. 99–198, title XII, §1238F, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1042, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1770; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 723.)
 

@@ -12,7 +12,7 @@ In the administration, protection, and development of the area, the Secretary sh
 
 &emsp;(2) protection of scenic, scientific, and historic features contributing to public enjoyment; and
 
-&emsp;(3) such protection, management, and utilization of renewable natural resources as in the judgment of the Secretary is consistent with, and will further the purpose of, public recreation and protection of scenic, scientific, andhistoric features contributing to public enjoyment.
+&emsp;(3) such protection, management, and utilization of renewable natural resources as in the judgment of the Secretary is consistent with, and will further the purpose of, public recreation and protection of scenic, scientific, and historic features contributing to public enjoyment.
 
 #### (c) Area review by Secretary; report to President; recommendations for preservation of any area within lakeshore as wilderness; designation as a wilderness
 

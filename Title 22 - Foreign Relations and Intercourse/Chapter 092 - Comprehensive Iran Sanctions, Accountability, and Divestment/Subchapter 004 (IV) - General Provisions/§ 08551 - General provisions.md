@@ -24,11 +24,11 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 #### (A) In general
 
-&emsp;&emsp;If the President waives the application of a provision pursuant to paragraph (1), thePresident shall submit to the appropriate congressional committees a report describing the reasons for the waiver.
+&emsp;&emsp;If the President waives the application of a provision pursuant to paragraph (1), the President shall submit to the appropriate congressional committees a report describing the reasons for the waiver.
 
 #### (B) Special rule for report on waiving imposition of licensing requirement under section 303(c)
 
-&emsp;&emsp;In any case in which the President waives, pursuant to paragraph (1), the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], the President shall include in the report required by subparagraph (A) of this paragraph an assessment of whether the government of the country is taking the steps described in subparagraph (A) of section 303(d)(1) \[22 U.S.C. 8543(d)(1)(A)\].
+&emsp;&emsp;In any case in which the President waives, pursuant to paragraph (1), the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], the President shall include in the report required by subparagraph (A) of this paragraph an assessment of whether thegovernment of the country is taking the steps described in subparagraph (A) of section 303(d)(1) \[22 U.S.C. 8543(d)(1)(A)\].
 
 #### (c) Authorizations of appropriations
 

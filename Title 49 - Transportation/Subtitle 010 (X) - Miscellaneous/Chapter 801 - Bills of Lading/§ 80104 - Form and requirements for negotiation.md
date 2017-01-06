@@ -2,7 +2,7 @@
 
 (a)
 
-General Rules.—(1) A negotiable bill of lading may be negotiated by indorsement. An indorsement may be made in blank or to a specified person. If the goods are deliverable to the order of a specified person, then the bill must be indorsed by that person.
+General Rules.—(1) A negotiable bill of lading may be negotiated by indorsement. Anindorsement may be made in blank or to a specified person. If the goods are deliverable to the order of a specified person, then the bill must be indorsed by that person.
 
 (2) A negotiable bill of lading may be negotiated by delivery when the common carrier, under the terms of the bill, undertakes to deliver the goods to the order of a specified person and that person or a subsequent indorsee has indorsed the bill in blank.
 
@@ -18,7 +18,7 @@ Validity Not Affected.—The validity of a negotiation of a bill of lading is no
 
 (c)
 
-Negotiation by Seller, Mortgagor, or Pledgor to Person Without Notice.—When goods for which a negotiable bill of lading has been issued are in a common carrier's possession, and the person to whom the bill has been issued retains possession of the bill after selling,mortgaging, or pledging the goods or bill, the subsequent negotiation of the bill by that person to another person receiving the bill for value, in good faith, and without notice of the prior sale, mortgage, or pledge has the same effect as if the first purchaser of the goods or bill had expressly authorized the subsequent negotiation.
+Negotiation by Seller, Mortgagor, or Pledgor to Person Without Notice.—When goods for which a negotiable bill of lading has been issued are in a common carrier's possession, and the person to whom the bill has been issued retains possession of the bill after selling, mortgaging, or pledging the goods or bill, the subsequent negotiation of the bill by that person to another person receiving the bill for value, in good faith, and without notice of the prior sale, mortgage, or pledge has the same effect as if the first purchaser of the goods or bill had expressly authorized the subsequent negotiation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1347.)
 

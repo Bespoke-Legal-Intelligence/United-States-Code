@@ -30,7 +30,7 @@ Operations new to compliance.—Notwithstanding section 3811(a) of this title, i
 
 &emsp;&emsp;(ii)
 
-Existing operations with prior violations.—Notwithstanding section 3811(a) of this title, in the case of a person that the Secretary determines would have been in violation of section 3811(a) of this title if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of section 3811(a) of this title, the person shall have 2 reinsurance years after the date on which the payments described in section 3811(a)(1)(E) of this title become subject to section 3811 of this title to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
+Existing operations with prior violations.—Notwithstanding section 3811(a) of this title, in the case of a person that theSecretary determines would have been in violation of section 3811(a) of this title if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of section 3811(a) of this title, the person shall have 2 reinsurance years after the date on which the payments described in section 3811(a)(1)(E) of this title become subject to section 3811 of this title to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
 
 &emsp;&emsp;(iii)
 
@@ -40,9 +40,9 @@ Applicable reinsurance year.—Ineligibility for the payment described in sectio
 
 &emsp;&emsp;&emsp;(II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
 
-(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
+(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
-(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
+(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
 #### (b) Persons eligible for program benefits in connection with production of certain planted crops or production of crops on highly erodible land
 
@@ -126,7 +126,7 @@ If a tenant is determined to be ineligible for payments and other benefits under
 
 #### (g) Preparation or revision of conservation plan
 
-The Secretary, in providing assistance to an individual in the preparation or revision of aconservation plan under this section, shall provide such individual with information—
+The Secretary, in providing assistance to an individual in the preparation or revision of a conservation plan under this section, shall provide such individual with information—
 
 &emsp;(1) concerning cost effective and applicable erosion control measures that may be available to such individual to meet the requirements of this section; and
 
@@ -156,7 +156,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–246, §2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out "that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary" after "applying a conservation plan".
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out "that documents the decisions of the person with respect to location, land use, tillagesystems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary" after "applying a conservation plan".
 
 Subsec. (a)(3). Pub. L. 104–127, §312, substituted "shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall" for "shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,".
 

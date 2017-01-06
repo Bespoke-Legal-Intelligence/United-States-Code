@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Governor shall use 81.8 percent of the State's allocation undersection 10001(d) of this title for the support of elementary, secondary, and postsecondary education and, as applicable, early childhood education programs and services.
+&emsp;For each fiscal year, the Governor shall use 81.8 percent of the State's allocation under section 10001(d) of this title for the support of elementary, secondary, and postsecondary education and, as applicable, early childhood education programs and services.
 
 #### (2) Restoring State support for education
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) qualifies as an institution of higher education, as defined in subsection <sup>1</sup> 10013(3) of this title; and
 
-&emsp;&emsp;(B) continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965.
+&emsp;&emsp;(B) continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\].
 
 #### (c) Rule of construction
 
@@ -56,7 +56,7 @@ Nothing in this section shall allow a local educational agency to engage in scho
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;(B) an analysis of the current workforce, employment and unemployment data, labor market trends, and the educational and skill levels of the workforce, including individuals with barriers to employment (including individuals with disabilities), in the State;
 
-&emsp;&emsp;(C) an analysis of the workforce development activities (including education andtraining) in the State, including an analysis of the strengths and weaknesses of such activities, and the capacity of State entities to provide such activities, in order to address the identified education and skill needs of the workforce and the employment needs of employers in the State;
+&emsp;&emsp;(C) an analysis of the workforce development activities (including education and training) in the State, including an analysis of the strengths and weaknesses of such activities, and the capacity of State entities to provide such activities, in order to address the identified education and skill needs of the workforce and the employment needs of employers in the State;
 
 &emsp;&emsp;(D) a description of the State's strategic vision and goals for preparing an educated and skilled workforce (including preparing youth and individuals with barriers to employment) and for meeting the skilled workforce needs of employers, including goals relating to performance accountability measures based on primary indicators of performance described in section 3141(b)(2)(A) of this title, in order to support economic growth and economic self-sufficiency, and of how the State will assess the overall effectiveness of the workforce investment system in the State; and
 
@@ -36,7 +36,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(i) the activities that will be funded by the entities carrying out the respective core programs to implement the strategy and how such activities will be aligned across the programs and among the entities administering the programs, including using co-enrollment and other strategies;
 
-&emsp;&emsp;&emsp;(ii) how the activities described in clause (i) will be aligned with activities provided under employment, training, education, including career and technical education, and human services programs not covered by the plan, as appropriate, assuring coordination of, and avoiding duplication among, the activities referred to in this clause;
+&emsp;&emsp;&emsp;(ii) how the activities described in clause (i) will be aligned with activities providedunder employment, training, education, including career and technical education, and human services programs not covered by the plan, as appropriate, assuring coordination of, and avoiding duplication among, the activities referred to in this clause;
 
 &emsp;&emsp;&emsp;(iii) how the entities carrying out the respective core programs will coordinate activities and provide comprehensive, high-quality services including supportive services, to individuals;
 
@@ -124,7 +124,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(II) that the State obtained input into the development of the unified State plan and provided an opportunity for comment on the plan by representatives of local boards and chief elected officials, businesses, labor organizations, institutions of higher education, other primary stakeholders, and the general public and that the unified State plan is available and accessible to the general public;
 
-&emsp;&emsp;&emsp;(iv) that the State has established, in accordance with section 3141(i) of this title, fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through allotments made for adult, dislocated worker,and youth programs to carry out workforce investment activities under subparts 2 and 3 of part B;
+&emsp;&emsp;&emsp;(iv) that the State has established, in accordance with section 3141(i) of this title, fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through allotments made for adult, dislocated worker, and youth programs to carry out workforce investment activities under subparts 2 and 3 of part B;
 
 &emsp;&emsp;&emsp;(v) that the State has taken appropriate action to secure compliance with uniform administrative requirements in this Act, including that the State will annually monitor local areas to ensure compliance and otherwise take appropriate action to secure compliance with the uniform administrative requirements under section 3244(a)(3) of this title;
 
@@ -190,7 +190,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(C)(vi
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(D)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 This Act, referred to in subsec. (b)(2)(E)(v), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

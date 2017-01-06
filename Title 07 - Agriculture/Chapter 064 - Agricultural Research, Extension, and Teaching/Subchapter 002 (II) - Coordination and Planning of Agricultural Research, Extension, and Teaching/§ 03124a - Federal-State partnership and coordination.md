@@ -44,7 +44,7 @@ In order to promote research and education in food and human nutrition, the Secr
 
 #### (d) Designation of State agricultural experiment stations and Agricultural Research Service facilities; pilot projects; additional research
 
-To address more effectively the critical need for reducing farm input costs, improving soil,water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
+To address more effectively the critical need for reducing farm input costs, improving soil, water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
 
 #### (e) Applicability of Federal Advisory Committee Act
 
@@ -76,7 +76,7 @@ To address more effectively the critical need for reducing farm input costs, imp
 
 #### References in Text
 
-Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
+Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 361a of this title and Tables.
 
 Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 

@@ -16,7 +16,7 @@ In the exercise of the functions, powers, and duties established under this sect
 
 #### (c) Training programs for State and local personnel at Federal Training Center
 
-Notwithstanding the provisions of subsection (a) of this section, the Secretary of the Treasuryis authorized to establish, develop, and conduct training programs at the Federal Law Enforcement Training Center at Glynco, Georgia, to provide, at the request of a State or unit of local government, training for State and local criminal justice personnel provided that such training does not interfere with the Center's mission to train Federal law enforcement personnel.
+Notwithstanding the provisions of subsection (a) of this section, the Secretary of the Treasury is authorized to establish, develop, and conduct training programs at the Federal Law Enforcement Training Center at Glynco, Georgia, to provide, at the request of a State or unit of local government, training for State and local criminal justice personnel provided that such training does not interfere with the Center's mission to train Federal law enforcement personnel.
 
 #### (d) Rail carrier costs
 

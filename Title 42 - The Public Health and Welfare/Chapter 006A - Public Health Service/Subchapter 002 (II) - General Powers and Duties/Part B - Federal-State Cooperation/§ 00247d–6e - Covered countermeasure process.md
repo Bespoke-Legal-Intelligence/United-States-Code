@@ -8,7 +8,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (1) In general
 
-&emsp;If the Secretary issues a declaration under 247d–6d(b) of this title, the Secretary shall, after amounts have by law been provided for the Fund under subsection (a) of this section, provide compensation to an eligible individual for a covered injury directly caused by the administration or use of a covered countermeasure pursuant to such declaration.
+&emsp;If the Secretary issues a declaration under 247d–6d(b) of this title, the Secretary shall, after amounts have by law been provided for the Fund under subsection (a), provide compensation to an eligible individual for a covered injury directly caused by the administration or use of a covered countermeasure pursuant to such declaration.
 
 #### (2) Elements of compensation
 
@@ -26,7 +26,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. TheSecretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
+&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
 
 #### (B) Amendments
 
@@ -54,11 +54,11 @@ The Secretary shall ensure that a State, local, or Department of Health and Huma
 
 #### (1) Exhaustion
 
-&emsp;Subject to paragraph (5), a covered individual may not bring a civil action under section 247d–6d(d) of this title against a covered person (as such term is defined in section 247d–6d(i)(2) of this title) unless such individual has exhausted such remedies as are available under subsection (a) of this section, except that if amounts have not by law been provided for the Fund under subsection (a) of this section, or if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of this section within 240 days after such request was filed, the individual may seek any remedy that may be available under section 247d–6d(d) of this title.
+&emsp;Subject to paragraph (5), a covered individual may not bring a civil action under section 247d–6d(d) of this title against a covered person (as such term is defined in section 247d–6d(i)(2) of this title) unless such individual has exhausted such remedies as are available under subsection (a), except that if amounts have not by law been provided for the Fund under subsection (a), or if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of this section within 240 days after such request was filed, the individual may seek any remedy that may be available under section 247d–6d(d) of this title.
 
 #### (2) Tolling of statute of limitations
 
-&emsp;The time limit for filing a civil action under section 247d–6d(d) of this title for an injury or death shall be tolled during the pendency of a claim for compensation under subsection (a) of this section.
+&emsp;The time limit for filing a civil action under section 247d–6d(d) of this title for an injury or death shall be tolled during the pendency of a claim for compensation under subsection (a).
 
 #### (3) Rule of construction
 
@@ -66,11 +66,11 @@ The Secretary shall ensure that a State, local, or Department of Health and Huma
 
 #### (4) Exclusivity
 
-&emsp;The remedy provided by subsection (a) of this section shall be exclusive of any other civil action or proceeding for any claim or suit this section encompasses, except for a proceeding under section 247d–6d of this title.
+&emsp;The remedy provided by subsection (a) shall be exclusive of any other civil action or proceeding for any claim or suit this section encompasses, except for a proceeding under section 247d–6d of this title.
 
 #### (5) Election
 
-&emsp;If under subsection (a) of this section the Secretary determines that a covered individual qualifies for compensation, the individual has an election to accept the compensation or to bring an action under section 247d–6d(d) of this title. If such individual elects to accept the compensation, the individual may not bring such an action.
+&emsp;If under subsection (a) the Secretary determines that a covered individual qualifies for compensation, the individual has an election to accept the compensation or to bring an action under section 247d–6d(d) of this title. If such individual elects to accept the compensation, the individual may not bring such an action.
 
 #### (e) Definitions
 
@@ -98,7 +98,7 @@ For purposes of this section, the following terms shall have the following meani
 
 #### (5) Eligible individual
 
-&emsp;The term "eligible individual" means an individual who is determined, in accordance with subsection (b) of this section, to be a covered individual who sustains a covered injury.
+&emsp;The term "eligible individual" means an individual who is determined, in accordance with subsection (b), to be a covered individual who sustains a covered injury.
 
 (July 1, 1944, ch. 373, title III, §319F–4, as added Pub. L. 109–148, div. C, §3, Dec. 30, 2005, 119 Stat. 2829.)
 

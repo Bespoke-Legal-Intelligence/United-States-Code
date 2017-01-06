@@ -14,7 +14,7 @@ The Federal Communications Commission shall issue such regulations and establish
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to the Board, $5,000,000 for use in compensating United States radio broadcasting licensees pursuant to this section. Amounts appropriated under thissection are authorized to be available until expended.
+There are authorized to be appropriated to the Board, $5,000,000 for use in compensating United States radio broadcasting licensees pursuant to this section. Amounts appropriated under this section are authorized to be available until expended.
 
 #### (e) Four-year availability for appropriated funds
 

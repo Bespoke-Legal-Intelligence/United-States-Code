@@ -76,7 +76,7 @@ The Attorney General may make a grant under this section to an applicant that—
 
 &emsp;(4) demonstrates that adequate security measures, including adequate facilities, procedures, and personnel capable of preventing violence, and adequate standards are, or will be, in place (including the development of protocols or policies to ensure that confidential information is not shared with courts, law enforcement agencies, or child welfare agencies unless necessary to ensure the safety of any child or adult using the services of a program funded under this section), if the applicant proposes to operate supervised visitation programs and services or safe visitation exchange;
 
-&emsp;(5) certifies that the organizational policies of the applicant do not require mediation or counseling involving offenders and victims being physically present in the same place, in cases where domestic violence, dating violence, sexual assault, or stalking is alleged;
+&emsp;(5) certifies that the organizational policies of the applicant do not require mediation orcounseling involving offenders and victims being physically present in the same place, in cases where domestic violence, dating violence, sexual assault, or stalking is alleged;
 
 &emsp;(6) certifies that any person providing legal assistance through a program funded under this section has completed or will complete training on domestic violence, dating violence, sexual assault, and stalking, including child sexual abuse, and related legal issues; and
 

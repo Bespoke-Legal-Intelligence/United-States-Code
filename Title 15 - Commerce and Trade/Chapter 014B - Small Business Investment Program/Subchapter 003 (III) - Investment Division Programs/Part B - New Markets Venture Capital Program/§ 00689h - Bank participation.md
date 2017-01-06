@@ -6,7 +6,7 @@ Except as provided in subsection (b), any national bank, any member bank of the 
 
 #### (b) Limitation
 
-No bank described in subsection (a) may make investments described in such subsection thatare greater than 5 percent of the capital and surplus of the bank.
+No bank described in subsection (a) may make investments described in such subsection that are greater than 5 percent of the capital and surplus of the bank.
 
 (Pub. L. 85–699, title III, §359, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
 

@@ -22,7 +22,7 @@ For purposes of this subtitle—
 
 #### (B) Related parties
 
-&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subject merchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
+&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subjectmerchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
 
 &emsp;&emsp;(ii) For purposes of clause (i), a producer and an exporter or importer shall be considered to be related parties, if—
 
@@ -152,7 +152,7 @@ For purposes of this subtitle—
 
 #### (D) Domestic subsidy
 
-&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact, to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
+&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact,to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
@@ -214,7 +214,7 @@ For purposes of this subtitle—
 
 #### (II) Precompetitive development activity
 
-&emsp;&emsp;&emsp;&emsp;The term "precompetitive development activity" means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilot projects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
+&emsp;&emsp;&emsp;&emsp;The term "precompetitive development activity" means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilotprojects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
 
 #### (iii) Calculation rules
 
@@ -256,7 +256,7 @@ For purposes of this subtitle—
 
 #### (I) General framework of regional development
 
-&emsp;&emsp;&emsp;&emsp;The term "general framework of regional development" means that the regional subsidy programs are part of an internally consistent and generally applicable regional development policy, and that regional development subsidies are not granted in isolated geographicalpoints having no, or virtually no, influence on the development of a region.
+&emsp;&emsp;&emsp;&emsp;The term "general framework of regional development" means that the regional subsidy programs are part of an internally consistent and generally applicable regional development policy, and that regional development subsidies are not granted in isolated geographical points having no, or virtually no, influence on the development of a region.
 
 #### (II) Neutral and objective criteria
 
@@ -336,7 +336,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(ii) may consider such other economic factors as are relevant to the determination regarding whether there is material injury by reason of imports.
 
-> &emsp;&emsp;In the notification required under section 1671d(d) or 1673d(d) of this title, as the casemay be, the Commission shall explain its analysis of each factor considered under clause (i), and identify each factor considered under clause (ii) and explain in full its relevance to the determination.
+> &emsp;&emsp;In the notification required under section 1671d(d) or 1673d(d) of this title, as the case may be, the Commission shall explain its analysis of each factor considered under clause (i), and identify each factor considered under clause (ii) and explain in full its relevance to the determination.
 
 #### (C) Evaluation of relevant factors
 
@@ -406,7 +406,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(I) if a countervailable subsidy is involved, such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the countervailable subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement), and whether imports of the subject merchandise are likely to increase,
 
-&emsp;&emsp;&emsp;&emsp;(II) any existing unused production capacity or imminent, substantial increase in production capacity in the exportingcountry indicating the likelihood of substantially increased imports of the subject merchandise into the United States, taking into account the availability of other export markets to absorb any additional exports,
+&emsp;&emsp;&emsp;&emsp;(II) any existing unused production capacity or imminent, substantial increase in production capacity in the exporting country indicating the likelihood of substantially increased imports of the subject merchandise into the United States, taking into account the availability of other export markets to absorb any additional exports,
 
 &emsp;&emsp;&emsp;&emsp;(III) a significant rate of increase of the volume or market penetration of imports of the subject merchandise indicating the likelihood of substantially increased imports,
 
@@ -472,7 +472,7 @@ For purposes of this subtitle—
 
 #### (iv) Regional industry determinations
 
-&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effect of imports into the region or regions determined by the Commission. The provisions of clause (iii) shall apply to such investigations.
+&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effect of imports into the region or regions determined by the Commission. The provisionsof clause (iii) shall apply to such investigations.
 
 #### (H) Cumulation for determining threat of material injury
 
@@ -528,7 +528,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(iii) processors and growers,
 
-> &emsp;&emsp;but this subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authorityand the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
+> &emsp;&emsp;but this subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authority and the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
 
 #### (10) Domestic like product
 
@@ -548,7 +548,7 @@ For purposes of this subtitle—
 
 #### (12) Attribution of merchandise to country of manufacture or production
 
-&emsp;For purposes of part I of this subtitle, merchandise shall be treated as the product of the country in which it was manufactured or produced without regard to whether it is imported directly from that country and without regard to whether it is imported in the same condition as when exported from that country or in a changed condition by reason of remanufacture or otherwise.
+&emsp;For purposes of part I of this subtitle, merchandise shall be treated as the product of the country in which it was manufactured or produced without regard to whether it is imported directly from that country and withoutregard to whether it is imported in the same condition as when exported from that country or in a changed condition by reason of remanufacture or otherwise.
 
 #### (13) Repealed. Pub. L. 103–465, title II, §222(i)(2), Dec. 8, 1994, 108 Stat. 4876
 
@@ -632,7 +632,7 @@ For purposes of this subtitle—
 
 #### (E) Collection of information
 
-&emsp;&emsp;Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title.
+&emsp;&emsp;Upon request by the administering authority, the Commissioner of U.S. Customs andBorder Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title.
 
 #### (19) Equivalency of leases to sales
 
@@ -686,7 +686,7 @@ For purposes of this subtitle—
 
 #### (i) Less than 3 percent
 
-&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iv), imports from a country of merchandise corresponding to a domestic like product identified by the Commission are "negligible" if such imports account for less than 3 percent of the volume of all such merchandise imported into the UnitedStates in the most recent 12-month period for which data are available that precedes—
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iv), imports from a country of merchandise corresponding to a domestic like product identified by the Commission are "negligible" if such imports account for less than 3 percent of the volume of all such merchandise imported into the United States in the most recent 12-month period for which data are available that precedes—
 
 &emsp;&emsp;&emsp;&emsp;(I) the filing of the petition under section 1671a(b) or 1673a(b) of this title, or
 
@@ -702,7 +702,7 @@ For purposes of this subtitle—
 
 #### (iv) Negligibility in threat analysis
 
-&emsp;&emsp;&emsp;Notwithstanding clauses (i) and (ii), the Commission shall not treat imports as negligible if it determines that there is a potential that imports from a country described in clause (i) will imminently account for more than 3 percent of the volume of all such merchandise imported into the United States, or that the aggregate volumes of imports from all countries described in clause (ii) will imminently exceed 7 percent of the volume of all such merchandise imported into the United States. The Commission shall consider such imports only for purposes of determining threat of material injury.
+&emsp;&emsp;&emsp;Notwithstanding clauses (i) and (ii), the Commission shall not treat imports as negligible if it determines that there is a potential that imports from a country described in clause (i) will imminently account for more than 3 percent of the volume of all such merchandise imported into the United States, or that the aggregate volumes of imports from all countries described in clause (ii) will imminently exceed 7 percent of the volume of all such merchandise imported into the United States. The Commission shall considersuch imports only for purposes of determining threat of material injury.
 
 #### (B) Negligibility for certain countries in countervailing duty investigations
 
@@ -788,7 +788,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) in making a preliminary determination under section 1673b(a) of this title in an investigation (including any investigation in which the Commission cumulatively assesses the volume and effect of imports under paragraph (7)(G)(i)), the dumping margin or margins published by the administering authority in its notice of initiation of the investigation;
 
-&emsp;&emsp;&emsp;(ii) in making a final determination under section 1673d(b) of this title, the dumping margin or margins most recently published by the administering authority prior to the closing of the Commission's administrative record;
+&emsp;&emsp;&emsp;(ii) in making a final determination under section 1673d(b) of this title, thedumping margin or margins most recently published by the administering authority prior to the closing of the Commission's administrative record;
 
 &emsp;&emsp;&emsp;(iii) in a review under section 1675(b)(2) of this title, the most recent dumping margin or margins determined by the administering authority under section 1675a(c)(3) of this title, if any, or under section 1673b(b) or 1673d(a) of this title; and
 
@@ -824,7 +824,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–27, title V, §§503, 504(a), June 29, 2015, 129 Stat. 384, 385.)
+(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–27, title V, §§503, 504(a), June 29, 2015, 129 Stat. 384, 385; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendment of Section
 
@@ -834,7 +834,7 @@ For purposes of this subtitle—
 
 The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 Section 1303 of this title, referred to in pars. (20)(A), (25), and (26), was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, §261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under section 1303 of this title.
 
@@ -1036,6 +1036,10 @@ Par. (14)(A), (B). Pub. L. 98–573, §612(a)(4), substituted "in commercial qua
 
 Par. (17). Pub. L. 98–573, §612(a)(5), substituted "commercial quantities" for "wholesale quantities".
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in par. (18)(E) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
@@ -1070,7 +1074,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
 

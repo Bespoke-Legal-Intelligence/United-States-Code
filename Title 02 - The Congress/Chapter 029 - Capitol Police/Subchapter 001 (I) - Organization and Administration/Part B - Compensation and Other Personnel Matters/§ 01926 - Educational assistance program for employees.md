@@ -12,7 +12,7 @@ In order to recruit or retain qualified personnel, the Chief of the Capitol Poli
 
 #### (1) Application of regulations under executive branch program
 
-&emsp;In carrying out subsection (a)(1), the Chief of the Capitol Police may, by regulation, makeapplicable such provisions of section 5379 of title 5 as the Chief determines necessary to provide for such program.
+&emsp;In carrying out subsection (a)(1), the Chief of the Capitol Police may, by regulation, make applicable such provisions of section 5379 of title 5 as the Chief determines necessary to provide for such program.
 
 #### (2) Restrictions on prior reimbursements
 

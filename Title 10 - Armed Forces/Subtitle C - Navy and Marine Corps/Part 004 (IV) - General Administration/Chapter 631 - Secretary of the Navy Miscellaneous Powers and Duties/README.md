@@ -56,7 +56,7 @@
 
 <b>1988</b>—Pub. L. 100–370, §1(e)(3)(B), July 19, 1988, 102 Stat. 845, struck out item 7209 "Rewards for recovery of missing naval property".
 
-<b>1984</b>—Pub. L. 98–525, title XIV, §1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out"; transportation of dependents" at end of item 7204 and struck out item 7208 "Latin American cooperation".
+<b>1984</b>—Pub. L. 98–525, title XIV, §1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out "; transportation of dependents" at end of item 7204 and struck out item 7208 "Latin American cooperation".
 
 <b>1982</b>—Pub. L. 97–258, §2(b)(11)(A), Sept. 13, 1982, 96 Stat. 1057, added item 7231.
 

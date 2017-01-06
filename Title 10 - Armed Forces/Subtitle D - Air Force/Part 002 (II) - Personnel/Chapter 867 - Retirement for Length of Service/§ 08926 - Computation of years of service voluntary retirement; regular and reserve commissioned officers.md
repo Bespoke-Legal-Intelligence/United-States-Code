@@ -10,7 +10,7 @@
 
 (c) For the purpose of determining whether a dental officer of the Regular Air Force may be retired under section 8911, 8918, or 8924 of this title, his years of service are computed by adding to his service under subsection (a) all service as a contract dental surgeon or acting dental surgeon.
 
-(d) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
+(d) Section 972(b) of this title excludes from computation of an officer's years of service forpurposes of this section any time identified with respect to that officer under that section.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 552; Pub. L. 86–197, §1(8), Aug. 25, 1959, 73 Stat. 426; Pub. L. 101–189, div. A, title VI, §652(a)(7), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–106, div. A, title V, §561(d)(4)(B), Feb. 10, 1996, 110 Stat. 323.)
 

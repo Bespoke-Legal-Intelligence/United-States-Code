@@ -12,7 +12,7 @@ In this chapter—
 
 #### Effective Date
 
-Chapter effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
 #### Purpose
 
@@ -100,7 +100,7 @@ Definition.—In this clause, the term 'former rate of basic pay' means the rate
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-In general.—If, as a result of conversion to the new salary schedule, the member's former rate of basic pay is greater than the maximum rate of basic pay payable for the rank of the member's position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member's former rate ofbasic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member's position by 50 percent of the dollar amount of each such increase.
+In general.—If, as a result of conversion to the new salary schedule, the member's former rate of basic pay is greater than the maximum rate of basic pay payable for the rank of the member's position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member's former rate of basic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member's position by 50 percent of the dollar amount of each such increase.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 
@@ -112,7 +112,7 @@ Credit for service.—Each member whose position is converted to the salary sche
 
 &emsp;"(3)
 
-Adjustments during transition.—The schedule of rates of basic pay shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under section 5303 of title 5, United States Code, or any other authority, which takes effect during the period beginning on January 1, 2010, through the last day of the last pay period preceding the first pay period which begins after the date of the enactment of this Act. The Secretary of Homeland Security may establish a methodology of schedule adjustment that results in uniform fixed-dollar step increments within any given rank and preserves the established percentage differences among rates of different ranks at the same step position.
+Adjustments during transition.—The schedule of rates of basic pay shall be increased by the percentage of any annual adjustment applicable to the General Schedule authorized under section 5303 of title 5, United States Code, or any other authority, which takes effect during the period beginning on January 1, 2010, through the last day of the last pay period preceding the first pay period which begins after the date of the enactment of this Act. The Secretary of Homeland Security may establish a methodology of schedule adjustment that results in uniform fixed-dollar step increments within any givenrank and preserves the established percentage differences among rates of different ranks at the same step position.
 
 "(b)
 

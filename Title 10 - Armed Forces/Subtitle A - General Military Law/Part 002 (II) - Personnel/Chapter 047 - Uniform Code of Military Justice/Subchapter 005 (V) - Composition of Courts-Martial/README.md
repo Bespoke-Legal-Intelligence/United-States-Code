@@ -10,11 +10,27 @@
 | [825\.](%C2%A7%2000825%20-%20Art.%2025.%20Who%20may%20serve%20on%20courts-martial.md) | 25\. | Who may serve on courts-martial. |
 | [825a.](%C2%A7%2000825a%20-%20Art.%2025a.%20Number%20of%20members%20in%20capital%20cases.md) | 25a. | Number of members in capital cases. |
 | [826\.](%C2%A7%2000826%20-%20Art.%2026.%20Military%20judge%20of%20a%20general%20or%20special%20court-martial.md) | 26\. | Military judge of a general or special court-martial. |
+| [826a.](%C2%A7%2000826a%20-%20Art.%2026a.%20Military%20magistrates.md) | 26a. | Military magistrates. |
 | [827\.](%C2%A7%2000827%20-%20Art.%2027.%20Detail%20of%20trial%20counsel%20and%20defense%20counsel.md) | 27\. | Detail of trial counsel and defense counsel. |
 | [828\.](%C2%A7%2000828%20-%20Art.%2028.%20Detail%20or%20employment%20of%20reporters%20and%20interpreters.md) | 28\. | Detail or employment of reporters and interpreters. |
 | [829\.](%C2%A7%2000829%20-%20Art.%2029.%20Absent%20and%20additional%20members.md) | 29\. | Absent and additional members. |
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–328, div. E, title LXIII, §§5541(2)(A), (C), 5542, Dec. 23, 2016, 130 Stat. 2965, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 825a and 829 and inserting the following new items:</i>
+
+&nbsp;
+
+| Sec. | Art. | &nbsp; |
+| :--- | :---: | ---: |
+| [825\.](%C2%A7%2000825%20-%20Art.%2025.%20Who%20may%20serve%20on%20courts-martial.md) | 25a. | Number of court-martial members in capital cases. |
+| [829\.](%C2%A7%2000829%20-%20Art.%2029.%20Absent%20and%20additional%20members.md) | 29\. | Assembly and impaneling of members; detail of new members and military judges. |
+
+<i>See 2016 Amendment note below.</i>
+
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(2), Dec. 23, 2016, 130 Stat. 2965, added item 825 relating to number of court-martial members in capital cases and item 826a, substituted "Assembly and impaneling of members; detail of new members and military judges" for "Absent and additional members" in item 829, and struck out former item 825a "Art. 25a. Number of members in capital cases".
 
 <b>2001</b>—Pub. L. 107–107, div. A, title V, §582(b)(2), Dec. 28, 2001, 115 Stat. 1124, added item 825a.
 
@@ -31,6 +47,7 @@
 - [&sect; 00825 - Art. 25. Who may serve on courts-martial](%C2%A7%2000825%20-%20Art.%2025.%20Who%20may%20serve%20on%20courts-martial.md)
 - [&sect; 00825a - Art. 25a. Number of members in capital cases](%C2%A7%2000825a%20-%20Art.%2025a.%20Number%20of%20members%20in%20capital%20cases.md)
 - [&sect; 00826 - Art. 26. Military judge of a general or special court-martial](%C2%A7%2000826%20-%20Art.%2026.%20Military%20judge%20of%20a%20general%20or%20special%20court-martial.md)
+- [&sect; 00826a - Art. 26a. Military magistrates](%C2%A7%2000826a%20-%20Art.%2026a.%20Military%20magistrates.md)
 - [&sect; 00827 - Art. 27. Detail of trial counsel and defense counsel](%C2%A7%2000827%20-%20Art.%2027.%20Detail%20of%20trial%20counsel%20and%20defense%20counsel.md)
 - [&sect; 00828 - Art. 28. Detail or employment of reporters and interpreters](%C2%A7%2000828%20-%20Art.%2028.%20Detail%20or%20employment%20of%20reporters%20and%20interpreters.md)
 - [&sect; 00829 - Art. 29. Absent and additional members](%C2%A7%2000829%20-%20Art.%2029.%20Absent%20and%20additional%20members.md)

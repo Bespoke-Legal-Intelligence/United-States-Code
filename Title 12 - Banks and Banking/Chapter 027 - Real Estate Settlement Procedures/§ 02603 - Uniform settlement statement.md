@@ -6,7 +6,7 @@ The Bureau shall publish a single, integrated disclosure for mortgage loan trans
 
 #### (b) Availability for inspection; exceptions
 
-The forms prescribed under this section shall be completed and made available for inspection by the borrower at or before settlement by the person conducting the settlement, except that (1) the Bureau may exempt from the requirements of this section settlements occurring in localities where the final settlement statement is not customarily provided at or before the date of settlement, or settlements where such requirements are impractical and (2) the borrower may, in accordance with regulations of the Bureau, waive his right to have the forms made available at such time. Upon the request of the borrower to inspect the forms prescribed under this section during the business day immediately preceding the day of settlement, the person who will conduct the settlement shall permit the borrower to inspect those items which are known to such person during such preceding day.
+The forms prescribed under this section shall be completed and made available for inspection by the borrower at or before settlement by the person conducting the settlement, except that (1) the Bureau may exempt from the requirements of this section settlements occurring in localities where the final settlement statementis not customarily provided at or before the date of settlement, or settlements where such requirements are impractical and (2) the borrower may, in accordance with regulations of the Bureau, waive his right to have the forms made available at such time. Upon the request of the borrower to inspect the forms prescribed under this section during the business day immediately preceding the day of settlement, the person who will conduct the settlement shall permit the borrower to inspect those items which are known to such person during such preceding day.
 
 #### (c) Disclosure of fees
 
@@ -47,6 +47,10 @@ Amendment by section 1475 of Pub. L. 111–203 effective on the date on which fi
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authorized to suspend for up to 180 days from Jan. 2, 1976, any provision of this section as amended by Pub. L. 94–205, see section 12 of Pub. L. 94–205, set out as a note under section 2602 of this title.
+
+#### Effective Date
+
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

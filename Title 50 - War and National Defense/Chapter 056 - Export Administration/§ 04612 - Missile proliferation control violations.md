@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(i) If the item involved in the export, transfer, or trade is within category II of the MTCR Annex, then the President shall deny, for a period of 2 years, licenses for the transfer to such foreign person of missile equipment or technology the export of which is controlled under this chapter.
 
-&emsp;&emsp;(ii) If the item involved in the export, transfer, or trade is within category I of the MTCR Annex, then the President shall deny, for a period of not less than 2 years, licenses for the transfer to such foreign person of items the export of which is controlled under this chapter.
+&emsp;&emsp;(ii) If the item involved in the export, transfer, or trade is within category I of the MTCR Annex, then the President shall deny, for a period of not less than 2 years, licenses for the transfer to such foreign person ofitems the export of which is controlled under this chapter.
 
 &emsp;&emsp;(iii) If, in addition to actions taken under clauses (i) and (ii), the President determines that the export, transfer, or trade has substantially contributed to the design, development, or production of missiles in a country that is not an MTCR adherent, then the President shall prohibit, for a period of not less than 2 years, the importation into the United States of products produced by that foreign person.
 
@@ -152,5 +152,5 @@ Section was formerly classified to section 2410b of the former Appendix to this 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Commerce, with certain exceptions, bysection 2(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of Title 22, Foreign Relations and Intercourse.
+Functions of President under this section delegated to Secretary of Commerce, with certain exceptions, by section 2(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of Title 22, Foreign Relations and Intercourse.
 

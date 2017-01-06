@@ -1,6 +1,6 @@
 ### §4518a. Limitation on bonuses to executives of Fannie Mae and Freddie Mac
 
-Notwithstanding any other provision in law, senior executives at the Federal National Mortgage Association and the Federal Home LoanMortgage Corporation are prohibited from receiving bonuses during any period of conservatorship for those entities on or after April 4, 2012.
+Notwithstanding any other provision in law, senior executives at the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are prohibited from receiving bonuses during any period of conservatorship for those entities on or after April 4, 2012.
 
 (Pub. L. 112–105, §16, Apr. 4, 2012, 126 Stat. 303.)
 

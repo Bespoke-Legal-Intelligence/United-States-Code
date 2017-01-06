@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 1162(a) of
 
 #### Effective Date
 
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 #### Availability of Transition Assistance Advisors To Assist Members of Reserve Components Who Serve on Active Duty for More Than 180 Consecutive Days
 
@@ -144,7 +144,7 @@ Minimum Requirements for Plan.—The regulations shall include the following:
 
 &emsp;"(2) The giving of a priority to such personnel for transfer among the reserve components of the Armed Forces in order to facilitate reassignment to such units.
 
-&emsp;"(3) A requirement that the Secretaries of the military departments take diligent actions to ensure thatmembers of the reserve components of the Armed Forces are informed in easily understandable terms of the rights and benefits conferred upon such personnel by this subtitle, by the amendments made by this subtitle, and by such regulations.
+&emsp;"(3) A requirement that the Secretaries of the military departments take diligent actions to ensure that members of the reserve components of the Armed Forces are informed in easily understandable terms of the rights and benefits conferred upon such personnel by this subtitle, by the amendments made by this subtitle, and by such regulations.
 
 &emsp;"(4) Such other protections, preferences, and benefits as the Secretary of Defense considers appropriate.
 
@@ -198,7 +198,7 @@ Annual Payment Period.—An annual payment granted to a member under this sectio
 
 "(e)
 
-Computation of Annual Payment.—(1) The annual payment for a member shall be equal to the amount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
+Computation of Annual Payment.—(1) The annual payment for a member shall be equal to theamount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
 
 "(2)(A) Subject to subparagraph (B) the percent applicable to a member for purposes of paragraph (1) is 5 percent plus 0.5 percent for each full year of service, computed under section 12732 of title 10, United States Code, that a member has completed in excess of 20 years before transfer to the Retired Reserve.
 
@@ -234,7 +234,7 @@ Clerical Amendment.—\[Amended analysis of chapter 67 \[now 1223\] of this titl
 
 "(a)
 
-Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
+Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least 6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
 
 "(b)
 

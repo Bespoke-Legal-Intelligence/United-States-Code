@@ -62,7 +62,7 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(C). Pub. L. 110–400, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C)set minimum standards for electronic monitoring units used in the pilot program.
+<b>2008</b>—Subsec. (a)(1)(C). Pub. L. 110–400, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
 
 #### Effective Date of 2008 Amendment
 

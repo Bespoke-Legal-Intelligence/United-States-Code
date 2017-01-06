@@ -2,9 +2,9 @@
 
 #### (a) General rule
 
-(1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) of this section with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
+(1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
 
-(2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensationunder the Program for such injury or death and—
+(2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—
 
 &emsp;(i)(I) the United States Court of Federal Claims has issued a judgment under section 300aa–12 of this title on such petition, and
 
@@ -12,21 +12,21 @@
 
 &emsp;(ii) such person elects to withdraw such petition under section 300aa–21(b) of this title or such petition is considered withdrawn under such section.
 
-(B) If a civil action which is barred under subparagraph (A) is filed in a State or Federal court, the court shall dismiss the action. If a petition is filed under this section with respect to the injury or death for which such civil action was brought, the date such dismissed action was filed shall, for purposes of the limitations of actions prescribed by section 300aa–16 of this title, be considered the date the petition was filed if the petition was filed within one year of the date of the dismissal of the civil action.
+(B) If a civil action which is barred under subparagraph (A) is filed in a State or Federal court, the court shall dismiss the action. If a petition is filed under this section with respect to the injury or death for which such civil action was brought, the date such dismissed action was filed shall, for purposes of the limitations of actions prescribed by section 300aa–16 of this title, be considered the date the petition was filed ifthe petition was filed within one year of the date of the dismissal of the civil action.
 
 (3) No vaccine administrator or manufacturer may be made a party to a civil action (other than a civil action which may be brought under paragraph (2)) for damages for a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988.
 
-(4) If in a civil action brought against a vaccine administrator or manufacturer before October 1, 1988, damages were denied for a vaccine-related injury or death or if such civil action was dismissed with prejudice, the person who brought such action may file a petition under subsection (b) of this section for such injury or death.
+(4) If in a civil action brought against a vaccine administrator or manufacturer before October 1, 1988, damages were denied for a vaccine-related injury or death or if such civil action was dismissed with prejudice, the person who brought such action may file a petition under subsection (b) for such injury or death.
 
-(5)(A) A plaintiff who on October 1, 1988, has pending a civil action for damages for a vaccine-related injury or death may, at any time within 2 years after October 1, 1988, or before judgment, whichever occurs first, petition to have such action dismissed without prejudice or costs and file a petition under subsection (b) of this section for such injury or death.
+(5)(A) A plaintiff who on October 1, 1988, has pending a civil action for damages for a vaccine-related injury or death may, at any time within 2 years after October 1, 1988, or before judgment, whichever occurs first, petition to have such action dismissed without prejudice or costs and file a petition under subsection (b) for such injury or death.
 
-(B) If a plaintiff has pending a civil action for damages for a vaccine-related injury or death, such person may not file a petition under subsection (b) of this section for such injury or death.
+(B) If a plaintiff has pending a civil action for damages for a vaccine-related injury or death, such person may not file a petition under subsection (b) for such injury or death.
 
-(6) If a person brings a civil action after November 15, 1988 for damages for a vaccine-related injury or death associated with the administration of a vaccine before November 15, 1988, such person may not file a petition under subsection (b) of this section for such injury or death.
+(6) If a person brings a civil action after November 15, 1988 for damages for a vaccine-related injury or death associated with the administration of a vaccine before November 15, 1988, such person may not file a petition under subsection (b) for such injury or death.
 
-(7) If in a civil action brought against a vaccine administrator or manufacturer for a vaccine-related injury or death damages are awarded under a judgment of a court or a settlement of such action, the person who brought such action may not file a petition under subsection (b) of this section for such injury or death.
+(7) If in a civil action brought against a vaccine administrator or manufacturer for a vaccine-related injury or death damages are awarded under a judgment of a court or a settlement of such action, the person who brought such action may not file a petition under subsection (b) for such injury or death.
 
-(8) If on October 1, 1988, there was pending an appeal or rehearing with respect to a civil action brought against a vaccine administrator or manufacturer and if the outcome of the last appellate review of such action or the last rehearing of such action is the denial of damages for a vaccine-related injury or death, the person who brought such action may file a petition under subsection (b) of this section for such injury or death.
+(8) If on October 1, 1988, there was pending an appeal or rehearing with respect to a civil action brought against a vaccine administrator or manufacturer and if the outcome of the last appellate review of such action or the last rehearing of such action is the denial of damages for a vaccine-related injury or death, the person who brought such action may file a petition under subsection (b) for such injury or death.
 
 (9) This subsection applies only to a person who has sustained a vaccine-related injury or death and who is qualified to file a petition for compensation under the Program.
 
@@ -34,11 +34,11 @@
 
 #### (b) Petitioners
 
-(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if the person meets the requirements of subsection (c)(1) of this section, file a petition for compensation under the Program.
+(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if the person meets the requirements of subsection (c)(1), file a petition for compensation under the Program.
 
 (B) No person may file a petition for a vaccine-related injury or death associated with a vaccine administered before October 1, 1988, if compensation has been paid under this part for 3500 petitions for such injuries or deaths.
 
-(2) Only one petition may be filed with respect to each administration of a vaccine.
+(2) Only one petition may be filed with respect to each administration of a vaccine. A covered vaccine administered to a pregnant woman shall constitute more than one administration, one to the mother and one to each child (as such term is defined in subsection (f)(2)) who was in utero at the time such woman was administered the vaccine.
 
 #### (c) Petition content
 
@@ -80,7 +80,17 @@ A petition may also include other available relevant medical records relating to
 
 The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition assessments, evaluations, and prognoses and such other records and documents as are reasonably necessary for the determination of the amount of compensation to be paid to, or on behalf of, the person who suffered such injury or who died from the administration of the vaccine.
 
-(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151.)
+#### (f) Maternal immunization
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, for purposes of this subpart, both a woman who received a covered vaccine while pregnant and any child who was in utero at the time such woman received the vaccine shall be considered persons to whom the covered vaccine was administered and persons who received the covered vaccine.
+
+#### (2) Definition
+
+&emsp;As used in this subsection, the term "child" shall have the meaning given that term by subsections (a) and (b) of section 8 of title 1 except that, for purposes of this subsection, such section 8 shall be applied as if the term "include" in subsection (a) of such section were replaced with the term "mean".
+
+(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151; Pub. L. 114–255, div. A, title III, §3093(c)(2), (3), Dec. 13, 2016, 130 Stat. 1152.)
 
 #### Codification
 
@@ -93,6 +103,10 @@ A prior section 300aa–11, act July 1, 1944, §2112, was successively renumbere
 A prior section 2111 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–255, §3093(c)(3), inserted at end "A covered vaccine administered to a pregnant woman shall constitute more than one administration, one to the mother and one to each child (as such term is defined in subsection (f)(2)) who was in utero at the time such woman was administered the vaccine."
+
+Subsec. (f). Pub. L. 114–255, §3093(c)(2), added subsec. (f).
 
 <b>2000</b>—Subsec. (c)(1)(D)(iii). Pub. L. 106–310 added cl. (iii).
 
@@ -120,7 +134,7 @@ Subsec. (d). Pub. L. 101–502, §5(a)(4), struck out "(d) except as provided in
 
 Subsec. (e). Pub. L. 101–502, §5(a)(5), substituted "(e) Schedule" for "(e)(e) Schedule".
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6601(c)(1), substituted "filing of a petition containing the matter prescribed in subsection (c) of this section" for "filing of a petition" and inserted at end "The clerk of the United States Claims Court shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title."
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6601(c)(1), substituted "filing of a petition containing the matter prescribed in subsection (c)" for "filing of a petition" and inserted at end "The clerk of the United States Claims Court shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title."
 
 Subsec. (a)(2)(A)(i). Pub. L. 101–239, §6601(c)(2), struck out "under subsection (b) of this section" after "section 300aa–16 of this title,".
 
@@ -174,7 +188,7 @@ Subsec. (a)(7). Pub. L. 100–203, §4306, substituted "vaccine administrator or
 
 Subsec. (a)(8). Pub. L. 100–203, §4304(a), added par. (8).
 
-Subsec. (b)(1)(A). Pub. L. 100–203, §4304(b)(1), substituted "may, if the person meets the requirements of subsection (c)(1) of this section, file" for "may file".
+Subsec. (b)(1)(A). Pub. L. 100–203, §4304(b)(1), substituted "may, if the person meets the requirements of subsection (c)(1), file" for "may file".
 
 Subsec. (b)(1)(B). Pub. L. 100–203, §4302(b)(1), substituted "effective date of this subpart" for "effective date of this part".
 
@@ -206,7 +220,7 @@ Pub. L. 101–502, §5(h), Nov. 3, 1990, 104 Stat. 1289, provided that: "The ame
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiaryrecord is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 <i><sup>2</sup></i><i> See Change of Name note below.</i>
 

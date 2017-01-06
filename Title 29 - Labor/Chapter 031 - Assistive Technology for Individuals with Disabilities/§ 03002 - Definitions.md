@@ -54,7 +54,7 @@ In this chapter:
 
 #### (7) Comprehensive statewide program of technology-related assistance
 
-&emsp;The term "comprehensive statewide program of technology-related assistance" meansa consumer-responsive program of technology-related assistance for individuals with disabilities, implemented by a State, and equally available to all individuals with disabilities residing in the State, regardless of their type of disability, age, income level, or location of residence in the State, or the type of assistive technology device or assistive technology service required.
+&emsp;The term "comprehensive statewide program of technology-related assistance" means a consumer-responsive program of technology-related assistance for individuals with disabilities, implemented by a State, and equally available to all individuals with disabilities residing in the State, regardless of their type of disability, age, income level, or location of residence in the State, or the type of assistive technology device or assistive technology service required.
 
 #### (8) Consumer-responsive
 

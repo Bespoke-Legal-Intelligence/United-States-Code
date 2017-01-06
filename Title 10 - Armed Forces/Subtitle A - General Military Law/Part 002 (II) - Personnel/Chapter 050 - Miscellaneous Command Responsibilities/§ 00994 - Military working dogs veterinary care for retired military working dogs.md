@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense may establish and maintain a system to providefor the veterinary care of retired military working dogs. No funds may be provided by the Federal Government for this purpose.
+In General.—The Secretary of Defense may establish and maintain a system to provide for the veterinary care of retired military working dogs. No funds may be provided by the Federal Government for this purpose.
 
 (b)
 

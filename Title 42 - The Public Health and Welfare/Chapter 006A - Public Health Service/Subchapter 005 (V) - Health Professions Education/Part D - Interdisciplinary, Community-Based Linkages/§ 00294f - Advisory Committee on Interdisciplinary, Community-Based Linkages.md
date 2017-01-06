@@ -8,11 +8,11 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (1) In general
 
-&emsp;The Secretary shall determine the appropriate number of individuals to serve on the Advisory Committee. Such individuals shall not be officers or employees of the Federal Government.
+&emsp;The Secretary shall determine the appropriate number of individuals to serve on theAdvisory Committee. Such individuals shall not be officers or employees of the Federal Government.
 
 #### (2) Appointment
 
-&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections294a(b)(1)(A), 294c(b), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
+&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections 294a(b)(1)(A), 294c(b), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
 
 #### (3) Minority representation
 
@@ -86,13 +86,13 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 
-Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D of title VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
+Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D oftitle VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
 
 November 13, 1998, referred to in subsec. (b)(2), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct. 12, 1976, Pub. L. 94–484, title IV,§401(b)(3), 90 Stat. 2262; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(10), 91 Stat. 1506; Nov. 6, 1978, Pub. L. 95–598, title III, §327, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2730, 95 Stat. 919; July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(C)(ii), 102 Stat. 781; Nov. 4, 1988, Pub. L. 100–607, title VI, §602(h)–(k), 102 Stat. 3123; Aug. 16, 1989, Pub. L. 101–93, §7, 103 Stat. 615, related to procedures upon default by borrower under student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292f of this title.
+A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2262; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(10), 91 Stat. 1506; Nov. 6, 1978, Pub. L. 95–598, title III, §327, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2730, 95 Stat. 919; July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(C)(ii), 102 Stat. 781; Nov. 4, 1988, Pub. L. 100–607, title VI, §602(h)–(k), 102 Stat. 3123; Aug. 16, 1989, Pub. L. 101–93, §7, 103 Stat. 615, related to procedures upon default by borrower under student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292f of this title.
 
 Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as added Aug. 16, 1968, Pub. L. 90–490, title I, §121(e), 82 Stat. 778; amended Nov. 18, 1971, Pub. L. 92–157, title I, §§105(f)(2), 106(b)(5), 85 Stat. 451, 453, provided for transfer of funds to scholarships in relation to loans to students studying in United States, prior to repeal by Pub. L. 94–484, title IV, §406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
 

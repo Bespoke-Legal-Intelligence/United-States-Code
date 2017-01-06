@@ -1,6 +1,6 @@
 ### §6974. United States Naval Academy Museum Fund: references to Fund
 
-Any reference in a law, regulation, document, paper, or other record of the United States to the United States Naval Academy Museum Fund formerly maintained under this section shall be deemed to refer to the United States Naval Academy Gift and Museum Fund maintained under section 6973 of this title.
+Any reference in a law, regulation, document, paper, or other record of the United States to the United States Naval Academy Museum Fund formerly maintained under this section shall be deemed to refer to the United States NavalAcademy Gift and Museum Fund maintained under section 6973 of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 436; Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(d)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–242.)
 

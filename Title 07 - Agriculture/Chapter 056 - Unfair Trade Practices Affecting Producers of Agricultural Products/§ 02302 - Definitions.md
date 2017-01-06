@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;The term "producer" means a person engaged in the production of agricultural products as a farmer, planter, rancher, dairyman, fruit, vegetable, or nut grower.
 
-(Pub. L. 90–288, §3, Apr. 16, 1968, 82 Stat. 94; Pub. L. 110–234, title XI, §11003, May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, §4(a), title XI, §11003, June 18, 2008, 122 Stat. 1664, 2116.)
+(Pub. L. 90–288, §3, Apr. 16, 1968, 82 Stat. 94; Pub. L. 110–234, title XI, §11003, May 22, 2008, 122 Stat.1354; Pub. L. 110–246, §4(a), title XI, §11003, June 18, 2008, 122 Stat. 1664, 2116.)
 
 #### Codification
 

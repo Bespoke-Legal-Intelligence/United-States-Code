@@ -62,7 +62,7 @@ Scope of Section.—This section does not—
 
 (f)
 
-Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—While section 4712 of this title is in effect, this section shall not be in effect.
+Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—While section 4712 <sup>1</sup> of this title is in effect, this section shall not be in effect.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3796; Pub. L. 112–239, div. A, title VIII, §828(c), Jan. 2, 2013, 126 Stat. 1841.)
 
@@ -104,7 +104,11 @@ In subsection (d)(2), the word "contractor" is substituted for "person" for clar
 
 The Inspector General Act of 1978, referred to in subsec. (a)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+Section 4712 of this title, referred to in subsec. (f), formerly referred to a pilot program in the section catchline and contained a subsec. (i) which provided that section 4712 would be in effect for a specified four-year period. The section catchline was amended and subsec. (i) was struck out by Pub. L. 114–261, §1(a)(3)(A), Dec. 14, 2016, 130 Stat. 1362.
+
 #### Amendments
 
 <b>2013</b>—Subsec. (f). Pub. L. 112–239 added subsec. (f).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

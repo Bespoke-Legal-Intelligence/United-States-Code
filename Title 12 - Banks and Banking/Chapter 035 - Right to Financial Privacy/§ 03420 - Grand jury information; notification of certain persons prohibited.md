@@ -1,6 +1,6 @@
 ### §3420. Grand jury information; notification of certain persons prohibited
 
-(a) Financial records about a customer obtained from a financial institution pursuant to a subpena issued under the authority of a Federal grand jury—
+(a) Financial records about a customer obtained from a financial institution pursuant to asubpena issued under the authority of a Federal grand jury—
 
 &emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; <sup>1</sup>
 
@@ -43,6 +43,10 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

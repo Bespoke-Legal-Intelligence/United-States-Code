@@ -42,9 +42,11 @@ To carry out subsection (b), the TPCC shall develop and implement a governmentwi
 
 &emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
 
-&emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
+&emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data;
 
-&emsp;(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
+&emsp;(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC; and
+
+&emsp;(7) in coordination with State trade promotion agencies, include a survey and analysis regarding the overall effectiveness of Federal-State coordination and export promotion goals on an annual basis, to further include best practices, recommendations to better assist small businesses, and other relevant matters.
 
 #### (d) Membership
 
@@ -78,29 +80,41 @@ To carry out subsection (b), the TPCC shall develop and implement a governmentwi
 
 &emsp;&emsp;(M) at the discretion of the President, such other departments or agencies as may be necessary.
 
-#### (2) Chairperson
+#### (2) Representatives from State trade promotion agencies
+
+&emsp;The TPCC shall also include 1 or more members appointed by the President who are representatives of State trade promotion agencies.
+
+#### (3) Chairperson
 
 &emsp;The Secretary of Commerce shall serve as the chairperson of the TPCC.
 
 #### (e) Member qualifications
 
-Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
+Members of the TPCC (other than members described in subsection (d)(2)) shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
 
 #### (f) Report to Congress
 
 The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
-&emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan, and any revisions thereto; and
+&emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
 
-&emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
+&emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for exportpromotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199;amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, §505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180.)
 
 #### References in Text
 
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(7). Pub. L. 114–125, §505(e)(1), added par. (7).
+
+Subsec. (d)(2), (3). Pub. L. 114–125, §505(a)(1), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e). Pub. L. 114–125, §505(a)(2), inserted "(other than members described in subsection (d)(2))" after "Members of the TPCC".
+
+Subsec. (f)(1). Pub. L. 114–125, §505(e)(2), inserted "(including implementation of the survey and analysis described in paragraph (7) of that subsection)" after "the implementation of such plan".
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–158 substituted "March 30 of each year," for "September 30, 1995, and annually thereafter," in introductory provisions.
 
@@ -111,6 +125,14 @@ Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the o
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Availability of State Resources Guides on Export.gov
+
+Pub. L. 114–125, title V, §504(c), Feb. 24, 2016, 130 Stat. 179, provided that: "The Secretary of Commerce shall make available on the Internet website Export.gov (or a successor website) information on the resources relating to export promotion and export financing available in each State—
+
+&emsp;"(1) organized by State; and
+
+&emsp;"(2) including information on State agencies with responsibility for export promotion or export financing and district export councils and trade associations located in the State."
 
 #### Ex. Ord. No. 12870. Trade Promotion Coordinating Committee
 
@@ -196,7 +218,7 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 
 (a) establish a set of priorities for Federal activities in support of U.S. exports and explain the rationale for the priorities;
 
-(b) review current Federal programs designed to promote the sale of U.S. exports in light of the priorities established under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
+(b) review current Federal programs designed to promote the sale of U.S. exports in light of the prioritiesestablished under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
 
 (c) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
@@ -362,15 +384,15 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13675. Establishing the President's Advisory Council on Doing Business in Africa
 
-Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, provided:
+Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, as amended by Ex. Ord. No. 13734, §2, Aug. 3, 2016, 81 F.R. 52321, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote broad-based economic growth and job creation in the United States and Africa by encouraging U.S. companies to trade with and invest in Africa, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States recognizes that Africa is a region of growing economic opportunity and innovation and aims to expand a trade and investment partnership that is grounded in shared interests and mutual responsibility. Africa offers a diverse and broad range of trade and investment opportunities in national and regional markets. The U.S. Government will encourage U.S. companies to seize the trade and investment opportunities offered by Africa's national and regional markets and help drive inclusive and sustainedeconomic growth and the region's economic expansion, while also creating jobs here in the United States.
+Section 1. <i>Policy</i>. The United States recognizes that Africa is a region of growing economic opportunity and innovation and aims to expand a trade and investment partnership that is grounded in shared interests and mutual responsibility. Africa offers a diverse and broad range of trade and investment opportunities in national and regional markets. The U.S. Government will encourage U.S. companies to seize the trade and investment opportunities offered by Africa's national and regional markets and help drive inclusive and sustained economic growth and the region's economic expansion, while also creating jobs here in the United States.
 
 Sec. 2. <i>Establishment</i>. Not later than 180 days after the date of this order, the Secretary of Commerce shall establish the President's Advisory Council on Doing Business in Africa (Advisory Council).
 
-Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 15 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods, banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
+Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 26 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods, banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
 
 (b) Members of the Advisory Council shall be appointed by the Secretary of Commerce, in consultation with the Trade Promotion Coordinating Committee (TPCC), which was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993.
 
@@ -432,7 +454,7 @@ Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Winning the future and creating an economy that's built to last will require the Federal Government to wisely allocate scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. Creating good, high-paying jobs in the United States and ensuring sustainable economic growth are the top priorities of my Administration. To accomplish these goals, we must ensure that U.S. businesses increase their exports of goods, services, and agricultural products, and that foreign companies recognize the United States as an attractive place to invest and to open businesses. While this growth will be fueled by the private sector, the Federal Government must do its part to facilitate trade and investment.
+Winning the future and creating an economy that's built to last will require the Federal Government towisely allocate scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. Creating good, high-paying jobs in the United States and ensuring sustainable economic growth are the top priorities of my Administration. To accomplish these goals, we must ensure that U.S. businesses increase their exports of goods, services, and agricultural products, and that foreign companies recognize the United States as an attractive place to invest and to open businesses. While this growth will be fueled by the private sector, the Federal Government must do its part to facilitate trade and investment.
 
 Executive Order 13534 of March 11, 2010, established the Export Promotion Cabinet to coordinate the development and implementation of the National Export Initiative (NEI) to improve conditions that directly affect the private sector's ability to export and to help meet my Administration's goal of doubling exports over 5 years. Pursuant to the terms of the Executive Order, the Export Promotion Cabinet conducts its work in coordination with the Trade Promotion Coordinating Committee (TPCC). The TPCC, chaired by the Secretary of Commerce, was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993. The NEI has used Government resources and policies to increase exports at a pace consistent with the goal of doubling exports by the end of 2014. The NEI has accomplished this by opening up foreign markets for U.S. exports, enhancing enforcement of our trade laws, providing needed export financing, advocating on behalf of U.S. firms, and otherwise facilitating U.S. exports. But we must do more.
 

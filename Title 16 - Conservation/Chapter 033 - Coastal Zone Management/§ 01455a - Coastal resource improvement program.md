@@ -16,7 +16,7 @@ For purposes of this section—
 
 The Secretary may make grants to any eligible coastal state to assist that state in meeting one or more of the following objectives:
 
-&emsp;(1) The preservation or restoration of specific areas of the state that (A) are designated under the management program procedures required by section 1455(d)(9) of this title because of their conservation recreational, ecological, or esthetic values, or (B) contain oneor more coastal resources of national significance, or for the purpose of restoring and enhancing shellfish production by the purchase and distribution of clutch material on publicly owned reef tracts.
+&emsp;(1) The preservation or restoration of specific areas of the state that (A) are designated under the management program procedures required by section 1455(d)(9) of this title because of their conservation recreational, ecological, or esthetic values, or (B) contain one or more coastal resources of national significance, or for the purpose of restoring and enhancing shellfish production by the purchase and distribution of clutch material on publicly owned reef tracts.
 
 &emsp;(2) The redevelopment of deteriorating and underutilized urban waterfronts and ports that are designated in the state's management program pursuant to section 1455(d)(2)(C) of this title as areas of particular concern.
 

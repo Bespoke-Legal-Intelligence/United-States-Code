@@ -36,7 +36,7 @@ Applications for a court order under this subchapter are authorized if the Presi
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
-The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motionof the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
+The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
 
 #### (d) Court of review; record; transmittal to Supreme Court
 
@@ -96,7 +96,7 @@ Sec. 3. Pursuant to section 303(a)(6) of the Act, the following officials, each 
 
 &emsp;(i) Deputy Director of the Federal Bureau of Investigation.
 
-> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
+> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to makethe above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraphs (A) through (D)".</i>
 

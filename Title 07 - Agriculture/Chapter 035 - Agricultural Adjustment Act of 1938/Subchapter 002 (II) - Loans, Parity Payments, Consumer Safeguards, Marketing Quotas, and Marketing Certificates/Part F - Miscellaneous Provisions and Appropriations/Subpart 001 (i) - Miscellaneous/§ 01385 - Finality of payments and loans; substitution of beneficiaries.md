@@ -44,7 +44,7 @@ Pub. L. 94–214, title III, §302, Feb. 16, 1976, 90 Stat. 187, provided that t
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Pub. L. 91–524, title IV, §404, title VI, §605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
+Pub. L. 91–524, title IV, §404, title VI, §605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86,§1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
 #### Effective Date of 1962 Amendment
 

@@ -24,3 +24,23 @@ The Secretary, in the exercise of this regulatory authority, shall establish pro
 
 (Pub. L. 92–340, §12, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1477.)
 
+#### Safety Zones for Permitted Marine Events
+
+Pub. L. 114–120, title III, §305, Feb. 8, 2016, 130 Stat. 54, provided that: "Not later than 6 months after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish and implement a process to—
+
+&emsp;"(1) account for the number of safety zones established for permitted marine events;
+
+&emsp;"(2) differentiate whether the event sponsor who requested a permit for such an event is—
+
+&emsp;&emsp;"(A) an individual;
+
+&emsp;&emsp;"(B) an organization; or
+
+&emsp;&emsp;"(C) a government entity; and
+
+&emsp;"(3) account for Coast Guard resources utilized to enforce safety zones established for permitted marine events, including for—
+
+&emsp;&emsp;"(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and
+
+&emsp;&emsp;"(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required."
+

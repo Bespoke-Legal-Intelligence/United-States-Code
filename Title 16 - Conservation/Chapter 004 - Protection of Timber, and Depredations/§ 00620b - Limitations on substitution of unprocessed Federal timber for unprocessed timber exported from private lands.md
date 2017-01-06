@@ -58,7 +58,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (1) In general
 
-&emsp;The prohibitions contained in subsections (a) and (b) shall not apply with respect to the acquisition of unprocessed timber originating from Federal lands within a sourcing area west of the 100th meridian in the contiguous 48 States approved by the Secretary concerned under this subsection by a person who—
+&emsp;The prohibitions contained in subsections (a) and (b) shall not apply with respect to theacquisition of unprocessed timber originating from Federal lands within a sourcing area west of the 100th meridian in the contiguous 48 States approved by the Secretary concerned under this subsection by a person who—
 
 &emsp;&emsp;(A) in the previous 24 months, has not exported unprocessed timber originating from private lands within the sourcing area; and
 
@@ -84,7 +84,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (B) For timber manufacturing facilities located in Idaho
 
-&emsp;&emsp;Except as provided in subparagraph (D), in making a determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and theprivate and Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the private and Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such private and Federal timber sourcing patterns.
+&emsp;&emsp;Except as provided in subparagraph (D), in making a determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the private and Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the private and Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such private and Federal timber sourcing patterns.
 
 #### (C) For timber manufacturing facilities located in States other than Idaho
 
@@ -138,7 +138,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (B) Transition
 
-&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997,that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
+&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997, that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) that portion shall continue to be a sourcing area only until unprocessed Federal timber from the portion is no longer in the possession of the sourcing area holder; and
 

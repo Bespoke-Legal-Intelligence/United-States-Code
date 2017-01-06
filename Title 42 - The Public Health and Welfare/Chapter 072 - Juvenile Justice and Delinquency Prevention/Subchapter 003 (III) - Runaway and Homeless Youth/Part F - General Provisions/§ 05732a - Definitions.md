@@ -42,9 +42,9 @@ In this subchapter:
 
 &emsp;&emsp;(A) who is—
 
-&emsp;&emsp;&emsp;(i) less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A of this subchapter, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving <sup>1</sup> facilities; and
+&emsp;&emsp;&emsp;(i) less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving <sup>1</sup> facilities; and
 
-&emsp;&emsp;&emsp;(ii) for the purposes of part B of this subchapter, not less than 16 years of age and either—
+&emsp;&emsp;&emsp;(ii) for the purposes of part B, not less than 16 years of age and either—
 
 &emsp;&emsp;&emsp;&emsp;(I) less than 22 years of age; or
 
@@ -116,7 +116,7 @@ In this subchapter:
 
 #### Amendments
 
-<b>2008</b>—Par. (3). Pub. L. 110–378, §10(a)(1), substituted "The term 'homeless', used with respect to a youth,means" for "The term 'homeless youth' means" in introductory provisions.
+<b>2008</b>—Par. (3). Pub. L. 110–378, §10(a)(1), substituted "The term 'homeless', used with respect to a youth, means" for "The term 'homeless youth' means" in introductory provisions.
 
 Par. (3)(A)(i). Pub. L. 110–378, §10(a)(2)(A), substituted "less than" for "not more than" in two places and inserted ", or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities" after "18 years of age".
 
@@ -124,7 +124,7 @@ Par. (3)(A)(ii). Pub. L. 110–378, §10(a)(2)(B), substituted "age and either�
 
 Pars. (4) to (8). Pub. L. 110–378, §10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-<b>2003</b>—Subsec. (3)(A)(i). Pub. L. 108–96 inserted ", or, in the case of a youth seeking shelter in a center under part A of this subchapter, not more than 18 years of age" after "of age".
+<b>2003</b>—Subsec. (3)(A)(i). Pub. L. 108–96 inserted ", or, in the case of a youth seeking shelter in a center under part A, not more than 18 years of age" after "of age".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

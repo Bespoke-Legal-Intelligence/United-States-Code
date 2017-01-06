@@ -40,7 +40,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (4) Multiple containers
 
-&emsp;If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipmentconsists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
+&emsp;If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipment consists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
 
 #### (e) Assessment of penalties
 
@@ -50,7 +50,7 @@ Whoever is found to have violated subsection (b) of this section shall be liable
 
 (1) Any cargo that is not properly documented pursuant to this section and has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal operator shall be subject to search, seizure, and forfeiture.
 
-(2) The shipper of any such cargo is liable to the marine terminal operator and to the ocean carrier for demurrage and other applicable charges for any undocumented cargo which has been notified to or searched or seized by the Customs Service for the entire period the cargo remains under the order and direction of the Customs Service. Unless the cargo is seized by the Customs Service and forfeited, the marine terminal operator and the ocean carrier shall have a lien on the cargo for the amount of the demurrage and other charges.
+(2) The shipper of any such cargo is liable to the marine terminal operator and to the ocean carrier for demurrage and other applicable charges for any undocumented cargo which has been notified to or searched or seized by the Customs Service for the entire period the cargo remains under the order and direction of the Customs Service. Unless the cargo is seized bythe Customs Service and forfeited, the marine terminal operator and the ocean carrier shall have a lien on the cargo for the amount of the demurrage and other charges.
 
 #### (g) Effect on other provisions
 
@@ -72,5 +72,5 @@ Section applicable to petitions for certification filed under part 2 or 3 of sub
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

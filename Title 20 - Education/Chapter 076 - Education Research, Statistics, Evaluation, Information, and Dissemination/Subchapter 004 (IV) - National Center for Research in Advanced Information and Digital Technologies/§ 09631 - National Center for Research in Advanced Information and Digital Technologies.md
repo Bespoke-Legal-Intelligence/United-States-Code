@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established, during the first fiscal year for which appropriations are made available under subsection (c), a nonprofit corporation to be known as the National Center for Research in Advanced Information and DigitalTechnologies, which shall not be an agency or establishment of the Federal Government. The Center shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act (sec. 29–501 et seq., D.C. Official Code).
+There shall be established, during the first fiscal year for which appropriations are made available under subsection (c), a nonprofit corporation to be known as the National Center for Research in Advanced Information and Digital Technologies, which shall not be an agency or establishment of the Federal Government. The Center shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act (sec. 29–501 et seq., D.C. Official Code).
 
 #### (b) Purpose
 
@@ -110,7 +110,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;&emsp;The Director may waive the requirements of clause (i) with respect to a project funded by a grant or contract under this section if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Director and the Board (by a unanimous vote of the Board members) determine that the general public will benefit significantly due to the project not being freely and nonexclusively available to the general public in a timely manner; and
+&emsp;&emsp;&emsp;&emsp;(I) the Director and the Board (by a unanimous vote of the Board members)determine that the general public will benefit significantly due to the project not being freely and nonexclusively available to the general public in a timely manner; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Board issues a public statement as to the specific reasons of the determination under subclause (I).
 

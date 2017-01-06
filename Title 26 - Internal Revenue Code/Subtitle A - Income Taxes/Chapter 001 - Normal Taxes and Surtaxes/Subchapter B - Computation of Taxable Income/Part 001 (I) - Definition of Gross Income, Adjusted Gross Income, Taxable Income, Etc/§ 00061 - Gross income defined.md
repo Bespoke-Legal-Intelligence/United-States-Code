@@ -2,7 +2,7 @@
 
 #### (a) General definition
 
-Except as otherwise provided in this subtitle, gross income means all income from whatever source derived, including (but not limited to) the following items:
+Except as otherwise provided in this subtitle, gross income means all income from whateversource derived, including (but not limited to) the following items:
 
 &emsp;(1) Compensation for services, including fees, commissions, fringe benefits, and similar items;
 
@@ -76,7 +76,7 @@ Pub. L. 98–369, div. A, title X, §1026, July 18, 1984, 98 Stat. 1031, as amen
 
 "(a)
 
-In General.—In the case of any transfer of property subject to gift tax made before March 4, 1981, forpurposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 1 et seq.\], gross income of the donor shall not include any amount attributable to the donee's payment of (or agreement to pay) any gift tax imposed with respect to such gift.
+In General.—In the case of any transfer of property subject to gift tax made before March 4, 1981, for purposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 1 et seq.\], gross income of the donor shall not include any amount attributable to the donee's payment of (or agreement to pay) any gift tax imposed with respect to such gift.
 
 "(b)
 
@@ -252,7 +252,7 @@ Regulations To Be Prospective Only.—Any regulations issued after the date of t
 
 "(c)
 
-Prepublication Expenditures Defined.—For purposes of this section, the term 'prepublication expenditures' means expenditures paid or incurred by the taxpayer (in connection with his trade or business of publishing) for the writing, editing, compiling, illustrating, designing, or other development or improvement of a book, teaching aid, or similar product."
+Prepublication Expenditures Defined.—For purposes of this section, the term 'prepublication expenditures' means expenditures paid or incurred by thetaxpayer (in connection with his trade or business of publishing) for the writing, editing, compiling, illustrating, designing, or other development or improvement of a book, teaching aid, or similar product."
 
 #### Reimbursement of Moving Expenses of Employees of Certain Corporations Excluded From Gross Income; Claim for Refund or Credit; Limitations; Interest
 

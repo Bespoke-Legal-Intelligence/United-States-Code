@@ -44,7 +44,7 @@ Not later than 90 days after August 10, 1988, the Secretary shall, in accordance
 
 #### (e) Village site conveyance
 
-The Secretary may convey to the Corporation all right, title, and interest of the United States to the surface estate of the traditional Aleut village site on Attu Island, Alaska (consisting of approximately 10 acres) and to the surface estate of a parcel of land consisting of all land outside such village that is within 660 feet of any point on the boundary of such village. The conveyance may be made under the authority contained in section 1613(h)(1) of title 43, except that after August 10, 1988, no site on Attu Island, Alaska, other than such traditional Aleut village site and such parcel of land, may be conveyed to the Corporation under such section 1613(h)(1).
+The Secretary may convey to the Corporation all right, title, and interest of the United Statesto the surface estate of the traditional Aleut village site on Attu Island, Alaska (consisting of approximately 10 acres) and to the surface estate of a parcel of land consisting of all land outside such village that is within 660 feet of any point on the boundary of such village. The conveyance may be made under the authority contained in section 1613(h)(1) of title 43, except that after August 10, 1988, no site on Attu Island, Alaska, other than such traditional Aleut village site and such parcel of land, may be conveyed to the Corporation under such section 1613(h)(1).
 
 #### (f) Authorization of appropriations
 
@@ -54,7 +54,7 @@ There are authorized to be appropriated $15,000,000 to the Secretary to carry ou
 
 #### References in Text
 
-Section 1132(c) of title 16, referred to in subsec. (a), was in the original "section (3)(c) of the Wilderness Act\(78 Stat. 892; 16 U.S.C. 1132(c))" and was translated as meaning section 3(c) of Pub. L. 88–577 to reflect the probable intent of Congress.
+Section 1132(c) of title 16, referred to in subsec. (a), was in the original "section (3)(c) of the Wilderness Act (78 Stat. 892; 16 U.S.C. 1132(c))" and was translated as meaning section 3(c) of Pub. L. 88–577 to reflect the probable intent of Congress.
 
 Section 702(1) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (a), is section 702(1) of Pub. L. 96–487, title VII, Dec. 2, 1980, 94 Stat. 2417, which is listed in a table of wilderness areas set out under section 1132 of Title 16, Conservation.
 

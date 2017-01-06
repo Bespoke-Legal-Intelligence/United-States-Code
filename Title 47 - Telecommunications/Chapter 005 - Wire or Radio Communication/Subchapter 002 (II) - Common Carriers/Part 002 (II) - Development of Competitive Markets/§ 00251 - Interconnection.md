@@ -34,11 +34,11 @@ Each local exchange carrier has the following duties:
 
 #### (c) Additional obligations of incumbent local exchange carriers
 
-In addition to the duties contained in subsection (b) of this section, each incumbent local exchange carrier has the following duties:
+In addition to the duties contained in subsection (b), each incumbent local exchange carrier has the following duties:
 
 #### (1) Duty to negotiate
 
-&emsp;The duty to negotiate in good faith in accordance with section 252 of this title the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) of this section and this subsection. The requesting telecommunications carrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
+&emsp;The duty to negotiate in good faith in accordance with section 252 of this title the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) and this subsection. The requesting telecommunications carrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
 
 #### (2) Interconnection
 
@@ -80,7 +80,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (2) Access standards
 
-&emsp;In determining what network elements should be made available for purposes of subsection (c)(3) of this section, the Commission shall consider, at a minimum, whether—
+&emsp;In determining what network elements should be made available for purposes of subsection (c)(3), the Commission shall consider, at a minimum, whether—
 
 &emsp;&emsp;(A) access to such network elements as are proprietary in nature is necessary; and
 
@@ -104,7 +104,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (2) Costs
 
-&emsp;The cost of establishing telecommunications numbering administration arrangements andnumber portability shall be borne by all telecommunications carriers on a competitively neutral basis as determined by the Commission.
+&emsp;The cost of establishing telecommunications numbering administration arrangements and number portability shall be borne by all telecommunications carriers on a competitively neutral basis as determined by the Commission.
 
 #### (3) Universal emergency telephone number
 
@@ -124,11 +124,11 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (C) Limitation on exemption
 
-&emsp;&emsp;The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) of this section from a cable operator providing video programming, and seeking to provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
+&emsp;&emsp;The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) from a cable operator providing video programming, and seeking to provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
 
 #### (2) Suspensions and modifications for rural carriers
 
-&emsp;A local exchange carrier with fewer than 2 percent of the Nation's subscriber lines installed in the aggregate nationwide may petition a State commission for a suspension or modification of the application of a requirement or requirements of subsection (b) or (c) of this section to telephone exchange service facilities specified in such petition. The State commission shall grant such petition to the extent that, and for such duration as, the State commission determines that such suspension or modification—
+&emsp;A local exchange carrier with fewer than 2 percent of the Nation's subscriber lines installed in the aggregate nationwide may petition a State commission for a suspension or modification of the application of a requirement or requirements of subsection (b) or (c) to telephone exchange service facilities specified in such petition. The State commission shall grant such petition to the extent that, and for such duration as, the State commission determines that such suspension or modification—
 
 &emsp;&emsp;(A) is necessary—
 
@@ -160,7 +160,7 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 
 #### (2) Treatment of comparable carriers as incumbents
 
-&emsp;The Commission may, by rule, provide for the treatment of a local exchange carrier (or class or category thereof) as an incumbent local exchange carrier for purposes of this section if—
+&emsp;The Commission may, by rule, provide for the treatment of a local exchange carrier (orclass or category thereof) as an incumbent local exchange carrier for purposes of this section if—
 
 &emsp;&emsp;(A) such carrier occupies a position in the market for telephone exchange service within an area that is comparable to the position occupied by a carrier described in paragraph (1);
 

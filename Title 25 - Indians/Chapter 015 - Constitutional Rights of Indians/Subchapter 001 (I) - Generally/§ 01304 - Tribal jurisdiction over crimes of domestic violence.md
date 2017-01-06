@@ -44,7 +44,7 @@ In this section:
 
 #### (2) Concurrent jurisdiction
 
-&emsp;The exercise of special domestic violence criminal jurisdiction by a participating tribe shall be concurrent with the jurisdiction of the United States, of a State, or of both.
+&emsp;The exercise of special domestic violence criminal jurisdiction by a participating tribeshall be concurrent with the jurisdiction of the United States, of a State, or of both.
 
 #### (3) Applicability
 

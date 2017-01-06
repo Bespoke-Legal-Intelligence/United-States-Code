@@ -98,7 +98,7 @@ Pub. L. 106–117, title V, §502(c), Nov. 30, 1999, 113 Stat. 1574, provided th
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title VIII, §8004(b), Nov. 5, 1990, 104 Stat. 1388–343, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments."
+Pub. L. 101–508, title VIII, §8004(b), Nov. 5, 1990, 104 Stat. 1388–343, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments."
 
 #### Effective Date of 1974 Amendment
 

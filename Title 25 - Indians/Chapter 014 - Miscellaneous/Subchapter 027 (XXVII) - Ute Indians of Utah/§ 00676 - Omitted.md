@@ -1,0 +1,6 @@
+### §676. Omitted
+
+#### Codification
+
+Section, act June 28, 1954, ch. 405, 68 Stat. 300, which related to use of funds of the Southern Ute Tribe of Southern Ute Reservation for expenditure and per capita payments and regulations applicable to loans, was omitted from the Code as being of special and not general application.
+

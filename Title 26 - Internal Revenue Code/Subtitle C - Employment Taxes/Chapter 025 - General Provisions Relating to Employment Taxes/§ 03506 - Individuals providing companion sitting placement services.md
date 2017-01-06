@@ -20,5 +20,5 @@ Pub. L. 95–171, §10(c), Nov. 12, 1977, 91 Stat. 1356, provided that: "The ame
 
 #### Unemployment Compensation or Social Security Benefits Based on Services Performed Before November 12, 1977, Unaffected
 
-Pub. L. 95–171, §10(d), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendments made by this section \[enacting this section\] shall not be construed as affecting (1) any individual's right to receive unemployment compensation based on services performed before thedate of the enactment of this Act \[Nov. 12, 1977\], or (2) any individual's eligibility for social security benefits to the extent based on services performed before that date."
+Pub. L. 95–171, §10(d), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendments made by this section \[enacting this section\] shall not be construed as affecting (1) any individual's right to receive unemployment compensation based on services performed before the date of the enactment of this Act \[Nov. 12, 1977\], or (2) any individual's eligibility for social security benefits to the extent based on services performed before that date."
 

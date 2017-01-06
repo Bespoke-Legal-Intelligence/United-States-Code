@@ -22,7 +22,7 @@
 
 #### (A) Parents
 
-&emsp;&emsp;Not less than 20 percent of the members shall be parents of infants or toddlers withdisabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
+&emsp;&emsp;Not less than 20 percent of the members shall be parents of infants or toddlers with disabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
 
 #### (B) Service providers
 
@@ -82,7 +82,7 @@ The council shall meet, at a minimum, on a quarterly basis, and in such places a
 
 #### (d) Management authority
 
-Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearings and forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
+Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearingsand forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
 
 #### (e) Functions of council
 

@@ -22,7 +22,7 @@ Amounts from an allocation from the Operating Fund under section 1437g of this t
 
 #### (f) Use of proceeds from sales to eligible families
 
-The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additionalhomeownership opportunities, and other activities approved by the Secretary.
+The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary.
 
 #### (g) Restrictions on resale by homeowners
 
@@ -70,17 +70,17 @@ Not more than an aggregate of $250,000 from amounts made available under section
 
 #### (j) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are consistent with the public housing program and that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. Therecipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are consistent with the public housing program and that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (k) Capability of resident management corporations and resident councils
 
-To be eligible to receive a grant under section 1437aaa–2 of this title, a resident management corporation or resident council shall demonstrate to the Secretary its ability to manage public housing by having done so effectively and efficiently for a period of not less than 3 years or by arranging for management by a qualified management entity.
+To be eligible to receive a grant under section 1437aaa–2 of this title, a resident management corporation or resident council shall demonstrate to the Secretary its ability to managepublic housing by having done so effectively and efficiently for a period of not less than 3 years or by arranging for management by a qualified management entity.
 
 #### (l) Records and audit of recipients of assistance
 
 #### (1) In general
 
-&emsp;Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this subchapter (and any proceeds from financing obtained in accordance with subsection (b) of this section or sales under subsections (f) and (g)(4) of this section), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
+&emsp;Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this subchapter (and any proceeds from financing obtained in accordance with subsection (b) or sales under subsections (f) and (g)(4)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
 
 #### (2) Access by the Secretary
 

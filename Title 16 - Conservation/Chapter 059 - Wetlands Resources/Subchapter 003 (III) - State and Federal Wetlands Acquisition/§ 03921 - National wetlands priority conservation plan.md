@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary shall establish, and periodically review and revise, a national wetlands priorityconservation plan which shall specify, on a region-by-region basis or other basis considered appropriate by the Secretary, the types of wetlands and interests in wetlands which should be given priority with respect to Federal and State acquisition.
+The Secretary shall establish, and periodically review and revise, a national wetlands priority conservation plan which shall specify, on a region-by-region basis or other basis considered appropriate by the Secretary, the types of wetlands and interests in wetlands which should be given priority with respect to Federal and State acquisition.
 
 #### (b) Consultation
 
-The Secretary shall establish the plan required by subsection (a) of this section after consultation with—
+The Secretary shall establish the plan required by subsection (a) after consultation with—
 
 &emsp;(1) the Administrator of the Environmental Protection Agency;
 
@@ -18,7 +18,7 @@ The Secretary shall establish the plan required by subsection (a) of this sectio
 
 #### (c) Factors to be considered
 
-The Secretary, in establishing the plan required by subsection (a) of this section, shall consider—
+The Secretary, in establishing the plan required by subsection (a), shall consider—
 
 &emsp;(1) the estimated proportion remaining of the respective types of wetlands which existed at the time of European settlement;
 

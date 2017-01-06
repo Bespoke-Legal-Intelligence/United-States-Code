@@ -29,17 +29,9 @@
 
 #### Part C—Federal Work-Study Programs
 
-|  |  |
-| :--- | ---: |
-| [2751\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002751%20-%20Purpose%3B%20appropriations%20authorized.md) | Purpose; appropriations authorized. |
-| [2752\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002752%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
-| [2753\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002753%20-%20Grants%20for%20Federal%20work-study%20programs.md) | Grants for Federal work-study programs. |
-| [2754\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002754%20-%20Sources%20of%20matching%20funds.md) | Sources of matching funds. |
-| [2755\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002755%20-%20Flexible%20use%20of%20funds.md) | Flexible use of funds. |
-| [2756\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756%20-%20Job%20location%20and%20development%20programs.md) | Job location and development programs. |
-| [2756a.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756a%20-%20Additional%20funds%20to%20conduct%20community%20service%20work-study%20programs.md) | Additional funds to conduct community service work-study programs. |
-| [2756b.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756b%20-%20Work%20colleges.md) | Work colleges. |
-| [2757\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002757%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93575%2C%20title%20I%2C%20%C2%A7131%28a%29%2C%20Oct.%2016%2C%201968%2C%2082%20Stat.%201028.md) | Repealed. |
+|  |
+| :--- |
+| 2751 to 2757. Transferred or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -66,7 +66,7 @@ The Director shall conduct a national youth anti-drug media campaign (referred t
 
 &emsp;&emsp;&emsp;&emsp;(IV) other relevant studies or publications, as determined by the Director, including tracking and evaluation data collected according to marketing and advertising industry standards; and
 
-&emsp;&emsp;&emsp;(ii) ensure that the effectiveness of the national media campaign is evaluated in a manner that enables consideration of whether the national media campaign has contributed to reduction of illicit drug use among youth and such other measures of evaluation as the Director determines are appropriate.
+&emsp;&emsp;&emsp;(ii) ensure that the effectiveness of the national media campaign is evaluated in a manner that enables consideration of whether the national media campaign has contributed to reduction of illicit drug useamong youth and such other measures of evaluation as the Director determines are appropriate.
 
 #### (3) Purchase of advertising time and space
 
@@ -140,7 +140,7 @@ None of the amounts made available under subsection (b) may be obligated or expe
 
 #### (1) In general
 
-&emsp;Amounts made available under subsection (b) for media time and space shall be matched by an equal amount of non-Federal funds for the national media campaign, or be matched with in-kind contributions of the same value.
+&emsp;Amounts made available under subsection (b) for media time and space shall be matched by an equal amount of non-Federal funds forthe national media campaign, or be matched with in-kind contributions of the same value.
 
 #### (2) No-cost match advertising direct relationship requirement
 

@@ -14,11 +14,11 @@ Grant Authority.—Subject to the requirements of this section, the Under Secret
 
 (b)
 
-Applications.—A sponsor seeking a grant under this section shall submit to the Under Secretary an application in such form and containing such information as the Under Secretary prescribes.
+Applications.—A sponsor seeking a grant under this section shall submit to the UnderSecretary an application in such form and containing such information as the Under Secretary prescribes.
 
 (c)
 
-Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the UnderSecretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
+Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the Under Secretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
 
 (d)
 

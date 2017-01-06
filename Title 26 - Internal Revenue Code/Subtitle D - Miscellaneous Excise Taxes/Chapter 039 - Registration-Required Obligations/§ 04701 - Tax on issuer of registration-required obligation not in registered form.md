@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;An obligation is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person,
+&emsp;&emsp;&emsp;(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection withthe original issue) only to a person who is not a United States person,
 
 &emsp;&emsp;&emsp;(ii) interest on such obligation is payable only outside the United States and its possessions, and
 

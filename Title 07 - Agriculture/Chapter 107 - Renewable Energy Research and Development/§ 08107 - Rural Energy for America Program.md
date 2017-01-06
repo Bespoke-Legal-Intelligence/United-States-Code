@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energy for America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—
+The Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energyfor America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—
 
 &emsp;(1) grants for energy audits and renewable energy development assistance; and
 
@@ -118,7 +118,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (B) Tier 1
 
-&emsp;&emsp;The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is not more than $80,000.
+&emsp;&emsp;The Secretary shall establish a separate application process for projects for whichthe cost of the activity funded under this subsection is not more than $80,000.
 
 #### (C) Tier 2
 
@@ -209,4 +209,8 @@ Subsec. (g)(3). Pub. L. 113–79, §9007(b)(2), substituted "$20,000,000 for eac
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

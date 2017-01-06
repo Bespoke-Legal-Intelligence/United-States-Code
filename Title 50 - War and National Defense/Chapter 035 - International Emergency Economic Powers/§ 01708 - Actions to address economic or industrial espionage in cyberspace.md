@@ -118,7 +118,7 @@ In this section:
 
 #### (7) Proprietary information
 
-&emsp;The term "proprietary information" means competitive bid preparations, negotiating strategies, executive emails, internal financial data, strategic business plans, technical designs, manufacturing processes, source code, data derived from research and developmentinvestments, and other commercially valuable information that a person has developed or obtained if—
+&emsp;The term "proprietary information" means competitive bid preparations, negotiating strategies, executive emails, internal financial data, strategic business plans, technical designs, manufacturing processes, source code, data derived from research and development investments, and other commercially valuable information that a person has developed or obtained if—
 
 &emsp;&emsp;(A) the person has taken reasonable measures to keep the information confidential; and
 

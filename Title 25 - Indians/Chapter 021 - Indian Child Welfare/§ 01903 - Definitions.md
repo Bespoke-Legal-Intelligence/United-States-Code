@@ -18,7 +18,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
 
 &emsp;(3) "Indian" means any person who is a member of an Indian tribe, or who is an Alaska Native and a member of a Regional Corporation as defined in 1606 of title 43;
 
-&emsp;(4) "Indian child" means any unmarried person who is under age eighteen and is either (a) a member of an Indian tribe or (b) is eligible for membership in an Indian tribe and is the biological child of a member of an Indian tribe;
+&emsp;(4) "Indian child" means any unmarried person who is under age eighteen and is either (a) a member of an Indian tribe or (b) is eligible for membership in an Indian tribe and is thebiological child of a member of an Indian tribe;
 
 &emsp;(5) "Indian child's tribe" means (a) the Indian tribe in which an Indian child is a member or eligible for membership or (b), in the case of an Indian child who is a member of or eligible for membership in more than one tribe, the Indian tribe with which the Indian child has the more significant contacts;
 

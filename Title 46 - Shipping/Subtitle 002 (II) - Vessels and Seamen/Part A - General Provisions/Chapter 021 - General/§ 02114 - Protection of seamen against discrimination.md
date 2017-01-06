@@ -12,7 +12,7 @@
 
 &emsp;(E) the seaman cooperated with a safety investigation by the Secretary or the National Transportation Safety Board;
 
-&emsp;(F) the seaman furnished information to the Secretary, the National Transportation SafetyBoard, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
+&emsp;(F) the seaman furnished information to the Secretary, the National Transportation Safety Board, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
 
 &emsp;(G) the seaman accurately reported hours of duty under this part.
 
@@ -44,7 +44,7 @@ Subsec. (b)(3), (4). Pub. L. 107–295, §428(b), added pars. (3) and (4).
 
 #### Savings Provision
 
-Pub. L. 111–281, title VI, §611(b), Oct. 15, 2010, 124 Stat. 2970, provided that: "This section \[amending this section\] shall not affect the application of section 2114(b) of title 46, United States Code, as in effect before the date of enactment of this Act \[Oct. 15, 2010\], to an action filed under that section before that date."
+Pub. L. 111–281, title VI, §611(b), Oct. 15, 2010, 124 Stat. 2970, provided that: "This section \[amending this section\] shall not affect the application of section 2114(b)of title 46, United States Code, as in effect before the date of enactment of this Act \[Oct. 15, 2010\], to an action filed under that section before that date."
 
 #### Transfer of Functions
 

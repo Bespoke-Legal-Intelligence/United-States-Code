@@ -29,7 +29,7 @@ Pub. L. 110–343, div. C, title VIII, §801(c), Oct. 3, 2008, 122 Stat. 3931, a
 
 <b>1988</b>—Pub. L. 100–647, title V, §5076(b)(2), Nov. 10, 1988, 102 Stat. 3683, struck out "of real property" after "rules for nondealers" in item 453A.
 
-<b>1987</b>—Pub. L. 100–203, title X, §10202(a)(2), (c)(2), Dec. 22, 1987, 101 Stat. 1330–388, 1330-392, substituted "Special rules for nondealers of real property" for "Installment method for dealers in personal property" in item 453A, and struck out item 453C "Certain indebtedness treated as payments on installment obligations".
+<b>1987</b>—Pub. L. 100–203, title X, §10202(a)(2), (c)(2), Dec. 22, 1987, 101 Stat. 1330–388, 1330–392, substituted "Special rules for nondealers of real property" for "Installment method for dealers in personal property" in item 453A, and struck out item 453C "Certain indebtedness treated as payments on installment obligations".
 
 <b>1986</b>—Pub. L. 99–514, title XI, §1107(b), (c), Oct. 22, 1986, 101 Stat. 2430, added item 457, applicable to taxable years beginning after Dec. 31, 1988, with certain exceptions, and struck out former item 457 "Deferred compensation plans with respect to service for State and local governments".
 

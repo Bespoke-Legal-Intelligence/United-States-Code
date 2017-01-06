@@ -64,7 +64,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;(7) the compensation and other payments made during the year to each individual described in paragraph (6),
 
-&emsp;(8) in the case of an organization with respect to which an election under section 501(h) is effective for the taxable year, the following amounts for such organization for such taxable year:
+&emsp;(8) in the case of an organization with respect to which an election under section 501(h)is effective for the taxable year, the following amounts for such organization for such taxable year:
 
 &emsp;&emsp;(A) the lobbying expenditures (as defined in section 4911(c)(1)),
 
@@ -108,7 +108,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(A) a description of how the organization is addressing the needs identified in each community health needs assessment conducted under section 501(r)(3) and a description of any such needs that are not being addressed together with the reasons why such needs are not being addressed, and
 
-&emsp;&emsp;(B) the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financialstatement with other organizations, such consolidated financial statement).<sup>1</sup>
+&emsp;&emsp;(B) the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement).<sup>1</sup>
 
 &emsp;(16) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 
@@ -216,7 +216,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 &emsp;Political organizations described in paragraph (1) shall file an annual return—
 
-&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretary considers appropriate to require only information which is necessary for the purposes of carrying out section 527, and
+&emsp;&emsp;(A) containing the information required, and complying with the other requirements, under subsection (a)(1) for organizations exempt from taxation under section 501(a), with such modifications as the Secretaryconsiders appropriate to require only information which is necessary for the purposes of carrying out section 527, and
 
 &emsp;&emsp;(B) containing such other information as the Secretary deems necessary to carry out the provisions of this subsection.
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 114–113 applicable to organizations which are described i
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years beginning after Mar. 23, 2010,see section 9007(f)(1) of Pub. L. 111–148, set out as a note under section 501 of this title.
+Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years beginning after Mar. 23, 2010, see section 9007(f)(1) of Pub. L. 111–148, set out as a note under section 501 of this title.
 
 #### Effective Date of 2008 Amendment
 

@@ -54,7 +54,7 @@ May 21, 1970, Pub. L. 91–258, §53(a)–(d), 84 Stat. 236.
 
 May 21, 1970, Pub. L. 91–258, 84 Stat. 219, §53(e); added Oct. 22, 1986, Pub. L. 99–514, §1893(f), 100 Stat. 2930.
 
-In subsection (a)(1), the word "passengers" is substituted for "persons" for consistency in the revisedtitle and with other titles of the United States Code. The word "hire" is omitted as being included in "compensation". In clause (B)(ii), the words "fishing or fish processing operations" are substituted for "fishing operations or in processing of fish or fish products" to eliminate unnecessary words.
+In subsection (a)(1), the word "passengers" is substituted for "persons" for consistency in the revised title and with other titles of the United States Code. The word "hire" is omitted as being included in "compensation". In clause (B)(ii), the words "fishing or fish processing operations" are substituted for "fishing operations or in processing of fish or fish products" to eliminate unnecessary words.
 
 In subsection (a)(2), the words "or any other provisions of law" are omitted as unnecessary. The words "on or after July 1, 1970" are omitted as executed. The words "upon the request of such owner, operator, or agent" are omitted as unnecessary. The words "from 5 p.m. through 8 a.m." are substituted for "at any time after 5 o'clock postmeridian or before 8 o'clock antemeridian" to eliminate unnecessary words. The words "Notwithstanding any other provision of law" are omitted as unnecessary because of the restatement. The words "the owner, operator, or agent does not have to pay" are substituted for "no payment shall be required" for clarity. The words "from 5 p.m. through 8 a.m." after "the services" are added for clarity. The words "an officer or employee on regular duty" are substituted for "an officer or employee stationed on his regular tour of duty" to eliminate unnecessary words.
 
@@ -62,7 +62,7 @@ In subsection (b)(1), the words "related to the aircraft" are substituted for "a
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

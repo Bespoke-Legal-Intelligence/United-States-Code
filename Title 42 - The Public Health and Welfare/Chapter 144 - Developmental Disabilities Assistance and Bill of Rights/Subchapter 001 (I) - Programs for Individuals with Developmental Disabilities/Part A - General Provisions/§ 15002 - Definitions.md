@@ -32,11 +32,11 @@ In this subchapter:
 
 #### (5) Center
 
-&emsp;The term "Center" means a University Center for Excellence in Developmental Disabilities Education, Research, and Service established under part D of this subchapter.
+&emsp;The term "Center" means a University Center for Excellence in Developmental Disabilities Education, Research, and Service established under part D.
 
 #### (6) Child care-related activities
 
-&emsp;The term "child care-related activities" means advocacy, capacity building, and systemic change activities that result in families of children with developmental disabilitieshaving access to and use of child care services, including before-school, after-school, and out-of-school services, in their communities.
+&emsp;The term "child care-related activities" means advocacy, capacity building, and systemic change activities that result in families of children with developmental disabilities having access to and use of child care services, including before-school, after-school, and out-of-school services, in their communities.
 
 #### (7) Culturally competent
 
@@ -118,7 +118,7 @@ In this subchapter:
 
 #### (15) Inclusion
 
-&emsp;The term "inclusion", used with respect to individuals with developmental disabilities, means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enablesindividuals with developmental disabilities to—
+&emsp;The term "inclusion", used with respect to individuals with developmental disabilities, means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enables individuals with developmental disabilities to—
 
 &emsp;&emsp;(A) have friendships and relationships with individuals and families of their own choice;
 
@@ -208,7 +208,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) will not be subject to the inappropriate use of restraints or seclusion; or
 
-&emsp;&emsp;(C) include activities related to interagency coordination and systems integration that result in improved and enhanced services, supports, and other assistance thatcontribute to and protect the self-determination, independence, productivity, and integration and inclusion in all facets of community life, of individuals with developmental disabilities.
+&emsp;&emsp;(C) include activities related to interagency coordination and systems integration that result in improved and enhanced services, supports, and other assistance that contribute to and protect the self-determination, independence, productivity, and integration and inclusion in all facets of community life, of individuals with developmental disabilities.
 
 #### (24) Recreation-related activities
 

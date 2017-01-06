@@ -118,7 +118,7 @@ The Director shall determine the capital classification of the regulated entitie
 
 Notwithstanding any other provision of this section, during the period beginning on October 28, 1992, and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) <sup>1</sup> of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title.
 
-(Pub. L. 102–550, title XIII, §1364, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I,§§1142(a), 1161(a)(3), July 30, 2008, 122 Stat. 2730, 2779.)
+(Pub. L. 102–550, title XIII, §1364, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, §§1142(a), 1161(a)(3), July 30, 2008, 122 Stat. 2730, 2779.)
 
 #### References in Text
 

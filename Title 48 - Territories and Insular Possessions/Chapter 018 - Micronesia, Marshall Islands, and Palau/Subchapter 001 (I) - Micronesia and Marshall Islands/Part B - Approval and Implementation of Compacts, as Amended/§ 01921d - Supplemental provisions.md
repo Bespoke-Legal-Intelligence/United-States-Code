@@ -14,7 +14,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
-(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and anyorder or directive of the President in effect from time to time.
+(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
 
 (6)
 
@@ -92,7 +92,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (1) Federated States of Micronesia and Republic of the Marshall Islands
 
-&emsp;In addition to the programs and services set forth in section 221 of the Compact, and pursuant to section 222 of the Compact, the programs and services of the following agencies shall be made available to the Federated States of Micronesia and to the Republic of the Marshall Islands:
+&emsp;In addition to the programs and services set forth in section 221 of the Compact, and pursuant to section 222 of the Compact, the programs and services of the following agencies shall be made available to the FederatedStates of Micronesia and to the Republic of the Marshall Islands:
 
 #### (A) Emergency and disaster assistance
 
@@ -120,7 +120,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iii) Supplemental education grants
 
-&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), titles I \[29 U.S.C. 3111 et seq.\] (other than subtitle C \[29 U.S.C. 3191 et seq.\]) and II \[29 U.S.C. 3271 et seq.\] of the Workforce Innovation and Opportunity Act, title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
+&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), titles I \[29 U.S.C. 3111 et seq.\] (other than subtitle C \[29 U.S.C. 3191 et seq.\]) and II \[29 U.S.C. 3271 et seq.\] of the Workforce Innovation and Opportunity Act, title I of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.),<sup>1</sup> there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
 &emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
@@ -150,7 +150,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (ix) Applicability
 
-&emsp;&emsp;&emsp;The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009,<sup>1</sup> to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
+&emsp;&emsp;&emsp;The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009,<sup>2</sup> to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
 
 &emsp;&emsp;(C) The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
 
@@ -178,7 +178,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (1) In general
 
-&emsp;In addition to amounts provided under section 211(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact, the Secretary of the Interior shall annually provide $300,000 for the training of judges and officials of the judiciary in the Federated States of Micronesia and the Republic of the Marshall Islands in cooperation with the Pacific Islands Committee of the Ninth Circuit Judicial Council and in accordance with and to the extent provided in the Federal Programs and Services Agreement and the Fiscal Procedure Agreement, as appropriate.
+&emsp;In addition to amounts provided under section 211(a)(4) of the U.S.-FSM Compact and theU.S.-RMI Compact, the Secretary of the Interior shall annually provide $300,000 for the training of judges and officials of the judiciary in the Federated States of Micronesia and the Republic of the Marshall Islands in cooperation with the Pacific Islands Committee of the Ninth Circuit Judicial Council and in accordance with and to the extent provided in the Federal Programs and Services Agreement and the Fiscal Procedure Agreement, as appropriate.
 
 #### (2) Authorization and continuing appropriation
 
@@ -220,7 +220,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 &emsp;&emsp;(A) creating a new legal entity to constitute the trust fund; or
 
-&emsp;&emsp;(B) assuming control of an existing legal entity including, without limitation, a trust fund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
+&emsp;&emsp;(B) assuming control of an existing legal entity including, without limitation, a trustfund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
 
 #### (3) Obligations
 
@@ -238,13 +238,13 @@ This joint resolution, referred to in subsecs. (a), (b)(10), and (f)(2), is Pub.
 
 Section 3927 of title 22, referred to in subsec. (b)(5), was in the original "section 207 of the Foreign Service Act", and was translated as meaning section 207 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
 
-Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, as amended, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
-The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B)(ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B)(ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (f)(1)(B)(ii)(II), (iii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Subpart 3 of part A of title IV of the Act is classified generally to subpart 3 (§1070b et seq.) of part A of subchapter IV of chapter 28 of Title 20. Part C of title IV of the Act is classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f)(1)(B)(ii)(II), (iii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Subpart 3 of part A of title IV of the Act is classified generally to subpart 3 (§1070b et seq.) of part A of subchapter IV of chapter 28 of Title 20. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -296,5 +296,7 @@ Pub. L. 112–74, div. F, title III, §306, Dec. 23, 2011, 125 Stat. 1099, provi
 
 Pub. L. 111–117, div. D, title III, §309, Dec. 16, 2009, 123 Stat. 3272, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2010' for '2009'."
 
-<i><sup>1</sup></i><i> See Continued Applicability of Subsection (f)(1)(B)(ix) notes below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Continued Applicability of Subsection (f)(1)(B)(ix) notes below.</i>
 

@@ -8,7 +8,7 @@
 
 #### (2) Nonapplicability
 
-&emsp;Notwithstanding this part, a facility that provides inpatient psychiatric treatment services for individuals under the age of 21, as authorized and defined in subsections (a)(16) and (h) of section 1905 of the Social Security Act \[42 U.S.C. 1396d\], shall comply with the requirements of part H of this subchapter.
+&emsp;Notwithstanding this part, a facility that provides inpatient psychiatric treatment services for individuals under the age of 21, as authorized and defined in subsections (a)(16) and (h) of section 1905 of the Social Security Act \[42 U.S.C. 1396d\], shall comply with the requirements of part H.
 
 #### (3) Applicability of Medicaid provisions
 
@@ -18,11 +18,11 @@
 
 #### (1) In general
 
-&emsp;Physical restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) of this section if—
+&emsp;Physical restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) if—
 
 &emsp;&emsp;(A) the restraints or seclusion are imposed only in emergency circumstances and only to ensure the immediate physical safety of the resident, a staff member, or others and less restrictive interventions have been determined to be ineffective; and
 
-&emsp;&emsp;(B) the restraints or seclusion are imposed only by an individual trained and certified, by a State-recognized body (as defined in regulation promulgated by the Secretary) and pursuant to a process determined appropriate by the State and approved by the Secretary, in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint and seclusion, de-escalation methods, avoiding power struggles, thresholds for restraints and seclusion, the physiological and psychological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits, the process for obtaining approval for continued restraints,procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints.
+&emsp;&emsp;(B) the restraints or seclusion are imposed only by an individual trained and certified, by a State-recognized body (as defined in regulation promulgated by the Secretary) and pursuant to a process determined appropriate by the State and approved by the Secretary, in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint and seclusion, de-escalation methods, avoiding power struggles, thresholds for restraints and seclusion, the physiological and psychological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits, the process for obtaining approval for continued restraints, procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints.
 
 #### (2) Interim procedures relating to training and certification
 
@@ -38,21 +38,21 @@
 
 &emsp;&emsp;&emsp;(ii) ensure that the assessment required under clause (i) take place as soon as practicable, but in no case later than 1 hour after the initiation of the restraint or seclusion; and
 
-&emsp;&emsp;&emsp;(iii) ensure that the supervisory or senior staff person continues to monitor the situation for the duration of the restraint and seclusion.
+&emsp;&emsp;&emsp;(iii) ensure that the supervisory or senior staff person continues to monitor thesituation for the duration of the restraint and seclusion.
 
 #### (3) Limitations
 
 #### (A) In general
 
-&emsp;&emsp;The use of a drug or medication that is used as a restraint to control behavior or restrict the resident's freedom of movement that is not a standard treatment for the resident's medical or psychiatric condition in nonmedical community-based facilities for children and youth described in subsection (a)(1) of this section is prohibited.
+&emsp;&emsp;The use of a drug or medication that is used as a restraint to control behavior or restrict the resident's freedom of movement that is not a standard treatment for the resident's medical or psychiatric condition in nonmedical community-based facilities for children and youth described in subsection (a)(1) is prohibited.
 
 #### (B) Prohibition
 
-&emsp;&emsp;The use of mechanical restraints in non-medical, community-based facilities for children and youth described in subsection (a)(1) of this section is prohibited.
+&emsp;&emsp;The use of mechanical restraints in non-medical, community-based facilities for children and youth described in subsection (a)(1) is prohibited.
 
 #### (C) Limitation
 
-&emsp;&emsp;A non-medical, community-based facility for children and youth described in subsection (a)(1) of this section may only use seclusion when a staff member is continuously face-to-face monitoring the resident and when strong licensing or accreditation and internal controls are in place.
+&emsp;&emsp;A non-medical, community-based facility for children and youth described in subsection (a)(1) may only use seclusion when a staff member is continuously face-to-face monitoring the resident and when strong licensing or accreditation and internal controls are in place.
 
 #### (c) Rule of construction
 

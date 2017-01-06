@@ -14,7 +14,7 @@ Preservation of Wages and Benefits Due Under Predecessor Contracts.—
 
 &emsp;(1)
 
-In general.—Under a contract which succeeds a contract subject to this chapter, and under which substantially the same services are furnished, a contractor or subcontractor may not pay a service employee less than the wages and fringe benefits the service employeewould have received under the predecessor contract, including accrued wages and fringe benefits and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm's-length negotiations.
+In general.—Under a contract which succeeds a contract subject to this chapter, and under which substantially the same services are furnished, a contractor or subcontractor may not pay a service employee less than the wages and fringe benefits the service employee would have received under the predecessor contract, including accrued wages and fringe benefits and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm's-length negotiations.
 
 &emsp;(2)
 

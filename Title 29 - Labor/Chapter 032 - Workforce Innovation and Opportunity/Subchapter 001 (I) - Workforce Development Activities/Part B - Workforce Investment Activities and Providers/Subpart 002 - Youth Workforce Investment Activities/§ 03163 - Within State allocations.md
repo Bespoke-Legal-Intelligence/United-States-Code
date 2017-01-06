@@ -14,7 +14,7 @@
 
 #### (1) Methods
 
-&emsp;The Governor, acting in accordance with the State plan, and after consulting with chief elected officials and local boards in the local areas, shall allocate the funds that are allotted to the State for youth activities and statewide workforce investment activities under section 3162(b)(1)(C) of this title and are not reserved under subsection (a), in accordance with paragraph (2) or (3).
+&emsp;The Governor, acting in accordance with the State plan, and after consulting with chiefelected officials and local boards in the local areas, shall allocate the funds that are allotted to the State for youth activities and statewide workforce investment activities under section 3162(b)(1)(C) of this title and are not reserved under subsection (a), in accordance with paragraph (2) or (3).
 
 #### (2) Formula allocation
 
@@ -86,7 +86,7 @@
 
 #### (3) Reallocation
 
-&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount of the local allocation for the program year for which the determination is made, as compared to the total amount of the local allocations for all eligible local areas in the State for such program year.
+&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount of the local allocation for the program year for which the determination is made, ascompared to the total amount of the local allocations for all eligible local areas in the State for such program year.
 
 #### (4) Eligibility
 

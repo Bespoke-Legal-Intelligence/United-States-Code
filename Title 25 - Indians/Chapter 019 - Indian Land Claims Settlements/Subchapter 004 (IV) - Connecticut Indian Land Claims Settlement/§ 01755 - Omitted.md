@@ -1,0 +1,6 @@
+### §1755. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–134, §6, Oct. 18, 1983, 97 Stat. 855, which related to State jurisdiction over the reservation, was omitted from the Code as being of special and not general application.
+

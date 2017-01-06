@@ -30,7 +30,7 @@ The standards used to determine whether this section has been violated in a comp
 
 Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Subsec. (f)(1). Pub. L. 98–221, §104(b)(3)(F), substituted "Secretary of Educ
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raisedin any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of this title.
+Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -178,7 +178,7 @@ Sec. 2. The Interagency Committee on Handicapped Employees shall also be referre
 
 #### Executive Order No. 12640
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R.4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
 #### Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government
 
@@ -238,7 +238,7 @@ Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Pr
 
 &emsp;(10) Encourage the use of informal dispute resolution processes to allow individuals with disabilities to obtain prompt reconsideration of denials of reasonable accommodation. Agencies must also inform individuals with disabilities that they have the right to file complaints in the Equal Employment Opportunity process and other statutory processes, as appropriate, if their requests for reasonable accommodation are denied.
 
-Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commission (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
+Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commis</i><i>sion (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
 
 Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agencies must honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
 

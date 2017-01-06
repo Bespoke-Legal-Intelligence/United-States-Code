@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under this section with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b) of this section).
+(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under this section with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b)).
 
 (B) The Secretary shall not enter into an agreement with an individual under this section to the extent—
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) payment under this subchapter for services provided by such individual shall be made only on an assignment-related basis;
 
-&emsp;(C) if the individual does not provide services, for which payment would otherwise bemade under this subchapter, of a sufficient quantity to maintain the offset collection according to the agreed upon formula and schedule—
+&emsp;(C) if the individual does not provide services, for which payment would otherwise be made under this subchapter, of a sufficient quantity to maintain the offset collection according to the agreed upon formula and schedule—
 
 &emsp;&emsp;(i) the Secretary shall immediately inform the Attorney General, and the Attorney General shall immediately commence an action to recover the full amount of the past-due obligation, and
 
@@ -70,7 +70,7 @@ Amounts equal to the amounts deducted pursuant to this section shall be transfer
 
 Section 204(a)(1) of the Public Health Service Amendments of 1987, referred to in subsec. (a)(1)(B), is section 204(a)(1) of Pub. L. 100–177, title II, Dec. 1, 1987, 101 Stat. 1000, which is set out as a note under section 254o of this title.
 
-The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§254d et seq.)of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, §409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§254d et seq.) of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, §409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 

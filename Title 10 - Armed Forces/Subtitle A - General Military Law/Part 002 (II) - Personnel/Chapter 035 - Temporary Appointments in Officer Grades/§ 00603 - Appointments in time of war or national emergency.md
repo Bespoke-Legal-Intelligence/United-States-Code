@@ -12,7 +12,7 @@
 
 (e)(1) An officer who receives an appointment to a higher grade under this section is considered to have accepted such appointment on the date of the order announcing the appointment unless he expressly declines the appointment.
 
-(2) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not requiredto take a new oath upon appointment to a higher grade under this section.
+(2) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
 
 (f) Unless sooner terminated, an appointment under this section terminates on the earliest of the following:
 
@@ -30,7 +30,7 @@
 
 Subsec. (a). Pub. L. 102–190, §1113(b), struck out "commissioned" before "officer grade in the Army" and "in warrant officer grades or" before "in grades above major general" and inserted before period at end ", except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned".
 
-<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted "terminates on the earliest of the following:" for "terminates—" in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: "Unless sooner terminated, an appointment under this section terminates—
+<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted "terminates on the earliest of the following:" for "terminates—" in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: "Unless soonerterminated, an appointment under this section terminates—
 
 &emsp;"(1) on the second anniversary of the appointment;
 
@@ -43,6 +43,10 @@ Subsec. (a). Pub. L. 102–190, §1113(b), struck out "commissioned" before "off
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of this title.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Delegation of Functions
 

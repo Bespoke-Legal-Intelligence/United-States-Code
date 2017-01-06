@@ -14,11 +14,11 @@ No allotment may be made under this subchapter to an eligible system unless an a
 
 #### (b) Satisfaction of requirements regarding trained staff
 
-The assurance required under subsection (a)(2) of this section regarding trained staff may be satisfied through the provision of training by individuals who have received or are receiving mental health services and family members of such individuals.
+The assurance required under subsection (a)(2) regarding trained staff may be satisfied through the provision of training by individuals who have received or are receiving mental health services and family members of such individuals.
 
 #### (c) Duration of applications and assurances
 
-Applications submitted under this section shall remain in effect for a 4-year period, andthe assurances required under this section shall be for the same 4-year period.
+Applications submitted under this section shall remain in effect for a 4-year period, and the assurances required under this section shall be for the same 4-year period.
 
 (Pub. L. 99–319, title I, §111, May 23, 1986, 100 Stat. 482; Pub. L. 100–509, §7(d), Oct. 20, 1988, 102 Stat. 2545; Pub. L. 102–173, §§7, 10(2), Nov. 27, 1991, 105 Stat. 1218, 1219; Pub. L. 102–321, title I, §163(c)(3)(A), July 10, 1992, 106 Stat. 377.)
 

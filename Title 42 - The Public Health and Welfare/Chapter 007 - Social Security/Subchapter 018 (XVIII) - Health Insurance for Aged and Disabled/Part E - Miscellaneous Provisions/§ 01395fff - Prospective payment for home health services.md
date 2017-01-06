@@ -22,7 +22,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts) as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
+&emsp;&emsp;&emsp;&emsp;(I) Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for the 12-month period beginning on the date the Secretary implements the system shall be equal to the total amount that would have been made if the system had notbeen in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted.
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
@@ -70,7 +70,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iv) Adjustment for case mix changes
 
-&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate paymentsunder this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
 
 #### (v) Adjustment if quality data not submitted
 
@@ -166,17 +166,17 @@ With respect to home health services furnished on or after October 1, 1998, no c
 
 There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise of—
 
-&emsp;(1) the establishment of a transition period under subsection (b)(1) of this section;
+&emsp;(1) the establishment of a transition period under subsection (b)(1);
 
-&emsp;(2) the definition and application of payment units under subsection (b)(2) of this section;
+&emsp;(2) the definition and application of payment units under subsection (b)(2);
 
-&emsp;(3) the computation of initial standard prospective payment amounts under subsection (b)(3)(A) of this section (including the reduction described in clause (ii) of such subsection);
+&emsp;(3) the computation of initial standard prospective payment amounts under subsection (b)(3)(A) (including the reduction described in clause (ii) of such subsection);
 
-&emsp;(4) the establishment of the adjustment for outliers under subsection (b)(3)(C) of this section;
+&emsp;(4) the establishment of the adjustment for outliers under subsection (b)(3)(C);
 
-&emsp;(5) the establishment of case mix and area wage adjustments under subsection (b)(4) of this section; and
+&emsp;(5) the establishment of case mix and area wage adjustments under subsection (b)(4); and
 
-&emsp;(6) the establishment of any adjustments for outliers under subsection (b)(5) of this section.
+&emsp;(6) the establishment of any adjustments for outliers under subsection (b)(5).
 
 #### (e) Construction related to home health services
 
@@ -290,7 +290,7 @@ Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001."
+Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: "Theamendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001."
 
 #### Effective Date of 1999 Amendment
 
@@ -394,7 +394,7 @@ Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by 
 
 "(a)
 
-In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
+In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005,episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
 
 "(b)
 
@@ -558,7 +558,7 @@ In general.—Notwithstanding the amendments made by subsection (a) \[amending s
 
 "(2)
 
-No effect on other payments or determinations.—The Secretary shall not take the provisions ofparagraph (1) into account for purposes of payments, determinations, or budget neutrality adjustments under section 1895 of the Social Security Act."
+No effect on other payments or determinations.—The Secretary shall not take the provisions of paragraph (1) into account for purposes of payments, determinations, or budget neutrality adjustments under section 1895 of the Social Security Act."
 
 #### Temporary Two-Month Periodic Interim Payment
 
@@ -706,7 +706,7 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[N
 
 #### Case Mix System Development
 
-Pub. L. 105–33, title IV, §4602(d), Aug. 5, 1997, 111 Stat. 467, provided that: "The Secretary of Health and Human Services shall expand research on a prospective payment system for home health agencies under the medicare program that ties prospective payments to a unit of service, including an intensive effort to develop a reliable case mix adjuster that explains a significant amount of the variances in costs."
+Pub. L. 105–33, title IV, §4602(d), Aug. 5, 1997, 111 Stat. 467, provided that: "The Secretary of Health and Human Services shall expand research on a prospectivepayment system for home health agencies under the medicare program that ties prospective payments to a unit of service, including an intensive effort to develop a reliable case mix adjuster that explains a significant amount of the variances in costs."
 
 #### Case Mix System; Submission of Data
 

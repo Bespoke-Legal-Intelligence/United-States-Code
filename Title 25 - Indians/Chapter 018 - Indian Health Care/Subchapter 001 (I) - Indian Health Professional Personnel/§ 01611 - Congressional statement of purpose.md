@@ -6,7 +6,7 @@ The purpose of this subchapter is to increase the number of Indians entering the
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: "The purpose of this subchapter is to augment the inadequate number of health professionals serving Indians and remove themultiple barriers to the entrance of health professionals into the Service and private practice among Indians."
+<b>1992</b>—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: "The purpose of this subchapter is to augment the inadequate number of health professionals serving Indians and remove the multiple barriers to the entrance of health professionals into the Service and private practice among Indians."
 
 #### Advisory Panel and Report on Recruitment and Retention
 

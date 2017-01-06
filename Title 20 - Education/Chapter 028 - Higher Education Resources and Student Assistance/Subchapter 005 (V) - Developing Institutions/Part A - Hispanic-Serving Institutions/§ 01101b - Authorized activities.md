@@ -12,7 +12,7 @@ Grants awarded under this section shall be used for one or more of the following
 
 &emsp;(2) Construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities.
 
-&emsp;(3) Support of faculty exchanges, faculty development, curriculum development, academic instruction, and faculty fellowships to assist in attaining advanced degrees in the fellow's field of instruction.
+&emsp;(3) Support of faculty exchanges, faculty development, curriculum development, academicinstruction, and faculty fellowships to assist in attaining advanced degrees in the fellow's field of instruction.
 
 &emsp;(4) Purchase of library books, periodicals, and other educational materials, including telecommunications program material.
 
@@ -36,7 +36,7 @@ Grants awarded under this section shall be used for one or more of the following
 
 &emsp;(14) Expanding the number of Hispanic and other underrepresented graduate and professional students that can be served by the institution by expanding courses and institutional resources.
 
-&emsp;(15) Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students' families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;(15) Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students' families, especially with regard to student indebtedness and student assistance programs under subchapter IV.
 
 &emsp;(16) Other activities proposed in the application submitted pursuant to section 1101c of this title that—
 
@@ -56,7 +56,7 @@ Grants awarded under this section shall be used for one or more of the following
 
 #### (3) Comparability
 
-&emsp;The provisions of part C of subchapter III of this chapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+&emsp;The provisions of part C of subchapter III regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
 (Pub. L. 89–329, title V, §503, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1768; amended Pub. L. 110–315, title V, §501, Aug. 14, 2008, 122 Stat. 3331.)
 

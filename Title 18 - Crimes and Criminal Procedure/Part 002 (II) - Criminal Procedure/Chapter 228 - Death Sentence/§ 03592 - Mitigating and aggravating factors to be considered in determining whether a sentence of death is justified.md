@@ -2,7 +2,7 @@
 
 (a)
 
-Mitigating Factors.—In determining whether a sentence of death is to be imposed on a defendant, the finder of fact shall consider any mitigating factor, including the following:
+Mitigating Factors.—In determining whether a sentence of death is to be imposed ona defendant, the finder of fact shall consider any mitigating factor, including the following:
 
 &emsp;(1)
 
@@ -166,7 +166,7 @@ Distribution to persons under 21.—The offense, or a continuing criminal enterp
 
 &emsp;(6)
 
-Distribution near schools.—The offense, or a continuing criminal enterprise ofwhich the offense was a part, involved conduct proscribed by section 419 of the Controlled Substances Act (21 U.S.C. 860) which was committed directly by the defendant.
+Distribution near schools.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 419 of the Controlled Substances Act (21 U.S.C. 860) which was committed directly by the defendant.
 
 &emsp;(7)
 

@@ -8,7 +8,7 @@
 
 (d) A bankruptcy judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 338; amended Pub. L. 100–202, §101(a), \[title IV, §408(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329-26; Pub. L. 100–702, title X, §1003(a)(1), Nov. 19, 1988, 102 Stat. 4665.)
+(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 338; amended Pub. L. 100–202, §101(a), \[title IV, §408(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 100–702, title X, §1003(a)(1), Nov. 19, 1988, 102 Stat. 4665.)
 
 #### Amendments
 
@@ -18,7 +18,7 @@
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–202, §101(a) \[title IV, §408(d)\], Dec. 22, 1987, 101 Stat. 1329, 1329-27, provided that: "This section \[amending this section, section 634 of this title, and section 356 of Title 2, The Congress\] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment \[probably should read "such date", meaning Oct. 1, 1988\]."
+Pub. L. 100–202, §101(a) \[title IV, §408(d)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27, provided that: "This section \[amending this section, section 634 of this title, and section 356 of Title 2, The Congress\] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment \[probably should read "such date", meaning Oct. 1, 1988\]."
 
 #### Transition Provisions
 

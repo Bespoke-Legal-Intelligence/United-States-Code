@@ -26,7 +26,7 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 #### (1) Licensed pharmacist and licensed physician
 
-&emsp;A drug product may be compounded under subsection (a) of this section if the licensed pharmacist or licensed physician—
+&emsp;A drug product may be compounded under subsection (a) if the licensed pharmacist or licensed physician—
 
 &emsp;&emsp;(A) compounds the drug product using bulk drug substances, as defined in regulations of the Secretary published at section 207.3(a)(4) of title 21 of the Code of Federal Regulations—
 
@@ -36,7 +36,7 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 &emsp;&emsp;&emsp;&emsp;(II) if such a monograph does not exist, are drug substances that are components of drugs approved by the Secretary; or
 
-&emsp;&emsp;&emsp;&emsp;(III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c) of this section;
+&emsp;&emsp;&emsp;&emsp;(III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c);
 
 &emsp;&emsp;&emsp;(ii) that are manufactured by an establishment that is registered under section 360 of this title (including a foreign establishment that is registered under section 360(i) of this title); and
 
@@ -70,11 +70,11 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
+&emsp;The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A), the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
 
 #### (2) Limiting compounding
 
-&emsp;The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) of this section for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
+&emsp;The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
 
 #### (d) Application
 

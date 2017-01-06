@@ -74,13 +74,13 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–295, §209(h)(2), in concluding provisions, substituted "with respect to someor all of the credits" for "with respect to credits" and inserted "(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))" after "credits allowable".
+<b>2014</b>—Subsec. (a). Pub. L. 113–295, §209(h)(2), in concluding provisions, substituted "with respect to some or all of the credits" for "with respect to credits" and inserted "(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))" after "credits allowable".
 
 Subsec. (a)(2). Pub. L. 113–295, §209(h)(1), inserted "(determined after the application of this section)" before comma at end.
 
 Subsec. (b). Pub. L. 113–295, §209(h)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to effects of elections under subsec. (a).
 
-Subsec. (c). Pub. L. 113–295, §209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, §1541(a), subsec. (c) read as follows: "
+Subsec. (c). Pub. L. 113–295, §209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recoveryand Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, §1541(a), subsec. (c) read as follows: "
 
 Notice to Shareholders.—For purposes of subsection (b)(3), the shareholder's proportionate share of—
 

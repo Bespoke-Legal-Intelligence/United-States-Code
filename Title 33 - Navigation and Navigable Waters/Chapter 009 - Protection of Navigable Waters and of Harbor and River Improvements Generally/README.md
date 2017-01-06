@@ -137,6 +137,7 @@
 | [467e.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467e%20-%20Interagency%20Committee%20on%20Dam%20Safety.md) | Interagency Committee on Dam Safety. |
 | [467f.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467f%20-%20National%20dam%20safety%20program.md) | National dam safety program. |
 | 467f–1. | Lock and dam security. |
+| 467f–2. | Rehabilitation of high hazard potential dams. |
 | [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20Research.md) | Research. |
 | 467g–1. | Dam safety training. |
 | 467g–2. | Public awareness and outreach for dam safety. |

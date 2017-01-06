@@ -14,7 +14,7 @@ Recipients under this section shall require the provision to individuals assiste
 
 #### (2) Intensive assistance
 
-&emsp;For any individual with acquired immunodeficiency syndrome or related diseases who requires more care than can be provided in housing assisted under this section, locating a care provider who can appropriately care for the individual and referral of the individual to the care provider.
+&emsp;For any individual with acquired immunodeficiency syndrome or related diseases who requires more care than can be provided in housing assisted under this section, locating a care provider who can appropriately care forthe individual and referral of the individual to the care provider.
 
 (Pub. L. 101–625, title VIII, §860, Nov. 28, 1990, 104 Stat. 4381; Pub. L. 102–550, title VI, §606(j)(7), Oct. 28, 1992, 106 Stat. 3810.)
 

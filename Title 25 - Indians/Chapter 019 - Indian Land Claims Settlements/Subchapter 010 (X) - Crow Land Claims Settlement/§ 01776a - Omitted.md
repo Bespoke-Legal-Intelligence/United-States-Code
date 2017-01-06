@@ -1,0 +1,6 @@
+### §1776a. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–444, §3, Nov. 2, 1994, 108 Stat. 4633, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.
+

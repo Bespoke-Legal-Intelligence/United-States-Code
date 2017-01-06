@@ -48,7 +48,7 @@ The corporation shall be subject to the provisions of section 552 of title 5.
 
 All meetings of the board of directors will be conducted in accordance with the provisions of section 552b of title 5.
 
-(Pub. L. 95–557, title VI, §604, Oct. 31, 1978, 92 Stat. 2115; Pub. L. 97–320, title VII, §710(a), Oct. 15, 1982, 96 Stat. 1544; Pub. L. 100–242, title V, §520(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 100–628, title X, §1085, Nov. 7, 1988, 102 Stat. 3278.)
+(Pub. L. 95–557, title VI, §604, Oct. 31, 1978, 92 Stat. 2115; Pub. L. 97–320, title VII, §710(a), Oct.15, 1982, 96 Stat. 1544; Pub. L. 100–242, title V, §520(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 100–628, title X, §1085, Nov. 7, 1988, 102 Stat. 3278.)
 
 #### Amendments
 

@@ -1,0 +1,6 @@
+### §1292. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–456, §2, Oct. 3, 1972, 86 Stat. 762, which set out requirements for inclusion on membership roll, was omitted from the Code as being of special and not general application.
+

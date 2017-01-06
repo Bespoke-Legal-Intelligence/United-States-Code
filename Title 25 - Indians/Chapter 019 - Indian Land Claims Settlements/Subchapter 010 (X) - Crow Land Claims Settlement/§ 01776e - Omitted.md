@@ -1,0 +1,6 @@
+### §1776e. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–444, §7, Nov. 2, 1994, 108 Stat. 4640, which related to effect of Federal recognition of the tribe on eligibility of a tribe or a member of a tribe for other Federal services, was omitted from the Code as being of special and not general application.
+

@@ -68,7 +68,7 @@ The President, when he deems such action necessary, may make provision for the p
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c), and (g), was in the original "this Act" or "the Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c), and (g), was in the original "this Act" or "the Act", meaningact Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
 
 Sections 101 and 107 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(B), are sections 101 and 107 of Pub. L. 95–521, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -92,7 +92,7 @@ Subsec. (b)(7), (8). Pub. L. 111–67, §10(1)(C), redesignated par. (8) as (7).
 
 Subsec. (c). Pub. L. 111–67, §10(2), struck out at end "The President is authorized to provide by regulation for the exemption of such persons from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and section 99 of title 5."
 
-Subsec. (d). Pub. L. 111–67, §10(3), substituted "needed." for "needed; and he is authorized to provide by regulation for the exemption of persons whose servicesare utilized under this subsection from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and section 99 of title 5."
+Subsec. (d). Pub. L. 111–67, §10(3), substituted "needed." for "needed; and he is authorized to provide by regulation for the exemption of persons whose services are utilized under this subsection from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and section 99 of title 5."
 
 Subsec. (e). Pub. L. 111–67, §10(4), substituted "national defense emergency, as determined by the President" for "emergency" and struck out at end "The President is authorized to provide by regulation for the exemption of such persons who are not full-time Government employees from the operation of sections 281, 283, 284, 434, and 1914 of title 18 and section 99 of title 5."
 

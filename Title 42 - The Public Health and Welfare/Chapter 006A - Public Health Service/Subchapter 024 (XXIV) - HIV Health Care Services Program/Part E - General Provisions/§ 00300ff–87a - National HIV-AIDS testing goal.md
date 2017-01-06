@@ -6,7 +6,7 @@ Not later than January 1, 2010, the Secretary shall establish a national HIV/AID
 
 #### (b) Annual report
 
-Not later than January 1, 2011, and annually thereafter, the Secretary, acting through theDirector of the Centers for Disease Control and Prevention, shall submit to Congress a report describing, with regard to the preceding 12-month reporting period—
+Not later than January 1, 2011, and annually thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to Congress a report describing, with regard to the preceding 12-month reporting period—
 
 &emsp;(1) whether the testing goal described in subsection (a) has been met;
 
@@ -22,7 +22,7 @@ Not later than January 1, 2011, and annually thereafter, the Secretary, acting t
 
 &emsp;(5) the amount of funding the Secretary determines necessary to meet the annual testing goal in the following 12 months and the amount of Federal funding expended to meet the testing goal in the prior 12-month period; and
 
-&emsp;(6) the most cost-effective strategies for identifying and diagnosing individuals who were unaware of their HIV status, including voluntary testing with pre-test counseling, routine screening including opt-out testing, partner counseling and referral services, and mass media campaigns.
+&emsp;(6) the most cost-effective strategies for identifying and diagnosing individuals who were unaware of their HIV status, including voluntary testing with pre-test counseling, routine screening including opt-out testing,partner counseling and referral services, and mass media campaigns.
 
 #### (c) Review of program effectiveness
 

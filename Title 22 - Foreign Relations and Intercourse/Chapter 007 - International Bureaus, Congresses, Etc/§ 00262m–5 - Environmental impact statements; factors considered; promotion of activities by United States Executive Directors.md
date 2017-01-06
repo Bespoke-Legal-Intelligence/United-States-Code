@@ -8,7 +8,7 @@
 
 &emsp;(2) the establishment of environmental programs in appropriate policy-based loans for the purpose of improving natural resource management, environmental quality, and protection of biological diversity;
 
-&emsp;(3) increases in the proportion of staff with professional training and experience in ecology and related areas and in the areas of anthropological and sociological impact analysis to ensure systematic appraisal and monitoringof environmental and sociocultural impacts of projects and policies;
+&emsp;(3) increases in the proportion of staff with professional training and experience in ecology and related areas and in the areas of anthropological and sociological impact analysis to ensure systematic appraisal and monitoring of environmental and sociocultural impacts of projects and policies;
 
 &emsp;(4) active and systematic encouragement of participation by borrowing countries nongovernmental environmental, community and indigenous peoples' organizations at all stages of preparations for country lending strategies, policy based loans, and loans that may have adverse environmental or sociocultural impacts; and
 

@@ -54,7 +54,7 @@ To the maximum extent feasible, the Secretary may provide that—
 
 &emsp;(1) any return or statement required to be provided under this section may be provided as part of any return or statement required under section 6051 or 6055, and
 
-&emsp;(2) in the case of an applicable large employer offering health insurance coverage of ahealth insurance issuer, the employer may enter into an agreement with the issuer to include information required under this section with the return and statement required to be provided by the issuer under section 6055.
+&emsp;(2) in the case of an applicable large employer offering health insurance coverage of a health insurance issuer, the employer may enter into an agreement with the issuer to include information required under this section with the return and statement required to be provided by the issuer under section 6055.
 
 #### (e) Coverage provided by governmental units
 
@@ -78,7 +78,7 @@ A prior section 6056, added Pub. L. 91–172, title I, §101(d)(3), Dec. 30, 196
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–10, §1858(b)(5)(A), struck out "and every offering employer" after "calendar year".
 
-Subsec. (b)(2)(C). Pub. L. 112–10, §1858(b)(5)(B), struck out "in the case of an applicable large employer," before "the length" in cl. (i), inserted "and" at the end of cl. (iii), struck out "and" after "plan," at the end of cl. (iv), and struck out cl. (v) which read as follows: "in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,".
+Subsec. (b)(2)(C). Pub. L. 112–10, §1858(b)(5)(B), struck out "in the case of an applicable large employer," before "the length" in cl. (i), inserted "and" at the end of cl. (iii), struck out "and" after "plan," at the end of cl. (iv), and struck out cl. (v) which read as follows: "inthe case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,".
 
 Subsecs. (d)(2), (e). Pub. L. 112–10, §1858(b)(5)(C), struck out "or offering employer" after "large employer".
 

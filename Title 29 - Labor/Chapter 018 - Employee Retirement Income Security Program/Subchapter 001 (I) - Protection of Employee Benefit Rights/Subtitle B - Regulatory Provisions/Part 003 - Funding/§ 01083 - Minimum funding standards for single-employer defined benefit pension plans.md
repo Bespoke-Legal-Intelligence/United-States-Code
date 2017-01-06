@@ -86,11 +86,11 @@ For purposes of this section:
 
 #### (II) Amortization schedule
 
-&emsp;&emsp;&emsp;&emsp;Such election shall specify whether the amortization schedule under clause (ii)or (iii) shall apply to an election year, except that if a plan sponsor elects to have this subparagraph apply to 2 eligible plan years, the plan sponsor must elect the same schedule for both years.
+&emsp;&emsp;&emsp;&emsp;Such election shall specify whether the amortization schedule under clause (ii) or (iii) shall apply to an election year, except that if a plan sponsor elects to have this subparagraph apply to 2 eligible plan years, the plan sponsor must elect the same schedule for both years.
 
 #### (III) Other rules
 
-&emsp;&emsp;&emsp;&emsp;Such election shall be made at such time, and in such form and manner, as shall be prescribed by the Secretary of the Treasury, and may be revoked only with the consent of the Secretary of the Treasury. The Secretary of the Treasury shall, before granting a revocation request, provide the Pension Benefit Guaranty Corporation an opportunity to comment on the conditions applicable to the treatment of any portion of the election year shortfall amortization base that remains unamortized as of the revocation date.
+&emsp;&emsp;&emsp;&emsp;Such election shall be made at such time, and in such form and manner, asshall be prescribed by the Secretary of the Treasury, and may be revoked only with the consent of the Secretary of the Treasury. The Secretary of the Treasury shall, before granting a revocation request, provide the Pension Benefit Guaranty Corporation an opportunity to comment on the conditions applicable to the treatment of any portion of the election year shortfall amortization base that remains unamortized as of the revocation date.
 
 #### (v) Eligible plan year
 
@@ -290,7 +290,7 @@ For purposes of this section:
 
 #### (iii) Elections for multiple plans
 
-&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or moreplans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
+&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relativereduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
 
 #### (iv) Mergers and acquisitions
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standardcarryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 1082(c) of this title.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standard carryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 1082(c) of this title.
 
 #### (B) Coordination with funding standard carryover balance
 
@@ -522,7 +522,7 @@ For purposes of this section—
 
 #### (B) Exception for small plans
 
-&emsp;&emsp;If, on each day during the preceding plan year, a plan had 100 or fewer participants, the plan may designate any day during the plan year as its valuation date for such plan year and succeeding plan years. For purposes of this subparagraph, all defined benefit plans which are single-employer plans and are maintained by the same employer (orany member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account.
+&emsp;&emsp;If, on each day during the preceding plan year, a plan had 100 or fewer participants, the plan may designate any day during the plan year as its valuation date for such plan year and succeeding plan years. For purposes of this subparagraph, all defined benefit plans which are single-employer plans and are maintained by the same employer (or any member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account.
 
 #### (C) Application of certain rules in determination of plan size
 
@@ -530,7 +530,7 @@ For purposes of this section—
 
 #### (i) Plans not in existence in preceding year
 
-&emsp;&emsp;&emsp;In the case of the first plan year of any plan, subparagraph (B) shall apply to such plan by taking into account the number of participants that the plan is reasonably expected to have on days during such first plan year.
+&emsp;&emsp;&emsp;In the case of the first plan year of any plan, subparagraph (B) shall apply to suchplan by taking into account the number of participants that the plan is reasonably expected to have on days during such first plan year.
 
 #### (ii) Predecessors
 
@@ -614,7 +614,7 @@ For purposes of this section—
 
 #### (ii) Second segment rate
 
-&emsp;&emsp;&emsp;The term "second segment rate" means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
+&emsp;&emsp;&emsp;The term "second segment rate" means, with respect to any month, the single rateof interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
 
 #### (iii) Third segment rate
 
@@ -656,7 +656,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates forfuture months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (3) Mortality tables
 
@@ -822,7 +822,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) 75 percent in the case of 2010.
 
-> &emsp;&emsp;In the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year under subparagraph (A) may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+> &emsp;&emsp;In the case of plan years beginning in 2008, the funding target attainment percentagefor the preceding plan year under subparagraph (A) may be determined using such methods of estimation as the Secretary of the Treasury may provide.
 
 #### (C) Special rule for employees offered early retirement in 2006
 
@@ -987,7 +987,7 @@ For purposes of this section—
 
 #### (C) Period of underpayment
 
-&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of thequarter in which the due date for such installment occurs.
+&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.
 
 #### (D) Limitation on increase
 
@@ -1009,7 +1009,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "base amount" means, with respect to any quarter, an amount equal to 3 times the sum of the adjusted disbursements from the plan for the 12 months ending on the last day of such quarter.
+&emsp;&emsp;&emsp;&emsp;The term "base amount" means, with respect to any quarter, an amount equalto 3 times the sum of the adjusted disbursements from the plan for the 12 months ending on the last day of such quarter.
 
 #### (II) Special rule
 
@@ -1071,7 +1071,7 @@ For purposes of this section—
 
 #### (C) Certain rules to apply
 
-&emsp;&emsp;Any amount with respect to which a lien is imposed under paragraph (1) shall be treatedas taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+&emsp;&emsp;Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
 
 #### (5) Enforcement
 

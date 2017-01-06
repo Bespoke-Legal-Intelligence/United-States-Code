@@ -1,0 +1,10 @@
+### §711. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–195, §2, Nov. 18, 1977, 91 Stat. 1415, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 95–195, §1, Nov. 18, 1977, 91 Stat. 1415, provided that Pub. L. 95–195, enacting this subchapter, could be cited as the "Siletz Indian Tribe Restoration Act".
+

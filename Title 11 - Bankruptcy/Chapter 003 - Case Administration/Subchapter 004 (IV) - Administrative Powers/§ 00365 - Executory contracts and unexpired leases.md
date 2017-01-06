@@ -68,7 +68,7 @@
 
 &emsp;(C) the appointment of or taking possession by a trustee in a case under this title or a custodian before such commencement.
 
-(2) Paragraph (1) of this subsection does not apply to an executory contract or unexpired lease of the debtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
+(2) Paragraph (1) of this subsection does not apply to an executory contract or unexpired lease of the debtor, whether or not such contractor lease prohibits or restricts assignment of rights or delegation of duties, if—
 
 &emsp;(A)(i) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to the trustee or to an assignee of such contract or lease, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties; and
 

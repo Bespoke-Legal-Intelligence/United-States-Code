@@ -34,7 +34,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(B) the State agency has established acceptable conservation programs, consistent with the purposes and policies of this chapter, for all resident species of plants in the State which are deemed by the Secretary to be endangered or threatened, and has furnished a copy of such plan and program together with all pertinent details, information, and data requested to the Secretary;
 
-&emsp;(C) the State agency is authorized to conduct investigations to determine the status and requirements for survival of resident species of plants; and
+&emsp;(C) the State agency is authorized to conduct investigations to determine the statusand requirements for survival of resident species of plants; and
 
 &emsp;(D) provision is made for public participation in designating resident species of plants as endangered or threatened; or
 
@@ -82,7 +82,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 #### (g) Transition
 
-(1) For purposes of this subsection, the term "establishment period" means, with respect to any State, the period beginning on December 28, 1973, and ending on whichever of the following dates first occurs: (A) the date of the close of the 120-day period following the adjournment of the first regular session of the legislature of such State which commences after December 28, 1973, or (B) the date of the close of the 15-month period following December 28, 1973.
+(1) For purposes of this subsection, the term "establishment period" means, with respect to any State, the period beginning on December 28, 1973, and ending on whichever of the following dates first occurs: (A) the date of the close of the 120-day period following the adjournment of the first regular session of the legislature of such State which commences after December 28,1973, or (B) the date of the close of the 15-month period following December 28, 1973.
 
 (2) The prohibitions set forth in or authorized pursuant to sections 1533(d) and 1538(a)(1)(B) of this title shall not apply with respect to the taking of any resident endangered species or threatened species (other than species listed in Appendix I to the Convention or otherwise specifically covered by any other treaty or Federal law) within any State—
 
@@ -126,7 +126,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 &emsp;"(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
 
-> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State whichis unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
+> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 

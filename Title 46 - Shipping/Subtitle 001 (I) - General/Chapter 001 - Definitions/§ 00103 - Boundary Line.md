@@ -1,8 +1,8 @@
 ### §103. Boundary Line
 
-In this title, the term "Boundary Line" means a line established under section 2(b) of the Act of February 19, 1895 (33 U.S.C. 151).<sup>1</sup>
+In this title, the term "Boundary Line" means a line established under section 2(b) of the Act of February 19, 1895 (33 U.S.C. 151(b)).
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1486.)
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1486; Pub. L. 114–120, title III, §306(a)(1), Feb. 8, 2016, 130 Stat. 54.)
 
 Historical and Revision Notes
 
@@ -18,5 +18,7 @@ Historical and Revision Notes
 
 46:2101(3).
 
-<i><sup>1</sup></i><i> So in original. Probably should be "(33 U.S.C. 151(b)).".</i>
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–120 substituted "(33 U.S.C. 151(b))." for "(33 U.S.C. 151)."
 

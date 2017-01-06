@@ -70,5 +70,5 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 #### Effective Date of 2008 Amendment
 
-For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of Title 28, Judiciary and Judicial Procedure.
+For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, setout as an Effective Date note under section 1605A of Title 28, Judiciary and Judicial Procedure.
 

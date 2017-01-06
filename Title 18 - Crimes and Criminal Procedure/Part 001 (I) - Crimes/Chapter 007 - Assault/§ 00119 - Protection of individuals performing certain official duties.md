@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available—
+In General.—Whoever knowingly makes restricted personal information about a coveredperson, or a member of the immediate family of that covered person, publicly available—
 
 &emsp;(1) with the intent to threaten, intimidate, or incite the commission of a crime of violence against that covered person, or a member of the immediate family of that covered person; or
 
@@ -24,7 +24,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(C) an informant or witness in a Federal criminal investigation or prosecution; or
 
-&emsp;&emsp;(D) a State or local officer or employee whose restricted personal information ismade publicly available because of the participation in, or assistance provided to, a Federal criminal investigation by that officer or employee;
+&emsp;&emsp;(D) a State or local officer or employee whose restricted personal information is made publicly available because of the participation in, or assistance provided to, a Federal criminal investigation by that officer or employee;
 
 &emsp;(3) the term "crime of violence" has the meaning given the term in section 16; and
 

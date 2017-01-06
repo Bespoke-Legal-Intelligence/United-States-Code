@@ -10,11 +10,15 @@ Exceptions.—Subsection (a) does not apply (1) in the case of an officer retain
 
 (c)
 
-Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Fully Qualified for Promotion.—For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps on a reserve active-status list who holds the grade of first lieutenant, and an officer of the Navy on a reserve active-statuslist who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 14101(a) of this title if such a board were convened but is not fully qualified for promotion when recommending for promotion under section 14308(b)(4) of this title all fully qualified officers of the officer's armed force in such grade who would be eligible for such consideration.
+Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Fully Qualified for Promotion.—For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps on a reserve active-status list who holds the grade of first lieutenant, and an officer of the Navy on a reserve active-status list who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 14101(a) of this title if such a board were convened but is not fully qualified for promotion when recommending for promotion under section 14308(b)(4) of this title all fully qualified officers of the officer's armed force in such grade who would be eligible for such consideration.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2950; amended Pub. L. 107–107, div. A, title V, §505(b)(2), Dec. 28, 2001, 115 Stat. 1087.)
 
 #### Amendments
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–107 added subsec. (c).
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

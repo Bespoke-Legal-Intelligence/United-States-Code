@@ -42,7 +42,7 @@ In this section, the following definitions apply:
 
 #### (2) Program
 
-&emsp;The term "program" means the Lake Pontchartrain Basin Restoration Program established under subsection (a) of this section.
+&emsp;The term "program" means the Lake Pontchartrain Basin Restoration Program established under subsection (a).
 
 #### (f) Authorization of appropriations
 
@@ -52,7 +52,7 @@ In this section, the following definitions apply:
 
 #### (2) Public education projects
 
-&emsp;Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2) of this section.
+&emsp;Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2).
 
 (June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, §1, Dec. 12, 2006, 120 Stat. 2703; Pub. L. 112–237, §1, Dec. 28, 2012, 126 Stat. 1628.)
 

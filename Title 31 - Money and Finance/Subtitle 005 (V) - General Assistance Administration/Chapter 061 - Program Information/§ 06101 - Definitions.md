@@ -146,7 +146,7 @@ Requirements.—Not later than 180 days after the date of the enactment of this 
 
 &emsp;&emsp;"(C) for the United States Agency for International Development.
 
-&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
+&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to thesupervision of the acquisition office or the Inspector General—
 
 &emsp;&emsp;"(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
 
@@ -414,7 +414,7 @@ In general.—Based on the pilot program conducted under paragraph (1), and, exc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) minimizes burdens imposed on Federal award recipients and subaward recipients;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) allows Federal award recipients and subaward recipients to allocate reasonable costsfor the collection and reporting of subaward data as indirect costs; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.
 
@@ -566,7 +566,7 @@ Notification.—The Director of the Office of Management and Budget shall notify
 
 &emsp;"(3)
 
-Website.—Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) areapplied to the data made available on the website established under section 2.
+Website.—Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) are applied to the data made available on the website established under section 2.
 
 "(d)
 
@@ -710,7 +710,7 @@ Data availability.—The Secretary shall enter into memoranda of understanding w
 
 &emsp;"(3)
 
-Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transferthat the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
 
 #### "SEC. 7. CLASSIFIED AND PROTECTED INFORMATION.
 
@@ -726,195 +726,7 @@ Transfer.—Upon the establishment of a data analysis center or the expansion of
 
 #### Federal Financial Assistance Management Improvement
 
-Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
-
-#### "SECTION 1. SHORT TITLE.
-
-"This Act may be cited as the 'Federal Financial Assistance Management Improvement Act of 1999'.
-
-#### "SEC. 2. FINDINGS.
-
-"Congress finds that—
-
-&emsp;"(1) there are over 600 different Federal financial assistance programs to implement domestic policy;
-
-&emsp;"(2) while the assistance described in paragraph (1) has been directed at critical problems, some Federal administrative requirements may be duplicative, burdensome or conflicting, thus impeding cost-effective delivery of services at the local level;
-
-&emsp;"(3) the Nation's State, local, and tribal governments and private, nonprofit organizations are dealing with increasingly complex problems which require the delivery and coordination of many kinds of services; and
-
-&emsp;"(4) streamlining and simplification of Federal financial assistance administrative procedures and reporting requirements will improve the delivery of services to the public.
-
-#### "SEC. 3. PURPOSES.
-
-"The purposes of this Act are to—
-
-&emsp;"(1) improve the effectiveness and performance of Federal financial assistance programs;
-
-&emsp;"(2) simplify Federal financial assistance application and reporting requirements;
-
-&emsp;"(3) improve the delivery of services to the public; and
-
-&emsp;"(4) facilitate greater coordination among those responsible for delivering such services.
-
-#### "SEC. 4. DEFINITIONS.
-
-"In this Act:
-
-&emsp;"(1)
-
-Director.—The term 'Director' means the Director of the Office of Management and Budget.
-
-&emsp;"(2)
-
-Federal agency.—The term 'Federal agency' means any agency as defined under section 551(1) of title 5, United States Code.
-
-&emsp;"(3)
-
-Federal financial assistance.—The term 'Federal financial assistance' has the same meaning as defined in section 7501(a)(5) of title 31, United States Code, under which Federal financial assistance is provided, directly or indirectly, to a non-Federal entity.
-
-&emsp;"(4)
-
-Local government.—The term 'local government' means a political subdivision of a State that is a unit of general local government (as defined under section 7501(a)(11) of title 31, United States Code).
-
-&emsp;"(5)
-
-Non-federal entity.—The term 'non-Federal entity' means a State, local government, or nonprofit organization.
-
-&emsp;"(6)
-
-Nonprofit organization.—The term 'nonprofit organization' means any corporation, trust, association, cooperative, or other organization that—
-
-&emsp;&emsp;"(A) is operated primarily for scientific, educational, service, charitable, or similar purposes in the public interest;
-
-&emsp;&emsp;"(B) is not organized primarily for profit; and
-
-&emsp;&emsp;"(C) uses net proceeds to maintain, improve, or expand the operations of the organization.
-
-&emsp;"(7)
-
-State.—The term 'State' means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, and any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian Tribal Government.
-
-&emsp;"(8)
-
-Tribal government.—The term 'tribal government' means an Indian tribe, as that term is defined in section 7501(a)(9) of title 31, United States Code.
-
-&emsp;"(9)
-
-Uniform administrative rule.—The term 'uniform administrative rule' means a Governmentwide uniform rule for any generally applicable requirement established to achieve national policy objectives that applies to multiple Federal financial assistance programs across Federal agencies.
-
-#### "SEC. 5. DUTIES OF FEDERAL AGENCIES.
-
-"(a)
-
-In General.—Except as provided under subsection (b), not later than 18 months after the date of the enactment of this Act \[Nov. 20, 1999\], each Federal agency shall develop and implement a plan that—
-
-&emsp;"(1) streamlines and simplifies the application, administrative, and reporting procedures for Federal financial assistance programs administered by the agency;
-
-&emsp;"(2) demonstrates active participation in the interagency process under section 6(a)(2);
-
-&emsp;"(3) demonstrates appropriate agency use, or plans for use, of the common application and reporting system developed under section 6(a)(1);
-
-&emsp;"(4) designates a lead agency official for carrying out the responsibilities of the agency under this Act;
-
-&emsp;"(5) allows applicants to electronically apply for, and report on the use of, funds from the Federal financial assistance program administered by the agency;
-
-&emsp;"(6) ensures recipients of Federal financial assistance provide timely, complete, and high quality information in response to Federal reporting requirements; and
-
-&emsp;"(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency's annual planning responsibilities under theGovernment Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
-
-"(b)
-
-Extension.—If a Federal agency is unable to comply with subsection (a), the Director may extend for up to 12 months the period for the agency to develop and implement a plan in accordance with subsection (a).
-
-"(c)
-
-Comment and Consultation on Agency Plans.—
-
-&emsp;"(1)
-
-Comment.—Each agency shall publish the plan developed under subsection (a) in the Federal Register and shall receive public comment of the plan through the Federal Register and other means (including electronic means). To the maximum extent practicable, each Federal agency shall hold public forums on the plan.
-
-&emsp;"(2)
-
-Consultation.—The lead official designated under subsection (a)(4) shall consult with representatives of non-Federal entities during development and implementation of the plan. Consultation with representatives of State, local, and tribal governments shall be in accordance with section 204 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1534).
-
-"(d)
-
-Submission of Plan.—Each Federal agency shall submit the plan developed under subsection (a) to the Director and Congress and report annually thereafter on the implementation of the plan and performance of the agency in meeting the goals and objectives specified under subsection (a)(7). Such report may be included as part of any of the general management reports required under law.
-
-#### "SEC. 6. DUTIES OF THE DIRECTOR.
-
-"(a)
-
-In General.—The Director, in consultation with agency heads and representatives of non-Federal entities, shall direct, coordinate, and assist Federal agencies in establishing—
-
-&emsp;"(1) a common application and reporting system, including—
-
-&emsp;&emsp;"(A) a common application or set of common applications, wherein a non-Federal entity can apply for Federal financial assistance from multiple Federal financial assistance programs that serve similar purposes and are administered by different Federal agencies;
-
-&emsp;&emsp;"(B) a common system, including electronic processes, wherein a non-Federal entity can apply for, manage, and report on the use of funding from multiple Federal financial assistance programs that serve similar purposes and are administered by different Federal agencies; and
-
-&emsp;&emsp;"(C) uniform administrative rules for Federal financial assistance programs across different Federal agencies; and
-
-&emsp;"(2) an interagency process for addressing—
-
-&emsp;&emsp;"(A) ways to streamline and simplify Federal financial assistance administrative procedures and reporting requirements for non-Federal entities;
-
-&emsp;&emsp;"(B) improved interagency and intergovernmental coordination of information collection and sharing of data pertaining to Federal financial assistance programs, including appropriate information sharing consistent with section 552a of title 5, United States Code; and
-
-&emsp;&emsp;"(C) improvements in the timeliness, completeness, and quality of information received by Federal agencies from recipients of Federal financial assistance.
-
-"(b)
-
-Lead Agency and Working Groups.—The Director may designate a lead agency to assist the Director in carrying out the responsibilities under this section. The Director may use interagency working groups to assist in carrying out such responsibilities.
-
-"(c)
-
-Review of Plans and Reports.—Upon the request of the Director, agencies shall submit to the Director, for the Director's review, information and other reporting regarding agency implementation of this Act.
-
-"(d)
-
-Exemptions.—The Director may exempt any Federal agency or Federal financial assistance program from the requirements of this Act if the Director determines that the Federal agency does not have a significant number of Federal financial assistance programs. The Director shall maintain a list of exempted agencies which shall be available to the public through the Office of Management and Budget's Internet site.
-
-"(e)
-
-Report on Recommended Changes in Law.—Not later than 18 months after the date of the enactment of this Act \[Nov. 20, 1999\], the Director shall submit to Congress a report containing recommendations for changes in law to improve the effectiveness, performance, and coordination of Federal financial assistance programs.
-
-"(f)
-
-Deadline.—All actions required under this section shall be carried out not later than 18 months after the date of the enactment of this Act \[Nov. 20, 1999\].
-
-#### "SEC. 7. EVALUATION.
-
-"(a)
-
-In General.—The Government Accountability Office shall evaluate the effectiveness of this Act. Not later than 6 years after the date of the enactment of this Act \[Nov. 20, 1999\], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
-
-"(b)
-
-Contents.—The evaluation under subsection (a) shall—
-
-&emsp;"(1) assess the effectiveness of this Act in meeting the purposes of this Act and make specific recommendations to further the implementation of this Act;
-
-&emsp;"(2) evaluate actual performance of each agency in achieving the goals and objectives stated in agency plans; and
-
-&emsp;"(3) assess the level of coordination among the Director, Federal agencies, State, local, and tribal governments, and nonprofit organizations in implementing this Act.
-
-#### "SEC. 8. COLLECTION OF INFORMATION.
-
-"Nothing in this Act shall be construed to prevent the Director or any Federal agency from gathering, or to exempt any recipient of Federal financial assistance from providing, information that is required for review of the financial integrity or quality of services of an activity assisted by a Federal financial assistance program.
-
-#### "SEC. 9. JUDICIAL REVIEW.
-
-"There shall be no judicial review of compliance or noncompliance with any of the provisions of this Act. No provision of this Act shall be construed to create any right or benefit, substantive or procedural, enforceable by any administrative or judicial action.
-
-#### "SEC. 10. STATUTORY REQUIREMENTS.
-
-"Nothing in this Act shall be construed as a means to deviate from the statutory requirements relating to applicable Federal financial assistance programs.
-
-#### "SEC. 11. EFFECTIVE DATE AND SUNSET.
-
-"This Act shall take effect on the date of the enactment of this Act \[Nov. 20, 1999\] and shall cease to be effective 8 years after such date of enactment."
+Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required Federal agencies to streamline and simplify the application, administrative, and reporting procedures for Federal financial assistance programs, ceased to be effective on Nov. 20, 2007.
 
 #### Uniform Suspension, Debarment or Exclusion From Procurement or Nonprocurement Activity
 
@@ -922,7 +734,7 @@ Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, as amended b
 
 "(a)
 
-Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to theextent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
 "(b)
 
@@ -962,7 +774,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelinesissued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

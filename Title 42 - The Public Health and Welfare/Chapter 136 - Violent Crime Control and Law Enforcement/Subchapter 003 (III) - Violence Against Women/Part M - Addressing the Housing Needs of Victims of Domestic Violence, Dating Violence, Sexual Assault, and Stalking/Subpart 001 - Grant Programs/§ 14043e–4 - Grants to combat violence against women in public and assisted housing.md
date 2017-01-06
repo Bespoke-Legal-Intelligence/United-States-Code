@@ -28,7 +28,7 @@ It is the purpose of this section to assist eligible grantees in responding appr
 
 #### (4) Limitation
 
-&emsp;Appropriated funds may only be used for the purposes described in subsection (f) of this section.
+&emsp;Appropriated funds may only be used for the purposes described in subsection (f).
 
 #### (c) Eligible grantees
 
@@ -58,7 +58,7 @@ It is the purpose of this section to assist eligible grantees in responding appr
 
 &emsp;&emsp;&emsp;(i) because that person is or is perceived to be, or has a family or household member who is or is perceived to be, a victim of such violence; or
 
-&emsp;&emsp;&emsp;(ii) because of the actions or threatened actions of the individual who the victim, as certified in subsection (e) of this section, states has committed or threatened to commit acts of such violence against the victim, or against the victim's family or household member;
+&emsp;&emsp;&emsp;(ii) because of the actions or threatened actions of the individual who the victim, as certified in subsection (e), states has committed or threatened to commit acts of such violence against the victim, or against the victim's family or household member;
 
 &emsp;&emsp;(D) plans are developed that establish meaningful consultation and coordination with local victim service providers, tenant organizations, linguistically and culturally specific service providers, State domestic violence and sexual assault coalitions, and, where they exist, tribal domestic violence and sexual assault coalitions; and
 
@@ -102,7 +102,7 @@ Each eligible entity seeking a grant under this section shall submit an applicat
 
 #### (f) Use of funds
 
-Grants and contracts awarded pursuant to subsection (a) of this section shall provide to eligible entities personnel, training, and technical assistance to develop and implement policies, practices, and procedures, making physical improvements or changes, and developing or enhancing collaborations for the purposes of—
+Grants and contracts awarded pursuant to subsection (a) shall provide to eligible entities personnel, training, and technical assistance to develop and implement policies, practices, and procedures, making physical improvements or changes, and developing or enhancing collaborations for the purposes of—
 
 &emsp;(1) enabling victims of domestic violence, dating violence, sexual assault, and stalking with otherwise disqualifying rental, credit, or criminal histories to be eligible to obtain housing or housing assistance, if such victims would otherwise qualify for housing or housing assistance and can provide documented evidence that demonstrates the causal connection between such violence or abuse and the victims' negative histories;
 
@@ -112,7 +112,7 @@ Grants and contracts awarded pursuant to subsection (a) of this section shall pr
 
 &emsp;(4) assisting victims who need to leave a public housing, tribally designated housing, or assisted housing unit quickly to protect their safety, including those who are seeking transfer to a new public housing unit, tribally designated housing unit, or assisted housing unit, whether in the same or a different neighborhood or jurisdiction;
 
-&emsp;(5) enabling the public housing agency, tribally designated housing entity, or assisted housing provider, or the victim, to remove, consistent with applicable State law, the perpetrator of domestic violence, dating violence, sexual assault, or stalking without evicting, removing, or otherwise penalizing the victim;
+&emsp;(5) enabling the public housing agency, tribally designated housing entity, or assistedhousing provider, or the victim, to remove, consistent with applicable State law, the perpetrator of domestic violence, dating violence, sexual assault, or stalking without evicting, removing, or otherwise penalizing the victim;
 
 &emsp;(6) enabling the public housing agency, tribally designated housing entity, or assisted housing provider, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up;
 
@@ -130,7 +130,7 @@ There are authorized to be appropriated $4,000,000 for each of fiscal years 2014
 
 #### (h) Technical assistance
 
-Up to 12 percent of the amount appropriated under subsection (g) of this section for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
+Up to 12 percent of the amount appropriated under subsection (g) for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
 
 (Pub. L. 103–322, title IV, §41405, as added Pub. L. 109–162, title VI, §601, Jan. 5, 2006, 119 Stat. 3035; amended Pub. L. 113–4, title VI, §603(2), Mar. 7, 2013, 127 Stat. 110.)
 

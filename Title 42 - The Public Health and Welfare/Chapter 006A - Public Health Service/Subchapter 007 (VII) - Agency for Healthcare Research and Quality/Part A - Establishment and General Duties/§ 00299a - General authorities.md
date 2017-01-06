@@ -26,7 +26,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (1) In general
 
-&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) <sup>1</sup> of this title as well as other appropriated funds.
+&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a), to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) <sup>1</sup> of this title as well as other appropriated funds.
 
 #### (2) Requirements
 
@@ -34,7 +34,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (c) Multidisciplinary centers
 
-The Director may provide financial assistance to assist in meeting the costs of planning and establishing new centers, and operating existing and new centers, for multidisciplinary health services research, demonstration projects, evaluations, training, and policy analysis with respect to the matters referred to in subsection (a) of this section.
+The Director may provide financial assistance to assist in meeting the costs of planning and establishing new centers, and operating existing and new centers, for multidisciplinary health services research, demonstration projects, evaluations, training, and policy analysis with respect to the matters referred to in subsection (a).
 
 #### (d) Relation to certain authorities regarding social security
 
@@ -46,7 +46,7 @@ The Agency shall not mandate national standards of clinical practice or quality 
 
 #### (f) Rule of construction
 
-Nothing in this section shall be construed to imply that the Agency's role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers,health care delivery systems, and individual preferences.
+Nothing in this section shall be construed to imply that the Agency's role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
 
 (July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654; amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
 

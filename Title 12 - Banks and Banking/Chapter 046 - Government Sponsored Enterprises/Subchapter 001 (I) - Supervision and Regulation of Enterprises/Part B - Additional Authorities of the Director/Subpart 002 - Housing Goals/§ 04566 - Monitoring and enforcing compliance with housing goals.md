@@ -20,7 +20,7 @@
 
 #### (4) Enforcement of duty to provide mortgage credit to underserved markets
 
-&emsp;The duty under section 4565(a) of this title of each enterprise to serve underserved markets (as determined in accordance with section 4565(c) of this title) shall be enforceable under this section to the same extent and under thesame provisions that the housing goals established under this subpart are enforceable. Such duty shall be enforceable only under this section, except that such duty shall not be subject to subsection (c)(7) of this section and shall not be enforceable under any other provision of this chapter (including subpart 3 of this part) or under any provision of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\].
+&emsp;The duty under section 4565(a) of this title of each enterprise to serve underserved markets (as determined in accordance with section 4565(c) of this title) shall be enforceable under this section to the same extent and under the same provisions that the housing goals established under this subpart are enforceable. Such duty shall be enforceable only under this section, except that such duty shall not be subject to subsection (c)(7) of this section and shall not be enforceable under any other provision of this chapter (including subpart 3 of this part) or under any provision of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\].
 
 #### (5) Additional credit
 

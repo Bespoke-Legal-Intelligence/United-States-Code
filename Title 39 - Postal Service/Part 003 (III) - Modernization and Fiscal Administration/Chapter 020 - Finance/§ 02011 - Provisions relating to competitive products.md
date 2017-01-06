@@ -20,7 +20,7 @@
 
 (c) If the Postal Service determines that the moneys of the Competitive Products Fund are in excess of current needs, the Postal Service may request the investment of such amounts as the Postal Service determines advisable by the Secretary of the Treasury in obligations of, or obligations guaranteed by, the Government of the United States, and, with the approval of the Secretary, in such other obligations or securities as the Postal Service determines appropriate.
 
-(d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Competitive Products Fund in anyFederal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
+(d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Competitive Products Fund in any Federal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
 
 (e)(1)(A) Subject to the limitations specified in section 2005(a), the Postal Service is authorized to borrow money and to issue and sell such obligations as the Postal Service determines necessary to provide for competitive products and deposit such amounts in the Competitive Products Fund.
 
@@ -82,7 +82,7 @@
 
 (g) A judgment (or settlement of a claim) against the Postal Service or the Government of the United States shall be paid out of the Competitive Products Fund to the extent that the judgment or claim arises out of activities of the Postal Service in the provision of competitive products.
 
-(h)(1)(A) The Secretary of the Treasury, in consultation with the Postal Service and an independent, certified public accounting firm and other advisors as the Secretary considers appropriate, shall develop recommendations regarding—
+(h)(1)(A) The Secretary of the Treasury, in consultation with the Postal Service and an independent, certified public accounting firmand other advisors as the Secretary considers appropriate, shall develop recommendations regarding—
 
 &emsp;(i) the accounting practices and principles that should be followed by the Postal Service with the objectives of—
 

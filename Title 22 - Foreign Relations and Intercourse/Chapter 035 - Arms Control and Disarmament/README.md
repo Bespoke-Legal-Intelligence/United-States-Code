@@ -47,6 +47,7 @@
 | [2593a.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593a%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
 | [2593b.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593b%20-%20Public%20annual%20report%20on%20world%20military%20expenditures%20and%20arms%20transfers.md) | Public annual report on world military expenditures and arms transfers. |
 | 2593c, 2593d. Repealed. |  |
+| [2593e.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593e%20-%20Measures%20against%20persons%20involved%20in%20activities%20that%20violate%20arms%20control%20treaties%20or%20agreements%20with%20the%20United%20States.md) | Measures against persons involved in activities that violate arms control treaties or agreements with the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

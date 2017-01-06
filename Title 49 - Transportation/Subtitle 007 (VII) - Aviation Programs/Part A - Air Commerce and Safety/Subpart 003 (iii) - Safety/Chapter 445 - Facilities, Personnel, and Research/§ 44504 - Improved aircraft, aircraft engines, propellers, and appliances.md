@@ -80,6 +80,10 @@ In subsection (a), the words "to improve" are substituted for "such . . . as t
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Crash-Resistant Fuel Systems
+
+Pub. L. 114–190, title II, §2105, July 15, 2016, 130 Stat. 620, provided that: "Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall evaluate and update, as necessary, standards for crash-resistant fuel systems for civilian rotorcraft."
+
 #### Aviation Fuel Research and Development Program
 
 Pub. L. 112–95, title IX, §910, Feb. 14, 2012, 126 Stat. 141, provided that:
@@ -232,7 +236,7 @@ Objective.—The Administrator of the Federal Aviation Administration shall esta
 
 "(b)
 
-Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee onScience, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a)."
+Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a)."
 
 #### Specialty Metals Consortium
 

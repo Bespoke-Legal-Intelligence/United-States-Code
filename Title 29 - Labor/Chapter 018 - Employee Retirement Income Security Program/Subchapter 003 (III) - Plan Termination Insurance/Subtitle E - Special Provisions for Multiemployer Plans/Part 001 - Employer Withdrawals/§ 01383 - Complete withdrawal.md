@@ -10,7 +10,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 #### (b) Building and construction industry
 
-(1) Notwithstanding subsection (a) of this section, in the case of an employer that has an obligation to contribute under a plan for work performed in the building and construction industry, a complete withdrawal occurs only as described in paragraph (2), if—
+(1) Notwithstanding subsection (a), in the case of an employer that has an obligation to contribute under a plan for work performed in the building and construction industry, a complete withdrawal occurs only as described in paragraph (2), if—
 
 &emsp;(A) substantially all the employees with respect to whom the employer has an obligation to contribute under the plan perform work in the building and construction industry, and
 
@@ -34,7 +34,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 #### (c) Entertainment industry
 
-(1) Notwithstanding subsection (a) of this section, in the case of an employer that has an obligation to contribute under a plan for work performed in the entertainment industry, primarily on a temporary or project-by-project basis, if the plan primarily covers employees in the entertainment industry, a complete withdrawal occurs only as described in subsection (b)(2) of this section applied by substituting "plan" for "collective bargaining agreement" in subparagraph (B)(i) thereof.
+(1) Notwithstanding subsection (a), in the case of an employer that has an obligation to contribute under a plan for work performed in the entertainment industry, primarily on a temporary or project-by-project basis, if the plan primarily covers employees in the entertainment industry, a complete withdrawal occurs only as described in subsection (b)(2) applied by substituting "plan" for "collective bargaining agreement" in subparagraph (B)(i) thereof.
 
 (2) For purposes of this subsection, the term "entertainment industry" means—
 
@@ -52,7 +52,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 #### (d) Other determinative factors
 
-(1) Notwithstanding subsection (a) of this section, in the case of an employer who—
+(1) Notwithstanding subsection (a), in the case of an employer who—
 
 &emsp;(A) has an obligation to contribute under a plan described in paragraph (2) primarily for work described in such paragraph, and
 
@@ -60,7 +60,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 > a complete withdrawal occurs only as described in paragraph (3).
 
-(2) A plan is described in this paragraph if substantially all of the contributions required under the plan are made by employers primarily engaged in the long and short haul trucking industry, the household goods moving industry, or the public warehousing industry.
+(2) A plan is described in this paragraph if substantially all of the contributions required under the plan are made by employers primarilyengaged in the long and short haul trucking industry, the household goods moving industry, or the public warehousing industry.
 
 (3) A withdrawal occurs under this paragraph if—
 
@@ -72,7 +72,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 &emsp;&emsp;(ii) the employer fails to furnish a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to 50 percent of the withdrawal liability of the employer.
 
-(4) If, after an employer furnishes a bond or escrow to a plan under paragraph (3)(B)(ii), the corporation determines that the cessation of the employer's obligation to contribute under the plan (considered together with any cessations by other employers), or cessation of covered operations under the plan, has resulted in substantial damage to the contribution base of the plan,the employer shall be treated as having withdrawn from the plan on the date on which the obligation to contribute or covered operations ceased, and such bond or escrow shall be paid to the plan. The corporation shall not make a determination under this paragraph more than 60 months after the date on which such obligation to contribute or covered operations ceased.
+(4) If, after an employer furnishes a bond or escrow to a plan under paragraph (3)(B)(ii), the corporation determines that the cessation of the employer's obligation to contribute under the plan (considered together with any cessations by other employers), or cessation of covered operations under the plan, has resulted in substantial damage to the contribution base of the plan, the employer shall be treated as having withdrawn from the plan on the date on which the obligation to contribute or covered operations ceased, and such bond or escrow shall be paid to the plan. The corporation shall not make a determination under this paragraph more than 60 months after the date on which such obligation to contribute or covered operations ceased.
 
 (5) If the corporation determines that the employer has no further liability under the plan either—
 
@@ -90,7 +90,7 @@ For purposes of this part, the date of a complete withdrawal is the date of the 
 
 #### (f) Special liability withdrawal rules for industries other than construction and entertainment industries; procedures applicable to amend plans
 
-(1) The corporation may prescribe regulations under which plans in industries other than the construction or entertainment industries may be amended to provide for special withdrawal liability rules similar to the rules described in subsections (b) and (c) of this section.
+(1) The corporation may prescribe regulations under which plans in industries other than the construction or entertainment industries may be amended to provide for special withdrawal liability rules similar to the rules described in subsections (b) and (c).
 
 (2) Regulations under paragraph (1) shall permit use of special withdrawal liability rules—
 

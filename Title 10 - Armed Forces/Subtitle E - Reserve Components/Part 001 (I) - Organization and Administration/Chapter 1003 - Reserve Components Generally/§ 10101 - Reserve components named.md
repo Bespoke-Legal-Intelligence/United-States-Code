@@ -30,13 +30,13 @@ Provisions similar to those in this section were contained in section 261(a) of 
 
 Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: "The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve."
 
-Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, §1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: "Any reference in any law, regulation, document, record, or other paper of the United States to the NavalReserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve."
+Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, §1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: "Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve."
 
 Pub. L. 108–375, div. A, title V, §517, Oct. 28, 2004, 118 Stat. 1884, which authorized the Secretary of the Navy, with the President's approval, to redesignate the Naval Reserve as the "Navy Reserve", was repealed by Pub. L. 109–163, div. A, title V, §515(a)(2), Jan. 6, 2006, 119 Stat. 3233.
 
 #### Effective Date
 
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 #### Transfer of Functions
 
@@ -58,7 +58,7 @@ Agreements With Community Partners.—In carrying out the pilot program authoriz
 
 Community Partner Described.—A community partner described in this subsection is a private non-profit organization or institution that meets such qualifications as the Secretary shall establish for purposes of the pilot program and engages in one or more of the following:
 
-&emsp;"(1) Research on the causes, development, and innovative treatment of mental health and substance use disorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers.
+&emsp;"(1) Research on the causes, development, and innovative treatment of mental health and substance usedisorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers.
 
 &emsp;"(2) Identifying and disseminating evidence-based treatments of mental health and substance use disorders and traumatic brain injury described in paragraph (1).
 
@@ -122,7 +122,7 @@ Notice to congress.—Until December 31, 2014, the Secretary of the military dep
 
 "(b)
 
-Notice of Other Suspensions of Training.—Until December 31, 2014, in the event of a suspension of training (other than an anticipated suspension of training described in subsection (a)(1)) of at least five days at a temporary duty location at which one or moreunits of the reserve components on active duty are engaged in mobilization training or pre-mobilization training, the Secretary of the military department having jurisdiction over such unit or units shall submit written notice of the suspension to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Notice of such suspension of training shall be so submitted at the time of such suspension of training.
+Notice of Other Suspensions of Training.—Until December 31, 2014, in the event of a suspension of training (other than an anticipated suspension of training described in subsection (a)(1)) of at least five days at a temporary duty location at which one or more units of the reserve components on active duty are engaged in mobilization training or pre-mobilization training, the Secretary of the military department having jurisdiction over such unit or units shall submit written notice of the suspension to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Notice of such suspension of training shall be so submitted at the time of such suspension of training.
 
 "(c)
 
@@ -224,7 +224,7 @@ Focus of information, events, and activities.—
 
 &emsp;&emsp;"(A)
 
-Before activation, mobilization, or deployment.—Before a period of activation, mobilization, or deployment, the information, events, andactivities described in paragraph (1) should focus on preparing eligible individuals and affected communities for the rigors of activation, mobilization, and deployment.
+Before activation, mobilization, or deployment.—Before a period of activation, mobilization, or deployment, the information, events, and activities described in paragraph (1) should focus on preparing eligible individuals and affected communities for the rigors of activation, mobilization, and deployment.
 
 &emsp;&emsp;"(B)
 
@@ -394,7 +394,7 @@ Pub. L. 98–212, title VII, §783, Dec. 8, 1983, 97 Stat. 1453.
 
 #### Retention in Active Status of National Guard or Reserve Technicians Until Age Sixty
 
-Pub. L. 104–61, title VIII, §8017, Dec. 1, 1995, 109 Stat. 655, provided that: "Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretaries of the Army and Air Force may authorize the retention in an active status until age sixty of any person who would otherwise be removed from an active status and who is employed as a National Guard or Reserve technician in a position in which active status in a reserve component of the Army or Air Force is required as a condition of that employment."
+Pub. L. 104–61, title VIII, §8017, Dec. 1, 1995, 109 Stat. 655, provided that: "Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretaries of the Army and Air Force mayauthorize the retention in an active status until age sixty of any person who would otherwise be removed from an active status and who is employed as a National Guard or Reserve technician in a position in which active status in a reserve component of the Army or Air Force is required as a condition of that employment."
 
 Similar provisions were contained in the following prior appropriation acts:
 

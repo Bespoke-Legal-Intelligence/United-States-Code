@@ -132,7 +132,7 @@
 
 #### (3) Goals
 
-&emsp;The goals of a center funded under this subsection shall be to facilitate the creation of jobs in rural areas through the development of new rural cooperatives, value added processing, and rural businesses.
+&emsp;The goals of a center funded under this subsection shall be to facilitate the creation ofjobs in rural areas through the development of new rural cooperatives, value added processing, and rural businesses.
 
 #### (4) Application
 
@@ -412,7 +412,7 @@
 
 #### (h) Loan guarantees for certain loans
 
-The Secretary may guarantee loans made under subsection (a) to finance the issuance ofbonds for the projects described in section 1926(a)(24) of this title.
+The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
 
 #### (i) Appropriate technology transfer for rural areas program
 
@@ -514,7 +514,7 @@ Subsec. (e)(5)(F). Pub. L. 110–246, §6013(a)(7), struck out "greater than" be
 
 Subsec. (e)(6). Pub. L. 110–246, §6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant."
 
-Subsec. (e)(7) to (12). Pub. L. 110–246, §6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars. (7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted "2008 through 2012" for "1996 through 2007".
+Subsec. (e)(7) to (12). Pub. L. 110–246, §6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars.\(7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted "2008 through 2012" for "1996 through 2007".
 
 Subsec. (f)(3). Pub. L. 110–246, §6014, substituted "2008 through 2012" for "2002 through 2007".
 
@@ -598,7 +598,7 @@ Subsec. (j). Pub. L. 104–127, §747(a)(6), redesignated subsec. (j) as (f).
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 102–552, which directed the substitution of "business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students," for "business enterprises," in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+Pub. L. 102–552, which directed the substitution of "business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students," for "business enterprises," in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm andRural Development Act, to reflect the probable intent of Congress.
 
 <b>1991</b>—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted "this chapter" for "this Act".
 
@@ -636,7 +636,7 @@ Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
 Subsec. (f). Pub. L. 99–409, §2(2), added subsec. (f).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term "solar energy", for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the FederalNonnuclear Energy Research and Development Act of 1974, as amended.
+<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term "solar energy", for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 

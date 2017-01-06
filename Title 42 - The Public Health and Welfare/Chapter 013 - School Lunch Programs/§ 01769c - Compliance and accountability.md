@@ -4,7 +4,7 @@
 
 #### (1) <sup>1</sup> In general
 
-&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program established under this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
+&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program established under this chapter and the school breakfastprogram established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
 
 &emsp;&emsp;(A) the nutritional requirements of section 1758(f) of this title for school lunches; and
 
@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Under the system described in subsection (a) of this section, each State educational agency shall—
+&emsp;Under the system described in subsection (a), each State educational agency shall—
 
 &emsp;&emsp;(A) require that local food service authorities comply with the nutritional requirements described in subparagraphs (A) and (B) of paragraph (1); <sup>2</sup>
 
@@ -44,7 +44,7 @@
 
 #### (B) Additional administrative review
 
-&emsp;&emsp;In addition to any review required by subsection (a) of this section or paragraph (1), each State educational agency shall conduct an administrative review of each selected local educational agency during the review cycle established under subsection (a) of this section.
+&emsp;&emsp;In addition to any review required by subsection (a) or paragraph (1), each State educational agency shall conduct an administrative review of each selected local educational agency during the review cycle established under subsection (a).
 
 #### (C) Scope of review
 
@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a), the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
 
 #### (B) Amount
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first followup review conducted by the State educational agency of the local educational agency under this section after July 1, 2005, the date that is 60 days after the beginning of the period under clause (i); or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the State educational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the Stateeducational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
 
 #### (5) Use of retained funds
 
@@ -166,7 +166,7 @@ In carrying out this section, the Secretary shall—
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $10,000,000 for each of fiscal years 2011 through 2015.
+There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) $10,000,000 for each of fiscal years 2011 through 2015.
 
 #### (e) Fines for violating program requirements
 
@@ -238,7 +238,7 @@ A prior section 1769c, act June 4, 1946, ch. 281, §22, as added Nov. 10, 1978, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authoritiesthat participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5."
+<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5."
 
 Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 

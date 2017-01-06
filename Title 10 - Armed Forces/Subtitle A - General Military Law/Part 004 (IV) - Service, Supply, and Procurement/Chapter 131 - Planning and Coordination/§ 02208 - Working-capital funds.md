@@ -28,7 +28,7 @@
 
 (i) For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 4543 of this title.
 
-(j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
+(j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles,as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
 
 &emsp;(A) the person purchasing the article or service is fulfilling a Department of Defense contract or a subcontract under a Department of Defense contract, and the solicitation for the contract or subcontract is open to competition between Department of Defense activities and private firms; or
 
@@ -238,7 +238,7 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 Subsec. (t). Pub. L. 114–92, §1422, added subsec. (t).
 
-<b>2011</b>—Subsec. (c)(1). Pub. L. 111–383, §1403(1), inserted before semicolon ", including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability,maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment".
+<b>2011</b>—Subsec. (c)(1). Pub. L. 111–383, §1403(1), inserted before semicolon ", including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment".
 
 Subsec. (k)(2). Pub. L. 111–383, §1403(2), substituted "$250,000" for "$100,000" in introductory provisions.
 
@@ -302,7 +302,7 @@ Pub. L. 98–94, title XII, §1204(b), Sept. 24, 1983, 97 Stat. 683, provided th
 
 #### Pilot Program for Acquisition of Commercial Satellite Communication Services
 
-Pub. L. 113–291, div. A, title XVI, §1605, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, §1612, Nov. 25, 2015, 129 Stat. 1103, provided that:
+Pub. L. 113–291, div. A, title XVI, §1605, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, titleXVI, §1612, Nov. 25, 2015, 129 Stat. 1103; Pub. L. 114–328, div. A, title XVI, §1606(a), Dec. 23, 2016, 130 Stat. 2586, provided that:
 
 "(a)
 
@@ -372,7 +372,11 @@ Final report.—Not later than December 1, 2020, the Secretary shall submit to t
 
 &emsp;&emsp;&emsp;"(iii) any additional authorities the Secretary determines necessary to acquire commercial satellite communications services as described in subsection (a)(1); and
 
-&emsp;&emsp;&emsp;"(iv) any recommendations of the Secretary with respect to improving or extending the pilot program."
+&emsp;&emsp;&emsp;"(iv) any recommendations of the Secretary with respect to improving or extending the pilot program.
+
+"(e)
+
+Implementation of Goals.—In developing and carrying out the pilot program under subsection (a)(1), by not later than September 30, 2017, the Secretary shall take actions to begin the implementation of each goal specified in subsection (b)."
 
 #### Advance Billing for Fiscal Year 2006
 
@@ -394,11 +398,11 @@ Pub. L. 103–160, div. A, title III, §333(a), (b), Nov. 30, 1993, 107 Stat. 16
 
 #### Capital Asset Subaccount
 
-Pub. L. 102–484, div. A, title III, §342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 102–484, div. A, title III, §342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amountsfor depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Limitations on Use of Defense Business Operations Fund
 
-Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated insection 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
+Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
 
 #### Defense Business Operations Fund
 

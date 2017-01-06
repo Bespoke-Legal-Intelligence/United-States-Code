@@ -4,7 +4,7 @@
 
 #### (1) Study and evaluation
 
-&emsp;The Comptroller General of the United States shall conduct a study, and evaluate theeffectiveness, of coordination of health care services provided to Indians—
+&emsp;The Comptroller General of the United States shall conduct a study, and evaluate the effectiveness, of coordination of health care services provided to Indians—
 
 &emsp;&emsp;(A) through Medicare, Medicaid, or SCHIP;
 

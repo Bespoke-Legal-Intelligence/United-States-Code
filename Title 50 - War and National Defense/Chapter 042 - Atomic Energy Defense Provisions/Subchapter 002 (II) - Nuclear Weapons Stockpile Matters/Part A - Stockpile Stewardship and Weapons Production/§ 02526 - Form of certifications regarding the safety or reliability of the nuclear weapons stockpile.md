@@ -2,7 +2,7 @@
 
 Any certification submitted to the President by the Secretary of Defense or the Secretary of Energy regarding confidence in the safety or reliability of a nuclear weapon type in the United States nuclear weapons stockpile shall be submitted in classified form only.
 
-(Pub. L. 107–314, div. D, title XLII, §4206, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; renumbered Pub. L. 107–314, div. D, title XLII, §4206, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(7), Nov. 24, 2003, 117 Stat. 1759.)
+(Pub. L. 107–314, div. D, title XLII, §4206, formerly Pub. L. 106–398, §1 \[div. C, title XXXI,§3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; renumbered Pub. L. 107–314, div. D, title XLII, §4206, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(7), Nov. 24, 2003, 117 Stat. 1759.)
 
 #### Codification
 

@@ -8,7 +8,7 @@ Time Limit on Treasury Checks.—
 
 In general.—Except as provided in sections 3329 and 3330 of this title—
 
-&emsp;&emsp;(A) the Secretary shall not be required to pay a Treasury check issued on or after theeffective date of this section unless it is negotiated to a financial institution within 12 months after the date on which the check was issued; and
+&emsp;&emsp;(A) the Secretary shall not be required to pay a Treasury check issued on or after the effective date of this section unless it is negotiated to a financial institution within 12 months after the date on which the check was issued; and
 
 &emsp;&emsp;(B) the Secretary shall not be required to pay a Treasury check issued before the effective date of this section unless it is negotiated to a financial institution within 12 months after such effective date.
 
@@ -106,7 +106,7 @@ In subsection (e)(2), the words "and directions" are omitted as surplus.
 
 #### References in Text
 
-The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec. (a) of this section as amended by section 1002 of Pub. L.100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
+The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec. (a) of this section as amended by section 1002 of Pub. L. 100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 100–86, §1002(2), added subsec. (f).
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–86, title X, §1006, Aug. 10, 1987, 101 Stat. 659, provided that: "The amendments made by sections 1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations."
+Pub. L. 100–86, title X, §1006, Aug. 10, 1987, 101 Stat. 659, provided that: "The amendments made by sections1002, 1003, and 1004 \[enacting section 3334 of this title and amending this section and sections 3702 and 3712 of this title\] shall become effective 6 months after the date of enactment of this Act \[Aug. 10, 1987\] or on such later date as the Secretary of the Treasury may prescribe in regulations."
 
 #### Regulations
 

@@ -60,9 +60,9 @@ For purposes of this section, the term "withdrawal liability payment fund", and 
 
 (1) For purposes of this part—
 
-&emsp;(A) only amounts paid by the fund to a plan under subsection (c)(1)(A) of this section shall be credited to withdrawal liability otherwise payable by the employer, unless the plan otherwise provides, and
+&emsp;(A) only amounts paid by the fund to a plan under subsection (c)(1)(A) shall be credited to withdrawal liability otherwise payable by the employer, unless the plan otherwise provides, and
 
-&emsp;(B) any amounts paid by the fund under subsection (c) of this section to a plan shall be treated by the plan as a payment of withdrawal liability to such plan.
+&emsp;(B) any amounts paid by the fund under subsection (c) to a plan shall be treated by the plan as a payment of withdrawal liability to such plan.
 
 (2) For purposes of applying provisions relating to the funding standard accounts (and minimum contribution requirements), amounts paid from the plan to the fund shall be applied to reduce the amount treated as contributed to the plan.
 
@@ -70,9 +70,9 @@ For purposes of this section, the term "withdrawal liability payment fund", and 
 
 The fund shall be subrogated to the rights of the plan against the employer that has withdrawn from the plan for amounts paid by a fund to a plan under—
 
-&emsp;(1) subsection (c)(1)(A) of this section, to the extent not credited under subsection (d)(1)(A) of this section, and
+&emsp;(1) subsection (c)(1)(A), to the extent not credited under subsection (d)(1)(A), and
 
-&emsp;(2) subsection (c)(1)(C) of this section.
+&emsp;(2) subsection (c)(1)(C).
 
 #### (f) Discharge of rights of fiduciary of fund; standards applicable, etc.
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of this chapter, a fiduciary of the fund sha
 
 #### (g) Prohibition on payments from fund to plan where certain labor negotiations involve employer withdrawn or partially withdrawn from plan and continuity of labor organization representing employees continues
 
-No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organizationwhich represented such employees immediately preceding such withdrawal.
+No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organization which represented such employees immediately preceding such withdrawal.
 
 #### (h) Purchase of insurance by employer
 

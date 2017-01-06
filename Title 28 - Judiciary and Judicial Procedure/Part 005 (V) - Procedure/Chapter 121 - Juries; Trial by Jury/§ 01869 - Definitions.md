@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(d) "lists of actual voters" shall mean the official lists of persons actually voting in either the most recent State or the most recent Federal general election;
 
-&emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shalldetermine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
+&emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
 
 &emsp;(f) "district court of the United States", "district court", and "court" shall mean any district court established by chapter 5 of this title, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
 
@@ -32,7 +32,7 @@ Based on title 28, U.S.C., 1940 ed., §423 (Mar. 3, 1911, ch. 231, §286, 36 Sta
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare,prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

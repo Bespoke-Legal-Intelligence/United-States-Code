@@ -32,7 +32,7 @@ Alternative prohibition.—If, pursuant to paragraph (1), a foreign government o
 
 Regulations.—The Secretary shall prescribe such regulations as are necessary to carry out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114 Stat. 159; Pub. L. 112–95, title IV, §401(a), Feb. 14, 2012, 126 Stat. 83.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114Stat. 159; Pub. L. 112–95, title IV, §401(a), Feb. 14, 2012, 126 Stat. 83.)
 
 Historical and Revision Notes
 

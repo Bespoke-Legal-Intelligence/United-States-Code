@@ -90,7 +90,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(C) maintaining a directory of all Federal, regional, State and private sector programs that provide export information and assistance to small business concerns; and
 
-&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure that the maximum information is made available to small business concerns in a readily usable form;
+&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure thatthe maximum information is made available to small business concerns in a readily usable form;
 
 &emsp;(8) encourage through cooperation with the Department of Commerce, greater small business participation in trade fairs, shows, missions, and other domestic and overseas export development activities of the Department of Commerce;
 
@@ -104,7 +104,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(D) provide advice to personnel of the Administration involved in making loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small business concerns engaged in exports;
 
-&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments andagencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
+&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
@@ -166,7 +166,7 @@ The Associate Administrator shall submit an annual report to the Committee on Sm
 
 #### (g) Studies
 
-The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shallreport to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
+The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shall report to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
 
 &emsp;(1) the viability and cost of establishing an annual, competitive small business export incentive program similar to the Small Business Innovation Research program and alternative methods of structuring such a program;
 
@@ -302,7 +302,187 @@ The Administrator shall ensure that—
 
 &emsp;The Associate Administrator shall designate an individual within the Administration to oversee all activities conducted by Administration employees assigned to Export Assistance Centers.
 
-#### (l) Definitions
+#### (l) State Trade Expansion Program
+
+#### (1) Definitions
+
+&emsp;In this subsection—
+
+&emsp;&emsp;(A) the term "eligible small business concern" means a business concern that—
+
+&emsp;&emsp;&emsp;(i) is organized or incorporated in the United States;
+
+&emsp;&emsp;&emsp;(ii) is operating in the United States;
+
+&emsp;&emsp;&emsp;(iii) meets—
+
+&emsp;&emsp;&emsp;&emsp;(I) the applicable industry-based small business size standard established under section 632 of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the alternate size standard applicable to the program under section 636(a) of this title and the loan programs undertitle V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
+
+&emsp;&emsp;&emsp;(iv) has been in business for not less than 1 year, as of the date on which assistance using a grant under this subsection commences; and
+
+&emsp;&emsp;&emsp;(v) has access to sufficient resources to bear the costs associated with trade, including the costs of packing, shipping, freight forwarding, and customs brokers;
+
+&emsp;&emsp;(B) the term "program" means the State Trade Expansion Program established under paragraph (2);
+
+&emsp;&emsp;(C) the term "rural small business concern" means an eligible small business concern located in a rural area, as that term is defined in section 1393(a)(2) of title 26;
+
+&emsp;&emsp;(D) the term "socially and economically disadvantaged small business concern" has the meaning given that term in section 637(a)(4)(A) of this title; and
+
+&emsp;&emsp;(E) the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
+
+#### (2) Establishment of program
+
+&emsp;The Associate Administrator shall establish a trade expansion program, to be known as the "State Trade Expansion Program", to make grants to States to carry out programs that assist eligible small business concerns in—
+
+&emsp;&emsp;(A) participation in foreign trade missions;
+
+&emsp;&emsp;(B) a subscription to services provided by the Department of Commerce;
+
+&emsp;&emsp;(C) the payment of website fees;
+
+&emsp;&emsp;(D) the design of marketing media;
+
+&emsp;&emsp;(E) a trade show exhibition;
+
+&emsp;&emsp;(F) participation in training workshops;
+
+&emsp;&emsp;(G) a reverse trade mission;
+
+&emsp;&emsp;(H) procurement of consultancy services (after consultation with the Department of Commerce to avoid duplication); or
+
+&emsp;&emsp;(I) any other initiative determined appropriate by the Associate Administrator.
+
+#### (3) Grants
+
+#### (A) Joint review
+
+&emsp;&emsp;In carrying out the program, the Associate Administrator may make a grant to a State to increase the number of eligible small business concerns in the State exploring significant new trade opportunities.
+
+#### (B) Considerations
+
+&emsp;&emsp;In making grants under this subsection, the Associate Administrator may give priority to an application by a State that proposes a program that—
+
+&emsp;&emsp;&emsp;(i) focuses on eligible small business concerns as part of a trade expansion program;
+
+&emsp;&emsp;&emsp;(ii) demonstrates intent to promote trade expansion by—
+
+&emsp;&emsp;&emsp;&emsp;(I) socially and economically disadvantaged small business concerns;
+
+&emsp;&emsp;&emsp;&emsp;(II) small business concerns owned or controlled by women; and
+
+&emsp;&emsp;&emsp;&emsp;(III) rural small business concerns;
+
+&emsp;&emsp;&emsp;(iii) promotes trade facilitation from a State that is not 1 of the 10 States with the highest percentage of eligible small business concerns that are engaged in international trade, based upon the most recent data from the Department of Commerce; and
+
+&emsp;&emsp;&emsp;(iv) includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) activities which have resulted in the highest return on investment based on the most recent year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the adoption of shared best practices included in the annual report of the Administration.
+
+#### (C) Limitations
+
+#### (i) Single application
+
+&emsp;&emsp;&emsp;A State may not submit more than 1 application for a grant under the program in any 1 fiscal year.
+
+#### (ii) Proportion of amounts
+
+&emsp;&emsp;&emsp;The total value of grants made under the program during a fiscal year to the 10 States with the highest percentage of eligible small business concerns, based upon the most recent data available from the Department of Commerce, shall be not more than 40 percent of the amounts appropriated for the program for that fiscal year.
+
+#### (iii) Duration
+
+&emsp;&emsp;&emsp;The Associate Administrator shall award a grant under this program for a period of not more than 2 years.
+
+#### (D) Application
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish.
+
+#### (ii) Consultation to reduce duplication
+
+&emsp;&emsp;&emsp;A State desiring a grant under the program shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) before submitting an application under clause (i), consult with applicable trade agencies of the Federal Government on the scope and mission of the activities the State proposes to carry out using the grant, to ensure proper coordination and reduce duplication in services; and
+
+&emsp;&emsp;&emsp;&emsp;(II) document the consultation conducted under subclause (I) in the application submitted under clause (i).
+
+#### (4) Competitive basis
+
+&emsp;The Associate Administrator shall award grants under the program on a competitive basis.
+
+#### (5) Federal share
+
+&emsp;The Federal share of the cost of a trade expansion program carried out using a grant under the program shall be—
+
+&emsp;&emsp;(A) for a State that has a high trade volume, as determined by the Associate Administrator, not more than 65 percent; and
+
+&emsp;&emsp;(B) for a State that does not have a high trade volume, as determined by the Associate Administrator, not more than 75 percent.
+
+#### (6) Non-Federal share
+
+&emsp;The non-Federal share of the cost of a trade expansion program carried out using a grant under the program shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+
+#### (7) Reports
+
+#### (A) Initial report
+
+&emsp;&emsp;Not later than 120 days after February 24, 2016, the Associate Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report, which shall include—
+
+&emsp;&emsp;&emsp;(i) a description of the structure of and procedures for the program;
+
+&emsp;&emsp;&emsp;(ii) a management plan for the program; and
+
+&emsp;&emsp;&emsp;(iii) a description of the merit-based review process to be used in the program.
+
+#### (B) Annual reports
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Associate Administrator shall publish on the website of the Administration an annual report regarding the program, which shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number and amount of grants made under the program during the preceding year;
+
+&emsp;&emsp;&emsp;&emsp;(II) a list of the States receiving a grant under the program during the preceding year, including the activities being performed with each grant;
+
+&emsp;&emsp;&emsp;&emsp;(III) the effect of each grant on the eligible small business concerns in the State receiving the grant;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the total return on investment for each State; and
+
+&emsp;&emsp;&emsp;&emsp;(V) a description of best practices by States that showed high returns on investment and significant progress in helping more eligible small business concerns.
+
+#### (ii) Notice to Congress
+
+&emsp;&emsp;&emsp;On the date on which the Associate Administrator publishes a report under clause (i), the Associate Administrator shall notify the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives that the report has been published.
+
+#### (8) Reviews by Inspector General
+
+#### (A) In general
+
+&emsp;&emsp;The Inspector General of the Administration shall conduct a review of—
+
+&emsp;&emsp;&emsp;(i) the extent to which recipients of grants under the program are measuring the performance of the activities being conducted and the results of the measurements; and
+
+&emsp;&emsp;&emsp;(ii) the overall management and effectiveness of the program.
+
+#### (B) Reports
+
+#### (i) Pilot program
+
+&emsp;&emsp;&emsp;Not later than 6 months after February 24, 2016, the Inspector General of the Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the use of amounts made available under the State Trade and Export Promotion Grant Program under section 1207 of the Small Business Jobs Act of 2010 (15 U.S.C. 649b note).
+
+#### (ii) New step program
+
+&emsp;&emsp;&emsp;Not later than 18 months after the date on which the first grant is awarded under this subsection, the Inspector General of the Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the review conducted under subparagraph (A).
+
+#### (9) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out the program $30,000,000 for each of fiscal years 2016 through 2020.
+
+#### (m) Definitions
 
 In this section—
 
@@ -314,13 +494,21 @@ In this section—
 
 &emsp;(4) the term "Office" means the Office of International Trade established under subsection (a)(1).
 
-(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527.)
+(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174.)
+
+#### References in Text
+
+The Small Business Investment Act of 1958, referred to in subsec. (l)(1)(A)(iii)(II), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+
+Section 1207 of the Small Business Jobs Act of 2010, referred to in subsec. (l)(8)(B)(i), is section 1207 of Pub. L. 111–240, which is set out as a note under section 649b of this title.
 
 #### Prior Provisions
 
-A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for use of Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
+A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for useof Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsecs. (l), (m). Pub. L. 114–125 added subsec. (l) and redesignated former subsec. (l) as (m).
 
 <b>2010</b>—Pub. L. 111–240, §1203(a)(1), inserted section catchline.
 
@@ -430,7 +618,7 @@ Pub. L. 96–481, title I, §113(b), Oct. 21, 1980, 94 Stat. 2324, provided that
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Implementation
 
@@ -482,7 +670,7 @@ Study and report.—Not later than 6 months after the date of enactment of this 
 
 "(2)
 
-Definition.—In this subsection, the term 'export finance specialist' has the meaning given that term in section 22(l) of the Small Business Act \[15 U.S.C. 649(l)\], as added by this title."
+Definition.—In this subsection, the term 'export finance specialist' has the meaning given that term in section 22(l) of the Small Business Act \[now section 22(m), 15 U.S.C. 649(m)\], as added by this title."
 
 \[For definitions of "Administrator" and "small business concern" as used in section 1205(b) of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
 

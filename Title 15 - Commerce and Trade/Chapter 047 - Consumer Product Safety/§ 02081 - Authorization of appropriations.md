@@ -26,7 +26,7 @@
 
 #### (b) Limitation
 
-No funds appropriated under subsection (a) may be used to pay any claim described in section 2053(i) of this title whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under section 2672 of title 28, or under any other provision of law.
+No funds appropriated under subsection (a) may be used to pay any claim described in section 2053(i) of this title whether pursuant to ajudgment of a court or under any award, compromise, or settlement of such claim made under section 2672 of title 28, or under any other provision of law.
 
 (Pub. L. 92–573, §32, Oct. 27, 1972, 86 Stat. 1233; Pub. L. 94–284, §§2, 5(b), May 11, 1976, 90 Stat. 503, 505; Pub. L. 95–631, §1, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 97–35, title XII, §1214, Aug. 13, 1981, 95 Stat. 724; Pub. L. 101–608, title I, §117, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 103–437, §5(c)(1), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, §§201(a), (c), 235(c)(4), Aug. 14, 2008, 122 Stat. 3038, 3039, 3075.)
 
@@ -48,11 +48,15 @@ Subsec. (c). Pub. L. 110–314, §201(c), redesignated subsec. (c) as (b).
 
 <b>1978</b>—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–284, §2, substituted "$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978" for "$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscalyear ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975".
+<b>1976</b>—Subsec. (a). Pub. L. 94–284, §2, substituted "$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978" for "$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975".
 
 Subsec. (c). Pub. L. 94–284, §5(b), added subsec. (c).
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Effective Date
+
+Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out as a note under section 2051 of this title.
 

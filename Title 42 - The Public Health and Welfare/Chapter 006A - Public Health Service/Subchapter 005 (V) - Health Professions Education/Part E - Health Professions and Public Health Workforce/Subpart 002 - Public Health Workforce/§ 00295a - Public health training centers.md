@@ -16,7 +16,7 @@ The Secretary may make grants or contracts for the operation of public health tr
 
 #### (c) Certain requirements
 
-With respect to a public health training center, an award may not be made under subsection (a) of this section unless the program agrees that it—
+With respect to a public health training center, an award may not be made under subsection (a) unless the program agrees that it—
 
 &emsp;(1) will establish or strengthen field placements for students in public or nonprofit private health agencies or organizations;
 

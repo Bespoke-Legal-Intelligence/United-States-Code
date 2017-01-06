@@ -1,6 +1,6 @@
 ### §631. Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade)
 
-(a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 5596(e) or 6383 of this title applies), each officer of the Army, Air Force, or Marine Corps on the active-duty list who holds the grade of first lieutenant and has failed of selection for promotion to the grade of captain for the second time, and each officer of the Navy on the active-duty list who holds the grade of lieutenant (junior grade) and has failed of selection for promotion to the grade of lieutenant for the second time, whose name is not on a list of officers recommended for promotion to the next higher grade shall—
+(a) Except an officer of the Navy and Marine Corps who is an officer designated for limitedduty (to whom section 5596(e) or 6383 of this title applies), each officer of the Army, Air Force, or Marine Corps on the active-duty list who holds the grade of first lieutenant and has failed of selection for promotion to the grade of captain for the second time, and each officer of the Navy on the active-duty list who holds the grade of lieutenant (junior grade) and has failed of selection for promotion to the grade of lieutenant for the second time, whose name is not on a list of officers recommended for promotion to the next higher grade shall—
 
 &emsp;(1) be discharged on the date requested by him and approved by the Secretary of the military department concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
@@ -22,9 +22,13 @@
 
 <b>2001</b>—Pub. L. 107–107, §505(d)(4)(B), struck out "regular" before "first lieutenants" in section catchline.
 
-Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy onthe active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
+Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
 
 Subsec. (d). Pub. L. 107–107, §505(a)(2), added subsec. (d).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–525 added subsec. (c).
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

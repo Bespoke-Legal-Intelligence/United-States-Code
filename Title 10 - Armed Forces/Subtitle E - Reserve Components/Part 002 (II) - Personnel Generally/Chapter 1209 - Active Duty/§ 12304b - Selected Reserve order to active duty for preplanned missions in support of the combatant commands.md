@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—When the Secretary of a military department determines that it is necessary to augment the active forces for a preplanned mission in support of a combatant command, the Secretary may, subject to subsection (b), order any unit of the Selected Reserve (as defined in section 10143(a) of this title), without the consent of the members, to active duty for not more than 365 consecutive days.
+Authority.—When the Secretary of a military department determines that it is necessary to augment the active forces for a preplanned mission in support of a combatant command,the Secretary may, subject to subsection (b), order any unit of the Selected Reserve (as defined in section 10143(a) of this title), without the consent of the members, to active duty for not more than 365 consecutive days.
 
 (b)
 
@@ -20,7 +20,7 @@ Exclusion From Strength Limitations.—Members ordered to active duty under this
 
 (d)
 
-Notice to Congress.—Whenever the Secretary of a military department orders any unit of the Selected Reserve to active duty undersubsection (a), such Secretary shall submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of such unit.
+Notice to Congress.—Whenever the Secretary of a military department orders any unit of the Selected Reserve to active duty under subsection (a), such Secretary shall submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of such unit.
 
 (e)
 

@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;(M) developing or improving facilities for Internet use or other distance education technologies; and
 
-&emsp;&emsp;(N) other activities proposed in the application submitted pursuant to subsection (d) of this section that—
+&emsp;&emsp;(N) other activities proposed in the application submitted pursuant to subsection (d) that—
 
 &emsp;&emsp;&emsp;(i) contribute to carrying out the activities described in subparagraphs (A) through (M); and
 
@@ -82,7 +82,7 @@ In this section:
 
 #### (C) Comparability
 
-&emsp;&emsp;The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
 #### (d) Application, plan, and allocation
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining funds appropriated for any fiscal year to each eligible institution as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
+&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed amongthe eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
 
 &emsp;&emsp;&emsp;&emsp;(II) The remaining 40 percent shall be distributed in equal shares to the eligible Tribal Colleges and Universities.
 
@@ -142,7 +142,7 @@ In this section:
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Navajo Community College Act, referred to in subsec. (b)(3)(A), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+The Navajo Community College Act, referred to in subsec. (b)(3)(A), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
 Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3)(B), is section 532 of Pub. L. 103–382, which is set out in a note under section 301 of Title 7, Agriculture.
 

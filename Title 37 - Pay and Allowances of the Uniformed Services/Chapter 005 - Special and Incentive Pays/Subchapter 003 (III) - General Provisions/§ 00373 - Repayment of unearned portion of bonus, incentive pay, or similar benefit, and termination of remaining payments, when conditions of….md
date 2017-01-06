@@ -2,7 +2,7 @@
 
 (a)
 
-Repayment and Termination.—Except as provided in subsection (b), a member of the uniformed services who is paid a bonus, incentive pay, or similar benefit, the receipt of which is contingent upon the member's satisfaction of certain service or eligibility requirements, shall repay to the United States any unearned portion of the bonus, incentive pay, or similar benefit if the member fails to satisfy any such service oreligibility requirement, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement.
+Repayment and Termination.—Except as provided in subsection (b), a member of the uniformed services who is paid a bonus, incentive pay, or similar benefit, the receipt of which is contingent upon the member's satisfaction of certain service or eligibility requirements, shall repay to the United States any unearned portion of the bonus, incentive pay, or similar benefit if the member fails to satisfy any such service or eligibility requirement, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement.
 
 (b)
 
@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "bonus, incentive pay, or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this section or section 303a(e) of this title.
 
-&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
+&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services,in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
 
 &emsp;&emsp;(A) to a member in a regular or reserve component who remains on active duty or in an active status;
 

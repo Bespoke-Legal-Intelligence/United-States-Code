@@ -12,7 +12,7 @@ In carrying out subsection (a), the Secretary shall assess the operation and mai
 
 &emsp;(2) Commercial fishing.
 
-&emsp;(3) Subsistence, including utilization by Indian tribes (as defined in section 450b of title 25) for subsistence and ceremonial purposes.
+&emsp;(3) Subsistence, including utilization by Indian tribes (as defined in section 5304 of title 25) for subsistence and ceremonial purposes.
 
 &emsp;(4) Use as ingress and egress to harbors of refuge.
 
@@ -42,7 +42,7 @@ For fiscal year 2015, and biennially thereafter, in conjunction with the annual 
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe Water Resources Development Act of 1986 which comprises this chapter.
 
 #### "Secretary" Defined
 

@@ -16,7 +16,7 @@ To enable low-income individuals and families to engage in nutritionally sound f
 
 Beginning with the fiscal year ending September 30, 1982—
 
-&emsp;(1) Any funds annually appropriated under section 343(d) of this title, for the conduct of the expanded food and nutrition education program, up to the amount appropriated under such section for such program for the fiscal year ending September 30, 1981, shall be allocated to each State in the same proportion as funds appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, are allocated amongthe States; with the exception that the Secretary may retain up to 2 per centum of such amount for the conduct of such program in States that did not participate in such program in the fiscal year ending September 30, 1981.
+&emsp;(1) Any funds annually appropriated under section 343(d) of this title, for the conduct of the expanded food and nutrition education program, up to the amount appropriated under such section for such program for the fiscal year ending September 30, 1981, shall be allocated to each State in the same proportion as funds appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, are allocated among the States; with the exception that the Secretary may retain up to 2 per centum of such amount for the conduct of such program in States that did not participate in such program in the fiscal year ending September 30, 1981.
 
 &emsp;(2) Any funds appropriated annually under section 343(d) of this title, for the conduct of the expanded food and nutrition education program in excess of the amount appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, shall be allocated as follows:
 
@@ -113,4 +113,8 @@ Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

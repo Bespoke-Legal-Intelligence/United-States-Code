@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the Indian Law and Order Commission\(referred to in this section as the "Commission").
+There is established a commission to be known as the Indian Law and Order Commission (referred to in this section as the "Commission").
 
 #### (b) Membership
 
@@ -56,7 +56,7 @@ There is established a commission to be known as the Indian Law and Order Commis
 
 #### (1) Chairperson
 
-&emsp;Not later than 15 days after the date on which all members of the Commission have been appointed, the Commission shall select 1 member to serve as Chairperson of the Commission.
+&emsp;Not later than 15 days after the date on which all members of the Commission havebeen appointed, the Commission shall select 1 member to serve as Chairperson of the Commission.
 
 #### (2) Meetings
 
@@ -168,7 +168,7 @@ Not later than 3 years after the date of enactment of this Act, the Commission s
 
 #### (B) Tribal and State agencies
 
-&emsp;&emsp;The Commission may request the head of any tribal or State agency to provide to the Commission such information as the Commission considers to be necessary to carry out this section.
+&emsp;&emsp;The Commission may request the head of any tribal or State agency to provide to theCommission such information as the Commission considers to be necessary to carry out this section.
 
 #### (4) Postal services
 

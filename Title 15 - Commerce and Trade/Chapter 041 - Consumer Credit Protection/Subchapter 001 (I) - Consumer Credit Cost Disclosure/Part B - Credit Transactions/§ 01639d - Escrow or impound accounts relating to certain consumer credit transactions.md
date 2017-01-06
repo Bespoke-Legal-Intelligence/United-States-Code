@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), (c), (d), or (e), a creditor, in connection with the consummation of a consumer credit transaction secured by a first lien on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, shall establish, before the consummation of such transaction, an escrow or impound account for the payment of taxes and hazard insurance, and, if applicable, flood insurance, mortgage insurance, ground rents, and any other required periodic payments or premiums with respect to the property or the loan terms, as provided in, and in accordance with, this section.
+Except as provided in subsection (b), (c), (d), or (e), a creditor, in connection with the consummation of a consumer credit transaction secured by a first lien on the principal dwelling ofthe consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, shall establish, before the consummation of such transaction, an escrow or impound account for the payment of taxes and hazard insurance, and, if applicable, flood insurance, mortgage insurance, ground rents, and any other required periodic payments or premiums with respect to the property or the loan terms, as provided in, and in accordance with, this section.
 
 #### (b) When required
 
@@ -130,7 +130,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) A clear and prominent statement that the consumer is responsible for personally and directly paying the non-escrowed items, in addition to paying the mortgage loan payment, in the absence of any such account, and the fact that the costs for taxes, insurance, and related fees can be substantial.
 
-&emsp;&emsp;(C) A clear explanation of the consequences of any failure to pay non-escrowed items, including the possible requirementfor the forced placement of insurance by the creditor or servicer and the potentially higher cost (including any potential commission payments to the servicer) or reduced coverage for the consumer in the event of any such creditor-placed insurance.
+&emsp;&emsp;(C) A clear explanation of the consequences of any failure to pay non-escrowed items, including the possible requirement for the forced placement of insurance by the creditor or servicer and the potentially higher cost (including any potential commission payments to the servicer) or reduced coverage for the consumer in the event of any such creditor-placed insurance.
 
 &emsp;&emsp;(D) Such other information as the Bureau determines necessary for the protection of the consumer.
 
@@ -138,7 +138,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This part, referred to in subsec. (c)(4), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
+This part, referred to in subsec. (c)(4), was in the original "this subtitle", and was translated as reading"this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(2)(A), (4), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 

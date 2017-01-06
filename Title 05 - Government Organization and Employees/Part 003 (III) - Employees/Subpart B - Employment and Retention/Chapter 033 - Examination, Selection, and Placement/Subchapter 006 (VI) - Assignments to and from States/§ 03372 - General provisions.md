@@ -26,7 +26,7 @@
 
 (e) Under regulations prescribed pursuant to section 3376 of this title—
 
-&emsp;(1) an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to a State or local government, except that the rate of pay of an employee assigned to a federally funded research and development centermay not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
+&emsp;(1) an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to a State or local government, except that the rate of pay of an employee assigned to a federally funded research and development center may not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
 
 &emsp;(2) an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
 
@@ -59,4 +59,8 @@ Pub. L. 103–89, §3(c), Sept. 30, 1993, 107 Stat. 983, provided that: "The ame
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date
+
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under section 3371 of this title.
 

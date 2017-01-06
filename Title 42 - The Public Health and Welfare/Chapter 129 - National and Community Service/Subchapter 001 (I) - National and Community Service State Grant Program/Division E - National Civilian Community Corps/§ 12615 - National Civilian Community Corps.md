@@ -26,7 +26,7 @@ Upon the establishment of the National Civilian Community Corps Program, the Nat
 
 #### (B) Rights and benefits
 
-&emsp;&emsp;A team leader shall be provided the same rights and benefits applicable to other Corpsmembers, except that the Director may increase the limitation on the amount of the living allowance under section 12618(b) of this title by not more than 10 percent for a team leader.
+&emsp;&emsp;A team leader shall be provided the same rights and benefits applicable to other Corps members, except that the Director may increase the limitation on the amount of the living allowance under section 12618(b) of this title by not more than 10 percent for a team leader.
 
 #### (c) Organization of Corps into units
 
@@ -36,7 +36,7 @@ Upon the establishment of the National Civilian Community Corps Program, the Nat
 
 #### (2) Unit leaders
 
-&emsp;The leader of each unit shall be selected from among persons in the permanent cadre established pursuant to section 12619(c)(2) of this title. The designated leader shall accompany the unit throughout the period of agreed service of the members of the unit.
+&emsp;The leader of each unit shall be selected from among persons in the permanent cadre established pursuant to section 12619(c)(2) ofthis title. The designated leader shall accompany the unit throughout the period of agreed service of the members of the unit.
 
 #### (d) Campuses
 
@@ -112,7 +112,7 @@ Subsec. (f)(1). Pub. L. 111–13, §1505(6)(A), substituted "campus director" fo
 
 Subsec. (f)(2). Pub. L. 111–13, §1505(6)(B)(i), substituted "campus director of a campus" for "superintendent of a camp" in introductory provisions.
 
-Subsec. (f)(2)(A). Pub. L. 111–13, §1505(6)(B)(ii), substituted "campus to another unit or campus" for "camp to another unit or camp", "campus director" for"superintendent", "campus director's campus" for "superintendent's camp", and "that unit or campus" for "that unit or camp".
+Subsec. (f)(2)(A). Pub. L. 111–13, §1505(6)(B)(ii), substituted "campus to another unit or campus" for "camp to another unit or camp", "campus director" for "superintendent", "campus director's campus" for "superintendent's camp", and "that unit or campus" for "that unit or camp".
 
 Subsec. (f)(2)(B). Pub. L. 111–13, §1505(6)(B)(iii), substituted "campus director" for "superintendent".
 

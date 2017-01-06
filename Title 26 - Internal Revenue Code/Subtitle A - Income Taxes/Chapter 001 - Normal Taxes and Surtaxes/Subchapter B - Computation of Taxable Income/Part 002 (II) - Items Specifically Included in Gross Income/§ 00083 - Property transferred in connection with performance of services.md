@@ -88,7 +88,7 @@ In determining the period for which the taxpayer has held property to which subs
 
 #### (g) Certain exchanges
 
-If property to which subsection (a) applies is exchanged for property subject to restrictions and conditions substantially similar to those towhich the property given in such exchange was subject, and if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applied to such exchange, or if such exchange was pursuant to the exercise of a conversion privilege—
+If property to which subsection (a) applies is exchanged for property subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject, and if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applied to such exchange, or if such exchange was pursuant to the exercise of a conversion privilege—
 
 &emsp;(1) such exchange shall be disregarded for purposes of subsection (a), and
 
@@ -96,7 +96,7 @@ If property to which subsection (a) applies is exchanged for property subject to
 
 #### (h) Deduction by employer
 
-In the case of a transfer of property to which this section applies or a cancellation of a restriction described in subsection (d), there shall be allowed as a deduction under section 162, to the person for whom were performed the services in connection with which such property was transferred, an amount equal to the amount included under subsection (a), (b), or (d)(2) in the gross income of the person who performed such services. Such deduction shall be allowed for the taxable year of such person in which or with which ends the taxable year in which such amount is included in the gross income of the person who performed such services.
+In the case of a transfer of property to which this section applies or a cancellation of a restriction described in subsection (d), there shall be allowed as a deduction under section 162, to the person for whom were performed the services in connection with which such property was transferred, an amount equal to the amount included under subsection (a), (b), or (d)(2) in the gross income of the person who performed suchservices. Such deduction shall be allowed for the taxable year of such person in which or with which ends the taxable year in which such amount is included in the gross income of the person who performed such services.
 
 (Added Pub. L. 91–172, title III, §321(a), Dec. 30, 1969, 83 Stat. 588; amended Pub. L. 94–455, title XIX, §§1901(a)(15), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–34, title II, §252(a), Aug. 13, 1981, 95 Stat. 260; Pub. L. 97–448, title I, §102(k)(1), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title II, §223(c), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XVIII, §1827(e), Oct. 22, 1986, 100 Stat. 2851; Pub. L. 101–508, title XI, §11801(a)(5), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 108–357, title VIII, §906(b), Oct. 22, 2004, 118 Stat. 1654.)
 

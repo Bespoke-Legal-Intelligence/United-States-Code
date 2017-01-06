@@ -18,9 +18,13 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–324, §1, Dec. 16, 2016, 130 Stat. 1948, provided that: "This Act \[enacting sections 3793c and 14136f of this title, amending sections 3752, 3793, 3797k to 3797m, 3797o, 10603, 14043e–11, 14136 to 14136b, 14136d, 14136e, 14163e, 15605, and 15607 of this title and sections 3583, 3600, 3600A, 3612, and 3613 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 3711 and 3752 of this title, amending provisions set out as a note under section 14136 of this title, and amending Rule 28 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18\] may be cited as the 'Justice for All Reauthorization Act of 2016'."
+
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–22, title IV, §401, May 29, 2015, 129 Stat. 256, provided that: "This title \[enacting part N–2 (§14043h et seq.) of subchapter III of this chapter\] may be cited as the 'Rape Survivor Child Custody Act'."
+Pub. L. 114–22, title IV, §401, May 29, 2015, 129 Stat. 256, provided that: "This title \[enacting part N–2\(§14043h et seq.) of subchapter III of this chapter\] may be cited as the 'Rape Survivor Child Custody Act'."
 
 Pub. L. 114–12, §1, May 19, 2015, 129 Stat. 192, provided that: "This Act \[enacting part F (§14165 et seq.) of subchapter IX of this chapter\] may be cited as the 'Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015'."
 
@@ -92,7 +96,7 @@ Pub. L. 103–322, title III, §31901, Sept. 13, 1994, 108 Stat. 1892, provided 
 
 Pub. L. 103–322, title IV, §40001, Sept. 13, 1994, 108 Stat. 1902, provided that: "This title \[see Tables for classification\] may be cited as the 'Violence Against Women Act of 1994'."
 
-Pub. L. 103–322, title IV, §40101, Sept. 13, 1994, 108 Stat. 1903, provided that: "This subtitle \[subtitle A (§§40101–40156) of title IV of Pub. L. 103–322, enacting part A (§13931 et seq.) of subchapter III of this chapter, sections 300w–10, 3796gg to 3796gg–5, and 5712d of this title, section 1a–7a of Title 16, Conservation, and sections 2247, 2248, and 2259 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 3797, 13012, 13014, 13021, and 13024 of this title, section 460l–8 of Title 16, and Rule 412 of the Federal Rules of Evidence, repealing sections 3796aa–4 and 3796aa–7 of this title, and enacting provisions set out as notes under sections 994 and 2074 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Safe Streets for Women Act of 1994'."
+Pub. L. 103–322, title IV, §40101, Sept. 13, 1994, 108 Stat. 1903, provided that: "This subtitle \[subtitle A (§§40101–40156) of title IV of Pub. L. 103–322, enacting part A (§13931 et seq.) of subchapter III of this chapter,sections 300w–10, 3796gg to 3796gg–5, and 5712d of this title, section 1a–7a of Title 16, Conservation, and sections 2247, 2248, and 2259 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 3797, 13012, 13014, 13021, and 13024 of this title, section 460l–8 of Title 16, and Rule 412 of the Federal Rules of Evidence, repealing sections 3796aa–4 and 3796aa–7 of this title, and enacting provisions set out as notes under sections 994 and 2074 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Safe Streets for Women Act of 1994'."
 
 Pub. L. 103–322, title IV, §40201, Sept. 13, 1994, 108 Stat. 1925, provided that: "This title \[probably should be "subtitle", meaning subtitle B (§§40201–40295) of title IV of Pub. L. 103–322, enacting part B (§13951 et seq.) of subchapter III of this chapter, sections 3796hh to 3796hh–4 and 10416 to 10418 of this title, and sections 2261 to 2266 of Title 18, Crimes and Criminal Procedure, and amending sections 3782, 3783, 3793, 3797, 10402, and 10407 to 10410 of this title\] may be cited as the 'Safe Homes for Women Act of 1994'."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
+General Authority.—Except as provided in section 47111 of this title, the United StatesGovernment may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
 (b)
 
@@ -22,7 +22,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
 
-&emsp;(D) if the cost is for airport development and is incurred before execution of the grantagreement, but in the same fiscal year as execution of the grant agreement, and if—
+&emsp;(D) if the cost is for airport development and is incurred before execution of the grant agreement, but in the same fiscal year as execution of the grant agreement, and if—
 
 &emsp;&emsp;(i) the cost was incurred before execution of the grant agreement because the airport has a shortened construction season due to climactic conditions in the vicinity of the airport;
 
@@ -166,7 +166,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §513(d); added Dec. 30, 1987, Pu
 
 Sept. 3, 1982, Pub. L. 97–248, §513(c), 96 Stat. 691; Dec. 30, 1987, Pub. L. 100–223, §111(b), 101 Stat. 1503; Oct. 31, 1992, Pub. L. 102–581, §107(c)(2), 106 Stat. 4879.
 
-In subsection (a), the words "for airport development or airport planning" are omitted because of the definition of "project" in section 47102 of the revised title. The text of 49 App.:2212(a) (last sentence) is omitted as surplus because of 49:322(a).
+In subsection (a), the words "for airport development or airport planning" are omitted because of the definition of "project" in section 47102 of the revised title.The text of 49 App.:2212(a) (last sentence) is omitted as surplus because of 49:322(a).
 
 In subsection (b)(1), the word "approved" is omitted as surplus because a project that was not approved could not be carried out in compliance with a grant agreement. The words "in compliance with the grant agreement made for the project under this subchapter" are substituted for "in conformity with the terms and conditions of the grant agreement entered into in connection with the project" to eliminate unnecessary words. The word "sponsor" is substituted for "recipient" for clarity.
 
@@ -239,7 +239,7 @@ Subsec. (e)(5). Pub. L. 106–181, §127(2), added par. (5) and struck out forme
 
 &emsp;"(i) during the fiscal year ending September 30, 1994;
 
-&emsp;"(ii) before a grant agreement is executed for the project but according to an airport layout plan the Secretary approves before the cost is incurred and all applicable statutory and administrative requirements that would apply to the project if the agreement had been executed; and
+&emsp;"(ii) before a grant agreement is executed for the project but according to an airport layout plan theSecretary approves before the cost is incurred and all applicable statutory and administrative requirements that would apply to the project if the agreement had been executed; and
 
 &emsp;"(iii) for work related to a project for which a grant agreement previously was executed during the fiscal year ending September 30, 1994;".
 

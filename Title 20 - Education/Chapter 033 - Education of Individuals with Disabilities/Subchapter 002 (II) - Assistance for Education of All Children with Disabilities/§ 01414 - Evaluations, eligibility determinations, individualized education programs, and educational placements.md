@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;The relevant timeframe in clause (i)(I) shall not apply to a local educational agency if—
 
-&emsp;&emsp;&emsp;&emsp;(I) a child enrolls in a school served by the local educational agency after the relevant timeframe in clause (i)(I) has begun and prior to a determination by the child's previous local educational agency as to whether the child is a childwith a disability (as defined in section 1401 of this title), but only if the subsequent local educational agency is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and subsequent local educational agency agree to a specific time when the evaluation will be completed; or
+&emsp;&emsp;&emsp;&emsp;(I) a child enrolls in a school served by the local educational agency after the relevant timeframe in clause (i)(I) has begun and prior to a determination by the child's previous local educational agency as to whether the child is a child with a disability (as defined in section 1401 of this title), but only if the subsequent local educational agency is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and subsequent local educational agency agree to a specific time when the evaluation will be completed; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the parent of a child repeatedly fails or refuses to produce the child for the evaluation.
 
@@ -64,7 +64,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the child is a ward of the State and is not residing with the child's parent, the agency shall make reasonable efforts to obtain the informed consent from the parent (as defined in section 1401 of this title) of the child for an initial evaluation to determine whether the child is a child with a disability.
+&emsp;&emsp;&emsp;&emsp;If the child is a ward of the State and is not residing with the child's parent,the agency shall make reasonable efforts to obtain the informed consent from the parent (as defined in section 1401 of this title) of the child for an initial evaluation to determine whether the child is a child with a disability.
 
 #### (II) Exception
 
@@ -478,7 +478,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) in years other than a child's natural transition points, an annual review of the child's IEP to determine the child's current levels of progress and whether the annual goals for the child are being achieved, and a requirement to amend the IEP, as appropriate, to enable the child to continue to meet the measurable goals set out in the IEP;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) if the IEP Team determines on the basis of a review that thechild is not making sufficient progress toward the goals described in the multi-year IEP, a requirement that the local educational agency shall ensure that the IEP Team carries out a more thorough review of the IEP in accordance with paragraph (4) within 30 calendar days; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) if the IEP Team determines on the basis of a review that the child is not making sufficient progress toward the goals described in the multi-year IEP, a requirement that the local educational agency shall ensure that the IEP Team carries out a more thorough review of the IEP in accordance with paragraph (4) within 30 calendar days; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) at the request of the parent, a requirement that the IEP Team shall conduct a review of the child's multi-year IEP rather than or subsequent to an annual review.
 
@@ -520,7 +520,7 @@
 
 #### (B) Additional requirement
 
-&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup> 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup>1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
 #### (e) Educational placements
 

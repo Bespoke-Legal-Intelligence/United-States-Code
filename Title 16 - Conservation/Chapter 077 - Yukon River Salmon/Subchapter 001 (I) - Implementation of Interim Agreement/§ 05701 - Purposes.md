@@ -12,7 +12,7 @@ It is the purpose of this subchapter—
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–219, title III, §301, Apr. 13, 2004, 118 Stat. 616, provided that: "This title \[amending section 5727 ofthis title and section 1977 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'International Fisheries Reauthorization Act of 2004'."
+Pub. L. 108–219, title III, §301, Apr. 13, 2004, 118 Stat. 616, provided that: "This title \[amending section 5727 of this title and section 1977 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'International Fisheries Reauthorization Act of 2004'."
 
 #### Short Title
 

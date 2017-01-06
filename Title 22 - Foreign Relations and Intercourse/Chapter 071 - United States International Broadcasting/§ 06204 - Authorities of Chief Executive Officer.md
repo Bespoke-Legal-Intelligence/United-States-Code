@@ -1,0 +1,256 @@
+### §6204. Authorities of Chief Executive Officer
+
+#### (a) Authorities
+
+The Chief Executive Officer shall have the following authorities:
+
+&emsp;(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting toCuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
+
+&emsp;(2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
+
+&emsp;(3) To ensure that United States international broadcasting is conducted in accordance with the standards and principles contained in section 6202 of this title.
+
+&emsp;(4) To review, evaluate, and determine, at least annually, after consultation with the Secretary of State, the addition or deletion of language services.
+
+&emsp;(5) To make and supervise grants and cooperative agreements for broadcasting and related activities in furtherance of the purposes of this chapter and on behalf of other agencies, accordingly.
+
+&emsp;(6) To allocate funds appropriated for international broadcasting activities among the various elements of the Board and grantees, subject to reprogramming notification requirements in law for the reallocation of funds.
+
+&emsp;(7) To review engineering activities to ensure that all broadcasting elements receive the highest quality and cost-effective delivery services.
+
+&emsp;(8) To undertake such studies as may be necessary to identify areas in which broadcasting activities under its authority could be made more efficient and economical.
+
+&emsp;(9) To submit to the President and the Congress an annual report which summarizes and evaluates activities under this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\], and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\]. Each annual report shall place special emphasis on the assessment described in paragraph (2).
+
+&emsp;(10) To the extent considered necessary to carry out the functions of the Chief Executive Officer, procure, rent, or lease supplies, services, and other property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1461(b)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of section 3903 of title 41.
+
+&emsp;(11) To appoint such personnel for the Chief Executive Officer as the Chief Executive Officer may determine to be necessary, which shall not be subject to the provisions of title 5 governing appointments in the competitive service, and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+
+&emsp;(12) To obligate and expend, for official reception and representation expenses, such amount as may be made available through appropriations (which for each of the fiscal years 1998 and 1999 may not exceed the amount made available to the Chief Executive Officer and the International Broadcasting Bureau for such purposes for fiscal year 1997).
+
+&emsp;(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Board and by grantees and the steps the Chief Executive Officer has taken to reduce unnecessary overhead costs for each of the broadcasting services.
+
+&emsp;(14) The Chief Executive Officer may provide for the use of United States Government transmitter capacity for transmission or relay of Radio Free Asia or any other grantee authorized under this chapter.
+
+&emsp;(15)(A) To procure personal services at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
+
+&emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
+
+&emsp;(16) To procure, pursuant to section 1535 of title 31 (commonly known as the "Economy Act"), such goods and services from other departments or agencies for the Chief Executive Officer and the International Broadcasting Bureau as the Chief Executive Officer determines are appropriate.
+
+&emsp;(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Chief Executive Officer considers necessary in carrying out the provisions and purposes of this chapter.
+
+&emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Chief Executive Officer, or the Chief Executive Officer <sup>2</sup> before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
+
+&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately forthe education of the dependents of such personnel.
+
+&emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
+
+&emsp;(20) Notwithstanding any other provision of law, including section 6207(a) of this title, to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Board.
+
+&emsp;(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, including with Federal officials, to meet the purposes of this chapter.
+
+&emsp;(22) To change the name of the Board pursuant to congressional notification 60 days prior to any such change.
+
+#### (b) Professional independence of broadcasters
+
+The Secretary of State and the Chief Executive Officer, in carrying out their functions, shall respect the professional independence and integrity of the Board, its broadcasting services, and the grantees of the Board.
+
+(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779; Pub. L. 107–228, div. A, title V, §507(1), Sept. 30, 2002, 116 Stat. 1394; Pub. L. 109–140, §8, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 114–328, div. A, title XII, §1288(2), Dec. 23, 2016, 130 Stat. 2549.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), (9), (17), (18), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+
+The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+
+This chapter, referred to in subsec. (a)(5), (14), (21), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+
+Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under section 1461 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
+
+For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to in subsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
+
+#### Codification
+
+"Chief Executive Officer" was substituted for "Board" in section catchline to reflect the probable intent of Congress and the amendment by Pub. L. 114–328, §1288(2)(A)(i), which substituted "Chief Executive Officer" for "Board" wherever appearing in subsec. (a).
+
+Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title. There are no subsecs. (c) and (d) after amendment by Pub. L. 114–328, §1288(2)(B)–(D).
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §1288(2)(A)(i), substituted "Chief Executive Officer" for "Board" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 114–328, §1288(2)(A)(ii), inserted "direct and" before "supervise".
+
+Subsec. (a)(5). Pub. L. 114–328, §1288(2)(A)(iii), inserted "and cooperative agreements" after "grants" and substituted "in furtherance of the purposes of this chapter and on behalf of other agencies, accordingly" for "in accordance with sections 6207 and 6208 of this title".
+
+Subsec. (a)(6). Pub. L. 114–328, §1288(2)(A)(iv), substituted "Board" for "International Broadcasting Bureau" and struck out "subject to the limitations in sections 6207 and 6208 of this title and" before "subject to reprogramming".
+
+Subsec. (a)(10). Pub. L. 114–328, §1288(2)(A)(i), (v), substituted "Chief Executive Officer" for "Board", inserted ", rent, or lease" after "procure", and substituted "property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1461(b)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of section 3903 of title 41" for "personal property".
+
+Subsec. (a)(11). Pub. L. 114–328, §1288(2)(A)(i), (vi), struck out "staff" before "personnel" and substituted "for the Chief Executive Officer" for "for the Board", "as the Chief Executive Officer" for "as the Board", and "which shall not be subject" for "subject".
+
+Subsec. (a)(12). Pub. L. 114–328, §1288(2)(A)(i), substituted "Chief Executive Officer" for "Board".
+
+Subsec. (a)(13). Pub. L. 114–328, §1288(2)(A)(vii), substituted "Board" for "Bureau" and "Chief Executive Officer has taken" for "Board has taken".
+
+Subsec. (a)(14). Pub. L. 114–328, §1288(2)(A)(i), (viii), substituted "Chief Executive Officer" for "Board" and inserted "transmission or" before "relay" and "or any other grantee authorized under this chapter" after "Radio Free Asia".
+
+Subsec. (a)(15)(A). Pub. L. 114–328, §1288(2)(A)(ix), struck out "temporary and intermittent" after "To procure" and "to the same extent as is authorized by section 3109 of title 5," after "personal services".
+
+Subsec. (a)(16). Pub. L. 114–328, §1288(2)(A)(i), (x), substituted "for the Chief Executive Officer" for "for the Board" and "Chief Executive Officer determines" for "Board determines".
+
+Subsec. (a)(17). Pub. L. 114–328, §1288(2)(A)(i), substituted "Chief Executive Officer" for "Board".
+
+Subsec. (a)(18). Pub. L. 114–328, §1288(2)(A)(i), (xi), substituted "Agency, the Chief Executive Officer" for "Agency, the Bureau" and "or the Chief Executive Officer" for "or the Board".
+
+Subsec. (a)(19). Pub. L. 114–328, §1288(2)(A)(i), substituted "Chief Executive Officer" for "Board" in subpars. (A) and (B).
+
+Subsec. (a)(20) to (22). Pub. L. 114–328, §1288(2)(A)(xii), added pars. (20) to (22).
+
+Subsecs. (b) to (d). Pub. L. 114–328, §1288(2)(B)–(D), redesignated subsec. (d) as (b), substituted "and the Chief Executive Officer" for "and the Board" and "Board" for "International Broadcasting Bureau", and struck out former subsecs. (b) and (c) which related to delegation of authority and broadcasting budgets, respectively.
+
+<b>2005</b>—Subsec. (a)(19). Pub. L. 109–140 added par. (19).
+
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–228 substituted "annually," for "annually,,".
+
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–277, §1323(e)(1), struck out "direct and" after "To" and substituted ", the Television Broadcasting to Cuba Act, and Worldnet Television, except as provided in section 6205(b) of this title" for "and the Television Broadcasting to Cuba Act".
+
+Subsec. (a)(4). Pub. L. 105–277, §1323(e)(2), inserted ", after consultation with the Secretary of State," after "annually,".
+
+Subsec. (a)(9). Pub. L. 105–277, §1323(e)(3), struck out ", through the Director of the United States Information Agency," after "the Congress" and inserted at end "Each annual report shall place special emphasis on the assessment described in paragraph (2)."
+
+Subsec. (a)(12). Pub. L. 105–277, §1323(e)(4), substituted "1998 and 1999" for "1994 and 1995" and "to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997" for "to the Board for International Broadcasting for such purposes for fiscal year 1993".
+
+Subsec. (a)(15) to (18). Pub. L. 105–277, §1323(e)(5), added pars. (15) to (18).
+
+Subsec. (b). Pub. L. 105–277, §1323(f), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 105–277, §1323(g), (h), struck out "(1)" before "The Director", struck out "the Director of the United States Information Agency for the consideration of the Director as a part of the Agency's budget submission to" before "the Office of Management and Budget", and struck out par. (2) which read as follows: "The Director of the United States Information Agency shall include in the Agency's submission to the Office of Management and Budget the comments and recommendations of the Board concerning the proposed broadcasting budget."
+
+Pub. L. 105–277, §1323(f)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 105–277, §1323(i), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees."
+
+Pub. L. 105–277, §1323(f)(1), redesignated subsec. (c) as (d).
+
+Pub. L. 105–277, §1323(f)(1), redesignated subsec. (d) as (e). See Codification note above.
+
+<b>1994</b>—Subsec. (a)(14). Pub. L. 103–415 substituted "relay of Radio" for "relay to Radio".
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Expansion of Farsi Language Programming
+
+Pub. L. 111–84, div. A, title XII, §1262, Oct. 28, 2009, 123 Stat. 2553, provided that:
+
+"(a)
+
+International Broadcasting Operations Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors' International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications.
+
+"(b)
+
+Broadcasting Capital Improvements Fund.—In addition to amounts otherwise authorized for the Broadcasting Board of Governors' Broadcasting Capital Improvements Fund, there is authorized to be appropriated $15,000,000 to expand transmissions of Farsi language programs to Iran.
+
+"(c)
+
+Use of Amounts.—In pursuit of the objectives described in subsections (a) and (b), amounts in the International Broadcasting Operations Fund and the Capital Improvements Fund may be used to—
+
+&emsp;"(1) develop additional transmission capability for Radio Farda and the Persian News Network to counter ongoing efforts to jam transmissions, including through additional shortwave and medium wave transmissions, satellite, and Internet mechanisms;
+
+&emsp;"(2) develop additional proxy server capability and anti-censorship software to counter efforts to block Radio Farda and Persian News Network Web sites;
+
+&emsp;"(3) develop technologies to counter efforts to block SMS text message exchange over cellular phone networks;
+
+&emsp;"(4) expand program coverage and analysis by Radio Farda and the Persian News Network, including the development of broadcast platforms and programs, on the television, radio and Internet, for enhanced interactivity with and among the people of Iran;
+
+&emsp;"(5) hire, on a permanent or short-term basis, additional staff for Radio Farda and the Persian News Network; and
+
+&emsp;"(6) develop additional Internet-based, Farsi-language television programming, including a Farsi-language, Internet-based news channel."
+
+#### Iranian Electronic Education, Exchange, and Media Fund
+
+Pub. L. 111–84, div. A, title XII, §1263, Oct. 28, 2009, 123 Stat. 2553, provided that:
+
+"(a)
+
+Establishment.—There is established in the Treasury of the United States the Iranian Electronic Education, Exchange, and Media Fund (referred to in this section as the 'Fund'), consisting of amounts appropriated to the Fund pursuant to subsection (f).
+
+"(b)
+
+Administration.—The Fund shall be administered by the Secretary of State.
+
+"(c)
+
+Objective.—The objective of the Fund shall be to support the development of technologies, includingInternet Web sites, that will aid the ability of the Iranian people to—
+
+&emsp;"(1) gain access to and share information;
+
+&emsp;"(2) exercise freedom of speech, freedom of expression, and freedom of assembly through the Internet and other electronic media;
+
+&emsp;"(3) engage in Internet-based education programs and other exchanges between Americans and Iranians; and
+
+&emsp;"(4) counter efforts—
+
+&emsp;&emsp;"(A) to block, censor, and monitor the Internet; and
+
+&emsp;&emsp;"(B) to disrupt or monitor cellular phone networks or SMS text exchanges.
+
+"(d)
+
+Use of Amounts.—In pursuit of the objective described in subsection (c), amounts in the Fund may be used for grants to United States or foreign universities, nonprofit organizations, or companies for targeted projects that advance the purpose of the Fund, including projects that—
+
+&emsp;"(1) develop Farsi-language versions of existing social-networking Web sites;
+
+&emsp;"(2) develop technologies, including Internet-based applications, to counter efforts—
+
+&emsp;&emsp;"(A) to block, censor, and monitor the Internet; and
+
+&emsp;&emsp;"(B) to disrupt or monitor cellular phone networks or SMS text message exchanges;
+
+&emsp;"(3) develop Internet-based, distance learning programs for Iranian students at United States universities; and
+
+&emsp;"(4) promote Internet-based, people-to-people educational, professional, religious, or cultural exchanges and dialogues between United States citizens and Iranians.
+
+"(e)
+
+Transfers.—Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors, or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c).
+
+"(f)
+
+Authorization of Appropriations.—There is authorized to be appropriated $20,000,000 to the Fund."
+
+#### Buying Power Maintenance Account
+
+Pub. L. 110–252, title I, §1408(c), June 30, 2008, 122 Stat. 2342, provided that: "The Broadcasting Board of Governors may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008."
+
+#### Pilot Project for Transcription of Certain Programming Into English
+
+Pub. L. 110–53, title XX, §2032, Aug. 3, 2007, 121 Stat. 516, provided that:
+
+"(a)
+
+Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Broadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
+
+"(b)
+
+Random Sampling; Public Availability.—The transcription required under subsection (a) shall consist of a random sampling of such programming. The transcripts shall be available to Congress and the public on the Internet site of the Board.
+
+"(c)
+
+Report.—Not later than May 1, 2008, the Chairman of the Broadcasting Board of Governors shall submit to the Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate a report on the feasibility and utility of continuing the pilot project required under subsection (a).
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the 'International Broadcasting Operations' account of the Broadcasting Board of Governors $2,000,000 for fiscal year 2008 to carry out the pilot project required under subsection (a)."
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. See 2016 Amendment note below.</i>
+

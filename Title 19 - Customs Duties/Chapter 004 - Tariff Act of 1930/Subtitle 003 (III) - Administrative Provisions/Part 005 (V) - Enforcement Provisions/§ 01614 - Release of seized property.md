@@ -1,8 +1,8 @@
 ### §1614. Release of seized property
 
-If any person claiming an interest in any vessel, vehicle, aircraft, merchandise, or baggageseized under the provisions of this chapter offers to pay the value of such vessel, vehicle, aircraft, merchandise, or baggage, as determined under section 1606 of this title, and it appears that such person has in fact a substantial interest therein, the appropriate customs officer may, subject to the approval of the Secretary of the Treasury if under the customs laws, or the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, accept such offer and release the vessel, vehicle, aircraft, merchandise, or baggage seized upon the payment of such value thereof, which shall be distributed in the order provided in section 1613 of this title.
+If any person claiming an interest in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter offers to pay the value of such vessel, vehicle, aircraft, merchandise, or baggage, as determined under section 1606 of this title, and it appears that such person has in fact a substantial interest therein, the appropriate customs officer may, subject to the approval of the Secretary of the Treasury if under the customs laws, or the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if under the navigation laws, accept such offer and release the vessel, vehicle, aircraft, merchandise, or baggage seized upon the payment of such value thereof, which shall be distributed in the order provided in section 1613 of this title.
 
-(June 17, 1930, ch. 497, title IV, §614, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(12), Oct. 30, 1984, 98 Stat. 2987.)
+(June 17, 1930, ch. 497, title IV, §614, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(12), Oct. 30, 1984, 98 Stat. 2987; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Prior Provisions
 
@@ -16,6 +16,10 @@ A prior provision authorizing collectors, subject to the approval of the Secreta
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under section 1304 of this title.
@@ -28,7 +32,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for "the Secretary of Commerce" under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law—
 
 (2) The term "payments" as used in this section shall not include loans or purchases, or any part of any payment which is determined by the Secretary to represent compensation for resource adjustment or public access for recreation.
 
-(3) If the Secretary determines that the total amount of payments which will be earned by any person under the program in effect for any crop will be reduced under this section, the set-aside acreage for the farm or farms on which such person will be sharing in payments earned under such program shall be reduced to such extent and in such manner as the Secretary determines will be fair and reasonable in relation to the amount of the payment reduction.
+(3) If the Secretary determines that the total amount of payments which will be earned byany person under the program in effect for any crop will be reduced under this section, the set-aside acreage for the farm or farms on which such person will be sharing in payments earned under such program shall be reduced to such extent and in such manner as the Secretary determines will be fair and reasonable in relation to the amount of the payment reduction.
 
 (4) The Secretary shall issue regulations defining the term "person" and prescribing such rules as he determines necessary to assure a fair and reasonable application of such limitation: <i>Provided</i>, That the provisions of this Act which limit payments to any person shall not be applicable to lands owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed primarily in the direct furtherance of a public function, as determined by the Secretary. The rules for determining whether corporations and their stockholders may be considered as separate persons shall be in accordance with the regulations issued by the Secretary on December 18, 1970.
 
@@ -40,5 +40,5 @@ Pub. L. 95–113, title XIX, §1901, Sept. 29, 1977, 91 Stat. 1045, provided tha
 
 #### Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice
 
-Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: "That, notwithstanding any other provision of law, the term 'payments' as used in section 101 of the Agricultural Act of 1970, as amended \[this section\], and section 101(g)(13) of the Agricultural Act of 1949, as amended \[section 1441(g)(13) of this title\], shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation fordisaster loss with respect to the 1977 crops of wheat, feed grains, upland cotton, and rice."
+Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: "That, notwithstanding any other provision of law, the term 'payments' as used in section 101 of the Agricultural Act of 1970, as amended \[this section\], and section 101(g)(13) of the Agricultural Act of 1949, as amended \[section 1441(g)(13) of this title\], shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation for disaster loss with respect to the 1977 crops of wheat, feed grains, upland cotton, and rice."
 

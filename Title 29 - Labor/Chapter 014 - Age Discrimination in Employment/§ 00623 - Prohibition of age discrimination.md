@@ -94,9 +94,9 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 (5) Paragraph (1) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
-(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m)..<sup>1</sup>
+(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determiningbenefit accruals or it is a plan permitted by subsection (m)..<sup>1</sup>
 
-(7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) <sup>2</sup> of section 411(b)(2) of title 26 shall apply with respect to the requirements of thissubsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
+(7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) <sup>2</sup> of section 411(b)(2) of title 26 shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
 
 (8) A plan shall not be treated as failing to meet the requirements of this section solely because such plan provides a normal retirement age described in section 1002(24)(B) of this title and section 411(a)(8)(B) of title 26.
 
@@ -164,7 +164,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in whichthe participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -172,7 +172,7 @@ Applicable plan amendment.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—The term "applicable plan amendment" means an amendment to a defined benefit plan which has the effectof converting the plan to an applicable defined benefit plan.
+In general.—The term "applicable plan amendment" means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -254,7 +254,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 &emsp;(1)(A) It shall not be a violation of subsection (a), (b), (c), or (e) solely because—
 
-&emsp;&emsp;(i) an employee pension benefit plan (as defined in section 1002(2) of this title) providesfor the attainment of a minimum age as a condition of eligibility for normal or early retirement benefits; or
+&emsp;&emsp;(i) an employee pension benefit plan (as defined in section 1002(2) of this title) provides for the attainment of a minimum age as a condition of eligibility for normal or early retirement benefits; or
 
 &emsp;&emsp;(ii) a defined benefit plan (as defined in section 1002(35) of this title) provides for—
 
@@ -312,7 +312,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) solely because an employerprovides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -368,7 +368,7 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;&emsp;"(II) age 55; and" for "and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and".
 
-<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows:"to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or".
+<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: "to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or".
 
 Subsecs. (i), (j). Pub. L. 101–433, §103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
 
@@ -452,7 +452,7 @@ Pub. L. 101–433, title I, §105, Oct. 16, 1990, 104 Stat. 981, as amended by P
 
 "(a)
 
-In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
+In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out asnotes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
 
 &emsp;"(1) any employee benefit established or modified on or after the date of enactment of this Act \[Oct. 16, 1990\]; and
 
@@ -552,7 +552,7 @@ Pub. L. 99–592, §7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
+In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except thatwith respect to any employee who is subject to a collective-bargaining agreement—
 
 &emsp;"(1) which is in effect on June 30, 1986,
 
@@ -646,7 +646,7 @@ Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided th
 
 #### Construction of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(c)\]\], Sept. 30, 1996, 110 Stat. 3009–24, providedthat: "Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) \[section 101(a) \[title I, §119\[1(a), (b)\]\] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section\] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(c)\]\], Sept. 30, 1996, 110 Stat. 3009–24, provided that: "Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) \[section 101(a) \[title I, §119\[1(a), (b)\]\] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section\] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
 
 &emsp;"(1) was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 \[Sept. 30, 1996\]; and
 

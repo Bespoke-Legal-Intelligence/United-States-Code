@@ -12,7 +12,7 @@ Subject to subsection (b), this chapter shall not be construed to prevent a reci
 
 &emsp;&emsp;(B) all costs incurred by the recipient in providing such services (and not otherwise reimbursed under paragraph (1)), are reimbursed to such recipient; and
 
-&emsp;&emsp;(C) the recipient reports the rates for providing such services under such agreement in accordance with subsection (c) and the rates are consistent with the prevailing market rate for provision of such services in therelevant geographic area as determined by the State agency or area agency on aging (as applicable); and
+&emsp;&emsp;(C) the recipient reports the rates for providing such services under such agreement in accordance with subsection (c) and the rates are consistent with the prevailing market rate for provision of such services in the relevant geographic area as determined by the State agency or area agency on aging (as applicable); and
 
 &emsp;(3) any amount of payment to the recipient under the agreement that exceeds reimbursement under this subsection of the recipient's costs is used to provide, or support the provision of, services under this chapter.
 
@@ -22,7 +22,7 @@ An agreement described in subsection (a) may not—
 
 &emsp;(1) be made without the prior approval of the State agency (or, in the case of a grantee under subchapter X, without the prior recommendation of the Director of the Office for American Indian, Alaska Native, and Native Hawaiian Aging and the prior approval of the Assistant Secretary), after timely submission of all relevant documents related to the agreement including information on all costs incurred;
 
-&emsp;(2) directly or indirectly provide for, or have the effect of, paying, reimbursing, subsidizing, or otherwise compensating an individual or entity in an amount that exceeds the fair market value of the services subject to such agreement;
+&emsp;(2) directly or indirectly provide for, or have the effect of, paying, reimbursing, subsidizing,or otherwise compensating an individual or entity in an amount that exceeds the fair market value of the services subject to such agreement;
 
 &emsp;(3) result in the displacement of services otherwise available to an older individual with greatest social need, an older individual with greatest economic need, or an older individual who is at risk for institutional placement; or
 

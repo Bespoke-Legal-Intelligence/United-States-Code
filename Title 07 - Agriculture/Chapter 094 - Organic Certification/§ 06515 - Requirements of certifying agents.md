@@ -30,7 +30,7 @@ Any certifying agent shall fully comply with the terms and conditions of the app
 
 #### (f) Confidentiality
 
-Except as provided in section 6506(a)(9) of this title, any certifying agent shall maintain strictconfidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
+Except as provided in section 6506(a)(9) of this title, any certifying agent shall maintain strict confidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
 
 #### (g) Conflict of interest
 

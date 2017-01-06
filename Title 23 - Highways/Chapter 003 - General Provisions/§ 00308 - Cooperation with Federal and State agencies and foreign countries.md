@@ -34,7 +34,7 @@ Section 214 of the Uniform Relocation Assistance and Real Property Acquisition P
 
 Pub. L. 112–141, div. A, title I, §1521(g), July 6, 2012, 126 Stat. 579, provided that:
 
-"(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 4634 of Title 42, The Public Health and Welfare, and amending this section and sections 4622 to 4624 and 4633 of Title 42\] shall take effect on the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\].
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 4634 of Title 42, The Public Health and Welfare, and amending this section and sections 4622 to 4624 and 4633 of Title 42\] shall take effect on the date of enactmentof this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\].
 
 "(2) Exception.—The amendments made by subsections (a) through (c) \[amending sections 4622 to 4624 of Title 42\] shall take effect 2 years after the date of enactment of this Act."
 

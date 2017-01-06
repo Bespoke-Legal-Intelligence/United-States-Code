@@ -16,7 +16,7 @@ Any officer who is authorized by the Secretary, the Secretary of the department 
 
 &emsp;&emsp;(C) at reasonable times enter, and search or inspect, shoreside facilities in which fish taken subject to this subchapter are processed, packed or held;
 
-&emsp;&emsp;(D) seize any fishing vessel (together with its fishing gear, furniture, appurtenances,stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, an act prohibited by section 773e of this title;
+&emsp;&emsp;(D) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, an act prohibited by section 773e of this title;
 
 &emsp;&emsp;(E) seize any fish (wherever found) taken or retained in the course of an act prohibited by section 773e of this title, or the proceeds of the sale of such fish; and
 

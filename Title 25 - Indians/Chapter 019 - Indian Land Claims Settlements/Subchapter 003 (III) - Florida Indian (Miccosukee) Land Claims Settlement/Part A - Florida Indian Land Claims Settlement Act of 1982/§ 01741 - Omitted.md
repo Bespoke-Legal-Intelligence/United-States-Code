@@ -1,0 +1,10 @@
+### §1741. Omitted
+
+#### Codification
+
+Section, Pub. L. 97–399, §2, Dec. 31, 1982, 96 Stat. 2012, which set out congressional findings and declaration of policy, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 97–399, §1, Dec. 31, 1982, 96 Stat. 2012, provided that Pub. L. 97–399, enacting this part A (§1741 et seq.) of this subchapter, could be cited as the "Florida Indian Land Claims Settlement Act of 1982".
+

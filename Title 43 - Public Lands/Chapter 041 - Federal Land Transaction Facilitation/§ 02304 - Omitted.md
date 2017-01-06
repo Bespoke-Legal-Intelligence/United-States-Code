@@ -1,0 +1,6 @@
+### §2304. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–248, title II, §205, July 25, 2000, 114 Stat. 615; Pub. L. 111–212, title III, §3007(a), July 29, 2010, 124 Stat. 2339, related to program to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under section 1712 of this title and terminated the authority under this section 11 years after July 25, 2000.
+

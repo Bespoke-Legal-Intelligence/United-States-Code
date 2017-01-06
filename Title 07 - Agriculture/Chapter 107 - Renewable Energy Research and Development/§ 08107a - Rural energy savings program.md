@@ -112,7 +112,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) to offset personnel and program costs of eligible entities to provide the loans;
 
-&emsp;&emsp;(B) shall finance energy efficiency measures for the purpose of decreasing energy usage or costs of the qualified consumer by an amount that ensures, to the maximum extent practicable, that a loan term of not more than 10 years will not pose an undue financial burden on the qualified consumer, as determined by the eligible entity;
+&emsp;&emsp;(B) shall finance energy efficiency measures for the purpose of decreasing energyusage or costs of the qualified consumer by an amount that ensures, to the maximum extent practicable, that a loan term of not more than 10 years will not pose an undue financial burden on the qualified consumer, as determined by the eligible entity;
 
 &emsp;&emsp;(C) shall not be used to fund purchases of, or modifications to, personal property unless the personal property is or becomes attached to real property (including a manufactured home) as a fixture;
 

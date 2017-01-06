@@ -36,7 +36,7 @@
 
 #### (9) Alcoholic compounds from Puerto Rico
 
-&emsp;Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained thereinat the rate imposed on distilled spirits produced in the United States.
+&emsp;Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained therein at the rate imposed on distilled spirits produced in the United States.
 
 #### (b) Time of attachment on distilled spirits
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 #### Effective Date
 
-Pub. L. 85–859, title II, §210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: "The amendments made by sections 201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisionsof this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\]."
+Pub. L. 85–859, title II, §210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: "The amendments made by sections 201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\]."
 
 #### Short Title
 
@@ -338,7 +338,7 @@ Installment payment of tax in case of small or middle-sized dealers.—In the ca
 
 &emsp;&emsp;"(iii)
 
-Small or middle-sized dealer.—For purposes of clause (ii), the term 'small or middle-sized dealer' means any dealer if the aggregate gross sales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
+Small or middle-sized dealer.—For purposes of clause (ii), the term 'small or middle-sized dealer' means any dealer if the aggregate grosssales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
 
 "(5)
 

@@ -2,7 +2,7 @@
 
 #### (a) Commissioners
 
-The United States shall be represented on the Commission by not more than three United States Commissioners to be appointed by and serve at the pleasure of the President. EachUnited States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of the Commissioners—
+The United States shall be represented on the Commission by not more than three United States Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of the Commissioners—
 
 &emsp;(1) one shall be an official of the United States Government;
 
@@ -24,7 +24,17 @@ The United States Section, in consultation with the Advisory Panel established i
 
 United States Commissioners and Alternate United States Commissioners shall receive no compensation for their services as Commissioners and Alternate Commissioners.
 
-(Pub. L. 102–567, title VIII, §804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, §8004, Nov. 4, 1992, 106 Stat. 5099; Pub. L. 106–562, title III, §304, Dec. 23, 2000, 114 Stat. 2806.)
+#### (e) Travel expenses
+
+#### (1) In general
+
+&emsp;The Secretary may pay the necessary travel expenses of the United States Commissionersand Alternate United States Commissioners in carrying out the duties of the Commission in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+
+#### (2) Reimbursement
+
+&emsp;The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph.<sup>1</sup>
+
+(Pub. L. 102–567, title VIII, §804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, §8004, Nov. 4, 1992, 106 Stat. 5099; Pub. L. 106–562, title III, §304, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, §121(b)(1), Dec. 16, 2016, 130 Stat. 1984.)
 
 #### Codification
 
@@ -32,5 +42,9 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 #### Amendments
 
+<b>2016</b>—Subsec. (e). Pub. L. 114–327 added subsec. (e).
+
 <b>2000</b>—Subsec. (a). Pub. L. 106–562, §304(b), inserted after second sentence "Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

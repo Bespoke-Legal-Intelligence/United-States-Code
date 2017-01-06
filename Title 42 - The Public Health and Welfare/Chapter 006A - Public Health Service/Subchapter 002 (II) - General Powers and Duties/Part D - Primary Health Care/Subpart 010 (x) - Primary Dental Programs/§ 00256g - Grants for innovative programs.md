@@ -6,7 +6,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (b) State activities
 
-A State receiving a grant under subsection (a) of this section may use funds received under the grant for—
+A State receiving a grant under subsection (a) may use funds received under the grant for—
 
 &emsp;(1) loan forgiveness and repayment programs for dentists who—
 
@@ -44,7 +44,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 &emsp;(10) coordination with local educational agencies within the State to foster programs that promote children going into oral health or science professions;
 
-&emsp;(11) the establishment of faculty recruitment programs at accredited dental training institutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
+&emsp;(11) the establishment of faculty recruitment programs at accredited dental traininginstitutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
 
 &emsp;(12) the development of a State dental officer position or the augmentation of a State dental office to coordinate oral health and access issues in the State; and
 
@@ -58,7 +58,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 #### (2) Assurances
 
-&emsp;The application shall include assurances that the State will meet the requirements of subsection (d) of this section and that the State possesses sufficient infrastructure to manage the activities to be funded through the grant and to evaluate and report on the outcomes resulting from such activities.
+&emsp;The application shall include assurances that the State will meet the requirements of subsection (d) and that the State possesses sufficient infrastructure to manage the activities to be funded through the grant and to evaluate and report on the outcomes resulting from such activities.
 
 #### (d) Matching requirement
 

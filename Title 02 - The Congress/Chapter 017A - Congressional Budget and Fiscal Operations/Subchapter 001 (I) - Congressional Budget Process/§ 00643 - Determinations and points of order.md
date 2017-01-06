@@ -8,7 +8,7 @@ For purposes of this subchapter and subchapter II, the levels of new budget auth
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, it shall not be in order in the Senateto consider any bill or resolution (or amendment, motion, or conference report on that bill or resolution) that would exceed any of the discretionary spending limits in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)\].
+&emsp;Except as otherwise provided in this subsection, it shall not be in order in the Senate to consider any bill or resolution (or amendment, motion, or conference report on that bill or resolution) that would exceed any of the discretionary spending limits in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)\].
 
 #### (2) Exceptions
 
@@ -30,7 +30,7 @@ A point of order under this Act may not be raised against a bill, resolution, am
 
 #### (e) Points of order in Senate against amendments between Houses
 
-Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses and the point of order is sustained, the effect shall be the same as if the Senate had disagreed to the amendment.
+Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses andthe point of order is sustained, the effect shall be the same as if the Senate had disagreed to the amendment.
 
 #### (f) Effect of point of order in Senate
 

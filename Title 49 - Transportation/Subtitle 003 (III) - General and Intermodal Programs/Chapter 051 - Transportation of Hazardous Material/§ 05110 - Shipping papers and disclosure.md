@@ -24,7 +24,7 @@ Retention of Papers.—
 
 &emsp;(1)
 
-Offerors.—The person who provides the shipping paper under this section shall retainthe paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror's principal place of business.
+Offerors.—The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror's principal place of business.
 
 &emsp;(2)
 

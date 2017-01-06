@@ -4,7 +4,7 @@ As used in this subchapter—
 
 #### (1) Agreement
 
-&emsp;The term "Agreement" means the Agreement on Government Procurement referred toin section 3511(d)(17) of this title, as submitted to the Congress, but including rectifications, modifications, and amendments which are accepted by the United States.
+&emsp;The term "Agreement" means the Agreement on Government Procurement referred to in section 3511(d)(17) of this title, as submitted to the Congress, but including rectifications, modifications, and amendments which are accepted by the United States.
 
 #### (2) Civil aircraft
 
@@ -52,7 +52,7 @@ As used in this subchapter—
 
 #### (B) Rule of origin
 
-&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
+&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly thegrowth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
 
 #### (C) Lowered threshold for certain products as a consequence of United States-Israel free trade area provisions
 

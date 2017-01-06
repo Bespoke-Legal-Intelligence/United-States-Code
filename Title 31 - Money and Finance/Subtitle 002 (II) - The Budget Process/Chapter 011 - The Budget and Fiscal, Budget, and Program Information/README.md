@@ -32,6 +32,7 @@
 | [1123\.](%C2%A7%2001123%20-%20Chief%20Operating%20Officers.md) | Chief Operating Officers. |
 | [1124\.](%C2%A7%2001124%20-%20Performance%20Improvement%20Officers%20and%20the%20Performance%20Improvement%20Council.md) | Performance Improvement Officers and the Performance Improvement Council. |
 | [1125\.](%C2%A7%2001125%20-%20Elimination%20of%20unnecessary%20agency%20reporting.md) | Elimination of unnecessary agency reporting. |
+| [1126\.](%C2%A7%2001126%20-%20Program%20Management%20Improvement%20Officers%20and%20Program%20Management%20Policy%20Council.md) | Program Management Improvement Officers and Program Management Policy Council.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,6 +45,8 @@
 <b>1993</b>—Pub. L. 103–62, §11(b)(1), Aug. 3, 1993, 107 Stat. 295, added items 1115 to 1119.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> Editorially supplied. Section 1126 added by Pub. L. 114–264 and Pub. L. 114–328 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -75,3 +78,4 @@
 - [&sect; 01123 - Chief Operating Officers](%C2%A7%2001123%20-%20Chief%20Operating%20Officers.md)
 - [&sect; 01124 - Performance Improvement Officers and the Performance Improvement Council](%C2%A7%2001124%20-%20Performance%20Improvement%20Officers%20and%20the%20Performance%20Improvement%20Council.md)
 - [&sect; 01125 - Elimination of unnecessary agency reporting](%C2%A7%2001125%20-%20Elimination%20of%20unnecessary%20agency%20reporting.md)
+- [&sect; 01126 - Program Management Improvement Officers and Program Management Policy Council](%C2%A7%2001126%20-%20Program%20Management%20Improvement%20Officers%20and%20Program%20Management%20Policy%20Council.md)

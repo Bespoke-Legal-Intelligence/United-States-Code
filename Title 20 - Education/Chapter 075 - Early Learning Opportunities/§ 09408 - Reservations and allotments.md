@@ -10,7 +10,7 @@ The Secretary shall reserve 1 percent of the total amount appropriated under sec
 
 #### (b) Allotments
 
-From the funds appropriated under this chapter for each fiscal year that are not reserved under subsection (a) of this section, the Secretary shall allot to each State the sum of—
+From the funds appropriated under this chapter for each fiscal year that are not reserved under subsection (a), the Secretary shall allot to each State the sum of—
 
 &emsp;(1) an amount that bears the same ratio to 50 percent of such funds as the number of children 4 years of age and younger in the State bears to the number of such children in all States; and
 
@@ -18,11 +18,11 @@ From the funds appropriated under this chapter for each fiscal year that are not
 
 #### (c) Minimum allotment
 
-No State shall receive an allotment under subsection (b) of this section for a fiscal year in an amount that is less than .40 percent of the total amount appropriated for the fiscal year under this chapter.
+No State shall receive an allotment under subsection (b) for a fiscal year in an amount that is less than .40 percent of the total amount appropriated for the fiscal year under this chapter.
 
 #### (d) Availability of funds
 
-Any portion of the allotment to a State that is not expended for activities under this chapter in the fiscal year for which the allotment is made shall remain available to the State for two additional years, after which any unexpendedfunds shall be returned to the Secretary. The Secretary shall use the returned funds to carry out a discretionary grant program for research-based early learning demonstration projects.
+Any portion of the allotment to a State that is not expended for activities under this chapter in the fiscal year for which the allotment is made shall remain available to the State for two additional years, after which any unexpended funds shall be returned to the Secretary. The Secretary shall use the returned funds to carry out a discretionary grant program for research-based early learning demonstration projects.
 
 #### (e) Data
 

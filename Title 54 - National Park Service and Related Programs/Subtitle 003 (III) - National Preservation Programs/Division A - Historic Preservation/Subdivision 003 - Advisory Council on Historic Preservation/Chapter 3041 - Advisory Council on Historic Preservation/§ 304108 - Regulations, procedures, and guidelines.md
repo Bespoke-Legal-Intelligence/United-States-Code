@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Council may promulgate regulations as it considers necessary to governthe implementation of section 306108 of this title in its entirety.
+In General.—The Council may promulgate regulations as it considers necessary to govern the implementation of section 306108 of this title in its entirety.
 
 (b)
 

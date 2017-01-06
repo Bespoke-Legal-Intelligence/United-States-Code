@@ -2,11 +2,11 @@
 
 #### (a) Allotments in general
 
-The Secretary shall, from the amount appropriated under section 9903(a) of this title for each fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title, allot to each State (subject to section 9911 of this title) an amount that bears the same ratio to such remaining amount as the amount received by the State for fiscal year 1981 under section 2808 <sup>1</sup> of this title bore tothe total amount received by all States for fiscal year 1981 under such section, except—
+The Secretary shall, from the amount appropriated under section 9903(a) of this title for each fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title, allot to each State (subject to section 9911 of this title) an amount that bears the same ratio to such remaining amount as the amount received by the State for fiscal year 1981 under section 2808 <sup>1</sup> of this title bore to the total amount received by all States for fiscal year 1981 under such section, except—
 
 &emsp;(1) that no State shall receive less than ¼ of 1 percent of the amount appropriated under section 9903(a) of this title for such fiscal year; and
 
-&emsp;(2) as provided in subsection (b) of this section.
+&emsp;(2) as provided in subsection (b).
 
 #### (b) Allotments in years with greater available funds
 
@@ -16,15 +16,15 @@ The Secretary shall, from the amount appropriated under section 9903(a) of this 
 
 #### (2) Maintenance of fiscal year 1990 levels
 
-&emsp;Paragraph (1) shall not apply with respect to a fiscal year if the amount allotted under subsection (a) of this section to any State for that year is less than the amount allotted under section 9903(a)(1) of this title (as in effect on September 30, 1989) to such State for fiscal year 1990.
+&emsp;Paragraph (1) shall not apply with respect to a fiscal year if the amount allotted under subsection (a) to any State for that year is less than the amount allotted under section 9903(a)(1) of this title (as in effect on September 30, 1989) to such State for fiscal year 1990.
 
 #### (3) Maximum allotments
 
-&emsp;The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) of this section does not exceed 140 percent of the aggregate amount allotted to such State under the corresponding provisions of this chapter for the preceding fiscal year.
+&emsp;The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) does not exceed 140 percent of the aggregate amount allotted to such State under the corresponding provisions of this chapter for the preceding fiscal year.
 
 #### (c) Payments
 
-The Secretary shall make grants to eligible States for the allotments described in subsections (a) and (b) of this section. The Secretary shall make payments for the grants in accordance with section 6503(a) of title 31.
+The Secretary shall make grants to eligible States for the allotments described in subsections (a) and (b). The Secretary shall make payments for the grants in accordance with section 6503(a) of title 31.
 
 #### (d) Definition
 

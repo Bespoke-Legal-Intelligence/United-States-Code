@@ -7,15 +7,15 @@
 | [3534\.](%C2%A7%2003534%20-%20Corps%20of%20Engineers%20detail%20of%20officers%20to%20assist%20Mayor%20of%20District%20of%20Columbia.md) | Corps of Engineers: detail of officers to assist Mayor of District of Columbia. |
 | \[3535. | Repealed.\] |
 | [3536\.](%C2%A7%2003536%20-%20Leader%20of%20Army%20Band%20appointment.md) | Leader of Army Band: appointment. |
-| \[3538 to 3542. Repealed.\] |  |
-| [3543\.](%C2%A7%2003543%20-%20Aides%20detail%3B%20number%20authorized.md) | Aides: detail; number authorized. |
-| \[3544 to 3546. Repealed.\] |  |
+| \[3538 to 3546. Repealed.\] |  |
 | [3547\.](%C2%A7%2003547%20-%20Duties%20chaplains%3B%20assistance%20required%20of%20commanding%20officers.md) | Duties: chaplains; assistance required of commanding officers. |
 | [3548\.](%C2%A7%2003548%20-%20Duties%20warrant%20officers%3B%20limitations.md) | Duties: warrant officers; limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(s)(2), Dec. 23, 2016, 130 Stat. 2104, struck out item 3543 "Aides: detail; number authorized".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1672(b)(5), Oct. 5, 1994, 108 Stat. 3015, struck out items 3541 "National Guard Bureau: assignment of officers of regular or reserve components" and 3542 "Chief and assistant chief of staff of divisions of Army National Guard in Federal service: detail".
 
@@ -42,7 +42,7 @@ Pub. L. 90–235, §4(a)(3), (10), (b)(2), Jan. 2, 1968, 81 Stat. 759, 760, stru
 - [&sect; 03538, 3539 - Repealed. Pub. L. 90&#8211;235, &sect;4(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760](%C2%A7%2003538%2C%203539%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A74%28a%29%282%29%2C%20%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20759%2C%20760.md)
 - [&sect; 03540 - Repealed. Pub. L. 88&#8211;647, title III, &sect;301(7), Oct. 13, 1964, 78 Stat. 1071](%C2%A7%2003540%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93647%2C%20title%20III%2C%20%C2%A7301%287%29%2C%20Oct.%2013%2C%201964%2C%2078%20Stat.%201071.md)
 - [&sect; 03541, 3542 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;&sect;1661(c)(2), 1662(g)(2), Oct. 5, 1994, 108 Stat. 2982, 2996](%C2%A7%2003541%2C%203542%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A7%C2%A71661%28c%29%282%29%2C%201662%28g%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202982%2C%202996.md)
-- [&sect; 03543 - Aides detail; number authorized](%C2%A7%2003543%20-%20Aides%20detail%3B%20number%20authorized.md)
+- [&sect; 03543 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(s)(1), Dec. 23, 2016, 130 Stat. 2104](%C2%A7%2003543%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28s%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202104.md)
 - [&sect; 03544, 3545 - Repealed. Pub. L. 90&#8211;235, &sect;4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760](%C2%A7%2003544%2C%203545%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A74%28a%29%286%29%2C%20%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20759%2C%20760.md)
 - [&sect; 03546 - Repealed. Pub. L. 85&#8211;861, &sect;36B(7), Sept. 2, 1958, 72 Stat. 1570](%C2%A7%2003546%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93861%2C%20%C2%A736B%287%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201570.md)
 - [&sect; 03547 - Duties chaplains; assistance required of commanding officers](%C2%A7%2003547%20-%20Duties%20chaplains%3B%20assistance%20required%20of%20commanding%20officers.md)

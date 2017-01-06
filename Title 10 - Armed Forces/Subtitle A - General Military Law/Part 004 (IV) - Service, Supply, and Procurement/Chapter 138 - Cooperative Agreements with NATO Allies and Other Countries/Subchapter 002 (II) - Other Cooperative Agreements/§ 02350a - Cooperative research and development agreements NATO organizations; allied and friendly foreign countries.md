@@ -44,7 +44,7 @@ Cooperative Opportunities.—(1) In order to ensure that opportunities to conduc
 
 &emsp;(A) Whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is indevelopment or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
@@ -62,9 +62,11 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
+(3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
+
 (h)
 
-Secretary To Encourage Similar Programs.—The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
+Secretary To Encourage Similar Programs.—The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, andother friendly foreign countries to establish programs similar to the one provided for in this section.
 
 (i)
 
@@ -80,7 +82,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "NATO organization" means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, §827, Dec. 23, 2016, 130 Stat. 2280.)
 
 #### Prior Provisions
 
@@ -89,6 +91,8 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(3). Pub. L. 114–328 added par. (3).
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–92, §821(b)(1)(A), struck out "Document" after "Cooperative Opportunities" in heading.
 
@@ -102,7 +106,7 @@ Subsec. (e)(2)(B). Pub. L. 114–92, §821(b)(1)(C)(iii), struck out "by the Und
 
 Subsec. (e)(2)(D). Pub. L. 114–92, §821(b)(1)(C)(iv), substituted "A recommendation to the milestone decision authority" for "The recommendation of the Under Secretary".
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §865, substituted ", the Under Secretary of Defense for Acquisition,Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering" for "and to one other official of the Department of Defense".
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §865, substituted ", the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering" for "and to one other official of the Department of Defense".
 
 Subsec. (g)(3). Pub. L. 112–81, §1061(14), struck out par. (3) which read as follows: "The Assistant Secretary of Defense for Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated."
 
@@ -206,7 +210,7 @@ Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, pro
 
 #### Termination Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title VIII, §843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
+Pub. L. 102–484, div. A, title VIII, §843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II,§202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
 
 #### Administration of the American, British, Canadian, and Australian Armies' Program
 
@@ -272,7 +276,7 @@ Authority To Contract for Program Activities.—As part of the participation by 
 
 "(e)
 
-Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property ownedby the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a).
+Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property owned by the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a).
 
 "(f)
 

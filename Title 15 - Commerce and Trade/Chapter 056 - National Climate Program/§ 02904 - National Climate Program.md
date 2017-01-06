@@ -42,7 +42,7 @@ The President shall—
 
 The Program shall include, but not be limited to, the following elements:
 
-&emsp;(1) assessments of the effect of climate on the natural environment, agricultural production, energy supply and demand, land and water resources, transportation, human health and national security. Such assessments shall be conducted to the maximum extent possible by those Federal agencies having national programs in food, fiber, raw materials, energy, transportation, land and water management, and other such responsibilities, in accordance with existing laws and regulations. Where appropriate such assessments may include recommendations for action;
+&emsp;(1) assessments of the effect of climate on the natural environment, agricultural production, energy supply and demand, land andwater resources, transportation, human health and national security. Such assessments shall be conducted to the maximum extent possible by those Federal agencies having national programs in food, fiber, raw materials, energy, transportation, land and water management, and other such responsibilities, in accordance with existing laws and regulations. Where appropriate such assessments may include recommendations for action;
 
 &emsp;(2) basic and applied research to improve the understanding of climate processes, natural and man induced, and the social, economic, and political implications of climate change;
 
@@ -84,7 +84,7 @@ The Program shall include, but not be limited to, the following elements:
 
 #### (g) Budgeting
 
-Each Federal agency and department participating in the Program, shall prepare and submit to the Office of Management and Budget, on or before the date of submission of departmental requests for appropriations to the Office of Management and Budget, an annual request for appropriations for the Program for the subsequent fiscal year and shall transmit a copy of such request to the National Climate Program Office. The Office of Management and Budget shall review the request for appropriations as an integrated, coherent, multiagency request.
+Each Federal agency and department participating in the Program, shall prepare and submit to the Office of Management and Budget, on orbefore the date of submission of departmental requests for appropriations to the Office of Management and Budget, an annual request for appropriations for the Program for the subsequent fiscal year and shall transmit a copy of such request to the National Climate Program Office. The Office of Management and Budget shall review the request for appropriations as an integrated, coherent, multiagency request.
 
 (Pub. L. 95–367, §5(a)–(g)(1), Sept. 17, 1978, 92 Stat. 601–603; Pub. L. 99–272, title VI, §6084(b)–(f), Apr. 7, 1986, 100 Stat. 136, 137.)
 
@@ -94,7 +94,7 @@ Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) forsecond sentence which provided that "The Office shall be the lead entity responsible for administering the Program", and designated third sentence as par. (4).
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that "The Office shall be the lead entity responsible for administering the Program", and designated third sentence as par. (4).
 
 Subsec. (d)(7). Pub. L. 99–272, §6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 

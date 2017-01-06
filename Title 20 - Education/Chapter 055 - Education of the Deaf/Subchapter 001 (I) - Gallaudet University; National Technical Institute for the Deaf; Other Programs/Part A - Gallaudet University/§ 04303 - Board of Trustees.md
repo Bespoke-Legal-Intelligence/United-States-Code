@@ -26,7 +26,7 @@ The Board of Trustees is authorized to—
 
 &emsp;(5) elect a chairperson and other officers and prescribe their duties and terms of office, and appoint an executive committee to consist of five members, and vest the committee with such of its powers during periods between meetings of the Board as the Board deems necessary;
 
-&emsp;(6) establish such schools, departments, and other units as the Board of Trustees deemsnecessary to carry out the purpose of Gallaudet University;
+&emsp;(6) establish such schools, departments, and other units as the Board of Trustees deems necessary to carry out the purpose of Gallaudet University;
 
 &emsp;(7) confer such degrees and marks of honor as are conferred by colleges and universities generally, and issue such diplomas and certificates of graduation as, in its opinion, may be deemed advisable, and consistent with academic standards;
 

@@ -44,7 +44,7 @@
 
 #### (1) Applicability
 
-&emsp;This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, other than those individuals to whom subsection (b) applies.
+&emsp;This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established underarticle 1905, other than those individuals to whom subsection (b) applies.
 
 #### (2) Interagency group
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a list of individuals who are qualified to serve on extraordinary challenge committees convened under chapter 19 and special committees established under article 1905;
 
-&emsp;&emsp;&emsp;(ii) if the Trade Representative makes a request under paragraph (4)(C)(i) with respect to a final candidate list during any calendar year, prepare by July 1 of such calendar year a list of those individualswho are qualified to be added to that final candidate list;
+&emsp;&emsp;&emsp;(ii) if the Trade Representative makes a request under paragraph (4)(C)(i) with respect to a final candidate list during any calendar year, prepare by July 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list;
 
 &emsp;&emsp;&emsp;(iii) exercise oversight of the administration of the United States Section that is authorized to be established under section 3315 of this title; and
 
@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to the appropriate Congressional Committees under subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
+&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to the appropriate Congressional Committeesunder subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) request the interagency group established under paragraph (2)(A) to prepare a list of individuals who are qualified to be added to such candidate list;
 
@@ -128,7 +128,7 @@
 
 #### (iii) Adjustment of proposed amendment
 
-&emsp;&emsp;&emsp;The Trade Representative may add and delete individuals from any proposedamendment submitted under clause (i)(III) after consulting with the appropriate Congressional Committees with regard to the additions and deletions. The Trade Representative shall provide to the appropriate Congressional Committees written notice of any addition or deletion of an individual from the proposed amendment.
+&emsp;&emsp;&emsp;The Trade Representative may add and delete individuals from any proposed amendment submitted under clause (i)(III) after consulting with the appropriate Congressional Committees with regard to the additions and deletions. The Trade Representative shall provide to the appropriate Congressional Committees written notice of any addition or deletion of an individual from the proposed amendment.
 
 #### (iv) Final amendment
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
-> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
+> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted tothe appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
 
 &emsp;&emsp;(B) no individual may—
 

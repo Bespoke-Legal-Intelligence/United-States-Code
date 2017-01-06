@@ -6,8 +6,8 @@
 | [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
 | [132a.](%C2%A7%2000132a%20-%20Deputy%20Chief%20Management%20Officer.md) | Deputy Chief Management Officer. |
 | [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md) | Under Secretary of Defense for Acquisition, Technology, and Logistics. |
-| \[133a. | Repealed.\] |
-| \[133b. | Repealed.\] |
+| [133a.](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md) | Under Secretary of Defense for Research and Engineering. |
+| [133b.](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md) | Under Secretary of Defense for Acquisition and Sustainment. |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
 | \[134a, 134b. Repealed.\] |  |
 | [135\.](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md) | Under Secretary of Defense (Comptroller). |
@@ -19,8 +19,8 @@
 | \[138a to 138d. Repealed.\] |  |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
 | [139a.](%C2%A7%2000139a%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md) | Director of Cost Assessment and Program Evaluation. |
-| [139b.](%C2%A7%2000139b%20-%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Developmental%20Test%20and%20Evaluation%3B%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Systems%E2%80%A6.md) | Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance. |
-| [139c.](%C2%A7%2000139c%20-%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Manufacturing%20and%20Industrial%20Base%20Policy.md) | Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy. |
+| [139b.](%C2%A7%2000139b%20-%20Special%20Operations%20Policy%20and%20Oversight%20Council.md) | Special Operations Policy and Oversight Council. |
+| \[139c. | Repealed.\] |
 | \[139d, 139e. Renumbered.\] |  |
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | \[140a to 140c. Renumbered.\] |  |
@@ -33,13 +33,19 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information."</i>
+<i>Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, this analysis is amended by striking out item 133 "Under Secretary of Defense for Acquisition, Technology, and Logistics".</i>
+
+<i>Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information." See 2014 Amendment note below.</i>
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b.
+
+Pub. L. 114–328, div. A, title IX, §§901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b "Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance" and item 139c "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy".
+
 <b>2014</b>—Pub. L. 113–291, div. A, title IX, §901(l)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a "Assistant Secretary of Defense for Logistics and Materiel Readiness", 138b "Assistant Secretary of Defense for Research and Engineering", 138c "Assistant Secretary of Defense for Operational Energy Plans and Programs", and 138d "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs".
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a.
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which directed substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a, effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
@@ -105,9 +111,13 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 <b>1972</b>—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(g)(2) is effective on Feb. 1, 2018.
+
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which is on Feb. 1, 2017.
+Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal of section 901(a) of Pub. L. 113–291 by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.
 
 
 ---
@@ -118,8 +128,8 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468,
 - [&sect; 00132 - Deputy Secretary of Defense](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md)
 - [&sect; 00132a - Deputy Chief Management Officer](%C2%A7%2000132a%20-%20Deputy%20Chief%20Management%20Officer.md)
 - [&sect; 00133 - Under Secretary of Defense for Acquisition, Technology, and Logistics](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md)
-- [&sect; 00133a - Repealed. Pub. L. 111&#8211;383, div. A, title IX, &sect;901(b)(1), Jan. 7, 2011, 124 Stat. 4317](%C2%A7%2000133a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93383%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28b%29%281%29%2C%20Jan.%207%2C%202011%2C%20124%20Stat.%204317.md)
-- [&sect; 00133b - Renumbered &sect;138a](%C2%A7%2000133b%20-%20Renumbered%20%C2%A7138a.md)
+- [&sect; 00133a - Under Secretary of Defense for Research and Engineering](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md)
+- [&sect; 00133b - Under Secretary of Defense for Acquisition and Sustainment](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md)
 - [&sect; 00134 - Under Secretary of Defense for Policy](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
 - [&sect; 00134a - Repealed. Pub. L. 111&#8211;383, div. A, title IX, &sect;901(b)(1), Jan. 7, 2011, 124 Stat. 4317](%C2%A7%2000134a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93383%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28b%29%281%29%2C%20Jan.%207%2C%202011%2C%20124%20Stat.%204317.md)
 - [&sect; 00134b - Repealed. Pub. L. 111&#8211;84, div. A, title IX, &sect;905(a)(1), Oct. 28, 2009, 123 Stat. 2425](%C2%A7%2000134b%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7905%28a%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202425.md)
@@ -134,8 +144,8 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468,
 - [&sect; 00138d - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(h)(4), Dec. 19, 2014, 128 Stat. 3467](%C2%A7%2000138d%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28h%29%284%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203467.md)
 - [&sect; 00139 - Director of Operational Test and Evaluation](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md)
 - [&sect; 00139a - Director of Cost Assessment and Program Evaluation](%C2%A7%2000139a%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md)
-- [&sect; 00139b - Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems&#8230;](%C2%A7%2000139b%20-%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Developmental%20Test%20and%20Evaluation%3B%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Systems%E2%80%A6.md)
-- [&sect; 00139c - Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy](%C2%A7%2000139c%20-%20Deputy%20Assistant%20Secretary%20of%20Defense%20for%20Manufacturing%20and%20Industrial%20Base%20Policy.md)
+- [&sect; 00139b - Special Operations Policy and Oversight Council](%C2%A7%2000139b%20-%20Special%20Operations%20Policy%20and%20Oversight%20Council.md)
+- [&sect; 00139c - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;901(e)(2), Dec. 23, 2016, 130 Stat. 2342](%C2%A7%2000139c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28e%29%282%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202342.md)
 - [&sect; 00139d, 139e - Renumbered &sect;&sect;139b, 139c](%C2%A7%2000139d%2C%20139e%20-%20Renumbered%20%C2%A7%C2%A7139b%2C%20139c.md)
 - [&sect; 00140 - General Counsel](%C2%A7%2000140%20-%20General%20Counsel.md)
 - [&sect; 00140a - Renumbered &sect;422](%C2%A7%2000140a%20-%20Renumbered%20%C2%A7422.md)

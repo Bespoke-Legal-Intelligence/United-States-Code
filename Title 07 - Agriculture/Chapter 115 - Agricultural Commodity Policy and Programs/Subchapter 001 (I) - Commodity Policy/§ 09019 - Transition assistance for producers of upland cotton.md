@@ -50,5 +50,5 @@ Sections 1308 through 1308–3 of this title, as in effect on September 30, 2013
 
 Section 8713 of this title, referred to in subsecs. (a)(1), (c)(3), and (e), was repealed by Pub. L. 113–79, title I, §1101, Feb. 7, 2014, 128 Stat. 658.
 
-Section 1508b of this title, as added by section 11017 of this Act, referred to in subsec. (a)(1), is section 1508bof this title, as added by section 11017(a) of Pub. L. 113–79.
+Section 1508b of this title, as added by section 11017 of this Act, referred to in subsec. (a)(1), is section 1508b of this title, as added by section 11017(a) of Pub. L. 113–79.
 

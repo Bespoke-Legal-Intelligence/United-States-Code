@@ -4,7 +4,7 @@
 
 It is the purpose of this section—
 
-&emsp;(1) to recognize the interests of the States in the peaceful uses of atomic energy, and to clarify the respective responsibilities under this chapter of the States and the Commission with respect to the regulation of byproduct, source, and special nuclear materials;
+&emsp;(1) to recognize the interests of the States in the peaceful uses of atomic energy, and toclarify the respective responsibilities under this chapter of the States and the Commission with respect to the regulation of byproduct, source, and special nuclear materials;
 
 &emsp;(2) to recognize the need, and establish programs for, cooperation between the States and the Commission with respect to control of radiation hazards associated with use of such materials;
 
@@ -18,7 +18,7 @@ It is the purpose of this section—
 
 #### (b) Agreements with States
 
-Except as provided in subsection (c) of this section, the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
+Except as provided in subsection (c), the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
 
 &emsp;(1) Byproduct materials (as defined in section 2014(e) of this title).
 
@@ -26,11 +26,11 @@ Except as provided in subsection (c) of this section, the Commission is authoriz
 
 &emsp;(3) Special nuclear materials in quantities not sufficient to form a critical mass.
 
-> During the duration of such an agreement it is recognized that the State shall have authorityto regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
+> During the duration of such an agreement it is recognized that the State shall have authority to regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
 
 #### (c) Commission regulation of certain activities
 
-No agreement entered into pursuant to subsection (b) of this section shall provide for discontinuance of any authority and the Commission shall retain authority and responsibility with respect to regulation of—
+No agreement entered into pursuant to subsection (b) shall provide for discontinuance of any authority and the Commission shall retain authority and responsibility with respect to regulation of—
 
 &emsp;(1) the construction and operation of any production or utilization facility or any uranium enrichment facility;
 
@@ -40,7 +40,7 @@ No agreement entered into pursuant to subsection (b) of this section shall provi
 
 &emsp;(4) the disposal of such other byproduct, source, or special nuclear material as the Commission determines by regulation or order should, because of the hazards or potential hazards thereof, not be so disposed of without a license from the Commission.
 
-> The Commission shall also retain authority under any such agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material, as defined in section 2014(e)(2) of this title. Notwithstanding any agreement between the Commission and any State pursuant to subsection (b) of this section, the Commission is authorized by rule, regulation, or order to require that the manufacturer, processor, or producer of any equipment, device, commodity, or other product containing source, byproduct, or special nuclear material shall not transfer possession or control of such product except pursuant to a license issued by the Commission.
+> The Commission shall also retain authority under any such agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material, as defined in section 2014(e)(2) of this title. Notwithstanding any agreement between the Commission and any State pursuant to subsection (b), the Commission is authorized by rule, regulation, or order to require that the manufacturer, processor, or producer of any equipment, device, commodity, or other product containing source, byproduct, or special nuclear material shall not transfer possession or control of such product except pursuant to a license issued by the Commission.
 
 #### (d) Conditions
 
@@ -48,17 +48,17 @@ The Commission shall enter into an agreement under subsection (b) of this sectio
 
 &emsp;(1) The <sup>1</sup> Governor of that State certifies that the State has a program for the control of radiation hazards adequate to protect the public health and safety with respect to the materials within the State covered by the proposed agreement, and that the State desires to assume regulatory responsibility for such materials; and
 
-&emsp;(2) the Commission finds that the State program is in accordance with the requirements of subsection (o) of this section and in all other respects compatible with the Commission's program for the regulation of such materials, and that the State program is adequate to protect the public health and safety with respect to the materials covered by the proposed agreement.
+&emsp;(2) the Commission finds that the State program is in accordance with the requirements of subsection (o) and in all other respects compatible with the Commission's program for the regulation of such materials, and that the State program is adequate to protect the public health and safety with respect to the materials covered by the proposed agreement.
 
 #### (e) Publication in Federal Register; comment of interested persons
 
-(1) Before any agreement under subsection (b) of this section is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) of this section shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
+(1) Before any agreement under subsection (b) is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
 
 (2) Each proposed agreement shall include the proposed effective date of such proposed agreement or exemptions. The agreement and exemptions shall be published in the Federal Register within thirty days after signature by the Commission and the Governor.
 
 #### (f) Exemptions
 
-The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
+The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
 
 #### (g) Compatible radiation standards
 
@@ -70,11 +70,11 @@ The Administrator of the Environmental Protection Agency shall consult qualified
 
 #### (i) Inspections and other functions; training and other assistance
 
-The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
+The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b).
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
-(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
 (2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
@@ -90,11 +90,11 @@ Nothing in this section shall be construed to affect the authority of any State 
 
 #### (l) Commission regulated activities; notice of filing; hearing
 
-With respect to each application for Commission license authorizing an activity as to which the Commission's authority is continued pursuant to subsection (c) of this section, the Commission shall give prompt notice to the State or States in which the activity will be conducted of the filing of the license application; and shall afford reasonable opportunity for State representatives to offer evidence, interrogate witnesses, and advise the Commission as to the application without requiring such representatives to take a position for or against the granting of the application.
+With respect to each application for Commission license authorizing an activity as to which the Commission's authority is continued pursuant to subsection (c), the Commission shall give prompt notice to the State or States in which the activity will be conducted of the filing of the license application; and shall afford reasonable opportunity for State representatives to offer evidence, interrogate witnesses, and advise the Commission as to the application without requiring such representatives to take a position for or against the granting of the application.
 
 #### (m) Limitation of agreements and exemptions
 
-No agreement entered into under subsection (b) of this section, and no exemption granted pursuant to subsection (f) of this section, shall affect the authority of the Commission under section 2201(b) or (i) of this title to issue rules, regulations, or orders to protect the common defense and security, to protect restricted data or to guard against the loss or diversion of special nuclear material. For purposes of section 2201(i) of this title, activities covered by exemptions granted pursuant to subsection (f) of this section shall be deemed to constitute activities authorized pursuant to this chapter; and special nuclear material acquired by any person pursuant to such an exemption shall be deemed to have been acquired pursuant to section 2073 of this title.
+No agreement entered into under subsection (b), and no exemption granted pursuant to subsection (f), shall affect the authority of the Commission under section 2201(b) or (i) of this title to issue rules, regulations, or orders to protect the common defense and security, to protect restricted data or to guard against the loss or diversion of special nuclear material. For purposes of section 2201(i) of this title, activities covered by exemptions granted pursuant to subsection (f) shall be deemed to constitute activities authorized pursuant to this chapter; and special nuclear material acquired by any person pursuant to such an exemption shall be deemed to have been acquired pursuant to section 2073 of this title.
 
 #### (n) "State" and "agreement" defined
 
@@ -102,7 +102,7 @@ As used in this section, the term "State" means any State, Territory, or possess
 
 #### (o) State compliance requirements: compliance with section 2113(b) of this title and health and environmental protection standards; procedures for licenses, rulemaking, and license impact analysis; amendment of agreements for transfer of State collected funds; proceedings duplication restriction; alternative requirements
 
-In the licensing and regulation of byproduct material, as defined in section 2014(e)(2) of this title, or of any activity which results in the production of byproduct material as so defined under an agreement entered into pursuant to subsection (b) of this section, a State shall require—
+In the licensing and regulation of byproduct material, as defined in section 2014(e)(2) of this title, or of any activity which results in the production of byproduct material as so defined under an agreement entered into pursuant to subsection (b), a State shall require—
 
 &emsp;(1) compliance with the requirements of subsection (b) of section 2113 of this title (respecting ownership of byproduct material and land), and
 
@@ -116,7 +116,7 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 &emsp;&emsp;&emsp;(ii) an opportunity for cross examination, and
 
-&emsp;&emsp;&emsp;(iii) a written determination which is based upon findings included in such determination and upon the evidence presentedduring the public comment period and which is subject to judicial review;
+&emsp;&emsp;&emsp;(iii) a written determination which is based upon findings included in such determination and upon the evidence presented during the public comment period and which is subject to judicial review;
 
 &emsp;&emsp;(B) in the case of rulemaking, provide an opportunity for public participation through written comments or a public hearing and provide for judicial review of the rule;
 
@@ -138,7 +138,7 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (i), (j)(1), and (m), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (i), (j)(1), and (m), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch.1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 For definition of Canal Zone, referred to in subsec. (n), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
@@ -168,7 +168,7 @@ In subsec. (h) of this section, provisions for the establishment of a Federal Ra
 
 Subsec. (c). Pub. L. 95–604, §204(f), required the Commission to retain authority under the agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material as defined in section 2014(e)(2) of this title.
 
-Subsec. (d)(2). Pub. L. 95–604, §204(b), inserted "in accordance with the requirements of subsection (o) of this section and in all other respects" before "compatible".
+Subsec. (d)(2). Pub. L. 95–604, §204(b), inserted "in accordance with the requirements of subsection (o) and in all other respects" before "compatible".
 
 Subsec. (j). Pub. L. 95–604, §204(d), inserted "all or part of" after "suspend", designated provision requiring termination or suspension be necessary to protect the public health and safety as cl. (1), added cl. (2), and inserted provision requiring the Commission to periodically review the agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 

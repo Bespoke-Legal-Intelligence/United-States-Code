@@ -28,7 +28,7 @@ As used in this section:
 
 &emsp;(3) The term "new oil" means any oil which has been refined from crude oil and has not been used, and which may or may not contain additives. Such term does not include used oil or recycled oil.
 
-&emsp;(4) The term "manufacturer" means any person who re-refines or otherwise processes usedoil to remove physical or chemical impurities acquired through use or who blends such re-refined or otherwise processed used oil with new oil or additives.
+&emsp;(4) The term "manufacturer" means any person who re-refines or otherwise processes used oil to remove physical or chemical impurities acquired through use or who blends such re-refined or otherwise processed used oil with new oil or additives.
 
 &emsp;(5) The term "Commission" means the Federal Trade Commission.
 

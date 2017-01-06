@@ -82,7 +82,7 @@ In order to improve the check processing system, the Board shall consider (among
 
 #### (B) Contents of report
 
-&emsp;&emsp;Such report shall also assess the potential impact the implementation of the schedule established in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks toand losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
+&emsp;&emsp;Such report shall also assess the potential impact the implementation of the schedule established in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks to and losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
 
 #### (3) Comptroller General evaluation report
 

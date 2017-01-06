@@ -6,7 +6,7 @@ Cooperation With Others.—The American Battle Monuments Commission may cooperat
 
 (b)
 
-Control, Administration, and Maintenance of War Memorials.—(1) The Commissionmay assume responsibility for the control, administration, and maintenance of any war memorial built outside the United States by a citizen of the United States, a State, a political subdivision of a State, a governmental authority (except a department, agency, or instrumentality of the United States Government), a foreign agency, or a private association to commemorate the services of any of the Armed Forces in hostilities occurring since April 6, 1917, if—
+Control, Administration, and Maintenance of War Memorials.—(1) The Commission may assume responsibility for the control, administration, and maintenance of any war memorial built outside the United States by a citizen of the United States, a State, a political subdivision of a State, a governmental authority (except a department, agency, or instrumentality of the United States Government), a foreign agency, or a private association to commemorate the services of any of the Armed Forces in hostilities occurring since April 6, 1917, if—
 
 &emsp;(A) the memorial is not built on the territory of the applicable former enemy; and
 
@@ -112,7 +112,7 @@ Pub. L. 103–160, div. A, title III, §369, Nov. 30, 1993, 107 Stat. 1634, prov
 
 "(a)
 
-Authority.—The Commandant of the Marine Corps may provide necessary minor maintenance and repairs to the Pacific battle monuments until such time as the Secretary of the American Battle Monuments Commission and the Commandant of the Marine Corps agree that the repair and maintenance will beperformed by the American Battle Monuments Commission.
+Authority.—The Commandant of the Marine Corps may provide necessary minor maintenance and repairs to the Pacific battle monuments until such time as the Secretary of the American Battle Monuments Commission and the Commandant of the Marine Corps agree that the repair and maintenance will be performed by the American Battle Monuments Commission.
 
 "(b)
 

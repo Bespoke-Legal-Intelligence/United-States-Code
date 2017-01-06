@@ -66,7 +66,7 @@ Facilities and Services of Other Agencies.—In implementing this section, when 
 
 (h)
 
-Authority Outside Federal Property.—For the protection of property under the jurisdiction, custody, or control of the Department of Defense and persons on that property, the Secretary of Defense may enter into agreements with Federal agencies and with State, Indian tribal, and local governments to obtain authority for civilian officers and agents designated under this section to enforce Federal laws and State, Indian tribal, and local laws concurrently with other Federal law enforcement officers and with State, Indian tribal, and local law enforcement officers.
+Authority Outside Federal Property.—For the protection of property under the jurisdiction, custody, or control of the Department of Defense and persons on that property, theSecretary of Defense may enter into agreements with Federal agencies and with State, Indian tribal, and local governments to obtain authority for civilian officers and agents designated under this section to enforce Federal laws and State, Indian tribal, and local laws concurrently with other Federal law enforcement officers and with State, Indian tribal, and local law enforcement officers.
 
 (i)
 
@@ -108,5 +108,5 @@ A prior section 2672, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1
 
 #### Establishment of Process by Which Members of the Armed Forces May Carry an Appropriate Firearm on a Military Installation
 
-Pub. L. 114–92, div. A, title V, §526, Nov. 25, 2015, 129 Stat. 813, provided that: "Not later than December 31, 2015, the Secretary of Defense, taking into consideration the views of senior leadership of military installations in the United States, shall establish and implement a process by which the commanders of military installations in the United States, or other military commanders designated by the Secretary of Defense formilitary reserve centers, Armed Services recruiting centers, and such other defense facilities as the Secretary may prescribe, may authorize a member of the Armed Forces who is assigned to duty at the installation, center or facility to carry an appropriate firearm on the installation, center, or facility if the commander determines that carrying such a firearm is necessary as a personal- or force-protection measure."
+Pub. L. 114–92, div. A, title V, §526, Nov. 25, 2015, 129 Stat. 813, provided that: "Not later than December 31, 2015, the Secretary of Defense, taking into consideration the views of senior leadership of military installations in the United States, shall establish and implement a process by which the commanders of military installations in the United States, or other military commanders designated by the Secretary of Defense for military reserve centers, Armed Services recruiting centers, and such other defense facilities as the Secretary may prescribe, may authorize a member of the Armed Forces who is assigned to duty at the installation, center or facility to carry an appropriate firearm on the installation, center, or facility if the commander determines that carrying such a firearm is necessary as a personal- or force-protection measure."
 

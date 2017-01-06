@@ -2,7 +2,7 @@
 
 Section 4001, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875; Pub. L. 105–34, title IX, §906(a)–(b)(2), title XVI, §1601(f)(3)(A), (B), Aug. 5, 1997, 111 Stat. 874, 875, 1090, provided for imposition of tax on luxury passenger vehicles.
 
-Section 4002, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 450, related to 1st retail sale, uses treated as sales, and determination of price.
+Section 4002, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66,title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 450, related to 1st retail sale, uses treated as sales, and determination of price.
 
 Section 4003, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 451; Pub. L. 105–34, title IX, §906(b)(3), (4), title XIV, §1401(a), Aug. 5, 1997, 111 Stat. 875, 1045, related to special rules for separate purchase of vehicles, parts and accessories.
 

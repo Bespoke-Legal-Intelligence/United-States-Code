@@ -18,7 +18,7 @@
 
 &emsp;(2) not later than 15 days after the date of receipt of the materials described in paragraph (1), the Chief Counsel shall identify individuals representative of affected small entities for the purpose of obtaining advice and recommendations from those individuals about the potential impacts of the proposed rule;
 
-&emsp;(3) the agency shall convene a review panel for such rule consisting wholly of full timeFederal employees of the office within the agency responsible for carrying out the proposed rule, the Office of Information and Regulatory Affairs within the Office of Management and Budget, and the Chief Counsel;
+&emsp;(3) the agency shall convene a review panel for such rule consisting wholly of full time Federal employees of the office within the agency responsible for carrying out the proposed rule, the Office of Information and Regulatory Affairs within the Office of Management and Budget, and the Chief Counsel;
 
 &emsp;(4) the panel shall review any material the agency has prepared in connection with this chapter, including any draft proposed rule, collect advice and recommendations of each individual small entity representative identified by the agency after consultation with the Chief Counsel, on issues related to subsections 603(b), paragraphs (3), (4) and (5) and 603(c);
 
@@ -63,6 +63,10 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
 #### Small Business Advocacy Chairpersons
 

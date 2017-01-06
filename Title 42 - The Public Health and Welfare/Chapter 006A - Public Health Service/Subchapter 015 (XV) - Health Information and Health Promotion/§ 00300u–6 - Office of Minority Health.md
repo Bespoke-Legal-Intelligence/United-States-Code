@@ -20,7 +20,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;(6) Ensure that the National Center for Health Statistics collects data on the health status of each minority group.
 
-&emsp;(7) With respect to individuals who lack proficiency in speaking the English language,enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of the individuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
+&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of the individuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
 
 &emsp;(8) Support a national minority health resource center to carry out the following:
 
@@ -44,7 +44,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Duties
 
-&emsp;The Committee shall provide advice to the Deputy Assistant Secretary carrying out this section, including advice on the development of goals and specific program activities under paragraphs (1) through (10) of subsection (b) of this section for each racial and ethnic minority group.
+&emsp;The Committee shall provide advice to the Deputy Assistant Secretary carrying out this section, including advice on the development of goals and specific program activities under paragraphs (1) through (10) of subsection (b) for each racial and ethnic minority group.
 
 #### (3) Chair
 
@@ -64,7 +64,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (6) Vacancies
 
-&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
+&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretarywithin 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
 
 #### (7) Compensation
 
@@ -76,25 +76,25 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (A) Proficiency in speaking English
 
-&emsp;&emsp;The Deputy Assistant Secretary shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9) of this section.
+&emsp;&emsp;The Deputy Assistant Secretary shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9).
 
 #### (B) Health professions education regarding health disparities
 
-&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 
-&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
+&emsp;In carrying out subsection (b), the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
 
 #### (3) Cultural competency of services
 
-&emsp;The Secretary shall ensure that information and services provided pursuant to subsection (b) of this section are provided in the language, educational, and cultural context that is most appropriate for the individuals for whom the information and services are intended.
+&emsp;The Secretary shall ensure that information and services provided pursuant to subsection (b) are provided in the language, educational, and cultural context that is most appropriate for the individuals for whom the information and services are intended.
 
 #### (e) Grants and contracts regarding duties
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Secretary acting through the Deputy Assistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
+&emsp;In carrying out subsection (b), the Secretary acting through the Deputy Assistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
 
 #### (2) Process for making awards
 
@@ -102,13 +102,13 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (3) Evaluation and dissemination
 
-&emsp;The Deputy Assistant Secretary, directly or through contracts with public and private entities, shall provide for evaluations of projects carried out with awards made under paragraph (1) during the preceding 2 fiscal years. The report shall be included in the report required under subsection (f) of this section for the fiscal year involved.
+&emsp;The Deputy Assistant Secretary, directly or through contracts with public and private entities, shall provide for evaluations of projects carried out with awards made under paragraph (1) during the preceding 2 fiscal years. The report shall be included in the report required under subsection (f) for the fiscal year involved.
 
 #### (f) Reports
 
 #### (1) In general
 
-&emsp;Not later than February 1 of fiscal year 1999 and of each second year thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding 2 fiscal years and evaluating the extent to which such activities have been effective in improving the health of racial and ethnic minority groups. Each such report shall include the biennial reports submitted under subsections (e)(3) and (f)(2) <sup>1</sup> of this section for such years by the heads of the Public Health Service agencies.
+&emsp;Not later than February 1 of fiscal year 1999 and of each second year thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding 2 fiscal years and evaluating the extent to which such activities have been effective in improving the health of racial and ethnic minority groups. Each such report shall include the biennial reports submitted under subsections (e)(3) and (f)(2) <sup>1</sup> for such years by the heads of the Public Health Service agencies.
 
 #### (2) Agency reports
 
@@ -134,7 +134,7 @@ The General Schedule, referred to in subsec. (c)(7), is set out under section 53
 
 The Minority Health and Health Disparities Research and Education Act of 2000, referred to in subsec. (d)(1)(B), is Pub. L. 106–525, Nov. 22, 2000, 114 Stat. 2495. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 201 of this title and Tables.
 
-Subsections (e)(3) and (f)(2) of this section, referred to in subsec. (f)(1), was in the original "sections 201(e)(3) and 201(f)(2)", and was translated to reflect the probable intent of Congress, because section 201 of act July 1, 1944, which is classified to section 202 of this title, does not contain subsections, and subsections (e)(3) and (f)(2) of this section require biennial reporting.
+Subsections (e)(3) and (f)(2), referred to in subsec. (f)(1), were in the original "sections 201(e)(3) and 201(f)(2)", and were translated to reflect the probable intent of Congress, because section 201 of act July 1, 1944, which is classified to section 202 of this title, does not contain subsections, and subsections (e)(3) and (f)(2) of this section require biennial reporting.
 
 #### Prior Provisions
 

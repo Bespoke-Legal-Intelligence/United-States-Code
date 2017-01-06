@@ -22,7 +22,7 @@ It is the policy of the Congress to protect the consuming public from meat and m
 
 #### (b) Single State agency; subordinate governmental unit as part of State agency
 
-The appropriate State agency with which the Secretary may cooperate under this chapter shall be a single agency in the State which is primarily responsible for the coordination of the State programs having objectives similar to those under this chapter. When the State program includes performance of certain functions by a municipality or other subordinate governmental unit, such unit shall be deemed to be a part of the State agency for purposes of this section.
+The appropriate State agency with which the Secretary may cooperate under this chapter shall be a single agency in the State which is primarily responsible for the coordination of the State programs having objectives similar tothose under this chapter. When the State program includes performance of certain functions by a municipality or other subordinate governmental unit, such unit shall be deemed to be a part of the State agency for purposes of this section.
 
 #### (c) State meat inspection requirements
 
@@ -36,7 +36,7 @@ The provisions of this chapter requiring inspection of the slaughter of animals 
 
 #### (3) Termination of designation of State upon development and enforcement of minimum requirements; redesignation; designation for nonenforcement of minimum requirements: notice and publication in Federal Register
 
-Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State meat inspection requirements at least equal to those imposed under subchapters I and IV of this chapter with respect to the operations and transactions within such State which are regulated under paragraph (1), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication at any time after the period specified in this paragraph whether or not the State has theretofore been designated upon the Secretary determining that it is not effectively enforcing requirements at least equal to those imposed under subchapters I and IV of this chapter.
+Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State meat inspection requirements at least equal to those imposed under subchapters I and IV, with respect to the operations and transactions within such State which are regulated under paragraph (1), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication at any time after the period specified in this paragraph whether or not the State has theretofore been designated upon the Secretarydetermining that it is not effectively enforcing requirements at least equal to those imposed under subchapters I and IV.
 
 #### (4) Periodic review; report to Congressional committees
 

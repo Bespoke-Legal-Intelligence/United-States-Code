@@ -40,7 +40,7 @@ Campaign.—The term "campaign" means a high-visibility traffic safety law enfor
 
 State.—The term "State" has the meaning given that term in section 401.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24,1967, 81 Stat. 507; Pub. L. 93–87, title II, §223, Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, §209, May 5, 1976, 90 Stat. 455; Pub. L. 109–59, title II, §2019, Aug. 10, 2005, 119 Stat. 1543; Pub. L. 114–94, div. A, title IV, §4004(a), Dec. 4, 2015, 129 Stat. 1500.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24, 1967, 81 Stat. 507; Pub. L. 93–87, title II, §223, Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, §209, May 5, 1976, 90 Stat. 455; Pub. L. 109–59, title II, §2019, Aug. 10, 2005, 119 Stat. 1543; Pub. L. 114–94, div. A, title IV, §4004(a), Dec. 4, 2015, 129 Stat. 1500.)
 
 #### Amendments
 

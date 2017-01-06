@@ -8,7 +8,7 @@
 
 Congress by the enactment of the Foreign Service Act of 1980, Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, classified principally to chapter 52 (§3901 et seq.) of this title, consolidated and revised the laws relating to the administration, etc., of the Foreign Service.
 
-Prior to the enactment of the Foreign Service Act of 1980, the Foreign Service Act of 1946 and related and miscellaneous provisions, which governed the Foreign Service, were classified to this chapter. Some former provisions of this chapter, prior to the enactment ofthe Foreign Service Act of 1946, had similar and related provisions classified to former chapter 1 of this title as follows:
+Prior to the enactment of the Foreign Service Act of 1980, the Foreign Service Act of 1946 and related and miscellaneous provisions, which governed the Foreign Service, were classified to this chapter. Some former provisions of this chapter, prior to the enactment of the Foreign Service Act of 1946, had similar and related provisions classified to former chapter 1 of this title as follows:
 
 &nbsp;
 

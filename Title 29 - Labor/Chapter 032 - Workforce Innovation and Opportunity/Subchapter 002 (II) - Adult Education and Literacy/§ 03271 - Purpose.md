@@ -30,7 +30,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### Short Title
 
-For short title of this subchapter as the "Adult Education and Family Literacy Act", see section 201 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+For short title of this subchapter as the "Adult Education and Family Literacy Act", see section 201 ofPub. L. 113–128, set out as a note under section 3101 of this title.
 
 #### Ex. Ord. No. 13445. Strengthening Adult Education
 

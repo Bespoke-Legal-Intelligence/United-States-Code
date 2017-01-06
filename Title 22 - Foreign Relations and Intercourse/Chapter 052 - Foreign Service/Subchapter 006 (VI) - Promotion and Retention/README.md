@@ -14,7 +14,7 @@
 - [&sect; 04007 - Retirement for expiration of time in class](%C2%A7%2004007%20-%20Retirement%20for%20expiration%20of%20time%20in%20class.md)
 - [&sect; 04008 - Retirement based on failure to meet standard of performance](%C2%A7%2004008%20-%20Retirement%20based%20on%20failure%20to%20meet%20standard%20of%20performance.md)
 - [&sect; 04009 - Retirement benefits](%C2%A7%2004009%20-%20Retirement%20benefits.md)
-- [&sect; 04010 - Separation for cause](%C2%A7%2004010%20-%20Separation%20for%20cause.md)
+- [&sect; 04010 - Separation for cause; suspension](%C2%A7%2004010%20-%20Separation%20for%20cause%3B%20suspension.md)
 - [&sect; 04010a - Reductions in force](%C2%A7%2004010a%20-%20Reductions%20in%20force.md)
 - [&sect; 04011 - Termination of limited appointments](%C2%A7%2004011%20-%20Termination%20of%20limited%20appointments.md)
 - [&sect; 04012 - Termination of appointments of consular agents and foreign national employees](%C2%A7%2004012%20-%20Termination%20of%20appointments%20of%20consular%20agents%20and%20foreign%20national%20employees.md)

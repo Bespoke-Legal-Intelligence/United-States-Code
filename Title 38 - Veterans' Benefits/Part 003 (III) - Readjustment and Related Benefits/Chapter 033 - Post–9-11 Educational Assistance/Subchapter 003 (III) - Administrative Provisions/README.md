@@ -10,3 +10,5 @@
 - [&sect; 03323 - Administration](%C2%A7%2003323%20-%20Administration.md)
 - [&sect; 03324 - Allocation of administration and costs](%C2%A7%2003324%20-%20Allocation%20of%20administration%20and%20costs.md)
 - [&sect; 03325 - Reporting requirement](%C2%A7%2003325%20-%20Reporting%20requirement.md)
+- [&sect; 03326 - Report on student progress](%C2%A7%2003326%20-%20Report%20on%20student%20progress.md)
+- [&sect; 03327 - Election to receive educational assistance](%C2%A7%2003327%20-%20Election%20to%20receive%20educational%20assistance.md)

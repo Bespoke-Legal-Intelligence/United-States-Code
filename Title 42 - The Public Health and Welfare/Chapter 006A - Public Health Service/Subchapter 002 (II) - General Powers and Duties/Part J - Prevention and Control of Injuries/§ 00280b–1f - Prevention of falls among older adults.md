@@ -34,13 +34,13 @@ The Secretary may—
 
 &emsp;&emsp;(B) conduct research concerning barriers to the adoption of proven interventions with respect to the prevention of falls among older adults;
 
-&emsp;&emsp;(C) conduct research to develop, implement, and evaluate the most effective approaches to reducing falls among high-riskolder adults living in communities and long-term care and assisted living facilities; and
+&emsp;&emsp;(C) conduct research to develop, implement, and evaluate the most effective approaches to reducing falls among high-risk older adults living in communities and long-term care and assisted living facilities; and
 
 &emsp;&emsp;(D) evaluate the effectiveness of community programs designed to prevent falls among older adults.
 
 #### (2) Educational support
 
-&emsp;The Secretary, either directly or through awarding grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, may provide professional education for physicians and allied health professionals, and aging service providers in fall prevention, evaluation, and management.
+&emsp;The Secretary, either directly or through awarding grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, may provide professional education for physiciansand allied health professionals, and aging service providers in fall prevention, evaluation, and management.
 
 #### (c) Demonstration projects
 

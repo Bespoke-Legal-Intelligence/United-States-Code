@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any other payment under this part, the Secretary shall, subject to subsection (f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
+In addition to any other payment under this part, the Secretary shall, subject to subsection (f), make an incentive payment to each State for each fiscal year in an amount determined under subsection (b).
 
 #### (b) Amount of incentive payment
 
@@ -74,7 +74,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (B) Data required to be complete and reliable
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the maximum incentive base amount for a State for a fiscal year with respect to a performance measure described in paragraph (4) is zero, unless the Secretary determines, on the basis of an audit performed under section 652(a)(4)(C)(i) of this title, that the data which the State submitted pursuant to section 654(15)(B) of this title for the fiscal year and which is used to determine the performance level involved is complete and reliable.
+&emsp;&emsp;Notwithstanding subparagraph (A), the maximum incentive base amount for a Statefor a fiscal year with respect to a performance measure described in paragraph (4) is zero, unless the Secretary determines, on the basis of an audit performed under section 652(a)(4)(C)(i) of this title, that the data which the State submitted pursuant to section 654(15)(B) of this title for the fiscal year and which is used to determine the performance level involved is complete and reliable.
 
 #### (C) State collections base
 
@@ -82,7 +82,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 &emsp;&emsp;&emsp;(i) 2 times the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved was so assigned but, at the time of collection, is not required to be so assigned; and
 
@@ -366,7 +366,7 @@ Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided th
 
 #### Transition Rule
 
-Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided for reductions by the Secretary of the amount otherwise payable to a State under this section and former section 658 of this title for fiscal years 2000 and 2001.
+Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided for reductions by the Secretary of theamount otherwise payable to a State under this section and former section 658 of this title for fiscal years 2000 and 2001.
 
 #### Studies
 
@@ -402,7 +402,7 @@ Development of medical support incentive.—
 
 &emsp;"(A)
 
-In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishingand enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[42 U.S.C. 658a\].
+In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[42 U.S.C. 658a\].
 
 &emsp;"(B)
 

@@ -8,7 +8,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;(2) any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causes the thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
 
-&emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or directspending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
+&emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or direct spending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
 
 &emsp;&emsp;(B) the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
 
@@ -71,4 +71,8 @@ For purposes of this section, in the Senate, the levels of Federal mandates for 
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 

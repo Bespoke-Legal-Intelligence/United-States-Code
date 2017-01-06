@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) in 1946, Secretary of the Interior J.A. Krug, by means of the authority granted the Secretary of the Interior under section 1866(a) of title 18 and section 320102 of title 54, established the Adams Mansion National Historic Site, located in Quincy, Massachusetts;
 
-&emsp;(2) in 1952, Acting Secretary of the Interior Vernon D. Northrup enlarged the site and renamed it the Adams National Historic Site,using the Secretary's authority as provided in the Historic Sites Act; <sup>1</sup>
+&emsp;(2) in 1952, Acting Secretary of the Interior Vernon D. Northrup enlarged the site and renamed it the Adams National Historic Site, using the Secretary's authority as provided in the Historic Sites Act; <sup>1</sup>
 
 &emsp;(3) in 1972, Congress, through Public Law 92–272, authorized the Secretary of the Interior to add approximately 3.68 acres at Adams National Historic Site;
 

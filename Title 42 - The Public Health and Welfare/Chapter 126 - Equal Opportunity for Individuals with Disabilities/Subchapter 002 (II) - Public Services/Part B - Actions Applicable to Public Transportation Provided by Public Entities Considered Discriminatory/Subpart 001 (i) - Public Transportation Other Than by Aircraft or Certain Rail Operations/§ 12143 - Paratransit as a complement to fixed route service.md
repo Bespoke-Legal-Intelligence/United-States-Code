@@ -82,13 +82,13 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (e) "Discrimination" defined
 
-As used in subsection (a) of this section, the term "discrimination" includes—
+As used in subsection (a), the term "discrimination" includes—
 
-&emsp;(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7) of this section;
+&emsp;(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7);
 
-&emsp;(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3) of this section;
+&emsp;(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3);
 
-&emsp;(3) submission to the Secretary of a modified plan under subsection (d)(3) of this section which does not meet the requirements of this section; or
+&emsp;(3) submission to the Secretary of a modified plan under subsection (d)(3) which does not meet the requirements of this section; or
 
 &emsp;(4) a failure of such entity to provide paratransit or other special transportation services in accordance with the plan or modified plan the public entity submitted to the Secretary under this section.
 

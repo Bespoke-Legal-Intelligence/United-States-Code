@@ -68,7 +68,7 @@ Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck o
 
 &emsp;"(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies offoreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
@@ -109,6 +109,10 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 
 #### Transfer of Functions
 

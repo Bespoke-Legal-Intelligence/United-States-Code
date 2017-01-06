@@ -108,13 +108,35 @@ Pub. L. 103–236 designated existing provisions as par. (1), redesignated forme
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–461 inserted "or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development" after "commander", and substituted a period for "; and" at end.
 
-Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
+Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: <i>Provided</i>, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: <i>Provided further</i>, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: <i>Provided further</i>, That the total number of positions authorized for the Office ofthe Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–202 added par. (3).
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Direct Reporting
+
+Pub. L. 114–323, title I, §103, Dec. 16, 2016, 130 Stat. 1909, provided that: "The Assistant Secretary for Diplomatic Security shall report directly to the Secretary \[of State\], without being required to obtain the approval or concurrence of any other official of the Department \[of State\], as threats and circumstances require."
+
+#### Marine Corps Security Guard Program
+
+Pub. L. 114–323, title I, §131, Dec. 16, 2016, 130 Stat. 1914, provided that:
+
+"(a)
+
+In General.—Pursuant to the responsibility of the Secretary \[of State\] for diplomatic security under section 103 of the Diplomatic Security Act (22 U.S.C. 4802; enacted as part of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399)), the Secretary, in consultation with the Secretary of Defense, shall conduct an annual review of the Marine Corps Security Guard Program, including the following:
+
+&emsp;"(1) An evaluation of whether the size and composition of the Marine Corps Security Guard Program is adequate to meet global diplomatic security requirements.
+
+&emsp;"(2) An assessment of whether the Marine Corps security guards are appropriately deployed among United States embassies, consulates, and other diplomatic facilities to respond to evolving security developments and potential threats to United States interests abroad.
+
+&emsp;"(3) An assessment of the mission objectives of the Marine Corps Security Guard Program and the procedural rules of engagement to protect diplomatic personnel under the Program.
+
+"(b)
+
+Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\] and annually thereafter for 3 years, the Secretary, in consultation with the Secretary of Defense, shall submit to the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate an unclassified report, with a classified annex as necessary, that addresses the requirements specified in subsection (a)."
 
 #### Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense
 

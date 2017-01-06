@@ -22,7 +22,7 @@
 
 &emsp;&emsp;If the Attorney General, the Secretary of the Treasury or their respective designees determines that the disclosure of information pursuant to paragraph (1) may jeopardize a pending civil investigation or litigation, or a pending criminal investigation or prosecution, may result in serious bodily injury or death to Government employees, informants, witnesses or their respective families, or may disclose sensitive investigative techniques and methods, the Attorney General or the Secretary of the Treasury shall—
 
-&emsp;&emsp;&emsp;(i) provide the appropriate Federal banking agency a description of the information that is as specific as possible without jeopardizing the investigation, litigation, or prosecution, threatening serious bodilyinjury or death to Government employees, informants, or witnesses or their respective families, or disclosing sensitive investigation techniques and methods; and
+&emsp;&emsp;&emsp;(i) provide the appropriate Federal banking agency a description of the information that is as specific as possible without jeopardizing the investigation, litigation, or prosecution, threatening serious bodily injury or death to Government employees, informants, or witnesses or their respective families, or disclosing sensitive investigation techniques and methods; and
 
 &emsp;&emsp;&emsp;(ii) permit a full review of the information by the Federal banking agency at a location and under procedures that the Attorney General determines will ensure the effective protection of the information while permitting the Federal banking agency to ensure the safety and soundness of any depository institution.
 
@@ -64,7 +64,7 @@ Rule 6 of the Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)
 
 #### Codification
 
-Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and also as part of the Housing and Community Development Act of 1992, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and also as part of theHousing and Community Development Act of 1992, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
 

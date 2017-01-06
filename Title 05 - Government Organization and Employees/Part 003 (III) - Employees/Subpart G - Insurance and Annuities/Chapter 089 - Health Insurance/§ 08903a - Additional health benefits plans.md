@@ -18,7 +18,7 @@
 
 &emsp;(2) to demonstrate ability to meet reasonable minimum financial standards prescribed by the Office.
 
-(d) For the purpose of this section, an individual shall be considered a full member of an organization if such individual is eligible to exerciseall rights and privileges incident to full membership in such organization (determined without regard to the right to hold elected office).
+(d) For the purpose of this section, an individual shall be considered a full member of an organization if such individual is eligible to exercise all rights and privileges incident to full membership in such organization (determined without regard to the right to hold elected office).
 
 (Added Pub. L. 99–53, §1(b)(1), June 17, 1985, 99 Stat. 93.)
 

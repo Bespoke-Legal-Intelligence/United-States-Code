@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 450b of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
+&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribalorganizations (as defined under section 5304 of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
 
 #### (2) Allocation
 
@@ -30,7 +30,7 @@
 
 #### (5) Reports
 
-&emsp;To be eligible to receive a payment under paragraph (2), a tribe, tribal organization, orconsortium shall make a biennial report to the Secretary of the Interior of activities undertaken under this subsection, including the number of contracts and cooperative agreements entered into, the number of infants and toddlers contacted and receiving services for each year, and the estimated number of infants and toddlers needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis to the Secretary of Education along with such other information as required under section 1411(h)(3)(E) of this title. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;To be eligible to receive a payment under paragraph (2), a tribe, tribal organization, or consortium shall make a biennial report to the Secretary of the Interior of activities undertaken under this subsection, including the number of contracts and cooperative agreements entered into, the number of infants and toddlers contacted and receiving services for each year, and the estimated number of infants and toddlers needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis to the Secretary of Education along with such other information as required under section 1411(h)(3)(E) of this title. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (6) Prohibited uses of funds
 
@@ -82,7 +82,7 @@ If a State elects not to receive its allotment under subsection (c), the Secreta
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide a grant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
+&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide agrant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
 
 #### (B) Maximum amount
 

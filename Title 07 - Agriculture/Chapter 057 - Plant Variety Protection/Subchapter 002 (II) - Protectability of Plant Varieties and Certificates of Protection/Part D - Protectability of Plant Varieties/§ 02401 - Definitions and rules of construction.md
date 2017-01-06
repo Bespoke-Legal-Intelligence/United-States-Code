@@ -26,7 +26,7 @@ As used in this chapter:
 
 #### (B) Methods
 
-&emsp;&emsp;An essentially derived variety may be obtained by the selection of a natural or induced mutant or of a somaclonal variant, the selection of a variant individual fromplants of the initial variety, backcrossing, transformation by genetic engineering, or other method.
+&emsp;&emsp;An essentially derived variety may be obtained by the selection of a natural or induced mutant or of a somaclonal variant, the selection of a variant individual from plants of the initial variety, backcrossing, transformation by genetic engineering, or other method.
 
 #### (4) Kind
 
@@ -58,7 +58,7 @@ For the purposes of this chapter:
 
 #### (1) Sale or disposition for nonreproductive purposes
 
-&emsp;The sale or disposition, for other than reproductive purposes, of harvested material produced as a result of experimentation or testing of a variety to ascertain the characteristics of the variety, or as a by-product of increasing a variety, shall not be considered to be a sale or disposition for purposes of exploitation of the variety.
+&emsp;The sale or disposition, for other than reproductive purposes, of harvested material produced as a result of experimentation or testing of a variety to ascertain the characteristics ofthe variety, or as a by-product of increasing a variety, shall not be considered to be a sale or disposition for purposes of exploitation of the variety.
 
 #### (2) Sale or disposition for reproductive purposes
 
@@ -106,7 +106,7 @@ Pub. L. 103–349, §14, Oct. 6, 1994, 108 Stat. 3144, provided that:
 
 "(a)
 
-In General.—Except as provided in this section, any variety for which a certificate of plant variety protection has been issued prior to the effective date of this Act \[see Effective Date of 1994 Amendment note above\], and any variety for which an application is pending on the effective date of this Act, shall continueto be governed by the Plant Variety Protection Act (7 U.S.C. 2321 et seq.), as in effect on the day before the effective date of this Act.
+In General.—Except as provided in this section, any variety for which a certificate of plant variety protection has been issued prior to the effective date of this Act \[see Effective Date of 1994 Amendment note above\], and any variety for which an application is pending on the effective date of this Act, shall continue to be governed by the Plant Variety Protection Act (7 U.S.C. 2321 et seq.), as in effect on the day before the effective date of this Act.
 
 "(b)
 

@@ -28,7 +28,7 @@ For purposes of this section:
 
 (2) Each grant awarded for general assistance under this subsection for a fiscal year shall be no less than $75,000, and no single grant may be awarded to an Indian tribal government or intertribal consortium for more than 10 percent of the funds appropriated under subsection (h) of this section.
 
-(3) The term of any general assistance award made under this subsection may exceed one year. Any awards made pursuant to this section shall remain available until expended. An Indian tribal government or intertribal consortium may receive a general assistance grant for a period of up to four years in each specific media area.
+(3) The term of any general assistance award made under this subsection may exceed oneyear. Any awards made pursuant to this section shall remain available until expended. An Indian tribal government or intertribal consortium may receive a general assistance grant for a period of up to four years in each specific media area.
 
 #### (e) No reduction in amounts
 
@@ -58,7 +58,7 @@ The Administrator shall transmit an annual report to the appropriate Committees 
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

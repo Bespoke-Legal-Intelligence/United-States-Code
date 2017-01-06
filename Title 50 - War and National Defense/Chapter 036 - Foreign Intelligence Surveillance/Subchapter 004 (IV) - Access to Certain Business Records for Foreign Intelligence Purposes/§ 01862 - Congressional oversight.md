@@ -1,6 +1,6 @@
 ### §1862. Congressional oversight
 
-(a) On an annual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate concerning all requests for the production of tangible things under section 1861 of this title.
+(a) On an annual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence andthe Committee on the Judiciary of the Senate concerning all requests for the production of tangible things under section 1861 of this title.
 
 (b) In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year—
 
@@ -76,7 +76,7 @@
 
 <i>(1) Upon application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application satisfies the requirements of this section.</i>
 
-<i>(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a) of this section.</i>
+<i>(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).</i>
 
 #### <i>(d) Compliance; nondisclosure</i>
 
@@ -90,7 +90,7 @@
 
 #### Codification
 
-Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, §705(a), (c). See 2015 Amendment notes below.
+Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June 2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, §705(a), (c). See 2015 Amendment notes below.
 
 #### Prior Provisions
 

@@ -78,7 +78,7 @@ The purposes of the Management Unit are—
 
 &emsp;&emsp;(ii) in any area located not more than 400 feet from the Cooper Spur Road, the Cloud Cap Road, or the Cooper Spur Ski Area Loop Road; and
 
-&emsp;&emsp;(iii) on any other National Forest System land in the Management Unit, with priority given to activities that restore previously harvested stands, including the removal of logging slash, smaller diameter material, and ladder fuels.
+&emsp;&emsp;(iii) on any other National Forest System land in the Management Unit, with priority given to activities that restore previouslyharvested stands, including the removal of logging slash, smaller diameter material, and ladder fuels.
 
 #### (5) Prohibited activities
 

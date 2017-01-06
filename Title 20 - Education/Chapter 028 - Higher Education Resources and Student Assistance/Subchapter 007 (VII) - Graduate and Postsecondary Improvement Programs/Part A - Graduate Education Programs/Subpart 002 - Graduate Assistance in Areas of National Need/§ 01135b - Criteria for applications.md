@@ -2,7 +2,7 @@
 
 #### (a) Selection of applications
 
-The Secretary shall make grants to academic departments, programs and units of institutions of higher education on the basis of applications submitted in accordance with subsection (b) of this section. Applications shall be ranked on program quality by review panels of nationally recognized scholars and evaluated on the quality and effectiveness of the academic program and the achievement and promise of the students to be served. To the extent possible (consistent with other provisions of this section), the Secretary shall make awards that are consistent with recommendations of the review panels.
+The Secretary shall make grants to academic departments, programs and units of institutions of higher education on the basis of applications submitted in accordance with subsection (b). Applications shall be ranked on program quality by review panels of nationally recognized scholars and evaluated on the quality and effectiveness of the academic program and the achievement and promise of the students to be served. To the extent possible (consistent with other provisions of this section), the Secretary shall make awards that are consistent with recommendations of the review panels.
 
 #### (b) Contents of applications
 
@@ -18,7 +18,7 @@ An academic department, program or unit of an institution of higher education, i
 
 &emsp;(5) set forth policies and procedures to assure that, in making fellowship awards under this subpart, the institution will make awards to individuals who—
 
-&emsp;&emsp;(A) have financial need, as determined under part E of subchapter IV of this chapter;
+&emsp;&emsp;(A) have financial need, as determined under part F of subchapter IV;
 
 &emsp;&emsp;(B) have excellent academic records in their previous programs of study; and
 
@@ -44,7 +44,7 @@ A prior section 1135b, Pub. L. 89–329, title X, §1021, as added Pub. L. 99–
 
 Another prior section 1135b, Pub. L. 89–329, title X, §1051, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 316, authorized appropriations for occupational education programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 
-Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients forimprovement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
+Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients for improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
 
 A prior section 713 of Pub. L. 89–329 was classified to section 1132b–2 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -72,7 +72,7 @@ Section 1135b–5, Pub. L. 89–329, title X, §1056, as added Pub. L. 92–318,
 
 Section 1135b–6, Pub. L. 89–329, title X, §1057, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 319, authorized program grants for State occupational education programs and set forth criteria for State administration of grants.
 
-Section 1135b–7, Pub. L. 89–329, title X, §1058, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 320, set forth prerequisites and procedures for program grants by Commissioner and provided for judicial review of actions of Commissioner.
+Section 1135b–7, Pub. L. 89–329, title X, §1058, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat.320, set forth prerequisites and procedures for program grants by Commissioner and provided for judicial review of actions of Commissioner.
 
 Section 1135b–8, Pub. L. 89–329, title X, §1059, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 321, authorized technical assistance to the States by Commissioner and the establishment of model programs.
 

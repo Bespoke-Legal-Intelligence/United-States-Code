@@ -16,7 +16,7 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 #### (1) In general
 
-&emsp;From funds appropriated under section 1070a–28 of this title for each fiscal year, the Secretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) of this section to enable the entities to carry out the program authorized under subsection (a) of this section.
+&emsp;From funds appropriated under section 1070a–28 of this title for each fiscal year, the Secretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) to enable the entities to carry out the program authorized under subsection (a).
 
 #### (2) Award period
 
@@ -24,7 +24,7 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 &emsp;&emsp;(A) six years; or
 
-&emsp;&emsp;(B) in the case of an eligible entity that applies for a grant under this division for seven years to enable the eligible entity to provide services to a student through the student's first year of attendance at an institution of higher education, seven years.
+&emsp;&emsp;(B) in the case of an eligible entity that applies for a grant under this division for seven years to enable the eligible entity to provide services to a student through thestudent's first year of attendance at an institution of higher education, seven years.
 
 #### (3) Priority
 

@@ -48,7 +48,7 @@ For purposes of this section and section 8737 of this title, the Secretary shall
 
 #### (1) Rice
 
-&emsp;The prevailing world market price for long grain rice and medium grain rice determinedunder subsection (d) shall be adjusted to United States quality and location.
+&emsp;The prevailing world market price for long grain rice and medium grain rice determined under subsection (d) shall be adjusted to United States quality and location.
 
 #### (2) Cotton
 
@@ -115,4 +115,8 @@ The date of enactment of this Act, referred to in subsec. (e)(2)(B), is the date
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

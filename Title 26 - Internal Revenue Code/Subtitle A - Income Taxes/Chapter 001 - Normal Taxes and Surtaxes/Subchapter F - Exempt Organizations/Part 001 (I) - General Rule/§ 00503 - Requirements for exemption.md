@@ -56,7 +56,7 @@ For purposes of subsection (b)(1), a bond, debenture, note, or certificate or ot
 
 #### (f) Loans with respect to which employers are prohibited from pledging certain assets
 
-Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) tothe employer (or to a renewal of such a loan or, if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
+Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) to the employer (or to a renewal of such a loan or, if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
 
 &emsp;(1) the employer is prohibited (at the time of such making or renewal) by any law of the United States or regulation thereunder from directly or indirectly pledging, as security for such a loan, a particular class or classes of his assets the value of which (at such time) represents more than one-half of the value of all his assets;
 
@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 91–172, §101(j)(10), (14), redesignated subsec. (g) as (
 
 Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: "Special rules", substituted "subsection (b)(1)" for "subsection (c)(1)" in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out "acquired by a trust described in section 401(a) or section 501(c)(17)". Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
 
-Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted "Subsection (b)(1)" for "Subsection (c)(1)" and "subsection (e)" for "subsection (h)". Former subsec. (f), defining "gift or bequest", was struck out.
+Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted "Subsection\(b)(1)" for "Subsection (c)(1)" and "subsection (e)" for "subsection (h)". Former subsec. (f), defining "gift or bequest", was struck out.
 
 Subsec. (g). Pub. L. 91–172, §101(j)(13), (14), redesignated subsec. (j) as (g) and substituted "subsection (b)" for "subsection (c)" in par. (1). Former subsec. (g) redesignated (d).
 

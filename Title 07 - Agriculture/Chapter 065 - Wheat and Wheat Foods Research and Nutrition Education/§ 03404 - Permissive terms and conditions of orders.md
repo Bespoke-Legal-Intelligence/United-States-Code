@@ -16,11 +16,15 @@ providing that processors, distributors of processed wheat, and end product manu
 
 #### (d) Assessment exemption
 
-providing for exemption of specified end products, or types or categories thereof, from the assessments required to be paid under section 3405 of this title under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder; and
+providing for exemption of specified end products, or types or categories thereof, from the assessments required to be paid under section 3405of this title under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder; and
 
 #### (e) Miscellaneous terms and conditions
 
 terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
 (Pub. L. 95–113, title XVII, §1705, Sept. 29, 1977, 91 Stat. 1033.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

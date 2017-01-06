@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) the performance accountability measures and other matters for which information is required under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) other appropriate measures of performance outcomes determined by theGovernor for those participants receiving training services under this part (taking into consideration the characteristics of the population served and relevant economic conditions), and the outcomes of the program through which those training services were provided for students in general with respect to employment and earnings as defined under section 3141(b)(2) of this title.
+&emsp;&emsp;&emsp;(ii) other appropriate measures of performance outcomes determined by the Governor for those participants receiving training services under this part (taking into consideration the characteristics of the population served and relevant economic conditions), and the outcomes of the program through which those training services were provided for students in general with respect to employment and earnings as defined under section 3141(b)(2) of this title.
 
 &emsp;&emsp;(B) The need to ensure access to training services throughout the State, including in rural areas, and through the use of technology.
 
@@ -62,7 +62,7 @@
 
 &emsp;The information requirements established by the Governor shall require that a provider of training services submit appropriate, accurate, and timely information to the State, to enable the State to carry out subsection (d), with respect to participants receiving training services under this part in the applicable program, including—
 
-&emsp;&emsp;(A) information on the performance of the provider with respect to the performance accountability measures described in section 3141 of this title for such participants (taking into consideration the characteristics of the population served and relevant economic conditions), and information specifying the percentage of such participants who entered unsubsidized employment in an occupation related to the program, to the extent practicable;
+&emsp;&emsp;(A) information on the performance of the provider with respect to the performance accountability measures described in section 3141 of this title for such participants (taking into consideration the characteristics of the population served and relevant economicconditions), and information specifying the percentage of such participants who entered unsubsidized employment in an occupation related to the program, to the extent practicable;
 
 &emsp;&emsp;(B) information on recognized postsecondary credentials received by such participants;
 
@@ -130,7 +130,7 @@
 
 &emsp;The accompanying information shall—
 
-&emsp;&emsp;(A) with respect to providers described in subparagraphs (A) and (C) of subsection (a)(2), consist of information provided by such providers, disaggregated by local areas served, as applicable, in accordance with subsection (b);
+&emsp;&emsp;(A) with respect to providers described in subparagraphs (A) and (C) of subsection (a)(2), consist of information provided by such providers, disaggregated by local areasserved, as applicable, in accordance with subsection (b);
 
 &emsp;&emsp;(B) with respect to providers described in subsection (b)(4), consist of information provided by such providers in accordance with subsection (b)(4); and
 
@@ -164,7 +164,7 @@ In establishing, under this section, criteria, information requirements, procedu
 
 #### (C) Repayment
 
-&emsp;&emsp;A provider of training services whose eligibility is terminated under subparagraph (A) or (B) shall be liable for the repayment offunds received under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2861 et seq.\], as in effect on the day before July 22, 2014, or subpart 3 of this part during a period of violation described in such subparagraph.
+&emsp;&emsp;A provider of training services whose eligibility is terminated under subparagraph (A) or (B) shall be liable for the repayment of funds received under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2861 et seq.\], as in effect on the day before July 22, 2014, or subpart 3 of this part during a period of violation described in such subparagraph.
 
 #### (2) Construction
 
@@ -192,7 +192,7 @@ The Governor and local boards shall implement the requirements of this section n
 
 #### References in Text
 
-The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.)of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
 

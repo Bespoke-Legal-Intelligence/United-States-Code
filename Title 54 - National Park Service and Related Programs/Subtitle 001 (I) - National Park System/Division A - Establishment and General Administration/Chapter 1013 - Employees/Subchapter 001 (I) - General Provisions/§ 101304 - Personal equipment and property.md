@@ -2,7 +2,7 @@
 
 (a)
 
-Purchase of Personal Equipment and Supplies.—The Secretary may purchase personal equipment and supplies for employees of the Service and make deductions for the equipment and supplies from amounts appropriatedfor salary payments or otherwise due the employees.
+Purchase of Personal Equipment and Supplies.—The Secretary may purchase personal equipment and supplies for employees of the Service and make deductions for the equipment and supplies from amounts appropriated for salary payments or otherwise due the employees.
 
 (b)
 

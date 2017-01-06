@@ -12,7 +12,7 @@ For purposes of this part:
 
 #### (3) Health care provider
 
-&emsp;The term "health care provider" includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section 1395x(s) of this title), and any other person furnishing health care services or supplies.
+&emsp;The term "health care provider" includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section1395x(s) of this title), and any other person furnishing health care services or supplies.
 
 #### (4) Health information
 
@@ -36,9 +36,9 @@ For purposes of this part:
 
 &emsp;&emsp;(C) A health maintenance organization (as defined in section 300gg–91(b) of this title).
 
-&emsp;&emsp;(D) Parts <sup>1</sup> A, B, C, or D of the Medicare program under subchapter XVIII of this chapter.
+&emsp;&emsp;(D) Parts <sup>1</sup> A, B, C, or D of the Medicare program under subchapter XVIII.
 
-&emsp;&emsp;(E) The medicaid program under subchapter XIX of this chapter.
+&emsp;&emsp;(E) The medicaid program under subchapter XIX.
 
 &emsp;&emsp;(F) A Medicare supplemental policy (as defined in section 1395ss(g)(1) of this title).
 
@@ -70,7 +70,7 @@ For purposes of this part:
 
 #### (7) Standard
 
-&emsp;The term "standard", when used with reference to a data element of health informationor a transaction referred to in section 1320d–2(a)(1) of this title, means any such data element or transaction that meets each of the standards and implementation specifications adopted or established by the Secretary with respect to the data element or transaction under sections 1320d–1 through 1320d–3 of this title.
+&emsp;The term "standard", when used with reference to a data element of health information or a transaction referred to in section 1320d–2(a)(1) of this title, means any such data element or transaction that meets each of the standards and implementation specifications adopted or established by the Secretary with respect to the data element or transaction under sections 1320d–1 through 1320d–3 of this title.
 
 #### (8) Standard setting organization
 

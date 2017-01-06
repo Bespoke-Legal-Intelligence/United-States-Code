@@ -76,7 +76,7 @@ Except as provided in subsection (b) and section 2803 of this title, no franchis
 
 &emsp;(C) A failure by the franchisee to operate the marketing premises in a clean, safe, and healthful manner, if the franchisee failed to do so on two or more previous occasions and the franchisor notified the franchisee of such failures.
 
-&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years orlonger), a determination made by the franchisor in good faith and in the normal course of business, if—
+&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—
 
 &emsp;&emsp;(i) such determination is—
 

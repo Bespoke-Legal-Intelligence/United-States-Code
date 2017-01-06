@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;From amounts appropriated under section 7355c of this title for this subpart for a fiscal year that are not reserved under subsection (c) of this section, the Secretary shall award grants (from allotments made under paragraph (2)) for the fiscal year to State educational agencies that have applications submitted under section 7351b of this title approved to enable the State educational agencies to award grants to eligible local educational agencies for local authorized activities described in section 7351a(a) of this title.
+&emsp;From amounts appropriated under section 7355c of this title for this subpart for a fiscal year that are not reserved under subsection (c), the Secretary shall award grants (from allotments made under paragraph (2)) for the fiscal year to State educational agencies that have applications submitted under section 7351b of this title approved to enable the State educational agencies to award grants to eligible local educational agencies for local authorized activities described in section 7351a(a) of this title.
 
 #### (2) Allotment
 
-&emsp;From amounts described in paragraph (1) for a fiscal year, the Secretary shall allot to eachState educational agency for that fiscal year an amount that bears the same ratio to those amounts as the number of students in average daily attendance served by eligible local educational agencies in the State for that fiscal year bears to the number of all such students served by eligible local educational agencies in all States for that fiscal year.
+&emsp;From amounts described in paragraph (1) for a fiscal year, the Secretary shall allot to each State educational agency for that fiscal year an amount that bears the same ratio to those amounts as the number of students in average daily attendance served by eligible local educational agencies in the State for that fiscal year bears to the number of all such students served by eligible local educational agencies in all States for that fiscal year.
 
 #### (3) Specially qualified agencies
 

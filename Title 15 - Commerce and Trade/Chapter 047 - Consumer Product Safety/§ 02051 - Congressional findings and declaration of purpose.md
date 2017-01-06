@@ -36,7 +36,7 @@ In general.—Except as otherwise specifically provided in this Act \[see Short 
 
 "(2)
 
-Certain delayed effective dates.—The amendments made by sections 103(c) \[amending section 2063 of this title\] and 214(a)(2) \[amending section 2064 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act. Subsection (c) of section 42 of the Consumer Product Safety Act \[section 2089(c) of this title\], as added by section 232 of this Act, and the amendments made by sections 216 \[amending sections 2066 and 2068 of this title\] and 223(b) \[amending section 2066 of this title\] shall take effect on the date that is 30 days after the date of enactment of this Act."
+Certain delayed effective dates.—The amendments made by sections 103(c) \[amending section 2063 of this title\] and 214(a)(2) \[amending section 2064 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act. Subsection (c) of section 42 of the Consumer Product Safety Act \[section 2089(c) of this title\], as added by section 232 of this Act, and the amendments made by sections 216 \[amendingsections 2066 and 2068 of this title\] and 223(b) \[amending section 2066 of this title\] shall take effect on the date that is 30 days after the date of enactment of this Act."
 
 #### Effective Date
 
@@ -60,7 +60,7 @@ Pub. L. 101–608, §1, Nov. 16, 1990, 104 Stat. 3110, provided that: "This Act 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title XII, §1201(a), Aug. 13, 1981, 95 Stat. 703, provided that: "This subtitle \[subtitle A\(§§1201–1215) of title XII of Pub. L. 97–35, enacting sections 1204, 1276, 2077, and 2083 of this title, amending sections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under section 2052 of this title\] may be cited as the 'Consumer Product Safety Amendments of 1981'."
+Pub. L. 97–35, title XII, §1201(a), Aug. 13, 1981, 95 Stat. 703, provided that: "This subtitle \[subtitle A (§§1201–1215) of title XII of Pub. L. 97–35, enacting sections 1204, 1276, 2077, and 2083 of this title, amending sections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under section 2052 of this title\] may be cited as the 'Consumer Product Safety Amendments of 1981'."
 
 #### Short Title of 1978 Amendment
 
@@ -104,7 +104,7 @@ Pub. L. 110–314, §2(a), Aug. 14, 2008, 122 Stat. 3017, provided that:
 
 Defined Terms.—As used in this Act \[see Short Title of 2008 Amendment note above\]—
 
-&emsp;"(1) the term 'appropriate Congressional committees' means the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate; and
+&emsp;"(1) the term 'appropriate Congressional committees' means the Committee on Energy and Commerce of the House of Representatives and the Committeeon Commerce, Science, and Transportation of the Senate; and
 
 &emsp;"(2) the term 'Commission' means the Consumer Product Safety Commission."
 

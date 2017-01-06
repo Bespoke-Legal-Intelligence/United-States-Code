@@ -46,7 +46,7 @@ The Administrator shall issue allowances to owners or operators of small diesel 
 
 &emsp;&emsp;(A) which, as of November 15, 1990, has bona fide crude oil throughput of less than 18,250,000 barrels per year, as reported to the Department of Energy, and
 
-&emsp;&emsp;(B) which, as of November 15, 1990, is owned or controlled by a refiner with a totalcombined bona fide crude oil throughput of less than 50,187,500 barrels per year, as reported to the Department of Energy.
+&emsp;&emsp;(B) which, as of November 15, 1990, is owned or controlled by a refiner with a total combined bona fide crude oil throughput of less than 50,187,500 barrels per year, as reported to the Department of Energy.
 
 #### (4) Limitation per refinery
 

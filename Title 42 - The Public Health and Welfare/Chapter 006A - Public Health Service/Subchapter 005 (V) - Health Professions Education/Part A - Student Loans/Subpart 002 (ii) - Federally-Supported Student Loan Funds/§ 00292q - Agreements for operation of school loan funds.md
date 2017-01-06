@@ -60,7 +60,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;(C) The term "grace period" means the period of one year beginning on the date on which the borrower ceases to pursue a full-time course of study at a school of medicine, osteopathic medicine, dentistry, pharmacy, podiatric medicine, optometry, or veterinary medicine; and
 
-&emsp;&emsp;(D) The term "matured loans" means the total principal amount of all loans made by a school under this subpart minus the totalprincipal amount of loans made by such school to students who are—
+&emsp;&emsp;(D) The term "matured loans" means the total principal amount of all loans made by a school under this subpart minus the total principal amount of loans made by such school to students who are—
 
 &emsp;&emsp;&emsp;(i) enrolled in a full-time course of study at such school; or
 

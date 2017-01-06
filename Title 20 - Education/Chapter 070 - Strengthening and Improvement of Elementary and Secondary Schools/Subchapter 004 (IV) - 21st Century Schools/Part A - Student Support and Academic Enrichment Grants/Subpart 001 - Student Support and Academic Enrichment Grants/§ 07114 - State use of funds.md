@@ -34,7 +34,7 @@ Each State that receives an allotment under section 7113 of this title shall use
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) postsecondary level courses accepted for credit at institutions of higher education, including dual or concurrent enrollment programs, and early college high schools; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placementand International Baccalaureate programs;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placement and International Baccalaureate programs;
 
 &emsp;&emsp;&emsp;&emsp;(V) American history, civics, economics, geography, social studies, or government education;
 
@@ -72,7 +72,7 @@ Each State that receives an allotment under section 7113 of this title shall use
 
 &emsp;&emsp;&emsp;(iii) developing or using strategies that are innovative or evidence-based (to the extent the State determines that such evidence is reasonably available) for the delivery of specialized or rigorous academic courses and curricula through the use of technology, including digital learning technologies and assistive technology, which may include increased access to online dual or concurrent enrollment opportunities, career and technical courses, and programs leading to a recognized postsecondary credential (as defined in section 3102 of title 29);
 
-&emsp;&emsp;&emsp;(iv) disseminating promising practices related to technology instruction, data security, and the acquisition and implementation of technology tools and applications, including through making such promising practices publicly available on the website of the State educational agency;
+&emsp;&emsp;&emsp;(iv) disseminating promising practices related to technology instruction, data security, and the acquisition and implementation of technology tools and applications, including through making suchpromising practices publicly available on the website of the State educational agency;
 
 &emsp;&emsp;&emsp;(v) providing teachers, paraprofessionals, school librarians and media personnel, specialized instructional support personnel, and administrators with the knowledge and skills to use technology effectively, including effective integration of technology, to improve instruction and student achievement, which may include coordination with teacher, principal, and other school leader preparation programs; and
 

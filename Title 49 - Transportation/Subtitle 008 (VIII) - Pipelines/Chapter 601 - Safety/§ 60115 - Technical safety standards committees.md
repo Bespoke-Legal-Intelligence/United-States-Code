@@ -8,7 +8,7 @@ Organization.—The Technical Pipeline Safety Standards Committee and the Techni
 
 Composition and Appointment.—(1) The Technical Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary of Transportation after consulting with public and private agencies concerned with the technical aspect of transporting gas or operating a gas pipeline facility. Each member must be experienced in the safety regulation of transporting gas and of gas pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting gas or operating a gas pipeline facility, to evaluate gas pipeline safety standards or risk management principles.
 
-(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
+(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
 
 (3) The members of each committee are appointed as follows:
 
@@ -18,7 +18,7 @@ Composition and Appointment.—(1) The Technical Pipeline Safety Standards Commi
 
 &emsp;(C) 5 individuals selected from the general public.
 
-(4)(A) Two of the individuals selected for each committee under paragraph (3)(A) of this subsection must be State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals.
+(4)(A) Two of the individuals selected for each committee under paragraph (3)(A) of this subsection must be State officials. The Secretary shall consult with national organizations representing State commissioners or utility regulators before making a selection under this subparagraph.
 
 (B) At least 3 of the individuals selected for each committee under paragraph (3)(B) of this subsection must be currently in the active operation of natural gas pipelines or hazardous liquid pipeline facilities, as appropriate. At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with the national organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B).
 
@@ -26,13 +26,15 @@ Composition and Appointment.—(1) The Technical Pipeline Safety Standards Commi
 
 (D) None of the individuals selected for a committee under paragraph (3)(C) may have a significant financial interest in the pipeline, petroleum, or gas industry.
 
+(5) Within 90 days of the date of enactment of the PIPES Act of 2016, the Secretary shall fill all vacancies on the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, and any other committee established pursuant to this section. After that period, the Secretary shall fill a vacancy on any such committee not later than 60 days after the vacancy occurs.
+
 (c)
 
 Committee Reports on Proposed Standards.—(1) The Secretary shall give to—
 
 &emsp;(A) the Technical Pipeline Safety Standards Committee each standard proposed under this chapter for transporting gas and for gas pipeline facilities including the risk assessment information and other analyses supporting each proposed standard; and
 
-&emsp;(B) the Technical Hazardous Liquid Pipeline Safety Standards Committee each standard proposed under this chapter for transportinghazardous liquid and for hazardous liquid pipeline facilities including the risk assessment information and other analyses supporting each proposed standard.
+&emsp;(B) the Technical Hazardous Liquid Pipeline Safety Standards Committee each standard proposed under this chapter for transporting hazardous liquid and for hazardous liquid pipeline facilities including the risk assessment information and other analyses supporting each proposed standard.
 
 (2) Not later than 90 days after receiving the proposed standard and supporting analyses, the appropriate committee shall prepare and submit to the Secretary a report on the technical feasibility, reasonableness, cost-effectiveness, and practicability of the proposed standard and include in the report recommended actions. The Secretary shall publish each report, including any recommended actions and minority views. The report if timely made is part of the proceeding for prescribing the standard. The Secretary is not bound by the conclusions of the committee. However, if the Secretary rejects the conclusions of the committee, the Secretary shall publish the reasons.
 
@@ -52,7 +54,7 @@ Meetings.—Each committee shall meet with the Secretary at least up to 4 times 
 
 Expenses.—A member of a committee under this section is entitled to expenses under section 5703 of title 5. A payment under this subsection does not make a member an officer or employee of the Government. This subsection does not apply to members regularly employed by the Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1319; Pub. L. 104–88, title III, §308(m), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–304, §10, Oct. 12, 1996, 110 Stat. 3801; Pub. L. 107–355, §20(b), Dec. 17, 2002, 116 Stat. 3010.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1319; Pub. L. 104–88, title III, §308(m), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–304, §10, Oct. 12, 1996, 110 Stat. 3801; Pub. L. 107–355, §20(b), Dec. 17, 2002, 116 Stat. 3010; Pub. L. 114–183, §6, June 22, 2016, 130 Stat. 518.)
 
 Historical and Revision Notes
 
@@ -164,13 +166,19 @@ In subsection (d), the words "for his consideration" are omitted as surplus.
 
 In subsection (e), the words "(or his designee)" are omitted as surplus because of 49:322(b). The words "at least" are substituted for "not less frequently than" to eliminate unnecessary words. The word "calendar" is omitted as surplus.
 
-In subsection (f), the words "The Secretary may establish the pay" are substituted for "may be compensated at a rate to be fixed by the Secretary" for consistency and to eliminate unnecessary words. The words "of the Committee" after "Members", "actual", and "then currently" are omitted as surplus. The reference to section 5376 of title 5 is substituted for thereference to section 5332 of title 5 because of section 529 of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442). The words "A member is entitled to expenses under section 5703 of title 5" are substituted for 49 App.:1673(c) (2d sentence) and 2003(c) (2d sentence) to eliminate unnecessary words. The words "for any purpose" are omitted as surplus. The words "This subsection does not apply to members regularly employed by the Government" are substituted for "other than Federal employees" for clarity.
+In subsection (f), the words "The Secretary may establish the pay" are substituted for "may be compensated at a rate to be fixed by the Secretary" for consistency and to eliminate unnecessary words. The words "of the Committee" after "Members", "actual", and "then currently" are omitted as surplus. The reference to section 5376 of title 5 is substituted for the reference to section 5332 of title 5 because of section 529 of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442). The words "A member is entitled to expenses under section 5703 of title 5" are substituted for 49 App.:1673(c) (2d sentence) and 2003(c) (2d sentence) to eliminate unnecessary words. The words "for any purpose" are omitted as surplus. The words "This subsection does not apply to members regularly employed by the Government" are substituted for "other than Federal employees" for clarity.
 
 #### References in Text
 
 The date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996, referred to in subsec. (a), is the date of enactment of Pub. L. 104–304, which was approved Oct. 12, 1996.
 
+The date of enactment of the PIPES Act of 2016, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(4)(A). Pub. L. 114–183, §6(a), substituted "State officials. The Secretary shall consult with national organizations representing State commissioners or utility regulators before making a selection under this subparagraph." for "State commissioners. The Secretary shall consult with the national organization of State commissions before selecting those 2 individuals."
+
+Subsec. (b)(5). Pub. L. 114–183, §6(b), added par. (5).
 
 <b>2002</b>—Subsec. (b)(4)(D). Pub. L. 107–355 added subpar. (D).
 

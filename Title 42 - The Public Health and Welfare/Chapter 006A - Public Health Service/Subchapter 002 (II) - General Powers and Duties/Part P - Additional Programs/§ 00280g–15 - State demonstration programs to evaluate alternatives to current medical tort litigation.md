@@ -100,11 +100,11 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (C) Chairperson
 
-&emsp;&emsp;The Comptroller General, or an individual within the Government Accountability Office designated by the Comptroller General, shall be the chairperson of the review panel.
+&emsp;&emsp;The Comptroller General shall designate a member of the review panel to be the chairperson of the review panel.
 
 #### (D) Availability of information
 
-&emsp;&emsp;The Comptroller General shall make available to the review panel such information, personnel, and administrative services and assistance as the review panel may reasonably require to carry out its duties.
+&emsp;&emsp;The Secretary shall make available to the review panel such information, personnel, and administrative services and assistance as the review panel may reasonably require to carry out its duties.
 
 #### (E) Information from agencies
 
@@ -118,7 +118,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (2) By Secretary
 
-&emsp;The Secretary shall submit to Congress an annual compendium of the reports submittedunder paragraph (1) and an analysis of the activities funded under subsection (a) that examines any differences that result from such activities in terms of the quality of care, number and nature of medical errors, medical resources used, length of time for dispute resolution, and the availability and price of liability insurance.
+&emsp;The Secretary shall submit to Congress an annual compendium of the reports submitted under paragraph (1) and an analysis of the activities funded under subsection (a) that examines any differences that result from such activities in terms of the quality of care, number and nature of medical errors, medical resources used, length of time for dispute resolution, and the availability and price of liability insurance.
 
 #### (f) Technical assistance
 
@@ -200,7 +200,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (3) Reports
 
-&emsp;Not later than December 31, 2016, the Medicare Payment Advisory Commission and theMedicaid and CHIP Payment and Access Commission shall each submit to Congress a report that includes the findings and recommendations of each respective Commission based on independent reviews conducted under paragraphs (1) and (2), including an analysis of the impact of the alternatives reviewed on the efficiency and effectiveness of the respective programs.
+&emsp;Not later than December 31, 2016, the Medicare Payment Advisory Commission and the Medicaid and CHIP Payment and Access Commission shall each submit to Congress a report that includes the findings and recommendations of each respective Commission based on independent reviews conducted under paragraphs (1) and (2), including an analysis of the impact of the alternatives reviewed on the efficiency and effectiveness of the respective programs.
 
 #### (i) Option to provide for initial planning grants
 
@@ -242,11 +242,17 @@ Nothing in this section shall be construed to limit any prior, current, or futur
 
 Nothing in this section shall be construed as limiting states' <sup>1</sup> authority over or responsibility for their state <sup>1</sup> justice systems.
 
-(July 1, 1944, ch. 373, title III, §399V–4, as added Pub. L. 111–148, title X, §10607, Mar. 23, 2010, 124 Stat. 1009.)
+(July 1, 1944, ch. 373, title III, §399V–4, as added Pub. L. 111–148, title X, §10607, Mar. 23, 2010, 124 Stat. 1009; amended Pub. L. 114–301, §3(d), Dec. 16, 2016, 130 Stat. 1515.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (h)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (d)(2)(C). Pub. L. 114–301, §3(d)(1), substituted "shall designate a member of the review panel to" for ", or an individual within the Government Accountability Office designated by the Comptroller General, shall".
+
+Subsec. (d)(2)(D). Pub. L. 114–301, §3(d)(2), substituted "Secretary" for "Comptroller General".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

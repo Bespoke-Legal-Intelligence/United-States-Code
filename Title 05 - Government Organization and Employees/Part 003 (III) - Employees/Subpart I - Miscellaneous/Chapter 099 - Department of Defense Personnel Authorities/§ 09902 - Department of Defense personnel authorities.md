@@ -38,7 +38,7 @@ Performance Management and Workforce Incentives.—(1) The Secretary, in coordin
 
 (b)
 
-Flexibilities Relating to Appointments.—(1) The Secretary, in coordination withthe Director, shall promulgate regulations to redesign the procedures which are applied by the Department of Defense in making appointments to positions within the competitive service in order to—
+Flexibilities Relating to Appointments.—(1) The Secretary, in coordination with the Director, shall promulgate regulations to redesign the procedures which are applied by the Department of Defense in making appointments to positions within the competitive service in order to—
 
 &emsp;(A) better meet mission needs;
 
@@ -66,7 +66,7 @@ Flexibilities Relating to Appointments.—(1) The Secretary, in coordination wit
 
 (B) Any rules or regulations promulgated pursuant to this section shall be deemed an agency rule or regulation under section 7117(a)(2), and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1).
 
-(5) The Secretary shall develop a training program for Department of Defense human resource professionals to implement the requirements of this subsection.
+(5) The Secretary shall develop a training program for Department of Defense human resourceprofessionals to implement the requirements of this subsection.
 
 (6) The Secretary shall develop indicators of effectiveness to determine whether appointment flexibilities under this subsection have achieved the objectives set forth in paragraph (1).
 
@@ -92,7 +92,7 @@ Criteria for Use of New Personnel Authorities.—In establishing any new perform
 
 &emsp;(7) develop appropriate procedures for warnings during performance evaluations for employees who fail to meet performance standards;
 
-&emsp;(8) utilize the annual strategic workforce plan, required by section 115b of title 10; and
+&emsp;(8) utilize the annual strategic workforce plan, required by section 115b <sup>1</sup> of title 10; and
 
 &emsp;(9) ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
 
@@ -146,7 +146,7 @@ Provisions Regarding National Level Bargaining.—
 
 &emsp;&emsp;(D) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, not be subject to further negotiations for any purpose, including bargaining at the level of recognition.
 
-&emsp;(3) Any independent dispute resolution process agreed to by the parties for the purposes of paragraph (2) shall have the authority to address all issues on which the parties are unable to reach agreement.
+&emsp;(3) Any independent dispute resolution process agreed to by the parties for the purposes ofparagraph (2) shall have the authority to address all issues on which the parties are unable to reach agreement.
 
 &emsp;(4) The National Guard Bureau and the Army and Air Force National Guard may be included in coverage under this subsection.
 
@@ -180,13 +180,13 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;&emsp;(ii) $25,000.
 
-&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in thecomputation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
+&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
 
 &emsp;(C) Separation pay, if paid in installments, shall cease to be paid upon the recipient's acceptance of employment by the Federal Government, or commencement of work under a personal services contract as described in paragraph (6).
 
 &emsp;(6)(A) An employee who receives separation pay under such program may not be reemployed by the Department of Defense for a 12-month period beginning on the effective date of the employee's separation, unless this prohibition is waived by the Secretary on a case-by-case basis.
 
-&emsp;(B) An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 111) and accepts employment with the Government of the United States, or who commences work through a personal services contract with the United States within 5 years after the date of the separation on which payment of the separation pay is based, shall be required to repay the entire amount of the separation pay to the Department of Defense. If the employment is with an Executive agency (as defined by section 105) other than the Department of Defense, the Director may, at the request of the head of that agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is within the Department of Defense, the Secretary may waive the repayment if the individual involved is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+&emsp;(B) An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 111) and accepts employment with the Government of the United States, or who commences work through a personal services contract with the United States within 5 years after the date of the separation on which payment of the separation pay is based, shall be required to repay the entire amount of the separation pay to the Department of Defense. If the employment is with an Executive agency (as defined by section 105) other than the Department of Defense, the Director may, at the request of the head of that agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is within the Department of Defense, the Secretary may waive the repayment if the individual involved is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant availablefor the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 &emsp;(7) Under this program, early retirement and separation pay may be offered only pursuant to regulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
 
@@ -230,7 +230,7 @@ Review.—After receiving any report under paragraph (1), the Comptroller Genera
 
 &emsp;&emsp;(A) shall review the assessments or surveys described in such report to determine if they were appropriately designed and statistically valid;
 
-&emsp;&emsp;(B) shall conduct a review of the extent to which the program, system, procedures, orother aspect of program management concerned (as described in paragraph (1)(A)) is fair, credible, transparent, and otherwise in conformance with the requirements of this section; and
+&emsp;&emsp;(B) shall conduct a review of the extent to which the program, system, procedures, or other aspect of program management concerned (as described in paragraph (1)(A)) is fair, credible, transparent, and otherwise in conformance with the requirements of this section; and
 
 &emsp;&emsp;(C) within 6 months after receiving such report, shall submit to the appropriate committees of Congress—
 
@@ -254,7 +254,9 @@ Definition.—For purposes of this subsection, the term "appropriate committees 
 
 #### References in Text
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)(2)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+Section 115b of title 10, referred to in subsec. (c)(8), was repealed by Pub. L. 114–328, div. A, title XI, §1102(a), Dec. 23, 2016, 130 Stat. 2444.
+
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)(2)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 ofTitle 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (f)(6)(B), is the date of enactment of Pub. L. 103–226, which was approved Mar. 30, 1994.
 
@@ -302,6 +304,10 @@ Pub. L. 111–383, div. A, title XI, §1101(d), Jan. 7, 2011, 124 Stat. 4382, pr
 
 Pub. L. 111–383, §1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: "Any reference in this or any other Act to the 'National Defense Authorization Act for Fiscal Year 2011' shall be deemed to refer to the 'Ike Skelton National Defense Authorization Act for Fiscal Year 2011'."
 
+#### Temporary Increase in Maximum Amount of Voluntary Separation Incentive Pay Authorized for Civilian Employees of the Department of Defense
+
+Pub. L. 114–328, div. A, title XI, §1107, Dec. 23, 2016, 130 Stat. 2448, provided that: "During the period beginning on the date of enactment of this Act \[Dec. 23, 2016\] and ending on September 30, 2018, section 9902(f)(5)(A)(ii) of title 5, United States Code, shall be applied by substituting 'an amount determined by the Secretary, not to exceed $40,000' for '$25,000'."
+
 #### Reports on Performance Management System and Appointment Procedures
 
 Pub. L. 112–81, div. A, title XI, §1102(b), Dec. 31, 2011, 125 Stat. 1611, provided that:
@@ -332,7 +338,7 @@ Pub. L. 112–81, div. A, title XI, §1102(b), Dec. 31, 2011, 125 Stat. 1611, pr
 
 #### Provisions Relating to the National Security Personnel System
 
-Pub. L. 111–84, div. A, title XI, §1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(17), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title XI, §1102(c)(2), Dec. 31, 2011, 125 Stat. 1612, provided that:
+Pub. L. 111–84, div. A, title XI, §1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, as amended by Pub. L. 111–383,div. A, title X, §1075(d)(17), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title XI, §1102(c)(2), Dec. 31, 2011, 125 Stat. 1612, provided that:
 
 "(a)
 
@@ -503,4 +509,6 @@ Authorities Under Pilot Program.—Under the pilot program, the Secretary of Def
 "(c)
 
 Duration of Pilot Program.—The Secretary of Defense may carry out the pilot program under this section at each selected regional civilian personnel center for a period of two years beginning not later than March 1, 2004."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

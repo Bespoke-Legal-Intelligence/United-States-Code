@@ -6,11 +6,11 @@
 
 (2) Except in such cases or classes of cases as are set forth in regulations of the Secretary, provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
 
-(3) The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement, as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
+(3) The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement,as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
 
 #### (b) Plans and arrangements for assistance; consultations
 
-The Secretary is authorized to develop plans and make arrangements for provision of temporary assistance within the United States to individuals specified in subsection (a)(1) of this section. Such plans shall be developed and such arrangements shall be made after consultation with the Secretary of State, the Attorney General, and the Secretary of Defense. To the extent feasible, assistance provided under subsection (a) of this section shall be provided in accordance with the plans developed pursuant to this subsection, as modified from time to time by the Secretary.
+The Secretary is authorized to develop plans and make arrangements for provision of temporary assistance within the United States to individuals specified in subsection (a)(1). Such plans shall be developed and such arrangements shall be made after consultation with the Secretary of State, the Attorney General, and the Secretary of Defense. To the extent feasible, assistance provided under subsection (a) shall be provided in accordance with the plans developed pursuant to this subsection, as modified from time to time by the Secretary.
 
 #### (c) "Temporary assistance" defined
 

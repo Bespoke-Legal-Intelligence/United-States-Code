@@ -14,7 +14,7 @@ The President is authorized to promote bilateral and multilateral nonproliferati
 
 &emsp;(3) by establishing programs for safeguarding against the proliferation of nuclear, biological, chemical, and other weapons of the independent states of the former Soviet Union;
 
-&emsp;(4) by establishing programs for preventing diversion of weapons-related scientific andtechnical expertise of the independent states to terrorist groups or to third countries;
+&emsp;(4) by establishing programs for preventing diversion of weapons-related scientific and technical expertise of the independent states to terrorist groups or to third countries;
 
 &emsp;(5) by establishing science and technology centers in the independent states for the purpose of engaging weapons scientists and engineers of the independent states (in particular those who were previously involved in the design and production of nuclear, biological, and chemical weapons) in productive, nonmilitary undertakings; and
 

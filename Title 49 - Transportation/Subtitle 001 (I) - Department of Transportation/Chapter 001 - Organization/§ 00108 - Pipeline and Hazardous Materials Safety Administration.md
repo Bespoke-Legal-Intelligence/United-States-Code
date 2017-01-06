@@ -106,7 +106,7 @@ Suits by or against department.—Any suit by or against the Department begun be
 
 &emsp;"(3)
 
-Procedures for remanded cases.—If the court in a suit described in paragraph (1) remands a case, subsequent proceedings related to such case shall proceed under procedures that are in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
+Procedures for remanded cases.—If the court in a suit described in paragraph (1) remands a case,subsequent proceedings related to such case shall proceed under procedures that are in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
 
 "(e)
 
@@ -114,7 +114,7 @@ Continuance of Actions Against Officers.—No suit, action, or other proceeding 
 
 "(f)
 
-Exercise of Authorities.—An officer or employee of the Department, for purposes of performing a function transferred by this Act, may exercise all authorities under any other provision of law that wereavailable with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function by this Act.
+Exercise of Authorities.—An officer or employee of the Department, for purposes of performing a function transferred by this Act, may exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function by this Act.
 
 "(g)
 
@@ -123,6 +123,28 @@ References.—A reference relating to an agency, officer, or employee affected b
 "(h)
 
 Definition.—In this section, the term 'this Act' includes the amendments made by this Act."
+
+#### Workforce Management
+
+Pub. L. 114–183, §9, June 22, 2016, 130 Stat. 520, provided that:
+
+"(a)
+
+Review.—Not later than 1 year after the date of the enactment of this Act \[June 22, 2016\], the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a review of Pipeline and Hazardous Materials Safety Administration staff resource management, including—
+
+&emsp;"(1) geographic allocation plans, hiring and time-to-hire challenges, and expected retirement rates and recruitment and retention strategies;
+
+&emsp;"(2) an identification and description of any previous periods of macroeconomic and pipeline industry conditions under which the Pipeline and Hazardous Materials Safety Administration has encountered difficulty in filling vacancies, and the degree to which special hiring authorities, including direct hiring authority authorized by the Office of Personnel Management, could have ameliorated such difficulty; and
+
+&emsp;"(3) recommendations to address hiring challenges, training needs, and any other identified staff resource challenges.
+
+"(b)
+
+Direct Hiring.—Upon identification of a period described in subsection (a)(2), the Administrator of the Pipeline and Hazardous Materials Safety Administration may apply to the Office of Personnel Management for the authority to appoint qualified candidates to any position relating to pipeline safety, as determined by the Administrator, without regard to sections 3309 through 3319 of title 5, United States Code.
+
+"(c)
+
+Savings Clause.—Nothing in this section shall preclude the Administrator of the Pipeline and Hazardous Materials Safety Administration from applying to the Office of Personnel Management for the authority described in subsection (b) prior to the completion of the report required under subsection (a)."
 
 #### Transfer of Duties and Powers of Research and Special Programs Administration
 

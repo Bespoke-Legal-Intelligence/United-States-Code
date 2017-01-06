@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, §1201(e)(4), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–34, title IX, §§951(b), 952(b), Aug. 5, 1997, 111 Stat. 885, 887; Pub. L. 106–554, §1(a)(7) \[title I, §113(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-601.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, §1201(e)(4), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–34, title IX, §§951(b), 952(b), Aug. 5, 1997, 111 Stat. 885, 887; Pub. L. 106–554, §1(a)(7) \[title I, §113(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Subsec. (e). Pub. L. 105–34, §952(b), added subsec. (e).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §113(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-601, provided that: "The amendments made by this section \[amending this section and section 1400 of this title\] shall apply to wages paid or incurred after December 31, 2001."
+Pub. L. 106–554, §1(a)(7) \[title I, §113(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: "The amendments made by this section \[amending this section and section 1400 of this title\] shall apply to wages paid or incurred after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 

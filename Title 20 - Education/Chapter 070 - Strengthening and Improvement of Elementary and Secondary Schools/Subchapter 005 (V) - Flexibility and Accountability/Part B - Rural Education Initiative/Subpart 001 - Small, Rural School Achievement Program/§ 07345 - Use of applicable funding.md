@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, an eligible local educational agency may use the applicable funding that the agency is eligible to receive from the State educational agency for a fiscal year to carry out local activities authorized under any of the following provisions:
+&emsp;Notwithstanding any other provision of law, an eligible local educational agency may usethe applicable funding that the agency is eligible to receive from the State educational agency for a fiscal year to carry out local activities authorized under any of the following provisions:
 
 &emsp;&emsp;(A) Part A of subchapter I.
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;A local educational agency shall be eligible to use the applicable funding in accordance with subsection (a) of this section if—
+&emsp;A local educational agency shall be eligible to use the applicable funding in accordance with subsection (a) if—
 
 &emsp;&emsp;(A)(i)(I) the total number of students in average daily attendance at all of the schools served by the local educational agency is fewer than 600; or
 
@@ -52,7 +52,7 @@ Each State educational agency that receives applicable funding for a fiscal year
 
 #### (e) Applicable rules
 
-Applicable funding under this section shall be available to carry out local activities authorized under subsection (a) of this section.
+Applicable funding under this section shall be available to carry out local activities authorized under subsection (a).
 
 (Pub. L. 89–10, title V, §5211, formerly title VI, §6211, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1891; renumbered title V, §5211, and amended Pub. L. 114–95, title V, §§5001(a)(3), 5003(1), Dec. 10, 2015, 129 Stat. 2039–2041.)
 

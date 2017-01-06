@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The National Institutes of Health shall be headed by the Director of NIH who shall be appointed by the President by and with the advice and consent of the Senate. The Director of NIH shall perform functions as provided under subsection (b) of this section and as the Secretary may otherwise prescribe.
+The National Institutes of Health shall be headed by the Director of NIH who shall be appointed by the President by and with the advice and consent of the Senate. The Director of NIH shall perform functions as provided under subsection (b) and as the Secretary may otherwise prescribe.
 
 #### (b) Duties and authority
 
@@ -14,9 +14,27 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(3) shall, in consultation with the heads of the national research institutes and national centers, be responsible for program coordination across the national research institutes and national centers, including conducting priority-setting reviews, to ensure that the research portfolio of the National Institutes of Health is balanced and free of unnecessary duplication, and takes advantage of collaborative, cross-cutting research;
 
-&emsp;(4) shall assemble accurate data to be used to assess research priorities, including information to better evaluate scientific opportunity, public health burdens, and progress in reducing minority and other health disparities;
+&emsp;(4) shall assemble accurate data to be used to assess research priorities, including—
 
-&emsp;(5) shall ensure that scientifically based strategic planning is implemented in support of research priorities as determined by the agencies of the National Institutes of Health;
+&emsp;&emsp;(A) information to better evaluate scientific opportunity, public health burdens, and progress in reducing health disparities; and
+
+&emsp;&emsp;(B) data on study populations of clinical research, funded by or conducted at each national research institute and national center, which—
+
+&emsp;&emsp;&emsp;(i) specifies the inclusion of—
+
+&emsp;&emsp;&emsp;&emsp;(I) women;
+
+&emsp;&emsp;&emsp;&emsp;(II) members of minority groups;
+
+&emsp;&emsp;&emsp;&emsp;(III) relevant age categories, including pediatric subgroups; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) other demographic variables as the Director of the National Institutes of Health determines appropriate;
+
+&emsp;&emsp;&emsp;(ii) is disaggregated by research area, condition, and disease categories; and
+
+&emsp;&emsp;&emsp;(iii) is to be made publicly available on the Internet website of the National Institutes of Health;
+
+&emsp;(5) shall ensure that scientifically based strategic planning is implemented in support of research priorities as determined by the agencies of the National Institutes of Health, and through the development, implementation, and updating of the strategic plan developed under subsection (m);
 
 &emsp;(6) shall ensure that the resources of the National Institutes of Health are sufficiently allocated for research projects identified in strategic plans;
 
@@ -34,7 +52,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;&emsp;&emsp;(III) ensure appropriate consideration of proposals for which the principal investigator is an individual who has not previously served as the principal investigator of research conducted or supported by the National Institutes of Health;
 
-&emsp;(B)(i) may, with respect to funds reserved under section 282a(c)(1) of this title for theCommon Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
+&emsp;(B)(i) may, with respect to funds reserved under section 282a(c)(1) of this title for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
 
 &emsp;(ii) shall, with respect to funds appropriated to the Common Fund pursuant to section 282a(a)(2) of this title, allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
 
@@ -42,9 +60,21 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(8) shall, in coordination with the heads of the national research institutes and national centers, ensure that such institutes and centers—
 
-&emsp;&emsp;(A) preserve an emphasis on investigator-initiated research project grants, including with respect to research involving collaboration between 2 or more such institutes or centers; and
+&emsp;&emsp;(A) preserve an emphasis on investigator-initiated research project grants, including with respect to research involving collaboration between 2 or more such institutes or centers;
 
 &emsp;&emsp;(B) when appropriate, maximize investigator-initiated research project grants in their annual research portfolios;
+
+&emsp;&emsp;(C) foster collaboration between clinical research projects funded by the respective national research institutes and national centers that—
+
+&emsp;&emsp;&emsp;(i) conduct research involving human subjects; and
+
+&emsp;&emsp;&emsp;(ii) collect similar data; and
+
+&emsp;&emsp;(D) encourage the collaboration described in subparagraph (C) to—
+
+&emsp;&emsp;&emsp;(i) allow for an increase in the number of subjects studied; and
+
+&emsp;&emsp;&emsp;(ii) utilize diverse study populations, with special consideration to biological, social, and other determinants of health that contribute to health disparities;
 
 &emsp;(9) shall ensure that research conducted or supported by the National Institutes of Health is subject to review in accordance with section 289a of this title and that, after such review, the research is reviewed in accordance with section 289a–1(a)(2) of this title by the appropriate advisory council under section 284a of this title before the research proposals are approved for funding;
 
@@ -84,15 +114,21 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(22) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38;
 
-&emsp;(23) shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development; and
+&emsp;(23) shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development;
 
-&emsp;(24) implement the Cures Acceleration Network described in section 287a of this title.
+&emsp;(24) implement the Cures Acceleration Network described in section 287a of this title; and
+
+&emsp;(25) may require recipients of National Institutes of Health awards to share scientific data, to the extent feasible, generated from such National Institutes of Health awards in a manner that is consistent with all applicable Federal laws and regulations, including such laws and regulations for the protection of—
+
+&emsp;&emsp;(A) human research participants, including with respect to privacy, security, informed consent, and protected health information; and
+
+&emsp;&emsp;(B) proprietary interests, confidential commercial information, and the intellectual property rights of the funding recipient.
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (16). The members of such a group shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of such group. Not more than one-fourth of the members of any such group shall be officers or employees of the United States.
 
 #### (c) Availability of substances and organisms for research
 
-The Director of NIH may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be madeavailable under such terms and conditions (including payment for them) as the Secretary determines appropriate.
+The Director of NIH may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 
 #### (d) Services of experts or consultants; number; payment of expenses, conditions, recovery
 
@@ -140,11 +176,11 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 (3) The data bank shall include the following:
 
-&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial totest effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
+&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
 
 &emsp;(B) Information pertaining to experimental treatments for serious or life-threatening diseases and conditions that may be available—
 
-&emsp;&emsp;(i) under a treatment investigational new drug application that has been submitted to the Secretary under section 360bbb(c) of title 21; or
+&emsp;&emsp;(i) under a treatment investigational new drug application that has been submitted tothe Secretary under section 360bbb(c) of title 21; or
 
 &emsp;&emsp;(ii) as a Group C cancer drug (as defined by the National Cancer Institute).
 
@@ -218,7 +254,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;(I) the sponsor of the clinical trial (as defined in section 50.3 of title 21, Code of Federal Regulations (or any successor regulation)); or
 
-&emsp;&emsp;&emsp;&emsp;(II) the principal investigator of such clinical trial if so designated by a sponsor, grantee, contractor, or awardee, so long as the principal investigator is responsible for conducting the trial, has access to and control over the data fromthe clinical trial, has the right to publish the results of the trial, and has the ability to meet all of the requirements under this subsection for the submission of clinical trial information.
+&emsp;&emsp;&emsp;&emsp;(II) the principal investigator of such clinical trial if so designated by a sponsor, grantee, contractor, or awardee, so long as the principal investigator is responsible for conducting the trial, has access to and control over the data from the clinical trial, has the right to publish the results of the trial, and has the ability to meet all of the requirements under this subsection for the submission of clinical trial information.
 
 #### (B) Requirement
 
@@ -230,7 +266,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Expansion of data bank
 
-&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequent progress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the "registry data bank"). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
+&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequentprogress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the "registry data bank"). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
 
 #### (ii) Content
 
@@ -334,7 +370,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (C) Data submission
 
-&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to the Director of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
+&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to theDirector of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
 
 &emsp;&emsp;&emsp;(i) 90 days after September 27, 2007;
 
@@ -352,9 +388,21 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;The Director of NIH shall ensure that clinical trial information for an applicable device clinical trial submitted in accordance with this paragraph is posted publicly in the registry data bank—
 
-&emsp;&emsp;&emsp;&emsp;(I) not earlier than the date of clearance under section 360(k) of title 21, or approval under section 360e or 360j(m) of title 21, as applicable, for a device that was not previously cleared or approved, and not later than 30 days after such date; or
+&emsp;&emsp;&emsp;&emsp;(I) not earlier than the date of clearance under section 360(k) of title 21, or approval under section 360e or 360j(m) of title 21, as applicable, for a device that was not previously cleared or approved, and not later than 30 days after such date, unless the responsible party affirmatively requests that the Director of the National Institutes of Health publicly post such clinical trial information for an applicable device clinical trial prior to such date of clearance or approval; or
 
 &emsp;&emsp;&emsp;&emsp;(II) for a device that was previously cleared or approved, not later than 30 days after the clinical trial information under paragraph (3)(C) is required to be posted by the Secretary.
+
+#### (iii) Option to make certain clinical trial information available earlier
+
+&emsp;&emsp;&emsp;The Director of the National Institutes of Health shall inform responsible parties of the option to request that clinical trial information for an applicable device clinical trial be publicly posted prior to the date of clearance or approval, in accordance with clause (ii)(I).
+
+#### (iv) Combination products
+
+&emsp;&emsp;&emsp;An applicable clinical trial for a product that is a combination of drug, device, or biological product shall be considered—
+
+&emsp;&emsp;&emsp;&emsp;(I) an applicable drug clinical trial, if the Secretary determines under section 353(g) of title 21 that the primary mode of action of such product is that of a drug or biological product; or
+
+&emsp;&emsp;&emsp;&emsp;(II) an applicable device clinical trial, if the Secretary determines under such section that the primary mode of action of such product is that of a device.
 
 #### (3) Expansion of registry data bank to include results of clinical trials
 
@@ -460,13 +508,13 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;(II) A summary of the clinical trial and its results that is technical in nature, if the Secretary determines that such types of summary can be included without being misleading or promotional.
 
-&emsp;&emsp;&emsp;&emsp;(III) The full protocol or such information on the protocol for the trial as may be necessary to help to evaluate the results of the trial.
+&emsp;&emsp;&emsp;&emsp;(III) The full protocol or such information on the protocol for the trial as maybe necessary to help to evaluate the results of the trial.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Such other categories as the Secretary determines appropriate.
 
 #### (iv) Results submission
 
-&emsp;&emsp;&emsp;The results information described in clause (iii) shall be submitted to the Director of NIH for inclusion in the registry andresults data bank as provided by subparagraph (E), except that the Secretary shall by regulation determine—
+&emsp;&emsp;&emsp;The results information described in clause (iii) shall be submitted to the Director of NIH for inclusion in the registry and results data bank as provided by subparagraph (E), except that the Secretary shall by regulation determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) whether the 1-year period for submission of clinical trial information described in subparagraph (E)(i) should be increased from 1 year to a period not to exceed 18 months;
 
@@ -578,7 +626,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (iii) Additional elements
 
-&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry and results data bank for applicable clinical trials described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
+&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry andresults data bank for applicable clinical trials described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
 
 #### (I) Serious adverse events
 
@@ -638,7 +686,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (ii) Public availability of updates
 
-&emsp;&emsp;&emsp;The Director of NIH shall make updates submitted under clause (i) publicly available in the registry data bank. Except with regard to overall recruitment status, individual site status, location, and contact information, the Director of NIH shall ensure that updates to elements required under subclauses (I) to (V) of paragraph (2)(A)(ii) do not result in the removal of any information from the original submissions or any preceding updates, and information in such databases is presented in a manner that enables users to readily access each original element submission and to track the changes made by the updates. The Director of NIH shall provide a link from the table of primary and secondary outcomes required under paragraph (3)(C)(ii) to the tracked history required under this clause of the primary and secondary outcome measures submitted under paragraph (2)(A)(ii)(I)(ll).
+&emsp;&emsp;&emsp;The Director of NIH shall make updates submitted under clause (i) publicly available in the registry data bank. Except with regard to overall recruitment status, individual site status, location, and contact information, the Director of NIH shall ensure that updates to elements required under subclauses (I) to (V) of paragraph (2)(A)(ii) do not result in the removal of any information from the original submissions or any preceding updates, and information in such databases is presented in a manner that enables users to readily access each original element submission and to track the changes made by the updates. The Director of NIH shall provide a link from the table of primary and secondary outcomes required under paragraph\(3)(C)(ii) to the tracked history required under this clause of the primary and secondary outcome measures submitted under paragraph (2)(A)(ii)(I)(ll).
 
 #### (5) Coordination and compliance
 
@@ -710,7 +758,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (ii) Notice of failure to submit primary and secondary outcomes
 
-&emsp;&emsp;&emsp;If the responsible party for an applicable clinical trial fails to submit the primary and secondary outcomes as required undersection 2(A)(ii)(I)(ll),<sup>5</sup> the Director of NIH shall include in the registry and results data bank entry for such clinical trial a notice that the responsible party is not in compliance by failing to register the primary and secondary outcomes in accordance with this chapter, and that the primary and secondary outcomes were not publicly disclosed in the database before conducting the clinical trial.
+&emsp;&emsp;&emsp;If the responsible party for an applicable clinical trial fails to submit the primary and secondary outcomes as required under section 2(A)(ii)(I)(ll),<sup>5</sup> the Director of NIH shall include in the registry and results data bank entry for such clinical trial a notice that the responsible party is not in compliance by failing to register the primary and secondary outcomes in accordance with this chapter, and that the primary and secondary outcomes were not publicly disclosed in the database before conducting the clinical trial.
 
 #### (iii) Failure to submit statement
 
@@ -808,13 +856,79 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
 
-(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975; Pub. L. 110–316, title III, §302, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 111–148, title X, §10409(b), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(b)(5)(B), (d)(1), Dec. 23, 2011, 125 Stat. 1089, 1090; Pub. L. 113–94, §3(a), Apr. 3, 2014, 128 Stat. 1086.)
+#### (m) National Institutes of Health Strategic Plan
+
+#### (1) In general
+
+&emsp;Not later than 2 years after December 13, 2016, and at least every 6 years thereafter, the Director of the National Institutes of Health shall develop and submit to the appropriate committees of Congress and post on the Internet website of the National Institutes of Health, a coordinated strategy (to be known as the "National Institutes of Health Strategic Plan") to provide direction to the biomedical research investments made by the National Institutes of Health, to facilitate collaboration across the institutes and centers, to leverage scientific opportunity, and to advance biomedicine.
+
+#### (2) Requirements
+
+&emsp;The strategy under paragraph (1) shall—
+
+&emsp;&emsp;(A) identify strategic research priorities and objectives across biomedical research, including—
+
+&emsp;&emsp;&emsp;(i) an assessment of the state of biomedical and behavioral research, including areas of opportunity with respect to basic, clinical, and translational research;
+
+&emsp;&emsp;&emsp;(ii) priorities and objectives to advance the treatment, cure, and prevention of health conditions;
+
+&emsp;&emsp;&emsp;(iii) emerging scientific opportunities, rising public health challenges, and scientific knowledge gaps; and
+
+&emsp;&emsp;&emsp;(iv) the identification of near-, mid-, and long-term scientific needs;
+
+&emsp;&emsp;(B) consider, in carrying out subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) disease burden in the United States and the potential for return on investment to the United States;
+
+&emsp;&emsp;&emsp;(ii) rare diseases and conditions;
+
+&emsp;&emsp;&emsp;(iii) biological, social, and other determinants of health that contribute to health disparities; and
+
+&emsp;&emsp;&emsp;(iv) other factors the Director of National Institutes of Health determines appropriate;
+
+&emsp;&emsp;(C) include multi-institute priorities, including coordination of research among institutes and centers;
+
+&emsp;&emsp;(D) include strategic priorities for funding research through the Common Fund, in accordance with section 282a(c)(1)(C) of this title;
+
+&emsp;&emsp;(E) address the National Institutes of Health's proposed and ongoing activities related to training and the biomedical workforce; and
+
+&emsp;&emsp;(F) describe opportunities for collaboration with other agencies and departments, as appropriate.
+
+#### (3) Use of plans
+
+&emsp;Strategic plans developed and updated by the national research institutes and national centers of the National Institutes of Health shall be prepared regularly and in such a manner that such plans will be informed by the strategic plans developed and updated under this subsection. Such plans developed by and updated by the national research institutes and national centers shall have a common template.
+
+#### (4) Consultation
+
+&emsp;The Director of National Institutes of Health shall develop the strategic plan under paragraph (1) in consultation with the directors of the national research institutes and national centers, researchers, patient advocacy groups, and industry leaders.
+
+#### (n) Unique research initiatives
+
+#### (1) In general
+
+&emsp;The Director of NIH may approve, after consideration of a proposal under paragraph (2)(A), requests by the national research institutes and centers, or program officers within the Office of the Director to engage in transactions other than a contract, grant, or cooperative agreement with respect to projects that carry out—
+
+&emsp;&emsp;(A) the Precision Medicine Initiative under section 289g–5 of this title; or
+
+&emsp;&emsp;(B) subsection (b)(7), except that not more than 50 percent of the funds available for a fiscal year through the Common Fund under section 282a(c)(1) of this title for purposes of carrying out such subsection (b)(7) may be used to engage in such other transactions.
+
+#### (2) Requirements
+
+&emsp;The authority provided under this subsection may be used to conduct or support high impact cutting-edge research described in paragraph (1) using the other transactions authority described in such paragraph if the institute, center, or office—
+
+&emsp;&emsp;(A) submits a proposal to the Director of NIH for the use of such authority before conducting or supporting the research, including why the use of such authority is essential to promoting the success of the project;
+
+&emsp;&emsp;(B) receives approval for the use of such authority from the Director of NIH; and
+
+&emsp;&emsp;(C) for each year in which the institute, center, or office has used such authority in accordance with this subsection, submits a report to the Director of NIH on the activities of the institute, center, or office relating to such research.
+
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975; Pub. L. 110–316, title III, §302, Aug. 14, 2008, 122 Stat. 3524; Pub. L. 111–148, title X, §10409(b), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(b)(5)(B), (d)(1), Dec. 23, 2011, 125 Stat. 1089, 1090; Pub. L. 113–94, §3(a), Apr. 3, 2014, 128 Stat. 1086; Pub. L. 114–255, div. A, title II, §§2014(a), 2031(a), 2036(a), 2038(a), 2051, Dec. 13, 2016, 130 Stat. 1051, 1054, 1062, 1064, 1074.)
 
 #### References in Text
 
-The General Schedule, referred to in subsec. (b)(16), is set out under section 5332 of Title 5, Government Organization and Employees.
-
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The General Schedule, referred to in subsec. (b)(16), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
@@ -823,6 +937,22 @@ The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102
 In subsec. (b)(14)(B), "section 8141 of title 40" substituted for "the Act of March 3, 1877 (40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(4). Pub. L. 114–255, §2038(a)(1), amended par. (4) generally. Prior to amendment, text read as follows: "shall assemble accurate data to be used to assess research priorities, including information to better evaluate scientific opportunity, public health burdens, and progress in reducing minority and other health disparities;".
+
+Subsec. (b)(5). Pub. L. 114–255, §2031(a)(1), inserted ", and through the development, implementation, and updating of the strategic plan developed under subsection (m)" before semicolon.
+
+Subsec. (b)(8)(C), (D). Pub. L. 114–255, §2038(a)(2), added subpars. (C) and (D).
+
+Subsec. (b)(25). Pub. L. 114–255, §2014(a), added par. (25).
+
+Subsec. (j)(2)(D)(ii)(I). Pub. L. 114–255, §2051(1), inserted ", unless the responsible party affirmatively requests that the Director of the National Institutes of Health publicly post such clinical trial information for an applicable device clinical trial prior to such date of clearance or approval" before semicolon.
+
+Subsec. (j)(2)(D)(iii), (iv). Pub. L. 114–255, §2051(2), added cls. (iii) and (iv).
+
+Subsec. (m). Pub. L. 114–255, §2031(a)(2), added subsec. (m).
+
+Subsec. (n). Pub. L. 114–255, §2036(a), added subsec. (n).
 
 <b>2014</b>—Subsec. (b)(7). Pub. L. 113–94 amended par. (7) generally, enacting similar provisions and adding provisions relating to allocating funds appropriated pursuant to section 282a(a)(2) of this title for making grants for pediatric research.
 
@@ -922,7 +1052,79 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Rule of Construction Regarding Continuation of Programs
 
-Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: "The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284l, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285o, 285o–2, 285o–4, 285p, 285r, 286a–1, 287a–2, 287a–3, 287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program."
+Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: "The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284l, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285o, 285o–2, 285o–4, 285p, 285r, 286a–1, 287a–2, 287a–3, 287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and former 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program."
+
+#### Confidentiality
+
+Pub. L. 114–255, div. A, title II, §2014(b), Dec. 13, 2016, 130 Stat. 1051, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] authorizes the Secretary of Health and Human Services to disclose any information that is a trade secret, or other privileged or confidential information, described in section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code, or \[shall\] be construed to require recipients of grants or cooperative agreements through the National Institutes of Health to share such information."
+
+#### Appropriate Age Groupings in Clinical Research
+
+Pub. L. 114–255, div. A, title II, §2038(i), Dec. 13, 2016, 130 Stat. 1067, provided that:
+
+"(1)
+
+Input from experts.—Not later than 180 days after the date of enactment of this Act \[Dec. 13, 2016\], the Director of the National Institutes of Health shall convene a workshop of experts on pediatric and older populations to provide input on—
+
+&emsp;"(A) appropriate age groups to be included in research studies involving human subjects; and
+
+&emsp;"(B) acceptable justifications for excluding participants from a range of age groups from human subjects research studies.
+
+"(2)
+
+Policy updates.—Not later than 180 days after the conclusion of the workshop under paragraph (1), the Director of the National Institutes of Health shall make a determination with respect to whether the policies of the National Institutes of Health on the inclusion of relevant age groups in clinical studies need to be updated, and shall update such policies as appropriate. In making the determination, the Director of the National Institutes of Health shall take into consideration whether such policies—
+
+&emsp;"(A) address the consideration of age as an inclusion variable in research involving human subjects; and
+
+&emsp;"(B) identify the criteria for justification for any age-related exclusions in such research.
+
+"(3)
+
+Public availability of findings and conclusions.—The Director of the National Institutes of Health shall—
+
+&emsp;"(A) make the findings and conclusions resulting from the workshop under paragraph (1) and updates to policies in accordance with paragraph (2), as applicable, available to the public on the Internet website of the National Institutes of Health; and
+
+&emsp;"(B) ensure that age-related data reported in the triennial report under section 403 of the Public Health Service Act (42 U.S.C. 283) (as amended by section 2032 \[of Pub. L. 114–255\]) are made available to the public on the Internet website of the National Institutes of Health."
+
+#### Enhancing the Rigor and Reproducibility of Scientific Research
+
+Pub. L. 114–255, div. A, title II, §2039, Dec. 13, 2016, 130 Stat. 1068, provided that:
+
+"(a)
+
+Establishment.—Not later than 1 year after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall convene a working group under the Advisory Committee to the Director of the National Institutes of Health (referred to in this section as the 'Advisory Committee'), appointed under section 222 of the Public Health Service Act (42 U.S.C. 217a), to develop and issue recommendations through the Advisory Committee for a formal policy, which may incorporate or be informed by relevant existing and ongoing activities, to enhance rigor and reproducibility of scientific research funded by the National Institutes of Health.
+
+"(b)
+
+Considerations.—In developing and issuing recommendations through the Advisory Committee under subsection (a), the working group established under such subsection shall consider, as appropriate—
+
+&emsp;"(1) preclinical experiment design, including analysis of sex as a biological variable;
+
+&emsp;"(2) clinical experiment design, including—
+
+&emsp;&emsp;"(A) the diversity of populations studied for clinical research, with respect to biological, social, and other determinants of health that contribute to health disparities;
+
+&emsp;&emsp;"(B) the circumstances under which summary information regarding biological, social, and other factors that contribute to health disparities should be reported; and
+
+&emsp;&emsp;"(C) the circumstances under which clinical studies, including clinical trials, should conduct an analysis of the data collected during the study on the basis of biological, social, and other factors that contribute to health disparities;
+
+&emsp;"(3) applicable levels of rigor in statistical methods, methodology, and analysis;
+
+&emsp;"(4) data and information sharing in accordance with applicable privacy laws and regulations; and
+
+&emsp;"(5) any other matter the working group determines relevant.
+
+"(c)
+
+Policies.—Not later than 18 months after the date of enactment of this Act, the Director of the National Institutes of Health shall consider the recommendations developed by the working group and issued by the Advisory Committee under subsection (a) and develop or update policies as appropriate.
+
+"(d)
+
+Report.—Not later than 2 years after the date of enactment of this Act, the Director of the National Institutes of Health shall issue a report to the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives regarding recommendations developed under subsection (a) and any subsequent policy changes implemented, to enhance rigor and reproducibility in scientific research funded by the National Institutes of Health.
+
+"(e)
+
+Confidentiality.—Nothing in this section authorizes the Secretary of Health and Human Services to disclose any information that is a trade secret, or other privileged or confidential information, described in section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code."
 
 #### Demonstration Grants for Improving Pediatric Device Availability
 

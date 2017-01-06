@@ -64,7 +64,7 @@
 
 (i) Amounts available for operation and maintenance of a reserve component of the armed forces may be available for purposes of this section to ensure the medical, dental, and behavioral health readiness of members of such reserve component.
 
-(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, \[div. A\], title VII, §735(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 112–81, div. A, title VII, §703(a), Dec. 31, 2011, 125 Stat. 1471.)
+(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, \[div.A\], title VII, §735(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 112–81, div. A, title VII, §703(a), Dec. 31, 2011, 125 Stat. 1471.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsecs. (g), (h). Pub. L. 110–417, §735(a)(2), (3), added subsecs. (g) and (
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
-"(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty, the administering Secretaries may provide to each such memberany medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
+"(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
 
 "(2) The Secretary concerned shall promptly transmit to each member of the Ready Reserve eligible for screening and care under this subsection a notification of eligibility for such screening and care.
 

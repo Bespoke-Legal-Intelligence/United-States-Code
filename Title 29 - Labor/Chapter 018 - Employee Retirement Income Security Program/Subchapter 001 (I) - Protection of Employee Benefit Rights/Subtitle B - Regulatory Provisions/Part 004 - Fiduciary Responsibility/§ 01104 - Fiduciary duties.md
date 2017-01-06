@@ -2,7 +2,7 @@
 
 #### (a) Prudent man standard of care
 
-(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge hisduties with respect to a plan solely in the interest of the participants and beneficiaries and—
+(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge his duties with respect to a plan solely in the interest of the participants and beneficiaries and—
 
 &emsp;(A) for the exclusive purpose of:
 
@@ -14,7 +14,7 @@
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
-&emsp;(D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III.
+&emsp;(D) in accordance with the documents and instruments governing the plan insofar assuch documents and instruments are consistent with the provisions of this subchapter and subchapter III.
 
 (2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 
@@ -64,7 +64,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 (C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—
 
-&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, theplan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
+&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
 
 &emsp;(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and
 

@@ -10,7 +10,7 @@ Location of Program.—The program shall be carried out in at least 12 locations
 
 (c)
 
-Scope of Program.—(1) To the extent practicable, the program shall provide both referral and counseling services, and in the case of counseling services, shall include counseling with respect to job training and placement (including job readiness), housing, health care, and other benefits to assist the eligible veteran in the transition from institutional living.
+Scope of Program.—(1) To the extent practicable, the program shall provide both referraland counseling services, and in the case of counseling services, shall include counseling with respect to job training and placement (including job readiness), housing, health care, and other benefits to assist the eligible veteran in the transition from institutional living.
 
 (2)(A) To the extent that referral or counseling services are provided at a location under the program, referral services shall be provided in person during such period of time that the Secretaries may specify that precedes the date of release or discharge of the eligible veteran, and counseling services shall be furnished after such date.
 
@@ -22,7 +22,7 @@ Scope of Program.—(1) To the extent practicable, the program shall provide bot
 
 (d)
 
-Duration.—The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2016.
+Duration.—The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2017.
 
 (e)
 
@@ -32,13 +32,15 @@ Definition.—In this section, the term "eligible veteran" means a veteran who�
 
 &emsp;(2) is at risk for homelessness absent referral and counseling services provided under the demonstration program (as determined under guidelines established by the Secretaries).
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, §5705, May 25, 2007, 121 Stat. 170; Pub. L. 110–387, title VI, §602(a)–(d)(2), Oct. 10, 2008, 122 Stat. 4132; Pub. L. 112–239, div. A, title V, §590, Jan. 2, 2013, 126 Stat. 1769; Pub. L. 113–37, §2(e)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §203, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §308, Sept. 30, 2015, 129 Stat. 534.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, §5705, May 25, 2007, 121 Stat. 170; Pub. L. 110–387, title VI, §602(a)–(d)(2), Oct. 10, 2008, 122 Stat. 4132; Pub. L. 112–239, div. A, title V, §590, Jan. 2, 2013, 126 Stat. 1769; Pub. L. 113–37, §2(e)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §203, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §308, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §303, Sept. 29, 2016, 130 Stat. 939.)
 
 #### Prior Provisions
 
 Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–228 substituted "September 30, 2017" for "September 30, 2016".
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–58 substituted "September 30, 2016" for "September 30, 2015".
 

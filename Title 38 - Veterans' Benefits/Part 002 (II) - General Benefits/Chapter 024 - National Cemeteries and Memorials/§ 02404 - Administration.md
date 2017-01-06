@@ -120,7 +120,7 @@ Matters Studied.—(1) The study conducted pursuant to the contract entered into
 
 &emsp;"(E) The current condition of flat grave marker sections at each of the national cemeteries.
 
-"(2) In presenting the assessment of additional national cemeteries required under paragraph (1)(C), thereport shall identify by five-year period, beginning with 2005 and ending with 2020, the following:
+"(2) In presenting the assessment of additional national cemeteries required under paragraph (1)(C), the report shall identify by five-year period, beginning with 2005 and ending with 2020, the following:
 
 &emsp;"(A) The number of additional national cemeteries required during each such five-year period.
 

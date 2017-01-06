@@ -58,7 +58,7 @@
 
 #### (B) Specified taxable year
 
-&emsp;&emsp;The term "specified taxable year" means, with respect to any qualified intellectual property contribution, any taxable year of the donee any portion of which is part of the 10-year period beginning on the date of such contribution.
+&emsp;&emsp;The term "specified taxable year" means, with respect to any qualified intellectual property contribution, any taxable year ofthe donee any portion of which is part of the 10-year period beginning on the date of such contribution.
 
 #### (c) Statement to be furnished to donors
 

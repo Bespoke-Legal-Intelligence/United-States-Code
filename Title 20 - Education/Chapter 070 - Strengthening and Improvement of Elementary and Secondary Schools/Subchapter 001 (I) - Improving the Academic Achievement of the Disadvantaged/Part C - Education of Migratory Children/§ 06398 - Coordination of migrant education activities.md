@@ -58,7 +58,7 @@ From the amounts made available to carry out this section for any fiscal year, t
 
 The Secretary shall direct the National Center for Education Statistics to collect data on migratory children.
 
-(Pub. L. 89–10, title I, §1308, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1578; amended Pub. L. 114–95, title I, §1301(g), Dec. 10, 2015, 129 Stat. 1898.)
+(Pub. L. 89–10, title I, §1308, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1578;amended Pub. L. 114–95, title I, §1301(g), Dec. 10, 2015, 129 Stat. 1898.)
 
 #### References in Text
 

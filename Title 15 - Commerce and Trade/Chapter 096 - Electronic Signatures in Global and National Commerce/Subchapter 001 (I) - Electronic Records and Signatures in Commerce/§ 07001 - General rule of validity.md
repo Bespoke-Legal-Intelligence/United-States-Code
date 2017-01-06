@@ -166,7 +166,7 @@ Certain guaranteed and insured loans.—With regard to any transaction involving
 
 &emsp;"(3)
 
-Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], section 101(c) of this Act \[15 U.S.C. 7001(c)\] shall not apply until the earlier of—
+Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\], section 101(c) of this Act \[15 U.S.C. 7001(c)\] shall not apply until the earlier of—
 
 &emsp;&emsp;"(A) such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 \[20 U.S.C. 1082(m)\]; or
 

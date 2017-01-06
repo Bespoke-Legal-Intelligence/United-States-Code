@@ -70,7 +70,7 @@
 
 #### (A) Development of procedure
 
-&emsp;&emsp;The Secretary may develop a procedure to transition to a Federal establishment anyestablishment under this section that, on average, consistently employs more than 25 employees.
+&emsp;&emsp;The Secretary may develop a procedure to transition to a Federal establishment any establishment under this section that, on average, consistently employs more than 25 employees.
 
 #### (B) Eligibility of certain establishments
 

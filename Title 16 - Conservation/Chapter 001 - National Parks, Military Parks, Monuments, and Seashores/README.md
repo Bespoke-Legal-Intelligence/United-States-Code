@@ -1876,6 +1876,7 @@
 | [423a.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423a%20-%20Acceptance%20of%20donations%20of%20lands.md) | Acceptance of donations of lands. |
 | 423a–1. | Addition of lands. |
 | 423a–2. | Adjustment of boundary. |
+| 423a–3. | Petersburg National Battlefield boundary modification. |
 | [423b.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423b%20-%20Commission%3B%20organization.md) | Commission; organization. |
 | [423c.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423c%20-%20Duties%20of%20commission.md) | Duties of commission. |
 | [423d.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423d%20-%20Acceptance%20and%20disposition%20of%20gifts.md) | Acceptance and disposition of gifts. |

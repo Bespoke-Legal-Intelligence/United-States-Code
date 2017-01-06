@@ -66,7 +66,7 @@ Comprehensive Medical Plans.—Benefits of the types named under paragraph (1) o
 
 &emsp;(C) Medicare program information described in paragraph (3)(B)(ii) will be supplied to carriers under paragraph (3)(A).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 101–508, title VII, §7002(f)(1), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 102–378, §2(76), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–66, title XI, §11003(a), Aug. 10, 1993, 107 Stat. 409.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 101–508, title VII, §7002(f)(1), Nov. 5, 1990, 104Stat. 1388–330; Pub. L. 102–378, §2(76), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–66, title XI, §11003(a), Aug. 10, 1993, 107 Stat. 409.)
 
 Historical and Revision Notes
 

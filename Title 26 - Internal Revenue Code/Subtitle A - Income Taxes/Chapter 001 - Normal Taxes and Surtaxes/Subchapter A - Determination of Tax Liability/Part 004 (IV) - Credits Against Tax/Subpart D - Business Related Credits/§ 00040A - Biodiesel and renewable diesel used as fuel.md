@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (5) Limitation to biodiesel with connection to the United States
 
-&emsp;No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposesof this paragraph, the term "United States" includes any possession of the United States.
+&emsp;No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term "United States" includes any possession of the United States.
 
 #### (e) Definitions and special rules for small agri-biodiesel producer credit
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (2) Aggregation rule
 
-&emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
+&emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
 
 #### (3) Partnership, S corporation, and other pass-thru entities
 
@@ -232,7 +232,7 @@ For purposes of this title—
 
 &emsp;&emsp;(B) the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.
 
-> &emsp;Such term shall not include any liquid with respect to which a credit may be determinedunder section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term "biomass" has the meaning given such term by section 45K(c)(3).
+> &emsp;Such term shall not include any liquid with respect to which a credit may be determined under section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term "biomass" has the meaning given such term by section 45K(c)(3).
 
 #### (4) Certain aviation fuel
 
@@ -334,7 +334,7 @@ Pub. L. 114–113, div. Q, title I, §185(a)(2), Dec. 18, 2015, 129 Stat. 3073, 
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §153(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made bythis section \[amending this section\] shall apply to fuel sold or used after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §153(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made by this section \[amending this section\] shall apply to fuel sold or used after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 

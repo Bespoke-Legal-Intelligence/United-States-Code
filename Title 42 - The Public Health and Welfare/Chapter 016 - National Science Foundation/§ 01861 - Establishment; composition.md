@@ -4,6 +4,14 @@ There is established in the executive branch of the Government an independent ag
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 114–329, §1(a), Jan. 6, 2017, 130 Stat. 2969, provided that: "This Act \[see Tables for classification\] may be cited as the 'American Innovation and Competitiveness Act'."
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–124, §1, Feb. 18, 2016, 130 Stat. 120, provided that: "This Act \[enacting sections 1862r and 1862r–1 of this title and provisions set out as notes under sections 1862r and 1862r–1 of this title\] may be cited as the 'Research Excellence and Advancements for Dyslexia Act' or the 'READ Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title, amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621 of this title\] may be cited as the 'STEM Education Act of 2015'."
@@ -32,7 +40,7 @@ Pub. L. 100–570, §1, Oct. 31, 1988, 102 Stat. 2865, provided that: "This Act 
 
 Pub. L. 100–570, title II, §201, Oct. 31, 1988, 102 Stat. 2873, provided that: "This title \[enacting sections 1862a to 1862d of this title, repealing former sections 1862a and 1862b of this title, and repealing provisions set out as a note under section 1861 of this title\] may be cited as the 'Academic Research Facilities Modernization Act of 1988'."
 
-Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provided that subtitle E (§§6401–6403) of title VI of Pub. L. 100–418, enacting sections 1862a and 1862b of this title, was to be cited as the "National Science Foundation University Infrastructure Act of 1988", wasrepealed by Pub. L. 100–570, title II, §206, Oct. 31, 1988, 102 Stat. 2878.
+Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provided that subtitle E (§§6401–6403) of title VI of Pub. L. 100–418, enacting sections 1862a and 1862b of this title, was to be cited as the "National Science Foundation University Infrastructure Act of 1988", was repealed by Pub. L. 100–570, title II, §206, Oct. 31, 1988, 102 Stat. 2878.
 
 #### Short Title of 1986 Amendment
 
@@ -148,9 +156,9 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for certain reorganizations in the field of science and technology.
+I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providingfor certain reorganizations in the field of science and technology.
 
-Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within theExecutive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
+Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
 
 The new arrangements incorporated in part I of the reorganization plan will constitute an important development in executive branch organization for science and technology. Under those arrangements the President will have permanent staff resources capable of advising and assisting him on matters of national policy affected by or pertaining to science and technology. Considering the rapid growth and far-reaching scope of Federal activities in science and technology, it is imperative that the President have adequate staff support in developing policies and evaluating programs in order to assure that science and technology are used most effectively in the interests of national security and general welfare.
 

@@ -102,7 +102,7 @@ In subsection (e), the word "member" is substituted for the words "officer or en
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–156 inserted exception to training requirements where member served on active duty for one year or more if the training period falls during last one hundred and twenty days of required membership in National Guard.
 
-<b>1967</b>—Subsec. (b). Pub. L. 90–168 substituted 30 consecutive days for seven consecutive days of the same calendar month as the time within which all parts of the unit must be included in a series of formations in order to be credited as an assembly for drill and instruction.
+<b>1967</b>—Subsec. (b). Pub. L. 90–168 substituted 30 consecutive days for seven consecutive days of the samecalendar month as the time within which all parts of the unit must be included in a series of formations in order to be credited as an assembly for drill and instruction.
 
 <b>1964</b>—Subsec. (f). Pub. L. 88–621 added subsec. (f).
 

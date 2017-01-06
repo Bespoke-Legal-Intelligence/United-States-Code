@@ -20,7 +20,7 @@
 
 (10) No person in the United States shall, on the grounds of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or part with funds made available under this section.
 
-(11) All amounts collected in connection with loans made pursuant to this section, includinginterest payments or repayments of principal on loans, fees, and other moneys, derived in connection with this section, shall be deposited in the Treasury as miscellaneous receipts.
+(11) All amounts collected in connection with loans made pursuant to this section, including interest payments or repayments of principal on loans, fees, and other moneys, derived in connection with this section, shall be deposited in the Treasury as miscellaneous receipts.
 
 (Pub. L. 94–579, title III, §317(c), Oct. 21, 1976, 90 Stat. 2771; Pub. L. 95–352, §1(f), Aug. 20, 1978, 92 Stat. 515.)
 

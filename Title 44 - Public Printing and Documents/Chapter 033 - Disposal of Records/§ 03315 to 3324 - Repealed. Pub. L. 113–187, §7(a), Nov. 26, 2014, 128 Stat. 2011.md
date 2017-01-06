@@ -14,7 +14,7 @@ Section 3320, added Pub. L. 93–526, title II, §202, Dec. 19, 1974, 88 Stat. 1
 
 Section 3321, added Pub. L. 93–526, title II, §202, Dec. 19, 1974, 88 Stat. 1701, related to support services provided to the Commission by the Administrator of General Services and the Archivist of the United States.
 
-Section 3322, added Pub. L. 93–526, title II, §202, Dec. 19, 1974, 88 Stat. 1701; amended Pub. L. 94–261, §1(b), Apr. 11, 1976, 90 Stat. 326, related to the report of the Commission.
+Section 3322, added Pub. L. 93–526, title II, §202, Dec. 19, 1974, 88 Stat. 1701; amended Pub. L. 94–261, §1(b), Apr.11, 1976, 90 Stat. 326, related to the report of the Commission.
 
 Section 3323, added Pub. L. 93–526, title II, §202, Dec. 19, 1974, 88 Stat. 1701, related to termination of the Commission.
 

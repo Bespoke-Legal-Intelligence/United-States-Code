@@ -52,7 +52,7 @@
 
 &emsp;(11) "contribution base unit" means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan, as defined in regulations prescribed by the Secretary of the Treasury;
 
-&emsp;(12) "outstanding claim for withdrawal liability" means a plan's claim for the unpaid balance of the liability determined under part1 of subtitle E of this subchapter for which demand has been made, valued in accordance with regulations prescribed by the corporation;
+&emsp;(12) "outstanding claim for withdrawal liability" means a plan's claim for the unpaid balance of the liability determined under part 1 of subtitle E for which demand has been made, valued in accordance with regulations prescribed by the corporation;
 
 &emsp;(13) "contributing sponsor", of a single-employer plan, means a person described in section 1082(b)(1) of this title (without regard to section 1082(b)(2) of this title) or section 412(b)(1) of title 26 (without regard to section 412(b)(2) of such title).<sup>2</sup>
 
@@ -112,15 +112,15 @@
 
 > &emsp;except that, in connection with any notice required to be provided to the affected party, if an affected party has designated, in writing, a person to receive such notice on behalf of the affected party, any reference to the affected party shall be construed to refer to such person.
 
-(b)(1) An individual who owns the entire interest in an unincorporated trade or business istreated as his own employer, and a partnership is treated as the employer of each partner who is an employee within the meaning of section 401(c)(1) of title 26. For purposes of this subchapter, under regulations prescribed by the corporation, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer and all such trades and businesses as a single employer. The regulations prescribed under the preceding sentence shall be consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under section 414(c) of title 26.
+(b)(1) An individual who owns the entire interest in an unincorporated trade or business is treated as his own employer, and a partnership is treated as the employer of each partner who is an employee within the meaning of section 401(c)(1) of title 26. For purposes of this subchapter, under regulations prescribed by the corporation, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer and all such trades and businesses as a single employer. The regulations prescribed under the preceding sentence shall be consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under section 414(c) of title 26.
 
-(2) For purposes of subtitle E of this subchapter—
+(2) For purposes of subtitle E—
 
-&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+&emsp;(A) except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
 &emsp;(B) the term "Secretary of the Treasury" means the Secretary of the Treasury or such Secretary's delegate.
 
-(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–235, div. O, title I, §108(a)(3)(A), Dec. 16, 2014, 128 Stat. 2787.)
+(Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 113–235, div. O, title I, §108(a)(3)(A), Dec. 16, 2014, 128 Stat. 2787.)
 
 #### References in Text
 

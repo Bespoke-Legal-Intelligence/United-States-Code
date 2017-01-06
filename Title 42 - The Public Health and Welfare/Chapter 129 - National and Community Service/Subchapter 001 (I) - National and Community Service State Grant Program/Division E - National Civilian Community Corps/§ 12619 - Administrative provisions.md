@@ -122,7 +122,7 @@ Subsec. (c)(3). Pub. L. 111–13, §1509(3)(C), substituted "other members" for 
 
 <b>1994</b>—Subsec. (c)(2)(C)(i). Pub. L. 103–304 substituted "section 12622(a)(2)" for "section section 12622(a)(2)".
 
-Subsec. (c)(3). Pub. L. 103–337 inserted at end "In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre."
+Subsec. (c)(3). Pub. L. 103–337 inserted at end "In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired orretainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(a)(1)(A), (B), substituted "Supervision" for "Board" in heading and "The Chief Executive Officer shall monitor" for "The Board shall monitor" and "the Chief Executive Officer shall—" for "the Board shall—" in introductory provisions.
 

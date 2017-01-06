@@ -30,7 +30,7 @@ Reimbursement.—The Secretary of Transportation shall be reimbursed for the cos
 
 (d)
 
-Allowances and Regulations.—Individuals receiving instruction under this section are entitled to the same allowances and are subject to the same regulations on admission, attendance, discipline, resignation, discharge, dismissal, and graduation, as cadets at the Academy appointed from the United States.
+Allowances and Regulations.—Individuals receiving instruction under this section areentitled to the same allowances and are subject to the same regulations on admission, attendance, discipline, resignation, discharge, dismissal, and graduation, as cadets at the Academy appointed from the United States.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572.)
 

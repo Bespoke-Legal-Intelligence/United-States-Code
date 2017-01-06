@@ -32,7 +32,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(C) the type of information, material, or property to be seized, altered, or reproduced;
 
-&emsp;&emsp;(D) a statement of the manner in which the physical search is to be conducted and, whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
+&emsp;&emsp;(D) a statement of the manner in which the physical search is to be conducted and,whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
 
 &emsp;&emsp;(E) the period of time during which physical searches are approved; and
 
@@ -80,7 +80,7 @@ An order approving a physical search under this section shall—
 
 #### (f) Retention of applications and orders
 
-Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
+Applications made and orders granted under this subchapter shall be retained for a period ofat least 10 years from the date of the application.
 
 (Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §105(b), Mar. 9, 2006, 120 Stat. 195; Pub. L. 110–261, title I, §§107(b), (c)(1), 110(c)(3), July 10, 2008, 122 Stat. 2463, 2464, 2467; Pub. L. 111–259, title VIII, §§801(5), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748.)
 
@@ -94,7 +94,7 @@ This chapter, referred to in subsec. (d)(2), was in the original "this Act", mea
 
 Subsec. (c)(2)(C). Pub. L. 111–259, §806(a)(2), made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261, §107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted "or is about to be" before "owned" in par. (2)(B), substituted "1823(a)(6)(E)" for "1823(a)(7)(E)" in par. (4), and struck out former par. (1) which read as follows:"the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;".
+<b>2008</b>—Subsec. (a). Pub. L. 110–261, §107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted "or is about to be" before "owned" in par. (2)(B), substituted "1823(a)(6)(E)" for "1823(a)(7)(E)" in par. (4), and struck out former par. (1) which read as follows: "the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;".
 
 Subsec. (d)(2). Pub. L. 110–261, §110(c)(3), substituted "paragraph (5), (6), or (7) of section 1801(a)" for "section 1801(a)(5) or (6)".
 

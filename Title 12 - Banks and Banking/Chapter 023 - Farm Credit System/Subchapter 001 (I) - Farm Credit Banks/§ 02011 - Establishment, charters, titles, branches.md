@@ -38,11 +38,11 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### Effective Date
 
-Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this subchapter is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 #### Long-Term Lending Authority of Farm Credit Bank of Texas With Respect to States of Alabama, Louisiana, and Mississippi
 
-Pub. L. 102–552, title IV, §401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, §5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), titleV, §5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that:
+Pub. L. 102–552, title IV, §401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, §5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), title V, §5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that:
 
 "(1)
 
@@ -102,7 +102,7 @@ Operating and merger authority.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), the Federal Intermediate Credit Bank of Jackson may operate subject to such provisions of part A of title II of the Farm Credit Act of 1971 \[12 U.S.C. 2071 et seq.\] (as in effect immediately before the amendment made by section 401 took effect) and such provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) (as in effect after the amendment), as the Farm Credit Administration deems appropriate to carry out the purposes of this subsection and such Act. This subparagraph shall take effect as if it had become law at the same time as the amendment made by section 401 and shall remain in effect until the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+In general.—Except as provided in clause (ii), the Federal Intermediate Credit Bank of Jackson may operate subject to such provisions of part A of title II of the Farm Credit Act of 1971 \[12 U.S.C. 2071 et seq.\] (as in effect immediately before the amendment made by section 401 took effect) and such provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) (as in effect afterthe amendment), as the Farm Credit Administration deems appropriate to carry out the purposes of this subsection and such Act. This subparagraph shall take effect as if it had become law at the same time as the amendment made by section 401 and shall remain in effect until the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -126,7 +126,7 @@ Limitation on authority to merge.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shallrevoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
+In general.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank as provided under clause (i) shall expire, and the Farm Credit Administration shall revoke the Bank's charter, immediately on the Bank's merger with a Farm Credit Bank under this subsection, or July 1, 1994, whichever is sooner.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -250,7 +250,7 @@ Referendum on association structure.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than 170 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the American Arbitration Association shall conduct, and compile and forward to the Farm Credit Administration the results of, a vote of current farmer-borrowers of the production credit associations and the Federal land bank associations in theStates of Alabama, Louisiana, and Mississippi, in accordance with the Election Rules of the American Arbitration Association, to determine whether the farmer-borrowers of each association in the geographic areas described in clause (iii) prefer to have credit delivered—
+In general.—Not later than 170 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the American Arbitration Association shall conduct, and compile and forward to the Farm Credit Administration the results of, a vote of current farmer-borrowers of the production credit associations and the Federal land bank associations in the States of Alabama, Louisiana, and Mississippi, in accordance with the Election Rules of the American Arbitration Association, to determine whether the farmer-borrowers of each association in the geographic areas described in clause (iii) prefer to have credit delivered—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) in the case of production credit association farmer-borrowers, through a production credit association or through an agricultural credit association as proposed in the plan; and
 
@@ -302,7 +302,7 @@ In general.—Beginning on the date of the issuance of an order by the Farm Cred
 
 &emsp;&emsp;&emsp;"(ii)
 
-Maintenance of book value.—Assistance provided by the Corporation under this subparagraph shall be in amounts not to exceed that required to maintain book value per share of stockholders' equity at the same value reflected on the most recent audited financial statements of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas prior to or effective with the date of the merger.
+Maintenance of book value.—Assistance provided by the Corporation under this subparagraph shall be in amounts not to exceed that required to maintain book value per share of stockholders' equity at the same value reflected on themost recent audited financial statements of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas prior to or effective with the date of the merger.
 
 &emsp;&emsp;&emsp;"(iii)
 

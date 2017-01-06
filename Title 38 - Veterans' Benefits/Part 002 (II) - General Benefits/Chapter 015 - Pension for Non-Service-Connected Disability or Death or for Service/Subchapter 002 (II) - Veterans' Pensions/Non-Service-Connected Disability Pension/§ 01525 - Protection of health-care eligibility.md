@@ -18,7 +18,7 @@ Subsec. (a). Pub. L. 102–568, §403(a)(1), substituted "after January 31, 1985
 
 Subsec. (b). Pub. L. 102–568, §403(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: "For the purposes of this section:
 
-&emsp;"(1) The term 'terminated by reason of income from work or training' means terminated as a result of the veteran's receipt of earnings from activity performed for remuneration or gain, but only if the veteran'sannual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
+&emsp;"(1) The term 'terminated by reason of income from work or training' means terminated as a result of the veteran's receipt of earnings from activity performed for remuneration or gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
 
 &emsp;"(2) The term 'program period' means the period beginning on February 1, 1985, and ending on December 31, 1992."
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 99–272 applicable to hospital care, nursing home care, an
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period
 
-Provision of health care and services to a veteran pursuant to this section ratified with respect to period beginning Feb. 1, 1992, and ending May 20, 1992, see section 2(e) of Pub. L. 102–291, set out as a note under section 1163 of this title.
+Provision of health care and services to a veteran pursuant to this section ratified with respect to periodbeginning Feb. 1, 1992, and ending May 20, 1992, see section 2(e) of Pub. L. 102–291, set out as a note under section 1163 of this title.
 

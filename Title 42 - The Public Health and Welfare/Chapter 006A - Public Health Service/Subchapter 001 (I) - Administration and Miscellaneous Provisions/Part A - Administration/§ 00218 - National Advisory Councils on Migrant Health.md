@@ -6,7 +6,7 @@ Within 120 days of July 29, 1975, the Secretary shall appoint and organize a Nat
 
 #### (b) Membership
 
-The Council shall consist of fifteen members, at least twelve of whom shall be members of thegoverning boards of migrant health centers or other entities assisted under section 254b <sup>1</sup> of this title. Of such twelve members who are members of such governing boards, at least nine shall be chosen from among those members of such governing boards who are being served by such centers or grantees and who are familiar with the delivery of health care to migratory agricultural workers and seasonal agricultural workers. The remaining three Council members shall be individuals qualified by training and experience in the medical sciences or in the administration of health programs.
+The Council shall consist of fifteen members, at least twelve of whom shall be members of the governing boards of migrant health centers or other entities assisted under section 254b <sup>1</sup> of this title. Of such twelve members who are members of such governing boards, at least nine shall be chosen from among those members of such governing boards who are being served by such centers or grantees and who are familiar with the delivery of health care to migratory agricultural workers and seasonal agricultural workers. The remaining three Council members shall be individuals qualified by training and experience in the medical sciences or in the administration of health programs.
 
 #### (c) Terms of office
 
@@ -132,7 +132,7 @@ Pub. L. 92–218, §7, Dec. 23, 1971, 85 Stat. 785, provided that:
 
 "(b) The first sentence of section 454 of the Public Health Service Act \[former 42 U.S.C. 289l\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
 
-"(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[former 42 U.S.C. 286f\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B."
+"(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[former 42 U.S.C. 286f\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensatedfrom the date they first take office, at the rates provided for in such section 410B."
 
 #### Effective Date of 1950 Amendment
 

@@ -54,9 +54,9 @@
 
 (h)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
-(2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age andcompleting 20 years of service is entitled to an annuity.
+(2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
-(3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+(3) A member of the Federal Bureau of Investigation and Drug Enforcement AdministrationSenior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
 (i)(1) An employee of the Panama Canal Commission or of an Executive agency conducting operations in the Canal Zone or Republic of Panama who is separated from the service before January 1, 2000, who was employed by the Canal Zone Government or the Panama Canal Company at any time during the period beginning March 31, 1979, and ending September 30, 1979, and who has had continuous Panama Canal service, without a break in service of more than 3 days, from that time until separation, is entitled to an annuity if the employee is separated—
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) "Bureau of Indian Affairs" means (i) the Bureau of Indian Affairs and (ii) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-&emsp;(B) "Indian preference laws" means section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
+&emsp;(B) "Indian preference laws" means section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986),<sup>3</sup> or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
 
 (k) A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 
@@ -248,9 +248,11 @@ In subsections (a) and (b), the words "is entitled to" are substituted for "shal
 
 #### References in Text
 
-Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to section 450i(e)(2) of Title 25, Indians. Section 105 of that Act is classified to section 450j of Title 25.
+Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act was formerly classified to section 450i(e)(2) of Title 25, Indians, prior to editorial reclassification as section 5323(e)(2) of Title 25.
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
+
+Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 of act June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
 
 #### Amendments
 
@@ -496,7 +498,7 @@ Pub. L. 105–174, title III, §7001(a), May 1, 1998, 112 Stat. 91, as amended b
 
 #### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
 
-Nonapplicability of annuity provisions of subsec. (j) of this section to individuals accepting waiver of Indian preference laws with respect to personnel actions, see section 472a(c)(2) of Title 25, Indians.
+Nonapplicability of annuity provisions of subsec. (j) of this section to individuals accepting waiver of Indian preference laws with respect to personnel actions, see section 5117(c)(2) of Title 25, Indians.
 
 #### Individuals Entitled to Annuity Payments for Period Prior to October 1, 1979
 

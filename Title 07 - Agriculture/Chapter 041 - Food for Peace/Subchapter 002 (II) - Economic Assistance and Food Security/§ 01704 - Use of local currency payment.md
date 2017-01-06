@@ -76,7 +76,7 @@ Section 2152h of title 22, referred to in subsec. (c)(8), was in the original "s
 
 Pub. L. 110–246, §3006(1), inserted ", through agreements with recipient governments, private voluntary organizations, and cooperatives," after "developing country" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 110–246, §3006(2), struck out par. (1). Prior to amendment, text read as follows: "To carry out programs to help develop markets for United States agricultural commodities on a mutually beneficial basis in the appropriate developing country."
+Subsec. (c)(1). Pub. L. 110–246, §3006(2), struck out par. (1). Prior to amendment, text read as follows: "To carry out programs to help develop markets for UnitedStates agricultural commodities on a mutually beneficial basis in the appropriate developing country."
 
 Subsec. (c)(2)(E). Pub. L. 110–246, §3006(3), added subpar. (E).
 
@@ -194,7 +194,7 @@ Subsec. (e). Pub. L. 87–195 substituted "procedures established by such agency
 
 Subsec. (s). Pub. L. 87–128, §201(3)(c), added subsec. (s).
 
-Pub. L. 87–128, §201(3)(b), substituted in final proviso "pursuant to" for "for the purpose of subsection (p) of this section, except in such amounts as may be specified from time to time in appropriation Acts, and noforeign currencies shall be allocated under any provision of this chapter after June 30, 1960, for the purposes specified in".
+Pub. L. 87–128, §201(3)(b), substituted in final proviso "pursuant to" for "for the purpose of subsection (p) of this section, except in such amounts as may be specified from time to time in appropriation Acts, and no foreign currencies shall be allocated under any provision of this chapter after June 30, 1960, for the purposes specified in".
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–341, §4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering into agreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
 
@@ -216,7 +216,7 @@ Subsec. (k). Pub. L. 85–477 added subsec. (k).
 
 Subsecs. (l) to (o). Pub. L. 85–931, §3(b), added subsecs. (l) to (o).
 
-<b>1957</b>—Subsec. (e). Pub. L. 85–128 provided that not more than 25 percent of the currencies received pursuant to each agreement be available through the Export-Import Bank for loans mutually agreeable to said bank and the country with which the agreement is made for business development in such countries and for loans to domestic or foreign firms for facilities to aid markets for United States agricultural products, provided no such loans be made for the manufacture of products to be exported to United States in competition with United States products or for manufacture or production of any commodity to be marketed in competition with United States agricultural commodities or products thereof, and that foreign currencies may be accepted in repayment of such loans.
+<b>1957</b>—Subsec. (e). Pub. L. 85–128 provided that not more than 25 percent of the currencies received pursuant to each agreement be available through the Export-Import Bank for loans mutually agreeable to said bank and the country with which the agreement is made for business development in such countries and for loans to domestic or foreign firms for facilities to aid markets for United States agricultural products, provided no such loans be made for the manufacture of products to be exported to United States in competition with United States products or for manufacture or production of any commodity to be marketed in competitionwith United States agricultural commodities or products thereof, and that foreign currencies may be accepted in repayment of such loans.
 
 Subsec. (h). Pub. L. 85–141, §11(b)(2), added section 544(c) to act Aug. 26, 1954, which section inserted provisions in this subsection authorizing the setting aside of amounts from sale proceeds and loan repayments.
 

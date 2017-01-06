@@ -168,7 +168,7 @@ Each tech prep program may—
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (a)(1)(B)(i)(I)(bb)(AA), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat.1219. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

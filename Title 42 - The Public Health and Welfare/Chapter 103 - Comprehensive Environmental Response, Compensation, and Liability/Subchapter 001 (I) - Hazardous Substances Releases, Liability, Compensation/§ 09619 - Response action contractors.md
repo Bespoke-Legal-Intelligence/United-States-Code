@@ -4,7 +4,7 @@
 
 #### (1) Response action contractors
 
-&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries, costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
+&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries,costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
 
 #### (2) Negligence, etc.
 
@@ -22,7 +22,7 @@
 
 #### (1) Liability of other persons
 
-&emsp;The defense provided by section 9607(b)(3) of this title shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) of this section and the preceding sentence, nothing in this section shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
+&emsp;The defense provided by section 9607(b)(3) of this title shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) and the preceding sentence, nothing in this section shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
 
 #### (2) Burden of plaintiff
 
@@ -74,7 +74,7 @@
 
 #### (i) Decision to indemnify
 
-&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnificationagreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
+&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a responseaction contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
 
 #### (ii) Conditions
 
@@ -86,7 +86,7 @@
 
 #### (E) Persons retained or hired
 
-&emsp;&emsp;A person retained or hired by a person described in subsection (e)(2)(B) of this section shall be eligible for indemnification under this subsection only if the President specifically approves of the retaining or hiring of such person.
+&emsp;&emsp;A person retained or hired by a person described in subsection (e)(2)(B) shall be eligible for indemnification under this subsection only if the President specifically approves of the retaining or hiring of such person.
 
 #### (6) Cost recovery
 
@@ -102,7 +102,7 @@
 
 #### (d) Exception
 
-The exemption provided under subsection (a) of this section and the authority of the President to offer indemnification under subsection (c) of this section shall not apply to any person covered by the provisions of paragraph (1), (2), (3), or (4) of section 9607(a) of this title with respect to the release or threatened release concerned if such person would be covered by such provisions even if such person had not carried out any actions referred to in subsection (e) of this section.
+The exemption provided under subsection (a) and the authority of the President to offer indemnification under subsection (c) shall not apply to any person covered by the provisions of paragraph (1), (2), (3), or (4) of section 9607(a) of this title with respect to the release or threatened release concerned if such person would be covered by such provisions even if such person had not carried out any actions referred to in subsection (e) of this section.
 
 #### (e) Definitions
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstration pursuant to section 9660(b) of this title; and
 
-&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this titlefor the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
 
 &emsp;&emsp;(B) any person who is retained or hired by a person described in subparagraph (A) to provide any services relating to a response action; and
 

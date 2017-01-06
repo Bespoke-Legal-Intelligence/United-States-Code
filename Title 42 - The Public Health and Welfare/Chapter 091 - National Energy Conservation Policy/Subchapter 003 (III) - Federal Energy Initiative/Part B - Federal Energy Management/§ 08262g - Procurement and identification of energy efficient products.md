@@ -10,11 +10,11 @@ The Administrator of General Services, the Secretary of Defense, and the Directo
 
 #### (c) Guidelines
 
-The Administrator for Federal Procurement Policy, in consultation with the Administrator of General Services, the Secretary of Energy, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall issue guidelines to encourage the acquisition and use by all Federal agencies of products identified pursuant to this section. The Secretary of Defense and theDirector of the Defense Logistics Agency shall consider, and place emphasis on, the acquisition of such products as part of the Agency's ongoing review of military specifications.
+The Administrator for Federal Procurement Policy, in consultation with the Administrator of General Services, the Secretary of Energy, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall issue guidelines to encourage the acquisition and use by all Federal agencies of products identified pursuant to this section. The Secretary of Defense and the Director of the Defense Logistics Agency shall consider, and place emphasis on, the acquisition of such products as part of the Agency's ongoing review of military specifications.
 
 #### (d) Report to Congress
 
-Not later than December 31 of 1993 and thereafter as part of the report required under section 8258(b) of this title, the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
+Not later than December 31 of 1993 and thereafter as part of the report required under section 8258(b) of this title, the Secretary of Energy, inconsultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
 
 &emsp;(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
 

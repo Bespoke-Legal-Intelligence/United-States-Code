@@ -12,7 +12,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Reviewability
 
-&emsp;The President's decisions regarding the availability of fund financing under this subsection shall not be subject to judicial review under subsection (d) of this section.
+&emsp;The President's decisions regarding the availability of fund financing under this subsection shall not be subject to judicial review under subsection (d).
 
 #### (3) Retention of funds
 
@@ -26,11 +26,11 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Liability
 
-&emsp;Whenever the President has entered into an agreement under this section, the liability to the United States under this chapter of each party to the agreement, including any future liability to the United States, arising from the release or threatened release that is the subject of the agreement shall be limited as provided in the agreement pursuant to a covenant not to sue in accordance with subsection (f) of this section. A covenant not to sue may provide that future liability to the United States of a settling potentially responsible party under the agreement may be limited to the same proportion as that established in the original settlement agreement. Nothing in this section shall limit or otherwise affect the authority of any court to review in the consent decree process under subsection (d) of this section any covenant not to sue contained in an agreement under this section. In determining the extent to which the liability of parties to an agreement shall be limited pursuant to a covenant not to sue, the President shall be guided by the principle that a more complete covenant not to sue shall be provided for a more permanent remedy undertaken by such parties.
+&emsp;Whenever the President has entered into an agreement under this section, the liability to the United States under this chapter of each party to the agreement, including any future liability to the United States, arising from the release or threatened release that is the subject of the agreement shall be limited as provided in the agreement pursuant to a covenant not to sue in accordance with subsection (f). A covenant not to sue may provide that future liability to the United States of a settling potentially responsible party under the agreement may be limited to the same proportion as that established in the original settlement agreement. Nothing in this section shall limit or otherwise affect the authority of any court to review in the consent decree process under subsection (d) any covenant not to sue contained in an agreement under this section. In determining the extent to which the liability of parties to an agreement shall be limited pursuant to a covenant not to sue, the President shall be guided by the principle that a more complete covenant not to sue shall be provided for a more permanent remedy undertaken by such parties.
 
 #### (2) Actions against other persons
 
-&emsp;If an agreement has been entered into under this section, the President may take any action under section 9606 of this title against any person who is not a party to the agreement, once the period for submitting a proposal under subsection (e)(2)(B) of this section has expired. Nothing in this section shall be construed to affect either of the following:
+&emsp;If an agreement has been entered into under this section, the President may take any action under section 9606 of this title against any person who is not a party to the agreement, once the period for submitting a proposal under subsection (e)(2)(B) has expired. Nothing in this section shall be construed to affect either of the following:
 
 &emsp;&emsp;(A) The liability of any person under section 9606 or 9607 of this title with respect to any costs or damages which are not included in the agreement.
 
@@ -42,7 +42,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (A) Consent decree
 
-&emsp;&emsp;Whenever the President enters into an agreement under this section with any potentially responsible party with respect to remedial action under section 9606 of this title, following approval of the agreement by the Attorney General, except as otherwise provided in the case of certain administrative settlements referred to in subsection (g) of this section, the agreement shall be entered in the appropriate United States district court as a consent decree. The President need not make any finding regarding an imminent and substantial endangerment to the public health or the environment in connection with any such agreement or consent decree.
+&emsp;&emsp;Whenever the President enters into an agreement under this section with any potentially responsible party with respect toremedial action under section 9606 of this title, following approval of the agreement by the Attorney General, except as otherwise provided in the case of certain administrative settlements referred to in subsection (g), the agreement shall be entered in the appropriate United States district court as a consent decree. The President need not make any finding regarding an imminent and substantial endangerment to the public health or the environment in connection with any such agreement or consent decree.
 
 #### (B) Effect
 
@@ -144,7 +144,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Special covenants not to sue
 
-&emsp;In the case of any person to whom the President is authorized under paragraph (1) of thissubsection to provide a covenant not to sue, for the portion of remedial action—
+&emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
 
 &emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (o), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
@@ -180,7 +180,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (6) Additional condition for future liability
 
-&emsp;(A) Except for the portion of the remedial action which is subject to a covenant not to sue under paragraph (2) or under subsection (g) of this section (relating to de minimis settlements), a covenant not to sue a person concerning future liability to the United States shall include an exception to the covenant that allows the President to sue such person concerning future liability resulting from the release or threatened release that is the subject of the covenant where such liability arises out of conditions which are unknown at the time the President certifies under paragraph (3) that remedial action has been completed at the facility concerned.
+&emsp;(A) Except for the portion of the remedial action which is subject to a covenant not to sue under paragraph (2) or under subsection (g) (relating to de minimis settlements), a covenant not to sue a person concerning future liability to the United States shall include an exception to the covenant that allows the President to sue such person concerning future liability resulting from the release or threatened release that is the subject of the covenant where such liability arises out of conditions which are unknown at the time the President certifies under paragraph (3) that remedial action has been completed at the facility concerned.
 
 &emsp;(B) In extraordinary circumstances, the President may determine, after assessment of relevant factors such as those referred to in paragraph (4) and volume, toxicity, mobility, strength of evidence, ability to pay, litigative risks, public interest considerations, precedential value, and inequities and aggravating factors, not to include the exception referred to in subparagraph (A) if other terms, conditions, or requirements of the agreement containing the covenant not to sue are sufficient to provide all reasonable assurances that public health and the environment will be protected from any future releases at or from the facility.
 
@@ -210,7 +210,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Covenant not to sue
 
-&emsp;The President may provide a covenant not to sue with respect to the facility concerned to any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f) of this section.
+&emsp;The President may provide a covenant not to sue with respect to the facility concerned to any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f).
 
 #### (3) Expedited agreement
 
@@ -254,11 +254,11 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (B) Failure to comply
 
-&emsp;&emsp;The President may decline to offer a settlement to a potentially responsible party under this subsection if the President determines that the potentially responsible party has failed to comply with any request for access or information or an administrative subpoena issued by the President under this chapter or has impeded or is impeding, through action or inaction, the performance of a response action with respect to the facility.
+&emsp;&emsp;The President may decline to offer a settlement to a potentially responsible party under this subsection if the President determines that the potentially responsible party has failed to comply with any request for access or information or an administrative subpoena issued by the President under this chapter or has impeded or is impeding, through action or inaction, the performanceof a response action with respect to the facility.
 
 #### (C) Responsibility to provide information and access
 
-&emsp;&emsp;A potentially responsible party that enters into a settlement under this subsection shall not be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) of this section or section 9604(e) of this title.
+&emsp;&emsp;A potentially responsible party that enters into a settlement under this subsection shall not be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) or section 9604(e) of this title.
 
 #### (9) Basis of determination
 
@@ -298,7 +298,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Publication in Federal Register
 
-&emsp;At least 30 days before any settlement (including any settlement arrived at through arbitration) may become final under subsection (h) of this section, or under subsection (g) of this section in the case of a settlement embodied in an administrative order, the head of the department or agency which has jurisdiction over the proposed settlement shall publish in the Federal Register notice of the proposed settlement. The notice shall identify the facility concerned and the parties to the proposed settlement.
+&emsp;At least 30 days before any settlement (including any settlement arrived at through arbitration) may become final under subsection (h), or under subsection (g) in the case of a settlement embodied in an administrative order, the head of the department or agency which has jurisdiction over the proposed settlement shall publish in the Federal Register notice of the proposed settlement. The notice shall identify the facility concerned and the parties to the proposed settlement.
 
 #### (2) Comment period
 
@@ -316,7 +316,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Covenant not to sue
 
-&emsp;An agreement under this section may contain a covenant not to sue under section 9607(a)(4)(C) of this title for damages to natural resources under the trusteeship of the United States resulting from the release or threatened release of hazardous substances that is the subject of the agreement, but only if the Federal natural resource trustee has agreed in writing to such covenant. The Federal natural resource trustee may agree to such covenant if the potentially responsible party agrees to undertake appropriate actions necessary to protect and restore the natural resources damaged by such release or threatened release of hazardous substances.
+&emsp;An agreement under this section may contain a covenant not to sue under section 9607(a)(4)(C) of this title for damages to natural resources under the trusteeship of the United States resulting from the release or threatened release of hazardous substancesthat is the subject of the agreement, but only if the Federal natural resource trustee has agreed in writing to such covenant. The Federal natural resource trustee may agree to such covenant if the potentially responsible party agrees to undertake appropriate actions necessary to protect and restore the natural resources damaged by such release or threatened release of hazardous substances.
 
 #### (k) Section not applicable to vessels
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of President; modification and decrease of duties; altering import restrictions
 
-(1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available to those branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact that any existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
+(1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available to those branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact thatany existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
@@ -42,7 +42,7 @@
 
 &emsp;(ii) One-half of 1 per centum ad valorem.
 
-> In the case of a specific rate (or of a combination of rates which includes a specific rate), the one-half of 1 per centum specified in clause (ii) of the preceding sentence shall be determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purposes of paragraph (2)(D)(ii) of this subsection.
+> In the case of a specific rate (or of a combination of rates which includes a specific rate), the one-half of 1 per centum specified in clause (ii) of the preceding sentence shall be determined inthe same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purposes of paragraph (2)(D)(ii) of this subsection.
 
 (4)(A) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made, in order to carry out a foreign trade agreement entered into by the President on or after July 1, 1958, decreasing any rate of duty below the lowest of the following rates:
 
@@ -52,7 +52,7 @@
 
 &emsp;(iii) The rate 50 per centum ad valorem or, in the case of any article subject to a specific rate of duty or to a combination of rates including a specific rate, any rate (or combination of rates), however stated, the ad valorem equivalent of which has been determined as 50 per centum ad valorem.
 
-> The provisions of clauses (ii) and (iii) of this subparagraph and of subparagraph (B)(ii) of this paragraph shall, in the case of any article, subject to a combination of ad valorem rates of duty, apply to the aggregate of such rates; and,in the case of any article, subject to a specific rate of duty or to a combination of rates including a specific rate, such provisions shall apply on the basis of the ad valorem equivalent of such rate or rates, during a representative period (whether or not such period includes July 1, 1958), determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purpose of paragraph (2)(D)(ii) of this subsection.
+> The provisions of clauses (ii) and (iii) of this subparagraph and of subparagraph (B)(ii) of this paragraph shall, in the case of any article, subject to a combination of ad valorem rates of duty, apply to the aggregate of such rates; and, in the case of any article, subject to a specific rate of duty or to a combination of rates including a specific rate, such provisions shall apply on the basis of the ad valorem equivalent of such rate or rates, during a representative period (whether or not such period includes July 1, 1958), determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purpose of paragraph (2)(D)(ii) of this subsection.
 
 (B)(i) In the case of any decrease in duty to which clause (i) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 10 per centum of the rate of duty existing on July 1, 1958, or, in any case in which the rate has been increased since that date, exceed such 10 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
 
@@ -74,7 +74,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 &emsp;(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C)), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
 
-&emsp;(3) In order to carry out a foreign trade agreement entered into after June 30, 1962, and before July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 \[19 U.S.C. 1821 et seq.\] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
+&emsp;(3) In order to carry out a foreign trade agreement entered into after June 30, 1962, andbefore July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 \[19 U.S.C. 1821 et seq.\] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
 
 #### (c) Definitions
 
@@ -84,7 +84,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 &emsp;(A) Except as provided in subsection (d), the terms "existing on July 1, 1934", "existing on January 1, 1945", "existing on January 1, 1955", and "existing on July 1, 1958" refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
 
-&emsp;(B) The term "existing" without the specification of any date, when used with respect toany matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
+&emsp;(B) The term "existing" without the specification of any date, when used with respect to any matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
 
 #### (d) Rate basis for additional increases or decreases; restoration of terminated treaties forbidden
 

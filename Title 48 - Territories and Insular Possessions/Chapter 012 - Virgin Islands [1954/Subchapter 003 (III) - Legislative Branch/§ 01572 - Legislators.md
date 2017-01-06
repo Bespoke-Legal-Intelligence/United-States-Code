@@ -26,7 +26,7 @@ No member of the legislature shall hold or be appointed to any office which has 
 
 #### (g) General powers; parliamentary rules
 
-The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths. The rules of the Legislative Assembly of the Virgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
+The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths.The rules of the Legislative Assembly of the Virgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
 
 #### (h) Vacancies
 
@@ -54,7 +54,7 @@ Subsec. (e). Pub. L. 86–289, §2(b), changed the date of payment of salaries, 
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–130, §2, Oct. 19, 1973, 87 Stat. 460, provided that: "The amendment made by the first section of thisAct \[amending this section\] shall apply with respect to vacancies occurring on or after the date of enactment of this Act \[Oct. 19, 1973\]."
+Pub. L. 93–130, §2, Oct. 19, 1973, 87 Stat. 460, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply with respect to vacancies occurring on or after the date of enactment of this Act \[Oct. 19, 1973\]."
 
 #### Effective Date of 1968 Amendment
 

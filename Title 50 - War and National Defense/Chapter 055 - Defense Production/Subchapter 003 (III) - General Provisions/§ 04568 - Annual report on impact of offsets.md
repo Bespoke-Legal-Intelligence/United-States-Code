@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;If a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to anoffset agreement exceeding $5,000,000 in value, such firm shall furnish to the official designated in the regulations promulgated pursuant to paragraph (2) information concerning such sale.
+&emsp;If a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset agreement exceeding $5,000,000 in value, such firm shall furnish to the official designated in the regulations promulgated pursuant to paragraph (2) information concerning such sale.
 
 #### (2) Regulations
 
@@ -206,7 +206,7 @@ WTO agreement.—The term 'WTO Agreement' means the Agreement Establishing the W
 
 "(a)
 
-In General.—There is established a National Commission on the Use of Offsets in Defense Trade (in this section referred to as the 'Commission') to address all aspects of the use of offsets in international defense trade.
+In General.—There is established a National Commission on the Use of Offsets in Defense Trade (inthis section referred to as the 'Commission') to address all aspects of the use of offsets in international defense trade.
 
 "(b)
 
@@ -252,7 +252,7 @@ Duties.—The Commission shall be responsible for reviewing and reporting on—
 
 "(d)
 
-Commission Report.—Not later than 12 months after the Commission is established, the Commissionshall submit a report to the appropriate congressional committees. In addition to the items described under subsection (c), the report shall include—
+Commission Report.—Not later than 12 months after the Commission is established, the Commission shall submit a report to the appropriate congressional committees. In addition to the items described under subsection (c), the report shall include—
 
 &emsp;"(1) an analysis of—
 
@@ -398,7 +398,7 @@ Section 1. <i>Membership</i>. Pursuant to Public Law 106–113, the "National Co
 
 Sec. 2. <i>Duties</i>. The Commission will be responsible for reviewing and reporting on: (a) current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; (b) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and (c) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness, and national security.
 
-Sec. 3. <i>Commission Report</i>. Not later than 12 months after the Commission is established, it will report to the appropriate congressional committees. In addition to the items described in section 2 of this order, the report will include: (a) an analysis of (i) the collateral impact of offsets on industry sectors that may be different than those of the contractor paying offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; (ii) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and (iii) the impact on United States national security, and upon United States nonproliferation objectives, of the use of co-production, subcontracting, and technology transfer with foreign governments or companies, that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; (b) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and (c) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade.
+Sec. 3. <i>Commission Report</i>. Not later than 12 months after the Commission is established, it will report to the appropriate congressional committees. In addition to the items described in section 2 of this order, the report will include: (a) an analysis of (i) the collateral impact of offsets on industry sectors that may be different than those of the contractor paying offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; (ii) the role of offsets with respect to competitiveness of theUnited States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and (iii) the impact on United States national security, and upon United States nonproliferation objectives, of the use of co-production, subcontracting, and technology transfer with foreign governments or companies, that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; (b) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and (c) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade.
 
 Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department of Defense will provide administrative support and funding for the Commission and Federal Government employees may be detailed to the Commission without reimbursement.
 

@@ -2,11 +2,11 @@
 
 #### (a) Manner of furnishing assistance; emphasis on loans
 
-Except as otherwise specifically provided in this chapter, assistance under this chapter may be furnished on a grant basis or on such terms, including cash, credit, or other terms of repayment (including repayment in foreign currencies or by transfer to the United States Government of commodities) as may be determined to be best suited to the achievement of the purposes of this chapter, and shall emphasize loans rather than grants wherever possible.
+Except as otherwise specifically provided in this chapter, assistance under this chapter maybe furnished on a grant basis or on such terms, including cash, credit, or other terms of repayment (including repayment in foreign currencies or by transfer to the United States Government of commodities) as may be determined to be best suited to the achievement of the purposes of this chapter, and shall emphasize loans rather than grants wherever possible.
 
 #### (b) Authority of the President
 
-The President may make loans, advances, and grants to, make and perform agreements andcontracts with, or enter into other transactions with, any individual, corporation, or other body of persons, friendly government or government agency, whether within or without the United States, and international organizations in furtherance of the purposes and within the limitations of this chapter.
+The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into other transactions with, any individual, corporation, or other body of persons, friendly government or government agency, whether within or without the United States, and international organizations in furtherance of the purposes and within the limitations of this chapter.
 
 #### (c) Utilization of services and facilities of voluntary, nonprofit organizations
 
@@ -62,7 +62,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 #### (m) Working capital fund
 
-(1) There is established a working capital fund (in this subsection referred to as the "fund") forthe United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
+(1) There is established a working capital fund (in this subsection referred to as the "fund") for the United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
 
 &emsp;(A) International Cooperative Administrative Support Services; and
 
@@ -144,7 +144,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### International Agreements
 
-The negotiation, conclusion, and termination of international agreements pursuant to this chaptershall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+The negotiation, conclusion, and termination of international agreements pursuant to this chapter shall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 
 #### Information to Congressional Committees on Negotiations Regarding Debts Owed United States by Foreign Governments; Transmittal to Congress of Debt Modification Proposals
 

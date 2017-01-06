@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) knowingly manufactures or sells defense articles transferred into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country;
+&emsp;&emsp;&emsp;&emsp;(I) knowingly manufactures or sells defense articles transferred into Syria orinto the territory of a specified country without the consent of the internationally recognized government of that country;
 
 &emsp;&emsp;&emsp;&emsp;(II) transfers defense articles into Syria or into the territory of a specified country without the consent of the internationally recognized government of that country; or
 
@@ -88,7 +88,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (6) Banking transactions
 
-&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
+&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibitany transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
 
 #### (7) Prohibition on investment in equity or debt of sanctioned person
 
@@ -182,7 +182,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 &emsp;&emsp;(A) determines that the transaction is in the national security interest of the United States; and
 
-&emsp;&emsp;(B) submits to the appropriate congressional committees a detailed report on thedetermination and the specific reasons for the determination that a waiver with respect to the transaction is necessary and appropriate.
+&emsp;&emsp;(B) submits to the appropriate congressional committees a detailed report on the determination and the specific reasons for the determination that a waiver with respect to the transaction is necessary and appropriate.
 
 #### (2) Form of report
 
@@ -216,7 +216,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (c)(4), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. Section 16 of the Act is now classified to section 4618 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsecs. (c)(4) and (d)(1)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. Section 16 of the Act is now classified to section 4618 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

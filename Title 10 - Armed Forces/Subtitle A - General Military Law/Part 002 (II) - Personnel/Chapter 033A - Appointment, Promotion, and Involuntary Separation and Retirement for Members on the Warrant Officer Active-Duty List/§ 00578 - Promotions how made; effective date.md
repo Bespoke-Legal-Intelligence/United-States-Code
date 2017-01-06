@@ -20,3 +20,7 @@
 
 <b>1992</b>—Pub. L. 102–484 substituted "Promotions:" for "Promotions;" in section catchline.
 
+#### Effective Date
+
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
+

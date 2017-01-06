@@ -20,7 +20,7 @@ An item referred to in subsection (a) is any of the following, if the item is di
 
 #### (c) Availability exception
 
-Subsection (a) does not apply to the extent that the Secretary of Homeland Security determines that satisfactory quality and sufficientquantity of any such article or item described in subsection (b)(1) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices. This section is not applicable to covered items that are, or include, materials determined to be non-available in accordance with Federal Acquisition Regulation 25.104 Nonavailable Articles.
+Subsection (a) does not apply to the extent that the Secretary of Homeland Security determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b)(1) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices. This section is not applicable to covered items that are, or include, materials determined to be non-available in accordance with Federal Acquisition Regulation 25.104 Nonavailable Articles.
 
 #### (d) De minimis exception
 

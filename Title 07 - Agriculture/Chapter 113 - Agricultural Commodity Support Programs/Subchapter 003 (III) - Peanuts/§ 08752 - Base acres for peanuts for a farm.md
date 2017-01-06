@@ -16,7 +16,7 @@
 
 #### (2) Special conservation reserve acreage payment rules
 
-&emsp;For the crop year in which a base acres for peanuts adjustment under subparagraph (A) or\(B) of paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+&emsp;For the crop year in which a base acres for peanuts adjustment under subparagraph (A) or (B) of paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
 
 #### (b) Prevention of excess base acres for peanuts
 
@@ -106,7 +106,7 @@ The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246,June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 
@@ -119,6 +119,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Subsec. (d)(4). Pub. L. 113–188, §101(a)(2), (3), substituted "Paragraphs (1) and (2)" for "Paragraphs (1) through (3)" and redesignated par. (4) as (3).
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis after "title".</i>
 

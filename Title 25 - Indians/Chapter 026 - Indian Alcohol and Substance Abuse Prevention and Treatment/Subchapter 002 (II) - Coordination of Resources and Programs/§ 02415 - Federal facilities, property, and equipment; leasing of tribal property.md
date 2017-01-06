@@ -6,7 +6,7 @@ In the furtherance of the purposes and goals of this chapter, the Secretary of t
 
 #### (b) Costs
 
-Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) may be borne by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. This subsection does not require the Secretary of the Interior, nor the Attorney General, nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior, the Department of Justice, or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
+Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) may be borne by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. Thissubsection does not require the Secretary of the Interior, nor the Attorney General, nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior, the Department of Justice, or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
 
 #### (c) Leases
 
@@ -46,7 +46,7 @@ Lease of Facilities.—The Secretary of Health and Human Services, acting under 
 
 "(c)
 
-Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450f\], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(l) of that Act \[25 U.S.C. 450b(l)\]."
+Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5321\], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(l) of that Act \[25 U.S.C. 5304(l)\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

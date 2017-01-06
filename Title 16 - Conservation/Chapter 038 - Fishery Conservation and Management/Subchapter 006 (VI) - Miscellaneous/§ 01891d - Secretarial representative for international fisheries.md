@@ -10,7 +10,7 @@ The designated official shall, in consultation with the Deputy Assistant Secreta
 
 #### (c) Consultation
 
-The designated official shall consult with the Senate Committee on Commerce, Science, and Transportation and the House Committee on Resources on matters pertaining to any regional or international negotiation concerning living marine resources, including shellfish.
+The designated official shall consult with the Senate Committee on Commerce, Science, and Transportation and the House Committee on Resources on matters pertaining to any regional orinternational negotiation concerning living marine resources, including shellfish.
 
 #### (d) Delegation
 

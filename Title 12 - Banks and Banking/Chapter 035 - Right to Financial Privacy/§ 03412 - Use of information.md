@@ -6,7 +6,7 @@ Financial records originally obtained pursuant to this chapter shall not be tran
 
 #### (b) Mailing of copy of certification and notice to customer
 
-When financial records subject to this chapter are transferred pursuant to subsection (a), the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) and the following notice, which shall state the nature of the law enforcement inquiry withreasonable specificity: "Copies of, or information contained in, your financial records lawfully in possession of                    have been furnished to              pursuant to the Right of Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose:             . If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974 \[5 U.S.C. 552a\]."
+When financial records subject to this chapter are transferred pursuant to subsection (a), the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) and the following notice, which shall state the nature of the law enforcement inquiry with reasonable specificity: "Copies of, or information contained in, your financial records lawfully in possession of                    have been furnished to              pursuant to the Right of Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose:             . If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974 \[5 U.S.C. 552a\]."
 
 #### (c) Court-ordered delays in mailing
 
@@ -52,13 +52,13 @@ Section 3401(6) of this title, referred to in subsec. (e), was redesignated sect
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment note below.
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted "the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted"for "and the Commodity Futures Trading Commission is permitted".
+<b>2010</b>—Subsec. (e). Pub. L. 111–203 substituted "the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted" for "and the Commodity Futures Trading Commission is permitted".
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–455, §10, which inserted "the Federal Trade Commission," after "the Securities and Exchange Commission,", was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56 inserted ", or intelligence or counterintelligence activity, investigation or analysis related to international terrorism" after "legitimate law enforcement inquiry".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of this chapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
+<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of thischapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §1516(1), inserted "or the Secretary of the Treasury" after "the Attorney General".
 
@@ -91,6 +91,10 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 #### Effective Date of 1992 Amendment
 
 Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

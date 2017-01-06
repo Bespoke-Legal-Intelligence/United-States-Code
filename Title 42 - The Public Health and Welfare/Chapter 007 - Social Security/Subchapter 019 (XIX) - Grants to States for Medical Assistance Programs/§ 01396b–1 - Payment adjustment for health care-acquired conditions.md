@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (in this subsection referred to as th
 
 #### (b) Health care-acquired condition
 
-In this section.<sup>1</sup> the term "health care-acquired condition" means a medical condition for which an individual was diagnosed that could be identified by a secondary diagnostic code described in section 1886(d)(4)(D)(iv) of the Social Security Act (42 U.S.C. 1395ww(d)(4)(D)(iv)).
+In this section.<sup>1</sup> the term "health care-acquired condition" means a medical condition forwhich an individual was diagnosed that could be identified by a secondary diagnostic code described in section 1886(d)(4)(D)(iv) of the Social Security Act (42 U.S.C. 1395ww(d)(4)(D)(iv)).
 
 #### (c) Medicare provisions
 

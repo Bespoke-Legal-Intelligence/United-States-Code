@@ -40,7 +40,7 @@ Use of assistance.—Financial assistance provided under paragraph (1) shall be 
 
 (c)
 
-Solicitation of Applications for Assistance.—Not later than 180 days after the date of enactment of this subsection, the Secretary shall solicit applications from States, or authorities designated by 1 or more States, for financial assistance authorized by subsection (b) for planning, design, and construction of eligible MAGLEV projects.
+Solicitation of Applications for Assistance.—Not later than 180 days after the date of enactment of this subsection, the Secretary shall solicit applications from States, or authorities designated by 1 or more States, for financial assistance authorized by subsection (b)for planning, design, and construction of eligible MAGLEV projects.
 
 (d)
 
@@ -128,7 +128,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 Contract authority.—Funds authorized by this subparagraph shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this sectionshall be determined in accordance with subsection (b); and
+&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this section shall be determined in accordance with subsection (b); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the availability of the funds shall be determined in accordance with paragraph (2).
 
@@ -220,7 +220,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Deployment of Magnetic Levitation Transportation Projects
 
-Pub. L. 114–94, div. A, title XI, §11315(c), Dec. 4, 2015, 129 Stat. 1675, provided that: "A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) \[set out below\] may be eligible for the Railroad Rehabilitationand Improvement Financing program if the Secretary \[of Transportation\] determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 822, 823\]."
+Pub. L. 114–94, div. A, title XI, §11315(c), Dec. 4, 2015, 129 Stat. 1675, provided that: "A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) \[set out below\] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary \[of Transportation\] determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 822, 823\]."
 
 Pub. L. 109–59, title I, §1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, §102(b), (c), June 6, 2008, 122 Stat. 1577, provided that:
 
@@ -238,7 +238,7 @@ Eligible project costs.—The term 'eligible project costs'—
 
 &emsp;"(2)
 
-Full project costs.—The term 'full project costs' means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment.
+Full project costs.—The term 'full project costs' means the total capital costs of a MAGLEVproject, including eligible project costs and the costs of stations, vehicles, and equipment.
 
 &emsp;"(3) MAGLEV.—The term 'MAGLEV' means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour.
 

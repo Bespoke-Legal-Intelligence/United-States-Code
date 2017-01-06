@@ -4,7 +4,7 @@
 
 Prohibition.—Except as provided in subsection (b), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
 
-&emsp;(1) the foreign entity is an entity in which the government of a covered foreign countryhas an ownership interest that enables that government to affect satellite operations; or
+&emsp;(1) the foreign entity is an entity in which the government of a covered foreign country has an ownership interest that enables that government to affect satellite operations; or
 
 &emsp;(2) the foreign entity plans to or is expected to provide launch or other satellite services under the contract from a covered foreign country.
 

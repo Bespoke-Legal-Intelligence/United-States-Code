@@ -2,7 +2,7 @@
 
 #### (a) Referral systems; information; contents
 
-(1) Subject to the provisions of subsections (c) and (d) of this section, amounts paid to a State under section 9873 of this title from its allotment under section 9872 of this title may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly or by grant or contract with public or private entities, of State and local resource and referral systems to provide information concerning the availability, types, costs, and locations of dependent care services. The information provided by any such system may include—
+(1) Subject to the provisions of subsections (c) and (d), amounts paid to a State under section 9873 of this title from its allotment under section 9872 of this title may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly or by grant or contract with public or private entities, of State and local resource and referral systems to provide information concerning the availability, types, costs, and locations of dependent care services. The information provided by any such system may include—
 
 &emsp;(A) the types of dependent care services available, including services provided by individual homes, religious organizations, community organizations, employers, private industry, and public and private institutions;
 
@@ -26,7 +26,7 @@
 
 #### (b) School-age child care services; assurances; estimates
 
-(1) Subject to the provisions of subsections (c) and (d) of this section, amounts paid to a State under section 9873 of this title from its allotment under section 9872 of this title may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly, or by grant or contract, with public agencies or private nonprofit organizations of programs to furnish school-age child care services before and after school. Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.
+(1) Subject to the provisions of subsections (c) and (d), amounts paid to a State under section 9873 of this title from its allotment under section 9872 of this title may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly, or by grant or contract, with public agencies or private nonprofit organizations of programs to furnish school-age child care services before and after school. Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.
 
 (2) The State, with respect to the uses of funds described in paragraph (1) of this subsection shall—
 
@@ -52,9 +52,9 @@
 
 (1) Except as provided in paragraph (2), of the allotment to each State in each fiscal year—
 
-&emsp;(A) 40 percent shall be available for the activities described in subsection (a) of this section;
+&emsp;(A) 40 percent shall be available for the activities described in subsection (a);
 
-&emsp;(B) 60 percent shall be available for the activities described in subsection (b) of this section.
+&emsp;(B) 60 percent shall be available for the activities described in subsection (b).
 
 (2) For any fiscal year the Secretary may waive the percentage requirements specified in paragraph (1) on the request of a State if such State demonstrates to the satisfaction of the Secretary—
 
@@ -112,11 +112,11 @@ Subsec. (d). Pub. L. 101–501, §303(b), redesignated pars. (2), (4), and (5) a
 
 Subsec. (d)(1). Pub. L. 101–501, §305(a)(4), which directed the substitution of "subsections (a) and (b) of this section" for "subsection (a) of this section", could not be executed because of the intervening amendment by Pub. L. 101–501, §303(b), see above.
 
-Subsec. (f). Pub. L. 101–501, §§303(a)(4), 305(a)(5), inserted "operate," after "expand," and substituted "which are provided before October 30, 1984," for ", which prior to October 30, 1984, are provided".
+Subsec. (f). Pub. L. 101–501, §§303(a)(4), 305(a)(5), inserted "operate," after "expand," and substituted"which are provided before October 30, 1984," for ", which prior to October 30, 1984, are provided".
 
 Subsec. (g). Pub. L. 101–501, §305(a)(6), substituted "carrying out activities" for "operating activities to be carried out".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–425, §302(a), designated existing provisions as par. (1), substituted "system mayinclude" for "system shall include", redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: "In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided", and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–425, §302(a), designated existing provisions as par. (1), substituted "system may include" for "system shall include", redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: "In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided", and added par. (2).
 
 Subsec. (b)(1). Pub. L. 99–425, §302(b)(1), struck out "where school facilities are not available" after "centers in communities".
 

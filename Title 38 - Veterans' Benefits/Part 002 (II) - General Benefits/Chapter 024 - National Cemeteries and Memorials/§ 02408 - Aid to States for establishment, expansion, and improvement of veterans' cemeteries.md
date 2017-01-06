@@ -104,7 +104,7 @@ Subsec. (b)(3), (4). Pub. L. 100–322, §343(2), redesignated par. (4) as (3). 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\]."
+Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\]."
 
 #### Effective Date
 

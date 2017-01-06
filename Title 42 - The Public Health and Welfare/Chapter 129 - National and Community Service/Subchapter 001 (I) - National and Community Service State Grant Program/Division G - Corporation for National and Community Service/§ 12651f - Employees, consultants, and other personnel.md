@@ -2,7 +2,7 @@
 
 #### (a) Employees
 
-Except as provided in subsection (b) of this section, section 12651e(d) of this title, and section 8E <sup>1</sup> of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+Except as provided in subsection (b), section 12651e(d) of this title, and section 8E <sup>1</sup> of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
 
 #### (b) Alternative personnel system
 
@@ -58,7 +58,7 @@ Except as provided in subsection (b) of this section, section 12651e(d) of this 
 
 #### (4) Compensation
 
-&emsp;If the employee designated under paragraph (1) is an employee whose appointment was made pursuant to subsection (b) of this section, the rate of compensation for such employee may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
+&emsp;If the employee designated under paragraph (1) is an employee whose appointment was made pursuant to subsection (b), the rate of compensation for such employee may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
 
 #### (d) Consultants
 
@@ -94,7 +94,7 @@ The head of any Federal department or agency may detail on a reimbursable basis,
 
 #### (B) Compensation
 
-&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
+&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payablefor GS–13 of the General Schedule under section 5332 of title 5.
 
 #### (g) Personal services contracts
 

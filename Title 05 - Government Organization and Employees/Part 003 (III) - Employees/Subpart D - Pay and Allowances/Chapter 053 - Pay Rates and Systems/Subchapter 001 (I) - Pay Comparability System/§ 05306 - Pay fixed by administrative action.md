@@ -12,7 +12,7 @@
 
 &emsp;(2) and minimum or maximum rate of pay (other than a maximum rate equal to or greater than the maximum rate then currently being paid under the General Schedule as a result of a pay adjustment under section 5303 (or prior corresponding provision of law)), and any monetary limitation on or monetary allowance for pay, applicable to employees described in subparagraphs (A), (B), and (C) of paragraph (1);
 
-> may be adjusted, by the appropriate authority concerned, effective at the beginning of the firstapplicable pay period commencing on or after the day on which a pay adjustment becomes effective under section 5303 (or prior provision of law), by whichever of the following methods the appropriate authority concerned considers appropriate—
+> may be adjusted, by the appropriate authority concerned, effective at the beginning of the first applicable pay period commencing on or after the day on which a pay adjustment becomes effective under section 5303 (or prior provision of law), by whichever of the following methods the appropriate authority concerned considers appropriate—
 
 &emsp;(i) by an amount or amounts not in excess of the pay adjustment provided under section 5303 for corresponding rates of pay in the appropriate schedule or scale of pay;
 

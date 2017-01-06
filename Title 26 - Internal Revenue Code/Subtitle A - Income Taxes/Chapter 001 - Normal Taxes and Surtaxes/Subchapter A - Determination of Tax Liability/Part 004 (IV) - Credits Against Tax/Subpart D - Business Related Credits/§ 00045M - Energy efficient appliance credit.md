@@ -176,7 +176,7 @@ For purposes of this section—
 
 &emsp;No amount shall be allowed as a credit under subsection (a) with respect to which the taxpayer has not submitted such information or certification as the Secretary, in consultation with the Secretary of Energy, determines necessary.
 
-(Added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 1030; amended Pub. L. 110–343, div. B, title III, §305(a)–(e), Oct. 3, 2008, 122 Stat. 3845–3847; Pub. L. 111–312, title VII, §709(a)–(d),Dec. 17, 2010, 124 Stat. 3312, 3313; Pub. L. 112–240, title IV, §409(a), (b), Jan. 2, 2013, 126 Stat. 2342.)
+(Added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 1030; amended Pub. L. 110–343, div. B, title III, §305(a)–(e), Oct. 3, 2008, 122 Stat. 3845–3847; Pub. L. 111–312, title VII, §709(a)–(d), Dec. 17, 2010, 124 Stat. 3312, 3313; Pub. L. 112–240, title IV, §409(a), (b), Jan. 2, 2013, 126 Stat. 2342.)
 
 #### Amendments
 

@@ -64,5 +64,5 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–342, title VIII, §808(b), Sept. 8, 1980, 94 Stat. 1097, provided that: "The amendments made by subsection (a) \[amending this section\] shall only apply totransportation of house trailers and mobile home dwellings which is completed after September 30, 1980."
+Pub. L. 96–342, title VIII, §808(b), Sept. 8, 1980, 94 Stat. 1097, provided that: "The amendments made by subsection (a) \[amending this section\] shall only apply to transportation of house trailers and mobile home dwellings which is completed after September 30, 1980."
 

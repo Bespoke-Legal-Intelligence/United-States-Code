@@ -18,7 +18,7 @@ All orders, determinations, rules, regulations, permits, grants, contracts, cert
 
 #### (c) Actions
 
-Except as provided in subsection (e) of this section—
+Except as provided in subsection (e)—
 
 &emsp;(1) the provisions of this chapter shall not affect suits commenced prior to May 4, 1980, and
 

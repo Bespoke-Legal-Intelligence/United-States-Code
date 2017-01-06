@@ -20,7 +20,7 @@ The Secretary of the Army is authorized to allot from any appropriations heretof
 
 <b>1976</b>—Pub. L. 94–587 increased limitation on allotment for a project at a single locality from $1,000,000 to $2,000,000 and for such a project protecting a major disaster area from $2,000,000 to $3,000,000.
 
-<b>1974</b>—Pub. L. 93–251, in revising provisions, increased fiscal year allotment to $30,000,000 from $25,000,000 and required allotment of $2,000,000 for a project at a single locality if such locality protects an area declared to be a major-disaster area pursuant to Disaster Relief Act of 1966 or Disaster Relief Act of 1970 in five-year period immediately preceding the date the Chief of Engineers deems such work advisable.
+<b>1974</b>—Pub. L. 93–251, in revising provisions, increased fiscal year allotment to $30,000,000 from $25,000,000 andrequired allotment of $2,000,000 for a project at a single locality if such locality protects an area declared to be a major-disaster area pursuant to Disaster Relief Act of 1966 or Disaster Relief Act of 1970 in five-year period immediately preceding the date the Chief of Engineers deems such work advisable.
 
 <b>1962</b>—Pub. L. 87–874 substituted "$25,000,000" for "$10,000,000", "projects for flood control and related purposes" for "flood control projects", and provisions limiting the allotment for a single project to $1,000,000 and providing that such allotment shall be sufficient to complete Federal participation, for provisions limiting the allotment for any single project to $400,000 from the appropriations for any fiscal year.
 
@@ -39,4 +39,36 @@ Pub. L. 97–140, §2(b), Dec. 29, 1981, 95 Stat. 1717, provided that: "The amen
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–587 not applicable to any project under contract for construction on Oct. 22, 1976, see section 133(c) of Pub. L. 94–587, set out as a note under section 577 of this title.
+
+#### Ice Jam Prevention and Mitigation
+
+Pub. L. 114–322, title I, §1150, Dec. 16, 2016, 130 Stat. 1661, provided that:
+
+"(a)
+
+In General.—The Secretary \[of the Army\] may carry out projects under section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), including planning, design, construction, and monitoring of structural and nonstructural technologies and measures, for preventing and mitigating flood damages associated with ice jams.
+
+"(b)
+
+Inclusion.—The projects described in subsection (a) may include the development and demonstration of cost-effective technologies and designs developed in consultation with—
+
+&emsp;"(1) the Cold Regions Research and Engineering Laboratory of the Corps of Engineers;
+
+&emsp;"(2) universities;
+
+&emsp;"(3) Federal, State, and local agencies; and
+
+&emsp;"(4) private organizations.
+
+"(c)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—During fiscal years 2017 through 2022, the Secretary shall identify and carry out not fewer than 10 projects under this section to demonstrate technologies and designs developed in accordance with this section.
+
+&emsp;"(2)
+
+Project selection.—The Secretary shall ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast."
 

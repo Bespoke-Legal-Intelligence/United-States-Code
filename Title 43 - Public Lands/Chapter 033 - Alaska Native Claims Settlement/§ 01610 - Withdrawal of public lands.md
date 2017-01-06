@@ -434,7 +434,7 @@
 
 &emsp;White Mountain, Bering Strait.
 
-(2) Within two and one-half years from December 18, 1971, the Secretary shall review all of the villages listed in subsection (b)(1) hereof, and a village shall not be eligible for land benefits under section 1613(a) and (b) of this title, and any withdrawal for such village shall expire, if the Secretary determines that—
+(2) Within two and one-half years from December 18, 1971, the Secretary shall review all of thevillages listed in subsection (b)(1) hereof, and a village shall not be eligible for land benefits under section 1613(a) and (b) of this title, and any withdrawal for such village shall expire, if the Secretary determines that—
 
 &emsp;(A) less than twenty-five Natives were residents of the village on the 1970 census enumeration date as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance; or
 

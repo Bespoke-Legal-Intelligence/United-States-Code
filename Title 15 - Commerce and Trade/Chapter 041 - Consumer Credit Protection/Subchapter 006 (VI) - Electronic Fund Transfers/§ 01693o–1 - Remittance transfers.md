@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the remittance transfer provider; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State agency that regulates the remittance transfer provider andthe Bureau, including the toll-free telephone number established under section 5493 of title 12.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State agency that regulates the remittance transfer provider and the Bureau, including the toll-free telephone number established under section 5493 of title 12.
 
 #### (3) Requirements relating to disclosures
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) paragraph (2)(A) orally, if the transaction is conducted entirely by telephone;
 
-&emsp;&emsp;(B) paragraph (2)(B), in the case of a transaction conducted entirely by telephone, by mailing the disclosures required under such subparagraph to the sender, not later than 1 business day after the date on which the transaction is conducted, or by including such documents in the next periodic statement, if the telephone transaction is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with the remittance transfer provider;
+&emsp;&emsp;(B) paragraph (2)(B), in the case of a transaction conducted entirely by telephone, bymailing the disclosures required under such subparagraph to the sender, not later than 1 business day after the date on which the transaction is conducted, or by including such documents in the next periodic statement, if the telephone transaction is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with the remittance transfer provider;
 
 &emsp;&emsp;(C) subparagraphs (A) and (B) of paragraph (2) together in one written disclosure, but only to the extent that the information provided in accordance with paragraph (3)(A) is accurate at the time at which payment is made in connection with the subject remittance transfer; and
 
@@ -168,7 +168,7 @@ If the Bureau determines that a recipient nation does not legally allow, or the 
 
 #### (2) Obligations of remittance transfer providers
 
-&emsp;The Bureau shall prescribe rules to implement appropriate standards or conditions of,liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Bureau under this section, may consider, in any action or other proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.
+&emsp;The Bureau shall prescribe rules to implement appropriate standards or conditions of, liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Bureau under this section, may consider, in any action or other proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.
 
 #### (g) Definitions
 
@@ -192,7 +192,7 @@ As used in this section—
 
 The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (a)(3)(B), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of this title and Tables.
 
-Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), is chapter 2 (§§121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 of title I of the Act to the Code, see Tables.
+Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(2)(A), is chapter 2 (§§121–129) of title I ofPub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 of title I of the Act to the Code, see Tables.
 
 #### Prior Provisions
 

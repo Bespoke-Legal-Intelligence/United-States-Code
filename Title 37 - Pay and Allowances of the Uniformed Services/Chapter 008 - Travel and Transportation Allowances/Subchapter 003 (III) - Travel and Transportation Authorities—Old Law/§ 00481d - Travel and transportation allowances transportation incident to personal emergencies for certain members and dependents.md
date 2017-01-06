@@ -10,7 +10,7 @@
 
 &emsp;(C) to an airport in Alaska, Hawaii, the Commonwealth of Puerto Rico, any possession of the United States, or any other location outside the continental United States, as determined by the Secretary concerned.
 
-(2) In the case of a member whose domicile is outside the continental United States and who is stationed in the continental United States and the dependents of such a member, transportation under this section may be provided from the international airport in the continental United States nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest the member's permanent duty station to an international airport in Alaska, Hawaii, the Commonwealth of Puerto Rico, a possession of the United States, or any other location outside the continental United States, as determined by the Secretary concerned.
+(2) In the case of a member whose domicile is outside the continental United States and who is stationed in the continental United States and the dependents of such a member, transportation under this section may be provided from the international airport in the continental United States nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest the member's permanent duty station to an international airport inAlaska, Hawaii, the Commonwealth of Puerto Rico, a possession of the United States, or any other location outside the continental United States, as determined by the Secretary concerned.
 
 (3) In the case of a member stationed outside the continental United States whose dependents reside in the continental United States, transportation under this section may be provided for the member as described in paragraph (1) and for the dependents as described in paragraph (2).
 
@@ -20,7 +20,7 @@
 
 (d) No transportation may be provided under this section after the travel authorities transition expiration date.
 
-(Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004, §411d; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L.100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 106–65, div. A, title VI, §633, Oct. 5, 1999, 113 Stat. 661; Pub. L. 107–314, div. A, title VI, §654(b)(5), Dec. 2, 2002, 116 Stat. 2582; renumbered §481d and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(18), Dec. 31, 2011, 125 Stat. 1460, 1463.)
+(Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004, §411d; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 106–65, div. A, title VI, §633, Oct. 5, 1999, 113 Stat. 661; Pub. L. 107–314, div. A, title VI, §654(b)(5), Dec. 2, 2002, 116 Stat. 2582; renumbered §481d and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(18), Dec. 31, 2011, 125 Stat. 1460, 1463.)
 
 #### Amendments
 

@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;The term "clean renewable energy bond" means any bond issued as part of an issue if—
 
-&emsp;&emsp;(A) the bond is issued by a qualified issuer pursuant to an allocation by the Secretary to such issuer of a portion of the national clean renewable energy bond limitation under subsection (f)(2),
+&emsp;&emsp;(A) the bond is issued by a qualified issuer pursuant to an allocation by the Secretaryto such issuer of a portion of the national clean renewable energy bond limitation under subsection (f)(2),
 
 &emsp;&emsp;(B) 95 percent or more of the proceeds of such issue are to be used for capital expenditures incurred by qualified borrowers for one or more qualified projects,
 
@@ -126,7 +126,7 @@ Gross income includes the amount of the credit allowed to the taxpayer under thi
 
 #### (2) Extension of period
 
-&emsp;Upon submission of a request prior to the expiration of the period described in paragraph (1)(A), the Secretary may extend such period if the qualified issuer establishes that the failure to satisfy the 5-year requirement is due to reasonable cause and the related projects will continue to proceed with due diligence.
+&emsp;Upon submission of a request prior to the expiration of the period described in paragraph\(1)(A), the Secretary may extend such period if the qualified issuer establishes that the failure to satisfy the 5-year requirement is due to reasonable cause and the related projects will continue to proceed with due diligence.
 
 #### (3) Failure to spend required amount of bond proceeds within 5 years
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rulessimilar to the rules of section 41(g) shall apply with respect to the credit allowable under subsection (a).
+&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under subsection (a).
 
 #### (B) No basis adjustment
 
@@ -218,7 +218,7 @@ The Rural Electrification Act, referred to in subsec. (j)(1), probably means the
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

@@ -26,9 +26,9 @@ An election under this section may provide for a survivor annuity based on all o
 
 &emsp;Such reduction shall be effective as of—
 
-&emsp;&emsp;(A) the commencing date of the participant's annuity, in the case of an election under subsection (b)(1) of this section; or
+&emsp;&emsp;(A) the commencing date of the participant's annuity, in the case of an election under subsection (b)(1); or
 
-&emsp;&emsp;(B) November 15, 1982, in the case of an election under subsection (b)(2) of this section.
+&emsp;&emsp;(B) November 15, 1982, in the case of an election under subsection (b)(2).
 
 (Pub. L. 88–643, title II, §223, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3216.)
 

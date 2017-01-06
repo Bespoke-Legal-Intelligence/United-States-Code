@@ -26,6 +26,8 @@ Terms and Conditions.—(1) Except as otherwise provided in this subsection, any
 
 &emsp;(B) the demonstration project commences before October 1, 2007.
 
+(4) The Secretary of Defense shall exercise the authorities granted to the Office of Personnel Management under section 4703 of title 5 for purposes of the demonstration project authorized under this section.
+
 (c)
 
 Limitation on Number of Participants.—The total number of persons who may participate in the demonstration project under this section may not exceed 120,000.
@@ -88,15 +90,21 @@ Termination of Authority.—The authority to conduct a demonstration project und
 
 Conversion.—Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5.
 
-(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916.)
+(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306.)
 
 #### Prior Provisions
 
 A prior section 1762, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1654; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, related to report by the Under Secretary of Defense for Acquisition, Technology, and Logistics to the Secretary of Defense on the status of the defense acquisition workforce, prior to repeal by Pub. L. 107–107, div. A, title X, §1048(e)(7)(A), Dec. 28, 2001, 115 Stat. 1227.
 
-Provisions similar to those in this section were contained in Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, which was set out as a note undersection 1701 of this title, prior to repeal by Pub. L. 111–383, §872(b).
+Provisions similar to those in this section were contained in Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, which was set out as a note under section 1701 of this title, prior to repeal by Pub. L. 111–383, §872(b).
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b)(4). Pub. L. 114–328 added par. (4).
+
 <b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "demonstration project" for "demonstration program" and "December 31, 2020" for "September 30, 2017".
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title VIII, §867(b), Dec. 23, 2016, 130 Stat. 2306, provided that: "Paragraph (4) of section 1762(b) of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning 60 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
 

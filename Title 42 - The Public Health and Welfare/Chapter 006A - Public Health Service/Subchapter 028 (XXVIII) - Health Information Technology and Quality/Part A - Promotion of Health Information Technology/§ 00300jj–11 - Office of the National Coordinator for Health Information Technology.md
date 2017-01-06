@@ -36,7 +36,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;The National Coordinator shall—
 
-&emsp;&emsp;(A) review and determine whether to endorse each standard, implementation specification, and certification criterion for the electronic exchange and use of health information that is recommended by the HIT Standards Committee under section 300jj–13 of this title for purposes of adoption under section 300jj–14 of this title;
+&emsp;&emsp;(A) review and determine whether to endorse each standard, implementation specification, and certification criterion for the electronic exchange and use of health information that is recommended by the HIT Advisory Committee under section 300jj–12 of this title for purposes of adoption under section 300jj–14 of this title;
 
 &emsp;&emsp;(B) make such determinations under subparagraph (A), and report to the Secretary such determinations, not later than 45 days after the date the recommendation is received by the Coordinator; and
 
@@ -48,15 +48,15 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;&emsp;The National Coordinator shall coordinate health information technology policy and programs of the Department with those of other relevant executive branch agencies with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes health information technology activities primarily within the areas of its greatest expertise and technical capability and in a manner towards a coordinated national goal.
 
-#### (B) HIT policy and standards committees
+#### (B) HIT Advisory Committee
 
-&emsp;&emsp;The National Coordinator shall be a leading member in the establishment and operations of the HIT Policy Committee and the HIT Standards Committee and shall serve as a liaison among those two Committees and the Federal Government.
+&emsp;&emsp;The National Coordinator shall be a leading member in the establishment and operations of the HIT Advisory Committee and shall serve as a liaison between that Committee and the Federal Government.
 
 #### (3) Strategic plan
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator shall, in consultation with other appropriate Federalagencies (including the National Institute of Standards and Technology), update the Federal Health IT Strategic Plan (developed as of June 3, 2008) to include specific objectives, milestones, and metrics with respect to the following:
+&emsp;&emsp;The National Coordinator shall, in consultation with other appropriate Federal agencies (including the National Institute of Standards and Technology), update the Federal Health IT Strategic Plan (developed as of June 3, 2008) to include specific objectives, milestones, and metrics with respect to the following:
 
 &emsp;&emsp;&emsp;(i) The electronic exchange and use of health information and the enterprise integration of such information.
 
@@ -66,7 +66,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;&emsp;&emsp;(iv) Ensuring security methods to ensure appropriate authorization and electronic authentication of health information and specifying technologies or methodologies for rendering health information unusable, unreadable, or indecipherable.
 
-&emsp;&emsp;&emsp;(v) Specifying a framework for coordination and flow of recommendations and policies under this part among the Secretary, the National Coordinator, the HIT Policy Committee, the HIT Standards Committee, and other health information exchanges and other relevant entities.
+&emsp;&emsp;&emsp;(v) Specifying a framework for coordination and flow of recommendations and policies under this part among the Secretary, the National Coordinator, the HIT Advisory Committee, and other health information exchanges and other relevant entities.
 
 &emsp;&emsp;&emsp;(vi) Methods to foster the public understanding of health information technology.
 
@@ -99,6 +99,66 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 #### (B) Certification criteria described
 
 &emsp;&emsp;In this subchapter, the term "certification criteria" means, with respect to standards and implementation specifications for health information technology, criteria to establish that the technology meets such standards and implementation specifications.
+
+#### (C) Health information technology for medical specialties and sites of service
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The National Coordinator shall encourage, keep, or recognize, through existing authorities, the voluntary certification of health information technology under the program developed under subparagraph (A) for use in medical specialties and sites of service for which no such technology is available or where more technological advancement or integration is needed.
+
+#### (ii) Specific medical specialties
+
+&emsp;&emsp;&emsp;The Secretary shall accept public comment on specific medical specialties and sites of service, in addition to those described in clause (i), for the purpose of selecting additional specialties and sites of service as necessary.
+
+#### (iii) Health information technology for pediatrics
+
+&emsp;&emsp;&emsp;Not later than 18 months after December 13, 2016, the Secretary, in consultationwith relevant stakeholders, shall make recommendations for the voluntary certification of health information technology for use by pediatric health providers to support the health care of children. Not later than 2 years after December 13, 2016, the Secretary shall adopt certification criteria under section 300jj–14 of this title to support the voluntary certification of health information technology for use by pediatric health providers to support the health care of children.
+
+#### (D) Conditions of certification
+
+&emsp;&emsp;Not later than 1 year after December 13, 2016, the Secretary, through notice and comment rulemaking, shall require, as a condition of certification and maintenance of certification for programs maintained or recognized under this paragraph, consistent with other conditions and requirements under this subchapter, that the health information technology developer or entity—
+
+&emsp;&emsp;&emsp;(i) does not take any action that constitutes information blocking as defined in section 300jj–52(a) of this title;
+
+&emsp;&emsp;&emsp;(ii) provides assurances satisfactory to the Secretary that such developer or entity, unless for legitimate purposes specified by the Secretary, will not take any action described in clause (i) or any other action that may inhibit the appropriate exchange, access, and use of electronic health information;
+
+&emsp;&emsp;&emsp;(iii) does not prohibit or restrict communication regarding—
+
+&emsp;&emsp;&emsp;&emsp;(I) the usability of the health information technology;
+
+&emsp;&emsp;&emsp;&emsp;(II) the interoperability of the health information technology;
+
+&emsp;&emsp;&emsp;&emsp;(III) the security of the health information technology;
+
+&emsp;&emsp;&emsp;&emsp;(IV) relevant information regarding users' experiences when using the health information technology;
+
+&emsp;&emsp;&emsp;&emsp;(V) the business practices of developers of health information technology related to exchanging electronic health information; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) the manner in which a user of the health information technology has used such technology;
+
+&emsp;&emsp;&emsp;(iv) has published application programming interfaces and allows health information from such technology to be accessed, exchanged, and used without special effort through the use of application programming interfaces or successor technology or standards, as provided for under applicable law, including providing access to all data elements of a patient's electronic health record to the extent permissible under applicable privacy laws;
+
+&emsp;&emsp;&emsp;(v) has successfully tested the real world use of the technology for interoperability (as defined in section 300jj of this title) in the type of setting in which such technology would be marketed;
+
+&emsp;&emsp;&emsp;(vi) provides to the Secretary an attestation that the developer or entity—
+
+&emsp;&emsp;&emsp;&emsp;(I) has not engaged in any of the conduct described in clause (i);
+
+&emsp;&emsp;&emsp;&emsp;(II) has provided assurances satisfactory to the Secretary in accordance with clause (ii);
+
+&emsp;&emsp;&emsp;&emsp;(III) does not prohibit or restrict communication as described in clause (iii);
+
+&emsp;&emsp;&emsp;&emsp;(IV) has published information in accordance with clause (iv);
+
+&emsp;&emsp;&emsp;&emsp;(V) ensures that its technology allows for health information to be exchanged, accessed, and used, in the manner described in clause (iv); and
+
+&emsp;&emsp;&emsp;&emsp;(VI) has undertaken real world testing as described in clause (v); and
+
+&emsp;&emsp;&emsp;(vii) submits reporting criteria in accordance with section 300jj–19a(b) of this title.
+
+#### (E) Compliance with conditions of certification
+
+&emsp;&emsp;The Secretary may encourage compliance with the conditions of certification described in subparagraph (D) and take action to discourage noncompliance, as appropriate.
 
 #### (6) Reports and publications
 
@@ -138,6 +198,74 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;The National Coordinator shall establish a governance mechanism for the nationwide health information network.
 
+#### (9) Support for interoperable networks exchange
+
+#### (A) In general
+
+&emsp;&emsp;The National Coordinator shall, in collaboration with the National Institute of Standards and Technology and other relevant agencies within the Department of Health and Human Services, for the purpose of ensuring full network-to-network exchange of health information, convene public-private and public-public partnerships to build consensus and develop or support a trusted exchange framework, including a common agreement among health information networks nationally. Such convention may occur at a frequency determined appropriate by the Secretary.
+
+#### (B) Establishing a trusted exchange framework
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 6 months after December 13, 2016, the National Coordinator shall convene appropriate public and private stakeholders to develop or support a trusted exchange framework for trust policies and practices and for a common agreement for exchange between health information networks. The common agreement may include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a common method for authenticating trusted health information network participants;
+
+&emsp;&emsp;&emsp;&emsp;(II) a common set of rules for trusted exchange;
+
+&emsp;&emsp;&emsp;&emsp;(III) organizational and operational policies to enable the exchange of health information among networks, including minimum conditions for such exchange to occur; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) a process for filing and adjudicating noncompliance with the terms of the common agreement.
+
+#### (ii) Technical assistance
+
+&emsp;&emsp;&emsp;The National Coordinator, in collaboration with the National Institute of Standards and Technology, shall provide technical assistance on how to implement the trusted exchange framework and common agreement under this paragraph.
+
+#### (iii) Pilot testing
+
+&emsp;&emsp;&emsp;The National Coordinator, in consultation with the National Institute of Standards and Technology, shall provide for the pilot testing of the trusted exchange framework and common agreement established or supported under this subsection (as authorized under section 17911 of this title). The National Coordinator, in consultation with the National Institute of Standards and Technology, may delegate pilot testing activities under this clause to independent entities with appropriate expertise.
+
+#### (C) Publication of a trusted exchange framework and common agreement
+
+&emsp;&emsp;Not later than 1 year after convening stakeholders under subparagraph (A), the National Coordinator shall publish on its public Internet website, and in the Federal register,<sup>2</sup> the trusted exchange framework and common agreement developed or supported under subparagraph (B). Such trusted exchange framework and common agreement shall be published in a manner that protects proprietary and security information, including trade secrets and any other protected intellectual property.
+
+#### (D) Directory of participating health information networks
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 2 years after convening stakeholders under subparagraph (A), and annually thereafter, the National Coordinator shall publish on its public Internet website a list of the health information networks that have adopted the common agreement and are capable of trusted exchange pursuant to the common agreement developed or supported under paragraph <sup>3</sup> (B).
+
+#### (ii) Process
+
+&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a processfor health information networks that voluntarily elect to adopt the trusted exchange framework and common agreement to attest to such adoption of the framework and agreement.
+
+#### (E) Application of the trusted exchange framework and common agreement
+
+&emsp;&emsp;As appropriate, Federal agencies contracting or entering into agreements with health information exchange networks may require that as each such network upgrades health information technology or trust and operational practices, such network may adopt, where available, the trusted exchange framework and common agreement published under subparagraph (C).
+
+#### (F) Rule of construction
+
+#### (i) General adoption
+
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to require a health information network to adopt the trusted exchange framework or common agreement.
+
+#### (ii) Adoption when exchange of information is within network
+
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to require a health information network to adopt the trusted exchange framework or common agreement for the exchange of electronic health information between participants of the same network.
+
+#### (iii) Existing frameworks and agreements
+
+&emsp;&emsp;&emsp;The trusted exchange framework and common agreement published under subparagraph (C) shall take into account existing trusted exchange frameworks and agreements used by health information networks to avoid the disruption of existing exchanges between participants of health information networks.
+
+#### (iv) Application by Federal agencies
+
+&emsp;&emsp;&emsp;Notwithstanding clauses (i), (ii), and (iii), Federal agencies may require the adoption of the trusted exchange framework and common agreement published under subparagraph (C) for health information exchanges contracting with or entering into agreements pursuant to subparagraph (E).
+
+#### (v) Consideration of ongoing work
+
+&emsp;&emsp;&emsp;In carrying out this paragraph, the Secretary shall ensure the consideration of activities carried out by public and private organizations related to exchange between health information exchanges to avoid duplication of efforts.
+
 #### (d) Detail of Federal employees
 
 #### (1) In general
@@ -160,11 +288,61 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 Not later than 12 months after February 17, 2009, the Secretary shall appoint a Chief Privacy Officer of the Office of the National Coordinator, whose duty it shall be to advise the National Coordinator on privacy, security, and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in such agencies), with State and regional efforts, and with foreign countries with regard to the privacy, security, and data stewardship of electronic individually identifiable health information.
 
-(July 1, 1944, ch. 373, title XXX, §3001, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 230.)
+(July 1, 1944, ch. 373, title XXX, §3001, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 230; amended Pub. L. 114–255, div. A, title IV, §§4001(b), 4002(a), 4003(b), (e)(2)(A)(i), (ii), (C), Dec. 13, 2016, 130 Stat. 1158, 1159, 1165, 1174.)
 
 #### References in Text
 
 The National Technology Transfer Act of 1995 (15 U.S.C. 272 note), referred to in subsec. (c)(7), probably means section 12(d) of Pub. L. 104–113, known as the National Technology Transfer and Advancement Act of 1995, which is set out as a note under section 272 of Title 15, Commerce and Trade.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(1)(A). Pub. L. 114–255, §4003(e)(2)(C)(i), substituted "under section 300jj–12 of this title" for "under section 300jj–13 of this title".
+
+Pub. L. 114–255, §4003(e)(2)(A)(i), substituted "HIT Advisory Committee" for "HIT Standards Committee".
+
+Subsec. (c)(2)(B). Pub. L. 114–255, §4003(e)(2)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "The National Coordinator shall be a leading member in the establishment and operations of the HIT Policy Committee and the HIT Standards Committee and shall serve as a liaison among those two Committees and the Federal Government."
+
+Subsec. (c)(3)(A)(v). Pub. L. 114–255, §4003(e)(2)(A)(ii), which directed amendment of this section by substituting "HIT Advisory Committee" for "HIT Policy Committee and the HIT Standards Committee" wherever appearing, was executed to cl. (v) by making the substitution for "HIT Policy Committee, the HIT Standards Committee", to reflect the probable intent of Congress.
+
+Subsec. (c)(5)(C). Pub. L. 114–255, §4001(b), added subpar. (C).
+
+Subsec. (c)(5)(D), (E). Pub. L. 114–255, §4002(a), added subpars. (D) and (E).
+
+Subsec. (c)(6)(A). Pub. L. 114–255, §4003(e)(2)(A)(i), which directed amendment of this section by substituting "HIT Advisory Committee" for both "HIT Policy Committee" and "HIT Standards Committee" wherever appearing, but not within the term "HIT Policy Committee or the HIT Standards Committee", was not executed to subpar. (A) as provided in the exception, notwithstanding text that reads "HIT Policy Committee or HIT Standards Committee", to reflect the probable intent of Congress.
+
+Subsec. (c)(9). Pub. L. 114–255, §4003(b), added par. (9).
+
+#### Provider Digital Contact Information Index
+
+Pub. L. 114–255, div. A, title IV, §4003(c), Dec. 13, 2016, 130 Stat. 1167, provided that:
+
+"(1)
+
+In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall, directly or through a partnership with a private entity, establish a provider digital contact information index to provide digital contact information for health professionals and health facilities.
+
+"(2)
+
+Use of existing index.—In establishing the initial index under paragraph (1), the Secretary may utilize an existing provider directory to make such digital contact information available.
+
+"(3)
+
+Contact information.—An index established under this subsection shall ensure that contact information is available at the individual health care provider level and at the health facility or practice level.
+
+"(4)
+
+Rule of construction.—
+
+&emsp;"(A)
+
+In general.—The purpose of this subsection is to encourage the exchange of electronic health information by providing the most useful, reliable, and comprehensive index of providers possible. In furthering such purpose, the Secretary shall include all health professionals and health facilities applicable to provide a useful, reliable, and comprehensive index for use in the exchange of health information.
+
+&emsp;"(B)
+
+Limitation.—In no case shall exclusion from the index of providers be used as a measure to achieve objectives other \[than\] the objectives described in subparagraph (A)."
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "Register,".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

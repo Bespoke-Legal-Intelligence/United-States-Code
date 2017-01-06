@@ -4,7 +4,7 @@ Section 1855, act Sept. 30, 1950, ch. 1125 §1, 64 Stat. 1109, set out Congressi
 
 Section 1855a, acts Sept. 30, 1950, ch. 1125, §2, 64 Stat. 1109; June 27, 1962, Pub. L. 87–502, §1, 76 Stat. 111; Nov. 6, 1966, Pub. L. 89–769, §6(a), 80 Stat. 1317, defined "major disasters", "United States", "State", "governor", "local government", and "Federal agency".
 
-Section 1855b, acts Sept. 30, 1950, ch. 1125, §3, 64 Stat. 1110; Aug. 3, 1951, ch. 293, §2, 65 Stat. 173; July 17, 1953, ch. 225, 67 Stat. 180; June 27, 1962, Pub. L. 87–502, §2, 76 Stat. 111, authorized and directed Federal agencies to render assistance in event of major disasters.
+Section 1855b, acts Sept. 30, 1950, ch. 1125, §3, 64 Stat. 1110; Aug. 3, 1951, ch. 293, §2, 65 Stat. 173; July 17, 1953, ch. 225, 67 Stat. 180; June 27, 1962, Pub. L. 87–502, §2, 76Stat. 111, authorized and directed Federal agencies to render assistance in event of major disasters.
 
 Section 1855c, act Sept. 30, 1950, ch. 1125, §4, 64 Stat. 1110, directed Federal agencies to cooperate with each other and with other agencies in providing assistance.
 

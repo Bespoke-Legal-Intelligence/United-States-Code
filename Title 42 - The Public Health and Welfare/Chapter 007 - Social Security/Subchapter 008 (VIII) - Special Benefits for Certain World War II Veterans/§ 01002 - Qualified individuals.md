@@ -6,13 +6,13 @@ Except as otherwise provided in this subchapter, an individual—
 
 &emsp;(2) who is a World War II veteran;
 
-&emsp;(3) who is eligible for a supplemental security income benefit under subchapter XVI of this chapter for—
+&emsp;(3) who is eligible for a supplemental security income benefit under subchapter XVI for—
 
 &emsp;&emsp;(A) the month in which this subchapter is enacted; and
 
 &emsp;&emsp;(B) the month in which the individual files an application for benefits under this subchapter;
 
-&emsp;(4) whose total benefit income is less than 75 percent of the Federal benefit rate under subchapter XVI of this chapter;
+&emsp;(4) whose total benefit income is less than 75 percent of the Federal benefit rate under subchapter XVI;
 
 &emsp;(5) who has filed an application for benefits under this subchapter; and
 

@@ -14,7 +14,7 @@ The Director of the Central Intelligence Agency shall—
 
 &emsp;(1) serve as the head of the Central Intelligence Agency; and
 
-&emsp;(2) carry out the responsibilities specified in subsection (d) of this section.
+&emsp;(2) carry out the responsibilities specified in subsection (d).
 
 #### (d) Responsibilities
 
@@ -36,7 +36,7 @@ The Director of the Central Intelligence Agency shall—
 
 #### (f) Coordination with foreign governments
 
-Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+Under the direction of the Director of National Intelligence and in a manner consistentwith section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
 #### (g) Foreign language proficiency for certain senior level positions in Central Intelligence Agency
 

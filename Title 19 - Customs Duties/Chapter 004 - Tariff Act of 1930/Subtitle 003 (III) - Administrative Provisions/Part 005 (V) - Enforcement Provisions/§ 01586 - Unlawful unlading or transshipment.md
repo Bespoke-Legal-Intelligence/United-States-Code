@@ -2,7 +2,7 @@
 
 #### (a) Penalty for unlading prior to grant of permission
 
-The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise\(including sea stores) to be unladen from such vessel at any time after its arrival within the customs waters and before such vessel has come to the proper place for the discharge of such merchandise, and before he has received a permit to unlade, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and such vessel and its cargo and the merchandise so unladen shall be seized and forfeited.
+The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise (including sea stores) to be unladen from such vessel at any time after its arrival within the customs waters and before such vessel has come to the proper place for the discharge of such merchandise, and before he has received a permit to unlade, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and such vessel and its cargo and the merchandise so unladen shall be seized and forfeited.
 
 #### (b) Penalty for transshipment to any vessel for purpose of unlawful entry
 
@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 103–182, §620(2), substituted "the Customs Service at th
 
 Subsec. (e). Pub. L. 99–570, §3119(2)(A), substituted "customs waters" for "one league of the coast of the United States".
 
-Pub. L. 99–570, §3119(2)(B), which directed that "15 years" be substituted for "2 years" was executed bymaking the substitution for "two years" as the probable intent of Congress.
+Pub. L. 99–570, §3119(2)(B), which directed that "15 years" be substituted for "2 years" was executed by making the substitution for "two years" as the probable intent of Congress.
 
 <b>1970</b>—Subsec. (f). Pub. L. 91–271 substituted references to appropriate customs officer for references to collector wherever appearing.
 
@@ -56,5 +56,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

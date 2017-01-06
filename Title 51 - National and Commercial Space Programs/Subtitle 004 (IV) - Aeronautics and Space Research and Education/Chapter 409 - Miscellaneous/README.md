@@ -58,7 +58,7 @@ In general.—The Administrator \[of the National Aeronautics and Space Administ
 
 &emsp;"(2)
 
-Reports.—(A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science \[now Committee on Science, Space,and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign required by paragraph (1) and the expected cost of those activities. NASA \[National Aeronautics and Space Administration\] may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
+Reports.—(A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign required by paragraph (1) and the expected cost of those activities. NASA \[National Aeronautics and Space Administration\] may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
 
 &emsp;"(B) Not later than three years after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the impact of the national awareness campaign.
 
@@ -126,7 +126,7 @@ Report.—Not later than one year after the date of enactment of this Act \[Dec.
 
 &emsp;&emsp;"(B) lists the research and development programs of Federal agencies other than NASA that were reviewed as part of the study, which shall include any program supporting research and development in an area related to the programs of NASA, and the most recent budget figures for those programs of other agencies;
 
-&emsp;&emsp;"(C) recommends any changes to the research and development programs of NASA that should be made in response to the findings of the study required by paragraph (1); and
+&emsp;&emsp;"(C) recommends any changes to the research and development programs of NASA that should bemade in response to the findings of the study required by paragraph (1); and
 
 &emsp;&emsp;"(D) describes mechanisms the Office of Science and Technology Policy will use to ensure adequate coordination between NASA and Federal agencies that operate related programs.
 
@@ -140,7 +140,7 @@ Pub. L. 109–155, title VI, §617, Dec. 30, 2005, 119 Stat. 2934, provided that
 
 #### Denial of Financial Assistance to Campus Disrupters
 
-Pub. L. 92–304, §6, May 19, 1972, 86 Stat. 161, provided generally that any institution of higher education deny for a two-year period payment under programs authorized by the National Aeronautics and Space Act of 1958 (see 51 U.S.C. 20101 et seq.) to any individual attendingor employed by such institution who has been convicted of any crime committed after May 19, 1972, which involved the use of force, disruption or seizure of property to prevent officers or students from engaging in their duties or pursuing their studies. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 92–304, §6, May 19, 1972, 86 Stat. 161, provided generally that any institution of higher education deny for a two-year period payment under programs authorized by the National Aeronautics and Space Act of 1958 (see 51 U.S.C. 20101 et seq.) to any individual attending or employed by such institution who has been convicted of any crime committed after May 19, 1972, which involved the use of force, disruption or seizure of property to prevent officers or students from engaging in their duties or pursuing their studies. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 92–68, §6, Aug. 6, 1971, 85 Stat. 177.
 

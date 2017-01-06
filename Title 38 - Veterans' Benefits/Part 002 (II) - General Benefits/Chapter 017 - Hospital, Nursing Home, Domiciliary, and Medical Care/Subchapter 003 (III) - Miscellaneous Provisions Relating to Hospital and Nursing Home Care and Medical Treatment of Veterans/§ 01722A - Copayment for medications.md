@@ -1,6 +1,6 @@
 ### §1722A. Copayment for medications
 
-(a)(1) Subject to paragraph (2), the Secretary shall require a veteran to pay the United States$2 for each 30-day supply of medication furnished such veteran under this chapter on an outpatient basis for the treatment of a non-service-connected disability or condition. If the amount supplied is less than a 30-day supply, the amount of the charge may not be reduced.
+(a)(1) Subject to paragraph (2), the Secretary shall require a veteran to pay the United States $2 for each 30-day supply of medication furnished such veteran under this chapter on an outpatient basis for the treatment of a non-service-connected disability or condition. If the amount supplied is less than a 30-day supply, the amount of the charge may not be reduced.
 
 (2) The Secretary may not require a veteran to pay an amount in excess of the cost to the Secretary for medication described in paragraph (1).
 
@@ -8,9 +8,13 @@
 
 &emsp;(A) to a veteran with a service-connected disability rated 50 percent or more;
 
-&emsp;(B) to a veteran who is a former prisoner of war; or
+&emsp;(B) to a veteran who is a former prisoner of war;
 
-&emsp;(C) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title.
+&emsp;(C) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title; or
+
+&emsp;(D) to a veteran who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14.
+
+(4) Paragraph (1) does not apply to opioid antagonists furnished under this chapter to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
 
 (b) The Secretary, pursuant to regulations which the Secretary shall prescribe, may—
 
@@ -20,9 +24,13 @@
 
 (c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 
-(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, §113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, §101(b), Dec. 6, 2003, 117 Stat. 2043.)
+(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, §113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, §101(b), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 114–198, title IX, §915(a), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(a), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–315, title VI, §603(d), Dec. 16, 2016, 130 Stat. 1570.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3)(D). Pub. L. 114–315 added subpar. (D).
+
+Subsec. (a)(4). Pub. L. 114–198 and Pub. L. 114–223 amended subsec. (a) identically, adding par. (4).
 
 <b>2003</b>—Subsec. (a)(3)(B), (C). Pub. L. 108–170 added subpar. (B) and redesignated former subpar. (B) as (C).
 

@@ -38,7 +38,7 @@ Utilizing the authority of subchapter II of this chapter or any other provision 
 
 Section was formerly classified to section 2077 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (b)(2)(B)(ii), "section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41" substituted for "section 303(b)(1)(B) or section 303(c)(3) of the Federal Propertyand Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2)(B)(ii), "section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41" substituted for "section 303(b)(1)(B) or section 303(c)(3) of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

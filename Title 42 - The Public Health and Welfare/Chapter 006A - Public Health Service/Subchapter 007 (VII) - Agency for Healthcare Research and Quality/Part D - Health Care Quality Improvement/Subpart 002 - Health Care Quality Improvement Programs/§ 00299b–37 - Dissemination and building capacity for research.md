@@ -28,7 +28,7 @@ Nothing in this section shall preclude the Institute from making its research fi
 
 #### (e) Training of researchers
 
-The Agency for Health Care Research and Quality, in consultation with the National Institutes of Health, shall build capacity for comparative clinical effectiveness research by establishing a grant program that provides for the training of researchers in the methods used to conduct such research, including systematic reviews of existing research and primary research such as clinical trials. At a minimum, such training shall be in methods that meet themethodological standards adopted under section 1320e(d)(9) of this title.
+The Agency for Health Care Research and Quality, in consultation with the National Institutes of Health, shall build capacity for comparative clinical effectiveness research by establishing a grant program that provides for the training of researchers in the methods used to conduct such research, including systematic reviews of existing research and primary research such as clinical trials. At a minimum, such training shall be in methods that meet the methodological standards adopted under section 1320e(d)(9) of this title.
 
 #### (f) Building data for research
 

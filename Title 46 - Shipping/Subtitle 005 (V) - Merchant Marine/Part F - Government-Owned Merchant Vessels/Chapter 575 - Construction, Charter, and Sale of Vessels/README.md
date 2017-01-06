@@ -28,6 +28,7 @@
 | [57519\.](Subchapter%20002%20%28II%29%20-%20Charters/%C2%A7%2057519%20-%20Insurance.md) | Insurance. |
 | [57520\.](Subchapter%20002%20%28II%29%20-%20Charters/%C2%A7%2057520%20-%20Vessel%20maintenance.md) | Vessel maintenance. |
 | [57521\.](Subchapter%20002%20%28II%29%20-%20Charters/%C2%A7%2057521%20-%20Termination%20of%20charter%20during%20national%20emergency.md) | Termination of charter during national emergency. |
+| [57522\.](Subchapter%20002%20%28II%29%20-%20Charters/%C2%A7%2057522%20-%20Books%20and%20records%2C%20balance%20sheets%2C%20and%20inspection%20and%20auditing.md) | Books and records, balance sheets, and inspection and auditing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +43,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title III, §313(c)(2), Feb. 8, 2016, 130 Stat. 59, added item 57522.
 
 <b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3511(b), Jan. 28, 2008, 122 Stat. 594, added item 57533.
 

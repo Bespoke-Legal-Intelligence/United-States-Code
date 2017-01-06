@@ -10,13 +10,13 @@ For purposes of subsection (a) of this section:
 
 #### (1) Hispanic Center of Excellence in Applied Gerontology
 
-&emsp;The term "Hispanic Center of Excellence in Applied Gerontology" means an institution of higher education with a program in applied gerontology that—
+&emsp;The term "Hispanic Center of Excellence in Applied Gerontology" means an institution ofhigher education with a program in applied gerontology that—
 
 &emsp;&emsp;(A) has a significant number of Hispanic individuals enrolled in the program, including individuals accepted for enrollment in the program;
 
 &emsp;&emsp;(B) has been effective in assisting Hispanic students of the program to complete the program and receive the degree involved;
 
-&emsp;&emsp;(C) has been effective in recruiting Hispanic individuals to attend the program, including providing scholarships and other financial assistance to such individuals and encouraging Hispanic students of secondaryeducational institutions to attend the program; and
+&emsp;&emsp;(C) has been effective in recruiting Hispanic individuals to attend the program, including providing scholarships and other financial assistance to such individuals and encouraging Hispanic students of secondary educational institutions to attend the program; and
 
 &emsp;&emsp;(D) has made significant recruitment efforts to increase the number and placement of Hispanic individuals serving in faculty or administrative positions in the program.
 

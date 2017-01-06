@@ -6,7 +6,7 @@ For the purpose of improving program management and effectiveness, the Secretary
 
 #### (b) Opinions of participants; data as property of United States; availability of information
 
-(1) In carrying out evaluations under this section, the Secretary of Education shall obtain the opinions of program and project participantsabout the strengths and weaknesses of the programs and projects.
+(1) In carrying out evaluations under this section, the Secretary of Education shall obtain the opinions of program and project participants about the strengths and weaknesses of the programs and projects.
 
 (2) The Secretary of Education shall take the necessary action to assure that all studies, evaluations, proposals, and data produced or developed with Federal funds under this chapter shall become the property of the United States.
 

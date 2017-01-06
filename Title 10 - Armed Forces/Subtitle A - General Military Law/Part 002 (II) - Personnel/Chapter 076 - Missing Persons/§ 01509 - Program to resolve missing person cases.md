@@ -4,7 +4,7 @@
 
 Program Required; Covered Conflicts.—The Secretary of Defense shall implement a comprehensive, coordinated, integrated, and fully resourced program to account for persons described in subparagraph (A) or (B) of section 1513(1) of this title who are unaccounted for from the following conflicts:
 
-&emsp;(1) World War II during the period beginning on December 7, 1941, and ending on December 31, 1946, including members of the armed forces who were lost during flight operations in the Pacific theater of operations covered bysection 576 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 10 U.S.C. 1501 note).
+&emsp;(1) World War II during the period beginning on December 7, 1941, and ending on December 31, 1946, including members of the armed forces who were lost during flight operations in the Pacific theater of operations covered by section 576 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 10 U.S.C. 1501 note).
 
 &emsp;(2) The Cold War during the period beginning on September 2, 1945, and ending on August 21, 1991.
 
@@ -36,7 +36,7 @@ Implementation.—(1) The Secretary of Defense shall implement the program withi
 
 (c)
 
-Treatment as Missing Persons.—Each unaccounted for person covered by subsection (a) shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
+Treatment as Missing Persons.—Each unaccounted for person covered by subsection (a)shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
 
 (d)
 
@@ -76,7 +76,7 @@ Coordination Requirements.—(1) In carrying out the program, the designated Age
 
 (3) In carrying out the program, the designated Agency Director shall coordinate all external communications and events associated with the program.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L.104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, §541(a), Oct. 28, 2009, 123 Stat. 2296; Pub. L. 113–291, div. A, title IX, §916(d), (f)(1), Dec. 19, 2014, 128 Stat. 3478, 3479.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, §541(a), Oct. 28, 2009, 123 Stat. 2296; Pub. L. 113–291, div. A, title IX, §916(d), (f)(1), Dec. 19, 2014, 128 Stat. 3478, 3479.)
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Subsec. (f)(3). Pub. L. 113–291, §916(d)(3)(C), added par. (3).
 
 "(a)
 
-Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title."
+Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a personspecified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title."
 
 Subsec. (d). Pub. L. 105–85, §599(e)(2), added subsec. (d).
 

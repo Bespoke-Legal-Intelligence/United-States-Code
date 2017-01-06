@@ -66,7 +66,7 @@ For purposes of this section—
 
 Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (c)(2)(A), is classified to section 254l(g)(1)(A) of Title 42, The Public Health and Welfare.
 
-Section 448(e) of the Higher Education Act of 1965, referred to in subsec. (c)(2)(C), is classified to section 2756b(e) of Title 42, The Public Health and Welfare.
+Section 448(e) of the Higher Education Act of 1965, referred to in subsec. (c)(2)(C), is classified to section 1087–58(e) of Title 20, Education.
 
 #### Amendments
 
@@ -186,7 +186,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 123(a) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 123(a) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I ofPub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

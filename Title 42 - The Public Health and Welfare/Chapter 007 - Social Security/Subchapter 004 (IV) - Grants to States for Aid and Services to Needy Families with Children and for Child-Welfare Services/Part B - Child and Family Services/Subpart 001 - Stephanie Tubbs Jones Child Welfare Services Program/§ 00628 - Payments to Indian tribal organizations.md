@@ -6,13 +6,13 @@ The Secretary may, in appropriate cases (as determined by the Secretary) make pa
 
 #### (b) Inclusion in State allotment
 
-Amounts paid under subsection (a) of this section shall be deemed to be a part of the allotment (as determined under section 623 of this title) for the State in which such Indian tribal organization is located.
+Amounts paid under subsection (a) shall be deemed to be a part of the allotment (as determined under section 623 of this title) for the State in which such Indian tribal organization is located.
 
 #### (c) "Indian tribe" and "tribal organization" defined
 
-For purposes of this section, the terms "Indian tribe" and "tribal organization" shall have the meanings given such terms by subsections (e) and (l) of section 450b of title 25, respectively.
+For purposes of this section, the terms "Indian tribe" and "tribal organization" shall have the meanings given such terms by subsections (e) and (l) of section 5304 of title 25, respectively.
 
-(Aug. 14, 1935, ch. 531, title IV, §428, as added Pub. L. 96–272, title I, §103(b), June 17, 1980, 94 Stat. 520; amended Pub. L. 103–66, title XIII, §13711(b)(3), Aug. 10, 1993, 107 Stat. 655; Pub. L. 104–193, title III, §375(d), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 109–288, §6(f)(1), Sept. 28, 2006, 120 Stat. 1247.)
+(Aug. 14, 1935, ch. 531, title IV, §428, as added Pub. L. 96–272, title I, §103(b), June 17, 1980, 94Stat. 520; amended Pub. L. 103–66, title XIII, §13711(b)(3), Aug. 10, 1993, 107 Stat. 655; Pub. L. 104–193, title III, §375(d), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 109–288, §6(f)(1), Sept. 28, 2006, 120 Stat. 1247.)
 
 #### Amendments
 

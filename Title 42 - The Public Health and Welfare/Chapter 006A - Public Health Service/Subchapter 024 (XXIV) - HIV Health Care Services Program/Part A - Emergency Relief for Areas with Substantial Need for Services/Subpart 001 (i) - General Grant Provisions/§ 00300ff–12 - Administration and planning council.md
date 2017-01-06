@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the health and support services personnel needs of such subdivisions; and
 
-&emsp;&emsp;&emsp;(ii) establish an HIV health services planning council in accordance with subsection (b) of this section.
+&emsp;&emsp;&emsp;(ii) establish an HIV health services planning council in accordance with subsection (b).
 
 #### (B) Local political subdivision
 
@@ -34,7 +34,7 @@
 
 #### (1) Establishment
 
-&emsp;To be eligible for assistance under this subpart, the chief elected official described in subsection (a)(1) of this section shall establish or designate an HIV health services planning council that shall reflect in its composition the demographics of the population of individuals with HIV/AIDS in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations. Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).
+&emsp;To be eligible for assistance under this subpart, the chief elected official described in subsection (a)(1) shall establish or designate an HIV health services planning council that shall reflect in its composition the demographics of the population of individuals with HIV/AIDS in the eligible area involved, with particular consideration given to disproportionately affected and historically underserved groups and subpopulations. Nominations for membership on the council shall be identified through an open process and candidates shall be selected based on locally delineated and publicized criteria. Such criteria shall include a conflict-of-interest standard that is in accordance with paragraph (5).
 
 #### (2) Representation
 
@@ -56,9 +56,9 @@
 
 &emsp;&emsp;(H) nonelected community leaders;
 
-&emsp;&emsp;(I) State government (including the State medicaid agency and the agency administering the program under part B of this subchapter);
+&emsp;&emsp;(I) State government (including the State medicaid agency and the agency administering the program under part B);
 
-&emsp;&emsp;(J) grantees under subpart II <sup>1</sup> of part C of this subchapter;
+&emsp;&emsp;(J) grantees under subpart II <sup>1</sup> of part C;
 
 &emsp;&emsp;(K) grantees under section 300ff–71 of this title, or, if none are operating in the area, representatives of organizations with a history of serving children, youth, women, and families living with HIV and operating in the area;
 
@@ -114,9 +114,9 @@
 
 &emsp;&emsp;&emsp;(iv) includes a strategy, coordinated as appropriate with other community strategies and efforts, including discrete goals, a timetable, and appropriate funding, for identifying individuals with HIV/AIDS who do not know their HIV status, making such individuals aware of such status, and enabling such individuals to use the health and support services described in section 300ff–14 of this title, with particular attention to reducing barriers to routine testing and disparities in access and services among affected subpopulations and historically underserved communities;
 
-&emsp;&emsp;(E) assess the efficiency of the administrative mechanism in rapidly allocating funds to the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
+&emsp;&emsp;(E) assess the efficiency of the administrative mechanism in rapidly allocating fundsto the areas of greatest need within the eligible area, and at the discretion of the planning council, assess the effectiveness, either directly or through contractual arrangements, of the services offered in meeting the identified needs;
 
-&emsp;&emsp;(F) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B of this subchapter;
+&emsp;&emsp;(F) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B;
 
 &emsp;&emsp;(G) establish methods for obtaining input on community needs and priorities which may include public meetings (in accordance with paragraph (7)), conducting focus groups, and convening ad-hoc panels; and
 
@@ -138,11 +138,11 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 33 percent of the council shall be individuals who are receiving HIV-related services pursuant to a grant under section 300ff–11(a) of this title, are not officers, employees, or consultants to any entity that receives amounts from such a grant, and do not represent any such entity, and reflect the demographics of the population of individuals with HIV/AIDS as determined under paragraph (4)(A). For purposes of the preceding sentence, an individual shall be considered to be receiving such services if the individual is a parent of, or a caregiver for, a minor child who is receiving such services.
 
-&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not be construed as having any effect on entities that receive funds from grants under any of parts B through F of this subchapter but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
+&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not be construed as having any effect on entities that receive funds from grants under any of parts B through F but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
 
 #### (6) Grievance procedures
 
-&emsp;A planning council under paragraph (1) shall develop procedures for addressing grievances with respect to funding under this subpart, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c) of this section.
+&emsp;A planning council under paragraph (1) shall develop procedures for addressing grievances with respect to funding under this subpart, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c).
 
 #### (7) Public deliberations
 
@@ -166,7 +166,7 @@
 
 #### (A) Models
 
-&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this subpart and public and private experts in grievance procedures, arbitration, and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this subpart.Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
+&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this subpart and public and private experts in grievance procedures, arbitration, and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) and grantees under this subpart. Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
 
 #### (B) Review
 
@@ -182,7 +182,7 @@ Promptly after the date of the submission of the report required in section 501(
 
 &emsp;(1) for establishing the number of individuals living with HIV/AIDS who are not receiving HIV-related health services; and
 
-&emsp;(2) for carrying out the duties under subsection (b)(4) of this section and section 300ff–27(b) of this title.
+&emsp;(2) for carrying out the duties under subsection (b)(4) and section 300ff–27(b) of this title.
 
 #### (e) Training guidance and materials
 
@@ -192,7 +192,7 @@ The Secretary shall provide to each chief elected official receiving a grant und
 
 #### References in Text
 
-Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
+Subpart II of part C, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
 The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -120,7 +120,7 @@
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise beavailable under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
 
 #### (2) Amount of reduction
 
@@ -272,7 +272,7 @@ Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out v
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] andapplies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
+Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
 
 #### Transfer of Functions
 

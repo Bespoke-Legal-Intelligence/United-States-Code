@@ -46,7 +46,7 @@ As used in this subchapter:
 
 #### (8) Separated entity
 
-&emsp;The term "separated entity" means a privatized entity to whom a portion of the assets owned by INTELSAT or Inmarsat are transferred prior to full privatization ofINTELSAT or Inmarsat, including in particular the entity whose structure was under discussion by INTELSAT as of March 25, 1998, but excluding ICO.
+&emsp;The term "separated entity" means a privatized entity to whom a portion of the assets owned by INTELSAT or Inmarsat are transferred prior to full privatization of INTELSAT or Inmarsat, including in particular the entity whose structure was under discussion by INTELSAT as of March 25, 1998, but excluding ICO.
 
 #### (9) Orbital location
 
@@ -110,7 +110,7 @@ As used in this subchapter:
 
 #### (b) Common terminology
 
-Except as otherwise provided in subsection (a) of this section, terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.
+Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.
 
 (Pub. L. 87–624, title VI, §681, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 58.)
 

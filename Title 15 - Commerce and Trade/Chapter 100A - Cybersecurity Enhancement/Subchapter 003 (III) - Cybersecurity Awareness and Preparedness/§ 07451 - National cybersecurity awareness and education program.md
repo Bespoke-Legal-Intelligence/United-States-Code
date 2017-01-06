@@ -30,7 +30,7 @@ The Director, in cooperation with relevant Federal agencies and other stakeholde
 
 #### (d) Report
 
-Not later than 1 year after December 18, 2014, and every 5 years thereafter, the Director shall transmit the strategic plan under subsection (c) to the Committee on Commerce, Science, andTransportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+Not later than 1 year after December 18, 2014, and every 5 years thereafter, the Director shall transmit the strategic plan under subsection (c) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 (Pub. L. 113–274, title IV, §401, Dec. 18, 2014, 128 Stat. 2985.)
 

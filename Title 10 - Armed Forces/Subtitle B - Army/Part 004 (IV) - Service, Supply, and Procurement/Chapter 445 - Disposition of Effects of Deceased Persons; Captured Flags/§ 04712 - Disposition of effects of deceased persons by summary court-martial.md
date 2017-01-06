@@ -80,7 +80,7 @@ In subsections (a), (b), and (d), the words "surviving spouse" are substituted f
 
 In subsection (c), the word "may" is substituted for the words "shall have authority to". The words "to the extent permitted" are substituted for the words "in so far as \* \* \* will permit". The words "under this article" and "upon its transactions" are omitted as surplusage.
 
-In subsection (d), the words "through the Quartermaster Corps" are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words"if such be found by said court" are omitted as surplusage. The words "United States" are substituted for the word "Government". 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
+In subsection (d), the words "through the Quartermaster Corps" are omitted, since the functions are no longer lodged in the Quartermaster Corps. The words "if such be found by said court" are omitted as surplusage. The words "United States" are substituted for the word "Government". 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
 
 In subsection (e), the first 37 words are substituted for 5:150j (33 words after 3d semicolon of 1st par.). The word "may" is substituted for the words "shall have the authority".
 

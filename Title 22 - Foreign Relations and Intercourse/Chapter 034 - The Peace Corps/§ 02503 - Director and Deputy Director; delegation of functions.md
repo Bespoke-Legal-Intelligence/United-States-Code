@@ -82,5 +82,5 @@ Committees of congress specified.—The committees of Congress specified in this
 
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
-Pub. L. 97–113, title VI, §601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: "The Director of the Peace Corpsshall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981."
+Pub. L. 97–113, title VI, §601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: "The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981."
 

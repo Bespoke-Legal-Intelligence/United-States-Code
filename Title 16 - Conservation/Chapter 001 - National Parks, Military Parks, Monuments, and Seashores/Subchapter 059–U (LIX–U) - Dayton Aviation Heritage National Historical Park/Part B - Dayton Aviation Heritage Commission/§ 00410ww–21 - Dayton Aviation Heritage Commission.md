@@ -66,7 +66,7 @@ The Commission shall cease to exist on January 1, 2004.
 
 #### References in Text
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -48,7 +48,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (B) Identification of individuals and documents
 
-&emsp;&emsp;Identify, in cooperation with the Human Trafficking and Smuggling Center, individuals who facilitate travel by the creation of false passports and visas, documents used toobtain such passports and visas, and other types of travel documents, and ensure that the appropriate agency is notified for further investigation and prosecution or, in the case of such individuals abroad for which no further investigation or prosecution is initiated, ensure that all appropriate information is shared with foreign governments in order to facilitate investigation, arrest, and prosecution of such individuals.
+&emsp;&emsp;Identify, in cooperation with the Human Trafficking and Smuggling Center, individuals who facilitate travel by the creation of false passports and visas, documents used to obtain such passports and visas, and other types of travel documents, and ensure that the appropriate agency is notified for further investigation and prosecution or, in the case of such individuals abroad for which no further investigation or prosecution is initiated, ensure that all appropriate information is shared with foreign governments in order to facilitate investigation, arrest, and prosecution of such individuals.
 
 #### (C) Identification of foreign countries needing assistance
 

@@ -6,11 +6,11 @@ The board is authorized to adopt an official seal which shall be judicially noti
 
 #### (b) Quality of works of art
 
-In order that the collection of the National Gallery of Art shall always be maintained at ahigh standard and in order to prevent the introduction therein of inferior works of art, no work of art shall be included in the permanent collection of the National Gallery of Art unless it be of similar high standard of quality to those in the collection acquired from the donor.
+In order that the collection of the National Gallery of Art shall always be maintained at a high standard and in order to prevent the introduction therein of inferior works of art, no work of art shall be included in the permanent collection of the National Gallery of Art unless it be of similar high standard of quality to those in the collection acquired from the donor.
 
 #### (c) Powers and obligations
 
-The board shall have all the usual powers and obligations of a trustee in respect of all trust funds administered by it and all works of art acquired by it.
+The board shall have all the usual powers and obligations of a trustee in respect of all trustfunds administered by it and all works of art acquired by it.
 
 #### (d) Annual reports
 

@@ -12,7 +12,7 @@ Definitions.—In this section—
 
 &emsp;(2) "socially and economically disadvantaged individual" has the same meaning given that term in section 8(d) of the Act (15 U.S.C. 637(d)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
 
-&emsp;(3) the term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
+&emsp;(3) the term "qualified HUBZone small business concern" has the meaning given thatterm in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
 
 (b)
 
@@ -118,7 +118,7 @@ Pub. L. 112–95, title I, §140(a), Feb. 14, 2012, 126 Stat. 27, provided that:
 
 &emsp;"(2) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits. This testimony and documentation shows that race- and gender-neutral efforts alone are insufficient to address the problem.
 
-&emsp;"(3) This testimony and documentation demonstrates that discrimination across the Nation poses a barrier to full and fair participation in airport-related businesses of women business owners and minority business owners in the racial groups detailed in parts 23 and 26 of title 49, Code of Federal Regulations, and has impacted firm development and many aspects of airport-related business in the public and private markets.
+&emsp;"(3) This testimony and documentation demonstrates that discrimination across the Nation poses a barrier to full and fair participation in airport-related businesses of women business owners and minority business owners in the racial groups detailed in parts 23 and 26 of title 49, Code of Federal Regulations, and has impacted firm development and manyaspects of airport-related business in the public and private markets.
 
 &emsp;"(4) This testimony and documentation provides a strong basis that there is a compelling need for the continuation of the airport disadvantaged business enterprise program and the airport concessions disadvantaged business enterprise program to address race and gender discrimination in airport-related business."
 

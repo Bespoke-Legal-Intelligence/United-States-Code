@@ -6,3 +6,7 @@
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1168.)
 
+#### Effective Date
+
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
+

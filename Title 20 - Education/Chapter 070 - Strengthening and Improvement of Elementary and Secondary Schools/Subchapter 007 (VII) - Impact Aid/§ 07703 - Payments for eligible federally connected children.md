@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of computing the amount that a local educational agency is eligible to receive under subsection (b) or (d) of this section for any fiscal year, the Secretary shall determine the number of children who were in average daily attendance in the schools of such agency, and for whom such agency provided free public education, during the preceding school year and who, while in attendance at such schools—
+&emsp;For the purpose of computing the amount that a local educational agency is eligible to receive under subsection (b) or (d) for any fiscal year, the Secretary shall determine the number of children who were in average daily attendance in the schools of such agency, and for whom such agency provided free public education, during the preceding school year and who, while in attendance at such schools—
 
 &emsp;&emsp;(A)(i) resided on Federal property with a parent employed on Federal property situated in whole or in part within the boundaries of the school district of such agency; or
 
@@ -30,7 +30,7 @@
 
 #### (2) Determination of weighted student units
 
-&emsp;For the purpose of computing the basic support payment under subsection (b) of this section, the Secretary shall calculate the total number of weighted student units for a local educational agency by adding together the results obtained by the following computations:
+&emsp;For the purpose of computing the basic support payment under subsection (b), the Secretary shall calculate the total number of weighted student units for a local educational agency by adding together the results obtained by the following computations:
 
 &emsp;&emsp;(A) Multiply the number of children described in subparagraphs (A) and (B) of paragraph (1) by a factor of 1.0.
 
@@ -98,11 +98,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible local educational agencies with children described in subsection (a) of this section.
+&emsp;&emsp;From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible local educational agencies with children described in subsection (a).
 
 #### (B) Eligibility
 
-&emsp;&emsp;A local educational agency is eligible to receive a basic support payment under subparagraph (A) for a fiscal year with respect to a number of children determined under subsection (a)(1) of this section only if the number of children so determined with respect to such agency amounts to the lesser of—
+&emsp;&emsp;A local educational agency is eligible to receive a basic support payment under subparagraph (A) for a fiscal year with respect to a number of children determined under subsection (a)(1) only if the number of children so determined with respect to such agency amounts to the lesser of—
 
 &emsp;&emsp;&emsp;(i) at least 400 such children; or
 
@@ -110,7 +110,7 @@
 
 #### (C) Maximum amount
 
-&emsp;&emsp;The maximum amount that a local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section, multiplied by the greater of—
+&emsp;&emsp;The maximum amount that a local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2), multiplied by the greater of—
 
 &emsp;&emsp;&emsp;(i) one-half of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made;
 
@@ -122,11 +122,11 @@
 
 #### (D) Data
 
-&emsp;&emsp;If satisfactory data from the third preceding fiscal year are not available for any of the expenditures described in clause (i) or (ii) of subparagraph (C), the Secretary shall use data from the most recent fiscal year for which data that are satisfactory to the Secretary are available.
+&emsp;&emsp;If satisfactory data from the third preceding fiscal year are not available for any ofthe expenditures described in clause (i) or (ii) of subparagraph (C), the Secretary shall use data from the most recent fiscal year for which data that are satisfactory to the Secretary are available.
 
 #### (E) Increase in local contribution rate due to unusual geographic factors
 
-&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such anamount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount of any such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
+&emsp;&emsp;If the current expenditures in those local educational agencies which the Secretary has determined to be generally comparable to the local educational agency for which a computation is made under subparagraph (C) are not reasonably comparable because of unusual geographical factors which affect the current expenditures necessary to maintain, in such agency, a level of education equivalent to that maintained in such other agencies, then the Secretary shall increase the local contribution rate for such agency under subparagraph (C)(iii) by such an amount which the Secretary determines will compensate such agency for the increase in current expenditures necessitated by such unusual geographical factors. The amount of any such supplementary payment may not exceed the per-pupil share (computed with regard to all children in average daily attendance), as determined by the Secretary, of the increased current expenditures necessitated by such unusual geographic factors.
 
 &emsp;&emsp;(F) Beginning with fiscal year 2002, for the purpose of calculating a payment under this paragraph for a local educational agency whose local contribution rate was computed under subparagraph (C)(iii) for the previous year, the Secretary shall use a local contribution rate that is not less than 95 percent of the rate that the LEA received for the preceding year.
 
@@ -134,7 +134,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;(i) From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible heavily impacted local educational agencies with children described in subsection (a) of this section.
+&emsp;&emsp;(i) From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible heavily impacted local educational agencies with children described in subsection (a).
 
 &emsp;&emsp;(ii) A local educational agency that receives a basic support payment under this paragraph for a fiscal year shall not be eligible to receive a basic support payment under paragraph (1) for that fiscal year.
 
@@ -146,9 +146,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is a local educational agency—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) whose boundaries are the same as a Federal military installation or an island property designated by the Secretary of the Interior to be property that is held in trust by the Federal Government; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) whose boundaries are the same as a Federal military installation; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that has no taxing authority;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) whose boundaries are the same as an island property designated by the Secretary of the Interior to be property that is held in trust by the Federal Government; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) that has no taxing authority;
 
 &emsp;&emsp;&emsp;&emsp;(II) is a local educational agency that—
 
@@ -170,11 +172,13 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 20 percent, and for the 3 fiscal years preceding the fiscal year for which the determination is made, the average enrollment of children who are not described in subsection (a)(1) and who are eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] constitutes a percentage of the total student enrollment of the agency that is not less than 65 percent;
 
-&emsp;&emsp;&emsp;&emsp;(IV) is a local educational agency that has a total student enrollment of not less than 25,000 students, of which—
+&emsp;&emsp;&emsp;&emsp;(IV) is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) <sup>1</sup> of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not less than 50 percent are children described in subsection (a)(1); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not less than 35 percent are children described in subsection (a)(1); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not less than 5,000 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1); or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) not less than 3,500 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) not less than 7,000 of such children are children described in subparagraph (D) of subsection (a)(1);
 
 &emsp;&emsp;&emsp;&emsp;(V) is a local educational agency that—
 
@@ -218,7 +222,7 @@
 
 #### (aa) Percentage enrollment
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For a local educational agency in which 35 percent or more of the total student enrollment of the schools of the agency are children described in subparagraph (D) or (E) (or a combination thereof) of subsection (a)(1), and that has an enrollment of children described in subparagraph (A), (B), or (C) of such subsection equal to at least 10 percent of the agency's total enrollment, the Secretary shall calculate the weighted student units of those children described in subparagraph (D) or (E) of such subsection by multiplying the number of such children by a factor of 0.55.
+&emsp;&emsp;&emsp;&emsp;&emsp;For a local educational agency in which 35 percent or more of the total student enrollment of the schools of the agency are children described in subparagraph (D) or (E) (or a combination thereof) of subsection (a)(1), and that has an enrollment of children described in subparagraph (A), (B), or (C) of such subsection equal to at least 10 percent of the agency's total enrollment, the Secretary shall calculate the weighted student units of those children described in subparagraph (D) or\(E) of such subsection by multiplying the number of such children by a factor of 0.55.
 
 #### (bb) Exception
 
@@ -230,7 +234,7 @@
 
 #### (III) Enrollment of more than 100 children but less than 1000
 
-&emsp;&emsp;&emsp;&emsp;For a local educational agency that is not described under subparagraph (B)(i)(I) and has an enrollment of morethan 100 but not more than 1,000 children described in subsection (a)(1), the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) by multiplying the number of such children by a factor of 1.25.
+&emsp;&emsp;&emsp;&emsp;For a local educational agency that is not described under subparagraph (B)(i)(I) and has an enrollment of more than 100 but not more than 1,000 children described in subsection (a)(1), the Secretary shall calculate the total number of weighted student units for purposes of subsection (a)(2) by multiplying the number of such children by a factor of 1.25.
 
 #### (D) Maximum amount for large heavily impacted local educational agencies
 
@@ -238,15 +242,53 @@
 
 #### (I) Formula
 
-&emsp;&emsp;&emsp;&emsp;Subject to clause (ii), the maximum amount that a heavily impacted local educational agency described in subclause (II) is eligible to receive under this paragraph for any fiscal year shall be determined in accordance with the formula described in paragraph (1)(C).
+&emsp;&emsp;&emsp;&emsp;Subject to clauses (ii), (iii), and (iv), the maximum amount that a heavily impacted local educational agency described in subclause (II) is eligible to receive under this paragraph for any fiscal year shall be determined in accordance with the formula described in paragraph (1)(C).
 
 #### (II) Heavily impacted local educational agency
 
-&emsp;&emsp;&emsp;&emsp;A heavily impacted local educational agency described in this subclause is a local educational agency that has a total student enrollment of not less than 25,000 students, of which not less than 50 percent are children described in subsection (a)(1) and not less than 5,000 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1).
+&emsp;&emsp;&emsp;&emsp;A heavily impacted local educational agency described in this subclause is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) <sup>1</sup> of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which not less than 35 percent are children described in subsection (a)(1) and—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not less than 3,500 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not less than 7,000 of such children are children described in subparagraph (D) of subsection (a)(1).
 
 #### (ii) Factor
 
-&emsp;&emsp;&emsp;For purposes of calculating the maximum amount described in clause (i), the factor used in determining the weighted student units under subsection (a)(2) with respect to children described in subparagraphs (A) and (B) of subsection (a)(1) shall be 1.35.
+&emsp;&emsp;&emsp;For purposes of calculating the maximum amount described in clause (i), the factor used in determining the weighted student units under subsection (a)(2) with respect to children described in subparagraphs (A) and (B) of subsection (a)(1) shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2016, 1.35;
+
+&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 2017 and 2018, 1.38;
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2019, 1.40;
+
+&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2020, 1.42; and
+
+&emsp;&emsp;&emsp;&emsp;(V) for fiscal year 2021 and each fiscal year thereafter, 1.45.
+
+#### (iii) Factor for children who live off base
+
+&emsp;&emsp;&emsp;For purposes of calculating the maximum amount described in clause (i), the factor used in determining the weighted student units under subsection (a)(2) with respect to children described in subsection (a)(1)(D) shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2016, .20;
+
+&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 2017 and 2018, .22;
+
+&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2019 and 2020, .25; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2021 and each fiscal year thereafter—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) .30 with respect to each of the first 7,000 children; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) .25 with respect to the number of children that exceeds 7,000.
+
+#### (iv) Special rule
+
+&emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii), for fiscal year 2020 or any succeeding fiscal year, if the number of students who are children described in subparagraphs (A) and (B) of subsection (a)(1) for a local educational agency subject to this subparagraph exceeds 7,000 for such year or the number of students who are children described in subsection (a)(1)(D) for such local educational agency exceeds 12,750 for such year, then—
+
+&emsp;&emsp;&emsp;&emsp;(I) the factor used, for the fiscal year for which the determination is being made, to determine the weighted student units under subsection (a)(2) with respect to children described in subparagraphs (A) and (B) of subsection (a)(1) shall be 1.40; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the factor used, for such fiscal year, to determine the weighted student units under subsection (a)(2) with respect to children described in subsection (a)(1)(D) shall be .20.
 
 #### (E) Data
 
@@ -256,7 +298,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), for the purpose of determining the average tax rates for general fund purposes for local educational agencies in a State under this paragraph, the Secretary shall use either—
+&emsp;&emsp;&emsp;Except as provided in clause (ii), for the purpose of determining the average taxrates for general fund purposes for local educational agencies in a State under this paragraph, the Secretary shall use either—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average tax rate for general fund purposes for comparable local educational agencies, as determined by the Secretary in regulations; or
 
@@ -288,7 +330,7 @@
 
 #### (iii) Conversion of military housing units to private housing described
 
-&emsp;&emsp;&emsp;For purposes of clause (i), "conversion of military housing units to private housing"means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
+&emsp;&emsp;&emsp;For purposes of clause (i), "conversion of military housing units to private housing" means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
 
 #### (3) Payments with respect to fiscal years in which insufficient funds are appropriated
 
@@ -300,13 +342,13 @@
 
 &emsp;&emsp;(i) For fiscal years described in subparagraph (A), the Secretary shall compute a learning opportunity threshold payment (hereafter in this subchapter referred to as the "threshold payment") in lieu of basic support payments under paragraph (1) by multiplying the amount obtained under paragraph (1)(C) by the total percentage obtained by adding—
 
-&emsp;&emsp;&emsp;(I) the percentage of federally connected children for each local educational agency determined by calculating the fraction, the numerator of which is the total number of children described under subsection (a)(1) of this section and the denominator of which is the total number of children in average daily attendance at the schools served by such agency; and
+&emsp;&emsp;&emsp;(I) the percentage of federally connected children for each local educational agency determined by calculating the fraction, the numerator of which is the total number of children described under subsection (a)(1) and the denominator of which is the total number of children in average daily attendance at the schools served by such agency; and
 
 &emsp;&emsp;&emsp;(II) the percentage that funds under paragraph (1)(C) represent of the total budget of the local educational agency, determined by calculating the fraction, the numerator of which is the total amount of funds calculated for each local educational agency under this paragraph, and the denominator of which is the total current expenditures for such agency in the second preceding fiscal year for which the determination is made.
 
 &emsp;&emsp;(ii) Such total percentage used to calculate threshold payments under paragraph (1) shall not exceed 100.
 
-&emsp;&emsp;(iii) In the case of a local educational agency providing a free public education to students enrolled in kindergarten through grade 12, that enrolls students described in subparagraphs (A), (B), and (D) of subsection (a)(1) only in grades 9 through 12, and that received a final payment for fiscal year 2009 calculated under section 7703(b)(3) of this title (as such section was in effect on the day before December 10, 2015) for students in grades 9 through 12, the Secretary shall, in calculating the agency's payment, consider only that portion of such agency's total enrollment of students in grades 9 through 12 when calculating the percentage under clause (i)(I) and only that portion of the total current expenditures attributed to the operation of grades 9 through 12 in such agency when calculating the percentage under clause (i)(II).
+&emsp;&emsp;(iii) In the case of a local educational agency providing a free public education tostudents enrolled in kindergarten through grade 12, that enrolls students described in subparagraphs (A), (B), and (D) of subsection (a)(1) only in grades 9 through 12, and that received a final payment for fiscal year 2009 calculated under section 7703(b)(3) of this title (as such section was in effect on the day before December 10, 2015) for students in grades 9 through 12, the Secretary shall, in calculating the agency's payment, consider only that portion of such agency's total enrollment of students in grades 9 through 12 when calculating the percentage under clause (i)(I) and only that portion of the total current expenditures attributed to the operation of grades 9 through 12 in such agency when calculating the percentage under clause (i)(II).
 
 &emsp;&emsp;(iv) In the case of a local educational agency that has a total student enrollment of fewer than 1,000 students and that has a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located or less than the average per-pupil expenditure of all the States, the total percentage used to calculate threshold payments under clause (i) shall not be less than 40 percent.
 
@@ -348,7 +390,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any of the 50 States of the United States in which there is only one local educational agency, the Secretary shall, for purposes of subparagraphs (B) and (C) of paragraph (1) or subparagraphs (B) and (C) of paragraph (2), as the case may be, paragraph (3) of this subsection, and subsection (e) of this section, consider each administrative school district in the State to be a separate local educational agency.
+&emsp;&emsp;In any of the 50 States of the United States in which there is only one local educational agency, the Secretary shall, for purposes of subparagraphs (B) and (C) of paragraph (1) or subparagraphs (B) and (C) of paragraph (2), as the case may be, paragraph (3) of this subsection, and subsection (e), consider each administrative school district in the State to be a separate local educational agency.
 
 #### (B) Computation of maximum amount of basic support payment and threshold payment
 
@@ -376,7 +418,7 @@
 
 &emsp;&emsp;The additional requirements described in this subparagraph are the following:
 
-&emsp;&emsp;&emsp;(i) For each fiscal year beginning after the date on which the Federal property is transferred, a child described in subparagraph (B) who continues to reside on such property and who continues to receive a free public education at a school of the agency shall be deemed to be a child who resides on Federal property for purposes of computing under the applicable subparagraph of subsection (a)(1) of this section the amount that the agency is eligible to receive under this subsection.
+&emsp;&emsp;&emsp;(i) For each fiscal year beginning after the date on which the Federal property is transferred, a child described in subparagraph (B) who continues to reside on such property and who continues to receive a free public education at a school of the agency shall be deemed to be a child who resides on Federal property for purposes of computing under the applicable subparagraph of subsection (a)(1) the amount that the agency is eligible to receive under this subsection.
 
 &emsp;&emsp;&emsp;(ii)(I) For the third fiscal year beginning after the date on which the Federal property is transferred, and for each fiscal year thereafter, the Secretary shall, after computing the amount that the agency is otherwise eligible to receive under this subsection for the fiscal year involved, deduct from such amount an amount equal to the revenue received by the agency for the immediately preceding fiscal year as a result of the taxable status of the former Federal property.
 
@@ -390,7 +432,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsections (b)(1)(D), (b)(2), and paragraph (2), all calculations under this section shall be based on data for each local educational agency from not later thanthe fiscal year preceding the fiscal year for which the agency is making application for payment.
+&emsp;Except as provided in subsections (b)(1)(D), (b)(2), and paragraph (2), all calculations under this section shall be based on data for each local educational agency from not later than the fiscal year preceding the fiscal year for which the agency is making application for payment.
 
 #### (2) Exception
 
@@ -420,11 +462,11 @@
 
 #### (1) In general
 
-&emsp;From the amount appropriated under section 7714(c) of this title for a fiscal year, the Secretary shall pay to each eligible local educational agency, on a pro rata basis, the amounts determined by—
+&emsp;From the amount appropriated under section 7714(c) of this title for a fiscal year, theSecretary shall pay to each eligible local educational agency, on a pro rata basis, the amounts determined by—
 
-&emsp;&emsp;(A) multiplying the number of children described in subparagraphs (A)(ii), (B) and (C) of subsection (a)(1) of this section who are eligible to receive services under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) by a factor of 1.0; and
+&emsp;&emsp;(A) multiplying the number of children described in subparagraphs (A)(ii), (B) and (C) of subsection (a)(1) who are eligible to receive services under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) by a factor of 1.0; and
 
-&emsp;&emsp;(B) multiplying the number of children described in subparagraph (D) of subsection (a)(1) of this section who are eligible to receive services under such Act by a factor of 0.5.
+&emsp;&emsp;(B) multiplying the number of children described in subparagraph (D) of subsection (a)(1) who are eligible to receive services under such Act by a factor of 0.5.
 
 #### (2) Use of funds
 
@@ -464,7 +506,7 @@
 
 Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
 
-(Pub. L. 89–10, title VII, §7003, formerly title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293; Pub. L. 112–239, div. A, title V, §563(b)(2), (c)(4), Jan. 2, 2013, 126 Stat. 1746, 1748; renumbered title VII, §7003, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, 129 Stat. 2074, 2075, 2077.)
+(Pub. L. 89–10, title VII, §7003, formerly title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293; Pub. L. 112–239, div. A, title V, §563(b)(2), (c)(4), Jan. 2, 2013, 126 Stat. 1746, 1748; renumbered title VII, §7003, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, 129 Stat. 2074, 2075, 2077; Pub. L. 114–328, div. A, title V, §579(b)(1), (d)(1), Dec. 23, 2016, 130 Stat. 2145, 2146.)
 
 #### References in Text
 
@@ -474,6 +516,8 @@ Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 3
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(B)(i)(III)(bb)(BB), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
+Section 7703(b)(2)(E) of this title (as such section was in effect for such fiscal year), referred to in subsec.\(b)(2)(B)(i)(IV), (D)(i)(II), was in the original "8003(b)(2)(E) (as such section was in effect for such fiscal year)", meaning former section 8003(b)(2)(E) of Pub. L. 89–10, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752, as such section was in effect for fiscal year 2015. Former section 8003 of Pub. L. 89–10 was renumbered section 7003 by Pub. L. 114–95, title VII, §7001(c)(1), Dec. 10, 2015, 129 Stat. 2074, and is classified to this section.
+
 Section 7703(b)(3) of this title (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(3)(B)(iii), means section 7703(b)(3) of this title prior to amendment by Pub. L. 114–95, title VII, §§7001(c)(1), (d)(10), 7004(2)(C), Dec. 10, 2015, 129 Stat. 2074, 2075, 2082. See 2015 Amendment notes below.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
@@ -482,9 +526,29 @@ Section 386 of the National Defense Authorization Act for Fiscal Year 1993, refe
 
 #### Prior Provisions
 
-A prior section 7003 of Pub. L. 89—10 was classified to section 3283 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+A prior section 7003 of Pub. L. 89–10 was classified to section 3283 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2)(B)(i)(I). Pub. L. 114–328, §579(b)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "is a local educational agency—
+
+&emsp;"(aa) whose boundaries are the same as a Federal military installation or an island property designated by the Secretary of the Interior to be property that is held in trust by the Federal Government; and
+
+&emsp;"(bb) that has no taxing authority;".
+
+Subsec. (b)(2)(B)(i)(IV). Pub. L. 114–328, §579(d)(1)(A)(i), inserted "received a payment for fiscal year 2015 under section 7703(b)(2)(E) of this title (as such section was in effect for such fiscal year) and" before "has" in introductory provisions.
+
+Subsec. (b)(2)(B)(i)(IV)(aa). Pub. L. 114–328, §579(d)(1)(A)(ii), substituted "35" for "50".
+
+Subsec. (b)(2)(B)(i)(IV)(bb). Pub. L. 114–328, §579(d)(1)(A)(iii), added item (bb) and struck out former item (bb) which read as follows: "not less than 5,000 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1); or".
+
+Subsec. (b)(2)(D)(i)(I). Pub. L. 114–328, §579(d)(1)(B)(i)(I), substituted "clauses (ii), (iii), and (iv)" for "clause (ii)".
+
+Subsec. (b)(2)(D)(i)(II). Pub. L. 114–328, §579(d)(1)(B)(i)(II), inserted "received a payment for fiscal year 2015 under section 7703(b)(2)(E) of this title (as such section was in effect for such fiscal year) and" after "agency that" and substituted "35 percent" for "50 percent", "subsection (a)(1) and—" and item (aa) for "subsection (a)(1) and not less than 5,000", and "subsection (a)(1); or" and item (bb) for "subsection (a)(1)."
+
+Subsec. (b)(2)(D)(ii). Pub. L. 114–328, §579(d)(1)(B)(ii), substituted "shall be—" for "shall be 1.35." and added subcls. (I) to (V).
+
+Subsec. (b)(2)(D)(iii), (iv). Pub. L. 114–328, §579(d)(1)(B)(iii), added cls. (iii) and (iv).
 
 <b>2015</b>—Pub. L. 114–95, §7001(a)(1), repealed Pub. L. 112–239, §563(c)(4). See 2013 Amendment notes below.
 
@@ -510,7 +574,7 @@ Subsec. (c)(2). Pub. L. 114–95, §7004(3), added par. (2) and struck out forme
 
 Subsec. (d)(1). Pub. L. 114–95, §7004(4), made technical amendment to reference in original act which appears in introductory provisions as reference to section 7714(c) of this title.
 
-Subsec. (e). Pub. L. 114–95, §7004(5), added pars. (1) to (3), redesignated former par. (3) as (4), and struck outformer pars. (1) and (2) which related to amounts payable to a local educational agency for fiscal years 2001 and 2002.
+Subsec. (e). Pub. L. 114–95, §7004(5), added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former pars. (1) and (2) which related to amounts payable to a local educational agency for fiscal years 2001 and 2002.
 
 Subsec. (g). Pub. L. 114–95, §7004(6), struck out subsec. (g). Text read as follows: "A local educational agency may receive funds under subsection (b) of this section and section 7702 of this title for any fiscal year only if the State educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of that agency and the State with respect to the provision of free public education by that agency for the preceding fiscal year was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second preceding fiscal year."
 
@@ -596,7 +660,7 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1804(a)(3)\], a
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1806(c)(4), 1808(b)(1)\], redesignated subsec. (h) as (f) and struck out heading and text of former subsec. (f) which required the Secretary to provide additional assistance to meet special circumstances relating to the provision of education in local educational agencies eligible to receive assistance under this section.
 
-Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1808(a), (b)(1)\], redesignated subsec. (i) as (g) and struck out heading and text of former subsec. (g) which related to additional payments for local educational agencies with high concentrations of children with severe disabilities.
+Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1808(a), (b)(1)\], redesignated subsec. (i) as (g) and struck out heading and text of former subsec. (g) which related to additional payments for local educationalagencies with high concentrations of children with severe disabilities.
 
 Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1808(b)(1)\], redesignated subsec. (h) as (f).
 
@@ -650,6 +714,12 @@ Pub. L. 104–106, §1074(g), amended heading and text of par. (4) generally. Pr
 
 &emsp;"(B) the most recent data available which is adjusted to such fiscal year."
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title V, §579(b)(2), Dec. 23, 2016, 130 Stat. 2145, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect with respect to appropriations for use under title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802), beginning with fiscal year 2017 and as if enacted as part of title VII of the Every Student Succeeds Act \[129 Stat. 2074\]."
+
+Pub. L. 114–328, div. A, title V, §579(d)(2), Dec. 23, 2016, 130 Stat. 2148, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect with respect to appropriations for use under title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\] beginning with fiscal year 2017 and as if enacted as part of title VII of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 2074)."
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
@@ -684,6 +754,62 @@ Pub. L. 104–195, §4(b), Sept. 16, 1996, 110 Stat. 2381, provided that: "Parag
 
 Pub. L. 104–195, §5(c), Sept. 16, 1996, 110 Stat. 2382, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to fiscal years after fiscal year 1996."
 
+#### Impact Aid Amendments
+
+Pub. L. 114–328, div. A, title V, §579(a), Dec. 23, 2016, 130 Stat. 2145, provided that:
+
+"(a)
+
+Military 'Build to Lease' Program Housing.—Notwithstanding section 5(d) of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1806), the amendment made by section 7004(1) of such Act (Public Law 114–95; 129 Stat. 2077) \[amending this section\]—
+
+&emsp;"(1) for fiscal year 2016—
+
+&emsp;&emsp;"(A) shall be applied as if amending section 8003(a)(5)(A) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7703(a)(5)(A)\], as in effect on the day before the date of enactment of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802) \[Dec. 10, 2015\]; and
+
+&emsp;&emsp;"(B) shall be applicable with respect to appropriations for use under title VIII of the Elementary and Secondary Education Act of 1965 (Public Law 114–95; 129 Stat. 1802) \[20 U.S.C. 7801 et seq.\]; and
+
+&emsp;"(2) for fiscal year 2017 and each succeeding fiscal year, shall be in effect with respect to appropriations for use under title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)."
+
+#### Special Rule Regarding the Per-Pupil Expenditure Requirement
+
+Pub. L. 114–328, div. A, title V, §579(c), Dec. 23, 2016, 130 Stat. 2145, provided that:
+
+"(1)
+
+References.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision of title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\] shall be considered to be a reference to the section or other provision of such title VII as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802).
+
+"(2)
+
+In general.—Notwithstanding section 5(d) of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1806) or section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)), with respect to any application submitted under section 7005 of such Act (20 U.S.C. 7705) for eligibility consideration under subclause (II) or (V) of section 7003(b)(2)(B)(i) of such Act \[20 U.S.C. 7703(b)(2)(B)(i)\] for fiscal year 2017, 2018, or 2019, the Secretary of Education shall determine that a local educational agency meets the per-pupil expenditure requirement for purposes of such subclause (II) or (V), as applicable, only if—
+
+&emsp;"(A) in the case of a local educational agency that received a basic support payment for fiscal year 2001 under section 8003(b)(2)(B) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)(B)) (as such section was in effect for such fiscal year), the agency, for the year for which the application is submitted, has a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located or the average per-pupil expenditure of all States (whichever average per-pupil expenditure is greater), except that a local educational agency with a total student enrollment of less than 350 students shall be deemed to have satisfied such per-pupil expenditure requirement; or
+
+&emsp;"(B) in the case of a local educational agency that did not receive a basic support payment for fiscal year 2015 under such section 8003(b)(2)(B), as so in effect, the agency, for the year for which the application is submitted—
+
+&emsp;&emsp;"(i) has a total student enrollment of 350 or more students and a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located; or
+
+&emsp;&emsp;"(ii) has a total student enrollment of less than 350 students and a per-pupil expenditure that is less than the average per-pupil expenditure of a comparable local educational agency or 3 comparable local educational agencies (whichever average per-pupil expenditure is greater), in the State in which the agency is located."
+
+#### Special Rules
+
+Pub. L. 114–328, div. A, title V, §579(d)(3), Dec. 23, 2016, 130 Stat. 2148, provided that:
+
+"(A)
+
+Applicability for fiscal year 2016.—Notwithstanding any other provision of law, in making basic support payments under section 8003(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)) for fiscal year 2016, the Secretary of Education shall carry out subparagraphs (B)(i) and (E) of such section as if the amendments made to subparagraphs (B)(i)(IV) and (D) of section 7003(b)(2) of such Act \[20 U.S.C. 7703(b)(2)\] (as amended and redesignated by this subsection and the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)) had also been made to the corresponding provisions of section 8003(b)(2) of the Elementary and Secondary Education Act of 1965, as in effect on the day before the date of enactment of the Every Student Succeeds Act \[Dec. 10, 2015\].
+
+"(B)
+
+Loss of eligibility.—For fiscal year 2016 or any succeeding fiscal year, if a local educational agency iseligible for a basic support payment under subclause (IV) of section 7003(b)(2)(B)(i) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7703(b)(2)(B)(i)\] (as amended by this section and the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)) or through a corresponding provision under subparagraph (A), such local educational agency shall be ineligible to apply for a payment for such fiscal year under any other subclause of such section (or, for fiscal year 2016, any other item of section 8003(b)(2)(B)(i)(II) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7703(b)(2)(B)(i)(II)\]).
+
+"(C)
+
+Payment amounts.—If, before the date of enactment of this Act \[Dec. 23, 2016\], a local educational agency receives 1 or more payments under section 8003(b)(2)(E) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(b)(2)(E)) for fiscal year 2016, the sum of which is greater than the amount the Secretary of Education determines the local educational agency is entitled to receive under such section in accordance with subparagraph (A)—
+
+&emsp;"(i) the Secretary shall allow the local educational agency to retain the larger amount; and
+
+&emsp;"(ii) such local educational agency shall not be eligible to receive any additional payment under such section for fiscal year 2016."
+
 #### Transition Provisions
 
 Pub. L. 107–110, title VIII, §802(a)(2), Jan. 8, 2002, 115 Stat. 1949, provided that: "The Secretary shall consider an application for a payment under section 8003(b)(2) \[20 U.S.C. 7703(b)(2)\] for fiscal year 2002 from a qualified local educational agency described in section 8003(b)(2)(C)(iv), as added by paragraph (1), as meeting the requirements of section 8003(b)(2)(C)(iii), and shall provide a payment under section 8003(b)(2) for fiscal year 2002, if the agency submits to the Secretary an application for payment under such section not later than 30 days after the date of enactment of this Act \[Jan. 8, 2002\]."
@@ -695,4 +821,6 @@ Pub. L. 102–484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as a
 #### Notice to Local and State Educational Agencies of Enrollment Changes Due to Base Closures and Realignments
 
 For provisions requiring Secretary of Defense to identify local educational agencies that will experience at least a 5-percent increase or 10-percent reduction in enrollment in number of dependent children of members of Armed Forces and of civilian employees of Department of Defense enrolled in schools under jurisdiction of such agencies during next academic year as a result of closure or realignment of a military installation, and to transmit notice of schedule of such closure or realignment to affected local and State educational agencies, see section 2833 of Pub. L. 101–189, set out as a note under section 2687 of Title 10, Armed Forces.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

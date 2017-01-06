@@ -2,11 +2,11 @@
 
 #### (a) Consistency of provisions
 
-This part does not annul, alter, or affect, or exempt any person subject to the provisions of this part from complying with, the laws of any State with respect to credit billing practices, except to the extent that those laws are inconsistent with any provision of this part, and thenonly to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this part if the Bureau determines that such law gives greater protection to the consumer.
+This part does not annul, alter, or affect, or exempt any person subject to the provisions of this part from complying with, the laws of any State with respect to credit billing practices, except to the extent that those laws are inconsistent with any provision of this part, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this part if the Bureau determines that such law gives greater protection to the consumer.
 
 #### (b) Exemptions by Bureau from credit billing requirements
 
-The Bureau shall by regulation exempt from the requirements of this part any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this part or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement.
+The Bureau shall by regulation exempt from the requirements of this part any class of credittransactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this part or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement.
 
 #### (c) Finance charge or other charge for credit for sales transactions involving cash discounts
 

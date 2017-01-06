@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To improve the quality, effectiveness, and efficiency of health care delivered pursuant to the programs established under titles XVIII, XIX, and XXI of the Social SecurityAct \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], the Secretary <sup>1</sup> acting through the Director of the Agency for Healthcare Research and Quality (in this section referred to as the "Director"), shall conduct and support research to meet the priorities and requests for scientific evidence and information identified by such programs with respect to—
+&emsp;&emsp;To improve the quality, effectiveness, and efficiency of health care delivered pursuant to the programs established under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], the Secretary <sup>1</sup> acting through the Director of the Agency for Healthcare Research and Quality (in this section referred to as the "Director"), shall conduct and support research to meet the priorities and requests for scientific evidence and information identified by such programs with respect to—
 
 &emsp;&emsp;&emsp;(i) the outcomes, comparative clinical effectiveness, and appropriateness of health care items and services (including prescription drugs); and
 
@@ -14,7 +14,7 @@
 
 #### (B) Specification
 
-&emsp;&emsp;To respond to priorities and information requests in subparagraph (A), the Secretary may conduct or support, by grant, contract, or interagency agreement, research, demonstrations, evaluations, technology assessments, or other activities, including the provision of technical assistance, scientific expertise, or methodological assistance.
+&emsp;&emsp;To respond to priorities and information requests in subparagraph (A), the Secretary may conduct or support, by grant, contract,or interagency agreement, research, demonstrations, evaluations, technology assessments, or other activities, including the provision of technical assistance, scientific expertise, or methodological assistance.
 
 #### (2) Priorities
 
@@ -130,7 +130,7 @@
 
 #### (c) Research with respect to dissemination
 
-The Secretary, acting through the Director, may conduct or support research with respect to improving methods of disseminating information in accordance with subsection (a)(3)(C) of this section.
+The Secretary, acting through the Director, may conduct or support research with respect to improving methods of disseminating information in accordance with subsection (a)(3)(C).
 
 #### (d) Limitation on CMS
 
@@ -152,7 +152,7 @@ The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), 
 
 #### Codification
 
-Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of2003, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Definition of "Secretary"
 

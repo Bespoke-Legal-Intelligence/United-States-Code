@@ -110,7 +110,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### Limitations on Use of Appropriated Funds
 
-Pub. L. 105–277, div. A, §101(f) \[title II, §206\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: "None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act \[of 1965, 42 U.S.C. 3001 et seq.\] or the Advisory Board on Child Abuse and Neglect under the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5101 et seq.\]."
+Pub. L. 105–277, div. A, §101(f) \[title II, §206\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: "None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act \[of 1965, 42 U.S.C. 3001 et seq.\] or the Advisory Board on ChildAbuse and Neglect under the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5101 et seq.\]."
 
 Similar provisions were contained in the following prior appropriation acts:
 

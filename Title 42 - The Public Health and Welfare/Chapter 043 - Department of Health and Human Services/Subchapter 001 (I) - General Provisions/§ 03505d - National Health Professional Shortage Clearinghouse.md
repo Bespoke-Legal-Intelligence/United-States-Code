@@ -6,7 +6,7 @@ There is established in the Department of Health and Human Services a National H
 
 #### (b) Information and listing services available without charge
 
-Information and listing services performed by the Clearinghouse shall be provided free of charge to all interested health professionals and to all communities and groups within the areas determined by the Secretary under section 294n(f) <sup>1</sup> of this title to have a shortage of and need for health professionals.
+Information and listing services performed by the Clearinghouse shall be provided free of charge to all interested health professionals and to all communities and groups within the areas determined by the Secretary under section294n(f) <sup>1</sup> of this title to have a shortage of and need for health professionals.
 
 #### (c) Authorization of appropriations
 

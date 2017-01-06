@@ -1,0 +1,6 @@
+### §1155. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–114, §5, Oct. 24, 1967, 81 Stat. 335, which authorized the Secretary of the Interior to prescribe rules and regulations to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
+

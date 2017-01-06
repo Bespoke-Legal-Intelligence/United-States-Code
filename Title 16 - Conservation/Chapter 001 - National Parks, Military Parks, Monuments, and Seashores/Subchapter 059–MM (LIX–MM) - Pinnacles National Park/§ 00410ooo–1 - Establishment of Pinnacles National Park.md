@@ -4,7 +4,7 @@
 
 There is hereby established Pinnacles National Park in the State of California for the purposes of—
 
-&emsp;(1) preserving and interpreting for the benefit of future generations the chaparral, grasslands, blue oak woodlands, and majestic valley oak savanna ecosystems of the area, the area's geomorphology, riparian watersheds, unique flora and fauna, and the ancestral and culturalhistory of native Americans, settlers and explorers; and
+&emsp;(1) preserving and interpreting for the benefit of future generations the chaparral, grasslands, blue oak woodlands, and majestic valley oak savanna ecosystems of the area, the area's geomorphology, riparian watersheds, unique flora and fauna, and the ancestral and cultural history of native Americans, settlers and explorers; and
 
 &emsp;(2) interpreting the recovery program for the California Condor and the international significance of the program.
 

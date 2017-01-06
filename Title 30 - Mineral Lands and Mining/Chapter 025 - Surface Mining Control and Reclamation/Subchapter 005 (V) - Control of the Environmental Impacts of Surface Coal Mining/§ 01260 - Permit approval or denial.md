@@ -8,7 +8,7 @@ Upon the basis of a complete mining application and reclamation plan or a revisi
 
 No permit or revision application shall be approved unless the application affirmatively demonstrates and the regulatory authority finds in writing on the basis of the information set forth in the application or from information otherwise available which will be documented in the approval, and made available to the applicant, that—
 
-&emsp;(1) the permit application is accurate and complete and that all the requirements of this chapter and the State or Federal program have been complied with;
+&emsp;(1) the permit application is accurate and complete and that all the requirements of thischapter and the State or Federal program have been complied with;
 
 &emsp;(2) the applicant has demonstrated that reclamation as required by this chapter and the State or Federal program can be accomplished under the reclamation plan contained in the permit application;
 

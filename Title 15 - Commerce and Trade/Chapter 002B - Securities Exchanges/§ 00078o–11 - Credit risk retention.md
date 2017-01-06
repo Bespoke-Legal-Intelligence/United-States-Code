@@ -102,7 +102,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 &emsp;&emsp;(B) whether the form or volume of transactions in securitization markets creates incentives for imprudent origination of the type of loan or asset to be sold to the securitizer; and
 
-&emsp;&emsp;(C) the potential impact of the risk retention obligations on the access of consumers and businesses to credit on reasonableterms, which may not include the transfer of credit risk to a third party.
+&emsp;&emsp;(C) the potential impact of the risk retention obligations on the access of consumers and businesses to credit on reasonable terms, which may not include the transfer of credit risk to a third party.
 
 #### (e) Exemptions, exceptions, and adjustments
 
@@ -136,7 +136,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 #### (B) Qualified residential mortgage
 
-&emsp;&emsp;The Federal banking agencies, the Commission, the Secretary of Housing and Urban Development, and the Director of the Federal Housing Finance Agency shall jointly define the term "qualified residential mortgage" for purposes of this subsection, taking into consideration underwriting and product features that historical loan performance data indicate result in a lower risk of default, such as—
+&emsp;&emsp;The Federal banking agencies, the Commission, the Secretary of Housing and Urban Development, and the Director of the Federal Housing Finance Agency shall jointly define the term "qualified residential mortgage" for purposes of this subsection, takinginto consideration underwriting and product features that historical loan performance data indicate result in a lower risk of default, such as—
 
 &emsp;&emsp;&emsp;(i) documentation and verification of the financial resources relied upon to qualify the mortgagor;
 

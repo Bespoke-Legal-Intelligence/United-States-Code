@@ -98,7 +98,7 @@ Termination.—(1) The Federal Advisory Committee Act (5 U.S.C. App.)—
 
 (2) Not later than September 30, 2018, each committee established under this section shall submit to the Congress its recommendation regarding whether the committee should be renewed and continued beyond the termination date.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2081; amended Pub. L. 108–293, title VIII, §806, Aug. 9, 2004, 118 Stat. 1082; Pub. L. 109–241, title IX, §901(m), July 11, 2006, 120 Stat. 565; Pub. L. 111–281, title VIII, §810, Oct. 15, 2010, 124 Stat. 2995.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2081; amended Pub. L. 108–293, titleVIII, §806, Aug. 9, 2004, 118 Stat. 1082; Pub. L. 109–241, title IX, §901(m), July 11, 2006, 120 Stat. 565; Pub. L. 111–281, title VIII, §810, Oct. 15, 2010, 124 Stat. 2995.)
 
 #### References in Text
 

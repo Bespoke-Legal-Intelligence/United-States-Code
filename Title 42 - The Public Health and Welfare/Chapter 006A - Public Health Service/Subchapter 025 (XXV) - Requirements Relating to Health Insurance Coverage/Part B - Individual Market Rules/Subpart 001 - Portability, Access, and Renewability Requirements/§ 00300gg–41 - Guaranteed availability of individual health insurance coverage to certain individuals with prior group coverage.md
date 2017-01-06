@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding subsections of this section and section 300gg–44 of this title, each health insurance issuer that offers health insurance coverage (as defined in section 300gg–91(b)(1) of this title) in the individual market in a State may not, with respect to an eligible individual (as defined in subsection (b) of this section) desiring to enroll in individual health insurance coverage—
+&emsp;Subject to the succeeding subsections of this section and section 300gg–44 of this title, eachhealth insurance issuer that offers health insurance coverage (as defined in section 300gg–91(b)(1) of this title) in the individual market in a State may not, with respect to an eligible individual (as defined in subsection (b)) desiring to enroll in individual health insurance coverage—
 
 &emsp;&emsp;(A) decline to offer such coverage to, or deny enrollment of, such individual; or
 
@@ -32,7 +32,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (1) In general
 
-&emsp;In the case of health insurance coverage offered in the individual market in a State in which the State is not implementing an acceptable alternative mechanism under section 300gg–44 of this title, the health insurance issuer may elect to limit the coverage offered under subsection (a) of this section so long as it offers at least two different policy forms of health insurance coverage both of which—
+&emsp;In the case of health insurance coverage offered in the individual market in a State in which the State is not implementing an acceptable alternative mechanism under section 300gg–44 of this title, the health insurance issuer may elect to limit the coverage offered under subsection (a) so long as it offers at least two different policy forms of health insurance coverage both of which—
 
 &emsp;&emsp;(A) are designed for, made generally available to, and actively marketed to, and enroll both eligible and other individuals by the issuer; and
 
@@ -42,7 +42,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (2) Choice of most popular policy forms
 
-&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer inthe State or applicable marketing or service area (as may be prescribed in regulation) by the issuer in the individual market in the period involved.
+&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer in the State or applicable marketing or service area (as may be prescribed in regulation) by the issuer in the individual market in the period involved.
 
 #### (3) Choice of 2 policy forms with representative coverage
 
@@ -110,7 +110,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (1) In general
 
-&emsp;The provisions of subsection (a) of this section shall not be construed to require that a health insurance issuer offering health insurance coverage only in connection with group health plans or through one or more bona fide associations, or both, offer such health insurance coverage in the individual market.
+&emsp;The provisions of subsection (a) shall not be construed to require that a health insurance issuer offering health insurance coverage only in connection with group health plans or through one or more bona fide associations, or both, offer such health insurance coverage in the individual market.
 
 #### (2) Conversion policies
 
@@ -132,7 +132,7 @@ Section 2701 of this Act, referred to in subsecs. (a)(1)(B) and (b)(1)(A), is a 
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of act July 1, 1944. Section 2712, which was classified to section 300gg–12 of this title, was renumbered section 2732 and amended and transferred to subsecs. (b) to (e) of section 300gg–2 of this title by Pub. L. 111–148, title I, §§1001(3), 1563(c)(9), formerly §1562(c)(9), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 267, 911. A new section 2712 of act July 1, 1944, related to prohibition on rescissions, was added by Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131, effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to section 300gg–12 of this title.
+Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of act July 1, 1944. Section 2712,which was classified to section 300gg–12 of this title, was renumbered section 2732 and amended and transferred to subsecs. (b) to (e) of section 300gg–2 of this title by Pub. L. 111–148, title I, §§1001(3), 1563(c)(9), formerly §1562(c)(9), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 267, 911. A new section 2712 of act July 1, 1944, related to prohibition on rescissions, was added by Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131, effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to section 300gg–12 of this title.
 
 #### Effective Date
 

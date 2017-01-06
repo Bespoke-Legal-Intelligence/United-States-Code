@@ -16,7 +16,7 @@ In order to enforce the Federal requirements under any applicable program the St
 
 &emsp;(1) withhold approval, in whole or in part, of the application of a local agency for funds under the program until the State is satisfied that such requirements will be met; except that the State shall not finally disapprove such an application unless the State provides the local agency an opportunity for a hearing before an impartial hearing officer and such officer determines that there has been a substantial failure by the local agency to comply with any of such requirements;
 
-&emsp;(2) suspend payments to any local agency, in whole or in part, under the program if the State has reason to believe that the local agency has failed substantially to comply with any of such requirements, except that (A) the State shall not suspend such payments until fifteen days after the State provides the local agency an opportunity to show cause why such action should not be taken and (B) no such suspension shall continue in effect longer than sixty days unless the State within such period provides the notice for a hearing required under paragraph (3) of this subsection;
+&emsp;(2) suspend payments to any local agency, in whole or in part, under the program if theState has reason to believe that the local agency has failed substantially to comply with any of such requirements, except that (A) the State shall not suspend such payments until fifteen days after the State provides the local agency an opportunity to show cause why such action should not be taken and (B) no such suspension shall continue in effect longer than sixty days unless the State within such period provides the notice for a hearing required under paragraph (3) of this subsection;
 
 &emsp;(3) withhold payments, in whole or in part, under any such program if the State finds, after reasonable notice and opportunity for a hearing before an impartial hearing officer, that the local agency has failed substantially to comply with any of such requirements.
 
@@ -42,7 +42,7 @@ Subsecs. (b), (c). Pub. L. 103–382, §261(e)(2)(B), (C), redesignated provisio
 
 #### Effective Date
 
-Pub. L. 95–561, title XII, §1261, Nov. 1, 1978, 92 Stat. 2356, provided that: "The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\]shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\]."
+Pub. L. 95–561, title XII, §1261, Nov. 1, 1978, 92 Stat. 2356, provided that: "The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\]."
 
 #### Applicability of Administrative Procedure to Office of Education or Actions by Commissioner Unaffected by Subsections (b) to (e)
 

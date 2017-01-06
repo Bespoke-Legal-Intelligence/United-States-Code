@@ -10,7 +10,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;A school that serves an eligible school attendance area in which less than 40 percent of the children are from low-income families, or a school for which less than 40 percent of the children enrolled in the school are from such families, may operate a schoolwide program under this section if the school receives a waiver from the State educational agency to do so, after taking into account how a schoolwide program will best serve the needs of the students in the school served under this part in improving academic achievement and other factors.
+&emsp;&emsp;A school that serves an eligible school attendance area in which less than 40 percent of the children are from low-income families, or a school for which less than 40 percent of the children enrolled in the school are from such families, may operate a schoolwide program under this section if the school receives a waiver from the State educational agency to do so, after taking into account how a schoolwide program will best serve the needs of the students in the schoolserved under this part in improving academic achievement and other factors.
 
 #### (2) Identification of students not required
 
@@ -124,7 +124,7 @@ A prior section 6314, Pub. L. 89–10, title I, §1114, as added Pub. L. 103–3
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1008(1), added subsec. (a) and struck out former subsec. (a) which consisted of pars. (1) to (4) relating to general use of funds for schoolwide programs, nonidentification of students, exemption from statutory and regulatory requirements, and professional development.
 
-Subsec. (b). Pub. L. 114–95, §1008(2), added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) relating to components of a schoolwide program and development of plan.
+Subsec. (b). Pub. L. 114–95, §1008(2), added subsec. (b) and struck out former subsec. (b) which consisted ofpars. (1) and (2) relating to components of a schoolwide program and development of plan.
 
 Subsecs. (c) to (e). Pub. L. 114–95, §1008(3), added subsecs. (c) to (e) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "A school that is eligible for a schoolwide program under this section may use funds made available under this part to establish or enhance prekindergarten programs for children below the age of 6, such as Even Start programs or Early Reading First programs."
 

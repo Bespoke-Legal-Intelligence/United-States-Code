@@ -6,7 +6,7 @@ The Secretary shall approve an application if the Secretary finds that—
 
 &emsp;(2) the eligible person is not already qualified, by reason of previous education or training, for the educational, professional, or vocational objective for which the program of education is offered;
 
-&emsp;(3) the eligible person's proposed educational institution or training establishment is incompliance with all the requirements of this chapter and chapter 36 of this title; and
+&emsp;(3) the eligible person's proposed educational institution or training establishment is in compliance with all the requirements of this chapter and chapter 36 of this title; and
 
 &emsp;(4) it does not appear that the enrollment in or pursuit of such person's program of education would violate any provisions of this chapter or chapter 36 of this title.
 

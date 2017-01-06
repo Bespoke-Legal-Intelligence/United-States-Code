@@ -34,13 +34,13 @@ The Institute shall consist of the following:
 
 &emsp;(3) The National Education Centers, which include—
 
-&emsp;&emsp;(A) the National Center for Education Research (as described in part B of this subchapter);
+&emsp;&emsp;(A) the National Center for Education Research (as described in part B);
 
-&emsp;&emsp;(B) the National Center for Education Statistics (as described in part C of this subchapter);
+&emsp;&emsp;(B) the National Center for Education Statistics (as described in part C);
 
-&emsp;&emsp;(C) the National Center for Education Evaluation and Regional Assistance (as described in part D of this subchapter); and
+&emsp;&emsp;(C) the National Center for Education Evaluation and Regional Assistance (as described in part D); and
 
-&emsp;&emsp;(D) the National Center for Special Education Research (as described in part E of this subchapter).
+&emsp;&emsp;(D) the National Center for Special Education Research (as described in part E).
 
 (Pub. L. 107–279, title I, §111, Nov. 5, 2002, 116 Stat. 1944; Pub. L. 108–446, title II, §201(b)(2)(A), (B), Dec. 3, 2004, 118 Stat. 2802.)
 

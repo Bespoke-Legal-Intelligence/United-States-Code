@@ -10,7 +10,7 @@ Section is from the Rivers and Harbors Appropriation Act of 1888, act Aug. 11, 1
 
 Act Mar. 3, 1909, made the provisions of act Aug. 11, 1888, for the removal of snags applicable to "the Atchafalaya and Old Rivers from the junction with the Mississippi and Red Rivers down the Atchafalaya River as far as Melville, Louisiana."
 
-Section 7 of act Aug. 11, 1888, provided for "securing the uninterrupted work of operating snag boats on the upper Mississippi River" as well as for the removal of snags. The provision for operating snag boats is set out as section 605 of this title.
+Section 7 of act Aug. 11, 1888, provided for "securing the uninterrupted work of operating snag boats on the upper Mississippi River" as well as for the removal ofsnags. The provision for operating snag boats is set out as section 605 of this title.
 
 The words "the sum of $100,000" are substituted for "the amounts appropriated in this act for such purposes." An appropriation of $100,000 for removal of snags is contained in section 1 of the act.
 

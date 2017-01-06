@@ -24,7 +24,7 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition, improvement, or construction of military family housing.
 
-&emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military family housing.
+&emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activitiesunder this subchapter with respect to military family housing.
 
 &emsp;(D) Income derived from any activities under this subchapter with respect to military family housing, including interest on loans made under section 2873 of this title, income and gains realized from investments under section 2875 of this title, and any return of capital invested as part of such investments.
 
@@ -72,7 +72,7 @@ Notification Required for Transfers.—A transfer of appropriated amounts to a F
 
 Subsec. (c)(2)(G). Pub. L. 112–239, §2711(c)(5)(A)(ii), struck out subpar. (G), which read as follows: "Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005."
 
-Subsec. (f). Pub. L. 112–239, §2711(c)(5)(B), struck out "or (G)" after "subparagraph (B)" in two places in first sentence, and struck out second sentence which read: "In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act."
+Subsec. (f). Pub. L. 112–239, §2711(c)(5)(B), struck out "or (G)" after "subparagraph (B)" in two places in first sentence, and struck out second sentence which read:"In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act."
 
 <b>2008</b>—Subsec. (c)(1)(G). Pub. L. 110–181, §2705(a)(1), added subpar. (G).
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 108–136, §1031(a)(51), inserted before period at end "or
 
 Subsec. (c)(2)(E). Pub. L. 106–65, §2802(b)(2), added subpar. (E).
 
-<b>1996</b>—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end "The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that areotherwise available to the Department of Defense for such types of expenses."
+<b>1996</b>—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end "The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses."
 
 #### Effective Date of 2013 Amendment
 

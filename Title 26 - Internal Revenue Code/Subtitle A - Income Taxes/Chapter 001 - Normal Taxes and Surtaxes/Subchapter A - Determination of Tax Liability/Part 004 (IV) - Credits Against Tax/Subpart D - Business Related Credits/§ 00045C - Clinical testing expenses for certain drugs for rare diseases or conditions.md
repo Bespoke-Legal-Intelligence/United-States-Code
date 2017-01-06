@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI,§612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388-479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 113–295, div. A, title I, §111(b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(2), Dec. 18, 2015, 129 Stat. 3049.)
+(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 113–295, div. A, title I, §111(b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(2), Dec. 18, 2015, 129 Stat. 3049.)
 
 #### References in Text
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 114–113 applicable to amounts paid or incurred after Dec.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to amounts paid or incurred after Dec. 31, 2013, see section 111(c) of Pub. L. 113–295, set out as a note under section 41 of this title.
+Amendment by Pub. L. 113–295 applicable to amounts paid or incurred after Dec. 31, 2013, see section 111(c) ofPub. L. 113–295, set out as a note under section 41 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -266,7 +266,7 @@ Pub. L. 101–508, title XI, §11402(c), Nov. 5, 1990, 104 Stat. 1388–473, pro
 
 Amendment by section 1018(q)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 4008(c)(1) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988,see section 4008(d) of Pub. L. 100–647, set out as a note under section 41 of this title.
+Amendment by section 4008(c)(1) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, see section 4008(d) of Pub. L. 100–647, set out as a note under section 41 of this title.
 
 #### Effective Date of 1986 Amendment
 

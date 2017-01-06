@@ -46,7 +46,7 @@
 
 (e) No member of the armed forces, and no civilian officer or employee, may—
 
-&emsp;(1) negotiate or bargain on behalf of the United States concerning the terms or conditions of military service of members of thearmed forces with any person who represents or purports to represent members of the armed forces, or
+&emsp;(1) negotiate or bargain on behalf of the United States concerning the terms or conditions of military service of members of the armed forces with any person who represents or purports to represent members of the armed forces, or
 
 &emsp;(2) permit or authorize the use of any military installation, facility, reservation, vessel, or other property of the United States for any meeting, march, picketing, demonstration, or other similar activity which is for the purpose of engaging in any activity prohibited by subsection (b), (c), or (d).
 

@@ -20,7 +20,7 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 &emsp;(E) An economic assessment of the life cycle costs of the contract, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, conveyance, or lease.
 
-(3)(A) In the case of a contract described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
+(3)(A) In the case of a contract described in paragraph (1) proposed to be entered into with aprivate party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
 
 &emsp;(i) the closure or realignment of the installation for which housing will be provided under the contract;
 
@@ -109,6 +109,10 @@ Subsec. (b)(3) to (5). Pub. L. 108–136, §2807(b)(2), added pars. (3) to (5) a
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (b) and (c) of this section requiring submittal of reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Final Report
 

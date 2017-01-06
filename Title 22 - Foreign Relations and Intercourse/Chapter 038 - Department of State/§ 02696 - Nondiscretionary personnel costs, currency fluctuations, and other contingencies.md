@@ -6,7 +6,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 #### (b) Appropriations authorization based on currency fluctuations
 
-(1) In order to maintain the levels of program activity for the Department of State provided for each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
+(1) In order to maintain the levels of program activity for the Department of State providedfor each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
 
 &emsp;(A) the calendar year which ended during the fiscal year preceding such fiscal year, or
 
@@ -46,7 +46,7 @@ Amounts authorized to be appropriated for a fiscal year for the Department of St
 
 Amounts authorized to be appropriated for a fiscal year for the Department of State or to the Secretary of State are authorized to be obligated for twelve-month contracts which are to be performed in two fiscal years, if the total amount for such contracts is obligated in the earlier fiscal year.
 
-(Aug. 1, 1956, ch. 841, title I, §24, as added Pub. L. 96–60, title I, §105(a), Aug. 15, 1979, 93 Stat. 396;renumbered title I and amended Pub. L. 97–241, title I, §112(a), title II, §202(a), Aug. 24, 1982, 96 Stat. 277, 282; Pub. L. 101–246, title I, §107, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–138, title I, §117(a), (c), Oct. 28, 1991, 105 Stat. 656, 657; Pub. L. 103–236, title I, §122(a), Apr. 30, 1994, 108 Stat. 392; Pub. L. 110–252, title I, §1408(b), June 30, 2008, 122 Stat. 2342.)
+(Aug. 1, 1956, ch. 841, title I, §24, as added Pub. L. 96–60, title I, §105(a), Aug. 15, 1979, 93 Stat. 396; renumbered title I and amended Pub. L. 97–241, title I, §112(a), title II, §202(a), Aug. 24, 1982, 96 Stat. 277, 282; Pub. L. 101–246, title I, §107, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–138, title I, §117(a), (c), Oct. 28, 1991, 105 Stat. 656, 657; Pub. L. 103–236, title I, §122(a), Apr. 30, 1994, 108 Stat. 392; Pub. L. 110–252, title I, §1408(b), June 30, 2008, 122 Stat. 2342.)
 
 #### Amendments
 

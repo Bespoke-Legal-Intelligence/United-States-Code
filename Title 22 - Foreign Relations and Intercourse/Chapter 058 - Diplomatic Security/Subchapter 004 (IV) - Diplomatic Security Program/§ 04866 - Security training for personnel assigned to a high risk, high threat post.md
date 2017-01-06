@@ -1,0 +1,44 @@
+### §4866. Security training for personnel assigned to a high risk, high threat post
+
+#### (a) In general
+
+Individuals assigned permanently to or who are in long-term temporary duty status as designated by the Secretary of State at a high risk, high threat post shall receive security training described in subsection (b) on a mandatory basis in order to prepare such individuals for living and working at such posts.
+
+#### (b) Security training described
+
+Security training referred to in subsection (a)—
+
+&emsp;(1) is training to improve basic knowledge and skills; and
+
+&emsp;(2) may include—
+
+&emsp;&emsp;(A) an ability to recognize, avoid, and respond to potential terrorist situations, including a complex attack;
+
+&emsp;&emsp;(B) conducting surveillance detection;
+
+&emsp;&emsp;(C) providing emergency medical care;
+
+&emsp;&emsp;(D) ability to detect the presence of improvised explosive devices;
+
+&emsp;&emsp;(E) minimal firearms familiarization; and
+
+&emsp;&emsp;(F) defensive driving maneuvers.
+
+#### (c) Effective date
+
+The requirements of this section shall take effect upon December 16, 2016.
+
+#### (d) Definitions
+
+In this section and section 4867 of this title:
+
+#### (1) Complex attack
+
+&emsp;The term "complex attack" has the meaning given such term by the North Atlantic Treaty Organization, as follows: "An attack conducted by multiple hostile elements which employ at least two distinct classes of weapon systems (i.e., indirect fire and direct fire, improvised explosive devices, and surface to air fire).".
+
+#### (2) High risk, high threat post
+
+&emsp;The term "high risk, high threat post" has the meaning given such term in section 4803 of this title.
+
+(Pub. L. 99–399, title IV, §416, as added Pub. L. 114–323, title I, §121(a), Dec. 16, 2016, 130 Stat. 1913.)
+

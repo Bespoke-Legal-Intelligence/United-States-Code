@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (3) Identification of stock
 
-&emsp;Any corporation which transfers any share of stock pursuant to the exercise of any optiondescribed in subsection (a)(2) shall identify such stock in a manner adequate to carry out the purposes of this section.
+&emsp;Any corporation which transfers any share of stock pursuant to the exercise of any option described in subsection (a)(2) shall identify such stock in a manner adequate to carry out the purposes of this section.
 
 #### (d) Cross references
 

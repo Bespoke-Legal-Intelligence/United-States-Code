@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(E) the extent of the project sponsor's commitment of equity to the project (except that this criterion shall not apply to or affect the selection of applications submitted by public housing agencies and nonprofit entities);
 
-&emsp;&emsp;(F) the extent of the project sponsor's commitment of equity to the project in comparison to the value of all public assistance for the project, including assistance under this subchapter, other Federal assistance and financing, and State and local government contributions (except that this criterion shall not apply to or affect the selection of applications submitted by public housing agencies and nonprofit entities);
+&emsp;&emsp;(F) the extent of the project sponsor's commitment of equity to the project in comparison to the value of all public assistance for the project, including assistance underthis subchapter, other Federal assistance and financing, and State and local government contributions (except that this criterion shall not apply to or affect the selection of applications submitted by public housing agencies and nonprofit entities);
 
 &emsp;&emsp;(G) the extent of non-Federal public or private assistance to the project;
 

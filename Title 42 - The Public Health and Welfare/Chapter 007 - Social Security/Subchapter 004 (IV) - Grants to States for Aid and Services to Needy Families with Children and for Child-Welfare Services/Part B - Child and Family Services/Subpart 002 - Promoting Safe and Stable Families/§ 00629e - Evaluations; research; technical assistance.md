@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall evaluate and report to the Congress biennially on the effectiveness of the programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
+&emsp;The Secretary shall evaluate and report to the Congress biennially on the effectiveness ofthe programs carried out pursuant to this subpart in accomplishing the purposes of this subpart, and may evaluate any other Federal, State, or local program, regardless of whether federally assisted, that is designed to achieve the same purposes as the program under this subpart, in accordance with criteria established in accordance with paragraph (2).
 
 #### (2) Criteria to be used
 
 &emsp;In developing the criteria to be used in evaluations under paragraph (1), the Secretary shall consult with appropriate parties, such as—
 
-&emsp;&emsp;(A) State agencies administering programs under this part and part E of this subchapter;
+&emsp;&emsp;(A) State agencies administering programs under this part and part E;
 
 &emsp;&emsp;(B) persons administering child and family services programs (including family preservation and family support programs) for private, nonprofit organizations with an interest in child welfare; and
 
@@ -18,7 +18,7 @@
 
 #### (3) Timing of report
 
-&emsp;Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d) of this section.
+&emsp;Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
 
 #### (b) Coordination of evaluations
 
@@ -46,7 +46,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;(5) establish mechanisms to ensure that postadoption services meet the needs of the individual families and develop models to reduce the disruption rates of adoption.
 
-(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L.109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243.)
+(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243.)
 
 #### Prior Provisions
 

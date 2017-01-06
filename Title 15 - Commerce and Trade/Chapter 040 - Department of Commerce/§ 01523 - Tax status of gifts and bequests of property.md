@@ -1,6 +1,6 @@
 ### §1523. Tax status of gifts and bequests of property
 
-For the purpose of Federal income, estate, and gift taxes, property accepted under section 1522 of this title shall be considered as a gift or bequest to or for the use of the United States.
+For the purpose of Federal income, estate, and gift taxes, property accepted under section 1522of this title shall be considered as a gift or bequest to or for the use of the United States.
 
 (Pub. L. 88–611, §2, Oct. 2, 1964, 78 Stat. 991.)
 

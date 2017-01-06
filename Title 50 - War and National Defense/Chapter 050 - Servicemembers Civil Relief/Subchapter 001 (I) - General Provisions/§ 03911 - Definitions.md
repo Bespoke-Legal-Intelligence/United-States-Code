@@ -58,13 +58,17 @@ For the purposes of this chapter:
 
 #### (8) Motor vehicle
 
-&emsp;The term "motor vehicle" has the meaning given that term in section 30102(a)(6) of title 49.
+&emsp;The term "motor vehicle" has the meaning given that term in section 30102(a)(6) of title 49.<sup>1</sup>
 
 #### (9) Judgment
 
 &emsp;The term "judgment" means any judgment, decree, order, or ruling, final or temporary.
 
 (Oct. 17, 1940, ch. 888, title I, §101, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2836; amended Pub. L. 108–454, title VII, §701, Dec. 10, 2004, 118 Stat. 3624.)
+
+#### References in Text
+
+Section 30102(a)(6) of title 49, referred to in par. (8), was redesignated section 30102(a)(7) of title 49 by Pub. L. 114–94, div. B, title XXIV, §24109(b)(2), Dec. 4, 2015, 129 Stat. 1706.
 
 #### Codification
 
@@ -77,4 +81,6 @@ A prior section 101 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Pub. L
 #### Amendments
 
 <b>2004</b>—Par. (9). Pub. L. 108–454 added par. (9).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,9 +36,9 @@
 
 &emsp;The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
 
-&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
-&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
+&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 
 > &emsp;unless the action described in subparagraph (A) or (B) is dismissed without prejudice on motion of the Secretary.
 
@@ -50,7 +50,7 @@
 
 #### (2) Civil action
 
-&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A) of this section.
+&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A).
 
 #### (3) Sums recovered
 

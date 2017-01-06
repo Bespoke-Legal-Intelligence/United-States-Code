@@ -12,7 +12,7 @@
 
 (5) The Commissioner may prescribe such rules and regulations as the Commissioner determines necessary or appropriate to carry out the functions of the Administration. The regulations prescribed by the Commissioner shall be subject to the rulemaking procedures established under section 553 of title 5.
 
-(6) The Commissioner may establish, alter, consolidate, or discontinue such organizational units or components within the Administration as the Commissioner considers necessary or appropriate, except that this paragraph shall not apply with respect to any unit, component, or provision provided for by this chapter.
+(6) The Commissioner may establish, alter, consolidate, or discontinue such organizational units or components within the Administrationas the Commissioner considers necessary or appropriate, except that this paragraph shall not apply with respect to any unit, component, or provision provided for by this chapter.
 
 (7) The Commissioner may assign duties, and delegate, or authorize successive redelegations of, authority to act and to render decisions, to such officers and employees of the Administration as the Commissioner may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Commissioner.
 
@@ -20,7 +20,7 @@
 
 &emsp;(A) the coordination of the programs administered by the Commissioner, as described in section 901 of this title, with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
 
-&emsp;(B) that adequate information concerning benefits under such subchapters XVIII and XIX of this chapter is available to the public.
+&emsp;(B) that adequate information concerning benefits under such subchapters XVIII and XIX is available to the public.
 
 #### (b) Deputy Commissioner of Social Security
 
@@ -76,11 +76,11 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
 
-Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: "Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work orearnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status."
+Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: "Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work or earnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status."
 
 #### Demonstration Projects Relating to Accountability for Telephone Service Center Communications
 

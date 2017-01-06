@@ -2,7 +2,7 @@
 
 #### (a) Allocation formula
 
-From the sums appropriated pursuant to the authority of section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b) of this section.
+From the sums appropriated pursuant to the authority of section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b).
 
 #### (b) Number of scholarships available
 
@@ -30,11 +30,11 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 &emsp;A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004.
 
-(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668; Pub. L. 111–39, title IV, §401(a)(8), July 1, 2009, 123 Stat. 1939.)
+(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668; Pub. L. 111–39, title IV, §401(a)(8), July 1, 2009, 123 Stat. 1939.)
 
 #### Prior Provisions
 
-A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct.30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

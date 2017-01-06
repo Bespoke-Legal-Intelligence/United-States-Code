@@ -34,7 +34,7 @@
 
 #### (iii) Reasons for not conducting peer review
 
-&emsp;&emsp;&emsp;If the Chief of Engineers decides not to conduct a peer review following a request under clause (i), the Chief shall make publicly available, including on the Internet,the reasons for not conducting the peer review.
+&emsp;&emsp;&emsp;If the Chief of Engineers decides not to conduct a peer review following a request under clause (i), the Chief shall make publicly available, including on the Internet, the reasons for not conducting the peer review.
 
 #### (iv) Appeal to Chairman of Council on Environmental Quality
 
@@ -112,7 +112,7 @@
 
 #### (1) In general
 
-&emsp;For each project study subject to peer review under subsection (a), as soon as practicable after the Chief of Engineers determines that a project study will be subject to peer review, the Chief of Engineers shall contract with the National Academy of Sciences or asimilar independent scientific and technical advisory organization or an eligible organization to establish a panel of experts to conduct a peer review for the project study.
+&emsp;For each project study subject to peer review under subsection (a), as soon as practicable after the Chief of Engineers determines that a project study will be subject to peer review, the Chief of Engineers shall contract with the National Academy of Sciences or a similar independent scientific and technical advisory organization or an eligible organization to establish a panel of experts to conduct a peer review for the project study.
 
 #### (2) Membership
 
@@ -194,7 +194,7 @@ A panel of experts established for a peer review for a project study under this 
 
 #### (2) Waiver
 
-&emsp;The Chief of Engineers may waive the $500,000 limitation contained in paragraph\(1)(B) in cases that the Chief of Engineers determines appropriate.
+&emsp;The Chief of Engineers may waive the $500,000 limitation contained in paragraph (1)(B) in cases that the Chief of Engineers determines appropriate.
 
 #### (h) Applicability
 

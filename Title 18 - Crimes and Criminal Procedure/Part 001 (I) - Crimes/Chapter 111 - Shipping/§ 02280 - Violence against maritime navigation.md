@@ -80,7 +80,7 @@ Definitions.—As used in this section, section 2280a, section 2281, and section
 
 &emsp;&emsp;(I) International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations on 9 December 1999;
 
-&emsp;(2) "armed conflict" does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
+&emsp;(2) "armed conflict" does not include internal disturbances and tensions, such as riots,isolated and sporadic acts of violence, and other acts of a similar nature;
 
 &emsp;(3) "biological weapon" means—
 
@@ -156,7 +156,7 @@ Definitions.—As used in this section, section 2280a, section 2281, and section
 
 Exceptions.—This section shall not apply to—
 
-&emsp;(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+&emsp;(1) the activities of armed forces during an armed conflict, as those terms are understoodunder the law of war, which are governed by that law; or
 
 &emsp;(2) activities undertaken by military forces of a state in the exercise of their official duties.
 

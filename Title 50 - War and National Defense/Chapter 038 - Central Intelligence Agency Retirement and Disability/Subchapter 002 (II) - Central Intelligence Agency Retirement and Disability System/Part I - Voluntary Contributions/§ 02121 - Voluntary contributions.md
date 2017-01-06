@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) for periods on or after January 1, 1985, at the rate computed under section 8334(e) of title 5,
 
-> &emsp;compounded annually to the date of election under subsection (b) of this section or the date of payment under subsection (d) of this section.
+> &emsp;compounded annually to the date of election under subsection (b) or the date of payment under subsection (d).
 
 #### (b) Treatment of voluntary contributions
 
@@ -32,7 +32,7 @@ Effective on the date of retirement and at the election of the participant, the 
 
 #### (c) Value of benefits
 
-The benefits provided by subsection (b)(2), (3), or (4) of this section shall be actuarially equivalent in value to the payment provided for in subsection (b)(1) of this section and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Director.
+The benefits provided by subsection (b)(2), (3), or (4) shall be actuarially equivalent in value to the payment provided for in subsection (b)(1) and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Director.
 
 #### (d) Lump-sum payment
 

@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 Sept. 11, 1950, ch. 945, §4(a), 64 Stat. 830.
 
-The word "community" is omitted as covered by the word "area". The word "program" is omitted as covered by the word "plan". The words "use \* \* \* jointly by units of two or more of those components" are substituted for the words "joint utilization" to reflect 50:886(d). The words "is not and will not be larger than"are substituted for the words "does not exceed". The word "considering" is substituted for the words "taking into account".
+The word "community" is omitted as covered by the word "area". The word "program" is omitted as covered by the word "plan". The words "use \* \* \* jointly by units of two or more of those components" are substituted for the words "joint utilization" to reflect 50:886(d). The words "is not and will not be larger than" are substituted for the words "does not exceed". The word "considering" is substituted for the words "taking into account".
 
 #### Amendments
 

@@ -46,7 +46,7 @@ Pub. L. 107–214, §1, Aug. 21, 2002, 116 Stat. 1053, provided that: "This Act 
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–509, §1, Nov. 13, 2000, 114 Stat. 2361, provided that: "This Act \[amending section 1244 of thistitle\] may be cited as the 'Ala Kahakai National Historic Trail Act'."
+Pub. L. 106–509, §1, Nov. 13, 2000, 114 Stat. 2361, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'Ala Kahakai National Historic Trail Act'."
 
 Pub. L. 106–307, §1, Oct. 13, 2000, 114 Stat. 1074, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'El Camino Real de Tierra Adentro National Historic Trail Act'."
 
@@ -88,7 +88,7 @@ Pub. L. 90–543, §1, Oct. 2, 1968, 82 Stat. 919, provided that: "This Act \[en
 
 Ex. Ord. No. 13195, Jan. 18, 2001, 66 F.R. 7391, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of purposes of the National Trails System Act of 1968, as amended (16 U.S.C. 1241–1251), the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Short Title of 1998 Amendment note set out under section 101 of Title 23, Highways\], and other pertinent statutes, and to achieve the common goal of better establishing and operating America's national system of trails, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in furtherance of purposes of the National Trails System Act of 1968, as amended (16 U.S.C. 1241–1251), the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Short Title of 1998 Amendment note set out under section 101 of Title 23, Highways\], and other pertinent statutes, and to achieve the common goal of better establishing and operating America's national system of trails, it is hereby ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent permitted by law and where practicable—and in cooperation with Tribes, States, local governments, and interested citizen groups—protect, connect, promote, and assist trails of all types throughout the United States. This will be accomplished by:
 
@@ -120,7 +120,7 @@ Sec. 2. <i>The Federal Interagency Council on Trails</i>. The Federal Interagenc
 
 (a) Enhancing federally designated trails of all types (e.g., scenic, historic, recreation, and Millennium) and working to integrate these trails into a fully connected national system;
 
-(b) Coordinating mapping, signs and markers, historical and cultural interpretations, public information,training, and developing plans and recommendations for a national trails registry and database;
+(b) Coordinating mapping, signs and markers, historical and cultural interpretations, public information, training, and developing plans and recommendations for a national trails registry and database;
 
 (c) Ensuring that trail issues are integrated in Federal agency programs and that technology transfer and education programs are coordinated at the national level; and
 

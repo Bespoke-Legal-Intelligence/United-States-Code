@@ -44,7 +44,7 @@ In the case of any electing investment partnership (as defined in section 743(e)
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 114–113, div. Q, title IV, §411(d), (e), Dec. 18, 2015, 129 Stat. 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, subsection (b) of this section is amended by striking the last sentence and inserting the following: "Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates."</i>
+<i>Pub. L. 114–113, div. Q, title IV, §411(d), (e), Dec. 18, 2015, 129 Stat. 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, subsection (b) of this section is amended by striking the last sentence and inserting the following: "Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required</i><i>to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates."</i>
 
 <i>Pub. L. 114–74, title XI, §1101(e), (f)(1), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended as follows:</i>
 
@@ -116,7 +116,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Returns Required From All Partnerships With United States Partners
 
-Pub. L. 97–248, title IV, §404, Sept. 3, 1982, 96 Stat. 669, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except as hereafter provided in regulations prescribed by the Secretary of the Treasury or his delegate, nothing in section 6031 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as excluding any partnership from the filing requirements of such section for any taxable year if the income tax liability under subtitle A of such Code of any United States person is determined in whole or in part by taking into account (directly or indirectly) partnership items of such partnership for such taxable year."
+Pub. L. 97–248, title IV, §404, Sept. 3, 1982, 96 Stat. 669, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except as hereafter provided in regulations prescribed by the Secretary of the Treasury or his delegate, nothing in section 6031 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be treated as excluding any partnership from the filing requirements of such section for any taxable year if the income tax liability under subtitle A of such Code ofany United States person is determined in whole or in part by taking into account (directly or indirectly) partnership items of such partnership for such taxable year."
 
 #### Special Rule for Certain International Satellite Partnerships
 

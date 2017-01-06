@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-If the Commissioner of Social Security determines that the interest of any qualified individual under this subchapter would be served thereby, payment of the qualified individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her use and benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) of this section have been met (in this section referred to as the qualified individual's "representative payee"). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, 405(j) of this title, or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this subchapter would be served thereby, to the qualified individual.
+If the Commissioner of Social Security determines that the interest of any qualified individual under this subchapter would be served thereby, payment of the qualified individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her use and benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) have been met (in this section referred to as the qualified individual's "representative payee"). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, 405(j) of this title, or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this subchapter would be served thereby, to the qualified individual.
 
 #### (b) Examination of fitness of prospective representative payee
 
-(1) Any determination under subsection (a) of this section to pay the benefits of a qualified individual to a representative payee shall be made on the basis of—
+(1) Any determination under subsection (a) to pay the benefits of a qualified individual to a representative payee shall be made on the basis of—
 
 &emsp;(A) an investigation by the Commissioner of Social Security of the person to serve as representative payee, which shall be conducted in advance of the determination and shall, to the extent practicable, include a face-to-face interview with the person (or, in the case of an organization, a representative of the organization); and
 
@@ -16,7 +16,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(A) require the person being investigated to submit documented proof of the identity of the person;
 
-&emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II of this chapter or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
+&emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
 
 &emsp;(C) determine whether the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
@@ -24,9 +24,9 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(E) obtain information concerning whether such person is a person described in section 1004(a)(2) of this title; and
 
-&emsp;(F) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
+&emsp;(F) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI, respectively.
 
-(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifyinginformation as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
+(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifying information as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
 
 &emsp;(A) such person is described in section 1004(a)(2) of this title,
 
@@ -38,7 +38,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 The Commissioner of Social Security shall establish and maintain lists which shall be updated periodically and which shall be in a form that renders such lists available to the servicing offices of the Social Security Administration. The lists shall consist of—
 
-&emsp;(1) the names and (if issued) social security account numbers or employer identification numbers of all persons with respect to whom, in the capacity of representative payee, the payment of benefits has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively; and
+&emsp;(1) the names and (if issued) social security account numbers or employer identification numbers of all persons with respect to whom, in the capacity of representative payee, the payment of benefits has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI, respectively; and
 
 &emsp;(2) the names and (if issued) social security account numbers or employer identification numbers of all persons who have been convicted of a violation of section 408, 1011, or 1383a of this title.
 
@@ -50,11 +50,11 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(A) the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively;
+&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI, respectively;
 
 &emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration;
 
-&emsp;&emsp;(D) such person has previously been convicted as described in subsection (b)(2)(D) of this section, unless the Commissioner determines that such payment would be appropriate notwithstanding such conviction; or
+&emsp;&emsp;(D) such person has previously been convicted as described in subsection (b)(2)(D), unless the Commissioner determines that such payment would be appropriate notwithstanding such conviction; or
 
 &emsp;&emsp;(E) such person is a person described in section 1004(a)(2) of this title.
 
@@ -86,7 +86,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Commissioner of Social Security makes a determination described in the first sentence of subsection (a) of this section with respect to any qualified individual's benefit and determines that direct payment of the benefit to the qualified individual would cause substantial harm to the qualified individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of the benefit to the qualified individual, until such time as the selection of a representative payee is made pursuant to this section.
+&emsp;Subject to paragraph (2), if the Commissioner of Social Security makes a determination described in the first sentence of subsection (a) with respect to any qualified individual's benefit and determines that direct payment of the benefit to the qualified individual would cause substantial harm to the qualified individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of the benefit to the qualified individual, until such time as the selection of a representative payee is made pursuant to this section.
 
 #### (2) Time limitation
 
@@ -110,11 +110,11 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.
+&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a), the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.
 
 #### (2) Specific requirements
 
-&emsp;Any notice required by paragraph (1) shall be clearly written in language that is easily understandable to the reader, shall identify the person to be designated as the qualified individual's representative payee, and shall explain to the reader the right under subsection (f) of this section of the qualified individual or of the qualified individual's legal guardian or legal representative—
+&emsp;Any notice required by paragraph (1) shall be clearly written in language that is easily understandable to the reader, shall identify the person to be designated as the qualified individual's representative payee, and shall explain to the reader the right under subsection (f) of the qualified individual or of the qualified individual's legal guardian or legal representative—
 
 &emsp;&emsp;(A) to appeal a determination that a representative payee is necessary for the qualified individual;
 
@@ -154,9 +154,9 @@ In any case where the negligent failure of the Commissioner of Social Security t
 
 &emsp;(A) is not an individual; or
 
-&emsp;(B) is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter II of this chapter, subchapter XVI of this chapter, or any combination of such subchapters;
+&emsp;(B) is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter II, subchapter XVI, or any combination of such subchapters;
 
-> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (l)(2) of this section. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to theamount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (l)(2). The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
 
 #### (j) Misuse of benefits
 
@@ -166,7 +166,7 @@ For purposes of this subchapter, misuse of benefits by a representative payee oc
 
 #### (1) In general
 
-&emsp;In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner may provide for the periodic onsite review of any person or agency that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter II of this chapter or subchapter XVI of this chapter) to another individual pursuant to the appointment of such person or agency as a representative payee under this section, section 405(j) of this title, or section 1383(a)(2) of this title in any case in which—
+&emsp;In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner may provide for the periodic onsite review of any person or agency that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter II or subchapter XVI) to another individual pursuant to the appointment of such person or agency as a representative payee under this section, section 405(j) of this title, or section 1383(a)(2) of this title in any case in which—
 
 &emsp;&emsp;(A) the representative payee is a person who serves in that capacity with respect to 15 or more such individuals; or
 
@@ -200,7 +200,7 @@ For purposes of this subchapter, misuse of benefits by a representative payee oc
 
 #### (2) Limitation
 
-&emsp;The total of the amount paid to such individual or such individual's alternative representative payee under paragraph (1) and the amount paid under subsection (i) of this section may not exceed the total benefit amount misused by the representative payee with respect to such individual.
+&emsp;The total of the amount paid to such individual or such individual's alternative representative payee under paragraph (1) and the amount paid under subsection (i) may not exceed the total benefit amount misused by the representative payee with respect to such individual.
 
 (Aug. 14, 1935, ch. 531, title VIII, §807, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1846; amended Pub. L. 108–203, title I, §§101(b), 102(b)(2), 103(b), 105(b), 106(b), Mar. 2, 2004, 118 Stat. 495, 499, 501, 504, 506.)
 
@@ -234,7 +234,7 @@ Subsec. (l). Pub. L. 108–203, §105(b), added subsec. (l).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representativepayee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
 Amendment by section 103(b) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 

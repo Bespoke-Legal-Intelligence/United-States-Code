@@ -8,7 +8,7 @@
 
 #### (2) Private nonprofit entity
 
-&emsp;Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) of this section are met.
+&emsp;Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) are met.
 
 #### (b) Nondisplacement
 

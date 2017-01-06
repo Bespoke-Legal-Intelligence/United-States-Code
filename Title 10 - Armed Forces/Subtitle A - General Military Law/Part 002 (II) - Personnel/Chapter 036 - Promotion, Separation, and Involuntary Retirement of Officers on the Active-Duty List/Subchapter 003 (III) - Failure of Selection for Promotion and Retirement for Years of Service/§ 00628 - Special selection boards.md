@@ -30,7 +30,7 @@ Reports of Boards.—(1) Each special selection board convened under this sectio
 
 Appointment of Persons Selected by Boards.—(1) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade a person whose name was referred to it for consideration, that person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b), (c), and (d) of section 624 of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of section 578(c) of this title (rather than subsections (b), (c), and (d) of section 624 of this title).
 
-(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board whichshould have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
+(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
 
 (e)
 
@@ -80,7 +80,7 @@ Judicial Review.—(1)(A) A court of the United States may review a determinatio
 
 Limitations of Other Jurisdiction.—No official or court of the United States may, with respect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
 
-&emsp;(1) consider the claim unless the person has first been referred by the Secretary concerned to a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
+&emsp;(1) consider the claim unless the person has first been referred by the Secretary concernedto a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
 
 &emsp;(2) except as provided in subsection (g), grant any relief on the claim unless the person has been selected for promotion by a special selection board convened under this section to consider the person for recommendation for promotion and the report of the board has been approved by the President.
 
@@ -108,7 +108,7 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 Promotion Board Defined.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V,§527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088; Pub. L. 109–364, div. A, title V, §514(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 111–383, div. A, title V, §503(b), Jan. 7, 2011, 124 Stat. 4208; Pub. L. 114–92, div. A, title V, §502(c)(1), Nov. 25, 2015, 129 Stat. 807.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088; Pub. L. 109–364, div. A, title V, §514(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 111–383, div. A, title V, §503(b), Jan. 7, 2011, 124 Stat. 4208; Pub. L. 114–92, div. A, title V, §502(c)(1), Nov. 25, 2015, 129 Stat. 807.)
 
 #### Amendments
 
@@ -179,6 +179,10 @@ Pub. L. 107–107, div. A, title V, §503(c), Dec. 28, 2001, 115 Stat. 1084, pro
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of this title.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Delegation of Functions
 

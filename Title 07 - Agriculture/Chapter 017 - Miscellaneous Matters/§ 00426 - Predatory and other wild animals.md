@@ -14,7 +14,7 @@ The Secretary of Agriculture may conduct a program of wildlife services with res
 
 Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
-Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101Stat. 1329–433, provided in part: "That effective upon the date of enactment of this Act \[Dec. 19, 1985\] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; 7 U.S.C. 426–426b), (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities."
+Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided in part: "That effective upon the date of enactment of this Act \[Dec. 19, 1985\] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; 7 U.S.C. 426–426b), (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities."
 
 #### Wolf Livestock Loss Demonstration Project
 
@@ -26,7 +26,7 @@ Pub. L. 111–11, title VI, subtitle C, Mar. 30, 2009, 123 Stat. 1170, provided 
 
 &emsp;"(1)
 
-Indian tribe.—The term 'Indian tribe' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Indian tribe.—The term 'Indian tribe' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\].
 
 &emsp;"(2)
 

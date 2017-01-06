@@ -4,17 +4,17 @@
 
 #### (1) Authority and eligibility
 
-&emsp;Prior to July 1, 2010, a graduate or professional student or the parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, if—
+&emsp;Prior to July 1, 2010, a graduate or professional student or the parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b), if—
 
 &emsp;&emsp;(A) the graduate or professional student or the parents do not have an adverse credit history as determined pursuant to regulations promulgated by the Secretary;
 
-&emsp;&emsp;(B) in the case of a graduate or professional student or parent who has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining funds under this subchapter and part C of subchapter I of chapter 34 of title 42, such graduate or professional student or parent has completed the repayment of such funds to the Secretary, or to the holder in the case of a loan under this subchapter and part C of subchapter I of chapter 34 of title 42 obtained by fraud; and
+&emsp;&emsp;(B) in the case of a graduate or professional student or parent who has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining funds under this subchapter, such graduate or professional student or parent has completed the repayment of such funds to the Secretary, or to the holder in the case of a loan under this subchapter obtained by fraud; and
 
 &emsp;&emsp;(C) the graduate or professional student or the parents meet such other eligibility criteria as the Secretary may establish by regulation, after consultation with guaranty agencies, eligible lenders, and other organizations involved in student financial assistance.
 
 #### (2) Terms, conditions, and benefits
 
-&emsp;Except as provided in subsections (c), (d), and (e) of this section, loans made under this section shall have the same terms, conditions, and benefits as all other loans made under this part.
+&emsp;Except as provided in subsections (c), (d), and (e), loans made under this section shall have the same terms, conditions, and benefits as all other loans made under this part.
 
 #### (3) Special rules
 
@@ -40,7 +40,7 @@
 
 #### (b) Limitation based on need
 
-Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A)the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
+Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
 #### (c) PLUS loan disbursement
 
@@ -72,7 +72,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (A) In general
 
-&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
+&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferredpursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
 
 &emsp;&emsp;&emsp;(i) be paid monthly or quarterly; or
 
@@ -108,7 +108,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (2) Refinancing to secure variable interest rate
 
-&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not toexceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
+&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
 
 #### (3) Refinancing by discharge of previous loan
 
@@ -116,7 +116,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;(A) shall bear interest at the applicable rate of interest provided under section 1077a(c)(4) of this title;
 
-&emsp;&emsp;(B) shall not result in the extension of the duration of the note (other than as permitted under subsection (d)(5)(B) of this section);
+&emsp;&emsp;(B) shall not result in the extension of the duration of the note (other than as permitted under subsection (d)(5)(B));
 
 &emsp;&emsp;(C) may be subject to an additional insurance fee but shall not be subject to the administrative cost charge permitted by paragraph (2) of this subsection; and
 
@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227,§§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
 
 #### Prior Provisions
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 

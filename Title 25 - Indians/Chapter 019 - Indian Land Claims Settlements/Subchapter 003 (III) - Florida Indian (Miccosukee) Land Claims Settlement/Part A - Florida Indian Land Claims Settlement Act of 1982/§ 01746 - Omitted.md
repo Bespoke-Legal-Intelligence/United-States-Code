@@ -1,0 +1,6 @@
+### §1746. Omitted
+
+#### Codification
+
+Section, Pub. L. 97–399, §7, Dec. 31, 1982, 96 Stat. 2015, which related to the rights and interests granted to the Miccosukee Tribe and the civil and criminal jurisdiction of the State of Florida, was omitted from the Code as being of special and not general application.
+

@@ -26,7 +26,7 @@ Mental Health Professionals.—Of the number of persons designated as members of
 
 <b>1989</b>—Par. (2). Pub. L. 101–189 inserted "after September 30, 1991," after "(2)".
 
-<b>1987</b>—Pub. L. 100–180, §712(b)(1), substituted "except that—" and pars. (1) and (2) for "except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000."
+<b>1987</b>—Pub. L. 100–180, §712(b)(1), substituted "except that—" and pars. (1) and (2) for "except that the total number of persons so designated in all of the programsauthorized by this subchapter shall not, at any time, exceed 6,000."
 
 Pub. L. 100–180, §711(a)(2), substituted "subchapter" for "chapter".
 

@@ -58,7 +58,7 @@ The ICCVAM shall be composed of the heads of the following Federal agencies (or 
 
 #### (1) Establishment
 
-&emsp;The Director of the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee (referred to in sections 285l–2 to 285l–5 of this title as the "SAC") to advise ICCVAM and the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods regarding ICCVAM activities. The activities of the SAC shall be subject to provisions of the Federal Advisory Committee Act.
+&emsp;The Director of the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee (referred to insections 285l–2 to 285l–5 of this title as the "SAC") to advise ICCVAM and the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods regarding ICCVAM activities. The activities of the SAC shall be subject to provisions of the Federal Advisory Committee Act.
 
 #### (2) Membership
 
@@ -70,7 +70,7 @@ The ICCVAM shall be composed of the heads of the following Federal agencies (or 
 
 &emsp;&emsp;&emsp;&emsp;(I) the personal care, pharmaceutical, industrial chemicals, or agriculture industry;
 
-&emsp;&emsp;&emsp;&emsp;(II) any other industry that is regulated by the Federal agencies specified in subsection (c) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) any other industry that is regulated by the Federal agencies specified in subsection (c); and
 
 &emsp;&emsp;&emsp;&emsp;(III) a national animal protection organization established under section 501(c)(3) of title 26.
 
@@ -78,11 +78,11 @@ The ICCVAM shall be composed of the heads of the following Federal agencies (or 
 
 #### (B) Nonvoting ex officio members
 
-&emsp;&emsp;The membership of the SAC shall, in addition to voting members under subparagraph (A), include as nonvoting ex officio members the agency heads specified in subsection (c) of this section (or their designees).
+&emsp;&emsp;The membership of the SAC shall, in addition to voting members under subparagraph (A), include as nonvoting ex officio members the agency heads specified in subsection (c) (or their designees).
 
 #### (e) Duties
 
-The ICCVAM shall, consistent with the purposes described in subsection (b) of this section, carry out the following functions:
+The ICCVAM shall, consistent with the purposes described in subsection (b), carry out the following functions:
 
 &emsp;(1) Review and evaluate new or revised or alternative test methods, including batteries of tests and test screens, that may be acceptable for specific regulatory uses, including the coordination of technical reviews of proposed new or revised or alternative test methods of interagency interest.
 
@@ -114,7 +114,7 @@ Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

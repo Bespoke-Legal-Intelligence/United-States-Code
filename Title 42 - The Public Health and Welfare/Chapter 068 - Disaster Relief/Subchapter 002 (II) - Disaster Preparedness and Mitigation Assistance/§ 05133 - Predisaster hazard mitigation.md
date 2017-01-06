@@ -32,7 +32,7 @@ If the President determines that a State or local government has identified natu
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in providing assistance to local governmentsunder this section, the President shall select from local governments recommended by the Governors under this subsection.
+&emsp;&emsp;Except as provided in subparagraph (B), in providing assistance to local governments under this section, the President shall select from local governments recommended by the Governors under this subsection.
 
 #### (B) Extraordinary circumstances
 
@@ -70,7 +70,7 @@ If the President determines that a State or local government has identified natu
 
 #### (2) Minimum and maximum amounts
 
-&emsp;In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made available to a State (including amounts made available to local governments of the State) for a fiscal year—
+&emsp;In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made availableto a State (including amounts made available to local governments of the State) for a fiscal year—
 
 &emsp;&emsp;(A) is not less than the lesser of—
 
@@ -172,7 +172,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (1) Definition of multihazard advisory map
 
-&emsp;In this subsection, the term "multihazard advisory map" means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
+&emsp;In this subsection, the term "multihazard advisory map" means a map on which hazarddata concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
 
 #### (2) Development of maps
 
@@ -260,7 +260,7 @@ Pub. L. 111–351, §2, Jan. 4, 2011, 124 Stat. 3863, provided that: "Congress f
 
 &emsp;"(3) A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds.
 
-&emsp;"(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
+&emsp;"(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Lookingat a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
 
 &emsp;"(5) Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment."
 

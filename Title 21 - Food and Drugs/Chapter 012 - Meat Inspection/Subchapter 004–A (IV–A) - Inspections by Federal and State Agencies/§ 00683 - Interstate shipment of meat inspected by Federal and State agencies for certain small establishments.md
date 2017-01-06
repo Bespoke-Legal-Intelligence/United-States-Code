@@ -126,7 +126,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (1) Periodic audits conducted by Inspector General of the Department of Agriculture
 
-&emsp;Not later than 2 years after the effective date described in subsection (j), and not less often than every 3 years thereafter, the Inspector General of the Department of Agriculture shall conduct an audit of each activity taken by the Secretary under this section for the period covered by the audit to determine compliance with this section.
+&emsp;Not later than 2 years after the effective date described in subsection (j), and not lessoften than every 3 years thereafter, the Inspector General of the Department of Agriculture shall conduct an audit of each activity taken by the Secretary under this section for the period covered by the audit to determine compliance with this section.
 
 #### (2) Audit conducted by Comptroller General of the United States
 

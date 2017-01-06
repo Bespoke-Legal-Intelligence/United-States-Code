@@ -20,7 +20,7 @@ The agreement to arbitrate—
 
 (i) Shall fix a period from the beginning of the hearings within which the said board shall make and file its award: <i>Provided</i>, That the parties may agree at any time upon an extension of this period;
 
-(j) Shall provide for the date from which the award shall become effective and shall fix theperiod during which the award shall continue in force;
+(j) Shall provide for the date from which the award shall become effective and shall fix the period during which the award shall continue in force;
 
 (k) Shall provide that the award of the board of arbitration and the evidence of the proceedings before the board relating thereto, when certified under the hands of at least a majority of the arbitrators, shall be filed in the clerk's office of the district court of the United States for the district wherein the controversy arose or the arbitration was entered into, which district shall be designated in the agreement; and, when so filed, such award and proceedings shall constitute the full and complete record of the arbitration;
 

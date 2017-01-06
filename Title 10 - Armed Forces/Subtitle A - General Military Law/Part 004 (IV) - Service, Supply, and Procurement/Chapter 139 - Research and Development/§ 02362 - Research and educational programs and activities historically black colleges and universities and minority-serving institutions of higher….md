@@ -38,7 +38,7 @@ Priority for Funding.—The Secretary of Defense may establish procedures under 
 
 Definition of Covered Educational Institution.—In this section the term "covered educational institution" means—
 
-&emsp;(1) an institution of higher education eligible for assistance under title III or V of the Higher Education Act of 1965 (20 U.S.C. 1051 et seq.); or
+&emsp;(1) an institution of higher education eligible for assistance under title III or V of theHigher Education Act of 1965 (20 U.S.C. 1051 et seq.); or
 
 &emsp;(2) an accredited postsecondary minority institution.
 

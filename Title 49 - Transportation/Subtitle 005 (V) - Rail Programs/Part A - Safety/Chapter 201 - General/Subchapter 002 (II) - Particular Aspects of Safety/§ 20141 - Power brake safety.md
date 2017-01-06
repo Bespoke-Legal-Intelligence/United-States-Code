@@ -198,7 +198,7 @@ ECP brake system.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term 'ECP brake system' means a train power braking system actuated by compressed air and controlled by electronic signals from the locomotive or an ECP–EOT to the cars inthe consist for service and emergency applications in which the brake pipe is used to provide a constant supply of compressed air to the reservoirs on each car but does not convey braking signals to the car.
+In general.—The term 'ECP brake system' means a train power braking system actuated by compressed air and controlled by electronic signals from the locomotive or an ECP–EOT to the cars in the consist for service and emergency applications in which the brake pipe is used to provide a constant supply of compressed air to the reservoirs on each car but does not convey braking signals to the car.
 
 &emsp;&emsp;"(B)
 

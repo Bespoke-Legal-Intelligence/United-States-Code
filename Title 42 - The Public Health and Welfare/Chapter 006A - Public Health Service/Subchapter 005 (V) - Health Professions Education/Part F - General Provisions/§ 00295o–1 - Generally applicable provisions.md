@@ -66,9 +66,9 @@ The Secretary shall ensure that—
 
 &emsp;(2) discipline-specific workforce information and analytical activities are carried out as part of—
 
-&emsp;&emsp;(A) the community-based linkage program under part D of this subchapter; and
+&emsp;&emsp;(A) the community-based linkage program under part D; and
 
-&emsp;&emsp;(B) the health workforce development program under subpart 2 of part E of this subchapter.
+&emsp;&emsp;(B) the health workforce development program under subpart 2 of part E.
 
 #### (i) Osteopathic Schools
 

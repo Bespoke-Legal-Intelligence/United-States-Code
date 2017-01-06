@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-From funds made available under section 6332(a) of this title the Secretary is authorized to make grants to States, from allotments under subsection (b) of this section, to carry out the programs and activities of this part.
+From funds made available under section 6332(a) of this title the Secretary is authorizedto make grants to States, from allotments under subsection (b), to carry out the programs and activities of this part.
 
 #### (b) Distribution based upon fiscal effort and equity
 
@@ -86,7 +86,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (1) States with an equity factor less than .10
 
-&emsp;In States with an equity factor less than .10, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
+&emsp;In States with an equity factor less than .10, the weighted child counts referred to in subsection (d) shall be calculated as follows:
 
 #### (A) Weights for allocations to counties
 
@@ -100,7 +100,7 @@ Funds received by States under this section shall be allocated within States to 
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of children determined under section 6333(c) of this title for that county who constitute not more than 15.00 percent, inclusive, of the county's total population aged 5 to 17, inclusive, multiplied by 1.0;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of such children who constitute more than 15.00 percent, butnot more than 19.00 percent, of such population, multiplied by 1.75;
+&emsp;&emsp;&emsp;&emsp;(II) the number of such children who constitute more than 15.00 percent, but not more than 19.00 percent, of such population, multiplied by 1.75;
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children who constitute more than 19.00 percent, but not more than 24.20 percent, of such population, multiplied by 2.5;
 
@@ -158,7 +158,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (2) States with an equity factor greater than or equal to .10 and less than .20
 
-&emsp;In States with an equity factor greater than or equal to .10 and less than .20, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
+&emsp;In States with an equity factor greater than or equal to .10 and less than .20, the weightedchild counts referred to in subsection (d) shall be calculated as follows:
 
 #### (A) Weights for allocations to counties
 
@@ -230,7 +230,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (3) States with an equity factor greater than or equal to .20
 
-&emsp;In States with an equity factor greater than or equal to .20, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
+&emsp;In States with an equity factor greater than or equal to .20, the weighted child counts referred to in subsection (d) shall be calculated as follows:
 
 #### (A) Weights for allocations to counties
 
@@ -358,7 +358,7 @@ A prior section 1125A of Pub. L. 89–10 was classified to section 6336 of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of thistitle" for "funds appropriated under subsection (f) of this section".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of this title" for "funds appropriated under subsection (f) of this section".
 
 Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year to carry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
 

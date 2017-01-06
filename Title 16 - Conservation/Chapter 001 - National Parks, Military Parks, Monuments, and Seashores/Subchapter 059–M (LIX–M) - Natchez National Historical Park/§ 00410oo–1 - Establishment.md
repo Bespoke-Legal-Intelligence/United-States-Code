@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to provide for the benefit, inspiration, and education of the American people, there is hereby established the Natchez National Historical Park (hereinafter in this subchapter referred to as the "park") in the State of Mississippi.
+In order to provide for the benefit, inspiration, and education of the American people, there ishereby established the Natchez National Historical Park (hereinafter in this subchapter referred to as the "park") in the State of Mississippi.
 
 #### (b) Area included
 

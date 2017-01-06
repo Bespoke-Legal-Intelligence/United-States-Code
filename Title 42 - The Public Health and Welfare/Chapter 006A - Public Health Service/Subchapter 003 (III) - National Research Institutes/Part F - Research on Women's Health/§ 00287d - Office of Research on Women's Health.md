@@ -28,9 +28,9 @@ The Director of the Office shall—
 
 #### (c) Coordinating Committee
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
+(1) In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
 
-(2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
+(2) The Coordinating Committee shall be composed of the Directors of the national researchinstitutes (or the senior-level staff designees of the Directors).
 
 (3) The Director of the Office shall serve as the chair of the Coordinating Committee.
 
@@ -48,7 +48,7 @@ The Director of the Office shall—
 
 #### (d) Advisory Committee
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
+(1) In carrying out subsection (b), the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
 
 (2) The Advisory Committee shall be composed of no fewer than 12, and not more than 18 individuals, who are not officers or employees of the Federal Government. The Director of NIH shall make appointments to the Advisory Committee from among physicians, practitioners, scientists, and other health professionals, whose clinical practice, research specialization, or professional expertise includes a significant focus on research on women's health. A majority of the members of the Advisory Committee shall be women.
 
@@ -70,7 +70,7 @@ The Director of the Office shall—
 
 &emsp;(B) report to the Director of the Office on such research;
 
-&emsp;(C) provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) of this section and recommendations on priorities in carrying out research described in subparagraph (A)); and
+&emsp;(C) provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) and recommendations on priorities in carrying out research described in subparagraph (A)); and
 
 &emsp;(D) assist in monitoring compliance with section 289a–2 of this title regarding the inclusion of women in clinical research.
 
@@ -102,9 +102,11 @@ For purposes of this part:
 
 &emsp;(2) The term "research on women's health" means research on women's health conditions, including research on preventing such conditions.
 
-(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534.)
+(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(2). Pub. L. 114–255 substituted "senior-level staff designees" for "designees".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148 inserted "and who shall report directly to the Director" before period at end.
 

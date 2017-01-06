@@ -84,19 +84,23 @@ Other components of the master plan.—At a minimum, the master plan shall ident
 
 &emsp;&emsp;(A) the key performance parameters to be resolved through the integrated test and evaluation strategy;
 
-&emsp;&emsp;(B) critical operational issues to be assessed in addition to the key performance parameters;
+&emsp;&emsp;(B) the performance data to be used to determine whether the key performance parameters have been resolved;
 
-&emsp;&emsp;(C) specific development test and evaluation phases and the scope of each phase;
+&emsp;&emsp;(C) critical operational issues to be assessed in addition to the key performance parameters;
 
-&emsp;&emsp;(D) modeling and simulation activities to be performed, if any, and the scope of such activities;
+&emsp;&emsp;(D) the results during test and evaluation that will be required to demonstrate that a capability, asset, or subsystem meets performance requirements;
 
-&emsp;&emsp;(E) early operational assessments to be performed, if any, and the scope of such assessments;
+&emsp;&emsp;(E) specific development test and evaluation phases and the scope of each phase;
 
-&emsp;&emsp;(F) operational test and evaluation phases;
+&emsp;&emsp;(F) modeling and simulation activities to be performed, if any, and the scope of such activities;
 
-&emsp;&emsp;(G) an estimate of the resources, including funds, that will be required for all test, evaluation, assessment, modeling, and simulation activities; and
+&emsp;&emsp;(G) early operational assessments to be performed, if any, and the scope of such assessments;
 
-&emsp;&emsp;(H) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
+&emsp;&emsp;(H) operational test and evaluation phases;
+
+&emsp;&emsp;(I) an estimate of the resources, including funds, that will be required for all test, evaluation, assessment, modeling, and simulation activities; and
+
+&emsp;&emsp;(J) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
 
 &emsp;(4)
 
@@ -108,7 +112,7 @@ Limitation.—The Coast Guard may not—
 
 &emsp;&emsp;(A) proceed beyond that phase of the acquisition process that entails approving the supporting acquisition of a capability or asset before the master plan is approved by the Chief Acquisition Officer; or
 
-&emsp;&emsp;(B) award any production contract for a capability, asset, or subsystem for which a master plan is required under this subsection before the master plan is approved by the Chief Acquisition Officer.
+&emsp;&emsp;(B) award any production contract for a capability, asset, or subsystem for which amaster plan is required under this subsection before the master plan is approved by the Chief Acquisition Officer.
 
 (e)
 
@@ -126,9 +130,13 @@ Types of estimates.—In addition to life-cycle cost estimates that may be devel
 
 Required updates.—For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2942.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2942; amended Pub. L. 114–120, title II, §204(a), Feb. 8, 2016, 130 Stat. 34.)
 
 #### Prior Provisions
 
 A prior section 572, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to courts of inquiry, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (d)(3)(B) to (J). Pub. L. 114–120 added subpars. (B) and (D) and redesignated former subpar. (B) as (C) and former subpars. (C) to (H) as (E) to (J), respectively.
 

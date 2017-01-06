@@ -10,7 +10,7 @@ There shall be in the Administration a Deputy Administrator, who shall be appoin
 
 #### (c) Qualifications of Administrator and Deputy Administrator
 
-The President shall appoint the Administrator and Deputy Administrator from among individuals who, by reason of their general background and experience are specially qualified to managea full range of energy research and development programs.
+The President shall appoint the Administrator and Deputy Administrator from among individuals who, by reason of their general background and experience are specially qualified to manage a full range of energy research and development programs.
 
 #### (d) Assistant Administrators; number; appointment; qualifications
 

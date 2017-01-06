@@ -56,7 +56,7 @@ Amendment by Pub. L. 103–446 effective Oct. 1, 1994, see section 601(d) of Pub
 
 #### Effective Date of 1989 Amendments
 
-Pub. L. 101–237, title IV, §405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: "The amendments made by this section \[amending this section and section 1685 \[now 3485\] of Title 38, Veterans' Benefits\] shall take effect onMay 1, 1990, and shall apply to services performed on or after that date."
+Pub. L. 101–237, title IV, §405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: "The amendments made by this section \[amending this section and section 1685 \[now 3485\] of Title 38, Veterans' Benefits\] shall take effect on May 1, 1990, and shall apply to services performed on or after that date."
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 

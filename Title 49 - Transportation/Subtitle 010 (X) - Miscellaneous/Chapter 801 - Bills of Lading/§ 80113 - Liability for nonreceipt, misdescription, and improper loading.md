@@ -2,7 +2,7 @@
 
 (a)
 
-Liability for Nonreceipt and Misdescription.—Except as provided in this section, a common carrier issuing a bill of lading is liable for damages caused by nonreceipt by the carrier of any part of the goods by the date shown in the bill or by failure of the goods to correspond with the description contained in the bill. The carrier is liable to the owner of goods transported under a nonnegotiable bill (subject to the right of stoppage in transit) or to the holder of a negotiable bill if the owner or holder gave value in good faith relying on the description of the goods in the bill or on the shipment being made on the date shown in the bill.
+Liability for Nonreceipt and Misdescription.—Except as provided in this section, a common carrier issuing a bill of lading is liable for damages caused by nonreceipt by the carrier of any part of the goods by the date shown in thebill or by failure of the goods to correspond with the description contained in the bill. The carrier is liable to the owner of goods transported under a nonnegotiable bill (subject to the right of stoppage in transit) or to the holder of a negotiable bill if the owner or holder gave value in good faith relying on the description of the goods in the bill or on the shipment being made on the date shown in the bill.
 
 (b)
 
@@ -28,7 +28,7 @@ Liability for Improper Loading.—A common carrier issuing a bill of lading is n
 
 (d)
 
-Carrier's Duty To Determine Kind, Quantity, and Number.—(1) When bulk freight isloaded by a shipper that makes available to the common carrier adequate facilities for weighing the freight, the carrier must determine the kind and quantity of the freight within a reasonable time after receiving the written request of the shipper to make the determination. In that situation, inserting the words "shipper's weight" or words of the same meaning in the bill of lading has no effect.
+Carrier's Duty To Determine Kind, Quantity, and Number.—(1) When bulk freight is loaded by a shipper that makes available to the common carrier adequate facilities for weighing the freight, the carrier must determine the kind and quantity of the freight within a reasonable time after receiving the written request of the shipper to make the determination. In that situation, inserting the words "shipper's weight" or words of the same meaning in the bill of lading has no effect.
 
 (2) When goods are loaded by a common carrier, the carrier must count the packages of goods, if package freight, and determine the kind and quantity, if bulk freight. In that situation, inserting in the bill of lading or in a notice, receipt, contract, rule, or tariff, the words "shipper's weight, load, and count" or words indicating that the shipper described and loaded the goods, has no effect except for freight concealed by packages.
 

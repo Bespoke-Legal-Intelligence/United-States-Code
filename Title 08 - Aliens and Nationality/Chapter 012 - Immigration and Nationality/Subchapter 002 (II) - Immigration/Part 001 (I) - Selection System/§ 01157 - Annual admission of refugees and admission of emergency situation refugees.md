@@ -122,7 +122,7 @@ For delegation of Congressional reporting functions of President under subsec. (
 
 #### Iraq Refugee Crisis
 
-Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–42, §1, Oct. 4, 2013, 127 Stat. 552; Pub. L. 113–66, div. A, title XII, §1218, Dec. 26, 2013, 127 Stat. 910, provided that:
+Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, titleVIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–42, §1, Oct. 4, 2013, 127 Stat. 552; Pub. L. 113–66, div. A, title XII, §1218, Dec. 26, 2013, 127 Stat. 910, provided that:
 
 #### "SEC. 1241. SHORT TITLE.
 
@@ -222,7 +222,7 @@ Principal aliens.—An alien is described in this subsection if the alien—
 
 &emsp;&emsp;"(B) was or is employed by or on behalf of the United States Government in Iraq, on or after March 20, 2003, for not less than one year;
 
-&emsp;&emsp;"(C) provided faithful and valuable service to the United States Government, which is documented in a positive recommendation or evaluation, subject to paragraph (4), from the employee's senior supervisor or the person currently occupying that position, or a more senior person, if the employee's senior supervisor has left the employer or has left Iraq; and
+&emsp;&emsp;"(C) provided faithful and valuable service to the United States Government, which is documented ina positive recommendation or evaluation, subject to paragraph (4), from the employee's senior supervisor or the person currently occupying that position, or a more senior person, if the employee's senior supervisor has left the employer or has left Iraq; and
 
 &emsp;&emsp;"(D) has experienced or is experiencing an ongoing serious threat as a consequence of the alien's employment by the United States Government.
 
@@ -238,7 +238,7 @@ Spouses and children.—An alien is described in this subsection if the alien—
 
 Treatment of surviving spouse or child.—An alien is described in subsection (b) if the alien—
 
-&emsp;&emsp;"(A) was the spouse or child of a principal alien described in paragraph (1) who had a petition forclassification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note), which included the alien as an accompanying spouse or child; and
+&emsp;&emsp;"(A) was the spouse or child of a principal alien described in paragraph (1) who had a petition for classification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note), which included the alien as an accompanying spouse or child; and
 
 &emsp;&emsp;"(B) due to the death of the principal alien—
 
@@ -342,7 +342,7 @@ Protection of Aliens.—The Secretary of State, in consultation with the heads o
 
 "(f)
 
-Eligibility for Admission Under Other Classification.—No alien shall be denied the opportunity to apply for admission under this section solely because such alien qualifies as an immediate relative or is eligible for any other immigrant classification.
+Eligibility for Admission Under Other Classification.—No alien shall be denied the opportunity to apply for admission under this section solely becausesuch alien qualifies as an immediate relative or is eligible for any other immigrant classification.
 
 "(g)
 
@@ -356,7 +356,7 @@ Rule of Construction.—Nothing in this section may be construed to affect the a
 
 "(a)
 
-Designation in Iraq.—The Secretary of State shall designate in the embassy of the United States inBaghdad, Iraq, a Senior Coordinator for Iraqi Refugees and Internally Displaced Persons (referred to in this section as the 'Senior Coordinator').
+Designation in Iraq.—The Secretary of State shall designate in the embassy of the United States in Baghdad, Iraq, a Senior Coordinator for Iraqi Refugees and Internally Displaced Persons (referred to in this section as the 'Senior Coordinator').
 
 "(b)
 
@@ -432,7 +432,7 @@ Executive agency defined.—In this subsection, the term 'executive agency' has 
 
 "(d)
 
-Report on Establishment of Database.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in consultation with the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Treasury, and the Secretary of Homeland Security, shall submit to Congress a report examining the options for establishing a unified, classified database of information related to contracts, grants, or cooperative agreements entered into by executive agencies for the performance of work in Iraq since March 20, 2003, including the information described and collected under subsection (c), to be used by relevant Federal departments and agencies to adjudicate refugee, asylum, special immigrant visa, and other immigration claims and applications.
+Report on Establishment of Database.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, inconsultation with the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Treasury, and the Secretary of Homeland Security, shall submit to Congress a report examining the options for establishing a unified, classified database of information related to contracts, grants, or cooperative agreements entered into by executive agencies for the performance of work in Iraq since March 20, 2003, including the information described and collected under subsection (c), to be used by relevant Federal departments and agencies to adjudicate refugee, asylum, special immigrant visa, and other immigration claims and applications.
 
 "(e)
 
@@ -568,7 +568,7 @@ Exclusion.—Such term does not include an individual with respect to whom it is
 
 &emsp;"(2)
 
-Missing status.—The term 'missing status', with respect to the Vietnam War, means the status ofan individual as a result of the Vietnam War if immediately before that status began the individual—
+Missing status.—The term 'missing status', with respect to the Vietnam War, means the status of an individual as a result of the Vietnam War if immediately before that status began the individual—
 
 &emsp;&emsp;"(A) was performing service in Vietnam; or
 
@@ -716,7 +716,7 @@ Level of Programming.—The International Broadcasting Bureau shall broadcast—
 
 "(c)
 
-Availability of Information on the Internet.—The International Broadcasting Bureau shall ensurethat information regarding the 'Bring Them Home Alive' refugee program under this Act is readily available on the World Wide Web sites of the Bureau.
+Availability of Information on the Internet.—The International Broadcasting Bureau shall ensure that information regarding the 'Bring Them Home Alive' refugee program under this Act is readily available on the World Wide Web sites of the Bureau.
 
 "(d)
 
@@ -768,7 +768,7 @@ Establishment of Categories.—
 
 &emsp;"(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with 'Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing' (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, and 2016 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, and 2016 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 "(c)
 
@@ -809,6 +809,8 @@ Pub. L. 96–212, title II, §204(d)(1), Mar. 17, 1980, 94 Stat. 109, provided t
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2016–13, Sept. 28, 2016, 81 F.R. 70315.
 
 Presidential Determination No. 2015–14, Sept. 29, 2015, 80 F.R. 62433.
 
@@ -886,7 +888,7 @@ Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
 

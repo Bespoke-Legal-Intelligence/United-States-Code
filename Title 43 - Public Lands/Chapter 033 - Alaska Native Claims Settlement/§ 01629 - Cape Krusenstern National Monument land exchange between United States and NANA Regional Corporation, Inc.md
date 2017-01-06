@@ -16,7 +16,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 #### (c) Exchange limited to designated lands
 
-(1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as "Amended A(1) Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference betweenthat acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
+(1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as "Amended A(1) Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference between that acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
 
 (2) Notwithstanding the provisions of paragraph A(3) of the Agreement, the Secretary shall not convey to NANA any right, title and interest of the United States in the lands described in such paragraph A(3) and the Secretary shall make no charge to NANA's remaining entitlements under this chapter with respect to such lands. Such lands shall be retained in Federal ownership but shall be subject to the easement described in Exhibit D to the Agreement as if the lands had been conveyed to NANA pursuant to paragraph A(3) of the Agreement.
 
@@ -34,7 +34,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 (3) Within 90 days after September 25, 1985, the Secretary shall execute the necessary documents evidencing the grant to NANA of the easement granted by this section.
 
-(4) Except as regards the trail easement described in Exhibit D to the Agreement (to which the "Transportation System Lands" shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
+(4) Except as regards the trail easement described in Exhibit D to the Agreement (to whichthe "Transportation System Lands" shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
 
 #### (e) Compliance with local laws
 

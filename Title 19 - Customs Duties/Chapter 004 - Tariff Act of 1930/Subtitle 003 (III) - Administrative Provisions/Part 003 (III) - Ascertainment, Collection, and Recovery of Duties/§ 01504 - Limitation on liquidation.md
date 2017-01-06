@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the date of the final withdrawal of all such merchandise covered by a warehouse entry,
 
-&emsp;&emsp;(C) the date of withdrawal from warehouse of such merchandise for consumption if, pursuant to regulations issued under section 1505(a) of this title, duties may be deposited after the filing of any entry or withdrawal from warehouse,
+&emsp;&emsp;(C) the date of withdrawal from warehouse of such merchandise for consumption if, pursuant to regulations issued under section1505(a) of this title, duties may be deposited after the filing of any entry or withdrawal from warehouse,
 
 &emsp;&emsp;(D) if a reconciliation is filed, or should have been filed, the date of the filing under section 1484 of this title or the date the reconciliation should have been filed, whichever is earlier; or
 
@@ -44,7 +44,7 @@ The Secretary of the Treasury may extend the period in which to liquidate an ent
 
 &emsp;(2) the importer of record or drawback claimant, as the case may be, requests such extension and shows good cause therefor.
 
-> The Secretary shall give notice of an extension under this subsection to the importer of recordor drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a).
+> The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a).
 
 #### (c) Notice of suspension
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 103–465, §220(c)(2), substituted "Except as provided in 
 
 Subsec. (a)(4). Pub. L. 103–182, §641(1)(B)–(D), added par. (4).
 
-Subsec. (b). Pub. L. 103–182, §641(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: "The Secretary may extend the period in which to liquidate an entry by giving notice of such extension to the importer of record in such form and manner as the Secretary shall prescribe in regulations, if—
+Subsec. (b). Pub. L. 103–182, §641(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Secretary may extend the period in which to liquidate an entry by giving notice of such extension to the importer of record in such form and manner as the Secretary shall prescribe in regulations, if—
 
 &emsp;"(1) information needed for the proper appraisement or classification of the merchandise is not available to the appropriate customs officer;
 
@@ -148,7 +148,7 @@ Pub. L. 95–410, title II, §209(b), Oct. 3, 1978, 92 Stat. 903, provided that:
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> See 2004 Amendment notes below.</i>
 

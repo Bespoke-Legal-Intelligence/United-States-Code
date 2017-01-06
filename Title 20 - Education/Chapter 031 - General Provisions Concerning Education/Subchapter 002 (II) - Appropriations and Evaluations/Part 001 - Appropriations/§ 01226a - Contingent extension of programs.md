@@ -6,15 +6,15 @@ The authorization of appropriations for, or duration of, an applicable program s
 
 #### (b) Amount of appropriation
 
-The amount authorized to be appropriated for the period of automatic extension under subsection (a) of this section of an applicable program shall be the amount authorized to be appropriated for such program for the terminal fiscal year of the applicable program.
+The amount authorized to be appropriated for the period of automatic extension under subsection (a) of an applicable program shall be the amount authorized to be appropriated for such program for the terminal fiscal year of the applicable program.
 
 #### (c) Acts and determinations necessary for program continuation
 
-If the Secretary is required, in the terminal fiscal year of an applicable program, to carry out certain acts or make certain determinations that are necessary for the continuation of such program, such acts or determinations shall be required to be carried out or made during the period of automatic extension under subsection (a) of this section.
+If the Secretary is required, in the terminal fiscal year of an applicable program, to carry out certain acts or make certain determinations that are necessary for the continuation of such program, such acts or determinations shall be required to be carried out or made during the period of automatic extension under subsection (a).
 
 #### (d) Application to commissions, councils, and committees required by law to terminate
 
-This section shall not apply to the authorization of appropriations for a commission, council,or committee which is required by an applicable statute to terminate on a date certain.
+This section shall not apply to the authorization of appropriations for a commission, council, or committee which is required by an applicable statute to terminate on a date certain.
 
 (Pub. L. 90–247, title IV, §422, formerly §414, as added Pub. L. 93–380, title V, §506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374, title XIII, §1301, Oct. 3, 1980, 94 Stat. 1496; renumbered §422 and amended Pub. L. 103–382, title II, §§212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
 
@@ -44,5 +44,5 @@ Applicability of contingent extension provisions to any program of financial ass
 
 #### Limitation on Extension of Programs
 
-Pub. L. 94–328, §2(d), June 30, 1976, 90 Stat. 727, provided that: "The amendments made by this section \[amending sections 1070a, 1074, 1078 and 1078a of this title and enacting provisions set out as a note under section 2756 of Title 42, The Public Health and Welfare\] shall not be deemed to authorize the automatic extension of the programs so amended, under section 414 \[now 422\] of the General Education Provisions Act \[this section\], beyond the date specified in such amendments."
+Pub. L. 94–328, §2(d), June 30, 1976, 90 Stat. 727, provided that: "The amendments made by this section \[amending sections 1070a, 1074, 1078 and 1078a of this title\] shall not be deemed to authorize the automatic extension of the programs so amended, under section 414 \[now 422\] of the General Education Provisions Act \[this section\], beyond the date specified in such amendments."
 

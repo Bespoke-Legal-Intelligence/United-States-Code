@@ -4,7 +4,7 @@
 
 General.—The lease between the Secretary of Transportation and the Metropolitan Washington Airports Authority under section 6005(a) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378), for the Metropolitan Washington Airports must provide during its 50-year term at least the following:
 
-&emsp;(1) The Airports Authority shall operate, maintain, protect, promote, and develop the Metropolitan Washington Airports as a unit and as primary airports serving the Metropolitan Washington area.
+&emsp;(1) The Airports Authority shall operate, maintain, protect, promote, and develop theMetropolitan Washington Airports as a unit and as primary airports serving the Metropolitan Washington area.
 
 &emsp;(2)(A) In this paragraph, "airport purposes" means a use of property interests (except a sale) for—
 

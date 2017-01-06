@@ -10,7 +10,7 @@ It shall not be unlawful under section 2000e–2 or 2000e–3 of this title for 
 
 #### (c) Control of corporation incorporated in foreign country
 
-(1) If an employer controls a corporation whose place of incorporation is a foreign country, any practice prohibited by section 2000e–2 or2000e–3 of this title engaged in by such corporation shall be presumed to be engaged in by such employer.
+(1) If an employer controls a corporation whose place of incorporation is a foreign country, any practice prohibited by section 2000e–2 or 2000e–3 of this title engaged in by such corporation shall be presumed to be engaged in by such employer.
 
 (2) Sections 2000e–2 and 2000e–3 of this title shall not apply with respect to the foreign operations of an employer that is a foreign person not controlled by an American employer.
 

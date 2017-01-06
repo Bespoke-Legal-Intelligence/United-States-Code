@@ -78,7 +78,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 &emsp;(E) the absence of information about physical characteristics of holders of those certificates.
 
-(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of U.S. Customs and Border Protection, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
 (3) For purposes of this section, the term "acts of terrorism" means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
 
@@ -216,7 +216,7 @@ Special rules with respect to certain pilots.—
 
 &emsp;&emsp;(A)
 
-Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
+Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14,Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
 
 &emsp;&emsp;(B)
 
@@ -240,7 +240,7 @@ In general.—Before allowing an individual to begin service as a pilot, an air 
 
 &emsp;(2)
 
-Pilot records database.—The Administrator shall establish an electronic database (in this subsection referred to as the "database") containing the following records:
+Pilot records database.—Not later than April 30, 2017, the Administrator shall establish and make available for use an electronic database (in this subsection referred to as the "database") containing the following records:
 
 &emsp;&emsp;(A) FAA
 
@@ -286,7 +286,7 @@ Written consent; release from liability.—An air carrier—
 
 &emsp;&emsp;(A) shall obtain the written consent of an individual before accessing records pertaining to the individual under paragraph (1); and
 
-&emsp;&emsp;(B) may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing informationknown to be false and maintained in violation of a criminal statute).
+&emsp;&emsp;(B) may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
 
 &emsp;(4)
 
@@ -294,7 +294,7 @@ Reporting.—
 
 &emsp;&emsp;(A)
 
-Reporting by administrator.—The Administrator shall enter data described in paragraph (2)(A) into the database promptly to ensure that an individual's records are current.
+Reporting by administrator.—The Administrator shall enter data described in paragraph (2)(A) into the database promptlyto ensure that an individual's records are current.
 
 &emsp;&emsp;(B)
 
@@ -402,7 +402,7 @@ Regulations for protection and security of records.—The Administrator shall pr
 
 &emsp;(12)
 
-Good faith exception.—Notwithstanding paragraph (1), an air carrier may allow anindividual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if—
+Good faith exception.—Notwithstanding paragraph (1), an air carrier may allow an individual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if—
 
 &emsp;&emsp;(A) the air carrier has made a documented good faith attempt to access the information from the database; and
 
@@ -500,7 +500,7 @@ Actions and proceedings.—No action or proceeding may be brought against an air
 
 Limitation on Statutory Construction.—Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629; Pub. L. 112–95, title III, §§301(a), 310(c), Feb. 14, 2012, 126 Stat. 56, 65; Pub. L. 112–153, §2(c)(1), Aug. 3, 2012, 126 Stat. 1160.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629; Pub. L. 112–95, title III, §§301(a), 310(c), Feb. 14, 2012, 126 Stat. 56, 65; Pub. L. 112–153, §2(c)(1), Aug. 3, 2012, 126 Stat. 1160; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 114–190, title II, §2101, July 15, 2016, 130 Stat. 619.)
 
 Historical and Revision Notes
 
@@ -608,6 +608,8 @@ The text of section 44936(f) to (h) of this title, which was transferred to the 
 
 #### Amendments
 
+<b>2016</b>—Subsec. (i)(2). Pub. L. 114–190 substituted "Not later than April 30, 2017, the Administrator shall establish and make available for use" for "The Administrator shall establish".
+
 <b>2012</b>—Subsec. (d)(2). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Federal Aviation Administration".
 
 Subsec. (d)(3). Pub. L. 112–95, §301(a), added par. (3).
@@ -644,6 +646,10 @@ Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section ident
 
 <b>2000</b>—Subsecs. (c) to (g). Pub. L. 106–181 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (g)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub. L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
@@ -654,11 +660,347 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Medical Certification of Certain Small Aircraft Pilots
+
+Pub. L. 114–190, title II, §2307, July 15, 2016, 130 Stat. 641, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall issue or revise regulations to ensure that an individual may operate as pilot in command of a covered aircraft if—
+
+&emsp;"(1) the individual possesses a valid driver's license issued by a State, territory, or possession of the United States and complies with all medical requirements or restrictions associated with that license;
+
+&emsp;"(2) the individual holds a medical certificate issued by the Federal Aviation Administration on the date of enactment of this Act, held such a certificate at any point during the 10-year period preceding such date of enactment, or obtains such a certificate after such date of enactment;
+
+&emsp;"(3) the most recent medical certificate issued by the Federal Aviation Administration to the individual—
+
+&emsp;&emsp;"(A) indicates whether the certificate is first, second, or third class;
+
+&emsp;&emsp;"(B) may include authorization for special issuance;
+
+&emsp;&emsp;"(C) may be expired;
+
+&emsp;&emsp;"(D) cannot have been revoked or suspended; and
+
+&emsp;&emsp;"(E) cannot have been withdrawn;
+
+&emsp;"(4) the most recent application for airman medical certification submitted to the Federal Aviation Administration by the individual cannot have been completed and denied;
+
+&emsp;"(5) the individual has completed a medical education course described in subsection (c) during the 24 calendar months before acting as pilot in command of a covered aircraft and demonstrates proof of completion of the course;
+
+&emsp;"(6) the individual, when serving as a pilot in command, is under the care and treatment of a physician if the individual has been diagnosed with any medical condition that may impact the ability of the individual to fly;
+
+&emsp;"(7) the individual has received a comprehensive medical examination from a State-licensed physician during the previous 48 months and—
+
+&emsp;&emsp;"(A) prior to the examination, the individual—
+
+&emsp;&emsp;&emsp;"(i) completed the individual's section of the checklist described in subsection (b); and
+
+&emsp;&emsp;&emsp;"(ii) provided the completed checklist to the physician performing the examination; and
+
+&emsp;&emsp;"(B) the physician conducted the comprehensive medical examination in accordance with the checklist described in subsection (b), checking each item specified during the examination and addressing, as medically appropriate, every medical condition listed, and any medications the individual is taking; and
+
+&emsp;"(8) the individual is operating in accordance with the following conditions:
+
+&emsp;&emsp;"(A) The covered aircraft is carrying not more than 5 passengers.
+
+&emsp;&emsp;"(B) The individual is operating the covered aircraft under visual flight rules or instrument flight rules.
+
+&emsp;&emsp;"(C) The flight, including each portion of that flight, is not carried out—
+
+&emsp;&emsp;&emsp;"(i) for compensation or hire, including that no passenger or property on the flight is being carried for compensation or hire;
+
+&emsp;&emsp;&emsp;"(ii) at an altitude that is more than 18,000 feet above mean sea level;
+
+&emsp;&emsp;&emsp;"(iii) outside the United States, unless authorized by the country in which the flight is conducted; or
+
+&emsp;&emsp;&emsp;"(iv) at an indicated air speed exceeding 250 knots.
+
+"(b)
+
+Comprehensive Medical Examination.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall develop a checklist for an individual to complete and provide to the physician performing the comprehensive medical examination required in subsection (a)(7).
+
+&emsp;"(2)
+
+Requirements.—The checklist shall contain—
+
+&emsp;&emsp;"(A) a section, for the individual to complete that contains—
+
+&emsp;&emsp;&emsp;"(i) boxes 3 through 13 and boxes 16 through 19 of the Federal Aviation Administration Form 8500–8 (3–99); and
+
+&emsp;&emsp;&emsp;"(ii) a signature line for the individual to affirm that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the answers provided by the individual on that checklist, including the individual's answers regarding medical history, are true and complete;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the individual understands that he or she is prohibited under Federal Aviation Administration regulations from acting as pilot in command, or any other capacity as a required flight crew member, if he or she knows or has reason to know of any medical deficiency or medically disqualifying condition that would make the individual unable to operate the aircraft in a safe manner; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the individual is aware of the regulations pertaining to the prohibition on operations during medical deficiency and has no medically disqualifying conditions in accordance with applicable law;
+
+&emsp;&emsp;"(B) a section with instructions for the individual to provide the completed checklist to the physician performing the comprehensive medical examination required in subsection (a)(7); and
+
+&emsp;&emsp;"(C) a section, for the physician to complete, that instructs the physician—
+
+&emsp;&emsp;&emsp;"(i) to perform a clinical examination of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) head, face, neck, and scalp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) nose, sinuses, mouth, and throat;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) ears, general (internal and external canals), and eardrums (perforation);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) eyes (general), ophthalmoscopic, pupils (equality and reaction), and ocular motility (associated parallel movement, nystagmus);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) lungs and chest (not including breast examination);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) heart (precordial activity, rhythm, sounds, and murmurs);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) vascular system (pulse, amplitude, and character, and arms, legs, and others);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VIII) abdomen and viscera (including hernia);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IX) anus (not including digital examination);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(X) skin;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XI) G–U system (not including pelvic examination);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XII) upper and lower extremities (strength and range of motion);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XIII) spine and other musculoskeletal;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XIV) identifying body marks, scars, and tattoos (size and location);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XV) lymphatics;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XVI) neurologic (tendon reflexes, equilibrium, senses, cranial nerves, and coordination, etc.);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XVII) psychiatric (appearance, behavior, mood, communication, and memory);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XVIII) general systemic;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XIX) hearing;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XX) vision (distant, near, and intermediate vision, field of vision, color vision, and ocular alignment);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XXI) blood pressure and pulse; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XXII) anything else the physician, in his or her medical judgment, considers necessary;
+
+&emsp;&emsp;&emsp;"(ii) to exercise medical discretion to address, as medically appropriate, any medical conditions identified, and to exercise medical discretion in determining whether any medical tests are warranted as part of the comprehensive medical examination;
+
+&emsp;&emsp;&emsp;"(iii) to discuss all drugs the individual reports taking (prescription and nonprescription) and their potential to interfere with the safe operation of an aircraft or motor vehicle;
+
+&emsp;&emsp;&emsp;"(iv) to sign the checklist, stating: 'I certify that I discussed all items on this checklist with the individual during my examination, discussed any medications the individual is taking that could interfere with their ability to safely operate an aircraft or motor vehicle, and performed an examination that included all of the items on this checklist. I certify that I am not aware of any medical condition that, as presently treated, could interfere with the individual's ability to safely operate an aircraft.'; and
+
+&emsp;&emsp;&emsp;"(v) to provide the date the comprehensive medical examination was completed, and the physician's full name, address, telephone number, and State medical license number.
+
+&emsp;"(3)
+
+Logbook.—The completed checklist shall be retained in the individual's logbook and made available on request.
+
+"(c)
+
+Medical Education Course Requirements.—The medical education course described in this subsection shall—
+
+&emsp;"(1) be available on the Internet free of charge;
+
+&emsp;"(2) be developed and periodically updated in coordination with representatives of relevant nonprofit and not-for-profit general aviation stakeholder groups;
+
+&emsp;"(3) educate pilots on conducting medical self-assessments;
+
+&emsp;"(4) advise pilots on identifying warning signs of potential serious medical conditions;
+
+&emsp;"(5) identify risk mitigation strategies for medical conditions;
+
+&emsp;"(6) increase awareness of the impacts of potentially impairing over-the-counter and prescription drug medications;
+
+&emsp;"(7) encourage regular medical examinations and consultations with primary care physicians;
+
+&emsp;"(8) inform pilots of the regulations pertaining to the prohibition on operations during medical deficiency and medically disqualifying conditions;
+
+&emsp;"(9) provide the checklist developed by the Federal Aviation Administration in accordance with subsection (b); and
+
+&emsp;"(10) upon successful completion of the course, electronically provide to the individual and transmit to the Federal Aviation Administration—
+
+&emsp;&emsp;"(A) a certification of completion of the medical education course, which shall be printed and retained in the individual's logbook and made available upon request, and shall contain the individual's name, address, and airman certificate number;
+
+&emsp;&emsp;"(B) subject to subsection (d), a release authorizing the National Driver Register through a designated State Department of Motor Vehicles to furnish to the Federal Aviation Administration information pertaining to the individual's driving record;
+
+&emsp;&emsp;"(C) a certification by the individual that the individual is under the care and treatment of a physician if the individual has been diagnosed with any medical condition that may impact the ability of the individual to fly, as required under subsection (a)(6);
+
+&emsp;&emsp;"(D) a form that includes—
+
+&emsp;&emsp;&emsp;"(i) the name, address, telephone number, and airman certificate number of the individual;
+
+&emsp;&emsp;&emsp;"(ii) the name, address, telephone number, and State medical license number of the physician performing the comprehensive medical examination required in subsection (a)(7);
+
+&emsp;&emsp;&emsp;"(iii) the date of the comprehensive medical examination required in subsection (a)(7); and
+
+&emsp;&emsp;&emsp;"(iv) a certification by the individual that the checklist described in subsection (b) was followed and signed by the physician in the comprehensive medical examination required in subsection (a)(7); and
+
+&emsp;&emsp;"(E) a statement, which shall be printed, and signed by the individual certifying that the individual understands the existing prohibition on operations during medical deficiency by stating: 'I understand that I cannot act as pilot in command, or any other capacity as a required flight crew member, if I know or have reason to know of any medical condition that would make me unable to operate the aircraft in a safe manner.'.
+
+"(d)
+
+National Driver Register.—The authorization under subsection (c)(10)(B) shall be an authorization for a single access to the information contained in the National Driver Register.
+
+"(e)
+
+Special Issuance Process.—
+
+&emsp;"(1)
+
+In general.—An individual who has qualified for the third-class medical certificate exemption under subsection (a) and is seeking to serve as a pilot in command of a covered aircraft shall be required to have completed the process for obtaining an Authorization for Special Issuance of a Medical Certificate for each of the following:
+
+&emsp;&emsp;"(A) A mental health disorder, limited to an established medical history or clinical diagnosis of—
+
+&emsp;&emsp;&emsp;"(i) personality disorder that is severe enough to have repeatedly manifested itself by overt acts;
+
+&emsp;&emsp;&emsp;"(ii) psychosis, defined as a case in which an individual—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has manifested delusions, hallucinations, grossly bizarre or disorganized behavior, or other commonly accepted symptoms of psychosis; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) may reasonably be expected to manifest delusions, hallucinations, grossly bizarre or disorganized behavior, or other commonly accepted symptoms of psychosis;
+
+&emsp;&emsp;&emsp;"(iii) bipolar disorder; or
+
+&emsp;&emsp;&emsp;"(iv) substance dependence within the previous 2 years, as defined in section 67.307(a)(4) of title 14, Code of Federal Regulations.
+
+&emsp;&emsp;"(B) A neurological disorder, limited to an established medical history or clinical diagnosis of any of the following:
+
+&emsp;&emsp;&emsp;"(i) Epilepsy.
+
+&emsp;&emsp;&emsp;"(ii) Disturbance of consciousness without satisfactory medical explanation of the cause.
+
+&emsp;&emsp;&emsp;"(iii) A transient loss of control of nervous system functions without satisfactory medical explanation of the cause.
+
+&emsp;&emsp;"(C) A cardiovascular condition, limited to a one-time special issuance for each diagnosis of the following:
+
+&emsp;&emsp;&emsp;"(i) Myocardial infraction \[sic\].
+
+&emsp;&emsp;&emsp;"(ii) Coronary heart disease that has required treatment.
+
+&emsp;&emsp;&emsp;"(iii) Cardiac valve replacement.
+
+&emsp;&emsp;&emsp;"(iv) Heart replacement.
+
+&emsp;"(2)
+
+Special rule for cardiovascular conditions.—In the case of an individual with a cardiovascular condition, the process for obtaining an Authorization for Special Issuance of a Medical Certificate shall be satisfied with the successful completion of an appropriate clinical evaluation without a mandatory wait period.
+
+&emsp;"(3)
+
+Special rule for mental health conditions.—
+
+&emsp;&emsp;"(A)
+
+In general.—In the case of an individual with a clinically diagnosed mental health condition, the third-class medical certificate exemption under subsection (a) shall not apply if—
+
+&emsp;&emsp;&emsp;"(i) in the judgment of the individual's State-licensed medical specialist, the condition—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) renders the individual unable to safely perform the duties or exercise the airman privileges described in subsection (a)(8); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) may reasonably be expected to make the individual unable to perform the duties or exercise the privileges described in subsection (a)(8); or
+
+&emsp;&emsp;&emsp;"(ii) the individual's driver's license is revoked by the issuing agency as a result of a clinically diagnosed mental health condition.
+
+&emsp;&emsp;"(B)
+
+Certification.—Subject to subparagraph (A), an individual clinically diagnosed with a mental health condition shall certify every 2 years, in conjunction with the certification under subsection (c)(10)(C), that the individual is under the care of a State-licensed medical specialist for that mental health condition.
+
+&emsp;"(4)
+
+Special rule for neurological conditions.—
+
+&emsp;&emsp;"(A)
+
+In general.—In the case of an individual with a clinically diagnosed neurological condition, the third-class medical certificate exemption under subsection (a) shall not apply if—
+
+&emsp;&emsp;&emsp;"(i) in the judgment of the individual's State-licensed medical specialist, the condition—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) renders the individual unable to safely perform the duties or exercise the airman privileges described in subsection (a)(8); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) may reasonably be expected to make the individual unable to perform the duties or exercise the privileges described in subsection (a)(8); or
+
+&emsp;&emsp;&emsp;"(ii) the individual's driver's license is revoked by the issuing agency as a result of a clinically diagnosed neurological condition.
+
+&emsp;&emsp;"(B)
+
+Certification.—Subject to subparagraph (A), an individual clinically diagnosed with a neurological condition shall certify every 2 years, in conjunction with the certification under subsection (c)(10)(C), that the individual is under the care of a State-licensed medical specialist for that neurological condition.
+
+"(f)
+
+Identification of Additional Medical Conditions for CACI Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall review and identify additional medical conditions that could be added to the program known as the Conditions AMEs Can Issue (CACI) program.
+
+&emsp;"(2)
+
+Consultations.—In carrying out paragraph (1), the Administrator shall consult with aviation, medical, and union stakeholders.
+
+&emsp;"(3)
+
+Report required.—Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report listing the medical conditions that have been added to the CACI program under paragraph (1).
+
+"(g)
+
+Expedited Authorization for Special Issuance of a Medical Certificate.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall implement procedures to expedite the process for obtaining an Authorization for Special Issuance of a Medical Certificate under section 67.401 of title 14, Code of Federal Regulations.
+
+&emsp;"(2)
+
+Consultations.—In carrying out paragraph (1), the Administrator shall consult with aviation, medical, and union stakeholders.
+
+&emsp;"(3)
+
+Report required.—Not later than 1 year after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report describing how the procedures implemented under paragraph (1) will streamline the process for obtaining an Authorization for Special Issuance of a Medical Certificate and reduce the amount of time needed to review and decide special issuance cases.
+
+"(h)
+
+Report Required.—Not later than 5 years after the date of enactment of this Act, the Administrator, in coordination with the National Transportation Safety Board, shall submit to the appropriate committees of Congress a report that describes the effect of the regulations issued or revised under subsection (a) and includes statistics with respect to changes in small aircraft activity and safety incidents.
+
+"(i)
+
+Prohibition on Enforcement Actions.—Beginning on the date that is 1 year after the date of enactment of this Act, the Administrator may not take an enforcement action for not holding a valid third-class medical certificate against a pilot of a covered aircraft for a flight if the pilot and the flight meet, through a good faith effort, the applicable requirements under subsection (a), except paragraph (5) of that subsection, unless the Administrator has published final regulations in the Federal Register under that subsection.
+
+"(j)
+
+Covered Aircraft Defined.—In this section, the term 'covered aircraft' means an aircraft that—
+
+&emsp;"(1) is authorized under Federal law to carry not more than 6 occupants; and
+
+&emsp;"(2) has a maximum certificated takeoff weight of not more than 6,000 pounds.
+
+"(k)
+
+Operations Covered.—The provisions and requirements covered in this section do not apply to pilots who elect to operate under the medical requirements under subsection (b) or subsection (c) of section 61.23 of title 14, Code of Federal Regulations.
+
+"(l)
+
+Authority To Require Additional Information.—
+
+&emsp;"(1)
+
+In general.—If the Administrator receives credible or urgent information, including from the National Driver Register or the Administrator's Safety Hotline, that reflects on an individual's ability to safely operate a covered aircraft under the third-class medical certificate exemption in subsection (a), the Administrator may require the individual to provide additional information or history so that the Administrator may determine whether the individual is safe to continue operating a covered aircraft.
+
+&emsp;"(2)
+
+Use of information.—The Administrator may use credible or urgent information received under paragraph (1) to request an individual to provide additional information or to take actions under section 44709(b) of title 49, United States Code."
 
 #### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
 
@@ -738,7 +1080,7 @@ Required information from individual.—The individual may obtain the informatio
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provision of information to individual.—If the Administrator receives a requestunder this subparagraph, the Administrator shall—
+Provision of information to individual.—If the Administrator receives a request under this subparagraph, the Administrator shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) request the contractor to provide the requested information; and
 
@@ -890,7 +1232,7 @@ Report to Congress.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
+In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit tothe Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
 
 &emsp;"(2)
 

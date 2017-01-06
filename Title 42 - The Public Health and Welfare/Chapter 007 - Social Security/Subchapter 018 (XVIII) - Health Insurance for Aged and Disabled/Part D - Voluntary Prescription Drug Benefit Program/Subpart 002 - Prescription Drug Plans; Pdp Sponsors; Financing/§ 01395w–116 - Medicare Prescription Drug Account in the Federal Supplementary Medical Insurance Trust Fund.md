@@ -48,11 +48,11 @@
 
 #### (2) Amounts withheld
 
-&emsp;Pursuant to sections 1395w–113(c) and 1395w–24(d) of this title (as applied under this part), amounts that are withheld (and allocated) to the Account are deposited into the Account.
+&emsp;Pursuant to sections 1395w–113(c) and 1395w–24(d) of this title (as applied under thispart), amounts that are withheld (and allocated) to the Account are deposited into the Account.
 
 #### (3) Appropriations to cover Government contributions
 
-&emsp;There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Account, an amount equivalent to the amount of payments made from the Account under subsection (b) of this section plus such amounts as the Managing Trustee certifies is necessary to maintain an appropriate contingency margin, reduced by the amounts deposited under paragraph (1) or subsection (a)(2) of this section.
+&emsp;There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Account, an amount equivalent to the amount of payments made from the Account under subsection (b) plus such amounts as the Managing Trustee certifies is necessary to maintain an appropriate contingency margin, reduced by the amounts deposited under paragraph (1) or subsection (a)(2).
 
 #### (4) Initial funding and reserve
 

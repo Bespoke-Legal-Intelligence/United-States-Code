@@ -6,7 +6,7 @@ In addition to any amount appropriated pursuant to section 629f of this title, t
 
 #### (b) Reservation of certain amounts
 
-From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
+From the amount (if any) appropriated pursuant to subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
 
 #### (1) Evaluation, research, training, and technical assistance
 
@@ -18,21 +18,21 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (3) Indian tribes or tribal consortia
 
-&emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1) of this section.
+&emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1).
 
 #### (c) Allotments
 
 #### (1) Indian tribes or tribal consortia
 
-&emsp;From the amount (if any) reserved pursuant to subsection (b)(3) of this section for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+&emsp;From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subsection (b) of this section and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title) of the State for the fiscal year.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subsection (b) and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title) of the State for the fiscal year.
 
 #### (d) Grants
 
@@ -40,7 +40,7 @@ The Secretary may make a grant to a State which has a plan approved under this s
 
 &emsp;(1) 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
 
-&emsp;(2) the allotment of the State under subsection (c) of this section for the fiscal year.
+&emsp;(2) the allotment of the State under subsection (c) for the fiscal year.
 
 #### (e) Applicability of certain rules
 
@@ -124,7 +124,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (4) Application requirements
 
-&emsp;To be eligible for a grant under this subsection, a regional partnership shall submit tothe Secretary a written application containing the following:
+&emsp;To be eligible for a grant under this subsection, a regional partnership shall submit to the Secretary a written application containing the following:
 
 &emsp;&emsp;(A) Recent evidence demonstrating that substance abuse has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
 
@@ -216,7 +216,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(ii) The Administrator of the Substance Abuse and Mental Health Services Administration.
 
-&emsp;&emsp;&emsp;(iii) Representatives of States in which a State agency described in clause (i) or (ii)of paragraph (2)(A) is a member of a regional partnership that is a grant recipient under this subsection.
+&emsp;&emsp;&emsp;(iii) Representatives of States in which a State agency described in clause (i) or (ii) of paragraph (2)(A) is a member of a regional partnership that is a grant recipient under this subsection.
 
 &emsp;&emsp;&emsp;(iv) Representatives of Indian tribes, tribal consortia, or tribal child welfare agencies that are members of a regional partnership that is a grant recipient under this subsection.
 

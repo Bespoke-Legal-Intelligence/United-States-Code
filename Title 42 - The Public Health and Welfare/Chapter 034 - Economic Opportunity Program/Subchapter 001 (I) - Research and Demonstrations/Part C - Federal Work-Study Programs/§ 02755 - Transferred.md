@@ -1,0 +1,6 @@
+### §2755. Transferred
+
+#### Codification
+
+Section 2755, originally enacted as section 125 of Pub. L. 88–452, was renumbered section 445 of Pub. L. 89–329 and transferred to section 1087–55 of Title 20, Education.
+

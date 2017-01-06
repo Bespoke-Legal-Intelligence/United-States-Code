@@ -280,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term "securities futures contract" has the meaning given to such term by section 1234B.
 
-(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-649, 2763A-650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(oo), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
+(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(oo), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
 
 #### References in Text
 
@@ -564,7 +564,7 @@ Section (other than subsec. (e)(2)(C)) applicable to property acquired and posit
 
 #### Deadline for Determination
 
-Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-650, provided that: "The Secretary of the Treasury or his delegate shall make the determinations under section 1256(g)(9)(B) of the Internal Revenue Code of 1986, as added by this Act, not later than July 1, 2001."
+Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650, provided that: "The Secretary of the Treasury or his delegate shall make the determinations under section 1256(g)(9)(B) of the Internal Revenue Code of 1986, as added by this Act, not later than July 1, 2001."
 
 #### Election for Extension of Time for Payment and Application of This Section for the Taxable Year Including June 23, 1981
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) Routine port services in territorial waters of the United States or in waters under United States control, including pilotage, tugs, garbage removal, line-handling, and utilities, to naval vessels of foreign countries.
 
-&emsp;(2) Routine airport services, including landing and takeoff assistance, use of runways, parking and servicing, to military aircraft of foreign countries.
+&emsp;(2) Routine airport services, including landing and takeoff assistance, use of runways,parking and servicing, to military aircraft of foreign countries.
 
 &emsp;(3) Miscellaneous supplies, including fuel, provisions, spare parts, and general stores, but not including ammunition, to naval vessels and military aircraft of foreign countries.
 
@@ -48,7 +48,7 @@ Subsec. (a)(3). Pub. L. 98–525, §1405(49)(B), (D), substituted "Miscellaneous
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
 
-<b>1959</b>—Pub. L. 86–55 authorized supplies and services to be furnished by any United States naval vessel or activity, and the furnishing of supplies and services to aircraft, eliminated provisions which limited the furnishing of supplies on a reimbursable basis to ships of foreign countries that had entered into a prior reciprocalagreement, and which permitted services, including overhauling, repairs, alterations and installation of equipment, to be furnished only if funds to cover the estimated cost thereof were advanced, and permitted the furnishing of routine port and airport services at no cost where such services are without direct cost to the Navy.
+<b>1959</b>—Pub. L. 86–55 authorized supplies and services to be furnished by any United States naval vessel or activity, and the furnishing of supplies and services to aircraft, eliminated provisions which limited the furnishing of supplies on a reimbursable basis to ships of foreign countries that had entered into a prior reciprocal agreement, and which permitted services, including overhauling, repairs, alterations and installation of equipment, to be furnished only if funds to cover the estimated cost thereof were advanced, and permitted the furnishing of routine port and airport services at no cost where such services are without direct cost to the Navy.
 
 #### Effective Date of 1983 Amendment
 

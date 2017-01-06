@@ -60,7 +60,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 #### (A) In general
 
-&emsp;&emsp;In computing the amount of aggregate dividends received, there shall only be taken into account dividends received from domestic corporations.
+&emsp;&emsp;In computing the amount of aggregate dividends received, there shall only be takeninto account dividends received from domestic corporations.
 
 #### (B) Dividends
 
@@ -128,7 +128,7 @@ Subsec. (b)(5). Pub. L. 108–27, §302(c)(5), added par. (5).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §612(b)(6)(A), which directed that "section 116 (relating to an exclusion for dividends received by individuals), and" be struck out, was executed by striking out "section 116 (relating to an exclusion for dividends received by individuals) and" before "section 243" as the probable intent of Congress.
 
-Subsec. (b)(1)(B), (C). Pub. L. 99–514, §612(b)(6)(B)(i), (ii), redesignated subpar. (C) as (B), struck out "or (B)" before "shall not exceed", and struck out former subpar. (B), exclusion under section 116, which read as follows: "If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, rules similar to the rules of subparagraph (A) shall apply."
+Subsec. (b)(1)(B), (C). Pub. L. 99–514, §612(b)(6)(B)(i), (ii), redesignated subpar. (C) as (B), struck out "or (B)"before "shall not exceed", and struck out former subpar. (B), exclusion under section 116, which read as follows: "If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, rules similar to the rules of subparagraph (A) shall apply."
 
 Subsec. (b)(2). Pub. L. 99–514, §655(a)(4), substituted "60 days" for "45 days".
 

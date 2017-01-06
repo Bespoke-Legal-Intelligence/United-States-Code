@@ -1,0 +1,6 @@
+### §1779e. Omitted
+
+#### Codification
+
+Section, Pub. L. 107–331, title VI, §607, Dec. 13, 2002, 116 Stat. 2852, which related to payment of attorney fees, was omitted from the Code as being of special and not general application.
+

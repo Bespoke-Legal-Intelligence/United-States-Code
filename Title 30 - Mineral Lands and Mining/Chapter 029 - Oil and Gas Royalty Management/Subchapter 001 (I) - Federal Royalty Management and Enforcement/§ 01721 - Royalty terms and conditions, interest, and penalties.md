@@ -6,7 +6,7 @@ In the case of oil and gas leases where royalty payments are not received by the
 
 #### (b) Charge on late payment made by Secretary to States
 
-Any payment made by the Secretary to a State under section 191 of this title and any other payment made by the Secretary to a State from any oil or gas royalty received by the Secretary which is not paid on the date required under section 191 of this title shall include aninterest charge computed at the rate applicable under section 6621 of title 26.
+Any payment made by the Secretary to a State under section 191 of this title and any other payment made by the Secretary to a State from any oil or gas royalty received by the Secretary which is not paid on the date required under section 191 of this title shall include an interest charge computed at the rate applicable under section 6621 of title 26.
 
 #### (c) Deposit in royalty accounts of charges on royalties due and owing Indians
 
@@ -18,7 +18,7 @@ Any deposit of royalty funds made by the Secretary to an Indian account which is
 
 #### (e) Nonliability of States for Secretary's failure to comply with the Emergency Petroleum Allocation Act of 1973 or regulations thereunder
 
-Notwithstanding any other provision of law, no State will be assessed for any interest or penalties found to be due against the Secretary for failure to comply with the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] or regulation of the Secretary of Energy thereunder concerning crude oil certification or pricing with respect to crude oil taken by the Secretary in kind as royalty. Any State share of an overcharge, resulting from such failure to comply, shall be assessed against moneys found to be due and owing to such State as a result of audits of royalty accounts for transactions which took place prior to January 12, 1983, except that if after the completion of such audits, sufficient moneys have not been found due and owing to any State, the State shall be assessed the balance of that State's share of the overcharge.
+Notwithstanding any other provision of law, no State will be assessed for any interest or penalties found to be due against the Secretary for failure to comply with the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] or regulation of the Secretary of Energy thereunder concerning crude oil certification or pricing with respect to crude oil taken by the Secretary in kind as royalty. Any State share of an overcharge, resulting from such failure to comply, shall be assessed against moneys found to be due and owing to such State as a result of audits of royalty accounts for transactions which took place prior to January 12, 1983, except that if after the completion of such audits, sufficient moneys have not been found due and owing toany State, the State shall be assessed the balance of that State's share of the overcharge.
 
 #### (f) Limitation on interest charged
 
@@ -46,7 +46,7 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 (4) The Secretary or the delegated State shall grant an exception from the reporting and payment requirements for marginal properties by allowing for any calendar year or portion thereof royalties to be paid each month based on the volume of production sold. Interest shall not accrue on the difference for the entire calendar year or portion thereof between the amount of oil and gas actually sold and the share of production allocated to the lease until the beginning of the month following such calendar year or portion thereof. Any additional royalties due or overpaid royalties and associated interest shall be paid, refunded, or credited within six months after the end of each calendar year in which royalties are paid based on volumes of production sold. For the purpose of this subsection, the term "marginal property" means a lease that produces on average the combined equivalent of less than 15 barrels of oil per well per day or 90 thousand cubic feet of gas per well per day, or a combination thereof, determined by dividing the average daily production of crude oil and natural gas from producing wells on such lease by the number of such wells, unless the Secretary, together with the State concerned, determines that a different production is more appropriate.
 
-(5) Not later than two years after August 13, 1996, the Secretary shall issue any appropriate demand for all outstanding royalty payment disputes regarding who is required to report andpay royalties on production from units and communitization agreements outstanding on August 13, 1996, and collect royalty amounts owed on such production.
+(5) Not later than two years after August 13, 1996, the Secretary shall issue any appropriate demand for all outstanding royalty payment disputes regarding who is required to report and pay royalties on production from units and communitization agreements outstanding on August 13, 1996, and collect royalty amounts owed on such production.
 
 #### (j) Production allocation
 
@@ -64,7 +64,7 @@ Section is comprised of section 111 of Pub. L. 97–451. Subsec. (g) of section 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (h). Pub. L. 114–94 redesignated subsec. (j) as (h), struck out "If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment." after "underpaid amount.", and struck out former subsec. (h) which related to lessee or designee interest.
+<b>2015</b>—Subsec. (h). Pub. L. 114–94 redesignated subsec. (j) as (h), struck out "If the estimated payment exceedsthe actual royalties due, interest is owed on the overpayment." after "underpaid amount.", and struck out former subsec. (h) which related to lessee or designee interest.
 
 Subsec. (i). Pub. L. 114–94, §32301(1), (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
 

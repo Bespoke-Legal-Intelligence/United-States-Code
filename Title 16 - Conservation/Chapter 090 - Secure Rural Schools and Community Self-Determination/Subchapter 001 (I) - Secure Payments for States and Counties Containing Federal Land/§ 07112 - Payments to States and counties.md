@@ -72,7 +72,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) Use of portion in same manner as 25-percent payment or 50-percent payment, as applicable
 
-&emsp;&emsp;Except as provided in subparagraph (D), if an eligible county elects to receive its shareof the State payment or the county payment, not less than 80 percent, but not more than 85 percent, of the funds shall be expended in the same manner in which the 25-percent payments or 50-percent payment, as applicable, are required to be expended.
+&emsp;&emsp;Except as provided in subparagraph (D), if an eligible county elects to receive its share of the State payment or the county payment, not less than 80 percent, but not more than 85 percent, of the funds shall be expended in the same manner in which the 25-percent payments or 50-percent payment, as applicable, are required to be expended.
 
 #### (B) Election as to use of balance
 
@@ -150,7 +150,7 @@ This chapter, referred to in subsec. (b)(3)(A), was in the original "this Act", 
 
 #### Prior Provisions
 
-A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
 

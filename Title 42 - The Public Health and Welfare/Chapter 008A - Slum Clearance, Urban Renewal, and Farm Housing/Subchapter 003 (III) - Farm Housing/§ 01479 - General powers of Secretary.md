@@ -62,7 +62,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(i) Notwithstanding the designation of counties and communities as targeted underserved areas under paragraph (1) and the provisions of section 1490 of this title, colonias shall be eligible for assistance with amounts reserved under subparagraph (A), as provided in this subparagraph.
 
-&emsp;&emsp;(ii) In providing assistance from amounts reserved under this paragraph in each fiscal year, the Secretary shall give priority to any application for assistance to be used in, or in close proximity to, and serving the residents of, a colonia located in a State described under clause (iii). After the Secretary has provided assistance under the priority for colonias located in a State in an amount equal to 5 percent of the total amount of assistance allocated under this subchapter to such State in the fiscal year, the priority shall not apply to any applications for colonias in such State.
+&emsp;&emsp;(ii) In providing assistance from amounts reserved under this paragraph in each fiscal year, the Secretary shall give priority to any application for assistance to be used in, or in close proximity to, and serving the residents of, a colonia located in a State described under clause (iii). After the Secretary has provided assistance under the priority for colonias located in a State in an amount equal to 5 percent of the totalamount of assistance allocated under this subchapter to such State in the fiscal year, the priority shall not apply to any applications for colonias in such State.
 
 &emsp;&emsp;(iii) This paragraph shall apply to any State for any fiscal year following 2 fiscal years in which the State obligated the total amount of assistance allocated to it under this subchapter during each of such 2 fiscal years.
 
@@ -138,7 +138,7 @@ Subsec. (f)(4)(A). Pub. L. 102–550, §705(a)(3), substituted "an amount equal 
 
 Subsec. (f)(4)(B)(ii). Pub. L. 102–550, §705(c), inserted ", or in close proximity to, and serving the residents of," before "a colonia".
 
-Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C)which read as follows: "is designated by the State or county in which it is located as a colonia;", added subpar. (D), and struck out subpar. (E) which read as follows: "was in existence and generally recognized as a colonia before November 28, 1990."
+Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: "is designated by the State or county in which it is located as a colonia;", added subpar. (D), and struck out subpar. (E) which read as follows: "was in existence and generally recognized as a colonia before November 28, 1990."
 
 <b>1990</b>—Subsecs. (d), (e). Pub. L. 101–625, §708, added subsec. (d) and redesignated former subsec. (d) as (e).
 

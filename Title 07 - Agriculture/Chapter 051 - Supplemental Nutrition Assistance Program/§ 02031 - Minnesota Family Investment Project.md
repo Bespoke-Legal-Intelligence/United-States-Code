@@ -36,7 +36,7 @@ The application submitted by the State under subsection (a) shall provide an ass
 
 > &emsp;This subparagraph shall not be construed to require the State to make the determination under clause (ii) for families that do not have a set of characteristics identified under clause (i).
 
-&emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthly each participating family of such designated amount.
+&emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthlyeach participating family of such designated amount.
 
 &emsp;(ii) The amount of food assistance so designated shall be at least the value of benefits such family could have received under the supplemental nutrition assistance program if the Project had not been implemented. The provisions of this subparagraph shall not require that the State make individual determinations as to the amount of assistance under the Project designated as food assistance.
 
@@ -146,7 +146,7 @@ The Project shall be subject to the following additional terms and conditions:
 
 (2) The Secretary shall periodically adjust payments made to the State under paragraph (1) to reflect—
 
-&emsp;(A) the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) in excess of the amount that would have been issued to such individuals hadthe Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
+&emsp;(A) the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
 
 &emsp;(B) the cost of benefits issued to families exercising the option specified in subsection (b)(3)(D)(iii) in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State.
 
@@ -176,7 +176,7 @@ The Comptroller General of the United States shall—
 
 &emsp;(A) allow payments made to the State under the Project to be less than the amounts the State and eligible households within the State would have received if the Project had not been implemented; or
 
-&emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs that would have been incurred if the Project had not been implemented, except for costs for evaluation.
+&emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs thatwould have been incurred if the Project had not been implemented, except for costs for evaluation.
 
 #### (h) Quality control
 

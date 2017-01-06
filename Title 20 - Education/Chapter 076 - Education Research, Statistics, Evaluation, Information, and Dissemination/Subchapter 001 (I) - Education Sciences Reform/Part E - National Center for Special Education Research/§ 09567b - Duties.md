@@ -10,7 +10,7 @@ The Special Education Research Center shall carry out research activities under 
 
 &emsp;&emsp;(B) developmental outcomes for infants or toddlers with disabilities;
 
-&emsp;(2) identify scientifically based educational practices that support learning and improve academic achievement, functional outcomes, and educational results for all students with disabilities;
+&emsp;(2) identify scientifically based educational practices that support learning and improve academic achievement, functional outcomes,and educational results for all students with disabilities;
 
 &emsp;(3) examine the special needs of preschool aged children, infants, and toddlers with disabilities, including factors that may result in developmental delays;
 
@@ -98,7 +98,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub.L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Effective Date
 

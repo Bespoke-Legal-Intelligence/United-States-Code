@@ -6,7 +6,7 @@
 
 &emsp;(A) the officer has had significant experience in joint duty assignments; and
 
-&emsp;(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) of this title) as a general officer.
+&emsp;(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) <sup>1</sup> of this title) as a general officer.
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -90,6 +90,10 @@ In subsection (d), 10:38 (last par.) is omitted as covered by 10:1814(a). The wo
 
 The changes correct references to section 202(j) of the National Security Act of 1947, which is now set out as section 124 of title 10.
 
+#### References in Text
+
+Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, §510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Prior Provisions
 
 A prior section 8033 was renumbered section 10305 of this title.
@@ -108,7 +112,7 @@ Pub. L. 114–92, §802(d)(4)(D), substituted "sections 171 and 2547" for "secti
 
 "(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 
-"(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of the Secretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
+"(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of theSecretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
 
 "(d) The Chief of Staff shall—
 
@@ -149,4 +153,6 @@ Amendment by Pub. L. 90–22 effective Jan. 1, 1969, see section 405 of Pub. L. 
 #### Waiver of Qualifications for Appointment as Service Chief
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

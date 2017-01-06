@@ -14,7 +14,7 @@ The Task Force shall meet when the Secretary requests, but not less often than t
 
 &emsp;(1) assess the progress of the various agencies in achieving energy savings;
 
-&emsp;(2) collect and disseminate information to agencies, States, local governments, and the public on effective survey techniques, innovative approaches to the efficient use of energy,incentive programs developed under section 8256 of this title, innovative contracting methods developed under subchapter VII of this chapter, the use of cogeneration facilities and renewable resources, and other technologies that promote the conservation and efficient use of energy;
+&emsp;(2) collect and disseminate information to agencies, States, local governments, and the public on effective survey techniques, innovative approaches to the efficient use of energy, incentive programs developed under section 8256 of this title, innovative contracting methods developed under subchapter VII of this chapter, the use of cogeneration facilities and renewable resources, and other technologies that promote the conservation and efficient use of energy;
 
 &emsp;(3) coordinate energy surveys conducted by the agencies;
 

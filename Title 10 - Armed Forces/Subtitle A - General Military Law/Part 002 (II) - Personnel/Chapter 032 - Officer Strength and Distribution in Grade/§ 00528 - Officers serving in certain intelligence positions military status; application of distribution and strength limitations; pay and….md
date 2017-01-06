@@ -50,7 +50,7 @@ A prior section 528, added Pub. L. 103–337, div. A, title IV, §405(b)(1), Oct
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §502(d)(2)(A), substituted "Officers serving in certain intelligence positions: militarystatus; application of distribution and strength limitations; pay and allowances" for "Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances" in section catchline.
+<b>2011</b>—Pub. L. 112–81, §502(d)(2)(A), substituted "Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances" for "Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances" in section catchline.
 
 Subsecs. (b) to (d). Pub. L. 112–81, §502(d)(1), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
 

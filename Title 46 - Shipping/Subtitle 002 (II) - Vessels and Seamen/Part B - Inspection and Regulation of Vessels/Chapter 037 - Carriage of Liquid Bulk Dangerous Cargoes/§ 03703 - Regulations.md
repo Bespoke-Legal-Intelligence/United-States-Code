@@ -202,7 +202,7 @@ Matters to be included.—The study under this subsection shall include a review
 
 &emsp;"(4)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives areport on the results of the study under this subsection.
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
 
 &emsp;"(5)
 
@@ -218,7 +218,7 @@ Coordination of study.—The Secretary of Transportation shall coordinate with t
 
 &emsp;"(2)
 
-Matters to be included.—The study under this subsection shall include a review and analysis of current monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
+Matters to be included.—The study under this subsection shall include a review and analysis ofcurrent monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
 
 &emsp;"(3)
 

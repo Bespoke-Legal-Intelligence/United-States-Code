@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and except as provided in subsection (b) of this section, this part and part C of this subchapter insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
+&emsp;Subject to paragraph (2) and except as provided in subsection (b), this part and part C insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
 
 #### (2) Continued preemption with respect to group health plans
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;The term "State" includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
-(July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4),1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Section 2704, referred to in subsec. (c), is a reference to section 2704 of act 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "individual or" before "group health insurance".
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L.111–148, §10107(b)(1), inserted "individual or" before "group health insurance".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–204 inserted "(other than section 2704)" after "part".
 

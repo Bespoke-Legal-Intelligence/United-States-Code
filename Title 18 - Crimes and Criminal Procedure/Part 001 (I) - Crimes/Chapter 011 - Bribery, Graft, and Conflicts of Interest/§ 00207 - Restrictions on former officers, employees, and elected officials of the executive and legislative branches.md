@@ -154,7 +154,7 @@ Personal staff.—(A) Any person who is an employee of a Member of the House of 
 
 &emsp;(4)
 
-Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, anycommunication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(5)
 
@@ -244,7 +244,7 @@ Designations.—For purposes of subsection (c) and except as provided in paragra
 
 &emsp;(2)
 
-Inapplicability of designations.—No agency or bureau within the Executive Office of the President may be designated under paragraph (1) as a separate department or agency. No designation under paragraph (1) shall apply to persons referred to in subsection (c)(2)(A)(i) or (iii).
+Inapplicability of designations.—No agency or bureau within the Executive Officeof the President may be designated under paragraph (1) as a separate department or agency. No designation under paragraph (1) shall apply to persons referred to in subsection (c)(2)(A)(i) or (iii).
 
 (i)
 
@@ -274,7 +274,7 @@ In general.—The restrictions contained in this section shall not apply to acts
 
 &emsp;&emsp;(B)
 
-Tribal organizations and inter-tribal consortiums.—The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450i(j)).
+Tribal organizations and inter-tribal consortiums.—The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450i(j)).<sup>1</sup>
 
 &emsp;(2)
 
@@ -364,7 +364,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 (l)
 
-Contract Advice by Former Details.—Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
+Contract Advice by Former Details.—Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids,counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
 
 (Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, §3403(a)(2), title X, §10320(b), Mar. 23, 2010, 124 Stat. 506, 952; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
@@ -372,7 +372,7 @@ Contract Advice by Former Details.—Whoever, being an employee of a private sec
 
 Section 1102 of the Omnibus Trade and Competitiveness Act of 1988, referred to in subsec. (b)(2)(A), is classified to section 2902 of Title 19, Customs Duties.
 
-Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B),are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
+Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B), are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
 
 The National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (c)(2)(A)(ii), is Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1392. For complete classification of this Act to the Code, see Tables.
 
@@ -385,6 +385,8 @@ The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 1
 Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(9)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
 
 Section 1(e) and (f) of the Foreign Agents Registration Act of 1938, referred to in subsec. (f)(3), is classified to section 611(e) and (f) of Title 22, Foreign Relations and Intercourse.
+
+Section 104(j) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450i(j)), referred to in subsec. (j)(1)(B), was formerly classified to section 450i(j) of Title 25, Indians, prior to editorial reclassification as section 5323(j) of Title 25.
 
 Section 101 of the Higher Education Act of 1965, referred to in subsec. (j)(2)(B), is classified to section 1001 of Title 20, Education.
 
@@ -524,7 +526,7 @@ Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (a), (c), (d), and (e)", "on behalf of" for "as an officer or employee of", and "or the District of Columbia" for "Government".
 
-Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and\(e)" and "in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States" for "of which the United States is a member".
+Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and (e)" and "in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States" for "of which the United States is a member".
 
 Subsec. (j)(4). Pub. L. 101–280, §2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting "Special" for "Personal matters and special" in heading, substituting "prevent an individual" for "apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee", substituting "individual's" for "former officer's or employee's", and striking out ", other than that regularly provided for by law or regulation for witnesses" after "if no compensation is thereby received".
 
@@ -686,7 +688,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
+Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
 
 Pub. L. 95–521, title V, §503, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -700,7 +702,7 @@ Responsibility of Office of Government Ethics for promulgating regulations and i
 
 #### Construction of 2007 Amendment
 
-Pub. L. 110–81, title I, §104(c), Sept. 14, 2007, 121 Stat. 740, provided that: "Except as expressly identified in this section \[amending this section and section 450i of Title 25, Indians\] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law."
+Pub. L. 110–81, title I, §104(c), Sept. 14, 2007, 121 Stat. 740, provided that: "Except as expressly identified in this section \[amending this section and section 5323 of Title 25, Indians\] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law."
 
 #### Transfer of Functions
 

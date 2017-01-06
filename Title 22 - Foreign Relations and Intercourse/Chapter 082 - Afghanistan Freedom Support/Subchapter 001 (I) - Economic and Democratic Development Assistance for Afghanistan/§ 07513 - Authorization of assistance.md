@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
 
-&emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms todistribute stocks to replace those stocks lost as a result of conflict or drought;
+&emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
 
 &emsp;&emsp;(F) mine awareness and demining programs and programs to assist mine victims, war orphans, and widows;
 
@@ -100,7 +100,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(i) support for the activities of the Government of Afghanistan to implement its constitution, to develop modern legal codes and court rules, to provide for the creation of legal assistance programs, and other initiatives to promote the rule of law in Afghanistan;
 
-&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration of justice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
+&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration ofjustice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
@@ -280,7 +280,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Plan Required To Promote Security of Afghan Women and Girls
 
-Pub. L. 114–92, div. A, title XV, §1531(c)(2), Nov. 25, 2015, 129 Stat. 1089, provided that:
+Pub. L. 114–328, div. A, title XV, §1521(c)(2), Dec. 23, 2016, 130 Stat. 2576, provided that:
 
 "(A)
 
@@ -296,9 +296,11 @@ Training.—The Secretary of Defense, with the concurrence of the Secretary of S
 
 &emsp;"(iii) mechanisms to enhance the capacity for units of National Police's Family Response Units to fulfill their mandate as well as indicators measuring the operational effectiveness of these units;
 
-&emsp;"(iv) a plan to address the development of accountability mechanisms for Afghanistan National Army and Afghanistan National Police personnel who violate codes of conduct related to the human rights of women and girls, including female members of the Afghan National Security Forces; and
+&emsp;"(iv) a plan to address the development of accountability mechanisms for Afghanistan National Army and Afghanistan National Police personnel who violate codes of conduct relating to the human rights of women and girls, including female members of the Afghan National Security Forces;
 
-&emsp;"(v) a plan to develop training for the Afghanistan National Army and the Afghanistan National Police to increase awareness and responsiveness among Afghanistan National Army and Afghanistan National Police personnel regarding the unique security challenges women confront when serving in those forces.
+&emsp;"(v) a plan to address the development of accountability mechanisms for Afghanistan National Army and Afghanistan National Police personnel who violate codes of conduct relating to protecting children from sexual abuse; and
+
+&emsp;"(vi) a plan to develop training for the Afghanistan National Army and the Afghanistan National Police to increase awareness and responsiveness among Afghanistan National Army and Afghanistan National Police personnel regarding the unique security challenges women confront when serving in those forces.
 
 "(C)
 
@@ -310,7 +312,7 @@ Allocation of funds.—
 
 &emsp;"(i)
 
-In general.—Of the funds available to the Department of Defense for the Afghan Security Forces Fund for fiscal year 2016, it is the goal that $25,000,000, but in no event less than $10,000,000, shall be used for—
+In general.—Of the funds available to the Department of Defense for the Afghan Security Forces Fund for fiscal year 2017, it is the goal that $25,000,000, but in no event less than $10,000,000, shall be used for—
 
 &emsp;&emsp;"(I) the recruitment, integration, retention, training, and treatment of women in the Afghan National Security Forces; and
 
@@ -333,6 +335,10 @@ Types of programs and activities.—Such programs and activities may include—
 &emsp;&emsp;"(VI) support for Afghanistan National Police Family Response Units; and
 
 &emsp;&emsp;"(VII) security provisions for high-profile female police and army officers."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 114–92, div. A, title XV, §1531(c)(2), Nov. 25, 2015, 129 Stat. 1089.
 
 #### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
 
@@ -462,6 +468,8 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 
 \[Pub. L. 113–66, div. A, title XII, §1215(b), Dec. 26, 2013, 127 Stat. 908, provided that: "The amendments made by this section \[amending section 1217 of Pub. L. 111–383, set out above\] shall take effect on October 1, 2013."\]
 
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1217(i) of Pub. L. 111–383, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.\]
+
 #### Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan
 
 Pub. L. 110–417, \[div. A\], title XII, §1215, Oct. 14, 2008, 122 Stat. 4632, provided that:
@@ -508,7 +516,7 @@ Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
 "Congress makes the following findings:
 
-&emsp;"(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedomof expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
+&emsp;"(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedom of expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
 
 &emsp;"(2) Afghanistan has one of the highest infant (165 of 1000) and child (257 of 1000) mortality rates in the world.
 

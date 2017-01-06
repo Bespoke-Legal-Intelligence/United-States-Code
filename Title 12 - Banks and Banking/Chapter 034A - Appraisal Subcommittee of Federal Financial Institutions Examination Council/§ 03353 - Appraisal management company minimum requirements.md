@@ -32,7 +32,7 @@ The Board of Governors of the Federal Reserve System, the Comptroller of the Cur
 
 #### (1) In general
 
-&emsp;No appraisal management company may perform services related to a federally related transaction in a State after the date that is 36 months after the date on which the regulations required to be prescribed under subsection (a) are prescribed in final form unless such company is registered with such State or subject to oversight by a Federal financial institutions regulatory agency.
+&emsp;No appraisal management company may perform services related to a federally relatedtransaction in a State after the date that is 36 months after the date on which the regulations required to be prescribed under subsection (a) are prescribed in final form unless such company is registered with such State or subject to oversight by a Federal financial institutions regulatory agency.
 
 #### (2) Extension of effective date
 

@@ -4,7 +4,7 @@
 
 #### (1) Publication
 
-&emsp;The Secretary of the Treasury is authorized to publish in the Federal Register a list of the name of any producer, manufacturer, supplier,seller, exporter, or other person located outside the customs territory of the United States—
+&emsp;The Secretary of the Treasury is authorized to publish in the Federal Register a list of the name of any producer, manufacturer, supplier, seller, exporter, or other person located outside the customs territory of the United States—
 
 &emsp;&emsp;(A) against whom the Customs Service has issued a penalty claim under section 1592 of this title, and
 
@@ -32,7 +32,7 @@
 
 #### (A) Responsibility of importers and others
 
-&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary of the Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
+&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary ofthe Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
 
 #### (B) Failure to exercise reasonable care
 
@@ -70,5 +70,5 @@ Section effective on the date on which the WTO Agreement enters into force with 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

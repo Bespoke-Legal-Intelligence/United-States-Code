@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 and any additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
+&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 andany additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
 
 #### (2) Calculation of population
 
@@ -50,11 +50,11 @@
 
 &emsp;&emsp;(i) the amount of any advance or advances made to such State pursuant to this subsection at an earlier date; and
 
-&emsp;&emsp;(ii) the amount of the unspent balance of the advances made to a State pursuant to subsection (a) of this section.
+&emsp;&emsp;(ii) the amount of the unspent balance of the advances made to a State pursuant to subsection (a).
 
 > &emsp;Notwithstanding subparagraph (A) and the preceding sentence of this subparagraph, but subject to subparagraph (D) of this paragraph, the amount of any advance to a State described in paragraph (5)(A) for the first year of its eligibility under such paragraph, and the amount of any advance to any State described in paragraph (5)(B) for each year of its eligibility under such paragraph, shall not be less than $50,000.
 
-&emsp;(C) For the purpose of subparagraph (B), the unspent balance of the advances made to a State pursuant to subsection (a) of this section shall be that portion of the balance of the State's reserve fund (remaining at the time of the State's first request for an advance pursuant to this subsection) which bears the same ratio to such balance as the Federal advances made and not returned by such State, pursuant to subsection (a) of this section, bears to the total of all past contributions to such reserve funds from all sources (other than interest on investment of any portion of the reserve fund) contributed since the date such State executed an agreement pursuant to section 1078(b) of this title.
+&emsp;(C) For the purpose of subparagraph (B), the unspent balance of the advances made to a State pursuant to subsection (a) shall be that portion of the balance of the State's reserve fund (remaining at the time of the State's first request for an advance pursuant to this subsection) which bears the same ratio to such balance as the Federal advances made and not returned by such State, pursuant to subsection (a), bears to the total of all past contributions to such reserve funds from all sources (other than interest on investment of any portion of the reserve fund) contributed since the date such State executed an agreement pursuant to section 1078(b) of this title.
 
 &emsp;(D) If the sums appropriated for any fiscal year for paying the amounts determined under subparagraphs (A) and (B) are not sufficient to pay such amounts in full, then such amounts shall be reduced—
 
@@ -70,7 +70,7 @@
 
 #### (4) Repayment of advances
 
-&emsp;Advances made by the Secretary under this subsection shall, subject to subsection (d) of this section, be repaid within such period as the Secretary may deem to be appropriate and shall be deposited in the fund established by section 1081 of this title.
+&emsp;Advances made by the Secretary under this subsection shall, subject to subsection (d), be repaid within such period as the Secretary may deem to be appropriate and shall be deposited in the fund established by section 1081 of this title.
 
 #### (5) Limitation on number of advances
 
@@ -86,7 +86,7 @@
 
 &emsp;(B) The Secretary may enter into an agreement with a private nonprofit institution or organization for the purpose of this paragraph under which such institution or organization—
 
-&emsp;&emsp;(i) agrees to establish within such State at least one office with sufficient staff to handle written, electronic, and telephone inquiries from students, eligible lenders, and other persons in the State, to encourage maximum commercial lender participation within the State, and to conduct periodic visits to atleast the major eligible lenders within the State;
+&emsp;&emsp;(i) agrees to establish within such State at least one office with sufficient staff to handle written, electronic, and telephone inquiries from students, eligible lenders, and other persons in the State, to encourage maximum commercial lender participation within the State, and to conduct periodic visits to at least the major eligible lenders within the State;
 
 &emsp;&emsp;(ii) agrees that its insurance will not be denied any student because of his or her choice of eligible institutions; and
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) shall consider the solvency and maturity of the reserve and insurance funds of the guaranty agency assisted by such advances, as determined by the Comptroller General taking into account the requirements of State law as in effect on October 17, 1986;
 
-&emsp;&emsp;(B) shall not seek repayment of such advances from any State described in subsection (c)(5)(B) of this section during any year of its eligibility under such subsection; and
+&emsp;&emsp;(B) shall not seek repayment of such advances from any State described in subsection (c)(5)(B) during any year of its eligibility under such subsection; and
 
 &emsp;&emsp;(C) shall not seek repayment of such advances from any State if such repayment encumbers the reserve fund requirement of State law as in effect on October 17, 1986.
 
@@ -142,7 +142,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (1) Authority to recover funds
 
-&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the programauthorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
+&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies,and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
 
 &emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portion of its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
 
@@ -236,11 +236,11 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (A) Restriction on other authority
 
-&emsp;&emsp;The Secretary shall not have any authority to direct a guaranty agency to return reserve funds under subsection (g)(1)(A) of this section during the period from August 5, 1997, through September 30, 2002.
+&emsp;&emsp;The Secretary shall not have any authority to direct a guaranty agency to return reserve funds under subsection (g)(1)(A) during the period from August 5, 1997, through September 30, 2002.
 
 #### (B) Use of termination collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(B) of this section during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(B) during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's required share of recalled reserve funds; and
 
@@ -248,7 +248,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (C) Use of sanctions collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(C) of this section during such period that do not exceed a guaranty agency's next installment under paragraph (4)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(C) during such period that do not exceed a guaranty agency's next installment under paragraph (4)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's next installment; and
 
@@ -256,7 +256,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (D) Balance available to Secretary
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subparagraph (B) or (C) of subsection (g)(1)of this section that remain after satisfaction of the requirements of subparagraphs (B) and (C) of this paragraph shall be deposited in the Treasury.
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subparagraph (B) or (C) of subsection (g)(1) that remain after satisfaction of the requirements of subparagraphs (B) and (C) of this paragraph shall be deposited in the Treasury.
 
 #### (8) Definitions
 
@@ -312,7 +312,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;&emsp;(i) $250,000,000, by
 
-&emsp;&emsp;&emsp;(ii) the total amount of all guaranty agencies' reserve funds held on September 30, 1996, less any amounts subject to recall under subsection (h) of this section.
+&emsp;&emsp;&emsp;(ii) the total amount of all guaranty agencies' reserve funds held on September 30, 1996, less any amounts subject to recall under subsection (h).
 
 #### (C) Special rule
 
@@ -320,7 +320,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (4) Offset of required shares
 
-&emsp;If any guaranty agency returns to the Secretary any reserve funds in excess of the amount required under this subsection or subsection (h) of this section, the total amount required to be returned under paragraph (1) shall be reduced by the amount of such excess reserve funds returned.
+&emsp;If any guaranty agency returns to the Secretary any reserve funds in excess of the amount required under this subsection or subsection (h), the total amount required to be returned under paragraph (1) shall be reduced by the amount of such excess reserve funds returned.
 
 #### (5) Definition of reserve funds
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 103–208 (which was effective as if included in Pub. L. 10
 
 #### Prior Provisions
 
-A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -346,11 +346,11 @@ A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 
 
 Subsec. (c)(6)(B)(i). Pub. L. 105–244, §412(2)(A), substituted "written, electronic," for "written".
 
-Subsec. (c)(7)(A). Pub. L. 105–244, §412(2)(B), struck out "during the transition from the Federal Family Education Loan Program under this part to the Federal Direct Student Loan Program under part C of this subchapter" after "lender-of-last-resort".
+Subsec. (c)(7)(A). Pub. L. 105–244, §412(2)(B), struck out "during the transition from the Federal Family Education Loan Program under this part to the Federal Direct Student Loan Program under part D of this subchapter" after "lender-of-last-resort".
 
 Subsec. (c)(7)(B). Pub. L. 105–244, §412(2)(C), substituted "section 1078(c)(9)(F)(v)" for "section 1078(c)(10)(F)(v)".
 
-Subsec. (g)(1). Pub. L. 105–244, §412(3), struck out "or the program authorized by part C of this subchapter" after "program authorized by this part" in first and second sentences.
+Subsec. (g)(1). Pub. L. 105–244, §412(3), struck out "or the program authorized by part D of this subchapter" after "program authorized by this part" in first and second sentences.
 
 Subsec. (i). Pub. L. 105–244, §412(4), added subsec. (i).
 

@@ -16,7 +16,7 @@
 
 &emsp;(E) reimbursements of uncollectible withdrawal liability under section 1402 of this title.
 
-> The corporation may revise such schedules whenever it determines that revised schedules are necessary. Except as provided in section 1322a(f) of this title, in order to place a revised schedule described in subparagraph (A) or (B) in effect, the corporation shall proceed in accordance with subsection (b)(1) of this section, and such schedule shall apply only to plan years beginning more than 30 days after the date on which a joint resolution approving such revised schedule is enacted.
+> The corporation may revise such schedules whenever it determines that revised schedules are necessary. Except as provided in section 1322a(f) of this title, in order to place a revised schedule described in subparagraph (A) or (B) in effect, the corporation shall proceed in accordance with subsection (b)(1), and such schedule shall apply only to plan years beginning more than 30 days after the date on which a joint resolution approving such revised schedule is enacted.
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
@@ -28,9 +28,15 @@
 
 &emsp;&emsp;(III) for plan years beginning after December 31, 2013 and before January 1, 2015,,<sup>1</sup> $49.<sup>2</sup>
 
-&emsp;&emsp;(IV) for plan years beginning after December 31, 2014, and before January 1, 2016, $57; and
+&emsp;&emsp;(IV) for plan years beginning after December 31, 2014, and before January 1, 2016, $57;
 
-&emsp;&emsp;(V) for plan years beginning after December 31, 2015, and before January 1, 2017, $64.
+&emsp;&emsp;(V) for plan years beginning after December 31, 2015, and before January 1, 2017, $64;
+
+&emsp;&emsp;(VI) for plan years beginning after December 31, 2016, and before January 1, 2018, $69;
+
+&emsp;&emsp;(VII) for plan years beginning after December 31, 2017, and before January 1, 2019, $74; and
+
+&emsp;&emsp;(VIII) for plan years beginning after December 31, 2018, $80.
 
 &emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
@@ -48,7 +54,7 @@
 
 &emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
 
-&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
+&emsp;(iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005,and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
 
 &emsp;(v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year, or
 
@@ -90,7 +96,7 @@
 
 &emsp;(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
-(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shallbe equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
+(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
 
 (F) For each plan year beginning in a calendar year after 2006 and before 2013, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
@@ -104,13 +110,13 @@
 
 > If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
-(G) For each plan year beginning in a calendar year after 2016, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+(G) For each plan year beginning in a calendar year after 2019, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
 &emsp;(i) the product derived by multiplying the premium rate specified in clause (i) of subparagraph (A) by the ratio of—
 
 &emsp;&emsp;(I) the national average wage index (as defined in section 409(k)(1) of title 42) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
 
-&emsp;&emsp;(II) the national average wage index (as so defined) for 2014; and
+&emsp;&emsp;(II) the national average wage index (as so defined) for 2017; and
 
 &emsp;(ii) the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
 
@@ -266,9 +272,15 @@ In general.—Except as provided in subparagraphs (B) and (C), the applicable do
 
 &emsp;&emsp;(ii) for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C));
 
-&emsp;&emsp;(iii) for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)); and
+&emsp;&emsp;(iii) for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C));
 
-&emsp;&emsp;(iv) for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C)).
+&emsp;&emsp;(iv) for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C));
+
+&emsp;&emsp;(v) for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
+
+&emsp;&emsp;(vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and
+
+&emsp;&emsp;(vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).
 
 &emsp;(B)
 
@@ -286,13 +298,19 @@ Adjustment for inflation.—For each plan year beginning in a calendar year afte
 
 &emsp;(C)
 
-Additional increase in 2014 and 2015.—The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
+Additional increases.—The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
 
 &emsp;&emsp;(i) in the case of plan years beginning in calendar year 2014, by $4;
 
-&emsp;&emsp;(ii) in the case of plan years beginning in calendar year 2015, by $10; and
+&emsp;&emsp;(ii) in the case of plan years beginning in calendar year 2015, by $10;
 
-&emsp;&emsp;(iii) in the case of plan years beginning in calendar year 2016, by $5.
+&emsp;&emsp;(iii) in the case of plan years beginning in calendar year 2016, by $5;
+
+&emsp;&emsp;(iv) in the case of plan years beginning in calendar year 2017, by $3;
+
+&emsp;&emsp;(v) in the case of plan years beginning in calendar year 2018, by $4; and
+
+&emsp;&emsp;(vi) in the case of plan years beginning in calendar year 2019, by $4.
 
 &emsp;(D)
 
@@ -302,13 +320,19 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(ii) 2012, in the case of plan years beginning in calendar year 2015;
 
-&emsp;&emsp;(iii) 2013, in the case of plan years beginning after calendar year 2015; and
+&emsp;&emsp;(iii) 2013, in the case of plan years beginning after calendar year 2015;
 
-&emsp;&emsp;(iv) 2014, in the case of plan years beginning after calendar year 2016.
+&emsp;&emsp;(iv) 2014, in the case of plan years beginning after calendar year 2016;
+
+&emsp;&emsp;(v) 2015, in the case of plan years beginning after calendar year 2017;
+
+&emsp;&emsp;(vi) 2016, in the case of plan years beginning after calendar year 2018; and
+
+&emsp;&emsp;(vii) 2017, in the case of plan years beginning after calendar year 2019.
 
 #### (b) Revised schedule; Congressional procedures applicable
 
-(1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
+(1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
 (2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
 
@@ -316,7 +340,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 (4) A resolution shall be referred to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
+(5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge thecommittee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
 (6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
@@ -324,7 +348,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 #### (c) Rates for plans for basic benefits
 
-(1) Except as provided in subsection (a)(3) of this section, and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974, is—
+(1) Except as provided in subsection (a)(3), and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974, is—
 
 &emsp;(A) in the case of each plan which was not a multiemployer plan in a plan year—
 
@@ -349,70 +373,6 @@ Base year.—For purposes of subparagraph (B), the base year is—
 &emsp;&emsp;(ii) the denominator of which is 12.
 
 (Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 114–74, title V, §501, Nov. 2, 2015, 129 Stat. 591, provided that, applicable to plan years beginning after Dec. 31, 2016, this subsection is amended—</i>
-
-<i>(1) in paragraph (3)(A)(i), by striking "and" at the end of subclause (IV), by striking the pe</i><i>riod at the end of subclause (V) and inserting a semicolon, and by adding after subclause (V) the following:</i>
-
-&emsp;&emsp;<i>"(VI) for plan years beginning after December 31, 2016, and before January 1, 2018, $69;</i>
-
-&emsp;&emsp;<i>"(VII) for plan years beginning after December 31, 2017, and before January 1, 2019, $74; and</i>
-
-&emsp;&emsp;<i>"(VIII) for plan years beginning after December 31, 2018, $80.";</i>
-
-<i>(2) in paragraph (3)(G)—</i>
-
-<i>(A) in the matter preceding clause (i), by striking "2016" and inserting "2019"; and</i>
-
-<i>(B) in clause (i)(II) by striking "2014" and inserting "2017";</i>
-
-<i>(3) in paragraph (8)(A)—</i>
-
-<i>(A) in clause (iii), by striking "and" at the end;</i>
-
-<i>(B) in clause (iv), by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(v) for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));</i>
-
-&emsp;&emsp;<i>"(vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and</i>
-
-&emsp;&emsp;<i>"(vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).";</i>
-
-<i>(4) in paragraph (8)(C)</i>
-
-<i>(A) in the subparagraph heading, by striking "increase in 2014 and 2015" and inserting "increases";</i>
-
-<i>(B) in clause (ii), by striking "and" at the end;</i>
-
-<i>(C) in clause (iii), by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(D) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(iv) in the case of plan years beginning in calendar year 2017, by $3;</i>
-
-&emsp;&emsp;<i>"(v) in the case of plan years beginning in calendar year 2018, by $4; and</i>
-
-&emsp;&emsp;<i>"(vi) in the case of plan years beginning in calendar year 2019, by $4."; and</i>
-
-<i>(5) in paragraph (8)(D)—</i>
-
-<i>(A) in clause (iii), by striking "and" at the end;</i>
-
-<i>(B) in clause (iv), by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(v) 2015, in the case of plan years beginning after calendar year 2017;</i>
-
-&emsp;&emsp;<i>"(vi) 2016, in the case of plan years beginning after calendar year 2018; and</i>
-
-&emsp;&emsp;<i>"(vii) 2017, in the case of plan years beginning after calendar year 2019."</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
@@ -530,7 +490,7 @@ Subsec. (a)(3)(E)(iii)(V). Pub. L. 108–218 added subcl. (V).
 
 Subsec. (a)(3)(E)(iv), (v). Pub. L. 103–465, §774(a)(1), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows:
 
-"(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect to any participant by reason of this subparagraph shall not exceed $53.
+"(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect toany participant by reason of this subparagraph shall not exceed $53.
 
 "(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st plan year to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each plan year for which such contributions were made in such amount."
 
@@ -566,7 +526,7 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted "joint" for "concur
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for theapplication of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted "(C), (D), or (E)" for "(B) or (C)", "revised schedule" for "revised coverage schedule", and "Human Resources" for "Public Welfare", in par. (3) substituted "revised schedule" for "revised coverage schedule", and in par. (4) substituted "Human Resources" for "Public Welfare".
 

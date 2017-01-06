@@ -6,7 +6,7 @@ Any individual who was a former spouse of a participant or former participant on
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
-&emsp;(2) if not married to the participant throughout such creditable service, equal to thatformer spouse's pro rata share of 50 percent of such benefits.
+&emsp;(2) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such benefits.
 
 #### (b) Disqualification
 

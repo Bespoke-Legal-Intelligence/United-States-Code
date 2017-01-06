@@ -6,6 +6,7 @@
 | [702\.](%C2%A7%2000702%20-%20Cadets%20and%20midshipmen.md) | Cadets and midshipmen. |
 | [703\.](%C2%A7%2000703%20-%20Reenlistment%20leave.md) | Reenlistment leave. |
 | [704\.](%C2%A7%2000704%20-%20Use%20of%20leave%3B%20regulations.md) | Use of leave; regulations. |
+| [704a.](%C2%A7%2000704a%20-%20Administration%20of%20leave%20prohibition%20on%20authorizing%2C%20granting%2C%20or%20assigning%20leave%20not%20expressly%20authorized%20by%20law.md) | Administration of leave: prohibition on authorizing, granting, or assigning leave not expressly authorized by law. |
 | [705\.](%C2%A7%2000705%20-%20Rest%20and%20recuperation%20absence%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Rest and recuperation absence: qualified members extending duty at designated locations overseas. |
 | [705a.](%C2%A7%2000705a%20-%20Rest%20and%20recuperation%20absence%20certain%20members%20undergoing%20extended%20deployment%20to%20a%20combat%20zone.md) | Rest and recuperation absence: certain members undergoing extended deployment to a combat zone. |
 | [706\.](%C2%A7%2000706%20-%20Administration%20of%20leave%20required%20to%20be%20taken.md) | Administration of leave required to be taken. |
@@ -13,10 +14,13 @@
 | [707a.](%C2%A7%2000707a%20-%20Payment%20upon%20disapproval%20of%20certain%20board%20of%20inquiry%20recommendations%20for%20excess%20leave%20required%20to%20be%20taken.md) | Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken. |
 | [708\.](%C2%A7%2000708%20-%20Educational%20leave%20of%20absence.md) | Educational leave of absence. |
 | [709\.](%C2%A7%2000709%20-%20Emergency%20leave%20of%20absence.md) | Emergency leave of absence. |
+| [709a.](%C2%A7%2000709a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md) | Expenses incurred in connection with leave canceled due to contingency operations: reimbursement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §§521(b)(2), 522(b), Dec. 23, 2016, 130 Stat. 2115, 2116, added items 704a and 709a.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title V, §532(b), Jan. 7, 2011, 124 Stat. 4216, added item 705a.
 
@@ -74,7 +78,7 @@ Agreement.—Each member of the Armed Forces who participates in a pilot program
 
 &emsp;"(2) To undergo during the period of the inactivation of the member from active duty under the pilot program such inactive duty training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the member's military skills, professional qualifications, and physical readiness during the inactivation of the member from active duty.
 
-&emsp;"(3) Following completion of the period of the inactivation of the member from active duty under thepilot program, to serve two months as a member of the Armed Forces on active duty for each month of the period of the inactivation of the member from active duty under the pilot program.
+&emsp;"(3) Following completion of the period of the inactivation of the member from active duty under the pilot program, to serve two months as a member of the Armed Forces on active duty for each month of the period of the inactivation of the member from active duty under the pilot program.
 
 "(d)
 
@@ -114,7 +118,7 @@ Revival required.—Subject to subparagraph (B), upon the return of a member to 
 
 &emsp;&emsp;&emsp;"(i) any agreement entered into by the member under chapter 5 of title 37, United States Code, for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the pilot program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the pilot program; and
 
-&emsp;&emsp;&emsp;"(ii) any special or incentive pay or bonus shall be payable to the member in accordance with the terms of the agreement concerned for the term specified in clause (i).
+&emsp;&emsp;&emsp;"(ii) any special or incentive pay or bonus shall be payable to the member in accordance with theterms of the agreement concerned for the term specified in clause (i).
 
 &emsp;&emsp;"(B)
 
@@ -234,7 +238,7 @@ Additional elements for final report.—In addition to the elements required by 
 
 &emsp;&emsp;"(C) A description of the members who did not return to active duty at the conclusion of their inactivation from active duty under the pilot programs, and a statement of the reasons why the members did not return to active duty.
 
-&emsp;&emsp;"(D) A statement whether members were required to perform inactive duty training as part of their participation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
+&emsp;&emsp;"(D) A statement whether members were required to perform inactive duty training as part of theirparticipation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
 
 "(j)
 
@@ -257,6 +261,7 @@ Duration of Program Authority.—
 - [&sect; 00702 - Cadets and midshipmen](%C2%A7%2000702%20-%20Cadets%20and%20midshipmen.md)
 - [&sect; 00703 - Reenlistment leave](%C2%A7%2000703%20-%20Reenlistment%20leave.md)
 - [&sect; 00704 - Use of leave; regulations](%C2%A7%2000704%20-%20Use%20of%20leave%3B%20regulations.md)
+- [&sect; 00704a - Administration of leave prohibition on authorizing, granting, or assigning leave not expressly authorized by law](%C2%A7%2000704a%20-%20Administration%20of%20leave%20prohibition%20on%20authorizing%2C%20granting%2C%20or%20assigning%20leave%20not%20expressly%20authorized%20by%20law.md)
 - [&sect; 00705 - Rest and recuperation absence qualified members extending duty at designated locations overseas](%C2%A7%2000705%20-%20Rest%20and%20recuperation%20absence%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
 - [&sect; 00705a - Rest and recuperation absence certain members undergoing extended deployment to a combat zone](%C2%A7%2000705a%20-%20Rest%20and%20recuperation%20absence%20certain%20members%20undergoing%20extended%20deployment%20to%20a%20combat%20zone.md)
 - [&sect; 00706 - Administration of leave required to be taken](%C2%A7%2000706%20-%20Administration%20of%20leave%20required%20to%20be%20taken.md)
@@ -264,3 +269,4 @@ Duration of Program Authority.—
 - [&sect; 00707a - Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken](%C2%A7%2000707a%20-%20Payment%20upon%20disapproval%20of%20certain%20board%20of%20inquiry%20recommendations%20for%20excess%20leave%20required%20to%20be%20taken.md)
 - [&sect; 00708 - Educational leave of absence](%C2%A7%2000708%20-%20Educational%20leave%20of%20absence.md)
 - [&sect; 00709 - Emergency leave of absence](%C2%A7%2000709%20-%20Emergency%20leave%20of%20absence.md)
+- [&sect; 00709a - Expenses incurred in connection with leave canceled due to contingency operations reimbursement](%C2%A7%2000709a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md)

@@ -14,7 +14,7 @@ Subject to the provisions of subsection (d) of this section, the President is al
 
 #### (d) Notification to Congress of proposed amendments; Congressional resolution of disapproval
 
-(1) Upon receiving a proposed amendment to the International Regulations, communicated to the United States pursuant to clause 3 of article VI of the Convention, the President shall promptly notify the Congress of the proposed amendment. If, within sixty days after receipt of such notification by the Congress, or ten daysprior to the date under clause 4 of article VI for registering an objection, whichever comes first, the Congress adopts a resolution of disapproval, such resolution shall be transmitted to the President and shall constitute an objection by the United States to the proposed amendment. If, upon receiving notification of the resolution of disapproval, the President has not already notified the Inter-Governmental Maritime Consultative Organization of an objection to the United States to the proposed amendment, he shall promptly do so.
+(1) Upon receiving a proposed amendment to the International Regulations, communicated to the United States pursuant to clause 3 of article VI of the Convention, the President shall promptly notify the Congress of the proposed amendment. If, within sixty days after receipt of such notification by the Congress, or ten days prior to the date under clause 4 of article VI for registering an objection, whichever comes first, the Congress adopts a resolution of disapproval, such resolution shall be transmitted to the President and shall constitute an objection by the United States to the proposed amendment. If, upon receiving notification of the resolution of disapproval, the President has not already notified the Inter-Governmental Maritime Consultative Organization of an objection to the United States to the proposed amendment, he shall promptly do so.
 
 (2) For the purposes of this subsection, "resolution of disapproval" means a concurrent resolution initiated by either House of the Congress, the matter after the resolving clause of which is to read as follows: "That the        (the        concurring) does not favor the proposed amendment to the International Regulations for Preventing Collisions at Sea, 1972, relating to          , and forwarded to the Congress by the President on       .", the first blank space therein to be filled with the name of the resolving House, the second blank space therein to be filled with the name of the concurring House, the third blank space therein to be filled with the subject matter of the proposed amendment, and the fourth blank space therein to be filled with the day, month, and year.
 
@@ -54,7 +54,7 @@ The convention, known as the International Convention for Safety of Life at Sea,
 
 #### International Convention for the Safety of Life at Sea, 1960
 
-The convention, known as the International Convention for the Safety of Life at Sea, was signed at London on June 17, 1960, and was ratified by the United States on May 26, 1965 (see Senate Report No. 477, Aug. 30, 1963, to accompany H.R. 6012, 88th Cong.). The "Regulations for Preventing Collisions at Sea, 1960", approved by the 1960 London conference, were adopted by section 4 of Pub. L. 88–131, Sept. 24, 1963, 77 Stat. 194, and were classified to section 1051 et seq. of this title.
+The convention, known as the International Convention for the Safety of Life at Sea, was signed at Londonon June 17, 1960, and was ratified by the United States on May 26, 1965 (see Senate Report No. 477, Aug. 30, 1963, to accompany H.R. 6012, 88th Cong.). The "Regulations for Preventing Collisions at Sea, 1960", approved by the 1960 London conference, were adopted by section 4 of Pub. L. 88–131, Sept. 24, 1963, 77 Stat. 194, and were classified to section 1051 et seq. of this title.
 
 #### International Regulations for Preventing Collisions at Sea, 1972
 
@@ -78,7 +78,7 @@ Sec. 2. The Secretary of the Navy is authorized to promulgate special rules with
 
 Federal Register.
 
-Sec. 3. The Secretary of the Navy, for vessels of the Navy, and the Secretary of the Department in which the Coast Guard is operating, for all other vessels, are authorized to exempt, in accord with Rule 38 of theInternational Regulations, any vessel or class of vessels, the keel of which is laid, or which is at a corresponding stage of construction, before July 15, 1977, from full compliance with the International Regulations, provided that such vessel or class of vessels complies with the requirements of the International Regulations for Preventing Collisions at Sea, 1960. Notice of any exemption granted shall be published in the
+Sec. 3. The Secretary of the Navy, for vessels of the Navy, and the Secretary of the Department in which the Coast Guard is operating, for all other vessels, are authorized to exempt, in accord with Rule 38 of the International Regulations, any vessel or class of vessels, the keel of which is laid, or which is at a corresponding stage of construction, before July 15, 1977, from full compliance with the International Regulations, provided that such vessel or class of vessels complies with the requirements of the International Regulations for Preventing Collisions at Sea, 1960. Notice of any exemption granted shall be published in the
 
 Federal Register.
 

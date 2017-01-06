@@ -10,7 +10,7 @@
 
 (e) The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the daily rate for level IV of the Executive Schedule, except that the services of not more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.
 
-(f) The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses undersubchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
+(f) The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses under subchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
 
 (g) The Comptroller General shall prescribe regulations under which key officers and employees of the Office who have less than 3 years of service may accrue leave in accordance with section 6303(a)(2) of title 5, in those circumstances in which the Comptroller General has determined such increased annual leave is appropriate for the recruitment or retention of such officers and employees. Such regulations shall define key officers and employees and set forth the factors in determining which officers and employees should be allowed to accrue leave in accordance with this subsection.
 
@@ -152,7 +152,7 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6)
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: "When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule."
 
-Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted "daily rate for level IV of the Executive Schedule" for "maximum daily rate for GS–18 under section 5332 of such title" and "more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable." for "more than—
+Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted "daily rate for level IV of the Executive Schedule" for"maximum daily rate for GS–18 under section 5332 of such title" and "more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable." for "more than—
 
 &emsp;"(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
 

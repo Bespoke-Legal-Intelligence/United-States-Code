@@ -22,7 +22,7 @@ Except as authorized under subsection (b), no consumer reporting agency may make
 
 #### (b) Exempted cases
 
-The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
+The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case ofany consumer credit report to be used in connection with—
 
 &emsp;(1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
 
@@ -48,7 +48,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) are not applicabl
 
 #### (2) Key factor in credit score information
 
-&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company,acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 
@@ -86,7 +86,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (A) Regulations required
 
-&emsp;&emsp;The Bureau shall,,<sup>2</sup> in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,,<sup>2</sup> prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
+&emsp;&emsp;The Bureau shall,,<sup>2</sup> in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,,<sup>2</sup> prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when suchuser has received a notice of discrepancy under paragraph (1).
 
 #### (B) Policies and procedures to be included
 
@@ -163,6 +163,10 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### Effective Date
+
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "which".</i>
 

@@ -30,7 +30,7 @@
 
 #### (i) Round 1 of competitive acquisition program
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of thecompetitive acquisition programs under this section—
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of the competitive acquisition programs under this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
 
@@ -126,7 +126,7 @@
 
 #### (A) Durable medical equipment and medical supplies
 
-&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs).
+&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs), and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title.
 
 #### (B) Other equipment and supplies
 
@@ -156,11 +156,11 @@
 
 #### (B) No effect on payment amount
 
-&emsp;&emsp;A prescription under subparagraph (A) shall not affect the amount of paymentotherwise applicable for the item or service under the code involved.
+&emsp;&emsp;A prescription under subparagraph (A) shall not affect the amount of payment otherwise applicable for the item or service under the code involved.
 
 #### (6) Application
 
-&emsp;For each competitive acquisition area in which the program is implemented under this subsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) of this section shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
+&emsp;For each competitive acquisition area in which the program is implemented under this subsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
 
 #### (7) Exemption from competitive acquisition
 
@@ -186,13 +186,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct a competition among entities supplying items and services described in subsection (a)(2) of this section for each competitive acquisition area in which the program is implemented under subsection (a) of this section with respect to such items and services.
+&emsp;The Secretary shall conduct a competition among entities supplying items and services described in subsection (a)(2) for each competitive acquisition area in which the program is implemented under subsection (a) with respect to such items and services.
 
 #### (2) Conditions for awarding contract
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in an <sup>1</sup> competitive acquisition area pursuant to paragraph (1) to furnish such items or services unless the Secretary finds all of the following:
+&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in an <sup>1</sup> competitive acquisition area pursuant to paragraph (1) to furnish suchitems or services unless the Secretary finds all of the following:
 
 &emsp;&emsp;&emsp;(i) The entity meets applicable quality standards specified by the Secretary under section 1395m(a)(20) of this title.
 
@@ -206,7 +206,7 @@
 
 #### (B) Timely implementation of program
 
-&emsp;&emsp;Any delay in the implementation of quality standards under section 1395m(a)(20) of this title or delay in the receipt of advice from the program oversight committee established under subsection (c) of this section shall not delay the implementation of the competitive acquisition program under this section.
+&emsp;&emsp;Any delay in the implementation of quality standards under section 1395m(a)(20) of this title or delay in the receipt of advice from the program oversight committee established under subsection (c) shall not delay the implementation of the competitive acquisition program under this section.
 
 #### (3) Contents of contract
 
@@ -246,7 +246,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment under this part for competitively priced items and services described in subsection (a)(2) of this section shall be based on bids submitted and accepted under this section for such items and services. Based on such bids the Secretary shall determine a single payment amount for each item or service in each competitive acquisition area.
+&emsp;&emsp;Payment under this part for competitively priced items and services described in subsection (a)(2) shall be based on bids submitted and accepted under this section for such items and services. Based on such bids the Secretary shall determine a single payment amount for each item or service in each competitive acquisition area.
 
 #### (B) Reduced beneficiary cost-sharing
 
@@ -270,7 +270,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subsection (a)(4) of this section, payment shall not be made for items and services described in subsection (a)(2) of this section furnished by a contractor and for which competition is conducted under this section unless—
+&emsp;&emsp;Except as provided in subsection (a)(4), payment shall not be made for items and services described in subsection (a)(2) furnished by a contractor and for which competition is conducted under this section unless—
 
 &emsp;&emsp;&emsp;(i) the contractor has submitted a bid for such items and services under this section; and
 
@@ -282,7 +282,7 @@
 
 #### (C) Rules for mergers and acquisitions
 
-&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successor entity in the case of a merger or acquisition, if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
+&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successorentity in the case of a merger or acquisition, if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
 
 #### (D) Protection of small suppliers
 
@@ -322,7 +322,7 @@
 
 &emsp;&emsp;(D) the phased-in implementation under subsection (a)(1)(B) and implementation of subsection (a)(1)(D);
 
-&emsp;&emsp;(E) the selection of items and services for competitive acquisition under subsection (a)(2) of this section;
+&emsp;&emsp;(E) the selection of items and services for competitive acquisition under subsection (a)(2);
 
 &emsp;&emsp;(F) the bidding structure and number of contractors selected under this section; or
 
@@ -346,7 +346,7 @@
 
 &emsp;&emsp;&emsp;(i) The implementation of the program under this section.
 
-&emsp;&emsp;&emsp;(ii) The establishment of financial standards for purposes of subsection (b)(2)(A)(ii) of this section.
+&emsp;&emsp;&emsp;(ii) The establishment of financial standards for purposes of subsection (b)(2)(A)(ii).
 
 &emsp;&emsp;&emsp;(iii) The establishment of requirements for collection of data for the efficient management of the program.
 
@@ -368,7 +368,7 @@
 
 #### (d) Report
 
-Not later than July 1, 2011, the Secretary shall submit to Congress a report on the programs under this section. The report shall include information on savings, reductions in cost-sharing, access to and quality of items and services, and satisfaction of individuals.
+Not later than July 1, 2011, the Secretary shall submit to Congress a report on the programsunder this section. The report shall include information on savings, reductions in cost-sharing, access to and quality of items and services, and satisfaction of individuals.
 
 #### (e) Repealed. Pub. L. 110–275, title I, §145(a)(1), July 15, 2008, 122 Stat. 2547
 
@@ -376,7 +376,7 @@ Not later than July 1, 2011, the Secretary shall submit to Congress a report on 
 
 The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773; Pub. L. 114–10, title V, §522(a), (b)(1), Apr. 16, 2015, 129 Stat. 176, 177.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773; Pub. L. 114–10, title V, §522(a), (b)(1), Apr. 16, 2015, 129 Stat. 176, 177; Pub. L. 114–255, div. A, title V, §5004(b)(1), Dec. 13, 2016, 130 Stat. 1191.)
 
 #### References in Text
 
@@ -389,6 +389,8 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92
 A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255 substituted ", excluding certain" for "and excluding certain" and inserted before period at end ", and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title".
 
 <b>2015</b>—Subsec. (a)(1)(G), (H). Pub. L. 114–10, §522(a), added subpars. (G) and (H).
 

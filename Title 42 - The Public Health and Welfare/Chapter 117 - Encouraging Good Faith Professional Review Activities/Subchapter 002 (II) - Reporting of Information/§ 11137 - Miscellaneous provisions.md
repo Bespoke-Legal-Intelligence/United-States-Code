@@ -8,7 +8,7 @@ The Secretary (or the agency designated under section 11134(b) of this title) sh
 
 #### (1) In general
 
-&emsp;Information reported under this subchapter is considered confidential and shall not be disclosed (other than to the physician or practitioner involved) except with respect to professional review activity, as necessary to carry out subsections (b) and (c) of section 11135 of this title (as specified in regulations by the Secretary), or in accordance with regulations of the Secretary promulgated pursuant to subsection (a) of this section. Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure. Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under section 11134(b) of this title), on application by any person, shall prepare such information in such form and shall disclose such information in such form.
+&emsp;Information reported under this subchapter is considered confidential and shall not be disclosed (other than to the physician or practitioner involved) except with respect to professional review activity, as necessary to carry out subsections (b) and (c) of section 11135 of this title (as specified in regulations by the Secretary), or in accordance with regulations of the Secretary promulgated pursuant to subsection (a). Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure. Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under section 11134(b) of this title), on application by any person, shall prepare such information in such form and shall disclose such information in such form.
 
 #### (2) Penalty for violations
 
@@ -16,7 +16,7 @@ The Secretary (or the agency designated under section 11134(b) of this title) sh
 
 #### (3) Use of information
 
-&emsp;Subject to paragraph (1), information provided under section 11135 of this title and subsection (a) of this section is intended to be used solely with respect to activities in the furtherance of the quality of health care.
+&emsp;Subject to paragraph (1), information provided under section 11135 of this title and subsection (a) is intended to be used solely with respect to activities in the furtherance of the quality of health care.
 
 #### (4) Fees
 
@@ -24,7 +24,7 @@ The Secretary (or the agency designated under section 11134(b) of this title) sh
 
 #### (c) Relief from liability for reporting
 
-No person or entity (including the agency designated under section 11134(b) of this title) shall be held liable in any civil action with respect to any report made under this subchapter (including information provided under subsection (a) of this section <sup>1</sup> without knowledge of the falsity of the information contained in the report.
+No person or entity (including the agency designated under section 11134(b) of this title) shall be held liable in any civil action with respect to any report made under this subchapter (including information provided under subsection (a) <sup>1</sup> without knowledge of the falsity of the information contained in the report.
 
 #### (d) Interpretation of information
 
@@ -38,7 +38,7 @@ In interpreting information reported under this subchapter, a payment in settlem
 
 Subsec. (b)(4). Pub. L. 100–177, §402(b), added par. (4).
 
-Subsec. (c). Pub. L. 100–177, §402(a)(2), inserted "(including the agency designated under section 11134(b) of this title)" after "entity" and "(including information provided under subsection (a) of this section" after "subchapter".
+Subsec. (c). Pub. L. 100–177, §402(a)(2), inserted "(including the agency designated under section 11134(b) of this title)" after "entity" and "(including information provided under subsection (a)" after "subchapter".
 
 #### Effective Date of 1987 Amendment
 
@@ -52,5 +52,5 @@ In general.—The amendments made by subsections (a) and (c) \[amending this sec
 
 Fees.—The amendment made by subsection (b) \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 1, 1987\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

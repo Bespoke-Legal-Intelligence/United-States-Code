@@ -10,7 +10,7 @@ Such fee shall be paid no later than thirty days after the end of each calendar 
 
 #### (c) Submission of statement
 
-Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition tothe permittee, the owner of the coal, the preparation plant, tripple,<sup>1</sup> or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
+Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple,<sup>1</sup> or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 
 #### (d) Penalty
 
@@ -48,7 +48,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with the priorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
 
-(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5) are authorized to be expended by the Secretary for any of the following:
+(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5)are authorized to be expended by the Secretary for any of the following:
 
 &emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(9) of this title.
 
@@ -60,7 +60,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(E) For the purpose of paragraph (8).
 
-(4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) orexpended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters within unreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
+(4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) or expended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters within unreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
 
 (B) Funds made available under this paragraph may be used for reclamation or drainage abatement at a site referred to in subparagraph (A) if the Secretary makes either of the following findings:
 
@@ -140,13 +140,39 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (C) Multiemployer Health Benefit Plan
 
-&emsp;&emsp;A transfer to the Multiemployer Health Benefit Plan established after July 20, 1992, by the parties that are the settlors of the 1992 UMWA Benefit Plan referred to in subparagraph (B) (referred to in this subparagraph and subparagraph (D) as "the Plan"), in an amount equal to the excess (if any) of—
+#### (i) Transfer to the Plan
 
-&emsp;&emsp;&emsp;(i) the amount that the trustees of the Plan estimate will be expended from the Plan during the next calendar year, to provide benefits no greater than those provided by the Plan as of December 31, 2006; over
+&emsp;&emsp;&emsp;A transfer to the Multiemployer Health Benefit Plan established after July 20, 1992, by the parties that are the settlors of the 1992 UMWA Benefit Plan referred to in subparagraph (B) (referred to in this subparagraph and subparagraph (D) as "the Plan"), in an amount equal to the excess (if any) of—
 
-&emsp;&emsp;&emsp;(ii) the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
+&emsp;&emsp;&emsp;&emsp;(I) the amount that the trustees of the Plan estimate will be expended from the Plan during the next calendar year, to provide benefits no greater than those provided by the Plan as of December 31, 2006; over
 
-> &emsp;&emsp;Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.
+&emsp;&emsp;&emsp;&emsp;(II) the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
+
+#### (ii) Calculation of excess
+
+&emsp;&emsp;&emsp;The excess determined under clause (i) shall be calculated—
+
+&emsp;&emsp;&emsp;&emsp;(I) except as provided in subclause (II), by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for purposes of the transfer made for fiscal year 2017, as if, for the period beginning January 1, 2017, and ending April 30, 2017, only—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) those beneficiaries actually enrolled in the Plan as of December 10, 2016, who are eligible to receive health benefits under the Plan on January 1, 2017, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) those beneficiaries whose health benefits, defined as those benefits payable directly following death or retirement or upon a finding of disability by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26), would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015,
+
+&emsp;&emsp;&nbsp;were taken into account, and for any other period during such fiscal year, only the beneficiaries described in subclause (I) were taken into account.
+
+#### (iii) Eligibility of certain retirees
+
+&emsp;&emsp;&emsp;Individuals referred to in clause (ii)(II)(bb) shall be treated as eligible to receive health benefits under the Plan for the plan year that includes January 1, 2017.
+
+#### (iv) Requirements for transfer
+
+&emsp;&emsp;&emsp;The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees' beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II).
+
+#### (v) VEBA transfer
+
+&emsp;&emsp;&emsp;The administrator of such voluntary employees' beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.
 
 #### (D) Individuals considered enrolled
 
@@ -264,7 +290,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan the amount necessary to meet the requirement of subsection (h)(2).
 
-&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, $9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
+&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, $9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percentper year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
 
 &emsp;&emsp;&emsp;(i) prior to December 20, 2006, the signatory operator (or any related person to the operator)—
 
@@ -286,25 +312,29 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (B) Insufficient amounts
 
-&emsp;&emsp;In a case in which the amount required to be transferred without regard to this paragraph exceeds the maximum annual limitation in subparagraph (A), the Secretary shall adjust the transfers of funds so that—
+&emsp;&emsp;In a case in which the amount required to be transferred without regard to this paragraph exceeds the maximum annual limitation in subparagraph (A), the Secretary shall adjust the transfers of funds under paragraph (1) so that—
 
-&emsp;&emsp;&emsp;(i) each transfer for the fiscal year is a percentage of the amount described;
+&emsp;&emsp;&emsp;(i) each such transfer for the fiscal year is a percentage of the amount described;
 
 &emsp;&emsp;&emsp;(ii) the amount is determined without regard to subsection (h)(5)(A); and
 
-&emsp;&emsp;&emsp;(iii) the percentage transferred is the same for all transfers made under this subsection for the fiscal year.
+&emsp;&emsp;&emsp;(iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
 
 #### (4) Availability of funds
 
 &emsp;Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub.L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911; Pub. L. 114–223, div. C, §167(b), (c), as added Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1009, 1010.)
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original "the date of enactment of this paragraph", which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, §167(b), as added by Pub. L. 114–254, div. A, §101(3), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: "Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made."
+
+Subsec. (i)(3)(B). Pub. L. 114–223, div. C, §167(c), as added by Pub. L. 114–254, div. A, §101(3), substituted "under paragraph (1) so that" for "so that" in introductory provisions, "each such transfer" for "each transfer" in cl. (i), and "paragraph (1)" for "this subsection" in cl. (iii).
 
 <b>2008</b>—Subsec. (i)(1)(C). Pub. L. 110–343 substituted "$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010" for "and $9,000,000 on October 1, 2009" in introductory provisions.
 
@@ -326,7 +356,7 @@ Subsec. (g)(3)(A). Pub. L. 109–432, §202(c)(3)(B), substituted "1231(c)(9)" f
 
 Subsec. (g)(3)(E). Pub. L. 109–432, §202(c)(3)(C), added subpar. (E).
 
-Subsec. (g)(5). Pub. L. 109–432, §202(c)(4), designated existing provisions as subpar. (A), in first sentence, substituted "60" for "40", in last sentence, subtituted "Funds made available under paragraph (3) or (4)" for "Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)", and added subpar. (B).
+Subsec. (g)(5). Pub. L. 109–432, §202(c)(4), designated existing provisions as subpar. (A), in first sentence,substituted "60" for "40", in last sentence, subtituted "Funds made available under paragraph (3) or (4)" for "Funds allocated or expended by the Secretary under paragraphs (2), (3), or (4)", and added subpar. (B).
 
 Subsec. (g)(6) to (8). Pub. L. 109–432, §202(c)(5), added pars. (6) to (8) and struck out former pars. (6) to (8) which related to authority of any State to receive and retain up to 10 percent of the total of grants, State authority to establish an acid mine drainage abatement and treatment fund and to implement plans for acid mine drainage abatement and treatment, and allocation of not less than $2,000,000 annually for expenditure in each State and for each Indian tribe, having an approved reclamation program and eligible lands and waters.
 

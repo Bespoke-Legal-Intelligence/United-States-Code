@@ -20,7 +20,7 @@ For purposes of this section, the term "wrongfully incarcerated individual" mean
 
 #### (c) Covered offense
 
-For purposes of this section, the term "covered offense" means any criminal offense under Federal or State law, and includes any criminal offense arising from the same course of conduct as that criminal offense.
+For purposes of this section, the term "covered offense" means any criminal offense under Federal or State law, and includes any criminaloffense arising from the same course of conduct as that criminal offense.
 
 (Added Pub. L. 114–113, div. Q, title III, §304(a), Dec. 18, 2015, 129 Stat. 3087.)
 

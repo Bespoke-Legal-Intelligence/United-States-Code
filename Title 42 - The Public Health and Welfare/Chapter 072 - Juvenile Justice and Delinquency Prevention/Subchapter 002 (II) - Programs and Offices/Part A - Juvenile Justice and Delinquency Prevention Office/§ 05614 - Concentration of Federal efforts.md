@@ -28,9 +28,9 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
-&emsp;(5)(A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter; and
+&emsp;(5)(A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-&emsp;(B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter;
+&emsp;(B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E;
 
 &emsp;(6) provide for the auditing of monitoring systems required under section 5633(a)(15) <sup>1</sup> of this title to review the adequacy of such systems; and
 
@@ -84,7 +84,7 @@ Subsec. (i). Pub. L. 107–273, §12205(4), struck out subsec. (i) which read as
 
 "(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
 
-"(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1).Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment."
+"(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment."
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–586, §2(c)(1), designated existing provisions as par. (1), substituted "develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan," for "implement overall policy and develop objectives and priorities", and added par. (2).
 
@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 102–586, §2(c)(4), struck out subsec. (g) which read as 
 
 Subsec. (b)(5). Pub. L. 100–690, §7253(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "develop annually with the assistance of the Advisory Committee and the Coordinating Council and submit to the President and the Congress, after the first year following October 3, 1977, prior to December 31, an analysis and evaluation of Federal juvenile delinquency programs conducted and assisted by Federal departments and agencies, the expenditures made, the results achieved, the plans developed, and problems in the operations and coordination of such programs and a brief but precise comprehensive plan for Federal juvenile delinquency programs, with particular emphasis on the prevention of juvenile delinquency and the development of programs and services which will encourage increased diversion of juveniles from the traditional juvenile justice system, which analysis and evaluation shall include recommendations for modifications in organization, management, personnel, standards, budget requests, and implementation plans necessary to increase the effectiveness of these programs;".
 
-Subsec. (b)(6), (7). Pub. L. 100–690, §7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and".
+Subsec. (b)(6), (7). Pub. L. 100–690, §7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6)which read as follows: "provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and".
 
 Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: "The President shall, no later than ninety days after receiving each annual report under subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report."
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, but amendment by section 7253(b)(1) of Pub. L. 100–690 not applicable with respect to fiscal year 1989, see section 7296(a), (b)(2) of Pub. L. 100–690, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, but amendment by section 7253(b)(1) of Pub. L. 100–690not applicable with respect to fiscal year 1989, see section 7296(a), (b)(2) of Pub. L. 100–690, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1984 Amendment
 

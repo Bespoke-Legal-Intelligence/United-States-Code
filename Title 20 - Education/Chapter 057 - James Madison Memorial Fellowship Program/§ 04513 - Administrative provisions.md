@@ -14,7 +14,7 @@ The Foundation is authorized—
 
 &emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
+&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may,with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) to make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -52,7 +52,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–208, §3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in section 5332 of title 5;".
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–208, §3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in section 5332 of title 5;".
 
 Subsec. (a)(8). Pub. L. 101–208, §3(1)(B), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "to rent office space;".
 

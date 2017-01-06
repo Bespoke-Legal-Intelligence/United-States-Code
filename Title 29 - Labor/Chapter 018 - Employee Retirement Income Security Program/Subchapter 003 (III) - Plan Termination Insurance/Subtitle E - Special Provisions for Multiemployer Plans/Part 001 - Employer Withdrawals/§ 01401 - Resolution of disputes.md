@@ -22,7 +22,7 @@
 
 #### (b) Alternative collection proceedings; civil action subsequent to arbitration award; conduct of arbitration proceedings
 
-(1) If no arbitration proceeding has been initiated pursuant to subsection (a) of this section, the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
+(1) If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
 
 (2) Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator's award, in an appropriate United States district court in accordance with section 1451 of this title to enforce, vacate, or modify the arbitrator's award.
 
@@ -30,7 +30,7 @@
 
 #### (c) Presumption respecting finding of fact by arbitrator
 
-In any proceeding under subsection (b) of this section, there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
+In any proceeding under subsection (b), there shall be a presumption, rebuttable only by aclear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
 
 #### (d) Payments by employer prior and subsequent to determination by arbitrator; adjustments; failure of employer to make payments
 
@@ -58,7 +58,7 @@ Payments shall be made by an employer in accordance with the determinations made
 
 #### (A) Determination
 
-&emsp;&emsp;Notwithstanding subsection (a)(3) of this section—
+&emsp;&emsp;Notwithstanding subsection (a)(3)—
 
 &emsp;&emsp;&emsp;(i) a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and
 
@@ -68,7 +68,7 @@ Payments shall be made by an employer in accordance with the determinations made
 
 #### (B) Procedure
 
-&emsp;&emsp;Notwithstanding subsection (d) of this section and section 1399(c) of this title, if an employer contests the plan sponsor's determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a) of this section, or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination.
+&emsp;&emsp;Notwithstanding subsection (d) and section 1399(c) of this title, if an employer contests the plan sponsor's determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a), or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination.
 
 #### (f) Procedures applicable to certain disputes
 
@@ -92,7 +92,7 @@ Special rule.—Notwithstanding subsection (d) and section 1399(c) of this title
 
 &emsp;(A) provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability by reason of the application of section 1392(c) of this title; and
 
-&emsp;(B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor's determination.
+&emsp;(B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, orin court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor's determination.
 
 (3)
 

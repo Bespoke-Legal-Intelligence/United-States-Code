@@ -4,7 +4,7 @@
 
 (1) Congress hereby declares as a national goal the prevention of any future, and the remedying of any existing, impairment of visibility in mandatory class I Federal areas which impairment results from manmade air pollution.
 
-(2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
+(2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an importantvalue of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
 
 (3) Not later than eighteen months after August 7, 1977, the Administrator shall complete a study and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
 
@@ -50,7 +50,7 @@ In promulgating regulations under this section, the Administrator shall not requ
 
 #### (f) Nondiscretionary duty
 
-For purposes of section 7604(a)(2) of this title, the meeting of the national goal specified in subsection (a)(1) of this section by any specific date or dates shall not be considered a "nondiscretionary duty" of the Administrator.
+For purposes of section 7604(a)(2) of this title, the meeting of the national goal specified insubsection (a)(1) of this section by any specific date or dates shall not be considered a "nondiscretionary duty" of the Administrator.
 
 #### (g) Definitions
 
@@ -68,7 +68,7 @@ For the purpose of this section—
 
 &emsp;(6) the terms "visibility impairment" and "impairment of visibility" shall include reduction in visual range and atmospheric discoloration; and
 
-&emsp;(7) the term "major stationary source" means the following types of stationary sources with the potential to emit 250 tons ormore of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
+&emsp;(7) the term "major stationary source" means the following types of stationary sources with the potential to emit 250 tons or more of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
 
 (July 14, 1955, ch. 360, title I, §169A, as added Pub. L. 95–95, title I, §128, Aug. 7, 1977, 91 Stat. 742.)
 

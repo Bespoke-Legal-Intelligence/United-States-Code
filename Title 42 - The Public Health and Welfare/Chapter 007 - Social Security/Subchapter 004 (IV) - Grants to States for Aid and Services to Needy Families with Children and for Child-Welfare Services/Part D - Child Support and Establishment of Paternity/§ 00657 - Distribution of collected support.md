@@ -90,7 +90,7 @@ Subject to subsections (d) and (e), the amounts collected on behalf of a family 
 
 #### (A) In general
 
-&emsp;&emsp;Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of thissection may remain assigned after such date.
+&emsp;&emsp;Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.
 
 #### (B) Distribution of amounts after assignment discontinuation
 
@@ -98,13 +98,13 @@ Subject to subsections (d) and (e), the amounts collected on behalf of a family 
 
 #### (c) Definitions
 
-As used in subsection (a) of this section:
+As used in subsection (a):
 
 #### (1) Assistance
 
 &emsp;The term "assistance from the State" means—
 
-&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
+&emsp;&emsp;(A) assistance under the State program funded under part A or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
 
 &emsp;&emsp;(B) foster care maintenance payments under the State plan approved under part E of this subchapter.
 
@@ -140,7 +140,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 &emsp;(2) shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child's future needs or making all or a part thereof available to the person responsible for meeting the child's day-to-day needs; and
 
-&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A of this subchapter) which were made with respect to the child (and with respect to which past collections have not previously been retained);
+&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (withappropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
@@ -148,7 +148,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars.\(1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars. (1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
 
 Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In the case of any other family, the State shall distribute the amount so collected to the family."
 
@@ -204,7 +204,7 @@ Subsec. (a)(5). Pub. L. 105–33, §5532(e), substituted "1999" for "1998" in in
 
 Subsec. (a)(6). Pub. L. 105–33, §5532(b)(1), added par. (6).
 
-Subsec. (b). Pub. L. 105–33, §5532(a), substituted "assigned" for "which were assigned" and "and in effect on September 30, 1997 (or such earlier date, on or after August 22, 1996, as the State may choose), shall remain assigned after such date." for "and which were in effect on the day before August 22, 1996, shall remain assigned after August 22, 1996."
+Subsec. (b). Pub. L. 105–33, §5532(a), substituted "assigned" for "which were assigned" and "and in effect on September 30, 1997 (or such earlier date, on or afterAugust 22, 1996, as the State may choose), shall remain assigned after such date." for "and which were in effect on the day before August 22, 1996, shall remain assigned after August 22, 1996."
 
 Subsec. (c)(2). Pub. L. 105–33, §5532(h)(1), substituted "is distributed" for "is collected".
 

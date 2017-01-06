@@ -32,7 +32,7 @@ Levels II and IV of the Executive Schedule, referred to in subsec. (a), are set 
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–199, title III, \[(2)\], added second sentence.
 
-Pub. L. 108–199, title III, \[(1)\], which directed the substitution of "salary" for "compensation", was executedby making the substitution both places that "compensation" appeared to reflect the probable intent of Congress.
+Pub. L. 108–199, title III, \[(1)\], which directed the substitution of "salary" for "compensation", was executed by making the substitution both places that "compensation" appeared to reflect the probable intent of Congress.
 
 Pub. L. 108–199, title III, \[(1)\], which directed substitution of "rate for level IV of the Executive Schedule" for "highest rate provided for GS–18 of the General Schedule under section 5332 of title 5 United States Code", was executed by making the substitution for "highest rate provided for GS–18 of the General Schedule under section 5332 of title 5, United States Code" to reflect the probable intent of Congress.
 

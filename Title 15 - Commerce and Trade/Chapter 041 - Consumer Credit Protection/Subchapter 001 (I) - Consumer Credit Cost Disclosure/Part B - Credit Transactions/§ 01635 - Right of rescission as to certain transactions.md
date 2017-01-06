@@ -30,7 +30,7 @@ This section does not apply to—
 
 #### (f) Time limit for exercise of right
 
-An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property,whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
+An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expirationof one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
 
 #### (g) Additional relief
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 

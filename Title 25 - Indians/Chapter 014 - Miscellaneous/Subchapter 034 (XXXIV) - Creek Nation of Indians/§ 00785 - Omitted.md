@@ -1,0 +1,6 @@
+### §785. Omitted
+
+#### Codification
+
+Section, act Aug. 1, 1955, ch. 444, §6, 69 Stat. 432, which authorized issuance of rules and regulations necessary for the purposes of former sections 781 to 785 of this title, was omitted from the Code as being of special and not general application.
+

@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) issue such rules and regulations as may be necessary or appropriate to carry out this chapter;
 
-&emsp;(2) cooperate with regional, State, local, and other agencies, and cooperate with and furnishtechnical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter; and
+&emsp;(2) cooperate with regional, State, local, and other agencies, and cooperate with and furnish technical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter; and
 
 &emsp;(3) make investigations and inspections and require the keeping of records necessary or appropriate for the administration of this chapter.
 

@@ -1,6 +1,6 @@
 ### §300d–31. Definitions
 
-For purposes of this part and parts A and B of this subchapter:
+For purposes of this part and parts A and B:
 
 #### (1) Designated trauma center
 
@@ -34,7 +34,7 @@ For purposes of this part and parts A and B of this subchapter:
 
 <b>1993</b>—Par. (3). Pub. L. 103–183 substituted "Puerto Rico," for "Puerto Rico;".
 
-<b>1992</b>—Pub. L. 102–321 substituted "this part and parts A and B of this subchapter" for "this subchapter" in introductory provisions.
+<b>1992</b>—Pub. L. 102–321 substituted "this part and parts A and B" for "this subchapter" in introductory provisions.
 
 #### Effective Date of 1992 Amendment
 

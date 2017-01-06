@@ -8,11 +8,11 @@ For the purposes of this chapter, the following definitions apply:
 
 #### (2) Indian tribe
 
-&emsp;The terms "Indian tribe" and "tribe" shall have the meaning given the term "Indian tribe" in section 450b(e) of this title.
+&emsp;The terms "Indian tribe" and "tribe" shall have the meaning given the term "Indian tribe" in section 5304(e) of this title.
 
 #### (3) Indian
 
-&emsp;The term "Indian" shall have the meaning given such term in section 450b(d) of this title.
+&emsp;The term "Indian" shall have the meaning given such term in section 5304(d) of this title.
 
 #### (4) Secretary
 

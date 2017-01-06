@@ -2,7 +2,7 @@
 
 #### (a) High-intensity discharge lamps and distribution transformers
 
-(1) The Secretary shall, within 30 months after October 24, 1992, prescribe testing requirements for those high-intensity discharge lamps and distribution transformers for which the Secretary makes a determination that energy conservation standards would be technologically feasible and economically justified, and would result in significant energy savings.
+(1) The Secretary shall, within 30 months after October 24, 1992, prescribe testing requirementsfor those high-intensity discharge lamps and distribution transformers for which the Secretary makes a determination that energy conservation standards would be technologically feasible and economically justified, and would result in significant energy savings.
 
 (2) The Secretary shall, within 18 months after the date on which testing requirements are prescribed by the Secretary pursuant to paragraph (1), prescribe, by rule, energy conservation standards for those high-intensity discharge lamps and distribution transformers for which the Secretary prescribed testing requirements under paragraph (1).
 
@@ -38,7 +38,7 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 (2) For purposes of section 6303(a) of this title, paragraph (1) of this subsection shall be considered to be a part of section 6302 of this title.
 
-(Pub. L. 94–163, title III, §346, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272;amended Pub. L. 102–486, title I, §124(a), Oct. 24, 1992, 106 Stat. 2832.)
+(Pub. L. 94–163, title III, §346, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §124(a), Oct. 24, 1992, 106 Stat. 2832.)
 
 #### Amendments
 

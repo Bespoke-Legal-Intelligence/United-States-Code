@@ -12,7 +12,7 @@ The provisions of this chapter shall not apply to—
 
 &emsp;&emsp;&emsp;(ii) such material or article has been exhibited to the public for a period or periods aggregating at least one year during such three-year period, or
 
-&emsp;&emsp;&emsp;(iii) such article or material has been cataloged and the catalog material made available upon request to the public for atleast two years during such three-year period;
+&emsp;&emsp;&emsp;(iii) such article or material has been cataloged and the catalog material made available upon request to the public for at least two years during such three-year period;
 
 &emsp;&emsp;(B) if subparagraph (A) does not apply, has been within the United States for a period of not less than ten consecutive years and has been exhibited for not less than five years during such period in a recognized museum or religious or secular monument or similar institution in the Unites <sup>1</sup> States open to the public; or
 

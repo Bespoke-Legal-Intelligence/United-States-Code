@@ -158,7 +158,7 @@ Availability.—The inventories shall be made available to the Secretary.
 
 &emsp;(4)
 
-Updates.—The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriateFederal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
+Updates.—The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriate Federal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
 
 &emsp;(5)
 

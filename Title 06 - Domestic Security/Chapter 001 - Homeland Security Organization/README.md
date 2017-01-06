@@ -5,6 +5,7 @@
 | [101\.](%C2%A7%2000101%20-%20Definitions.md) | Definitions. |
 | [102\.](%C2%A7%2000102%20-%20Construction%3B%20severability.md) | Construction; severability. |
 | [103\.](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md) | Use of appropriated funds. |
+| [104\.](%C2%A7%2000104%20-%20National%20biodefense%20strategy.md) | National biodefense strategy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,6 +73,7 @@
 | [147\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000147%20-%20Cybersecurity%20recruitment%20and%20retention.md) | Cybersecurity recruitment and retention. |
 | [148\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000148%20-%20National%20cybersecurity%20and%20communications%20integration%20center.md) | National cybersecurity and communications integration center. |
 | [149\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149%20-%20Cybersecurity%20plans.md) | Cybersecurity plans. |
+| [149a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149a%20-%20Cybersecurity%20strategy.md) | Cybersecurity strategy. |
 | [150\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000150%20-%20Clearances.md) | Clearances. |
 | [151\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000151%20-%20Federal%20intrusion%20detection%20and%20prevention%20system.md) | Federal intrusion detection and prevention system. |
 
@@ -112,36 +114,39 @@
 | [195b.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195b%20-%20National%20Biosurveillance%20Integration%20Center.md) | National Biosurveillance Integration Center. |
 | [195c.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195c%20-%20Promoting%20antiterrorism%20through%20international%20cooperation%20program.md) | Promoting antiterrorism through international cooperation program. |
 | [195d.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195d%20-%20Social%20media%20working%20group.md) | Social media working group. |
+| [195e.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195e%20-%20Transparency%20in%20research%20and%20development.md) | Transparency in research and development. |
+| [195f.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195f%20-%20EMP%20and%20GMD%20mitigation%20research%20and%20development.md) | EMP and GMD mitigation research and development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IV—DIRECTORATE OF BORDER AND TRANSPORTATION SECURITY
+#### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY
 
-#### Part A—Under Secretary for Border and Transportation Security
+#### Part A—Border, Maritime, and Transportation Security Responsibilities and Functions
 
 |  |  |
 | :--- | ---: |
-| [201\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20A%20-%20Under%20Secretary%20for%20Border%20and%20Transportation%20Security/%C2%A7%2000201%20-%20Under%20Secretary%20for%20Border%20and%20Transportation%20Security.md) | Under Secretary for Border and Transportation Security. |
-| [202\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20A%20-%20Under%20Secretary%20for%20Border%20and%20Transportation%20Security/%C2%A7%2000202%20-%20Responsibilities.md) | Responsibilities. |
-| [203\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20A%20-%20Under%20Secretary%20for%20Border%20and%20Transportation%20Security/%C2%A7%2000203%20-%20Functions%20transferred.md) | Functions transferred. |
+| [201\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000201%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93125%2C%20title%20VIII%2C%20%C2%A7802%28g%29%282%29%2C%20Feb.%2024%2C%202016%2C%20130%20Stat.%20212.md) | Repealed. |
+| [202\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000202%20-%20Border%2C%20maritime%2C%20and%20transportation%20responsibilities.md) | Border, maritime, and transportation responsibilities. |
+| [203\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000203%20-%20Functions%20transferred.md) | Functions transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—United States Customs Service
+#### Part B—U.S. Customs and Border Protection
 
 |  |  |
 | :--- | ---: |
-| [211\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000211%20-%20Establishment%3B%20Commissioner%20of%20Customs.md) | Establishment; Commissioner of Customs. |
-| [212\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000212%20-%20Retention%20of%20Customs%20revenue%20functions%20by%20Secretary%20of%20the%20Treasury.md) | Retention of Customs revenue functions by Secretary of the Treasury. |
-| [213\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000213%20-%20Preservation%20of%20Customs%20funds.md) | Preservation of Customs funds. |
-| [214\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000214%20-%20Separate%20budget%20request%20for%20Customs.md) | Separate budget request for Customs. |
-| [215\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000215%20-%20Definition.md) | Definition. |
-| [216\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000216%20-%20GAO%20report%20to%20Congress.md) | GAO report to Congress. |
-| [217\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000217%20-%20Allocation%20of%20resources%20by%20the%20Secretary.md) | Allocation of resources by the Secretary. |
-| [218\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000218%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| [220\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000220%20-%20Methamphetamine%20and%20methamphetamine%20precursor%20chemicals.md) | Methamphetamine and methamphetamine precursor chemicals. |
-| [221\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000221%20-%20Requirements%20with%20respect%20to%20administering%20polygraph%20examinations%20to%20law%20enforcement%20personnel%20of%20U.S.%20Customs%20and%20Border%20Protection.md) | Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection. |
-| [222\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20B%20-%20United%20States%20Customs%20Service/%C2%A7%2000222%20-%20Advanced%20Training%20Center%20Revolving%20Fund.md) | Advanced Training Center Revolving Fund. |
+| [211\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000211%20-%20Establishment%20of%20U.S.%20Customs%20and%20Border%20Protection%3B%20Commissioner%2C%20Deputy%20Commissioner%2C%20and%20operational%20offices.md) | Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices. |
+| [212\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000212%20-%20Retention%20of%20Customs%20revenue%20functions%20by%20Secretary%20of%20the%20Treasury.md) | Retention of Customs revenue functions by Secretary of the Treasury. |
+| [213\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000213%20-%20Preservation%20of%20Customs%20funds.md) | Preservation of Customs funds. |
+| [214\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000214%20-%20Separate%20budget%20request%20for%20Customs.md) | Separate budget request for Customs. |
+| [215\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000215%20-%20Definition.md) | Definition. |
+| [216\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000216%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93125%2C%20title%20VIII%2C%20%C2%A7802%28f%29%2C%20Feb.%2024%2C%202016%2C%20130%20Stat.%20210.md) | Repealed. |
+| [217\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000217%20-%20Allocation%20of%20resources%20by%20the%20Secretary.md) | Allocation of resources by the Secretary. |
+| [218\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000218%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93125%2C%20title%20VIII%2C%20%C2%A7802%28f%29%2C%20Feb.%2024%2C%202016%2C%20130%20Stat.%20210.md) | Repealed. |
+| [220\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000220%20-%20Methamphetamine%20and%20methamphetamine%20precursor%20chemicals.md) | Methamphetamine and methamphetamine precursor chemicals. |
+| [221\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000221%20-%20Requirements%20with%20respect%20to%20administering%20polygraph%20examinations%20to%20law%20enforcement%20personnel%20of%20U.S.%20Customs%20and%20Border%20Protection.md) | Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection. |
+| [222\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000222%20-%20Advanced%20Training%20Center%20Revolving%20Fund.md) | Advanced Training Center Revolving Fund. |
+| [223\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000223%20-%20Border%20security%20metrics.md) | Border security metrics. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -149,17 +154,17 @@
 
 |  |  |
 | :--- | ---: |
-| [231\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000231%20-%20Transfer%20of%20certain%20agricultural%20inspection%20functions%20of%20the%20Department%20of%20Agriculture.md) | Transfer of certain agricultural inspection functions of the Department of Agriculture. |
-| [232\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000232%20-%20Functions%20of%20Administrator%20of%20General%20Services.md) | Functions of Administrator of General Services. |
-| [233\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000233%20-%20Functions%20of%20Transportation%20Security%20Administration.md) | Functions of Transportation Security Administration. |
-| [234\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000234%20-%20Preservation%20of%20Transportation%20Security%20Administration%20as%20a%20distinct%20entity.md) | Preservation of Transportation Security Administration as a distinct entity. |
-| [235\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000235%20-%20Coordination%20of%20information%20and%20information%20technology.md) | Coordination of information and information technology. |
-| [236\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000236%20-%20Visa%20issuance.md) | Visa issuance. |
-| [237\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000237%20-%20Information%20on%20visa%20denials%20required%20to%20be%20entered%20into%20electronic%20data%20system.md) | Information on visa denials required to be entered into electronic data system. |
-| [238\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000238%20-%20Office%20for%20Domestic%20Preparedness.md) | Office for Domestic Preparedness. |
-| [239\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000239%20-%20Office%20of%20Cargo%20Security%20Policy.md) | Office of Cargo Security Policy. |
-| [240\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000240%20-%20Border%20Enforcement%20Security%20Task%20Force.md) | Border Enforcement Security Task Force. |
-| [241\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000241%20-%20Prevention%20of%20international%20child%20abduction.md) | Prevention of international child abduction. |
+| [231\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000231%20-%20Transfer%20of%20certain%20agricultural%20inspection%20functions%20of%20the%20Department%20of%20Agriculture.md) | Transfer of certain agricultural inspection functions of the Department of Agriculture. |
+| [232\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000232%20-%20Functions%20of%20Administrator%20of%20General%20Services.md) | Functions of Administrator of General Services. |
+| [233\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000233%20-%20Functions%20of%20Transportation%20Security%20Administration.md) | Functions of Transportation Security Administration. |
+| [234\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000234%20-%20Preservation%20of%20Transportation%20Security%20Administration%20as%20a%20distinct%20entity.md) | Preservation of Transportation Security Administration as a distinct entity. |
+| [235\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000235%20-%20Coordination%20of%20information%20and%20information%20technology.md) | Coordination of information and information technology. |
+| [236\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000236%20-%20Visa%20issuance.md) | Visa issuance. |
+| [237\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000237%20-%20Information%20on%20visa%20denials%20required%20to%20be%20entered%20into%20electronic%20data%20system.md) | Information on visa denials required to be entered into electronic data system. |
+| [238\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000238%20-%20Office%20for%20Domestic%20Preparedness.md) | Office for Domestic Preparedness. |
+| [239\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000239%20-%20Office%20of%20Cargo%20Security%20Policy.md) | Office of Cargo Security Policy. |
+| [240\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000240%20-%20Border%20Enforcement%20Security%20Task%20Force.md) | Border Enforcement Security Task Force. |
+| [241\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000241%20-%20Prevention%20of%20international%20child%20abduction.md) | Prevention of international child abduction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -167,13 +172,13 @@
 
 |  |  |
 | :--- | ---: |
-| [251\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000251%20-%20Transfer%20of%20functions%20to%20Under%20Secretary%20for%20Border%20and%20Transportation%20Security.md) | Transfer of functions to Under Secretary for Border and Transportation Security. |
-| [252\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000252%20-%20Establishment%20of%20Bureau%20of%20Border%20Security.md) | Establishment of Bureau of Border Security. |
-| [253\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000253%20-%20Professional%20responsibility%20and%20quality%20review.md) | Professional responsibility and quality review. |
-| [254\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000254%20-%20Employee%20discipline.md) | Employee discipline. |
-| [255\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000255%20-%20Report%20on%20improving%20enforcement%20functions.md) | Report on improving enforcement functions. |
-| [256\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000256%20-%20Sense%20of%20Congress%20regarding%20construction%20of%20fencing%20near%20San%20Diego%2C%20California.md) | Sense of Congress regarding construction of fencing near San Diego, California. |
-| [257\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000257%20-%20Report.md) | Report. |
+| [251\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000251%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
+| [252\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000252%20-%20Establishment%20of%20Bureau%20of%20Border%20Security.md) | Establishment of Bureau of Border Security. |
+| [253\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000253%20-%20Professional%20responsibility%20and%20quality%20review.md) | Professional responsibility and quality review. |
+| [254\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000254%20-%20Employee%20discipline.md) | Employee discipline. |
+| [255\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000255%20-%20Report%20on%20improving%20enforcement%20functions.md) | Report on improving enforcement functions. |
+| [256\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000256%20-%20Sense%20of%20Congress%20regarding%20construction%20of%20fencing%20near%20San%20Diego%2C%20California.md) | Sense of Congress regarding construction of fencing near San Diego, California. |
+| [257\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20D%20-%20Immigration%20Enforcement%20Functions/%C2%A7%2000257%20-%20Report.md) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -181,15 +186,15 @@
 
 |  |  |
 | :--- | ---: |
-| [271\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000271%20-%20Establishment%20of%20Bureau%20of%20Citizenship%20and%20Immigration%20Services.md) | Establishment of Bureau of Citizenship and Immigration Services. |
-| [272\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000272%20-%20Citizenship%20and%20Immigration%20Services%20Ombudsman.md) | Citizenship and Immigration Services Ombudsman. |
-| [273\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000273%20-%20Professional%20responsibility%20and%20quality%20review.md) | Professional responsibility and quality review. |
-| [274\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000274%20-%20Employee%20discipline.md) | Employee discipline. |
-| [275\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000275%20-%20Transition.md) | Transition. |
-| [276\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000276%20-%20Report%20on%20improving%20immigration%20services.md) | Report on improving immigration services. |
-| [277\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000277%20-%20Report%20on%20responding%20to%20fluctuating%20needs.md) | Report on responding to fluctuating needs. |
-| [278\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000278%20-%20Application%20of%20Internet-based%20technologies.md) | Application of Internet-based technologies. |
-| [279\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000279%20-%20Children%27s%20affairs.md) | Children's affairs. |
+| [271\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000271%20-%20Establishment%20of%20Bureau%20of%20Citizenship%20and%20Immigration%20Services.md) | Establishment of Bureau of Citizenship and Immigration Services. |
+| [272\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000272%20-%20Citizenship%20and%20Immigration%20Services%20Ombudsman.md) | Citizenship and Immigration Services Ombudsman. |
+| [273\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000273%20-%20Professional%20responsibility%20and%20quality%20review.md) | Professional responsibility and quality review. |
+| [274\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000274%20-%20Employee%20discipline.md) | Employee discipline. |
+| [275\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000275%20-%20Transition.md) | Transition. |
+| [276\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000276%20-%20Report%20on%20improving%20immigration%20services.md) | Report on improving immigration services. |
+| [277\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000277%20-%20Report%20on%20responding%20to%20fluctuating%20needs.md) | Report on responding to fluctuating needs. |
+| [278\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000278%20-%20Application%20of%20Internet-based%20technologies.md) | Application of Internet-based technologies. |
+| [279\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20E%20-%20Citizenship%20and%20Immigration%20Services/%C2%A7%2000279%20-%20Children%27s%20affairs.md) | Children's affairs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -197,14 +202,25 @@
 
 |  |  |
 | :--- | ---: |
-| [291\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000291%20-%20Abolishment%20of%20INS.md) | Abolishment of INS. |
-| [292\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000292%20-%20Voluntary%20separation%20incentive%20payments.md) | Voluntary separation incentive payments. |
-| [293\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000293%20-%20Authority%20to%20conduct%20a%20demonstration%20project%20relating%20to%20disciplinary%20action.md) | Authority to conduct a demonstration project relating to disciplinary action. |
-| [294\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000294%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
-| [295\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000295%20-%20Director%20of%20Shared%20Services.md) | Director of Shared Services. |
-| [296\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000296%20-%20Separation%20of%20funding.md) | Separation of funding. |
-| [297\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000297%20-%20Reports%20and%20implementation%20plans.md) | Reports and implementation plans. |
-| [298\.](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000298%20-%20Immigration%20functions.md) | Immigration functions. |
+| [291\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000291%20-%20Abolishment%20of%20INS.md) | Abolishment of INS. |
+| [292\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000292%20-%20Voluntary%20separation%20incentive%20payments.md) | Voluntary separation incentive payments. |
+| [293\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000293%20-%20Authority%20to%20conduct%20a%20demonstration%20project%20relating%20to%20disciplinary%20action.md) | Authority to conduct a demonstration project relating to disciplinary action. |
+| [294\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000294%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
+| [295\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000295%20-%20Director%20of%20Shared%20Services.md) | Director of Shared Services. |
+| [296\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000296%20-%20Separation%20of%20funding.md) | Separation of funding. |
+| [297\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000297%20-%20Reports%20and%20implementation%20plans.md) | Reports and implementation plans. |
+| [298\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20F%20-%20General%20Immigration%20Provisions/%C2%A7%2000298%20-%20Immigration%20functions.md) | Immigration functions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—U.S. Customs and Border Protection Public Private Partnerships
+
+|  |  |
+| :--- | ---: |
+| [301\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20G%20-%20U.S.%20Customs%20and%20Border%20Protection%20Public%20Private%20Partnerships/%C2%A7%2000301%20-%20Fee%20agreements%20for%20certain%20services%20at%20ports%20of%20entry.md) | Fee agreements for certain services at ports of entry. |
+| [301a.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20G%20-%20U.S.%20Customs%20and%20Border%20Protection%20Public%20Private%20Partnerships/%C2%A7%2000301a%20-%20Port%20of%20entry%20donation%20authority.md) | Port of entry donation authority. |
+| [301b.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20G%20-%20U.S.%20Customs%20and%20Border%20Protection%20Public%20Private%20Partnerships/%C2%A7%2000301b%20-%20Current%20and%20proposed%20agreements.md) | Current and proposed agreements. |
+| [301c.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20G%20-%20U.S.%20Customs%20and%20Border%20Protection%20Public%20Private%20Partnerships/%C2%A7%2000301c%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -238,6 +254,8 @@
 | 321<i>l.</i> | Guidance and recommendations. |
 | [321m.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321m%20-%20Voluntary%20private%20sector%20preparedness%20accreditation%20and%20certification%20program.md) | Voluntary private sector preparedness accreditation and certification program. |
 | [321n.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321n%20-%20Acceptance%20of%20gifts.md) | Acceptance of gifts. |
+| 321<i>o.</i> | Integrated public alert and warning system modernization. |
+| [321p.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321p%20-%20National%20planning%20and%20education.md) | National planning and education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -260,6 +278,8 @@
 | [345\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000345%20-%20Establishment%20of%20Officer%20for%20Civil%20Rights%20and%20Civil%20Liberties.md) | Establishment of Officer for Civil Rights and Civil Liberties. |
 | [346\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000346%20-%20Consolidation%20and%20co-location%20of%20offices.md) | Consolidation and co-location of offices. |
 | [347\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000347%20-%20Quadrennial%20homeland%20security%20review.md) | Quadrennial homeland security review. |
+| [348\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000348%20-%20Joint%20task%20forces.md) | Joint task forces. |
+| [349\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000349%20-%20Office%20of%20Strategy%2C%20Policy%2C%20and%20Plans.md) | Office of Strategy, Policy, and Plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -362,7 +382,7 @@
 | [461\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000461%20-%20Review%20of%20pay%20and%20benefit%20plans.md) | Review of pay and benefit plans. |
 | [462\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000462%20-%20Office%20of%20National%20Capital%20Region%20Coordination.md) | Office of National Capital Region Coordination. |
 | [463\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000463%20-%20Requirement%20to%20comply%20with%20laws%20protecting%20equal%20employment%20opportunity%20and%20providing%20whistleblower%20protections.md) | Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections. |
-| [464\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464%20-%20Federal%20Law%20Enforcement%20Training%20Center.md) | Federal Law Enforcement Training Center. |
+| [464\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464%20-%20Federal%20Law%20Enforcement%20Training%20Centers.md) | Federal Law Enforcement Training Centers. |
 | [464a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93245%2C%20%C2%A72%28b%29%282%29%2C%20Sept.%2030%2C%202010%2C%20124%20Stat.%202621.md) | Repealed. |
 | [464b.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464b%20-%20Staffing%20accreditation%20function.md) | Staffing accreditation function. |
 | [464c.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464c%20-%20Student%20housing.md) | Student housing. |
@@ -604,10 +624,11 @@
 - [&sect; 00101 - Definitions](%C2%A7%2000101%20-%20Definitions.md)
 - [&sect; 00102 - Construction; severability](%C2%A7%2000102%20-%20Construction%3B%20severability.md)
 - [&sect; 00103 - Use of appropriated funds](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md)
+- [&sect; 00104 - National biodefense strategy](%C2%A7%2000104%20-%20National%20biodefense%20strategy.md)
 - [Subchapter 001 (I) - Department of Homeland Security](Subchapter%20001%20%28I%29%20-%20Department%20of%20Homeland%20Security/README.md)
 - [Subchapter 002 (II) - Information Analysis and Infrastructure Protection](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/README.md)
 - [Subchapter 003 (III) - Science and Technology in Support of Homeland Security](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/README.md)
-- [Subchapter 004 (IV) - Directorate of Border and Transportation Security](Subchapter%20004%20%28IV%29%20-%20Directorate%20of%20Border%20and%20Transportation%20Security/README.md)
+- [Subchapter 004 (IV) - Border, Maritime, and Transportation Security](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/README.md)
 - [Subchapter 005 (V) - National Emergency Management](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/README.md)
 - [Subchapter 006 (VI) - Treatment of Charitable Trusts for Members of the Armed Forces of the United States and Other Governmental Organizations](Subchapter%20006%20%28VI%29%20-%20Treatment%20of%20Charitable%20Trusts%20for%20Members%20of%20the%20Armed%20Forces%20of%20the%20United%20States%20and%20Other%20Governmental%20Organizations/README.md)
 - [Subchapter 007 (VII) - Management](Subchapter%20007%20%28VII%29%20-%20Management/README.md)

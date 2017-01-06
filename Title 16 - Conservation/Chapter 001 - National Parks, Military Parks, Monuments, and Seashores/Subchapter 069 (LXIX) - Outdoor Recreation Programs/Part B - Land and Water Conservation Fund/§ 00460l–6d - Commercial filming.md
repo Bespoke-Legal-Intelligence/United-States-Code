@@ -58,7 +58,7 @@ The Secretary shall establish a process to ensure that the Secretary responds in
 
 #### Repeals
 
-<i>Section repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to</i><i>the National Park System. See section 100905 of Title 54, National Park Service and Related Programs.</i>
+<i>Section repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See section 100905 of Title 54, National Park Service and Related Programs.</i>
 
 #### Codification
 

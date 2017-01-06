@@ -6,11 +6,11 @@ Appropriations now or hereafter provided for the National Weather Service shall 
 
 #### Transfer of Functions
 
-Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerceby Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
+Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
 #### Cooperative Weather Observer Program
 
-Pub. L. 102–567, title I, §101(c), Oct. 29, 1992, 106 Stat. 4270, provided that: "The Secretary of Commerce may use funds otherwise available for conducting weather observations to strengthen the Cooperative Weather Observer Program and encourage public participation in the program. The Secretary may—
+Pub. L. 102–567, title I, §101(c), Oct. 29, 1992, 106 Stat. 4270, provided that: "The Secretary of Commerce mayuse funds otherwise available for conducting weather observations to strengthen the Cooperative Weather Observer Program and encourage public participation in the program. The Secretary may—
 
 &emsp;"(1) provide distinctive insignia or paraphernalia to Cooperative Weather Observers; and
 

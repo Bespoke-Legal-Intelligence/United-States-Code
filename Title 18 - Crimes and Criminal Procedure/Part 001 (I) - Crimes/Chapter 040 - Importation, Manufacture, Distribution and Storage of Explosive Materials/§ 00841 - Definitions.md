@@ -52,13 +52,15 @@ As used in this chapter—
 
 &emsp;(t)
 
-Indian Tribe <sup>1</sup>.—The term "Indian tribe" has the meaning given the term in section 102of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>
+Indian Tribe <sup>1</sup>.—The term "Indian tribe" has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>, <sup>3</sup>
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, §236(b), July 29, 2010, 124 Stat. 2286.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec. (t), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
 
 #### Amendments
 
@@ -94,7 +96,7 @@ Pub. L. 91–452, title XI, §1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provide
 
 "(a) Except as provided in subsection (b), the provisions of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect one hundred and twenty days after the date of enactment of this Act \[Oct. 15, 1970\].
 
-"(b) The following sections of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect on the date of the enactment of this Act \[Oct. 15, 1970\]: sections 841, 844(d), (e), (f), (g), (h), (i), and (j), 845, 846, 847, 848 and 849 \[no section 849 was enacted\]."
+"(b) The following sections of chapter 40 of title 18, United States Code, as enacted by section 1102 of thistitle shall take effect on the date of the enactment of this Act \[Oct. 15, 1970\]: sections 841, 844(d), (e), (f), (g), (h), (i), and (j), 845, 846, 847, 848 and 849 \[no section 849 was enacted\]."
 
 #### Short Title of 2002 Amendment
 
@@ -136,7 +138,7 @@ Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended b
 
 #### Congressional Declaration of Purpose
 
-Pub. L. 91–452, title XI, §1101, Oct. 15, 1970, 84 Stat. 952, provided that: "The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place anyundue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title."
+Pub. L. 91–452, title XI, §1101, Oct. 15, 1970, 84 Stat. 952, provided that: "The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title."
 
 #### Modification of Other Provisions
 
@@ -163,4 +165,6 @@ Pub. L. 91–452, title XI, §1107, Oct. 15, 1970, 84 Stat. 960, provided that: 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

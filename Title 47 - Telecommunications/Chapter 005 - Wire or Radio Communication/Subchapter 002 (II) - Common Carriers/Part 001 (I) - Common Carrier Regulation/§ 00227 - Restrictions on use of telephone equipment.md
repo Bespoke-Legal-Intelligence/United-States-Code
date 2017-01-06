@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) to dial such numbers.
 
-&emsp;(2) The term "established business relationship", for purposes only of subsection (b)(1)(C)(i) of this section, shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
+&emsp;(2) The term "established business relationship", for purposes only of subsection (b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
 
 &emsp;&emsp;(A) such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
 
@@ -60,7 +60,7 @@ As used in this section—
 
 &emsp;The Commission shall prescribe regulations to implement the requirements of this subsection. In implementing the requirements of this subsection, the Commission—
 
-&emsp;&emsp;(A) shall consider prescribing regulations to allow businesses to avoid receiving calls made using an artificial or prerecorded voiceto which they have not given their prior express consent;
+&emsp;&emsp;(A) shall consider prescribing regulations to allow businesses to avoid receiving calls made using an artificial or prerecorded voice to which they have not given their prior express consent;
 
 &emsp;&emsp;(B) may, by rule or order, exempt from the requirements of paragraph (1)(B) of this subsection, subject to such conditions as the Commission may prescribe—
 
@@ -90,7 +90,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(v) the telephone and facsimile machine numbers and the cost-free mechanism set forth pursuant to clause (iv) permit an individual or business to make such a request at any time on any day of the week; and
 
-&emsp;&emsp;&emsp;(vi) the notice complies with the requirements of subsection (d) of this section;
+&emsp;&emsp;&emsp;(vi) the notice complies with the requirements of subsection (d);
 
 &emsp;&emsp;(E) shall provide, by rule, that a request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if—
 
@@ -124,7 +124,7 @@ As used in this section—
 
 &emsp;A person or entity may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State—
 
-&emsp;&emsp;(A) an action based on a violation of this subsection or the regulations prescribed under this subsection to enjoin such violation,
+&emsp;&emsp;(A) an action based on a violation of this subsection or the regulations prescribedunder this subsection to enjoin such violation,
 
 &emsp;&emsp;(B) an action to recover for actual monetary loss from such a violation, or to receive $500 in damages for each such violation, whichever is greater, or
 
@@ -210,7 +210,7 @@ As used in this section—
 
 #### (6) Relation to subsection (b)
 
-&emsp;The provisions of this subsection shall not be construed to permit a communication prohibited by subsection (b) of this section.
+&emsp;The provisions of this subsection shall not be construed to permit a communication prohibited by subsection (b).
 
 #### (d) Technical and procedural standards
 
@@ -320,7 +320,7 @@ As used in this section—
 
 #### (i) Venue
 
-&emsp;&emsp;&emsp;An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
+&emsp;&emsp;&emsp;An action brought under subparagraph (A) shall be brought in a district court ofthe United States that meets applicable requirements relating to venue under section 1391 of title 28.
 
 #### (ii) Service of process
 
@@ -358,7 +358,7 @@ As used in this section—
 
 #### (1) State law not preempted
 
-&emsp;Except for the standards prescribed under subsection (d) of this section and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
+&emsp;Except for the standards prescribed under subsection (d) and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
 
 &emsp;&emsp;(A) the use of telephone facsimile machines or other electronic devices to send unsolicited advertisements;
 
@@ -370,7 +370,7 @@ As used in this section—
 
 #### (2) State use of databases
 
-&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+&emsp;If, pursuant to subsection (c)(3), the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
 #### (g) Actions by States
 
@@ -380,7 +380,7 @@ As used in this section—
 
 #### (2) Exclusive jurisdiction of Federal courts
 
-&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take suchaction as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
+&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take such action as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
 
 #### (3) Rights of Commission
 
@@ -452,7 +452,7 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch.652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-(1) The Secretary of Energy may carry out a program, to be known as the Silk Road Initiative, to promote non-weapons-related employment opportunities for scientists, engineers, andtechnicians formerly engaged in activities to develop and produce weapons of mass destruction in Silk Road nations. The program should—
+(1) The Secretary of Energy may carry out a program, to be known as the Silk Road Initiative, to promote non-weapons-related employment opportunities for scientists, engineers, and technicians formerly engaged in activities to develop and produce weapons of mass destruction in Silk Road nations. The program should—
 
 &emsp;(A) incorporate best practices under the Initiatives for Proliferation Prevention program; and
 

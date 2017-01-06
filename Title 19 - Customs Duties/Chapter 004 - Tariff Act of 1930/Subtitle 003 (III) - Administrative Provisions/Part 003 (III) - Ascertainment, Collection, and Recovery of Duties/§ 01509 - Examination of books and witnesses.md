@@ -4,7 +4,7 @@
 
 In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with the laws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
 
-&emsp;(1) examine, or cause to be examined, upon reasonable notice, any record (which for purposes of this section, includes, but is not limited to, any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry, except that—
+&emsp;(1) examine, or cause to be examined, upon reasonable notice, any record (which for purposes of this section, includes, but is not limited to, any statement, declaration, document,or electronically generated or machine readable data) described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry, except that—
 
 &emsp;&emsp;(A) if such record is required by law or regulation for the entry of the merchandise (whether or not the Customs Service required its presentation at the time of entry) it shall be provided to the Customs Service within a reasonable time after demand for its production is made, taking into consideration the number, type, and age of the item demanded; and
 
@@ -104,7 +104,7 @@ A summons issued pursuant to this section may be served by any person designated
 
 &emsp;(B) if the requirements of such paragraph (5)(B) have been met, except in accordance with an order issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance.
 
-(7) The provisions of paragraphs (2) and (5) of this subsection shall not apply with respect to any summons if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice maylead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
+(7) The provisions of paragraphs (2) and (5) of this subsection shall not apply with respect to any summons if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
 
 #### (e) List of records and information
 
@@ -298,5 +298,5 @@ Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

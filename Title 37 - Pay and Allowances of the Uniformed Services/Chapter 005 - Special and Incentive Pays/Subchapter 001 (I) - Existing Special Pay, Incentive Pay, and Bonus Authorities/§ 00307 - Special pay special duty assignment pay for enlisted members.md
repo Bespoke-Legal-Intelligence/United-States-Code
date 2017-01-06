@@ -6,7 +6,7 @@
 
 (c) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(d)(1) Under regulations prescribed by the Secretary concerned and to the extent provided for by appropriations, when an enlisted member of the National Guard or a reserve component of a uniformed service who is entitled to compensation under section 206 of this title performs duty for which a member described in subsection (a) is entitled to special pay under such subsection, the member of the National Guard or reserve component is entitled to an increase in compensation equal to 1/30 of the monthly special duty assignment pay prescribed by the Secretary concerned for the performance of that same duty by members described in subsection (a).
+(d)(1) Under regulations prescribed by the Secretary concerned and to the extent provided for by appropriations, when an enlisted member of the National Guard or a reserve component of a uniformed service who is entitled to compensation under section 206 of this title performs dutyfor which a member described in subsection (a) is entitled to special pay under such subsection, the member of the National Guard or reserve component is entitled to an increase in compensation equal to 1/30 of the monthly special duty assignment pay prescribed by the Secretary concerned for the performance of that same duty by members described in subsection (a).
 
 (2) A member of the National Guard or a reserve component entitled to an increase in compensation under paragraph (1) is entitled to the increase—
 
@@ -56,7 +56,7 @@ In subsection (b), the words "computed under section 205 of this title" are subs
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §631\], substituted "$600" for "$275" and struck out at end "In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of suchduty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375."
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §631\], substituted "$600" for "$275" and struck out at end "In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375."
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §632(a)\], added subsec. (d).
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §632(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 2000."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §632(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157, provided that: "Theamendment made by subsection (a) \[amending this section\] shall take effect October 1, 2000."
 
 #### Effective Date of 1996 Amendment
 

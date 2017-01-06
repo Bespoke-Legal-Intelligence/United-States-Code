@@ -2,7 +2,7 @@
 
 (a)
 
-Availability for Adoption.—The Secretary of the military department concernedshall make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
+Availability for Adoption.—The Secretary of the military department concerned shall make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
 
 &emsp;(1) At the end of the animal's useful life.
 
@@ -62,13 +62,15 @@ Preference in Adoption of Retired Military Working Dogs for Former Handlers.—(
 
 Military Animal Defined.—In this section, the term "military animal" means the following:
 
-&emsp;(1) A military working dog.
+&emsp;(1) A military working dog, which may include a contract working dog (as such term is defined in section 2410r) that has been transferred to the 341st Training Squadron.
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h)(1). Pub. L. 114–328 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A military working dog."
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92, §342(a), substituted "shall make" for "may make" in introductory provisions.
 
@@ -90,7 +92,7 @@ Subsecs. (g), (h). Pub. L. 114–92, §342(e), added subsec. (g) and redesignate
 
 Subsec. (c). Pub. L. 112–81, §351(2), inserted at end "If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.".
 
-Subsecs. (f), (g). Pub. L. 112–81, §1061(20), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "The Secretary of Defense shall submit to Congress an annual report specifying the number of military animals adopted under this section during the preceding year, the number of these animals currently awaiting adoption, and the number of these animals euthanized during the preceding year. With respect to each euthanized military animal, the report shall contain an explanation of the reasons why the animal was euthanized rather than retained for adoption under this section."
+Subsecs. (f), (g). Pub. L. 112–81, §1061(20), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "The Secretary of Defense shall submit to Congress an annual report specifying the number of military animals adopted under this section during the preceding year,the number of these animals currently awaiting adoption, and the number of these animals euthanized during the preceding year. With respect to each euthanized military animal, the report shall contain an explanation of the reasons why the animal was euthanized rather than retained for adoption under this section."
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–181 substituted "
 

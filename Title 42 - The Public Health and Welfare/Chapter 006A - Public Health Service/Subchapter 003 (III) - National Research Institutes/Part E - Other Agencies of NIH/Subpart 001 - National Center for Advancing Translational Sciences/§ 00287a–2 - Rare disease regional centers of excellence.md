@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the Office of Rare Diseases (in this section referred to as the "Director"), in collaboration with the directors of the other relevant institutes and centers of the National Institutes of Health, may enter into cooperative agreements with and make grants to public or private nonprofit entities to payall or part of the cost of planning, establishing, or strengthening, and providing basic operating support for regional centers of excellence for clinical research into, training in, and demonstration of diagnostic, prevention, control, and treatment methods for rare diseases.
+&emsp;The Director of the Office of Rare Diseases (in this section referred to as the "Director"), in collaboration with the directors of the other relevant institutes and centers of the National Institutes of Health, may enter into cooperative agreements with and make grants to public or private nonprofit entities to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support for regional centers of excellence for clinical research into, training in, and demonstration of diagnostic, prevention, control, and treatment methods for rare diseases.
 
 #### (2) Policies
 
@@ -16,7 +16,7 @@ The Director shall coordinate the activities under this section with similar act
 
 #### (c) Uses for Federal payments under cooperative agreements or grants
 
-Federal payments made under a cooperative agreement or grant under subsection (a) of this section may be used for—
+Federal payments made under a cooperative agreement or grant under subsection (a) may be used for—
 
 &emsp;(1) staffing, administrative, and other basic operating costs, including such patient care costs as are required for research;
 
@@ -26,9 +26,9 @@ Federal payments made under a cooperative agreement or grant under subsection (a
 
 #### (d) Period of support; additional periods
 
-Support of a center under subsection (a) of this section may be for a period of not to exceed 5 years. Such period may be extended by the Director for additional periods of not more than 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support of a center under subsection (a) may be for a period of not to exceed 5 years. Such period may be extended by the Director for additional periods of not more than 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-(July 1, 1944, ch. 373, title IV, §481A, formerly §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990; amended Pub. L. 109–482, title I, §103(b)(6), Jan. 15, 2007, 120 Stat. 3687; renumbered §481A, Pub. L. 112–74, div. F, title II, §221(c)(3), Dec. 23, 2011, 125 Stat. 1089.)
+(July 1, 1944, ch. 373, title IV, §481A, formerly §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990; amended Pub. L. 109–482, title I,§103(b)(6), Jan. 15, 2007, 120 Stat. 3687; renumbered §481A, Pub. L. 112–74, div. F, title II, §221(c)(3), Dec. 23, 2011, 125 Stat. 1089.)
 
 #### Codification
 

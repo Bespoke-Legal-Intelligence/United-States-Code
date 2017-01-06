@@ -62,5 +62,5 @@ Pub. L. 111–139, title II, §21, Feb. 12, 2010, 124 Stat. 29, provided that: "
 
 #### Report on Tobacco Settlement Agreement
 
-Pub. L. 107–171, title X, §10908, May 13, 2002, 116 Stat. 538, provided that: "Not later than December 31, 2002,and annually thereafter through 2006, the Comptroller General shall submit to Congress a report that describes all programs and activities that States have carried out using funds received under all phases of the Master Settlement Agreement of 1997."
+Pub. L. 107–171, title X, §10908, May 13, 2002, 116 Stat. 538, provided that: "Not later than December 31, 2002, and annually thereafter through 2006, the Comptroller General shall submit to Congress a report that describes all programs and activities that States have carried out using funds received under all phases of the Master Settlement Agreement of 1997."
 

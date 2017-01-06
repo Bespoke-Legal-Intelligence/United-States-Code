@@ -8,6 +8,10 @@ This chapter may be cited as the "Communications Act of 1934."
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–182, title II, §201, June 22, 2016, 130 Stat. 512, provided that: "This title \[amending section 254 of this title and enacting provisions set out as notes under section 254 of this title\] may be cited as the 'Rural Healthcare Connectivity Act of 2016'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–200, §1(a), Dec. 4, 2014, 128 Stat. 2059, provided that: "This Act \[amending sections 325, 338, 534, and 543 of this title and sections 111, 119, and 122 of Title 17, Copyrights, enacting provisions set out as notes under sections 153, 325, 338, and 534 of this title and section 111 of Title 17, and repealing provisions set out as a note under section 119 of Title 17\] may be cited as the 'STELA Reauthorization Act of 2014'."
@@ -110,7 +114,7 @@ Pub. L. 100–394, §1, Aug. 16, 1988, 102 Stat. 976, provided: "That this Act \
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: "This Act \[enacting subchapter V–A of thischapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under sections 521, 543, and 605 of this title\] may be cited as the 'Cable Communications Policy Act of 1984'."
+Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: "This Act \[enacting subchapter V–A of this chapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under sections 521, 543, and 605 of this title\] may be cited as the 'Cable Communications Policy Act of 1984'."
 
 #### Short Title of 1983 Amendments
 
@@ -130,7 +134,7 @@ Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: 
 
 #### Short Title of 1978 Amendments
 
-Pub. L. 95–567, §1, Nov. 2, 1978, 92 Stat. 2405, provided: "That this Act \[enacting section 395 of this title, amending sections 390 to 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under sections 390, 392, and 396 of this title and section 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Public Telecommunications Financing Act of 1978'."
+Pub. L. 95–567, §1, Nov. 2, 1978, 92 Stat. 2405, provided: "That this Act \[enacting section 395 of this title,amending sections 390 to 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under sections 390, 392, and 396 of this title and section 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Public Telecommunications Financing Act of 1978'."
 
 Pub. L. 95–234, §1, Feb. 21, 1978, 92 Stat. 33, provided: "That this Act \[enacting section 224 of this title, amending sections 152, 503, and 504 of this title, repealing section 510 of this title, and enacting provisions set out as a note under section 152 of this title\] may be cited as the 'Communications Act Amendments of 1978'."
 

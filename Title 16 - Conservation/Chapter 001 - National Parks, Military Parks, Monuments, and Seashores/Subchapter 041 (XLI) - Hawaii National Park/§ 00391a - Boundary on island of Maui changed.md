@@ -6,7 +6,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 1\. Three hundred degress fifty-seven minutes thirty seconds eleven thousand seven hundred and sixty-nine and three-tenths feet along the remaining portion of the land of Kalialinui to a concrete monument marked Number 1 on spur and on the west edge of Koolau Gap.
 
-2\. Two hundred and ninety-seven degrees forty-seven minutes thirty seconds fourteen thousand six hundred and fifty-two and six-tenths feet along same and across Koolau Gap toa concrete monument marked Number 3, the true azimuth and distance from said monument to Government survey triangulation station Hanakauhi being forty-five degrees fourteen minutes nine hundred and eighty-eight feet.
+2\. Two hundred and ninety-seven degrees forty-seven minutes thirty seconds fourteen thousand six hundred and fifty-two and six-tenths feet along same and across Koolau Gap to a concrete monument marked Number 3, the true azimuth and distance from said monument to Government survey triangulation station Hanakauhi being forty-five degrees fourteen minutes nine hundred and eighty-eight feet.
 
 3\. Two hundred and sixty-nine degrees fifty-seven minutes thirty seconds nine thousand and one and three-tenths feet along same to a concrete monument marked Number 7 on the southwest boundary of the land of Haiku.
 

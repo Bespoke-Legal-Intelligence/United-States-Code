@@ -38,7 +38,7 @@ Release of Vessels From Obligations.—If funds are not appropriated for payment
 
 &emsp;(2) the owner or operator of the vessel may transfer and register such vessel under a foreign registry that is acceptable to the Secretary of Transportation and the Secretary of Defense, notwithstanding section 56101 of this title; and
 
-&emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vesselunder such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
+&emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vessel under such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(d), Jan. 2, 2013, 126 Stat. 2224.)
 
@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 112–239, §3508(d)(2), struck out "an operating agreement
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "2025" for "2015".
 
-<b>2006</b>—Subsec. (c)(3)(B)(ii). Pub. L. 109–304, §13(a)(3)(A), substituted "section 50501 of this title" for "section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)" in subcls. (I) and (II).
+<b>2006</b>—Subsec. (c)(3)(B)(ii). Pub. L. 109–304, §13(a)(3)(A), substituted "section 50501 of this title" for "section 2 ofthe Shipping Act, 1916 (46 U.S.C. App. 802)" in subcls. (I) and (II).
 
 Subsec. (e)(2). Pub. L. 109–304, §13(a)(3)(B), substituted "section 56101 of this title" for "section 9 of the Shipping Act, 1916 (46 U.S.C. App. 808)".
 

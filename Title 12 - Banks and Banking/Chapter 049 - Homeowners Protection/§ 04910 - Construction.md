@@ -10,3 +10,7 @@ Nothing in this chapter shall be construed to preclude cancellation or terminati
 
 (Pub. L. 105–216, §11, July 29, 1998, 112 Stat. 908.)
 
+#### Effective Date
+
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
+

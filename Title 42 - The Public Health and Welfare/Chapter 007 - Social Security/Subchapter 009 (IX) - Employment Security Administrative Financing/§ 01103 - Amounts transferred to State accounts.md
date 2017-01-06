@@ -2,7 +2,7 @@
 
 #### (a) Determination and certification by Secretary of Labor
 
-(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b) of this section, shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
+(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b), shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
 
 (2) Each State's share of the funds to be transferred under this subsection as of any October 1—
 
@@ -24,7 +24,7 @@
 
 > then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
 
-(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
+(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
 
 &emsp;(A) be transferred to or retained in (as the case may be) the Federal unemployment account, and
 
@@ -36,7 +36,7 @@
 
 #### (c) Use of funds
 
-(1) Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
+(1) Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
 
 (2) A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for the administration of its unemployment compensation law and public employment offices if and only if—
 
@@ -104,7 +104,7 @@
 
 &emsp;(II) additional compensation, upon the exhaustion of any temporary extended unemployment compensation (if such State has entered into an agreement under the Temporary Extended Unemployment Compensation Act of 2002), for individuals eligible for regular compensation under the unemployment compensation law of such State.
 
-(ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount ofany extended compensation for which an individual might be eligible.
+(ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount of any extended compensation for which an individual might be eligible.
 
 (C)(i) At the option of the State, cash benefits under this paragraph may include amounts which shall be payable to 1 or more categories of individuals not otherwise eligible for regular compensation under the unemployment compensation law of such State, including those described in clause (iii).
 
@@ -118,7 +118,7 @@
 
 (D) Amounts transferred to a State account under this subsection may be used in the payment of cash benefits to individuals only for weeks of unemployment beginning after March 9, 2002.
 
-(4) Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) of this section (excluding subparagraph (B) thereof, and deeming the reference to "subsections (a) and (b)" in subparagraph (D) thereof to include this subsection).
+(4) Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to "subsections (a) and (b)" in subparagraph (D) thereof to include this subsection).
 
 (5) Transfers under this subsection shall be made within 10 days after March 9, 2002.
 
@@ -158,7 +158,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
 
-&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believethat such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
+&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
 
 &emsp;&emsp;&emsp;(II) Sexual assault, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor).
 
@@ -200,7 +200,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to "subsections (a) and (b)" in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
 
-(6) Out of any money in the Federal unemployment account not otherwise appropriated, the Secretary of the Treasury shall reserve $7,000,000,000 for incentive payments under this subsection. Any amount so reserved shall not be taken into account for purposes of any determination under section 1102, 1110, or 1323 of this title of the amount in the Federal unemployment account as of any given time. Any amount so reserved for which the Secretary of the Treasury has not received a certification under paragraph (4)(B) by the deadline described in paragraph (4)(C)(iii) shall, upon the close of fiscal year 2011, become unrestricted as to use as part of the Federal unemployment account.
+(6) Out of any money in the Federal unemployment account not otherwise appropriated, the Secretary of the Treasury shall reserve $7,000,000,000 for incentive payments under this subsection. Any amount so reserved shall not be taken into account for purposes of any determination under section 1102, 1110, or 1323 of this title of the amount in the Federal unemployment account as of any given time. Any amount so reserved for which the Secretary of the Treasury has not received a certification under paragraph (4)(B) by the deadline described in paragraph (4)(C)(iii) shall, upon the close of fiscalyear 2011, become unrestricted as to use as part of the Federal unemployment account.
 
 (7) For purposes of this subsection, the terms "benefit year", "base period", and "week" have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
@@ -250,7 +250,7 @@ Subsec. (g). Pub. L. 111–5 added subsec. (g).
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–147, §209(a)(1)(A), struck out par. (3) which related to disposition of excess amounts remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001.
 
-Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: "Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and maybe so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph."
+Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: "Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph."
 
 Subsec. (d). Pub. L. 107–147, §209(b), added subsec. (d).
 

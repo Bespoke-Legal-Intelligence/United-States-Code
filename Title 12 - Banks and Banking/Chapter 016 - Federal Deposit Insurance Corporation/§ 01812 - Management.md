@@ -80,7 +80,7 @@
 
 #### (3) Certification
 
-&emsp;Upon taking office, each member of the Board of Directors shall certify under oath that such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
+&emsp;Upon taking office, each member of the Board of Directors shall certify under oaththat such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
 
 #### (f) Status of employees
 
@@ -138,7 +138,7 @@ Pub. L. 111–203, title III, §336(b), July 21, 2010, 124 Stat. 1540, provided 
 
 #### Transition Provision
 
-Pub. L. 101–73, title II, §203(b), Aug. 9, 1989, 103 Stat. 189, which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term ofany member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by Pub. L. 111–203, title III, §367(1), July 21, 2010, 124 Stat. 1556.
+Pub. L. 101–73, title II, §203(b), Aug. 9, 1989, 103 Stat. 189, which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term of any member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by Pub. L. 111–203, title III, §367(1), July 21, 2010, 124 Stat. 1556.
 
 #### Compensation of Board of Directors
 

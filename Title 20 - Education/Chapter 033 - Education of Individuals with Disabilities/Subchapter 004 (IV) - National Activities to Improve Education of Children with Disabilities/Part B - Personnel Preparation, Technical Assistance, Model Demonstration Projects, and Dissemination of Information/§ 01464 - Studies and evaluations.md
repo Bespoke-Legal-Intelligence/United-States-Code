@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) a free appropriate public education to children with disabilities; and
 
-&emsp;&emsp;(B) early intervention services to infants and toddlers with disabilities, and infants and toddlers who would be at risk of having substantial developmental delays if early intervention services were not provided to the infants and toddlers.
+&emsp;&emsp;(B) early intervention services to infants and toddlers with disabilities, and infantsand toddlers who would be at risk of having substantial developmental delays if early intervention services were not provided to the infants and toddlers.
 
 #### (b) Assessment of national activities
 

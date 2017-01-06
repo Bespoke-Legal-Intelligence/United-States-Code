@@ -1,0 +1,6 @@
+### §973. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–629, §3, Sept. 5, 1962, 76 Stat. 429, which related to distribution of assets, was omitted from the Code as being of special and not general application.
+

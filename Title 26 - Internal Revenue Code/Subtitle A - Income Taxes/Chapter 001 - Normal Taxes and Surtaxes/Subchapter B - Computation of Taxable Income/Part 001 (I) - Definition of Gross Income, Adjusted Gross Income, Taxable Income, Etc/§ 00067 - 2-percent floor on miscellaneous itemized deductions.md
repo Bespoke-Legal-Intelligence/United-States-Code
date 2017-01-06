@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of an individual, the miscellaneous itemized deductions for any taxable year shall be allowed only to the extent that the aggregate of such deductions exceeds 2 percent of adjusted gross income.
+In the case of an individual, the miscellaneous itemized deductions for any taxable year shallbe allowed only to the extent that the aggregate of such deductions exceeds 2 percent of adjusted gross income.
 
 #### (b) Miscellaneous itemized deductions
 
@@ -92,7 +92,7 @@ For purposes of this section, the adjusted gross income of an estate or trust sh
 
 This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
 
-(Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646.)
+(Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Pub. L. 100–647, title IV, §4011(b), Nov. 10, 1988, 102 Stat. 3656, provided 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set outas an Effective Date of 1986 Amendment note under section 1 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 1 of this title.
 
 #### 1-Year Delay in Treatment of Publicly Offered Regulated Investment Companies Under 2-Percent Floor
 

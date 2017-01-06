@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Vet
 
 #### Payments to Health-Care Professional Employees for Tuition Loans
 
-Pub. L. 102–585, title V, §523(b), Nov. 4, 1992, 106 Stat. 4959, provided that Secretary of Veterans Affairs couldnot provide payments to health-care professional employees of Department of Veterans Affairs for payment of tuition loans, prior to repeal by Pub. L. 105–368, title VIII, §804, Nov. 11, 1998, 112 Stat. 3358.
+Pub. L. 102–585, title V, §523(b), Nov. 4, 1992, 106 Stat. 4959, provided that Secretary of Veterans Affairs could not provide payments to health-care professional employees of Department of Veterans Affairs for payment of tuition loans, prior to repeal by Pub. L. 105–368, title VIII, §804, Nov. 11, 1998, 112 Stat. 3358.
 
 #### Tuition Loan Payment Program
 

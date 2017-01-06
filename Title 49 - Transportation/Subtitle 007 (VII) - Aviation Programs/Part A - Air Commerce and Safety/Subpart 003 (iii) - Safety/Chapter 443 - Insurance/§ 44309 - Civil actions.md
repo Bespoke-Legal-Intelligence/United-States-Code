@@ -38,7 +38,7 @@ Time Requirements.—(1) Except as provided under paragraph (2), an insurance cl
 
 &emsp;(ii) the date that is six years after the date on which the loss event occurred.
 
-(B) Any civil action arising out of the denial of such claim shall be filed by not later than six months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the Secretary.
+(B) Any civil action arising out of the denial of such claim shall be filed by not later than sixmonths after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the Secretary.
 
 (3) A claim made under this chapter shall be deemed to be administratively denied if the Secretary fails to make a final disposition of the claim before the date that is 6 months after the date on which the claim is presented to the Secretary, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
 

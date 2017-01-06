@@ -2,9 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[8531 to 8542. Repealed.\] |  |
-| [8543\.](%C2%A7%2008543%20-%20Aides%20detail%3B%20number%20authorized.md) | Aides: detail; number authorized. |
-| \[8544 to 8546. Repealed.\] |  |
+| \[8531 to 8546. Repealed.\] |  |
 | [8547\.](%C2%A7%2008547%20-%20Duties%20chaplains%3B%20assistance%20required%20of%20commanding%20officers.md) | Duties: chaplains; assistance required of commanding officers. |
 | [8548\.](%C2%A7%2008548%20-%20Duties%20warrant%20officers%3B%20limitations.md) | Duties: warrant officers; limitations. |
 | \[8549. | Repealed.\] |
@@ -12,6 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(pp)(2), Dec. 23, 2016, 130 Stat. 2106, struck out item 8543 "Aides: detail; number authorized".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1674(b)(5), Oct. 5, 1994, 108 Stat. 3016, struck out items 8541 "National Guard Bureau: assignment of officers of regular or reserve components" and 8542 "Chief and assistant chief of staff of wings of Air National Guard in Federal service: detail".
 
@@ -34,7 +34,7 @@
 - [&sect; 08537 - Repealed. Pub. L. 90&#8211;235, &sect;4(b)(1), Jan. 2, 1968, 81 Stat. 760](%C2%A7%2008537%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A74%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20760.md)
 - [&sect; 08540 - Repealed. Pub. L. 88&#8211;647, title III, &sect;301(23), Oct. 13, 1964, 78 Stat. 1073](%C2%A7%2008540%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93647%2C%20title%20III%2C%20%C2%A7301%2823%29%2C%20Oct.%2013%2C%201964%2C%2078%20Stat.%201073.md)
 - [&sect; 08541, 8542 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;&sect;1661(c)(2), 1662(g)(2), Oct. 5, 1994, 108 Stat. 2982, 2996](%C2%A7%2008541%2C%208542%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A7%C2%A71661%28c%29%282%29%2C%201662%28g%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202982%2C%202996.md)
-- [&sect; 08543 - Aides detail; number authorized](%C2%A7%2008543%20-%20Aides%20detail%3B%20number%20authorized.md)
+- [&sect; 08543 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(pp)(1), Dec. 23, 2016, 130 Stat. 2106](%C2%A7%2008543%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28pp%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202106.md)
 - [&sect; 08544, 8545 - Repealed. Pub. L. 90&#8211;235, &sect;4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760](%C2%A7%2008544%2C%208545%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A74%28a%29%286%29%2C%20%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20759%2C%20760.md)
 - [&sect; 08546 - Repealed. Pub. L. 85&#8211;861, &sect;36B(26), Sept. 2, 1958, 72 Stat. 1571](%C2%A7%2008546%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93861%2C%20%C2%A736B%2826%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201571.md)
 - [&sect; 08547 - Duties chaplains; assistance required of commanding officers](%C2%A7%2008547%20-%20Duties%20chaplains%3B%20assistance%20required%20of%20commanding%20officers.md)

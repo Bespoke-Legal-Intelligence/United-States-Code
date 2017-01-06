@@ -20,7 +20,7 @@ The Administrator of a facility of the Retirement Home shall safeguard and dispo
 
 #### (b) Sale of effects
 
-(1)(A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident's domiciliary estate and the entirety of any ancillary estate that is unclaimed at theend of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
+(1)(A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident's domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
 
 (B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Armed Forces Retirement Home Trust Fund.
 

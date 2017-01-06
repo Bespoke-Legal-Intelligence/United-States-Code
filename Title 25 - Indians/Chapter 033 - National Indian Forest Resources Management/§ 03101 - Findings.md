@@ -30,5 +30,5 @@ Pub. L. 108–278, §1, July 22, 2004, 118 Stat. 868, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 101–630, title III, §301, Nov. 28, 1990, 104 Stat. 4532, provided that: "This title \[enacting this chapter\]may be cited as the 'National Indian Forest Resources Management Act'."
+Pub. L. 101–630, title III, §301, Nov. 28, 1990, 104 Stat. 4532, provided that: "This title \[enacting this chapter\] may be cited as the 'National Indian Forest Resources Management Act'."
 

@@ -28,7 +28,7 @@ Not later than March 1 of each year, the Secretary shall submit to the Committee
 
 &emsp;There is authorized to be appropriated to carry out this section $22,000,000 for fiscal year 2013, to remain available until expended.
 
-(Pub. L. 107–171, title X, §10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, §10301, May 22,2008, 122 Stat. 1346; Pub. L. 110–246, §4(a), title X, §10301, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, §701(g)(3), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, §10004(c), Feb. 7, 2014, 128 Stat. 942.)
+(Pub. L. 107–171, title X, §10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, §10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, §4(a), title X, §10301, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, §701(g)(3), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, §10004(c), Feb. 7, 2014, 128 Stat. 942.)
 
 #### References in Text
 

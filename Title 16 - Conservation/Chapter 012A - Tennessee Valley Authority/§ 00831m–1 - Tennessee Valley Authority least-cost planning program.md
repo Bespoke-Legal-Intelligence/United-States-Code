@@ -36,7 +36,7 @@ The Tennessee Valley Authority shall conduct a least-cost planning program in ac
 
 #### (2) Assistance
 
-&emsp;The Tennessee Valley Authority shall provide appropriate assistance to distributorsunder paragraph (1)(B). Such assistance shall, where cost effective, be provided by the Tennessee Valley Authority acting through, or in cooperation with, an association of distributors. Such assistance may include publications, workshops, conferences, one-on-one assistance, financial assistance, equipment loans, technology assessment studies, marketing studies, and other appropriate mechanisms to transfer information on energy efficiency and renewable energy options and programs to customers.
+&emsp;The Tennessee Valley Authority shall provide appropriate assistance to distributors under paragraph (1)(B). Such assistance shall, where cost effective, be provided by the Tennessee Valley Authority acting through, or in cooperation with, an association of distributors. Such assistance may include publications, workshops, conferences, one-on-one assistance, financial assistance, equipment loans, technology assessment studies, marketing studies, and other appropriate mechanisms to transfer information on energy efficiency and renewable energy options and programs to customers.
 
 #### (d) Public review and comment
 

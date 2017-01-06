@@ -2,11 +2,11 @@
 
 #### (a) General rule
 
-Subject to the limitations in section 1066c of this title, the Secretary is authorized to enter into insurance agreements to provide financial insurance to guarantee the full payment of principal and interest on qualified bonds upon the conditions set forth in subsections (b), (c) and (d) of this section.
+Subject to the limitations in section 1066c of this title, the Secretary is authorized to enter into insurance agreements to provide financial insurance to guarantee the full payment of principal and interest on qualified bonds upon the conditions set forth in subsections (b), (c) and (d).
 
 #### (b) Responsibilities of designated bonding authority
 
-The Secretary may not enter into an insurance agreement described in subsection (a) of this section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and the designated bonding authority agrees in such agreement to—
+The Secretary may not enter into an insurance agreement described in subsection (a) unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and the designated bonding authority agrees in such agreement to—
 
 &emsp;(1) use the proceeds of the qualified bonds, less costs of issuance not to exceed 2 percent of the principal amount thereof, to make loans to eligible institutions or for deposit into an escrow account for repayment of the bonds;
 
@@ -18,7 +18,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;(3)(A) charge such interest on loans, and provide for such a schedule of repayments of loans, as will, upon the timely repayment of the loans, provide adequate and timely funds for the payment of principal and interest on the bonds; and
 
-&emsp;(B) require that any payment on a loan expected to be necessary to make a payment of principal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
+&emsp;(B) require that any payment on a loan expected to be necessary to make a payment ofprincipal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
 
 &emsp;(4) prior to the making of any loan, provide for a credit review of the institution receiving the loan and assure the Secretary that, on the basis of such credit review, it is reasonable to anticipate that the institution receiving the loan will be able to repay the loan in a timely manner pursuant to the terms thereof;
 
@@ -52,7 +52,7 @@ Any insurance agreement described in subsection (a) of this section shall provid
 
 &emsp;(1) The payment of principal and interest on bonds shall be insured by the Secretary until such time as such bonds have been retired or canceled.
 
-&emsp;(2) The Federal liability for delinquencies and default for bonds guaranteed under this part shall only become effective upon the exhaustion of all the funds held in the escrow account described in subsection (b)(8) of this section.
+&emsp;(2) The Federal liability for delinquencies and default for bonds guaranteed under this part shall only become effective upon the exhaustion of all the funds held in the escrow account described in subsection (b)(8).
 
 &emsp;(3) The Secretary shall create a letter of credit authorizing the Department of the Treasury to disburse funds to the designated bonding authority or its assignee.
 
@@ -68,7 +68,7 @@ Any insurance agreement described in subsection (a) of this section shall provid
 
 #### (d) Full faith and credit provisions
 
-Subject to subsection (c)(1) of this section the full faith and credit of the United States is pledged to the payment of all funds which may be required to be paid under the provisions of this section.
+Subject to subsection (c)(1) the full faith and credit of the United States is pledged to the payment of all funds which may be required to be paid under the provisions of this section.
 
 #### (e) Sale of qualified bonds
 

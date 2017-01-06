@@ -6,7 +6,7 @@
 
 &emsp;(2) notwithstanding paragraph (1), the President (and only the President) may direct a person who serves in an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate, to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 3346; or
 
-&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct an officer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
+&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct anofficer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
 
 &emsp;&emsp;(A) during the 365-day period preceding the date of death, resignation, or beginning of inability to serve of the applicable officer, the officer or employee served in a position in such agency for not less than 90 days; and
 
@@ -94,13 +94,13 @@ Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
 (a) Each agency for which presidential action is required to establish an order of succession shall draft a proposed order of succession if no such order exists and, not later than 30 days from the date of this order, send such proposed draft order to the Counsel to the President for review and comment.
 
-(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions to the agency's order of succession to the Counsel to the President for review and comment.
+(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions tothe agency's order of succession to the Counsel to the President for review and comment.
 
 (c) Upon completion of the requirements set forth by subsections (a) or (b) of this section with respect to a proposed order, the agency shall submit the proposed order to the Office of Management and Budget in accordance with Executive Order 11030, as amended.
 
 Sec. 4. <i>Orders of Succession Not Requiring Presidential Action</i>. (a) Each agency for which presidential action is not required to establish an order of succession because of the agency's existing legal authority shall establish and maintain such order in accordance with applicable law and any applicable guidance issued by the President or the Secretary of Homeland Security, including the laws and guidance regarding continuity plans and programs for the executive branch.
 
-(b) Each agency described in subsection 4(a) of this order shall update and revise its order of succession asnecessary. Before implementing any revisions to its order of succession, such agency shall send the proposed revisions to the Counsel to the President for review and comment.
+(b) Each agency described in subsection 4(a) of this order shall update and revise its order of succession as necessary. Before implementing any revisions to its order of succession, such agency shall send the proposed revisions to the Counsel to the President for review and comment.
 
 (c) Not later than 30 days from the date of this order, and not later than 7 days from the issuance date of any subsequent final revision to an existing order of succession, each agency described in subsection 4(a) of this order shall provide a copy of its order of succession to the Counsel to the President, the Assistant to the President for Homeland Security and Counterterrorism, and the Director of the Office of Management and Budget.
 
@@ -180,7 +180,9 @@ Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, super
 
 #### Department of Labor
 
-Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, as amended by Ex. Ord. No. 13261, §4(e), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13755, Dec. 23, 2016, 81 F.R. 96329.
+
+Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, as amended by Ex. Ord. No. 13261, §4(e), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13755, §3, Dec. 23, 2016, 81 F.R. 96329.
 
 Ex. Ord. No. 10513, Jan. 19, 1954, 19 F.R. 369, revoked by Ex. Ord. No. 13245, §4, Dec. 8, 2001, 66 F.R. 66269.
 
@@ -210,7 +212,9 @@ Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929.
 
 #### Department of the Treasury
 
-Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, as amended by Ex. Ord. No. 13261, §4(f), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13735, Aug. 12, 2016, 81 F.R. 54709.
+
+Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, as amended by Ex. Ord. No. 13261, §4(f), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13735, §4, Aug. 12, 2016, 81 F.R. 54709.
 
 Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, revoked by Ex. Ord. No. 13246, §4, Dec. 18, 2001, 66 F.R. 66270.
 
@@ -220,15 +224,19 @@ Ex. Ord. No. 13485, Jan. 9, 2009, 74 F.R. 2287.
 
 #### Department of Veterans Affairs
 
-Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, §4(g), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13736, Aug. 12, 2016, 81 F.R. 54711.
 
-Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141.
+Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, §4(g), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13736, §3(a), (b), Aug. 12, 2016, 81 F.R. 54711.
+
+Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141, revoked by Ex. Ord. No. 13736, §3(d), Aug. 12, 2016, 81 F.R. 54711.
 
 #### Environmental Protection Agency
 
-Ex. Ord. No. 13614, May 21, 2012, 77 F.R. 31157.
+Ex. Ord. No. 13737, Aug. 12, 2016, 81 F.R. 54713.
 
-Ex. Ord. No. 13261, Mar. 19, 2002, 67 F.R. 13243, as amended by Ex. Ord. No. 13344, July 7, 2004, 69 F.R. 41747, revoked by Ex. Ord. No. 13614, §3, May 21, 2012, 77 F.R. 31157.
+Ex. Ord. No. 13614, May 21, 2012, 77 F.R. 31157, revoked by Ex. Ord. No. 13737, §3, Aug. 12, 2016, 81 F.R. 54714.
+
+Ex. Ord. No. 13261, Mar. 19, 2002, 67 F.R. 13243, as amended by Ex. Ord. No. 13344, July 7, 2004, 69 F.R. 41747, revoked by Ex. Ord. No. 13614, §3, May 21, 2012, 77 F.R. 31157, amended by Ex. Ord. No. 13736, §3(b), Aug. 12, 2016, 81 F.R. 54711.
 
 #### Federal Bureau of Investigation
 
@@ -239,6 +247,8 @@ Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
 Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
 #### Federal Mediation and Conciliation Service
+
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96333.
 
 Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
 
@@ -256,7 +266,17 @@ Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4099.
 
 #### National Archives and Records Administration
 
-Memorandum of President of the United States, May 21, 2012, 77 F.R. 31163.
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96331.
+
+Memorandum of President of the United States, May 21, 2012, 77 F.R. 31163, revoked by Memorandum of President of the United States, §3, Dec. 23, 2016, 81 F.R. 96331.
+
+#### National Endowment for the Arts
+
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96335.
+
+#### National Endowment for the Humanities
+
+Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54717.
 
 #### Office of Management and Budget
 
@@ -266,7 +286,9 @@ Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, revoked by Ex. Ord. No. 13615, 
 
 #### Office of Personnel Management
 
-Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165.
+Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54715.
+
+Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165, revoked by Memorandum of President of the United States, §3, Aug. 12, 2016, 81 F.R. 54715.
 
 Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, superseded by Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165.
 
@@ -304,7 +326,9 @@ Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, super
 
 #### Social Security Administration
 
-Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805.
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96337.
+
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805, revoked by Memorandum of President of the United States, §3, Dec. 23, 2016, 81 F.R. 96337.
 
 Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revoked by Memorandum of President of the United States, §3, Oct. 17, 2014, 79 F.R. 63805.
 

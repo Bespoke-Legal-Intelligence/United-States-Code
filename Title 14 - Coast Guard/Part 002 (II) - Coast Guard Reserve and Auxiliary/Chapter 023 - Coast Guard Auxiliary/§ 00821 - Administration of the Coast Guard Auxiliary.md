@@ -1,10 +1,10 @@
 ### §821. Administration of the Coast Guard Auxiliary
 
-(a) The Coast Guard Auxiliary is a nonmilitary organization administered by the Commandant under the direction of the Secretary. For command, control, and administrative purposes, the Auxiliary shall include such organizational elements and units as are approved by the Commandant, including but not limited to, a national board and staff (to be known as the "Auxiliary headquarters unit"), districts, regions, divisions, flotillas, and other organizational elements and units. The Auxiliary organization and its officers shall have such rights, privileges, powers, and duties as may be granted to them by the Commandant, consistent with this title and other applicable provisions of law. The Commandant may delegate to officers of the Auxiliary the authority vested in the Commandant bythis section, in the manner and to the extent the Commandant considers necessary or appropriate for the functioning, organization, and internal administration of the Auxiliary.
+(a) The Coast Guard Auxiliary is a nonmilitary organization administered by the Commandant under the direction of the Secretary. For command, control, and administrative purposes, the Auxiliary shall include such organizational elements and units as are approved by the Commandant, including but not limited to, a national board and staff (to be known as the "Auxiliary headquarters unit"), districts, regions, divisions, flotillas, and other organizational elements and units. The Auxiliary organization and its officers shall have such rights, privileges, powers, and duties as may be granted to them by the Commandant, consistent with this title and other applicable provisions of law. The Commandant may delegate to officers of the Auxiliary the authority vested in the Commandant by this section, in the manner and to the extent the Commandant considers necessary or appropriate for the functioning, organization, and internal administration of the Auxiliary.
 
 (b) Each organizational element or unit of the Coast Guard Auxiliary organization (but excluding any corporation formed by an organizational element or unit of the Auxiliary under subsection (c) of this section), shall, except when acting outside the scope of section 822, at all times be deemed to be an instrumentality of the United States, for purposes of the following:
 
-&emsp;(1) Chapter 26 <sup>1</sup> of title 28 (popularly known as the Federal Tort Claims Act).
+&emsp;(1) Chapter 171 of title 28 (popularly known as the Federal Tort Claims Act).
 
 &emsp;(2) Section 2733 of title 10 (popularly known as the Military Claims Act).
 
@@ -34,7 +34,7 @@
 
 (4) In this subsection, the term "personal property of the Auxiliary" means motor boats, yachts, aircraft, radio stations, motorized vehicles, trailers, or other equipment that is under the administrative jurisdiction of the Coast Guard Auxiliary or an organizational element or unit of the Auxiliary and that is used solely for the purposes described in this subsection.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 555; Pub. L. 104–324, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3922; Pub. L. 108–293, title II, §226, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 555; Pub. L. 104–324, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3922; Pub. L. 108–293, title II, §226, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, §209(14), Feb. 8, 2016, 130 Stat. 41.)
 
 #### Historical and Revision Notes
 
@@ -43,6 +43,8 @@ Based on title 14, U.S.C., 1946 ed., §§260, 263 (Feb. 19, 1941, ch. 8, title I
 This section continues the Auxiliary, redefining it as a nonmilitary organization, and providing for its administration. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–120 substituted "Chapter 171" for "Chapter 26".
 
 <b>2006</b>—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
 
@@ -71,6 +73,4 @@ Pub. L. 99–640, §9, Nov. 10, 1986, 100 Stat. 3548, provided that:
 &emsp;"(C) the effect, if any, of the Coast Guard's non-emergency assistance policy on the overall effectiveness of the Coast Guard Auxiliary.
 
 "(2) The report submitted by the Secretary under this section shall include such recommendations for legislative and administrative action as the Secretary considers appropriate to achieve and maintain the Coast Guard Auxiliary at its optimum strength."
-
-<i><sup>1</sup></i><i> So in original. Probably should be 171.</i>
 

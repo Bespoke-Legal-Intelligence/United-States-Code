@@ -26,7 +26,7 @@ Proposals for response actions.—The Secretary shall require that an adequate o
 
 (c)
 
-Technical Review Committee.—Whenever possible and practical, the Secretary shall establish a technical review committee to review and comment on Department of Defense actions andproposed actions with respect to releases or threatened releases of hazardous substances at installations. Members of any such committee shall include at least one representative of the Secretary, the Administrator, and appropriate State and local authorities and shall include a public representative of the community involved.
+Technical Review Committee.—Whenever possible and practical, the Secretary shall establish a technical review committee to review and comment on Department of Defense actions and proposed actions with respect to releases or threatened releases of hazardous substances at installations. Members of any such committee shall include at least one representative of the Secretary, the Administrator, and appropriate State and local authorities and shall include a public representative of the community involved.
 
 (d)
 
@@ -80,7 +80,7 @@ Funding.—The Secretary shall, to the extent provided in appropriations Acts, m
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(2)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(2)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

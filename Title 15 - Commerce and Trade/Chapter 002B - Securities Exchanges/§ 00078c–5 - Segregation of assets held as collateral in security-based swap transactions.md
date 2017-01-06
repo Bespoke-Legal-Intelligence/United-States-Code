@@ -28,11 +28,11 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (2) Commission action
 
-&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property received by the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
+&emsp;Notwithstanding subsection (b), in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any money, securities, or property of the security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may be commingled and deposited as provided in this section with any other money, securities, or property receivedby the broker, dealer, or security-based swap dealer and required by the Commission to be separately accounted for and treated and dealt with as belonging to the security-based swaps customer of the broker, dealer, or security-based swap dealer.
 
 #### (d) Permitted investments
 
-Money described in subsection (b) may be invested in obligations of the United States, in general obligations of any State or of any political subdivision of a State, and in obligations fully guaranteed as to principal and interest bythe United States, or in any other investment that the Commission may by rule or regulation prescribe, and such investments shall be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.
+Money described in subsection (b) may be invested in obligations of the United States, in general obligations of any State or of any political subdivision of a State, and in obligations fully guaranteed as to principal and interest by the United States, or in any other investment that the Commission may by rule or regulation prescribe, and such investments shall be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.
 
 #### (e) Prohibition
 

@@ -34,7 +34,7 @@
 
 #### (ii) Proportional share
 
-&emsp;&emsp;&emsp;The proportional share of funds shall be determined based on the total amount of funds received by the local educational agency under this part prior to any allowable expenditures or transfers by the local educational agency.
+&emsp;&emsp;&emsp;The proportional share of funds shall be determined based on the total amount offunds received by the local educational agency under this part prior to any allowable expenditures or transfers by the local educational agency.
 
 #### (B) Obligation of funds
 
@@ -66,11 +66,11 @@
 
 &emsp;&emsp;(D) how the services will be academically assessed and how the results of that assessment will be used to improve those services;
 
-&emsp;&emsp;(E) the size and scope of the equitable services to be provided to the eligible private school children, the proportion of funds that is allocated under subsection (a)(4)(A) of this section for such services, and how that proportion of funds is determined;
+&emsp;&emsp;(E) the size and scope of the equitable services to be provided to the eligible private school children, the proportion of funds that is allocated under subsection (a)(4)(A) for such services, and how that proportion of funds is determined;
 
-&emsp;&emsp;(F) the method or sources of data that are used under subsection (c) of this section and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
+&emsp;&emsp;(F) the method or sources of data that are used under subsection (c) and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
 
-&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services tosuch children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
+&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services to such children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
 
 &emsp;&emsp;(H) how, if the agency disagrees with the views of the private school officials on the provision of services through a contract, the local educational agency will provide in writing to such private school officials an analysis of the reasons why the local educational agency has chosen not to use a contractor;
 
@@ -100,7 +100,7 @@
 
 #### (5) Documentation
 
-&emsp;Each local educational agency shall maintain in the agency's records and provide to the State educational agency involved a written affirmation signed by officials of each participating private school that the meaningful consultation required by this section has occurred. The written affirmation shall provide the option for private school officials to indicate such officials' belief that timely and meaningful consultation has not occurred or that the program design is not equitable with respect to eligible private school children. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has, or attempts at such consultation have, taken place to the State educational agency.
+&emsp;Each local educational agency shall maintain in the agency's records and provide to theState educational agency involved a written affirmation signed by officials of each participating private school that the meaningful consultation required by this section has occurred. The written affirmation shall provide the option for private school officials to indicate such officials' belief that timely and meaningful consultation has not occurred or that the program design is not equitable with respect to eligible private school children. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has, or attempts at such consultation have, taken place to the State educational agency.
 
 #### (6) Compliance
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(B) using the results of a survey that, to the extent possible, protects the identity of families of private school students, and allowing such survey results to be extrapolated if complete actual data are unavailable;
 
-&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendancearea, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
+&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
 
 &emsp;&emsp;(D) using an equated measure of low income correlated with the measure of low income used to count public school children.
 
@@ -200,7 +200,7 @@ Subsec. (b)(5). Pub. L. 114–95, §1011(2)(B), (D), redesignated par. (4) as (5
 
 Subsec. (b)(6). Pub. L. 114–95, §1011(2)(B), redesignated par. (5) as (6).
 
-Subsec. (b)(6)(A). Pub. L. 114–95, §1011(2)(E)(i), substituted "right to file a complaint with" for "right to complain to", inserted "asserting" after "State educational agency", struck out "or" before "did not give due consideration", and inserted ", or did not make adecision that treats the private school students equitably as required by this section" before period at end.
+Subsec. (b)(6)(A). Pub. L. 114–95, §1011(2)(E)(i), substituted "right to file a complaint with" for "right to complain to", inserted "asserting" after "State educational agency", struck out "or" before "did not give due consideration", and inserted ", or did not make a decision that treats the private school students equitably as required by this section" before period at end.
 
 Subsec. (b)(6)(B). Pub. L. 114–95, §1011(2)(E)(ii), substituted "wishes to file a complaint," for "wishes to complain,".
 

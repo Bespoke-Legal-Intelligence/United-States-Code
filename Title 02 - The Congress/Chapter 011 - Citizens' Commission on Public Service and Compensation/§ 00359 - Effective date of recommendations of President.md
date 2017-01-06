@@ -8,7 +8,7 @@
 
 &emsp;(I) as an exercise of the rulemaking power of the Senate and the House of Representatives and as such shall be considered as part of the rules of each House, and shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(II) with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedures of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+&emsp;(II) with full recognition of the constitutional right of either House to change therules (so far as they relate to the procedures of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
 (ii) During the 60-calendar-day period beginning on the date that the President transmits his recommendations to the Congress under section 358 of this title, it shall be in order as a matter of highest privilege in each House of Congress to consider a bill or joint resolution, if offered by the majority leader of such House (or a designee), approving such recommendations in their entirety.
 
@@ -35,4 +35,8 @@ Par. (2). Pub. L. 99–190 amended par. (2) generally, substituting provisions r
 <b>1977</b>—Par. (1). Pub. L. 95–19 substituted provisions directing each house of the Congress to conduct a separate vote within sixty days on each Presidential recommendation with respect to the offices and positions described in section 356(A), (B), (C), and (D) of this title, with the votes to be recorded so as to reflect the votes of each individual member and with each recommendation, if approved, to become effective for the offices and positions covered at the beginning of the first pay period which begins after the thirtieth day following the approval of the recommendation by the second house of the Congress to approve the recommendation, for provisions directing that all or part of the recommendations of the President transmitted to the Congress in the budget under section 358 of this title be effective at the beginning of the first pay period beginning after the thirtieth day following the transmittal of the recommendations to the budget, but only to the extent that, between the date of transmittal of the recommendations in the budget and the beginning of the pay period, there has not been enacted into law a statute establishing rates of pay other than the rates set in the recommendation, neither house of the Congress specifically disapproves all or part of the recommendations, or both.
 
 Par. (2). Pub. L. 95–19 reenacted par. (2) without change.
+
+#### Effective Date
+
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 

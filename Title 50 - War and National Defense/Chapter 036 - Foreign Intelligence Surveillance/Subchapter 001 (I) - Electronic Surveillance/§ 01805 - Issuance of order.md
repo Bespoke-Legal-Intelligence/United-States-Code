@@ -18,7 +18,7 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 #### (b) Determination of probable cause
 
-In determining whether or not probable cause exists for purposes of an order under subsection (a)(2) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+In determining whether or not probable cause exists for purposes of an order under subsection (a)(2), a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 
 #### (c) Specifications and directions of orders
 
@@ -50,7 +50,7 @@ In determining whether or not probable cause exists for purposes of an order und
 
 #### (3) Special directions for certain orders
 
-&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of thefacilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
 
 &emsp;&emsp;(A) the nature and location of each new facility or place at which the electronic surveillance is directed;
 
@@ -160,7 +160,7 @@ Certifications made by the Attorney General pursuant to section 1802(a) of this 
 
 #### (i) Bar to legal action
 
-No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a courtorder or request for emergency assistance under this chapter for electronic surveillance or physical search.
+No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
 
 #### (j) Pen registers and trap and trace devices
 
@@ -200,7 +200,7 @@ As originally enacted, Pub. L. 107–56, §225, amended this section by adding s
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(2). Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below. Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by Pub. L. 114–23, which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.
+<b>2015</b>—Subsec. (c)(2). Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See2006 Amendment note below. Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by Pub. L. 114–23, which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.
 
 Subsecs. (f) to (j). Pub. L. 114–23, §701(a), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
@@ -218,7 +218,7 @@ Subsec. (c)(2)(C). Pub. L. 111–259 made technical amendment to directory langu
 
 Subsec. (b). Pub. L. 110–261, §105(a)(2), substituted "(a)(2)" for "(a)(3)".
 
-Subsec. (c)(1)(D) to (F). Pub. L. 110–261, §105(a)(3), inserted "and" after semicolon at and of subpar. (D), substituted a period for "; and" in subpar. (E), and struckout subpar. (F) which read as follows: "whenever more than one electronic, mechanical, or other surveillance device is to be used under the order, the authorized coverage of the devices involved and what minimization procedures shall apply to information subject to acquisition by each device."
+Subsec. (c)(1)(D) to (F). Pub. L. 110–261, §105(a)(3), inserted "and" after semicolon at and of subpar. (D), substituted a period for "; and" in subpar. (E), and struck out subpar. (F) which read as follows: "whenever more than one electronic, mechanical, or other surveillance device is to be used under the order, the authorized coverage of the devices involved and what minimization procedures shall apply to information subject to acquisition by each device."
 
 Subsec. (d). Pub. L. 110–261, §105(a)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to exclusion of certain information respecting foreign power targets from ex parte order.
 

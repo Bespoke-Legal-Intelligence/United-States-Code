@@ -6,7 +6,8 @@
 | :--- | ---: |
 | [4801\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004801%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | [4802\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004802%20-%20Responsibility%20of%20Secretary%20of%20State.md) | Responsibility of Secretary of State. |
-| 4803, 4804. Repealed. |  |
+| [4803\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004803%20-%20Designation%20of%20high%20risk%2C%20high%20threat%20posts.md) | Designation of high risk, high threat posts. |
+| [4804\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004804%20-%20Briefings%20on%20embassy%20security.md) | Briefings on embassy security. |
 | [4805\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004805%20-%20Cooperation%20of%20other%20Federal%20agencies.md) | Cooperation of other Federal agencies. |
 | [4806\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004806%20-%20Protection%20of%20foreign%20consulates.md) | Protection of foreign consulates. |
 | [4807\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2004807%20-%20Establishment%20of%20Visa%20and%20Passport%20Security%20Program%20in%20the%20Department%20of%20State.md) | Establishment of Visa and Passport Security Program in the Department of State. |
@@ -55,6 +56,9 @@
 | [4863\.](Subchapter%20004%20%28IV%29%20-%20Diplomatic%20Security%20Program/%C2%A7%2004863%20-%20Use%20of%20cleared%20personnel%20to%20ensure%20secure%20maintenance%20and%20repair%20of%20diplomatic%20facilities%20abroad.md) | Use of cleared personnel to ensure secure maintenance and repair of diplomatic facilities abroad. |
 | [4864\.](Subchapter%20004%20%28IV%29%20-%20Diplomatic%20Security%20Program/%C2%A7%2004864%20-%20Increased%20participation%20of%20United%20States%20contractors%20in%20local%20guard%20contracts%20abroad%20under%20diplomatic%20security%20program.md) | Increased participation of United States contractors in local guard contracts abroad under diplomatic security program. |
 | [4865\.](Subchapter%20004%20%28IV%29%20-%20Diplomatic%20Security%20Program/%C2%A7%2004865%20-%20Security%20requirements%20for%20United%20States%20diplomatic%20facilities.md) | Security requirements for United States diplomatic facilities. |
+| [4866\.](Subchapter%20004%20%28IV%29%20-%20Diplomatic%20Security%20Program/%C2%A7%2004866%20-%20Security%20training%20for%20personnel%20assigned%20to%20a%20high%20risk%2C%20high%20threat%20post.md) | Security training for personnel assigned to a high risk, high threat post. |
+| [4867\.](Subchapter%20004%20%28IV%29%20-%20Diplomatic%20Security%20Program/%C2%A7%2004867%20-%20Security%20management%20training%20for%20officials%20assigned%20to%20a%20high%20risk%2C%20high%20threat%20post.md) | Security management training for officials assigned to a high risk, high threat post. |
+| [4868\.](Subchapter%20004%20%28IV%29%20-%20Diplomatic%20Security%20Program/%C2%A7%2004868%20-%20Assignment%20of%20personnel%20at%20high%20risk%2C%20high%20threat%20posts.md) | Assignment of personnel at high risk, high threat posts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

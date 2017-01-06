@@ -18,7 +18,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 &emsp;(2) a nation if—
 
-&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
 
 &emsp;&emsp;(B) the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
 
@@ -42,7 +42,7 @@ The Secretary, acting through the Secretary of State, shall—
 
 &emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
 
-&emsp;&emsp;(B) has established a management plan containing requirements that will assist ingathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
+&emsp;&emsp;(B) has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
 
 #### (2) Procedural requirement
 
@@ -88,7 +88,7 @@ In this section the term "protected living marine resource"—
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655.)
+(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, §401(d), Dec. 16, 2016, 130 Stat. 1995.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means 
 
 The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
+The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat.2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -111,6 +111,8 @@ The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–327 substituted "3 years" for "calendar year".
 
 <b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–81, §101(g)(3), (i)(5)(A), substituted "3 years" for "calendar year" and "practices—" for "practices;" in introductory provisions.
 

@@ -30,7 +30,7 @@ Any civil action brought under subsection (a) in a district court of the United 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 103–297, Aug. 16,1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Amendments
 

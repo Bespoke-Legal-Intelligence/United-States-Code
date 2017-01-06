@@ -18,7 +18,7 @@
 
 (f) The Subcommittee on Air Force Reserve Policy consists of the members of the Committee other than the Air National Guard members.
 
-(g) Membership on the Air Staff Committee is determined by the Secretary of the Air Force and is for a minimum period of three years. Except in the case of members of the Committee from the Regular Air Force, the Secretary of the Air Force, when appointing new members, shall insure that among the officers of each component on the Committee there will at all times betwo or more members with more than one year of continuous service on the Committee.
+(g) Membership on the Air Staff Committee is determined by the Secretary of the Air Force and is for a minimum period of three years. Except in the case of members of the Committee from the Regular Air Force, the Secretary of the Air Force, when appointing new members, shall insure that among the officers of each component on the Committee there will at all times be two or more members with more than one year of continuous service on the Committee.
 
 (h) There shall be not less than 10 officers of the Air National Guard of the United States and the Air Force Reserve on duty with the Air Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Air Staff while on that duty.
 

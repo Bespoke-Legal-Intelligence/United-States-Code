@@ -2,7 +2,7 @@
 
 #### (a) Requirements relating to medicare prescription drug low-income subsidies, medicare transitional prescription drug assistance, and medicare cost-sharing
 
-As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e) of this section, a State shall do the following:
+As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e), a State shall do the following:
 
 #### (1) Information for transitional prescription drug assistance verification
 
@@ -16,7 +16,7 @@ As a condition of its State plan under this subchapter under section 1396a(a)(66
 
 &emsp;&emsp;(B) inform the Secretary of such determinations in cases in which such eligibility is established; and
 
-&emsp;&emsp;(C) otherwise provide the Secretary with such information as may be required to carry out part D, other than subpart 4, of subchapter XVIII of this chapter (including section 1395w–114 of this title).
+&emsp;&emsp;(C) otherwise provide the Secretary with such information as may be required to carry out part D, other than subpart 4, of subchapter XVIII (including section 1395w–114 of this title).
 
 #### (3) Screening for eligibility, and enrollment of, beneficiaries for medicare cost-sharing
 
@@ -28,7 +28,7 @@ As a condition of its State plan under this subchapter under section 1396a(a)(66
 
 #### (b) Regular Federal subsidy of administrative costs
 
-The amounts expended by a State in carrying out subsection (a) of this section are expenditures reimbursable under the appropriate paragraph of section 1396b(a) of this title.
+The amounts expended by a State in carrying out subsection (a) are expenditures reimbursable under the appropriate paragraph of section 1396b(a) of this title.
 
 #### (c) Federal assumption of medicaid prescription drug costs for dually eligible individuals
 
@@ -46,11 +46,11 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (B) Form and manner of payment
 
-&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretary that is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretarythat is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
 
 #### (C) Compliance
 
-&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e) of this section, in accordance with the Federal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
+&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e), in accordance with the Federal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
 
 #### (D) Data match
 
@@ -156,7 +156,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;&emsp;For purposes of this section, the term "full-benefit dual eligible individual" means for a State for a month an individual who—
 
-&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapter XVIII of this chapter, or under an MA–PD plan under part C of such subchapter; and
+&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapter XVIII, or under an MA–PD plan under part C of such subchapter; and
 
 &emsp;&emsp;&emsp;(ii) is determined eligible by the State for medical assistance for full benefits under this subchapter for such month under section 1396a(a)(10)(A) or 1396a(a)(10)(C) of this title, by reason of section 1396a(f) of this title, or under any other category of eligibility for medical assistance for full benefits under this subchapter, as determined by the Secretary.
 
@@ -168,11 +168,11 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
-&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII of this chapter or an MA–PD plan under part C of such subchapter, the State may elect to provide such medical assistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
+&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII or an MA–PD plan under part C of such subchapter, the State may elect to provide such medical assistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
 
 #### (e) Treatment of territories
 
@@ -240,11 +240,11 @@ A prior section 1935 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 <b>2005</b>—Subsec. (c)(3)(B)(ii)(II). Pub. L. 109–91 inserted ", including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title" after "section 1395w–102(e) of this title".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted "subject to subsection (e) of this section" after "section 1396b(a) of this title" in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted "subject to subsection (e)" after "section 1396b(a) of this title" in introductory provisions.
 
 Subsec. (c). Pub. L. 108–173, §103(b), added subsec. (c).
 
-Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendment of subsec. (c)(1) by inserting "subject to subsection (e) of this section" after "section 1396b(a)(1) of this title", was executed by making the insertion after "section 1396b(a) of this title" in subpar. (C) to reflect the probable intent of Congress.
+Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendment of subsec. (c)(1) by inserting "subject to subsection (e)" after "section 1396b(a)(1) of this title", was executed by making the insertion after "section 1396b(a) of this title" in subpar. (C) to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
 

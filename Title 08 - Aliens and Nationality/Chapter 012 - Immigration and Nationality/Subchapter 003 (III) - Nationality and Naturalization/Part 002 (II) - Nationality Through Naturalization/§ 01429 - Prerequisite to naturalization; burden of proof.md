@@ -14,7 +14,7 @@ Section 405(b), referred to in text, is section 405(b) of act June 27, 1952, ch.
 
 <b>1996</b>—Pub. L. 104–208 substituted "removal" for "deportation" wherever appearing and "canceling" for "suspending".
 
-<b>1990</b>—Pub. L. 101–649, §407(d)(3), in last sentence substituted "considered by the Attorney General" for "finally heard by a naturalization court" and "upon theAttorney General" for "upon the naturalization court".
+<b>1990</b>—Pub. L. 101–649, §407(d)(3), in last sentence substituted "considered by the Attorney General" for "finally heard by a naturalization court" and "upon the Attorney General" for "upon the naturalization court".
 
 Pub. L. 101–649, §407(c)(4), substituted "application" for "petition" and "applicant" for "petitioner".
 

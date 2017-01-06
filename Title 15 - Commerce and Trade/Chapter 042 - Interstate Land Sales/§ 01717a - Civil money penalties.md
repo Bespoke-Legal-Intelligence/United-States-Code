@@ -22,7 +22,7 @@
 
 #### (2) Final orders
 
-&emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If the Director reviews the determinationor order, the Director may affirm, modify, or reverse that determination or order. If the Director does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
+&emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If the Director reviews the determination or order, the Director may affirm, modify, or reverse that determination or order. If the Director does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
 
 #### (3) Factors in determining amount of penalty
 

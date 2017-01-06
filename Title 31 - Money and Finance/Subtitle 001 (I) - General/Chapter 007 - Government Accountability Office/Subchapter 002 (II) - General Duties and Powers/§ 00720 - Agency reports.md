@@ -2,7 +2,7 @@
 
 (a) In this section, "agency" means a department, agency, or instrumentality of the United States Government (except a mixed-ownership Government corporation) or the District of Columbia government.
 
-(b) When the Comptroller General makes a report that includes a recommendation to the head of an agency, the head of the agency shall submit a written statement on action taken on the recommendation by the head of the agency. The statement shall be submitted to—
+(b) When the Comptroller General makes a report that includes a recommendation to the head of an agency, the head of the agency shallsubmit a written statement on action taken on the recommendation by the head of the agency. The statement shall be submitted to—
 
 &emsp;(1) the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives before the 61st day after the date of the report; and
 

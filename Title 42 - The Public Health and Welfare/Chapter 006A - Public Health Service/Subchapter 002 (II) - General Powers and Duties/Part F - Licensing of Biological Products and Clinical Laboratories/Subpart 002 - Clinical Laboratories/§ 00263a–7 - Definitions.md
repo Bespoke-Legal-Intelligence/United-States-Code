@@ -4,7 +4,7 @@ For purposes of sections 263a–1 to 263a–7 of this title:
 
 #### (1) Assisted reproductive technology
 
-&emsp;The term "assisted reproductive technology" means all treatments or procedures which include the handling of human oocytes or embryos, including in vitro fertilization, gamete intrafallopian transfer, zygote intrafallopian transfer, and such other specific technologies as the Secretary may include in this definition, after making public any proposed definition in such manner as to facilitate comment from any person (including any Federal or other public agency).
+&emsp;The term "assisted reproductive technology" means all treatments or procedures which include the handling of human oocytes or embryos, including in vitro fertilization, gamete intrafallopian transfer, zygote intrafallopian transfer, and such other specific technologies as the Secretary may include inthis definition, after making public any proposed definition in such manner as to facilitate comment from any person (including any Federal or other public agency).
 
 #### (2) Embryo laboratory
 
@@ -22,7 +22,7 @@ Sections 263a–1 to 263a–7 of this title, referred to in text, was in the ori
 
 #### Codification
 
-Section was enacted as part of the Fertility Clinic Success Rate and Certification Act of 1992, and not aspart of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Fertility Clinic Success Rate and Certification Act of 1992, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Effective Date
 

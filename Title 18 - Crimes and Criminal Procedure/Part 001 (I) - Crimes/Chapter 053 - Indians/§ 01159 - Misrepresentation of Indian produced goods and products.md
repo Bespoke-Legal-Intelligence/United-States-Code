@@ -20,7 +20,7 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 &emsp;&emsp;&emsp;(ii) in the case of a person other than an individual, be fined not more than $100,000; and
 
-&emsp;(2) in the case of a subsequent violation by that person, regardless of the amount for which any good is offered or displayed for sale or sold—
+&emsp;(2) in the case of a subsequent violation by that person, regardless of the amount forwhich any good is offered or displayed for sale or sold—
 
 &emsp;&emsp;(A) in the case of an individual, be fined under this title, imprisoned for not more than 15 years, or both; and
 
@@ -34,7 +34,7 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 &emsp;(3) the term "Indian tribe"—
 
-&emsp;&emsp;(A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); and
+&emsp;&emsp;(A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); <sup>1</sup> and
 
 &emsp;&emsp;(B) includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
 
@@ -62,6 +62,10 @@ Maximum fine of $2,000 was changed to $500 to bring the offense within the categ
 
 Minor changes were made in phraseology.
 
+#### References in Text
+
+Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in subsec. (c)(3)(A), was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–211, §103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "Whoever knowingly violates subsection (a) shall—
@@ -85,4 +89,6 @@ For purposes of this section, an Indian tribe may not impose fee to certify indi
 #### Admission of Alaska as State
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

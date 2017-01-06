@@ -22,7 +22,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (A) In general
 
-&emsp;&emsp;A person who believes that he or she has been discharged or otherwise discriminatedagainst by any person in violation of subsection (a) may, not later than 180 days after the date on which such alleged violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination and identifying the person responsible for such act.
+&emsp;&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such alleged violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination and identifying the person responsible for such act.
 
 #### (B) Actions of Secretary of Labor
 
@@ -66,7 +66,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (C) Evidentiary standards
 
-&emsp;&emsp;The Secretary of Labor may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint. Relief may not be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+&emsp;&emsp;The Secretary of Labor may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint. Relief maynot be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
 
 #### (4) Issuance of final orders; review procedures
 
@@ -88,7 +88,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (ii) Penalty
 
-&emsp;&emsp;&emsp;If an order is issued under clause (i), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued, asum equal to the aggregate amount of all costs and expenses (including attorney fees and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
+&emsp;&emsp;&emsp;If an order is issued under clause (i), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued, a sum equal to the aggregate amount of all costs and expenses (including attorney fees and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
 
 #### (C) Penalty for frivolous claims
 
@@ -122,7 +122,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (B) Civil actions to compel compliance
 
-&emsp;&emsp;A person on whose behalf an order was issued under paragraph (4) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+&emsp;&emsp;A person on whose behalf an order was issued under paragraph (4) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy orthe citizenship of the parties, to enforce such order.
 
 #### (C) Award of costs authorized
 

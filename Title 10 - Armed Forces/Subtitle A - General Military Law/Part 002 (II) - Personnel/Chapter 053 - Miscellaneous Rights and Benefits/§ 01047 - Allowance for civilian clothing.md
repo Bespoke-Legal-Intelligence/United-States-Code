@@ -20,7 +20,7 @@ Certain Enlisted Members.—The Secretary of the military department concerned m
 
 &emsp;(4) discharged before completion of recruit training under honorable conditions for dependency, hardship, minority, or disability or for the convenience of the Government.
 
-(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, §584(a), Oct. 28, 2004, 118 Stat. 1929; Pub. L. 110–181, div. A, title VI, §634, Jan. 28, 2008, 122 Stat. 155.)
+(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375,div. A, title V, §584(a), Oct. 28, 2004, 118 Stat. 1929; Pub. L. 110–181, div. A, title VI, §634, Jan. 28, 2008, 122 Stat. 155.)
 
 #### Prior Provisions
 

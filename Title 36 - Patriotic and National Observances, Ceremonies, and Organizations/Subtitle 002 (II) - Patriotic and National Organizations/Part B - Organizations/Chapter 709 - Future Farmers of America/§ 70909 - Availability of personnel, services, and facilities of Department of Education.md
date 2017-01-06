@@ -1,6 +1,6 @@
 ### §70909. Availability of personnel, services, and facilities of Department of Education
 
-On request of the board of directors of the corporation, the Secretary of Education may makepersonnel, services, and facilities of the Department of Education available to administer or assist in the administration of the activities of the corporation. Personnel of the Department may not receive compensation from the corporation for their services, except that travel and other legitimate expenses as defined by the Secretary and approved by the board may be paid. The Secretary also may cooperate with the State boards for vocational education to assist in the promotion of the activities of the corporation.
+On request of the board of directors of the corporation, the Secretary of Education may make personnel, services, and facilities of the Department of Education available to administer or assist in the administration of the activities of the corporation. Personnel of the Department may not receive compensation from the corporation for their services, except that travel and other legitimate expenses as defined by the Secretary and approved by the board may be paid. The Secretary also may cooperate with the State boards for vocational education to assist in the promotion of the activities of the corporation.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1358.)
 

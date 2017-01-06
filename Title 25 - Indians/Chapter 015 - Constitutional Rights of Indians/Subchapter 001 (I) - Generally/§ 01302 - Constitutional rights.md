@@ -40,7 +40,7 @@ A tribal court may subject a defendant to a term of imprisonment greater than 1 
 
 #### (c) Rights of defendants
 
-In a criminal proceeding in which an Indian tribe, in exercising powers of self-government, imposes a total term of imprisonment of morethan 1 year on a defendant, the Indian tribe shall—
+In a criminal proceeding in which an Indian tribe, in exercising powers of self-government, imposes a total term of imprisonment of more than 1 year on a defendant, the Indian tribe shall—
 
 &emsp;(1) provide to the defendant the right to effective assistance of counsel at least equal to that guaranteed by the United States Constitution; and
 

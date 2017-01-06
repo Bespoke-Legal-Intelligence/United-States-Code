@@ -58,7 +58,7 @@ Relinquishment and acceptance of responsibility.—The Administrator relinquishe
 
 &emsp;(3)
 
-Conditions.—The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection onany conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
+Conditions.—The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection on any conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
 
 &emsp;(4)
 
@@ -167,6 +167,74 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Cockpit Automation Management
+
+Pub. L. 114–190, title II, §2102, July 15, 2016, 130 Stat. 619, provided that: "Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall—
+
+&emsp;"(1) develop a process to verify that air carrier training programs incorporate measures to train pilots on—
+
+&emsp;&emsp;"(A) monitoring automation systems; and
+
+&emsp;&emsp;"(B) controlling the flightpath of aircraft without autopilot or autoflight systems engaged;
+
+&emsp;"(2) develop metrics or measurable tasks that air carriers can use to evaluate pilot monitoring proficiency;
+
+&emsp;"(3) issue guidance to aviation safety inspectors responsible for oversight of the operations of air carriers on tracking and assessing pilots' proficiency in manual flight; and
+
+&emsp;"(4) issue guidance to air carriers and inspectors regarding standards for compliance with the requirements for enhanced pilot training contained in the final rule published in the Federal Register on November 12, 2013 (78 Fed. Reg. 67800)."
+
+#### Additional Certification Resources
+
+Pub. L. 114–190, title II, §2109, July 15, 2016, 130 Stat. 623, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law, and subject to the requirements of subsection (b), the Administrator of the FAA may enter into a reimbursable agreement with an applicant or certificate-holder for the reasonable travel and per diem expenses of the FAA associated with official travel to expedite the acceptance or validation by a foreign authority of an FAA certificate or design approval or the acceptance or validation by the FAA of a foreign authority certificate or design approval.
+
+"(b)
+
+Conditions.—The Administrator may enter into an agreement under subsection (a) only if—
+
+&emsp;"(1) the travel covered under the agreement is deemed necessary, by both the Administrator and the applicant or certificate-holder, to expedite the acceptance or validation of the relevant certificate or approval;
+
+&emsp;"(2) the travel is conducted at the request of the applicant or certificate-holder;
+
+&emsp;"(3) travel plans and expenses are approved by the applicant or certificate-holder prior to travel; and
+
+&emsp;"(4) the agreement requires payment in advance of FAA services and is consistent with the processes under section 106(l)(6) of title 49, United States Code.
+
+"(c)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on—
+
+&emsp;"(1) the number of occasions on which the Administrator entered into reimbursable agreements under this section;
+
+&emsp;"(2) the number of occasions on which the Administrator declined a request by an applicant or certificate-holder to enter into a reimbursable agreement under this section;
+
+&emsp;"(3) the amount of reimbursements collected in accordance with agreements under this section; and
+
+&emsp;"(4) the extent to which reimbursable agreements under this section assisted in reducing the amount of time necessary for validations of certificates and design approvals.
+
+"(d)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;"(1)
+
+Applicant.—The term 'applicant' means a person that has—
+
+&emsp;&emsp;"(A) applied to a foreign authority for the acceptance or validation of an FAA certificate or design approval; or
+
+&emsp;&emsp;"(B) applied to the FAA for the acceptance or validation of a foreign authority certificate or design approval.
+
+&emsp;"(2)
+
+Certificate-holder.—The term 'certificate-holder' means a person that holds a certificate issued by the Administrator under part 21 of title 14, Code of Federal Regulations.
+
+&emsp;"(3)
+
+FAA.—The term 'FAA' means the Federal Aviation Administration."
 
 #### Notices to Airmen
 
@@ -418,7 +486,7 @@ Part 135 air carrier.—The term 'part 135 air carrier' means an air carrier tha
 
 "(a)
 
-Establishment.—The Administrator of the Federal Aviation Administration shall establish a special task force to be known as the FAA Task Force on Air Carrier Safety and Pilot Training (in this section referred to as the 'Task Force').
+Establishment.—The Administrator of the Federal Aviation Administration shall establish a specialtask force to be known as the FAA Task Force on Air Carrier Safety and Pilot Training (in this section referred to as the 'Task Force').
 
 "(b)
 
@@ -534,7 +602,7 @@ Expedited approvals.—Under the streamlined review process, the Administrator s
 
 Rulemaking.—The Administrator shall issue—
 
-&emsp;"(1) not later than one year after the date of enactment of this Act, a notice of proposed rulemaking based on the recommendations of the aviation rulemaking committee convened under subsection (a); and
+&emsp;"(1) not later than one year after the date of enactment of this Act, a notice of proposed rulemakingbased on the recommendations of the aviation rulemaking committee convened under subsection (a); and
 
 &emsp;"(2) not later than 36 months after such date of enactment, a final rule based on such recommendations.
 
@@ -660,7 +728,7 @@ Report.—Not later than one year after the date of enactment of this Act, the A
 
 #### "SEC. 211. SAFETY INSPECTIONS OF REGIONAL AIR CARRIERS.
 
-"The Administrator of the Federal Aviation Administration shall perform, not less frequently than once each year, random, onsite inspections of air carriers that provide air transportation pursuant to a contractwith a part 121 air carrier to ensure that such air carriers are complying with all applicable safety standards of the Administration.
+"The Administrator of the Federal Aviation Administration shall perform, not less frequently than once each year, random, onsite inspections of air carriers that provide air transportation pursuant to a contract with a part 121 air carrier to ensure that such air carriers are complying with all applicable safety standards of the Administration.
 
 #### "SEC. 212. PILOT FATIGUE.
 
@@ -1202,7 +1270,7 @@ Liability of Air Carriers.—An air carrier shall not be liable for damages in a
 
 "(b)
 
-Liability of Individuals.—An individual shall not be liable for damages in any action brought in aFederal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
+Liability of Individuals.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
 
 #### "SEC. 6. DEFINITIONS.
 

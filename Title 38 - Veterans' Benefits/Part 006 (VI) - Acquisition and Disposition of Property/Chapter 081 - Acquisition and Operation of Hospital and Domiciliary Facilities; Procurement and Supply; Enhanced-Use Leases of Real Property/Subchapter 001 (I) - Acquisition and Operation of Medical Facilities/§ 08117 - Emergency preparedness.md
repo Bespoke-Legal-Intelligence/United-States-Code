@@ -2,7 +2,7 @@
 
 (a)
 
-Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respond to such an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
+Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respondto such an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
 
 (2) Actions under paragraph (1) shall include—
 
@@ -72,7 +72,7 @@ Mental Health Counseling.—(1) With respect to activities conducted by personne
 
 Authorization of Appropriations.—There are authorized to be appropriated, $155,300,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
-(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(p)(2), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–5, title I, §105, Mar. 13, 2013, 127 Stat. 170.)
+(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(p)(2),Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–5, title I, §105, Mar. 13, 2013, 127 Stat. 170.)
 
 #### References in Text
 

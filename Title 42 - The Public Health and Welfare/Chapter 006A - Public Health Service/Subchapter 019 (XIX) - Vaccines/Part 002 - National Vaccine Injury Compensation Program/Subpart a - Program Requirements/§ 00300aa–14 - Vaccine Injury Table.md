@@ -32,7 +32,7 @@ VACCINE INJURY TABLE
 
 #### (b) Qualifications and aids to interpretation
 
-The following qualifications and aids to interpretation shall apply to the Vaccine Injury Table in subsection (a) of this section:
+The following qualifications and aids to interpretation shall apply to the Vaccine Injury Table in subsection (a):
 
 &emsp;(1) A shock-collapse or a hypotonic-hyporesponsive collapse may be evidenced by indicia or symptoms such as decrease or loss of muscle tone, paralysis (partial or complete), hemiplegia or hemiparesis, loss of color or turning pale white or blue, unresponsiveness to environmental stimuli, depression of consciousness, loss of consciousness, prolonged sleeping with difficulty arousing, or cardiovascular or respiratory arrest.
 
@@ -46,7 +46,7 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 &emsp;(B) If in a proceeding on a petition it is shown by a preponderance of the evidence that an encephalopathy was caused by infection, toxins, trauma, or metabolic disturbances the encephalopathy shall not be considered to be a condition set forth in the table. If at the time a judgment is entered on a petition filed under section 300aa–11 of this title for a vaccine-related injury or death it is not possible to determine the cause, by a preponderance of the evidence, of an encephalopathy, the encephalopathy shall be considered to be a condition set forth in the table. In determining whether or not an encephalopathy is a condition set forth in the table, the court shall consider the entire medical record.
 
-&emsp;(4) For purposes of paragraphs (2) and (3), the terms "seizure" and "convulsion" include grand mal, petit mal, absence, myoclonic, tonic-clonic, and focal motor seizures and signs. If a provision of the table to which paragraph (1), (2), (3), or (4) applies is revised under subsection (c) or (d) of this section, such paragraph shall not apply to such provision after the effective date of the revision unless the revision specifies that such paragraph is to continue to apply.
+&emsp;(4) For purposes of paragraphs (2) and (3), the terms "seizure" and "convulsion" include grand mal, petit mal, absence, myoclonic, tonic-clonic, and focal motor seizures and signs. If a provision of the table to which paragraph (1), (2), (3), or (4) applies is revised under subsection (c) or (d), such paragraph shall not apply to such provision after the effective date of the revision unless the revision specifies that such paragraph is to continue to apply.
 
 #### (c) Administrative revision of table
 
@@ -60,19 +60,19 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 > whichever occurs first, the Secretary shall conduct a rulemaking proceeding on the matters proposed in the petition or publish in the Federal Register a statement of reasons for not conducting such proceeding.
 
-(3) A modification of the Vaccine Injury Table under paragraph (1) may add to, or delete from, the list of injuries, disabilities, illnesses, conditions, and deaths for which compensation may be provided or may change the time periods for the first symptom or manifestation of the onset or the significant aggravation of any such injury, disability, illness, condition, or death.
+(3) A modification of the Vaccine Injury Table under paragraph (1) may add to, or delete from, the list of injuries, disabilities, illnesses, conditions, and deaths for which compensation may be provided or may change the time periods for the first symptom or manifestation of the onsetor the significant aggravation of any such injury, disability, illness, condition, or death.
 
-(4) Any modification under paragraph (1) of the Vaccine Injury Table shall apply only withrespect to petitions for compensation under the Program which are filed after the effective date of such regulation.
+(4) Any modification under paragraph (1) of the Vaccine Injury Table shall apply only with respect to petitions for compensation under the Program which are filed after the effective date of such regulation.
 
 #### (d) Role of Commission
 
-Except with respect to a regulation recommended by the Advisory Commission on Childhood Vaccines, the Secretary may not propose a regulation under subsection (c) of this section or any revision thereof, unless the Secretary has first provided to the Commission a copy of the proposed regulation or revision, requested recommendations and comments by the Commission, and afforded the Commission at least 90 days to make such recommendations.
+Except with respect to a regulation recommended by the Advisory Commission on Childhood Vaccines, the Secretary may not propose a regulation under subsection (c) or any revision thereof, unless the Secretary has first provided to the Commission a copy of the proposed regulation or revision, requested recommendations and comments by the Commission, and afforded the Commission at least 90 days to make such recommendations.
 
 #### (e) Additional vaccines
 
 #### (1) Vaccines recommended before August 1, 1993
 
-&emsp;By August 1, 1995, the Secretary shall revise the Vaccine Injury Table included in subsection (a) of this section to include—
+&emsp;By August 1, 1995, the Secretary shall revise the Vaccine Injury Table included in subsection (a) to include—
 
 &emsp;&emsp;(A) vaccines which are recommended to the Secretary by the Centers for Disease Control and Prevention before August 1, 1993, for routine administration to children,
 
@@ -82,7 +82,7 @@ Except with respect to a regulation recommended by the Advisory Commission on Ch
 
 #### (2) Vaccines recommended after August 1, 1993
 
-&emsp;When after August 1, 1993, the Centers for Disease Control and Prevention recommends a vaccine to the Secretary for routine administration to children, the Secretary shall, within 2 years of such recommendation, amend the Vaccine Injury Table included in subsection (a) of this section to include—
+&emsp;When after August 1, 1993, the Centers for Disease Control and Prevention recommends a vaccine to the Secretary for routine administration to children, the Secretary shall, within 2 years of such recommendation, amend the Vaccine Injury Table included in subsection (a) to include—
 
 &emsp;&emsp;(A) vaccines which were recommended for routine administration to children,
 
@@ -90,7 +90,11 @@ Except with respect to a regulation recommended by the Advisory Commission on Ch
 
 &emsp;&emsp;(C) the time period in which the first symptoms or manifestations of onset or other significant aggravation of such injuries, disabilities, illnesses, conditions, and deaths associated with such vaccines may occur.
 
-(July 1, 1944, ch. 373, title XXI, §2114, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3764; amended Pub. L. 101–239, title VI, §6601(k), Dec. 19, 1989, 103 Stat. 2290; Pub. L. 103–66, title XIII, §13632(a)(2), Aug. 10, 1993, 107 Stat. 645.)
+#### (3) Vaccines recommended for use in pregnant women
+
+&emsp;The Secretary shall revise the Vaccine Injury Table included in subsection (a), through the process described in subsection (c), to include vaccines recommended by the Centers for Disease Control and Prevention for routine administration in pregnant women and the information described in subparagraphs (B) and (C) of paragraph (2) with respect to such vaccines.
+
+(July 1, 1944, ch. 373, title XXI, §2114, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3764; amended Pub. L. 101–239, title VI, §6601(k), Dec. 19, 1989, 103 Stat. 2290; Pub. L. 103–66, title XIII, §13632(a)(2), Aug. 10, 1993, 107 Stat. 645; Pub. L. 114–255, div. A, title III, §3093(c)(1), Dec. 13, 2016, 130 Stat. 1152.)
 
 #### Prior Provisions
 
@@ -99,6 +103,8 @@ A prior section 300aa–14, act July 1, 1944, §2115, was successively renumbere
 A prior section 2114 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238k of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(3). Pub. L. 114–255 added par. (3).
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The Secretary may recommend to Congress revisions of the table to change the vaccines covered by the table."
 

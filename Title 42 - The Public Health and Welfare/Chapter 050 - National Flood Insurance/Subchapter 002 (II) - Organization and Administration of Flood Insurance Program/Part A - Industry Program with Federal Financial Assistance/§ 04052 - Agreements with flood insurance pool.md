@@ -10,7 +10,7 @@ Such agreements shall specify—
 
 &emsp;(1) the terms and conditions under which risk capital will be available for the adjustment and payment of claims,
 
-&emsp;(2) the terms and conditions under which the pool (and the companies and other insurers participating therein) shall participate in premiums received and profits or losses realized or sustained,
+&emsp;(2) the terms and conditions under which the pool (and the companies and other insurersparticipating therein) shall participate in premiums received and profits or losses realized or sustained,
 
 &emsp;(3) the maximum amount of profit, established by the Administrator and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
 
@@ -32,7 +32,7 @@ In addition, such agreements shall contain such provisions as the Administrator 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIIIof Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 

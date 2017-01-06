@@ -52,7 +52,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 The term "employment tax" means any tax imposed by subtitle C.
 
-(Added Pub. L. 105–34, title XIV, §1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, §3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §314(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-643.)
+(Added Pub. L. 105–34, title XIV, §1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, §3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §314(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
 
 #### References in Text
 

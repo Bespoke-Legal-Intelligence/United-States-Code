@@ -28,7 +28,39 @@ Limitation on Financial Interest in Subcontractors.—Neither an entity performi
 
 &emsp;(4) the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2935; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, §217(7), Dec. 20, 2012, 126 Stat. 1557.)
+(c)
+
+Acquisition of Unmanned Aerial Systems.—
+
+&emsp;(1)
+
+In general.—During any fiscal year for which funds are appropriated for the design or construction of the Offshore Patrol Cutter, the Commandant—
+
+&emsp;&emsp;(A) may not award a contract for design of an unmanned aerial system for use by the Coast Guard; and
+
+&emsp;&emsp;(B) may acquire an unmanned aerial system only—
+
+&emsp;&emsp;&emsp;(i) if such a system has been acquired by, or has been used by, the Department of Defense or the Department of Homeland Security, or a component thereof, before the date on which the Commandant acquires the system; and
+
+&emsp;&emsp;&emsp;(ii) through an agreement with such a department or component, unless the unmanned aerial system can be obtained at less cost through independent contract action.
+
+&emsp;(2)
+
+Limitations on application.—
+
+&emsp;&emsp;(A)
+
+Small unmanned aerial systems.—The limitations in paragraph (1)(B) do not apply to any small unmanned aerial system that consists of—
+
+&emsp;&emsp;&emsp;(i) an unmanned aircraft weighing less than 55 pounds on takeoff, including all components and equipment on board or otherwise attached to the aircraft; and
+
+&emsp;&emsp;&emsp;(ii) associated elements (including communication links and the components that control such aircraft) that are required for the safe and efficient operation of such aircraft.
+
+&emsp;&emsp;(B)
+
+Previously funded systems.—The limitations in paragraph (1) do not apply to the design or acquisition of an unmanned aerial system for which funds for research, development, test, and evaluation have been received from the Department of Defense or the Department of Homeland Security <sup>1</sup>
+
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2935; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, §217(7), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(D), Dec. 23, 2016, 130 Stat. 2333.)
 
 #### References in Text
 
@@ -40,6 +72,8 @@ A prior section 564, act Aug. 4, 1949, ch. 393, 63 Stat. 540; Aug. 3, 1950, ch. 
 
 #### Amendments
 
+<b>2016</b>—Subsec. (c). Pub. L. 114–328 added subsec. (c).
+
 <b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, section related to prohibition on use of lead systems integrators and provided for certain exceptions to such prohibition.
 
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §402(a), which enacted this section.
@@ -47,4 +81,6 @@ A prior section 564, act Aug. 4, 1949, ch. 393, 63 Stat. 540; Aug. 3, 1950, ch. 
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

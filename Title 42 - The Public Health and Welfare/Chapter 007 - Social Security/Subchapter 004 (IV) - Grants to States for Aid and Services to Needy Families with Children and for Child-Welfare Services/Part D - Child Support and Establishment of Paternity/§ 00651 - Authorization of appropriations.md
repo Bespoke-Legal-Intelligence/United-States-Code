@@ -1,6 +1,6 @@
 ### §651. Authorization of appropriations
 
-For the purpose of enforcing the support obligations owed by noncustodial parents to their children and the spouse (or former spouse) with whom such children are living, locating noncustodial parents, establishing paternity, obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for assistance under a State program funded under part A of this subchapter) for whom such assistance is requested, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this part.
+For the purpose of enforcing the support obligations owed by noncustodial parents to their children and the spouse (or former spouse) with whom such children are living, locating noncustodial parents, establishing paternity, obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for assistance under a State program funded under part A) for whom such assistance is requested, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this part.
 
 (Aug. 14, 1935, ch. 531, title IV, §451, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 97–35, title XXIII, §2332(a), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–378, §2, Aug. 16, 1984, 98 Stat. 1305; Pub. L. 104–193, title I, §108(c)(1), title III, §395(d)(1)(A), Aug. 22, 1996, 110 Stat. 2165, 2259.)
 
@@ -8,9 +8,9 @@ For the purpose of enforcing the support obligations owed by noncustodial parent
 
 <b>1996</b>—Pub. L. 104–193, §395(d)(1)(A), substituted "noncustodial" for "absent" in two places.
 
-Pub. L. 104–193, §108(c)(1), substituted "assistance under a State program funded under part A of this subchapter" for "aid under part A of this subchapter".
+Pub. L. 104–193, §108(c)(1), substituted "assistance under a State program funded under part A" for "aid under part A".
 
-<b>1984</b>—Pub. L. 98–378 substituted "obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for aid under part A of this subchapter) for whom such assistance is requested," for "and obtaining child and spousal support,".
+<b>1984</b>—Pub. L. 98–378 substituted "obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for aid under part A) for whom such assistance is requested," for "and obtaining child and spousal support,".
 
 <b>1981</b>—Pub. L. 97–35 substituted "children and the spouse (or former spouse) with whom such children are living" for "children" and "child and spousal support" for "child support".
 
@@ -30,7 +30,7 @@ Pub. L. 97–35, title XXIII, §2336, Aug. 13, 1981, 95 Stat. 864, provided that
 
 #### Effective Date
 
-Pub. L. 93–647, §101(f), Jan. 4, 1975, 88 Stat. 2361, as amended by Pub. L. 94–46, §2, June 30, 1975, 89 Stat. 245,provided that: "The amendments made by this section \[enacting this part and section 6305 of Title 26, Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing section 610 of this title, and enacting provisions set out as notes under this section and section 602 of this title\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[42 U.S.C. 659\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\]."
+Pub. L. 93–647, §101(f), Jan. 4, 1975, 88 Stat. 2361, as amended by Pub. L. 94–46, §2, June 30, 1975, 89 Stat. 245, provided that: "The amendments made by this section \[enacting this part and section 6305 of Title 26, Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing section 610 of this title, and enacting provisions set out as notes under this section and section 602 of this title\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[42 U.S.C. 659\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\]."
 
 #### Short Title
 

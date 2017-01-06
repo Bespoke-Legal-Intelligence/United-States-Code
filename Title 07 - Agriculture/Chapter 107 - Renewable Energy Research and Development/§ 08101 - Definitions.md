@@ -86,7 +86,7 @@ Except as otherwise provided, in this chapter:
 
 #### (10) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (11) Institution of higher education
 
@@ -200,7 +200,7 @@ Par. (17). Pub. L. 113–79, §9001(1), redesignated par. (14) as (17).
 
 #### Effective Date
 
-Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as a note under section 8701 of this title.
 
 #### Short Title of 2004 Amendment
 

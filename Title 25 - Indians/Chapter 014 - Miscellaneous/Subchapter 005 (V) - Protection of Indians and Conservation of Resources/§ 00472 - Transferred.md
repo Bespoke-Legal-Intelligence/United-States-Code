@@ -1,0 +1,6 @@
+### §472. Transferred
+
+#### Codification
+
+Section 472 was editorially reclassified as section 5116 of this title.
+

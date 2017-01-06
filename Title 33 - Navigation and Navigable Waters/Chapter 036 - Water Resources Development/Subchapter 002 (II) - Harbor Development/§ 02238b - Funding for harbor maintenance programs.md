@@ -16,7 +16,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The target total budget resources made available to the Secretary from the Harbor Maintenance Trust Fund for a fiscal year shall be not less than the following:
+&emsp;Except as provided in subsection (c), the target total budget resources made available to the Secretary from the Harbor Maintenance Trust Fund for a fiscal year shall be not less than the following:
 
 &emsp;&emsp;(A) For fiscal year 2015, 67 percent of the total amount of harbor maintenance taxes received in fiscal year 2014.
 
@@ -44,21 +44,35 @@ In this section:
 
 &emsp;The total budget resources described in paragraph (1) may be used only for making expenditures under section 9505(c) of title 26.
 
-#### (c) Impact on other funds
+#### (c) Exception
+
+If the target total budget resources for a fiscal year described in subparagraphs (A) through (J) of subsection (b)(1) is lower than the target total budget resources for the previous fiscal year, the target total budget resources shall be adjusted to be equal to the lesser of—
+
+&emsp;(1) 103 percent of the total budget resources appropriated for the previous fiscal year; or
+
+&emsp;(2) 100 percent of the total amount of harbor maintenance taxes received in the previous fiscal year.
+
+#### (d) Impact on other funds
 
 #### (1) Sense of Congress
 
-&emsp;It is the sense of Congress that any increase in funding for harbor maintenance programs under this section shall result from an overall increase in appropriations for the civil works program of the Corps of Engineers and not from reductions in the appropriations for other programs, projects, and activities carried out by the Corps of Engineers for other authorized purposes.
+&emsp;It is the sense of Congress that any increase in funding for harbor maintenance programsunder this section shall result from an overall increase in appropriations for the civil works program of the Corps of Engineers and not from reductions in the appropriations for other programs, projects, and activities carried out by the Corps of Engineers for other authorized purposes.
 
 #### (2) Application
 
 &emsp;The target total budget resources for a fiscal year specified in subsection (b)(1) shall only apply in a fiscal year for which the level of appropriations provided for the civil works program of the Corps of Engineers in that fiscal year is increased, as compared to the previous fiscal year, by a dollar amount that is at least equivalent to the dollar amount necessary to address such target total budget resources in that fiscal year.
 
-(Pub. L. 113–121, title II, §2101, June 10, 2014, 128 Stat. 1272.)
+(Pub. L. 113–121, title II, §2101, June 10, 2014, 128 Stat. 1272; Pub. L. 114–322, title I, §1108, Dec. 16, 2016, 130 Stat. 1634.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+Subsec. (b)(1). Pub. L. 114–322, §1108(1), substituted "Except as provided in subsection (c), the target total" for "The target total" in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 114–322, §1108(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### "Secretary" Defined
 

@@ -32,7 +32,7 @@ The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951,
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–107 added subsec. (d).
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–533 substituted "procurement contracts" for "contracts for the procurement ofdefense articles and defense services" and inserted reference to contracts entered into under section 2769 of this title.
+<b>1980</b>—Subsec. (c). Pub. L. 96–533 substituted "procurement contracts" for "contracts for the procurement of defense articles and defense services" and inserted reference to contracts entered into under section 2769 of this title.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–384 added subsec. (c).
 
@@ -55,6 +55,42 @@ Pub. L. 104–107, title V, §531A(b), Feb. 12, 1996, 110 Stat. 731, provided th
 #### Delegation of Functions
 
 For delegation of functions of the President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+
+#### Requirement To Use Firm Fixed-Price Contracts for Foreign Military Sales
+
+Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, provided that:
+
+"(a)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], theSecretary of Defense shall prescribe regulations to require the use of firm fixed-price contracts for foreign military sales.
+
+"(b)
+
+Exceptions.—The regulations prescribed pursuant to subsection (a) shall include exceptions that may be exercised if the foreign country that is the counterparty to a foreign military sale—
+
+&emsp;"(1) has established in writing a preference for a different contract type; or
+
+&emsp;"(2) requests in writing that a different contract type be used for a specific foreign military sale.
+
+"(c)
+
+Waiver Authority.—The regulations prescribed pursuant to subsection (a) shall include a waiver that may be exercised by the Secretary of Defense or his designee if the Secretary or his designee determines on a case-by-case basis that a different contract type is in the best interest of the United States and American taxpayers.
+
+"(d)
+
+Pilot Program for Acceleration of Foreign Military Sales.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall establish a pilot program to reform and accelerate the contracting and pricing processes associated with full rate production of major weapon systems for no more than 10 foreign military sales contracts by—
+
+&emsp;&emsp;"(A) basing price reasonableness determinations on actual cost and pricing data for purchases of the same product for the Department of Defense; and
+
+&emsp;&emsp;"(B) reducing the cost and pricing data to be submitted in accordance with section 2306a of title 10, United States Code.
+
+&emsp;"(2)
+
+Expiration of authority.—Authority for the pilot program under this subsection expires on January 1, 2020."
 
 #### Prior Provisions
 

@@ -32,5 +32,5 @@ Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 198
 
 #### Effective Date
 
-Section applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, seesection 701(c)(1)(A) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
+Section applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(A) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 

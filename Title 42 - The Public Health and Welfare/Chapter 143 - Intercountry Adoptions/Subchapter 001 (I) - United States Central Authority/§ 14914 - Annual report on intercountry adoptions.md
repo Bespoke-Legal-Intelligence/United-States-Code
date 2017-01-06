@@ -6,7 +6,7 @@ Beginning 1 year after the date of the entry into force of the Convention for th
 
 #### (b) Report elements
 
-Each report under subsection (a) of this section shall set forth with respect to the year concerned, the following:
+Each report under subsection (a) shall set forth with respect to the year concerned, the following:
 
 &emsp;(1) The number of intercountry adoptions involving immigration to the United States, regardless of whether the adoption occurred under the Convention, including the country from which each child emigrated, the State to which each child immigrated, and the country in which the adoption was finalized.
 
@@ -40,7 +40,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard towhether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date
 

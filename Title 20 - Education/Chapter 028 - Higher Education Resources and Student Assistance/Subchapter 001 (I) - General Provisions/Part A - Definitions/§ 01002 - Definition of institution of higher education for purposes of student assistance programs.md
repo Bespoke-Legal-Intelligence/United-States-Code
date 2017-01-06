@@ -4,25 +4,25 @@
 
 #### (1) Inclusion of additional institutions
 
-&emsp;Subject to paragraphs (2) through (4) of this subsection, the term "institution of higher education" for purposes of subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 includes, in addition to the institutions covered by the definition in section 1001 of this title—
+&emsp;Subject to paragraphs (2) through (4) of this subsection, the term "institution of higher education" for purposes of subchapter IV includes, in addition to the institutions covered by the definition in section 1001 of this title—
 
 &emsp;&emsp;(A) a proprietary institution of higher education (as defined in subsection (b) of this section);
 
 &emsp;&emsp;(B) a postsecondary vocational institution (as defined in subsection (c) of this section); and
 
-&emsp;&emsp;(C) only for the purposes of part C of subchapter IV of this chapter, an institution outside the United States that is comparable to an institution of higher education as defined in section 1001 of this title and that has been approved by the Secretary for the purpose of part C of subchapter IV of this chapter, consistent with the requirements of section 1087b(d) of this title.
+&emsp;&emsp;(C) only for the purposes of part D of subchapter IV, an institution outside the United States that is comparable to an institution of higher education as defined in section 1001 of this title and that has been approved by the Secretary for the purpose of part D of subchapter IV, consistent with the requirements of section 1087b(d) of this title.
 
 #### (2) Institutions outside the United States
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, nursing school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made under part C of subchapter IV of this chapter unless—
+&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, nursing school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made under part D of subchapter IV unless—
 
 &emsp;&emsp;&emsp;(i) except as provided in subparagraph (B)(iii)(IV), in the case of a graduate medical school located outside the United States—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part C of subchapter IV of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year forwhich a student is seeking a loan under part C of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution—
 
@@ -62,7 +62,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 1 year after August 14, 2008, the advisory panel described in clause (i) shall submit a report to the Secretary and to the authorizing committees recommending eligibility criteria for participation in the loan programs under part C of subchapter IV of this chapter for graduate medical schools that—
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after August 14, 2008, the advisory panel described in clause (i) shall submit a report to the Secretary and to the authorizing committees recommending eligibility criteria for participation in the loan programs under part D of subchapter IV for graduate medical schools that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are located outside of the United States;
 
@@ -92,23 +92,23 @@
 
 #### (III) Minimum eligibility requirement
 
-&emsp;&emsp;&emsp;&emsp;In the recommendations described in subclause (II), the criteria described in subparagraph (A)(i)(I)(bb) shall be a minimum eligibility requirement for a graduate medical school described in subclause (I) to participate in the loan programs under part C of subchapter IV of this chapter.
+&emsp;&emsp;&emsp;&emsp;In the recommendations described in subclause (II), the criteria described in subparagraph (A)(i)(I)(bb) shall be a minimum eligibility requirement for a graduate medical school described in subclause (I) to participate in the loan programs under part D of subchapter IV.
 
 #### (IV) Authority
 
 &emsp;&emsp;&emsp;&emsp;The Secretary may—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part C of subchapter IV of this chapter based on the recommendations of such report; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part D of subchapter IV based on the recommendations of such report; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) not earlier than one year after the issuance of proposed regulations under item (aa), issue final regulations establishing such criteria for eligibility.
 
 #### (C) Failure to release information
 
-&emsp;&emsp;The failure of an institution outside the United States to provide, release, or authorize release to the Secretary of such information as may be required by subparagraph (A) shall render such institution ineligible for the purpose of part C of subchapter IV of this chapter.
+&emsp;&emsp;The failure of an institution outside the United States to provide, release, or authorize release to the Secretary of such information as may be required by subparagraph (A) shall render such institution ineligible for the purpose of part D of subchapter IV.
 
 #### (D) Special rule
 
-&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part C of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
+&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part D of subchapter IV while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
 
 #### (3) Limitations based on course of study or enrollment
 
@@ -128,15 +128,15 @@
 
 &emsp;&emsp;(A) the institution, or an affiliate of the institution that has the power, by contract or ownership interest, to direct or cause the direction of the management or policies of the institution, has filed for bankruptcy, except that this paragraph shall not apply to a nonprofit institution, the primary function of which is to provide health care educational services (or an affiliate of such an institution that has the power, by contract or ownership interest, to direct or cause the direction of the institution's management or policies) that files for bankruptcy under chapter 11 of title 11 between July 1, 1998, and December 1, 1998; or
 
-&emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, or has been judicially determined to have committed fraud involving funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV, or has been judicially determined to have committed fraud involving funds under subchapter IV.
 
 #### (5) Certification
 
-&emsp;The Secretary shall certify an institution's qualification as an institution of higher education in accordance with the requirements of subpart 3 of part G of subchapter IV of this chapter.
+&emsp;The Secretary shall certify an institution's qualification as an institution of higher education in accordance with the requirements of subpart 3 of part H of subchapter IV.
 
 #### (6) Loss of eligibility
 
-&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapterand part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
+&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV as a result of an action pursuant to part H of subchapter IV.
 
 #### (b) Proprietary institution of higher education
 
@@ -154,7 +154,7 @@
 
 &emsp;&emsp;(C) does not meet the requirement of paragraph (4) of section 1001(a) of this title;
 
-&emsp;&emsp;(D) is accredited by a nationally recognized accrediting agency or association recognized by the Secretary pursuant to part G of subchapter IV of this chapter; and
+&emsp;&emsp;(D) is accredited by a nationally recognized accrediting agency or association recognized by the Secretary pursuant to part H of subchapter IV; and
 
 &emsp;&emsp;(E) has been in existence for at least 2 years.
 
@@ -208,7 +208,7 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 S
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–152, §2209(b)(1)(A), substituted "part C" for "part B" wherever appearing before "subchapter IV".
+<b>2010</b>—Pub. L. 111–152, §2209(b)(1)(A), substituted "part D" for "part B" wherever appearing before "subchapter IV".
 
 Subsec. (a)(1)(C). Pub. L. 111–152, §2209(b)(1)(B), inserted ", consistent with the requirements of section 1087b(d) of this title" before period at end.
 
@@ -234,7 +234,7 @@ Subsec. (a)(2)(B)(iii). Pub. L. 110–315, §102(a)(2), added cl. (iii).
 
 Subsec. (b)(1)(A). Pub. L. 110–315, §102(d)(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: "provides an eligible program of training to prepare students for gainful employment in a recognized occupation;".
 
-Subsec. (b)(1)(D) to (F). Pub. L. 110–315, §102(c), struck out "and" after semicolon in subpar. (D), substituted "; and" for period in subpar. (E), and struck out subpar. (F) which read as follows: "has at least 10 percent of the school's revenues from sources that are not derived from funds provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as determined in accordance with regulations prescribed by the Secretary."
+Subsec. (b)(1)(D) to (F). Pub. L. 110–315, §102(c), struck out "and" after semicolon in subpar. (D), substituted "; and" for period in subpar. (E), and struck out subpar. (F) which read as follows: "has at least 10 percent of the school's revenues from sources that are not derived from funds provided under subchapter IV, as determined in accordance with regulations prescribed by the Secretary."
 
 Subsec. (b)(2). Pub. L. 110–315, §102(d)(1)(A)(ii), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'proprietary institution of higher education' also includes a proprietary educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located."
 
@@ -262,7 +262,7 @@ Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VIII, §8001(c), Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided in this subtitle \[subtitle A (§§8001–8024) of title VIII of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1001 of this title\] or the amendments made by this subtitle, the amendments made by this subtitle shall be effective July 1, 2006."
+Pub. L. 109–171, title VIII, §8001(c), Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise providedin this subtitle \[subtitle A (§§8001–8024) of title VIII of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1001 of this title\] or the amendments made by this subtitle, the amendments made by this subtitle shall be effective July 1, 2006."
 
 #### Effective Date of 2003 Amendment
 

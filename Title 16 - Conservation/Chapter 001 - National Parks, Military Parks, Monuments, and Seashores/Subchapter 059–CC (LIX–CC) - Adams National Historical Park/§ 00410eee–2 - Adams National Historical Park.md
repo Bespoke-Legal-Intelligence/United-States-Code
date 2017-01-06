@@ -14,7 +14,7 @@ The historical park shall be comprised of the following:
 
 #### (c) Visitor and administrative sites
 
-To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of theproperty depicted on the map identified in subsection (b)(1)(A).<sup>1</sup>
+To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A).<sup>1</sup>
 
 #### (d) Map
 

@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b) of this section. The grant shall consist of the allotment determined for the State educational agency under subsection (c) of this section.
+In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
 
 #### (b) Use of funds
 
 #### (1) Subgrants to eligible entities
 
-&emsp;The Secretary may make a grant under subsection (a) of this section only if the State educational agency involved agrees to expend at least 95 percent of the State educational agency's allotment under subsection (c) of this section for a fiscal year—
+&emsp;The Secretary may make a grant under subsection (a) only if the State educational agency involved agrees to expend at least 95 percent of the State educational agency's allotment under subsection (c) for a fiscal year—
 
 &emsp;&emsp;(A) to award subgrants, from allocations under section 6824 of this title, to eligible entities to carry out the activities described in section 6825 of this title (other than subsection (e)); and
 
@@ -16,7 +16,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (2) State activities
 
-&emsp;Subject to paragraph (3), each State educational agency receiving a grant under subsection (a) of this section may reserve not more than 5 percent of the agency's allotment under subsection (c) of this section to carry out one or more of the following activities:
+&emsp;Subject to paragraph (3), each State educational agency receiving a grant under subsection (a) may reserve not more than 5 percent of the agency's allotment under subsection (c) to carry out one or more of the following activities:
 
 &emsp;&emsp;(A) Establishing and implementing, with timely and meaningful consultation with local educational agencies representing the geographic diversity of the State, standardized statewide entrance and exit procedures, including a requirement that all students who may be English learners are assessed for such status within 30 days of enrollment in a school in the State.
 
@@ -76,7 +76,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (C) Reallotment
 
-&emsp;&emsp;If any State educational agency described in subparagraph (A) does not submit a plan to the Secretary for a fiscal year, or submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice andopportunity for a hearing, determines does not satisfy the requirements of this subpart, the Secretary—
+&emsp;&emsp;If any State educational agency described in subparagraph (A) does not submit a plan to the Secretary for a fiscal year, or submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of this subpart, the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall endeavor to make the State's allotment available on a competitive basis to specially qualified agencies within the State to satisfy the requirements of section 6825 of this title (and any additional requirements that the Secretary may impose), consistent with the purposes of such section, and to carry out required and authorized activities under such section; and
 
@@ -132,7 +132,7 @@ Subsec. (c)(1). Pub. L. 114–95, §3003(b)(2)(A)(i), substituted "section 6801"
 
 Subsec. (c)(1)(B). Pub. L. 114–95, §3003(b)(2)(A)(ii), inserted "and" after semicolon at end.
 
-Subsec. (c)(1)(C). Pub. L. 114–95, §3003(b)(2)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: "6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than 0.5 percent of such amount shall be reserved for evaluation activities conducted by the Secretary and not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title; and".
+Subsec. (c)(1)(C). Pub. L. 114–95, §3003(b)(2)(A)(iii), added subpar. (C) and struck out former subpar. (C)which read as follows: "6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than 0.5 percent of such amount shall be reserved for evaluation activities conducted by the Secretary and not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title; and".
 
 Subsec. (c)(1)(D). Pub. L. 114–95, §3003(b)(2)(A)(iv), struck out subpar. (D) which read as follows: "such sums as may be necessary to make continuation awards under paragraph (2)."
 

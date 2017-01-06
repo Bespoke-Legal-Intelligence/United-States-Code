@@ -206,7 +206,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§3, 6, 94 Stat. 27, 32.
 
 In the section, the words "officers and" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to asthe 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
+In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to as the 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
 
 In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of the United States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
 
@@ -326,7 +326,7 @@ Pay Increase Defined.—For purposes of this section, the term 'pay increase', a
 
 "(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate ofbasic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 "(d)
 
@@ -384,7 +384,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 &emsp;&emsp;&emsp;"(i) the amount of each deduction and withholding under subparagraph (A); and
 
-&emsp;&emsp;&emsp;"(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, Unitedstates Code, based on payments made under clause (i).
+&emsp;&emsp;&emsp;"(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, United states Code, based on payments made under clause (i).
 
 "(g)
 
@@ -418,7 +418,7 @@ Qualified Individual.—For purposes of this section, the term 'qualified indivi
 
 &emsp;&emsp;"(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 "(d)
 

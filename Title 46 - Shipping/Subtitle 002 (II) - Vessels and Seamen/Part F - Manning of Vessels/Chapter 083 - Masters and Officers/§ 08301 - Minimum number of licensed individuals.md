@@ -48,7 +48,7 @@ Historical and Revision Notes
 
 Section 8301 prescribes the minimum number of licensed individuals on board certain vessels based on the vessel's size or propulsion, length of voyage by distance or time, or any combination of these factors.
 
-Subsection (a) applies to certain merchant and passenger carrying vessels of the United States, each ofwhich must have a licensed master regardless of the factors listed above. Subsection (b) applies to offshore supply vessels. Subsection (c) exempts fishing or whaling vessels or yachts from these requirements.
+Subsection (a) applies to certain merchant and passenger carrying vessels of the United States, each of which must have a licensed master regardless of the factors listed above. Subsection (b) applies to offshore supply vessels. Subsection (c) exempts fishing or whaling vessels or yachts from these requirements.
 
 Subsection (d) permits the Secretary to suspend any part of this chapter during a declared national emergency or to increase the number of licensed individuals required by this chapter if required for safe operation of a vessel.
 

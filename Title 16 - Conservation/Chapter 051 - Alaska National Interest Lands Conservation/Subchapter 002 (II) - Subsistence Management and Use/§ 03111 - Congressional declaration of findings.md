@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(3) continuation of the opportunity for subsistence uses of resources on public and other lands in Alaska is threatened by the increasing population of Alaska, with resultant pressure on subsistence resources, by sudden decline in the populations of some wildlife species which are crucial subsistence resources, by increased accessibility of remote areas containing subsistence resources, and by taking of fish and wildlife in a manner inconsistent with recognized principles of fish and wildlife management;
 
-&emsp;(4) in order to fulfill the policies and purposes of the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and as a matter of equity, it is necessary for the Congress to invoke its constitutional authority over Native affairs and its constitutional authority under the property clause and the commerce clause to protect and provide the opportunity for continued subsistence uses on the public lands by Native and non-Native rural residents; and
+&emsp;(4) in order to fulfill the policies and purposes of the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and as a matter ofequity, it is necessary for the Congress to invoke its constitutional authority over Native affairs and its constitutional authority under the property clause and the commerce clause to protect and provide the opportunity for continued subsistence uses on the public lands by Native and non-Native rural residents; and
 
 &emsp;(5) the national interest in the proper regulation, protection, and conservation of fish and wildlife on the public lands in Alaska and the continuation of the opportunity for a subsistence way of life by residents of rural Alaska require that an administrative structure be established for the purpose of enabling rural residents who have personal knowledge of local conditions and requirements to have a meaningful role in the management of fish and wildlife and of subsistence uses on the public lands in Alaska.
 
@@ -20,7 +20,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–83, §316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83,§316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Pub. L. 105–83, §316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 

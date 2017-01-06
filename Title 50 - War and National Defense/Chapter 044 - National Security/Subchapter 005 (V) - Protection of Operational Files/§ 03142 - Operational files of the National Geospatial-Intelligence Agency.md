@@ -56,11 +56,11 @@
 
 &emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NGA agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
-&emsp;(viii) Any information filed with, or produced for the court pursuant to clauses (i) and (iv) shall be coordinated with the Director of National Intelligence prior to submission to the court.
+&emsp;(viii) Any information filed with, or produced for the court pursuant to clauses (i) and\(iv) shall be coordinated with the Director of National Intelligence prior to submission to the court.
 
 #### (b) Decennial review of exempted operational files
 
-(1) Not less than once every 10 years, the Director of the National Geospatial-Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
+(1) Not less than once every 10 years, the Director of the National Geospatial-Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
@@ -82,7 +82,7 @@ Section was formerly classified to section 432 of this title prior to editorial 
 
 #### Prior Provisions
 
-A prior section 702 of act July 26, 1947, ch. 343, title VII, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat.2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573. Section 431 of this title was editorially reclassified and renumbered as section 3141 of this title.
+A prior section 702 of act July 26, 1947, ch. 343, title VII, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573. Section 431 of this title was editorially reclassified and renumbered as section 3141 of this title.
 
 #### Amendments
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Treatment of Certain Transferred Records
 
-Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] of the National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
+Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] ofthe National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
 

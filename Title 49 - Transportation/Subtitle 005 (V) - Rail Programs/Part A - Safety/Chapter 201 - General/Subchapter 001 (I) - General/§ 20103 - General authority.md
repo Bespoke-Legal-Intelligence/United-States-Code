@@ -54,7 +54,7 @@ Consultation.—In granting a waiver under this subsection, the Secretary shall 
 
 Emergency situation; emergency event.—In this subsection, the terms "emergency situation" and "emergency event" mean a natural or manmade disaster, such as a hurricane, flood, earthquake, mudslide, forest fire, snowstorm, terrorist act, biological outbreak, release of a dangerous radiological, chemical, explosive, or biological material, or a war-related activity, that poses a risk of death, serious illness, severe injury, or substantial property damage. The disaster may be local, regional, or national in scope.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 110–432, div. A, title III, §308, Oct. 16, 2008, 122 Stat. 4881.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 110–432, div. A, title III, §308, Oct. 16, 2008, 122 Stat. 4881.)
 
 Historical and Revision Notes
 
@@ -264,7 +264,7 @@ Pub. L. 110–432, div. A, title IV, §405, Oct. 16, 2008, 122 Stat. 4885, provi
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance ofsuch employees' duties. The study shall consider the prevalence of the use of such devices.
+In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance of such employees' duties. The study shall consider the prevalence of the use of such devices.
 
 "(b)
 

@@ -30,7 +30,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
 
-(Pub. L. 88–452, title VIII, §803, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 95–568, §17(a)(39), Nov. 2, 1978, 92 Stat. 2443; Pub. L. 98–558, title X, §1002, Oct. 30, 1984, 98 Stat. 2905; Pub. L. 100–175, title V, §§502(1), 504(a), 506(c)(2), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 101–408, §2, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(1), (21), Sept. 30, 1992, 106 Stat. 1295, 1300; Pub. L. 102–497, §9(a), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(2), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 88–452, title VIII, §803, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amendedPub. L. 95–568, §17(a)(39), Nov. 2, 1978, 92 Stat. 2443; Pub. L. 98–558, title X, §1002, Oct. 30, 1984, 98 Stat. 2905; Pub. L. 100–175, title V, §§502(1), 504(a), 506(c)(2), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 101–408, §2, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(1), (21), Sept. 30, 1992, 106 Stat. 1295, 1300; Pub. L. 102–497, §9(a), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(2), Dec. 2, 1993, 107 Stat. 1991.)
 
 #### References in Text
 

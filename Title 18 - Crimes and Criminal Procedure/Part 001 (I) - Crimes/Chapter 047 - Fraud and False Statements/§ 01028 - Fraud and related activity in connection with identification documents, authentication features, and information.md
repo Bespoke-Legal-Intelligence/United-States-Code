@@ -4,11 +4,11 @@
 
 &emsp;(1) knowingly and without lawful authority produces an identification document, authentication feature, or a false identification document;
 
-&emsp;(2) knowingly transfers an identification document, authentication feature, or a falseidentification document knowing that such document or feature was stolen or produced without lawful authority;
+&emsp;(2) knowingly transfers an identification document, authentication feature, or a false identification document knowing that such document or feature was stolen or produced without lawful authority;
 
 &emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or more identification documents (other than those issued lawfully for the use of the possessor), authentication features, or false identification documents;
 
-&emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor), authentication feature, or a false identification document, with the intent such document or feature be used to defraud the United States;
+&emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor), authentication feature, or a false identification document, withthe intent such document or feature be used to defraud the United States;
 
 &emsp;(5) knowingly produces, transfers, or possesses a document-making implement or authentication feature with the intent such document-making implement or authentication feature will be used in the production of a false identification document or another document-making implement or authentication feature which will be so used;
 
@@ -128,7 +128,7 @@ Attempt and Conspiracy.—Any person who attempts or conspires to commit any off
 
 (g)
 
-Forfeiture Procedures.—The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) ofthe Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
+Forfeiture Procedures.—The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853).
 
 (h)
 
@@ -218,7 +218,7 @@ Subsec. (b)(5), (6). Pub. L. 105–318, §3(b)(4)–(6), added par. (5) and rede
 
 Subsec. (c)(3). Pub. L. 105–318, §3(c), added par. (3) and struck out former par. (3) which read as follows: "the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section."
 
-Subsec. (d). Pub. L. 105–318, §3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining "identification document", "produce", "document-making implement", "personalidentification card", and "State" as used in this section.
+Subsec. (d). Pub. L. 105–318, §3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining "identification document", "produce", "document-making implement", "personal identification card", and "State" as used in this section.
 
 Subsec. (f). Pub. L. 105–318, §3(e), added subsec. (f).
 
@@ -336,7 +336,7 @@ Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
 &emsp;"(2) facilitate positive identification of bona fide holders of identification documents.
 
-"(b) The President shall, no later than 3 years after the date of enactment of this Act \[Oct. 12, 1984\], and after consultation with Federal, State, local, and international issuing authorities, and concerned groups make recommnedations \[recommendations\] to the Congress for the enactment of comprehensive legislation on Federal identification systems. Such legislation shall—
+"(b) The President shall, no later than 3 years after the date of enactment of this Act \[Oct. 12, 1984\], andafter consultation with Federal, State, local, and international issuing authorities, and concerned groups make recommnedations \[recommendations\] to the Congress for the enactment of comprehensive legislation on Federal identification systems. Such legislation shall—
 
 &emsp;"(1) give due consideration to protecting the privacy of persons who are the subject of any identification system,
 

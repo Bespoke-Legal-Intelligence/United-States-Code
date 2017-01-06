@@ -6,7 +6,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 #### (b) Time limitations with respect to certain applications
 
-(1) With respect to programs of grants, contracts, and cooperative agreements described in subsection (a) of this section, any application submitted in response to a solicitation by the Secretary for proposals pursuant to such a program—
+(1) With respect to programs of grants, contracts, and cooperative agreements described in subsection (a), any application submitted in response to a solicitation by the Secretary for proposals pursuant to such a program—
 
 &emsp;(A) may not be approved if the application is submitted after the expiration of the 3-month period beginning on the date on which the solicitation is issued; and
 
@@ -16,7 +16,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 #### (c) Requirements with respect to adjustments in time limitations
 
-With respect to any program for which a determination described in subsection (b)(2) of this section is made, the Secretary shall—
+With respect to any program for which a determination described in subsection (b)(2) is made, the Secretary shall—
 
 &emsp;(1) if the determination is made before the Secretary issues a solicitation for proposals pursuant to the program, ensure that the solicitation describes the time limitations as adjusted by the determination; and
 
@@ -24,19 +24,19 @@ With respect to any program for which a determination described in subsection (b
 
 #### (d) Annual reports to Congress
 
-Except as provided in subsection (e) of this section, the Secretary shall annually prepare, for inclusion in the comprehensive report required in section 300cc <sup>1</sup> of this title, a report—
+Except as provided in subsection (e), the Secretary shall annually prepare, for inclusion in the comprehensive report required in section 300cc <sup>1</sup> of this title, a report—
 
-&emsp;(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2) of this section, including a description of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
+&emsp;(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2), including a description of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
 
 &emsp;(B) summarizing applications that—
 
-&emsp;&emsp;(i) were submitted pursuant to a program of grants, contracts, or cooperative agreements referred to in paragraph (1) of subsection (b) of this section for which a determination described in paragraph (2) of such subsection has not been made; and
+&emsp;&emsp;(i) were submitted pursuant to a program of grants, contracts, or cooperative agreements referred to in paragraph (1) of subsection (b) for which a determination described in paragraph (2) of such subsection has not been made; and
 
 &emsp;&emsp;(ii) were not processed in accordance with the time limitations described in such paragraph (1).
 
 #### (e) Quarterly reports for fiscal year 1989
 
-For fiscal year 1989, the report required in subsection (d) of this section shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+For fiscal year 1989, the report required in subsection (d) shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 (July 1, 1944, ch. 373, title XXIII, §2302, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063.)
 
@@ -56,7 +56,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Development of Rapid HIV Test
 
-Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, provided that:
+Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, as amended by Pub. L. 114–255, div. A, title II, §2042(g), Dec. 13, 2016, 130 Stat. 1073, provided that:
 
 "(a)
 
@@ -68,17 +68,13 @@ In general.—The Director of NIH shall expand, intensify, and coordinate resear
 
 &emsp;"(2)
 
-Report to congress.—The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
-
-&emsp;"(3)
-
 Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 "(b)
 
 Premarket Review of Rapid HIV Tests.—
 
-&emsp;"(1)
+&emsp;"(1) \[sic\]
 
 In general.—Not later than 90 days after the date of the enactment of this Act \[Oct. 20, 2000\], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
 
@@ -146,7 +142,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
 
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in theAppendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13649. Accelerating Improvements in HIV Prevention and Care in the United States Through the HIV Care Continuum Initiative
 
@@ -274,7 +270,7 @@ Sec. 3. <i>Lead Agency Responsibilities</i>. While the Updated Strategy will req
 
 (ii) develop and support a process for sharing progress reports, including status updates on achieving specific quantitative targets established by the Updated Strategy, with relevant agencies and ONAP on an annual basis, or at such other times as ONAP requests; and
 
-(iii) in consultation with OMB, use the budget development process to prioritize programs and activitiesmost critical to meeting the goals of the Updated Strategy.
+(iii) in consultation with OMB, use the budget development process to prioritize programs and activities most critical to meeting the goals of the Updated Strategy.
 
 Sec. 4. <i>Other Agency Responsibilities</i>. All agencies that support HIV/AIDS programs and activities shall ensure that, to the extent permitted by law, they are meeting the goals of the Updated Strategy.
 
@@ -342,7 +338,7 @@ Section 1. <i>Role of the White House Office of National AIDS Policy (ONAP).</i>
 
 (b) The Director of the ONAP shall annually report to the President on the implementation of the Strategy, including progress in meeting key targets and taking key actions identified in the Strategy and the Federal Implementation Plan.
 
-Sec. 2. <i>Lead Responsible Agencies</i>. While the Strategy requires a Government-wide effort in order to succeedfully, certain agencies have primary responsibilities and competencies in implementing the Strategy.
+Sec. 2. <i>Lead Responsible Agencies</i>. While the Strategy requires a Government-wide effort in order to succeed fully, certain agencies have primary responsibilities and competencies in implementing the Strategy.
 
 (a) <i>Designation of Lead Agencies</i>. Lead agencies for implementing the Strategy shall be:
 

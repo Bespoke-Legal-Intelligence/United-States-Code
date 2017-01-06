@@ -16,7 +16,7 @@ In General.—(1) Notwithstanding any other provision of law governing the award
 
 (b)
 
-Effect on First Responder Arrangements.—The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protectionservices or other similar first responder agreements or arrangements.
+Effect on First Responder Arrangements.—The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protection services or other similar first responder agreements or arrangements.
 
 (c)
 

@@ -12,7 +12,7 @@
 
 > the Trade Representative shall promptly request proceedings on the matter under the formal dispute settlement procedures provided under such agreement.
 
-(3) The Trade Representative shall seek information and advice from the petitioner (if any) and the appropriate committees established pursuant to section 2155 of this title in preparing United States presentations for consultations and dispute settlement proceedings.
+(3) The Trade Representative shall seek information and advice from the petitioner (if any) and the appropriate committees established pursuant to section 2155 of this title in preparingUnited States presentations for consultations and dispute settlement proceedings.
 
 #### (b) Delay of request for consultations
 
@@ -40,5 +40,5 @@ Subsec. (b). Pub. L. 98–573, §304(e)(2), added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 ofthis title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
+Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 

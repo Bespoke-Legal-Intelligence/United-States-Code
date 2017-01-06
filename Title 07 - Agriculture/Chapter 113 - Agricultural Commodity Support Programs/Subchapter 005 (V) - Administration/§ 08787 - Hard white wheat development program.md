@@ -38,7 +38,7 @@ In this section:
 
 #### (B) Acreage limitation
 
-&emsp;&emsp;The Secretary shall carry out subparagraph (A) subject to a regional limitation determined by the Secretary on the number of acres for which payments may be received that takes into account planting history and potential planting, but does not exceed a total of 2,900,000 acres or the equivalent volume of production based on a yield of 50 bushels per acre.
+&emsp;&emsp;The Secretary shall carry out subparagraph (A) subject to a regional limitation determined by the Secretary on the number of acres for which payments may be receivedthat takes into account planting history and potential planting, but does not exceed a total of 2,900,000 acres or the equivalent volume of production based on a yield of 50 bushels per acre.
 
 #### (C) Payment limitations
 
@@ -57,4 +57,8 @@ There are authorized to be appropriated to carry out this section $35,000,000 fo
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

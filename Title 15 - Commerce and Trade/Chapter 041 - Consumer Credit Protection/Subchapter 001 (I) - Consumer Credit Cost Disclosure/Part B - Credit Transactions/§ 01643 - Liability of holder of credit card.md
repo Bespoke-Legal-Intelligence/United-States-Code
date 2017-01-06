@@ -34,11 +34,11 @@ Except as provided in this section, a cardholder incurs no liability from the un
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par.\(1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date
 

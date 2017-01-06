@@ -8,7 +8,7 @@
 
 #### (2) Statements by beneficiaries
 
-&emsp;Each person required to file a return under section 6018(b) shall furnish to the Secretaryand to each other person who holds a legal or beneficial interest in the property to which such return relates a statement identifying the information described in paragraph (1).
+&emsp;Each person required to file a return under section 6018(b) shall furnish to the Secretary and to each other person who holds a legal or beneficial interest in the property to which such return relates a statement identifying the information described in paragraph (1).
 
 #### (3) Time for furnishing statement
 
@@ -40,5 +40,5 @@ Section applicable to property with respect to which an estate tax return is fil
 
 #### Prior Provisions
 
-A prior section 6035, act Aug. 16, 1954, ch. 736, 68A Stat. 743; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §340(a), Sept. 3, 1982, 96 Stat. 633, related to information returns of officers, directors, and shareholders of foreign personal holding companies, prior to repeal by Pub. L. 108–357, title IV, §413(c)(26), (d)(1), Oct. 22, 2004, 118 Stat. 1509, 1510, applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+A prior section 6035, act Aug. 16, 1954, ch. 736, 68A Stat. 743; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct.4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §340(a), Sept. 3, 1982, 96 Stat. 633, related to information returns of officers, directors, and shareholders of foreign personal holding companies, prior to repeal by Pub. L. 108–357, title IV, §413(c)(26), (d)(1), Oct. 22, 2004, 118 Stat. 1509, 1510, applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 

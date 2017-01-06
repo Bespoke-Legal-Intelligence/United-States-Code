@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the rate of interest determined under this subsection shall be the annual rate determined by the Secretary under paragraph (2).
+&emsp;For purposes of this section, the rate of interest determined under this subsection shallbe the annual rate determined by the Secretary under paragraph (2).
 
 #### (2) Determination of annual rate
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (G) Special rule for 9th year if negative or zero
 
-&emsp;&emsp;If the amount of the losses treated as paid in the 9th year after the accident year is zero or a negative amount, subparagraphs (C)(ii) and (D) shall be applied by substituting the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year for the losses treated as paid in the 9th year after the accident year.
+&emsp;&emsp;If the amount of the losses treated as paid in the 9th year after the accident year iszero or a negative amount, subparagraphs (C)(ii) and (D) shall be applied by substituting the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year for the losses treated as paid in the 9th year after the accident year.
 
 #### (4) Determination year
 
@@ -206,7 +206,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing appropriate adjustments in the application of this section to a taxpayer having a taxable year which is not the calendar year.
 
-(Added Pub. L. 99–514, title X, §1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, title I, §1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, §11305(b), Nov. 5, 1990, 104 Stat. 1388–451.)
+(Added Pub. L. 99–514, title X, §1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, titleI, §1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, §11305(b), Nov. 5, 1990, 104 Stat. 1388–451.)
 
 #### Amendments
 

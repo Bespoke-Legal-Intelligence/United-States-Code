@@ -98,7 +98,7 @@ For transfer of certain functions relating to claims and litigation, insofar as 
 
 #### Northern Mariana Islands—Applicability of Subsec. (k)
 
-Pub. L. 97–357, title II, §204, Oct. 19, 1982, 96 Stat. 1708, provided: "That the Northern Mariana Islands shall not be considered a foreign country for purposes of subsection (k) of section 2680 of title 28, United States Code, with respect to claims which accrued no more than two years prior to the effective date of this Act \[Oct. 19, 1982\]."
+Pub. L. 97–357, title II, §204, Oct. 19, 1982, 96 Stat. 1708, provided: "That the Northern Mariana Islands shall notbe considered a foreign country for purposes of subsection (k) of section 2680 of title 28, United States Code, with respect to claims which accrued no more than two years prior to the effective date of this Act \[Oct. 19, 1982\]."
 
 #### Termination of National Emergency
 
@@ -106,7 +106,7 @@ Declaration of national emergency in effect on Sept. 14, 1976, was terminated tw
 
 #### Applicability of Subsec. (j)
 
-Joint Res. July 3, 1952, ch. 570, §1(a)(32), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, and Joint Res. June 30, 1953, ch. 172, 67 Stat. 132, provided that subsec. (j) of this section, in addition to coming into full force and effect in time of war, should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R.9029, set out as a note preceding section 1 of Title 50, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond Aug. 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
+Joint Res. July 3, 1952, ch. 570, §1(a)(32), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, and Joint Res. June 30, 1953, ch. 172, 67 Stat. 132, provided that subsec. (j) of this section, in addition to coming into full force and effect in time of war, should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond Aug. 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
 Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsec. (j) of this section until July 3, 1952. This repeal was made effective June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 

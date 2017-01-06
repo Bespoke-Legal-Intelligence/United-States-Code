@@ -6,6 +6,20 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–316, §1, Dec. 16, 2016, 130 Stat. 1593, provided that: "This Act \[enacting section 3273 of this title and provisions set out as a note under section 3273 of this title\] may be cited as the 'Promoting Travel, Commerce, and National Security Act of 2016'."
+
+Pub. L. 114–236, §1, Oct. 7, 2016, 130 Stat. 966, provided that: "This Act \[enacting chapter 238 of this title and sections 10603f and 14043g–1 of Title 42, The Public Health and Welfare, and amending section 10601 of Title 42\] may be cited as the 'Survivors' Bill of Rights Act of 2016'."
+
+Pub. L. 114–222, §1, Sept. 28, 2016, 130 Stat. 852, provided that: "This Act \[enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending section 2333 of this title and section 1605 of Title 28, and enacting provisions set out as notes under section 2333 of this title and section 1605B of Title 28\] may be cited as the 'Justice Against Sponsors of Terrorism Act'."
+
+Pub. L. 114–154, §1, May 16, 2016, 130 Stat. 387, provided that: "This Act \[amending sections 2318 and 2320 of this title and section 959 of Title 21, Food and Drugs\] may be cited as the 'Transnational Drug Trafficking Act of 2015'."
+
+Pub. L. 114–153, §1, May 11, 2016, 130 Stat. 376, provided that: "This Act \[amending sections 1832, 1833, 1835, 1836, 1838, 1839, and 1961 of this title and enacting provisions set out as notes under sections 1832 and 1833 of this title and section 620 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Defend Trade Secrets Act of 2016'."
+
+Pub. L. 114–133, §1, Mar. 9, 2016, 130 Stat. 296, provided that: "This Act \[enacting section 4049 of this title\] may be cited as the 'Eric Williams Correctional Officer Protection Act of 2015'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act \[see Tables for classification\] may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
@@ -24,7 +38,7 @@ Pub. L. 113–12, §1, June 3, 2013, 127 Stat. 448, provided that: "This Act \[a
 
 Pub. L. 112–269, §1, Jan. 14, 2013, 126 Stat. 2442, provided that: "This Act \[amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Foreign and Economic Espionage Penalty Enhancement Act of 2012'."
 
-Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of this title\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
+Pub. L. 112–258, §1, Jan. 10, 2013, 126 Stat. 2414, provided that: "This Act \[amending section 2710 of thistitle\] may be cited as the 'Video Privacy Protection Act Amendments Act of 2012'."
 
 Pub. L. 112–257, §1, Jan. 10, 2013, 126 Stat. 2413, provided that: "This Act \[amending section 3056 of this title\] may be cited as the 'Former Presidents Protection Act of 2012'."
 
@@ -84,7 +98,7 @@ Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: "This Act \
 
 Pub. L. 110–151, §1, Dec. 21, 2007, 121 Stat. 1821, provided that: "This Act \[amending section 1091 of this title\] may be cited as the 'Genocide Accountability Act of 2007'."
 
-Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: "This Act \[enacting section 49 of this title and amending section 2156 of Title 7, Agriculture\] may be cited as the 'Animal Fighting Prohibition Enforcement Act of 2007'."
+Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: "This Act \[enacting section 49 of this title andamending section 2156 of Title 7, Agriculture\] may be cited as the 'Animal Fighting Prohibition Enforcement Act of 2007'."
 
 Pub. L. 109–481, §1, Jan. 12, 2007, 120 Stat. 3673, provided that: "This Act \[enacting section 706a of this title\] may be cited as the 'Geneva Distinctive Emblems Protection Act of 2006'."
 
@@ -98,7 +112,7 @@ Pub. L. 109–374, §1, Nov. 27, 2006, 120 Stat. 2652, provided that: "This Act 
 
 Pub. L. 109–181, §1(a)(1), Mar. 16, 2006, 120 Stat. 285, provided that: "This section \[amending section 2320 of this title, enacting provisions set out as a note under section 2320 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Counterfeiting in Manufactured Goods Act'."
 
-Pub. L. 109–181, §2(a), Mar. 16, 2006, 120 Stat. 288, provided that: "This section \[amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17,Copyrights\] may be cited as the 'Protecting American Goods and Services Act of 2005'."
+Pub. L. 109–181, §2(a), Mar. 16, 2006, 120 Stat. 288, provided that: "This section \[amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17, Copyrights\] may be cited as the 'Protecting American Goods and Services Act of 2005'."
 
 Pub. L. 109–178, §1, Mar. 9, 2006, 120 Stat. 278, provided that: "This Act \[amending section 2709 of this title, section 3414 of Title 12, Banks and Banking, sections 1681u and 1681v of Title 15, Commerce and Trade, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 3414 of Title 12\] may be cited as the 'USA PATRIOT Act Additional Reauthorizing Amendments Act of 2006'."
 
@@ -170,7 +184,7 @@ Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: 
 
 #### Severability
 
-Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision toother persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
+Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
 
 Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: "Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances."
 

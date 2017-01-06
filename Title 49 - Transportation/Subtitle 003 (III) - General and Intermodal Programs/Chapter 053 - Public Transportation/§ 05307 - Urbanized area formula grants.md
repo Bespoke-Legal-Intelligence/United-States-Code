@@ -18,7 +18,7 @@ Grants.—The Secretary may make grants under this section for—
 
 &emsp;(2)
 
-Special rule.—The Secretary may make grants under this section to finance the operating cost of equipment and facilities for usein public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+Special rule.—The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
 &emsp;&emsp;(A) for public transportation systems that operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
 
@@ -192,7 +192,7 @@ Passenger Ferry Grants.—
 
 &emsp;(1)
 
-In general.—The Secretary may make grants under this subsection to recipients forpassenger ferry projects that are eligible for a grant under subsection (a).
+In general.—The Secretary may make grants under this subsection to recipients for passenger ferry projects that are eligible for a grant under subsection (a).
 
 &emsp;(2)
 
@@ -584,7 +584,7 @@ Pub. L. 109–14, §7(m)(2), substituted "June 30, 2005" for "May 31, 2005" in i
 
 Subsec. (b)(3)(A). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation".
 
-Subsec. (b)(4). Pub. L. 109–59, §3009(c)(3), struck out par. (4) which read as follows: "A project for the reconstruction of equipment and material, each of whichafter reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section."
+Subsec. (b)(4). Pub. L. 109–59, §3009(c)(3), struck out par. (4) which read as follows: "A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section."
 
 Subsec. (c)(5). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation".
 
@@ -668,7 +668,7 @@ february 29, 2004" in heading and "April 30, 2004" for "February 29, 2004" in in
 
 Subsec. (b)(2)(A). Pub. L. 108–88, §8(n)(2), inserted "and for the period of October 1, 2003, through February 29, 2004" after "2003," and added cl. (iv).
 
-Subsec. (b)(2)(B). Pub. L. 108–88, §8(n)(3), inserted at end "Each portion of an area not designated as an urbanized area under the 1990 Federal decennial census and eligible to receive funds under subparagraph (A)(iv) shall receive an amount of funds made available to carry out this section that is no less than the amount the portion of the area received under section 5311 in fiscal year 2002."
+Subsec. (b)(2)(B). Pub. L. 108–88, §8(n)(3), inserted at end "Each portion of an area not designated as an urbanized area under the 1990 Federal decennial censusand eligible to receive funds under subparagraph (A)(iv) shall receive an amount of funds made available to carry out this section that is no less than the amount the portion of the area received under section 5311 in fiscal year 2002."
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–232, §1(1), struck out at end "The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000."
 
@@ -746,7 +746,7 @@ Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, require
 
 #### Local Share
 
-Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
+Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004,118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
 
 #### Pilot Program for Intercity Rail Infrastructure Investment From Mass Transit Account of Highway Trust Fund
 

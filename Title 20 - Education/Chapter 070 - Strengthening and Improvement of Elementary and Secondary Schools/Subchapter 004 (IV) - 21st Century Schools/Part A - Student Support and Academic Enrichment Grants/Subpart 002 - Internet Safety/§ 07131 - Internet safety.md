@@ -14,7 +14,7 @@ No funds made available under this part to a local educational agency for an ele
 
 &emsp;(B) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
 
-&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of itscomputers with Internet access that protects against access through such computers to visual depictions that are—
+&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
 
 &emsp;&emsp;(i) obscene; or
 
@@ -26,19 +26,19 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (1) In general
 
-&emsp;The local educational agency with responsibility for a school covered by subsection (a) of this section shall certify the compliance of such school with the requirements of subsection (a) of this section as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
+&emsp;The local educational agency with responsibility for a school covered by subsection (a) shall certify the compliance of such school with the requirements of subsection (a) as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
 
 #### (2) Process
 
 #### (A) Schools with Internet safety policies and technology protection measures in place
 
-&emsp;&emsp;A local educational agency with responsibility for a school covered by subsection (a) of this section that has in place an Internet safety policy meeting the requirements of subsection (a) of this section shall certify its compliance with subsection (a) of this section during each annual program application cycle under this chapter.
+&emsp;&emsp;A local educational agency with responsibility for a school covered by subsection (a) that has in place an Internet safety policy meeting the requirements of subsection (a) shall certify its compliance with subsection (a) during each annual program application cycle under this chapter.
 
 #### (B) Schools without Internet safety policies and technology protection measures in place
 
 #### (i) Certification
 
-&emsp;&emsp;&emsp;A local educational agency with responsibility for a school covered by subsection (a) of this section that does not have in place an Internet safety policy meeting the requirements of subsection (a) of this section—
+&emsp;&emsp;&emsp;A local educational agency with responsibility for a school covered by subsection (a) that does not have in place an Internet safety policy meeting the requirements of subsection (a)—
 
 &emsp;&emsp;&emsp;&emsp;(I) for the first program year after December 21, 2000, in which the local educational agency is applying for funds for such school under this chapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
 
@@ -46,15 +46,15 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (ii) Ineligibility
 
-&emsp;&emsp;&emsp;Any school covered by subsection (a) of this section for which the local educational agency concerned is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this part for such second program year and all subsequent program years until such time as such school comes into compliance with such requirements.
+&emsp;&emsp;&emsp;Any school covered by subsection (a) for which the local educational agency concerned is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this part for such second program year and all subsequent program years until such time as such school comes into compliance with such requirements.
 
 #### (C) Waivers
 
-&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
+&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
 
 #### (c) Disabling during certain use
 
-An administrator, supervisor, or person authorized by the responsible authority under subsection (a) of this section may disable the technology protection measure concerned to enable access for bona fide research or other lawful purposes.
+An administrator, supervisor, or person authorized by the responsible authority under subsection (a) may disable the technology protection measure concerned to enable access for bona fide research or other lawful purposes.
 
 #### (d) Noncompliance
 
@@ -84,7 +84,7 @@ In this subpart:
 
 #### (1) Computer
 
-&emsp;The term "computer" includes any hardware, software, or other technology attachedor connected to, installed in, or otherwise used in connection with a computer.
+&emsp;The term "computer" includes any hardware, software, or other technology attached or connected to, installed in, or otherwise used in connection with a computer.
 
 #### (2) Access to Internet
 
@@ -158,7 +158,7 @@ Section 7136, Pub. L. 89–10, title IV, §4126, as added Pub. L. 107–110, tit
 
 Section 7137, Pub. L. 89–10, title IV, §4127, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756, related to the School Security Technology and Resource Center.
 
-Section 7138, Pub. L. 89–10, title IV, §4128, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756, related to the National Center for School and Youth Safety.
+Section 7138, Pub. L. 89–10, title IV, §4128, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756,related to the National Center for School and Youth Safety.
 
 Section 7139, Pub. L. 89–10, title IV, §4129, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1757, authorized grants to reduce alcohol abuse.
 

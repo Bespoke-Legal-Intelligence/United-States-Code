@@ -6,7 +6,7 @@ The Secretary may, directly or through grants or contracts, conduct research and
 
 &emsp;(1) studies and surveys to determine needs for increased or improved instruction in foreign language, area studies, or other international fields, including the demand for foreign language, area, and other international specialists in government, education, and the private sector;
 
-&emsp;(2) studies and surveys to assess the utilization of graduates of programs supported under this subchapter by governmental, educational, and private sector organizations and other studies assessing the outcomes and effectiveness of programs so supported;
+&emsp;(2) studies and surveys to assess the utilization of graduates of programs supported underthis subchapter by governmental, educational, and private sector organizations and other studies assessing the outcomes and effectiveness of programs so supported;
 
 &emsp;(3) evaluation of the extent to which programs assisted under this subchapter that address national needs would not otherwise be offered;
 

@@ -1,0 +1,6 @@
+### §1300h–5. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–420, §7, Sept. 8, 1988, 102 Stat. 1579, which related to land acquisition and establishment of Federal reservation, was omitted from the Code as being of special and not general application.
+

@@ -6,9 +6,9 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (b) Allotment and provision and payment
 
-(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI \[subchapter X\] grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all title VI \[subchapter X\] grantees under all such plans and applications approved for such preceding fiscal year.
+(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year undersubsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI \[subchapter X\] grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all title VI \[subchapter X\] grantees under all such plans and applications approved for such preceding fiscal year.
 
-(2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X of this chapter for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI \[subchapter X\] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI \[subchapter X\] grantee in the fiscal year for which the application was approved.
+(2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI \[subchapter X\] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI \[subchapter X\] grantee in the fiscal year for which the application was approved.
 
 #### (c) Donation of products
 
@@ -34,15 +34,17 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) $164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.
 
 #### (f) Dissemination of information
 
 In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers under subsection (c).
 
-(Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G, title II, §217(a), Feb. 20, 2003, 117 Stat. 325; Pub. L. 109–365, title III, §309, Oct. 17, 2006, 120 Stat. 2545; Pub. L. 110–19, §2, Apr. 23, 2007, 121 Stat. 84.)
+(Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G,title II, §217(a), Feb. 20, 2003, 117 Stat. 325; Pub. L. 109–365, title III, §309, Oct. 17, 2006, 120 Stat. 2545; Pub. L. 110–19, §2, Apr. 23, 2007, 121 Stat. 84; Pub. L. 114–144, §4(f), Apr. 19, 2016, 130 Stat. 339.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–144, which directed substitution of "$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019." for "such sums" and all that followed through the period at the end, was executed by making the substitution for "such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years." to reflect the probable intent of Congress.
 
 <b>2007</b>—Subsec. (b)(3). Pub. L. 110–19, §2(1), struck out par. (3) which read as follows: "State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts."
 
@@ -114,7 +116,7 @@ Subsec. (f). Pub. L. 106–501, §309(2), redesignated subsec. (d) as (f).
 
 <b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted "shall maintain—" for "shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991." and added cls. (i) and (ii).
 
-Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted "$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995" for "$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991".
+Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted "$250,000,000 for fiscal year 1992, $310,000,000 forfiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995" for "$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991".
 
 Subsec. (c)(2). Pub. L. 102–375, §310(2)(B), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), in" for "In", and added subpar. (B).
 

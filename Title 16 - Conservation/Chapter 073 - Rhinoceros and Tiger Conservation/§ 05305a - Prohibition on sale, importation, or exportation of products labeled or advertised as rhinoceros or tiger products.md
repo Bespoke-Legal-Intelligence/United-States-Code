@@ -8,13 +8,13 @@ A person shall not sell, import, or export, or attempt to sell, import, or expor
 
 #### (1) Criminal penalty
 
-&emsp;A person engaged in business as an importer, exporter, or distributor that knowingly violates subsection (a) of this section shall befined under title 18, imprisoned not more than 6 months, or both.
+&emsp;A person engaged in business as an importer, exporter, or distributor that knowingly violates subsection (a) shall be fined under title 18, imprisoned not more than 6 months, or both.
 
 #### (2) Civil penalties
 
 #### (A) In general
 
-&emsp;&emsp;A person that knowingly violates subsection (a) of this section, and a person engaged in business as an importer, exporter, or distributor that violates subsection (a) of this section, may be assessed a civil penalty by the Secretary of not more than $12,000 for each violation.
+&emsp;&emsp;A person that knowingly violates subsection (a), and a person engaged in business as an importer, exporter, or distributor that violates subsection (a), may be assessed a civil penalty by the Secretary of not more than $12,000 for each violation.
 
 #### (B) Manner of assessment and collection
 
@@ -22,7 +22,7 @@ A person shall not sell, import, or export, or attempt to sell, import, or expor
 
 #### (c) Products, items, and substances
 
-Any product, item, or substance sold, imported, or exported, or attempted to be sold, imported, or exported, in violation of this section or any regulation issued under this section shall be subject to seizure and forfeiture to the United States.
+Any product, item, or substance sold, imported, or exported, or attempted to be sold, imported, or exported, in violation of this section or any regulation issued under this section shallbe subject to seizure and forfeiture to the United States.
 
 #### (d) Regulations
 

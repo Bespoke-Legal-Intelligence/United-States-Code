@@ -1,6 +1,6 @@
 ### §§945 to 947. Repealed. Pub. L. 98–426, §25, Sept. 28, 1984, 98 Stat. 1654
 
-Section 945, act Mar. 4, 1927, ch. 509, §45, 44 Stat. 1445, provided for creation of a fund to provide for paymentof all expenses connected with administration of this chapter. See section 944 of this title.
+Section 945, act Mar. 4, 1927, ch. 509, §45, 44 Stat. 1445, provided for creation of a fund to provide for payment of all expenses connected with administration of this chapter. See section 944 of this title.
 
 Section 946, act Mar. 4, 1927, ch. 509, §46, 44 Stat. 1445, appropriated $250,000 to be available for expenses of administration of this chapter for fiscal years ending June 30, 1927, and June 30, 1928.
 

@@ -22,6 +22,8 @@
 | [1524\.](%C2%A7%2001524%20-%20Agreements%20to%20provide%20support%20to%20vaccination%20programs%20of%20Department%20of%20Health%20and%20Human%20Services.md) | Agreements to provide support to vaccination programs of Department of Health and Human Services. |
 | [1525\.](%C2%A7%2001525%20-%20Assistance%20for%20facilities%20subject%20to%20inspection%20under%20Chemical%20Weapons%20Convention.md) | Assistance for facilities subject to inspection under Chemical Weapons Convention. |
 | [1526\.](%C2%A7%2001526%20-%20Effective%20use%20of%20resources%20for%20nonproliferation%20programs.md) | Effective use of resources for nonproliferation programs. |
+| [1527\.](%C2%A7%2001527%20-%20Improved%20biosafety%20for%20handling%20of%20select%20agents%20and%20toxins.md) | Improved biosafety for handling of select agents and toxins. |
+| [1528\.](%C2%A7%2001528%20-%20Congressional%20notification%20of%20biological%20select%20agent%20and%20toxin%20theft%2C%20loss%2C%20or%20release%20involving%20the%20Department%20of%20Defense.md) | Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,3 +52,5 @@
 - [&sect; 01524 - Agreements to provide support to vaccination programs of Department of Health and Human Services](%C2%A7%2001524%20-%20Agreements%20to%20provide%20support%20to%20vaccination%20programs%20of%20Department%20of%20Health%20and%20Human%20Services.md)
 - [&sect; 01525 - Assistance for facilities subject to inspection under Chemical Weapons Convention](%C2%A7%2001525%20-%20Assistance%20for%20facilities%20subject%20to%20inspection%20under%20Chemical%20Weapons%20Convention.md)
 - [&sect; 01526 - Effective use of resources for nonproliferation programs](%C2%A7%2001526%20-%20Effective%20use%20of%20resources%20for%20nonproliferation%20programs.md)
+- [&sect; 01527 - Improved biosafety for handling of select agents and toxins](%C2%A7%2001527%20-%20Improved%20biosafety%20for%20handling%20of%20select%20agents%20and%20toxins.md)
+- [&sect; 01528 - Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense](%C2%A7%2001528%20-%20Congressional%20notification%20of%20biological%20select%20agent%20and%20toxin%20theft%2C%20loss%2C%20or%20release%20involving%20the%20Department%20of%20Defense.md)

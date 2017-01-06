@@ -14,7 +14,7 @@
 
 (f) The Secretary may prescribe such regulations relating to eligibility for insurance under this section, the maximum amount of insurance, the effective date of insurance, the maximum duration of insurance, and other pertinent matters not specifically provided for in this section as the Secretary determines are in the best interest of veterans or the United States.
 
-(g) The amount of the insurance in force at any time shall be the amount necessary to paythe mortgage indebtedness in full, except as otherwise limited by subsection (b) of this section or regulations prescribed by the Secretary under this section.
+(g) The amount of the insurance in force at any time shall be the amount necessary to pay the mortgage indebtedness in full, except as otherwise limited by subsection (b) of this section or regulations prescribed by the Secretary under this section.
 
 (h) The Secretary shall issue to each individual insured under this section a certificate setting forth the benefits to which the individual is entitled under the insurance.
 

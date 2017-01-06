@@ -50,7 +50,7 @@ Not later than 2 years after December 19, 2007, the Administrator, in consultati
 
 &emsp;(6) assists States and the public in better understanding and improving the environmental health of children; and
 
-&emsp;(7) takes into account the special vulnerability of children in low-income and minority communities to exposures from contaminants, hazardous substances, and pollutant emissions.
+&emsp;(7) takes into account the special vulnerability of children in low-income and minoritycommunities to exposures from contaminants, hazardous substances, and pollutant emissions.
 
 #### (b) Public outreach
 

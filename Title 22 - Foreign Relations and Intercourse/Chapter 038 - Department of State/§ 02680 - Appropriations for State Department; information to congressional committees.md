@@ -56,7 +56,7 @@ Pub. L. 95–426, title I, §122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub.
 
 &emsp;"(1) international political, economic, and other studies prepared systematically by analysts of the Department of State as needed background information for executive branch policymakers could be similarly valuable to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate in fulfilling their responsibilities; and
 
-&emsp;"(2) a formal information-sharing arrangement between the Department of State and such congressional committees could therefore serve the national interest, provided that controls on dissemination are established which insure that neither the process of analysis nor necessary confidentiality is jeopardized."
+&emsp;"(2) a formal information-sharing arrangement between the Department of State and such congressional committees could therefore serve the nationalinterest, provided that controls on dissemination are established which insure that neither the process of analysis nor necessary confidentiality is jeopardized."
 
 #### Congressional Purpose Respecting Laws Relating to Department of State and United States Information Agency; Foreign Relations; and Authorization of Appropriations
 

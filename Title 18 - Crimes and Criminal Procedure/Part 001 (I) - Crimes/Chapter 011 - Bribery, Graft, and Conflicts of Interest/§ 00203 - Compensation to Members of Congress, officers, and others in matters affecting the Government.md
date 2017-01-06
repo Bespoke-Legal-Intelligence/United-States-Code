@@ -36,7 +36,7 @@
 
 > subject to approval by the Government official responsible for appointment to his position.
 
-(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the headof the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
+(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 
 (f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 91–405, §204(d)(3), included reference to Delegate.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: "The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: "The amendments made by this section\[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
 
 #### Effective Date of 1970 Amendment
 
@@ -106,7 +106,7 @@ Authority of President under subsec. (d) of this section to grant exemptions or 
 
 #### Exemptions
 
-Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or ofthe District of Columbia, as to whom they are no longer applicable."
+Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable."
 
 #### Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences
 

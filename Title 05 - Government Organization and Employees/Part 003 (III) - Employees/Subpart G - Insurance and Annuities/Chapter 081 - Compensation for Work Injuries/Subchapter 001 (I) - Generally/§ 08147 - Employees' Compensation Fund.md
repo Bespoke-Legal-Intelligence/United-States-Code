@@ -28,7 +28,7 @@ Sept. 12, 1950, ch. 946, §301(92), 64 Stat. 844.
 
 Sept. 13, 1960, Pub. L. 86–767, §209, 74 Stat. 909.
 
-In subsection (b), the words "each agency and instrumentality of the United States" are substituted for "each executive department and each agency or instrumentality of the United States or other establishment". The words "(hereinafter called 'agency')" are omitted as unnecessary because "agency or instrumentality" is substituted for "agency" in the remainder of this subsection and in subsection (c). The words "occurring after December 1, 1960" are omitted as executed.
+In subsection (b), the words "each agency and instrumentality of the United States" are substituted for "each executive department and each agency or instrumentality of the United States or other establishment". The words "(hereinafter called 'agency')" areomitted as unnecessary because "agency or instrumentality" is substituted for "agency" in the remainder of this subsection and in subsection (c). The words "occurring after December 1, 1960" are omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

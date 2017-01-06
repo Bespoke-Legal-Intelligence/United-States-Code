@@ -8,7 +8,7 @@
 
 (d) As used in this section—
 
-&emsp;(1) "nuclear weapons program" means a program or plan for the development, acquisition,or production of any nuclear weapon or weapons;
+&emsp;(1) "nuclear weapons program" means a program or plan for the development, acquisition, or production of any nuclear weapon or weapons;
 
 &emsp;(2) "weapons of mass destruction program" means a program or plan for the development, acquisition, or production of any weapon or weapons of mass destruction (as defined in section 2332a(c));
 

@@ -18,7 +18,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 &emsp;(2)(A) The following shall be ex officio members of each Advisory Board:
 
-&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the Under Secretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
+&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the UnderSecretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
 
 &emsp;&emsp;(ii) Such other officers and employees of the United States as the Secretary determines necessary for the Advisory Board to carry out its functions.
 
@@ -30,7 +30,7 @@ Members of an Advisory Board who are officers or employees of the Federal Govern
 
 #### (d) Term of office; vacancy
 
-The term of office of an appointed member of an Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in an Advisory Board,the Secretary shall make an appointment to fill the vacancy not later than 90 days from the date the vacancy occurred.
+The term of office of an appointed member of an Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in an Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days from the date the vacancy occurred.
 
 #### (e) Chairman
 
@@ -60,9 +60,9 @@ In carrying out its functions, each Advisory Board may establish subcommittees, 
 
 #### (j) Termination of predecessor boards; time within which to appoint members
 
-The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
+The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a). The Secretary shall make appointments to the Advisory Boards established under subsection (a) before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d), to the Boards established under subsection (a) for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a).
 
-(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
+(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
 

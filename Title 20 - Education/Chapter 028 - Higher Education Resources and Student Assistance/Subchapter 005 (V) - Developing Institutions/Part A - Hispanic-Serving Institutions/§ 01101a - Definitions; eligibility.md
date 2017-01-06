@@ -14,7 +14,7 @@ For the purpose of this subchapter:
 
 &emsp;&emsp;(A) an institution of higher education—
 
-&emsp;&emsp;&emsp;(i) that has an enrollment of needy students as required by subsection (b) of this section;
+&emsp;&emsp;&emsp;(i) that has an enrollment of needy students as required by subsection (b);
 
 &emsp;&emsp;&emsp;(ii) except as provided in section 1103a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
 
@@ -74,7 +74,7 @@ For the purpose of this subchapter:
 
 For the purpose of this subchapter, the term "enrollment of needy students" means an enrollment at an institution with respect to which—
 
-&emsp;(1) at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title); or
+&emsp;(1) at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title); or
 
 &emsp;(2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which the determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title.
 

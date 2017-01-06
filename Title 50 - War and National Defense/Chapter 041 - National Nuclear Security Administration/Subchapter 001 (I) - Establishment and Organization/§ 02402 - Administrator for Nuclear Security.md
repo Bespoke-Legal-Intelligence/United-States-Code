@@ -68,7 +68,7 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
+(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat.1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Selection Criteria.—(1) The projects selected for the pilot program shall—
 
 &emsp;"(D) The commitment shown by non-Federal organizations to the project, based primarily on the nature and amount of the financial and other resources they will risk on the project.
 
-&emsp;"(E) The extent to which the project involves a wide variety and number of institutions of higher education, nonprofit institutions, and technology-related business concerns that can support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuingbasis and that will make substantive contributions to achieving the goals of the project.
+&emsp;"(E) The extent to which the project involves a wide variety and number of institutions of higher education, nonprofit institutions, and technology-related business concerns that can support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis and that will make substantive contributions to achieving the goals of the project.
 
 &emsp;"(F) The extent of participation in the project by agencies of State, tribal, or local governments that will make substantive contributions to achieving the goals of the project.
 

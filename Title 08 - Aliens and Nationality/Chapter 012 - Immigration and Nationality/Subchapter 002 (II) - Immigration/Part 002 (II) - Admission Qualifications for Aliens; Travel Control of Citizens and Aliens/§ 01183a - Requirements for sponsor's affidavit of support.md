@@ -112,7 +112,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (2) Income requirement case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5)(A).
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph\(1)(E) but accepts joint and several liability together with an individual under paragraph (5)(A).
 
 #### (3) Active duty armed services case
 
@@ -182,7 +182,7 @@ For purposes of this section, the term "Federal poverty line" means the level of
 
 Subsection (e), referred to in subsec. (a)(1)(B), does not define "means-tested public benefit".
 
-The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -238,47 +238,11 @@ Treatment of Fees.—Fees collected under the authority of subsection (a) shall 
 
 #### Pilot Programs To Require Bonding
 
-Pub. L. 104–208, div. C, title V, §564, Sept. 30, 1996, 110 Stat. 3009–683, provided that:
-
-"(a)
-
-In General.—
-
-&emsp;"(1) The Attorney General of the United States shall establish a pilot program in 5 district offices of the Immigration and Naturalization Service to require aliens to post a bond in addition to the affidavit requirements under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] and the deeming requirements under section 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1631). Any pilot program established pursuant to this subsection shall require an alien to post a bond in an amount sufficient to cover the cost of benefits described in section 213A(d)(2)(B) of the Immigration and Nationality Act (as amended by section 551(a) of this division) for the alien and the alien's dependents and shall remain in effect until the departure, naturalization, or death of the alien.
-
-&emsp;"(2) Suit on any such bonds may be brought under the terms and conditions set forth in section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
-
-"(b)
-
-Regulations.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall issue regulations for establishing the pilot programs, including—
-
-&emsp;"(1) criteria and procedures for—
-
-&emsp;&emsp;"(A) certifying bonding companies for participation in the program, and
-
-&emsp;&emsp;"(B) debarment of any such company that fails to pay a bond, and
-
-&emsp;"(2) criteria for setting the amount of the bond to assure that the bond is in an amount that is not less than the cost of providing benefits under the programs described in subsection (a)(1) for the alien and the alien's dependents for 6 months.
-
-"(c)
-
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.
-
-"(d)
-
-Annual Reporting Requirement.—Beginning 9 months after the date of implementation of the pilot program, the Attorney General shall submit annually to the Committees on the Judiciary of the House of Representatives and the Senate a report on the effectiveness of the program. The Attorney General shall submit a final evaluation of the program not later than 1 year after termination.
-
-"(e)
-
-Sunset.—The pilot program under this section shall terminate after 3 years of operation.
-
-"(f)
-
-Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1183 of this title.\]"
+Pub. L. 104–208, div. C, title V, §564, Sept. 30, 1996, 110 Stat. 3009–683, directed the Attorney General to establish a pilot program in 5 district offices of the Immigration and Naturalization Service, to terminate after 3 years of operation, requiring aliens to post a bond in addition to the affidavit of support requirements under this section and the deeming requirements under section 1631 of this title.
 
 #### Benefits Not Subject to Reimbursement
 
-Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: "Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: "Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigrationand Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;"(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 
@@ -294,7 +258,7 @@ Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended
 
 &emsp;"(7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
-&emsp;"(8) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq., 42 U.S.C. 2751 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
+&emsp;"(8) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
 
 &emsp;"(9) Benefits under the Head Start Act \[42 U.S.C. 9831 et seq.\].
 

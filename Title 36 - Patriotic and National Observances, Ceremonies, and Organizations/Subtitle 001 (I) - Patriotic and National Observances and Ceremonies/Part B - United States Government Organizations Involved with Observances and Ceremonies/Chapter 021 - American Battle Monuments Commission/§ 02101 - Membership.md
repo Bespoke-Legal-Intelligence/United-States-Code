@@ -58,7 +58,7 @@ In subsection (a), the words "from time to time" are omitted as unnecessary.
 
 In subsection (b), before clause (1), the text of 36:121 (last par.) is omitted as executed. In clauses (2) and (3), the word "same" is omitted as unnecessary. In clause (2), the words "authorized to be paid" are substituted for "prescribed" for consistency with clause (3) and 37:405.
 
-Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading "American Battle Monuments Commission" in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words "in the same way as" are substituted for "as provided for" for clarity and consistency in the revised title.
+Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading "AmericanBattle Monuments Commission" in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words "in the same way as" are substituted for "as provided for" for clarity and consistency in the revised title.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 It is the purpose of this subchapter to authorize grants and contracts to—
 
-&emsp;(1)(A) provide academic training to ensure that skilled personnel are available to provide rehabilitation services to individuals with disabilities through vocational, medical, social,and psychological rehabilitation programs (including supported employment programs), through economic and business development programs, through independent living services programs, and through client assistance programs; and
+&emsp;(1)(A) provide academic training to ensure that skilled personnel are available to provide rehabilitation services to individuals with disabilities through vocational, medical, social, and psychological rehabilitation programs (including supported employment programs), through economic and business development programs, through independent living services programs, and through client assistance programs; and
 
 &emsp;(B) provide training to maintain and upgrade basic skills and knowledge of personnel (including personnel specifically trained to deliver services to individuals with disabilities whose employment outcome is self-employment or telecommuting) employed to provide state-of-the-art service delivery and rehabilitation technology services;
 

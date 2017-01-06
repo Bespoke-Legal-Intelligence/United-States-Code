@@ -98,7 +98,7 @@
 
 #### (3) Bills qualifying for trade authorities procedures
 
-&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 of this title applies to implementing bills under that section. A billto which this paragraph applies shall hereafter in this chapter be referred to as an "implementing bill".
+&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 of this title applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter in this chapter be referred to as an "implementing bill".
 
 &emsp;(B) The provisions referred to in subparagraph (A) are—
 

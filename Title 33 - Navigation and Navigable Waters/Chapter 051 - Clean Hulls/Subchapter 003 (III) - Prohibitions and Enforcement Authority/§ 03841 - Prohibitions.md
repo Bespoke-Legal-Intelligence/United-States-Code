@@ -30,7 +30,7 @@ Except as provided in subsection (c), no vessel shall bear on its hull or outer 
 
 &emsp;&emsp;(A) the sale, distribution, or use pursuant to any agreement between the Administrator and any person that results in an earlier prohibition or cancellation date than specified in this chapter; or
 
-&emsp;&emsp;(B) the manufacture, processing, formulation, sale, distribution, or use of organotin or antifouling systems containing organotinused or intended for use only for sonar domes or in conductivity sensors in oceanographic instruments.
+&emsp;&emsp;(B) the manufacture, processing, formulation, sale, distribution, or use of organotin or antifouling systems containing organotin used or intended for use only for sonar domes or in conductivity sensors in oceanographic instruments.
 
 (Pub. L. 111–281, title X, §1031, Oct. 15, 2010, 124 Stat. 3027.)
 

@@ -1,8 +1,8 @@
 ### §191. Regulation of anchorage and movement of vessels during national emergency
 
-Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
+Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual oranticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
 
-Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of theinternational relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
+Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of the international relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
 
 &emsp;(a) to govern the anchorage and movement of any foreign-flag vessels in the territorial waters of the United States, to inspect such vessels at any time, to place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of rights and obligations of the United States, may take for such purposes full possession and control of such vessels and remove therefrom the officers and crew thereof, and all other persons not especially authorized by him to go or remain on board thereof;
 
@@ -54,7 +54,7 @@ A proclamation was issued under this section on December 3, 1917.
 
 #### Separability
 
-Act June 15, 1917, ch. 30, title XIII, §4, 40 Stat. 231, provided: "If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered."
+Act June 15, 1917, ch. 30, title XIII, §4, 40 Stat. 231, provided: "If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confinedin its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered."
 
 #### Transfer of Functions
 
@@ -64,7 +64,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, asamended, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under section 301 of Title 3, The President.
 
 #### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
 
@@ -95,6 +95,8 @@ Sec. 6. This proclamation shall be immediately transmitted to the Congress and p
 IN WITNESS WHEREOF, I have hereunto set my hand this first day of March, in the year of our Lord nineteen hundred and ninety-six, and of the Independence of the United States of America the two hundred and twentieth.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Provisions of Proc. No. 6867 superseded to the extent of inconsistency with provisions of Procs. No. 7757 and 9398, see Sec. 6 of Proc. No. 7757 and Sec. 6 of Proc. No. 9398, set out below.\]
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
@@ -174,7 +176,7 @@ WHEREAS the Cuban government has recently and over the last year taken a series 
 
 WHEREAS U.S. concerns about these unforeseen Cuban government actions that threaten to disturb international relations were sufficiently grave that on May 8, 2003, the United States warned the Cuban government that political manipulations that resulted in a mass migration would be viewed as a "hostile act;"
 
-NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\], and section 301 of title 3, United States Code, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\], and to secure the observance of the rights and obligations of the United States, hereby authorize and direct the Secretary of Homeland Security (the "Secretary") to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and authorize and approve the Secretary's issuance of such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\], and section 301 of title 3, United States Code, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\],and to secure the observance of the rights and obligations of the United States, hereby authorize and direct the Secretary of Homeland Security (the "Secretary") to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and authorize and approve the Secretary's issuance of such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
 
 Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions, or result in unauthorized transactions, and thereby threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
 
@@ -193,6 +195,60 @@ Sec. 7. This proclamation shall be immediately transmitted to the Congress and p
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of February, in the year of our Lord two thousand four, and of the Independence of the United States of America the two hundred and twenty-eighth.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Provisions of Proc. No. 7757 superseded to the extent of inconsistency with provisions of Proc. No. 9398, see Sec. 6 of Proc. No. 9398, set out below.\]
+
+#### Proc. No. 9398. Modifying and Continuing the National Emergency With Respect to Cuba and Continuing To Authorize the Regulation of the Anchorage and Movement of Vessels
+
+Proc. No. 9398, Feb. 24, 2016, 81 F.R. 9737, provided:
+
+By the authority vested in me by the Constitution and the laws of the United States of America, in order to modify and continue the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\], and expanded by Proclamation 7757 of February 26, 2004 \[set out above\], in light of the need to continue the national emergency based on a disturbance or threatened disturbance of the international relations of the United States related to Cuba, and,
+
+WHEREAS the descriptions of the national emergency set forth in Proclamations 6867 and 7757 no longer reflect the international relations of the United States related to Cuba;
+
+WHEREAS longstanding U.S. policy towards Cuba had, at times, tended to isolate the United States from regional and international partners, constrained our ability to influence outcomes throughout the Western Hemisphere, and impaired the use of the full range of tools available to the United States to promote positive change in Cuba;
+
+WHEREAS the following descriptions accurately describe the national emergency with respect to Cuba;
+
+WHEREAS the United States and Cuba reestablished diplomatic relations and opened embassies in each other's capitals on July 20, 2015, and the United States continues to pursue the progressive normalization of relations while aspiring towards a peaceful, prosperous, and democratic Cuba;
+
+WHEREAS the United States has committed to work with the Government of Cuba on matters of mutual concern that advance U.S. national interests, such as migration, human rights, counter-narcotics, environmental protection, and trafficking in persons, among other issues;
+
+WHEREAS the United States is committed to supporting safe, orderly, and legal migration from Cuba through the effective implementation of the 1994–95 U.S.-Cuba Migration Accords;
+
+WHEREAS the Cuban economy is in a relatively weak state, contributing to an outflow of its nationals towards the United States and neighboring countries;
+
+WHEREAS the overarching objective of U.S. policy is stability in the region, and the outflow of Cuban nationals may have a destabilizing effect on the United States and its neighboring countries;
+
+WHEREAS it is United States policy that a mass migration from Cuba would endanger the security of the United States by posing a disturbance or threatened disturbance of the international relations of the United States;
+
+WHEREAS the United States continues to maintain an embargo with respect to Cuba;
+
+WHEREAS the unauthorized entry of vessels subject to the jurisdiction of the United States into Cuban territorial waters is in violation of U.S. law and contrary to U.S. policy;
+
+WHEREAS the unauthorized entry of United States-registered vessels into Cuban territorial waters is detrimental to the foreign policy of the United States, and counter to the purpose of Executive Order 12807, which is to ensure, among other things, safe, orderly, and legal migration;
+
+WHEREAS the possibility of large-scale unauthorized entries of United States-registered vessels would disturb the international relations of the United States by facilitating a possible mass migration of Cuban nationals;
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201, 202, and 301 of the National Emergencies Act (50 U.S.C. 1601 et seq.), and section 301 of title 3, United States Code, in order to modify the scope of the national emergency declared in Proclamations 6867 and 7757, and to secure the observance of the rights and obligations of the United States, hereby continue the national emergency with regard to Cuba as set forth above and authorize and direct the Secretary of Homeland Security (the "Secretary") to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and authorize and approve the Secretary's issuance of such rules and regulations, as authorized by the Act of June 15, 1917. Accordingly, I hereby direct:
+
+Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions, or result in unauthorized transactions, and thereby threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
+
+Sec. 2. The Secretary is authorized, to the extent consistent with international law, to inspect any vessel, foreign or domestic, in the territorial waters of the United States, at any time; to place guards on any such vessel; and, with my consent expressly hereby granted, take full possession and control of any such vessel and remove the officers and crew and all other persons not specifically authorized by the Secretary to go or remain on board the vessel when necessary to secure the rights and obligations of the United States.
+
+Sec. 3. The Secretary may request assistance from such departments, agencies, officers, or instrumentalities of the United States as the Secretary deems necessary to carry out the purposes of this proclamation. Such departments, agencies, officers, or instrumentalities shall, consistent with other provisions of law and to the extent practicable, provide requested assistance.
+
+Sec. 4. The Secretary may seek assistance from State and local authorities in carrying out the purposes of this proclamation. Because State and local assistance may be essential for an effective response to this emergency, I urge all State and local officials to cooperate with Federal authorities and to take all actions within their lawful authority necessary to prevent the unauthorized departure of vessels intending to enter Cuban territorial waters.
+
+Sec. 5. All powers and authorities delegated by this proclamation to the Secretary may be delegated by the Secretary to other officers and agents of the United States Government unless otherwise prohibited by law.
+
+Sec. 6. Any provisions of Proclamation 6867 of March 1, 1996, and expanded by Proclamation 7757 of February 26, 2004, that are inconsistent with the provisions of this proclamation are superseded to the extent of such inconsistency.
+
+Sec. 7. This proclamation shall be immediately transmitted to the Congress and published in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-fourth day of February, in the year of our Lord two thousand sixteen, and of the Independence of the United States of America the two hundred and fortieth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,11 +30,11 @@
 
 #### (b) Existing designees
 
-Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
+Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
 
 #### (c) Suspension or termination of designation
 
-The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a) of this section.
+The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
 
 #### (d) Duties
 
@@ -44,7 +44,7 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 &emsp;(2) to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title.
 
-(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208; Pub. L. 113–188, title II, §201(a), Nov. 26, 2014, 128 Stat. 2018.)
+(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amendedPub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208; Pub. L. 113–188, title II, §201(a), Nov. 26, 2014, 128 Stat. 2018.)
 
 #### Amendments
 

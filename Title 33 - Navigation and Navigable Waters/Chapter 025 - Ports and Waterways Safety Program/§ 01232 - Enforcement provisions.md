@@ -2,7 +2,7 @@
 
 #### (a) Civil penalty
 
-(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing, to have violated this chapter or a regulation issued hereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violationshall constitute a separate violation. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing, to have violated this chapter or a regulation issued hereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent and gravity of theprohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
 (2) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section.
 
@@ -16,7 +16,7 @@
 
 #### (c) In rem liability
 
-Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 
 #### (d) Injunction
 

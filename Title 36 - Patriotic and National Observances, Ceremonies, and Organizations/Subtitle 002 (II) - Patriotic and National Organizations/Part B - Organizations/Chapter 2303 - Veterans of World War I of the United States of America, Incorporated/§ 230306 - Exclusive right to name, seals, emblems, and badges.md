@@ -1,6 +1,6 @@
 ### §230306. Exclusive right to name, seals, emblems, and badges
 
-The corporation and its subordinate divisions have the exclusive right to use the name "Veterans of World War I of the United States of America, Incorporated". The corporation has the exclusive right to use, and to allow others to use,seals, emblems, and badges the corporation adopts.
+The corporation and its subordinate divisions have the exclusive right to use the name "Veterans of World War I of the United States of America, Incorporated". The corporation has the exclusive right to use, and to allow others to use, seals, emblems, and badges the corporation adopts.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1484.)
 

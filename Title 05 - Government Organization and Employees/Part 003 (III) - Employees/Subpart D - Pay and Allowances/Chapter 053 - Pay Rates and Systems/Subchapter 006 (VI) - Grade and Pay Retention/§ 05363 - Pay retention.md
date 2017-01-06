@@ -16,7 +16,7 @@
 
 (B) This section shall cease to apply to an employee to whom subparagraph (A) applies once the appropriate rate of basic pay has been determined for such employee under this paragraph.
 
-(2)(A) If, as a result of any event described in subsection (a), the employee's former rate of basic pay is greater than the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at a rate equal to the lesser of—
+(2)(A) If, as a result of any event described in subsection (a), the employee's former rate of basic pay is greater than the maximum rate ofbasic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at a rate equal to the lesser of—
 
 &emsp;(i) the employee's former rate of basic pay; or
 

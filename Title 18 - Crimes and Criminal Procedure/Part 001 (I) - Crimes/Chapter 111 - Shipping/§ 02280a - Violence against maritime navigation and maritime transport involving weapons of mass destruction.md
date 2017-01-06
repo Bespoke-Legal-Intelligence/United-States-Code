@@ -18,7 +18,7 @@ In general.—Subject to the exceptions in subsection (c), a person who unlawful
 
 &emsp;&emsp;(B) transports on board a ship—
 
-&emsp;&emsp;&emsp;(i) any explosive or radioactive material, knowing that it is intended to be used to cause, or in a threat to cause, death to any person or serious injury or damage for the purpose of intimidating a population, or compelling a government or an international organization to do or to abstain from doing any act;
+&emsp;&emsp;&emsp;(i) any explosive or radioactive material, knowing that it is intended to be used tocause, or in a threat to cause, death to any person or serious injury or damage for the purpose of intimidating a population, or compelling a government or an international organization to do or to abstain from doing any act;
 
 &emsp;&emsp;&emsp;(ii) any biological, chemical, or nuclear weapon or other nuclear explosive device, knowing it to be a biological, chemical, or nuclear weapon or other nuclear explosive device;
 

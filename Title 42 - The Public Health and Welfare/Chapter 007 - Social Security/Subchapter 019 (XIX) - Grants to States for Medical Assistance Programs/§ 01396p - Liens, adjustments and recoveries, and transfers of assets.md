@@ -18,7 +18,7 @@
 
 &emsp;(A) the spouse of such individual,
 
-&emsp;(B) such individual's child who is under age 21, or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title, or
+&emsp;(B) such individual's child who is under age 21, or (with respect to States eligible to participate in the State program established under subchapter XVI) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title, or
 
 &emsp;(C) a sibling of such individual (who has an equity interest in such home and who was residing in such individual's home for a period of at least one year immediately before the date of the individual's admission to the medical institution),
 
@@ -30,7 +30,7 @@
 
 (1) No adjustment or recovery of any medical assistance correctly paid on behalf of an individual under the State plan may be made, except that the State shall seek adjustment or recovery of any medical assistance correctly paid on behalf of an individual under the State plan in the case of the following individuals:
 
-&emsp;(A) In the case of an individual described in subsection (a)(1)(B) of this section, the State shall seek adjustment or recovery from the individual's estate or upon sale of the property subject to a lien imposed on account of medical assistance paid on behalf of the individual.
+&emsp;(A) In the case of an individual described in subsection (a)(1)(B), the State shall seek adjustment or recovery from the individual's estate or upon sale of the property subject to a lien imposed on account of medical assistance paid on behalf of the individual.
 
 &emsp;(B) In the case of an individual who was 55 years of age or older when the individual received such medical assistance, the State shall seek adjustment or recovery from the individual's estate, but only for medical assistance consisting of—
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) at the option of the State, any items or services under the State plan (but not including medical assistance for medicare cost-sharing or for benefits described in section 1396a(a)(10)(E) of this title).
 
-&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medicalassistance paid on behalf of the individual for nursing facility and other long-term care services.
+&emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
 
 &emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, and which satisfies clause (iv), or which has a State plan amendment that provides for a qualified State long-term care insurance partnership (as defined in clause (iii)) which provided for the disregard of any assets or resources—
 
@@ -78,9 +78,9 @@
 
 (2) Any adjustment or recovery under paragraph (1) may be made only after the death of the individual's surviving spouse, if any, and only at a time—
 
-&emsp;(A) when he has no surviving child who is under age 21, or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title; and
+&emsp;(A) when he has no surviving child who is under age 21, or (with respect to States eligible to participate in the State program established under subchapter XVI) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title; and
 
-&emsp;(B) in the case of a lien on an individual's home under subsection (a)(1)(B) of this section, when—
+&emsp;(B) in the case of a lien on an individual's home under subsection (a)(1)(B), when—
 
 &emsp;&emsp;(i) no sibling of the individual (who was residing in the individual's home for a period of at least one year immediately before the date of the individual's admission to the medical institution), and
 
@@ -162,7 +162,7 @@
 
 &emsp;(B) For purposes of this paragraph and paragraph (1)(C)—
 
-&emsp;&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-termcare insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
+&emsp;&emsp;(i) the terms "model regulation" and "model Act" mean the long-term care insurance model regulation, and the long-term care insurance model Act, respectively, promulgated by the National Association of Insurance Commissioners (as adopted as of October 2000);
 
 &emsp;&emsp;(ii) any provision of the model regulation or model Act listed under subparagraph (A) shall be treated as including any other provision of such regulation or Act necessary to implement the provision; and
 
@@ -174,7 +174,7 @@
 
 (1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
-(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section or in the case of any other disposal of assets made on or after February 8, 2006, 60 months) before the date specified in clause (ii).
+(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) or in the case of any other disposal of assets made on or after February 8, 2006, 60 months) before the date specified in clause (ii).
 
 (ii) The date specified in this clause, with respect to—
 
@@ -208,7 +208,7 @@
 
 &emsp;(II) the average monthly cost to a private patient of nursing facility services in the State (or, at the option of the State, in the community in which the individual is institutionalized) at the time of application.
 
-(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii)with respect to the disposal of an asset shall be reduced—
+(iii) The number of months of ineligibility otherwise determined under clause (i) or (ii) with respect to the disposal of an asset shall be reduced—
 
 &emsp;(I) in the case of periods of ineligibility determined under clause (i), by the number of months of ineligibility applicable to the individual under clause (ii) as a result of such disposal, and
 
@@ -268,7 +268,7 @@
 
 &emsp;&emsp;(i) the spouse of such individual;
 
-&emsp;&emsp;(ii) a child of such individual who (I) is under age 21, or (II) (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title;
+&emsp;&emsp;(ii) a child of such individual who (I) is under age 21, or (II) (with respect to States eligible to participate in the State program established under subchapter XVI) is blind or permanently and totally disabled, or (with respect to States which are not eligible to participate in such program) is blind or disabled as defined in section 1382c of this title;
 
 &emsp;&emsp;(iii) a sibling of such individual who has an equity interest in such home and who was residing in such individual's home for a period of at least one year immediately before the date the individual becomes an institutionalized individual; or
 
@@ -280,9 +280,9 @@
 
 &emsp;&emsp;(ii) were transferred from the individual's spouse to another for the sole benefit of the individual's spouse,
 
-&emsp;&emsp;(iii) were transferred to, or to a trust (including a trust described in subsection (d)(4) of this section) established solely for the benefit of, the individual's child described in subparagraph (A)(ii)(II), or
+&emsp;&emsp;(iii) were transferred to, or to a trust (including a trust described in subsection (d)(4)) established solely for the benefit of, the individual's child described in subparagraph (A)(ii)(II), or
 
-&emsp;&emsp;(iv) were transferred to a trust (including a trust described in subsection (d)(4) of this section) established solely for the benefit of an individual under 65 years of age who is disabled (as defined in section 1382c(a)(3) of this title);
+&emsp;&emsp;(iv) were transferred to a trust (including a trust described in subsection (d)(4)) established solely for the benefit of an individual under 65 years of age who is disabled (as defined in section 1382c(a)(3) of this title);
 
 &emsp;(C) a satisfactory showing is made to the State (in accordance with regulations promulgated by the Secretary) that (i) the individual intended to dispose of the assets either at fair market value, or for other valuable consideration, (ii) the assets were transferred exclusively for a purpose other than to qualify for medical assistance, or (iii) all assets transferred for less than fair market value have been returned to the individual; or
 
@@ -328,7 +328,7 @@
 
 &emsp;(ii) payments from the trust to or for the benefit of the individual shall be considered income of the individual, and
 
-&emsp;(iii) any other payments from the trust shall be considered assets disposed of by the individual for purposes of subsection (c) of this section.
+&emsp;(iii) any other payments from the trust shall be considered assets disposed of by the individual for purposes of subsection (c).
 
 (B) In the case of an irrevocable trust—
 
@@ -336,13 +336,13 @@
 
 &emsp;&emsp;(I) to or for the benefit of the individual, shall be considered income of the individual, and
 
-&emsp;&emsp;(II) for any other purpose, shall be considered a transfer of assets by the individual subject to subsection (c) of this section; and
+&emsp;&emsp;(II) for any other purpose, shall be considered a transfer of assets by the individual subject to subsection (c); and
 
-&emsp;(ii) any portion of the trust from which, or any income on the corpus from which, no payment could under any circumstances be made to the individual shall be considered, as of the date of establishment of the trust (or, if later, the date on which payment to the individual was foreclosed) to be assets disposed by the individual for purposes of subsection (c) of this section, and the value of the trust shall be determined for purposes of such subsection by including the amount of any payments made from such portion of the trust after such date.
+&emsp;(ii) any portion of the trust from which, or any income on the corpus from which, no payment could under any circumstances be made to the individual shall be considered, as of the date of establishment of the trust (or, if later, the date on which payment to the individual was foreclosed) to be assets disposed by the individual for purposes of subsection (c), and the value of the trust shall be determined for purposes of such subsection by including the amount of any payments made from such portion of the trust after such date.
 
 (4) This subsection shall not apply to any of the following trusts:
 
-&emsp;(A) A trust containing the assets of an individual under age 65 who is disabled (as defined in section 1382c(a)(3) of this title) and which is established for the benefit of such individual by a parent, grandparent, legal guardian of the individual, or a court if the State will receive all amounts remaining in the trust upon the death of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter.
+&emsp;(A) A trust containing the assets of an individual under age 65 who is disabled (as defined in section 1382c(a)(3) of this title) and which is established for the benefit of such individual by the individual, a parent, grandparent, legal guardian of the individual, or a court if the State will receive all amounts remaining in the trust upon the death of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter.
 
 &emsp;(B) A trust established in a State for the benefit of an individual if—
 
@@ -380,7 +380,7 @@
 
 #### (f) Disqualification for long-term care assistance for individuals with substantial home equity
 
-(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facilityservices or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
+(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
 
 (B) A State may elect, without regard to the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability), to apply subparagraph (A) by substituting for "$500,000", an amount that exceeds such amount, but does not exceed $750,000.
 
@@ -430,11 +430,11 @@ In this section, the following definitions shall apply:
 
 &emsp;(3) The term "institutionalized individual" means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title.
 
-&emsp;(4) The term "noninstitutionalized individual" means an individual receiving any of the services specified in subsection (c)(1)(C)(ii) of this section.
+&emsp;(4) The term "noninstitutionalized individual" means an individual receiving any of the services specified in subsection (c)(1)(C)(ii).
 
 &emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat. 507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177.)
+(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat.507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 114–255, div. A, title V, §5007(a), Dec. 13, 2016, 130 Stat. 1197.)
 
 #### Amendment of Subsection (a)(1)(A)
 
@@ -453,6 +453,8 @@ In this section, the following definitions shall apply:
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(1)(C)(iii)(II) and (c)(1)(G)(i), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(4)(A). Pub. L. 114–255 inserted "the individual," after "for the benefit of such individual by".
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–67 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "pursuant to the judgment of a court on account of benefits incorrectly paid on behalf of such individual, or".
 
@@ -522,7 +524,7 @@ Subsec. (c)(2)(C). Pub. L. 103–66, §13611(a)(2)(C), in introductory provision
 
 Subsec. (c)(2)(D). Pub. L. 103–66, §13611(a)(2)(D), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the State determines that denial of eligibility would work an undue hardship."
 
-Subsec. (c)(3). Pub. L. 103–66, §13611(a)(2)(E), added par. (3) and struck out former par. (3) which read as follows: "In this subsection, the term 'institutionalized individual' means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title."
+Subsec. (c)(3). Pub. L. 103–66, §13611(a)(2)(E), added par. (3) and struck out former par. (3) which read as follows: "In this subsection, the term 'institutionalized individual' means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is madebased on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title."
 
 Subsec. (c)(4). Pub. L. 103–66, §13611(a)(2)(F), inserted at end "In the case of a transfer by the spouse of an individual which results in a period of ineligibility for medical assistance under a State plan for such individual, a State shall, using a reasonable methodology (as specified by the Secretary), apportion such period of ineligibility (or any portion of such period) among the individual and the individual's spouse if the spouse otherwise becomes eligible for medical assistance under the State plan."
 
@@ -561,6 +563,10 @@ Subsec. (c)(2)(B)(ii). Pub. L. 100–203, §4211(h)(12)(B), as amended by Pub. L
 <b>1983</b>—Subsec. (b)(2)(B). Pub. L. 97–448, §309(b)(21), substituted "who" for "and" before "has lawfully resided".
 
 Subsec. (c)(2)(B)(iii). Pub. L. 97–448, §309(b)(22), substituted in subcl. (I) "can" for "cannot" and struck out from subcl. (IV) the introductory word "if".
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–255, div. A, title V, §5007(b), Dec. 13, 2016, 130 Stat. 1197, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to trusts established on or after the date of the enactment of this Act \[Dec. 13, 2016\]."
 
 #### Effective Date of 2013 Amendment
 
@@ -608,7 +614,7 @@ Extension of effective date for state law amendment.—In the case of a State pl
 
 Pub. L. 103–66, title XIII, §13611(e), Aug. 10, 1993, 107 Stat. 627, provided that:
 
-"(1) The amendments made by this section \[amending this section and sections 1396a and 1396r–5 of this title\] shall apply, except as provided in this subsection, to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning onor after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(1) The amendments made by this section \[amending this section and sections 1396a and 1396r–5 of this title\] shall apply, except as provided in this subsection, to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 "(2) The amendments made by this section shall not apply—
 

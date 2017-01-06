@@ -21,3 +21,5 @@ subpart iii—general provisions
 - [&sect; 00300x&#8211;64 - Definitions](%C2%A7%2000300x%E2%80%9364%20-%20Definitions.md)
 - [&sect; 00300x&#8211;65 - Services provided by nongovernmental organizations](%C2%A7%2000300x%E2%80%9365%20-%20Services%20provided%20by%20nongovernmental%20organizations.md)
 - [&sect; 00300x&#8211;66 - Services for individuals with co-occurring disorders](%C2%A7%2000300x%E2%80%9366%20-%20Services%20for%20individuals%20with%20co-occurring%20disorders.md)
+- [&sect; 00300x&#8211;67 - Public health emergencies](%C2%A7%2000300x%E2%80%9367%20-%20Public%20health%20emergencies.md)
+- [&sect; 00300x&#8211;68 - Joint applications](%C2%A7%2000300x%E2%80%9368%20-%20Joint%20applications.md)

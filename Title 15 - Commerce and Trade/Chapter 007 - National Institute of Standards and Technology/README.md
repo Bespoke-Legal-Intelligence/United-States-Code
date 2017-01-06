@@ -23,7 +23,7 @@
 | [278e.](%C2%A7%2000278e%20-%20Functions%20and%20activities.md) | Functions and activities. |
 | [278f.](%C2%A7%2000278f%20-%20Fire%20Research%20Center.md) | Fire Research Center. |
 | [278g.](%C2%A7%2000278g%20-%20International%20activities.md) | International activities. |
-| 278g–1. | Research fellowships and other financial assistance to students at institutes of higher education. |
+| 278g–1. | Education and outreach. |
 | 278g–2. | Post-doctoral fellowship program. |
 | 278g–2a. | Teacher science and technology enhancement Institute program. |
 | 278g–3. | Computer standards program. |
@@ -32,10 +32,10 @@
 | [278h.](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md) | Research program on security of computer systems. |
 | [278i.](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
-| [278k.](%C2%A7%2000278k%20-%20Regional%20centers%20for%20the%20transfer%20of%20manufacturing%20technology.md) | Regional centers for the transfer of manufacturing technology. |
+| [278k.](%C2%A7%2000278k%20-%20Hollings%20Manufacturing%20Extension%20Partnership.md) | Hollings Manufacturing Extension Partnership. |
+| 278k–1. | Competitive awards program. |
 | 278<i>l.</i> | Assistance to State technology programs. |
-| [278m.](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md) | Repealed. |
-| [278n.](%C2%A7%2000278n%20-%20Technology%20Innovation%20Program.md) | Technology Innovation Program. |
+| 278m, 278n. | Repealed. |
 | 278n–1. | Emergency communication and tracking technologies research initiative. |
 | 278n–2. | Green manufacturing and construction. |
 | 278<i>o.</i> | User fees. |
@@ -78,7 +78,7 @@
 - [&sect; 00278e - Functions and activities](%C2%A7%2000278e%20-%20Functions%20and%20activities.md)
 - [&sect; 00278f - Fire Research Center](%C2%A7%2000278f%20-%20Fire%20Research%20Center.md)
 - [&sect; 00278g - International activities](%C2%A7%2000278g%20-%20International%20activities.md)
-- [&sect; 00278g&#8211;1 - Research fellowships and other financial assistance to students at institutes of higher education](%C2%A7%2000278g%E2%80%931%20-%20Research%20fellowships%20and%20other%20financial%20assistance%20to%20students%20at%20institutes%20of%20higher%20education.md)
+- [&sect; 00278g&#8211;1 - Education and outreach](%C2%A7%2000278g%E2%80%931%20-%20Education%20and%20outreach.md)
 - [&sect; 00278g&#8211;2 - Post-doctoral fellowship program](%C2%A7%2000278g%E2%80%932%20-%20Post-doctoral%20fellowship%20program.md)
 - [&sect; 00278g&#8211;2a - Teacher science and technology enhancement Institute program](%C2%A7%2000278g%E2%80%932a%20-%20Teacher%20science%20and%20technology%20enhancement%20Institute%20program.md)
 - [&sect; 00278g&#8211;3 - Computer standards program](%C2%A7%2000278g%E2%80%933%20-%20Computer%20standards%20program.md)
@@ -87,10 +87,11 @@
 - [&sect; 00278h - Research program on security of computer systems](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md)
 - [&sect; 00278i - Reports to Congress](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md)
 - [&sect; 00278j - Studies by National Research Council](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md)
-- [&sect; 00278k - Regional centers for the transfer of manufacturing technology](%C2%A7%2000278k%20-%20Regional%20centers%20for%20the%20transfer%20of%20manufacturing%20technology.md)
+- [&sect; 00278k - Hollings Manufacturing Extension Partnership](%C2%A7%2000278k%20-%20Hollings%20Manufacturing%20Extension%20Partnership.md)
+- [&sect; 00278k&#8211;1 - Competitive awards program](%C2%A7%2000278k%E2%80%931%20-%20Competitive%20awards%20program.md)
 - [&sect; 00278l - Assistance to State technology programs](%C2%A7%2000278l%20-%20Assistance%20to%20State%20technology%20programs.md)
 - [&sect; 00278m - Repealed. Pub. L. 110&#8211;69, title III, &sect;3013(d), Aug. 9, 2007, 121 Stat. 599](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md)
-- [&sect; 00278n - Technology Innovation Program](%C2%A7%2000278n%20-%20Technology%20Innovation%20Program.md)
+- [&sect; 00278n - Repealed. Pub. L. 114&#8211;329, title II, &sect;205(a)(1), Jan. 6, 2017, 130 Stat. 3000](%C2%A7%2000278n%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93329%2C%20title%20II%2C%20%C2%A7205%28a%29%281%29%2C%20Jan.%206%2C%202017%2C%20130%20Stat.%203000.md)
 - [&sect; 00278n&#8211;1 - Emergency communication and tracking technologies research initiative](%C2%A7%2000278n%E2%80%931%20-%20Emergency%20communication%20and%20tracking%20technologies%20research%20initiative.md)
 - [&sect; 00278n&#8211;2 - Green manufacturing and construction](%C2%A7%2000278n%E2%80%932%20-%20Green%20manufacturing%20and%20construction.md)
 - [&sect; 00278o - User fees](%C2%A7%2000278o%20-%20User%20fees.md)

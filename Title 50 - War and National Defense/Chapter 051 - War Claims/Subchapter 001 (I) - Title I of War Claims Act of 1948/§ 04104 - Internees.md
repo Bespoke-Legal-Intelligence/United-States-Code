@@ -14,7 +14,7 @@ The detention benefit allowed to any person under the provisions of subsection (
 
 #### (d) Persons entitled to detention benefits
 
-The detention benefits allowed under subsection (b) of this section shall be allowed to the person entitled thereto, or, in the event of his death, only to the following persons:
+The detention benefits allowed under subsection (b) shall be allowed to the person entitled thereto, or, in the event of his death, only to the following persons:
 
 &emsp;(1) Widow or husband if there is no child or children of the deceased;
 

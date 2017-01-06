@@ -70,7 +70,7 @@ June 30, 1949, ch. 288, title II, §209, 63 Stat. 392.
 
 40:489(c).
 
-In subsection (a), before clause (1), the words "under this subtitle" are substituted for "hereunder" because "hereunder" probably means under the Federal Property and Administrative Services Act of 1949 which isrestated in subtitle I of the revised title (except as noted in section 111 of the revised title and the accompanying revision note). The words "or engage in", "or engaged in", "securing or", and "secure or" are omitted as unnecessary. The word "money" is substituted for "payment" for consistency in the section.
+In subsection (a), before clause (1), the words "under this subtitle" are substituted for "hereunder" because "hereunder" probably means under the Federal Property and Administrative Services Act of 1949 which is restated in subtitle I of the revised title (except as noted in section 111 of the revised title and the accompanying revision note). The words "or engage in", "or engaged in", "securing or", and "secure or" are omitted as unnecessary. The word "money" is substituted for "payment" for consistency in the section.
 
 In subsection (a)(1)(B), the words "because of each act" are substituted for "by reason thereof" for clarity.
 

@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 98–498, §211(c)(4), substituted "$10,000" for "$2,000".
 
 Subsec. (f). Pub. L. 98–498, §211(c)(5), substituted "$10,000" for "$5,000".
 
-Subsec. (g). Pub. L. 98–498, §211(c)(6), substituted "is liable to the Government for a civil penalty of notmore than $5,000" for "shall be fined not more than $10,000, imprisoned for not more than one year, or both".
+Subsec. (g). Pub. L. 98–498, §211(c)(6), substituted "is liable to the Government for a civil penalty of not more than $5,000" for "shall be fined not more than $10,000, imprisoned for not more than one year, or both".
 
 Subsec. (h). Pub. L. 98–498, §211(c)(7), substituted "Government for a civil penalty of not more than $1,000." for "United States Government for a civil penalty of not more than $500."
 

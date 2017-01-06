@@ -6,7 +6,7 @@ Available Sanctions.—A person who has been released under section 3142 of this
 
 (b)
 
-Revocation of Release.—The attorney for the Government may initiate a proceeding for revocation of an order of release by filing a motion with the district court. A judicial officer may issue a warrant for the arrest of a person charged with violating a condition of release, and the person shall be brought before a judicial officer in the district in which such person's arrest was ordered for a proceeding in accordance with this section. To the extent practicable, a person charged with violating the condition of release that such person not commit a Federal, State, or local crime during the period of release, shall be brought before the judicial officer who ordered the release and whose order is alleged to have been violated. The judicial officer shall enter an order of revocation and detention if, after a hearing, the judicial officer—
+Revocation of Release.—The attorney for the Government may initiate a proceeding for revocation of an order of release by filing a motion with the district court. A judicial officermay issue a warrant for the arrest of a person charged with violating a condition of release, and the person shall be brought before a judicial officer in the district in which such person's arrest was ordered for a proceeding in accordance with this section. To the extent practicable, a person charged with violating the condition of release that such person not commit a Federal, State, or local crime during the period of release, shall be brought before the judicial officer who ordered the release and whose order is alleged to have been violated. The judicial officer shall enter an order of revocation and detention if, after a hearing, the judicial officer—
 
 &emsp;(1) finds that there is—
 
@@ -36,7 +36,7 @@ A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 21
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (h)(1), substituted "under section 3142 of this title" for "pursuant to the provisions of section 3142".
 
-Subsec. (b). Pub. L. 99–646, §55(h)(2), in introductory provision, substituted "such person's arrest" for "his arrest", "condition of release that such person not commit" for "condition of his release that he not commit", and "period of release," for "period of release",in par. (1)(B) substituted "condition of release" for "condition of his release", in par. (2)(A) inserted "of this title" after "section 3142(g)", and in concluding provision, substituted "the judicial officer shall" for "he shall" and inserted "of this title" after "section 3142".
+Subsec. (b). Pub. L. 99–646, §55(h)(2), in introductory provision, substituted "such person's arrest" for "his arrest", "condition of release that such person not commit" for "condition of his release that he not commit", and "period of release," for "period of release", in par. (1)(B) substituted "condition of release" for "condition of his release", in par. (2)(A) inserted "of this title" after "section 3142(g)", and in concluding provision, substituted "the judicial officer shall" for "he shall" and inserted "of this title" after "section 3142".
 
 Subsec. (c). Pub. L. 99–646, §55(a), (h)(3), substituted "judicial officer" for "judge", "under section 401 of this title" for "pursuant to the provisions of section 401", and "condition of release" for "condition of his release".
 

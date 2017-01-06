@@ -4,13 +4,13 @@
 
 #### (1) Establishment
 
-&emsp;There is established in the Department a Performance-Based Organization (hereafter referred to as the "PBO") which shall be a discrete management unit responsible for managing the administrative and oversight functions supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as specified in subsection (b) of this section.
+&emsp;There is established in the Department a Performance-Based Organization (hereafter referred to as the "PBO") which shall be a discrete management unit responsible for managing the administrative and oversight functions supporting the programs authorized under subchapter IV of this chapter, as specified in subsection (b).
 
 #### (2) Purposes
 
 &emsp;The purposes of the PBO are—
 
-&emsp;&emsp;(A) to improve service to students and other participants in the student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents;
+&emsp;&emsp;(A) to improve service to students and other participants in the student financial assistance programs authorized under subchapter IV, including making those programs more understandable to students and their parents;
 
 &emsp;&emsp;(B) to reduce the costs of administering those programs;
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) to integrate the information systems supporting the Federal student financial assistance programs;
 
-&emsp;&emsp;(F) to implement an open, common, integrated system for the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;(F) to implement an open, common, integrated system for the delivery of student financial assistance under subchapter IV; and
 
 &emsp;&emsp;(G) to develop and maintain a student financial assistance system that contains complete, accurate, and timely data to ensure program integrity.
 
@@ -28,35 +28,35 @@
 
 #### (1) Authority of Secretary
 
-&emsp;Notwithstanding any other provision of this part, the Secretary shall maintain responsibility for the development and promulgation of policy and regulations relating to the programs of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42. In the exercise of its functions, the PBO shall be subject to the direction of the Secretary. The Secretary shall—
+&emsp;Notwithstanding any other provision of this part, the Secretary shall maintain responsibility for the development and promulgation of policy and regulations relating to the programs of student financial assistance under subchapter IV. In the exercise of its functions, the PBO shall be subject to the direction of the Secretary. The Secretary shall—
 
-&emsp;&emsp;(A) request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;(A) request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV;
 
 &emsp;&emsp;(B) request cost estimates from the Chief Operating Officer for system changes required by specific policies proposed by the Secretary; and
 
 &emsp;&emsp;(C) assist the Chief Operating Officer in identifying goals for—
 
-&emsp;&emsp;&emsp;(i) the administration of the systems used to administer the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;&emsp;(i) the administration of the systems used to administer the Federal student financial assistance programs authorized under subchapter IV; and
 
 &emsp;&emsp;&emsp;(ii) the updating of such systems to current technology.
 
 #### (2) PBO functions
 
-&emsp;Subject to paragraph (1), the PBO shall be responsible for the administration of Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, excluding the development of policy relating to such programs but including the following:
+&emsp;Subject to paragraph (1), the PBO shall be responsible for the administration of Federal student financial assistance programs authorized under subchapter IV, excluding the development of policy relating to such programs but including the following:
 
-&emsp;&emsp;(A) The administrative, accounting, and financial management functions for the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including—
+&emsp;&emsp;(A) The administrative, accounting, and financial management functions for the Federal student financial assistance programs authorized under subchapter IV, including—
 
 &emsp;&emsp;&emsp;(i) the collection, processing, and transmission of data to students, institutions, lenders, State agencies, and other authorized parties;
 
-&emsp;&emsp;&emsp;(ii) the design and technical specifications for software development and procurement for systems supporting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(ii) the design and technical specifications for software development and procurement for systems supporting the Federal student financial assistance programs authorized under subchapter IV;
 
-&emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the administration and management of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the administration and management of student financial assistance under subchapter IV;
 
-&emsp;&emsp;&emsp;(iv) all aspects of contracting for the information and financial systems supporting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(iv) all aspects of contracting for the information and financial systems supporting the Federal student financial assistance programs authorized under subchapter IV;
 
-&emsp;&emsp;&emsp;(v) providing all customer service, training, and user support related to the administration of the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;&emsp;(v) providing all customer service, training, and user support related to the administration of the Federal student financial assistance programs authorized under subchapter IV; and
 
-&emsp;&emsp;&emsp;(vi) ensuring the integrity of the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(vi) ensuring the integrity of the Federal student financial assistance programs authorized under subchapter IV.
 
 &emsp;&emsp;(B) Annual development of a budget for the activities and functions of the PBO, in consultation with the Secretary, and for consideration and inclusion in the Department's annual budget submission.
 
@@ -76,11 +76,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary and the Chief Operating Officer shall consult concerning the effects of policy, market, or other changes on the ability of the PBO to achieve the goals and objectives established in the performance plan described in subsection (c) of this section.
+&emsp;&emsp;The Secretary and the Chief Operating Officer shall consult concerning the effects of policy, market, or other changes on the ability of the PBO to achieve the goals and objectives established in the performance plan described in subsection (c).
 
 #### (B) Revisions to agreement
 
-&emsp;&emsp;The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) of this section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
+&emsp;&emsp;The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
 
 #### (c) Performance plan, report, and briefing
 
@@ -96,11 +96,11 @@
 
 #### (C) Areas
 
-&emsp;&emsp;The plan shall include a concise statement of the goals for a modernized system for the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 and identify action steps necessary to achieve such goals. The plan shall address the PBO's responsibilities in the following areas:
+&emsp;&emsp;The plan shall include a concise statement of the goals for a modernized system for the delivery of student financial assistance under subchapter IV and identify action steps necessary to achieve such goals. The plan shall address the PBO's responsibilities in the following areas:
 
 #### (i) Improving service
 
-&emsp;&emsp;&emsp;Improving service to students and other participants in student financial aid programs authorized under under <sup>1</sup> subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents.
+&emsp;&emsp;&emsp;Improving service to students and other participants in student financial aid programs authorized under under <sup>1</sup> subchapter IV, including making those programs more understandable to students and their parents.
 
 #### (ii) Reducing costs
 
@@ -112,7 +112,7 @@
 
 #### (iv) Delivery and information system
 
-&emsp;&emsp;&emsp;Developing open, common, and integrated systems for programs authorized under under <sup>1</sup> subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;Developing open, common, and integrated systems for programs authorized under under <sup>1</sup> subchapter IV.
 
 #### (v) Other areas
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(C) The results achieved by the PBO during the year relative to the goals established in the organization's performance plan.
 
-&emsp;&emsp;(D) The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2) of this section, including the amounts of bonus compensation awarded to these individuals.
+&emsp;&emsp;(D) The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2), including the amounts of bonus compensation awarded to these individuals.
 
 &emsp;&emsp;(E) Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
 
@@ -136,7 +136,7 @@
 
 #### (3) Consultation with stakeholders
 
-&emsp;The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42—
+&emsp;The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under subchapter IV—
 
 &emsp;&emsp;(A) regarding the degree of satisfaction with the delivery system; and
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;(A) the integrity of the student loan programs; and
 
-&emsp;&emsp;(B) that lenders and guaranty agencies are adhering to the requirements of subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;(B) that lenders and guaranty agencies are adhering to the requirements of subchapter IV.
 
 #### (d) Chief Operating Officer
 
@@ -228,7 +228,7 @@
 
 #### (1) Appointment
 
-&emsp;The Chief Operating Officer, in consultation with the Secretary, shall appoint a Student Loan Ombudsman to provide timely assistance to borrowers of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 by performing the functions described in paragraph (3).
+&emsp;The Chief Operating Officer, in consultation with the Secretary, shall appoint a Student Loan Ombudsman to provide timely assistance to borrowers of loans made, insured, or guaranteed under subchapter IV by performing the functions described in paragraph (3).
 
 #### (2) Public information
 
@@ -244,7 +244,7 @@
 
 #### (4) Report
 
-&emsp;Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
+&emsp;Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2), that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
 
 #### (g) Personnel flexibility
 
@@ -284,7 +284,7 @@ Another prior section 1018, Pub. L. 89–329, title I, §118, as added Pub. L. 9
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(3). Pub. L. 111–39, §101(b)(5)(A), substituted "under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "under this subchapter" in introductory provisions.
+<b>2009</b>—Subsec. (c)(3). Pub. L. 111–39, §101(b)(5)(A), substituted "under subchapter IV" for "under this subchapter" in introductory provisions.
 
 Subsec. (d)(3). Pub. L. 111–39, §101(b)(5)(B), substituted "authorizing committees" for "appropriate committees of Congress" in concluding provisions.
 
@@ -292,25 +292,25 @@ Subsec. (d)(3). Pub. L. 111–39, §101(b)(5)(B), substituted "authorizing commi
 
 Subsec. (a)(2)(D). Pub. L. 110–315, §117(1)(B), substituted "and administration" for "of the operational functions".
 
-Subsec. (b)(1)(A). Pub. L. 110–315, §117(2)(A)(i), substituted "the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "the information systems administered by the PBO, and other functions performed by the PBO".
+Subsec. (b)(1)(A). Pub. L. 110–315, §117(2)(A)(i), substituted "the Federal student financial assistance programs authorized under subchapter IV" for "the information systems administered by the PBO, and other functions performed by the PBO".
 
-Subsec. (b)(1)(C). Pub. L. 110–315, §117(2)(A)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: "assist the Chief Operating Officer in identifying goals for the administration and modernization of the delivery system for student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42."
+Subsec. (b)(1)(C). Pub. L. 110–315, §117(2)(A)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: "assist the Chief Operating Officer in identifying goals for the administration and modernization of the delivery system for student financial assistance under subchapter IV."
 
-Subsec. (b)(2). Pub. L. 110–315, §117(2)(B)(i), in introductory provisions, substituted "the administration of Federal" for "administration of the information and financial systems that support" and "subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "this subchapter".
+Subsec. (b)(2). Pub. L. 110–315, §117(2)(B)(i), in introductory provisions, substituted "the administration of Federal" for "administration of the information and financial systems that support" and "subchapter IV" for "this subchapter".
 
-Subsec. (b)(2)(A). Pub. L. 110–315, §117(2)(B)(ii)(I), substituted "for the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "of the delivery system for Federal student assistance" in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 110–315, §117(2)(B)(ii)(I), substituted "for the Federal student financial assistance programs authorized under subchapter IV" for "of the delivery system for Federal student assistance" in introductory provisions.
 
 Subsec. (b)(2)(A)(i), (ii). Pub. L. 110–315, §117(2)(B)(ii)(II), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 "(i) the collection, processing and transmission of applicant data to students, institutions and authorized third parties, as provided for in section 1090 of this title;
 
-"(ii) design and technical specifications for software development and systems supporting the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;".
+"(ii) design and technical specifications for software development and systems supporting the delivery of student financial assistance under subchapter IV;".
 
 Subsec. (b)(2)(A)(iii). Pub. L. 110–315, §117(2)(B)(ii)(III), substituted "administration" for "delivery".
 
-Subsec. (b)(2)(A)(iv). Pub. L. 110–315, §117(2)(B)(ii)(IV), inserted "the Federal" after "supporting", substituted "authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "under this subchapter", and struck out "and" after the semicolon.
+Subsec. (b)(2)(A)(iv). Pub. L. 110–315, §117(2)(B)(ii)(IV), inserted "the Federal" after "supporting", substituted "authorized under subchapter IV" for "under this subchapter", and struck out "and" after the semicolon.
 
-Subsec. (b)(2)(A)(v). Pub. L. 110–315, §117(2)(B)(ii)(V), substituted "the administration of the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and" for "systems that support those programs."
+Subsec. (b)(2)(A)(v). Pub. L. 110–315, §117(2)(B)(ii)(V), substituted "the administration of the Federal student financial assistance programs authorized under subchapter IV; and" for "systems that support those programs."
 
 Subsec. (b)(2)(A)(vi). Pub. L. 110–315, §117(2)(B)(ii)(VI), added cl. (vi).
 
@@ -318,11 +318,11 @@ Subsec. (b)(2)(B). Pub. L. 110–315, §117(2)(B)(iii), substituted "activities 
 
 Subsec. (c). Pub. L. 110–315, §117(3)(A), substituted "Performance plan, report, and briefing" for "Performance plan and report" in heading.
 
-Subsec. (c)(1)(C)(i). Pub. L. 110–315, §117(3)(B)(i), substituted "under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "this subchapter".
+Subsec. (c)(1)(C)(i). Pub. L. 110–315, §117(3)(B)(i), substituted "under subchapter IV" for "this subchapter".
 
 Subsec. (c)(1)(C)(iii). Pub. L. 110–315, §117(3)(B)(ii), struck out "information and delivery" after "integrating the".
 
-Subsec. (c)(1)(C)(iv). Pub. L. 110–315, §117(3)(B)(i), (iii), substituted "Developing" for "Developing an", "systems" for "delivery and information system", and "under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" for "this subchapter".
+Subsec. (c)(1)(C)(iv). Pub. L. 110–315, §117(3)(B)(i), (iii), substituted "Developing" for "Developing an", "systems" for "delivery and information system", and "under subchapter IV" for "this subchapter".
 
 Subsec. (c)(2)(A). Pub. L. 110–315, §117(3)(C)(i), inserted "the" after "PBO and".
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Study of Market Mechanisms in Federal Student Loan Programs
 
-Pub. L. 105–244, title VIII, §801, Oct. 7, 1998, 112 Stat. 1803, which directed the Comptroller General and Secretary of Education, in consultation with a study group, to design and conduct a study to identify and evaluate means of establishing a market mechanism for the delivery of certain student loans made pursuant to title IV of the Higher Education Act (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) and to transmit a final report to congressional committees not later than May 15, 2001, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
+Pub. L. 105–244, title VIII, §801, Oct. 7, 1998, 112 Stat. 1803, which directed the Comptroller General and Secretary of Education, in consultation with a study group, to design and conduct a study to identify and evaluate means of establishing a market mechanism for the delivery of certain student loans made pursuant to title IV of the Higher Education Act (20 U.S.C. 1070 et seq.) and to transmit a final report to congressional committees not later than May 15, 2001, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -140,7 +140,7 @@ The Board is authorized to issue such regulations and orders, including regulati
 
 &emsp;&emsp;&emsp;(iii) an investment company that is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\];
 
-&emsp;&emsp;&emsp;(iv) an insurance company, with respect to insurance activities of the insurancecompany and activities incidental to such insurance activities, that is subject to supervision by a State insurance regulator; or
+&emsp;&emsp;&emsp;(iv) an insurance company, with respect to insurance activities of the insurance company and activities incidental to such insurance activities, that is subject to supervision by a State insurance regulator; or
 
 &emsp;&emsp;&emsp;(v) an entity that is subject to regulation by, or registration with, the Commodity Futures Trading Commission, with respect to activities conducted as a futures commission merchant, commodity trading adviser, commodity pool, commodity pool operator, swap execution facility, swap data repository, swap dealer, major swap participant, and activities that are incidental to such commodities and swaps activities.
 

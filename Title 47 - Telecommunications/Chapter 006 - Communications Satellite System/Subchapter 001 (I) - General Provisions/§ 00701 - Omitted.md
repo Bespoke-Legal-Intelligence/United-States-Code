@@ -32,7 +32,7 @@ Policy.—The Congress declares that it is the policy of the United States—
 
 &emsp;"(1) as a party to the International Telecommunications Satellite Organization (hereafter in this section referred to as 'Intelsat'), to foster and support the global commercial communications satellite system owned and operated by Intelsat;
 
-&emsp;"(2) to make available to consumers a variety of communications satellite services utilizing the spacesegment facilities of Intelsat and any additional such facilities which are found to be in the national interest and which—
+&emsp;"(2) to make available to consumers a variety of communications satellite services utilizing the space segment facilities of Intelsat and any additional such facilities which are found to be in the national interest and which—
 
 &emsp;&emsp;"(A) are technically compatible with the use of the radio frequency spectrum and orbital space by the existing or planned Intelsat space segment, and
 
@@ -60,7 +60,7 @@ Amendment of Intelsat Agreement.—(1) The Secretary of State shall consult with
 
 "(d)
 
-Congressional Consultation.—In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
+Congressional Consultation.—In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommendsuch a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
 
 &emsp;"(1) the foreign policy reasons for the President's determination, and
 

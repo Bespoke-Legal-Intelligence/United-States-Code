@@ -1,0 +1,6 @@
+### §1780c. Omitted
+
+#### Codification
+
+Section, Pub. L. 109–286, §5, Sept. 27, 2006, 120 Stat. 1220, which related to extinguishment of any claims to land and any claims for damages or other remedies, was omitted from the Code as being of special and not general application.
+

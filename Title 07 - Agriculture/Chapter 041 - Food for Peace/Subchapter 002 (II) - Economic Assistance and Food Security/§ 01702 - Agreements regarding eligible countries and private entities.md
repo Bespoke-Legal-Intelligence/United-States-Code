@@ -48,7 +48,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-Pub. L. 95–88, title II, §215, Aug. 3, 1977, 91 Stat. 552, provided that: "The provisions of this title \[enacting sections 1712 to 1714 and 1727 to 1727f of this title, amending this section and sections 1427, 1431, 1692, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of this title, and enacting provisions set out as notes under sections 1708 and 1722 of this title\] shall become effective October 1, 1977."
+Pub. L. 95–88, title II, §215, Aug. 3, 1977, 91 Stat. 552, provided that: "The provisions of this title \[enacting sections 1712 to 1714 and 1727 to 1727f of this title,amending this section and sections 1427, 1431, 1692, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of this title, and enacting provisions set out as notes under sections 1708 and 1722 of this title\] shall become effective October 1, 1977."
 
 #### Effective Date of 1966 Amendment
 

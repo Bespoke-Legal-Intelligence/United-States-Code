@@ -6,7 +6,7 @@ Prohibition.—Except as provided in subsection (b), no charge or fee for tuitio
 
 (b)
 
-Exception.—The prohibition specified in subsection (a) does not apply with respect to anyitem or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary of Defense shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
+Exception.—The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary of Defense shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
 
 (Added Pub. L. 108–375, div. A, title V, §545(c)(1), Oct. 28, 2004, 118 Stat. 1908.)
 

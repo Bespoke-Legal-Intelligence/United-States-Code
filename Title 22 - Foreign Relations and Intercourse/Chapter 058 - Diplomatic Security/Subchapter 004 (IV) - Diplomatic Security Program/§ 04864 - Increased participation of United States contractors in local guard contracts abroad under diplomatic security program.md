@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 #### (b) Objective
 
-It is the objective of this section to improve the efficiency of the local guard programs abroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
+It is the objective of this section to improve the efficiency of the local guard programsabroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
 
 #### (c) Participation of United States contractors in local guard contracts abroad
 
@@ -48,7 +48,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or overseas security services similar in complexity to the contract being bid;
 
-&emsp;&emsp;(E) with respect to the contract under subsection (c), has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-yearperiod before the date specified in subparagraph (C);
+&emsp;&emsp;(E) with respect to the contract under subsection (c), has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States; and
 
@@ -84,13 +84,19 @@ Not less than 10 percent of the amount of funds obligated for local guard contra
 
 With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-(Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2210, Oct. 21, 1998, 112 Stat. 2681–811.)
+#### (h) Award of local guard and protective service contracts
+
+In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in section 4803 of this title), subject to congressional notification 15-days prior to any such award.
+
+(Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2210, Oct. 21, 1998, 112 Stat. 2681–811; Pub. L. 114–323, title I, §112, Dec. 16, 2016, 130 Stat. 1910.)
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and notas part of the Diplomatic Security Act which comprises this chapter.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h). Pub. L. 114–323 added subsec. (h).
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;".
 

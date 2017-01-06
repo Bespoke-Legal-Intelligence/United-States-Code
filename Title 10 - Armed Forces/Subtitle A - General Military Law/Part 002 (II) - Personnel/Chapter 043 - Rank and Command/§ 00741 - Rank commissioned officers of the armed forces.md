@@ -45,7 +45,7 @@
 
 &emsp;(ii) the officer's position on the active-duty list.
 
-(D) When under subparagraph (A) the Secretary concerned adjusts the date of rank of an officer in a grade to which the officer was appointed by and with the advice and consent of the Senate and the adjustment is to a date before the date of the advice and consent of the Senate to that appointment, the Secretary shall promptly transmit to the Committee on Armed Services of the Senate a notification of that adjustment. Any such notification shall include the name of the officer and a discussion of the reasons for the adjustment of date of rank.
+(D) When under subparagraph (A) the Secretary concerned adjusts the date of rank of an officer in a grade to which the officer was appointed by and with the advice and consent of the Senate and the adjustment is to a date before the date of the advice and consent of the Senate to that appointment, the Secretary shall promptly transmit to the Committee on Armed Services of the Senate a notification of that adjustment. Any such notification shall includethe name of the officer and a discussion of the reasons for the adjustment of date of rank.
 
 (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
@@ -149,7 +149,7 @@ Subsec. (d)(3). Pub. L. 97–22, §4(h)(3)(B), inserted "of the Army, Navy, Air 
 
 Pub. L. 107–107, div. A, title V, §506(c), Dec. 28, 2001, 115 Stat. 1090, provided that:
 
-"(1) Paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a), and paragraph (2) of section 14308(c) of such title, as added by subsection (b), shall apply with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after the date of the enactment of this Act \[Dec. 28, 2001\].
+"(1) Paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a), and paragraph (2) of section 14308(c) of such title, as added by subsection (b), shall apply with respect to any report of aselection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after the date of the enactment of this Act \[Dec. 28, 2001\].
 
 "(2) The Secretary of the military department concerned may apply the applicable paragraph referred to in paragraph (1) in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before the date of the enactment of this Act if the Secretary determines that such appointment would have been made on an earlier date that is on or after October 1, 2001, and was delayed under the circumstances specified in paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a)."
 

@@ -36,7 +36,7 @@
 
 (4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
 
-(5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
+(5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in thefiscal year succeeding the fiscal year for which such amounts were appropriated.
 
 (B)
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 #### (B) Plan contents
 
-&emsp;&emsp;Each State plan shall, at a minimum, include a description of how technology andinformation management systems will be used to improve program integrity by—
+&emsp;&emsp;Each State plan shall, at a minimum, include a description of how technology and information management systems will be used to improve program integrity by—
 
 &emsp;&emsp;&emsp;(i) monitoring the nutrient content of meals served;
 
@@ -98,7 +98,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 #### (3) Training and technical assistance
 
-&emsp;Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) of this section and section 22(b)(3) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769c(b)(3)\].
+&emsp;Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) and section 22(b)(3) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769c(b)(3)\].
 
 #### (f) State funding requirement
 
@@ -224,7 +224,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) of this section and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769c).
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769c).
 
 #### (B) Exception
 
@@ -242,7 +242,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (1) In general
 
-&emsp;Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) of this section that describes the manner in which funds provided under this section will be used for technology and information management systems.
+&emsp;Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) that describes the manner in which funds provided under this section will be used for technology and information management systems.
 
 #### (2) Requirements
 
@@ -264,7 +264,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and informationmanagement systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 #### (B) Infrastructure development plan
 
@@ -328,7 +328,7 @@ Pub. L. 108–265, §126(c)(2), redesignated subsec. (g) as (j).
 
 <b>1998</b>—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
 
-Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Funds available to States under this subsectionand under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs."
+Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs."
 
 Subsec. (g). Pub. L. 105–336, §202(c), substituted "2003" for "1998".
 

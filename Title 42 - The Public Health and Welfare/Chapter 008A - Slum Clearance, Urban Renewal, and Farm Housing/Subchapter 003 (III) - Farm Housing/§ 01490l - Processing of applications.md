@@ -2,7 +2,7 @@
 
 #### (a) Priority
 
-Except as otherwise provided in subsection (c) of this section, the Secretary shall, in making assistance available under this subchapter, give a priority to applications submitted by—
+Except as otherwise provided in subsection (c), the Secretary shall, in making assistance available under this subchapter, give a priority to applications submitted by—
 
 &emsp;(1) persons and families that have the greatest housing assistance needs because of their low income and their residing in inadequate dwellings;
 
@@ -46,7 +46,7 @@ In making available the assistance authorized by section 1483 of this title and 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–180, §734(f)(1), substituted "Except as otherwise provided in subsection (c) of this section, the Secretary" for "The Secretary" in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–180, §734(f)(1), substituted "Except as otherwise provided in subsection (c), the Secretary" for "The Secretary" in introductory provisions.
 
 Subsec. (c). Pub. L. 104–180, §734(f)(2), added subsec. (c).
 

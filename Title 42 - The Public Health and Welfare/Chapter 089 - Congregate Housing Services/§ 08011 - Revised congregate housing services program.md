@@ -138,7 +138,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(E) performing such other duties and functions that the Secretary deems appropriate to enable frail elderly persons residing in federally assisted housing to live with dignity and independence.
 
-> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management.Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
+> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management. Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
 
 #### (5) Other services
 
@@ -276,7 +276,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;&emsp;&emsp;(i) Each State, Indian tribe, unit of general <sup>5</sup> government, or nonprofit housing sponsor that receives amounts under a contract under subsection (b) of this section shall supplement any such amount with amounts sufficient to provide 50 percent of the cost of providing the congregate services program. Any monetary or in-kind contributions received by a congregate services program under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] may be considered for purposes of fulfilling the requirement under this clause. The Secretary concerned shall encourage owners to use excess residual receipts to the extent available to supplement funds for retrofit and supportive services under this section.
 
-&emsp;&emsp;&emsp;(ii) The Secretary concerned shall provide 40 percent of the cost, with amounts under contracts under subsection (b) of this section.
+&emsp;&emsp;&emsp;(ii) The Secretary concerned shall provide 40 percent of the cost, with amountsunder contracts under subsection (b) of this section.
 
 &emsp;&emsp;&emsp;(iii) Fees under subsection (d)(7) of this section shall provide 10 percent of the cost.
 
@@ -306,7 +306,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (1) Use of residents in providing services
 
-&emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providingthe services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
+&emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providing the services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
 
 &emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
@@ -320,7 +320,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (3) Eligibility and priority for 1978 Act recipients
 
-&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
+&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amountsunder the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
 
 #### (4) Administrative cost limitation
 
@@ -354,7 +354,7 @@ For purposes of this section:
 
 &emsp;&emsp;(F) housing assisted under section 1486 of this title.
 
-&emsp;(7) The term "eligible resident" means a person residing in eligible housing for the elderly who qualifies under the definition of frail elderly, person with disabilities (regardless ofwhether the person is elderly), or temporarily disabled.
+&emsp;(7) The term "eligible resident" means a person residing in eligible housing for the elderly who qualifies under the definition of frail elderly, person with disabilities (regardless of whether the person is elderly), or temporarily disabled.
 
 &emsp;(8) The term "frail elderly" means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
 
@@ -412,7 +412,7 @@ For purposes of this section:
 
 #### (m) Regulations
 
-The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day periodbeginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
+The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day period beginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
 
 #### (n) Authorization of appropriations
 

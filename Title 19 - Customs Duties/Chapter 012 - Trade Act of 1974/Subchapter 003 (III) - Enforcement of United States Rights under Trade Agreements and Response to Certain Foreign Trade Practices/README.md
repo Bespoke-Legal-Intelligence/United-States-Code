@@ -14,4 +14,4 @@
 - [&sect; 02417 - Modification and termination of actions](%C2%A7%2002417%20-%20Modification%20and%20termination%20of%20actions.md)
 - [&sect; 02418 - Request for information](%C2%A7%2002418%20-%20Request%20for%20information.md)
 - [&sect; 02419 - Administration](%C2%A7%2002419%20-%20Administration.md)
-- [&sect; 02420 - Identification of trade expansion priorities](%C2%A7%2002420%20-%20Identification%20of%20trade%20expansion%20priorities.md)
+- [&sect; 02420 - Trade enforcement priorities](%C2%A7%2002420%20-%20Trade%20enforcement%20priorities.md)

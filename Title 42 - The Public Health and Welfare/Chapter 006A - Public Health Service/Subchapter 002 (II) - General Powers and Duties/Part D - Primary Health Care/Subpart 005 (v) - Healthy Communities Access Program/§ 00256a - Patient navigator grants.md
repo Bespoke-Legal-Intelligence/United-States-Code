@@ -56,7 +56,7 @@ The Secretary shall require each recipient of a grant under this section to use 
 
 #### (3) Minimum core proficiencies
 
-&emsp;The Secretary shall not award a grant to an entity under this section unless such entity provides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
+&emsp;The Secretary shall not award a grant to an entity under this section unless such entityprovides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
 
 #### (f) Uniform baseline measures
 
@@ -64,11 +64,11 @@ The Secretary shall establish uniform baseline measures in order to properly eva
 
 #### (g) Preference
 
-In making grants under this section, the Secretary shall give preference to eligible entitiesthat demonstrate in their applications plans to utilize patient navigator services to overcome significant barriers in order to improve health care outcomes in their respective communities.
+In making grants under this section, the Secretary shall give preference to eligible entities that demonstrate in their applications plans to utilize patient navigator services to overcome significant barriers in order to improve health care outcomes in their respective communities.
 
 #### (h) Duplication of services
 
-An eligible entity that is receiving Federal funds for activities described in subsection (b) of this section on the date on which the entity submits an application under subsection (e) of this section may not receive a grant under this section unless the entity can demonstrate that amounts received under the grant will be utilized to expand services or provide new services to individuals who would not otherwise be served.
+An eligible entity that is receiving Federal funds for activities described in subsection (b) on the date on which the entity submits an application under subsection (e) may not receive a grant under this section unless the entity can demonstrate that amounts received under the grant will be utilized to expand services or provide new services to individuals who would not otherwise be served.
 
 #### (i) Coordination with other programs
 
@@ -98,7 +98,7 @@ The Secretary shall ensure coordination of the demonstration grant program under
 
 #### (k) Rule of construction
 
-This section shall not be construed to authorize funding for the delivery of health care services (other than the patient navigator duties listed in subsection (b) of this section).
+This section shall not be construed to authorize funding for the delivery of health care services (other than the patient navigator duties listed in subsection (b)).
 
 #### (l) Definitions
 
@@ -108,7 +108,7 @@ In this section:
 
 &emsp;(2) The term "health disparity population" means a population that, as determined by the Secretary, has a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates as compared to the health status of the general population.
 
-&emsp;(3) The term "patient navigator" means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b) of this section.
+&emsp;(3) The term "patient navigator" means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b).
 
 #### (m) Authorization of appropriations
 

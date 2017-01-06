@@ -82,7 +82,7 @@ For the purpose of carrying out activities under this section to evaluate and ad
 
 &emsp;&emsp;&emsp;(iv) For fiscal year 2013, $23,671,000.
 
-&emsp;&emsp;(E) For increasing the training capacity of centers to expand the number of health care professionals with treatment expertise and knowledge about the most appropriate standards of HIV/AIDS-related treatments and medical care for racial and ethnic minority adults, adolescents, and children with HIV/AIDS, the Secretary shall, of the amount appropriated under subsection (a), reserve the following, as applicable:
+&emsp;&emsp;(E) For increasing the training capacity of centers to expand the number of health care professionals with treatment expertise and knowledge about the most appropriate standards of HIV/AIDS-related treatments and medical care for racial and ethnic minority adults, adolescents, and children with HIV/AIDS, the Secretary shall, of theamount appropriated under subsection (a), reserve the following, as applicable:
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2010, $8,763,000.
 

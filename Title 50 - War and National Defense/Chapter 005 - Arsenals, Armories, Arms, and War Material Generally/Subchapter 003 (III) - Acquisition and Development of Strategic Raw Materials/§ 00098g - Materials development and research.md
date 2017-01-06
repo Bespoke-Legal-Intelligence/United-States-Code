@@ -16,13 +16,13 @@
 
 #### (b) Development of sources of supplies of agricultural materials; use of agricultural commodities for manufacture of materials
 
-The President shall make scientific, technologic, and economic investigations of the feasibility of developing domestic sources of supplies of any agricultural material or for using agricultural commodities for the manufacture of any material determined pursuant to section 98b(a) of this title to be a strategic and critical material or substitutes therefor.
+The President shall make scientific, technologic, and economic investigations of the feasibility of developing domestic sources of supplies of any agricultural material or for using agricultural commodities for the manufacture ofany material determined pursuant to section 98b(a) of this title to be a strategic and critical material or substitutes therefor.
 
 #### (c) Development of sources of supply of other materials; development or use of alternative methods for refining or processing materials in stockpile
 
 The President shall make scientific, technologic, and economic investigations concerning the feasibility of—
 
-&emsp;(1) developing domestic sources of supply of materials (other than materials referred to in subsections (a) and (b) of this section) determined pursuant to section 98b(a) of this title to be strategic and critical materials; and
+&emsp;(1) developing domestic sources of supply of materials (other than materials referred to in subsections (a) and (b)) determined pursuant to section 98b(a) of this title to be strategic and critical materials; and
 
 &emsp;(2) developing or using alternative methods for the refining or processing of a material in the stockpile so as to convert such material into a form more suitable for use during an emergency or for storage.
 

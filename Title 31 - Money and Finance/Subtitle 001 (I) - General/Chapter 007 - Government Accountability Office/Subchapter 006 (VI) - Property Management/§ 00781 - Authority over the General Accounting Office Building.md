@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
+The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of Pub. L. 98–369, div. B,July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 
 #### Amendments
 

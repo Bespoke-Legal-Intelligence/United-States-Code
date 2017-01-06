@@ -108,7 +108,7 @@ Pub. L. 111–203, §929I(a)(2), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 111–203, §929K(3), redesignated subsec. (f) as (g).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–550, §202(a)(1), struck out at end "Nothing in this subsection shall authorize the Commission to withhold information from the Congress."
+<b>1990</b>—Subsec. (b). Pub. L. 101–550, §202(a)(1), struck out at end "Nothing in this subsection shall authorizethe Commission to withhold information from the Congress."
 
 Subsecs. (c) to (e). Pub. L. 101–550, §202(a)(2), added subsecs. (c) to (e).
 

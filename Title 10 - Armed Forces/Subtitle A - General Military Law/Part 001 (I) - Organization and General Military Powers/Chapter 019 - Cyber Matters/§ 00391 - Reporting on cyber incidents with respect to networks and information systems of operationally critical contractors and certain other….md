@@ -86,7 +86,7 @@ Cyber incident.—The term "cyber incident" means actions taken through the use 
 
 &emsp;(2)
 
-Operationally critical contractor.—The term "operationally critical contractor" means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical supportthat is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
+Operationally critical contractor.—The term "operationally critical contractor" means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
 
 (Added Pub. L. 113–291, div. A, title XVI, §1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, §1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116.)
 

@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 Subsec. (a)(5). Pub. L. 100–26 substituted "In this section:" for "For the purposes of this section, the term—", inserted "The term" at beginning of subpars. (A) and (B), and substituted "operational" for "Operational" and "submarine" for "Submarine" in subpars. (A) and (B), respectively.
 
-Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, "(b) The monthly rates for special pay under subsection (a) are as follows:" which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
+Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, "(b) The monthly rates forspecial pay under subsection (a) are as follows:" which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
 
 Pub. L. 100–180, §623(b), amended tables generally so as to reflect an upward adjustment in monthly incentive pay rates for enlisted members, commissioned officers, and warrant officers of all pay grades and years of service encompassed by tables.
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section1233(l)(5) of Pub. L. 100–456, set out as a note under section 2366 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section 1233(l)(5) of Pub. L. 100–456, set out as a note under section 2366 of Title 10, Armed Forces.
 
 #### Effective Date of 1987 Amendment
 

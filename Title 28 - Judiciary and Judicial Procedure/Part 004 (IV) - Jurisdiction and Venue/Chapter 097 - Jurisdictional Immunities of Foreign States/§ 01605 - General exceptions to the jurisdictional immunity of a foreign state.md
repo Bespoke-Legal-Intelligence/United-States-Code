@@ -4,7 +4,7 @@
 
 &emsp;(1) in which the foreign state has waived its immunity either explicitly or by implication, notwithstanding any withdrawal of the waiver which the foreign state may purport to effect except in accordance with the terms of the waiver;
 
-&emsp;(2) in which the action is based upon a commercial activity carried on in the United States by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
+&emsp;(2) in which the action is based upon a commercial activity carried on in the UnitedStates by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
 
 &emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
 
@@ -36,7 +36,7 @@ Limitation on Discovery.—
 
 &emsp;(1)
 
-In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for section 1605A or section 1605B, the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until suchtime as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
 &emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
@@ -64,13 +64,81 @@ Bar on motions to dismiss.—A stay of discovery under this subsection shall con
 
 Construction.—Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United States.
 
-(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, §17(f)(2), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 110–181, div. A, title X, §1083(b)(1), Jan. 28, 2008, 122 Stat. 341.)
+(h)
+
+Jurisdictional Immunity for Certain Art Exhibition Activities.—
+
+&emsp;(1)
+
+In general.—If—
+
+&emsp;&emsp;(A) a work is imported into the United States from any foreign state pursuant to an agreement that provides for the temporary exhibition or display of such work entered into between a foreign state that is the owner or custodian of such work and the United States or one or more cultural or educational institutions within the United States;
+
+&emsp;&emsp;(B) the President, or the President's designee, has determined, in accordance with subsection (a) of Public Law 89–259 (22 U.S.C. 2459(a)), that such work is of cultural significance and the temporary exhibition or display of such work is in the national interest; and
+
+&emsp;&emsp;(C) the notice thereof has been published in accordance with subsection (a) of Public Law 89–259 (22 U.S.C. 2459(a)),
+
+> &emsp;any activity in the United States of such foreign state, or of any carrier, that is associated with the temporary exhibition or display of such work shall not be considered to be commercial activity by such foreign state for purposes of subsection (a)(3).
+
+&emsp;(2)
+
+Exceptions.—
+
+&emsp;&emsp;(A)
+
+Nazi-era claims.—Paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
+
+&emsp;&emsp;&emsp;(i) the property at issue is the work described in paragraph (1);
+
+&emsp;&emsp;&emsp;(ii) the action is based upon a claim that such work was taken in connection with the acts of a covered government during the covered period;
+
+&emsp;&emsp;&emsp;(iii) the court determines that the activity associated with the exhibition or display is commercial activity, as that term is defined in section 1603(d); and
+
+&emsp;&emsp;&emsp;(iv) a determination under clause (iii) is necessary for the court to exercise jurisdiction over the foreign state under subsection (a)(3).
+
+&emsp;&emsp;(B)
+
+Other culturally significant works.—In addition to cases exempted under subparagraph (A), paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
+
+&emsp;&emsp;&emsp;(i) the property at issue is the work described in paragraph (1);
+
+&emsp;&emsp;&emsp;(ii) the action is based upon a claim that such work was taken in connection with the acts of a foreign government as part of a systematic campaign of coercive confiscation or misappropriation of works from members of a targeted and vulnerable group;
+
+&emsp;&emsp;&emsp;(iii) the taking occurred after 1900;
+
+&emsp;&emsp;&emsp;(iv) the court determines that the activity associated with the exhibition or display is commercial activity, as that term is defined in section 1603(d); and
+
+&emsp;&emsp;&emsp;(v) a determination under clause (iv) is necessary for the court to exercise jurisdiction over the foreign state under subsection (a)(3).
+
+&emsp;(3)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;&emsp;(A) the term "work" means a work of art or other object of cultural significance;
+
+&emsp;&emsp;(B) the term "covered government" means—
+
+&emsp;&emsp;&emsp;(i) the Government of Germany during the covered period;
+
+&emsp;&emsp;&emsp;(ii) any government in any area in Europe that was occupied by the military forces of the Government of Germany during the covered period;
+
+&emsp;&emsp;&emsp;(iii) any government in Europe that was established with the assistance or cooperation of the Government of Germany during the covered period; and
+
+&emsp;&emsp;&emsp;(iv) any government in Europe that was an ally of the Government of Germany during the covered period; and
+
+&emsp;&emsp;(C) the term "covered period" means the period beginning on January 30, 1933, and ending on May 8, 1945.
+
+(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, §17(f)(2), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 110–181, div. A, title X, §1083(b)(1), Jan. 28, 2008, 122 Stat. 341; Pub. L. 114–222, §3(b)(2), Sept. 28, 2016, 130 Stat. 853; Pub. L. 114–319, §2(a), Dec. 16, 2016, 130 Stat. 1618.)
 
 #### References in Text
 
 Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in subsec. (g)(4), are set out in the Appendix to this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(1)(A). Pub. L. 114–222 inserted "or section 1605B" after "but for section 1605A".
+
+Subsec. (h). Pub. L. 114–319 added subsec. (h).
 
 <b>2008</b>—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(1)(A), struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
 
@@ -102,6 +170,12 @@ Subsec. (b)(2). Pub. L. 100–640, §1(2), substituted "paragraph (1) of this su
 
 Subsecs. (c), (d). Pub. L. 100–702, §1(3), added subsecs. (c) and (d).
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–319, §2(b), Dec. 16, 2016, 130 Stat. 1619, provided that: "The amendment made by this section \[amending this section\] shall apply to any civil action commenced on or after the date of the enactment of this Act \[Dec. 16, 2016\]."
+
+Amendment by Pub. L. 114–222 applicable to any civil action pending on, or commenced on or after, Sept. 28, 2016, and arising out of an injury to a person, property, or business on or after Sept. 11, 2001, see section 7 of Pub. L. 114–222, set out as a note under section 2333 of Title 18, Crimes and Criminal Procedure.
+
 #### Effective Date of 2008 Amendment
 
 For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
@@ -118,11 +192,15 @@ Pub. L. 104–132, title II, §221(c), Apr. 24, 1996, 110 Stat. 1243, provided t
 
 Pub. L. 100–640, §3, Nov. 9, 1988, 102 Stat. 3334, provided that: "The amendments made by this Act \[amending this section and section 1610 of this title\] shall apply to actions commenced on or after the date of the enactment of this Act \[Nov. 9, 1988\]."
 
+#### Notification
+
+Pub. L. 114–319, §3, Dec. 16, 2016, 130 Stat. 1620, provided that: "The Secretary of State shall ensure that foreign states that apply for immunity under Public Law 89–259 (22 U.S.C. 2459) are appropriately notified of the text of this Act \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\]."
+
 #### Civil Liability for Acts of State Sponsored Terrorism
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996, 110 Stat. 3009–121, 3009-172, provided that:
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
 
-"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
+"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agencyshall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
 
 "(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States."
 

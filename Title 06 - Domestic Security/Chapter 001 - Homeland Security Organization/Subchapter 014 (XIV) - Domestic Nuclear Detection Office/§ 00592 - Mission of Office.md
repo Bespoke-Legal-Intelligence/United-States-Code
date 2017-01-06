@@ -96,7 +96,7 @@ In this section:
 
 #### (3) Hawaiian native-serving institution
 
-&emsp;The term "Hawaiian native-serving institution" has the meaning given the term in section 1059d of title 20.
+&emsp;The term "Hawaiian native-serving institution" <sup>1</sup> has the meaning given the term in section 1059d of title 20.
 
 #### (4) Hispanic-serving institution
 
@@ -141,4 +141,6 @@ Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: "Congress fi
 &emsp;"(5) Once samples have been acquired and characterized, it is necessary to compare the results against samples of known material from reactors, weapons, and enrichment facilities, and from medical, academic, commercial, and other facilities containing such materials, throughout the world. Some of these samples are available to the International Atomic Energy Agency through safeguards agreements, and some countries maintain internal sample databases. Access to samples in many countries is limited by national security concerns.
 
 &emsp;"(6) In order to create a sufficient deterrent, it is necessary to have the capability to positively identify the source of nuclear or radiological material, and potential traffickers in nuclear or radiological material must be aware of that capability. International cooperation may be essential to catalogue all existing sources of nuclear or radiological material."
+
+<i><sup>1</sup></i><i> So in original. Section 1059d of title 20 defines "Native Hawaiian-serving institution".</i>
 

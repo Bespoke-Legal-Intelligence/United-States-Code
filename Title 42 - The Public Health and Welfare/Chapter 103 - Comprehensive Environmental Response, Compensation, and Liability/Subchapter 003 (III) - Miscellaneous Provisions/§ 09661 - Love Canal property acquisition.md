@@ -42,11 +42,11 @@ For purposes of this section:
 
 #### (1) Emergency Declaration Area
 
-&emsp;The terms "Emergency Declaration Area" and "Love Canal Emergency Declaration Area" mean the Emergency Declaration Area as defined in section 950, paragraph (2) of the General Municipal Law of the State of NewYork, Chapter 259, Laws of 1980, as in effect on October 17, 1986.
+&emsp;The terms "Emergency Declaration Area" and "Love Canal Emergency Declaration Area" mean the Emergency Declaration Area as defined in section 950, paragraph (2) of the General Municipal Law of the State of New York, Chapter 259, Laws of 1980, as in effect on October 17, 1986.
 
 #### (2) Private property
 
-&emsp;As used in subsection (a) of this section, the term "private property" means all property which is not owned by a department, agency, or instrumentality of—
+&emsp;As used in subsection (a), the term "private property" means all property which is not owned by a department, agency, or instrumentality of—
 
 &emsp;&emsp;(A) the United States, or
 

@@ -1,6 +1,6 @@
 ### §883h. Employment of public vessels
 
-The President is authorized to cause to be employed such of the public vessels as he deems itexpedient to employ, and to give such instructions for regulating their conduct as he deems proper in order to carry out the provisions of this subchapter.
+The President is authorized to cause to be employed such of the public vessels as he deems it expedient to employ, and to give such instructions for regulating their conduct as he deems proper in order to carry out the provisions of this subchapter.
 
 (Aug. 6, 1947, ch. 504, §8, 61 Stat. 788.)
 

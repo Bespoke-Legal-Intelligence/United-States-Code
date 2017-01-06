@@ -15,13 +15,16 @@
 | [3311\.](%C2%A7%2003311%20-%20State%20administration%20of%20criminal%20and%20health%20and%20safety%20laws.md) | State administration of criminal and health and safety laws. |
 | [3312\.](%C2%A7%2003312%20-%20Compliance%20with%20nationally%20recognized%20codes.md) | Compliance with nationally recognized codes. |
 | [3313\.](%C2%A7%2003313%20-%20Use%20of%20energy%20efficient%20lighting%20fixtures%20and%20bulbs.md) | Use of energy efficient lighting fixtures and bulbs. |
-| [3314\.](%C2%A7%2003314%20-%20Delegation.md) | Delegation. |
-| [3315\.](%C2%A7%2003315%20-%20Report%20to%20Congress.md) | Report to Congress. |
-| [3316\.](%C2%A7%2003316%20-%20Certain%20authority%20not%20affected.md) | Certain authority not affected. |
+| [3314\.](%C2%A7%2003314%20-%20Baby%20changing%20facilities%20in%20restrooms.md) | Baby changing facilities in restrooms. |
+| [3315\.](%C2%A7%2003315%20-%20Delegation.md) | Delegation. |
+| [3316\.](%C2%A7%2003316%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [3317\.](%C2%A7%2003317%20-%20Certain%20authority%20not%20affected.md) | Certain authority not affected. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–235, §2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 "Delegation", 3315 "Report to Congress", and 3316 "Certain authority not affected".
 
 <b>2007</b>—Pub. L. 110–140, title III, §323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 "Delegation", 3314 "Report to Congress", and 3315 "Certain authority not affected".
 
@@ -43,6 +46,7 @@
 - [&sect; 03311 - State administration of criminal and health and safety laws](%C2%A7%2003311%20-%20State%20administration%20of%20criminal%20and%20health%20and%20safety%20laws.md)
 - [&sect; 03312 - Compliance with nationally recognized codes](%C2%A7%2003312%20-%20Compliance%20with%20nationally%20recognized%20codes.md)
 - [&sect; 03313 - Use of energy efficient lighting fixtures and bulbs](%C2%A7%2003313%20-%20Use%20of%20energy%20efficient%20lighting%20fixtures%20and%20bulbs.md)
-- [&sect; 03314 - Delegation](%C2%A7%2003314%20-%20Delegation.md)
-- [&sect; 03315 - Report to Congress](%C2%A7%2003315%20-%20Report%20to%20Congress.md)
-- [&sect; 03316 - Certain authority not affected](%C2%A7%2003316%20-%20Certain%20authority%20not%20affected.md)
+- [&sect; 03314 - Baby changing facilities in restrooms](%C2%A7%2003314%20-%20Baby%20changing%20facilities%20in%20restrooms.md)
+- [&sect; 03315 - Delegation](%C2%A7%2003315%20-%20Delegation.md)
+- [&sect; 03316 - Report to Congress](%C2%A7%2003316%20-%20Report%20to%20Congress.md)
+- [&sect; 03317 - Certain authority not affected](%C2%A7%2003317%20-%20Certain%20authority%20not%20affected.md)

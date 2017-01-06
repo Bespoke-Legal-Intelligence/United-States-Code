@@ -1,6 +1,6 @@
 ### §110. Furniture for the Executive Residence at the White House
 
-All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of theNational Academy of Design, one member of the American Institute of Architects, and five members representing the public at large; the said committee to have full power to select and pass on the articles in question and to recommend the same for acceptance.
+All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of the National Academy of Design, one member of the American Institute of Architects, and five members representing the public at large; the said committee to have full power to select and pass on the articles in question and to recommend the same for acceptance.
 
 (June 25, 1948, ch. 644, 62 Stat. 679; Pub. L. 95–570, §5(c)(1), Nov. 2, 1978, 92 Stat. 2451.)
 
@@ -66,9 +66,9 @@ Section 1. (a) There shall be in the White House a Curator of the White House. T
 
 (b) The Curator shall report to the President and shall make recommendations with respect to the articles, fixtures, and objects to be declared by the President, under section 2 of the Act of September 22, 1961, to be of historic or artistic interest.
 
-Sec. 2. There is hereby established the Committee for the Preservation of the White House, hereinafter referred to as the "Committee". The Committee shall be composed of the Director of the National Park Service, the Curator of the White House, the Secretary of the Smithsonian Institution, the Chairman of the Commission of Fine Arts, the Director of the National Gallery of Art, the Chief Usher of the White House, and so many other members as the President may from time to time appoint. The Director of the National Park Service shall serve as Chairman of the Committee and shall designate an employee of that Service to act as Executive Secretary of the Committee. Members of the Committee shall serve without compensation.
+Sec. 2. There is hereby established the Committee for the Preservation of the White House, hereinafter referred to as the "Committee". The Committee shall be composed of the Director of the National Park Service, the Curator of the White House, the Secretary of the Smithsonian Institution, the Chairman of the Commission of Fine Arts, the Director of the National Gallery of Art, the Chief Usher of the White House, and so many other members as the President may from time to time appoint. The Director of the National Park Service shall serve as Chairman of the Committee andshall designate an employee of that Service to act as Executive Secretary of the Committee. Members of the Committee shall serve without compensation.
 
-Sec. 3. (a) The Committee shall report to the President and shall advise the Director of the National Park Service with respect to the discharge of his responsibility under the Act of September 22, 1961, for the preservation and the interpretation of the museum characterof the principal corridor on the ground floor and the principal public rooms on the first floor of the White House. Among other things, the Committee shall make recommendations as to the articles of furniture, fixtures, and decorative objects which shall be used or displayed in the aforesaid areas of the White House and as to the decor and arrangements therein best suited to enhance the historic and artistic values of the White House and of such articles, fixtures, and objects.
+Sec. 3. (a) The Committee shall report to the President and shall advise the Director of the National Park Service with respect to the discharge of his responsibility under the Act of September 22, 1961, for the preservation and the interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House. Among other things, the Committee shall make recommendations as to the articles of furniture, fixtures, and decorative objects which shall be used or displayed in the aforesaid areas of the White House and as to the decor and arrangements therein best suited to enhance the historic and artistic values of the White House and of such articles, fixtures, and objects.
 
 (b) The Committee shall cooperate with the White House Historical Association, a nonprofit organization heretofore formed under the laws of the District of Columbia.
 
@@ -78,45 +78,47 @@ Sec. 4. Consonant with law, each Federal department and agency represented on th
 
 #### Extension of Term of Committee for the Preservation of the White House
 
-Term of the Committee for the Preservation of the White House extended until Dec. 31, 1978, by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the Committee for the Preservation of the White House extended until Dec. 31, 1980, by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of the Committee for the Preservation of the White House were contained in the following prior Executive Orders:
 
-Term of the Committee for the Preservation of the White House extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, extended term until Sept. 30, 1995.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, extended term until Sept. 30, 1993.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, extended term until Sept. 30, 1991.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, extended term until Sept. 30, 1989.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, extended term until Sept. 30, 1987.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, extended term until Sept. 30, 1985.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Sept. 30, 1984.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, extended term until Dec. 31, 1982.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, extended term until Dec. 31, 1980.
+
+Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, extended term until Dec. 31, 1978.
 

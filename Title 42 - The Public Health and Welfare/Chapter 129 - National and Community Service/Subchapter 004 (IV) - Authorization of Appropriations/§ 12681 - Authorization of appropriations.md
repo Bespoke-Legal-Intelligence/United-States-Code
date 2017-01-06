@@ -64,7 +64,7 @@
 
 #### (C) Section 12653c
 
-&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, $12,000,000 shall be made available to provide financial assistance under section 12653c of this title.
+&emsp;&emsp;Of the amount authorized under subparagraph (A) for a fiscal year, $12,000,000 shall bemade available to provide financial assistance under section 12653c of this title.
 
 #### (D) Section 12653h
 

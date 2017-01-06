@@ -91,7 +91,7 @@ Pub. L. 109–280, title XII, §§1215(c)(2), 1219(b)(3), Aug. 17, 2006, 120 Sta
 
 Pub. L. 109–59, title XI, §§11164(b)(4), 11167(c), Aug. 10, 2005, 119 Stat. 1976, 1977, inserted "or reregister" after "register" in item 6719 and added item 6720A.
 
-<b>2004</b>—Pub. L. 108–357, title VIII, §§811(b), 815(b)(5)(B), 816(b), 854(c)(2), 859(b)(2), 861(b)(2), 863(c)(2), 884(b)(2), Oct. 22, 2004, 118 Stat. 1577, 1583, 1584, 1616, 1618-1620, 1634, added items 6707A, 6715A, and 6717 to 6720 and substituted "reportable transactions" for "tax shelters" in item 6707 and "advisees with respect to reportable transactions" for "investors in potentially abusive tax shelters" in item 6708.
+<b>2004</b>—Pub. L. 108–357, title VIII, §§811(b), 815(b)(5)(B), 816(b), 854(c)(2), 859(b)(2), 861(b)(2), 863(c)(2), 884(b)(2), Oct. 22, 2004, 118 Stat. 1577, 1583, 1584, 1616, 1618–1620, 1634, added items 6707A, 6715A, and 6717 to 6720 and substituted "reportable transactions" for "tax shelters" in item 6707 and "advisees with respect to reportable transactions" for "investors in potentially abusive tax shelters" in item 6708.
 
 <b>2001</b>—Pub. L. 107–16, title V, §542(b)(5)(A), June 7, 2001, 115 Stat. 83, added item 6716 "Failure to file information with respect to certain transfers at death and gifts".
 
@@ -111,7 +111,7 @@ Pub. L. 100–647, title VI, §6242(c), Nov. 10, 1988, 102 Stat. 3749, added ite
 
 Pub. L. 100–647, title I, §1012(aa)(5)(C)(ii), Nov. 10, 1988, 102 Stat. 3533, added item 6712 "Failure to disclose treaty-based return positions".
 
-<b>1987</b>—Pub. L. 100–203, title X, §§10701(c)(2), 10704(b)(2), 10705(b), Dec. 22, 1987, 101 Stat. 1330–459, 1330-463, 1330-464, substituted "Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations" for "Assessable penalties with respect to private foundation annual returns" in item 6685 and added items 6710 and 6711.
+<b>1987</b>—Pub. L. 100–203, title X, §§10701(c)(2), 10704(b)(2), 10705(b), Dec. 22, 1987, 101 Stat. 1330–459, 1330–463, 1330–464, substituted "Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations" for "Assessable penalties with respect to private foundation annual returns" in item 6685 and added items 6710 and 6711.
 
 <b>1986</b>—Pub. L. 99–514, title VI, §667(b)(2), title XI, §§1102(d)(2)(C), 1171(b)(7)(B), title XV, §1501(d)(3), (4), title XVIII, §§1848(e)(3), 1862(d)(3), Oct. 22, 1986, 100 Stat. 2306, 2416, 2513, 2740, 2858, 2884, inserted analysis of parts comprising subchapter B, inserted heading for Part I, struck out item 6678 "Failure to furnish certain statements", inserted "; overstatement of designated nondeductible contributions" in item 6693, substituted "regulated investment companies" for "qualified investment entities" in item 6697, struck out item 6699 "Assessable penalties relating to tax credit employee stock ownership plan", substituted "section 6047(d)" for "section 6047(e)" in item 6704, and redesignated item 6708, relating to penalties with respect to mortgage credit certificates, as 6709.
 

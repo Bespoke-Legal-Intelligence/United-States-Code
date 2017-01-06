@@ -50,7 +50,7 @@
 
 #### (1) Required advisory committees
 
-&emsp;In coordination with the working group under subsection (a) of this section, the Secretary shall establish advisory committees in accordance with paragraphs (2) and (3) to provide expert recommendations to assist such working groups in carrying out their respective responsibilities under subsections (a) and (b) of this section.
+&emsp;In coordination with the working group under subsection (a), the Secretary shall establish advisory committees in accordance with paragraphs (2) and (3) to provide expert recommendations to assist such working groups in carrying out their respective responsibilities under subsections (a) and (b).
 
 #### (2) National Advisory Committee on At-Risk Individuals and Public Health Emergencies
 
@@ -80,7 +80,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the Secretary shall establish an advisory committee to be known as the Emergency Public Information and Communications Advisory Committee (referred to in this paragraph as the "EPIC Advisory Committee").
+&emsp;&emsp;For purposes of paragraph (1), the Secretary shall establish an advisory committeeto be known as the Emergency Public Information and Communications Advisory Committee (referred to in this paragraph as the "EPIC Advisory Committee").
 
 #### (B) Duties
 
@@ -122,7 +122,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (5) Content of core curricula and training program
 
-&emsp;The Secretary shall ensure that the core curricula and training program established pursuant to this subsection respond to theneeds of State, local, and tribal public health authorities and integrate and emphasize essential public health security capabilities consistent with section 300hh–1(b)(2) of this title.
+&emsp;The Secretary shall ensure that the core curricula and training program established pursuant to this subsection respond to the needs of State, local, and tribal public health authorities and integrate and emphasize essential public health security capabilities consistent with section 300hh–1(b)(2) of this title.
 
 #### (6) Academic-workforce communication
 
@@ -144,11 +144,11 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (1) In general
 
-&emsp;With respect to pathogens of potential use in a bioterrorist attack, and other agents that may cause a public health emergency, the Secretary, taking into consideration any recommendations of the working group under subsection (a) of this section, shall conduct, and award grants, contracts, or cooperative agreements for, research, investigations, experiments, demonstrations, and studies in the health sciences relating to—
+&emsp;With respect to pathogens of potential use in a bioterrorist attack, and other agents that may cause a public health emergency, the Secretary, taking into consideration any recommendations of the working group under subsection (a), shall conduct, and award grants,contracts, or cooperative agreements for, research, investigations, experiments, demonstrations, and studies in the health sciences relating to—
 
 &emsp;&emsp;(A) the epidemiology and pathogenesis of such pathogens;
 
-&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
+&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a)), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
 
 &emsp;&emsp;(C) the development of priority countermeasures; and
 

@@ -10,7 +10,7 @@ Ombudsman.—
 
 &emsp;(1) The corporation shall hire and provide salary, benefits, and administrative expenses for an ombudsman for athletes, who shall—
 
-&emsp;&emsp;(A) provide independent advice to athletes at no cost about the applicable provisions of this chapter and the constitution and bylaws of the corporation, national governing bodies, paralympic sports organizations, international sports federations, the International Olympic Committee, the International Paralympic Committee, and the Pan-American Sports Organization, and with respect to the resolution of any dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition or other protected competition as defined inthe constitution and bylaws of the corporation;
+&emsp;&emsp;(A) provide independent advice to athletes at no cost about the applicable provisions of this chapter and the constitution and bylaws of the corporation, national governing bodies, paralympic sports organizations, international sports federations, the International Olympic Committee, the International Paralympic Committee, and the Pan-American Sports Organization, and with respect to the resolution of any dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition or other protected competition as defined in the constitution and bylaws of the corporation;
 
 &emsp;&emsp;(B) assist in mediating any such disputes; and
 
@@ -20,7 +20,7 @@ Ombudsman.—
 
 &emsp;&emsp;(i) The Athletes' Advisory Council shall provide the corporation's executive director with the name of one qualified person to serve as ombudsman for athletes.
 
-&emsp;&emsp;(ii) The corporation's executive director shall immediately transmit the name of such person to the corporation's executive committee.
+&emsp;&emsp;(ii) The corporation's executive director shall immediately transmit the name ofsuch person to the corporation's executive committee.
 
 &emsp;&emsp;(iii) The corporation's executive committee shall hire or not hire such person after fully considering the advice and counsel of the Athletes' Advisory Council.
 

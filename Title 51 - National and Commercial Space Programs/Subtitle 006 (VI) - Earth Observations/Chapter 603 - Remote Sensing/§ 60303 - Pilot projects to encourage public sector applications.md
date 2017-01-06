@@ -8,7 +8,7 @@ In General.—The Administrator shall establish a program of grants for competit
 
 Preferred Projects.—In awarding grants under this section, the Administrator shall give preference to projects that—
 
-&emsp;(1) make use of commercial data sets, including high resolution commercial satellite imagery and derived satellite data products, existing public data sets where commercial data sets are not available or applicable, or the fusion of such data sets;
+&emsp;(1) make use of commercial data sets, including high resolution commercial satelliteimagery and derived satellite data products, existing public data sets where commercial data sets are not available or applicable, or the fusion of such data sets;
 
 &emsp;(2) integrate multiple sources of geospatial information, such as geographic information system data, satellite-provided positioning data, and remotely sensed data, in innovative ways;
 

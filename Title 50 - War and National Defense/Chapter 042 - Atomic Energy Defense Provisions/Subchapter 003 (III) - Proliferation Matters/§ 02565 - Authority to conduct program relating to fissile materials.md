@@ -18,7 +18,7 @@ Pub. L. 113–291, div. C, title XXXI, §3122(b), Dec. 19, 2014, 128 Stat. 3894,
 
 "(1)
 
-In general.—Except as provided in paragraph (2) or specifically authorized by Congress, international material protection, control, and accounting activities in the Russian Federation shall be completed not later than fiscal year 2018.
+In general.—Except as provided in paragraph (2) or specifically authorized by Congress, internationalmaterial protection, control, and accounting activities in the Russian Federation shall be completed not later than fiscal year 2018.
 
 "(2)
 

@@ -12,7 +12,7 @@ Except as provided in subsections (b), (c), and (d), there are authorized to be 
 
 #### (b) Exemptions
 
-There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this title not to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
+There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this titlenot to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
 
 #### (c) Convention implementation
 

@@ -20,7 +20,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) the Great Lakes;
 
-&emsp;&emsp;(C) Lake Champlain (to the extent that such resources have hydrological, biological, physical, or geological characteristics and problems similar or related to those of the Great Lakes);
+&emsp;&emsp;(C) Lake Champlain (to the extent that such resources have hydrological, biological,physical, or geological characteristics and problems similar or related to those of the Great Lakes);
 
 &emsp;&emsp;(D) the territorial sea;
 
@@ -60,7 +60,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998,112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
+Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Pub. L. 105–160, §4(a)(3), redesignated pars. (6) to (8) as (8) to (10), resp
 
 Par. (11). Pub. L. 105–174, §10003(1), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-Pub. L. 105–160, §4(a)(3), (4), redesignated par. (9) as (11) and substituted "institute or other institution" for "regional consortium, institution of higher education, institute, or laboratory". Former par. (11) redesignated (13).
+Pub. L. 105–160, §4(a)(3), (4), redesignated par. (9) as (11) and substituted "institute or other institution" for"regional consortium, institution of higher education, institute, or laboratory". Former par. (11) redesignated (13).
 
 Pars. (12) to (17). Pub. L. 105–174, §10003(1), redesignated pars. (13) to (17) as (12) to (16), respectively. Former par. (12) redesignated (11).
 

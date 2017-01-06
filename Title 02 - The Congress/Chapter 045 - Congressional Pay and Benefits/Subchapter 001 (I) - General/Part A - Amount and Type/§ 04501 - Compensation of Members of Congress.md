@@ -140,6 +140,8 @@ Payroll Administrator Defined.—In this section, the 'payroll administrator' of
 
 #### Cost of Living Adjustment
 
+Pub. L. 114–223, div. C, §175, as added by Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1012, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2017."
+
 Pub. L. 114–113, §9, Dec. 18, 2015, 129 Stat. 2245, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016."
 
 Pub. L. 113–235, §8, Dec. 16, 2014, 128 Stat. 2133, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be "601(a)"\] of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2015."
@@ -162,7 +164,7 @@ Cost of Living Adjustment.—Notwithstanding section 601(a)(2) of the Legislativ
 
 "(b)
 
-Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected."
+Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the applicationof such provision to other persons or circumstances, shall not be affected."
 
 #### Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983
 

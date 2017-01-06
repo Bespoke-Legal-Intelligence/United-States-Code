@@ -6,13 +6,13 @@ There is hereby established a working capital fund for the Department of State, 
 
 #### (b) Charges to fund; credit to appropriations
 
-The current value of supplies returned to the working capital fund by a post, activity, oragency may be charged to the fund. The proceeds thereof shall, if otherwise authorized, be credited to current applicable appropriations and shall remain available for expenditures for the same purposes for which those appropriations are available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories.
+The current value of supplies returned to the working capital fund by a post, activity, or agency may be charged to the fund. The proceeds thereof shall, if otherwise authorized, be credited to current applicable appropriations and shall remain available for expenditures for the same purposes for which those appropriations are available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories.
 
 (Aug. 1, 1956, ch. 841, title I, §13, as added Pub. L. 88–205, pt. IV, §405, Dec. 16, 1963, 77 Stat. 391; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–226, pt. IV, §407(c), Feb. 7, 1972, 86 Stat. 35; Pub. L. 95–426, title I, §109(a), Oct. 7, 1978, 92 Stat. 966; Pub. L. 96–465, title II, §2201(b), Oct. 17, 1980, 94 Stat. 2157; renumbered title I and amended Pub. L. 97–241, title II, §§202(a), 203(a), Aug. 24, 1982, 96 Stat. 282, 290; Pub. L. 101–246, title I, §112, Feb. 16, 1990, 104 Stat. 21.)
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (a), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52\(§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 Title II of this Act, referred to in subsec. (a), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 

@@ -70,6 +70,6 @@
 - [&sect; 00325 - Incentive bonus savings plan for education expenses and other contingencies](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md)
 - [&sect; 00326 - Incentive bonus conversion to military occupational specialty to ease personnel shortage](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md)
 - [&sect; 00327 - Incentive bonus transfer between armed forces](%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md)
-- [&sect; 00328 - Combat-related injury rehabilitation pay](%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md)
+- [&sect; 00328 - Repealed. Pub. L. 114&#8211;328, div. A, title VI, &sect;647(a), Dec. 23, 2016, 130 Stat. 2168](%C2%A7%2000328%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7647%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202168.md)
 - [&sect; 00329 - Incentive bonus retired members and reserve component members volunteering for high-demand, low-density assignments](%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md)
 - [&sect; 00330 - Special pay accession bonus for officer candidates](%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md)

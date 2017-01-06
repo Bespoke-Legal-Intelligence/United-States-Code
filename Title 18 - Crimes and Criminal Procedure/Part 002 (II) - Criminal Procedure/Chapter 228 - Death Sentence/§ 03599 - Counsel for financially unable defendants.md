@@ -1,6 +1,6 @@
 ### §3599. Counsel for financially unable defendants
 
-(a)(1) Notwithstanding any other provision of law to the contrary, in every criminal action in which a defendant is charged with a crime whichmay be punishable by death, a defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services at any time either—
+(a)(1) Notwithstanding any other provision of law to the contrary, in every criminal action in which a defendant is charged with a crime which may be punishable by death, a defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services at any time either—
 
 &emsp;(A) before judgment; or
 

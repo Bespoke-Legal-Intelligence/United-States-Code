@@ -34,7 +34,7 @@ Pub. L. 97–424, title II, §201, Jan. 6, 1983, 96 Stat. 2137, provided that: "
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: "This title \[enacting section 407 of thistitle, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the 'Highway Safety Act of 1978'."
+Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: "This title \[enacting section 407 of this title, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the 'Highway Safety Act of 1978'."
 
 #### Short Title of 1976 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 93–87, title II, §201, Aug. 13, 1973, 87 Stat. 282, provided that: "T
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: "This title \[enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the 'Highway Safety Act of 1970'."
+Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: "This title \[enacting sections 144 and 322of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the 'Highway Safety Act of 1970'."
 
 #### Short Title
 
@@ -274,11 +274,11 @@ Demonstration activities.—In conducting the study under paragraph (1), the Sec
 
 Cooperative agreement.—The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation."
 
-Pub. L. 100–17, title II, §208, Apr. 2, 1987, 101 Stat. 222, as amended by Pub. L. 100–202, §101(l) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressingthese problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
+Pub. L. 100–17, title II, §208, Apr. 2, 1987, 101 Stat. 222, as amended by Pub. L. 100–202, §101(l) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
-Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms 'State', 'rural areas', and 'urban area' have the meaning such terms have under section 101."
+Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such reportshall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms 'State', 'rural areas', and 'urban area' have the meaning such terms have under section 101."
 
 \[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
 
@@ -310,7 +310,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 "(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation."
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, islisted on page 139), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, is listed on page 139), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
@@ -318,7 +318,7 @@ Pub. L. 93–87, title II, §211, Aug. 13, 1973, 87 Stat. 288, directed Secretar
 
 #### Highway Safety Citizen Participation Study
 
-Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
+Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study bythe Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
 
 #### National Center for Statistical Analysis of Highway Operations
 
@@ -358,7 +358,7 @@ Pub. L. 89–564, title II, §207, Sept. 9, 1966, 80 Stat. 737, directed Secreta
 
 Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, Aug. 20 1964, 78 Stat. 564, provided: "That the consent of Congress is hereby given to any two or more of the several States, and one or more of the several States and the District of Columbia, to enter into agreements or compacts—
 
-&emsp;"(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, andresearch programs of the human factors affecting traffic safety, and
+&emsp;"(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, and research programs of the human factors affecting traffic safety, and
 
 &emsp;"(2) for the establishment of such agencies, joint or otherwise, as they deem desirable for the establishment and carrying out of such traffic safety programs."
 

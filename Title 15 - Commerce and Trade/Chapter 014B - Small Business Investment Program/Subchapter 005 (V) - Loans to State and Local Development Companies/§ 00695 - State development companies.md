@@ -90,11 +90,11 @@ Subsec. (d)(3)(I) to (K). Pub. L. 110–140, §1204(a)(1)–(3), added subpars. 
 
 <b>1999</b>—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term 'rural areas' means those localities with populations of less than 20,000."
+<b>1990</b>—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas andthe promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term 'rural areas' means those localities with populations of less than 20,000."
 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
-<b>1988</b>—Pub. L. 100–590 inserted "State development companies" as section catchline, added subsec. (a), andredesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+<b>1988</b>—Pub. L. 100–590 inserted "State development companies" as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
 #### Effective Date of 2007 Amendment
 

@@ -12,3 +12,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1996</b>—Pub. L. 104–186 substituted "applicable accounts" for "contingent fund".
 
+#### Effective Date
+
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
+

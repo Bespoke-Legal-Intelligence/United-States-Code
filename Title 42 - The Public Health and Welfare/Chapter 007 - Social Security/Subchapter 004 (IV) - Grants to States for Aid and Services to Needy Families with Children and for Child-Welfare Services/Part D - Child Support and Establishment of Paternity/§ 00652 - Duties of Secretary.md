@@ -30,7 +30,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(6) maintain records of all amounts collected and disbursed under programs established pursuant to the provisions of this part and of the costs incurred in collecting such amounts;
 
-&emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number ofeach parent and, after consultation with the States, other common elements as determined by such designee;
+&emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
 &emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
@@ -46,13 +46,13 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;&emsp;(iii) the number of cases involving families—
 
-&emsp;&emsp;&emsp;&emsp;(I) who became ineligible for assistance under State programs funded under part A of this subchapter during a month in the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(I) who became ineligible for assistance under State programs funded under part A during a month in the fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to whom a child support payment was received in the month;
 
 &emsp;&emsp;(B) costs and staff associated with the Office of Child Support Enforcement;
 
-&emsp;&emsp;(C) the following data, separately stated for cases where the child is receiving assistance under a State program funded under part A of this subchapter (or foster care maintenance payments under part E of this subchapter), or formerly received such assistance or payments and the State is continuing to collect support assigned to it pursuant to section 608(a)(3) of this title or under section 671(a)(17) or 1396k of this title, and for all other cases under this part:
+&emsp;&emsp;(C) the following data, separately stated for cases where the child is receiving assistance under a State program funded under part A (or foster care maintenance payments under part E), or formerly received such assistance or payments and the State is continuing to collect support assigned to it pursuant to section 608(a)(3) of this title or under section 671(a)(17) or 1396k of this title, and for all other cases under this part:
 
 &emsp;&emsp;&emsp;(i) the total number of cases in which a support obligation has been established in the fiscal year for which the report is submitted;
 
@@ -72,13 +72,13 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(E) data, by State, on the use of the Federal Parent Locator Service, and the number of locate requests submitted without the noncustodial parent's social security account number;
 
-&emsp;&emsp;(F) the number of cases, by State, in which an applicant for or recipient of assistance under a State program funded under part A of this subchapter has refused to cooperate in identifying and locating the noncustodial parent and the number of cases in which refusal so to cooperate is based on good cause (as determined by the State);
+&emsp;&emsp;(F) the number of cases, by State, in which an applicant for or recipient of assistance under a State program funded under part A has refused to cooperate in identifying and locating the noncustodial parent and the number of cases in which refusal so to cooperate is based on good cause (as determined by the State);
 
 &emsp;&emsp;(G) data, by State, on use of the Internal Revenue Service for collections, the number of court orders on which collections were made, the number of paternity determinations made and the number of parents located, in sufficient detail to show the cost and benefits to the States and to the Federal Government;
 
 &emsp;&emsp;(H) the major problems encountered which have delayed or prevented implementation of the provisions of this part during the fiscal year last ending prior to the submission of such report; and
 
-&emsp;&emsp;(I) compliance, by State, with the standards established pursuant to subsections (h) and (i) of this section; and
+&emsp;&emsp;(I) compliance, by State, with the standards established pursuant to subsections (h) and (i); and
 
 &emsp;(11) not later than October 1, 1996, after consulting with the State directors of programs under this part, promulgate forms to be used by States in interstate cases for—
 
@@ -90,11 +90,11 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 #### (b) Certification of child support obligations to Secretary of the Treasury for collection
 
-The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
+The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
 
 #### (c) Payment of child support collections to States
 
-The Secretary of the Treasury shall from time to time pay to each State for distribution in accordance with the provisions of section 657 of this title the amount of each collection made on behalf of such State pursuant to subsection (b) of this section.
+The Secretary of the Treasury shall from time to time pay to each State for distribution in accordance with the provisions of section 657 of this title the amount of each collection made on behalf of such State pursuant to subsection (b).
 
 #### (d) Child support management information system
 
@@ -114,7 +114,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(G) provides such other information as the Secretary determines under regulation is necessary.
 
-(2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a) of this section, on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
+(2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a), on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
 
 (B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
@@ -122,7 +122,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(A) the State demonstrates to the satisfaction of the Secretary that the State has or can develop an alternative system or systems that enable the State—
 
-&emsp;&emsp;(i) for purposes of section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined in subsection (g)(2) of this section) and other performance measures that may be established by the Secretary;
+&emsp;&emsp;(i) for purposes of section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined in subsection (g)(2)) and other performance measures that may be established by the Secretary;
 
 &emsp;&emsp;(ii) to submit data under section 654(15)(B) of this title that is complete and reliable;
 
@@ -144,7 +144,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(c) of this title; or
 
-&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwiseimprove the State's child support enforcement program; and
+&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwise improve the State's child support enforcement program; and
 
 &emsp;(C) in the case of a request to waive the single statewide system requirement, the State has submitted to the Secretary separate estimates of the total cost of a single statewide system that meets such requirement, and of any such alternative system or systems, which shall include estimates of the cost of developing and completing the system and of operating and maintaining the system for 5 years, and the Secretary has agreed with the estimates.
 
@@ -154,7 +154,7 @@ The Secretary shall provide such technical assistance to States as he determines
 
 #### (f) Regulations
 
-The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part enforce medical support included as part of a child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage. For purposes of this part, the term "medical support" may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
+The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part enforce medical support included as part of a child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX with respect to the availability of health insurance coverage. For purposes of this part, the term "medical support" may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
 
 #### (g) Performance standards for State paternity establishment programs
 
@@ -180,11 +180,11 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;&emsp;(i) who have been born out of wedlock,
 
-&emsp;&emsp;(ii)(I) except as provided in the last sentence of this paragraph, with respect to whom assistance is being provided under the State program funded under part A of this subchapter in the fiscal year or, at the option of the State, as of the end of such year, or (II) with respect to whom services are being provided under the State's plan approved under this part in the fiscal year or, at the option of the State, as of the end of such year pursuant to an application submitted under section 654(4)(A)(ii) of this title, and
+&emsp;&emsp;(ii)(I) except as provided in the last sentence of this paragraph, with respect to whom assistance is being provided under the State program funded under part A in the fiscal year or, at the option of the State, as of the end of such year, or (II) with respect to whom services are being provided under the State's plan approved under this part in the fiscal year or, at the option of the State, as of the end of such year pursuant to an application submitted under section 654(4)(A)(ii) of this title, and
 
 &emsp;&emsp;(iii) the paternity of whom has been established or acknowledged,
 
-> &emsp;bears to the total number of children born out of wedlock and (except as provided in such last sentence) with respect to whom assistance was being provided under the State program funded under part A of this subchapter as of the end of the preceding fiscal year or with respect to whom services were being provided under the State's plan approved under this part as of the end of the preceding fiscal year pursuant to an application submitted under section 654(4)(A)(ii) of this title;
+> &emsp;bears to the total number of children born out of wedlock and (except as provided in such last sentence) with respect to whom assistance was being provided under the State program funded under part A as of the end of the preceding fiscal year or with respect to whom services were being provided under the State's plan approved under this part as of the end of the preceding fiscal year pursuant to an application submitted under section 654(4)(A)(ii) of this title;
 
 &emsp;(B) the term "statewide paternity establishment percentage" means, with respect to a State for a fiscal year, the ratio (expressed as a percentage) that the total number of minor children—
 
@@ -194,9 +194,9 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 > &emsp;bears to the total number of children born out of wedlock during the preceding fiscal year; and
 
-&emsp;(C) the term "reliable data" means the most recent data available which are found by theSecretary to be reliable for purposes of this section.
+&emsp;(C) the term "reliable data" means the most recent data available which are found by the Secretary to be reliable for purposes of this section.
 
-> For purposes of subparagraphs (A) and (B), the total number of children shall not include any child with respect to whom assistance is being provided under the State program funded under part A of this subchapter by reason of the death of a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title.
+> For purposes of subparagraphs (A) and (B), the total number of children shall not include any child with respect to whom assistance is being provided under the State program funded under part A by reason of the death of a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title.
 
 (3)(A) The Secretary may modify the requirements of this subsection to take into account such additional variables as the Secretary identifies (including the percentage of children in a State who are born out of wedlock or for whom support has not been established) that affect the ability of a State to meet the requirements of this subsection.
 
@@ -204,15 +204,15 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 #### (h) Prompt State response to requests for child support assistance
 
-The standards required by subsection (a)(1) of this section shall include standards establishing time limits governing the period or periods within which a State must accept and respond to requests (from States, jurisdictions thereof, or individuals who apply for services furnished by the State agency under this part or with respect to whom an assignment pursuant to section 608(a)(3) of this title is in effect) for assistance in establishing and enforcing support orders, including requests to locate noncustodial parents, establish paternity, and initiate proceedings to establish and collect child support awards.
+The standards required by subsection (a)(1) shall include standards establishing time limits governing the period or periods within which a State must accept and respond to requests (from States, jurisdictions thereof, or individuals who apply for services furnished by the State agency under this part or with respect to whom an assignment pursuant to section 608(a)(3) of this title is in effect) for assistance in establishing and enforcing support orders, including requests to locate noncustodial parents, establish paternity, and initiate proceedings to establish and collect child support awards.
 
 #### (i) Prompt State distribution of amounts collected as child support
 
-The standards required by subsection (a)(1) of this section shall include standards establishing time limits governing the period or periods within which a State must distribute, in accordance with section 657 of this title, amounts collected as child support pursuant to the State's plan approved under this part.
+The standards required by subsection (a)(1) shall include standards establishing time limits governing the period or periods within which a State must distribute, in accordance with section 657 of this title, amounts collected as child support pursuant to the State's plan approved under this part.
 
 #### (j) Training of Federal and State staff, research and demonstration programs, and special projects of regional or national significance
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year) or the amount appropriated under this paragraph <sup>1</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end ofsuch preceding fiscal year) or the amount appropriated under this paragraph <sup>1</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
 
 &emsp;(1) information dissemination and technical assistance to States, training of State and Federal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
 
@@ -280,7 +280,7 @@ The Secretary shall use the authorities otherwise provided by law to ensure the 
 
 &emsp;Nothing in this subsection shall be construed to require a change to existing data exchange standards found to be effective and efficient.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147; Pub. L. 113–183, title III, §§301(a)(1), 304(a), Sept. 29, 2014, 128 Stat. 1943, 1947.)
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23,1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147; Pub. L. 113–183, title III, §§301(a)(1), 304(a), Sept. 29, 2014, 128 Stat. 1943, 1947.)
 
 #### References in Text
 
@@ -352,7 +352,7 @@ Subsec. (a)(10)(A)(i) to (iii). Pub. L. 104–193, §346(a)(1)(B), added cls. (i
 
 Subsec. (a)(10)(C). Pub. L. 104–193, §346(a)(2)(A), in introductory provisions, substituted "separately stated for cases" for "with the data required under each clause being separately stated for cases", "or formerly received" for "cases where the child was formerly receiving", "671(a)(17) or 1396k of this title" for "671(a)(17) of this title", and "for all other cases under this part" for "all other cases under this part".
 
-Pub. L. 104–193, §108(c)(2), in introductory provisions, substituted "assistance under a State program funded under part A of this subchapter" for "aid to families with dependent children", "such assistance or payments" for "such aid or payments", and "pursuant to section 608(a)(3) of this title or under section" for "under section 602(a)(26) or".
+Pub. L. 104–193, §108(c)(2), in introductory provisions, substituted "assistance under a State program funded under part A" for "aid to families with dependent children", "such assistance or payments" for "such aid or payments", and "pursuant to section 608(a)(3) of this title or under section" for "under section 602(a)(26) or".
 
 Subsec. (a)(10)(C)(i), (ii). Pub. L. 104–193, §346(a)(2)(B), struck out ", and the total amount of such obligations" before semicolon at end.
 
@@ -364,7 +364,7 @@ Subsec. (a)(10)(E). Pub. L. 104–193, §395(d)(1)(B), substituted "noncustodial
 
 Subsec. (a)(10)(F). Pub. L. 104–193, §395(d)(1)(B), substituted "noncustodial" for "absent".
 
-Pub. L. 104–193, §108(c)(3), substituted "assistance under a State program funded under part A of this subchapter" for "aid under a State plan approved under part A of this subchapter" and "(as determined by the State)" for "(as determined in accordance with the standards referred to in section 602(a)(26)(B)(ii) of this title)".
+Pub. L. 104–193, §108(c)(3), substituted "assistance under a State program funded under part A" for "aid under a State plan approved under part A" and "(as determined by the State)" for "(as determined in accordance with the standards referred to in section 602(a)(26)(B)(ii) of this title)".
 
 Subsec. (a)(10)(G). Pub. L. 104–193, §346(a)(3), struck out "on the use of Federal courts and" before "on use of the Internal Revenue Service".
 
@@ -386,7 +386,7 @@ Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as rede
 
 Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(b)(2)(A), formerly §341(c)(2)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A of this subchapter" for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
+Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A" for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
 
 Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), in introductory provisions, substituted " 'IV–D paternity establishment percentage' " for " 'paternity establishment percentage' " and struck out "(or all States, as the case may be)" after "with respect to a State", and, in closing provisions, struck out "and" at end.
 
@@ -438,7 +438,7 @@ Subsec. (g)(1)(A) to (E). Pub. L. 103–66, §13721(a)(1)(D), added subpars. (A)
 
 Subsec. (g)(2). Pub. L. 103–66, §13721(a)(2)(C), (D), in concluding provisions, inserted "unless paternity is established for such child" after "the death of a parent" and "or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so" after "cooperate under section 602(a)(26) of this title".
 
-Subsec. (g)(2)(A). Pub. L. 103–66, §13721(a)(2)(A), in cl. (i), inserted before comma "during the fiscal year", in cl. (ii)(I), substituted "part A or E of this subchapter as of the end of the" for "part A of this subchapter (or under all such plans) for such", in cl. (ii)(II), substituted "this part or E as of the end of the" for "this part (or under all such plans) for the", in cl. (iii), inserted before comma "or acknowledged during the fiscal year", and in concluding provisions, substituted "children who were born out of wedlock during the immediately preceding fiscal year and" for "children who have been born out of wedlock and", "aid was being paid" for "aid is being paid", "part A or E of this subchapter as of the end of such preceding fiscal" for "part A of this subchapter (or under all such plans) for such fiscal", "services were being" for "services are being", and "this part or E as of the end of such preceding fiscal" for "this part (or under all such plans) for the fiscal".
+Subsec. (g)(2)(A). Pub. L. 103–66, §13721(a)(2)(A), in cl. (i), inserted before comma "during the fiscal year", in cl. (ii)(I), substituted "part A or E as of the end of the" for "part A (or under all such plans) for such", in cl. (ii)(II), substituted "this part or E as of the end of the" for "this part (or under all such plans) for the", in cl. (iii), inserted before comma "or acknowledged during the fiscal year", and in concluding provisions, substituted "children who were born out of wedlock during the immediately preceding fiscal year and" for "children who have been born out of wedlock and", "aid was being paid" for "aid is being paid", "part A or E of this subchapter as of the end of such preceding fiscal" for "part A of this subchapter (or under all such plans) for such fiscal", "services were being" for "services are being", and "this part or E as of the end of such preceding fiscal" for "this part (or under all such plans) for the fiscal".
 
 Subsec. (g)(2)(B). Pub. L. 103–66, §13721(a)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: "the applicable number of percentage points means, with respect to a fiscal year (beginning with the fiscal year 1991), 3 percentage points multiplied by the number of fiscal years after the fiscal year 1989 and before the beginning of such fiscal year."
 
@@ -478,7 +478,7 @@ Subsecs. (d)(1)(B), (2)(A), (B), (e). Pub. L. 98–378, §4(b), substituted "655
 
 Subsec. (f). Pub. L. 98–378, §16, added subsec. (f).
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–248 substituted provisions that the Secretary shall, upon the request of a State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(6) of this title for provisions that the Secretary would, upon the request of any State having in effect a State plan approved under this part, certify the amount of any child support obligation assigned to such State, including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter (or undertaken to be collected by such State pursuant to section 654(6) of this title) to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248 substituted provisions that the Secretary shall, upon the request of a State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such Statepursuant to section 654(6) of this title for provisions that the Secretary would, upon the request of any State having in effect a State plan approved under this part, certify the amount of any child support obligation assigned to such State, including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter (or undertaken to be collected by such State pursuant to section 654(6) of this title) to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1954.
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2332(b)(1)(A), inserted "and support for the spouse (or former spouse) with whom the absent parent's child is living".
 
@@ -536,7 +536,7 @@ Amendment by section 108(c)(2)–(9) of Pub. L. 104–193 effective July 1, 1997
 
 Pub. L. 104–193, title III, §341(c)(2), formerly §341(d)(2), Aug. 22, 1996, 110 Stat. 2233, as redesignated and amended by Pub. L. 105–200, title II, §201(e)(1)(A), (B)(ii), July 16, 1998, 112 Stat. 657, provided that: "The amendments made by subsection (b) \[amending this section\] shall become effective with respect to calendar quarters beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\]."
 
-Pub. L. 104–193, title III, §342(c), Aug. 22, 1996, 110 Stat. 2234, provided that: "The amendments made by this section \[amending this section and section 654 of this title\] shall be effective with respect to calendar quarters beginning 12 months or more after the date of the enactment of this Act \[Aug. 22, 1996\]."
+Pub. L. 104–193, title III, §342(c), Aug. 22, 1996, 110 Stat. 2234, provided that: "The amendments made bythis section \[amending this section and section 654 of this title\] shall be effective with respect to calendar quarters beginning 12 months or more after the date of the enactment of this Act \[Aug. 22, 1996\]."
 
 Pub. L. 104–193, title III, §346(b), Aug. 22, 1996, 110 Stat. 2239, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1997 and succeeding fiscal years."
 

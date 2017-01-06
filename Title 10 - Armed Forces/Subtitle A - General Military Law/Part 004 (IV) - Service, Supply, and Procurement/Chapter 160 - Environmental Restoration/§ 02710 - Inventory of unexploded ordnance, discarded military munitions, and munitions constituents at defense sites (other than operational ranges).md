@@ -192,7 +192,7 @@ Interim reports.—The Secretary shall periodically, but no less often than annu
 
 &emsp;"(4)
 
-Inclusion of information in annual report on environmental restoration activities.—The Secretary shall include the information obtained pursuant to the review conducted under paragraph (1) inthe annual report on environmental restoration activities submitted to Congress under \[former\] section 2706 of title 10, United States Code.
+Inclusion of information in annual report on environmental restoration activities.—The Secretary shall include the information obtained pursuant to the review conducted under paragraph (1) in the annual report on environmental restoration activities submitted to Congress under \[former\] section 2706 of title 10, United States Code.
 
 &emsp;"(5)
 

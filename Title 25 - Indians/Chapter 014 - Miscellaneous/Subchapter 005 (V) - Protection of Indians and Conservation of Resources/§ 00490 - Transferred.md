@@ -1,0 +1,6 @@
+### §490. Transferred
+
+#### Codification
+
+Section 490 was editorially reclassified as section 5139 of this title.
+

@@ -28,3 +28,7 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out "(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)" after "67 years of age".
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

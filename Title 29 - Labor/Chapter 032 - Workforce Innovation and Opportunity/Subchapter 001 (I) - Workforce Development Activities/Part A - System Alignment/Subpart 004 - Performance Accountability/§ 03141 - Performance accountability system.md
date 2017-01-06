@@ -52,7 +52,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (iv) Indicator for services to employers
 
-&emsp;&emsp;&emsp;Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause\(ii)(III) with respect to clause (i)(VI), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
+&emsp;&emsp;&emsp;Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause (ii)(III) with respect to clause (i)(VI), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
 
 #### (B) Additional indicators
 
@@ -90,7 +90,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (I) First 2 years
 
-&emsp;&emsp;&emsp;&emsp;The State shall reach agreement with the Secretary of Labor, in conjunction with the Secretary of Education on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the first 2 program years covered by the State plan. In reaching the agreement, the State and the Secretary of Labor in conjunction with the Secretary of Education shall take into account the levels identified in the State plan under clause (iii) and the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan prior to the approval of such plan.
+&emsp;&emsp;&emsp;&emsp;The State shall reach agreement with the Secretary of Labor, in conjunction with the Secretary of Education on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the first 2 program years covered by the State plan. In reaching the agreement, the State and the Secretary of Labor in conjunction with the Secretary of Education shall take into account the levelsidentified in the State plan under clause (iii) and the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan prior to the approval of such plan.
 
 #### (II) Third and fourth year
 
@@ -202,7 +202,7 @@ The purpose of this section is to establish performance accountability measures 
 
 &emsp;&emsp;(A) the information specified in subparagraphs (A) through (L) of paragraph (2), for each of the programs described in subclauses (I) through (III) of subsection (b)(3)(A)(ii);
 
-&emsp;&emsp;(B) the percentage of the local area's allocation under sections 3163(b) and 3173(b) of this title that the local area spent on administrative costs; and
+&emsp;&emsp;(B) the percentage of the local area's allocation under sections 3163(b) and 3173(b) ofthis title that the local area spent on administrative costs; and
 
 &emsp;&emsp;(C) other information that facilitates comparisons of programs with programs in other local areas (or planning regions, as appropriate).
 

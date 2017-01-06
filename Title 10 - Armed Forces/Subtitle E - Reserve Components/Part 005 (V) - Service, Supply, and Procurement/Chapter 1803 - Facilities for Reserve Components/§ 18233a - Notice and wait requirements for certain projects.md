@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 106–65, §2806(b), amended subsec. (b) generally. Prior t
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §2801(c), substituted "$1,500,000" for "$400,000".
 
-Pub. L. 104–106 substituted "the Committee on Armed Services and the Committee on Appropriations of theSenate and the Committee on National Security and the Committee on Appropriations of the" for "the Committees on Armed Services and on Appropriations of the Senate and".
+Pub. L. 104–106 substituted "the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the" for "the Committees on Armed Services and on Appropriations of the Senate and".
 
 Subsec. (b). Pub. L. 104–201, §2801(b), substituted "$500,000" for "$300,000".
 

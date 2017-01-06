@@ -28,7 +28,7 @@ The Agency shall take affirmative steps to seek diversity in its workforce at al
 
 &emsp;(2) sponsoring and recruiting at job fairs in urban communities, and placing employment advertisements in newspapers and magazines oriented toward women and people of color;
 
-&emsp;(3) partnering with organizations that are focused on developing opportunities for minorities and women to place talented young minorities and women in industry internships,summer employment, and full-time positions; and
+&emsp;(3) partnering with organizations that are focused on developing opportunities for minorities and women to place talented young minorities and women in industry internships, summer employment, and full-time positions; and
 
 &emsp;(4) where feasible, partnering with inner-city high schools, girls' high schools, and high schools with majority minority populations to establish or enhance financial literacy programs and provide mentoring.
 

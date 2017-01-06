@@ -10,7 +10,7 @@ In this section:
 
 #### (B) Clark County Off-Highway Vehicle Recreation Park
 
-&emsp;The term "Clark County Off-Highway Vehicle Recreation Park" means the approximately 960 acres of land identified on the Map as "Clark County Off-Highway Vehicle Recreation Park".
+&emsp;The term "Clark County Off-Highway Vehicle Recreation Park" means the approximately 960 acres of land identified on the Mapas "Clark County Off-Highway Vehicle Recreation Park".
 
 #### (C) County
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (B) Reservation of mineral estate
 
-&emsp;In conveying the parcels of Federal land under subparagraph (A), the Secretary shallreserve the mineral estate, except for purposes related to flood mitigation (including removal from aggregate flood events).
+&emsp;In conveying the parcels of Federal land under subparagraph (A), the Secretary shall reserve the mineral estate, except for purposes related to flood mitigation (including removal from aggregate flood events).
 
 #### (C) Use of conveyed land
 

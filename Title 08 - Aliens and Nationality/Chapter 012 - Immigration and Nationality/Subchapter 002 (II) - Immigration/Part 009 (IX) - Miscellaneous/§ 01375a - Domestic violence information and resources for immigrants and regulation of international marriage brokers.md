@@ -28,7 +28,7 @@
 
 #### (3) Summaries
 
-&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and theSecretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b).
+&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b).
 
 #### (4) Translation
 
@@ -96,7 +96,7 @@
 
 #### (2) Family-based applicants
 
-&emsp;The pamphlet developed under subsection (a)(1) shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
+&emsp;The pamphlet developed under subsection (a)(1) shall be distributed directly to applicants for family-based immigration petitionsat all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
 
 #### (c) Confidentiality
 
@@ -152,7 +152,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;(iv) Any Federal, State, or local arrest or conviction of the United States client for offenses related to controlled substances or alcohol.
 
-&emsp;&emsp;&emsp;(v) Marital history of the United States client, including whether the client is currently married, whether the client has previously been married and how many times, how previous marriages of the client were terminated and the date of termination,and whether the client has previously sponsored an alien to whom the client was engaged or married.
+&emsp;&emsp;&emsp;(v) Marital history of the United States client, including whether the client is currently married, whether the client has previously been married and how many times, how previous marriages of the client were terminated and the date of termination, and whether the client has previously sponsored an alien to whom the client was engaged or married.
 
 &emsp;&emsp;&emsp;(vi) The ages of any of the United States client's children who are under the age of 18.
 
@@ -170,7 +170,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;(iii) provided to the foreign national client—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the foreign national client's primary language, a copy of any records retrieved from the search required under paragraph (2)(A)(i) or documentation confirming that such search retrieved no records;
+&emsp;&emsp;&emsp;&emsp;(I) in the foreign national client's primary language, a copy of any records retrieved from the search required under paragraph (2)(A)(i) or documentationconfirming that such search retrieved no records;
 
 &emsp;&emsp;&emsp;&emsp;(II) in the foreign national client's primary language, a copy of the signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B); and
 
@@ -308,7 +308,7 @@ In this section:
 
 #### (7) Representative
 
-&emsp;The term "representative" means, with respect to an international marriage broker, theperson or entity acting on behalf of such broker. Such a representative may be a recruiter, agent, independent contractor, or other international marriage broker or other person conveying information about or to a United States client or foreign national client, whether or not the person or entity receives remuneration.
+&emsp;The term "representative" means, with respect to an international marriage broker, the person or entity acting on behalf of such broker. Such a representative may be a recruiter, agent, independent contractor, or other international marriage broker or other person conveying information about or to a United States client or foreign national client, whether or not the person or entity receives remuneration.
 
 #### (8) State
 
@@ -374,7 +374,7 @@ In this section:
 
 #### (C) Data collection
 
-&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary ofState shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
+&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
 
 (Pub. L. 109–162, title VIII, §833, Jan. 5, 2006, 119 Stat. 3068; Pub. L. 113–4, title VIII, §§807(b), 808(b)–(d), Mar. 7, 2013, 127 Stat. 113–116.)
 

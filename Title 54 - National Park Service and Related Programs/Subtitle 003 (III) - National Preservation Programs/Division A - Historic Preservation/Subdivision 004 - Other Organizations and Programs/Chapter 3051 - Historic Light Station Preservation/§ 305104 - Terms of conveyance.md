@@ -18,7 +18,7 @@ In General.—The conveyance of a historic light station shall be made subject t
 
 &emsp;(6) the eligible entity to which the historic light station is conveyed shall not sell, convey, assign, exchange, or encumber the historic light station, any part of the historic light station, or any associated historic artifact conveyed to the eligible entity in conjunction with the historic light station conveyance, including any lens or lantern, unless the sale, conveyance, assignment, exchange, or encumbrance is approved by the Secretary;
 
-&emsp;(7) the eligible entity to which the historic light station is conveyed shall not conduct any commercial activity at the historic light station, at any part of the historic light station, or in connection with any associated historic artifact conveyed to the eligible entity in conjunction with the historic light stationconveyance, in any manner, unless the commercial activity is approved by the Secretary; and
+&emsp;(7) the eligible entity to which the historic light station is conveyed shall not conduct any commercial activity at the historic light station, at any part of the historic light station, or in connection with any associated historic artifact conveyed to the eligible entity in conjunction with the historic light station conveyance, in any manner, unless the commercial activity is approved by the Secretary; and
 
 &emsp;(8) the United States shall have the right, at any time, to enter the historic light station without notice, for purposes of operating, maintaining, and inspecting any aid to navigation and for the purpose of ensuring compliance with this section, to the extent that it is not possible to provide advance notice.
 

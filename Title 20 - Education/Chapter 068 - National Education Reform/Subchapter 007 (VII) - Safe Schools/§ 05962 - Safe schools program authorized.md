@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From funds appropriated pursuant to the authority of subsection (b)(1) of this section, the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six <sup>1</sup> of the National Education Goals by helping to ensure that all schools are safe and free of violence.
+&emsp;From funds appropriated pursuant to the authority of subsection (b)(1), the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six <sup>1</sup> of the National Education Goals by helping to ensure that all schools are safe and free of violence.
 
 #### (2) Grant duration and amount
 

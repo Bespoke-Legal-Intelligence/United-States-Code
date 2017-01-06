@@ -16,7 +16,7 @@
 
 (B) An officer who has been required to show cause for retention on active duty under subsection (b) of section 1181 of this title and who is thereafter retained on active duty may not again be required to show cause for retention on active duty under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the board of inquiry that considered his case are determined to have been obtained by fraud or collusion.
 
-(Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872; amended Pub. L. 105–261, div. A,title V, §503(b)(1), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292; Pub. L. 107–314, div. A, title V, §506(a), Dec. 2, 2002, 116 Stat. 2534.)
+(Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872; amended Pub. L. 105–261, div. A, title V, §503(b)(1), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292; Pub. L. 107–314, div. A, title V, §506(a), Dec. 2, 2002, 116 Stat. 2534.)
 
 #### Amendments
 
@@ -29,4 +29,8 @@
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, §1087(d)(2)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

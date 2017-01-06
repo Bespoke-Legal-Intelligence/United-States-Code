@@ -2,9 +2,9 @@
 
 (a) Except as provided under chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
 
-(b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 11(2) of the Inspector General Act of 1978.
+(b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 11(2) <sup>1</sup> of the Inspector General Act of 1978.
 
-(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term "Postal Inspector" included <sup>1</sup> any agent to whom any investigative powers are granted under section 3061 of title 18.
+(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term "Postal Inspector" included <sup>2</sup> any agent to whom any investigative powers are granted under section 3061 of title 18.
 
 (d) The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title, to extend opportunity to the disadvantaged and the handicapped.
 
@@ -12,11 +12,11 @@
 
 #### References in Text
 
-Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted "chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978," for "chapters 2 and 12 of this title".
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted "chapters 2 and 12 of thistitle, section 8G of the Inspector General Act of 1978," for "chapters 2 and 12 of this title".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(A)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
@@ -46,5 +46,7 @@ Pub. L. 91–375, §9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "includes".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "includes".</i>
 

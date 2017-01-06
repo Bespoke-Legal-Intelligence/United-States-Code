@@ -34,7 +34,7 @@
 
 &emsp;Any lessor who properly uses the material aspects of any model disclosure form established by the Bureau under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.
 
-(Pub. L. 90–321, title I, §187, as added Pub. L. 104–208, div. A, title II, §2605(b)(1), Sept. 30, 1996,110 Stat. 3009–471; amended Pub. L. 111–203, title X, §1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
+(Pub. L. 90–321, title I, §187, as added Pub. L. 104–208, div. A, title II, §2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471; amended Pub. L. 111–203, title X, §1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
 
 #### Amendments
 

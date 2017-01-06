@@ -30,7 +30,7 @@ In carrying out the duties under this part, the Statistics Commissioner,<sup>1</
 
 #### (4) Technical assistance and coordination
 
-&emsp;In order to maximize the effectiveness of Department efforts to serve the educationalneeds of children and youth, the Statistics Commissioner shall—
+&emsp;In order to maximize the effectiveness of Department efforts to serve the educational needs of children and youth, the Statistics Commissioner shall—
 
 &emsp;&emsp;(A) provide technical assistance to the Department offices that gather data for statistical purposes; and
 

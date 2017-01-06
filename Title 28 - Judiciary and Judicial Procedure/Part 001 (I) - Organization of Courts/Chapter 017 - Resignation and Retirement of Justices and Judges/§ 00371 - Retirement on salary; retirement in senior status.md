@@ -39,7 +39,7 @@
 
 (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A-165; Pub. L. 106–518, title III, §303, Nov. 13, 2000, 114 Stat. 2417.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165; Pub. L. 106–518, title III, §303, Nov. 13, 2000, 114 Stat. 2417.)
 
 #### Historical and Revision Notes
 
@@ -93,7 +93,7 @@ Subsec. (c). Act Feb. 10, 1954, in general amendment of section, omitted subsec.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A-165, provided that: "The amendments made by this section \[amending this section and repealing section 180 of this title\] shall take effect as of October 1, 1999."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: "The amendments made by this section \[amending this section and repealing section 180 of this title\] shall take effect as of October 1, 1999."
 
 #### Effective Date of 1989 Amendment
 

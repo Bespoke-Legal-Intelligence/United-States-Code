@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the UnitedStates and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -28,7 +28,7 @@
 
 #### (4) Report
 
-&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have an impact upon United States jurisdictions, and propose measures which the United States andthe Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
+&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have an impact upon United States jurisdictions, and propose measures which the United States and the Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
 
 #### (b) Economic development plans review process
 
@@ -76,7 +76,7 @@
 
 #### (e) Section 177 Agreement
 
-(1) In furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made bythe United States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
+(1) In furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made by the United States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
 
 (2) In the event that the President determines that an investment management firm selected by the Government of the Marshall Islands does not meet the requirements specified in Article I of the Section 177 Agreement, the United States shall invoke the conference and dispute resolution procedures of Article II of Title Four of the Compact. Pending the resolution of such a dispute and until a qualified Fund Manager has been designated, the Government of the Marshall Islands shall place the funds paid by the United States pursuant to Article I of the Section 177 Agreement into an interest-bearing escrow account. Upon designation of a qualified Fund Manager, all funds in the escrow account shall be transferred to the control of such Fund Manager for management pursuant to the Section 177 Agreement.
 
@@ -88,7 +88,7 @@
 
 #### (f) Nuclear test effects
 
-In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, whichamounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (g) Espousal provisions
 
@@ -132,7 +132,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (k) Enjebi Community Trust Fund
 
-Notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United Statesa fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the "Enjebi Community Trust Fund" (hereafter in this subsection referred to as the "Fund"), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
+Notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United States a fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the "Enjebi Community Trust Fund" (hereafter in this subsection referred to as the "Fund"), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
 
 #### (1) Enjebi trust agreement
 

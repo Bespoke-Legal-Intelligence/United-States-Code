@@ -110,7 +110,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 #### (F) Advisory Committee recommendations
 
-&emsp;&emsp;A list of recommendations by the WTC Scientific/Technical Advisory Committee on additional WTC Program eligibility criteria and on additional WTC-related health conditions and the action of the WTC Program Administrator concerning each such recommendation.
+&emsp;&emsp;A list of recommendations by the WTC Scientific/Technical Advisory Committee on additional WTC Program eligibility criteriaand on additional WTC-related health conditions and the action of the WTC Program Administrator concerning each such recommendation.
 
 #### (3) Separate clinical programs described
 

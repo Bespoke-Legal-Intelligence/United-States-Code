@@ -34,17 +34,17 @@ In the case of any water resources project-related study authorized to be undert
 
 #### (d) Indian tribes
 
-For purposes of studies undertaken pursuant to this section, the Secretary is authorized to consider benefits which may accrue to Indian tribes as a result of a project resulting from such a study.
+For purposes of studies undertaken pursuant to this section, the Secretary is authorized toconsider benefits which may accrue to Indian tribes as a result of a project resulting from such a study.
 
 #### (e) Standard and uniform procedures and practices
 
-The Secretary shall undertake such measures as are necessary to ensure that standard anduniform procedures and practices are followed by each district office (and each division office for any area in which there is no district office) of the United States Army Corps of Engineers in the preparation of feasibility reports on water resources projects.
+The Secretary shall undertake such measures as are necessary to ensure that standard and uniform procedures and practices are followed by each district office (and each division office for any area in which there is no district office) of the United States Army Corps of Engineers in the preparation of feasibility reports on water resources projects.
 
 #### (f) Enhanced public participation
 
 #### (1) In general
 
-&emsp;The Secretary shall establish procedures to enhance public participation in the development of each feasibility study under subsection (a) of this section, including, if appropriate, establishment of a stakeholder advisory group to assist the Secretary with the development of the study.
+&emsp;The Secretary shall establish procedures to enhance public participation in the development of each feasibility study under subsection (a), including, if appropriate, establishment of a stakeholder advisory group to assist the Secretary with the development of the study.
 
 #### (2) Membership
 
@@ -52,7 +52,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 #### (3) Limitation
 
-&emsp;Procedures established under this subsection shall not delay development of any feasibility study under subsection (a) of this section.
+&emsp;Procedures established under this subsection shall not delay development of any feasibility study under subsection (a).
 
 #### (g) Detailed project schedule
 
@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 113–121, §1002(a)(1), struck out subsec. (b) which relat
 
 Subsec. (g). Pub. L. 113–121, §1002(c), added subsec. (g).
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted "the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and" for "the Secretary, the Secretary shall" in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted "A feasibility report" for "Such feasibilityreport" and "The feasibility report" in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: "This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled 'An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property', approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project."
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted "the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and" for "the Secretary, the Secretary shall" in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted "A feasibility report" for "Such feasibility report" and "The feasibility report" in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: "This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled 'An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property', approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project."
 
 Subsec. (b). Pub. L. 110–114, §2043(b)(2)(A), inserted heading.
 

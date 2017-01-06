@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 881(a)) that is used or intended for use to commit, or to facilitate the commission of, an offense under section 70503 of this title may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act (21 U.S.C. 881).
+In General.—Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 881(a)) that is used or intended for use to commit, or to facilitate the commission of, an offense under section 70503 or 70508 of this title may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act (21 U.S.C. 881).
 
 (b)
 
-Prima Facie Evidence of Violation.—Practices commonly recognized as smuggling tactics may provide prima facie evidence of intent to use a vessel to commit, or to facilitate the commission of, an offense under section 70503 of this title, and may support seizure and forfeiture of the vessel, even in the absence of controlled substances aboard the vessel. The following indicia, among others, may be considered, in the totality of the circumstances, to be prima facie evidence that a vessel is intended to be used to commit, or to facilitate the commission of, such an offense:
+Prima Facie Evidence of Violation.—Practices commonly recognized as smugglingtactics may provide prima facie evidence of intent to use a vessel to commit, or to facilitate the commission of, an offense under section 70503 of this title, and may support seizure and forfeiture of the vessel, even in the absence of controlled substances aboard the vessel. The following indicia, among others, may be considered, in the totality of the circumstances, to be prima facie evidence that a vessel is intended to be used to commit, or to facilitate the commission of, such an offense:
 
 &emsp;(1) The construction or adaptation of the vessel in a manner that facilitates smuggling, including—
 
@@ -40,7 +40,7 @@ Prima Facie Evidence of Violation.—Practices commonly recognized as smuggling 
 
 &emsp;(9) The presence of a controlled substance in the water in the vicinity of the vessel, where given the currents, weather conditions, and course and speed of the vessel, the quantity or other nature is such that it reasonably indicates manufacturing or distribution activity.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1688.)
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1688; Pub. L. 114–120, title III, §314(d), Feb. 8, 2016, 130 Stat. 59.)
 
 Historical and Revision Notes
 
@@ -57,4 +57,8 @@ Historical and Revision Notes
 46 App.:1904.
 
 Pub. L. 96–350, §4, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title III, §3202, Oct. 27, 1986, 100 Stat. 3207–97; Pub. L. 99–640, §17, Nov. 10, 1986, 100 Stat. 3554; Pub. L. 107–295, title IV, §418(b), Nov. 25, 2002, 116 Stat. 2123.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–120 substituted "section 70503 or 70508" for "section 70503".
 

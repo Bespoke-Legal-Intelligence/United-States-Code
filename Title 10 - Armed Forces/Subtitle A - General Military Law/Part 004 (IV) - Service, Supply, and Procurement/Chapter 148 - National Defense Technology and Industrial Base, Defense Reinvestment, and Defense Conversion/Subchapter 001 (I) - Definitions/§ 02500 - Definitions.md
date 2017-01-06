@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term "national technology and industrial base" means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States and Canada.
+&emsp;(1) The term "national technology and industrial base" means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, and Canada.
 
 &emsp;(2) The term "dual-use" with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
 
@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;(7) The term "national critical technology" means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) <sup>1</sup> of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
-&emsp;(8) The term "defense critical technology" means a technology that is identified undersection 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.
+&emsp;(8) The term "defense critical technology" means a technology that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.
 
 &emsp;(9) The term "eligible firm" means a company or other business entity that, as determined by the Secretary of Commerce—
 
@@ -58,7 +58,7 @@ In this chapter:
 
 &emsp;(15) The term "integration" means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313.)
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ Section 603 of the National Science and Technology Policy, Organization, and Pri
 Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
+
+<b>2016</b>—Par. (1). Pub. L. 114–328 inserted ", the United Kingdom of Great Britain and Northern Ireland, Australia," after "United States".
 
 <b>2011</b>—Par. (1). Pub. L. 111–383, §895(a)(1), substituted "integration, services, or information technology" for "or maintenance".
 
@@ -122,7 +124,7 @@ Pub. L. 114–92, div. A, title VIII, §897, Nov. 25, 2015, 129 Stat. 954, provi
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
-Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect on the day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
+Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect onthe day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
 
 #### Congressional Findings
 

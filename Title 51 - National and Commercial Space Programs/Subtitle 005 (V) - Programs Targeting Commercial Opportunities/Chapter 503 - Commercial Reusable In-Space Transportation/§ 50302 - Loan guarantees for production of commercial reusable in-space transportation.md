@@ -36,7 +36,7 @@ Prohibition on subordination.—A loan guaranteed under this section may not be 
 
 Restriction on income.—A loan guaranteed under this section may not—
 
-&emsp;&emsp;(A) provide income which is excluded from gross income for purposes of chapter 1 of theInternal Revenue Code of 1986 (26 U.S.C. 1 et seq.); or
+&emsp;&emsp;(A) provide income which is excluded from gross income for purposes of chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.); or
 
 &emsp;&emsp;(B) provide significant collateral or security, as determined by the Secretary, for other obligations the income from which is so excluded.
 

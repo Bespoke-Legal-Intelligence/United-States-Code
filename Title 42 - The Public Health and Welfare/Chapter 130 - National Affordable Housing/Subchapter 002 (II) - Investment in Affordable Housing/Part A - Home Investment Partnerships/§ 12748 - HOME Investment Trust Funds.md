@@ -18,7 +18,7 @@ A participating jurisdiction's line of credit shall be reduced by—
 
 &emsp;(1) funds drawn from the HOME Investment Trust Fund by the participating jurisdiction,
 
-&emsp;(2) funds expiring under subsection (g) of this section, and
+&emsp;(2) funds expiring under subsection (g), and
 
 &emsp;(3) any penalties assessed by the Secretary under section 12754 <sup>1</sup> of this title.
 

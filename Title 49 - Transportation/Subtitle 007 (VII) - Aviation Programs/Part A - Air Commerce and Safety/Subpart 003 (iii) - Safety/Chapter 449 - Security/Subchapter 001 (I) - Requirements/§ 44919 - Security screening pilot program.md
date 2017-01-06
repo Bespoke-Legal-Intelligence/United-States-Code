@@ -18,11 +18,11 @@ Selection of Airports.—From among applications submitted under subsection (c),
 
 (e)
 
-Supervision of Screened Personnel.—The Under Secretary shall provide Federal Government supervisors to oversee all screening at each airport participating in the pilot program under this section and provide Federal Government law enforcement officers at the airport pursuant to this chapter.
+Supervision of Screened Personnel.—The Under Secretary shall provide Federal Government supervisors to oversee all screening ateach airport participating in the pilot program under this section and provide Federal Government law enforcement officers at the airport pursuant to this chapter.
 
 (f)
 
-Qualified Private Screening Company.—A private screening company is qualified to provide screening services at an airport participating in the pilot program under this section if the company will only employ individuals to provide such services who meet all the requirements ofthis chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
+Qualified Private Screening Company.—A private screening company is qualified to provide screening services at an airport participating in the pilot program under this section if the company will only employ individuals to provide such services who meet all the requirements of this chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
 
 (g)
 

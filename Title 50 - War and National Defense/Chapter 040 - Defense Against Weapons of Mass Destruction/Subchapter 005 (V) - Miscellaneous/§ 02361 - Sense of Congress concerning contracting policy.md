@@ -4,9 +4,9 @@ It is the sense of Congress that the Secretary of Defense, the Secretary of Ener
 
 &emsp;(1) contract directly with suppliers in independent states of the former Soviet Union when such action would—
 
-&emsp;&emsp;(A) result in significant savings of the programs referred to in subchapter III of this chapter; and
+&emsp;&emsp;(A) result in significant savings of the programs referred to in subchapter III; and
 
-&emsp;&emsp;(B) substantially expedite completion of the programs referred to in subchapter III of this chapter; and
+&emsp;&emsp;(B) substantially expedite completion of the programs referred to in subchapter III; and
 
 &emsp;(2) seek means to use innovative contracting approaches to avoid delay and increase the effectiveness of such programs and of the exercise of such authorities.
 

@@ -2,7 +2,7 @@
 
 #### (a) Reallocation and grant of license
 
-Notwithstanding any other provision of law, and subject to the provisions of this chapter, the Commission shall reallocate and grant a licenseto the First Responder Network Authority for the use of the 700 MHz D block spectrum and existing public safety broadband spectrum.
+Notwithstanding any other provision of law, and subject to the provisions of this chapter, the Commission shall reallocate and grant a license to the First Responder Network Authority for the use of the 700 MHz D block spectrum and existing public safety broadband spectrum.
 
 #### (b) Term of license
 

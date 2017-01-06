@@ -1,6 +1,6 @@
 ### §1304. Judgments, awards, and compromise settlements
 
-(a) Necessary amounts are appropriated to pay final judgments, awards, compromise settlements, and interest and costs specified in the judgments or otherwise authorized by law when—
+(a) Necessary amounts are appropriated to pay final judgments, awards, compromise settlements, and interest and costs specified in thejudgments or otherwise authorized by law when—
 
 &emsp;(1) payment is not otherwise provided for;
 

@@ -14,7 +14,7 @@
 
 (2) The study under paragraph (1) shall include consideration of the following:
 
-&emsp;(A) the cost effectiveness of investments in each of the components involved in providing adequate and reliable electric service, including generation, transmission, and distribution facilities, and devices available to the electric consumer;
+&emsp;(A) the cost effectiveness of investments in each of the components involved in providingadequate and reliable electric service, including generation, transmission, and distribution facilities, and devices available to the electric consumer;
 
 &emsp;(B) the environmental and other effects of the investments considered under subparagraph (A);
 

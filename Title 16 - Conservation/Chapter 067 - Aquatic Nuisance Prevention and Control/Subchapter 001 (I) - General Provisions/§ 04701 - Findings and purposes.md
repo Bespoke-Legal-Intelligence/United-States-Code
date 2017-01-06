@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductions of nonindigenous species to fresh, brackish, and saltwater environments;
 
-&emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carrydiseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
+&emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carry diseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
 
 &emsp;(3) the zebra mussel was unintentionally introduced into the Great Lakes and has infested—
 

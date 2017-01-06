@@ -1,6 +1,6 @@
 ### §5013. Secretary of the Navy
 
-(a)(1) There is a Secretary of the Navy, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Navy.
+(a)(1) There is a Secretary of the Navy, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Navy.
 
 (2) A person may not be appointed as Secretary of the Navy within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -60,7 +60,7 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §511(c)(2), Oct. 1, 1986, 100 Stat. 1043; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558.)
+(Added Pub. L. 99–433, title V, §511(c)(2), Oct. 1, 1986, 100 Stat. 1043; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, §931(b), Dec. 23, 2016, 130 Stat. 2363.)
 
 #### Prior Provisions
 
@@ -69,6 +69,8 @@ Provisions similar to those in this section were contained in section 5031 of th
 A prior section 5013 was renumbered section 5063 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328 inserted "The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience." after first sentence.
 
 <b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out "(to the maximum extent practicable)" after "fulfill".
 
@@ -144,7 +146,7 @@ Demonstration Project Authorized.—The Secretary of the Navy may conduct a demo
 
 "(b)
 
-Sources of Training.—The Secretary may enter into a cooperative agreement with one or more private, nonprofit organizations for purposes of providing at the military installations included in the demonstration project the prerelease employment training authorized under subsection (a) or may provide such training directly at such installations by agreement with the State concerned.
+Sources of Training.—The Secretary may enter into a cooperative agreement with one or more private, nonprofit organizations for purposes of providing at the military installations included in the demonstration project the prerelease employment training authorizedunder subsection (a) or may provide such training directly at such installations by agreement with the State concerned.
 
 "(c)
 

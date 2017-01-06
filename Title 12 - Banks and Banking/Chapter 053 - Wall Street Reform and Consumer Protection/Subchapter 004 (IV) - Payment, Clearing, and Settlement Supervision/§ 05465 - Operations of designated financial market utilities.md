@@ -22,7 +22,7 @@ The Board of Governors may exempt a designated financial market utility from, or
 
 #### (A) Advance notice of proposed changes required
 
-&emsp;&emsp;A designated financial market utility shall provide notice 60 days in advance notice <sup>2</sup> to its Supervisory Agency of any proposedchange to its rules, procedures, or operations that could, as defined in rules of each Supervisory Agency, materially affect, the nature or level of risks presented by the designated financial market utility.
+&emsp;&emsp;A designated financial market utility shall provide notice 60 days in advance notice <sup>2</sup> to its Supervisory Agency of any proposed change to its rules, procedures, or operations that could, as defined in rules of each Supervisory Agency, materially affect, the nature or level of risks presented by the designated financial market utility.
 
 #### (B) Terms and standards prescribed by the Supervisory Agencies
 

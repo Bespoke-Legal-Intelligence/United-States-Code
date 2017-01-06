@@ -32,7 +32,7 @@
 
 The Secretary shall by regulation provide for—
 
-&emsp;(1) the establishment and enforcement of safety procedures for the transfer of listedagents and toxins, including measures to ensure—
+&emsp;(1) the establishment and enforcement of safety procedures for the transfer of listed agents and toxins, including measures to ensure—
 
 &emsp;&emsp;(A) proper training and appropriate skills to handle such agents and toxins; and
 
@@ -62,7 +62,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) In general
 
-&emsp;Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
+&emsp;Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary ofHomeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
 
 #### (2) Limiting access to listed agents and toxins
 
@@ -150,7 +150,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (i) Submission of ex parte materials in judicial proceedings
 
-&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation by any law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of informationthat the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
+&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation by any law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
 
 #### (ii) Disclosure of information
 
@@ -196,7 +196,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (B) Clinical or diagnostic laboratories
 
-&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer overlap agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
+&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt clinical or diagnostic laboratories and other persons who possess, use, ortransfer overlap agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
 
 &emsp;&emsp;&emsp;(i) the identification of such agents or toxins is reported to the Secretary, and when required under Federal, State, or local law, to other appropriate authorities; and
 

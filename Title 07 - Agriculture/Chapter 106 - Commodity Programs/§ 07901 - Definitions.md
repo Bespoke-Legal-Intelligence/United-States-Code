@@ -70,7 +70,7 @@ In this chapter (other than subchapter III):
 
 #### (15) Target price
 
-&emsp;The term "target price" means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
+&emsp;The term "target price" means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of acovered commodity used to determine the payment rate for counter-cyclical payments.
 
 #### (16) United States
 

@@ -6,7 +6,7 @@ The Chairman shall report annually to the Speaker of the House of Representative
 
 #### (b) Contents of reports
 
-Each annual report required by subsection (a) of this section shall contain—
+Each annual report required by subsection (a) shall contain—
 
 &emsp;(1) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate;
 
@@ -28,7 +28,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
 
-&emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year1990, the report described in section 262p–4h of this title;
+&emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
 
 &emsp;(10) in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
 
@@ -38,7 +38,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;&emsp;(B) the performance of the privately owned enterprises resulting from such transformation; and
 
-&emsp;&emsp;(C) the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
+&emsp;&emsp;(C) the contributions of development finance companies toward strengthening theprivate sector in member borrowing countries.
 
 #### (c) Definitions
 
@@ -62,7 +62,7 @@ As used in this title, title XVIII, and title XIX:
 
 #### (d) Testimony required
 
-Upon request of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Chairman shall testify before the Committee to support and explain each annual report required by subsection (a) of this section. If the President has delegated to a person or persons other than the Chairman the authority to manage United States participation in the international financial institutions which was vested in the President by section 1(b) of the Reorganization Plan No. 4 of 1965, such person or persons shall, upon request of the Committee, accompany the Chairman and testify before the Committee with regard to such report. The Chairman and such other person or persons shall assess, in their testimony, the effectiveness of the international financial institutions, the major issues affecting United States participation, the major developments in the past year, the prospects for the coming year, United States policy goals with respect to the international financial institutions, and any specific issues addressed to them by any member of the Committee.
+Upon request of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Chairman shall testify before the Committee to support and explain each annual report required by subsection (a). If the President has delegated to a person or persons other than the Chairman the authority to manage United States participation in the international financial institutions which was vested in the President by section 1(b) of the Reorganization Plan No. 4 of 1965, such person or persons shall, upon request of the Committee, accompany the Chairman and testify before the Committee with regard to such report. The Chairman and such other person or persons shall assess, in their testimony, the effectiveness of the international financial institutions, the major issues affecting United States participation, the major developments in the past year, the prospects for the coming year, United States policy goals with respect to the international financial institutions, and any specific issues addressed to them by any member of the Committee.
 
 #### (e) Advisory Committee on IMF policy
 
@@ -102,7 +102,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §583\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–202, provided that:
 
-"(a) Notwithstanding any other provision of law, each annual report required by subsection 1701(a) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262r), shall comprise—
+"(a) Notwithstanding any other provision of law, each annual report required by subsection 1701(a) of theInternational Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262r), shall comprise—
 
 &emsp;"(1) an assessment of the effectiveness of the major policies and operations of the international financial institutions;
 
@@ -216,7 +216,7 @@ Reports by the Executive Branch.—
 
 &emsp;"(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
 
-&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1)."
+&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implementsuch recommendations as are deemed feasible and desirable under paragraph (1)."
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 

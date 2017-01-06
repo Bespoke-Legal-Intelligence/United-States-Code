@@ -16,7 +16,7 @@ In this section:
 
 #### (2) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304(e) of title 25.
 
 #### (3) Nonmerchantable
 

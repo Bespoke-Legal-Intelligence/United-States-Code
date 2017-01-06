@@ -6,7 +6,7 @@ Within 6 months after October 8, 2010, the Commission shall establish rules that
 
 #### (b) Individuals who are deaf-blind defined
 
-For purposes of this subsection,<sup>1</sup> the term "individuals who are deaf-blind" has the samemeaning given such term in the Helen Keller National Center Act, as amended by the Rehabilitation Act Amendments of 1992 (29 U.S.C. 1905(2)).
+For purposes of this subsection,<sup>1</sup> the term "individuals who are deaf-blind" has the same meaning given such term in the Helen Keller National Center Act, as amended by the Rehabilitation Act Amendments of 1992 (29 U.S.C. 1905(2)).
 
 #### (c) Annual amount
 

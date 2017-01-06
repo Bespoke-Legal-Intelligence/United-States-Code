@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The term "independence at home medical practice" means a legal entity that—
 
-&emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and social services staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours perday, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
+&emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and social services staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours per day, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
 
 &emsp;&emsp;&emsp;(ii) is organized at least in part for the purpose of providing physicians' services;
 
@@ -178,7 +178,7 @@ For purposes of administering and carrying out the demonstration program, other 
 
 &emsp;The Secretary may terminate an agreement with an independence at home medical practice for such other reasons determined appropriate by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866E, formerly §1866D, as added and renumbered §1866E,Pub. L. 111–148, title III, §3024, title X, §10308(b)(2), Mar. 23, 2010, 124 Stat. 404, 942; amended Pub. L. 114–39, §2, July 30, 2015, 129 Stat. 440.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866E, formerly §1866D, as added and renumbered §1866E, Pub. L. 111–148, title III, §3024, title X, §10308(b)(2), Mar. 23, 2010, 124 Stat. 404, 942; amended Pub. L. 114–39, §2, July 30, 2015, 129 Stat. 440.)
 
 #### References in Text
 

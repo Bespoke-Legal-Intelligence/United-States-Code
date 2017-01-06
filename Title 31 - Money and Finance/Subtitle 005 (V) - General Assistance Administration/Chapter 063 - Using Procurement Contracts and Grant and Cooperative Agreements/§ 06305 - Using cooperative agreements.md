@@ -1,6 +1,6 @@
 ### §6305. Using cooperative agreements
 
-An executive agency shall use a cooperative agreement as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
+An executive agency shall use a cooperative agreement as the legal instrument reflecting arelationship between the United States Government and a State, a local government, or other recipient when—
 
 &emsp;(1) the principal purpose of the relationship is to transfer a thing of value to the State, local government, or other recipient to carry out a public purpose of support or stimulation authorized by a law of the United States instead of acquiring (by purchase, lease, or barter) property or services for the direct benefit or use of the United States Government; and
 
@@ -30,7 +30,7 @@ Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995, provided that: "Notwit
 
 #### Printing of Educational Materials and Continuation of Challenge Cost-Share Program
 
-Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018, provided that: "Notwithstanding the provisions of theFederal Grant and Cooperative Agreements Act of 1977 (31 U.S.C. 6301–6308), the Forest Service is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals to print educational materials and to continue the Challenge Cost-Share Program."
+Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018, provided that: "Notwithstanding the provisions of the Federal Grant and Cooperative Agreements Act of 1977 (31 U.S.C. 6301–6308), the Forest Service is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals to print educational materials and to continue the Challenge Cost-Share Program."
 
 #### Bureau of Land Management; Authorization To Use Cooperative Arrangements To Implement Challenge Cost-Share Programs
 

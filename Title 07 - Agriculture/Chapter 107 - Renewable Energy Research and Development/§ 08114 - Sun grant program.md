@@ -4,7 +4,7 @@
 
 The Secretary shall establish and carry out a program to provide grants to the sun grant centers and subcenter specified in subsection (b)—
 
-&emsp;(1) to enhance national energy security through the development, distribution, andimplementation of biobased energy technologies;
+&emsp;(1) to enhance national energy security through the development, distribution, and implementation of biobased energy technologies;
 
 &emsp;(2) to promote diversification in, and the environmental sustainability of, agricultural production in the United States through biobased energy and product technologies;
 
@@ -140,7 +140,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (3) Research, extension and educational activities
 
-&emsp;The sun grant centers and subcenter shall use the remainder of the funds described in subsection (b) to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
+&emsp;The sun grant centers and subcenter shall use the remainder of the funds described insubsection (b) to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
 
 &emsp;&emsp;(A) research, extension, and educational programs on technology development; and
 

@@ -46,13 +46,33 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
 
-(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §701(a), Jan. 2, 2013, 126 Stat. 1798.)
+(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §701(a), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 114–328, div. A, title VII, §701(j)(1)(B), Dec. 23, 2016, 130 Stat. 2192.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–328, div. A, title VII, §701(j)(1)(B), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this section is amended:</i>
+
+<i>(1) in subsection (d)(1), by inserting after "coverage." the following: "Such premium shall apply instead of any enrollment fees required under section 1075 of this section.";</i>
+
+<i>(2) in subsection (f), by striking paragraph (2) and inserting the following new paragraph:</i>
+
+&emsp;<i>"(2) The term 'TRICARE Reserve Select' means the TRICARE Select self-managed, preferred-provider network option under section 1075 made available to beneficiaries by reason of this section and in accordance with subsection (d)(1)."; and</i>
+
+<i>(3) by striking "TRICARE Standard" each place it appears (including in the heading) and inserting "TRICARE Reserve Select".</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2), probably means the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, §701(j)(1)(B)(iii), substituted "TRICARE Reserve Select" for "TRICARE Standard" in section catchline and wherever appearing in text.
+
+Subsec. (d)(1). Pub. L. 114–328, §701(j)(1)(B)(i), inserted at end "Such premium shall apply instead of any enrollment fees required under section 1075 of this section."
+
+Subsec. (f)(2). Pub. L. 114–328, §701(j)(1)(B)(ii), added par. (2) and struck out former par. (2) which defined the term "TRICARE Standard".
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), eligibility" for "Eligibility", and added par. (2).
 
@@ -88,13 +108,17 @@ Subsec. (d)(3). Pub. L. 109–364, §704(c), inserted at end "During the period 
 
 Subsec. (e). Pub. L. 109–364, §706(c)(1)(A), (B), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "The service agreement required of a member of a reserve component under subsection (a)(2) is separate from any other form of commitment of the member to a period of obligated service in that reserve component and may cover any part or all of the same period that is covered by another commitment of the member to a period of obligated service in that reserve component.".
 
-Subsec. (f)(2). Pub. L. 109–163, §701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'TRICARE Standard' means the CivilianHealth and Medical Program of the Uniformed Services option under the TRICARE program."
+Subsec. (f)(2). Pub. L. 109–163, §701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'TRICARE Standard' means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program."
 
 Subsec. (f)(3). Pub. L. 109–364, §706(c)(1)(C), struck out par. (3) which read as follows: "The term 'member recalled to active duty' means, with respect to a member who is eligible for coverage under this section based on a period of active duty service, a member who is called or ordered to active duty for an additional period of active duty subsequent to the period of active duty on which that eligibility is based."
 
 Pub. L. 109–163, §701(a)(3), added par. (3).
 
 Subsec. (g). Pub. L. 109–364, §706(c)(1)(B), redesignated subsec. (g) as (e).
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–328 applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as a note under section 1072 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -113,6 +137,268 @@ Pub. L. 109–364, div. A, title VII, §706(f), Oct. 17, 2006, 120 Stat. 2282, a
 "(2) The enrollment of a member in TRICARE Standard that is in effect on the day before health care under TRICARE Standard is provided pursuant to the effective date in subsection (g) \[set out as an Effective Date of 2006 Amendment note above\] shall not be terminated by operation of the exclusion of eligibility under subsection (a)(2) of such section 1076d, as so amended, for the duration of the eligibility of the member under TRICARE Standard as in effect on October 16, 2006."
 
 \[Pub. L. 110–181, div. A, title VII, §706(b), Jan. 28, 2008, 122 Stat. 189, provided that: "The amendments made by subsection (a) \[amending section 706(f) of Pub. L. 109–364, set out above\] shall take effect on October 1, 2007."\]
+
+#### Commercial Health Insurance Coverage Pilot Program for Eligible Reserve Component Members
+
+Pub. L. 114–328, div. A, title VII, §712(b), (c), Dec. 23, 2016, 130 Stat. 2215, 2219, provided that:
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Authorization.—The Secretary of Defense and the Director may jointly carry out a pilot program, at the election of the Secretary, under which the Director provides commercial health insurance coverage to eligible reserve component members who enroll in a health benefits plan under paragraph (4) as an individual, for self plus one coverage, or for self and family coverage.
+
+&emsp;"(2)
+
+Elements.—The pilot program shall—
+
+&emsp;&emsp;"(A) provide for enrollment by eligible reserve component members, at the election of the member, in a health benefits plan under paragraph (4) during an open enrollment period established by the Director for purposes of this subsection;
+
+&emsp;&emsp;"(B) include a variety of national and regional health benefits plans that—
+
+&emsp;&emsp;&emsp;"(i) meet the requirements of this subsection;
+
+&emsp;&emsp;&emsp;"(ii) are broadly representative of the health benefits plans available in the commercial market; and
+
+&emsp;&emsp;&emsp;"(iii) do not contain unnecessary restrictions, as determined by the Director; and
+
+&emsp;&emsp;"(C) offer a sufficient number of health benefits plans in order to provide eligible reserve component beneficiaries with an ample choice of health benefits plans, as determined by the Director.
+
+&emsp;"(3)
+
+Duration.—If the Secretary elects to carry out the pilot program, the Secretary and the Director shall carry out the pilot program for not less than five years.
+
+&emsp;"(4)
+
+Health benefits plans.—
+
+&emsp;&emsp;"(A)
+
+In general.—In providing health insurance coverage under the pilot program, the Director shall contract with qualified carriers for a variety of health benefits plans.
+
+&emsp;&emsp;"(B)
+
+Description of plans.—Health benefits plans contracted for under this subsection—
+
+&emsp;&emsp;&emsp;"(i) may vary by type of plan design, covered benefits, geography, and price;
+
+&emsp;&emsp;&emsp;"(ii) shall include maximum limitations on out-of-pocket expenses paid by an eligible reserve component beneficiary for the health care provided; and
+
+&emsp;&emsp;&emsp;"(iii) may not exclude an eligible reserve component member who chooses to enroll.
+
+&emsp;&emsp;"(C)
+
+Quality of plans.—The Director shall ensure that each health benefits plan offered under this subsection offers a high degree of quality, as determined by criteria that include—
+
+&emsp;&emsp;&emsp;"(i) access to an ample number of medical providers, as determined by the Director;
+
+&emsp;&emsp;&emsp;"(ii) adherence to industry-accepted quality measurements, as determined by the Director;
+
+&emsp;&emsp;&emsp;"(iii) access to benefits described in paragraph (5), including ease of referral for health care services; and
+
+&emsp;&emsp;&emsp;"(iv) inclusion in the services covered by the plan of advancements in medical treatments and technology as soon as practicable in accordance with generally accepted standards of medicine.
+
+&emsp;"(5)
+
+Benefits.—A health benefits plan offered by the Director under this subsection shall include, at a minimum, the following benefits:
+
+&emsp;&emsp;"(A) The health care benefits provided under chapter 55 of title 10, United States Code, excluding pharmaceutical, dental, and extended health care option benefits.
+
+&emsp;&emsp;"(B) Such other benefits as the Director determines appropriate.
+
+&emsp;"(6)
+
+Care at facilities of uniformed services.—
+
+&emsp;&emsp;"(A)
+
+In general.—If an eligible reserve component beneficiary receives benefits described in paragraph (5) at a facility of the uniformed services, the health benefits plan under which the beneficiary is covered shall be treated as a third-party payer under section 1095 of title 10, United States Code, and shall pay charges for such benefits as determined by the Secretary.
+
+&emsp;&emsp;"(B)
+
+Military medical treatment facilities.—The Secretary, in consultation with the Director—
+
+&emsp;&emsp;&emsp;"(i) may contract with qualified carriers with which the Director has contracted under paragraph (4) to provide health insurance coverage for health care services provided at military treatment facilities under this subsection; and
+
+&emsp;&emsp;&emsp;"(ii) may receive payments under section 1095 of title 10, United States Code, from qualified carriers for health care services provided at military medical treatment facilities under this subsection.
+
+&emsp;"(7)
+
+Special rule relating to active duty period.—
+
+&emsp;&emsp;"(A)
+
+In general.—An eligible reserve component member may not receive benefits under a health benefits plan under this subsection during any period in which the member is serving on active duty for more than 30 days.
+
+&emsp;&emsp;"(B)
+
+Treatment of dependents.—Subparagraph (A) does not affect the coverage under a health benefits plan of any dependent of an eligible reserve component member.
+
+&emsp;"(8)
+
+Eligibility for federal employees health benefits program.—An individual is not eligible to enroll in or be covered under a health benefits plan under this subsection if the individual is eligible to enroll in a health benefits plan under the Federal Employees Health Benefits Program.
+
+&emsp;"(9)
+
+Cost sharing.—
+
+&emsp;&emsp;"(A)
+
+Responsibility for payment.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Except as provided in clause (ii), an eligible reserve component member shall pay an annual premium amount calculated under subparagraph (B) for coverage under a health benefits plan under this subsection and additional amounts described in subparagraph (C) for health care services in connection with such coverage.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Active duty period.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
+
+In general.—During any period in which an eligible reserve component member is serving on active duty for more than 30 days, the eligible reserve component member is not responsible for paying any premium amount under subparagraph (B) or additional amounts under subparagraph (C).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
+
+Coverage of dependents.—With respect to a dependent of an eligible reserve component member that is covered under a health benefits plan under this subsection, during any period described in subclause (I) with respect to the member, the Secretary shall, on behalf of the dependent, pay 100 percent of the total annual amount of a premium for coverage of the dependent under the plan and such cost-sharing amounts as may be applicable under the plan.
+
+&emsp;&emsp;"(B)
+
+Premium amount.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The annual premium calculated under this subparagraph is an amount equal to 28 percent of the total annual amount of a premium under the health benefits plan selected.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Types of coverage.—The premium amounts calculated under this subparagraph shall include separate calculations for—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) coverage as an individual;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) self plus one coverage; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) self and family coverage.
+
+&emsp;&emsp;"(C)
+
+Additional amounts.—The additional amounts described in this subparagraph with respect to an eligible reserve component member are such cost-sharing amounts as may be applicable under the health benefits plan under which the member is covered.
+
+&emsp;"(10)
+
+Contracting.—
+
+&emsp;&emsp;"(A)
+
+In general.—In contracting for health benefits plans under paragraph (4), the Director may contract with qualified carriers in a manner similar to the manner in which the Director contracts with carriers under section 8902 of title 5, United States Code, including that—
+
+&emsp;&emsp;&emsp;"(i) a contract under this subsection shall be for a uniform term of not less than one year, but may be made automatically renewable from term to term in the absence of notice of termination by either party;
+
+&emsp;&emsp;&emsp;"(ii) a contract under this subsection shall contain a detailed statement of benefits offered and shall include such maximums, limitations, exclusions, and other definitions of benefits determined by the Director in accordance with paragraph (5);
+
+&emsp;&emsp;&emsp;"(iii) a contract under this subsection shall ensure that an eligible reserve component member who is eligible to enroll in a health benefits plan pursuant to such contract is able to enroll in such plan; and
+
+&emsp;&emsp;&emsp;"(iv) the terms of a contract under this subsection relating to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any conflicting State or local law.
+
+&emsp;&emsp;"(B)
+
+Evaluation of financial solvency.—The Director shall perform a thorough evaluation of thefinancial solvency of an insurance carrier before entering into a contract with the insurance carrier under subparagraph (A).
+
+&emsp;"(11)
+
+Recommendations and data.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense, in consultation with the Secretary of Homeland Security, shall provide recommendations and data to the Director with respect to—
+
+&emsp;&emsp;&emsp;"(i) matters involving military medical treatment facilities;
+
+&emsp;&emsp;&emsp;"(ii) matters unique to eligible reserve component members and dependents of such members; and
+
+&emsp;&emsp;&emsp;"(iii) such other strategic guidance necessary for the Director to administer this subsection as the Secretary of Defense, in consultation with the Secretary of Homeland Security, considers appropriate.
+
+&emsp;&emsp;"(B)
+
+Limitation on implementation.—The Director shall not implement any recommendation provided by the Secretary of Defense under subparagraph (A) if the Director determines that the implementation of the recommendation would result in eligible reserve components beneficiaries receiving less generous health benefits under this subsection than the health benefits commonly available to individuals under the Federal Employees Health Benefits Program during the same period.
+
+&emsp;"(12)
+
+Transmission of information.—On an annual basis during each year in which the pilot program is carried out, the Director shall provide the Secretary with information on the use of health care benefits under the pilot program, including—
+
+&emsp;&emsp;"(A) the number of eligible reserve component beneficiaries participating in the pilot program, listed by the health benefits plan under which the beneficiary is covered;
+
+&emsp;&emsp;"(B) the number of health benefits plans offered under the pilot program and a description of each such plan; and
+
+&emsp;&emsp;"(C) the costs of the health care provided under the plans.
+
+&emsp;"(13)
+
+Funding.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense and the Director shall jointly establish an appropriate mechanism to fund the pilot program.
+
+&emsp;&emsp;"(B)
+
+Availability of amounts.—Amounts shall be made available to the Director pursuant to the mechanism established under subparagraph (A), without fiscal year limitation—
+
+&emsp;&emsp;&emsp;"(i) for payments to health benefits plans under this subsection; and
+
+&emsp;&emsp;&emsp;"(ii) to pay the costs of administering this subsection.
+
+&emsp;"(14)
+
+Reports.—
+
+&emsp;&emsp;"(A)
+
+Initial reports.—Not later than one year after the date on which the Secretary establishes the pilot program, and annually thereafter for the following three years, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Matters included.—The report under subparagraph (A) shall include, with respect to the year covered by the report, the following:
+
+&emsp;&emsp;&emsp;"(i) The number of eligible reserve component beneficiaries participating in the pilot program, listed by the health benefits plan under which the beneficiary is covered.
+
+&emsp;&emsp;&emsp;"(ii) The number of health benefits plans offered under the pilot program.
+
+&emsp;&emsp;&emsp;"(iii) The cost of the pilot program to the Department of Defense.
+
+&emsp;&emsp;&emsp;"(iv) The estimated cost savings, if any, to the Department of Defense.
+
+&emsp;&emsp;&emsp;"(v) The average cost to the eligible reserve component beneficiary.
+
+&emsp;&emsp;&emsp;"(vi) The effect of the pilot program on the medical readiness of the members of the reserve components.
+
+&emsp;&emsp;&emsp;"(vii) The effect of the pilot program on access to health care for members of the reserve components.
+
+&emsp;&emsp;"(C)
+
+Final report.—Not later than 180 days before the date on which the pilot program will terminate pursuant to paragraph (3), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program that includes—
+
+&emsp;&emsp;&emsp;"(i) the matters specified under subparagraph (B); and
+
+&emsp;&emsp;&emsp;"(ii) the recommendation of the Secretary regarding whether to make the pilot program permanent or to terminate the pilot program.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Director' means the Director of the Office of Personnel Management.
+
+&emsp;"(2) The term 'eligible reserve component beneficiary' means an eligible reserve component member enrolled in, or a dependent of such a member described in subparagraph (A), (D), or (I) of section 1072(2) of title 10, United States Code, covered under, a health benefits plan under subsection (b).
+
+&emsp;"(3) The term 'eligible reserve component member' means a member of the Selected Reserve of the Ready Reserve of an Armed Force.
+
+&emsp;"(4) The term 'extended health care option' means the program of extended benefits under subsections (d) and (e) of section 1079 of title 10, United States Code.
+
+&emsp;"(5) The term 'Federal Employees Health Benefits Program' means the health insurance program under chapter 89 of title 5, United States Code.
+
+&emsp;"(6) The term 'qualified carrier' means an insurance carrier that is licensed to issue group health insurance in any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, and any territory or possession of the United States."
 
 #### Calculation of Monthly Premiums for 2009
 

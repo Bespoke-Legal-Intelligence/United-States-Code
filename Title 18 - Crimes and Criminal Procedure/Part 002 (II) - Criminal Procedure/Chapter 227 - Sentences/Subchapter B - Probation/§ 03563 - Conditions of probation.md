@@ -24,7 +24,7 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;(8) for a person required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act; and
 
-&emsp;(9) that the defendant cooperate in the collection of a DNA sample from the defendant if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.
+&emsp;(9) that the defendant cooperate in the collection of a DNA sample from the defendant ifthe collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.
 
 > If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation.
 
@@ -128,7 +128,7 @@ Subsec. (e). Pub. L. 107–273, §4002(e)(12)(B), made technical correction to d
 
 <b>2000</b>—Subsec. (a)(9). Pub. L. 106–546 added par. (9).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–119, §115(a)(8)(B)(i), as amended by Pub. L. 107–273, §4002(e)(12)(A), struck out at end "The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of suchtest or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4)." and inserted these provisions at the end of this section.
+<b>1997</b>—Subsec. (a). Pub. L. 105–119, §115(a)(8)(B)(i), as amended by Pub. L. 107–273, §4002(e)(12)(A), struck out at end "The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4)." and inserted these provisions at the end of this section.
 
 Subsec. (a)(6), (7). Pub. L. 105–119, §115(a)(8)(B)(iii)(I), made technical amendment to place pars. (6) and (7) in numerical order immediately after par. (5).
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 308(g)(10)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by section 308(g)(10)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §11(b), Nov. 10, 1986, 100 Stat. 3594, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3563(b)(11) \[Nov. 1, 1987\]."
+Pub. L. 99–646, §11(b), Nov. 10, 1986, 100 Stat. 3594, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date ofthe taking effect of such section 3563(b)(11) \[Nov. 1, 1987\]."
 
 Pub. L. 99–646, §12(c)(1), Nov. 10, 1986, 100 Stat. 3594, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the taking effect of such section 3563(c) \[Nov. 1, 1987\]."
 

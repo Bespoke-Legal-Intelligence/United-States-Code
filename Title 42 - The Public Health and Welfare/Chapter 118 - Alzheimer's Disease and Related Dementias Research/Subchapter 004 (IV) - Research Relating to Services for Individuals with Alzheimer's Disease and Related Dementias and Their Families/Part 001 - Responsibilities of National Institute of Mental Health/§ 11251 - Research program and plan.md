@@ -8,7 +8,7 @@ The Director of the National Institute of Mental Health shall conduct, or make g
 
 The Director of the National Institute of Mental Health shall—
 
-&emsp;(1) ensure that the research conducted under subsection (a) of this section includes research concerning—
+&emsp;(1) ensure that the research conducted under subsection (a) includes research concerning—
 
 &emsp;&emsp;(A) mental health services and treatment modalities relevant to the mental, behavioral, and psychological problems associated with Alzheimer's disease and related dementias;
 
@@ -30,7 +30,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(F) methods to sustain family members who provide care for individuals with Alzheimer's disease and related dementias through interventions to reduce psychological and social problems and physical problems induced by stress; and
 
-&emsp;&emsp;(G) improved methods to deliver services for individuals with Alzheimer's disease andrelated dementias and their families, including services such as outreach services, comprehensive assessment and care management services, outpatient treatment services, home care services, respite care services, adult day care services, partial hospitalization services, nursing home services, and other residential services and care; and
+&emsp;&emsp;(G) improved methods to deliver services for individuals with Alzheimer's disease and related dementias and their families, including services such as outreach services, comprehensive assessment and care management services, outpatient treatment services, home care services, respite care services, adult day care services, partial hospitalization services, nursing home services, and other residential services and care; and
 
 &emsp;(2) ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and dementia, including centers supported under section 285e–2 of this title, centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 102–507, §7(a)(2), designated par. (1) as entire subsec.
 
 Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted "The Director of the National Institute of Mental Health shall" for "Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 102–507, §7(a)(1)(C)(ii)(I), substituted "ensure that the research conducted under subsection (a) of this section includes" for "provide for" in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 102–507, §7(a)(1)(C)(ii)(I), substituted "ensure that the research conducted under subsection (a) includes" for "provide for" in introductory provisions.
 
 Subsec. (b)(1)(A)(iii). Pub. L. 102–507, §7(a)(1)(C)(ii)(II), added cl. (iii) and struck out former cl. (iii) which read as follows: "the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer's disease and related dementias and their families, particularly with respect to the design of such services, appropriate staffing for the provision of such services, the timing of such services during the progression of such disease or dementias, and the appropriate mix and coordination of such services;".
 

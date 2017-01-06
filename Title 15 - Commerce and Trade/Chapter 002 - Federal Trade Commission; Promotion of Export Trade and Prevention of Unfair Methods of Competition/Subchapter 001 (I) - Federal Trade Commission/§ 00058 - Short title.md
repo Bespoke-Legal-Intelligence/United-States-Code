@@ -2,7 +2,7 @@
 
 This subchapter may be cited as the "Federal Trade Commission Act".
 
-(Sept. 26, 1914, ch. 311, §28, formerly §18, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; renumbered §21, Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered §25, Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; renumbered §26, Pub.L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691; renumbered §28, Pub. L. 109–455, §11(1), Dec. 22, 2006, 120 Stat. 3381.)
+(Sept. 26, 1914, ch. 311, §28, formerly §18, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; renumbered §21, Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered §25, Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; renumbered §26, Pub. L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691; renumbered §28, Pub. L. 109–455, §11(1), Dec. 22, 2006, 120 Stat. 3381.)
 
 #### Amendment of Section
 
@@ -11,6 +11,12 @@ This subchapter may be cited as the "Federal Trade Commission Act".
 #### Termination Date of 2006 Amendment
 
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a note under section 44 of this title.
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–274, §1, Dec. 14, 2016, 130 Stat. 1401, provided that: "This Act \[enacting section 45c of this titleand provisions set out as a note under section 45c of this title\] may be cited as the 'Better Online Ticket Sales Act of 2016' or the 'BOTS Act of 2016'."
+
+Pub. L. 114–258, §1, Dec. 14, 2016, 130 Stat. 1355, provided that: "This Act \[enacting section 45b of this title\] may be cited as the 'Consumer Review Fairness Act of 2016'."
 
 #### Short Title of 2006 Amendment
 

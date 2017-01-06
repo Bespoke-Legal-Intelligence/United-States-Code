@@ -44,7 +44,7 @@ The Director of National Intelligence shall convene regular meetings of the Join
 
 #### (f) Recommendations to Congress
 
-Any member of the Joint Intelligence Community Council may make such recommendations to Congress relating to the intelligence community as such member considers appropriate.
+Any member of the Joint Intelligence Community Council may make such recommendationsto Congress relating to the intelligence community as such member considers appropriate.
 
 (July 26, 1947, ch. 343, title I, §101A, as added Pub. L. 108–458, title I, §1031, Dec. 17, 2004, 118 Stat. 3677.)
 

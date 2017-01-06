@@ -36,7 +36,7 @@ A creditor may not extend credit in the form of a higher-risk mortgage to any co
 
 #### (B) Exemption
 
-&emsp;&emsp;The agencies listed in subparagraph (A) may jointly exempt, by rule, a class of loansfrom the requirements of this subsection or subsection (a) if the agencies determine that the exemption is in the public interest and promotes the safety and soundness of creditors.
+&emsp;&emsp;The agencies listed in subparagraph (A) may jointly exempt, by rule, a class of loans from the requirements of this subsection or subsection (a) if the agencies determine that the exemption is in the public interest and promotes the safety and soundness of creditors.
 
 #### (c) Free copy of appraisal
 
@@ -44,7 +44,7 @@ A creditor shall provide 1 copy of each appraisal conducted in accordance with t
 
 #### (d) Consumer notification
 
-At the time of the initial mortgage application, the applicant shall be provided with a statement by the creditor that any appraisal prepared for the mortgage is for the sole use of the creditor, and that the applicant may choose to have a separate appraisal conducted at the expense of the applicant.
+At the time of the initial mortgage application, the applicant shall be provided with astatement by the creditor that any appraisal prepared for the mortgage is for the sole use of the creditor, and that the applicant may choose to have a separate appraisal conducted at the expense of the applicant.
 
 #### (e) Violations
 

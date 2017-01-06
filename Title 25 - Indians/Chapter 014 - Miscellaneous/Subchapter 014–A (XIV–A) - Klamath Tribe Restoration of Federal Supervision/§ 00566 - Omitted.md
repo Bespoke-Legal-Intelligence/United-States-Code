@@ -1,0 +1,10 @@
+### §566. Omitted
+
+#### Codification
+
+Section, Pub. L. 99–398, §2, Aug. 27, 1986, 100 Stat. 849; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, which related to restoration of Federal recognition, rights, and privileges to the tribe and tribe members, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 99–398, §1, Aug. 27, 1986, 100 Stat. 849, provided that Pub. L. 99–398, enacting this subchapter, could be cited as the "Klamath Indian Tribe Restoration Act".
+

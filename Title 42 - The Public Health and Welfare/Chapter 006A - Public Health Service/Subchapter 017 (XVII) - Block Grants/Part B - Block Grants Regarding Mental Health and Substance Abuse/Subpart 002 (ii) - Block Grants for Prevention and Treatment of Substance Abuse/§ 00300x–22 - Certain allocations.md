@@ -30,7 +30,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 #### (2) Waiver
 
-&emsp;(A) Upon the request of a State, the Secretary may provide to the State a waiver of all or part of the requirement established in paragraph (1) if the Secretary determines that the State is providing an adequate level of treatments services for women described in such paragraph, as indicated by a comparison of the number of such women seeking the services with the availability in the State of the services.
+&emsp;(A) Upon the request of a State, the Secretary may provide to the State a waiver of allor part of the requirement established in paragraph (1) if the Secretary determines that the State is providing an adequate level of treatments services for women described in such paragraph, as indicated by a comparison of the number of such women seeking the services with the availability in the State of the services.
 
 &emsp;(B) The Secretary shall approve or deny a request for a waiver under subparagraph (A) not later than 120 days after the date on which the request is made.
 

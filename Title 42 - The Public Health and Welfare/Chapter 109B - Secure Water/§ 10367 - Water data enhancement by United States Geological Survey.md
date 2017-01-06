@@ -116,7 +116,7 @@
 
 #### (6) Priority
 
-&emsp;In selecting monitoring activities consistent with the monitoring program described inparagraph (1), the Secretary shall give priority to those activities for which a State or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.
+&emsp;In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State or local governmental entity agrees to provide for a substantial share of the cost of establishing oroperating a monitoring well or other measuring device to carry out a monitoring activity.
 
 #### (7) Authorization of appropriations
 

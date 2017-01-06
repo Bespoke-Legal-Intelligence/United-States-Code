@@ -20,7 +20,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(ii) modify the format used to provide the information on the day before November 22, 2000, to ensure that the information can be readily understood by market participants; and
 
-&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report tothe Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
+&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report to the Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
 
 #### (2) Conditions
 
@@ -64,7 +64,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (A) Unlawful act
 
-&emsp;&emsp;It shall be unlawful and a violation of this subchapter for any person subject to this subchapter to willfully fail or refuse to provide, or delay the timely reporting of, accurate information to the Secretary in accordance with this subchapter.
+&emsp;&emsp;It shall be unlawful and a violation of this subchapter for any person subject to thissubchapter to willfully fail or refuse to provide, or delay the timely reporting of, accurate information to the Secretary in accordance with this subchapter.
 
 #### (B) Order
 

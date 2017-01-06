@@ -4,3 +4,7 @@ It is the purpose of this subchapter to encourage the training and certification
 
 (Pub. L. 96–294, title V, §581, June 30, 1980, 94 Stat. 760.)
 
+#### Codification
+
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+

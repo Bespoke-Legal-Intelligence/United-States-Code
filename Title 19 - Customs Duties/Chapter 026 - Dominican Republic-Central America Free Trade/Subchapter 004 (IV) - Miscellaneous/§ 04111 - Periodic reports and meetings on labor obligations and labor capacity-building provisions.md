@@ -40,7 +40,7 @@
 
 #### (1) Periodic meetings
 
-&emsp;The Secretary of Labor should take the necessary steps to meet periodically with the labor ministers of the CAFTA–DR countries to discuss—
+&emsp;The Secretary of Labor should take the necessary steps to meet periodically with thelabor ministers of the CAFTA–DR countries to discuss—
 
 &emsp;&emsp;(A) the operation of the labor provisions of the Agreement;
 

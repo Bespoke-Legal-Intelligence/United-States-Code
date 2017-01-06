@@ -12,5 +12,9 @@ On January 1, 1987, and at the beginning of each subsequent calendar year.<sup>1
 
 <b>1985</b>—Pub. L. 99–198 substituted "On January 1, 1987, and at the beginning of each subsequent calendar year." for "Within one year after December 22, 1981,".
 
+#### Effective Date
+
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
+
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
 
-&emsp;&emsp;&emsp;(ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscal year 2003 under this subchapter, but only if the freely associated State meets the applicable requirements of this subchapter, as well as the requirements of section 1411(b)(2)(C) of this title as such section was in effect on the day before December 3, 2004.
+&emsp;&emsp;&emsp;(ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscalyear 2003 under this subchapter, but only if the freely associated State meets the applicable requirements of this subchapter, as well as the requirements of section 1411(b)(2)(C) of this title as such section was in effect on the day before December 3, 2004.
 
 #### (B) Special rule
 
@@ -78,7 +78,7 @@
 
 #### (2) Special rule for use of fiscal year 1999 amount
 
-&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, theSecretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
+&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, the Secretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
 
 #### (3) Increase in funds
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount the State received under this section for the preceding fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by 90 percent of the percentage increase in the amount appropriated for this section from the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by 90 percent of the percentage increase inthe amount appropriated for this section from the preceding fiscal year.
 
 #### (iii) Maximum
 
@@ -332,7 +332,7 @@
 
 #### (H) Medicaid services not affected
 
-&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs that otherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs thatotherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (I) Remaining funds
 
@@ -452,7 +452,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 450b of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
+&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 5304 of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount ofsuch payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
 
 #### (B) Distribution of funds
 
@@ -496,7 +496,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress an annual report containing a description of the activities of the advisory board for the preceding year.
+&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress anannual report containing a description of the activities of the advisory board for the preceding year.
 
 #### (B) Availability
 
@@ -534,7 +534,7 @@ The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935,
 
 A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements andallocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
 

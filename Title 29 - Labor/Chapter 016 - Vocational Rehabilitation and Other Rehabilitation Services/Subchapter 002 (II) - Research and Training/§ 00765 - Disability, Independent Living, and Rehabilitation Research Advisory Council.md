@@ -20,7 +20,7 @@ Members of the Council shall be generally representative of the community of dis
 
 &emsp;&emsp;(A) a member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed, shall be appointed for the remainder of such term; and
 
-&emsp;&emsp;(B) the terms of service of the members initially appointed shall be (as specified by the Secretary) for such fewer number of years as will provide for the expiration of terms on a staggered basis.
+&emsp;&emsp;(B) the terms of service of the members initially appointed shall be (as specified by the Secretary) for such fewer number ofyears as will provide for the expiration of terms on a staggered basis.
 
 #### (2) Number of terms
 

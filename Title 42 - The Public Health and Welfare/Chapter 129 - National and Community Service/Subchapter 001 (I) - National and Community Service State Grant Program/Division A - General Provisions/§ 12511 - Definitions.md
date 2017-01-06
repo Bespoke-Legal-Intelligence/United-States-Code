@@ -118,7 +118,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) an Indian tribe, band, nation, or other organized group or community, including—
 
-&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); and
+&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) any Regional Corporation or Village Corporation, as defined in subsection (g) or (j), respectively, of section 1602 of title 43,
 
@@ -170,7 +170,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;The term "participant" means—
 
-&emsp;&emsp;&emsp;(i) for purposes of division C of this subchapter, an individual in an approved national service position; and
+&emsp;&emsp;&emsp;(i) for purposes of division C, an individual in an approved national service position; and
 
 &emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
 
@@ -246,7 +246,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(i) is conducted in and meets the needs of a community;
 
-&emsp;&emsp;&emsp;(ii) is coordinated with an elementary school, secondary school, institution ofhigher education, or community service program, and with the community; and
+&emsp;&emsp;&emsp;(ii) is coordinated with an elementary school, secondary school, institution of higher education, or community service program, and with the community; and
 
 &emsp;&emsp;&emsp;(iii) helps foster civic responsibility; and
 
@@ -296,7 +296,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-Act of June 18, 1934, referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.), referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
 This chapter, referred to in pars. (26) and (30)(A)(ii), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 

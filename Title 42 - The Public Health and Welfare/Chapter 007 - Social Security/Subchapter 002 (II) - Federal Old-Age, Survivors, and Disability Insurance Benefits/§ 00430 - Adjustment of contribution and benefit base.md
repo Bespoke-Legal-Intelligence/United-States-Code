@@ -2,17 +2,17 @@
 
 #### (a) Determination and publication by Commissioner in Federal Register subsequent to cost-of-living benefit increase; effective date
 
-Whenever the Commissioner of Social Security pursuant to section 415(i) of this title increases benefits effective with the December following a cost-of-living computation quarter, the Commissioner shall also determine and publish in the Federal Register on or before November 1 of the calendar year in which such quarter occurs the contribution and benefit base determined under subsection (b) or (c) of this section which shall be effective with respect to remuneration paid after the calendar year in which such quarter occurs and taxable years beginning after such year.
+Whenever the Commissioner of Social Security pursuant to section 415(i) of this title increases benefits effective with the December following a cost-of-living computation quarter, the Commissioner shall also determine and publish in the Federal Register on or before November 1 of the calendar year in which such quarter occurs the contribution and benefit base determined under subsection (b) or (c) which shall be effective with respect to remuneration paid after the calendar year in which such quarter occurs and taxable years beginning after such year.
 
 #### (b) Determination of amount
 
-The amount of such contribution and benefit base shall (subject to subsection (c) of this section) be the amount of the contribution and benefit base in effect in the year in which the determination is made or, if larger, the product of—
+The amount of such contribution and benefit base shall (subject to subsection (c)) be the amount of the contribution and benefit base in effect in the year in which the determination is made or, if larger, the product of—
 
 &emsp;(1) $60,600, and
 
-&emsp;(2) the ratio of (A) the national average wage index (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the national average wage index (as so defined) for 1992,
+&emsp;(2) the ratio of (A) the national average wage index (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) is made to (B) the national average wage index (as so defined) for 1992,
 
-> with such product, if not a multiple of $300, being rounded to the next higher multiple of$300 where such product is a multiple of $150 but not of $300 and to the nearest multiple of $300 in any other case.
+> with such product, if not a multiple of $300, being rounded to the next higher multiple of $300 where such product is a multiple of $150 but not of $300 and to the nearest multiple of $300 in any other case.
 
 #### (c) Amount of base for period prior to initial cost-of-living benefit increase
 
@@ -26,7 +26,7 @@ For purposes of this section, and for purposes of determining wages and self-emp
 
 &emsp;(D) in 1981 shall be $29,700.
 
-> For purposes of determining under subsection (b) of this section the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning) in 1982 and subsequent years, the dollar amounts specified in clause (2) of the preceding sentence shall be considered to have resulted from the application of such subsection (b) of this section and to be the amount determined (with respect to the years involved) under that subsection.
+> For purposes of determining under subsection (b) the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning) in 1982 and subsequent years, the dollar amounts specified in clause (2) of the preceding sentence shall be considered to have resulted from the application of such subsection (b) and to be the amount determined (with respect to the years involved) under that subsection.
 
 #### (d) Determinations for calendar years after 1976 for purposes of retirement benefit plans
 
@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 103–296, §321(g)(1)(B), at end substituted parenthetical
 
 Pub. L. 101–239, §10208(d)(2)(A)(i), substituted "409(a)(1)" for "409(a)".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §10208(b)(1)(B), as amended by Pub. L. 103–296, §321(b)(2), substituted "thedeemed average total wages (as so defined)" for "the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate".
+Subsec. (b)(2)(B). Pub. L. 101–239, §10208(b)(1)(B), as amended by Pub. L. 103–296, §321(b)(2), substituted "the deemed average total wages (as so defined)" for "the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate".
 
 Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)" for "change".
 
@@ -70,15 +70,15 @@ Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that,
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted "December" for "June".
 
-Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title 45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
+Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
 
 Pub. L. 98–76, §211(d), temporarily substituted "12.75 percent" for "11.75 percent". See Effective and Termination Dates of 1983 Amendments note below.
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–34 substituted in last sentence "employee and employer" for "employer", "sections 3201(a) and 3221(a)" for "section 3221(a)", and "11.75" for "9.5".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–216, §103(a)(1), substituted "determined under subsection (b) or (c) of this section" for "determined under subsection (b) of this section".
+<b>1977</b>—Subsec. (a). Pub. L. 95–216, §103(a)(1), substituted "determined under subsection (b) or (c)" for "determined under subsection (b)".
 
-Subsec. (b). Pub. L. 95–216, §103(a)(2), in provisions preceding par. (1), substituted "shall (subject to subsection (c) of this section) be the amount" for "shall be the amount".
+Subsec. (b). Pub. L. 95–216, §103(a)(2), in provisions preceding par. (1), substituted "shall (subject to subsection (c)) be the amount" for "shall be the amount".
 
 Subsec. (b)(1). Pub. L. 95–216, §353(e)(2), substituted "determination under subsection (a) of this section is made" for "determination under subsection (a) of this section with respect to such particular calendar year was made".
 
@@ -178,6 +178,8 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+<b>2017</b>—By notice of the Commissioner of Social Security, Oct. 26, 2016, 81 F.R. 74854, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2017 is $127,200.
+
 <b>2016</b>—By notice of the Commissioner of Social Security, Oct. 26, 2015, 80 F.R. 66963, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2016 is $118,500.
 
 <b>2015</b>—By notice of the Commissioner of Social Security, Oct. 29, 2014, 79 F.R. 64455, as corrected Nov. 4, 2014, 79 F.R. 65472, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2015 is $118,500.
@@ -198,7 +200,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>2007</b>—By notice of the Commissioner of Social Security, Oct. 19, 2006, 71 F.R. 62636, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2007 is $97,500.
 
-<b>2006</b>—By notice of the Commissioner of Social Security, Oct. 18, 2005, 70 F.R. 61677, it was determined andannounced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2006 is $94,200.
+<b>2006</b>—By notice of the Commissioner of Social Security, Oct. 18, 2005, 70 F.R. 61677, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2006 is $94,200.
 
 <b>2005</b>—By notice of the Commissioner of Social Security, Oct. 26, 2004, 69 F.R. 62497, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2005 is $90,000.
 
@@ -206,7 +208,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>2003</b>—By notice of the Commissioner of Social Security, Oct. 18, 2002, 67 F.R. 65620, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2003 is $87,000.
 
-<b>2002</b>—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
+<b>2002</b>—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined andannounced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
 
 <b>2001</b>—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
 

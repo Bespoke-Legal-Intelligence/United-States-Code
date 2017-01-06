@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) is issued on a date that is after the date described in clause (i) pursuant to a court order in an action brought under section 1516a of this title,
 
-> &emsp;the Commission, upon receipt of a request from an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title for an injury investigation with respect to such order, shall initiate an investigation and shall determine whether an industry in the United States is likely to be materially injured by reason of imports of the subject merchandise if the order is revoked.
+> &emsp;the Commission, upon receipt of a request from an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title for an injury investigation with respect to such order, shall initiate an investigation and shall determine whether an industry in the United States is likely to be materially injured byreason of imports of the subject merchandise if the order is revoked.
 
 #### (2) Description of countervailing duty orders
 
@@ -60,7 +60,7 @@
 
 #### (B) Nature of subsidy
 
-&emsp;&emsp;The administering authority shall inform the Commission of, and the Commission, in making its determination under this section, shall consider, the nature of the countervailable subsidy and whether thecountervailable subsidy is a subsidy described in Article 3 or Article 6.1 of the Subsidies Agreement.
+&emsp;&emsp;The administering authority shall inform the Commission of, and the Commission, in making its determination under this section, shall consider, the nature of the countervailable subsidy and whether the countervailable subsidy is a subsidy described in Article 3 or Article 6.1 of the Subsidies Agreement.
 
 #### (3) Effect of Commission determination
 
@@ -120,7 +120,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (2) Cumulation
 
-&emsp;If a review under section 1675(c) of this title is initiated under paragraph (1), such review shall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title, cumulatively assess the volume and effect of imports of the subject merchandise from allcountries with respect to which such investigations are treated as initiated on the same day.
+&emsp;If a review under section 1675(c) of this title is initiated under paragraph (1), such review shall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title, cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which such investigations are treated as initiated on the same day.
 
 #### (3) Time and procedure for Commission determination
 

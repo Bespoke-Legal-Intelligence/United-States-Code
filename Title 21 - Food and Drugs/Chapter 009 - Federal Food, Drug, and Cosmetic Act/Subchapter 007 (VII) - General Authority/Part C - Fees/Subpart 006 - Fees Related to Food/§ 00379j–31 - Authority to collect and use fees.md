@@ -68,7 +68,7 @@
 
 #### (iii) Published guidelines
 
-&emsp;&emsp;&emsp;Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
+&emsp;&emsp;&emsp;Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjustthe fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
 
 #### (3) Use of fees
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
 
 #### (2) Authority
 

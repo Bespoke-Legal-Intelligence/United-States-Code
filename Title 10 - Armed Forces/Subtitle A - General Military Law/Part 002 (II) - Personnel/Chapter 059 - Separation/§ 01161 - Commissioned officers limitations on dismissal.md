@@ -8,9 +8,9 @@
 
 &emsp;(3) in time of war, by order of the President.
 
-(b) The President may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under section 1167 of this title by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
+(b) The President or the Secretary of Defense, or in the case of a commissioned officer of the Coast Guard, the Secretary of the department in which the Coast Guard is operating when it is not operating in the Navy, may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under section 1167 of this title by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 89; Pub. L. 104–106, div. A, title V, §563(b)(1), Feb. 10, 1996, 110 Stat. 325; Pub. L. 104–201, div. A, title X, §1074(a)(5), Sept. 23, 1996, 110 Stat. 2658.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 89; Pub. L. 104–106, div. A, title V, §563(b)(1), Feb. 10, 1996, 110 Stat. 325; Pub. L. 104–201, div. A, title X, §1074(a)(5), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 114–328, div. A, title V, §507, Dec. 23, 2016, 130 Stat. 2109.)
 
 Historical and Revision Notes
 
@@ -36,6 +36,8 @@ In subsection (b), the words "from his place of duty" are omitted as surplusage.
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b). Pub. L. 114–328 inserted "or the Secretary of Defense, or in the case of a commissioned officer of the Coast Guard, the Secretary of the department in which the Coast Guard is operating when it is not operating in the Navy," after "President".
+
 <b>1996</b>—Subsec. (b). Pub. L. 104–201 substituted "section 1167" for "section 1178" in par. (2).
 
 Pub. L. 104–106 struck out "or" after "three months,", added par. (2), and redesignated former par. (2) as (3).
@@ -46,7 +48,7 @@ Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided: "That notwithstanding a
 
 "
 
-Sec. 2. A former retired officer covered by this Act is subject to the penal, prohibitory, and restrictive provisions of law applicable to the pay and civil employment of retired officers of the Armed Forces and is not entitled to any other benefit provided by law or regulation for retired officers of the Armed Forces. After the date of enactment of this Act \[Aug. 25, 1958\], such a former retired officer may, in the discretion of the President, have his entitlement to retired or retirement pay under this Act terminated for any reason for which any retired officer may be dismissed from, or dropped from the rolls of, any Armed Force.
+Sec. 2. A former retired officer covered by this Act is subject to the penal, prohibitory, and restrictive provisions of law applicable to the pay and civil employment of retired officers of the Armed Forces and is not entitled to any other benefit provided by law or regulation for retired officers of the Armed Forces. After the date of enactment of this Act \[Aug. 25, 1958\], such a former retired officer may, in the discretion of the President, have his entitlement to retired or retirement pay under this Act terminated for any reason forwhich any retired officer may be dismissed from, or dropped from the rolls of, any Armed Force.
 
 "
 

@@ -2,7 +2,7 @@
 
 #### (a) Administration by Secretary of Education
 
-The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984, to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) of this section or any other requirement of this chapter.
+The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984, to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) or any other requirement of this chapter.
 
 #### (b) Purposes of Center
 
@@ -20,7 +20,7 @@ The purposes of the Center are to—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title", meaning title II of Pub. L. 98–221, Feb. 22, 1984, 98 Stat. 32, which is classified generally to this chapter (§1901 et seq.). For complete classification of this title to the Code, see Short Title note set out under section 1901 of this title and Tables. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title II of Pub. L. 98–221,Feb. 22, 1984, 98 Stat. 32, which is classified generally to this chapter (§1901 et seq.). For complete classification of this title to the Code, see Short Title note set out under section 1901 of this title and Tables. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 701 of this title and Tables.
 
 #### Amendments
 

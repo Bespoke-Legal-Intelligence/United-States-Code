@@ -148,7 +148,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (E) Adjustment period
 
-&emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustmentperiod are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
+&emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
 
 > &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B), for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 &emsp;For purposes of this section (but no other provisions of this title), the term "operating foundation" includes any organization which, on May 26, 1969, and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, §221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b),1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, §221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Codification
 
@@ -356,7 +356,7 @@ Pub. L. 98–369, div. A, title III, §314(a)(4), July 18, 1984, 98 Stat. 787, p
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

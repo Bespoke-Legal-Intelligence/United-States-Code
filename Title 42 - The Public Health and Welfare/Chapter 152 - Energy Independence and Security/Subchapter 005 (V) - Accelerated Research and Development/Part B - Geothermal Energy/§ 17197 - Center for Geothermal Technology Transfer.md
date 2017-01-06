@@ -12,7 +12,7 @@ The Center shall—
 
 &emsp;(2) make data collected by the Center available to the public; and
 
-&emsp;(3) seek opportunities to coordinate efforts and share information with domestic and international partners engaged in research and development of geothermal systems and related technology.
+&emsp;(3) seek opportunities to coordinate efforts and share information with domestic and international partners engaged in researchand development of geothermal systems and related technology.
 
 #### (c) Selection criteria
 

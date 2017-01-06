@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) a State;
 
-&emsp;&emsp;&emsp;(iv) a city or other political subdivision of a State, including a special purpose unit of a State or local government engaged ineconomic or infrastructure development activities, or a consortium of political subdivisions;
+&emsp;&emsp;&emsp;(iv) a city or other political subdivision of a State, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities, or a consortium of political subdivisions;
 
 &emsp;&emsp;&emsp;(v) an institution of higher education or a consortium of institutions of higher education; or
 
@@ -56,7 +56,7 @@ In this chapter:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by theUnited States to Indians because of their status as Indians.
 
 #### (8) Regional Commissions
 

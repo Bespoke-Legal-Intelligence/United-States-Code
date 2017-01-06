@@ -118,7 +118,7 @@ Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out "in a position not low
 
 &emsp;&emsp;"(i) an individual who is engaging or has engaged in international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States; or
 
-&emsp;&emsp;"(ii) a foreign power or an agent of a foreign power under circumstances giving reason to believe that the communication concerned international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States."
+&emsp;&emsp;"(ii) a foreign power or an agent of a foreign power under circumstances giving reason to believethat the communication concerned international terrorism as defined in section 101(c) of the Foreign Intelligence Surveillance Act or clandestine intelligence activities that involve or may involve a violation of the criminal statutes of the United States."
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–293 inserted "local and long distance" before "toll billing records".
 

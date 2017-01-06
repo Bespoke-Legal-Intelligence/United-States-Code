@@ -4,7 +4,7 @@
 
 Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
-(2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
+(2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A planrequired under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
 
 &emsp;(A) relevant available pipeline safety information;
 
@@ -104,7 +104,15 @@ Replacing Cast Iron Gas Pipelines.—(1) The Secretary shall publish a notice on
 
 (4) Not later than December 31, 2012, and every 2 years thereafter, the Secretary shall conduct a follow-up survey to measure the progress that owners and operators of pipeline facilities have made in adopting and implementing their plans for the safe management and replacement of cast iron gas pipelines.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat.3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917.)
+(e)
+
+In General.—After the completion of a Pipeline and Hazardous Materials Safety Administration pipeline safety inspection, the Administrator of such Administration, or the State authority certified under section 60105 of title 49, United States Code, to conduct such inspection, shall—
+
+&emsp;(1) within 30 days, conduct a post-inspection briefing with the owner or operator of the gas or hazardous liquid pipeline facility inspected outlining any concerns; and
+
+&emsp;(2) within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917; Pub. L. 114–183, §7(a), June 22, 2016, 130 Stat. 518.)
 
 Historical and Revision Notes
 
@@ -296,11 +304,13 @@ In subsection (d)(2), the words "(relating to coordination of Federal informatio
 
 #### References in Text
 
-Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108Stat. 1379. For further details, see Historical and Revision Notes above.
+Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
 Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of Pub. L. 96–129, which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–183 added subsec. (e).
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §18(a), substituted "a gas pipeline" for "an intrastate gas pipeline".
 
@@ -318,7 +328,7 @@ Other Waters" for "
 
 Navigable Waters" in heading.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: "any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety."
+Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: "any other pipeline facility crossing under, over, orthrough navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety."
 
 Subsec. (c)(2)(B). Pub. L. 104–304, §20(h)(1), substituted "standards" for "regulations" in introductory provisions.
 
@@ -329,6 +339,132 @@ Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted "standard
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Information-Sharing System
+
+Pub. L. 114–183, §10, June 22, 2016, 130 Stat. 520, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[June 22, 2016\], the Secretary of Transportation shall convene a working group to consider the development of a voluntary information-sharing system to encourage collaborative efforts to improve inspection information feedback and information sharing with the purpose of improving gas transmission and hazardous liquid pipeline facility integrity risk analysis.
+
+"(b)
+
+Membership.—The working group convened pursuant to subsection (a) shall include representatives from—
+
+&emsp;"(1) the Pipeline and Hazardous Materials Safety Administration;
+
+&emsp;"(2) industry stakeholders, including operators of pipeline facilities, inspection technology, coating, and cathodic protection vendors, and pipeline inspection organizations;
+
+&emsp;"(3) safety advocacy groups;
+
+&emsp;"(4) research institutions;
+
+&emsp;"(5) State public utility commissions or State officials responsible for pipeline safety oversight;
+
+&emsp;"(6) State pipeline safety inspectors;
+
+&emsp;"(7) labor representatives; and
+
+&emsp;"(8) other entities, as determined appropriate by the Secretary.
+
+"(c)
+
+Considerations.—The working group convened pursuant to subsection (a) shall consider and provide recommendations to the Secretary on—
+
+&emsp;"(1) the need for, and the identification of, a system to ensure that dig verification data are shared with in-line inspection operators to the extent consistent with the need to maintain proprietary and security-sensitive data in a confidential manner to improve pipeline safety and inspection technology;
+
+&emsp;"(2) ways to encourage the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis;
+
+&emsp;"(3) opportunities to share data, including dig verification data between operators of pipeline facilities and in-line inspector vendors to expand knowledge of the advantages and disadvantages of the different types of in-line inspection technology and methodologies;
+
+&emsp;"(4) options to create a secure system that protects proprietary data while encouraging the exchange of pipeline inspection information and the development of advanced pipeline inspection technologies and enhanced risk analysis;
+
+&emsp;"(5) means and best practices for the protection of safety- and security-sensitive information and proprietary information; and
+
+&emsp;"(6) regulatory, funding, and legal barriers to sharing the information described in paragraphs (1) through (4).
+
+"(d)
+
+Publication.—The Secretary shall publish the recommendations provided under subsection (c) on a publicly available Web site of the Department of Transportation."
+
+#### Nationwide Integrated Pipeline Safety Regulatory Database
+
+Pub. L. 114–183, §11, June 22, 2016, 130 Stat. 521, provided that:
+
+"(a)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[June 22, 2016\], the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the feasibility of establishing a national integrated pipeline safety regulatory inspection database to improve communication and collaboration between the Pipeline and Hazardous Materials Safety Administration and State pipeline regulators.
+
+"(b)
+
+Contents.—The report submitted under subsection (a) shall include—
+
+&emsp;"(1) a description of any efforts underway to test a secure information-sharing system for the purpose described in subsection (a);
+
+&emsp;"(2) a description of any progress in establishing common standards for maintaining, collecting, and presenting pipeline safety regulatory inspection data, and a methodology for sharing the data;
+
+&emsp;"(3) a description of any inadequacies or gaps in State and Federal inspection, enforcement, geospatial, or other pipeline safety regulatory inspection data;
+
+&emsp;"(4) a description of the potential safety benefits of a national integrated pipeline safety regulatory inspection database; and
+
+&emsp;"(5) recommendations, including those of stakeholders for how to implement a secure information-sharing system that protects proprietary and security sensitive information and data for the purpose described in subsection (a).
+
+"(c)
+
+Consultation.—In implementing this section, the Secretary shall consult with stakeholders, including each State authority operating under a certification to regulate intrastate pipelines under section 60105 of title 49, United States Code.
+
+"(d)
+
+Establishment of Database.—The Secretary may establish, if appropriate, a national integrated pipeline safety regulatory database—
+
+&emsp;"(1) after submission of the report required under subsection (a); or
+
+&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
+
+#### Report on Natural Gas Leak Reporting
+
+Pub. L. 114–183, §29, June 22, 2016, 130 Stat. 532, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[June 22, 2016\], the Administrator of the Pipeline and Hazardous Materials Safety Administration shall submit to Congress a report on the metrics provided to the Pipeline and Hazardous Materials Safety Administration and other Federal and State agencies related to lost and unaccounted for natural gas from distribution pipelines and systems.
+
+"(b)
+
+Elements.—The report required under subsection (a) shall include the following elements:
+
+&emsp;"(1) An examination of different reporting requirements or standards for lost and unaccounted for natural gas to different agencies, the reasons for anysuch discrepancies, and recommendations for harmonizing and improving the accuracy of reporting.
+
+&emsp;"(2) An analysis of whether separate or alternative reporting could better measure the amounts and identify the location of lost and unaccounted for natural gas from natural gas distribution systems.
+
+&emsp;"(3) A description of potential safety issues associated with natural gas that is lost and unaccounted for from natural gas distribution systems.
+
+&emsp;"(4) An assessment of whether alternate reporting and measures will resolve any safety issues identified under paragraph (3), including an analysis of the potential impact, including potential savings, on rate payers and end users of natural gas products of such reporting and measures.
+
+"(c)
+
+Consideration of Recommendations.—If the Administrator determines that alternate reporting structures or recommendations included in the report required under subsection (a) would significantly improve the reporting and measurement of lost and unaccounted for gas and safety of natural gas distribution systems, the Administrator shall, not later than 1 year after making such determination, issue regulations, as the Administrator determines appropriate, to implement the recommendations."
+
+#### Review of State Policies Relating to Natural Gas Leaks
+
+Pub. L. 114–183, §30, June 22, 2016, 130 Stat. 533, provided that:
+
+"(a)
+
+Review.—The Administrator of the Pipeline and Hazardous Materials Safety Administration shall conduct a State-by-State review of State-level policies that—
+
+&emsp;"(1) encourage the repair and replacement of leaking natural gas distribution pipelines or systems that pose a safety threat, such as timelines to repair leaks and limits on cost recovery from ratepayers; and
+
+&emsp;"(2) may create barriers for entities to conduct work to repair and replace leaking natural gas pipelines or distribution systems.
+
+"(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[June 22, 2016\], the Administrator shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the findings of the review conducted under subsection (a) and recommendations on Federal or State policies or best practices to improve safety by accelerating the repair and replacement of natural gas pipelines or systems that are leaking or releasing natural gas. The report shall consider the potential impact, including potential savings, of the implementation of such recommendations on ratepayers or end users of the natural gas pipeline system.
+
+"(c)
+
+Implementation of Recommendations.—If the Administrator determines that the recommendations made under subsection (b) would significantly improve pipeline safety, the Administrator shall, not later than 1 year after making such determination, and in coordination with the heads of other relevant agencies as appropriate, issue regulations, as the Administrator determines appropriate, to implement the recommendations."
 
 #### Leak Detection
 

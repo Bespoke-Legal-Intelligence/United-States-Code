@@ -4,7 +4,7 @@
 
 &emsp;(1) falsifies, conceals, or covers up by any trick, scheme, or device a material fact; or
 
-&emsp;(2) makes any materially false, fictitious, or fraudulent statements or representations, or makes or uses any materially false writing or document knowing the same to contain anymaterially false, fictitious, or fraudulent statement or entry,
+&emsp;(2) makes any materially false, fictitious, or fraudulent statements or representations, or makes or uses any materially false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry,
 
 > in connection with the delivery of or payment for health care benefits, items, or services, shall be fined under this title or imprisoned not more than 5 years, or both.
 

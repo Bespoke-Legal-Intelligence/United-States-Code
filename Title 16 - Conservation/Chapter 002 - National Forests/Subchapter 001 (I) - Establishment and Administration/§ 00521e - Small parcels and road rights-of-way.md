@@ -2,7 +2,7 @@
 
 The National Forest System lands which may be sold, exchanged, or interchanged under sections 521c to 521i of this title are those the sale or exchange of which is not practicable under any other authority of the Secretary, which have a value as determined by the Secretary of not more than $150,000, and which are—
 
-&emsp;(1) parcels of forty acres or less which are interspersed with or adjacent to lands which have been transferred out of Federal ownership under the mining laws and which are determined by the Secretary, because of location or size, not to be subject to efficient administration;
+&emsp;(1) parcels of forty acres or less which are interspersed with or adjacent to lands which have been transferred out of Federal ownership under the mining laws and which are determined by the Secretary, because of locationor size, not to be subject to efficient administration;
 
 &emsp;(2) parcels of ten acres or less which are encroached upon by improvements occupied or used under claim or color of title by persons to whom no advance notice was given that the improvements encroached or would encroach upon such parcels, and who in good faith relied upon an erroneous survey, title search, or other land description indicating that there was not such encroachment; or
 

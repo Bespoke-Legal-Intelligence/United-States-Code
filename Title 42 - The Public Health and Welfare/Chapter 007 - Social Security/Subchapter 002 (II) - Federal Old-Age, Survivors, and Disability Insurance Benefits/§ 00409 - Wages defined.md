@@ -22,7 +22,7 @@ For the purposes of this subchapter, the term "wages" means remuneration paid pr
 
 &emsp;(I) That part of remuneration which, after remuneration (other than remuneration referred to in the succeeding subsections of this section) equal to the contribution and benefit base (determined under section 430 of this title) with respect to employment has been paid to an individual during any calendar year after 1974 with respect to which such contribution and benefit base is effective, is paid to such individual during such calendar year;
 
-&emsp;(2) The amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally andtheir dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of (A) sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this clause shall exclude from the term "wages" only payments which are received under a workmen's compensation law), or (B) medical or hospitalization expenses in connection with sickness or accident disability, or (C) death, except that this subsection does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986;
+&emsp;(2) The amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of (A) sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this clause shall exclude from the term "wages" only payments which are received under a workmen's compensation law), or (B) medical or hospitalization expenses in connection with sickness or accident disability, or (C) death, except that this subsection does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986;
 
 &emsp;(3) Any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of six calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -50,7 +50,7 @@ For the purposes of this subchapter, the term "wages" means remuneration paid pr
 
 &emsp;&emsp;(ii) the employer's expenditures for agricultural labor in such year equal or exceed $2,500,
 
-> &emsp;except that clause (ii) shall not apply in determining whether remuneration paid to an employee constitutes "wages" under this section if such employee (I) is employed as a hand harvest laborer and is paid on a piece rate basis inan operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (II) commutes daily from his permanent residence to the farm on which he is so employed, and (III) has been employed in agriculture less than 13 weeks during the preceding calendar year;
+> &emsp;except that clause (ii) shall not apply in determining whether remuneration paid to an employee constitutes "wages" under this section if such employee (I) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (II) commutes daily from his permanent residence to the farm on which he is so employed, and (III) has been employed in agriculture less than 13 weeks during the preceding calendar year;
 
 &emsp;(8) Remuneration paid by an employer in any year to an employee for service described in section 410(j)(3)(C) of this title (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
 
@@ -96,11 +96,11 @@ Nothing in the regulations prescribed for purposes of chapter 24 of the Internal
 
 #### (c) Individuals performing domestic services
 
-For purposes of this subchapter, in the case of domestic service described in subsection (a)(6)(B) of this section, any payment of cash remuneration for such service which is more or less than a whole-dollar amount shall, under such conditions and to such extent as may be prescribed by regulations made under this subchapter, be computed to the nearest dollar. For the purpose of the computation to the nearest dollar, the payment of a fractional part of a dollar shall be disregarded unless it amounts to one-half dollar or more, in which case it shall be increased to $1. The amount of any payment of cash remuneration so computed to the nearest dollar shall, in lieu of the amount actually paid, be deemed to constitute the amount of cash remuneration for purposes of subsection (a)(6)(B) of this section.
+For purposes of this subchapter, in the case of domestic service described in subsection (a)(6)(B), any payment of cash remuneration for such service which is more or less than a whole-dollar amount shall, under such conditions and to such extent as may be prescribed by regulations made under this subchapter, be computed to the nearest dollar. For the purpose of the computation to the nearest dollar, the payment of a fractional part of a dollar shall be disregarded unless it amounts to one-half dollar or more, in which case it shall be increased to $1. The amount of any payment of cash remuneration so computed to the nearest dollar shall, in lieu of the amount actually paid, be deemed to constitute the amount of cash remuneration for purposes of subsection (a)(6)(B).
 
 #### (d) Members of uniformed services
 
-For purposes of this subchapter, in the case of an individual performing service, as a member of a uniformed service, to which the provisions of section 410(l)(1) of this title are applicable, theterm "wages" shall, subject to the provisions of subsection (a)(1) of this section, include as such individual's remuneration for such service only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(l)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(l)(1) of this title applies.
+For purposes of this subchapter, in the case of an individual performing service, as a member of a uniformed service, to which the provisions of section 410(l)(1) of this title are applicable, the term "wages" shall, subject to the provisions of subsection (a)(1) of this section, include as such individual's remuneration for such service only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(l)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(l)(1) of this title applies.
 
 #### (e) Peace Corps volunteers
 
@@ -120,7 +120,7 @@ For purposes of this subchapter, in the case of an individual performing service
 
 #### (i) Employer contributions under sections 401(k) and 414(h)(2) of Internal Revenue Code
 
-Nothing in any of the foregoing provisions of this section (other than subsection (a) of this section) shall exclude from the term "wages"—
+Nothing in any of the foregoing provisions of this section (other than subsection (a)) shall exclude from the term "wages"—
 
 &emsp;(1) Any employer contribution under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) to the extent not included in gross income by reason of section 402(a)(8) of such Code, or
 
@@ -128,7 +128,7 @@ Nothing in any of the foregoing provisions of this section (other than subsectio
 
 #### (j) Amounts deferred under nonqualified deferred compensation plans
 
-Any amount deferred under a nonqualified deferred compensation plan (within the meaning of section 3121(v)(2)(C) of the Internal Revenue Code of 1986) shall be taken into account for purposes of this subchapter as of the later of when the services are performed, or when there is no substantial risk of forfeiture of the rights to such amount. Any amount taken into account as wages by reason of the preceding sentence (and the income attributable thereto) shall not thereafter be treated as wages for purposes of this subchapter.
+Any amount deferred under a nonqualified deferred compensation plan (within the meaning ofsection 3121(v)(2)(C) of the Internal Revenue Code of 1986) shall be taken into account for purposes of this subchapter as of the later of when the services are performed, or when there is no substantial risk of forfeiture of the rights to such amount. Any amount taken into account as wages by reason of the preceding sentence (and the income attributable thereto) shall not thereafter be treated as wages for purposes of this subchapter.
 
 #### (k) "National average wage index" and "deferred compensation amount" defined
 
@@ -138,7 +138,7 @@ Any amount deferred under a nonqualified deferred compensation plan (within the 
 
 &emsp;(A) on the basis of amounts reported to the Secretary of the Treasury or his delegate for such year,
 
-&emsp;(B) by disregarding the limitation on wages specified in subsection (a)(1) of this section,
+&emsp;(B) by disregarding the limitation on wages specified in subsection (a)(1),
 
 &emsp;(C) with respect to calendar years after 1990, by incorporating deferred compensation amounts and factoring in for such years the rate of change from year to year in such amounts, in a manner consistent with the requirements of section 10208 of the Omnibus Budget Reconciliation Act of 1989, and
 
@@ -150,13 +150,13 @@ Any amount deferred under a nonqualified deferred compensation plan (within the 
 
 &emsp;(B) any amount with respect to which a deduction is allowable under chapter 1 of such Code by reason of a contribution to a plan described in section 501(c)(18) of such Code, and
 
-&emsp;(C) to the extent provided in regulations of the Commissioner of Social Security, deferred compensation provided under any arrangement, agreement, or plan referred to in subsection (i) or (j) of this section.
+&emsp;(C) to the extent provided in regulations of the Commissioner of Social Security, deferred compensation provided under any arrangement, agreement, or plan referred to in subsection (i) or (j).
 
 (Aug. 14, 1935, ch. 531, title II, §209, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1373; Mar. 24, 1943, ch. 26, §1(b)(2), 57 Stat. 47; Apr. 4, 1944, ch. 161, §2, 58 Stat. 188; Oct. 23, 1945, ch. 433, §7(b), 59 Stat. 548; Dec. 29, 1945, ch. 652, title I, §5(a), 59 Stat. 671; Aug. 10, 1946, ch. 951, title IV, §§407(a), 408(a), 409(a), 410, 411, 414, 60 Stat. 988, 989, 990; Apr. 20, 1948, ch. 222, §1(a), 62 Stat. 195; Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492; Sept. 1, 1954, ch. 1206, title I, §§101(a)(1)–(3), 104(a), 68 Stat. 1052, 1078; Aug. 1, 1956, ch. 836, title I, §105(a), 70 Stat. 828; Aug. 1, 1956, ch. 837, title IV, §401, 70 Stat. 869; Pub. L. 85–786, §1, Aug. 27, 1958, 72 Stat. 938; Pub. L. 85–840, title I, §102(a), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–778, title I, §103(j)(2)(C), (F), Sept. 13, 1960, 74 Stat. 937, 938; Pub. L. 87–64, title I, §102(c)(3)(A), June 30, 1961, 75 Stat. 134; Pub. L. 87–293, title II, §202(b)(2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, §220(c)(3), Feb. 26, 1964, 78 Stat. 63; Pub. L. 88–650, §4(a), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§313(a), 320(a)(1), July 30, 1965, 79 Stat. 382, 393; Pub. L. 90–248, title I, §108(a)(1), title V, §504(c), Jan. 2, 1968, 81 Stat. 834, 935; Pub. L. 92–5, title II, §203(a)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(1), July 1, 1972, 86 Stat. 417; Pub. L. 92–603, title I, §§104(g), 122(a), 123(c)(1), 138(a), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1365; Pub. L. 93–66, title II, §203(a)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(1), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §351(a)(1)–(3)(A), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–472, §3(c), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(4), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–499, title XI, §1141(a)(2), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(B), Aug. 13, 1981, 95 Stat. 201; Pub. L. 97–123, §3(a), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–21, title I, §101(c)(1), title III, §§324(c)(1)–(3), 327(a)(2), (b)(2), 328(b), Apr. 20, 1983, 97 Stat. 70, 124, 125, 127, 128; Pub. L. 98–369, div. A, title IV, §491(d)(39), title V, §531(d)(1)(B), div. B, title VI, §§2661(i), 2663(a)(6), July 18, 1984, 98 Stat. 851, 884, 1157, 1162; Pub. L. 99–272, title XII, §12112(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 99–514, title I, §122(e)(5), title XI, §1151(d)(2)(C), Oct. 22, 1986, 100 Stat. 2112, 2505; Pub. L. 100–203, title IX, §§9001(a)(2), 9002(a), 9003(a)(1), Dec. 22, 1987, 101 Stat. 1330–286, 1330–287; Pub. L. 100–647, title I, §§1001(g)(4)(C), 1011(f)(8), 1011B(a)(22)(E), (23)(B), title III, §3043(a), title VIII, §8017(a), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3641, 3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10208(a), (d)(1), Dec. 19, 1989, 103 Stat. 2476, 2479; Pub. L. 101–508, title V, §5130(a)(5), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(4), (e)(1), Aug. 15, 1994, 108 Stat. 1478, 1538, 1539; Pub. L. 103–387, §2(a)(2)(A), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §§1421(b)(8)(B), 1458(b)(2), Aug. 20, 1996, 110 Stat. 1798, 1820; Pub. L. 108–203, title IV, §423(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, §251(a)(1)(B), title III, §320(b)(5), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 110–245, title I, §115(a)(2), June 17, 2008, 122 Stat. 1636; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(viii), Dec. 19, 2014, 128 Stat. 4040.)
 
 #### References in Text
 
-Section 165 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4)(A), (B), was a part of chapter 1 of the 1939 Code, and was repealed by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). Internal Revenue Code of 1954 redesignated Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
+Section 165 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4)(A), (B), was a part of chapter 1 of the 1939 Code, and was repealed by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). Internal Revenue Code of 1954 redesignated Internal RevenueCode of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
 Section 405(a) of the Internal Revenue Code of 1954, referred to in subsec. (a)(4)(D), was repealed by Pub. L. 98–369, div. A, title IV, §491(a), July 18, 1984, 98 Stat. 848.
 
@@ -226,7 +226,7 @@ Subsec. (k). Pub. L. 101–239, §10208(a), added subsec. (k).
 
 Subsec. (e)(8). Pub. L. 100–647, §1011(f)(8), amended cl. (8) generally. Prior to amendment, cl. (8) read as follows: "under a simplified employee pension (as defined in section 408(k) of the Internal Revenue Code of 1986) if, at the time of the payment, it is reasonable to believe that the employee will be entitled to a deduction under section 219(b)(2) of such Code for such payment,".
 
-Subsec. (e)(9). Pub. L. 100–647, §1011B(a)(23)(B), inserted "if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received" after "1986)".
+Subsec. (e)(9). Pub. L. 100–647, §1011B(a)(23)(B), inserted "if such payment would not be treated as wageswithout regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received" after "1986)".
 
 Subsec. (h)(2). Pub. L. 100–647, §8017(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless (A) the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or (B) the employer's expenditures for agricultural labor in such year equal or exceed $2,500;".
 
@@ -414,7 +414,7 @@ Amendment by section 1458(b)(2) of Pub. L. 104–188 applicable to remuneration 
 
 #### Effective Date of 1994 Amendments
 
-Amendment by Pub. L. 103–387 applicable to remuneration paid after Dec. 31, 1993, see section 2(a)(3) of Pub. L. 103–387, set out as a note under section 3102 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–387 applicable to remuneration paid after Dec. 31, 1993, see section 2(a)(3) ofPub. L. 103–387, set out as a note under section 3102 of Title 26, Internal Revenue Code.
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
@@ -510,7 +510,7 @@ Pub. L. 92–603, title I, §122(c), Oct. 30, 1972, 86 Stat. 1354, provided that
 
 Pub. L. 92–603, title I, §138(c), Oct. 30, 1972, 86 Stat. 1366, provided that: "The amendments made by this section \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply in the case of any payment made after December 1972."
 
-Pub. L. 92–336, title II, §203(c), July 1, 1972, 86 Stat. 420, provided that: "The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\] (except paragraphs (1) and (7) thereof), shall apply only with respect to remuneration paid after December 1972. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only withrespect to taxable years beginning after 1972. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1972."
+Pub. L. 92–336, title II, §203(c), July 1, 1972, 86 Stat. 420, provided that: "The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\] (except paragraphs (1) and (7) thereof), shall apply only with respect to remuneration paid after December 1972. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1972. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1972."
 
 #### Effective Date of 1971 Amendment
 
@@ -546,7 +546,7 @@ Amendment by Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1) of
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–786, §2, Aug. 27, 1958, 72 Stat. 938, provided that: "The amendment made by section 1 \[amending this section\] shall be applicable to remuneration paid after the enactment of this Act \[Aug. 27, 1958\], except that, in the case of any coverage group which is included under the agreement of a State under section 218 of the Social Security Act \[42 U.S.C. 418\], the amendment made by section 1 shall also be applicable to remuneration for any member of such coverage group with respect to services performed after the effective date, specified in such agreement, for such coverage group, if such State has paid or agrees, prior to January 1, 1959, to pay, prior to such date, the amounts which under section 218(e) \[42 U.S.C. 418(e)\] would have been payable with respect to remuneration of all members of such coverage group had the amendment made by section 1 been in effect on and after January 1, 1951. Failure by a State to make such payments prior to January 1, 1959, shall be treated the same as failure to make payments when due under section 218(e)."
+Pub. L. 85–786, §2, Aug. 27, 1958, 72 Stat. 938, provided that: "The amendment made by section 1 \[amending this section\] shall be applicable to remuneration paid after the enactment of this Act \[Aug. 27, 1958\], except that, in the case of any coverage group which is included under the agreement of a State under section 218 of the Social Security Act \[42 U.S.C. 418\], the amendment made by section 1 shall also be applicable to remuneration for any member of such coverage group with respect to services performed after the effectivedate, specified in such agreement, for such coverage group, if such State has paid or agrees, prior to January 1, 1959, to pay, prior to such date, the amounts which under section 218(e) \[42 U.S.C. 418(e)\] would have been payable with respect to remuneration of all members of such coverage group had the amendment made by section 1 been in effect on and after January 1, 1951. Failure by a State to make such payments prior to January 1, 1959, shall be treated the same as failure to make payments when due under section 218(e)."
 
 #### Effective Date of 1956 Amendment
 
@@ -610,7 +610,7 @@ Act Aug. 28, 1950, ch. 809, title I, §110, 64 Stat. 523, provided that: "In any
 
 &emsp;"(4) no refund of such taxes has been obtained,
 
-> the amount of such remuneration with respect to which such taxes have been paid shall be deemed to constitute remuneration for employment as defined in section 209(b) of the Social Security Act \[former subsec. (b) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] (but it shall not constitute wages for purposes of deductions under section 203 of such Act \[42 U.S.C. 403\] for months for which benefits under title II of such Act \[42 U.S.C. 401 et seq.\] have been certified and paid prior to the enactment of this act."
+> the amount of such remuneration with respect to which such taxes have been paid shall be deemed to constitute remuneration for employment as defined in section 209(b) of the Social Security Act \[former subsec. (b) of this section\] as in effect prior to the enactment of thisAct \[Aug. 28, 1950\] (but it shall not constitute wages for purposes of deductions under section 203 of such Act \[42 U.S.C. 403\] for months for which benefits under title II of such Act \[42 U.S.C. 401 et seq.\] have been certified and paid prior to the enactment of this act."
 
 #### Refunds or Credits for Overpayments
 

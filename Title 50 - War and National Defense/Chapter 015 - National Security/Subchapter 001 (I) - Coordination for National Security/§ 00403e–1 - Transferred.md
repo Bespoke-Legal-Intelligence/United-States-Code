@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section 403e–1, comprising section 402 of the Intelligence Authorization Act for Fiscal Year 1984, Pub. L. 98–215, was editorially reclassified as section 3323 of this title.
+Section 403e–1, comprising section 402 of the Intelligence Authorization Act for Fiscal Year 1984, Pub. L.98–215, was editorially reclassified as section 3323 of this title.
 

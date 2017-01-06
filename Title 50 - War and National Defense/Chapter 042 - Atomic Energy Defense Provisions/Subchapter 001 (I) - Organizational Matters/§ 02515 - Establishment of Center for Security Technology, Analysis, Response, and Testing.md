@@ -28,5 +28,5 @@ The center established under subsection (a) shall carry out the following:
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2014, and not as partof the Atomic Energy Defense Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2014, and not as part of the Atomic Energy Defense Act which comprises this chapter.
 

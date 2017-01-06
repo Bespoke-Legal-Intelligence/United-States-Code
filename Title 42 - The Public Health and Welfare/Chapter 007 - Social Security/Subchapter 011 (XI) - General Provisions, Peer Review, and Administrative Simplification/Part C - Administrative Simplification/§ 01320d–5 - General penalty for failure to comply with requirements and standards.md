@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, the Secretary shall impose on any person who violates a provision of this part—
+&emsp;Except as provided in subsection (b), the Secretary shall impose on any person who violates a provision of this part—
 
 &emsp;&emsp;(A) in the case of a violation of such provision in which it is established that the person did not know (and by exercising reasonable diligence would not have known) that such person violated such provision, a penalty for each such violation of an amount that is at least the amount described in paragraph (3)(A) but not to exceed the amount described in paragraph (3)(D);
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) in the case of a violation of such provision in which it is established that the violation was due to willful neglect—
 
-&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penaltyin an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
+&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penalty in an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
 
 &emsp;&emsp;&emsp;(ii) if the violation is not corrected as described in such subsection, a penalty in an amount that is at least the amount described in paragraph (3)(D).
 
@@ -50,7 +50,7 @@
 
 #### (i) No penalty
 
-&emsp;&emsp;&emsp;With respect to the imposition of a penalty by the Secretary under subsection (a), the period referred to in subparagraph (A) may be extended as determined appropriate by the Secretary based on the nature and extent of the failure to comply.
+&emsp;&emsp;&emsp;With respect to the imposition of a penalty by the Secretary under subsection (a),the period referred to in subparagraph (A) may be extended as determined appropriate by the Secretary based on the nature and extent of the failure to comply.
 
 #### (ii) Assistance
 

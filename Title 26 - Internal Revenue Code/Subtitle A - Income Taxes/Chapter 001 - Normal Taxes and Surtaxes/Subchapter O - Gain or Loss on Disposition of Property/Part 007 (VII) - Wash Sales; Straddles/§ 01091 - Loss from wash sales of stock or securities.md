@@ -30,7 +30,7 @@ Rules similar to the rules of subsection (a) shall apply to any loss realized on
 
 This section shall not fail to apply to a contract or option to acquire or sell stock or securities solely by reason of the fact that the contract or option settles in (or could be settled in) cash or property other than such stock or securities.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 319; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §106(a), (b), July 18, 1984, 98 Stat. 629; Pub. L. 100–647, title V, §5075(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 106–554, §1(a)(7) \[title IV, §401(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-649; Pub. L. 107–147, title IV, §412(d)(2), Mar. 9, 2002, 116 Stat. 53.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 319; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §106(a), (b), July 18, 1984, 98 Stat. 629; Pub. L. 100–647, title V, §5075(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 106–554, §1(a)(7) \[title IV, §401(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(2), Mar. 9, 2002, 116 Stat. 53.)
 
 #### Amendments
 

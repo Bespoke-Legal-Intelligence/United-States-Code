@@ -10,7 +10,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;(1) United States representatives to the Fund shall recommend and shall work for changes in Fund guidelines, policies, and decisions that would—
 
-&emsp;&emsp;(A) permit stand-by arrangements to be extended beyond three years, as necessary to enable Fund members to implement their economic adjustment programs successfully;
+&emsp;&emsp;(A) permit stand-by arrangements to be extended beyond three years, as necessary toenable Fund members to implement their economic adjustment programs successfully;
 
 &emsp;&emsp;(B) provide that in approving any economic adjustment program the Fund shall take into account the effect such program will have on jobs, investment, real per capita income, the gap in wealth between the rich and poor, and social programs such as health, housing, and education, in order to seek to minimize the adverse impact of those adjustment programs on basic human needs; and
 
@@ -32,7 +32,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;&emsp;(B) to provide, to the extent feasible, Bank project loans designed to safeguard and further basic human needs in countries adopting economic adjustment programs supported by Fund resources, and
 
-&emsp;&emsp;(C) to provide, as appropriate, Bank financing for programs of structural adjustment that will facilitate development of aproductive economic base and greater attainment of basic human needs objectives over the longer term; and
+&emsp;&emsp;(C) to provide, as appropriate, Bank financing for programs of structural adjustment that will facilitate development of a productive economic base and greater attainment of basic human needs objectives over the longer term; and
 
 &emsp;(5) United States representatives to the Fund and the Bank shall request the Fund and the Bank to provide periodic analyses of the effects of economic adjustment programs supported by Fund or Bank financing on jobs, investment, real income per capita, income distribution, and social programs such as health, housing, and education.
 

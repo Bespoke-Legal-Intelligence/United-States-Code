@@ -1,10 +1,12 @@
 ### §5045. Deputy Commandants
 
-There are in the Headquarters, Marine Corps, not more than six Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
+There are in the Headquarters, Marine Corps, not more than seven Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
 
-(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1054; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–314, div. A, title IX, §934, Dec. 2, 2002, 116 Stat. 2626.)
+(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1054; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–314, div. A, title IX, §934, Dec. 2, 2002, 116 Stat. 2626; Pub. L. 114–328, div. A, title V, §503(c), Dec. 23, 2016, 130 Stat. 2107.)
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328 substituted "seven" for "six".
 
 <b>2002</b>—Pub. L. 107–314 substituted "six" for "five".
 

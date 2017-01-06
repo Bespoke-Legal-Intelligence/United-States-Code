@@ -66,7 +66,7 @@ Exception for foreign contractor or subcontractor.—Paragraph (1) does not appl
 
 &emsp;&emsp;&emsp;(ii) precluded by the laws of the country involved from making its records available for examination; and
 
-&emsp;&emsp;(B) the executive agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
+&emsp;&emsp;(B) the executive agency determines, after taking into account the price and availability of the property and services from UnitedStates sources, that the public interest would be best served by not applying paragraph (1).
 
 &emsp;(3)
 

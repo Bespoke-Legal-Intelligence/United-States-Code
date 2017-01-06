@@ -44,7 +44,7 @@ In providing grants under subsection (a), the Secretary shall extend a preferenc
 
 #### (e) Quentin N. Burdick American Indians Into Nursing Program
 
-The Secretary shall provide one of the grants authorized under subsection (a) to establish and maintain a program at the University of North Dakota to be known as the "Quentin N. Burdick American Indians Into Nursing Program". Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title.
+The Secretary shall provide one of the grants authorized under subsection (a) to establish andmaintain a program at the University of North Dakota to be known as the "Quentin N. Burdick American Indians Into Nursing Program". Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title.
 
 #### (f) Service obligation
 
@@ -52,7 +52,7 @@ The active duty service obligation prescribed under section 254m of title 42 sha
 
 &emsp;(A) in the Indian Health Service;
 
-&emsp;(B) in a program conducted under a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\];
+&emsp;(B) in a program conducted under a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\];
 
 &emsp;(C) in a program assisted under subchapter IV of this chapter; or
 
@@ -70,7 +70,7 @@ Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the gen
 
 Section 2624 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.
 
-The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 

@@ -68,5 +68,9 @@ Par. (8). Pub. L. 100–650, §5(a), added par. (8).
 
 <b>1982</b>—Par. (2). Pub. L. 97–320 substituted "25(a)" for "25A".
 
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -72,7 +72,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (c) Regulations; transmittal of copy of regulations to Congressional committees prior to issuance
 
-The Secretary shall issue such regulations consistent with this chapter as the Secretarydeems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
+The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
 (Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, §241(b)(1), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§4004(a), 4030(b), Feb. 7, 2014, 128 Stat. 785, 814.)
 
@@ -134,7 +134,7 @@ Pub. L. 99–198, title XV, §1505(b), Dec. 23, 1985, 99 Stat. 1567, provided th
 
 "(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act \[Dec. 23, 1985\].
 
-"(2) Upon a showing by a State, to the satisfaction of the Secretary, that the application of paragraph (1),without regard to this paragraph, would have an adverse and disruptive effect on the administration of the food stamp program in such State or would provide inadequate time for retail stores to implement changes in sales tax policy required as a result of the amendment made by subsection (a) \[amending this section\], the Secretary may delay the effective date of subsection (a) with respect to such State to a date not later than October 1, 1987."
+"(2) Upon a showing by a State, to the satisfaction of the Secretary, that the application of paragraph (1), without regard to this paragraph, would have an adverse and disruptive effect on the administration of the food stamp program in such State or would provide inadequate time for retail stores to implement changes in sales tax policy required as a result of the amendment made by subsection (a) \[amending this section\], the Secretary may delay the effective date of subsection (a) with respect to such State to a date not later than October 1, 1987."
 
 #### Effective Date of 1977 Amendment
 
@@ -150,11 +150,11 @@ Definitions.—In this subsection:
 
 &emsp;"(A)
 
-Indian; indian tribe.—The terms 'Indian' and 'Indian tribe' have the meaning given the terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Indian; indian tribe.—The terms 'Indian' and 'Indian tribe' have the meaning given the terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\].
 
 &emsp;"(B)
 
-Tribal organization.—The term 'tribal organization' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Tribal organization.—The term 'tribal organization' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\].
 
 "(2)
 
@@ -184,7 +184,7 @@ Traditional and local foods demonstration project.—
 
 &emsp;"(A)
 
-In general.—Subject to the availability of appropriations, the Secretary shall pilot a demonstration project by awarding a grant to 1 or more tribal organizations authorized to administer the food distribution program on Indian reservations under section 4(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(b)) for the purpose of purchasing nutritious and traditional foods, and when practicable, foods produced locally by Indian producers, for distribution to recipients of foods distributed under that program.
+In general.—Subject to the availability of appropriations, the Secretary shall pilot a demonstration project by awarding a grant to 1 or more tribal organizations authorized to administer the food distribution program on Indian reservations under section 4(b) of the Food and Nutrition Act of 2008 (7U.S.C. 2013(b)) for the purpose of purchasing nutritious and traditional foods, and when practicable, foods produced locally by Indian producers, for distribution to recipients of foods distributed under that program.
 
 &emsp;"(B)
 

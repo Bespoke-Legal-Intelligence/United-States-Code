@@ -282,7 +282,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (1) In general
 
-&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for thissection for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
+&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for this section for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
 
 #### (2) Research and evaluation activities
 

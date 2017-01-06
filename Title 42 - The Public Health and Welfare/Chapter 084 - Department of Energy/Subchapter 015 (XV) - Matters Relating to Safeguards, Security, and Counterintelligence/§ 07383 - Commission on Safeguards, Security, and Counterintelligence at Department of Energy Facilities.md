@@ -14,7 +14,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 &emsp;(C) Two shall be appointed by the chairman of the Committee on Armed Services of the House of Representatives, in consultation with the ranking member of that Committee.
 
-&emsp;(D) One shall be appointed by the ranking member of the Committee on Armed Servicesof the House of Representatives, in consultation with the chairman of that Committee.
+&emsp;(D) One shall be appointed by the ranking member of the Committee on Armed Services of the House of Representatives, in consultation with the chairman of that Committee.
 
 &emsp;(E) One shall be appointed by the Secretary of Defense.
 
@@ -84,7 +84,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (2) The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
 
-(3)(A) The Commission may, without regard to the civil service laws and regulations, appointand terminate such personnel as may be necessary to enable the Commission to perform its duties.
+(3)(A) The Commission may, without regard to the civil service laws and regulations, appoint and terminate such personnel as may be necessary to enable the Commission to perform its duties.
 
 (B) The Commission may fix the compensation of the personnel of the Commission without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
 
@@ -120,5 +120,5 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Short Title
 
-Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: "This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title, amending sections 2165, 2274, 2275, 2277, and 2282a of this title, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the 'Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999'."
+Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: "This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title, amending sections 2165, 2274, 2275, 2277, and 2282a of thistitle, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the 'Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999'."
 

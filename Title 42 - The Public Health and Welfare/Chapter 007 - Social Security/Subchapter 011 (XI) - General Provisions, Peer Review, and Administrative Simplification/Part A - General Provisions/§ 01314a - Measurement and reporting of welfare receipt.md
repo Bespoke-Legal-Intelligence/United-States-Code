@@ -60,7 +60,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;(A) providing advice and recommendations to the Secretary on the development of indicators of the rate at which and, to the extent feasible, the degree to which, families depend on income from welfare programs and the duration of welfare receipt; and
 
-&emsp;&emsp;(B) providing advice on the development and presentation of annual reports required under subsection (d) of this section.
+&emsp;&emsp;(B) providing advice on the development and presentation of annual reports required under subsection (d).
 
 #### (5) Travel expenses
 
@@ -76,7 +76,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (8) Termination of Board
 
-&emsp;The Board shall be terminated at such time as the Secretary determines the duties described in paragraph (4) have been completed, but in any case prior to the submission of the first report required under subsection (d) of this section.
+&emsp;The Board shall be terminated at such time as the Secretary determines the duties described in paragraph (4) have been completed, but in any case prior to the submission of the first report required under subsection (d).
 
 #### (d) Annual welfare indicators report
 
@@ -116,7 +116,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (4) Submission
 
-&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, and annually thereafter, to the committees specified in subsection (b)(3) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
+&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, and annually thereafter, to the committees specified in subsection (b)(3). Each such report shall be transmitted during the first 60 days of each regular session of Congress.
 
 #### (e) Short title
 
@@ -126,7 +126,7 @@ This section may be cited as the "Welfare Indicators Act of 1994".
 
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
 
@@ -140,7 +140,7 @@ Section was enacted as part of the Social Security Act Amendments of 1994, and n
 
 <b>1998</b>—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out "Energy and" before "Commerce".
 
-Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted "subsection (b)(3) of this section" for "subsection (b)(3)(C) of this section".
+Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted "subsection (b)(3)" for "subsection (b)(3)(C)".
 
 #### Change of Name
 

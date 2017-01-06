@@ -14,7 +14,7 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 
 #### Effective Date
 
-Pub. L. 96–209, title VI, Mar. 14, 1980, 94 Stat. 99, provided that: "This Act \[enacting sections 1622a to 1622g of this title, amending sections 5316 of Title 5, Government Organization and Employees, and section 4101 of Title 50, War and National Defense, and enacting provisions set out as notes under this section, section 363 of former Title 31, Money and Finance, and section 7546 of Title 42, The Public Health and Welfare\] shall take effect on the date of enactment \[Mar. 14, 1980\]."
+Pub. L. 96–209, title VI, Mar. 14, 1980, 94 Stat. 99, provided that: "This Act \[enacting sections 1622a to 1622gof this title, amending sections 5316 of Title 5, Government Organization and Employees, and section 4101 of Title 50, War and National Defense, and enacting provisions set out as notes under this section, section 363 of former Title 31, Money and Finance, and section 7546 of Title 42, The Public Health and Welfare\] shall take effect on the date of enactment \[Mar. 14, 1980\]."
 
 #### Authority of Director of Office of Management and Budget Relating to Transfer of Foreign Claims Settlement Commission of the United States and Termination of Affairs of Annual Assay Commission, United States Marine Corps Memorial Commission, and Low-Emission Vehicle Certification Board
 

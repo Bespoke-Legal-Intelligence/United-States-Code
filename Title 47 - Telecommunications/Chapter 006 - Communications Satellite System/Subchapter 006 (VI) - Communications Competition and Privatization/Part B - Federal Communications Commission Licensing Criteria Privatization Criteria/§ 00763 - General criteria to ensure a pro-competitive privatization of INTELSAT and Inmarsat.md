@@ -1,6 +1,6 @@
 ### §763. General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat
 
-The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c <sup>1</sup> of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A of this subchapter:
+The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c <sup>1</sup> of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A:
 
 #### (1) Dates for privatization
 
@@ -44,7 +44,7 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2005, except that the Commission may extend this deadline to not later than December 31, 2004.
 
-&emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
+&emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed fortrading on one or more major stock exchanges with transparent and effective securities regulation.
 
 &emsp;&emsp;(C) A majority of the members of the board of directors of any successor entity or separated entity shall not be directors, employees, officers, or managers or otherwise serve as representatives of any signatory or former signatory. No member of the board of directors of any successor or separated entity shall be a director, employee, officer or manager of any intergovernmental organization remaining after the privatization.
 
@@ -118,7 +118,7 @@ Par. (5)(F), (G). Pub. L. 108–371, §1(2), added subpars. (F) and (G).
 
 #### Immigration Status of Alien Employees of INTELSAT after Privatization
 
-Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for maintenance of nonimmigrant and special immigrant status of alien employees of INTELSAT and their immediate family members after privatization, and for treatment of employment for purposes of obtaining immigrant status as a multinational executive or manager.
+Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for maintenance of nonimmigrant and specialimmigrant status of alien employees of INTELSAT and their immediate family members after privatization, and for treatment of employment for purposes of obtaining immigrant status as a multinational executive or manager.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

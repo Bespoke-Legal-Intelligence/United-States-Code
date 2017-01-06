@@ -66,7 +66,7 @@ Definitions.—In this section—
 
 &emsp;(5) the term "medical food" has the meaning given the term in section 5(b) of the Orphan Drug Act; and
 
-&emsp;(6) the term "supply chain" includes manufacturer, wholesaler, repacker, own-labeled distributor, private-label distributor, jobber, broker, drug trader, transportation company, hospital, pharmacy, or security company.
+&emsp;(6) the term "supply chain" includes manufacturer, wholesaler, repacker, own-labeled distributor, private-label distributor, jobber,broker, drug trader, transportation company, hospital, pharmacy, or security company.
 
 (Added Pub. L. 112–186, §2(a), Oct. 5, 2012, 126 Stat. 1427.)
 

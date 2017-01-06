@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with appropriate regional fishery management councils and in coordination with other federal <sup>1</sup> agencies and educational institutions, shall, subject to the availability of appropriations, establish a program—
+The Secretary, in consultation with appropriate regional fishery management councils and in coordination with other federal <sup>1</sup> agencies and educational institutions, shall, subject tothe availability of appropriations, establish a program—
 
 &emsp;(1) to identify existing research on, and known locations of, deep sea corals and submit such information to the appropriate Councils;
 
@@ -14,7 +14,7 @@ The Secretary, in consultation with appropriate regional fishery management coun
 
 &emsp;(5) to develop technologies or methods designed to assist fishing industry participants in reducing interactions between fishing gear and deep sea corals; and
 
-&emsp;(6) to prioritize program activities in areas where deep sea corals are known to occur, andin areas where scientific modeling or other methods predict deep sea corals are likely to be present.
+&emsp;(6) to prioritize program activities in areas where deep sea corals are known to occur, and in areas where scientific modeling or other methods predict deep sea corals are likely to be present.
 
 #### (b) Reporting
 

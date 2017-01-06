@@ -20,7 +20,7 @@ The Secretary of the Interior may recruit, train, and accept, without regard to 
 
 #### (4) Supervision
 
-&emsp;The Secretary shall ensure that an appropriate officer or employee of the United Statesprovides adequate and appropriate supervision of each volunteer whose services the Secretary accepts.
+&emsp;The Secretary shall ensure that an appropriate officer or employee of the United States provides adequate and appropriate supervision of each volunteer whose services the Secretary accepts.
 
 #### (c) Provision of services and costs
 

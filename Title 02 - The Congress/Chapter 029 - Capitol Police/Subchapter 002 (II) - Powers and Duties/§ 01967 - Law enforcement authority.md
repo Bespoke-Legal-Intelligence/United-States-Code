@@ -2,7 +2,7 @@
 
 #### (a) Scope
 
-Subject to such regulations as may be prescribed by the Capitol Police Board and approved by the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate,a member of the Capitol Police shall have authority to make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia—
+Subject to such regulations as may be prescribed by the Capitol Police Board and approved by the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, a member of the Capitol Police shall have authority to make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia—
 
 &emsp;(1) within the District of Columbia, with respect to any crime of violence committed within the United States Capitol Grounds;
 
@@ -32,7 +32,7 @@ This section does not affect the authority of the Metropolitan Police force of t
 
 As used in this section, the term "crime of violence" has the meaning given that term in section 16 of title 18.
 
-(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, §1003(a), Sept. 30, 2003, 117 Stat. 1021.)
+(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug.20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, §1003(a), Sept. 30, 2003, 117 Stat. 1021.)
 
 #### Codification
 

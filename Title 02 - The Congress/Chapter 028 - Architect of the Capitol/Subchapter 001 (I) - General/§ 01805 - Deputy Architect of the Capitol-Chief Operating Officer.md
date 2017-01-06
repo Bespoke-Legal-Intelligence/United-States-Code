@@ -12,7 +12,7 @@ The Deputy Architect of the Capitol shall have strong leadership skills and demo
 
 #### (1) In general
 
-&emsp;The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol for the overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office's goals and mission; providing overall organization management to improve the Office's performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
+&emsp;The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol forthe overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office's goals and mission; providing overall organization management to improve the Office's performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
 
 #### (2) Responsibilities
 

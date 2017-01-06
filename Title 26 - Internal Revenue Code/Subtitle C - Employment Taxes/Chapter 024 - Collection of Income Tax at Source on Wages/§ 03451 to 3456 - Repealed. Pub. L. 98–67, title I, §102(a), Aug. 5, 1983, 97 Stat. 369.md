@@ -34,7 +34,7 @@ Repeal Not To Apply to Amounts Deducted and Withheld Before September 2, 1983.�
 
 &emsp;"(1)
 
-In general.—If, notwithstanding the repeal made by subsection (a) (and the provisions of subsection (b)), an amount is deducted and withheld before September 2, 1983, under subchapter B of chapter24 of the Internal Revenue Code of 1986 (as in effect before its repeal by subsection (a)), the repeal made by subsection (a) (and the provisions of subsection (b)) shall not apply to the amount so deducted and withheld.
+In general.—If, notwithstanding the repeal made by subsection (a) (and the provisions of subsection (b)), an amount is deducted and withheld before September 2, 1983, under subchapter B of chapter 24 of the Internal Revenue Code of 1986 (as in effect before its repeal by subsection (a)), the repeal made by subsection (a) (and the provisions of subsection (b)) shall not apply to the amount so deducted and withheld.
 
 &emsp;"(2)
 

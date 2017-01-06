@@ -1,6 +1,6 @@
 ### §2208. Claims of constitutionally based privilege against disclosure
 
-(a)(1) When the Archivist determines under this chapter to make available to the public anyPresidential record that has not previously been made available to the public, the Archivist shall—
+(a)(1) When the Archivist determines under this chapter to make available to the public any Presidential record that has not previously been made available to the public, the Archivist shall—
 
 &emsp;(A) promptly provide notice of such determination to—
 

@@ -76,7 +76,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;From the amount made available for allocation under this subparagraph by subparagraph (A)(iii) for any fiscal year—
 
-&emsp;&emsp;&emsp;(i) $30,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(3) and shall be made available as grants under section 1059c of this title, treating such $30,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section, and using such $30,000,000 for purposes described in subsection (c) of such section;
+&emsp;&emsp;&emsp;(i) $30,000,000 for such fiscal year shall be available to eligible institutions describedin subsection (a)(3) and shall be made available as grants under section 1059c of this title, treating such $30,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section, and using such $30,000,000 for purposes described in subsection (c) of such section;
 
 &emsp;&emsp;&emsp;(ii) $15,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(4) and shall be made available as grants under section 1059d of this title, treating such $15,000,000 as part of the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out such section and using such $15,000,000 for purposes described in subsection (c) of such section;
 
@@ -140,7 +140,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (5) Means-tested Federal benefit program
 
-&emsp;The term "means-tested Federal benefit program" means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the programs' benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
+&emsp;The term "means-tested Federal benefit program" means a program of the Federal Government, other than a program under subchapter IV, in which eligibility for the programs' benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
 
 #### (6) Native American
 
@@ -160,7 +160,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(ii) is not a Tribal College or University (as defined in section 1059c of this title); and
 
-&emsp;&emsp;(B) submits to the Secretary such enrollment data as may be necessary to demonstrate that the institution is described insubparagraph (A), along with such other information and data as the Secretary may by regulation require.
+&emsp;&emsp;(B) submits to the Secretary such enrollment data as may be necessary to demonstrate that the institution is described in subparagraph (A), along with such other information and data as the Secretary may by regulation require.
 
 #### (9) Predominantly Black institution
 

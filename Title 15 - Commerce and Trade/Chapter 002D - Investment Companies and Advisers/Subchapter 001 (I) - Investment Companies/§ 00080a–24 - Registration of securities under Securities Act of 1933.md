@@ -90,7 +90,7 @@ Subsec. (e). Act Aug. 10, 1954, §403, added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–290, title II, §203(c), Oct. 11, 1996, 110 Stat. 3428, provided that: "The amendments made by thissection \[amending this section\] shall become effective on the earlier of—
+Pub. L. 104–290, title II, §203(c), Oct. 11, 1996, 110 Stat. 3428, provided that: "The amendments made by this section \[amending this section\] shall become effective on the earlier of—
 
 &emsp;"(1) 1 year after the date of enactment of this Act \[Oct. 11, 1996\]; or
 

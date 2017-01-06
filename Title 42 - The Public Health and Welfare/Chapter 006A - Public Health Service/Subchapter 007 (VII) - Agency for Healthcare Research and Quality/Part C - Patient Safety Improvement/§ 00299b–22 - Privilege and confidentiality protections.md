@@ -2,7 +2,7 @@
 
 #### (a) Privilege
 
-Notwithstanding any other provision of Federal, State, or local law, and subject to subsection (c) of this section, patient safety work product shall be privileged and shall not be—
+Notwithstanding any other provision of Federal, State, or local law, and subject to subsection (c), patient safety work product shall be privileged and shall not be—
 
 &emsp;(1) subject to a Federal, State, or local civil, criminal, or administrative subpoena or order, including in a Federal, State, or local civil or administrative disciplinary proceeding against a provider;
 
@@ -16,25 +16,25 @@ Notwithstanding any other provision of Federal, State, or local law, and subject
 
 #### (b) Confidentiality of patient safety work product
 
-Notwithstanding any other provision of Federal, State, or local law, and subject to subsection (c) of this section, patient safety work product shall be confidential and shall not be disclosed.
+Notwithstanding any other provision of Federal, State, or local law, and subject to subsection (c), patient safety work product shall be confidential and shall not be disclosed.
 
 #### (c) Exceptions
 
-Except as provided in subsection (g)(3) of this section—
+Except as provided in subsection (g)(3)—
 
 #### (1) Exceptions from privilege and confidentiality
 
-&emsp;Subsections (a) and (b) of this section shall not apply to (and shall not be construed to prohibit) one or more of the following disclosures:
+&emsp;Subsections (a) and (b) shall not apply to (and shall not be construed to prohibit) one or more of the following disclosures:
 
 &emsp;&emsp;(A) Disclosure of relevant patient safety work product for use in a criminal proceeding, but only after a court makes an in camera determination that such patient safety work product contains evidence of a criminal act and that such patient safety work product is material to the proceeding and not reasonably available from any other source.
 
-&emsp;&emsp;(B) Disclosure of patient safety work product to the extent required to carry out subsection (f)(4)(A) of this section.
+&emsp;&emsp;(B) Disclosure of patient safety work product to the extent required to carry out subsection (f)(4)(A).
 
 &emsp;&emsp;(C) Disclosure of identifiable patient safety work product if authorized by each provider identified in such work product.
 
 #### (2) Exceptions from confidentiality
 
-&emsp;Subsection (b) of this section shall not apply to (and shall not be construed to prohibit) one or more of the following disclosures:
+&emsp;Subsection (b) shall not apply to (and shall not be construed to prohibit) one or more of the following disclosures:
 
 &emsp;&emsp;(A) Disclosure of patient safety work product to carry out patient safety activities.
 
@@ -48,7 +48,7 @@ Except as provided in subsection (g)(3) of this section—
 
 &emsp;&emsp;(F) Disclosures that the Secretary may determine, by rule or other means, are necessary for business operations and are consistent with the goals of this part.
 
-&emsp;&emsp;(G) Disclosure of patient safety work product to law enforcement authorities relating to the commission of a crime (or to an event reasonably believed to be a crime) if the person making the disclosure believes, reasonably under the circumstances, that the patient safety work product that is disclosed is necessary for criminal law enforcement purposes.
+&emsp;&emsp;(G) Disclosure of patient safety work product to law enforcement authorities relating to the commission of a crime (or to an eventreasonably believed to be a crime) if the person making the disclosure believes, reasonably under the circumstances, that the patient safety work product that is disclosed is necessary for criminal law enforcement purposes.
 
 &emsp;&emsp;(H) With respect to a person other than a patient safety organization, the disclosure of patient safety work product that does not include materials that—
 
@@ -58,25 +58,25 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (3) Exception from privilege
 
-&emsp;Subsection (a) of this section shall not apply to (and shall not be construed to prohibit) voluntary disclosure of nonidentifiable patient safety work product.
+&emsp;Subsection (a) shall not apply to (and shall not be construed to prohibit) voluntary disclosure of nonidentifiable patient safety work product.
 
 #### (d) Continued protection of information after disclosure
 
 #### (1) In general
 
-&emsp;Patient safety work product that is disclosed under subsection (c) of this section shall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
+&emsp;Patient safety work product that is disclosed under subsection (c) shall continue to be privileged and confidential as provided for in subsections (a) and (b), and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
 
 #### (2) Exception
 
 &emsp;Notwithstanding paragraph (1), and subject to paragraph (3)—
 
-&emsp;&emsp;(A) if patient safety work product is disclosed in a criminal proceeding, the confidentiality protections provided for in subsection (b) of this section shall no longer apply to the work product so disclosed; and
+&emsp;&emsp;(A) if patient safety work product is disclosed in a criminal proceeding, the confidentiality protections provided for in subsection (b) shall no longer apply to the work product so disclosed; and
 
-&emsp;&emsp;(B) if patient safety work product is disclosed as provided for in subsection (c)(2)(B) of this section (relating to disclosure of nonidentifiable patient safety work product), the privilege and confidentiality protections provided for in subsections (a) and (b) of this section shall no longer apply to such work product.
+&emsp;&emsp;(B) if patient safety work product is disclosed as provided for in subsection (c)(2)(B) (relating to disclosure of nonidentifiable patient safety work product), the privilege and confidentiality protections provided for in subsections (a) and (b) shall no longer apply to such work product.
 
 #### (3) Construction
 
-&emsp;Paragraph (2) shall not be construed as terminating or limiting the privilege or confidentiality protections provided for in subsection (a) or (b) of this section with respect to patient safety work product other than the specific patient safety work product disclosed as provided for in subsection (c) of this section.
+&emsp;Paragraph (2) shall not be construed as terminating or limiting the privilege or confidentiality protections provided for in subsection (a) or (b) with respect to patient safety work product other than the specific patient safety work product disclosed as provided for in subsection (c).
 
 #### (4) Limitations on actions
 
@@ -88,7 +88,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (ii) Nonapplication
 
-&emsp;&emsp;&emsp;The limitation contained in clause (i) shall not apply in an action against a patient safety organization or with respect to disclosures pursuant to subsection (c)(1) of this section.
+&emsp;&emsp;&emsp;The limitation contained in clause (i) shall not apply in an action against a patient safety organization or with respect to disclosures pursuant to subsection (c)(1).
 
 #### (B) Providers
 
@@ -116,7 +116,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (1) Civil monetary penalty
 
-&emsp;Subject to paragraphs (2) and (3), a person who discloses identifiable patient safety work product in knowing or reckless violation of subsection (b) of this section shall be subject to a civil monetary penalty of not more than $10,000 for each act constituting such violation.
+&emsp;Subject to paragraphs (2) and (3), a person who discloses identifiable patient safety work product in knowing or reckless violation of subsection (b) shall be subject to a civil monetary penalty of not more than $10,000 for each act constituting such violation.
 
 #### (2) Procedure
 
@@ -130,11 +130,11 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Without limiting remedies available to other parties, a civil action may be brought by any aggrieved individual to enjoin any act or practice that violates subsection (e) of this section and to obtain other appropriate equitable relief (including reinstatement, back pay, and restoration of benefits) to redress such violation.
+&emsp;&emsp;Without limiting remedies available to other parties, a civil action may be broughtby any aggrieved individual to enjoin any act or practice that violates subsection (e) and to obtain other appropriate equitable relief (including reinstatement, back pay, and restoration of benefits) to redress such violation.
 
 #### (B) Against State employees
 
-&emsp;&emsp;An entity that is a State or an agency of a State government may not assert the privilege described in subsection (a) of this section unless before the time of the assertion, the entity or, in the case of and with respect to an agency, the State has consented to be subject to an action described in subparagraph (A), and that consent has remained in effect.
+&emsp;&emsp;An entity that is a State or an agency of a State government may not assert the privilege described in subsection (a) unless before the time of the assertion, the entity or, in the case of and with respect to an agency, the State has consented to be subject to an action described in subparagraph (A), and that consent has remained in effect.
 
 #### (g) Rule of construction
 
@@ -144,7 +144,7 @@ Nothing in this section shall be construed—
 
 &emsp;(2) to limit, alter, or affect the requirements of Federal, State, or local law pertaining to information that is not privileged or confidential under this section;
 
-&emsp;(3) except as provided in subsection (i) of this section, to alter or affect the implementation of any provision of the HIPAA confidentiality regulations or section 1320d–5 of this title (or regulations promulgated under such section);
+&emsp;(3) except as provided in subsection (i), to alter or affect the implementation of any provision of the HIPAA confidentiality regulations or section 1320d–5 of this title (or regulations promulgated under such section);
 
 &emsp;(4) to limit the authority of any provider, patient safety organization, or other entity to enter into a contract requiring greater confidentiality or delegating authority to make a disclosure or use in accordance with this section;
 

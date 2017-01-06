@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-After the Secretary acquires fee title to at least 10,000 acres of land on Grand Island, the Secretary, within 30 months, shall develop with public involvement a comprehensive management plan for the national recreation area which implements the provisions of this subchapter.
+After the Secretary acquires fee title to at least 10,000 acres of land on Grand Island, theSecretary, within 30 months, shall develop with public involvement a comprehensive management plan for the national recreation area which implements the provisions of this subchapter.
 
 #### (b) Special issues to be included
 

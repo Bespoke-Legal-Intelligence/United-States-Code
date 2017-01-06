@@ -24,7 +24,7 @@ For purposes of subsection (a), the private business contribution requirement of
 
 #### (1) National limitation
 
-&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph (4), zero thereafter.
+&emsp;There is a national zone academy bond limitation for each calendar year. Such limitationis $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the comprehensive education plan of such public school or program is approved by the eligible local education agency, and
 
-&emsp;&emsp;(D)(i) such public school is located in an empowerment zone or enterprise community\(including any such zone or community designated after the date of the enactment of this section), or
+&emsp;&emsp;(D)(i) such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or
 
 &emsp;&emsp;(ii) there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act.
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) any other property or service specified by the eligible local education agency.
 
-(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, §120(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–95, title IX, §9215(uu)(1), Dec. 10, 2015, 129 Stat. 2183; Pub. L. 114–113, div. Q, title I, §164(a), Dec. 18, 2015, 129 Stat. 3066.)
+(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, §120(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–95, title IX, §9215(uu)(1), Dec. 10, 2015, 129Stat. 2183; Pub. L. 114–113, div. Q, title I, §164(a), Dec. 18, 2015, 129 Stat. 3066.)
 
 #### References in Text
 

@@ -52,7 +52,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established an Oil Terminal Facilities and Oil Tanker Operations Association (hereinafter in this section referred to as the "Association") for each of the Programs established under subsection (b) of this section.
+&emsp;There is established an Oil Terminal Facilities and Oil Tanker Operations Association (hereinafter in this section referred to as the "Association") for each of the Programs established under subsection (b).
 
 #### (2) Membership
 
@@ -72,13 +72,13 @@
 
 #### (4) Designation of existing organization
 
-&emsp;The Secretary may designate an existing nonprofit organization as an Association under this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
+&emsp;The Secretary may designate an existing nonprofit organization as an Associationunder this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
 
 #### (d) Regional Citizens' Advisory Councils
 
 #### (1) Membership
 
-&emsp;There is established a Regional Citizens' Advisory Council (hereinafter in this section referred to as the "Council") for each of the programs established by subsection (b) of this section.
+&emsp;There is established a Regional Citizens' Advisory Council (hereinafter in this section referred to as the "Council") for each of the programs established by subsection (b).
 
 #### (2) Membership
 
@@ -142,11 +142,11 @@
 
 &emsp;&emsp;&emsp;(i) For the appointments by the Governor of the State of Alaska, one-third shall serve for 3 years, one-third shall serve for 2 years, and one-third shall serve for one year.
 
-&emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
+&emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii), a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
 
 #### (4) Self-governing
 
-&emsp;Each Council shall elect its own chairperson, select its own staff, and make policies with regard to its internal operating procedures. After the initial organizational meeting called by the Secretary under subsection (i) of this section, each Council shall be self-governing.
+&emsp;Each Council shall elect its own chairperson, select its own staff, and make policies with regard to its internal operating procedures. After the initial organizational meeting called by the Secretary under subsection (i), each Council shall be self-governing.
 
 #### (5) Dual membership and conflicts of interest prohibited
 
@@ -160,11 +160,11 @@
 
 &emsp;&emsp;(A) provide advice and recommendations to the Association on policies, permits, and site-specific regulations relating to the operation and maintenance of terminal facilities and crude oil tankers which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operation of the terminal facilities and crude oil tankers;
+&emsp;&emsp;(B) monitor through the committee established under subsection (e), the environmental impacts of the operation of the terminal facilities and crude oil tankers;
 
 &emsp;&emsp;(C) monitor those aspects of terminal facilities' and crude oil tankers' operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(D) review through the committee established under subsection (f) of this section, the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
+&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy ofoil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
 
 &emsp;&emsp;(E) provide advice and recommendations to the Association on port operations, policies and practices;
 
@@ -242,7 +242,7 @@ On and after the expiration of the 180-day period following August 18, 1990, eac
 
 #### (h) Recommendations of Council
 
-In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d) of this section, the Association shall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
+In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d), the Association shall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
 
 #### (i) Administrative actions
 
@@ -256,7 +256,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Compensation
 
-&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f) of this section.
+&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f).
 
 #### (k) Funding
 
@@ -318,7 +318,7 @@ As used in this section, the term—
 
 #### (1) Regulatory authority
 
-&emsp;Nothing in this section shall be construed as modifying, repealing, superseding, or preempting any municipal, State or Federal law or regulation, or in any way affecting litigation arising from oil spills or the rights and responsibilities of the United States or the State ofAlaska, or municipalities thereof, to preserve and protect the environment through regulation of land, air, and water uses, of safety, and of related development. The monitoring provided for by this section shall be designed to help assure compliance with applicable laws and regulations and shall only extend to activities—
+&emsp;Nothing in this section shall be construed as modifying, repealing, superseding, or preempting any municipal, State or Federal law or regulation, or in any way affecting litigation arising from oil spills or the rights and responsibilities of the United States or the State of Alaska, or municipalities thereof, to preserve and protect the environment through regulation of land, air, and water uses, of safety, and of related development. The monitoring provided for by this section shall be designed to help assure compliance with applicable laws and regulations and shall only extend to activities—
 
 &emsp;&emsp;(A) that would affect or have the potential to affect the vicinity of the terminal facilities and the area of crude oil tanker operations included in the Programs; and
 
@@ -330,11 +330,11 @@ As used in this section, the term—
 
 #### (o) Alternative voluntary advisory group in lieu of Council
 
-The requirements of subsections (c) through (l) of this section, as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
+The requirements of subsections (c) through (l), as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
 
 #### (1) Prince William Sound
 
-&emsp;With respect to the Prince William Sound Program, the Alyeska Pipeline Service Company or any of its owner companies enters into a contract for the duration of the operation of the Trans-Alaska Pipeline System with the Alyeska Citizens Advisory Committee in existence on August 18, 1990, or a successor organization, to fund that Committee or organization on an annual basis in the amount provided for by subsection (k)(2)(A) of this section and the President annually certifies that the Committee or organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Prince William Sound.
+&emsp;With respect to the Prince William Sound Program, the Alyeska Pipeline Service Company or any of its owner companies enters into a contract for the duration of the operation of the Trans-Alaska Pipeline System with the Alyeska Citizens Advisory Committee in existence on August 18, 1990, or a successor organization, to fund that Committee or organization on an annual basis in the amount provided for by subsection (k)(2)(A) and the President annually certifies that the Committee or organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Prince William Sound.
 
 #### (2) Cook Inlet
 

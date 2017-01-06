@@ -68,7 +68,7 @@ The partnership shall facilitate the establishment of a Civic Health Assessment 
 
 #### (4) Demographic characteristics
 
-&emsp;The partnership shall seek to obtain data for the Civic Health Assessment that will permitthe partnership to analyze the data by age group, race and ethnicity, education level, and other demographic characteristics of the individuals involved.
+&emsp;The partnership shall seek to obtain data for the Civic Health Assessment that will permit the partnership to analyze the data by age group, race and ethnicity, education level, and other demographic characteristics of the individuals involved.
 
 #### (5) Other issues
 

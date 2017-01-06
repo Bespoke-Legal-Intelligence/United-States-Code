@@ -30,11 +30,11 @@ Operational Energy Strategy.—(1) The Assistant Secretary of Defense for Energy
 
 Budgetary and Financial Matters.—(1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
 
-(2) The Secretary of Defense shall require that the Secretary of each military department andthe head of each Defense Agency with responsibility for executing activities associated with the strategy transmit their proposed budget for those activities for a fiscal year to the Assistant Secretary for review before submission of the proposed budget to the Under Secretary of Defense (Comptroller).
+(2) The Secretary of Defense shall require that the Secretary of each military department and the head of each Defense Agency with responsibility for executing activities associated with the strategy transmit their proposed budget for those activities for a fiscal year to the Assistant Secretary for review before submission of the proposed budget to the Under Secretary of Defense (Comptroller).
 
 (3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
 
-(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that were reviewed by the Assistant Secretary under paragraph (3).
+(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31,the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that were reviewed by the Assistant Secretary under paragraph (3).
 
 (5) For each proposed budget covered by a report under paragraph (4) for which the certification of the Assistant Secretary under paragraph (3) is that the budget is not adequate for implementation of the strategy, the report shall include the following:
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 113–291, §901(g)(1)(D), transferred subsec. (e) of secti
 
 Subsec. (c)(1). Pub. L. 113–291, §901(g)(1)(E), inserted "of Defense for Installations, Energy, and Environment" after "The Assistant Secretary".
 
-Subsec. (c)(4) to (6). Pub. L. 113–291, §901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par.\(3), including a separate statement of certain estimated expenditures and requested appropriations.
+Subsec. (c)(4) to (6). Pub. L. 113–291, §901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par. (3), including a separate statement of certain estimated expenditures and requested appropriations.
 
 Subsec. (d). Pub. L. 113–291, §901(g)(1)(D), transferred subsec. (f) of section 138c of this title to subsec. (d) of this section. See Codification note above.
 
@@ -99,4 +99,8 @@ Subsec. (d)(1). Pub. L. 113–291, §901(g)(1)(E), inserted "of Defense for Inst
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–92, div. A, title X, §1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(4) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

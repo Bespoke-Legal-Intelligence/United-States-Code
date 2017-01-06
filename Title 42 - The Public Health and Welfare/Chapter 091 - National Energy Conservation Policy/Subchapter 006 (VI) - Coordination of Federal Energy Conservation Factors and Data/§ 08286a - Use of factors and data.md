@@ -10,3 +10,7 @@ Factors and data consented to pursuant to section 8286 of this title may be revi
 
 (Pub. L. 96–294, title V, §596, June 30, 1980, 94 Stat. 762.)
 
+#### Codification
+
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+

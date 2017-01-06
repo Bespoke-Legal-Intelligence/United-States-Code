@@ -14,7 +14,7 @@ Any contract of the Administrator for the sale or exchange of electric power for
 
 #### (d) Disposition of power which does not increase amount of firm power Administrator is obligated to provide to any customer
 
-No restrictions contained in subsection (c) shall limit or interfere with the sale, exchange or other disposition of any power by any utility or group thereof from any existing or new non-Federal resource if such sale, exchange or disposition does not increase the amount of firm power the Administrator would be obligated to provide to any customer. In addition to the directives contained in subsections (i)(1)(B) and (i)(3) and subject to:
+No restrictions contained in subsection (c) shall limit or interfere with the sale, exchangeor other disposition of any power by any utility or group thereof from any existing or new non-Federal resource if such sale, exchange or disposition does not increase the amount of firm power the Administrator would be obligated to provide to any customer. In addition to the directives contained in subsections (i)(1)(B) and (i)(3) and subject to:
 
 &emsp;(1) any contractual obligations of the Administrator,
 
@@ -68,7 +68,7 @@ For purposes of enabling the Administrator to acquire resources necessary to mee
 
 &emsp;(2) based upon such certification, the Secretary of the Treasury determines in accordance with applicable regulations that less than a major portion of the resource is to be furnished to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26).
 
-> The certification under paragraph (1) shall be made in accordance with this subsection and a procedure and methodology approved by the Secretary of the Treasury. For purposes of this subsection, the term "major portion" shall have the meaning provided by regulations issued by the Secretary of the Treasury.
+> The certification under paragraph (1) shall be made in accordance with this subsection and aprocedure and methodology approved by the Secretary of the Treasury. For purposes of this subsection, the term "major portion" shall have the meaning provided by regulations issued by the Secretary of the Treasury.
 
 #### (g) Review of rates for sale of power to Administrator by investor-owned utility customers
 

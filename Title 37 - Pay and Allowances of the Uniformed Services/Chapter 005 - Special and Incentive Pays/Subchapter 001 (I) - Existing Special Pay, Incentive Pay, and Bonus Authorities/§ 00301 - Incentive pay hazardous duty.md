@@ -115,7 +115,7 @@
 
 (e) A member of a uniformed service who is entitled to basic pay may be paid incentive pay under this subsection, at a monthly rate not to exceed $150, for any month during which the member performs duty involving regular participation as a firefighting crew member, as determined by the Secretary concerned.
 
-(f)(1) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of a reserve component of a uniformed service, or of the National Guard, who is entitled to compensation under section 206 of this title, performs, under orders, any duty described in subsection (a) for members entitled to basic pay, he is entitled to anincrease in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c), as the case may be, for the performance of that hazardous duty by a member of a corresponding grade who is entitled to basic pay. He is entitled to the increase for as long as he is qualified for it, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe under section 206(a) of this title. This subsection does not apply to a member who is entitled to basic pay under section 204 of this title for the entire month.
+(f)(1) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of a reserve component of a uniformed service, or of the National Guard, who is entitled to compensation under section 206 of this title, performs, under orders, any duty described in subsection (a) for members entitled to basic pay, he is entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c), as the case may be, for the performance of that hazardous duty by a member of a corresponding grade who is entitled to basic pay. He is entitled to the increase for as long as he is qualified for it, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe under section 206(a) of this title. This subsection does not apply to a member who is entitled to basic pay under section 204 of this title for the entire month.
 
 (2)(A) If in any calendar month a member performs duty as described in paragraph (1) and while entitled to basic pay also performs hazardous duty as described in the same paragraph of subsection (a) as constitutes the predicate for his entitlement under paragraph (1), the earned units of measuring entitlement for incentive pay under this section shall be combined. If the sum of units determined under the preceding sentence equals or exceeds the minimum standard prescribed by the President for entitlement to pay specified under subsections (b) and (c) for a member of corresponding grade who is entitled to basic pay for the entire relevant month, the member shall be entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c) for the performance of that hazardous duty by a member of corresponding grade who is entitled to basic pay for the entire month.
 
@@ -183,7 +183,7 @@ In subsection (g), the words "entitled to incentive pay under section 301(a)(1) 
 
 <b>2006</b>—Subsec. (f)(2)(C). Pub. L. 109–364 struck out comma after "the term".
 
-<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d),redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
+<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d), redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–136, §615(c)(1), substituted "paragraph" for "clause".
 
@@ -455,7 +455,7 @@ Relationship to Other Incentives.—Incentives provided under this section are i
 
 Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
 
-"(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the ArmedForces, the incentives that are to be provided under this section."
+"(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the Armed Forces, the incentives that are to be provided under this section."
 
 #### Persons Entitled To Receive Incentive Pay for Duty Involving Contact With Persons Afflicted With Leprosy
 

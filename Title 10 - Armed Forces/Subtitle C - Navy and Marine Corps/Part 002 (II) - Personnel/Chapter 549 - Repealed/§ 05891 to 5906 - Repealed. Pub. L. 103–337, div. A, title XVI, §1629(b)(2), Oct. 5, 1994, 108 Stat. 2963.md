@@ -18,7 +18,7 @@ Section 5897, added Pub. L. 99–661, div. A, title V, §507(a), Nov. 14, 1986, 
 
 A prior section 5897, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1502; amended Pub. L. 90–179, §12, Dec. 8, 1967, 81 Stat. 549; Pub. L. 96–513, title V, §503(34), Dec. 12, 1980, 94 Stat. 2914; Pub. L. 97–22, §10(b)(10)(B), July 10, 1981, 95 Stat. 137; Pub. L. 98–525, title XIV, §1405(47), Oct. 19, 1984, 98 Stat. 2625, related to reports and certifications by selection boards, prior to repeal by Pub. L. 99–661, §507(a).
 
-Section 5898, added Pub. L. 99–661, div. A, title V, §507(a), Nov. 14, 1986, 100 Stat. 3865, related to action onreports of selection boards. See sections 14104, 14110(b), 14111(a), (b), and 14112 of this title.
+Section 5898, added Pub. L. 99–661, div. A, title V, §507(a), Nov. 14, 1986, 100 Stat. 3865, related to action on reports of selection boards. See sections 14104, 14110(b), 14111(a), (b), and 14112 of this title.
 
 A prior section 5898, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1503; amended Pub. L. 96–513, title V, §503(34), Dec. 12, 1980, 94 Stat. 2914; Pub. L. 97–22, §10(b)(10)(B), July 10, 1981, 95 Stat. 137, related to submission of reports of selection boards to the President, prior to repeal by Pub. L. 99–661, §507(a).
 

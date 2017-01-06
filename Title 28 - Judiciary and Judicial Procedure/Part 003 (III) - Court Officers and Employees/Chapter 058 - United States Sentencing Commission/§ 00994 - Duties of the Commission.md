@@ -314,7 +314,7 @@ Pub. L. 108–187, §4(b), Dec. 16, 2003, 117 Stat. 2705.—Fraud and related ac
 
 Pub. L. 108–21, title I, §104(a), Apr. 30, 2003, 117 Stat. 653.—Kidnapping.
 
-Pub. L. 108–21, title IV, §401(b), (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, 117 Stat. 668, 671-673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
+Pub. L. 108–21, title IV, §401(b), (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, 117 Stat. 668, 671–673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
 
 Pub. L. 108–21, title V, §504(c)(2), Apr. 30, 2003, 117 Stat. 682.—Obscene visual representations of the sexual abuse of children.
 
@@ -378,7 +378,7 @@ Pub. L. 104–208, div. C, title II, §203(e), Sept. 30, 1996, 110 Stat. 3009–
 
 Pub. L. 104–208, div. C, title II, §211(b), Sept. 30, 1996, 110 Stat. 3009–569.—Fraudulent acquisition and use of government-issued documents.
 
-Pub. L. 104–208, div. C, title II, §218(b), (c), Sept. 30, 1996, 110 Stat. 3009–573, 3009-574.—Involuntary servitude.
+Pub. L. 104–208, div. C, title II, §218(b), (c), Sept. 30, 1996, 110 Stat. 3009–573, 3009–574.—Involuntary servitude.
 
 Pub. L. 104–208, div. C, title III, §333, Sept. 30, 1996, 110 Stat. 3009–634.—Conspiring with or assisting an alien to import, export, possess, manufacture, or distribute a controlled substance.
 

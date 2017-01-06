@@ -40,13 +40,13 @@ Any person who—
 
 The penalty imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added Pub. L. 97–248, title III, §320(a), Sept. 3, 1982, 96 Stat. 611; amended Pub. L. 98–369, div. A, title I, §143(a), July 18, 1984, 98 Stat. 682; Pub. L. 101–239, title VII, §7734(a), Dec. 19, 1989, 103 Stat. 2403; Pub. L. 108–357, title VIII, §818(a), Oct. 22, 2004, 118 Stat. 1584.)
+(Added Pub. L. 97–248, title III, §320(a), Sept. 3, 1982, 96 Stat. 611; amended Pub. L. 98–369, div. A,title I, §143(a), July 18, 1984, 98 Stat. 682; Pub. L. 101–239, title VII, §7734(a), Dec. 19, 1989, 103 Stat. 2403; Pub. L. 108–357, title VIII, §818(a), Oct. 22, 2004, 118 Stat. 1584.)
 
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted at end of concluding provisions "Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: "shall pay a penaltyequal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity."
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: "shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity."
 
 Subsec. (a)(1)(B). Pub. L. 101–239, §7734(a)(1), inserted "(directly or indirectly)" after "participates".
 

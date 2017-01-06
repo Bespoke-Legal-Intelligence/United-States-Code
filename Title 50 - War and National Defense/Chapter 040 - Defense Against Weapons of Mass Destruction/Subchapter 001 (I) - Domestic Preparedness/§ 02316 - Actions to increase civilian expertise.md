@@ -18,15 +18,15 @@ The President shall submit to Congress the following reports:
 
 &emsp;(2) Not later than one year after September 23, 1996, a report describing—
 
-&emsp;&emsp;(A) the actions planned to be taken to carry out subsection (d) of this section; and
+&emsp;&emsp;(A) the actions planned to be taken to carry out subsection (d); and
 
 &emsp;&emsp;(B) the costs of such actions.
 
-&emsp;(3) Not later than three years after September 23, 1996, a report updating the information provided in the reports submitted pursuant to paragraphs (1) and (2), including the measures taken pursuant to subsection (d) of this section.
+&emsp;(3) Not later than three years after September 23, 1996, a report updating the information provided in the reports submitted pursuant to paragraphs (1) and (2), including the measures taken pursuant to subsection (d).
 
 (Pub. L. 104–201, div. A, title XIV, §1416, Sept. 23, 1996, 110 Stat. 2721.)
 
 #### Codification
 
-Section is comprised of subsecs. (d) and (e) of section 1416 of Pub. L. 104–201. Subsecs. (a) to (c) of section 1416 enacted section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, and amended section 372 of Title 10.
+Section is comprised of subsecs. (d) and (e) of section 1416 of Pub. L. 104–201. Subsecs. (a) to (c) of section 1416 enacted section 382 (now 282) of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, and amended section 372 of Title 10.
 

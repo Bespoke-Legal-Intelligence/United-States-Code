@@ -64,7 +64,7 @@
 
 #### (B) Special rule for certain payments or other transfers of value
 
-&emsp;&emsp;In the case where an applicable manufacturer provides a payment or other transferof value to an entity or individual at the request of or designated on behalf of a covered recipient, the applicable manufacturer shall disclose that payment or other transfer of value under the name of the covered recipient.
+&emsp;&emsp;In the case where an applicable manufacturer provides a payment or other transfer of value to an entity or individual at the request of or designated on behalf of a covered recipient, the applicable manufacturer shall disclose that payment or other transfer of value under the name of the covered recipient.
 
 #### (2) Physician ownership
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(i) is searchable and is in a format that is clear and understandable;
 
-&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasingorganization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
+&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasing organization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
 
 &emsp;&emsp;&emsp;(iii) contains information that is able to be easily aggregated and downloaded;
 

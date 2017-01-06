@@ -86,7 +86,7 @@ Another prior section 103 of act July 26, 1947, was renumbered section 107 and i
 
 Subsec. (c)(9) to (14). Pub. L. 111–259, §407(b), added pars. (9) to (13) and redesignated former par. (9) as (14).
 
-Subsec. (e). Pub. L. 111–259, §403, amended subsec. (e) generally. Prior to amendment, text read as follows: "Commencing as of October 1, 2008, the Office of the Director of National Intelligence may not be co-locatedwith any other element of the intelligence community."
+Subsec. (e). Pub. L. 111–259, §403, amended subsec. (e) generally. Prior to amendment, text read as follows: "Commencing as of October 1, 2008, the Office of the Director of National Intelligence may not be co-located with any other element of the intelligence community."
 
 #### Effective Date
 

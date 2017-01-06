@@ -176,7 +176,7 @@ Establishment of Commission.—There is hereby established a commission to be kn
 
 Membership.—(1) The commission shall be composed of 13 members, appointed as follows:
 
-&emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shallbe a veteran who was awarded a decoration specified in paragraph (2).
+&emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
 &emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
@@ -294,7 +294,7 @@ Staff.—(1) The chairman of the commission may, without regard to the civil ser
 
 "(d)
 
-Detail of Government Employees.—Upon request of the chairman of the commission, the head ofany Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
+Detail of Government Employees.—Upon request of the chairman of the commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
 
 "(e)
 
@@ -326,7 +326,7 @@ Pub. L. 103–66, title XII, §12008, Aug. 10, 1993, 107 Stat. 415, provided tha
 
 "(a)
 
-Policy.—The fiscal year 1994 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title, except as provided in subsection (b) of this section, will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1993, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.
+Policy.—The fiscal year 1994 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United StatesCode, and of dependency and indemnity compensation payable under chapter 13 of such title, except as provided in subsection (b) of this section, will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1993, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.
 
 "(b)
 

@@ -14,7 +14,7 @@ Individuals eligible for participation in the fellowship program are United Stat
 
 #### (c) Covered facilities
 
-The Secretary shall carry out the fellowship program at or in connection with the nationalsecurity laboratories and nuclear weapons production facilities.
+The Secretary shall carry out the fellowship program at or in connection with the national security laboratories and nuclear weapons production facilities.
 
 #### (d) Administration
 

@@ -140,7 +140,7 @@ In this subchapter:
 
 #### (16) Security control
 
-&emsp;The term "security control" means the management, operational, and technical controls used to protect against an unauthorized effortto adversely affect the confidentiality, integrity, and availability of an information system or its information.
+&emsp;The term "security control" means the management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information.
 
 #### (17) Security vulnerability
 
@@ -148,7 +148,7 @@ In this subchapter:
 
 #### (18) Tribal
 
-&emsp;The term "tribal" has the meaning given the term "Indian tribe" in section 450b of title 25.
+&emsp;The term "tribal" has the meaning given the term "Indian tribe" in section 5304 of title 25.
 
 (Pub. L. 114–113, div. N, title I, §102, Dec. 18, 2015, 129 Stat. 2936.)
 

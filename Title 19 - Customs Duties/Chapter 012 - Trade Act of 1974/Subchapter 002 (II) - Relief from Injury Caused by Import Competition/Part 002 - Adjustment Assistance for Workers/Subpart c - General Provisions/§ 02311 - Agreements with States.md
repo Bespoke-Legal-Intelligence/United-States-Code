@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary to enter into agreements
 
-The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as "cooperating States" and "cooperating States agencies" respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, shall receive applications for, and shall provide, payments on the basis provided in this part, (2) in accordance with subsection (f), shall makeavailable to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A the employment and case management services described in section 2295 of this title, (3) shall make any certifications required under section 2291(c)(2) <sup>1</sup> of this title, and (4) shall otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
+The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as "cooperating States" and "cooperating States agencies" respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, shall receive applications for, and shall provide, payments on the basis provided in this part, (2) in accordance with subsection (f), shall make available to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A the employment and case management services described in section 2295 of this title, (3) shall make any certifications required under section 2291(c)(2) <sup>1</sup> of this title, and (4) shall otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
 
 #### (b) Amendment, suspension, and termination of agreements
 
@@ -116,7 +116,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;The Secretary shall establish procedures to ensure the uniform application by the States of the requirements of this subsection.
 
-(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat. 390, 392; Pub. L. 112–40, title II, §§201(b), (c), 216(a)(1), Oct. 21, 2011, 125 Stat. 403, 407; Pub. L. 113–128, title V, §512(hh)(4), July 22, 2014, 128 Stat. 1721; Pub. L. 114–27, title IV, §§402(b), (c), 404(a), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat.390, 392; Pub. L. 112–40, title II, §§201(b), (c), 216(a)(1), Oct. 21, 2011, 125 Stat. 403, 407; Pub. L. 113–128, title V, §512(hh)(4), July 22, 2014, 128 Stat. 1721; Pub. L. 114–27, title IV, §§402(b), (c), 404(a), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -126,7 +126,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 Section 2291(c)(2) of this title, referred to in subsec. (a)(3), was subsequently amended, and no longer contains provisions relating to certifications.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (f), is Pub. L. 113–128, July 22, 2014,128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (f), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Codification
 
@@ -184,7 +184,7 @@ Subsec. (a)(2). Pub. L. 111–5, §§1852(a)(1), 1893, temporarily amended cl. (
 
 Subsec. (a)(3), (4). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted "shall" for "will". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (c) to (f). Pub. L. 111–5, §§1852(b), 1893, temporarily added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec.\(f) temporarily redesignated (g). See Codification notes above and Effective and Termination Dates of 2009 Amendment note below.
+Subsecs. (c) to (f). Pub. L. 111–5, §§1852(b), 1893, temporarily added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) temporarily redesignated (g). See Codification notes above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated subsec. (f) as (g). Former subsec. (g) temporarily redesignated (h). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -258,7 +258,7 @@ Pub. L. 112–40, title II, §216(a)(2), Oct. 21, 2011, 125 Stat. 407, provided 
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note precedingsection 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 1998 Amendment
 

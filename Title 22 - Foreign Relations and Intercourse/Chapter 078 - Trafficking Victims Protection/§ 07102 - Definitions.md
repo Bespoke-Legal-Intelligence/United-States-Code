@@ -84,7 +84,7 @@ In this chapter:
 
 #### (12) Task Force
 
-&emsp;The term "Task Force" means the Interagency Task Force to Monitor and CombatTrafficking established under section 7103 of this title.
+&emsp;The term "Task Force" means the Interagency Task Force to Monitor and Combat Trafficking established under section 7103 of this title.
 
 #### (13) United States
 
@@ -98,7 +98,7 @@ In this chapter:
 
 &emsp;The term "victim of trafficking" means a person subjected to an act or practice described in paragraph (9) or (10).
 
-(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, §108(b), May 29, 2015, 129 Stat. 239.)
+(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003,117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, §108(b), May 29, 2015, 129 Stat. 239.)
 
 #### References in Text
 

@@ -94,13 +94,13 @@ For purposes of this section—
 
 #### (3) Workmen's compensation benefits substituted for social security benefits
 
-&emsp;For purposes of this section, if, by reason of section 224 of the Social Security Act (or byreason of section 3(a)(1) of the Railroad Retirement Act of 1974), any social security benefit is reduced by reason of the receipt of a benefit under a workmen's compensation act, the term "social security benefit" includes that portion of such benefit received under the workmen's compensation act which equals such reduction.
+&emsp;For purposes of this section, if, by reason of section 224 of the Social Security Act (or by reason of section 3(a)(1) of the Railroad Retirement Act of 1974), any social security benefit is reduced by reason of the receipt of a benefit under a workmen's compensation act, the term "social security benefit" includes that portion of such benefit received under the workmen's compensation act which equals such reduction.
 
 #### (4) Tier 1 railroad retirement benefit
 
 &emsp;For purposes of paragraph (1), the term "tier 1 railroad retirement benefit" means—
 
-&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term "employment" as defined in the Social Security Act, and
+&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is beingpaid) had been included in the term "employment" as defined in the Social Security Act, and
 
 &emsp;&emsp;(B) a monthly annuity amount under section 3(f)(3) of the Railroad Retirement Act of 1974.
 
@@ -170,7 +170,7 @@ Subsec. (b)(2)(A). Pub. L. 104–188, §1807(c)(2), inserted "137," before "911"
 
 <b>1994</b>—Subsec. (d)(1). Pub. L. 103–296 struck out at end "For purposes of the preceding sentence, the amount received by any taxpayer shall be determined as if the Social Security Act did not contain section 203(i) thereof."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted "Except as provided in paragraph (2),gross" for "Gross", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted "Except as provided in paragraph (2), gross" for "Gross", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 Subsec. (c). Pub. L. 103–66, §13215(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'base amount' means—
 
@@ -274,5 +274,5 @@ Treatment of certain lump-sum payments received after december 31, 1983.—The a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

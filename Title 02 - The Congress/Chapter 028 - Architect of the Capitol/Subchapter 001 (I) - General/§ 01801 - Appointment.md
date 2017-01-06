@@ -22,7 +22,7 @@
 
 #### Codification
 
-Section was classified to section 162–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 162–1 of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Prior Provisions
 
@@ -51,6 +51,10 @@ Committee on House Oversight of House of Representatives changed to Committee on
 The name of Superintendent of the Capitol Building and Grounds was changed to Architect of the Capitol by Act Mar. 3, 1921, ch. 124, 41 Stat. 1291, the Legislative, Executive, and Judicial Appropriation Act Mar. 3, 1921, fiscal year 1922.
 
 The name of Architect of the Capitol was changed to Superintendent of the Capitol Building and Grounds, by act Feb. 14, 1902, ch. 17, 32 Stat. 20, popularly known as the "Urgent Deficiency Appropriation Act for 1902".
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–156, §1, May 16, 2016, 130 Stat. 391, provided that: "This Act \[enacting subchapter V of this chapter\] may be cited as the 'Fallen Heroes Flag Act of 2016'."
 
 #### Comprehensive Management Study and Response
 

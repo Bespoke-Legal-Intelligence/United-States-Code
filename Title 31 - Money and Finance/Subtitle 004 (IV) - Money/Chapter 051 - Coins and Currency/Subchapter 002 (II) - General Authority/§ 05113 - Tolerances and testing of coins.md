@@ -38,7 +38,7 @@ R.S. §3538; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under 
 
 In subsection (a), the words "for the dollar, half dollar, quarter dollar, and dime coins" are added because of the restatement. The words "0.194 gram" are substituted for "three grains", and the words "0.13 gram" are substituted for "two grains", for consistency in the revised chapter.
 
-In subsection (b), before clause (1), the words "Secretary shall keep a record of the kind, number, andweight of each group of coins minted" are substituted for 31:351(1st sentence) because of the source provisions restated in section 321(c) of the revised title. In clause (1), the words "deface the coins that do not conform and cast them into bars for reminting" are substituted for "shall be defaced and delivered to the superintendent of melting and refining department as standard bullion, to be again formed into ingots and recoined" for consistency in the revised chapter and to eliminate unnecessary words. In clause (2), the words "if more convenient" are omitted as surplus.
+In subsection (b), before clause (1), the words "Secretary shall keep a record of the kind, number, and weight of each group of coins minted" are substituted for 31:351(1st sentence) because of the source provisions restated in section 321(c) of the revised title. In clause (1), the words "deface the coins that do not conform and cast them into bars for reminting" are substituted for "shall be defaced and delivered to the superintendent of melting and refining department as standard bullion, to be again formed into ingots and recoined" for consistency in the revised chapter and to eliminate unnecessary words. In clause (2), the words "if more convenient" are omitted as surplus.
 
 #### Amendments
 

@@ -156,7 +156,7 @@ The purposes of this section are as follows:
 
 #### (6) Procurement of temporary and intermittent services
 
-&emsp;The Chairman of the Commission may procure temporary and intermittent services for the Commission in the same manner provided for the procurement of temporary and intermittent services for the Trade Deficit ReviewCommission under section 127(g)(5) of the Trade Deficit Review Commission Act.
+&emsp;The Chairman of the Commission may procure temporary and intermittent services for the Commission in the same manner provided for the procurement of temporary and intermittent services for the Trade Deficit Review Commission under section 127(g)(5) of the Trade Deficit Review Commission Act.
 
 #### (f) Authorization of appropriations
 
@@ -176,7 +176,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285; Pub. L. 113–291, div. A, title XII, §1259B(a), Dec. 19, 2014, 128 Stat. 3578.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285;Pub. L. 113–291, div. A, title XII, §1259B(a), Dec. 19, 2014, 128 Stat. 3578.)
 
 #### References in Text
 
@@ -258,7 +258,7 @@ Energy.—The Commission shall evaluate and assess how China's large and growing
 
 &emsp;"(D)
 
-United states capital markets.—The Commission shall evaluate the extent of Chinese access to, and use of United States capital markets, and whether the existing disclosure and transparency rules are adequate to identify Chinese companies which are active in United States markets and are also engaged in proliferation activities or other activities harmful to United States security interests.
+United states capital markets.—The Commission shall evaluate the extent of Chinese access to, and use of United States capital markets, andwhether the existing disclosure and transparency rules are adequate to identify Chinese companies which are active in United States markets and are also engaged in proliferation activities or other activities harmful to United States security interests.
 
 &emsp;"(E)
 

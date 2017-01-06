@@ -1,6 +1,6 @@
 ### §499. Delegation of powers to make awards; rules and regulations
 
-The President may delegate to the Secretary, under such conditions, regulations, and limitations as he prescribes, the powers conferred upon him to make the awards designated in this chapter, and the President may make any and all rules, regulations, and orders which he deems necessary in the conferring of such awards.
+The President may delegate to the Secretary, under such conditions, regulations, and limitations as he prescribes, the powers conferred upon him to make the awards designated in thischapter, and the President may make any and all rules, regulations, and orders which he deems necessary in the conferring of such awards.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 536.)
 

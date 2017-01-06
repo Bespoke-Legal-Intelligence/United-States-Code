@@ -8,7 +8,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 (1) The Secretary of the Interior, the Secretary of Agriculture, or the head of any other Federal agency, shall assist, advise, and cooperate with States or their political subdivisions, landowners, private organizations, or individuals to plan, protect, and manage river resources. Such assistance, advice, and cooperation may be through written agreements or otherwise. This authority applies within or outside a federally administered area and applies to rivers which are components of the National Wild and Scenic Rivers System and to other rivers. Any agreement under this subsection may include provisions for limited financial or other assistance to encourage participation in the acquisition, protection, and management of river resources.
 
-(2) Wherever appropriate in furtherance of this chapter, the Secretary of Agriculture and theSecretary of the Interior are authorized and encouraged to utilize the following:
+(2) Wherever appropriate in furtherance of this chapter, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to utilize the following:
 
 &emsp;(A) For activities on federally owned land, section 102301 of title 54 and the Volunteers in the Forest Act of 1972 (16 U.S.C. 558a–558d).
 
@@ -38,7 +38,7 @@ Subsec. (b)(2)(B). Pub. L. 113–287, §5(d)(31)(B)(ii), substituted "chapter 20
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–590 struck out provisions relating to provision of technical assistance and advice to and cooperation with States, etc., in establishment of areas.
 
-Subsec. (b). Pub. L. 99–590 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Secretaries of Agriculture and of Health and Human Services shall likewise, in accordance with the authority vested in them assist, advise, and cooperate with State and local agencies and private interests with respect to establishing such wild, scenic and recreational river areas."
+Subsec. (b). Pub. L. 99–590 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:"The Secretaries of Agriculture and of Health and Human Services shall likewise, in accordance with the authority vested in them assist, advise, and cooperate with State and local agencies and private interests with respect to establishing such wild, scenic and recreational river areas."
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

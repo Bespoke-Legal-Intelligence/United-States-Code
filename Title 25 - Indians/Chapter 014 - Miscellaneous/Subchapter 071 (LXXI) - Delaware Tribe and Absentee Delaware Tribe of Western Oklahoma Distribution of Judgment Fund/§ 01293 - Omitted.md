@@ -1,0 +1,6 @@
+### §1293. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–456, §3, Oct. 3, 1972, 86 Stat. 762, which related to applications for enrollment in tribe, was omitted from the Code as being of special and not general application.
+

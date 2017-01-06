@@ -28,7 +28,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 #### (c) Determinations respecting amount of guarantee
 
-(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
+(1) Except as provided in subsection (g), the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
 
 &emsp;(A) 100 percent of the accrual rate up to $11, plus 75 percent of the lesser of—
 
@@ -40,7 +40,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 (2) For purposes of this section, the accrual rate is—
 
-&emsp;(A) the monthly benefit of the participant or beneficiary which is described in subsection (a) of this section and which is eligible for the corporation's guarantee under subsection (b) of this section, except that such benefit shall be—
+&emsp;(A) the monthly benefit of the participant or beneficiary which is described in subsection (a) and which is eligible for the corporation's guarantee under subsection (b), except that such benefit shall be—
 
 &emsp;&emsp;(i) no greater than the monthly benefit which would be payable under the plan at normal retirement age in the form of a single life annuity, and
 
@@ -68,7 +68,7 @@ In the case of a benefit which has been reduced under section 411(a)(3)(E) of ti
 
 &emsp;(1) the reduced benefit, or
 
-&emsp;(2) the amount determined under subsection (c) of this section.
+&emsp;(2) the amount determined under subsection (c).
 
 #### (e) Ineligibility of benefits for guarantee
 
@@ -80,7 +80,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(A) conduct a study to determine—
 
-&emsp;&emsp;(i) the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c) of this section, and
+&emsp;&emsp;(i) the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c), and
 
 &emsp;&emsp;(ii) whether the basic-benefit guarantee levels for multiemployer plans may be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter; and
 
@@ -98,7 +98,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) If an increase in premiums is not so enacted, the revised guarantee schedule described in subparagraph (A)(i) shall go into effect on the first day of the second calendar year following the year in which such revised guarantee schedule was submitted to the Congress.
 
-(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased withoutincreasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
+(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
 
 &emsp;(i) a revised schedule of increases in the basic-benefit guarantees which can be supported by the existing schedule of basic-benefit premiums for multiemployer plans, and
 
@@ -116,7 +116,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (1) The corporation may guarantee the payment of such other classes of benefits under multiemployer plans, and establish the terms and conditions under which those other classes of benefits are guaranteed, as it determines to be appropriate.
 
-(2)(A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
+(2)(A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c). Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under section 1306(a)(2)(B) of this title to the revolving fund used pursuant to section 1305 of this title in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
 
 (B) The regulations prescribed under this paragraph shall provide—
 
@@ -136,7 +136,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (B) For purposes of subparagraph (A), a joint resolution described in this subparagraph is a joint resolution the matter after the resolving clause of which is as follows: "The revised premium schedule transmitted to the Congress by the Pension Benefit Guaranty Corporation under section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974 on          is hereby disapproved.", the blank space therein being filled with the date on which the revised schedule was submitted.
 
-(C) For purposes of subparagraph (A), the term "legislative day" means any calendar day otherthan a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
+(C) For purposes of subparagraph (A), the term "legislative day" means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
 (D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
@@ -144,7 +144,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 #### (h) Applicability to nonforfeitable benefits accrued as of July 30, 1980; manner and extent of guarantee
 
-(1) Except as provided in paragraph (3), subsections (b) and (c) of this section shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
+(1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
 
 &emsp;(1) who is in pay status on July 29, 1980, or
 
@@ -218,7 +218,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7893(b) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -32,7 +32,7 @@ The guidelines for the model program shall generally comport with the additional
 
 #### Assistance for Self-Help Housing Providers
 
-Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21, 1998, 112 Stat. 2663; Pub. L. 106–569, title II, §202, Dec. 27, 2000, 114 Stat. 2951; Pub. L. 108–285, §2, Aug. 2, 2004, 118 Stat. 917, provided that:
+Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21, 1998, 112 Stat. 2663; Pub. L. 106–569, title II, §202, Dec. 27, 2000, 114 Stat. 2951; Pub. L. 108–285, §2, Aug. 2, 2004, 118 Stat. 917; Pub. L. 114–201, title V, §502, July 29, 2016, 130 Stat. 811, provided that:
 
 "(a)
 
@@ -108,7 +108,9 @@ Requirements for Assistance.—The Secretary may make a grant to an organization
 
 &emsp;"(3) a grant agreement entered into under subsection (i).
 
-"\[(g) Repealed. Pub. L. 105–276, title V, §599E(a)(6), Oct. 21, 1998, 112 Stat. 2664.\]
+"(g)
+
+Energy Efficiency Requirements.—The Secretary may not require any dwelling developed using amounts from a grant made under this section to meet any energy efficiency standards other than the standards applicable at such time pursuant to section 109 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12709) to housing specified in subsection (a) of such section.
 
 "(h)
 
@@ -126,7 +128,7 @@ Grant Agreement.—A grant under this section shall be made only pursuant to a g
 
 &emsp;"(4) require the organization or consortia to comply with the other provisions of this section;
 
-&emsp;"(5) provide that the Secretary shall recapture any grant amounts provided to the organization or consortia that are not used within 24 months after such amounts are first disbursed to the organization or consortia, except that such period shall be 36 months in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, and in the case of a \[sic\] grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts; and
+&emsp;"(5) provide that the Secretary shall recapture any grant amounts provided to the organization or consortia that are not used within 24 months after such amounts are first disbursed to the organization orconsortia, except that such period shall be 36 months in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, and in the case of a \[sic\] grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts; and
 
 &emsp;"(6) contain such other terms as the Secretary may require to provide for compliance with subsection (b) and the requirements of this section.
 

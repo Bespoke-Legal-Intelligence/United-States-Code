@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out part A of subchapter II, $7
 
 #### (b) Foster Grandparent Program
 
-There are authorized to be appropriated to carry out part B of subchapter II, $115,000,000 forfiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
+There are authorized to be appropriated to carry out part B of subchapter II, $115,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
 #### (c) Senior Companion Program
 

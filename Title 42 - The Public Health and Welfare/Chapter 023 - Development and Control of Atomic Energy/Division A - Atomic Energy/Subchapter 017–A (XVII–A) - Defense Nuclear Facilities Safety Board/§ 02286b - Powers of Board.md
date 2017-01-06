@@ -2,7 +2,7 @@
 
 #### (a) Hearings
 
-(1) The Board or a member authorized by the Board may, for the purpose of carrying out this subchapter, hold such hearings and sit and act at such times and places, and require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such evidence as the Board or an authorized member may find advisable.
+(1) The Board or a member authorized by the Board may, for the purpose of carrying out this subchapter, hold such hearings and sit and actat such times and places, and require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such evidence as the Board or an authorized member may find advisable.
 
 (2)(A) Subpoenas may be issued only under the signature of the Chairman or any member of the Board designated by him and shall be served by any person designated by the Chairman, any member, or any person as otherwise provided by law. The attendance of witnesses and the production of evidence may be required from any place in the United States at any designated place of hearing in the United States.
 

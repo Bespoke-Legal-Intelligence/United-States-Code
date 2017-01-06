@@ -52,7 +52,7 @@
 
 #### (3) Non-Federal share
 
-&emsp;The State plan shall provide for financial participation by the State, or if the State so elects, by the State and local agencies, to provide the amount of the non-Federal share of the cost of carrying out part B of this subchapter.
+&emsp;The State plan shall provide for financial participation by the State, or if the State so elects, by the State and local agencies, to provide the amount of the non-Federal share of the cost of carrying out part B.
 
 #### (4) Statewideness
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number and type of personnel needed by the State, and a projection of the numbers of such personnel that will be needed in 5 years, based on projections of the number of individuals to be served, the number of such personnel who are expected to retire or leave the vocational rehabilitation field, and other relevant factors;
 
-&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+&emsp;&emsp;&emsp;(ii) where appropriate, a description of the manner in which activities will be undertaken under this section to coordinate the system of personnel development with personnel development activitiesunder the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
 &emsp;&emsp;&emsp;(iii) a description of the development and maintenance of a system of determining, on an annual basis, information on the programs of institutions of higher education within the State that are preparing rehabilitation professionals, including—
 
@@ -148,7 +148,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State plan shall include an assurance that, prior to providing an accommodation or auxiliary aid or service or any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of section 723(a) of this title, the designated State unit will determine whether comparable services and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
+&emsp;&emsp;&emsp;The State plan shall include an assurance that, prior to providing an accommodation or auxiliary aid or service or any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of section 723(a) of this title, the designated State unit will determine whether comparableservices and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
 
 &emsp;&emsp;&emsp;&emsp;(I) the progress of the individual toward achieving the employment outcome identified in the individualized plan for employment of the individual in accordance with section 722(b) of this title;
 
@@ -204,7 +204,7 @@
 
 #### (A) Development and implementation
 
-&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
+&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibilityof the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
 
 #### (B) Provision of services
 
@@ -330,7 +330,7 @@
 
 #### (B) Replication of cooperative agreements
 
-&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements atthe local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce development system.
+&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce development system.
 
 #### (C) Interagency cooperation with other agencies
 
@@ -366,7 +366,7 @@
 
 #### (H) Cooperative agreement with recipients of grants for services to American Indians
 
-&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of this subchapter. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indianswho are individuals with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
@@ -374,7 +374,7 @@
 
 &emsp;&emsp;&emsp;(iii) strategies for the provision of transition planning, by personnel of the designated State unit, the State educational agency, and the recipient of funds under part C, that will facilitate the development and approval of the individualized plans for employment under section 722 of this title; and
 
-&emsp;&emsp;&emsp;(iv) provisions for sharing resources in cooperative studies and assessments, jointtraining activities, and other collaborative activities designed to improve the provision of services to American Indians who are individuals with disabilities.
+&emsp;&emsp;&emsp;(iv) provisions for sharing resources in cooperative studies and assessments, joint training activities, and other collaborative activities designed to improve the provision of services to American Indians who are individuals with disabilities.
 
 #### (I) Coordination with assistive technology programs
 
@@ -394,7 +394,7 @@
 
 #### (13) Services to American Indians
 
-&emsp;The State plan shall include an assurance that, except as otherwise provided in part C of this subchapter, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
+&emsp;The State plan shall include an assurance that, except as otherwise provided in part C, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
 
 #### (14) Semiannual review of individuals in extended employment or other employment under special certificate provisions of the Fair Labor Standards Act of 1938
 
@@ -436,7 +436,7 @@
 
 &emsp;&emsp;&emsp;(i) the number of individuals in the State who are eligible for services under this subchapter;
 
-&emsp;&emsp;&emsp;(ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under subchapter VI, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
+&emsp;&emsp;&emsp;(ii) the number of such individuals who will receive services provided with funds provided under part B and under subchapter VI, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
 
 &emsp;&emsp;&emsp;(iii) the number of individuals who are eligible for services under this subchapter, but are not receiving such services due to an order of selection; and
 
@@ -542,7 +542,7 @@
 
 #### (19) Choice
 
-&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants' representatives or individuals' representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
+&emsp;The State plan shall include an assurance that applicants and eligible individuals or, asappropriate, the applicants' representatives or individuals' representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
 
 #### (20) Information and referral services
 
@@ -606,7 +606,7 @@
 
 #### (22) Supported employment State plan supplement
 
-&emsp;The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
+&emsp;The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI, including the use of funds under that part to supplement fundsmade available under part B of this subchapter to pay for the cost of services leading to supported employment.
 
 #### (23) Annual updates
 
@@ -666,11 +666,11 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v
 
 The Social Security Act, referred to in subsec. (a)(11)(G), (K), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 776 of this title, referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered section 304 of Pub. L. 93–112 by Pub. L. 113–128, title IV, §443(2), July 22, 2014, 128 Stat. 1674.
+Section 776 of this title, referred to in subsec. (a)(17)(B), was in the original a reference to section 306which was renumbered section 304 of Pub. L. 93–112 by Pub. L. 113–128, title IV, §443(2), July 22, 2014, 128 Stat. 1674.
 
 #### Prior Provisions
 
-A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29,1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 

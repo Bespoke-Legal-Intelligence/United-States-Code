@@ -24,13 +24,13 @@ For purposes of sections 1052, 1053, and 1054 of this title, all employees of al
 
 #### (d) Plan of trades or businesses under common control
 
-For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c) of this section.
+For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c).
 
 #### (e) Special rules for eligible combined defined benefit plans and qualified cash or deferred arrangements
 
 #### (1) General rule
 
-&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
+&emsp;Except as provided in this subsection, this chapter shall be applied to any defined benefitplan or applicable individual account plan which are <sup>1</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
 
 #### (2) Eligible combined plan
 
@@ -191,7 +191,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, except as provided in this subsection, a CSEC plan is an employee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
+&emsp;For purposes of this subchapter, except as provided in this subsection, a CSEC plan is anemployee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
 
 &emsp;&emsp;(A) to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
 
@@ -265,7 +265,7 @@ Amendments by Pub. L. 113–235 effective as if included in the amendments made 
 
 Amendment by section 101 of Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 401 of Title 26, Internal RevenueCode\] shall apply as of the date of enactment of this Act \[Apr. 7, 2014\]."
+Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 401 of Title 26, Internal Revenue Code\] shall apply as of the date of enactment of this Act \[Apr. 7, 2014\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -273,7 +273,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2009, see section 903(c) of Pub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2009, see section 903(c) ofPub. L. 109–280, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

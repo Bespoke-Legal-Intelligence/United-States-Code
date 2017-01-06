@@ -112,7 +112,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 &emsp;(A) may issue regulations as necessary;
 
-&emsp;(B) shall utilize, to the fullest extent practicable, relevant research previously conducted by Federal agencies, State and local governments, and private organizations and persons;
+&emsp;(B) shall utilize, to the fullest extent practicable, relevant research previously conducted by Federal agencies, State and localgovernments, and private organizations and persons;
 
 &emsp;(C) shall disseminate information about the kinds of activities, forms of organizations, and fund-raising mechanisms associated with successful programs; and
 

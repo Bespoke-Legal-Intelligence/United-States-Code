@@ -10,7 +10,7 @@ For purposes of this section, the term—
 
 #### (b) Notice; deduction and transmission
 
-(1) The Secretary and the Architect shall notify individuals whose pay is disbursed by the Secretary or who are employees of the Architect, including employees of the Botanic Garden or the Senate Restaurants of the opportunity to have amounts withheld from their pay pursuant to this section for contribution to national voluntary health and welfare agencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 18, 1961.
+(1) The Secretary and the Architect shall notify individuals whose pay is disbursed by theSecretary or who are employees of the Architect, including employees of the Botanic Garden or the Senate Restaurants of the opportunity to have amounts withheld from their pay pursuant to this section for contribution to national voluntary health and welfare agencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 18, 1961.
 
 (2) Upon request by such an individual specifying the amount to be withheld and one Combined Federal Campaign Center in the Washington metropolitan area to receive such amount, the Secretary, the Architect, or any other officer who disburses the pay of such individual, as the case may be, shall—
 

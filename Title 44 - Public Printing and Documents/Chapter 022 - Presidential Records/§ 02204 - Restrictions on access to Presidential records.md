@@ -2,11 +2,11 @@
 
 (a) Prior to the conclusion of a President's term of office or last consecutive term of office, as the case may be, the President shall specify durations, not to exceed 12 years, for which access shall be restricted with respect to information, in a Presidential record, within one or more of the following categories:
 
-&emsp;(1)(A) specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and (B) in fact properly classified pursuant to such Executive order;
+&emsp;(1)(A) specifically authorized under criteria established by an Executive order to be keptsecret in the interest of national defense or foreign policy and (B) in fact properly classified pursuant to such Executive order;
 
 &emsp;(2) relating to appointments to Federal office;
 
-&emsp;(3) specifically exempted from disclosure by statute (other than sections 552 and 552b of title 5, United States Code), provided that such statute (A) requires that the material be withheld from the public in such a manner asto leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of material to be withheld;
+&emsp;(3) specifically exempted from disclosure by statute (other than sections 552 and 552b of title 5, United States Code), provided that such statute (A) requires that the material be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of material to be withheld;
 
 &emsp;(4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 

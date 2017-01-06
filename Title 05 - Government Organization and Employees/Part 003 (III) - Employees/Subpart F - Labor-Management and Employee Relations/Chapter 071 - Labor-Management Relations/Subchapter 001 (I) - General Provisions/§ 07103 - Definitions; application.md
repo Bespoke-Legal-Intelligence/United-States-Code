@@ -162,6 +162,10 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
+#### Effective Date
+
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -172,7 +176,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -434,7 +438,15 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 1–215. The Defense Mapping Agency Reston Center, Department of Defense.
 
-1–216. The Federal Investigative Services Division., \[sic\] Office of Personnel Management.
+1–216. Agencies or subdivisions of the Office of Personnel Management:
+
+(a) The Federal Investigative Services.
+
+(b) The National Background Investigations Bureau.
+
+(c) Units with a primary Suitability Executive Agent mission, including adjudicating suitability investigations and conducting related policy, advisory services, operations support, and agency oversight.
+
+(d) Units with a primary mission of engineering, information technology, and cybersecurity support for personnel background investigations and adjudications.
 
 #### 1–3.
 
@@ -444,11 +456,13 @@ States and the District of Columbia
 
 1–301. The Drug Enforcement Administration, Department of Justice.
 
+\[Ex. Ord. No. 13741, §3, which directed amendment of section 1–216 of Ex. Ord. No. 12171, set out above, by substituting "Agencies or subdivisions of the Office of Personnel Management:" and subsections (a) to (d) for "The Federal Investigative Services Division", was executed by making the substitution for "The Federal Investigative Services Division., Office of Personnel Management."\]
+
 #### Ex. Ord. No. 12391. Partial Suspension of Federal Service Labor-Management Relations
 
 Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and havingdetermined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
 Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
 
@@ -460,7 +474,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
-Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not bedelegated or assigned to anyone below the rank of an Assistant Secretary of State.
+Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

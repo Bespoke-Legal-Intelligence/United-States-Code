@@ -14,7 +14,7 @@ Vessel of the United States.—In this chapter, the term "vessel of the United S
 
 &emsp;&emsp;(A) the vessel has been granted the nationality of a foreign nation under article 5 of the 1958 Convention on the High Seas; and
 
-&emsp;&emsp;(B) a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States who is authorized to enforce applicable provisions of United States law; and
+&emsp;&emsp;(B) a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States who is authorized to enforceapplicable provisions of United States law; and
 
 &emsp;(3) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was sold to a person not a citizen of the United States, placed under foreign registry, or operated under the authority of a foreign nation, whether or not the vessel has been granted the nationality of a foreign nation.
 
@@ -46,7 +46,7 @@ In general.—In this chapter, the term "vessel subject to the jurisdiction of t
 
 &emsp;(2)
 
-Consent or waiver of objection.—Consent or waiver of objection by a foreign nationto the enforcement of United States law by the United States under paragraph (1)(C) or (E)—
+Consent or waiver of objection.—Consent or waiver of objection by a foreign nation to the enforcement of United States law by the United States under paragraph (1)(C) or (E)—
 
 &emsp;&emsp;(A) may be obtained by radio, telephone, or similar oral or electronic means; and
 

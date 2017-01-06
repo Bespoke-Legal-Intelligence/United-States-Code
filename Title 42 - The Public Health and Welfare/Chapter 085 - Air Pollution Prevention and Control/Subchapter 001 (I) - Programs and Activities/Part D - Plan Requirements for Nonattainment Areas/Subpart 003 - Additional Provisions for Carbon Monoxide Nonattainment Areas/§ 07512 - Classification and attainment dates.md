@@ -37,7 +37,7 @@ TABLE 3 <sup>1</sup>
 
 #### (B) Publication of notice
 
-&emsp;&emsp;The Administrator shall publish a notice in the Federal Register, no later than 6 months following the attainment date, identifying each area that the Administrator has determined, under subparagraph (A), as having failed to attain and identifying the reclassification, if any, described under subparagraph (A).
+&emsp;&emsp;The Administrator shall publish a notice in the Federal Register, no later than 6months following the attainment date, identifying each area that the Administrator has determined, under subparagraph (A), as having failed to attain and identifying the reclassification, if any, described under subparagraph (A).
 
 #### (c) References to terms
 

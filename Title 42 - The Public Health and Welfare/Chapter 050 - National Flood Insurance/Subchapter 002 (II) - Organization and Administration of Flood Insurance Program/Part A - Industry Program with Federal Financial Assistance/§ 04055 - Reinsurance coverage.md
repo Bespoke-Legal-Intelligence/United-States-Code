@@ -8,7 +8,7 @@
 
 #### (2) Private reinsurance
 
-&emsp;The Administrator is authorized to secure reinsurance of coverage provided by the floodinsurance program from the private market at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
+&emsp;The Administrator is authorized to secure reinsurance of coverage provided by the flood insurance program from the private market at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
 
 #### (b) Availability pursuant to contract, agreement, or other arrangement; payment of premium, fee, or other charge
 

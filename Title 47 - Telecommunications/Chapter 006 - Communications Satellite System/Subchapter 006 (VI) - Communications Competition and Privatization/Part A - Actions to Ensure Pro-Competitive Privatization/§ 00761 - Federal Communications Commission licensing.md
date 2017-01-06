@@ -8,7 +8,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determines that the privatization of any separated entity is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determinesthat the privatization of any separated entity is consistent with such criteria.
 
 #### (b) Licensing for INTELSAT, Inmarsat, and successor entities
 
@@ -36,7 +36,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c <sup>1</sup>of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c <sup>1</sup> of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.
 
 #### (3) Clarification: competitive safeguards
 
@@ -44,7 +44,7 @@
 
 #### (c) Additional considerations in determinations
 
-In making its determinations and licensing decisions under subsections (a) and (b) of this section, the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
+In making its determinations and licensing decisions under subsections (a) and (b), the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
 
 #### (d) Independent facilities competition
 

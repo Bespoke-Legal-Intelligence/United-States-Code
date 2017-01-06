@@ -10,7 +10,7 @@ Consistency With Executive Orders and Directives.—The Secretary shall carry ou
 
 (c)
 
-Performance of Industrial Security Functions for Other Agencies.—The Secretary may perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
+Performance of Industrial Security Functions for Other Agencies.—The Secretary may perform industrial security functions forother agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
 
 (d)
 

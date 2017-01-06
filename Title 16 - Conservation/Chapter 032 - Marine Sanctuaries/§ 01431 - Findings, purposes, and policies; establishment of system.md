@@ -116,11 +116,15 @@ Pub. L. 102–587, title II, §2001, Nov. 4, 1992, 106 Stat. 5039, provided that
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–498, title I, §101, Oct. 19, 1984, 98 Stat. 2296, provided that: "This title \[enacting sections 1435 to 1439of this title and amending this section and sections 1432 to 1434 of this title\] may be cited as the 'Marine Sanctuaries Amendments of 1984'."
+Pub. L. 98–498, title I, §101, Oct. 19, 1984, 98 Stat. 2296, provided that: "This title \[enacting sections 1435 to 1439 of this title and amending this section and sections 1432 to 1434 of this title\] may be cited as the 'Marine Sanctuaries Amendments of 1984'."
 
 #### Short Title
 
 Pub. L. 92–532, title III, §317, formerly §316, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5047; renumbered §317 of title III, Pub. L. 104–283, §§6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, §307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: "This title \[enacting this chapter\] may be cited as the 'National Marine Sanctuaries Act'."
+
+#### Safe Vessel Operation in the Great Lakes
+
+Pub. L. 113–281, title VI, §610, Dec. 18, 2014, 128 Stat. 3064, as amended by Pub. L. 114–120, title VI, §602(1), Feb. 8, 2016, 130 Stat. 79, provided that: "The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may not prohibit a vessel operating within the boundaries of any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes from taking up or discharging ballast water to allow for safe and efficient vessel operation if the uptake or discharge meets all Federal and State ballast water management requirements that would apply if the area were not a marine sanctuary, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary."
 
 #### Congressional Findings, Policy, and Declaration of Purpose
 
@@ -128,7 +132,7 @@ For statement of Congressional findings, policy, and declaration of purpose of P
 
 #### Environmental Effects Abroad of Major Federal Actions
 
-For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114,Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Federal Compliance With Pollution Control Standards
 

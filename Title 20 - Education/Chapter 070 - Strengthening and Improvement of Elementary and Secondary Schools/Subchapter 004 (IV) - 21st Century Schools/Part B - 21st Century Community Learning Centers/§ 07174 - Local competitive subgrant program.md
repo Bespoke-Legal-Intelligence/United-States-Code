@@ -10,7 +10,7 @@
 
 &emsp;A State that receives funds under this part for a fiscal year may use funds under section 7172(c)(1) of this title to support those enrichment and engaging academic activities described in section 7175(a) of this title that—
 
-&emsp;&emsp;(A) are included as part of an expanded learning program that provides students atleast 300 additional program hours before, during, or after the traditional school day;
+&emsp;&emsp;(A) are included as part of an expanded learning program that provides students at least 300 additional program hours before, during, or after the traditional school day;
 
 &emsp;&emsp;(B) supplement but do not supplant regular school day requirements; and
 
@@ -66,7 +66,7 @@
 
 #### (c) Approval of certain applications
 
-The State educational agency may approve an application under this part for a program to be located in a facility other than an elementary school or secondary school only if the program will be at least as available and accessible to the students to be served as if the program were located in an elementary school or secondary school.
+The State educational agency may approve an application under this part for a program to be located in a facility other than an elementary school or secondary school only if the program will be at least as available and accessible to thestudents to be served as if the program were located in an elementary school or secondary school.
 
 #### (d) Permissive local match
 

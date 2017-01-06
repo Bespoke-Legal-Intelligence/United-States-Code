@@ -70,7 +70,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (g) Exemption from taxation
 
-(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
+(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title),shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
 
 (2) The receipts and disbursements of the corporation in the discharge of its functions shall be included in the totals of the budget of the United States Government. The United States is not liable for any obligation or liability incurred by the corporation.
 
@@ -90,7 +90,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (6) The advisory committee shall appoint and fix the compensation of such employees as it determines necessary to discharge its duties, including experts and consultants in accordance with the provisions of section 3109 of title 5. The corporation shall furnish to the advisory committee such professional, secretarial, and other services as the committee may request.
 
-(7) Members of the advisory committee shall, for each day (including traveltime) during whichthey are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
+(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
 
@@ -162,7 +162,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134,set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

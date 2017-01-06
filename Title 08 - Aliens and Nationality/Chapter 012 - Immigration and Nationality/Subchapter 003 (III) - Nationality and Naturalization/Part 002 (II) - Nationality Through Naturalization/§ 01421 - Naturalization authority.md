@@ -90,7 +90,7 @@ A person may only be naturalized as a citizen of the United States in the manner
 
 Pub. L. 102–232, §305(a), substituted "district court" for "District Court".
 
-<b>1990</b>—Pub. L. 101–649 amended section generally, substituting provisions authorizing Attorney General tonaturalize persons as citizens, for provisions granting certain courts exclusive jurisdiction to naturalize.
+<b>1990</b>—Pub. L. 101–649 amended section generally, substituting provisions authorizing Attorney General to naturalize persons as citizens, for provisions granting certain courts exclusive jurisdiction to naturalize.
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–525 struck out subsec. (e) which read as follows: "Notwithstanding the provisions of section 405(a), any petition for naturalization filed on or after September 26, 1961, shall be heard and determined in accordance with the requirements of this subchapter."
 

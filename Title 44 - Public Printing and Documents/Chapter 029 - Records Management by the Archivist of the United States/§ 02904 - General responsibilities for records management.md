@@ -20,7 +20,7 @@
 
 &emsp;(7) to conduct inspections or surveys of the records and the records management programs and practices within and between Federal agencies;
 
-&emsp;(8) to report to the appropriate oversight and appropriations committees of the Congressand to the Director of the Office of Management and Budget in January of each year and at such other times as the Archivist deems desirable—
+&emsp;(8) to report to the appropriate oversight and appropriations committees of the Congress and to the Director of the Office of Management and Budget in January of each year and at such other times as the Archivist deems desirable—
 
 &emsp;&emsp;(A) on the results of activities conducted pursuant to paragraphs (1) through (7) of this section,
 

@@ -60,3 +60,7 @@ Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 19
 
 Subsec. (d). Pub. L. 94–284, §16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
 
+#### Effective Date
+
+Section effective on the later of 150 days after Oct. 27, 1972, or the date on which at least three members of the Commission first take office, see section 34(2) of Pub. L. 92–573, set out as a note under section 2051 of this title.
+

@@ -6,7 +6,7 @@ The Administrator, after notice and opportunity for public comment, and at least
 
 #### (b) Distinctions in regulations
 
-In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, watertable, size of the tanks, quantity of regulated substances periodically deposited in or dispensed from the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
+In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, water table, size of the tanks, quantity of regulated substances periodically deposited in or dispensed from the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
 
 #### (c) Requirements
 
@@ -128,7 +128,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (A) In general
 
-&emsp;&emsp;Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operator of such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construed to be the standard of liability which obtains under section 1321 of title 33.
+&emsp;&emsp;Whenever costs have been incurred by the Administrator, or by a State pursuant to paragraph (7), for undertaking corrective action or enforcement action with respect to the release of petroleum from an underground storage tank, the owner or operatorof such tank shall be liable to the Administrator or the State for such costs. The liability under this paragraph shall be construed to be the standard of liability which obtains under section 1321 of title 33.
 
 #### (B) Recovery
 
@@ -338,7 +338,7 @@ Pub. L. 109–58, §1526(b), added subsec. (i) relating to government-owned tank
 
 Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by "striking out 'or' after 'credit,' and by striking out the period at the end thereof and inserting in lieu thereof the following: 'or any other method satisfactory to the Administrator.' ", was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 
-Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administratorshall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank."
+Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank."
 
 Subsec. (d)(2) to (5). Pub. L. 99–499, §205(c)(2), (4), added par. (5) and redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 

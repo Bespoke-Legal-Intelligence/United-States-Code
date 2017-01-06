@@ -7,10 +7,13 @@
 | [<b>24.</b>](Chapter%20024%20-%20Appropriations%20and%20Annual%20Report/README.md) | <b>Appropriations and Annual Report</b> | <b>2401</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Debts%20and%20Collection/README.md) | <b>Debts and Collection</b> | <b>2601</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Strategic%20Planning%20and%20Performance%20Management/README.md) | <b>Strategic Planning and Performance Management</b> | <b>2801</b> |
+| [<b>29.</b>](Chapter%20029%20-%20Property%20Management/README.md) | <b>Property Management</b> | <b>2901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–318, §4(b), Dec. 16, 2016, 130 Stat. 1614, added item for chapter 29.
 
 <b>2006</b>—Pub. L. 109–435, title X, §1010(g)(2), Dec. 20, 2006, 120 Stat. 3262, substituted "Strategic Planning and Performance Management" for "Strategic planning and performance management" in item for chapter 28.
 
@@ -26,3 +29,4 @@
 - [Chapter 024 - Appropriations and Annual Report](Chapter%20024%20-%20Appropriations%20and%20Annual%20Report/README.md)
 - [Chapter 026 - Debts and Collection](Chapter%20026%20-%20Debts%20and%20Collection/README.md)
 - [Chapter 028 - Strategic Planning and Performance Management](Chapter%20028%20-%20Strategic%20Planning%20and%20Performance%20Management/README.md)
+- [Chapter 029 - Property Management](Chapter%20029%20-%20Property%20Management/README.md)

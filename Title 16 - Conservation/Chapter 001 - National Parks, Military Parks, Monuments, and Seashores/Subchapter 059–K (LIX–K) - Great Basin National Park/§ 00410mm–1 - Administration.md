@@ -6,7 +6,7 @@ The Secretary shall administer the park in accordance with this subchapter and w
 
 #### (b) Fishing
 
-The Secretary shall permit fishing on lands and waters under his jurisdiction within thepark in accordance with the applicable laws of the United States and the State of Nevada, except that he may designate zones where, and periods when, no fishing may be permitted for reasons of public safety. Except in emergencies, any regulations prescribing such restrictions relating to fishing,<sup>2</sup> shall be put into effect only after consultation with the appropriate State agency having jurisdiction over fishing activities.
+The Secretary shall permit fishing on lands and waters under his jurisdiction within the park in accordance with the applicable laws of the United States and the State of Nevada, except that he may designate zones where, and periods when, no fishing may be permitted for reasons of public safety. Except in emergencies, any regulations prescribing such restrictions relating to fishing,<sup>2</sup> shall be put into effect only after consultation with the appropriate State agency having jurisdiction over fishing activities.
 
 #### (c) Preparation of management plan; submission to Congress; amendment of plan
 

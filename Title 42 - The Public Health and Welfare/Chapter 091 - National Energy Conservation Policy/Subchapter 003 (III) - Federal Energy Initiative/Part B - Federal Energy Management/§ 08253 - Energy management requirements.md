@@ -51,7 +51,7 @@
 
 &emsp;(ii) the fact that the Federal building or collection of Federal buildings is used in the performance of a national security function.
 
-(2) Each agency shall identify and list, in each report made under section 8258(a) of this title, the Federal buildings designated by it for such exclusion. The Secretary shall review such findings for consistency with the standards for exclusion set forth in paragraph (1), and may within 90 days after receipt of the findings, reverse the exclusion. In the case of any such reversal, the agency shall comply with the requirements of subsections (a) and (b)(1) of this section for the building concerned.
+(2) Each agency shall identify and list, in each report made under section 8258(a) of this title,the Federal buildings designated by it for such exclusion. The Secretary shall review such findings for consistency with the standards for exclusion set forth in paragraph (1), and may within 90 days after receipt of the findings, reverse the exclusion. In the case of any such reversal, the agency shall comply with the requirements of subsections (a) and (b)(1) of this section for the building concerned.
 
 (3) Not later than 180 days after August 8, 2005, the Secretary shall issue guidelines that establish criteria for exclusions under paragraph (1).
 
@@ -103,7 +103,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
 
-&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based oncost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
+&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
 &emsp;&emsp;&emsp;(iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
 
@@ -399,7 +399,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (1) In general
 
-&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs themost energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
+&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs the most energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
 
 #### (2) Process for review of investment decisions
 
@@ -413,7 +413,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;Not later than 1 year after December 19, 2007, the Director of the Office of Management and Budget shall evaluate and report to Congress on the compliance of each agency with this subsection.
 
-(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005, 119 Stat. 606–608; Pub. L. 110–140, title IV, §§431, 432, 434, Dec. 19, 2007, 121 Stat. 1607, 1614; Pub. L. 112–210, §§8, 9, Dec. 18, 2012, 126 Stat. 1521, 1522.)
+(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005,119 Stat. 606–608; Pub. L. 110–140, title IV, §§431, 432, 434, Dec. 19, 2007, 121 Stat. 1607, 1614; Pub. L. 112–210, §§8, 9, Dec. 18, 2012, 126 Stat. 1521, 1522.)
 
 #### References in Text
 
@@ -467,7 +467,7 @@ Subsecs. (b), (c). Pub. L. 102–486, §152(b)(4), added subsecs. (b) and (c). F
 
 Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted "The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section," for "To achieve the goal established in subsection (a) of this section,".
 
-Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows:"prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;".
+Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows: "prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;".
 
 Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end "and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title".
 
@@ -477,7 +477,7 @@ Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Reporting Baseline
 

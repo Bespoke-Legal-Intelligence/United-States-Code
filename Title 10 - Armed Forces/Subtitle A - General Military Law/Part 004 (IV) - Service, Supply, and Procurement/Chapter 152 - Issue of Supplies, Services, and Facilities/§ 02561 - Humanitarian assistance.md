@@ -4,7 +4,7 @@
 
 Authorized Assistance.—(1) To the extent provided in defense authorization Acts, funds authorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance shall be used for the purpose of providing transportation of humanitarian relief and for other humanitarian purposes worldwide.
 
-(2) The Secretary of Defense may use the authority provided by paragraph (1) to transport supplies intended for use to respond to, or mitigate the effects of, an event or condition, such as an oil spill, that threatens serious harm tothe environment, but only if other sources to provide such transportation are not readily available. The Secretary may require reimbursement for costs incurred by the Department of Defense to transport supplies under this paragraph.
+(2) The Secretary of Defense may use the authority provided by paragraph (1) to transport supplies intended for use to respond to, or mitigate the effects of, an event or condition, such as an oil spill, that threatens serious harm to the environment, but only if other sources to provide such transportation are not readily available. The Secretary may require reimbursement for costs incurred by the Department of Defense to transport supplies under this paragraph.
 
 (b)
 
@@ -40,7 +40,7 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 &emsp;(2) The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953.)
+(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III,§312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Amendments
 
@@ -79,6 +79,10 @@ Subsec. (e). Pub. L. 104–106, §1312(3), (5), redesignated subsec. (g) as (e) 
 Subsec. (f). Pub. L. 104–106, §1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
 
 Subsec. (g). Pub. L. 104–106, §1312(5), redesignated subsec. (g) as (e).
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Notifications Regarding Humanitarian Relief
 

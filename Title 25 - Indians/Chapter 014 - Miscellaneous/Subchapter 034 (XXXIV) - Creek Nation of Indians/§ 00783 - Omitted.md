@@ -1,0 +1,6 @@
+### §783. Omitted
+
+#### Codification
+
+Section, act Aug. 1, 1955, ch. 444, §4, 69 Stat. 432, which related to payments to minors or persons under legal disability, was omitted from the Code as being of special and not general application.
+

@@ -32,7 +32,7 @@ As used in this section—
 
 #### (b) Transfer of funds
 
-(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginningwith the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
+(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginning with the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
 
 &emsp;(A) use by the Secretary—
 
@@ -88,7 +88,7 @@ As used in this section—
 
 (5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept, as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
 
-(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others\(for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be conclusive.
 

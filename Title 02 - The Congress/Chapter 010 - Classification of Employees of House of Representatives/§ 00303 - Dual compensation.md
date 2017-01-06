@@ -4,3 +4,7 @@ For the purposes of applicable law relating to the payment to any employee subje
 
 (Pub. L. 88–652, §14, Oct. 13, 1964, 78 Stat. 1084.)
 
+#### Effective Date
+
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
+

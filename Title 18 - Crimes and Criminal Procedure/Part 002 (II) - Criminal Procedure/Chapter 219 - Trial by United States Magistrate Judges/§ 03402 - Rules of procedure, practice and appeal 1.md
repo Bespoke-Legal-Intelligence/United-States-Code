@@ -1,6 +1,6 @@
 ### §3402. Rules of procedure, practice and appeal <sup>1</sup>
 
-In all cases of conviction by a United States magistrate judge an appeal of right shall lie from the judgment of the magistrate judge to a judge of the district court of the district in which the offense was committed.
+In all cases of conviction by a United States magistrate judge an appeal of right shall liefrom the judgment of the magistrate judge to a judge of the district court of the district in which the offense was committed.
 
 (June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 90–578, title III, §302(b), Oct. 17, 1968, 82 Stat. 1116; Pub. L. 100–702, title IV, §404(b)(2), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

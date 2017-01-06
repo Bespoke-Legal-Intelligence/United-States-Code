@@ -30,13 +30,13 @@ During the 1-month period that ends 6 months before the date on which the intere
 
 #### (c) Savings clause
 
-The Board may require the notice in paragraph (b) or other notice consistent with thischapter for adjustable rate mortgage loans that are not hybrid adjustable rate mortgage loans.
+The Board may require the notice in paragraph (b) or other notice consistent with this chapter for adjustable rate mortgage loans that are not hybrid adjustable rate mortgage loans.
 
 (Pub. L. 90–321, title I, §128A, as added Pub. L. 111–203, title XIV, §1418(a), July 21, 2010, 124 Stat. 2153.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act" meaning Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act" meaning Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Effective Date
 

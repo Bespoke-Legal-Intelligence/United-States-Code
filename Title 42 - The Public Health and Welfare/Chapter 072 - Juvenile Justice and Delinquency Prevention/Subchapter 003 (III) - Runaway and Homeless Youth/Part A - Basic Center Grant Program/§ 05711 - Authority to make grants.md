@@ -32,7 +32,7 @@
 
 (1) Subject to paragraph (2) and in accordance with regulations promulgated under this subchapter, funds for grants under subsection (a) of this section shall be allotted annually with respect to the States on the basis of their relative population of individuals who are less than 18 years of age.
 
-(2)(A) Except as provided in subparagraph (B), the amount allotted under paragraph (1) with respect to each State for a fiscal year shall be not less than $200,000, except that the amount allotted to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $70,000 each.
+(2)(A) Except as provided in subparagraph (B), the amount allotted under paragraph (1) with respect to each State for a fiscal year shall be not less than $200,000, except that the amount allotted to the Virgin Islands of the United States,Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $70,000 each.
 
 (B) For fiscal years 2009 and 2010, the amount allotted under paragraph (1) with respect to a State for a fiscal year shall be not less than the amount allotted under paragraph (1) with respect to such State for fiscal year 2008.
 

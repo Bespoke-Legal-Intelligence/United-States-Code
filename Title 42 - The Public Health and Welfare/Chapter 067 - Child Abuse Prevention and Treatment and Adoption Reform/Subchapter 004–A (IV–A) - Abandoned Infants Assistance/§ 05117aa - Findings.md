@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(7) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
 
-&emsp;(8) private, Federal, State, and local resources should be coordinated to establish andmaintain services described in paragraph (7) and to ensure the optimal use of all such resources.
+&emsp;(8) private, Federal, State, and local resources should be coordinated to establish and maintain services described in paragraph (7) and to ensure the optimal use of all such resources.
 
 (Pub. L. 100–505, §2, Oct. 18, 1988, 102 Stat. 2533; Pub. L. 102–236, §2, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 108–36, title III, §301, June 25, 2003, 117 Stat. 822; Pub. L. 111–320, title IV, §401(a), Dec. 20, 2010, 124 Stat. 3513.)
 

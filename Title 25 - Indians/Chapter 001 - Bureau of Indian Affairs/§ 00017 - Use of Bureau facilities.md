@@ -6,7 +6,7 @@ The Secretary of the Interior may permit tribal governments and organizations an
 
 #### (b) Scope of authority
 
-The authority provided by this section is in addition to, and not in derogation of, any other authority available to the Secretary of the Interior.
+The authority provided by this section is in addition to, and not in derogation of, any otherauthority available to the Secretary of the Interior.
 
 #### (c) Limitation of liability
 

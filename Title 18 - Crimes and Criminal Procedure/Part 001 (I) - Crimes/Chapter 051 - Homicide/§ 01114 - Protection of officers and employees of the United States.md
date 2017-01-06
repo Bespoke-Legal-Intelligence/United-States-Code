@@ -52,11 +52,11 @@ Pub. L. 101–647, §1606(3), which amended this section identically to amendmen
 
 Pub. L. 101–647, §3535(1), (2), substituted "Secret Service" for "secret service" and "any officer or employee of the Department of Education, the Department of Health and Human Services," for "any officer or employee of the Department of Health, Education, and Welfare,".
 
-Pub. L. 101–647, §1606(1), (2), which amended this section identically to amendment by Pub. L. 101–647,§3535(1), (2), was repealed by Pub. L. 103–322, §330011(g). See above.
+Pub. L. 101–647, §1606(1), (2), which amended this section identically to amendment by Pub. L. 101–647, §3535(1), (2), was repealed by Pub. L. 103–322, §330011(g). See above.
 
 Pub. L. 101–647, §1205(h), inserted "or any other commonwealth, territory, or possession" after "the Virgin Islands".
 
-<b>1989</b>—Pub. L. 101–73 struck out "the Federal Savings and Loan Insurance Corporation," after "Federal Deposit Insurance Corporation," and substituted "the Office of Thrift Supervision, the Federal Housing Finance Board, the Resolution Trust Corporation" for "the Federal Home Loan Bank Board".
+<b>1989</b>—Pub. L. 101–73 struck out "the Federal Savings and Loan Insurance Corporation," after "Federal Deposit Insurance Corporation," and substituted "the Office of Thrift Supervision, the Federal Housing FinanceBoard, the Resolution Trust Corporation" for "the Federal Home Loan Bank Board".
 
 <b>1988</b>—Pub. L. 100–690 struck out second comma after "terms of this section".
 
@@ -134,9 +134,9 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 #### Effective Date of 1970 Amendments
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970,see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of Title 21, Food and Drugs.
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service andpublished by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1965 Amendment
 

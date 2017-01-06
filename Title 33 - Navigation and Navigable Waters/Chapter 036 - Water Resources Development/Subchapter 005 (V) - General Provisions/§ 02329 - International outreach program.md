@@ -1,14 +1,20 @@
 ### §2329. International outreach program
 
-#### (a) In general
+#### (a) Authorization
 
-The Secretary is authorized to engage in activities to inform the United States maritime industry and port authorities of technological innovations abroad that could significantly improve waterborne transportation in the United States, both inland and deep draft. Such activities may include—
+#### (1) In general
 
-&emsp;(1) development, monitoring, assessment, and dissemination of information about foreign water transportation and port facilities that could significantly improve water transportation in the United States;
+&emsp;The Secretary may engage in activities to inform the United States of technological innovations abroad that could significantly improve water resources development in the United States.
 
-&emsp;(2) research, development, training, and other forms of technology transfer and exchange; and
+#### (2) Inclusions
 
-&emsp;(3) offering technical services which cannot be readily obtained in the private sector to be incorporated in the proposals of port authorities or other water transportation developers if the costs for assistance will be recovered under the terms of each project.
+&emsp;Activities under paragraph (1) may include—
+
+&emsp;&emsp;(A) development, monitoring, assessment, and dissemination of information about foreign water resources projects that could significantly improve water resources development in the United States;
+
+&emsp;&emsp;(B) research, development, training, and other forms of technology transfer and exchange; and
+
+&emsp;&emsp;(C) offering technical services that cannot be readily obtained in the private sector to be incorporated into water resources projects if the costs for assistance will be recovered under the terms of each project.
 
 #### (b) Cooperation
 
@@ -16,13 +22,17 @@ The Secretary may carry out the provisions of this section in cooperation with F
 
 #### (c) Funding
 
-The funds to carry out the provisions of this section shall include funds deposited in a specialaccount with the Secretary of the Treasury for such purposes by any cooperating entity or organization according to cost-sharing agreements proscribed by the Secretary. Reimbursement for services provided under this section shall be credited to the appropriation concerned.
+The funds to carry out the provisions of this section shall include funds deposited in a special account with the Secretary of the Treasury for such purposes by any cooperating entity or organization according to cost-sharing agreements proscribed by the Secretary. Reimbursement for services provided under this section shall be credited to the appropriation concerned.
 
-(Pub. L. 102–580, title IV, §401, Oct. 31, 1992, 106 Stat. 4862.)
+(Pub. L. 102–580, title IV, §401, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 114–322, title I, §1138, Dec. 16, 2016, 130 Stat. 1657.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–322 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Secretary to engage in activities to inform the United States maritime industry and port authorities of technological innovations abroad that could significantly improve waterborne transportation in the United States, both inland and deep draft.
 
 #### "Secretary" Defined
 

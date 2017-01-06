@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (e), the amount of group life insurance and group accidental death insurance in force on an employee at the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
 
-&emsp;First, to the beneficiary or beneficiaries designated by the employee in a signed and witnessed writing received before death in the employing office or, if insured because of receipt of annuity or of benefits under subchapter I of chapter 81 of this title as provided by section 8706(b) of this title, in the Office of Personnel Management. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
+&emsp;First, to the beneficiary or beneficiaries designated by the employee in a signed and witnessed writing received before death in the employing office or, if insured because of receipt of annuity or of benefits under subchapter I of chapter 81 of this title as providedby section 8706(b) of this title, in the Office of Personnel Management. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
 
 &emsp;Second, if there is no designated beneficiary, to the widow or widower of the employee.
 

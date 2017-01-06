@@ -44,6 +44,120 @@
 
 Pub. L. 98–94, title IX, §933(b), Sept. 24, 1983, 97 Stat. 651, provided that: "Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983."
 
+#### Pilot Program on Expansion of Use of Physician Assistants To Provide Mental Health Care to Members of the Armed Forces
+
+Pub. L. 114–328, div. A, title VII, §742, Dec. 23, 2016, 130 Stat. 2237, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may conduct a pilot program to assess the feasibility and advisability of expanding the use by the Department of Defense of physician assistants specializing in psychiatric medicine at medical facilities of the Department of Defense in order to meet the increasing demand for mental health care providers at such facilities through the use of a psychiatry fellowship program for physician assistants.
+
+"(b)
+
+Report on Pilot Program.—
+
+&emsp;"(1)
+
+In general.—If the Secretary conducts the pilot program under this section, not later than 90 days after the date on which the Secretary completes the conduct of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+
+&emsp;"(2)
+
+Elements.—The report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the implementation of the pilot program, including a detailed description of the education and training provided under the pilot program.
+
+&emsp;&emsp;"(B) An assessment of potential cost savings, if any, to the Department of Defense resulting from the pilot program.
+
+&emsp;&emsp;"(C) A description of improvements, if any, to the access of members of the Armed Forces to mental health care resulting from the pilot program.
+
+&emsp;&emsp;"(D) A recommendation as to the feasibility and advisability of extending or expanding the pilot program."
+
+#### Pilot Program on Display of Wait Times at Urgent Care Clinics and Pharmacies of Military Medical Treatment Facilities
+
+Pub. L. 114–328, div. A, title VII, §744, Dec. 23, 2016, 130 Stat. 2239, provided that:
+
+"(a)
+
+Pilot Program Authorized.—Beginning not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall carry out a pilot program for the display of wait times in urgent care clinics and pharmacies of military medical treatment facilities selected under subsection (b).
+
+"(b)
+
+Selection of Facilities.—
+
+&emsp;"(1)
+
+Categories.—The Secretary shall select not fewer than four military medical treatment facilities from each of the following categories to participate in the pilot program:
+
+&emsp;&emsp;"(A) Medical centers.
+
+&emsp;&emsp;"(B) Hospitals.
+
+&emsp;&emsp;"(C) Ambulatory care centers.
+
+&emsp;"(2)
+
+OCONUS locations.—Of the military medical treatment facilities selected under each category described in subparagraphs (A) through (C) of paragraph (1), not fewer than one shall be located outside of the continental United States.
+
+&emsp;"(3)
+
+Contractor-operated facilities.—The Secretary may select Government-owned, contractor-operated facilities among those military medical treatment facilities selected under paragraph (1).
+
+"(c)
+
+Urgent Care Clinics.—
+
+&emsp;"(1)
+
+Placement.—With respect to each military medical treatment facility participating in the pilot program with an urgent care clinic, the Secretary shall place in a conspicuous location at the urgent care clinic an electronic sign that displays the current average wait time determined under paragraph (2) for a patient to be seen by a qualified medical professional.
+
+&emsp;"(2)
+
+Determination.—In carrying out paragraph (1), every 30 minutes, the Secretary shall determine theaverage wait time to display under such paragraph by calculating, for the four-hour period preceding the calculation, the average length of time beginning at the time of the arrival of a patient at the urgent care clinic and ending at the time at which the patient is first seen by a qualified medical professional.
+
+"(d)
+
+Pharmacies.—
+
+&emsp;"(1)
+
+Placement.—With respect to each military medical treatment facility participating in the pilot program with a pharmacy, the Secretary shall place in a conspicuous location at the pharmacy an electronic sign that displays the current average wait time to receive a filled prescription for a pharmaceutical agent.
+
+&emsp;"(2)
+
+Determination.—In carrying out paragraph (1), every 30 minutes, the Secretary shall determine the average wait time to display under such paragraph by calculating, for the four-hour period preceding the calculation, the average length of time beginning at the time of submission by a patient of a prescription for a pharmaceutical agent and ending at the time at which the pharmacy dispenses the pharmaceutical agent to the patient.
+
+"(e)
+
+Duration.—The Secretary shall carry out the pilot program for a period that is not more than two years.
+
+"(f)
+
+Report.—
+
+&emsp;"(1)
+
+Submission.—Not later than 90 days after the completion of the pilot program, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+&emsp;"(2)
+
+Elements.—The report under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) the costs for displaying the wait times under subsections (c) and (d);
+
+&emsp;&emsp;"(B) any changes in patient satisfaction;
+
+&emsp;&emsp;"(C) any changes in patient behavior with respect to using urgent care and pharmacy services;
+
+&emsp;&emsp;"(D) any changes in pharmacy operations and productivity;
+
+&emsp;&emsp;"(E) a cost-benefit analysis of posting such wait times; and
+
+&emsp;&emsp;"(F) the feasibility of expanding the posting of wait times in emergency departments in military medical treatment facilities.
+
+"(g)
+
+Qualified Medical Professional Defined.—In this section, the term 'qualified medical professional' means a doctor of medicine, a doctor of osteopathy, a physician assistant, or an advanced registered nurse practitioner."
+
 #### Pilot Program on Incentive Programs To Improve Health Care Provided Under the TRICARE Program
 
 Pub. L. 114–92, div. A, title VII, §726, Nov. 25, 2015, 129 Stat. 871, provided that:
@@ -98,7 +212,7 @@ Reports.—
 
 &emsp;"(1)
 
-Interim report.—Not later than one year after the date of the enactment of this Act, and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shallsubmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program.
+Interim report.—Not later than one year after the date of the enactment of this Act, and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program.
 
 &emsp;"(2)
 
@@ -274,7 +388,7 @@ Implementation and Report.—Not later than September 30, 2006, the Secretary of
 
 #### Pilot Program for Health Care Delivery
 
-Pub. L. 108–375, div. A, title VII, §721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, title VII, §707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, \[div. A\], title X, §1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
+Pub. L. 108–375, div. A, title VII, §721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, titleVII, §707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, \[div. A\], title X, §1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
 
 "(a)
 
@@ -338,7 +452,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §732\], Oct. 30, 2000, 114 Stat
 
 #### Joint Telemedicine and Telepharmacy Demonstration Projects by the Department of Defense and Department of Veterans Affairs
 
-Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X,§1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
+Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
 
 #### Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units
 
@@ -446,7 +560,7 @@ Report Required.—Not later than January 31, 2001, the Secretary of Defense sha
 
 GAO Reports.—The Comptroller General shall monitor the development and implementation of the plan required under subsection (a), including the administration of services and benefits under the plan, and periodically submit to the committees referred to in subsection (d) written reports on such development and implementation."
 
-Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
+Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan.31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
 
 Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: "The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code."
 

@@ -154,6 +154,10 @@ If any broker—
 
 &emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
 
+#### (iii) Treatment of uncorrected de minimis errors
+
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
+
 #### (3) Covered security
 
 &emsp;For purposes of this subsection—
@@ -164,7 +168,7 @@ If any broker—
 
 &emsp;&emsp;&emsp;(i) was acquired through a transaction in the account in which such security is held, or
 
-&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was a covered security, but only if the broker received a statement under section 6045A with respect to the transfer.
+&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was acovered security, but only if the broker received a statement under section 6045A with respect to the transfer.
 
 #### (B) Specified security
 
@@ -220,16 +224,6 @@ If any broker—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(o)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854; Pub. L. 113–295, div. A, title II, §210(f)(4), Dec. 19, 2014, 128 Stat. 4032; Pub. L. 114–113, div. Q, title II, §202(c), Dec. 18, 2015, 129 Stat. 3077.)
 
-#### Amendment of Subsection (g)(2)(B)
-
-<i>Pub. L. 114–113, div. Q, title II, §202(c), (e), Dec. 18, 2015, 129 Stat. 3077, 3078, provided that, applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, subsection (g)(2)(B) of this section is amended by adding at the end the following new clause:</i>
-
-#### <i>(iii) Treatment of uncorrected de minimis errors</i>
-
-&emsp;&emsp;&emsp;<i>Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.</i>
-
-<i>See 2015 Amendment note below.</i>
-
 #### Amendments
 
 <b>2015</b>—Subsec. (g)(2)(B)(iii). Pub. L. 114–113 added cl. (iii).
@@ -250,7 +244,7 @@ Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
-Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
+Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into accountits cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
 
 <b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing was federally-subsidized" and amended text generally. Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
 
@@ -306,7 +300,7 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1939(b), Oct. 24, 1992, 106 Stat. 3034, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to transactions after December 31, 1992."
+Pub. L. 102–486, title XIX, §1939(b), Oct. 24, 1992, 106 Stat. 3034, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transactions after December 31, 1992."
 
 #### Effective Date of 1989 Amendment
 
@@ -332,7 +326,7 @@ Pub. L. 99–514, title XV, §1521(c), Oct. 22, 1986, 100 Stat. 2747, provided t
 
 Pub. L. 98–369, div. A, title I, §150(b), July 18, 1984, 98 Stat. 690, provided that: "The amendment made by this section \[amending this section\] shall apply to payments received after December 31, 1984."
 
-Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, towhich such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -66,7 +66,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(4) provide that prepayment, in whole or in part, may be made without penalty at any time during the period of the mortgage;
 
-&emsp;(5) provide for a fixed or variable interest rate or future sharing between the mortgagorand the mortgagee of the appreciation in the value of the property, as agreed upon by the mortgagor and the mortgagee;
+&emsp;(5) provide for a fixed or variable interest rate or future sharing between the mortgagor and the mortgagee of the appreciation in the value of the property, as agreed upon by the mortgagor and the mortgagee;
 
 &emsp;(6) contain provisions for satisfaction of the obligation satisfactory to the Secretary;
 
@@ -92,7 +92,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;(F) on any other basis that the Secretary considers appropriate;
 
-&emsp;(10) provide that the mortgagor may convert the method of payment under paragraph (9) to any other method during the term of the mortgage, except that in the case of a fixed rate mortgage, the Secretary may, by regulation, limit such convertibility; and
+&emsp;(10) provide that the mortgagor may convert the method of payment under paragraph (9) toany other method during the term of the mortgage, except that in the case of a fixed rate mortgage, the Secretary may, by regulation, limit such convertibility; and
 
 &emsp;(11) have been made with such restrictions as the Secretary determines to be appropriate to ensure that the mortgagor does not fund any unnecessary or excessive costs for obtaining the mortgage, including any costs of estate planning, financial advice, or other related services.
 
@@ -150,7 +150,7 @@ The Secretary may—
 
 &emsp;(B) to obtain repayment of disbursements provided under subparagraph (A) from any source; and
 
-&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
+&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitationsin subsection (g) to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
 
 (2) Actions under paragraph (1) may include—
 
@@ -214,7 +214,7 @@ The Secretary may use a portion of the mortgage insurance premiums collected und
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
+&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be used to purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as aprimary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
 
 #### (2) Limitation on principal obligation
 
@@ -264,7 +264,7 @@ The Secretary shall establish limits on the origination fee that may be charged 
 
 &emsp;(5) have the same effective date as subsection (m)(2) regarding the limitation on principal obligation; and
 
-&emsp;(6) be subject to a maximum origination fee of $6,000, except that such maximum limit shall be adjusted in accordance with the annual percentage increase in the ConsumerPrice Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500.
+&emsp;(6) be subject to a maximum origination fee of $6,000, except that such maximum limit shall be adjusted in accordance with the annual percentage increase in the Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500.
 
 (June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838; Pub. L. 111–22, div. A, title II, §206, May 20, 2009, 123 Stat. 1654; Pub. L. 113–29, §2, Aug. 9, 2013, 127 Stat. 509.)
 
@@ -282,7 +282,7 @@ Subsec. (b)(5). Pub. L. 110–289, §2122(b)(2), inserted "a first or subordinat
 
 Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;".
 
-Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
+Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
 
 Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted "Counseling services and information for mortgagors" for "Information services for mortgagors" in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—".
 

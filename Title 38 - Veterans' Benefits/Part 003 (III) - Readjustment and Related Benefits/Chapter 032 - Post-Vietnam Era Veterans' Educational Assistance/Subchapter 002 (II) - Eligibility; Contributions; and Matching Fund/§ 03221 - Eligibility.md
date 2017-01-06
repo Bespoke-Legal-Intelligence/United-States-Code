@@ -12,7 +12,7 @@
 
 (f) An individual who serves in the Selected Reserve may not receive credit for such service under both the program established by this chapter and the program established by chapter 106 of title 10 but shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) the program to which such service is to be credited.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1621; amended Pub. L. 99–576, title III, §309(a)(3), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§410, 423(b)(1)(A), (4)(A), (6), Dec. 18, 1989, 103 Stat. 2084, 2092, 2093; renumbered §3221 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1621; amended Pub. L. 99–576, titleIII, §309(a)(3), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§410, 423(b)(1)(A), (4)(A), (6), Dec. 18, 1989, 103 Stat. 2084, 2092, 2093; renumbered §3221 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

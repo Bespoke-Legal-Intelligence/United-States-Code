@@ -4,13 +4,13 @@
 
 (1)(A) An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with section 1024(a) of this title, and shall be made available and furnished to participants in accordance with section 1024(b) of this title.
 
-(B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
+(B) The annual report shall include the information described in subsections (b) and (c) andwhere applicable subsections (d), (e), and (f) and shall also include—
 
 &emsp;(i) a financial statement and opinion, as required by paragraph (3) of this subsection, and
 
 &emsp;(ii) an actuarial statement and opinion, as required by paragraph (4) of this subsection.
 
-(2) If some or all of the information necessary to enable the administrator to comply with therequirements of this subchapter is maintained by—
+(2) If some or all of the information necessary to enable the administrator to comply with the requirements of this subchapter is maintained by—
 
 &emsp;(A) an insurance carrier or other organization which provides some or all of the benefits under the plan, or holds assets of the plan in a separate account,
 
@@ -24,7 +24,7 @@
 
 (B) In offering his opinion under this section the accountant may rely on the correctness of any actuarial matter certified to by an enrolled actuary, if he so states his reliance.
 
-(C) The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) of this section prepared by a bank or similar institution or insurance carrier regulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
+(C) The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) prepared by a bank or similar institution or insurance carrier regulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
 
 (D) For purposes of this subchapter, the term "qualified public accountant" means—
 
@@ -46,13 +46,13 @@
 
 (C) For purposes of this subchapter, the term "enrolled actuary" means an actuary enrolled under subtitle C of subchapter II of this chapter.
 
-(D) In making a certification under this section the enrolled actuary may rely on the correctness of any accounting matter under subsection (b) of this section to which any qualified public accountant has expressed an opinion, if he so states his reliance.
+(D) In making a certification under this section the enrolled actuary may rely on the correctness of any accounting matter under subsection (b) to which any qualified public accountant has expressed an opinion, if he so states his reliance.
 
 #### (b) Financial statement
 
 An annual report under this section shall include a financial statement containing the following information:
 
-(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
+(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, andcontingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
 
 (2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
 
@@ -132,7 +132,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;&emsp;(B) the applicable requirements of sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
 
-&emsp;(9) A copy of the opinion required by subsection (a)(4) of this section.
+&emsp;(9) A copy of the opinion required by subsection (a)(4).
 
 &emsp;(10) A statement by the actuary which discloses—
 
@@ -198,7 +198,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;&emsp;&emsp;(ii) the number of participants under the plan on whose behalf no employer had an obligation to make an employer contribution during each of the 2 preceding plan years.
 
-&emsp;&emsp;(E) Whether the plan received an amortization extension under section 1084(d) of this title or section 431(d) of title 26 for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the extension, and the period of such extension.
+&emsp;&emsp;(E) Whether the plan received an amortization extension under section 1084(d) of thistitle or section 431(d) of title 26 for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the extension, and the period of such extension.
 
 &emsp;&emsp;(F) Whether the plan used the shortfall funding method (as such term is used in section 1085 of this title) for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the use of such method, and the period of use of such method.
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to reports required to be filed after Dec. 31, 1987, see section 9342(d)(1) of Pub. L. 100–203, set out as a note under section 1132 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to reports required to be filed after Dec. 31, 1987,see section 9342(d)(1) of Pub. L. 100–203, set out as a note under section 1132 of this title.
 
 #### Effective Date of 1986 Amendment
 

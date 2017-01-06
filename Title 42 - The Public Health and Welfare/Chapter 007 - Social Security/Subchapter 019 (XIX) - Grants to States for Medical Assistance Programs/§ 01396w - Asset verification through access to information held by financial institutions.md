@@ -106,7 +106,7 @@ A State implementing an asset verification program under this section shall furn
 
 #### (j) Treatment of program expenses
 
-Notwithstanding any other provision of law, reasonable expenses of States in carrying outthe program under this section shall be treated, for purposes of section 1396b(a) of this title, in the same manner as State expenditures specified in paragraph (7) of such section.
+Notwithstanding any other provision of law, reasonable expenses of States in carrying out the program under this section shall be treated, for purposes of section 1396b(a) of this title, in the same manner as State expenditures specified in paragraph (7) of such section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1940, as added Pub. L. 110–252, title VII, §7001(d)(1), June 30, 2008, 122 Stat. 2391.)
 

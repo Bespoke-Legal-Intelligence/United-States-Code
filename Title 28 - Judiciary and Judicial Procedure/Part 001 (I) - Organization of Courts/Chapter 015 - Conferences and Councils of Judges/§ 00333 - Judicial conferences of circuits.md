@@ -6,7 +6,7 @@ Every judge summoned may attend.
 
 The court of appeals for each circuit shall provide by its rules for representation and active participation at such conference by members of the bar of such circuit.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Dec. 29, 1950, ch. 1185, 64 Stat. 1128; Oct. 31, 1951, ch. 655, §38, 65 Stat. 723; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §210, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 101–650, title III, §320, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title III, §305\], Apr. 26, 1996, 110 Stat. 1321, 1321-36; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–406, §9, Oct. 13, 2008, 122 Stat. 4293.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Dec. 29, 1950, ch. 1185, 64 Stat. 1128; Oct. 31, 1951, ch. 655, §38, 65 Stat. 723; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §210, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 101–650, title III, §320, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title III, §305\], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–406, §9, Oct. 13, 2008, 122 Stat. 4293.)
 
 #### Historical and Revision Notes
 

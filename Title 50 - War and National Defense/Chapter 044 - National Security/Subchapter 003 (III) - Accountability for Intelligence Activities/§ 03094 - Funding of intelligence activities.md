@@ -2,7 +2,7 @@
 
 #### (a) Obligations and expenditures for intelligence or intelligence-related activity; prerequisites
 
-Appropriated funds available to an intelligence agency may be obligated or expended foran intelligence or intelligence-related activity only if—
+Appropriated funds available to an intelligence agency may be obligated or expended for an intelligence or intelligence-related activity only if—
 
 &emsp;(1) those funds were specifically authorized by the Congress for use for such activities; or
 

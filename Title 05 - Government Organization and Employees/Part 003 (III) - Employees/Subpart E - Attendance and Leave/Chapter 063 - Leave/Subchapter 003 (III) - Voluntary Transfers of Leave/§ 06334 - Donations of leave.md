@@ -8,7 +8,7 @@
 
 (3) The employing agency of a leave donor may waive the limitation under paragraphs (1) and (2). Any such waiver shall be made in writing.
 
-(c) The Office of Personnel Management shall prescribe regulations to include procedures to carry out this subchapter when the leave donor and the leave recipient are employed by different agencies.
+(c) The Office of Personnel Management shall prescribe regulations to include procedures tocarry out this subchapter when the leave donor and the leave recipient are employed by different agencies.
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2835.)
 

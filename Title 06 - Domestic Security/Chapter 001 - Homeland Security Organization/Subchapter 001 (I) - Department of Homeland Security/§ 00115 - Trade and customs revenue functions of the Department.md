@@ -52,17 +52,17 @@
 
 #### (1) Business community consultations
 
-&emsp;The Secretary shall consult with representatives of the business community involved in international trade, including seeking the advice and recommendations of the Commercial Operations Advisory Committee, on Department policies and actions that have a significant impact on international trade and customs revenue functions.
+&emsp;The Secretary shall consult with representatives of the business community involved in international trade, including seeking the advice and recommendations of the Commercial Operations Advisory Committee, not later than 30 days after proposing, and not later than 30 days before finalizing, any Department policies, initiatives, or actions that will have a significant impact on international trade and customs revenue functions.
 
 #### (2) Congressional consultation and notification
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 30 days prior tothe finalization of any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days before finalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
 
 #### (B) Exception
 
-&emsp;&emsp;If the Secretary determines that it is important to the national security interest of the United States to finalize any Department policies, initiatives, or actions prior to the consultation described in subparagraph (A), the Secretary shall—
+&emsp;&emsp;If the Secretary determines that it is important to the national security interest ofthe United States to finalize any Department policies, initiatives, or actions prior to the consultation described in subparagraph (A), the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) notify and provide any recommendations of the Commercial Operations Advisory Committee received to the appropriate congressional committees not later than 45 days after the date on which the policies, initiatives, or actions are finalized; and
 
@@ -88,11 +88,17 @@
 
 &emsp;Not later than 1 year after any reorganization referred to in paragraph (1) takes place, the Secretary, in consultation with the Commercial Operations Advisory Committee, shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
 
-(Pub. L. 109–347, title IV, §401, Oct. 13, 2006, 120 Stat. 1921.)
+(Pub. L. 109–347, title IV, §401, Oct. 13, 2006, 120 Stat. 1921; Pub. L. 114–125, title IX, §902, Feb. 24, 2016, 130 Stat. 223.)
 
 #### Codification
 
 Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(1). Pub. L. 114–125, §902(1), substituted "not later than 30 days after proposing, and not later than 30 days before finalizing, any Department policies, initiatives, or actions that will have" for "on Department policies and actions that have".
+
+Subsec. (c)(2)(A). Pub. L. 114–125, §902(2), substituted "not later than 60 days before proposing, and not later than 60 days before finalizing," for "not later than 30 days prior to the finalization of".
 
 #### Definitions
 

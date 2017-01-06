@@ -364,7 +364,7 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
+&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would havebeen in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
 #### (B) Drought monitor
 
@@ -390,7 +390,7 @@ In this section:
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland forlivestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (II) D3
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligibleto receive assistance under this paragraph—
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
 
@@ -620,7 +620,7 @@ In this section:
 
 #### (A) Definitions of legal entity and person
 
-&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given thoseterms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (B) Amount
 
@@ -642,7 +642,7 @@ In this section:
 
 #### (2) Minimum
 
-&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer ona farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
+&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer on a farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
 
 #### (3) Waiver for socially disadvantaged, limited resource, or beginning farmer or rancher
 
@@ -770,7 +770,7 @@ This section shall be effective only for losses that are incurred as the result 
 
 In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>7</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L.113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
+(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@
 
 #### (3) Control methods and technologies
 
-&emsp;Standards under section 7411 of this title and this section applicable to solid waste incineration units shall be based on methods and technologies for removal or destruction of pollutants before, during, or after combustion,and shall incorporate for new units siting requirements that minimize, on a site specific basis, to the maximum extent practicable, potential risks to public health or the environment.
+&emsp;Standards under section 7411 of this title and this section applicable to solid waste incineration units shall be based on methods and technologies for removal or destruction of pollutants before, during, or after combustion, and shall incorporate for new units siting requirements that minimize, on a site specific basis, to the maximum extent practicable, potential risks to public health or the environment.
 
 #### (4) Numerical emissions limitations
 
@@ -46,7 +46,7 @@
 
 #### (c) Monitoring
 
-The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 of this title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
+The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 ofthis title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
 
 &emsp;(1) to monitor emissions from the unit at the point at which such emissions are emitted into the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
 
@@ -58,11 +58,11 @@ The Administrator shall, as part of each performance standard promulgated pursua
 
 #### (d) Operator training
 
-Not later than 24 months after November 15, 1990, the Administrator shall develop and promote a model State program for the training and certification of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators. The Administrator may authorize any State to implement a model program for the training of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators, if the State has adopted a program which is at least as effective as the model program developed by the Administrator. Beginning on the date 36 months after the date on which performance standards and guidelines are promulgated under subsection (a) of this section and section 7411 of this title for any category ofsolid waste incineration units it shall be unlawful to operate any unit in the category unless each person with control over processes affecting emissions from such unit has satisfactorily completed a training program meeting the requirements established by the Administrator under this subsection.
+Not later than 24 months after November 15, 1990, the Administrator shall develop and promote a model State program for the training and certification of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators. The Administrator may authorize any State to implement a model program for the training of solid waste incineration unit operators and high-capacity fossil fuel fired plant operators, if the State has adopted a program which is at least as effective as the model program developed by the Administrator. Beginning on the date 36 months after the date on which performance standards and guidelines are promulgated under subsection (a) of this section and section 7411 of this title for any category of solid waste incineration units it shall be unlawful to operate any unit in the category unless each person with control over processes affecting emissions from such unit has satisfactorily completed a training program meeting the requirements established by the Administrator under this subsection.
 
 #### (e) Permits
 
-Beginning (1) 36 months after the promulgation of a performance standard under subsection (a) of this section and section 7411 of this title applicable to a category of solid waste incineration units, or (2) the effective date of a permit program under subchapter V of this chapter in the State in which the unit is located, whichever is later, each unit in the category shall operate pursuant to a permit issued under this subsection and subchapter V of this chapter. Permits required by this subsection may be renewed according to the provisions of subchapter V of this chapter. Notwithstanding any other provision of this chapter, each permit for a solid waste incineration unit combusting municipal waste issued under this chapter shall be issued for a period of up to 12 years and shall be reviewed every 5 years after date of issuance or reissuance. Each permit shall continue in effect after the date of issuance until the date of termination, unless the Administrator or State determines that the unit is not in compliance with all standards and conditions contained in the permit. Such determination shall be made at regular intervals during the term of the permit, such intervals not to exceed 5 years, and only after public comment and public hearing. No permit for a solid waste incineration unit may be issued under this chapter by an agency, instrumentality or person that is also responsible, in whole or part, for the design and construction or operation of the unit. Notwithstanding any other provision of this subsection, the Administrator or the State shall require the owner or operator of any unit to comply with emissions limitations or implement any other measures, if the Administrator or the State determines that emissions in the absence of such limitations or measures may reasonably be anticipated to endanger public health or the environment. The Administrator's determination under the preceding sentence is a discretionary decision.
+Beginning (1) 36 months after the promulgation of a performance standard under subsection (a) of this section and section 7411 of this title applicable to a category of solid waste incineration units, or (2) the effective date of a permit program under subchapter V in the State in which the unit is located, whichever is later, each unit in the category shall operate pursuant to a permit issued under this subsection and subchapter V. Permits required by this subsection may be renewed according to the provisions of subchapter V. Notwithstanding any other provision of this chapter, each permit for a solid waste incineration unit combusting municipal waste issued under this chapter shall be issued for a period of up to 12 years and shall be reviewed every 5 years after date of issuance or reissuance. Each permit shall continue in effect after the date of issuance until the date of termination, unless the Administrator or State determines that the unit is not in compliance with all standards and conditions contained in the permit. Such determination shall be made at regular intervals during the term of the permit, such intervals not to exceed 5 years, and only after public comment and public hearing. No permit for a solid waste incineration unit may be issued under this chapter by an agency, instrumentality or person that is also responsible, in whole or part, for the design and construction or operation of the unit. Notwithstanding any other provision of this subsection, the Administrator or the State shall require the owner or operator of any unit to comply with emissions limitations or implement any other measures, if the Administrator or the State determines that emissions in the absence of such limitations or measures may reasonably be anticipated to endanger public health or the environment. The Administrator's determination under the preceding sentence is a discretionary decision.
 
 #### (f) Effective date and enforcement
 
@@ -80,7 +80,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (4) Coordination with other authorities
 
-&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or a State or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
+&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or a State or local government, shall be treated inthe same manner as a standard of performance under section 7411 of this title which is an emission limitation.
 
 #### (g) Definitions
 
@@ -92,7 +92,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### (2) New solid waste incineration unit
 
-&emsp;The term "new solid waste incineration unit" means a solid waste incineration unit the construction of which is commenced after the Administrator proposes requirements under this section establishing emissions standards or other requirements which wouldbe applicable to such unit or a modified solid waste incineration unit.
+&emsp;The term "new solid waste incineration unit" means a solid waste incineration unit the construction of which is commenced after the Administrator proposes requirements under this section establishing emissions standards or other requirements which would be applicable to such unit or a modified solid waste incineration unit.
 
 #### (3) Modified solid waste incineration unit
 
@@ -126,11 +126,11 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 &emsp;&emsp;(A) the performance standards under subsection (a) of this section and section 7411 of this title applicable to a category of solid waste incineration units shall be deemed standards under section 7412(d)(2) of this title, and
 
-&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listed under subsection (a)(4) of this section and no others.
+&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listedunder subsection (a)(4) of this section and no others.
 
 #### (4) Acid rain
 
-&emsp;A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A of this chapter: <i>Provided</i>, That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
+&emsp;A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A: <i>Provided</i>, That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
 
 #### (5) Requirements of parts C and D
 

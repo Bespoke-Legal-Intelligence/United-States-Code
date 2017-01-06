@@ -66,7 +66,7 @@ Requirements of Child Support Orders.—A child support order made by a court of
 
 (d)
 
-Continuing Jurisdiction.—A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child's State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
+Continuing Jurisdiction.—A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child's State or the residence of any individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order, unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 
 (e)
 
@@ -74,13 +74,13 @@ Authority To Modify Orders.—A court of a State may modify a child support orde
 
 &emsp;(1) the court has jurisdiction to make such a child support order pursuant to subsection (i); and
 
-&emsp;(2)(A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child's State or the residence of any individual contestant; or
+&emsp;(2)(A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child's State or the residence of any individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order; or
 
 &emsp;(B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 
 (f)
 
-Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determiningwhich order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
@@ -118,21 +118,11 @@ Registration for Modification.—If there is no individual contestant or child r
 
 (Added Pub. L. 103–383, §3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, §322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, §5554, Aug. 5, 1997, 111 Stat. 636; Pub. L. 113–183, title III, §301(f)(2), Sept. 29, 2014, 128 Stat. 1944.)
 
-#### Amendment of Section
-
-<i>Pub. L. 113–183, title III, §301(f)(2)(A), (B), (3)(B)(i), Sept. 29, 2014, 128 Stat. 1944, 1945, provided that, effective on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States, this section is amended as follows:</i>
-
-<i>(1) in subsection (d), by striking "individual contestant" and inserting "individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,"; and</i>
-
-<i>(2) in subsection (e)(2)(A), by striking "individual contestant" and inserting "individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order".</i>
-
-<i>See 2014 Amendment notes below.</i>
-
 #### Amendments
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–183, §301(f)(2)(C), inserted designations for pars. (1) to (9) and "The term" after each designation.
 
-Subsec. (d). Pub. L. 113–183, §301(f)(2)(A), substituted "individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order," for "individual contestant".
+Subsec. (d). Pub. L. 113–183, §301(f)(2)(A), substituted "individual contestant or the parties have consented in a record or open court that the tribunal of the Statemay continue to exercise jurisdiction to modify its order," for "individual contestant".
 
 Subsec. (e)(2)(A). Pub. L. 113–183, §301(f)(2)(B), substituted "individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order" for "individual contestant".
 
@@ -172,7 +162,7 @@ Subsec. (i). Pub. L. 104–193, §322(13), added subsec. (i).
 
 Pub. L. 113–183, title III, §301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that:
 
-"(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) \[amending this section\] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States.
+"(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) \[amending this section\] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States \[The Convention entered into force for the United States Jan. 1, 2017\].
 
 "(ii) The amendments made by subparagraph (C) of paragraph (2) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 29, 2014\]."
 

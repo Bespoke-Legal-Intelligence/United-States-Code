@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) disability is a natural part of the human experience that does not diminish the right ofindividuals with developmental disabilities to live independently, to exert control and choice over their own lives, and to fully participate in and contribute to their communities through full integration and inclusion in the economic, political, social, cultural, and educational mainstream of United States society;
+&emsp;(1) disability is a natural part of the human experience that does not diminish the right of individuals with developmental disabilities to live independently, to exert control and choice over their own lives, and to fully participate in and contribute to their communities through full integration and inclusion in the economic, political, social, cultural, and educational mainstream of United States society;
 
 &emsp;(2) in 1999, there were between 3,200,000 and 4,500,000 individuals with developmental disabilities in the United States, and recent studies indicate that individuals with developmental disabilities comprise between 1.2 and 1.65 percent of the United States population;
 
@@ -58,7 +58,7 @@ The purpose of this subchapter is to assure that individuals with developmental 
 
 &emsp;(1) State Councils on Developmental Disabilities in each State to engage in advocacy, capacity building, and systemic change activities that—
 
-&emsp;&emsp;(A) are consistent with the purpose described in this subsection and the policy described in subsection (c) of this section; and
+&emsp;&emsp;(A) are consistent with the purpose described in this subsection and the policy described in subsection (c); and
 
 &emsp;&emsp;(B) contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system that includes needed community services, individualized supports, and other forms of assistance that promote self-determination for individuals with developmental disabilities and their families;
 
@@ -82,7 +82,7 @@ The purpose of this subchapter is to assure that individuals with developmental 
 
 &emsp;&emsp;(A) national initiatives to collect necessary data on issues that are directly or indirectly relevant to the lives of individuals with developmental disabilities;
 
-&emsp;&emsp;(B) technical assistance to entities who engage in or intend to engage in activities consistent with the purpose described in this subsection or the policy described in subsection (c) of this section; and
+&emsp;&emsp;(B) technical assistance to entities who engage in or intend to engage in activities consistent with the purpose described in this subsection or the policy described in subsection (c); and
 
 &emsp;&emsp;(C) other nationally significant activities.
 
@@ -172,7 +172,7 @@ Education Activities.—The Secretary of Education may award grants to, or enter
 
 &emsp;"(1) Activities to promote the expansion of Special Olympics, including activities to increase the participation of individuals with intellectual disabilities within the United States.
 
-&emsp;"(2) The design and implementation of Special Olympics education programs, including character education and volunteer programs that support the purposes of this Act, that can be integrated into classroom instruction and are consistent with academic content standards.
+&emsp;"(2) The design and implementation of Special Olympics education programs, including charactereducation and volunteer programs that support the purposes of this Act, that can be integrated into classroom instruction and are consistent with academic content standards.
 
 "(b)
 
@@ -306,7 +306,7 @@ Sec. 3. <i>Functions of the Committee</i>. (a) Consistent with subsection (c) of
 
 Sec. 4. <i>Cooperation by Agencies</i>. The heads of Federal departments and agencies shall:
 
-(a) designate, when requested by the Secretary of Health and Human Services, an officer or employee of such department or agency to serve as a liaison with the Committee; and
+(a) designate, when requested by the Secretary of Health and Human Services, an officer or employee ofsuch department or agency to serve as a liaison with the Committee; and
 
 (b) furnish such information and assistance to the Committee, to the extent permitted by law, as the Secretary of Health and Human Services may request to assist the Committee in performing its functions under this order.
 

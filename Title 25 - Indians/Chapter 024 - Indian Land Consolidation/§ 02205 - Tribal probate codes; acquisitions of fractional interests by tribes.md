@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each Indian tribe that adopts a tribal probate code under subsection (a) shall submitthat code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
+&emsp;&emsp;Each Indian tribe that adopts a tribal probate code under subsection (a) shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
 
 #### (B) Consequence of failures to approve or disapprove a tribal probate code
 
@@ -84,7 +84,7 @@
 
 #### (B) Amendments to tribal probate codes
 
-&emsp;&emsp;With respect to an amendment to a tribal probate code referred to in subparagraph (A), that amendment shall apply only to the estate of a decedent who dies on or after the effective date of the amendment.
+&emsp;&emsp;With respect to an amendment to a tribal probate code referred to in subparagraph (A),that amendment shall apply only to the estate of a decedent who dies on or after the effective date of the amendment.
 
 #### (5) Repeals
 
@@ -176,7 +176,7 @@ This chapter, referred to in subsec. (b)(2)(C), was in the original "this Act", 
 
 #### Prior Provisions
 
-A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, §1(3), Oct. 30, 1984, 98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.
+A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, §1(3), Oct. 30, 1984,98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Subsec. (c)(2)(B). Pub. L. 108–374, §6(a)(3)(B)(ii)(II), which directed the s
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "Amendments".</i>
 

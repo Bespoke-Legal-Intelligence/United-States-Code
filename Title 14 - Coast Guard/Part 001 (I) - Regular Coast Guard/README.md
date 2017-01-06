@@ -14,11 +14,13 @@
 |  |  |  |
 | [<b>17.</b>](Chapter%20017%20-%20Administration/README.md) | <b>Administration</b> | <b>631</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Coast%20Guard%20Housing%20Authorities/README.md) | <b>Coast Guard Housing Authorities</b> | <b>680</b> |
-| [<b>19.</b>](Chapter%20019%20-%20Environmental%20Compliance%20and%20Restoration%20Program/README.md) | <b>Coast Guard Environmental Compliance and Restoration Program </b><b><sup>1</sup></b> | <b>690</b> |
+| [<b>19.</b>](Chapter%20019%20-%20Environmental%20Compliance%20and%20Restoration%20Program/README.md) | <b>Environmental Compliance and Restoration Program</b> | <b>690</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title II, §209(1), Feb. 8, 2016, 130 Stat. 40, substituted "Environmental Compliance and Restoration Program" for "Coast Guard Environmental Compliance and Restoration Program" in item for chapter 19.
 
 <b>2014</b>—Pub. L. 113–281, title II, §214(b)(2)(A), Dec. 18, 2014, 128 Stat. 3033, added item for chapter 14.
 
@@ -29,8 +31,6 @@
 <b>1989</b>—Pub. L. 101–225, title II, §222(b), Dec. 12, 1989, 103 Stat. 1918, added item for chapter 19.
 
 <b>1950</b>—Act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 148, repealed item for chapter 15 "Discipline and Related Matters———561", effective May 31, 1951.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

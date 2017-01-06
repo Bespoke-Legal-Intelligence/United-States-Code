@@ -70,7 +70,7 @@ The Secretary shall maintain a national health care fraud and abuse data collect
 
 #### (e) Protection from liability for reporting
 
-No person or entity, including the agency designated by the Secretary in subsection (b)(5) ofthis section shall be held liable in any civil action with respect to any report made as required by this section, without knowledge of the falsity of the information contained in the report.
+No person or entity, including the agency designated by the Secretary in subsection (b)(5) shall be held liable in any civil action with respect to any report made as required by this section, without knowledge of the falsity of the information contained in the report.
 
 #### (f) Appropriate coordination
 

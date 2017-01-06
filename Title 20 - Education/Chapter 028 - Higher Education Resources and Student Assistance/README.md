@@ -292,7 +292,7 @@
 |  |  |
 | :--- | ---: |
 | [1070a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20A%20-%20Grants%20to%20Students%20in%20Attendance%20at%20Institutions%20of%20Higher%20Education/Subpart%20001%20-%20Federal%20Pell%20Grants/%C2%A7%2001070a%20-%20Federal%20Pell%20Grants%20amount%20and%20determinations%3B%20applications.md) | Federal Pell Grants: amount and determinations; applications. |
-| 1070a–1. | Academic competitiveness grants. |
+| 1070a–1. | Omitted. |
 | 1070a–2 to 1070a–6. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -511,123 +511,138 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—William D. Ford Federal Direct Loan Program
+#### Part C—Federal Work-Study Programs
 
 |  |  |
 | :--- | ---: |
-| [1087a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087a%20-%20Program%20authority.md) | Program authority. |
-| [1087b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087b%20-%20Funds%20for%20origination%20of%20direct%20student%20loans.md) | Funds for origination of direct student loans. |
-| [1087c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087c%20-%20Selection%20of%20institutions%20for%20participation%20and%20origination.md) | Selection of institutions for participation and origination. |
-| [1087d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087d%20-%20Agreements%20with%20institutions.md) | Agreements with institutions. |
-| [1087e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087e%20-%20Terms%20and%20conditions%20of%20loans.md) | Terms and conditions of loans. |
-| [1087f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087f%20-%20Contracts.md) | Contracts. |
-| [1087g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087g%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9339%2C%20title%20IV%2C%20%C2%A7404%28b%29%283%29%2C%20July%201%2C%202009%2C%20123%20Stat.%201946.md) | Repealed. |
-| [1087h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md) | Funds for administrative expenses. |
-| [1087i.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md) | Authority to sell loans. |
+| 1087–51. | Purpose; appropriations authorized. |
+| 1087–52. | Allocation of funds. |
+| 1087–53. | Grants for Federal work-study programs. |
+| 1087–54. | Sources of matching funds. |
+| 1087–55. | Flexible use of funds. |
+| 1087–56. | Job location and development programs. |
+| 1087–57. | Additional funds to conduct community service work-study programs. |
+| 1087–58. | Work colleges. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—William D. Ford Federal Direct Loan Program
+
+|  |  |
+| :--- | ---: |
+| [1087a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087a%20-%20Program%20authority.md) | Program authority. |
+| [1087b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087b%20-%20Funds%20for%20origination%20of%20direct%20student%20loans.md) | Funds for origination of direct student loans. |
+| [1087c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087c%20-%20Selection%20of%20institutions%20for%20participation%20and%20origination.md) | Selection of institutions for participation and origination. |
+| [1087d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087d%20-%20Agreements%20with%20institutions.md) | Agreements with institutions. |
+| [1087e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087e%20-%20Terms%20and%20conditions%20of%20loans.md) | Terms and conditions of loans. |
+| [1087f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087f%20-%20Contracts.md) | Contracts. |
+| [1087g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087g%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9339%2C%20title%20IV%2C%20%C2%A7404%28b%29%283%29%2C%20July%201%2C%202009%2C%20123%20Stat.%201946.md) | Repealed. |
+| [1087h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md) | Funds for administrative expenses. |
+| [1087i.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md) | Authority to sell loans. |
 | 1087i–1. | Temporary authority to purchase student loans. |
 | 1087i–2. | Temporary loan consolidation authority. |
-| [1087j.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md) | Loan cancellation for teachers. |
+| [1087j.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md) | Loan cancellation for teachers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Federal Perkins Loans
+#### Part E—Federal Perkins Loans
 
 |  |  |
 | :--- | ---: |
-| [1087aa.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087aa%20-%20Appropriations%20authorized.md) | Appropriations authorized. |
-| [1087bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087bb%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
-| [1087cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087cc%20-%20Agreements%20with%20institutions%20of%20higher%20education.md) | Agreements with institutions of higher education. |
+| [1087aa.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087aa%20-%20Appropriations%20authorized.md) | Appropriations authorized. |
+| [1087bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087bb%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
+| [1087cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087cc%20-%20Agreements%20with%20institutions%20of%20higher%20education.md) | Agreements with institutions of higher education. |
 | 1087cc–1. | Student loan information by eligible institutions. |
-| [1087dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087dd%20-%20Terms%20of%20loans.md) | Terms of loans. |
-| [1087ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ee%20-%20Cancellation%20of%20loans%20for%20certain%20public%20service.md) | Cancellation of loans for certain public service. |
-| [1087ff.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ff%20-%20Distribution%20of%20assets%20from%20student%20loan%20funds.md) | Distribution of assets from student loan funds. |
-| [1087gg.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087gg%20-%20Collection%20of%20defaulted%20loans%20Perkins%20Loan%20Revolving%20Fund.md) | Collection of defaulted loans: Perkins Loan Revolving Fund. |
-| [1087hh.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087hh%20-%20General%20authority%20of%20Secretary.md) | General authority of Secretary. |
-| [1087ii.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ii%20-%20Definitions.md) | Definitions. |
+| [1087dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087dd%20-%20Terms%20of%20loans.md) | Terms of loans. |
+| [1087ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ee%20-%20Cancellation%20of%20loans%20for%20certain%20public%20service.md) | Cancellation of loans for certain public service. |
+| [1087ff.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ff%20-%20Distribution%20of%20assets%20from%20student%20loan%20funds.md) | Distribution of assets from student loan funds. |
+| [1087gg.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087gg%20-%20Collection%20of%20defaulted%20loans%20Perkins%20Loan%20Revolving%20Fund.md) | Collection of defaulted loans: Perkins Loan Revolving Fund. |
+| [1087hh.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087hh%20-%20General%20authority%20of%20Secretary.md) | General authority of Secretary. |
+| [1087ii.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ii%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part E—Need Analysis
+#### Part F—Need Analysis
 
 |  |  |
 | :--- | ---: |
-| [1087kk.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087kk%20-%20Amount%20of%20need.md) | Amount of need. |
+| [1087kk.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087kk%20-%20Amount%20of%20need.md) | Amount of need. |
 | 1087<i>ll.</i> | Cost of attendance. |
-| [1087mm.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087mm%20-%20Family%20contribution.md) | Family contribution. |
-| [1087nn.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087nn%20-%20Determination%20of%20expected%20family%20contribution%3B%20data%20elements.md) | Determination of expected family contribution; data elements. |
+| [1087mm.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087mm%20-%20Family%20contribution.md) | Family contribution. |
+| [1087nn.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087nn%20-%20Determination%20of%20expected%20family%20contribution%3B%20data%20elements.md) | Determination of expected family contribution; data elements. |
 | 1087<i>oo.</i> | Family contribution for dependent students. |
-| [1087pp.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087pp%20-%20Family%20contribution%20for%20independent%20students%20without%20dependents%20other%20than%20a%20spouse.md) | Family contribution for independent students without dependents other than a spouse. |
-| [1087qq.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087qq%20-%20Family%20contribution%20for%20independent%20students%20with%20dependents%20other%20than%20a%20spouse.md) | Family contribution for independent students with dependents other than a spouse. |
-| [1087rr.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087rr%20-%20Regulations%3B%20updated%20tables.md) | Regulations; updated tables. |
-| [1087ss.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087ss%20-%20Simplified%20needs%20test.md) | Simplified needs test. |
-| [1087tt.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087tt%20-%20Discretion%20of%20student%20financial%20aid%20administrators.md) | Discretion of student financial aid administrators. |
-| [1087uu.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20Federal%20programs.md) | Disregard of student aid in other Federal programs. |
+| [1087pp.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087pp%20-%20Family%20contribution%20for%20independent%20students%20without%20dependents%20other%20than%20a%20spouse.md) | Family contribution for independent students without dependents other than a spouse. |
+| [1087qq.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087qq%20-%20Family%20contribution%20for%20independent%20students%20with%20dependents%20other%20than%20a%20spouse.md) | Family contribution for independent students with dependents other than a spouse. |
+| [1087rr.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087rr%20-%20Regulations%3B%20updated%20tables.md) | Regulations; updated tables. |
+| [1087ss.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087ss%20-%20Simplified%20needs%20test.md) | Simplified needs test. |
+| [1087tt.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087tt%20-%20Discretion%20of%20student%20financial%20aid%20administrators.md) | Discretion of student financial aid administrators. |
+| [1087uu.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20Federal%20programs.md) | Disregard of student aid in other Federal programs. |
 | 1087uu–1. | Native American students. |
-| [1087vv.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20E%20-%20Need%20Analysis/%C2%A7%2001087vv%20-%20Definitions.md) | Definitions. |
+| [1087vv.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20Need%20Analysis/%C2%A7%2001087vv%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F—General Provisions Relating to Student Assistance Programs
+#### Part G—General Provisions Relating to Student Assistance Programs
 
 |  |  |
 | :--- | ---: |
-| [1088\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001088%20-%20Definitions.md) | Definitions. |
-| [1088a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001088a%20-%20Clock%20and%20credit%20hour%20treatment%20of%20diploma%20nursing%20schools.md) | Clock and credit hour treatment of diploma nursing schools. |
-| [1089\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001089%20-%20Master%20calendar.md) | Master calendar. |
-| [1090\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001090%20-%20Forms%20and%20regulations.md) | Forms and regulations. |
-| [1091\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091%20-%20Student%20eligibility.md) | Student eligibility. |
-| [1091a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091a%20-%20Statute%20of%20limitations%2C%20and%20State%20court%20judgments.md) | Statute of limitations, and State court judgments. |
-| [1091b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091b%20-%20Institutional%20refunds.md) | Institutional refunds. |
-| [1091c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091c%20-%20Readmission%20requirements%20for%20servicemembers.md) | Readmission requirements for servicemembers. |
-| [1092\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092%20-%20Institutional%20and%20financial%20assistance%20information%20for%20students.md) | Institutional and financial assistance information for students. |
-| [1092a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092a%20-%20Combined%20payment%20plan.md) | Combined payment plan. |
-| [1092b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092b%20-%20National%20Student%20Loan%20Data%20System.md) | National Student Loan Data System. |
-| [1092c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092c%20-%20Simplification%20of%20lending%20process%20for%20borrowers.md) | Simplification of lending process for borrowers. |
-| [1092d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092d%20-%20Scholarship%20fraud%20assessment%20and%20awareness%20activities.md) | Scholarship fraud assessment and awareness activities. |
-| [1092e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092e%20-%20College%20access%20initiative.md) | College access initiative. |
-| [1092f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092f%20-%20Early%20awareness%20of%20financial%20aid%20eligibility.md) | Early awareness of financial aid eligibility. |
-| [1093\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093%20-%20Distance%20education%20demonstration%20programs.md) | Distance education demonstration programs. |
-| [1093a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093a%20-%20Articulation%20agreements.md) | Articulation agreements. |
-| [1094\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094%20-%20Program%20participation%20agreements.md) | Program participation agreements. |
-| [1094a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094a%20-%20Regulatory%20relief%20and%20improvement.md) | Regulatory relief and improvement. |
-| [1094b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094b%20-%20Assignment%20of%20identification%20numbers.md) | Assignment of identification numbers. |
-| [1095\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001095%20-%20Transfer%20of%20allotments.md) | Transfer of allotments. |
-| [1095a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001095a%20-%20Wage%20garnishment%20requirement.md) | Wage garnishment requirement. |
-| [1096\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001096%20-%20Administrative%20expenses.md) | Administrative expenses. |
-| [1096a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001096a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93325%2C%20title%20IV%2C%20%C2%A7494%2C%20July%2023%2C%201992%2C%20106%20Stat.%20631.md) | Repealed. |
-| [1097\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001097%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [1097a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001097a%20-%20Administrative%20subpoenas.md) | Administrative subpoenas. |
-| [1098\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098%20-%20Advisory%20Committee%20on%20Student%20Financial%20Assistance.md) | Advisory Committee on Student Financial Assistance. |
-| [1098a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098a%20-%20Regional%20meetings%20and%20negotiated%20rulemaking.md) | Regional meetings and negotiated rulemaking. |
-| [1098b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098b%20-%20Authorization%20of%20appropriations%20for%20administrative%20expenses.md) | Authorization of appropriations for administrative expenses. |
-| [1098c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098c%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93315%2C%20title%20IV%2C%20%C2%A7494E%2C%20Aug.%2014%2C%202008%2C%20122%20Stat.%203324.md) | Repealed. |
-| [1098d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098d%20-%20Procedures%20for%20cancellations%20and%20deferments%20for%20eligible%20disabled%20veterans.md) | Procedures for cancellations and deferments for eligible disabled veterans. |
-| [1098e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098e%20-%20Income-based%20repayment.md) | Income-based repayment. |
-| [1098f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098f%20-%20Deferral%20of%20loan%20repayment%20following%20active%20duty.md) | Deferral of loan repayment following active duty. |
-| [1098g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098g%20-%20Exemption%20from%20State%20disclosure%20requirements.md) | Exemption from State disclosure requirements. |
+| [1088\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001088%20-%20Definitions.md) | Definitions. |
+| [1088a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001088a%20-%20Clock%20and%20credit%20hour%20treatment%20of%20diploma%20nursing%20schools.md) | Clock and credit hour treatment of diploma nursing schools. |
+| [1089\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001089%20-%20Master%20calendar.md) | Master calendar. |
+| [1090\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001090%20-%20Forms%20and%20regulations.md) | Forms and regulations. |
+| [1091\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091%20-%20Student%20eligibility.md) | Student eligibility. |
+| [1091a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091a%20-%20Statute%20of%20limitations%2C%20and%20State%20court%20judgments.md) | Statute of limitations, and State court judgments. |
+| [1091b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091b%20-%20Institutional%20refunds.md) | Institutional refunds. |
+| [1091c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091c%20-%20Readmission%20requirements%20for%20servicemembers.md) | Readmission requirements for servicemembers. |
+| [1092\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092%20-%20Institutional%20and%20financial%20assistance%20information%20for%20students.md) | Institutional and financial assistance information for students. |
+| [1092a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092a%20-%20Combined%20payment%20plan.md) | Combined payment plan. |
+| [1092b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092b%20-%20National%20Student%20Loan%20Data%20System.md) | National Student Loan Data System. |
+| [1092c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092c%20-%20Simplification%20of%20lending%20process%20for%20borrowers.md) | Simplification of lending process for borrowers. |
+| [1092d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092d%20-%20Scholarship%20fraud%20assessment%20and%20awareness%20activities.md) | Scholarship fraud assessment and awareness activities. |
+| [1092e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092e%20-%20College%20access%20initiative.md) | College access initiative. |
+| [1092f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092f%20-%20Early%20awareness%20of%20financial%20aid%20eligibility.md) | Early awareness of financial aid eligibility. |
+| [1093\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093%20-%20Distance%20education%20demonstration%20programs.md) | Distance education demonstration programs. |
+| [1093a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093a%20-%20Articulation%20agreements.md) | Articulation agreements. |
+| [1094\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094%20-%20Program%20participation%20agreements.md) | Program participation agreements. |
+| [1094a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094a%20-%20Regulatory%20relief%20and%20improvement.md) | Regulatory relief and improvement. |
+| [1094b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094b%20-%20Assignment%20of%20identification%20numbers.md) | Assignment of identification numbers. |
+| [1095\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001095%20-%20Transfer%20of%20allotments.md) | Transfer of allotments. |
+| [1095a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001095a%20-%20Wage%20garnishment%20requirement.md) | Wage garnishment requirement. |
+| [1096\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001096%20-%20Administrative%20expenses.md) | Administrative expenses. |
+| [1096a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001096a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93325%2C%20title%20IV%2C%20%C2%A7494%2C%20July%2023%2C%201992%2C%20106%20Stat.%20631.md) | Repealed. |
+| [1097\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001097%20-%20Criminal%20penalties.md) | Criminal penalties. |
+| [1097a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001097a%20-%20Administrative%20subpoenas.md) | Administrative subpoenas. |
+| [1098\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098%20-%20Advisory%20Committee%20on%20Student%20Financial%20Assistance.md) | Advisory Committee on Student Financial Assistance. |
+| [1098a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098a%20-%20Regional%20meetings%20and%20negotiated%20rulemaking.md) | Regional meetings and negotiated rulemaking. |
+| [1098b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098b%20-%20Authorization%20of%20appropriations%20for%20administrative%20expenses.md) | Authorization of appropriations for administrative expenses. |
+| [1098c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098c%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93315%2C%20title%20IV%2C%20%C2%A7494E%2C%20Aug.%2014%2C%202008%2C%20122%20Stat.%203324.md) | Repealed. |
+| [1098d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098d%20-%20Procedures%20for%20cancellations%20and%20deferments%20for%20eligible%20disabled%20veterans.md) | Procedures for cancellations and deferments for eligible disabled veterans. |
+| [1098e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098e%20-%20Income-based%20repayment.md) | Income-based repayment. |
+| [1098f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098f%20-%20Deferral%20of%20loan%20repayment%20following%20active%20duty.md) | Deferral of loan repayment following active duty. |
+| [1098g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098g%20-%20Exemption%20from%20State%20disclosure%20requirements.md) | Exemption from State disclosure requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F–1—Higher Education Relief Opportunities for Students
+#### Part G–1—Higher Education Relief Opportunities for Students
 
 |  |  |
 | :--- | ---: |
-| [1098aa.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098aa%20-%20Short%20title%3B%20findings%3B%20reference.md) | Short title; findings; reference. |
-| [1098bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098bb%20-%20Waiver%20authority%20for%20response%20to%20military%20contingencies%20and%20national%20emergencies.md) | Waiver authority for response to military contingencies and national emergencies. |
-| [1098cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098cc%20-%20Tuition%20refunds%20or%20credits%20for%20members%20of%20armed%20forces.md) | Tuition refunds or credits for members of armed forces. |
-| [1098dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098dd%20-%20Use%20of%20professional%20judgment.md) | Use of professional judgment. |
-| [1098ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098ee%20-%20Definitions.md) | Definitions. |
-| [1099\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001099%20-%20Transferred.md) | Transferred. |
+| [1098aa.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098aa%20-%20Short%20title%3B%20findings%3B%20reference.md) | Short title; findings; reference. |
+| [1098bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098bb%20-%20Waiver%20authority%20for%20response%20to%20military%20contingencies%20and%20national%20emergencies.md) | Waiver authority for response to military contingencies and national emergencies. |
+| [1098cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098cc%20-%20Tuition%20refunds%20or%20credits%20for%20members%20of%20armed%20forces.md) | Tuition refunds or credits for members of armed forces. |
+| [1098dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098dd%20-%20Use%20of%20professional%20judgment.md) | Use of professional judgment. |
+| [1098ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098ee%20-%20Definitions.md) | Definitions. |
+| [1099\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001099%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part G—Program Integrity
+#### Part H—Program Integrity
 
 #### subpart 1—state role
 
 |  |  |
 | :--- | ---: |
-| [1099a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20Program%20Integrity/Subpart%20001%20-%20State%20Role/%C2%A7%2001099a%20-%20State%20responsibilities.md) | State responsibilities. |
+| [1099a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20H%20-%20Program%20Integrity/Subpart%20001%20-%20State%20Role/%C2%A7%2001099a%20-%20State%20responsibilities.md) | State responsibilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -635,7 +650,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1099b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20Program%20Integrity/Subpart%20002%20-%20Accrediting%20Agency%20Recognition/%C2%A7%2001099b%20-%20Recognition%20of%20accrediting%20agency%20or%20association.md) | Recognition of accrediting agency or association. |
+| [1099b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20H%20-%20Program%20Integrity/Subpart%20002%20-%20Accrediting%20Agency%20Recognition/%C2%A7%2001099b%20-%20Recognition%20of%20accrediting%20agency%20or%20association.md) | Recognition of accrediting agency or association. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -643,25 +658,17 @@
 
 |  |  |
 | :--- | ---: |
-| [1099c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20Program%20Integrity/Subpart%20003%20-%20Eligibility%20and%20Certification%20Procedures/%C2%A7%2001099c%20-%20Eligibility%20and%20certification%20procedures.md) | Eligibility and certification procedures. |
+| [1099c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20H%20-%20Program%20Integrity/Subpart%20003%20-%20Eligibility%20and%20Certification%20Procedures/%C2%A7%2001099c%20-%20Eligibility%20and%20certification%20procedures.md) | Eligibility and certification procedures. |
 | 1099c–1. | Program review and data. |
 | 1099c–2. | Review of regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part H—Competitive Loan Auction Pilot Program
+#### Part I—Competitive Loan Auction Pilot Program
 
 |  |  |
 | :--- | ---: |
-| [1099d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20H%20-%20Competitive%20Loan%20Auction%20Pilot%20Program/%C2%A7%2001099d%20-%20Competitive%20loan%20auction%20pilot%20program.md) | Competitive loan auction pilot program. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part I—Transferred
-
-|  |  |
-| :--- | ---: |
-| [1099e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20I%20-%20Transferred/%C2%A7%2001099e%20-%20Transferred.md) | Transferred. |
+| [1099d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20I%20-%20Competitive%20Loan%20Auction%20Pilot%20Program/%C2%A7%2001099d%20-%20Competitive%20loan%20auction%20pilot%20program.md) | Competitive loan auction pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

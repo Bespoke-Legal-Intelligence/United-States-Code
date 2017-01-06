@@ -42,7 +42,7 @@ Pub. L. 97–35, title I, §125, Aug. 13, 1981, 95 Stat. 369, provided that: "No
 
 #### Transfer of Functions From Secretary of Interior to Secretary of Agriculture
 
-Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorganization Plan Numbered 1 of1959, provided: "That, except as otherwise provided in section 2 hereof, the following functions are hereby transferred to the Secretary of Agriculture:
+Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorganization Plan Numbered 1 of 1959, provided: "That, except as otherwise provided in section 2 hereof, the following functions are hereby transferred to the Secretary of Agriculture:
 
 "(a) The functions of the Secretary of the Interior under the Act of March 20, 1922, 42 Stat. 465, as amended (16 U.S.C. 485, 486), with respect to exchanges of non-Federal lands for national forest lands or timber.
 

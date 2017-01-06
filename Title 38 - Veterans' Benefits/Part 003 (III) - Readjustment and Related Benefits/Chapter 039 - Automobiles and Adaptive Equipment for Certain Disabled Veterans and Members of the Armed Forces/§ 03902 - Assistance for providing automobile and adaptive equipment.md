@@ -12,7 +12,7 @@
 
 (e) Effective on October 1 of each year (beginning in 2011), the Secretary shall increase the dollar amount in effect under subsection (a) by a percentage equal to the percentage by which the Consumer Price Index for all urban consumers (U.S. city average) increased during the 12-month period ending with the last month for which Consumer Price Index data is available. In the event that such Consumer Price Index does not increase during such period, the Secretary shall maintain the dollar amount in effect under subsection (a) during the previous fiscal year.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664; Pub. L.111–275, title VIII, §804(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 111–275, title VIII, §804(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
 
 #### Amendments
 
@@ -85,4 +85,112 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 #### Effective Date of 1974 Amendment
 
 Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
+
+#### Comprehensive Policy for the Automobile Adaptive Equipment Program
+
+Pub. L. 114–256, §3, Dec. 14, 2016, 130 Stat. 1345, provided that:
+
+"(a)
+
+Comprehensive Policy.—The Secretary of Veterans Affairs shall develop a comprehensive policy regarding quality standards for providers who provide modification services to veterans under the automobile adaptive equipment program.
+
+"(b)
+
+Scope.—The policy developed under subsection (a) shall cover each of the following:
+
+&emsp;"(1) The Department of Veterans Affairs-wide management of the automobile adaptive equipment program.
+
+&emsp;"(2) The development of standards for safety and quality of equipment and installation of equipment through the automobile adaptive equipment program, including with respect to the defined differentiations in levels of modification complexity.
+
+&emsp;"(3) The consistent application of standards for safety and quality of both equipment and installation throughout the Department.
+
+&emsp;"(4) In accordance with subsection (c)(1), the certification of a provider by a manufacturer if the Secretary designates the quality standards of such manufacturer as meeting or exceeding the standards developed under this section.
+
+&emsp;"(5) In accordance with subsection (c)(2), the certification of a provider by a third party, nonprofit organization if the Secretary designates the quality standards of such organization as meeting or exceeding the standards developed under this section.
+
+&emsp;"(6) The education and training of personnel of the Department who administer the automobile adaptive equipment program.
+
+&emsp;"(7) The compliance of the provider with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) when furnishing automobile adaptive equipment at the facility of the provider.
+
+&emsp;"(8) The allowance, where technically appropriate, for veterans to receive modifications at their residence or location of choice, including standards that ensure such receipt and notification to veterans of the availability of such receipt.
+
+"(c)
+
+Certification of Manufacturers and Third Party, Nonprofit Organizations.—
+
+&emsp;"(1)
+
+Certification of manufacturers.—The Secretary shall approve a manufacturer as a certifying manufacturer for purposes of subsection (b)(4), if the manufacturer demonstrates that its certification standards meet or exceed the quality standards developed under this section.
+
+&emsp;"(2)
+
+Certification of third party, nonprofit organizations.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary may approve two or more private, nonprofit organizations as third party, nonprofit certifying organizations for purposes of subsection (b)(5).
+
+&emsp;&emsp;"(B)
+
+Limitation.—If at any time there is only one third party, nonprofit certifying organization approved by the Secretary for purposes of subsection (b)(5), such organization shall not be permitted to provide certifications under such subsection until such time as the Secretary approves a second third party, nonprofit certifying organization for purposes of such subsection.
+
+"(d)
+
+Updates.—
+
+&emsp;"(1)
+
+Initial updates.—Not later than 1 year after the date of the enactment of this Act \[Dec. 14, 2016\], the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a).
+
+&emsp;"(2)
+
+Subsequent updates.—Not less frequently than once every 6 years thereafter, the Secretary shall update such handbook, or any successor handbook or directive.
+
+"(e)
+
+Consultation.—The Secretary shall develop the policy under subsection (a), and revise such policy under subsection (d), in consultation with veterans service organizations, the National Highway Transportation Administration, industry representatives, manufacturers of automobile adaptive equipment, and other entities with expertise in installing, repairing, replacing, or manufacturing mobility equipment or developing mobility accreditation standards for automobile adaptive equipment.
+
+"(f)
+
+Conflicts.—In developing and implementing the policy under subsection (a), the Secretary shall—
+
+&emsp;"(1) minimize the possibility of conflicts of interest, to the extent practicable; and
+
+&emsp;"(2) establish procedures that ensure against the use of a certifying organization referred to in subsection (b)(5) that has a financial conflict of interest regarding the certification of an eligible provider.
+
+"(g)
+
+Biennial Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date on which the Secretary updates Veterans HealthAdministration Handbook 1173.4, or any successor handbook or directive, under subsection (d), and not less frequently than once every other year thereafter through 2022, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the implementation and facility compliance with the policy developed under subsection (a).
+
+&emsp;"(2)
+
+Contents.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the implementation plan for the policy developed under subsection (a) and any revisions to such policy under subsection (d).
+
+&emsp;&emsp;"(B) A description of the performance measures used to determine the effectiveness of such policy in ensuring the safety of veterans enrolled in the automobile adaptive equipment program.
+
+&emsp;&emsp;"(C) An assessment of safety issues due to improper installations based on a survey of recipients of adaptive equipment from the Department.
+
+&emsp;&emsp;"(D) An assessment of the adequacy of the adaptive equipment services of the Department based on a survey of recipients of adaptive equipment from the Department.
+
+&emsp;&emsp;"(E) An assessment of the training provided to the personnel of the Department with respect to administering the program.
+
+&emsp;&emsp;"(F) An assessment of the certified providers of the Department of adaptive equipment with respect to meeting the minimum standards developed under subsection (b)(2).
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Automobile adaptive equipment program.—The term 'automobile adaptive equipment program' means the program administered by the Secretary of Veterans Affairs pursuant to chapter 39 of title 38, United States Code.
+
+&emsp;"(2)
+
+Veterans service organization.—The term 'veterans service organization' means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code."
 

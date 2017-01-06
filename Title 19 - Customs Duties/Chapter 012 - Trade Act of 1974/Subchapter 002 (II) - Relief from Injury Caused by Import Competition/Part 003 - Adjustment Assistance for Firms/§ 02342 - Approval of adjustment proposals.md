@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment assistance
 
-A firm certified under section 2341 of this title as eligible to apply for adjustment assistancemay, at any time within 2 years after the date of such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
+A firm certified under section 2341 of this title as eligible to apply for adjustment assistance may, at any time within 2 years after the date of such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
 
 #### (b) Technical assistance
 

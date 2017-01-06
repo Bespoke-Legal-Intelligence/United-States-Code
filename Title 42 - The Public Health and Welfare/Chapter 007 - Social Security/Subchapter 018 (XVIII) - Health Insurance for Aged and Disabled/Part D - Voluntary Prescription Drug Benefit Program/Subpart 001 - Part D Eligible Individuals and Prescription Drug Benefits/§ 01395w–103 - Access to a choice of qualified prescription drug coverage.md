@@ -24,7 +24,7 @@
 
 #### (b) Flexibility in risk assumed and application of fallback plan
 
-In order to ensure access pursuant to subsection (a) of this section in an area—
+In order to ensure access pursuant to subsection (a) in an area—
 
 &emsp;(1) the Secretary may approve limited risk plans under section 1395w–111(f) of this title for the area; and
 

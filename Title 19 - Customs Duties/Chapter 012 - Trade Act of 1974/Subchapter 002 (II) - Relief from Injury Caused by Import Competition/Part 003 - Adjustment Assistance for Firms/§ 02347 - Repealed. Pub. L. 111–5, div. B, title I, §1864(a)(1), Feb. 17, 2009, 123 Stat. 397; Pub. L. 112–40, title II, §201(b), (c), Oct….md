@@ -4,7 +4,7 @@ Section, Pub. L. 93–618, title II, §257, Jan. 3, 1975, 88 Stat. 2033; Pub. L.
 
 #### Termination of Repeal
 
-<i>For termination of repeal of section beginning on July 1, 2021, with certain exceptions and</i><i>subject to section 406(b) of Pub. L. 114–27, see Effective and Termination Dates of Repeal notes below.</i>
+<i>For termination of repeal of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Effective and Termination Dates of Repeal notes below.</i>
 
 #### Effective and Termination Dates of Repeal
 

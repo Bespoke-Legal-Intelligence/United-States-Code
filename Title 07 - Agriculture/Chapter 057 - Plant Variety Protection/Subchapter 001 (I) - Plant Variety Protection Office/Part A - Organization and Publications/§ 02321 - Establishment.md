@@ -10,7 +10,7 @@ There is hereby established in the Department of Agriculture an office to be kno
 
 #### Effective Date
 
-Pub. L. 91–577, title III, §141, Dec. 24, 1970, 84 Stat. 1558, provided that: "This Act \[this chapter\] shall take effect upon enactment \[Dec. 24, 1970\]. Applications may be filed with the Secretary and held by him until the Office of Plant Variety Protection is organized and in operation".
+Pub. L. 91–577, title III, §141, Dec. 24, 1970, 84 Stat. 1558, provided that: "This Act \[this chapter\] shall take effect upon enactment \[Dec. 24, 1970\]. Applications may be filed with the Secretary and held by him until theOffice of Plant Variety Protection is organized and in operation".
 
 #### Short Title of 1994 Amendment
 

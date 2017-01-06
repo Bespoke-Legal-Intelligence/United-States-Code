@@ -20,7 +20,7 @@ Limitations.—(1) Equipment may be accepted under subsection (a)(1) only to the
 
 (d)
 
-Liability.—A person providing services accepted under this section may not be considered, by reason of the provision of such services, to bean officer, employee, or agent of the United States for any purpose.
+Liability.—A person providing services accepted under this section may not be considered, by reason of the provision of such services, to be an officer, employee, or agent of the United States for any purpose.
 
 (Added Pub. L. 108–375, div. A, title X, §1051(a), Oct. 28, 2004, 118 Stat. 2053, §2613; renumbered §2614 and amended Pub. L. 109–364, div. A, title X, §1071(a)(19)(A), Oct. 17, 2006, 120 Stat. 2399.)
 

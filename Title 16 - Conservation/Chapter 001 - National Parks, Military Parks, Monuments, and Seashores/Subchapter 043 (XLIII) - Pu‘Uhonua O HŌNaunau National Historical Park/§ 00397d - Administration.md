@@ -1,6 +1,6 @@
 ### §397d. Administration
 
-The Pu‘uhonua o Hōnaunau National Historical Park shall be administered by the Secretary of the Interior subject to the provisions of theAct of August 25, 1916 (39 Stat. 535; 16 U.S.C., 1946 edition, secs. 1–4),<sup>1</sup> as amended and supplemented, and such additional authority compatible therewith as is contained in the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C., 1946 edition, secs. 461–467),<sup>1</sup> with regard to preservation of historic sites and objects of national significance.
+The Pu‘uhonua o Hōnaunau National Historical Park shall be administered by the Secretary of the Interior subject to the provisions of the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C., 1946 edition, secs. 1–4),<sup>1</sup> as amended and supplemented, and such additional authority compatible therewith as is contained in the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C., 1946 edition, secs. 461–467),<sup>1</sup> with regard to preservation of historic sites and objects of national significance.
 
 (July 26, 1955, ch. 385, §5, 69 Stat. 379; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477; Pub. L. 106–510, §3(d)(1), Nov. 13, 2000, 114 Stat. 2364.)
 

@@ -8,7 +8,43 @@ In General.—The Secretary of Transportation shall maintain the United States M
 
 Recruitment.—The Secretary of Transportation may, subject to the availability of appropriations, expend funds available for United States Merchant Marine Academy operating expenses for recruiting activities, including advertising, in order to obtain recruits for the Academy and cadet applicants.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955.)
+(c)
+
+Superintendent.—
+
+&emsp;(1)
+
+In general.—The immediate command of the United States Merchant Marine Academy shall be in the Superintendent of the Academy, subject to the direction of the Maritime Administrator under the general supervision of the Secretary of Transportation.
+
+&emsp;(2)
+
+Appointment.—The Secretary of Transportation shall appoint as the Superintendent—
+
+&emsp;&emsp;(A) an individual who has—
+
+&emsp;&emsp;&emsp;(i) attained a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
+
+&emsp;&emsp;&emsp;(ii) served at sea in any rank;
+
+&emsp;&emsp;(B) an individual who has—
+
+&emsp;&emsp;&emsp;(i)(I) served at sea in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+
+&emsp;&emsp;&emsp;(II) held a valid Coast Guard merchant mariner credential; and
+
+&emsp;&emsp;&emsp;(ii) demonstrated exemplary leadership in the education of individuals in the Armed Forces or United States merchant marine; or
+
+&emsp;&emsp;(C) if a qualified individual described in subparagraph (A) or (B) does not apply for the position, an individual who has—
+
+&emsp;&emsp;&emsp;(i) attained the grade of captain or above in the Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
+
+&emsp;&emsp;&emsp;(ii) served at sea in any grade.
+
+&emsp;(3)
+
+Rule of construction.—Notwithstanding paragraph (2), the Secretary of Transportation may appoint an individual who is the best qualified candidate, even if such individual does not fully meet the criteria described in paragraph (2).
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–81, div. C, title XXXV, §3503, Dec. 31, 2011, 125 Stat. 1716; Pub. L.112–239, div. A, title X, §1076(i), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. C, title XXXV, §3506(a), Dec. 23, 2016, 130 Stat. 2777.)
 
 Historical and Revision Notes
 
@@ -28,6 +64,8 @@ June 29, 1936, ch. 858, title XIII, §1303(a), as added Pub. L. 96–453, §2, O
 
 #### Amendments
 
+<b>2016</b>—Subsec. (c). Pub. L. 114–328 added subsec. (c).
+
 <b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted "
 
 In General" for "
@@ -38,75 +76,29 @@ IN General" in heading.
 
 Pub. L. 111–383 inserted "as an institution of higher education" after "Academy" and substituted "States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize." for "States."
 
-#### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
+#### Savings Clause
 
-Pub. L. 110–417, div. C, title XXXV, §3507, Oct. 14, 2008, 122 Stat. 4765, provided that:
+Pub. L. 114–328, div. C, title XXXV, §3506(b), Dec. 23, 2016, 130 Stat. 2777, provided that: "Nothing in this section \[amending this section\] may be construed to require any change to the current leadership of the United States Merchant Marine Academy."
 
-"(a)
+#### Class Profiles
 
-Required Policy.—The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
+Pub. L. 114–328, div. C, title XXXV, §3516(b), Dec. 23, 2016, 130 Stat. 2789, provided that:
 
-"(b)
+"(1)
 
-Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence prescribed under this section shall include—
+In general.—Not later than August 31 of each year, the Superintendent of the United States Merchant Marine Academy shall post on the Academy's public website a profile of each class at the Academy.
 
-&emsp;"(1) a program to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
+"(2)
 
-&emsp;"(2) procedures that a cadet should follow in the case of an occurrence of sexual harassment or sexual violence, including—
+Contents.—Each profile posted under paragraph (1) shall include, for the incoming class of the Academy and for the 4 classes that preceded that class at the Academy, the number and percentage of students by—
 
-&emsp;&emsp;"(A) a specification of the person or persons to whom an alleged occurrence of sexual harassment or sexual violence should be reported by a cadet and the options for confidential reporting;
+&emsp;"(A) State;
 
-&emsp;&emsp;"(B) a specification of any other person whom the victim should contact; and
+&emsp;"(B) country;
 
-&emsp;&emsp;"(C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault;
+&emsp;"(C) gender;
 
-&emsp;"(3) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
+&emsp;"(D) race and ethnicity; and
 
-&emsp;"(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and
-
-&emsp;"(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
-
-"(c)
-
-Annual Assessment.—
-
-&emsp;"(1) The Secretary shall direct the Superintendent to conduct an assessment at the Academy during each Academy program year, to be administered by the Department of Transportation, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel.
-
-&emsp;"(2) For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey, to be administered by the Department, of Academy personnel—
-
-&emsp;&emsp;"(A) to measure—
-
-&emsp;&emsp;&emsp;"(i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to officials of the Academy; and
-
-&emsp;&emsp;&emsp;"(ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to officials of the Academy; and
-
-&emsp;&emsp;"(B) to assess the perceptions of Academy personnel of—
-
-&emsp;&emsp;&emsp;"(i) the policies, training, and procedures on sexual harassment and sexual violence involving Academy personnel;
-
-&emsp;&emsp;&emsp;"(ii) the enforcement of such policies;
-
-&emsp;&emsp;&emsp;"(iii) the incidence of sexual harassment and sexual violence involving Academy personnel; and
-
-&emsp;&emsp;&emsp;"(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
-
-"(d)
-
-Annual Report.—
-
-&emsp;"(1) The Secretary shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
-
-&emsp;"(2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
-
-&emsp;&emsp;"(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
-
-&emsp;&emsp;"(B) The policies, procedures, and processes implemented by the Superintendent and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
-
-&emsp;&emsp;"(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
-
-&emsp;"(3) Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that program year under subsection (c)(2).
-
-&emsp;"(4)(A) The Superintendent shall transmit to the Secretary, and to the Board of Visitors of the Academy, each report received by the Superintendent under this subsection, together with the Superintendent's comments on the report.
-
-&emsp;"(B) The Secretary shall transmit each such report, together with the Secretary's comments on the report, to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure."
+&emsp;"(E) prior military service."
 

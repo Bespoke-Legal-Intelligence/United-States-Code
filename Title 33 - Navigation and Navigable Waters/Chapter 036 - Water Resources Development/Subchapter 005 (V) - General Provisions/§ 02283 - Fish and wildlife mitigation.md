@@ -20,7 +20,7 @@
 
 &emsp;(B) acquisition of water, or interests therein, under this paragraph, shall not be by condemnation.
 
-> The Secretary, shall, under the terms of this paragraph, obligate no more than $30,000,000 inany fiscal year. With respect to any water resources project, the authority under this subsection shall not apply to measures that cost more than $7,500,000 or 10 percent of the cost of the project, whichever is greater.
+> The Secretary, shall, under the terms of this paragraph, obligate no more than $30,000,000 in any fiscal year. With respect to any water resources project, the authority under this subsection shall not apply to measures that cost more than $7,500,000 or 10 percent of the cost of the project, whichever is greater.
 
 (2) Whenever, after his review, the Secretary determines that such mitigation features under this subsection are likely to require condemnation under subparagraph (A) or (B) of paragraph (1) of this subsection, the Secretary shall transmit to Congress a report on such proposed modification, together with his recommendations.
 
@@ -36,7 +36,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (2) Selection and design of mitigation projects
 
-&emsp;The Secretary shall select and design mitigation projects using a watershed approach to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
+&emsp;The Secretary shall select and design mitigation projects using a watershed approach toreflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
 
 #### (3) Mitigation requirements
 
@@ -78,7 +78,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (C) Responsibility for monitoring
 
-&emsp;&emsp;In any case in which it is not practicable to identify in a mitigation plan for a waterresources project the entity responsible for monitoring at the time of a final report of the Chief of Engineers or other final decision document for the project, such entity shall be identified in the partnership agreement entered into with the non-Federal interest under section 1962d–5b of title 42.
+&emsp;&emsp;In any case in which it is not practicable to identify in a mitigation plan for a water resources project the entity responsible for monitoring at the time of a final report of the Chief of Engineers or other final decision document for the project, such entity shall be identified in the partnership agreement entered into with the non-Federal interest under section 1962d–5b of title 42.
 
 #### (4) Determination of success
 
@@ -112,7 +112,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 &emsp;(3) such activities are located on lands managed as a national wildlife refuge.
 
-> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
+> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided bynon-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
@@ -120,7 +120,7 @@ Fish and wildlife enhancement measures carried out as part of the project for At
 
 #### (g) Fish and Wildlife Coordination Act supplementation
 
-The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
+The provisions of subsections (a), (b), and (d) shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
 
 #### (h) Programmatic mitigation plans
 
@@ -146,9 +146,11 @@ The provisions of subsections (a), (b), and (d) of this section shall be deemed 
 
 &emsp;&emsp;(C) identify priority areas for aquatic resource and fish and wildlife habitat protection or restoration;
 
-&emsp;&emsp;(D) encompass multiple environmental resources within a defined geographical area or focus on a specific resource, such as aquatic resources or wildlife habitat; and
+&emsp;&emsp;(D) include measures to protect or restore habitat connectivity;
 
-&emsp;&emsp;(E) address impacts from all projects in a defined geographical area or focus on a specific type of project.
+&emsp;&emsp;(E) encompass multiple environmental resources within a defined geographical area or focus on a specific resource, such as aquatic resources or wildlife habitat; and
+
+&emsp;&emsp;(F) address impacts from all projects in a defined geographical area or focus on a specific type of project.
 
 #### (5) Consultation
 
@@ -162,7 +164,7 @@ The provisions of subsections (a), (b), and (d) of this section shall be deemed 
 
 &emsp;&emsp;(B) an assessment of potential opportunities to improve the overall quality of environmental resources in the geographical area covered by the plan through strategic mitigation for impacts of water resources development projects;
 
-&emsp;&emsp;(C) standard measures for mitigating certain types of impacts;
+&emsp;&emsp;(C) standard measures for mitigating certain types of impacts, including impacts to habitat connectivity;
 
 &emsp;&emsp;(D) parameters for determining appropriate mitigation for certain types of impacts, such as mitigation ratios or criteria for determining appropriate mitigation sites;
 
@@ -182,7 +184,7 @@ The provisions of subsections (a), (b), and (d) of this section shall be deemed 
 
 &emsp;&emsp;&emsp;(ii) consider any comments received from those agencies and the public on the draft plan; and
 
-&emsp;&emsp;(B) for a plan developed under paragraph (3), determine, not later than 180 days after receiving the plan, whether the plan meets the requirements of paragraphs (4) through (6) and was made available for public comment.
+&emsp;&emsp;(B) for a plan developed under paragraph (3), determine, not later than 180 days after receiving the plan, whether the plan meets the requirements of paragraphs (4) through\(6) and was made available for public comment.
 
 #### (8) Integration with other plans
 
@@ -196,9 +198,13 @@ The provisions of subsections (a), (b), and (d) of this section shall be deemed 
 
 &emsp;Nothing in this subsection limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-#### (11) Mitigation for existing projects
+#### (11) Effect
 
-&emsp;Nothing in this subsection requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated.
+&emsp;Nothing in this subsection—
+
+&emsp;&emsp;(A) requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated, including the addition of fish passage to an existing water resources development project; or
+
+&emsp;&emsp;(B) affects the mitigation responsibilities of the Secretary under any other provision of law.
 
 #### (i) Third-party mitigation arrangements
 
@@ -230,7 +236,21 @@ The provisions of subsections (a), (b), and (d) of this section shall be deemed 
 
 &emsp;At the request of the non-Federal project sponsor, preference may be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project has been approved by the applicable Federal agency.
 
-(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, §1040(a), June 10, 2014, 128 Stat. 1239.)
+#### (j) Use of funds
+
+#### (1) In general
+
+&emsp;The Secretary, with the consent of the applicable non-Federal interest, may use funds made available for preconstruction engineering and design after authorization of project construction to satisfy mitigation requirements through third-party arrangements or to acquire interests in land necessary for meeting mitigation requirements under this section.
+
+#### (2) Notification
+
+&emsp;Prior to the expenditure of any funds for a project pursuant to paragraph (1), the Secretary shall notify the Committee on Appropriations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Appropriations and the Committee on Environment and Public Works of the Senate.
+
+#### (k) Measures
+
+The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
+
+(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, §1040(a), June 10, 2014, 128 Stat. 1239; Pub. L. 114–322, title I, §1162, Dec. 16, 2016, 130 Stat. 1668.)
 
 #### References in Text
 
@@ -245,6 +265,14 @@ The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 1
 The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h)(4)(D) to (F). Pub. L. 114–322, §1162(1)(A), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (h)(6)(C). Pub. L. 114–322, §1162(1)(B), substituted "impacts, including impacts to habitat connectivity" for "impacts".
+
+Subsec. (h)(11). Pub. L. 114–322, §1162(1)(C), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: "Nothing in this subsection requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated."
+
+Subsecs. (j), (k). Pub. L. 114–322, §1162(2), added subsecs. (j) and (k).
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–121, §1040(a)(1)(A), inserted "for damages to ecological resources, including terrestrial and aquatic resources, and" after "mitigate", "ecological resources and" after "impact on", "without the implementation of mitigation measures" before period at end of first sentence, and "If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of section 2317(a)(1) of this title." after "to the extent possible."
 

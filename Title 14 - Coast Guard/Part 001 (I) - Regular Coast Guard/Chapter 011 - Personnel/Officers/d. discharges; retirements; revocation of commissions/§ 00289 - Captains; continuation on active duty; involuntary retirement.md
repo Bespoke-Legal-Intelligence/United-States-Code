@@ -4,7 +4,7 @@
 
 (b) Whenever he convenes a board under this section, the Secretary shall establish a continuation zone. The zone shall consist of the most senior captains eligible for consideration for continuation on active duty who have not previously been placed in a continuation zone under this section. The Secretary shall, based upon the needs of the service, prescribe the number of captains to be included in the zone.
 
-(c) Based on the needs of the service the Secretary shall furnish the board with the number of officers that may be recommended for continuation on active duty. This number shall be no less than 50 percent of the number considered. The board shall select from the designated continuation zone, in the number directed by the Secretary, those officers who are, in the opinion of the board, best qualified for continuation on active duty.
+(c) Based on the needs of the service the Secretary shall furnish the board with the numberof officers that may be recommended for continuation on active duty. This number shall be no less than 50 percent of the number considered. The board shall select from the designated continuation zone, in the number directed by the Secretary, those officers who are, in the opinion of the board, best qualified for continuation on active duty.
 
 (d) The provisions of sections 253, 254, 258, and 260 of this title relating to selection for promotion shall, to the extent that they are not inconsistent with the provisions of this section, apply to boards convened under this section.
 

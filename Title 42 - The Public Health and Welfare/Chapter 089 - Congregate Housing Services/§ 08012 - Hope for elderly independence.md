@@ -38,7 +38,7 @@ An application under this section shall be submitted by a public housing agency 
 
 &emsp;(2) a description of the size and characteristics of the population of frail elderly persons and of their housing and supportive services needs;
 
-&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additional eligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
+&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additionaleligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
 
 &emsp;(4) a statement that the public housing agency will create a professional assessment committee or will work with another entity which will assist the public housing agency in identifying and providing only services that each frail elderly person needs to remain living independently;
 
@@ -92,7 +92,7 @@ The Secretary may not approve any assistance for any program under this section 
 
 &emsp;(2) to conduct an ongoing assessment of the housing assistance and supportive services required by each frail elderly person participating in the program;
 
-&emsp;(3) to ensure the adequate provision of supportive services, at a reasonable cost, to eachfrail elderly person participating in the program; and
+&emsp;(3) to ensure the adequate provision of supportive services, at a reasonable cost, to each frail elderly person participating in the program; and
 
 &emsp;(4) to comply with such other terms and conditions as the Secretary may establish for purposes of carrying out the program in an effective and efficient manner.
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (i) Report
 
-The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The report shall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any otherinformation the Secretary considers appropriate in evaluating the demonstration.
+The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The report shall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any other information the Secretary considers appropriate in evaluating the demonstration.
 
 #### (j) Section 1437f funding
 

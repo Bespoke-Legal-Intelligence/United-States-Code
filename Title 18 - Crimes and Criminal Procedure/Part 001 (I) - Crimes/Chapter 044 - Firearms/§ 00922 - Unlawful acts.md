@@ -20,7 +20,7 @@
 
 &emsp;(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity;
 
-&emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a person who is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a personwho is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(6) for any person in connection with the acquisition or attempted acquisition of any firearm or ammunition from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, knowingly to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive such importer, manufacturer, dealer, or collector with respect to any fact material to the lawfulness of the sale or other disposition of such firearm or ammunition under the provisions of this chapter;
 
@@ -68,7 +68,7 @@
 
 > &emsp;and containing blank spaces for the attachment of a true copy of any permit or other information required pursuant to such statute or published ordinance;
 
-&emsp;(2) the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to acceptsuch letter in accordance with United States Post Office Department regulations; and
+&emsp;(2) the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; and
 
 &emsp;(3) the transferor has delayed shipment or delivery for a period of at least seven days following receipt of the notification of the acceptance or refusal of delivery of the statement.
 
@@ -134,7 +134,7 @@
 
 &emsp;(8) who is subject to a court order that—
 
-&emsp;&emsp;(A) was issued after a hearing of which such person received actual notice, and atwhich such person had an opportunity to participate;
+&emsp;&emsp;(A) was issued after a hearing of which such person received actual notice, and at which such person had an opportunity to participate;
 
 &emsp;&emsp;(B) restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child; and
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(ii) suitable for testing and calibrating metal detectors:
 
-> &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a "Security Exemplar" which contains 3.7 ounces of material type 17–4 PHstainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
+> &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a "Security Exemplar" which contains 3.7 ounces of material type 17–4 PH stainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
 
 (3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
 
@@ -244,7 +244,7 @@
 
 &emsp;(vi) by a law enforcement officer acting in his or her official capacity; or
 
-&emsp;(vii) that is unloaded and is possessed by an individual while traversing school premises for the purpose of gaining access to public or private lands open to hunting, if the entry on school premises is authorized by school authorities.
+&emsp;(vii) that is unloaded and is possessed by an individual while traversing school premises for the purpose of gaining access to public or private lands open to hunting, if the entry onschool premises is authorized by school authorities.
 
 (3)(A) Except as provided in subparagraph (B), it shall be unlawful for any person, knowingly or with reckless disregard for the safety of another, to discharge or attempt to discharge a firearm that has moved in or that otherwise affects interstate or foreign commerce at a place that the person knows is a school zone.
 
@@ -254,7 +254,7 @@
 
 &emsp;(ii) as part of a program approved by a school in the school zone, by an individual who is participating in the program;
 
-&emsp;(iii) by an individual in accordance with a contract entered into between a school in aschool zone and the individual or an employer of the individual; or
+&emsp;(iii) by an individual in accordance with a contract entered into between a school in a school zone and the individual or an employer of the individual; or
 
 &emsp;(iv) by a law enforcement officer acting in his or her official capacity.
 
@@ -372,7 +372,7 @@
 
 &emsp;(B)(i) the system provides the licensee with a unique identification number; or
 
-&emsp;(ii) 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
+&emsp;(ii) 3 business days (meaning a day on which State offices are open) have elapsed since thelicensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
 
 &emsp;(C) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d) of this title) of the transferee containing a photograph of the transferee.
 
@@ -382,7 +382,7 @@
 
 &emsp;(B) provide the licensee with the number; and
 
-&emsp;(C) destroy all records of the system with respect to the call (other than the identifyingnumber and the date the number was assigned) and all records of the system relating to the person or the transfer.
+&emsp;(C) destroy all records of the system with respect to the call (other than the identifying number and the date the number was assigned) and all records of the system relating to the person or the transfer.
 
 (3) Paragraph (1) shall not apply to a firearm transfer between a licensee and another person if—
 
@@ -592,10 +592,6 @@ Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(i
 
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is set out below.
 
-#### Constitutionality
-
-For information regarding constitutionality of certain provisions of this section, as added by section 102(a)(1) of Pub. L. 103–159, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 
 <b>2015</b>—Subsec. (z)(2)(B). Pub. L. 114–94 substituted "directly employed by or contracted by" for "employed by".
@@ -756,7 +752,7 @@ Subsec. (a)(3). Pub. L. 90–618 added licensed collectors to the enumerated lis
 
 Subsec. (a)(4). Pub. L. 90–618 added licensed collectors to the enumerated list of licensees, and provided that the transporting of the specified articles be authorized by the Secretary when consistent with public safety and necessity.
 
-Subsec. (a)(5). Pub. L. 90–618 added licensed collectors to the enumerated list of exempted licensees, prohibited the transfer, etc., of any firearm when the transferor has reasonable cause to believe that the transferee resides in a State other than that in which the transferor resides, and substituted provisions which exempted the transfer, transportation, or delivery of firearms incident to a bequest or intestate succession and the loan or rental of firearms to any person for temporary use for lawful sporting purposes for provisions which exempted the transfer of shotguns or rifles and prohibited the transfer, etc., of any firearm which the transferee could not lawfully purchase or possess in accord with the applicable laws, regulations or ordinances of the state or political subdivision in which the transferee resides.
+Subsec. (a)(5). Pub. L. 90–618 added licensed collectors to the enumerated list of exempted licensees, prohibited the transfer, etc., of any firearm when the transferor has reasonable cause to believe that the transferee resides in a State other than that in which the transferor resides, and substituted provisions which exempted the transfer, transportation, or delivery of firearms incident to a bequest or intestate succession and the loan or rental of firearms to any person for temporary use for lawful sporting purposes for provisionswhich exempted the transfer of shotguns or rifles and prohibited the transfer, etc., of any firearm which the transferee could not lawfully purchase or possess in accord with the applicable laws, regulations or ordinances of the state or political subdivision in which the transferee resides.
 
 Subsec. (a)(6). Pub. L. 90–618 added licensed collectors to the enumerated list of licensees, and extended the provisions to include the acquisition or attempted acquisition of ammunition.
 
@@ -814,7 +810,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Pub. L. 104–294, title VI, §603(c)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 320927 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
-Pub. L. 104–294, title VI, §603(f)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110201 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
+Pub. L. 104–294, title VI, §603(f)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110201of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
 Pub. L. 104–294, title VI, §603(i)(2), Oct. 11, 1996, 110 Stat. 3504, provided that: "The amendment made by paragraph (1) \[amending section 210603(b) of Pub. L. 103–322, which amended sections 103(k) and 106(b)(2) of Pub. L. 103–159, set out as notes below\] shall take effect as if the amendment had been included in section 210603(b) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
@@ -1012,7 +1008,7 @@ Standard for Adjudications and Commitments Related to Mental Health.—
 
 &emsp;"(1)
 
-In general.—No department or agency of the Federal Government may provide to the Attorney General any record of an adjudication related to the mental health of a person or any commitment of a person to a mental institution if—
+In general.—No department or agency of the Federal Government may provide to the AttorneyGeneral any record of an adjudication related to the mental health of a person or any commitment of a person to a mental institution if—
 
 &emsp;&emsp;"(A) the adjudication or commitment, respectively, has been set aside or expunged, or the person has otherwise been fully released or discharged from all mandatory treatment, supervision, or monitoring;
 
@@ -1158,7 +1154,7 @@ Authorization.—
 
 &emsp;"(1)
 
-In general.—From amounts made available to carry out this section and subject to section 102(b)(1)(B), the Attorney General shall make grants to States and Indian tribal governments, in a manner consistent with the National Criminal History Improvement Program, which shall be used by the States and Indian tribal governments, in conjunction with units of local government and State and local courts, to establish or upgrade information and identification technologies for firearms eligibility determinations. Not less than 3 percent, and no more than 10 percent of each grant under this paragraph shall be used to maintain the relief from disabilities program in accordance with section 105.
+In general.—From amounts made available to carry out this section and subject to section 102(b)(1)(B), the Attorney General shall make grants to States and Indian tribal governments, in a manner consistent with the National Criminal History Improvement Program, which shall be used by the States and Indian tribal governments, in conjunction with units of local government and State and local courts, to establish or upgrade information and identification technologies for firearms eligibility determinations. Not less than 3 percent, and no more than 10 percent of each grant under this paragraph shall beused to maintain the relief from disabilities program in accordance with section 105.
 
 &emsp;"(2)
 
@@ -1268,7 +1264,7 @@ Authority To Provide Relief From Certain Disabilities With Respect to Firearms.�
 
 "(a)
 
-In General.—Notwithstanding any other provision of law or of this Act, all records obtained by theNational Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
+In General.—Notwithstanding any other provision of law or of this Act, all records obtained by the National Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
 
 "(b)
 
@@ -1362,7 +1358,7 @@ Expedited Action by the Attorney General.—The Attorney General shall expedite�
 
 "(d)
 
-Notification of Licensees.—On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purposeof the system and the means to be used to contact the system.
+Notification of Licensees.—On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of the system and the means to be used to contact the system.
 
 "(e)
 
@@ -1466,7 +1462,7 @@ Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, provided tha
 
 "(a)
 
-Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall developa system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
+Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
 
 "(b)
 
@@ -1504,7 +1500,7 @@ Section 1. <i>Improving the Availability of Records to the NICS</i>. (a) Within 
 
 (d) To the extent they possess relevant records, as set forth in the guidance issued pursuant to subsection (a) of this section, agencies shall prioritize making those records available to the NICS on a regular and ongoing basis.
 
-Sec. 2. <i>Measuring Progress</i>. (a) By October 1, 2013, and annually thereafter, agencies that possess relevant records shall submit a report to the President through the Attorney General describing:
+Sec. 2. <i>Measuring Progress</i>. (a) By October 1, 2013, and annually thereafter, agencies that possess relevantrecords shall submit a report to the President through the Attorney General describing:
 
 (i) the relevant records possessed by the agency that can be shared with the NICS consistent with applicable law;
 

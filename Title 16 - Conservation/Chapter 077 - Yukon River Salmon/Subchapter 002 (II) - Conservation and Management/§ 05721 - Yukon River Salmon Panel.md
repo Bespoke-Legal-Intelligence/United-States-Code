@@ -36,7 +36,7 @@
 
 &emsp;(A) The Secretary of State shall appoint the members under paragraph (1)(C) from a list of at least three individuals nominated for each position by the Governor of Alaska.
 
-&emsp;(B) In making the nominations, the Governor of Alaska may consider suggestions for nominations provided by organizations with expertise in Yukon River salmon fisheries.
+&emsp;(B) In making the nominations, the Governor of Alaska may consider suggestions fornominations provided by organizations with expertise in Yukon River salmon fisheries.
 
 &emsp;(C) The Governor of Alaska may make appropriate nominations to allow for appointment of, and the Secretary of State shall appoint, under paragraph (1)(C)—
 
@@ -50,7 +50,7 @@
 
 &emsp;(A) The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under paragraphs (1)(A) and (C), who meets the same qualifications, to serve in the absence of the Panel member.
 
-&emsp;(B) The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(1)(B) of this section, who meets the same qualifications, to serve in the absence of that Panel member.
+&emsp;(B) The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(1)(B), who meets the same qualifications, to serve in the absence of that Panel member.
 
 #### (c) Term length
 
@@ -62,7 +62,7 @@ Panel members and alternate Panel members shall be eligible for reappointment.
 
 #### (e) Decisions
 
-Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1) of this section.
+Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1).
 
 #### (f) Consultation
 

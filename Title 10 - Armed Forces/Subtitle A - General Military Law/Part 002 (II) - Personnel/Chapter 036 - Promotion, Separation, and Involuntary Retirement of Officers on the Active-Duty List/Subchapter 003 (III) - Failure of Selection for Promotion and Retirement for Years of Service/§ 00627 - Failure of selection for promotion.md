@@ -1,12 +1,12 @@
 ### §627. Failure of selection for promotion
 
-An officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain who is in or above the promotion zone established for his grade and competitive category under section 623 of this title and is considered but not selected for promotion by a selection board convened under section 611(a) of this titleshall be considered to have failed of selection for promotion.
+An officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain who is in or above the promotion zone established for his grade and competitive category under section 623 of this title and is considered but not selected for promotion by a selection board convened under section 611(a) of this title shall be considered to have failed of selection for promotion.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859.)
 
 #### Effective Date
 
-Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

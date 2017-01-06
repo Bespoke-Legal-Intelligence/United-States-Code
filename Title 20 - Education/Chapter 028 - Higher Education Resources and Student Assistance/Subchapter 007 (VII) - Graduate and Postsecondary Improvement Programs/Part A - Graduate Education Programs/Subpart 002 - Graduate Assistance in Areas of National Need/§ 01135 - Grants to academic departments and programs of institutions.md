@@ -8,7 +8,7 @@
 
 #### (2) Additional grants
 
-&emsp;The Secretary may also make grants to such departments, programs and other academic units of institutions of higher education granting graduate degrees which submit joint proposals involving nondegree granting institutions which have formal arrangements for the support of doctoral dissertation research with degree-granting institutions. Nondegree granting institutions eligible for awards as part of such joint proposals include any organization which—
+&emsp;The Secretary may also make grants to such departments, programs and other academic units of institutions of higher education granting graduate degrees which submit jointproposals involving nondegree granting institutions which have formal arrangements for the support of doctoral dissertation research with degree-granting institutions. Nondegree granting institutions eligible for awards as part of such joint proposals include any organization which—
 
 &emsp;&emsp;(A) is described in section 501(c)(3) of title 26, and is exempt from tax under section 501(a) of such title;
 
@@ -44,11 +44,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make new grant awards under this subpart only to the extent that each previous grant recipient under this subpart has received continued funding in accordance with subsection (b)(2)(A) of this section.
+&emsp;The Secretary shall make new grant awards under this subpart only to the extent that each previous grant recipient under this subpart has received continued funding in accordance with subsection (b)(2)(A).
 
 #### (2) Ratable reduction
 
-&emsp;To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A) of this section.
+&emsp;To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A).
 
 (Pub. L. 89–329, title VII, §711, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1790; amended Pub. L. 110–315, title VII, §703(e)(1), Aug. 14, 2008, 122 Stat. 3347.)
 
@@ -56,7 +56,7 @@
 
 Provisions similar to this section were contained in section 1134m of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1135, Pub. L. 89–329, title X, §1001, as added Pub. L. 96–374, title X, §1001(a), Oct. 3, 1980, 94Stat. 1489; amended Pub. L. 102–325, title X, §1001, July 23, 1992, 106 Stat. 778, related to Fund for the Improvement of Postsecondary Education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. See section 1138 of this title.
+A prior section 1135, Pub. L. 89–329, title X, §1001, as added Pub. L. 96–374, title X, §1001(a), Oct. 3, 1980, 94 Stat. 1489; amended Pub. L. 102–325, title X, §1001, July 23, 1992, 106 Stat. 778, related to Fund for the Improvement of Postsecondary Education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. See section 1138 of this title.
 
 Another prior section 1135, Pub. L. 89–329, title X, §1001, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 312; amended Pub. L. 93–380, title VIII, §837, Aug. 21, 1974, 88 Stat. 606; Pub. L. 94–482, title I, §176(a)(3)–(5), title V, §501(a)(20), Oct. 12, 1976, 90 Stat. 2165, 2236; Pub. L. 95–180, §1(c), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 96–49, §53(a), Aug. 13, 1979, 93 Stat. 354, related to development plans for expansion or improvement of postsecondary education programs in community colleges, prior to repeal by section 1001(a) of Pub. L. 96–374.
 

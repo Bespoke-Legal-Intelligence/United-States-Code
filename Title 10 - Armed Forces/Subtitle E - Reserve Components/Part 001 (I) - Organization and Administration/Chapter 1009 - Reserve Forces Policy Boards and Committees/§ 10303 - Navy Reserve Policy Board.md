@@ -14,3 +14,7 @@ Provisions similar to those in this section were contained in section 5251(c) of
 
 Pub. L. 109–163, §515(b)(1)(DD), substituted "Navy Reserve" for "Naval Reserve" in two places in text.
 
+#### Effective Date
+
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

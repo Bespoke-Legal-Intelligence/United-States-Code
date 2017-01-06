@@ -28,7 +28,7 @@
 
 #### (4) Limitations
 
-&emsp;Except as provided in paragraph (5), no tax shall be abated, remitted, credited, or refunded under this subsection where the lossoccurred after the tax was determined (as provided in section 5006(a)). The abatement, remission, credit, or refund of taxes provided for by paragraphs (1) and (3) in the case of loss of distilled spirits by theft shall only be allowed to the extent that the claimant is not indemnified against or recompensed in respect of the tax for such loss.
+&emsp;Except as provided in paragraph (5), no tax shall be abated, remitted, credited, or refunded under this subsection where the loss occurred after the tax was determined (as provided in section 5006(a)). The abatement, remission, credit, or refund of taxes provided for by paragraphs (1) and (3) in the case of loss of distilled spirits by theft shall only be allowed to the extent that the claimant is not indemnified against or recompensed in respect of the tax for such loss.
 
 #### (5) Applicability
 
@@ -78,7 +78,7 @@ All provisions of law, including penalties, applicable in respect of the interna
 
 A prior section 5008, act Aug. 16, 1954, ch. 736, 68A Stat. 602, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5205(a), (g) and 5604(a)(1) of this title.
 
-Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of this section were contained in prior sections 5011(a)(1) to (4), 5023, 5247(e) and 5522(b), act Aug. 16, 1954, ch. 736, 68A Stat. 604, 606, 648, 679, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of this section were contained in prior sections 5011(a)(1) to (4), 5023, 5247(e) and 5522(b),act Aug. 16, 1954, ch. 736, 68A Stat. 604, 606, 648, 679, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 96–39, §807(a)(6)(D), redesignated subsec. (h) as (f). F
 
 Subsecs. (g), (h). Pub. L. 96–39, §807(a)(6)(D), redesignated subsecs. (g) and (h) as (e) and (f), respectively.
 
-<b>1977</b>—Subsec. (d). Pub. L. 95–176, §2(f), reenacted par. (1) and substituted heading "General" for "Allowanceof tax" and "(or the tax equal to such tax imposed under section 7652)" for "or under section 7652"; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
+<b>1977</b>—Subsec. (d). Pub. L. 95–176, §2(f), reenacted par. (1) and substituted heading "General" for "Allowance of tax" and "(or the tax equal to such tax imposed under section 7652)" for "or under section 7652"; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
 
 Subsec. (f)(5). Pub. L. 95–176, §4(e), added par. (5).
 
@@ -160,5 +160,5 @@ Pub. L. 89–44, title VIII, §805(g)(1), June 21, 1965, 79 Stat. 162, provided 
 
 #### Distilled Spirits Returned to Bonded Premises of Distilled Spirits Plant During 1980
 
-Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
+Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respectto distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
 

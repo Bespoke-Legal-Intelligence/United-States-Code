@@ -40,7 +40,7 @@ In this chapter:
 
 &emsp;&emsp;(B) tobacco and tobacco products,
 
-&emsp;&emsp;(C) motor vehicles or motor vehicle equipment (as defined by section 30102(a)(6) and (7) of title 49),
+&emsp;&emsp;(C) motor vehicles or motor vehicle equipment (as defined by section 30102(a)(6) and (7) of title 49 <sup>1</sup>),
 
 &emsp;&emsp;(D) pesticides (as defined by the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]),
 
@@ -116,6 +116,8 @@ A common carrier, contract carrier, third-party logistics provider, or freight f
 
 Section 2079(d) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076.
 
+Section 30102(a)(6) and (7) of title 49, referred to in subsec. (a)(5)(C), was redesignated section 30102(a)(7) and (8) of title 49 by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
+
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(5)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 Title 52 of the Revised Statutes, referred to in subsec. (a)(5)(G), consisted of R.S. §§4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Disposition Table preceding section 101 of Title 46.
@@ -126,7 +128,7 @@ For definition of Canal Zone, referred to in subsec. (a)(15), see section 3602(b
 
 #### Codification
 
-In subsec. (a)(5)(C), (F), "section 30102(a)(6) and (7) of title 49" substituted for "sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]" and "section 40102(a) of title 49" substituted for "section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(5)(C), (F), "section 30102(a)(6) and (7) of title 49" substituted for "sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]" and "section 40102(a) of title 49" substituted for "section 101 of the Federal AviationAct of 1958 \[49 App. U.S.C. 1301\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 In subsec. (a)(5)(G), "chapter 43 of title 46" and "section 2101(1) of title 46" substituted for "the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)" and "section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]", respectively, on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
@@ -153,6 +155,10 @@ Pub. L. 97–35, title XII, §1215, Aug. 13, 1981, 95 Stat. 724, provided that:
 "(a) Except as provided in subsection (b), the amendments made by this subtitle \[see Short Title of 1981 Amendment note set out under section 2051 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
 "(b) The amendments made by section 1207 \[enacting sections 1204, 1276, and 2083 of this title and amending section 2076 of this title\] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act \[this chapter\] and regulations under the Federal Hazardous Substances Act \[section 1261 et seq. of this title\] and the Flammable Fabrics Act \[section 1191 et seq. of this title\] promulgated by the Consumer Product Safety Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle \[enacting section 2077 of this title and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title\] shall apply with respect to regulations under the Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981."
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Transfer of Functions
 

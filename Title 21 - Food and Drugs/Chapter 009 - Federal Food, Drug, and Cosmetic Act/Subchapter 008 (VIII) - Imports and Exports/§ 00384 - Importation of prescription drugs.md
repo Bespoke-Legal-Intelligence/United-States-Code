@@ -26,7 +26,7 @@ In this section:
 
 &emsp;&emsp;(E) a drug that is inhaled during surgery; or
 
-&emsp;&emsp;(F) a drug which is a parenteral drug, the importation of which pursuant to subsection (b) of this section is determined by the Secretary to pose a threat to the public health, in which case section 381(d)(1) of this title shall continue to apply.
+&emsp;&emsp;(F) a drug which is a parenteral drug, the importation of which pursuant to subsection (b) is determined by the Secretary to pose a threat to the public health, in which case section 381(d)(1) of this title shall continue to apply.
 
 #### (4) Qualifying laboratory
 
@@ -44,15 +44,15 @@ In this section:
 
 #### (b) Regulations
 
-The Secretary, after consultation with the United States Trade Representative and the Commissioner of Customs, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
+The Secretary, after consultation with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
 
 #### (c) Limitation
 
-The regulations under subsection (b) of this section shall—
+The regulations under subsection (b) shall—
 
 &emsp;(1) require that safeguards be in place to ensure that each prescription drug imported under the regulations complies with section 355 of this title (including with respect to being safe and effective for the intended use of the prescription drug), with sections 351 and 352 of this title, and with other applicable requirements of this chapter;
 
-&emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and
+&emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e); and
 
 &emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as a means to facilitate the importation of prescription drugs.
 
@@ -60,7 +60,7 @@ The regulations under subsection (b) of this section shall—
 
 #### (1) In general
 
-&emsp;The regulations under subsection (b) of this section shall require an importer of a prescription drug under subsection (b) of this section to submit to the Secretary the following information and documentation:
+&emsp;The regulations under subsection (b) shall require an importer of a prescription drugunder subsection (b) to submit to the Secretary the following information and documentation:
 
 &emsp;&emsp;(A) The name and quantity of the active ingredient of the prescription drug.
 
@@ -114,9 +114,9 @@ The regulations under subsection (b) of this section shall—
 
 #### (e) Testing
 
-The regulations under subsection (b) of this section shall require—
+The regulations under subsection (b) shall require—
 
-&emsp;(1) that testing described in subparagraphs (J) and (L) of subsection (d)(1) of this section be conducted by the importer or by the manufacturer of the prescription drug at a qualified laboratory;
+&emsp;(1) that testing described in subparagraphs (J) and (L) of subsection (d)(1) be conducted by the importer or by the manufacturer of the prescription drug at a qualified laboratory;
 
 &emsp;(2) if the tests are conducted by the importer—
 
@@ -138,11 +138,11 @@ Any establishment within Canada engaged in the distribution of a prescription dr
 
 #### (g) Suspension of importation
 
-The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) of this section be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigation is completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b) of this section.
+The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigation is completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b).
 
 #### (h) Approved labeling
 
-The manufacturer of a prescription drug shall provide an importer written authorization for the importer to use, at no cost, the approved labeling for the prescription drug.
+The manufacturer of a prescription drug shall provide an importer written authorization forthe importer to use, at no cost, the approved labeling for the prescription drug.
 
 #### (i) Charitable contributions
 
@@ -182,7 +182,7 @@ Notwithstanding any other provision of this section, section 381(d)(1) of this t
 
 &emsp;&emsp;(C) is imported from Canada, from a seller registered with the Secretary;
 
-&emsp;&emsp;(D) is a prescription drug approved by the Secretary under subchapter V of this chapter;
+&emsp;&emsp;(D) is a prescription drug approved by the Secretary under subchapter V;
 
 &emsp;&emsp;(E) is in the form of a final finished dosage that was manufactured in an establishment registered under section 360 of this title; and
 
@@ -206,7 +206,7 @@ Nothing in this section limits the authority of the Secretary relating to the im
 
 #### (A) In general
 
-&emsp;&emsp;If, after the date that is 1 year after the effective date of the regulations under subsection (b) of this section and before the date that is 18 months after the effectivedate, the Secretary submits to Congress a certification that, in the opinion of the Secretary, based on substantial evidence obtained after the effective date, the benefits of implementation of this section do not outweigh any detriment of implementation of this section, this section shall cease to be effective as of the date that is 30 days after the date on which the Secretary submits the certification.
+&emsp;&emsp;If, after the date that is 1 year after the effective date of the regulations under subsection (b) and before the date that is 18 months after the effective date, the Secretary submits to Congress a certification that, in the opinion of the Secretary, based on substantial evidence obtained after the effective date, the benefits of implementation of this section do not outweigh any detriment of implementation of this section, this section shall cease to be effective as of the date that is 30 days after the date on which the Secretary submits the certification.
 
 #### (B) Procedure
 
@@ -232,15 +232,19 @@ Nothing in this section limits the authority of the Secretary relating to the im
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(June 25, 1938, ch. 675, §804, as added Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464.)
+(June 25, 1938, ch. 675, §804, as added Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464; amended Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Prior Provisions
 
 A prior section 384, act June 25, 1938, ch. 675, §804, as added Pub. L. 106–387, §1(a) \[title VII, §745(c)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36, related to importation of covered products, prior to repeal by Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464.
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (b) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Study and Report on Importation of Drugs
 

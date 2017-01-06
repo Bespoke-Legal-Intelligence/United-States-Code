@@ -26,7 +26,7 @@ The Director shall issue guidelines for the development and implementation of We
 
 &emsp;&emsp;&emsp;(i) appropriate law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(ii) other public and private agencies, and neighborhood and community-based organizations, interested in criminal justice and community-based development and revitalization in the community; and
+&emsp;&emsp;&emsp;(ii) other public and private agencies, and neighborhood and community-basedorganizations, interested in criminal justice and community-based development and revitalization in the community; and
 
 &emsp;&emsp;(B) in a voting capacity, both—
 
@@ -74,7 +74,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (2) Uses
 
-&emsp;For each grant under this subsection, the community receiving that grant may not use any of the grant amounts for construction, except that the Assistant Attorney General may authorize use of grant amounts for incidentalor minor construction, renovation, or remodeling.
+&emsp;For each grant under this subsection, the community receiving that grant may not use any of the grant amounts for construction, except that the Assistant Attorney General may authorize use of grant amounts for incidental or minor construction, renovation, or remodeling.
 
 #### (3) Limitations
 

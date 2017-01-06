@@ -32,10 +32,7 @@
 | [658\.](%C2%A7%2000658%20-%20Confidential%20investigative%20expenses.md) | Confidential investigative expenses. |
 | [659\.](%C2%A7%2000659%20-%20Assistance%20to%20film%20producers.md) | Assistance to film producers. |
 | [660\.](%C2%A7%2000660%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md) | Transportation to and from certain places of employment. |
-| [661\.](%C2%A7%2000661%20-%20Authorization%20of%20personnel%20end%20strengths.md) | Authorization of personnel end strengths. |
-| [662\.](%C2%A7%2000662%20-%20Requirement%20for%20prior%20authorization%20of%20appropriations.md) | Requirement for prior authorization of appropriations. |
-| [662a.](%C2%A7%2000662a%20-%20Transmission%20of%20annual%20Coast%20Guard%20authorization%20request.md) | Transmission of annual Coast Guard authorization request. |
-| [663\.](%C2%A7%2000663%20-%20Capital%20investment%20plan.md) | Capital investment plan. |
+| \[661 to 663. Transferred.\] |  |
 | [664\.](%C2%A7%2000664%20-%20User%20fees.md) | User fees. |
 | [665\.](%C2%A7%2000665%20-%20Restriction%20on%20construction%20of%20vessels%20in%20foreign%20shipyards.md) | Restriction on construction of vessels in foreign shipyards. |
 | [666\.](%C2%A7%2000666%20-%20Local%20hire.md) | Local hire. |
@@ -50,6 +47,7 @@
 | [674\.](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md) | Small boat station rescue capability. |
 | [675\.](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md) | Small boat station closures. |
 | [676\.](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md) | Search and rescue center standards. |
+| [676a.](%C2%A7%2000676a%20-%20Air%20facility%20closures.md) | Air facility closures. |
 | [677\.](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md) | Turnkey selection procedures. |
 | [678\.](%C2%A7%2000678%20-%20Aircraft%20accident%20investigations.md) | Aircraft accident investigations. |
 | [679\.](%C2%A7%2000679%20-%20Inventory%20of%20real%20property.md) | Inventory of real property. |
@@ -57,7 +55,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| 681\.<sup>2</sup> | Disposition of infrastructure related to E–LORAN. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title I, §102(c), title II, §208(c)(1), title VI, §610(a)(2), Feb. 8, 2016, 130 Stat. 32, 40, 84, added items 676a and 681 and struck out items 661 "Authorization of personnel end strengths", 662 "Requirement for prior authorization of appropriations", 662a "Transmission of annual Coast Guard authorization request", and 663 "Capital investment plan".
 
 <b>2014</b>—Pub. L. 113–281, title II, §§214(b)(2)(D), 216(b), 217(b), 218(b), 221(a)(2), Dec. 18, 2014, 128 Stat. 3034–3037, added items 662a, 679, and 680 and struck out items 651 "Annual report" and 657 "Dependent school children".
 
@@ -121,6 +127,8 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 
 <i><sup>1</sup></i><i> Another item 680 appears in the analysis for chapter 18 of this title.</i>
 
+<i><sup>2</sup></i><i> Another item 681 appears in the analysis for chapter 18 of this title.</i>
+
 
 ---
 
@@ -156,10 +164,10 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00658 - Confidential investigative expenses](%C2%A7%2000658%20-%20Confidential%20investigative%20expenses.md)
 - [&sect; 00659 - Assistance to film producers](%C2%A7%2000659%20-%20Assistance%20to%20film%20producers.md)
 - [&sect; 00660 - Transportation to and from certain places of employment](%C2%A7%2000660%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md)
-- [&sect; 00661 - Authorization of personnel end strengths](%C2%A7%2000661%20-%20Authorization%20of%20personnel%20end%20strengths.md)
-- [&sect; 00662 - Requirement for prior authorization of appropriations](%C2%A7%2000662%20-%20Requirement%20for%20prior%20authorization%20of%20appropriations.md)
-- [&sect; 00662a - Transmission of annual Coast Guard authorization request](%C2%A7%2000662a%20-%20Transmission%20of%20annual%20Coast%20Guard%20authorization%20request.md)
-- [&sect; 00663 - Capital investment plan](%C2%A7%2000663%20-%20Capital%20investment%20plan.md)
+- [&sect; 00661 - Renumbered &sect;2703](%C2%A7%2000661%20-%20Renumbered%20%C2%A72703.md)
+- [&sect; 00662 - Renumbered &sect;2701](%C2%A7%2000662%20-%20Renumbered%20%C2%A72701.md)
+- [&sect; 00662a - Renumbered &sect;2901](%C2%A7%2000662a%20-%20Renumbered%20%C2%A72901.md)
+- [&sect; 00663 - Renumbered &sect;2902](%C2%A7%2000663%20-%20Renumbered%20%C2%A72902.md)
 - [&sect; 00664 - User fees](%C2%A7%2000664%20-%20User%20fees.md)
 - [&sect; 00665 - Restriction on construction of vessels in foreign shipyards](%C2%A7%2000665%20-%20Restriction%20on%20construction%20of%20vessels%20in%20foreign%20shipyards.md)
 - [&sect; 00666 - Local hire](%C2%A7%2000666%20-%20Local%20hire.md)
@@ -174,7 +182,9 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00674 - Small boat station rescue capability](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md)
 - [&sect; 00675 - Small boat station closures](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md)
 - [&sect; 00676 - Search and rescue center standards](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md)
+- [&sect; 00676a - Air facility closures](%C2%A7%2000676a%20-%20Air%20facility%20closures.md)
 - [&sect; 00677 - Turnkey selection procedures](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md)
 - [&sect; 00678 - Aircraft accident investigations](%C2%A7%2000678%20-%20Aircraft%20accident%20investigations.md)
 - [&sect; 00679 - Inventory of real property](%C2%A7%2000679%20-%20Inventory%20of%20real%20property.md)
 - [&sect; 00680 - 1 Retired service members and dependents serving on advisory committees](%C2%A7%2000680%20-%201%20Retired%20service%20members%20and%20dependents%20serving%20on%20advisory%20committees.md)
+- [&sect; 00681 - 1 Disposition of infrastructure related to E&#8211;LORAN](%C2%A7%2000681%20-%201%20Disposition%20of%20infrastructure%20related%20to%20E%E2%80%93LORAN.md)

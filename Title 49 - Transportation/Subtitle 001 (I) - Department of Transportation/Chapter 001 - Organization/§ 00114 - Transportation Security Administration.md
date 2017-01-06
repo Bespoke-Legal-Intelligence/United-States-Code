@@ -116,7 +116,7 @@ Management of Security Information.—In consultation with the Transportation Se
 
 &emsp;(3) in consultation with other appropriate Federal agencies and air carriers, establish policies and procedures requiring air carriers—
 
-&emsp;&emsp;(A) to use information from government agencies to identify individuals on passenger lists who may be a threat to civil aviation or national security; and
+&emsp;&emsp;(A) to use information from government agencies to identify individuals on passengerlists who may be a threat to civil aviation or national security; and
 
 &emsp;&emsp;(B) if such an individual is identified, notify appropriate law enforcement agencies, prevent the individual from boarding an aircraft, or take other appropriate action with respect to that individual; and
 
@@ -202,7 +202,7 @@ Authority of agency heads.—The head of a Federal agency shall have the same au
 
 (n)
 
-Personnel Management System.—The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
+Personnel Management System.—The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may makesuch modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
 
 (o)
 
@@ -282,7 +282,7 @@ In general.—The Secretary of Homeland Security shall develop, prepare, impleme
 
 &emsp;&emsp;(A) a National Strategy for Transportation Security; and
 
-&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime,pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
+&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
 
 &emsp;(2)
 
@@ -294,7 +294,7 @@ Contents of national strategy for transportation security.—The National Strate
 
 &emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
-&emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007 <sup>1</sup> across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
+&emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendationsof the 9/11 Commission Act of 2007 <sup>1</sup> across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
 &emsp;&emsp;(C) The most appropriate, practical, and cost-effective means of defending those assets against threats to their security.
 
@@ -348,7 +348,7 @@ Content.—Each progress report submitted under this subparagraph shall include,
 
 &emsp;&emsp;&emsp;(iii)
 
-Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
+Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportationsecurity activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
 
 &emsp;&emsp;(D)
 
@@ -398,7 +398,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Appropriate congressional committees.—The term "appropriate congressional committees" has the meaning given that term in subsection (t).<sup>3</sup>
+Appropriate congressional committees.—The term "appropriate congressional committees" has the meaning given that term in subsection (s)(4)(E).
 
 &emsp;&emsp;(B)
 
@@ -418,7 +418,7 @@ Transportation security information.—The term "transportation security informa
 
 &emsp;(2)
 
-Establishment of plan.—The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary shall gather input on the development of the Planfrom private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485).
+Establishment of plan.—The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary shall gather input on the development of the Plan from private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485).
 
 &emsp;(3)
 
@@ -430,7 +430,7 @@ Content of plan.—The Plan shall include—
 
 &emsp;&emsp;(A) a description of how intelligence analysts within the Department of Homeland Security will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
 
-&emsp;&emsp;(B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
+&emsp;&emsp;(B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees ifthe point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
 
 &emsp;&emsp;(C) a reasonable deadline by which the Plan will be implemented; and
 
@@ -458,25 +458,9 @@ Annual report.—Not later than 1 year after the date of enactment of this subse
 
 &emsp;(7)
 
-Survey and report.—
-
-&emsp;&emsp;(A)
-
-In general.—The Comptroller General of the United States shall conduct a biennial survey of the satisfaction of recipients of transportation intelligence reports disseminated under the Plan.
-
-&emsp;&emsp;(B)
-
-Information sought.—The survey conducted under subparagraph (A) shall seek information about the quality, speed, regularity, and classification of the transportation security information products disseminated by the Department of Homeland Security to public and private stakeholders.
-
-&emsp;&emsp;(C)
-
-Report.—Not later than 1 year after the date of the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, and every even numbered year thereafter, the Comptroller General shall submit to the appropriate congressional committees, a report on the results of the survey conducted under subparagraph (A). The Comptroller General shall also provide a copy of the report to the Secretary.
-
-&emsp;(8)
-
 Security clearances.—The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
 
-&emsp;(9)
+&emsp;(8)
 
 Classification of material.—The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
 
@@ -648,7 +632,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 &emsp;&emsp;(C) $12,000,000 for fiscal year 2010.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, titleXVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182.)
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130 Stat. 1514.)
 
 #### References in Text
 
@@ -660,9 +644,13 @@ The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is 
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(B), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. Section 1410 of the Act is classified to section 1139 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of Title 6 and Tables.
 
-The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 and the date of enactment of this subsection, referred to in subsecs. (s)(3)(F), (u)(6), (7)(C), and (v)(7)(D), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 and the date of enactment of this subsection, referred to in subsecs. (s)(3)(F), (u)(6), and (v)(7)(D), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (u)(1)(A). Pub. L. 114–301, §2(d)(1), substituted "subsection (s)(4)(E)" for "subsection (t)".
+
+Subsec. (u)(7) to (9). Pub. L. 114–301, §2(d)(2), (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which related to surveys and reports.
 
 <b>2009</b>—Subsec. (r)(4). Pub. L. 111–83 added par. (4).
 
@@ -740,7 +728,7 @@ Pub. L. 114–4, title V, §536, Mar. 4, 2015, 129 Stat. 67, provided that:
 
 "(b) The airport authority or air carrier operator that sponsors the company under the Registered Traveler program shall hereafter be known as the 'Sponsoring Entity'.
 
-"(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act \[Mar. 4, 2015\], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the procedures used by the company to comply with such requirements."
+"(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act \[Mar. 4, 2015\], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the proceduresused by the company to comply with such requirements."
 
 #### Registered Traveler Programs and Biometrically-Secure Cards
 
@@ -756,7 +744,7 @@ In general.—Except as provided in paragraph (2), the Secretary \[of Homeland S
 
 &emsp;"(A) the number of public and private stakeholders who were provided with each report;
 
-&emsp;"(B) a description of the measures the Secretary has taken, under section 114(u)(7) of title 49, United States Code, as added by this section, or otherwise, to ensure proper treatment and security for any classified information to be shared with the public and private stakeholders under the Plan; and
+&emsp;"(B) a description of the measures the Secretary has taken, under \[former\] section 114(u)(7) of title 49, United States Code, as added by this section, or otherwise, to ensure proper treatment and security for any classified information to be shared with the public and private stakeholders under the Plan; and
 
 &emsp;"(C) an explanation of the reason for the denial of transportation security information to any stakeholder who had previously received such information.
 
@@ -786,7 +774,7 @@ Aviation Security.—Notwithstanding any provision of law imposing a limitation 
 
 #### Lease of Property to Transportation Security Administration Employees
 
-Pub. L. 109–90, title V, §514, Oct. 18, 2005, 119 Stat. 2084, provided that: "Notwithstanding section 3302 of title 31, United States Code, for fiscal year 2006 and thereafter, the Administrator of the Transportation Security Administration may impose a reasonable charge for the lease of real and personal property to Transportation Security Administration employees and for use by Transportation Security Administration employees and may credit amounts received to the appropriation or fund initially charged for operating and maintainingthe property, which amounts shall be available, without fiscal year limitation, for expenditure for property management, operation, protection, construction, repair, alteration, and related activities."
+Pub. L. 109–90, title V, §514, Oct. 18, 2005, 119 Stat. 2084, provided that: "Notwithstanding section 3302 of title 31, United States Code, for fiscal year 2006 and thereafter, the Administrator of the Transportation Security Administration may impose a reasonable charge for the lease of real and personal property to Transportation Security Administration employees and for use by Transportation Security Administration employees and may credit amounts received to the appropriation or fund initially charged for operating and maintaining the property, which amounts shall be available, without fiscal year limitation, for expenditure for property management, operation, protection, construction, repair, alteration, and related activities."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -839,6 +827,4 @@ Report.—Not later than 6 months after the date of enactment of this Act \[Nov.
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
 <i><sup>2</sup></i><i> So in original. There is no subsec. (t).</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "subsection (s).".</i>
 

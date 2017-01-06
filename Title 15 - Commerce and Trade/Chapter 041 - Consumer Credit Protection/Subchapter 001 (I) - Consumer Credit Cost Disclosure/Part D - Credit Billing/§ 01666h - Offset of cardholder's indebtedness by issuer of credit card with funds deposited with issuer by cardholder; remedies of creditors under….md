@@ -2,7 +2,7 @@
 
 #### (a) Offset against consumer's funds
 
-A card issuer may not take any action to offset a cardholder's indebtedness arising in connection with a consumer credit transaction under the relevant credit card plan against funds of the cardholder held on deposit with the card issuer unless—
+A card issuer may not take any action to offset a cardholder's indebtedness arising in connection with a consumer credit transaction under the relevant credit card plan againstfunds of the cardholder held on deposit with the card issuer unless—
 
 &emsp;(1) such action was previously authorized in writing by the cardholder in accordance with a credit plan whereby the cardholder agrees periodically to pay debts incurred in his open end credit account by permitting the card issuer periodically to deduct all or a portion of such debt from the cardholder's deposit account, and
 

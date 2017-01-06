@@ -6,7 +6,7 @@ The Secretary shall establish throughout the United States such local, State, re
 
 #### (b) Organizations entitled to contract with Secretary
 
-(1) The Secretary shall enter into contracts with one or more quality improvement organizations for each area established under subsection (a) of this section if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organization in a manner consistent with the efficient and effective administration of this part. In entering into contracts with such qualified organizations, the Secretary shall, to the extent appropriate, seek to ensure that each of the functions described in section 1320c–3(a) of this title are carried out within an area established under subsection (a). If more than one such qualified organization will be operating in an area, the Secretary shall ensure that there is no duplication of the functions carried out by such organizations within the area.
+(1) The Secretary shall enter into contracts with one or more quality improvement organizations for each area established under subsection (a) if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organization in a manner consistentwith the efficient and effective administration of this part. In entering into contracts with such qualified organizations, the Secretary shall, to the extent appropriate, seek to ensure that each of the functions described in section 1320c–3(a) of this title are carried out within an area established under subsection (a). If more than one such qualified organization will be operating in an area, the Secretary shall ensure that there is no duplication of the functions carried out by such organizations within the area.
 
 (2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an "eligible organization" as defined in section 1395mm(b) of this title.
 
@@ -22,7 +22,7 @@ The Secretary shall establish throughout the United States such local, State, re
 
 Each contract with an organization under this section shall provide that—
 
-&emsp;(1) the organization shall perform a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions (and for purposes of paragraphs (2) and (3) of subsection (b) of this section, a subcontract under this paragraph shall not constitute an affiliation with the subcontractor);
+&emsp;(1) the organization shall perform a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions (and for purposes of paragraphs (2) and (3) of subsection (b), a subcontract under this paragraph shall not constitute an affiliation with the subcontractor);
 
 &emsp;(2) the Secretary shall have the right to evaluate the quality and effectiveness of the organization in carrying out the functions specified in the contract;
 
@@ -32,7 +32,7 @@ Each contract with an organization under this section shall provide that—
 
 &emsp;(5) reimbursement shall be made to the organization on a monthly basis, with payments for any month being made consistent with the Federal Acquisition Regulation.
 
-> In evaluating the performance of quality improvement organizations under contracts under this part, the Secretary shall place emphasis onthe performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
+> In evaluating the performance of quality improvement organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
 
 #### (d) Repealed. Pub. L. 112–40, title II, §261(b)(3)(C), Oct. 21, 2011, 125 Stat. 424
 
@@ -88,7 +88,7 @@ Subsec. (b)(4). Pub. L. 112–40, §261(b)(3)(A), added par. (4).
 
 Subsec. (c). Pub. L. 112–40, §261(a)(2)(C), substituted "quality improvement" for "utilization and quality control peer review" in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of thistitle directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, or may subcontract for the performance of all or some of such functions".
+Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, or may subcontract for the performance of all or some of such functions".
 
 Subsec. (c)(3). Pub. L. 112–40, §261(b)(2), substituted "five years and shall be renewable for terms of five years" for "three years and shall be renewable on a triennial basis".
 

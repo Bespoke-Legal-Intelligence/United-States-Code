@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Indian
 
-&emsp;The term "Indian" has the meaning given that term in section 450b(d) of this title.
+&emsp;The term "Indian" has the meaning given that term in section 5304(d) of this title.
 
 #### (3) Indian goods and services
 
@@ -48,7 +48,7 @@ In this chapter:
 
 #### (6) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given that term in section 450b(e) of this title.
+&emsp;The term "Indian tribe" has the meaning given that term in section 5304(e) of this title.
 
 #### (7) Secretary
 
@@ -60,7 +60,7 @@ In this chapter:
 
 #### (9) Tribal organization
 
-&emsp;The term "tribal organization" has the meaning given that term in section 450b(l) of this title.
+&emsp;The term "tribal organization" has the meaning given that term in section 5304(l) of this title.
 
 (Pub. L. 106–464, §3, Nov. 7, 2000, 114 Stat. 2013.)
 

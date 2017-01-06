@@ -1,6 +1,6 @@
 ### §2631. Supplies: preference to United States vessels
 
-(a) Only vessels of the United States or belonging to the United States may be used in the transportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
+(a) Only vessels of the United States or belonging to the United States may be used in thetransportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
 
 (b)(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States).
 
@@ -78,7 +78,7 @@ In general.—The Secretary may prescribe interim regulations as necessary to ca
 
 &emsp;&emsp;"(B)
 
-Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees onArmed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
+Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
 
 &emsp;&emsp;"(C)
 
@@ -105,6 +105,8 @@ United states.—The term 'United States' means—
 &emsp;&emsp;"(B) Guam."
 
 \[Pub. L. 110–181, div. C, title XXXV, §3526(a), Jan. 28, 2008, 122 Stat. 601, which directed amendment of section 1017(b)(2) of Pub. L. 109–364, set out above, by substituting "sections 12112, 50501, and 55102 of title 46, United States Code" for "section 27 of the Merchant Marine Act, 1920 (46 U.S.C. 883), section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)", could not be executed because those words did not appear subsequent to amendment by section 1063(c)(9) of Pub. L. 110–181, which was effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted. See Effective Date of 2008 Amendment note under section 624 of this title.\]
+
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1017(e) of Pub. L. 109–364, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 #### Delegation of Authority Under the Cargo Preference Act
 

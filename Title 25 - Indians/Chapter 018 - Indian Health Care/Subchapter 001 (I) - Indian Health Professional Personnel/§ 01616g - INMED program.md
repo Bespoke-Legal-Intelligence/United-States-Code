@@ -20,7 +20,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) to
 
 &emsp;(C) provides summer preparatory programs for Indian students who need enrichment in the subjects of math and science in order to pursue training in the health professions,
 
-&emsp;(D) provides tutoring, counseling and support to students who are enrolled in a healthcareer program of study at the respective college or university, and
+&emsp;(D) provides tutoring, counseling and support to students who are enrolled in a health career program of study at the respective college or university, and
 
 &emsp;(E) to the maximum extent feasible, employs qualified Indians in the program.
 

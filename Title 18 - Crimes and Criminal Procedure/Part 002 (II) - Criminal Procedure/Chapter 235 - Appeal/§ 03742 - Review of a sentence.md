@@ -8,7 +8,7 @@ Appeal by a Defendant.—A defendant may file a notice of appeal in the district
 
 &emsp;(2) was imposed as a result of an incorrect application of the sentencing guidelines; or
 
-&emsp;(3) is greater than the sentence specified in the applicable guideline range to the extent that the sentence includes a greater fine or term of imprisonment, probation, or supervised release than the maximum established in the guideline range, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> thanthe maximum established in the guideline range; or
+&emsp;(3) is greater than the sentence specified in the applicable guideline range to the extent that the sentence includes a greater fine or term of imprisonment, probation, or supervised release than the maximum established in the guideline range, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the maximum established in the guideline range; or
 
 &emsp;(4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
 
@@ -86,9 +86,9 @@ Decision and Disposition.—If the court of appeals determines that—
 
 (g)
 
-Sentencing Upon Remand.—A district court to which a case is remanded pursuant to subsection (f)(1) or (f)(2) shall resentence a defendant in accordance with section 3553 and with such instructions as may have been given by the court of appeals, except that—
+Sentencing Upon Remand.—A district court to which a case is remanded pursuant tosubsection (f)(1) or (f)(2) shall resentence a defendant in accordance with section 3553 and with such instructions as may have been given by the court of appeals, except that—
 
-&emsp;(1) In determining the range referred to in subsection 3553(a)(4), the court shall apply the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28,United States Code, and that were in effect on the date of the previous sentencing of the defendant prior to the appeal, together with any amendments thereto by any act of Congress that was in effect on such date; and
+&emsp;(1) In determining the range referred to in subsection 3553(a)(4), the court shall apply the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that were in effect on the date of the previous sentencing of the defendant prior to the appeal, together with any amendments thereto by any act of Congress that was in effect on such date; and
 
 &emsp;(2) The court shall not impose a sentence outside the applicable guidelines range except upon a ground that—
 
@@ -170,7 +170,7 @@ Subsec. (a)(3). Pub. L. 100–690, §7103(a)(2), added par. (3) and struck out f
 
 &emsp;"(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or".
 
-Subsec. (a)(4). Pub. L. 100–690, §7103(a)(4), added par. (4) and struck out former par. (4) which read as follows:"was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or greater than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure."
+Subsec. (a)(4). Pub. L. 100–690, §7103(a)(4), added par. (4) and struck out former par. (4) which read as follows: "was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or greater than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure."
 
 Subsec. (b). Pub. L. 100–690, §7103(a)(5), inserted ", with the personal approval of the Attorney General or the Solicitor General," after "The Government" in introductory provisions, and struck out concluding provisions which read as follows: "and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal."
 

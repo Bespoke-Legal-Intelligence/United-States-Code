@@ -12,17 +12,9 @@
 
 (C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than 1/16 of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of the exception contained in subparagraph (A) only, the term "State" does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(D)(i) No State shall be allotted less than the total amount allotted to the State for fiscal year 2006.
+(D)(i) For each of fiscal years 2017 through 2019, no State shall be allotted an amount that is less than 99 percent of the amount allotted to such State for the previous fiscal year.
 
-(ii) No State shall receive a percentage increase in an allotment, above the State's fiscal year 2006 allotment, that is less than—
-
-&emsp;(I) for fiscal year 2007, 20 percent of the percentage increase above the fiscal year 2006 allotments for all of the States;
-
-&emsp;(II) for fiscal year 2008, 15 percent of the percentage increase above the fiscal year 2006 allotments for all of the States;
-
-&emsp;(III) for fiscal year 2009, 10 percent of the percentage increase above the fiscal year 2006 allotments for all of the States; and
-
-&emsp;(IV) For <sup>1</sup> fiscal year 2010, 5 percent of the percentage increase above the fiscal year 2006 allotments for all of the States.
+(ii) For fiscal year 2020 and each subsequent fiscal year, no State shall be allotted an amount that is less than 100 percent of the amount allotted to such State for fiscal year 2019.
 
 (4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
 
@@ -30,7 +22,7 @@
 
 #### (b) Unused funds
 
-Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter, or subpart I of part E of this subchapter, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C, or part E, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 #### (c) Withholding of funds; disbursement
 
@@ -44,13 +36,13 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 &emsp;(B) such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate for conducting an effective ombudsman program under section 3027(a)(9) of this title shall be available for conducting such program;
 
-&emsp;(C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B of this subchapter, shall be available for conducting outreach demonstration projects under section 3058e of this title; and
+&emsp;(C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B, shall be available for conducting outreach demonstration projects under section 3058e of this title; and
 
 &emsp;(D) the remainder of such allotment shall be available to such State only for paying such percentage as the State agency determines, but not more than 85 percent of the cost of supportive services, senior centers, and nutrition services under this subchapter provided in the State as part of a comprehensive and coordinated system in planning and service areas for which there is an area plan approved by the State agency.
 
 (2) The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
 
-(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §304, Oct. 17, 2006, 120 Stat. 2539.)
+(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c),\(d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §304, Oct. 17, 2006, 120 Stat. 2539; Pub. L. 114–144, §4(b), Apr. 19, 2016, 130 Stat. 338.)
 
 #### Prior Provisions
 
@@ -64,6 +56,10 @@ A prior section 3024a, Pub. L. 89–73, title III, §305, as added Pub. L. 91–
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(3)(D). Pub. L. 114–144, §4(b)(1), added subpar. (D) and struck out former subpar. (D) which related to allotments and increases for fiscal years 2007 to 2010 based on fiscal year 2006.
+
+Subsec. (b). Pub. L. 114–144, §4(b)(2), struck out "subpart I of" before "part E".
+
 <b>2006</b>—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–501, §303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
@@ -76,7 +72,7 @@ A prior section 3024a, Pub. L. 89–73, title III, §305, as added Pub. L. 91–
 
 "(4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary."
 
-Subsec. (b). Pub. L. 106–501, §303(b), substituted "part B or C of this subchapter, or subpart I of part E of this subchapter," for "part B or C of this subchapter" in first sentence.
+Subsec. (b). Pub. L. 106–501, §303(b), substituted "part B or C, or subpart I of part E," for "part B or C" in first sentence.
 
 Subsec. (d)(1)(B). Pub. L. 106–501, §801(c)(2)(A), substituted "3027(a)(9)" for "3027(a)(12)".
 
@@ -108,7 +104,7 @@ Subsec. (d)(1)(A). Pub. L. 100–175, §123, substituted "10 percent" for "8.5 p
 
 Subsec. (d)(1)(B), (C). Pub. L. 100–175, §155(d), inserted "(excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title)" after "amount".
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–459, §304(a)(1)–(5), substituted "Subject to paragraph (2), from" for "From", substituted "under section 3023 of this title" for "underparts B and C", substituted "Commonwealth of the Northern Mariana Islands" for "Northern Mariana Islands" in two places, substituted "and (C)" for "(C)", and struck out "; and (D) no State shall be allotted an amount less than the State received for fiscal year 1978".
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–459, §304(a)(1)–(5), substituted "Subject to paragraph (2), from" for "From", substituted "under section 3023 of this title" for "under parts B and C", substituted "Commonwealth of the Northern Mariana Islands" for "Northern Mariana Islands" in two places, substituted "and (C)" for "(C)", and struck out "; and (D) no State shall be allotted an amount less than the State received for fiscal year 1978".
 
 Subsec. (a)(2), (3). Pub. L. 98–459, §304(a)(6)–(8), added par. (2), redesignated former par. (2) as (3), and substituted "available to the Commissioner" for "available to him".
 
@@ -137,6 +133,4 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "for".</i>
 

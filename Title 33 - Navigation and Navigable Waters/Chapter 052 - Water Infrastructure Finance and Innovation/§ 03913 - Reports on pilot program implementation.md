@@ -52,7 +52,7 @@ As soon as practicable after each fiscal year for which amounts are made availab
 
 #### References in Text
 
-Section 3907(a)(5) of this title, referred to in subsec. (b)(2)(A), was struck out, and section 3907(a)(6) of this title was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, §1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
+Section 3907(a)(5) of this title, referred to in subsec. (b)(2)(A), was struck out, and section 3907(a)(6) of thistitle was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, §1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
 
 #### "Secretary" Defined
 

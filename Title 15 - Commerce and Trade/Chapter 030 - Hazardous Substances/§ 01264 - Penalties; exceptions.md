@@ -52,7 +52,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 In the case of an attorney general of a State alleging a violation that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce any requirement of this chapter relating to misbranded or banned hazardous substances. The procedural requirements of section 2073 of this title shall apply to any such action.
 
-(Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121; Pub. L. 110–314, title II, §§204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, 122 Stat. 3041, 3042, 3058, 3059, 3060.)
+(Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat.1304, 1305; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121; Pub. L. 110–314, title II, §§204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, 122 Stat. 3041, 3042, 3058, 3059, 3060.)
 
 #### Amendments
 

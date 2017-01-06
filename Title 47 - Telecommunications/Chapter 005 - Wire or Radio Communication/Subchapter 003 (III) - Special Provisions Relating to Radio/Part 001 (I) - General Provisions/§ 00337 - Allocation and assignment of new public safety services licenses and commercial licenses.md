@@ -10,7 +10,7 @@ Not later than January 1, 1998, the Commission shall allocate the electromagneti
 
 #### (b) Assignment
 
-The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.
+The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998.
 
 #### (c) Licensing of unused frequencies for public safety services
 
@@ -46,7 +46,7 @@ In establishing service rules with respect to licenses granted pursuant to this 
 
 &emsp;&emsp;(B) to disaggregate or partition licenses to create smaller spectrum blocks or service areas; and
 
-&emsp;(4) shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) of this section shall not be subject to harmful interference from television broadcast licensees.
+&emsp;(4) shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) shall not be subject to harmful interference from television broadcast licensees.
 
 #### (e) Removal and relocation of incumbent broadcast licensees
 
@@ -104,11 +104,11 @@ Subsec. (a)(2). Pub. L. 112–96, §6101(b)(2), substituted "26" for "36".
 
 Subsec. (e)(2). Pub. L. 109–171, §3002(c)(1)(B), substituted "698 megahertz" for "746 megahertz".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title II, §213(a)(1)\], substituted "The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998." for "The Commission shall—
+<b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title II, §213(a)(1)\], substituted "The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998." for "The Commission shall—
 
-&emsp;"(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and".
+&emsp;"(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998; and".
 
-Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading "commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.", was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
+Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading "commence competitive bidding for the commercial licenses created pursuant to subsection (a) after January 1, 2001.", was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
 
 #### Interference Protection
 
@@ -116,7 +116,7 @@ Pub. L. 107–195, §6, June 19, 2002, 116 Stat. 717, provided that:
 
 "(a)
 
-Interference Waivers.—In granting a request by a television broadcast station licensee assigned to any of channels 52–69 to utilize any channel of channels2–51 that is assigned for digital broadcasting in order to continue analog broadcasting during the transition to digital broadcasting, the Federal Communications Commission may not, either at the time of the grant or thereafter, waive or otherwise reduce—
+Interference Waivers.—In granting a request by a television broadcast station licensee assigned to any of channels 52–69 to utilize any channel of channels 2–51 that is assigned for digital broadcasting in order to continue analog broadcasting during the transition to digital broadcasting, the Federal Communications Commission may not, either at the time of the grant or thereafter, waive or otherwise reduce—
 
 &emsp;"(1) the spacing requirements provided for analog broadcasting licensees within channels 2–51 as required by section 73.610 of the Commission's rules (and the table contained therein) (47 CFR 73.610), or
 

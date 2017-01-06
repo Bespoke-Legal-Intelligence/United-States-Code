@@ -8,7 +8,7 @@ Authority.—The Secretary concerned may, under regulations prescribed under sec
 
 Finality.—Except when procured by fraud, a correction or revocation under this section is final and conclusive on all officers of the United States.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 101–189, div. A, title XIV, §1407(a)(10)(A), Nov. 29, 1989, 103 Stat. 1589; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 101–189, div. A, titleXIV, §1407(a)(10)(A), Nov. 29, 1989, 103 Stat. 1589; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577.)
 
 #### Amendments
 

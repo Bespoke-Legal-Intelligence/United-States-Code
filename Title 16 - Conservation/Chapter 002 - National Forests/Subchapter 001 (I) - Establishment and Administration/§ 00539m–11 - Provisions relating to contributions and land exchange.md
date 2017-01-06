@@ -34,7 +34,7 @@
 
 #### (5) Failure to make offer
 
-&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasonsfor the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
 
 #### (6) Failure to exchange
 
@@ -96,7 +96,7 @@
 
 #### (5) Maximum reimbursement
 
-&emsp;No party shall be reimbursed in excess of $750,000 under this section, and the totalamount reimbursed in accordance with this section shall not exceed $3,000,000.
+&emsp;No party shall be reimbursed in excess of $750,000 under this section, and the total amount reimbursed in accordance with this section shall not exceed $3,000,000.
 
 (Pub. L. 108–7, div. F, title IV, §413, Feb. 20, 2003, 117 Stat. 292; Pub. L. 111–11, title III, §3309, Mar. 30, 2009, 123 Stat. 1139; Pub. L. 113–119, §2, June 9, 2014, 128 Stat. 1185.)
 

@@ -22,7 +22,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (1) Composition of Board; Chairman
 
-&emsp;(A) The Association shall have a Board of Directors which shall consist of 21 persons, 7 of whom shall be appointed by the President and shall be representative of the general public. The remaining 14 directors shall be elected by the common stockholders of the Association entitled to vote pursuant to subsection (f) of this section. Commencing with the annual shareholders meeting to be held in 1993—
+&emsp;(A) The Association shall have a Board of Directors which shall consist of 21 persons, 7 of whom shall be appointed by the President and shall be representative of the general public. The remaining 14 directors shall be elected by the common stockholders of the Association entitled to vote pursuant to subsection (f). Commencing with the annual shareholders meeting to be held in 1993—
 
 &emsp;&emsp;(i) 7 of the elected directors shall be affiliated with an eligible institution; and
 
@@ -98,7 +98,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (e) Advances to lenders that do not discriminate
 
-The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition tothe receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
+The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition to the receipt of aloan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
 
 #### (f) Stock of the Association
 
@@ -112,7 +112,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (3) Dividends
 
-&emsp;To the extent that net income is earned and realized, subject to subsection (g)(2) of this section, dividends may be declared on voting common stock by the Board of Directors. Such dividends as may be declared by the Board of Directors shall be paid to the holders of outstanding shares of voting common stock, except that no such dividends shall be payable with respect to any share which has been called for redemption past the effective date of such call.
+&emsp;To the extent that net income is earned and realized, subject to subsection (g)(2), dividends may be declared on voting common stock by the Board of Directors. Such dividends as may be declared by the Board of Directors shall be paid to the holders of outstanding shares of voting common stock, except that no such dividends shall be payable with respect to any share which has been called for redemption past the effective date of such call.
 
 #### (4) Single class of voting common stock
 
@@ -160,9 +160,9 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (7) Offset fee
 
-&emsp;(A) The Association shall pay to the Secretary, on a monthly basis, an offset fee calculated on an annual basis in an amount equal to 0.30 percent of the principal amount of each loan made, insured or guaranteed under this part that the Association holds (except for loans made pursuant to section 1078–3 of this title, subsection (o) of this section, or subsection (q) of this section) and that was acquired on or after August 10, 1993.
+&emsp;(A) The Association shall pay to the Secretary, on a monthly basis, an offset fee calculated on an annual basis in an amount equal to 0.30 percent of the principal amount of each loan made, insured or guaranteed under this part that the Association holds (except for loans made pursuant to section 1078–3 of this title, subsection (o), or subsection (q)) and that was acquired on or after August 10, 1993.
 
-&emsp;(B) If the Secretary determines that the Association has substantially failed to comply with subsection (q) of this section, subparagraph (A) shall be applied by substituting "1.0 percent" for "0.3 percent".
+&emsp;(B) If the Secretary determines that the Association has substantially failed to comply with subsection (q), subparagraph (A) shall be applied by substituting "1.0 percent" for "0.3 percent".
 
 &emsp;(C) The Secretary shall deposit all fees collected pursuant to this paragraph into the insurance fund established in section 1081 of this title.
 
@@ -184,7 +184,7 @@ The Association shall have power—
 
 &emsp;(7) to sell, convey, mortgage, pledge, lease, exchange, and otherwise dispose of its property and assets;
 
-&emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
+&emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define theirduties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
 &emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
@@ -198,7 +198,7 @@ A report of each such audit for a fiscal year shall be made by the Secretary of 
 
 #### (l) Lawful investment instruments; effect of and exemptions from other laws
 
-All obligations issued by the Association including those made under subsection (d)(4) of this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All stock and obligations issued by the Association pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are direct obligations of, or obligations guaranteed as to principal or interest by, the United States. The Association shall, for the purposes of section 355(2) of title 12, be deemed to be an agency of the United States. The obligations of the Association shall be deemed to be obligations of the United States for the purpose of section 3124 of title 31. For the purpose of the distribution of its property pursuant to section 726 of title 11, the Association shall be deemed a person within the meaning of such title. The priority established in favor of the United States by section 3713 of title 31 shall not establish a priority over the indebtedness of the Association issued or incurred on or before September 30, 1992. The Federal Reserve Banks are authorized to act as depositaries, custodians, or fiscal agents, or a combination thereof, for the Association in the general performance of its powers under this section.
+All obligations issued by the Association including those made under subsection (d)(4) shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All stock and obligations issued by the Association pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are direct obligations of, or obligations guaranteed as to principal or interest by, the United States. The Association shall, for the purposes of section 355(2) of title 12, be deemed to be an agency of the United States. The obligations of the Association shall be deemed to be obligations of the United States for the purpose of section 3124 of title 31. For the purpose of the distribution of its property pursuant to section 726 of title 11, the Association shall be deemed a person within the meaning of such title. The priority established in favor of the United States by section 3713 of title 31 shall not establish a priority over the indebtedness of the Association issued or incurred on or before September 30, 1992. The Federal Reserve Banks are authorized to act as depositaries, custodians, or fiscal agents, or a combination thereof, for the Association in the general performance of its powers under this section.
 
 #### (m) Preparation of obligations
 
@@ -212,7 +212,7 @@ The Association shall, as soon as practicable after the end of each fiscal year,
 
 #### (1) In general
 
-&emsp;The Association or its designated agent may, upon request of a borrower, consolidate loans received under this subchapter and part C of subchapter I of chapter 34 of title 42 in accordance with section 1078–3 of this title.
+&emsp;The Association or its designated agent may, upon request of a borrower, consolidate loans received under this subchapter in accordance with section 1078–3 of this title.
 
 #### (2) Use of existing agencies as agent
 
@@ -336,7 +336,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to anycapital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of theTreasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
@@ -358,7 +358,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (C) Review by Congress; Association implementation
 
-&emsp;&emsp;Congress shall have 60 legislative days after the date on which Congress receives the alternative plan under subparagraph (B) from the Secretary of the Treasury to review such plan. If Congress does not take statutory action with respect to any such plan within such 60-day period, the Association shall immediately proceed with diligence to implement the alternative capital restoration plan of the Secretary of the Treasury under subparagraph (B). If Congress is out of session when any such alternative plan is received, such 60-day period shall begin on the first day of the next session of Congress.
+&emsp;&emsp;Congress shall have 60 legislative days after the date on which Congress receives the alternative plan under subparagraph (B) from the Secretary of the Treasury to review such plan. If Congress does not take statutory action with respect to any such plan within such 60-day period, the Association shall immediately proceed with diligence to implement the alternative capital restoration plan of the Secretary of the Treasury under subparagraph (B). If Congress is out of session when any such alternative plan is received, such 60-day periodshall begin on the first day of the next session of Congress.
 
 #### (7) Actions by Secretary of the Treasury
 
@@ -510,7 +510,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (3) Dissolution of the Association
 
-&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
+&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
 
 #### (A) Establishment of a trust
 
@@ -534,19 +534,19 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Beginning on July 1, 2009, the Association shall not engage in any new business activities or acquire any additional program assets (including acquiring assets pursuant to contractual commitments) described in subsection (d) of this section other than in connection with the Association—
+&emsp;&emsp;&emsp;Beginning on July 1, 2009, the Association shall not engage in any new business activities or acquire any additional program assets (including acquiring assets pursuant to contractual commitments) described in subsection (d) other than in connection with the Association—
 
-&emsp;&emsp;&emsp;&emsp;(I) serving as a lender of last resort pursuant to subsection (q) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) serving as a lender of last resort pursuant to subsection (q); and
 
 &emsp;&emsp;&emsp;&emsp;(II) purchasing loans insured under this part, if the Secretary, with the approval of the Secretary of the Treasury, enters into an agreement with the Association for the continuation or resumption of the Association's secondary market purchase program because the Secretary determines there is inadequate liquidity for loans made under this part.
 
 #### (ii) Agreement
 
-&emsp;&emsp;&emsp;The Secretary is authorized to enter into an agreement described in subclause (II) of clause (i) with the Association covering such secondary market activities. Any agreement entered into under such subclause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under subsection (h)(7) of this section shall not apply to loans acquired under any such agreement with the Secretary.
+&emsp;&emsp;&emsp;The Secretary is authorized to enter into an agreement described in subclause (II) of clause (i) with the Association covering such secondary market activities. Any agreement entered into under such subclause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under subsection (h)(7) shall not apply to loans acquired under any such agreement with the Secretary.
 
 #### (B) Issuance of debt obligations during the wind up period; attributes of debt obligations
 
-&emsp;&emsp;The Association shall not issue debt obligations which mature later than July 1, 2013, except in connection with serving as a lender of last resort pursuant to subsection (q) of this section or with purchasing loans under an agreement with the Secretary as described in subparagraph (A). Nothing in this subsection shall modify the attributes accorded the debt obligations of the Association by this section, regardless of whether such debt obligations are transferred to a trust in accordance with paragraph (3).
+&emsp;&emsp;The Association shall not issue debt obligations which mature later than July 1, 2013, except in connection with serving as a lender of last resort pursuant to subsection (q) or with purchasing loans under an agreement with the Secretary as described in subparagraph (A). Nothing in this subsection shall modify the attributes accorded the debt obligations of the Association by this section, regardless of whether such debt obligations are transferred to a trust in accordance with paragraph (3).
 
 #### (C) Use of Association name
 
@@ -658,7 +658,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes in s
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Termination of Reporting Requirements
 

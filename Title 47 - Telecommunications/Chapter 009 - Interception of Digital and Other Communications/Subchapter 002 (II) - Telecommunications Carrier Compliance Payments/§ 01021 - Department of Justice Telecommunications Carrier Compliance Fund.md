@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, any agency of the United States with
 
 #### (d) Availability of funds for expenditure
 
-Funds shall not be available for obligation unless an implementation plan as set forth in subsection (e) of this section is submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate and the Congress does not by law block or prevent the obligation of such funds. Such funds shall be treated as a reprogramming of funds under section 605 of the Department of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and shall not be available for obligation or expenditure except in compliance with the procedures set forth in that section and this section.
+Funds shall not be available for obligation unless an implementation plan as set forth in subsection (e) is submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate and the Congress does not by law block or prevent the obligation of such funds. Such funds shall be treated as a reprogramming of funds under section 605 of the Department of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and shall not be available for obligation or expenditure except in compliance with the procedures set forth in that section and this section.
 
 #### (e) Implementation plan
 
@@ -30,7 +30,7 @@ The implementation plan shall include:
 
 &emsp;(3) a prioritized list of carrier equipment, facilities, and services deployed on or before January 1, 1995, to be modified by carriers at the request of law enforcement based on its investigative needs;
 
-&emsp;(4) a projected reimbursement plan that estimates the cost for the coming fiscal year and for each fiscal year thereafter, based on the prioritization of law enforcement needs as outlined in (3),<sup>1</sup> of modification by carriers of equipment, facilities and services, installed on or before January 1, 1995.
+&emsp;(4) a projected reimbursement plan that estimates the cost for the coming fiscal year and for each fiscal year thereafter, based on theprioritization of law enforcement needs as outlined in (3),<sup>1</sup> of modification by carriers of equipment, facilities and services, installed on or before January 1, 1995.
 
 #### (f) Annual report to Congress
 

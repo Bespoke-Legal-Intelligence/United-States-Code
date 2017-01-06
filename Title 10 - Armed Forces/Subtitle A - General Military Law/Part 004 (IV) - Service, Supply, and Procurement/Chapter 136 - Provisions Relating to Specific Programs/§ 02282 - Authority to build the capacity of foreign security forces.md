@@ -130,6 +130,10 @@ Appropriate Committees of Congress Defined.—In this section, the term "appropr
 
 (Added Pub. L. 113–291, div. A, title XII, §1205(a)(1), Dec. 19, 2014, 128 Stat. 3533.)
 
+#### Repeal of Section
+
+<i>Pub. L. 114–328, div. A, title XII, §1241(d)(5), Dec. 23, 2016, 130 Stat. 2504, provided that, effective as of the date that is 270 days after Dec. 23, 2016, this section is repealed.</i>
+
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (e)(1)(F)(ii), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
@@ -138,71 +142,23 @@ Section 1033 of the National Defense Authorization Act for Fiscal Year 1998, ref
 
 #### Prior Provisions
 
-A prior section 2282, added Pub. L. 106–398, §1 \[\[div. A\], title I, §131(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–28; amended Pub. L. 108–136, div. A, title X, §1031(a)(14), Nov. 24, 2003, 117 Stat. 1597, related to annual report on the B–2 bomber aircraft, prior to repealby Pub. L. 112–81, div. A, title X, §1061(13)(A), Dec. 31, 2011, 125 Stat. 1583.
+A prior section 2282, added Pub. L. 106–398, §1 \[\[div. A\], title I, §131(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–28; amended Pub. L. 108–136, div. A, title X, §1031(a)(14), Nov. 24, 2003, 117 Stat. 1597, related to annual report on the B–2 bomber aircraft, prior to repeal by Pub. L. 112–81, div. A, title X, §1061(13)(A), Dec. 31, 2011, 125 Stat. 1583.
+
+#### Effective Date of Repeal
+
+Pub. L. 114–328, div. A, title XII, §1241(d)(5), Dec. 23, 2016, 130 Stat. 2504, provided that the repeal of this section is effective as of the date that is 270 days after Dec. 23, 2016.
 
 #### Authority To Provide Support to National Military Forces of Allied Countries for Counterterrorism Operations in Africa
 
-Pub. L. 114–92, div. A, title XII, §1207, Nov. 25, 2015, 129 Stat. 1040, provided that:
+Pub. L. 114–92, div. A, title XII, §1207, Nov. 25, 2015, 129 Stat. 1040, provided authority to provide support to national military forces of allied countries for counterterrorism operations in Africa, prior to repeal by Pub. L. 114–328, div. A, title XII, §1245(c), Dec. 23, 2016, 130 Stat. 2520.
+
+#### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
+
+Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489, provided that:
 
 "(a)
 
-In General.—The Secretary of Defense is authorized, in coordination with the Secretary of State, to provide, on a nonreimbursable basis, logistic support, supplies, and services to the national military forces of an allied country conducting counterterrorism operations in Africa if the Secretary of Defense determines that the provision of such logistic support, supplies, and services, on a nonreimbursable basis, is—
-
-&emsp;"(1) in the national security interests of the United States; and
-
-&emsp;"(2) critical to the timely and effective participation of such national military forces in such operations.
-
-"(b)
-
-Notice to Congress on Support Provided.—Not later than 15 days after providing logistic support, supplies, or services under subsection (a), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice setting forth the following:
-
-&emsp;"(1) The determination of the Secretary specified in subsection (a).
-
-&emsp;"(2) The type of logistic support, supplies, or services provided.
-
-&emsp;"(3) The national military forces supported.
-
-&emsp;"(4) The purpose of the operations for which such support was provided, and the objectives of such support.
-
-&emsp;"(5) The estimated cost of such support.
-
-&emsp;"(6) The intended duration of such support.
-
-"(c)
-
-Limitations.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense may not use the authority in subsection (a) to provide any type of support that is otherwise prohibited by any other provision of law.
-
-&emsp;"(2)
-
-Amount.—The aggregate amount of logistic support, supplies, and services provided under subsection (a) in any fiscal year may not exceed $100,000,000.
-
-"(d)
-
-Reports.—Not later than six months after the date of the enactment of this Act \[Nov. 25, 2015\], and every six months thereafter through the expiration date in subsection (f) of the authority provided by this section, the Secretary of Defense shall submit to the congressional defense committees a report setting forth a description of the use of the authority provided by this section during the six-month period ending on the date of such report. Each report shall include the following:
-
-&emsp;"(1) An assessment of the extent to which the support provided under this section during the period covered by such report facilitated the national military forces of allied countries so supported in conducting counterterrorism operations in Africa.
-
-&emsp;"(2) A description of any efforts by countries that received such support to address, as practicable, the requirements of their forces for logistics support, supplies, or services for conducting counterterrorism operations in Africa, including under acquisition and cross-servicing agreements.
-
-"(e)
-
-Logistic Support, Supplies, and Services Defined.—In this section, the term 'logistic support, supplies, and services' has the meaning given that term in section 2350(1) of title 10, United States Code.
-
-"(f)
-
-Expiration.—The authority provided by this section may not be exercised after September 30, 2018."
-
-#### Training for Eastern European National Military Forces in the Course of Multilateral Exercises
-
-Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, provided that:
-
-"(a)
-
-Authority.—The Secretary of Defense may provide the training specified in subsection (b), and pay the incremental expenses incurred by a country as the direct result of participation in such training, for the national military forces provided for under subsection (c).
+Authority.—The Secretary of Defense may provide the training specified in subsection (b), and pay the incremental expenses incurred by a country as the direct result of participation in such training, for the national security forces provided for under subsection (c).
 
 "(b)
 
@@ -244,7 +200,7 @@ Funding of Incremental Expenses.—
 
 &emsp;"(1)
 
-Annual funding.—Of the amounts specified in paragraph (2) for a fiscal year, up to a total of $28,000,000 may be used to pay incremental expenses under subsection (a) in that fiscal year.
+Annual funding.—Of the amounts specified in paragraph (2) for a fiscal year, up to a total of$28,000,000 may be used to pay incremental expenses under subsection (a) in that fiscal year.
 
 &emsp;"(2)
 
@@ -253,6 +209,8 @@ Amounts.—The amounts specified in this paragraph are as follows:
 &emsp;&emsp;"(A) Amounts authorized to be appropriated for a fiscal year for operation and maintenance, Army, and available for the Combatant Commands Direct Support Program for that fiscal year.
 
 &emsp;&emsp;"(B) Amounts authorized to be appropriated for a fiscal year for operation and maintenance, Defense-wide, and available for the Wales Initiative Fund for that fiscal year.
+
+&emsp;&emsp;"(C) Amounts authorized to be appropriated for a fiscal year for overseas contingency operations for operation and maintenance, Army, and available for additional activities for the European Deterrence Initiative for that fiscal year.
 
 &emsp;"(3)
 
@@ -264,7 +222,7 @@ Briefing to Congress on Use of Authority.—Not later that 90 days after the end
 
 "(f)
 
-Construction of Authority.—The authority provided in subsection (a) is in addition to any other authority provided by law authorizing the provision oftraining for the national military forces of a foreign country, including section 2282 of title 10, United States Code.
+Construction of Authority.—The authority provided in subsection (a) is in addition to any other authority provided by law authorizing the provision of training for the national military forces of a foreign country, including section 2282 of title 10, United States Code.
 
 "(g)
 
@@ -272,11 +230,11 @@ Incremental Expenses Defined.—In this section, the term 'incremental expenses'
 
 "(h)
 
-Termination of Authority.—The authority under this section shall terminate on September 30, 2017. Any activity under this section initiated before that date may be completed, but only using funds available for fiscal years 2016 through 2017."
+Termination of Authority.—The authority under this section shall terminate on September 30, 2018. Any activity under this section initiated before that date may be completed, but only using funds available for fiscal years 2016 through 2018."
 
-#### South China Sea Initiative
+#### Southeast Asia Maritime Security Initiative
 
-Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, provided that:
+Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555, provided that:
 
 "(a)
 
@@ -292,7 +250,7 @@ In general.—The Secretary of Defense is authorized, with the concurrence of th
 
 &emsp;"(2)
 
-Designation of assistance and training.—The provision of assistance and training under this section may be referred to as the 'South China Sea Initiative'.
+Designation of assistance and training.—The provision of assistance and training under this section may be referred to as the 'Southeast Asia Maritime Security Initiative'.
 
 "(b)
 
@@ -406,7 +364,7 @@ Construction With Limitation on Use of Funds.—Human rights training authorized
 
 &emsp;"(2) such training is withheld from any individual of a unit when there is credible information that such individual has committed a gross violation of human rights or has commanded a unit that has committed a gross violation of human rights;
 
-&emsp;"(3) such training may be considered a corrective step, but is not sufficient for meeting the accountability requirement under the exception established in subsection (b) of section 2249e of title 10, United States Code (as added by section 1204(a) of this Act); and
+&emsp;"(3) such training may be considered a corrective step, but is not sufficient for meeting the accountability requirement under the exception established in subsection (b) of section 2249e \[now 362\] of title 10, United States Code (as added by section 1204(a) of this Act); and
 
 &emsp;"(4) reasonable efforts have been made to assist the foreign country to take all necessary corrective steps regarding a gross violation of human rights with respect to the unit, including using funds authorized by this Act \[see Tables for classification\] to provide technical assistance or other types of support for accountability.
 

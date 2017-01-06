@@ -2,7 +2,7 @@
 
 (a) If an employer withdraws from a multiemployer plan in a complete withdrawal or a partial withdrawal, then the employer is liable to the plan in the amount determined under this part to be the withdrawal liability.
 
-(b) For purposes of subsection (a) of this section—
+(b) For purposes of subsection (a)—
 
 &emsp;(1) The withdrawal liability of an employer to a plan is the amount determined under section 1391 of this title to be the allocable amount of unfunded vested benefits, adjusted—
 
@@ -50,7 +50,7 @@ No Increase in Liability.—The amendments made by this section \[amending secti
 
 "(d)
 
-Special Rule for Certain Binding Agreements.—In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting 'December 31, 1980' for 'September 26, 1980'."
+Special Rule for Certain Binding Agreements.—In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be appliedby substituting 'December 31, 1980' for 'September 26, 1980'."
 
 #### Applicability to Certain Employers Withdrawn Before Sept. 26, 1980, From Multiemployer Plan Covering Employees in Seagoing Industry; Effective Date, Coverage, Etc.
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) provide in such notice for a public comment period of thirty days; and
 
-&emsp;&emsp;&emsp;(iii) make available for public inspection and copying during normal business hoursany comment received by the agency during such comment period.
+&emsp;&emsp;&emsp;(iii) make available for public inspection and copying during normal business hours any comment received by the agency during such comment period.
 
 #### (B) Review of comments
 

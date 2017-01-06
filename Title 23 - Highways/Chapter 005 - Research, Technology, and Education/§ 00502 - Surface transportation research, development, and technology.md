@@ -80,7 +80,7 @@ In general.—To the maximum extent practicable, all surface transportation rese
 
 &emsp;&emsp;(B)
 
-Performance measures.—Performance measures shall be established duringthe proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
+Performance measures.—Performance measures shall be established during the proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
 
 &emsp;&emsp;(C)
 
@@ -120,7 +120,7 @@ Cooperation, grants, and contracts.—The Secretary may carry out research, deve
 
 &emsp;&emsp;(B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories; or
 
-&emsp;&emsp;(C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federal agency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
+&emsp;&emsp;(C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federalagency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
 
 &emsp;(4)
 
@@ -300,7 +300,7 @@ Prize increases.—The Secretary may increase the amount of a prize after the in
 
 &emsp;&emsp;&emsp;(vi)
 
-Congressional notification.—A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days haveelapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
+Congressional notification.—A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
 
 &emsp;&emsp;&emsp;(vii)
 
@@ -332,7 +332,7 @@ Information included.—A report under this subparagraph shall include, for each
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a description of the proposed goals of the prize competition;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an analysis of why the use of the authority under subparagraph (A) was the preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an analysis of why the use of the authority under subparagraph (A) wasthe preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the total amount of cash prizes awarded for each prize competition, including a description of the amount of private funds contributed to the program, the source of such funds, and the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the Department for recording as obligations and expenditures;
 
@@ -378,7 +378,7 @@ Use of technology.—The research, development, or use of a technology under a c
 
 Waiver of advertising requirements.—Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
 
-(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1),Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, §52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, §6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
+(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, §52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, §6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
 
 #### References in Text
 
@@ -488,7 +488,7 @@ Pub. L. 109–59, §5201(b)(1), redesignated subsec. (f) as (g). Former subsec. 
 
 Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
-Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
+Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to besubmitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
 Subsec. (i). Pub. L. 109–59, §5201(l), added subsec. (i).
 
@@ -562,7 +562,7 @@ Technical Assistance and Training.—In fiscal year 2006, the Secretary \[of Tra
 
 "(d)
 
-Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $9,000,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsections (a) and (b) of this section. Of the amounts made available by section 5101(a)(2),$750,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsection (c) of this subsection."
+Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $9,000,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsections (a) and (b) of this section. Of the amounts made available by section 5101(a)(2), $750,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsection (c) of this subsection."
 
 #### Thermal Imaging
 
@@ -596,7 +596,7 @@ Study.—Not later than 120 days after the date of enactment of this Act \[June 
 
 "(b)
 
-Consultation.—In conducting the study, the Board shall consult with the American Association of State Highway and Transportation Officials and such other entities as the Board determines appropriate to the conduct of the study.
+Consultation.—In conducting the study, the Board shall consult with the American Association of State Highway and Transportation Officials and suchother entities as the Board determines appropriate to the conduct of the study.
 
 "(c)
 
@@ -696,7 +696,7 @@ Grants.—In carrying out this paragraph, the Secretary may make grants to State
 
 &emsp;&emsp;"(C)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section5001(a)(2) of this Act \[112 Stat. 419\], $700,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section 5001(a)(2) of this Act \[112 Stat. 419\], $700,000 per fiscal year shall be available to carry out this paragraph.
 
 &emsp;"(2)
 
@@ -816,7 +816,7 @@ Requirements.—The Secretary shall award contracts under clause (i)—
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain suchprovisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate.
+Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain such provisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate.
 
 &emsp;&emsp;"(E)
 
@@ -980,7 +980,7 @@ Funding.—Of the amounts made available for each of fiscal years 1998 through 2
 
 #### Intelligent Transportation Systems
 
-Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
+Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX,§9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
 
 #### "SEC. 5201. SHORT TITLE.
 
@@ -1046,7 +1046,7 @@ Consultation With Federal Officials.—In carrying out the intelligent transport
 
 "(e)
 
-Technical Assistance, Training, and Information.—The Secretary may provide technical assistance,training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
+Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
 
 "(f)
 
@@ -1098,7 +1098,7 @@ Technical assistance.—The Secretary shall develop appropriate technical assist
 
 &emsp;"(2)
 
-Intelligent transportation system software.—To the maximum extent practicable, contracting officials shall use as a critical evaluation criterion the Software Engineering Institute's Capability Maturity Model, or another similar recognized standard risk assessment methodology, to reduce the cost, schedule, and performance risks associated with the development, management, and integration of intelligent transportation system software.
+Intelligent transportation system software.—To the maximum extent practicable, contracting officials shall use as a critical evaluation criterion the Software Engineering Institute's Capability Maturity Model, or another similar recognized standard risk assessment methodology, to reduce thecost, schedule, and performance risks associated with the development, management, and integration of intelligent transportation system software.
 
 "(j)
 
@@ -1174,7 +1174,7 @@ Use of standards development organizations.—In carrying out this section, the 
 
 "(b)
 
-Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards andspecifying the status of the development of each standard identified.
+Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
 
 "(c)
 
@@ -1214,7 +1214,7 @@ Conformity With National Architecture.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the Secretary shall ensure that intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including funds made available under this subtitle to deploy intelligent transportation system technologies, conform to the national architecture, applicable standards or provisional standards, and protocols developed under subsection (a).
+In general.—Except as provided in paragraphs (2) and (3), the Secretary shall ensure that intelligenttransportation system projects carried out using funds made available from the Highway Trust Fund, including funds made available under this subtitle to deploy intelligent transportation system technologies, conform to the national architecture, applicable standards or provisional standards, and protocols developed under subsection (a).
 
 &emsp;"(2)
 
@@ -1432,7 +1432,7 @@ Chairman.—The chairman of the advisory committee shall be designated by the Se
 
 "(e)
 
-Pay and Expenses.—Members of the advisory committee shall serve without pay, except that the Secretary may allow any member, while engaged in thebusiness of the advisory committee or a subordinate committee, travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Pay and Expenses.—Members of the advisory committee shall serve without pay, except that the Secretary may allow any member, while engaged in the business of the advisory committee or a subordinate committee, travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
 "(f)
 
@@ -1456,5 +1456,5 @@ Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended b
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 
-Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: "The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors."
+Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: "The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States,including, but not limited to, structural, operational, environmental, and civil disturbance factors."
 

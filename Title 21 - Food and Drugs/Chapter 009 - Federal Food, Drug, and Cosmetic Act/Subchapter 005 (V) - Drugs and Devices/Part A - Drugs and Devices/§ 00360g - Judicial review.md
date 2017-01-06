@@ -12,7 +12,7 @@ Not later than thirty days after—
 
 &emsp;(4) the promulgation of a regulation under paragraph (3) of section 360e(b) of this title requiring a device to have an approval of a premarket application, a regulation under paragraph (4) of that section amending or revoking a regulation under paragraph (3), or an order pursuant to section 360e(g)(1) or 360e(g)(2)(C) of this title,
 
-&emsp;(5) the promulgation of a regulation under section 360f of this title (other than a proposed regulation made effective under subsection (b) of such section upon the regulation's publication) making a device a banned device,
+&emsp;(5) the promulgation of a regulation under section 360f of this title (other than a proposedregulation made effective under subsection (b) of such section upon the regulation's publication) making a device a banned device,
 
 &emsp;(6) the issuance of an order under section 360j(f)(2) of this title,
 
@@ -26,11 +26,11 @@ Not later than thirty days after—
 
 #### (b) Additional data, views, and arguments
 
-If the petitioner applies to the court for leave to adduce additional data, views, or argumentsrespecting the regulation or order being reviewed and shows to the satisfaction of the court that such additional data, views, or arguments are material and that there were reasonable grounds for the petitioner's failure to adduce such data, views, or arguments in the proceedings before the Secretary, the court may order the Secretary to provide additional opportunity for the oral presentation of data, views, or arguments and for written submissions. The Secretary may modify his findings, or make new findings by reason of the additional data, views, or arguments so taken and shall file with the court such modified or new findings, and his recommendation, if any, for the modification or setting aside of the regulation or order being reviewed, with the return of such additional data, views, or arguments.
+If the petitioner applies to the court for leave to adduce additional data, views, or arguments respecting the regulation or order being reviewed and shows to the satisfaction of the court that such additional data, views, or arguments are material and that there were reasonable grounds for the petitioner's failure to adduce such data, views, or arguments in the proceedings before the Secretary, the court may order the Secretary to provide additional opportunity for the oral presentation of data, views, or arguments and for written submissions. The Secretary may modify his findings, or make new findings by reason of the additional data, views, or arguments so taken and shall file with the court such modified or new findings, and his recommendation, if any, for the modification or setting aside of the regulation or order being reviewed, with the return of such additional data, views, or arguments.
 
 #### (c) Standard for review
 
-Upon the filing of the petition under subsection (a) of this section for judicial review of a regulation or order, the court shall have jurisdiction to review the regulation or order in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. A regulation described in paragraph (2) or (5) of subsection (a) of this section and an order issued after the review provided by section 360e(g) of this title shall not be affirmed if it is found to be unsupported by substantial evidence on the record taken as a whole.
+Upon the filing of the petition under subsection (a) of this section for judicial review of a regulation or order, the court shall have jurisdiction to review the regulation or order in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. A regulation described in paragraph (2) or (5) of subsection (a) and an order issued after the review provided by section 360e(g) of this title shall not be affirmed if it is found to be unsupported by substantial evidence on the record taken as a whole.
 
 #### (d) Finality of judgments
 

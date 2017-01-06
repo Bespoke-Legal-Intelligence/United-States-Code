@@ -52,7 +52,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–609, §3, Aug. 8, 1958, 72 Stat. 541, provided that: "This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed."
+Pub. L. 85–609, §3, Aug. 8, 1958, 72 Stat. 541, provided that: "This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided inwhich event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed."
 
 #### Repeal and Effect on Existing Rights
 

@@ -1,0 +1,6 @@
+### §753. Omitted
+
+#### Codification
+
+Section, act Sept. 1, 1954, ch. 1207, §13, 68 Stat. 1103, which related to protection of property rights of minors, persons non compos mentis and other members needing assistance, was omitted from the Code as being of special and not general application.
+

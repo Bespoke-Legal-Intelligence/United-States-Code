@@ -1,6 +1,6 @@
 ### §12005. Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status
 
-(a)(1) Subject to paragraph (2), the authorized strength of the Army and the Air Force in reserve commissioned officers in an active status in each grade named in paragraph (2) is as prescribed by the Secretary of the Army or the Secretary of the Air Force, respectively. A vacancyin any grade may be filled by an authorized appointment in any lower grade.
+(a)(1) Subject to paragraph (2), the authorized strength of the Army and the Air Force in reserve commissioned officers in an active status in each grade named in paragraph (2) is as prescribed by the Secretary of the Army or the Secretary of the Air Force, respectively. A vacancy in any grade may be filled by an authorized appointment in any lower grade.
 
 (2) A strength prescribed by the Secretary concerned under paragraph (1) for a grade may not be higher than the percentage of the strength authorized for the Army or the Air Force, as the case may be, under section 12003 of this title that is specified for that grade as follows:
 
@@ -63,4 +63,8 @@ Subsec. (d)(2). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve"
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–375 amended table generally, increasing percentages of authorized number of officers in grades other than colonel.
 
 <b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
+
+#### Effective Date
+
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

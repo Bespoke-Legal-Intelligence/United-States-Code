@@ -12,7 +12,7 @@
 
 #### (b) Approval as precondition of awards
 
-The Director may not approve an application described in subsection (a)(1) of this section unless the application is recommended for approval by a peer review group established under subsection (c) of this section.
+The Director may not approve an application described in subsection (a)(1) unless the application is recommended for approval by a peer review group established under subsection (c).
 
 #### (c) Establishment of peer review groups
 
@@ -44,7 +44,7 @@ In the case of applications for financial assistance whose direct costs will not
 
 The Director shall issue regulations for the conduct of peer review under this section.
 
-(July 1, 1944, ch. 373, title IX, §942, formerly §922, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1665; renumbered §932, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §942, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
+(July 1, 1944, ch. 373, title IX, §942, formerly §922, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113Stat. 1665; renumbered §932, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §942, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
 
 #### References in Text
 

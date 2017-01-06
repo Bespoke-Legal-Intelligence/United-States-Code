@@ -52,5 +52,5 @@ Part A—Administration
 - [&sect; 00234 - Repealed. Pub. L. 94&#8211;484, title IV, &sect;408(b)(1), Oct. 12, 1976, 90 Stat. 2281, eff. Oct. 1, 1977](%C2%A7%2000234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20IV%2C%20%C2%A7408%28b%29%281%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202281%2C%20eff.%20Oct.%201%2C%201977.md)
 - [&sect; 00235 - Administration of grants in multigrant projects; promulgation of regulations](%C2%A7%2000235%20-%20Administration%20of%20grants%20in%20multigrant%20projects%3B%20promulgation%20of%20regulations.md)
 - [&sect; 00236 - Orphan Products Board](%C2%A7%2000236%20-%20Orphan%20Products%20Board.md)
-- [&sect; 00237 - Silvio O. Conte Senior Biomedical Research Service](%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20Service.md)
+- [&sect; 00237 - Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service](%C2%A7%2000237%20-%20Silvio%20O.%20Conte%20Senior%20Biomedical%20Research%20and%20Biomedical%20Product%20Assessment%20Service.md)
 - [&sect; 00237a - Health and Human Services Office on Women's Health](%C2%A7%2000237a%20-%20Health%20and%20Human%20Services%20Office%20on%20Women%27s%20Health.md)

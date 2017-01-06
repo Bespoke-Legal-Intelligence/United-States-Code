@@ -44,7 +44,7 @@ Nothing in this section may be construed to prohibit or limit the Secretary from
 
 #### (h) Annual report on funding for fissile materials disposition activities
 
-The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report setting forth the extent to which amounts requested for the Department for such fiscal year for fissile materials disposition activities will enable the Department to meetcommitments for the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, and for any other fissile materials disposition activities, in such fiscal year.
+The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget foreach fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report setting forth the extent to which amounts requested for the Department for such fiscal year for fissile materials disposition activities will enable the Department to meet commitments for the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, and for any other fissile materials disposition activities, in such fiscal year.
 
 (Pub. L. 107–314, div. D, title XLIII, §4306A, formerly Pub. L. 107–107, div. C, title XXXI, §3155, Dec. 28, 2001, 115 Stat. 1378; renumbered Pub. L. 107–314, div. D, title XLIII, §4306A, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(B), Nov. 24, 2003, 117 Stat. 1763.)
 

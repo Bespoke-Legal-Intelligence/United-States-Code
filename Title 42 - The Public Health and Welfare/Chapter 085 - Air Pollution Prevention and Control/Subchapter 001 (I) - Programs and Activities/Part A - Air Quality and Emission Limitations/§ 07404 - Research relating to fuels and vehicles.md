@@ -72,7 +72,7 @@ Subsec. (a)(2). Pub. L. 91–604, §2(c), added cls. (B) and (C) and redesignate
 
 Subsec. (b). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary".
 
-Subsec. (c). Pub. L. 91–604, §13(a), substituted provisions authorizing appropriations for fiscal years ending June 30, 1971, 1972, and 1973, for provisions authorizing appropriations for fiscal years ending June 30, 1968 and 1969.
+Subsec. (c). Pub. L. 91–604, §13(a), substituted provisions authorizing appropriations for fiscal years ending June 30, 1971, 1972, and 1973, for provisions authorizingappropriations for fiscal years ending June 30, 1968 and 1969.
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–137 authorized appropriation of $45,000,000 for fiscal year ending June 30, 1970.
 

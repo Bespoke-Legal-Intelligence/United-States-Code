@@ -100,7 +100,7 @@ Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Dis
 
 (3) Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, §514(a), Dec. 31, 2011, 125 Stat. 1394.)
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII,§1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, §514(a), Dec. 31, 2011, 125 Stat. 1394.)
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Subsecs. (d), (e). Pub. L. 105–85, §522(b), added subsecs. (d) and (e) and st
 
 "(d)
 
-Dual-Status Requirement.—The Secretary of Defense shall require the Secretary of the Army and the Secretary of the Air Force to establish as a condition of employment for each individual who is hired after February 10, 1996, as a military technician that the individual maintain membership in the Selected Reserve (so as to be a so-called 'dual-status' technician) and shall require that the civilian and military position skill requirements of dual-status military technicians be compatible. No Department of Defense funds may be spent for compensation for any military technician hired after February 10, 1996, who is not a memberof the Selected Reserve, except that compensation may be paid for up to six months following loss of membership in the Selected Reserve if such loss of membership was not due to the failure to meet military standards."
+Dual-Status Requirement.—The Secretary of Defense shall require the Secretary of the Army and the Secretary of the Air Force to establish as a condition of employment for each individual who is hired after February 10, 1996, as a military technician that the individual maintain membership in the Selected Reserve (so as to be a so-called 'dual-status' technician) and shall require that the civilian and military position skill requirements of dual-status military technicians be compatible. No Department of Defense funds may be spent for compensation for any military technician hired after February 10, 1996, who is not a member of the Selected Reserve, except that compensation may be paid for up to six months following loss of membership in the Selected Reserve if such loss of membership was not due to the failure to meet military standards."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §1214(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -188,23 +188,29 @@ Subsec. (d). Pub. L. 104–201, §1214(1), redesignated subsec. (c) as (d).
 
 Pub. L. 109–163, div. A, title V, §513(b), Jan. 6, 2006, 119 Stat. 3232, provided that: "The Secretary of the Army shall implement subsection (f) of section 10216 of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
 #### Conversion of Certain Military Technician (Dual Status) Positions to Civilian Positions
 
-Pub. L. 114–92, div. A, title X, §1053(a), Nov. 25, 2015, 129 Stat. 981, provided that:
+Pub. L. 114–92, div. A, title X, §1053(a), Nov. 25, 2015, 129 Stat. 981, as amended by Pub. L. 114–328, div. A, title X, §1084(a), Dec. 23, 2016, 130 Stat. 2421, provided that:
 
 "(1)
 
-In general.—The Secretary of Defense shall convert not fewer than 20 percent of the positions described in paragraph (2) as of January 1, 2017, from military technician (dual status) positions to positions filled by individuals who are employed under section 3101 of title 5, United States Code, and are not military technicians.
+In general.—By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than 20 percent of all military technician positions to positions filled by individuals who are employed under section 3101 of title 5, United States Code, or section 1601 of title 10, United States Code, and are not military technicians. The positions to be converted are described in paragraph (2).
 
 "(2)
 
 Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:
 
-&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations in the report of the Secretary of Defense under section 519 of the National Defense Authorization Act for Fiscal Year 2011 (Public Law 112–81; 125 Stat. 1397).
+&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section.
 
 &emsp;"(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection.
 
 "(3)
 
-Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary may fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures."
+Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures."
+
+\[Pub. L. 114–328, div. A, title X, §1084(a)(2), Dec. 23, 2016, 130 Stat. 2421, which directed amendment of par. (2) of section 1053(a) of Pub. L. 114–92, set out above, by striking "in the report" and all that follows and inserting "by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section.", was executed to subpar. (A) of par. (2) to reflect the probable intent of Congress.\]
 

@@ -24,7 +24,7 @@ In this section:
 
 #### (4) Real conflict of interest
 
-&emsp;The term "real conflict of interest" means any instance where a member of the Board, the methodology committee established under subsection (d)(6), or an advisory panel appointed under subsection (d)(4), or a close relative of such member, has received or could receive either of the following:
+&emsp;The term "real conflict of interest" means any instance where a member of the Board,the methodology committee established under subsection (d)(6), or an advisory panel appointed under subsection (d)(4), or a close relative of such member, has received or could receive either of the following:
 
 &emsp;&emsp;(A) A direct financial benefit of any amount deriving from the result or findings of a study conducted under this section.
 
@@ -112,7 +112,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (iv) Subsequent use of the data
 
-&emsp;&emsp;&emsp;The Institute shall not allow the subsequent use of data from original research in work-for-hire contracts with individuals,entities, or instrumentalities that have a financial interest in the results, unless approved under a data use agreement with the Institute.
+&emsp;&emsp;&emsp;The Institute shall not allow the subsequent use of data from original research in work-for-hire contracts with individuals, entities, or instrumentalities that have a financial interest in the results, unless approved under a data use agreement with the Institute.
 
 #### (C) Review and update of evidence
 
@@ -172,7 +172,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (C) Functions
 
-&emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness researchby, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
+&emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness research by, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
 
 &emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
 
@@ -198,7 +198,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Composition
 
-&emsp;&emsp;Such peer-review process shall be designed in a manner so as to avoid bias and conflicts of interest on the part of the reviewers and shall be composed of experts in the scientific field relevant to the research under review.
+&emsp;&emsp;Such peer-review process shall be designed in a manner so as to avoid bias and conflictsof interest on the part of the reviewers and shall be composed of experts in the scientific field relevant to the research under review.
 
 #### (C) Use of existing processes
 
@@ -232,7 +232,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (9) Adoption
 
-&emsp;Subject to subsection (h)(1), the Institute shall adopt the national priorities identified under paragraph (1)(A), the research projectagenda established under paragraph (1)(B), the methodological standards developed and updated by the methodology committee under paragraph (6)(C)(i), and any peer-review process provided under paragraph (7) by majority vote. In the case where the Institute does not adopt such processes in accordance with the preceding sentence, the processes shall be referred to the appropriate staff or entity within the Institute (or, in the case of the methodological standards, the methodology committee) for further review.
+&emsp;Subject to subsection (h)(1), the Institute shall adopt the national priorities identified under paragraph (1)(A), the research project agenda established under paragraph (1)(B), the methodological standards developed and updated by the methodology committee under paragraph (6)(C)(i), and any peer-review process provided under paragraph (7) by majority vote. In the case where the Institute does not adopt such processes in accordance with the preceding sentence, the processes shall be referred to the appropriate staff or entity within the Institute (or, in the case of the methodological standards, the methodology committee) for further review.
 
 #### (10) Annual reports
 
@@ -300,7 +300,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (6) Director and staff; experts and consultants
 
-&emsp;The Board may employ and fix the compensation of an Executive Director and such other personnel as may be necessary to carry out the duties of the Institute and may seek such assistance and support of, or contract with, experts and consultants that may benecessary for the performance of the duties of the Institute.
+&emsp;The Board may employ and fix the compensation of an Executive Director and such other personnel as may be necessary to carry out the duties of the Institute and may seek such assistance and support of, or contract with, experts and consultants that may be necessary for the performance of the duties of the Institute.
 
 #### (7) Meetings and hearings
 
@@ -402,7 +402,7 @@ Section 399H of the Public Health Service Act, referred to in subsec. (d)(1)(A),
 
 <b>2010</b>—Subsec. (d)(2)(B)(ii)(IV). Pub. L. 111–148, §10602(1)(A), inserted ", as described in subparagraph (A)(ii)," after "original research" and ", as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate" after "publication".
 
-Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: "Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years)."
+Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, textread as follows: "Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years)."
 
 Subsec. (d)(8)(A)(iv). Pub. L. 111–148, §10602(2), substituted "do not include" for "not be construed as mandates for".
 

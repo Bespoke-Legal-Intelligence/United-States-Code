@@ -6,7 +6,7 @@ The Chief of Engineers shall ensure that the design and construction activities 
 
 #### (b) Factors
 
-In determining whether a review of design and construction of a project is necessary under thissection, the Chief of Engineers shall consider whether—
+In determining whether a review of design and construction of a project is necessary under this section, the Chief of Engineers shall consider whether—
 
 &emsp;(1) the failure of the project would pose a significant threat to human life;
 

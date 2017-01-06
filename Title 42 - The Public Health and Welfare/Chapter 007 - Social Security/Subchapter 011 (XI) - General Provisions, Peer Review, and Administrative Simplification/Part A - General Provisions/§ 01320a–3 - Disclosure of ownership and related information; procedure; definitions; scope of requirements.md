@@ -4,19 +4,19 @@
 
 (1) The Secretary shall by regulation or by contract provision provide that each disclosing entity (as defined in paragraph (2)) shall—
 
-&emsp;(A) as a condition of the disclosing entity's participation in, or certification or recertification under, any of the programs established by subchapters V, XVIII, and XIX of this chapter, or
+&emsp;(A) as a condition of the disclosing entity's participation in, or certification or recertification under, any of the programs established by subchapters V, XVIII, and XIX, or
 
-&emsp;(B) as a condition for the approval or renewal of a contract or agreement between the disclosing entity and the Secretary or the appropriate State agency under any of the programs established under subchapters V, XVIII, and XIX of this chapter,
+&emsp;(B) as a condition for the approval or renewal of a contract or agreement between the disclosing entity and the Secretary or the appropriate State agency under any of the programs established under subchapters V, XVIII, and XIX,
 
-> supply the Secretary or the appropriate State agency with full and complete information as to the identity of each person with an ownership or control interest (as defined in paragraph (3)) in the entity or in any subcontractor (as defined by the Secretary in regulations) in which the entity directly or indirectly has a 5 per centum or more ownership interest and supply the Secretary with the <sup>1</sup> both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.
+> supply the Secretary or the appropriate State agency with full and complete information as tothe identity of each person with an ownership or control interest (as defined in paragraph (3)) in the entity or in any subcontractor (as defined by the Secretary in regulations) in which the entity directly or indirectly has a 5 per centum or more ownership interest and supply the Secretary with the <sup>1</sup> both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3)), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.
 
 (2) As used in this section, the term "disclosing entity" means an entity which is—
 
 &emsp;(A) a provider of services (as defined in section 1395x(u) of this title, other than a fund), an independent clinical laboratory, a renal disease facility, a managed care entity, as defined in section 1396u–2(a)(1)(B) of this title, or a health maintenance organization (as defined in section 300e(a) of this title);
 
-&emsp;(B) an entity (other than an individual practitioner or group of practitioners) that furnishes, or arranges for the furnishing of, items or services with respect to which payment may be claimed by the entity under any plan or program established pursuant to subchapter V of this chapter or under a State plan approved under subchapter XIX of this chapter; or
+&emsp;(B) an entity (other than an individual practitioner or group of practitioners) that furnishes, or arranges for the furnishing of, items or services with respect to which payment may be claimed by the entity under any plan or program established pursuant to subchapter V or under a State plan approved under subchapter XIX; or
 
-&emsp;(C) a carrier or other agency or organization that is acting as a fiscal intermediary or agent with respect to one or more providers of services (for purposes of part A or part B of subchapter XVIII of this chapter, or both, or for purposes of a State plan approved under subchapter XIX of this chapter) pursuant to (i) an agreement under section 1395h of this title, (ii) a contract under section 1395u of this title, or (iii) an agreement with a single State agency administering or supervising the administration of a State plan approved under subchapter XIX of this chapter.
+&emsp;(C) a carrier or other agency or organization that is acting as a fiscal intermediary or agent with respect to one or more providers of services (for purposes of part A or part B of subchapter XVIII, or both, or for purposes of a State plan approved under subchapter XIX) pursuant to (i) an agreement under section 1395h of this title, (ii) a contract under section 1395u of this title, or (iii) an agreement with a single State agency administering or supervising the administration of a State plan approved under subchapter XIX.
 
 (3) As used in this section, the term "person with an ownership or control interest" means, with respect to an entity, a person who—
 
@@ -30,7 +30,7 @@
 
 #### (b) Other disclosing entities
 
-To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1) of this section, with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
+To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1), with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
 
 #### (c) Required disclosure of ownership and additional disclosable parties information
 
@@ -42,7 +42,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 &emsp;&emsp;(B) beginning on the effective date of the final regulations promulgated under paragraph (3)(A), for reporting such information in accordance with such final regulations.
 
-> &emsp;Nothing in subparagraph (A) shall be construed as authorizing a facility to dispose of ordelete information described in such subparagraph after the effective date of the final regulations promulgated under paragraph (3)(A).
+> &emsp;Nothing in subparagraph (A) shall be construed as authorizing a facility to dispose of or delete information described in such subparagraph after the effective date of the final regulations promulgated under paragraph (3)(A).
 
 #### (2) Information described
 
@@ -64,7 +64,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 #### (B) Special rule where information is already reported or submitted
 
-&emsp;&emsp;To the extent that information reported by a facility to the Internal Revenue Service on Form 990, information submitted by a facility to the Securities and Exchange Commission, or information otherwise submitted to the Secretary or any other Federal agency contains the information described in clauses (i), (ii), or (iii) of subparagraph (A), the facility may provide such Form or such information submitted to meet the requirements of paragraph (1).
+&emsp;&emsp;To the extent that information reported by a facility to the Internal Revenue Service on Form 990, information submitted by a facility to the Securities and Exchange Commission, or information otherwise submitted to the Secretary or any other Federal agency contains the information described in clauses (i), (ii), or (iii) of subparagraph (A), the facility may provide such Form or suchinformation submitted to meet the requirements of paragraph (1).
 
 #### (C) Special rule
 
@@ -144,13 +144,13 @@ Section 6101(b) of the Patient Protection and Affordable Care Act, referred to i
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–148 added subsec. (c).
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §4313(a), inserted before period at end of concluding provisions "and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest." The insertion was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §4313(a), inserted before period at end of concluding provisions "and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3)), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest." The insertion was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
 
 Subsec. (a)(2)(A). Pub. L. 105–33, §4707(c), inserted "a managed care entity, as defined in section 1396u–2(a)(1)(B) of this title," after "renal disease facility,".
 
 <b>1987</b>—Subsec. (a)(3)(A)(ii). Pub. L. 100–93 struck out "$25,000 or" after "exceeds".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2353(i)(1), substituted in subpars. (A) and (B) "and XIX of this chapter" for "XIX, and XX of this chapter".
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2353(i)(1), substituted in subpars. (A) and (B) "and XIX" for "XIX, and XX".
 
 Subsec. (a)(2)(D). Pub. L. 97–35, §2353(i)(2)(C), struck out subpar. (D) which included within term "disclosing entity" an entity, other than an individual practitioner or group of practitioners, that furnishes, or arranges for the furnishing of, health related services with respect to which payment may be claimed by the entity under a State plan or program approved under subchapter XX of this chapter.
 

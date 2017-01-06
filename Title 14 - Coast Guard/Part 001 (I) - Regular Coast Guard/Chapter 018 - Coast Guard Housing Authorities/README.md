@@ -8,7 +8,12 @@
 
 |  |  |
 | :--- | ---: |
-| [681\.](%C2%A7%2000681%20-%20General%20authority.md) | General authority. |
+| 681\.<sup>2</sup> | General authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | \[682 to 684. Repealed.\] |  |
 | [685\.](%C2%A7%2000685%20-%20Conveyance%20of%20real%20property.md) | Conveyance of real property. |
 | \[686. | Repealed.\] |
@@ -27,13 +32,15 @@
 
 <i><sup>1</sup></i><i> Another item 680 appears in the analysis for chapter 17 of this title.</i>
 
+<i><sup>2</sup></i><i> Another item 681 appears in the analysis for chapter 17 of this title.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00680 - 1 Definitions](%C2%A7%2000680%20-%201%20Definitions.md)
-- [&sect; 00681 - General authority](%C2%A7%2000681%20-%20General%20authority.md)
+- [&sect; 00681 - 1 General authority](%C2%A7%2000681%20-%201%20General%20authority.md)
 - [&sect; 00682 to 684 - Repealed. Pub. L. 111&#8211;281, title II, &sect;221(a)(3), Oct. 15, 2010, 124 Stat. 2919](%C2%A7%2000682%20to%20684%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93281%2C%20title%20II%2C%20%C2%A7221%28a%29%283%29%2C%20Oct.%2015%2C%202010%2C%20124%20Stat.%202919.md)
 - [&sect; 00685 - Conveyance of real property](%C2%A7%2000685%20-%20Conveyance%20of%20real%20property.md)
 - [&sect; 00686 - Repealed. Pub. L. 111&#8211;281, title II, &sect;221(a)(5), Oct. 15, 2010, 124 Stat. 2919](%C2%A7%2000686%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93281%2C%20title%20II%2C%20%C2%A7221%28a%29%285%29%2C%20Oct.%2015%2C%202010%2C%20124%20Stat.%202919.md)

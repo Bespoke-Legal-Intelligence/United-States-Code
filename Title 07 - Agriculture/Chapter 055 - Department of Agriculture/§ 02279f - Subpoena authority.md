@@ -14,7 +14,7 @@ In the case of disobedience to a subpoena by any person, the Secretary concerned
 
 #### (d) Compensation
 
-Witnesses summoned by the Secretary concerned shall be paid the same fees and mileage that are paid to witnesses in courts of the United States, and witnesses whose depositions are taken, and the persons taking the depositions shall be entitled to the same fees that are paid for similar services in the courts of the United States.
+Witnesses summoned by the Secretary concerned shall be paid the same fees and mileagethat are paid to witnesses in courts of the United States, and witnesses whose depositions are taken, and the persons taking the depositions shall be entitled to the same fees that are paid for similar services in the courts of the United States.
 
 #### (e) Procedures
 

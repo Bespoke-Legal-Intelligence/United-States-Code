@@ -1,6 +1,6 @@
 ### §7421. Personnel administration: in general
 
-(a) Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this chapter inpositions in the Veterans Health Administration listed in subsection (b).
+(a) Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this chapter in positions in the Veterans Health Administration listed in subsection (b).
 
 (b) Subsection (a) refers to the following positions:
 

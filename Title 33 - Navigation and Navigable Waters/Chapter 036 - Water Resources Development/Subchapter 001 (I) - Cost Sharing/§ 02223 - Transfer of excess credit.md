@@ -1,8 +1,14 @@
 ### §2223. Transfer of excess credit
 
-#### (a) In general
+#### (a) Application of credit
 
-Subject to subsection (b), the Secretary may apply credit for in-kind contributions provided by a non-Federal interest that are in excess of the required non-Federal cost share for a water resources development study or project toward the required non-Federal cost share for a different water resources development study or project.
+#### (1) In general
+
+&emsp;Subject to subsection (b), the Secretary may apply credit for in-kind contributions provided by a non-Federal interest that are in excess of the required non-Federal cost share for a water resources development study or project toward the required non-Federal cost share for a different water resources development study or project.
+
+#### (2) Application prior to completion of project
+
+&emsp;On request of a non-Federal interest, the credit described in paragraph (1) may be applied prior to completion of a study or project, if the credit amount is verified by the Secretary.
 
 #### (b) Restrictions
 
@@ -44,7 +50,7 @@ The authority provided in this section shall terminate 10 years after June 10, 2
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after June 10, 2014, and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation andInfrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
+&emsp;&emsp;Not later than 2 years after June 10, 2014, and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
 
 #### (B) Final report
 
@@ -60,7 +66,7 @@ The authority provided in this section shall terminate 10 years after June 10, 2
 
 &emsp;&emsp;(C) an assessment of the impact of the authority under this section on other water resources projects.
 
-(Pub. L. 113–121, title I, §1020, June 10, 2014, 128 Stat. 1227.)
+(Pub. L. 113–121, title I, §1020, June 10, 2014, 128 Stat. 1227; Pub. L. 114–322, title I, §1166, Dec. 16, 2016, 130 Stat. 1670.)
 
 #### References in Text
 
@@ -69,6 +75,10 @@ Section 1018(a), referred to in subsec. (b)(1), means section 1018(a) of Pub. L.
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–322 substituted "Application of credit" for "In general" in subsec. heading, designated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
 
 #### "Secretary" Defined
 

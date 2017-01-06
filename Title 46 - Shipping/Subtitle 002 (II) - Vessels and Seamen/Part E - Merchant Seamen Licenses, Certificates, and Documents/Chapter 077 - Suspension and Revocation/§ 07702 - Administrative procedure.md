@@ -24,7 +24,7 @@
 
 (2) If a license, certificate, or document is temporarily suspended under this section, an expedited hearing under subsection (a) of this section shall be held within 30 days after the temporary suspension.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(3), May 15, 1985, 99 Stat. 67; Pub. L.101–380, title IV, §4103(a)(1), Aug. 18, 1990, 104 Stat. 510; Pub. L. 105–383, title III, §304(a), Nov. 13, 1998, 112 Stat. 3419; Pub. L. 108–293, title IV, §407, title VI, §609(2), Aug. 9, 2004, 118 Stat. 1044, 1058.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(3), May 15, 1985, 99 Stat. 67; Pub. L. 101–380, title IV, §4103(a)(1), Aug. 18, 1990, 104 Stat. 510; Pub. L. 105–383, title III, §304(a), Nov. 13, 1998, 112 Stat. 3419; Pub. L. 108–293, title IV, §407, title VI, §609(2), Aug. 9, 2004, 118 Stat. 1044, 1058.)
 
 Historical and Revision Notes
 

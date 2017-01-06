@@ -56,7 +56,7 @@
 
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
-<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
+<b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings andestablishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
 
 #### Effective Date of 1981 Amendment
 
@@ -76,7 +76,7 @@ Pub. L. 102–372, §1(a), Sept. 30, 1992, 106 Stat. 1170, provided that: "This 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–63, §1, Oct. 16, 1981, 95 Stat. 1011, provided that: "This Act \[enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the 'National Tourism Policy Act'."
+Pub. L. 97–63, §1, Oct. 16, 1981, 95 Stat. 1011, provided that: "This Act \[enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the 'National Tourism Policy Act'."
 
 #### Short Title
 
@@ -186,7 +186,7 @@ This plan should also identify other appropriate measures that will enhance and 
 
 (d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to the economy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
 
-Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (Task Force) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
+Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (TaskForce) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
 
 (i) Department of State;
 

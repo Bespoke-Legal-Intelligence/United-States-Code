@@ -20,7 +20,7 @@
 
 (c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
 
-(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 614, §139; amended Pub. L. 94–106, title VIII, §805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, §909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, §3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered §2431 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, §1301(13), title XIV, §1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, §3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, §4321(b)(18), Feb. 10, 1996, 110 Stat. 673.)
+(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 614, §139; amended Pub. L. 94–106, title VIII, §805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, §909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, §3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered §2431 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003,1004; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, §1301(13), title XIV, §1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, §3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, §4321(b)(18), Feb. 10, 1996, 110 Stat. 673.)
 
 #### Prior Provisions
 
@@ -83,6 +83,246 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Designation of Department of Defense Senior Official With Principal Responsibility for Directed Energy Weapons
+
+Pub. L. 114–328, div. A, title II, §219, Dec. 23, 2016, 130 Stat. 2053, provided that:
+
+"(a)
+
+Designation of Senior Official.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall designate a senior official already serving within the Department of Defense as the official with principal responsibility for the development and demonstration of directed energy weapons for the Department.
+
+&emsp;"(2)
+
+Development of strategic plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—The senior official designated under paragraph (1) shall develop a detailed strategic plan to develop, mature, and transition directed energy technologies to acquisition programs of record.
+
+&emsp;&emsp;"(B)
+
+Roadmap.—Such strategic plan shall include a strategic roadmap for the development and fielding of directed energy weapons and key enabling capabilities for the Department, identifying and coordinating efforts across military departments to achieve overall joint mission effectiveness.
+
+&emsp;"(3)
+
+Acceleration of development and fielding of directed energy weapons capabilities.—
+
+&emsp;&emsp;"(A)
+
+In general.—To the degree practicable, the senior official designated under paragraph (1) shall use the flexibility of the policies of the Department in effect on the day before the date of the enactment of this Act, or any successor policies, to accelerate the development and fielding of directed energy capabilities.
+
+&emsp;&emsp;"(B)
+
+Engagement.—The Secretary shall use the flexibility of the policies of the Department in effect on the day before the date of the enactment of this Act, or any successor policies, to ensure engagement with defense and private industries, research universities, and unaffiliated, nonprofit research institutions.
+
+&emsp;"(4)
+
+Advice for exercises and demonstrations.—The senior official designated under paragraph (1) shall, to the degree practicable, provide technical advice and support to entities in the Department of Defense and the military departments conducting exercises or demonstrations with the purpose of improving the capabilities of or operational viability of technical capabilities supporting directed energy weapons, including supporting military utility assessments of the relevant cost and benefits of directed energy weapon systems.
+
+&emsp;"(5)
+
+Support for development of requirements.—The senior official designated under paragraph (1) shall coordinate with the military departments, Defense Agencies, and the Joint Directed Energy Transition Office to define requirements for directed energy capabilities that address the highest priority warfighting capability gaps of the Department.
+
+&emsp;"(6)
+
+Availability of information.—The Secretary of Defense shall ensure that the senior official designated under paragraph (1) has access to such information on programs and activities of the military departments and other defense agencies as the Secretary considers appropriate to coordinate departmental directed energy efforts.
+
+"(b)
+
+Joint Directed Energy Transition Office.—
+
+&emsp;"(1)
+
+Redesignation.—The High Energy Laser Joint Technology Office of the Department of Defense is hereby redesignated as the 'Joint Directed Energy Transition Office' (in this subsection referred to as the 'Office'), and shall report to the official designated under subsection (a)(1).
+
+&emsp;"(2)
+
+Additional functions.—In addition to the functions and duties of the Office in effect on the day before the date of the enactment of this Act \[Dec. 23, 2016\], the Office shall assist the senior official designated under paragraph (1) of subsection (a) in carrying out paragraphs (2) through (5) of such subsection.
+
+&emsp;"(3)
+
+Funding.—The Secretary may make available such funds to the Office for basic research, applied research, advanced technology development, prototyping, studies and analyses, and organizational support as the Secretary considers appropriate to support the efficient and effective development of directed energy systems and technologies and transition of those systems and technologies into acquisition programs or operational use."
+
+#### National Missile Defense Policy
+
+Pub. L. 114–328, div. A, title XVI, §1681(a), Dec. 23, 2016, 130 Stat. 2623, provided that: "It is the policy of the United States to maintain and improve an effective, robust layered missile defense system capable of defending the territory of the United States, allies, deployed forces, and capabilities against the developing and increasingly complex ballistic missile threat with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense."
+
+Pub. L. 106–38, §2, July 22, 1999, 113 Stat. 205, which provided that it was the policy of the United States to deploy as soon as technologically possible an effective National Missile Defense system capable of defending the territory of the United States against limited ballistic missile attack with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense, was repealed by Pub. L. 114–328, div. A, title XVI, §1681(b), Dec. 23, 2016, 130 Stat. 2623.
+
+#### Designation of Certain Acquisition Authority
+
+Pub. L. 114–328, div. A, title XVI, §1684(e), (f), Dec. 23, 2016, 130 Stat. 2627, provided that:
+
+"(e)
+
+Designation Required.—
+
+&emsp;"(1)
+
+Authority.—Not later than March 31, 2018, the Secretary of Defense shall designate a military department or Defense Agency with acquisition authority with respect to—
+
+&emsp;&emsp;"(A) the capability to defend the homeland from cruise missiles; and
+
+&emsp;&emsp;"(B) left-of-launch ballistic missile defeat capability.
+
+&emsp;"(2)
+
+Discretion.—The Secretary may designate a single military department or Defense Agency with the acquisition authority described in paragraph (1) or designate a separate military department or Defense Agency for each function specified in such paragraph.
+
+&emsp;"(3)
+
+Validation.—In making a designation under paragraph (1), the Secretary shall include a description of the manner in which the military requirements for such capabilities will be validated.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Defense Agency' has the meaning given that term in section 101(a)(11) of title 10, United States Code.
+
+&emsp;"(2) The term 'intelligence community' has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+
+#### Technical Authority for Integrated Air and Missile Defense Activities and Programs
+
+Pub. L. 114–328, div. A, title XVI, §1686(a), Dec. 23, 2016, 130 Stat. 2628, provided that:
+
+"(1)
+
+In general.—The Director of the Missile Defense Agency is the technical authority of the Department of Defense for integrated air and missile defense activities and programs, including joint engineering and integration efforts for such activities and programs, including with respect to defining and controlling the interfaces of such activities and programs and the allocation of technical requirements for such activities and programs.
+
+"(2)
+
+Detailees.—
+
+&emsp;"(A) In carrying out the technical authority under paragraph (1), the Director may seek to have staff detailed to the Missile Defense Agency from the Joint Functional Component Command for Integrated Missile Defense and the Joint Integrated Air and Missile Defense Organization in a number the Director determines necessary in accordance with subparagraph (B).
+
+&emsp;"(B) In detailing staff under subparagraph (A) to carry out the technical authority under paragraph (1), the total number of staff, including detailees, of the Missile Defense Agency who carry out such authority may not exceed the number that is twice the number of such staff carrying out such authority as of January 1, 2016."
+
+#### Hypersonic Defense Capability Development
+
+Pub. L. 114–328, div. A, title XVI, §1687, Dec. 23, 2016, 130 Stat. 2629, provided that:
+
+"(a)
+
+Executive Agent.—The Director of the Missile Defense Agency shall serve as the executive agent for the Department of Defense for the development of a capability by the United States to counter hypersonic boost-glide vehicle capabilities and conventional prompt strike capabilities that may be employed against the United States, the allies of the United States, and the deployed forces of the United States.
+
+"(b)
+
+Duties.—In carrying out subsection (a), the Director shall—
+
+&emsp;"(1) develop architectures for a hypersonic defense capability, from detecting threats to intercepting such threats, that—
+
+&emsp;&emsp;"(A) involves systems of the military departments and the Defense Agencies; and
+
+&emsp;&emsp;"(B) includes both kinetic and nonkinetic options for such interception; and
+
+&emsp;"(2) not later than September 30, 2017, establish a program of record to develop a hypersonic defense capability.
+
+"(c)
+
+Reports Required.—Not later than March 31, 2017—
+
+&emsp;"(1) the Director shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the architectures and sensors evaluated pursuant to subsection (b); and
+
+&emsp;"(2) the Chairman of the Joint Chiefs of Staff shall submit to the congressional defense committees a report on the military capability or capabilities and capability gaps relating to the threat posed by hypersonic boost-glide vehicles and maneuvering ballistic missiles to the United States, the allies of the United States, and the deployed forces of the United States.
+
+"(d)
+
+Notification of Funding Procedures.—Not later than 90 days after the date on which the Director submits the report under subsection (c)(1), the Director shall notify the congressional defense committees with respect to whether the Director intends to use established procedures for reprogramming or transfers to carry out subsection (a) to conduct activities regarding experimentation, modeling and simulation, or research and development, to develop a hypersonic defense capability.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Defense Agencies' has the meaning given that term in section 101(a)(11) of title 10, United States Code.
+
+&emsp;"(2) The term 'executive agent' has the meaning given the term 'DoD Executive Agent'in Department of Defense Directive 5101.1, or any successor directive relating to the responsibilities of an executive agent of the Department of Defense.
+
+&emsp;"(3) The term 'hypersonic defense capability' means the capability to counter hypersonic boost-glide vehicles and conventional prompt strike ballistic missiles."
+
+#### Required Testing by Missile Defense Agency of Ground-Based Midcourse Defense Element of Ballistic Missile Defense System
+
+Pub. L. 114–328, div. A, title XVI, §1689, Dec. 23, 2016, 130 Stat. 2631, provided that:
+
+"(a)
+
+Testing Required.—Except as provided in subsection (c), not less frequently than once each fiscal year, the Director of the Missile Defense Agency shall administer a flight test of the ground-based midcourse defense element of the ballistic missile defense system.
+
+"(b)
+
+Requirements.—The Director shall ensure that each test carried out under subsection (a) provides, when possible, for one or more of the following:
+
+&emsp;"(1) The validation of technical improvements made to increase system performance and reliability.
+
+&emsp;"(2) The evaluation of the operational effectiveness of the ground-based midcourse defense element of the ballistic missile defense system.
+
+&emsp;"(3) The use of threat-representative targets and critical engagement conditions.
+
+&emsp;"(4) The evaluation of new configurations of interceptors before they are fielded.
+
+&emsp;"(5) The satisfaction of the 'fly before buy' acquisition approach for new interceptor components or software.
+
+&emsp;"(6) The evaluation of the interoperability of the ground-based midcourse defense element with other elements of the ballistic missile defense systems.
+
+"(c)
+
+Exceptions.—The Director may forgo a test under subsection (a) in a fiscal year under one or more of the following conditions:
+
+&emsp;"(1) Such a test would jeopardize national security.
+
+&emsp;"(2) Insufficient time considerations between post-test analysis and subsequent pre-test design.
+
+&emsp;"(3) Insufficient funding.
+
+&emsp;"(4) An interceptor is unavailable.
+
+&emsp;"(5) A target is unavailable or is insufficiently representative of threats.
+
+&emsp;"(6) The test range or necessary test assets are unavailable.
+
+&emsp;"(7) Inclement weather.
+
+&emsp;"(8) Any other condition the Director considers appropriate.
+
+"(d)
+
+Certification.—Not later than 45 days after forgoing a test for a condition or conditions under subsection (c)(8), the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification setting forth the condition or conditions that caused the test to be forgone under such subsection.
+
+"(e)
+
+Report.—Not later than 45 days after forgoing a test for any condition specified in subsection (c), the Director shall submit to the congressional defense committees a report setting forth the rationale for forgoing the test and a plan to restore an intercept flight test in the Integrated Master Test Plan of the Missile Defense Agency. In the case of a test forgone for a condition or conditions under subsection (c)(8), the report required by this subsection is in addition to the certification required by subsection (d)."
+
+#### Pilot Program on Loss of Unclassified, Controlled Technical Information
+
+Pub. L. 114–328, div. A, title XVI, §1692, Dec. 23, 2016, 130 Stat. 2636, provided that:
+
+"(a)
+
+Pilot Program.—Beginning not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Director of the Missile Defense Agency shall carry out a pilot program to implement improvements to the data protection options in the programs of the Missile Defense Agency (including the contractors of the Agency), particularly with respect to unclassified, controlled technical information and controlled unclassified information.
+
+"(b)
+
+Priority.—In carrying out the pilot program under subsection (a), the Director shall give priority to implementing data protection options that are used by the private sector and have been proven successful.
+
+"(c)
+
+Duration.—The Director shall carry out the pilot program under subsection (a) for not more than a 5-year period.
+
+"(d)
+
+Notification.—Not later than 30 days before the date on which the Director commences the pilot program under subsection (a), the Director shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of—
+
+&emsp;"(1) the data protection options that the Director is considering to implement under the pilot program and the potential costs of such options; and
+
+&emsp;"(2) such option that is the preferred option of the Director.
+
+"(e)
+
+Data Protection Options.—In this section, the term 'data protection options' means actions to improve processes, practices, and systems that relate to the safeguarding, hygiene, and data protection of information."
 
 #### Plan on Full Integration and Exploitation of Overhead Persistent Infrared Capability
 
@@ -334,6 +574,48 @@ Plan.—In the budget justification materials submitted to Congress in support o
 
 &emsp;&emsp;"(B) an update on the progress of the Director in implementing subsections (b) and (c)."
 
+#### Concept Development of Space-Based Missile Defense Layer
+
+Pub. L. 114–92, div. A, title XVI, §1685, Nov. 25, 2015, 129 Stat. 1142, as amended by Pub. L. 114–328, div. A,title XVI, §1683, Dec. 23, 2016, 130 Stat. 2624, provided that:
+
+"(a)
+
+In General.—Not later than 30 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Director of the Missile Defense Agency, in coordination with the Secretary of the Air Force and the Director of the Defense Advanced Research Projects Agency, shall commence the concept definition of a space-based ballistic missile intercept layer to the ballistic missile defense system that provides—
+
+&emsp;"(1) a boost-phase layer for missile defense; or
+
+&emsp;"(2) additional defensive options against direct ascent anti-satellite weapons, hypersonic glide vehicles, and maneuvering reentry vehicles.
+
+"(b)
+
+Elements.—The activities carried out under subsection (a) shall include, at a minimum, the following:
+
+&emsp;"(1) Draft operation concepts for how a space-based ballistic missile intercept layer would function in the context of a multi-layer missile defense architecture.
+
+&emsp;"(2) An assessment of how such a space-based ballistic missile intercept layer could contribute to the defense of the United States against intercontinental ballistic missiles with varying degrees of effectiveness.
+
+&emsp;"(3) An assessment of the required architecture and components (including hardware, software, and related command and control systems) and the maturity of critical technologies necessary to make such a space-based ballistic missile intercept layer operational.
+
+&emsp;"(4) An assessment of how such a space-based ballistic missile intercept layer could protect the satellites of the United States against adversary anti-satellite weapons.
+
+&emsp;"(5) An assessment of the effort required to integrate and make interoperable such a space-based ballistic missile intercept layer with the ground-based missile defense system.
+
+&emsp;"(6) Any other matters the Director of the Missile Defense Agency considers appropriate.
+
+"(c)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Director shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+&emsp;"(1) the findings of the concept development required by subsection (a);
+
+&emsp;"(2) a plan for developing one or more programs of record for a space-based ballistic missile intercept layer, including estimates of the appropriate identifiable costs of each such potential program of record for each fiscal year over the five-fiscal-year period beginning with the fiscal year following the fiscal year in which the report is submitted, assuming such potential program of record is technically feasible and could be deployed by December 31, 2027; and
+
+&emsp;"(3) the views of the Director regarding such findings and plan.
+
+"(d)
+
+Commencement of RDT\&E.—Not later than 60 days after the submittal of the report required by subsection (c), the Director may commence coordination and activities associated with research, development, test, and evaluation on the programs described in subsection (c)(2)."
+
 #### Development of Requirements To Support Integrated Air and Missile Defense Capabilities
 
 Pub. L. 114–92, div. A, title XVI, §1687, Nov. 25, 2015, 129 Stat. 1143, provided that:
@@ -390,7 +672,7 @@ Successful Testing Required Prior to Final Production or Operational Deployment.
 
 Assessment by Director of Operational Test and Evaluation.—The Director of Operational Test and Evaluation shall—
 
-&emsp;"(1) provide to the Secretary the assessment of the Director, based on the available test data, of the sufficiency, adequacy, and results of the testing of each covered system, including an assessment of whether the covered system will be sufficiently effective, suitable, and survivable when needed; and
+&emsp;"(1) provide to the Secretary the assessment of the Director, based on the available test data, of the sufficiency, adequacy, and results of the testing of each covered system, including an assessment of whetherthe covered system will be sufficiently effective, suitable, and survivable when needed; and
 
 &emsp;"(2) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written summary of such assessment.
 
@@ -409,6 +691,8 @@ Rule of Construction.—Nothing in this section shall be construed to alter, mod
 "(f)
 
 Covered System.—In this section, the term 'covered system' means a new or substantially upgraded interceptor or weapon system of the ballistic missile defense system, other than the re-designed exo-atmospheric kill vehicle covered by the acquisition plan developed under section 1663 \[set out below\]."
+
+\[For termination, effective Dec. 31, 2021, of reporting provisions in subsecs. (c)(2) and (d)(2) of section 1662 of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 #### Acquisition Plan for Re-Designed Exo-Atmospheric Kill Vehicle
 
@@ -490,7 +774,7 @@ Pub. L. 113–66, div. A, title II, §237, Dec. 26, 2013, 127 Stat. 717, provide
 
 Improved Kill Assessment Capability.—The Director of the Missile Defense Agency, in consultation with the Commander of the United States Strategic Command and the Commander of the United States Northern Command, shall develop—
 
-&emsp;"(1) options to achieve an improved kill assessment capability for the ground-based midcourse defense system that can be developed as soon as practicable with acceptable acquisition risk, with the objective of achieving initial operating capability by not later than December 31, 2019, including by improving—
+&emsp;"(1) options to achieve an improved kill assessment capability for the ground-based midcourse defensesystem that can be developed as soon as practicable with acceptable acquisition risk, with the objective of achieving initial operating capability by not later than December 31, 2019, including by improving—
 
 &emsp;&emsp;"(A) the exo-atmospheric kill vehicle for the ground-based interceptor;
 
@@ -742,7 +1026,7 @@ Testing Criteria.—Not later than February 1, 2005, the Secretary of Defense, i
 
 "(b)
 
-Use of Criteria.—(1) The Secretary of Defense shall ensure that, not later than October 1, 2005, a testof the ballistic missile defense system is conducted consistent with the criteria prescribed under subsection (a).
+Use of Criteria.—(1) The Secretary of Defense shall ensure that, not later than October 1, 2005, a test of the ballistic missile defense system is conducted consistent with the criteria prescribed under subsection (a).
 
 "(2) The Secretary of Defense shall ensure that each block configuration of the ballistic missile defense system is tested consistent with the criteria prescribed under subsection (a).
 
@@ -842,6 +1126,8 @@ Annual OT\&E Assessment and Characterization of Certain Ballistic Missile Defens
 
 \[Pub. L. 110–417, \[div. A\], title II, §231(c), Oct. 14, 2008, 122 Stat. 4391, provided that: "The amendments made by this section \[amending Pub. L. 107–107, §232(h), set out above\] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date."\]
 
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 232(h) of Pub. L. 107–107, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+
 #### Missile Defense Testing Initiative
 
 Pub. L. 107–107, div. A, title II, §234, Dec. 28, 2001, 115 Stat. 1039, provided that:
@@ -883,10 +1169,6 @@ Requirements for Early Stages of System Development.—In order to demonstrate a
 "(c)
 
 Specific Requirements for Ground-Based Mid-Course Interceptor Systems.—For ground-based mid-course interceptor systems, the Secretary of Defense shall initiate steps during fiscal year 2002 to establish a flight-test capability of launching not less than three missile defense interceptors and not less than two ballistic missile targets to provide a realistic test infrastructure."
-
-#### National Missile Defense Policy
-
-Pub. L. 106–38, §2, July 22, 1999, 113 Stat. 205, provided that: "It is the policy of the United States to deploy as soon as is technologically possible an effective National Missile Defense system capable of defending the territory of the United States against limited ballistic missile attack (whether accidental, unauthorized, or deliberate) with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense."
 
 #### National Missile Defense Program
 
@@ -1122,7 +1404,7 @@ Compliance Review for Brilliant Eyes.—The Secretary of Defense shall review th
 
 Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense shall review the theater ballistic missile program known as the Navy Upper Tier program to determine whether the development, testing, and deployment of the system being developed under that program would be in compliance with the ABM Treaty, including the interpretation of the Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
-"(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review under paragraph (1).
+"(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, asdetermined under the compliance review under paragraph (1).
 
 "(e)
 
@@ -1184,7 +1466,7 @@ Description of Testing Program.—The Secretary of Defense shall include in the 
 
 "(d)
 
-Relationship to Arms Control Treaties.—The Secretary shall include in the report under subsection (b) a statement of how production and deployment of any projected Theater Missile Defense program willconform to all relevant arms control agreements. The report shall describe any potential noncompliance with any such agreement, when such noncompliance is expected to occur, and whether provisions need to be renegotiated within that agreement to address future contingencies.
+Relationship to Arms Control Treaties.—The Secretary shall include in the report under subsection (b) a statement of how production and deployment of any projected Theater Missile Defense program will conform to all relevant arms control agreements. The report shall describe any potential noncompliance with any such agreement, when such noncompliance is expected to occur, and whether provisions need to be renegotiated within that agreement to address future contingencies.
 
 "(e)
 
@@ -1266,7 +1548,7 @@ Report.—When the President's budget for fiscal year 1994 is submitted to Congr
 
 &emsp;"(1) setting forth the proposed allocation by the Secretary of funds for the Theater Missile Defense Initiative for fiscal year 1994, shown for each program, project, and activity;
 
-&emsp;"(2) describing an updated master plan for the Theater Missile Defense Initiative that includes (A) a detailed consideration of plans for theater and tacticalmissile defense doctrine, training, tactics, and force structure, and (B) a detailed acquisition strategy which includes a consideration of acquisition and life-cycle costs through the year 2005 for the programs, projects, and activities associated with the Theater Missile Defense Initiative;
+&emsp;"(2) describing an updated master plan for the Theater Missile Defense Initiative that includes (A) a detailed consideration of plans for theater and tactical missile defense doctrine, training, tactics, and force structure, and (B) a detailed acquisition strategy which includes a consideration of acquisition and life-cycle costs through the year 2005 for the programs, projects, and activities associated with the Theater Missile Defense Initiative;
 
 &emsp;"(3) assessing the possible near-term contribution and cost-effectiveness for theater missile defense of exoatmospheric capabilities, to include at a minimum a consideration of—
 
@@ -1292,7 +1574,7 @@ Pub. L. 100–456, div. A, title I, §117, Sept. 29, 1988, 102 Stat. 1933, as am
 
 #### Prohibition of Certain Contracts With Foreign Entities
 
-Pub. L. 100–180, div. A, title II, §222, Dec. 4, 1987, 101 Stat. 1055, prohibited use of appropriated funds for certain Strategic Defense Initiative program contracts with foreign entities, prior to repeal by Pub. L. 111–383, div. A, title II, §222, Jan. 7, 2011, 124 Stat. 4168.
+Pub. L. 100–180, div. A, title II, §222, Dec. 4, 1987, 101 Stat. 1055, prohibited use of appropriated funds for certain Strategic Defense Initiative program contractswith foreign entities, prior to repeal by Pub. L. 111–383, div. A, title II, §222, Jan. 7, 2011, 124 Stat. 4168.
 
 #### Limitation on Transfer of Certain Military Technology to Independent States of Former Soviet Union
 

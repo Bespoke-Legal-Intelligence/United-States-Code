@@ -30,3 +30,7 @@ Subsecs. (c), (d). Pub. L. 110–314, §221(a)(2), added subsecs. (c) and (d).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
 
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
+

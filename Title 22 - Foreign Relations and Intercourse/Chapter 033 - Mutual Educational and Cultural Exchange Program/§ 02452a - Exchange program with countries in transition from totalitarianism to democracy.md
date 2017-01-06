@@ -16,7 +16,7 @@ Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C.
 
 #### (b) Transfer of funds
 
-The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of theUnited States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
+The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
 
 (Pub. L. 101–610, title VI, §602, Nov. 16, 1990, 104 Stat. 3186; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(c), Oct. 21, 1998, 112 Stat. 2681–787.)
 

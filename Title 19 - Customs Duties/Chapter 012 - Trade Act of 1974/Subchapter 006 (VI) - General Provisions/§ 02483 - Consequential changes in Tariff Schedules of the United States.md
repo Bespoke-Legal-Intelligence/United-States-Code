@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Delegation of Functions
 
@@ -30,7 +30,7 @@ Proc. No. 6914, Aug. 26, 1996, 61 F.R. 45851, provided:
 
 2\. On July 22, 1996, the United States and the EC signed an agreement concluding the negotiations on compensation. To recognize the membership of Austria, Finland, and Sweden in the EC-15, the tariff-rate quota (TRQ) allocations for cheeses from these countries will become part of the total TRQ allocations for cheeses from the EC-15, but will be reserved for use by these countries through 1997.
 
-3\. Section 404(d)(3) of the Uruguay Round Agreements Act (URAA) (19 U.S.C. 3601(d)(3)) authorizes the President to allocate the in-quota quantity of a tariff-rate quota for any agricultural product among supplying countries or customs areas and to modify any allocation as the President determines appropriate. Pursuant to section 404(d)(3) of the URAA, I have determined that it is appropriate to modify the TRQ allocations for cheeses by providing that the TRQ allocations for cheeses from Austria, Finland, and Sweden will become part of the total TRQ allocations for cheeses from theEC-15, but will be reserved for use by these countries through 1997.
+3\. Section 404(d)(3) of the Uruguay Round Agreements Act (URAA) (19 U.S.C. 3601(d)(3)) authorizes the President to allocate the in-quota quantity of a tariff-rate quota for any agricultural product among supplying countries or customs areas and to modify any allocation as the President determines appropriate. Pursuant to section 404(d)(3) of the URAA, I have determined that it is appropriate to modify the TRQ allocations for cheeses by providing that the TRQ allocations for cheeses from Austria, Finland, and Sweden will become part of the total TRQ allocations for cheeses from the EC-15, but will be reserved for use by these countries through 1997.
 
 4\. Section 604 of the Trade Act of 1974, as amended ("Trade Act") (19 U.S.C. 2483), authorizes the President to embody in the Harmonized Tariff Schedule of the United States (HTS) the substance of the relevant provisions of that Act, and of other Acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction. The modification of the TRQ allocations for cheeses is such an action.
 

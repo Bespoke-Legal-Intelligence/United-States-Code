@@ -20,7 +20,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "Indian tribe" has the meaning given the term in section 450b of this title.
+&emsp;&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of this title.
 
 #### (B) Inclusion
 
@@ -52,7 +52,7 @@ A person specified in subsection (d) may, in a civil action in a court of compet
 
 #### (c) Punitive damages; attorney's fee
 
-In addition to the relief specified in subsection (b), the court may award punitive damages andthe costs of the civil action and a reasonable attorney's fee.
+In addition to the relief specified in subsection (b), the court may award punitive damages and the costs of the civil action and a reasonable attorney's fee.
 
 #### (d) Persons that may initiate civil actions
 

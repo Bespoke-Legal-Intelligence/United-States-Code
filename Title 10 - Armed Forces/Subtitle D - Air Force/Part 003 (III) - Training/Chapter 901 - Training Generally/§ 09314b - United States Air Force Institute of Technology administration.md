@@ -18,7 +18,7 @@ Eligibility.—The Commandant shall be one of the following:
 
 &emsp;(3)
 
-Term for civilian commandant.—An individual selected for the position of Commandant under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
+Term for civilian commandant.—An individual selected for the position of Commandant under paragraph (2)(B) shall serve inthat position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
 (b)
 

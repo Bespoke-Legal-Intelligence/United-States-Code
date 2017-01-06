@@ -12,7 +12,7 @@
 
 #### (3) Dissemination of information requirement
 
-&emsp;Activities referred to in paragraph (1) shall include the dissemination of information relating to the development of vaccines and therapeutic agents for the prevention of malaria (including information relating to participation in, and the results of, clinical trials for such vaccines and agents conducted by United States Government agencies) to appropriate officials in such countries.
+&emsp;Activities referred to in paragraph (1) shall include the dissemination of information relating to the development of vaccines andtherapeutic agents for the prevention of malaria (including information relating to participation in, and the results of, clinical trials for such vaccines and agents conducted by United States Government agencies) to appropriate officials in such countries.
 
 #### (b) Authorization of appropriations
 

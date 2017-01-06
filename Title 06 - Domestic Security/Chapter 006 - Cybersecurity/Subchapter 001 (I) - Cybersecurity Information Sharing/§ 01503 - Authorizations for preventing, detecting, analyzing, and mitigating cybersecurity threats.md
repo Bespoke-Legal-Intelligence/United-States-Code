@@ -132,7 +132,7 @@
 
 &emsp;&emsp;(A) facilitating the prevention, investigation, or mitigation of a cybersecurity threat to an information system or information that is stored on, processed by, or transiting an information system; or
 
-&emsp;&emsp;(B) communicating or disclosing a cyber threat indicator to help prevent, investigate, or mitigate the effect of a cybersecurity threat to an information system or information that is stored on, processed by, or transiting an information system.
+&emsp;&emsp;(B) communicating or disclosing a cyber threat indicator to help prevent, investigate,or mitigate the effect of a cybersecurity threat to an information system or information that is stored on, processed by, or transiting an information system.
 
 #### (f) No right or benefit
 

@@ -24,7 +24,7 @@
 
 #### (1) Curatorial Advisory Board
 
-&emsp;There is established a Board which shall be chaired by the Senate Curator. The Curatorial Advisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on suchother matters as the Commission determines appropriate.
+&emsp;There is established a Board which shall be chaired by the Senate Curator. The Curatorial Advisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
 
 #### (2) Additional advisory boards
 

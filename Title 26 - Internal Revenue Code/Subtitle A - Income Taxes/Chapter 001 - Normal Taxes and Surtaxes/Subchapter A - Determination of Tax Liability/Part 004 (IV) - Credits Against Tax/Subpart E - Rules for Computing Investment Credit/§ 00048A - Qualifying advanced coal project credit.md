@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (D) Time to meet criteria for certification
 
-&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the criteria set forth in subsection (e)(2) have been met.
+&emsp;&emsp;Each applicant for certification shall have 2 years from the date of acceptance by theSecretary of the application during which to provide to the Secretary evidence that the criteria set forth in subsection (e)(2) have been met.
 
 #### (E) Period of issuance
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the fuel input for the project, when completed, is at least 75 percent coal;
 
-&emsp;&emsp;(C) the project, consisting of one or more electric generation units at one site, willhave a total nameplate generating capacity of at least 400 megawatts;
+&emsp;&emsp;(C) the project, consisting of one or more electric generation units at one site, will have a total nameplate generating capacity of at least 400 megawatts;
 
 &emsp;&emsp;(D) the applicant provides evidence that a majority of the output of the project is reasonably expected to be acquired or utilized;
 
@@ -345,7 +345,7 @@ Disclosure of allocations.—The amendment made by subsection (d) \[amending thi
 
 Clerical amendment.—The amendment made by subsection (c)(5) \[amending this section\] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58\]."
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15346(b), May 22, 2008, 122 Stat. 1523, and Pub. L. 110–246, §4(a), title XV, §15346(b), June 18, 2008, 122 Stat. 1664, 2285, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 18, 2008\] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment."
 

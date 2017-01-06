@@ -4,7 +4,7 @@
 
 Required Cost or Pricing Data and Certification.—(1) The head of an agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
 
-&emsp;(A) An offeror for a prime contract under this chapter to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
+&emsp;(A) An offeror for a prime contract under this chapter to be entered into using procedures other than sealed-bid procedures that is only expected to receive one bid shall be required to submit cost or pricing data before the award of a contract if—
 
 &emsp;&emsp;(i) in the case of a prime contract entered into after December 5, 1990, the price of the contract to the United States is expected to exceed $500,000; and
 
@@ -20,13 +20,13 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;(C) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section and—
 
-&emsp;&emsp;(i) in the case of a subcontract under a prime contract referred to in subparagraph\(A)(i), the price of the subcontract is expected to exceed $500,000;
+&emsp;&emsp;(i) in the case of a subcontract under a prime contract referred to in subparagraph (A)(i), the price of the subcontract is expected to exceed $500,000;
 
 &emsp;&emsp;(ii) in the case of a subcontract entered into after December 5, 1991, under a prime contract that was entered into on or before December 5, 1990, and that has been modified pursuant to paragraph (6), the price of the subcontract is expected to exceed $500,000; and
 
 &emsp;&emsp;(iii) in the case of a subcontract not covered by clause (i) or (ii), the price of the subcontract is expected to exceed $100,000.
 
-&emsp;(D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
+&emsp;(D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricingof a change or modification to the subcontract if—
 
 &emsp;&emsp;(i) in the case of a change or modification to a subcontract referred to in subparagraph (C)(i) or (C)(ii), the price adjustment is expected to exceed $500,000; and
 
@@ -58,7 +58,7 @@ In general.—Submission of certified cost or pricing data shall not be required
 
 &emsp;&emsp;(A) for which the price agreed upon is based on—
 
-&emsp;&emsp;&emsp;(i) adequate price competition; or
+&emsp;&emsp;&emsp;(i) adequate competition that results in at least two or more responsive and viable competing bids; or
 
 &emsp;&emsp;&emsp;(ii) prices set by law or regulation;
 
@@ -84,13 +84,13 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
 
-&emsp;(B) In this paragraph, the term "noncommercial modification", with respect to acommercial item, means a modification of such item that is not a modification described in section 103(3)(A) of title 41.
+&emsp;(B) In this paragraph, the term "noncommercial modification", with respect to a commercial item, means a modification of such item that is not a modification described in section 103(3)(A) of title 41.
 
 &emsp;(C) Nothing in subparagraph (A) shall be construed—
 
 &emsp;&emsp;(i) to limit the applicability of the exception in subparagraph (A) or (C) of paragraph (1) to cost or pricing data on a noncommercial modification of a commercial item; or
 
-&emsp;&emsp;(ii) to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the cost and pricing of noncommercial modifications of such item.
+&emsp;&emsp;(ii) to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the costand pricing of noncommercial modifications of such item.
 
 &emsp;(4)
 
@@ -105,6 +105,10 @@ Commercial item determination.—(A) For purposes of applying the commercial ite
 &emsp;&emsp;(ii) issue a revised determination with a written explanation of the basis for the revision.
 
 &emsp;(5) A contracting officer shall consider evidence provided by an offeror of recent purchase prices paid by the Government for the same or similar commercial items in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison after considering the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased or applicable terms and conditions.
+
+&emsp;(6)
+
+Determination by prime contractor.—A prime contractor required to submit certified cost or pricing data under subsection (a) with respect to a prime contract shall be responsible for determining whether a subcontract under such contract qualifies for an exception under paragraph (1)(A) from such requirement.
 
 (c)
 
@@ -142,7 +146,7 @@ Limitations on authority.—The Federal Acquisition Regulation shall include the
 
 (e)
 
-Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to excludeany significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
+Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
 
 (B) For the purposes of this section, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
@@ -208,7 +212,7 @@ Subcontract.—The term "subcontract" includes a transfer of commercial items be
 
 Commercial item.—The term "commercial item" has the meaning provided such term in section 103 of title 41.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, §1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§812, 851(b), 852(e), 853, Nov. 25, 2015, 129 Stat. 891, 916, 918, 919.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986,100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, §1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§812, 851(b), 852(e), 853, Nov. 25, 2015, 129 Stat. 891, 916, 918, 919; Pub. L. 114–328, div. A, title VIII, §822, Dec. 23, 2016, 130 Stat. 2276.)
 
 #### References in Text
 
@@ -221,6 +225,12 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–328, §822(1), inserted "that is only expected to receive one bid" after "entered into using procedures other than sealed-bid procedures" in introductory provisions.
+
+Subsec. (b)(1)(A)(i). Pub. L. 114–328, §822(2)(A), substituted "competition that results in at least two or more responsive and viable competing bids" for "price competition".
+
+Subsec. (b)(6). Pub. L. 114–328, §822(2)(B), added par. (6).
 
 <b>2015</b>—Subsec. (b)(1)(D). Pub. L. 114–92, §812, added subpar. (D).
 
@@ -358,7 +368,7 @@ Subsec. (a)(1)(C)(i). Pub. L. 101–510, §803(a)(1)(C), substituted "$500,000 o
 
 Subsec. (a)(1)(D). Pub. L. 101–510, §803(a)(1)(D), substituted "$500,000 (or such lesser amount as may be prescribed by the head of the agency) or, in the case of a change or modification to be made after December 31, 1995, $100,000" for "$100,000".
 
-Subsec. (c). Pub. L. 101–510, §803(d), inserted at end "In any case in which the head of the agency requiressuch data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement."
+Subsec. (c). Pub. L. 101–510, §803(d), inserted at end "In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement."
 
 <b>1987</b>—Subsec. (a)(5). Pub. L. 100–180, §804(b)(1), substituted "a waiver under subsection (b)(2)" for "such a waiver", and struck out first sentence authorizing head of an agency to waive requirement under this subsection for contractor, subcontractor, or offeror to submit cost or pricing data.
 
@@ -412,33 +422,45 @@ Pub. L. 114–92, div. A, title VIII, §851(e), Nov. 25, 2015, 129 Stat. 917, pr
 
 #### Pilot Program for Streamlining Awards for Innovative Technology Projects
 
-Pub. L. 114–92, div. A, title VIII, §873(a)–(d), Nov. 25, 2015, 129 Stat. 939, 940, provided that:
+Pub. L. 114–92, div. A, title VIII, §873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, §896, Dec. 23, 2016, 130 Stat. 2326, provided that:
 
 "(a)
 
-Exception From Certified Cost and Pricing Data Requirements.—The requirements under section 2306a(a) of title 10, United States Code, shall not apply to a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
+Exception From Certified Cost and Pricing Data Requirements.—The requirements under section 2306a(a) of title 10, United States Code, shall not applyto a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
 
 &emsp;"(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
 
-&emsp;"(2) the Small Business Innovation Research Program,
+&emsp;"(2) the Small Business Innovation Research Program or Small Business Technology Transfer Program,
 
-> unless the head of the agency determines that submission of cost and pricing data should be required basedon past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
+> unless the head of the agency determines that submission of cost and pricing data should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
 
 "(b)
 
-Exception From Records Examination Requirement.—The requirements under subsection (b) of section 2313 of title 10, United States Code, shall not apply to a contract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
+Exception From Records Examination Requirement.—The requirements under subparagraphs (A), (B), and (C) of section 2313(a)(2) of title 10, United States Code, and subsection (b) of section 2313 of title 10, United States Code, shall not apply to a contract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
 
 &emsp;"(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
 
 &emsp;"(2) the Small Business Innovation Research Program,
 
-> unless the head of the agency determines that auditing of records should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
+> unless the head of the agency determines that auditing of records should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award, and if such performance audit is initiated within 18 months of the contract completion.
 
 "(c)
 
-Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2020.
+Treatment as Competitive Procedures.—Use of a technical, merit-based selection procedure or the Small Business Innovation Research Program or Small Business Technology Transfer Program for the pilot program under this section shall be considered to be use of competitive procedures for purposes of chapter 137 of title 10, United States Code.
 
 "(d)
+
+Discretion To Use Non-certified Accounting Systems.—In executing programs under this pilot program, the Secretary of Defense shall establish procedures under which a small business or nontraditional contractor may engage an independent certified public accountant for the review and certification of its accounting system for the purposes of any audits required by regulation, unless the head of the agency determines that this is not appropriate based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
+
+"(e)
+
+Guidance and Training.—The Secretary of Defense shall ensure that acquisition and auditing officials are provided guidance and training on the flexible use and tailoring of authorities under the pilot program to maximize efficiency and effectiveness.
+
+"(f)
+
+Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2020.
+
+"(g)
 
 Definitions.—In this section \[enacting this note and amending section 638 of Title 15, Commerce and Trade\]:
 
@@ -449,6 +471,8 @@ Small business.—The term 'small business' has the meaning given the term 'smal
 &emsp;"(2)
 
 Nontraditional defense contractor.—The term 'nontraditional defense contractor' has the meaning given that term in section 2302(9) of title 10, United States Code."
+
+\[Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting ", and if such performance audit is initiated within 18 months of the contract completion" before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.\]
 
 #### Pilot Program Regarding Risk-Based Contracting for Smaller Contract Actions Under the Truth in Negotiations Act
 

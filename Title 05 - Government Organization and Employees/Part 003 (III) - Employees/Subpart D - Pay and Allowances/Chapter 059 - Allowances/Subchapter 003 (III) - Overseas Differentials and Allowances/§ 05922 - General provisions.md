@@ -6,7 +6,7 @@
 
 &emsp;(2) whose rate of basic pay is fixed by statute or, without taking into consideration the allowances and differentials provided by this subchapter, is fixed by administrative action pursuant to law or is fixed administratively in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility in the continental United States.
 
-> To the extent authorized by a provision of statute other than this subchapter, the allowances and differentials provided by this subchapter may be paid to an employee officially stationed in a foreign area who is not a citizen of the United States.
+> To the extent authorized by a provision of statute other than this subchapter, the allowances and differentials provided by this subchaptermay be paid to an employee officially stationed in a foreign area who is not a citizen of the United States.
 
 (b) Allowances granted under this subchapter may be paid in advance, or advance of funds may be made therefor, through the proper disbursing official in such sums as are considered advisable in consideration of the need and the period of time during which expenditures must be made in advance by the employee. An advance of funds not subsequently covered by allowances accrued to the employee under this subchapter is recoverable by the Government by—
 

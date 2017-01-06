@@ -44,7 +44,7 @@ Consideration of proposals.—
 
 &emsp;&emsp;(A)
 
-Minimum requirements.—No proposal shall be considered that fails to meet the minimum requirements as determined by the Secretary. The minimum requirements shall include the following:
+Minimum requirements.—No proposal shall be considered that fails to meet theminimum requirements as determined by the Secretary. The minimum requirements shall include the following:
 
 &emsp;&emsp;&emsp;(i) The minimum acceptable franchise fee or other forms of consideration to the Federal Government.
 
@@ -162,7 +162,7 @@ Contract with estimated gross receipts of less than $500,000.—A concessioner t
 
 &emsp;(9)
 
-New or additional services.—The Secretary shall not grant a preferential right to aconcessioner to provide new or additional services in a System unit.
+New or additional services.—The Secretary may propose to amend the applicable terms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
 
 &emsp;(10)
 
@@ -184,7 +184,7 @@ Contract in extraordinary circumstances.—The Secretary may award a concession 
 
 &emsp;&emsp;&emsp;(ii) submission of notice to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3138.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3138; Pub. L. 114–289, title V, §502, Dec. 16, 2016, 130 Stat. 1490.)
 
 Historical and Revision Notes
 
@@ -209,6 +209,10 @@ In paragraph (2)(B)(i), the words "by electronic means" are substituted for "the
 In paragraph (5)(C), the words "concession contract" are substituted for "concession, contracts" to correct an error in the source provision.
 
 In paragraph (8)(B)(ii)(III), the word "concession" is added for consistency in this subchapter.
+
+#### Amendments
+
+<b>2016</b>—Par. (9). Pub. L. 114–289 amended par. (9) generally. Prior to amendment, text read as follows: "The Secretary shall not grant a preferential right to a concessioner to provide new or additional services in a System unit."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "</i>
 

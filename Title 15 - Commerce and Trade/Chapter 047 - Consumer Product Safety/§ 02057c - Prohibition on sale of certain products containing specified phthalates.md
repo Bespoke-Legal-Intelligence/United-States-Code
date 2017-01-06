@@ -30,7 +30,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 &emsp;&emsp;&emsp;(v) review all relevant data, including the most recent, best-available, peer-reviewed, scientific studies of these phthalates and phthalate alternatives that employ objective data collection practices or employ other objective methods;
 
-&emsp;&emsp;&emsp;(vi) consider the health effects of phthalates not only from ingestion butalso as a result of dermal, hand-to-mouth, or other exposure;
+&emsp;&emsp;&emsp;(vi) consider the health effects of phthalates not only from ingestion but also as a result of dermal, hand-to-mouth, or other exposure;
 
 &emsp;&emsp;&emsp;(vii) consider the level at which there is a reasonable certainty of no harm to children, pregnant women, or other susceptible individuals and their offspring, considering the best available science, and using sufficient safety factors to account for uncertainties regarding exposure and susceptibility of children, pregnant women, and other potentially susceptible individuals; and
 
@@ -58,7 +58,7 @@ Effective on August 12, 2011,<sup>1</sup> subsections (a) and (b)(1) and any rul
 
 #### (1) In general
 
-&emsp;The prohibitions established under subsections (a) and (b) shall not apply to any component part of a children's toy or child care article that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A component part is not accessible under this paragraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
+&emsp;The prohibitions established under subsections (a) and (b) shall not apply to anycomponent part of a children's toy or child care article that is not accessible to a child through normal and reasonably foreseeable use and abuse of such product, as determined by the Commission. A component part is not accessible under this paragraph if such component part is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product. Reasonably foreseeable use and abuse shall include swallowing, mouthing, breaking, or other children's activities, and the aging of the product.
 
 #### (2) Limitation
 
@@ -126,7 +126,7 @@ The Consumer Product Safety Act, referred to in subsec. (f), is Pub. L. 92–573
 
 #### Codification
 
-Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of the Consumer Product Safety Act which comprises this chapter.
+Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of theConsumer Product Safety Act which comprises this chapter.
 
 #### Amendments
 

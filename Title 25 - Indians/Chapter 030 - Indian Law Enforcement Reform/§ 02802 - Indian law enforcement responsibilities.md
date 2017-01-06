@@ -58,7 +58,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;&emsp;(IV) detention officers;
 
-&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors anddeputies of various offices in the Office of Justice Services; and
+&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors and deputies of various offices in the Office of Justice Services; and
 
 &emsp;&emsp;&emsp;(VI) tribal court judges, prosecutors, public defenders, appointed defense counsel, or related staff; and
 
@@ -82,7 +82,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 (3) The Secretary shall prescribe regulations which shall establish a procedure for active cooperation and consultation of the criminal investigative employees of the Bureau assigned to an Indian reservation with the governmental and law enforcement officials of the Indian tribe located on such reservation.
 
-(4)(i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 \[25 U.S.C. 450 et seq.\] or to maintain its own criminal investigative operations.
+(4)(i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 \[25 U.S.C. 5301 et seq.\] or to maintain its own criminal investigative operations.
 
 (ii) At the end of one year following the date of establishment of the separate Branch of Criminal Investigations, any tribe may, by resolution of the governing body of the tribe, request the Secretary to reestablish line authority through the Agency Superintendent or Bureau of Indian Affairs Area Office Director. In the absence of good cause to the contrary, the Secretary, upon receipt of such resolution, shall reestablish the line authority as requested by the tribe.
 
@@ -104,7 +104,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 #### (C) Training at State, tribal, and local academies
 
-&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribalcollege or university) that meets the appropriate Peace Officer Standards of Training.
+&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribal college or university) that meets the appropriate Peace Officer Standards of Training.
 
 #### (D) Maximum age requirement
 
@@ -122,7 +122,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 #### (B) Timing
 
-&emsp;&emsp;If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
+&emsp;&emsp;If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>2</sup> the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
 
 #### (f) Long-term plan for tribal detention programs
 
@@ -130,7 +130,7 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 &emsp;(1) a description of proposed activities for—
 
-&emsp;&emsp;(A) the construction, operation, and maintenance of juvenile (in accordance with section 2453(a)(3) of this title <sup>2</sup> and adult detention facilities (including regional facilities) in Indian country;
+&emsp;&emsp;(A) the construction, operation, and maintenance of juvenile (in accordance with section 2453(a)(3) of this title <sup>3</sup> and adult detention facilities (including regional facilities) in Indian country;
 
 &emsp;&emsp;(B) contracting with State and local detention centers, upon approval of affected tribal governments; and
 
@@ -144,7 +144,7 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 #### References in Text
 
-Public Law 93–638 and the Indian Self-Determination and Education Assistance Act, referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+Public Law 93–638 and the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 
@@ -174,5 +174,7 @@ Subsec. (f). Pub. L. 111–211, §211(b)(5), added subsec. (f).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subchapter B of chapter I of title 25,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

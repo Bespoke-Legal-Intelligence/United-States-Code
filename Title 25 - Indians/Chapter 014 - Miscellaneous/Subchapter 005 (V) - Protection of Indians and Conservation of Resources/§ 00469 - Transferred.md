@@ -1,0 +1,6 @@
+### §469. Transferred
+
+#### Codification
+
+Section 469 was editorially reclassified as section 5112 of this title.
+

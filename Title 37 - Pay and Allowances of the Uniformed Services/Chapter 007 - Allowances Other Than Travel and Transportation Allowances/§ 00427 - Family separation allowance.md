@@ -22,7 +22,7 @@ Entitlement When No Residence or Household Maintained for Dependents.—An allow
 
 (c)
 
-Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects toserve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 476 of this title is not entitled to an allowance under subsection (a)(1)(A).
+Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 476 of this title is not entitled to an allowance under subsection (a)(1)(A).
 
 (2) The prohibition in the first sentence of paragraph (1) does not apply to a member who elects to serve an unaccompanied tour of duty because a dependent cannot accompany the member to or at that permanent station for certified medical reasons.
 
@@ -32,7 +32,7 @@ Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided
 
 Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue of duty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders.
 
-(2) If a married couple, both of whom are members of the uniformed services, with dependents are simultaneously assigned to duties described in subparagraph (A), (B), or (C) of subsection (a)(1) and the members resided together with their dependents immediately before their assignments, the Secretary concerned shall pay each of the members the full amount of the monthly allowance specified in such subsection until one of the members is no longer assigned to duties described in such subparagraphs. Upon expiration of the additional allowance, paragraph (1) shall continue to apply to the remaining member so long as the member is assigned to duties described in subparagraph (A), (B), or (C) of such subsection.
+(2) If a married couple, both of whom are members of the uniformed services, with dependents are simultaneously assigned to duties described in subparagraph (A), (B), or (C) of subsection (a)(1) and the members resided together with their dependents immediately before their assignments, the Secretary concerned shall pay each of the members the full amount of the monthly allowance specified in such subsection until one of the members is no longer assigned to duties described in such subparagraphs. Upon expiration of the additional allowance, paragraph (1) shall continue to apply to the remaining member so long as the member is assignedto duties described in subparagraph (A), (B), or (C) of such subsection.
 
 (3) Section 421 of this title does not apply to bar the entitlement to an allowance under this section. Except as provided in paragraph (2), not more than one monthly allowance may be paid with respect to a married couple under this section.
 
@@ -160,7 +160,7 @@ Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a
 
 #### Savings Provision
 
-Pub. L. 99–661, div. A, title VI, §618(b), Nov. 14, 1986, 100 Stat. 3881, as amended by Pub. L. 112–81, div. A, titleVI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "Notwithstanding the amendments made by subsection (a) \[amending this section\], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under section 476 of title 37, United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) \[now (4)\] of such section, as added by subsection (a)."
+Pub. L. 99–661, div. A, title VI, §618(b), Nov. 14, 1986, 100 Stat. 3881, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "Notwithstanding the amendments made by subsection (a) \[amending this section\], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under section 476 of title 37, United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) \[now (4)\] of such section, as added by subsection (a)."
 
 #### Rates of Pay for Fiscal Year 2004
 

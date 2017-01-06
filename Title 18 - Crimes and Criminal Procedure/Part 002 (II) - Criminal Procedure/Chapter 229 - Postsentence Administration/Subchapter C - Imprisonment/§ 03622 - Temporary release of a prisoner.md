@@ -44,7 +44,7 @@ Under sections 3621 and 3622 of title 18, United States Code, the Bureau of Pris
 
 Several states and other jurisdictions have similar laws or regulations under which individuals confined for violations of the laws of those places may be authorized to work at paid employment in the community.
 
-Executive Order No. 325A, which was originally issued by President Theodore Roosevelt in 1905, prohibits theemployment, in the performance of Federal contracts, of any person who is serving a sentence of imprisonment at hard labor imposed by a court of a State, territory, or municipality.
+Executive Order No. 325A, which was originally issued by President Theodore Roosevelt in 1905, prohibits the employment, in the performance of Federal contracts, of any person who is serving a sentence of imprisonment at hard labor imposed by a court of a State, territory, or municipality.
 
 I have now determined that Executive Order No. 325A should be replaced with a new Executive Order which would permit the employment of non-Federal prison inmates in the performance of Federal contracts under terms and conditions that are comparable to those now applicable to inmates of Federal prisons.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to any eligible low-income housing for which the aggregate preservation rents determined under section 4104(b) of this title exceed the Federal cost limit, the owner shall offer the housing for sale to qualified purchasers as provided in this section.
+With respect to any eligible low-income housing for which the aggregate preservation rentsdetermined under section 4104(b) of this title exceed the Federal cost limit, the owner shall offer the housing for sale to qualified purchasers as provided in this section.
 
 #### (b) Right of first refusal to priority purchasers
 
@@ -12,7 +12,7 @@ With respect to any eligible low-income housing for which the aggregate preserva
 
 #### (2) Expression of interest
 
-&emsp;During the period under paragraph (1), priority purchasers shall have the opportunity tosubmit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
+&emsp;During the period under paragraph (1), priority purchasers shall have the opportunity to submit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
 
 #### (3) Information from Secretary
 

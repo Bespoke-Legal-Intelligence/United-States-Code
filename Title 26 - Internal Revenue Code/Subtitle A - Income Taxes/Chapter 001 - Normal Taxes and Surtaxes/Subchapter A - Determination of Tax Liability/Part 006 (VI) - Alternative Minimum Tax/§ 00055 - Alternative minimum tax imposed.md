@@ -78,7 +78,7 @@ For purposes of this part—
 
 &emsp;&emsp;(E) 25 percent of the amount of taxable excess in excess of the sum of the amounts on which tax is determined under the preceding subparagraphs of this paragraph.
 
-> &emsp;Terms used in this paragraph which are also used in section 1(h) shall have the respectivemeanings given such terms by section 1(h) but computed with the adjustments under this part.
+> &emsp;Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h) but computed with the adjustments under this part.
 
 #### (c) Regular tax
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (3) Phase-out of exemption amount
 
-&emsp;The exemption amount of any taxpayer shall be reduced (but not below zero) by an amount equal to 25 percent of the amount by which the alternative minimum taxable income of the taxpayer exceeds—
+&emsp;The exemption amount of any taxpayer shall be reduced (but not below zero) by an amountequal to 25 percent of the amount by which the alternative minimum taxable income of the taxpayer exceeds—
 
 &emsp;&emsp;(A) $150,000 in the case of a taxpayer described in paragraph (1)(A),
 
@@ -218,7 +218,7 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(6)(B) shall apply for purposes of the preceding sentence.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388-551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -230,7 +230,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A,title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
+A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
 
@@ -508,7 +508,7 @@ Amendment by section 1601(b)(2)(A) of Pub. L. 104–188 applicable to taxable ye
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13203(d), Aug. 10, 1993, 107 Stat. 462, provided that: "The amendments made bythis section \[amending this section and section 897 of this title\] shall apply to taxable years beginning after December 31, 1992."
+Pub. L. 103–66, title XIII, §13203(d), Aug. 10, 1993, 107 Stat. 462, provided that: "The amendments made by this section \[amending this section and section 897 of this title\] shall apply to taxable years beginning after December 31, 1992."
 
 #### Effective Date of 1992 Amendment
 
@@ -546,7 +546,7 @@ Adjustment of net operating loss.—
 
 &emsp;"(A)
 
-Individuals.—In the case of a net operating loss of an individual for a taxable year beginning after December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
+Individuals.—In the case of a net operating loss of an individual for a taxable year beginningafter December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
 
 &emsp;"(B)
 
@@ -596,7 +596,7 @@ Agreement vessel depreciation adjustment.—
 
 &emsp;"(A) For purposes of part VI of subchapter A of chapter 1 of the Internal Revenue Code of 1986, in the case of a qualified taxpayer, alternative minimum taxable income for the taxable year shall be reduced by an amount equal to the agreement vessel depreciation adjustment.
 
-&emsp;"(B) For purposes of this paragraph, the agreement vessel depreciation adjustment shall be an amount equal to the depreciation deduction that would have been allowable for such year under section 167 of suchCode with respect to agreement vessels placed in service before January 1, 1987, if the basis of such vessels had not been reduced under section 607 of the Merchant Marine Act of 1936 \[see 46 U.S.C. 53510\], as amended, and if depreciation with respect to such vessel had been computed using the 25-year straight-line method. The aggregate amount by which basis of a qualified taxpayer is treated as not reduced by reason of this subparagraph shall not exceed $100,000,000.
+&emsp;"(B) For purposes of this paragraph, the agreement vessel depreciation adjustment shall be an amount equal to the depreciation deduction that would have been allowable for such year under section 167 of such Code with respect to agreement vessels placed in service before January 1, 1987, if the basis of such vessels had not been reduced under section 607 of the Merchant Marine Act of 1936 \[see 46 U.S.C. 53510\], as amended, and if depreciation with respect to such vessel had been computed using the 25-year straight-line method. The aggregate amount by which basis of a qualified taxpayer is treated as not reduced by reason of this subparagraph shall not exceed $100,000,000.
 
 &emsp;"(C) For purposes of this paragraph, the term 'qualified taxpayer' means a parent corporation incorporated in the State of Delaware on December 1, 1972, and engaged in water transportation, and includes any other corporation which is a member of the affiliated group of which the parent corporation is the common parent. No taxpayer shall be treated as a qualified corporation for any taxable year beginning after December 31, 1991."
 
@@ -614,7 +614,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, seesection 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

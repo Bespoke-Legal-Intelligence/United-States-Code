@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;(8) the term "tribal regulations" means regulations enacted in accordance with applicable tribal law and approved by the Secretary;
 
-&emsp;(9) the term "Indian tribe" has the meaning given such term in section 479a of this title; and
+&emsp;(9) the term "Indian tribe" has the meaning given such term in section 5130 of this title; and
 
 &emsp;(10) the term "individually owned allotted land" means a parcel of land that—
 
@@ -130,7 +130,7 @@ Any contract, including a lease or construction contract, affecting land within 
 
 &emsp;&emsp;The Secretary shall approve any tribal regulation issued in accordance with paragraph (1), if the tribal regulations—
 
-&emsp;&emsp;&emsp;(i) are consistent with any regulations issued by the Secretary under subsection\(a) (including any amendments to the subsection or regulations); and
+&emsp;&emsp;&emsp;(i) are consistent with any regulations issued by the Secretary under subsection (a) (including any amendments to the subsection or regulations); and
 
 &emsp;&emsp;&emsp;(ii) provide for an environmental review process that includes—
 
@@ -148,7 +148,7 @@ Any contract, including a lease or construction contract, affecting land within 
 
 #### (D) Indian Self-Determination Act
 
-&emsp;&emsp;The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 <sup>3</sup> et seq.).
+&emsp;&emsp;The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 et seq.).<sup>3</sup>
 
 #### (4) Review process
 
@@ -218,7 +218,7 @@ Any contract, including a lease or construction contract, affecting land within 
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (h)(3)(D), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450 et seq.), referred to in subsec. (h)(3)(D), probably means title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -370,7 +370,7 @@ Pub. L. 112–151, §1, July 30, 2012, 126 Stat. 1150, provided that: "This Act 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–568, title XII, §1201, Dec. 27, 2000, 114 Stat. 2933, provided that: "This title \[amending this sectionand enacting provisions set out as a note under this section\] may be cited as the 'Navajo Nation Trust Land Leasing Act of 2000'."
+Pub. L. 106–568, title XII, §1201, Dec. 27, 2000, 114 Stat. 2933, provided that: "This title \[amending this section and enacting provisions set out as a note under this section\] may be cited as the 'Navajo Nation Trust Land Leasing Act of 2000'."
 
 #### Short Title of 1985 Amendment
 
@@ -396,7 +396,7 @@ Findings.—Recognizing the special relationship between the United States and t
 
 &emsp;"(6) the requirement that the Secretary approve leases for the development of Navajo trust lands has added a level of review and regulation that does not apply to the development of non-Indian land; and
 
-&emsp;"(7) in the global economy of the 21st Century, it is crucial that individual leases of Navajo trust lands not be subject to Secretarial approval and that the Navajo Nation be able to make immediate decisions over the use of Navajo trust lands.
+&emsp;"(7) in the global economy of the 21st Century, it is crucial that individual leases of Navajo trust lands not be subject to Secretarial approval and that theNavajo Nation be able to make immediate decisions over the use of Navajo trust lands.
 
 "(b)
 
@@ -416,5 +416,5 @@ Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note 
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be "450f".</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

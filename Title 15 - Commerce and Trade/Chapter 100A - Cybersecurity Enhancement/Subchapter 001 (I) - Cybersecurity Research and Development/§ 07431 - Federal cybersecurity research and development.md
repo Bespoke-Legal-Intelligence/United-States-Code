@@ -82,7 +82,7 @@
 
 #### (4) Definition of applicable agencies and departments
 
-&emsp;In this subsection, the term "applicable agencies and departments" means the agencies and departments identified in clauses (i) through (x) of section 5511(a)(3)(B) of this title or designated under clause (xi) of that section.
+&emsp;In this subsection, the term "applicable agencies and departments" means the agencies and departments identified in clauses (i) through (xi) of section 5511(a)(3)(B) <sup>1</sup> of this title or designated under clause (xii) of that section.
 
 #### (b) Cybersecurity practices research
 
@@ -106,7 +106,7 @@ The Director of the National Science Foundation shall support research that—
 
 #### (B) Requirement
 
-&emsp;&emsp;The cybersecurity test beds under subparagraph (A) shall be sufficiently robust in order to model the scale and complexity of real-time cyber attacks and defenses on real world networks and environments.
+&emsp;&emsp;The cybersecurity test beds under subparagraph (A) shall be sufficiently robust in order to model the scale and complexity ofreal-time cyber attacks and defenses on real world networks and environments.
 
 #### (C) Assessment required
 
@@ -136,11 +136,21 @@ In accordance with the responsibilities under section 5511 of this title, the Di
 
 #### (f) Research on the science of cybersecurity
 
-The head of each agency and department identified under section 5511(a)(3)(B) of this title,through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
+The head of each agency and department identified under section 5511(a)(3)(B) <sup>1</sup> of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
-(Pub. L. 113–274, title II, §201, Dec. 18, 2014, 128 Stat. 2974.)
+(Pub. L. 113–274, title II, §201, Dec. 18, 2014, 128 Stat. 2974; Pub. L. 114–329, title I, §105(t), Jan. 6, 2017, 130 Stat. 2985.)
+
+#### References in Text
+
+Section 5511(a)(3)(B) of this title, referred to in subsecs. (a)(4) and (f), was redesignated section 5511(a)(3)(C) of this title by Pub. L. 114–329, title I, §105(f)(2)(D)(i), Jan. 6, 2017, 130 Stat. 2979.
 
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section 201 of Pub. L. 113–274 amended section 7403 of this title.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a)(4). Pub. L. 114–329 substituted "clauses (i) through (xi)" for "clauses (i) through (x)" and "under clause (xii)" for "under clause (xi)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

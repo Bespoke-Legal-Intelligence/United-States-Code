@@ -1,10 +1,30 @@
 ### §2303. Prohibited personnel practices in the Federal Bureau of Investigation
 
-(a) Any employee of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to any employee of the Bureau as a reprisal for a disclosure of information by the employee to the Attorney General (or an employee designated by the Attorney General for such purpose) which the employee or applicant reasonably believes evidences—
+(a) Any employee of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to an employee in, or applicant for, a position in the Bureau as a reprisal for a disclosure of information—
 
-&emsp;(1) a violation of any law, rule, or regulation, or
+&emsp;(1) made—
 
-&emsp;(2) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+&emsp;&emsp;(A) in the case of an employee, to a supervisor in the direct chain of command of the employee, up to and including the head of the employing agency;
+
+&emsp;&emsp;(B) to the Inspector General;
+
+&emsp;&emsp;(C) to the Office of Professional Responsibility of the Department of Justice;
+
+&emsp;&emsp;(D) to the Office of Professional Responsibility of the Federal Bureau of Investigation;
+
+&emsp;&emsp;(E) to the Inspection Division of the Federal Bureau of Investigation;
+
+&emsp;&emsp;(F) as described in section 7211;
+
+&emsp;&emsp;(G) to the Office of Special Counsel; or
+
+&emsp;&emsp;(H) to an employee designated by any officer, employee, office, or division described in subparagraphs (A) through (G) for the purpose of receiving such disclosures; and
+
+&emsp;(2) which the employee or applicant reasonably believes evidences—
+
+&emsp;&emsp;(A) any violation of any law, rule, or regulation; or
+
+&emsp;&emsp;(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
 > For the purpose of this subsection, "personnel action" means any action described in clauses (i) through (x) of section 2302(a)(2)(A) of this title with respect to an employee in, or applicant for, a position in the Bureau (other than a position of a confidential, policy-determining, policymaking, or policy-advocating character).
 
@@ -12,9 +32,15 @@
 
 (c) The President shall provide for the enforcement of this section in a manner consistent with applicable provisions of sections 1214 and 1221 of this title.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1117; amended Pub. L. 101–12, §9(a)(1), Apr. 10, 1989, 103 Stat. 34.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1117; amended Pub. L. 101–12, §9(a)(1), Apr. 10, 1989, 103 Stat. 34; Pub. L. 114–302, §2, Dec. 16, 2016, 130 Stat. 1516.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–302 substituted "an employee in, or applicant for, a position in the Bureau as a reprisal for a disclosure of information—" for "any employee of the Bureau as a reprisal for a disclosure of information by the employee to the Attorney General (or an employee designated by the Attorney General for such purpose) which the employee or applicant reasonably believes evidences—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+"(1) a violation of any law, rule, or regulation, or
+
+"(2) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety".
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–12 substituted "applicable provisions of sections 1214 and 1221" for "the provisions of section 1206".
 

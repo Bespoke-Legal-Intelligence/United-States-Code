@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The President shall develop a plan for providing economic assistance to Cuba at such time as the President determines that a transition government or a democratically elected government in Cuba (as determined under section 6063(c) of this title) is in power.
+&emsp;The President shall develop a plan for providing economic assistance to Cuba at such time as the President determines that a transition government or a democratically electedgovernment in Cuba (as determined under section 6063(c) of this title) is in power.
 
 #### (2) Effect on other laws
 

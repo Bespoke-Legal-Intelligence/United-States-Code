@@ -38,7 +38,7 @@ It is the policy of the United States to encourage and assist the consolidation 
 
 #### (c) Acquisition of interest by Secretary
 
-An Indian, or the recognized tribal government of a reservation, in possession of an interest in trust or restricted lands, at least a portion of which is in trust or restricted status on November 7, 2000, and located within a reservation, may request that the interest be taken into trust by the Secretary. Upon such a request, the Secretary shall forthwith take such interest into trust.
+An Indian, or the recognized tribal government of a reservation, in possession of an interest in trust or restricted lands, at least a portion of which is in trust or restricted status on November 7, 2000, and located within a reservation, may request that the interest be takeninto trust by the Secretary. Upon such a request, the Secretary shall forthwith take such interest into trust.
 
 #### (d) Status of lands
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to a parcel of, or interest in, trust or restricted land that is part of a family farm that is conveyed to a member of the family of a landowner (as defined in section 2205(c)(2)(A)(iv) of this title) if the conveyance requires thatin the event that the parcel or interest is offered for sale to an entity or person that is not a member of the family of the landowner, the Indian tribe with jurisdiction over the land shall be afforded the opportunity to purchase the interest pursuant to paragraph (1).
+&emsp;&emsp;Paragraph (1) shall not apply to a parcel of, or interest in, trust or restricted land that is part of a family farm that is conveyed to a member of the family of a landowner (as defined in section 2205(c)(2)(A)(iv) of this title) if the conveyance requires that in the event that the parcel or interest is offered for sale to an entity or person that is not a member of the family of the landowner, the Indian tribe with jurisdiction over the land shall be afforded the opportunity to purchase the interest pursuant to paragraph (1).
 
 #### (B) Applicability of other provision
 
@@ -92,5 +92,5 @@ Subsec. (f). Pub. L. 108–374, §6(a)(9)(E), added subsec. (f) and struck out h
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 

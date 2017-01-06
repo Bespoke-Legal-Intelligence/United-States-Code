@@ -12,10 +12,11 @@
 | [<b>8.</b>](Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md) | <b>Defense Agencies and Department of Defense Field Activities</b> | <b>191</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
-| [<b>13.</b>](Chapter%20013%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>311</b> |
-| [<b>15.</b>](Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
-| [<b>17.</b>](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
-| [<b>18.</b>](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
+| [<b>12.</b>](Chapter%20012%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>246</b> |
+| [<b>13.</b>](Chapter%20013%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>251</b> |
+| [<b>14.</b>](Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>261</b> |
+| [<b>15.</b>](Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>271</b> |
+| [<b>16.</b>](Chapter%20016%20-%20Security%20Cooperation/README.md) | <b>Security Cooperation</b> | <b>301</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Cyber%20Matters/README.md) | <b>Cyber Matters</b> | <b>391</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
@@ -26,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 
@@ -82,10 +85,11 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 - [Chapter 008 - Defense Agencies and Department of Defense Field Activities](Chapter%20008%20-%20Defense%20Agencies%20and%20Department%20of%20Defense%20Field%20Activities/README.md)
 - [Chapter 009 - Defense Budget Matters](Chapter%20009%20-%20Defense%20Budget%20Matters/README.md)
 - [Chapter 011 - Reserve Components](Chapter%20011%20-%20Reserve%20Components/README.md)
-- [Chapter 013 - The Militia](Chapter%20013%20-%20The%20Militia/README.md)
-- [Chapter 015 - Insurrection](Chapter%20015%20-%20Insurrection/README.md)
-- [Chapter 017 - Arming of American Vessels](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md)
-- [Chapter 018 - Military Support for Civilian Law Enforcement Agencies](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md)
+- [Chapter 012 - The Militia](Chapter%20012%20-%20The%20Militia/README.md)
+- [Chapter 013 - Insurrection](Chapter%20013%20-%20Insurrection/README.md)
+- [Chapter 014 - Arming of American Vessels](Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md)
+- [Chapter 015 - Military Support for Civilian Law Enforcement Agencies](Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md)
+- [Chapter 016 - Security Cooperation](Chapter%20016%20-%20Security%20Cooperation/README.md)
 - [Chapter 019 - Cyber Matters](Chapter%20019%20-%20Cyber%20Matters/README.md)
 - [Chapter 020 - Humanitarian and Other Assistance](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md)
 - [Chapter 021 - Department of Defense Intelligence Matters](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md)

@@ -2,7 +2,7 @@
 
 #### (a) Contract offered
 
-The Secretary shall offer to enter into a contract with each producer of quota tobacco underwhich the producer of quota tobacco shall be entitled to receive payments under this section in exchange for the termination of tobacco marketing quotas and related price support under the amendments made by sections 611 and 612.<sup>1</sup> The contract payments shall constitute full and fair consideration for the termination of such tobacco marketing quotas and related price support.
+The Secretary shall offer to enter into a contract with each producer of quota tobacco under which the producer of quota tobacco shall be entitled to receive payments under this section in exchange for the termination of tobacco marketing quotas and related price support under the amendments made by sections 611 and 612.<sup>1</sup> The contract payments shall constitute full and fair consideration for the termination of such tobacco marketing quotas and related price support.
 
 #### (b) Eligibility
 
@@ -28,7 +28,7 @@ The Secretary shall offer to enter into a contract with each producer of quota t
 
 &emsp;In the case of each kind of tobacco (other than tobacco covered by paragraph (2)), for the purpose of calculating a contract payment to a producer of quota tobacco, the base quota level for the producer of quota tobacco shall be the quantity obtained by multiplying—
 
-&emsp;&emsp;(A) the basic tobacco farm acreage allotment for the 2002 marketing year established by the Secretary for quota tobacco produced on the farm; by
+&emsp;&emsp;(A) the basic tobacco farm acreage allotment for the 2002 marketing year establishedby the Secretary for quota tobacco produced on the farm; by
 
 &emsp;&emsp;(B) the average annual yield, per acre, of quota tobacco produced on the farm for the period covering the 2001, 2002, and 2003 crop years.
 
@@ -66,7 +66,11 @@ If a producer of quota tobacco who is entitled to contract payments under this s
 
 Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pub. L. 108–357, which amended sections 609, 1282, 1301, 1303, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealed sections 511r, 515, 515a to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealed provisions set out as a note under section 1314c of this title.
 
-Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat.1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+
+#### Effective Date
+
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

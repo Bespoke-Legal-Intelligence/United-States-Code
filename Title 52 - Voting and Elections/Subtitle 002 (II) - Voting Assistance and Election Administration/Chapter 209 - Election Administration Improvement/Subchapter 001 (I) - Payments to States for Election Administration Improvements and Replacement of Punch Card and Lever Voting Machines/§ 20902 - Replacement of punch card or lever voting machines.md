@@ -24,7 +24,7 @@
 
 #### (B) Waiver
 
-&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described insubparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after November 1, 2010.
+&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after November 1, 2010.
 
 #### (b) Eligibility
 

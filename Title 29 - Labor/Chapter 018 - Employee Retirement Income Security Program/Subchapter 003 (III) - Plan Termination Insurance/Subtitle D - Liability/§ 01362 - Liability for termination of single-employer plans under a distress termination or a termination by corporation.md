@@ -4,9 +4,9 @@
 
 In any case in which a single-employer plan is terminated in a distress termination under section 1341(c) of this title or a termination otherwise instituted by the corporation under section 1342 of this title, any person who is, on the termination date, a contributing sponsor of the plan or a member of such a contributing sponsor's controlled group shall incur liability under this section. The liability under this section of all such persons shall be joint and several. The liability under this section consists of—
 
-&emsp;(1) liability to the corporation, to the extent provided in subsection (b) of this section, and
+&emsp;(1) liability to the corporation, to the extent provided in subsection (b), and
 
-&emsp;(2) liability to the trustee appointed under subsection (b) or (c) of section 1342 of this title, to the extent provided in subsection (c) of this section.
+&emsp;(2) liability to the trustee appointed under subsection (b) or (c) of section 1342 of this title, to the extent provided in subsection (c).
 
 #### (b) Liability to corporation
 
@@ -14,7 +14,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall be the total amount of the unfunded benefit liabilities (as of the termination date) to all participants and beneficiaries under the plan, together with interest (at a reasonable rate) calculated from the termination date in accordance with regulations prescribed by the corporation.
+&emsp;&emsp;Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) shall be the total amount of the unfunded benefit liabilities (as of the termination date) to all participants and beneficiaries under the plan, together with interest (at a reasonable rate) calculated from the termination date in accordance with regulations prescribed by the corporation.
 
 #### (B) Special rule in case of subsequent insufficiency
 
@@ -28,7 +28,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (B) Special rule
 
-&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort to reach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
+&emsp;&emsp;Payment of so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) (including interest) shall be made under commercially reasonable terms prescribed by the corporation. The parties involved shall make a reasonable effort toreach agreement on such commercially reasonable terms. Any such terms prescribed by the corporation shall provide for deferral of 50 percent of any amount of liability otherwise payable for any year under this subparagraph if a person subject to such liability demonstrates to the satisfaction of the corporation that no person subject to such liability has any individual pre-tax profits for such person's fiscal year ending during such year.
 
 #### (3) Alternative arrangements
 
@@ -36,9 +36,9 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (c) Liability to section 1342 trustee
 
-A person described in subsection (a) of this section shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. The liability of such person under this subsection shall consist of—
+A person described in subsection (a) shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. The liability of such person under this subsection shall consist of—
 
-&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the planyear in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
+&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
 
 &emsp;(2) the sum of the waiver amortization charge (within the meaning of section 1083(e)(1) of this title and 430(e)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of waiver amortization installments (if any) determined for succeeding plan years under section 1083(e)(2) of this title and section 430(e)(2) of title 26,
 
@@ -82,7 +82,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraphs (3) and (4), if there is a substantial cessation of operations at a facility in any location, the employer shall be treated with respect to any single employer plan established and maintained by the employer covering participants at such facility as if the employer were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
+&emsp;Except as provided in paragraphs (3) and (4), if there is a substantial cessation of operations at a facility in any location, the employer shall be treated with respect to any single employer plan established and maintained by the employer covering participants at such facility as if the employer were a substantial employer under a plan under which more thanone employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
 
 #### (2) Substantial cessation of operations
 
@@ -144,7 +144,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 &emsp;&emsp;&emsp;Except as provided in clause (iii), the amount determined under this subparagraph with respect to each plan year in the 7-plan-year period is the product of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 1/7 of the unfunded vested benefits determined under section 1306(a)(3)(E) of this title as of the valuation date of the plan (as determined under section 1083(g)(2) of this title) for the plan year preceding the plan year in which the cessation occurred; and
+&emsp;&emsp;&emsp;&emsp;(I) 1/7 of the unfunded vested benefits determined under section 1306(a)(3)(E) of this title as of the valuation date of the plan (as determined under section1083(g)(2) of this title) for the plan year preceding the plan year in which the cessation occurred; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the reduction fraction.
 
@@ -220,7 +220,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (C) Market value
 
-&emsp;&emsp;The market value of the assets of a plan shall be determined in the same manner as for purposes of section 1306(a)(3)(E) of this title.
+&emsp;&emsp;The market value of the assets of a plan shall be determined in the same manner asfor purposes of section 1306(a)(3)(E) of this title.
 
 #### (6) Special rules
 
@@ -238,7 +238,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (C) No addition to prefunding balance
 
-&emsp;&emsp;For purposes of section 1083(f)(6)(B) of this title and section 430(f)(6)(B) of title 26, anyadditional contribution made under paragraph (4) shall be treated in the same manner as a contribution an employer is required to make in order to avoid a benefit reduction under paragraph (1), (2), or (4) of section 1056(g) of this title or subsection (b), (c), or (e) of section 436 of title 26 for the plan year.
+&emsp;&emsp;For purposes of section 1083(f)(6)(B) of this title and section 430(f)(6)(B) of title 26, any additional contribution made under paragraph (4) shall be treated in the same manner as a contribution an employer is required to make in order to avoid a benefit reduction under paragraph (1), (2), or (4) of section 1056(g) of this title or subsection (b), (c), or (e) of section 436 of title 26 for the plan year.
 
 (Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; amended Pub. L. 113–235, div. P, §1(a), Dec. 16, 2014, 128 Stat. 2822.)
 
@@ -254,21 +254,21 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 "(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted "and" at end of par. (1), redesignated par. (3) as (2), substituted "subsection (c)" for "subsection (d)", and struck out former par. (2) which read as follows: "liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c) of this section, and".
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted "and" at end of par. (1), redesignated par. (3) as (2), substituted "subsection (c)" for "subsection (d)", and struck out former par. (2) which read as follows: "liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c), and".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7881(f)(10)(A), substituted "so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest)" for "the liability under paragraph (1)(A)(ii)".
+Subsec. (b)(2)(B). Pub. L. 101–239, §7881(f)(10)(A), substituted "so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) (including interest)" for "the liability under paragraph (1)(A)(ii)".
 
 Subsecs. (c)(1), (d)(2)(B). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (d)(3). Pub. L. 101–239, §7881(f)(10)(B), amended Pub. L. 100–203, §9312(b)(2)(B)(ii), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) shall consist of the sum of—
 
 &emsp;"(i) the lesser of—
 
 &emsp;&emsp;"(I) the total amount of unfunded guaranteed benefits (as of the termination date) of all participants and beneficiaries under the plan, or
 
-&emsp;&emsp;"(II) 30 percent of the collective net worth of all persons described in subsection (a) of this section,
+&emsp;&emsp;"(II) 30 percent of the collective net worth of all persons described in subsection (a),
 
 > &emsp;and
 
@@ -316,7 +316,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 "(2)
 
-Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection4062(e) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1362(e)\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final administrative determination that a substantial cessation of operations has occurred."
+Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1362(e)\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final administrative determination that a substantial cessation of operations has occurred."
 
 #### Effective Date of 2006 Amendment
 

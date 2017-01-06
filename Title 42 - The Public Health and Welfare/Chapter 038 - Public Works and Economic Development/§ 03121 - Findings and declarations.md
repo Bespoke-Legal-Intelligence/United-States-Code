@@ -114,7 +114,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 #### Denali Commission
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885, provided that:
 
 #### "SEC. 301. SHORT TITLE.
 
@@ -180,7 +180,23 @@ Date.—The appointments of the members of the Commission shall be made no later
 
 "(c)
 
-Period of Appointment; Vacancies.—The Federal Cochairperson shall serve for a term of four years and may be reappointed. All other members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+Period of Appointment; Vacancies.—
+
+&emsp;"(1)
+
+Term of federal cochairperson.—The Federal Cochairperson shall serve for a term of four years and may be reappointed.
+
+&emsp;"(2)
+
+Interim federal cochairperson.—In the event of a vacancy for any reason in the position of Federal Cochairperson, the Secretary may appoint an Interim Federal Cochairperson, who shall have all the authority of the Federal Cochairperson, to serve until such time as the vacancy in the position of Federal Cochairperson is filled in accordance with subsection (b)(2)). \[sic\]
+
+&emsp;"(3)
+
+Term of all other members.—All other members shall be appointed for the life of the Commission.
+
+&emsp;"(4)
+
+Vacancies.—Except as provided in paragraph (2), any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
 "(d)
 
@@ -201,6 +217,52 @@ Notification.—Not later than 2 weeks before calling a meeting under this subse
 "(e)
 
 Quorum.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+
+"(f)
+
+No Federal Employee Status.—No member of the Commission, other than the Federal Cochairperson, shall be considered to be a Federal employee for any purpose.
+
+"(g)
+
+Conflicts of Interest.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraphs (2) and (3), no member of the Commission (referred to in this subsection as a 'member') shall participate personally or substantially, through recommendation, the rendering of advice, investigation, or otherwise, in any proceeding, application, request for a ruling or other determination, contract claim, controversy, or other matter in which, to the knowledge of the member, 1 or more of the following has a direct financial interest:
+
+&emsp;&emsp;"(A) The member.
+
+&emsp;&emsp;"(B) The spouse, minor child, or partner of the member.
+
+&emsp;&emsp;"(C) An organization described in subparagraph (B), (C), (D), (E), or (F) of subsection (b)(1) for which the member is serving as an officer, director, trustee, partner, or employee.
+
+&emsp;&emsp;"(D) Any individual, person, or organization with which the member is negotiating or has any arrangement concerning prospective employment.
+
+&emsp;"(2)
+
+Disclosure.—Paragraph (1) shall not apply if the member—
+
+&emsp;&emsp;"(A) immediately advises the designated agency ethics official for the Commission of the nature and circumstances of the matter presenting a potential conflict of interest;
+
+&emsp;&emsp;"(B) makes full disclosure of the financial interest; and
+
+&emsp;&emsp;"(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the designated agency ethics official for the Commission that the interest is not so substantial as to be likely to affect the integrity of the services that the Commission may expect from the member. The written determination shall specify the rationale and any evidence or support for the decision, identify steps, if any, that should be taken to mitigate any conflict of interest, and be available to the public.
+
+&emsp;"(3)
+
+Annual disclosures.—Once each calendar year, each member shall make full disclosure of financial interests, in a manner to be determined by the designated agency ethics official for the Commission.
+
+&emsp;"(4)
+
+Training.—Once each calendar year, each member shall undergo disclosure of financial interests training, as prescribed by the designated agency ethics official for the Commission.
+
+&emsp;"(5)
+
+Clarification.—A member of the Commission may continue to participate personally or substantially, through decision, approval, or disapproval on the focus of applications to be considered but not on individual applications where a conflict of interest exists.
+
+&emsp;"(6)
+
+Violation.—Any person that violates this subsection shall be fined not more than $10,000, imprisoned for not more than 2 years, or both.
 
 #### "SEC. 304. DUTIES OF THE COMMISSION.
 
@@ -290,7 +352,7 @@ Conditional.—With respect to conditional gifts—
 
 "(a)
 
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time suchmember is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
 "(b)
 
@@ -392,7 +454,7 @@ In general.—Except for the chairman of the Commission who shall remain a membe
 
 &emsp;&emsp;"(B)
 
-Initial members.—Except for the chairman of the Commission, of the eight initial members appointed to the advisory committee, two shall be appointed for a term of 1 year, two shall be appointed for a term of 2 years, two shall be appointed for a term of 3 years, and two shall be appointed for a term of 4 years. All subsequent appointments shall be for 4 years.
+Initial members.—Except for the chairman of the Commission, of the eight initial members appointed to the advisory committee, two shall be appointed for a term of 1 year, two shall be appointed for a term of 2 years, two shall be appointed for aterm of 3 years, and two shall be appointed for a term of 4 years. All subsequent appointments shall be for 4 years.
 
 &emsp;"(4)
 
@@ -466,21 +528,11 @@ In general.—There is authorized to be appropriated out of the Highway Trust Fu
 
 Applicability of title 23.—Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of any project carried out using such funds shall be determined in accordance with section 120(b).
 
-#### "SEC. 310. AUTHORIZATION OF APPROPRIATIONS.
-
-"(a)
-
-In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 4 \[304\] under this Act, $20,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2008\[.\]
-
-"(b)
-
-Availability.—Any sums appropriated under the authorization contained in this section shall remain available until expended.
-
 "
 
-Sec. 310 \[sic\]. (a) The Federal Co-chairman of the Denali Commission shall appoint an Economic Development Committee to be chaired by the president of the Alaska Federation of Natives which shall include the Commissioner of Community and Economic Affairs for the State of Alaska, a representative from the Alaska Bankers Association, the chairman of the Alaska Permanent Fund, a representative from the Alaska State Chamber of Commerce, and a representative from each region. Of the regional representatives, at least two each shall be from Native regional corporations, Native non-profit corporations, tribes, and borough governments.
+Sec. 310. (a) The Federal Co-chairman of the Denali Commission shall appoint an Economic Development Committee to be chaired by the president of the Alaska Federation of Natives which shall include the Commissioner of Community and Economic Affairs for the State of Alaska, a representative from the Alaska Bankers Association, the chairman of the Alaska Permanent Fund, a representative from the Alaska State Chamber of Commerce, and a representative from each region. Of the regional representatives, at least two each shall be from Native regional corporations, Native non-profit corporations, tribes, and borough governments.
 
-"(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote privatesector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
+"(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote private sector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
 
 "(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
 
@@ -518,7 +570,19 @@ Treatment.—Any funds transferred to the Commission under this subsection—
 
 &emsp;"(1) shall remain available until expended; and
 
-&emsp;"(2) may, to the extent necessary to carry out this Act \[probably means this title\], be transferred to, and merged with, the amounts made available by appropriations Acts for the Commission by the Federal Cochairperson."
+&emsp;"(2) may, to the extent necessary to carry out this Act \[probably means this title\], be transferred to, and merged with, the amounts made available by appropriations Acts for the Commission by the Federal Cochairperson.
+
+#### "SEC. 312. AUTHORIZATION OF APPROPRIATIONS.
+
+"(a)
+
+In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 304, $15,000,000 for each of fiscal years 2017 through 2021.
+
+"(b)
+
+Availability.—Any sums appropriated under the authorization contained in this section shall remain available until expended."
+
+\[Pub. L. 114–322, title IV, §5002(b)(2), Dec. 16, 2016, 130 Stat. 1886, which renumbered section 310 of Pub. L. 105–277, relating to authorization of appropriations, as 312, was executed by renumbering the section and transferring it so as to appear after section 311, to reflect the probable intent of Congress.\]
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -558,7 +622,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment of an Interagency Task Force on the Economic Development of the Southwest Border</i>. (a) There is established the "Interagency Task Force on the Economic Development of the Southwest Border" (Task Force) that reports to the Vice President, as Chair of the President's Community Empowerment Board (PCEB), and to the Assistant to the President for Economic Policy, as Vice Chair of the PCEB.
 
-(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
+(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may bedetermined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
 
 (c) The purpose of the Task Force is to coordinate and better leverage existing Administration efforts for the Southwest Border, in concert with locally led efforts, in order to increase the living standards and the overall economic profile of the Southwest Border so that it may achieve the average of the Nation. Specifically, the Task Force shall:
 

@@ -8,6 +8,7 @@
 | [2354\.](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md) | Contracts: indemnification provisions. |
 | \[2355 to 2357. Repealed.\] |  |
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
+| [2358a.](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md) | Authorities for certain positions at science and technology reinvention laboratories. |
 | [2359\.](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md) | Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation. |
 | \[2359a. | Repealed.\] |
 | [2359b.](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md) | Defense Acquisition Challenge Program. |
@@ -20,13 +21,20 @@
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
 | [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20determination%20required%20before%20Milestone%20A%20approval.md) | Major defense acquisition programs: determination required before Milestone A approval. |
 | [2366b.](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20approval.md) | Major defense acquisition programs: certification required before Milestone B approval. |
+| [2366c.](%C2%A7%2002366c%20-%20Major%20defense%20acquisition%20programs%20submissions%20to%20Congress%20on%20Milestone%20C.md) | Major defense acquisition programs: submissions to Congress on Milestone C. |
 | [2367\.](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md) | Use of federally funded research and development centers. |
 | [2368\.](%C2%A7%2002368%20-%20Centers%20for%20Science%2C%20Technology%2C%20and%20Engineering%20Partnership.md) | Centers for Science, Technology, and Engineering Partnership. |
 | \[2369 to 2370a. Repealed.\] |  |
 | [2371\.](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md) | Research projects: transactions other than contracts and grants. |
 | [2371a.](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md) | Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980. |
 | [2371b.](%C2%A7%2002371b%20-%20Authority%20of%20the%20Department%20of%20Defense%20to%20carry%20out%20certain%20prototype%20projects.md) | Authority of the Department of Defense to carry out certain prototype projects. |
-| [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md) | Independent research and development and bid and proposal costs: payments to contractors. |
+| [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20costs%20allowable%20costs.md) | Independent research and development costs: allowable costs <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [2372a.](%C2%A7%2002372a%20-%20Bid%20and%20proposal%20costs%20allowable%20costs.md) | Bid and proposal costs: allowable costs <sup>1</sup> |
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
 | [2374a.](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md) | Prizes for advanced technology achievements. |
@@ -35,6 +43,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §§808(c)(2), 824(a)(2), (b)(2), title XI, §1122(a)(2), Dec. 23, 2016, 130 Stat. 2266, 2277, 2279, 2455, added items 2358a, 2366c, 2372, and 2372a and struck out former item 2372 "Independent research and development and bid and proposal costs: payments to contractors".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title II, §§211(b), 214(b), title VIII, §§815(a)(2), 823(b), title X, §1078(c)(2), Nov. 25, 2015, 129 Stat. 767, 769, 896, 903, 999, added items 2368 and 2371b, substituted "Coordination and communication of defense research activities and technology domain awareness" for "Coordination and communication of defense research activities" in item 2364 and "Major defense acquisition programs: determination required before Milestone A approval" for "Major defense acquisition programs: certification required before Milestone A approval" in item 2366a, and struck out item 2352 "Defense Advanced Research Projects Agency: biennial strategic plan".
 
@@ -106,6 +116,8 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 
 <b>1958</b>—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 "Policy, plans, and coordination".
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -119,6 +131,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02356 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;802(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002356%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7802%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
 - [&sect; 02357 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(11), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2002357%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%2811%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
+- [&sect; 02358a - Authorities for certain positions at science and technology reinvention laboratories](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md)
 - [&sect; 02359 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research&#8230;](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md)
 - [&sect; 02359a - Repealed. Pub. L. 112&#8211;81, div. A, title II, &sect;251(a)(1), Dec. 31, 2011, 125 Stat. 1347](%C2%A7%2002359a%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7251%28a%29%281%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201347.md)
 - [&sect; 02359b - Defense Acquisition Challenge Program](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md)
@@ -131,6 +144,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02366 - Major systems and munitions programs survivability testing and lethality testing required before full-scale production](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md)
 - [&sect; 02366a - Major defense acquisition programs determination required before Milestone A approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20determination%20required%20before%20Milestone%20A%20approval.md)
 - [&sect; 02366b - Major defense acquisition programs certification required before Milestone B approval](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20approval.md)
+- [&sect; 02366c - Major defense acquisition programs submissions to Congress on Milestone C](%C2%A7%2002366c%20-%20Major%20defense%20acquisition%20programs%20submissions%20to%20Congress%20on%20Milestone%20C.md)
 - [&sect; 02367 - Use of federally funded research and development centers](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md)
 - [&sect; 02368 - Centers for Science, Technology, and Engineering Partnership](%C2%A7%2002368%20-%20Centers%20for%20Science%2C%20Technology%2C%20and%20Engineering%20Partnership.md)
 - [&sect; 02369 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3062(a), Oct. 13, 1994, 108 Stat. 3336](%C2%A7%2002369%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73062%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203336.md)
@@ -139,7 +153,8 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02371 - Research projects transactions other than contracts and grants](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md)
 - [&sect; 02371a - Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md)
 - [&sect; 02371b - Authority of the Department of Defense to carry out certain prototype projects](%C2%A7%2002371b%20-%20Authority%20of%20the%20Department%20of%20Defense%20to%20carry%20out%20certain%20prototype%20projects.md)
-- [&sect; 02372 - Independent research and development and bid and proposal costs payments to contractors](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md)
+- [&sect; 02372 - Independent research and development costs allowable costs](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20costs%20allowable%20costs.md)
+- [&sect; 02372a - Bid and proposal costs allowable costs](%C2%A7%2002372a%20-%20Bid%20and%20proposal%20costs%20allowable%20costs.md)
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)
 - [&sect; 02374a - Prizes for advanced technology achievements](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md)

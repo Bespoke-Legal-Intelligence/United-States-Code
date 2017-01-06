@@ -8,11 +8,11 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
+&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) among all of the national research institutes conducting Parkinson's disease research.
 
 #### (2) Conference
 
-&emsp;Coordination under paragraph (1) shall include the convening of a research planningconference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
+&emsp;Coordination under paragraph (1) shall include the convening of a research planning conference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
 
 #### (c) Morris K. Udall research centers
 
@@ -48,7 +48,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (3) Stipends regarding training programs
 
-&emsp;A center may use funds provided under paragraph (1) to provide stipends for scientists and health professionals enrolled in training programs under paragraph (2)(B).
+&emsp;A center may use funds provided under paragraph (1) to provide stipends for scientists andhealth professionals enrolled in training programs under paragraph (2)(B).
 
 #### (4) Duration of support
 

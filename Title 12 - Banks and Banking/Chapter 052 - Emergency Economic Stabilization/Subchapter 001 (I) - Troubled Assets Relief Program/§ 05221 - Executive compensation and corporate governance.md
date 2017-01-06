@@ -22,7 +22,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Period in which obligation is outstanding; rule of construction
 
-&emsp;For purposes of this section, the period in which any obligation arising from financial assistance provided under the TARP remains outstanding does not include any period during which the Federal Government only holdswarrants to purchase common stock of the TARP recipient.
+&emsp;For purposes of this section, the period in which any obligation arising from financial assistance provided under the TARP remains outstanding does not include any period during which the Federal Government only holds warrants to purchase common stock of the TARP recipient.
 
 #### (b) Executive compensation and corporate governance
 
@@ -84,7 +84,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Establishment of Board required
 
-&emsp;Each TARP recipient shall establish a Board Compensation Committee, comprised entirelyof independent directors, for the purpose of reviewing employee compensation plans.
+&emsp;Each TARP recipient shall establish a Board Compensation Committee, comprised entirely of independent directors, for the purpose of reviewing employee compensation plans.
 
 #### (2) Meetings
 

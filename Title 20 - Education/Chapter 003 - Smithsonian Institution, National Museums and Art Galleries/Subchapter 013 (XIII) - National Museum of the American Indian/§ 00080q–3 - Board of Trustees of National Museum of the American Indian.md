@@ -68,7 +68,7 @@ Subject to the general policies of the Board of Regents, the Board of Trustees s
 
 #### (1) Membership
 
-&emsp;Upon the expiration of the terms under subsection (e) of this section, the Board of Trustees shall consist of—
+&emsp;Upon the expiration of the terms under subsection (e), the Board of Trustees shall consist of—
 
 &emsp;&emsp;(A) the Secretary of the Smithsonian Institution;
 

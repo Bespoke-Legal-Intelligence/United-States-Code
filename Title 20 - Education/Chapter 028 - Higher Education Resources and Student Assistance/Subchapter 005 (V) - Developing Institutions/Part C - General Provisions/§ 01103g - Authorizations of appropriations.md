@@ -8,7 +8,7 @@
 
 #### (2) Part B
 
-&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (b) Use of multiple year awards
 
@@ -36,7 +36,7 @@ Section 1104b, Pub. L. 89–329, title V, §523, as added Pub. L. 102–325, tit
 
 Section 1104c, Pub. L. 89–329, title V, §524, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 680, related to amount and duration of scholarships and relation to other assistance.
 
-Section 1104d, Pub. L. 89–329, title V, §525, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 680; amended Pub. L. 103–208, §2(j)(2), Dec. 20, 1993, 107 Stat. 2480, related to selection of Paul Douglas Teacher Scholars.
+Section 1104d, Pub. L. 89–329, title V, §525, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.680; amended Pub. L. 103–208, §2(j)(2), Dec. 20, 1993, 107 Stat. 2480, related to selection of Paul Douglas Teacher Scholars.
 
 Section 1104e, Pub. L. 89–329, title V, §526, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 681, related to scholarship conditions.
 
@@ -112,7 +112,7 @@ Prior sections 1107a to 1107d were omitted in the general amendment of this subc
 
 Section 1107a, Pub. L. 89–329, title V, §532, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1501, related to geographical distribution of grants to establish and operate professional development resource centers.
 
-Another prior section 1107a, Pub. L. 89–329, title V, §517A, as added Pub. L. 90–35, §3(i), June 29, 1967, 81 Stat. 87, related to teaching children of migratory agricultural workers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Another prior section 1107a, Pub. L. 89–329, title V, §517A, as added Pub. L. 90–35, §3(i), June 29, 1967, 81Stat. 87, related to teaching children of migratory agricultural workers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
 Section 1107b, Pub. L. 89–329, title V, §533, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1501, related to grant requirements for professional development resource centers.
 
@@ -296,7 +296,7 @@ Section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 94–482, titl
 
 Another prior section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 92–318, title IV, §451(b), June 23, 1972, 86 Stat. 344, authorized teachers for Indian children as part of the training and retraining program, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, effective Sept. 30, 1976.
 
-Another prior section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 90–35, §6, June 29, 1967, 81 Stat. 92; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), June 23, 1972, 86 Stat. 284, authorized appropriations for fiscal years 1969 to 1972, prior to repeal by section 141(c)(1)(F) of Pub. L. 92–318, effective on and after July 1, 1972.
+Another prior section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 90–35, §6, June 29, 1967, 81 Stat.92; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), June 23, 1972, 86 Stat. 284, authorized appropriations for fiscal years 1969 to 1972, prior to repeal by section 141(c)(1)(F) of Pub. L. 92–318, effective on and after July 1, 1972.
 
 Section 1119a–1, Pub. L. 89–329, title V, §533, as added Pub. L. 94–482, title I, §153, Oct. 12, 1976, 90 Stat. 2155; amended Pub. L. 95–43, §1(a)(42), (b)(5), June 15, 1977, 91 Stat. 217, 218; Pub. L. 96–374, title V, §504, Oct. 3, 1980, 94 Stat. 1460; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357, related to grants for training higher education personnel.
 
@@ -334,7 +334,7 @@ Another prior section 1119c–2, Pub. L. 89–329, title V, §553, as added Pub.
 
 Section 1119c–3, Pub. L. 89–329, title V, §554, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1094, related to familiarizing teachers with new curricular methods, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
-Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat.2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat. 2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
 An identical section 555 of Pub. L. 89–329, as added Pub. L. 94–482, title II, §201(q), Oct. 12, 1976, 90 Stat. 2169, was also classified to section 1119c–4, and was repealed by Pub. L. 94–482, title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2215.
 
@@ -360,7 +360,7 @@ Section 1119d–8, Pub. L. 89–329, title V, §569, as added Pub. L. 98–558, 
 
 Section 1119e, Pub. L. 89–329, title V, §571, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898, stated purpose of establishing national fellowship program for outstanding teachers.
 
-Section 1119e–1, Pub. L. 89–329, title V, §572, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898, authorized appropriations for fiscal years 1986 to 1989 for fellowships to outstanding teachers.
+Section 1119e–1, Pub. L. 89–329, title V, §572, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2898,authorized appropriations for fiscal years 1986 to 1989 for fellowships to outstanding teachers.
 
 Section 1119e–2, Pub. L. 89–329, title V, §573, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2899, provided for program of talented teacher fellowships.
 

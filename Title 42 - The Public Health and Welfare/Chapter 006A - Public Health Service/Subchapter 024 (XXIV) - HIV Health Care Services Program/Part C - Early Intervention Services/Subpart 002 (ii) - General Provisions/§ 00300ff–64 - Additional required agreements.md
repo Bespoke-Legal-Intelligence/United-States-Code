@@ -68,7 +68,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;&emsp;(B) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 300 percent of the official poverty line, the applicant will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
+&emsp;&emsp;(C) in the case of individuals with an income greater than 300 percent of the official poverty line, the applicant will not, for any calendar year, impose charges in an amountexceeding 10 percent of the annual gross income of the individual involved.
 
 #### (3) Assessment of charge
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter thatare provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 

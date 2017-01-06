@@ -28,7 +28,7 @@ In general.—Subject to paragraph (2), the pilot program may be carried out und
 
 Continuing validity of contracts.—A contract entered into under the pilot program before the expiration of that program remains in effect according to the terms of the contract after the expiration of the program.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1245; Pub. L. 107–314, div. A, title VIII, §825(b)(2)(A), Dec. 2, 2002, 116 Stat. 2615; Pub. L. 107–347, title II, §210(h)(2)(A), Dec. 17, 2002, 116 Stat. 2938.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1245; Pub. L. 107–314, div. A, title VIII, §825(b)(2)(A), Dec. 2,2002, 116 Stat. 2615; Pub. L. 107–347, title II, §210(h)(2)(A), Dec. 17, 2002, 116 Stat. 2938.)
 
 Historical and Revision Notes
 

@@ -76,7 +76,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (14) National defense
 
-&emsp;The term "national defense" means programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity. Such term includes emergency preparedness activities conducted pursuant to title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\] and critical infrastructure protection and restoration.
+&emsp;The term "national defense" means programs for military and energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland security, stockpiling, space, and any directly related activity. Such term includes emergency preparedness activities conductedpursuant to title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\] and critical infrastructure protection and restoration.
 
 #### (15) Person
 

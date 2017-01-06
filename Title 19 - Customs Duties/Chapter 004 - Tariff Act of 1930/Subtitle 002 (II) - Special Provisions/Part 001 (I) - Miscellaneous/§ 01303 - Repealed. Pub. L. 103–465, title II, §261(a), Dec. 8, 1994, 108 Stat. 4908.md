@@ -20,7 +20,7 @@ Continuing effect of legal documents.—All orders, determinations, and other ad
 
 &emsp;&emsp;"(A) which have been issued pursuant to an investigation conducted under section 303 of the Tariff Act of 1930 \[19 U.S.C. 1303\], and
 
-&emsp;&emsp;"(B) which are in effect on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994Amendment note set out under section 1671 of this title\], or were final before such date and are to become effective on or after such date,
+&emsp;&emsp;"(B) which are in effect on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\], or were final before such date and are to become effective on or after such date,
 
 > &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the administering authority, the International Trade Commission, or a court of competent jurisdiction, or by operation of law. Except as provided in paragraph (3), such orders or determinations shall be subject to review under section 751 of the Tariff Act of 1930 \[19 U.S.C. 1675\] and, to the extent applicable, investigation under section 753 of such Act \[19 U.S.C. 1675b\] (as added by this title).
 
@@ -30,7 +30,7 @@ Proceedings not affected.—The provisions of subsection (a) shall not affect an
 
 &emsp;"(3)
 
-Suits not affected.—The provisions of subsection (a) shall not affect the review pursuant to section 516A of the Tariff Act of 1930 \[19 U.S.C. 1516a\] of a countervailing duty order issued pursuant to an investigation conducted under section 303 of such Act \[19 U.S.C. 1303\] or a review of a countervailing duty order issued under section 751 of such Act \[19 U.S.C. 1675\], if such review is pending or the time for filing such review has not expired on the effective date of this title.
+Suits not affected.—The provisions of subsection (a) shall not affect the review pursuant to section 516A of the Tariff Act of 1930 \[19 U.S.C. 1516a\]of a countervailing duty order issued pursuant to an investigation conducted under section 303 of such Act \[19 U.S.C. 1303\] or a review of a countervailing duty order issued under section 751 of such Act \[19 U.S.C. 1675\], if such review is pending or the time for filing such review has not expired on the effective date of this title.
 
 "(c)
 

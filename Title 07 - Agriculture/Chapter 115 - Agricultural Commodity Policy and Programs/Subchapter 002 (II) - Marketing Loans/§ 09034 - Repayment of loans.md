@@ -48,7 +48,7 @@ For purposes of this section and section 9037 of this title, the Secretary shall
 
 #### (1) Rice
 
-&emsp;The prevailing world market price for long grain rice and medium grain rice determinedunder subsection (d) shall be adjusted to United States quality and location.
+&emsp;The prevailing world market price for long grain rice and medium grain rice determined under subsection (d) shall be adjusted to United States quality and location.
 
 #### (2) Cotton
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) of this subsection for any individual with respect to whom it is made.
 
-> At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of 90 consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for 30 consecutive days in the case of such an individual who has maintained his residence in such State during such period or 90 consecutive days in the case of any other such individual, and (ii) may includerent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of assistance under such plan.
+> At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of 90 consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for 30 consecutive days in the case of such an individual who has maintained his residence in such State during such period or 90 consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of assistance under such plan.
 
 (b), (c) Repealed. Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.
 

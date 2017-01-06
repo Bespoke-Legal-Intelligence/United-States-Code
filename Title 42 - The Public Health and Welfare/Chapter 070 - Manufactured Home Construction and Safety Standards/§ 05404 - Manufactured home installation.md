@@ -46,7 +46,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### (A) Establishment of installation program
 
-&emsp;&emsp;Not later than the expiration of the 5-year period described in paragraph (1), the Secretary shall establish an installation program that meets the requirements of paragraph (3) for the enforcement of installation standards in each State described in subparagraph (B) of this paragraph.
+&emsp;&emsp;Not later than the expiration of the 5-year period described in paragraph (1), the Secretary shall establish an installation program that meets the requirements of paragraph (3) for the enforcement of installationstandards in each State described in subparagraph (B) of this paragraph.
 
 #### (B) Implementation of installation program
 

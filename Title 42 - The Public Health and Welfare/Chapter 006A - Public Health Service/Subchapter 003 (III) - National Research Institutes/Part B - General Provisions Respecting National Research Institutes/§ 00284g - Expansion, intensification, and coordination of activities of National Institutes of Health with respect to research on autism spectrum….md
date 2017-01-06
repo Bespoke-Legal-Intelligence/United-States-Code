@@ -18,11 +18,11 @@
 
 #### (1) In general
 
-&emsp;The Director shall under subsection (a)(1) of this section make awards of grants and contracts to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on autism spectrum disorder.
+&emsp;The Director shall under subsection (a)(1) make awards of grants and contracts to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on autism spectrum disorder.
 
 #### (2) Research
 
-&emsp;Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, and psychopharmacology.
+&emsp;Each center under paragraph (1) shall conduct basic and clinical research into autismspectrum disorder. Such research should include investigations into the cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, and psychopharmacology.
 
 #### (3) Services for patients
 
@@ -54,13 +54,13 @@
 
 #### (c) Facilitation of research
 
-The Director shall under subsection (a)(1) of this section provide for a program under which samples of tissues and genetic materials that are of use in research on autism spectrum disorder are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
+The Director shall under subsection (a)(1) provide for a program under which samples of tissues and genetic materials that are of use in research on autism spectrum disorder are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
 
 #### (d) Public input
 
-The Director shall under subsection (a)(1) of this section provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
+The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
 
-(July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–310, div. A, title I, §101, Oct. 17, 2000,114 Stat. 1105; amended Pub. L. 109–416, §§2(a), 4(b), Dec. 19, 2006, 120 Stat. 2821, 2830; Pub. L. 109–482, title I, §§103(b)(9), 104(b)(1)(D), Jan. 15, 2007, 120 Stat. 3687, 3693.)
+(July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–310, div. A, title I, §101, Oct. 17, 2000, 114 Stat. 1105; amended Pub. L. 109–416, §§2(a), 4(b), Dec. 19, 2006, 120 Stat. 2821, 2830; Pub. L. 109–482, title I, §§103(b)(9), 104(b)(1)(D), Jan. 15, 2007, 120 Stat. 3687, 3693.)
 
 #### Codification
 

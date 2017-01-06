@@ -54,7 +54,7 @@ The term "importer" means any person who is engaged in the business of importing
 
 The term "manufacturer" means any person who is engaged in the business of manufacturing firearms.
 
-(Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, §109, May 19, 1986, 100 Stat. 460.)
+(Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, §109, May 19, 1986, 100 Stat. 460.)
 
 #### Prior Provisions
 

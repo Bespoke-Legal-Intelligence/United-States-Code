@@ -12,7 +12,7 @@ In this section:
 
 &emsp;&emsp;(C) an element of the intelligence community.
 
-&emsp;(2) The term "authorized investigative agency" means an agency designated by the head of the agency selected pursuant to subsection (b) of this section to conduct a counterintelligence investigation or investigation of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
+&emsp;(2) The term "authorized investigative agency" means an agency designated by the head of the agency selected pursuant to subsection (b) to conduct a counterintelligence investigation or investigation of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
 &emsp;(3) The term "authorized adjudicative agency" means an agency authorized by law, regulation, or direction of the Director of National Intelligence to determine eligibility for access to classified information in accordance with Executive Order 12968.
 
@@ -68,9 +68,9 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(3) serving as the final authority to designate an authorized investigative agency or authorized adjudicative agency;
 
-&emsp;(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
+&emsp;(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d);
 
-&emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are availablein each agency to achieve clearance and investigative program goals;
+&emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
 
 &emsp;(6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
 
@@ -82,15 +82,15 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 #### (c) Performance of security clearance investigations
 
-(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
+(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b), select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) considers it appropriate for national security and efficiency purposes.
 
 (2) The agency selected under paragraph (1) shall—
 
 &emsp;(A) take all necessary actions to carry out the requirements of this section, including entering into a memorandum of understanding with any agency carrying out responsibilities relating to security clearances or security clearance investigations before December 17, 2004;
 
-&emsp;(B) as soon as practicable, integrate reporting of security clearance applications, security clearance investigations, and determinations of eligibility for security clearances, with the database required by subsection (e) of this section; and
+&emsp;(B) as soon as practicable, integrate reporting of security clearance applications, security clearance investigations, and determinations of eligibility for security clearances, with the database required by subsection (e); and
 
-&emsp;(C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements established under subsection (b) of this section, including uniform security questionnaires and financial disclosure requirements.
+&emsp;(C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements establishedunder subsection (b), including uniform security questionnaires and financial disclosure requirements.
 
 #### (d) Reciprocity of security clearance and access determinations
 
@@ -98,31 +98,31 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 (2) All security clearance background investigations initiated by an authorized investigative agency shall be transferable to any other authorized investigative agency.
 
-(3)(A) An authorized investigative agency or authorized adjudicative agency may not establish additional investigative or adjudicative requirements (other than requirements for the conduct of a polygraph examination) that exceed requirements specified in Executive Orders establishing security requirements for access to classified information without the approval of the head of the entity selected pursuant to subsection (b) of this section.
+(3)(A) An authorized investigative agency or authorized adjudicative agency may not establish additional investigative or adjudicative requirements (other than requirements for the conduct of a polygraph examination) that exceed requirements specified in Executive Orders establishing security requirements for access to classified information without the approval of the head of the entity selected pursuant to subsection (b).
 
-(B) Notwithstanding subparagraph (A), the head of the entity selected pursuant to subsection (b) of this section may establish such additional requirements as the head of such entity considers necessary for national security purposes.
+(B) Notwithstanding subparagraph (A), the head of the entity selected pursuant to subsection (b) may establish such additional requirements as the head of such entity considers necessary for national security purposes.
 
 (4) An authorized investigative agency or authorized adjudicative agency may not conduct an investigation for purposes of determining whether to grant a security clearance to an individual where a current investigation or clearance of equal level already exists or has been granted by another authorized adjudicative agency.
 
-(5) The head of the entity selected pursuant to subsection (b) of this section may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) of this section determines that such action is necessary for national security purposes.
+(5) The head of the entity selected pursuant to subsection (b) may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) determines that such action is necessary for national security purposes.
 
-(6) The head of the entity selected pursuant to subsection (b) of this section shall establish a review procedure by which agencies can seek review of actions required under this section.
+(6) The head of the entity selected pursuant to subsection (b) shall establish a review procedure by which agencies can seek review of actions required under this section.
 
 #### (e) Database on security clearances
 
-(1) Not later than 12 months after December 17, 2004, the Director of the Office of Personnel Management shall, in cooperation with the heads of the entities selected pursuant to subsections (b) and (c) of this section, establish and commence operating and maintaining an integrated, secure, database into which appropriate data relevant to the granting, denial, or revocation of a security clearance or access pertaining to military, civilian, or government contractor personnel shall be entered from all authorized investigative and adjudicative agencies.
+(1) Not later than 12 months after December 17, 2004, the Director of the Office of Personnel Management shall, in cooperation with the heads of the entities selected pursuant to subsections (b) and (c), establish and commence operating and maintaining an integrated, secure, database into which appropriate data relevant to the granting, denial, or revocation of a security clearance or access pertaining to military, civilian, or government contractor personnel shall be entered from all authorized investigative and adjudicative agencies.
 
 (2) The database under this subsection shall function to integrate information from existing Federal clearance tracking systems from other authorized investigative and adjudicative agencies into a single consolidated database.
 
 (3) Each authorized investigative or adjudicative agency shall check the database under this subsection to determine whether an individual the agency has identified as requiring a security clearance has already been granted or denied a security clearance, or has had a security clearance revoked, by any other authorized investigative or adjudicative agency.
 
-(4) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the extent to which an agency is submitting information to, and requesting information from, the database under this subsection as part of a determination of whether to certify the agency as an authorized investigative agency or authorized adjudicative agency.
+(4) The head of the entity selected pursuant to subsection (b) shall evaluate the extent to which an agency is submitting information to, and requesting information from, the database under this subsection as part of a determination of whether to certify the agency as an authorized investigative agency or authorized adjudicative agency.
 
-(5) The head of the entity selected pursuant to subsection (b) of this section may authorize an agency to withhold information about certain individuals from the database under this subsection if the head of the entity considers it necessary for national security purposes.
+(5) The head of the entity selected pursuant to subsection (b) may authorize an agency to withhold information about certain individuals from the database under this subsection if the head of the entity considers it necessary for national security purposes.
 
 #### (f) Evaluation of use of available technology in clearance investigations and adjudications
 
-(1) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the use of available information technology and databases to expedite investigative and adjudicative processes for all and to verify standard information submitted as part of an application for a security clearance.
+(1) The head of the entity selected pursuant to subsection (b) shall evaluate the use of available information technology and databases to expedite investigative and adjudicative processes for all and to verify standard information submitted as part of an application for a security clearance.
 
 (2) The evaluation shall assess the application of the technologies described in paragraph (1) for—
 
@@ -136,15 +136,15 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(E) assessing the impact of the use of such technologies on the rights of applicants to verify, correct, or challenge information obtained through such technologies; and
 
-&emsp;(F) such other purposes as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
+&emsp;(F) such other purposes as the head of the entity selected pursuant to subsection (b) considers appropriate.
 
 (3) An individual subject to verification utilizing the technology described in paragraph (1) shall be notified of such verification, shall provide consent to such use, and shall have access to data being verified in order to correct errors or challenge information the individual believes is incorrect.
 
-(4) Not later than one year after December 17, 2004, the head of the entity selected pursuant to subsection (b) of this section shall submit to the President and the appropriate committees of Congress a report on the results of the evaluation, including recommendations on the use of technologies described in paragraph (1).
+(4) Not later than one year after December 17, 2004, the head of the entity selected pursuant to subsection (b) shall submit to the President and the appropriate committees of Congress a report on the results of the evaluation, including recommendations on the use of technologies described in paragraph (1).
 
 #### (g) Reduction in length of personnel security clearance process
 
-(1) The head of the entity selected pursuant to subsection (b) of this section shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
+(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selection under that subsection, develop, in consultationwith the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
 
 (2)(A) To the extent practical the plan under paragraph (1) shall require that each authorized adjudicative agency make a determination on at least 90 percent of all applications for a personnel security clearance within an average of 60 days after the date of receipt of the completed application for a security clearance by an authorized investigative agency. Such 60-day average period shall include—
 
@@ -164,7 +164,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 #### (h) Reports
 
-(1) Not later than February 15, 2006, and annually thereafter through 2011, the head of the entity selected pursuant to subsection (b) of this section shall submit to the appropriate committees of Congress a report on the progress made during the preceding year toward meeting the requirements of this section.
+(1) Not later than February 15, 2006, and annually thereafter through 2011, the head of the entity selected pursuant to subsection (b) shall submit to the appropriate committees of Congress a report on the progress made during the preceding year toward meeting the requirements of this section.
 
 (2) Each report shall include, for the period covered by such report—
 
@@ -172,11 +172,11 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(B) a discussion of any impediments to the smooth and timely functioning of the requirements of this section; and
 
-&emsp;(C) such other information or recommendations as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
+&emsp;(C) such other information or recommendations as the head of the entity selected pursuant to subsection (b) considers appropriate.
 
 #### (i) Authorization of appropriations
 
-There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e) of this section.
+There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e).
 
 #### (j) Retaliatory revocation of security clearances and access determinations
 
@@ -214,7 +214,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (2) Rule of construction
 
-&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of anypersonnel action against an employee who lawfully discloses information to Congress.
 
 #### (3) Disclosures
 
@@ -322,7 +322,7 @@ Pub. L. 113–126, title VI, §602(a)(2), July 7, 2014, 128 Stat. 1416, provided
 
 #### Existing Rights Preserved
 
-Pub. L. 113–126, title VI, §602(d), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notesunder this section\] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule."
+Pub. L. 113–126, title VI, §602(d), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule."
 
 #### Strategy for Security Clearance Reciprocity
 

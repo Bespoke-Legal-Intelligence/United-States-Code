@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) on and after the 270th day after November 18, 1988, no person (including a person described in section 1414a(a)(1)(C) of this title) shall dump into ocean waters, or transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste, unless such person—
 
-&emsp;&emsp;&emsp;(i) has entered into a compliance agreement or enforcement agreement which meets the requirements of subsection (c)(2) or (3) of this section, as applicable; and
+&emsp;&emsp;&emsp;(i) has entered into a compliance agreement or enforcement agreement which meets the requirements of subsection (c)(2) or (3), as applicable; and
 
 &emsp;&emsp;&emsp;(ii) has obtained a permit issued under section 1412 of this title which authorizes such transportation and dumping; and
 
@@ -34,13 +34,13 @@
 
 &emsp;Of the amount of fees under paragraph (1) for which a person is liable, such person—
 
-&emsp;&emsp;(A) shall pay into a trust account established by the person in accordance with subsection (e) of this section a sum equal to 85 percent of such amount;
+&emsp;&emsp;(A) shall pay into a trust account established by the person in accordance with subsection (e) a sum equal to 85 percent of such amount;
 
-&emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1) of this section;
+&emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1);
 
 &emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2).
 
 #### (3) Schedule for payment
 
@@ -48,15 +48,15 @@
 
 #### (4) Waiver of fees
 
-&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
+&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2).
 
 &emsp;(B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
 
-&emsp;&emsp;(i) the person has failed to comply with the terms of a compliance agreement which the person entered into under subsection (c)(2) of this section; and
+&emsp;&emsp;(i) the person has failed to comply with the terms of a compliance agreement which the person entered into under subsection (c)(2); and
 
 &emsp;&emsp;(ii) such failure is likely to result in the person not being able to terminate by December 31, 1991, dumping of sewage sludge or industrial waste into ocean waters.
 
-&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2) of this section.
+&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2).
 
 #### (5) Payments prior to establishment of account
 
@@ -136,19 +136,19 @@
 
 #### (5) Clean oceans funds
 
-&emsp;(A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i) of this section, respectively.
+&emsp;(A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i), respectively.
 
 &emsp;(B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocate and pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
 
-&emsp;&emsp;(i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) of this section and as penalties pursuant to subsection (d)(2)(C)(i) of this section;
+&emsp;&emsp;(i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) and as penalties pursuant to subsection (d)(2)(C)(i);
 
-&emsp;&emsp;(ii) amounts paid by the Administrator into the fund in that year as fees held in escrow for the person pursuant to subsection (b)(5)(B) of this section; and
+&emsp;&emsp;(ii) amounts paid by the Administrator into the fund in that year as fees held in escrow for the person pursuant to subsection (b)(5)(B); and
 
 &emsp;&emsp;(iii) interest on such amounts.
 
 &emsp;(C) Amounts allocated and paid to a person pursuant to subparagraph (B)—
 
-&emsp;&emsp;(i) shall be used for the purposes described in subsection (e)(2)(B) of this section; and
+&emsp;&emsp;(i) shall be used for the purposes described in subsection (e)(2)(B); and
 
 &emsp;&emsp;(ii) may be used for matching Federal grants.
 
@@ -162,7 +162,7 @@
 
 #### (1) In general
 
-&emsp;In lieu of any other civil penalty under this Act, any person who has entered into a compliance agreement or enforcement agreement under subsection (c) of this section and who dumps or transports sewage sludge or industrial waste in violation of subsection (a)(1)(B) of this section shall be liable for a civil penalty, to be assessed by the Administrator, as follows:
+&emsp;In lieu of any other civil penalty under this Act, any person who has entered into a compliance agreement or enforcement agreement under subsection (c) and who dumps or transports sewage sludge or industrial waste in violation of subsection (a)(1)(B) shall be liable for a civil penalty, to be assessed by the Administrator, as follows:
 
 &emsp;&emsp;(A) For each dry ton (or equivalent) of sewage sludge or industrial waste dumped or transported by the person in violation of this subsection in calendar year 1992, $600.
 
@@ -176,21 +176,21 @@
 
 &emsp;Of the amount of penalties under paragraph (1) for which a person is liable, such person—
 
-&emsp;&emsp;(A) shall pay into a trust account established by the person in accordance with subsection (e) of this section a sum which is a percentage of such amount equal to—
+&emsp;&emsp;(A) shall pay into a trust account established by the person in accordance with subsection (e) a sum which is a percentage of such amount equal to—
 
 &emsp;&emsp;&emsp;(i) 90 percent of such amount, reduced by
 
 &emsp;&emsp;&emsp;(ii) 5 percent of such amount for each full calendar year since December 31, 1991;
 
-&emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person in that year, for use for agency activities as provided in subsection (f)(1) of this section;
+&emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person in that year, for use for agency activities as provided in subsection (f)(1);
 
 &emsp;&emsp;(C) for violations in any year before calendar year 1995—
 
 &emsp;&emsp;&emsp;(i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2); and
 
-&emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
+&emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
 
 #### (3) Schedule for payment
 
@@ -198,13 +198,13 @@
 
 #### (4) Payments prior to establishment of account
 
-&emsp;In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5) of this section.
+&emsp;In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5).
 
 #### (e) Trust account
 
 #### (1) In general
 
-&emsp;A person who enters into a compliance agreement or an enforcement agreement under subsection (c) of this section shall establish a trust account for the payment and use of fees and penalties under this section.
+&emsp;A person who enters into a compliance agreement or an enforcement agreement under subsection (c) shall establish a trust account for the payment and use of fees and penalties under this section.
 
 #### (2) Trust account requirements
 
@@ -214,11 +214,11 @@
 
 &emsp;&emsp;(B) Amounts in the account may be used only for projects which will identify, develop, and implement—
 
-&emsp;&emsp;&emsp;(i) an alternative system, and any interim measures, for the management of sewage sludge and industrial waste, including but not limited to any such system or measures utilizing resource recovery, recycling, thermal reduction, or composting techniques; or
+&emsp;&emsp;&emsp;(i) an alternative system, and any interim measures, for the management ofsewage sludge and industrial waste, including but not limited to any such system or measures utilizing resource recovery, recycling, thermal reduction, or composting techniques; or
 
 &emsp;&emsp;&emsp;(ii) improvements in pretreatment, treatment, and storage techniques for sewage sludge and industrial waste to facilitate the implementation of such alternative system or interim measures.
 
-&emsp;&emsp;(C) Upon a finding by the Administrator that a person did not pay fees or penalties into an account as required by this section, or did not use amounts in the account in accordance with this subsection, the balance of the amounts in the account shall be paid to the State in which the person is located, for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(C) Upon a finding by the Administrator that a person did not pay fees or penalties into an account as required by this section, or did not use amounts in the account in accordance with this subsection, the balance of the amounts in the account shall be paid to the State in which the person is located, for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2).
 
 #### (3) Use of unexpended amounts
 
@@ -238,13 +238,13 @@
 
 #### (1) Agency activities
 
-&emsp;Of the total amount of fees and penalties paid to the Administrator in a fiscal year pursuant to subsections (b)(2)(B) and (d)(2)(B) of this section, respectively—
+&emsp;Of the total amount of fees and penalties paid to the Administrator in a fiscal year pursuant to subsections (b)(2)(B) and (d)(2)(B), respectively—
 
 &emsp;&emsp;(A) not to exceed one-third of such total amount shall be used by the Administrator for—
 
 &emsp;&emsp;&emsp;(i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation or dumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
 
-&emsp;&emsp;&emsp;(ii) preparation of reports under subsection (i) of this section; and
+&emsp;&emsp;&emsp;(ii) preparation of reports under subsection (i); and
 
 &emsp;&emsp;&emsp;(iii) such other research, studies, and projects the Administrator considers necessary for, and consistent with, the development and implementation of alternative systems for the management of sewage sludge and industrial waste;
 
@@ -256,13 +256,13 @@
 
 &emsp;&emsp;(C) not to exceed one-third of such total amount shall be transferred to the Under Secretary of Commerce for Oceans and Atmosphere for use for—
 
-&emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
+&emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1); and
 
-&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> of this section which describe the results of such monitoring, research, and activities.
+&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> which describe the results of such monitoring, research, and activities.
 
 #### (2) Deposits into State water pollution control revolving fund
 
-&emsp;(A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) of this section shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\].
+&emsp;(A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\].
 
 &emsp;(B) Amounts deposited into a State water pollution control revolving fund pursuant to this paragraph—
 
@@ -274,7 +274,7 @@
 
 #### (3) Penalty payments to States after 1994
 
-&emsp;(A) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section may be used by the State—
+&emsp;(A) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) may be used by the State—
 
 &emsp;&emsp;(i) for providing assistance to any person in the State—
 
@@ -284,9 +284,9 @@
 
 &emsp;&emsp;&emsp;(III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs are identified in the New York Bight Restoration Plan prepared under section 2301 of the Marine Plastic Pollution Research and Control Act of 1987; and
 
-&emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
+&emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to paysuch penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
-&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
+&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
 
 &emsp;&emsp;(i) shall not be used by the State to provide assistance to the person who paid such amounts;
 
@@ -296,15 +296,15 @@
 
 #### (4) Deposits into Treasury as offsetting collections
 
-&emsp;Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) of this section which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
+&emsp;Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
 
 #### (g) Enforcement
 
 #### (1) In general
 
-&emsp;Whenever, on the basis of any information available, the Administrator finds that a person is dumping or transporting sewage sludge or industrial waste in violation of subsection (a)(1) of this section, the Administrator shall issue an order requiring such person to terminate such dumping or transporting (as applicable) until such person—
+&emsp;Whenever, on the basis of any information available, the Administrator finds that a person is dumping or transporting sewage sludge or industrial waste in violation of subsection (a)(1), the Administrator shall issue an order requiring such person to terminate such dumping or transporting (as applicable) until such person—
 
-&emsp;&emsp;(A) enters into a compliance agreement or an enforcement agreement under subsection (c) of this section; and
+&emsp;&emsp;(A) enters into a compliance agreement or an enforcement agreement under subsection (c); and
 
 &emsp;&emsp;(B) obtains a permit under section 1412 of this title which authorizes such dumping or transporting.
 
@@ -318,21 +318,21 @@
 
 &emsp;&emsp;(C) shall require that the person named in the order, as a condition of dumping into ocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
 
-&emsp;&emsp;&emsp;(i) shall enter into a compliance agreement or an enforcement agreement under subsection (c) of this section; and
+&emsp;&emsp;&emsp;(i) shall enter into a compliance agreement or an enforcement agreement under subsection (c); and
 
 &emsp;&emsp;&emsp;(ii) shall obtain a permit under section 1412 of this title which authorizes such dumping or transporting.
 
 #### (3) Actions
 
-&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1) of this section, for any violation of subsection (a)(1) of this section or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) of this section and any such order.
+&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1), for any violation of subsection (a)(1) or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) and any such order.
 
 #### (h) State progress reports
 
 #### (1) In general
 
-&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
+&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
 
-&emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+&emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c), including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
 &emsp;&emsp;(B) activity of the State regarding permits for the construction and operation of each alternative system; and
 
@@ -350,7 +350,7 @@
 
 &emsp;&emsp;(A) progress being made by persons issued permits under section 1412 of this title for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
 
-&emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+&emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c), including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
 &emsp;&emsp;(C) progress being made by the Administrator and others in identifying and implementing alternative systems for the management of sewage sludge and industrial waste; and
 
@@ -394,7 +394,7 @@ For purposes of this section—
 
 &emsp;(1) the term "alternative system" means any method for the management of sewage sludge or industrial waste which does not require a permit under this Act;
 
-&emsp;(2) the term "Clean Oceans Fund" means such a fund established by a State in accordance with subsection (c)(5) of this section;
+&emsp;(2) the term "Clean Oceans Fund" means such a fund established by a State in accordance with subsection (c)(5);
 
 &emsp;(3) the term "excluded material" means—
 
@@ -420,7 +420,7 @@ This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), 
 
 The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-Subsection (j)(4) of this section, referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
+Subsection (j)(4), referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 
 Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under section 2267 of this title.
 

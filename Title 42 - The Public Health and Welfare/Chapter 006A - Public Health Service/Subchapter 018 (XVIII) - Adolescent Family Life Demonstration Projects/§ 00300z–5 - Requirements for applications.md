@@ -12,7 +12,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(4) a description of the major unmet needs for services for adolescents at risk of initial or recurrent pregnancies and an estimate of the number of adolescents not being served in the area;
 
-&emsp;(5)(A) in the case of an applicant who will provide care services, a description of how allcore services will be provided in the demonstration project using funds under this subchapter or will otherwise be provided by the grantee in the area to be served, the population to which such services will be provided, how such services will be coordinated, integrated, and linked with other related programs and services and the source or sources of funding of such core services in the public and private sectors; or
+&emsp;(5)(A) in the case of an applicant who will provide care services, a description of how all core services will be provided in the demonstration project using funds under this subchapter or will otherwise be provided by the grantee in the area to be served, the population to which such services will be provided, how such services will be coordinated, integrated, and linked with other related programs and services and the source or sources of funding of such core services in the public and private sectors; or
 
 &emsp;(B) in the case of an applicant who will provide prevention services, a description of the necessary services to be provided and how the applicant will provide such services;
 
@@ -68,7 +68,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(22)(A) assurances that—
 
-&emsp;&emsp;(i) except as provided in subparagraph (B) and subject to clause (ii), the applicant will notify the parents or guardians of any unemancipated minor requesting services from the applicant and, except as provided in subparagraph (C), will obtain the permission of such parents or guardians with respect to the provision of such services; and
+&emsp;&emsp;(i) except as provided in subparagraph (B) and subject to clause (ii), the applicant willnotify the parents or guardians of any unemancipated minor requesting services from the applicant and, except as provided in subparagraph (C), will obtain the permission of such parents or guardians with respect to the provision of such services; and
 
 &emsp;&emsp;(ii) in the case of a pregnant unemancipated minor requesting services from the applicant, the applicant will notify the parents or guardians of such minor under clause (i) within a reasonable period of time;
 
@@ -86,7 +86,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(24) assurances that funds received under this subchapter shall supplement and not supplant funds received from any other Federal, State, or local program or any private sources of funds; and
 
-&emsp;(25) a plan for the conduct of, and assurances that the applicant will conduct, evaluations of the effectiveness of the services supported under this subchapter in accordance with subsection (b) of this section.
+&emsp;(25) a plan for the conduct of, and assurances that the applicant will conduct, evaluations of the effectiveness of the services supported under this subchapter in accordance with subsection (b).
 
 #### (b) Evaluations: amount, conduct, and technical assistance
 
@@ -102,9 +102,9 @@ Each grantee which receives funds for a demonstration project for services under
 
 #### (d) Notification of parents; "adult" defined
 
-(1) A grantee shall periodically notify the Secretary of the exact number of instances in which a grantee does not notify the parents or guardians of a pregnant unemancipated minor under subsection (a)(22)(B)(iii) of this section.
+(1) A grantee shall periodically notify the Secretary of the exact number of instances in which a grantee does not notify the parents or guardians of a pregnant unemancipated minor under subsection (a)(22)(B)(iii).
 
-(2) For purposes of subsection (a)(22)(B)(iii) of this section, the term "adult" means an adult as defined by State law.
+(2) For purposes of subsection (a)(22)(B)(iii), the term "adult" means an adult as defined by State law.
 
 #### (e) Submission of applications to Governor; comments by Governor
 

@@ -22,7 +22,7 @@ In general.—The following shall be subject to forfeiture to the United States 
 
 &emsp;(2)
 
-Applicability of chapter 46.—The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
+Applicability of chapter 46.—The provisions of chapter 46 of this title relating to civilforfeitures shall apply to any seizure or civil forfeiture under this subsection.
 
 (Added Pub. L. 109–164, title I, §103(d)(1), Jan. 10, 2006, 119 Stat. 3563.)
 

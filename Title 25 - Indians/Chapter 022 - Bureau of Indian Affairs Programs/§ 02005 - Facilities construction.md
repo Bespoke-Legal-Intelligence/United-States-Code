@@ -70,7 +70,7 @@
 
 #### (6) Facilities information systems support database
 
-&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained in the survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by Government Accountability Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
+&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained inthe survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by Government Accountability Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
 
 #### (b) Compliance with health and safety standards
 
@@ -106,7 +106,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (1) System to establish priorities
 
-&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shallpublish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
 
 #### (2) Long-term construction and replacement list
 

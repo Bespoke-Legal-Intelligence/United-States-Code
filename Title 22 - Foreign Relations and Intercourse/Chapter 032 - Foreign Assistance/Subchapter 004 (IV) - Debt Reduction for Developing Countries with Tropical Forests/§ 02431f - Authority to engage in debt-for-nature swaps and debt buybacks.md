@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaserdescribed in subparagraph (B) any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible purchaser described in subparagraph (B), reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt-for-nature swap to support eligible activities described in section 2431g(d) of this title.
+&emsp;&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaser described in subparagraph (B) any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible purchaser described in subparagraph (B), reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt-for-nature swap to support eligible activities described in section 2431g(d) of this title.
 
 #### (B) Eligible purchaser described
 

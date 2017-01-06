@@ -30,7 +30,7 @@
 
 > Such phrase does not include costs which are not directly attributable to the merchandise concerned or are not costs of manufacturing the product, such as (i) profit, and (ii) general expense of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, interest, and salesmen's salaries, commissions or expenses.
 
-(4) If the President, pursuant to section 223 of the Caribbean Basin Economic Recovery Expansion Act of 1990, considers that the implementation of revised rules of origin for products of beneficiary countries designated under the Caribbean Basin Economic Recovery Act (19 U.S.C. 2701 et seq.) would be appropriate, the President may include similarly revised rules of origin for products of beneficiary countries designated under this chapter in any suggested legislation transmitted to the Congress that contains such rules of origin for products of beneficiary countries under the Caribbean Basin Economic Recovery Act.
+(4) If the President, pursuant to section 223 of the Caribbean Basin Economic Recovery Expansion Act of 1990, considers that the implementation of revised rules of origin for products of beneficiary countries designated under the Caribbean Basin Economic Recovery Act (19 U.S.C. 2701 et seq.) would be appropriate, the President may include similarly revised rules oforigin for products of beneficiary countries designated under this chapter in any suggested legislation transmitted to the Congress that contains such rules of origin for products of beneficiary countries under the Caribbean Basin Economic Recovery Act.
 
 #### (b) Exceptions and special rules
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the President has obtained advice regarding the proposed action from the appropriate advisory committee established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) and the United States International Trade Commission;
 
-&emsp;&emsp;&emsp;&emsp;(III) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such action, and the advice obtained under subclause (II);
+&emsp;&emsp;&emsp;&emsp;(III) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means ofthe House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such action, and the advice obtained under subclause (II);
 
 &emsp;&emsp;&emsp;&emsp;(IV) a period of 60 calendar days, beginning with the first day on which the President has met the requirements of subclause (III), has expired; and
 
@@ -126,7 +126,7 @@
 
 #### (I) Exception for findings and trimmings
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps, buttons, "bow buds", decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooksand eyes, snaps, buttons, "bow buds", decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products.
 
 #### (II) Certain interlining
 
@@ -178,7 +178,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may take bilateral emergency tariff actions of a kind described in section 4 of the Annex with respect to any apparel article imported from an ATPDEA beneficiary country if the application of tariff treatment under subparagraph (A) to such article results in conditions that would be cause for the taking of such actions under such section 4 with respect to a like article described in the same 8-digit subheading of the HTS that is imported from Mexico.
+&emsp;&emsp;&emsp;The President may take bilateral emergency tariff actions of a kind described in section 4 of the Annex with respect to any apparel article imported from an ATPDEA beneficiary country if the application of tariff treatment under subparagraph (A) to such article results in conditions thatwould be cause for the taking of such actions under such section 4 with respect to a like article described in the same 8-digit subheading of the HTS that is imported from Mexico.
 
 #### (ii) Rules relating to bilateral emergency action
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) from which the article is exported; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate orin which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
 
 #### (B) Certificate of Origin
 
@@ -334,7 +334,7 @@
 
 (2) In any report by the United States International Trade Commission to the President under section 202(f) of the Trade Act of 1974 \[19 U.S.C. 2252(f)\] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-(3) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
+(3) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of theduty-free treatment provided by this chapter shall be treated as an increase in duty.
 
 (4) No proclamation providing solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
@@ -382,7 +382,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007,121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
 
 #### References in Text
 
@@ -488,7 +488,7 @@ Amendment by Pub. L. 103–465 effective on the date of entry into force of the 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Delegation of Authority
 
@@ -542,7 +542,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 7\. Section 604 of the Trade Act of 1974 (19 U.S.C. 2483) (1974 Trade Act) authorizes the President to embody in the HTS the substance of the relevant provisions of that Act, and of other acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
-NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the lawsof the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
 
 (1) I have designated the following countries as ATPDEA beneficiary countries pursuant to section 204(b)(6)(B) of the ATPA, as amended, and have determined that these countries have satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA:
 

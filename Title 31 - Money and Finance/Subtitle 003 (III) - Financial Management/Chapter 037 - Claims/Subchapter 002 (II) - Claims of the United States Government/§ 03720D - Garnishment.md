@@ -28,7 +28,7 @@
 
 (c)(1) A hearing under subsection (b)(5) shall be provided prior to issuance of a garnishment order if the individual, on or before the 15th day following the mailing of the notice described in subsection (b)(2), and in accordance with such procedures as the head of the executive, judicial, or legislative agency may prescribe, files a petition requesting such a hearing.
 
-(2) If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual ahearing under subsection (a)(5) <sup>1</sup> upon request, but such hearing need not be provided prior to issuance of a garnishment order.
+(2) If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual a hearing under subsection (a)(5) <sup>1</sup> upon request, but such hearing need not be provided prior to issuance of a garnishment order.
 
 (3) The hearing official shall issue a final decision at the earliest practicable date, but not later than 60 days after the filing of the petition requesting the hearing.
 
@@ -42,7 +42,7 @@
 
 &emsp;(A) shall pay to the head of an executive, judicial, or legislative agency as directed in a withholding order issued in an action under this section with respect to the individual, and
 
-&emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys' fees, costs, and, in the court's discretion, punitive damages.
+&emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due anemployee following receipt by such employer of notice of the withholding order, plus attorneys' fees, costs, and, in the court's discretion, punitive damages.
 
 (2)(A) The head of an executive, judicial, or legislative agency may sue an employer in a State or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
 

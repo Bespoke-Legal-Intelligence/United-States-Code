@@ -30,7 +30,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) To promote, through appropriate institutions such as universities, nonprofit organizations, State and local government entities, technical centers, utilities, and trade organizations, the use of energy-efficient technologies in covered industries.
 
-&emsp;&emsp;(B) To establish programs to train individuals (on an industry-by-industry basis) in conducting process-oriented industrial assessments and to encourage the use of such trained assessors.
+&emsp;&emsp;(B) To establish programs to train individuals (on an industry-by-industry basis) inconducting process-oriented industrial assessments and to encourage the use of such trained assessors.
 
 &emsp;&emsp;(C) To assist utilities in developing, testing, and evaluating energy efficiency programs and technologies for industrial customers in covered industries.
 

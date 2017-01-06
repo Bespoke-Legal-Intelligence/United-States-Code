@@ -20,7 +20,7 @@ The program established under this chapter shall comply with the following requi
 
 &emsp;(B) Such training shall be of the same quality as training provided to Foreign Service officers before they are assigned to Japan.
 
-&emsp;(C) The Center may waive any or all of the training required by subparagraph (A) to the extent that a fellow has Japanese languageskills or knowledge of Japan's political economy, and the 2-year fellowship period shall be shortened to the extent such training is less than one year.
+&emsp;(C) The Center may waive any or all of the training required by subparagraph (A) to the extent that a fellow has Japanese language skills or knowledge of Japan's political economy, and the 2-year fellowship period shall be shortened to the extent such training is less than one year.
 
 &emsp;(6) Any fellow who is not a detailee who does not comply with the requirements of this section shall reimburse the United States Information Agency for the Federal funds expended for the Fellow's participation in the fellowship, together with interest on such funds (calculated at the prevailing rate), as follows:
 

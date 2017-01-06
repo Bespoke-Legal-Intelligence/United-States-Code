@@ -46,5 +46,9 @@ Section 2052(10) of this title, referred to in par. (8), was redesignated sectio
 
 <b>2008</b>—Par. (8). Pub. L. 110–314 added par. (8).
 
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

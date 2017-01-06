@@ -10,11 +10,11 @@ Whenever the Commission begins an investigation under section 2252 of this title
 
 #### (b) Report; publication
 
-The report of the Secretary of the study under subsection (a) shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title. Upon making its report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
+The report of the Secretary of the study under subsection (a) shall be made to the Presidentnot later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title. Upon making its report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
 
 #### (c) Information to firms
 
-Whenever the Commission makes an affirmative finding under section 2252(b) of this title that increased imports are a substantial causeof serious injury or threat thereof with respect to an industry, the Secretary shall make available, to the extent feasible, full information to the firms in such industry about programs which may facilitate the orderly adjustment to import competition of such firms, and he shall provide assistance in the preparation and processing of petitions and applications of such firms for program benefits.
+Whenever the Commission makes an affirmative finding under section 2252(b) of this title that increased imports are a substantial cause of serious injury or threat thereof with respect to an industry, the Secretary shall make available, to the extent feasible, full information to the firms in such industry about programs which may facilitate the orderly adjustment to import competition of such firms, and he shall provide assistance in the preparation and processing of petitions and applications of such firms for program benefits.
 
 (Pub. L. 93–618, title II, §261, formerly §264, Jan. 3, 1975, 88 Stat. 2035; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; renumbered §261, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 

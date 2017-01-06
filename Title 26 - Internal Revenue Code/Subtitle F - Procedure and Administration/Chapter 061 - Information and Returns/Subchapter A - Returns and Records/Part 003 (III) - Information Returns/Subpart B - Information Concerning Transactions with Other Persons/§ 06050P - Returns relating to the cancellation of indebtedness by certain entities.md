@@ -56,7 +56,7 @@ Every applicable entity required to make a return under subsection (a) shall fur
 
 In lieu of making a return required under subsection (a), an agency described in subsection (c)(1)(A) may submit to the Secretary (at such time and in such form as the Secretary may by regulations prescribe) information sufficient for the Secretary to complete such a return on behalf of such agency. Upon receipt of such information, the Secretary shall complete such return and provide a copy of such return to such agency.
 
-(Added Pub. L. 103–66, title XIII, §13252(a), Aug. 10, 1993, 107 Stat. 531; amended Pub. L. 104–134, title III, §31001(m)(2)(A)–(D)(ii), Apr. 26, 1996, 110 Stat. 1321–368, 1321-369; Pub. L. 106–170, title V, §533(a), Dec. 17, 1999, 113 Stat. 1931.)
+(Added Pub. L. 103–66, title XIII, §13252(a), Aug. 10, 1993, 107 Stat. 531; amended Pub. L. 104–134, title III, §31001(m)(2)(A)–(D)(ii), Apr. 26, 1996, 110 Stat. 1321–368, 1321–369; Pub. L. 106–170, title V, §533(a), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
 

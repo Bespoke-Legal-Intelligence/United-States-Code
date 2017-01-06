@@ -26,7 +26,7 @@
 
 (C) The Secretary shall reallot amounts made available under this paragraph for the fiscal year following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
 
-(3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
+(3) During the 30-day period described in paragraph (1)(B), comments may be submitted to theSecretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 
 (Pub. L. 97–35, title XXVI, §2607, Aug. 13, 1981, 95 Stat. 900; Pub. L. 98–558, title VI, §606, Oct. 30, 1984, 98 Stat. 2892; Pub. L. 101–501, title VII, §706, Nov. 3, 1990, 104 Stat. 1260; Pub. L. 103–252, title III, §310, May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §307, Oct. 27, 1998, 112 Stat. 2758.)
 
@@ -44,7 +44,7 @@ In subsec. (a)(1), "section 6503(a) of title 31" substituted for "section 203 of
 
 <b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted "Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year." and "or the amount payable to" after "computing the allotment of".
 
-Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted "15 percent" for "25 percent", "payable to such Statefor such prior fiscal year and not transferred pursuant to section 8623(f) of this title" for "allotted to such State for such prior fiscal year", and "payable to a State but not transferred by the State" for "allotted to a State" in second sentence.
+Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted "15 percent" for "25 percent", "payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title" for "allotted to such State for such prior fiscal year", and "payable to a State but not transferred by the State" for "allotted to a State" in second sentence.
 
 Subsec. (b)(2)(C). Pub. L. 98–558, §606(c), added subpar. (C).
 

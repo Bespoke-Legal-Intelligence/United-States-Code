@@ -16,6 +16,7 @@
 | [308\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000308%20-%20Reports.md) | Reports. |
 | [309\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000309%20-%20High-speed%20ground%20transportation.md) | High-speed ground transportation. |
 | [310\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000310%20-%20Aligning%20Federal%20environmental%20reviews.md) | Aligning Federal environmental reviews. |
+| [311\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000311%20-%20Congressional%20notification%20requirements.md) | Congressional notification requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,6 +55,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–322, title IV, §5001(b), Dec. 16, 2016, 130 Stat. 1885, added item 311.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §§1311(b), 1312(b), 1313(b), title VI, §6011(c), Dec. 4, 2015, 129 Stat. 1399, 1400, 1402, 1569, added items 304a, 307, and 310 and substituted "Research activities" for "Research contracts" in item 330.
 

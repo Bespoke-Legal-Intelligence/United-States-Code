@@ -12,3 +12,5 @@
 - [&sect; 00575 - Acquisition program baseline breach](%C2%A7%2000575%20-%20Acquisition%20program%20baseline%20breach.md)
 - [&sect; 00576 - Acquisition approval authority](%C2%A7%2000576%20-%20Acquisition%20approval%20authority.md)
 - [&sect; 00577 - Advance procurement funding](%C2%A7%2000577%20-%20Advance%20procurement%20funding.md)
+- [&sect; 00578 - Role of Vice Commandant in major acquisition programs](%C2%A7%2000578%20-%20Role%20of%20Vice%20Commandant%20in%20major%20acquisition%20programs.md)
+- [&sect; 00579 - Extension of major acquisition program contracts](%C2%A7%2000579%20-%20Extension%20of%20major%20acquisition%20program%20contracts.md)

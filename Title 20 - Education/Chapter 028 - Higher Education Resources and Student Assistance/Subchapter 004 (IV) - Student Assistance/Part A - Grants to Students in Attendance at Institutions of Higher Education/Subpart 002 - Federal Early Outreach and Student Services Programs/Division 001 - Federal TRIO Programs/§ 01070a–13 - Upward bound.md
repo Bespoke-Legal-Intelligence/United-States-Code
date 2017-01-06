@@ -32,7 +32,7 @@ Any project assisted under this section shall provide—
 
 #### (c) Additional required services for multiple-year grant recipients
 
-Any project assisted under this section which has received funding for two or more years shallinclude, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
+Any project assisted under this section which has received funding for two or more years shall include, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
 
 #### (d) Permissible services
 
@@ -68,7 +68,7 @@ In approving applications for projects under this section for any fiscal year, t
 
 #### (f) Maximum stipends
 
-Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during the summer school recess, for a period not to exceed three months, except that youth participating in a work-study position under subsection (d)(5) of this section may be paid a stipend of $300 per month during the summer school recess, for a period not to exceed three months. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
+Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during the summer school recess, for a period not to exceed three months, except that youth participating in a work-study position under subsection (d)(5) may be paid a stipend of $300 per month during the summer school recess, for a period not to exceed three months. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
 
 #### (g) Additional funds
 
@@ -78,7 +78,7 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (2) Use of funds
 
-&emsp;The amounts made available by paragraph (1) shall be available to provide assistance to all Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
+&emsp;The amounts made available by paragraph (1) shall be available to provide assistance toall Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
 
 #### (h) Absolute priority prohibited in Upward Bound Program
 
@@ -90,7 +90,7 @@ Upon enactment of this subsection and except as otherwise expressly provided by 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315, §403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
-Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted "Additional required services for multiple-year grantrecipients" for "Required services" in heading and "project assisted under this section" for "upward bound project assisted under this division" in text.
+Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted "Additional required services for multiple-year grant recipients" for "Required services" in heading and "project assisted under this section" for "upward bound project assisted under this division" in text.
 
 Subsec. (d). Pub. L. 110–315, §403(c)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -118,7 +118,7 @@ Subsec. (b)(12). Pub. L. 105–244, §402(c)(1)(E), substituted "(11)" for "(9)"
 
 Pub. L. 105–244, §402(c)(1)(C), redesignated par. (10) as (12).
 
-Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted "except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year." for "and not in excess of $40 per month during the remaining period of the year."
+Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted "except that youth participating in a work-study position under subsection (b)(10) may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year." for "and not in excess of $40 per month during the remaining period of the year."
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted "foreign" for "and foreign".
 

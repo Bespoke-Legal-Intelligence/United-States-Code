@@ -6,7 +6,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 #### (b) Relations with Federated States of Micronesia and Marshall Islands
 
-(1) The United States representatives to the Federated States of Micronesia and the Republic of the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relations between the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
+(1) The United States representatives to the Federated States of Micronesia and the Republicof the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relations between the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
 
 (2) Except for programs or services provided by or through other federal agencies or officials to the Federated States of Micronesia or the Republic of the Marshall Islands, or for which residents thereof are eligible pursuant to the Compact or any other provision of this joint resolution, appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior. The Secretary of the Interior shall coordinate and monitor any programs or activities, including such activities for which funding is made directly to such other agencies, provided to the Federated States of Micronesia or the Republic of the Marshall Islands by agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies, except that the Secretary of the Interior shall be able to reimburse Departments or agencies for purposes authorized by this joint resolution.
 
@@ -110,7 +110,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (5) Federal education grants
 
-&emsp;Pursuant to section 224 of the Compact or section 224 of the Compact with Palau (as contained in title II of Public Law 99–658), the Pell Grant Program, the Supplemental Educational Opportunity Grant Program, and the College Work-Study Program (as authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\]) shall be extended to students who are, or will be, citizens of the Federated States of Micronesia, or the Marshall Islands and who attend postsecondary institutions in the United States, its territories and commonwealths, the Trust Territory of the Pacific Islands, the Federated States of Micronesia, or the Marshall Islands, except that this paragraph shall not apply to any student receiving assistance pursuant to section 223 of the Compact or section 223 of the Compact with Palau (as contained in title II of Public Law 99–658).
+&emsp;Pursuant to section 224 of the Compact or section 224 of the Compact with Palau (as contained in title II of Public Law 99–658), the Pell Grant Program, the Supplemental Educational Opportunity Grant Program, and the College Work-Study Program (as authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\]) shall be extended to students who are, or will be, citizens of the Federated States of Micronesia, or the Marshall Islands and who attend postsecondary institutions in the United States, its territories and commonwealths, the Trust Territory of the Pacific Islands, the Federated States of Micronesia, or the Marshall Islands, except that this paragraph shall not apply to any student receiving assistance pursuant to section 223 of the Compact or section 223 of the Compact with Palau (as contained in title II of Public Law 99–658).
 
 #### (5) <sup>2</sup> PCB cleanup
 
@@ -142,7 +142,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (k) Use of DOD medical facilities
 
-Following approval of the Compact, the Secretary of Defense shall make available the medical facilities of the Department of Defense for use by citizens of the Federated States of Micronesia and the Marshall Islands who are properly referred to such facilities by government authorities responsible for provision of medical services in the Federated States of Micronesia and the Marshall Islands. The Secretary of Defense is hereby authorized to cooperate with such authorities in order to permit use of such medical facilities for persons properly referred by such authorities. The Secretary of Health and Human Services is hereby authorized and directed to continue to make the services of the National Health Service Corps available to the residents of the Federated States of Micronesia and the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
+Following approval of the Compact, the Secretary of Defense shall make available the medical facilities of the Department of Defense for use by citizens of the Federated States of Micronesia and the Marshall Islands who are properly referred to such facilities by government authorities responsible for provision of medical services in the Federated States of Micronesia and the Marshall Islands. The Secretary of Defense is hereby authorized to cooperate with such authorities in order to permit use of such medical facilities for persons properly referred by such authorities. The Secretary of Health and Human Services is hereby authorized and directed to continue to make the services of theNational Health Service Corps available to the residents of the Federated States of Micronesia and the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
 
 #### (l) Technical assistance
 
@@ -162,7 +162,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 #### (p) Trust funds
 
-The responsibilities of the United States with regard to implementation of section 235 of theCompact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
+The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 
 #### (q) Omitted
 
@@ -174,27 +174,27 @@ Any person in the Federated States of Micronesia or the Marshall Islands shall b
 
 #### References in Text
 
-This joint resolution and this Act, referred to in subsecs. (a), (b)(2), (c)(1), and (h)(4), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+This joint resolution and this Act, referred to in subsecs. (a), (b)(2), (c)(1), and (h)(4), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
 For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsecs. (b)(2), (c), (h)(2), (j), and (m), see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
 
-Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, as amended, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Foreign Agents Registration Act of 1938, referred to in subsec. (f)(1), (2), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (f)(1), (2), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (h)(4)(B), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-Public Law 95–134, referred to in subsec. (h)(4)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
+Public Law 95–134, referred to in subsec. (h)(4)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, popularlyknown as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
-Public Law 96–205, referred to in subsec. (h)(4)(B), is Pub. L. 96–205, Mar. 12, 1980, 94 Stat. 84, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 96–205, referred to in subsec. (h)(4)(B), is Pub. L. 96–205, Mar. 12, 1980, 94 Stat. 84. For complete classification of this Act to the Code, see Tables.
 
 The Compact with Palau, referred to in subsec. (h)(5), is the Compact of Free Association with Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
-Public Law 99–658, referred to in subsec. (h)(5), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended. Title II of Pub. L. 99–658 enacted section 1934 of this title and provisions set out as a note under section 1931 of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 99–658, referred to in subsec. (h)(5), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672. Title II of Pub. L. 99–658 enacted section 1934 of this title and provisions set out as a note under section 1931 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (h)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (h)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -216,7 +216,7 @@ Subsec. (c)(2). Pub. L. 99–658 substituted "infrastructure, except that, for p
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 

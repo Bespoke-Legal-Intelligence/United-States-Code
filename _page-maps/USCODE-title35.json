@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title35",
- "package": "USCODE-2015-title35",
+ "package": "USCODE-2016-title35",
  "pieces": [
   {
    "id": "35_",
@@ -2844,10 +2844,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       98,
+       1002,
        "[Page 132]"
       ]
      ]
@@ -2872,10 +2872,14 @@
    "id": "35_368",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 133]",
-     true
+     "I",
+     24,
+     [
+      [
+       108,
+       "[Page 133]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00368 - Secrecy of certain inventions; filing international applications in foreign countries.md",
@@ -2897,10 +2901,14 @@
    "id": "35_371",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 134]",
-     true
+     "I",
+     44,
+     [
+      [
+       115,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00371 - National stage Commencement.md",
@@ -2914,7 +2922,7 @@
    "marks": [
     [
      "L",
-     42,
+     36,
      "[Page 135]",
      true
     ]
@@ -2956,10 +2964,14 @@
    "id": "35_376",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 136]",
-     true
+     "I",
+     2,
+     [
+      [
+       136,
+       "[Page 136]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00376 - Fees.md",
@@ -2990,10 +3002,14 @@
    "id": "35_381",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 137]",
-     true
+     "I",
+     18,
+     [
+      [
+       93,
+       "[Page 137]"
+      ]
+     ]
     ]
    ],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00381 - Definitions.md",
@@ -3022,26 +3038,30 @@
   },
   {
    "id": "35_384",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       272,
+       "[Page 138]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00384 - Filing date.md",
    "printed_pages": [
     137,
-    137
+    138
    ]
   },
   {
    "id": "35_385",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 138]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00385 - Effect of international design application.md",
    "printed_pages": [
-    137,
+    138,
     138
    ]
   },
@@ -3065,30 +3085,30 @@
   },
   {
    "id": "35_388",
-   "marks": [],
-   "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00388 - Withdrawn or abandoned international design application.md",
-   "printed_pages": [
-    138,
-    138
-   ]
-  },
-  {
-   "id": "35_389",
    "marks": [
     [
      "I",
      8,
      [
       [
-       123,
+       328,
        "[Page 139]"
       ]
      ]
     ]
    ],
-   "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00389 - Examination of international design application.md",
+   "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00388 - Withdrawn or abandoned international design application.md",
    "printed_pages": [
     138,
+    139
+   ]
+  },
+  {
+   "id": "35_389",
+   "marks": [],
+   "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00389 - Examination of international design application.md",
+   "printed_pages": [
+    139,
     139
    ]
   },
@@ -3102,6 +3122,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2015-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2016-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 35 - Patents"
 }

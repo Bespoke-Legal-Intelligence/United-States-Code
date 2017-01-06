@@ -138,9 +138,11 @@
 
 &emsp;&emsp;(C) leasing any section 1245 property (as defined in section 1245(a)(3)),
 
-&emsp;&emsp;(D) exploring for, or exploiting, oil and gas resources as a trade or business or for the production of income, or
+&emsp;&emsp;(D) exploring for, or exploiting, oil and gas resources, or
 
-&emsp;&emsp;(E) exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)).
+&emsp;&emsp;(E) exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)) <sup>1</sup>
+
+> &emsp;as a trade or business or for the production of income.
 
 #### (2) Separate activities
 
@@ -216,7 +218,7 @@
 
 #### (B) 50-percent gross receipts test
 
-&emsp;&emsp;For purposes of subparagraph (A), a corporation shall not be considered to be actively engaged in equipment leasing unless50 percent or more of the gross receipts of the corporation for the taxable year is attributable, under regulations prescribed by the Secretary, to equipment leasing.
+&emsp;&emsp;For purposes of subparagraph (A), a corporation shall not be considered to be actively engaged in equipment leasing unless 50 percent or more of the gross receipts of the corporation for the taxable year is attributable, under regulations prescribed by the Secretary, to equipment leasing.
 
 #### (C) Component members of controlled group treated as a single corporation
 
@@ -426,7 +428,7 @@ For purposes of this section, the term "loss" means the excess of the deductions
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388-558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047.)
 
 #### Amendments
 
@@ -627,4 +629,6 @@ Rule for leases.—In the case of any activity described in section 465(c)(1)(C)
 &emsp;"(B)
 
 Holding of interests for purposes of subparagraph (a).—Subparagraph (A) shall apply only to taxpayers who held their interests in the property on October 31, 1978."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

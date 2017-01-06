@@ -12,3 +12,7 @@
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted "or grossly negligent" after "willful" and "or through gross negligence" after "willfully" and substituted "$10,000" for "$1,000".
 
+#### Effective Date
+
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
+

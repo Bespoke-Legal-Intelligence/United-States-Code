@@ -104,21 +104,23 @@
 
 &emsp;(6) Retired officers on active duty under a call or order to active duty for 180 days or less.
 
-&emsp;(7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) <sup>1</sup> for the administration of the Selective Service System.
+&emsp;(7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. 3809(b)(2)) for the administration of the Selective Service System.
 
 &emsp;(8) Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
+
+&emsp;(9) Officers who are Senior Military Acquisition Advisors under section 1725 of this title, but not to exceed 15.
 
 (c) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
 (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, §1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§404, 405, Jan. 28, 2008, 122 Stat. 88; Pub. L. 112–81, div. A, title V, §501, Dec. 31, 2011, 125 Stat. 1386.)
-
-#### References in Text
-
-Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (b)(7), was classified to section 460(b)(2) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3809(b)(2) of Title 50.
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, §1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§404, 405, Jan. 28, 2008, 122 Stat. 88; Pub. L. 112–81, div. A, title V, §501, Dec. 31, 2011, 125 Stat. 1386; Pub. L. 114–328, div. A, title VIII, §866(b), title X, §1081(b)(1)(A)(iii), Dec. 23, 2016, 130 Stat. 2306, 2418.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(7). Pub. L. 114–328, §1081(b)(1)(A)(iii), substituted "(50 U.S.C. 3809(b)(2))" for "(50 U.S.C. App. 460(b)(2))".
+
+Subsec. (b)(9). Pub. L. 114–328, §866(b), added par. (9).
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468 from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
 
@@ -136,7 +138,7 @@ Subsec. (a)(2). Pub. L. 110–181, §405, amended table generally, extensively r
 
 &emsp;"(B) on active duty under section 10211, 10302 through 10305, or 12402 of this title or under section 708 of title 32;
 
-&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
+&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering,recruiting, instructing, or training the reserve components;
 
 &emsp;"(D) on active duty to pursue special work;
 
@@ -186,6 +188,10 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Pub. L. 99–145, title V, §511(b), Nov. 8, 1985, 99 Stat. 623, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985."
 
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 
 Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
@@ -215,6 +221,4 @@ Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended b
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty, see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -86,6 +86,10 @@ Prohibition on Obligation of Funds.—(1) If the determination of a critical cha
 
 (Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2324; amended Pub. L. 110–417, \[div. A\], title VIII, §812(c), Oct. 14, 2008, 122 Stat. 4526; Pub. L. 111–23, title I, §101(d)(6), May 22, 2009, 123 Stat. 1710; Pub. L. 111–84, div. A, title VIII, §841(b), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 112–81, div. A, title VIII, §811, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 113–66, div. A, title X, §1092(b), (c), (d)(2), (e), Dec. 26, 2013, 127 Stat. 877, 878; Pub. L. 113–291, div. A, title VIII, §802, Dec. 19, 2014, 128 Stat. 3427; Pub. L. 114–92, div. A, title VIII, §891(b), Nov. 25, 2015, 129 Stat. 952.)
 
+#### Repeal of Section
+
+<i>For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.</i>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c)(2)(B) to (D). Pub. L. 114–92 substituted "; or" for semicolon at end of subpar. (B) and period for "; or" at end of subpar. (C) and struck out subpar. (D) which read as follows: "the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest)."
@@ -94,7 +98,7 @@ Prohibition on Obligation of Funds.—(1) If the determination of a critical cha
 
 Subsec. (d)(2). Pub. L. 113–291, §802(c), substituted "are primarily due to an extension of a program and involve" for "(A) is primarily due to an extension of a program, and (B) involves".
 
-Subsec. (d)(3). Pub. L. 113–291, §802(b), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: "the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);".
+Subsec. (d)(3). Pub. L. 113–291, §802(b), redesignated subpars. (B) to (D) as (A) to (C), respectively, andstruck out former subpar. (A) which read as follows: "the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);".
 
 <b>2013</b>—Subsec. (c)(2)(B). Pub. L. 113–66, §1092(d)(2)(A), substituted "total acquisition cost" for "program development cost".
 
@@ -135,4 +139,12 @@ Subsec. (f)(1). Pub. L. 110–417, §812(c)(5)(B), inserted "or information tech
 Subsec. (f)(2). Pub. L. 110–417, §812(c)(5)(C), inserted "or information technology investment" after "the system".
 
 Subsec. (f)(3). Pub. L. 110–417, §812(c)(5)(D), inserted "or information technology investment, as applicable," after "the program and system".
+
+#### Effective Date of Repeal
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
+#### Effective Date
+
+Section effective Jan. 1, 2008, and applicable with respect to any major automated information system program for which amounts are requested in the budget of the President for a fiscal year after fiscal year 2008, see section 816(c) of Pub. L. 109–364, set out as a note under section 2445a of this title.
 

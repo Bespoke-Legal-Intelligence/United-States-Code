@@ -18,7 +18,7 @@
 
 #### (b) Designation
 
-The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generallydepicted on the map entitled "Proposed James Peak Protection Area", dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the "Protection Area").
+The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generally depicted on the map entitled "Proposed James Peak Protection Area", dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the "Protection Area").
 
 #### (c) Map and boundary description
 
@@ -94,7 +94,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (1) Statutory construction
 
-&emsp;(A) Nothing in this Act shall constitute or be construed to constitute either an express or implied reservation of any water or water rights with respect to the lands within the Protection Area.
+&emsp;(A) Nothing in this Act shall constitute or be construed to constitute either an express orimplied reservation of any water or water rights with respect to the lands within the Protection Area.
 
 &emsp;(B) Nothing in this Act shall affect any conditional or absolute water rights in the State of Colorado existing on August 21, 2002.
 

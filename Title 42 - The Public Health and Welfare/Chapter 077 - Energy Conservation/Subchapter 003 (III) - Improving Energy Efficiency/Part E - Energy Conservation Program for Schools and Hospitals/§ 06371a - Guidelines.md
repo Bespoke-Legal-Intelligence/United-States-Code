@@ -24,7 +24,7 @@ Guidelines prescribed under this section may be revised from time to time after 
 
 #### (d) Determination of severe hardship class for schools and hospitals
 
-The Secretary shall, by rule prescribe criteria for determining schools and hospitals which are in a class of severe hardship. Such criteria shall take into account climate, fuel costs, fuel availability, ability to provide the non-Federal share of the costs, and such other factors that he deems appropriate.
+The Secretary shall, by rule prescribe criteria for determining schools and hospitals which arein a class of severe hardship. Such criteria shall take into account climate, fuel costs, fuel availability, ability to provide the non-Federal share of the costs, and such other factors that he deems appropriate.
 
 (Pub. L. 94–163, title III, §392, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3242.)
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) The price charged by a supplying country for logistics support, supplies, and services specifically procured by the supplying country from its contractors for a recipient country shall be no less favorable than the price for identical items or services charged by such contractors to the armed forces of the supplying country, taking into account price differentials due to delivery schedules, points of delivery, and other similar considerations.
 
-&emsp;(B) The price charged a recipient country for supplies furnished by a supplying country from its inventory, and the price charged a recipient country for logistics support and services furnished by the officers, employees, orgovernmental agencies of a supplying country, shall be the same as the price charged for identical supplies, support, or services acquired by an armed force of the supplying country from such governmental sources.
+&emsp;(B) The price charged a recipient country for supplies furnished by a supplying country from its inventory, and the price charged a recipient country for logistics support and services furnished by the officers, employees, or governmental agencies of a supplying country, shall be the same as the price charged for identical supplies, support, or services acquired by an armed force of the supplying country from such governmental sources.
 
 (2) To the extent that the Secretary of Defense is unable to obtain mutual acceptance by the other country involved of the reciprocal pricing principles for reimbursable transactions set forth in paragraph (1)—
 

@@ -26,7 +26,7 @@
 
 (f) As used in this section, the term "religious real property" means any church, synagogue, mosque, religious cemetery, or other religious real property, including fixtures or religious objects contained within a place of religious worship.
 
-(g) No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
+(g) No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 yearsafter the date on which the offense was committed.
 
 (Added Pub. L. 100–346, §1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, §60006(d), title XXXII, §320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, §3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511; Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(4), Nov. 2, 2002, 116 Stat. 1808, 1810.)
 
@@ -68,7 +68,7 @@ Subsec. (g). Pub. L. 104–155, §3(6), added subsec. (g).
 
 Pub. L. 103–322, §60006(d), inserted ", or may be sentenced to death" after "or both".
 
-Subsec. (c)(2). Pub. L. 103–322, §320103(d)(2), struck out "serious" before "bodily" and inserted "from the actscommitted in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire" after "injury results".
+Subsec. (c)(2). Pub. L. 103–322, §320103(d)(2), struck out "serious" before "bodily" and inserted "from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire" after "injury results".
 
 Subsec. (e). Pub. L. 103–322, §320103(d)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "As used in this section—
 

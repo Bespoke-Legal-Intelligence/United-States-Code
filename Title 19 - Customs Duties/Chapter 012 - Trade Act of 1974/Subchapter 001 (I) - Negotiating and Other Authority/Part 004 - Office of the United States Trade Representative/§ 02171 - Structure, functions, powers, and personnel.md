@@ -8,11 +8,15 @@ There is established within the Executive Office of the President the Office of 
 
 (1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
 
-(2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
+(2) There shall be in the Office three Deputy United States Trade Representatives, one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator, who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative, the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative, the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
 
 (3) There shall be in the Office one Chief Transparency Officer. The Chief Transparency Officer shall consult with Congress on transparency policy, coordinate transparency in trade negotiations, engage and assist the public, and advise the United States Trade Representative on transparency policy.
 
 (4) A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
+
+(5)(A) When the President submits to the Senate for its advice and consent a nomination of an individual for appointment as a Deputy United States Trade Representative under paragraph (2), the President shall include in that submission information on the country, regional offices, and functions of the Office of the United States Trade Representative with respect to which that individual will have responsibility.
+
+(B) The President shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not less than 30 days prior to making any change to the responsibilities of any Deputy United States Trade Representative included in a submission under subparagraph (A), including the reason for that change.
 
 #### (c) Duties of United States Trade Representative and Deputy United States Trade Representatives
 
@@ -54,11 +58,13 @@ There is established within the Executive Office of the President the Office of 
 
 (5) The principal function of the Chief Agricultural Negotiator shall be to conduct trade negotiations and to enforce trade agreements relating to United States agricultural products and services. The Chief Agricultural Negotiator shall be a vigorous advocate on behalf of United States agricultural interests. The Chief Agricultural Negotiator shall perform such other functions as the United States Trade Representative may direct.
 
+(6) The principal functions of the Chief Innovation and Intellectual Property Negotiator shall be to conduct trade negotiations and to enforce trade agreements relating to United States intellectual property and to take appropriate actions to address acts, policies, and practices of foreign governments that have a significant adverse impact on the value of United States innovation. The Chief Innovation and Intellectual Property Negotiator shall be a vigorous advocate on behalf of United States innovation and intellectual property interests. The Chief Innovation and Intellectual Property Negotiator shall perform such other functions as the United States Trade Representative may direct.
+
 #### (d) Unfair trade practices; additional duties of Representative; advisory committee; definition
 
 (1) In carrying out subsection (c) with respect to unfair trade practices, the United States Trade Representative shall—
 
-&emsp;(A) coordinate the application of interagency resources to specific unfair trade practice cases;
+&emsp;(A) coordinate the application of interagency resources, including resources of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under subsection (h), to specific unfair trade practice cases;
 
 &emsp;(B) identify, and refer to the appropriate Federal department or agency for consideration with respect to action, each act, policy, or practice referred to in the report required under section 2241(b) of this title, or otherwise known to the United States Trade Representative on the basis of other available information, that may be an unfair trade practice that either—
 
@@ -136,11 +142,39 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 &emsp;(ii) not to exceed $1,000,000 shall remain available until expended.
 
-(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by lawto reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
+(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
 (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
-(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591; Pub. L. 114–26, title I, §104(f), June 29, 2015, 129 Stat. 342.)
+#### (h) Interagency Center on Trade Implementation, Monitoring, and Enforcement
+
+#### (1) Establishment of Center
+
+&emsp;There is established in the Office of the United States Trade Representative an Interagency Center on Trade Implementation, Monitoring, and Enforcement (in this section referred to as the "Center").
+
+#### (2) Functions of Center
+
+&emsp;The Center shall support the activities of the United States Trade Representative in—
+
+&emsp;&emsp;(A) investigating potential disputes under the auspices of the World Trade Organization;
+
+&emsp;&emsp;(B) investigating potential disputes pursuant to bilateral and regional trade agreements to which the United States is a party;
+
+&emsp;&emsp;(C) carrying out the functions of the United States Trade Representative underthis section with respect to the monitoring and enforcement of trade agreements to which the United States is a party; and
+
+&emsp;&emsp;(D) monitoring measures taken by parties to implement provisions of trade agreements to which the United States is a party.
+
+#### (3) Personnel
+
+#### (A) Director
+
+&emsp;&emsp;The head of the Center shall be a Director, who shall be appointed by the United States Trade Representative.
+
+#### (B) Additional employees
+
+&emsp;&emsp;A Federal agency may, in consultation with and with the approval of the United States Trade Representative, detail or assign one or more employees to the Center without any reimbursement from the Center to support the functions of the Center.
+
+(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591; Pub. L. 114–26, title I, §104(f), June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title VI, §§604(a), (b), 609(a), title IX, §918, Feb. 24, 2016, 130 Stat. 185, 186, 190, 280.)
 
 #### References in Text
 
@@ -155,6 +189,18 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub
 Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–125, §609(a)(1), substituted ", one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator," for "and one Chief Agricultural Negotiator", ", the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator" for "or the Chief Agricultural Negotiator", and ", the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator" for "and the Chief Agricultural Negotiator".
+
+Subsec. (b)(5). Pub. L. 114–125, §918, added par. (5).
+
+Subsec. (c)(5). Pub. L. 114–125, §609(a)(2)(A), realigned margins.
+
+Subsec. (c)(6). Pub. L. 114–125, §609(a)(2)(B), added par. (6).
+
+Subsec. (d)(1)(A). Pub. L. 114–125, §604(b), inserted ", including resources of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under subsection (h)," after "interagency resources".
+
+Subsec. (h). Pub. L. 114–125, §604(a), added subsec. (h).
 
 <b>2015</b>—Subsec. (b)(3), (4). Pub. L. 114–26 added par. (3) and redesignated former par. (3) as (4).
 
@@ -338,7 +384,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Department of Commerce
 
-(a) The Secretary of Commerce (hereinafter referred to as the "Secretary") shall have, in addition to any other functions assigned by law, general operational responsibility for major nonagricultural international trade functions of the United States Government, including export development, commercial representation abroad, the administration of the antidumping and countervailing duty laws, export controls, trade adjustment assistance to firms and communities, research and analysis, and monitoring compliance with international trade agreements to which the United States is a party.
+(a) The Secretary of Commerce (hereinafter referred to as the "Secretary") shall have, in addition to any other functions assigned by law, general operational responsibility for major nonagricultural international trade functions of the United States Government, including export development, commercial representation abroad, the administration of the antidumping and countervailing duty laws, export controls, trade adjustment assistance to firms and communities, researchand analysis, and monitoring compliance with international trade agreements to which the United States is a party.
 
 (b)(1) There shall be in the Department of Commerce (hereinafter referred to as the "Department") a Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall receive compensation at the rate payable for Level II of the Executive Schedule \[5 U.S.C. 5315\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
@@ -406,7 +452,7 @@ Nothing in this reorganization plan is intended to derogate from the responsibil
 
 #### Sec. 8. Incidental Transfers; Interim Officers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the appropriate agency, organization, or component at such time or times as such Director shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation originally was made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agency abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of the reorganization plan.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to bemade available in connection with the functions transferred under this reorganization plan as the Director of the Office of Management and Budget shall determine shall be transferred to the appropriate agency, organization, or component at such time or times as such Director shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation originally was made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agency abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of the reorganization plan.
 
 (b) Pending the assumption of office by the initial officers provided for in section 2 of this reorganization plan, the functions of each such office may be performed, for up to a total of 60 days, by such individuals as the President may designate. Any individual so designated shall be compensated at the rate provided herein for such position.
 
@@ -506,7 +552,7 @@ Matching the increased importance of trade in the Department's mission will be a
 
 With its new responsibilities and resources, the Department of Commerce will become a key participant in the formulation of our trade policies. Much of the analysis in support of trade policy formulation will be conducted by the Department of Commerce, which will be close to the operational aspects of the problems that raise policy issues.
 
-To succeed in global competition, we must have a better understanding of the problems and prospects of U.S. industry, particularly in relation to the growing strength of industries abroad. This is the key reason why we will upgrade sectoral analysis capabilitiesthroughout the Department of Commerce, including the creation of a new Bureau of Industrial Analysis. Commerce, with its ability to link trade to policies affecting industry, is uniquely suited to serve as the principal technical expert within the Government on special industry sector problems requiring international consultation, as well as to provide industry-specific information on how tax, regulatory and other Government policies affect the international competitiveness of the U.S. industries.
+To succeed in global competition, we must have a better understanding of the problems and prospects of U.S. industry, particularly in relation to the growing strength of industries abroad. This is the key reason why we will upgrade sectoral analysis capabilities throughout the Department of Commerce, including the creation of a new Bureau of Industrial Analysis. Commerce, with its ability to link trade to policies affecting industry, is uniquely suited to serve as the principal technical expert within the Government on special industry sector problems requiring international consultation, as well as to provide industry-specific information on how tax, regulatory and other Government policies affect the international competitiveness of the U.S. industries.
 
 Commerce will also expand its traditional trade policy focus on industrial issues to deal with the international trade and investment problems of our growing services sector. Under the proposal, there will be comprehensive service industry representation in our industry advisory process, as well as a continuing effort to bring services under international discipline. I expect the Commerce Department to play a major role in developing new service sector initiatives for consideration within the Government.
 
@@ -636,7 +682,7 @@ Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
 "(2) fresh, chilled, or frozen meat of goats and sheep (except lambs), and
 
-"(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, or frozen, but not otherwise preserved, that are the products of such countries.".
+"(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, orfrozen, but not otherwise preserved, that are the products of such countries.".
 
 (2) Section 4 of such order is amended by striking out "the Secretary of State" and inserting in lieu thereof "the United States Trade Representative".
 

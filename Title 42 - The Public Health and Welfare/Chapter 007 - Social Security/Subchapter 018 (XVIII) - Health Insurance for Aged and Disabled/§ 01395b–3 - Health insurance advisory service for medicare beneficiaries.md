@@ -54,7 +54,7 @@ The beneficiary assistance program shall provide for information, counseling, an
 
 #### (d) Educational material
 
-The Secretary, through the Administrator of the Centers for Medicare \& Medicaid Services,shall develop appropriate educational materials and other appropriate techniques to assist employees in carrying out this section.
+The Secretary, through the Administrator of the Centers for Medicare \& Medicaid Services, shall develop appropriate educational materials and other appropriate techniques to assist employees in carrying out this section.
 
 #### (e) Notice to beneficiaries
 
@@ -172,7 +172,7 @@ Required use of funds.—
 
 &emsp;&emsp;"(A)
 
-All funds.—Subject to subparagraph (B), each grant awarded under this subsection shall beused to provide outreach to eligible Medicare beneficiaries regarding the benefits available under title XVIII of the Social Security Act \[this subchapter\].
+All funds.—Subject to subparagraph (B), each grant awarded under this subsection shall be used to provide outreach to eligible Medicare beneficiaries regarding the benefits available under title XVIII of the Social Security Act \[this subchapter\].
 
 &emsp;&emsp;"(B)
 
@@ -268,7 +268,7 @@ Pub. L. 108–173, title IX, §924, Dec. 8, 2003, 117 Stat. 2395, provided that:
 
 "(a)
 
-In General.—The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the 'demonstration program') under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
+In General.—The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the 'demonstration program') under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled under partB of such title \[42 U.S.C. 1395j et seq.\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
 
 "(b)
 

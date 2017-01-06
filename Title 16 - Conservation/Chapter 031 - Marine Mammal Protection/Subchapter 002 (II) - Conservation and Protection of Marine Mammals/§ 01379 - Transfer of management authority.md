@@ -46,7 +46,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
-&emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalfof, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
+&emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalf of, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
 
 &emsp;(C) section 1371(b) of this title shall not apply.
 

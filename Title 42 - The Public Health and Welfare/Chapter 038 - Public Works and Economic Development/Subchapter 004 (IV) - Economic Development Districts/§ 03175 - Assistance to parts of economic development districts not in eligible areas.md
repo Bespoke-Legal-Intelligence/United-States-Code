@@ -14,7 +14,7 @@ Section 3181, Pub. L. 89–136, title V, §501, Aug. 26, 1965, 79 Stat. 564; Pub
 
 Section 3182, Pub. L. 89–136, title V, §502, Aug. 26, 1965, 79 Stat. 564; Pub. L. 94–188, title II, §§208, 209(b), Dec. 31, 1975, 89 Stat. 1091, related to establishment, membership, etc., of regional commissions.
 
-Section 3183, Pub. L. 89–136, title V, §503, Aug. 26, 1965, 79 Stat. 565; Pub. L. 90–103, title II, §201, Oct. 11, 1967, 81 Stat. 266; Pub. L. 93–423, §9(a), Sept. 27, 1974, 88 Stat. 1162, set forth functions of Commissions.
+Section 3183, Pub. L. 89–136, title V, §503, Aug. 26, 1965, 79 Stat. 565; Pub. L. 90–103, title II, §201, Oct. 11, 1967,81 Stat. 266; Pub. L. 93–423, §9(a), Sept. 27, 1974, 88 Stat. 1162, set forth functions of Commissions.
 
 Section 3184, Pub. L. 89–136, title V, §504, Aug. 26, 1965, 79 Stat. 566, set out program development criteria.
 

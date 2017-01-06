@@ -22,7 +22,7 @@
 
 &emsp;(C) 66 percent for fiscal year 1990 and each fiscal year thereafter.
 
-(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
+(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirementsspecified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
 (B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
 
@@ -36,7 +36,7 @@
 
 &emsp;(II) the State has submitted to the Secretary a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and theSecretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements referred to in the same subparagraph of section 654(24) of this title shall be considered a single failure of the State to comply with that subparagraph during the fiscal year for purposes of this paragraph.
 
@@ -76,7 +76,7 @@
 
 &emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwisepayable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements of section 654B of this title shall be considered a single failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during the fiscal year for purposes of this paragraph.
 
@@ -104,9 +104,9 @@
 
 #### (b) Estimate of amounts payable; installment payments
 
-(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
+(1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
-(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
+(2) Subject to subsection (d), the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
 (3) Upon the making of any estimate by the Secretary under this subsection, any appropriations available for payments under this section shall be deemed obligated.
 
@@ -114,7 +114,7 @@
 
 #### (d) State reports
 
-Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection (a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
+Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection (a), there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a).
 
 #### (e) Special project grants for interstate enforcement; appropriations
 
@@ -132,7 +132,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7308(a), 7309(a), Feb. 8, 2006, 120 Stat. 147.)
+(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7308(a), 7309(a), Feb. 8, 2006, 120 Stat. 147.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Subsec. (e). Pub. L. 98–378, §8, added subsec. (e).
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §174(a), substituted "70 percent" for "75 percent".
 
-Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of suchplan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
+Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of such plan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
@@ -204,7 +204,7 @@ Pub. L. 96–265, §405(a), added par. (3).
 
 Pub. L. 96–178 struck out provisions following par. (2) prohibiting payment to any State on account of furnishing child support collection or paternity determination services (other than the parent locator services) to individuals under section 654(6) of this title during any period beginning after Sept. 30, 1978.
 
-Subsec. (b)(2). Pub. L. 96–265, §407(a), substituted "Subject to subsection (d) of this section, the Secretary" for "The Secretary".
+Subsec. (b)(2). Pub. L. 96–265, §407(a), substituted "Subject to subsection (d), the Secretary" for "The Secretary".
 
 Subsecs. (c), (d). Pub. L. 96–265, §§404(a), 407(b), added subsecs. (c) and (d).
 
@@ -246,7 +246,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 Pub. L. 100–485, title I, §112(b), Oct. 13, 1988, 102 Stat. 2350, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to laboratory costs incurred on or after October 1, 1988."
 
-Pub. L. 100–485, title I, §123(c), Oct. 13, 1988, 102 Stat. 2352, which provided that the amendment made by that section was effective Sept. 30, 1995, was repealed by Pub. L. 104–193, title III, §344(c), Aug. 22, 1996, 110 Stat. 2237.
+Pub. L. 100–485, title I, §123(c), Oct. 13, 1988, 102 Stat. 2352, which provided that the amendment made by that section was effective Sept. 30, 1995, was repealed byPub. L. 104–193, title III, §344(c), Aug. 22, 1996, 110 Stat. 2237.
 
 #### Effective Date of 1984 Amendment
 

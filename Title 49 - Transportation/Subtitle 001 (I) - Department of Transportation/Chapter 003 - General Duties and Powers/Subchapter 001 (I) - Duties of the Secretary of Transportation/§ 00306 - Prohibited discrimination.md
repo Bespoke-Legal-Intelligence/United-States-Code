@@ -64,7 +64,7 @@ This is necessary to correct a cross-reference in section 306(b) and to reflect 
 
 #### References in Text
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title V of the Actis classified generally to subchapter II (§821 et seq.) of chapter 17 of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title V of the Act is classified generally to subchapter II (§821 et seq.) of chapter 17 of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(3), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

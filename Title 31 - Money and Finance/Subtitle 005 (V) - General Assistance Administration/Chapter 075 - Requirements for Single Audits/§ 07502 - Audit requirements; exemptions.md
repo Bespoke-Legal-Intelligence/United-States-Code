@@ -1,6 +1,6 @@
 ### §7502. Audit requirements; exemptions
 
-(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or inexcess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
+(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
@@ -20,7 +20,7 @@
 
 (2) A State or local government that is required by constitution or statute, in effect on January 1, 1987, to undergo its audits less frequently than annually, is permitted to undergo its audits pursuant to this chapter biennially. Audits conducted biennially under the provisions of this paragraph shall cover both years within the biennial period.
 
-(3) Any nonprofit organization that had biennial audits for all biennial periods ending between July 1, 1992, and January 1, 1995, is permitted to undergo its audits pursuant to this chapter biennially. Audits conducted biennially under the provisions of this paragraph shall cover both years within the biennial period.
+(3) Any nonprofit organization that had biennial audits for all biennial periods ending between July 1, 1992, and January 1, 1995, is permitted to undergo its audits pursuant to thischapter biennially. Audits conducted biennially under the provisions of this paragraph shall cover both years within the biennial period.
 
 (c) Each audit conducted pursuant to subsection (a) shall be conducted by an independent auditor in accordance with generally accepted government auditing standards, except that, for the purposes of this chapter, performance audits shall not be required except as authorized by the Director.
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) monitor the subrecipient's use of Federal awards through site visits, limited scope audits, or other means;
 
-&emsp;(C) review the audit of a subrecipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined bythe Director, pertaining to Federal awards provided to the subrecipient by the pass-through entity; and
+&emsp;(C) review the audit of a subrecipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined by the Director, pertaining to Federal awards provided to the subrecipient by the pass-through entity; and
 
 &emsp;(D) require each of its subrecipients of Federal awards to permit, as a condition of receiving Federal awards, the independent auditor of the pass-through entity to have such access to the subrecipient's records and financial statements as may be necessary for the pass-through entity to comply with this chapter.
 
@@ -76,13 +76,13 @@
 
 (i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that corrective action is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
 
-(j) The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
+(j) The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projectsmay begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
 
 (Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2329; amended Pub. L. 103–272, §4(f)(1)(W), July 5, 1994, 108 Stat. 1363; Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1399.)
 
 #### References in Text
 
-The effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter. See section 7507 of this title.
+The effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter. See section 7506 of this title.
 
 #### Amendments
 

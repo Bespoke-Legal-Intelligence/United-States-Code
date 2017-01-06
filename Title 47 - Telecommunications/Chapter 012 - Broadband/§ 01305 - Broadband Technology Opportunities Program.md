@@ -42,13 +42,13 @@ The Assistant Secretary shall—
 
 &emsp;(3) seek such assurances as may be necessary or appropriate from grantees under the program that they will substantially complete projects supported by the program in accordance with project timelines, not to exceed 2 years following an award; and
 
-&emsp;(4) report on the status of the program to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Energy and Commerce of theHouse of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, every 90 days.
+&emsp;(4) report on the status of the program to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, every 90 days.
 
 #### (e) Eligibility
 
 To be eligible for a grant under the program, an applicant shall—
 
-&emsp;(1)(A) be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in section 450b of title 25) or native Hawaiian organization;
+&emsp;(1)(A) be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in section 5304 of title 25) or native Hawaiian organization;
 
 &emsp;(B) a nonprofit—
 

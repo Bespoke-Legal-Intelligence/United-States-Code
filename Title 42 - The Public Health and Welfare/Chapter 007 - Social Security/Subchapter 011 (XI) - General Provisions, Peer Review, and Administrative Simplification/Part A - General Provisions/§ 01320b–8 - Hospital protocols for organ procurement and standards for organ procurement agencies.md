@@ -1,6 +1,6 @@
 ### §1320b–8. Hospital protocols for organ procurement and standards for organ procurement agencies
 
-(a)(1) The Secretary shall provide that a hospital or critical access hospital meeting the requirements of subchapter XVIII or XIX of this chapter may participate in the program established under such subchapter only if—
+(a)(1) The Secretary shall provide that a hospital or critical access hospital meeting the requirements of subchapter XVIII or XIX may participate in the program established under such subchapter only if—
 
 &emsp;(A) the hospital or critical access hospital establishes written protocols for the identification of potential organ donors that—
 
@@ -44,11 +44,11 @@
 
 &emsp;(A) the term "agreement" means an agreement described in section 273(b)(3)(A) of this title;
 
-&emsp;(B) the term "designated organ procurement agency" means, with respect to a hospital or critical access hospital, the organ procurement agency designated pursuant to subsection (b) of this section for the service area in which such hospital is located; and
+&emsp;(B) the term "designated organ procurement agency" means, with respect to a hospital or critical access hospital, the organ procurement agency designated pursuant to subsection (b) for the service area in which such hospital is located; and
 
 &emsp;(C) the term "organ" means a human kidney, liver, heart, lung, pancreas, and any other human organ or tissue specified by the Secretary for purposes of this subsection.
 
-(b)(1) The Secretary shall provide that payment may be made under subchapter XVIII or XIX of this chapter with respect to organ procurement costs attributable to payments made to an organ procurement agency only if the agency—
+(b)(1) The Secretary shall provide that payment may be made under subchapter XVIII or XIX with respect to organ procurement costs attributable to payments made to an organ procurement agency only if the agency—
 
 &emsp;(A)(i) is a qualified organ procurement organization (as described in section 273(b) of this title) that is operating under a grant made under section 273(a) of this title, or (ii) has been certified or recertified by the Secretary within the previous 2 years (4 years if the Secretary determines appropriate for an organization on the basis of its past practices) as meeting the standards to be a qualified organ procurement organization (as so described);
 
@@ -60,9 +60,9 @@
 
 &emsp;(E) allocates organs, within its service area and nationally, in accordance with medical criteria and the policies of the Network; and
 
-&emsp;(F) is designated by the Secretary as an organ procurement organization payments to which may be treated as organ procurement costs for purposes of reimbursement under such subchapter.
+&emsp;(F) is designated by the Secretary as an organ procurement organization payments to which may be treated as organ procurementcosts for purposes of reimbursement under such subchapter.
 
-(2) The Secretary may not designate more than one organ procurement organization foreach service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
+(2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
 
 (Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
 

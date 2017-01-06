@@ -8,7 +8,7 @@ Inspections by the Technical Secretariat of plants, plant sites, or other facili
 
 #### (1) Schedule 2 facilities
 
-&emsp;The United States National Authority shall ensure that facility agreements for plants, plant sites, or other facilities or locations that are subject to inspection pursuant to paragraph 4 of Article VI of the Convention are concluded unless the owner, operator, occupant, or agent in charge of the facility and the Technical Secretariat agree that such an agreement is not necessary.
+&emsp;The United States National Authority shall ensure that facility agreements for plants,plant sites, or other facilities or locations that are subject to inspection pursuant to paragraph 4 of Article VI of the Convention are concluded unless the owner, operator, occupant, or agent in charge of the facility and the Technical Secretariat agree that such an agreement is not necessary.
 
 #### (2) Schedule 3 facilities
 
@@ -16,7 +16,7 @@ Inspections by the Technical Secretariat of plants, plant sites, or other facili
 
 #### (c) Notification requirements
 
-The United States National Authority shall ensure that the owner, operator, occupant, oragent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.
+The United States National Authority shall ensure that the owner, operator, occupant, or agent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.
 
 #### (d) Content of facility agreements
 

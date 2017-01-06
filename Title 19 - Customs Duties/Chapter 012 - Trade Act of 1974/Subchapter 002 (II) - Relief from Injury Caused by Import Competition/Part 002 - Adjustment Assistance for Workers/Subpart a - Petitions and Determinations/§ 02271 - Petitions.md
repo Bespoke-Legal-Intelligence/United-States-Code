@@ -30,11 +30,11 @@ If the petitioner, or any other person found by the Secretary to have a substant
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb.13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Amendments made by Pub. L. 113–128 were effective July 1, 2015, and were executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment notes below.
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5,was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Pub. L. 111–5, div. B, title I, §1891, Feb. 17, 2009, 123 Stat. 420, provided
 
 "(a)
 
-In General.—Except as otherwise provided in this subtitle \[subtitle I (§§1800–1899L) of title I of div. B of Pub. L. 111–5, enacting part 4 (§2371 et seq.) of this subchapter and sections 2295a, 2322, 2323, 2344, 2345, 2356, and 2397a of this title, amending sections 2271 to 2275, 2291 to 2295, 2296 to 2298, 2311, 2315 to 2321, 2341, 2343, 2348 to 2352, 2354, 2355, 2393, 2395, 2401 to 2401b, and 2401e to 2401g of this title, sections 35, 4980B, 7527, and 9801 of Title 26, Internal Revenue Code, section 1581 of Title 28, Judiciary and Judicial Procedure, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, repealing former sections 2344 to 2347 of this title, enacting provisions set out as notes preceding section 2271 and under sections 2271, 2295a, 2296, 2323, 2344, 2371, and 2393 of this title and sections 1, 35, 4980B, 7527, and 9801 of Title 26, and amending provisions set out as a note preceding section 2271 of this title\], and subsection (b) of this section, this subtitle and the amendments made by this subtitle—
+In General.—Except as otherwise provided in this subtitle \[subtitle I (§§1800–1899L) of title I of div. B of Pub. L. 111–5, enacting part 4 (§2371 et seq.) of this subchapter and sections 2295a, 2322, 2323, 2344, 2345, 2356, and 2397a of this title, amending sections 2271 to 2275, 2291 to 2295, 2296 to 2298, 2311, 2315 to 2321, 2341, 2343, 2348 to 2352, 2354, 2355, 2393, 2395, 2401 to 2401b, and 2401e to 2401g of this title, sections 35, 4980B, 7527, and 9801 of Title 26, Internal Revenue Code, section 1581 of Title 28, Judiciary and Judicial Procedure, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, repealing former sections 2344 to 2347 of this title, enacting provisions set out as notes preceding section 2271 and under sections 2271, 2295a, 2296, 2323, 2344, 2371, and 2393 of this title and sections 1, 35, 4980B, 7527, and 9801 of Title 26, and amending provisions set out as a note preceding section 2271 of this title\], and subsection\(b) of this section, this subtitle and the amendments made by this subtitle—
 
 &emsp;"(1) shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\]; and
 
@@ -188,7 +188,7 @@ Reconsideration of denials of certifications.—If, before the date of the enact
 
 &emsp;&emsp;&emsp;"(iii)
 
-Petition described.—A petition described in this clause is a petition for a certification of eligibility for a group of workers filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or after January 1, 2014, and before the date of the enactment of this Act.
+Petition described.—A petition described in this clause is a petition for a certification ofeligibility for a group of workers filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or after January 1, 2014, and before the date of the enactment of this Act.
 
 &emsp;&emsp;"(B)
 
@@ -196,7 +196,7 @@ Eligibility for benefits.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), a worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in subparagraph (A)(iii) shall be eligible, on and after the date that is 90 days after the date of the enactment of this Act \[June 29, 2015\], to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of1974 \[this part\], as in effect on such date of enactment.
+In general.—Except as provided in clause (ii), a worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in subparagraph (A)(iii) shall be eligible, on and after the date that is 90 days after the date of the enactment of this Act \[June 29, 2015\], to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on such date of enactment.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -294,7 +294,7 @@ Election for workers receiving benefits on the 60th day after enactment.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—A worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in subparagraph (A)(iii) who is receiving benefits under chapter 2 of title II of the Trade Act of 1974 as of the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\] may, not later than the date that is 150 days after such date of enactment, make a one-time election to receive benefits pursuant to—
+In general.—A worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[19 U.S.C. 2272\] pursuant to a petition described in subparagraph (A)(iii) who is receiving benefitsunder chapter 2 of title II of the Trade Act of 1974 as of the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\] may, not later than the date that is 150 days after such date of enactment, make a one-time election to receive benefits pursuant to—
 
 &emsp;&emsp;&emsp;"(aa) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on such date of enactment; or
 
@@ -302,7 +302,7 @@ In general.—A worker certified as eligible to apply for adjustment assistance 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-Effect of failure to make election.—A worker described in subclause (I) who doesnot make the election described in that subclause on or before the date that is 150 days after the date of the enactment of this Act shall be eligible to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
+Effect of failure to make election.—A worker described in subclause (I) who does not make the election described in that subclause on or before the date that is 150 days after the date of the enactment of this Act shall be eligible to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 

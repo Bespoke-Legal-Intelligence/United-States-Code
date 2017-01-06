@@ -6,7 +6,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 #### (b) Management plan
 
-The Secretary shall, no later than 5 years after October 12, 1993, develop a management plan for the recreation area, as an amendmentto the Santa Fe National Forest Land and Resource Management Plan, to reflect the establishment of the recreation area and to conform to the provisions of this subchapter. Nothing in this subchapter shall require the Secretary to revise the Santa Fe Forest Land and Resource Management Plan pursuant to section 1604 of this title. During development of the management plan for the recreation area, the Secretary shall study newly designated land within the recreation area, and adjacent national forest land.
+The Secretary shall, no later than 5 years after October 12, 1993, develop a management plan for the recreation area, as an amendment to the Santa Fe National Forest Land and Resource Management Plan, to reflect the establishment of the recreation area and to conform to the provisions of this subchapter. Nothing in this subchapter shall require the Secretary to revise the Santa Fe Forest Land and Resource Management Plan pursuant to section 1604 of this title. During development of the management plan for the recreation area, the Secretary shall study newly designated land within the recreation area, and adjacent national forest land.
 
 #### (c) Cultural resources
 
@@ -60,7 +60,7 @@ In accordance with Federal and State laws and regulations, the Secretary may per
 
 &emsp;(1) there is not a feasible alternative for the location of such corridor;
 
-&emsp;(2) damage to the recreational and scenic quality and to the archaeological and religioussites of the recreation area will not be significant;
+&emsp;(2) damage to the recreational and scenic quality and to the archaeological and religious sites of the recreation area will not be significant;
 
 &emsp;(3) it is in the public interest that such corridor be located in the recreation area; and
 

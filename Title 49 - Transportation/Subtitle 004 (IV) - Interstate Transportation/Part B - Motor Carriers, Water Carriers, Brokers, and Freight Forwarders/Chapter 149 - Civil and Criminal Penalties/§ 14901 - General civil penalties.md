@@ -2,7 +2,7 @@
 
 (a)
 
-Reporting and Recordkeeping.—A person required to make a report to the Secretary or the Board, answer a question, or make, prepare, or preserve a record under this part concerning transportation subject to jurisdiction under subchapter I or III of chapter 135 or transportation by a foreign carrier registered under section 13902, or an officer, agent, or employee of that person that—
+Reporting and Recordkeeping.—A person required to make a report to the Secretary orthe Board, answer a question, or make, prepare, or preserve a record under this part concerning transportation subject to jurisdiction under subchapter I or III of chapter 135 or transportation by a foreign carrier registered under section 13902, or an officer, agent, or employee of that person that—
 
 &emsp;(1) does not make the report;
 
@@ -80,7 +80,7 @@ Cost of service.—Any business entertainment expense subject to paragraph (1) t
 
 Settlement of Civil Penalties.—Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 913; amended Pub. L. 109–59, title IV, §4209, Aug. 10, 2005, 119 Stat. 1758; Pub. L. 112–141, div. C, title II, §§32108, 32923(a), July 6, 2012, 126 Stat. 782, 828; Pub. L. 114–94, div. A, title V, §5508(a)(4), (b)(1), Dec. 4, 2015, 129 Stat. 1554.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 913; amended Pub. L. 109–59, title IV, §4209, Aug. 10, 2005, 119 Stat. 1758; Pub. L.112–141, div. C, title II, §§32108, 32923(a), July 6, 2012, 126 Stat. 782, 828; Pub. L. 114–94, div. A, title V, §5508(a)(4), (b)(1), Dec. 4, 2015, 129 Stat. 1554.)
 
 #### References in Text
 

@@ -52,7 +52,7 @@ The Congress makes the following declarations:
 
 Section was formerly classified to section 2402 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-A prior section 2402 of the former Appendix to this title, Pub. L. 91–184, §3, Dec. 30, 1969, 83 Stat. 841; Pub. L. 92–412, title I, §103, Aug. 29, 1972, 86 Stat. 644; Pub. L. 93–500, §§2, 4(b), (c), 11, Oct. 29, 1974, 88 Stat. 1552, 1553, 1556; Pub. L. 95–52, title I, §115, title II, §202, June 22, 1977, 91 Stat. 241, 247, set forth declaration of policy of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
+A prior section 2402 of the former Appendix to this title, Pub. L. 91–184, §3, Dec. 30, 1969, 83 Stat. 841; Pub. L. 92–412, title I, §103, Aug. 29, 1972, 86 Stat. 644; Pub. L.93–500, §§2, 4(b), (c), 11, Oct. 29, 1974, 88 Stat. 1552, 1553, 1556; Pub. L. 95–52, title I, §115, title II, §202, June 22, 1977, 91 Stat. 241, 247, set forth declaration of policy of Congress with respect to the Export Administration Act of 1969, prior to the expiration of this Act on Sept. 30, 1979.
 
 #### Amendments
 

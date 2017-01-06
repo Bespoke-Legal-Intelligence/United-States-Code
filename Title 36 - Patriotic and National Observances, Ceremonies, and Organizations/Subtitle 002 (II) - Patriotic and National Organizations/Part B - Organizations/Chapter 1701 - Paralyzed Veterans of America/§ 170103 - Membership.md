@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Aug. 11, 1971, Pub. L. 92–93, §7, 85 Stat. 318.
 
-In clause (1), the words "citizen of the United States" are substituted for "American citizen" for consistencyin the revised title and with other titles of the United States Code.
+In clause (1), the words "citizen of the United States" are substituted for "American citizen" for consistency in the revised title and with other titles of the United States Code.
 
 Clause (3)(A) is substituted for "Service with the Armed Forces must have been terminated by discharge or separation from service under conditions other than dishonorable" to eliminate unnecessary words.
 

@@ -74,7 +74,7 @@ In this section:
 
 #### (3) Interagency agreement
 
-&emsp;Not later than 1 year after December 19, 2014, the Director of the National Park Serviceand the Director of the United States Fish and Wildlife Service shall enter into an agreement to allow the National Park Service to provide for archeological research and the public interpretation of historic resources located within the boundary of the Blackwater National Wildlife Refuge that are associated with the life of Harriet Tubman, consistent with the management requirements of the Refuge.
+&emsp;Not later than 1 year after December 19, 2014, the Director of the National Park Service and the Director of the United States Fish and Wildlife Service shall enter into an agreement to allow the National Park Service to provide for archeological research and the public interpretation of historic resources located within the boundary of the Blackwater National Wildlife Refuge that are associated with the life of Harriet Tubman, consistent with the management requirements of the Refuge.
 
 #### (4) Interpretive tours
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (ii) Form of non-Federal share
 
-&emsp;&emsp;&emsp;The non-Federal share of the cost of carrying out an activity under this paragraph may be in the form of in-kind contributions or goods or services fairly valued.
+&emsp;&emsp;&emsp;The non-Federal share of the cost of carrying out an activity under this paragraphmay be in the form of in-kind contributions or goods or services fairly valued.
 
 #### (d) General management plan
 
@@ -142,11 +142,11 @@ In this section:
 
 &emsp;&emsp;(A) the Blackwater National Wildlife Refuge;
 
-&emsp;&emsp;(B) the Harriet Tubman National Historical Park established by section 410ttt(b)(1)(A) <sup>1</sup> of this title; and
+&emsp;&emsp;(B) the Harriet Tubman National Historical Park established by section 410ttt of this title; and
 
 &emsp;&emsp;(C) the National Underground Railroad Network to Freedom.
 
-(Pub. L. 113–291, div. B, title XXX, §3035, Dec. 19, 2014, 128 Stat. 3778.)
+(Pub. L. 113–291, div. B, title XXX, §3035, Dec. 19, 2014, 128 Stat. 3778; Pub. L. 114–289, title VI, §601(e), Dec. 16, 2016, 130 Stat. 1491.)
 
 #### References in Text
 
@@ -156,11 +156,13 @@ The National Park System Organic Act (16 U.S.C. 1 et seq.), referred to in subse
 
 The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(2)(B), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Section 410ttt(b)(1)(A) of this title, referred to in subsec. (d)(4)(B), was in the original "section 3(b)(1)(A)" and was translated as meaning section 3036(b)(1)(A) of Pub. L. 113–291, which is classified to section 410ttt(b)(1)(A) of this title and relates to the establishment of the Harriet Tubman National Historical Park, to reflect the probable intent of Congress.
-
 #### Codification
 
 In subsec. (d)(1), "section 100502 of title 54" substituted for "section 12(b) of the National Park Service General Authorities Act (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (d)(4)(B). Pub. L. 114–289 made technical amendment to reference in original act which appears in text as reference to section 410ttt of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) the substance is contained in the list under paragraph (3), or
 
-&emsp;&emsp;(B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of Customs, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
+&emsp;&emsp;(B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
 
 > &emsp;If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.
 
@@ -70,7 +70,7 @@ For purposes of this subchapter—
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4671.
 
-(Added Pub. L. 99–499, title V, §515(a), Oct. 17, 1986, 100 Stat. 1768; amended Pub. L. 100–647, title II, §2001(b), Nov. 10, 1988, 102 Stat. 3594.)
+(Added Pub. L. 99–499, title V, §515(a), Oct. 17, 1986, 100 Stat. 1768; amended Pub. L. 100–647, title II, §2001(b), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendments
 
@@ -88,6 +88,10 @@ In general.—The Secretary may add substances to or remove substances from the 
 
 Authority to add substances to list based on value.—The Secretary may, to the extent necessary to carry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if 'value' were substituted for 'weight' therein."
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (a)(2)(B) on authority of section 802(d)(2) of Pub.L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under section 56 of this title.
@@ -98,5 +102,5 @@ Section effective Jan. 1, 1989, see section 515(c) of Pub. L. 99–499, set out 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

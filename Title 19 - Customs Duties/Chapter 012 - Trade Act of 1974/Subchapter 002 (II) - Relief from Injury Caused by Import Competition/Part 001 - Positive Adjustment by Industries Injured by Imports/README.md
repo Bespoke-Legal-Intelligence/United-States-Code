@@ -11,3 +11,4 @@ Part 1
 - [&sect; 02252 - Investigations, determinations, and recommendations by Commission](%C2%A7%2002252%20-%20Investigations%2C%20determinations%2C%20and%20recommendations%20by%20Commission.md)
 - [&sect; 02253 - Action by President after determination of import injury](%C2%A7%2002253%20-%20Action%20by%20President%20after%20determination%20of%20import%20injury.md)
 - [&sect; 02254 - Monitoring, modification, and termination of action](%C2%A7%2002254%20-%20Monitoring%2C%20modification%2C%20and%20termination%20of%20action.md)
+- [&sect; 02255 - Trade monitoring](%C2%A7%2002255%20-%20Trade%20monitoring.md)

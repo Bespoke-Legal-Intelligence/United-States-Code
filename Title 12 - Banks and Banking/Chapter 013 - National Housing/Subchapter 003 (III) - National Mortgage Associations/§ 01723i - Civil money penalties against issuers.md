@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) Use of escrow funds for any purpose other than that for which they were received.
 
-&emsp;&emsp;(D) Transfer of servicing for a pool of mortgages to an issuer not approved under this subchapter, unless expressly permitted by statute, regulation, or contract approved by the Secretary.
+&emsp;&emsp;(D) Transfer of servicing for a pool of mortgages to an issuer not approved underthis subchapter, unless expressly permitted by statute, regulation, or contract approved by the Secretary.
 
 &emsp;&emsp;(E) Failure to maintain a minimum net worth in accordance with requirements prescribed by the Association;
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1), an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) in the appropriate court of appeals of the United States,by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (c)(1), an issuer or a custodian against which the Secretary has imposed a civil money penalty under subsection (a) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice provided under subsection (c)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 

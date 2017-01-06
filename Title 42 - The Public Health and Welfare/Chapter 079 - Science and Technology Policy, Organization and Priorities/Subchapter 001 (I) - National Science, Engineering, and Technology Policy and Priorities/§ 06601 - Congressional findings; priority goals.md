@@ -44,11 +44,105 @@
 
 (Pub. L. 94–282, title I, §101, May 11, 1976, 90 Stat. 459.)
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 114–329, title VI, §604(a), Jan. 6, 2017, 130 Stat. 3037, provided that: "This section \[amending section 6612 of this title\] may be cited as the 'United States Chief Technology Officer Act'."
+
 #### Short Title
 
 Pub. L. 94–282, §1, May 11, 1976, 90 Stat. 459, provided that: "This Act \[enacting this chapter, amending section 1863 of this title, repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under section 1861 of this title, and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under section 5195 of this title, and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title\] may be cited as the 'National Science and Technology Policy, Organization, and Priorities Act of 1976'."
 
 Pub. L. 94–282, title II, §201, May 11, 1976, 90 Stat. 463, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Presidential Science and Technology Advisory Organization Act of 1976'."
+
+#### Physical Sciences Coordination
+
+Pub. L. 114–329, title I, §106, Jan. 6, 2017, 130 Stat. 2985, provided that:
+
+"(a)
+
+High-energy Physics.—
+
+&emsp;"(1)
+
+In general.—The Physical Science Subcommittee of the National Science and Technology Council (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
+
+&emsp;"(2)
+
+Purposes.—The purposes of the Subcommittee include—
+
+&emsp;&emsp;"(A) to advise and assist the Committee on Science and the National Science and Technology Council on United States policies, procedures, and plans in the physical sciences, including high-energy physics; and
+
+&emsp;&emsp;"(B) to identify emerging opportunities, stimulate international cooperation, and foster the development of the physical sciences in the United States, including—
+
+&emsp;&emsp;&emsp;"(i) in high-energy physics research, including related underground science and engineering research;
+
+&emsp;&emsp;&emsp;"(ii) in physical infrastructure and facilities;
+
+&emsp;&emsp;&emsp;"(iii) in information and analysis; and
+
+&emsp;&emsp;&emsp;"(iv) in coordination activities.
+
+&emsp;"(3)
+
+Responsibilities.—In regard to coordinating Federal efforts related to high-energy physics research, the Subcommittee shall, taking into account the findings and recommendations of relevant advisory committees—
+
+&emsp;&emsp;"(A) provide recommendations on planning for construction and stewardship of large facilities participating in high-energy physics;
+
+&emsp;&emsp;"(B) provide recommendations on research coordination and collaboration among the programs and activities of Federal agencies related to underground science, neutrino research, dark energy, and dark matter research;
+
+&emsp;&emsp;"(C) establish goals and priorities for high-energy physics, related underground science, and research and development that will strengthen United States competitiveness in high-energy physics;
+
+&emsp;&emsp;"(D) propose methods for engagement with international, Federal, and State agencies and Federal laboratories not represented on the National Science and Technology Council to identify and reduce regulatory, logistical, and fiscal barriers that inhibit United States leadership in high-energy physics and related underground science; and
+
+&emsp;&emsp;"(E) develop, and update as necessary, a strategic plan to guide Federal programs and activities in support of high-energy physics research, including—
+
+&emsp;&emsp;&emsp;"(i) the efforts taken in support of paragraph (2) since the last strategic plan;
+
+&emsp;&emsp;&emsp;"(ii) an evaluation of the current research needs for maintaining United States leadership in high-energy physics; and
+
+&emsp;&emsp;&emsp;"(iii) an identification of future priorities in the area of high-energy physics.
+
+"(b)
+
+Radiation Biology.—
+
+&emsp;"(1)
+
+In general.—The Subcommittee shall continue to coordinate Federal efforts related to radiation biology research to maximize the efficiency and effectiveness of United States investment in radiation biology.
+
+&emsp;"(2)
+
+Responsibilities for radiation biology.—In regard to coordinating Federal efforts related to radiation biology research, the Subcommittee shall—
+
+&emsp;&emsp;"(A) advise and assist the National Science and Technology Council on policies and initiatives in radiation biology, including enhancing scientific knowledge of the effects of low dose radiation on biological systems to improve radiation risk management methods;
+
+&emsp;&emsp;"(B) identify opportunities to stimulate international cooperation and leverage research and knowledge from sources outside of the United States;
+
+&emsp;&emsp;"(C) ensure coordination between the Department of Energy Office of Science, \[National Science\] Foundation, National Aeronautics and Space Administration, National Institutes of Health, Environmental Protection Agency, Department of Defense, Nuclear Regulatory Commission, and Department of Homeland Security;
+
+&emsp;&emsp;"(D) identify ongoing scientific challenges for understanding the long-term effects of ionizing radiation on biological systems; and
+
+&emsp;&emsp;"(E) formulate overall scientific goals for the future of low-dose radiation research in the United States.
+
+"(c)
+
+Fusion Energy Sciences.—
+
+&emsp;"(1)
+
+In general.—The Subcommittee shall continue to coordinate Federal efforts related to fusion energy research to maximize the efficiency and effectiveness of United States investment in fusion energy sciences.
+
+&emsp;"(2)
+
+Responsibilities for fusion energy sciences.—In regard to coordinating Federal efforts related to fusion energy sciences, the Subcommittee shall—
+
+&emsp;&emsp;"(A) advise and assist the National Science and Technology Council on policies and initiatives in fusion energy sciences, including enhancing scientific knowledge of fusion energy science, plasma physics, and related materials sciences;
+
+&emsp;&emsp;"(B) identify opportunities to stimulate international cooperation and leverage research and knowledge from sources outside of the United States, including the ITER project;
+
+&emsp;&emsp;"(C) ensure coordination between the Department of Energy Office of Science, National Nuclear Security Administration, Advanced Research Projects Agency-Energy, National Aeronautics and Space Administration, \[National Science\] Foundation, and Department of Defense regarding fusion energy sciences and plasma physics; and
+
+&emsp;&emsp;"(D) formulate overall scientific goals for the future of fusion energy sciences and plasma physics."
 
 #### Ex. Ord. No. 12039. Transfer of Certain Science and Technology Policy Functions
 
@@ -72,7 +166,7 @@ Sec. 3. The Federal science, engineering, and technology functions under Section
 
 Sec. 4. The science, engineering, and technology and related activities functions under Section 401(e) of the Act (42 U.S.C. 6651(e)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy.
 
-Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. The head of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
+Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. Thehead of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
 
 Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
 
@@ -162,11 +256,13 @@ Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President's Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
+
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
 #### Executive Order No. 13237
 
@@ -174,11 +270,13 @@ Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, which created the President's 
 
 #### Extension of Term of President's Council on Bioethics
 
-Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Council on Bioethics extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President's Council on Bioethics were contained in the following prior Executive Orders:
 
-Term of President's Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
+
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
 
 #### Ex. Ord. No. 13521. Establishing the Presidential Commission for the Study of Bioethical Issues
 
@@ -248,11 +346,13 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Commission for the Study of Bioethical Issues
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of Presidential Commission for the Study of Bioethical Issues were contained in the following prior Executive Orders:
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Ex. Ord. No. 13539. President's Council of Advisors on Science and Technology
 
@@ -262,13 +362,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. The President's Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of not more than 21 members, one of whom shall be the Assistant to the President for Science and Technology (the "Science Advisor"), and 20 of whom shall include distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These nonfederal members shall have diverse perspectives and expertise in science, technology, and innovation. The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the nonfederal members to serve as a Co-Chair of the PCAST with the Science Advisor.
 
-Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policythat affects science, technology, and innovation, as well as scientific and technical information that is needed to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
+Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policy that affects science, technology, and innovation, as well as scientific and technical information that is needed to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
 
 (i) respond to requests from the President or the Science Advisor for information, analysis, evaluation, or advice;
 
 (ii) solicit information and ideas from the broad range of stakeholders, including but not limited to the research community, the private sector, universities, national laboratories, State and local governments, foundations, and nonprofit organizations;
 
-(iii) serve as the advisory committee identified in subsections 101(b) and 103(b) of the High\[-\]Performance Computing Act of 1991 (Public Law 102–194), as amended (15 U.S.C. 5511(b) and 5513(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President's Innovation and Technology Advisory Committee; and
+(iii) serve as the advisory committee identified in subsections 101(b) and \[former\] 103(b) of the High\[-\]Performance Computing Act of 1991 (Public Law 102–194), as amended (15 U.S.C. 5511(b) and \[former 15 U.S.C.\] 5513(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President's Innovation and Technology Advisory Committee; and
 
 (iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7503) (21st Century Act). In performing the functions of such advisory committee, the PCAST shall be known as the National Nanotechnology Advisory Panel. Nothing in this order shall be construed to require the National Nanotechnology Advisory Panel to comply with any requirement from which it is exempted by section 4(f) of the 21st Century Act.
 
@@ -304,11 +404,13 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President's Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -320,7 +422,7 @@ I have worked hard to restore trust and ensure openness in government. This memo
 
 In January 1994, I established the Advisory Committee on Human Radiation Experiments (the "Advisory Committee") to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects ("Recommendations for Balancing National Security Interests and the Rights of the Public," Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
-The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found,however, that classified human subjects research should be a "rare event" and that the "subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections." The Advisory Committee was concerned about "exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified." The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
+The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a "rare event" and that the "subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections." The Advisory Committee was concerned about "exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified." The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
 
 —obtain informed consent from all human subjects;
 
@@ -358,7 +460,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (i) The Common Rule currently requires that each IRB "include at least one member who is not otherwise affiliated with the institution and who is not part of the immediate family of a person who is affiliated with the institution." For classified research, the agencies shall define "not otherwise affiliated with the institution," as a nongovernmental member with the appropriate security clearance.
 
-(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
+(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specificproject should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
 
 (iii) IRBs for classified research shall determine whether potential subjects need access to classified information to make a valid informed consent decision.
 

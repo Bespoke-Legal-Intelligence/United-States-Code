@@ -12,7 +12,7 @@ The President is authorized to exempt from the prohibition under subsection (a) 
 
 #### (1) In general
 
-&emsp;The term "sensitive technology" means hardware, software, telecommunicationsequipment, or any other technology, that the President determines is to be used specifically—
+&emsp;The term "sensitive technology" means hardware, software, telecommunications equipment, or any other technology, that the President determines is to be used specifically—
 
 &emsp;&emsp;(A) to restrict the free flow of unbiased information in Iran; or
 

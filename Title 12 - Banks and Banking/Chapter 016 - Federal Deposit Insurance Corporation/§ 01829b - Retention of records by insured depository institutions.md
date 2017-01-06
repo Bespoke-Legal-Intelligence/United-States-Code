@@ -22,7 +22,7 @@
 
 #### (2) Domestic funds transfers
 
-&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes ofthis section with respect to the maintenance of such records.
+&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes of this section with respect to the maintenance of such records.
 
 #### (3) International funds transfers
 

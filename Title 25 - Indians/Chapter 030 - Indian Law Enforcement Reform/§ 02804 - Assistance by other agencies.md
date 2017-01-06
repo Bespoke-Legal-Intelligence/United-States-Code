@@ -20,7 +20,7 @@
 
 #### (ii) Inclusions
 
-&emsp;&emsp;&emsp;The plan under clause (i) shall include the hosting of regional training sessions in Indian country, not less frequently thanbiannually, to educate and certify candidates for the special law enforcement commissions.
+&emsp;&emsp;&emsp;The plan under clause (i) shall include the hosting of regional training sessions in Indian country, not less frequently than biannually, to educate and certify candidates for the special law enforcement commissions.
 
 #### (B) Memoranda of agreement
 
@@ -58,7 +58,7 @@ The head of a Federal agency with law enforcement personnel or facilities may en
 
 #### (f) Status of person as Federal employee
 
-While acting under authority granted by the Secretary under subsection (a), a person who is not otherwise a Federal employee shall be considered to be—
+While acting under authority granted by the Secretary under subsection (a), a person who isnot otherwise a Federal employee shall be considered to be—
 
 &emsp;(1) an employee of the Department of the Interior only for purposes of—
 
@@ -74,13 +74,13 @@ The Bureau may accept reimbursement, resources, assistance, or funding from—
 
 &emsp;(1) a Federal, tribal, State, or other government agency; or
 
-&emsp;(2) the Indian Law Enforcement Foundation established under section 458ccc–1(a) <sup>1</sup> of this title.
+&emsp;(2) the Indian Law Enforcement Foundation established under section 5412(a) <sup>1</sup> of this title.
 
 (Pub. L. 101–379, §5, Aug. 18, 1990, 104 Stat. 476; Pub. L. 111–211, title II, §231(b), (e), July 29, 2010, 124 Stat. 2273, 2278.)
 
 #### References in Text
 
-Section 458ccc–1(a) of this title, referred to in subsec. (g)(2), was in the original "section 701(a) of the Indian Self-Determination and Education Assistance Act", and was translated as reading "section 702(a) of the Indian Self-Determination and Education Assistance Act", meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
+Section 5412(a) of this title, referred to in subsec. (g)(2), was in the original "section 701(a) of the Indian Self-Determination and Education Assistance Act", and was translated as reading "section 702(a) of the Indian Self-Determination and Education Assistance Act", meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
 
 #### Amendments
 

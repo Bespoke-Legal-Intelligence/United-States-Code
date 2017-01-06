@@ -126,7 +126,7 @@ Pub. L. 103–160, div. A, title II, §251, Nov. 30, 1993, 107 Stat. 1606, provi
 
 "(a)
 
-Authority To Establish Center.—The Secretary of Defense may establish a Defense Women's Health Research Center (hereinafter in this section referred to as the 'Center') at an existing Department of Defense medical center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
+Authority To Establish Center.—The Secretary of Defense may establish a Defense Women's Health Research Center (hereinafter in this section referred to as the 'Center') at an existing Department of Defense medical center to serve as the coordinatingagent for multidisciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
 
 "(b)
 
@@ -148,7 +148,7 @@ Competition Requirement Relating to Establishment of Center.—The Center may be
 
 "(d)
 
-Implementation Plan.—The Secretary of Defense shall prepare a plan for the implementation ofsubsection (a). The plan shall be submitted to the Committees on Armed Services of the Senate and House of Representatives before May 1, 1994.
+Implementation Plan.—The Secretary of Defense shall prepare a plan for the implementation of subsection (a). The plan shall be submitted to the Committees on Armed Services of the Senate and House of Representatives before May 1, 1994.
 
 "(e)
 

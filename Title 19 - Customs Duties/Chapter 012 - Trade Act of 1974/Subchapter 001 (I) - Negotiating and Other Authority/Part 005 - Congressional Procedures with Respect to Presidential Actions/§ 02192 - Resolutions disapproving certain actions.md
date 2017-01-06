@@ -26,7 +26,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 #### (d) Floor consideration in the House
 
-(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. Anamendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the House of Representatives on a resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. No amendment to, or motion to recommit, the resolution shall be in order. It shall not be in order to move to reconsider the vote by which a resolution is agreed to or disagreed to.
 
@@ -34,7 +34,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 (4) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to a resolution shall be decided without debate.
 
-(5) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of a resolution in the House of Representatives shall be governed by the Rulesof the House of Representatives applicable to other resolutions in similar circumstances.
+(5) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of a resolution in the House of Representatives shall be governed by the Rules of the House of Representatives applicable to other resolutions in similar circumstances.
 
 #### (e) Floor consideration in the Senate
 
@@ -80,7 +80,7 @@ Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(
 
 <b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: 'That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.', with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date."
 
-Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted "first" for "second" in introductory provisions and "2437(c)(2)" for "2437(c)(3)" in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase 'the extension of nondiscriminatory treatmentwith respect to the products of \_\_\_\_\_\_' (with this blank space being filled with the name of the country involved); and".
+Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted "first" for "second" in introductory provisions and "2437(c)(2)" for "2437(c)(3)" in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase 'the extension of nondiscriminatory treatment with respect to the products of \_\_\_\_\_\_' (with this blank space being filled with the name of the country involved); and".
 
 Subsec. (c)(1). Pub. L. 101–382, §132(c)(4), substituted "except that a motion to discharge—
 

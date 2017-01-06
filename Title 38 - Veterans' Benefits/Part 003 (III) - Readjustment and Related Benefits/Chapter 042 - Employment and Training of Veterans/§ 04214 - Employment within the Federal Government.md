@@ -32,7 +32,7 @@
 
 (d) The Office of Personnel Management shall be responsible for the review and evaluation of the implementation of this section and the activities of each agency to carry out the purpose and provisions of this section. The Office shall periodically obtain (on at least an annual basis) information on the implementation of this section by each agency and on the activities of each agency to carry out the purpose and provisions of this section. The information obtained shall include specification of the use and extent of appointments made by each agency under subsection (b) of this section and the results of the plans required under subsection (c) of this section.
 
-(e)(1) The Office of Personnel Management shall submit to the Congress annually a reporton activities carried out under this section. Each such report shall include the following information with respect to each agency:
+(e)(1) The Office of Personnel Management shall submit to the Congress annually a report on activities carried out under this section. Each such report shall include the following information with respect to each agency:
 
 &emsp;(A) The number of appointments made under subsection (b) of this section since the last such report and the grade levels in which such appointments were made.
 
@@ -96,7 +96,7 @@ Subsec. (b)(3)(B)(ii). Pub. L. 102–568, §505(b)(2), substituted "December 31"
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2014 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–16, §9(a), substituted "The United States has an obligation to assist veterans ofthe Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States" for "It is the policy of the United States" and "disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era" for "certain veterans of the Vietnam era and veterans of the post-Vietnam era".
+Subsec. (a)(1). Pub. L. 102–16, §9(a), substituted "The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States" for "It is the policy of the United States" and "disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era" for "certain veterans of the Vietnam era and veterans of the post-Vietnam era".
 
 Subsec. (b)(1)(A). Pub. L. 102–16, §9(b)(1)(A), substituted "up to and including the level GS–11 or its equivalent" for "up to and including the level GS–9 or its equivalent or in the case of a veteran referred to in paragraph (2)(A) of this subsection, the level of GS–11 or its equivalent".
 
@@ -112,7 +112,7 @@ Subsec. (b)(1)(E), (F). Pub. L. 102–16, §9(b)(1)(C), (D), redesignated cl. (D
 
 "(F) in the case of a veteran who is not a disabled veteran, the veteran may not have completed more than 16 years of education at the time of the veteran's appointment."
 
-Subsec. (b)(2)(A)(i). Pub. L. 102–127 substituted "is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred or aggravated in line of duty." for "has a service-connected disability".
+Subsec. (b)(2)(A)(i). Pub. L. 102–127 substituted "is entitled to disability compensation under the laws administered by the Secretary or whose discharge or release from active duty was for a disability incurred oraggravated in line of duty." for "has a service-connected disability".
 
 Subsec. (b)(2)(B). Pub. L. 102–16, §9(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "a veteran who served on active duty after the Vietnam era."
 
@@ -260,7 +260,7 @@ Elements of program.—The head of each agency designated under paragraph (2)(A)
 
 "(4)
 
-Other office.—If an agency designated under paragraph (2)(A) does not have a Veterans Employment Program Office, the head of the agency, in consultationwith the Director of the Office of Personnel Management, shall select an appropriate office of the agency to carry out the responsibilities of the agency under paragraph (3)."
+Other office.—If an agency designated under paragraph (2)(A) does not have a Veterans Employment Program Office, the head of the agency, in consultation with the Director of the Office of Personnel Management, shall select an appropriate office of the agency to carry out the responsibilities of the agency under paragraph (3)."
 
 #### Contents of Reports on Veterans' Readjustment Appointments
 

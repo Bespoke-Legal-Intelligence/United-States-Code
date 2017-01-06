@@ -14,11 +14,11 @@
 
 #### (b) Civil penalties
 
-A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the Treasury on any person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
+A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the Treasury onany person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
 
 #### (c) Judicial review of civil penalty
 
-Any penalty imposed under subsection (b) of this section shall be subject to judicial review only to the extent provided in section 702 of title 5.
+Any penalty imposed under subsection (b) shall be subject to judicial review only to the extent provided in section 702 of title 5.
 
 (Pub. L. 106–120, title VIII, §807, Dec. 3, 1999, 113 Stat. 1631.)
 

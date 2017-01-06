@@ -208,7 +208,7 @@ Use of Assistance.—A member of the Armed Forces who is selected to participate
 
 "(f)
 
-Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]. Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
+Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.). Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
 
 "(g)
 

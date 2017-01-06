@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the National Institute of Food and Agriculture and the Statecooperative extension services, and in consultation with State foresters or equivalent State officials, school boards, and universities, shall expand forestry and natural resources education programs conducted under this subchapter for private forest owners and managers, public officials, youth, and the general public, and shall include guidelines for the transfer of technology.
+The Secretary, acting through the National Institute of Food and Agriculture and the State cooperative extension services, and in consultation with State foresters or equivalent State officials, school boards, and universities, shall expand forestry and natural resources education programs conducted under this subchapter for private forest owners and managers, public officials, youth, and the general public, and shall include guidelines for the transfer of technology.
 
 #### (b) Activities
 
@@ -14,7 +14,7 @@ The Secretary, acting through the National Institute of Food and Agriculture and
 
 &emsp;The activities referred to in paragraph (1) shall include—
 
-&emsp;&emsp;(A) demonstrating and teaching landowners and forest managers the concepts of multiple-use and sustainable natural resource management;
+&emsp;&emsp;(A) demonstrating and teaching landowners and forest managers the concepts ofmultiple-use and sustainable natural resource management;
 
 &emsp;&emsp;(B) conducting comprehensive environmental education programs that assist citizens to participate in environmentally positive activities such as tree planting, recycling, erosion prevention, and waste management; and
 

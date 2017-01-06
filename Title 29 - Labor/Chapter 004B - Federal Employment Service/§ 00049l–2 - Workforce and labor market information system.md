@@ -78,13 +78,13 @@
 
 #### (A) Structure
 
-&emsp;&emsp;The workforce and labor market information system described in subsection (a) shallbe evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).
+&emsp;&emsp;The workforce and labor market information system described in subsection (a) shall be evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).
 
 #### (B) Grants and responsibilities
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall carry out the provisions of this section in a timely manner, through grants to or agreements with States.
+&emsp;&emsp;&emsp;The Secretary shall carry out the provisions of this section in a timely manner,through grants to or agreements with States.
 
 #### (ii) Distribution of funds
 
@@ -134,13 +134,13 @@ The Secretary, acting through the Commissioner of Labor Statistics and the Assis
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referredto in this section as the "Council") to participate in the consultations and provide the recommendations described in paragraph (1).
+&emsp;&emsp;The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referred to in this section as the "Council") to participate in the consultations and provide the recommendations described in paragraph (1).
 
 #### (B) Membership
 
 &emsp;&emsp;The Secretary shall appoint the members of the Council, which shall consist of—
 
-&emsp;&emsp;&emsp;(i) 4 members who are representatives of lead State agencies with responsibility for workforce investment activities, or State agencies described in section 49c of this title, who have been nominated by such agencies or by a national organization that represents such agencies;
+&emsp;&emsp;&emsp;(i) 4 members who are representatives of lead State agencies with responsibility forworkforce investment activities, or State agencies described in section 49c of this title, who have been nominated by such agencies or by a national organization that represents such agencies;
 
 &emsp;&emsp;&emsp;(ii) 4 members who are representatives of the State workforce and labor market information directors affiliated with the State agencies that perform the duties described in subsection (e)(2), who have been nominated by the directors;
 
@@ -214,7 +214,7 @@ The Secretary, acting through the Commissioner of Labor Statistics and the Assis
 
 #### (f) Nonduplication requirement
 
-None of the functions and activities carried out pursuant to this section shall duplicate the functions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
+None of the functions and activities carried out pursuant to this section shall duplicate thefunctions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
 #### (g) Authorization of appropriations
 

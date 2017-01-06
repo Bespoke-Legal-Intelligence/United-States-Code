@@ -2,7 +2,7 @@
 
 In carrying out the provisions of this chapter, the Secretary, or any Government agency authorized to administer such provisions, may—
 
-&emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
+&emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to theUnited States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
 
 &emsp;(2) pay travel expenses of aliens employed abroad for service in the United States and their dependents to and from the United States;
 
@@ -52,7 +52,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, asamended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
 

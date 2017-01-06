@@ -6,9 +6,9 @@ Establishment.—The Commandant may establish a National Coast Guard Museum, on 
 
 (b)
 
-Limitation on Expenditures.—(1) Except as provided in paragraph (2), the Secretary shall not expend any appropriated Federal funds for the engineering, design, or construction of any museum established under this section.
+Limitation on Expenditures.—(1) Except as provided in paragraph (2), the Secretary shall not expend any funds appropriated to the Coast Guard on the engineering, design, or construction of any museum established under this section.
 
-(2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts.
+(2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
 
 (c)
 
@@ -16,7 +16,7 @@ Funding Plan.—Before the date on which the Commandant establishes a museum und
 
 &emsp;(1) estimated planning, engineering, design, construction, operation, and maintenance costs;
 
-&emsp;(2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent towhich there is any shortfall in funding for engineering, design, or construction; and
+&emsp;(2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction; and
 
 &emsp;(3) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 
@@ -24,5 +24,11 @@ Funding Plan.—Before the date on which the Commandant establishes a museum und
 
 Authority.—The Commandant may not establish a Coast Guard museum except as set forth in this section.
 
-(Added Pub. L. 108–293, title II, §213(a), Aug. 9, 2004, 118 Stat. 1037.)
+(Added Pub. L. 108–293, title II, §213(a), Aug. 9, 2004, 118 Stat. 1037; amended Pub. L. 114–120, title II, §219, Feb. 8, 2016, 130 Stat. 48.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–120, §219(1), substituted "any funds appropriated to the Coast Guard on" for "any appropriated Federal funds for".
+
+Subsec. (b)(2). Pub. L. 114–120, §219(2), substituted "artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included." for "artifacts."
 

@@ -32,23 +32,23 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in such section, to make available non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $1 for each $3 of Federal funds provided in the grant. Such contributions may be made directly or through donations from public or private entities.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in such section, to make available non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $1 for each $3 of Federal funds provided in the grant. Such contributions may be made directly or through donations from public or private entities.
 
 #### (2) Determination of amount of non-Federal contribution
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
+&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
 
-&emsp;(C) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary shall, subject to subparagraphs (A) and (B) of this paragraph, include any non-Federal amounts expended pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] by the applicant involved toward the purpose described in paragraphs (1) and (2) of subsection (a) of this section.
+&emsp;(C) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary shall, subject to subparagraphs (A) and (B) of this paragraph, include any non-Federal amounts expended pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] by the applicant involved toward the purpose described in paragraphs (1) and (2) of subsection (a).
 
 #### (c) Education on significance of early detection
 
-The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that, in carrying out subsection (a)(3) of this section, the applicant will carry out education programs to communicate to men, and to local health officials, the significance of the early detection of prostate cancer.
+The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that, in carrying out subsection (a)(3), the applicant will carry out education programs to communicate to men, and to local health officials, the significance of the early detection of prostate cancer.
 
 #### (d) Requirement of provision of all services by date certain
 
-The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees—
+The Secretary may not make a grant under subsection (a) unless the applicant involved agrees—
 
 &emsp;(1) to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of the services or activities described in paragraphs (1) and (2) of such subsection;
 
@@ -60,11 +60,11 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (1) Priority for low-income men
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that low-income men, and men at risk of prostate cancer, will be given priority in the provision of services and activities pursuant to paragraphs (1) and (2) of such subsection.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that low-income men, and men at risk of prostate cancer, will be given priority in the provision of services and activities pursuant to paragraphs (1) and (2) of such subsection.
 
 #### (2) Limitation on imposition of fees for services
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that, if a charge is imposed for the provision of services or activities under the grant, such charge—
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that, if a charge is imposed for the provision of services or activities under the grant, such charge—
 
 &emsp;&emsp;(A) will be made according to a schedule of charges that is made available to the public;
 
@@ -74,7 +74,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (3) Relationship to items and services under other programs
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that the grant will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the grant will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -82,19 +82,19 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (4) Coordination with other prostate cancer programs
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
 
 #### (5) Limitation on administrative expenses
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that not more than 10 percent of the grant will be expended for administrative expenses with respect to the grant.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that not more than 10 percent of the grant will be expended for administrative expenses with respect to the grant.
 
 #### (6) Restrictions on use of grant
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that the grant will not be expended to provide inpatient hospital services for any individual.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the grant will not be expended to provide inpatient hospital services for any individual.
 
 #### (7) Records and audits
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees that—
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that—
 
 &emsp;&emsp;(A) the applicant will establish such fiscal control and fund accounting procedures as may be necessary to ensure the proper disbursal of, and accounting for, amounts received by the applicant under such section; <sup>3</sup> and
 
@@ -102,15 +102,15 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (f) Reports to Secretary
 
-The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
+The Secretary may not make a grant under subsection (a) unless the applicant involved agrees to submit to the Secretary such reports as the Secretary may require with respect to the grant.
 
 #### (g) Description of intended uses of grant
 
-The Secretary may not make a grant under subsection (a) of this section unless—
+The Secretary may not make a grant under subsection (a) unless—
 
 &emsp;(1) the applicant involved submits to the Secretary a description of the purposes for which the applicant intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with a need for the services or activities described in subsection (a) of this section;
+&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with a need for the services or activities described in subsection (a);
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprivate entities; and
 
@@ -118,23 +118,23 @@ The Secretary may not make a grant under subsection (a) of this section unless�
 
 #### (h) Requirement of submission of application
 
-The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g) of this section, and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (i) Method and amount of payment
 
-The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of the underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
+The Secretary shall determine the amount of a grant made under subsection (a). Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of the underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
 
 #### (j) Technical assistance and provision of supplies and services in lieu of grant funds
 
 #### (1) Technical assistance
 
-&emsp;The Secretary may provide training and technical assistance with respect to the planning, development, and operation of any program or service carried out pursuant to subsection (a) of this section. The Secretary may provide such technical assistance directly or through grants to, or contracts with, public and private entities.
+&emsp;The Secretary may provide training and technical assistance with respect to the planning, development, and operation of any program or service carried out pursuant to subsection (a). The Secretary may provide such technical assistance directly or through grants to, or contracts with, public and private entities.
 
 #### (2) Provision of supplies and services in lieu of grant funds
 
-&emsp;(A) Upon the request of an applicant receiving a grant under subsection (a) of this section, the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the applicant in carrying out such section and, for such purpose, may detail to the applicant any officer or employee of the Department of Health and Human Services.
+&emsp;(A) Upon the request of an applicant receiving a grant under subsection (a), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the applicant in carrying out such section and, for such purpose, may detail to the applicant any officer or employee of the Department of Health and Human Services.
 
-&emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the grant under subsection (a) of this section to the applicant involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the grant under subsection (a) to the applicant involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (k) "Units of local government" defined
 
@@ -144,13 +144,13 @@ For purposes of this section, the term "units of local government" includes Indi
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2004.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated$20,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2004.
 
 #### (2) Allocation for technical assistance
 
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
+&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1).
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### References in Text
 

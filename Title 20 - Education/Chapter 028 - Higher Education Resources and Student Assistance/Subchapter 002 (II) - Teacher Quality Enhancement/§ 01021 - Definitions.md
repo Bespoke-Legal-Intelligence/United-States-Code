@@ -334,7 +334,7 @@ Section 7801 of this title as such section was in effect on the day before Decem
 
 The Richard B. Russell National School Lunch Act, referred to in par. (11)(A)(i)(II), (ii), (B)(ii)(I)(bb), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Social Security Act, referred to in par. (11)(A)(i)(III), (B)(ii)(I)(cc), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (11)(A)(i)(III), (B)(ii)(I)(cc), is act Aug. 14, 1935, ch. 531,49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

@@ -156,7 +156,7 @@ Subsec. (d)(1), (2). Pub. L. 110–417, §811(c)(4)(A), (B), inserted "or any de
 
 Subsec. (d)(3). Pub. L. 110–417, §811(c)(4)(C), substituted "the program or subprogram concerned" for "such program".
 
-Subsec. (e)(1)(A). Pub. L. 110–417, §811(c)(5)(A)(i), inserted "or designated major subprogram" after "major defense acquisition program" and "or subprogram" after "for the program".
+Subsec. (e)(1)(A). Pub. L. 110–417, §811(c)(5)(A)(i), inserted "or designated major subprogram" after "majordefense acquisition program" and "or subprogram" after "for the program".
 
 Subsec. (e)(1)(B). Pub. L. 110–417, §811(c)(5)(A)(ii), inserted "or designated major subprogram" after "major defense acquisition program" and "or subprogram" after "that program".
 
@@ -228,13 +228,13 @@ Subsec. (c)(1) to (3). Pub. L. 105–85, §833(b), inserted "or" at end of par. 
 
 Subsec. (d)(3). Pub. L. 105–85, §833(c), struck out "(for the first time since the beginning of the current fiscal year)" after "the Secretary concerned determines".
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3003(a)(1)(A), substituted "Baseline Estimate" for "Baseline Selected Acquisition Report" and "cost estimate included in the baseline description for the program under section 2435 of this title." for "Selected Acquisition Report in which information on the program is first included or the comprehensive annual Selected Acquisition Report for the fiscal year immediately before the fiscal year containing the quarter with respect to which the unit cost report is submitted, whichever is later."
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3003(a)(1)(A), substituted "Baseline Estimate" for "Baseline Selected Acquisition Report" and "cost estimate included in the baseline description for the program under section 2435 of this title." for "Selected Acquisition Report in which information on the program is first included orthe comprehensive annual Selected Acquisition Report for the fiscal year immediately before the fiscal year containing the quarter with respect to which the unit cost report is submitted, whichever is later."
 
 Subsec. (a)(4). Pub. L. 103–355, §3003(a)(1)(B), struck out par. (4) which defined "Baseline Report".
 
 Subsec. (b)(3). Pub. L. 103–355, §3003(b), substituted "contract was entered into" for "Baseline Report was submitted".
 
-Subsec. (c). Pub. L. 103–355, §§3002(a)(2)(A), 3003(a)(2)(A), (c), struck out par. (1) designation and par. (2), redesignated subpars. (A) to (C) as pars. (1) to\(3), respectively, substituted "Baseline Estimate" for "Baseline Report" in pars. (1) and (2), and struck out "current" before "procurement unit cost" in par. (2). Prior to amendment, former par. (2) related to submission of unit cost reports by major defense acquisition program manager to service acquisition executive designated by Secretary of Defense in certain circumstances.
+Subsec. (c). Pub. L. 103–355, §§3002(a)(2)(A), 3003(a)(2)(A), (c), struck out par. (1) designation and par. (2), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, substituted "Baseline Estimate" for "Baseline Report" in pars. (1) and (2), and struck out "current" before "procurement unit cost" in par. (2). Prior to amendment, former par. (2) related to submission of unit cost reports by major defense acquisition program manager to service acquisition executive designated by Secretary of Defense in certain circumstances.
 
 Subsec. (d)(1). Pub. L. 103–355, §3003(a)(2)(B), substituted "Baseline Estimate" for "Baseline Report".
 

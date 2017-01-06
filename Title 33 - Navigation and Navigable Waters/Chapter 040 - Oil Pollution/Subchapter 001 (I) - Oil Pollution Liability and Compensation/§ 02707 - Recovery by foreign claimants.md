@@ -12,7 +12,7 @@
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canada in the case of an incident described in subsection (b)(4) of this section.
+&emsp;Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canada in the case of an incident described in subsection (b)(4).
 
 #### (b) Discharges in foreign countries
 
@@ -42,5 +42,5 @@ In this section, the term "foreign claimant" means—
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generallyto chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 

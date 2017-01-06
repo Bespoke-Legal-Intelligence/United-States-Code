@@ -44,7 +44,7 @@ The State director of the cooperative extension service and the extension admini
 
 #### (2) Time and manner of payment; related reports
 
-&emsp;The amount to which an eligible institution is entitled shall be paid in equal quarterly payments on or about October 1, January 1, April 1, and July 1 of each year to the treasurer or other officer of the eligible institution duly authorized to receive such payments and such officer shall be required to report to the Secretary on or about the first day of December of each year a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary.
+&emsp;The amount to which an eligible institution is entitled shall be paid in equal quarterly payments on or about October 1, January 1, April 1, and July 1 of each year to the treasurer or other officer of the eligible institution duly authorized to receive such payments and such officer shall be required to report to the Secretary on or about the first day of December of each year a detailed statement of theamount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary.
 
 #### (3) Requirements related to plan of work
 
@@ -96,7 +96,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §§7121, 7403(c), substituted "20 percent" for "15 percent" and "under section 3(d) of that Act (7 U.S.C. 343(d))" for "after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary".
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §§7121, 7403(c), substituted "20 percent" for "15 percent" and "under section 3(d) of that Act (7 U.S.C. 343(d))" for "after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary".
 
 Subsec. (b)(2)(A). Pub. L. 110–246, §7511(c)(12), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
@@ -110,7 +110,7 @@ Subsecs. (a), (b). Pub. L. 105–185, §226(c)(2)(B), substituted "Tuskegee Univ
 
 Subsec. (d). Pub. L. 105–185, §225(a), inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted "The amount to which an eligible institution is entitled" for "Such sums", and added pars. (3) to (5).
 
-Subsecs. (f), (g). Pub. L. 105–185, §103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal toCongress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus."
+Subsecs. (f), (g). Pub. L. 105–185, §103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–127 inserted before period at end of third sentence ", except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary".
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date
 
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 #### West Virginia State College, Institute, West Virginia
 

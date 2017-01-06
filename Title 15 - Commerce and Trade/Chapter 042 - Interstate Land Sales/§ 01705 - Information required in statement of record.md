@@ -12,7 +12,7 @@ The statement of record shall contain the information and be accompanied by the 
 
 &emsp;(5) a statement of the present condition of access to the subdivision, the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer, the availability of sewage disposal facilities and other public utilities (including water, electricity, gas, and telephone facilities) in the subdivision, the proximity in miles of the subdivision to nearby municipalities, and the nature of any improvements to be installed by the developer and his estimated schedule for completion;
 
-&emsp;(6) in the case of any subdivision or portion thereof against which there exists a blanket encumbrance, a statement of the consequences for an individual purchaser of a failure, by the person or persons bound, to fulfill obligationsunder the instrument or instruments creating such encumbrance and the steps, if any, taken to protect the purchaser in such eventuality;
+&emsp;(6) in the case of any subdivision or portion thereof against which there exists a blanket encumbrance, a statement of the consequences for an individual purchaser of a failure, by the person or persons bound, to fulfill obligations under the instrument or instruments creating such encumbrance and the steps, if any, taken to protect the purchaser in such eventuality;
 
 &emsp;(7)(A) copy of its articles of incorporation, with all amendments thereto, if the developer is a corporation; (B) copies of all instruments by which the trust is created or declared, if the developer is a trust; (C) copies of its articles of partnership or association and all other papers pertaining to its organization, if the developer is a partnership, unincorporated association, joint stock company, or any other form of organization; and (D) if the purported holder of legal title is a person other than developer, copies of the above documents for such person;
 
@@ -36,5 +36,9 @@ The statement of record shall contain the information and be accompanied by the 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 

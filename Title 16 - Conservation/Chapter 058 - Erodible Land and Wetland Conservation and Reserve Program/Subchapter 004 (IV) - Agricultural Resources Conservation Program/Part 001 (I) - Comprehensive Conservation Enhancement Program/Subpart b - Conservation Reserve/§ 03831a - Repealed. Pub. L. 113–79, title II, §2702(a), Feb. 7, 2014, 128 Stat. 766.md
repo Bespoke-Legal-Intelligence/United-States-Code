@@ -16,7 +16,7 @@ Transitional Provisions.—
 
 &emsp;"(1)
 
-Effect on existing contracts and agreements.—The amendment made by this section shall not affect the validity or terms of any contract or agreement entered into by the Secretary of Agriculture under section 1231A of the Food Security Act of 1985 (16 U.S.C. 3831a) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract or agreement.
+Effect on existing contracts and agreements.—The amendment made by this section shall not affect the validity or terms of any contract or agreement entered into by the Secretary of Agriculture under section 1231A of the Food Security Act of 1985 (16 U.S.C. 3831a) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or anypayments required to be made in connection with the contract or agreement.
 
 &emsp;"(2)
 

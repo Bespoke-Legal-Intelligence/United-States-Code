@@ -100,7 +100,7 @@ For the Lower Hurdygurdy Creek (from Dry Lake to its confluence with the South F
 
 #### (d) Other restrictions on timber harvesting
 
-The provisions of this section shall be in addition to, and not in lieu of, any restrictions on timber harvesting or other activities applicableto the streamside protection zones established by this section under any other applicable provision of this subchapter.
+The provisions of this section shall be in addition to, and not in lieu of, any restrictions on timber harvesting or other activities applicable to the streamside protection zones established by this section under any other applicable provision of this subchapter.
 
 (Pub. L. 101–612, §11, Nov. 16, 1990, 104 Stat. 3219.)
 

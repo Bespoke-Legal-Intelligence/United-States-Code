@@ -4,7 +4,7 @@
 
 #### (1) Commodity Futures Trading Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consultand coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
 
 #### (2) Securities and Exchange Commission
 
@@ -40,7 +40,7 @@
 
 #### (B) Effect
 
-&emsp;&emsp;Nothing in this subtitle requires the Commodity Futures Trading Commission or the Securities and Exchange Commission toadopt joint rules or orders that treat functionally or economically similar products or entities described in paragraphs (1) and (2) in an identical manner.
+&emsp;&emsp;Nothing in this subtitle requires the Commodity Futures Trading Commission or the Securities and Exchange Commission to adopt joint rules or orders that treat functionally or economically similar products or entities described in paragraphs (1) and (2) in an identical manner.
 
 #### (8) Mixed swaps
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(A) give deference to the views of neither Commission; and
 
-&emsp;&emsp;(B) determine to affirm or set aside a rule, regulation, or order of the responding Commission under this subsection, based on the determination of the court as to whether therule, regulation, or order is in conflict with subsection (a)(7) or (b), as applicable.
+&emsp;&emsp;(B) determine to affirm or set aside a rule, regulation, or order of the responding Commission under this subsection, based on the determination of the court as to whether the rule, regulation, or order is in conflict with subsection (a)(7) or (b), as applicable.
 
 #### (4) Judicial stay
 
@@ -158,7 +158,7 @@
 
 #### (D) Comparable rules
 
-&emsp;&emsp;Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity Futures Trading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.
+&emsp;&emsp;Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity FuturesTrading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.
 
 #### (E) Tracking uncleared transactions
 

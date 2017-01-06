@@ -8,7 +8,7 @@
 
 #### (2) Loan repayment programs
 
-&emsp;The programs referred to in paragraph (1) are, subject to subsection (c) of this section, programs of entering into contracts under which the State involved agrees to pay all or part of the principal, interest, and related expenses of the educational loans of health professionals in consideration of the professionals agreeing to provide primary health services in health professional shortage areas.
+&emsp;The programs referred to in paragraph (1) are, subject to subsection (c), programs of entering into contracts under which the State involved agrees to pay all or part of the principal, interest, and related expenses of the educational loans of health professionals in consideration of the professionals agreeing to provide primary health services in health professional shortage areas.
 
 #### (3) Direct administration by State agency
 
@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State agrees that, with respect to the costs of making payments on behalf of individuals under contracts made pursuant to paragraph (2) of such subsection, the State will make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided in the grant.
+&emsp;The Secretary may not make a grant under subsection (a) unless the State agrees that, with respect to the costs of making payments on behalf of individuals under contracts made pursuant to paragraph (2) of such subsection, the State will make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution
 
@@ -28,29 +28,29 @@
 
 #### (1) Assignments for health professional shortage areas under Federal program
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out the program operated with the grant, the State will assign health professionals participating in the program only to public and nonprofit private entities located in and providing health services in health professional shortage areas.
+&emsp;The Secretary may not make a grant under subsection (a) unless the State involved agrees that, in carrying out the program operated with the grant, the State will assign health professionals participating in the program only to public and nonprofit private entities located in and providing health services in health professional shortage areas.
 
 #### (2) Remedies for breach of contracts
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
+&emsp;The Secretary may not make a grant under subsection (a) unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
 
 #### (3) Limitation regarding contract inducements
 
-&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254l–1 of this title, including terms regarding—
+&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant under subsection (a) unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254l–1 of this title, including terms regarding—
 
 &emsp;&emsp;(i) the annual amount of payments provided on behalf of the professionals regarding educational loans; and
 
 &emsp;&emsp;(ii) the availability of remedies for any breach of the contracts by the health professionals involved.
 
-&emsp;(B) With respect to the limitation established in subparagraph (A) regarding the annual amount of payments that may be provided to a health professional under a contract provided by a State pursuant to subsection (a)(2) of this section, such limitation shall not apply with respect to a contract if—
+&emsp;(B) With respect to the limitation established in subparagraph (A) regarding the annual amount of payments that may be provided to a health professional under a contract provided by a State pursuant to subsection (a)(2), such limitation shall not apply with respect to a contract if—
 
-&emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254l–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
+&emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254l–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b); and
 
 &emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254l of this title.
 
 #### (d) Restrictions on use of funds
 
-The Secretary may not make a grant under subsection (a) of this section unless the Stateinvolved agrees that the grant will not be expended—
+The Secretary may not make a grant under subsection (a) unless the State involved agrees that the grant will not be expended—
 
 &emsp;(1) to conduct activities for which Federal funds are expended—
 
@@ -60,11 +60,11 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;(C) under a grant under section 254r of this title; or
 
-&emsp;(2) for any purpose other than making payments on behalf of health professionals under contracts entered into pursuant to subsection (a)(2) of this section.
+&emsp;(2) for any purpose other than making payments on behalf of health professionals under contracts entered into pursuant to subsection (a)(2).
 
 #### (e) Reports
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees—
+The Secretary may not make a grant under subsection (a) unless the State involved agrees—
 
 &emsp;(1) to submit to the Secretary such reports regarding the States loan repayment program, as are determined to be appropriate by the Secretary; and
 
@@ -72,19 +72,19 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (f) Requirement of application
 
-The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
+The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
 
 #### (g) Noncompliance
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under subsection (a) of this section to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+&emsp;The Secretary may not make payments under subsection (a) to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
 #### (2) Reduction in grant relative to number of breached contracts
 
-&emsp;(A) Before making a grant under subsection (a) of this section to a State for a fiscal year, the Secretary shall determine the number of contracts provided by the State under paragraph (2) of such subsection with respect to which there has been an initial breach by the health professionals involved during the fiscal year preceding the fiscal year for which the State is applying to receive the grant.
+&emsp;(A) Before making a grant under subsection (a) to a State for a fiscal year, the Secretary shall determine the number of contracts provided by the State under paragraph (2) of such subsection with respect to which there has been an initial breach by the health professionals involved during the fiscal year preceding the fiscal year for which the State is applying to receive the grant.
 
-&emsp;(B) Subject to paragraph (3), in the case of a State with 1 or more initial breaches for purposes of subparagraph (A), the Secretary shall reduce the amount of a grant under subsection (a) of this section to the State for the fiscal year involved by an amount equal to the sum of the expenditures of Federal funds made regarding the contracts involved and an amount representing interest on the amount of such expenditures, determined with respect to each contract on the basis of the maximum legal rate prevailing for loans made during the time amounts were paid under the contract, as determined by the Treasurer of the United States.
+&emsp;(B) Subject to paragraph (3), in the case of a State with 1 or more initial breaches for purposes of subparagraph (A), the Secretary shall reduce the amount of a grant under subsection (a) to the State for the fiscal year involved by an amount equal to the sum of the expenditures of Federal funds made regarding the contracts involved and an amount representing interest on the amount of such expenditures, determined with respect to each contract on the basis of the maximum legal rate prevailing for loans made during the time amounts were paid under the contract, as determined by the Treasurer of the United States.
 
 #### (3) Waiver regarding reduction in grant
 
@@ -98,7 +98,7 @@ For purposes of this section, the term "State" means each of the 50 States, the 
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
+&emsp;For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
 
 #### (2) Availability
 
@@ -108,7 +108,7 @@ For purposes of this section, the term "State" means each of the 50 States, the 
 
 #### (1) In general
 
-&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under which such States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve in State, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
+&emsp;The Secretary may award grants to States for the purpose of assisting such States in operating loan repayment programs under whichsuch States enter into contracts to repay all or part of the eligible loans borrowed by, or on behalf of, individuals who agree to serve in State, local, or tribal health departments that serve health professional shortage areas or other areas at risk of a public health emergency, as designated by the Secretary.
 
 #### (2) Loans eligible for repayment
 

@@ -28,7 +28,7 @@ The Administrator of FEMA shall report to the Congress and the President not lat
 
 &emsp;(i) a summary of reviews, evaluations, and suggested improvements in State and local fire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
 
-(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, §110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat.2260; Pub. L. 106–503, title I, §110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 #### References in Text
 

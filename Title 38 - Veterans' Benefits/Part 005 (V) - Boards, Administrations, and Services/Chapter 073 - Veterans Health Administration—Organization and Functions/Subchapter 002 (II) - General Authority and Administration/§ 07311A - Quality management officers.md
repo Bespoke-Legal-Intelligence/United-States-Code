@@ -6,7 +6,7 @@ National Quality Management Officer.—(1) The Under Secretary for Health shall 
 
 (2) The National Quality Management Officer shall report directly to the Under Secretary for Health in the discharge of responsibilities and duties of the Officer under this section.
 
-(3) The National Quality Management Officer shall be the official within the Veterans Health Administration who is principally responsible for the quality-assurance program referred to in paragraph (1). In carrying out that responsibility, the Officer shall be responsible for the following:
+(3) The National Quality Management Officer shall be the official within the Veterans HealthAdministration who is principally responsible for the quality-assurance program referred to in paragraph (1). In carrying out that responsibility, the Officer shall be responsible for the following:
 
 &emsp;(A) Establishing and enforcing the requirements of the program referred to in paragraph (1).
 

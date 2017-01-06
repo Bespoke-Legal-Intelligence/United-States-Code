@@ -1,6 +1,6 @@
 ### §§1571 to 1583. Repealed. Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059
 
-Section 1571, Pub. L. 97–300, title I, §161, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 100–495, §1, Oct. 17, 1988, 102 Stat.2454; Pub. L. 102–367, title VII, §702(a)(7), (8), Sept. 7, 1992, 106 Stat. 1112, related to program year.
+Section 1571, Pub. L. 97–300, title I, §161, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 100–495, §1, Oct. 17, 1988, 102 Stat. 2454; Pub. L. 102–367, title VII, §702(a)(7), (8), Sept. 7, 1992, 106 Stat. 1112, related to program year.
 
 Section 1572, Pub. L. 97–300, title I, §162, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 102–367, title I, §141, Sept. 7, 1992, 106 Stat. 1046, related to prompt allocation of funds.
 

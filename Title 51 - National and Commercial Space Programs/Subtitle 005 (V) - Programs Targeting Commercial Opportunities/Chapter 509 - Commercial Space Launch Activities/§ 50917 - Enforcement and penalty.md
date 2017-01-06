@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibitions.—A person may not violate this chapter, a regulation prescribed under thischapter, or any term of a license issued or transferred under this chapter.
+Prohibitions.—A person may not violate this chapter, a regulation prescribed under this chapter, or any term of a license issued or transferred under this chapter.
 
 (b)
 

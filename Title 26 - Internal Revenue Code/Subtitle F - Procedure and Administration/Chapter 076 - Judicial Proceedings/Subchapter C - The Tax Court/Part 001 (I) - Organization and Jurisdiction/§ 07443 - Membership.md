@@ -98,15 +98,15 @@ Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 460.
 
 Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 543.
 
-Pub. L. 106–554, §1(a)(3) \[title IV\], Dec. 21, 2000, 114 Stat. 2763, 2763A-150.
+Pub. L. 106–554, §1(a)(3) \[title IV\], Dec. 21, 2000, 114 Stat. 2763, 2763A–150.
 
 Pub. L. 106–58, title IV, Sept. 29, 1999, 113 Stat. 463.
 
-Pub. L. 105–277, div. A, §101(h) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–480, 2681-510.
+Pub. L. 105–277, div. A, §101(h) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–510.
 
 Pub. L. 105–61, title IV, Oct. 10, 1997, 111 Stat. 1304.
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title IV\], Sept. 30, 1996, 110 Stat. 3009–314, 3009-344.
+Pub. L. 104–208, div. A, title I, §101(f) \[title IV\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344.
 
 Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 491.
 
@@ -124,9 +124,9 @@ Pub. L. 101–136, title IV, Nov. 3, 1989, 103 Stat. 811.
 
 Pub. L. 100–440, title IV, Sept. 22, 1988, 102 Stat. 1746.
 
-Pub. L. 100–202, §101(m) \[title IV\], Dec. 22, 1987, 101 Stat. 1329–390, 1329-414.
+Pub. L. 100–202, §101(m) \[title IV\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–414.
 
-Pub. L. 99–500, §101(m) \[title IV\], Oct. 18, 1986, 100 Stat. 1783–308, 1783-323, and Pub. L. 99–591, §101(m) \[title IV\], Oct. 30, 1986, 100 Stat. 3341–308, 3341-323.
+Pub. L. 99–500, §101(m) \[title IV\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–323, and Pub. L. 99–591, §101(m) \[title IV\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–323.
 
 Pub. L. 99–190, title I, §101(h) \[H.R. 3036, title IV\], Dec. 19, 1985, 99 Stat. 1291.
 

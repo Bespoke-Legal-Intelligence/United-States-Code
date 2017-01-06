@@ -60,13 +60,13 @@
 
 &emsp;The procedures established under paragraph (1) shall provide that a public housing agency shall—
 
-&emsp;&emsp;(A) in developing the plan consult with the resident advisory board established under subsection (e) of this section; and
+&emsp;&emsp;(A) in developing the plan consult with the resident advisory board established under subsection (e); and
 
 &emsp;&emsp;(B) ensure that the plan under this section is consistent with the applicable comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the jurisdiction in which the public housing agency is located, in accordance with title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\], and contains a certification by the appropriate State or local official that the plan meets the requirements of this paragraph and a description of the manner in which the applicable contents of the public housing agency plan are consistent with the comprehensive housing affordability strategy.
 
 #### (d) Contents
 
-An annual public housing agency plan under subsection (b) of this section for a public housing agency shall contain the following information relating to the upcoming fiscal year for which the assistance under this chapter is to be made available:
+An annual public housing agency plan under subsection (b) for a public housing agency shall contain the following information relating to the upcoming fiscal year for which the assistance under this chapter is to be made available:
 
 #### (1) Needs
 
@@ -90,7 +90,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (5) Operation and management
 
-&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication ofpest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
+&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
 
 #### (6) Grievance procedure
 
@@ -218,7 +218,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
+&emsp;In developing a public housing agency plan under this section, the board of directors orsimilar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
 
 #### (2) Availability of information and notice
 
@@ -244,7 +244,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
 
 #### (5) Qualified public housing agencies
 
@@ -276,15 +276,15 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;&emsp;(A) be adopted, other than at a duly called meeting of board of directors (or similar governing body) of the public housing agency that is open to the public; and
 
-&emsp;&emsp;(B) be implemented, until notification of the amendment or modification is provided to the Secretary and approved in accordance with subsection (i) of this section.
+&emsp;&emsp;(B) be implemented, until notification of the amendment or modification is provided to the Secretary and approved in accordance with subsection (i).
 
 #### (2) Consistency and notice
 
 &emsp;Each significant amendment or modification to a public housing agency plan submitted to the Secretary under this section shall—
 
-&emsp;&emsp;(A) meet the requirements under subsection (c)(2) of this section (relating to consultation with resident advisory board and consistency with comprehensive housing affordability strategies); and
+&emsp;&emsp;(A) meet the requirements under subsection (c)(2) (relating to consultation with resident advisory board and consistency with comprehensive housing affordability strategies); and
 
-&emsp;&emsp;(B) be subject to the notice and public hearing requirements of subsection (f) of this section.
+&emsp;&emsp;(B) be subject to the notice and public hearing requirements of subsection (f).
 
 #### (h) Submission of plans
 
@@ -310,7 +310,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (2) Elements exempted from review
 
-&emsp;The Secretary may, by regulation, provide that one or more elements of a public housing agency plan shall be reviewed only if the element is challenged, except that the Secretary shall review the information submitted in each plan pursuant to paragraphs (3)(B), (8), and (15) of subsection (d) of this section.
+&emsp;The Secretary may, by regulation, provide that one or more elements of a public housing agency plan shall be reviewed only if the element is challenged, except that the Secretary shall review the information submitted in each plan pursuant to paragraphs (3)(B), (8), and (15) of subsection (d).
 
 #### (3) Disapproval
 
@@ -320,7 +320,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subsection (j)(2) of this section, not later than 75 days after the date on which a public housing agency plan is submitted in accordance with this section, the Secretary shall make the determination under paragraph (1) and provide written notice to the public housing agency if the plan has been disapproved. If the Secretary disapproves the plan, the notice shall state with specificity the reasons for the disapproval.
+&emsp;&emsp;Except as provided in subsection (j)(2), not later than 75 days after the date on which a public housing agency plan is submitted in accordance with this section, the Secretary shall make the determination under paragraph (1) and provide written notice to the public housing agency if the plan has been disapproved. If the Secretary disapproves the plan, the notice shall state with specificity the reasons for the disapproval.
 
 #### (B) Failure to provide notice of disapproval
 
@@ -370,7 +370,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. TitleVI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 

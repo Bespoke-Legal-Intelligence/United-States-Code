@@ -16,7 +16,7 @@ The notification required by subsection (a) of this section shall be accomplishe
 
 #### (c) Form and requisites of notification
 
-The notification required by subsection (a) of this section shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants' safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction or safety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) of this section or otherwise, or is a defect which must be corrected at the expense of the owner.
+The notification required by subsection (a) of this section shall contain a clear description of such defect or failure to comply, an evaluation of the risk to manufactured home occupants' safety reasonably related to such defect, and a statement of the measures needed to repair the defect. The notification shall also inform the owner whether the defect is a construction orsafety defect which the manufacturer will have corrected at no cost to the owner of the manufactured home under subsection (g) of this section or otherwise, or is a defect which must be corrected at the expense of the owner.
 
 #### (d) Copy to Secretary of all notices, bulletins, and communications sent by manufacturer to retailers and purchasers concerning defects; disclosure to public by Secretary
 
@@ -52,7 +52,7 @@ The manufacturer shall submit his plan for notifying owners of the defect and fo
 
 #### (i) Defective or inadequately repaired manufactured homes; replacement with new or equivalent home or refund of purchase price
 
-Where a defect or failure to comply in a manufactured home cannot be adequately repaired within sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
+Where a defect or failure to comply in a manufactured home cannot be adequately repairedwithin sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
 
 (Pub. L. 93–383, title VI, §615, Aug. 22, 1974, 88 Stat. 709; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(3), Dec. 27, 2000, 114 Stat. 2999.)
 

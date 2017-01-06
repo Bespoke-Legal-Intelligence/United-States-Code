@@ -13,22 +13,29 @@
 | [2559\.](%C2%A7%2002559%20-%20Provision%20of%20medical%20care%20to%20foreign%20military%20and%20diplomatic%20personnel%20reimbursement%20required%3B%20waiver%20for%20provision%20of%20reciprocal%20services.md) | Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services. |
 | [2560\.](%C2%A7%2002560%20-%20Aircraft%20and%20vehicles%20limitation%20on%20leasing%20to%20non-Federal%20agencies.md) | Aircraft and vehicles: limitation on leasing to non-Federal agencies. |
 | [2561\.](%C2%A7%2002561%20-%20Humanitarian%20assistance.md) | Humanitarian assistance. |
-| [2562\.](%C2%A7%2002562%20-%20Limitation%20on%20use%20of%20excess%20construction%20or%20fire%20equipment%20from%20Department%20of%20Defense%20stocks%20in%20foreign%20assistance%20or%20military%20sales%E2%80%A6.md) | Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs. |
+| \[2562. | Repealed.\] |
 | [2563\.](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md) | Articles and services of industrial facilities: sale to persons outside the Department of Defense. |
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
 | [2564a.](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md) | Provision of assistance for adaptive sports programs for members of the armed forces. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
-| \[2567. | Repealed.\] |
+| [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2568\.](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md) | Retention of combat uniforms by members deployed in support of contingency operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Prior Provisions
 
-Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, priorto amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
+Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1253(a)(2)(C), div. B, title XXVIII, §2812(b), Dec. 23, 2016, 130 Stat. 2532, 2717, struck out item 2562 "Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs" and added item 2567.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §589(b). See 2011 Amendment note below.
 
@@ -74,6 +81,8 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 
 <b>1958</b>—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -90,11 +99,11 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02559 - Provision of medical care to foreign military and diplomatic personnel reimbursement required; waiver for provision of reciprocal services](%C2%A7%2002559%20-%20Provision%20of%20medical%20care%20to%20foreign%20military%20and%20diplomatic%20personnel%20reimbursement%20required%3B%20waiver%20for%20provision%20of%20reciprocal%20services.md)
 - [&sect; 02560 - Aircraft and vehicles limitation on leasing to non-Federal agencies](%C2%A7%2002560%20-%20Aircraft%20and%20vehicles%20limitation%20on%20leasing%20to%20non-Federal%20agencies.md)
 - [&sect; 02561 - Humanitarian assistance](%C2%A7%2002561%20-%20Humanitarian%20assistance.md)
-- [&sect; 02562 - Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales&#8230;](%C2%A7%2002562%20-%20Limitation%20on%20use%20of%20excess%20construction%20or%20fire%20equipment%20from%20Department%20of%20Defense%20stocks%20in%20foreign%20assistance%20or%20military%20sales%E2%80%A6.md)
+- [&sect; 02562 - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1253(a)(1)(C), Dec. 23, 2016, 130 Stat. 2532](%C2%A7%2002562%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71253%28a%29%281%29%28C%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202532.md)
 - [&sect; 02563 - Articles and services of industrial facilities sale to persons outside the Department of Defense](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md)
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
 - [&sect; 02564a - Provision of assistance for adaptive sports programs for members of the armed forces](%C2%A7%2002564a%20-%20Provision%20of%20assistance%20for%20adaptive%20sports%20programs%20for%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
 - [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)
-- [&sect; 02567 - Repealed. Pub. L. 110&#8211;181, div. A, title X, &sect;1068(b)(1), Jan. 28, 2008, 122 Stat. 326](%C2%A7%2002567%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71068%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20326.md)
+- [&sect; 02567 - Space and services provision to WIC offices](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md)
 - [&sect; 02568 - Retention of combat uniforms by members deployed in support of contingency operations](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md)

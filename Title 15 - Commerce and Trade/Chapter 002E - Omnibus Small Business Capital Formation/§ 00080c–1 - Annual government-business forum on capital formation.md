@@ -2,7 +2,7 @@
 
 #### (a) Responsibility of Securities Exchange Commission
 
-Pursuant to the consultation called for in section 80c of this title, the Securities and Exchange Commission shall conduct an annual Government-business forum to review the current status of problems and programs relating to small business capital formation.
+Pursuant to the consultation called for in section 80c of this title, the Securities and Exchange Commission (acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee) shall conduct an annual Government-business forum to review the current status of problems and programs relating to small business capital formation.
 
 #### (b) Participation in forum planning
 
@@ -16,9 +16,17 @@ The Commission may request any of the Federal departments, agencies, or organiza
 
 A summary of the proceedings of such forums and any findings or recommendations thereof shall be prepared and transmitted to the participants, appropriate committees of the Congress, and others who may be interested in the subject matter.
 
-(Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292.)
+(Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 114–284, §2(c), Dec. 16, 2016, 130 Stat. 1452.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–284 inserted "(acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee)" after "the Securities and Exchange Commission".
+
+#### Effective Date
+
+Section effective Jan. 1, 1981, see section 507 of Pub. L. 96–477, set out as a note under section 80c of this title.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 190), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 190), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

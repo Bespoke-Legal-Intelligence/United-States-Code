@@ -32,7 +32,7 @@ Maximum Length of Delay in Promotion.—The appointment of an officer to a highe
 
 (e)
 
-Delay Because of Limitations on Officer Strength in Grade or Duties to Which Assigned.—(1) Under regulations prescribed by the Secretary of Defense, the promotion of a reserve officer on the reserve active-status list who is serving on active duty, or who is on full-time National Guard duty for administration of the reserves or the National Guard, to a grade to which the strength limitations of section 12011 of this title apply shall be delayed if necessary to ensure compliance with those strength limitations. The delay shall expire when the Secretary determines that the delay is no longer required to ensure such compliance.
+Delay Because of Limitations on Officer Strength in Grade or Duties to Which Assigned.—(1) Under regulations prescribed by theSecretary of Defense, the promotion of a reserve officer on the reserve active-status list who is serving on active duty, or who is on full-time National Guard duty for administration of the reserves or the National Guard, to a grade to which the strength limitations of section 12011 of this title apply shall be delayed if necessary to ensure compliance with those strength limitations. The delay shall expire when the Secretary determines that the delay is no longer required to ensure such compliance.
 
 (2) The promotion of an officer described in paragraph (1) shall also be delayed while the officer is on duty described in that paragraph unless the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, determines that the duty assignment of the officer requires a higher grade than the grade currently held by the officer.
 
@@ -40,7 +40,7 @@ Delay Because of Limitations on Officer Strength in Grade or Duties to Which Ass
 
 (4) If an officer whose promotion is delayed under paragraph (1) or (2) completes the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may request release from active duty or full-time National Guard duty. If the request is granted, the officer's promotion shall be effective upon the officer's release from such duty. The date of rank and position on the reserve active-status list of the officer shall be the date the officer would have been promoted to or recognized in the higher grade had the limitations imposed under regulations prescribed by the Secretary of Defense contained in section 12011 of this title not existed. If an officer whose promotion is delayed under paragraph (1) or (2) has not completed the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may be retained on active duty or on full-time National Guard duty in the grade in which the officer was serving before the officer's being found qualified for Federal recognition or the officer's selection for the promotion until the officer completes that required period of duty.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2939; amended Pub. L. 107–107, div. A, title V, §505(c)(2)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, §511(b), Oct. 17, 2006, 120 Stat. 2182; Pub. L.111–383, div. A, title X, §1075(g)(4), Jan. 7, 2011, 124 Stat. 4377.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2939; amended Pub. L. 107–107, div. A, title V, §505(c)(2)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, §511(b), Oct. 17, 2006, 120 Stat. 2182; Pub. L. 111–383, div. A, title X, §1075(g)(4), Jan. 7, 2011, 124 Stat. 4377.)
 
 #### Prior Provisions
 
@@ -72,11 +72,15 @@ Pub. L. 111–383, div. A, title X, §1075(g), Jan. 7, 2011, 124 Stat. 4376, pro
 
 Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e) of Pub. L. 109–364, set out as a note under section 624 of this title.
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
 #### Delays in Promotions
 
 Pub. L. 103–337, div. A, title XVI, §1684(a), Oct. 5, 1994, 108 Stat. 3024, provided that:
 
 "(1) A delay in a promotion that is in effect on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect on that date shall continue in effect on and after that date as if the promotion had been delayed under section 14311 of title 10, United States Code, as added by this title.
 
-"(2) The delay of the promotion of a reserve officer of the Army or the Air Force which was in effect solely to achieve compliance with limitations set out in section 524 of title 10, United States Code, or with regulations prescribed by the Secretary of Defense with respect to sections 3380(c) and 8380(c) of title 10, United States Code, as in effect on the day before the effective date of this title, shall continue in effect as if the promotion had been delayed under section 14311(e) of such title, as added by this title."
+"(2) The delay of the promotion of a reserve officer of the Army or the Air Force which was in effect solely to achieve compliance with limitations set out in section 524 of title 10, United States Code, or with regulationsprescribed by the Secretary of Defense with respect to sections 3380(c) and 8380(c) of title 10, United States Code, as in effect on the day before the effective date of this title, shall continue in effect as if the promotion had been delayed under section 14311(e) of such title, as added by this title."
 

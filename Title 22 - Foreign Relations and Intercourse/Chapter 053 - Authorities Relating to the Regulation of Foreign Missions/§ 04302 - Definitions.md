@@ -44,11 +44,11 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title", meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title II of act Aug. 1,1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to\(7), respectively. Prior to amendment, par. (3) read as follows: " 'Director' means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;".
+<b>1994</b>—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: " 'Director' means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;".
 
 <b>1987</b>—Subsec. (a)(1)(G). Pub. L. 100–204 added subpar. (G).
 

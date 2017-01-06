@@ -128,5 +128,5 @@ Pub. L. 95–539, §11, Oct. 28, 1978, 92 Stat. 2045, provided that: "Any contra
 
 #### Employment of Experts or Consultants; Rates
 
-Pub. L. 86–370, §5(b), Sept. 23, 1959, 73 Stat. 652, authorized the Director of the Administrative Office of the United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by Pub. L. 95–539, §8, Oct. 28, 1978, 92 Stat. 2044.
+Pub. L. 86–370, §5(b), Sept. 23, 1959, 73 Stat. 652, authorized the Director of the Administrative Office ofthe United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by Pub. L. 95–539, §8, Oct. 28, 1978, 92 Stat. 2044.
 

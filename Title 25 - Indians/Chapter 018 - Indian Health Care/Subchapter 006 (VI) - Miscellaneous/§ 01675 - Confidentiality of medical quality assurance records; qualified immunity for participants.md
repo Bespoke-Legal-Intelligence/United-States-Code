@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Medical quality assurance program
 
-&emsp;The term "medical quality assurance program" means any activity carried out before,on, or after March 23, 2010, by or for any Indian health program or urban Indian organization to assess the quality of medical care, including activities conducted by or on behalf of individuals, Indian health program or urban Indian organization medical or dental treatment review committees, or other review bodies responsible for quality assurance, credentials, infection control, patient safety, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review, and identification and prevention of medical or dental incidents and risks.
+&emsp;The term "medical quality assurance program" means any activity carried out before, on, or after March 23, 2010, by or for any Indian health program or urban Indian organization to assess the quality of medical care, including activities conducted by or on behalf of individuals, Indian health program or urban Indian organization medical or dental treatment review committees, or other review bodies responsible for quality assurance, credentials, infection control, patient safety, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review, and identification and prevention of medical or dental incidents and risks.
 
 #### (3) Medical quality assurance record
 
@@ -52,7 +52,7 @@ Medical quality assurance records created by or for any Indian health program or
 
 &emsp;&emsp;(B) To an administrative or judicial proceeding commenced by a present or former Indian health program or urban Indian organization provider concerning the termination, suspension, or limitation of clinical privileges of such health care provider.
 
-&emsp;&emsp;(C) To a governmental board or agency or to a professional health care society or organization, if such medical quality assurance record or testimony is needed by such board, agency, society, or organization to perform licensing, credentialing, or the monitoring of professional standards with respect to any health care provider who is or was an employee of any Indian health program or urban Indian organization.
+&emsp;&emsp;(C) To a governmental board or agency or to a professional health care society or organization, if such medical quality assurance record or testimony is needed by such board,agency, society, or organization to perform licensing, credentialing, or the monitoring of professional standards with respect to any health care provider who is or was an employee of any Indian health program or urban Indian organization.
 
 &emsp;&emsp;(D) To a hospital, medical center, or other institution that provides health care services, if such medical quality assurance record or testimony is needed by such institution to assess the professional qualifications of any health care provider who is or was an employee of any Indian health program or urban Indian organization and who has applied for or been granted authority or employment to provide health care services in or on behalf of such program or organization.
 
@@ -70,7 +70,7 @@ Medical quality assurance records created by or for any Indian health program or
 
 #### (1) In general
 
-&emsp;Nothing in this section shall be construed as authorizing or requiring the withholding fromany person or entity aggregate statistical information regarding the results of any Indian health program or urban Indian organization's medical quality assurance programs.
+&emsp;Nothing in this section shall be construed as authorizing or requiring the withholding from any person or entity aggregate statistical information regarding the results of any Indian health program or urban Indian organization's medical quality assurance programs.
 
 #### (2) Withholding from Congress
 

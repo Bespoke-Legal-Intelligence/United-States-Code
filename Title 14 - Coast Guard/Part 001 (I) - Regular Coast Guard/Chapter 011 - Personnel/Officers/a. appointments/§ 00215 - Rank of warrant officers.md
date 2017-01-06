@@ -8,5 +8,5 @@
 
 #### Effective Date
 
-Section effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L.103–337, set out as an Effective Date of 1994 Amendment note under section 571 of Title 10, Armed Forces.
+Section effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as an Effective Date of 1994 Amendment note under section 571 of Title 10, Armed Forces.
 

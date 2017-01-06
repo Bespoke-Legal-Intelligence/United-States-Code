@@ -16,7 +16,7 @@ In this section, the term "administrative organization" means a nonprofit privat
 
 #### (2) Identified projects
 
-&emsp;The administrative organization may identify approximately the estimated number of community-based national and community service projects that meet the requirements of subsection (d) of this section. The administrative organization may name projects in honor of victims described in subsection (b)(1)(A) of this section, after obtaining the permission of an appropriate member of the victim's family and the entity carrying out the project.
+&emsp;The administrative organization may identify approximately the estimated number of community-based national and community service projects that meet the requirements of subsection (d). The administrative organization may name projects in honor of victims described in subsection (b)(1)(A), after obtaining the permission of an appropriate member of the victim's family and the entity carrying out the project.
 
 #### (c) Eligible entities
 

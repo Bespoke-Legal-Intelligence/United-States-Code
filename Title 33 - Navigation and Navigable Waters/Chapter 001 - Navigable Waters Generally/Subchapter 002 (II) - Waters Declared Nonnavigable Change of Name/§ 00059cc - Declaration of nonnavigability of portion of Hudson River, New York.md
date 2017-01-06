@@ -2,7 +2,7 @@
 
 #### (a) Declaration of nonnavigability
 
-Subject to subsections (c), (d), and (e) of this section, the area described in subsection (b) of this section is declared to be nonnavigable waters of the United States.
+Subject to subsections (c), (d), and (e), the area described in subsection (b) is declared to be nonnavigable waters of the United States.
 
 #### (b) Area subject to declaration
 
@@ -24,7 +24,7 @@ The area described in this subsection is the portion of the Hudson River, New Yo
 
 &emsp;Thence south 11°–05′–40″ east, 42.40 feet to a point of curvature;
 
-&emsp;Thence southerly, on the arc of a circle curving to the right, having a radius of 220.00 feet and a central angle of 16°–37′–40″, 63.85 feet to a point of compound curvature;
+&emsp;Thence southerly, on the arc of a circle curving to the right, having a radius of 220.00feet and a central angle of 16°–37′–40″, 63.85 feet to a point of compound curvature;
 
 &emsp;Thence still southerly, on the arc of a circle curving to the right, having a radius of 150.00 feet and a central angle of 38°–39′–00″, 101.19 feet to another point of compound curvature;
 
@@ -62,7 +62,7 @@ The area described in this subsection is the portion of the Hudson River, New Yo
 
 #### (c) Determination of public interest
 
-The declaration made in subsection (a) of this section shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
+The declaration made in subsection (a) shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
 
 &emsp;(1) before the date which is 120 days after the date of the submission to the Secretary of appropriate plans for the proposed project; and
 
@@ -72,11 +72,11 @@ The declaration made in subsection (a) of this section shall not take effect if 
 
 #### (1) Affected area
 
-&emsp;The declaration made in subsection (a) of this section shall apply only to those portions of the area described in subsection (b) of this section which are or will be occupied by permanent structures (including docking facilities) comprising the proposed project.
+&emsp;The declaration made in subsection (a) shall apply only to those portions of the area described in subsection (b) which are or will be occupied by permanent structures (including docking facilities) comprising the proposed project.
 
 #### (2) Application of other laws
 
-&emsp;Notwithstanding subsection (a) of this section, all activities conducted in the area described in subsection (b) of this section are subject to all Federal laws which apply to such activities, including—
+&emsp;Notwithstanding subsection (a), all activities conducted in the area described in subsection (b) are subject to all Federal laws which apply to such activities, including—
 
 &emsp;&emsp;(A) sections 401 and 403 of this title;
 
@@ -86,17 +86,17 @@ The declaration made in subsection (a) of this section shall not take effect if 
 
 #### (e) Expiration date
 
-The declaration made in subsection (a) of this section shall expire—
+The declaration made in subsection (a) shall expire—
 
-&emsp;(1) on the date which is 6 years after December 18, 1991, if work on the proposed project to be performed in the area described in subsection (b) of this section is not commenced before such date; or
+&emsp;(1) on the date which is 6 years after December 18, 1991, if work on the proposed project to be performed in the area described in subsection (b) is not commenced before such date; or
 
-&emsp;(2) on the date which is 20 years after December 18, 1991, for any portion of the area described in subsection (b) of this section which on such date is not bulkheaded, filled, or occupied by a permanent structure (including docking facilities).
+&emsp;(2) on the date which is 20 years after December 18, 1991, for any portion of the area described in subsection (b) which on such date is not bulkheaded, filled, or occupied by a permanent structure (including docking facilities).
 
 #### (f) "Proposed project" defined
 
 For the purposes of this section, the term "proposed project" means any project for the rehabilitation and development of—
 
-&emsp;(1) the structure located in the area described in subsection (b) of this section, commonly referred to as Pier A; and
+&emsp;(1) the structure located in the area described in subsection (b), commonly referred to as Pier A; and
 
 &emsp;(2) the area surrounding such structure.
 

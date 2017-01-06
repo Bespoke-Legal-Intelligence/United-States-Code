@@ -4,7 +4,7 @@
 
 The Board may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
 
-&emsp;(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members of the Broadcasting Board of Governors established under section 6203 of this title and of no other members; and
+&emsp;(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under section 6204(a)(20) of this title; and
 
 &emsp;(2) such Board of Directors shall make all major policy determinations governing the operation of RFE/RL, Incorporated, and shall appoint and fix the compensation of such managerial officers and employees of RFE/RL, Incorporated, as it considers necessary to carry out the purposes of the grant provided under this chapter.
 
@@ -20,7 +20,7 @@ The total amount of grants made for the operating costs of RFE/RL, Incorporated,
 
 #### (d) Alternative grantee
 
-If the Board determines at any time that RFE/RL, Incorporated, is not carrying out the functions described in section 6208 of this title in an effective and economical manner, the Board may award the grant to carry out such functions to another entity after soliciting and considering applications from eligible entities in such manner and accompanied by such information as the Board may reasonably require.
+If the Chief Executive Officer determines at any time that RFE/RL, Incorporated is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
 
 #### (e) Not a Federal agency or instrumentality
 
@@ -28,7 +28,7 @@ Nothing in this chapter may be construed to make RFE/RL, Incorporated a Federal 
 
 #### (f) Authority
 
-Grants authorized under section 6204 of this title for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994, with respect to Radio Free Europeand Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 \[22 U.S.C. 2871\], as in effect on such date.
+Grants authorized under section 6204 of this title for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994, with respect to Radio Free Europe and Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 \[22 U.S.C. 2871\], as in effect on such date.
 
 #### (g) Grant agreement
 
@@ -40,7 +40,7 @@ Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance wi
 
 &emsp;(3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Board or the United States;
 
-&emsp;(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the International Broadcasting Bureau be reduced to the extent appropriate, as determined by the Board; and
+&emsp;(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the <sup>1</sup> any other grantee of the Board be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
 
 &emsp;(5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Board gives its prior written approval.
 
@@ -64,7 +64,7 @@ No grant funds provided under this section may be used for the following purpose
 
 #### (i) Report on management practices
 
-(1) <sup>1</sup> Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
+Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 
 #### (j) Audit authority
 
@@ -74,7 +74,7 @@ No grant funds provided under this section may be used for the following purpose
 
 (3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
-(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(l)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(l)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–328, div. A, title XII, §1288(5), Dec. 23, 2016, 130 Stat. 2552.)
 
 #### References in Text
 
@@ -84,9 +84,17 @@ The foreign relations laws of the United States, referred to in subsec. (h)(1)(A
 
 The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §1288(5)(A), which directed substitution of "authorized under section 6204(a)(20) of this title" for "of the Broadcasting Board of Governors established under section 6203 of this title and no other members", was executed by making the substitution for "of the Broadcasting Board of Governors established under section 6203 of this title and of no other members", to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 114–328, §1288(5)(B), amended subsec. (d) generally. Prior to amendment, text read as follows: "If the Board determines at any time that RFE/RL, Incorporated, is not carrying out the functions described in section 6208 of this title in an effective and economical manner, the Board may award the grant to carry out such functions to another entity after soliciting and considering applications from eligible entities in such manner and accompanied by such information as the Board may reasonably require."
+
+Subsec. (g)(4). Pub. L. 114–328, §1288(5)(C), substituted "any other grantee of the Board" for "International Broadcasting Bureau" and "by the Chief Executive Officer" for "by the Board".
+
+Subsec. (i). Pub. L. 114–328, §1288(5)(D), struck out par. (1) designation before "Effective".
 
 <b>2004</b>—Subsec. (j)(1), (2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
@@ -114,5 +122,5 @@ Pub. L. 99–93, title III, §305(b), Aug. 16, 1985, 99 Stat. 436, provided that
 
 &emsp;"(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated."
 
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

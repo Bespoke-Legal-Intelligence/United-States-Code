@@ -2,19 +2,35 @@
 
 (a)
 
-General Conditions.—As conditions of receiving an annual payment or the use of a vessel under this chapter, a State maritime academy must—
+General Conditions.—As conditions of receiving an annual payment or the use of a vessel under this chapter, a State maritime academy shall—
 
 &emsp;(1) provide courses of instruction on navigation, marine engineering (including steam and diesel propulsion), the operation and maintenance of new vessels and equipment, and innovations being introduced to the merchant marine of the United States;
 
-&emsp;(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies; and
+&emsp;(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies;
 
-&emsp;(3) agree in writing to require, as a condition for graduation, that each individual who is a citizen of the United States and who is attending the academy in a merchant marine officer preparation program pass the examination required for the issuance of a license under section 7101 of this title.
+&emsp;(3) agree in writing to require, as a condition for graduation, that each individual who is a citizen of the United States and who is attending the academy in a merchant marine officer preparation program pass the examination required for the issuance of a license under section 7101 of this title; and
+
+&emsp;(4) agree that any individual enrolled at such State maritime academy in a merchant marine officer preparation program—
+
+&emsp;&emsp;(A) shall, not later than 9 months after such individual's date of enrollment, pass an examination in form and substance satisfactory to the Secretary that demonstrates that such individual meets the medical and physical requirements—
+
+&emsp;&emsp;&emsp;(i) required for the issuance of an original license under section 7101; or
+
+&emsp;&emsp;&emsp;(ii) set by the Coast Guard for issuing merchant mariners' documentation under section 7302, with no limit to the individual's operational authority;
+
+&emsp;&emsp;(B) following passage of the examination under subparagraph (A), shall continue to meet the requirements described in subparagraph (A) throughout the remainder of the individual's enrollment at the State maritime academy; and
+
+&emsp;&emsp;(C) if the individual has a medical or physical condition that disqualifies the individual from meeting the requirements referred to in subparagraph (A), shall be transferred to a program other than a merchant marine officer preparation program, or otherwise appropriately disenrolled from such State maritime academy, until the individual demonstrates to the Secretary that the individual meets such requirements.
 
 (b)
 
-Additional Condition to Payments of More Than $25,000.—As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
+Additional Condition to Payments of More Than $25,000.—As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in aState not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579.)
+(c)
+
+Secretarial Waiver Authority.—The Secretary may modify or waive any of the terms set forth in subsection (a)(4) with respect to any individual or State maritime academy.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 114–328, div. C, title XXXV, §3515, Dec. 23, 2016, 130 Stat. 2788.)
 
 Historical and Revision Notes
 
@@ -33,4 +49,12 @@ Historical and Revision Notes
 June 29, 1936, ch. 858, title XIII, §1304(f), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2004; Pub. L. 101–115, §3(a), Oct. 13, 1989, 103 Stat. 692.
 
 In subsection (a)(3), the words "administered by the Coast Guard" are omitted as unnecessary.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §3515(1)(A), substituted "shall" for "must" in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 114–328, §3515(1)(B)–(D), added par. (4).
+
+Subsec. (c). Pub. L. 114–328, §3515(2), added subsec. (c).
 

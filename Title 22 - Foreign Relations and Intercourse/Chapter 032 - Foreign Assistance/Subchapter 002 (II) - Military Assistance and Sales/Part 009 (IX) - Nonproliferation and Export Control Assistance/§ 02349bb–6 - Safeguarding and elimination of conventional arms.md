@@ -62,7 +62,7 @@ Elements.—The assessment submitted under this subsection shall include the fol
 
 &emsp;&emsp;"(A) An estimate of the number of man-portable air-defense systems that were in Libya as of March 19, 2011.
 
-&emsp;&emsp;"(B) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011, that are currently in the secure custody of the Government of Libya, the United States, an ally of the United States, a member of the North Atlantic Treaty Organization (NATO), or the United Nations.
+&emsp;&emsp;"(B) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011,that are currently in the secure custody of the Government of Libya, the United States, an ally of the United States, a member of the North Atlantic Treaty Organization (NATO), or the United Nations.
 
 &emsp;&emsp;"(C) An estimate of the number of man-portable air-defense systems in Libya as of March 19, 2011, that were destroyed, disabled, or otherwise rendered unusable during Operation Unified Protector and since the end of Operation Unified Protector.
 

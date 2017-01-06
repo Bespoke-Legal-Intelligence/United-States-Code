@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A request under this part for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with thePresident by an interested party. Upon the filing of a request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
+A request under this part for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing of a request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
 
 #### (b) Publication of request
 
@@ -20,5 +20,5 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 #### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (6) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under sections 4081 to 4088 of this title to review requests and to determine whether to commence consideration of such requests; to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment; and to determine whether imports of a textile or apparel article of an Agreement country are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (6) that the Committee for the Implementation ofTextile Agreements is authorized to exercise the President's authority under sections 4081 to 4088 of this title to review requests and to determine whether to commence consideration of such requests; to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment; and to determine whether imports of a textile or apparel article of an Agreement country are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
 

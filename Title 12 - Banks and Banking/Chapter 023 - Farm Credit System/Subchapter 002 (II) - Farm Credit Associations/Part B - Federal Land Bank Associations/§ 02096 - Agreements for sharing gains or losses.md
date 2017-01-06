@@ -10,3 +10,7 @@ A prior section 2096, Pub. L. 92–181, title II, §2.15, Dec. 10, 1971, 85 Stat
 
 A prior section 2.14 of Pub. L. 92–181 was classified to section 2095 of this title and was repealed by Pub. L. 100–399, §401(v).
 
+#### Effective Date
+
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+

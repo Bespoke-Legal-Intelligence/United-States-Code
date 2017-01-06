@@ -1,6 +1,6 @@
 ### §1602. Congressional declaration of policies
 
-The Congress declares that it is the continuing policy of the United States to promote an adequate and stable supply of materials necessary to maintain national security, economic well-being and industrial production with appropriate attention to a long-term balance between resource production, energy use, a healthy environment, natural resources conservation, and social needs. The Congress further declares thatimplementation of this policy requires that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to, among other measures—
+The Congress declares that it is the continuing policy of the United States to promote an adequate and stable supply of materials necessary to maintain national security, economic well-being and industrial production with appropriate attention to a long-term balance between resource production, energy use, a healthy environment, natural resources conservation, and social needs. The Congress further declares that implementation of this policy requires that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to, among other measures—
 
 &emsp;(1) identify materials needs and assist in the pursuit of measures that would assure the availability of materials critical to commerce, the economy, and national security;
 
@@ -20,5 +20,5 @@ The Congress declares that it is the continuing policy of the United States to p
 
 #### References in Text
 
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (4), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (4), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 etseq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
 

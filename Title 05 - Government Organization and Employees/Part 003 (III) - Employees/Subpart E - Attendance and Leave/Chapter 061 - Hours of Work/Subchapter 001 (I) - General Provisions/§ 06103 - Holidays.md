@@ -46,7 +46,7 @@
 
 (2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L.94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142.)
 
 Historical and Revision Notes
 

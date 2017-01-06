@@ -38,7 +38,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (f) Action for damages
 
-Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issued pursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen's Compensation laws.
+Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issuedpursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen's Compensation laws.
 
 (Pub. L. 95–87, title V, §520, Aug. 3, 1977, 91 Stat. 503.)
 

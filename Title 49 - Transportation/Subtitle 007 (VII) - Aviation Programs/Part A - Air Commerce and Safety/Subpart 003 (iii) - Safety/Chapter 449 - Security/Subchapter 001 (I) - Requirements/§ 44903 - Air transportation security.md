@@ -12,9 +12,9 @@ Definition.—In this section, "law enforcement personnel" means individuals—
 
 (b)
 
-Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act ofcriminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
+Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
 
-&emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
+&emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads ofother departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
 &emsp;(2) consider whether a proposed regulation is consistent with—
 
@@ -48,7 +48,7 @@ Maximum use of chemical and biological weapon detection equipment.—The Secreta
 
 (3)
 
-Pilot programs.—The Administrator shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
+Pilot programs.—The Administrator <sup>1</sup> shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
 
 (d)
 
@@ -134,7 +134,7 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
 
-&emsp;&emsp;(E) shall issue, not later than March 31, 2005, guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+&emsp;&emsp;(E) shall issue, not later than March 31, 2005, guidance for the use of biometric or other technology that positively verifies theidentity of each employee and law enforcement officer who enters a secure area of an airport.
 
 &emsp;(5)
 
@@ -160,7 +160,7 @@ Use of biometric technology for armed law enforcement travel.—
 
 In general.—Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security, in consultation with the Attorney General, shall—
 
-&emsp;&emsp;&emsp;(i) implement this section <sup>1</sup> by publication in the Federal Register; and
+&emsp;&emsp;&emsp;(i) implement this section <sup>2</sup> by publication in the Federal Register; and
 
 &emsp;&emsp;&emsp;(ii) establish a national registered armed law enforcement program, that shall be federally managed, for law enforcement officers needing to be armed when traveling by commercial aircraft.
 
@@ -366,7 +366,7 @@ Appeal procedures.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Assistant Secretary shall establish a timely and fair process for individuals identified as a threat underone or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
+In general.—The Assistant Secretary shall establish a timely and fair process for individuals identified as a threat under one or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -608,6 +608,94 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Aviation Cybersecurity
+
+Pub. L. 114–190, title II, §2111, July 15, 2016, 130 Stat. 625, provided that:
+
+"(a)
+
+Comprehensive and Strategic Aviation Framework.—
+
+&emsp;"(1)
+
+In general.—Not later than 240 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall facilitate and support the development of a comprehensive and strategic framework of principles and policies to reduce cybersecurity risks to the national airspace system, civil aviation, and agency information systems using a total systems approach that takes into consideration the interactions and interdependence of different components of aircraft systems and the national airspace system.
+
+&emsp;"(2)
+
+Scope.—In carrying out paragraph (1), the Administrator shall—
+
+&emsp;&emsp;"(A) identify and address the cybersecurity risks associated with—
+
+&emsp;&emsp;&emsp;"(i) the modernization of the national airspace system;
+
+&emsp;&emsp;&emsp;"(ii) the automation of aircraft, equipment, and technology; and
+
+&emsp;&emsp;&emsp;"(iii) aircraft systems, including by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) directing the Aircraft Systems Information Security Protection Working Group—
+
+&emsp;&emsp;&emsp;"(aa) to assess cybersecurity risks to aircraft systems;
+
+&emsp;&emsp;&emsp;"(bb) to review the extent to which existing rulemaking, policy, and guidance to promote safety also promote aircraft systems information security protection; and
+
+&emsp;&emsp;&emsp;"(cc) to provide appropriate recommendations to the Administrator if separate or additional rulemaking, policy, or guidance is needed to address cybersecurity risks to aircraft systems; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) identifying and addressing—
+
+&emsp;&emsp;&emsp;"(aa) cybersecurity risks associated with in-flight entertainment systems; and
+
+&emsp;&emsp;&emsp;"(bb) whether in-flight entertainment systems can and should be isolated and separate, such as through an air gap, under existing rulemaking, policy, and guidance;
+
+&emsp;&emsp;"(B) clarify cybersecurity roles and responsibilities of offices and employees of the Federal Aviation Administration, as the roles and responsibilities relate to cybersecurity at the Federal Aviation Administration;
+
+&emsp;&emsp;"(C) identify and implement objectives and actions to reduce cybersecurity risks to air traffic control information systems, including actions to improve implementation of information security standards, such as those of the National Institute of Standards and Technology;
+
+&emsp;&emsp;"(D) support voluntary efforts by industry, RTCA, Inc., and other standards-setting organizations to develop and identify consensus standards and best practices relating to guidance on aviation systems information security protection, consistent, to the extent appropriate, with the cybersecurity risk management activities described in section 2(e) of the National Institute of Standards and Technology Act (15 U.S.C. 272(e));
+
+&emsp;&emsp;"(E) establish guidelines for the voluntary exchange of information between and among aviation stakeholders pertaining to aviation-related cybersecurity incidents, threats, and vulnerabilities;
+
+&emsp;&emsp;"(F) identify short- and long-term objectives and actions that can be taken in response to cybersecurity risks to the national airspace system; and
+
+&emsp;&emsp;"(G) identify research and development activities to inform actions in response to cybersecurity risks.
+
+&emsp;"(3)
+
+Implementation requirements.—In carrying out the activities under this subsection, the Administrator shall—
+
+&emsp;&emsp;"(A) coordinate with aviation stakeholders, including, at a minimum, representatives of industry, airlines, manufacturers, airports, RTCA, Inc., and unions;
+
+&emsp;&emsp;"(B) consult with the heads of relevant agencies and with international regulatory authorities;
+
+&emsp;&emsp;"(C) if determined appropriate, convene an expert panel or working group to identify and address cybersecurity risks; and
+
+&emsp;&emsp;"(D) evaluate, on a periodic basis, the effectiveness of the principles established under this subsection.
+
+"(b)
+
+Update on Cybersecurity Implementation Progress.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] an update on progress made toward the implementation of this section.
+
+"(c)
+
+Cybersecurity Threat Model.—Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with the Director of the National Institute of Standards and Technology, shall implement the open recommendation issued in 2015 by the Government Accountability Office to assess and research the potential cost and timetable of developing and maintaining an agencywide threat model, which shall be updated regularly, to strengthen the cybersecurity of agency systems across the Federal Aviation Administration. The Administrator shall brief the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status, results, and composition of the threat model.
+
+"(d)
+
+National Institute of Standards and Technology Information Security Standards.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration, after consultation with the Director of the National Institute of Standards and Technology, shall transmit to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—
+
+&emsp;"(1) a cybersecurity standards plan to improve implementation of the National Institute of Standards and Technology's latest revisions to information security guidance for Federal Aviation Administration information and Federal Aviation Administration information systems within set timeframes; and
+
+&emsp;"(2) an explanation of why any such revisions are not incorporated in the plan or are not incorporated within set timeframes.
+
+"(e)
+
+Cybersecurity Research and Development.—Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with other agencies as appropriate, shall establish a cybersecurity research and development plan for the national airspace system, including—
+
+&emsp;"(1) any proposal for research and development cooperation with international partners;
+
+&emsp;"(2) an evaluation and determination of research and development needs to determine any cybersecurity risks of cabin communications and cabin information technology systems on board in the passenger domain; and
+
+&emsp;"(3) objectives, proposed tasks, milestones, and a 5-year budgetary profile."
+
 #### Airport Security
 
 Pub. L. 114–50, Sept. 24, 2015, 129 Stat. 490, provided that:
@@ -654,7 +742,7 @@ Types of Plans.—Such plans may include, but may not be limited to, the followi
 
 &emsp;"(8) A schedule for producing after-action joint exercise reports to identify and determine how to improve security incident response capabilities.
 
-&emsp;"(9) A strategy, where feasible, for providing airport law enforcement with access to airport security video surveillance systems at category X airportswhere those systems were purchased and installed using Administration funds.
+&emsp;"(9) A strategy, where feasible, for providing airport law enforcement with access to airport security video surveillance systems at category X airports where those systems were purchased and installed using Administration funds.
 
 "(c)
 
@@ -856,7 +944,7 @@ In General.—The Under Secretary for Border and Transportation Security of the 
 
 "(b) GAO
 
-Report.—Not later than 90 days after the date on which certification is provided under subsection (a), the Comptroller General shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee onTransportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science and Transportation of the Senate that assesses the impact of CAPPS2 on the issues listed in subsection (a) and on privacy and civil liberties. The report shall include any recommendations for practices, procedures, regulations, or legislation to eliminate or minimize adverse effect of CAPPS2 on privacy, discrimination, and other civil liberties."
+Report.—Not later than 90 days after the date on which certification is provided under subsection (a), the Comptroller General shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science and Transportation of the Senate that assesses the impact of CAPPS2 on the issues listed in subsection (a) and on privacy and civil liberties. The report shall include any recommendations for practices, procedures, regulations, or legislation to eliminate or minimize adverse effect of CAPPS2 on privacy, discrimination, and other civil liberties."
 
 #### Reimbursement of Air Carriers for Certain Screening and Related Activities
 
@@ -946,7 +1034,7 @@ Pub. L. 107–71, title I, §121, Nov. 19, 2001, 115 Stat. 630, provided that:
 
 "(a)
 
-Airport Security.—There is authorized to be appropriated to the Secretary of Transportation for fiscal years 2002 and 2003 a total of $1,500,000,000 to reimburseairport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers for direct costs incurred by such operators to comply with new, additional, or revised security requirements imposed on such operators by the Federal Aviation Administration or Transportation Security Administration on or after September 11, 2001. Such sums shall remain available until expended.
+Airport Security.—There is authorized to be appropriated to the Secretary of Transportation for fiscal years 2002 and 2003 a total of $1,500,000,000 to reimburse airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers for direct costs incurred by such operators to comply with new, additional, or revised security requirements imposed on such operators by the Federal Aviation Administration or Transportation Security Administration on or after September 11, 2001. Such sums shall remain available until expended.
 
 "(b)
 
@@ -1086,5 +1174,7 @@ Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that
 
 For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 132(a) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Under Secretary".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph".</i>
 

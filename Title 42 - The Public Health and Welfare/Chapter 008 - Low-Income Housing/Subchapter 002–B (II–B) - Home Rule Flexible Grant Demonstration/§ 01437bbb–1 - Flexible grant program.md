@@ -2,9 +2,9 @@
 
 #### (a) Authority and use
 
-The Secretary shall carry out a demonstration program in accordance with the purposes undersection 1437bbb of this title and the provisions of this subchapter. A jurisdiction approved by the Secretary for participation in the program may receive and combine and enter into performance-based contracts for the use of amounts of covered housing assistance, in the manner determined appropriate by the participating jurisdiction, during the period of the jurisdiction's participation—
+The Secretary shall carry out a demonstration program in accordance with the purposes under section 1437bbb of this title and the provisions of this subchapter. A jurisdiction approved by the Secretary for participation in the program may receive and combine and enter into performance-based contracts for the use of amounts of covered housing assistance, in the manner determined appropriate by the participating jurisdiction, during the period of the jurisdiction's participation—
 
-&emsp;(1) to provide housing assistance and services for low-income families in a manner that facilitates the transition of such families to work;
+&emsp;(1) to provide housing assistance and services for low-income families in a manner thatfacilitates the transition of such families to work;
 
 &emsp;(2) to reduce homelessness through providing permanent housing solutions;
 

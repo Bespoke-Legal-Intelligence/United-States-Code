@@ -6,7 +6,7 @@ Medal of Honor Recipients.—A former member of the armed forces who is a Medal 
 
 (b)
 
-Immediate Dependents.—A person who is an immediate dependent of a Medal of Honor recipient and who is not otherwise entitled to medical and dental benefits under this chaptermay, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if the Medal of Honor recipient were, or (if deceased) was at the time of death, entitled to retired pay.
+Immediate Dependents.—A person who is an immediate dependent of a Medal of Honor recipient and who is not otherwise entitled to medical and dental benefits under this chapter may, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if the Medal of Honor recipient were, or (if deceased) was at the time of death, entitled to retired pay.
 
 (c)
 
@@ -20,5 +20,5 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: "Section 1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: "Section 1074h of title 10, United States Code, shall apply withrespect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

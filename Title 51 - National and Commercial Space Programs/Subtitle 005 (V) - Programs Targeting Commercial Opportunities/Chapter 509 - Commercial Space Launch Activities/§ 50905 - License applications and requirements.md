@@ -104,7 +104,7 @@ Contents.—The report shall include, at a minimum—
 
 &emsp;(6)
 
-Report.—Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
+Report.—Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
 
 &emsp;(7)
 

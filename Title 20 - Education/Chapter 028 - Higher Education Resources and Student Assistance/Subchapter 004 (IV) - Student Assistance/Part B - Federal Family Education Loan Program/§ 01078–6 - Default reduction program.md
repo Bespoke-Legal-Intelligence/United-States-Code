@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may, in the case of a sale made on or after July 1, 2014, in order to defray collection costs—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 16 percent of the outstanding principal and interest at the time of the loan sale; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) charge to the borrower an amount not to exceed 16 percent of theoutstanding principal and interest at the time of the loan sale; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) retain such amount from the proceeds of the loan sale; and
 
@@ -62,7 +62,7 @@
 
 #### (3) Borrower eligibility
 
-&emsp;Any borrower whose loan is sold or assigned under paragraph (1)(A) shall not be precluded by section 1091 of this title from receiving additional loans or grants under this subchapter and part C of subchapter I of chapter 34 of title 42 (for which he or she is otherwise eligible) on the basis of defaulting on the loan prior to such loan sale or assignment.
+&emsp;Any borrower whose loan is sold or assigned under paragraph (1)(A) shall not be precluded by section 1091 of this title from receiving additional loans or grants under this subchapter (for which he or she is otherwise eligible) on the basis of defaulting on the loan prior to such loan sale or assignment.
 
 #### (4) Applicability of general loan conditions
 
@@ -74,17 +74,13 @@
 
 #### (b) Satisfactory repayment arrangements to renew eligibility
 
-Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender or assigned to the Secretary) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
+Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all subchapter IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender or assigned to the Secretary) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
 
 #### (c) Financial and economic literacy
 
 Each program described in subsection (b) shall include making available financial and economic education materials for a borrower who has rehabilitated a loan.
 
 (Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8014(h), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title IV, §426, Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(d)(1), July 1, 2009, 123 Stat. 1941; Pub. L. 113–67, div. A, title V, §501, Dec. 26, 2013, 127 Stat. 1186.)
-
-#### References in Text
-
-Title IV, referred to in subsec. (b), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
 
@@ -106,7 +102,7 @@ Subsec. (a)(1)(D)(i). Pub. L. 113–67, §501(2), added cl. (i) and struck out f
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §402(d)(1)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) related to the sale of a loan by a guaranty agency or the Secretary.
 
-Subsec. (a)(2). Pub. L. 111–39, §402(d)(1)(A)(ii), substituted "paragraph (1)(A)(i)" for "paragraph (1) of this subsection" and "paragraph (1)(D)(ii)(I)" for "paragraph (1)(B)(ii) of this subsection".
+Subsec. (a)(2). Pub. L. 111–39, §402(d)(1)(A)(ii), substituted "paragraph (1)(A)(i)" for "paragraph (1) of thissubsection" and "paragraph (1)(D)(ii)(I)" for "paragraph (1)(B)(ii) of this subsection".
 
 Subsec. (a)(3). Pub. L. 111–39, §402(d)(1)(A)(iii)(II), substituted "sale or assignment." for "sale."
 

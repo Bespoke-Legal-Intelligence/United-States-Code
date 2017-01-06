@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible for assistance under this part, an applicant shall propose to establish, strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
+To be eligible for assistance under this part, an applicant shall propose to establish,strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
 
 &emsp;(1) to provide, by grant, agreement, or contract, shelter (such as group homes, including maternity group homes, host family homes, and supervised apartments) and provide, by grant, agreement, or contract, services,<sup>1</sup> (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, parenting skills (as appropriate), interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
 
@@ -52,7 +52,7 @@ In this part—
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22,2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of this title and Tables.
 

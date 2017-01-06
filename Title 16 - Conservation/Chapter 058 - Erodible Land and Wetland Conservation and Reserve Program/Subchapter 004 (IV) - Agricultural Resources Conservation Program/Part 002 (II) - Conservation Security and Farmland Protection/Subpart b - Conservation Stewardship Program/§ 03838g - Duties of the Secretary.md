@@ -80,7 +80,7 @@ During the period beginning on February 7, 2014, and ending on September 30, 202
 
 #### (1) Availability of payments
 
-&emsp;The Secretary shall provide additional payments to producers that, in participating in the program, agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.
+&emsp;The Secretary shall provide additional payments to producers that, in participating inthe program, agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.
 
 #### (2) Beneficial crop rotations
 

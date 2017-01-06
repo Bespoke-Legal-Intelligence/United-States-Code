@@ -8,7 +8,7 @@ An organization, in carrying out its functions under a contract entered into und
 
 &emsp;(2) in such cases and under such circumstances as the Secretary shall by regulations provide to assure adequate protection of the rights and interests of patients, health care practitioners, or providers of health care, or
 
-&emsp;(3) in accordance with subsection (b) of this section.
+&emsp;(3) in accordance with subsection (b).
 
 #### (b) Disclosure of information permitted
 
@@ -20,21 +20,21 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;&emsp;(B) to assist appropriate Federal and State agencies recognized by the Secretary as having responsibility for identifying cases or patterns involving risks to the public health, which data and information shall be provided by the quality improvement organization to any such agency—
 
-&emsp;&emsp;&emsp;(i) at the discretion of the quality improvement organization, at the request ofsuch agency relating to a specific case or pattern with respect to which such agency has made a finding, or has a reasonable belief, that there may be a substantial risk to the public health, or
+&emsp;&emsp;&emsp;(i) at the discretion of the quality improvement organization, at the request of such agency relating to a specific case or pattern with respect to which such agency has made a finding, or has a reasonable belief, that there may be a substantial risk to the public health, or
 
 &emsp;&emsp;&emsp;(ii) upon a finding by, or the reasonable belief of, the quality improvement organization that there may be a substantial risk to the public health;
 
-&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the quality improvement organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
+&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII, which data and information shall be provided by the quality improvement organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
 
 &emsp;&emsp;(D) to provide notice in accordance with section 1320c–3(a)(9)(B) of this title;
 
 &emsp;(2) to assist the Secretary, and such Federal and State agencies recognized by the Secretary as having health planning or related responsibilities under Federal or State law (including health systems agencies and State health planning and development agencies), in carrying out appropriate health care planning and related activities, which data and information shall be provided in such format and manner as may be prescribed by the Secretary or agreed upon by the responsible Federal and State agencies and such organization, and shall be in the form of aggregate statistical data (without explicitly identifying any individual) on a geographic, institutional, or other basis reflecting the volume and frequency of services furnished, as well as the demographic characteristics of the population subject to review by such organization.
 
-> The penalty provided in subsection (c) of this section shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
+> The penalty provided in subsection (c) shall not apply to the disclosure of any information received under this subsection, except that suchpenalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
 
 #### (c) Penalties
 
-It shall be unlawful for any person to disclose any such information described in subsection (a) of this section other than for the purposes provided in subsections (a) and (b) of this section, and any person violating the provisions of this section shall, upon conviction, be fined not more than $1,000, and imprisoned for not more than 6 months, or both, and shall be required to pay the costs of prosecution.
+It shall be unlawful for any person to disclose any such information described in subsection (a) other than for the purposes provided in subsections (a) and (b), and any person violating the provisions of this section shall, upon conviction, be fined not more than $1,000, and imprisoned for not more than 6 months, or both, and shall be required to pay the costs of prosecution.
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
@@ -60,7 +60,7 @@ A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as adde
 
 <b>1994</b>—Subsec. (b)(1)(D). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "to provide notice to the State medical board in accordance with section 1320c–3(a)(9)(B) of this title when the organization submits a report and recommendations to the Secretary under section 1320c–5(b)(1) of this title with respect to a physician whom the board is responsible for licensing;".
 
-Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec. (d) by substituting "subpoena"for "subpena", was executed by making the substitution in two places to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec. (d) by substituting "subpoena" for "subpena", was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 <b>1990</b>—Subsec. (b)(1)(D). Pub. L. 101–508, §4205(d)(1)(B), added subpar. (D).
 
@@ -88,7 +88,7 @@ Pub. L. 103–432, title I, §156(b)(6), Oct. 31, 1994, 108 Stat. 4441, provided
 
 Amendment by section 4205(d)(1)(B) of Pub. L. 101–508 applicable to notices of proposed sanctions issued more than 60 days after Nov. 5, 1990, see section 4205(d)(1)(C) of Pub. L. 101–508, set out as a note under section 1320c–3 of this title.
 
-Pub. L. 101–508, title IV, §4205(e)(2), Nov. 5, 1990, 104 Stat. 1388–114, as amended by Pub. L. 103–432, title I, §156(b)(5), Oct. 31, 1994, 108 Stat. 4441, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to proceedings as of the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title IV, §4205(e)(2), Nov. 5, 1990, 104 Stat. 1388–114, as amended by Pub. L. 103–432, title I,§156(b)(5), Oct. 31, 1994, 108 Stat. 4441, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to proceedings as of the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1988 Amendment
 

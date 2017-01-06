@@ -12,13 +12,13 @@
 
 (2) For the purposes of paragraph (1), paragraph (3), and paragraph (4)(C)(ii) of this subsection, the Secretary shall be considered to be the holder of the loan if the actual holder is not an approved lender described in section 3702.
 
-(3) If the holder of the loan determines that the loan is not current or that the purchaser of the property does not meet the requirements ofparagraph (1)(B) of this subsection, the holder shall—
+(3) If the holder of the loan determines that the loan is not current or that the purchaser of the property does not meet the requirements of paragraph (1)(B) of this subsection, the holder shall—
 
 &emsp;(A) notify the transferor and the Secretary of such determination; and
 
 &emsp;(B) notify the transferor that the transferor may appeal the determination to the Secretary.
 
-(4)(A) Upon the appeal of the transferor after a determination described in paragraph (3) is made, the Secretary shall, in a timely manner, review and make a determination (or a redetermination in any case in which the Secretary made the determination described in such paragraph) with respect to whether the loan is current and whether the purchaser of the property meets the requirements of paragraph (1)(B) of this subsection. The Secretary shall transmit, in writing, a notice of the nature of such determination to the transferor and the holder and shall inform them of the action that shall or may be taken under subparagraph (B) of this paragraph as a result of the determination of the Secretary.
+(4)(A) Upon the appeal of the transferor after a determination described in paragraph (3) is made, the Secretary shall, in a timely manner, review and make a determination (or a redetermination in any case in which the Secretary made the determination described in such paragraph) with respect to whether the loan is current and whether the purchaser of the property meets the requirements of paragraph (1)(B) of this subsection. The Secretary shall transmit, in writing, a notice of the nature of such determination to the transferor and the holder and shall inform them of the action that shall or may be taken under subparagraph (B) of thisparagraph as a result of the determination of the Secretary.
 
 (B)(i) If the Secretary determines under subparagraph (A) of this paragraph that the loan is current and that the purchaser meets the requirements of paragraph (1)(B) of this subsection, the holder shall approve the assumption of the loan, and the transferor shall be relieved of all liability to the Secretary with respect to such loan.
 

@@ -20,7 +20,7 @@ The Commission by regulation shall, within 270 days after October 28, 1992, esta
 
 &emsp;(4) identify procedures by which common carriers and providers of pay-per-call services may take affirmative steps to protect against nonpayment of legitimate charges; and
 
-&emsp;(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use of certain telephone number prefixes and area codes.
+&emsp;(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) be offered only through the use of certain telephone number prefixes and area codes.
 
 #### (c) Common carrier obligations
 
@@ -28,11 +28,11 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (1) Contractual obligations to comply
 
-&emsp;Any common carrier assigning to a provider of pay-per-call services a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
+&emsp;Any common carrier assigning to a provider of pay-per-call services a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
 
 #### (2) Information availability
 
-&emsp;A common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of a pay-per-call service shall make readily available on request to Federal and State agencies and other interested persons—
+&emsp;A common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of a pay-per-call service shall make readily available on request to Federal and State agencies and other interested persons—
 
 &emsp;&emsp;(A) a list of the telephone numbers for each of the pay-per-call services it carries;
 
@@ -46,7 +46,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (3) Compliance procedures
 
-&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
+&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
 
 #### (4) Subscriber disconnection prohibited
 
@@ -58,7 +58,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;(A) offer telephone subscribers (where technically feasible) the option of blocking access from their telephone number to all, or to certain specific, prefixes or area codes used by pay-per-call services, which option—
 
-&emsp;&emsp;&emsp;(i) shall be offered at no charge (I) to all subscribers for a period of 60 days after the issuance of the regulations under subsection (b) of this section, and (II) to any subscriber who subscribes to a new telephone number until 60 days after the time the new telephone number is effective; and
+&emsp;&emsp;&emsp;(i) shall be offered at no charge (I) to all subscribers for a period of 60 days after the issuance of the regulations under subsection (b), and (II) to any subscriber who subscribes to a new telephone number until 60 days after the time the new telephone number is effective; and
 
 &emsp;&emsp;&emsp;(ii) shall otherwise be offered at a reasonable fee; and
 
@@ -68,7 +68,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (6) Verification of charitable status
 
-&emsp;A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this sectionto a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
+&emsp;A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
 
 #### (7) Billing for 800 calls
 
@@ -84,7 +84,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;&emsp;(ii) the calling party is charged for the information in accordance with paragraph (9);
 
-&emsp;&emsp;(D) the calling party being called back collect for the provision of audio information services or simultaneous voice conversation services; or
+&emsp;&emsp;(D) the calling party being called back collect for the provision of audio informationservices or simultaneous voice conversation services; or
 
 &emsp;&emsp;(E) the calling party being assessed, by virtue of being asked to connect or otherwise transfer to a pay-per-call service, a charge for the call.
 
@@ -174,7 +174,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (d) Billing and collection practices
 
-The regulations required by this section shall require that any common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of a pay-per-call service and that offers billing and collection services to such provider—
+The regulations required by this section shall require that any common carrier that by tariffor contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of a pay-per-call service and that offers billing and collection services to such provider—
 
 &emsp;(1) ensure that a subscriber is not billed—
 
@@ -184,7 +184,7 @@ The regulations required by this section shall require that any common carrier t
 
 &emsp;(2) establish a local or a toll-free telephone number to answer questions and provide information on subscribers' rights and obligations with regard to their use of pay-per-call services and to provide to callers the name and mailing address of any provider of pay-per-call services offered by the common carrier;
 
-&emsp;(3) within 60 days after the issuance of final regulations pursuant to subsection (b) of this section, provide, either directly or through contract with any local exchange carrier that provides billing or collection services to the common carrier, to all of such common carrier's telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
+&emsp;(3) within 60 days after the issuance of final regulations pursuant to subsection (b), provide, either directly or through contract with any local exchange carrier that provides billing or collection services to the common carrier, to all of such common carrier's telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
 
 &emsp;(4) in any billing to telephone subscribers that includes charges for any pay-per-call service—
 
@@ -208,11 +208,11 @@ The regulations required by this section shall require that any common carrier t
 
 #### (1) Consumer refund requirements
 
-&emsp;The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
+&emsp;The regulations required by subsection (d) shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
 
 #### (2) Recovery of costs
 
-&emsp;The regulations prescribed by the Commission under this section shall permit a common carrier to recover its cost of complying with such regulations from providers of pay-per-call services, but shall not permit such costs to berecovered from local or long distance ratepayers.
+&emsp;The regulations prescribed by the Commission under this section shall permit a common carrier to recover its cost of complying with such regulations from providers of pay-per-call services, but shall not permit such costs to be recovered from local or long distance ratepayers.
 
 #### (3) Recommendations on data pay-per-call
 
@@ -234,7 +234,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (4) State authority
 
-&emsp;Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
+&emsp;Nothing in this section shall preclude any State from enacting and enforcing additionaland complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
 
 #### (5) Enforcement of existing regulations
 
@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) for which the caller pays a per-call or per-time-interval charge that is greater than, or in addition to, the charge for transmission of the call; and
 
-&emsp;&emsp;(C) which is accessed through use of a 900 telephone number or other prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section.
+&emsp;&emsp;(C) which is accessed through use of a 900 telephone number or other prefix or area code designated by the Commission in accordance with subsection (b)(5).
 
 &emsp;(2) Such term does not include directory services provided by a common carrier or its affiliate or by a local exchange carrier or its affiliate, or any service for which users are assessed charges only after entering into a presubscription or comparable arrangement with the provider of such service.
 

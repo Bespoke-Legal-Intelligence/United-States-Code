@@ -10,9 +10,9 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;(1) be—
 
-&emsp;&emsp;(A) a public or other nonprofit school of veterinary medicine that is accredited by a nationally recognized accrediting agency or association recognized by the Secretary of Education pursuant to part G of subchapter IV;
+&emsp;&emsp;(A) a public or other nonprofit school of veterinary medicine that is accredited by a nationally recognized accrediting agency or association recognized by the Secretary of Education pursuant to part H of subchapter IV;
 
-&emsp;&emsp;(B) a public or nonprofit, department of comparative medicine, department of veterinary science, school of public health, or school of medicine that is accredited by a nationally recognized accrediting agency or association recognized by the Secretary of Education pursuant to part G of subchapter IV and that offers graduate training for veterinarians in a public health practice area as determined by the Secretary of Health and Human Services; or
+&emsp;&emsp;(B) a public or nonprofit, department of comparative medicine, department of veterinary science, school of public health, or school of medicine that is accredited by a nationally recognized accrediting agency or association recognized by the Secretary of Education pursuant to part H of subchapter IV and that offers graduate training for veterinarians in a public health practice area as determined by the Secretary of Health and Human Services; or
 
 &emsp;&emsp;(C) a public or nonprofit entity that—
 
@@ -46,7 +46,7 @@ In this section, the term "public health practice area" includes the areas of bi
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years. Amounts appropriatedunder this subsection shall remain available until expended.
+There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years. Amounts appropriated under this subsection shall remain available until expended.
 
 (Pub. L. 89–329, title VIII, §893, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3439.)
 

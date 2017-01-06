@@ -20,7 +20,7 @@ Pub. L. 114–113, div. E, title VI, §633, Dec. 18, 2015, 129 Stat. 2471, provi
 
 #### Moratorium on Internet Taxes
 
-Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026; Pub. L. 113–235, div. E, title VI, §624, Dec. 16, 2014, 128 Stat. 2377, provided that:
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026; Pub. L. 113–235, div. E, title VI, §624, Dec. 16, 2014, 128 Stat. 2377; Pub. L. 114–125, title IX, §922, Feb. 24, 2016, 130 Stat. 281, provided that:
 
 #### "SEC. 1100. SHORT TITLE.
 
@@ -30,7 +30,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 "(a)
 
-Moratorium.—No State or political subdivision thereof may impose any of the following taxes duringthe period beginning November 1, 2003, and ending October 1, 2015:
+Moratorium.—No State or political subdivision thereof may impose any of the following taxes:
 
 &emsp;"(1) Taxes on Internet access.
 
@@ -266,7 +266,7 @@ National Tax Association Communications and Electronic Commerce Tax Project.—T
 
 #### "SEC. 1103. REPORT.
 
-"Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shalltransmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
+"Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
 
 #### "SEC. 1104. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
 
@@ -294,7 +294,7 @@ Termination.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), this subsection shall not apply after October 1, 2015.
+In general.—Except as provided in subparagraph (B), this subsection shall not apply after June 30, 2020.
 
 &emsp;&emsp;"(B)
 
@@ -378,7 +378,7 @@ Discriminatory tax.—The term 'discriminatory tax' means—
 
 &emsp;&emsp;&emsp;"(iii) imposes an obligation to collect or pay the tax on a different person or entity than in the case of transactions involving similar property, goods, services, or information accomplished through other means;
 
-&emsp;&emsp;&emsp;"(iv) establishes a classification of Internet access service providers or online service providers for purposes of establishing a higher tax rate to be imposed on such providers than the tax rate generally applied to providers of similar information services delivered through other means; or
+&emsp;&emsp;&emsp;"(iv) establishes a classification of Internet access service providers or online service providers for purposes of establishing a higher tax rate to be imposed on such providers than the tax rategenerally applied to providers of similar information services delivered through other means; or
 
 &emsp;&emsp;"(B) any tax imposed by a State or political subdivision thereof, if—
 
@@ -486,7 +486,7 @@ Specified taxes.—Effective November 1, 2007, the term 'tax on Internet access'
 
 &emsp;&emsp;&emsp;"(ii)
 
-Modifications.—Nothing in this subparagraph shall be construed as a limitation on a State's ability to make modifications to a tax covered by clause (i) of this subparagraph after November 1, 2007, as long as the modifications do not substantially narrow the range of business activities on which the tax is imposed or otherwise disqualify the tax under clause (i).
+Modifications.—Nothing in this subparagraph shall be construed as a limitation on a State's ability to make modifications to a tax covered by clause (i) of this subparagraph afterNovember 1, 2007, as long as the modifications do not substantially narrow the range of business activities on which the tax is imposed or otherwise disqualify the tax under clause (i).
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -496,7 +496,7 @@ No inference.—No inference of legislative construction shall be drawn from thi
 
 "(a)
 
-In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet accessprovider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
+In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
 
 "(b)
 

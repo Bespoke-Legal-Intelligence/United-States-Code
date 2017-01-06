@@ -6,7 +6,7 @@
 
 &emsp;(2) any contribution to, or distribution from, the Thrift Savings Fund shall be treated in the same manner as contributions to or distributions from such a trust; and
 
-&emsp;(3) subject to section 401(k)(4)(B) of such Code and any dollar limitation on the application of section 402(a)(8) of such Code, contributions to the Thrift Savings Fund shall not be treated as distributed or made available to an employee or Member nor as a contributionmade to the Fund by an employee or Member merely because the employee or Member has, under the provisions of this subchapter and section 8351 of this title, an election whether the contribution will be made to the Thrift Savings Fund or received by the employee or Member in cash.
+&emsp;(3) subject to section 401(k)(4)(B) of such Code and any dollar limitation on the application of section 402(a)(8) of such Code, contributions to the Thrift Savings Fund shall not be treated as distributed or made available to an employee or Member nor as a contribution made to the Fund by an employee or Member merely because the employee or Member has, under the provisions of this subchapter and section 8351 of this title, an election whether the contribution will be made to the Thrift Savings Fund or received by the employee or Member in cash.
 
 (b)
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 102–378 effective Nov. 10, 1988, see section 9(b)(8) of P
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 100–647 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 

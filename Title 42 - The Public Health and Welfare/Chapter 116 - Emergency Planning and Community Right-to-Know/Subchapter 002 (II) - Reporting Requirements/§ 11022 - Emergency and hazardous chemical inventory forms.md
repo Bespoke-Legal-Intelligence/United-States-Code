@@ -10,7 +10,7 @@
 
 &emsp;(C) The fire department with jurisdiction over the facility.
 
-(2) The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
+(2) The inventory form containing tier I information (as described in subsection (d)(1)) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2)) to the recipients described in paragraph (1).
 
 (3) An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
 
@@ -54,7 +54,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (2) Tier II information
 
-&emsp;An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
+&emsp;An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e):
 
 &emsp;&emsp;(A) The chemical name or the common name of the chemical as provided on the material safety data sheet.
 
@@ -72,7 +72,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (1) Availability to State commissions, local committees, and fire departments
 
-&emsp;Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d) of this section, to the person making the request. Any such request shall be with respect to a specific facility.
+&emsp;Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
 
 #### (2) Availability to other State and local officials
 

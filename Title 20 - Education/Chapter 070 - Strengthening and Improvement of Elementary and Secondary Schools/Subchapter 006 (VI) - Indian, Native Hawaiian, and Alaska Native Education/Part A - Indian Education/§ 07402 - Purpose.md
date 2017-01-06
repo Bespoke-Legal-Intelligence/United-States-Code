@@ -8,7 +8,7 @@ It is the purpose of this part to support the efforts of local educational agenc
 
 &emsp;(3) to ensure that teachers, principals, other school leaders, and other staff who serve Indian students have the ability to provide culturally appropriate and effective instruction and supports to such students.
 
-(Pub. L. 89–10, title VI, §6102, formerly title VII, §7102, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907; renumbered title VI, §6102, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6002(b), Dec. 10, 2015, 129 Stat. 2046, 2047.)
+(Pub. L. 89–10, title VI, §6102, formerly title VII, §7102, as added Pub. L. 107–110, title VII, §701,Jan. 8, 2002, 115 Stat. 1907; renumbered title VI, §6102, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6002(b), Dec. 10, 2015, 129 Stat. 2046, 2047.)
 
 #### Prior Provisions
 
@@ -24,7 +24,7 @@ Section 7403, Pub. L. 89–10, title VII, §7103, as added Pub. L. 103–382, ti
 
 Section 7404, Pub. L. 89–10, title VII, §7104, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3718, related to Native American and Alaska Native children in school.
 
-Section 7405, Pub. L. 89–10, title VII, §7105, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719,related to residents of territories and freely associated nations.
+Section 7405, Pub. L. 89–10, title VII, §7105, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719, related to residents of territories and freely associated nations.
 
 #### Amendments
 

@@ -118,7 +118,7 @@ The accounts of each Enterprise Fund shall be audited annually in accordance wit
 
 #### (n) GAO audits
 
-The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
+The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government AccountabilityOffice in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
 
 #### (o) Recordkeeping requirements
 

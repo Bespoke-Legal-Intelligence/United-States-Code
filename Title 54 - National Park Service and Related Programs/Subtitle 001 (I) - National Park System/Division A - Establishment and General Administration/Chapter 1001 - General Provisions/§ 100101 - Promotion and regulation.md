@@ -22,7 +22,7 @@ declarations.—Congress declares that—
 
 &emsp;(2) 1978
 
-reaffirmation.—Congress reaffirms, declares, and directs that the promotion and regulation of the various System units shall be consistent with and founded in the purpose established by subsection (a), to the common benefit of all the people of the United States. The authorization of activities shall be construed and the protection, management, and administration of the System units shall be conducted in light of the high public value and integrity of the System and shall not be exercised in derogation of the values and purposes for which the System units have been established, except as directly and specifically provided by Congress.
+reaffirmation.—Congress reaffirms, declares, and directs that the promotion andregulation of the various System units shall be consistent with and founded in the purpose established by subsection (a), to the common benefit of all the people of the United States. The authorization of activities shall be construed and the protection, management, and administration of the System units shall be conducted in light of the high public value and integrity of the System and shall not be exercised in derogation of the values and purposes for which the System units have been established, except as directly and specifically provided by Congress.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3096.)
 
@@ -54,7 +54,15 @@ Pub. L. 91–383, §1, Aug. 18, 1970, 84 Stat. 825; Pub. L. 95–250, title I, �
 
 In subsection (a), the words "Secretary, acting through the Director of the National Park Service" are substituted for "service thus established" to reflect the transfer of functions of other officers, employees, and agencies of the Department of the Interior to the Secretary by sections 1 and 2 of Reorganization Plan No. 3 of 1950 (5 U.S.C. App.) while keeping the responsibility for promoting and regulating the use of the National Park System with the Director of the National Park Service.
 
-In subsection (b)(1)(D), the words "this division" are substituted for "this Act" for clarity. The purpose of the Act of August 18, 1970 (known as the National Park System General Authorities Act) (Public Law 91–383, 84 Stat. 825), was to update and clarify the law with respect to the various units of the National Park System by enlarging the application of existing general statutes so that they apply uniformly to the administration of the various types of parklands within the national park system. See H. Rept. 91–1265 (91st Cong., 2dSess.). However, section 2(b) of that Act, rather than being enacted as a new provision of law, amended section 2 of the Act of August 8, 1953 (ch. 384, 67 Stat. 496), and would not be included in the reference to "this Act" in section 1 of the Act of August 18, 1970. The revised subsection translates the reference to "this Act" to carry out the intent of the Act of August 18, 1970.
+In subsection (b)(1)(D), the words "this division" are substituted for "this Act" for clarity. The purpose of the Act of August 18, 1970 (known as the National Park System General Authorities Act) (Public Law 91–383, 84 Stat. 825), was to update and clarify the law with respect to the various units of the National Park System by enlarging the application of existing general statutes so that they apply uniformly to the administration of the various types of parklands within the national park system. See H. Rept. 91–1265 (91st Cong., 2d Sess.). However, section 2(b) of that Act, rather than being enacted as a new provision of law, amended section 2 of the Act of August 8, 1953 (ch. 384, 67 Stat. 496), and would not be included in the reference to "this Act" in section 1 of the Act of August 18, 1970. The revised subsection translates the reference to "this Act" to carry out the intent of the Act of August 18, 1970.
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–289, §1(a), Dec. 16, 2016, 130 Stat. 1482, provided that: "This Act \[see Tables for classification\] may be cited as the 'National Park Service Centennial Act'."
+
+Pub. L. 114–289, title II, §201, Dec. 16, 2016, 130 Stat. 1485, provided that: "This title \[enacting section 101121 of this title\] may be cited as the 'National Park Foundation Endowment Act'."
+
+Pub. L. 114–289, title VIII, §801, Dec. 16, 2016, 130 Stat. 1494, provided that: "This title \[amending sections 302104 and 303102 of this title\] may be cited as the 'National Historic Preservation Amendments Act'."
 
 #### Short Title of 2009 Act
 

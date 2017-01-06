@@ -118,7 +118,7 @@ Oct. 16, 1970, Pub. L. 91–458, §206(d), 84 Stat. 974; Oct. 10, 1980, Pub. L. 
 
 In subsection (a), the first sentence is added for clarity.
 
-In subsection (b)(1)(A)(iii), the words "as necessary for the enforcement by him of each rule, regulation,order, and standard referred to in paragraph (2) of this subsection, as interpreted by the Secretary" are omitted as surplus.
+In subsection (b)(1)(A)(iii), the words "as necessary for the enforcement by him of each rule, regulation, order, and standard referred to in paragraph (2) of this subsection, as interpreted by the Secretary" are omitted as surplus.
 
 In subsection (b)(1)(B)(i) and (ii), the words "railroad carrier" are substituted for "railroad" because of the definition of "railroad carrier" in section 20102 of the revised title.
 

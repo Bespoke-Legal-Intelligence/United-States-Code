@@ -58,7 +58,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 #### (2) Resources for local educational agencies
 
-&emsp;In carrying out paragraph (1)(B), each State shall provide local educational agencies with resources, such as guidelines and protocols, to assist in conducting and reporting audit results.
+&emsp;In carrying out paragraph (1)(B), each State shall provide local educational agencies withresources, such as guidelines and protocols, to assist in conducting and reporting audit results.
 
 #### (3) State assessment system description
 
@@ -94,7 +94,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(i) eliminating any unnecessary assessments, which may include paying the cost associated with terminating procurement contracts;
 
-&emsp;&emsp;&emsp;(ii) supporting the dissemination of best practices from local educational agenciesor other States that have successfully improved assessment quality and efficiency to improve teaching and learning; and
+&emsp;&emsp;&emsp;(ii) supporting the dissemination of best practices from local educational agencies or other States that have successfully improved assessment quality and efficiency to improve teaching and learning; and
 
 &emsp;&emsp;&emsp;(iii) supporting local educational agencies or consortia of local educational agencies to carry out efforts to streamline local assessment systems and implement a regular process of review and evaluation of assessment use in local educational agencies.
 

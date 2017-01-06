@@ -22,7 +22,7 @@ Awards under this section shall be made in each fiscal year in two categories as
 
 #### (e) Nominating and selection committees
 
-The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations andmake recommendations for awards under this section, as the Secretary deems appropriate.
+The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations and make recommendations for awards under this section, as the Secretary deems appropriate.
 
 (Pub. L. 95–113, title XIV, §1418, Sept. 29, 1977, 91 Stat. 997; Pub. L. 97–98, title XIV, §1420(a), Dec. 22, 1981, 95 Stat. 1306.)
 
@@ -35,4 +35,8 @@ Subsecs. (c) to (e). Pub. L. 97–98, §1420(a)(3), (4), added subsec. (c) and r
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

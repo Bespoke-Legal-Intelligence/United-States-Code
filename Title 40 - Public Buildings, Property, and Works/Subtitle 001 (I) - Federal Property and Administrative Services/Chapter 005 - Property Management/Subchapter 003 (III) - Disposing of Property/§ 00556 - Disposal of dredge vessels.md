@@ -20,7 +20,7 @@ Recipients and Purposes.—Disposal under this section is accomplished—
 
 (c)
 
-No Dredging Activities.—A vessel described in subsection (a) shall not be disposed of under any law for the purpose of engaging in dredging activities within the United States.
+No Dredging Activities.—A vessel described in subsection (a) shall not be disposed ofunder any law for the purpose of engaging in dredging activities within the United States.
 
 (d)
 

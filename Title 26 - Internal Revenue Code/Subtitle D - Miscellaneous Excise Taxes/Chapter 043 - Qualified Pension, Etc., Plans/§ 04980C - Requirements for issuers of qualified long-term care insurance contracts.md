@@ -76,7 +76,7 @@ The requirements of this subsection are as follows:
 
 #### (d) Disclosure
 
-The requirements of this subsection are met if the issuer of a long-term care insurance policy discloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualified long-term care insurance contract under section 7702B(b).
+The requirements of this subsection are met if the issuer of a long-term care insurance policy discloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualifiedlong-term care insurance contract under section 7702B(b).
 
 #### (e) Qualified long-term care insurance contract defined
 
@@ -84,7 +84,7 @@ For purposes of this section, the term "qualified long-term care insurance contr
 
 #### (f) Coordination with State requirements
 
-If a State imposes any requirement which is more stringent than the analogous requirementimposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
+If a State imposes any requirement which is more stringent than the analogous requirement imposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
 
 (Added Pub. L. 104–191, title III, §326(a), Aug. 21, 1996, 110 Stat. 2065.)
 

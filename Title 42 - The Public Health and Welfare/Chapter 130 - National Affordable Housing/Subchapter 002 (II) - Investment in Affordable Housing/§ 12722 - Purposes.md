@@ -18,7 +18,7 @@ The purposes of this subchapter are—
 
 &emsp;(5) to develop and refine, on an ongoing basis, a selection of model programs incorporating the most effective methods for providing decent, safe, sanitary, and affordable housing, and accelerate the application of such methods where appropriate throughout the United States to achieve the prudent and efficient use of funds made available under this subchapter;
 
-&emsp;(6) to expand the capacity of nonprofit community housing development organizations to develop and manage decent, safe, sanitary, and affordable housing;
+&emsp;(6) to expand the capacity of nonprofit community housing development organizations todevelop and manage decent, safe, sanitary, and affordable housing;
 
 &emsp;(7) to ensure that Federal investment produces housing stock that is available and affordable to low-income families for the property's remaining useful life, is appropriate to the neighborhood surroundings, and, wherever appropriate, is mixed income housing;
 

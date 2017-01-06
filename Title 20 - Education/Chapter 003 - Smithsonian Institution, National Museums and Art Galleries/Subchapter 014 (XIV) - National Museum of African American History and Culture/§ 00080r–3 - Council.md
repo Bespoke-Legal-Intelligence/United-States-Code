@@ -76,7 +76,7 @@ There is established within the Smithsonian Institution a council to be known as
 
 #### (2) Initial appointees
 
-&emsp;As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (C) of subsection (c)(2) of this section—
+&emsp;As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (C) of subsection (c)(2)—
 
 &emsp;&emsp;(A) six members shall be appointed for a term of 1 year;
 

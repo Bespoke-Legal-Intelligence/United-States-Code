@@ -32,7 +32,7 @@ The Commission is authorized to—
 
 (5)(A) The maximum penalty amounts authorized in paragraph (1) shall be adjusted for inflation as provided in this paragraph.
 
-(B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter,the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
+(B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
 
 (C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
 
@@ -78,7 +78,7 @@ Subsec. (e)(5)(B). Pub. L. 110–314, §217(a)(3)(C), which directed the substit
 
 Subsec. (e). Pub. L. 101–608, §115(c), added subsec. (e).
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–189, §4(a), inserted ", including provisions for maintenance of records relating to fabrics, related materials, and products," after "rules and regulations" and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
+<b>1967</b>—Subsec. (c). Pub. L. 90–189, §4(a), inserted ", including provisions for maintenance of records relating to fabrics, related materials, and products," after "rules and regulations" and inserted sentencemaking violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
 
 Subsec. (d)(1). Pub. L. 90–189, §4(b), substituted "product, fabric or related material" for "article of wearing apparel or fabric".
 

@@ -14,7 +14,7 @@ The Secretary shall establish a national grassroots water protection program to 
 
 &emsp;In addition to funds made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary shall use $5,000,000, to remain available until expended.
 
-(Pub. L. 99–198, title XII, §1240O, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116Stat. 267; amended Pub. L. 110–234, title II, §2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2502, Feb. 7, 2014, 128 Stat. 751.)
+(Pub. L. 99–198, title XII, §1240O, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, §2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2502, Feb. 7, 2014, 128 Stat. 751.)
 
 #### Codification
 

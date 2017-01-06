@@ -58,7 +58,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (B) Cooperation with GAO
 
-&emsp;&emsp;The Administrator shall provide for the monitoring and participation of the Comptroller General in the assessment in a manner that permits the Comptroller General to prepare and submit the report required by subparagraph (A).
+&emsp;&emsp;The Administrator shall provide for the monitoring and participation of the Comptroller General in the assessment in a manner that permits the Comptroller General toprepare and submit the report required by subparagraph (A).
 
 #### (d) Utilization of research facilities and capabilities
 
@@ -90,7 +90,7 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 #### (1) In general
 
-&emsp;The Administrator shall take all actions necessary to preserve Space Shuttle launchcapability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010.
+&emsp;The Administrator shall take all actions necessary to preserve Space Shuttle launch capability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010.
 
 #### (2) Continuation of contractor support
 

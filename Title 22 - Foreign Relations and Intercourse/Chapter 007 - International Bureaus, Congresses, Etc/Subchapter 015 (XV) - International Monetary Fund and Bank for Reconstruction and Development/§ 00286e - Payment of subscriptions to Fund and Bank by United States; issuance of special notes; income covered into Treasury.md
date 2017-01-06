@@ -10,7 +10,7 @@ Any payment made to the United States by the Fund or the Bank as a distribution 
 
 #### References in Text
 
-Subsection (a), referred to in the first par., means section 7(a) of act July 31, 1945, ch. 339, 59 Stat. 514, which generally amended subsec. (c) of section 822a offormer Title 31, Money and Finance. Section 822a(c) of former Title 31 was repealed and reenacted as section 5302(d) of Title 31 by Pub. L. 97–258, §4(a), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
+Subsection (a), referred to in the first par., means section 7(a) of act July 31, 1945, ch. 339, 59 Stat. 514, which generally amended subsec. (c) of section 822a of former Title 31, Money and Finance. Section 822a(c) of former Title 31 was repealed and reenacted as section 5302(d) of Title 31 by Pub. L. 97–258, §4(a), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
 
 #### Codification
 

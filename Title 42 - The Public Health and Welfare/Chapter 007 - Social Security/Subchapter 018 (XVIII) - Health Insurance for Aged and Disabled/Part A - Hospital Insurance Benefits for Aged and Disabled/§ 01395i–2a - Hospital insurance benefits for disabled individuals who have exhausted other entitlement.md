@@ -28,19 +28,19 @@ Every individual who—
 
 (1) The period (in this subsection referred to as a "coverage period") during which an individual is entitled to benefits under the insurance program under this part shall begin on whichever of the following is the latest:
 
-&emsp;(A) In the case of an individual who enrolls under subsection (b)(2) of this section before the month in which the individual first satisfies subsection (a) of this section, the first day of such month.
+&emsp;(A) In the case of an individual who enrolls under subsection (b)(2) before the month in which the individual first satisfies subsection (a), the first day of such month.
 
-&emsp;(B) In the case of an individual who enrolls under subsection (b)(2) of this section in the month in which the individual first satisfies subsection (a) of this section, the first day of the month following the month in which the individual so enrolls.
+&emsp;(B) In the case of an individual who enrolls under subsection (b)(2) in the month in which the individual first satisfies subsection (a), the first day of the month following the month in which the individual so enrolls.
 
-&emsp;(C) In the case of an individual who enrolls under subsection (b)(2) of this section in the month following the month in which the individual first satisfies subsection (a) of this section, the first day of the second month following the month in which the individual so enrolls.
+&emsp;(C) In the case of an individual who enrolls under subsection (b)(2) in the month following the month in which the individual first satisfies subsection (a), the first day of the second month following the month in which the individual so enrolls.
 
-&emsp;(D) In the case of an individual who enrolls under subsection (b)(2) of this section morethan one month following the month in which the individual first satisfies subsection (a) of this section, the first day of the third month following the month in which the individual so enrolls.
+&emsp;(D) In the case of an individual who enrolls under subsection (b)(2) more than one month following the month in which the individual first satisfies subsection (a), the first day of the third month following the month in which the individual so enrolls.
 
-&emsp;(E) In the case of an individual who enrolls under subsection (b)(3) of this section, the July 1 following the month in which the individual so enrolls.
+&emsp;(E) In the case of an individual who enrolls under subsection (b)(3), the July 1 following the month in which the individual so enrolls.
 
 (2) An individual's coverage period under this section shall continue until the individual's enrollment is terminated as follows:
 
-&emsp;(A) As of the month following the month in which the Secretary provides notice to the individual that the individual no longer meets the condition described in subsection (a)(2)(B) of this section.
+&emsp;(A) As of the month following the month in which the Secretary provides notice to the individual that the individual no longer meets the condition described in subsection (a)(2)(B).
 
 &emsp;(B) As of the month following the month in which the individual files notice that the individual no longer wishes to participate in the insurance program established by this part.
 

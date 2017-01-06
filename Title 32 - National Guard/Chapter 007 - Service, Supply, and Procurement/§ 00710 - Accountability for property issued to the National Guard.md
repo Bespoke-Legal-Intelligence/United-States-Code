@@ -22,7 +22,7 @@
 
 &emsp;(A) in the case of the Army National Guard, a commissioned officer of the Regular Army or a commissioned officer of the Army National Guard who is also a commissioned officer of the Army National Guard of the United States; and
 
-&emsp;(B) in the case of the Air National Guard, a commissioned officer of the Regular Air Force or a commissioned officer of the Air National Guard who is also a commissioned officer of the Air National Guard of the United States.
+&emsp;(B) in the case of the Air National Guard, a commissioned officer of the Regular Air Force or a commissioned officer of the Air NationalGuard who is also a commissioned officer of the Air National Guard of the United States.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 615; Pub. L. 85–861, §33(c)(3), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–328, §1(a), (b)(1), Aug. 8, 1980, 94 Stat. 1027; Pub. L. 96–513, title V, §515(8), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 97–258, §3(h)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–160, div. A, title V, §524(e), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 

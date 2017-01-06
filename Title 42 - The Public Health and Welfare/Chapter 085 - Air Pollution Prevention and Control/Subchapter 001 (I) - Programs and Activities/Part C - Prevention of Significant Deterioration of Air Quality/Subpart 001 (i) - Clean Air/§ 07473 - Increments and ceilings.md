@@ -41,7 +41,7 @@ In the case of sulfur oxide and particulate matter, each applicable implementati
 | &nbsp;&nbsp;Pollutant&nbsp; | Maximum allowable increase (in micrograms per cubic meter) |
 | :--- | ---: |
 | Particulate matter: |  |
-| Annual geometric mean | 37   |
+| Annual geometric mean | 37&nbsp;&nbsp; |
 | Twenty-four-hour maximum | 75&nbsp;&nbsp; |
 | Sulfur dioxide: |  |
 | Annual arithmetic mean | 40&nbsp;&nbsp; |

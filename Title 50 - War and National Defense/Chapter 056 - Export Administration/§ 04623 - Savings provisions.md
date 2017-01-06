@@ -20,7 +20,7 @@ The Export Control Act of 1949, referred to in subsec. (a), is act Feb. 26, 1949
 
 The Export Administration Act of 1969, referred to in text, is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, which was classified to sections 2401 to 2413 of the former Appendix to this title, prior to termination of this Act on Sept. 30, 1979. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, known as the Export Administration Act of 1979, which is classified principally to this chapter. For the time this chapter takes effect, see section 4621 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, known as the Export Administration Act of 1979, which is classified principally to this chapter. For the time this chapter takes effect, see section 4621 of this title. For complete classification of this Act to theCode, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Codification
 

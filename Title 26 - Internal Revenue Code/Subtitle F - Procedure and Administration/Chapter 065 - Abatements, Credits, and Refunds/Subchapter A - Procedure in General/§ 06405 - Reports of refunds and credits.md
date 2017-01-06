@@ -12,7 +12,7 @@ Any credit or refund allowed or made under section 6411 shall be made without re
 
 If any refund or credit of income taxes is attributable to the taxpayer's election under section 165(i) to deduct a disaster loss for the taxable year immediately preceding the taxable year in which the disaster occurred, the Secretary is authorized in his discretion to make the refund or credit, to the extent attributable to such election, without regard to the provisions of subsection (a) of this section. If such refund or credit is made without regard to subsection (a), there shall thereafter be submitted to such Joint Committee a report containing the matter specified in subsection (a) as soon as the Secretary shall determine the correct amount of the tax for the taxable year for which the refund or credit is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 92–418, §2(b), Aug. 29, 1972, 86 Stat. 657; Pub. L. 92–512, title II, §203(a), Oct. 20, 1972, 86 Stat. 944; Pub. L. 94–455, title XII, §1210(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1711, 1834; Pub. L. 95–227, §4(d)(3), Feb. 10, 1978, 92 Stat. 23; Pub. L. 98–369, div. A, title VII, §711(c)(3), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title XVIII, §1879(e), Oct. 22, 1986, 100 Stat. 2906; Pub. L. 101–508, title XI, §§11801(c)(21)(A), 11834(a), Nov. 5, 1990, 104 Stat. 1388–528, 1388-560; Pub. L. 106–554, §1(a)(7) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634; Pub. L. 113–295, div. A, title III, §301(a), Dec. 19, 2014, 128 Stat. 4055.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 92–418, §2(b), Aug. 29, 1972, 86 Stat. 657; Pub. L. 92–512, title II, §203(a), Oct. 20, 1972, 86 Stat. 944; Pub. L. 94–455, title XII, §1210(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1711, 1834; Pub. L. 95–227, §4(d)(3), Feb. 10, 1978, 92 Stat. 23; Pub. L. 98–369, div. A, title VII, §711(c)(3), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title XVIII, §1879(e), Oct. 22, 1986, 100 Stat. 2906; Pub. L. 101–508, title XI, §§11801(c)(21)(A), 11834(a), Nov. 5, 1990, 104 Stat. 1388–528, 1388–560; Pub. L. 106–554, §1(a)(7) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 113–295, div. A, title III, §301(a), Dec. 19, 2014, 128 Stat. 4055.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Pub. L. 113–295, div. A, title III, §301(b), Dec. 19, 2014, 128 Stat. 4055, p
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date of the enactment under section 6405 of the Internal Revenue Code of 1986."
+Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date of the enactment under section 6405 of the Internal Revenue Code of 1986."
 
 #### Effective Date of 1990 Amendment
 

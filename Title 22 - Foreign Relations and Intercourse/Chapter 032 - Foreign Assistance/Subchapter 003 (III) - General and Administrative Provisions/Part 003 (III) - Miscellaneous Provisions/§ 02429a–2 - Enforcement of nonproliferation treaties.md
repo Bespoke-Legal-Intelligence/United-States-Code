@@ -6,13 +6,13 @@ It is the sense of the Congress that the President should instruct the United St
 
 #### (b) Prohibition
 
-Notwithstanding any other provision of law, no United States assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be provided to any non-nuclear weapon state that is found by the President to have terminated, abrogated, or materially violated an IAEA full-scope safeguard agreement or materially violated a bilateral United States nuclear cooperation agreement entered into after March 10, 1978.
+Notwithstanding any other provision of law, no United States assistance under the ForeignAssistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be provided to any non-nuclear weapon state that is found by the President to have terminated, abrogated, or materially violated an IAEA full-scope safeguard agreement or materially violated a bilateral United States nuclear cooperation agreement entered into after March 10, 1978.
 
 #### (c) Waiver
 
 The President may waive the application of subsection (b) if—
 
-&emsp;(1) the President determines that the termination of such assistance would be seriously prejudicial to the achievement of UnitedStates nonproliferation objectives or otherwise jeopardize the common defense and security; and
+&emsp;(1) the President determines that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security; and
 
 &emsp;(2) the President reports such determination to the Congress at least 15 days in advance of any resumption of assistance to that state.
 

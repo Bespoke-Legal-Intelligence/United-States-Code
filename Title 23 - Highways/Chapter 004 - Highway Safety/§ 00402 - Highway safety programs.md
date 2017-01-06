@@ -24,9 +24,11 @@ Uniform guidelines.—Programs required under paragraph (1) shall comply with un
 
 &emsp;&emsp;&emsp;(v) to reduce injuries and deaths resulting from accidents involving school buses;
 
-&emsp;&emsp;&emsp;(vi) to reduce accidents resulting from unsafe driving behavior (including aggressive or fatigued driving and distracted driving arising from the use of electronic devices in vehicles); and
+&emsp;&emsp;&emsp;(vi) to reduce accidents resulting from unsafe driving behavior (including aggressive or fatigued driving and distracted driving arising from the use of electronic devices in vehicles);
 
-&emsp;&emsp;&emsp;(vii) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures;
+&emsp;&emsp;&emsp;(vii) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures; and
+
+&emsp;&emsp;&emsp;(viii) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;
 
 &emsp;&emsp;(B) improve driver performance, including—
 
@@ -112,6 +114,20 @@ Prohibition.—A State may not expend funds apportioned to that State under this
 
 Automated traffic enforcement system defined.—In this paragraph, the term "automated traffic enforcement system" means any camera which captures an image of a vehicle for the purposes only of red light and speed enforcement, and does not include hand held radar and other devices operated by law enforcement officers to make an on-the-scene traffic stop, issue a traffic citation, or other enforcement action at the time of the violation.
 
+&emsp;&emsp;(C)
+
+Survey.—A State in which an automated traffic enforcement system is installed shall expend funds apportioned to that State under this section to conduct a biennial survey that the Secretary shall make publicly available through the Internet Web site of the Department of Transportation that includes—
+
+&emsp;&emsp;&emsp;(i) a list of automated traffic enforcement systems in the State;
+
+&emsp;&emsp;&emsp;(ii) adequate data to measure the transparency, accountability, and safety attributes of each automated traffic enforcement system; and
+
+&emsp;&emsp;&emsp;(iii) a comparison of each automated traffic enforcement system with—
+
+&emsp;&emsp;&emsp;&emsp;(I) Speed Enforcement Camera Systems Operational Guidelines (DOT HS 810 916, March 2008); and
+
+&emsp;&emsp;&emsp;&emsp;(II) Red Light Camera Systems Operational Guidelines (FHWA–SA–05–002, January 2005).
+
 (d) All provisions of chapter 1 of this title that are applicable to National Highway System highway funds other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the highway safety funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section, and except that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions (exclusive of Federal funds) for carrying out the State highway safety program (other than planning and administration) shall be available for the purpose of crediting such State during such fiscal year for the non-Federal share of the cost of any project under this section (other than one for planning or administration) without regard to whether such expenditures were actually made in connection with such project and except that, in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary. In applying such provisions of chapter 1 in carrying out this section the term "State transportation department" as used in such provisions shall mean the Governor of a State for the purposes of this section.
 
 (e) Uniform guidelines promulgated by the Secretary to carry out this section shall be developed in cooperation with the States, their political subdivisions, appropriate Federal departments and agencies, and such other public and private organizations as the Secretary deems appropriate.
@@ -120,19 +136,7 @@ Automated traffic enforcement system defined.—In this paragraph, the term "aut
 
 (g)
 
-Savings Provision.—
-
-&emsp;(1)
-
-In general.—Except as provided under paragraph (2), nothing in this section may be construed to authorize the appropriation or expenditure of funds for—
-
-&emsp;&emsp;(A) highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines); or
-
-&emsp;&emsp;(B) any purpose for which funds are authorized under section 403.
-
-&emsp;(2)
-
-Demonstration projects.—A State may use funds made available to carry out this section to assist in demonstration projects carried out by the Secretary under section 403.
+Restriction.—Nothing in this section may be construed to authorize the appropriation or expenditure of funds for highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines).
 
 (h)
 
@@ -182,6 +186,10 @@ Timing.—Each State shall submit to the Secretary the highway safety plan not l
 
 &emsp;(3)
 
+Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit highway safety plans under this subsection, including any attachments to the plans, in electronic form.
+
+&emsp;(4)
+
 Contents.—State highway safety plans submitted under paragraph (1) shall include—
 
 &emsp;&emsp;(A) performance measures required by the Secretary or otherwise necessary to support additional State safety goals, including—
@@ -202,17 +210,17 @@ Contents.—State highway safety plans submitted under paragraph (1) shall inclu
 
 &emsp;&emsp;(F) an application for any additional grants available to the State under this chapter.
 
-&emsp;(4)
+&emsp;(5)
 
 Performance measures.—For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (3)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor's Highway Safety Association and described in the report, "Traffic Safety Performance Measures for States and Federal Agencies" (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor's Highway Safety Association in making revisions to the set of required performance measures.
 
-&emsp;(5)
+&emsp;(6)
 
 Review of highway safety plans.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 60 days after the date on which a State's highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.
+In general.—Not later than 45 days after the date on which a State's highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.
 
 &emsp;&emsp;(B)
 
@@ -290,9 +298,17 @@ Use of funds.—Statewide efforts under paragraph (1)—
 
 &emsp;&emsp;&emsp;(vi) establishing State or regional advisory councils comprised of teen drivers to provide input and recommendations to the governor and the governor's safety representative on issues related to the safety of teen drivers;
 
-&emsp;&emsp;&emsp;(vii) collaborating with law enforcement; and
+&emsp;&emsp;&emsp;(vii) collaborating with law enforcement;
 
-&emsp;&emsp;&emsp;(viii) establishing partnerships and promoting coordination among community stakeholders, including public, not-for-profit, and for profit entities.
+&emsp;&emsp;&emsp;(viii) establishing partnerships and promoting coordination among community stakeholders, including public, not-for-profit, and for profit entities;
+
+&emsp;&emsp;&emsp;(ix) increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities; and
+
+&emsp;&emsp;&emsp;(x) support for school-based driver's education classes to improve teen knowledge about—
+
+&emsp;&emsp;&emsp;&emsp;(I) safe driving practices; and
+
+&emsp;&emsp;&emsp;&emsp;(II) State graduated driving license requirements, including behind-the-wheel training required to meet those requirements.
 
 (n)
 
@@ -302,73 +318,7 @@ Biennial Report to Congress.—Not later than October 1, 2015, and biennially th
 
 &emsp;(2) such recommendations as the Secretary may have for improvements to activities carried out under subsection (k).
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 90–495, §13, Aug. 23, 1968, 82 Stat. 822; Pub. L. 91–605, title II, §§202(c), (d), (e), 203(a), Dec. 31, 1970, 84 Stat. 1740, 1741; Pub. L. 93–87, title II, §§207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, 87 Stat. 285, 290, 293, 294; Pub. L. 94–280, title II, §§204, 208(a), 211, 212, May 5, 1976, 90 Stat. 453, 454, 455; Pub. L. 95–599, title II, §207(a), (b)(1), (c), (d), Nov. 6, 1978, 92 Stat. 2731, 2732; Pub. L. 97–35, title XI, §1107(c)–(e), Aug. 13, 1981, 95 Stat. 626; Pub. L. 97–424, title II, §208, Jan. 6, 1983, 96 Stat. 2140; Pub. L. 98–363, §§3(a), 5, July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(20), title II, §206, Apr. 2, 1987, 101 Stat. 172, 221; Pub. L. 102–240, title II, §2002, Dec. 18, 1991, 105 Stat. 2070; Pub. L. 104–66, title I, §1121(d), Dec. 21, 1995, 109 Stat. 724; Pub. L.105–178, title I, §1212(a)(2)(A)(i), title II, §2001(a)–(e), June 9, 1998, 112 Stat. 193, 323, 324; Pub. L. 109–59, title II, §2002(a)–(d), Aug. 10, 2005, 119 Stat. 1521; Pub. L. 110–244, title III, §303(a)–(c)(1), June 6, 2008, 122 Stat. 1619; Pub. L. 112–141, div. C, title I, §31102, July 6, 2012, 126 Stat. 734; Pub. L. 114–94, div. A, title IV, §§4002, 4014(1), Dec. 4, 2015, 129 Stat. 1499, 1513.)
-
-#### Amendment of Section
-
-<i>Pub. L. 114–94, div. A, title IV, §§4002, 4015, Dec. 4, 2015, 129 Stat. 1499, 1513, provided that, effective Oct. 1, 2016, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2)(A)—</i>
-
-<i>(A) in clause (vi) by striking "and" at the end;</i>
-
-<i>(B) in clause (vii) by inserting "and" after the semicolon; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(viii) to increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities;";</i>
-
-<i>(2) in subsection (c)(4), by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(C)</i>
-
-<i>Survey.—A State in which an automated traffic enforcement system is installed shall expend funds apportioned to that State under this section to conduct a biennial survey that the Secretary shall make publicly available through the Internet Web site of the Department of Transportation that includes—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) a list of automated traffic enforcement systems in the State;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) adequate data to measure the transparency, accountability, and safety attributes of each automated traffic enforcement system; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) a comparison of each automated traffic enforcement system with—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) Speed Enforcement Camera Systems Operational Guidelines (DOT HS 810 916, March 2008); and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) Red Light Camera Systems Operational Guidelines (FHWA–SA–05–002, January 2005)."</i>
-
-<i>(3) by striking subsection (g) and inserting the following:</i>
-
-<i>"(g)</i>
-
-<i>Restriction.—Nothing in this section may be construed to authorize the appropriation or expenditure of funds for highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines)."</i>
-
-<i>(4) in subsection (k)—</i>
-
-<i>(A) by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively;</i>
-
-<i>(B) by inserting after paragraph (2) the following:</i>
-
-&emsp;<i>"(3)</i>
-
-<i>Electronic submission.—The Secretary, in coordination with the Governors Highway Safety Association, shall develop procedures to allow States to submit highway safety plans under this subsection, including any attachments to the plans, in electronic form."</i>
-
-<i>(C) in paragraph (6)(A), as so redesignated, by striking "60 days" and inserting "45 days"; and</i>
-
-<i>(5) in subsection (m)(2)(B)—</i>
-
-<i>(A) in clause (vii) by striking "and" at the end;</i>
-
-<i>(B) in clause (viii) by striking the period at the end and inserting a semicolon; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(ix) increase driver awareness of commercial motor vehicles to prevent crashes and reduce injuries and fatalities; and</i>
-
-&emsp;&emsp;&emsp;<i>"(x) support for school-based driver's education classes to improve teen knowledge about—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) safe driving practices; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) State graduated driving license requirements, including behind-the-wheel training required to meet those requirements."</i>
-
-<i>See 2015 Amendment notes below.</i>
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 90–495, §13, Aug. 23, 1968, 82 Stat. 822; Pub. L. 91–605, title II, §§202(c), (d), (e), 203(a), Dec. 31, 1970, 84 Stat. 1740, 1741; Pub. L. 93–87, title II, §§207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, 87 Stat. 285, 290, 293, 294; Pub. L. 94–280, title II, §§204, 208(a), 211, 212, May 5,1976, 90 Stat. 453, 454, 455; Pub. L. 95–599, title II, §207(a), (b)(1), (c), (d), Nov. 6, 1978, 92 Stat. 2731, 2732; Pub. L. 97–35, title XI, §1107(c)–(e), Aug. 13, 1981, 95 Stat. 626; Pub. L. 97–424, title II, §208, Jan. 6, 1983, 96 Stat. 2140; Pub. L. 98–363, §§3(a), 5, July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(20), title II, §206, Apr. 2, 1987, 101 Stat. 172, 221; Pub. L. 102–240, title II, §2002, Dec. 18, 1991, 105 Stat. 2070; Pub. L. 104–66, title I, §1121(d), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), title II, §2001(a)–(e), June 9, 1998, 112 Stat. 193, 323, 324; Pub. L. 109–59, title II, §2002(a)–(d), Aug. 10, 2005, 119 Stat. 1521; Pub. L. 110–244, title III, §303(a)–(c)(1), June 6, 2008, 122 Stat. 1619; Pub. L. 112–141, div. C, title I, §31102, July 6, 2012, 126 Stat. 734; Pub. L. 114–94, div. A, title IV, §§4002, 4014(1), Dec. 4, 2015, 129 Stat. 1499, 1513.)
 
 #### References in Text
 
@@ -404,7 +354,7 @@ Demonstration projects.—A State may use funds made available to carry out this
 
 Subsec. (k)(3). Pub. L. 114–94, §4002(4)(B), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (k)(4). Pub. L. 114–94, §4014(1)(B), which directed substitution of "under paragraph (3)(A)" for "under paragraph (2)(A)" in par. (5) as redesignated by Pub. L. 114–94, §4002(4)(A), was executed by making substitution to par. (4), pending future execution of Pub. L. 114–94, §4002, to reflect the probable intent of Congress. See Effective Date of 2015 Amendment note below.
+Subsec. (k)(4). Pub. L. 114–94, §4014(1)(B), which directed substitution of "under paragraph (3)(A)" for "under paragraph (2)(A)" in par. (5) as redesignated by Pub. L. 114–94, §4002(4)(A), was executed by making substitution to par. (4) to reflect the probable intent of Congress. See Effective Date of 2015 Amendment note below.
 
 Pub. L. 114–94, §4002(4)(A) redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -416,7 +366,7 @@ Subsec. (k)(6)(A). Pub. L. 114–94, §4002(4)(C), substituted "45 days" for "60
 
 Subsec. (m)(2)(B)(ix), (x). Pub. L. 114–94, §4002(5), added cls. (ix) and (x).
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §31102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to State highway programs designed to reducetraffic accidents and deaths in accordance with uniform guidelines promulgated by the Secretary.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §31102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to State highway programs designed to reduce traffic accidents and deaths in accordance with uniform guidelines promulgated by the Secretary.
 
 Subsec. (b)(1)(E), (F). Pub. L. 112–141, §31102(b)(1)(A)–(C), added subpar. (E) and redesignated former subpar. (E) as (F).
 
@@ -486,13 +436,13 @@ Subsec. (c). Pub. L. 105–178, §2001(c), in sixth sentence, inserted "the appo
 
 Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (i). Pub. L. 105–178, §2001(d), inserted heading and amended text of subsec. (i) generally. Prior toamendment, text read as follows: "For the purpose of the application of this section on Indian reservations, 'State' and 'Governor of a State' includes the Secretary of the Interior and 'political subdivision of a State' includes an Indian tribe: <i>Provided</i>, That, notwithstanding the provisions of subparagraph (C) of subsection (b)(1) hereof, 95 per centum of the funds apportioned to the Secretary of the Interior after date of enactment, shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions: <i>And provided further</i>, That the provisions of subparagraph (E) of subsection (b)(1) hereof shall be applicable except in those tribal jurisdictions in which the Secretary determines such programs would not be practicable."
+Subsec. (i). Pub. L. 105–178, §2001(d), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: "For the purpose of the application of this section on Indian reservations, 'State' and 'Governor of a State' includes the Secretary of the Interior and 'political subdivision of a State' includes an Indian tribe: <i>Provided</i>, That, notwithstanding the provisions of subparagraph (C) of subsection (b)(1) hereof, 95 per centum of the funds apportioned to the Secretary of the Interior after date of enactment, shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions: <i>And provided further</i>, That the provisions of subparagraph (E) of subsection (b)(1) hereof shall be applicable except in those tribal jurisdictions in which the Secretary determines such programs would not be practicable."
 
 Subsec. (j). Pub. L. 105–178, §2001(e), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: "The Secretary shall, not later than September 1, 1987, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Not later than April 1, 1988, the Secretary shall promulgate a final rule establishing those programs determined to be most effective in reducing accidents, injuries, and deaths. If such rule is promulgated by April 1, 1988, then it shall take effect October 1, 1988. If such rule is not promulgated by April 1, 1988, it shall take effect October 1, 1989. After a rule is promulgated in accordance with this subsection, the Secretary may from time to time thereafter revise such rule under a rulemaking process described in the first sentence of this subsection. Any rule under this subsection shall be promulgated taking into account consideration of the States having a major role in establishing programs described in the first sentence of this subsection. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this section."
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out after fourth sentence "If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs."
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–240, §2002(a), inserted after third sentence "In addition, such uniform guidelines shall include programs (1) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits, (2) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles and to increase public awareness of the benefit of motor vehicles equipped with airbags, (3) to reduce deaths and injuries resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance, (4) to reduce deaths and injuries resulting from accidents involving motor vehicles and motorcycles, (5) to reduce injuries and deaths resulting from accidents involving school buses, and (6) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures. If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs. The Secretary shall establish a highway safety program for the collection and reporting of data on traffic-related deaths and injuries by the States. Under such program, the States shall collect and report such data as the Secretary may require. The purposes of the program are to ensure national uniform data on such deaths and injuries and to allow the Secretary to make determinations for use in developing programs to reduce such deaths and injuries and making recommendations to Congress concerning legislation necessary to implement such programs. The program shall include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and provide for annual reports to the Secretary on the efforts being made by the States in reducing deaths and injuries occurring at highway construction sites and the effectiveness and results of such efforts. The Secretary shall establish minimum reporting criteria for the program. Such criteria shall include, but not be limited to, criteria on deaths and injuries resulting from police pursuits, school bus accidents, and speeding, on traffic-related deaths and injuries at highway construction sites and on the configuration of commercial motor vehicles involved in motor vehicle accidents."
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §2002(a), inserted after third sentence "In addition, such uniform guidelines shall include programs (1) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits, (2) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles and to increase public awareness of the benefit of motor vehicles equipped with airbags, (3) to reduce deaths and injuries resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance, (4) to reduce deaths and injuries resulting from accidents involving motor vehicles and motorcycles, (5) to reduce injuries and deaths resulting from accidents involving school buses, and (6) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures. If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs. The Secretary shall establish a highway safety program for the collection and reporting of data on traffic-related deaths and injuries by the States. Under such program, the States shall collect and report such data as the Secretary may require. The purposes of the program are to ensure national uniform data on such deaths and injuries and to allow the Secretary to make determinations for use in developing programs to reduce such deaths and injuries and making recommendations to Congress concerning legislation necessary to implement such programs. The program shall include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and provide forannual reports to the Secretary on the efforts being made by the States in reducing deaths and injuries occurring at highway construction sites and the effectiveness and results of such efforts. The Secretary shall establish minimum reporting criteria for the program. Such criteria shall include, but not be limited to, criteria on deaths and injuries resulting from police pursuits, school bus accidents, and speeding, on traffic-related deaths and injuries at highway construction sites and on the configuration of commercial motor vehicles involved in motor vehicle accidents."
 
 Subsec. (b)(3) to (5). Pub. L. 102–240, §2002(b), added pars. (3) to (5).
 
@@ -508,7 +458,7 @@ Subsec. (c). Pub. L. 100–17, §§133(b)(20), 206(a), substituted "Such" for "F
 
 Subsecs. (e) to (g). Pub. L. 100–17, §206(a), substituted "guidelines" for "standards".
 
-Subsec. (j). Pub. L. 100–17, §206(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "The Secretary of Transportation shall, not later than September 1, 1981, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Such rule shall be promulgated taking into account consideration of the States having a major role in establishing these programs. Not later than April 1, 1982, the Secretary shall promulgate a final rule establishing those programs determined most effective in reducing accidents, injuries, and deaths. Before such rule shall take effect, it shall be transmitted to Congress. If such rule is not transmitted by April 1, 1982, it shall not take effect before October 1, 1983. If such rule is transmitted by April 1, 1982, it shall take effect October 1, 1982, unless before June 1, 1982, either House of Congress by resolution disapproves such rule. If such rule is disapproved by either House of Congress, the Secretary shall not apportion or obligate any amount authorized to carry out this section for the fiscal year ending September 30, 1983, orany subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of the Omnibus Budget Reconciliation Act of 1981. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this chapter."
+Subsec. (j). Pub. L. 100–17, §206(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "The Secretary of Transportation shall, not later than September 1, 1981, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Such rule shall be promulgated taking into account consideration of the States having a major role in establishing these programs. Not later than April 1, 1982, the Secretary shall promulgate a final rule establishing those programs determined most effective in reducing accidents, injuries, and deaths. Before such rule shall take effect, it shall be transmitted to Congress. If such rule is not transmitted by April 1, 1982, it shall not take effect before October 1, 1983. If such rule is transmitted by April 1, 1982, it shall take effect October 1, 1982, unless before June 1, 1982, either House of Congress by resolution disapproves such rule. If such rule is disapproved by either House of Congress, the Secretary shall not apportion or obligate any amount authorized to carry out this section for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of the Omnibus Budget Reconciliation Act of 1981. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this chapter."
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–363, §3(a), inserted ", except that the apportionments to the Virgin Islands, Guam, and American Samoa shall be not less than one-quarter of 1 per centum of the total apportionment" in sixth sentence.
 
@@ -586,7 +536,7 @@ Pub. L. 109–59, title II, §2022, Aug. 10, 2005, 119 Stat. 1544, provided that
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–240, title II, §2008, Dec. 18, 1991, 105 Stat. 2080, provided that: "Except as otherwise provided, this title \[amending this section and sections 403 and 410 of this title and sections 1392, 1413, and 1414 of Title 15, Commerce and Trade, enacting provisions set out as notes under this section and sections 401, 403, and 410 of this title and section 1392 of Title 15, and amending provisions set out as a note under section 401 of this title\], including the amendments made by this title, shall take effect on the date of the enactment of this Act \[Dec. 18, 1991\], shall apply to funds authorized to be appropriated or made available after September 30, 1991, and shall not apply to funds appropriated or made available on or before such date of enactment."
+Pub. L. 102–240, title II, §2008, Dec. 18, 1991, 105 Stat. 2080, provided that: "Except as otherwise provided, this title \[amending this section and sections 403 and 410 of this title and sections 1392, 1413, and 1414 of Title 15, Commerce and Trade, enacting provisions set out as notes under this section and sections 401, 403, and 410 of this title and section 1392 of Title 15, and amending provisions set out as a note under section 401 of this title\],including the amendments made by this title, shall take effect on the date of the enactment of this Act \[Dec. 18, 1991\], shall apply to funds authorized to be appropriated or made available after September 30, 1991, and shall not apply to funds appropriated or made available on or before such date of enactment."
 
 #### Effective Date of 1984 Amendment
 
@@ -630,7 +580,7 @@ Regulatory Authority.—Grants awarded under this title \[title IV of div. A of 
 
 "(e)
 
-State Matching Requirements.—If a grant awarded under chapter 4 of title 23, United States Code, requires a State to share in the cost, the aggregate of all expenditures for highway safety activities made during a fiscal year by the State and its political subdivisions (exclusive of Federal funds) for carrying out the grant (other than planning and administration) shall be available for the purpose of crediting the State during such fiscal year for the non-Federal share of thecost of any other project carried out under chapter 4 of title 23, United States Code (other than planning or administration), without regard to whether such expenditures were made in connection with such project.
+State Matching Requirements.—If a grant awarded under chapter 4 of title 23, United States Code, requires a State to share in the cost, the aggregate of all expenditures for highway safety activities made during a fiscal year by the State and its political subdivisions (exclusive of Federal funds) for carrying out the grant (other than planning and administration) shall be available for the purpose of crediting the State during such fiscal year for the non-Federal share of the cost of any other project carried out under chapter 4 of title 23, United States Code (other than planning or administration), without regard to whether such expenditures were made in connection with such project.
 
 "(f)
 
@@ -1058,7 +1008,7 @@ Factors to consider.—In developing the proposed uniform State law, the Secreta
 
 Report.—If a proposed uniform State law with respect to parking privileges for handicapped persons is developed and submitted to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives under paragraph (1), within 12 months after the date of such submission and each year thereafter, the Secretary shall report to such committees on the extent to which each State has adopted the proposed uniform State law."
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 161(c)(3) of Pub. L. 100–17, set out above, is listed on page 133), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 161(c)(3) of Pub. L. 100–17, set out above, is listed on page 133), see section 3003 of Pub. L. 104–66,as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Schoolbus Safety Measures; Study by National Academy of Sciences and Report; Publication of List of Most Effective Safety Measures in Federal Register; Schoolbus Safety Grant Program
 
@@ -1168,7 +1118,7 @@ Pub. L. 89–564, title II, §204, Sept. 9, 1966, 80 Stat. 736, as amended by Pu
 
 Ex. Ord. No. 13043, Apr. 16, 1997, 62 F.R. 19217, as amended by Ex. Ord. No. 13652, §5, Sept. 30, 2013, 78 F.R. 61818, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Highway Safety Act of 1966, 23 U.S.C. 402 and 403, as amended, section 7902(c) of title 5, United States Code, and section 19 of the Occupational Safety and Health Act of 1970, 29 U.S.C. 668, as amended, and in order to require that Federal employees use seat belts while on official business; to requirethat motor vehicle occupants use seat belts in national park areas and on Department of Defense ("Defense") installations; to encourage Tribal Governments to adopt and enforce seat belt policies and programs for occupants of motor vehicles traveling on highways in Indian Country; and to encourage Federal contractors, subcontractors, and grantees to adopt and enforce on-the-job seat belt use policies and programs, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Highway Safety Act of 1966, 23 U.S.C. 402 and 403, as amended, section 7902(c) of title 5, United States Code, and section 19 of the Occupational Safety and Health Act of 1970, 29 U.S.C. 668, as amended, and in order to require that Federal employees use seat belts while on official business; to require that motor vehicle occupants use seat belts in national park areas and on Department of Defense ("Defense") installations; to encourage Tribal Governments to adopt and enforce seat belt policies and programs for occupants of motor vehicles traveling on highways in Indian Country; and to encourage Federal contractors, subcontractors, and grantees to adopt and enforce on-the-job seat belt use policies and programs, it is hereby ordered as follows:
 
 Section 1. <i>Policies</i>. (a) <i>Seat Belt Use by Federal Employees</i>. Each Federal employee occupying any seating position of a motor vehicle on official business, whose seat is equipped with a seat belt, shall have the seat belt properly fastened at all times when the vehicle is in motion.
 

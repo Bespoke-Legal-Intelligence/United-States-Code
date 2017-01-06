@@ -10,7 +10,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;&emsp;(B) pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on admitted insurers and surplus lines insurers, brokers, or policyholders under the laws of the State;
 
-&emsp;&emsp;(C) participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers ofliability insurance losses and expenses incurred on policies written through such mechanism;
+&emsp;&emsp;(C) participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers of liability insurance losses and expenses incurred on policies written through such mechanism;
 
 &emsp;&emsp;(D) register with and designate the State insurance commissioner as its agent solely for the purpose of receiving service of legal documents or process;
 

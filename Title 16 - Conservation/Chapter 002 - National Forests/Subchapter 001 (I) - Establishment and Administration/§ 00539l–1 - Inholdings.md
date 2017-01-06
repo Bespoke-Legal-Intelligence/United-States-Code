@@ -26,7 +26,7 @@ If the Colorado State Land Board informs the Secretary that the Board is willing
 
 #### (2) Funding information
 
-&emsp;The report required by this subsection shall indicate to what extent funds are available tothe Secretary as of the date of the report for the acquisition of the relevant lands and whether additional funds need to be appropriated or otherwise made available to the Secretary for such purpose.
+&emsp;The report required by this subsection shall indicate to what extent funds are available to the Secretary as of the date of the report for the acquisition of the relevant lands and whether additional funds need to be appropriated or otherwise made available to the Secretary for such purpose.
 
 #### (d) Management of acquisitions
 
@@ -40,5 +40,5 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 107–216, Aug. 21, 2002, 11
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

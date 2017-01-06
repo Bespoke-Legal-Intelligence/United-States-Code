@@ -62,7 +62,7 @@ Repayment.—If a person paid a bonus under this section does not complete a per
 
 #### Amendment of Section
 
-<i>Pub. L. 114–92, div. A, title VI, §§631(c)(2), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided</i><i>that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:</i>
+<i>Pub. L. 114–92, div. A, title VI, §§631(c)(2), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:</i>
 
 <i>(1) in subsection (f), by striking "If a" and inserting "(1) If a" and by adding at the end the following new paragraph:</i>
 

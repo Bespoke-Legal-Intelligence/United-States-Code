@@ -88,7 +88,7 @@ Each plan approved by the Secretary shall—
 
 #### (C) Flexibility
 
-&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility for a producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
+&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility fora producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
 
 #### (D) Minimization of adverse effect
 
@@ -142,7 +142,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting orgrazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 

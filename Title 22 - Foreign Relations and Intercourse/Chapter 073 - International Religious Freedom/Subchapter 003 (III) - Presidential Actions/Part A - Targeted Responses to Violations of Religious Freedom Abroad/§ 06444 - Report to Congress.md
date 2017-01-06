@@ -6,7 +6,7 @@ Subject to subsection (b), not later than 90 days after the President decides to
 
 #### (1) Identification of Presidential actions
 
-&emsp;An identification of the Presidential action or actions described in paragraphs (9) through\(15) of section 6445(a) of this title (or commensurate action in substitution thereto) to be taken with respect to the foreign country.
+&emsp;An identification of the Presidential action or actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) to be taken with respect to the foreign country.
 
 #### (2) Description of violations
 
@@ -24,9 +24,11 @@ Subject to subsection (b), not later than 90 days after the President decides to
 
 &emsp;&emsp;&emsp;(i) the impact upon the foreign government;
 
-&emsp;&emsp;&emsp;(ii) the impact upon the population of the country; and
+&emsp;&emsp;&emsp;(ii) the impact upon the population of the country;
 
-&emsp;&emsp;&emsp;(iii) the impact upon the United States economy and other interested parties.
+&emsp;&emsp;&emsp;(iii) the impact upon the United States economy and other interested parties; and
+
+&emsp;&emsp;&emsp;(iv) the impact on the advancement of United States interests in democracy, human rights, and security, and a description of policy tools being applied in the country, including programs that target democratic stability, economic growth, and counterterrorism.
 
 #### (B) Authority to withhold disclosure
 
@@ -44,5 +46,9 @@ Subject to subsection (b), not later than 90 days after the President decides to
 
 If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
 
-(Pub. L. 105–292, title IV, §404, Oct. 27, 1998, 112 Stat. 2805.)
+(Pub. L. 105–292, title IV, §404, Oct. 27, 1998, 112 Stat. 2805; Pub. L. 114–281, title III, §303, Dec. 16, 2016, 130 Stat. 1435.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(4)(A)(iv). Pub. L. 114–281 added cl. (iv).
 

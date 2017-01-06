@@ -10,7 +10,12 @@
 | [2193b.](%C2%A7%2002193b%20-%20Improvement%20of%20education%20in%20technical%20fields%20program%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%2C%20mathematics%2C%20and%E2%80%A6.md) | Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology. |
 | [2194\.](%C2%A7%2002194%20-%20Education%20partnerships.md) | Education partnerships. |
 | [2195\.](%C2%A7%2002195%20-%20Department%20of%20Defense%20cooperative%20education%20programs.md) | Department of Defense cooperative education programs. |
-| [2196\.](%C2%A7%2002196%20-%20Manufacturing%20engineering%20education%20grant%20program.md) | Manufacturing engineering education: grant program. |
+| [2196\.](%C2%A7%2002196%20-%20Manufacturing%20engineering%20education%20program.md) | Manufacturing engineering education: grant program.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2197\.](%C2%A7%2002197%20-%20Manufacturing%20experts%20in%20the%20classroom.md) | Manufacturing experts in the classroom. |
 | [2198\.](%C2%A7%2002198%20-%20Management%20training%20program%20in%20Japanese%20language%20and%20culture.md) | Management training program in Japanese language and culture. |
 | [2199\.](%C2%A7%2002199%20-%20Definitions.md) | Definitions. |
@@ -55,6 +60,8 @@ In General.—The Under Secretary of Defense for Acquisition, Technology, and Lo
 
 Implementation.—Not later than 270 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the steps taken to implement the requirements of this section."
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 114–328 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -68,7 +75,7 @@ Implementation.—Not later than 270 days after the date of the enactment of thi
 - [&sect; 02193b - Improvement of education in technical fields program for support of elementary and secondary education in science, mathematics, and&#8230;](%C2%A7%2002193b%20-%20Improvement%20of%20education%20in%20technical%20fields%20program%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%2C%20mathematics%2C%20and%E2%80%A6.md)
 - [&sect; 02194 - Education partnerships](%C2%A7%2002194%20-%20Education%20partnerships.md)
 - [&sect; 02195 - Department of Defense cooperative education programs](%C2%A7%2002195%20-%20Department%20of%20Defense%20cooperative%20education%20programs.md)
-- [&sect; 02196 - Manufacturing engineering education grant program](%C2%A7%2002196%20-%20Manufacturing%20engineering%20education%20grant%20program.md)
+- [&sect; 02196 - Manufacturing engineering education program](%C2%A7%2002196%20-%20Manufacturing%20engineering%20education%20program.md)
 - [&sect; 02197 - Manufacturing experts in the classroom](%C2%A7%2002197%20-%20Manufacturing%20experts%20in%20the%20classroom.md)
 - [&sect; 02198 - Management training program in Japanese language and culture](%C2%A7%2002198%20-%20Management%20training%20program%20in%20Japanese%20language%20and%20culture.md)
 - [&sect; 02199 - Definitions](%C2%A7%2002199%20-%20Definitions.md)

@@ -10,7 +10,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 &emsp;To be eligible to participate in the conservation security program (other than to receive technical assistance under section 3838c(g) of this title for the development of conservation security contracts), a producer shall—
 
-&emsp;&emsp;(A) develop and submit to the Secretary, and obtain the approval of the Secretary of, a conservation security plan that meets the requirements of subsection (c)(1) of this section; and
+&emsp;&emsp;(A) develop and submit to the Secretary, and obtain the approval of the Secretary of, a conservation security plan that meets the requirements of subsection (c)(1); and
 
 &emsp;&emsp;(B) enter into a conservation security contract with the Secretary to carry out the conservation security plan.
 
@@ -22,11 +22,11 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (A) Conservation reserve program
 
-&emsp;&emsp;Land enrolled in the conservation reserve program under subpart B of part I of this subchapter shall not be eligible for enrollment in the conservation security program.
+&emsp;&emsp;Land enrolled in the conservation reserve program under subpart B of part I shall not be eligible for enrollment in the conservation security program.
 
 #### (B) Wetlands reserve program
 
-&emsp;&emsp;Land enrolled in the wetlands reserve program established under subpart C of part I of this subchapter shall not be eligible for enrollment in the conservation security program.
+&emsp;&emsp;Land enrolled in the wetlands reserve program established under subpart C of part I shall not be eligible for enrollment in the conservation security program.
 
 #### (C) Grassland reserve program
 
@@ -34,7 +34,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (D) Conversion to cropland
 
-&emsp;&emsp;Land that is used for crop production after May 13, 2002, that had not been planted, considered to be planted, or devoted to crop production for at least 4 of the 6 years preceding May 13, 2002 (except for land enrolled in the conservation reserve program under subpart B of part I of this subchapter) or that has been maintained using long-term crop rotation practices, as determined by the Secretary, shall not be the basis for any payment under the conservation security program.
+&emsp;&emsp;Land that is used for crop production after May 13, 2002, that had not been planted, considered to be planted, or devoted to crop production for at least 4 of the 6 years preceding May 13, 2002 (except for land enrolled in the conservation reserve program under subpart B of part I) or that has been maintained using long-term crop rotation practices, as determined by the Secretary, shall not be the basis for any payment under the conservation security program.
 
 #### (4) Economic uses
 
@@ -52,7 +52,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 &emsp;&emsp;(A) identify the designated land and resources to be conserved under the conservation security plan;
 
-&emsp;&emsp;(B) describe the tier of conservation security contract, and the particular conservation practices to be implemented, maintained, or improved, in accordance with subsection (d) of this section on the land covered by the conservation security contract for the specified term; and
+&emsp;&emsp;(B) describe the tier of conservation security contract, and the particular conservation practices to be implemented, maintained, or improved, in accordance with subsection (d) on the land covered by the conservation security contract for the specified term; and
 
 &emsp;&emsp;(C) contain a schedule for the implementation, maintenance, or improvement of the conservation practices described in the conservation security plan during the term of the conservation security contract.
 
@@ -96,7 +96,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 &emsp;&emsp;The conservation priorities of a State or locality in which an agricultural operation is situated shall be determined by the State Conservationist, in consultation with—
 
-&emsp;&emsp;&emsp;(i) the State technical committee established under subchapter VI of this chapter; and
+&emsp;&emsp;&emsp;(i) the State technical committee established under subchapter VI; and
 
 &emsp;&emsp;&emsp;(ii) local agricultural producers and conservation working groups.
 
@@ -212,9 +212,9 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the conservation security program;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the conservation reserve program under subpart B of part I of this subchapter; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the conservation reserve program under subpart B of part I; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the wetlands reserve program under subpart C of part I of this subchapter; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the wetlands reserve program under subpart C of part I; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may remove land enrolled in the conservation security program for enrollment in a program described in item (bb) or (cc) of subclause (I).
 
@@ -252,7 +252,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (f) Noncompliance due to circumstances beyond the control of producers
 
-The Secretary shall include in the conservation security contract a provision, and may permit modification of a conservation security contract under subsection (e)(1) of this section, to ensure that a producer shall not be considered in violation of a conservation security contract for failure to comply with the conservation security contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary.
+The Secretary shall include in the conservation security contract a provision, and may permit modification of a conservation security contract under subsection (e)(1), to ensure that a producer shall not be considered in violation of a conservation security contract for failure to comply with the conservation security contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary.
 
 #### (g) Prohibition on conservation security program contracts; effect on existing contracts
 

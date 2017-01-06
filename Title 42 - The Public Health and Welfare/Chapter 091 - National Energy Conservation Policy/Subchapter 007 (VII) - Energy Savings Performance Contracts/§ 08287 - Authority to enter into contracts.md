@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (ifany) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
+(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
 (2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
@@ -64,7 +64,7 @@ Modification of existing contracts.—Not later than 18 months after December 19
 
 &emsp;(C) allow the head of each agency to—
 
-&emsp;&emsp;(i) select firms from the list prepared pursuant to subparagraph (A)(ii) or the list prepared by the agency pursuant to subparagraph (B) to conduct discussions concerninga particular proposed energy savings project, including requesting a technical and price proposal from such selected firms for such project;
+&emsp;&emsp;(i) select firms from the list prepared pursuant to subparagraph (A)(ii) or the list prepared by the agency pursuant to subparagraph (B) to conduct discussions concerning a particular proposed energy savings project, including requesting a technical and price proposal from such selected firms for such project;
 
 &emsp;&emsp;(ii) select from such firms the most qualified firm to provide energy savings services based on technical and price proposals and any other relevant information;
 
@@ -118,7 +118,7 @@ In subsec. (a)(2)(D)(iii), "section 1303 of title 41" substituted for "section 2
 
 In subsec. (b)(1)(A), "section 1302(a) of title 41" substituted for "section 25(a) of the Office of Federal Procurement Policy Act".
 
-In subsec. (c)(2), "section 4106(d) of title 41" substituted for "section 303J(d) of the Federal Propertyand Administrative Services Act of 1949 (41 U.S.C. 253j(d))".
+In subsec. (c)(2), "section 4106(d) of title 41" substituted for "section 303J(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(d))".
 
 #### Amendments
 
@@ -192,5 +192,5 @@ Authorized Uses of Savings.—The energy cost savings realized by the United Sta
 
 "(c)
 
-Determination of Amount of Savings.—Not more than 90 days after the end of each of the first five years during which energy savings measures have been in operation under a contract entered into by the Secretary of a military department under title VIII of the National Energy Conservation Policy Act, the Secretary of the military department concerned shall determine the amount of energy cost savings realized bythe United States under the terms of the contract during that year by reason of the energy savings measures acquired and installed at that installation pursuant to that contract."
+Determination of Amount of Savings.—Not more than 90 days after the end of each of the first five years during which energy savings measures have been in operation under a contract entered into by the Secretary of a military department under title VIII of the National Energy Conservation Policy Act, the Secretary of the military department concerned shall determine the amount of energy cost savings realized by the United States under the terms of the contract during that year by reason of the energy savings measures acquired and installed at that installation pursuant to that contract."
 

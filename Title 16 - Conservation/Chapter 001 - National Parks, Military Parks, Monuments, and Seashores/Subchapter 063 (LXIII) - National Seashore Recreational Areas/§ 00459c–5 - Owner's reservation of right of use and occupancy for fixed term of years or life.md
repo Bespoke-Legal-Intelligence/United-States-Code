@@ -20,7 +20,7 @@ The Secretary is authorized to accept and manage in accordance with sections 459
 
 Notwithstanding any other provision of law, no fee or admission charge may be levied for admission of the general public to the seashore.
 
-(Pub. L. 87–657, §5, formerly §6, Sept. 13, 1962, 76 Stat. 541; renumbered §5, Pub. L. 91–223, §2(c), Apr. 3, 1970, 84 Stat. 90; amended Pub. L. 95–625, title III, §318(b)–(d), Nov. 10, 1978, 92 Stat. 3487; Pub. L. 96–199, title I, §101(a)(2)–(4), Mar. 5, 1980, 94 Stat. 67.)
+(Pub. L. 87–657, §5, formerly §6, Sept. 13, 1962, 76 Stat. 541; renumbered §5, Pub. L. 91–223, §2(c),Apr. 3, 1970, 84 Stat. 90; amended Pub. L. 95–625, title III, §318(b)–(d), Nov. 10, 1978, 92 Stat. 3487; Pub. L. 96–199, title I, §101(a)(2)–(4), Mar. 5, 1980, 94 Stat. 67.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsecs. (d), (e). Pub. L. 96–199, §101(a)(4), added subsecs. (d) and (e).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–625, §318(b), extended provision to agricultural property; provided for: retention rights of heirs and assigns, retention rights for term of twenty-five years or for term ending with death of owner or spouse, whichever was later, as elected by owner, which provision previously authorized retention for term of fifty years, termination of right of retention and notice thereof, and for lease of federally owned lands, subject to restrictive covenants, with first offer to prior owner or leaseholder; and included clause relating to donation of property to the United States.
 
-Subsec. (b). Pub. L. 95–625, §318(c), defined "improved property" to include private dwelling, the constructionof which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of "agricultural property".
+Subsec. (b). Pub. L. 95–625, §318(c), defined "improved property" to include private dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of "agricultural property".
 
 Subsec. (c). Pub. L. 95–625, §318(d), added subsec. (c).
 

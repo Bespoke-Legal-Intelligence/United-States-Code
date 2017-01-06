@@ -22,7 +22,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (1) Dairy financial risk management research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
+&emsp;Research and extension grants may be made under this section for the purpose of providingresearch, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
 
 #### (2) Potato research and extension
 
@@ -218,7 +218,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (4) Consultation
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shallpublish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
+&emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
 &emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
@@ -382,7 +382,7 @@ Pub. L. 108–465, title III, §301, Dec. 21, 2004, 118 Stat. 3885, provided tha
 
 "(a)
 
-Priority.—The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to the grower or processor associated with any alternatives proposed.
+Priority.—The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to thegrower or processor associated with any alternatives proposed.
 
 "(b)
 
@@ -396,7 +396,7 @@ Memorandum for Heads of Executive Departments and Agencies
 
 Pollinators contribute substantially to the economy of the United States and are vital to keeping fruits, nuts, and vegetables in our diets. Honey bee pollination alone adds more than $15 billion in value to agricultural crops each year in the United States. Over the past few decades, there has been a significant loss of pollinators, including honey bees, native bees, birds, bats, and butterflies, from the environment. The problem is serious and requires immediate attention to ensure the sustainability of our food production systems, avoid additional economic impact on the agricultural sector, and protect the health of the environment.
 
-Pollinator losses have been severe. The number of migrating Monarch butterflies sank to the lowest recorded population level in 2013–14, and there is an imminent risk of failed migration. The continued loss of commercial honey bee colonies poses a threat to the economic stability of commercial beekeeping and pollination operations in the United States, which could have profound implications for agriculture and food. Severe yearly declines create concern that bee colony losses could reach a point from which the commercial pollination industry would not be able to adequately recover. The loss of native bees, which also play a keyrole in pollination of crops, is much less studied, but many native bee species are believed to be in decline. Scientists believe that bee losses are likely caused by a combination of stressors, including poor bee nutrition, loss of forage lands, parasites, pathogens, lack of genetic diversity, and exposure to pesticides.
+Pollinator losses have been severe. The number of migrating Monarch butterflies sank to the lowest recorded population level in 2013–14, and there is an imminent risk of failed migration. The continued loss of commercial honey bee colonies poses a threat to the economic stability of commercial beekeeping and pollination operations in the United States, which could have profound implications for agriculture and food. Severe yearly declines create concern that bee colony losses could reach a point from which the commercial pollination industry would not be able to adequately recover. The loss of native bees, which also play a key role in pollination of crops, is much less studied, but many native bee species are believed to be in decline. Scientists believe that bee losses are likely caused by a combination of stressors, including poor bee nutrition, loss of forage lands, parasites, pathogens, lack of genetic diversity, and exposure to pesticides.
 
 Given the breadth, severity, and persistence of pollinator losses, it is critical to expand Federal efforts and take new steps to reverse pollinator losses and help restore populations to healthy levels. These steps should include the development of new public-private partnerships and increased citizen engagement. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
@@ -458,7 +458,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (a) Task Force member agencies shall develop and provide to the Task Force plans to enhance pollinator habitat, and subsequently implement, as appropriate, such plans on their managed lands and facilities, consistent with their missions and public safety. These plans may include: facility landscaping, including easements; land management; policies with respect to road and other rights-of-way; educational gardens; use of integrated vegetation and pest management; increased native vegetation; and application of pollinator-friendly best management practices and seed mixes. Task Force member agencies shall also review any new or renewing land management contracts and grants for the opportunity to include requirements for enhancing pollinator habitat.
 
-(b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline, utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
+(b) Task Force member agencies shall evaluate permit and management practices on power line, pipeline,utility, and other rights-of-way and easements, and, consistent with applicable law, make any necessary and appropriate changes to enhance pollinator habitat on Federal lands through the use of integrated vegetation and pest management and pollinator-friendly best management practices, and by supplementing existing agreements and memoranda of understanding with rights-of-way holders, where appropriate, to establish and improve pollinator habitat.
 
 (c) Task Force member agencies shall incorporate pollinator health as a component of all future restoration and reclamation projects, as appropriate, including all annual restoration plans.
 

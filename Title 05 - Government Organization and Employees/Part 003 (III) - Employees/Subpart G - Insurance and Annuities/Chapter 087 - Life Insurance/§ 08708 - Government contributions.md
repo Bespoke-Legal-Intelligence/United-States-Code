@@ -64,7 +64,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–206 effective on first day of first pay period which begins on or after sixtieth day following December 16, 1967, see section 405(a) of Pub. L. 90–206, set out as a note under section 8704 of this title.
+Amendment by Pub. L. 90–206 effective on first day of first pay period which begins on or after sixtieth dayfollowing December 16, 1967, see section 405(a) of Pub. L. 90–206, set out as a note under section 8704 of this title.
 
 #### Retroactive Effect of 1967 Amendment
 

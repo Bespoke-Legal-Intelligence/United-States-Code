@@ -17,9 +17,7 @@
 | [4341a.](%C2%A7%2004341a%20-%20Cadets%20appointment%20by%20the%20President.md) | Cadets: appointment by the President. |
 | [4342\.](%C2%A7%2004342%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md) | Cadets: appointment; numbers, territorial distribution. |
 | [4343\.](%C2%A7%2004343%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md) | Cadets: appointment; to bring Corps to full strength. |
-| [4344\.](%C2%A7%2004344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
-| [4345\.](%C2%A7%2004345%20-%20Exchange%20program%20with%20foreign%20military%20academies.md) | Exchange program with foreign military academies. |
-| [4345a.](%C2%A7%2004345a%20-%20Foreign%20and%20cultural%20exchange%20activities.md) | Foreign and cultural exchange activities. |
+| \[4344 to 4345a. Repealed.\] |  |
 | [4346\.](%C2%A7%2004346%20-%20Cadets%20requirements%20for%20admission.md) | Cadets: requirements for admission. |
 | [4347\.](%C2%A7%2004347%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md) | Cadets; nominees: effect of redistricting of States. |
 | [4348\.](%C2%A7%2004348%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md) | Cadets: agreement to serve as officer. |
@@ -41,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1248(b)(2)(A), Dec. 23, 2016, 130 Stat. 2525, struck out items 4344 "Selection of persons from foreign countries", 4345 "Exchange program with foreign military academies", and 4345a "Foreign and cultural exchange activities".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title V, §557(b), Nov. 25, 2015, 129 Stat. 827, added item 4362.
 
@@ -98,9 +98,7 @@ Pub. L. 108–375, div. A, title V, §544(a)(2), Oct. 28, 2004, 118 Stat. 1906, 
 - [&sect; 04341a - Cadets appointment by the President](%C2%A7%2004341a%20-%20Cadets%20appointment%20by%20the%20President.md)
 - [&sect; 04342 - Cadets appointment; numbers, territorial distribution](%C2%A7%2004342%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md)
 - [&sect; 04343 - Cadets appointment; to bring Corps to full strength](%C2%A7%2004343%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md)
-- [&sect; 04344 - Selection of persons from foreign countries](%C2%A7%2004344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md)
-- [&sect; 04345 - Exchange program with foreign military academies](%C2%A7%2004345%20-%20Exchange%20program%20with%20foreign%20military%20academies.md)
-- [&sect; 04345a - Foreign and cultural exchange activities](%C2%A7%2004345a%20-%20Foreign%20and%20cultural%20exchange%20activities.md)
+- [&sect; 04344 to 4345a - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1248(b)(1), Dec. 23, 2016, 130 Stat. 2525](%C2%A7%2004344%20to%204345a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71248%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202525.md)
 - [&sect; 04346 - Cadets requirements for admission](%C2%A7%2004346%20-%20Cadets%20requirements%20for%20admission.md)
 - [&sect; 04347 - Cadets; nominees effect of redistricting of States](%C2%A7%2004347%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md)
 - [&sect; 04348 - Cadets agreement to serve as officer](%C2%A7%2004348%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md)

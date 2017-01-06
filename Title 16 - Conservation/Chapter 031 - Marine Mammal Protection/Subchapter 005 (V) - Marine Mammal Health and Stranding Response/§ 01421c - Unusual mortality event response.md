@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, in consultation with the Secretary of the Interior and the unusualmortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
+&emsp;The Secretary shall, in consultation with the Secretary of the Interior and the unusual mortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
 
 #### (2) Contents
 

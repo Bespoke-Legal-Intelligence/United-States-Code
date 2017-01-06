@@ -108,7 +108,7 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 &emsp;&emsp;<b>For provisions requiring the reporting of certain acts with respect to a qualified stock option, an incentive stock option, options granted under employer stock purchase plans, or a restricted stock option, see section 6039.</b>
 
-(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(l)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388-525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874.)
+(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(l)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874.)
 
 #### Prior Provisions
 

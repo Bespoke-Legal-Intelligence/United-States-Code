@@ -48,7 +48,7 @@
 
 &emsp;(C) proclaim a modification or imposition of any quantitative restriction on the importation of the article into the United States;
 
-&emsp;(D) implement one or more appropriate adjustment measures, including the provision oftrade adjustment assistance under part 2 of this subchapter;
+&emsp;(D) implement one or more appropriate adjustment measures, including the provision of trade adjustment assistance under part 2 of this subchapter;
 
 &emsp;(E) negotiate, conclude, and carry out agreements with foreign countries limiting the export from foreign countries and the import into the United States of such article;
 
@@ -66,7 +66,7 @@
 
 (B) If a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received, except that, in a case in which the President has proclaimed provisional relief under section 2252(d)(2)(D) of this title with respect to the article concerned, action by the President under paragraph (1) may not be taken later than the 200th day after the provisional relief was proclaimed.
 
-(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days after the date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
+(5) The President may, within 15 days after the date on which he receives a report from the Commission containing an affirmative determination under section 2252(b)(1) of this title, request additional information from the Commission. The Commission shall, as soon as practicable but in no event more than 30 days afterthe date on which it receives the President's request, furnish additional information with respect to the industry in a supplemental report.
 
 #### (b) Reports to Congress
 
@@ -158,7 +158,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (e)(6), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (e)(6), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
 

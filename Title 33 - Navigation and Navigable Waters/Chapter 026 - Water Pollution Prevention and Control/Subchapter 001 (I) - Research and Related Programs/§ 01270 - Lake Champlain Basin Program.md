@@ -90,7 +90,7 @@ In this section:
 
 #### (3) Plan
 
-&emsp;The term "Plan" means the plan developed under subsection (e) of this section.
+&emsp;The term "Plan" means the plan developed under subsection (e).
 
 #### (h) No effect on certain authority
 

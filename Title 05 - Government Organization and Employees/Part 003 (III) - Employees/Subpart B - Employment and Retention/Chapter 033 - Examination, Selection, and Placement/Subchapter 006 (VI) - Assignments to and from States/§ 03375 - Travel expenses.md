@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) a per diem allowance at the assignment location during the period of the assignment; and
 
-&emsp;&emsp;(C) travel, including a per diem allowance, while traveling on official business awayfrom his designated post of duty during the assignment when the head of the Federal agency considers the travel in the interest of the United States;
+&emsp;&emsp;(C) travel, including a per diem allowance, while traveling on official business away from his designated post of duty during the assignment when the head of the Federal agency considers the travel in the interest of the United States;
 
 &emsp;(2) section 5724 of this title, for the expenses of transportation of his immediate family and of his household goods and personal effects to and from the assignment location;
 
@@ -47,4 +47,8 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date
+
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under section 3371 of this title.
 

@@ -74,7 +74,7 @@ The Secretary shall appoint a Special Assistant to the Secretary who shall be re
 
 &emsp;(9) coordinating industry efforts, with respect to functions of the Department of Homeland Security, to identify private sector resources and capabilities that could be effective in supplementing Federal, State, and local government agency efforts to prevent or respond to a terrorist attack;
 
-&emsp;(10) coordinating with the Directorate of Border and Transportation Security and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
+&emsp;(10) coordinating with the Commissioner of U.S. Customs and Border Protection and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
 
 &emsp;(11) consulting with the Office of State and Local Government Coordination and Preparedness on all matters of concern to the private sector, including the tourism industry.
 
@@ -82,7 +82,7 @@ The Secretary shall appoint a Special Assistant to the Secretary who shall be re
 
 All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 (15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
 
-(Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VII, §7402, Dec. 17, 2004, 118 Stat. 3850; Pub. L. 110–53, title IX, §902, Aug. 3, 2007, 121 Stat. 371.)
+(Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VII, §7402, Dec. 17, 2004, 118 Stat. 3850; Pub. L. 110–53, title IX, §902, Aug. 3, 2007, 121 Stat. 371; Pub. L. 114–125, title VIII, §802(g)(1)(A)(i), Feb. 24, 2016, 130 Stat. 210.)
 
 #### References in Text
 
@@ -92,6 +92,8 @@ Section 12(d) of the National Technology Transfer Advancement Act of 1995, refer
 
 #### Amendments
 
+<b>2016</b>—Subsec. (f)(10). Pub. L. 114–125 substituted "the Commissioner of U.S. Customs and Border Protection" for "the Directorate of Border and Transportation Security".
+
 <b>2007</b>—Subsec. (f)(4)(C). Pub. L. 110–53, §902(b), added subpar. (C).
 
 Subsec. (f)(8) to (11). Pub. L. 110–53, §902(a), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
@@ -100,7 +102,7 @@ Subsec. (f)(8) to (11). Pub. L. 110–53, §902(a), added par. (8) and redesigna
 
 #### Required Coordination
 
-Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided that: "The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for, and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness."
+Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided that: "The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for,and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness."
 
 #### Protections for Human Research Subjects of the Department of Homeland Security
 

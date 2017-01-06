@@ -34,7 +34,7 @@ Exclusions.—Except as provided in paragraph (3), the term "consumer report" do
 
 &emsp;&emsp;(B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
 
-&emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
+&emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if thethird party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
 
 &emsp;&emsp;(D) a communication described in subsection (o) or (x).<sup>1</sup>
 
@@ -54,7 +54,7 @@ Restriction on sharing of medical information.—Except for information or any c
 
 (g) The term "file", when used in connection with information on any consumer, means all of the information on that consumer recorded and retained by a consumer reporting agency regardless of how the information is stored.
 
-(h) The term "employment purposes" when used in connection with a consumer reportmeans a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee.
+(h) The term "employment purposes" when used in connection with a consumer report means a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee.
 
 (i)
 
@@ -246,7 +246,7 @@ Debit card.—The term "debit card" means any card issued by a financial institu
 
 &emsp;(4)
 
-Account and electronic fund transfer.—The terms "account" and "electronicfund transfer" have the same meanings as in section 1693a of this title.
+Account and electronic fund transfer.—The terms "account" and "electronic fund transfer" have the same meanings as in section 1693a of this title.
 
 &emsp;(5)
 
@@ -320,7 +320,7 @@ Communications described in this subsection.—A communication is described in t
 
 &emsp;(2)
 
-Subsequent disclosure.—After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
+Subsequent disclosure.—After taking any adverse action based in whole or in parton a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
 
 &emsp;(3)
 
@@ -415,6 +415,10 @@ Early Compliance.—Any person or other entity that is subject to the requiremen
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–537, §2(d), Oct. 27, 1992, 106 Stat. 3532, provided that: "The amendments made by this section \[enacting section 1681s–1 of this title and amending this section\] shall take effect on January 1, 1993."
+
+#### Effective Date
+
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
 #### Construction of 1996 Amendment
 

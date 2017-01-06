@@ -44,7 +44,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 "(a)
 
-Establishment.—There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
+Establishment.—There is hereby established the Commission on Ocean Policy. The Federal AdvisoryCommittee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
 
 "(b)
 
@@ -106,7 +106,7 @@ Notice; Minutes; Public Availability of Documents.—
 
 &emsp;&emsp;"(A) All open meetings of the Commission shall be preceded by timely public notice in the Federal Register of the time, place, and subject of the meeting.
 
-&emsp;&emsp;"(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copiesof all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
+&emsp;&emsp;"(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copies of all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
 
 &emsp;"(3)
 
@@ -252,7 +252,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. The ocean, our coasts, and the Great Lakes provide jobs, food, energy resources, ecological services, recreation, and tourism opportunities, and play critical roles in our Nation's transportation, economy, and trade, as well as the global mobility of our Armed Forces and the maintenance of international peace and security. The Deepwater Horizon oil spill in the Gulf of Mexico and resulting environmental crisis is a stark reminder of how vulnerable our marine environments are, and how much communities and the Nation rely on healthy and resilient ocean and coastal ecosystems. America's stewardship of the ocean, our coasts, and the Great Lakes is intrinsically linked to environmental sustainability, human health and well-being, national prosperity, adaptation to climate and other environmental changes, social justice, international diplomacy, and national and homeland security.
 
-This order adopts the recommendations of the Interagency Ocean Policy Task Force, except where otherwise provided in this order, and directs executive agencies to implement those recommendations under the guidance of a National Ocean Council. Based on those recommendations, this order establishes a national policy to ensure the protection, maintenance, and restoration of the health of ocean, coastal, and Great Lakes ecosystems and resources, enhance the sustainability of ocean and coastal economies, preserve our maritime heritage, support sustainable uses and access, provide for adaptive management to enhance our understanding of and capacity to respond to climate change and ocean acidification, and coordinate with our national security and foreign policy interests.
+This order adopts the recommendations of the Interagency Ocean Policy Task Force, except where otherwise provided in this order, and directs executive agencies to implement those recommendations under the guidance of a National Ocean Council. Based on those recommendations, this order establishes a national policy to ensure the protection, maintenance, and restoration of the health of ocean, coastal, and Great Lakes ecosystems and resources, enhance the sustainability of ocean and coastal economies, preserve our maritimeheritage, support sustainable uses and access, provide for adaptive management to enhance our understanding of and capacity to respond to climate change and ocean acidification, and coordinate with our national security and foreign policy interests.
 
 This order also provides for the development of coastal and marine spatial plans that build upon and improve existing Federal, State, tribal, local, and regional decisionmaking and planning processes. These regional plans will enable a more integrated, comprehensive, ecosystem-based, flexible, and proactive approach to planning and managing sustainable multiple uses across sectors and improve the conservation of the ocean, our coasts, and the Great Lakes.
 
@@ -302,7 +302,7 @@ Sec. 4. <i>Establishment of National Ocean Council</i>. (a) There is hereby esta
 
 (i) the Chair of the Council on Environmental Quality and the Director of the Office of Science and Technology Policy, who shall be the Co-Chairs of the Council;
 
-(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Under Secretaryof Commerce for Oceans and Atmosphere (Administrator of the National Oceanic and Atmospheric Administration), the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
+(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Under Secretary of Commerce for Oceans and Atmosphere (Administrator of the National Oceanic and Atmospheric Administration), the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
 
 (iii) the National Security Advisor and the Assistants to the President for Homeland Security and Counterterrorism, Domestic Policy, Energy and Climate Change, and Economic Policy;
 

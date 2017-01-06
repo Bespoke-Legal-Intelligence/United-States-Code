@@ -18,7 +18,7 @@ Prohibition on Delegation of Waiver Authority.—The authority to grant a waiver
 
 (d)
 
-Annual Report.—(1) Not later than 90 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
+Annual Report.—(1) Not later than 90 days after the date on which the budget of the President for a fiscal year is submitted to Congresspursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
 
 (2) Each report required under paragraph (1) shall include as a separate item any expenditure covered by section 2474(f) of this title that was made during the fiscal year covered by the report and shall specify the amount and nature of each such expenditure.
 
@@ -103,6 +103,10 @@ Subsec. (e). Pub. L. 102–484, §352(c), designated existing provisions as par.
 "(2) between a maintenance activity of either such department and a private contractor."
 
 <b>1989</b>—Pub. L. 101–189, in introductory provisions, substituted "shall prohibit" for "may not require", "Army and" for "Army or", and "from carrying out" for "to carry out".
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Congressional Findings
 

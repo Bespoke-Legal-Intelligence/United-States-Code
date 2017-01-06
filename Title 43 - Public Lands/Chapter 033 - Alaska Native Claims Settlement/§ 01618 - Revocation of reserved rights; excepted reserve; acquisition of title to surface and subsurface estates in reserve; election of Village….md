@@ -2,7 +2,7 @@
 
 #### (a) Revocation of reserved rights; excepted reserve
 
-Notwithstanding any other provision of law, and except where inconsistent with the provisions of this chapter, the various reserves set aside by legislation or by Executive or Secretarial Order for Native use or for administration of Native affairs, including those created under section 497 of title 25, are hereby revoked subject to any valid existing rights of non-Natives. This section shall not apply to the Annette Island Reserve established by section 495 of title 25 and no person enrolled in the Metlakatla Indian community of the Annette Island Reserve shall be eligible for benefits under this chapter.
+Notwithstanding any other provision of law, and except where inconsistent with the provisions of this chapter, the various reserves set aside by legislation or by Executive or Secretarial Order for Native use or for administration of Native affairs, including those created under the Act of May 31, 1938 (52 Stat. 593), are hereby revoked subject to any valid existing rights of non-Natives. This section shall not apply to the Annette Island Reserve established by the Act of March 3, 1891 (26 Stat. 1101) and no person enrolled in the Metlakatla Indian community of the Annette Island Reserve shall be eligible for benefits under this chapter.
 
 #### (b) Acquisition of title to surface and subsurface estates in reserve; election of Village Corporations
 
@@ -30,7 +30,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (2) Withdrawal
 
-&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
+&emsp;The lands depicted and designated "Withdrawal Area" on the map dated October 19,1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled "Land Withdrawal Elim Native Corporation", are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as "Elim").
 
 #### (3) Authority to select and convey
 
@@ -48,7 +48,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;The covenants, reservations, terms and conditions set forth in this paragraph and in paragraphs (5) and (6) with respect to the Conveyance Lands shall run with the land and shall be incorporated into the interim conveyance, if any, and patent conveying the lands to Elim.
 
-&emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shallnot be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. "Merchantable Timber" means timber that can be harvested and marketed by a prudent operator.
+&emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shall not be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. "Merchantable Timber" means timber that can be harvested and marketed by a prudent operator.
 
 &emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as "hot springs") subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (D) Other easements
 
-&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve easements which shall include the right of the public to enter upon and travel along the Tubutulik River and Clear Creek within the Conveyance Lands. Such easements shall also include easements for trails confined to foot travel along, and which may be established along each bank of, the Tubutulik River and Clear Creek. Such trails shall be 25 feet wide and upland of the ordinary high waterline of the water courses. The trails may deviate from the banks as necessary to go aroundman-made or natural obstructions or to portage around hazardous stretches of water. The easements shall also include one-acre sites along the water courses at reasonable intervals, selected in consultation with Elim, which may be used to launch or take out water craft from the water courses and to camp in non-permanent structures for a period not to exceed 24 hours without the consent of Elim.
+&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve easements which shall include the right of the public to enter upon and travel along the Tubutulik River and Clear Creek within the Conveyance Lands. Such easements shall also include easements for trails confined to foot travel along, and which may be established along each bank of, the Tubutulik River and Clear Creek. Such trails shall be 25 feet wide and upland of the ordinary high waterline of the water courses. The trails may deviate from the banks as necessary to go around man-made or natural obstructions or to portage around hazardous stretches of water. The easements shall also include one-acre sites along the water courses at reasonable intervals, selected in consultation with Elim, which may be used to launch or take out water craft from the water courses and to camp in non-permanent structures for a period not to exceed 24 hours without the consent of Elim.
 
 #### (E) Inholders
 
@@ -105,6 +105,10 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 (Pub. L. 92–203, §19, Dec. 18, 1971, 85 Stat. 710; Pub. L. 106–194, §1, May 2, 2000, 114 Stat. 239.)
 
 #### References in Text
+
+Act of May 31, 1938 (52 Stat. 593), referred to in subsec. (a), is act May 31, 1938, ch. 304, 52 Stat. 593, which was classified to section 497 of Title 25, Indians, prior to repeal by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
+
+The Annette Island Reserve established by the Act of March 3, 1891 (26 Stat. 1101), referred to in subsec. (a), probably means act Mar. 3, 1891, ch. 561, §15, 26 Stat. 1101, which was classified to section 495 of Title 25, Indians, prior to omission from the Code as being of special and not general application.
 
 The time of passage of this chapter, referred to in subsec. (c)(1)(E), probably means the date of enactment of Pub. L. 92–203, which was approved Dec. 18, 1971.
 

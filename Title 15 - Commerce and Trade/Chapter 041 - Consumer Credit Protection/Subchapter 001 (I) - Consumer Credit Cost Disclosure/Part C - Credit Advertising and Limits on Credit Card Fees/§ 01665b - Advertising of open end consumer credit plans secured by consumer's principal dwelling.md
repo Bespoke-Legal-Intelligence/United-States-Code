@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit aresecured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Bureau may require:
+If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Bureau may require:
 
 #### (1) Loan fees and opening cost estimates
 
-&emsp;Any loan fee the amount of which is determined as a percentage of the credit limit applicable to an account under the plan and an estimate of the aggregate amount of other fees for opening the account, based on the creditor's experience with the plan and stated as a single amount or as a reasonable range.
+&emsp;Any loan fee the amount of which is determined as a percentage of the credit limit applicable to an account under the plan and an estimate of the aggregate amount of other feesfor opening the account, based on the creditor's experience with the plan and stated as a single amount or as a reasonable range.
 
 #### (2) Periodic rates
 

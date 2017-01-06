@@ -22,7 +22,7 @@ All moneys received in payment for work or services performed, or for software p
 
 #### (d) Investment
 
-Any fees collected, late payment penalties, and interest earned shall be credited to the account referred to in this section and may be invested by the Secretary of Agriculture in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary of Agriculture, by the Secretary of the Treasury in United States Government debt instruments.Fees and charges, including late payment penalties and interest earned from the investment of such funds shall be credited to such account.
+Any fees collected, late payment penalties, and interest earned shall be credited to the account referred to in this section and may be invested by the Secretary of Agriculture in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary of Agriculture, by the Secretary of the Treasury in United States Government debt instruments. Fees and charges, including late payment penalties and interest earned from the investment of such funds shall be credited to such account.
 
 (Pub. L. 97–98, title XI, §1121, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, §1769, Dec. 23, 1985, 99 Stat. 1656; Pub. L. 101–624, title XXV, §2510, Nov. 28, 1990, 104 Stat. 4073.)
 

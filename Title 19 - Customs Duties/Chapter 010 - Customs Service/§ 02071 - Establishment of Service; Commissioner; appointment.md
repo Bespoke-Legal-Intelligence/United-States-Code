@@ -1,6 +1,6 @@
 ### §2071. Establishment of Service; Commissioner; appointment
 
-There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
+There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs.<sup>1</sup> The Commissioner of Customs,<sup>1</sup> who shall be appointed by the President by and with the advice and consent of the Senate, shall—
 
 &emsp;(1) be at the head of the United States Customs Service;
 
@@ -8,7 +8,7 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 &emsp;(3) report to the Secretary of the Treasury through such other officials as may be designated by the Secretary.
 
-(Mar. 3, 1927, ch. 348, §1, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Pub. L. 101–207, §3(b)(1), Dec. 7, 1989, 103 Stat. 1833.)
+(Mar. 3, 1927, ch. 348, §1, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Pub. L. 101–207, §3(b)(1), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Codification
 
@@ -26,6 +26,8 @@ References to the Bureau of Prohibition and to the Commissioner of Prohibition w
 
 #### Change of Name
 
+Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 "United States Customs Service" substituted in text for "Bureau of Customs" pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
 #### Effective Date
@@ -34,7 +36,7 @@ Act Mar. 3, 1927, ch. 348, §7, 44 Stat. 1383, provided that: "This Act shall ta
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
@@ -42,7 +44,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 #### Mandatory Advanced Electronic Information for Cargo and Other Improved Customs Reporting Procedures
 
-Pub. L. 107–210, div. A, title III, §343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976, provided that:
+Pub. L. 107–210, div. A, title III, §343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L.109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, §111(c), Feb. 24, 2016, 130 Stat. 140, provided that:
 
 "(a)
 
@@ -72,7 +74,7 @@ Parameters.—In developing regulations pursuant to paragraph (1), the Secretary
 
 &emsp;&emsp;"(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
 
-&emsp;&emsp;"(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security and preventing smuggling, and shall not be used for determining merchandise entry or for any other commercial enforcement purposes. Notwithstanding the preceding sentence, nothing in this section \[enacting section 1431a of this title and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
+&emsp;&emsp;"(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security, preventing smuggling, and commercial risk assessment targeting, and shall not be used for any commercial enforcement purposes, including for determining merchandise entry. Notwithstanding the preceding sentence, nothing in this section \[enacting section 1431a of this title and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
 
 &emsp;&emsp;"(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[19 U.S.C. 1431\] and required to be available for public disclosure pursuant to section 431(c) of such Act.. \[sic\]
 
@@ -102,7 +104,7 @@ Transmission of data.—Pursuant to paragraph (2), not later than 1 year after t
 
 "(c)
 
-Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term 'Secretary' means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located."
+Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term'Secretary' means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located."
 
 \[Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made by this section \[amending section 343(a) of Pub. L. 107–210, set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."\]
 
@@ -118,11 +120,11 @@ Pub. L. 102–393, title VI, §637, Oct. 6, 1992, 106 Stat. 1779, provided that:
 
 #### Reports Regarding Expansion of Customs Preclearance Operations and Recovery for Damage Resulting From Customs Examinations
 
-Pub. L. 101–382, title I, §124, Aug. 20, 1990, 104 Stat. 643, provided that:
+Pub. L. 101–382, title I, §124, Aug. 20, 1990, 104 Stat. 643, as amended by Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that:
 
 "(a)
 
-Customs Preclearance.—The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States CustomsService at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the 'Committees') no later than February 1, 1991.
+Customs Preclearance.—The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the 'Committees') no later than February 1, 1991.
 
 "(b)
 
@@ -134,7 +136,7 @@ Recovery for Customs Damage.—
 
 "(c)
 
-Merchandise Damage Statistics.—The Commissioner of Customs shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees."
+Merchandise Damage Statistics.—The Commissioner of U.S. Customs and Border Protection shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees."
 
 #### Pilot Preclearance Program
 
@@ -170,5 +172,9 @@ Pub. L. 100–203, title IX, §9503(c), Dec. 22, 1987, 101 Stat. 1330–381, pro
 
 "(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee."
 
+\[Pub. L. 114–125, title I, §109(g)(1), Feb. 24, 2016, 130 Stat. 137, provided that, effective on the date on which the Advisory Committee is established under section 4316(a) of this title, section 9503(c) of Pub. L. 100–203, set out above, is repealed.\]
+
 Pub. L. 99–272, title XIII, §13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, §9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

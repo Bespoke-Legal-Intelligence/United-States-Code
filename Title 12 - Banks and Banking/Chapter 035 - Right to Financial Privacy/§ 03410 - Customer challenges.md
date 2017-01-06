@@ -36,5 +36,9 @@ Nothing in this chapter shall enlarge or restrict any rights of a financial inst
 
 Rule 5(b) of the Federal Rules of Civil Procedure, referred to in subsec. (a), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
 <i><sup>1</sup></i><i> So in original. Section does not contain a clause (A).</i>
 

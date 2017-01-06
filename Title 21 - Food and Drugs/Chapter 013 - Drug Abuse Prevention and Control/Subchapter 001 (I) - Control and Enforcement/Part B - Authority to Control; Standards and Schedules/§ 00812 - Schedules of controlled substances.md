@@ -266,7 +266,7 @@ Schedule I
 
 &emsp;&emsp;(iii) 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring, whether or not further substituted in the pyrrole ring to any extent, whether or not substituted on the naphthoyl ring to any extent.
 
-&emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring, whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
+&emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring,whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
 
 &emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of the indole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
 
@@ -484,7 +484,7 @@ Amendment by Pub. L. 101–647 effective 90 days after Nov. 29, 1990, see sectio
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
 #### Congressional Finding; Emergency Scheduling of GHB in Controlled Substances Act
 
@@ -496,7 +496,7 @@ Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 &emsp;"(1) Gamma hydroxybutyric acid (also called G, Liquid X, Liquid Ecstasy, Grievous Bodily Harm, Georgia Home Boy, Scoop) has become a significant and growing problem in law enforcement. At least 20 States have scheduled such drug in their drug laws and law enforcement officials have been experiencing an increased presence of the drug in driving under the influence, sexual assault, and overdose cases especially at night clubs and parties.
 
-&emsp;"(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid ('GHB') is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. Itis difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
+&emsp;"(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid ('GHB') is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. It is difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
 
 &emsp;"(3) GHB takes the same path as alcohol, processes via alcohol dehydrogenase, and its symptoms at high levels of intake and as impact builds are comparable to alcohol ingestion/intoxication. Thus, aggression and violence can be expected in some individuals who use such drug.
 

@@ -24,7 +24,7 @@ In making such grants, the Council shall give preference to coalitions consistin
 
 #### (1) In general
 
-&emsp;The Federal share of a grant made under this part <sup>1</sup> may not exceed 75 percent of the total costs of the projects described in the applications submitted under subsection (b) of this section for the fiscal year for which the projects receive assistance under this subchapter.
+&emsp;The Federal share of a grant made under this part <sup>1</sup> may not exceed 75 percent of the total costs of the projects described in the applications submitted under subsection (b) for the fiscal year for which the projects receive assistance under this subchapter.
 
 #### (2) Waiver
 

@@ -8,11 +8,11 @@ With respect to any loan to cover the cost of instruction for any period of inst
 
 &emsp;(2) except as provided in paragraph (3), be 9 percent per year on the unpaid principal balance of the loan in the case of any borrower who, on the date of entering into the note or other written evidence of that loan, has no outstanding balance of principal or interest on any loan described in paragraph (1) or any loan for which the interest rate is determined under paragraph (1); or
 
-&emsp;(3) be 8 percent per year on the unpaid principal balance of the loan for a loan to cover the cost of education for any period of enrollment beginning on or after a date which is 3 months after a determination made under subsection (b) of this section in the case of any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan for which the interest rate is determined under paragraph (1) or (2) of this subsection.
+&emsp;(3) be 8 percent per year on the unpaid principal balance of the loan for a loan to cover the cost of education for any period of enrollment beginning on or after a date which is 3 months after a determination made under subsection (b) in the case of any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan for which the interest rate is determined under paragraph (1) or (2) of this subsection.
 
 #### (b) Reduction for new borrowers after decline in Treasury bill rates
 
-If for any 12-month period beginning on or after January 1, 1981, the Secretary, after consultation with the Secretary of the Treasury,determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 9 percent, the interest rate for loans under this part shall be the rate prescribed in subsection (a)(3) of this section for borrowers described in such subsection.
+If for any 12-month period beginning on or after January 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned forsuch 12-month period is equal to or less than 9 percent, the interest rate for loans under this part shall be the rate prescribed in subsection (a)(3) for borrowers described in such subsection.
 
 #### (c) Rates for supplemental loans for students and loans for parents
 
@@ -78,7 +78,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), and (d) of this section, with respect to any loan (otherthan a loan made pursuant to sections 1078–1,<sup>1</sup> 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after October 1, 1992, to any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under section 1077, 1078, or 1078–8 of this title, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), and (d) of this section, with respect to any loan (other than a loan made pursuant to sections 1078–1,<sup>1</sup> 1078–2 and 1078–3 of this title) for which thefirst disbursement is made on or after October 1, 1992, to any borrower who, on the date of entering into the note or other written evidence of the loan, has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under section 1077, 1078, or 1078–8 of this title, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -110,7 +110,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) General rule
 
-&emsp;Notwithstanding the provisions of subsection (f) of this section, but subject to subsection (h) of this section, with respect to any loan under section 1078 or 1078–8 of this title for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding the provisions of subsection (f), but subject to subsection (h), with respect to any loan under section 1078 or 1078–8 of this title for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
@@ -146,7 +146,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) Interest rates for new PLUS loans after July 1, 1998
 
-&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to any loan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
+&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g), with respect to any loan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
 
 &emsp;&emsp;(A) by substituting "2.1 percent" for "1.0 percent" in subparagraph (B); and
 
@@ -210,7 +210,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 &emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
 
-&emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loanthat is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
+&emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
 
 &emsp;(C) A lender or holder of a loan being converted pursuant to this paragraph shall complete such conversion on or before January 1, 1995. The lender or holder shall notify the borrower that the loan shall be converted to a variable interest rate and provide a description of the rate to the borrower not later than 30 days prior to the conversion. The notice shall advise the borrower that such rate shall be calculated in accordance with the procedures set forth in this paragraph and shall provide the borrower with a substantially equivalent benefit as the adjustment otherwise provided for under this subsection. Such notice may be incorporated into the disclosure required under section 1083(b) of this title if such disclosure has not been previously made.
 
@@ -222,7 +222,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section, but subject to paragraph (2), with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsection (h), but subject to paragraph (2), with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -232,7 +232,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) In school and grace period rules
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding subsection (h), with respect to any loan under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
@@ -242,7 +242,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) PLUS loans
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+&emsp;Notwithstanding subsection (h), with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
 
 &emsp;&emsp;(A)(i) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -258,7 +258,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsection (h) and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -268,17 +268,17 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) In school and grace period rules
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding subsection (h), with respect to any loan under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
-&emsp;&emsp;(B) during the period in which principal need not be paid (whether or not such principal is in fact paid) by reason of a provisiondescribed in section 1077(a)(2)(C) or 1078(b)(1)(M) of this title,
+&emsp;&emsp;(B) during the period in which principal need not be paid (whether or not such principal is in fact paid) by reason of a provision described in section 1077(a)(2)(C) or 1078(b)(1)(M) of this title,
 
 > &emsp;shall be determined under paragraph (1) by substituting "1.7 percent" for "2.3 percent".
 
 #### (3) PLUS loans
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under paragraph (1)—
+&emsp;Notwithstanding subsection (h), with respect to any loan under section 1078–2 of this titlefor which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under paragraph (1)—
 
 &emsp;&emsp;(A) by substituting "3.1 percent" for "2.3 percent"; and
 
@@ -300,11 +300,11 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;Notwithstanding subsection (h), with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (2) PLUS loans
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 8.5 percent on the unpaid principal balance of the loan.
+&emsp;Notwithstanding subsection (h), with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be 8.5 percent on the unpaid principal balance of the loan.
 
 #### (3) Consolidation loans
 
@@ -340,7 +340,7 @@ For the purpose of subsections (a) and (d) of this section—
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsecs. (c) to (e)(1), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994,except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (c) to (e)(1), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Codification
 
@@ -440,7 +440,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–244, title IV, §416(c), Oct. 7, 1998, 112 Stat. 1682, provided that: "The amendments made by thissection \[amending this section and sections 1078–2, 1078–3, and 1087–1 of this title\] shall apply with respect to any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to any loan made under section 428C of such Act \[20 U.S.C. 1078–3\] for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003."
+Pub. L. 105–244, title IV, §416(c), Oct. 7, 1998, 112 Stat. 1682, provided that: "The amendments made by this section \[amending this section and sections 1078–2, 1078–3, and 1087–1 of this title\] shall apply with respect to any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to any loan made under section 428C of such Act \[20 U.S.C. 1078–3\] for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003."
 
 #### Effective Date of 1993 Amendment
 

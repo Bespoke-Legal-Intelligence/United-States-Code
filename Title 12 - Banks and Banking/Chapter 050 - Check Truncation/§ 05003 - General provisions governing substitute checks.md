@@ -18,7 +18,7 @@ A bank shall ensure that the substitute check for which the bank is the reconver
 
 #### (d) Identification of reconverting bank
 
-A bank shall identify itself as a reconverting bank on any substitute check for which the bank is a reconverting bank so as to preserve any previous reconverting bank identifications in conformance with generally applicable industry standards.
+A bank shall identify itself as a reconverting bank on any substitute check for which the bank is a reconverting bank so as to preserveany previous reconverting bank identifications in conformance with generally applicable industry standards.
 
 #### (e) Applicable law
 
@@ -29,4 +29,8 @@ A substitute check that is the legal equivalent of the original check under subs
 #### References in Text
 
 This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+
+#### Effective Date
+
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 

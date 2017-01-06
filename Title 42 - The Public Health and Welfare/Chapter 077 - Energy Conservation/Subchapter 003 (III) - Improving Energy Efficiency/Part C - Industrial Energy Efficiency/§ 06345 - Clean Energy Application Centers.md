@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) to develop and conduct target market workshops, seminars, Internet programs, and other activities to educate end users, regulators, and stakeholders in a manner that leads to the deployment of clean energy technologies;
 
-&emsp;&emsp;(C) to provide or coordinate onsite assessments for sites and enterprises that mayconsider deployment of clean energy technology;
+&emsp;&emsp;(C) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of clean energy technology;
 
 &emsp;&emsp;(D) to perform market research to identify high profile candidates for clean energy deployment;
 

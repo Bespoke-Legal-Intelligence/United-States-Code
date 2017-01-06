@@ -1,6 +1,6 @@
 ### §1973. Support and maintenance expenditures during emergency duty
 
-At any time on or after November 12, 2001, the Capitol Police Board may incur obligations and make expenditures out of available appropriations for meals, refreshments and other support and maintenance for the Capitol Police when, in the judgment of the Capitol Police Board, such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
+At any time on or after November 12, 2001, the Capitol Police Board may incur obligations andmake expenditures out of available appropriations for meals, refreshments and other support and maintenance for the Capitol Police when, in the judgment of the Capitol Police Board, such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
 
 (Pub. L. 107–68, title I, §124, Nov. 12, 2001, 115 Stat. 576.)
 

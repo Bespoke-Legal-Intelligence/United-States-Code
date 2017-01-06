@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby authorized a comprehensive program to provide for prevention, control, and progressive eradication of noxious aquatic plant growths and aquatic invasive species from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, underthe direction of the Secretary of the Army, in cooperation with other Federal and State agencies.
+&emsp;There is hereby authorized a comprehensive program to provide for prevention, control, and progressive eradication of noxious aquatic plant growths and aquatic invasive species from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, under the direction of the Secretary of the Army, in cooperation with other Federal and State agencies.
 
 #### (2) Local interests
 
@@ -26,7 +26,7 @@ In carrying out the program under this section, the Secretary is encouraged to u
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary may establish watercraft inspection stations in the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary.
+&emsp;In carrying out this section, the Secretary may establish, operate, and maintain new or existing watercraft inspection stations to protect the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary in consultation with such States, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary. The Secretary shall also assist the States referred to in this paragraph with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.
 
 #### (2) Cost share
 
@@ -40,7 +40,7 @@ In carrying out the program under this section, the Secretary is encouraged to u
 
 &emsp;In carrying out this subsection, the Secretary shall consult and coordinate with—
 
-&emsp;&emsp;(A) the States described in paragraph (1);
+&emsp;&emsp;(A) the Governors of the States described in paragraph (1);
 
 &emsp;&emsp;(B) Indian tribes; and
 
@@ -64,13 +64,19 @@ In carrying out this section, the Secretary may—
 
 &emsp;(2) monitor for aquatic invasive species;
 
-&emsp;(3) establish watershed-wide plans for expedited response to an infestation of aquatic invasive species; and
+&emsp;(3) assist States in early detection of aquatic invasive species, including quagga and zebra mussels; and
 
 &emsp;(4) monitor water quality, including sediment cores and fish tissue samples.
 
-(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238.)
+(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, §1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, §1178(b), Dec. 16, 2016, 130 Stat. 1674.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(1). Pub. L. 114–322, §1178(b)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "In carrying out this section, the Secretary may establish watercraft inspection stations in the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary."
+
+Subsec. (d)(3)(A). Pub. L. 114–322, §1178(b)(1)(B), inserted "Governors of the" before "States".
+
+Subsec. (e)(3). Pub. L. 114–322, §1178(b)(2), added par. (3) and struck out former par. (3) which read as follows: "establish watershed-wide plans for expedited response to an infestation of aquatic invasive species; and".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–121, §1039(d)(1)(A)–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
 

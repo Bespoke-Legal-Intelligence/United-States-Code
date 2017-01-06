@@ -12,7 +12,7 @@ A certification issued by a State or an accreditation organization for an embryo
 
 #### (b) Effect
 
-If the certification of an embryo laboratory is revoked or suspended, the certification of thelaboratory shall continue in effect for 60 days after the laboratory receives notice of the revocation or suspension. If the certification of an embryo laboratory is revoked or suspended, the laboratory may apply for recertification after one year after the date of the revocation or suspension.
+If the certification of an embryo laboratory is revoked or suspended, the certification of the laboratory shall continue in effect for 60 days after the laboratory receives notice of the revocation or suspension. If the certification of an embryo laboratory is revoked or suspended, the laboratory may apply for recertification after one year after the date of the revocation or suspension.
 
 (Pub. L. 102–493, §5, Oct. 24, 1992, 106 Stat. 3150.)
 

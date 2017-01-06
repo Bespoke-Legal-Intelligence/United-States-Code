@@ -6,7 +6,7 @@
 
 &emsp;(2) a limited emergency appointee or a limited term appointee—
 
-&emsp;&emsp;(A) who, immediately upon entering the career reserved position, was serving under a career or career-conditional appointment outside the Senior Executive Service; or
+&emsp;&emsp;(A) who, immediately upon entering the career reserved position, was serving under acareer or career-conditional appointment outside the Senior Executive Service; or
 
 &emsp;&emsp;(B) whose limited emergency or limited term appointment is approved in advance by the Office of Personnel Management.
 

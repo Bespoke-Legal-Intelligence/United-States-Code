@@ -2,7 +2,7 @@
 
 #### (a) Prevention of unintentional introductions
 
-There are authorized to be appropriated to develop and implement the provisions of subchapter II of this chapter—
+There are authorized to be appropriated to develop and implement the provisions of subchapter II—
 
 &emsp;(1) $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 and 4712(a)(3) of this title;
 
@@ -28,7 +28,7 @@ There are authorized to be appropriated to develop and implement the provisions 
 
 #### (b) Task Force and aquatic nuisance species program
 
-There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III of this chapter—
+There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III—
 
 &emsp;(1) $6,000,000 to the Department of the Interior, to be used by the Director to carry out sections 4722 and 4728 of this title;
 
@@ -50,7 +50,7 @@ There are authorized to be appropriated for each of fiscal years 1997 through 20
 
 #### (c) Grants for State management programs
 
-There are authorized to be appropriated for each of fiscal years 1997 through 2002 $4,000,000 to the Department of the Interior, to be used by the Director for making grants under section 4724 of this title, of which $1,500,000 shall be used by the Director, in consultation with the Assistant Secretary, for management of aquatic nuisance vegetation species.
+There are authorized to be appropriated for each of fiscal years 1997 through 2002 $4,000,000 to the Department of the Interior, to be used bythe Director for making grants under section 4724 of this title, of which $1,500,000 shall be used by the Director, in consultation with the Assistant Secretary, for management of aquatic nuisance vegetation species.
 
 #### (d) Intentional introductions policy review
 

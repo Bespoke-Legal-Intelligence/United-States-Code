@@ -44,7 +44,7 @@ No registered open-end company shall restrict the transferability or negotiabili
 
 #### (g) Issuance of securities for services or property other than cash
 
-No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (includingsecurities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
+No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
 
 (Aug. 22, 1940, ch. 686, title I, §22, 54 Stat. 823; Pub. L. 91–547, §12, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 100–181, title VI, §616, Dec. 4, 1987, 101 Stat. 1262.)
 

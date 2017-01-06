@@ -30,7 +30,7 @@ All rights or interests vested in the Alien Property Custodian or the Attorney G
 
 &emsp;(3) rights or interests vested by vesting orders 128 (7 F.R. 7578), 13111 (14 F.R. 1730), 14349 (15 F.R. 1575), and 17366 (16 F.R. 2483),
 
-> are hereby divested as a matter of grace, effective the ninety-first day after October 22, 1962, and the persons entitled to such rights or interests shall succeed thereto, subject to the rightof the Attorney General to collect and receive all unpaid royalties or other income accrued in his favor under such prevesting contracts prior to the day of divestment.
+> are hereby divested as a matter of grace, effective the ninety-first day after October 22, 1962, and the persons entitled to such rights or interests shall succeed thereto, subject to the right of the Attorney General to collect and receive all unpaid royalties or other income accrued in his favor under such prevesting contracts prior to the day of divestment.
 
 #### (e) Suits for infringement
 

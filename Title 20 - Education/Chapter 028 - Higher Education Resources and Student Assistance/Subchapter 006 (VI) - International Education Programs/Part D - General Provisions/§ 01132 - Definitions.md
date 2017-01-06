@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(3) the term "educational programs abroad" means programs of study, internships, or service learning outside the United States which are part of a foreign language or other international curriculum at the undergraduate or graduate education levels;
 
-&emsp;(4) the term "export education" means educating, teaching and training to provide general knowledge and specific skills pertinent to the selling of goods and services to other countries, including knowledge of market conditions, financial arrangements, laws and procedures;
+&emsp;(4) the term "export education" means educating, teaching and training to provide general knowledge and specific skills pertinent tothe selling of goods and services to other countries, including knowledge of market conditions, financial arrangements, laws and procedures;
 
 &emsp;(5) the term "historically Black college and university" has the meaning given the term "part B institution" in section 1061 of this title;
 

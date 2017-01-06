@@ -32,7 +32,7 @@ The Secretary is authorized to make grants to eligible entities to—
 
 &emsp;&emsp;&emsp;(iii) a territory;
 
-&emsp;&emsp;&emsp;(iv) an Indian tribe (as defined in section 450b(e) of title 25); or
+&emsp;&emsp;&emsp;(iv) an Indian tribe (as defined in section 5304(e) of title 25); or
 
 &emsp;&emsp;&emsp;(v) a nonprofit food safety training entity that collaborates with 1 or more institutions of higher education; and
 

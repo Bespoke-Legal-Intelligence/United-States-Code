@@ -1,0 +1,298 @@
+### §1781. Office of Military Family Readiness Policy
+
+(a)
+
+Establishment.—There is in the Office of the Secretary of Defense an Office of Military Family Readiness Policy (in this section referred to as the "Office"). The Office shall be headed by the Director of Military Family Readiness Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
+
+(b)
+
+Duties.—The Office—
+
+&emsp;(1) shall coordinate programs and activities of the military departments to the extent that they relate to military families; and
+
+&emsp;(2) shall make recommendations to the Secretaries of the military departments with respect to programs and policies regarding military families.
+
+(c)
+
+Staff.—The Office shall have not less than five professional staff members.
+
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, §1076(f)(21), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. A, title IX, §933(a)(1), (4)(A), Dec. 23, 2016, 130 Stat. 2364.)
+
+#### Prior Provisions
+
+Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–328, §933(a)(4)(A), substituted "Office of Military Family Readiness Policy" for "Office of Family Policy" in section catchline.
+
+Subsec. (a). Pub. L. 114–328, §933(a)(1), substituted "Office of Military Family Readiness Policy" for "Office of Family Policy" and "Director of Military Family Readiness Policy" for "Director of Family Policy".
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, in first sentence, substituted "in the Office" for "in the Director" and struck out "hereinafter" before "in this section", and in second sentence, substituted "Office" for "office" in two places.
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and "The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+#### Support for Programs Providing Camp Experience for Children of Military Families
+
+Pub. L. 114–328, div. A, title V, §577, Dec. 23, 2016, 130 Stat. 2143, provided that:
+
+"(a)
+
+Authority to Provide Support.—The Secretary of Defense may provide financial or non-monetary support to qualified nonprofit organizations in order to assist such organizations in carrying out programs to support the attendance at a camp, or camp-like setting, of children of military families who have experienced the death of a family member or other loved one or who have another family member living with a substance use disorder or post-traumatic stress disorder.
+
+"(b)
+
+Application for Support.—
+
+&emsp;"(1)
+
+In general.—Each organization seeking support pursuant to subsection (a) shall submit to the Secretary of Defense an application therefor containing such information as the Secretary shall specify for purposes of this section.
+
+&emsp;"(2)
+
+Contents.—Each application submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the program for which support is being sought, including the location of the setting or settings under the program, the duration of such setting or settings, any local partners participating in or contributing to the program, and the ratio of counselors, trained volunteers, or both to children at such setting or settings.
+
+&emsp;&emsp;"(B) An estimate of the number of children of military families to be supported using the support sought.
+
+&emsp;&emsp;"(C) A description of the type of activities that will be conducted using the support sought, including the manner in which activities are particularly supportive to children of military families described in subsection (a).
+
+&emsp;&emsp;"(D) A description of the outreach conducted or to be conducted by the organization to military families regarding the program.
+
+"(c)
+
+Use of Support.—Support provided by the Secretary of Defense to an organization pursuant to subsection (a) shall be used by the organization to support attendance at a camp, or camp-like setting, of children of military families described in subsection (a)."
+
+#### Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families
+
+Pub. L. 111–84, div. A, title V, §561, Oct. 28, 2009, 123 Stat. 2302, provided that:
+
+"(a)
+
+Internet Outreach Website.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary of Defense shall establish an Internet website or other online resources for the purpose of providing comprehensive information to members of the Armed Forces and their families about the benefits and services described in subsection (b) that are available to members of the Armed Forces and their families.
+
+&emsp;"(2)
+
+Contact information.—The online resources shall provide contact information, both telephone and e-mail, that a member of the Armed Forces or dependent of the member can use to get specific information about benefits and services that may be available for the member or dependent.
+
+"(b)
+
+Covered Benefits and Services.—The information provided through the online resources established pursuant to subsection (a) shall include information regarding the following benefits and services that may be available to a member of the Armed Forces and dependents of the member:
+
+&emsp;"(1) Financial compensation, including financial counseling.
+
+&emsp;"(2) Health care and life insurance programs.
+
+&emsp;"(3) Death benefits.
+
+&emsp;"(4) Entitlements and survivor benefits for dependents, including offsets in the receipt of such benefits under the Survivor Benefit Plan and in connection with the receipt of dependency and indemnity compensation.
+
+&emsp;"(5) Educational assistance benefits, including limitations on and the transferability of such assistance.
+
+&emsp;"(6) Housing assistance benefits, including counseling.
+
+&emsp;"(7) Relocation planning and preparation.
+
+&emsp;"(8) Maintaining military records.
+
+&emsp;"(9) Legal assistance.
+
+&emsp;"(10) Quality of life programs.
+
+&emsp;"(11) Family and community programs.
+
+&emsp;"(12) Employment assistance upon separation or retirement of a member or for the spouse of the member.
+
+&emsp;"(13) Reserve component service for members completing service in a regular component.
+
+&emsp;"(14) Disability benefits, including offsets in connection with the receipt of such benefits.
+
+&emsp;"(15) Benefits and services provided under laws administered by the Secretary of Veterans Affairs.
+
+&emsp;"(16) Such other benefits and services as the Secretary of Defense considers appropriate.
+
+"(c)
+
+Dissemination of Information on Availability on Online Resources.—The Secretaries of the military departments shall use public service announcements, publications, and such other announcements through the general media as the Secretaries consider appropriate to inform members of the Armed Forces and their families and the general public about the information available through the online resources established pursuant to subsection (a).
+
+"(d)
+
+Implementation Report.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the quality and scope of the online resources established pursuant to subsection (a) to provide information about benefits and services for members of the Armed Forces and their families."
+
+#### Education and Treatment Services for Military Dependent Children With Autism
+
+Pub. L. 110–181, div. A, title V, §587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, §563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
+
+#### Joint Family Support Assistance Program
+
+Pub. L. 109–364, div. A, title VI, §675, Oct. 17, 2006, 120 Stat. 2273, as amended by Pub. L. 111–383, div. A, title V, §584, Jan. 7, 2011, 124 Stat. 4228, provided that:
+
+"(a)
+
+Program Required.—The Secretary of Defense shall carry out a joint family support assistance program for the purpose of providing to families of members of the Armed Forces the following types of assistance:
+
+&emsp;"(1) Financial and material assistance.
+
+&emsp;"(2) Mobile support services.
+
+&emsp;"(3) Sponsorship of volunteers and family support professionals for the delivery of support services.
+
+&emsp;"(4) Coordination of family assistance programs and activities provided by Military OneSource, Military Family Life Consultants, counselors, the Department of Defense, other Federal agencies, State and local agencies, and non-profit entities.
+
+&emsp;"(5) Facilitation of discussion on military family assistance programs, activities, and initiatives between and among the organizations, agencies, and entities referred to in paragraph (4).
+
+&emsp;"(6) Such other assistance that the Secretary considers appropriate.
+
+"(b)
+
+Locations.—The Secretary of Defense shall carry out the program in not less than six areas of the United States selected by the Secretary. At least three of the areas selected for the program shall be areas that are geographically isolated from military installations.
+
+"(c)
+
+Resources and Volunteers.—The Secretary of Defense shall provide personnel and other resources of the Department of Defense necessary for the implementation and operation of the program and may accept and utilize the services of non-Government volunteers and non-profit entities under the program.
+
+"(d)
+
+Procedures.—The Secretary of Defense shall establish procedures for the operation of the program and for the provision of assistance to families of members of the Armed Forces under the program.
+
+"(e)
+
+Relation to Family Support Centers.—The program is not intended to operate in lieu of existing family support centers, but is instead intended to augment the activities of the family support centers.
+
+"(f)
+
+Implementation Plan.—
+
+&emsp;"(1)
+
+Plan required.—Not later than 90 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan for the implementation of the program.
+
+&emsp;"(2)
+
+Elements.—The plan required under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the actions taken to select the areas in which the program will be conducted.
+
+&emsp;&emsp;"(B) A description of the procedures established under subsection (d).
+
+&emsp;&emsp;"(C) A review of proposed actions to be taken under the program to improve coordination of family assistance program and activities between and among the Department of Defense, other Federal agencies, State and local agencies, and non-profit entities.
+
+"(g)
+
+Report.—
+
+&emsp;"(1)
+
+Report required.—Not later than 270 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
+
+&emsp;"(2)
+
+Elements.—The report shall include the following:
+
+&emsp;&emsp;"(A) A description of the program, including the areas in which the program is conducted, the procedures established under subsection (d) for operation of the program, and the assistance provided through the program for families of members of the Armed Forces.
+
+&emsp;&emsp;"(B) An assessment of the effectiveness of the program in providing assistance to families of members of the Armed Forces.
+
+&emsp;&emsp;"(C) An assessment of the advisability of extending the program or making it permanent.
+
+"(h)
+
+Duration.—The authority to carry out the program shall expire on December 31, 2012."
+
+#### Recognition of Military Families
+
+Pub. L. 108–136, div. A, title V, §581, Nov. 24, 2003, 117 Stat. 1489, provided that:
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) The families of both active and reserve component members of the Armed Forces, through their sacrifices and their dedication to the Nation and its values, contribute immeasurably to the readiness of the Armed Forces.
+
+&emsp;"(2) Without the continued support of military families, the Nation's ability to sustain a high quality all-volunteer military force would be undermined.
+
+&emsp;"(3) In the perilous and challenging times of the global war on terrorism, with hundreds of thousands of active and reserve component military personnel deployed overseas in places of combat and other imminent danger, military families are making extraordinary sacrifices and will be required to do so for the foreseeable future.
+
+&emsp;"(4) Beginning in 1997, military family service and support centers have responded to the encouragement and support of private, non-profit organizations to recognize and honor the American military family during the Thanksgiving period each November.
+
+"(b)
+
+Military Family Recognition.—In view of the findings in subsection (a), Congress determines that it is appropriate that special measures be taken annually to recognize and honor the American military family.
+
+"(c)
+
+Department of Defense Programs and Activities.—The Secretary of Defense shall—
+
+&emsp;"(1) implement and sustain programs, including appropriate ceremonies and activities, to recognize and honor the contributions and sacrifices of the American military family, including families of both active and reserve component military personnel;
+
+&emsp;"(2) focus the celebration of the American military family during a specific period of each year to give full and proper recognition to those families; and
+
+&emsp;"(3) seek the assistance and support of appropriate civilian organizations, associations, and other entities (A) in carrying out the annual celebration of the American military family, and (B) in sustaining other, longer-term efforts to support the American military family."
+
+#### Supporting New American Service Members, Veterans, and Their Families
+
+Memorandum of President of the United States, Dec. 22, 2016, 81 F.R. 95849, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+My Administration has maintained a steadfast commitment to honor and serve the brave men and women who have served this country. Like all service members and veterans, foreign-born residents and naturalized citizens serving in the United States Armed Forces are shining examples of the American dream. These brave new Americans have taken the extraordinary step of answering the call to duty, to support and defend our country. Some have made the ultimate sacrifice for our country before becoming American citizens.
+
+New American service members are undoubtedly a critical element of our national security. They risk their lives all over the world in the name of the United States, securing shipping lanes, protecting bases and embassies, providing medical assistance, and conducting humanitarian missions. Tens of thousands of lawful permanent residents and naturalized U.S. citizens currently serve in our Armed Forces. Many more are veterans who have served previously in the Armed Forces. Additionally, many U.S.-born service members have immediate family members who were born abroad.
+
+Over the past decade, the Departments of Defense, Veterans Affairs, and Homeland Security have strengthened partnerships to provide services and opportunities to service members, veterans, and their families interacting with the U.S. immigration system. Indeed, since 2001, more than 110,000 service members have been naturalized and many were assisted in the process through partnerships such as the "Naturalization at Basic Training Initiative," which gives non-citizen enlistees the opportunity to naturalize during basic training. Despite these efforts, service members, veterans, and their families still face barriers to accessing immigration benefits and other assistance for which they may be eligible.
+
+In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhance collaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
+
+Section 1. <i>Interagency Working Group to Support New American Service Members, Veterans, and their Families</i>. There is established a Working Group to Support New American Service Members, Veterans, and their Families (Working Group) to coordinate records, benefits, and immigration and citizenship services for these service members, veterans, and their families. The Working Group shall convene its first meeting within 10 days of the date of this memorandum.
+
+(a) The Working Group shall consist of representatives from:
+
+(i) the Department of State;
+
+(ii) the Department of Defense;
+
+(iii) the Department of Justice;
+
+(iv) the Department of Labor;
+
+(v) the Department of Veterans Affairs; and
+
+(vi) the Department of Homeland Security.
+
+(b) The Working Group shall consult with additional agencies or offices, as appropriate.
+
+Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group shall coordinate agency efforts to support service members, veterans, and their families who are navigating the immigration, veterans, and military systems. Such efforts shall include:
+
+(i) coordinating the sharing of military records and other information relevant to immigration or veterans benefits;
+
+(ii) enhancing awareness of naturalization and immigration benefits to provide timely assistance and information to service members, veterans, and their families;
+
+(iii) coordinating and facilitating the process of adjudicating immigration applications and petitions; and
+
+(iv) other efforts that further support service members, veterans, and their families.
+
+(b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of this memorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
+
+Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of private and nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
+
+Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Working Group, consistent with applicable law, as may be necessary to carry out the functions of the Working Group. Each agency and office shall bear its own expense for carrying out activities related to the Working Group.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or an agency, or the head thereof, or the status of that department or agency within the Federal Government.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Secretary of Homeland Security is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

@@ -10,7 +10,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 &emsp;&emsp;(B) in any area outside of the United States—
 
-&emsp;&emsp;&emsp;(i) more than 4 years prior to the date of filing, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996; or
+&emsp;&emsp;&emsp;(i) more than 4 years prior to the date of filing, except that in the case of a tuberpropagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a tree or vine, more than 6 years prior to the date of filing;
 

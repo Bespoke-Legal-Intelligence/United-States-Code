@@ -24,7 +24,7 @@ A demonstration program conducted under a grant under this section shall be desi
 
 #### (c) Eligible entities
 
-To be eligible to receive a grant under subsection (a) of this section an entity shall be a State or political subdivision of a State, or a consortium of two or more States or political subdivisions of States.
+To be eligible to receive a grant under subsection (a) an entity shall be a State or political subdivision of a State, or a consortium of two or more States or political subdivisions of States.
 
 (July 1, 1944, ch. 373, title XI, §1110, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1165; amended Pub. L. 110–204, §3, Apr. 24, 2008, 122 Stat. 706; Pub. L. 110–237, §1(a)(2), May 27, 2008, 122 Stat. 1556; Pub. L. 113–240, §3, Dec. 18, 2014, 128 Stat. 2852.)
 
@@ -40,7 +40,7 @@ Subsec. (b)(2). Pub. L. 113–240, §3(3)(B)(i), (ii), substituted "treatment, c
 
 Subsec. (b)(4), (5). Pub. L. 113–240, §3(3)(B)(iii)–(D), added pars. (4) and (5).
 
-Subsec. (d). Pub. L. 113–240, §3(4), struck out subsec. (d). Text read as follows: "There are authorized to beappropriated to carry out this section $5,000,000 for fiscal year 2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013."
+Subsec. (d). Pub. L. 113–240, §3(4), struck out subsec. (d). Text read as follows: "There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–237 substituted "2009, $5,062,500 for fiscal year 2010, $5,125,000 for fiscal year 2011, $5,187,500 for fiscal year 2012, and $5,250,000 for fiscal year 2013." for "2008, $5,062,500 for fiscal year 2009, $5,125,000 for fiscal year 2010, $5,187,500 for fiscal year 2011, and $5,250,000 for fiscal year 2012."
 

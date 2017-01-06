@@ -10,21 +10,23 @@
 
 &emsp;&emsp;(B) An Under Secretary for Science and Technology.
 
-&emsp;&emsp;(C) An Under Secretary for Border and Transportation Security.
+&emsp;&emsp;(C) A Commissioner of U.S. Customs and Border Protection.
 
 &emsp;&emsp;(D) An Administrator of the Federal Emergency Management Agency.
 
 &emsp;&emsp;(E) A Director of the Bureau of Citizenship and Immigration Services.
 
-&emsp;&emsp;(F) An Under Secretary for Management.
+&emsp;&emsp;(F) An Under Secretary for Management, who shall be first assistant to the Deputy Secretary of Homeland Security for purposes of subchapter III of chapter 33 of title 5.
 
-&emsp;&emsp;(G) A Director of the Office of Counternarcotics Enforcement.
+&emsp;&emsp;(G) A Director of U.S. Immigration and Customs Enforcement.
 
 &emsp;&emsp;(H) An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
 
 &emsp;&emsp;(I) Not more than 12 Assistant Secretaries.
 
 &emsp;&emsp;(J) A General Counsel, who shall be the chief legal officer of the Department.
+
+&emsp;&emsp;(K) An Under Secretary for Strategy, Policy, and Plans.
 
 #### (2) Assistant Secretaries
 
@@ -36,7 +38,7 @@ There shall be in the Department an Office of Inspector General and an Inspector
 
 #### (c) Commandant of the Coast Guard
 
-To assist the Secretary in the performance of the Secretary's functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 of title 14 and who shall report directly to the Secretary. Inaddition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 of title 14.
+To assist the Secretary in the performance of the Secretary's functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 of title 14.
 
 #### (d) Other officers
 
@@ -50,6 +52,8 @@ To assist the Secretary in the performance of the Secretary's functions, there a
 
 &emsp;(4) A Director for Domestic Nuclear Detection.
 
+&emsp;(5) Any Director of a Joint Task Force under section 348 of this title.
+
 #### (e) Chief Financial Officer
 
 There shall be in the Department a Chief Financial Officer, as provided in chapter 9 of title 31.
@@ -58,7 +62,21 @@ There shall be in the Department a Chief Financial Officer, as provided in chapt
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144; Pub. L. 112–166, §2(f)(5), Aug. 10, 2012, 126 Stat. 1285.)
+#### (g) Vacancies
+
+#### (1) Absence, disability, or vacancy of Secretary or Deputy Secretary
+
+&emsp;Notwithstanding chapter 33 of title 5, the Under Secretary for Management shall serve as the Acting Secretary if by reason of absence, disability, or vacancy in office, neither the Secretary nor Deputy Secretary is available to exercise the duties of the Office of the Secretary.
+
+#### (2) Further order of succession
+
+&emsp;Notwithstanding chapter 33 of title 5, the Secretary may designate such other officers of the Department in further order of succession to serve as Acting Secretary.
+
+#### (3) Notification of vacancies
+
+&emsp;The Secretary shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of any vacancies that require notification under sections 3345 through 3349d of title 5 (commonly known as the "Federal Vacancies Reform Act of 1998").
+
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144; Pub. L. 112–166, §2(f)(5), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–125, title VIII, §802(g)(1)(A)(ii), Feb. 24, 2016, 130 Stat. 211; Pub. L. 114–328, div. A, titleXIX, §§1901(a), 1903(a), Dec. 23, 2016, 130 Stat. 2665, 2672.)
 
 #### References in Text
 
@@ -66,7 +84,21 @@ The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–4
 
 This chapter, referred to in subsecs. (c) and (f), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
+The Federal Vacancies Reform Act of 1998, referred to in subsec. (g)(3), is section 151(a) of title I of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–611, which enacted sections 3345 to 3349d of Title 5, Government Organization and Employees, repealed former sections 3345 to 3349 of Title 5, and enacted provisions set out as a note under section 3345 of Title 5. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 3301 of Title 5 and Tables.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–125, §802(g)(1)(A)(ii)(I), substituted "A Commissioner of U.S. Customs and Border Protection." for "An Under Secretary for Border and Transportation Security."
+
+Subsec. (a)(1)(F). Pub. L. 114–328, §1903(a)(1)(A), inserted ", who shall be first assistant to the Deputy Secretary of Homeland Security for purposes of subchapter III of chapter 33 of title 5" before period at end.
+
+Subsec. (a)(1)(G). Pub. L. 114–125, §802(g)(1)(A)(ii)(II), substituted "A Director of U.S. Immigration and Customs Enforcement." for "A Director of the Office of Counternarcotics Enforcement."
+
+Subsec. (a)(1)(K). Pub. L. 114–328, §1903(a)(1)(B), added subpar. (K).
+
+Subsec. (d)(5). Pub. L. 114–328, §1901(a), added par. (5).
+
+Subsec. (g). Pub. L. 114–328, §1903(a)(2), added subsec. (g).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–166 redesignated introductory provisions as introductory provisions of par. (1), inserted par. (1) heading, substituted "Except as provided under paragraph (2), there" for "There", redesignated pars. (1) to (10) as subpars. (A) to (J), respectively, of par. (1), and added par. (2).
 

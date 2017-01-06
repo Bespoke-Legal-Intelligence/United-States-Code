@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) not imported into the United States for immediate slaughter,
 
-&emsp;&emsp;&nbsp;may designate the country of origin of such covered commodity as all of the countries in which the animal may have been born, raised, or slaughtered.
+&emsp;&emsp;&nbsp;may designate the country of origin of such covered commodity as all of thecountries in which the animal may have been born, raised, or slaughtered.
 
 #### (ii) Relation to general requirement
 

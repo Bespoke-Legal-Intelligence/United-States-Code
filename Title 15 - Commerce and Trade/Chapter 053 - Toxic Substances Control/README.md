@@ -8,15 +8,15 @@
 | [2602\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002602%20-%20Definitions.md) | Definitions. |
 | [2603\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002603%20-%20Testing%20of%20chemical%20substances%20and%20mixtures.md) | Testing of chemical substances and mixtures. |
 | [2604\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002604%20-%20Manufacturing%20and%20processing%20notices.md) | Manufacturing and processing notices. |
-| [2605\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002605%20-%20Regulation%20of%20hazardous%20chemical%20substances%20and%20mixtures.md) | Regulation of hazardous chemical substances and mixtures. |
+| [2605\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002605%20-%20Prioritization%2C%20risk%20evaluation%2C%20and%20regulation%20of%20chemical%20substances%20and%20mixtures.md) | Prioritization, risk evaluation, and regulation of chemical substances and mixtures. |
 | [2606\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002606%20-%20Imminent%20hazards.md) | Imminent hazards. |
 | [2607\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002607%20-%20Reporting%20and%20retention%20of%20information.md) | Reporting and retention of information. |
 | [2608\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002608%20-%20Relationship%20to%20other%20Federal%20laws.md) | Relationship to other Federal laws. |
-| [2609\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002609%20-%20Research%2C%20development%2C%20collection%2C%20dissemination%2C%20and%20utilization%20of%20data.md) | Research, development, collection, dissemination, and utilization of data. |
+| [2609\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002609%20-%20Research%2C%20development%2C%20collection%2C%20dissemination%2C%20and%20utilization%20of%20information.md) | Research, development, collection, dissemination, and utilization of information. |
 | [2610\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002610%20-%20Inspections%20and%20subpoenas.md) | Inspections and subpoenas. |
 | [2611\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002611%20-%20Exports.md) | Exports. |
 | [2612\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002612%20-%20Entry%20into%20customs%20territory%20of%20the%20United%20States.md) | Entry into customs territory of the United States. |
-| [2613\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002613%20-%20Disclosure%20of%20data.md) | Disclosure of data. |
+| [2613\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002613%20-%20Confidential%20information.md) | Confidential information. |
 | [2614\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002614%20-%20Prohibited%20acts.md) | Prohibited acts. |
 | [2615\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002615%20-%20Penalties.md) | Penalties. |
 | [2616\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002616%20-%20Specific%20enforcement%20and%20seizure.md) | Specific enforcement and seizure. |
@@ -27,7 +27,7 @@
 | [2621\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002621%20-%20National%20defense%20waiver.md) | National defense waiver. |
 | [2622\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002622%20-%20Employee%20protection.md) | Employee protection. |
 | [2623\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002623%20-%20Employment%20effects.md) | Employment effects. |
-| [2624\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002624%20-%20Studies.md) | Studies. |
+| [2624\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002624%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93182%2C%20title%20I%2C%20%C2%A716%2C%20June%2022%2C%202016%2C%20130%20Stat.%20499.md) | Studies. |
 | [2625\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002625%20-%20Administration.md) | Administration. |
 | [2626\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002626%20-%20Development%20and%20evaluation%20of%20test%20methods.md) | Development and evaluation of test methods. |
 | [2627\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002627%20-%20State%20programs.md) | State programs. |

@@ -6,7 +6,7 @@ Any State desiring to receive assistance under this part shall submit to the Sec
 
 #### (b) Planning cycle
 
-The plan described in subsection (a) of this section shall be updated as appropriate during the 5-year period.
+The plan described in subsection (a) shall be updated as appropriate during the 5-year period.
 
 #### (c) State plan requirements
 
@@ -30,7 +30,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(ii) job training, job placement, worksite accommodation, and vocational rehabilitation, and other work assistance programs; and
 
-&emsp;&emsp;&emsp;(iii) social, child welfare, aging, independent living, and rehabilitation andassistive technology services, and such other services as the Secretary may specify;
+&emsp;&emsp;&emsp;(iii) social, child welfare, aging, independent living, and rehabilitation and assistive technology services, and such other services as the Secretary may specify;
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3003 or 3004 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
 
@@ -52,7 +52,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(viii) to the extent that information is available, a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under section 1396n(c) of this title) receive;
 
-&emsp;&emsp;(D) a description of how entities funded under parts C and D of this subchapter, through interagency agreements or other mechanisms, collaborated with the entity funded under this part in the State, each other, and other entities to contribute to the achievement of the purpose of this part; and
+&emsp;&emsp;(D) a description of how entities funded under parts C and D, through interagency agreements or other mechanisms, collaborated with the entity funded under this part in the State, each other, and other entities to contribute to the achievement of the purpose of this part; and
 
 &emsp;&emsp;(E) the rationale for the goals related to advocacy, capacity building, and systemic change to be undertaken by the Council to contribute to the achievement of the purpose of this part.
 
@@ -94,7 +94,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(ii) such funds will contribute to the achievement of the purpose of this part in various political subdivisions of the State;
 
-&emsp;&emsp;&emsp;(iii) such funds will be used to supplement, and not supplant, the non-Federalfunds that would otherwise be made available for the purposes for which the funds paid under section 15022 of this title are provided;
+&emsp;&emsp;&emsp;(iii) such funds will be used to supplement, and not supplant, the non-Federal funds that would otherwise be made available for the purposes for which the funds paid under section 15022 of this title are provided;
 
 &emsp;&emsp;&emsp;(iv) such funds will be used to complement and augment rather than duplicate or replace services for individuals with developmental disabilities and their families who are eligible for Federal assistance under other State programs;
 
@@ -130,7 +130,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (H) Human rights
 
-&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted under this part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
+&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted underthis part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
 
 #### (I) Minority participation
 
@@ -168,7 +168,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (3) Plan approval
 
-&emsp;The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) of this section and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
+&emsp;The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
 
 (Pub. L. 106–402, title I, §124, Oct. 30, 2000, 114 Stat. 1696; Pub. L. 108–364, §3(a)(1), Oct. 25, 2004, 118 Stat. 1736.)
 

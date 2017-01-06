@@ -6,7 +6,7 @@ Not later than 90 days after September 13, 1994, the United States Postal Servic
 
 #### (b) Requirements
 
-The regulations under subsection (a) of this section shall require—
+The regulations under subsection (a) shall require—
 
 &emsp;(1) in the case of an individual, the presentation to an appropriate postal official of a valid, outstanding protection order; and
 
@@ -14,17 +14,17 @@ The regulations under subsection (a) of this section shall require—
 
 #### (c) Disclosure for certain purposes
 
-The regulations under subsection (a) of this section shall not prohibit the disclosure of addresses to State or Federal agencies for legitimate law enforcement or other governmental purposes.
+The regulations under subsection (a) shall not prohibit the disclosure of addresses to State or Federal agencies for legitimate law enforcement or other governmental purposes.
 
 #### (d) Existing compilations
 
-Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a) of this section.
+Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a).
 
 (Pub. L. 103–322, title IV, §40281, Sept. 13, 1994, 108 Stat. 1938.)
 
 #### References in Text
 
-Section 10410 of this title, referred to in subsec. (b)(2), was generally amended by Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3497, and, as so amended, no longer contains provisions relating to grants for State domestic violence coalitions. See section 10411 of this title.
+Section 10410 of this title, referred to in subsec. (b)(2), was generally amended by Pub. L. 111–320, title II, §201,Dec. 20, 2010, 124 Stat. 3497, and, as so amended, no longer contains provisions relating to grants for State domestic violence coalitions. See section 10411 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

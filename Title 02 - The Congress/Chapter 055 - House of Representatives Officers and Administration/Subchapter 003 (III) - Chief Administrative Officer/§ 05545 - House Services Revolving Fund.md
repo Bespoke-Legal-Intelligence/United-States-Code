@@ -46,7 +46,7 @@ house beauty shop" in the matter relating to administrative provisions for the H
 
 This section shall take effect October 1, 2004, and shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, §3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, §104(a), Dec. 26, 2007, 121Stat. 2225; Pub. L. 111–8, div. G, title I, §102(b), Mar. 11, 2009, 123 Stat. 817.)
+(Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, §3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, §104(a), Dec. 26, 2007, 121 Stat. 2225; Pub. L. 111–8, div. G, title I, §102(b), Mar. 11, 2009, 123 Stat. 817.)
 
 #### References in Text
 

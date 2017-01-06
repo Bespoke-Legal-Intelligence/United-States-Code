@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the survivor annuity for any spouse, former spouse, or other survivor under this subchapter; and
 
-&emsp;&emsp;&emsp;(ii) any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or under section 2031(b) of this title.
+&emsp;&emsp;&emsp;(ii) any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or under section 2031(b) of this title.
 
 #### (B) Treatment when annuitant returns to service
 
@@ -50,7 +50,7 @@
 
 #### (7) Election of benefits
 
-&emsp;A former spouse of a participant, former participant, or retired participant shall not become entitled under this subsection to an annuity payable from the fund unless the formerspouse elects to receive it instead of any survivor annuity to which the former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+&emsp;A former spouse of a participant, former participant, or retired participant shall not become entitled under this subsection to an annuity payable from the fund unless the former spouse elects to receive it instead of any survivor annuity to which the former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 #### (8) Limitation in case of multiple former spouse annuities
 
@@ -102,7 +102,7 @@
 
 #### (1) In general
 
-&emsp;In the case of any participant providing a survivor annuity under subsection (b) of this section for a former spouse—
+&emsp;In the case of any participant providing a survivor annuity under subsection (b) for a former spouse—
 
 &emsp;&emsp;(A) such participant may elect, or
 
@@ -112,7 +112,7 @@
 
 #### (2) Limitation
 
-&emsp;Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section or section 2031 of this title, may exceed 55 percent of the unreducedamount of the participant's annuity, as computed under section 2031(a) of this title.
+&emsp;Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participantunder this section or section 2031 of this title, may exceed 55 percent of the unreduced amount of the participant's annuity, as computed under section 2031(a) of this title.
 
 #### (3) Contribution for additional annuities
 
@@ -196,7 +196,7 @@ Reduction in survivor annuity.—A survivor annuity payable under this subsectio
 
 Limitations.—A former wife or husband is not entitled to a survivor annuity under this subsection if—
 
-&emsp;&emsp;"(A) the former wife or husband remarries before age 55, except that the entitlement of the former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce;
+&emsp;&emsp;"(A) the former wife or husband remarries before age 55, except that the entitlement of the formerwife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce;
 
 &emsp;&emsp;"(B) the former wife or husband is less than 50 years of age; or
 
@@ -324,7 +324,7 @@ Retirement annuities.—The entitlement of a former wife or husband to an annuit
 
 &emsp;&emsp;&emsp;"(ii) shall terminate on the earlier of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the last day of the month before the former wife or husband dies or remarries before55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the date on which the annuity of the participant terminates.
 

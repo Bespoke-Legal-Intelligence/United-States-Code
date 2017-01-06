@@ -178,7 +178,7 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 &emsp;Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.
 
-(Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov.28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, §401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, §4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, §4(a), title IV, §4132, June 18, 2008, 122 Stat. 1664, 1875; Pub. L. 113–79, title IV, §§4017, 4030(g), Feb. 7, 2014, 128 Stat. 796, 814.)
+(Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, §401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, §4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, §4(a), title IV, §4132, June 18, 2008, 122 Stat. 1664, 1875; Pub. L. 113–79, title IV, §§4017, 4030(g), Feb. 7, 2014, 128 Stat. 796, 814.)
 
 #### Codification
 
@@ -208,7 +208,7 @@ Subsec. (b)(3)(C). Pub. L. 110–246, §4132(2)(E), substituted "civil penalty" 
 
 Subsec. (c). Pub. L. 110–246, §4132(3), inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted "civil penalty" for "civil money penalty" in text.
 
-Subsec. (d). Pub. L. 110–246, §4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted "A store or concern described in paragraph (4)" for "Such store or concern", and struck out after subsec. designation "As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter."
+Subsec. (d). Pub. L. 110–246, §4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted "A store or concern described in paragraph (4)" for "Such store or concern", and struck out after subsec. designation "As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) ofthis section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter."
 
 Subsec. (e). Pub. L. 110–246, §4132(5), substituted "civil penalty" for "civil money penalty" wherever appearing.
 
@@ -252,7 +252,7 @@ References to a "coupon", "authorization card", or other access device provided 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4132 of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

@@ -25,6 +25,7 @@
 | [6521\.](%C2%A7%2006521%20-%20Administration.md) | Administration. |
 | [6522\.](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6523\.](%C2%A7%2006523%20-%20National%20organic%20certification%20cost-share%20program.md) | National organic certification cost-share program. |
+| [6524\.](%C2%A7%2006524%20-%20Organically%20produced%20food.md) | Organically produced food. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,3 +57,4 @@
 - [&sect; 06521 - Administration](%C2%A7%2006521%20-%20Administration.md)
 - [&sect; 06522 - Authorization of appropriations](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 06523 - National organic certification cost-share program](%C2%A7%2006523%20-%20National%20organic%20certification%20cost-share%20program.md)
+- [&sect; 06524 - Organically produced food](%C2%A7%2006524%20-%20Organically%20produced%20food.md)

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (2) Microentrepreneur
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry outthis section, to remain available until expended—
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
 
 &emsp;&emsp;(A) $4,000,000 for each of fiscal years 2009 through 2011;
 

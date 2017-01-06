@@ -18,7 +18,7 @@ The Commission shall prescribe procedures for the exercise of authority under th
 
 #### (c) Effect of waiver
 
-An employee as to whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter II of chapter 83, or chapter 84, of title 5.
+An employee as to whom a waiver under this section is in effect shall not be considered anemployee for purposes of subchapter II of chapter 83, or chapter 84, of title 5.
 
 (Aug. 1, 1946, ch. 724, title I, §170C, as added Pub. L. 109–58, title VI, §624(a), Aug. 8, 2005, 119 Stat. 783.)
 

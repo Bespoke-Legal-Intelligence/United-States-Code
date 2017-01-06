@@ -2,7 +2,7 @@
 
 Gross income does not include—
 
-&emsp;(1) income derived from any public utility or the exercise of any essential governmental function and accruing to a State or any political subdivision thereof, or the District of Columbia; or
+&emsp;(1) income derived from any public utility or the exercise of any essential governmentalfunction and accruing to a State or any political subdivision thereof, or the District of Columbia; or
 
 &emsp;(2) income accruing to the government of any possession of the United States, or any political subdivision thereof.
 

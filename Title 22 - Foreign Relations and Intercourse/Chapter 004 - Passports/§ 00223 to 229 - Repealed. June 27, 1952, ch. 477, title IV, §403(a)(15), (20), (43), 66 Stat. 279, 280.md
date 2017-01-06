@@ -1,6 +1,6 @@
 ### §§223 to 229. Repealed. June 27, 1952, ch. 477, title IV, §403(a)(15), (20), (43), 66 Stat. 279, 280
 
-Section 223, acts May 22, 1918, ch. 81, §1, 40 Stat. 559; June 21, 1941, ch. 210, §1, 55 Stat. 252, related to wartime restrictions generally. See section 1185 of Title 8, Aliens and Nationality.
+Section 223, acts May 22, 1918, ch. 81, §1, 40 Stat. 559; June 21, 1941, ch. 210, §1, 55 Stat. 252, related to wartimerestrictions generally. See section 1185 of Title 8, Aliens and Nationality.
 
 Section 224, act May 22, 1918, ch. 81, §2, 40 Stat. 559, related to requirement of passport for citizens during wartime restrictions. See section 1185 of Title 8.
 

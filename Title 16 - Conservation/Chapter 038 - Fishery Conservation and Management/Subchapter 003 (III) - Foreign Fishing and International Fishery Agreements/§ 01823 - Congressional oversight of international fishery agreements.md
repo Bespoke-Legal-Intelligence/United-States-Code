@@ -96,7 +96,7 @@ Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L
 
 #### North Pacific and Bering Sea Fisheries Advisory Body
 
-Pub. L. 100–629, §5, Nov. 7, 1988, 102 Stat. 3287, provided that:
+Pub. L. 100–629, §5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, §121(a), Dec. 16, 2016, 130 Stat. 1984, provided that:
 
 "(a)
 
@@ -128,7 +128,19 @@ Pay.—Members of the advisory body established pursuant to this section shall r
 
 "(d)
 
-Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section."
+Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section.
+
+"(e)
+
+Travel Expenses.—
+
+&emsp;"(1)
+
+In general.—The Secretary of State may pay the necessary travel expenses of the members of the advisory body established pursuant to this section in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5, United States Code.
+
+&emsp;"(2)
+
+Reimbursement.—The Secretary of Commerce may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection."
 
 #### Governing International Fishery Agreement With Russian Federation
 
@@ -144,7 +156,7 @@ Pub. L. 100–350, §1, June 27, 1988, 102 Stat. 660, provided that extension of
 
 Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) \[this section\]—
 
-&emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the Presidentof the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
+&emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to theUnited States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
 
 &emsp;"(2) the governing international fishery agreement between the Government of the United States and the Government of the Republic of Iceland Concerning Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated September 29, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XVI of the agreement after the date of the enactment of this title \[Nov. 8, 1984\]."
 

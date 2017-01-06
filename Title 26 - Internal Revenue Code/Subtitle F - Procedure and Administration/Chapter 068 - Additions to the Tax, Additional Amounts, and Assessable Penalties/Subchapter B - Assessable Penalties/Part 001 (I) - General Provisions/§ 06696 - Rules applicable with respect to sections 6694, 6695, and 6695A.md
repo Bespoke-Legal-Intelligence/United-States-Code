@@ -10,13 +10,13 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 #### (c) Procedure for claiming refund
 
-Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall be filed in accordance with regulations prescribed by the Secretary.
+Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall befiled in accordance with regulations prescribed by the Secretary.
 
 #### (d) Periods of limitation
 
 #### (1) Assessment
 
-&emsp;The amount of any penalty under section 6694(a), section <sup>2</sup> 6695, or 6695A shall be assessed within 3 years after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of suchperiod. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
+&emsp;The amount of any penalty under section 6694(a), section <sup>2</sup> 6695, or 6695A shall be assessed within 3 years after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of such period. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
 
 #### (2) Claim for refund
 

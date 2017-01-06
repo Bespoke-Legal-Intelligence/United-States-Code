@@ -54,7 +54,7 @@ In clause (2), the word "valid" is omitted as surplus.
 
 #### Aviation Noise Complaints
 
-Pub. L. 112–95, title V, §510, Feb. 14, 2012, 126 Stat. 107, provided that: "Not later than 90 days after the date ofenactment of this Act \[Feb. 14, 2012\], each owner or operator of a large hub airport (as defined in section 40102(a) of title 49, United States Code) shall publish on an Internet Web site of the airport a telephone number to receive aviation noise complaints related to the airport."
+Pub. L. 112–95, title V, §510, Feb. 14, 2012, 126 Stat. 107, provided that: "Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], each owner or operator of a large hub airport (as defined in section 40102(a) of title 49, United States Code) shall publish on an Internet Web site of the airport a telephone number to receive aviation noise complaints related to the airport."
 
 #### Airport Noise Study
 
@@ -78,7 +78,7 @@ Contents of Study.—In conducting the study, the National Academy of Sciences s
 
 "(c)
 
-Report.—Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to the Secretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
+Report.—Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to theSecretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
 
 "(d)
 

@@ -22,7 +22,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (F)(i) The Secretary may implement procedures to place selected over-the-counter drugs on the uniform formulary and to make such drugs available to eligible covered beneficiaries. An over-the-counter drug may be included on the uniform formulary only if the Pharmacy and Therapeutics Committee established under subsection (b) finds that the over-the-counter drug is cost effective and clinically effective. If the Pharmacy and Therapeutics Committee recommends an over-the-counter drug for inclusion on the uniform formulary, the drug shall be considered to be in the same therapeutic class of pharmaceutical agents, as determined by the Committee, as similar prescription drugs.
 
-(ii) Regulations prescribed by the Secretary to carry out clause (i) shall include the following with respect to over-the-counter drugs included on the uniform formulary:
+(ii) Regulations prescribed by the Secretary to carry out clause (i) shall include the followingwith respect to over-the-counter drugs included on the uniform formulary:
 
 &emsp;(I) A determination of the means and conditions under paragraphs (5) and (6) through which over-the-counter drugs will be available to eligible covered beneficiaries and the amount of cost sharing that such beneficiaries will be required to pay for over-the-counter drugs, if any, except that no such cost sharing may be required for a member of a uniformed service on active duty.
 
@@ -82,7 +82,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (b)
 
-Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretaryunder the regulations prescribed under subsection (h).
+Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (h).
 
 (2) The committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 
@@ -130,7 +130,7 @@ Definitions.—In this section:
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, §1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X,§1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, §702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867.)
 
 #### References in Text
 
@@ -224,13 +224,95 @@ Federal register.—The Secretary shall publish notice of the effective date of 
 
 #### Regulations
 
-Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, §1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: "The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall somodify such regulations not later than December 31, 2007."
+Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, §1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: "The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007."
 
 \[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(12) to section 1061(b)(3) of Pub. L. 110–417, included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.\]
 
 #### Termination of Advisory Panels
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Authorization of Reimbursement by Department of Defense to Entities Carrying Out State Vaccination Programs for Costs of Vaccines Provided to Covered Beneficiaries
+
+Pub. L. 114–328, div. A, title VII, §719, Dec. 23, 2016, 130 Stat. 2226, provided that:
+
+"(a)
+
+Reimbursement.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may reimburse an amount determined under paragraph (2) to an entity carrying out a State vaccination program for the cost of vaccines provided to covered beneficiaries through such program.
+
+&emsp;"(2)
+
+Amount of reimbursement.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), the amount determined under this paragraph with respect to a State vaccination program shall be the amount assessed by the entity carrying out such program to purchase vaccines provided to covered beneficiaries through such program.
+
+&emsp;&emsp;"(B)
+
+Limitation.—The amount determined under this paragraph to provide vaccines to covered beneficiaries through a State vaccination program may not exceed the amount that the Department would reimburse an entity under the TRICARE program for providing vaccines to the number of covered beneficiaries who were involved in the applicable State vaccination program.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered beneficiary; tricare program.—The terms 'covered beneficiary' and 'TRICARE program' have the meanings given those terms in section 1072 of title 10, United States Code.
+
+&emsp;"(2)
+
+State vaccination program.—The term 'State vaccination program' means a vaccination program that provides vaccinations to individuals in a State and is carried out by an entity (including an agency of the State) within the State."
+
+#### Pilot Program for Prescription Drug Acquisition Cost Parity in the TRICARE Pharmacy Benefits Program
+
+Pub. L. 114–328, div. A, title VII, §743, Dec. 23, 2016, 130 Stat. 2238, provided that:
+
+"(a)
+
+Authority to Establish Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate whether, in carrying out the TRICARE pharmacy benefits program under section 1074g of title 10, United States Code, extending additional discounts for prescription drugs filled at retail pharmacies will maintain or reduce prescription drug costs for the Department of Defense.
+
+"(b)
+
+Elements of Pilot Program.—In carrying out the pilot program under subsection (a), the Secretary shall require that for prescription medications, including non-generic maintenance medications, that are dispensed to TRICARE beneficiaries that are not Medicare eligible, through any TRICARE participating retail pharmacy, including small business pharmacies, manufacturers shall pay rebates such that those medications are available to the Department at the lowest rate available. In addition to utilizing the authority under section 1074g(f) of title 10, United States Code, the Secretary shall have the authority to enter into a blanket purchase agreement with prescription drug manufacturers for supplemental discounts for prescription drugs dispensed in the pilot to be paid in the form of manufacturer's rebates.
+
+"(c)
+
+Consultation.—The Secretary shall develop the pilot program in consultation with—
+
+&emsp;"(1) the Secretaries of the military departments;
+
+&emsp;"(2) the Chief of the Pharmacy Operations Division of the Defense Health Agency; and
+
+&emsp;"(3) stakeholders, including TRICARE beneficiaries and retail pharmacies.
+
+"(d)
+
+Duration of Pilot Program.—If the Secretary carries out the pilot program under subsection (a), the Secretary shall commence such pilot program no later than October 1, 2017, and shall terminate such program no later than September 30, 2018.
+
+"(e)
+
+Reports.—If the Secretary carries out the pilot program under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives reports on the pilot program as follows:
+
+&emsp;"(1) Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], a report containing an implementation plan for the pilot program.
+
+&emsp;"(2) Not later than 180 days after the date on which the pilot program commences, an interim report on the pilot program.
+
+&emsp;"(3) Not later than 90 days after the date on which the pilot program terminates, a final report describing the results of the pilot program, including—
+
+&emsp;&emsp;"(A) any recommendations of the Secretary to expand such program;
+
+&emsp;&emsp;"(B) an analysis of the changes in prescription drug costs for the Department of Defense relating to the pilot program;
+
+&emsp;&emsp;"(C) an analysis of the impact on beneficiary access to prescription drugs;
+
+&emsp;&emsp;"(D) a survey of beneficiary satisfaction with the pilot program; and
+
+&emsp;&emsp;"(E) a summary of any fraud and abuse activities related to the pilot and actions taken in response by the Department."
 
 #### Joint Uniform Formulary for Transition of Care
 
@@ -356,7 +438,7 @@ Definitions.—In this section:
 
 #### Pilot Program for Refills of Maintenance Medications for TRICARE for Life Beneficiaries Through the TRICARE Mail-Order Pharmacy Program
 
-Pub. L. 112–239, div. A, title VII, §716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, titleVII, §702(c)(2), Dec. 19, 2014, 128 Stat. 3411, provided that:
+Pub. L. 112–239, div. A, title VII, §716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, title VII, §702(c)(2), Dec. 19, 2014, 128 Stat. 3411, provided that:
 
 "(a)
 
@@ -510,7 +592,7 @@ Conduct through military facilities, retail pharmacies, or mail order program.�
 
 &emsp;"(3)
 
-Period of demonstration.—The Secretary shall provide for conducting the demonstration project for a period of time necessary to evaluate the feasibility and cost effectiveness of the demonstration. Such period shall be at least as long as the period covered by pharmacy contracts in existence on the date of the enactment of this Act \[Oct. 17, 2006\] (including any extensions of the contracts), or five years, whichever is shorter.
+Period of demonstration.—The Secretary shall provide for conducting the demonstration project for a period of time necessary to evaluate the feasibility and cost effectiveness of the demonstration. Such period shall be at least as long as the period covered by pharmacy contracts in existence onthe date of the enactment of this Act \[Oct. 17, 2006\] (including any extensions of the contracts), or five years, whichever is shorter.
 
 &emsp;"(4)
 

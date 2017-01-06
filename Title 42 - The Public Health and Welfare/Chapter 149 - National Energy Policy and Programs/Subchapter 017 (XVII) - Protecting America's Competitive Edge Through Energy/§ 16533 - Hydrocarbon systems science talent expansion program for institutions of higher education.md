@@ -110,7 +110,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 &emsp;An institution of higher education that receives a grant under this subsection may use the grant to—
 
-&emsp;&emsp;(A) increase the number of graduates in the hydrocarbon systems sciences that enter into careers in the natural gas and other petroleum exploration, development, and production science fields;
+&emsp;&emsp;(A) increase the number of graduates in the hydrocarbon systems sciences that enterinto careers in the natural gas and other petroleum exploration, development, and production science fields;
 
 &emsp;&emsp;(B) enhance the teaching of advanced natural gas and other petroleum exploration, development, and production technologies;
 

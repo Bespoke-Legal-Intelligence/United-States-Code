@@ -54,7 +54,7 @@ As used in this chapter, the following definitions apply:
 
 #### (8) Indian tribe
 
-&emsp;The term "Indian tribe", "tribe", or "tribal" refers to an Indian tribe as defined in section 450b(e) of title 25 or as listed pursuant to section 479a–1 of title 25.
+&emsp;The term "Indian tribe", "tribe", or "tribal" refers to an Indian tribe as defined in section 5304(e) of title 25 or as listed pursuant to section 5131 of title 25.
 
 #### (9) Interstate commerce
 
@@ -106,7 +106,7 @@ BATFE Authority.—The amendments made by section 4 \[amending section 2343 of T
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–154, §1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: "This Act \[enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title 18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Prevent All Cigarette Trafficking Act of 2009' or 'PACT Act'."
+Pub. L. 111–154, §1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: "This Act \[enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Prevent All Cigarette Trafficking Act of 2009' or 'PACT Act'."
 
 #### Short Title
 
@@ -168,7 +168,7 @@ Pub. L. 111–154, §5, Mar. 31, 2010, 124 Stat. 1109, provided that:
 
 In General.—Nothing in this Act \[see Short Title of 2010 Amendment note above\] or the amendments made by this Act shall be construed to amend, modify, or otherwise affect—
 
-&emsp;"(1) any agreements, compacts, or other intergovernmental arrangements between any State or local government and any government of an Indian tribe (as that term is defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) relating to the collection of taxes on cigarettes or smokeless tobacco sold in Indian country;
+&emsp;"(1) any agreements, compacts, or other intergovernmental arrangements between any State or local government and any government of an Indian tribe (as that term is defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) \[now 25 U.S.C. 5304(e)\] relating to the collection of taxes on cigarettes or smokeless tobacco sold in Indian country;
 
 &emsp;"(2) any State laws that authorize or otherwise pertain to any such intergovernmental arrangements or create special rules or procedures for the collection of State, local, or tribal taxes on cigarettes or smokeless tobacco sold in Indian country;
 

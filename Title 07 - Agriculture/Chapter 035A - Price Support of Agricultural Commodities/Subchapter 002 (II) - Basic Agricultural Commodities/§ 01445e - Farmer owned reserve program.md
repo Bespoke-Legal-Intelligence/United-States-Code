@@ -148,7 +148,7 @@ Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
 Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (o) as (p).
 
-<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
+<b>1990</b>—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to theestablishment and maintenance of the producer reserve program for wheat and feed grains.
 
 Subsec. (k). Pub. L. 101–624, §2010, added subsec. (k) relating to review.
 
@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), insert
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
-Subsec. (b). Pub. L. 97–98 substituted "Secretary shall provide" for "Secretary may provide", struck out "at the same level of support as provided by this Act" after "loans for wheat and feed grains", and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providingthat the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and "program may provide" for "program shall provide".
+Subsec. (b). Pub. L. 97–98 substituted "Secretary shall provide" for "Secretary may provide", struck out "at the same level of support as provided by this Act" after "loans for wheat and feed grains", and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and "program may provide" for "program shall provide".
 
 Subsec. (b)(2). Pub. L. 97–98 substituted "for storage in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program" for "of such amounts as the Secretary determines appropriate to cover the cost of storing wheat and feed grains held under the program".
 
@@ -220,7 +220,7 @@ Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947, provided t
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat. 1455, provided that, except as provided in section 1012(b)of Pub. L. 99–198 (set out below), the amendments by section 1012(a) are effective beginning with the 1986 crops.
+Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat. 1455, provided that, except as provided in section 1012(b) of Pub. L. 99–198 (set out below), the amendments by section 1012(a) are effective beginning with the 1986 crops.
 
 Pub. L. 99–198, title X, §1012(b), Dec. 23, 1985, 99 Stat. 1456, provided that: "The amendment made by subsection (a)(2)(B) of this section \[amending this section\] shall take effect with respect to any loan made under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) the date for repayment of which occurs after the date of enactment of this Act \[Dec. 23, 1985\]."
 

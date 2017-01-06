@@ -14,7 +14,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 &emsp;&emsp;(B) one member elected by the voting stockholders of each district bank for cooperatives that is not a constituent of the consolidated bank; and
 
-&emsp;&emsp;(C) one member appointed by the members chosen under subparagraphs (A) and (B) who shall not be a stockholder or borrower of a System institution or an officer or director of any such stockholder or borrower.
+&emsp;&emsp;(C) one member appointed by the members chosen under subparagraphs (A) and (B) who shall not be a stockholder or borrower of aSystem institution or an officer or director of any such stockholder or borrower.
 
 #### (2) Nomination and election
 

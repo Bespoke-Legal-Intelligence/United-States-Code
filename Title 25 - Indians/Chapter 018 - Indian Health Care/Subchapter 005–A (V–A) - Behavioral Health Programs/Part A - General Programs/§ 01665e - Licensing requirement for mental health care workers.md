@@ -6,7 +6,7 @@ Subject to section 1621t of this title, and except as provided in subsection (b)
 
 #### (b) Trainees
 
-An individual may be employed as a trainee in psychology, social work, or marriage and family therapy to provide mental health care services described in subsection (a) if such individual—
+An individual may be employed as a trainee in psychology, social work, or marriage and familytherapy to provide mental health care services described in subsection (a) if such individual—
 
 &emsp;(1) works under the direct supervision of a licensed psychologist, social worker, or marriage and family therapist, respectively;
 

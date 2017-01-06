@@ -10,7 +10,7 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 #### (b) Referrals regarding States
 
-A funding agreement for a grant under section 300x–21 of this title is that, in carrying out subsection (a)(1) of this section—
+A funding agreement for a grant under section 300x–21 of this title is that, in carrying out subsection (a)(1)—
 
 &emsp;(1) the State involved will require that, in the event that a treatment facility has insufficient capacity to provide treatment services to any woman described in such subsection who seeks the services from the facility, the facility refer the woman to the State; and
 
@@ -34,7 +34,7 @@ Another prior section 1927 of act July 1, 1944, was classified to section 300y�
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L.102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "woman".</i>
 

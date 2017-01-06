@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For any fiscal year, the Secretary shall allot the amount made available under section 2376 of this title among the States in the same manner as funds are allotted to States under paragraph (2) of section 2321(a) of this title.
+For any fiscal year, the Secretary shall allot the amount made available under section 2376 ofthis title among the States in the same manner as funds are allotted to States under paragraph (2) of section 2321(a) of this title.
 
 #### (b) Payments to eligible agencies
 

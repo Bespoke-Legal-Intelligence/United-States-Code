@@ -44,7 +44,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 #### (A) In general
 
-&emsp;&emsp;Within 2 years after the establishment of the Committee, the Committee shall develop 2 tiers (referred to in this subparagraph as "Tier I" and "Tier II") of recommended best practices for States to follow in combating the sex trafficking of children and youth. Tier I shall provide States that have not yet substantively addressed the sex trafficking of children and youth with an idea of where to begin and what steps to take. Tier II shallprovide States that are already working to address the sex trafficking of children and youth with examples of policies that are already being used effectively by other States to address sex trafficking.
+&emsp;&emsp;Within 2 years after the establishment of the Committee, the Committee shall develop 2 tiers (referred to in this subparagraph as "Tier I" and "Tier II") of recommended best practices for States to follow in combating the sex trafficking of children and youth. Tier I shall provide States that have not yet substantively addressed the sex trafficking of children and youth with an idea of where to begin and what steps to take. Tier II shall provide States that are already working to address the sex trafficking of children and youth with examples of policies that are already being used effectively by other States to address sex trafficking.
 
 #### (B) Development
 
@@ -108,7 +108,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 #### (3) Subcommittees
 
-&emsp;The Committee may establish subcommittees or working groups, as necessary and consistent with the mission of the Committee.The subcommittees or working groups shall have no authority to make decisions on behalf of the Committee, nor shall they report directly to any official or entity listed in subsection (d).
+&emsp;The Committee may establish subcommittees or working groups, as necessary and consistent with the mission of the Committee. The subcommittees or working groups shall have no authority to make decisions on behalf of the Committee, nor shall they report directly to any official or entity listed in subsection (d).
 
 #### (4) Recordkeeping
 

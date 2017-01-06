@@ -36,13 +36,17 @@ Full Deployment Decision.—In this chapter, the term "full deployment decision"
 
 (f)
 
-Full Deployment.—In this chapter, the term "full deployment" means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
+Full Deployment.—In this chapter, the term "full deployment" means, with respect toa major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
 
 (g)
 
 Extension of a Program.—In this chapter, the term "extension of a program" means, with respect to a major automated information system program or other major information technology investment program, the further deployment or planned deployment to additional users of the system which has already been found operationally effective and suitable by an independent test agency or the Director of Operational Test and Evaluation, beyond the scope planned in the original estimate or information originally submitted on the program.
 
 (Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(a)(1), (2), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(c), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 113–66, div. A, title X, §1092(a), Dec. 26, 2013, 127 Stat. 877.)
+
+#### Repeal of Section
+
+<i>For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.</i>
 
 #### Amendments
 
@@ -55,6 +59,10 @@ Extension of a Program.—In this chapter, the term "extension of a program" mea
 Subsec. (a). Pub. L. 110–417, §812(a)(1)(A), substituted "Major Automated Information System Program" for "In General" in heading.
 
 Subsec. (d). Pub. L. 110–417, §812(a)(1)(B), added subsec. (d).
+
+#### Effective Date of Repeal
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
 
 #### Effective Date
 

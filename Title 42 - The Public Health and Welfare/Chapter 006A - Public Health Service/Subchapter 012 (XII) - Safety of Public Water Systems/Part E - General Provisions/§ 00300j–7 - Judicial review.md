@@ -4,7 +4,7 @@
 
 A petition for review of—
 
-&emsp;(1) actions pertaining to the establishment of national primary drinking water regulations (including maximum contaminant level goals) may be filed only in the United States Court of Appeals for the District of Columbia circuit; and
+&emsp;(1) actions pertaining to the establishment of national primary drinking water regulations (including maximum contaminant level goals) may be filed only in the United StatesCourt of Appeals for the District of Columbia circuit; and
 
 &emsp;(2) any other final action of the Administrator under this chapter may be filed in the circuit in which the petitioner resides or transacts business which is directly affected by the action.
 

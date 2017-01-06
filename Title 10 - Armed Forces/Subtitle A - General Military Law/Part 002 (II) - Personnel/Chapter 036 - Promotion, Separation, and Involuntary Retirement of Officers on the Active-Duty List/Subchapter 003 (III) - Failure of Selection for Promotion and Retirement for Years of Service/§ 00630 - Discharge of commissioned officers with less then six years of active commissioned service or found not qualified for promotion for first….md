@@ -26,3 +26,7 @@ Par. (1). Pub. L. 107–107, §505(d)(2), struck out "regular" before "officer" 
 
 <b>1984</b>—Par. (2). Pub. L. 98–525 substituted "18-month" for "eighteen-month".
 
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+

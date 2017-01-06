@@ -52,13 +52,13 @@ Sec. 4. The Secretary of Commerce is authorized:
 
 Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate, are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
 
-Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate, are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
+Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate,are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
 
 Sec. 7. The USNA, in coordination with the interagency group designated in section 2 of this order, is authorized to determine whether disclosure of confidential business information pursuant to section 404(c) of the Act \[22 U.S.C. 6744(c)\] is in the national interest. Disclosure will not be permitted if contrary to national security or law enforcement needs.
 
 Sec. 8. In order to take additional steps with respect to the proliferation of weapons of mass destruction and means of delivering them and the national emergency described and declared in Executive Order 12938 of November 14, 1994 \[listed in a table under section 1701 of Title 50, War and National Defense\], as amended by Executive Order 13094 of July 30, 1998, section 3 of Executive Order 12938, as amended, is amended to add a new subsection (e) to read as follows:
 
-&emsp;"(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessaryto carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction."
+&emsp;"(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessary to carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction."
 
 Sec. 9. Any investigation emanating from a possible violation of this order, or of any license, order, or regulation issued pursuant to this order, involving or revealing a possible violation of 18 U.S.C. section 229 shall be referred to the Federal Bureau of Investigation (FBI), which shall coordinate with the referring agency and other appropriate agencies. The FBI shall timely notify the referring agency and other appropriate agencies of any action it takes on such referrals.
 

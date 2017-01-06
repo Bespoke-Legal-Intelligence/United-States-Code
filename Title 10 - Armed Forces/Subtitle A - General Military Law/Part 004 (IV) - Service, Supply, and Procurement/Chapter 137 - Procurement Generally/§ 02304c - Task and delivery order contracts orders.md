@@ -16,9 +16,11 @@ Multiple Award Contracts.—When multiple task or delivery order contracts are a
 
 &emsp;(2) only one such contractor is capable of providing the services or property required at the level of quality required because the services or property ordered are unique or highly specialized;
 
-&emsp;(3) the task or delivery order should be issued on a sole-source basis in the interest of economy and efficiency because it is a logical follow-on to a task or delivery order already issued on a competitive basis; or
+&emsp;(3) the task or delivery order should be issued on a sole-source basis in the interest of economy and efficiency because it is a logical follow-on to a task or delivery order already issued on a competitive basis;
 
-&emsp;(4) it is necessary to place the order with a particular contractor in order to satisfy a minimum guarantee.
+&emsp;(4) it is necessary to place the order with a particular contractor in order to satisfy a minimum guarantee; or
+
+&emsp;(5) the task or delivery order satisfies one of the exceptions in section 2304(c) of this title tothe requirement to use competitive procedures.
 
 (c)
 
@@ -44,9 +46,9 @@ Protests.—(1) A protest is not authorized in connection with the issuance or p
 
 &emsp;(A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
 
-&emsp;(B) a protest of an order valued in excess of $10,000,000.
+&emsp;(B) a protest of an order valued in excess of $25,000,000.
 
-(2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shallhave exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+(2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
 (f)
 
@@ -56,9 +58,13 @@ Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple 
 
 Applicability.—This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, §830, Jan. 2, 2013, 126 Stat. 1842.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, §830, Jan. 2, 2013, 126 Stat. 1842; Pub. L. 114–328, div. A, title VIII, §§825(b), 835(a), Dec. 23, 2016, 130 Stat. 2280, 2285.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(5). Pub. L. 114–328, §825(b), added par. (5).
+
+Subsec. (e)(1)(B). Pub. L. 114–328, §835(a), substituted "$25,000,000" for "$10,000,000".
 
 <b>2013</b>—Subsec. (e)(3). Pub. L. 112–239 struck out par. (3) which read as follows: "Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016."
 

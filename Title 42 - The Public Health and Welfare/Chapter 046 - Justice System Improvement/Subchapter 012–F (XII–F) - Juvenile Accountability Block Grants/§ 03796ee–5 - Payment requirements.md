@@ -2,7 +2,7 @@
 
 #### (a) Timing of payments
 
-The Attorney General shall pay to each State or specifically <sup>1</sup> qualified unit of local government that receives funds under section 3796ee–3 of this title that has submitted an application under this subchapter the amount awarded to such State or unit of local government not later than the later of—
+The Attorney General shall pay to each State or specifically <sup>1</sup> qualified unit of local government that receives funds under section 3796ee–3of this title that has submitted an application under this subchapter the amount awarded to such State or unit of local government not later than the later of—
 
 &emsp;(1) the date that is 180 days after the date that the amount is available; or
 
@@ -12,7 +12,7 @@ The Attorney General shall pay to each State or specifically <sup>1</sup> quali
 
 #### (1) Repayment required
 
-&emsp;From amounts awarded under this subchapter, a State or specially qualified unitshall repay to the Attorney General, before the expiration of the 36-month period beginning on the date of the award, any amount that is not expended by such State or unit.
+&emsp;From amounts awarded under this subchapter, a State or specially qualified unit shall repay to the Attorney General, before the expiration of the 36-month period beginning on the date of the award, any amount that is not expended by such State or unit.
 
 #### (2) Extension
 

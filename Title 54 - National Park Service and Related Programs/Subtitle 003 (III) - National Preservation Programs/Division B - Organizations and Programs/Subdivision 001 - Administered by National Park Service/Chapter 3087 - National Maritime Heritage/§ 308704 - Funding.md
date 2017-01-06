@@ -12,15 +12,7 @@ In general.—Notwithstanding any other provision of law, the amount of funds cr
 
 &emsp;&emsp;(B) Twenty five percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
-&emsp;&emsp;(C) The remainder shall be available—
-
-&emsp;&emsp;&emsp;(i) to the Secretary to carry out the Program, as provided in subsection (b); or
-
-&emsp;&emsp;&emsp;(ii) if otherwise determined by the Administrator of the Maritime Administration, for use in the preservation and presentation to the public of maritime heritage property of the Maritime Administration.
-
-&emsp;(2)
-
-Applicability.—Paragraph (1) does not apply to amounts credited to the Vessel Operations Revolving Fund before July 1, 1994.
+&emsp;&emsp;(C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b).
 
 (b)
 
@@ -28,11 +20,31 @@ Use of Amounts for Program.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), of amounts available each fiscal year for the Program under subsection (a)(1)(C)—
+Allocation.—
 
-&emsp;&emsp;(A) one half shall be used for grants under section 308703(b) of this title; and
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) one half shall be used for grants under section 308703(c) of this title.
+In general.—Except as provided in subparagraph (B) and paragraph (2), of the amounts available each fiscal year for the Program under subsection (a)(1)(C)—
+
+&emsp;&emsp;&emsp;(i) 50 percent shall be used for grants under section 308703(b); and
+
+&emsp;&emsp;&emsp;(ii) 50 percent shall be used for grants under section 308703(c).
+
+&emsp;&emsp;(B)
+
+Set aside.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Not less than 25 percent of the amounts available each fiscal year for the Program under subsection (a)(1)(C) shall be used for the preservation and presentation to the public of the maritime heritage property of the Maritime Administration.
+
+&emsp;&emsp;&emsp;(ii)
+
+Direct transfers.—The Secretary may provide amounts used for the preservation and presentation to the public of the maritime heritage property of the Maritime Administration through direct transfers to the Maritime Administration.
+
+&emsp;&emsp;&emsp;(iii)
+
+Waiver.—The Maritime Administrator may waive the application of clause (i) for any fiscal year.
 
 &emsp;(2)
 
@@ -80,7 +92,7 @@ Description of vessels.—The vessels referred to in paragraph (1) are the vesse
 
 Treatment of Available Amounts.—Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3241.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3241; Pub. L. 114–328, div. C, title XXXV, §3507(a), Dec. 23, 2016, 130 Stat. 2777.)
 
 Historical and Revision Notes
 
@@ -101,6 +113,12 @@ Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, 
 The text of 16 U.S.C. 5405(b)(2) is omitted as obsolete.
 
 In subsection (a)(1)(C), before subparagraph (i), the words "whether collected before or after October 28, 2009" are omitted as obsolete.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–328, §3507(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to availability of remainder of funds.
+
+Subsec. (b)(1). Pub. L. 114–328, §3507(a)(2), amended par. (1) generally. Prior to amendment, par. (1) related to use of amounts for certain projects under the National Maritime Heritage Grants Program.
 
 #### Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling
 
@@ -130,7 +148,7 @@ Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(
 
 &emsp;"(E) Exploration of cooperative efforts with foreign governments (under a global action program on ship recycling or other program) in order to foster economically and environmentally sound ship recycling abroad.
 
-"(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reportingrequirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[section 1 \[div. C, title XXXV, §3502\] of Pub. L. 106–398, which amended former section 5405 of Title 16, Conservation, and enacted provisions set out below\]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate.
+"(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[section 1 \[div. C, title XXXV, §3502\] of Pub. L. 106–398, which amended former section 5405 of Title 16, Conservation, and enacted provisions set out below\]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate.
 
 "(d)
 
@@ -168,7 +186,7 @@ Contents of plan.—The plan shall—
 
 &emsp;&emsp;"(B) identify and describe the funding and other resources necessary to implement the plan, and specific milestones for disposal of vessels under the plan;
 
-&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program, including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
+&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program,including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
 
 &emsp;&emsp;"(D) develop a formal decisionmaking framework for the program; and
 

@@ -16,7 +16,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (1) Appropriation
 
-&emsp;There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c) of this section.
+&emsp;There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c).
 
 #### (2) Transfer conditions
 
@@ -74,13 +74,13 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (1) Transfer
 
-&emsp;(A) Amounts made available pursuant to subsection (d) of this section shall be transferred to eligible Federal entities, as defined in section 923(g)(1) of this title.
+&emsp;(A) Amounts made available pursuant to subsection (d) shall be transferred to eligible Federal entities, as defined in section 923(g)(1) of this title.
 
 &emsp;(B) An eligible Federal entity may receive more than one such transfer, but if the sum of the subsequent transfer or transfers exceeds 10 percent of the original transfer—
 
-&emsp;&emsp;(i) such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B) of this section;
+&emsp;&emsp;(i) such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B);
 
-&emsp;&emsp;(ii) the notice to the committees containing the plan required by subsection (d)(2)(C) of this section shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
+&emsp;&emsp;(ii) the notice to the committees containing the plan required by subsection (d)(2)(C) shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
 
 &emsp;&emsp;(iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
 
@@ -88,13 +88,13 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (2) Retransfer to fund
 
-&emsp;An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B) of this section.
+&emsp;An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B).
 
 #### (f) Additional payments from Fund
 
 #### (1) Amounts available
 
-&emsp;Notwithstanding subsections (c) through (e), after February 22, 2012, there are appropriatedfrom the Fund and available to the Director of OMB for use in accordance with paragraph (2) not more than 10 percent of the amounts deposited in the Fund from auctions occurring after such date of licenses for the use of spectrum vacated by eligible Federal entities.
+&emsp;Notwithstanding subsections (c) through (e), after February 22, 2012, there are appropriated from the Fund and available to the Director of OMB for use in accordance with paragraph (2) not more than 10 percent of the amounts deposited in the Fund from auctions occurring after such date of licenses for the use of spectrum vacated by eligible Federal entities.
 
 #### (2) Use of amounts
 
@@ -234,5 +234,5 @@ Pub. L. 108–494, title II, §207, Dec. 23, 2004, 118 Stat. 3996, provided that
 
 &emsp;"(1) the progress made in adhering to the timelines applicable to relocation from eligible frequencies required under \[former\] section 118(d)(2)(A) of the National Telecommunications and Information Administration Organization Act \[now 47 U.S.C. 928(d)(2)(B)\], separately stated on a communication system-by-system basis and on an auction-by-auction basis; and
 
-&emsp;"(2) with respect to each relocated communication system and auction, a statement of the estimate of relocation costs required under section 113(g)(4) of such Act \[47 U.S.C. 923(g)(4)\], the actual relocations costs incurred, and the amount of such costs paid from the Spectrum Relocation Fund."
+&emsp;"(2) with respect to each relocated communication system and auction, a statement of the estimate ofrelocation costs required under section 113(g)(4) of such Act \[47 U.S.C. 923(g)(4)\], the actual relocations costs incurred, and the amount of such costs paid from the Spectrum Relocation Fund."
 

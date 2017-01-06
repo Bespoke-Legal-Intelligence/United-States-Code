@@ -130,7 +130,7 @@ Purpose.—The purpose of this Act \[see Short Title of 2002 Amendment note set 
 
 &emsp;"(3) clarify that a good faith investor in loans insured or guaranteed by the Secretary will receive appropriate payments;
 
-&emsp;"(4) provide for the appointment by the Secretary of a qualified fiscal transfer agent to establish andadminister a system for the orderly transfer of those loans; and
+&emsp;"(4) provide for the appointment by the Secretary of a qualified fiscal transfer agent to establish and administer a system for the orderly transfer of those loans; and
 
 &emsp;"(5)(A) authorize the Secretary to promulgate regulations to encourage and expand a secondary market program for loans guaranteed or insured by the Secretary; and
 

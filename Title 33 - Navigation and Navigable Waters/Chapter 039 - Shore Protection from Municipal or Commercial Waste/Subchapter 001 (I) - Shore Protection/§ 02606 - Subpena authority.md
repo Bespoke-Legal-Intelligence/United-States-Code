@@ -6,7 +6,7 @@ In an investigation under this chapter, the attendance and testimony of witnesse
 
 #### (b) Subpena authority
 
-An official designated by the Secretary of Transportation or Administrator to conduct aninvestigation under this chapter may issue subpenas as provided in this section and administer oaths to witnesses.
+An official designated by the Secretary of Transportation or Administrator to conduct an investigation under this chapter may issue subpenas as provided in this section and administer oaths to witnesses.
 
 #### (c) Failure to comply
 

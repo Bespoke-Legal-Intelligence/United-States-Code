@@ -50,7 +50,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) the Secretary of Agriculture, acting through the Forest Service, with respect to National Forest System land; and
 
-&emsp;&emsp;(B) the Secretary of the Interior, acting through appropriate offices of the United States Geological Survey, with respect to federally owned land administered by the Secretary of the Interior.
+&emsp;&emsp;(B) the Secretary of the Interior, acting through appropriate offices of the UnitedStates Geological Survey, with respect to federally owned land administered by the Secretary of the Interior.
 
 (Pub. L. 108–148, title IV, §402, Dec. 3, 2003, 117 Stat. 1908.)
 

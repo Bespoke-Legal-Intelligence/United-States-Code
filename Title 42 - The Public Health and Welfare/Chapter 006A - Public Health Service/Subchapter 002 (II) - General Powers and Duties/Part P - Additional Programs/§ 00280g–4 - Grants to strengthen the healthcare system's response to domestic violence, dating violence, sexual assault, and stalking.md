@@ -20,11 +20,11 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(i) are designed to train medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers to identify and provide health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are or who have been victims of domestic violence, dating violence, sexual assault, or stalking; and
 
-&emsp;&emsp;&emsp;(ii) plan and develop culturally competent clinical training components for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence and abuse, focus on reducing health disparities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
+&emsp;&emsp;&emsp;(ii) plan and develop culturally competent clinical training components for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence andabuse, focus on reducing health disparities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
 
 &emsp;&emsp;(B) design and implement comprehensive strategies to improve the response of the health care system to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
 
-&emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and proceduresto guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
+&emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
 
 &emsp;&emsp;&emsp;(ii) the development of on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;
 
@@ -130,7 +130,7 @@ The Secretary shall award grants for—
 
 #### (1) In general
 
-&emsp;Of the funds made available to carry out this section for any fiscal year, the Secretary may make grants or enter into contracts to provide technical assistance with respect to the planning, development, and operation of any program, activity or service carried out pursuant to this section. Not more than 8 percent of the funds appropriated under this section in each fiscal year may be used to fund technical assistance under this subsection.
+&emsp;Of the funds made available to carry out this section for any fiscal year, the Secretary may make grants or enter into contracts to provide technical assistance with respect to the planning, development, and operation of any program, activity or service carried out pursuant to this section. Not more than 8 percent of the funds appropriated under this section in eachfiscal year may be used to fund technical assistance under this subsection.
 
 #### (2) Availability of materials
 

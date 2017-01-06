@@ -2,23 +2,21 @@
 
 #### (a) Goals
 
-The Foundation shall apply a Broader Impacts Review Criterion to achieve the following goals:
+The Foundation shall apply a broader impacts review criterion to identify and demonstrate project support of the following goals:
 
-&emsp;(1) Increased economic competitiveness of the United States.
+&emsp;(1) Increasing the economic competitiveness of the United States.
 
-&emsp;(2) Development of a globally competitive STEM workforce.
+&emsp;(2) Advancing of the health and welfare of the American public.
 
-&emsp;(3) Increased participation of women and underrepresented minorities in STEM.
+&emsp;(3) Supporting the national defense of the United States.
 
-&emsp;(4) Increased partnerships between academia and industry.
+&emsp;(4) Enhancing partnerships between academia and industry in the United States.
 
-&emsp;(5) Improved pre-K–12 STEM education and teacher development.
+&emsp;(5) Developing an American STEM workforce that is globally competitive through improved pre-kindergarten through grade 12 STEM education and teacher development, and improved undergraduate STEM education and instruction.
 
-&emsp;(6) Improved undergraduate STEM education.
+&emsp;(6) Improving public scientific literacy and engagement with science and technology in the United States.
 
-&emsp;(7) Increased public scientific literacy.
-
-&emsp;(8) Increased national security.
+&emsp;(7) Expanding participation of women and individuals from underrepresented groups in STEM.
 
 #### (b) Policy
 
@@ -38,11 +36,31 @@ Not later than 6 months after January 4, 2011, the Director shall develop and im
 
 &emsp;(5) requires principal investigators applying for Foundation research grants to provide evidence of institutional support for the portion of the investigator's proposal designed to satisfy the Broader Impacts Review Criterion, including evidence of relevant training, programs, and other institutional resources available to the investigator from either their home institution or organization or another institution or organization with relevant expertise.
 
-(Pub. L. 111–358, title V, §526, Jan. 4, 2011, 124 Stat. 4019.)
+(Pub. L. 111–358, title V, §526, Jan. 4, 2011, 124 Stat. 4019; Pub. L. 114–329, title I, §102(c), Jan. 6, 2017, 130 Stat. 2972.)
 
 #### Codification
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+<b>2017</b>—Subsec. (a). Pub. L. 114–329 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Foundation shall apply a Broader Impacts Review Criterion to achieve the following goals:
+
+&emsp;"(1) Increased economic competitiveness of the United States.
+
+&emsp;"(2) Development of a globally competitive STEM workforce.
+
+&emsp;"(3) Increased participation of women and underrepresented minorities in STEM.
+
+&emsp;"(4) Increased partnerships between academia and industry.
+
+&emsp;"(5) Improved pre-K–12 STEM education and teacher development.
+
+&emsp;"(6) Improved undergraduate STEM education.
+
+&emsp;"(7) Increased public scientific literacy.
+
+&emsp;"(8) Increased national security."
 
 #### Definitions
 

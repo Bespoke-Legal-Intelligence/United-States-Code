@@ -68,11 +68,11 @@ No high-cost mortgage may contain a scheduled payment that is more than twice as
 
 #### (f) No negative amortization
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under whichthe outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which the outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
 
 #### (g) No prepaid payments
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advance from the loan proceeds provided to the consumer.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which more than 2 periodic payments required under the loan are consolidated and paid in advancefrom the loan proceeds provided to the consumer.
 
 #### (h) Prohibition on extending credit without regard to payment ability of consumer
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "affiliate" has the same meaning as in se
 
 #### (q) Civil penalties in Federal Trade Commission enforcement actions
 
-For purposes of enforcement by the Federal Trade Commission, any violation of a regulationissued by the Bureau pursuant to subsection (l)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
+For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Bureau pursuant to subsection (l)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
 
 #### (r) Prohibitions on evasions, structuring of transactions, and reciprocal arrangements
 
@@ -226,11 +226,11 @@ A creditor or assignee in a high-cost mortgage who, when acting in good faith, f
 
 Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22,1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Prior Provisions
 
-A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, §614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
+A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L.96–221, title VI, §614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
 
 #### Amendments
 

@@ -14,21 +14,27 @@ Directors and Assistant Directors.—(1) The Secretary shall assign to each Stat
 
 Additional Federal Personnel.—The Secretary may also assign as supervisory personnel such representatives of the Veterans' Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement services required under this chapter, including Assistant Directors for Veterans' Employment and Training.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, §2012; renumbered §2003, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(c), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §§602, 606(1), Oct. 15, 1976, 90 Stat. 2404, 2405; Pub. L. 96–466, title V, §505, title VIII, §801(i), Oct. 17, 1980, 94 Stat. 2204, 2216; Pub. L. 97–295, §4(70), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title III, §304(a)(1), (b), (c), Oct. 14, 1982, 96 Stat. 1437, 1438; Pub. L. 100–323, §§5, 7(a), 15(a)(2), (c)(1), (3)(A), May 20, 1988, 102 Stat. 563, 564, 574; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(14), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title III, §302, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2042; Pub. L. 110–389, title III, §316, Oct. 10, 2008, 122 Stat. 4167.)
+(c)
+
+Coordination With State Departments of Labor and Veterans Affairs.—Each Director for Veterans' Employment and Training for a State shall coordinate the Director's activities under this chapter with the State department of labor and the State department of veterans affairs.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, §2012; renumbered §2003, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(c), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §§602, 606(1), Oct. 15, 1976, 90 Stat. 2404, 2405; Pub. L. 96–466, title V, §505, title VIII, §801(i), Oct. 17, 1980, 94 Stat. 2204, 2216; Pub. L. 97–295, §4(70), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title III, §304(a)(1), (b), (c), Oct. 14, 1982, 96 Stat. 1437, 1438; Pub. L. 100–323, §§5, 7(a), 15(a)(2), (c)(1), (3)(A), May 20, 1988, 102 Stat. 563, 564, 574; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(14), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title III, §302, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2042; Pub. L. 110–389, title III, §316, Oct. 10, 2008, 122 Stat. 4167; Pub. L. 114–315, title V, §504(a), Dec. 16, 2016, 130 Stat. 1568.)
 
 #### Prior Provisions
 
-Prior section 4103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 86–568, title I, §114(a)–(e), July 1, 1960, 74 Stat. 300; Pub. L. 87–574, §5, Aug. 6, 1962, 76 Stat. 309; Pub. L. 87–793, §801, Oct. 11, 1962, 76 Stat. 859; Pub. L. 88–18, May 8, 1963, 77 Stat. 15; Pub. L. 88–426, title I, §117(a), Aug. 14, 1964, 78 Stat. 409; Pub. L. 89–785, titleI, §103(a), (b), Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §202, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–581, title I, §110(2), title II, §§205(d), 209(c)(1), 210(c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2861, 2863; Pub. L. 96–330, title I, §105(b), title III, §303, Aug. 26, 1980, 94 Stat. 1036, 1050; Pub. L. 100–687, div. B, title XV, §1506(b)(1), Nov. 18, 1988, 102 Stat. 4135, related to Office of Chief Medical Director, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of this title.
+Prior section 4103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 86–568, title I, §114(a)–(e), July 1, 1960, 74 Stat. 300; Pub. L. 87–574, §5, Aug. 6, 1962, 76 Stat. 309; Pub. L. 87–793, §801, Oct. 11, 1962, 76 Stat. 859; Pub. L. 88–18, May 8, 1963, 77 Stat. 15; Pub. L. 88–426, title I, §117(a), Aug. 14, 1964, 78 Stat. 409; Pub. L. 89–785, title I, §103(a), (b), Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §202, Aug. 2, 1973, 87 Stat. 188; Pub. L. 94–581, title I, §110(2), title II, §§205(d), 209(c)(1), 210(c)(2), Oct. 21, 1976, 90 Stat. 2848, 2859, 2861, 2863; Pub. L. 96–330, title I, §105(b), title III, §303, Aug. 26, 1980, 94 Stat. 1036, 1050; Pub. L. 100–687, div. B, title XV, §1506(b)(1), Nov. 18, 1988, 102 Stat. 4135, related to Office of Chief Medical Director, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of this title.
 
 Provisions similar to those comprising this section were contained in section 2002 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
 
+<b>2016</b>—Subsec. (c). Pub. L. 114–315 added subsec. (c).
+
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–389 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>2002</b>—Pub. L. 107–288 substituted "Directors and Assistant Directors for Veterans' Employment and Training; additional Federal personnel" for "Directors and Assistant Directors for Veterans' Employment and Training" in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "full-time Federal clerical or other support personnel" for "full-time Federal clerical support" in first sentence and "Full-time Federal clerical or other support personnel" for "Full-time Federal clerical support personnel" in third sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "full-time Federal clerical or other support personnel" for"full-time Federal clerical support" in first sentence and "Full-time Federal clerical or other support personnel" for "Full-time Federal clerical support personnel" in third sentence.
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–446 substituted "subchapter II of chapter 77" for "subchapter IV of chapter 3".
 
@@ -83,6 +89,10 @@ Subsec. (c)(8) to (12). Pub. L. 97–306, §304(c), added cls. (8) to (12).
 <b>1972</b>—Pub. L. 92–540 substituted provisions relating to the assignment of veterans' employment representatives for provisions relating to the assignment of employees of local offices. See section 2004 of this title.
 
 <b>1966</b>—Pub. L. 89–358 inserted "or of service after January 31, 1955" after "veterans of any war".
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–315, title V, §504(b), Dec. 16, 2016, 130 Stat. 1569, provided that: "Subsection (c) of such section \[38 U.S.C. 4103(c)\], as added by subsection (a), shall take effect on the date that is 1 year after the date of the enactment of this Act \[Dec. 16, 2016\]."
 
 #### Effective Date of 2002 Amendment
 

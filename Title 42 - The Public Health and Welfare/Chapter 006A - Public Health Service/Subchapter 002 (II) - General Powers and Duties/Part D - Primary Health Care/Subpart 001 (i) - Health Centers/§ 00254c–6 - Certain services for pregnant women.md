@@ -48,7 +48,7 @@
 
 #### (B) Rule of construction regarding training of trainers
 
-&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as "trainers"), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or willtrain) the designated staff of eligible health centers.
+&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as "trainers"), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or will train) the designated staff of eligible health centers.
 
 #### (4) Adoption organizations; eligible health centers; other definitions
 
@@ -84,15 +84,15 @@
 
 &emsp;&emsp;(B) All costs of such centers in obtaining the training shall be reimbursed by the organization that provides the training, using grants under paragraph (1).
 
-&emsp;&emsp;(C) Not later than 1 year after October 17, 2000, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers. Within a reasonable time after training under this section is initiated, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers in order to determine the effectiveness of such training and the extent to which such training complies with subsection (a)(1) of this section. In preparing the reports required by this subparagraph, the Secretary shall in no respect interpret the provisions of this section to allow any interference in the provider-patient relationship, any breach of patient confidentiality, or any monitoring or auditing of the counseling process or patient records which breaches patient confidentiality or reveals patient identity. The reports required by this subparagraph shall be conducted by the Secretary acting through the Administrator of the Health Resources and Services Administration and in collaboration with the Director of the Agency for Healthcare Research and Quality.
+&emsp;&emsp;(C) Not later than 1 year after October 17, 2000, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers. Within a reasonable time after training under this section is initiated, the Secretary shall submit to the appropriate committees of the Congress a report evaluating the extent to which adoption information and referral, upon request, are provided by eligible health centers in order to determine the effectiveness of such training and the extent to which such training complies with subsection (a)(1). In preparing the reports required by this subparagraph, the Secretary shall in no respect interpret the provisions of this section to allow any interference in the provider-patient relationship, any breach of patient confidentiality, or any monitoring or auditing of the counseling process or patient records which breaches patient confidentiality or reveals patient identity. The reports required by this subparagraph shall be conducted by the Secretary acting through the Administrator of the Health Resources and Services Administration and in collaboration with the Director of the Agency for Healthcare Research and Quality.
 
 #### (b) Application for grant
 
-The Secretary may make a grant under subsection (a) of this section only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under subsection (a) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (c) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title III, §330F, as added Pub. L. 106–310, div. A, title XII, §1201, Oct. 17, 2000, 114 Stat. 1132.)
 

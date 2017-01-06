@@ -34,7 +34,7 @@
 
 (b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750;Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
+(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \
 
 Pub. L. 110–378, §1, Oct. 8, 2008, 122 Stat. 4068, provided that: "This Act \[enacting sections 5714–25 and 5732–1 of this title and amending sections 5701, 5711, 5712, 5714–2, 5714–23, 5714–41, 5732a, and 5751 of this title\] may be cited as the 'Reconnecting Homeless Youth Act of 2008'."
 
-Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: "This Act \[amending sections 5771, 5773, and 5777 of this title and repealing section 5776a of this title\] may be cited as the 'Protecting Our Children Comes First Act of 2007'."
+Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: "This Act \[amending sections 5771, 5773, and 5777 of this title and repealing section 5776a of thistitle\] may be cited as the 'Protecting Our Children Comes First Act of 2007'."
 
 #### Short Title of 2003 Amendments
 
@@ -188,7 +188,7 @@ Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: "This Act \[e
 
 #### Short Title
 
-Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[enacting this chapter, sections 3772 to3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing section 3889 of this title\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
+Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[enacting this chapter, sections 3772 to 3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing section 3889 of this title\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
 
 Pub. L. 93–415, title III, §301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: "This title \[enacting subchapter III of this chapter\] may be cited as the 'Runaway and Homeless Youth Act'."
 

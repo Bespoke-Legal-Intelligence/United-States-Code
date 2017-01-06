@@ -44,5 +44,5 @@ The President shall provide the study to the Committee on Ways and Means of the 
 
 #### References in Text
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (d), is Pub. L.103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (d), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 

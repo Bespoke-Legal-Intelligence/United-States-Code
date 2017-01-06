@@ -14,7 +14,7 @@ Policy.—Intelligent transportation system research projects and operational te
 
 (c)
 
-Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the UnitedStates, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
+Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
 
 (d)
 
@@ -134,7 +134,7 @@ In general.—The Secretary shall issue guidelines and requirements for the repo
 
 &emsp;&emsp;(B)
 
-Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any realor apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under sections 512 through 518.
+Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under sections 512 through 518.
 
 &emsp;&emsp;(C)
 

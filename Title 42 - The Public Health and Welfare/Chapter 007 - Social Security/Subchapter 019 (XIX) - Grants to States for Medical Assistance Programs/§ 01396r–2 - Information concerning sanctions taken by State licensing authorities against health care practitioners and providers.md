@@ -28,7 +28,7 @@ The requirement referred to in section 1396a(a)(49) of this title is that the St
 
 #### (b) Form of information
 
-The information described in subsection (a)(1) of this section shall be provided to the Secretary (or to an appropriate private or public agency, under suitable arrangements made by the Secretary with respect to receipt, storage, protection of confidentiality, and dissemination of information) in such a form and manner as the Secretary determines to be appropriate in order to provide for activities of the Secretary under this chapter and in order to provide, directly or through suitable arrangements made by the Secretary, information—
+The information described in subsection (a)(1) shall be provided to the Secretary (or to an appropriate private or public agency, under suitable arrangements made by the Secretary with respect to receipt, storage, protection of confidentiality, and dissemination of information) in such a form and manner as the Secretary determines to be appropriate in order to provide for activities of the Secretary under this chapter and in order to provide, directly or through suitable arrangements made by the Secretary, information—
 
 &emsp;(1) to agencies administering Federal health care programs, including private entities administering such programs under contract,
 
@@ -36,7 +36,7 @@ The information described in subsection (a)(1) of this section shall be provided
 
 &emsp;(3) to State agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title),
 
-&emsp;(4) to utilization and quality control peer review organizations <sup>2</sup> described in part B of subchapter XI of this chapter and to appropriate entities with contracts under section 1320c–3(a)(4)(C) <sup>3</sup> of this title with respect to eligible organizations reviewed under the contracts, but only with respect to information provided pursuant to subsection (a)(1)(A),
+&emsp;(4) to utilization and quality control peer review organizations <sup>2</sup> described in part B of subchapter XI and to appropriate entities with contracts under section 1320c–3(a)(4)(C) <sup>3</sup> of this title with respect to eligible organizations reviewed under the contracts, but only with respect to information provided pursuant to subsection (a)(1)(A),
 
 &emsp;(5) to State law or fraud enforcement agencies,
 
@@ -52,7 +52,7 @@ The information described in subsection (a)(1) of this section shall be provided
 
 #### (c) Confidentiality of information provided
 
-The Secretary shall provide for suitable safeguards for the confidentiality of the information furnished under subsection (a) of this section. Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure.
+The Secretary shall provide for suitable safeguards for the confidentiality of the information furnished under subsection (a). Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure.
 
 #### (d) Disclosure and correction of information
 
@@ -70,7 +70,7 @@ The Secretary shall provide for suitable safeguards for the confidentiality of t
 
 #### (e) Fees for disclosure
 
-The Secretary may establish or approve reasonable fees for the disclosure of informationunder this section. The amount of such a fee may not exceed the costs of processing the requests for disclosure and of providing such information. Such fees shall be available to the Secretary to cover such costs.
+The Secretary may establish or approve reasonable fees for the disclosure of information under this section. The amount of such a fee may not exceed the costs of processing the requests for disclosure and of providing such information. Such fees shall be available to the Secretary to cover such costs.
 
 #### (f) Protection from liability for reporting
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 111–148 effective on the first day after the final day of
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4752(f)(2), Nov. 5, 1990, 104 Stat. 1388– 208, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to State information reporting systems as of January 1, 1992, without regard to whether or not the Secretary of Health and Human Services has promulgated any regulations to carry out such amendments by such date."
+Pub. L. 101–508, title IV, §4752(f)(2), Nov. 5, 1990, 104 Stat. 1388– 208, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to State information reporting systems as of January 1,1992, without regard to whether or not the Secretary of Health and Human Services has promulgated any regulations to carry out such amendments by such date."
 
 #### Effective Date
 

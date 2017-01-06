@@ -14,7 +14,7 @@
 
 &emsp;(1) to the member's official residence of record;
 
-&emsp;(2) to the residence of his dependent, next of kin, or other person entitled to custody of theeffects, under regulations prescribed by the Secretary concerned; or
+&emsp;(2) to the residence of his dependent, next of kin, or other person entitled to custody of the effects, under regulations prescribed by the Secretary concerned; or
 
 &emsp;(3) on request of the member (if injured or ill), or his dependent, next of kin, or other person described in clause (2), to another location determined in advance or later approved by the Secretary concerned, or his designee.
 
@@ -158,7 +158,7 @@ Subsec. (c). Pub. L. 93–548, §3(2), inserted "or ill" before "status".
 
 Subsec. (a). Pub. L. 92–477, §1(2), authorized at Government expense without cost limitation and under prescribed regulations the transportation of house trailers or mobile dwellings, including a privately owned motor vehicle, in place of household and personal effects of members in a missing status.
 
-Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and transportation for dependentsand household and personal effects, or dependents and house trailer or mobile dwelling of members in a missing status for more than one year.
+Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and transportation for dependents and household and personal effects, or dependents and house trailer or mobile dwelling of members in a missing status for more than one year.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–623 substituted "29" for "twenty-nine".
 

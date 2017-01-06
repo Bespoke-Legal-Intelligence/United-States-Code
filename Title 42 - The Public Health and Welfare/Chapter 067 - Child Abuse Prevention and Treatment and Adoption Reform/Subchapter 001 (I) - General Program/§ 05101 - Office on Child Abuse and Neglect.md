@@ -6,7 +6,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 #### (b) Purpose
 
-The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III of this chapter. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that suchfunctions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 (Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
@@ -74,7 +74,7 @@ Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that:
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–235, §1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: "This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisionsset out as notes under section 5117 of this title\] may be cited as the 'Child Abuse Prevention and Treatment Act Amendments of 1996'."
+Pub. L. 104–235, §1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: "This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the 'Child Abuse Prevention and Treatment Act Amendments of 1996'."
 
 #### Short Title of 1994 Amendment
 
@@ -104,7 +104,7 @@ Pub. L. 99–401, title I, §101, Aug. 27, 1986, 100 Stat. 903, provided that: "
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–457, §1, Oct. 9, 1984, 98 Stat. 1749, provided: "That this Act \[enacting chapter 110 of this title, amending this section and sections 5102 to 5106, 5111 to 5113, and 5115 of this title, and enacting provisions set out as notes under this section and sections 5102, 5103, and 10401 of this title\] may be cited as the 'Child Abuse Amendments of 1984'."
+Pub. L. 98–457, §1, Oct. 9, 1984, 98 Stat. 1749, provided: "That this Act \[enacting chapter 110 of this title, amending this section and sections 5102 to 5106, 5111 to5113, and 5115 of this title, and enacting provisions set out as notes under this section and sections 5102, 5103, and 10401 of this title\] may be cited as the 'Child Abuse Amendments of 1984'."
 
 #### Short Title of 1978 Amendment
 
@@ -244,7 +244,7 @@ Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20
 
 &emsp;"(4) the term 'Governor' means the chief executive officer of a State;
 
-&emsp;"(5) the terms 'Indian', 'Indian tribe', and 'tribal organization' have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b);
+&emsp;"(5) the terms 'Indian', 'Indian tribe', and 'tribal organization' have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\];
 
 &emsp;"(6) the term 'Secretary' means the Secretary of Health and Human Services;
 

@@ -8,7 +8,7 @@ In March of each year, the Secretary of Commerce shall report to the Congress on
 
 &emsp;(2) the results of activities undertaken pursuant to section 1442 of this title;
 
-&emsp;(3) with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I of this chapter, and a description of how Federal research under this subchapter and subchapter I of this chapter will meet those requirements; and
+&emsp;(3) with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I, and a description of how Federal research under this subchapter and subchapter I will meet those requirements; and
 
 &emsp;(4) activities of the Department of Commerce under section 665 of title 16.
 

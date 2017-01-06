@@ -76,7 +76,7 @@ The term "electronic entry" means the electronic transmission to the Customs Ser
 
 #### (p) Electronic data interchange system
 
-The term "electronic data interchange system" means any established mechanism approved by the Commissioner of Customs through which information can be transferred electronically.
+The term "electronic data interchange system" means any established mechanism approved by the Commissioner of U.S. Customs and Border Protection through which information can be transferred electronically.
 
 #### (q) National Customs Automation Program
 
@@ -94,7 +94,7 @@ The term "reconciliation" means an electronic process, initiated at the request 
 
 The term "reconfigured entry" means an entry filed on an import activity summary statement which substitutes for all or part of 1 or more entries filed under section 1484(a)(1)(A) of this title or filed on a reconciliation entry that aggregates the entry elements to be reconciled under section 1484(b) of this title for purposes of liquidation, reliquidation, or protest.
 
-(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598.)
+(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### References in Text
 
@@ -102,7 +102,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (m)(2), 
 
 #### Codification
 
-Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section 201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
+Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
 
 Words "the Philippine Islands" formerly set out in subsec. (h) were omitted on authority of Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse, and in which the President proclaimed the independence of the Philippines.
 
@@ -114,7 +114,7 @@ Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, a
 
 Section III, by subdivision A thereof, amended the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, as previously amended, to read as set forth in section III, subdivisions B–CC. By that amendment and reenactment, the Customs Administrative Act of June 10, 1890, and the amendments thereof by act July 24, 1897, ch. 11, §32, 30 Stat. 211, act May 17, 1898, ch. 341, 30 Stat. 417, Act Dec. 15, 1902, ch. 1, 32 Stat. 753, act May 27, 1908, ch. 205, 35 Stat. 403, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91, were superseded, except the provisions thereof mentioned in a proviso of section IV, S, of that act.
 
-The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amendedby the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
+The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
 
 #### Amendments
 
@@ -172,13 +172,15 @@ Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and 
 
 #### Change of Name
 
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (p) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 United States Customs Service substituted for Bureau of Customs in subsec. (i) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–429, title I, §1561(d), Dec. 3, 2004, 118 Stat. 2582, provided that: "This section \[amending this section and section 1629 of this title and repealing provisions set out as a note under section 1629 of this title\], and the amendments made by this section, take effect on the date of the enactment of this Act \[Dec. 3, 2004\]."
 
-Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: "The amendments made by this subtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\]."
+Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: "The amendments made by thissubtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -198,7 +200,7 @@ Act June 25, 1938, ch. 679, §37, 52 Stat. 1094, provided that: "Sections 31 and
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

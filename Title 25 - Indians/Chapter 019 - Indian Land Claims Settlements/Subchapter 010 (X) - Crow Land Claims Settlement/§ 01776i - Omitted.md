@@ -1,0 +1,6 @@
+### §1776i. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–444, §11, Nov. 2, 1994, 108 Stat. 4642, which related to continuation of the Fort Laramie Treaty of 1868, was omitted from the Code as being of special and not general application.
+

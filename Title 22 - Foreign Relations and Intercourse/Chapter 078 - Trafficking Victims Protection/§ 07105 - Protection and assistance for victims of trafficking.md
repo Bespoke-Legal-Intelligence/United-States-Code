@@ -42,7 +42,7 @@
 
 #### (ii) National human trafficking hotline
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, of amounts made available for grants under paragraph (2), the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
+&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
 
 #### (C) Definition of victim of a severe form of trafficking in persons
 
@@ -104,7 +104,7 @@
 
 #### (iii) Duration
 
-&emsp;&emsp;&emsp;Assistance under this paragraph may be provided to individuals determined to be eligible under clause (i) for a period of up to 90 days and may be extended for an additional 30 days.
+&emsp;&emsp;&emsp;Assistance under this paragraph may be provided to individuals determined to beeligible under clause (i) for a period of up to 90 days and may be extended for an additional 30 days.
 
 #### (iv) Long-term assistance for children
 
@@ -180,7 +180,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (iii) Continuation of presence
 
-&emsp;&emsp;&emsp;The Secretary shall permit an alien described in clause (i) who has filed a civil action under section 1595 of title 18 to remain in the United States until such action is concluded. If the Secretary, in consultation with the Attorney General, determines that the alien has failed to exercise due diligence in pursuing such action, the Secretary may revoke the order permitting the alien to remain in the United States.
+&emsp;&emsp;&emsp;The Secretary shall permit an alien described in clause (i) who has filed a civilaction under section 1595 of title 18 to remain in the United States until such action is concluded. If the Secretary, in consultation with the Attorney General, determines that the alien has failed to exercise due diligence in pursuing such action, the Secretary may revoke the order permitting the alien to remain in the United States.
 
 #### (iv) Exception
 
@@ -228,7 +228,7 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e), for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Securityprior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
+&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e), for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
 #### (f) <sup>3</sup> Assistance for United States citizens and lawful permanent residents
 
@@ -262,7 +262,7 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398.)
 
 #### References in Text
 
@@ -280,7 +280,11 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(1)(B). Pub. L. 114–22, §603, designated existing provisions as cl. (i) and inserted heading and added cl. (ii).
+<b>2016</b>—Subsec. (b)(1)(B). Pub. L. 114–271, §1(b), amended directory language of Pub. L. 114–22, §603. See 2015 Amendment note below.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 114–271, §1(a), struck out "of amounts made available for grants under paragraph (2)," before "the Secretary of Health and Human Services shall make grants".
+
+<b>2015</b>—Subsec. (b)(1)(B). Pub. L. 114–22, §603, as amended by Pub. L. 114–271, §1(b), designated existing provisions as cl. (i) and inserted heading and added cl. (ii).
 
 Subsec. (b)(1)(F) to (H). Pub. L. 114–22, §102, added subpar. (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and, in subpar. (H), substituted "subparagraph (G)" for "subparagraph (F)".
 
@@ -304,7 +308,7 @@ Subsec. (b)(1)(F), (G). Pub. L. 110–457, §212(a)(2), added subpars. (F) and (
 
 Subsec. (b)(2)(B)(ii). Pub. L. 110–457, §213(a)(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "two percent for training and technical assistance; and".
 
-Subsec. (c)(3). Pub. L. 110–457, §205(a)(1), amended par. (3) generally. Prior to amendment, text read as follows: "Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates."
+Subsec. (c)(3). Pub. L. 110–457, §205(a)(1), amended par. (3) generally. Prior to amendment, text read as follows:"Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates."
 
 Subsec. (c)(4). Pub. L. 110–457, §212(b), inserted ", the Department of Homeland Security, the Department of Health and Human Services," before "and the Department of Justice" and ", including juvenile victims. The Attorney General and the Secretary of Health and Human Services shall provide training to State and local officials to improve the identification and protection of such victims" before period at end.
 
@@ -339,6 +343,10 @@ Subsec. (b)(1)(E)(iv). Pub. L. 108–193, §4(a)(3), added cl. (iv).
 Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted "1184(o)(2)" for "1184(n)(1)".
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–228 inserted "In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:" at end of introductory provisions and added subpars. (A) to (E).
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–271, §1(c), Dec. 14, 2016, 130 Stat. 1398, provided that: "The amendments made by this Act \[amending this section\] shall take effect as if enacted as part of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 227)."
 
 #### Effective Date of 2008 Amendment
 

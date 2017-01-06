@@ -64,7 +64,7 @@ Pub. L. 95–240 inserted reference to Deputy Chief Guide in par. (8).
 
 Subsec. (b). Pub. L. 95–391 substituted provisions setting forth requirements respecting the computation, except as provided in par. (2), of additional annual compensation for any employee to whom this section applies during any period of continuous creditable service, for provisions setting forth requirements respecting the computation of additional gross compensation for any employee to whom this section applies during any period of continuous service.
 
-<b>1977</b>—Subsec. (b). Figure "1,002" deemed to refer to the figure "1,074", effective Oct. 1, 1977, pursuant to Pub. L. 91–656, §4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
+<b>1977</b>—Subsec. (b). Figure "1,002" deemed to refer to the figure "1,074", effective Oct. 1, 1977, pursuant toPub. L. 91–656, §4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
 
 <b>1976</b>—Subsec. (b). Figure "954" deemed to refer to the figure "1,002", effective Oct. 1, 1976, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, set out as a note under section 60a–1 of this title.
 
@@ -88,7 +88,7 @@ Figure "696" deemed to refer to the figure "738", effective Feb. 1, 1971, pursua
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–206, §214(n), substituted "$564" for "540".
 
-Pub. L. 90–57 substituted in first sentence "gross compensation" and "$540 per annum" for "basic compensation" and "$120 per annum" and struck out "if at the time of such payment the annual rate of basic compensation (exclusive of longevity compensation) of the position in which employed is less than $1,800, or $180per annum if at such time such rate is $1,800 or more," before "for each five years of service".
+Pub. L. 90–57 substituted in first sentence "gross compensation" and "$540 per annum" for "basic compensation" and "$120 per annum" and struck out "if at the time of such payment the annual rate of basic compensation (exclusive of longevity compensation) of the position in which employed is less than $1,800, or $180 per annum if at such time such rate is $1,800 or more," before "for each five years of service".
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–454 repealed subsec. (c) which related to increases for members of Capitol Police.
 

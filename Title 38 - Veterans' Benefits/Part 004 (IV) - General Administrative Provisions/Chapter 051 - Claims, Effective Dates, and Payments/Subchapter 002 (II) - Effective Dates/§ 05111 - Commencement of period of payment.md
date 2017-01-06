@@ -20,7 +20,7 @@
 
 &emsp;(2) an award that is increased because of an added dependent, increase in disability or disability rating, or reduction in income.
 
-(Added Pub. L. 97–253, title IV, §401(a)(1), Sept. 8, 1982, 96 Stat. 801, §3011; amended Pub. L. 98–223, title I, §113, Mar. 2, 1984, 98 Stat. 40; renumbered §5111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 111–275, title VI, §605(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, §507(b), Aug. 6, 2012, 126 Stat. 1194.)
+(Added Pub. L. 97–253, title IV, §401(a)(1), Sept. 8, 1982, 96 Stat. 801, §3011; amended Pub. L. 98–223, title I, §113, Mar. 2, 1984, 98 Stat. 40; renumbered §5111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 111–275, title VI, §605(a), Oct. 13, 2010, 124Stat. 2885; Pub. L. 112–154, title V, §507(b), Aug. 6, 2012, 126 Stat. 1194.)
 
 #### Amendments
 

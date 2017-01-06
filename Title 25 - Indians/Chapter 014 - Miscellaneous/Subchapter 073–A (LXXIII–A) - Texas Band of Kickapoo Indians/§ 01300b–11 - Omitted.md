@@ -1,0 +1,10 @@
+### §1300b–11. Omitted
+
+#### Codification
+
+Section, Pub. L. 97–429, §2, Jan. 8, 1983, 96 Stat. 2269, which set out Congressional findings and declaration of policy, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 97–429, §1, Jan. 8, 1983, 96 Stat. 2269, provided that Pub. L. 97–429, enacting this subchapter, could be cited as the "Texas Band of Kickapoo Act".
+

@@ -6,7 +6,7 @@
 
 &emsp;Except as provided in paragraph (4) and in section 6338 of this title, the grant that a local educational agency is eligible to receive under this section for a fiscal year is the amount determined by multiplying—
 
-&emsp;&emsp;(A) the number of children counted under subsection (c) of this section; and
+&emsp;&emsp;(A) the number of children counted under subsection (c); and
 
 &emsp;&emsp;(B) 40 percent of the average per-pupil expenditure in the State, except that the amount determined under this subparagraph shall not be less than 32 percent, or more than 48 percent, of the average per-pupil expenditure in the United States.
 
@@ -14,7 +14,7 @@
 
 #### (A) Allocations to local educational agencies
 
-&emsp;&emsp;The Secretary shall calculate grants under this section on the basis of the number of children counted under subsection (c) of this section for local educational agencies, unless the Secretary and the Secretary of Commerce determine that some or all of those data are unreliable or that their use would be otherwise inappropriate, in which case—
+&emsp;&emsp;The Secretary shall calculate grants under this section on the basis of the number of children counted under subsection (c) for local educational agencies, unless the Secretary and the Secretary of Commerce determine that some or all of those data are unreliable or that their use would be otherwise inappropriate, in which case—
 
 &emsp;&emsp;&emsp;(i) the two Secretaries shall publicly disclose the reasons for their determination in detail; and
 
@@ -32,9 +32,9 @@
 
 &emsp;&emsp;&emsp;(II) use an alternative method approved by the Secretary to distribute the portion of the State's total grants under this section that is based on those small agencies.
 
-&emsp;&emsp;(iv) An alternative method under clause (iii)(II) shall be based on population data that the State educational agency determines best reflect the current distribution of children in poor families among the State's small local educational agencies that meet the eligibility criteria of subsection (b) of this section.
+&emsp;&emsp;(iv) An alternative method under clause (iii)(II) shall be based on population data that the State educational agency determines best reflect the current distribution of children in poor families among the State's small local educational agencies that meet the eligibility criteria of subsection (b).
 
-&emsp;&emsp;(v) If a small local educational agency is dissatisfied with the determination of its grant by the State educational agency underclause (iii)(II), it may appeal that determination to the Secretary, who shall respond not later than 45 days after receipt of such appeal.
+&emsp;&emsp;(v) If a small local educational agency is dissatisfied with the determination of its grant by the State educational agency under clause (iii)(II), it may appeal that determination to the Secretary, who shall respond not later than 45 days after receipt of such appeal.
 
 &emsp;&emsp;(vi) As used in this subparagraph—
 
@@ -46,7 +46,7 @@
 
 #### (A) Calculation
 
-&emsp;&emsp;For any fiscal year to which this paragraph applies, the Secretary shall calculate grants under this section on the basis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations issued by the Secretary.
+&emsp;&emsp;For any fiscal year to which this paragraph applies, the Secretary shall calculate grants under this section on the basis of the number of children counted under subsection (c) for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations issued by the Secretary.
 
 #### (B) Direct allocations
 
@@ -68,7 +68,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the grant that the Commonwealth of Puerto Rico shall be eligible to receive under this section shall be the amount determined by multiplying the number of children counted under subsection (c) of this section for the Commonwealth of Puerto Rico by the product of—
+&emsp;&emsp;For each fiscal year, the grant that the Commonwealth of Puerto Rico shall be eligible to receive under this section shall be the amount determined by multiplying the number of children counted under subsection (c) for the Commonwealth of Puerto Rico by the product of—
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
 
@@ -102,7 +102,7 @@
 
 #### (b) Minimum number of children to qualify
 
-A local educational agency is eligible for a basic grant under this section for any fiscal year only if the number of children counted under subsection (c) of this section for that agency is both—
+A local educational agency is eligible for a basic grant under this section for any fiscal year only if the number of children counted under subsection (c) for that agency is both—
 
 &emsp;(1) 10 or more; and
 
@@ -116,13 +116,13 @@ A local educational agency is eligible for a basic grant under this section for 
 
 &emsp;&emsp;(A) the number of children aged 5 to 17, inclusive, in the school district of the local educational agency from families below the poverty level as determined under paragraph (2);
 
-&emsp;&emsp;(B) the number of children (determined under paragraph (4) for either the preceding year as described in that paragraph, or for the second preceding year, as the Secretary finds appropriate) aged 5 to 17, inclusive, in the school district of such agency in institutions for neglected and delinquent children (other than such institutions operated by the United States), but not counted pursuant to subpart 1 of part D of this subchapter for the purposes of a grant to a State agency, or being supported in foster homes with public funds; and
+&emsp;&emsp;(B) the number of children (determined under paragraph (4) for either the preceding year as described in that paragraph, or for the second preceding year, as the Secretary finds appropriate) aged 5 to 17, inclusive, in the school district of such agency in institutions for neglected and delinquent children (other than such institutions operated by the United States), but not counted pursuant to subpart 1 of part D for the purposes of a grant to a State agency, or being supported in foster homes with public funds; and
 
 &emsp;&emsp;(C) the number of children aged 5 to 17, inclusive, in the school district of such agency from families above the poverty level as determined under paragraph (4).
 
 #### (2) Determination of number of children
 
-&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below thepoverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
+&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below the poverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
 
 #### (3) Population updates
 
@@ -142,7 +142,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 &emsp;(A) For the purpose of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families above the poverty level on the basis of the number of such children from families receiving an annual income, in excess of the current criteria of poverty, from payments under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and in making such determinations, the Secretary shall use the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census for a family of four in such form as those criteria have been updated by increases in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics.
 
-&emsp;(B) The Secretary shall determine the number of such children and the number of children aged 5 through 17 living in institutions for neglected or delinquent children, or being supported in foster homes with public funds, on the basis of the caseload data for the month of October of the preceding fiscal year (using, in the case of children described in the preceding sentence, the criteria of poverty and the form of such criteria required by such sentence which were determined for the calendar year preceding such month of October) or, to the extent that such data are not available to the Secretary before January of the calendar year in which the Secretary's determination is made, then on the basis of the most recent reliable data available to the Secretary at the time of such determination.
+&emsp;(B) The Secretary shall determine the number of such children and the number of children aged 5 through 17 living in institutions for neglected or delinquent children, or being supported in foster homes with public funds, on the basis of the caseload data for the month of October of the preceding fiscal year (using, in the case of children described in the preceding sentence, the criteria of poverty and the form of such criteria required by such sentence which were determined for the calendaryear preceding such month of October) or, to the extent that such data are not available to the Secretary before January of the calendar year in which the Secretary's determination is made, then on the basis of the most recent reliable data available to the Secretary at the time of such determination.
 
 &emsp;(C) Except for the data on children living in institutions for neglected or delinquent children, the Secretary of Health and Human Services shall collect and transmit the information required by this subparagraph to the Secretary not later than January 1 of each year.
 
@@ -162,7 +162,7 @@ Notwithstanding section 6332 of this title, the aggregate amount allotted for al
 
 &emsp;&emsp;(A) the amount calculated in paragraph (1), above; and
 
-&emsp;&emsp;(B) the number of children in such State counted under subsection (c) of this section in the fiscal year multiplied by 150 percent of the national average per-pupil payment made with funds available under this section for that year.
+&emsp;&emsp;(B) the number of children in such State counted under subsection (c) in the fiscal year multiplied by 150 percent of the national average per-pupil payment made with funds available under this section for that year.
 
 (Pub. L. 89–10, title I, §1124, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1516.)
 

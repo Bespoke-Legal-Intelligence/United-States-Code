@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided in this chapter, there are transferred to, and vested in, the Secretary all of the functions vested by law in the Administrator of the Federal Energy Administration or the Federal Energy Administration, the Administrator of the Energy Research and Development Administration or the Energy Research and Development Administration; and the functions vested by law in the officers and components of either such Administration.
 
-(b) Except as provided in subchapter IV of this chapter, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in section 7172(a)(2) of this title to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
+(b) Except as provided in subchapter IV, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in section 7172(a)(2) of this title to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
 
 (Pub. L. 95–91, title III, §301, Aug. 4, 1977, 91 Stat. 577.)
 
@@ -18,7 +18,7 @@ For assignment of certain emergency preparedness functions to the Secretary of E
 
 Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, as amended by Ex. Ord. No. 12156, Sept. 10, 1979, 44 F.R. 53073, provided:
 
-By virtue of the authority vested in me as President of the United States of America, in order to reflect theresponsibilities of the Secretary of Energy for the performance of certain functions previously vested in other officers of the United States by direction of the President and subsequently transferred to the Secretary of Energy pursuant to the Department of Energy Organization Act (91 Stat. 565; 42 U.S.C. 7101 et seq.) it is hereby ordered as follows:
+By virtue of the authority vested in me as President of the United States of America, in order to reflect the responsibilities of the Secretary of Energy for the performance of certain functions previously vested in other officers of the United States by direction of the President and subsequently transferred to the Secretary of Energy pursuant to the Department of Energy Organization Act (91 Stat. 565; 42 U.S.C. 7101 et seq.) it is hereby ordered as follows:
 
 Section 1. <i>Functions of the Federal Energy Administration</i>. In accordance with the transfer of all functions vested by law in the Federal Energy Administration, or the Administrator thereof, to the Secretary of Energy pursuant to Section 301(a) of the Department of Energy Organization Act \[subsec. (a) of this section\], hereinafter referred to as the Act, the Executive Orders and Proclamations referred to in this Section, which conferred authority or responsibility upon the Administrator of the Federal Energy Administration, are amended as follows:
 
@@ -32,7 +32,7 @@ Sec. 2. <i>Functions of the Federal Power Commission</i>. In accordance with the
 
 (a) Executive Order No. 10485 of September 3, 1953, \[set out as a note under 15 U.S.C. 717b\], relating to certain facilities at the borders of the United States is amended by deleting Section 2 thereof, and by deleting "Federal Power Commission" and "Commission" wherever those terms appear in Sections 1, 3 and 4 of such Order and substituting for each "Secretary of Energy".
 
-(b) Executive Order No. 11969 of February 2, 1977 \[formerly set out as a note under 15 U.S.C. 717\], relating to the administration of the Emergency Natural Gas Act of 1977 \[formerly set out as a note under 15 U.S.C. 717\], is hereby amended by deleting the second sentence in Section 1, by deleting "the Secretary of the Interior, the Administrator of the Federal Energy Administration, other members of the Federal Power Commission and in Section 2, and by deleting "Chairman of the Federal Power Commission" and "Chairman" wherever those terms appear and substituting therefor "Secretary of Energy" and "Secretary", respectively.
+(b) Executive Order No. 11969 of February 2, 1977 \[formerly set out as a note under 15 U.S.C. 717\], relating to the administration of the Emergency Natural Gas Actof 1977 \[formerly set out as a note under 15 U.S.C. 717\], is hereby amended by deleting the second sentence in Section 1, by deleting "the Secretary of the Interior, the Administrator of the Federal Energy Administration, other members of the Federal Power Commission and in Section 2, and by deleting "Chairman of the Federal Power Commission" and "Chairman" wherever those terms appear and substituting therefor "Secretary of Energy" and "Secretary", respectively.
 
 (c) Paragraph (2) of Section 3 of Executive Order No. 11331, as amended \[formerly set out as a note under 42 U.S.C. 1962b\], relating to the Pacific Northwest River Basins Commission, is hereby amended by deleting "from each of the following Federal departments and agencies" and substituting therefor "to be appointed by the head of each of the following Executive agencies", by deleting "Federal Power Commission" and substituting therefor "Department of Energy", and by deleting "such member to be appointed by the head of each department or independent agency he represents,".
 
@@ -52,7 +52,7 @@ Sec. 4. <i>Functions of the Atomic Energy Commission and the Energy Research and
 
 (3) Executive Order No. 11902 of February 2, 1976 \[formerly set out as a note under 42 U.S.C. 5841\], relating to export licensing policy for nuclear materials and equipment, is amended by substituting "the Secretary of Energy" for "the Administrator of the United States Energy Research and Development Administration, hereinafter referred to as the Administrator" in Section 1(b) and for the "Administrator" in Sections 2 and 3.
 
-(4) \[Former\] Executive Order No. 11905, as amended, relating to foreign intelligence activities, is further amended by deleting "Energy Research and Development Administration", "Administrator or the Energy Research and Development Administration", and"ERDA" wherever those terms appear and substituting "Department of Energy", "Secretary of Energy", and "DOE" respectively.
+(4) \[Former\] Executive Order No. 11905, as amended, relating to foreign intelligence activities, is further amended by deleting "Energy Research and Development Administration", "Administrator or the Energy Research and Development Administration", and "ERDA" wherever those terms appear and substituting "Department of Energy", "Secretary of Energy", and "DOE" respectively.
 
 (5) Section 3(2) of each of the following Executive Orders is amended by substituting "Department of Energy" for "Energy Research and Development Administration":
 

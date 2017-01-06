@@ -86,7 +86,7 @@ For the purposes of this chapter:
 
 #### (4) Community rehabilitation program
 
-&emsp;The term "community rehabilitation program" means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
+&emsp;The term "community rehabilitation program" means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunitiesfor employment, including career advancement—
 
 &emsp;&emsp;(A) medical, psychiatric, psychological, social, and vocational services that are provided under one management;
 
@@ -290,7 +290,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) provide assistance to individuals with significant disabilities who are at risk of entering institutions so that the individuals may remain in the community; and
 
-&emsp;&emsp;&emsp;(iii) facilitate the transition of youth who are individuals with significant disabilities, who were eligible for individualized education programs under section 614(d) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)), and who have completed their secondary educationor otherwise left school, to postsecondary life.
+&emsp;&emsp;&emsp;(iii) facilitate the transition of youth who are individuals with significant disabilities, who were eligible for individualized education programs under section 614(d) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)), and who have completed their secondary education or otherwise left school, to postsecondary life.
 
 #### (18) Independent living services
 
@@ -348,7 +348,7 @@ For the purposes of this chapter:
 
 #### (B) Indian tribe
 
-&emsp;&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) and a tribal organization (as defined in section 450b(l) of title 25).
+&emsp;&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) and a tribal organization (as defined in section 5304(l) of title 25).
 
 #### (20) Individual with a disability
 
@@ -362,7 +362,7 @@ For the purposes of this chapter:
 
 #### (B) Certain programs; limitations on major life activities
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term "individual with a disability" means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
+&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term "individual with a disability"means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in section 12102 of title 42.
 
 #### (C) Rights and advocacy provisions
 
@@ -508,7 +508,7 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual didnot have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (30) <sup>2</sup> Pre-employment transition services
 
@@ -576,7 +576,7 @@ For the purposes of this chapter:
 
 #### (39) Supported employment services
 
-&emsp;The term "supported employment services" means ongoing support services, including customized employment, needed to support and maintain an individual with a most significant disability in supported employment, that—
+&emsp;The term "supported employment services" means ongoing support services, including customized employment, needed to support andmaintain an individual with a most significant disability in supported employment, that—
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive integrated employment;
 
@@ -664,7 +664,7 @@ Par. (18). Pub. L. 113–128, §404(12), substituted "term 'independent living s
 
 Par. (19)(A). Pub. L. 113–128, §404(13)(A), inserted "and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)" before period at end.
 
-Par. (19)(B). Pub. L. 113–128, §404(13)(B), inserted "and a tribal organization (as defined in section 450b(l) of title 25)" before period at end.
+Par. (19)(B). Pub. L. 113–128, §404(13)(B), inserted "and a tribal organization (as defined in section 5304(l) of title 25)" before period at end.
 
 Par. (23). Pub. L. 113–128, §404(14), substituted "section 1002" for "section 1001".
 

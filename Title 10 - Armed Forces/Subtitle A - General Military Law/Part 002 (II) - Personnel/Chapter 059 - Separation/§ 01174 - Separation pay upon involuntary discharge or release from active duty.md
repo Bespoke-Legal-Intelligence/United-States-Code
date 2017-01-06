@@ -60,7 +60,7 @@ Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As
 
 (f)
 
-Counting Fractional Years of Service.—In determining a member's years of active service for the purpose of computing separation payunder this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
+Counting Fractional Years of Service.—In determining a member's years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
 (g)
 
@@ -104,7 +104,7 @@ Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), 
 
 <b>2011</b>—Subsec. (i). Pub. L. 111–383 substituted "armed forces" for "Armed Forces" wherever appearing.
 
-<b>2009</b>—Subsec. (h)(1). Pub. L. 111–32 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A member who has received separation pay under thissection, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received."
+<b>2009</b>—Subsec. (h)(1). Pub. L. 111–32 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received."
 
 <b>2008</b>—Subsecs. (i), (j). Pub. L. 110–317 added subsec. (i) and redesignated former subsec. (i) as (j).
 
@@ -176,7 +176,7 @@ Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted "Except as provided in paragraphs (2) and (3), a member" for "A member" and "fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay" for "less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay", and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting "each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded".
+Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting "each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "a part of a year that is six months ormore is counted as a whole year and a part of a year that is less than six months is disregarded".
 
 Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted ", other than section 1212 of this title," after "any other provision of law".
 

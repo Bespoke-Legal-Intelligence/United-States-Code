@@ -60,7 +60,7 @@ As a condition of the receipt of funds made available under this chapter, for ea
 
 #### (g) Establishment of additional Institutes
 
-If after 2 years after October 5, 2004, the Secretary finds that the Institute model establishedat the locations named in subsection (b)(2) would be constructive for other interior West States, the Secretary may establish 1 institute in each of those States.
+If after 2 years after October 5, 2004, the Secretary finds that the Institute model established at the locations named in subsection (b)(2) would be constructive for other interior West States, the Secretary may establish 1 institute in each of those States.
 
 (Pub. L. 108–317, §5, Oct. 5, 2004, 118 Stat. 1207.)
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) Information regarding the manner in which the owner must make the election and the manner of notifying the Secretary of the election.
 
-&emsp;&emsp;&emsp;(iii) Information regarding the deadline before which the owner must notify the Secretary of the election to be in effect beginning with the 2014 crop year.
+&emsp;&emsp;&emsp;(iii) Information regarding the deadline before which the owner must notify theSecretary of the election to be in effect beginning with the 2014 crop year.
 
 #### (C) Effect of failure to make election
 

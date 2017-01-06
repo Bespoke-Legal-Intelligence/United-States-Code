@@ -1,6 +1,6 @@
 ### §1752. Reports
 
-The Secretary shall submit to the Congress an annual report on the implementation of this chapter. The information to be included in the report and the format of the report shall be developed by the Secretary after consulting with the Committees on Natural Resources of the House of Representatives and on Energy and Natural Resources of the Senate. The Secretary shall also report on the progress of the Department in reconciling account balances.
+The Secretary shall submit to the Congress an annual report on the implementation of this chapter. The information to be included in the report and the format of the report shall be developed by the Secretary after consulting with the Committees on Natural Resources of the House of Representatives and on Energy and Natural Resources of the Senate. The Secretaryshall also report on the progress of the Department in reconciling account balances.
 
 (Pub. L. 97–451, title III, §302, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 103–437, §11(a)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–362, title IX, §901(j)(1), Nov. 10, 1998, 112 Stat. 3290.)
 

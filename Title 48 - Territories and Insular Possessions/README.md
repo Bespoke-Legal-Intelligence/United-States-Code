@@ -23,6 +23,7 @@
 | [<b>17.</b>](Chapter%20017%20-%20Northern%20Mariana%20Islands/README.md) | <b>Northern Mariana Islands</b> | <b>1801</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/README.md) | <b>Micronesia, Marshall Islands, and Palau</b> | <b>1901</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Pacific%20Policy%20Reports/README.md) | <b>Pacific Policy Reports</b> | <b>2001</b> |
+| [<b>20.</b>](Chapter%20020%20-%20Puerto%20Rico%20Oversight%2C%20Management%2C%20and%20Economic%20Stability/README.md) | <b>Puerto Rico Oversight, Management, and Economic Stability</b> | <b>2101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,3 +52,4 @@
 - [Chapter 017 - Northern Mariana Islands](Chapter%20017%20-%20Northern%20Mariana%20Islands/README.md)
 - [Chapter 018 - Micronesia, Marshall Islands, and Palau](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/README.md)
 - [Chapter 019 - Pacific Policy Reports](Chapter%20019%20-%20Pacific%20Policy%20Reports/README.md)
+- [Chapter 020 - Puerto Rico Oversight, Management, and Economic Stability](Chapter%20020%20-%20Puerto%20Rico%20Oversight%2C%20Management%2C%20and%20Economic%20Stability/README.md)

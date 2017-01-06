@@ -38,7 +38,7 @@
 
 &emsp;(2) to waive the cargo preference laws of the United States, including section 2631 of this title and section 55305 of title 46.
 
-(Added Pub. L. 99–145, title XI, §1102(b)(1), Nov. 8, 1985, 99 Stat. 710, §2407; amended Pub. L.99–661, div. A, title XI, §1103(b)(1), (2)(A), title XIII, §1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered §2350b and amended Pub. L. 101–189, div. A, title IX, §931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 104–106, div. A, title XIII, §1335, div. D, title XLIII, §4321(b)(10), Feb. 10, 1996, 110 Stat. 484, 672; Pub. L. 108–375, div. A, title X, §1084(d)(19), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–304, §17(a)(3), Oct. 6, 2006, 120 Stat. 1706.)
+(Added Pub. L. 99–145, title XI, §1102(b)(1), Nov. 8, 1985, 99 Stat. 710, §2407; amended Pub. L. 99–661, div. A, title XI, §1103(b)(1), (2)(A), title XIII, §1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered §2350b and amended Pub. L. 101–189, div. A, title IX, §931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 104–106, div. A, title XIII, §1335, div. D, title XLIII, §4321(b)(10), Feb. 10, 1996, 110 Stat. 484, 672; Pub. L. 108–375, div. A, title X, §1084(d)(19), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–304, §17(a)(3), Oct. 6, 2006, 120 Stat. 1706.)
 
 #### References in Text
 

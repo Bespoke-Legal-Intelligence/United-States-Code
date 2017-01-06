@@ -170,7 +170,7 @@ Petition Defined.—In this section, the term 'petition' means a request for—
 
 #### Prioritizing Statutory Rulemakings
 
-Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of theFederal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination."
+Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination."
 
 #### Findings
 
@@ -256,7 +256,7 @@ Continuance of Actions Against Officers.—No suit, action, or other proceeding 
 
 "(f)
 
-Exercise of Authorities.—Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible forthe performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
+Exercise of Authorities.—Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
 
 "(g)
 

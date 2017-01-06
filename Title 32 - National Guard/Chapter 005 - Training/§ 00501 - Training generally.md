@@ -62,7 +62,7 @@ Pilot Program.—The Chief of the National Guard Bureau shall enter into an agre
 
 "(b)
 
-Funding Assistance.—Amounts made available from Department of Defense accounts for operation and maintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements. In addition to such amounts, the Chief of the National Guard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
+Funding Assistance.—Amounts made available from Department of Defense accounts for operation andmaintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements. In addition to such amounts, the Chief of the National Guard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
 
 "(c)
 

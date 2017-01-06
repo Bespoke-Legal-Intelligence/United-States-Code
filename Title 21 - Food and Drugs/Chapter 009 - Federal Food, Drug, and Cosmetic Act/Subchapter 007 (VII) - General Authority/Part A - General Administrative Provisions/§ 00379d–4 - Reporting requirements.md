@@ -2,7 +2,7 @@
 
 #### (a) Generic drugs
 
-Beginning with fiscal year 2013 and ending after fiscal year 2017, not later than 120 daysafter the end of each fiscal year for which fees are collected under subpart 7 of part C, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning, for all applications for approval of a generic drug under section 355(j) of this title, amendments to such applications, and prior approval supplements with respect to such applications filed in the previous fiscal year—
+Beginning with fiscal year 2013 and ending after fiscal year 2017, not later than 120 days after the end of each fiscal year for which fees are collected under subpart 7 of part C, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning, for all applications for approval of a generic drug under section 355(j) of this title, amendments to such applications, and prior approval supplements with respect to such applications filed in the previous fiscal year—
 
 &emsp;(1) the number of such applications that met the goals identified for purposes of subpart 7 of part C, in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record;
 

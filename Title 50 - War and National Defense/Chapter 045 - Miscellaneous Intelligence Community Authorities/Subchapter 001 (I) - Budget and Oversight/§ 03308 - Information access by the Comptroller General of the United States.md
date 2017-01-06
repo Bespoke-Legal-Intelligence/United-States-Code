@@ -4,7 +4,7 @@
 
 #### (1) Requirement for directive
 
-&emsp;The Director of National Intelligence, in consultation with the Comptroller General of the United States, shall issue a written directive governing the access of the ComptrollerGeneral to information in the possession of an element of the intelligence community.
+&emsp;The Director of National Intelligence, in consultation with the Comptroller General of the United States, shall issue a written directive governing the access of the Comptroller General to information in the possession of an element of the intelligence community.
 
 #### (2) Amendment to directive
 

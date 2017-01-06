@@ -86,13 +86,13 @@ Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the De
 
 &emsp;(A) A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
 
-&emsp;(B) Confirmation that the preliminary findings of the agency head under subparagraph (A) were made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Evaluation for the purpose of section 2334(e)(1) of this title, and that the analysis supports those preliminary findings.
+&emsp;(B) Confirmation that the preliminary findings of the agency head under subparagraph (A) were made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Evaluation for the purpose of section 2334(e)(1) <sup>1</sup> of this title, and that the analysis supports those preliminary findings.
 
 (3) A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
 
 &emsp;(A) The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
 
-&emsp;(B) The Secretary's determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 2334(e)(2) of this title, and the analysis supports the determination.
+&emsp;(B) The Secretary's determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 2334(e)(2) <sup>1</sup> of this title, and the analysis supports the determination.
 
 &emsp;(C) The system being acquired pursuant to such contract has not been determined to have experienced cost growth in excess of the critical cost growth threshold pursuant to section 2433(d) of this title within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
 
@@ -110,7 +110,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the De
 
 (B) The Secretary may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
 
-(6) The Secretary may make the certification under paragraph (3) notwithstanding the fact that one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
+(6) The Secretary may make the certification under paragraph (3) notwithstanding the factthat one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
 
 (7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -181,6 +181,12 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
 (Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891.)
+
+#### References in Text
+
+Section 2334(e)(1) of this title, referred to in subsec. (i)(2)(B), was redesignated as section 2334(f)(1) of this title by Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
+
+Section 2334(e)(2) of this title, referred to in subsec. (i)(3)(B), was redesignated as section 2334(f)(2) of this title by Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
 #### Amendments
 
@@ -276,7 +282,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Pub. L. 105–85, div. A, title VIII, §806(a)(2), Nov. 18, 1997, 111 Stat. 1834, provided that: "Paragraph (3) of section 2306b(i) of title 10, United States Code, as added by paragraph (1), shall not apply with respect to a contract authorized by law before the date of the enactment of this Act \[Nov. 18, 1997\]."
 
-Pub. L. 105–85, div. A, title VIII, §806(b)(2), Nov. 18, 1997, 111 Stat. 1835, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall take effect on October 1, 1998."
+Pub. L. 105–85, div. A, title VIII, §806(b)(2), Nov. 18, 1997, 111 Stat. 1835, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998."
 
 #### Effective Date of 1996 Amendment
 
@@ -285,6 +291,34 @@ Amendment by section 5601(b) of Pub. L. 104–106 effective 180 days after Feb. 
 #### Effective Date
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
+
+#### Multiple Program Multiyear Contract Pilot Demonstration Program
+
+Pub. L. 114–328, div. A, title VIII, §853, Dec. 23, 2016, 130 Stat. 2296, provided that:
+
+"(a)
+
+Authority.—The Secretary of Defense may conduct a multiyear contract, over a period of up to four years, for the purchase of units for multiple defense programs that are produced at common facilities at a high rate, and which maximize commonality, efficiencies, and quality, in order to provide maximum benefit to the Department of Defense. Contracts awarded under this section should allow for significant savings, as determined consistent with the authority under section 2306b of title 10, United States Code, to be achieved as compared to using separate annual contracts under individual programs to purchase such units, and may include flexible delivery across the overall period of performance.
+
+"(b)
+
+Scope.—The contracts authorized in subsection (a) shall at a minimum provide for the acquisition of units from three discrete programs from two of the military departments.
+
+"(c)
+
+Documentation.—Each contract awarded under subsection (a) shall include the documentation required to be provided for a multiyear contract proposal under section 2306b(i) of title 10.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'high rate' means total annual production across the multiple defense programs of more than 200 end-items per year.
+
+&emsp;"(2) The term 'common facilities' means production facilities operating within the same general and allowable rate structure.
+
+"(e)
+
+Sunset.—No new contracts may be awarded under the authority of this section after September 30, 2021."
 
 #### Multiyear Procurement Contracts
 
@@ -361,4 +395,6 @@ Pub. L. 102–172, title VIII, §8013, Nov. 26, 1991, 105 Stat. 1173.
 Pub. L. 101–511, title VIII, §8014, Nov. 5, 1990, 104 Stat. 1877.
 
 Pub. L. 101–165, title IX, §9021, Nov. 21, 1989, 103 Stat. 1133.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

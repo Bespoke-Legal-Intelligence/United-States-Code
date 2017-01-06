@@ -32,7 +32,7 @@ Maximum amount.—The Secretary concerned shall determine the amount of a bonus 
 
 &emsp;&emsp;(A) a bonus paid under paragraph (1) of subsection (a) may not exceed $60,000 for a minimum three-year period of obligated service agreed to under subsection (d);
 
-&emsp;&emsp;(B) a bonus paid under paragraph (2) of subsection (a) may not exceed $12,000 for a minimum three-year period of obligated service agreed to under subsection (d);
+&emsp;&emsp;(B) a bonus paid under paragraph (2) of subsection (a) may not exceed $20,000 for a minimum three-year period of obligated service agreed to under subsection (d);
 
 &emsp;&emsp;(C) a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component agreed to under subsection (d);
 
@@ -70,11 +70,15 @@ Repayment.—A person or officer who receives a bonus under this section and who
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2016.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2017.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(2), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(2), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(2), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §614(2), Nov. 25, 2015, 129 Stat. 838.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(2), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(2), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(2), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §614(2), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §§614(2), 617, Dec. 23, 2016, 130 Stat. 2158, 2160.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–328, §617, substituted "$20,000" for "$12,000".
+
+Subsec. (g). Pub. L. 114–328, §614(2), substituted "December 31, 2017" for "December 31, 2016".
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 

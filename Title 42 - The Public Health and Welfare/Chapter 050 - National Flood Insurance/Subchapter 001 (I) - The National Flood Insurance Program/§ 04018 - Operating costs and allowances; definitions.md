@@ -6,7 +6,7 @@
 
 &emsp;(2) a current schedule of operating allowances applicable to risk-sharing insurance companies and other insurers,
 
-> which may be payable in accordance with the provisions of subchapter II of this chapter, and such schedules shall from time to time be prescribed in regulations.
+> which may be payable in accordance with the provisions of subchapter II, and such schedules shall from time to time be prescribed in regulations.
 
 (b) For purposes of subsection (a) of this section—
 
@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (b)(2), was in the original a reference to 
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

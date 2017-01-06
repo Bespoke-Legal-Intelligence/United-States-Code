@@ -72,7 +72,7 @@ The Secretary shall award a contract or grant under subsection (a) to an eligibl
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under this section unless the State (or consortia ofStates) involved agrees, with respect to the costs to be incurred by the State (or consortia) in carrying out the purpose for which such grant was made, to make available non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $1 for each $3 of Federal funds provided in the grant. Such contributions may be made directly or through donations from public or private entities.
+&emsp;The Secretary may not make a grant under this section unless the State (or consortia of States) involved agrees, with respect to the costs to be incurred by the State (or consortia) in carrying out the purpose for which such grant was made, to make available non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $1 for each $3 of Federal funds provided in the grant. Such contributions may be made directly or through donations from public or private entities.
 
 #### (2) Non-Federal contributions
 

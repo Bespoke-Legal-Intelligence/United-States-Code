@@ -4,7 +4,7 @@
 
 The Director of the National Institute of Standards and Technology shall—
 
-&emsp;(1) as part of the Program activities under section 7501(b)(7) of this title, establish a program to conduct basic research on issues related to the development and manufacture ofnanotechnology, including metrology; reliability and quality assurance; processes control; and manufacturing best practices; and
+&emsp;(1) as part of the Program activities under section 7501(b)(7) of this title, establish a program to conduct basic research on issues related to the development and manufacture of nanotechnology, including metrology; reliability and quality assurance; processes control; and manufacturing best practices; and
 
 &emsp;(2) utilize the Manufacturing Extension Partnership program <sup>1</sup> to the extent possible to ensure that the research conducted under paragraph (1) reaches small- and medium-sized manufacturing companies.
 
@@ -16,7 +16,7 @@ The Secretary of Commerce or his designee, in consultation with the National Nan
 
 #### Change of Name
 
-The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by a provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under section 278k of this title.
+The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by a provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under section 278k of this title. Program subsequently designated the Hollings Manufacturing Extension Partnership by former section 278k(i) of this title, as added by Pub. L. 111–358, and by section 278k of this title, as generally amended by Pub. L. 114–329.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

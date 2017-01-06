@@ -4,7 +4,7 @@
 
 #### (1) When determination required; nature of determination
 
-&emsp;Whenever persuasive information becomes available to the executive branch indicating the substantial possibility that, on or after October 28, 1991, the government of a foreign country has made substantial preparation to use or has used chemical or biological weapons, the President shall, within 60 days after the receipt of such information by the executive branch, determine whether that government, on or after October 28, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemicalor biological weapons against its own nationals. Section 5605 of this title applies if the President determines that that government has so used chemical or biological weapons.
+&emsp;Whenever persuasive information becomes available to the executive branch indicating the substantial possibility that, on or after October 28, 1991, the government of a foreign country has made substantial preparation to use or has used chemical or biological weapons, the President shall, within 60 days after the receipt of such information by the executive branch, determine whether that government, on or after October 28, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. Section 5605 of this title applies if the President determines that that government has so used chemical or biological weapons.
 
 #### (2) Matters to be considered
 

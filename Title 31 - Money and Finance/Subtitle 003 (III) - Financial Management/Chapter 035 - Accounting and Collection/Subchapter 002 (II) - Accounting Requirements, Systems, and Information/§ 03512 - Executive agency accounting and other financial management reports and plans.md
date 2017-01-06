@@ -24,7 +24,7 @@
 
 &emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
 
-(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
+(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of theOffice of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
 (B) Each governmentwide 5-year financial management plan prepared under this subsection shall—
 
@@ -158,7 +158,7 @@ In subsection (b), the words "As soon as practicable after August 1, 1956" are o
 
 In subsections (c) and (d), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The word "considers" is substituted for "deemed" as being more precise.
 
-In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and othertitles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
+In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
 
 In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
@@ -208,7 +208,7 @@ In subsection (c)(3)(A), the words "provision of" are omitted as surplus.
 
 #### References in Text
 
-The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255,Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
 
 The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
@@ -268,7 +268,7 @@ Findings.—The Congress finds the following:
 
 &emsp;&emsp;"(C) accurately report the financial condition of the Federal Government.
 
-&emsp;"(3) Current Federal accounting practices do not accurately report financial results of the Federal Government or the full costs of programs and activities. The continued use of these practices underminesthe Government's ability to provide credible and reliable financial data and encourages already widespread Government waste, and will not assist in achieving a balanced budget.
+&emsp;"(3) Current Federal accounting practices do not accurately report financial results of the Federal Government or the full costs of programs and activities. The continued use of these practices undermines the Government's ability to provide credible and reliable financial data and encourages already widespread Government waste, and will not assist in achieving a balanced budget.
 
 &emsp;"(4) Waste and inefficiency in the Federal Government undermine the confidence of the American people in the government and reduce the federal Government's ability to address vital public needs adequately.
 
@@ -410,7 +410,7 @@ Inspector General Act of 1978.—\[Amended section 5 of the Inspector General Ac
 
 &emsp;"(1)
 
-Agency.—The term 'agency' means a department or agency of the United States Government as defined in section 901(b) of title 31, United States Code.
+Agency.—The term 'agency' means a department or agency of the United States Government asdefined in section 901(b) of title 31, United States Code.
 
 &emsp;"(2)
 

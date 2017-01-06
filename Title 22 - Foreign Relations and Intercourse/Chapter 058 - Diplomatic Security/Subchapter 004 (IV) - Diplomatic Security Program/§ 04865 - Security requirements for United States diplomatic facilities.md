@@ -8,7 +8,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (A) Emergency Action Plan
 
-&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
+&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
 
 #### (B) Security Environment Threat List
 
@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -64,7 +64,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Report to Congress
 
-&emsp;&emsp;&emsp;The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
+&emsp;&emsp;&emsp;The Secretary shall submit to the appropriate congressional committees an annualreport of all waivers under this subparagraph.
 
 #### (4) Crisis management training
 
@@ -114,7 +114,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (7) Rapid response procedures
 
-&emsp;The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities.
+&emsp;The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities, including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack.
 
 #### (8) Storage of emergency equipment and records
 
@@ -124,11 +124,17 @@ The following security requirements shall apply with respect to United States di
 
 Nothing in this section alters or amends existing security requirements not addressed by this section.
 
-(Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–454).
+(Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–454; Pub. L. 114–323, title I, §102, Dec. 16, 2016, 130 Stat. 1909.)
 
 #### Codification
 
 Section was enacted as part of the Secure Embassy Construction and Counterterrorism Act of 1999, and also as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the Diplomatic Security Act which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–323, §102(1), inserted "and from complex attacks (as such term is defined in section 4866 of this title)," after "attacks from vehicles" and "or such a complex attack" after "an explosive attack".
+
+Subsec. (a)(7). Pub. L. 114–323, §102(2), inserted before period at end ", including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack".
 
 #### Delegation of Authority
 
@@ -228,13 +234,13 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 &emsp;"(9) The Crowe panels found that there was an institutional failure on the part of the Department of State to recognize threats posed by transnational terrorism and vehicular bombs.
 
-&emsp;"(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United States employees in diplomatic facilities will continue to be at risk from further terrorist attacks.
+&emsp;"(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United Statesemployees in diplomatic facilities will continue to be at risk from further terrorist attacks.
 
 &emsp;"(11) Although service in the Foreign Service or other United States Government positions abroad can never be completely without risk, the United States Government must take all reasonable steps to minimize security risks."
 
 #### Authorizations of Appropriations
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, §7004(e), Dec. 23, 2011, 125 Stat. 1194, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, §7004(e), Dec. 23, 2011, 125 Stat. 1194; Pub. L. 114–323, title I, §111(b), Dec. 16, 2016, 130 Stat. 1910, provided that:
 
 "(a)
 
@@ -278,7 +284,7 @@ Authority.—Notwithstanding any other provision of law, all agencies with perso
 
 &emsp;"(2)
 
-Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency's overseas presence.
+Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency's overseas presence. A project to construct a diplomatic facility of the United States may not include office space or other accommodations for an employee of a Federal department or agency to the extent that the Secretary of State determines that such department or agency has not provided to the Department of State the full amount of funding required under paragraph (1), notwithstanding any authorization and appropriation of relevant funds by Congress.
 
 &emsp;"(3)
 

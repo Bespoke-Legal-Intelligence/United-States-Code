@@ -22,7 +22,7 @@ Any otherwise eligible member of the Service who is appointed to a position in t
 
 #### (c) Binational Center Grantees
 
-In addition to the individuals who are participants in the System under subsection (a), any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee orunder any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
+In addition to the individuals who are participants in the System under subsection (a), any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
 
 #### (d) Exclusion
 

@@ -62,9 +62,9 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 Limitations on partial permit program returns and withdrawals.—A State may return to the Administrator administration, and the Administrator may withdraw under paragraph (3) of this subsection approval, of—
 
-&emsp;(A) a State partial permit program approved under subsection (n)(3) of this section only if the entire permit program being administered by the State department or agency at the time is returned or withdrawn; and
+&emsp;(A) a State partial permit program approved under subsection (n)(3) only if the entire permit program being administered by the State department or agency at the time is returned or withdrawn; and
 
-&emsp;(B) a State partial permit program approved under subsection (n)(4) of this section only if an entire phased component of the permit program being administered by the State at the time is returned or withdrawn.
+&emsp;(B) a State partial permit program approved under subsection (n)(4) only if an entire phased component of the permit program being administered by the State at the time is returned or withdrawn.
 
 #### (d) Notification of Administrator
 
@@ -124,7 +124,7 @@ NPDES permit requirements for silvicultural activities.—The Administrator shal
 
 Other requirements.—Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under section 1344 of this title, existing permitting requirements under section 1342 of this title, or from any other federal law.
 
-&emsp;(C) The authorization provided in Section <sup>1</sup> 1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) <sup>2</sup> of this title for the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title, or to any other limitations that might be deemedto apply to the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title.
+&emsp;(C) The authorization provided in Section <sup>1</sup> 1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) <sup>2</sup> of this title for the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title.
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
@@ -138,7 +138,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (2) Minimum coverage
 
-&emsp;A partial permit program under this subsection shall cover, at a minimum, administration of a major category of the discharges into the navigable waters of the State or a major component of the permit program required by subsection (b) of this section.
+&emsp;A partial permit program under this subsection shall cover, at a minimum, administration of a major category of the discharges into the navigable waters of the State or a major component of the permit program required by subsection (b).
 
 #### (3) Approval of major category partial permit programs
 
@@ -146,15 +146,15 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(A) such program represents a complete permit program and covers all of the discharges under the jurisdiction of a department or agency of the State; and
 
-&emsp;&emsp;(B) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b) of this section.
+&emsp;&emsp;(B) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b).
 
 #### (4) Approval of major component partial permit programs
 
-&emsp;The Administrator may approve under this subsection a partial and phased permit program covering administration of a major component (including discharge categories) of a State permit program required by subsection (b) of this section if—
+&emsp;The Administrator may approve under this subsection a partial and phased permit program covering administration of a major component (including discharge categories) of a State permit program required by subsection (b) if—
 
-&emsp;&emsp;(A) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b) of this section; and
+&emsp;&emsp;(A) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b); and
 
-&emsp;&emsp;(B) the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) of this section by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
+&emsp;&emsp;(B) the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
 
 #### (o) Anti-backsliding
 
@@ -170,7 +170,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(B)(i) information is available which was not available at the time of permit issuance (other than revised regulations, guidance, or test methods) and which would have justified the application of a less stringent effluent limitation at the time of permit issuance; or
 
-&emsp;&emsp;(ii) the Administrator determines that technical mistakes or mistaken interpretations of law were made in issuing the permit under subsection (a)(1)(B) of this section;
+&emsp;&emsp;(ii) the Administrator determines that technical mistakes or mistaken interpretations of law were made in issuing the permit under subsection (a)(1)(B);
 
 &emsp;&emsp;(C) a less stringent effluent limitation is necessary because of events over which the permittee has no control and for which there is no reasonably available remedy;
 

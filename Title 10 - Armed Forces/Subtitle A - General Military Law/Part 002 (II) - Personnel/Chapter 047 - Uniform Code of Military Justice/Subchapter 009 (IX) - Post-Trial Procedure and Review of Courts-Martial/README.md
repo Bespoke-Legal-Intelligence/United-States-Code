@@ -6,6 +6,9 @@
 | :--- | :---: | ---: |
 | [859\.](%C2%A7%2000859%20-%20Art.%2059.%20Error%20of%20law%3B%20lesser%20included%20offense.md) | 59\. | Error of law; lesser included offense. |
 | [860\.](%C2%A7%2000860%20-%20Art.%2060.%20Action%20by%20the%20convening%20authority.md) | 60\. | Action by the convening authority. |
+| [860a.](%C2%A7%2000860a%20-%20Art.%2060a.%20Limited%20authority%20to%20act%20on%20sentence%20in%20specified%20post-trial%20circumstances.md) | 60a. | Limited authority to act on sentence in specified post-trial circumstances. |
+| [860b.](%C2%A7%2000860b%20-%20Art.%2060b.%20Post-trial%20actions%20in%20summary%20courts-martial%20and%20certain%20general%20and%20special%20courts-martial.md) | 60b. | Post-trial actions in summary courts-martial and certain general and special courts-martial. |
+| [860c.](%C2%A7%2000860c%20-%20Art.%2060c.%20Entry%20of%20judgment.md) | 60c. | Entry of judgment. |
 | [861\.](%C2%A7%2000861%20-%20Art.%2061.%20Waiver%20or%20withdrawal%20of%20appeal.md) | 61\. | Waiver or withdrawal of appeal. |
 | [862\.](%C2%A7%2000862%20-%20Art.%2062.%20Appeal%20by%20the%20United%20States.md) | 62\. | Appeal by the United States. |
 | [863\.](%C2%A7%2000863%20-%20Art.%2063.%20Rehearings.md) | 63\. | Rehearings. |
@@ -26,7 +29,30 @@
 | [876a.](%C2%A7%2000876a%20-%20Art.%2076a.%20Leave%20required%20to%20be%20taken%20pending%20review%20of%20certain%20court-martial%20convictions.md) | 76a. | Leave required to be taken pending review of certain court-martial convictions. |
 | [876b.](%C2%A7%2000876b%20-%20Art.%2076b.%20Lack%20of%20mental%20capacity%20or%20mental%20responsibility%20commitment%20of%20accused%20for%20examination%20and%20treatment.md) | 76b. | Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment. |
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–328, Dec. 23, 2016, div. E, title LXIII, §§5541(6), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, provided in part that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 860, 61 (probably should be 861), 864 to 866, and 869 and inserting the following new items:</i>
+
+&nbsp;
+
+| Sec. | Art. | &nbsp; |
+| :--- | :---: | ---: |
+| [860\.](%C2%A7%2000860%20-%20Art.%2060.%20Action%20by%20the%20convening%20authority.md) | 60\. | Post-trial processing in general and special courts-martial. |
+| [861\.](%C2%A7%2000861%20-%20Art.%2061.%20Waiver%20or%20withdrawal%20of%20appeal.md) | 61\. | Waiver of right to appeal; withdrawal of appeal. |
+| [864\.](%C2%A7%2000864%20-%20Art.%2064.%20Review%20by%20a%20judge%20advocate.md) | 64\. | Judge advocate review of finding of guilty in summary court-martial. |
+| [865\.](%C2%A7%2000865%20-%20Art.%2065.%20Disposition%20of%20records.md) | 65\. | Transmittal and review of records. |
+| [866\.](%C2%A7%2000866%20-%20Art.%2066.%20Review%20by%20Court%20of%20Criminal%20Appeals.md) | 66\. | Courts of Criminal Appeals. |
+| [869\.](%C2%A7%2000869%20-%20Art.%2069.%20Review%20in%20the%20office%20of%20the%20Judge%20Advocate%20General.md) | 69\. | Review by Judge Advocate General. |
+
+<i>See 2016 Amendment notes below.</i>
+
 #### Amendments
+
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(B)–(D), Dec. 23, 2016, 130 Stat. 2967, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review by Judge Advocate General" for "Review in the office of the Judge Advocate General" in item 869 and struck out item 871 "Art. 71. Execution of sentence; suspension of sentence".
+
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
+
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended by substituting "Waiver of right to appeal; withdrawal of appeal" for "Waiver or withdrawal of appeal" in item 861 to reflect the probable intent of Congress.
 
 <b>1996</b>—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
@@ -47,6 +73,9 @@
 
 - [&sect; 00859 - Art. 59. Error of law; lesser included offense](%C2%A7%2000859%20-%20Art.%2059.%20Error%20of%20law%3B%20lesser%20included%20offense.md)
 - [&sect; 00860 - Art. 60. Action by the convening authority](%C2%A7%2000860%20-%20Art.%2060.%20Action%20by%20the%20convening%20authority.md)
+- [&sect; 00860a - Art. 60a. Limited authority to act on sentence in specified post-trial circumstances](%C2%A7%2000860a%20-%20Art.%2060a.%20Limited%20authority%20to%20act%20on%20sentence%20in%20specified%20post-trial%20circumstances.md)
+- [&sect; 00860b - Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martial](%C2%A7%2000860b%20-%20Art.%2060b.%20Post-trial%20actions%20in%20summary%20courts-martial%20and%20certain%20general%20and%20special%20courts-martial.md)
+- [&sect; 00860c - Art. 60c. Entry of judgment](%C2%A7%2000860c%20-%20Art.%2060c.%20Entry%20of%20judgment.md)
 - [&sect; 00861 - Art. 61. Waiver or withdrawal of appeal](%C2%A7%2000861%20-%20Art.%2061.%20Waiver%20or%20withdrawal%20of%20appeal.md)
 - [&sect; 00862 - Art. 62. Appeal by the United States](%C2%A7%2000862%20-%20Art.%2062.%20Appeal%20by%20the%20United%20States.md)
 - [&sect; 00863 - Art. 63. Rehearings](%C2%A7%2000863%20-%20Art.%2063.%20Rehearings.md)

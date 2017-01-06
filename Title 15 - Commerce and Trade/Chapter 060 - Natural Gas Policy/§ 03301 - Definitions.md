@@ -242,5 +242,5 @@ Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: "This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the 'Natural Gas Policy Act of 1978'."
+Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: "This Act \[enacting this chapter and amendingsection 7255 of Title 42, The Public Health and Welfare\] may be cited as the 'Natural Gas Policy Act of 1978'."
 

@@ -68,7 +68,7 @@ Payment.—A secured loan under this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) other dedicated revenue sources that also secure the senior project obligations; or
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenuesources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
+&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenue sources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
 
 &emsp;&emsp;&emsp;(ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
@@ -242,7 +242,7 @@ Loan Guarantees.—
 
 &emsp;(1)
 
-In general.—The Secretary may provide a loan guarantee to a lender in lieu of making a secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
+In general.—The Secretary may provide a loan guarantee to a lender in lieu of makinga secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
 
 &emsp;(2)
 

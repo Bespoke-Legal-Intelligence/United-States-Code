@@ -52,7 +52,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (B) In carrying out subparagraph (A), the Director shall utilize the database established under paragraph (2)(B).
 
-(C) A sponsoring organization of VISTA may recruit volunteers for service under this part.The Director shall give a locally recruited volunteer priority for placement in the sponsoring organization of VISTA that recruited such volunteer.
+(C) A sponsoring organization of VISTA may recruit volunteers for service under this part. The Director shall give a locally recruited volunteer priority for placement in the sponsoring organization of VISTA that recruited such volunteer.
 
 (D) A volunteer under this part shall not be assigned to any project or program without the express approval and consent of such project or program.
 
@@ -68,7 +68,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(B) advertising through the Internet and related technologies, print media, direct mail, and other means;
 
-&emsp;(C) disseminating information about opportunities for service as a volunteer under this part to relevant entities including institutions of higher education and other educational institutions (including libraries), professional associations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, State or local offices of economic development, State employment security agencies, employment offices, and other institutions and organizations from or through which potential volunteers may be recruited;
+&emsp;(C) disseminating information about opportunities for service as a volunteer under this part to relevant entities including institutions of higher education and other educational institutions (including libraries), professionalassociations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, State or local offices of economic development, State employment security agencies, employment offices, and other institutions and organizations from or through which potential volunteers may be recruited;
 
 &emsp;(D) disseminating such information through presentations made personally by employees of the Corporation or other designees of the Director, to students and faculty at institutions of higher education and to other entities described in subparagraph (C), including presentations made at the facilities, conventions, or other meetings of such entities;
 
@@ -112,7 +112,7 @@ The Director may enter into agreements under which public and private nonprofit 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(6), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in subsec. (a)(6), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973,87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
@@ -124,7 +124,7 @@ The Community Economic Development Act of 1981, referred to in subsec. (a)(6), i
 
 The National and Community Service Act of 1990, referred to in subsecs. (b)(2)(A) and (c)(1)(F), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.) and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.) and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
@@ -230,7 +230,7 @@ Subsec. (a). Pub. L. 101–204, §101(d)(2)(B), inserted introductory provisions
 
 Subsec. (a)(5), (6). Pub. L. 101–204, §701, added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (b). Pub. L. 101–204, §101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: "The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers.The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration."
+Subsec. (b). Pub. L. 101–204, §101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: "The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers. The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration."
 
 Subsecs. (c) to (e). Pub. L. 101–204, §101(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

@@ -1,0 +1,6 @@
+### §450e–1. Transferred
+
+#### Codification
+
+Section 450e–1 was editorially reclassified as section 5308 of this title.
+

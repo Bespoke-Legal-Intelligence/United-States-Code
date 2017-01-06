@@ -56,7 +56,7 @@ The Secretary shall announce that the dairy product donation program is in effec
 
 #### (2) Use of public or private nonprofit organizations
 
-&emsp;The Secretary shall utilize the services of public and private nonprofit organizations for the distribution of dairy products purchased under the dairy product donation program. A public or private nonprofit organization that receives dairy products may transfer the products to another public or private nonprofit organization that agrees to use the dairy products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
+&emsp;The Secretary shall utilize the services of public and private nonprofit organizations forthe distribution of dairy products purchased under the dairy product donation program. A public or private nonprofit organization that receives dairy products may transfer the products to another public or private nonprofit organization that agrees to use the dairy products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
 
 #### (f) Prohibition on resale of products
 

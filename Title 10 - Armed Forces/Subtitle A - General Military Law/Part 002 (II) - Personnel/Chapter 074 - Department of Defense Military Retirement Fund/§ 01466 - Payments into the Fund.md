@@ -24,7 +24,7 @@
 
 &emsp;(B) The amount (including any negative amount) for that year under the most recent amortization schedule determined by the Secretary of Defense under section 1465(c)(2) of this title for the amortization of any cumulative unfunded liability (or any gain) to the Fund resulting from changes in benefits.
 
-&emsp;(C) The amount (including any negative amount) for that year under the most recent amortization schedule determined by the Secretary of Defense under section 1465(c)(3) ofthis title for the amortization of any cumulative actuarial gain or loss to the Fund.
+&emsp;(C) The amount (including any negative amount) for that year under the most recent amortization schedule determined by the Secretary of Defense under section 1465(c)(3) of this title for the amortization of any cumulative actuarial gain or loss to the Fund.
 
 &emsp;(D) The amount for that year determined by the Secretary of Defense under section 1465(b)(3) of this title for the cost to the Fund arising from increased amounts payable from the Fund by reason of section 1413a or 1414 of this title.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: "The amendments made bythis section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999."
+Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: "The amendments made by this section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999."
 
 #### Effective Date of 1987 Amendment
 

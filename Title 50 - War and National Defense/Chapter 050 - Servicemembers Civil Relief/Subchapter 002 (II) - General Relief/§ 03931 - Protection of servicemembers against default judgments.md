@@ -20,7 +20,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (3) Defendant's military status not ascertained by affidavit
 
-&emsp;If based upon the affidavits filed in such an action, the court is unable to determine whether the defendant is in military service, the court, before entering judgment, may require the plaintiff to file a bond in an amount approved by the court. If the defendant is later found to be in military service, the bond shall be available to indemnify the defendant against any loss or damage the defendant may suffer by reason of any judgment for the plaintiff against the defendant, should the judgment be set aside in whole or in part. The bond shall remain in effect until expiration of the time for appeal and setting aside of a judgment under applicable Federal or State law or regulation or under any applicable ordinance of a political subdivision of a State. The court may issue such orders or enter such judgments as the court determines necessary to protect the rights of the defendant under this chapter.
+&emsp;If based upon the affidavits filed in such an action, the court is unable to determinewhether the defendant is in military service, the court, before entering judgment, may require the plaintiff to file a bond in an amount approved by the court. If the defendant is later found to be in military service, the bond shall be available to indemnify the defendant against any loss or damage the defendant may suffer by reason of any judgment for the plaintiff against the defendant, should the judgment be set aside in whole or in part. The bond shall remain in effect until expiration of the time for appeal and setting aside of a judgment under applicable Federal or State law or regulation or under any applicable ordinance of a political subdivision of a State. The court may issue such orders or enter such judgments as the court determines necessary to protect the rights of the defendant under this chapter.
 
 #### (4) Satisfaction of requirement for affidavit
 
@@ -74,7 +74,7 @@ Section was formerly classified to section 521 of the former Appendix to this ti
 
 A prior section 201 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, related to stay of proceedings where military service affects conduct thereof, prior to the general amendment of this Act by Pub. L. 108–189. See section 3932 of this title.
 
-Provisions similar to this section were contained in section 200 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat.1180; Pub. L. 86–721, §§1, 2, Sept. 8, 1960, 74 Stat. 820, prior to the general amendment of this Act by Pub. L. 108–189.
+Provisions similar to this section were contained in section 200 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1180; Pub. L. 86–721, §§1, 2, Sept. 8, 1960, 74 Stat. 820, prior to the general amendment of this Act by Pub. L. 108–189.
 
 #### Amendments
 

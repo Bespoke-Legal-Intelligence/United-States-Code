@@ -1,6 +1,6 @@
 ### §20506. Annual report
 
-Not later than December 1 of each year, the corporation shall submit a report to Congress onthe activities of the corporation during the prior calendar year, including a complete statement of its receipts and expenditures. The report may not be printed as a public document.
+Not later than December 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year, including a complete statement of its receipts and expenditures. The report may not be printed as a public document.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1288.)
 

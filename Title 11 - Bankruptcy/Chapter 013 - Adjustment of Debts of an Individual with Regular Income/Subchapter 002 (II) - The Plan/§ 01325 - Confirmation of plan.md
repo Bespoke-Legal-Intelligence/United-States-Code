@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(II) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicableState for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
+&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
 
 &emsp;(B) may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 
@@ -126,7 +126,7 @@ Subsec. (b)(1)(B). Pub. L. 109–8, §318(2), substituted "applicable commitment
 
 Pub. L. 109–8, §102(h)(1), inserted "to unsecured creditors" after "to make payments".
 
-Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "For purposes of this subsection, 'disposable income' means income which is received by the debtor and which is not reasonably necessary to be expended—
+Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "For purposes of this subsection, 'disposableincome' means income which is received by the debtor and which is not reasonably necessary to be expended—
 
 &emsp;"(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of 'charitable contribution' under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
 

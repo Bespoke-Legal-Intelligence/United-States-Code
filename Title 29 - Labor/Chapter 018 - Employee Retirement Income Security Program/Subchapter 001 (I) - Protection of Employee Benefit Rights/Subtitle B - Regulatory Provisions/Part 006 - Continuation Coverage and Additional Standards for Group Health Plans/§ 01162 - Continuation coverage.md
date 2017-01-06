@@ -4,7 +4,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (1) Type of benefit coverage
 
-&emsp;The coverage must consist of coverage which, as of the time the coverage is beingprovided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
+&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
 
 #### (2) Period of coverage
 
@@ -72,7 +72,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 &emsp;&emsp;(B) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+> &emsp;In no event may the plan require the payment of any premium before the day which is 45days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
 
 #### (4) No requirement of insurability
 
@@ -120,7 +120,7 @@ Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted "(other than such an
 
 Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this part" for "at the time of a qualifying event described in section 1163(2) of this title".
 
-<b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) "In the case of an individualwho is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months."
+<b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months."
 
 Par. (2)(A)(iii). Pub. L. 101–239, §7871(c), substituted "described in section 1163(6)" for "described in 1163(6)".
 

@@ -42,7 +42,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (D) Real estate brokerage activity defined
 
-&emsp;&emsp;The term "real estate brokerage activity" means any activity that involves offering orproviding real estate brokerage services to the public, including—
+&emsp;&emsp;The term "real estate brokerage activity" means any activity that involves offering or providing real estate brokerage services to the public, including—
 
 &emsp;&emsp;&emsp;(i) acting as a real estate agent or real estate broker for a buyer, seller, lessor, or lessee of real property;
 
@@ -156,7 +156,7 @@ Section 1602(v) of title 15, referred to in par. (9), was redesignated section 1
 
 <b>2010</b>—Pub. L. 111–203, §1100(4)(A), redesignated pars. (2) to (12) as (3) to (13), respectively.
 
-Par. (1). Pub. L. 111–203, §1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The term 'Federal banking agencies' means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation."
+Par. (1). Pub. L. 111–203, §1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, textread as follows: "The term 'Federal banking agencies' means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation."
 
 Par. (2). Pub. L. 111–203, §1100(4)(B), added par. (2). Former par. (2) redesignated (3).
 

@@ -18,7 +18,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) in the case of costs that are not determinable under subparagraph (A), an amount per full-time equivalent employee authorized under paragraphs (1) and (2) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
 
-&emsp;(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of eachState fish and game department and the use of funds under section 777e of this title by each State fish and game department;
+&emsp;(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under section 777e of this title by each State fish and game department;
 
 &emsp;(7) costs of audits under subsection (d);
 
@@ -30,7 +30,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) administer grants under section 777e or 777m of this title;
 
-&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel whoadminister this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 &emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
 

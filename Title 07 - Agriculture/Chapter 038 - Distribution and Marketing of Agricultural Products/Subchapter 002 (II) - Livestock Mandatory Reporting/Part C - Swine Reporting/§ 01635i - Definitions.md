@@ -8,7 +8,7 @@ In this part:
 
 &emsp;&emsp;(A) a person that directly or indirectly owns, controls, or holds with power to vote, 5 percent or more of the outstanding voting securities of the packer;
 
-&emsp;&emsp;(B) a person 5 percent or more of whose outstanding voting securities are directly orindirectly owned, controlled, or held with power to vote, by the packer; and
+&emsp;&emsp;(B) a person 5 percent or more of whose outstanding voting securities are directly or indirectly owned, controlled, or held with power to vote, by the packer; and
 
 &emsp;&emsp;(C) a person that directly or indirectly controls, or is controlled by or under common control with, the packer.
 
@@ -66,7 +66,7 @@ In this part:
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term "other market formula purchase" includes a formula purchase in a case in which the price formula is based on one or more futures or options contracts.
+&emsp;&emsp;The term "other market formula purchase" includes a formula purchase in a casein which the price formula is based on one or more futures or options contracts.
 
 #### (12) Other purchase arrangement
 

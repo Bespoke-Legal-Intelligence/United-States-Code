@@ -94,7 +94,7 @@ Inclusion in other plans.—Each regionally significant tribal transportation pr
 
 &emsp;(4)
 
-Inclusion in state programs.—The approved tribal transportation program, Federal lands transportation program, and Federal lands access program transportation improvement programs shall be included in appropriate State and metropolitan planning organization plans and programs without further action on the transportation improvement program.
+Inclusion in state programs.—The approved tribal transportation program, Federallands transportation program, and Federal lands access program transportation improvement programs shall be included in appropriate State and metropolitan planning organization plans and programs without further action on the transportation improvement program.
 
 &emsp;(5)
 
@@ -114,7 +114,7 @@ In general.—The Secretaries of the appropriate Federal land management agencie
 
 &emsp;&emsp;&emsp;(ii)
 
-Requirement.—Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+Requirement.—Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -194,7 +194,7 @@ Credit.—The funds described in paragraph (1) shall be credited back to the loa
 
 The date of enactment of this section and the date of enactment of this paragraph, referred to in subsec. (b)(4)(A), (5), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -305,4 +305,6 @@ Non-federal share.—Notwithstanding any other provision of law, any Federal fun
 "(h)
 
 Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2016 through 2020. Such sums shall remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

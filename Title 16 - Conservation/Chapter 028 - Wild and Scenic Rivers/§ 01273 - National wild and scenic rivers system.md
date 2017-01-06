@@ -14,7 +14,7 @@ A wild, scenic or recreational river area eligible to be included in the system 
 
 &emsp;(3) Recreational river areas—Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that may have undergone some impoundment or diversion in the past.
 
-(Pub. L. 90–542, §2, Oct. 2, 1968, 82 Stat. 906; Pub. L. 94–407, §1(1), Sept. 11, 1976, 90 Stat. 1238; Pub.L. 95–625, title VII, §761, Nov. 10, 1978, 92 Stat. 3533; Pub. L. 113–287, §5(d)(29), Dec. 19, 2014, 128 Stat. 3267.)
+(Pub. L. 90–542, §2, Oct. 2, 1968, 82 Stat. 906; Pub. L. 94–407, §1(1), Sept. 11, 1976, 90 Stat. 1238; Pub. L. 95–625, title VII, §761, Nov. 10, 1978, 92 Stat. 3533; Pub. L. 113–287, §5(d)(29), Dec. 19, 2014, 128 Stat. 3267.)
 
 #### Amendments
 

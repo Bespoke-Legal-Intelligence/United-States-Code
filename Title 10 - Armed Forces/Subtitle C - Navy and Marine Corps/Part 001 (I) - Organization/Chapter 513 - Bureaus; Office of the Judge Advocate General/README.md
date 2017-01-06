@@ -4,15 +4,14 @@
 | :--- | ---: |
 | [5131\.](%C2%A7%2005131%20-%20Bureaus%20names%3B%20location.md) | Bureaus: names; location. |
 | [5132\.](%C2%A7%2005132%20-%20Bureaus%20distribution%20of%20business%3B%20orders%3B%20records%3B%20expenses.md) | Bureaus: distribution of business; orders; records; expenses. |
-| [5133\.](%C2%A7%2005133%20-%20Bureau%20Chiefs%20rank%3B%20pay%20and%20allowances%3B%20retirement.md) | Bureau Chiefs: rank; pay and allowances; retirement. |
-| \[5134. | Repealed.\] |
+| \[5133, 5134. | Repealed.\] |
 | [5135\.](%C2%A7%2005135%20-%20Bureau%20Chiefs%20succession%20to%20duties.md) | Bureau Chiefs: succession to duties. |
 | \[5136. | Repealed.\] |
-| [5137\.](%C2%A7%2005137%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Chief%3B%20Deputy%20Chief.md) | Bureau of Medicine and Surgery: Chief; Deputy Chief. |
+| [5137\.](%C2%A7%2005137%20-%20Surgeon%20General%20appointment%3B%20duties.md) | Surgeon General: appointment; duties. |
 | [5138\.](%C2%A7%2005138%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Dental%20Corps%3B%20Chief%3B%20functions.md) | Bureau of Medicine and Surgery: Dental Corps; Chief; functions. |
 | [5139\.](%C2%A7%2005139%20-%20Appointment%20of%20chiropractors%20in%20the%20Medical%20Service%20Corps.md) | Appointment of chiropractors in the Medical Service Corps. |
 | \[5140. | Repealed.\] |
-| [5141\.](%C2%A7%2005141%20-%20Bureau%20of%20Naval%20Personnel%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md) | Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel. |
+| [5141\.](%C2%A7%2005141%20-%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md) | Chief of Naval Personnel; Deputy Chief of Naval Personnel. |
 | [5142\.](%C2%A7%2005142%20-%20Chaplain%20Corps%20and%20Chief%20of%20Chaplains.md) | Chaplain Corps and Chief of Chaplains. |
 | [5142a.](%C2%A7%2005142a%20-%20Deputy%20Chief%20of%20Chaplains.md) | Deputy Chief of Chaplains. |
 | [5143\.](%C2%A7%2005143%20-%20Office%20of%20Navy%20Reserve%20appointment%20of%20Chief.md) | Office of Navy Reserve: appointment of Chief. |
@@ -28,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(z)(2), (bb)(3), title VII, §702(b)(2)(B), Dec. 23, 2016, 130 Stat. 2105, 2196, substituted "Surgeon General: appointment; duties" for "Bureau of Medicine and Surgery: Chief; Deputy Chief" in item 5137 and "Chief of Naval Personnel; Deputy Chief of Naval Personnel" for "Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel" in item 5141 and struck out item 5133 "Bureau Chiefs: rank; pay and allowances; retirement".
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §593(d)(2), Oct. 17, 2006, 120 Stat. 2235, substituted "Corps" for "Division" in item 5138.
 
@@ -58,15 +59,15 @@ Pub. L. 96–343, §11(b), Sept. 8, 1980, 94 Stat. 1130, substituted "Chaplain C
 
 - [&sect; 05131 - Bureaus names; location](%C2%A7%2005131%20-%20Bureaus%20names%3B%20location.md)
 - [&sect; 05132 - Bureaus distribution of business; orders; records; expenses](%C2%A7%2005132%20-%20Bureaus%20distribution%20of%20business%3B%20orders%3B%20records%3B%20expenses.md)
-- [&sect; 05133 - Bureau Chiefs rank; pay and allowances; retirement](%C2%A7%2005133%20-%20Bureau%20Chiefs%20rank%3B%20pay%20and%20allowances%3B%20retirement.md)
+- [&sect; 05133 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(z)(1), Dec. 23, 2016, 130 Stat. 2104](%C2%A7%2005133%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28z%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202104.md)
 - [&sect; 05134 - Repealed. Pub. L. 87&#8211;649, &sect;14c(16), Sept. 7, 1962, 76 Stat. 501](%C2%A7%2005134%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714c%2816%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20501.md)
 - [&sect; 05135 - Bureau Chiefs succession to duties](%C2%A7%2005135%20-%20Bureau%20Chiefs%20succession%20to%20duties.md)
 - [&sect; 05136 - Repealed. Pub. L. 86&#8211;174, &sect;2(3), Aug. 18, 1959, 73 Stat. 396](%C2%A7%2005136%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93174%2C%20%C2%A72%283%29%2C%20Aug.%2018%2C%201959%2C%2073%20Stat.%20396.md)
-- [&sect; 05137 - Bureau of Medicine and Surgery Chief; Deputy Chief](%C2%A7%2005137%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Chief%3B%20Deputy%20Chief.md)
+- [&sect; 05137 - Surgeon General appointment; duties](%C2%A7%2005137%20-%20Surgeon%20General%20appointment%3B%20duties.md)
 - [&sect; 05138 - Bureau of Medicine and Surgery Dental Corps; Chief; functions](%C2%A7%2005138%20-%20Bureau%20of%20Medicine%20and%20Surgery%20Dental%20Corps%3B%20Chief%3B%20functions.md)
 - [&sect; 05139 - Appointment of chiropractors in the Medical Service Corps](%C2%A7%2005139%20-%20Appointment%20of%20chiropractors%20in%20the%20Medical%20Service%20Corps.md)
 - [&sect; 05140 - Repealed. Pub. L. 96&#8211;513, title III, &sect;352(a), Dec. 12, 1980, 94 Stat. 2902](%C2%A7%2005140%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7352%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202902.md)
-- [&sect; 05141 - Bureau of Naval Personnel Chief of Naval Personnel; Deputy Chief of Naval Personnel](%C2%A7%2005141%20-%20Bureau%20of%20Naval%20Personnel%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md)
+- [&sect; 05141 - Chief of Naval Personnel; Deputy Chief of Naval Personnel](%C2%A7%2005141%20-%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md)
 - [&sect; 05142 - Chaplain Corps and Chief of Chaplains](%C2%A7%2005142%20-%20Chaplain%20Corps%20and%20Chief%20of%20Chaplains.md)
 - [&sect; 05142a - Deputy Chief of Chaplains](%C2%A7%2005142a%20-%20Deputy%20Chief%20of%20Chaplains.md)
 - [&sect; 05143 - Office of Navy Reserve appointment of Chief](%C2%A7%2005143%20-%20Office%20of%20Navy%20Reserve%20appointment%20of%20Chief.md)

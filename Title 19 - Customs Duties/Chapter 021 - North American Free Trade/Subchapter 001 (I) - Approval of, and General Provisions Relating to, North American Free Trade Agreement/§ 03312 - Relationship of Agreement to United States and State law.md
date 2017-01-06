@@ -48,7 +48,7 @@
 
 #### (2) Legal challenge
 
-&emsp;No State law, or the application thereof, may be declared invalid as to any person orcircumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (3) "State law" defined
 

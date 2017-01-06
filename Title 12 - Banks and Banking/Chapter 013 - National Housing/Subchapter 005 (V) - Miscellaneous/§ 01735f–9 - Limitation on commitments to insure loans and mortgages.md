@@ -30,5 +30,5 @@ Section effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as a
 
 #### Authorization To Enter Into Additional Commitments To Insure Loans and Mortgages During Fiscal Year 1986
 
-For increase in the applicable limitation on additional commitments to insure mortgages and loans tocarry out this chapter during fiscal year 1986, see Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 728; Pub. L. 99–345, §2, June 24, 1986, 100 Stat. 673; and Pub. L. 99–289, May 2, 1986, 100 Stat. 412, set out as notes under section 1721 of this title.
+For increase in the applicable limitation on additional commitments to insure mortgages and loans to carry out this chapter during fiscal year 1986, see Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 728; Pub. L. 99–345, §2, June 24, 1986, 100 Stat. 673; and Pub. L. 99–289, May 2, 1986, 100 Stat. 412, set out as notes under section 1721 of this title.
 

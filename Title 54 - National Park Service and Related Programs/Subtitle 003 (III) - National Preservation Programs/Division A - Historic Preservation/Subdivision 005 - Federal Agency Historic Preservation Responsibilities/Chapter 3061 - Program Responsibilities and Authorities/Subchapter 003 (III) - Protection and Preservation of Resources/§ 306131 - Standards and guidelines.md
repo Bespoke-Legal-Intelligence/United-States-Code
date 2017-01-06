@@ -20,7 +20,7 @@ Considerations.—The standards referred to in paragraph (1)(B) shall consider t
 
 &emsp;(3)
 
-Revision.—The Office of Management and Budget shall revise qualification standards for the disciplines involved.
+Revision.—The Office of Personnel Management shall revise qualification standards for the disciplines involved.
 
 (b)
 
@@ -42,7 +42,7 @@ Guidelines.—To promote the preservation of historic property eligible for list
 
 &emsp;&emsp;(D) prior to excavating or disposing of a Native American cultural item in which an Indian tribe or Native Hawaiian organization may have an interest under subparagraph (B) or (C) of section 3(a)(2) of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3002(a)(2)(B), (C)), give notice to and consult with the Indian tribe or Native Hawaiian organization.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3229.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3229; Pub. L. 114–289, title VI, §601(f), Dec. 16, 2016, 130 Stat. 1491.)
 
 Historical and Revision Notes
 
@@ -65,4 +65,8 @@ In subparagraphs (A) and (B) of subsection (a)(1), the words "the disciplines in
 In subsection (a)(3), the words "within 2 years after October 20, 1992" are omitted as obsolete.
 
 In subsection (b)(1), the word "property" is substituted for "resources" for consistency because the defined term in the new division is "property".
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–289 substituted "Office of Personnel Management" for "Office of Management and Budget".
 

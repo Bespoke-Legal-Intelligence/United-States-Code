@@ -22,7 +22,7 @@ A provider of telecommunications service shall ensure that the service is access
 
 #### (d) Compatibility
 
-Whenever the requirements of subsections (b) and (c) of this section are not readily achievable, such a manufacturer or provider shall ensure that the equipment or service is compatible with existing peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access, if readily achievable.
+Whenever the requirements of subsections (b) and (c) are not readily achievable, such a manufacturer or provider shall ensure that the equipment or service is compatible with existing peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access, if readily achievable.
 
 #### (e) Guidelines
 
@@ -30,7 +30,7 @@ Within 18 months after February 8, 1996, the Architectural and Transportation Ba
 
 #### (f) No additional private rights authorized
 
-Nothing in this section shall be construed to authorize any private right of action to enforceany requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
+Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
 (June 19, 1934, ch. 652, title II, §255, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 75.)
 

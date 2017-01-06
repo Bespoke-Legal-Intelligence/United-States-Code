@@ -18,7 +18,7 @@ In this section—
 
 #### (b) General duties
 
-In order to accelerate the development, stockpiling, approval, licensure, and clearance ofqualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—
+In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—
 
 &emsp;(1) ensure the appropriate involvement of Food and Drug Administration personnel in interagency activities related to countermeasure advanced research and development, consistent with sections 247d–6, 247d–6a, 247d–6b, 247d–6d, 247d–7e, and 300hh–10 of title 42;
 
@@ -74,7 +74,7 @@ In order to accelerate the development, stockpiling, approval, licensure, and cl
 
 #### (1) Material threat
 
-&emsp;When evaluating an application or submission for approval, licensure, or clearance of a countermeasure, the Secretary shall take into account the material threat posed by the chemical, biological, radiological, or nuclearagent or agents identified under section 247d–6b of title 42 for which the countermeasure under review is intended.
+&emsp;When evaluating an application or submission for approval, licensure, or clearance of a countermeasure, the Secretary shall take into account the material threat posed by the chemical, biological, radiological, or nuclear agent or agents identified under section 247d–6b of title 42 for which the countermeasure under review is intended.
 
 #### (2) Review expertise
 
@@ -180,7 +180,7 @@ Not later than 180 days after March 13, 2013, and annually thereafter, the Secre
 
 &emsp;&emsp;(A) sponsors of a countermeasure as defined in subsection (a); or
 
-&emsp;&emsp;(B) another agency engaged in development or management of portfolios for such countermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
+&emsp;&emsp;(B) another agency engaged in development or management of portfolios for suchcountermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
 
 (June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190.)
 
@@ -199,4 +199,28 @@ Subsecs. (c) to (e). Pub. L. 113–5, §304(3), added subsecs. (c) to (e).
 Subsec. (f). Pub. L. 113–5, §305, added subsec. (f).
 
 Subsec. (g). Pub. L. 113–5, §306, added subsec. (g).
+
+#### Predictable Review Timelines of Vaccines by the Advisory Committee on Immunization Practices
+
+Pub. L. 114–255, div. A, title III, §3091, Dec. 13, 2016, 130 Stat. 1149, provided that:
+
+"(a)
+
+Consideration of New Vaccines.—Upon the licensure of any vaccine or any new indication for a vaccine, the Advisory Committee on Immunization Practices (in this section referred to as the 'Advisory Committee') shall, as appropriate, consider the use of the vaccine at its next regularly scheduled meeting.
+
+"(b)
+
+Additional Information.—If the Advisory Committee does not make a recommendation with respect to the use of a vaccine at the Advisory Committee's first regularly scheduled meeting after the licensure of the vaccine or any new indication for the vaccine, the Advisory Committee shall provide an update on the status of such committee's review.
+
+"(c)
+
+Consideration for Breakthrough Therapies and for Potential Use During Public Health Emergency.—The Advisory Committee shall make recommendations with respect to the use of certain vaccines in a timely manner, as appropriate, including vaccines that—
+
+&emsp;"(1) are designated as a breakthrough therapy under section 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356) and licensed under section 351 of the Public Health Service Act (42 U.S.C. 262); or
+
+&emsp;"(2) could be used in a public health emergency.
+
+"(d)
+
+Definition.—In this section, the terms 'Advisory Committee on Immunization Practices' and 'Advisory Committee' mean the Advisory Committee on Immunization Practices established by the Secretary pursuant to section 222 of the Public Health Service Act (42 U.S.C. 217a), acting through the Director of the Centers for Disease Control and Prevention."
 

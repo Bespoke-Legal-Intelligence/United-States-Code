@@ -88,7 +88,7 @@ Unemployment compensation defined.—For purposes of this subsection, the term '
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 103(d) ofPub. L. 97–34, set out as a note under section 62 of this title.
+Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 103(d) of Pub. L. 97–34, set out as a note under section 62 of this title.
 
 #### Effective Date
 
@@ -96,5 +96,5 @@ Pub. L. 95–600, title I, §112(d), Nov. 6, 1978, 92 Stat. 2778, as amended by 
 
 #### Waiver of Statute of Limitations
 
-Pub. L. 98–369, div. A, title X, §1075(b), July 18, 1984, 98 Stat. 1053, provided that: "If credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) \[amending section 112(d) of Pub. L. 95–600, set out as an Effective Date note above\] is barred on the date of the enactment of this Act \[July 18, 1984\] or at any time during the 1-year period beginning on the date of the enactment of this Act by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period."
+Pub. L. 98–369, div. A, title X, §1075(b), July 18, 1984, 98 Stat. 1053, provided that: "If credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) \[amending section 112(d) of Pub. L. 95–600, set out as an Effective Date note above\] isbarred on the date of the enactment of this Act \[July 18, 1984\] or at any time during the 1-year period beginning on the date of the enactment of this Act by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period."
 

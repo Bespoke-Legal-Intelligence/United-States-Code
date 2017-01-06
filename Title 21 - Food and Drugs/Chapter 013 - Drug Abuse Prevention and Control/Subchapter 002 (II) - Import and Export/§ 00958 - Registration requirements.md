@@ -10,7 +10,7 @@ Registration granted under this section shall not entitle a registrant to import
 
 #### (c) Applicants to import controlled substances in schedule III, IV, or V or to export controlled substances in schedule III or IV; applicants to import or export list I chemicals
 
-(1) The Attorney General shall register an applicant to import a controlled substance inschedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of section 823(d) of this title shall be considered.
+(1) The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of section 823(d) of this title shall be considered.
 
 (2)(A) The Attorney General shall register an applicant to import or export a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the import or export of a drug product that is exempted under section 802(39)(A)(iv) of this title.
 
@@ -18,9 +18,9 @@ Registration granted under this section shall not entitle a registrant to import
 
 #### (d) Denial of application
 
-(1) The Attorney General may deny an application for registration under subsection (a) of this section if he is unable to determine that such registration is consistent with the public interest (as defined in subsection (a) of this section) and with the United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971.
+(1) The Attorney General may deny an application for registration under subsection (a) if he is unable to determine that such registration is consistent with the public interest (as defined in subsection (a)) and with the United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971.
 
-(2) The Attorney General may deny an application for registration under subsection (c) of this section, or revoke or suspend a registration under subsection (a) or (c) of this section, if he determines that such registration is inconsistent with the public interest (as defined in subsection (a) or (c) of this section) or with the United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971.
+(2) The Attorney General may deny an application for registration under subsection (c), or revoke or suspend a registration under subsection (a) or (c), if he determines that such registration is inconsistent with the public interest (as defined in subsection (a) or (c)) or with the United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971.
 
 (3) The Attorney General may limit the revocation or suspension of a registration to the particular controlled substance, or substances, or list I chemical or chemicals, with respect to which grounds for revocation or suspension exist.
 
@@ -40,7 +40,7 @@ The Attorney General is authorized to promulgate rules and regulations and to ch
 
 #### (g) Scope of authorized activity
 
-Persons registered by the Attorney General under this section to import or export controlled substances or list I chemicals may import or export (and for the purpose of so importing or exporting, may possess) such substances to the extent authorized by their registration and in conformity with the other provisions of this subchapter and subchapter I of this chapter.
+Persons registered by the Attorney General under this section to import or export controlled substances or list I chemicals may import or export (and for the purpose of so importing or exporting, may possess) such substances to the extent authorized by their registration and in conformity with the other provisions of this subchapter and subchapter I.
 
 #### (h) Separate registrations for each principal place of business
 
@@ -50,7 +50,7 @@ A separate registration shall be required at each principal place of business wh
 
 Except in emergency situations as described in section 952(a)(2)(A) of this title, prior to issuing a registration under this section to a bulk manufacturer of a controlled substance in schedule I or II, and prior to issuing a regulation under section 952(a) of this title authorizing the importation of such a substance, the Attorney General shall give manufacturers holding registrations for the bulk manufacture of the substance an opportunity for a hearing.
 
-(Pub. L. 91–513, title III, §1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§524, 525, Oct.12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, §1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, §3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, §633(c), Dec. 8, 2004, 118 Stat. 2922.)
+(Pub. L. 91–513, title III, §1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, §1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, §3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, §633(c), Dec. 8, 2004, 118 Stat. 2922.)
 
 #### References in Text
 

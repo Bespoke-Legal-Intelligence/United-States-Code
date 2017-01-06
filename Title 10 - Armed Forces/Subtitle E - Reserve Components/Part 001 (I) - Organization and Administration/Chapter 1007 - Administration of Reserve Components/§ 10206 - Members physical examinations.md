@@ -2,7 +2,7 @@
 
 (a) Each member of the Selected Reserve who is not on active duty shall—
 
-&emsp;(1) have a comprehensive medical readiness health and dental assessment on an annual basis, including routine annual preventive health care screening and periodic comprehensive physical examinations in accordance with regulations prescribed by the Secretary of Defense that reflect morbidity and mortality risks associated with the military service, age, and gender of the member; and
+&emsp;(1) have a comprehensive medical readiness health and dental assessment on an annual basis, including routine annual preventivehealth care screening and periodic comprehensive physical examinations in accordance with regulations prescribed by the Secretary of Defense that reflect morbidity and mortality risks associated with the military service, age, and gender of the member; and
 
 &emsp;(2) execute and submit to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties.
 
@@ -41,4 +41,8 @@ Subsec. (b). Pub. L. 107–107, §516(a)(4), added subsec. (b). Former subsec. (
 Subsec. (c). Pub. L. 107–107, §516(a)(2), redesignated concluding provisions of subsec. (a) as (c).
 
 Subsec. (d). Pub. L. 107–107, §516(a)(3), redesignated subsec. (b) as (d).
+
+#### Effective Date
+
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

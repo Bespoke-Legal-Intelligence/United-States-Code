@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;<i>(ii)</i>
 
-<i>Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a person who experiences a hardship as determined by the Secretary concerned.</i>
+<i>Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a person who experi</i><i>ences a hardship as determined by the Secretary concerned.</i>
 
 &emsp;&emsp;&emsp;<i>(iii)</i>
 

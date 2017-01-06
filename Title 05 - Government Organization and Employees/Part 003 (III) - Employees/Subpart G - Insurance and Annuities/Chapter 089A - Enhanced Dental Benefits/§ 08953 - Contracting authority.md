@@ -1,6 +1,6 @@
 ### §8953. Contracting authority
 
-(a)(1) The Office shall contract with a reasonable number of qualified companies for a policy or policies of benefits described under section 8954 without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding. An employee organization may contract with a qualified company for the purpose of participating with that qualified company in any contract between the Office and that qualified company.
+(a)(1) The Office shall contract with a reasonable number of qualified companies for a policy or policies of benefits described under section 8954 without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding. An employee organization maycontract with a qualified company for the purpose of participating with that qualified company in any contract between the Office and that qualified company.
 
 (2) The Office shall ensure that each resulting contract is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
@@ -45,6 +45,10 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
+
+#### Effective Date
+
+Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

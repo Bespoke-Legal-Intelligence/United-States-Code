@@ -1,0 +1,6 @@
+### §591. Omitted
+
+#### Codification
+
+Section, act June 8, 1940, ch. 285, §1, 54 Stat. 254, which related to reservation of Chippewa National Forest lands for the Minnesota Chippewa Tribe, was omitted from the Code as being of special and not general application.
+

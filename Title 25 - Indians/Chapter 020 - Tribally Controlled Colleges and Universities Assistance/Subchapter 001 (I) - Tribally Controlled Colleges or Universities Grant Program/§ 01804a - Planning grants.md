@@ -10,7 +10,7 @@ The Secretary shall establish, by regulation, procedures for the submission and 
 
 #### (c) Reservation of funds; number of grants
 
-From the amount appropriated to carry out this subchapter for any fiscal year (exclusive of sums appropriated for section 1805 of this title), the Secretary shall reserve (and expend) an amount necessary to make grants to five applicants under this section of not more than $15,000 each, or an amount necessary to make grants in that amount to each of the approved applicants, if less than five apply and are approved.
+From the amount appropriated to carry out this subchapter for any fiscal year (exclusive of sums appropriated for section 1805 of this title), the Secretary shall reserve (and expend) anamount necessary to make grants to five applicants under this section of not more than $15,000 each, or an amount necessary to make grants in that amount to each of the approved applicants, if less than five apply and are approved.
 
 (Pub. L. 95–471, title I, §104, as added Pub. L. 98–192, §4(a)(2), Dec. 1, 1983, 97 Stat. 1336; amended Pub. L. 105–244, title IX, §901(b)(6), (8), Oct. 7, 1998, 112 Stat. 1828.)
 

@@ -14,7 +14,7 @@ For purposes of this Act:
 
 &emsp;&emsp;(A) by cooperative agreement between the United States Fish and Wildlife Service and a State agency having control over wildlife resources pursuant to section 664 of this title; or
 
-&emsp;&emsp;(B) by long-term leases or agreements pursuant to title III of the Bankhead-JonesFarm Tenant Act (50 Stat. 525; 7 U.S.C. 1010 et seq.).
+&emsp;&emsp;(B) by long-term leases or agreements pursuant to title III of the Bankhead-Jones Farm Tenant Act (50 Stat. 525; 7 U.S.C. 1010 et seq.).
 
 &emsp;(6) The term "Director" means the Director of the United States Fish and Wildlife Service or a designee of that Director.
 
@@ -40,7 +40,7 @@ For purposes of this Act:
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enactedsections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
 The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
 

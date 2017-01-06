@@ -50,13 +50,13 @@
 
 &emsp;&emsp;(C) a member of the Honorary Reserve of the Officers' Reserve Corps or the Organized Reserve Corps.
 
-> Except for any period of active service described in clause (1) and except as provided by subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a of title 10, a period of service described in clauses (2) through (7) that is performed while on a retired list, in a retired status, or in the Fleet Reserve or Fleet Marine Corps Reserve, may not be included to increase retired pay, retirement pay, or retainer pay. For the purpose of clause (5), periods during which a member was a deck officer or junior engineer in the National Oceanic and Atmospheric Administration includes periods during which a member was a deck officer or junior engineer in the Environmental Science Services Administration or the Coast and Geodetic Survey.
+> Except for any period of active service described in clause (1) and except as provided by subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a of title10, a period of service described in clauses (2) through (7) that is performed while on a retired list, in a retired status, or in the Fleet Reserve or Fleet Marine Corps Reserve, may not be included to increase retired pay, retirement pay, or retainer pay. For the purpose of clause (5), periods during which a member was a deck officer or junior engineer in the National Oceanic and Atmospheric Administration includes periods during which a member was a deck officer or junior engineer in the Environmental Science Services Administration or the Coast and Geodetic Survey.
 
 (b) A period of time may not be counted more than once under subsection (a).
 
 (c) The periods of service authorized to be counted under subsection (a) shall, under regulations prescribed by the Secretary concerned, include service performed by a member of a uniformed service before he became 18 years of age.
 
-(d) Notwithstanding subsection (a), a commissioned officer may not count in computing basicpay a period of service after October 13, 1964, that the officer performed concurrently as a member of the Senior Reserve Officers' Training Corps, except for service that the officer performed on or after August 1, 1979, other than for training as an enlisted member of the Selected Reserve may be so counted.
+(d) Notwithstanding subsection (a), a commissioned officer may not count in computing basic pay a period of service after October 13, 1964, that the officer performed concurrently as a member of the Senior Reserve Officers' Training Corps, except for service that the officer performed on or after August 1, 1979, other than for training as an enlisted member of the Selected Reserve may be so counted.
 
 (e)(1) Notwithstanding subsection (a), a period of service described in paragraph (2) of a member who enlists in a reserve component may not be counted under this section.
 
@@ -196,5 +196,5 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly §625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly §625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 

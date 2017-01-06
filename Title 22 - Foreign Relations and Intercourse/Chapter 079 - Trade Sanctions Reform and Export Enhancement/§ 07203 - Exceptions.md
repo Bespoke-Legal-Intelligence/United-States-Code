@@ -12,7 +12,7 @@ Section 7202 of this title shall not affect any authority or requirement to impo
 
 &emsp;&emsp;(D) where imminent involvement by the Armed Forces of the United States in hostilities against the country or entity is clearly indicated by the circumstances; or
 
-&emsp;(2) to the extent that the sanction would prohibit, restrict, or condition the provisionor use of any agricultural commodity, medicine, or medical device that is—
+&emsp;(2) to the extent that the sanction would prohibit, restrict, or condition the provision or use of any agricultural commodity, medicine, or medical device that is—
 
 &emsp;&emsp;(A) controlled on the United States Munitions List established under section 2778 of this title;
 

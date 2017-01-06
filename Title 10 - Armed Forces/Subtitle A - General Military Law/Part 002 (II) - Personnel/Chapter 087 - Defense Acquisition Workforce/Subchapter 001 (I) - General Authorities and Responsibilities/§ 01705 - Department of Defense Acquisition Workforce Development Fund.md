@@ -32,7 +32,7 @@ Credits to the fund.—(A) There shall be credited to the Fund an amount equal t
 
 &emsp;(B) Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
 
-&emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund of $500,000,000 in each fiscal year.
+&emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund of $500,000,000 in such fiscal year.
 
 &emsp;(D) The Secretary of Defense may reduce the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than $400,000,000.
 
@@ -52,7 +52,7 @@ Availability of Funds.—
 
 &emsp;(1)
 
-In general.—Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department. In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
+In general.—Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
 
 &emsp;(2)
 
@@ -78,7 +78,13 @@ Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logi
 
 &emsp;(4)
 
-Limitation on payments to or for contractors.—Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purpose of providing advanced training to Department of Defense employees.
+Limitation on payments to or for contractors.—Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purposes of—
+
+&emsp;&emsp;(A) providing advanced training to Department of Defense employees;
+
+&emsp;&emsp;(B) developing acquisition tools and methodologies and performing research on acquisition policies and best practices that will improve the efficiency and effectiveness of defense acquisition efforts; and
+
+&emsp;&emsp;(C) supporting human capital and talent management of the acquisition workforce, including benchmarking studies, assessments, and requirements planning.
 
 &emsp;(5)
 
@@ -90,23 +96,13 @@ Duration of availability.—Amounts credited to the Fund in accordance with subs
 
 (f)
 
-Annual Report.—Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
-
-&emsp;(1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
-
-&emsp;(2) A description of the expenditures made from the Fund (including expenditures following a transfer of amounts in the Fund to a military department or Defense Agency) in such fiscal year, including the purpose of such expenditures.
-
-&emsp;(3) A description and assessment of improvements in the Department of Defense acquisition workforce resulting from such expenditures.
-
-&emsp;(4) Recommendations for additional authorities to fulfill the purpose of the Fund.
-
-&emsp;(5) A statement of the balance remaining in the Fund at the end of such fiscal year.
+Annual Report.—Not later than February 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during the preceding fiscal year.
 
 (g)
 
 Expedited Hiring Authority.—For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
-&emsp;(1) designate any category of of <sup>1</sup> positions in the acquisition workforce, as defined in subsection (h), as positions for which there exists a shortage of candidates or there is a critical hiring need; and
+&emsp;(1) designate any category of positions in the acquisition workforce as positions for which there exists a shortage of candidates or there is a critical hiring need; and
 
 &emsp;(2) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
 
@@ -122,13 +118,35 @@ Acquisition Workforce Defined.—In this section, the term "acquisition workforc
 
 &emsp;&emsp;(B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
-(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, titleVIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a), Nov. 25, 2015, 129 Stat. 913.)
+(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a), Nov. 25, 2015, 129 Stat. 913; Pub. L. 114–328, div. A, title VIII, §863(a), (b), title X, §1081(a)(5), Dec. 23, 2016, 130 Stat. 2302, 2303, 2417.)
 
 #### Prior Provisions
 
 A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639, related to Directors of Acquisition Career Management in the military departments, prior to repeal by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(2)(C). Pub. L. 114–328, §863(b)(1), substituted "in such" for "in each".
+
+Subsec. (e)(1). Pub. L. 114–328, §863(a)(1)(A), inserted "and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts" after "workforce of the Department".
+
+Subsec. (e)(4). Pub. L. 114–328, §863(a)(1)(B), substituted "other than for the purposes of—" for "other than for the purpose of providing advanced training to Department of Defense employees." and added subpars. (A) to (C).
+
+Subsec. (f). Pub. L. 114–328, §863(a)(2), (b)(2), substituted "Not later than February 1 each year" for "Not later than 120 days after the end of each fiscal year" and "the preceding fiscal year" for "such fiscal year" and struck out at end "Each report shall include, for the fiscal year covered by such report, the following:
+
+&emsp;"(1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
+
+&emsp;"(2) A description of the expenditures made from the Fund (including expenditures following a transfer of amounts in the Fund to a military department or Defense Agency) in such fiscal year, including the purpose of such expenditures.
+
+&emsp;"(3) A description and assessment of improvements in the Department of Defense acquisition workforce resulting from such expenditures.
+
+&emsp;"(4) Recommendations for additional authorities to fulfill the purpose of the Fund.
+
+&emsp;"(5) A statement of the balance remaining in the Fund at the end of such fiscal year."
+
+Subsec. (g)(1). Pub. L. 114–328, §863(b)(3)(B), struck out ", as defined in subsection (h)," after "acquisition workforce".
+
+Pub. L. 114–328, §§863(b)(3)(A), 1081(a)(5), amended par. (1) identically, substituting "of positions" for "of of positions".
 
 <b>2015</b>—Subsec. (d)(2)(C). Pub. L. 114–92, §841(a)(1)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) defined the applicable percentage for fiscal years 2013 to 2018.
 
@@ -207,6 +225,4 @@ Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, p
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
 
 Pub. L. 112–239, div. A, title VIII, §803(c), Jan. 2, 2013, 126 Stat. 1825, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop a plan for the implementation of the authority provided by the amendments made by subsection (a) \[amending this section\] with regard to temporary members of the defense acquisition workforce. The plan shall include policy, criteria, and processes for designating temporary members and appropriate safeguards to prevent the abuse of such authority."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

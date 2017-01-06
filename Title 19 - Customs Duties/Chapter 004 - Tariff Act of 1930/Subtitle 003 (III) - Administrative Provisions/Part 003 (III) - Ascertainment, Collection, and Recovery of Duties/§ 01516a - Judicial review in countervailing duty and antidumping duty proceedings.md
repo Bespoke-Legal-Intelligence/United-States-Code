@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (D) Transfer of actions to appropriate court
 
-&emsp;&emsp;Whenever an action is filed in a court under subparagraph (A) or (B) and that court finds that the action should have been filed in the other court, the court in which the action was filed shall transfer the action to the other court and the action shall proceed as if it had been filed in the court to which it is transferred on the date upon which it was actually filed in the court from which it is transferred.
+&emsp;&emsp;Whenever an action is filed in a court under subparagraph (A) or (B) and that court finds that the action should have been filed in the other court, the court in which the action was filed shall transfer the action to theother court and the action shall proceed as if it had been filed in the court to which it is transferred on the date upon which it was actually filed in the court from which it is transferred.
 
 #### (E) Frivolous claims
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (iv) Judicial review
 
-&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States CustomsService under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (6) Injunctive relief
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (10) Notification of class or kind rulings
 
-&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a)and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
 
@@ -512,7 +512,7 @@ Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted "nor 
 
 Subsec. (g)(3)(B). Pub. L. 103–182, §411(4)(E), substituted first two sentences for former sentences which read as follows: "A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) of this section only if the party seeking to commence review has provided timely notice of its intent to commence such review to the United States Secretary, the Canadian Secretary, all interested parties who were parties to the proceeding in connection with which the matter arises, and the administering authority or the Commission, as appropriate. Such notice is provided timely if the notice is delivered by no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) of this section that is applicable to such determination."
 
-Subsec. (g)(4)(A). Pub. L. 103–182, §411(4)(F), inserted "the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or" after "or amendment made by,", a comma before "violates", "only" after "may be brought", and ", which shall have jurisdiction of such action" after "Circuit" and struck out at end "Any action brought under this subparagraph shall be heard and determined by a 3-judge court in accordance with section 2284 of title 28."
+Subsec. (g)(4)(A). Pub. L. 103–182, §411(4)(F), inserted "the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or" after "or amendment made by,", a comma before "violates", "only" after "may be brought", and ", which shall have jurisdiction of such action" after "Circuit" and struck out at end "Any action brought under thissubparagraph shall be heard and determined by a 3-judge court in accordance with section 2284 of title 28."
 
 Subsec. (g)(5). Pub. L. 103–182, §411(4)(G), inserted "of the NAFTA or" after "article 1904" in subpars. (A), (B), and (C)(i), substituted ", the relevant FTA Secretary," for ", the Canadian Secretary," in subpar. (C)(ii), and inserted "of the NAFTA or" after "chapter 19" in subpar. (C)(iii).
 
@@ -590,7 +590,7 @@ Subsec. (e). Pub. L. 96–417, §601(7), redesignated the United States Customs 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
+Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1,1995\], see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
 
 Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
@@ -648,11 +648,11 @@ Certain countervailing and antidumping duty assessments.—The amendments made b
 
 &emsp;"(4)
 
-Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date."
+Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date."
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Effect of Termination of NAFTA Country Status
 

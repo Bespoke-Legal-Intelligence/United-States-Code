@@ -50,13 +50,13 @@ Subsec. (c). Pub. L. 85–791, §6(b), substituted "petition" for "transcript".
 
 Subsec. (d). Pub. L. 85–791, §6(b), struck out "duly certified" after "admitted".
 
-Subsec. (h). Pub. L. 85–791, §6(c), substituted "jurisdiction, which upon the finding of the record with it shall be exclusive," for "exclusive jurisdiction," and section "1254" for "347".
+Subsec. (h). Pub. L. 85–791, §6(c), substituted "jurisdiction, which upon the finding of the record with itshall be exclusive," for "exclusive jurisdiction," and section "1254" for "347".
 
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended May 24, 1949, substituted "court of appeals" for "circuit court of appeals", wherever appearing.
 
-Act of June 7, 1934, provided that Court of Appeals in District of Columbia, should hereafter be known as theUnited States Court of Appeals for the District of Columbia.
+Act of June 7, 1934, provided that Court of Appeals in District of Columbia, should hereafter be known as the United States Court of Appeals for the District of Columbia.
 
 #### Effective Date of 1984 Amendment
 

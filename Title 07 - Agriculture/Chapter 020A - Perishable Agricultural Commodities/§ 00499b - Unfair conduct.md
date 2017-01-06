@@ -2,7 +2,7 @@
 
 It shall be unlawful in or in connection with any transaction in interstate or foreign commerce:
 
-(1) For any commission merchant, dealer, or broker to engage in or use any unfair, unreasonable, discriminatory, or deceptive practice in connection with the weighing, counting, or inany way determining the quantity of any perishable agricultural commodity received, bought, sold, shipped, or handled in interstate or foreign commerce.
+(1) For any commission merchant, dealer, or broker to engage in or use any unfair, unreasonable, discriminatory, or deceptive practice in connection with the weighing, counting, or in any way determining the quantity of any perishable agricultural commodity received, bought, sold, shipped, or handled in interstate or foreign commerce.
 
 (2) For any dealer to reject or fail to deliver in accordance with the terms of the contract without reasonable cause any perishable agricultural commodity bought or sold or contracted to be bought, sold, or consigned in interstate or foreign commerce by such dealer.
 
@@ -18,7 +18,7 @@ It shall be unlawful in or in connection with any transaction in interstate or f
 
 > and pay, in the case of a violation under either clause (A) or (B) of this paragraph, a monetary penalty not to exceed $2,000 in lieu of a formal proceeding for the suspension or revocation of license, any payment so made to be deposited into the Treasury of the United States as miscellaneous receipts. A person other than the first licensee handling misbranded perishable agricultural commodities shall not be held liable for a violation of this paragraph by reason of the conduct of another if the person did not have knowledge of the violation or lacked the ability to correct the violation.
 
-(6) For any commission merchant, dealer, or broker, for a fraudulent purpose, to remove, alter, or tamper with any card, stencil, stamp, tag, or other notice placed upon any container or railroad car containing any perishable agricultural commodity, if such card, stencil, stamp, tag, or other notice contains a certificate or statement under authority of any Federal or State inspector or in compliance with any Federal or State law or regulation as to the grade or quality of the commodity contained in such container or railroad car or the State or country in which such commodity was produced.
+(6) For any commission merchant, dealer, or broker, for a fraudulent purpose, to remove,alter, or tamper with any card, stencil, stamp, tag, or other notice placed upon any container or railroad car containing any perishable agricultural commodity, if such card, stencil, stamp, tag, or other notice contains a certificate or statement under authority of any Federal or State inspector or in compliance with any Federal or State law or regulation as to the grade or quality of the commodity contained in such container or railroad car or the State or country in which such commodity was produced.
 
 (7) For any commission merchant, dealer or broker, without the consent of an inspector, to make, cause, or permit to be made any change by way of substitution or otherwise in the contents of a load or lot of any perishable agricultural commodity after it has been officially inspected for grading and certification, but this shall not prohibit re-sorting and discarding inferior produce.
 

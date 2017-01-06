@@ -16,7 +16,7 @@ The report required by subsection (a) shall include—
 
 &emsp;(4) the total administrative and operating expenses of the Foundation for the year, as well as specific information on—
 
-&emsp;&emsp;(A) the number of Foundation employees and the cost of compensation for Board members, Foundation employees, and personal service contractors;
+&emsp;&emsp;(A) the number of Foundation employees and the cost of compensation for Boardmembers, Foundation employees, and personal service contractors;
 
 &emsp;&emsp;(B) costs associated with securing the use of real property for carrying out the functions of the Foundation;
 

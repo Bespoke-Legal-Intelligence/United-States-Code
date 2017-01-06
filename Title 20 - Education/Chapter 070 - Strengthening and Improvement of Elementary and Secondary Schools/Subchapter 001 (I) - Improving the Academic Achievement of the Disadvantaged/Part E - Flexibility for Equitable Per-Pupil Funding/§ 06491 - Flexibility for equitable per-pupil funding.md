@@ -118,7 +118,7 @@ Each local educational agency with an approved application under subsection (d) 
 
 &emsp;(3) make public the total number of students enrolled in each school served by the agency and the number of students enrolled in each such school disaggregated by each of the subgroups of students, as defined in section 6311(c)(2) of this title; and
 
-&emsp;(4) notwithstanding paragraph (1), (2), or (3), ensure that any information to be reported ormade public under this subsection is only reported or made public if such information does not reveal personally identifiable information.
+&emsp;(4) notwithstanding paragraph (1), (2), or (3), ensure that any information to be reported or made public under this subsection is only reported or made public if such information does not reveal personally identifiable information.
 
 #### (f) Limitations on administrative expenditures
 

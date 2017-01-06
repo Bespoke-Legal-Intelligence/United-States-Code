@@ -24,7 +24,7 @@ Upon application of the Government authority, the customer notice required under
 
 #### (b) Grant of delay order; duration and specifications; extensions; copy of request and notice to customer
 
-(1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[50 U.S.C. 4305(b)\], the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\], or section 287c of title 22, and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
+(1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 4305(b) of title 50, the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\], or section 287c of title 22, and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
 
 (2) Extensions of the delay of notice provided in paragraph (1) of up to ninety days each may be granted by the court upon application, but only in accordance with this subsection.
 
@@ -53,6 +53,10 @@ The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (
 #### Change of Name
 
 In subsec. (a), "magistrate judge" substituted for "magistrate" pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "preceding".</i>
 

@@ -44,7 +44,7 @@ No timber harvest shall be allowed within the scenic area, except as may be nece
 
 #### (f) Fire
 
-Wildfires shall be suppressed in a manner consistent with the purposes of sections 545 and 545aof this title, using such means as the Secretary considers appropriate.
+Wildfires shall be suppressed in a manner consistent with the purposes of sections 545 and 545a of this title, using such means as the Secretary considers appropriate.
 
 #### (g) Insects and disease
 

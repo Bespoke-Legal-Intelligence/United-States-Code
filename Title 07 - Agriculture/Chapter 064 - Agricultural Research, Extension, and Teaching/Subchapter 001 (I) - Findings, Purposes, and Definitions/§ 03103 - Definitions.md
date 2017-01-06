@@ -90,7 +90,7 @@ In general.—The term "Hispanic-serving agricultural colleges and universities"
 
 &emsp;&emsp;&emsp;(ii) that offer associate, bachelors, or other accredited degree programs in agriculture-related fields; and
 
-&emsp;&emsp;&emsp;(iii) with respect to which the Secretary has not received a declaration of the intent of a college or university to not beconsidered a Hispanic-serving agricultural college or university.
+&emsp;&emsp;&emsp;(iii) with respect to which the Secretary has not received a declaration of the intent of a college or university to not be considered a Hispanic-serving agricultural college or university.
 
 &emsp;&emsp;(B)
 
@@ -200,7 +200,7 @@ State.—The term "State" means—
 
 Teaching and education.—The terms "teaching" and "education" mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
 
-(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, §7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, §7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, §4(a), title VII,§7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873.)
+(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, §7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, §7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, §4(a), title VII, §7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873.)
 
 #### References in Text
 

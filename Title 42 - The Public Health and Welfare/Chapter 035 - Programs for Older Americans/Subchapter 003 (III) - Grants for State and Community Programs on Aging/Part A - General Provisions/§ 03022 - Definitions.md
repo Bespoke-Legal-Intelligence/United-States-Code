@@ -22,7 +22,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) an Indian tribal organization.
 
-(Pub. L. 89–73, title III, §302, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1517;amended Pub. L. 97–115, §3(b), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §302, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§136(a)(2), 144(a), 182(b)(2), (e)(1), Nov. 29, 1987, 101 Stat. 943, 948, 964; Pub. L. 102–375, title I, §102(b)(3), title III, §302, Sept. 30, 1992, 106 Stat. 1201, 1220; Pub. L. 103–171, §2(7), Dec. 2, 1993, 107 Stat. 1988; Pub. L. 109–365, title III, §302, Oct. 17, 2006, 120 Stat. 2538.)
+(Pub. L. 89–73, title III, §302, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1517; amended Pub. L. 97–115, §3(b), (d), Dec. 29, 1981, 95 Stat. 1596, 1597; Pub. L. 98–459, title III, §302, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§136(a)(2), 144(a), 182(b)(2), (e)(1), Nov. 29, 1987, 101 Stat. 943, 948, 964; Pub. L. 102–375, title I, §102(b)(3), title III, §302, Sept. 30, 1992, 106 Stat. 1201, 1220; Pub. L. 103–171, §2(7), Dec. 2, 1993, 107 Stat. 1988; Pub. L. 109–365, title III, §302, Oct. 17, 2006, 120 Stat. 2538.)
 
 #### Prior Provisions
 

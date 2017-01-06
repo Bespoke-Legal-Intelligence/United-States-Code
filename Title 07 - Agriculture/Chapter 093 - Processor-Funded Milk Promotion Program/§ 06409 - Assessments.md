@@ -38,7 +38,7 @@ Producer-handlers that are required to pay the assessment imposed under section 
 
 #### (f) Processor assessment rate
 
-Except as provided in section 6415(b) of this title, the rate of assessment prescribed by the order shall be 20 cents per hundredweight of fluid milk products marketed.
+Except as provided in section 6415(b) of this title, the rate of assessment prescribed by theorder shall be 20 cents per hundredweight of fluid milk products marketed.
 
 (Pub. L. 101–624, title XIX, §1999J, Nov. 28, 1990, 104 Stat. 3921; Pub. L. 103–72, §2(b), Aug. 11, 1993, 107 Stat. 717.)
 

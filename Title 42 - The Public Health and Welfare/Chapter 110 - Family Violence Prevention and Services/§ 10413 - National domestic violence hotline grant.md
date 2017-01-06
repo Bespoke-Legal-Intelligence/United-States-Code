@@ -18,7 +18,7 @@ To be eligible to receive a grant under this section, an entity shall submit an 
 
 &emsp;(1) contain such agreements, assurances, and information, be in such form, and be submitted in such manner, as the Secretary shall prescribe;
 
-&emsp;(2) include a complete description of the applicant's plan for the operation of a national domestic violence hotline, including descriptions of—
+&emsp;(2) include a complete description of the applicant's plan for the operation of a nationaldomestic violence hotline, including descriptions of—
 
 &emsp;&emsp;(A) the training program for hotline personnel, including technology training to ensure that all persons affiliated with the hotline are able to effectively operate any technological systems used by the hotline;
 

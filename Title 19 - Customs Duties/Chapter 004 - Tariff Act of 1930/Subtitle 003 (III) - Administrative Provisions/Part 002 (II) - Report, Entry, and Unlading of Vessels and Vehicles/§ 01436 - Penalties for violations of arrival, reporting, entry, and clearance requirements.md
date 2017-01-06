@@ -14,7 +14,7 @@ It is unlawful—
 
 #### (b) Civil penalty
 
-Any master, person in charge of a vehicle, or aircraft pilot who commits any violation listedin subsection (a) is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation, and any conveyance used in connection with any such violation is subject to seizure and forfeiture.
+Any master, person in charge of a vehicle, or aircraft pilot who commits any violation listed in subsection (a) is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation, and any conveyance used in connection with any such violation is subject to seizure and forfeiture.
 
 #### (c) Criminal penalty
 
@@ -58,5 +58,5 @@ Subsec. (a)(2), (3). Pub. L. 103–182, §611(1)(B), (C), amended pars. (2) and 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

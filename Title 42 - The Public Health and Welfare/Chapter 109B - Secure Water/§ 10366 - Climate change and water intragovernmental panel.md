@@ -34,7 +34,7 @@ The panel shall be comprised of—
 
 #### (c) Review elements
 
-In conducting the review and developing the strategy under subsection (a), the panel shall consult with State water resource agencies, the Advisory Committee, drinking water utilities,water research organizations, and relevant water user, environmental, and other nongovernmental organizations—
+In conducting the review and developing the strategy under subsection (a), the panel shall consult with State water resource agencies, the Advisory Committee, drinking water utilities, water research organizations, and relevant water user, environmental, and other nongovernmental organizations—
 
 &emsp;(1) to assess the extent to which the conduct of measures of streamflow, groundwater levels, soil moisture, evapotranspiration rates, evaporation rates, snowpack levels, precipitation amounts, flood risk, and glacier mass is necessary to improve the understanding of the Federal Government and the States with respect to each impact of global climate change on water resources;
 

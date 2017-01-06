@@ -32,7 +32,7 @@
 
 (h) An employee shall not for any purpose be considered to be entitled to a rate of pay established under this section with respect to any period for which such employee is entitled to a higher rate of basic pay under any other provision of law. For purposes of this subsection, the term "basic pay" includes any applicable locality-based comparability payment under section 5304 or similar provision of law.
 
-(i) If an employee who is receiving a rate of pay under this section becomes subject, by virtue of moving to a new official duty station, to a different pay schedule, such employee's new rate of pay shall be initially established under conversion rules prescribed by the Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate) in conformance with the following:
+(i) If an employee who is receiving a rate of pay under this section becomes subject, by virtue of moving to a new official duty station, to a different pay schedule, such employee's new rate of pay shall be initially established under conversion rules prescribed by the Office of Personnel Management (or such other agency as thePresident may under the last sentence of subsection (a)(1) designate) in conformance with the following:
 
 &emsp;(1) First, determine the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move.
 
@@ -104,7 +104,7 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 &emsp;"(1) shall be paid in the same manner and at the same time as the employee's basic pay is paid, but may not be considered to be part of basic pay for any purpose; and
 
-&emsp;"(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect \[see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of this title\], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving."
+&emsp;"(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect \[see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of thistitle\], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving."
 
 \[Authority of President under section 529 \[title II, §209\] of Pub. L. 101–509, set out above, delegated to Office of Personnel Management by Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.\]
 

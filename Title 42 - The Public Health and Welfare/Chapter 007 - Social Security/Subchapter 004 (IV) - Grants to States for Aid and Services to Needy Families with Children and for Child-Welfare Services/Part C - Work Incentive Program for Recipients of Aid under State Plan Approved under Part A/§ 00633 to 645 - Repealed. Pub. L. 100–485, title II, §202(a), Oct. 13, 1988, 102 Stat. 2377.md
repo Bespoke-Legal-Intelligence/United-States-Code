@@ -6,7 +6,7 @@ Section 634, act Aug. 14, 1935, ch. 531, title IV, §434, as added Jan. 2, 1968,
 
 Section 635, act Aug. 14, 1935, ch. 531, title IV, §435, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 887; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(5), 85 Stat. 808, limited Federal assistance.
 
-Section 636, act Aug. 14, 1935, ch. 531, title IV, §436, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 887; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(6), 85 Stat. 808; July 18, 1984, Pub. L. 98–369, div. B, title VI,§2663(j)(2)(B)(iii), 98 Stat. 1170, related to period of enrollment.
+Section 636, act Aug. 14, 1935, ch. 531, title IV, §436, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 887; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(6), 85 Stat. 808; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(B)(iii), 98 Stat. 1170, related to period of enrollment.
 
 Section 637, act Aug. 14, 1935, ch. 531, title IV, §437, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 887, related to relocation of participants.
 

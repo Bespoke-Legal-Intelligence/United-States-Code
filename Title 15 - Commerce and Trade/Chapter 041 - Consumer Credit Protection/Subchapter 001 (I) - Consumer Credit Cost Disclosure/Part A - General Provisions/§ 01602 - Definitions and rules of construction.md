@@ -8,7 +8,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (c) The term "Board" refers to the Board of Governors of the Federal Reserve System.
 
-(d) The term "organization" means a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
+(d) The term "organization" means a corporation, government or governmental subdivisionor agency, trust, estate, partnership, cooperative, or association.
 
 (e) The term "person" means a natural person or an organization.
 
@@ -84,7 +84,7 @@ In general.—The term "high-cost mortgage", and a mortgage referred to in this 
 
 &emsp;&emsp;(B)
 
-Introductory rates taken into account.—For purposes of subparagraph (A)(i),the annual percentage rate of interest shall be determined based on the following interest rate:
+Introductory rates taken into account.—For purposes of subparagraph (A)(i), the annual percentage rate of interest shall be determined based on the following interest rate:
 
 &emsp;&emsp;&emsp;(i) In the case of a fixed-rate transaction in which the annual percentage rate will not vary during the term of the loan, the interest rate in effect on the date of consummation of the transaction.
 
@@ -98,7 +98,7 @@ Mortgage insurance.—For the purposes of computing the total points and fees un
 
 &emsp;&emsp;&emsp;(i) any premium provided by an agency of the Federal Government or an agency of a State;
 
-&emsp;&emsp;&emsp;(ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
+&emsp;&emsp;&emsp;(ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and therefund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
 
 &emsp;&emsp;&emsp;(iii) any premium paid by the consumer after closing.
 
@@ -224,7 +224,7 @@ Servicer.—The term "servicer" has the same meaning as in section 2605(i)(2) of
 
 Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:
 
-&emsp;(1) Up to and including 2 bona fide discount points payable by the consumer in connectionwith the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point—
+&emsp;(1) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point—
 
 &emsp;&emsp;(A) the average prime offer rate, as defined in section 1639c of this title; or
 
@@ -278,7 +278,7 @@ Subsec. (bb)(4)(B). Pub. L. 111–203, §1431(c)(1)(A), which directed amendment
 
 Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
-Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5)and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
+Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
 Subsec. (cc). Pub. L. 111–203, §1401, added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
 
@@ -350,7 +350,7 @@ Pub. L. 96–221, title VI, §625, Mar. 31, 1980, 94 Stat. 185, as amended by Pu
 
 "(b) All regulations, forms, and clauses required to be prescribed under the amendments made by this title shall be promulgated at least one year prior to such effective date.
 
-"(c) Notwithstanding subsections (a) and (b), any creditor may comply with the amendments made bythis title, in accordance with the regulations, forms, and clauses prescribed by the Board, prior to such effective date. Any creditor who elects to comply with such amendments and any assignee of such a creditor shall be subject to the provisions of sections 130 and 131 of the Truth in Lending Act, as amended by sections 615 and 616, respectively, of this title \[sections 1640 and 1641 of this title\]."
+"(c) Notwithstanding subsections (a) and (b), any creditor may comply with the amendments made by this title, in accordance with the regulations, forms, and clauses prescribed by the Board, prior to such effective date. Any creditor who elects to comply with such amendments and any assignee of such a creditor shall be subject to the provisions of sections 130 and 131 of the Truth in Lending Act, as amended by sections 615 and 616, respectively, of this title \[sections 1640 and 1641 of this title\]."
 
 #### Effective Date of 1974 Amendment
 
@@ -364,7 +364,7 @@ Pub. L. 103–325, title I, §155, Sept. 23, 1994, 108 Stat. 2197, provided that
 
 #### Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages
 
-Pub. L. 103–325, title I, §156, Sept. 23, 1994, 108 Stat. 2197, provided that: "This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now 15 U.S.C. 1602(bb)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective."
+Pub. L. 103–325, title I, §156, Sept. 23, 1994, 108 Stat. 2197, provided that: "This subtitle \[subtitle B\(§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now 15 U.S.C. 1602(bb)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (cc) have been enacted.</i>
 

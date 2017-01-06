@@ -1,6 +1,6 @@
 ### §2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
 
-(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of thearmed forces (or a dependent of the member) assigned to or provided military housing on the installation.
+(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation.
 
 (2) The Secretary of Defense shall define by regulation what materials are hazardous or toxic materials for the purposes of this section, including specification of the quantity of a material that serves to make it hazardous or toxic for the purposes of this section. The definition shall include materials referred to in section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(14)) and materials designated under section 102 of that Act (42 U.S.C. 9602) and shall include materials that are of an explosive, flammable, or pyrotechnic nature.
 
@@ -36,7 +36,7 @@
 
 (d)(1) The Secretary may assess a charge for any storage or disposal provided under this section. Any such charge shall be on a reimbursable cost basis.
 
-(2) In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shall cease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
+(2) In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shallcease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
 
 (Added Pub. L. 98–407, title VIII, §805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, §2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, §325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, §343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, §1066(a)(25), Oct. 5, 1999, 113 Stat. 772; Pub. L. 109–364, div. A, title X, §1071(a)(21), Oct. 17, 2006, 120 Stat. 2399.)
 

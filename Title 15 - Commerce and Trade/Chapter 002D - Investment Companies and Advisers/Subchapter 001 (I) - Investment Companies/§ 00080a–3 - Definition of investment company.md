@@ -4,7 +4,7 @@
 
 (1) When used in this subchapter, "investment company" means any issuer which—
 
-&emsp;(A) is or holds itself out as being engaged primarily, or proposes to engage primarily, inthe business of investing, reinvesting, or trading in securities;
+&emsp;(A) is or holds itself out as being engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities;
 
 &emsp;(B) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or
 
@@ -18,7 +18,7 @@ Notwithstanding paragraph (1)(C) of subsection (a), none of the following person
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by order declares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. For cause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
+&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by order declares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. Forcause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
 
 &emsp;(3) Any issuer all the outstanding securities of which (other than short-term paper and directors' qualifying shares) are directly or indirectly owned by a company excepted from the definition of investment company by paragraph (1) or (2) of this subsection.
 
@@ -44,7 +44,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;&emsp;(II) is in respect of securities, commodities, currencies, interest or other rates, other measures of value, or any other financial or economic interest similar in purpose or function to any of the foregoing; and
 
-&emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for aquotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
+&emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
 &emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
 
@@ -84,7 +84,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;(D) An issuer that is excepted under this paragraph shall nonetheless be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title relating to the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.
 
-&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by personsthat are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
+&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
 
 &emsp;(8) \[Repealed\] Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936.
 
@@ -146,7 +146,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;(13) Any security holders' protective committee or similar issuer having outstanding and issuing no securities other than certificates of deposit and short-term paper.
 
-&emsp;(14) Any church plan described in section 414(e) of title 26, if, under any such plan, no part of the assets may be used for, or divertedto, purposes other than the exclusive benefit of plan participants or beneficiaries, or any company or account that is—
+&emsp;(14) Any church plan described in section 414(e) of title 26, if, under any such plan, no part of the assets may be used for, or diverted to, purposes other than the exclusive benefit of plan participants or beneficiaries, or any company or account that is—
 
 &emsp;&emsp;(A) established by a person that is eligible to establish and maintain such a plan under section 414(e) of title 26; and
 
@@ -292,5 +292,5 @@ Registration requirements.—Any security issued by or any interest or participa
 
 "(2)
 
-Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section."
+Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Codeof 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section."
 

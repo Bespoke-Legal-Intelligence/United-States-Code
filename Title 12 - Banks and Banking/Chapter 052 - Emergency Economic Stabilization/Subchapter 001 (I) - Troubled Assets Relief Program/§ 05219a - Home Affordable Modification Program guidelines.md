@@ -16,7 +16,7 @@ The Secretary of the Treasury (in this section referred to as the "Secretary") s
 
 #### (3) Application
 
-&emsp;The Secretary shall make a reasonable effort to include on such World Wide Web site amethod for homeowners to apply for a mortgage modification under the Home Affordable Modification Program.
+&emsp;The Secretary shall make a reasonable effort to include on such World Wide Web site a method for homeowners to apply for a mortgage modification under the Home Affordable Modification Program.
 
 #### (c) Public availability of NPV methodology, computer model, and variables
 
@@ -34,7 +34,7 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is
 
 #### Codification
 
-Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Act, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
+Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Act, and also as part ofthe Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
 
 #### Effective Date
 

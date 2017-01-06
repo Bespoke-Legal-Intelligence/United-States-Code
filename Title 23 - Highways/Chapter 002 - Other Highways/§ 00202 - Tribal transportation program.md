@@ -134,7 +134,7 @@ Exception.—Clause (i) shall not apply if the Secretary or the Secretary of the
 
 &emsp;&emsp;(B)
 
-Applicability.—Notwithstanding subparagraph (A), section 23 of the Act of June 25, 1910 (25 U.S.C. 47) and section 7(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450e(b)) shall apply to all funds administered by the Secretary of the Interior that are appropriated for the construction and improvement of tribal transportation facilities.
+Applicability.—Notwithstanding subparagraph (A), section 23 of the Act of June 25, 1910 (25 U.S.C. 47) and section 7(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450e(b)) <sup>1</sup> shall apply to all funds administered by the Secretary of the Interior that are appropriated for the construction and improvement of tribal transportation facilities.
 
 (b)
 
@@ -220,7 +220,7 @@ In general.—After making the set asides authorized under subparagraph (C) and 
 
 &emsp;&emsp;&emsp;(ii)
 
-Tribal high priority projects.—The High Priority Projects program as included in the Tribal Transportation Allocation Methodology of part 170 of title 25, Code of Federal Regulations (as in effect on the date of enactment of the MAP–21), shall not continue in effect.
+Tribal high priority projects.—The High Priority Projects program as included in the Tribal Transportation Allocation Methodology of part 170 of title 25, Code of Federal Regulations (as in effecton the date of enactment of the MAP–21), shall not continue in effect.
 
 &emsp;&emsp;(B)
 
@@ -294,7 +294,7 @@ Use of funds.—Notwithstanding any other provision of this section, funds made 
 
 &emsp;(5)
 
-Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), if the Indian tribal government—
+Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> if the Indian tribal government—
 
 &emsp;&emsp;(A) provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
 
@@ -308,7 +308,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 &emsp;&emsp;(B)
 
@@ -320,7 +320,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
 
 &emsp;&emsp;(B)
 
@@ -348,19 +348,19 @@ In general.—Subject to clause (ii) and the approval of the Secretary, funds ma
 
 &emsp;&emsp;&emsp;(ii)
 
-Considerations.—An Indian tribal government that had no uncorrected significant and material audit exceptions in the required annual audit of the contracts or self-governance funding agreements made by the Indian tribe with any Federal agency under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) during the 3-fiscal year period referred in clause (i) shall be conclusive evidence of the financial stability and financial management capability of the Indian tribe for purposes of clause (i).
+Considerations.—An Indian tribal government that had no uncorrected significant and material audit exceptions in the required annual audit of the contracts or self-governance funding agreements made by the Indian tribe with any Federal agency under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> during the 3-fiscal year period referred in clause (i) shall be conclusive evidence of the financial stability and financial management capability of the Indian tribe for purposes of clause (i).
 
 &emsp;&emsp;(G)
 
-Assumption of functions and duties.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall assume all functions and duties that the Secretary of the Interior would have performed with respect to a program or project under this chapter, other than those functions and duties that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+Assumption of functions and duties.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall assume all functions and duties that the Secretary of the Interior would have performed with respect to a program or project under this chapter, other than those functions and duties that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 &emsp;&emsp;(H)
 
-Powers.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred, except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+Powers.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred, except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 &emsp;&emsp;(I)
 
-Dispute resolution.—In the event of a disagreement between the Secretary or the Secretary of the Interior and an Indian tribe over whether a particular function, duty, or power may be lawfully transferred to the Indian tribe under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Indian tribe shall have the right to pursue all alternative dispute resolution and appeal procedures authorized by that Act, including regulations issued to carry out the Act.
+Dispute resolution.—In the event of a disagreement between the Secretary or the Secretary of the Interior and an Indian tribe over whether a particular function, duty, or power may be lawfully transferred to the Indian tribe under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the Indian tribe shall have the right to pursue all alternative dispute resolution and appeal procedures authorized by that Act, including regulations issued to carry out the Act.
 
 &emsp;&emsp;(J)
 
@@ -372,7 +372,7 @@ Planning.—
 
 &emsp;(1)
 
-In general.—For each fiscal year, not more than 2 percent of the funds made available for the tribal transportation program shall be allocated among Indian tribal governments that apply for transportation planning pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+In general.—For each fiscal year, not more than 2 percent of the funds made available for the tribal transportation program shall be allocated among Indian tribal governments that apply for transportation planning pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 &emsp;(2)
 
@@ -440,7 +440,7 @@ The date of enactment of the MAP–21, referred to in subsec. (b)(3)(A)(ii), (C)
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(3)(B), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b)(5), (6)(A), (7)(A), (F)(ii), (G) to (I), and (c)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a) to (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Section 7(b) of the Act was classified to section 450e(b) of Title 25 prior to editorial reclassification as section 5307(b) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -548,7 +548,7 @@ In general.—To apply for funds under this section, an eligible applicant shall
 
 &emsp;"(2)
 
-Limitation on applications.—An applicant for funds under the program may only have 1 application for assistance under this section pending at any 1 time, including any emergency or disaster application.
+Limitation on applications.—An applicant for funds under the program may only have 1 applicationfor assistance under this section pending at any 1 time, including any emergency or disaster application.
 
 &emsp;"(3)
 
@@ -756,5 +756,7 @@ Pub. L. 102–240, title I, §1032(d), Dec. 18, 1991, 105 Stat. 1975, provided t
 
 Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "the".</i>
 

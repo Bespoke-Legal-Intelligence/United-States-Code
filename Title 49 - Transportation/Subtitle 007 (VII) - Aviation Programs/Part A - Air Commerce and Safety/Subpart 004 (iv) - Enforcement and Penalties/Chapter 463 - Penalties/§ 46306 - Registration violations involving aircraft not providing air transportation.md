@@ -50,7 +50,7 @@ Controlled Substance Criminal Penalty.—(1) In this subsection, "controlled sub
 
 (d)
 
-Seizure and Forfeiture.—(1) The Administrator of Drug Enforcement or the Commissioner of Customs may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
+Seizure and Forfeiture.—(1) The Administrator of Drug Enforcement or the Commissioner of U.S. Customs and Border Protection may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
 
 (2) An aircraft's use is presumed to have been related to a violation of, or to aid or facilitate a violation of—
 
@@ -92,7 +92,7 @@ Relationship to State Laws.—This part does not prevent a State from establishi
 
 &emsp;&emsp;(C) making or using a false document knowing it contains a false, fictitious, or fraudulent statement or entry.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235; Pub. L. 104–287, §5(78), Oct. 11, 1996, 110 Stat. 3397.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235; Pub. L. 104–287, §5(78), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 Historical and Revision Notes
 
@@ -162,11 +162,15 @@ This makes a clarifying amendment to 49:46306(c)(2)(B).
 
 <b>1996</b>—Subsec. (c)(2)(B). Pub. L. 104–287 inserted "that is" before "provided".
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (d)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

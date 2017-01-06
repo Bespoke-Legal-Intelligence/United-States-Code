@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the Office of Personnel Management (referred to in this section as the "Director") shall enter into contracts with health insurance issuers (which may include a group of health insurance issuers affiliated either by common ownership and control or by the common use of a nationally licensed service mark), without regard to section 6101 of title 41 or other statutes requiring competitive bidding, to offer at least 2 multi-State qualified health plans through each Exchange in each State. Such plans shall provide individual, or in the case of small employers, group coverage.
+&emsp;The Director of the Office of Personnel Management (referred to in this section as the"Director") shall enter into contracts with health insurance issuers (which may include a group of health insurance issuers affiliated either by common ownership and control or by the common use of a nationally licensed service mark), without regard to section 6101 of title 41 or other statutes requiring competitive bidding, to offer at least 2 multi-State qualified health plans through each Exchange in each State. Such plans shall provide individual, or in the case of small employers, group coverage.
 
 #### (2) Terms
 
@@ -16,7 +16,7 @@
 
 #### (4) Administration
 
-&emsp;The Director shall implement this subsection in a manner similar to the manner in which the Director implements the contracting provisions with respect to carriers under the Federal employees health benefit program <sup>1</sup> under chapter 89 of title 5, including\(through negotiating with each multi-state <sup>2</sup> plan)—
+&emsp;The Director shall implement this subsection in a manner similar to the manner in which the Director implements the contracting provisions with respect to carriers under the Federal employees health benefit program <sup>1</sup> under chapter 89 of title 5, including (through negotiating with each multi-state <sup>2</sup> plan)—
 
 &emsp;&emsp;(A) a medical loss ratio;
 

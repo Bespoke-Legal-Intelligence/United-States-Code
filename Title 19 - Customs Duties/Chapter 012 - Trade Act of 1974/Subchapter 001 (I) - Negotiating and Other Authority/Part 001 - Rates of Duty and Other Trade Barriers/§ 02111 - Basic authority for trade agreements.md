@@ -40,7 +40,7 @@ Pub. L. 96–39, title XI, §1109, July 26, 1979, 93 Stat. 413, provided that th
 
 #### Study of Export Trade Policy
 
-Pub. L. 96–39, title XI, §1110, July 26, 1979, 93 Stat. 314, directed the President to review all export promotionfunctions of the executive branch and potential programmatic and regulatory disincentives to exports, and to submit to the Congress a report of that review not later than July 15, 1980, and not later than July 15, 1980, to submit to the Congress a study of the factors bearing on the competitive posture of United States producers and the policies and programs required to strengthen the relative competitive position of the United States in world markets.
+Pub. L. 96–39, title XI, §1110, July 26, 1979, 93 Stat. 314, directed the President to review all export promotion functions of the executive branch and potential programmatic and regulatory disincentives to exports, and to submit to the Congress a report of that review not later than July 15, 1980, and not later than July 15, 1980, to submit to the Congress a study of the factors bearing on the competitive posture of United States producers and the policies and programs required to strengthen the relative competitive position of the United States in world markets.
 
 #### Proc. No. 4707. Carrying Out the Geneva (1979) Protocol to the General Agreement on Tariffs and Trade and for Other Purposes
 
@@ -104,7 +104,7 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acti
 
 (b) The modifications provided for in Section A of Annex II to this proclamation \[see note below\] which are authorized by Section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267) shall apply to articles entered, or withdrawn from warehouse, for consumption on and after the date designated by the President when he determines that the requirements of Section 2(b) of the Trade Agreements Act of 1979 (93 Stat. 147) \[19 U.S.C. 2503(b)\] have been met with respect to the Agreement on Trade in Civil Aircraft;
 
-(c) The Special Representative \[now Trade Representative\] shall make any determinations relevant to the designation of the effective dates of the modifications of the TSUS made by Sections B through G of AnnexIII, and Sections B (5) through (10) of Annex IV of this proclamation, \[see note below\] and shall publish in the Federal Register the effective date with respect to each of the modifications made by these sections; such modifications shall apply to articles entered, or withdrawn from warehouse, for consumption on and after such effective date;
+(c) The Special Representative \[now Trade Representative\] shall make any determinations relevant to the designation of the effective dates of the modifications of the TSUS made by Sections B through G of Annex III, and Sections B (5) through (10) of Annex IV of this proclamation, \[see note below\] and shall publish in the Federal Register the effective date with respect to each of the modifications made by these sections; such modifications shall apply to articles entered, or withdrawn from warehouse, for consumption on and after such effective date;
 
 (d) The modifications to the TSUS made by Section C of Annex IV to this proclamation, \[see note below\] relating to special treatment for the least developed developing countries (LDDC's), shall be effective with respect to articles entered, or withdrawn from warehouse, for consumption on and after the effective dates as provided for in Section B of Annex IV \[see note below\]; whenever the rate of duty specified in the column numbered 1 for any TSUS item is reduced to the same level as the corresponding rate of duty specified in the column entitled "LDDC" for such item, the rate of duty in the column entitled "LDDC" shall be deleted from the TSUS, and when the duty rates for all such items in Annex IV \[see note below\] have been deleted, the modifications to the TSUS made by Section C of Annex IV to this proclamation \[see note below\] shall be deleted;
 
@@ -152,7 +152,7 @@ Annexes II to IV of Proclamation 4707, which amended the Tariff Schedules of the
 
 #### Proc. No. 4768. Carrying Out the Agreement on Implementation of Articles VII of the General Agreement on Tariffs and Trade and for Other Purpose
 
-Proc. No. 4768, June 28, 1980, 45 F.R. 45135, as amended by Proc. No. 4792, Sept. 15, 1980, 45 F.R. 61589; Ex. Ord. No. 12311, §5, June 29, 1981, 46 F.R. 34305; Proc. No. 4904, Feb. 27, 1982, 47 F.R. 8753; Ex. Ord. No. 12354, Mar. 30, 1982, 47 F.R. 13477; Ex. Ord. No. 12413, Mar. 30, 1983, 48 F.R. 13921; Ex. Ord. No. 12471, Mar. 30, 1984, 49 F.R. 13101; Ex. Ord. No. 12519, June 13, 1985, 50 F.R. 25037; Proc. No. 5365, Aug. 30, 1985, 50 F.R. 36220; Proc. No. 5452, Mar. 31, 1986, 51 F.R. 11539, provided:
+Proc. No. 4768, June 28, 1980, 45 F.R. 45135, as amended by Proc. No. 4792, Sept. 15, 1980, 45 F.R. 61589; Ex. Ord.No. 12311, §5, June 29, 1981, 46 F.R. 34305; Proc. No. 4904, Feb. 27, 1982, 47 F.R. 8753; Ex. Ord. No. 12354, Mar. 30, 1982, 47 F.R. 13477; Ex. Ord. No. 12413, Mar. 30, 1983, 48 F.R. 13921; Ex. Ord. No. 12471, Mar. 30, 1984, 49 F.R. 13101; Ex. Ord. No. 12519, June 13, 1985, 50 F.R. 25037; Proc. No. 5365, Aug. 30, 1985, 50 F.R. 36220; Proc. No. 5452, Mar. 31, 1986, 51 F.R. 11539, provided:
 
 1\. Pursuant to Section 204(a)(2) of the Trade Agreements Act of 1979 (93 Stat. 203) \[19 U.S.C. 1401a note\] in order to implement, beginning on July 1, 1980, the new customs valuation standards as provided in Title II of that Act \[Pub. L. 96–39, July 26, 1979, 93 Stat. 194\], and for other purposes, I make the following determinations, and do proclaim as hereinafter set forth.
 
@@ -216,7 +216,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Annexes I to IV
 
-Annexes I to IV of Proclamation 4768, which amended the Tariff Schedules of the United States, are not setout under this section because the Tariff Schedules were not set out in the Code. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+Annexes I to IV of Proclamation 4768, which amended the Tariff Schedules of the United States, are not set out under this section because the Tariff Schedules were not set out in the Code. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Ex. Ord. No. 11846. Administration of Trade Agreements Program
 

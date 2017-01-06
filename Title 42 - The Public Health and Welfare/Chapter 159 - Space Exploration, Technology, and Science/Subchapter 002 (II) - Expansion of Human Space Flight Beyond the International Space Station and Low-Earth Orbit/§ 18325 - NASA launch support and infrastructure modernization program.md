@@ -24,7 +24,7 @@ The program required by this section shall include—
 
 &emsp;The report required by this subsection shall include—
 
-&emsp;&emsp;(A) a description of the ground infrastructure plan tied to the Space Launch System and potential ground investment activities at other NASA centers related to supportingthe development of the Space Launch System;
+&emsp;&emsp;(A) a description of the ground infrastructure plan tied to the Space Launch System and potential ground investment activities at other NASA centers related to supporting the development of the Space Launch System;
 
 &emsp;&emsp;(B) a description of proposed initiatives intended to be conducted jointly or in cooperation with Cape Canaveral Air Force Station, Florida, or other installations or components of the United States Government; and
 

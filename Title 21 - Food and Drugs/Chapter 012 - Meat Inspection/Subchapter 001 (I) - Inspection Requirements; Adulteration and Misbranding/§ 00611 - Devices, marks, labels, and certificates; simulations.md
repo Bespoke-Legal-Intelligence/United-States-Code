@@ -10,7 +10,7 @@ No person, firm, or corporation shall—
 
 &emsp;(1) forge any official device, mark, or certificate;
 
-&emsp;(2) without authorization from the Secretary use any official device, mark, or certificate, orsimulation thereof, or alter, detach, deface, or destroy any official device, mark, or certificate;
+&emsp;(2) without authorization from the Secretary use any official device, mark, or certificate, or simulation thereof, or alter, detach, deface, or destroy any official device, mark, or certificate;
 
 &emsp;(3) contrary to the regulations prescribed by the Secretary, fail to use, or to detach, deface, or destroy any official device, mark, or certificate;
 

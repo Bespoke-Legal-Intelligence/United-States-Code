@@ -26,9 +26,13 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(11) to recognize the growing significance of the Internet as a trading platform in international commerce;
 
-&emsp;(12) to take into account other legitimate United States domestic objectives, including, but not limited to, the protection of legitimate health or safety, essential security, and consumer interests and the law and regulations related thereto; and
+&emsp;(12) to take into account other legitimate United States domestic objectives, including, but not limited to, the protection of legitimate health or safety, essential security, and consumer interests and the law and regulations related thereto;
 
-&emsp;(13) to take into account conditions relating to religious freedom of any party to negotiations for a trade agreement with the United States.
+&emsp;(13) to take into account conditions relating to religious freedom of any party to negotiations for a trade agreement with the United States;
+
+&emsp;(14) to ensure that trade agreements do not require changes to the immigration laws of the United States or obligate the United States to grant access or expand access to visas issued under section 1101(a)(15) of title 8; and
+
+&emsp;(15) to ensure that trade agreements do not establish obligations for the United States regarding greenhouse gas emissions measures, including obligations that require changes to United States laws or regulations or that would affect the implementation of such laws or regulations, other than those fulfilling the other negotiating objectives in this section.
 
 #### (b) Principal trade negotiating objectives
 
@@ -44,7 +48,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(A) The principal negotiating objective of the United States regarding trade in services is to expand competitive market opportunities for United States services and to obtain fairer and more open conditions of trade, including through utilization of global value chains, by reducing or eliminating barriers to international trade in services, such as regulatory and other barriers that deny national treatment and market access or unreasonably restrict the establishment or operations of service suppliers.
 
-&emsp;(B) Recognizing that expansion of trade in services generates benefits for all sectors of the economy and facilitates trade, the objective described in subparagraph (A) should be pursued through all means, including through a plurilateral agreement with those countrieswilling and able to undertake high standard services commitments for both existing and new services.
+&emsp;(B) Recognizing that expansion of trade in services generates benefits for all sectors of the economy and facilitates trade, the objective described in subparagraph (A) should be pursued through all means, including through a plurilateral agreement with those countries willing and able to undertake high standard services commitments for both existing and new services.
 
 #### (3) Trade in agriculture
 
@@ -170,7 +174,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(iv) ensuring that standards of protection and enforcement keep pace with technological developments, and in particular ensuring that rightholders have the legal and technological means to control the use of their works through the Internet and other global communication media, and to prevent the unauthorized use of their works;
 
-&emsp;&emsp;&emsp;(v) providing strong enforcement of intellectual property rights, includingthrough accessible, expeditious, and effective civil, administrative, and criminal enforcement mechanisms; and
+&emsp;&emsp;&emsp;(v) providing strong enforcement of intellectual property rights, including through accessible, expeditious, and effective civil, administrative, and criminal enforcement mechanisms; and
 
 &emsp;&emsp;&emsp;(vi) preventing or eliminating government involvement in the violation of intellectual property rights, including cyber theft and piracy;
 
@@ -244,7 +248,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (9) Localization barriers to trade
 
-&emsp;The principal negotiating objective of the United States with respect to localization barriers is to eliminate and prevent measuresthat require United States producers and service providers to locate facilities, intellectual property, or other assets in a country as a market access or investment condition, including indigenous innovation measures.
+&emsp;The principal negotiating objective of the United States with respect to localization barriers is to eliminate and prevent measures that require United States producers and service providers to locate facilities, intellectual property, or other assets in a country as a market access or investment condition, including indigenous innovation measures.
 
 #### (10) Labor and the environment
 
@@ -294,13 +298,13 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (13) WTO and multilateral trade agreements
 
-&emsp;Recognizing that the World Trade Organization is the foundation of the global trading system, the principal negotiating objectives of the United States regarding the World TradeOrganization, the Uruguay Round Agreements, and other multilateral and plurilateral trade agreements are—
+&emsp;Recognizing that the World Trade Organization is the foundation of the global trading system, the principal negotiating objectives of the United States regarding the World Trade Organization, the Uruguay Round Agreements, and other multilateral and plurilateral trade agreements are—
 
 &emsp;&emsp;(A) to achieve full implementation and extend the coverage of the World Trade Organization and multilateral and plurilateral agreements to products, sectors, and conditions of trade not adequately covered;
 
 &emsp;&emsp;(B) to expand country participation in and enhancement of the Information Technology Agreement, the Government Procurement Agreement, and other plurilateral trade agreements of the World Trade Organization;
 
-&emsp;&emsp;(C) to expand competitive market opportunities for United States exports and to obtain fairer and more open conditions of trade, including through utilization of global value chains, through the negotiation of new WTO multilateral and plurilateral trade agreements, such as an agreement on trade facilitation;
+&emsp;&emsp;(C) to expand competitive market opportunities for United States exports and to obtain fairer and more open conditions of trade, including through utilization of global value chains, through the negotiation of new WTO multilateral and plurilateral tradeagreements, such as an agreement on trade facilitation;
 
 &emsp;&emsp;(D) to ensure that regional trade agreements to which the United States is not a party fully achieve the high standards of, and comply with, WTO disciplines, including Article XXIV of GATT 1994, Article V and V bis of the General Agreement on Trade in Services, and the Enabling Clause, including through meaningful WTO review of such regional trade agreements;
 
@@ -398,6 +402,18 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;The principal negotiating objectives of the United States with respect to ensuring implementation of trade commitments and obligations by strengthening good governance, transparency, the effective operation of legal regimes and the rule of law of trading partners of the United States is through capacity building and other appropriate means, which are important parts of the broader effort to create more open democratic societies and to promote respect for internationally recognized human rights.
 
+#### (22) Fisheries negotiations
+
+&emsp;The principal negotiating objectives of the United States with respect to trade in fish, seafood, and shellfish products are—
+
+&emsp;&emsp;(A) to obtain competitive opportunities for United States exports of fish, seafood, and shellfish products in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports of fish, seafood, and shellfish products in United States markets and to achieve fairer and more open conditions of trade in fish, seafood, and shellfish products, including by reducing or eliminating tariff and nontariff barriers;
+
+&emsp;&emsp;(B) to eliminate fisheries subsidies that distort trade, including subsidies of the type referred to in paragraph 9 of Annex D to the Ministerial Declaration adopted by the World Trade Organization at the Sixth Ministerial Conference at Hong Kong, China on December 18, 2005;
+
+&emsp;&emsp;(C) to pursue transparency in fisheries subsidies programs; and
+
+&emsp;&emsp;(D) to address illegal, unreported, and unregulated fishing.
+
 #### (c) Capacity building and other priorities
 
 In order to address and maintain United States competitiveness in the global economy, the President shall—
@@ -410,15 +426,27 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(2) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science;
 
-&emsp;(3) promote consideration of multilateral environmental agreements and consult with parties to such agreements regarding the consistency of any such agreement that includes trade measures with existing environmental exceptions under Article XX of GATT 1994; and
+&emsp;(3) promote consideration of multilateral environmental agreements and consult with parties to such agreements regarding the consistency of any such agreement that includestrade measures with existing environmental exceptions under Article XX of GATT 1994; and
 
 &emsp;(4) submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on capacity-building activities undertaken in connection with trade agreements negotiated or being negotiated pursuant to this chapter.
 
-(Pub. L. 114–26, title I, §102, June 29, 2015, 129 Stat. 320.)
+(Pub. L. 114–26, title I, §102, June 29, 2015, 129 Stat. 320; Pub. L. 114–125, title IX, §914(a)–(c), Feb. 24, 2016, 130 Stat. 273.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (c)(4), was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(14). Pub. L. 114–125, §914(a), added par. (14).
+
+Subsec. (a)(15). Pub. L. 114–125, §914(b), added par. (15).
+
+Subsec. (b)(22). Pub. L. 114–125, §914(c), added par. (22).
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–125, title IX, §914(g), Feb. 24, 2016, 130 Stat. 276, provided that: "The amendments made by this section \[amending this section and sections 4203 to 4205 of this title\] shall take effect as if included in the enactment of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (\[title I of\] Public Law 114–26; 129 Stat. 320; 19 U.S.C. 4201 et seq.)."
 
 #### Short Title
 
@@ -436,7 +464,7 @@ Section 1. <i>Authorities and Functions under the Act</i>. (a) Except as provide
 
 (i) section 102(c)(1) and (c)(3) of the Act;
 
-(ii) section 103(a)(1)(A), (a)(1)(B), (a)(5), (a)(7), (b)(1), and (c)(2) of the Act;
+(ii) section 103(a)(1)(A), (a)(1)(B), (a)(5), (a)(7), (b)(1), and (c)(2) of the Act \[see bracketed note below\];
 
 (iii) section 105(a)(5) of the Act; and
 
@@ -467,4 +495,6 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For delegation of authority and functions under section 103(a)(1)(A) and (b)(1) of Pub. L. 114–26, notwithstanding section 1(b)(ii) of Ex. Ord. No. 13701, set out above, see Memorandum of President of the United States, Jan. 29, 2016, 81 F.R. 5571, set out as a note under section 4202 of this title.\]
 

@@ -10,13 +10,21 @@ Payment Authority.—The head of any agency may—
 
 (b)
 
-Performance-Based Payments.—Whenever practicable, payments under subsection (a) shall be made on any of the following bases:
+Preference for Performance-Based Payments.—(1) Whenever practicable, payments under subsection (a) shall be made using performance-based payments on any of the following bases:
 
-&emsp;(1) Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
+&emsp;(A) Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
 
-&emsp;(2) Accomplishment of events defined in the program management plan.
+&emsp;(B) Accomplishment of events defined in the program management plan.
 
-&emsp;(3) Other quantifiable measures of results.
+&emsp;(C) Other quantifiable measures of results.
+
+(2) Performance-based payments shall not be conditioned upon costs incurred in contract performance but on the achievement of performance outcomes listed in paragraph (1).
+
+(3) The Secretary of Defense shall ensure that nontraditional defense contractors and other private sector companies are eligible for performance-based payments, consistent with best commercial practices.
+
+(4)(A) In order to receive performance-based payments, a contractor's accounting system shall be in compliance with Generally Accepted Accounting Principles, and there shall be no requirement for a contractor to develop Government-unique accounting systems or practices as a prerequisite for agreeing to receive performance-based payments.
+
+(B) Nothing in this section shall be construed to grant the Defense Contract Audit Agency the authority to audit compliance with Generally Accepted Accounting Principles.
 
 (c)
 
@@ -52,7 +60,7 @@ Certain Navy Contracts.—(1) The Secretary of the Navy shall provide that the r
 
 (2) The Secretary of the Navy may advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations. Advances under this paragraph shall be made on terms that the Secretary considers adequate for the protection of the United States.
 
-(3) The Secretary of the Navy shall provide, in each contract for construction or conversion ofa naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
+(3) The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 
 (h)
 
@@ -84,7 +92,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term "remedy coordination official", with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282.)
 
 Historical and Revision Notes<br>1956
 
@@ -123,6 +131,20 @@ Level IV of the Executive Schedule, referred to in subsec. (i)(9), is set out in
 Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
 
 #### Amendments
+
+Subsec. (b). Pub. L. 114–328, §831(a)(3), which directed substitution of "(1) Whenever practicable, payments under subsection (a) shall be made using performance-based payments" for "Wherever practicable, payment under subsection (a) shall be made", was executed by making the substitution for "Whenever practicable, payments under subsection (a) shall be made" to reflect the probable intent of Congress.
+
+Pub. L. 114–328, §831(a)(1), which directed insertion of "
+
+Preference for" before "
+
+Performance-based" in heading, was executed by making the insertion before "
+
+Performance-Based" to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(A) to (C). Pub. L. 114–328, §831(a)(2), redesignated pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (1). See above.
+
+Subsec. (b)(2) to (4). Pub. L. 114–328, §831(a)(4), added pars. (2) to (4).
 
 <b>2000</b>—Subsec. (i)(8). Pub. L. 106–391 substituted "(4), and (6)" for "and (4)".
 
@@ -191,6 +213,10 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–510, div. A, title VIII, §836(c), Nov. 5, 1990, 104 Stat. 1616, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: "The provisions of section 2307 of title 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991."
+
+#### Regulations
+
+Pub. L. 114–328, div. A, title VIII, §831(b), Dec. 23, 2016, 130 Stat. 2283, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the Department of Defense Federal Acquisition Regulation Supplement to conform with section 2307(b) of title 10, United States Code, as amended by subsection (a)."
 
 #### Relationship of 1994 Amendment to Prompt Payment Requirements
 

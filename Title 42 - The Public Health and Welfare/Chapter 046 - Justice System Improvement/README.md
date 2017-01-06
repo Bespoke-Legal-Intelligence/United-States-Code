@@ -192,6 +192,7 @@
 | :--- | ---: |
 | [3793\.](Subchapter%20010%20%28X%29%20-%20Funding/%C2%A7%2003793%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 3793a, 3793b. | Repealed. |
+| [3793c.](Subchapter%20010%20%28X%29%20-%20Funding/%C2%A7%2003793c%20-%20Oversight%20and%20accountability.md) | Oversight and accountability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -378,6 +379,7 @@
 | 3796ii–5. | Geographic distribution. |
 | 3796ii–6. | Report. |
 | 3796ii–7. | Technical assistance, training, and evaluation. |
+| 3796ii–8. | Mental health responses in the judicial system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -454,17 +456,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XV–A—PROSECUTION DRUG TREATMENT ALTERNATIVE TO PRISON PROGRAM
+#### SUBCHAPTER XV–A—MENTAL HEALTH AND DRUG TREATMENT ALTERNATIVES TO INCARCERATION PROGRAMS
 
 |  |  |
 | :--- | ---: |
-| [3797q.](Subchapter%20015%E2%80%93A%20%28XV%E2%80%93A%29%20-%20Prosecution%20Drug%20Treatment%20Alternative%20to%20Prison%20Program/%C2%A7%2003797q%20-%20Grant%20authority.md) | Grant authority. |
-| 3797q–1. | Use of grant funds. |
-| 3797q–2. | Applications. |
-| 3797q–3. | Federal share. |
-| 3797q–4. | Geographic distribution. |
-| 3797q–5. | Reports and evaluations. |
-| 3797q–6. | Definitions. |
+| [3797q.](Subchapter%20015%E2%80%93A%20%28XV%E2%80%93A%29%20-%20Mental%20Health%20and%20Drug%20Treatment%20Alternatives%20to%20Incarceration%20Programs/%C2%A7%2003797q%20-%20Mental%20health%20and%20drug%20treatment%20alternatives%20to%20incarceration%20programs.md) | Mental health and drug treatment alternatives to incarceration programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -524,7 +520,8 @@
 
 |  |  |
 | :--- | ---: |
-| [3797aa](Subchapter%20019%20%28XIX%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/%C2%A7%2003797aa%20-%20Adult%20and%20juvenile%20collaboration%20programs.md) | Adult and juvenile collaboration programs. |
+| [3797aa.](Subchapter%20019%20%28XIX%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/%C2%A7%2003797aa%20-%20Adult%20and%20juvenile%20collaboration%20programs.md) | Adult and juvenile collaboration programs. |
+| 3797aa–1. | National criminal justice and mental health training and technical assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -562,6 +559,20 @@
 | :--- | ---: |
 | [3797ee.](Subchapter%20021%20%28XXI%29%20-%20Sex%20Offender%20Apprehension%20Grants%3B%20Juvenile%20Sex%20Offender%20Treatment%20Grants/%C2%A7%2003797ee%20-%20Sex%20offender%20apprehension%20grants.md) | Sex offender apprehension grants. |
 | 3797ee–1. | Juvenile sex offender treatment grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXII–COMPREHENSIVE OPIOID ABUSE GRANT PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [3797ff.](Subchapter%20022%20%28XXII%29%20-%20Comprehensive%20Opioid%20Abuse%20Grant%20Program/%C2%A7%2003797ff%20-%20Description.md) | Description. |
+| 3797ff–1. | Applications. |
+| 3797ff–2. | Review of applications. |
+| 3797ff–3. | Equitable distribution of funds. |
+| 3797ff–4. | Definitions. |
+| 3797ff–5. | Grant accountability. |
+| 3797ff–6. | Evaluation of performance of Department of Justice programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -604,7 +615,7 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising th
 - [Subchapter 013 (XIII) - Transition; Effective Date; Repealer](Subchapter%20013%20%28XIII%29%20-%20Transition%3B%20Effective%20Date%3B%20Repealer/README.md)
 - [Subchapter 014 (XIV) - Matching Grant Program for School Security](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/README.md)
 - [Subchapter 015 (XV) - Paul Coverdell Forensic Sciences Improvement Grants](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/README.md)
-- [Subchapter 015&#8211;A (XV&#8211;A) - Prosecution Drug Treatment Alternative to Prison Program](Subchapter%20015%E2%80%93A%20%28XV%E2%80%93A%29%20-%20Prosecution%20Drug%20Treatment%20Alternative%20to%20Prison%20Program/README.md)
+- [Subchapter 015&#8211;A (XV&#8211;A) - Mental Health and Drug Treatment Alternatives to Incarceration Programs](Subchapter%20015%E2%80%93A%20%28XV%E2%80%93A%29%20-%20Mental%20Health%20and%20Drug%20Treatment%20Alternatives%20to%20Incarceration%20Programs/README.md)
 - [Subchapter 015&#8211;B (XV&#8211;B) - Grants for Family-Based Substance Abuse Treatment](Subchapter%20015%E2%80%93B%20%28XV%E2%80%93B%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/README.md)
 - [Subchapter 016 (XVI) - Drug Courts](Subchapter%20016%20%28XVI%29%20-%20Drug%20Courts/README.md)
 - [Subchapter 017 (XVII) - Offender Reentry and Community Safety](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/README.md)
@@ -614,3 +625,4 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising th
 - [Subchapter 020&#8211;A (XX&#8211;A) - Loan Repayment for Prosecutors and Public Defenders](Subchapter%20020%E2%80%93A%20%28XX%E2%80%93A%29%20-%20Loan%20Repayment%20for%20Prosecutors%20and%20Public%20Defenders/README.md)
 - [Subchapter 020&#8211;B (XX&#8211;B) - Grant Program to Evaluate and Improve Educational Methods at Prisons, Jails, and Juvenile Facilities](Subchapter%20020%E2%80%93B%20%28XX%E2%80%93B%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/README.md)
 - [Subchapter 021 (XXI) - Sex Offender Apprehension Grants; Juvenile Sex Offender Treatment Grants](Subchapter%20021%20%28XXI%29%20-%20Sex%20Offender%20Apprehension%20Grants%3B%20Juvenile%20Sex%20Offender%20Treatment%20Grants/README.md)
+- [Subchapter 022 (XXII) - Comprehensive Opioid Abuse Grant Program](Subchapter%20022%20%28XXII%29%20-%20Comprehensive%20Opioid%20Abuse%20Grant%20Program/README.md)

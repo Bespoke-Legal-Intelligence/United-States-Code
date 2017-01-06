@@ -2,7 +2,7 @@
 
 #### (a) Grant's Canal, Louisiana
 
-The Secretary of the Interior (hereinafter in sections 430h–6 to 430h–9 of this title referred toas the "Secretary") is authorized to acquire by donation, exchange, or purchase with donated or appropriated funds, approximately two and five-tenths acres of land in Madison Parish, Louisiana, known generally as the Grant's Canal property.
+The Secretary of the Interior (hereinafter in sections 430h–6 to 430h–9 of this title referred to as the "Secretary") is authorized to acquire by donation, exchange, or purchase with donated or appropriated funds, approximately two and five-tenths acres of land in Madison Parish, Louisiana, known generally as the Grant's Canal property.
 
 #### (b) Warren County, Mississippi
 

@@ -28,7 +28,7 @@
 
 (1) At the election of the employer with respect to any employee, the employer shall deduct and withhold upon the wages paid to such employee a tax (in lieu of the tax required to be deducted and withheld under subsection (a)) determined in accordance with tables prescribed by the Secretary in accordance with paragraph (6).
 
-(2) If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
+(2) If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicablein the case of a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
 
 (3) In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
@@ -72,11 +72,11 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (B) Change of status
 
-&emsp;&emsp;If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the number of withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
+&emsp;&emsp;If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the numberof withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
 
 #### (C) Change of status which affects next calendar year
 
-&emsp;&emsp;If on any day during the calendar year the number of withholding exemptions to which the employee will be, or may reasonably be expected to be, entitled at the beginning of his next taxable year under subtitle A is different from the number to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary may by regulations prescribe, furnish the employer with a withholding exemption certificate relating to the numberof withholding exemptions which he claims with respect to such next taxable year, which shall in no event exceed the number to which he will be, or may reasonably be expected to be, so entitled.
+&emsp;&emsp;If on any day during the calendar year the number of withholding exemptions to which the employee will be, or may reasonably be expected to be, entitled at the beginning of his next taxable year under subtitle A is different from the number to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary may by regulations prescribe, furnish the employer with a withholding exemption certificate relating to the number of withholding exemptions which he claims with respect to such next taxable year, which shall in no event exceed the number to which he will be, or may reasonably be expected to be, so entitled.
 
 #### (3) When certificate takes effect
 
@@ -140,7 +140,7 @@ The Secretary may, under regulations prescribed by him, authorize—
 
 &emsp;&emsp;(B) to determine the amount to be deducted and withheld upon each payment of wages to such employee during such quarter as if the appropriate average of the wages so estimated constituted the actual wages paid, and
 
-&emsp;&emsp;(C) to deduct and withhold upon any payment of wages to such employee during such quarter (and, in the case of tips referred to in subsection (k), within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted and withheld upon the wages of such employee during such quarter to the amount required to be deducted and withheld during such quarter without regard to this subsection.
+&emsp;&emsp;(C) to deduct and withhold upon any payment of wages to such employee during suchquarter (and, in the case of tips referred to in subsection (k), within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted and withheld upon the wages of such employee during such quarter to the amount required to be deducted and withheld during such quarter without regard to this subsection.
 
 #### (2) Withholding on basis of annualized wages
 
@@ -260,7 +260,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (3) Amount withheld from annuity payments or sick pay
 
-&emsp;If a payee makes a request that an annuity or any sick pay be subject to withholding under this chapter, the amount to be deducted and withheld under this chapter from any payment to which such request applies shall be an amount (not less than a minimum amount determined under regulations prescribed by the Secretary) specified by the payee in such request. The amount deducted and withheld with respect to a payment which is greater or less than a full payment shall bear the same relation to the specified amount as such payment bears to a full payment.
+&emsp;If a payee makes a request that an annuity or any sick pay be subject to withholding under this chapter, the amount to be deducted and withheld under this chapter from any payment to which such request applies shall be anamount (not less than a minimum amount determined under regulations prescribed by the Secretary) specified by the payee in such request. The amount deducted and withheld with respect to a payment which is greater or less than a full payment shall bear the same relation to the specified amount as such payment bears to a full payment.
 
 #### (4) Request for withholding
 
@@ -330,7 +330,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;(A) from remuneration for services performed by an employee for the employee's employer which (without regard to this paragraph) does not constitute wages, and
 
-&emsp;&emsp;(B) from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
+&emsp;&emsp;(B) from any other type of payment with respect to which the Secretary finds thatwithholding would be appropriate under the provisions of this chapter,
 
 > &emsp;if the employer and employee, or the person making and the person receiving such other type of payment, agree to such withholding. Such agreement shall be in such form and manner as the Secretary may by regulations prescribe. For purposes of this chapter (and so much of subtitle F as relates to this chapter), remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
 
@@ -416,7 +416,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (6) Alternate withholding procedures
 
-&emsp;At the election of an Indian tribe, the tax imposed by this subsection on any payment made by such tribe shall be determined in accordance with such tables or computationalprocedures as may be specified in regulations prescribed by the Secretary (in lieu of in accordance with paragraphs (2) and (3)).
+&emsp;At the election of an Indian tribe, the tax imposed by this subsection on any payment made by such tribe shall be determined in accordance with such tables or computational procedures as may be specified in regulations prescribed by the Secretary (in lieu of in accordance with paragraphs (2) and (3)).
 
 #### (7) Coordination with other sections
 
@@ -440,7 +440,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;(B) which consists of providing a highway motor vehicle for the use of the employee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704-708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996; Pub. L. 107–16, title I, §101(c)(6)–(9), June 7, 2001, 115 Stat. 43, 44; Pub. L. 109–222, title V, §511(a), May 17, 2006, 120 Stat. 364; Pub. L. 112–56, title I, §102(a), Nov. 21, 2011, 125 Stat. 712.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996; Pub. L. 107–16, title I, §101(c)(6)–(9), June 7, 2001, 115 Stat. 43, 44; Pub. L. 109–222, title V, §511(a), May 17, 2006, 120 Stat. 364; Pub. L. 112–56, title I, §102(a), Nov. 21, 2011, 125 Stat. 712.)
 
 #### References in Text
 
@@ -466,7 +466,7 @@ Subsec. (q)(1). Pub. L. 107–16, §101(c)(8), substituted "equal to the product
 
 Subsec. (r)(3). Pub. L. 107–16, §101(c)(9), substituted "the fourth lowest rate of tax applicable under section 1(c)" for "31 percent" in introductory provisions.
 
-<b>1994</b>—Subsec. (p). Pub. L. 103–465, §702(a), reenacted heading without change and amended text of subsec. (p) generally. Prior to amendment, text read as follows: "The Secretary is authorized by regulations to provide for withholding—
+<b>1994</b>—Subsec. (p). Pub. L. 103–465, §702(a), reenacted heading without change and amended text of subsec. (p) generally. Prior to amendment, text read as follows:"The Secretary is authorized by regulations to provide for withholding—
 
 &emsp;"(1) from remuneration for services performed by an employee for his employer which (without regard to this subsection) does not constitute wages, and
 
@@ -540,7 +540,7 @@ Subsec. (b)(4), (5). Pub. L. 97–34, §101(e)(2)(A), redesignated par. (5) as (
 
 Subsec. (f)(1)(G). Pub. L. 97–34, §101(e)(3), inserted "(or more than one exemption if so prescribed by the Secretary)" after "an amount equal to one exemption".
 
-Subsec. (i). Pub. L. 97–34, §101(e)(4), substituted provisions authorizing the Secretary by regulations to provide for increases or decreases in the amount of withholding otherwise required under this section in cases where the employee requests the changes, for provisions under which the Secretary was authorized to provide withholding in addition to that otherwise required under this section in cases in which the employer and the employee agreed to such additional withholding.
+Subsec. (i). Pub. L. 97–34, §101(e)(4), substituted provisions authorizing the Secretary by regulations to provide for increases or decreases in the amount of withholding otherwise required under this section in caseswhere the employee requests the changes, for provisions under which the Secretary was authorized to provide withholding in addition to that otherwise required under this section in cases in which the employer and the employee agreed to such additional withholding.
 
 Subsec. (m). Pub. L. 97–34, §101(e)(5), revised provisions respecting additional withholding allowances for anticipated excess itemized deductions and tax credits claimed in accordance with Treasury regulations and Treasury statutory authority to provide additional withholding allowances for any additional items specified in Treasury regulations.
 
@@ -678,7 +678,7 @@ Subsec. (b)(1). Pub. L. 89–368, §101(b), increased amounts set out for one wi
 
 Subsec. (c)(1). Pub. L. 89–368, §101(c), replaced existing tables with separate tables for employees who are married and for employees who are not married covering weekly, biweekly, semimonthly, monthly, and daily or miscellaneous pay periods and reflecting increased and graduated withholding rates.
 
-Subsec. (f)(1)(F), (3)(B). Pub. L. 89–368, §101(e)(1), (3), added par. (1)(F) and, in par. (3)(B), changed definition of "status determination date" from January 1 andJuly 1 of each year to January 1, May 1, July 1, and October 1 of each year.
+Subsec. (f)(1)(F), (3)(B). Pub. L. 89–368, §101(e)(1), (3), added par. (1)(F) and, in par. (3)(B), changed definition of "status determination date" from January 1 and July 1 of each year to January 1, May 1, July 1, and October 1 of each year.
 
 Subsec. (l). Pub. L. 89–368, §101(d), added subsec. (l).
 
@@ -764,7 +764,7 @@ Pub. L. 97–34, title I, §101(f)(2), Aug. 13, 1981, 95 Stat. 185, provided tha
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–601, §4(f), Dec. 24, 1980, 94 Stat. 3498, provided that: "The amendments made by this section \[amending this section and section 6051 of this title\] shall apply to payments made on or after the first day of the first calendar month beginning more than 120 days after the date of the enactment of this Act \[Dec. 24, 1980\]."
+Pub. L. 96–601, §4(f), Dec. 24, 1980, 94 Stat. 3498, provided that: "The amendments made by this section\[amending this section and section 6051 of this title\] shall apply to payments made on or after the first day of the first calendar month beginning more than 120 days after the date of the enactment of this Act \[Dec. 24, 1980\]."
 
 #### Effective Date of 1978 Amendment
 
@@ -844,7 +844,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Withholding Allowances To Reflect New Rate Schedules
 

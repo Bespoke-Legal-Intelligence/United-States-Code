@@ -50,7 +50,7 @@ Not later than 1 year after July 22, 2014, the Administrator shall develop and p
 
 #### (1) In general
 
-&emsp;The Director described in section 796–1 of this title shall provide to the Administrator of the Administration for Community Living and the Administrator shall include, in an annual report, information on the extent to whichcenters for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in section 796f–4 of this title. The Director may identify individual centers for independent living in the analysis contained in that information. The Director shall include in the report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under subpart 3.
+&emsp;The Director described in section 796–1 of this title shall provide to the Administrator of the Administration for Community Living and the Administrator shall include, in an annual report, information on the extent to which centers for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in section 796f–4 of this title. The Director may identify individual centers for independent living in the analysis contained in that information. The Director shall include in the report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under subpart 3.
 
 #### (2) Public availability
 

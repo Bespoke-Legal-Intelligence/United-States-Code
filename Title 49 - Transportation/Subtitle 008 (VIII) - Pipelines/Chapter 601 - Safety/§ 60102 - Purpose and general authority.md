@@ -148,11 +148,11 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 Promoting public awareness.—
 
-&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
+&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safetyand Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
 
 &emsp;(B)(i) Not later than June 1, 1998, the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
 
-&emsp;(ii) Not later than one year after the survey and assessment are completed, the Secretary shall institute a rulemaking to determine the most effective public safety and education program components and promulgate if appropriate, standards implementing those components on a nationwide basis. In the event that the Secretary finds that promulgation of such standards are not appropriate, the Secretaryshall report to Congress the reasons for that finding.
+&emsp;(ii) Not later than one year after the survey and assessment are completed, the Secretary shall institute a rulemaking to determine the most effective public safety and education program components and promulgate if appropriate, standards implementing those components on a nationwide basis. In the event that the Secretary finds that promulgation of such standards are not appropriate, the Secretary shall report to Congress the reasons for that finding.
 
 (d)
 
@@ -206,7 +206,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;(2)
 
-Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
+Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method thatis at least as effective as using the device in providing for the safety of the pipeline.
 
 (g)
 
@@ -228,7 +228,7 @@ Carbon Dioxide Regulation.—
 
 &emsp;(1)
 
-Transportation in liquid state.—The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility.The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
+Transportation in liquid state.—The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility. The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
 
 &emsp;(2)
 
@@ -500,7 +500,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(b) (last sentence); added O
 
 In this section, the word "Federal" is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the word "prescribe" is substituted for "by regulation, establish" forconsistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
+In subsection (a)(1), before clause (A), the word "prescribe" is substituted for "by regulation, establish" for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
 
 In subsection (b), before clause (1), the words "Except as provided in section 60103 of this title" are added for clarity. In clause (3), the word "proposed" is omitted as surplus.
 
@@ -605,6 +605,14 @@ Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted "standards" for "r
 Subsec. (j)(3). Pub. L. 104–304, §4(h), added par. (3).
 
 Subsec. (l). Pub. L. 104–304, §4(f), added subsec. (l).
+
+#### Response Plans
+
+Pub. L. 114–183, §18, June 22, 2016, 130 Stat. 527, provided that: "Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—
+
+&emsp;"(1) consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and
+
+&emsp;"(2) include procedures and resources for responding to such discharge in the plan."
 
 #### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
 

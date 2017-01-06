@@ -156,7 +156,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) Appeal to Secretary
 
-&emsp;A manufacturer or importer subject to this section may contest an assessment imposed on the manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d), that the manufacturer or importer intends to contest the assessment.
+&emsp;A manufacturer or importer subject to this section may contest an assessment imposed on the manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d),that the manufacturer or importer intends to contest the assessment.
 
 #### (2) Information
 
@@ -200,7 +200,11 @@ The authority provided by this section to impose assessments terminates on Septe
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+#### Effective Date
+
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

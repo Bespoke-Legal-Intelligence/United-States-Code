@@ -15,6 +15,7 @@
 | [2081\.](%C2%A7%2002081%20-%20Undercover%20investigative%20operations%20of%20Customs%20Service.md) | Undercover investigative operations of Customs Service. |
 | [2082\.](%C2%A7%2002082%20-%20Customs%20Service%20administration.md) | Customs Service administration. |
 | [2083\.](%C2%A7%2002083%20-%20Annual%20national%20trade%20and%20customs%20law%20violation%20estimates%20and%20enforcement%20strategy.md) | Annual national trade and customs law violation estimates and enforcement strategy. |
+| [2084\.](%C2%A7%2002084%20-%20Office%20of%20Trade.md) | Office of Trade. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,3 +37,4 @@
 - [&sect; 02081 - Undercover investigative operations of Customs Service](%C2%A7%2002081%20-%20Undercover%20investigative%20operations%20of%20Customs%20Service.md)
 - [&sect; 02082 - Customs Service administration](%C2%A7%2002082%20-%20Customs%20Service%20administration.md)
 - [&sect; 02083 - Annual national trade and customs law violation estimates and enforcement strategy](%C2%A7%2002083%20-%20Annual%20national%20trade%20and%20customs%20law%20violation%20estimates%20and%20enforcement%20strategy.md)
+- [&sect; 02084 - Office of Trade](%C2%A7%2002084%20-%20Office%20of%20Trade.md)

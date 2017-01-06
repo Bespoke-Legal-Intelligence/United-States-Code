@@ -64,7 +64,7 @@ Counsel for Missing Persons.—(1) When the Secretary concerned appoints a board
 
 (g)
 
-Attendance of Family Members and Certain Other Interested Persons at Proceedings.—(1) With respect to any person covered by an inquiry under this section, the primary next of kin, other members of the immediate family,and any other previously designated person of the person may attend the proceedings of the board during the inquiry.
+Attendance of Family Members and Certain Other Interested Persons at Proceedings.—(1) With respect to any person covered by an inquiry under this section, the primary next of kin, other members of the immediate family, and any other previously designated person of the person may attend the proceedings of the board during the inquiry.
 
 (2) The Secretary concerned shall take reasonable actions to notify each individual referred to in paragraph (1) of the opportunity to attend the proceedings of a board. Such notice shall be provided not less than 60 days before the first meeting of the board.
 
@@ -126,7 +126,7 @@ Actions by Secretary Concerned.—(1) Not later than 30 days after the receipt o
 
 (2) In reviewing a report under paragraph (1) (including the objections described in subparagraph (C) of that paragraph), the Secretary concerned shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
-(3) Upon a determination by the Secretary that a report reviewed under this subsection iscomplete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
+(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
 
 (l)
 

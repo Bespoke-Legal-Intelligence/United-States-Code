@@ -54,6 +54,7 @@
 | [2679a.](%C2%A7%2002679a%20-%20Procurement%20contracts.md) | Procurement contracts. |
 | [2679b.](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md) | Prohibition against fraudulent use of "Made in America" labels. |
 | [2679c.](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md) | Prohibition on discriminatory contracts. |
+| [2679d.](%C2%A7%2002679d%20-%20Exemption%20from%20certain%20procurement%20protest%20procedures%20for%20noncompetitive%20contracting%20in%20emergency%20circumstances.md) | Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances. |
 | [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md) | Appropriations for State Department; information to congressional committees. |
 | 2680–1. | Deadline for responses to questions from congressional committees. |
 | 2680–2. | Facilitating access to Department of State. |
@@ -123,6 +124,10 @@
 | [2733\.](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%27%20Retirement%20System.md) | Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System. |
 | [2734\.](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md) | Reconstruction and stabilization. |
 | [2734a.](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md) | Authorities related to personnel. |
+| [2734b.](%C2%A7%2002734b%20-%20Report%20on%20diversity%20recruitment%2C%20employment%2C%20retention%2C%20and%20promotion.md) | Report on diversity recruitment, employment, retention, and promotion. |
+| [2734c.](%C2%A7%2002734c%20-%20Employee%20assignment%20restrictions.md) | Employee assignment restrictions. |
+| [2734d.](%C2%A7%2002734d%20-%20Recruitment%20and%20retention%20of%20individuals%20who%20have%20lived%2C%20worked%2C%20or%20studied%20in%20predominantly%20Muslim%20countries%20or%20communities.md) | Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities. |
+| [2735\.](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md) | Foreign relations exchange programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -184,6 +189,7 @@
 - [&sect; 02679a - Procurement contracts](%C2%A7%2002679a%20-%20Procurement%20contracts.md)
 - [&sect; 02679b - Prohibition against fraudulent use of Made in America labels](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md)
 - [&sect; 02679c - Prohibition on discriminatory contracts](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md)
+- [&sect; 02679d - Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances](%C2%A7%2002679d%20-%20Exemption%20from%20certain%20procurement%20protest%20procedures%20for%20noncompetitive%20contracting%20in%20emergency%20circumstances.md)
 - [&sect; 02680 - Appropriations for State Department; information to congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md)
 - [&sect; 02680&#8211;1 - Deadline for responses to questions from congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20congressional%20committees.md)
 - [&sect; 02680&#8211;2 - Facilitating access to Department of State](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State.md)
@@ -253,3 +259,7 @@
 - [&sect; 02733 - Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%27%20Retirement%20System.md)
 - [&sect; 02734 - Reconstruction and stabilization](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md)
 - [&sect; 02734a - Authorities related to personnel](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md)
+- [&sect; 02734b - Report on diversity recruitment, employment, retention, and promotion](%C2%A7%2002734b%20-%20Report%20on%20diversity%20recruitment%2C%20employment%2C%20retention%2C%20and%20promotion.md)
+- [&sect; 02734c - Employee assignment restrictions](%C2%A7%2002734c%20-%20Employee%20assignment%20restrictions.md)
+- [&sect; 02734d - Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities](%C2%A7%2002734d%20-%20Recruitment%20and%20retention%20of%20individuals%20who%20have%20lived%2C%20worked%2C%20or%20studied%20in%20predominantly%20Muslim%20countries%20or%20communities.md)
+- [&sect; 02735 - Foreign relations exchange programs](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md)

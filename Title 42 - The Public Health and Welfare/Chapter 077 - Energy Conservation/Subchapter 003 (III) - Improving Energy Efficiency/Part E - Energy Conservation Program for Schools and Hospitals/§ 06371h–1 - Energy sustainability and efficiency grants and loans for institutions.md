@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Energy sustainability
 
-&emsp;The term "energy sustainability" includes using a renewable energy source, thermal energy source, or a highly efficient technology for transportation, electricity generation, heating, cooling, lighting, or other energy services in fixed installations.
+&emsp;The term "energy sustainability" includes using a renewable energy source, thermal energy source, or a highly efficient technology for transportation, electricity generation,heating, cooling, lighting, or other energy services in fixed installations.
 
 #### (4) Institution of higher education
 
@@ -288,7 +288,7 @@ Not later than 180 days after December 19, 2007, the Secretary shall establish p
 
 #### (1) Grants
 
-&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections\(b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
+&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections (b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
 
 #### (2) Loans
 

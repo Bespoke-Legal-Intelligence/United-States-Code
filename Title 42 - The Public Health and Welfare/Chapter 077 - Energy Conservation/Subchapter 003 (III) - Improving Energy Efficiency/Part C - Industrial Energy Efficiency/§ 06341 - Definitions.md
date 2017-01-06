@@ -90,7 +90,7 @@ Sec. 2. <i>Encouraging Investment in Industrial Efficiency</i>. The Departments 
 
 (c) utilize their respective relevant authorities and resources to encourage investment in industrial energy efficiency and CHP, such as by:
 
-(i) providing assistance to States on accounting for the potential emission reduction benefits of CHP andother energy efficiency policies when developing State Implementation Plans (SIPs) to achieve national ambient air quality standards;
+(i) providing assistance to States on accounting for the potential emission reduction benefits of CHP and other energy efficiency policies when developing State Implementation Plans (SIPs) to achieve national ambient air quality standards;
 
 (ii) providing incentives for the deployment of CHP and other types of clean energy, such as set-asides under emissions allowance trading program state implementation plans, grants, and loans;
 

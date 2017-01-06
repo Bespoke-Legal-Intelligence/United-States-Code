@@ -8,3 +8,7 @@ The committee may allow any party reimbursement from the applicable accounts of 
 
 <b>1996</b>—Pub. L. 104–186 substituted "applicable accounts" for "contingent fund".
 
+#### Effective Date
+
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
+

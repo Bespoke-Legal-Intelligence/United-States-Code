@@ -8,7 +8,7 @@
 
 (B) The adjustment in rates of dependency and indemnity compensation referred to in subparagraph (A) of this paragraph shall be made by the Secretary in accordance with regulations which the Secretary shall prescribe.
 
-(c)(1) Whenever there is an increase under subsection (a) in benefit rates payable under sections 1521, 1541, 1542, and 1805 of this title and an increase under subsection (b) in benefit rates and annual income limitations under section 1315 of this title, the Secretary shall publish such rates and limitations (including those rates adjusted by the Secretary under subsection (b)(2) of this section), as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+(c)(1) Whenever there is an increase under subsection (a) in benefit rates payable under sections 1521, 1541, 1542, and 1805 of this title and an increase under subsection (b) in benefit rates and annual income limitations under section 1315 of this title, the Secretary shall publish such rates and limitations (including those rates adjusted by the Secretary under subsection (b)(2) of this section), as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C.415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 (2) Whenever such rates and income limitations are so increased, the Secretary may round such rates and income limitations in such manner as the Secretary considers equitable and appropriate for ease of administration.
 
@@ -66,7 +66,7 @@ Special Rules.—(1) Section 5510 of title 38, United States Code, as added by s
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–204 effective Oct. 1, 1997, notwithstanding section 421(d) of Pub. L. 104–204, setout as an Effective Date note under section 1801 of this title, unless legislation other than Pub. L. 104–204 is enacted providing for an earlier effective date, see section 422(c) of Pub. L. 104–204, set out as a note under section 1151 of this title.
+Amendment by Pub. L. 104–204 effective Oct. 1, 1997, notwithstanding section 421(d) of Pub. L. 104–204, set out as an Effective Date note under section 1801 of this title, unless legislation other than Pub. L. 104–204 is enacted providing for an earlier effective date, see section 422(c) of Pub. L. 104–204, set out as a note under section 1151 of this title.
 
 Amendment by Pub. L. 104–204 effective Jan. 1, 1997, see section 421(d) of Pub. L. 104–204, set out as an Effective Date note under section 1801 of this title.
 

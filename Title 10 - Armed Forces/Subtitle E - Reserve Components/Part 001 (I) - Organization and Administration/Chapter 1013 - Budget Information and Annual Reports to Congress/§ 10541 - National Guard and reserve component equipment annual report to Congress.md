@@ -1,6 +1,6 @@
 ### §10541. National Guard and reserve component equipment: annual report to Congress
 
-(a) The Secretary of Defense shall submit to the Congress each year, not later than March 15,a written report concerning the equipment of the National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
+(a) The Secretary of Defense shall submit to the Congress each year, not later than March 15, a written report concerning the equipment of the National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
 
 (b) Each report under this section shall include the following:
 
@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(E) the number of nondeployable items in the inventory as a substitute for a required major item of equipment.
 
-&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
+&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipmentneeded to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
 
 &emsp;(7) For each item of major equipment reported under paragraph (3) in a report for one of the three previous years under this section as an item expected to be procured for the Selected Reserve or to be transferred to the Selected Reserve, the quantity of such equipment actually procured for or transferred to the Selected Reserve.
 
 &emsp;(8) A statement of the current status of the compatibility of equipment between the Army reserve components and active forces of the Army, the effect of that level of incompatibility on combat effectiveness, and a plan to achieve full equipment compatibility.
 
-&emsp;(9) An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 331, 332, 333, 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)). Such assessment shall—
+&emsp;(9) An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 331, 332, 333,<sup>1</sup> 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)). Such assessment shall—
 
 &emsp;&emsp;(A) identify any shortfall in equipment provided to the National Guard by the Department of Defense throughout the United States and the territories and possessions of the United States that is likely to affect the ability of the National Guard to perform such responsibilities;
 
@@ -53,6 +53,10 @@
 &emsp;&emsp;(C) which has not been received by a National Guard unit as of the close of that fiscal year.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, §1070, Dec. 31, 2011, 125 Stat. 1592.)
+
+#### References in Text
+
+Sections 331, 332, and 333, referred to in subsec. (b)(9), were renumbered sections 251, 252, and 253, respectively, of this title by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Prior Provisions
 
@@ -77,4 +81,10 @@ Pub. L. 110–181, div. A, title III, §351(c)(1), Jan. 28, 2008, 122 Stat. 70, 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

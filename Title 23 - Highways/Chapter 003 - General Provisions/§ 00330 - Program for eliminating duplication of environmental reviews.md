@@ -168,7 +168,7 @@ Deadlines.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Notification.—The State shall notify the Secretary of the final action ofthe State not later than 10 days after the final action is taken.
+Notification.—The State shall notify the Secretary of the final action of the State not later than 10 days after the final action is taken.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 

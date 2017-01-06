@@ -20,7 +20,7 @@ Any agreement entered into under subsection (a) shall not require the Chief Admi
 
 &emsp;(A) when the Chief Administrative Officer first enters into an agreement with a State under subsection (a), a request for withholding shall be effective on such date as the Chief Administrative Officer may determine;
 
-&emsp;(B) when an individual first receives an appointment as an employee, the request shallbe effective on the day of appointment, if the individual makes the request at the time of appointment; and
+&emsp;(B) when an individual first receives an appointment as an employee, the request shall be effective on the day of appointment, if the individual makes the request at the time of appointment; and
 
 &emsp;(C) when an individual first becomes a Member, the request shall be effective on the day such individual takes the oath of office as a Member, if the individual makes the request at such time.
 

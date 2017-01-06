@@ -52,7 +52,7 @@ Pub. L. 103–382, §247, amended section generally. Prior to amendment, section
 
 <b>1980</b>—Subsec. (d)(1). Pub. L. 96–374 inserted ", in whole or in part" after "disapprove such final regulation".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–482, §405(a), added par. (1), designated existing provisions which constituted entire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
+<b>1976</b>—Subsec. (a). Pub. L. 94–482, §405(a), added par. (1), designated existing provisions which constitutedentire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
 
 Subsec. (b)(1). Pub. L. 94–482, §405(b)(1), substituted "proposed regulation" for "standard, rule, regulation, or requirement of general applicability".
 

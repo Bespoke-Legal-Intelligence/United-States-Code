@@ -88,7 +88,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (1) In general
 
-&emsp;Whenever the Commission obtains evidence that any person, partnership, or corporation, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, to transmit such evidence to the Attorney General, who may institute criminal proceedings under appropriate statutes. Nothing in this paragraph affects any other authority of the Commission to disclose information.
+&emsp;Whenever the Commission obtains evidence that any person, partnership, or corporation, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, to transmit such evidenceto the Attorney General, who may institute criminal proceedings under appropriate statutes. Nothing in this paragraph affects any other authority of the Commission to disclose information.
 
 #### (2) International information
 
@@ -186,7 +186,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 
-Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive studyand evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Ex. Ord. No. 10544. Inspection of Income Tax Returns by Federal Trade Commission
 

@@ -42,5 +42,5 @@ In subsection (c), the words "the Secretary" are substituted for the words "the 
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable spacefor postal purposes at each air base where there was a post office.
+<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each air base where there was a post office.
 

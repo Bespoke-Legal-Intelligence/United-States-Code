@@ -14,7 +14,7 @@
 
 In any State in which the Administrator has approved the State plan required by section 796c of this title, the Administrator may make a grant under this section to any eligible agency that—
 
-&emsp;(1) has the power and authority to carry out the purpose of this subpart and perform the functions set forth in section 796f–4 of this title within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center forindependent living, and funds from other public and private programs;
+&emsp;(1) has the power and authority to carry out the purpose of this subpart and perform the functions set forth in section 796f–4 of this title within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center for independent living, and funds from other public and private programs;
 
 &emsp;(2) is determined by the Administrator to be able to plan, conduct, administer, and evaluate a center for independent living consistent with the standards and assurances set forth in section 796f–4 of this title; and
 
@@ -66,11 +66,11 @@ In the administration of the provisions of this section, the Administrator shall
 
 The Administrator shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-&emsp;(1) The Administrator shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
+&emsp;(1) The Administrator shall support existing centers for independent living, as described in subsection (c), that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 
 &emsp;(2) The Administrator shall provide for a cost-of-living increase for such existing centers for independent living.
 
-&emsp;(3) The Administrator shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;(3) The Administrator shall fund new centers for independent living, as described in subsection (d), that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (f) Nonresidential agencies
 

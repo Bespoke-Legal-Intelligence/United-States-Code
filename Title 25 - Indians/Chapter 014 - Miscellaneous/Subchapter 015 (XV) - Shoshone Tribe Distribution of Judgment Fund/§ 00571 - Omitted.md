@@ -1,0 +1,6 @@
+### §571. Omitted
+
+#### Codification
+
+Section, act July 27, 1939, ch. 387, §1, 53 Stat. 1128, which directed the Secretary of the Interior to prepare a membership roll of the Shoshone Tribe, was omitted from the Code as being of special and not general application.
+

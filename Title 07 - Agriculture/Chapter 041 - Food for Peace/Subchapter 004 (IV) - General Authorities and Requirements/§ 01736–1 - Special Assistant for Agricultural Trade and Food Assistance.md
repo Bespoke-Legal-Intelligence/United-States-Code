@@ -26,7 +26,7 @@ The Special Assistant shall—
 
 &emsp;(7) serve as a member of the Development Coordination Committee and the Food Aid Subcommittee of such Committee;
 
-&emsp;(8) advise departments and agencies of the Federal Government on their policy guidelines on basic issues of food assistance policy to the extent necessary to assure the coordination offood assistance programs, consistent with law, and with the advice of such Subcommittee; and
+&emsp;(8) advise departments and agencies of the Federal Government on their policy guidelines on basic issues of food assistance policy to the extent necessary to assure the coordination of food assistance programs, consistent with law, and with the advice of such Subcommittee; and
 
 &emsp;(9) submit a report to the President and Congress each year through 1990 containing—
 

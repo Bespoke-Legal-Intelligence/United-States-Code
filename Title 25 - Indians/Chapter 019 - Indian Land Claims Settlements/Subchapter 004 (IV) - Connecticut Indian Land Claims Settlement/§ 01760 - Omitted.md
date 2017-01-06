@@ -1,0 +1,6 @@
+### §1760. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–134, §11, Oct. 18, 1983, 97 Stat. 856, which provided for severability of provisions, was omitted from the Code as being of special and not general application.
+

@@ -6,7 +6,7 @@ The Export-Import Bank of the United States shall transmit to the Congress annua
 
 #### (b) Report on allocation of sums set aside for small business exports
 
-(1) The Bank shall include in its annual report to the Congress a report on the allocation of the sums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
+(1) The Bank shall include in its annual report to the Congress a report on the allocation of thesums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
 
 (2) Such report shall specify—
 
@@ -80,7 +80,7 @@ Not later than March 31 of each year, the Bank shall submit to the Committee on 
 
 &emsp;&emsp;&emsp;(iii) with respect to each industry sector involved; and
 
-&emsp;&emsp;(B) submit to the Committee on Banking, Housing, and Urban Affairs of the Senateand the Committee on Financial Services of the House of Representatives a report on each such rate and any information the Bank deems relevant.
+&emsp;&emsp;(B) submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on each such rate and any information the Bank deems relevant.
 
 #### (3) Report on causes of default rate; plan to reduce default rate
 
@@ -162,7 +162,7 @@ Subsec. (j). Pub. L. 112–122, §21(c), added subsec. (j).
 
 <b>2002</b>—Subsecs. (c) to (e). Pub. L. 107–189 added subsecs. (c) to (e).
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. Inaddition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title."
+<b>2000</b>—Subsec. (b). Pub. L. 106–569 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The report shall contain a description of actions taken by the Bank in pursuance of the policy of aiding, counseling, assisting, and protecting, insofar as is possible, the interests of small business concerns and of the activities of the member of the Board appointed to represent the interest of small business. In addition, the Bank shall include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title."
 
 Subsec. (c). Pub. L. 106–569 redesignated subsec. (c) as (b) and directed redesignation of subsec. (e) as (c).
 

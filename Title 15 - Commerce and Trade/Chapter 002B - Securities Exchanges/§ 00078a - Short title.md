@@ -6,7 +6,11 @@ This chapter may be cited as the "Securities Exchange Act of 1934."
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77o, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act \[enacting section 78qq of this title and amending sections 78d and 80c–1 of this title\] may be cited as the 'SEC Small Business Advocate Act of 2016'."
 
 #### Short Title of 2012 Amendment
 
@@ -18,7 +22,7 @@ Pub. L. 111–203, title IX, §901, July 21, 2010, 124 Stat. 1822, provided that
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–291, §1, Sept. 29, 2006, 120 Stat. 1327, provided that: "This Act \[enacting section 78o–7 of thistitle, amending sections 78c, 78o, 78q, 78u–2, 80a–2, 80a–9, 80b–2, and 80b–3 of this title, section 4519 of Title 12, Banks and Banking, section 1087–2 of Title 20, Education, and section 181 of Title 23, Highways, and enacting provisions set out as notes under section 78o–7 of this title\] may be cited as the 'Credit Rating Agency Reform Act of 2006'."
+Pub. L. 109–291, §1, Sept. 29, 2006, 120 Stat. 1327, provided that: "This Act \[enacting section 78o–7 of this title, amending sections 78c, 78o, 78q, 78u–2, 80a–2, 80a–9, 80b–2, and 80b–3 of this title, section 4519 of Title 12, Banks and Banking, section 1087–2 of Title 20, Education, and section 181 of Title 23, Highways, and enacting provisions set out as notes under section 78o–7 of this title\] may be cited as the 'Credit Rating Agency Reform Act of 2006'."
 
 #### Short Title of 2004 Amendment
 
@@ -72,7 +76,7 @@ Pub. L. 101–550, title III, §301, Nov. 15, 1990, 104 Stat. 2721, provided tha
 
 Pub. L. 101–432, §1, Oct. 16, 1990, 104 Stat. 963, provided that: "This Act \[enacting section 1831l of Title 12, Banks and Banking, amending sections 78i, 78l, 78m, 78o–5, 78q, 78q–1, and 78y of this title, and enacting provisions set out as notes under sections 78b and 78q–1 of this title\] may be cited as the 'Market Reform Act of 1990'."
 
-Pub. L. 101–429, §1(a), Oct. 15, 1990, 104 Stat. 931, provided that: "This Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending sections 77g, 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9,80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under this section and sections 77g, 78o, and 78s of this title\] may be cited as the 'Securities Enforcement Remedies and Penny Stock Reform Act of 1990'."
+Pub. L. 101–429, §1(a), Oct. 15, 1990, 104 Stat. 931, provided that: "This Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending sections 77g, 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under this section and sections 77g, 78o, and 78s of this title\] may be cited as the 'Securities Enforcement Remedies and Penny Stock Reform Act of 1990'."
 
 Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: "This title \[enacting section 78q–2 of this title, amending sections 77g, 78c, 78o, 78o–3, and 78cc of this title, and enacting provisions set out as notes under sections 78o and 78s of this title\] may be cited as the 'Penny Stock Reform Act of 1990'."
 

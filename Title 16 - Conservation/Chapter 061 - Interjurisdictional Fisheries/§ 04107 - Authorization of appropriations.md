@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary of Commerce for apporti
 
 #### (b) Additional appropriations
 
-In addition to the amounts authorized in subsection (a) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for each of the fiscal years 1994 and 1995, which shall be available in such amounts as the Secretary may determine appropriate for the purposes of this chapter; except that—
+In addition to the amounts authorized in subsection (a), there are authorized to be appropriated to the Department of Commerce $65,000,000 for each of the fiscal years 1994 and 1995, which shall be available in such amounts as the Secretary may determine appropriate for the purposes of this chapter; except that—
 
 &emsp;(1) in providing funds to States under this subsection, the Secretary shall give a preference to those States regarding which the Secretary determines there is a commercial fishery failure or serious disruption affecting future production due to a fishery resource disaster arising from natural or undetermined causes, and any sums made available under this subsection may be used either by the States or directly by the Secretary in cooperation with the States for any purpose that the Secretary determines is appropriate to restore the fishery affected by such a failure or to prevent a similar failure in the future;
 
@@ -18,7 +18,7 @@ In addition to the amounts authorized in subsection (a) of this section, there a
 
 #### (c) Development of management plans
 
-In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $900,000 for each of fiscal years 2007 through 2012, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
+In addition to the amounts authorized under subsections (a) and (b), there are authorized to be appropriated to the Department of Commerce $900,000 for each of fiscal years 2007 through 2012, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
 
 &emsp;(1) The commission established by the Atlantic States Marine Fisheries Compact, as consented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
 
@@ -28,7 +28,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 #### (d) Assistance to commercial fishermen
 
-(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary tohave been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
+(1) In addition to the amounts authorized under subsections (a), (b), and (c), there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
 
 (2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
 
@@ -64,7 +64,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 &emsp;(D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
 
-(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, §104, Jan. 4, 2011, 124 Stat. 3671.)
+(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996,110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, §104, Jan. 4, 2011, 124 Stat. 3671.)
 
 #### References in Text
 

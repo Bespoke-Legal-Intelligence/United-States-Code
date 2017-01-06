@@ -8,7 +8,7 @@
 
 #### (2) Determination
 
-&emsp;In making a determination with respect to availability, adequacy, and necessity under paragraph (1), the President shall not require greater types and extent of insurance than are certified to him as reasonable by the appropriate State insurance commissioner responsible for regulation of such insurance.
+&emsp;In making a determination with respect to availability, adequacy, and necessity underparagraph (1), the President shall not require greater types and extent of insurance than are certified to him as reasonable by the appropriate State insurance commissioner responsible for regulation of such insurance.
 
 #### (b) Maintenance of insurance
 

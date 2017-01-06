@@ -10,7 +10,7 @@ The Secretary, in consultation with the Board of Governors of the Federal Reserv
 
 &emsp;(3) contain only disclosures that—
 
-&emsp;&emsp;(A) the applicant may qualify for Federal student financial assistance through a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, or State or institutional student financial assistance, in place of, or in addition to, a private education loan;
+&emsp;&emsp;(A) the applicant may qualify for Federal student financial assistance through a program under subchapter IV of this chapter, or State or institutional student financial assistance, in place of, or in addition to, a private education loan;
 
 &emsp;&emsp;(B) the applicant is encouraged to discuss the availability of Federal, State, and institutional student financial assistance with financial aid officials at the applicant's institution of higher education;
 
@@ -20,9 +20,9 @@ The Secretary, in consultation with the Board of Governors of the Federal Reserv
 
 &emsp;(4) include a place to provide information on—
 
-&emsp;&emsp;(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under part E of subchapter IV;
+&emsp;&emsp;(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under part F of subchapter IV;
 
-&emsp;&emsp;(B) the applicant's estimated financial assistance, including amounts of financial assistance used to replace the expected family contribution, as determined by the institution, in accordance with subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, for students who have completed the Free Application for Federal Student Aid; and
+&emsp;&emsp;(B) the applicant's estimated financial assistance, including amounts of financial assistance used to replace the expected family contribution, as determined by the institution, in accordance with subchapter IV, for students who have completed the Free Application for Federal Student Aid; and
 
 &emsp;&emsp;(C) the difference between the amounts under subparagraphs (A) and (B), as applicable; and
 
@@ -38,11 +38,11 @@ Nothing in this section shall be construed to create a private right of action a
 
 <b>2009</b>—Subsec. (a)(4). Pub. L. 111–39 added par. (4) and struck out former par. (4) which read as follows: "include a place to provide information on—
 
-&emsp;"(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under Part E of subchapter IV;
+&emsp;"(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under Part F of subchapter IV;
 
-&emsp;"(B) the applicant's expected family contribution, as determined under Part E of subchapter IV, as applicable, for students who have completed the free application for Federal student aid;
+&emsp;"(B) the applicant's expected family contribution, as determined under Part F of subchapter IV, as applicable, for students who have completed the free application for Federal student aid;
 
-&emsp;"(C) the applicant's estimated financial assistance, as determined by the institution, in accordance with subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as applicable;
+&emsp;"(C) the applicant's estimated financial assistance, as determined by the institution, in accordance with subchapter IV, as applicable;
 
 &emsp;"(D) the difference between the amounts under subparagraphs (A) and (C), as applicable; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Notification.—A State may become a participating State under this chapter by notifyingthe Secretary of Transportation of its intention to be bound by section 30304 of this title.
+Notification.—A State may become a participating State under this chapter by notifying the Secretary of Transportation of its intention to be bound by section 30304 of this title.
 
 (b)
 

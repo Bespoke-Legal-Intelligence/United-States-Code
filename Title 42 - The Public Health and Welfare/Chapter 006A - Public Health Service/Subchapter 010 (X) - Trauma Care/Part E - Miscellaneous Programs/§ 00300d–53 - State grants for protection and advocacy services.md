@@ -24,21 +24,21 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (1) In general
 
-&emsp;With respect to any fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is less than $2,700,000, the Secretary shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
+&emsp;With respect to any fiscal year in which the amount appropriated under subsection (l) to carry out this section is less than $2,700,000, the Secretary shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
 
 #### (2) Amount
 
-&emsp;The amount of each grant provided under paragraph (1) shall be determined as set forth in paragraphs (2) and (3) of subsection (e) of this section.
+&emsp;The amount of each grant provided under paragraph (1) shall be determined as set forth in paragraphs (2) and (3) of subsection (e).
 
 #### (e) Appropriations of $2,700,000 or more
 
 #### (1) Population basis
 
-&emsp;Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is $2,700,000 or more, the Secretary shall make a grant to a protection and advocacy system within each State.
+&emsp;Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (l) to carry out this section is $2,700,000 or more, the Secretary shall make a grant to a protection and advocacy system within each State.
 
 #### (2) Amount
 
-&emsp;The amount of a grant provided to a system under paragraph (1) shall be equal to an amount bearing the same ratio to the total amount appropriated for the fiscal year involved under subsection (l) of this section as the population of the State in which the grantee is located bears to the population of all States.
+&emsp;The amount of a grant provided to a system under paragraph (1) shall be equal to an amount bearing the same ratio to the total amount appropriated for the fiscal year involved under subsection (l) as the population of the State in which the grantee is located bears to the population of all States.
 
 #### (3) Minimums
 
@@ -50,7 +50,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (4) Inflation adjustment
 
-&emsp;For each fiscal year in which the total amount appropriated under subsection (l) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Secretary shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (l) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For each fiscal year in which the total amount appropriated under subsection (l) to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Secretary shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (l) to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (f) Carryover
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, each fiscal year not later than Octo
 
 #### (2) Report by Secretary
 
-&emsp;Not later than 1 year after November 26, 2014, the Secretary shall prepare and submit tothe appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
+&emsp;Not later than 1 year after November 26, 2014, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
 
 #### (i) Data collection
 
@@ -106,7 +106,7 @@ In this section:
 
 #### (3) State
 
-&emsp;The term "State", unless otherwise specified, means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State", unless otherwise specified, means the several States of the UnitedStates, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141; amended Pub. L. 110–206, §6(b), Apr. 28, 2008, 122 Stat. 717; Pub. L. 113–196, §4, Nov. 26, 2014, 128 Stat. 2053.)
 

@@ -20,7 +20,7 @@ To this end, it is the intent of the Congress that whenever Congress shall deter
 
 The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604. Act was comprised of titles I and II, prior to repeal of title II by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. Title I of the Act is classified principally to this chapter. Title II of the Act was classified to the Articles of War set out in former Title 10, Army and Air Force, to sections 61, 61a, 62a, 65, and 652a of former Title 10, and to section 180 of former Title 14, Coast Guard, prior to repeal. For complete classification of this Act to the Code, see Tables.
 
-The National Defense Act of 1916, referred to in subsec. (d), is act June 3, 1916, ch. 134, 39 Stat. 166, whichwas classified generally throughout former Title 10, Army and Air Force, prior to repeal by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, and reenactment as parts of Title 10, Armed Forces, and Title 32, National Guard.
+The National Defense Act of 1916, referred to in subsec. (d), is act June 3, 1916, ch. 134, 39 Stat. 166, which was classified generally throughout former Title 10, Army and Air Force, prior to repeal by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, and reenactment as parts of Title 10, Armed Forces, and Title 32, National Guard.
 
 This chapter, referred to in subsec. (d), was in the original "this title", meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -58,5 +58,5 @@ Act June 30, 1950, ch. 445, §4, 64 Stat. 319, provided that: "This Act \[see Ta
 
 #### Separability
 
-Act June 19, 1951, ch. 144, title I, §5, 65 Stat. 88, provided that: "If any provisions of this Act \[see Tables for classification\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
+Act June 19, 1951, ch. 144, title I, §5, 65 Stat. 88, provided that: "If any provisions of this Act \[see Tables for classification\] or the application thereof to any personor circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
 

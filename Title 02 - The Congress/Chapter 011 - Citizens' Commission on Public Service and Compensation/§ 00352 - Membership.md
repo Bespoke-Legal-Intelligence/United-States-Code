@@ -56,5 +56,9 @@ The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III
 
 <b>1985</b>—Par. (3). Pub. L. 99–190 inserted "and with respect to fiscal year 1987" at end of first sentence.
 
+#### Effective Date
+
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

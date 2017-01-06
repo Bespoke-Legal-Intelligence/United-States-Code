@@ -26,7 +26,7 @@ Notwithstanding any other provision of this subchapter, the State shall provide 
 
 #### (d) Waiver authority
 
-Notwithstanding subsection (f), the Secretary may waive the matching funds requirement under subsection (c) above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
+Notwithstanding subsection (f), the Secretary may waive the matching funds requirementunder subsection (c) above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
 
 #### (e) Use of matching funds
 
@@ -54,7 +54,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7127, substituted "the State shall provide equal matching funds" for "for each of fiscal years 2003 through 2007, the State shall provide matching funds" and struck out at end "Suchmatching funds shall be for an amount equal to not less than—
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7127, substituted "the State shall provide equal matching funds" for "for each of fiscal years 2003 through 2007, the State shall provide matching funds" and struck out at end "Such matching funds shall be for an amount equal to not less than—
 
 &emsp;"(1) 60 percent of the formula funds to be distributed to the eligible institution for fiscal year 2003;
 

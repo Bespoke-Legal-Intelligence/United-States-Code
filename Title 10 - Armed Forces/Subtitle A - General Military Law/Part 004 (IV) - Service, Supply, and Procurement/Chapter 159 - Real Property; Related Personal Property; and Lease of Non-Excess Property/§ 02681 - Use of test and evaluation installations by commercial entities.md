@@ -56,5 +56,5 @@ Subsec. (h). Pub. L. 105–85, §842(b), amended subsec. (h) generally. Prior to
 
 "(h)
 
-Report.—Not later than January 1, 1998, the Secretary of Defense shall submit to Congress a report describing the number and purposes of contracts entered into under subsection (a) and evaluating the extent to which the authority under this section is exercised to open Major Range and Test Facility Installations to commercial test and evaluation activities."
+Report.—Not later than January 1, 1998, the Secretary of Defense shall submit to Congress a reportdescribing the number and purposes of contracts entered into under subsection (a) and evaluating the extent to which the authority under this section is exercised to open Major Range and Test Facility Installations to commercial test and evaluation activities."
 

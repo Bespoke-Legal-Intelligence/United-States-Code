@@ -2,7 +2,7 @@
 
 (a)
 
-Violations.—A person violating section 70503 of this title shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 960). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act (21 U.S.C. 962(b)), the person shall be punished as provided in section 1012 of that Act (21 U.S.C. 962).
+Violations.—A person violating paragraph (1) of section 70503(a) of this title shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 960). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act (21 U.S.C. 962(b)), the person shall be punished as provided in section 1012 of that Act (21 U.S.C. 962).
 
 (b)
 
@@ -14,7 +14,7 @@ Simple Possession.—
 
 &emsp;(1)
 
-In general.—Any individual on a vessel subject to the jurisdiction of the United States who is found by the Secretary, after notice and an opportunity for a hearing, to have knowingly or intentionally possessed a controlled substance within the meaning of the Controlled Substances Act (21 U.S.C. 812) shallbe liable to the United States for a civil penalty of not to exceed $5,000 for each violation. The Secretary shall notify the individual in writing of the amount of the civil penalty.
+In general.—Any individual on a vessel subject to the jurisdiction of the United States who is found by the Secretary, after notice and an opportunity for a hearing, to have knowingly or intentionally possessed a controlled substance within the meaning of the Controlled Substances Act (21 U.S.C. 812) shall be liable to the United States for a civil penalty of not to exceed $5,000 for each violation. The Secretary shall notify the individual in writing of the amount of the civil penalty.
 
 &emsp;(2)
 
@@ -24,7 +24,11 @@ Determination of amount.—In determining the amount of the penalty, the Secreta
 
 Treatment of civil penalty assessment.—Assessment of a civil penalty under this subsection shall not be considered a conviction for purposes of State or Federal law but may be considered proof of possession if such a determination is relevant.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1688; Pub. L. 111–281, title III, §302, Oct. 15, 2010, 124 Stat. 2923.)
+(d)
+
+Penalty.—A person violating paragraph (2) or (3) of section 70503(a) shall be fined in accordance with section 3571 of title 18, imprisoned not more than 15 years, or both.
+
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1688; Pub. L. 111–281, title III, §302, Oct. 15, 2010, 124 Stat. 2923; Pub. L. 114–120, title III, §314(c), Feb. 8, 2016, 130 Stat. 59.)
 
 Historical and Revision Notes
 
@@ -53,6 +57,10 @@ In subsection (b), the words "the commission of which was the object of the atte
 The Controlled Substances Act, referred to in subsec. (c)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–120, §314(c)(1), substituted "A person violating paragraph (1) of section 70503(a)" for "A person violating section 70503".
+
+Subsec. (d). Pub. L. 114–120, §314(c)(2), added subsec. (d).
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 

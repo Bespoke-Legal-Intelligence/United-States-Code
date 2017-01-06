@@ -8,7 +8,7 @@ No gain or loss shall be recognized to a corporation on the receipt of money or 
 
 &emsp;&emsp;<b>For basis of property acquired by a corporation in certain exchanges for its stock, see section 362.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 303; Pub. L. 98–369, div. A, title I, §57(a), July 18, 1984, 98 Stat. 574; Pub. L. 106–554, §1(a)(7) \[title IV, §401(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-649.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 303; Pub. L. 98–369, div. A, title I, §57(a), July 18, 1984, 98 Stat. 574; Pub. L. 106–554, §1(a)(7) \[title IV, §401(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649.)
 
 #### Amendments
 
@@ -18,7 +18,7 @@ No gain or loss shall be recognized to a corporation on the receipt of money or 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title IV, §401(j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-651, provided that: "The amendments made by this section \[enacting section 1234B of this title and amending this section and sections 1091, 1092, 1223, 1233, 1234A, 1256 and 7701 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title IV, §401(j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–651, provided that: "The amendments made by this section \[enacting section 1234B of this title and amending this section and sections 1091, 1092, 1223, 1233, 1234A, 1256 and 7701 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1984 Amendment
 

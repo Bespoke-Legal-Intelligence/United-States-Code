@@ -256,7 +256,7 @@
 
 #### (iii) Adjustment to investment in contract of transferee
 
-&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in the contract of the transferee in such contract shall be increased by the amount so included.
+&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of anannuity contract, the investment in the contract of the transferee in such contract shall be increased by the amount so included.
 
 #### (5) Retention of existing rules in certain cases
 
@@ -386,7 +386,7 @@ In computing, for purposes of subsection (c)(1)(A), the aggregate amount of prem
 
 &emsp;(2) if such amounts had been paid directly to the employee at the time they were contributed, they would not have been includible in the gross income of the employee under the law applicable at the time of such contribution.
 
-> Paragraph (2) shall not apply to amounts which were contributed by the employer after December 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of section 911 if such amounts had been paid directly to the employeeat the time of contribution. The preceding sentence shall not apply to amounts which were contributed by the employer, as determined under regulations prescribed by the Secretary, to provide pension or annuity credits, to the extent such credits are attributable to services performed before January 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on March 12, 1962, and on that date applicable to such services, or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii), as in effect before the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001).
+> Paragraph (2) shall not apply to amounts which were contributed by the employer after December 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of section 911 if such amounts had been paid directly to the employee at the time of contribution. The preceding sentence shall not apply to amounts which were contributed by the employer, as determined under regulations prescribed by the Secretary, to provide pension or annuity credits, to the extent such credits are attributable to services performed before January 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on March 12, 1962, and on that date applicable to such services, or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii), as in effect before the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001).
 
 #### (g) Rules for transferee where transfer was for value
 
@@ -448,7 +448,7 @@ For purposes of this section, the term "endowment contract" includes a face-amou
 
 &emsp;&emsp;(B) Any contribution to a plan described in subparagraph (A)(i) or a trust described in subparagraph (A)(ii) which is allowed as a deduction under section 404, and any income of a trust described in subparagraph (A)(ii), which is determined in accordance with regulations prescribed by the Secretary to have been applied to purchase the life insurance protection under a contract described in subparagraph (A), is includible in the gross income of the participant for the taxable year when so applied.
 
-&emsp;&emsp;(C) In the case of the death of an individual insured under a contract described in subparagraph (A), an amount equal to the cash surrender value of the contract immediately before the death of the insured shall be treated as a payment under such plan or a distribution by such trust, and the excess of the amount payable by reason of thedeath of the insured over such cash surrender value shall not be includible in gross income under this section and shall be treated as provided in section 101.
+&emsp;&emsp;(C) In the case of the death of an individual insured under a contract described in subparagraph (A), an amount equal to the cash surrender value of the contract immediately before the death of the insured shall be treated as a payment under such plan or a distribution by such trust, and the excess of the amount payable by reason of the death of the insured over such cash surrender value shall not be includible in gross income under this section and shall be treated as provided in section 101.
 
 #### \[(4) Repealed. Pub. L. 97–248, title II, §236(b)(1), Sept. 3, 1982, 96 Stat. 510\]
 
@@ -816,7 +816,7 @@ For purposes of this section—
 
 #### (B) Medical expenses
 
-&emsp;&emsp;Distributions made to the employee (other than distributions described in subparagraph (A), (C), or (D)) to the extent such distributions do not exceed the amount allowable as a deduction under section 213 to the employee for amounts paid during the taxable year for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
+&emsp;&emsp;Distributions made to the employee (other than distributions described in subparagraph (A), (C), or (D)) to the extent such distributions do not exceed the amount allowable as a deduction under section 213 to the employee for amounts paid during the taxableyear for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
 
 #### (C) Payments to alternate payees pursuant to qualified domestic relations orders
 
@@ -882,7 +882,7 @@ For purposes of this section—
 
 #### (B) Periodic payments under qualified plans must begin after separation
 
-&emsp;&emsp;Paragraph (2)(A)(iv) shall not apply to any amount paid from a trust described in section 401(a) which is exempt from tax under section 501(a) or from a contract described in section 72(e)(5)(D)(ii) unless the series of payments begins after the employee separates from service.
+&emsp;&emsp;Paragraph (2)(A)(iv) shall not apply to any amount paid from a trust described in section 401(a) which is exempt from tax under section 501(a) or from a contract described in section 72(e)(5)(D)(ii) unless the series ofpayments begins after the employee separates from service.
 
 #### (4) Change in substantially equal payments
 
@@ -1106,7 +1106,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For limitation on adjustments to basis of annuity contracts sold, see section 1021.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544-546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848-2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474-3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug.20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089.)
 
 #### References in Text
 
@@ -1138,7 +1138,7 @@ Pub. L. 113–295, §221(a)(14)(B), which directed striking out ", whichever is
 
 <b>2012</b>—Subsec. (t)(2)(A)(viii). Pub. L. 112–141 added cl. (viii).
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–240 amended subsec. (a) generally. Prior to amendment, text read as follows: "Except as otherwise provided in this chapter, gross income includes any amount received as an annuity (whether for a period certain or during one or morelives) under an annuity, endowment, or life insurance contract."
+<b>2010</b>—Subsec. (a). Pub. L. 111–240 amended subsec. (a) generally. Prior to amendment, text read as follows: "Except as otherwise provided in this chapter, gross income includes any amount received as an annuity (whether for a period certain or during one or more lives) under an annuity, endowment, or life insurance contract."
 
 <b>2008</b>—Subsec. (t)(2)(G)(iv). Pub. L. 110–245, which directed amendment by striking out ", and before December 31, 2007" after "September 11, 2001", was executed by striking out ", and on or before December 31, 2007" after "September 11, 2001", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–458. See Amendment note and Effective Date of 2008 Amendment note below.
 
@@ -1342,7 +1342,7 @@ Subsec. (m)(2)(B). Pub. L. 99–514, §1852(c)(4)(A), inserted "and subsection (
 
 Subsec. (m)(2)(C). Pub. L. 99–514, §1852(c)(4)(B), substituted "subsection (e)(6)" for "subsection (e)(1)(B)".
 
-Subsec. (m)(5). Pub. L. 99–514, §1852(a)(2)(C), which directed that par. (5) be amended by substituting "5-percent owners" for "owner-employees" in heading, wasexecuted by substituting "5-percent owners" for "key employees", to reflect the probable intent of Congress and intervening amendment by section 713(c)(1)(B) of Pub. L. 98–369.
+Subsec. (m)(5). Pub. L. 99–514, §1852(a)(2)(C), which directed that par. (5) be amended by substituting "5-percent owners" for "owner-employees" in heading, was executed by substituting "5-percent owners" for "key employees", to reflect the probable intent of Congress and intervening amendment by section 713(c)(1)(B) of Pub. L. 98–369.
 
 Subsec. (m)(5)(A). Pub. L. 99–514, §1123(d)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "This subparagraph shall apply—
 
@@ -1450,7 +1450,7 @@ Subsec. (p)(3). Pub. L. 97–448, §103(c)(3)(B)(i), struck out "without regard 
 
 Subsecs. (r), (s). Pub. L. 98–76 added subsec. (r) and redesignated former subsec. (r) as (s).
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–248, §265(a), in par. (1) substituted provisions relating to the application of this subsection to amounts received under annuity, endowment, or life insurance contracts which are not received as annuities and to amounts received as dividends for provisions which stated a general rule relating to the includability as gross income of amounts that were received under annuity, endowment, or life insurance contracts which were not received as annuities and also stated that for the purposes of this section amounts which were received as dividends would be treated as amounts not received as an annuity, in par. (2) substituted provisions stating a general rule as to the includability as gross income of amounts received before or after the annuity starting date for provisions which set out those amounts which would be treated as amounts not received as an annuity, and added pars. (3) to (6).
+<b>1982</b>—Subsec. (e). Pub. L. 97–248, §265(a), in par. (1) substituted provisions relating to the application of this subsection to amounts received under annuity, endowment, or life insurance contracts which are not received as annuities and to amounts received as dividends for provisions which stated a general rule relating to the includability as gross income of amounts that were received under annuity, endowment, or life insurance contracts which were not received as annuities and also stated that for the purposes of this section amounts which were received as dividends wouldbe treated as amounts not received as an annuity, in par. (2) substituted provisions stating a general rule as to the includability as gross income of amounts received before or after the annuity starting date for provisions which set out those amounts which would be treated as amounts not received as an annuity, and added pars. (3) to (6).
 
 Subsec. (m)(4). Pub. L. 97–248, §236(b)(1), struck out par. (4) which related to amounts constructively received with respect to assignments or pledges, and loans on contracts.
 
@@ -1534,7 +1534,7 @@ Subsecs. (m) to (o). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and re
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title III, §308(b), Dec. 18, 2015, 129 Stat. 3089, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 2015."
+Pub. L. 114–113, div. Q, title III, §308(b), Dec. 18, 2015, 129 Stat. 3089, provided that: "The amendments madeby this section \[amending this section\] shall apply to distributions after December 31, 2015."
 
 Pub. L. 114–26, §2(d), June 29, 2015, 129 Stat. 319, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 2015."
 
@@ -1626,7 +1626,7 @@ Pub. L. 105–34, title X, §1075(c), Aug. 5, 1997, 111 Stat. 949, provided that
 
 Pub. L. 104–191, title III, §361(d), Aug. 21, 1996, 110 Stat. 2072, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 1996."
 
-Pub. L. 104–188, title I, §1403(b), Aug. 20, 1996, 110 Stat. 1791, provided that: "The amendment made by this section \[amending this section\] shall apply in cases where the annuity starting date is after the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\]."
+Pub. L. 104–188, title I, §1403(b), Aug. 20, 1996, 110 Stat. 1791, provided that: "The amendment made by this section \[amending this section\] shall apply in cases wherethe annuity starting date is after the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 Pub. L. 104–188, title I, §1421(e), Aug. 20, 1996, 110 Stat. 1800, provided that: "The amendments made by this section \[amending this section, sections 219, 280G, 402, 404, 408, 414, 416, 457, 3121, 3306, 3401, 4972, and 6693 of this title, sections 1021 and 1104 of Title 29, Labor, and section 409 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1996."
 
@@ -1676,7 +1676,7 @@ Exception where distribution commences.—The amendments made by this section sh
 
 "(4)
 
-Transition rule.—The amendments made by this section shall not apply with respect to any benefits with respect to which a designation is in effect undersection 242(b)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 242(b)(2) of Pub. L. 97–248, formerly set out as an Effective Date of 1982 Amendment note under section 401 of this title\].
+Transition rule.—The amendments made by this section shall not apply with respect to any benefits with respect to which a designation is in effect under section 242(b)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 242(b)(2) of Pub. L. 97–248, formerly set out as an Effective Date of 1982 Amendment note under section 401 of this title\].
 
 "(5)
 
@@ -1702,7 +1702,7 @@ Pub. L. 99–514, title XVIII, §1898(c)(1)(C), Oct. 22, 1986, 100 Stat. 2951, p
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provided, see section 303(d) of Pub. L. 98–397, set out as a note under section 1001 of Title 29, Labor.
+Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provided, see section 303(d) of Pub.L. 98–397, set out as a note under section 1001 of Title 29, Labor.
 
 Amendment by section 211(b)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
@@ -1750,7 +1750,7 @@ Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §236(c), Sept. 3, 1982, 96 Stat. 510, as amended by Pub. L. 97–448, title III, §306(a)(11), Jan. 12, 1983, 96 Stat. 2404; Pub. L. 98–369, div. A, titleV, §554, title VII, §713(b)(2), July 18, 1984, 98 Stat. 897, 957; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §236(c), Sept. 3, 1982, 96 Stat. 510, as amended by Pub. L. 97–448, title III, §306(a)(11), Jan. 12, 1983, 96 Stat. 2404; Pub. L. 98–369, div. A, title V, §554, title VII, §713(b)(2), July 18, 1984, 98 Stat. 897, 957; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -1796,7 +1796,7 @@ Subsection (a).—The amendments made by subsection (a) \[amending this section\
 
 "(2)
 
-Subsection (b).—The amendments made by subsection (b) \[amending this section and sections 46, 50A, 53, 901, 1302, and 1304 of this title\] shall apply to distributions after December 31, 1982."
+Subsection (b).—The amendments made by subsection (b) \[amending this section and sections 46, 50A,53, 901, 1302, and 1304 of this title\] shall apply to distributions after December 31, 1982."
 
 Amendment by section 237(d) of Pub. L. 97–248 applicable to years beginning after Dec. 31, 1983, see section 241 of Pub. L. 97–248, set out as an Effective Date note under section 416 of this title.
 
@@ -1854,7 +1854,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §11(c)(2), Oct. 16, 1962, 76 Stat. 1006, provided that: "The amendment made by subsection (b)\[amending this section\] shall apply to taxable years ending after December 31, 1962."
+Pub. L. 87–834, §11(c)(2), Oct. 16, 1962, 76 Stat. 1006, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to taxable years ending after December 31, 1962."
 
 Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 31, 1962, see section 8 of Pub. L. 87–792, set out as a note under section 22 of this title.
 

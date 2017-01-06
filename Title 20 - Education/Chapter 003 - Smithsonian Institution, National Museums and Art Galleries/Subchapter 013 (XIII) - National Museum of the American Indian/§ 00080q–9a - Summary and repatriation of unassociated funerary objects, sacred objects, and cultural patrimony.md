@@ -6,11 +6,11 @@ Not later than December 31, 1996, the Secretary of the Smithsonian Institution s
 
 #### (b) Repatriation
 
-Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant tosubsection (a) of this section, or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
+Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a), or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
 
 &emsp;(1) the requesting party is the direct lineal descendant of an individual who owned the unassociated funerary object or sacred object;
 
-&emsp;(2) the requesting Indian tribe or Native Hawaiian organization can show that the object was owned or controlled by the Indian tribe or Native Hawaiian organization; or
+&emsp;(2) the requesting Indian tribe or Native Hawaiian organization can show that the objectwas owned or controlled by the Indian tribe or Native Hawaiian organization; or
 
 &emsp;(3) the requesting Indian tribe or Native Hawaiian organization can show that the unassociated funerary object or sacred object was owned or controlled by a member thereof, provided that in the case where an unassociated funerary object or sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object.
 

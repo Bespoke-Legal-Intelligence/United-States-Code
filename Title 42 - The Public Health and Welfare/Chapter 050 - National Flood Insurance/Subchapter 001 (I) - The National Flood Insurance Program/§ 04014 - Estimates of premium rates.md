@@ -2,7 +2,7 @@
 
 #### (a) Studies and investigations
 
-The Administrator is authorized to undertake and carry out such studies and investigationsand receive or exchange such information as may be necessary to estimate, and shall from time to time estimate, on an area, subdivision, or other appropriate basis—
+The Administrator is authorized to undertake and carry out such studies and investigations and receive or exchange such information as may be necessary to estimate, and shall from time to time estimate, on an area, subdivision, or other appropriate basis—
 
 &emsp;(1) the risk premium rates for flood insurance which—
 
@@ -332,7 +332,7 @@ Termination.—The authority provided under paragraphs (1) and (2) shall termina
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C.4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

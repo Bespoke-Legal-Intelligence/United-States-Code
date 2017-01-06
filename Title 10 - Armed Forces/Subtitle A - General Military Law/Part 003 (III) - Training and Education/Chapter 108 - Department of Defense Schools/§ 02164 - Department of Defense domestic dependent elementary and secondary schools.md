@@ -6,7 +6,7 @@ Authority of Secretary.—(1) If the Secretary of Defense makes a determination 
 
 (2) The Secretary may, at the discretion of the Secretary, permit dependents of members of the armed forces and, to the extent provided in subsection (c), dependents of civilian employees of the Federal Government residing in a territory, commonwealth, or possession of the United States but not on a military installation, to enroll in an educational program provided by the Secretary pursuant to this subsection. If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.
 
-(3)(A) Under the circumstances described in subparagraph (B), the Secretary may, at the discretion of the Secretary, permit a dependent ofa member of the armed forces to enroll in an educational program provided by the Secretary pursuant to this subsection without regard to the requirement in paragraph (1) with respect to residence on a military installation.
+(3)(A) Under the circumstances described in subparagraph (B), the Secretary may, at the discretion of the Secretary, permit a dependent of a member of the armed forces to enroll in an educational program provided by the Secretary pursuant to this subsection without regard to the requirement in paragraph (1) with respect to residence on a military installation.
 
 (B) Subparagraph (A) applies only if—
 
@@ -46,7 +46,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (C) Subparagraph (A) shall not apply to an individual who is a dependent of a Federal employee in the excepted service (as defined in section 2103 of title 5) and who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico, Wake Island, Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands.
 
-(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
+(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require theUnited States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
 (d)
 
@@ -114,7 +114,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 Substantive and Procedural Rights and Protections for Children.—(1) The Secretary shall provide the following substantive rights, protections, and procedural safeguards (including due process procedures) in the educational programs provided for under this section:
 
-&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
+&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available tochildren with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
 &emsp;(B) In the case of infants or toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants or toddlers with disabilities under part C of such Act (20 U.S.C. 1431 et seq.).
 
@@ -244,7 +244,7 @@ Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
+Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply onlywith respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
 
 #### Effective Date of 1998 Amendment
 
@@ -256,5 +256,5 @@ Pub. L. 103–337, div. A, title III, §351(c), Oct. 5, 1994, 108 Stat. 2730, pr
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

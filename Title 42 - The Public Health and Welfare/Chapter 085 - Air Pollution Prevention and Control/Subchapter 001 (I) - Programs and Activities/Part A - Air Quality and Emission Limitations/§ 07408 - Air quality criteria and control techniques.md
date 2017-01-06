@@ -74,7 +74,7 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 &emsp;&emsp;(xi) programs to control extended idling of vehicles;
 
-&emsp;&emsp;(xii) programs to reduce motor vehicle emissions, consistent with subchapter II of this chapter, which are caused by extreme cold start conditions;
+&emsp;&emsp;(xii) programs to reduce motor vehicle emissions, consistent with subchapter II, which are caused by extreme cold start conditions;
 
 &emsp;&emsp;(xiii) employer-sponsored programs to permit flexible work schedules;
 
@@ -106,7 +106,7 @@ The Administrator may assess the risks to ecosystems from exposure to criteria a
 
 The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
 
-(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (o), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
+(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678;amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (o), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
 
 #### Codification
 

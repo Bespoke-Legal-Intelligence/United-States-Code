@@ -58,13 +58,13 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\];
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
 &emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 
 #### (c) Repayment for failure to complete service
 
-In the event that any recipient of a grant under this subpart fails or refuses to comply with the service obligation in the agreement under subsection (b), the sum of the amounts of any TEACH Grants received by such recipient shall, upon a determination of such a failure or refusal in such service obligation, be treated as a Federal Direct Unsubsidized Stafford Loan under part C, and shall be subject to repayment, together with interest thereon accruing from the date of the grant award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
+In the event that any recipient of a grant under this subpart fails or refuses to comply with the service obligation in the agreement under subsection (b), the sum of the amounts of any TEACH Grants received by such recipient shall, upon a determination of such a failure or refusal in such service obligation, be treated as a Federal Direct Unsubsidized Stafford Loan under part D, and shall be subject to repayment, together with interest thereon accruing from the date of the grant award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
 
 #### (d) Additional administrative provisions
 
@@ -98,7 +98,7 @@ Pub. L. 114–95, title IX, §9214(a), Dec. 10, 2015, 129 Stat. 2160, provided t
 
 &emsp;"(1) any reference in sections 420N, 428J, 428K, and 460 of the Higher Education Act of 1965 (20 U.S.C. 1070g–2, 1078–10, 1078–11, and 1087j) to the term 'highly qualified' as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\] shall be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\]; and
 
-&emsp;"(2) any reference in section 6112 of the America COMPETES Act (20 U.S.C. 9812), section 553 of the America COMPETES Reauthorization Act of 2010 (20 U.S.C. 9903), and section 9 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n), to 'highly qualified', as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\], with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification."
+&emsp;"(2) any reference in section 6112 of the America COMPETES Act (\[former\] 20 U.S.C. 9812), section 553 of the America COMPETES Reauthorization Act of 2010 (20 U.S.C. 9903), and section 9 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n), to 'highly qualified', as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\], with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

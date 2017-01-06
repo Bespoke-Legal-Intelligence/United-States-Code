@@ -146,7 +146,7 @@ In addition to any payment under this subpart, an owner or operator may receive 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -196,7 +196,7 @@ Subsecs. (f), (g). Pub. L. 113–79, §2005(b)(2), redesignated subsecs. (e) and
 
 Subsec. (g)(1). Pub. L. 113–79, §2005(e)(1), struck out ", including rental payments made in the form of in-kind commodities," after "total amount of rental payments".
 
-Subsec. (g)(2) to (4). Pub. L. 113–79, §2005(e)(2), (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: "Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002."
+Subsec. (g)(2) to (4). Pub. L. 113–79, §2005(e)(2), (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: "Rentalpayments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002."
 
 Subsec. (h). Pub. L. 113–79, §2005(b)(2), redesignated subsec. (g) as (h).
 

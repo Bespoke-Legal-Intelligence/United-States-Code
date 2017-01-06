@@ -78,7 +78,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 &emsp;(4) a summary of outstanding problems confronting the administration of this chapter in order of priority;
 
-&emsp;(5) the number and a summary of recall orders issued under section 2061 or 2064 of this title during such year and a summary of voluntary corrective actions taken by manufacturers in consultation with the Commission of which the Commission has notified the public, and an assessment of such orders and actions;
+&emsp;(5) the number and a summary of recall orders issued under section 2061 or 2064 of thistitle during such year and a summary of voluntary corrective actions taken by manufacturers in consultation with the Commission of which the Commission has notified the public, and an assessment of such orders and actions;
 
 &emsp;(6) beginning not later than 1 year after August 14, 2008—
 
@@ -144,7 +144,7 @@ Subsec. (b)(10). Pub. L. 112–28, §8(3), (4), redesignated par. (9) as (10) an
 
 Subsec. (j)(5) to (13). Pub. L. 110–314, §209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) "may prescribe to carry out a specific regulatory or enforcement function of the Commission" for "may prescribe" and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) "may prescribe to carry out a specific regulatory or enforcement function of the Commission" for "may prescribe" and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such anorder shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
 Subsec. (j)(10), (11). Pub. L. 97–35, §1209(c), added par. (10) and redesignated former par. (10) as (11).
 
@@ -171,6 +171,10 @@ Pub. L. 110–314, title II, §209(b), Aug. 14, 2008, 122 Stat. 3047, provided t
 #### Effective Date of 1981 Amendment
 
 Amendment by section 1207(b) of Pub. L. 97–35 applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, and amendment by sections 1208, 1209(c), and 1211(d) of Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Submission of Copy of Certain Documents to Congress
 

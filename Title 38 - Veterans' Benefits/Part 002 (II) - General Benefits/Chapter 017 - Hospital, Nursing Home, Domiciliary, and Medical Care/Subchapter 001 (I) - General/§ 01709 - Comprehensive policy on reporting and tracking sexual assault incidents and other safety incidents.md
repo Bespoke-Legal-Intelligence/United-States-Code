@@ -38,7 +38,7 @@ Scope.—The policy required by subsection (a) shall cover each of the following
 
 &emsp;(B) In developing and using tools under subparagraph (A), the Secretary shall consider the effects of using such tools on the use by veterans of health care furnished by the Department.
 
-&emsp;(3) The mandatory training of employees of the Department on security issues, including awareness, preparedness, precautions, and police assistance.
+&emsp;(3) The mandatory training of employees of the Department on security issues, includingawareness, preparedness, precautions, and police assistance.
 
 &emsp;(4) The mandatory implementation, use, and regular testing of appropriate physical security precautions and equipment, including surveillance camera systems, computer-based panic alarm systems, stationary panic alarms, and electronic portable personal panic alarms.
 

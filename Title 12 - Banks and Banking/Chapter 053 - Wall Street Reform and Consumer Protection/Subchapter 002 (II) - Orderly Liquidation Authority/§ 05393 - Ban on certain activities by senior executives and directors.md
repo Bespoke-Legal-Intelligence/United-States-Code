@@ -36,7 +36,7 @@ The appropriate agency described in subsection (a) may take any action authorize
 
 #### (1) In general
 
-&emsp;The appropriate agency for a financial company, as described in subsection (a), may serve upon a senior executive or director described in subsection (b) a written notice of the intention of the agency to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any financial company for a period of time determined by the appropriate agency to be commensurate with such violation, practice, or breach, provided such period shall be not less than 2 years.
+&emsp;The appropriate agency for a financial company, as described in subsection (a), may serveupon a senior executive or director described in subsection (b) a written notice of the intention of the agency to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any financial company for a period of time determined by the appropriate agency to be commensurate with such violation, practice, or breach, provided such period shall be not less than 2 years.
 
 #### (2) Procedures
 
@@ -51,4 +51,8 @@ The Corporation and the Board of Governors, in consultation with the Council, sh
 #### References in Text
 
 The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. The terms "insured depository institution" and "institution-affiliated party" are defined in section 3 of the Act, which is classified to section 1813 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 

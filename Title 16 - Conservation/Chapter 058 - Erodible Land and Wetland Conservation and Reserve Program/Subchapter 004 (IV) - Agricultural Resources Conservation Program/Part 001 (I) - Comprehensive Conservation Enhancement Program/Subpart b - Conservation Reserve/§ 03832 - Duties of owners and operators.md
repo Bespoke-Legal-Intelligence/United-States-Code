@@ -82,7 +82,7 @@ A prior section 3832, Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(8). Pub. L. 113–79, §2003(a), substituted "except as provided in subsection (b) or (c) of section 3833 of this title;" for "except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—" and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
+<b>2014</b>—Subsec. (a)(8). Pub. L. 113–79, §2003(a), substituted "except as provided in subsection (b) or (c) ofsection 3833 of this title;" for "except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—" and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
 
 Subsec. (b). Pub. L. 113–79, §2003(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "The plan referred to in subsection (a)(1) of this section—
 

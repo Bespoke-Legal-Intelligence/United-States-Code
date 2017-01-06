@@ -26,7 +26,7 @@ Every person required to register under subsection (b) or (c) shall immediately 
 
 #### (e) Uniform product identification system
 
-The Secretary may by regulation prescribe a uniform system for the identification of tobaccoproducts and may require that persons who are required to list such tobacco products under subsection (i) shall list such tobacco products in accordance with such system.
+The Secretary may by regulation prescribe a uniform system for the identification of tobacco products and may require that persons who are required to list such tobacco products under subsection (i) shall list such tobacco products in accordance with such system.
 
 #### (f) Public access to registration information
 
@@ -76,7 +76,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(A) the basis for such person's determination that—
 
-&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalent and that is in compliance with the requirements of this chapter; or
+&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalentand that is in compliance with the requirements of this chapter; or
 
 &emsp;&emsp;&emsp;(ii) the tobacco product is modified within the meaning of paragraph (3), the modifications are to a product that is commercially marketed and in compliance with the requirements of this chapter, and all of the modifications are covered by exemptions granted by the Secretary pursuant to paragraph (3); and
 

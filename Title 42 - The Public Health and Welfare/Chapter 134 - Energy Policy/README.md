@@ -14,7 +14,7 @@
 | [13212\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013212%20-%20Minimum%20Federal%20fleet%20requirement.md) | Minimum Federal fleet requirement. |
 | [13213\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013213%20-%20Refueling.md) | Refueling. |
 | [13214\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013214%20-%20Federal%20agency%20promotion%2C%20education%2C%20and%20coordination.md) | Federal agency promotion, education, and coordination. |
-| [13215\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013215%20-%20Agency%20incentives%20program.md) | Agency incentives program. |
+| [13215\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013215%20-%20Omitted.md) | Omitted. |
 | [13216\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013216%20-%20Recognition%20and%20incentive%20awards%20program.md) | Recognition and incentive awards program. |
 | [13217\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013217%20-%20Measurement%20of%20alternative%20fuel%20use.md) | Measurement of alternative fuel use. |
 | [13218\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013218%20-%20Reports.md) | Reports. |
@@ -235,7 +235,7 @@
 | [13475\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013475%20-%20Fuel%20cells.md) | Fuel cells. |
 | [13476\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013476%20-%20Environmental%20restoration%20and%20waste%20management%20program.md) | Environmental restoration and waste management program. |
 | [13477\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013477%20-%20High-temperature%20superconductivity%20program.md) | High-temperature superconductivity program. |
-| [13478\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013478%20-%20Electric%20and%20magnetic%20fields%20research%20and%20public%20information%20dissemination%20program.md) | Electric and magnetic fields research and public information dissemination program. |
+| [13478\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013478%20-%20Omitted.md) | Omitted. |
 | [13479\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013479%20-%20Spark%20M.%20Matsunaga%20Renewable%20Energy%20and%20Ocean%20Technology%20Center.md) | Spark M. Matsunaga Renewable Energy and Ocean Technology Center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

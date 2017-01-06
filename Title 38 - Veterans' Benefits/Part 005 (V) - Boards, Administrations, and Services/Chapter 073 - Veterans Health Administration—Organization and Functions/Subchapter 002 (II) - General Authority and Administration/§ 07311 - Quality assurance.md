@@ -2,7 +2,7 @@
 
 (a) The Secretary shall—
 
-&emsp;(1) establish and conduct a comprehensive program to monitor and evaluate the quality of health care furnished by the Veterans Health Administration (hereinafter in this section referred to as the "quality-assurance program"); and
+&emsp;(1) establish and conduct a comprehensive program to monitor and evaluate the qualityof health care furnished by the Veterans Health Administration (hereinafter in this section referred to as the "quality-assurance program"); and
 
 &emsp;(2) delineate the responsibilities of the Under Secretary for Health with respect to the quality-assurance program, including the duties prescribed in this section.
 
@@ -86,7 +86,7 @@ Pub. L. 110–387, title V, §501, Oct. 10, 2008, 122 Stat. 4130, provided that:
 
 "(a)
 
-Comprehensive Policy Required.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
+Comprehensive Policy Required.—Not later than October 1, 2009, the Secretary of Veterans Affairsshall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
 
 "(b)
 
@@ -170,7 +170,7 @@ Report.—Within the 180-day period beginning on the date on which the Secretary
 
 "(c)
 
-Definition.—As used in this section, the term 'medical facility laboratories' means facilities for thebiological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings."
+Definition.—As used in this section, the term 'medical facility laboratories' means facilities for the biological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

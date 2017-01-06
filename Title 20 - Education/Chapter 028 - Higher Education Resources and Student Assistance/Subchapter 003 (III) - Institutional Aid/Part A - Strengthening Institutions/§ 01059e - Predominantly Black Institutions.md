@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;(D) is legally authorized to provide, and provides, within the State an educational program for which the institution of higher education awards a baccalaureate degree or, in the case of a junior or community college, an associate's degree;
 
-&emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliableauthority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation; and
+&emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation; and
 
 &emsp;&emsp;(F) is not receiving assistance under—
 
@@ -56,7 +56,7 @@ In this section:
 
 #### (5) Means-tested Federal benefit program
 
-&emsp;The term "means-tested Federal benefit program" means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program's benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit.
+&emsp;The term "means-tested Federal benefit program" means a program of the Federal Government, other than a program under subchapter IV, in which eligibility for the program's benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit.
 
 #### (6) Predominantly Black Institution
 
@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;(A) to assist the Predominantly Black Institution to plan, develop, undertake, and implement programs to enhance the institution's capacity to serve more low- and middle-income Black American students;
 
-&emsp;&emsp;(B) to expand higher education opportunities for students eligible to participate in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 by encouraging college preparation and student persistence in secondary school and postsecondary education; and
+&emsp;&emsp;(B) to expand higher education opportunities for students eligible to participate in programs under subchapter IV by encouraging college preparation and student persistence in secondary school and postsecondary education; and
 
 &emsp;&emsp;(C) to strengthen the financial ability of the Predominantly Black Institution to serve the academic needs of the students described in subparagraphs (A) and (B).
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (2) Graduates basis
 
-&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretary shall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
+&emsp;From the amounts appropriated to carry out this section for any fiscal year, the Secretaryshall allot to each Predominantly Black Institution having an application approved under subsection (f) a sum that bears the same ratio to one-fourth of that amount as the number of graduates for such academic year at such institution, bears to the total number of graduates for such academic year at all such institutions.
 
 #### (3) Graduates seeking a higher degree basis
 

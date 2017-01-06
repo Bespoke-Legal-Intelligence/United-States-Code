@@ -16,7 +16,7 @@ Effect on existing contracts.—The repeal of section 2667a of title 10, United 
 
 "(3)
 
-Treatment of money rents.—Amounts in any special account established for a Defense Agency pursuant to subsection (d) of section 2667a of title 10, United States Code, before repeal of such section by paragraph (1), and amounts that would be deposited in such an account in connection with a lease referred to in paragraph (2), shall—
+Treatment of money rents.—Amounts in any special account established for a Defense Agency pursuant to subsection (d) of section 2667a of title 10, United States Code, before repeal of such section by paragraph\(1), and amounts that would be deposited in such an account in connection with a lease referred to in paragraph (2), shall—
 
 &emsp;"(A) remain available until expended for the purposes specified in such subsection, notwithstanding the repeal of such section by paragraph (1); or
 

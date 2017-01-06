@@ -52,7 +52,7 @@ The Secretary, in consultation with the Secretary of Education, shall—
 
 &emsp;(2) provide technical assistance to such agencies to promote and assist such agencies to adopt and implement such effective policies and activities.
 
-(Pub. L. 97–35, title VI, §642A, as added Pub. L. 105–285, title I, §110, Oct. 27, 1998, 112 Stat. 2717;amended Pub. L. 110–134, §10, Dec. 12, 2007, 121 Stat. 1407; Pub. L. 114–95, title IX, §9215(nn)(4), Dec. 10, 2015, 129 Stat. 2177.)
+(Pub. L. 97–35, title VI, §642A, as added Pub. L. 105–285, title I, §110, Oct. 27, 1998, 112 Stat. 2717; amended Pub. L. 110–134, §10, Dec. 12, 2007, 121 Stat. 1407; Pub. L. 114–95, title IX, §9215(nn)(4), Dec. 10, 2015, 129 Stat. 2177.)
 
 #### References in Text
 

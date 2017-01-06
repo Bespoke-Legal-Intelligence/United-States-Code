@@ -16,7 +16,7 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277 substituted "take into account" for "be made in coordination with the Director of theUnited States Arms Control and Disarmament Agency and shall take into account his opinion as to" in introductory provisions.
+<b>1998</b>—Pub. L. 105–277 substituted "take into account" for "be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to" in introductory provisions.
 
 <b>1975</b>—Pub. L. 94–141 substituted "be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to" for "take into account".
 

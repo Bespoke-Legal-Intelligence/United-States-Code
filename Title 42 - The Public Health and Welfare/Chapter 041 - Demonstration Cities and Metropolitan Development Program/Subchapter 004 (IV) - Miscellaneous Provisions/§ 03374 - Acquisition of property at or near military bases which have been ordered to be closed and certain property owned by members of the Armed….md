@@ -74,7 +74,7 @@
 
 (1) In order to be eligible for the benefits of subsection (a)(1), a civilian employee or a member of the Armed Forces—
 
-&emsp;(A) must be assigned to or employed at or in connection with the installation or activity atthe time of public announcement of the closure action, or employed by a nonappropriated fund instrumentality operated in connection with such base or installation;
+&emsp;(A) must be assigned to or employed at or in connection with the installation or activity at the time of public announcement of the closure action, or employed by a nonappropriated fund instrumentality operated in connection with such base or installation;
 
 &emsp;(B) must have been transferred from such installation or activity, or terminated as an employee as a result of a reduction in force, within six months prior to public announcement of the closure action; or
 
@@ -86,7 +86,7 @@
 
 &emsp;(B) in connection with the transfer, was informed of a future, programmed reassignment to the installation.
 
-(3) The eligibility of a civilian employee and member of the Armed Forces under paragraph (1) and a member of the Armed Forces under paragraph (2) for benefits under subsection (a)(1) in connection with the closure of an installation or activity is subject to the additional conditions set out in paragraphs (4) and (5).
+(3) The eligibility of a civilian employee and member of the Armed Forces under paragraph\(1) and a member of the Armed Forces under paragraph (2) for benefits under subsection (a)(1) in connection with the closure of an installation or activity is subject to the additional conditions set out in paragraphs (4) and (5).
 
 (4) At the time of public announcement of the closure action, or at the time of transfer or termination as set forth above, such personnel or employees must—
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;&emsp;(i) to receive a cash payment as compensation for losses which may be or have been sustained in a private sale, in an amount not to exceed the difference between—
 
-&emsp;&emsp;&emsp;&emsp;(I) 95 per centum of prior fair market value of their property (as such value isdetermined by the Secretary of Defense); and
+&emsp;&emsp;&emsp;&emsp;(I) 95 per centum of prior fair market value of their property (as such value is determined by the Secretary of Defense); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the fair market value of such property (as such value is determined by the Secretary of Defense) at the time of sale; or
 
@@ -158,7 +158,7 @@
 
 #### (4) Compensation and limitations related to foreclosures and encumbrances
 
-&emsp;Cash payment as compensation for losses sustained in a private sale shall not be made in any case in which the property is encumbered by a mortgage loan guaranteed, insured, or held by a Federal agency unless such mortgage loan is paid, assumed by a purchaser satisfactory to such Federal agency, or otherwise fully satisfied at or prior to the time such cash payment is made. Except in cases of payment as compensation for losses, in the event of foreclosure by mortgagees commenced on or after public announcement of intention to close all or part of the military base or installation the Secretary of Defense may reimburse or pay on account of eligible persons such sums as may be paid or be otherwise due and owing by such persons as the result of such foreclosure, including (without limiting the generality of the foregoing) direct costs of judicial foreclosure, expenses and liabilities enforceable according to the terms of their mortgages or promissory notes, and the amount of debts, if any, established against such persons by a Federal agency in the case of loans made, guaranteed, or insured by such agency following liquidation of the security for such loans.
+&emsp;Cash payment as compensation for losses sustained in a private sale shall not be madein any case in which the property is encumbered by a mortgage loan guaranteed, insured, or held by a Federal agency unless such mortgage loan is paid, assumed by a purchaser satisfactory to such Federal agency, or otherwise fully satisfied at or prior to the time such cash payment is made. Except in cases of payment as compensation for losses, in the event of foreclosure by mortgagees commenced on or after public announcement of intention to close all or part of the military base or installation the Secretary of Defense may reimburse or pay on account of eligible persons such sums as may be paid or be otherwise due and owing by such persons as the result of such foreclosure, including (without limiting the generality of the foregoing) direct costs of judicial foreclosure, expenses and liabilities enforceable according to the terms of their mortgages or promissory notes, and the amount of debts, if any, established against such persons by a Federal agency in the case of loans made, guaranteed, or insured by such agency following liquidation of the security for such loans.
 
 #### (d) Fund for extension of financial assistance; capital and receipts; availability of monies; covering into Treasury as miscellaneous receipts; Federal title to and control of property; other laws unaffected; foreign properties, exclusion
 
@@ -236,7 +236,7 @@ In this section:
 
 &emsp;&emsp;(B) is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Resale and Services Support Office, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
-(Pub. L. 89–754, title X, §1013, Nov. 3, 1966, 80 Stat. 1290; Pub. L. 91–142, title VI, §602, Dec. 5, 1969, 83 Stat. 313; Pub. L. 91–511, title VI, §612, Oct. 26, 1970, 84 Stat. 1225; Pub. L. 92–545, title VI, §601, Oct. 25, 1972, 86 Stat. 1150; Pub. L. 93–166, title V, §513(b), Nov. 29, 1973, 87 Stat. 679; Pub. L. 100–448, §11, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 101–510, div. A, title III, §331, Nov. 5, 1990, 104 Stat. 1535; Pub. L. 102–190, div. B, title XXVIII, §2823, Dec. 5, 1991, 105 Stat. 1547; Pub. L. 102–484, div. A, title X, §1054(i), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–337, div. B, title XXVIII, §2805, Oct. 5, 1994, 108 Stat. 3053; Pub. L. 111–5, div. A, title X, §1001(a), (b), Feb. 17, 2009, 123 Stat. 194, 198.)
+(Pub. L. 89–754, title X, §1013, Nov. 3, 1966, 80 Stat. 1290; Pub. L. 91–142, title VI, §602, Dec. 5,1969, 83 Stat. 313; Pub. L. 91–511, title VI, §612, Oct. 26, 1970, 84 Stat. 1225; Pub. L. 92–545, title VI, §601, Oct. 25, 1972, 86 Stat. 1150; Pub. L. 93–166, title V, §513(b), Nov. 29, 1973, 87 Stat. 679; Pub. L. 100–448, §11, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 101–510, div. A, title III, §331, Nov. 5, 1990, 104 Stat. 1535; Pub. L. 102–190, div. B, title XXVIII, §2823, Dec. 5, 1991, 105 Stat. 1547; Pub. L. 102–484, div. A, title X, §1054(i), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–337, div. B, title XXVIII, §2805, Oct. 5, 1994, 108 Stat. 3053; Pub. L. 111–5, div. A, title X, §1001(a), (b), Feb. 17, 2009, 123 Stat. 194, 198.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Subsec. (p). Pub. L. 111–5, §1001(a)(9), added subsec. (p).
 
 Subsec. (a)(2). Pub. L. 102–190, §2823(b)(1)(B), inserted before semicolon "or, in the case of a member of the Armed Forces not assigned to that base or installation at the time of public announcement of such closing, will prevent any reassignment of such member to the base or installation".
 
-Subsec. (b). Pub. L. 102–190, §2823(a), (b)(2), (3), substituted pars. (1) to (3) for former introductory provisions and pars. (1) to (3); designated first proviso of subsec. (b) as par. (4) and substituted "At" for "<i>Provided</i>, That, at", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted period for colon at end of subpar. (B); and designated second proviso of subsec. (b) as par. (5) and substituted "As" for "<i>Provided further</i>, That as" and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively. Prior to amendment, former introductory provisions and pars. (1) to (3) read as follows: "In order to be eligible for the benefits of this section such employees or military personnel must be or have been—
+Subsec. (b). Pub. L. 102–190, §2823(a), (b)(2), (3), substituted pars. (1) to (3) for former introductory provisions and pars. (1) to (3); designated first proviso of subsec. (b) as par. (4) and substituted "At" for "<i>Provided</i>,That, at", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted period for colon at end of subpar. (B); and designated second proviso of subsec. (b) as par. (5) and substituted "As" for "<i>Provided further</i>, That as" and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively. Prior to amendment, former introductory provisions and pars. (1) to (3) read as follows: "In order to be eligible for the benefits of this section such employees or military personnel must be or have been—
 
 &emsp;"(1) assigned to or employed at or in connection with the installation or activity at the time of public announcement of the closure action, or employed by a nonappropriated fund instrumentality operated in connection with such base or installation,
 

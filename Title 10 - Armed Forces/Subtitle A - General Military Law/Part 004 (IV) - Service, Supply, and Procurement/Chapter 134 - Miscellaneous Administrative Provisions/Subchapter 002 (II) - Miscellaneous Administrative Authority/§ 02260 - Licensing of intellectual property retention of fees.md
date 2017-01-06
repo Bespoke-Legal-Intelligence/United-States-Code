@@ -44,7 +44,7 @@ Availability.—Fees received in a fiscal year and retained under this section s
 
 Definitions.—In this section:
 
-&emsp;(1) The terms "trademark", "service mark", "certification mark", and "collective mark"have the meanings given such terms in section 45 of the Act of July 5, 1946 (commonly referred to as the Trademark Act of 1946; 15 U.S.C. 1127).
+&emsp;(1) The terms "trademark", "service mark", "certification mark", and "collective mark" have the meanings given such terms in section 45 of the Act of July 5, 1946 (commonly referred to as the Trademark Act of 1946; 15 U.S.C. 1127).
 
 &emsp;(2) The term "Secretary concerned" has the meaning provided in section 101(a)(9) of this title and also includes—
 

@@ -4,7 +4,7 @@
 
 (2) If a warrant officer described in paragraph (1) has more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired. The date of such retirement shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 
-(3) If a warrant officer described in paragraph (1) has at least 18 but not more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired not later than the date determined under the next sentence unless he isselected for promotion to the next higher regular warrant officer grade before that date. The date of the retirement of a warrant officer under the preceding sentence shall be on a date specified by the Secretary concerned, but not later than the first day of the seventh calendar month beginning after the date upon which he completes 20 years of active service, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
+(3) If a warrant officer described in paragraph (1) has at least 18 but not more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired not later than the date determined under the next sentence unless he is selected for promotion to the next higher regular warrant officer grade before that date. The date of the retirement of a warrant officer under the preceding sentence shall be on a date specified by the Secretary concerned, but not later than the first day of the seventh calendar month beginning after the date upon which he completes 20 years of active service, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 
 (4)(A) If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (ii) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
 
@@ -18,7 +18,7 @@
 
 (5) A warrant officer who is subject to retirement or discharge under this subsection is not eligible for further consideration for promotion.
 
-(6) In this subsection, the term "creditable active service" means active service that could be credited to a warrant officer under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
+(6) In this subsection, the term "creditable active service" means active service that could be credited to a warrant officer under section 511 ofthe Career Compensation Act of 1949, as amended (70 Stat. 114).
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement or separation under this section of a warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date on which he would otherwise be required to retire or be separated under this section.
 
@@ -82,7 +82,7 @@ Subsec. (a)(4)(C). Pub. L. 103–160, §505(a)(2), added subpar. (C).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -91,6 +91,10 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 #### Effective Date of 1993 Amendment
 
 Pub. L. 103–160, div. A, title V, §505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act \[Nov. 30, 1993\]."
+
+#### Effective Date
+
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
 #### Retired and Retainer Pay of Members on Retired Lists or Receiving Retainer Pay
 

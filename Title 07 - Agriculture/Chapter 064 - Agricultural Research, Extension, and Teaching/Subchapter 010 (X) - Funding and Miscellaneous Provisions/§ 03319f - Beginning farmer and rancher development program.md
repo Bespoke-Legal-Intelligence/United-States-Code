@@ -102,7 +102,7 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 #### (7) Priority
 
-&emsp;In making grants under this subsection, the Secretary shall give priority to partnershipsand collaborations that are led by or include nongovernmental, community-based organizations, and school-based agricultural educational organizations with expertise in new agricultural producer training and outreach.
+&emsp;In making grants under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental, community-based organizations, and school-based agricultural educational organizations with expertise in new agricultural producer training and outreach.
 
 #### (8) Set-asides
 

@@ -78,7 +78,7 @@ By virtue of the authority vested in me as President by the Constitution and Sta
 
 Section 1. There are hereby transferred to the Director of the Office of Management and Budget all policy functions that were transferred to the Administrator of General Services by Section 1 (1) of Executive Order No. 11717, dated May 9, 1973 \[set out as a note under section 501 of Title 31, Money and Finance\], and Executive Order No. 11867, dated June 19, 1975 \[formerly set out above\].
 
-Sec. 2. The Director of the Office of Management and Budget shall continue to perform policy formulation and general oversight functions with regard to the other transfers made by Executive Order No. 11717 and Executive Order No. 11867. No function vested by statute in the Administrator shall be deemed to be affected by the provisions of this order.
+Sec. 2. The Director of the Office of Management and Budget shall continue to perform policy formulationand general oversight functions with regard to the other transfers made by Executive Order No. 11717 and Executive Order No. 11867. No function vested by statute in the Administrator shall be deemed to be affected by the provisions of this order.
 
 Sec. 3. So much of the personnel, property and records attendant to the functions transferred by this order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Office of Management and Budget, at such times as the Director shall specify.
 

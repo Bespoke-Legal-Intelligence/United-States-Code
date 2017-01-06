@@ -54,7 +54,7 @@ Amounts in the Agricultural Disaster Relief Trust Fund shall be available for th
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated, and are appropriated, to the Agricultural DisasterRelief Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
+&emsp;There are authorized to be appropriated, and are appropriated, to the Agricultural Disaster Relief Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
 
 #### (2) Repayment of advances
 

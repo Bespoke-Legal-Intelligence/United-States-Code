@@ -24,7 +24,7 @@ As used in this section:
 
 #### (2) Stock
 
-&emsp;The term "stock" means voting and nonvoting stock (including preferred stock),equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
+&emsp;The term "stock" means voting and nonvoting stock (including preferred stock), equivalent contributions to a guaranty fund, participation certificates, allocated equities, and other forms and types of equities.
 
 #### (b) Adoption of bylaws
 

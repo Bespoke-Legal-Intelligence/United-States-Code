@@ -8,11 +8,11 @@ Every individual who—
 
 &emsp;(2)(A) attained such age before 1968, or (B)(i) attained such age after 1967 and before 1972, and (ii) has not less than 3 quarters of coverage, whenever acquired, for each calendar year elapsing after 1966 and before the year in which he or she attained such age,
 
-&emsp;(3) is a resident of the United States (as defined in subsection (e) of this section), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as defined in section 410(i) of this title) continuously during the 5 years immediately preceding the month in which he or she files application under this section, and
+&emsp;(3) is a resident of the United States (as defined in subsection (e)), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as defined in section 410(i) of this title) continuously during the 5 years immediately preceding the month in which he or she files application under this section, and
 
 &emsp;(4) has filed application for benefits under this section,
 
-> shall (subject to the limitations in this section) be entitled to a benefit under this section for each month beginning with the first month after September 1966 in which he or she becomes soentitled to such benefits and ending with the month preceding the month in which he or she dies. No application under this section which is filed by an individual more than 3 months before the first month in which he or she meets the requirements of paragraphs (1), (2), and (3) shall be accepted as an application for purposes of this section.
+> shall (subject to the limitations in this section) be entitled to a benefit under this section for each month beginning with the first month after September 1966 in which he or she becomes so entitled to such benefits and ending with the month preceding the month in which he or she dies. No application under this section which is filed by an individual more than 3 months before the first month in which he or she meets the requirements of paragraphs (1), (2), and (3) shall be accepted as an application for purposes of this section.
 
 #### (b) Amount of benefits
 
@@ -20,7 +20,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 #### (c) Reduction for government pension system benefits
 
-(1) The benefit amount of any individual under this section for any month shall be reduced (but not below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
+(1) The benefit amount of any individual under this section for any month shall be reduced (butnot below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
 
 (2) In the case of a husband and wife only one of whom is entitled to benefits under this section for any month, the benefit amount, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systems for which the spouse who is not entitled to benefits under this section is eligible for such month, over (B) the benefit amount as determined without regard to this subsection.
 
@@ -46,11 +46,11 @@ The benefit amount to which an individual is entitled under this section for any
 
 The benefit to which any individual is entitled under this section for any month shall not be paid for such month if—
 
-&emsp;(1) such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
+&emsp;(1) such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI, or under a State program funded under part A of subchapter IV, or
 
 &emsp;(2) such individual's husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 
-> unless the State agency administering or supervising the administration of such plan notifies the Commissioner of Social Security, at such time and in such manner as may be prescribed in accordance with regulations of the Commissioner of Social Security, that such payments to such individual (or such individual's husband or wife) under such plan are being terminated with the payment or payments made in such month and such individual is not an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for the following month, nor shall such benefit be paid for such month if such individual is an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for such month, unless the Commissioner of Social Security determines that such benefits are not payable with respect to such individual for the month following such month.
+> unless the State agency administering or supervising the administration of such plan notifies the Commissioner of Social Security, at such time and in such manner as may be prescribed in accordance with regulations of the Commissioner of Social Security, that such payments to such individual (or such individual's husband or wife) under such plan are being terminated with the payment or payments made in such month and such individual is not an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI or section 211 of Public Law 93–66 for the following month, nor shall such benefit be paid for such month if such individual is an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI or section 211 of Public Law 93–66 for such month, unless the Commissioner of Social Security determines that such benefits are not payable with respect to such individual for the month following such month.
 
 #### (e) Suspension where individual is residing outside United States
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 &emsp;(3) any loss in interest to such Trust Fund resulting from such payments and expenses,
 
-> in order to place such Trust Fund in the same position at the end of such fiscal year as it would have been in if such payments had not been made.
+> in order to place such Trust Fund in the same position at the end of such fiscal year as itwould have been in if such payments had not been made.
 
 #### (h) Definitions
 
@@ -94,7 +94,7 @@ Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to se
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–193 inserted "under a State program funded under" before "part A of subchapter IV of this chapter".
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–193 inserted "under a State program funded under" before "part A of subchapter IV".
 
 <b>1994</b>—Subsecs. (c)(5), (8), (d), (g). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 
@@ -164,7 +164,7 @@ Subsec. (c)(3)(A). Pub. L. 90–248, §102(b)(4), substituted "$40" for "$35".
 
 Subsec. (c)(3)(B). Pub. L. 90–248, §102(b)(5), substituted "$20" for "$17.50".
 
-Subsec. (d)(1). Pub. L. 90–248, §241(a), struck out "IV," after "I," and inserted "or part A of subchapter IV of this chapter," after "XVI of this chapter,".
+Subsec. (d)(1). Pub. L. 90–248, §241(a), struck out "IV," after "I," and inserted "or part A of subchapter IV," after "XVI,".
 
 #### Effective Date of 1996 Amendment
 

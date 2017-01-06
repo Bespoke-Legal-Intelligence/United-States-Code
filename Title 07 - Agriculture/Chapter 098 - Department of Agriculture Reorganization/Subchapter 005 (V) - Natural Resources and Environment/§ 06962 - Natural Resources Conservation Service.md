@@ -22,7 +22,7 @@ If the Secretary establishes the Natural Resources Conservation Service under su
 
 #### (c) Special concurrence requirements for certain functions
 
-In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f),<sup>1</sup> the Secretary shall—
+In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and theprogram under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837–3837f),<sup>1</sup> the Secretary shall—
 
 &emsp;(1) acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
 

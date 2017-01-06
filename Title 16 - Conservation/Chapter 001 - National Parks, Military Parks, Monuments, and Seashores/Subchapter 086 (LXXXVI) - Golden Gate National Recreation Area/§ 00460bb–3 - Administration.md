@@ -52,7 +52,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §121\], Nov. 29, 1999, 113 S
 
 #### Fort Baker Golden Gate National Recreation Area; Tax and Special Assessment Exemption
 
-Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159, as amended by Pub. L. 111–88, div. A, title I, §123, Oct. 30, 2009, 123 Stat. 2932, provided that: "All properties administered by the National Park Service at Fort Baker, Golden Gate National Recreation Area, and leases, concessions, permits and other agreements associated with those properties, hereafter shall be exempt from all taxes and special assessments, except sales tax, by the State of California and its political subdivisions, including the County of Marin and the City of Sausalito."
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159, as amended by Pub. L.111–88, div. A, title I, §123, Oct. 30, 2009, 123 Stat. 2932, provided that: "All properties administered by the National Park Service at Fort Baker, Golden Gate National Recreation Area, and leases, concessions, permits and other agreements associated with those properties, hereafter shall be exempt from all taxes and special assessments, except sales tax, by the State of California and its political subdivisions, including the County of Marin and the City of Sausalito."
 
 Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title I, §150\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–268.
 

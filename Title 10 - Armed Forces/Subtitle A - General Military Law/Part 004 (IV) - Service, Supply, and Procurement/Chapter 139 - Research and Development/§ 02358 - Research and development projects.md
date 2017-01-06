@@ -88,6 +88,348 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
+#### Laboratory Quality Enhancement Program
+
+Pub. L. 114–328, div. A, title II, §211, Dec. 23, 2016, 130 Stat. 2046, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, shall carry out a program to be known as the 'Laboratory Quality Enhancement Program' under which the Secretary shall establish the panels described in subsection (b) and direct such panels—
+
+&emsp;"(1) to review and make recommendations to the Secretary with respect to—
+
+&emsp;&emsp;"(A) existing policies and practices affecting the science and technology reinvention laboratories to improve the mission effectiveness of such laboratories; and
+
+&emsp;&emsp;"(B) new initiatives proposed by the science and technology reinvention laboratories;
+
+&emsp;"(2) to support implementation of current and future initiatives affecting the science and technology reinvention laboratories; and
+
+&emsp;"(3) to conduct assessments or data analysis on such other issues as the Secretary determines to be appropriate.
+
+"(b)
+
+Panels.—The panels described in this subsection are:
+
+&emsp;"(1) A panel on personnel, workforce development, and talent management.
+
+&emsp;"(2) A panel on facilities, equipment, and infrastructure.
+
+&emsp;"(3) A panel on research strategy, technology transfer, and industry and university partnerships.
+
+&emsp;"(4) A panel on governance and oversight processes.
+
+"(c)
+
+Composition of Panels.—(1) Each panel described in paragraphs (1) through (3) of subsection (b) may be composed of subject matter and technical management experts from—
+
+&emsp;"(A) laboratories and research centers of the Army, Navy, and Air Force;
+
+&emsp;"(B) appropriate Defense Agencies;
+
+&emsp;"(C) the Office of the Assistant Secretary of Defense for Research and Engineering; and
+
+&emsp;"(D) such other entities as the Secretary determines to be appropriate.
+
+"(2) The panel described in subsection (b)(4) shall be composed of—
+
+&emsp;"(A) the Director of the Army Research Laboratory;
+
+&emsp;"(B) the Director of the Air Force Research Laboratory;
+
+&emsp;"(C) the Director of the Naval Research Laboratory;
+
+&emsp;"(D) the Director of the Engineer Research and Development Center of the Army Corps of Engineers; and
+
+&emsp;"(E) such other members as the Secretary determines to be appropriate.
+
+"(d)
+
+Governance of Panels.—(1) The chairperson of each panel shall be selected by its members.
+
+"(2) Each panel, in coordination with the Assistant Secretary of Defense for Research and Engineering, shall transmit to the Science and Technology Executive Committee of the Department of Defense such information or findings on topics requiring decision or approval as the panel considers appropriate.
+
+"(e)
+
+Discharge of Certain Authorities to Conduct Personnel Demonstration Projects.—\[Amended section 342(b) of Pub. L. 103–337, set out as a note below.\]
+
+"(f)
+
+Science and Technology Reinvention Laboratory Defined.—In this section, the term 'science and technology reinvention laboratory' means a science and technology reinvention laboratory designated under section 1105 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 2358 note \[set out below\]), as amended."
+
+#### Pilot Program for the Enhancement of the Research, Development, Test, and Evaluation Centers of the Department of Defense
+
+Pub. L. 114–328, div. A, title II, §233, Dec. 23, 2016, 130 Stat. 2061, provided that:
+
+"(a)
+
+Pilot Program Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense and the secretaries of the military departments shall jointly carry out a pilot program to demonstrate methods for the more effective development of technology and management of functions at eligible centers.
+
+&emsp;"(2)
+
+Eligible centers.—For purposes of the pilot program, the eligible centers are—
+
+&emsp;&emsp;"(A) the science and technology reinvention laboratories, as specified in section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 \[Pub. L. 111–84\] (10 U.S.C. 2358 note \[set out below\]);
+
+&emsp;&emsp;"(B) the test and evaluation centers which are activities specified as part of the Major Range and Test Facility Base in Department of Defense Directive 3200.11; and
+
+&emsp;&emsp;"(C) the Defense Advanced Research Projects Agency.
+
+"(b)
+
+Selection.—
+
+&emsp;"(1)
+
+In general.—The secretaries described in subsection (a) shall ensure that participation in the pilot program includes—
+
+&emsp;&emsp;"(A) the Defense Advanced Research Projects Agency; and
+
+&emsp;&emsp;"(B) in accordance with paragraph (2)—
+
+&emsp;&emsp;&emsp;"(i) five additional eligible centers described in subparagraph (A) of subsection (a)(2) from each of the military departments; and
+
+&emsp;&emsp;&emsp;"(ii) five additional eligible centers described in subparagraph (B) of such subsection from each of the military departments.
+
+&emsp;"(2)
+
+Selection procedures.—(A) The head of an eligible center described in subparagraph (A) or (B) of subsection (a)(2) seeking to participate in the pilot program shall submit to the appropriate reviewer an application therefor at such time, in such manner, and containing such information as the appropriate reviewer shall specify.
+
+&emsp;"(B) Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2016\], each appropriate reviewer shall—
+
+&emsp;&emsp;"(i) evaluate each application received under subparagraph (A); and
+
+&emsp;&emsp;"(ii) approve or disapprove of the application.
+
+&emsp;"(C) If the head of an eligible center submits an application under subparagraph (A) in accordance with the requirements specified by the appropriate reviewer for purposes of such subparagraph and the appropriate reviewer neither approves nor disapproves such application pursuant to subparagraph (B)(ii) on or before the date that is 120 days after the date of the enactment of this Act, such eligible center shall be considered a participant in the pilot program.
+
+&emsp;"(D) For purposes of this paragraph, the appropriate reviewer is—
+
+&emsp;&emsp;"(i) in the case of an eligible center described in subparagraph (A) of subsection (a)(2), the Laboratory Quality Enhancement Program; and
+
+&emsp;&emsp;"(ii) in the case of an eligible center described in subparagraph (B) of such subsection, the Director of the Test Resource Management Center.
+
+"(c)
+
+Participation in Program.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), the head of each eligible center selected under subsection (b)(1) shall propose and implement alternative and innovative methods of effective management and operations of eligible centers, rapid project delivery, support, experimentation, prototyping, and partnership with universities and private sector entities to—
+
+&emsp;&emsp;"(A) generate greater value and efficiencies in research and development activities;
+
+&emsp;&emsp;"(B) enable more efficient and effective operations of supporting activities, such as—
+
+&emsp;&emsp;&emsp;"(i) facility management, construction, and repair;
+
+&emsp;&emsp;&emsp;"(ii) business operations;
+
+&emsp;&emsp;&emsp;"(iii) personnel management policies and practices; and
+
+&emsp;&emsp;&emsp;"(iv) intramural and public outreach; and
+
+&emsp;&emsp;"(C) enable more rapid deployment of warfighter capabilities.
+
+&emsp;"(2)
+
+Implementation.—(A) The head of an eligible center described in subparagraph (A) or (B) of subsection (a)(2) shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Assistant Secretary concerned within 60 days of receiving a proposal from an eligible center selected under subsection (b)(1) by such Assistant Secretary.
+
+&emsp;"(B) The Director of the Defense Advanced Research Projects Agency shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Chief Management Officer within 60 days of receiving a proposal from the Director.
+
+&emsp;"(C) In this paragraph, the term 'Assistant Secretary concerned' means—
+
+&emsp;&emsp;"(i) the Assistant Secretary of the Air Force for Acquisition \[now Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics\], with respect to matters concerning the Air Force;
+
+&emsp;&emsp;"(ii) the Assistant Secretary of the Army for Acquisition, Technology, and Logistics, with respect to matters concerning the Army; and
+
+&emsp;&emsp;"(iii) the Assistant Secretary of the Navy for Research, Development, and Acquisition, with respect to matters concerning the Navy.
+
+"(d)
+
+Waiver Authority for Demonstration and Implementation.—Until the termination of the pilot program under subsection (e), the head of an eligible center selected under subsection (b)(1) may waive any regulation, restriction, requirement, guidance, policy, procedure, or departmental instruction that would affect the implementation of a method proposed under subsection (c)(1), unless such implementation would be prohibited by a provision of a Federal statute or common law.
+
+"(e)
+
+Termination.—The pilot program shall terminate on September 30, 2022.
+
+"(f)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program.
+
+&emsp;"(2)
+
+Contents.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Identification of the eligible centers participating in the pilot program.
+
+&emsp;&emsp;"(B) Identification of the eligible centers whose applications to participate in the pilot program were disapproved under subsection (b), including justifications for such disapprovals.
+
+&emsp;&emsp;"(C) A description of the methods implemented pursuant to subsection (c).
+
+&emsp;&emsp;"(D) A description of the methods that were proposed pursuant to paragraph (1) of subsection (c) but disapproved under paragraph (2) of such subsection.
+
+&emsp;&emsp;"(E) An assessment of how methods implemented pursuant to subsection (c) have contributed to the objectives identified in subparagraphs (A), (B), and (C) of paragraph (1) of such subsection."
+
+#### Pilot Program on Enhanced Interaction Between the Defense Advanced Research Projects Agency and the Service Academies
+
+Pub. L. 114–328, div. A, title II, §236, Dec. 23, 2016, 130 Stat. 2066, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, acting through the Director of the Defense Advanced Research Projects Agency, shall carry out a pilot program to enhance interaction between the Defense Advanced Research Projects Agency and the service academies to promote technology transition, education, and training in science, technology, engineering, and mathematics fields that are relevant to the Department of Defense.
+
+"(b)
+
+Awards of Funds.—(1) In carrying out the pilot program, the Secretary, acting through the Director, shall provide funds to contractors and grantees of the Defense Advanced Research Projects Agency in order to encourage such contractors and grantees to develop research partnerships with the service academies to support more efficient and effective technology transition of research programs and products.
+
+"(2) It shall be the responsibility of the Director to ensure that such funds are used effectively and that sufficient efforts are made to build appropriate partnerships.
+
+"(c) Service Academy Technology Transition Networks.—In carrying out the pilot program, the Director shall prioritize the leveraging of—
+
+&emsp;"(1) the technology transition networks that service academies maintain among their academic departments and resident research centers; and
+
+&emsp;"(2) partnerships with Department of Defense laboratories, other Federal degree granting institutions, academia, and industry.
+
+"(d)
+
+Termination.—The authority to carry out the pilot program shall terminate on September 30, 2020.
+
+"(e)
+
+Service Academies Defined.—In this section, the term 'service academies' means the following:
+
+&emsp;"(1) The United States Military Academy.
+
+&emsp;"(2) The United States Naval Academy.
+
+&emsp;"(3) Th\[e\] United States Air Force Academy.
+
+&emsp;"(4) The United States Coast Guard Academy.
+
+&emsp;"(5) The United States Merchant Marine Academy."
+
+#### Mission Integration Management
+
+Pub. L. 114–328, div. A, title VIII, §855, Dec. 23, 2016, 130 Stat. 2297, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish mission integration management activities for each mission area specified in subsection (b).
+
+"(b)
+
+Covered Mission Areas.—The mission areas specified in this subsection are mission areas that involve multiple Armed Forces and multiple programs and, at a minimum, include the following:
+
+&emsp;"(1) Close air support.
+
+&emsp;"(2) Air defense and offensive and defensive counter-air.
+
+&emsp;"(3) Interdiction.
+
+&emsp;"(4) Intelligence, surveillance, and reconnaissance.
+
+&emsp;"(5) Any other overlapping mission area of significance, as jointly designated by the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff for purposes of this subsection.
+
+"(c)
+
+Qualifications.—Mission integration management activities shall be performed by qualified personnel from the acquisition and operational communities.
+
+"(d)
+
+Responsibilities.—The mission integration management activities for a mission area under this section shall include—
+
+&emsp;"(1) development of technical infrastructure for engineering, analysis, and test, including data, modeling, analytic tools, and simulations;
+
+&emsp;"(2) the conduct of tests, demonstrations, exercises, and focused experiments for compelling challenges and opportunities;
+
+&emsp;"(3) overseeing the implementation of section 2446c of title 10, United States Code;
+
+&emsp;"(4) sponsoring and overseeing research on and development of (including tests and demonstrations) automated tools for composing systems of systems on demand;
+
+&emsp;"(5) developing mission-based inputs for the requirements process, assessment of concepts, prototypes, design options, budgeting and resource allocation, and program and portfolio management; and
+
+&emsp;"(6) coordinating with commanders of the combatant commands on the development of concepts of operation and operational plans.
+
+"(e)
+
+Scope.—The mission integration management activities for a mission area under this subsection shall extend to the supporting elements for the mission area, such as communications, command and control, electronic warfare, and intelligence.
+
+"(f)
+
+Funding.—There is authorized to be made available annually such amounts as the Secretary of Defense determines appropriate from the Rapid Prototyping Fund established under section 804(d) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note) for mission integration management activities listed in subsection (d).
+
+"(g)
+
+Strategy.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the same time as the budget for the Department of Defense for fiscal year 2018 is submitted to Congress pursuant to section 1105 of title 31, United States Code, a strategy for mission integration management, including a resourcing strategy for mission integration managers to carry out the responsibilities specified in this section."
+
+#### Pilot Program on Enhanced Pay Authority for Certain Research and Technology Positions in the Science and Technology Reinvention Laboratories of the Department of Defense
+
+Pub. L. 114–328, div. A, title XI, §1124, Dec. 23, 2016, 130 Stat. 2456, provided that:
+
+"(a)
+
+Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the military departments in attracting and retaining high quality acquisition and technology experts in positions responsible for managing and performing complex, high-cost research and technology development efforts in the science and technology reinvention laboratories of the Department of Defense.
+
+"(b)
+
+Approval Required.—The pilot program may be carried out in a military department only with the approval of the Service Acquisition Executive of the military department concerned.
+
+"(c)
+
+Positions.—The positions described in this subsection are positions in the science and technology reinvention laboratories of the Department of Defense that—
+
+&emsp;"(1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
+
+&emsp;"(2) are critical to the successful accomplishment of an important research or technology development mission.
+
+"(d)
+
+Rate of Basic Pay.—The pay authority specified in this subsection is authority as follows:
+
+&emsp;"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Service Acquisition Executive concerned.
+
+&emsp;"(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of the military department concerned.
+
+"(e)
+
+Limitations.—
+
+&emsp;"(1)
+
+In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+
+&emsp;"(2)
+
+Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time.
+
+&emsp;"(3)
+
+Term of positions.—The authority in subsection (a) may be used only for positions having a term of less than five years.
+
+"(f)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—The authority to fix rates of basic pay for a position under this section shall terminate on October 1, 2021.
+
+&emsp;"(2)
+
+Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2021, of basic pay at rates fixed under this section before that date for positions having terms that continue after that date.
+
+"(g)
+
+Science and Technology Reinvention Laboratories of the Department of Defense Defined.—In this section, the term 'science and technology reinvention laboratories of the Department of Defense' means the laboratories designated as science and technology reinvention laboratories by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 \[Pub. L. 111–84\] (10 U.S.C. 2358 note)."
+
 #### Plan for Advanced Weapons Technology War Games
 
 Pub. L. 114–92, div. A, title II, §240, Nov. 25, 2015, 129 Stat. 784, provided that:
@@ -238,11 +580,11 @@ In general.—The authority in this section shall expire on December 31, 2023.
 
 &emsp;"(2)
 
-Continuation of authorities exercised before termination.—The expiration in paragraph (1) shall not be construed to effect the continuation after the date specified in paragraph (1) of any term of employment or other benefit authorized under this section before that date in accordance with the terms of such authorization."
+Continuation of authorities exercised before termination.—The expiration in paragraph (1) shall not be construed to effect the continuationafter the date specified in paragraph (1) of any term of employment or other benefit authorized under this section before that date in accordance with the terms of such authorization."
 
 #### Defense Laboratory Modernization Pilot Program
 
-Pub. L. 114–92, div. B, title XXVIII, §2803, Nov. 25, 2015, 129 Stat. 1169, provided that:
+Pub. L. 114–92, div. B, title XXVIII, §2803, Nov. 25, 2015, 129 Stat. 1169, as amended by Pub. L. 114–328, div. B, title XXVIII, §2806, Dec. 23, 2016, 130 Stat. 2715, provided that:
 
 "(a)
 
@@ -253,6 +595,8 @@ Authority to Use Research, Development, Test, and Evaluation Funds.—Using amou
 &emsp;"(2) A Department of Defense Federally Funded Research and Development Center that functions primarily as a research laboratory.
 
 &emsp;"(3) A Department of Defense facility in support of a technology development program that is consistent with the fielding of offset technologies as described in section 218 of this Act \[set out as a note under section 2501 of this title\].
+
+&emsp;"(4) A Department of Defense research, development, test, and evaluation facility that is not designated as a Science and Technology Reinvention Laboratory, but nonetheless is involved with developmental test and evaluation.
 
 "(b)
 
@@ -398,115 +742,7 @@ Definitions.—In this section:
 
 #### Temporary Authorities for Certain Positions at Department of Defense Research and Engineering Facilities
 
-Pub. L. 113–66, div. A, title XI, §1107, Dec. 26, 2013, 127 Stat. 887, as amended by Pub. L. 113–291, div. A, title XI, §1105, Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1104, Nov. 25, 2015, 129 Stat. 1023, provided that:
-
-"(a)
-
-Authority To Make Direct Appointments.—
-
-&emsp;"(1)
-
-Candidates for scientific and engineering positions at science and technology reinventionlaboratories.—The director of any Science and Technology Reinvention Laboratory (hereinafter in this section referred to as an 'STRL') may appoint qualified candidates possessing a bachelor's degree to positions described in paragraph (1) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title).
-
-&emsp;"(2)
-
-Veteran candidates for similar positions at research and engineering facilities.—The director of any STRL may appoint qualified veteran candidates to positions described in paragraph (2) of subsection (b) as an employee at a laboratory, agency, or organization specified in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
-
-&emsp;"(3)
-
-Students enrolled in scientific and engineering programs.—The director of any STRL may appoint qualified candidates enrolled in a program of undergraduate or graduate instruction leading to a bachelor's or an advanced degree in a scientific, technical, engineering or mathematical course of study at an institution of higher education (as that term is defined in section \[sic\] 101 and 102 of the Higher Education Act of 1965 (20 U.S.C. 1001\[, 1002\])) to positions described in paragraph (3) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title).
-
-&emsp;"(4)
-
-Noncompetitive conversion to permanent appointment.—With respect to any student appointed by the director of an STRL under paragraph (3) to a temporary or term appointment, upon graduation from the applicable institution of higher education (as defined in such paragraph), the director may noncompetitively convert such student to a permanent appointment within the STRL without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title), provided the student meets all eligibility and Office of Personnel Management qualification requirements for the position.
-
-"(b)
-
-Covered Positions.—
-
-&emsp;"(1)
-
-Candidates for scientific and engineering positions.—The positions described in this paragraph are scientific and engineering positions that may be temporary, term, or permanent in any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
-
-&emsp;"(2)
-
-Qualified veteran candidates.—The positions described in this paragraph are scientific, technical, engineering, and mathematics positions, including technicians, in the following:
-
-&emsp;&emsp;"(A) Any laboratory referred to in paragraph (1).
-
-&emsp;&emsp;"(B) Any other Department of Defense research and engineering agency or organization designated by the Secretary for purposes of subsection (a)(2).
-
-&emsp;"(3)
-
-Candidates enrolled in scientific and engineering programs.—The positions described in this paragraph are scientific and engineering positions that may be temporary or term in any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
-
-"(c)
-
-Limitation on Number of Appointments Allowable in a Calendar Year.—The authority under subsection (a) may not, in any calendar year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
-
-&emsp;"(1) In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 6 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
-
-&emsp;"(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 3 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
-
-&emsp;"(3) In the case of a laboratory described in subsection (b)(3), with respect to appointment authority under subsection (a)(3), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
-
-"(d)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'employee' has the meaning given that term in section 2105 of title 5, United States Code.
-
-&emsp;"(2) The term 'veteran' has the meaning given that term in section 101 of title 38, United States Code.
-
-"(e)
-
-Sunset.—Appointments under subsection (a) may not be made after December 31, 2019.
-
-"(f)
-
-Senior Scientific Technical Managers.—
-
-&emsp;"(1)
-
-Establishment.—There is hereby established in each STRL a category of senior professional scientific and technical positions, the incumbents of which shall be designated as 'senior scientific technical managers' and which shall be positions classified above GS–15 of the General Schedule, notwithstanding section 5108(a) of title 5, United States Code. The primary functions of such positions shall be—
-
-&emsp;&emsp;"(A) to engage in research and development in the physical, biological, medical, or engineering sciences, or another field closely related to the mission of such STRL; and
-
-&emsp;&emsp;"(B) to carry out technical supervisory responsibilities.
-
-&emsp;"(2)
-
-Appointments.—The positions described in paragraph (1) may be filled, and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 2 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in which any appointments subject to that numerical limitation are made.
-
-&emsp;"(3)
-
-Sunset.—Appointments under this subsection may not be made after December 31, 2019.
-
-"(g)
-
-Reporting Requirement.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an annual report on the operation of this section. Each such report shall include, for the period covered by such report—
-
-&emsp;"(1) the total number of individuals appointed under subsection (a)(1) during such period;
-
-&emsp;"(2) the total number of individuals appointed under subsection (a)(2) during such period; and
-
-&emsp;"(3) the total number of senior scientific technical managers at each STRL as of the end of such period.
-
-"(h)
-
-Exclusion From Personnel Limitations.—
-
-&emsp;"(1)
-
-In general.—The director of an STRL shall manage the workforce strength, structure, positions, and compensation of such STRL—
-
-&emsp;&emsp;"(A) without regard to any limitation on appointments, positions, or funding with respect to such STRL, subject to subparagraph (B); and
-
-&emsp;&emsp;"(B) in a manner consistent with the budget available with respect to such STRL.
-
-&emsp;"(2)
-
-Exceptions.—Paragraph (1) shall not apply to Senior Executive Service positions (as defined in section 3132(a) of title 5, United States Code) or scientific and professional positions authorized under section 3104 of such title."
+Pub. L. 113–66, div. A, title XI, §1107, Dec. 26, 2013, 127 Stat. 887, as amended by Pub. L. 113–291, div. A, title XI, §1105, Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1104, Nov. 25, 2015, 129 Stat. 1023, authorized director of any Science and Technology Reinvention Laboratory, until Dec. 31, 2019, to appoint qualified candidates possessing a bachelor's degree or enrolled in undergraduate or graduate scientific, technical, engineering or mathematical programs or to appoint qualified veteran candidates to certain laboratory positions, prior to repeal by Pub. L. 114–328, div. A, title XI, §1122(b), Dec. 23, 2016, 130 Stat. 2455. See section 2358a of this title.
 
 #### Regional Advanced Technology Clusters
 
@@ -564,7 +800,7 @@ Definitions.—In this section:
 
 #### Advanced Rotorcraft Flight Research and Development
 
-Pub. L. 112–81, div. A, title II, §222, Dec. 31, 2011, 125 Stat. 1336, provided that:
+Pub. L. 112–81, div. A, title II, §222, Dec. 31, 2011, 125 Stat. 1336, as amended by Pub. L. 114–328, div. A, title VIII, §833(b)(2)(C)(iii), Dec. 23, 2016, 130 Stat. 2284, provided that:
 
 "(a)
 
@@ -592,7 +828,7 @@ Elements of Program.—The program authorized by subsection (a) may include—
 
 "(d)
 
-Competition.—In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of section 2304 of title 10, United States Code, and shall consider a timely offer submitted by a small business concern (as defined in section 2225(f)(3) of such title) in accordance with the specifications and evaluation factors specified in the solicitation."
+Competition.—In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of section 2304 of title 10, United States Code, and shall consider a timely offer submitted by a small business concern (as defined in section 2330a(j) \[now 2330a(h)\] of such title) in accordance with the specifications and evaluation factors specified in the solicitation."
 
 #### Program for Research, Development, and Deployment of Advanced Ground Vehicles, Ground Vehicle Systems, and Components
 
@@ -738,7 +974,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 #### Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions
 
-Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, as amended by Pub. L. 111–84, div. B, title XXVIII, §2801(c), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. A, title II, §253, Dec. 31, 2011, 125 Stat. 1347; Pub. L. 113–66, div. A, title II, §262(a), (b), Dec. 26, 2013, 127 Stat. 725, 726, provided that:
+Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, as amended by Pub. L. 111–84, div. B, title XXVIII, §2801(c), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. A, title II, §253, Dec. 31, 2011, 125 Stat. 1347; Pub. L. 113–66, div. A, title II, §262(a), (b), Dec. 26, 2013, 127 Stat. 725, 726; Pub. L. 114–328, div. A, title II, §212, Dec. 23, 2016, 130 Stat. 2047, provided that:
 
 "(a)
 
@@ -746,7 +982,7 @@ Mechanisms to Provide Funds.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory may use an amount of funds equal to not more than three percent of all funds available to the defense laboratory for the following purposes:
+In general.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory may use an amount of funds equal to not less than two percent and not more than four percent of all funds available to the defense laboratory for the following purposes:
 
 &emsp;&emsp;"(A) To fund innovative basic and applied research that is conducted at the defense laboratory and supports military missions.
 
@@ -759,6 +995,10 @@ In general.—The Secretary of Defense, in consultation with the Secretaries of 
 &emsp;"(2)
 
 Consultation required.—The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
+
+&emsp;"(3)
+
+Fee.—After consultation with the science and technology executive of the military department concerned, the director of a defense laboratory may charge customer activities a fixed percentage fee, in addition to normal costs of performance, in order to obtain funds to carry out activities authorized by this subsection. The fixed fee may not exceed four percent of costs.
 
 "(b)
 
@@ -784,15 +1024,15 @@ Cost limit compliance.—The Secretary shall ensure that a project referred to i
 
 &emsp;&emsp;"(B) Section 2811 of such title, with respect to repair projects.
 
+&emsp;&emsp;"(C) Section 2802 of such title, with respect to construction projects that exceed the cost specified in subsection (a)(2) of section 2805 of such title for certain unspecified minor military construction projects for laboratories.
+
 "(c)
 
-Annual Report on Use of Authority.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under subsection (a) during the preceding year.
-
-"(d)
-
-Sunset.—The authority under subsection (a) shall expire on September 30, 2020."
+Annual Report on Use of Authority.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under subsection (a) during the preceding year."
 
 \[Pub. L. 113–66, div. A, title II, §262(c), Dec. 26, 2013, 127 Stat. 726, provided that: "Subsection (b) of such section 219 \[section 219 of Pub. L. 110–417, set out above\], as added by subsection (a)(3), shall apply with respect to funds made available under such section on or after the date of the enactment of this Act \[Dec. 26, 2013\]."\]
+
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 219(c) of Pub. L. 110–417, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 #### Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices
 
@@ -848,7 +1088,7 @@ Responsibilities.—In carrying out the program required by subsection (b), the 
 
 &emsp;&emsp;"(B) coordination of the programs referred to in subparagraph (A) with the programs on hypersonics of the National Aeronautics and Space Administration; and
 
-&emsp;&emsp;"(C) that developmental testing resources are adequate and facilities are made available in atimely manner to support hypersonics research, demonstration programs, and system development.
+&emsp;&emsp;"(C) that developmental testing resources are adequate and facilities are made available in a timely manner to support hypersonics research, demonstration programs, and system development.
 
 &emsp;"(3) Approve demonstration programs on hypersonic systems.
 
@@ -1052,7 +1292,7 @@ Department of Defense Facilities Authority.—(1) If the Secretary determines th
 
 "(B) The facility project may be carried out only after the end of the 21-day period beginning on the date the notification is received by the congressional defense committees.
 
-"(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within sevendays after the date on which appropriated funds are obligated with the information required in paragraph (3).
+"(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
 
 "(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
 
@@ -1070,7 +1310,7 @@ Authority for Personal Services Contracts.—(1) Subject to paragraph (2), the a
 
 "(f)
 
-Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721), section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
+Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721), \[former\] section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
 
 "(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
 
@@ -1158,7 +1398,7 @@ Purposes.—The purposes of the program are as follows:
 
 "(c)
 
-Administration.—In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall supervise the planning, management, and coordination of the program. The Under Secretary, inconsultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
+Administration.—In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall supervise the planning, management, and coordination of the program. The Under Secretary, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
 
 &emsp;"(1) prescribe a set of long-term challenges and a set of specific technical goals for the program;
 
@@ -1342,7 +1582,7 @@ Eligible States.—(1) The Under Secretary of Defense for Acquisition, Technolog
 
 "(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as an eligible State if, as determined by the Under Secretary—
 
-&emsp;"(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less thanthe amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
+&emsp;"(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
 &emsp;"(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
 
@@ -1466,7 +1706,9 @@ Information required.—Each report under subsection (d) shall describe the foll
 
 Definition.—For purposes of this subsection, the term 'demonstration laboratory' means a laboratory designated by the Secretary of Defense under the provisions of section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, set out below\] (as cited in subsection (a))."
 
-Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as amended by Pub. L. 106–65, div. A, title XI, §1109, Oct. 5, 1999, 113 Stat. 779; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1114\], Oct. 30, 2000, 114 Stat. 1654, 1654A–315, provided that:
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1107(d) of Pub. L. 110–181, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+
+Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as amended by Pub. L. 106–65, div. A, title XI, §1109, Oct. 5, 1999, 113 Stat. 779; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1114\], Oct. 30, 2000, 114 Stat. 1654, 1654A–315; Pub. L. 114–328, div. A, title II, §211(e), Dec. 23, 2016, 130 Stat. 2047, provided that:
 
 "(1) The Secretary of Defense may carry out personnel demonstration projects at Department of Defense laboratories designated by the Secretary as Department of Defense science and technology reinvention laboratories.
 
@@ -1480,7 +1722,7 @@ Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as
 
 &emsp;"(B) the authority of the Secretary to carry out the demonstration project is that which is provided in paragraph (1) rather than the authority which is provided in such section 4703; and
 
-&emsp;"(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703.
+&emsp;"(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703 through the Assistant Secretary of Defense for Research and Engineering (who shall place an emphasis in the exercise of such authorities on enhancing efficient operations of the laboratory and who may, in exercising such authorities, request administrative support from science and technology reinvention laboratories to review, research, and adjudicate personnel demonstration project proposals).
 
 "(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -1546,7 +1788,7 @@ Funding.—Of the amounts authorized to be appropriated under section 201 \[107 
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 
-Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980,94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
+Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604.
 
 #### Relationship of Research Projects or Studies to Military Function or Operation
 

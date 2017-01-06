@@ -26,7 +26,7 @@
 
 (b) If any veteran covered by the first sentence of subsection (a) believes any contractor of the United States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
 
-(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2)(B).
+(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing employment openings,the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2)(B).
 
 (d)(1) Each contractor to whom subsection (a) applies shall, in accordance with regulations which the Secretary of Labor shall prescribe, report at least annually to the Secretary of Labor on—
 

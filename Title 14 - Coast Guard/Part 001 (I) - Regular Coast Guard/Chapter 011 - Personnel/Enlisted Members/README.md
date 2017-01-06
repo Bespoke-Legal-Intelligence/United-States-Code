@@ -16,7 +16,7 @@
 - [&sect; 00354 - Voluntary retirement after thirty years' service](%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%27%20service.md)
 - [&sect; 00355 - Voluntary retirement after twenty years' service](%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%27%20service.md)
 - [&sect; 00356 - Repealed. Aug. 3, 1950, ch. 536, &sect;36, 64 Stat. 408](%C2%A7%2000356%20-%20Repealed.%20Aug.%203%2C%201950%2C%20ch.%20536%2C%20%C2%A736%2C%2064%20Stat.%20408.md)
-- [&sect; 00357 - Involuntary retirement of enlisted members](%C2%A7%2000357%20-%20Involuntary%20retirement%20of%20enlisted%20members.md)
+- [&sect; 00357 - Retirement of enlisted members increase in retired pay](%C2%A7%2000357%20-%20Retirement%20of%20enlisted%20members%20increase%20in%20retired%20pay.md)
 - [&sect; 00358 - Repealed. Pub. L. 88&#8211;114, &sect;1(2), Sept. 6, 1963, 77 Stat. 144](%C2%A7%2000358%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93114%2C%20%C2%A71%282%29%2C%20Sept.%206%2C%201963%2C%2077%20Stat.%20144.md)
 - [&sect; 00359 - Recall to active duty during war or national emergency](%C2%A7%2000359%20-%20Recall%20to%20active%20duty%20during%20war%20or%20national%20emergency.md)
 - [&sect; 00360 - Recall to active duty with consent of member](%C2%A7%2000360%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20member.md)

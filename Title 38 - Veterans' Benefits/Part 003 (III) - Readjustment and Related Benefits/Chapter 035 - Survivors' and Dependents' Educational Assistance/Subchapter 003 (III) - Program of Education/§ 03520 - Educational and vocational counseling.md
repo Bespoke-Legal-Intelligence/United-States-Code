@@ -10,7 +10,7 @@ The Secretary may, upon request, arrange for educational or vocational counselin
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator".
 
-<b>1986</b>—Pub. L. 99–576 substituted "Educational and vocational counseling" for "Development of educational plan" in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1986</b>—Pub. L. 99–576 substituted "Educational and vocational counseling" for "Development of educationalplan" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 "(a) Upon provisional approval of an application for educational assistance for a person eligible within the meaning of section 1701(a)(1)(A) of this title, the Administrator may, upon request, arrange for educational or vocational counseling to assist the parent or guardian and the eligible person in selecting such person's educational, vocational, or professional objective and in developing such person's program of education. During, or after, such counseling, the parent or guardian shall prepare for the eligible person an educational plan which shall set forth the selected objective, the proposed program of education, a list of the educational institutions at which such program would be pursued, an estimate of the sum which would be required for tuition and fees in completion of such program, and such other information as the Administrator shall require. This educational plan shall be signed by the parent or guardian and shall become an integral part of the application for educational assistance under this chapter.
 

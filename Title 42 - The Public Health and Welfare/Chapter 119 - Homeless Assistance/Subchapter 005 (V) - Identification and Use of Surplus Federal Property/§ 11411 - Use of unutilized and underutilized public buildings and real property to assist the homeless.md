@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (b) Availability of property
 
-(1) The Secretary shall promptly notify each Federal agency with respect to any property of that agency that the Secretary has identified under subsection (a) of this section. No later than 45 days after receipt of such a notice, the head of the appropriate landholding agency shall transmit to the Secretary the agency's response to property identifications contained in such notification, which shall include—
+(1) The Secretary shall promptly notify each Federal agency with respect to any property of that agency that the Secretary has identified under subsection (a). No later than 45 days after receipt of such a notice, the head of the appropriate landholding agency shall transmit to the Secretary the agency's response to property identifications contained in such notification, which shall include—
 
 &emsp;(A) in the case of unutilized or underutilized property—
 
@@ -22,11 +22,13 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 &emsp;&emsp;(ii) a statement that there is further and compelling Federal need for the property (including a full explanation of such need) and that, therefore, the property is not presently available for use to assist the homeless.
 
-(2)(A) <sup>1</sup> All properties identified by the Secretary under subsection (a) of this section shall be available for application—
+(2) All properties identified by the Secretary under subsection (a) shall be available for application—
 
-&emsp;(i) in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section; and
+&emsp;(A) in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section;
 
-&emsp;(ii) in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40.
+&emsp;(B) in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40; and
+
+&emsp;(C) in the case of surplus property, the provision of permanent housing with or without supportive services is an eligible use to assist the homeless under this section.
 
 (3) The Secretary shall maintain a written public record of—
 
@@ -36,11 +38,11 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (c) Publication of properties
 
-(1)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall publish in the Federal Register—
+(1)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1), the Secretary shall publish on the Web site of the Department of Housing and Urban Development or the General Services Administration—
 
-&emsp;(i) a list of all properties reviewed by the Secretary under subsection (a) of this section; and
+&emsp;(i) a list of all properties reviewed by the Secretary under subsection (a); and
 
-&emsp;(ii) a list of all properties that are available under subsection (b)(2) of this section for application for use to assist the homeless.
+&emsp;(ii) a list of all properties that are available under subsection (b)(2) for application for use to assist the homeless.
 
 (B) Each publication of properties shall include a description and the location of each property (including the address and zip code) and the current classification of each property as unutilized, underutilized, excess property, or surplus property.
 
@@ -48,7 +50,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (D) The Secretary shall publish separately, on an annual basis, all properties identified as being suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
 
-(2)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the United States Interagency Council on Homelessness. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
+(2)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1), the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the United States Interagency Council on Homelessness. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
 
 (B) The Secretary, the Administrator, and the Secretary of Health and Human Services shall make such efforts as are necessary to ensure the widest possible dissemination of the information on such list.
 
@@ -64,7 +66,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (B) No later than February 15 each year, the Secretary shall publish in the Federal Register a list of all properties reported under subparagraph (A) for the preceding year and the current classification of the properties.
 
-(C) For purposes of subparagraph (A), property shall not be considered to remain available for application for use to assist the homeless after the 60-day holding period provided under subsection (d) of this section if—
+(C) For purposes of subparagraph (A), property shall not be considered to remain available for application for use to assist the homeless after the 60-day holding period provided under subsection (d) if—
 
 &emsp;(i) an application for or written expression of interest in the property is made under any law for use of the property for any purpose; or
 
@@ -72,29 +74,41 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (d) Holding period
 
-(1) Properties published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless shall not be available for any other purpose for a period of 60 days beginning on the date of such publication.
+(1) Properties published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless shall not be available for any other purpose for a period of 30 days beginning on the date of such publication.
 
-(2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 60-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) of this section with respect to that written notice of intent.
+(2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 30-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) with respect to that written notice of intent.
 
-(3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
+(3) Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness. If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable.
 
-(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A) of this section.
+(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
 
-(B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f) of this section.
+(B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f).
 
 #### (e) Application for property
 
-(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
+(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless.
 
-(2) No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
+(2)(A) No later than 75 days after the submission of written notice of intent to apply for a property, an applicant shall submit an initial application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
 
-(3) No later than 25 days after receipt of a completed application, the Secretary of Health and Human Services shall review, make all determinations, and complete all actions on the application. The Secretary of Health and Human Services shall maintain a written public record of all actions taken in response to an application.
+(B) An initial application shall set forth—
+
+&emsp;(i) the services that will be offered;
+
+&emsp;(ii) the need for the services; and
+
+&emsp;(iii) the experience of the applicant that demonstrates the ability to provide the services.
+
+(3) No later than 10 days after receipt of an initial application, the Secretary of Health and Human Services shall review, make all determinations, and complete all actions on the application. The Secretary of Health and Human Services shall maintain a written public record of all actions taken in response to an application.
+
+(4) If the Secretary of Health and Human Services approves an initial application, the applicant has 45 days in which to provide a final application that sets forth a reasonable plan to finance the approved program.
+
+(5) No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public record of all actions taken in response to an application.
 
 #### (f) Making property available to representatives of homeless
 
-(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this section shall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
+(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) shall be made promptly available, at the applicant's discretion, by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
 
-(2) Unutilized or underutilized property that is the subject of an agency's statement of intention under subsection (b)(1)(A)(ii) of this section shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
+(2) Unutilized or underutilized property that is the subject of an agency's statement of intention under subsection (b)(1)(A)(ii) shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
 
 (3)(A) In disposing of surplus property by deed or lease under sections 541–555 of title 40, the Administrator and the Secretary of Health and Human Services shall give priority of consideration to uses to assist the homeless, unless the Administrator or the Secretary of Health and Human Services determines that a competing request for the property under section 550 of title 40 is so meritorious and compelling as to outweigh the needs of the homeless.
 
@@ -108,7 +122,7 @@ The Secretary shall maintain a written public record of—
 
 &emsp;(1) the reasons for determinations of the Secretary under this section that property is suitable or unsuitable for use to assist the homeless; and
 
-&emsp;(2) the responses of landholding agencies under subsection (b)(1) of this section.
+&emsp;(2) the responses of landholding agencies under subsection (b)(1).
 
 #### (h) Applicability to property under base closure process
 
@@ -130,7 +144,7 @@ For purposes of this section—
 
 &emsp;(5) the term "Secretary" means the Secretary of Housing and Urban Development, except as otherwise provided.
 
-(Pub. L. 100–77, title V, §501, July 22, 1987, 101 Stat. 509; Pub. L. 100–628, title V, §501, Nov. 7, 1988, 102 Stat. 3240; Pub. L. 101–645, title IV, §401(a), Nov. 29, 1990, 104 Stat. 4719; Pub. L. 102–484, div. B, title XXVIII, §2824, Oct. 23, 1992, 106 Stat. 2608; Pub. L. 103–421, §2(d), Oct. 25, 1994, 108 Stat. 4352; Pub. L. 108–199, div. G, title II, §216(4), Jan. 23, 2004, 118 Stat. 394.)
+(Pub. L. 100–77, title V, §501, July 22, 1987, 101 Stat. 509; Pub. L. 100–628, title V, §501, Nov. 7, 1988, 102 Stat. 3240; Pub. L. 101–645, title IV, §401(a), Nov. 29, 1990, 104 Stat. 4719; Pub. L. 102–484, div. B, title XXVIII, §2824, Oct. 23, 1992, 106 Stat. 2608; Pub. L. 103–421, §2(d), Oct. 25, 1994, 108 Stat. 4352; Pub. L. 108–199, div. G, title II, §216(4), Jan. 23, 2004, 118 Stat. 394; Pub. L. 114–287, §22, Dec. 16, 2016, 130 Stat. 1478.)
 
 #### References in Text
 
@@ -142,9 +156,29 @@ Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act
 
 #### Codification
 
-In subsec. (a), "section 524(a)(2) and (3) of title 40" substituted for "section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))", in subsecs.(b)(2)(A)(ii) and (f)(1), "section 550(a)–(d) of title 40" substituted for "paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))", in subsecs. (d)(4)(A) and (f)(3)(A), "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)", in subsec. (f)(3)(A), "section 550 of title 40" substituted for "section 203(k) of such Act", meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), "section 550 of title 40" substituted for "section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))", and, in subsec. (i)(2), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat.1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), "section 524(a)(2) and (3) of title 40" substituted for "section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))", in subsecs.(b)(2)(A)(ii) and (f)(1), "section 550(a)–(d) of title 40" substituted for "paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))", in subsecs. (d)(4)(A) and (f)(3)(A), "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)", in subsec. (f)(3)(A), "section 550 of title 40" substituted for "section 203(k) of such Act", meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), "section 550 of title 40" substituted for "section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))", and, in subsec. (i)(2), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–287, §22(1), struck out subpar. (A) designation after par. (2) designation, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and added subpar. (C).
+
+Subsec. (c)(1)(A). Pub. L. 114–287, §22(2), substituted "on the Web site of the Department of Housing and Urban Development or the General Services Administration" for "in the Federal Register" in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 114–287, §22(3)(A), substituted "period of 30 days" for "period of 60 days".
+
+Subsec. (d)(2). Pub. L. 114–287, §22(3)(B), substituted "30-day period" for "60-day period".
+
+Subsec. (d)(3). Pub. L. 114–287, §22(3)(C), inserted at end "If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable."
+
+Subsec. (d)(4). Pub. L. 114–287, §22(3)(B), substituted "30-day period" for "60-day period".
+
+Subsec. (e)(2). Pub. L. 114–287, §22(4)(A), designated existing provisions as subpar. (A), substituted "75 days" for "90 days" and "an initial application" for "a complete application", and added subpar. (B).
+
+Subsec. (e)(3). Pub. L. 114–287, §22(4)(B), substituted "10 days after receipt of an initial application" for "25 days after receipt of a completed application".
+
+Subsec. (e)(4), (5). Pub. L. 114–287, §22(4)(C), added pars. (4) and (5).
+
+Subsec. (f)(1). Pub. L. 114–287, §22(5), substituted "available, at the applicant's discretion, by" for "available by".
 
 <b>2004</b>—Subsecs. (c)(2)(A), (d)(3). Pub. L. 108–199 substituted "United States Interagency Council on Homelessness" for "Interagency Council on the Homeless".
 
@@ -205,6 +239,4 @@ Report.—The Secretary of Housing and Urban Development shall submit to the Con
 #### Unutilized and Underutilized Property for Purposes of 1990 Amendment
 
 Pub. L. 101–645, title IV, §401(c), Nov. 29, 1990, 104 Stat. 4723, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: "For purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms 'unutilized' and 'underutilized' when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501."
-
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -34,7 +34,7 @@ Hunting shall be allowed within the Conservation Area in accordance with applica
 
 #### (h) Preventative measures
 
-Nothing in this subchapter shall preclude such measures as the Secretary determines necessaryto prevent devastating fire or infestation of insects or disease within the Conservation Area.
+Nothing in this subchapter shall preclude such measures as the Secretary determines necessary to prevent devastating fire or infestation of insects or disease within the Conservation Area.
 
 #### (i) No buffer zones
 

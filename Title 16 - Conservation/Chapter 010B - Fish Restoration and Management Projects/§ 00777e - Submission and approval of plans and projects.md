@@ -12,7 +12,7 @@ The Secretary of the Interior shall approve only such comprehensive plans or pro
 
 #### (b) "Project" defined
 
-If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term"project" may be defined for the purpose of this chapter as a fishery program, all other definitions notwithstanding.
+If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term "project" may be defined for the purpose of this chapter as a fishery program, all other definitions notwithstanding.
 
 #### (c) Costs
 

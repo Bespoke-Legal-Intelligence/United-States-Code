@@ -36,3 +36,81 @@ Reimbursement for License Fees.—In any case in which it is necessary for a mem
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 
+#### Establishment of High Performance Military-Civilian Integrated Health Delivery Systems
+
+Pub. L. 114–328, div. A, title VII, §706, Dec. 23, 2016, 130 Stat. 2206, provided that:
+
+"(a)
+
+In General.—Not later than January 1, 2018, the Secretary of Defense shall establish military-civilian integrated health delivery systems through partnerships with other health systems, including local or regional health systems in the private sector—
+
+&emsp;"(1) to improve access to health care for covered beneficiaries;
+
+&emsp;"(2) to enhance the experience of covered beneficiaries in receiving health care;
+
+&emsp;"(3) to improve health outcomes for covered beneficiaries;
+
+&emsp;"(4) to share resources between the Department of Defense and the private sector, including such staff, equipment, and training assets as may be required to carry out such integrated health delivery systems;
+
+&emsp;"(5) to maintain services within military treatment facilities that are essential for the maintenance of operational medical force readiness skills of health care providers of the Department; and
+
+&emsp;"(6) to provide members of the Armed Forces with additional training opportunities to maintain such readiness skills.
+
+"(b)
+
+Elements of Systems.—Each military-civilian integrated health delivery system established under subsection (a) shall—
+
+&emsp;"(1) deliver high quality health care as measured by leading national health quality measurement organizations;
+
+&emsp;"(2) achieve greater efficiency in the delivery of health care by identifying and implementing within each such system improvement opportunities that guide patients through the entire continuum of care, thereby reducing variations in the delivery of health care and preventing medical errors and duplication of medical services;
+
+&emsp;"(3) improve population-based health outcomes by using a team approach to deliver case management, prevention, and wellness services to high-need and high-cost patients;
+
+&emsp;"(4) focus on preventive care that emphasizes—
+
+&emsp;&emsp;"(A) early detection and timely treatment of disease;
+
+&emsp;&emsp;"(B) periodic health screenings; and
+
+&emsp;&emsp;"(C) education regarding healthy lifestyle behaviors;
+
+&emsp;"(5) coordinate and integrate health care across the continuum of care, connecting all aspects of the health care received by the patient, including the patient's health care team;
+
+&emsp;"(6) facilitate access to health care providers, including—
+
+&emsp;&emsp;"(A) after-hours care;
+
+&emsp;&emsp;"(B) urgent care; and
+
+&emsp;&emsp;"(C) through telehealth appointments, when appropriate;
+
+&emsp;"(7) encourage patients to participate in making health care decisions;
+
+&emsp;"(8) use evidence-based treatment protocols that improve the consistency of health care and eliminate ineffective, wasteful health care practices; and
+
+&emsp;"(9) improve coordination of behavioral health services with primary health care.
+
+"(c)
+
+Agreements.—
+
+&emsp;"(1)
+
+In general.—In establishing military-civilian integrated health delivery systems through partnerships under subsection (a), the Secretary shall seek to enter into memoranda of understanding or contracts between military treatment facilities and health maintenance organizations, health care centers of excellence, public or private academic medical institutions, regional health organizations, integrated health systems, accountable care organizations, and such other health systems as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Private sector care.—Memoranda of understanding and contracts entered into under paragraph (1) shall ensure that covered beneficiaries are eligible to enroll in and receive medical services under the private sector components of military-civilian integrated health delivery systems established under subsection (a).
+
+&emsp;"(3)
+
+Value-based reimbursement methodologies.—The Secretary shall incorporate value-based reimbursement methodologies, such as capitated payments, bundled payments, or pay for performance, into memoranda of understanding and contracts entered into under paragraph (1) to reimburse entities for medical services provided to covered beneficiaries under such memoranda of understanding and contracts.
+
+&emsp;"(4)
+
+Quality of care.—Each memorandum of understanding or contract entered into under paragraph (1) shall ensure that the quality of services received by covered beneficiaries through a military-civilian integrated health delivery system under such memorandum of understanding or contract is at least comparable to the quality of services received by covered beneficiaries from a military treatment facility.
+
+"(d)
+
+Covered Beneficiary Defined.—In this section, the term 'covered beneficiary' has the meaning given that term in section 1072 of title 10, United States Code."
+

@@ -6,7 +6,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;(1) to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title, including making available screening procedures for both breast and cervical cancers;
 
-&emsp;(2) subject to subsection (b) of this section, to ensure that—
+&emsp;(2) subject to subsection (b), to ensure that—
 
 &emsp;&emsp;(A) in the case of breast cancer, both a physical examination of the breasts and the screening procedure known as a mammography are conducted; and
 
@@ -18,7 +18,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (b) Use of improved screening procedures
 
-The Secretary may not make a grant under section 300k of this title unless the State involved agrees that, if any screening procedure superior to a procedure described in subsection (a)(2) of this section becomes commonly available and is recommended for use, any entity providing screening procedures pursuant to the grant will utilize the superior procedure rather than the procedure described in such subsection.
+The Secretary may not make a grant under section 300k of this title unless the State involved agrees that, if any screening procedure superior to a procedure described in subsection (a)(2) becomes commonly available and is recommended for use, any entity providing screening procedures pursuant to the grant will utilize the superior procedure rather than the procedure described in such subsection.
 
 #### (c) Quality assurance regarding screening procedures
 
@@ -38,7 +38,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;(i) demonstrates, to the satisfaction of the Secretary, the manner in which the State will use such waiver to expand the level of screening and follow-up services provided immediately prior to the date on which the waiver is granted; and
 
-&emsp;&emsp;&emsp;(ii) provides assurances, satisfactory to the Secretary, that the State will, on anannual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
+&emsp;&emsp;&emsp;(ii) provides assurances, satisfactory to the Secretary, that the State will, on an annual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
 
 &emsp;&emsp;(D) the State involved submits to the Secretary—
 
@@ -126,7 +126,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;The Secretary may not grant a waiver or extension under this subsection after September 30, 2012.
 
-(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410; amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227; Pub. L. 110–18, §2(2), Apr. 20, 2007, 121 Stat. 80.)
+(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410;amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227; Pub. L. 110–18, §2(2), Apr. 20, 2007, 121 Stat. 80.)
 
 #### Prior Provisions
 

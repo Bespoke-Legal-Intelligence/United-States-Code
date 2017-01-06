@@ -18,7 +18,7 @@ Pub. L. 103–82, title I, §123, Sept. 21, 1993, 107 Stat. 867, provided that: 
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–154, §1, Dec. 30, 2005, 119 Stat. 2890, provided that: "This Act \[enacting section 1730 of this title and amending sections 1722 to 1726 and 1729 of this title\] may be cited as the 'Public Lands Corps Healthy Forests Restoration Act of 2005'."
+Pub. L. 109–154, §1, Dec. 30, 2005, 119 Stat. 2890, provided that: "This Act \[enacting section 1730 of this titleand amending sections 1722 to 1726 and 1729 of this title\] may be cited as the 'Public Lands Corps Healthy Forests Restoration Act of 2005'."
 
 #### Short Title
 

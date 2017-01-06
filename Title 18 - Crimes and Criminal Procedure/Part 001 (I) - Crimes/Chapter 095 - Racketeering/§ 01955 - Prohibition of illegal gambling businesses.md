@@ -36,7 +36,7 @@
 
 #### References in Text
 
-Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec.\(e)(1), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
+Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
 #### Amendments
 

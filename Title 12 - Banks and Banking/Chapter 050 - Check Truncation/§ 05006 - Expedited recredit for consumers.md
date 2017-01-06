@@ -20,7 +20,7 @@
 
 #### (2) 40-day period
 
-&emsp;Any claim under paragraph (1) with respect to a consumer account may be submitted by aconsumer before the end of the 40-day period beginning on the later of—
+&emsp;Any claim under paragraph (1) with respect to a consumer account may be submitted by a consumer before the end of the 40-day period beginning on the later of—
 
 &emsp;&emsp;(A) the date on which the financial institution mails or delivers, by a means agreed to by the consumer, the periodic statement of account for such account which contains information concerning the transaction giving rise to the claim; or
 
@@ -152,7 +152,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (3) Notice of reversal of recredit
 
-&emsp;In addition to the notice required under paragraph (1), if a bank reverses a recredited amount under subsection (e), the bank shall send to the consumer, no later than the business day following the business day on which the bank reverses the recredit, a notice of—
+&emsp;In addition to the notice required under paragraph (1), if a bank reverses a recreditedamount under subsection (e), the bank shall send to the consumer, no later than the business day following the business day on which the bank reverses the recredit, a notice of—
 
 &emsp;&emsp;(A) the amount of the reversal; and
 
@@ -175,4 +175,8 @@ A consumer who was provided a substitute check may make a claim for an expedited
 This section shall only apply to customers who are consumers.
 
 (Pub. L. 108–100, §7, Oct. 28, 2003, 117 Stat. 1182.)
+
+#### Effective Date
+
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 

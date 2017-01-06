@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1015(d)(1), substituted "Federal short-term
 
 Subsec. (b). Pub. L. 99–514, §1511(a), added subsec. (b) relating to determination of Federal short-term rate and struck out former subsec. (b) which related to interest rate adjustments and establishment of adjusted rates.
 
-Subsec. (c). Pub. L. 99–514, §1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out "annual" before "rate of interest" and substituted "the underpayment rate established under this section" for "the adjusted rate established under subsection (b)", and struck out former subsec. (c) definition of prime rate, which read as follows: "For purposes of subsection (b), the term 'adjusted prime rate charged by banks' means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System."
+Subsec. (c). Pub. L. 99–514, §1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out "annual"before "rate of interest" and substituted "the underpayment rate established under this section" for "the adjusted rate established under subsection (b)", and struck out former subsec. (c) definition of prime rate, which read as follows: "For purposes of subsection (b), the term 'adjusted prime rate charged by banks' means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System."
 
 Subsec. (c)(3)(A)(v). Pub. L. 99–514, §1535(a), added cl. (v).
 
@@ -192,7 +192,7 @@ Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provid
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title III, §345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII,§714(m), July 18, 1984, 98 Stat. 963, provided that: "The amendment made by this section \[amending this section\] shall apply to adjustments taking effect on or after January 1, 1983."
+Pub. L. 97–248, title III, §345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII, §714(m), July 18, 1984, 98 Stat. 963, provided that: "The amendment made by this section \[amending this section\] shall apply to adjustments taking effect on or after January 1, 1983."
 
 #### Effective Date of 1981 Amendment
 

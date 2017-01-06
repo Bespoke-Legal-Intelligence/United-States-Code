@@ -12,7 +12,7 @@
 
 #### (3) Treatment of amounts collected
 
-&emsp;Any amounts collected as a result of any assessments under this subsection shall, to the extent thereof, be treated as a payment of tax for such taxable year.
+&emsp;Any amounts collected as a result of any assessments under this subsection shall, to theextent thereof, be treated as a payment of tax for such taxable year.
 
 #### (4) This section inapplicable where section 6861 applies
 

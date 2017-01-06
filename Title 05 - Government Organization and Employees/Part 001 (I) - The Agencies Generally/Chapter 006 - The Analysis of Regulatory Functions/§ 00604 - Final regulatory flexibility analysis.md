@@ -1,6 +1,6 @@
 ### §604. Final regulatory flexibility analysis
 
-(a) When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, or promulgates a final interpretative rule involving the internal revenue laws of the UnitedStates as described in section 603(a), the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
+(a) When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, or promulgates a final interpretative rule involving the internal revenue laws of the United States as described in section 603(a), the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
 
 &emsp;(1) a statement of the need for, and objectives of, the rule;
 
@@ -55,6 +55,10 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or after Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

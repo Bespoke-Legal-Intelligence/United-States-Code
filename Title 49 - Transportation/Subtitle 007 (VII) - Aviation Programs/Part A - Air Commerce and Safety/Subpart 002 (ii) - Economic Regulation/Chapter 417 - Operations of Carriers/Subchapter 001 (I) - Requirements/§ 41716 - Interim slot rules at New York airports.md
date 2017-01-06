@@ -8,7 +8,7 @@ Exemptions for Air Service to Small and Nonhub Airports.—Subject to section 41
 
 &emsp;(2) if the number of flights to be provided between such airports by the air carrier during any week will exceed the number of flights provided by the air carrier between such airports during the week of November 1, 1999; or
 
-&emsp;(3) if the air transportation to be provided under the exemption will be provided with a regional jet as replacement of turboprop airtransportation that was being provided during the week of November 1, 1999.
+&emsp;(3) if the air transportation to be provided under the exemption will be provided with a regional jet as replacement of turboprop air transportation that was being provided during the week of November 1, 1999.
 
 (b)
 
@@ -40,7 +40,7 @@ A prior section 41716 was renumbered section 41720 of this title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–447 inserted before period at end "; except that the Secretary may grant not to exceed 4 additional slot exemptions at LaGuardia Airport to an incumbent air carrier operating at least 20 but not more than 28 slots at such airport as of October 1, 2004, to provide air transportation between LaGuardia Airport and a small hub airport or nonhub airport".
+<b>2004</b>—Subsec. (b). Pub. L. 108–447 inserted before period at end "; except that the Secretary may grant not to exceed 4 additional slot exemptions at LaGuardiaAirport to an incumbent air carrier operating at least 20 but not more than 28 slots at such airport as of October 1, 2004, to provide air transportation between LaGuardia Airport and a small hub airport or nonhub airport".
 
 #### Effective Date
 

@@ -70,7 +70,7 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;(A) to a public agency for use in carrying out or promoting, for residents of a given political area, a public purpose, including conservation, economic development, education, parks and recreation, public health, and public safety;
 
-&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofit educational or public health institution or organization that is exempt from taxationunder section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
+&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofit educational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
 
 &emsp;&emsp;&emsp;(i) a medical institution, hospital, clinic, health center, or drug abuse treatment center;
 
@@ -84,7 +84,7 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;&emsp;(vi) a radio or television station licensed by the Federal Communications Commission as an educational radio or educational television station;
 
-&emsp;&emsp;&emsp;(vii) a museum attended by the public;
+&emsp;&emsp;&emsp;(vii) a museum attended by the public, and, for purposes of determining whether a museum is attended by the public, the Administrator shall consider a museum to be public if the nonprofit educational or public health institution or organization, at minimum, accedes to any request submitted for access during business hours;
 
 &emsp;&emsp;&emsp;(viii) a library serving free all residents of a community, district, State, or region; or
 
@@ -162,7 +162,7 @@ Management control and accounting systems.—The state plan of operation shall r
 
 &emsp;&emsp;(D)
 
-Return and redistribution for non-use.—The state plan of operation shall require the state agency to provide for the return and redistribution of donable property if the property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for thatpurpose within one year of being placed in use.
+Return and redistribution for non-use.—The state plan of operation shall require the state agency to provide for the return and redistribution of donable property if the property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for that purpose within one year of being placed in use.
 
 &emsp;&emsp;(E)
 
@@ -182,7 +182,7 @@ In general.—The state plan of operation shall provide that the state agency—
 
 &emsp;&emsp;&emsp;&emsp;(I) may impose reasonable terms, conditions, reservations, and restrictions on the use of property to be donated under subsection (c); and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall impose reasonable terms, conditions, reservations, and restrictions on the use of a passenger motor vehicle and any item of property having a unit acquisition cost of $5,000 or more.
+&emsp;&emsp;&emsp;&emsp;(II) shall impose reasonable terms, conditions, reservations, and restrictionson the use of a passenger motor vehicle and any item of property having a unit acquisition cost of $5,000 or more.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -250,7 +250,7 @@ Conditions.—Retention of surplus property under this paragraph is subject to c
 
 &emsp;&emsp;&emsp;(iii) the Secretary of Health and Human Services, for property transferred under section 550(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, §2, Dec. 22, 2010, 124 Stat. 3590; Pub. L. 113–26, §2, Aug. 9, 2013, 127 Stat. 502; Pub. L. 113–287, §5(j)(1), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, §5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, §2, Dec. 22, 2010, 124 Stat. 3590; Pub. L. 113–26, §2, Aug. 9, 2013, 127 Stat. 502; Pub. L. 113–287, §5(j)(1), Dec. 19, 2014, 128 Stat. 3269; Pub. L. 114–287, §23, Dec. 16, 2016, 130 Stat. 1479.)
 
 Historical and Revision Notes
 
@@ -294,11 +294,13 @@ In subsection (a)(2), the words "the Northern Mariana Islands" are added because
 
 In subsection (d), the words "Secretary of Defense" are substituted for "National Military Establishment" \[subsequently changed to "Department of Defense" because of section 12(a) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591)\] because of 10:113(a).
 
-In subsection (e)(2)(B), the words "In the event that a State legislature has not developed, according to State law, a State plan within two hundred and seventy calendar days after October 17, 1976, the chief executive officer of the State shall approve, and submit to the Administrator, a temporary State plan" are omitted as obsolete.
+In subsection (e)(2)(B), the words "In the event that a State legislature has not developed, according to State law, a State plan within two hundred and seventy calendar days after October 17, 1976, the chief executive officer of the State shall approve, and submit to theAdministrator, a temporary State plan" are omitted as obsolete.
 
 In subsection (f)(1)(B)–(D) and (4)(B), the words "Secretary of Education" and "Secretary of Health and Human Services" are substituted for "Secretary of Health, Education, and Welfare" because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3)(B)(vii). Pub. L. 114–287 amended cl. (vii) generally. Prior to amendment, cl. (vii) read as follows: "a museum attended by the public;".
 
 <b>2014</b>—Subsec. (c)(3)(B)(ix). Pub. L. 113–287 substituted "section 305101(4) of title 54" for "section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2))" and "section 305103 of title 54" for "subsection (b) of that section".
 

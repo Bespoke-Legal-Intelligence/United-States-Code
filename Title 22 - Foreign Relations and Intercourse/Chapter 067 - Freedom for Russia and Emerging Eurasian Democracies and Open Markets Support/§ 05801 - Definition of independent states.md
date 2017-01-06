@@ -88,5 +88,5 @@ Findings and Affirmation.—The Congress finds and affirms that provisions such 
 
 #### Definitions for Pub. L. 103–199
 
-Pub. L. 103–199, §3, Dec. 17, 1993, 107 Stat. 2318, provided that: "As used in this Act \[see Short Title of 1993Amendment note above\] (including the amendments made by this Act), the terms 'independent states of the former Soviet Union' and 'independent states' have the meaning given those terms by section 3 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5801)."
+Pub. L. 103–199, §3, Dec. 17, 1993, 107 Stat. 2318, provided that: "As used in this Act \[see Short Title of 1993 Amendment note above\] (including the amendments made by this Act), the terms 'independent states of the former Soviet Union' and 'independent states' have the meaning given those terms by section 3 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5801)."
 

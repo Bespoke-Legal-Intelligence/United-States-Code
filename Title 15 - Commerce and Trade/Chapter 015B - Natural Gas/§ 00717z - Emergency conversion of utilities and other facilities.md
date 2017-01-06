@@ -52,7 +52,7 @@ The President shall exempt any electric powerplant or major fuel-burning install
 
 For purposes of this section—
 
-&emsp;(1) The terms "electric powerplant", "powerplant", "major fuel-burning installation", and "installation" shall have the same meanings as such terms have under section 8302 of title 42.
+&emsp;(1) The terms "electric powerplant", "powerplant", "major fuel-burning installation", and "installation" shall have the same meaningsas such terms have under section 8302 of title 42.
 
 &emsp;(2) The term "petroleum products" means crude oil, or any product derived from crude oil other than propane.
 

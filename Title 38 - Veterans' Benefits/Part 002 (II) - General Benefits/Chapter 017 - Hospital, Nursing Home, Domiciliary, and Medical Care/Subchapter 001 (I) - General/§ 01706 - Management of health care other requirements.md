@@ -6,7 +6,7 @@
 
 (2) For purposes of paragraph (1), the capacity of the Department (and each geographic service area of the Veterans Health Administration) to provide for the specialized treatment and rehabilitative needs of disabled veterans (including veterans with spinal cord dysfunction, traumatic brain injury, blindness, prosthetics and sensory aids, and mental illness) within distinct programs or facilities shall be measured for seriously mentally ill veterans as follows (with all such data to be provided by geographic service area and totaled nationally):
 
-&emsp;(A) For mental health intensive community-based care, the number of discrete intensivecare teams constituted to provide such intensive services to seriously mentally ill veterans and the number of veterans provided such care.
+&emsp;(A) For mental health intensive community-based care, the number of discrete intensive care teams constituted to provide such intensive services to seriously mentally ill veterans and the number of veterans provided such care.
 
 &emsp;(B) For opioid substitution programs, the number of patients treated annually and the amounts expended.
 
@@ -40,7 +40,7 @@
 
 (4) In carrying out paragraph (1), the Secretary may not use patient outcome data as a substitute for, or the equivalent of, compliance with the requirement under that paragraph for maintenance of capacity.
 
-(5)(A) Not later than April 1 of each year through 2008, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Secretary's compliance, by facility and by service-network, with the requirements of this subsection. Each such report shall include information on recidivism rates associated with substance-use disorder treatment.
+(5)(A) Not later than April 1 of each year, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the Secretary's compliance, by facility and by service-network, with the requirements of this subsection. Each such report shall include information on recidivism rates associated with substance-use disorder treatment.
 
 (B) In preparing each report under subparagraph (A), the Secretary shall use standardized data and data definitions.
 
@@ -54,9 +54,11 @@
 
 (c) The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, §208(a), Dec. 22, 2006, 120 Stat. 3413.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, §208(a), Dec. 22, 2006, 120 Stat. 3413; Pub. L. 114–223, div. A, title II, §253, Sept. 29, 2016, 130 Stat. 894.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(5)(A). Pub. L. 114–223 struck out "through 2008" after "each year".
 
 <b>2006</b>—Subsec. (b)(5)(A). Pub. L. 109–461 substituted "2008" for "2004".
 

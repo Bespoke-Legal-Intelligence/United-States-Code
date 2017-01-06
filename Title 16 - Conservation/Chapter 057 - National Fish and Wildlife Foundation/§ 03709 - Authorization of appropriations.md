@@ -20,7 +20,7 @@
 
 #### (4) Prohibition on use for administrative expenses
 
-&emsp;No Federal funds made available under paragraph (1) shall be used by the Foundation foradministrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+&emsp;No Federal funds made available under paragraph (1) shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
 
 #### (b) Additional authorization
 

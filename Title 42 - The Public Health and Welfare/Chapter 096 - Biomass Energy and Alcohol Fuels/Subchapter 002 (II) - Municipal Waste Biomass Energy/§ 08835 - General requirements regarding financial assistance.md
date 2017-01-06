@@ -44,7 +44,7 @@ Financial assistance may not be provided under section 8832, 8833, or 8834 of th
 
 &emsp;(B) has been approved by the Secretary in accordance with such procedures.
 
-(2) Each such application shall include information regarding the construction costs of the municipal waste energy project involved (if appropriate), and estimates of operating costs and income relating to that project (including the sale of any byproducts from that project). In addition, each applicant shall provide—
+(2) Each such application shall include information regarding the construction costs of themunicipal waste energy project involved (if appropriate), and estimates of operating costs and income relating to that project (including the sale of any byproducts from that project). In addition, each applicant shall provide—
 
 &emsp;(A) access at reasonable times to such other information, and
 
@@ -66,7 +66,7 @@ Financial assistance may not be provided under section 8832, 8833, or 8834 of th
 
 #### (e) Deposit of amounts received
 
-All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under section 8832, 8833, or 8834 of this title shall be deposited in the generalfund of <sup>1</sup> Treasury of the United States as miscellaneous receipts.
+All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under section 8832, 8833, or 8834 of this title shall be deposited in the general fund of <sup>1</sup> Treasury of the United States as miscellaneous receipts.
 
 #### (f) Contracts and instruments backed by full faith and credit of United States
 

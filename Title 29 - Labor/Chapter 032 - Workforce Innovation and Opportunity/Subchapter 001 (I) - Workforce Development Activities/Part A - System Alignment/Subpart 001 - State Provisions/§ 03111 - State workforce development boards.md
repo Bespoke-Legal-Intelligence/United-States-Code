@@ -18,7 +18,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;(i) a majority shall be representatives of businesses in the State, who—
 
-&emsp;&emsp;&emsp;&emsp;(I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymaking or hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymakingor hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) represent businesses (including small businesses), or organizations representing businesses described in this subclause, that provide employment opportunities that, at a minimum, include high-quality, work-relevant training and development in in-demand industry sectors or occupations in the State; and
 
@@ -122,7 +122,7 @@ The State board shall assist the Governor in—
 
 &emsp;(8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design and implementation, to improve coordination of services across one-stop partner programs);
 
-&emsp;(9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youthworkforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
+&emsp;(9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youth workforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
 
 &emsp;(10) the preparation of the annual reports described in paragraphs (1) and (2) of section 3141(d) of this title;
 

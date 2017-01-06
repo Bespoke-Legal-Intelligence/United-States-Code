@@ -1,6 +1,6 @@
 ### §2421. Plantations and farms: operation, maintenance, and improvement
 
-(a) Appropriations for the subsistence of members of the Army, Navy, Air Force, or Marine Corps are available for expenditures necessaryin the operation, maintenance, and improvement of any plantation or farm, outside the United States and under the jurisdiction of the Army, Navy, Air Force, or Marine Corps, as the case may be, for furnishing fresh fruits and vegetables to the armed forces. However, no land may be acquired under this subsection.
+(a) Appropriations for the subsistence of members of the Army, Navy, Air Force, or Marine Corps are available for expenditures necessary in the operation, maintenance, and improvement of any plantation or farm, outside the United States and under the jurisdiction of the Army, Navy, Air Force, or Marine Corps, as the case may be, for furnishing fresh fruits and vegetables to the armed forces. However, no land may be acquired under this subsection.
 
 (b) Fruits and vegetables produced under subsection (a) that are over the amount furnished or sold to the armed forces or to civilians serving with the armed forces may be sold only outside the United States.
 
@@ -8,7 +8,11 @@
 
 (d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 138.)
+(e)
+
+Sunset.—The authority under this section shall terminate on September 30, 2018.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 114–328, div. A, title VIII, §833(a)(1), Dec. 23, 2016, 130 Stat. 2283.)
 
 Historical and Revision Notes
 
@@ -63,4 +67,8 @@ In subsection (b), the words "of the United States" are omitted as surplusage. T
 In subsection (c), the words "nationals of the United States" are substituted for the words "American nationals". The words "civil-service laws and other \* \* \* of the United States" and "rights \* \* \* or obligations" are omitted as surplusage.
 
 In subsection (d), the words "after the termination of the present war" are omitted as executed. The word "by" is substituted for the words "through the instrumentality of". The words "partnership, association" are omitted as covered by the definition of "person" in section 1 of title 1. The words "United States" are substituted for the word "Government". The words "management", "for that purpose", and "or agreement" are omitted as surplusage.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–328 added subsec. (e).
 

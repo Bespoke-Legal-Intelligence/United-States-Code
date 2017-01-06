@@ -18,15 +18,15 @@
 
 #### (D) Allotment formula
 
-&emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to this section (other than the District of Columbia) in accordance with—
+&emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to thissection (other than the District of Columbia) in accordance with—
 
 &emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimum proportionate share for the State of Wyoming and the District of Columbia; and
 
-&emsp;&emsp;&emsp;(ii) for fiscal year 1998 and each subsequent fiscal year, a formula that allocates to each State the proportional share of the State needs identified in the most recent survey conducted pursuant to subsection (h) of this section, except that the minimum proportionate share provided to each State shall be the same as the minimum proportionate share provided under clause (i).
+&emsp;&emsp;&emsp;(ii) for fiscal year 1998 and each subsequent fiscal year, a formula that allocates to each State the proportional share of the State needs identified in the most recent survey conducted pursuant to subsection (h), except that the minimum proportionate share provided to each State shall be the same as the minimum proportionate share provided under clause (i).
 
 #### (E) Reallotment
 
-&emsp;&emsp;The grants not obligated by the last day of the period for which the grants are available shall be reallotted according to the appropriate criteria set forth in subparagraph (D), except that the Administrator may reserve and allocate 10 percent of the remaining amount for financial assistance to Indian Tribes in addition to the amount allotted under subsection (i) of this section and none of the funds reallotted by the Administrator shall be reallotted to any State that has not obligated all sums allotted to the State pursuant to this section during the period in which the sums were available for obligation.
+&emsp;&emsp;The grants not obligated by the last day of the period for which the grants are available shall be reallotted according to the appropriate criteria set forth in subparagraph (D), except that the Administrator may reserve and allocate 10 percent of the remaining amount for financial assistance to Indian Tribes in addition to the amount allotted under subsection (i) and none of the funds reallotted by the Administrator shall be reallotted to any State that has not obligated all sums allotted to the State pursuant to this section during the period in which the sums were available for obligation.
 
 #### (F) Nonprimacy States
 
@@ -44,7 +44,29 @@
 
 #### (2) Use of funds
 
-&emsp;Except as otherwise authorized by this subchapter, amounts deposited in a State loan fund, including loan repayments and interest earned on such amounts, shall be used only for providing loans or loan guarantees, or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in a State loan fund established under paragraph (1), or other financial assistance authorized under this section to community water systems and nonprofit noncommunity water systems, other than systems owned by Federal agencies. Financial assistance under this section may be used by a public water system only for expenditures (not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter. The funds may also be used to provide loans to a system referred to in section 300f(4)(B) of this title for the purpose of providing the treatment described in section 300f(4)(B)(i)(III) of this title. The funds shall not be used for the acquisition of real property or interests therein, unless the acquisition is integral to a project authorized by this paragraph and the purchase is from a willing seller. Of the amount creditedto any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
+#### (A) In general
+
+&emsp;&emsp;Except as otherwise authorized by this subchapter, amounts deposited in a State loan fund, including loan repayments and interest earned on such amounts, shall be used only for providing loans or loan guarantees, or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in a State loan fund established under paragraph (1), or other financial assistance authorized under this section to community water systems and nonprofit noncommunity water systems, other than systems owned by Federal agencies.
+
+#### (B) Limitation
+
+&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
+
+#### (C) Sale of bonds
+
+&emsp;&emsp;Funds may also be used by a public water system as a source of revenue (restricted solely to interest earnings of the applicable State loan fund) or security for payment of the principal and interest on revenue or general obligation bonds issued by the State to provide matching funds under subsection (e), if the proceeds of the sale of the bonds will be deposited in the State loan fund.
+
+#### (D) Water treatment loans
+
+&emsp;&emsp;The funds under this section may also be used to provide loans to a system referred to in section 300f(4)(B) of this title for the purpose of providing the treatment described in section 300f(4)(B)(i)(III) of this title.
+
+#### (E) Acquisition of real property
+
+&emsp;&emsp;The funds under this section shall not be used for the acquisition of real property or interests therein, unless the acquisition is integral to a project authorized by this paragraph and the purchase is from a willing seller.
+
+#### (F) Loan assistance
+
+&emsp;&emsp;Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
 
 #### (3) Limitation
 
@@ -67,6 +89,62 @@
 #### (C) Review
 
 &emsp;&emsp;Prior to providing assistance under this section to a public water system that is in significant noncompliance with any requirement of a national primary drinking water regulation or variance, the State shall conduct a review to determine whether subparagraph (A)(i) applies to the system.
+
+#### (4) American iron and steel products
+
+#### (A) In general
+
+&emsp;&emsp;During fiscal year 2017, funds made available from a State loan fund established pursuant to this section may not be used for a project for the construction, alteration, or repair of a public water system unless all of the iron and steel products used in the project are produced in the United States.
+
+#### (B) Definition of iron and steel products
+
+&emsp;&emsp;In this paragraph, the term "iron and steel products" means the following products made primarily of iron or steel:
+
+&emsp;&emsp;&emsp;(i) Lined or unlined pipes and fittings.
+
+&emsp;&emsp;&emsp;(ii) Manhole covers and other municipal castings.
+
+&emsp;&emsp;&emsp;(iii) Hydrants.
+
+&emsp;&emsp;&emsp;(iv) Tanks.
+
+&emsp;&emsp;&emsp;(v) Flanges.
+
+&emsp;&emsp;&emsp;(vi) Pipe clamps and restraints.
+
+&emsp;&emsp;&emsp;(vii) Valves.
+
+&emsp;&emsp;&emsp;(viii) Structural steel.
+
+&emsp;&emsp;&emsp;(ix) Reinforced precast concrete.
+
+&emsp;&emsp;&emsp;(x) Construction materials.
+
+#### (C) Application
+
+&emsp;&emsp;Subparagraph (A) shall be waived in any case or category of cases in which the Administrator finds that—
+
+&emsp;&emsp;&emsp;(i) applying subparagraph (A) would be inconsistent with the public interest;
+
+&emsp;&emsp;&emsp;(ii) iron and steel products are not produced in the United States in sufficient and reasonably available quantities and of a satisfactory quality; or
+
+&emsp;&emsp;&emsp;(iii) inclusion of iron and steel products produced in the United States will increase the cost of the overall project by more than 25 percent.
+
+#### (D) Waiver
+
+&emsp;&emsp;If the Administrator receives a request for a waiver under this paragraph, the Administrator shall make available to the public, on an informal basis, a copy of the request and information available to the Administrator concerning the request, and shall allow for informal public input on the request for at least 15 days prior to making a finding based on the request. The Administrator shall make the request and accompanying information available by electronic means, including on the official public Internet site of the Agency.
+
+#### (E) International agreements
+
+&emsp;&emsp;This paragraph shall be applied in a manner consistent with United States obligations under international agreements.
+
+#### (F) Management and oversight
+
+&emsp;&emsp;The Administrator may retain up to 0.25 percent of the funds appropriated for this section for management and oversight of the requirements of this paragraph.
+
+#### (G) Effective date
+
+&emsp;&emsp;This paragraph does not apply with respect to a project if a State agency approves theengineering plans and specifications for the project, in that agency's capacity to approve such plans and specifications prior to a project requesting bids, prior to December 16, 2016.
 
 #### (b) Intended use plans
 
@@ -108,7 +186,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (1) Loan subsidy
 
-&emsp;Notwithstanding any other provision of this section, in any case in which the State makes a loan pursuant to subsection (a)(2) of this section to a disadvantaged community or to a community that the State expects to become a disadvantaged community as the result of a proposed project, the State may provide additional subsidization (including forgiveness of principal).
+&emsp;Notwithstanding any other provision of this section, in any case in which the State makes a loan pursuant to subsection (a)(2) to a disadvantaged community or to a community that the State expects to become a disadvantaged community as the result of a proposed project, the State may provide additional subsidization (including forgiveness of principal).
 
 #### (2) Total amount of subsidies
 
@@ -120,7 +198,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (e) State contribution
 
-Each agreement under subsection (a) of this section shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into thefund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
+Each agreement under subsection (a) shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
 
 #### (f) Types of assistance
 
@@ -130,7 +208,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;&emsp;(A) the interest rate for each loan is less than or equal to the market interest rate, including an interest free loan;
 
-&emsp;&emsp;(B) principal and interest payments on each loan will commence not later than 1 year after completion of the project for which the loan was made, and each loan will be fully amortized not later than 20 years after the completion of the project, except that in the case of a disadvantaged community (as defined in subsection (d)(3) of this section), a State may provide an extended term for a loan, if the extended term—
+&emsp;&emsp;(B) principal and interest payments on each loan will commence not later than 1 year after completion of the project for which the loan was made, and each loan will be fully amortized not later than 20 years after the completion of the project, except that in the case of a disadvantaged community (as defined in subsection (d)(3)), a State may provide an extended term for a loan, if the extended term—
 
 &emsp;&emsp;&emsp;(i) terminates not later than the date that is 30 years after the date of project completion; and
 
@@ -142,7 +220,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;(2) to buy or refinance the debt obligation of a municipality or an intermunicipal or interstate agency within the State at an interest rate that is less than or equal to the market interest rate in any case in which a debt obligation is incurred after July 1, 1993;
 
-&emsp;(3) to guarantee, or purchase insurance for, a local obligation (all of the proceeds of which finance a project eligible for assistance under this section) if the guarantee or purchase would improve credit market access or reduce the interest rate applicable to the obligation;
+&emsp;(3) to guarantee, or purchase insurance for, a local obligation (all of the proceeds of which finance a project eligible for assistance underthis section) if the guarantee or purchase would improve credit market access or reduce the interest rate applicable to the obligation;
 
 &emsp;(4) as a source of revenue or security for the payment of principal and interest on revenue or general obligation bonds issued by the State if the proceeds of the sale of the bonds will be deposited into the State loan fund; and
 
@@ -152,25 +230,57 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 #### (1) Combined financial administration
 
-&emsp;Notwithstanding subsection (c) of this section, a State may (as a convenience and to avoid unnecessary administrative costs) combine, in accordance with State law, the financial administration of a State loan fund established under this section with the financial administration of any other revolving fund established by the State if otherwise not prohibited by the law under which the State loan fund was established and if the Administrator determines that—
+&emsp;Notwithstanding subsection (c), a State may (as a convenience and to avoid unnecessary administrative costs) combine, in accordance with State law, the financial administration of a State loan fund established under this section with the financial administration of any other revolving fund established by the State if otherwise not prohibited by the law under which the State loan fund was established and if the Administrator determines that—
 
-&emsp;&emsp;(A) the grants under this section, together with loan repayments and interest, will be separately accounted for and used solely for the purposes specified in subsection (a) of this section; and
+&emsp;&emsp;(A) the grants under this section, together with loan repayments and interest, will be separately accounted for and used solely for the purposes specified in subsection (a); and
 
 &emsp;&emsp;(B) the authority to establish assistance priorities and carry out oversight and related activities (other than financial administration) with respect to assistance remains with the State agency having primary responsibility for administration of the State program under section 300g–2 of this title, after consultation with other appropriate State agencies (as determined by the State): <i>Provided</i>, That in nonprimacy States eligible to receive assistance under this section, the Governor shall determine which State agency will have authority to establish priorities for financial assistance from the State loan fund.
 
 #### (2) Cost of administering fund
 
-&emsp;Each State may annually use up to 4 percent of the funds allotted to the State under this section to cover the reasonable costs of administration of the programs under this section, including the recovery of reasonable costs expended to establish a State loan fund which are incurred after August 6, 1996, and to provide technical assistance to public water systems within the State. For fiscal year 1995 and each fiscal year thereafter, each State may use up to an additional 10 percent of the funds allotted to the State under this section—
+#### (A) Authorization
 
-&emsp;&emsp;(A) for public water system supervision programs under section 300j–2(a) of this title;
+#### (i) In general
 
-&emsp;&emsp;(B) to administer or provide technical assistance through source water protection programs;
+&emsp;&emsp;&emsp;For each fiscal year, a State may use the amount described in clause (ii)—
 
-&emsp;&emsp;(C) to develop and implement a capacity development strategy under section 300g–9(c) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) to cover the reasonable costs of administration of the programs under this section, including the recovery of reasonable costs expended to establish a State loan fund that are incurred after August 6, 1996; and
 
-&emsp;&emsp;(D) for an operator certification program for purposes of meeting the requirements of section 300g–8 of this title,
+&emsp;&emsp;&emsp;&emsp;(II) to provide technical assistance to public water systems within the State.
 
-> &emsp;if the State matches the expenditures with at least an equal amount of State funds. At least half of the match must be additional to the amount expended by the State for public water supervision in fiscal year 1993. An additional 2 percent of the funds annually allotted to each State under this section may be used by the State to provide technical assistance to public water systems serving 10,000 or fewer persons in the State. Funds utilized under subparagraph (B) shall not be used for enforcement actions.
+#### (ii) Description of amount
+
+&emsp;&emsp;&emsp;The amount referred to in clause (i) is an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of any fees collected by the State for use in accordance with clause (i)(I), regardless of the source; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the greatest of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $400,000;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 1/5 percent of the current valuation of the fund; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) an amount equal to 4 percent of all grant awards to the fund under this section for the fiscal year.
+
+#### (B) Additional use of funds
+
+&emsp;&emsp;For fiscal year 1995 and each fiscal year thereafter, each State may use up to an additional 10 percent of the funds allotted to the State under this section—
+
+&emsp;&emsp;&emsp;(i) for public water system supervision programs under section 300j–2(a) of this title;
+
+&emsp;&emsp;&emsp;(ii) to administer or provide technical assistance through source water protection programs;
+
+&emsp;&emsp;&emsp;(iii) to develop and implement a capacity development strategy under section 300g–9(c) of this title; and
+
+&emsp;&emsp;&emsp;(iv) for an operator certification program for purposes of meeting the requirements of section 300g–8 of this title.
+
+#### (C) Technical assistance
+
+&emsp;&emsp;An additional 2 percent of the funds annually allotted to each State under this section may be used by the State to provide technical assistance to public water systems serving 10,000 or fewer persons in the State.
+
+#### (D) Enforcement actions
+
+&emsp;&emsp;Funds used under subparagraph (B)(ii) shall not be used for enforcement actions.
 
 #### (3) Guidance and regulations
 
@@ -180,7 +290,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;&emsp;(B) guidance to prevent waste, fraud, and abuse; and
 
-&emsp;&emsp;(C) guidance to avoid the use of funds made available under this section to financethe expansion of any public water system in anticipation of future population growth.
+&emsp;&emsp;(C) guidance to avoid the use of funds made available under this section to finance the expansion of any public water system in anticipation of future population growth.
 
 > &emsp;The guidance and regulations shall also ensure that the States, and public water systems receiving assistance under this section, use accounting, audit, and fiscal procedures that conform to generally accepted accounting standards.
 
@@ -196,7 +306,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (1) In general
 
-&emsp;1½ percent of the amounts appropriated annually to carry out this section may be used by the Administrator to make grants to Indian Tribes and Alaska Native villages that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. The grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2) of this section.
+&emsp;1½ percent of the amounts appropriated annually to carry out this section may be usedby the Administrator to make grants to Indian Tribes, Alaska Native villages, and, for the purpose of carrying out paragraph (5), intertribal consortia or tribal organizations, that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. Except as otherwise provided, the grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2).
 
 #### (2) Use of funds
 
@@ -208,21 +318,35 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (4) Needs assessment
 
-&emsp;The Administrator, in consultation with the Director of the Indian Health Service and Indian Tribes, shall, in accordance with a schedule that is consistent with the needs surveys conducted pursuant to subsection (h) of this section, prepare surveys and assess the needs of drinking water treatment facilities to serve Indian Tribes, including an evaluation of the public water systems that pose the most significant threats to public health.
+&emsp;The Administrator, in consultation with the Director of the Indian Health Service and Indian Tribes, shall, in accordance with a schedule that is consistent with the needs surveys conducted pursuant to subsection (h), prepare surveys and assess the needs of drinking water treatment facilities to serve Indian Tribes, including an evaluation of the public water systems that pose the most significant threats to public health.
+
+#### (5) Training and operator certification
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator may use funds made available under this subsection and section 300j–1(e)(7) of this title to make grants to intertribal consortia or tribal organizations for the purpose of providing operations and maintenance training and operator certification services to Indian Tribes to enable public water systems that serve Indian Tribes to achieve and maintain compliance with applicable national primary drinking water regulations.
+
+#### (B) Eligible tribal organizations
+
+&emsp;&emsp;Intertribal consortia or tribal organizations eligible for a grant under subparagraph (A) are intertribal consortia or tribal organizations that—
+
+&emsp;&emsp;&emsp;(i) as determined by the Administrator, are the most qualified and experienced to provide training and technical assistance to Indian Tribes; and
+
+&emsp;&emsp;&emsp;(ii) the Indian Tribes find to be the most beneficial and effective.
 
 #### (j) Other areas
 
-Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2) of this section. The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
+Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
 
 #### (k) Other authorized activities
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a)(2) of this section, a State may take each of the following actions:
+&emsp;Notwithstanding subsection (a)(2), a State may take each of the following actions:
 
 &emsp;&emsp;(A) Provide assistance, only in the form of a loan, to one or more of the following:
 
-&emsp;&emsp;&emsp;(i) Any public water system described in subsection (a)(2) of this section to acquire land or a conservation easement from a willing seller or grantor, if the purpose of the acquisition is to protect the source water of the system from contamination and to ensure compliance with national primary drinking water regulations.
+&emsp;&emsp;&emsp;(i) Any public water system described in subsection (a)(2) to acquire land or a conservation easement from a willing seller or grantor, if the purpose of the acquisition is to protect the source water of the system from contamination and to ensure compliance with national primary drinking water regulations.
 
 &emsp;&emsp;&emsp;(ii) Any community water system to implement local, voluntary source water protection measures to protect source water in areas delineated pursuant to section 300j–13 of this title, in order to facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter. Funds authorized under this clause may be used to fund only voluntary, incentive-based mechanisms.
 
@@ -274,21 +398,175 @@ Notwithstanding the other provisions of this section limiting the use of funds d
 
 #### (q) Small system technical assistance
 
-The Administrator may reserve up to 2 percent of the total funds appropriated pursuant to subsection (m) of this section for each of the fiscal years 1997 through 2003 to carry out the provisions of section 300j–1(e) of this title (relating to technical assistance for small systems), except that the total amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by section 300j–1(e) of this title) and reservations made pursuant to this subsection shall not exceed the amount authorized by section 300j–1(e) of this title.
+The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2016 through 2021 to carry out the provisions of section 300j–1(e) of this title (relating to technical assistance for small systems), except that the total amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by section 300j–1(e) of this title) and reservations made pursuant to this subsection shall not exceed the amount authorized by section 300j–1(e) of this title.
 
 #### (r) Evaluation
 
 The Administrator shall conduct an evaluation of the effectiveness of the State loan funds through fiscal year 2001. The evaluation shall be submitted to the Congress at the same time as the President submits to the Congress, pursuant to section 1108 of title 31, an appropriations request for fiscal year 2003 relating to the budget of the Environmental Protection Agency.
 
-(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662.)
+(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662; amended Pub. L. 114–322, title II, §§2102, 2103, 2110, 2112(b), 2113, Dec. 16, 2016, 130 Stat. 1717, 1729, 1730.)
 
 #### References in Text
 
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (n), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–322, §2102(5), designated first sentence of par. (2) as subpar. (A) and inserted heading.
+
+Subsec. (a)(2)(B). Pub. L. 114–322, §2102(4), (6), designated second sentence of par. (2) as subpar. (B), inserted heading, and substituted "(including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not" for "(not".
+
+Subsec. (a)(2)(C). Pub. L. 114–322, §2102(7), added subpar. (C).
+
+Subsec. (a)(2)(D). Pub. L. 114–322, §2102(3), designated third sentence of par. (2) as subpar. (D), inserted heading, and substituted "The funds under this section" for "The funds".
+
+Subsec. (a)(2)(E). Pub. L. 114–322, §2102(2), designated fourth sentence of par. (2) as subpar. (E), inserted heading, and substituted "The funds under this section" for "The funds".
+
+Subsec. (a)(2)(F). Pub. L. 114–322, §2102(1), designated fifth sentence of par. (2) as subpar. (F) and inserted heading.
+
+Subsec. (a)(4). Pub. L. 114–322, §2113, added par. (4).
+
+Subsec. (g)(2). Pub. L. 114–322, §2103(4), struck out third sentence of par. (2) which read as follows: "At least half of the match must be additional to the amount expended by the State for public water supervision in fiscal year 1993."
+
+Subsec. (g)(2)(A). Pub. L. 114–322, §2103(6), added subpar. (A) and struck out first sentence of par. (2) which read as follows: "Each State may annually use up to 4 percent of the funds allotted to the State under this section to cover the reasonable costs of administration of the programs under this section, including the recovery of reasonable costs expended to establish a State loan fund which are incurred after August 6, 1996, and to provide technical assistance to public water systems within the State." Former subpar. (A) redesignated subpar. (B)(i).
+
+Subsec. (g)(2)(B). Pub. L. 114–322, §2103(7)(B), struck out "if the State matches the expenditures with at least an equal amount of State funds." before "At least half" in concluding provisions.
+
+Pub. L. 114–322, §2103(1), (5), redesignated second sentence of par. (2) as subpar. (B), inserted heading, and redesignated former pars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (B).
+
+Subsec. (g)(2)(B)(iv). Pub. L. 114–322, §2103(7)(A), substituted "300g–8 of this title." for "300g–8 of this title,".
+
+Subsec. (g)(2)(C). Pub. L. 114–322, §2103(3), designated fourth sentence of par. (2) as subpar. (C) and inserted heading. Former subpar. (C) redesignated subpar. (B)(iii).
+
+Subsec. (g)(2)(D). Pub. L. 114–322, §2103(2), added subpar. (D) and struck out fifth sentence of par. (2) which read as follows: "Funds utilized under subparagraph (B) shall not be used for enforcement actions." Former subpar. (D) redesignated subpar. (B)(iv).
+
+Subsec. (i)(1). Pub. L. 114–322, §2112(b)(1), substituted "Tribes, Alaska Native villages, and, for the purpose of carrying out paragraph (5), intertribal consortia or tribal organizations," for "Tribes and Alaska Native villages" and "Except as otherwise provided, the grants" for "The grants".
+
+Subsec. (i)(5). Pub. L. 114–322, §2112(b)(2), added par. (5).
+
+Subsec. (q). Pub. L. 114–322, §2110, substituted "made available to carry out this section for each of fiscal years 2016 through 2021" for "appropriated pursuant to subsection (m) for each of the fiscal years 1997 through 2003".
+
+#### Drinking Water Infrastructure
+
+Pub. L. 114–322, title II, §2201, Dec. 16, 2016, 130 Stat. 1731, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Eligible state.—The term 'eligible State' means a State for which the President has declared an emergency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) relating to the public health threats associated with the presence of lead or other contaminants in drinking water provided by a public water system.
+
+&emsp;"(2)
+
+Eligible system.—The term 'eligible system' means a public water system that has been the subject of an emergency declaration referred to in paragraph (1).
+
+&emsp;"(3)
+
+Lead service line.—The term 'lead service line' means a pipe and its fittings, which are not lead free (as defined under section 1417 of the Safe Drinking Water Act (42 U.S.C. 300g–6)), that connect the drinking water main to the building inlet.
+
+&emsp;"(4)
+
+Public water system.—The term 'public water system' has the meaning given such term in section 1401(4) of the Safe Drinking Water Act (42 U.S.C. 300f(4)).
+
+"(b)
+
+State Revolving Loan Fund Assistance.—
+
+&emsp;"(1)
+
+In general.—An eligible system shall be—
+
+&emsp;&emsp;"(A) considered to be a disadvantaged community under section 1452(d) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)); and
+
+&emsp;&emsp;"(B) eligible to receive loans with additional subsidization under section 1452(d)(1) of that Act (42 U.S.C. 300j–12(d)(1)), including forgiveness of principal under that section.
+
+&emsp;"(2)
+
+Authorization.—
+
+&emsp;&emsp;"(A)
+
+In general.—Using funds provided pursuant to subsection (d), an eligible State may provide assistance to an eligible system within the eligible State for the purpose of addressing lead or other contaminants in drinking water, including repair and replacement of lead service lines and public water system infrastructure.
+
+&emsp;&emsp;"(B)
+
+Inclusion.—Assistance provided under subparagraph (A) may include additional subsidization under section 1452(d)(1) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(1)), as described in paragraph (1)(B).
+
+&emsp;&emsp;"(C)
+
+Exclusion.—Assistance provided under subparagraph (A) shall not include assistance for a project that is financed (directly or indirectly), in whole or in part, with proceeds of any obligation issued after the date of enactment of this Act \[Dec. 16, 2016\]—
+
+&emsp;&emsp;&emsp;"(i) the interest of which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]; or
+
+&emsp;&emsp;&emsp;"(ii) with respect to which credit is allowable under subpart I \[26 U.S.C. 54A et seq.\] or J \[26 U.S.C. 54AA\] of part IV of subchapter A of chapter 1 of such Code.
+
+&emsp;"(3)
+
+Inapplicability of limitation.—Section 1452(d)(2) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(2)) shall not apply to—
+
+&emsp;&emsp;"(A) any funds provided pursuant to subsection (d) of this section;
+
+&emsp;&emsp;"(B) any other assistance provided to an eligible system; or
+
+&emsp;&emsp;"(C) any funds required to match the funds provided under subsection (d).
+
+"(c)
+
+Nonduplication of Work.—An activity carried out pursuant to this section shall not duplicate the work or activity of any other Federal or State department or agency.
+
+"(d)
+
+Additional Drinking Water State Revolving Fund Capitalization Grants.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated to the Administrator \[of the Environmental Protection Agency\] a total of $100,000,000 to provide additional capitalization grants to eligible States pursuant to section 1452 of the Safe Drinking Water Act (42 U.S.C. 300j–12), to be available for a period of 18 months beginning on the date on which the funds are made available, for the purposes described in subsection (b)(2), and after the end of the 18-month period, until expended for the purposes described in paragraph (3).
+
+&emsp;"(2)
+
+Supplemented intended use plans.—From funds made available under paragraph (1), the Administrator shall obligate to an eligible State such amounts as are necessary to meet the needs identified in a supplemented intended use plan for the purposes described in subsection (b)(2) by not later than 30 days after the date on which the eligible State submits to the Administrator a supplemented intended use plan under section 1452(b) of the Safe Drinking Water Act (42 U.S.C. 300j–12(b)) that includes preapplication information regarding projects to be funded using the additional assistance, including, with respect to each such project—
+
+&emsp;&emsp;"(A) a description of the project;
+
+&emsp;&emsp;"(B) an explanation of the means by which the project will address a situation causing a declared emergency in the eligible State;
+
+&emsp;&emsp;"(C) the estimated cost of the project; and
+
+&emsp;&emsp;"(D) the projected start date for construction of the project.
+
+&emsp;"(3)
+
+Unobligated amounts.—Any amounts made available to the Administrator under paragraph (1) that are unobligated on the date that is 18 months after the date on which the amounts are made available shall be available to provide additional grants to States to capitalize State loan funds as provided under section 1452 of the Safe Drinking Water Act (42 U.S.C. 300j–12).
+
+&emsp;"(4)
+
+Applicability.—
+
+&emsp;&emsp;"(A) Section 1452(b)(1) of the Safe Drinking Water Act (42 U.S.C. 300j–12(b)(1)) shall not apply to a supplement to an intended use plan under paragraph (2).
+
+&emsp;&emsp;"(B) Unless explicitly waived, all requirements under the Safe Drinking Water Act (42 U.S.C. 300f et seq.) shall apply to funding provided under this subsection.
+
+"(e)
+
+Health Effects Evaluation.—
+
+&emsp;"(1)
+
+In general.—Pursuant to section 104(i)(1)(E) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(i)(1)(E)), and on receipt of a request of an appropriate State or local health official of an eligible State, the Director of the Agency for Toxic Substances and Disease Registry of the National Center for Environmental Health shall in coordination with other agencies, as appropriate, conduct voluntary surveillance activities to evaluate any adverse health effects on individuals exposed to lead from drinking water in the affected communities.
+
+&emsp;"(2)
+
+Consultations.—Pursuant to section 104(i)(4) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604(i)(4)), and on receipt of a request of an appropriate State or local health official of an eligible State, the Director of the Agency for Toxic Substances and Disease Registry of the National Center for Environmental Health shall provide consultations regarding health issues described in paragraph (1).
+
+"(f)
+
+No Effect on Other Projects.—This section shall not affect the application of any provision of the Water Infrastructure Finance and Innovation Act of 2014 (33 U.S.C. 3901 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.) to any project that does not receive assistance pursuant to this subtitle \[subtitle B (§§2201–2204) of title II of Pub. L. 114–322, enacting provisions set out as this note and section 300j–27 of this title\]."
+
 #### Combining Fund Assets for Enhancement of Lending Capacity
 
-Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2498, provided in part: "That, consistent with section 1452(g) of the Safe Drinking Water Act (42 U.S.C. 300j–12(g)),section 302 of the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[set out as a note below\] and the accompanying joint explanatory statement of the committee of conference (H. Rept. No. 104–741 to accompany S. 1316, the Safe Drinking Water Act Amendments of 1996), and notwithstanding any other provision of law, beginning in fiscal year 1999 and thereafter, States may combine the assets of State Revolving Funds (SRFs) established under section 1452 of the Safe Drinking Water Act, as amended, and title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as amended, as security for bond issues to enhance the lending capacity of one or both SRFs, but not to acquire the state match for either program, provided that revenues from the bonds are allocated to the purposes of the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] in the same portion as the funds are used as security for the bonds".
+Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2498, provided in part: "That, consistent with section 1452(g) of the Safe Drinking Water Act (42 U.S.C. 300j–12(g)), section 302 of the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[set out as a note below\] and the accompanying joint explanatory statement of the committee of conference (H. Rept. No. 104–741 to accompany S. 1316, the Safe Drinking Water Act Amendments of 1996), and notwithstanding any other provision of law, beginning in fiscal year 1999 and thereafter, States may combine the assets of State Revolving Funds (SRFs) established under section 1452 of the Safe Drinking Water Act, as amended, and title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as amended, as security for bond issues to enhance the lending capacity of one or both SRFs, but not to acquire the state match for either program, provided that revenues from the bonds are allocated to the purposes of the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] in the same portion as the funds are used as security for the bonds".
 
 #### Transfer of Funds
 

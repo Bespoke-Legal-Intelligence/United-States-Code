@@ -28,7 +28,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 &emsp;(I) a designated State agency undergoes any change in the organizational structure of the agency that results in the creation of one or more new State agencies or departments or results in the merger of the designated State agency with one or more other State agencies or departments; and
 
-&emsp;(II) an agency (including an office or other unit) within the designated State agency was conducting a client assistance program before the change under the last sentence of subparagraph (A),
+&emsp;(II) an agency (including an office or other unit) within the designated State agency wasconducting a client assistance program before the change under the last sentence of subparagraph (A),
 
 > the Governor shall redesignate the agency conducting the program. In conducting the redesignation, the Governor shall designate to conduct the program an agency that is independent of any agency that provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
 
@@ -38,7 +38,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 #### (d) Class action by designated agency prohibited
 
-The agency designated under subsection (c) of this section may not bring any class action incarrying out its responsibilities under this section.
+The agency designated under subsection (c) of this section may not bring any class action in carrying out its responsibilities under this section.
 
 #### (e) Allotment and reallotment of funds
 
@@ -80,7 +80,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 &emsp;(3)(A) Each program shall contain provisions designed to assure that to the maximum extent possible alternative means of dispute resolution are available for use at the discretion of an applicant or client of the program prior to resorting to litigation or formal adjudication to resolve a dispute arising under this section.
 
-&emsp;(B) In subparagraph (A), the term "alternative means of dispute resolution" means any procedure, including good faith negotiation, conciliation, facilitation, mediation, factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in an administrative forum, to resolve a dispute arising under this section.
+&emsp;(B) In subparagraph (A), the term "alternative means of dispute resolution" means any procedure, including good faith negotiation, conciliation, facilitation, mediation,factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in an administrative forum, to resolve a dispute arising under this section.
 
 &emsp;(4) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
@@ -100,7 +100,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &emsp;(6) $14,098,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §421, July 22, 2014, 128 Stat. 1656.)
+(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §421, July 22, 2014, 128 Stat. 1656.)
 
 #### References in Text
 

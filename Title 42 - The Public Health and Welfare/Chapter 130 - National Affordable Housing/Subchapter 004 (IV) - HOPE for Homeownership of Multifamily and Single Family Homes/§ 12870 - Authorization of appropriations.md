@@ -6,9 +6,9 @@ There are authorized to be appropriated for grants under this title <sup>1</sup
 
 &emsp;(1) $285,000,000 shall be available for activities authorized under title III of the United States Housing Act of 1937 \[42 U.S.C. 1437aaa et seq.\], of which up to $4,500,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> title;
 
-&emsp;(2) $285,000,000 shall be available for activities authorized under part A of this subchapter, of which up to $3,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part; and
+&emsp;(2) $285,000,000 shall be available for activities authorized under part A, of which up to $3,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part; and
 
-&emsp;(3) $285,000,000 shall be available for activities under part B of this subchapter, of which up to $2,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part.
+&emsp;(3) $285,000,000 shall be available for activities under part B, of which up to $2,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part.
 
 > Any amount appropriated pursuant to this subsection shall remain available until expended.
 
@@ -18,15 +18,15 @@ There are authorized to be appropriated for grants under this title <sup>1</sup
 
 &emsp;(1) $294,547,000 shall be available for activities authorized under title III of the United States Housing Act of 1937 \[42 U.S.C. 1437aaa et seq.\], up to $4,500,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> title;
 
-&emsp;(2) $294,547,000 shall be available for activities authorized under part A of this subchapter, up to $3,250,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part; and
+&emsp;(2) $294,547,000 shall be available for activities authorized under part A, up to $3,250,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part; and
 
-&emsp;(3) $294,547,000 shall be available for activities under part B of this subchapter, up to $2,250,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part.
+&emsp;(3) $294,547,000 shall be available for activities under part B, up to $2,250,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part.
 
 > Any amount appropriated pursuant to this subsection shall remain available until expended.
 
 #### (c) Technical assistance
 
-Technical assistance made available under title III of the United States Housing Act of 1937 \[42 U.S.C. 1437aaa et seq.\] or part A of this subchapter or part B of this subchapter may include, but shall not be limited to, training, clearinghouse services, the collection, processing and dissemination of program information useful for local and national program management, and provision of seed money. Such technical assistance may be made available directly, or indirectly under contracts and grants, as appropriate. In any fiscal year, no single applicant, potential applicant, or recipient under title III of the United States Housing Act of 1937, or part A of this subchapter or part B of this subchapter may receive technical assistance in an amount exceeding 20 percent of the total amount made available for technical assistance under such title or part for the fiscal year.
+Technical assistance made available under title III of the United States Housing Act of 1937 \[42 U.S.C. 1437aaa et seq.\] or part A or part B of this subchapter may include, but shall not be limited to, training, clearinghouse services, the collection, processing and dissemination of program information useful for local and national program management, and provision of seed money. Such technical assistance may be made available directly, or indirectly under contracts and grants, as appropriate. In any fiscal year, no single applicant, potential applicant, or recipient under title III of the United States Housing Act of 1937, or part A or part B of this subchapter may receive technical assistance in an amount exceeding 20 percent of the total amount made available for technical assistance under such title or part for the fiscal year.
 
 (Pub. L. 101–625, title IV, §402, as added Pub. L. 102–550, title I, §181(a)(1), Oct. 28, 1992, 106 Stat. 3734; amended Pub. L. 109–281, §2(d)(3), Sept. 22, 2006, 120 Stat. 1181.)
 
@@ -38,7 +38,7 @@ The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b)(1), a
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–281 struck out the second sentence, which read as follows: "Of the amounts appropriated pursuant to this subsection, up to $40,000,000, but not less than 5 percent, shall be available for activities authorized under part C of this subchapter."
+<b>2006</b>—Subsec. (a). Pub. L. 109–281 struck out the second sentence, which read as follows: "Of the amountsappropriated pursuant to this subsection, up to $40,000,000, but not less than 5 percent, shall be available for activities authorized under part C of this subchapter."
 
 Subsec. (b). Pub. L. 109–281 struck out the second sentence, which read as follows: "Of the amounts appropriated pursuant to this subsection, up to $41,680,000, but not less than 5 percent, shall be available for activities authorized under part C of this subchapter."
 

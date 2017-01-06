@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-From the amount reserved under section 3796ee–10(b) of this title, the Attorney General shall make grants to Indian tribes for programs to strengthen tribal juvenile justice systems and to hold tribal youth accountable.
+From the amount reserved under section 3796ee–10(b) of this title, the Attorney Generalshall make grants to Indian tribes for programs to strengthen tribal juvenile justice systems and to hold tribal youth accountable.
 
 #### (b) Eligibility
 
-Indian tribes, as defined by section 479a of title 25, or a consortia of such tribes, shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. Only tribes that carry out tribal juvenile justice functions shall be eligible to receive a grant under this section.
+Indian tribes, as defined by section 5130 of title 25, or a consortia of such tribes, shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. Only tribes that carry out tribal juvenile justice functions shall be eligible to receive a grant under this section.
 
 #### (c) Awards
 
@@ -14,7 +14,7 @@ The Attorney General shall award grants under this section on a competitive basi
 
 #### (d) Guidelines
 
-The Attorney General shall issue guidelines establishing application, use, and award criteriaand processes consistent with the purposes and requirements of this Act.
+The Attorney General shall issue guidelines establishing application, use, and award criteria and processes consistent with the purposes and requirements of this Act.
 
 (Pub. L. 90–351, title I, §1801A, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1861.)
 

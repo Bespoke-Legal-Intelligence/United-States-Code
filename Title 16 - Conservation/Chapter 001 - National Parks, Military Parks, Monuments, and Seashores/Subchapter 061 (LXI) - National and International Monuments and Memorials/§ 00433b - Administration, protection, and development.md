@@ -1,6 +1,6 @@
 ### §433b. Administration, protection, and development
 
-The administration, protection and development of the aforesaid peace memorial shall beexercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended.
+The administration, protection and development of the aforesaid peace memorial shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended.
 
 (June 2, 1936, ch. 477, §2, 49 Stat. 1394; Pub. L. 92–568, §1, Oct. 26, 1972, 86 Stat. 1181.)
 

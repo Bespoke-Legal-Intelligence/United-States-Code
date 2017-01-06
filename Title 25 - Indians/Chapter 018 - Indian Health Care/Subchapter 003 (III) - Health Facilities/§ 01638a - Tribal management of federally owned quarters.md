@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
+&emsp;Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
 
 #### (2) Objectives
 
@@ -20,7 +20,7 @@
 
 #### (4) Notice of rate change
 
-&emsp;A tribal health program that establishes a rental rate under this subsection shall provide occupants of the federally owned quarters a notice of any change in the rental rate by not later than the date that is 60 days notice before the effective date of the change.
+&emsp;A tribal health program that establishes a rental rate under this subsection shall provide occupants of the federally owned quarters anotice of any change in the rental rate by not later than the date that is 60 days notice before the effective date of the change.
 
 #### (5) Rates in Alaska
 
@@ -36,7 +36,7 @@
 
 &emsp;On receipt of a notice described in paragraph (1)—
 
-&emsp;&emsp;(A) the affected Federal employees shall pay rent for occupancy of a federally ownedquarters directly to the applicable tribal health program; and
+&emsp;&emsp;(A) the affected Federal employees shall pay rent for occupancy of a federally owned quarters directly to the applicable tribal health program; and
 
 &emsp;&emsp;(B) the Secretary shall not have the authority to collect rent from the employees through payroll deduction or otherwise.
 
@@ -60,7 +60,7 @@
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -69,4 +69,6 @@ Section 309 of Pub. L. 94–437 is based on section 144 of title I of S. 1790, O
 #### Prior Provisions
 
 A prior section 1638a, Pub. L. 94–437, title III, §309, as added Pub. L. 102–573, title III, §307(a), Oct. 29, 1992, 106 Stat. 4564, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(6) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

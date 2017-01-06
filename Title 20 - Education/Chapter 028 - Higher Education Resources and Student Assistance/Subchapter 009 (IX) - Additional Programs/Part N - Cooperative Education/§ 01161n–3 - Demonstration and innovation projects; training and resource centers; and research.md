@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-From the amounts appropriated under section 1161n–4 of this title, the Secretary is authorized, in accordance with the provisions of this section, to make grants and enter into contracts—
+From the amounts appropriated under section 1161n–4 of this title, the Secretary is authorized,in accordance with the provisions of this section, to make grants and enter into contracts—
 
 &emsp;(1) from the amounts available in each fiscal year under section 1161n–1(a)(3) of this title, for the conduct of demonstration projects designed to demonstrate or determine the effectiveness of innovative methods of cooperative education;
 

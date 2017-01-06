@@ -16,7 +16,7 @@ For any fiscal year after the end of the period for implementation, a jurisdicti
 
 #### (3) Alternative procedures
 
-&emsp;If the jurisdiction is unable to substantially implement this subchapter because of a limitation imposed by the jurisdiction's constitution, the Attorney General may determine that the jurisdiction is in compliance with this chapter if the jurisdiction has made, or isin the process of implementing <sup>1</sup> reasonable alternative procedures or accommodations, which are consistent with the purposes of this chapter.
+&emsp;If the jurisdiction is unable to substantially implement this subchapter because of a limitation imposed by the jurisdiction's constitution, the Attorney General may determine that the jurisdiction is in compliance with this chapter if the jurisdiction has made, or is in the process of implementing <sup>1</sup> reasonable alternative procedures or accommodations,which are consistent with the purposes of this chapter.
 
 #### (4) Funding reduction
 

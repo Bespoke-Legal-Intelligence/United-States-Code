@@ -28,7 +28,7 @@
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j)of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
 #### Effective Date of 1965 Amendment
 

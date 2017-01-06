@@ -36,7 +36,7 @@ Combined Vehicles Loading and Hauling Long Commodities.—Notwithstanding subsec
 
 Authority To Change Requirements.—The Secretary may—
 
-&emsp;(1) change the number, dimensions, locations, and manner of application prescribed by the Secretary for safety appliances required by subsection (a)(1)(B) and (C) and (2) of thissection only for good cause and after providing an opportunity for a full hearing;
+&emsp;(1) change the number, dimensions, locations, and manner of application prescribed by the Secretary for safety appliances required by subsection (a)(1)(B) and (C) and (2) of this section only for good cause and after providing an opportunity for a full hearing;
 
 &emsp;(2) amend regulations for installing, inspecting, maintaining, and repairing power and train brakes only for the purpose of achieving safety; and
 

@@ -40,7 +40,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(D) requirements that exploratory activities be coordinated in such a manner as to avoid unnecessary duplication.
 
-(2) The initial guidelines prescribed by the Secretary to implement this subsection shall be accompanied by an environmental impact statement on exploratory activities. The initial guidelines shall thereafter be revised to reflect changes made in the baseline study and other appropriate information made available to the Secretary.
+(2) The initial guidelines prescribed by the Secretary to implement this subsection shall beaccompanied by an environmental impact statement on exploratory activities. The initial guidelines shall thereafter be revised to reflect changes made in the baseline study and other appropriate information made available to the Secretary.
 
 #### (e) Exploration plans
 

@@ -76,7 +76,7 @@ In general.—A vessel owner or operator shall reimburse the Fund an amount equa
 
 &emsp;&emsp;(A) the vessel owner or operator—
 
-&emsp;&emsp;&emsp;(i) during the course of an investigation, reporting, documentation, or adjudication of any matter under this Act that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
+&emsp;&emsp;&emsp;(i) during the course of an investigation, reporting, documentation, or adjudication of any matter that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
 
 &emsp;&emsp;&emsp;(ii) subsequently is—
 
@@ -138,13 +138,15 @@ Vessel subject to the jurisdiction of the united states.—The term "vessel subj
 
 &emsp;&emsp;(B) not engaged in commerce.
 
-(Added Pub. L. 113–281, title III, §320(a), Dec. 18, 2014, 128 Stat. 3051.)
+(Added Pub. L. 113–281, title III, §320(a), Dec. 18, 2014, 128 Stat. 3051; amended Pub. L. 114–120, title III, §306(a)(7), Feb. 8, 2016, 130 Stat. 54.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-This Act, referred to in subsec. (c)(1)(A)(i), probably means Pub. L. 113–281, Dec. 18, 2014, 128 Stat. 3022, known as the Howard Coble Coast Guard and Maritime Transportation Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 1 of Title 14, Coast Guard, and Tables.
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(1)(A)(i). Pub. L. 114–120 struck out "under this Act" after "any matter".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(3)".</i>
 

@@ -20,7 +20,7 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 #### (b) Additional applicability to employees pursuant to subsequent amendatory provisions
 
-Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the productionof goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1).
+Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not lessthan the minimum wage rate in effect under subsection (a)(1).
 
 #### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
@@ -58,13 +58,15 @@ Any employee—
 
 (1) In lieu of the rate prescribed by subsection (a)(1), any employer may pay any employee of such employer, during the first 90 consecutive calendar days after such employee is initially employed by such employer, a wage which is not less than $4.25 an hour.
 
-(2) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1).
+(2) In lieu of the rate prescribed by subsection (a)(1), the Governor of Puerto Rico, subject to the approval of the Financial Oversight and Management Board established pursuant to section 2121 of title 48, may designate a time period not to exceed four years during which employers in Puerto Rico may pay employees who are initially employed after June 30, 2016, a wage which is not less than the wage described in paragraph (1). Notwithstanding the time period designated, such wage shall not continue in effect after such Board terminates in accordance with section 2149 of title 48.
 
-(3) Any employer who violates this subsection shall be considered to have violated section 215(a)(3) of this title.
+(3) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1) or (2).
 
-(4) This subsection shall only apply to an employee who has not attained the age of 20 years.
+(4) Any employer who violates this subsection shall be considered to have violated section 215(a)(3) of this title.
 
-(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80 Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929; Pub. L. 110–28, title VIII, §§8102(a), 8103(c)(1)(B), May 25, 2007, 121 Stat. 188, 189.)
+(5) This subsection shall only apply to an employee who has not attained the age of 20 years, except in the case of the wage applicable in Puerto Rico, 25 years, until such time as the Board described in paragraph (2) terminates in accordance with section 2149 of title 48.
+
+(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929; Pub. L. 110–28, title VIII, §§8102(a), 8103(c)(1)(B), May 25, 2007, 121 Stat. 188, 189; Pub. L. 114–187, title IV, §403, June 30, 2016, 130 Stat. 586.)
 
 #### References in Text
 
@@ -83,6 +85,14 @@ In subsec. (e)(1), "chapter 67 of title 41" substituted for "the Service Contrac
 In subsec. (e)(2), "chapter 67 of title 41" substituted for "the Service Contract Act of 1965" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(2) to (5). Pub. L. 114–187 added pars. (2) to (5) and struck out former pars. (2) to (4) which read as follows:
+
+"(2) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1).
+
+"(3) Any employer who violates this subsection shall be considered to have violated section 215(a)(3) of this title.
+
+"(4) This subsection shall only apply to an employee who has not attained the age of 20 years."
 
 <b>2007</b>—Subsec. (a)(1). Pub. L. 110–28, §8102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;".
 
@@ -138,7 +148,7 @@ Subsec. (c)(2) to (6). Pub. L. 93–259, §5(b), added pars. (2) to (6) and stru
 
 "(3) In the case of any such employee to whom subsection (a)(5) or subsection (b) would otherwise apply, the Secretary shall within sixty days after the effective date of the Fair Labor Standards Amendments of 1966 appoint a special industry committee in accordance with section 205 of this title to recommend the highest minimum wage rate or rates in accordance with the standards prescribed by section 208 of this title, but not in excess of the applicable rate provided by subsection (a)(5) or subsection (b), to be applicable to such employee in lieu of the rate or rates prescribed by subsection (a)(5) or subsection (b), as the case may be. The rate or rates recommended by the special industry committee shall be effective with respect to such employee upon the effective date of the wage order issued pursuant to such recommendation but not before sixty days after the effective date of the Fair Labor Standards Amendments of 1966.
 
-"(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b)) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee."
+"(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have beenrecommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b)) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee."
 
 Subsec. (f). Pub. L. 93–259, §7(b)(1), added subsec. (f).
 
@@ -150,7 +160,7 @@ Subsec. (a)(4). Pub. L. 89–601, §301(b), added par. (4).
 
 Subsec. (a)(5). Pub. L. 89–601, §302, added par. (5).
 
-Subsec. (b). Pub. L. 89–601, §303, substituted provisions for a minimum wage for employees covered for first time by the Fair Labor Standards Amendments of1966 (other than newly covered agricultural employees) at not less than $1 an hour during first year from the effective date of the 1966 amendments, not less than $1.15 an hour during second year from such date, not less than $1.30 an hour during third year from such date, not less than $1.45 an hour during fourth year from such date, and not less than $1.60 an hour thereafter, for provisions setting a timetable for increases in the minimum wage of employees first covered by the Fair Labor Standards Amendments of 1961.
+Subsec. (b). Pub. L. 89–601, §303, substituted provisions for a minimum wage for employees covered for first time by the Fair Labor Standards Amendments of 1966 (other than newly covered agricultural employees) at not less than $1 an hour during first year from the effective date of the 1966 amendments, not less than $1.15 an hour during second year from such date, not less than $1.30 an hour during third year from such date, not less than $1.45 an hour during fourth year from such date, and not less than $1.60 an hour thereafter, for provisions setting a timetable for increases in the minimum wage of employees first covered by the Fair Labor Standards Amendments of 1961.
 
 Subsec. (c). Pub. L. 89–601, §304, provided for a percentage minimum wage increase for employees in Puerto Rico and the Virgin Islands who are covered by wage orders already in effect as the equivalent of the percentage increase on the mainland, provided for minimum wages for employees brought within coverage of this chapter for the first time by the Fair Labor Standards Amendments of 1966 at rates to be set by special industry committees so as to reach as rapidly as is economically feasible without substantially curtailing employment the objectives of the minimum wage prescribed for mainland employees, and eliminated the review committees that has been established by the Fair Labor Standards Amendments of 1961.
 
@@ -222,7 +232,7 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg.Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 #### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
 
@@ -418,7 +428,7 @@ Certain public agencies not to be liable for violations of this section occurrin
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this titlefor violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
 
 #### Inapplicability to Northern Mariana Islands
 

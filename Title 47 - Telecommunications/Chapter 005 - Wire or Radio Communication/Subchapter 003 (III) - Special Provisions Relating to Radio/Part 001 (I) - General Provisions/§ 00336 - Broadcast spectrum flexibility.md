@@ -10,7 +10,7 @@ If the Commission determines to issue additional licenses for advanced televisio
 
 #### (b) Contents of regulations
 
-In prescribing the regulations required by subsection (a) of this section, the Commission shall—
+In prescribing the regulations required by subsection (a), the Commission shall—
 
 &emsp;(1) only permit such licensee or permittee to offer ancillary or supplementary services if the use of a designated frequency for such services is consistent with the technology or method designated by the Commission for the provision of advanced television services;
 
@@ -34,13 +34,13 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (1) Services to which fees apply
 
-&emsp;If the regulations prescribed pursuant to subsection (a) of this section permit a licensee to offer ancillary or supplementary services on a designated frequency—
+&emsp;If the regulations prescribed pursuant to subsection (a) permit a licensee to offer ancillary or supplementary services on a designated frequency—
 
 &emsp;&emsp;(A) for which the payment of a subscription fee is required in order to receive such services, or
 
-&emsp;&emsp;(B) for which the licensee directly or indirectly receives compensation from a thirdparty in return for transmitting material furnished by such third party (other than commercial advertisements used to support broadcasting for which a subscription fee is not required),
+&emsp;&emsp;(B) for which the licensee directly or indirectly receives compensation from a third party in return for transmitting material furnished by such third party (other than commercial advertisements used to support broadcasting for which a subscription fee is not required),
 
-> &emsp;the Commission shall establish a program to assess and collect from the licensee for such designated frequency an annual fee or other schedule or method of payment that promotes the objectives described in subparagraphs (A) and (B) of paragraph (2).
+> &emsp;the Commission shall establish a program to assess and collect from the licensee for such designated frequency an annual fee or otherschedule or method of payment that promotes the objectives described in subparagraphs (A) and (B) of paragraph (2).
 
 #### (2) Collection of fees
 
@@ -234,7 +234,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(ii) the provision of 1-way digital data service by that station causes any interference.
 
-(B) The Commission shall grant any such station, upon application (made in such form and manner and containing such information as the Commission may require) by the licensee or permittee of that station, authority to move thestation to another location, to modify its facilities to operate on a different channel, or to use booster or auxiliary transmitting locations, if the grant of authority will not cause interference to the allowable or protected service areas of full service digital television stations, National Television Standards Committee assignments, or television translator stations, and provided, however, no such authority shall be granted unless it is consistent with existing Commission regulations relating to the movement, modification, and use of non-class A low power television transmission facilities in order—
+(B) The Commission shall grant any such station, upon application (made in such form and manner and containing such information as the Commission may require) by the licensee or permittee of that station, authority to move the station to another location, to modify its facilities to operate on a different channel, or to use booster or auxiliary transmitting locations, if the grant of authority will not cause interference to the allowable or protected service areas of full service digital television stations, National Television Standards Committee assignments, or television translator stations, and provided, however, no such authority shall be granted unless it is consistent with existing Commission regulations relating to the movement, modification, and use of non-class A low power television transmission facilities in order—
 
 &emsp;(i) to operate within television channels 2 through 51, inclusive; or
 
@@ -308,7 +308,7 @@ Pub. L. 107–188, title V, §531, June 12, 2002, 116 Stat. 695, provided that:
 
 Pair Assignment Required.—In order to further promote the orderly transition to digital television, and to promote the equitable allocation and use of digital channels by television broadcast permittees and licensees, the Federal Communications Commission, at the request of an eligible licensee or permittee, shall, within 90 days after the date of enactment of this Act \[June 12, 2002\], allot, if necessary, and assign a paired digital television channel to that licensee or permittee, provided that—
 
-&emsp;"(1) such channel can be allotted and assigned without further modification of the tables of allotmentsas set forth in sections 73.606 and 73.622 of the Commission's regulations (47 CFR 73.606, 73.622); and
+&emsp;"(1) such channel can be allotted and assigned without further modification of the tables of allotments as set forth in sections 73.606 and 73.622 of the Commission's regulations (47 CFR 73.606, 73.622); and
 
 &emsp;"(2) such allotment and assignment is otherwise consistent with the Commission's rules (47 CFR part 73).
 

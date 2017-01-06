@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, §1072(c)(1), substituted "Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies" for "Surplus militaryequipment: sale to State and local law enforcement and firefighting agencies" in section catchline.
+<b>2011</b>—Pub. L. 111–383, §1072(c)(1), substituted "Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies" for "Surplus military equipment: sale to State and local law enforcement and firefighting agencies" in section catchline.
 
 Subsec. (a). Pub. L. 111–383, §1072(a)(1), (b), substituted "State and local law enforcement, firefighting, homeland security, and emergency management agencies" for "State and local law enforcement and firefighting agencies", "personal protective equipment, and other appropriate equipment" for "and protective body armor", and "in carrying out law enforcement, firefighting, homeland security, and emergency management activities" for "in carrying out law enforcement and firefighting activities".
 
@@ -102,7 +102,7 @@ Preference.—No small arms ammunition or small arms ammunition components in ex
 
 "(d)
 
-Sales Controls.—All small arms ammunition and small arms ammunition components, and firedsmall arms cartridge cases made available for commercial sale under this section shall be subject to all explosives safety and trade security controls in effect at the time of sale.
+Sales Controls.—All small arms ammunition and small arms ammunition components, and fired small arms cartridge cases made available for commercial sale under this section shall be subject to all explosives safety and trade security controls in effect at the time of sale.
 
 "(e)
 
@@ -210,7 +210,7 @@ Expiration of Authority.—The authority to sell aircraft and aircraft parts und
 
 #### Sale of Aircraft for Wildfire Suppression Purposes
 
-Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, §1 \[\[div. A\], title III, §388\], Oct. 30, 2000, 114 Stat. 1654, 1654A–89; Pub. L. 107–314, div. A, title X, §1062(k), Dec. 2, 2002, 116 Stat.2651; Pub. L. 112–239, div. A, title X, §1090, Jan. 2, 2013, 126 Stat. 1971, provided that:
+Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, §1 \[\[div. A\], title III, §388\], Oct. 30, 2000, 114 Stat. 1654, 1654A–89; Pub. L. 107–314, div. A, title X, §1062(k), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 112–239, div. A, title X, §1090, Jan. 2, 2013, 126 Stat. 1971, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 

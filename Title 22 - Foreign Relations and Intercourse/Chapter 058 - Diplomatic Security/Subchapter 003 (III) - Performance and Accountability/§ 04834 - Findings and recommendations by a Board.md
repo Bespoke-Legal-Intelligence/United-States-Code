@@ -20,21 +20,21 @@ A Board shall submit its findings (which may be classified to the extent deemed 
 
 #### (c) Personnel recommendations
 
-Whenever a Board finds reasonable cause to believe that an individual described in section 4833(a)(1)(B) of this title has breached the duty of that individual, the Board shall—
+If a Board finds reasonable cause to believe that an individual described in section 4833(a)(1)(B) of this title has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board's examination as described in subsection (a), the Board shall—
 
 &emsp;(1) notify the individual concerned,
 
-&emsp;(2) transmit the finding of reasonable cause, together with all information relevant to such finding, to the head of the appropriate Federal agency or instrumentality, and
+&emsp;(2) transmit the findings of reasonable cause, together with all information relevant to such findings, to the head of the appropriate Federal agency or instrumentality, and
 
 &emsp;(3) recommend that such agency or instrumentality initiate an appropriate investigatory or disciplinary action.
 
-> In determining whether an individual has breached a duty of that individual, the Board shall take into account any standard of conduct, law, rule, regulation, contract, or order which is pertinent to the performance of the duties of that individual.
+> In determining whether an individual has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection, the Board shall take into account any standard of conduct, law, rule, regulation, contract, or order which is pertinent.
 
 #### (d) Reports
 
 #### (1) Program recommendations
 
-&emsp;In any case in which a Board transmits recommendations to the Secretary of State under subsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
+&emsp;In any case in which a Board transmits recommendations to the Secretary of State undersubsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
 
 #### (2) Personnel recommendations
 
@@ -44,9 +44,19 @@ Whenever a Board finds reasonable cause to believe that an individual described 
 
 &emsp;&emsp;(B) the decision by the Federal agency or instrumentality to take disciplinary or other appropriate action against that individual or the reasons for deciding not to take disciplinary or other action with respect to that individual.
 
-(Pub. L. 99–399, title III, §304, Aug. 27, 1986, 100 Stat. 861; Pub. L. 100–204, title I, §156(b), Dec. 22, 1987, 101 Stat. 1354.)
+(Pub. L. 99–399, title III, §304, Aug. 27, 1986, 100 Stat. 861; Pub. L. 100–204, title I, §156(b), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 114–323, title I, §104(a), Dec. 16, 2016, 130 Stat. 1909.)
 
 #### Amendments
 
+<b>2016</b>—Subsec. (c). Pub. L. 114–323, §104(a)(3), in concluding provisions, substituted "has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection" for "has breached a duty of that individual" and struck out "to the performance of the duties of that individual" after "pertinent".
+
+Pub. L. 114–323, §104(a)(1), in introductory provisions, substituted "If" for "Whenever" and "has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board's examination as described in subsection (a)" for "has breached the duty of that individual".
+
+Subsec. (c)(2). Pub. L. 114–323, §104(a)(2), substituted "findings" for "finding" in two places.
+
 <b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted "or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be)" after first reference to "mission abroad".
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–323, title I, §104(b), Dec. 16, 2016, 130 Stat. 1910, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any Accountability Review Board that is convened under section 301 of the Diplomatic Security Act (22 U.S.C. 4831) on or after the date of the enactment of this Act \[Dec. 16, 2016\]."
 

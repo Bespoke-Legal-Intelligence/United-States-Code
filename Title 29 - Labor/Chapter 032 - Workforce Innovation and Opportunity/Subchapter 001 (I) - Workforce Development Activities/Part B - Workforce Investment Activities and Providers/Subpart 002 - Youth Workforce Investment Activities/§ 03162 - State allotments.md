@@ -34,7 +34,7 @@ The Secretary shall—
 
 #### (III) Administrative costs
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under subclause (I) to pay the administrative costs of the Pacific Region Educational Laboratory in Honolulu, Hawaii, regarding activities assisted under this clause.
+&emsp;&emsp;&emsp;&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under subclause (I) to paythe administrative costs of the Pacific Region Educational Laboratory in Honolulu, Hawaii, regarding activities assisted under this clause.
 
 #### (iii) Additional requirement
 
@@ -140,7 +140,7 @@ The Secretary shall—
 
 #### (3) Reallotment
 
-&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount of the State allotment for theprogram year for which the determination is made, as compared to the total amount of the State allotments for all eligible States for such program year.
+&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount of the State allotment for the program year for which the determination is made, as compared to the total amount of the State allotments for all eligible States for such program year.
 
 #### (4) Eligibility
 

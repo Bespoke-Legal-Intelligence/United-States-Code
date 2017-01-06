@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (b) of this section and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
+&emsp;Subject to subsection (b) and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
 
 #### (2) Wetland delineation maps
 
@@ -28,7 +28,7 @@
 
 #### (6) Reliance on prior certified delineation
 
-&emsp;No person shall be adversely affected because of having taken an action based on a previous certified wetland delineation by the Secretary. The delineation shall not be subject to a subsequent wetland certification or delineation by the Secretary, unless requested by the person under paragraph (4).
+&emsp;No person shall be adversely affected because of having taken an action based on a previous certified wetland delineation by the Secretary. The delineation shall not be subjectto a subsequent wetland certification or delineation by the Secretary, unless requested by the person under paragraph (4).
 
 #### (b) Exemptions
 
@@ -98,7 +98,7 @@ No program loans, payments, or benefits shall be withheld from a person under th
 
 #### (d) Identification of minimal effect exemptions
 
-For purposes of applying the minimal effect exemption under subsection (f)(1) of this section, the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title. The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
+For purposes of applying the minimal effect exemption under subsection (f)(1), the Secretaryshall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title. The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
 
 #### (e) Nonwetlands
 
@@ -204,7 +204,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2014</b>—Subsec. (k). Pub. L. 113–79 amended subsec. (k) generally. Prior to amendment, text read as follows:"Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection."
+<b>2014</b>—Subsec. (k). Pub. L. 113–79 amended subsec. (k) generally. Prior to amendment, text read as follows: "Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection."
 
 <b>2008</b>—Subsec. (h)(2), (3). Pub. L. 110–246, §2003, added par. (2), redesignated former par. (2) as (3), and inserted "be" before "actively".
 

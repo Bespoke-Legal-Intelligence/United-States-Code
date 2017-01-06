@@ -4,19 +4,19 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall make grants to public and nonprofit private entities for the purpose of carrying out programs—
+&emsp;The Secretary, acting through the Assistant Secretary for Mental Health and SubstanceUse, shall make grants to public and nonprofit private entities for the purpose of carrying out programs—
 
-&emsp;&emsp;(A) to provide the services described in subsection (b) of this section to children of substance abusers;
+&emsp;&emsp;(A) to provide the services described in subsection (b) to children of substance abusers;
 
-&emsp;&emsp;(B) to provide the applicable services described in subsection (c) of this section to families in which a member is a substance abuser;
+&emsp;&emsp;(B) to provide the applicable services described in subsection (c) to families in which a member is a substance abuser;
 
-&emsp;&emsp;(C) to identify such children and such families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and otherproviders of services to children and families; and
+&emsp;&emsp;(C) to identify such children and such families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and
 
 &emsp;&emsp;(D) to provide education and training to health, substance abuse and mental health professionals, and other providers of services to children and families through youth service agencies, family social services, child care, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, and other providers of services to children and families.
 
 #### (2) Administrative consultations
 
-&emsp;The Administrator of the Administration for Children, Youth, and Families and the Administrator of the Health Resources and Services Administration shall be consulted regarding the promulgation of program guidelines and funding priorities under this section.
+&emsp;The Assistant Secretary of the Administration for Children, Youth, and Families and the Assistant Secretary of the Health Resources and Services Administration shall be consulted regarding the promulgation of program guidelines and funding priorities under this section.
 
 #### (3) Requirement of status as medicaid provider
 
@@ -34,7 +34,7 @@
 
 #### (b) Services for children of substance abusers
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees to make available (directly or through agreements with other entities) to children of substance abusers each of the following services:
+The Secretary may make a grant under subsection (a) only if the applicant involved agrees to make available (directly or through agreements with other entities) to children of substance abusers each of the following services:
 
 &emsp;(1) Periodic evaluation of children for developmental, psychological, alcohol and drug, and medical problems.
 
@@ -68,15 +68,15 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (c) Services for affected families
 
-The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
+The Secretary may make a grant under subsection (a) only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
 
 &emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
 &emsp;&emsp;(A) Counseling to substance abusers on the benefits and availability of substance abuse treatment services and services for children of substance abusers.
 
-&emsp;&emsp;(B) Assistance to substance abusers in obtaining and using substance abuse treatment services and in obtaining the services described in subsection (b) of this section for their children.
+&emsp;&emsp;(B) Assistance to substance abusers in obtaining and using substance abuse treatment services and in obtaining the services described in subsection (b) for their children.
 
-&emsp;&emsp;(C) Visiting and providing support to substance abusers, especially pregnant women, who are receiving substance abuse treatment services or whose children are receiving services under subsection (b) of this section.
+&emsp;&emsp;(C) Visiting and providing support to substance abusers, especially pregnant women, who are receiving substance abuse treatment services or whose children are receiving services under subsection (b).
 
 &emsp;&emsp;(D) Aggressive outreach to family members with substance abuse problems.
 
@@ -94,7 +94,7 @@ The Secretary may make a grant under subsection (a) of this section only if, in 
 
 &emsp;&emsp;(E) Career planning and education services.
 
-&emsp;&emsp;(F) Referrals for, and assistance in establishing eligibility for, services described in subsection (b)(7) of this section.
+&emsp;&emsp;(F) Referrals for, and assistance in establishing eligibility for, services described in subsection (b)(7).
 
 &emsp;(3) In the case of substance abusers, spouses of substance abusers, extended family members of substance abusers, caretakers of children of substance abusers, and other people significantly involved in the lives of substance abusers or the children of substance abusers:
 
@@ -114,7 +114,7 @@ The Secretary may make a grant under subsection (a) of this section only if, in 
 
 #### (d) Training for providers of services to children and families
 
-The Secretary may make a grant under subsection (a) of this section for the training of health, substance abuse and mental health professionals and other providers of services to children and families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource centers, the criminal justice system, and other providers of services to children and families. Such training shall be to assist professionals in recognizing the drug and alcohol problems of their clients and to enhance their skills in identifying and understanding the nature of substance abuse, and obtaining substance abuse early intervention, prevention and treatment resources.
+The Secretary may make a grant under subsection (a) for the training of health, substance abuse and mental health professionals and other providers of services to children and families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource centers, the criminal justice system, and other providers of services to children and families. Such training shall be to assist professionals in recognizing the drug and alcohol problems of their clients and to enhance their skills in identifying and understanding the nature of substance abuse, and obtaining substance abuse early intervention, prevention and treatment resources.
 
 #### (e) Eligible entities
 
@@ -134,11 +134,11 @@ The Secretary shall distribute the grants through the following types of entitie
 
 #### (f) Federal share
 
-The Federal share of a program carried out under subsection (a) of this section shall be 90 percent. The Secretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
+The Federal share of a program carried out under subsection (a) shall be 90 percent. The Secretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
 
 #### (g) Restrictions on use of grant
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that the grant will not be expended—
+The Secretary may make a grant under subsection (a) only if the applicant involved agrees that the grant will not be expended—
 
 &emsp;(1) to provide inpatient hospital services;
 
@@ -152,7 +152,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (h) Submission to Secretary of certain information
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved submits to the Secretary—
+The Secretary may make a grant under subsection (a) only if the applicant involved submits to the Secretary—
 
 &emsp;(1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
@@ -162,7 +162,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (i) Reports to Secretary
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that for each fiscal year for which the applicant receives such a grant the applicant, in accordance with uniform standards developed by the Secretary, will submit to the Secretary a report containing—
+The Secretary may make a grant under subsection (a) only if the applicant involved agrees that for each fiscal year for which the applicant receives such a grant the applicant, in accordance with uniform standards developed by the Secretary, will submit to the Secretary a report containing—
 
 &emsp;(1) a description of specific services and activities provided under the grant;
 
@@ -188,17 +188,17 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (j) Requirement of application
 
-The Secretary may make any grant under subsection (a) of this section only if—
+The Secretary may make any grant under subsection (a) only if—
 
 &emsp;(1) an application for the grant is submitted to the Secretary;
 
-&emsp;(2) the application contains the agreements required in this section and the information required in subsection (h) of this section; and
+&emsp;(2) the application contains the agreements required in this section and the information required in subsection (h); and
 
 &emsp;(3) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (k) Evaluations
 
-The Secretary shall periodically conduct evaluations to determine the effectiveness of programs supported under subsection (a) of this section—
+The Secretary shall periodically conduct evaluations to determine the effectiveness of programs supported under subsection (a)—
 
 &emsp;(1) in reducing the incidence of alcohol and drug abuse among substance abusers participating in the programs;
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (l) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -220,9 +220,9 @@ Not later than 2 years after the date on which amounts are first appropriated un
 
 &emsp;&emsp;(A) the number and characteristics of families, parents, and children served; and
 
-&emsp;&emsp;(B) the number of children served who remained with their parents during or after the period in which entities provided services under this section.
+&emsp;&emsp;(B) the number of children served who remained with their parents during or after the period in which entities provided services under this section.<sup>6</sup>
 
-> &emsp;analyzed by the type of entity described in subsection (e) of this section that provided services; <sup>6</sup>
+> &emsp;analyzed by the type of entity described in subsection (e) that provided services; <sup>7</sup>
 
 #### (m) Data collection
 
@@ -250,7 +250,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §519, formerly title III, §399D, as added Pub. L. 102–321, title IV, §401(a), July 10, 1992, 106 Stat. 419; renumbered §399A, renumbered title V, §519, and amended Pub. L. 106–310, div. A, title V, §502(1), div. B, title XXXI, §3106(a)–(m), Oct. 17, 2000, 114 Stat. 1115, 1175–1179; Pub. L. 108–446, title III, §305(i)(1), (3), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title V, §519, formerly title III, §399D, as added Pub. L. 102–321, title IV, §401(a), July 10, 1992, 106 Stat. 419; renumbered §399A, renumbered title V, §519, and amended Pub. L. 106–310, div. A, title V, §502(1), div. B, title XXXI, §3106(a)–(m), Oct. 17, 2000, 114 Stat. 1115, 1175–1179; Pub. L. 108–446, title III, §305(i)(1), (3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title VI, §6001(c), Dec. 13, 2016, 130 Stat. 1203.)
 
 #### References in Text
 
@@ -269,6 +269,10 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (n)(3), is Pub. 
 Section was formerly classified to section 280d of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in two places.
 
 <b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting "part C" for "part H", was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
@@ -400,5 +404,7 @@ Reference to community health center, migrant health center, public housing heal
 
 <i><sup>5</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>6</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>6</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>7</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

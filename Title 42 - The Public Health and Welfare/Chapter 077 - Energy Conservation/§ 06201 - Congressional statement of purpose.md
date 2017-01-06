@@ -22,7 +22,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy andConservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Pub. L. 105–388, §1, Nov. 13, 1998, 112 Stat. 3477, provided that: "This Act 
 
 Pub. L. 103–406, §1, Oct. 22, 1994, 108 Stat. 4209, provided: "That this Act \[amending sections 6251 and 6285 of this title and enacting provisions set out as a note below\] may be cited as the 'Energy Policy and Conservation Act Amendments Act of 1994'."
 
-Pub. L. 103–406, title I, §101, Oct. 22, 1994, 108 Stat. 4209, provided that: "This title \[amending sections 6251 and 6285 of this title\] may be cited as the 'Energy Policy and Conservation Act Amendments of 1994'."
+Pub. L. 103–406, title I, §101, Oct. 22, 1994, 108 Stat. 4209, provided that: "This title \[amending sections 6251and 6285 of this title\] may be cited as the 'Energy Policy and Conservation Act Amendments of 1994'."
 
 #### Short Title of 1990 Amendment
 
@@ -296,7 +296,7 @@ In general.—Subject to subparagraph (B), on approval of persons representing t
 
 &emsp;&emsp;"(B)
 
-Requirement of majority of retail marketers.—Except as provided in subsection (b), the oilheat fuel industry in a State shall not participate in the Alliance if less than 50 percent of the retail marketer vote in the State approves establishment of the Alliance.
+Requirement of majority of retail marketers.—Except as provided in subsection (b), theoilheat fuel industry in a State shall not participate in the Alliance if less than 50 percent of the retail marketer vote in the State approves establishment of the Alliance.
 
 &emsp;"(6)
 
@@ -966,7 +966,7 @@ In General.—The Alliance may bring a civil action in United States district co
 
 "(b)
 
-Costs.—A successful action for compliance under this section may also require payment by the defendant of the costs incurred by the Alliance in bringing the action.
+Costs.—A successful action for compliance under this section may also require payment by the defendantof the costs incurred by the Alliance in bringing the action.
 
 #### "SEC. 710. LOBBYING RESTRICTIONS.
 

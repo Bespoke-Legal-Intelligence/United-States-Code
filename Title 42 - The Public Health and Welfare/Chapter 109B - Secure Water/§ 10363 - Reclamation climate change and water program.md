@@ -90,7 +90,7 @@ Not later than 2 years after March 30, 2009, and every 5 years thereafter, the S
 
 #### (1) Authority of Secretary
 
-&emsp;The Secretary, in cooperation with any non-Federal participant, may conduct 1 or more studies to determine the feasibility and impact on ecological resiliency of implementing each mitigation and adaptation strategy described in subsection (c)(3), including the construction of any water supply, water management, environmental, or habitat enhancement water infrastructure that the Secretary determines to be necessary to address the effects of global climate change on water resources located in each major reclamation river basin.
+&emsp;The Secretary, in cooperation with any non-Federal participant, may conduct 1 or morestudies to determine the feasibility and impact on ecological resiliency of implementing each mitigation and adaptation strategy described in subsection (c)(3), including the construction of any water supply, water management, environmental, or habitat enhancement water infrastructure that the Secretary determines to be necessary to address the effects of global climate change on water resources located in each major reclamation river basin.
 
 #### (2) Cost sharing
 

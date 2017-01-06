@@ -32,7 +32,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VI, §641(b), Oct. 17, 2006, 120 Stat. 2259, added item 1407a.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 "Special compensation for certain severely disabled uniformed services retirees", and substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformedservices retirees" in item 1413a and "Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation" for "Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans' disability compensation; contingent authority" in item 1414.
+<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 "Special compensation for certain severely disabled uniformed services retirees", and substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformed services retirees" in item 1413a and "Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation" for "Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans' disability compensation; contingent authority" in item 1414.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title VI, §636(a)(3), Dec. 2, 2002, 116 Stat. 2576, added item 1413a.
 

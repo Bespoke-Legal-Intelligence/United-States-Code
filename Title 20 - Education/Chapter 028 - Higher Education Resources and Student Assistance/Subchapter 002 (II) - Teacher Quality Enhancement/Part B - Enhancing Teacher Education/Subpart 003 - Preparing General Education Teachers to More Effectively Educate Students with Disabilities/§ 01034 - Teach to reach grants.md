@@ -106,7 +106,7 @@ A prior section 251 of Pub. L. 89–329 was classified to section 1047j of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–95 substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "are highly qualified".
+<b>2015</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–95 substituted "meet the applicable State certification and licensurerequirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "are highly qualified".
 
 #### Effective Date of 2015 Amendment
 

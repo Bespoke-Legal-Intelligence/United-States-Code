@@ -14,7 +14,7 @@
 
 &emsp;(3) chapter 89 of this title or other applicable health benefits system unless his appointment results in the loss of coverage in a group health benefits plan the premium of which has been paid in whole or in part by a State or local government contribution.
 
-> The above exceptions shall not apply to non-Federal employees who are covered by chapters83, 87, and 89 of this title by virtue of their non-Federal employment immediately before assignment and appointment under this section.
+> The above exceptions shall not apply to non-Federal employees who are covered by chapters 83, 87, and 89 of this title by virtue of their non-Federal employment immediately before assignment and appointment under this section.
 
 (c) During the period of assignment, a State or local government employee on detail to a Federal agency—
 
@@ -36,7 +36,7 @@
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (c)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (c)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, seeTables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 
@@ -59,4 +59,8 @@ Subsec. (e). Pub. L. 95–454, §603(b), substituted "a Federal" for "an executi
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date
+
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under section 3371 of this title.
 

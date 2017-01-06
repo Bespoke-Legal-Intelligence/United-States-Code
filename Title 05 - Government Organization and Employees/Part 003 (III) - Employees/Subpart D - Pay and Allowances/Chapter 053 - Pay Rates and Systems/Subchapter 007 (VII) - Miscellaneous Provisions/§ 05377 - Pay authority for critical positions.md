@@ -30,7 +30,7 @@
 
 &emsp;(2) may be granted or exercised only to the extent necessary to recruit or retain an individual exceptionally well qualified for the position.
 
-(c) The Office of Personnel Management, in consultation with the Office of Management andBudget, may, upon the request of the head of an agency, grant authority to fix the rate of basic pay for 1 or more positions in such agency in accordance with this section.
+(c) The Office of Personnel Management, in consultation with the Office of Management and Budget, may, upon the request of the head of an agency, grant authority to fix the rate of basic pay for 1 or more positions in such agency in accordance with this section.
 
 (d)(1) The rate of basic pay fixed under this section by an agency head may not be less than the rate of basic pay (including any comparability payments) which would then otherwise be payable for the position involved if this section had never been enacted.
 

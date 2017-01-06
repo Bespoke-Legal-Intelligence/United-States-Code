@@ -1,0 +1,6 @@
+### §1300b–16. Omitted
+
+#### Codification
+
+Section, Pub. L. 97–429, §7, Jan. 8, 1983, 96 Stat. 2270, which related to provision of Federal Indian services, was omitted from the Code as being of special and not general application.
+

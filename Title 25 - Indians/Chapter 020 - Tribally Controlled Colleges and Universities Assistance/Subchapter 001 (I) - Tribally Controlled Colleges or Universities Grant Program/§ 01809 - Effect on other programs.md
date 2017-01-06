@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for assistance
 
-Except as specifically provided in this subchapter, eligibility for assistance under this subchapter shall not, by itself, preclude the eligibility of any tribally controlled college or university to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+Except as specifically provided in this subchapter, eligibility for assistance under this subchapter shall not, by itself, preclude the eligibility of any tribally controlled college or university to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
 #### (b) Allocations from Bureau of Indian Affairs
 
@@ -10,13 +10,13 @@ Except as specifically provided in this subchapter, eligibility for assistance u
 
 (2) No tribally controlled college or university shall be denied funds appropriated under section 13 of this title because of the funds it receives under this chapter.
 
-(3) No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of this title may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+(3) No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of this title may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
-#### (c) <sup>1</sup> Assistance deemed to be basic educational opportunity grant
+#### (c) <sup>2</sup> Assistance deemed to be basic educational opportunity grant
 
-For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Education Act of 1965 \[20 U.S.C. 1058(2)(A)(i), 1061(a)(2)(A)(i)\],<sup>2</sup> any Indian student who receives a student assistance grant from the Bureau of Indian Affairs for postsecondary education shall be deemed to have received such assistance under subpart 1 of part A of title IV of such Act \[20 U.S.C. 1070a et seq.\].
+For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Education Act of 1965 \[20 U.S.C. 1058(2)(A)(i), 1061(a)(2)(A)(i)\],<sup>3</sup> any Indian student who receives a student assistance grant from the Bureau of Indian Affairs for postsecondary education shall be deemed to have received such assistance under subpart 1 of part A of title IV of such Act \[20 U.S.C. 1070a et seq.\].
 
-#### (c) <sup>1</sup> Treatment of funds under certain Federal laws
+#### (c) <sup>2</sup> Treatment of funds under certain Federal laws
 
 Notwithstanding any other provision of law, funds provided under this subchapter to the tribally controlled college or university may be treated as non-Federal, private funds of the college or university for purposes of any provision of Federal law which requires that non-Federal or private funds of the college or university be used in a project or for a specific purpose.
 
@@ -24,9 +24,9 @@ Notwithstanding any other provision of law, funds provided under this subchapter
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Sections 312 and 322 of the Act, which wereclassified to sections 1058 and 1061, respectively, of Title 20, were omitted in the general revision of title III of the Higher Education Act of 1965 by Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1290, which enacted new sections 312 and 322 which are classified to sections 1058 and 1061, respectively, of Title 20. Subpart 1 of part A of title IV of the Higher Education Act of 1965 is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of the Higher Education Act of 1965 to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Sections 312 and 322 of the Act, which were classified to sections 1058 and 1061, respectively, of Title 20, were omitted in the general revision of title III of the Higher Education Act of 1965 by Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1290, which enacted new sections 312 and 322 which are classified to sections 1058 and 1061, respectively, of Title 20. Subpart 1 of part A of title IV of the Higher Education Act of 1965 is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of the Higher Education Act of 1965 to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 
@@ -56,7 +56,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

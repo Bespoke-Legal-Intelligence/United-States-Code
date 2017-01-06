@@ -1,0 +1,6 @@
+### §1083. Omitted
+
+#### Codification
+
+Section, Pub. L. 89–655, §3, Oct. 14, 1966, 80 Stat. 905, which related to criteria to be employed in preparing Quileute base roll, was omitted from the Code as being of special and not general application.
+

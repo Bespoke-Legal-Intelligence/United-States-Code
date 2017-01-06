@@ -1,6 +1,6 @@
 ### §3034. Program administration
 
-(a)(1) Except as otherwise provided in this chapter, the provisions of sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of this title and the provisions of subchapters I and II of chapter 36 of this title (with the exception of sections3680(c), 3680(f), 3686(a), and 3687) shall be applicable to the provision of educational assistance under this chapter.
+(a)(1) Except as otherwise provided in this chapter, the provisions of sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of this title and the provisions of subchapters I and II of chapter 36 of this title (with the exception of sections 3680(c), 3680(f), 3686(a), and 3687) shall be applicable to the provision of educational assistance under this chapter.
 
 (2) The term "eligible veteran", as used in the provisions of the sections enumerated in paragraph (1) of this subsection, shall be deemed to include an individual who is eligible for educational assistance under this chapter.
 

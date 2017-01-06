@@ -46,7 +46,7 @@ Procedures.—The Secretary shall prescribe by regulation—
 
 (f)
 
-Shipper Responsibility.—A person offering hazardous material for motor vehicle transportation in commerce may offer the material to a motor carrier only if the carrier has a safetypermit issued under this section authorizing the transportation.
+Shipper Responsibility.—A person offering hazardous material for motor vehicle transportation in commerce may offer the material to a motor carrier only if the carrier has a safety permit issued under this section authorizing the transportation.
 
 (g)
 

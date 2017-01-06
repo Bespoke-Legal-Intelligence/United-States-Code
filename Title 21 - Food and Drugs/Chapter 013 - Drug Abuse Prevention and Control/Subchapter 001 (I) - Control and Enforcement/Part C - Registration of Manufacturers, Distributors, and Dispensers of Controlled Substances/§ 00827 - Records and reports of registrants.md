@@ -2,7 +2,7 @@
 
 #### (a) Inventory
 
-Except as provided in subsection (c) of this section—
+Except as provided in subsection (c)—
 
 &emsp;(1) every registrant under this subchapter shall, on May 1, 1971, or as soon thereafter as such registrant first engages in the manufacture, distribution, or dispensing of controlled substances, and every second year thereafter, make a complete and accurate record of all stocks thereof on hand, except that the regulations prescribed under this section shall permit each such biennial inventory (following the initial inventory required by this paragraph) to be prepared on such registrant's regular general physical inventory date (if any) which is nearest to and does not vary by more than six months from the biennial date that would otherwise apply;
 
@@ -22,7 +22,7 @@ The foregoing provisions of this section shall not apply—
 
 &emsp;(B) to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual;
 
-&emsp;(2)(A) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect to such substances, in research conducted in conformity with an exemption granted under section 355(i) or 360b(j) of this title;
+&emsp;(2)(A) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect tosuch substances, in research conducted in conformity with an exemption granted under section 355(i) or 360b(j) of this title;
 
 &emsp;(B) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect to such substances, in preclinical research or in teaching; or
 
@@ -64,9 +64,9 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 &emsp;(4) That all reports under this section must include the registered person's registration number as well as the registration numbers, names, and other identifying information of vendors, suppliers, and customers, sufficient to allow the Attorney General to track the receipt and distribution of the drug.
 
-&emsp;(5) That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner's Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient's name and address, the name of the patient's insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient's medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
+&emsp;(5) That each dispensing practitioner shall maintain for each prescription the name of the prescribing practitioner, the prescribing practitioner's Federal and State registration numbers, with the expiration dates of these registrations, verification that the prescribing practitioner possesses the appropriate registration to prescribe this controlled substance, the patient's name and address, thename of the patient's insurance provider and documentation by a medical practitioner licensed and registered to prescribe the drug of the patient's medical need for the drug. Such information shall be available for inspection and copying by the Attorney General.
 
-&emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to thesame extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
+&emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 
 (Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824.)
 

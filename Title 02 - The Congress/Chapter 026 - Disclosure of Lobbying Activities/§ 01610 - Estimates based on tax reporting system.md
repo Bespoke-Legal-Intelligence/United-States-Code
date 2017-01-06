@@ -42,7 +42,7 @@ Not later than March 31, 1997, the Comptroller General of the United States shal
 
 &emsp;(3) any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
 
-(Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat.38; Pub. L. 110–81, title II, §201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
+(Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
 
 #### References in Text
 
@@ -63,4 +63,8 @@ Subsec. (b)(2). Pub. L. 105–166, §4(b)(2), amended par. (2) generally. Prior 
 #### Effective Date of 2007 Amendment
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 

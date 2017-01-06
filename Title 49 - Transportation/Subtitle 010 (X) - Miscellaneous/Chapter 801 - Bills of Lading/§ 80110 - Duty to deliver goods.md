@@ -2,7 +2,7 @@
 
 (a)
 
-General Rules.—Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consigneenamed in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—
+General Rules.—Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consignee named in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—
 
 &emsp;(1) offers in good faith to satisfy the lien of the carrier on the goods;
 
@@ -92,7 +92,7 @@ In subsection (b), before clause (1), the word "may" is substituted for "is just
 
 In subsection (c), before clause (1), the words "for his own benefit" are omitted as surplus. The words "nondelivery of" are substituted for "refusing to deliver" because they are more accurate. The words "according to the terms of a bill issued for them" are omitted as unnecessary. In clause (1), the words "directly or indirectly" are omitted as unnecessary.
 
-In subsection (d), the word "person" is substituted for "someone" for consistency in this chapter. The words "claims title" are substituted for "has a claim to the title" for consistency. The words "is not required to" are substituted for "shall be excused from liability for refusing to" for clarity. The words "any claimant" are substituted for "either to the consignee or person in possession of the bill or to the adverse claimant" to eliminate unnecessary words. The words "civil action" are substituted for "legal proceedings" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (d), the word "person" is substituted for "someone" for consistency in this chapter. The words "claims title" are substituted for "has a claim to the title" for consistency. The words "is not required to" are substituted for "shall be excused from liability for refusing to" for clarity. The words "any claimant"are substituted for "either to the consignee or person in possession of the bill or to the adverse claimant" to eliminate unnecessary words. The words "civil action" are substituted for "legal proceedings" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 In subsection (e), before clause (1), the words "at least 2" are substituted for "more than one" for consistency in the revised title and with other titles of the United States Code. In clause (1), the words "civil action" are substituted for "an original suit" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words "whichever is appropriate" are omitted as unnecessary.
 

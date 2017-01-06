@@ -10,7 +10,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Certain mechanisms urged
 
-The mechanisms described in subsection (a) of this section shall include, at a minimum, the following measures:
+The mechanisms described in subsection (a) shall include, at a minimum, the following measures:
 
 &emsp;(1) An instruction to the management of the bank to undertake efforts to appropriately train and significantly increase the number of bank professional staff (based in Washington, District of Columbia, as of November 5, 1990) assigned, on a rotating basis, to field offices of the bank in borrower countries.
 
@@ -20,7 +20,7 @@ The mechanisms described in subsection (a) of this section shall include, at a m
 
 &emsp;(4) Before a project loan is made to a borrower country, the country is to be required to hold open hearings on the proposed project during project identification and project preparation.
 
-&emsp;(5) The establishment of assessment procedures which allow affected parties and nongovernmental organizations to review information describing a prospective project or policy loan design, in a timely manner, before theloan is submitted to the Executive Board for approval.
+&emsp;(5) The establishment of assessment procedures which allow affected parties and nongovernmental organizations to review information describing a prospective project or policy loan design, in a timely manner, before the loan is submitted to the Executive Board for approval.
 
 (Pub. L. 95–118, title XVI, §1617, as added Pub. L. 101–513, title V, §562(a)(2), Nov. 5, 1990, 104 Stat. 2032.)
 

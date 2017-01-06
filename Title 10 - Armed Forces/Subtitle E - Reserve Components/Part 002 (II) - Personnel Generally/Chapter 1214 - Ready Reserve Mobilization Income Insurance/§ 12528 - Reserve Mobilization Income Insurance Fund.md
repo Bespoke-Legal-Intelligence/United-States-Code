@@ -24,7 +24,7 @@ Investment of Assets of Fund.—The Secretary of the Treasury shall invest such 
 
 (e)
 
-Annual Accounting.—At the beginning of each fiscal year, the Secretary, in consultation with the Board of Actuaries and the Secretary of the Treasury, shall determine the following:
+Annual Accounting.—At the beginning of each fiscal year, the Secretary, in consultationwith the Board of Actuaries and the Secretary of the Treasury, shall determine the following:
 
 &emsp;(1) The projected amount of the premiums to be collected, investment earnings to be received, and any transfers or appropriations to be made for the Fund for that fiscal year.
 

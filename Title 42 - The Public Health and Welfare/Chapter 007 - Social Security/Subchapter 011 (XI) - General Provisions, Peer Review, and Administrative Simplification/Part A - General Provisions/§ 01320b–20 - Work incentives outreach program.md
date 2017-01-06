@@ -10,7 +10,7 @@
 
 &emsp;Under the program established under this section, the Commissioner shall—
 
-&emsp;&emsp;(A) establish a competitive program of grants, cooperative agreements, or contracts to provide benefits planning and assistance, including information on the availability of protection and advocacy services, to disabled beneficiaries, including individuals participating in the Ticket to Work and Self-Sufficiency Program established under section 1320b–19 of this title, the program established under section 1382h of this title, and other programs that are designed to encourage disabled beneficiaries to work;
+&emsp;&emsp;(A) establish a competitive program of grants, cooperative agreements, or contractsto provide benefits planning and assistance, including information on the availability of protection and advocacy services, to disabled beneficiaries, including individuals participating in the Ticket to Work and Self-Sufficiency Program established under section 1320b–19 of this title, the program established under section 1382h of this title, and other programs that are designed to encourage disabled beneficiaries to work;
 
 &emsp;&emsp;(B) conduct directly, or through grants, cooperative agreements, or contracts, ongoing outreach efforts to disabled beneficiaries (and to the families of such beneficiaries) who are potentially eligible to participate in Federal or State work incentive programs that are designed to assist disabled beneficiaries to work, including—
 
@@ -18,11 +18,11 @@
 
 &emsp;&emsp;&emsp;(ii) working in cooperation with other Federal, State, and private agencies and nonprofit organizations that serve disabled beneficiaries, and with agencies and organizations that focus on vocational rehabilitation and work-related training and counseling;
 
-&emsp;&emsp;(C) establish a corps of trained, accessible, and responsive work incentives specialists within the Social Security Administration who will specialize in disability work incentives under subchapters II and XVI of this chapter for the purpose of disseminating accurate information with respect to inquiries and issues relating to work incentives to—
+&emsp;&emsp;(C) establish a corps of trained, accessible, and responsive work incentives specialists within the Social Security Administration who will specialize in disability work incentives under subchapters II and XVI for the purpose of disseminating accurate information with respect to inquiries and issues relating to work incentives to—
 
 &emsp;&emsp;&emsp;(i) disabled beneficiaries;
 
-&emsp;&emsp;&emsp;(ii) benefit applicants under subchapters II and XVI of this chapter; and
+&emsp;&emsp;&emsp;(ii) benefit applicants under subchapters II and XVI; and
 
 &emsp;&emsp;&emsp;(iii) individuals or entities awarded grants under subparagraphs <sup>1</sup> (A) or (B); and
 
@@ -52,15 +52,15 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commissioner may award a grant, cooperative agreement, or contract under this section to a State or a private agency or organization (other than Social Security Administration Field Offices and the State agency administering the State medicaid program under subchapter XIX of this chapter, including any agency or entity described in clause (ii), that the Commissioner determines is qualified to provide the planning, assistance, and information described in paragraph (2)).
+&emsp;&emsp;&emsp;The Commissioner may award a grant, cooperative agreement, or contract under this section to a State or a private agency or organization (other than Social Security Administration Field Offices and the State agency administering the State medicaid program under subchapter XIX, including any agency or entity described in clause (ii), that the Commissioner determines is qualified to provide the planning, assistance, and information described in paragraph (2)).
 
 #### (ii) Agencies and entities described
 
 &emsp;&emsp;&emsp;The agencies and entities described in this clause are the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) Any public or private agency or organization (including Centers for Independent Living established under title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796 et seq.), protection and advocacy organizations, client assistance programs established in accordance with section 112 of the Rehabilitation Act of1973 (29 U.S.C. 732), and State Developmental Disabilities Councils established in accordance with section 6024 <sup>2</sup> of this title) that the Commissioner determines satisfies the requirements of this section.
+&emsp;&emsp;&emsp;&emsp;(I) Any public or private agency or organization (including Centers for Independent Living established under title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796 et seq.), protection and advocacy organizations, client assistance programs established in accordance with section 112 of the Rehabilitation Act of 1973 (29 U.S.C. 732), and State Developmental Disabilities Councils established in accordance with section 6024 <sup>2</sup> of this title) that the Commissioner determines satisfies the requirements of this section.
 
-&emsp;&emsp;&emsp;&emsp;(II) The State agency administering the State program funded under part A of subchapter IV of this chapter.
+&emsp;&emsp;&emsp;&emsp;(II) The State agency administering the State program funded under part A of subchapter IV.
 
 #### (D) Exclusion for conflict of interest
 
@@ -68,7 +68,7 @@
 
 #### (2) Services provided
 
-&emsp;A recipient of a grant, cooperative agreement, or contract to provide benefits planning and assistance shall select individuals who will act as planners and provide information, guidance, and planning to disabled beneficiaries on the—
+&emsp;A recipient of a grant, cooperative agreement, or contract to provide benefits planningand assistance shall select individuals who will act as planners and provide information, guidance, and planning to disabled beneficiaries on the—
 
 &emsp;&emsp;(A) availability and interrelation of any Federal or State work incentives programs designed to assist disabled beneficiaries that the individual may be eligible to participate in;
 
@@ -96,7 +96,7 @@
 
 #### (A) Allocation of costs
 
-&emsp;&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
+&emsp;&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II and amounts made available for the administration of subchapter XVI, and shall be allocated among those amounts as appropriate.
 
 #### (B) Carryover
 
@@ -134,7 +134,7 @@ There are authorized to be appropriated to carry out this section $23,000,000 fo
 
 #### References in Text
 
-Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec.\(a)(1), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
+Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (a)(1), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -146,7 +146,7 @@ Section 212 of Public Law 93–66, referred to in subsec. (d)(2)(B), is set out 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(3). Pub. L. 113–128 substituted "a one-stop delivery system established under section 3151(e) of title 29" for "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)".
+<b>2014</b>—Subsec. (a)(3). Pub. L. 113–128 substituted "a one-stop delivery system established under section3151(e) of title 29" for "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)".
 
 <b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted "Funding" for "Allocation of costs" in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 

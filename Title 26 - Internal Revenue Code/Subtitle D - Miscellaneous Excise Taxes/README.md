@@ -275,17 +275,17 @@ Effective Date.—This section shall apply to calendar years beginning after Dec
 
 Conforming Amendment.—\[Amended section 1395t of Title 42, The Public Health and Welfare.\]"
 
-\[Pub. L. 111–152, title I, §1404(b), Mar. 30, 2010, 124 Stat. 1064, provided that: "The amendments made by this section \[amending section 9008 of Pub. L. 111–148, set out above\] shall take effect as if included in section 9008 of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\]."\]
+\[Pub. L. 111–152, title I, §1404(b), Mar. 30, 2010, 124 Stat. 1064, provided that: "The amendments made by this section \[amending section 9008 of Pub. L. 111–148, set out above\] shall take effect as if included in section9008 of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\]."\]
 
 #### Imposition of Annual Fee on Medical Device Manufacturers and Importers
 
-Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, §10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065.
+Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, §10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065. See section 4191 of this title.
 
 \[Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065, provided that the repeal of section 9009 of Pub. L. 111–148, formerly set out above, is effective as of Mar. 23, 2010.\]
 
 #### Imposition of Annual Fee on Health Insurance Providers
 
-Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017-1019, as amended byPub. L. 111–152, title I, §1406(a), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 114–113, div. P, title II, §201, Dec. 18, 2015, 129 Stat. 3037, provided that:
+Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017–1019, as amended by Pub. L. 111–152, title I, §1406(a), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 114–113, div. P, title II, §201, Dec. 18, 2015, 129 Stat. 3037, provided that:
 
 "(a)
 
@@ -410,7 +410,7 @@ Years after 2018.—In the case of any calendar year beginning after 2018, the a
 
 Tax Treatment of Fees.—The fees imposed by this section—
 
-&emsp;"(1) for purposes of subtitle F of the Internal Revenue Code of 1986, shall be treated as excise taxes withrespect to which only civil actions for refund under procedures of such subtitle shall apply, and
+&emsp;"(1) for purposes of subtitle F of the Internal Revenue Code of 1986, shall be treated as excise taxes with respect to which only civil actions for refund under procedures of such subtitle shall apply, and
 
 &emsp;"(2) for purposes of section 275 of such Code shall be considered to be a tax described in section 275(a)(6).
 

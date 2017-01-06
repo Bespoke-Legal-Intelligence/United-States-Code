@@ -4,17 +4,17 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after June 10, 2014, and biennially thereafter, the Secretary in coordination with the committee, shall submit to Congress and make publicly available a report describing the state of levees in the United States and the effectiveness of the levee safety initiative, including—
+&emsp;Not later than 1 year after December 16, 2016, and biennially thereafter, the Secretary in coordination with the committee, shall submit to Congress and make publicly available a report describing the state of levees in the United States and the effectiveness of the levee safety initiative, including—
 
 &emsp;&emsp;(A) progress achieved in implementing the levee safety initiative;
 
-&emsp;&emsp;(B) State and tribal participation in the levee safety initiative;
+&emsp;&emsp;(B) State, regional, and tribal participation in the levee safety initiative;
 
 &emsp;&emsp;(C) recommendations to improve coordination of levee safety, floodplain management, and environmental protection concerns, including—
 
 &emsp;&emsp;&emsp;(i) identifying and evaluating opportunities to coordinate public safety, floodplain management, and environmental protection activities relating to levees; and
 
-&emsp;&emsp;&emsp;(ii) evaluating opportunities to coordinate environmental permitting processesfor operation and maintenance activities at existing levee projects in compliance with all applicable laws; and
+&emsp;&emsp;&emsp;(ii) evaluating opportunities to coordinate environmental permitting processes for operation and maintenance activities at existing levee projects in compliance with all applicable laws; and
 
 &emsp;&emsp;(D) any recommendations for legislation and other congressional actions necessary to ensure national levee safety.
 
@@ -28,29 +28,45 @@ Not later than 3 years after June 10, 2014, to the maximum extent practicable, t
 
 #### (c) Alignment of Federal programs relating to levees
 
-Not later than 2 years after June 10, 2014, the Comptroller General of the United States shall submit to Congress a report on opportunities for alignment of Federal programs to provide incentives to State, tribal, and local governments and individuals and entities—
+Not later than 2 years after December 16, 2016, the Comptroller General of the United States shall submit to Congress a report on opportunities for alignment of Federal programs to provide incentives to State, regional, tribal, and local governments and individuals and entities—
 
 &emsp;(1) to promote shared responsibility for levee safety;
 
-&emsp;(2) to encourage the development of strong State and tribal levee safety programs;
+&emsp;(2) to encourage the development of strong State, regional, and tribal levee safety programs;
 
 &emsp;(3) to better align the levee safety initiative with other Federal flood risk management programs; and
 
-&emsp;(4) to promote increased levee safety through other Federal programs providing assistance to State and local governments.
+&emsp;(4) to promote increased levee safety through other Federal programs providing assistance to State, regional, tribal, and local governments.
 
 #### (d) Liability for certain levee engineering projects
 
-Not later than 1 year after June 10, 2014, the Secretary shall submit to Congress and make publicly available a report that includes recommendations that identify and address any legal liability associated with levee engineering projects that prevent—
+Not later than 1 year after December 16, 2016, the Secretary shall submit to Congress and make publicly available a report that includes recommendations that identify and address any legal liability associated with levee engineering projects that prevent—
 
 &emsp;(1) levee owners from obtaining needed levee engineering services; or
 
-&emsp;(2) development and implementation of a State or tribal levee safety program.
+&emsp;(2) development and implementation of a State, regional, or tribal levee safety program.
 
-(Pub. L. 110–114, title IX, §9006, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1299.)
+(Pub. L. 110–114, title IX, §9006, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1299; amended Pub. L. 114–322, title I, §1130(d), Dec. 16, 2016, 130 Stat. 1652.)
 
 #### Prior Provisions
 
 A prior section 9006 of Pub. L. 110–114 was renumbered section 9008, and is classified to section 3305 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–322, §1130(d)(1)(A), substituted "1 year after December 16, 2016" for "1 year after June 10, 2014" in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 114–322, §1130(d)(1)(B), substituted "State, regional, and tribal" for "State and tribal".
+
+Subsec. (c). Pub. L. 114–322, §1130(d)(2)(A), in introductory provisions, substituted "2 years after December 16, 2016" for "2 years after June 10, 2014" and "State, regional, tribal, and local" for "State, tribal, and local".
+
+Subsec. (c)(2). Pub. L. 114–322, §1130(d)(2)(B), substituted "State, regional, and tribal" for "State and tribal".
+
+Subsec. (c)(4). Pub. L. 114–322, §1130(d)(2)(C), substituted "State, regional, tribal, and local" for "State and local".
+
+Subsec. (d). Pub. L. 114–322, §1130(d)(3)(A), substituted "1 year after December 16, 2016" for "1 year after June 10, 2014" in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 114–322, §1130(d)(3)(B), substituted "State, regional, or tribal" for "State or tribal".
 
 #### "Secretary" Defined
 

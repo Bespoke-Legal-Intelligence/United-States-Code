@@ -16,7 +16,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 #### (1) In general
 
-&emsp;The requirement established in subsection (a) of this section for the Secretary does not apply if any or all of the following conditions are met:
+&emsp;The requirement established in subsection (a) for the Secretary does not apply if any or all of the following conditions are met:
 
 &emsp;&emsp;(A) The preponderance of scientific research indicates that the risk of the transmission of HIV disease pursuant to the intravenous abuse of drugs is minimal.
 
@@ -32,7 +32,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 #### (1) In general
 
-&emsp;In carrying out the requirement established in subsection (a) of this section, the Secretaryshall, after consultation with the National Commission on Acquired Immune Deficiency Syndrome, by regulation issue such conditions for treatment programs to obtain authorization from the Secretary to provide interim maintenance treatment as may be necessary to carry out the purpose described in such subsection. Such conditions shall include conditions for preventing the unauthorized use of methadone.
+&emsp;In carrying out the requirement established in subsection (a), the Secretary shall, after consultation with the National Commission on Acquired Immune Deficiency Syndrome, by regulation issue such conditions for treatment programs to obtain authorization from the Secretary to provide interim maintenance treatment as may be necessary to carry out the purpose described in such subsection. Such conditions shall include conditions for preventing the unauthorized use of methadone.
 
 #### (2) Counseling on HIV disease
 
@@ -54,7 +54,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 For purposes of this section:
 
-&emsp;(1) The term "interim maintenance services" means the provision of methadone in a treatment program under the circumstances described in paragraphs (1) and (2) of subsection (a) of this section.
+&emsp;(1) The term "interim maintenance services" means the provision of methadone in a treatment program under the circumstances described in paragraphs (1) and (2) of subsection (a).
 
 &emsp;(2) The term "HIV disease" means infection with the etiologic agent for acquired immune deficiency syndrome.
 

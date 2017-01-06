@@ -2,7 +2,7 @@
 
 #### (a) Rules, regulations, and procedures; Environmental Protection Agency, notification; quality of environment, publication of comments; emergency preclusion of review by Environmental Protection Agency
 
-The Administrator may promulgate such rules, regulations, and procedures as may benecessary to carry out the functions vested in him: <i>Provided</i>, That:
+The Administrator may promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him: <i>Provided</i>, That:
 
 &emsp;(1) The Administrator shall, before promulgating proposed rules, regulations, or policies affecting the quality of the environment, provide a period of not less than five working days during which the Administrator of the Environmental Protection Agency may provide written comments concerning the impact of such rules, regulations, or policies on the quality of the environment. Such comments shall be published together with publication of notice of the proposed action.
 
@@ -22,7 +22,7 @@ Judicial review of administrative rulemaking of general and national applicabili
 
 #### (l) Authority and responsibility of General Counsel
 
-Effective beginning July 1, 1977, amounts authorized to be appropriated under this chapter or any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.
+Effective beginning July 1, 1977, amounts authorized to be appropriated under this chapteror any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.
 
 (Pub. L. 93–275, §7, May 7, 1974, 88 Stat. 100; Pub. L. 94–385, title I, §§103–106, Aug. 14, 1976, 90 Stat. 1127–1129; Pub. L. 95–70, §8, July 21, 1977, 91 Stat. 277; Pub. L. 95–91, title VII, §709(a)(2), Aug. 4, 1977, 91 Stat. 607.)
 
@@ -32,7 +32,7 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is P
 
 #### Amendments
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–91, §709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
+<b>1977</b>—Subsec. (a). Pub. L. 95–91, §709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
 
 Subsec. (b). Pub. L. 95–91, §709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein "any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5 pursuant to this chapter" for "the rules, regulations, or orders described in paragraph (A)" and "subsection (c)" for "paragraph (2) of this subsection".
 

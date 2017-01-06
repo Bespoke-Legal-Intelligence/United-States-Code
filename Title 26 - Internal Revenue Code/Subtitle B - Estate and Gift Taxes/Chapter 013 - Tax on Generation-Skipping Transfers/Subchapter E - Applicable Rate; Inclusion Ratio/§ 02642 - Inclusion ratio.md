@@ -254,7 +254,7 @@ Except as provided in regulations—
 
 &emsp;An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor's unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388-519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
 
 #### Amendments
 

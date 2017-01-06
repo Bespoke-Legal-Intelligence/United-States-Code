@@ -34,7 +34,7 @@ Subject to the availability of appropriations for this purpose, the Corporation 
 
 As part of the provision of assistance under subsection (a), and in providing approved national service positions under subsection (b), the Corporation shall—
 
-&emsp;(1) approve the provision of national service educational awards described in division D of this subchapter for the participants who serve in national service programs carried out using such assistance; and
+&emsp;(1) approve the provision of national service educational awards described in division D for the participants who serve in national service programs carried out using such assistance; and
 
 &emsp;(2) deposit in the National Service Trust established in section 12601(a) of this title an amount equal to the product of—
 
@@ -68,7 +68,7 @@ As part of the provision of assistance under subsection (a), and in providing ap
 
 #### (1) Requirements
 
-&emsp;Except as provided in section 12594 of this title, the Corporation share of the cost (including the costs of member living allowances, employment-related taxes, health care coverage, and workers' compensation and other necessary operation costs) of carrying out a national service program that receives the assistance under subsection (a) of this section, whether the assistance is provided directly or as a subgrant from the original recipient of the assistance, may not exceed 75 percent of such cost.
+&emsp;Except as provided in section 12594 of this title, the Corporation share of the cost (including the costs of member living allowances, employment-related taxes, health care coverage, and workers' compensation and other necessary operation costs) of carrying out a national service program that receives the assistance under subsection (a), whether the assistance is provided directly or as a subgrant from the original recipient of the assistance, may not exceed 75 percent of such cost.
 
 #### (2) Calculation
 

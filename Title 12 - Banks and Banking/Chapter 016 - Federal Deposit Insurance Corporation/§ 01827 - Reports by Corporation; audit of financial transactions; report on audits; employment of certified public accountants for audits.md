@@ -120,7 +120,7 @@ Subsec. (h). Pub. L. 106–569, §1104(b), struck out subsec. (h) which related 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of "the Deposit Insurance Fund" for "BIF, SAIF," in heading and "the Deposit Insurance Fund" for "the Bank Insurance Fund, the Savings Association Insurance Fund," wherever appearing in par. (1), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of "the Deposit Insurance Fund" for "the Bank Insurance Fund, the Savings Association Insurance Fund," in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of "the Deposit Insurance Fund"for "the Bank Insurance Fund, the Savings Association Insurance Fund," in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1991</b>—Subsec. (h). Pub. L. 102–242 added subsec. (h).
 

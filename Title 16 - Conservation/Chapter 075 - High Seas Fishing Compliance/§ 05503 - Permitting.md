@@ -6,7 +6,7 @@ No high seas fishing vessel shall engage in harvesting operations on the high se
 
 #### (b) Eligibility
 
-(1) Any vessel of the United States is eligible to receive a permit under this section, unless the vessel was previously authorized to be used for fishing on the high seas by a foreign nation, and
+(1) Any vessel of the United States is eligible to receive a permit under this section, unlessthe vessel was previously authorized to be used for fishing on the high seas by a foreign nation, and
 
 &emsp;(A) the foreign nation suspended such authorization because the vessel undermined the effectiveness of international conservation and management measures, and the suspension has not expired; or
 

@@ -50,7 +50,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 (2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
-(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conductdischarge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
+(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
 (B) If administrative separation of a member from active duty is proposed on a basis that includes a dependent-abuse offense and the proposed administrative separation is disapproved by competent authority under applicable regulations, payment of transitional compensation in such case shall cease.
 
@@ -94,7 +94,7 @@ Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulationsto carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -110,7 +110,7 @@ Dependent Child Defined.—In this section, the term "dependent child", with res
 
 (m)
 
-Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
+Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents orformer dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
 
 (2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
 
@@ -142,7 +142,7 @@ Subsec. (m). Pub. L. 108–136, §573(a), added subsec. (m).
 
 <b>2002</b>—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)"after "such compensation shall" and inserted before period at end ", including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)" after "such compensation shall" and inserted before period at end ", including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
 
 Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted "is or, but for subsection (g), would be eligible" for "(but for subsection (g)) would be eligible" and "compensation under this section shall" for "such compensation shall".
 
@@ -174,7 +174,7 @@ Subsec. (e). Pub. L. 103–337, §535(a), amended subsec. (e) generally. Prior t
 
 "(e)
 
-Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section shall commence as of the date of the discontinuance of the member's pay and allowances pursuant to the separation or sentencing of the member and, except as provided in paragraph (2), shall be paid for a period of 36 months.
+Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section shall commence as of the date of the discontinuance of the member's pay and allowances pursuant tothe separation or sentencing of the member and, except as provided in paragraph (2), shall be paid for a period of 36 months.
 
 "(2) If as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 

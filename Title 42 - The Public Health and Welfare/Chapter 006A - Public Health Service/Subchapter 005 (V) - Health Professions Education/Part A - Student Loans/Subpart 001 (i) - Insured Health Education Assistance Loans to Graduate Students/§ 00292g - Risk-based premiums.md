@@ -2,15 +2,15 @@
 
 #### (a) Authority
 
-With respect to a loan made under this subpart on or after January 1, 1993, the Secretary, in accordance with subsection (b) of this section, shall assess a risk-based premium on an eligible borrower and, if required under this section, an eligible institution that is based on the default rate of the eligible institution involved (as defined in section 292o of this title).
+With respect to a loan made under this subpart on or after January 1, 1993, the Secretary, in accordance with subsection (b), shall assess a risk-based premium on an eligible borrower and, if required under this section, an eligible institution that is based on the default rate of the eligible institution involved (as defined in section 292o of this title).
 
 #### (b) Assessment of premium
 
-Except as provided in subsection (d)(2) of this section, the risk-based premium to be assessed under subsection (a) of this section shall be as follows:
+Except as provided in subsection (d)(2), the risk-based premium to be assessed under subsection (a) shall be as follows:
 
 #### (1) Low-risk rate
 
-&emsp;With respect to an eligible borrower seeking to obtain a loan for attendance at an eligible institution that has a default rate of not to exceed five percent, such borrower shall be assessed a risk-based premium in an amount equal to 6 percent of the principal amount of the loan.
+&emsp;With respect to an eligible borrower seeking to obtain a loan for attendance at an eligibleinstitution that has a default rate of not to exceed five percent, such borrower shall be assessed a risk-based premium in an amount equal to 6 percent of the principal amount of the loan.
 
 #### (2) Medium-risk rate
 
@@ -56,15 +56,15 @@ Lenders shall reduce by 50 percent the risk-based premium to eligible borrowers 
 
 #### (2) Exceptions
 
-&emsp;In carrying out this section with respect to an institution, the Secretary may grant an institution a waiver of requirements of paragraphs (2) through (4) of subsection (b) of this section if the Secretary determines that the default rate for such institution is not an accurate indicator because the volume of the loans under this subpart made by such institution has been insufficient.
+&emsp;In carrying out this section with respect to an institution, the Secretary may grant an institution a waiver of requirements of paragraphs (2) through (4) of subsection (b) if the Secretary determines that the default rate for such institution is not an accurate indicator because the volume of the loans under this subpart made by such institution has been insufficient.
 
 #### (3) Transition for certain institutions
 
 &emsp;During the 3-year period beginning on October 13, 1992—
 
-&emsp;&emsp;(A) subsection (b)(4) of this section shall not apply with respect to any eligible institution that is a Historically Black College or University; and
+&emsp;&emsp;(A) subsection (b)(4) shall not apply with respect to any eligible institution that is a Historically Black College or University; and
 
-&emsp;&emsp;(B) any such institution that has a default rate in excess of 20 percent, and any eligible borrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) of this section to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
+&emsp;&emsp;(B) any such institution that has a default rate in excess of 20 percent, and any eligible borrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
 
 #### (e) Payoff to reduce risk category
 

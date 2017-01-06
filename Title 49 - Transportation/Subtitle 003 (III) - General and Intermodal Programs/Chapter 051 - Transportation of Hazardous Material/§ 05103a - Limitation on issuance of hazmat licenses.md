@@ -18,7 +18,7 @@ Hazardous Materials Described.—The limitation in subsection (a) shall apply wi
 
 (c)
 
-Recommendations on Chemical and Biological Materials.—The Secretary of Health and Human Services shall recommend to the Secretary of Transportation any chemical or biological material or agent for regulation as a hazardous material under section 5103(a) if the Secretary of Health and Human Services determines that such material or agent poses a significant risk to the health of individuals.
+Recommendations on Chemical and Biological Materials.—The Secretary of Health and Human Services shall recommend to the Secretary of Transportation any chemical or biological material or agent for regulation as ahazardous material under section 5103(a) if the Secretary of Health and Human Services determines that such material or agent poses a significant risk to the health of individuals.
 
 (d)
 
@@ -106,7 +106,7 @@ Clarification of term defined in regulations.—The term "transportation securit
 
 &emsp;(4)
 
-Background check capacity.—Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprinting locations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver's licenses who are applying to renew hazardous materials endorsements.
+Background check capacity.—Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House ofRepresentatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprinting locations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver's licenses who are applying to renew hazardous materials endorsements.
 
 &emsp;(5)
 

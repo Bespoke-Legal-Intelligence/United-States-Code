@@ -6,7 +6,7 @@ Any contract for loans, contributions, sale, or lease pursuant to this chapter s
 
 #### (b) Exception for volunteers
 
-Subsection (a) of this section and the provisions relating to wages (pursuant to subsection (a) of this section) in any contract for loans, annual contributions, sale, or lease pursuant to this chapter, shall not apply to any individual that—
+Subsection (a) and the provisions relating to wages (pursuant to subsection (a)) in any contract for loans, annual contributions, sale, or lease pursuant to this chapter, shall not apply to any individual that—
 
 &emsp;(1) performs services for which the individual volunteered;
 
@@ -24,7 +24,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
-&emsp;&emsp;(B) participate in an economic self-sufficiency program (as that term is defined in subsection (g) of this section) for 8 hours per month.
+&emsp;&emsp;(B) participate in an economic self-sufficiency program (as that term is defined in subsection (g)) for 8 hours per month.
 
 #### (2) Exemptions
 
@@ -62,7 +62,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 &emsp;&emsp;&emsp;&emsp;(III) that, unless the resident enters into an agreement under clause (ii) of this subparagraph, the resident's lease will not be renewed; and
 
-&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of the lease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
+&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of thelease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
 
 #### (4) Ineligibility for occupancy for noncompliance
 
@@ -124,7 +124,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (A) Requirement
 
-&emsp;&emsp;A public housing agency providing public housing dwelling units or tenant-based assistance under section 1437f of this title for covered families shall make its best efforts to enter into such cooperation agreements, with State, local, and other agencies providing assistance to covered families under welfare or public assistance programs, as may be necessary, to provide for such agencies to transfer information to facilitate administration of subsection (c) of this section and paragraphs (2), (3), and (4) of this subsection and other information regarding rents, income, and assistance that may assist a public housing agency or welfare or public assistance agency in carrying out its functions.
+&emsp;&emsp;A public housing agency providing public housing dwelling units or tenant-based assistance under section 1437f of this title for covered families shall make its best efforts to enter into such cooperation agreements, with State, local, and other agencies providing assistance to covered families under welfare or public assistance programs, as may be necessary, to provide for such agencies to transfer information to facilitate administration of subsection (c) and paragraphs (2), (3), and (4) of this subsection and other information regarding rents, income, and assistance that may assist a public housing agency or welfare or public assistance agency in carrying out its functions.
 
 #### (B) Contents
 
@@ -136,7 +136,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (e) Lease provisions
 
-A public housing agency shall incorporate into leases under section 1437d(l) of this title and into agreements for the provision of tenant-based assistance under section 1437f of this title, provisions incorporating the conditions under subsection (d) of this section.
+A public housing agency shall incorporate into leases under section 1437d(l) of this title and into agreements for the provision of tenant-based assistance under section 1437f of this title, provisions incorporating the conditions under subsection (d).
 
 #### (f) Treatment of income
 

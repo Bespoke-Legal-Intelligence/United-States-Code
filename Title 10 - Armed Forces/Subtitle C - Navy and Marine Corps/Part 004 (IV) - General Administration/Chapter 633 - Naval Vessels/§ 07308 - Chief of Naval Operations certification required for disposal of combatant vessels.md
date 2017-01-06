@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, no combatant vessel of the Navy may 
 
 #### Prior Provisions
 
-A prior section 7308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 453; Dec. 12, 1980, Pub. L. 96–513, title V, §513(29), 94 Stat. 2933; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(6), 102 Stat. 2059; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §1427, 104 Stat. 1685, related to transfer or gift of obsolete, condemned, and captured vessels, prior to repeal by Pub. L. 103–160, §824(b).
+A prior section 7308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 453; Dec. 12, 1980, Pub. L. 96–513, title V, §513(29),94 Stat. 2933; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(6), 102 Stat. 2059; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §1427, 104 Stat. 1685, related to transfer or gift of obsolete, condemned, and captured vessels, prior to repeal by Pub. L. 103–160, §824(b).
 

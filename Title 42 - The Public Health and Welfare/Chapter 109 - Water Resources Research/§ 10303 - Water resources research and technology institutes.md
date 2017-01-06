@@ -28,7 +28,7 @@ Each institute shall—
 
 #### (c) Grants; matching funds
 
-From the sums appropriated pursuant to subsection (f) of this section, the Secretary shall make grants to each institute to be matched on a basis of no less than 2 non-Federal dollars for every 1 Federal dollar, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.
+From the sums appropriated pursuant to subsection (f) of this section, the Secretary shallmake grants to each institute to be matched on a basis of no less than 2 non-Federal dollars for every 1 Federal dollar, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.
 
 #### (d) Submission and approval of water research program; requisite assurances
 
@@ -84,7 +84,7 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 &emsp;Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
 
-(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376; Pub. L. 106–374, Oct. 27, 2000, 114 Stat. 1434; Pub. L. 109–471, §2(a)–(e), Jan. 11, 2007, 120 Stat. 3552, 3553.)
+(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28,1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376; Pub. L. 106–374, Oct. 27, 2000, 114 Stat. 1434; Pub. L. 109–471, §2(a)–(e), Jan. 11, 2007, 120 Stat. 3552, 3553.)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Pub. L. 101–397, §2, Sept. 28, 1990, 104 Stat. 854, provided that:
 
 "(b) The water resources research authorized in this section shall be undertaken under such rules and regulations as the Secretary deems appropriate and shall be carried out in close consultation and collaboration with the institutes established pursuant to Public Law 98–242 \[42 U.S.C. 10301 et seq.\], to the extent such research work affects the State in which the institute exists, and to the extent such institute agrees to consult and collaborate.
 
-"(c) For the purposes of carrying out this section, there is authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for each of the fiscal years 1991 through 1995."
+"(c) For the purposes of carrying out this section, there is authorized to be appropriated to the Secretaryof the Interior the sum of $10,000,000 for each of the fiscal years 1991 through 1995."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be ", and".</i>
 

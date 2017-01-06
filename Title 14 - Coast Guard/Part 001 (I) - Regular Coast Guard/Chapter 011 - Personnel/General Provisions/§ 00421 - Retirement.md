@@ -4,7 +4,7 @@
 
 (b) Where an officer is entitled, under any provision of law, to retire with one grade higher than the grade in which serving at the time of retirement, the next higher grade in the case of captain shall be rear admiral (lower half), and the next higher grade in the case of commissioned warrant officer shall be lieutenant (junior grade).
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 524; Pub. L. 97–417, §2(10), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557,§15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–348, title II, §205(b)(10), July 1, 1986, 100 Stat. 700.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 524; Pub. L. 97–417, §2(10), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–348, title II, §205(b)(10), July 1, 1986, 100 Stat. 700.)
 
 #### Historical and Revision Notes
 

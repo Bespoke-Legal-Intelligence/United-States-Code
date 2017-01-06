@@ -8,15 +8,15 @@ The period during which payments are made to a public entity from a grant under 
 
 #### (1) In general
 
-&emsp;The Secretary shall, upon the request of a public entity receiving a grant under section 290ff(a) of this title—
+&emsp;The Secretary shall, upon the request of a public entity, regardless of whether such public entity is receiving a grant under section 290ff(a) of this title—
 
-&emsp;&emsp;(A) provide technical assistance to the entity regarding the process of submitting tothe Secretary applications for grants under section 290ff(a) of this title; and
+&emsp;&emsp;(A) provide technical assistance to the entity regarding the process of submitting to the Secretary applications for grants under section 290ff(a) of this title; and
 
-&emsp;&emsp;(B) provide to the entity training and technical assistance with respect to the planning, development, and operation of systems of care pursuant to section 290ff–1 of this title.
+&emsp;&emsp;(B) provide to the entity training and technical assistance with respect to the planning, development, and operation of systems of care described in section 290ff–1 of this title.
 
 #### (2) Authority for grants and contracts
 
-&emsp;The Secretary may provide technical assistance under subsection (a) of this section directly or through grants to, or contracts with, public and nonprofit private entities.
+&emsp;The Secretary may provide technical assistance under subsection (a) directly or through grants to, or contracts with, public and nonprofit private entities.
 
 #### (c) Evaluations and reports by Secretary
 
@@ -26,13 +26,13 @@ The period during which payments are made to a public entity from a grant under 
 
 #### (2) Report to Congress
 
-&emsp;The Secretary shall, not later than 1 year after the date on which amounts are first appropriated under subsection (c) of this section, and annually thereafter, submit to the Congress a report summarizing evaluations carried out pursuant to paragraph (1) during the preceding fiscal year and making such recommendations for administrative and legislative initiatives with respect to this section as the Secretary determines to be appropriate.
+&emsp;The Secretary shall, not later than 1 year after the date on which amounts are first appropriated under subsection (c), and annually thereafter, submit to the Congress a report summarizing evaluations carried out pursuant to paragraph (1) during the preceding fiscal year and making such recommendations for administrative and legislative initiatives with respect to this section as the Secretary determines to be appropriate.
 
 #### (d) Definitions
 
 For purposes of this part:
 
-&emsp;(1) The term "child" means an individual not more than 21 years of age.
+&emsp;(1) The term "child" means an individual through the age of 21 years.
 
 &emsp;(2) The term "family", with respect to a child provided access to a system of care under section 290ff–1(a) of this title, means—
 
@@ -52,19 +52,27 @@ Nothing in this part shall be construed as limiting the rights of a child with a
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+&emsp;For the purpose of carrying out this part, there are authorized to be appropriated $119,026,000 for each of fiscal years 2018 through 2022.
 
 #### (2) Limitation regarding technical assistance
 
-&emsp;Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b) of this section.
+&emsp;Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b).
 
-(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175.)
+(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(d), Dec. 13, 2016, 130 Stat. 1262.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–255, §10001(d)(1)(A), substituted ", regardless of whether such public entity is receiving a grant under section 290ff(a) of this title" for "receiving a grant under section 290ff(a) of this title" in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 114–255, §10001(d)(1)(B), substituted "described in" for "pursuant to".
+
+Subsec. (d)(1). Pub. L. 114–255, §10001(d)(2), substituted "through the age of 21 years" for "not more than 21 years of age".
+
+Subsec. (f)(1). Pub. L. 114–255, §10001(d)(3), substituted "$119,026,000 for each of fiscal years 2018 through 2022" for "$100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003".
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–310, §3105(c), substituted "6 fiscal years" for "5 fiscal years".
 

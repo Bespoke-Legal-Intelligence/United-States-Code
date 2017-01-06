@@ -18,7 +18,7 @@ For the purposes of this subchapter, a fur product shall be considered to be mis
 
 &emsp;&emsp;(F) the name of the country of origin of any imported furs used in the fur product;
 
-&emsp;(3) if the label required by paragraph (2)(A) of this section sets forth the name or names of any animal or animals other than the name or names provided for in such paragraph.
+&emsp;(3) if the label required by paragraph (2)(A) of this section sets forth the name or names ofany animal or animals other than the name or names provided for in such paragraph.
 
 (Aug. 8, 1951, ch. 298, §4, 65 Stat. 177.)
 

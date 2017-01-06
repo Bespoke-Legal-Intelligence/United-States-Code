@@ -48,7 +48,7 @@ For purposes of this section, the term "transitional area" means, subject to sub
 
 #### (A) Formula grants; supplemental grants
 
-&emsp;&emsp;The provisions of section 300ff–13 of this title apply with respect to grants under subsection (a) to the same extent and in thesame manner as such provisions apply with respect to grants under subpart I, subject to subparagraphs (B) and (C).
+&emsp;&emsp;The provisions of section 300ff–13 of this title apply with respect to grants under subsection (a) to the same extent and in the same manner as such provisions apply with respect to grants under subpart I, subject to subparagraphs (B) and (C).
 
 #### (B) Formula grants; increase in grant
 

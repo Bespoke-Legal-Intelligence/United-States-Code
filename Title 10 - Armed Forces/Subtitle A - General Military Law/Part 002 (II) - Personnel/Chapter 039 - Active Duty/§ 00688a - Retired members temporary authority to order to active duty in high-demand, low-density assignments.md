@@ -36,7 +36,7 @@ High-Demand, Low-Density Military Capability Defined.—In this section, the ter
 
 <b>2006</b>—Pub. L. 109–364, §621(d)(2)(A), substituted "Retired members: temporary authority to order to active duty in high-demand, low-density assignments" for "Retired aviators: temporary authority to order to active duty" in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §621(b)(1), in first sentence, substituted "The Secretary of a military department may order to active duty a retired member who agrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements" for "The Secretary of a military department may order to active duty a retired officer having expertise as an aviator to fill staff positions normally filled by aviators on active duty" and, in second sentence, substituted "member" for "officer" in two places.
+Subsec. (a). Pub. L. 109–364, §621(b)(1), in first sentence, substituted "The Secretary of a military department may order to active duty a retired member who agrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetimerequirements" for "The Secretary of a military department may order to active duty a retired officer having expertise as an aviator to fill staff positions normally filled by aviators on active duty" and, in second sentence, substituted "member" for "officer" in two places.
 
 Subsec. (b). Pub. L. 109–364, §621(b)(2), substituted "a member" for "an officer".
 

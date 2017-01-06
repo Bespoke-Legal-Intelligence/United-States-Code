@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and section 2808 of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
+Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and section 2808 of thistitle, referred to in subsec. (a)(2), were repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
 #### Codification
 
@@ -20,7 +20,7 @@ Section was enacted as part of the Headstart, Economic Opportunity, and Communit
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–341, §3(d)(1), inserted "of such Act" after "section 221".
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–341, §3(d)(1), inserted "of this title" after "section 2808".
 
 Subsec. (c). Pub. L. 94–341, §3(d)(2), added subsec. (c).
 

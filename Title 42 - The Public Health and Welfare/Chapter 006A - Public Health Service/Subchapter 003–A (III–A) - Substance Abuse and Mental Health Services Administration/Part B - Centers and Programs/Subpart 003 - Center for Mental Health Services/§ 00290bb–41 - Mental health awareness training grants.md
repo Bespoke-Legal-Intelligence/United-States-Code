@@ -1,0 +1,64 @@
+### §290bb–41. Mental health awareness training grants
+
+#### (a) In general
+
+The Secretary shall award grants in accordance with the provisions of this section.
+
+#### (b) Mental health awareness training grants
+
+#### (1) In general
+
+&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms of childhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identifyand appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
+
+#### (2) Emergency services personnel
+
+&emsp;In this subsection, the term "emergency services personnel" includes paramedics, firefighters, and emergency medical technicians.
+
+#### (3) Distribution of awards
+
+&emsp;The Secretary shall ensure that such grants awarded under this subsection are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+
+#### (4) Application
+
+&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that desires a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received under a grant under this subsection.
+
+#### (5) Use of funds
+
+&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity receiving a grant under this subsection shall use funds from such grant for evidence-based programs that provide training and education in accordance with paragraph (1) on matters including—
+
+&emsp;&emsp;(A) recognizing the signs and symptoms of mental illness; and
+
+&emsp;&emsp;(B)(i) resources available in the community for individuals with a mental illness and other relevant resources; or
+
+&emsp;&emsp;(ii) safely de-escalating crisis situations involving individuals with a mental illness.
+
+#### (6) Evaluation
+
+&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that receives a grant under this subsection shall prepare and submit an evaluation to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including an evaluation of activities carried out with funds received under the grant under this subsection and a process and outcome evaluation.
+
+#### (7) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $14,693,000 for each of fiscal years 2018 through 2022.
+
+(July 1, 1944, ch. 373, title V, §520J, as added Pub. L. 106–310, div. B, title XXXII, §3213, Oct. 17, 2000, 114 Stat. 1206; amended Pub. L. 114–255, div. B, title IX, §9010, Dec. 13, 2016, 130 Stat. 1244.)
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–255, §9010(1), inserted "Mental health awareness" before "training" in section catchline.
+
+Subsec. (b). Pub. L. 114–255, §9010(2)(A), substituted "health" for "illness" in heading.
+
+Subsec. (b)(1). Pub. L. 114–255, §9010(2)(B), inserted "veterans, law enforcement, and other categories of individuals, as determined by the Secretary," after "emergency services personnel".
+
+Subsec. (b)(5). Pub. L. 114–255, §9010(2)(C), substituted "for evidence-based programs that provide training and education in accordance with paragraph (1) on matters including" for "to" in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
+
+"(A) train teachers and other relevant school personnel to recognize symptoms of childhood and adolescent mental disorders and appropriately respond;
+
+"(B) train emergency services personnel to identify and appropriately respond to persons with a mental illness; and
+
+"(C) provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.".
+
+Subsec. (b)(7). Pub. L. 114–255, §9010(2)(D), substituted "$14,693,000 for each of fiscal years 2018 through 2022." for ", $25,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2003."
+
+<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
+

@@ -8,17 +8,17 @@
 
 #### (2) Election
 
-&emsp;This section shall not apply in the case of a physician who elects under subsection\(a)(1)(A)(ii) of section 1395w–3b of this title for that section to apply instead of this section for the payment for drugs and biologicals.
+&emsp;This section shall not apply in the case of a physician who elects under subsection (a)(1)(A)(ii) of section 1395w–3b of this title for that section to apply instead of this section for the payment for drugs and biologicals.
 
 #### (b) Payment amount
 
 #### (1) In general
 
-&emsp;Subject to paragraph (7) and subsections (d)(3)(C) and (e) of this section, the amount of payment determined under this section for the billing and payment code for a drug or biological (based on a minimum dosage unit) is, subject to applicable deductible and coinsurance—
+&emsp;Subject to paragraph (7) and subsections (d)(3)(C) and (e), the amount of payment determined under this section for the billing and payment code for a drug or biological (based on a minimum dosage unit) is, subject to applicable deductible and coinsurance—
 
-&emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C) of this section), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008;
+&emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C)), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008;
 
-&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D) of this section), 106 percent of the amount determined under paragraph (4); or
+&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4); or
 
 &emsp;&emsp;(C) in the case of a biosimilar biological product (as defined in subsection (c)(6)(H)), the amount determined under paragraph (8).
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) computing the sum of the products (for each National Drug Code assigned to such drug products) of—
 
-&emsp;&emsp;&emsp;(i) the manufacturer's average sales price (as defined in subsection (c) of this section); and
+&emsp;&emsp;&emsp;(i) the manufacturer's average sales price (as defined in subsection (c)); and
 
 &emsp;&emsp;&emsp;(ii) the total number of units specified under paragraph (2) sold; and
 
@@ -54,11 +54,11 @@
 
 #### (B) Wholesale acquisition cost (WAC)
 
-&emsp;&emsp;The wholesale acquisition cost (as defined in subsection (c)(6)(B) of this section) using the methodology applied under paragraph (3) for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008, for all National Drug Codes assigned to such drug or biological product.
+&emsp;&emsp;The wholesale acquisition cost (as defined in subsection (c)(6)(B)) using the methodology applied under paragraph (3) for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008, for all National Drug Codes assigned to such drug or biological product.
 
 #### (5) Basis for payment amount
 
-&emsp;The payment amount shall be determined under this subsection based on information reported under subsection (f) of this section and without regard to any special packaging, labeling, or identifiers on the dosage form or product or package.
+&emsp;The payment amount shall be determined under this subsection based on information reported under subsection (f) and without regard to any special packaging, labeling, or identifiers on the dosage form or product or package.
 
 #### (6) Use of volume-weighted average sales prices in calculation of average sales price
 
@@ -148,11 +148,11 @@
 
 #### (B) Updates in payment amounts
 
-&emsp;&emsp;The payment amounts under subsection (b) of this section shall be updated by the Secretary on a quarterly basis and shall be applied based upon the manufacturer's average sales price calculated for the most recent calendar quarter for which data is available.
+&emsp;&emsp;The payment amounts under subsection (b) shall be updated by the Secretary on a quarterly basis and shall be applied based upon the manufacturer's average sales price calculated for the most recent calendar quarter for which data is available.
 
 #### (C) Use of contractors; implementation
 
-&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by programinstruction or otherwise, any of the provisions of this section.
+&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b). Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
 
 #### (6) Definitions and other rules
 
@@ -264,7 +264,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this subsection, the term "widely available market price" means the price that a prudent physician or supplier would pay for the drug or biological. In determining such price, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
+&emsp;&emsp;In this subsection, the term "widely available market price" means the price that a prudent physician or supplier would pay for the drug or biological. In determining suchprice, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
 
 #### (B) Considerations
 
@@ -304,13 +304,13 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(1) determinations of payment amounts under this section, including the assignment of National Drug Codes to billing and payment codes;
 
-&emsp;(2) the identification of units (and package size) under subsection (b)(2) of this section;
+&emsp;(2) the identification of units (and package size) under subsection (b)(2);
 
 &emsp;(3) the method to allocate rebates, chargebacks, and other price concessions to a quarter if specified by the Secretary;
 
 &emsp;(4) the manufacturer's average sales price when it is used for the determination of a payment amount under this section; and
 
-&emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e) of this section.
+&emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e).
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439.)
 

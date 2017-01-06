@@ -12,7 +12,7 @@
 
 (f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
-(g) Expenses incident to the detail of members under this section shall be paid from any fundsappropriated for the Department of the Air Force.
+(g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 559; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §504(23), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(a)(9), Jan. 6, 2006, 119 Stat. 3441.)
 
@@ -66,7 +66,7 @@ June 19, 1948, ch. 501, §§2, 3, 62 Stat. 478.
 
 In subsection (a), the words "members of the Air Force" are substituted for the words "personnel of the Air Force of the United States, without regard to component".
 
-In subsection (b), the words "is detailed under subsection (a)" are substituted for the words "receives such instruction". The words "as long as the detail" are substituted for the words "equal to the duration of his period of instruction". The words "However, if the detail is for" are substituted for the words "except that where the duration of such training is". The words "other than one of the Regular Air Force on the active list" are inserted, since members of the Regular Air Force on the active list are on continuous active duty. The word "additional" is inserted, since the detail under this section is active duty. The words "the officer may be ordered to that additional duty" are substituted for the words "such subsequent active duty may \* \* \* the officer concerned".
+In subsection (b), the words "is detailed under subsection (a)" are substituted for the words "receives such instruction". The words "as long as the detail" are substituted for the words "equal to the duration of his period of instruction". The words "However, if the detail is for" are substituted for the words "except that where the duration of such training is". The words "other than one of the Regular Air Force on the activelist" are inserted, since members of the Regular Air Force on the active list are on continuous active duty. The word "additional" is inserted, since the detail under this section is active duty. The words "the officer may be ordered to that additional duty" are substituted for the words "such subsequent active duty may \* \* \* the officer concerned".
 
 In subsection (c), the words "of whose Air National Guard he is a member" are substituted for the words "whichever is concerned".
 

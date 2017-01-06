@@ -4,7 +4,7 @@
 
 &emsp;(1) Construct, operate, and maintain, consistent with Minute No. 242, well fields capable of furnishing approximately one hundred and sixty thousand acre-feet of water per year for use in the United States and for delivery to Mexico in satisfaction of the 1944 Mexican Water Treaty.
 
-&emsp;(2) Acquire by purchase, eminent domain, or exchange, to the extent determined by him to be appropriate, approximately twenty-three thousand five hundred acres of lands or interests therein with approximately five miles of the Mexican border on the Yuma Mesa: <i>Pro</i><i>vided, however</i>, That any such lands which are presently owned by the State of Arizona may be acquired or exchanged for Federal lands.
+&emsp;(2) Acquire by purchase, eminent domain, or exchange, to the extent determined by him to be appropriate, approximately twenty-three thousand five hundred acres of lands or interests therein with approximately five miles of the Mexican border on the Yuma Mesa: <i>Provided, however</i>, That any such lands which are presently owned by the State of Arizona may be acquired or exchanged for Federal lands.
 
 &emsp;(3) Any lands removed from the jurisdiction of the Yuma Mesa Irrigation and Drainage District pursuant to clause (2) of this subsection which were available for use under the Gila Reauthorization Act (61 Stat. 628) \[43 U.S.C. 613 et. seq.\], shall be replaced with like lands within or adjacent to the Yuma Mesa division of the project. In the development of these substituted lands or any other lands within the Gila project, the Secretary may provide for full utilization of the Gila Gravity Main Canal in addition to contracted capacities.
 

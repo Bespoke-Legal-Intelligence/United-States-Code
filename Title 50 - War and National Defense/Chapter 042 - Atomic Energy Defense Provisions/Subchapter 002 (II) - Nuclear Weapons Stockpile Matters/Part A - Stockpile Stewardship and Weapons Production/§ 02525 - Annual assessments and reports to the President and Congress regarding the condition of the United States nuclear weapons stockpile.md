@@ -14,7 +14,7 @@ The officials referred to in subsection (a) are the following:
 
 #### (c) Dual validation teams in support of assessments
 
-In support of the assessments required by subsection (a), the Administrator may establishteams, known as "dual validation teams", to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
+In support of the assessments required by subsection (a), the Administrator may establish teams, known as "dual validation teams", to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
 
 &emsp;(1) be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
 

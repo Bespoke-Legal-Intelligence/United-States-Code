@@ -30,7 +30,7 @@
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
-(d)(1) United States coins shall have the inscription "In God We Trust". The obverse side of each coin shall have the inscription "Liberty". The reverse side of each coin shall have the inscriptions "United States of America" and "E Pluribus Unum" and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
+(d)(1) United States coins shall have the inscription "In God We Trust". The obverse side of each coin shall have the inscription "Liberty". The reverse side of each coin shall have the inscriptions "United States of America" and "E Pluribus Unum" and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issuedafter December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
 
 (2) The Secretary shall prepare the devices, models, hubs, and dies for coins, emblems, devices, inscriptions, and designs authorized under this chapter. The Secretary may, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, adopt and prepare new designs or models of emblems or devices that are authorized in the same way as when new coins or devices are authorized. The Secretary may change the design or die of a coin only once within 25 years of the first adoption of the design, model, hub, or die for that coin. The Secretary may procure services under section 3109 of title 5 in carrying out this paragraph.
 
@@ -204,7 +204,7 @@ Sources of bullion.—The Secretary shall obtain silver for minting coins under 
 
 &emsp;(7)
 
-Application in event of the admission of additional states.—If any additional State is admitted into the Union before the end of the 10-year period referred to in paragraph (1), the Secretary of the Treasury may issue quarter dollar coins, in accordance with this subsection, with a design which is emblematic of such State during any 1 year of such 10-year period, in addition to the quarter dollar coins issued during such year in accordance with paragraph (3)(A).
+Application in event of the admission of additional states.—If any additional State is admitted into the Union before the end of the 10-year period referred to in paragraph (1), the Secretary of the Treasury may issue quarter dollar coins, in accordance with this subsection, with a design which is emblematic of such State during any 1 year of such 10-year period, in addition to the quarterdollar coins issued during such year in accordance with paragraph (3)(A).
 
 (m)
 
@@ -422,7 +422,7 @@ Sale of bullion coins.—Each bullion coin issued under this subsection shall be
 
 &emsp;&emsp;(A) the face value of the coins; and
 
-&emsp;&emsp;(B) the cost of designing and issuing the coins (including labor, materials, dies, use ofmachinery, overhead expenses, marketing, and shipping).
+&emsp;&emsp;(B) the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
 
 &emsp;(5)
 
@@ -538,7 +538,7 @@ Coordination.—The Board of Governors of the Federal Reserve System and the Sec
 
 &emsp;&emsp;(E) working closely with any agency, instrumentality, system, or entity referred to in paragraph (1) to facilitate compliance with the requirements of such paragraph; and
 
-&emsp;&emsp;(F) identifying, analyzing, and overcoming barriers to the robust circulation of $1 coins minted under subsections (n) and (o), including the use of demand prediction, improved methods of distribution and circulation, and improved public education and awareness campaigns.
+&emsp;&emsp;(F) identifying, analyzing, and overcoming barriers to the robust circulation of $1 coinsminted under subsections (n) and (o), including the use of demand prediction, improved methods of distribution and circulation, and improved public education and awareness campaigns.
 
 &emsp;(4)
 
@@ -630,7 +630,7 @@ Design requirements.—The $1 coins issued in accordance with paragraph (1) shal
 
 Coin reverse.—The design on the reverse shall bear—
 
-&emsp;&emsp;&emsp;(i) images celebrating the important contributions made by Indian tribes andindividual Native Americans to the development of the United States and the history of the United States;
+&emsp;&emsp;&emsp;(i) images celebrating the important contributions made by Indian tribes and individual Native Americans to the development of the United States and the history of the United States;
 
 &emsp;&emsp;&emsp;(ii) the inscription "$1"; and
 
@@ -764,7 +764,7 @@ Participation.—The Secretary may include participation by District or territor
 
 &emsp;&emsp;(D)
 
-Standards.—Because it is important that the Nation's coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
+Standards.—Because it is important that the Nation's coinage and currency beardignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
 
 &emsp;&emsp;(E)
 
@@ -844,7 +844,7 @@ Site.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The selection of a national park or other national site in each State to be honored with a coin under this subsection shall be made by the Secretary of the Treasury, after consultation with the Secretary of the Interior and the governor or other chief executive of each State with respect to which a coin is to be issued under this subsection, and after giving full and thoughtful consideration tonational sites that are not under the jurisdiction of the Secretary of the Interior so that the national site chosen for each State shall be the most appropriate in terms of natural or historic significance.
+In general.—The selection of a national park or other national site in each State to be honored with a coin under this subsection shall be made by the Secretary of the Treasury, after consultation with the Secretary of the Interior and the governor or other chief executive of each State with respect to which a coin is to be issued under this subsection, and after giving full and thoughtful consideration to national sites that are not under the jurisdiction of the Secretary of the Interior so that the national site chosen for each State shall be the most appropriate in terms of natural or historic significance.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -868,7 +868,7 @@ Selection and approval process.—Recommendations for site selections and design
 
 &emsp;&emsp;(D)
 
-Participation in design.—The Secretary may include participation by officials of the State, artists from the State, engravers of the United States Mint, and members of the general public.
+Participation in design.—The Secretary may include participation by officialsof the State, artists from the State, engravers of the United States Mint, and members of the general public.
 
 &emsp;&emsp;(E)
 
@@ -962,7 +962,7 @@ Silver Bullion Investment Product.—
 
 In general.—The Secretary shall strike and make available for sale such number of bullion coins as the Secretary determines to be appropriate that are likenesses of the quarter dollars issued under subsection (t), each of which shall—
 
-&emsp;&emsp;(A) have a diameter determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches and weigh 5.0 ounces;
+&emsp;&emsp;(A) have a diameter determined by the Secretary that is no less than 2.5 inches andno greater than 3.0 inches and weigh 5.0 ounces;
 
 &emsp;&emsp;(B) contain .999 fine silver;
 
@@ -1040,7 +1040,7 @@ Design.—Coins minted and issued under this subsection shall bear designs on th
 
 Mint facility.—Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, §73001(1), Dec. 4, 2015, 129 Stat. 1785.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6,2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, §73001(1), Dec. 4, 2015, 129 Stat. 1785.)
 
 Historical and Revision Notes<br>1982
 
@@ -1328,7 +1328,7 @@ In General.—To accomplish the goals of this Act \[amending this section and en
 
 &emsp;"(2) solicit input from or otherwise work in conjunction with entities within or outside of the Federal Government including independent research facilities or current or potential suppliers of the metallic material used in volume production of circulating coins,
 
-> to complete the report referred to in this Act \[see section 3 of Pub. L. 111–302, set out as a note below\] and to develop and evaluate the use of new metallic materials.
+> to complete the report referred to in this Act \[see section 3 of Pub. L. 111–302, set out as a note below\] andto develop and evaluate the use of new metallic materials.
 
 "(b)
 
@@ -1472,7 +1472,7 @@ Pub. L. 109–145, title III, Dec. 22, 2005, 119 Stat. 2673, provided that:
 
 &emsp;"(5) Abraham Lincoln gave the ultimate sacrifice for the country he loved, dying from an assassin's bullet on April 15, 1865.
 
-&emsp;"(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a modelfor accomplishing the 'American dream' through honesty, integrity, loyalty, and a lifetime of education.
+&emsp;"(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a model for accomplishing the 'American dream' through honesty, integrity, loyalty, and a lifetime of education.
 
 &emsp;"(7) The year 2009 will be the bicentennial anniversary of the birth of Abraham Lincoln.
 
@@ -1694,7 +1694,7 @@ Funding.—Funds used to complete this study shall be offset from funds from the
 
 #### Deposit of Profits From Sale of Gold to Mint for Commemorative Coin Program
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title V, §523\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: "That profits generated from the sale of gold tothe United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury."
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §523\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: "That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury."
 
 #### Use of Government Platinum Reserves Stockpiled at Mint
 
@@ -1720,7 +1720,7 @@ Findings.—The Congress hereby makes the following findings:
 
 "(b)
 
-Declaration.—It is the sense of the Congress that the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate should not report or otherwise clear for consideration by the House of Representatives or the Senate legislation providing for more than 2 commemorative coin programs for any year, unless the committee determines, on the basis of a recommendation by the Citizens Commemorative Coin Advisory Committee, that extraordinary merit exists for an additional commemorative coin program.
+Declaration.—It is the sense of the Congress that the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate should not report or otherwise clear for consideration by the House of Representatives or the Senate legislation providing for more than 2 commemorative coin programs for any year, unless the committee determines, on thebasis of a recommendation by the Citizens Commemorative Coin Advisory Committee, that extraordinary merit exists for an additional commemorative coin program.
 
 #### "SEC. 302. REPORTS BY RECIPIENTS OF COMMEMORATIVE COIN SURCHARGES.
 
@@ -1755,6 +1755,10 @@ Pub. L. 99–185, §2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: "The Secr
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 114–282, Dec. 16, 2016, 130 Stat. 1441.—Apollo 11 50th Anniversary.
+
+Pub. L. 114–148, Apr. 29, 2016, 130 Stat. 360.—Breast Cancer Awareness.
 
 Pub. L. 114–30, July 6, 2015, 129 Stat. 424.—Boys Town Centennial.
 

@@ -20,7 +20,7 @@
 
 #### (3) Medicare administrative contractor defined
 
-&emsp;For purposes of this subchapter and subchapter XI of this chapter—
+&emsp;For purposes of this subchapter and subchapter XI—
 
 #### (A) In general
 
@@ -28,11 +28,11 @@
 
 #### (B) Appropriate medicare administrative contractor
 
-&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
+&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A or enrolledunder part B, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
 
 #### (4) Functions described
 
-&emsp;The functions referred to in paragraphs (1) and (2) are payment functions (including the function of developing local coverage determinations, as defined in section 1395ff(f)(2)(B) of this title), provider services functions, and functions relating to services furnished to individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, as follows:
+&emsp;The functions referred to in paragraphs (1) and (2) are payment functions (including the function of developing local coverage determinations, as defined in section 1395ff(f)(2)(B) of this title), provider services functions, and functions relating to services furnished to individuals entitled to benefits under part A or enrolled under part B, or both, as follows:
 
 #### (A) Determination of payment amounts
 
@@ -44,7 +44,7 @@
 
 #### (C) Beneficiary education and assistance
 
-&emsp;&emsp;Providing education and outreach to individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and providing assistance to those individuals with specific issues, concerns, or problems.
+&emsp;&emsp;Providing education and outreach to individuals entitled to benefits under part A or enrolled under part B, or both, and providing assistance to those individuals with specific issues, concerns, or problems.
 
 #### (D) Provider consultative services
 
@@ -70,11 +70,11 @@
 
 #### (A) Nonduplication of duties
 
-&emsp;&emsp;In entering into contracts under this section, the Secretary shall assure that functions of medicare administrative contractors in carrying out activities under parts A and B of this subchapter do not duplicate activities carried out under a contract entered into under the Medicare Integrity Program under section 1395ddd of this title. The previous sentence shall not apply with respect to the activity described in section 1395ddd(b)(5) of this title (relating to prior authorization of certain items of durable medical equipment under section 1395m(a)(15) of this title).
+&emsp;&emsp;In entering into contracts under this section, the Secretary shall assure that functions of medicare administrative contractors in carrying out activities under parts A and B do not duplicate activities carried out under a contract entered into under the Medicare Integrity Program under section 1395ddd of this title. The previous sentence shall not apply with respect to the activity described in section 1395ddd(b)(5) of this title (relating to prior authorization of certain items of durable medical equipment under section 1395m(a)(15) of this title).
 
 #### (B) Construction
 
-&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely byreason of having entered into a contract with the Secretary under section 1395ddd of this title.
+&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contract with the Secretary under section 1395ddd of this title.
 
 #### (6) Application of Federal Acquisition Regulation
 
@@ -94,7 +94,7 @@
 
 #### (C) Transfer of functions
 
-&emsp;&emsp;The Secretary may transfer functions among medicare administrative contractors consistent with the provisions of this paragraph. The Secretary shall ensure that performance quality is considered in such transfers. The Secretary shall provide public notice (whether in the Federal Register or otherwise) of any such transfer (including a description of the functions so transferred, a description of the providers of services and suppliers affected by such transfer, and contact information for the contractors involved).
+&emsp;&emsp;The Secretary may transfer functions among medicare administrative contractors consistent with the provisions of this paragraph. The Secretary shall ensure that performance quality is considered in such transfers. The Secretary shall provide public notice (whether in the Federal Register or otherwise) of any such transfer (including a description of the functions so transferred, a description of the providers of services andsuppliers affected by such transfer, and contact information for the contractors involved).
 
 #### (D) Incentives for quality
 
@@ -110,7 +110,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop contract performance requirements to carry out the specific requirements applicable under this subchapter to a function described in subsection (a)(4) of this section and shall develop standards for measuring the extent to which a contractor has met such requirements. Such requirements shall include specific performance duties expected of a medical director of a medicare administrative contractor, including requirements relating to professional relations and the availability of such director to conduct medical determination activities within the jurisdiction of such a contractor.
+&emsp;&emsp;&emsp;The Secretary shall develop contract performance requirements to carry out the specific requirements applicable under this subchapter to a function described in subsection (a)(4) and shall develop standards for measuring the extent to which a contractor has met such requirements. Such requirements shall include specific performance duties expected of a medical director of a medicare administrative contractor, including requirements relating to professional relations and the availability of such director to conduct medical determination activities within the jurisdiction of such a contractor.
 
 #### (ii) Consultation
 
@@ -154,7 +154,7 @@
 
 #### (1) In general
 
-&emsp;A contract with any medicare administrative contractor under this section may contain such terms and conditions as the Secretary finds necessary or appropriate and may provide for advances of funds to the medicare administrative contractor for the making of payments by it under subsection (a)(4)(B) of this section.
+&emsp;A contract with any medicare administrative contractor under this section may contain such terms and conditions as the Secretary finds necessary or appropriate and may provide for advances of funds to the medicare administrative contractor for the making of payments by it under subsection (a)(4)(B).
 
 #### (2) Prohibition on mandates for certain data collection
 
@@ -164,7 +164,7 @@
 
 #### (1) Certifying officer
 
-&emsp;No individual designated pursuant to a contract under this section as a certifying officer shall, in the absence of the reckless disregard of the individual's obligations or the intent by that individual to defraud the United States, be liable with respect to any payments certified by the individual under this section.
+&emsp;No individual designated pursuant to a contract under this section as a certifying officer shall, in the absence of the reckless disregard of the individual's obligations or the intent bythat individual to defraud the United States, be liable with respect to any payments certified by the individual under this section.
 
 #### (2) Disbursing officer
 
@@ -210,13 +210,13 @@
 
 #### (1) Development of information security program
 
-&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) <sup>1</sup> of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
+&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) <sup>1</sup> of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
 
 #### (2) Independent audits
 
 #### (A) Performance of annual evaluations
 
-&emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall undergo an evaluation of the information security of the contractor with respect to such functions under this subchapter. The evaluation shall—
+&emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) (relating to determining and making payments) shall undergo an evaluation of the information security of the contractor with respect to such functions under this subchapter. The evaluation shall—
 
 &emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
 
@@ -226,7 +226,7 @@
 
 #### (i) New contractors
 
-&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as a fiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
+&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) (relating to determining and making payments) as a fiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
 
 #### (ii) Other contractors
 
@@ -254,15 +254,15 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (1) Communication strategy
 
-&emsp;The Secretary shall develop a strategy for communications with individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and with providers of services and suppliers under this subchapter.
+&emsp;The Secretary shall develop a strategy for communications with individuals entitled to benefits under part A or enrolled under part B, or both, and with providers of services and suppliers under this subchapter.
 
 #### (2) Response to written inquiries
 
-&emsp;Each medicare administrative contractor shall, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, provide general written responses (which may be through electronic transmission) in a clear, concise, and accurate manner to inquiries of providers of services, suppliers, and individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, concerning the programs under this subchapter within 45 business days of the date of receipt of such inquiries.
+&emsp;Each medicare administrative contractor shall, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, provide general written responses (which may be through electronic transmission) in a clear, concise, and accurate manner to inquiries of providers of services, suppliers, and individuals entitled to benefits under part A or enrolled under part B, or both, concerning the programs under this subchapter within 45 business days of the date of receipt of such inquiries.
 
 #### (3) Response to toll-free lines
 
-&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
+&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
 
 #### (4) Monitoring of contractor responses
 
@@ -278,11 +278,11 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall establish and make public standards to monitor the accuracy, consistency, and timeliness of the information provided in response to written and telephone inquiries under this subsection. Such standards shall be consistent with the performance requirements established under subsection (b)(3) of this section.
+&emsp;&emsp;&emsp;The Secretary shall establish and make public standards to monitor the accuracy, consistency, and timeliness of the information provided in response to written and telephone inquiries under this subsection. Such standards shall be consistent with the performance requirements established under subsection (b)(3).
 
 #### (ii) Evaluation
 
-&emsp;&emsp;&emsp;In conducting evaluations of individual medicare administrative contractors, the Secretary shall take into account the results of the monitoring conducted under subparagraph (A) taking into account as performance requirements the standards established under clause (i). The Secretary shall, in consultation with organizations representing providers of services, suppliers, and individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, establish standards relating to the accuracy, consistency, and timeliness of the information so provided.
+&emsp;&emsp;&emsp;In conducting evaluations of individual medicare administrative contractors, the Secretary shall take into account the results of the monitoring conducted under subparagraph (A) taking into account as performance requirements the standards established under clause (i). The Secretary shall, in consultation with organizations representing providers of services, suppliers, and individuals entitled to benefits under part A or enrolled under part B, or both, establish standards relating to the accuracy, consistency, and timeliness of the information so provided.
 
 #### (C) Direct monitoring
 
@@ -366,7 +366,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### <i>(ii) Improper payment rate reduction incentives</i>
 
-&emsp;&emsp;&emsp;<i>The Secretary shall provide incentives for medicare administrative contractors to reduce the improper payment error rates in their jurisdictions.</i>
+&emsp;&emsp;&emsp;<i>The Secretary shall provide incentives for medicare administrative contractors to reduce</i><i>the improper payment error rates in their jurisdictions.</i>
 
 #### <i>(iii) Incentives</i>
 
@@ -598,7 +598,7 @@ Study of impact.—Each pilot project shall examine the effect of the proposed g
 
 &emsp;"(5)
 
-Report on pilot projects.—Not later than 6 months after the date of completion of pilot projects carried out under this subsection with respect to a proposed guideline described in paragraph (1), theSecretary shall submit to Congress a report on the pilot projects. Each such report shall include a finding by the Secretary of whether the objectives described in subsection (c) will be met in the implementation of such proposed guideline.
+Report on pilot projects.—Not later than 6 months after the date of completion of pilot projects carried out under this subsection with respect to a proposed guideline described in paragraph (1), the Secretary shall submit to Congress a report on the pilot projects. Each such report shall include a finding by the Secretary of whether the objectives described in subsection (c) will be met in the implementation of such proposed guideline.
 
 "(c)
 

@@ -208,15 +208,15 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 #### (f) Meetings
 
-The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
+The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the generalpublic unless there is a valid reason for an executive session.
 
 #### (g) Compensation and expenses
 
-The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C of this subchapter) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
+The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
 
 #### (h) Hearings and forums
 
-The Council is authorized to hold such hearings and forums as the Council may determineto be necessary to carry out the duties of the Council.
+The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
 (Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, §305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, §415, July 22, 2014, 128 Stat. 1654.)
 

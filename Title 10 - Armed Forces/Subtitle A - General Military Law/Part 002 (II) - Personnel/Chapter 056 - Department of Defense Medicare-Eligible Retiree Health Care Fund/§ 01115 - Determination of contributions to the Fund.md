@@ -20,7 +20,7 @@
 
 &emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the participating uniformed services on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title; and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a singlelevel dollar amount for members of the Selected Reserve of the participating uniformed services who are not otherwise described by subparagraph (A).
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level dollar amount for members of the Selected Reserve of the participating uniformed services who are not otherwise described by subparagraph (A).
 
 > Such single level dollar amounts shall be used for the purposes of subsection (b). The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.
 
@@ -58,7 +58,7 @@ Subsec. (c)(5). Pub. L. 108–375, §725(c)(5), substituted "1116" for "1116(c)"
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136, §722(c), substituted "section 1116(c) of this title" for "section 1116(b) of this title".
 
-Subsec. (c)(1). Pub. L. 108–136, §722(a), inserted at end of concluding provisions "The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurateand appropriate actuarial valuation for that uniformed service."
+Subsec. (c)(1). Pub. L. 108–136, §722(a), inserted at end of concluding provisions "The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service."
 
 Subsec. (c)(1)(B). Pub. L. 108–136, §1045(a)(3), substituted "(other than members" for "and other than members".
 

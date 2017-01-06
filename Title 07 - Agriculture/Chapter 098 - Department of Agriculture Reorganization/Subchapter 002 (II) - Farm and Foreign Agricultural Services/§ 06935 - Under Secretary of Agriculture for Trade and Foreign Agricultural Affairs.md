@@ -28,7 +28,7 @@ In this section, the term "agriculture committees and subcommittees" means—
 
 #### (3) Report
 
-&emsp;Not later than 180 days after February 7, 2014, and before the reorganization describedin paragraph (1) can take effect, the Secretary shall submit to the agriculture committees and subcommittees a report that—
+&emsp;Not later than 180 days after February 7, 2014, and before the reorganization described in paragraph (1) can take effect, the Secretary shall submit to the agriculture committees and subcommittees a report that—
 
 &emsp;&emsp;(A) includes the results of the proposal under this section; and
 

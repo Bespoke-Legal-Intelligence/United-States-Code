@@ -14,7 +14,7 @@
 
 &emsp;(3) section 6101(b) to (d) of title 41, except in the case of stenographic reporting services by an organization.
 
-> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or other statute authorizing the procurement of the services.
+> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or otherstatute authorizing the procurement of the services.
 
 (c) Positions in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service may not be filled under the authority of subsection (b) of this section.
 
@@ -140,7 +140,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement wit
 
 (b) After the date of this order, no agency shall enter into a contingency fee agreement for legal or expert witness services addressed by section 1 of this order, unless the Attorney General has determined that the agency's entry into the agreement is required by law.
 
-(c) Within 90 days after the date of this order, the head of each agency shall notify the Attorney General and the Director of the Office of Management and Budget of any contingency fee agreements for servicesaddressed by section 1 of this order that are in effect as of the date of this order.
+(c) Within 90 days after the date of this order, the head of each agency shall notify the Attorney General and the Director of the Office of Management and Budget of any contingency fee agreements for services addressed by section 1 of this order that are in effect as of the date of this order.
 
 Sec. 3. <i>Definitions</i>. For purposes of this order:
 

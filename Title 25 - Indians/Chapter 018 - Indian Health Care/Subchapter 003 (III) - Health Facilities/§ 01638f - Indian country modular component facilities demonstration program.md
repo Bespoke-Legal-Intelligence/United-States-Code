@@ -42,7 +42,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 #### (1) In general
 
-&emsp;An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>3</sup>
 
 #### (2) Administration
 
@@ -64,7 +64,7 @@ There are authorized to be appropriated $50,000,000 to carry out the demonstrati
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -73,4 +73,6 @@ Section 312 of Pub. L. 94–437 is based on section 146 of title I of S. 1790, O
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "provision of a health care facility".</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

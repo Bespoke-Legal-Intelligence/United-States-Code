@@ -2,7 +2,7 @@
 
 #### (a) Transfer and rights-of-way
 
-The Secretary of the Interior (hereinafter in this section referred to as the "Secretary") is authorized to transfer, without reimbursement, to York County, Virginia, that portion of the existing sewage disposal system, including related improvements and structures, owned by the United States and located within the Colonial National Historical Park, together with such rights-of-way as are determined by the Secretary to be necessary to maintain and operate such system.
+The Secretary of the Interior (hereinafter in this section referred to as the "Secretary") is authorized to transfer, without reimbursement, to York County, Virginia, that portion of the existing sewage disposal system, including related improvements and structures, owned by the United States and located within the ColonialNational Historical Park, together with such rights-of-way as are determined by the Secretary to be necessary to maintain and operate such system.
 
 #### (b) Repair and rehabilitation of system
 
@@ -10,7 +10,7 @@ The Secretary is authorized to enter into a cooperative agreement with York Coun
 
 #### (c) Fees and charges
 
-In consideration for the rights-of-way granted under subsection (a), and in recognition of the National Park Service's contribution authorized under subsection (b), the cooperative agreement under subsection (b) shall provide for a reduction in, or the elimination of, the amountscharged to the National Park Service for its sewage disposal. The cooperative agreement shall also provide for minimizing the impact of the sewage disposal system on the park and its resources. Such system may not be enlarged or substantially altered without National Park Service concurrence.
+In consideration for the rights-of-way granted under subsection (a), and in recognition of the National Park Service's contribution authorized under subsection (b), the cooperative agreement under subsection (b) shall provide for a reduction in, or the elimination of, the amounts charged to the National Park Service for its sewage disposal. The cooperative agreement shall also provide for minimizing the impact of the sewage disposal system on the park and its resources. Such system may not be enlarged or substantially altered without National Park Service concurrence.
 
 #### (d) Inclusion of land in Colonial National Historical Park
 

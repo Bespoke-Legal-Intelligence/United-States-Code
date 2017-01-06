@@ -2,7 +2,7 @@
 
 (a)
 
-Scope.—This section applies to any article or commodity tendered by a producer or vendor for sale or lease to the General Services Administration or to any procurement authority acting under the direction and control of the Administrator of General Services pursuant to this subtitle.
+Scope.—This section applies to any article or commodity tendered by a producer or vendorfor sale or lease to the General Services Administration or to any procurement authority acting under the direction and control of the Administrator of General Services pursuant to this subtitle.
 
 (b)
 
@@ -22,7 +22,7 @@ In general.—The Administrator shall charge the producer or vendor a fee for th
 
 &emsp;(2)
 
-Amount of fee if tests predominantly serve interest of producer or vendor.—Ifthe Administrator determines that conducting the tests predominantly serves the interest of the producer or vendor, the Administrator shall fix the fee in an amount that will recover the costs of conducting the tests, including all components of the costs, determined in accordance with accepted accounting principles.
+Amount of fee if tests predominantly serve interest of producer or vendor.—If the Administrator determines that conducting the tests predominantly serves the interest of the producer or vendor, the Administrator shall fix the fee in an amount that will recover the costs of conducting the tests, including all components of the costs, determined in accordance with accepted accounting principles.
 
 &emsp;(3)
 

@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions; determination of amount; authorized uses
 
-(1) A grant to a hospital under the program shall be subject to such terms and conditions as the Secretary may by regulation prescribe to assure that the grant is used for the purpose for which it was made.
+(1) A grant to a hospital under the program shall be subject to such terms and conditions asthe Secretary may by regulation prescribe to assure that the grant is used for the purpose for which it was made.
 
 (2) The amount of any such grant shall be determined by the Secretary. The recipient of such a grant may use the grant—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service to the delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
 
-&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance of hospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c) of this section; and
+&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance of hospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
 
 &emsp;(D) for such other costs which the Secretary determines may need to be incurred by the grantee in discontinuing hospital services.
 
@@ -30,7 +30,7 @@
 
 (2)(A) The health systems agency for the health service area in which is located a hospital applying for a grant under the program shall (i) in making the review of the applicant's application under section 300l–2(e) <sup>1</sup> of this title, determine the need for each service or part proposed to be discontinued by the applicant, (ii) in the case of an application for the conversion of a facility, determine the need for each service which will be provided as a result of the conversion, and (iii) make a recommendation to the State Agency for the State in which the applicant is located respecting approval by the Secretary of the applicant's application.
 
-(B) A State Agency which has received a recommendation from a health systems agency under subparagraph (A) respecting an application shall, after consideration of such recommendation, make a recommendation to the Secretary respecting the approval by the Secretary of the application. A State Agency's recommendation under this subparagraph respecting the approval of an application (i) shall be based upon (I) the need for each service or part proposed to be discontinued by the applicant, (II) in the case of an application for the conversion of a facility, the need for each service which will be provided as a result of the conversion, and (III) such other criteria as the Secretary mayprescribe, and (ii) shall be accompanied by the health systems agency's recommendation made with respect to the approval of the application.
+(B) A State Agency which has received a recommendation from a health systems agency under subparagraph (A) respecting an application shall, after consideration of such recommendation, make a recommendation to the Secretary respecting the approval by the Secretary of the application. A State Agency's recommendation under this subparagraph respecting the approval of an application (i) shall be based upon (I) the need for each service or part proposed to be discontinued by the applicant, (II) in the case of an application for the conversion of a facility, the need for each service which will be provided as a result of the conversion, and (III) such other criteria as the Secretary may prescribe, and (ii) shall be accompanied by the health systems agency's recommendation made with respect to the approval of the application.
 
 (C) In determining, under subparagraphs (A) and (B), the need for the service (or services) or part proposed to be discontinued or converted by an applicant for a grant, a health systems agency and State Agency shall give special consideration to the unmet needs and existing access patterns of urban or rural poverty populations.
 
@@ -44,11 +44,11 @@
 
 #### (c) Certification of protective arrangements for employment benefits and interests; guidelines; satisfactory arrangement determinations
 
-(1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) of this section unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisions of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
+(1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisions of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
 
 (2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretary for the administration of the grants authorized by section 300t–11 of this title.
 
-(3) The Secretary of Labor shall review each application submitted under subsection (b) of this section to determine if the arrangements described in paragraph (1) have been made and if they are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
+(3) The Secretary of Labor shall review each application submitted under subsection (b) to determine if the arrangements described in paragraph (1) have been made and if they are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
 
 &emsp;(A) ninety days from the date of the receipt of the application from the Secretary of Health and Human Services, or
 
@@ -58,7 +58,7 @@
 
 #### (d) Records and audits requirements
 
-The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respect to grants made under subsection (a) of this section.
+The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respect to grants made under subsection (a).
 
 #### (e) "Hospital" defined
 
@@ -82,7 +82,7 @@ The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 
 
 Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitleXVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

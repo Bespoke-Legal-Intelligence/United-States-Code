@@ -4,7 +4,7 @@
 
 (b) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516 of the Tariff Act of 1930.
 
-(c) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A of the Tariff Act of 1930.
+(c) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A or 517 of the Tariff Act of 1930.
 
 (d) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review—
 
@@ -44,7 +44,7 @@
 
 (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
-(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219; Pub. L. 111–5, div. B, title I, §1873(b)(2), Feb. 17, 2009, 123 Stat. 414.)
+(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219; Pub. L. 111–5, div. B, title I, §1873(b)(2), Feb. 17, 2009, 123 Stat. 414; Pub. L. 114–125, title IV, §421(b), Feb. 24, 2016, 130 Stat. 168.)
 
 #### Amendment of Section
 
@@ -66,7 +66,7 @@ Section 515 of the Tariff Act of 1930, referred to in subsec. (a), is classified
 
 Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to section 1516 of Title 19, Customs Duties.
 
-Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to section 1516a of Title 19, Customs Duties.
+Sections 516A and 517 of the Tariff Act of 1930, referred to in subsecs. (c) and (i), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
 
 The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
@@ -86,19 +86,25 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 #### Amendments
 
+<b>2016</b>—Subsec. (c). Pub. L. 114–125 inserted "or 517" after "516A".
+
 <b>2009</b>—Subsec. (d)(3), (4). Pub. L. 111–5 substituted "273" for "271" in par. (3) and added par. (4).
 
 <b>1993</b>—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted "the North American Free Trade Agreement or" before "the United States-Canada Free-Trade Agreement" in last sentence.
 
-<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end "This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930." See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end "This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of theUnited States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930." See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted "(3)" for "(3) or (c)".
 
 <b>1984</b>—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting "a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act" for "or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930".
 
 Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting "any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930" for "any order of the Secretary of the Treasury to revoke or suspend a customhouse broker's license under section 641(b) of the Tariff Act of 1930".
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–125 effective 180 days after Feb. 24, 2016, see section 421(c) of Pub. L. 114–125, set out as an Effective Date note under section 1517 of Title 19, Customs Duties.
 
 #### Effective Date of 2009 Amendment
 
@@ -128,7 +134,7 @@ Pub. L. 103–182, title VI, §684(b), Dec. 8, 1993, 107 Stat 2219, provided tha
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Effect of Termination of NAFTA Country Status
 

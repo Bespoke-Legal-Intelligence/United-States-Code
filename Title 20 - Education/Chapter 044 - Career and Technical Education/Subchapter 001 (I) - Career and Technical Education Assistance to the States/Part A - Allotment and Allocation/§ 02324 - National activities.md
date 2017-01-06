@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall collect performance information about, and report on, the condition of career and technical education and on the effectiveness of State and local programs, services, and activities carried out under this subchapter in order to provide the Secretary and Congress, as well as Federal, State, local, and tribal agencies, with information relevant to improvement in the quality and effectiveness of career and technical education. The Secretary shall report annually to Congress onthe Secretary's aggregate analysis of performance information collected each year pursuant to this subchapter, including an analysis of performance data regarding special populations.
+&emsp;The Secretary shall collect performance information about, and report on, the condition of career and technical education and on the effectiveness of State and local programs, services, and activities carried out under this subchapter in order to provide the Secretary and Congress, as well as Federal, State, local, and tribal agencies, with information relevant to improvement in the quality and effectiveness of career and technical education. The Secretary shall report annually to Congress on the Secretary's aggregate analysis of performance information collected each year pursuant to this subchapter, including an analysis of performance data regarding special populations.
 
 #### (2) Compatibility
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall appoint an independent advisory panel to advise the Secretary on the implementation of the assessment described in paragraph (2), including the issues to be addressed and the methodology of the studies involved to ensure that the assessment adheres to the highest standards of quality.
+&emsp;&emsp;The Secretary shall appoint an independent advisory panel to advise the Secretaryon the implementation of the assessment described in paragraph (2), including the issues to be addressed and the methodology of the studies involved to ensure that the assessment adheres to the highest standards of quality.
 
 #### (B) Members
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may collect and disseminate information from States regarding State efforts to meet State adjusted levels of performance described in section 2323(b) of this title.
+&emsp;&emsp;The Secretary may collect and disseminate information from States regardingState efforts to meet State adjusted levels of performance described in section 2323(b) of this title.
 
 #### (B) Report
 

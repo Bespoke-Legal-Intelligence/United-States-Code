@@ -2,15 +2,15 @@
 
 #### (a) Audit survey
 
-Not later than 120 days after October 24, 1992, each Inspector General created to conduct and supervise audits and investigations relating to the programs and operations of the establishments listed in section 11(2) of the Inspector General Act of 1978 (5 U.S.C. App.), and the Chief Postal Inspector of the United States Postal Service, in accordance with section 8E(f)(1) as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988 (Public Law 100–504) shall—
+Not later than 120 days after October 24, 1992, each Inspector General created to conduct and supervise audits and investigations relating to the programs and operations of the establishments listed in section 11(2) <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.), and the Chief Postal Inspector of the United States Postal Service, in accordance with section 8E(f)(1) as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988 (Public Law 100–504) shall—
 
 &emsp;(1) identify agency compliance activities to meet the requirements of section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) and any other matters relevant to implementing the goals of such Act; and
 
-&emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assessthe accuracy and reliability of energy consumption and energy cost figures required under such section.
+&emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assess the accuracy and reliability of energy consumption and energy cost figures required under such section.
 
 #### (b) President's Council on Integrity and Efficiency report to Congress
 
-Not later than 150 days after October 24, 1992, the President's Council on Integrity and Efficiency shall submit a report to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, on the review conducted by the Inspector General of each agency under this section.
+Not later than 150 days after October 24, 1992, the President's Council on Integrity and Efficiency shall submit a report to the Committeeon Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, on the review conducted by the Inspector General of each agency under this section.
 
 #### (c) Inspector General review
 
@@ -20,7 +20,7 @@ Each Inspector General established under section 2 of the Inspector General Act 
 
 #### References in Text
 
-Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2 and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2 and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
 
 Section 8E as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988, referred to in subsec. (a), probably means section 8E of the Inspector General Act of 1978, Pub. L. 95–452, as added by Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522. Section 8E of the Inspector General Act of 1978 was successively renumbered section 8F by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, then section 8G by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5.
 

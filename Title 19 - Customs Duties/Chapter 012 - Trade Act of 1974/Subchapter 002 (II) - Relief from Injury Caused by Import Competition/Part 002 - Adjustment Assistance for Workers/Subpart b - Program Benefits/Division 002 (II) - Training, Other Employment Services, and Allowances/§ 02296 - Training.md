@@ -74,7 +74,7 @@
 
 &emsp;(E) any program of prerequisite education or coursework required to enroll in training that may be approved under this section,
 
-&emsp;(F) any training program (other than a training program described in paragraph (7))for which all, or any portion, of the costs of training the worker are paid—
+&emsp;(F) any training program (other than a training program described in paragraph (7)) for which all, or any portion, of the costs of training the worker are paid—
 
 &emsp;&emsp;(i) under any Federal or State program other than this chapter, or
 
@@ -212,7 +212,7 @@ An adversely affected worker may not be determined to be ineligible or disqualif
 
 &emsp;&emsp;(C) left on-the-job training not later than 30 days after commencing such training because the training did not meet the requirements of subsection (c)(1)(B); or
 
-&emsp;(2) because of the application to any such week in training of the provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work.
+&emsp;(2) because of the application to any such week in training of the provisions of State lawor Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work.
 
 #### (e) "Suitable employment" defined
 
@@ -250,7 +250,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5), is 
 
 The Act of August 16, 1937, referred to in subsec. (a)(5)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Codification
 
@@ -276,7 +276,7 @@ Subsec. (a)(2)(A). Pub. L. 114–27, §§403(b), 406, temporarily substituted "s
 
 Subsec. (a)(5)(B). Pub. L. 113–128, §512(hh)(3)(A), substituted "any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act" for "any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998". See Codification note above.
 
-<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb.12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
 Subsec. (a)(2)(A). Pub. L. 112–40, §§214(a)(2), 233, temporarily substituted "of funds available to carry out this section and sections 2295, 2297, and 2298 of this title" for "of payments that may be made under paragraph (1)" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
 
@@ -344,13 +344,13 @@ Subsec. (a)(5)(E) to (H). Pub. L. 111–5, §§1829(a)(2)–(6), 1893, temporari
 
 Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted "or adversely affected incumbent worker" after "adversely affected worker". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A),substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(10), (11). Pub. L. 111–5, §§1830(a)(1)(F), 1893, temporarily added pars. (10) and (11). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 111–5, §§1829(c)(2), 1893, which directed the temporary substitution of a period for ", and", could not be executed because ", and" did not appear. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted "The Secretary may pay the costs of on-the-job training," for "The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equalmonthly installments, but the Secretary may pay such costs,", redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted "subparagraphs (A), (B), (C), (D), (E), and (F)" for "paragraphs (1), (2), (3), (4), (5), and (6)", and in subpar. (J) substituted "subparagraph (H)" for "paragraph (8)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted "The Secretary may pay the costs of on-the-job training," for "The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equal monthly installments, but the Secretary may pay such costs,", redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted "subparagraphs (A), (B), (C), (D), (E), and (F)" for "paragraphs (1), (2), (3), (4), (5), and (6)", and in subpar. (J) substituted "subparagraph (H)" for "paragraph (8)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: "A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -418,7 +418,7 @@ Subsecs. (e), (f). Pub. L. 99–272, §13004(a)(5), redesignated pars. (2) and (
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
+Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on thebasis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
 
 #### Effective and Termination Dates of 2015 Revival
 
@@ -428,7 +428,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective and Termination Dates of 2011 Revival
 

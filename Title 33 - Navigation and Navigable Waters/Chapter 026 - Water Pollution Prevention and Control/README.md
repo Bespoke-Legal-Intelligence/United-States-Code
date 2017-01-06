@@ -34,6 +34,7 @@
 | [1272\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001272%20-%20Environmental%20dredging.md) | Environmental dredging. |
 | [1273\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001273%20-%20Lake%20Pontchartrain%20Basin.md) | Lake Pontchartrain Basin. |
 | [1274\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001274%20-%20Watershed%20pilot%20projects.md) | Watershed pilot projects. |
+| [1275\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001275%20-%20Columbia%20River%20Basin%20Restoration.md) | Columbia River Basin Restoration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

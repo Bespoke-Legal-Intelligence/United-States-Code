@@ -2,7 +2,7 @@
 
 #### (a) Protection of rights
 
-(1) It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this chapter and part C of subchapter I of chapter 34 of title 42, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
+(1) It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this chapter, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
 
 (2) It is the sense of Congress that—
 
@@ -22,7 +22,7 @@
 
 Nothing in this section shall be construed—
 
-&emsp;(1) to discourage the imposition of an official sanction on a student that has willfully participated in the disruption or attempted disruption of a lecture, class, speech, presentation, or performance made or scheduled to be made under the auspices of the institution of higher education, provided that the imposition of such sanction is done objectively and fairly; or
+&emsp;(1) to discourage the imposition of an official sanction on a student that has willfully participated in the disruption or attempted disruption of a lecture, class, speech, presentation, or performance made or scheduled to be made under the auspices of the institutionof higher education, provided that the imposition of such sanction is done objectively and fairly; or
 
 &emsp;(2) to prevent an institution of higher education from taking appropriate and effective action to prevent violations of State liquor laws, to discourage binge drinking and other alcohol abuse, to protect students from sexual harassment including assault and date rape, to prevent hazing, or to regulate unsanitary or unsafe conditions in any student residence.
 
@@ -46,7 +46,7 @@ For the purposes of this section:
 
 &emsp;The term "protected speech" means speech that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
 
-(Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591;amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
+(Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591; amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
 
 #### Prior Provisions
 

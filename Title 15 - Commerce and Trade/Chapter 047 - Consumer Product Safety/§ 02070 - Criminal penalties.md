@@ -24,3 +24,7 @@ Subsec. (b). Pub. L. 110–314, §217(c)(2), struck out ", and who has knowledg
 
 Subsec. (c). Pub. L. 110–314, §217(d), added subsec. (c).
 
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
+

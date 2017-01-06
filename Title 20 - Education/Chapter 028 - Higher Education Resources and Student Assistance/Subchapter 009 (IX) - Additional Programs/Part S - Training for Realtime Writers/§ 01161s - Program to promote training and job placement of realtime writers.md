@@ -14,11 +14,11 @@
 
 &emsp;&emsp;(B) is accredited by an accrediting agency or association recognized by the Secretary; and
 
-&emsp;&emsp;(C) is participating in student aid programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;(C) is participating in student aid programs under subchapter IV.
 
 #### (3) Priority in grants
 
-&emsp;In determining whether to make grants under this section, the Secretary shall give apriority to eligible entities that, as determined by the Secretary—
+&emsp;In determining whether to make grants under this section, the Secretary shall give a priority to eligible entities that, as determined by the Secretary—
 
 &emsp;&emsp;(A) possess the most substantial capability to increase their capacity to train realtime writers;
 
@@ -82,7 +82,7 @@
 
 #### (A) Amount
 
-&emsp;&emsp;The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part E of subchapter IV.
+&emsp;&emsp;The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part F of subchapter IV.
 
 #### (B) Agreement
 

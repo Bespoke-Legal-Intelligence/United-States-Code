@@ -20,7 +20,7 @@
 
 &emsp;(9) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
+&emsp;(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
 
 > but does not include—
 
@@ -50,9 +50,9 @@
 
 &emsp;&emsp;(ii) who is 22 years of age or older and is incapable of self-support because of a mental or physical disability which existed before the child became 22 years of age.
 
-(2) For the purpose of this subsection, "dependent", in the case of any child, means that the individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
+(2) For the purpose of this subsection, "dependent", in the case of any child, means thatthe individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, §2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
 
 Historical and Revision Notes
 
@@ -114,9 +114,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Act of August 25, 1958 (72 Stat. 838), referred to in subsec. (a)(9), is Pub. L. 85–745 and is set out as a note under section 102 of Title 3, The President.
 
-Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (a)(10), is section 4 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3.
+Section 5 of the Presidential Transition Act of 1963, referred to in subsec. (a)(10), is section 5 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3, The President.
 
 #### Amendments
+
+Subsec. (a)(10). Pub. L. 114–136 substituted "section 5" for "section 4".
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–311, §3(1), substituted a period for comma after "$10,000" in par. (2) and struck out "except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000." before last sentence.
 
@@ -166,7 +168,7 @@ Erroneous Coverage.—Section 5 \[amending section 8706 of this title\] shall be
 
 "(d)
 
-Direct Payment of Insurance Contributions.—Section 6 \[amending sections 8707 and 8714a to 8714c of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
+Direct Payment of Insurance Contributions.—Section 6 \[amending sections 8707 and 8714a to 8714c ofthis title\] shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
 
 "(e)
 
@@ -256,7 +258,7 @@ Pub. L. 110–177, title V, §502(b), Jan. 7, 2008, 121 Stat. 2542.
 
 #### Open Season
 
-Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: "Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
+Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: "Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Officeof Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
 &emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87 of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
 

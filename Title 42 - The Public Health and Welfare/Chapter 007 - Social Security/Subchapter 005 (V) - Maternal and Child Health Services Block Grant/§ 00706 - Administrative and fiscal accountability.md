@@ -46,13 +46,13 @@
 
 &emsp;&emsp;(i) the number of deliveries in the State in the year, and
 
-&emsp;&emsp;(ii) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under the State plan under subchapter XIX of this chapter in the year.
+&emsp;&emsp;(ii) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under the State plan under subchapter XIX in the year.
 
 &emsp;(D) Information (by racial and ethnic group) on—
 
 &emsp;&emsp;(i) the number of infants under one year of age who were in the State in the year, and
 
-&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
+&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX or the State plan under subchapter XXI at any time during the year.
 
 &emsp;(E) Information on the number of—
 
@@ -70,7 +70,7 @@
 
 > &emsp;who were licensed in the State in the year.
 
-> For purposes of subparagraph (A), each of the following shall be considered to be a separate class of individuals: pregnant women, infants up to age one, children with special health care needs, other children under age 22, and other individuals.
+> For purposes of subparagraph (A), each of the following shall be considered to be a separate class of individuals: pregnant women, infants up to age one, children with special health careneeds, other children under age 22, and other individuals.
 
 (3) The Secretary shall annually transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report that includes—
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(I) the number of deliveries in the State in the year, and
 
-&emsp;&emsp;&emsp;(II) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under the State plan under subchapter XIX of this chapter in the year;
+&emsp;&emsp;&emsp;(II) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under the State plan under subchapter XIX in the year;
 
 &emsp;(D) based on information described in subparagraphs (C), (D), and (E) of paragraph (2) supplied by the States under paragraph (1), a compilation of the following information in the United States and in each State:
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(I) the number of deliveries in the year, and
 
-&emsp;&emsp;&emsp;(II) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under a State plan under subchapter XIX of this chapter in the year.
+&emsp;&emsp;&emsp;(II) the number of such deliveries to pregnant women who were provided prenatal, delivery, or postpartum care under this subchapter or were entitled to benefits with respect to such deliveries under a State plan under subchapter XIX in the year.
 
 > &emsp;&emsp;Information under this clause shall also be compiled by racial and ethnic group.
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(I) the number of infants under one year of age in the year, and
 
-&emsp;&emsp;&emsp;(II) the number of such infants who were provided services under this subchapter or were entitled to benefits under a State plan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
+&emsp;&emsp;&emsp;(II) the number of such infants who were provided services under this subchapter or were entitled to benefits under a State plan under subchapter XIX or the State plan under subchapter XXI at any time during the year.
 
 > &emsp;&emsp;Information under this clause shall also be compiled by racial and ethnic group.
 
@@ -182,7 +182,7 @@ Provisions similar to those comprising former section 706 were contained in sect
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(2)(D)(ii), (3)(D)(ii)(II). Pub. L. 106–113 inserted "or the State plan under subchapter XXI of this chapter" after "subchapter XIX of this chapter".
+<b>1999</b>—Subsec. (a)(2)(D)(ii), (3)(D)(ii)(II). Pub. L. 106–113 inserted "or the State plan under subchapter XXI" after "subchapter XIX".
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–316 struck out "and the Comptroller General" after "with the States".
 

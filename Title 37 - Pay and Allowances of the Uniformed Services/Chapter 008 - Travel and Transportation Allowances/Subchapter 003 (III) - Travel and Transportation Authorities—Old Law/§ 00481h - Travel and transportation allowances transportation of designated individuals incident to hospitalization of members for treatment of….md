@@ -28,7 +28,7 @@ Definitions.—(1) In this section, the term "designated individual", with respe
 
 (2) The designation of an individual as a designated individual for purposes of this section may be changed at any time.
 
-(3)(A) In this section, the term "health and welfare", with respect to a member, includes a situation in which a decision must be made by family members regarding the termination ofartificial life support being provided to the member.
+(3)(A) In this section, the term "health and welfare", with respect to a member, includes a situation in which a decision must be made by family members regarding the termination of artificial life support being provided to the member.
 
 (B) In this paragraph, the term "family member", with respect to a member, means the following:
 
@@ -184,5 +184,5 @@ Pub. L. 100–180, div. A, title VI, §615(b), Dec. 4, 1987, 101 Stat. 1096, as 
 
 #### Report on Travel in Excess of Certain Limit
 
-Pub. L. 109–13, div. A, title I, §1026(d), May 11, 2005, 119 Stat. 255, which provided that if in any fiscal year the amount of travel provided in such fiscal year under this section by reason of the amendments made by section 1026 of Pub. L. 109–13 exceeded $20,000,000, the Secretary of Defense was to submit to the congressional defense committees a report on that fact, was repealed by Pub.L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314.
+Pub. L. 109–13, div. A, title I, §1026(d), May 11, 2005, 119 Stat. 255, which provided that if in any fiscal year the amount of travel provided in such fiscal year under this section by reason of the amendments made by section 1026 of Pub. L. 109–13 exceeded $20,000,000, the Secretary of Defense was to submit to the congressional defense committees a report on that fact, was repealed by Pub. L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314.
 

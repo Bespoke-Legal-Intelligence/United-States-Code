@@ -40,7 +40,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (E) Reapportionment of seats
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph\(F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph (F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
 
 #### (F) Adjustment of levels of production
 
@@ -76,7 +76,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (iii) Rejection
 
-&emsp;&emsp;&emsp;The Secretary may reject any nomination submitted by a unit under this paragraph. If there are insufficient nominations from which to appoint members to the Board as a result of the Secretary rejecting the nominations submitted by a unit, the unit shall submit additional nominations, as provided in this paragraph.
+&emsp;&emsp;&emsp;The Secretary may reject any nomination submitted by a unit under this paragraph. If there are insufficient nominations from which to appoint members tothe Board as a result of the Secretary rejecting the nominations submitted by a unit, the unit shall submit additional nominations, as provided in this paragraph.
 
 #### (4) Terms
 
@@ -98,7 +98,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (7) Meetings
 
-&emsp;The order shall provide for at least one meeting of the Board annually and specify thecircumstances under which additional special meetings of the Board may be held.
+&emsp;The order shall provide for at least one meeting of the Board annually and specify the circumstances under which additional special meetings of the Board may be held.
 
 #### (c) Powers and duties of Board
 
@@ -154,7 +154,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (I) First fiscal year
 
-&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted one vote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
+&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted one vote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during eachof the 3 immediately preceding crop years.
 
 #### (II) Second and third fiscal years
 
@@ -308,7 +308,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (A) In general
 
-&emsp;&emsp;In using the funds allocated each year under paragraph (4)(B) for payment of the costs of contracts or agreements described in paragraph (4)(A), subject to subparagraph (B), the Board shall apportion such allocated funds among States so that each qualified State soybean board receives an amount equal to the amount of such allocated funds attributable to refunds in the State during the previous year, as determined by the Board based on information submitted by the qualified State soybean boards.
+&emsp;&emsp;In using the funds allocated each year under paragraph (4)(B) for payment of the costs of contracts or agreements described in paragraph (4)(A), subject to subparagraph\(B), the Board shall apportion such allocated funds among States so that each qualified State soybean board receives an amount equal to the amount of such allocated funds attributable to refunds in the State during the previous year, as determined by the Board based on information submitted by the qualified State soybean boards.
 
 #### (B) Exception
 
@@ -338,7 +338,7 @@ The order shall require the Board to—
 
 #### (i) Collection
 
-&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to theBoard. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
+&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to the Board. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
 
 #### (ii) Rate
 
@@ -388,7 +388,7 @@ The order shall require the Board to—
 
 #### (E) Order not favored
 
-&emsp;&emsp;If the Secretary determines that producers do not favor the continuation of the order in the referendum provided for in section 6305(a) of this title, refunds shall be made under this paragraph on collected assessments until such collections are terminated, as provided in section 6305(a) of this title.
+&emsp;&emsp;If the Secretary determines that producers do not favor the continuation of the order inthe referendum provided for in section 6305(a) of this title, refunds shall be made under this paragraph on collected assessments until such collections are terminated, as provided in section 6305(a) of this title.
 
 #### (F) Refunds after the initial referendum
 
@@ -436,7 +436,7 @@ The order shall require the Board to—
 
 #### (V) Proration
 
-&emsp;&emsp;&emsp;&emsp;If the funds deposited in a State account established under subclause (I) for purposes described under clauses (ii), (v), and (vi) are not sufficient to honor all requests for refunds made by producers from that State during the time period involved, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall prorate the amount of such refunds from the State's account among all producers from that State that request refunds.
+&emsp;&emsp;&emsp;&emsp;If the funds deposited in a State account established under subclause (I) for purposes described under clauses (ii), (v), and (vi) are not sufficient to honor all requests for refunds made by producersfrom that State during the time period involved, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall prorate the amount of such refunds from the State's account among all producers from that State that request refunds.
 
 #### (VI) Surplus funds
 
@@ -458,7 +458,7 @@ The order shall require the Board to—
 
 #### (4) Credit for contributions to qualified State soybean boards
 
-&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualifiedState soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
+&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualified State soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
 
 #### (5) Single process of assessment
 
@@ -536,7 +536,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretaryas is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
+&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretary as is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
 
 #### (B) Other information
 

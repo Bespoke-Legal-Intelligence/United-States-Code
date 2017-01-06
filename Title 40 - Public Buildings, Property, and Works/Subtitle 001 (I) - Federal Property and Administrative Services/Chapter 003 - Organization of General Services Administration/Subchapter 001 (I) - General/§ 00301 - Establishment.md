@@ -64,7 +64,7 @@ All functions with respect to the operation, maintenance, and custody of office 
 
 (c) any building which the Administrator of General Services finds to be a part of a group of buildings which are (1) located in the same vicinity, (2) are utilized wholly or predominantly for the special purposes of the agency having custody thereof, and (3) are not generally suitable for the use of other agencies; and
 
-(d) the Treasury Building, the Bureau of Engraving and Printing Building, the buildings occupied by the National Bureau of Standards, and the buildings under the jurisdiction of the regents of the Smithsonian Institution.
+(d) the Treasury Building, the Bureau of Engraving and Printing Building, the buildings occupied by theNational Bureau of Standards, and the buildings under the jurisdiction of the regents of the Smithsonian Institution.
 
 \[References to National Bureau of Standards deemed to refer to National Institute of Standards and Technology pursuant to section 5115(c) of Pub. L. 100–418, set out as a Change of Name note under 15 U.S.C. 271.\]
 
@@ -74,7 +74,7 @@ All functions with respect to the operation, maintenance, and custody of office 
 
 (b) When authorized by the Administrator of General Services, any function transferred to him by the provisions of this reorganization plan may be performed by the head of any agency of the executive branch of the Government or, subject to the direction and control of any such agency head, by such officers, employees, and organizational units under the jurisdiction of such agency head as such agency head may designate: <i>Provided</i>, That functions with respect to post-office buildings shall not be delegated under the authority of this subsection to the head of any agency other than the Postmaster General.
 
-(c) The Administrator of General Services shall prescribe such regulations as he deems desirable for theeconomical and effective performance of the functions transferred by the provisions of this reorganization plan.
+(c) The Administrator of General Services shall prescribe such regulations as he deems desirable for the economical and effective performance of the functions transferred by the provisions of this reorganization plan.
 
 #### Sec. 4. Transfer of Personnel, Property, Records, and Funds
 
@@ -108,7 +108,7 @@ In addition, the plan transfers to the General Services Administration the opera
 
 While the plan effects a broad transfer of functions with respect to leasing and assignment of space and the operation and maintenance of office buildings, it specifically authorizes the Administrator of General Services to delegate the performance of any part of these functions to other agencies subject to such regulations as he deems desirable for economical and effective administration. In this the plan follows the pattern adopted by the Federal Property and Administrative Services Act of 1949 for other branches of property management. In large urban centers where numerous Federal units are located unified administration of space activities by the General Services Administration will normally be advantageous. On the other hand, in the smaller communities it will no doubt be desirable to delegate the work back to the agencies directly affected, to be carried on under standards laid down by the Administrator of General Services. The plan provides ample flexibility for working out the most effective administrative arrangement for each type of situation.
 
-The fundamental soundness and economy of centralized administration of building space have been amply demonstrated in the National Capital. By virtue of unified control it has been possible since the war to accomplish far-reaching changes which have consolidated agencies in much fewer locations, released many of the rented buildings, and greatly reduced the cost of housing the Government establishment. Similar proceduresapplied in the larger centers of field activity should produce substantial savings.
+The fundamental soundness and economy of centralized administration of building space have been amply demonstrated in the National Capital. By virtue of unified control it has been possible since the war to accomplish far-reaching changes which have consolidated agencies in much fewer locations, released many of the rented buildings, and greatly reduced the cost of housing the Government establishment. Similar procedures applied in the larger centers of field activity should produce substantial savings.
 
 After investigation, I have found, and hereby declare, that each reorganization contained in this plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
@@ -158,9 +158,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Management Advisory Board
 
-Term of President's Management Advisory Board extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Management Advisory Board extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President's Management Advisory Board were contained in the following prior Executive Orders:
 
-Term of President's Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 

@@ -1,0 +1,6 @@
+### §911. Omitted
+
+#### Codification
+
+Section, Pub. L. 86–97, §1, July 17, 1959, 73 Stat. 221, which related to membership roll, was omitted from the Code as being of special and not general application.
+

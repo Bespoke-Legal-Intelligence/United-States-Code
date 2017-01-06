@@ -113,6 +113,8 @@
 | [<b>96A.</b>](Chapter%20096A%20-%20Ukraine%20Freedom%20Support/README.md) | <b>Ukraine Freedom Support</b> | <b>8921</b> |
 | [<b>97.</b>](Chapter%20097%20-%20International%20Child%20Abduction%20Remedies/README.md) | <b>International Child Abduction Remedies</b> | <b>9001</b> |
 | [<b>98.</b>](Chapter%20098%20-%20International%20Child%20Abduction%20Prevention%20and%20Return/README.md) | <b>International Child Abduction Prevention and Return</b> | <b>9101</b> |
+| [<b>99.</b>](Chapter%20099%20-%20North%20Korea%20Sanctions%20and%20Policy%20Enhancement/README.md) | <b>North Korea Sanctions and Policy Enhancement</b> | <b>9201</b> |
+| [<b>100.</b>](Chapter%20100%20-%20Global%20Food%20Security/README.md) | <b>Global Food Security</b> | <b>9301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -231,3 +233,5 @@
 - [Chapter 096A - Ukraine Freedom Support](Chapter%20096A%20-%20Ukraine%20Freedom%20Support/README.md)
 - [Chapter 097 - International Child Abduction Remedies](Chapter%20097%20-%20International%20Child%20Abduction%20Remedies/README.md)
 - [Chapter 098 - International Child Abduction Prevention and Return](Chapter%20098%20-%20International%20Child%20Abduction%20Prevention%20and%20Return/README.md)
+- [Chapter 099 - North Korea Sanctions and Policy Enhancement](Chapter%20099%20-%20North%20Korea%20Sanctions%20and%20Policy%20Enhancement/README.md)
+- [Chapter 100 - Global Food Security](Chapter%20100%20-%20Global%20Food%20Security/README.md)

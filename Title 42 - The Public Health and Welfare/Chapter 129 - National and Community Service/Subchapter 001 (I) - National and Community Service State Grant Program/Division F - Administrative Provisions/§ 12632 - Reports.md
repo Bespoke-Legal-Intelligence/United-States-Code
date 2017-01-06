@@ -32,13 +32,13 @@
 
 #### (2) Content
 
-&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a), and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
 
 (Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918; Pub. L. 111–13, title I, §1602, Apr. 21, 2009, 123 Stat. 1529; Pub. L. 112–81, div. A, title X, §1063(c), Dec. 31, 2011, 125 Stat. 1586.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original "this Act", meaning Pub. L. 101–610, Nov.16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(A), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
 

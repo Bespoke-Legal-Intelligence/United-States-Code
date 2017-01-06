@@ -10,7 +10,7 @@ On a quarterly basis, or such other basis (not less than annually) as determined
 
 #### (c) Baseline reports for class I substances
 
-Unless such information has previously been reported to the Administrator, on the date on which the first report under subsection (b) of this section is required to be filed, each person who produced, imported, or exported a class I substance (other than a substance added to the list of class I substances after the publication of the initial list of such substances under this section) shall file a report with the Administrator setting forth the amount of such substance that such person produced, imported, and exported during the baseline year. In the case of a substance added to the list of class I substances after publication of the initial list of such substances under this section, the regulations shall require that each person who produced, imported, or exported such substance shall file a report with the Administrator within 180 days after the date on which such substance is added to the list, setting forth the amount of the substance that such person produced, imported, and exported in the baseline year.
+Unless such information has previously been reported to the Administrator, on the date on which the first report under subsection (b) of this section is required to be filed, each person who produced, imported, or exported a class I substance (other than a substance added to the list of class I substances after the publication of the initial list of such substances under this section) shall file a report with the Administrator setting forth the amount of such substance that such person produced, imported, and exported during the baseline year. In the case of a substance added to the list of class I substances after publication of the initial list of such substances under this section, the regulations shall require that each person who produced, imported, or exported such substance shall file areport with the Administrator within 180 days after the date on which such substance is added to the list, setting forth the amount of the substance that such person produced, imported, and exported in the baseline year.
 
 #### (d) Monitoring and reports to Congress
 
@@ -52,7 +52,7 @@ Pub. L. 101–549, title VI, §603, Nov. 15, 1990, 104 Stat. 2670, provided that
 
 "(a)
 
-Economically Justified Actions.—Not later than 2 years after enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit a report tothe Congress that identifies activities, substances, processes, or combinations thereof that could reduce methane emissions and that are economically and technologically justified with and without consideration of environmental benefit.
+Economically Justified Actions.—Not later than 2 years after enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit a report to the Congress that identifies activities, substances, processes, or combinations thereof that could reduce methane emissions and that are economically and technologically justified with and without consideration of environmental benefit.
 
 "(b)
 
@@ -64,7 +64,7 @@ Domestic Methane Source Inventory and Control.—Not later than 2 years after th
 
 &emsp;"(3) Methane emissions associated with management of solid waste. Such report shall include an inventory of methane emissions associated with all forms of waste management in the United States, including storage, treatment, and disposal.
 
-&emsp;"(4) Methane emissions associated with agriculture. Such report shall include an inventory of methane emissions associated with rice and livestock production in the United States.
+&emsp;"(4) Methane emissions associated with agriculture. Such report shall include an inventory of methaneemissions associated with rice and livestock production in the United States.
 
 &emsp;"(5) Methane emissions associated with biomass burning. Such report shall include an inventory of methane emissions associated with the intentional burning of agricultural wastes, wood, grasslands, and forests.
 

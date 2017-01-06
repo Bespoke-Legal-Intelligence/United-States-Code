@@ -30,7 +30,7 @@ In this subchapter and subchapter II:
 
 #### (6) Covered commodity
 
-&emsp;The term "covered commodity" means wheat, oats, and barley (including wheat, oats,and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+&emsp;The term "covered commodity" means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
 
 #### (7) Effective price
 

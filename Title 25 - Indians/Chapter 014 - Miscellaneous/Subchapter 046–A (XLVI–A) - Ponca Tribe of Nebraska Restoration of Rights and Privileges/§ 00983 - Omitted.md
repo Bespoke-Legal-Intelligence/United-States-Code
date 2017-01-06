@@ -1,0 +1,10 @@
+### §983. Omitted
+
+#### Codification
+
+Section, Pub. L. 101–484, §2, Oct. 31, 1990, 104 Stat. 1167, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 101–484, §1, Oct. 31, 1990, 104 Stat. 1167, provided that Pub. L. 101–484, enacting this subchapter, could be cited as the "Ponca Restoration Act".
+

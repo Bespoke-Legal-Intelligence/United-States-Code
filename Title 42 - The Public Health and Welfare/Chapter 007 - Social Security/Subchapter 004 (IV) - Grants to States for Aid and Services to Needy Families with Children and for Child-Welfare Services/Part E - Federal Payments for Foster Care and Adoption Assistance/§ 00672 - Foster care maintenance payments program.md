@@ -48,7 +48,7 @@
 
 #### (4) Eligibility of certain alien children
 
-&emsp;Subject to title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], if the child is an alien disqualified under section 1255a(h) or 1160(f) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which theagreement described in paragraph (2)(A)(i) was entered into or court proceedings leading to the determination described in paragraph (2)(A)(ii) were initiated, the child shall be considered to satisfy the requirements of paragraph (3), with respect to the month, if the child would have satisfied the requirements but for the disqualification.
+&emsp;Subject to title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], if the child is an alien disqualified under section 1255a(h) or 1160(f) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which the agreement described in paragraph (2)(A)(i) was entered into or court proceedings leading to the determination described in paragraph (2)(A)(ii) were initiated, the child shall be considered to satisfy the requirements of paragraph (3), with respect to the month, if the child would have satisfied the requirements but for the disqualification.
 
 #### (b) Additional qualifications
 
@@ -64,11 +64,11 @@ For the purposes of this part, (1) the term "foster family home" means a foster 
 
 #### (d) Children removed from their homes pursuant to voluntary placement agreements
 
-Notwithstanding any other provision of this subchapter, Federal payments may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of children removed from their homes pursuant to voluntary placement agreements as described in subsection (a) of this section, only if (at the time such amounts were expended) the State has fulfilled all of the requirements of section 622(b)(8) of this title.
+Notwithstanding any other provision of this subchapter, Federal payments may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of children removed from their homes pursuant to voluntary placement agreements as described in subsection (a), only if (at the time such amounts were expended) the State has fulfilled all of the requirements of section 622(b)(8) of this title.
 
 #### (e) Placements in best interest of child
 
-No Federal payment may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of any child who was removed from his or her home pursuant to a voluntary placement agreement as described in subsection (a) of this section and has remained in voluntary placement for a period in excess of 180 days, unless there has been a judicial determination by a court of competent jurisdiction (within the first 180 days of such placement) to the effect that such placement is in the best interests of the child.
+No Federal payment may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of any child who was removed from his or her home pursuant to a voluntary placement agreement as described in subsection (a) and has remained in voluntary placement for a period in excess of 180 days, unless there has been a judicial determination by a court of competent jurisdiction (within the first 180 days of such placement) to the effect that such placement is in the best interests of the child.
 
 #### (f) "Voluntary placement" and "voluntary placement agreement" defined
 
@@ -78,7 +78,7 @@ For the purposes of this part and part B of this subchapter, (1) the term "volun
 
 In any case where—
 
-&emsp;(1) the placement of a minor child in foster care occurred pursuant to a voluntary placement agreement entered into by the parents or guardians of such child as provided in subsection (a) of this section, and
+&emsp;(1) the placement of a minor child in foster care occurred pursuant to a voluntary placement agreement entered into by the parents or guardians of such child as provided in subsection (a), and
 
 &emsp;(2) such parents or guardians request (in such manner and form as the Secretary may prescribe) that the child be returned to their home or to the home of a relative,
 
@@ -86,7 +86,7 @@ In any case where—
 
 #### (h) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of division A <sup>1</sup> of subchapter XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
+(1) For purposes of subchapter XIX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of division A <sup>1</sup> of subchapter XX, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
@@ -150,7 +150,7 @@ Subsec. (a)(4)(B)(ii). Pub. L. 104–193, §108(d)(3)(B)(ii), inserted "(as in e
 
 Subsec. (c)(2). Pub. L. 104–193, §501, struck out "nonprofit" before "private child-care institution."
 
-Subsec. (h). Pub. L. 104–193, §108(d)(4), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section shall be deemed to be a dependent child as definedin section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter. For purposes of the preceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section."
+Subsec. (h). Pub. L. 104–193, §108(d)(4), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter. For purposes of the preceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section."
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–432 substituted "section 622(b)(9) of this title" for "section 627(b) of this title".
 
@@ -216,7 +216,7 @@ For construction of amendment by section 301(a)(2) of Pub. L. 110–351, see sec
 
 #### Children Voluntarily Removed From Home of Relative
 
-Pub. L. 96–272, title I, §102(d)(1), June 17, 1980, 94 Stat. 515, provided that: "For purposes of section 472 of the Social Security Act \[42 U.S.C. 672\], a child who was voluntarily removed from the home of a relative and who had a judicial determination prior to October 1, 1978, to the effect that continuation therein would be contrary to the welfare of such child, shall be deemed to havebeen so removed as a result of such judicial determination if, and from the date that, a case plan and a review meeting the requirements of section 471(a)(16) of such Act \[42 U.S.C. 671(a)(16)\] have been made with respect to such child and such child is determined to be in need of foster care as a result of such review. In the case of any child described in the preceding sentence, for purposes of section 472(a)(4) of such Act \[42 U.S.C. 672(a)(4)\], the date of the voluntary removal shall be deemed to be the date on which court proceedings are initiated which led to such removal."
+Pub. L. 96–272, title I, §102(d)(1), June 17, 1980, 94 Stat. 515, provided that: "For purposes of section 472 of the Social Security Act \[42 U.S.C. 672\], a child who was voluntarily removed from the home of a relative and who had a judicial determination prior to October 1, 1978, to the effect that continuation therein would be contrary to the welfare of such child, shall be deemed to have been so removed as a result of such judicial determination if, and from the date that, a case plan and a review meeting the requirements of section 471(a)(16) of such Act \[42 U.S.C. 671(a)(16)\] have been made with respect to such child and such child is determined to be in need of foster care as a result of such review. In the case of any child described in the preceding sentence, for purposes of section 472(a)(4) of such Act \[42 U.S.C. 672(a)(4)\], the date of the voluntary removal shall be deemed to be the date on which court proceedings are initiated which led to such removal."
 
 #### Annual Report to Congress of Number of Children Placed in Foster Care Pursuant to Voluntary Placement Agreements
 

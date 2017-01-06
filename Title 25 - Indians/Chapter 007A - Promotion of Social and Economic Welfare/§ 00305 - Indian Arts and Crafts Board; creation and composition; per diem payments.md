@@ -16,7 +16,7 @@ The commissioner shall serve without compensation: <i>Provided</i>, That each Co
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–211, title I, §101(a), July 29, 2010, 124 Stat. 2258, provided that: "This title \[amending sections 305d and 305e of this title and section 1159 of Title 18, Crimesand Criminal Procedure\] may be cited as the 'Indian Arts and Crafts Amendments Act of 2010'."
+Pub. L. 111–211, title I, §101(a), July 29, 2010, 124 Stat. 2258, provided that: "This title \[amending sections 305d and 305e of this title and section 1159 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Indian Arts and Crafts Amendments Act of 2010'."
 
 #### Short Title of 2000 Amendment
 

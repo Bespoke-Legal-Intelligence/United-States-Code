@@ -1,6 +1,6 @@
 ### §431. Purchase of tags, labels, stamps, and certificates
 
-The Secretary of Agriculture is authorized to expend appropriations for meat inspection forthe purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
+The Secretary of Agriculture is authorized to expend appropriations for meat inspection for the purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
 
 (Sept. 21, 1944, ch. 412, title I, §101(f), 58 Stat. 734.)
 

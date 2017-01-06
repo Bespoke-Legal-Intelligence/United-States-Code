@@ -10,7 +10,7 @@ For purposes of this section, the term "substantial product hazard" means—
 
 #### (b) Noncompliance with applicable consumer product safety rules; product defects; notice to Commission by manufacturer, distributor, or retailer
 
-Every manufacturer of a consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49), distributed in commerce, and every distributor and retailer of such product, who obtains information which reasonably supports the conclusion that such product—
+Every manufacturer of a consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49 <sup>1</sup>), distributed in commerce, and every distributor and retailer of such product, who obtains information which reasonably supports the conclusion that such product—
 
 &emsp;(1) fails to comply with an applicable consumer product safety rule or with a voluntary consumer product safety standard upon which the Commission has relied under section 2058 of this title;
 
@@ -32,7 +32,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(C) To notify appropriate State and local public health officials.
 
-&emsp;(D) To give public notice of the defect or failure to comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.
+&emsp;(D) To give public notice of the defect or failure to comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internetwebsite on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.
 
 &emsp;(E) To mail notice to each person who is a manufacturer, distributor, or retailer of such product.
 
@@ -54,7 +54,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
 
-(2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C)..<sup>1</sup> An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
+(2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C).<sup>2</sup> An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
 
 (3)(A) If the Commission approves an action plan, it shall indicate its approval in writing.
 
@@ -76,11 +76,11 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (g) Preliminary injunction
 
-(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>2</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
+(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
-(3) The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend <sup>3</sup> a preliminary injunction under this subsection.
+(3) The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend <sup>4</sup> a preliminary injunction under this subsection.
 
 #### (h) Cost-benefit analysis of notification or other action not required
 
@@ -149,6 +149,8 @@ Nothing in this section shall be construed to require the Commission, in determi
 (Pub. L. 92–573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117; Pub. L. 110–314, title II, §§214, 223(a), Aug. 14, 2008, 122 Stat. 3052, 3068.)
 
 #### References in Text
+
+Section 30102(a)(7) of title 49, referred to in subsec. (b), was redesignated section 30102(a)(8) of title 49 by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
@@ -220,7 +222,7 @@ Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008,see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -229,6 +231,10 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Reporting Requirements
 
@@ -258,9 +264,11 @@ Effect on liability.—A report by a manufacturer, distributor, retailer, or imp
 
 Confidentiality Protections.—The confidentiality protections of section 6(b) of the Consumer Product Safety Act (15 U.S.C. 2055(b)) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act \[15 U.S.C. 2064(b)\] respecting a consumer product."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)(C)."</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1)(C)."</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be "extend".</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "extend".</i>
 

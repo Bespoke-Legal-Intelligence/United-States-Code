@@ -36,7 +36,7 @@ Exclusions.—The term "handle" does not include—
 
 &emsp;(6) The term "handler" means any person who handles honey.
 
-&emsp;(7) The term "honey" means the nectar and saccharine exudations of plants which aregathered, modified, and stored in the comb by honey bees.
+&emsp;(7) The term "honey" means the nectar and saccharine exudations of plants which are gathered, modified, and stored in the comb by honey bees.
 
 &emsp;(8) The term "Honey Board" means the board provided for under section 4606(c) of this title.
 

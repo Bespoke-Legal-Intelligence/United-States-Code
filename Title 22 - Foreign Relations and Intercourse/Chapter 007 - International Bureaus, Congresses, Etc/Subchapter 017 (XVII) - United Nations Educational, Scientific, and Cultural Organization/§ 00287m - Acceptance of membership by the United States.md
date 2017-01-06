@@ -30,7 +30,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### <i>Purposes and Functions</i>
 
-1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration amongthe nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
+1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration among the nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
 
 2\. To realise this purpose the Organisation will:
 
@@ -118,7 +118,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 1\. The Executive Board shall consist of eighteen members elected by the General Conference from among the delegates appointed by the Member States, together with the President of the Conference who shall sit <i>ex officio</i> in an advisory capacity.
 
-2\. In electing the members of the Executive Board the General Conference shall endeavour to include personscompetent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
+2\. In electing the members of the Executive Board the General Conference shall endeavour to include persons competent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
 
 3\. The elected members of the Executive Board shall serve for a term of three years, and shall be immediately eligible for a second term, but shall not serve consecutively for more than two terms. At the first election eighteen members shall be elected of whom one third shall retire at the end of the first year and one third at the end of the second year, the order of retirement being determined immediately after the election by the drawing of lots. Thereafter six members shall be elected each year.
 
@@ -148,7 +148,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 2\. The Director-General shall be nominated by the Executive Board and appointed by the General Conference for a period of six years, under such conditions as the Conference may approve, and shall be eligible for re-appointment. He shall be the chief administrative officer of the Organisation.
 
-3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. He shall formulate proposals for appropriate action by the Conference and the Board.
+3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. Heshall formulate proposals for appropriate action by the Conference and the Board.
 
 4\. The Director-General shall appoint the staff of the Secretariat in accordance with staff regulations to be approved by the General Conference. Subject to the paramount consideration of securing the highest standards of integrity, efficiency and technical competence, appointment to the staff shall be on as wide a geographical basis as possible.
 

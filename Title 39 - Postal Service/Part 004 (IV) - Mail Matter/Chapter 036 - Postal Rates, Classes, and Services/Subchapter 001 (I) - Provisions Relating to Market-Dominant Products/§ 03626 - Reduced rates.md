@@ -32,13 +32,13 @@
 
 (d)(1) For purposes of this title, the term "agricultural", as used in former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, includes the art or science of cultivating land, harvesting crops or marine resources, or raising of livestock.
 
-(2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d),and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
+(2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
 
 (e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the rates currently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
 
 (2) For purposes of this subsection—
 
-&emsp;(A) the term "qualified political committee" means a national or State committee of a political party, the Republican and Democratic Senatorial Campaign Committees, the Democratic National Congressional Committee, and the National Republican Congressional Committee;
+&emsp;(A) the term "qualified political committee" means a national or State committee of a political party, the Republican and DemocraticSenatorial Campaign Committees, the Democratic National Congressional Committee, and the National Republican Congressional Committee;
 
 &emsp;(B) the term "national committee" means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level; and
 
@@ -122,11 +122,11 @@ Section 101 of the Higher Education Act of 1965, referred to in subsec. (b)(3), 
 
 Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)(D)(I) and (m)(1)(B), is classified to section 513 of Title 26, Internal Revenue Code.
 
-The phrase "shall take effect immediately and shall stay in effect hereafter", referred to in subsec. (j)(1)(D)(III), probably means that the provision shalltake effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
+The phrase "shall take effect immediately and shall stay in effect hereafter", referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined "costs attributable", "regular-rate category", and "institutional-costs contribution", and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
+<b>2006</b>—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined "costs attributable", "regular-rate category", and "institutional-costs contribution", and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in amanner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
 Subsec. (g)(3), (4). Pub. L. 109–435, §1003(2), added pars. (3) and (4).
 

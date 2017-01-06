@@ -28,7 +28,7 @@ For purposes of this section, a breach shall be treated as discovered by a cover
 
 &emsp;Notice required under this section to be provided to an individual, with respect to a breach, shall be provided promptly and in the following form:
 
-&emsp;&emsp;(A) Written notification by first-class mail to the individual (or the next of kin of the individual if the individual is deceased) at the last known address of the individual or the next of kin, respectively, or, if specifiedas a preference by the individual, by electronic mail. The notification may be provided in one or more mailings as information is available.
+&emsp;&emsp;(A) Written notification by first-class mail to the individual (or the next of kin of the individual if the individual is deceased) at the last known address of the individual or the next of kin, respectively, or, if specified as a preference by the individual, by electronic mail. The notification may be provided in one or more mailings as information is available.
 
 &emsp;&emsp;(B) In the case in which there is insufficient, or out-of-date contact information (including a phone number, email address, or any other form of appropriate communication) that precludes direct written (or, if specified by the individual under subparagraph (A), electronic) notification to the individual, a substitute form of notice shall be provided, including, in the case that there are 10 or more individuals for which there is insufficient or out-of-date contact information, a conspicuous posting for a period determined by the Secretary on the home page of the Web site of the covered entity involved or notice in major print or broadcast media, including major media in geographic areas where the individuals affected by the breach likely reside. Such a notice in media or web posting will include a toll-free phone number where an individual can learn whether or not the individual's unsecured protected health information is possibly included in the breach.
 
@@ -78,7 +78,7 @@ If a law enforcement official determines that a notification, notice, or posting
 
 #### (2) Guidance
 
-&emsp;For purposes of paragraph (1) and section 17937(f)(3) of this title, not later than the date that is 60 days after February 17, 2009, the Secretary shall, after consultation with stakeholders, issue (and annually update) guidancespecifying the technologies and methodologies that render protected health information unusable, unreadable, or indecipherable to unauthorized individuals, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) of this title, as added by section 13101 of this Act.
+&emsp;For purposes of paragraph (1) and section 17937(f)(3) of this title, not later than the date that is 60 days after February 17, 2009, the Secretary shall, after consultation with stakeholders, issue (and annually update) guidance specifying the technologies and methodologies that render protected health information unusable, unreadable, or indecipherable to unauthorized individuals, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) <sup>2</sup> of this title, as added by section 13101 of this Act.
 
 #### (i) Report to Congress on breaches
 
@@ -102,7 +102,11 @@ To carry out this section, the Secretary of Health and Human Services shall prom
 
 #### References in Text
 
+Section 300jj–12(b)(2)(B)(vi) of this title, referred to in subsec. (h)(2), was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in section 300jj–12(b)(2)(C)(vii) of this title as enacted by Pub. L. 114–255.
+
 Section 13101 of this Act, referred to in subsec. (h)(2), means section 13101 of div. A of Pub. L. 111–5.
 
 <i><sup>1</sup></i><i> So in orginal. Probably should be "then".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

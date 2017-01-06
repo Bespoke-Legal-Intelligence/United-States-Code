@@ -6,11 +6,11 @@ The President is authorized to enter into an agreement with the Government of In
 
 #### (b) United States representatives
 
-The United States representatives on any board or other entity created in accordance with the agreement to administer the Fund shall be designated by the President predominately from among representatives of United States Government agencies, including those administering programs which may be supported in whole or in part by the Fund.
+The United States representatives on any board or other entity created in accordance withthe agreement to administer the Fund shall be designated by the President predominately from among representatives of United States Government agencies, including those administering programs which may be supported in whole or in part by the Fund.
 
 #### (c) Funding of programs
 
-United States Government agencies carrying out programs of the types specified in subsection (a) of this section may receive amounts directly from the Fund for use in carrying out those programs.
+United States Government agencies carrying out programs of the types specified in subsection (a) may receive amounts directly from the Fund for use in carrying out those programs.
 
 (Pub. L. 98–164, title IX, §902, Nov. 22, 1983, 97 Stat. 1051.)
 

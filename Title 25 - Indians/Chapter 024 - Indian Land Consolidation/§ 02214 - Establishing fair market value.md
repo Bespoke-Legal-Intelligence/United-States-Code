@@ -10,11 +10,11 @@ This chapter, referred to in text, was in the original "this Act", which was tra
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–157 substituted "Such a system may govern the amounts offered for the purchase of interests in trust or restricted land under this chapter." for "Such system may govern the amounts offered for the purchase of interests in trust or restricted lands under this chapter."
+<b>2005</b>—Pub. L. 109–157 substituted "Such a system may govern the amounts offered for the purchase of interests in trust or restricted land under this chapter." for"Such system may govern the amounts offered for the purchase of interests in trust or restricted lands under this chapter."
 
 <b>2004</b>—Pub. L. 108–374, which directed substitution of "this Act" for "section 2212 of this title" in last sentence, was executed by substituting "this chapter" for "section 213", meaning section 213 of Pub. L. 97–459, which is classified to section 2212 of this title, to reflect the probable intent of Congress.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 

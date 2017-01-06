@@ -1,0 +1,6 @@
+### §975. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–629, §5, Sept. 5, 1962, 76 Stat. 430, which related to land surveys and execution of conveyances by the Secretary of the Interior, was omitted from the Code as being of special and not general application.
+

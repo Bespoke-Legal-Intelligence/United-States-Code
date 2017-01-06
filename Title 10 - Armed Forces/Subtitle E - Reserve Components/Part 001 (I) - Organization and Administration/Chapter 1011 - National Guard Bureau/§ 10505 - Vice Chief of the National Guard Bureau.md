@@ -8,11 +8,9 @@ Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed
 
 &emsp;(B) are recommended by the Secretary of the Army, in the case of officers of the Army National Guard of the United States, or by the Secretary of the Air Force, in the case of officers of the Air National Guard of the United States, and by the Secretary of Defense;
 
-&emsp;(C) are determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience;
+&emsp;(C) are determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience; and
 
-&emsp;(D) have had at least 10 years of federally recognized commissioned service in an active status in the National Guard; and
-
-&emsp;(E) are in a grade above the grade of brigadier general.
+&emsp;(D) have had at least 10 years of federally recognized commissioned service in an active status in the National Guard.
 
 (2) The Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau may not both be members of the Army or of the Air Force.
 
@@ -20,21 +18,25 @@ Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed
 
 (B) The term of the Vice Chief of the National Guard Bureau shall end upon the appointment of a Chief of the National Guard Bureau who is a member of the same armed force as the Vice Chief.
 
-(4) The Secretary of Defense may waive the restrictions in paragraph (2) and the provisions of paragraph (3)(B) for a limited period of time to provide for the orderly transition of officers appointed to serve in the positions of Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau.
+(4) The Secretary of Defense may waive the restrictions in paragraph (2) and the provisions of paragraph (3) for not more than 90 days to provide for the orderly transition of officers appointed to serve in the positions of Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau.
 
 (b)
 
 Duties.—The Vice Chief of the National Guard Bureau performs such duties as may be prescribed by the Chief of the National Guard Bureau.
 
-(c)
-
-Grade and Exclusion From General and Flag Officer Authorized Strength.—(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of lieutenant general.
-
-(2) The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
-
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393; Pub. L. 114–328, div. A, title V, §§502(rr), 511, Dec. 23, 2016, 130 Stat. 2106, 2112.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(E). Pub. L. 114–328, §502(rr)(1), struck out subpar. (E) which read as follows: "are in a grade above the grade of brigadier general."
+
+Subsec. (a)(4). Pub. L. 114–328, §511, substituted "paragraph (3) for not more than 90 days" for "paragraph (3)(B) for a limited period of time".
+
+Subsec. (c). Pub. L. 114–328, §502(rr)(2), struck out subsec. (c). Text read as follows:
+
+"(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of lieutenant general.
+
+"(2) The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section."
 
 <b>2011</b>—Pub. L. 112–81, §511(d)(1), substituted "Vice Chief of the National Guard Bureau" for "Director of the Joint Staff of the National Guard Bureau" in section catchline.
 
@@ -69,6 +71,10 @@ Subsecs. (d), (e). Pub. L. 108–375, §507(c), struck out subsecs. (d) and (e) 
 Pub. L. 112–81, div. A, title V, §511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau."
 
 Pub. L. 108–375, div. A, title V, §508(d), Oct. 28, 2004, 118 Stat. 1877, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Vice Chief of the National Guard Bureau shall be deemed to be a reference to the Director of the Joint Staff of the National Guard Bureau."
+
+#### Effective Date
+
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 
 #### Treatment of Current Director of the Joint Staff of the National Guard Bureau
 

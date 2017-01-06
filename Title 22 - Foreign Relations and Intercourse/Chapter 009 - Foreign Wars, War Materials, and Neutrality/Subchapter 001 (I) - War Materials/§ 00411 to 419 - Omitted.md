@@ -6,7 +6,7 @@ Sections 411, 412, and 413 to 419, popularly known as the Lend-Lease Act, termin
 
 Section 411, act Mar. 11, 1941, ch. 11, §2, 55 Stat. 31, defined "defense article" and "defense information" for purpose of lease, loan, etc., of war materials in interest of United States defense.
 
-Section 412, acts Mar. 11, 1941, ch. 11, §3, 55 Stat. 31; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, §§1, 2, 58 Stat. 222, 223; Apr. 16, 1945, ch. 61, §§1, 2, 59 Stat. 52, provided for procurement for and transfer of defense articles to other countries, repairs, limitation on amount, termination of powers after June 30, 1946, or after passage of concurrent resolution by both Houses before June 30, 1946, whichever is the earlier, naval convoys, and combat area navigation.
+Section 412, acts Mar. 11, 1941, ch. 11, §3, 55 Stat. 31; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, §§1, 2, 58 Stat. 222, 223; Apr. 16, 1945, ch. 61, §§1, 2, 59 Stat. 52, provided for procurement for and transfer of defensearticles to other countries, repairs, limitation on amount, termination of powers after June 30, 1946, or after passage of concurrent resolution by both Houses before June 30, 1946, whichever is the earlier, naval convoys, and combat area navigation.
 
 Section 412a, act Mar. 18, 1943, ch. 17, title I, §1, 57 Stat. 25, prohibited disposition of merchant vessels under sections 411 to 419 of this title except by lease for duration of war.
 
@@ -30,7 +30,7 @@ Acts Feb. 7, 1942, ch. 46, title III, §301, 56 Stat. 82; Oct. 26, 1942, ch. 629
 
 #### Limitation on Appropriations
 
-Act Apr. 28, 1942, ch. 247, title II, §201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply toall appropriations made to the Navy Department since Mar. 11, 1941.
+Act Apr. 28, 1942, ch. 247, title II, §201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply to all appropriations made to the Navy Department since Mar. 11, 1941.
 
 #### Reduction in Value of Defense Articles
 

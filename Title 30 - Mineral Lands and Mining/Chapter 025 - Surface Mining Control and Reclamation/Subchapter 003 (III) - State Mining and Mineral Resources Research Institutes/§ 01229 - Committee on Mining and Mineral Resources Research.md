@@ -24,7 +24,7 @@ The Committee shall consult with, and make recommendations to, the Secretary on 
 
 #### (c) Compensation, travel, subsistence and related expenses
 
-Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5, and shall be fully reimbursed for travel, subsistence, and related expenses.
+Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5,and shall be fully reimbursed for travel, subsistence, and related expenses.
 
 #### (d) Chairmanship of Committee
 
@@ -32,7 +32,7 @@ The Committee shall be jointly chaired by the Assistant Secretary of the Interio
 
 #### (e) National plan for research
 
-The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities,the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986, and shall submit an annual update of such plan by January 15 of each calendar year.
+The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities, the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986, and shall submit an annual update of such plan by January 15 of each calendar year.
 
 #### (f) Application of Federal Advisory Committee Act
 
@@ -46,7 +46,7 @@ Section 10 of the Federal Advisory Committee Act, referred to in subsec. (f), is
 
 #### Codification
 
-Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+Section was enacted as part of the Mining and Mineral Resources Institutes Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
 #### Prior Provisions
 

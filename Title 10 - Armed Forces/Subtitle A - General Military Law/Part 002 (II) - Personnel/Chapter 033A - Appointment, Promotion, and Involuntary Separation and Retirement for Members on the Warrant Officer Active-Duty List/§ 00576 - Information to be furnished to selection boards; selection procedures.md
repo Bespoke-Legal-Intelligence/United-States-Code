@@ -12,7 +12,7 @@
 
 (c) The names of warrant officers selected for promotion under this section shall be arranged in the board's report in order of the seniority on the warrant officer active-duty list.
 
-(d) Under such regulations as the Secretary concerned may prescribe, the selection board shall report the names of those warrant officers considered by it whose records establish, in its opinion, their unfitness or unsatisfactory performance. A regular warrant officer whose name is so reported shall be considered, under regulations provided by the Secretary concerned, for retirement or separation under section 1166 of this title.
+(d) Under such regulations as the Secretary concerned may prescribe, the selection board shall report the names of those warrant officers considered by it whose records establish, in its opinion, their unfitness or unsatisfactory performance. A regular warrant officer whose name is so reported shall be considered, under regulations provided by the Secretary concerned, forretirement or separation under section 1166 of this title.
 
 (e) The report of the selection board shall be submitted to the Secretary concerned. The Secretary may approve or disapprove all or part of the report.
 
@@ -39,4 +39,8 @@ Subsec. (f)(2). Pub. L. 103–337, §541(b)(4)(C), struck out "of the military d
 #### Effective Date of 1994 Amendment
 
 Amendment by section 541(b)(4) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
+
+#### Effective Date
+
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 

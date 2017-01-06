@@ -1,6 +1,6 @@
 ### §1395w–2. Intermediate sanctions for providers or suppliers of clinical diagnostic laboratory tests
 
-(a) If the Secretary determines that any provider or clinical laboratory approved for participation under this subchapter no longer substantially meets the conditions of participation or for coverage specified under this subchapter with respect to the provision of clinical diagnostic laboratory tests under this part, the Secretary may (for a period not to exceed one year) impose intermediate sanctions developed pursuant to subsection (b) of this section, in lieu of terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory.
+(a) If the Secretary determines that any provider or clinical laboratory approved for participation under this subchapter no longer substantially meets the conditions of participation or for coverage specified under this subchapter with respect to the provision of clinical diagnostic laboratory tests under this part, the Secretary may (for a period not to exceed one year) impose intermediate sanctions developed pursuant to subsection (b), in lieu of terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory.
 
 (b)(1) The Secretary shall develop and implement—
 
@@ -16,7 +16,7 @@
 
 &emsp;(iii) payment for the costs of onsite monitoring by an agency responsible for conducting surveys, and
 
-&emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratory would otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a) of this section.
+&emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratory would otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a).
 
 > The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
@@ -24,7 +24,7 @@
 
 (3) The Secretary shall develop and implement specific procedures with respect to when and how each of the intermediate sanctions developed under paragraph (1) is to be applied, the amounts of any penalties, and the severity of each of these penalties. Such procedures shall be designed so as to minimize the time between identification of violations and imposition of these sanctions and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Pub. L. 100–203, title IV, §4064(d)(1), Dec. 22, 1987, 101 Stat. 1330–111; amended Pub. L. 100–360, titleII, §203(e)(4), title IV, §411(g)(3)(G), July 1, 1988, 102 Stat. 725, 784; Pub. L. 100–485, title VI, §608(d)(22)(C), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title IV, §4154(e)(2), Nov. 5, 1990, 104 Stat. 1388–86.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Pub. L. 100–203, title IV, §4064(d)(1), Dec. 22, 1987, 101 Stat. 1330–111; amended Pub. L. 100–360, title II, §203(e)(4), title IV, §411(g)(3)(G), July 1, 1988, 102 Stat. 725, 784; Pub. L. 100–485, title VI, §608(d)(22)(C), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title IV, §4154(e)(2), Nov. 5, 1990, 104 Stat. 1388–86.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Subsec. (b)(3). Pub. L. 100–360, §411(g)(3)(G)(vii), substituted "any penalti
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4154(e)(5) of Pub. L. 101–508, set out as a note under section 1395l of this title.
+Amendment by Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4154(e)(5)of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
 #### Effective Date of 1989 Amendment
 

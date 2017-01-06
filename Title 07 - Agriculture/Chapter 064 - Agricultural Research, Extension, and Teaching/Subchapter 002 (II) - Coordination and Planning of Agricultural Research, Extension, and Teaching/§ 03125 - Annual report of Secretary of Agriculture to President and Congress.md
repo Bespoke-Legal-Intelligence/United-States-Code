@@ -1,6 +1,6 @@
 ### §3125. Annual report of Secretary of Agriculture to President and Congress
 
-The Secretary shall submit to the President and Congress by January 1 of each year a reporton the Nation's agricultural research, extension, and teaching activities, and such report shall include—
+The Secretary shall submit to the President and Congress by January 1 of each year a report on the Nation's agricultural research, extension, and teaching activities, and such report shall include—
 
 &emsp;(1) a review covering the following three categories of activities of the Department of Agriculture with respect to agricultural research, extension, and teaching activities and the relationship of these activities to similar activities of other departments and agencies of the Federal Government, the States, colleges and universities, and the private sector—
 
@@ -29,6 +29,10 @@ The Secretary shall submit to the President and Congress by January 1 of each ye
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 #### Termination of Reporting Requirements
 

@@ -1,0 +1,424 @@
+### §44718. Structures interfering with air commerce or national security
+
+(a)
+
+Notice.—By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice,in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
+
+&emsp;(1) safety in air commerce;
+
+&emsp;(2) the efficient use and preservation of the navigable airspace and of airport traffic capacity at public-use airports; or
+
+&emsp;(3) the interests of national security, as determined by the Secretary of Defense.
+
+(b)
+
+Studies.—
+
+&emsp;(1)
+
+In general.—Under regulations prescribed by the Secretary, if the Secretary decides that constructing or altering a structure may result in an obstruction of the navigable airspace, an interference with air navigation facilities and equipment or the navigable airspace, or, after consultation with the Secretary of Defense, an adverse impact on military operations and readiness, the Secretary of Transportation shall conduct an aeronautical study to decide the extent of any adverse impact on the safe and efficient use of the airspace, facilities, or equipment. In conducting the study, the Secretary shall—
+
+&emsp;&emsp;(A) consider factors relevant to the efficient and effective use of the navigable airspace, including—
+
+&emsp;&emsp;&emsp;(i) the impact on arrival, departure, and en route procedures for aircraft operating under visual flight rules;
+
+&emsp;&emsp;&emsp;(ii) the impact on arrival, departure, and en route procedures for aircraft operating under instrument flight rules;
+
+&emsp;&emsp;&emsp;(iii) the impact on existing public-use airports and aeronautical facilities;
+
+&emsp;&emsp;&emsp;(iv) the impact on planned public-use airports and aeronautical facilities;
+
+&emsp;&emsp;&emsp;(v) the cumulative impact resulting from the proposed construction or alteration of a structure when combined with the impact of other existing or proposed structures; and
+
+&emsp;&emsp;&emsp;(vi) other factors relevant to the efficient and effective use of navigable airspace; and
+
+&emsp;&emsp;(B) include the finding made by the Secretary of Defense under subsection (f).
+
+&emsp;(2)
+
+Report.—On completing the study, the Secretary of Transportation shall issue a report disclosing the extent of the—
+
+&emsp;&emsp;(A) adverse impact on the safe and efficient use of the navigable airspace that the Secretary finds will result from constructing or altering the structure; and
+
+&emsp;&emsp;(B) unacceptable risk to the national security of the United States, as determined by the Secretary of Defense under subsection (f).
+
+&emsp;(3)
+
+Severability.—A determination by the Secretary of Transportation on hazard to air navigation under this section shall remain independent of a determination of unacceptable risk to the national security of the United States by the Secretary of Defense under subsection (f).
+
+(c)
+
+Broadcast Applications and Tower Studies.—In carrying out laws related to a broadcast application and conducting an aeronautical study related to broadcast towers, the Administrator of the Federal Aviation Administration and the Federal Communications Commission shall take action necessary to coordinate efficiently—
+
+&emsp;(1) the receipt and consideration of, and action on, the application; and
+
+&emsp;(2) the completion of any associated aeronautical study.
+
+(d)
+
+Limitation on Construction of Landfills.—
+
+&emsp;(1)
+
+In general.—No person shall construct or establish a municipal solid waste landfill (as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that the Administrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
+
+&emsp;(2)
+
+Limitation on applicability.—Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
+
+(e)
+
+Review of Aeronautical Studies.—The Administrator of the Federal Aviation Administration shall develop procedures to allow the Department of Defense and the Department of Homeland Security to review and comment on an aeronautical study conducted pursuant to subsection (b) prior to the completion of the study.
+
+(f)
+
+National Security Finding.—As part of an aeronautical study conducted under subsection (b), the Secretary of Defense shall—
+
+&emsp;(1) make a finding on whether the construction, alteration, establishment, or expansion of a structure or sanitary landfill included in the study would result in an unacceptable risk to the national security of the United States; and
+
+&emsp;(2) transmit the finding to the Secretary of Transportation for inclusion in the report required under subsection (b)(2).
+
+(g)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;(1)
+
+Adverse impact on military operations and readiness.—The term "adverse impact on military operations and readiness" has the meaning given the term in section 211.3 of title 32, Code of Federal Regulations, as in effect on January 6, 2014.
+
+&emsp;(2)
+
+Unacceptable risk to the national security of the united states.—The term "unacceptable risk to the national security of theUnited States" has the meaning given the term in section 211.3 of title 32, Code of Federal Regulations, as in effect on January 6, 2014.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+44718(a)
+
+49 App.:1501(a).
+
+Aug. 23, 1958, Pub. L. 85–726, §1101, 72 Stat. 797; restated Dec. 30, 1987, Pub. L. 100–223, §206 (less (b)), 101 Stat. 1521; Oct. 31, 1992, Pub. L. 102–581, §203(a), 106 Stat. 4890.
+
+44718(b)
+
+49 App.:1501(b).
+
+44718(c)
+
+49 App.:1501(c).
+
+In subsection (a), before clause (1), the words "(hereinafter in this section referred to as the 'Secretary')" and "where necessary" are omitted as surplus.
+
+In subsection (b)(1), before clause (A), the word "thoroughly" is omitted as surplus.
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 106–181, which amended subsec. (d) generally, and which was approved Apr. 5, 2000.
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–328, §341(a)(4)(A), inserted "or national security" after "air commerce" in section catchline.
+
+Subsec. (a)(3). Pub. L. 114–328, §341(a)(1), added par. (3).
+
+Subsec. (b). Pub. L. 114–328, §341(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to studies by Secretary to determine obstruction of airspace by newly contructed or altered structures.
+
+Subsec. (b)(1). Pub. L. 114–248, §1(a)(1), substituted "air or space navigation facilities and equipment" for "air navigation facilities and equipment" in introductory provisions.
+
+Subsec. (b)(1)(F). Pub. L. 114–248, §1(a)(2)–(4), added subpar. (F).
+
+Subsecs. (f), (g). Pub. L. 114–328, §341(a)(3), added subsecs. (f) and (g).
+
+<b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
+
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill."
+
+<b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Rulemaking
+
+Pub. L. 114–248, §1(b), Nov. 28, 2016, 130 Stat. 998, provided that: "Not later than 18 months after the date of enactment of this Act \[Nov. 28, 2016\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking to implement the amendments made by subsection (a) \[amending this section\]."
+
+#### Tower Marking
+
+Pub. L. 114–190, title II, §2110, July 15, 2016, 130 Stat. 623, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall issue regulations to require the marking of covered towers.
+
+"(b)
+
+Marking Required.—The regulations under subsection (a) shall require that a covered tower be clearly marked in a manner that is consistent with applicable guidance under the Federal Aviation Administration Advisory Circular issued December 4, 2015 (AC 70/7460–1L), or other relevant safety guidance, as determined by the Administrator.
+
+"(c)
+
+Application.—The regulations issued under subsection (a) shall ensure that—
+
+&emsp;"(1) all covered towers constructed on or after the date on which such regulations take effect are marked in accordance with subsection (b); and
+
+&emsp;"(2) a covered tower constructed before the date on which such regulations take effect is marked in accordance with subsection (b) not later than 1 year after such effective date.
+
+"(d)
+
+Definitions.—
+
+&emsp;"(1)
+
+In general.—In this section, the following definitions apply:
+
+&emsp;&emsp;"(A)
+
+Covered tower.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The term 'covered tower' means a structure that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is self-standing or supported by guy wires and ground anchors;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is 10 feet or less in diameter at the above-ground base, excluding concrete footing;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) at the highest point of the structure is at least 50 feet above ground level;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) at the highest point of the structure is not more than 200 feet above ground level;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) has accessory facilities on which an antenna, sensor, camera, meteorological instrument, or other equipment is mounted; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) is located—
+
+&emsp;&emsp;&emsp;"(aa) outside the boundaries of an incorporated city or town; or
+
+&emsp;&emsp;&emsp;"(bb) on land that is—
+
+&emsp;&emsp;&emsp;&nbsp;"(AA) undeveloped; or
+
+&emsp;&emsp;&emsp;&nbsp;"(BB) used for agricultural purposes.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Exclusions.—The term 'covered tower' does not include any structure that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is adjacent to a house, barn, electric utility station, or other building;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is within the curtilage of a farmstead;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) supports electric utility transmission or distribution lines;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) is a wind-powered electrical generator with a rotor blade radius that exceeds 6 feet; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) is a street light erected or maintained by a Federal, State, local, or tribal entity.
+
+&emsp;&emsp;"(B)
+
+Undeveloped.—The term 'undeveloped' means a defined geographic area where the Administrator determines low-flying aircraft are operated on a routine basis, such as low-lying forested areas with predominant tree cover under 200 feet and pasture and range land.
+
+&emsp;"(2)
+
+Other definitions.—The Administrator shall define such other terms as may be necessary to carry out this section.
+
+"(e)
+
+Database.—The Administrator shall—
+
+&emsp;"(1) develop a database that contains the location and height of each covered tower;
+
+&emsp;"(2) keep the database current to the extent practicable;
+
+&emsp;"(3) ensure that any proprietary information in the database is protected from disclosure in accordance with law; and
+
+&emsp;"(4) ensure that, by virtue of accessing the database, users agree and acknowledge that information in the database—
+
+&emsp;&emsp;"(A) may only be used for aviation safety purposes; and
+
+&emsp;&emsp;"(B) may not be disclosed for purposes other than aviation safety, regardless of whether or not the information is marked or labeled as proprietary or with a similar designation."
+
+#### Study of Effects of New Construction of Obstructions on Military Installations and Operations
+
+Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, title III, §331, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title X, §1076(b)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title III, §314, Nov. 25, 2015, 129 Stat. 790, provided that:
+
+"(a)
+
+Objective.—It shall be an objective of the Department of Defense to ensure that the robust development of renewable energy sources and the increased resiliency of the commercial electrical grid may move forward in the United States, while minimizing or mitigating any adverse impacts on military operations and readiness.
+
+"(b)
+
+Designation of Senior Official and Lead Organization.—
+
+&emsp;"(1)
+
+Designation.—Not later than 30 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall designate a senior official of the Department of Defense, and a lead organization of the Department of Defense, to—
+
+&emsp;&emsp;"(A) serve as the executive agent to carry out the review required by subsection (d);
+
+&emsp;&emsp;"(B) serve as a clearinghouse to coordinate Department of Defense review of applications for projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, and received by the Department of Defense from the Secretary of Transportation; and
+
+&emsp;&emsp;"(C) accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for a project submitted pursuant to such section.
+
+&emsp;"(2)
+
+Resources.—The Secretary shall ensure that the senior official and lead organization designated under paragraph (1) are assigned such personnel and resources as the Secretary considers appropriate to carry out this section.
+
+"(c)
+
+Initial Actions.—Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense, acting through the senior official and lead organization designated pursuant to subsection (b), shall—
+
+&emsp;"(1) conduct a preliminary review of each application for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that may have an adverse impact on military operations and readiness, unless such project has been granted a determination of no hazard. Such review shall, at a minimum, for each such project—
+
+&emsp;&emsp;"(A) assess the likely scope and duration of any adverse impact of such project on military operations and readiness; and
+
+&emsp;&emsp;"(B) identify any feasible and affordable actions that could be taken in the immediate future by the Department, the developer of such project, or others to mitigate such adverse impact and to minimize risks to national security while allowing such project to proceed with development;
+
+&emsp;"(2) develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that may have an adverse impact on military operations and readiness;
+
+&emsp;"(3) establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response while seeking to fulfill the objective under subsection (a); and
+
+&emsp;"(4) develop procedures for conducting early outreach to parties carrying out projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section.
+
+"(d)
+
+Comprehensive Review.—
+
+&emsp;"(1)
+
+Strategy required.—Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense, acting through the senior official and lead organization designated pursuant to subsection (b), shall develop a comprehensive strategy for addressing the military impacts of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code.
+
+&emsp;"(2)
+
+Elements.—In developing the strategy required by paragraph (1), the Secretary of Defense shall—
+
+&emsp;&emsp;"(A) assess of the magnitude of interference posed by projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code;
+
+&emsp;&emsp;"(B) identify geographic areas selected as proposed locations for projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, where such projects could have an adverse impact on military operations and readiness and categorize the risk of adverse impact in such areas for the purpose of informing early outreach efforts under subsection (c)(4) and preliminary assessments under subsection (e); and
+
+&emsp;&emsp;"(C) specifically identify feasible and affordable long-term actions that may be taken to mitigate adverse impacts of projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, on military operations and readiness, including—
+
+&emsp;&emsp;&emsp;"(i) investment priorities of the Department of Defense with respect to research and development;
+
+&emsp;&emsp;&emsp;"(ii) modifications to military operations to accommodate applications for such projects;
+
+&emsp;&emsp;&emsp;"(iii) recommended upgrades or modifications to existing systems or procedures by the Department of Defense;
+
+&emsp;&emsp;&emsp;"(iv) acquisition of new systems by the Department and other departments and agencies of the Federal Government and timelines for fielding such new systems; and
+
+&emsp;&emsp;&emsp;"(v) modifications to the projects for which such applications are filed, including changes in size, location, or technology.
+
+"(e)
+
+Department of Defense Hazard Assessment.—
+
+&emsp;"(1)
+
+Preliminary assessment.—The procedures established pursuant to subsection (c) shall ensure thatnot later than 30 days after receiving a proper application for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, the Secretary of Defense shall review the project and provide a preliminary assessment of the level of risk of adverse impact on military operations and readiness that would arise from the project and the extent of mitigation that may be needed to address such risk.
+
+&emsp;"(2)
+
+Determination of unacceptable risk.—The procedures established pursuant to subsection (c) shall ensure that the Secretary of Defense does not object to a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project would result in an unacceptable risk to the national security of the United States.
+
+&emsp;"(3)
+
+Congressional notice requirement.—Not later than 30 days after making a determination of unacceptable risk under paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on such determination and the basis for such determination. Such a report shall include an explanation of the operational impact that led to the determination, a discussion of the mitigation options considered, and an explanation of why the mitigation options were not feasible or did not resolve the conflict.
+
+&emsp;"(4)
+
+Non-delegation of determinations.—The responsibility for making a determination of unacceptable risk under paragraph (2) may only be delegated to an appropriate senior officer of the Department of Defense, on the recommendation of the senior official designated pursuant to subsection (b). The following individuals are appropriate senior officers of the Department of Defense for the purposes of this paragraph:
+
+&emsp;&emsp;"(A) The Deputy Secretary of Defense.
+
+&emsp;&emsp;"(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;&emsp;"(C) The Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Report to congress.—Not later than March 15 each year from 2011 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken by the Department of Defense during the preceding year to implement this section and the comprehensive strategy developed pursuant to this section.
+
+&emsp;"(2)
+
+Contents of report.—Each report submitted under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) the results of a review carried out by the Secretary of Defense of any projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code—
+
+&emsp;&emsp;&emsp;"(i) that the Secretary of Defense has determined would result in an unacceptable risk to the national security; and
+
+&emsp;&emsp;&emsp;"(ii) for which the Secretary of Defense has recommended to the Secretary of Transportation that a hazard determination be issued;
+
+&emsp;&emsp;"(B) an assessment of the risk associated with the loss or modifications of military training routes and a quantification of such risk;
+
+&emsp;&emsp;"(C) an assessment of the risk associated with solar power and similar systems as to the effects of glint on military readiness;
+
+&emsp;&emsp;"(D) an assessment of the risk associated with electromagnetic interference on military readiness, including the effects of testing and evaluation ranges;
+
+&emsp;&emsp;"(E) an assessment of any risks posed by the development of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, to the prevention of threats and aggression directed toward the United States and its territories; and
+
+&emsp;&emsp;"(F) a description of the distance from a military installation that the Department of Defense will use to prescreen applicants under section 44718 of title 49, United States Code.
+
+"(g)
+
+Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
+
+"(h)
+
+Effect of Department of Defense Hazard Assessment.—An action taken pursuant to this section shall not be considered to be a substitute for any assessment or determination required of the Secretary of Transportation under section 44718 of title 49, United States Code.
+
+"(i)
+
+Savings Provision.—Nothing in this section shall be construed to affect or limit the application of, or any obligation to comply with, any environmental law, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+"(j)
+
+Applicability of Section.—This section does not apply to a non-energy project.
+
+"(k)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'military training route' means a training route developed as part of the Military Training Route Program, carried out jointly by the Federal Aviation Administration and the Secretary of Defense, for use by the Armed Forces for the purpose of conducting low-altitude, high-speed military training.
+
+&emsp;"(2) The term 'military installation' has the meaning given that term in section 2801(c)(4) of title 10, United States Code.
+
+&emsp;"(3) The term 'military readiness' includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+
+&emsp;"(4) The term 'energy project' means a project that provides for the generation or transmission of electrical energy.
+
+&emsp;"(5) The term 'non-energy project' means a project that is not an energy project.
+
+&emsp;"(6) The term 'landowner' means a person or other legal entity that owns a fee interest in real property on which a proposed energy project is planned to be located."
+
+#### Landfills Interfering With Air Commerce
+
+Pub. L. 106–181, title V, §503(a), Apr. 5, 2000, 114 Stat. 133, provided that: "Congress finds that—
+
+&emsp;"(1) collisions between aircraft and birds have resulted in fatal accidents;
+
+&emsp;"(2) bird strikes pose a special danger to smaller aircraft;
+
+&emsp;"(3) landfills near airports pose a potential hazard to aircraft operating there because they attract birds;
+
+&emsp;"(4) even if the landfill is not located in the approach path of the airport's runway, it still poses a hazard because of the birds' ability to fly away from the landfill and into the path of oncoming planes;
+
+&emsp;"(5) while certain mileage limits have the potential to be arbitrary, keeping landfills at least 6 miles away from an airport, especially an airport served by small planes, is an appropriate minimum requirement for aviation safety; and
+
+&emsp;"(6) closure of existing landfills (due to concerns about aviation safety) should be avoided because of the likely disruption to those who use and depend on such landfills."
+

@@ -12,7 +12,7 @@ The Secretary of Commerce shall provide notice to the Committee on Commerce, Sci
 
 #### (b) Notice of reorganization
 
-The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, andAppropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
+The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 102–567, title IV, §403, Oct. 29, 1992, 106 Stat. 4291.)
 

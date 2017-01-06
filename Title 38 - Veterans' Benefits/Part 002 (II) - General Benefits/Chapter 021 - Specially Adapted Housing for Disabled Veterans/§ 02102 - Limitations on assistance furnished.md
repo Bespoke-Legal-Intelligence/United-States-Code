@@ -2,7 +2,7 @@
 
 (a) The assistance authorized by section 2101(a) of this title shall be afforded under one of the following plans, at the option of the individual—
 
-&emsp;(1) where the individual elects to construct a housing unit on land to be acquired by such individual, the Secretary shall pay not to exceed50 percent of the total cost to the individual of (A) the housing unit and (B) the necessary land upon which it is to be situated;
+&emsp;(1) where the individual elects to construct a housing unit on land to be acquired by such individual, the Secretary shall pay not to exceed 50 percent of the total cost to the individual of (A) the housing unit and (B) the necessary land upon which it is to be situated;
 
 &emsp;(2) where the individual elects to construct a housing unit on land acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the total cost to the individual of the housing unit and the land necessary for such housing unit, or (B) 50 percent of the cost to the individual of the housing unit plus the full amount of the unpaid balance, if any, of the cost to the individual of the land necessary for such housing unit;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into agreements with one or more qualified entities under which such entities will perform the duties described in subsection (b) of this section in accordance with the Convention, this subchapter, and the regulations prescribed under section 14923 of this title, and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
+&emsp;The Secretary shall enter into agreements with one or more qualified entities under which such entities will perform the duties described in subsection (b) in accordance with the Convention, this subchapter, and the regulations prescribed under section 14923 of this title, and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
 
 #### (2) Qualified entities
 
@@ -38,7 +38,7 @@ The duties described in this subsection are the following:
 
 #### (4) Data, records, and reports
 
-&emsp;Collection of data, maintenance of records, and reporting to the Secretary, the United States central authority, State courts, and other entities (including on persons and agencies granted or denied approval or accreditation), to the extent and in the manner that the Secretary requires.
+&emsp;Collection of data, maintenance of records, and reporting to the Secretary, the UnitedStates central authority, State courts, and other entities (including on persons and agencies granted or denied approval or accreditation), to the extent and in the manner that the Secretary requires.
 
 #### (5) Report on use of Federal funding
 

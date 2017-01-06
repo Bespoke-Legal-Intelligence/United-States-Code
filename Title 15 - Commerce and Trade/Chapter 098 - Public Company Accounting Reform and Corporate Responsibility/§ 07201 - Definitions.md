@@ -148,5 +148,5 @@ Pub. L. 107–204, §1(a), July 30, 2002, 116 Stat. 745, provided that: "This Ac
 
 #### GAO Study and Report Regarding Consolidation of Public Accounting Firms
 
-Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
+Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultationwith the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 

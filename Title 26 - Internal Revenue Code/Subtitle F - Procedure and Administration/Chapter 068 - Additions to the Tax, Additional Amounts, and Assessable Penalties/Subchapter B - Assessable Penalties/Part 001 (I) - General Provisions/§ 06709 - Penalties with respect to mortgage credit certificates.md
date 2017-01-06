@@ -4,7 +4,7 @@
 
 If—
 
-&emsp;(1) any person makes a material misstatement in any verified written statement madeunder penalties of perjury with respect to the issuance of a mortgage credit certificate, and
+&emsp;(1) any person makes a material misstatement in any verified written statement made under penalties of perjury with respect to the issuance of a mortgage credit certificate, and
 
 &emsp;(2) such misstatement is due to the negligence of such person,
 

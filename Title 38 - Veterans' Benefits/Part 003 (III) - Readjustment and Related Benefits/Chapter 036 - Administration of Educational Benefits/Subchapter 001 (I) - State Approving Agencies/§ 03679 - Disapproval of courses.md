@@ -1,6 +1,8 @@
 ### §3679. Disapproval of courses
 
-(a) Any course approved for the purposes of this chapter which fails to meet any of the requirements of this chapter shall be immediately disapproved by the Secretary or the appropriate State approving agency. An educational institution which has its courses disapproved by the Secretary or a State approving agency will be notified of such disapproval by a certified or registered letter of notification and a return receipt secured.
+(a)(1) Except as provided by paragraph (2), any course approved for the purposes of this chapter which fails to meet any of the requirements of this chapter shall be immediately disapproved by the Secretary or the appropriate State approving agency. An educational institution which has its courses disapproved by the Secretary or a State approving agency will be notified of such disapproval by a certified or registered letter of notification and a return receipt secured.
+
+(2) In the case of a course of education that would be subject to disapproval under paragraph (1) solely for the reason that the Secretary of Education withdraws the recognition of the accrediting agency that accredited the course, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, and notwithstanding the withdrawal, may continue to treat the course as an approved course of education under this chapter for a period not to exceed 18 months from the date of the withdrawal of recognition of the accrediting agency, unless the Secretary of Veterans Affairs or the appropriate State approving agency determines that there is evidence to support the disapproval of the course under this chapter. The Secretary shall provide to any veteran enrolled in such a course of education notice of the status of the course of education.
 
 (b) Each State approving agency shall notify the Secretary of each course which it has disapproved under this section. The Secretary shall notify the State approving agency of the Secretary's disapproval of any educational institution under chapter 31 of this title.
 
@@ -20,9 +22,37 @@
 
 (6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30 and 33 of this title.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908.)
+(d) Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (14) or (15) of section 3676(c) of this title unless the educational institution providing the course of education—
+
+&emsp;(1) publicly discloses any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and
+
+&emsp;(2) makes each disclosure required by paragraph (1) in a manner that the Secretary considers prominent (as specified by the Secretary in regulations prescribed for purposes of this subsection).
+
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565.)
+
+#### Amendment of Subsection (c)(2)(B)
+
+<i>Pub. L. 114–315, title IV, §417, Dec. 16, 2016, 130 Stat. 1565, provided that, applicable with respect to a course, semester, or term that begins after July 1, 2017, subsection (c)(2)(B) of this section is amended to read as follows:</i>
+
+&emsp;<i>(B) An individual who is entitled to assistance under—</i>
+
+&emsp;&emsp;<i>(i) section 3311(b)(9) of this title; or</i>
+
+&emsp;&emsp;<i>(ii) section 3319 of this title by virtue of the individual's relationship to—</i>
+
+&emsp;&emsp;&emsp;<i>(I) a veteran described in subparagraph (A); or</i>
+
+&emsp;&emsp;&emsp;<i>(II) a member of the uniformed services described in section 3319(b) of this title who is serving on active duty.</i>
+
+<i>See 2016 Amendment note below.</i>
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–228 substituted "(1) Except as provided by paragraph (2), any course" for "Any course" and added par. (2).
+
+Subsec. (c)(2)(B). Pub. L. 114–315, §417(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual's relationship to a veteran described in subparagraph (A)."
+
+Subsec. (d). Pub. L. 114–315, §409(e), added subsec. (d).
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–146 added subsec. (c).
 
@@ -35,6 +65,10 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 <b>1989</b>—Subsec. (b). Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing and "Secretary's" for "Administrator's".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "the Administrator's disapproval" for "his disapproval".
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–315, title IV, §417(b), Dec. 16, 2016, 130 Stat. 1565, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to a course, semester, or term that begins after July 1, 2017."
 
 #### Effective Date of 2014 Amendment
 

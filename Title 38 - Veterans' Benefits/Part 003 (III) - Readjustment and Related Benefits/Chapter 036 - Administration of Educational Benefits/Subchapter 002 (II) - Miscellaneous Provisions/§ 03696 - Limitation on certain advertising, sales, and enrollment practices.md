@@ -10,7 +10,7 @@
 
 (2) To the degree practicable, the Secretary shall carry out paragraph (1) in a manner that is consistent with the Secretary of Education's enforcement of section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20)).
 
-(Added Pub. L. 93–508, title II, §212(a), Dec. 3, 1974, 88 Stat. 1585, §1796; amended Pub. L. 94–502, title V, §§512, 513(a)(22), Oct. 15, 1976, 90 Stat. 2402, 2403; Pub. L. 98–543, title IV, §401, Oct. 24, 1984, 98 Stat. 2749; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3696 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–249, §2, Jan. 10, 2013, 126 Stat. 2401.)
+(Added Pub. L. 93–508, title II, §212(a), Dec. 3, 1974, 88 Stat. 1585, §1796; amended Pub. L. 94–502, title V, §§512, 513(a)(22), Oct. 15, 1976, 90 Stat. 2402, 2403; Pub. L. 98–543, title IV, §401, Oct. 24,1984, 98 Stat. 2749; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3696 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–249, §2, Jan. 10, 2013, 126 Stat. 2401.)
 
 #### Amendments
 

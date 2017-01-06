@@ -24,7 +24,7 @@ Not later than 45 days after October 29, 2002, the Administrator of General Serv
 
 &emsp;&emsp;(G) Improving the accessibility and quantity of polling places, including providing physical access for individuals with disabilities, providing nonvisual access for individuals with visual impairments, and providing assistance to Native Americans, Alaska Native citizens, and to individuals with limited proficiency in the English language.
 
-&emsp;&emsp;(H) Establishing toll-free telephone hotlines that voters may use to report possiblevoting fraud and voting rights violations, to obtain general election information, and to access detailed automated information on their own voter registration status, specific polling place locations, and other relevant information.
+&emsp;&emsp;(H) Establishing toll-free telephone hotlines that voters may use to report possible voting fraud and voting rights violations, to obtain general election information, and to access detailed automated information on their own voter registration status, specific polling place locations, and other relevant information.
 
 #### (2) Limitation
 

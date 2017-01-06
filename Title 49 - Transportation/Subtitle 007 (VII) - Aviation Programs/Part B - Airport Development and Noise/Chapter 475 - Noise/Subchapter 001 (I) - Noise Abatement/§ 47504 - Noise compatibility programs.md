@@ -56,7 +56,7 @@ Soundproofing and acquisition of certain residential buildings and properties.â€
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airportâ€”
+&emsp;(B) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof residential buildings located on residential properties, and to acquire residential properties, at which noise levels are not compatible with normal operations of an airportâ€”
 
 &emsp;&emsp;(i) if the airport operator amended an existing local aircraft noise regulation during calendar year 1993 to increase the maximum permitted noise levels for scheduled air carrier aircraft as a direct result of implementation of revised aircraft noise departure procedures mandated for aircraft safety purposes by the Administrator of the Federal Aviation Administration for standardized application at airports served by scheduled air carriers;
 
@@ -64,7 +64,7 @@ Soundproofing and acquisition of certain residential buildings and properties.â€
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
+&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations wereprescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
 
 &emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise; and
 

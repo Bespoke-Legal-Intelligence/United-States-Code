@@ -20,7 +20,7 @@ salaries, officers and employees" may be transferred among and merged with the v
 
 #### (d) Transfers to Architect of the Capitol
 
-Amounts appropriated for any fiscal year for the House of Representatives under the heading "Allowances and Expenses" may be transferred to the Architect of the Capitol and merged with and made available under the heading "House Office Buildings", subject to the approval of the Committee on Appropriations of the House of Representatives.
+Amounts appropriated for any fiscal year for the House of Representatives under the heading"Allowances and Expenses" may be transferred to the Architect of the Capitol and merged with and made available under the heading "House Office Buildings", subject to the approval of the Committee on Appropriations of the House of Representatives.
 
 #### (e) Transfers to House Historic Buildings Revitalization Trust Fund
 
@@ -36,7 +36,7 @@ Section is from the Congressional Operations Appropriations Act, 1993, which is 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c)(2). Pub. L. 113–76 substituted " 'Allowances and Expenses', the heading for any joint committee under the heading 'Joint Items' (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of theHouse of Representatives), and 'Office of the Attending Physician' " for "and 'Allowances and Expenses' ".
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–76 substituted " 'Allowances and Expenses', the heading for any joint committee under the heading 'Joint Items' (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and 'Office of the Attending Physician' " for "and 'Allowances and Expenses' ".
 
 <b>2009</b>—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, §105(a), substituted "transferred among and merged with" for "transferred among".
 

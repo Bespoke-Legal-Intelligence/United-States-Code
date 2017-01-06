@@ -1,0 +1,6 @@
+### §1774h. Omitted
+
+#### Codification
+
+Section, Pub. L. 101–503, §10, Nov. 3, 1990, 104 Stat. 1297, which authorized appropriations, was omitted from the Code as being of special and not general application.
+

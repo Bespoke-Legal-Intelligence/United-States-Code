@@ -10,7 +10,7 @@ Eligibility.—Under joint regulations prescribed by the administering Secretari
 
 &emsp;&emsp;(A) in the line of duty while performing duties under section 2109 of this title;
 
-&emsp;&emsp;(B) while traveling directly to or from the place at which that member or applicant isto perform or has performed duties pursuant to section 2109 of this title; or
+&emsp;&emsp;(B) while traveling directly to or from the place at which that member or applicant is to perform or has performed duties pursuant to section 2109 of this title; or
 
 &emsp;&emsp;(C) in the line of duty while remaining overnight immediately before the commencement of duties performed pursuant to section 2109 of this title or, while remaining overnight, between successive periods of performing duties pursuant to section 2109 of this title, at or in the vicinity of the site of the duties performed pursuant to section 2109 of this title, if the site is outside reasonable commuting distance from the residence of the member or designated applicant.
 

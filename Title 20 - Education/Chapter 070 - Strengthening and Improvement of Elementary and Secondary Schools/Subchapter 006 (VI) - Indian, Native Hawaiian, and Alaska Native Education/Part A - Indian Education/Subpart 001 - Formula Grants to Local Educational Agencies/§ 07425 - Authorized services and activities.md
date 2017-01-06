@@ -70,7 +70,7 @@ A prior section 7425, Pub. L. 89–10, title VII, §7115, as added Pub. L. 103�
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §6001(b)(5)(A)(i), made technical amendment to reference in original actwhich appears in text of introductory provisions as reference to section 7421 of this title.
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §6001(b)(5)(A)(i), made technical amendment to reference in original act which appears in text of introductory provisions as reference to section 7421 of this title.
 
 Subsec. (a)(1). Pub. L. 114–95, §6002(g)(1)(A), inserted "solely for the services and activities described in such application" before semicolon.
 

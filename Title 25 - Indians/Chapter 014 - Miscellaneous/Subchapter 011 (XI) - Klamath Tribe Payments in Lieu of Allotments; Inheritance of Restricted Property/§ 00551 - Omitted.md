@@ -1,0 +1,6 @@
+### §551. Omitted
+
+#### Codification
+
+Section, act June 1, 1938, ch. 310, §1, 52 Stat. 605, which defined "Klamath Tribe" as used in this subchapter, was omitted from the Code as being of special and not general application.
+

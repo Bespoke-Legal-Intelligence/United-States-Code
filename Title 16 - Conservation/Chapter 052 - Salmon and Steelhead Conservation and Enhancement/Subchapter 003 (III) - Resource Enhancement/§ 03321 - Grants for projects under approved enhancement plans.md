@@ -32,7 +32,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 #### (e) Approval
 
-(1) The Secretary, in consultation with the Secretary of Commerce, shall review each comprehensive enhancement plan and approve such plan within 120 days of the date of its receipt, if found to be consistent with this chapter and other applicable law. If the Secretary, in consultation with the Secretary of Commerce, finds that a plan is not in conformity with the provisions of this chapter or other applicable law, he shall return such plan to the State of Washington or the State of Oregon, or both, as appropriate, and the appropriate tribal coordinating body with recommendations.
+(1) The Secretary, in consultation with the Secretary of Commerce, shall review each comprehensive enhancement plan and approve such plan within 120 days of the date of its receipt, if found to be consistent with this chapter andother applicable law. If the Secretary, in consultation with the Secretary of Commerce, finds that a plan is not in conformity with the provisions of this chapter or other applicable law, he shall return such plan to the State of Washington or the State of Oregon, or both, as appropriate, and the appropriate tribal coordinating body with recommendations.
 
 (2) Upon receiving such a plan, the Secretary, in consultation with the Secretary of Commerce, shall—
 

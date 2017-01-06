@@ -36,7 +36,7 @@ Any standard adopted under this part shall be consistent with the objective of r
 
 &emsp;&emsp;&emsp;(i) paragraph (1) shall not apply; and
 
-&emsp;&emsp;&emsp;(ii) subsection (f) of this section shall apply.
+&emsp;&emsp;&emsp;(ii) subsection (f) shall apply.
 
 #### (3) Consultation requirement
 
@@ -46,7 +46,7 @@ Any standard adopted under this part shall be consistent with the objective of r
 
 &emsp;&emsp;&emsp;(i) in the case of a standard that has been developed, adopted, or modified by a standard setting organization, the organization consulted with each of the organizations described in subparagraph (B) in the course of such development, adoption, or modification; and
 
-&emsp;&emsp;&emsp;(ii) in the case of any other standard, the Secretary, in complying with the requirements of subsection (f) of this section, consulted with each of the organizations described in subparagraph (B) before adopting the standard.
+&emsp;&emsp;&emsp;(ii) in the case of any other standard, the Secretary, in complying with the requirements of subsection (f), consulted with each of the organizations described in subparagraph (B) before adopting the standard.
 
 #### (B) Organizations described
 
@@ -80,5 +80,5 @@ This section shall apply to a modification to a standard (including an addition 
 
 #### Prior Provisions
 
-A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
+A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the generalamendment of part B of this subchapter by Pub. L. 97–248.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding any other provision of law, the Government shall preserve biological evidence that was secured in the investigation or prosecution of a Federal offense, if a defendant is under a sentence of imprisonment for such offense.
+In General.—Notwithstanding any other provision of law, the Government shall preserve biological evidence that was secured in the investigation or prosecution of a Federal offense, if a defendant is sentenced to imprisonment for such offense.
 
 (b)
 
@@ -16,17 +16,13 @@ Defined Term.—For purposes of this section, the term "biological evidence" mea
 
 Applicability.—Subsection (a) shall not apply if—
 
-&emsp;(1) a court has denied a request or motion for DNA testing of the biological evidence by the defendant under section 3600, and no appeal is pending;
+&emsp;(1) after a conviction becomes final and the defendant has exhausted all opportunities for direct review of the conviction, the defendant is notified that the biological evidence may be destroyed and the defendant does not file a motion under section 3600 within 180 days of receipt of the notice;
 
-&emsp;(2) the defendant knowingly and voluntarily waived the right to request DNA testing of the biological evidence in a court proceeding conducted after the date of enactment of the Innocence Protection Act of 2004;
-
-&emsp;(3) after a conviction becomes final and the defendant has exhausted all opportunities for direct review of the conviction, the defendant is notified that the biological evidence may be destroyed and the defendant does not file a motion under section 3600 within 180 days of receipt of the notice;
-
-&emsp;(4)(A) the evidence must be returned to its rightful owner, or is of such a size, bulk, or physical character as to render retention impracticable; and
+&emsp;(2)(A) the evidence must be returned to its rightful owner, or is of such a size, bulk, or physical character as to render retention impracticable; and
 
 &emsp;(B) the Government takes reasonable measures to remove and preserve portions of the material evidence sufficient to permit future DNA testing; or
 
-&emsp;(5) the biological evidence has already been subjected to DNA testing under section 3600 and the results included the defendant as the source of such evidence.
+&emsp;(3) the biological evidence has already been subjected to DNA testing under section 3600 and the results included the defendant as the source of such evidence.
 
 (d)
 
@@ -34,7 +30,7 @@ Other Preservation Requirement.—Nothing in this section shall preempt or super
 
 (e)
 
-Regulations.—Not later than 180 days after the date of enactment of the Innocence Protection Act of 2004, the Attorney General shall promulgate regulations to implement and enforce this section, including appropriate disciplinary sanctions to ensure that employees comply with such regulations.
+Regulations.—Not later than 180 days after the date of enactment of the Innocence Protection Act of 2004, the Attorney General shall promulgate regulations to implement andenforce this section, including appropriate disciplinary sanctions to ensure that employees comply with such regulations.
 
 (f)
 
@@ -44,9 +40,19 @@ Criminal Penalty.—Whoever knowingly and intentionally destroys, alters, or tam
 
 Habeas Corpus.—Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
 
-(Added Pub. L. 108–405, title IV, §411(a)(1), Oct. 30, 2004, 118 Stat. 2283.)
+(Added Pub. L. 108–405, title IV, §411(a)(1), Oct. 30, 2004, 118 Stat. 2283; amended Pub. L. 114–324, §11(b), Dec. 16, 2016, 130 Stat. 1957.)
 
 #### References in Text
 
-The date of enactment of the Innocence Protection Act of 2004, referred to in subsecs. (c)(2) and (e), is the date of enactment of Pub. L. 108–405, which was approved Oct. 30, 2004.
+The date of enactment of the Innocence Protection Act of 2004, referred to in subsec. (e), is the date of enactment of Pub. L. 108–405, which was approved Oct. 30, 2004.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–324, §11(b)(1), substituted "sentenced to" for "under a sentence of".
+
+Subsec. (c). Pub. L. 114–324, §11(b)(2), redesignated pars. (3) to (5) as (1) to (3), respectively, and struck out former pars. (1) and (2) which read as follows:
+
+"(1) a court has denied a request or motion for DNA testing of the biological evidence by the defendant under section 3600, and no appeal is pending;
+
+"(2) the defendant knowingly and voluntarily waived the right to request DNA testing of the biological evidence in a court proceeding conducted after the date of enactment of the Innocence Protection Act of 2004;".
 

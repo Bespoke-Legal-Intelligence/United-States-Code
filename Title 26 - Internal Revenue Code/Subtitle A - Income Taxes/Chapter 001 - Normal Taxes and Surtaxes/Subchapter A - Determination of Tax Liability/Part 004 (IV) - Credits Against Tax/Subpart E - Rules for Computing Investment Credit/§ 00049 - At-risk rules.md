@@ -216,7 +216,7 @@ Pub. L. 99–514, title II, §211(e), Oct. 22, 1986, 100 Stat. 2169, as amended 
 
 "(1)
 
-In general.—Except as provided in this subsection, the amendments made by this section \[enacting this section and provisions set out below\] shall apply to property placed in service after December 31, 1985, in taxable years ending after such date. Section 49(c) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to taxable years ending after June 30, 1987, and to amounts carried to such taxable years.
+In general.—Except as provided in this subsection, the amendments made by this section \[enacting this section and provisions set out below\] shall apply to property placed in service after December 31, 1985, in taxable years ending after such date. Section 49(c) of the Internal Revenue Code of 1986 (as added bysubsection (a)) shall apply to taxable years ending after June 30, 1987, and to amounts carried to such taxable years.
 
 "(2)
 
@@ -264,7 +264,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Normalization Rules
 
-Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: "If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Codeof 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
+Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: "If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
 
 &emsp;"(1) all credits for open taxable years as of the time of the final determination referred to in section 46(f)(4)(A) of such Code shall be recaptured, and
 
@@ -290,7 +290,7 @@ Pub. L. 99–514, title II, §211(d), Oct. 22, 1986, 100 Stat. 2168, provided th
 
 &emsp;&emsp;"(i) section 48(b)(2)(B) of the Code \[26 U.S.C. 48(b)(2)(B)\], and
 
-&emsp;&emsp;"(ii) section 168(f)(8)(D) of the Code \[26 U.S.C. 168(f)(8)(D)\] (as in effect after the amendments made by the Technical Corrections Act of 1982 \[Pub. L. 97–448\] but before the amendments made by TEFRA); and
+&emsp;&emsp;"(ii) section 168(f)(8)(D) of the Code \[26 U.S.C. 168(f)(8)(D)\] (as in effect after the amendmentsmade by the Technical Corrections Act of 1982 \[Pub. L. 97–448\] but before the amendments made by TEFRA); and
 
 &emsp;"(C) the limitation of section 168(f)(8)(D)(ii)(III) (as then in effect) shall be read by substituting 'the lessee's original cost basis.', for 'the adjusted basis of the lessee at the time of the lease.'
 

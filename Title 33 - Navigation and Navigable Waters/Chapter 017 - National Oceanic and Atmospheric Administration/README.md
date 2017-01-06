@@ -95,6 +95,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—SEXUAL HARASSMENT AND ASSAULT PREVENTION
+
+|  |  |
+| :--- | ---: |
+| [894\.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894%20-%20Actions%20to%20address%20sexual%20harassment%20at%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Actions to address sexual harassment at National Oceanic and Atmospheric Administration. |
+| [894a.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894a%20-%20Actions%20to%20address%20sexual%20assault%20at%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Actions to address sexual assault at National Oceanic and Atmospheric Administration. |
+| [894b.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894b%20-%20Rights%20of%20the%20victim%20of%20a%20sexual%20assault.md) | Rights of the victim of a sexual assault. |
+| [894c.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894c%20-%20Change%20of%20station.md) | Change of station. |
+| [894d.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894d%20-%20Applicability%20of%20policies%20to%20crews%20of%20vessels%20secured%20by%20National%20Oceanic%20and%20Atmospheric%20Administration%20under%20contract.md) | Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract. |
+| [894e.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894e%20-%20Annual%20report%20on%20sexual%20assaults%20in%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Annual report on sexual assaults in the National Oceanic and Atmospheric Administration. |
+| [894f.](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/%C2%A7%2000894f%20-%20Sexual%20assault%20defined.md) | Sexual assault defined. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -105,3 +119,4 @@
 - [Subchapter 003 (III) - NOAA Fleet Modernization](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/README.md)
 - [Subchapter 004 (IV) - NOAA Hydrographic Services](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/README.md)
 - [Subchapter 005 (V) - Research, Development, Education, and Innovation](Subchapter%20005%20%28V%29%20-%20Research%2C%20Development%2C%20Education%2C%20and%20Innovation/README.md)
+- [Subchapter 006 (VI) - Sexual Harassment and Assault Prevention](Subchapter%20006%20%28VI%29%20-%20Sexual%20Harassment%20and%20Assault%20Prevention/README.md)

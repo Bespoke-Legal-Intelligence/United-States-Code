@@ -14,7 +14,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a), is 
 
 #### Amendments
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import andExport Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
+<b>1970</b>—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import and Export Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
 
 #### Effective Date of 1970 Amendment
 

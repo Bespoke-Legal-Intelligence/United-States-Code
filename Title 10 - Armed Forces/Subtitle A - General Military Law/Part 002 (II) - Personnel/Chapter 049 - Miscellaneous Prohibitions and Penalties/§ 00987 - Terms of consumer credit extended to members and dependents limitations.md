@@ -38,7 +38,7 @@ Preemption.—
 
 &emsp;(1)
 
-Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
+Inconsistent laws.—Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extentthat such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ Limitations.—It shall be unlawful for any creditor to extend consumer credit t
 
 &emsp;(1) the creditor rolls over, renews, repays, refinances, or consolidates any consumer credit extended to the borrower by the same creditor with the proceeds of other credit extended to the same covered member or a dependent;
 
-&emsp;(2) the borrower is required to waive the borrower's right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act;
+&emsp;(2) the borrower is required to waive the borrower's right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act (50 U.S.C. 3901 et seq.);
 
 &emsp;(3) the creditor requires the borrower to submit to arbitration or imposes onerous legal notice provisions in the case of a dispute;
 
@@ -128,7 +128,7 @@ Administrative enforcement.—The provisions of this section (other than paragra
 
 (g)
 
-Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).<sup>1</sup>
+Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this sectionmay be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. 3937).
 
 (h)
 
@@ -202,15 +202,19 @@ Creditor.—The term "creditor" means a person—
 
 Consumer credit.—The term "consumer credit" has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
 
-(Added Pub. L. 109–364, div. A, title VI, §670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786.)
+(Added Pub. L. 109–364, div. A, title VI, §670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786; Pub. L. 114–328, div. A, title X, §1081(b)(2)(A), Dec. 23, 2016, 130 Stat. 2418.)
 
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. Section 207 of the Act is classified to section 3937 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(2). Pub. L. 114–328, §1081(b)(2)(A)(i), inserted "(50 U.S.C. 3901 et seq.)" before semicolon at end.
+
+Subsec. (g). Pub. L. 114–328, §1081(b)(2)(A)(ii), substituted "(50 U.S.C. 3937)" for "(50 U.S.C. App. 527)".
 
 <b>2013</b>—Subsec. (d)(2)(A). Pub. L. 112–239, §661(a)(1), inserted "any consumer credit or" before "loans".
 
@@ -269,6 +273,4 @@ Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, pr
 #### Interim Regulations
 
 Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: "The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

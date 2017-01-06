@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of lands, waters and interests by donation, purchase, etc.
 
-Subject to the provisions of subsection (b) of this subsection,<sup>1</sup> the Secretary is authorized to acquire lands, waters, or interests therein within the Area by donation, purchase, exchange, or otherwise.
+Subject to the provisions of subsection (b) of this subsection,<sup>1</sup> the Secretary is authorized toacquire lands, waters, or interests therein within the Area by donation, purchase, exchange, or otherwise.
 
 #### (b) Consent of owner for acquisition of lands in sub-areas; exceptions; guidelines for determination of substantial change in land use or maintenance
 

@@ -44,7 +44,7 @@ Pub. L. 103–66, title XIII, §13901(a), Aug. 10, 1993, 107 Stat. 672, provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
+Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
 
 #### Short Title of 1988 Amendments
 
@@ -150,7 +150,7 @@ Reimbursement.—Members of the Committee shall serve without compensation but s
 
 "(e)
 
-Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, to the appropriate committees of Congress, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development a final report, including recommendations for common or simplified programs and policies and the effects of and reasons for such programs and policies and may submit interim reports, including reports on common or simplified programs and policies covering less than the complete range of programs and policies under review, to the committees and such Secretaries as deemed appropriate by the Committee."
+Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, to the appropriate committees of Congress, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development a final report, including recommendations for common or simplified programs and policies and the effects of and reasons for such programs and policies and may submit interim reports, including reports on common or simplified programs and policies covering less than thecomplete range of programs and policies under review, to the committees and such Secretaries as deemed appropriate by the Committee."
 
 #### Rules
 

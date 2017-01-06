@@ -50,7 +50,7 @@ Notwithstanding subsection (a), for each of fiscal years 2017 through 2019, no S
 
 #### (A) Further reductions
 
-&emsp;&emsp;The Secretary shall further reduce the amount of any grant to a State under this part for any fiscal year if the Secretary determines, based on available information on the numbers and needs of migratory children in the State and the program proposed by the State to address such needs, that such amount exceeds the amount required under section 6394 of this title.
+&emsp;&emsp;The Secretary shall further reduce the amount of any grant to a State under this part for any fiscal year if the Secretary determines, based on available information on the numbers and needs of migratory children in the State and the program proposed bythe State to address such needs, that such amount exceeds the amount required under section 6394 of this title.
 
 #### (B) Reallocation
 

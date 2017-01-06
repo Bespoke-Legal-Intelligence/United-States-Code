@@ -80,7 +80,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a special agent in the Diplomatic Security Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV,§3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–282, §4(c)(2), Oct. 15, 2010, 124 Stat. 3043.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV, §3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360; Pub. L. 111–282, §4(c)(2), Oct. 15, 2010, 124 Stat. 3043.)
 
 Historical and Revision Notes
 
@@ -134,13 +134,13 @@ In paragraph (2)(xii), the reference to former section 946 is omitted as unneces
 
 In paragraph (2)(xiii), the words "as defined by section 901 of title 20" are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
 
-The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
+The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3)is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
 
-Section 1291(a) of title 50, appendix, referred to in par. (2)(C)(ix), is section 1(a) of act Mar. 24, 1943, ch. 26, 57 Stat. 45, which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, related to certain seamen employed on vessels through the War Shipping Administration, and has been omitted from the Code.
+Section 1291(a) of title 50, appendix, referred to in par. (2)(C)(ix), is section 1(a) of act Mar. 24, 1943, ch. 26, 57 Stat. 45, which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4701(a) of Title 50.
 
 #### Amendments
 
@@ -228,7 +228,7 @@ Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided 
 
 #### Transfer of Functions
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National WeatherService\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 #### Availability of Premium Pay for Attorneys Employed in Department of Justice
 

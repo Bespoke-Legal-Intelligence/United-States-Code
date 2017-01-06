@@ -8,7 +8,7 @@ The Attorney General shall award grants to States for the purpose of enhancing t
 
 #### (1) Permitted uses
 
-&emsp;Grants awarded under subsection (a) of this section shall be used for one or more of the following:
+&emsp;Grants awarded under subsection (a) shall be used for one or more of the following:
 
 &emsp;&emsp;(A) To design and implement training programs for State and local prosecutors to ensure effective representation in State capital cases.
 
@@ -24,11 +24,11 @@ The Attorney General shall award grants to States for the purpose of enhancing t
 
 #### (2) Prohibited use
 
-&emsp;Grants awarded under subsection (a) of this section shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
+&emsp;Grants awarded under subsection (a) shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
 
 (Pub. L. 108–405, title IV, §422, Oct. 30, 2004, 118 Stat. 2288.)
 
 #### Codification
 
-Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Actof 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 

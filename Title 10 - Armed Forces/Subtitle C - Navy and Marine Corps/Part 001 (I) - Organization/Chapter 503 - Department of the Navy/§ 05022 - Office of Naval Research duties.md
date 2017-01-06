@@ -1,8 +1,6 @@
 ### §5022. Office of Naval Research: duties
 
-(a)(1) There is in the Office of the Secretary of the Navy an Office of Naval Research.
-
-(2) Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral.
+(a) There is in the Office of the Secretary of the Navy an Office of Naval Research.
 
 (b) The Office of Naval Research shall perform such duties as the Secretary of the Navy prescribes relating to—
 
@@ -18,7 +16,7 @@
 
 (d) The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Pub. L. 99–433, title V, §511(d),Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, §910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, §501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; Pub. L. 107–314, div. A, title V, §504(f), Dec. 2, 2002, 116 Stat. 2533.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Pub. L. 99–433, title V, §511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, §910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, §501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; Pub. L. 107–314, div. A, title V, §504(f), Dec. 2, 2002, 116 Stat. 2533; Pub. L. 114–328, div. A, title V, §502(u), Dec. 23, 2016, 130 Stat. 2104.)
 
 Historical and Revision Notes
 
@@ -50,6 +48,8 @@ In subsection (c) the words "shall have full force and effect as such" are omitt
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, which directed amendment of "Section 5022 of title 10, United States Code," by striking the par. (1) designation and by striking par. (2), without specifying the subsection of section 5022 to be amended, was executed by striking the par. (1) designation before "There is in the Office" in subsec. (a) and by striking par. (2) of subsec. (a) to reflect the probable intent of Congress. Par. (2) of subsec. (a) read as follows: "Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral."
+
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 struck out "(upper half)" after "rear admiral".
 
 <b>2000</b>—Subsec. (b)(4). Pub. L. 106–398 added par. (4).
@@ -76,7 +76,7 @@ Project Elements.—In carrying out the demonstration project, the Secretary sha
 
 &emsp;"(1) establish and operate a Navy Technology Extension Center at a location to be selected by the Secretary;
 
-&emsp;"(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and charge such participants for such access and use at the same established rates that Department of Defense customers are charged; and
+&emsp;"(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and chargesuch participants for such access and use at the same established rates that Department of Defense customers are charged; and
 
 &emsp;"(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilities for such purposes, and charge such entities for such access and use at such rates.
 

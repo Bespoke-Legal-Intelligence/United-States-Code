@@ -14,3 +14,7 @@ The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, c
 
 The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
+

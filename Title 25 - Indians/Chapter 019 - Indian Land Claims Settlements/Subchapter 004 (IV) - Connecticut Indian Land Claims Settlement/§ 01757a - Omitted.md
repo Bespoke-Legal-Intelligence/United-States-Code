@@ -1,0 +1,6 @@
+### §1757a. Omitted
+
+#### Codification
+
+Section, Pub. L. 110–228, §1, May 8, 2008, 122 Stat. 753, which related to extensions of leases of certain land by the tribe, was omitted from the Code as being of special and not general application.
+

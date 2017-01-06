@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(2) The term "construction" includes construction and initial equipment of new buildings, and expansion, remodeling, and alteration of existing buildings and equipment therein, including architect's services, but excluding off-site improvements.
 
-&emsp;(3) The term "institution of higher education" means an educational institution in any State which (A) admits as regular students only individuals having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate; (B) is legally authorized within such State to provide a program of education beyond secondary education; (C) provides an educational program for which itawards a bachelor's degree; (D) includes one or more professional or graduate schools; (E) is a public or nonprofit private institution; and (F) is accredited by a nationally recognized accrediting agency or association. For the purpose of subparagraph (F), the Secretary shall publish a list of nationally recognized accrediting agencies or associations which the Secretary determines to be reliable authority as to the quality of training offered.
+&emsp;(3) The term "institution of higher education" means an educational institution in any State which (A) admits as regular students only individuals having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate; (B) is legally authorized within such State to provide a program of education beyond secondary education; (C) provides an educational program for which it awards a bachelor's degree; (D) includes one or more professional or graduate schools; (E) is a public or nonprofit private institution; and (F) is accredited by a nationally recognized accrediting agency or association. For the purpose of subparagraph (F), the Secretary shall publish a list of nationally recognized accrediting agencies or associations which the Secretary determines to be reliable authority as to the quality of training offered.
 
 &emsp;(4) The term "Secretary" means the Secretary of Education.
 
@@ -50,7 +50,7 @@ Pub. L. 102–421, §131(2), redesignated par. (5) as (4) and struck out former 
 
 Pars. (5), (6). Pub. L. 102–421, §131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-Par. (7). Pub. L. 102–421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted "the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect)." for "the Northern Mariana Islands and the Trust Territory of the Pacific Islands.". Former par. (7) redesignated (6).
+Par. (7). Pub. L. 102–421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted "the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palautakes effect)." for "the Northern Mariana Islands and the Trust Territory of the Pacific Islands.". Former par. (7) redesignated (6).
 
 Pars. (8), (9). Pub. L. 102–421, §131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
 

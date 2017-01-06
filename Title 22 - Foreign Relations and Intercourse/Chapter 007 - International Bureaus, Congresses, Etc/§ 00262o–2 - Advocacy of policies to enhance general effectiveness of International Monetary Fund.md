@@ -32,7 +32,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) consideration of provisions in debt contracts that would foster dialogue and consultation between a sovereign debtor and its private creditors, and among those creditors;
 
-&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy on lending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
+&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy onlending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
 
 &emsp;&emsp;(E) intensified consideration of mechanisms to facilitate orderly workout mechanisms for countries experiencing debt or liquidity crises;
 
@@ -64,7 +64,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(13) Facilitate greater International Monetary Fund accountability and enhance International Monetary Fund self-evaluation by vigorously promoting review of the effectiveness of the Office of Internal Audit and Inspection and the Executive Board's external evaluation pilot program and, if necessary, the establishment of an operations evaluation department modeled on the experience of the International Bank for Reconstruction and Development, guided by such key principles as usefulness, credibility, transparency, and independence.
 
-&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterpriselending, especially in the world's poorest, heavily indebted countries.
+&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterprise lending, especially in the world's poorest, heavily indebted countries.
 
 &emsp;(15) Work with the International Monetary Fund to—
 
@@ -80,7 +80,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Coordination with other executive departments
 
-To the extent that it would assist in achieving the goals described in subsection (a) of this section, the Secretary of the Treasury shall pursue the goals in coordination with the Secretary of State, the Secretary of Labor, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, and the United States Trade Representative.
+To the extent that it would assist in achieving the goals described in subsection (a), the Secretary of the Treasury shall pursue the goals in coordination with the Secretary of State, the Secretary of Labor, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, and the United States Trade Representative.
 
 (Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; amended Pub. L. 108–458, title VII, §7703(a), Dec. 17, 2004, 118 Stat. 3860.)
 

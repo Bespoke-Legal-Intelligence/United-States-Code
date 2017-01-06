@@ -102,7 +102,7 @@ Sec. 2. Eligible recipients generally will be recommended to the President by th
 
 Sec. 3. The President may select for the Medal up to ten persons annually from among those persons recommended to the President by the Attorney General. In submitting recommendations to the President, the Attorney General may consult with experts representing all segments of the public safety sector, including representatives from law enforcement, firefighters, and emergency services.
 
-Sec. 4. Those chosen for recognition shall receive a medal and a certificate, the designs of which shall be submitted by the Attorney General for the President'sapproval no later than December 1, 2000. The medal and certificate shall be prepared by the Department of Justice.
+Sec. 4. Those chosen for recognition shall receive a medal and a certificate, the designs of which shall be submitted by the Attorney General for the President's approval no later than December 1, 2000. The medal and certificate shall be prepared by the Department of Justice.
 
 Sec. 5. The Medal may be given posthumously.
 

@@ -54,7 +54,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferredunder section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (2) Deductibility
 
-&emsp;Any premium required by this section shall be deductible without regard to any limitation on deductibility based on the prefunding of health benefits.
+&emsp;Any premium required by this section shall be deductible without regard to any limitationon deductibility based on the prefunding of health benefits.
 
 #### (h) Information
 
@@ -128,7 +128,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (A) 1st year costs
 
-&emsp;&emsp;During the plan year of the Combined Fund beginning February 1, 1993, the 1988agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993.
+&emsp;&emsp;During the plan year of the Combined Fund beginning February 1, 1993, the 1988 agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993.
 
 #### (B) Deficits from merged plans
 
@@ -210,7 +210,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Coordination with repeal of assignments
 
-&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsectionapplies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liable for the payment of premiums under section 9706(h)(3).
+&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsection applies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liable for the payment of premiums under section 9706(h)(3).
 
 #### (D) Controlled group
 

@@ -64,7 +64,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### (B) Serious health condition
 
-&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
+&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, familyleave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
 
 #### (e) Foreseeable leave
 
@@ -112,7 +112,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional inWhole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (d)(1). Pub. L. 110–181, §585(a)(3)(B)(i), inserted "(or 26 workweeks
 
 Subsec. (d)(2)(A). Pub. L. 110–181, §585(a)(3)(B)(ii), substituted "(C), or (E)" for "or (C)".
 
-Subsec. (d)(2)(B). Pub. L. 110–181, §585(a)(3)(B)(iii), inserted at end "An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave."
+Subsec. (d)(2)(B). Pub. L. 110–181, §585(a)(3)(B)(iii), inserted at end "An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part ofthe 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave."
 
 Subsec. (e)(2). Pub. L. 110–181, §585(a)(3)(C)(i), inserted "or under subsection (a)(3)" after "subsection (a)(1)" in introductory provisions.
 

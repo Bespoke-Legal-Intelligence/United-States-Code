@@ -10,7 +10,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(i) an institution of higher education, as defined in section 1002 of this title;
 
-&emsp;&emsp;&emsp;(ii) an Indian tribe or tribal organization, as defined in section 450b of title 25; or
+&emsp;&emsp;&emsp;(ii) an Indian tribe or tribal organization, as defined in section 5304 of title 25; or
 
 &emsp;&emsp;&emsp;(iii) one or more nonprofit entities working in formal partnership with not less than 1 of the following entities:
 
@@ -20,7 +20,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;&emsp;(III) The office of a chief elected official of a unit of local government.
 
-&emsp;&emsp;&emsp;&emsp;(IV) An Indian tribe or tribal organization, as defined under section 450b of title 25.
+&emsp;&emsp;&emsp;&emsp;(IV) An Indian tribe or tribal organization, as defined under section 5304 of title 25.
 
 &emsp;&emsp;(B) With respect to a grant for activities described in section 7273(a)(1)(B) of this title, a consortium of—
 
@@ -52,7 +52,7 @@ In this subpart:
 
 &emsp;&emsp;(E) Activities that support postsecondary and workforce readiness, which may include job training, internship opportunities, and career counseling.
 
-&emsp;&emsp;(F) Community-based support for students who have attended the schools in the area served by the pipeline, or students who are members of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
+&emsp;&emsp;(F) Community-based support for students who have attended the schools in the area served by the pipeline, or students who aremembers of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
 
 &emsp;&emsp;(G) Social, health, nutrition, and mental health services and supports.
 

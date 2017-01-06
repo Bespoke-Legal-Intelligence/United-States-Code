@@ -6,7 +6,7 @@ As used in this chapter, the term "member of the former ruling family" means (1)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For completeclassification of this Act to the Code, see section 4301 of this title and Tables.
 
 #### Codification
 

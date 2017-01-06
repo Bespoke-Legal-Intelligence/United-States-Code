@@ -2,7 +2,7 @@
 
 A person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this part that, in aggregate, exceed $450,000 for all contracts entered into under this part by the person or legal entity during the period of fiscal years 2014 through 2018, regardless of the number of contracts entered into under this part by the person or legal entity.
 
-(Pub. L. 99–198, title XII, §1240G, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 108–447, div. A, title VII, §794(b), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(b), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2508, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, §4(a), title II, §2508, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 113–79, title II, §2206, Feb. 7, 2014, 128 Stat. 730.)
+(Pub. L. 99–198, title XII, §1240G, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 108–447, div. A, title VII, §794(b), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(b), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2508, May 22, 2008, 122Stat. 1063; Pub. L. 110–246, §4(a), title II, §2508, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 113–79, title II, §2206, Feb. 7, 2014, 128 Stat. 730.)
 
 #### Codification
 

@@ -1,0 +1,24 @@
+### §5611. Definitions
+
+In this subchapter:
+
+#### (1) Indian tribe
+
+&emsp;The term "Indian tribe" has the meaning given the term in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).<sup>1</sup>
+
+#### (2) Project
+
+&emsp;The term "Project" means the Indian trust asset management demonstration project established under section 5612(a) of this title.
+
+#### (3) Secretary
+
+&emsp;The term "Secretary" means the Secretary of the Interior.
+
+(Pub. L. 114–178, title II, §202, June 22, 2016, 130 Stat. 433.)
+
+#### References in Text
+
+The Indian Self-Determination and Education Assistance Act, referred to in par. (1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. Definitions of terms in the Act were contained in section 450b of this title, which was editorially reclassified as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

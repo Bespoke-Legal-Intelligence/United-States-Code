@@ -26,7 +26,7 @@ Brown tree snake control, interdiction, research, and eradication efforts author
 
 &emsp;(9) Expansion of short, medium, and long-term research, funded by all Federal agencies interested in or affected by the brown tree snake, into interdiction, detection, and early control of the brown tree snake.
 
-&emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown treesnake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
+&emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown tree snake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
 
 &emsp;(11) Provision of technical assistance to the Freely Associated States on matters related to the brown tree snake through the mechanisms contained within a Compact of Free Association dealing with environmental, quarantine, economic, and human health issues.
 

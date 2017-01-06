@@ -1,0 +1,6 @@
+### §998. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–775, §8, Oct. 9, 1962, 76 Stat. 777, which authorized the Secretary of the Interior to prescribe rules and regulations to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
+

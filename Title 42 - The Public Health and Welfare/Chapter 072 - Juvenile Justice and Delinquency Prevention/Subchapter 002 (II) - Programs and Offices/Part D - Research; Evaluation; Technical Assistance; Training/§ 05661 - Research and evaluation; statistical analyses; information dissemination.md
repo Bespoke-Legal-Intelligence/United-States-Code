@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
 
-&emsp;&emsp;(xi) other purposes consistent with the purposes of this subchapter and subchapter I of this chapter.
+&emsp;&emsp;(xi) other purposes consistent with the purposes of this subchapter and subchapter I.
 
 (2) The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
 
@@ -66,7 +66,7 @@ The Administrator may—
 
 &emsp;(1) plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
 
-&emsp;(2) undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I of this chapter.
+&emsp;(2) undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I.
 
 #### (c) Grant authority and competitive selection process
 

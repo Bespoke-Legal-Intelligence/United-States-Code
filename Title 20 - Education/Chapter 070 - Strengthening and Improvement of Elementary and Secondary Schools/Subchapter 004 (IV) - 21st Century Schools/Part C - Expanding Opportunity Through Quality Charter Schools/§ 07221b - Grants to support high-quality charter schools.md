@@ -144,7 +144,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 #### (1) Description of program
 
-&emsp;A description of the State entity's objectives in running a quality charter school program under this section and how the objectives of the program will be carried out, including—
+&emsp;A description of the State entity's objectives in running a quality charter school programunder this section and how the objectives of the program will be carried out, including—
 
 &emsp;&emsp;(A) a description of how the State entity will—
 
@@ -212,7 +212,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of the roles and responsibilities of eligible applicants, partner organizations, and charter management organizations, including the administrative and contractual roles and responsibilities of such partners;
 
-&emsp;&emsp;&emsp;&emsp;(II) a description of the quality controls agreed to between the eligible applicant and the authorized public chartering agency involved, such as a contract or performance agreement, how a school's performance in the State's accountability system and impact on student achievement (which may include student academic growth) will be one of the most important factors for renewalor revocation of the school's charter, and how the State entity and the authorized public chartering agency involved will reserve the right to revoke or not renew a school's charter based on financial, structural, or operational factors involving the management of the school;
+&emsp;&emsp;&emsp;&emsp;(II) a description of the quality controls agreed to between the eligible applicant and the authorized public chartering agency involved, such as a contract or performance agreement, how a school's performance in the State's accountability system and impact on student achievement (which may include student academic growth) will be one of the most important factors for renewal or revocation of the school's charter, and how the State entity and the authorized public chartering agency involved will reserve the right to revoke or not renew a school's charter based on financial, structural, or operational factors involving the management of the school;
 
 &emsp;&emsp;&emsp;&emsp;(III) a description of how the autonomy and flexibility granted to a charter school is consistent with the definition of a charter school in section 7221i of this title;
 
@@ -254,7 +254,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;(F) the State entity will work to ensure that charter schools are included with the traditional public schools in decisionmaking about the public school system in the State; and
 
-&emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State report card under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
+&emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State reportcard under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
 
 &emsp;&emsp;&emsp;(i) information on the educational program;
 

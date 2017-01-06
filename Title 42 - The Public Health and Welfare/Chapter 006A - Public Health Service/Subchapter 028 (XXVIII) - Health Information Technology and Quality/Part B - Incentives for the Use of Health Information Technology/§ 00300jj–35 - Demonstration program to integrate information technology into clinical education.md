@@ -10,7 +10,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;(1) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;
 
-&emsp;(2) submit to the Secretary a strategic plan for integrating certified EHR technology in the clinical education of health professionals to reduce medical errors, increase access to prevention, reduce chronic diseases, and enhance health care quality;
+&emsp;(2) submit to the Secretary a strategic plan for integrating certified EHR technology inthe clinical education of health professionals to reduce medical errors, increase access to prevention, reduce chronic diseases, and enhance health care quality;
 
 &emsp;(3) be—
 

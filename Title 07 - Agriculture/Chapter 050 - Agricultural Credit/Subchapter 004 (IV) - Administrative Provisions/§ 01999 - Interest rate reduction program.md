@@ -20,7 +20,7 @@ Under such program, the Secretary shall enter into a contract with, and make pay
 
 #### (c) Payments to lenders
 
-In return for a contract entered into by a lender under subsection (b) for the reduction of theinterest rate paid on a loan, the Secretary shall make payments to the lender in an amount equal to not more than 100 percent of the cost of reducing the annual rate of interest payable on such loan, except that such payments may not exceed the cost of reducing such rate by more than 4 percent.
+In return for a contract entered into by a lender under subsection (b) for the reduction of the interest rate paid on a loan, the Secretary shall make payments to the lender in an amount equal to not more than 100 percent of the cost of reducing the annual rate of interest payable on such loan, except that such payments may not exceed the cost of reducing such rate by more than 4 percent.
 
 #### (d) Duration of contracts
 
@@ -66,7 +66,7 @@ For definition of "this chapter", referred to in subsecs. (a)(1), (e)(1), and (g
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, §5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: "The authority provided by this subsection shall terminate on September 30, 2002."
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §5313(1), struck out par. (1) designation and heading and struck out headingand text of par. (2). Text read as follows: "The authority provided by this subsection shall terminate on September 30, 2002."
 
 Subsec. (e)(2). Pub. L. 107–171, §5313(2), added par. (2) and struck out former par. (2) which read as follows: "The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000."
 

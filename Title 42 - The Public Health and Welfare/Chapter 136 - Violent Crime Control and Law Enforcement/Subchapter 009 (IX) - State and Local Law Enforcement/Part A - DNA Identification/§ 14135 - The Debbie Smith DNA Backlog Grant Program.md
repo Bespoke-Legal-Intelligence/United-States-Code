@@ -30,13 +30,13 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;(3) include a certification that the State or unit of local government has determined, by statute, rule, or regulation, those offenses under State law that shall be treated for purposes of this section as qualifying State offenses;
 
-&emsp;(4) specify the allocation that the State or unit of local government shall make, in using grant amounts to carry out DNA analyses of samples, as between samples specified in subsection (a)(1) of this section and samples specified in subsection (a)(2) of this section;
+&emsp;(4) specify the allocation that the State or unit of local government shall make, in using grant amounts to carry out DNA analyses of samples, as between samples specified in subsection (a)(1) and samples specified in subsection (a)(2);
 
-&emsp;(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3) of this section;
+&emsp;(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3);
 
-&emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
+&emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which ithas requested funding in the Combined DNA Index System; and
 
-&emsp;(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4) of this section.
+&emsp;(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4).
 
 #### (c) Formula for distribution of grants
 
@@ -60,9 +60,9 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (3) Limitation
 
-&emsp;Grant amounts distributed under paragraph (1) shall be awarded to conduct DNA analyses of samples from casework or from victims of crime under subsection (a)(2) of this section in accordance with the following limitations:
+&emsp;Grant amounts distributed under paragraph (1) shall be awarded to conduct DNA analyses of samples from casework or from victims of crime under subsection (a)(2) in accordance with the following limitations:
 
-&emsp;&emsp;(A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
+&emsp;&emsp;(A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
 &emsp;&emsp;(B) For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
@@ -76,7 +76,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (1) In general
 
-&emsp;A plan pursuant to subsection (b)(1) of this section shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
+&emsp;A plan pursuant to subsection (b)(1) shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
 
 &emsp;&emsp;(A) operated by the State or a unit of local government; or
 
@@ -92,7 +92,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (A) In general
 
-&emsp;&emsp;A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) of this section may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
+&emsp;&emsp;A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
 
 #### (B) Redemption
 
@@ -100,7 +100,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (C) Payments
 
-&emsp;&emsp;The Attorney General may use amounts authorized under subsection (j) of this section to make payments to a laboratory described under subparagraph (B).
+&emsp;&emsp;The Attorney General may use amounts authorized under subsection (j) to make payments to a laboratory described under subparagraph (B).
 
 #### (e) Restrictions on use of funds
 
@@ -114,7 +114,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (f) Reports to the Attorney General
 
-Each State or unit of local government which receives a grant under this section shall submit to the Attorney General, for each year in which funds from a grant received under this section is expended, a report at such time and in such manner as the Attorney General may reasonably require, which contains—
+Each State or unit of local government which receives a grant under this section shall submit to the Attorney General, for each year in which funds from a grant received under this section is expended, a report at such time and in suchmanner as the Attorney General may reasonably require, which contains—
 
 &emsp;(1) a summary of the activities carried out under the grant and an assessment of whether such activities are meeting the needs identified in the application; and
 
@@ -150,7 +150,7 @@ There are authorized to be appropriated to the Attorney General for grants under
 
 #### (k) Use of funds for accreditation and audits
 
-The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j) of this section—
+The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j)—
 
 &emsp;(1) to States or units of local government to defray the costs incurred by laboratories operated by each such State or unit of local government in preparing for accreditation or reaccreditation;
 
@@ -170,7 +170,7 @@ The Attorney General may award a grant under this section to a State or unit of 
 
 &emsp;(1) certifies to the Attorney General that in such State or unit—
 
-&emsp;&emsp;(A) all of the purposes set forth in subsection (a) of this section have been met;
+&emsp;&emsp;(A) all of the purposes set forth in subsection (a) have been met;
 
 &emsp;&emsp;(B) a significant backlog of casework is not waiting for DNA analysis; and
 
@@ -342,7 +342,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;In this subsection, the terms "awaiting testing" and "possession" have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004,118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918.)
 
 #### Amendment of Section
 
@@ -424,9 +424,9 @@ Subsec. (b)(6). Pub. L. 108–405, §202(a)(3)(F), added par. (6).
 
 Subsec. (b)(7). Pub. L. 108–405, §202(b)(2), added par. (7).
 
-Subsec. (c). Pub. L. 108–405, §202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "A State that proposes to allocate grant amounts under paragraph (4) or (5) ofsubsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects."
+Subsec. (c). Pub. L. 108–405, §202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects."
 
-Subsec. (d)(1). Pub. L. 108–405, §202(a)(4)(A), substituted "A plan pursuant to subsection (b)(1) of this section" for "The plan" in introductory provisions and struck out "within the State" after "local government" in subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 108–405, §202(a)(4)(A), substituted "A plan pursuant to subsection (b)(1)" for "The plan" in introductory provisions and struck out "within the State" after "local government" in subpars. (A) and (B).
 
 Subsec. (d)(2)(A). Pub. L. 108–405, §202(a)(4)(B), inserted "and units of local government" after "States".
 
@@ -540,7 +540,7 @@ Limitation.—No amounts authorized to be appropriated to the Department of Just
 
 &emsp;&emsp;"(B)
 
-Written approval.—Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audio/visual equipment, honoraria for speakers, and any entertainment.
+Written approval.—Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audio/visualequipment, honoraria for speakers, and any entertainment.
 
 &emsp;&emsp;"(C)
 

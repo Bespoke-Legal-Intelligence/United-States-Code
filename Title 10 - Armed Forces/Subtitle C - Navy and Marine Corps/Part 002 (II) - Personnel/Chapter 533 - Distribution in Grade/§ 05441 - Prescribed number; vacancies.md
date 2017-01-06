@@ -2,7 +2,7 @@
 
 In this chapter, the term "prescribed number" or "number . . . prescribed" as applied to a grade, means the number of officers of a described corps, designation, or other category that shall be maintained in the grade concerned. Except as otherwise specifically provided, the actual number of officers in a grade may not exceed the prescribed number. Vacancies occur whenever, and to the extent that, the actual number falls below the prescribed number.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 299; Pub. L. 96–513, title III, §313(a), Dec. 12, 1980, 94 Stat.2889; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 299; Pub. L. 96–513, title III, §313(a), Dec. 12, 1980, 94 Stat. 2889; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605.)
 
 #### Historical and Revision Notes
 

@@ -12,7 +12,7 @@ It is the policy of the United States that no sales should be made, and no credi
 
 #### (c) Report by President; contents
 
-The President shall promptly transmit reports to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in section 2778(j)(1)(C)(i) of this title. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
+The President shall promptly transmit reports to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in section 2778(j)(1)(C)(i) of this title. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the partof the United States or any agency or employee thereof, and (3) the result of such response, if any.
 
 #### (d) Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale
 
@@ -34,7 +34,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 (3)(A) In the event a statement with respect to a sale or licensed transaction is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such sale or licensed transaction.
 
-(B) Any such resolution shall be considered in the Senate in accordance with the provisions ofsection 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+(B) Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 (C) The term "certification", as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 

@@ -10,18 +10,17 @@
 | [2244\.](%C2%A7%2002244%20-%20Security%20investigations.md) | Security investigations. |
 | [2244a.](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md) | Equipment scheduled for retirement or disposal: limitation on expenditures for modifications. |
 | [2245\.](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md) | Use of aircraft for proficiency flying: limitation. |
-| [2245a.](%C2%A7%2002245a%20-%20Use%20of%20operation%20and%20maintenance%20funds%20for%20purchase%20of%20investment%20items%20limitation.md) | Use of operation and maintenance funds for purchase of investment items: limitation. |
-| \[2246 to 2248. Renumbered or Repealed.\] |  |
+| \[2245a, 2246 to 2248. Renumbered or Repealed.\] |  |
 | [2249\.](%C2%A7%2002249%20-%20Prohibition%20on%20use%20of%20funds%20for%20documenting%20economic%20or%20employment%20impact%20of%20certain%20acquisition%20programs.md) | Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs. |
-| [2249a.](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md) | Prohibition on providing financial assistance to terrorist countries. |
+| \[2249a. | Renumbered.\] |
 | [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md) | Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces. |
-| [2249c.](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md) | Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials. |
-| [2249d.](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md) | Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces. |
-| [2249e.](%C2%A7%2002249e%20-%20Prohibition%20on%20use%20of%20funds%20for%20assistance%20to%20units%20of%20foreign%20security%20forces%20that%20have%20committed%20a%20gross%20violation%20of%20human%20rights.md) | Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights. |
+| \[2249c to 2249e. Renumbered.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VIII, §833(b)(1)(B), title XII, §§1241(o)(6), 1247(d), Dec. 23, 2016, 130 Stat. 2284, 2512, 2522, struck out items 2245a "Use of operation and maintenance funds for purchase of investment items: limitation", 2249a "Prohibition on providing financial assistance to terrorist countries", 2249c "Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials", 2249d "Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces", and 2249e "Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title III, §341(b), title V, §573(b)(2), Nov. 25, 2015, 129 Stat. 793, 831, added item 2241b and substituted "Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools" for "Authority to use appropriated funds to support student meal programs in overseas dependents' schools" in item 2243.
 
@@ -74,13 +73,13 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02244 - Security investigations](%C2%A7%2002244%20-%20Security%20investigations.md)
 - [&sect; 02244a - Equipment scheduled for retirement or disposal limitation on expenditures for modifications](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md)
 - [&sect; 02245 - Use of aircraft for proficiency flying limitation](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md)
-- [&sect; 02245a - Use of operation and maintenance funds for purchase of investment items limitation](%C2%A7%2002245a%20-%20Use%20of%20operation%20and%20maintenance%20funds%20for%20purchase%20of%20investment%20items%20limitation.md)
+- [&sect; 02245a - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(1)(A), Dec. 23, 2016, 130 Stat. 2284](%C2%A7%2002245a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%281%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202284.md)
 - [&sect; 02246 - Renumbered &sect;2491a](%C2%A7%2002246%20-%20Renumbered%20%C2%A72491a.md)
 - [&sect; 02247 - Renumbered &sect;2491b](%C2%A7%2002247%20-%20Renumbered%20%C2%A72491b.md)
 - [&sect; 02248 - Repealed. Pub. L. 108&#8211;136, div. A, title X, &sect;1045(a)(5)(A), Nov. 24, 2003, 117 Stat. 1612](%C2%A7%2002248%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71045%28a%29%285%29%28A%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201612.md)
 - [&sect; 02249 - Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs](%C2%A7%2002249%20-%20Prohibition%20on%20use%20of%20funds%20for%20documenting%20economic%20or%20employment%20impact%20of%20certain%20acquisition%20programs.md)
-- [&sect; 02249a - Prohibition on providing financial assistance to terrorist countries](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md)
+- [&sect; 02249a - Renumbered &sect;361](%C2%A7%2002249a%20-%20Renumbered%20%C2%A7361.md)
 - [&sect; 02249b - Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md)
-- [&sect; 02249c - Regional Defense Combating Terrorism Fellowship Program authority to use appropriated funds for costs associated with education and&#8230;](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md)
-- [&sect; 02249d - Distribution to certain foreign personnel of education and training materials and information technology to enhance military&#8230;](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md)
-- [&sect; 02249e - Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights](%C2%A7%2002249e%20-%20Prohibition%20on%20use%20of%20funds%20for%20assistance%20to%20units%20of%20foreign%20security%20forces%20that%20have%20committed%20a%20gross%20violation%20of%20human%20rights.md)
+- [&sect; 02249c - Renumbered &sect;345](%C2%A7%2002249c%20-%20Renumbered%20%C2%A7345.md)
+- [&sect; 02249d - Renumbered &sect;346](%C2%A7%2002249d%20-%20Renumbered%20%C2%A7346.md)
+- [&sect; 02249e - Renumbered &sect;362](%C2%A7%2002249e%20-%20Renumbered%20%C2%A7362.md)

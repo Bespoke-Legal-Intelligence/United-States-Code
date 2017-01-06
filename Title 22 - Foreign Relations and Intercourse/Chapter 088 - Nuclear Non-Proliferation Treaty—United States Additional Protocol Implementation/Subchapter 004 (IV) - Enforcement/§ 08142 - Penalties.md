@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Before imposing a penalty against a person under paragraph (1), the head of an executiveagency designated under section 8111(a) of this title shall provide the person with notice of the order. If, within 15 days after receiving the notice, the person requests a hearing, the head of the designated executive agency shall initiate a hearing on the violation.
+&emsp;&emsp;Before imposing a penalty against a person under paragraph (1), the head of an executive agency designated under section 8111(a) of this title shall provide the person with notice of the order. If, within 15 days after receiving the notice, the person requests a hearing, the head of the designated executive agency shall initiate a hearing on the violation.
 
 #### (B) Conduct of hearing
 

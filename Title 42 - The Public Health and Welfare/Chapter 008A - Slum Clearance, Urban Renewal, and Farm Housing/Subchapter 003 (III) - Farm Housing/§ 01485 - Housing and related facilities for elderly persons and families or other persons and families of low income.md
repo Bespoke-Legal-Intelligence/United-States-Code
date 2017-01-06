@@ -42,7 +42,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 #### (c) Equity recapture loans and loans to nonprofit organizations and public agencies
 
-With respect to a loan made or insured under subsection (a) or (b) of this section, the Secretary is authorized to—
+With respect to a loan made or insured under subsection (a) or (b), the Secretary is authorized to—
 
 &emsp;(1) make or insure an equity loan in the form of a supplemental loan for the purpose of equity takeout to the owner of housing financed with a loan made or insured under this section pursuant to a contract entered into before December 15, 1989, for the purpose of extending the affordability of the housing for low income families or persons and very low-income families or persons for not less than 20 years, except that such loan may not exceed 90 percent of the value of the equity in the project as determined by the Secretary;
 
@@ -52,13 +52,13 @@ With respect to a loan made or insured under subsection (a) or (b) of this secti
 
 #### (d) Construction requirements; detached units for cooperative housing
 
-No loan shall be made or insured under subsection (a) or (b) of this section unless the Secretary finds that the construction involved will be undertaken in an economical manner and will not be of elaborate or extravagant design or materials. However, specifically designed equipment required by elderly or handicapped persons or families shall not be considered elaborate or extravagant. A loan may be made or insured under subsection (a) or (b) of this section with respect to detached units, including those on scattered sites, for cooperative housing.
+No loan shall be made or insured under subsection (a) or (b) unless the Secretary finds that the construction involved will be undertaken in an economical manner and will not be of elaborate or extravagant design or materials. However, specifically designed equipment required by elderly or handicapped persons or families shall not be considered elaborate or extravagant. A loan may be made or insured under subsection (a) or (b) with respect to detached units, including those on scattered sites, for cooperative housing.
 
 #### (e) Definitions
 
 As used in this section—
 
-&emsp;(1) the term "housing" means new or existing housing suitable for dwelling use by occupants eligible under this section, and such term also means manufactured home rental parks where either the lots or both the lots and the homes are available for use by occupants eligible under this section; and such term also means congregate housing facilities for elderly or handicapped persons or families who require some supervision and central services but are otherwise able to care for themselves; such housing for the handicapped may be utilized in conjunction with educational and training facilities;
+&emsp;(1) the term "housing" means new or existing housing suitable for dwelling use by occupants eligible under this section, and such term also means manufactured home rental parks where either the lots or both the lots and the homes are available for use by occupants eligible under this section; and such term also means congregate housing facilities for elderly or handicapped persons or families who require some supervision and centralservices but are otherwise able to care for themselves; such housing for the handicapped may be utilized in conjunction with educational and training facilities;
 
 &emsp;(2) the term "related facilities" includes cafeterias or dining halls, community rooms or buildings, appropriate recreation facilities, and other essential service facilities;
 
@@ -104,7 +104,7 @@ After approving a project involving newly constructed or substantially rehabilit
 
 #### (j) Contract preferences for providing units in newly constructed projects
 
-For the purpose of achieving the lowest cost in providing units in newly constructed projects assisted under this section, the Secretary shall give a preference in entering into contracts under this section for projects which are to be located on specific tracts of land provided by States, units of local government, or others if the Secretary determines that the tract of land is suitable for such housing, and that affording such preference will be cost effective.
+For the purpose of achieving the lowest cost in providing units in newly constructed projects assisted under this section, the Secretary shall give a preference in entering into contracts under this section for projects which are to belocated on specific tracts of land provided by States, units of local government, or others if the Secretary determines that the tract of land is suitable for such housing, and that affording such preference will be cost effective.
 
 #### (k) Management fees
 
@@ -162,7 +162,7 @@ In determining the income of a person or family occupying housing financed under
 
 (2) The Secretary may adjust the amount of equity contribution to ensure that assistance provided is not more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources.
 
-(3) Not later than 60 days after August 6, 1996, the Secretary shall issue regulations to implement subsection (r)(2) of this section in accordance with the negotiated rulemaking procedures set forth in subchapter III of chapter 5 of title 5: <i>Provided</i>, That if the negotiated rulemaking is not completed within the designated time, the Secretary shall proceed to promulgate regulations under the rulemaking authority contained in section 557 of title 5.
+(3) Not later than 60 days after August 6, 1996, the Secretary shall issue regulations to implement subsection (r)(2) in accordance with the negotiated rulemaking procedures set forth in subchapter III of chapter 5 of title 5: <i>Provided</i>, That if the negotiated rulemaking is not completed within the designated time, the Secretary shall proceed to promulgate regulations under the rulemaking authority contained in section 557 of title 5.
 
 #### (s) Limitation of fees on loans
 
@@ -172,7 +172,7 @@ No fee other than a late fee may be imposed by or for the Secretary or any other
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to guarantee an equity loan (in the form of a supplemental loan) to an owner of housing financed with a loan made or insured under subsection (b) of this section, only if the Secretary determines, after taking into account local market conditions, that there is reasonable likelihood that the housing will continue as decent, safe, and sanitary housing for the remaining life of the original loan on the project made or insured under subsection (b) of this section and that such an equity loan is—
+&emsp;The Secretary is authorized to guarantee an equity loan (in the form of a supplemental loan) to an owner of housing financed with a loan made or insured under subsection (b), only if the Secretary determines, after taking into account local market conditions, that there is reasonable likelihood that the housing will continue as decent, safe, and sanitary housing for the remaining life of the original loan on the project made or insured under subsection (b) and that such an equity loan is—
 
 &emsp;&emsp;(A) necessary to provide a fair return on the owner's investment in the housing;
 
@@ -188,7 +188,7 @@ No fee other than a late fee may be imposed by or for the Secretary or any other
 
 #### (3) Amount of the takeout
 
-&emsp;The amount of an equity loan under this subsection shall not exceed the difference between the outstanding principal on debt secured by the project and 90 percent of the appraised value of the project. The appraised value of the project shall be determined by 2 independent appraisers, 1 of whom shall be selected by the Secretary and 1 of whom shall be selected by the owner. If the 2 appraisers fail to agree on the value of the project, the Secretary and the owner shall jointly select a third appraiser whose appraisal shall be binding on the Secretary and the owner. The amount of the equity loan shall not exceed 30 percent of the amount of the original appraised value of the project made or insured under subsection (b) of this section.
+&emsp;The amount of an equity loan under this subsection shall not exceed the difference between the outstanding principal on debt secured by the project and 90 percent of the appraised value of the project. The appraised value of the project shall be determined by 2 independent appraisers, 1 of whom shall be selected by the Secretary and 1 of whom shall be selected by the owner. If the 2 appraisers fail to agree on the value of the project, the Secretary and the owner shall jointly select a third appraiser whose appraisal shall be binding on the Secretary and the owner. The amount of the equity loan shall not exceed 30 percent of the amount of the original appraised value of the project made or insured under subsection (b).
 
 #### (4) Submission of plan
 
@@ -208,7 +208,7 @@ Loan authority that is obligated under this section but that is not expended due
 
 #### (v) Assumption of loans
 
-The Secretary may provide for the assumption or transfer of a loan or loan obligation under this section to any person or entity qualified to receive a loan or loan obligation under this section in any case of default or foreclosure with respect to the original borrower. The Secretary shall provide in each assumption or transfer under this subsection for the assumption of the obligations, rights, and interests under the terms of the loan or loan obligation or such other terms as the Secretary determines appropriate.
+The Secretary may provide for the assumption or transfer of a loan or loan obligation under this section to any person or entity qualified to receive a loan or loan obligation under this section in any case of default or foreclosure withrespect to the original borrower. The Secretary shall provide in each assumption or transfer under this subsection for the assumption of the obligations, rights, and interests under the terms of the loan or loan obligation or such other terms as the Secretary determines appropriate.
 
 #### (w) Set-aside of rural rental housing funds
 
@@ -268,7 +268,7 @@ The Secretary shall—
 
 #### (2) Qualifications
 
-&emsp;Individuals employed as service coordinators pursuant to this subsection shall meet theminimum qualifications and standards established under section 8011(d)(4) of this title for service coordinators under a congregate housing services program.
+&emsp;Individuals employed as service coordinators pursuant to this subsection shall meet the minimum qualifications and standards established under section 8011(d)(4) of this title for service coordinators under a congregate housing services program.
 
 #### (3) Application and selection
 
@@ -328,7 +328,7 @@ The Secretary shall—
 
 &emsp;The remedy provided in this subsection is in addition to and not in substitution of any other remedies available to the Secretary or the United States.
 
-(July 15, 1949, ch. 338, title V, §515, as added Pub. L. 87–723, §4(b), Sept. 28, 1962, 76 Stat. 671; amended Pub. L. 88–340, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title V, §501(d) Sept. 2, 1964, 78 Stat. 796; Pub. L. 89–117, title X, §1005(c), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–754, title VIII, §§804, 805, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 91–609, title VIII, §803(c), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(b), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§509(b), 510, Aug. 22, 1974, 88 Stat. 695; Pub. L. 95–60, §4(b), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(b), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, Oct. 12, 1977, 91 Stat. 1138, 1140, 1141; Pub. L. 95–406, §7(b), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §501(e), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–71, §5(b), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(b), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(f), Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–372, §6(b), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), Oct. 8, 1980, 94 Stat. 1668, 1670; Pub. L. 97–35, title III, §351(b), Aug. 13, 1981, 95 Stat. 420; Pub. L. 97–289, §3(a), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(a), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(a), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title I \[title V, §§511(b), 512\], Nov. 30, 1983, 97 Stat. 1244; Pub. L. 98–479, title I, §105(e), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–120, §3(a), Oct. 8, 1985, 99 Stat. 503; Pub. L.99–156, §3(a), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §3(a), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §3(a), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3009(a), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), Feb. 5, 1988, 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Pub. L. 100–628, title X, §1042, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(a), Nov. 3, 1989, 103 Stat. 825; Pub. L. 101–235, title II, §207, title IV, §402, Dec. 15, 1989, 103 Stat. 2042, 2048; Pub. L. 101–625, title VII, §§701(e), 712, 713, Nov. 28, 1990, 104 Stat. 4282, 4291, 4292; Pub. L. 102–142, title VII, §743(a), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–230, §4, Dec. 12, 1991, 105 Stat. 1721; Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), Oct. 28, 1992, 106 Stat. 3834, 3836–3839; Pub. L. 104–120, §4(b), (c), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), Aug. 6, 1996, 110 Stat. 1601–1603; Pub. L. 105–86, title VII, §735(b), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(b), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §704, Dec. 27, 2000, 114 Stat. 3014; Pub. L. 110–289, div. B, title VIII, §2833, July 30, 2008, 122 Stat. 2868.)
+(July 15, 1949, ch. 338, title V, §515, as added Pub. L. 87–723, §4(b), Sept. 28, 1962, 76 Stat. 671; amended Pub. L. 88–340, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title V, §501(d) Sept. 2, 1964, 78 Stat. 796; Pub. L. 89–117, title X, §1005(c), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–754, title VIII, §§804, 805, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 91–609, title VIII, §803(c), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(b), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§509(b), 510, Aug. 22, 1974, 88 Stat. 695; Pub. L. 95–60, §4(b), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(b), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, Oct. 12, 1977, 91 Stat. 1138, 1140, 1141; Pub. L. 95–406, §7(b), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §501(e), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–71, §5(b), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(b), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(f), Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–372, §6(b), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), Oct. 8, 1980, 94 Stat. 1668, 1670; Pub. L. 97–35, title III, §351(b), Aug. 13, 1981,95 Stat. 420; Pub. L. 97–289, §3(a), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(a), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(a), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title I \[title V, §§511(b), 512\], Nov. 30, 1983, 97 Stat. 1244; Pub. L. 98–479, title I, §105(e), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–120, §3(a), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §3(a), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §3(a), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §3(a), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3009(a), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), Feb. 5, 1988, 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Pub. L. 100–628, title X, §1042, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(a), Nov. 3, 1989, 103 Stat. 825; Pub. L. 101–235, title II, §207, title IV, §402, Dec. 15, 1989, 103 Stat. 2042, 2048; Pub. L. 101–625, title VII, §§701(e), 712, 713, Nov. 28, 1990, 104 Stat. 4282, 4291, 4292; Pub. L. 102–142, title VII, §743(a), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–230, §4, Dec. 12, 1991, 105 Stat. 1721; Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), Oct. 28, 1992, 106 Stat. 3834, 3836–3839; Pub. L. 104–120, §4(b), (c), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), Aug. 6, 1996, 110 Stat. 1601–1603; Pub. L. 105–86, title VII, §735(b), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(b), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §704, Dec. 27, 2000, 114 Stat. 3014; Pub. L. 110–289, div. B, title VIII, §2833, July 30, 2008, 122 Stat. 2868.)
 
 #### References in Text
 
@@ -456,11 +456,11 @@ Subsec. (u). Pub. L. 101–235, §402, added subsec. (u).
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–242, §301(e), substituted "September 30, 1989" for "March 15, 1988".
 
-Subsec. (c). Pub. L. 100–242, §242, added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 100–242, §242(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsecs. (d) to (g). Pub. L. 100–242, §242(1), redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 100–242, §242(1), redesignated subsecs. (c) to (f) as (d) to (g), respectively.
 
-Subsec. (h). Pub. L. 100–628 struck out subsec. (h) which read as follows: "The Secretary shall limit increases in rents on or after November 30, 1983, for newly constructed or substantially rehabilitated projects assisted under this section to the lesser of the actual operating cost increases incurred or the amount of operating cost increases incurred with respect to comparable rental dwelling units of various sizes and types in the same market area which are suitable for occupancy by families and persons assisted under this section. Where no comparable dwelling units exist in the same market area, the Secretary shall have authorityto approve such increases in accordance with the best available data regarding operating cost increases in rental dwelling units."
+Subsec. (h). Pub. L. 100–628 struck out subsec. (h) which read as follows: "The Secretary shall limit increases in rents on or after November 30, 1983, for newly constructed or substantially rehabilitated projects assisted under this section to the lesser of the actual operating cost increases incurred or the amount of operating cost increases incurred with respect to comparable rental dwelling units of various sizes and typesin the same market area which are suitable for occupancy by families and persons assisted under this section. Where no comparable dwelling units exist in the same market area, the Secretary shall have authority to approve such increases in accordance with the best available data regarding operating cost increases in rental dwelling units."
 
 Pub. L. 100–242, §242(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
@@ -582,7 +582,7 @@ Subsec. (b). Pub. L. 89–754, §805(a), (b), substituted "rental or cooperative
 
 Subsec. (d)(1). Pub. L. 89–754, §804(b), substituted in the definition of "housing" the words "occupants eligible under this section," for "elderly persons or elderly families".
 
-Subsec. (d)(4). Pub. L. 89–754, §805(c), defined fees and charges as used for purposes of "development cost" to include payments to qualified consulting organizations or foundations which operate on a nonprofit basis andwhich render services or assistance to nonprofit corporations or consumer cooperatives who provide housing and related facilities.
+Subsec. (d)(4). Pub. L. 89–754, §805(c), defined fees and charges as used for purposes of "development cost" to include payments to qualified consulting organizations or foundations which operate on a nonprofit basis and which render services or assistance to nonprofit corporations or consumer cooperatives who provide housing and related facilities.
 
 <b>1965</b>—Subsec. (b)(5). Pub. L. 89–117 substituted "October 1, 1969" for "September 30, 1965".
 

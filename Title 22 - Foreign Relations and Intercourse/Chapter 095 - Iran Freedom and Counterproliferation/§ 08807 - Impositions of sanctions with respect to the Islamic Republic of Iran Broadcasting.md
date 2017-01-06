@@ -30,5 +30,5 @@ Congress makes the following findings:
 
 #### Delegation of Functions
 
-For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78F.R. 35545, set out as a note under section 8801 of this title.
+For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 

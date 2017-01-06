@@ -6,7 +6,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(2) To achieve, through the Department, effective management of energy functions of the Federal Government, including consultation with the heads of other Federal departments and agencies in order to encourage them to establish and observe policies consistent with a coordinated energy policy, and to promote maximum possible energy conservation measures in connection with the activities within their respective jurisdictions.
 
-&emsp;(3) To provide for a mechanism through which a coordinated national energy policycan be formulated and implemented to deal with the short-, mid- and long-term energy problems of the Nation; and to develop plans and programs for dealing with domestic energy production and import shortages.
+&emsp;(3) To provide for a mechanism through which a coordinated national energy policy can be formulated and implemented to deal with the short-, mid- and long-term energy problems of the Nation; and to develop plans and programs for dealing with domestic energy production and import shortages.
 
 &emsp;(4) To create and implement a comprehensive energy conservation strategy that will receive the highest priority in the national energy program.
 
@@ -34,7 +34,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(12) To foster and assure competition among parties engaged in the supply of energy and fuels.
 
-&emsp;(13) To assure incorporation of national environmental protection goals in the formulation and implementation of energy programs, and to advance the goals of restoring, protecting, and enhancing environmental quality, and assuring public health and safety.
+&emsp;(13) To assure incorporation of national environmental protection goals in the formulation and implementation of energy programs,and to advance the goals of restoring, protecting, and enhancing environmental quality, and assuring public health and safety.
 
 &emsp;(14) To assure, to the maximum extent practicable, that the productive capacity of private enterprise shall be utilized in the development and achievement of the policies and purposes of this chapter.
 

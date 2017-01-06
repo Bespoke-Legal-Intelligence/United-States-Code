@@ -38,7 +38,7 @@ Pub. L. 114–27, title I, §101, June 29, 2015, 129 Stat. 363, provided that: "
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–432, div. D, title VI, §6001, Dec. 20, 2006, 120 Stat. 3190, provided that: "This title \[amending section 3721 of this title\] may be referred to as the 'Africa Investment Incentive Act of 2006'."
+Pub. L. 109–432, div. D, title VI, §6001, Dec. 20, 2006, 120 Stat. 3190, provided that: "This title \[amending section3721 of this title\] may be referred to as the 'Africa Investment Incentive Act of 2006'."
 
 #### Short Title
 
@@ -210,7 +210,7 @@ Entries.—The entries referred to in subsection (a) are entries of apparel arti
 
 "(a)
 
-Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
+Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
 
 &emsp;"(1) identifies sectors of the economy of that country with the greatest potential for growth, including through export sales;
 
@@ -319,6 +319,8 @@ Coordination.—The President shall take such measures as are necessary to ensur
 #### "SEC. 14. TRADE ADVISORY COMMITTEE ON AFRICA.
 
 "The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
+
+\[Functions of President under section 13(c) of Pub. L. 108–274, set out above, assigned to Administrator of United States Agency for International Development, in collaboration with Secretary of Agriculture, see Ex. Ord. No. 13720, §1(c), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.\]
 
 \[Pub. L. 108–429, title II, §2004(j)(2), Dec. 3, 2004, 118 Stat. 2595, provided that:
 

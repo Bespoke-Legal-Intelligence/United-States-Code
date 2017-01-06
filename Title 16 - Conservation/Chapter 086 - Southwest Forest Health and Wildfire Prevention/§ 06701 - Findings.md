@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) there is an increasing threat of wildfire to millions of acres of forest land and rangeland throughout the United States;
 
-&emsp;(2) forest land and rangeland are degraded as a direct consequence of land management practices, including practices to control and prevent wildfires and the failure to harvest subdominant trees from overstocked stands that disrupt the occurrence of frequent low-intensity fires that have periodically removed flammable undergrowth;
+&emsp;(2) forest land and rangeland are degraded as a direct consequence of land managementpractices, including practices to control and prevent wildfires and the failure to harvest subdominant trees from overstocked stands that disrupt the occurrence of frequent low-intensity fires that have periodically removed flammable undergrowth;
 
 &emsp;(3) at least 39,000,000 acres of land of the National Forest System in the interior West are at high risk of wildfire;
 

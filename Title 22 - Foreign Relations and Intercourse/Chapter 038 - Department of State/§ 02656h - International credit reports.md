@@ -2,7 +2,7 @@
 
 #### (a) Report on loan criteria
 
-Not later than 90 days after October 28, 1991, the Assistant Secretary of State for Economic and Business Affairs, in consultation with the Secretary of the Treasury, shall submit to theChairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives a report setting forth clear criteria for bilateral loans by which the United States can determine the likelihood of repayment by a country seeking to receive United States loans. The report should include the criteria used for—
+Not later than 90 days after October 28, 1991, the Assistant Secretary of State for Economic and Business Affairs, in consultation with the Secretary of the Treasury, shall submit to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives a report setting forth clear criteria for bilateral loans by which the United States can determine the likelihood of repayment by a country seeking to receive United States loans. The report should include the criteria used for—
 
 &emsp;(1) assessing country risk;
 

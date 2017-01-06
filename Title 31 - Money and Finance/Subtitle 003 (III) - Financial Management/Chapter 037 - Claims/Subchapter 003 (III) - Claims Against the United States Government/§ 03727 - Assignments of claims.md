@@ -22,7 +22,7 @@
 
 &emsp;(3) the assignee files a written notice of the assignment and a copy of the assignment with the contracting official or the head of the agency, the surety on a bond on the contract, and any disbursing official for the contract.
 
-(d) During a war or national emergency proclaimed by the President or declared by law and ended by proclamation or law, a contract with the Department of Defense, the General Services Administration, the Department of Energy (when carrying out duties and powers formerly carried out by the Atomic Energy Commission), or other agency the President designates may provide, or may be changed without consideration to provide, that a future payment under the contract to an assignee is not subject to reduction or setoff. A payment subsequently due under the contract (even after the war or emergency is ended) shall be paid to the assignee without a reduction or setoff for liability of the assignor—
+(d) During a war or national emergency proclaimed by the President or declared by law and ended by proclamation or law, a contract with the Department of Defense, the General Services Administration, the Department of Energy (when carrying out duties and powers formerly carried out by the Atomic Energy Commission), or other agency the President designates may provide, or may be changed without consideration to provide, that a future payment under the contract to an assignee is not subject to reduction or setoff. A payment subsequently due under the contract (even after the war or emergency is ended) shall be paid to the assigneewithout a reduction or setoff for liability of the assignor—
 
 &emsp;(1) to the Government independent of the contract; or
 

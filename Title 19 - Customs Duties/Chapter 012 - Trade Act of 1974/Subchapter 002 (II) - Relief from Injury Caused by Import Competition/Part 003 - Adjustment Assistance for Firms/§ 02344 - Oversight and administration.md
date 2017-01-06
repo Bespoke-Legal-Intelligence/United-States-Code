@@ -76,7 +76,7 @@ Except as otherwise provided, assistance may not be provided under this section 
 
 #### Residual Authority
 
-Pub. L. 111–5, div. B, title I, §1864(b), Feb. 17, 2009, 123 Stat. 398, provided that: "The Secretary of Commerce shall have the authority to modify, terminate, resolve, liquidate, or take any other action with respect to a loan, guarantee, contract, or any other financial assistance that was extended under section 254, 255, 256, or 257 of the Trade Act of 1974 (19 U.S.C. 2344, 2345, 2346, and 2347), as in effect on the day before the effective date set forth in section 1891 \[set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title\]."
+Pub. L. 111–5, div. B, title I, §1864(b), Feb. 17, 2009, 123 Stat. 398, provided that: "The Secretary of Commerceshall have the authority to modify, terminate, resolve, liquidate, or take any other action with respect to a loan, guarantee, contract, or any other financial assistance that was extended under section 254, 255, 256, or 257 of the Trade Act of 1974 (19 U.S.C. 2344, 2345, 2346, and 2347), as in effect on the day before the effective date set forth in section 1891 \[set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

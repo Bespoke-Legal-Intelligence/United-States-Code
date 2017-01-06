@@ -1,0 +1,10 @@
+### §1300n. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–568, title XIV, §1402, Dec. 27, 2000, 114 Stat. 2939, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 106–568, title XIV, §1401, Dec. 27, 2000, 114 Stat. 2939, provided that title XIV of Pub. L. 106–568, enacting this subchapter, could be cited as the "Graton Rancheria Restoration Act".
+

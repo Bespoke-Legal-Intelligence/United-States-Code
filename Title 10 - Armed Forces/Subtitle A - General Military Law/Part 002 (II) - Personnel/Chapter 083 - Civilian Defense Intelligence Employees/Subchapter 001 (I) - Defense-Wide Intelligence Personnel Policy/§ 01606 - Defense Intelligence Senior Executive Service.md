@@ -20,7 +20,7 @@ Performance Appraisals.—(1) The Defense Intelligence Senior Executive Service 
 
 (2) The performance appraisal system applicable to the Defense Intelligence Senior Executive Service under paragraph (1) may be the same performance appraisal system that is established and implemented within the Department of Defense for members of the Senior Executive Service.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1142\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319; Pub. L. 107–107, div. A, title XI, §1121, Dec. 28, 2001, 115 Stat. 1242; Pub. L. 108–375, div. A, title XI, §1103(b), Oct. 28, 2004, 118 Stat. 2073; Pub. L. 109–163, div. A, title XI, §1125, Jan. 6, 2006, 119 Stat. 3454.)
+(Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1142\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319; Pub. L. 107–107, div. A, title XI, §1121, Dec. 28, 2001, 115 Stat. 1242;Pub. L. 108–375, div. A, title XI, §1103(b), Oct. 28, 2004, 118 Stat. 2073; Pub. L. 109–163, div. A, title XI, §1125, Jan. 6, 2006, 119 Stat. 3454.)
 
 #### Prior Provisions
 

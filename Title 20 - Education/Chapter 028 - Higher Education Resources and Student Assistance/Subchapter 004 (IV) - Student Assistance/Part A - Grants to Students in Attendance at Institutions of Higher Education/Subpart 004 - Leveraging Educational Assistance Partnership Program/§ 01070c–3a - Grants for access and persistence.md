@@ -22,7 +22,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Authorization
 
-&emsp;&emsp;From sums reserved under section 1070c(b)(2) of this title for each fiscal year, the Secretary shall make an allotment to each State that submits an application for an allotment in accordance with subsection (c) to enable the State to pay the Federal share, as described in paragraph (2), of thecost of carrying out the activities under subsection (d).
+&emsp;&emsp;From sums reserved under section 1070c(b)(2) of this title for each fiscal year, the Secretary shall make an allotment to each State that submits an application for an allotment in accordance with subsection (c) to enable the State to pay the Federal share, as described in paragraph (2), of the cost of carrying out the activities under subsection (d).
 
 #### (B) Determination of allotment
 
@@ -82,7 +82,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (iii) Effect on need analysis
 
-&emsp;&emsp;&emsp;For the purpose of calculating a student's need in accordance with part E, an in-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student's parent.
+&emsp;&emsp;&emsp;For the purpose of calculating a student's need in accordance with part F, an in-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student's parent.
 
 #### (c) Application for allotment
 
@@ -98,9 +98,9 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(i) A description of the State's plan for using the allotted funds.
 
-&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
+&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shallspecify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
 
-&emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out theactivities under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter.
 
 &emsp;&emsp;&emsp;(iv) An assurance that early information and intervention, mentoring, or outreach programs exist within the State or that there is a plan to make such programs widely available.
 
@@ -182,7 +182,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Establishment of partnership
 
-&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establish a partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
+&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establisha partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
 
 #### (B) Amount of grants
 
@@ -252,7 +252,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;(A) Meets not less than two of the following criteria, with priority given to students meeting all of the following criteria:
 
-&emsp;&emsp;&emsp;(i) Has an expected family contribution equal to zero, as determined under part E, or a comparable alternative based upon the State's approved criteria in section 1070c–2(b)(4) of this title.
+&emsp;&emsp;&emsp;(i) Has an expected family contribution equal to zero, as determined under part F, or a comparable alternative based upon the State's approved criteria in section 1070c–2(b)(4) of this title.
 
 &emsp;&emsp;&emsp;(ii) Qualifies for the State's maximum undergraduate award, as authorized under section 1070c–2(b) of this title.
 
@@ -262,7 +262,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (4) Grant award
 
-&emsp;Once a student, including those students who have received early notification under paragraph (2) from the State, applies for admission to an institution that is a partner in the partnership, files a Free Application for Federal Student Aid and any related Stateform, and is determined eligible by the State under paragraph (3), the State shall—
+&emsp;Once a student, including those students who have received early notification under paragraph (2) from the State, applies for admission to an institution that is a partner in the partnership, files a Free Application for Federal Student Aid and any related State form, and is determined eligible by the State under paragraph (3), the State shall—
 
 &emsp;&emsp;(A) issue the student a preliminary award certificate for a grant for access and persistence with estimated award amounts; and
 
@@ -270,7 +270,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (5) Duration of award
 
-&emsp;An eligible student who receives a grant for access and persistence under this section shall receive such grant award for each year of such student's undergraduate education in which the student remains eligible for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, including pursuant to section 1091(c) of this title, and remains financially eligible as determined by the State, except that the State may impose reasonable time limits to degree completion.
+&emsp;An eligible student who receives a grant for access and persistence under this section shall receive such grant award for each year of such student's undergraduate education in which the student remains eligible for assistance under this subchapter, including pursuant to section 1091(c) of this title, and remains financially eligible as determined by the State, except that the State may impose reasonable time limits to degree completion.
 
 #### (e) Administrative cost allowance
 
@@ -324,5 +324,5 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 

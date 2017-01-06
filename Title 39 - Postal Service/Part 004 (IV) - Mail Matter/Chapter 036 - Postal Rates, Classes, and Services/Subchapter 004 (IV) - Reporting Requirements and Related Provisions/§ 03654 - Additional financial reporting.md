@@ -6,7 +6,7 @@ Additional Financial Reporting.—
 
 &emsp;(1)
 
-In general.—The Postal Service shall file with the Postal Regulatory Commissionbeginning with the first full fiscal year following the effective date of this section—
+In general.—The Postal Service shall file with the Postal Regulatory Commission beginning with the first full fiscal year following the effective date of this section—
 
 &emsp;&emsp;(A) within 40 days after the end of each fiscal quarter, a quarterly report containing the information required by the Securities and Exchange Commission to be included in quarterly reports under sections 13 and 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)) on Form 10–Q, as such Form (or any successor form) may be revised from time to time;
 

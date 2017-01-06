@@ -12,7 +12,7 @@
 
 (b) The Secretary concerned shall determine the period of active duty to be served by any person for advanced education assistance to be provided such person by an armed force, except that if the period of active duty required to be served is specified under another provision of law with respect to the advanced education assistance to be provided, the period specified in the agreement referred to in subsection (a) shall be the same as the period specified in such other provision of law.
 
-(c) As a condition of the Secretary concerned providing financial assistance under section 2107 or 2107a of this title to any person, the Secretary concerned shall require that the person enter into the agreement described in subsection (a). In addition to the requirements of paragraphs (1) through (4) of such subsection, the agreement shall specify that, if the person does not complete the education requirements specified in the agreement or does not fulfill any term or condition prescribed pursuant to paragraph (4) of such subsection, the person shall be subject to the repayment provisions of section 303a(e) of title 37 without the Secretary first ordering such person to active duty as provided for under subsection (a)(2) and sections 2107(f) and 2107a(f) of this title.
+(c) As a condition of the Secretary concerned providing financial assistance under section 2107 or 2107a of this title to any person, the Secretary concerned shall require that the person enter into the agreement described in subsection (a). In addition to the requirements of paragraphs (1) through (4) of such subsection, theagreement shall specify that, if the person does not complete the education requirements specified in the agreement or does not fulfill any term or condition prescribed pursuant to paragraph (4) of such subsection, the person shall be subject to the repayment provisions of section 303a(e) of title 37 without the Secretary first ordering such person to active duty as provided for under subsection (a)(2) and sections 2107(f) and 2107a(f) of this title.
 
 (d) In this section:
 
@@ -56,7 +56,7 @@ Pub. L. 103–160, div. A, title V, §573(b), Nov. 30, 1993, 107 Stat. 1674, pro
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–94, title X, §1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to agreements entered into after September 30, 1983."
+Pub. L. 98–94, title X, §1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to agreements entered into after September 30, 1983."
 
 #### Savings Provision
 

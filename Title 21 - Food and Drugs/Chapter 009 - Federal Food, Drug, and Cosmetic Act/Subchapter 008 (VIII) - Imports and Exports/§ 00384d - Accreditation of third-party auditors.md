@@ -108,7 +108,7 @@ In this section:
 
 #### (ii) Provision of certification
 
-&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of this title. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
+&emsp;&emsp;&emsp;Only an accredited third-party auditor or the Secretary may provide a facility certification under section 384b(a) of thistitle. Only those parties described in <sup>1</sup> 381(q)(3) of this title or the Secretary may provide a food certification under <sup>1</sup> 381(q) <sup>2</sup> of this title.
 
 #### (3) Audit report submission requirements
 

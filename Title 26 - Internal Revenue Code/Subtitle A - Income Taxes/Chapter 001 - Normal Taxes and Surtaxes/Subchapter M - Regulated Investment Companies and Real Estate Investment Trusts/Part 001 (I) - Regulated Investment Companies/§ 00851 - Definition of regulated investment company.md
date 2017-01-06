@@ -48,7 +48,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;(1) In ascertaining the value of the taxpayer's investment in the securities of an issuer, for the purposes of subparagraph (B), there shall be included its proper proportion of the investment of any other corporation, a member of a controlled group, in the securities of such issuer, as determined under regulations prescribed by the Secretary.
 
-&emsp;(2) The term "controls" means the ownership in a corporation of 20 percent or more of the total combined voting power of all classes of stock entitled to vote.
+&emsp;(2) The term "controls" means the ownership in a corporation of 20 percent or more ofthe total combined voting power of all classes of stock entitled to vote.
 
 &emsp;(3) The term "controlled group" means one or more chains of corporations connected through stock ownership with the taxpayer if—
 
@@ -152,11 +152,11 @@ For purposes of this title—
 
 &emsp;&emsp;(A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
 
-&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) asbeing owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
+&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
-> This subsection shall not apply in the case of a unit investment trust which is a segregated asset account under the insurance laws or regulations of a State.
+> This subsection shall not apply in the case of a unit investment trust which is a segregatedasset account under the insurance laws or regulations of a State.
 
 #### (g) Special rule for series funds
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provision of the 
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–325, title II, §201(d), Dec. 22, 2010, 124 Stat. 3541, provided that: "The amendments made by this section \[amending this section and section 852 of thistitle\] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act \[Dec. 22, 2010\]."
+Pub. L. 111–325, title II, §201(d), Dec. 22, 2010, 124 Stat. 3541, provided that: "The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act \[Dec. 22, 2010\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -308,7 +308,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1271(c) of Pub. L. 105–34, set out as a note under section 817 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1271(c) ofPub. L. 105–34, set out as a note under section 817 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -28,7 +28,7 @@ Matters Included.—Each report under subsection (a) shall include the following
 
 &emsp;&emsp;(I) brochures or other printed media.
 
-&emsp;(2) The total estimated costs to the Department for covered conferences occurring during the fiscal quarter in which the report is submitted.
+&emsp;(2) The total estimated costs to the Department for covered conferences occurring duringthe fiscal quarter in which the report is submitted.
 
 (c)
 

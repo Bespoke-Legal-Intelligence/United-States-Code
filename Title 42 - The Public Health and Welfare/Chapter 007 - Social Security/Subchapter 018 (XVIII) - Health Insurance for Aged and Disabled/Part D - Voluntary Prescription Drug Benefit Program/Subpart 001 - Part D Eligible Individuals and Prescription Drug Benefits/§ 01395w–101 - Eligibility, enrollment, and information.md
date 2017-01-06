@@ -38,7 +38,7 @@
 
 #### (A) Part D eligible individual
 
-&emsp;&emsp;The term "part D eligible individual" means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
+&emsp;&emsp;The term "part D eligible individual" means an individual who is entitled to benefits under part A or enrolled under part B.
 
 #### (B) MA plan
 
@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a process for the enrollment, disenrollment, termination,and change of enrollment of part D eligible individuals in prescription drug plans consistent with this subsection.
+&emsp;&emsp;The Secretary shall establish a process for the enrollment, disenrollment, termination, and change of enrollment of part D eligible individuals in prescription drug plans consistent with this subsection.
 
 #### (B) Application of MA rules
 
@@ -70,7 +70,7 @@
 
 #### (iii) Coverage election periods
 
-&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
+&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title\(other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
 
 #### (iv) Coverage periods
 
@@ -102,7 +102,7 @@
 
 #### (B) Continuing periods
 
-&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section, as if "entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter" were substituted for "entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter", but in no case shall such period end before the period described in subparagraph (A).
+&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section,<sup>2</sup> as if "entitled to benefits under part A or enrolled under part B" were substituted for "entitled to benefits under part A and enrolled under part B", but in no case shall such period end before the period described in subparagraph (A).
 
 #### (3) Additional special enrollment periods
 
@@ -128,11 +128,11 @@
 
 #### (B) Errors in enrollment
 
-&emsp;&emsp;In the case described in section 1395p(h) of this title (relating to errors in enrollment), in the same manner as such section applies to part B of this subchapter.
+&emsp;&emsp;In the case described in section 1395p(h) of this title (relating to errors in enrollment), in the same manner as such section applies to part B.
 
 #### (C) Exceptional circumstances
 
-&emsp;&emsp;In the case of part D eligible individuals who meet such exceptional conditions (in addition to those conditions applied under paragraph (1)(B)(iii)) as the Secretary may provide.
+&emsp;&emsp;In the case of part D eligible individuals who meet such exceptional conditions (in addition to those conditions applied underparagraph (1)(B)(iii)) as the Secretary may provide.
 
 #### (D) Medicaid coverage
 
@@ -174,7 +174,7 @@
 
 #### (1) Activities
 
-&emsp;The Secretary shall conduct activities that are designed to broadly disseminate information to part D eligible individuals (and prospective part D eligible individuals) regarding the coverage provided under this part. Such activities shall ensure that such information is first made available at least 30 days prior to the initial enrollment period described in subsection (b)(2)(A) of this section.
+&emsp;The Secretary shall conduct activities that are designed to broadly disseminate information to part D eligible individuals (and prospective part D eligible individuals) regarding the coverage provided under this part. Such activities shall ensure that such information is first made available at least 30 days prior to the initial enrollment period described in subsection (b)(2)(A).
 
 #### (2) Requirements
 
@@ -222,9 +222,15 @@
 
 &emsp;The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149; Pub. L. 114–198, title VII, §704(a)(3), July 22, 2016, 130 Stat. 748.)
+
+#### Amendment of Subsection (b)(3)(D)
+
+<i>Pub. L. 114–198, title VII, §704(a)(3), (g)(1), July 22, 2016, 130 Stat. 748, 751, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, subsection (b)(3)(D) of this section is amended by inserting ", subject to such limits as the Secretary may establish for individuals identified pursuant to section 1395w–104(c)(5) of this title" after "the Secretary". See 2016 Amendment note below.</i>
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(D). Pub. L. 114–198 inserted ", subject to such limits as the Secretary may establish for individuals identified pursuant to section 1395w–104(c)(5) of this title" after "the Secretary".
 
 <b>2015</b>—Subsec. (b)(1)(B)(ii). Pub. L. 114–10, §209(b)(2)(B)(ii)(I), inserted "and paragraph (4)" after "paragraph (3)(A)".
 
@@ -236,9 +242,51 @@ Subsec. (b)(1)(D). Pub. L. 111–148, §3303(b)(2), added subpar. (D).
 
 <b>2006</b>—Subsec. (b)(1)(B)(iii). Pub. L. 109–432 substituted "subparagraphs (B), (C), and (E)" for "subparagraphs (B) and (C)".
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–198, title VII, §704(g)(1), July 22, 2016, 130 Stat. 751, provided that: "The amendments made by this section \[amending this section and sections 1395w–104, 1395w–152, 1395ddd, and 1395iii of this title\] shall apply to prescription drug plans (and MA–PD plans) for plan years beginning on or after January 1, 2019."
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title III, §3303(c), Mar. 23, 2010, 124 Stat. 469, provided that: "The amendments made by this subsection \[probably should be "this section", amending this section and section 1395w–114 of this title\] shall apply to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011."
+
+#### Regulations
+
+Pub. L. 114–198, title VII, §704(g)(2), (3), July 22, 2016, 130 Stat. 751, 752, provided that:
+
+"(2)
+
+Stakeholder meetings prior to effective date.—
+
+&emsp;"(A)
+
+In general.—Not later than January 1, 2017, the Secretary of Health and Human Services shall convene stakeholders, including individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plan sponsors, and biopharmaceutical manufacturers for input regarding the topics described in subparagraph (B). The input described in the preceding sentence shall be provided to the Secretary in sufficient time in order for the Secretary to take such input into account in promulgating the regulations pursuant to paragraph (3).
+
+&emsp;"(B)
+
+Topics described.—The topics described in this subparagraph are the topics of—
+
+&emsp;&emsp;"(i) the anticipated impact of drug management programs for at-risk beneficiaries under paragraph (5) of section 1860D–4(c) of the Social Security Act (42 U.S.C. 1395w–104(c)) on cost-sharing and ensuring accessibility to prescription drugs for enrollees in prescription drug plans of PDP sponsors, and enrollees in MA–PD plans, who are at-risk beneficiaries for prescription drug abuse (as defined in subparagraph (C) of such paragraph);
+
+&emsp;&emsp;"(ii) the use of an expedited appeals process under which such an enrollee may appeal an identification of such enrollee as an at-risk beneficiary for prescription drug abuse under such paragraph (similar to the processes established under the Medicare Advantage program under part C of title XVIII of the Social Security Act \[42 U.S.C. 1395w–21 et seq.\] that allow an automatic escalation to external review of claims submitted under such part);
+
+&emsp;&emsp;"(iii) the types of enrollees that should be treated as exempted individuals, as described in subparagraph (C)(ii) of such paragraph;
+
+&emsp;&emsp;"(iv) the manner in which terms and definitions in such paragraph should be applied, such as the use of clinical appropriateness in determining whether an enrollee is an at-risk beneficiary for prescription drug abuse as defined in subparagraph (C) of such paragraph;
+
+&emsp;&emsp;"(v) the information to be included in the notices described in subparagraph (B) of such paragraph and the standardization of such notices;
+
+&emsp;&emsp;"(vi) with respect to a PDP sponsor (or Medicare Advantage organization) that establishes a drug management program for at-risk beneficiaries under such paragraph, the responsibilities of such PDP sponsor (or organization) with respect to the implementation of such program;
+
+&emsp;&emsp;"(vii) notices for plan enrollees at the point of sale that would explain why an at-risk beneficiary has been prohibited from receiving a prescription at a location outside of the designated pharmacy;
+
+&emsp;&emsp;"(viii) evidence-based prescribing guidelines for opiates; and
+
+&emsp;&emsp;"(ix) the sharing of claims data under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] with PDP sponsors.
+
+"(3)
+
+Rulemaking.—Not later than one year after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Health and Human Services shall, taking into account the input gathered pursuant to paragraph (2)(A) and after providing notice and an opportunity to comment, promulgate regulations to carry out the provisions of, and amendments made by\[,\] this section \[amending this section and sections 1395w–104, 1395w–152, 1395ddd, and 1395iii of this title and enacting provisions set out as a note above\]."
 
 #### Office of the Inspector General Studies and Reports
 
@@ -266,7 +314,7 @@ Study.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugs under the Medicare prescription drug program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] and for covered outpatient drugs under title XIX \[42 U.S.C. 1396 et seq.\]. Such study shall include the following:
+In general.—The Inspector General of the Department of Health and Human Services shall conduct a study on prices for covered part D drugsunder the Medicare prescription drug program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] and for covered outpatient drugs under title XIX \[42 U.S.C. 1396 et seq.\]. Such study shall include the following:
 
 &emsp;&emsp;&emsp;"(i) A comparison, with respect to the 200 most frequently dispensed covered part D drugs under such program and covered outpatient drugs under such title (as determined by the Inspector General based on volume and expenditures), of—
 
@@ -423,4 +471,6 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 Exemption From Paperwork Reduction Act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information under subsection (a)."
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "of this subsection,".</i>
 

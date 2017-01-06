@@ -21,7 +21,7 @@
 
 <b>2001</b>—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
-<b>2000</b>—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted "Benefits for Children ofVietnam Veterans" and "1802" for "Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida" and "1801", respectively, in item for chapter 18.
+<b>2000</b>—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted "Benefits for Children of Vietnam Veterans" and "1802" for "Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida" and "1801", respectively, in item for chapter 18.
 
 <b>1996</b>—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
 

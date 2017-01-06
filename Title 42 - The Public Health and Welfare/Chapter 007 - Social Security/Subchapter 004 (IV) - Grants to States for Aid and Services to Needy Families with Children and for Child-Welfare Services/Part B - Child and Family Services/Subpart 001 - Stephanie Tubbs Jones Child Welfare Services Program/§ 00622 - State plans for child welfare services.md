@@ -2,15 +2,15 @@
 
 #### (a) Joint development
 
-In order to be eligible for payment under this subpart, a State must have a plan for child welfare services which has been developed jointly by the Secretary and the State agency designated pursuant to subsection (b)(1) of this section, and which meets the requirements of subsection (b) of this section.
+In order to be eligible for payment under this subpart, a State must have a plan for child welfare services which has been developed jointly by the Secretary and the State agency designated pursuant to subsection (b)(1), and which meets the requirements of subsection (b).
 
 #### (b) Requisite features of State plans
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under division A <sup>1</sup> of subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under division A <sup>1</sup> of subchapter XX will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
-&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under division A <sup>1</sup> of subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>2</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
+&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under division A <sup>1</sup> of subchapter XX, under the State program funded under part A, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>2</sup> under part E, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
 &emsp;(3) include a description of the services and activities which the State will fund under the State program carried out pursuant to this subpart, and how the services and activities will achieve the purpose of this subpart;
 
@@ -44,13 +44,13 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(B) has in effect policies and administrative and judicial procedures for children abandoned at or shortly after birth (including policies and procedures providing for legal representation of the children) which enable permanent decisions to be made expeditiously with respect to the placement of the children;
 
-&emsp;(9) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\];
+&emsp;(9) contain a description, developed after consultation with tribal organizations (as defined in section 5304 of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\];
 
 &emsp;(10) contain assurances that the State shall make effective use of cross-jurisdictional resources (including through contracts for the purchase of services), and shall eliminate legal barriers, to facilitate timely adoptive or permanent placements for waiting children;
 
 &emsp;(11) contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services;
 
-&emsp;(12) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution;
+&emsp;(12) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption ofa placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution;
 
 &emsp;(13) demonstrate substantial, ongoing, and meaningful collaboration with State courts in the development and implementation of the State plan under this subpart, the State plan approved under subpart 2, and the State plan approved under part E, and in the development and implementation of any program improvement plan required under section 1320a–2a of this title;
 
@@ -126,7 +126,7 @@ Subsec. (b)(8)(A)(iii)(II). Pub. L. 113–183, §112(a)(2), inserted ", subject
 
 <b>2011</b>—Subsec. (b)(15)(A)(ii). Pub. L. 112–34, §101(b)(1), inserted ", including emotional trauma associated with a child's maltreatment and removal from home" before the semicolon.
 
-Subsec. (b)(15)(A)(v). Pub. L. 112–34, §101(b)(2), inserted ", including protocols for the appropriate useand monitoring of psychotropic medications" before the semicolon.
+Subsec. (b)(15)(A)(v). Pub. L. 112–34, §101(b)(2), inserted ", including protocols for the appropriate use and monitoring of psychotropic medications" before the semicolon.
 
 Subsec. (b)(18). Pub. L. 112–34, §101(b)(3), added par. (18).
 
@@ -204,7 +204,7 @@ Subsec. (c). Pub. L. 109–288, §6(c)(2), added subsec. (c).
 
 <b>2000</b>—Subsec. (b)(13), (14). Pub. L. 106–279 added pars. (13) and (14).
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–200 struck out "under" before "the State plan approved under part E of this subchapter".
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–200 struck out "under" before "the State plan approved under part E".
 
 <b>1997</b>—Subsec. (b)(9). Pub. L. 105–33, §5592(a)(2), made technical amendment to directory language of Pub. L. 103–432, §204(a)(2). See 1994 Amendment note below.
 
@@ -220,7 +220,7 @@ Subsec. (b)(11). Pub. L. 105–33, §5592(a)(1)(A)(ii), redesignated par. (10) a
 
 Subsec. (b)(12). Pub. L. 105–89, §202(a), added par. (12).
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–193 substituted "program funded under part A of this subchapter" for "plan approved under part A of this subchapter" and "under the State plan approved under part E of this subchapter" for "part E of this subchapter".
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–193 substituted "program funded under part A" for "plan approved under part A of this subchapter" and "under the State plan approved under part E" for "part E of this subchapter".
 
 <b>1994</b>—Subsec. (b)(7). Pub. L. 103–432, §202(a)(1), which directed amendment of par. (7) by striking out "and" at end, could not be executed because "and" did not appear at end subsequent to amendment by Pub. L. 103–382, §554(1). See below.
 
@@ -248,7 +248,7 @@ Subsec. (b)(2). Pub. L. 103–66, §13711(b)(1)(B), (C), inserted "under the Sta
 
 Subsec. (b)(3). Pub. L. 103–66, §13711(b)(1)(B), substituted "under this subpart" for "under this part".
 
-<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted "the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter" for "the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program".
+<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted "the individual or agency that administers or supervises the administration of the State's services program under subchapter XX" for "the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program".
 
 <b>1980</b>—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts.
 
@@ -262,7 +262,7 @@ Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–183, title I, §112(a)(3), Sept. 29, 2014, 128 Stat. 1926, provided that:"In the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), the amendments made by this subsection \[amending this section and section 675 of this title\] shall not apply until the date that is 3 years after the date of the enactment of this Act \[Sept. 29, 2014\]."
+Pub. L. 113–183, title I, §112(a)(3), Sept. 29, 2014, 128 Stat. 1926, provided that:"In the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), the amendments made by this subsection \[amending this sectionand section 675 of this title\] shall not apply until the date that is 3 years after the date of the enactment of this Act \[Sept. 29, 2014\]."
 
 Pub. L. 113–183, title I, §112(c), Sept. 29, 2014, 128 Stat. 1928, provided that:
 
@@ -326,7 +326,7 @@ In General.—Except as otherwise provided in this Act \[enacting sections 673b,
 
 Delay Permitted if State Legislation Required.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
-Pub. L. 105–33, title V, §5593, Aug. 5, 1997, 111 Stat. 644, provided that: "The amendments made by this chapter \[chapter 5 (§§5591–5593) of subtitle F of title V of Pub. L. 105–33, amending this section and sections 624, 625, 628b, 671, and 672 of this title\] shall take effect as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2277)."
+Pub. L. 105–33, title V, §5593, Aug. 5, 1997, 111 Stat. 644, provided that: "The amendments made by this chapter \[chapter 5 (§§5591–5593) of subtitle F of title V of Pub.L. 105–33, amending this section and sections 624, 625, 628b, 671, and 672 of this title\] shall take effect as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2277)."
 
 #### Effective Date of 1996 Amendment
 
@@ -390,7 +390,7 @@ Pub. L. 96–272, title I, §103(c), June 17, 1980, 94 Stat. 521, provided that 
 
 #### Administration of State Plan for Child Welfare Services by Non-Designated Agency
 
-Pub. L. 96–272, title I, §103(d), June 17, 1980, 94 Stat. 521, provided that: "Notwithstanding section 422(b)(1) of the Social Security Act (as amended by subsection (a) of this section) \[42 U.S.C. 622(b)(1)\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[42 U.S.C. 620 et seq.\] was not the agency designated pursuant to section 402(a)(3) of that Act \[42 U.S.C. 602(a)(3)\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[42 U.S.C. 1397b(d)(1)(C)\]; and if on December 1, 1974, the local agency administering the plan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[42 U.S.C. 601 et seq.\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[42 U.S.C. 1397 et seq.\]."
+Pub. L. 96–272, title I, §103(d), June 17, 1980, 94 Stat. 521, provided that: "Notwithstanding section 422(b)(1) of the Social Security Act (as amended by subsection (a) of this section) \[42 U.S.C. 622(b)(1)\] if on December 1, 1974, the agency of a State administering its plan for child welfare services under part B of title IV of that Act \[42 U.S.C. 620 et seq.\] was not the agency designated pursuant to section 402(a)(3) of that Act \[42 U.S.C. 602(a)(3)\], such section 422(b)(1) shall not apply with respect to such agency, but only so long as such agency is not the agency designated under section 2003(d)(1)(C) of that Act \[42 U.S.C. 1397b(d)(1)(C)\]; and if on December 1, 1974, the local agency administering theplan of a State under part B of title IV of that Act in a subdivision of the State was not the local agency in such subdivision administering the plan of such State under part A of that title \[42 U.S.C. 601 et seq.\], such section 422(b)(1) shall not apply with respect to such local agency, but only so long as such local agency is not the local agency administering the program of the State for the provision of services under title XX of that Act \[42 U.S.C. 1397 et seq.\]."
 
 #### Overpayments or Underpayments
 

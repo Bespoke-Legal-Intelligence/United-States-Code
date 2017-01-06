@@ -38,7 +38,7 @@ In this section:
 
 #### (c) Duties
 
-The duties of the Office shall be to ensure small farms and ranches, beginning farmers or ranchers, and socially disadvantaged farmers or ranchers access to, and equitable participation in, programs and services of the Department by—
+The duties of the Office shall be to ensure small farms and ranches, beginning farmers orranchers, and socially disadvantaged farmers or ranchers access to, and equitable participation in, programs and services of the Department by—
 
 &emsp;(1) establishing and monitoring the goals and objectives of the Department to increase participation in programs of the Department by small, beginning, or socially disadvantaged farmers or ranchers;
 
@@ -128,7 +128,7 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 &emsp;&emsp;(D) Consulting within the Office and with other entities to better integrate farmworker perspectives, concerns, and interests into the ongoing programs of the Department.
 
-&emsp;&emsp;(E) Consulting with appropriate institutions on research, program improvements, or agricultural education opportunities that assist low-income and migrant seasonal farmworkers.
+&emsp;&emsp;(E) Consulting with appropriate institutions on research, program improvements, or agricultural education opportunities thatassist low-income and migrant seasonal farmworkers.
 
 &emsp;&emsp;(F) Assisting farmworkers in becoming agricultural producers or landowners.
 

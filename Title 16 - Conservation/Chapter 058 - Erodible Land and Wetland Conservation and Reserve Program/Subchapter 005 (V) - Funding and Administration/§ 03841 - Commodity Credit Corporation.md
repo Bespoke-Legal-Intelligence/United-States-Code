@@ -74,7 +74,7 @@ Amounts made available by subsection (a) for fiscal years 2014 through 2018 shal
 
 #### (4) Compliance report
 
-&emsp;Not later than November 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
+&emsp;Not later than November 1 of each year, the Secretary shall submit to the Committee onAgriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
 
 &emsp;&emsp;(A) a description of the extent to which the requests for highly erodible land conservation and wetland compliance determinations are being addressed in a timely manner;
 
@@ -86,7 +86,7 @@ Amounts made available by subsection (a) for fiscal years 2014 through 2018 shal
 
 #### (d) Relationship to other law
 
-The use of Commodity Credit Corporation funds under subsection (c) of this section to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15.
+The use of Commodity Credit Corporation funds under subsection (c) to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15.
 
 #### (e) Regional equity
 

@@ -138,7 +138,7 @@
 
 &emsp;&emsp;The Agency shall, as conservator or receiver, and by operation of law, immediately succeed to—
 
-&emsp;&emsp;&emsp;(i) all rights, titles, powers, and privileges of the regulated entity, and of any stockholder, officer, or director of such regulated entity with respect to the regulated entity and the assets of the regulated entity; and
+&emsp;&emsp;&emsp;(i) all rights, titles, powers, and privileges of the regulated entity, and of any stockholder, officer, or director of suchregulated entity with respect to the regulated entity and the assets of the regulated entity; and
 
 &emsp;&emsp;&emsp;(ii) title to the books, records, and assets of any other legal custodian of such regulated entity.
 
@@ -316,7 +316,7 @@
 
 #### (i) Statute of limitation tolled
 
-&emsp;&emsp;&emsp;For purposes of any applicable statute of limitations, the filing of a claim with the receiver shall constitute a commencement of an action.
+&emsp;&emsp;&emsp;For purposes of any applicable statute of limitations, the filing of a claim with thereceiver shall constitute a commencement of an action.
 
 #### (ii) No prejudice to other actions
 

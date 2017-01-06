@@ -58,7 +58,7 @@ Amounts set aside for use under subsection (b) of this section in any fiscal yea
 
 #### (e) Satisfactory assurances required, special assurances required of Indian tribes
 
-(1) Except as provided in paragraph (2), no grant may be made under this section or section5318 of this title and no assistance may be made available under section 1437o <sup>3</sup> of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
+(1) Except as provided in paragraph (2), no grant may be made under this section or section 5318 of this title and no assistance may be made available under section 1437o <sup>3</sup> of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
 
 (2) No grant may be made to an Indian tribe under this section, section 5306(a)(1) of this title, or section 5318 of this title unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 \[25 U.S.C. 1301 et seq.\]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of section 5309 of this title and section 5310 of this title.
 
@@ -136,7 +136,7 @@ Subsecs. (c) to (e). Pub. L. 100–242, §501(b)(2), added subsec. (c) and redes
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §107(a), substituted provisions permitting not more than $68,200,000 for each of fiscal years 1984, 1985, and 1986 to be set aside in a special discretionary fund for grants under subsection (b) of this section, for provisions permitting not more than $60,000,000 to be set aside for each of fiscal years 1982 and 1983 in such a fund.
 
-Subsec. (b)(4). Pub. L. 98–181, §107(b), amended par. (4) generally, inserting provisions authorizing the Secretary to provide assistance to groups designated by certain enumerated governmental units to assist in carrying out this chapter, to qualified groups for the purpose of assisting more than one such governmental unit and to provide technical assistance, directly or through contracts, to such governmental units and groups.
+Subsec. (b)(4). Pub. L. 98–181, §107(b), amended par. (4) generally, inserting provisions authorizing the Secretary to provide assistance to groups designated by certain enumerated governmental units to assist incarrying out this chapter, to qualified groups for the purpose of assisting more than one such governmental unit and to provide technical assistance, directly or through contracts, to such governmental units and groups.
 
 Subsec. (b)(5). Pub. L. 98–181, §107(c), added par. (5).
 
@@ -188,7 +188,7 @@ Prior grants.—Any grant made under section 107 of the Housing and Community De
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
+Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section 110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants; requisite provisions of plans
 
-(1) The Secretary shall, beginning not more than one hundred and eighty days after October1, 1980, make financial assistance available to any State that makes application therefor, and that otherwise meets the requirements of this section, for the purpose of assisting such State in the development of a subterminal facilities plan (hereinafter in this chapter referred to as the "State plan") for such State. Assistance under this section shall be made available in the form of a grant. No grant may be made to any State unless the Governor of such State or the appropriate agency of such State makes an application therefor as provided in this section. To the maximum extent practicable, the personnel and resources of the colleges or universities in the State which are eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), or the Act of August 30, 1890 (7 U.S.C. 321–326 and 328), including Tuskegee Institute, shall be utilized in developing the subterminal facilities plan for that State pursuant to this section.
+(1) The Secretary shall, beginning not more than one hundred and eighty days after October 1, 1980, make financial assistance available to any State that makes application therefor, and that otherwise meets the requirements of this section, for the purpose of assisting such State in the development of a subterminal facilities plan (hereinafter in this chapter referred to as the "State plan") for such State. Assistance under this section shall be made available in the form of a grant. No grant may be made to any State unless the Governor of such State or the appropriate agency of such State makes an application therefor as provided in this section. To the maximum extent practicable, the personnel and resources of the colleges or universities in the State which are eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), or the Act of August 30, 1890 (7 U.S.C. 321–326 and 328), including Tuskegee Institute, shall be utilized in developing the subterminal facilities plan for that State pursuant to this section.
 
 (2) The Secretary may also make grants under this section available to two or more States acting together to develop a coordinated regional subterminal facilities plan (hereinafter in this chapter referred to as the "regional plan") for such region.
 
@@ -71,4 +71,8 @@ Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(
 #### Codification
 
 In subsec. (d)(4), "section 22102 of title 49" substituted for "section 5(j) of the Department of Transportation Act (49 U.S.C. 1654(j))" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 5 of the Department of Transportation Act was amended generally by Pub. L. 101–213, §2(c), Dec. 11, 1989, 103 Stat. 1843, and, as so amended, provisions of subsec. (j), relating to an adequate State plan, were set out in subsec. (a).
+
+#### Effective Date
+
+Section effective Oct. 1, 1980, see section 6 of Pub. L. 96–358, set out as a note under section 3701 of this title.
 

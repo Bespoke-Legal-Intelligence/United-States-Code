@@ -22,7 +22,7 @@ Areas To Be Included as Unusually Sensitive.—When describing areas that are un
 
 &emsp;(1) locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
 
-&emsp;(2) locations near pipeline rights-of-way that have been identified as critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
+&emsp;(2) locations near pipeline rights-of-way that are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters, critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 
 (c)
 
@@ -54,7 +54,7 @@ Minimum requirements of integrity management programs.—An integrity management
 
 &emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted under subparagraphs (A) and (B) and for taking actions based on such results.
 
-&emsp;&emsp;(D) A method for conducting an analysis on a continuing basis that integrates all available information about the integrity of the facility and the consequences of releases from the facility.
+&emsp;&emsp;(D) A method for conducting an analysis on a continuing basis that integrates allavailable information about the integrity of the facility and the consequences of releases from the facility.
 
 &emsp;&emsp;(E) A description of actions to be taken by the operator to promptly address any integrity issue raised by an evaluation conducted under subparagraph (C) or the analysis conducted under subparagraph (D).
 
@@ -134,7 +134,7 @@ Transmittal of programs to state authorities.—The Secretary shall provide a co
 
 &emsp;(10)
 
-State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide theSecretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
+State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
 
 &emsp;(11)
 
@@ -202,7 +202,35 @@ Certification of Pipeline Integrity Management Program Performance.—The Secret
 
 &emsp;(2) to the best of such officer's knowledge and belief, the report is true and complete.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496; Pub. L. 112–90, §§5(e), 22, Jan. 3, 2012, 125 Stat. 1908, 1917.)
+(g)
+
+Hazardous Liquid Pipeline Facilities.—
+
+&emsp;(1)
+
+Integrity assessments.—Notwithstanding any pipeline integrity management program or integrity assessment schedule otherwise required by the Secretary, each operator of a pipeline facility to which this subsection applies shall ensure that pipeline integrity assessments—
+
+&emsp;&emsp;(A) using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and
+
+&emsp;&emsp;(B) using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located.
+
+&emsp;(2)
+
+Application.—This subsection shall apply to any underwater hazardous liquid pipeline facility located in a high consequence area—
+
+&emsp;&emsp;(A) that is not an offshore pipeline facility; and
+
+&emsp;&emsp;(B) any portion of which is located at depths greater than 150 feet under the surface of the water.
+
+&emsp;(3)
+
+High consequence area defined.—For purposes of this subsection, the term "high consequence area" has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.
+
+&emsp;(4)
+
+Inspection and enforcement.—The Secretary shall conduct inspections under section 60117(c) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496; Pub. L. 112–90, §§5(e), 22, Jan. 3, 2012, 125 Stat. 1908, 1917; Pub. L. 114–183, §§19(a), 25, June 22, 2016, 130 Stat. 527, 530.)
 
 Historical and Revision Notes
 
@@ -256,6 +284,10 @@ The Electronic Signatures in Global and National Commerce Act, referred to in su
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–183, §19(a), substituted "are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters," for "have been identified as".
+
+Subsec. (g). Pub. L. 114–183, §25, added subsec. (g).
+
 <b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–90, §5(e), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A)."
 
 Subsec. (e)(3)(B), (C). Pub. L. 112–90, §22, added subpar. (B) and redesignated former subpar. (B) as (C).
@@ -289,6 +321,10 @@ Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and ame
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Unusually Sensitive Areas (USA) Ecological Resources
+
+Pub. L. 114–183, §19(b), June 22, 2016, 130 Stat. 527, provided that: "The Secretary of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations, to explicitly state that the Great Lakes, coastal beaches, and marine coastal waters are USA ecological resources for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of such title)."
 
 #### Integrity Management
 
@@ -398,7 +434,7 @@ Report to Congress on Risk-Based Pipeline Reassessment Intervals.—Not later th
 
 Pub. L. 112–90, §29, Jan. 3, 2012, 125 Stat. 1921, provided that: "In identifying and evaluating all potential threats to each pipeline segment pursuant to parts 192 and 195 of title 49, Code of Federal Regulations, an operator of a pipeline facility shall consider the seismicity of the area."
 
-\[Terms used in section 29 of Pub. L. 112–90, set out above, have the meaning given those terms in this chapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
+\[Terms used in section 29 of Pub. L. 112–90, set out above, have the meaning given those terms in thischapter, see section 1(c)(1) of Pub. L. 112–90, set out as a note under section 60101 of this title.\]
 
 #### Study of Reassessment Intervals
 

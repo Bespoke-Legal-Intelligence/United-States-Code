@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau is authorized to conduct hearings and adjudication proceedings with respect to any person in the manner prescribed by chapter 5 of title 5 in order to ensure or enforce compliance with—
+The Bureau is authorized to conduct hearings and adjudication proceedings with respect toany person in the manner prescribed by chapter 5 of title 5 in order to ensure or enforce compliance with—
 
 &emsp;(1) the provisions of this title,<sup>1</sup> including any rules prescribed by the Bureau under this title; <sup>1</sup> and
 
@@ -18,7 +18,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (B) Content of notice
 
-&emsp;&emsp;The notice under subparagraph (A) shall contain a statement of the facts constituting the alleged violation or violations, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist should issue against thecovered person or service provider, such hearing to be held not earlier than 30 days nor later than 60 days after the date of service of such notice, unless an earlier or a later date is set by the Bureau, at the request of any party so served.
+&emsp;&emsp;The notice under subparagraph (A) shall contain a statement of the facts constituting the alleged violation or violations, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist should issue against the covered person or service provider, such hearing to be held not earlier than 30 days nor later than 60 days after the date of service of such notice, unless an earlier or a later date is set by the Bureau, at the request of any party so served.
 
 #### (C) Consent
 
@@ -52,7 +52,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (2) Appeal
 
-&emsp;Not later than 10 days after the covered person or service provider concerned has beenserved with a temporary cease-and-desist order, the person may apply to the United States district court for the judicial district in which the residence or principal office or place of business of the person is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the person under subsection (b), and such court shall have jurisdiction to issue such injunction.
+&emsp;Not later than 10 days after the covered person or service provider concerned has been served with a temporary cease-and-desist order, the person may apply to the United States district court for the judicial district in which the residence or principal office or place of business of the person is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the person under subsection (b), and such court shall have jurisdiction to issue such injunction.
 
 #### (3) Incomplete or inaccurate records
 

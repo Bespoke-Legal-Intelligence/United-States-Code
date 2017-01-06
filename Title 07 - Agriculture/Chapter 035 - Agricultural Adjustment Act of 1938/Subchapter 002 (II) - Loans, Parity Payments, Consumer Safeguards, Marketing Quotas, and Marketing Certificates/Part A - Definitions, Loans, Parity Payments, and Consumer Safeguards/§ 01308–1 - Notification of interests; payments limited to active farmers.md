@@ -12,7 +12,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 #### (1) In general
 
-&emsp;To be eligible to receive a payment described in subsection (b) or (c) of section 1308 of this title, a person or legal entity shall be actively engaged in farming with respect to a farming operation as provided in this subsection or subsection (c).
+&emsp;To be eligible to receive a payment described in subsection (b) or (c) of section 1308of this title, a person or legal entity shall be actively engaged in farming with respect to a farming operation as provided in this subsection or subsection (c).
 
 #### (2) Classes actively engaged
 
@@ -154,7 +154,7 @@ Pub. L. 113–79, title I, §1604, Feb. 7, 2014, 128 Stat. 706, provided that:
 
 Regulations Required.—Within 180 days after the date of the enactment of this Act \[Feb. 7, 2014\], the Secretary shall promulgate, with an opportunity for notice and comment, regulations—
 
-&emsp;"(1) to define the term 'significant contribution of active personal management' for purposes of section1001A of the Food Security Act of 1985 (7 U.S.C. 1308–1); and
+&emsp;"(1) to define the term 'significant contribution of active personal management' for purposes of section 1001A of the Food Security Act of 1985 (7 U.S.C. 1308–1); and
 
 &emsp;"(2) if the Secretary determines it is appropriate, to establish limits for varying types of farming operations on the number of individuals who may be considered to be actively engaged in farming with respect to the farming operation when a significant contribution of active personal management is the basis used to meet the requirement of being actively engaged in farming under section 1001A of the Food Security Act of 1985 (7 U.S.C. 1308–1) by an individual or entity.
 

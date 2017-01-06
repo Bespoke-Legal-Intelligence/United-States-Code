@@ -18,7 +18,7 @@
 
 &emsp;(3) may not be made the basis for terminal leave except under such special or emergency circumstances as may be prescribed under the regulations of the Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 89–747, §1(1), (2), Nov. 2, 1966, 80 Stat. 1179; Pub. L. 90–623, §1(16), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §§2312(c), 2314(f)(2), Oct. 17, 1980, 94 Stat. 2167, 2168; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1133\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 89–747, §1(1), (2), Nov. 2, 1966, 80 Stat. 1179; Pub.L. 90–623, §1(16), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §§2312(c), 2314(f)(2), Oct. 17, 1980, 94 Stat. 2167, 2168; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1133\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
 
 Historical and Revision Notes
 

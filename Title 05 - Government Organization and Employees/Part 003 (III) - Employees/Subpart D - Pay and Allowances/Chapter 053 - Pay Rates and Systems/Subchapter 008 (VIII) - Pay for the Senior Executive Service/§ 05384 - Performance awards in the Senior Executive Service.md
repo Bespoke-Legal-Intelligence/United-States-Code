@@ -12,7 +12,7 @@
 
 &emsp;(A) an amount equal to 10 percent of the aggregate amount of basic pay paid to career appointees in such agency during the preceding fiscal year; or
 
-&emsp;(B) an amount equal to 20 percent of the average of the annual rates of basic pay paid to career appointees in such agency during the preceding fiscal year.
+&emsp;(B) an amount equal to 20 percent of the average of the annual rates of basic pay paid tocareer appointees in such agency during the preceding fiscal year.
 
 (c)(1) Performance awards paid by any agency under this section shall be based on recommendations by performance review boards established by such agency under section 4314 of this title.
 
@@ -39,6 +39,10 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §632(b)\], Oct. 21, 1998, 112 S
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+
+#### Effective Date
+
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
 #### Limitation on Number of Performance Awards for Career Appointees
 

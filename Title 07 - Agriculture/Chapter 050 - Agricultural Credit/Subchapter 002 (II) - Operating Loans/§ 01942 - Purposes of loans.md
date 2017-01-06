@@ -24,7 +24,7 @@ A direct loan (including a microloan, as defined by the Secretary) may be made u
 
 &emsp;&emsp;(A) has refinanced a loan under this subchapter not more than 4 times previously; and
 
-&emsp;&emsp;(B)(i) is a direct loan borrower under this chapter at the time of the refinancing and has suffered a qualifying loss because of a natural disaster declared by the Secretary under this chapter or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
+&emsp;&emsp;(B)(i) is a direct loan borrower under this chapter at the time of the refinancing andhas suffered a qualifying loss because of a natural disaster declared by the Secretary under this chapter or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
 
 &emsp;&emsp;(ii) is refinancing a debt obtained from a creditor other than the Secretary; or
 
@@ -150,5 +150,5 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Construction of 1991 Amendment
 
-Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.)shall be applied and administered as if such subsection had never become law."
+Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law."
 

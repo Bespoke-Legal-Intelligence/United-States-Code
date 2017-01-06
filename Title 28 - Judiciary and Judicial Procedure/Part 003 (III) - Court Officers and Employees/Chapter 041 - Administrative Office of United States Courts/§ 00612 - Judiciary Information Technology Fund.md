@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required tosupplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -108,7 +108,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 &emsp;(6) assess the current utilization and future user requirements of the data communications network.
 
-(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009-45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, §407(b), Nov. 30, 2005, 119 Stat. 2471.)
+(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, §407(b), Nov. 30, 2005, 119 Stat. 2471.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ Subsec. (b)(1). Pub. L. 103–420, §2(2), substituted "activities funded under 
 
 Subsec. (b)(2). Pub. L. 103–420, §2(3), substituted "activities funded under subsection (a)" for "judicial branch of the United States".
 
-Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted ", all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary undersection 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)" after "surplus property".
+Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted ", all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)" after "surplus property".
 
 Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out "(A)" before "In fiscal year 1990" and substituted "amounts estimated to be collected under subsection (c) for that fiscal year" for "$75,000,000".
 
@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to 
 
 Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c)."
 
-Subsec. (i). Pub. L. 103–420, §2(7), substituted "may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)" for "and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459."
+Subsec. (i). Pub. L. 103–420, §2(7), substituted "may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)" for "and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliancewith provisions set forth in section 606 of Public Law 100–459."
 
 Subsec. (j). Pub. L. 103–420, §2(8), substituted "not specified in statute by Congress" for "not specified by Congress" in second sentence.
 

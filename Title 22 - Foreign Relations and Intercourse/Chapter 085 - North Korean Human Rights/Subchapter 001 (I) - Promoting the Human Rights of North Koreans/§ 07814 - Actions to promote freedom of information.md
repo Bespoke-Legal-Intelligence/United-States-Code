@@ -18,13 +18,29 @@ The President is authorized to take such actions as may be necessary to increase
 
 Not later than 1 year after October 18, 2004, and annually through 2017, the Secretary of State, after consultation with the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report, in classified form, on actions taken pursuant to this section.
 
-(Pub. L. 108–333, title I, §104, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 110–346, §7, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §6, Aug. 16, 2012, 126 Stat. 1309.)
+#### (d) Information technology study
+
+Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015,<sup>1</sup> the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive electronic mass communications available to the people of North Korea.
+
+(Pub. L. 108–333, title I, §104, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 110–346, §7, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §6, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 114–122, title III, §301, Feb. 18, 2016, 130 Stat. 112.)
+
+#### References in Text
+
+The date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, referred to in subsec. (d), probably means the date of enactment of the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–122, which was approved Feb. 18, 2016.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–122 added subsec. (d).
 
 <b>2012</b>—Subsecs. (b)(1), (c). Pub. L. 112–172 substituted "2017" for "2012".
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–346, §7(1), substituted "2012" for "2008".
 
 Subsec. (c). Pub. L. 110–346, §7(2), substituted "annually through 2012" for "in each of the 3 years thereafter".
+
+#### Delegation of Functions
+
+Functions of President under section 301 of Pub. L. 114–122 (adding subsec. (d) of this section) delegated to Secretary of State by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

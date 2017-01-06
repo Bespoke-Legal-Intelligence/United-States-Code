@@ -106,7 +106,7 @@ Subsec. (b)(2)(A)(ii). Pub. L. 95–600, §364(a)(3), substituted "electric ener
 
 Subsec. (b)(3)(A). Pub. L. 95–600, §364(a)(4), substituted "line to an electric line, a gas main, a steam line, or a main water or sewer line" for "property to a main water or sewer line".
 
-Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted "electric energy, gas, water," for "water" and inserted "(including in the case of a gas transmission utility, the provision of gas services by sale for resale to the general public)" after "members of the general public".
+Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted "electric energy, gas, water," for "water" and inserted "(including in the case of a gas transmission utility,the provision of gas services by sale for resale to the general public)" after "members of the general public".
 
 <b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455, §2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 

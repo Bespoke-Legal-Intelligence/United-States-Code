@@ -18,6 +18,394 @@ Functions of President respecting certain facilities constructed and maintained 
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
 
+#### Human Rights Sanctions
+
+Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533, provided that:
+
+#### "SEC. 1261. SHORT TITLE.
+
+"This subtitle may be cited as the 'Global Magnitsky Human Rights Accountability Act'.
+
+#### "SEC. 1262. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1)
+
+Foreign person.—The term 'foreign person' has the meaning given that term in section 595.304 of title 31, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Dec. 23, 2016\]).
+
+&emsp;"(2)
+
+Gross violations of internationally recognized human rights.—The term 'gross violations of internationally recognized human rights' has the meaning given that term in section 502B(d)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(d)(1)).
+
+&emsp;"(3)
+
+Person.—The term 'person' has the meaning given that term in section 591.308 of title 31, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act).
+
+&emsp;"(4)
+
+United states person.—The term 'United States person' has the meaning given that term in section 595.315 of title 31, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act).
+
+#### "SEC. 1263. AUTHORIZATION OF IMPOSITION OF SANCTIONS.
+
+"(a)
+
+In General.—The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
+
+&emsp;"(1) is responsible for extrajudicial killings, torture, or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek—
+
+&emsp;&emsp;"(A) to expose illegal activity carried out by government officials; or
+
+&emsp;&emsp;"(B) to obtain, exercise, defend, or promote internationally recognized human rights and freedoms, such as the freedoms of religion, expression, association, and assembly, and the rights to a fair trial and democratic elections;
+
+&emsp;"(2) acted as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1);
+
+&emsp;"(3) is a government official, or a senior associate of such an official, that is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
+
+&emsp;"(4) has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an activity described in paragraph (3).
+
+"(b)
+
+Sanctions Described.—The sanctions described in this subsection are the following:
+
+&emsp;"(1)
+
+Inadmissibility to united states.—In the case of a foreign person who is an individual—
+
+&emsp;&emsp;"(A) ineligibility to receive a visa to enter the United States or to be admitted to the United States; or
+
+&emsp;&emsp;"(B) if the individual has been issued a visa or other documentation, revocation, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), of the visa or other documentation.
+
+&emsp;"(2)
+
+Blocking of property.—
+
+&emsp;&emsp;"(A)
+
+In general.—The blocking, in accordance with the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), of all transactions in all property and interests in property of a foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+&emsp;&emsp;"(B)
+
+Inapplicability of national emergency requirement.—The requirements of section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701) shall not apply for purposes of this section.
+
+&emsp;&emsp;"(C)
+
+Exception relating to importation of goods.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The authority to block and prohibit all transactions in all property and interests in property under subparagraph (A) shall not include the authority to impose sanctions on the importation of goods.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Good.—In this subparagraph, the term 'good' has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as continued in effect pursuant tothe International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+
+"(c)
+
+Consideration of Certain Information in Imposing Sanctions.—In determining whether to impose sanctions under subsection (a), the President shall consider—
+
+&emsp;"(1) information provided jointly by the chairperson and ranking member of each of the appropriate congressional committees; and
+
+&emsp;"(2) credible information obtained by other countries and nongovernmental organizations that monitor violations of human rights.
+
+"(d)
+
+Requests by Appropriate Congressional Committees.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after receiving a request that meets the requirements of paragraph (2) with respect to whether a foreign person has engaged in an activity described in subsection (a), the President shall—
+
+&emsp;&emsp;"(A) determine if that person has engaged in such an activity; and
+
+&emsp;&emsp;"(B) submit a classified or unclassified report to the chairperson and ranking member of the committee or committees that submitted the request with respect to that determination that includes—
+
+&emsp;&emsp;&emsp;"(i) a statement of whether or not the President imposed or intends to impose sanctions with respect to the person; and
+
+&emsp;&emsp;&emsp;"(ii) if the President imposed or intends to impose sanctions, a description of those sanctions.
+
+&emsp;"(2)
+
+Requirements.—
+
+&emsp;&emsp;"(A)
+
+Requests relating to human rights violations.—A request under paragraph (1) with respect to whether a foreign person has engaged in an activity described in paragraph (1) or (2) of subsection (a) shall be submitted to the President in writing jointly by the chairperson and ranking member of one of the appropriate congressional committees.
+
+&emsp;&emsp;"(B)
+
+Requests relating to corruption.—A request under paragraph (1) with respect to whether a foreign person has engaged in an activity described in paragraph (3) or (4) of subsection (a) shall be submitted to the President in writing jointly by the chairperson and ranking member of—
+
+&emsp;&emsp;&emsp;"(i) one of the appropriate congressional committees of the Senate; and
+
+&emsp;&emsp;&emsp;"(ii) one of the appropriate congressional committees of the House of Representatives.
+
+"(e)
+
+Exception To Comply With United Nations Headquarters Agreement and Law Enforcement Objectives.—Sanctions under subsection (b)(1) shall not apply to an individual if admitting the individual into the United States would further important law enforcement objectives or is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations of the United States.
+
+"(f)
+
+Enforcement of Blocking of Property.—A person that violates, attempts to violate, conspires to violate, or causes a violation of a sanction described in subsection (b)(2) that is imposed by the President or any regulation, license, or order issued to carry out such a sanction shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+"(g)
+
+Termination of Sanctions.—The President may terminate the application of sanctions under this section with respect to a person if the President determines and reports to the appropriate congressional committees not later than 15 days before the termination of the sanctions that—
+
+&emsp;"(1) credible information exists that the person did not engage in the activity for which sanctions were imposed;
+
+&emsp;"(2) the person has been prosecuted appropriately for the activity for which sanctions were imposed;
+
+&emsp;"(3) the person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activity for which sanctions were imposed, and has credibly committed to not engage in an activity described in subsection (a) in the future; or
+
+&emsp;"(4) the termination of the sanctions is in the national security interests of the United States.
+
+"(h)
+
+Regulatory Authority.—The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+
+"(i)
+
+Identification of Sanctionable Foreign Persons.—The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
+
+"(j)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives.
+
+#### "SEC. 1264. REPORTS TO CONGRESS.
+
+"(a)
+
+In General.—The President shall submit to the appropriate congressional committees, in accordance with subsection (b), a report that includes—
+
+&emsp;"(1) a list of each foreign person with respect to which the President imposed sanctions pursuant to section 1263 during the year preceding the submission of the report;
+
+&emsp;"(2) a description of the type of sanctions imposed with respect to each such person;
+
+&emsp;"(3) the number of foreign persons with respect to which the President—
+
+&emsp;&emsp;"(A) imposed sanctions under section 1263(a) during that year; and
+
+&emsp;&emsp;"(B) terminated sanctions under section 1263(g) during that year;
+
+&emsp;"(4) the dates on which such sanctions were imposed or terminated, as the case may be;
+
+&emsp;"(5) the reasons for imposing or terminating such sanctions; and
+
+&emsp;"(6) a description of the efforts of the President to encourage the governments of other countries to impose sanctions that are similar to the sanctions authorized by section 1263.
+
+"(b)
+
+Dates for Submission.—
+
+&emsp;"(1)
+
+Initial report.—The President shall submit the initial report under subsection (a) not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2016\].
+
+&emsp;"(2)
+
+Subsequent reports.—
+
+&emsp;&emsp;"(A)
+
+In general.—The President shall submit a subsequent report under subsection (a) on December 10, or the first day thereafter on which both Houses of Congress are in session, of—
+
+&emsp;&emsp;&emsp;"(i) the calendar year in which the initial report is submitted if the initial report is submitted before December 10 of that calendar year; and
+
+&emsp;&emsp;&emsp;"(ii) each calendar year thereafter.
+
+&emsp;&emsp;"(B)
+
+Congressional statement.—Congress notes that December 10 of each calendar year has been recognized in the United States and internationally since 1950 as 'Human Rights Day'.
+
+"(c)
+
+Form of Report.—
+
+&emsp;"(1)
+
+In general.—Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+&emsp;"(2)
+
+Exception.—The name of a foreign person to be included in the list required by subsection (a)(1) maybe submitted in the classified annex authorized by paragraph (1) only if the President—
+
+&emsp;&emsp;"(A) determines that it is vital for the national security interests of the United States to do so;
+
+&emsp;&emsp;"(B) uses the annex in a manner consistent with congressional intent and the purposes of this subtitle; and
+
+&emsp;&emsp;"(C) not later than 15 days before submitting the name in a classified annex, provides to the appropriate congressional committees notice of, and a justification for, including the name in the classified annex despite any publicly available credible information indicating that the person engaged in an activity described in section 1263(a).
+
+"(d)
+
+Public Availability.—
+
+&emsp;"(1)
+
+In general.—The unclassified portion of the report required by subsection (a) shall be made available to the public, including through publication in the Federal Register.
+
+&emsp;"(2)
+
+Nonapplicability of confidentiality requirement with respect to visa records.—The President shall publish the list required by subsection (a)(1) without regard to the requirements of section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States.
+
+"(e)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate; and
+
+&emsp;"(2) the Committee on Appropriations, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives.
+
+#### "SEC. 1265. SUNSET.
+
+"(a)
+
+In General.—The authority to impose sanctions under this subtitle shall terminate on the date that is 6 years after the date of the enactment of this Act \[Dec. 23, 2016\].
+
+"(b)
+
+Continuation in Effect of Sanctions.—Sanctions imposed under this subtitle on or before the date specified in subsection (a), and in effect as of such date, shall remain in effect until terminated in accordance with the requirements of section 1263(g)."
+
+#### Global Engagement Center
+
+Pub. L. 114–328, div. A, title XII, §1287, Dec. 23, 2016, 130 Stat. 2546, provided that:
+
+"(a)
+
+Establishment.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of State, in coordination with the Secretary of Defense and the heads of other relevant Federal departments and agencies, shall establish within the Department of State a Global Engagement Center (in this section referred to as the 'Center').
+
+&emsp;"(2)
+
+Purpose.—The purpose of the Center shall be to lead, synchronize, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining United States national security interests.
+
+"(b)
+
+Functions.—The Center shall carry out the following functions:
+
+&emsp;"(1) Integrate interagency and international efforts to track and evaluate counterfactual narratives abroad that threaten the national security interests of the United States and United States allies and partner nations.
+
+&emsp;"(2) Analyze relevant information, data, analysis, and analytics from United States Government agencies, United States allies and partner nations, think tanks, academic institutions, civil society groups, and other nongovernmental organizations.
+
+&emsp;"(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations.
+
+&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign misinformation and disinformation and proactively promote fact-based narratives and policies to audiences outside the United States.
+
+&emsp;"(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices.
+
+&emsp;"(6) Identify gaps in United States capabilities in areas relevant to the purpose of the Center and recommend necessary enhancements or changes.
+
+&emsp;"(7) Identify the countries and populations most susceptible to propaganda and disinformation based on information provided by appropriate interagency entities.
+
+&emsp;"(8) Administer the information access fund established pursuant to subsection (f).
+
+&emsp;"(9) Coordinate with United States allies and partner nations in order to amplify the Center's efforts and avoid duplication.
+
+&emsp;"(10) Maintain, collect, use, and disseminate records (as such term is defined in section 552a(a)(4) of title 5, United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight.
+
+"(c)
+
+Head of Center.—
+
+&emsp;"(1)
+
+Appointment.—The head of the Center shall be an individual who is an official of the Federal Government, who shall be appointed by the President.
+
+&emsp;"(2)
+
+Compliance with privacy and civil liberties laws.—The President shall designate a senior official to develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance.
+
+"(d)
+
+Employees of the Center.—
+
+&emsp;"(1)
+
+Detailees.—Any Federal Government employee may be detailed to the Center without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege for a period of not more than 3 years.
+
+&emsp;"(2)
+
+Personal service contractors.—The Secretary of State may hire United States citizens or aliens as personal services contractors for purposes of personnel resources of the Center, if—
+
+&emsp;&emsp;"(A) the Secretary determines that existing personnel resources are insufficient;
+
+&emsp;&emsp;"(B) the period in which services are provided by a personal services contractor, including options, does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year;
+
+&emsp;&emsp;"(C) not more than 50 United States citizens or aliens are employed as personal services contractors under the authority of this paragraph at any time; and
+
+&emsp;&emsp;"(D) the authority of this paragraph is only used to obtain specialized skills or experience or to respond to urgent needs.
+
+"(e)
+
+Transfer of Amounts Authorized.—
+
+&emsp;"(1)
+
+In general.—If amounts authorized to be appropriated or otherwise made available to carry out the functions of the Center—
+
+&emsp;&emsp;"(A) for fiscal year 2017 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Department of Defense for fiscal year 2017, to the Secretary of State an amount, not to exceed $60,000,000,to be available to carry out the functions of the Center for fiscal year 2017; and
+
+&emsp;&emsp;"(B) for fiscal year 2018 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by an Act authorizing funds for the Department of Defense for fiscal year 2018, to the Secretary of State an amount, not to exceed $60,000,000, to be available to carry out the functions of the Center for fiscal year 2018.
+
+&emsp;"(2)
+
+Notice requirement.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
+
+&emsp;"(3)
+
+Inapplicability of reprogramming requirements.—The authority to transfer amounts under paragraph (1) shall not be subject to any reprogramming requirement under any other provision of law.
+
+"(f)
+
+Information Access Fund.—
+
+&emsp;"(1)
+
+Authority for grants.—The Center is authorized to provide grants or contracts of financial support to civil society groups, media content providers, nongovernmental organizations, federally funded research and development centers, private companies, or academic institutions for the following purposes:
+
+&emsp;&emsp;"(A) To support local independent media who are best placed to refute foreign disinformation and manipulation in their own communities.
+
+&emsp;&emsp;"(B) To collect and store examples in print, online, and social media, disinformation, misinformation, and propaganda directed at the United States and its allies and partners.
+
+&emsp;&emsp;"(C) To analyze and report on tactics, techniques, and procedures of foreign information warfare with respect to disinformation, misinformation, and propaganda.
+
+&emsp;&emsp;"(D) To support efforts by the Center to counter efforts by foreign entities to use disinformation, misinformation, and propaganda to influence the policies and social and political stability of the United States and United States allies and partner nations.
+
+&emsp;"(2)
+
+Funding availability and limitations.—The Secretary of State shall provide that each organization that applies to receive funds under this subsection is selected in accordance with the relevant existing regulations to ensure its bona fides, capability, and experience, and its compatibility with United States interests and objectives.
+
+"(g)
+
+Reports.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date on which the Center is established, the Secretary of State shall submit to the appropriate congressional committees a report evaluating the success of the Center in carrying out its functions under subsection (b) and outlining steps to improve any areas of deficiency.
+
+&emsp;"(2)
+
+Definition.—In this subsection, the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.
+
+"(h)
+
+Limitation.—None of the funds authorized to be appropriated or otherwise made available to carry out this section shall be used for purposes other than countering foreign propaganda and misinformation that threatens United States national security.
+
+"(i)
+
+Termination.—The Center shall terminate on the date that is 8 years after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
 #### Strategy for the United States Relationship With Saudi Arabia
 
 Pub. L. 110–53, title XX, §2043, Aug. 3, 2007, 121 Stat. 524, provided that:
@@ -144,7 +532,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(6) Two of the September 11, 2001, hijackers were carrying passports that had been manipulated in a fraudulent manner.
 
-&emsp;"(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the 9/11 Commission), stated that 'Targeting travel is at least as powerful a weapon against terrorists as targeting their money.'.
+&emsp;"(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the9/11 Commission), stated that 'Targeting travel is at least as powerful a weapon against terrorists as targeting their money.'.
 
 "(b)
 
@@ -274,7 +662,7 @@ Trade and Development Agency.—
 
 &emsp;"(1)
 
-In general.—The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
+In general.—The Director of the Trade and Development Agency is authorized to carry out projectsin East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
 
 &emsp;"(2)
 
@@ -366,7 +754,7 @@ Information.—The report required by subsection (a) shall include—
 
 &emsp;"(6) statistical data drawn from other sources on economic growth, health, education, and distribution of resources in East Timor."
 
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
 \[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -498,7 +886,7 @@ Report on United States-Tibet Relations.—Because Congress has determined that 
 
 &emsp;"(1) it is the sense of the Congress that the United States should seek to establish a dialogue with those recognized by Congress as the true representatives of the Tibetan people, the Dalai Lama, his representatives and the Tibetan Government in exile, concerning the situation in Tibet and the future of the Tibetan people and to expand and strengthen United States-Tibet cultural and educational relations, including promoting bilateral exchanges arranged directly with the Tibetan Government in exile; and
 
-&emsp;"(2) not later than 6 months after the date of enactment of this Act \[Apr. 30, 1994\], and every 12 months thereafter, the Secretary of State shall transmit to the Chairman of the Committee on Foreign Relations and the Speaker of the House of Representatives a report on the state of relations between the United States and those recognized by Congress as the true representatives of the Tibetan people, the DalaiLama, his representatives and the Tibetan Government in exile, and on conditions in Tibet.
+&emsp;"(2) not later than 6 months after the date of enactment of this Act \[Apr. 30, 1994\], and every 12 months thereafter, the Secretary of State shall transmit to the Chairman of the Committee on Foreign Relations and the Speaker of the House of Representatives a report on the state of relations between the United States and those recognized by Congress as the true representatives of the Tibetan people, the Dalai Lama, his representatives and the Tibetan Government in exile, and on conditions in Tibet.
 
 "(b)
 
@@ -642,7 +1030,7 @@ Definition.—As used in this section, the term 'respect for freedom of the pres
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizenscan contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
@@ -716,57 +1104,71 @@ Pub. L. 95–426, title VI, §603, Oct. 7, 1978, 92 Stat. 985, as amended by Pub
 
 Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: "The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents."
 
-#### Ex. Ord. No. 13584. Developing an Integrated Strategic Counterterrorism Communications Initiative and Establishing a Temporary Organization To Support Certain Government-wide Communications Activities Directed Abroad
+#### Executive Order No. 13584
 
-Ex. Ord. No. 13584, Sept. 9, 2011, 76 F.R. 56945, provided:
+Ex. Ord. No. 13584, Sept. 9, 2011, 76 F.R. 56945, which related to developing an integrated strategic counterterrorism communications initiative and establishing a temporary organization to support certain government-wide communications activities directed abroad, was revoked by Ex. Ord. No. 13721, §2, Mar. 17, 2016, 81 F.R. 14685, set out below.
+
+#### Ex. Ord. No. 13721. Developing an Integrated Global Engagement Center To Support Government-wide Counterterrorism Communications Activities Directed Abroad and Revoking Executive Order 13584
+
+Ex. Ord. No. 13721, Mar. 14, 2016, 81 F.R. 14685, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 2656 of title 22, United States Code, and section 3161 of title 5, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States is committed to actively countering the actions and ideologies of al-Qa'ida, its affiliates and adherents, other terrorist organizations, and violent extremists overseas that threaten the interests and national security of the United States. These efforts take many forms, but all contain a communications element and some use of communications strategies directed to audiences outside the United States to counter the ideology and activities of such organizations. These communicationsstrategies focus not only on the violent actions and human costs of terrorism, but also on narratives that can positively influence those who may be susceptible to radicalization and recruitment by terrorist organizations.
+Section 1. <i>Establishment of the Global Engagement Center</i>. The Secretary of State (Secretary) shall establish the Global Engagement Center (Center) which shall lead the coordination, integration, and synchronization of Government-wide communications activities directed at foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations, including the Islamic State of Iraq and the Levant (ISIL), al Qa'ida, and other violent extremists abroad, with specific responsibilities as set forth in section 3 of this order. The executive director of the Center shall be the Special Envoy and Coordinator for Global Engagement Communications (Coordinator), who shall report to the Secretary through the Under Secretary of State for Public Diplomacy.
 
-The purpose of this Executive Order is to reinforce, integrate, and complement public communications efforts across the executive branch that are (1) focused on countering the actions and ideology of al-Qa'ida, its affiliates and adherents, and other international terrorist organizations and violent extremists overseas, and (2) directed to audiences outside the United States. This collaborative work among executive departments and agencies (agencies) brings together expertise, capabilities, and resources to realize efficiencies and better coordination of U.S. Government communications investments to combat terrorism and extremism.
+Sec. 2. <i>Revocation</i>. Executive Order 13584 of September 9, 2011 (Developing an Integrated Strategic Counterterrorism Communications Initiative and Establishing a Temporary Organization to Support Certain Government-Wide Communications Activities Directed Abroad), is revoked.
 
-Sec. 2. <i>Assigned Responsibilities to the Center for Strategic Counterterrorism Communications</i>.
+Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for innovation and new approaches to counter the messaging and diminish the influence of international terrorist organizations, including ISIL, al Qa'ida, and other violent extremists abroad, and in order to protect the vital national interests of the United States, while also recognizing the importance of protections for freedom of expression, including those under the First Amendment to the Constitution of the United States and international human rights obligations, the responsibilities and functions of the Center shall include the following:
 
-(a) Under the direction of the Secretary of State (Secretary), the Center for Strategic Counterterrorism Communications (Center) that has been established in the Department of State by the Secretary shall coordinate, orient, and inform Government-wide public communications activities directed at audiences abroad and targeted against violent extremists and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, with the goal of using communication tools to reduce radicalization by terrorists and extremist violence and terrorism that threaten the interests and national security of the United States. Consistent with section 404o \[now 3056\] of title 50, United States Code, the Center shall coordinate its analysis, evaluation, and planning functions with the National Counterterrorism Center. The Center shall also coordinate these functions with other agencies, as appropriate.
+(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
 
-Executive branch efforts undertaken through the Center shall draw on all agencies with relevant information or capabilities, to prepare, plan for, and conduct these communications efforts.
+(b) developing and promulgating throughout the executive branch, on the basis of rigorous research and modern data analysis, the U.S. strategic counterterrorism narratives, guidance, and associated communications strategies directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
 
-(b) To achieve these objectives, the Center's functions shall include:
+(c) consulting and engaging, in coordination with agencies and the Countering Violent Extremism Task Force, as appropriate, with a range of communications-related actors and entities, within the United States and abroad, including governments, private sector and civil society entities, in order to contribute to U.S. Government efforts to counter the communications-related radicalization to violence and recruitment activities of international terrorist organizations and other violent extremists abroad, while also building the capacity of partners to create resonant positive alternative narratives and to diminish the influence of such international terrorist organizations and other violent extremists abroad;
 
-(i) monitoring and evaluating narratives (overarching communication themes that reflect a community's identity, experiences, aspirations, and concerns) and events abroad that are relevant to the development of a U.S. strategic counterterrorism narrative designed to counter violent extremism and terrorism that threaten the interests and national security of the United States;
+(d) identifying, engaging, employing, or acquiring the best available talent across the U.S. and from global private sectors, academia, and elsewhere to support the Center's mission;
 
-(ii) developing and promulgating for use throughout the executive branch the U.S. strategic counterterrorism narratives and public communications strategies to counter the messaging of violent extremists and terrorist organizations, especially al-Qa'ida and its affiliates and adherents;
+(e) identifying shortfalls in any U.S. capabilities in any areas relevant to the Center's mission and implementing or recommending, as appropriate, necessary enhancements or changes; and
 
-(iii) identifying current and emerging trends in extremist communications and communications by al-Qa'ida and its affiliates and adherents in order to coordinate and provide thematic guidance to U.S. Government communicators on how best to proactively promote the U.S. strategic counterterrorism narrative and policies and to respond to and rebut extremist messaging and narratives when communicating to audiences outside the United States, as informed by a wide variety of Government and non-government sources, including nongovernmental organizations, academic sources, and finished intelligence created by the intelligence community;
+(f) developing, supporting, and sustaining networks of governmental and non-governmental partners, to provide original content and disseminate messaging products to foreign audiences abroad and to create, develop, and sustain effective positive alternative narratives consistent with U.S. policy objectives.
 
-(iv) facilitating the use of a wide range of communications technologies, including digital tools, by sharing expertise among agencies, seeking expertise from external sources, and extending best practices;
+Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establish a Steering Committee composed of senior representatives of agencies relevant to the Center's mission to provide advice to the Secretary on the operations and strategic orientation of the Center and to ensure adequate support for the Center. The Steering Committee shall be chaired by the Under Secretary of State for Public Diplomacy. The Steering Committee shall include one senior representative designated by the head of each of the following agencies: the Department of Defense, the Department of Justice, the Department of Homeland Security, the Department of the Treasury, the Small Business Administration, the National Counterterrorism Center, the Joint Chiefs of Staff, the Counterterrorism Center of the Central Intelligence Agency, the Broadcast Board of Governors, and the United States Agency for International Development. Other agencies may be invited to participate in the Steering Committee at the discretion of the Chair.
 
-(v) identifying and requesting relevant information from agencies, including intelligence reporting, data, and analysis; and
+Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent with budget priorities and mission constraints, upon request by the Secretary and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Center, and the Center is authorized to use, for the purpose of carrying out the responsibilities outlined in this order:
 
-(vi) identifying shortfalls in U.S. capabilities in any areas relevant to the Center's mission and recommending necessary enhancements or changes.
+(a) details or assignments of personnel, which shall be based on reasonable requests in light of the need forspecific domain expertise, and after consultation with the relevant agency to ensure that such requests align with their authorities and resources;
 
-(c) The Secretary shall establish a Steering Committee composed of senior representatives of agencies relevant to the Center's mission to provide advice to the Secretary on the operations and strategic orientation of the Center and to ensure adequate support for the Center. The Steering Committee shall meet not less than every 6 months. The Steering Committee shall be chaired by the Under Secretary of State for Public Diplomacy. The Coordinator for Counterterrorism of the Department of State shall serve as Vice Chair. The Coordinator of the Center shall serve as Executive Secretary. The Steering Committee shall include one senior representative designated by the head of each of the following agencies: the Department of Defense, the Department of Justice, the Department of Homeland Security, the Department of the Treasury, the National Counterterrorism Center, the Joint Chiefs of Staff, the Counterterrorism Center of the Central Intelligence Agency, the Broadcast Board of Governors, and the Agency for International Development. Other agencies may be invited to participate in the Steering Committee at the discretion of the Chair.
+(b) the use of physical premises, equipment, and logistical or administrative support;
 
-Sec. 3. <i>Establishment of a Temporary Organization</i>.
+(c) relevant information, research, intelligence, and analysis; and
 
-(a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Counterterrorism Communications Support Office (CCSO).
+(d) such other resources and assistance as the Coordinator may request for the purpose of carrying out the responsibilities outlined in this order.
 
-(b) The purpose of the CCSO shall be to perform the specific project of supporting agencies in Government-wide public communications activities targeted against violent extremism and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, to audiences abroad by using communication tools designed to counter violent extremism and terrorism that threaten the interests and national security of the United States.
+Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Global Engagement Center Coordination Office (GECCO).
 
-(c) In carrying out its purpose set forth in subsection (b) of this section, the CCSO shall:
+(b) The purpose of the GECCO shall be to perform the specific project of providing technical, marketing, management, and operational support to the Center in its efforts to build and maintain a network of partners outside the U.S. Government, including private sector entities and non-governmental organizations, and to develop research and analytics to enable measurement and evaluation of the activities of the Center and related activities conducted by other agencies.
 
-(i) support agencies in their implementation of whole-of-government public communications activities directed at audiences abroad, including by providing baseline research on characteristics of these audiences, by developing expertise and studies on aspirations, narratives, information strategies and tactics of violent extremists and terrorist organizations overseas, by designing and developing sustained campaigns on specific areas of interest to audiences abroad, and by developing expertise on implementing highly focused social media campaigns; and
+(c) In carrying out the purposes set forth in subsection (b) of this section, the GECCO shall:
 
-(ii) perform such other functions related to the specific project set forth in subsection (b) of this section as the Secretary may assign.
+(i) provide technical, marketing, management, and operational support for the management of contracts, grants, and cooperative agreements;
 
-(d) The CCSO shall be headed by a Director selected by the Secretary, with the advice of the Steering Committee. Its staff may include, as determined by the Secretary: (1) personnel with relevant expertise detailed on a non-reimbursable basis from other agencies; (2) senior and other technical advisers; and (3) such other personnel as the Secretary may direct to support the CCSO. To accomplish this mission, the heads of agencies participating on the Steering Committee shall provide to the CCSO, on a non-reimbursable basis, assistance, services, and other support including but not limited to logistical and administrative support and details of personnel. Non-reimbursable details shall be based on reasonable requests from the Secretary in light of the need for specific expertise, and after consultation with the relevant agency, to the extent permitted by law.
+(ii) assist the Center in building and maintaining partnerships with private sector entities, non-governmental organizations, and others as appropriate in support of the Center's mission;
 
-(e) The CCSO shall terminate at the end of the maximum period permitted by section 3161(a)(1) of title 5, United States Code, unless sooner terminated by the Secretary consistent with section 3161(a)(2) of such title.
+(iii) design and develop sustained campaigns, in coordination with and primarily for use by private sector entities and non-governmental organizations, on specific areas of interest to foreign audiences abroad in support of the Center's mission;
 
-Sec. 4. <i>General Provisions</i>.
+(iv) conduct or commission baseline research to establish the basis for evaluation of the activities of the Center and related activities conducted by other agencies;
 
-(a) Nothing in this order shall be construed to impair or otherwise affect:
+(v) develop analytical models and metrics, consistent with the Center's responsibilities, in order to enable measurement and evaluation of the activities of the Center in coordinating effective strategies to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad, and related activities conducted by other agencies; and
+
+(vi) perform such other functions related to the specific project set forth in subsection (b) of this section as the Secretary may assign.
+
+(d) The GECCO shall be headed by the Coordinator. Its staff may include, as determined by the Coordinator: (1) personnel with relevant expertise detailed on a non-reimbursable basis from other agencies; (2) senior and other technical advisers; (3) executive-level personnel; and (4) such other personnel as the Secretary may request to support the GECCO. To accomplish this mission, the heads of agencies shall, upon request, provide to the GECCO, on a non-reimbursable basis, assistance, services, and other support including but not limited to logistical and administrative support and details of personnel to the extent permitted by law. Non-reimbursable details to the GECCO shall be based on reasonable requests from the Coordinator in light of the need for specific expertise, and after consultation with the relevant agency, to the extent permitted by law.
+
+(e) The GECCO shall terminate at the end of the maximum period permitted by section 3161(a)(1) of title 5, United States Code, unless sooner terminated by the Secretary consistent with section 3161(a)(2) of such title.
+
+(f) The termination of the GECCO as required by subsection (e) of this section shall not be interpreted to imply the termination, attenuation or amendment of any other authority or provision of this order.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) authority granted by law to an agency, or the head thereof; or
 

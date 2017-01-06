@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [461\.](%C2%A7%2000461%20-%20Remission%20of%20indebtedness%20of%20enlisted%20members%20upon%20discharge.md) | Remission of indebtedness of enlisted members upon discharge. |
+| [461\.](%C2%A7%2000461%20-%20Remission%20of%20indebtedness.md) | Remission of indebtedness. |
 | \[462 to 466. Repealed.\] |  |
 | [467\.](%C2%A7%2000467%20-%20Computation%20of%20length%20of%20service.md) | Computation of length of service. |
 | [468\.](%C2%A7%2000468%20-%20Procurement%20of%20personnel.md) | Procurement of personnel. |
@@ -57,6 +57,8 @@
 | [516\.](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
 | [517\.](%C2%A7%2000517%20-%20Travel%20card%20management.md) | Travel card management. |
 | [518\.](%C2%A7%2000518%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md) | Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States. |
+| [519\.](%C2%A7%2000519%20-%20Annual%20audit%20of%20pay%20and%20allowances%20of%20members%20undergoing%20permanent%20change%20of%20station.md) | Annual audit of pay and allowances of members undergoing permanent change of station. |
+| [520\.](%C2%A7%2000520%20-%20Prospective%20payment%20of%20funds%20necessary%20to%20provide%20medical%20care.md) | Prospective payment of funds necessary to provide medical care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,13 +68,17 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title VII, §722(b), Dec. 23, 2016, 130 Stat. 2229, added item 520.
+
+Pub. L. 114–120, title II, §§203(b), 216(a)(2), Feb. 8, 2016, 130 Stat. 34, 46, added items 461 and 519 and struck out former item 461 "Remission of indebtedness of enlisted members upon discharge".
+
 <b>2014</b>—Pub. L. 113–281, title II, §214(b)(2)(B), Dec. 18, 2014, 128 Stat. 3033, struck out items 514 "Reimbursement for adoption expenses" and 515 "Child development services".
 
 <b>2010</b>—Pub. L. 111–281, title II, §§203(b), 224(d), Oct. 15, 2010, 124 Stat. 2910, 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a "Distinguished flying cross".
 
 <b>2004</b>—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
 
-<b>2002</b>—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 "Compensatory absence of military personnel at isolated aids to navigation."
+<b>2002</b>—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 "Compensatory absence of military personnel at isolated aids to navigation".
 
 Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, added item 505.
 
@@ -127,7 +133,7 @@ Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00461 - Remission of indebtedness of enlisted members upon discharge](%C2%A7%2000461%20-%20Remission%20of%20indebtedness%20of%20enlisted%20members%20upon%20discharge.md)
+- [&sect; 00461 - Remission of indebtedness](%C2%A7%2000461%20-%20Remission%20of%20indebtedness.md)
 - [&sect; 00462 - Repealed. Pub. L. 87&#8211;649, &sect;14d(1), Sept. 7, 1962, 76 Stat. 502](%C2%A7%2000462%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714d%281%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20502.md)
 - [&sect; 00462a - Repealed. Pub. L. 97&#8211;417, &sect;2(11), Jan. 4, 1983, 96 Stat. 2086](%C2%A7%2000462a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93417%2C%20%C2%A72%2811%29%2C%20Jan.%204%2C%201983%2C%2096%20Stat.%202086.md)
 - [&sect; 00463 - Repealed. Aug. 3, 1950, ch. 536, &sect;36, 64 Stat. 408](%C2%A7%2000463%20-%20Repealed.%20Aug.%203%2C%201950%2C%20ch.%20536%2C%20%C2%A736%2C%2064%20Stat.%20408.md)
@@ -189,3 +195,5 @@ Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 - [&sect; 00516 - Presentation of United States flag upon retirement](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 00517 - Travel card management](%C2%A7%2000517%20-%20Travel%20card%20management.md)
 - [&sect; 00518 - Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States](%C2%A7%2000518%20-%20Reimbursement%20for%20medical-related%20travel%20expenses%20for%20certain%20persons%20residing%20on%20islands%20in%20the%20continental%20United%20States.md)
+- [&sect; 00519 - Annual audit of pay and allowances of members undergoing permanent change of station](%C2%A7%2000519%20-%20Annual%20audit%20of%20pay%20and%20allowances%20of%20members%20undergoing%20permanent%20change%20of%20station.md)
+- [&sect; 00520 - Prospective payment of funds necessary to provide medical care](%C2%A7%2000520%20-%20Prospective%20payment%20of%20funds%20necessary%20to%20provide%20medical%20care.md)

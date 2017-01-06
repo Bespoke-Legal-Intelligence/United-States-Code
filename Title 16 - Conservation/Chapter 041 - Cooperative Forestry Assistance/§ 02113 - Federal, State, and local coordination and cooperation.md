@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(A) consult with other Department of Agriculture and State committees that address State and private forestry issues;
 
-&emsp;&emsp;(B) make recommendations to the Secretary concerning the assignment of priorities and the coordination of responsibilities for the implementation of this chapter bythe various Federal and State forest management agencies that take into consideration the mandates of each such agency;
+&emsp;&emsp;(B) make recommendations to the Secretary concerning the assignment of priorities and the coordination of responsibilities for the implementation of this chapter by the various Federal and State forest management agencies that take into consideration the mandates of each such agency;
 
 &emsp;&emsp;(C) make recommendations to the State forester or equivalent State official concerning the development of the State-wide assessment and strategy regarding forest resource conditions under section 2101a of this title; and
 

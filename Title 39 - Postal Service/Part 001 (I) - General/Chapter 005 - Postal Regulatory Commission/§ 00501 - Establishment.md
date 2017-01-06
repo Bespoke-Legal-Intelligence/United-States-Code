@@ -42,7 +42,7 @@ Contents.—The report under this subsection shall include—
 
 &emsp;&emsp;"(A) a comprehensive review of the history and development of universal service and the postal monopoly, including how the scope and standards of universal service and the postal monopoly have evolved over time for the Nation and its urban and rural areas;
 
-&emsp;&emsp;"(B) the scope and standards of universal service and the postal monopoly provided under current law (including sections 101 and 403 of title 39,United States Code), and current rules, regulations, policy statements, and practices of the Postal Service;
+&emsp;&emsp;"(B) the scope and standards of universal service and the postal monopoly provided under current law (including sections 101 and 403 of title 39, United States Code), and current rules, regulations, policy statements, and practices of the Postal Service;
 
 &emsp;&emsp;"(C) a description of any geographic areas, populations, communities (including both urban and rural communities), organizations, or other groups or entities not currently covered by universal service or that are covered but that are receiving services deficient in scope or quality or both; and
 

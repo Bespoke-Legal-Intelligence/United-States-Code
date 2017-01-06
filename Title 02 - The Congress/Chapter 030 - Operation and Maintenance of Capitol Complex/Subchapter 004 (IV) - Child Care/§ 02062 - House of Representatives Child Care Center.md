@@ -48,7 +48,7 @@ In carrying out subsection (a), the Chief Administrative Officer is authorizedâ€
 
 &emsp;(A) The payment of the salary of the director of the center.
 
-&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with theprovision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
 #### (e) Fund as category of allowances and expenses
 

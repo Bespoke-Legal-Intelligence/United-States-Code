@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 112–239, §1031(a)(2)(F), added subsec. (b).
 
 Subsec. (c). Pub. L. 113–66, §1052(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
 
-"(1) The Secretary of Defense shall submit to the congressional defense committees written notification ofan anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+"(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after thedate on which the Secretary or the Council learns of such anomaly, as the case may be.
 
 "(2) In this subsection, the term 'anomaly' means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system."
 

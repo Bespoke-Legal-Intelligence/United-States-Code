@@ -10,7 +10,7 @@ Officers Not Considered Because of Administrative Error.—(1) In the case of an
 
 (b)
 
-Officers Considered But Not Selected; Material Error.—(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotionfrom in or above the promotion zone under this chapter by a mandatory promotion board convened under section 14101(a) of this title but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
+Officers Considered But Not Selected; Material Error.—(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotion from in or above the promotion zone under this chapter by a mandatory promotion board convened under section 14101(a) of this title but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
 
 &emsp;(A) the action of the mandatory promotion board that considered the officer or former officer was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
 
@@ -80,9 +80,13 @@ Subsec. (b)(3). Pub. L. 114–92, §512(2), in first sentence, substituted "The 
 
 <b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–364 inserted "in a matter material to the decision of the board" after "contrary to law".
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted "or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error," after "because of administrative error,".
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted "or whose name was not placed on an all-fully-qualified-officerslist under section 14308(b)(4) of this title because of administrative error," after "because of administrative error,".
 
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–364 effective Mar. 1, 2007, and applicable with respect to selection boards convened on or after that date, see section 514(c) of Pub. L. 109–364, set out as a note under section 628 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

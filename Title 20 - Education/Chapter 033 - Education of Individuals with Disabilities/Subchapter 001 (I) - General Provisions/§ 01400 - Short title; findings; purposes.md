@@ -70,7 +70,7 @@ Congress finds the following:
 
 &emsp;(C) Such discrepancies pose a special challenge for special education in the referral of, assessment of, and provision of services for, our Nation's students from non-English language backgrounds.
 
-&emsp;(12)(A) Greater efforts are needed to prevent the intensification of problems connected withmislabeling and high dropout rates among minority children with disabilities.
+&emsp;(12)(A) Greater efforts are needed to prevent the intensification of problems connected with mislabeling and high dropout rates among minority children with disabilities.
 
 &emsp;(B) More minority children continue to be served in special education than would be expected from the percentage of minority students in the general school population.
 
@@ -148,7 +148,7 @@ Pub. L. 111–256, §1, Oct. 5, 2010, 124 Stat. 2643, provided that: "This Act \
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–446, §1, Dec. 3, 2004, 118 Stat. 2647, provided that: "This Act \[enacting subchapters I to IV of thischapter, part E of subchapter I of chapter 76 of this title, and sections 9567 to 9567b of this title, amending sections 927, 1087ee, 1087ii, 4304, 5802, 6103, 6311, 6317, 7221g, 7273b, 9511, 9515, 9516, and 9605 of this title, section 2164 of Title 10, Armed Forces, section 121 of Title 17, Copyrights, sections 721, 725, 772, and 773 of Title 29, Labor, and sections 280c–6, 290bb–25, 290ff–1, 290ff–2, 1396b, 1396n, 5011, 9835, 9836, 9837, 12511, 15025, and 15064 of Title 42, The Public Health and Welfare, repealing section 1444 of this title, redesignating former part E of subchapter I of chapter 76 of this title as part F, omitting sections 1445, 1456, and 1483 to 1487 of this title, enacting provisions set out as notes under this section and section 9567b of this title, and amending provisions set out as a note under section 285g of Title 42\] may be cited as the 'Individuals with Disabilities Education Improvement Act of 2004'."
+Pub. L. 108–446, §1, Dec. 3, 2004, 118 Stat. 2647, provided that: "This Act \[enacting subchapters I to IV of this chapter, part E of subchapter I of chapter 76 of this title, and sections 9567 to 9567b of this title, amending sections 927, 1087ee, 1087ii, 4304, 5802, 6103, 6311, 6317, 7221g, 7273b, 9511, 9515, 9516, and 9605 of this title, section 2164 of Title 10, Armed Forces, section 121 of Title 17, Copyrights, sections 721, 725, 772, and 773 of Title 29, Labor, and sections 280c–6, 290bb–25, 290ff–1, 290ff–2, 1396b, 1396n, 5011, 9835, 9836, 9837, 12511, 15025, and 15064 of Title 42, The Public Health and Welfare, repealing section 1444 of this title, redesignating former part E of subchapter I of chapter 76 of this title as part F, omitting sections 1445, 1456, and 1483 to 1487 of this title, enacting provisions set out as notes under this section and section 9567b of this title, and amending provisions set out as a note under section 285g of Title 42\] may be cited as the 'Individuals with Disabilities Education Improvement Act of 2004'."
 
 #### Short Title of 1997 Amendment
 
@@ -222,7 +222,7 @@ Orderly Transition.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Education (in this section referred to as 'the Secretary') shall takesuch steps as are necessary to provide for the orderly transition from the Individuals with Disabilities Education Act \[this chapter\], as such Act was in effect on the day preceding the date of enactment of this Act \[Dec. 3, 2004\], to the Individuals with Disabilities Education Act \[this chapter\] and part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9567 et seq.\], as amended by this Act.
+In general.—The Secretary of Education (in this section referred to as 'the Secretary') shall take such steps as are necessary to provide for the orderly transition from the Individuals with Disabilities Education Act \[this chapter\], as such Act was in effect on the day preceding the date of enactment of this Act \[Dec. 3, 2004\], to the Individuals with Disabilities Education Act \[this chapter\] and part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9567 et seq.\], as amended by this Act.
 
 &emsp;"(2)
 

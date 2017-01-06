@@ -36,7 +36,7 @@ The Administrator shall develop, collect, evaluate, and coordinate information o
 
 > Such central reference library shall also contain, but not be limited to, the model codes and model accounting systems developed under this section, the information collected under subsection (d) of this section, and, subject to any applicable requirements of confidentiality, information respecting any aspect of solid waste provided by officers and employees of the Environmental Protection Agency which has been acquired by them in the conduct of their functions under this chapter and which may be of value to Federal, State, and local authorities and other persons.
 
-(2) Information in the central reference library shall, to the extent practicable, be collated, analyzed, verified, and published and shall be made available to State and local governments and other persons at reasonable times and subject to such reasonable charges as may be necessary todefray expenses of making such information available.
+(2) Information in the central reference library shall, to the extent practicable, be collated, analyzed, verified, and published and shall be made available to State and local governments and other persons at reasonable times and subject to such reasonable charges as may be necessary to defray expenses of making such information available.
 
 #### (c) Model accounting system
 
@@ -68,5 +68,5 @@ Upon request, the full range of alternative technologies, programs or processes 
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector,Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (b) Eligibility
 
-(1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining the program and recruiting students for the program.
+(1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining theprogram and recruiting students for the program.
 
 (2) Grants may only be made under this section to a community college which—
 

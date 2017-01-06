@@ -4,7 +4,7 @@
 
 #### (1) Projects by qualified youth or conservation corps
 
-&emsp;The Secretary is authorized to pay not more than 75 percent of the costs of any appropriate conservation project carried out pursuant to this subchapter on public lands by a qualified youth or conservation corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing. No cost sharing shall be required in the case of any appropriate conservation project carried out on Indian lands or Hawaiian home lands under this subchapter.
+&emsp;The Secretary is authorized to pay not more than 75 percent of the costs of any appropriate conservation project carried out pursuant to this subchapter on public lands by a qualifiedyouth or conservation corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing. No cost sharing shall be required in the case of any appropriate conservation project carried out on Indian lands or Hawaiian home lands under this subchapter.
 
 #### (2) Public Lands Corps projects
 

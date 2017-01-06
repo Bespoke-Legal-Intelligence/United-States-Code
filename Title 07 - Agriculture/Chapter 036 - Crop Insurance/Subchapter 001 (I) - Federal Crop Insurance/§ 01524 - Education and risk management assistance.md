@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Corporation shall carry out the program established under paragraph (2); and
 
-&emsp;&emsp;(B) the Secretary, acting through the National Institute of Food and Agriculture, shall carry out the program established under paragraph (3).
+&emsp;&emsp;(B) the Secretary, acting through the National Institute of Food and Agriculture,shall carry out the program established under paragraph (3).
 
 #### (2) Education and information
 
@@ -110,7 +110,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Commodity Credit Corporation shall make available to carry out this subsection not less than $10,000,000 for each fiscal year.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Commodity Credit Corporation shall makeavailable to carry out this subsection not less than $10,000,000 for each fiscal year.
 
 #### (ii) Exception for certain fiscal years
 

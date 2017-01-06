@@ -28,7 +28,7 @@ Notwithstanding any other provision of law regarding a competitive research, edu
 
 In any law relating to agricultural research, education, or extension activities administered by the Secretary, the term "in-kind support", with regard to a requirement that the recipient of funds provided by the Secretary match all or part of the amount of the funds, means contributions such as office space, equipment, and staff support.
 
-(Pub. L. 95–113, title XIV, §1469, Sept. 29, 1977, 91 Stat. 1019; Pub. L. 105–185, title II, §230(b), June 23, 1998, 112 Stat. 547; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(H), title VII, §7132(b), May 22, 2008, 122 Stat. 1096, 1097, 1228; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(H), title VII, §7132(b), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1989; Pub. L. 113–79, title VII, §7121, Feb. 7, 2014, 128 Stat. 876.)
+(Pub. L. 95–113, title XIV, §1469, Sept. 29, 1977, 91 Stat. 1019; Pub. L. 105–185, title II, §230(b), June 23, 1998, 112 Stat. 547; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(H), title VII, §7132(b), May 22, 2008, 122 Stat. 1096, 1097, 1228; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(H), title VII, §7132(b), June 18, 2008, 122 Stat. 1664, 1857, 1858,1989; Pub. L. 113–79, title VII, §7121, Feb. 7, 2014, 128 Stat. 876.)
 
 #### References in Text
 
@@ -59,6 +59,10 @@ Subsecs. (b) to (d). Pub. L. 105–185, §230(b)(3), added subsecs. (b) to (d).
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4002(b)(1)(B), (2)(H) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

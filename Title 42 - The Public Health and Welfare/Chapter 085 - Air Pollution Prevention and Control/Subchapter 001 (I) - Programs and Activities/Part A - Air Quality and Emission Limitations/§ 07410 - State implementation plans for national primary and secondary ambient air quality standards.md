@@ -14,15 +14,15 @@
 
 &emsp;&emsp;(ii) upon request, make such data available to the Administrator;
 
-&emsp;(C) include a program to provide for the enforcement of the measures described in subparagraph (A), and regulation of the modification and construction of any stationary source within the areas covered by the plan as necessary to assure that national ambient air quality standards are achieved, including a permit program as required in parts C and D of this subchapter;
+&emsp;(C) include a program to provide for the enforcement of the measures described in subparagraph (A), and regulation of the modification and construction of any stationary source within the areas covered by the plan as necessary to assure that national ambient air quality standards are achieved, including a permit program as required in parts C and D;
 
 &emsp;(D) contain adequate provisions—
 
-&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or othertype of emissions activity within the State from emitting any air pollutant in amounts which will—
+&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will—
 
 &emsp;&emsp;&emsp;(I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard, or
 
-&emsp;&emsp;&emsp;(II) interfere with measures required to be included in the applicable implementation plan for any other State under part C of this subchapter to prevent significant deterioration of air quality or to protect visibility,
+&emsp;&emsp;&emsp;(II) interfere with measures required to be included in the applicable implementation plan for any other State under part C to prevent significant deterioration of air quality or to protect visibility,
 
 &emsp;&emsp;(ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
@@ -44,9 +44,9 @@
 
 &emsp;&emsp;(ii) except as provided in paragraph (3)(C), whenever the Administrator finds on the basis of information available to the Administrator that the plan is substantially inadequate to attain the national ambient air quality standard which it implements or to otherwise comply with any additional requirements established under this chapter;
 
-&emsp;(I) in the case of a plan or plan revision for an area designated as a nonattainment area, meet the applicable requirements of part D of this subchapter (relating to nonattainment areas);
+&emsp;(I) in the case of a plan or plan revision for an area designated as a nonattainment area, meet the applicable requirements of part D (relating to nonattainment areas);
 
-&emsp;(J) meet the applicable requirements of section 7421 of this title (relating to consultation), section 7427 of this title (relating to public notification), and part C of this subchapter (relating to prevention of significant deterioration of air quality and visibility protection);
+&emsp;(J) meet the applicable requirements of section 7421 of this title (relating to consultation), section 7427 of this title (relating to public notification), and part C (relating to prevention of significant deterioration of air quality and visibility protection);
 
 &emsp;(K) provide for—
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(ii) if the owner or operator receives a permit for such source, the reasonable costs of implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
 
-> &emsp;until such fee requirement is superseded with respect to such sources by the Administrator's approval of a fee program under subchapter V of this chapter; and
+> &emsp;until such fee requirement is superseded with respect to such sources by the Administrator's approval of a fee program under subchapter V; and
 
 &emsp;(M) provide for consultation and participation by local political subdivisions affected by the plan.
 
@@ -134,9 +134,9 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 &emsp;(ii) implement transportation control measures necessary to attain and maintain national ambient air quality standards,
 
-> and such revised plan shall, for the purpose of implementing such comprehensive public transportation measures, include requirements to use (insofar as is necessary) Federal grants, State or local funds, or any combination of such grants and funds as may be consistent with the terms of the legislation providing such grants and funds. Such measures shall, as a substitute for the tolls or charges eliminated under subparagraph (A), provide for emissions reductions equivalent to the reductions which may reasonably be expected to be achieved through the use of the tolls or charges eliminated.
+> and such revised plan shall, for the purpose of implementing such comprehensive public transportation measures, include requirements to use (insofar as is necessary) Federal grants, State or local funds, or any combination of such grants and funds as may be consistent with the terms of the legislation providing such grants andfunds. Such measures shall, as a substitute for the tolls or charges eliminated under subparagraph (A), provide for emissions reductions equivalent to the reductions which may reasonably be expected to be achieved through the use of the tolls or charges eliminated.
 
-(C) Any revision of an implementation plan for purposes of meeting the requirements of subparagraph (B) shall be submitted in coordination with any plan revision required under part D of this subchapter.
+(C) Any revision of an implementation plan for purposes of meeting the requirements of subparagraph (B) shall be submitted in coordination with any plan revision required under part D.
 
 #### (d), (e) Repealed. Pub. L. 101–549, title I, §101(d)(4), (5), Nov. 15, 1990, 104 Stat. 2409
 
@@ -202,7 +202,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (B) Completeness finding
 
-&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receiptof the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
+&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
 
 #### (C) Effect of finding of incompleteness
 
@@ -222,7 +222,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (5) Calls for plan revisions
 
-&emsp;Whenever the Administrator finds that the applicable implementation plan for any area is substantially inadequate to attain or maintain the relevant national ambient air quality standard, to mitigate adequately the interstate pollutant transport described in section 7506a of this title or section 7511c of this title, or to otherwise comply with any requirement of this chapter, the Administrator shall require the State to revise the plan as necessary to correct such inadequacies. The Administrator shall notify the State of the inadequacies, and may establish reasonable deadlines (not to exceed 18 months after the date of such notice) for the submission of such plan revisions. Such findings and notice shall be public. Any finding under this paragraph shall, to the extent the Administrator deems appropriate, subject the State to the requirements of this chapter to which the State was subject when it developed and submitted the plan for which such finding was made, except that the Administrator may adjust any dates applicable under such requirements as appropriate (except that the Administrator may not adjust any attainment date prescribed under part D of this subchapter, unless such date has elapsed).
+&emsp;Whenever the Administrator finds that the applicable implementation plan for any area is substantially inadequate to attain or maintain the relevant national ambient air quality standard, to mitigate adequately the interstate pollutant transport described in section 7506a of this title or section 7511c of this title, or to otherwise comply with any requirement of this chapter, the Administrator shall require the State to revise the plan as necessary to correct such inadequacies. The Administrator shall notify the State of the inadequacies, and may establish reasonable deadlines (not to exceed 18 months after the date of such notice) for the submission of such plan revisions. Such findings and notice shall be public. Any finding under this paragraph shall, to the extent the Administrator deems appropriate, subject the State to the requirements of this chapter to which the State was subject when it developed and submitted the plan for which such finding was made, except that the Administrator may adjust any dates applicableunder such requirements as appropriate (except that the Administrator may not adjust any attainment date prescribed under part D, unless such date has elapsed).
 
 #### (6) Corrections
 
@@ -254,7 +254,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (3) Retention of construction moratorium in certain areas
 
-&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
+&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
 #### (o) Indian tribes
 
@@ -262,7 +262,7 @@ If an Indian tribe submits an implementation plan to the Administrator pursuant 
 
 #### (p) Reports
 
-Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>3</sup> effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
+Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>3</sup> effectiveness, needfor revision, or implementation of any plan or plan revision required under this chapter.
 
 (July 14, 1955, ch. 360, title I, §110, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1680; amended Pub. L. 93–319, §4, June 22, 1974, 88 Stat. 256; Pub. L. 95–95, title I, §§107, 108, Aug. 7, 1977, 91 Stat. 691, 693; Pub. L. 95–190, §14(a)(1)–(6), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 97–23, §3, July 17, 1981, 95 Stat. 142; Pub. L. 101–549, title I, §§101(b)–(d), 102(h), 107(c), 108(d), title IV, §412, Nov. 15, 1990, 104 Stat. 2404–2408, 2422, 2464, 2466, 2634.)
 
@@ -286,7 +286,7 @@ A prior section 110 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted "3 years (or such shorter period as the Administrator may prescribe)" for "nine months" in two places.
 
-Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereofand listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
+Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
 Subsec. (a)(3)(A). Pub. L. 101–549, §101(d)(1), struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
 
@@ -328,7 +328,7 @@ Subsec. (a)(2)(B). Pub. L. 95–95, §108(a)(2), substituted "transportation con
 
 Subsec. (a)(2)(D). Pub. L. 95–95, §108(a)(3), substituted "it includes a program to provide for the enforcement of emission limitations and regulation of the modification, construction, and operation of any stationary source, including a permit program as required in parts C and D and a permit or equivalent program for any major emitting facility, within such region as necessary to assure (i) that national ambient air quality standards are achieved and maintained, and (ii) a procedure" for "it includes a procedure".
 
-Subsec. (a)(2)(E). Pub. L. 95–95, §108(a)(4), substituted "it contains adequate provisions (i) prohibiting any stationary source within the State from emitting any air pollutant in amounts which will (I) prevent attainment or maintenance by any other State of any such national primary or secondary ambient air quality standard, or (II) interfere with measures required to be included in the applicable implementation plan for any other State under part C to prevent significant deterioration of air quality or to protect visibility, and (ii) insuring compliance with the requirements of section 7426 of this title, relating to interstate pollution abatement" for "it contains adequate provisions for intergovernmental cooperation, including measures necessary to insure that emissions of air pollutants from sources located in any air quality control region will not interfere with the attainment or maintenance of such primary or secondary standard in any portion of such region outside of such State or in any other air quality control region".
+Subsec. (a)(2)(E). Pub. L. 95–95, §108(a)(4), substituted "it contains adequate provisions (i) prohibiting anystationary source within the State from emitting any air pollutant in amounts which will (I) prevent attainment or maintenance by any other State of any such national primary or secondary ambient air quality standard, or (II) interfere with measures required to be included in the applicable implementation plan for any other State under part C to prevent significant deterioration of air quality or to protect visibility, and (ii) insuring compliance with the requirements of section 7426 of this title, relating to interstate pollution abatement" for "it contains adequate provisions for intergovernmental cooperation, including measures necessary to insure that emissions of air pollutants from sources located in any air quality control region will not interfere with the attainment or maintenance of such primary or secondary standard in any portion of such region outside of such State or in any other air quality control region".
 
 Subsec. (a)(2)(F). Pub. L. 95–95, §108(a)(5), added cl. (vi).
 
@@ -396,7 +396,7 @@ Nothing in the Clean Air Act Amendments of 1977 \[Pub. L. 95–95\] to affect an
 
 Pub. L. 91–604, §16, Dec. 31, 1970, 84 Stat. 1713, provided that:
 
-"(a)(1) Any implementation plan adopted by any State and submitted to the Secretary of Health, Education, and Welfare, or to the Administrator pursuant to the Clean Air Act \[this chapter\] prior to enactment of this Act \[Dec. 31, 1970\] may be approved under section 110 of the Clean Air Act \[this section\] (as amended by this Act) \[Pub. L. 91–604\] and shall remain in effect, unless the Administrator determines that such implementation plan, or any portion thereof, is not consistent with applicable requirements of the Clean Air Act \[this chapter\] (as amended by this Act) and will not provide for the attainment of national primary ambient air quality standards in the time required by such Act. If the Administrator so determines, he shall, within 90 days after promulgation of any national ambient air quality standards pursuant to section 109(a) of the Clean Air Act \[section 7409(a) of this title\], notify the State and specify in what respects changes are needed to meet the additional requirements of such Act, including requirements to implement national secondary ambient air quality standards. If such changes are not adopted by the State after public hearings and within six months after such notification, the Administrator shall promulgate such changes pursuant to section 110(c) of such Act \[subsec. (c) of this section\].
+"(a)(1) Any implementation plan adopted by any State and submitted to the Secretary of Health, Education, and Welfare, or to the Administrator pursuant to the Clean Air Act \[this chapter\] prior to enactment of this Act \[Dec. 31, 1970\] may be approved under section 110 of the Clean Air Act \[this section\] (as amended by this Act) \[Pub. L. 91–604\] and shall remain in effect, unless the Administrator determines that such implementation plan, or any portion thereof, is not consistent with applicable requirements of the Clean Air Act \[this chapter\] (as amended by this Act) and will not provide for the attainment of national primary ambient air quality standards in the time required by such Act. If the Administrator so determines, he shall, within 90 days after promulgation of any national ambient air quality standards pursuant to section 109(a) of the Clean Air Act \[section 7409(a) of this title\], notify the State and specify in what respects changes are needed to meet the additional requirements of such Act, including requirements to implement national secondary ambient air quality standards. If such changes are not adopted by the State after public hearings and withinsix months after such notification, the Administrator shall promulgate such changes pursuant to section 110(c) of such Act \[subsec. (c) of this section\].
 
 "(2) The amendments made by section 4(b) \[amending sections 7403 and 7415 of this title\] shall not be construed as repealing or modifying the powers of the Administrator with respect to any conference convened under section 108(d) of the Clean Air Act \[section 7415 of this title\] before the date of enactment of this Act \[Dec. 31, 1970\].
 

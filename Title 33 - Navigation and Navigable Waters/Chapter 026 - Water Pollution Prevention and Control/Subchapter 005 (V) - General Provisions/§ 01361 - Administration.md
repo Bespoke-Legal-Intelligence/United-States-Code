@@ -6,7 +6,7 @@ The Administrator is authorized to prescribe such regulations as are necessary t
 
 #### (b) Utilization of other agency officers and employees
 
-The Administrator, with the consent of the head of any other agency of the United States,may utilize such officers and employees of such agency as may be found necessary to assist in carrying out the purposes of this chapter.
+The Administrator, with the consent of the head of any other agency of the United States, may utilize such officers and employees of such agency as may be found necessary to assist in carrying out the purposes of this chapter.
 
 #### (c) Recordkeeping
 
@@ -36,7 +36,7 @@ Upon the request of a State water pollution control agency, personnel of the Env
 
 #### Applicability of Spill Prevention, Control, and Countermeasure Rule
 
-Pub. L. 113–121, title I, §1049, June 10, 2014, 128 Stat. 1257, provided that:
+Pub. L. 113–121, title I, §1049, June 10, 2014, 128 Stat. 1257, as amended by Pub. L. 114–322, title IV, §5011, Dec. 16, 2016, 130 Stat. 1902, provided that:
 
 "(a)
 
@@ -118,11 +118,27 @@ Certification.—In implementing the Spill Prevention, Control, and Countermeasu
 
 "(c)
 
-Calculation of Aggregate Aboveground Storage Capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—
+Regulation of Aboveground Storage at Farms.—
 
-&emsp;"(1) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and
+&emsp;"(1)
 
-&emsp;"(2) all containers holding animal feed ingredients approved for use in livestock feed by the Commissioner of Food and Drugs.
+Calculation of aggregate aboveground storage capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—
+
+&emsp;&emsp;"(A) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and
+
+&emsp;&emsp;"(B) all containers holding animal feed ingredients approved for use in livestock feed by the Commissioner of Food and Drugs.
+
+&emsp;"(2)
+
+Certain farm containers.—Part 112 of title 40, Code of Federal Regulations (or successor regulations), shall not apply to the following containers located at a farm:
+
+&emsp;&emsp;"(A) Containers on a separate parcel that have—
+
+&emsp;&emsp;&emsp;"(i) an individual capacity of not greater than 1,000 gallons; and
+
+&emsp;&emsp;&emsp;"(ii) an aggregate capacity of not greater than 2,500 gallons.
+
+&emsp;&emsp;"(B) A container holding animal feed ingredients approved for use in livestock feed by the Food and Drug Administration.
 
 "(d)
 

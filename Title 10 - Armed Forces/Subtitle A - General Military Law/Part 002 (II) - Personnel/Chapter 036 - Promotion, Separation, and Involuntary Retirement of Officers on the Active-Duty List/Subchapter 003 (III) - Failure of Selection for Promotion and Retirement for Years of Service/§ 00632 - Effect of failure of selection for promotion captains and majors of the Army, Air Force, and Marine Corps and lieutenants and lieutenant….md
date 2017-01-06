@@ -10,7 +10,7 @@
 
 (b) The retirement or discharge of an officer pursuant to this section shall be considered to be an involuntary retirement or discharge for purposes of any other provision of law.
 
-(c)(1) If a health professions officer described in paragraph (3) is subject to discharge under subsection (a)(1) and, as of the date on which the officer is to be discharged under that subsection, the officer has not completed a period of active duty service obligation that the officer incurred under section 2005, 2114, 2123, or 2603 of this title, the officer shall be retained on active duty until completion of such active duty service obligation, and then be discharged under that subsection, unless sooner retired or discharged under another provision of law.
+(c)(1) If a health professions officer described in paragraph (3) is subject to discharge under subsection (a)(1) and, as of the date on which the officer is to be discharged under that subsection, the officer has not completed a period of active duty service obligation that the officer incurredunder section 2005, 2114, 2123, or 2603 of this title, the officer shall be retained on active duty until completion of such active duty service obligation, and then be discharged under that subsection, unless sooner retired or discharged under another provision of law.
 
 (2) The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the active duty service obligation of that officer is not in the best interest of the service.
 
@@ -35,4 +35,8 @@ Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substit
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–136, div. A, title V, §505(c), Nov. 24, 2003, 117 Stat. 1457, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply in the case of an officer who as of the date of the enactment of this Act \[Nov. 24, 2003\] is required to be discharged under section 632(a)(1) of title 10, United States Code, by reason of having failed of selection for promotion to the next higher regular grade a second time."
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

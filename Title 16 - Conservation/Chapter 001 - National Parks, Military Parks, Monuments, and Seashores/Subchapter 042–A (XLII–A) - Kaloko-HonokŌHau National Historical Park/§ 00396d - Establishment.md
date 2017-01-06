@@ -14,7 +14,7 @@ Except for any lands owned by the State of Hawaii or its subdivisions, which may
 
 #### (c) Administration; applicable provisions
 
-The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including the Acts approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467),<sup>1</sup> andAugust 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.),<sup>1</sup> and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
+The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including the Acts approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467),<sup>1</sup> and August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.),<sup>1</sup> and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
 
 #### (d) Activities and agreements; native accommodations; cooperative marine management agreement; fishing, shoreline food gathering and small boat harbor activities: regulation; land and water management agreements
 
@@ -40,7 +40,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 (4) The Superintendent of the park, the National Park Service State Director, Hawaii, a person appointed by the Governor of Hawaii, and a person appointed by the mayor of the county of Hawaii, shall serve as ex officio nonvoting members of the Commission.
 
-(5) The Commission shall advise the Director, National Park Service, with respect to the historical, archeological, cultural, and interpretive programs of the park. The Commission shall afford particular emphasis to the quality of traditional native Hawaiian culture demonstrated in the park.
+(5) The Commission shall advise the Director, National Park Service, with respect to the historical, archeological, cultural, and interpretiveprograms of the park. The Commission shall afford particular emphasis to the quality of traditional native Hawaiian culture demonstrated in the park.
 
 (6) The Commission shall meet not less than twice a year. Additional meetings may be called by the Chairman.
 
@@ -60,7 +60,7 @@ The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in
 
 #### Amendments
 
-<b>2009</b>—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of "on December 31, 2018" for "ten years afterthe date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996", was executed by making the substitution for "ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996", to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of "on December 31, 2018" for "ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996", was executed by making the substitution for "ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996", to reflect the probable intent of Congress.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted "1978." for "1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.", and added pars. (2) and (3).
 

@@ -2,7 +2,7 @@
 
 #### (a) Activities regulated by plan under Magnuson-Stevens Fishery Conservation and Management Act
 
-The provisions of paragraph (1) of section 3372(a) of this title shall not apply to any activity regulated by a fishery management plan ineffect under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+The provisions of paragraph (1) of section 3372(a) of this title shall not apply to any activity regulated by a fishery management plan in effect under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (b) Activities regulated by Tuna Convention Acts; harvesting of highly migratory species taken on high seas
 

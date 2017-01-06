@@ -30,7 +30,7 @@ Amounts in the Federal Land Disposal Account shall be available to the Secretary
 
 #### (C) Administrative and other expenses
 
-&emsp;&emsp;An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 of this title.
+&emsp;&emsp;An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 <sup>1</sup> of this title.
 
 #### (D) Same State purchases
 
@@ -60,7 +60,7 @@ Amounts in the Federal Land Disposal Account shall be available to the Secretary
 
 #### (d) Contaminated sites and sites difficult and uneconomic to manage
 
-Funds in the Federal Land Disposal Account shall not be used to purchase land or an interestin land that, as determined by the Secretary or the Secretary of Agriculture—
+Funds in the Federal Land Disposal Account shall not be used to purchase land or an interest in land that, as determined by the Secretary or the Secretary of Agriculture—
 
 &emsp;(1) contains a hazardous substance or is otherwise contaminated; or
 
@@ -72,7 +72,7 @@ Funds made available under this section shall be supplemental to any funds appro
 
 #### (f) Termination
 
-On termination of activities under section 2304 of this title—
+On termination of activities under section 2304 <sup>1</sup> of this title—
 
 &emsp;(1) the Federal Land Disposal Account shall be terminated; and
 
@@ -84,11 +84,13 @@ On termination of activities under section 2304 of this title—
 
 This chapter, referred to in subsec. (a), was in the original "this Act" and was translated as reading "this title", meaning title II of Pub. L. 106–248, which enacted this chapter, to reflect the probable intent of Congress.
 
+Section 2304 of this title, referred to in subsecs. (c)(2)(C) and (f), related to disposal of public land and was omitted from the Code because authority under such section terminated 11 years after July 25, 2000.
+
 #### Amendments
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–287, §5(l)(9)(A), substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act (16 U.S.C. 460l–4 et seq.)".
 
-Subsec. (f)(2). Pub. L. 113–287, §5(l)(9)(B), which directed substitution of "section 200303 of title 54" for "section 3 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6)", was executed by making the substitution for "section 3 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–6)" to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 113–287, §5(l)(9)(B), which directed substitution of "section 200303 of title 54" for"section 3 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6)", was executed by making the substitution for "section 3 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–6)" to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

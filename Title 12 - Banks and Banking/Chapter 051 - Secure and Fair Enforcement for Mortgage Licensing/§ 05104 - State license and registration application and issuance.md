@@ -30,7 +30,7 @@ The minimum standards for licensing and registration as a State-licensed loan or
 
 &emsp;(5) The applicant has passed a written test that meets the test requirement described in subsection (d).
 
-&emsp;(6) The applicant has met either a net worth or surety bond requirement, or paid into aState fund, as required by the State pursuant to section 5107(d)(6) of this title.
+&emsp;(6) The applicant has met either a net worth or surety bond requirement, or paid into a State fund, as required by the State pursuant to section 5107(d)(6) of this title.
 
 #### (c) Pre-licensing education of loan originators
 

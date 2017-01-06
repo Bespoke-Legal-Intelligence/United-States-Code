@@ -72,7 +72,7 @@ Amendment by Pub. L. 100–71 effective July 1, 1987, see section 101(c) of Pub.
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 4205(b)(1) of Pub. L. 99–661 applicable for fiscal year beginning Oct. 1, 1986, and each school year thereafter, and amendment by section 4205(b)(2) of Pub. L. 99–661 applicable for school year beginning July 1, 1988, and each school year thereafter,see section 4205(c) of Pub. L. 99–661, set out as a note under section 1760 of this title.
+Amendment by section 4205(b)(1) of Pub. L. 99–661 applicable for fiscal year beginning Oct. 1, 1986, and each school year thereafter, and amendment by section 4205(b)(2) of Pub. L. 99–661 applicable for school year beginning July 1, 1988, and each school year thereafter, see section 4205(c) of Pub. L. 99–661, set out as a note under section 1760 of this title.
 
 Amendment by Pub. L. 99–500 and Pub. L. 99–591 effective July 1, 1987, see section 325(c) of Pub. L. 99–500 and Pub. L. 99–591, set out as a note under section 1760 of this title.
 

@@ -30,7 +30,7 @@ Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-
 
 #### (C) Conflicts of interest
 
-&emsp;&emsp;No members of the committee, other than members appointed pursuant to clauses (iv), (v), and (vi) of subparagraph (A) shall, during the member's tenure on the committee or for the 18-month period prior to becoming such a member, receive any salary, grants, or other payments or support from any business that manufactures, distributes, markets, or sells cigarettes or other tobacco products.
+&emsp;&emsp;No members of the committee, other than members appointed pursuant to clauses (iv), (v), and (vi) of subparagraph (A) shall, during the member's tenure on the committee or for the 18-month period prior to becomingsuch a member, receive any salary, grants, or other payments or support from any business that manufactures, distributes, markets, or sells cigarettes or other tobacco products.
 
 #### (2) Limitation
 

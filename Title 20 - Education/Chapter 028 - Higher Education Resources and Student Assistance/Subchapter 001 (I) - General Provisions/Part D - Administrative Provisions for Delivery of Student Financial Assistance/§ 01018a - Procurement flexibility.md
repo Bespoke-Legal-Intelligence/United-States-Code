@@ -106,7 +106,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (1) In general
 
-&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection toprocure any such module after the first module.
+&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection to procure any such module after the first module.
 
 #### (2) Utility requirement
 
@@ -132,7 +132,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (A) Single-source basis
 
-&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive procedures or procedures authorized under subparagraph (B).
+&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procuredfor the system under competitive procedures or procedures authorized under subparagraph (B).
 
 #### (B) Adequate competition
 
@@ -192,7 +192,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (1) Issuance by PBO
 
-&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidancefor the use by PBO personnel of the authority provided in this section.
+&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidance for the use by PBO personnel of the authority provided in this section.
 
 #### (2) Guidance from OFPP
 
@@ -266,11 +266,11 @@ A prior section 1018a, Pub. L. 89–329, title I, §142, as added Pub. L. 100–
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §118(1)(A), struck out "for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42" after "enter into contracts" and "and" after semicolon.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §118(1)(A), struck out "for information systems supporting the programs authorized under subchapter IV" after "enter into contracts" and "and" after semicolon.
 
 Subsec. (b)(2), (3). Pub. L. 110–315, §118(1)(B), (C), substituted "; and" for period at end of par. (2) and added par. (3).
 
-Subsec. (c)(2). Pub. L. 110–315, §118(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 delivery system from any entity that has the capability and capacity to meet the requirements for the system. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of the PBO, as determined by the Chief Operating Officer."
+Subsec. (c)(2). Pub. L. 110–315, §118(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the subchapter IV delivery system from any entity that has the capability and capacity to meet the requirements for the system. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of the PBO, as determined by the Chief Operating Officer."
 
 Subsec. (d)(2)(B). Pub. L. 110–315, §118(3), struck out "on Federal Government contracts" after "performance of the offeror".
 

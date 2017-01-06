@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to establish a Prevention and Public Health Fund (referred to in this section as the "Fund"), to be administered through the Department of Health and Human Services, Office of the Secretary, to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate of growth in private and public sector health care costs.
+It is the purpose of this section to establish a Prevention and Public Health Fund (referred to in this section as the "Fund"), to be administered through the Department of Health and Human Services, Office of the Secretary, to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate ofgrowth in private and public sector health care costs.
 
 #### (b) Funding
 
@@ -12,11 +12,17 @@ There are hereby authorized to be appropriated, and appropriated, to the Fund, o
 
 &emsp;(2) for each of fiscal years 2012 through 2017, $1,000,000,000;
 
-&emsp;(3) for each of fiscal years 2018 and 2019, $1,250,000,000;
+&emsp;(3) for each of fiscal years 2018 and 2019, $900,000,000;
 
-&emsp;(4) for each of fiscal years 2020 and 2021, $1,500,000,000; and
+&emsp;(4) for each of fiscal years 2020 and 2021, $1,000,000,000; and <sup>1</sup>
 
-&emsp;(5) for fiscal year 2022, and each fiscal year thereafter, $2,000,000,000.
+&emsp;(5) for fiscal year 2022, $1,500,000,000;
+
+&emsp;(6) for fiscal year 2023, $1,000,000,000;
+
+&emsp;(7) for fiscal year 2024, $1,700,000,000; and
+
+&emsp;(8) for fiscal year 2025 and each fiscal year thereafter, $2,000,000,000.
 
 #### (c) Use of Fund
 
@@ -26,7 +32,7 @@ The Secretary shall transfer amounts in the Fund to accounts within the Departme
 
 The Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
 
-(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194.)
+(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194; Pub. L. 114–255, div. A, title V, §5009, Dec. 13, 2016, 130 Stat. 1197.)
 
 #### References in Text
 
@@ -37,6 +43,12 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(3). Pub. L. 114–255, §5009(1), substituted "$900,000,000" for "$1,250,000,000".
+
+Subsec. (b)(4). Pub. L. 114–255, §5009(2), substituted "$1,000,000,000" for "$1,500,000,000".
+
+Subsec. (b)(5) to (8). Pub. L. 114–255, §5009(3), added pars. (5) to (8) and struck out former par. (5) which read as follows: "for fiscal year 2022, and each fiscal year thereafter, $2,000,000,000."
 
 <b>2012</b>—Subsec. (b)(2) to (6). Pub. L. 112–96 added pars. (2) to (5) and struck out former pars. (2) to (6) which appropriated amounts for fiscal years 2011 through 2015 and each fiscal year thereafter.
 
@@ -75,4 +87,6 @@ Pub. L. 113–235, div. G, title II, §218, Dec. 16, 2014, 128 Stat. 2488.
 Pub. L. 113–76, div. H, title II, §218, Jan. 17, 2014, 128 Stat. 385.
 
 Pub. L. 112–74, div. F, title II, §220(a), Dec. 23, 2011, 125 Stat. 1085.
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

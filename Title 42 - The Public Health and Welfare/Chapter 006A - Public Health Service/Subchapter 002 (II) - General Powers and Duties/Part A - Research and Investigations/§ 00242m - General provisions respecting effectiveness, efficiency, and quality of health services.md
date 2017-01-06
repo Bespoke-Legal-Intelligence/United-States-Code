@@ -14,7 +14,7 @@
 
 (2) The reports required in paragraph (1) shall be prepared through the National Center for Health Statistics.
 
-(3) The Office of Management and Budget may review any report required by paragraph (1) ofthis subsection before its submission to Congress, but the Office may not revise any such report or delay its submission beyond the date prescribed for its submission, and may submit to Congress its comments respecting any such report.
+(3) The Office of Management and Budget may review any report required by paragraph (1) of this subsection before its submission to Congress, but the Office may not revise any such report or delay its submission beyond the date prescribed for its submission, and may submit to Congress its comments respecting any such report.
 
 #### (b) Grants or contracts; applications, submittal; application peer review group, findings and recommendations; necessity of favorable recommendation; appointments
 
@@ -28,7 +28,7 @@
 
 #### (c) Development and dissemination of statistics
 
-The Secretary shall take such action as may be necessary to assure that statistics developed under sections 242b and 242k of this title are of high quality, timely, comprehensive as well as specific, standardized, and adequately analyzed and indexed, and shall publish, make available, and disseminate such statistics on as wide a basis as is practicable.
+The Secretary shall take such action as may be necessary to assure that statistics developed under sections 242b and 242k of this title are ofhigh quality, timely, comprehensive as well as specific, standardized, and adequately analyzed and indexed, and shall publish, make available, and disseminate such statistics on as wide a basis as is practicable.
 
 #### (d) Information; publication restrictions
 
@@ -82,7 +82,7 @@ Subsec. (g). Pub. L. 103–183, §501(c)(2)(B), (C), (E), redesignated par. (2) 
 
 &emsp;"(B) make available to the public data developed in such research, demonstrations, and evaluations; and
 
-&emsp;"(C) provide indexing, abstracting, translating, publishing, and other services leading to a more effective and timely dissemination of information on health services research, demonstrations, and evaluations in health care delivery to public and private entities and individuals engaged in the improvement of health care delivery and the general public; and undertake programs to develop new or improved methods for making such information available."
+&emsp;"(C) provide indexing, abstracting, translating, publishing, and other services leading to a more effective and timely dissemination of information on health services research, demonstrations, and evaluations in health care delivery to public and private entities and individuals engaged in the improvement ofhealth care delivery and the general public; and undertake programs to develop new or improved methods for making such information available."
 
 Subsec. (h). Pub. L. 103–183, §501(c)(5), struck out subsec. (h) which read as follows:
 
@@ -114,7 +114,7 @@ Subsec. (b)(2)(C). Pub. L. 101–239, §6103(e)(4)(C)(iv), substituted "the Dire
 
 Subsec. (b)(3). Pub. L. 101–239, §6103(e)(4)(C)(v), substituted "submitted under section 242k of this title" for "submitted under section 242b, 242c, or 242k of this title" and "approved under any of such sections" for "approved under section 242b, 242c, or 242k of this title".
 
-Subsec. (d). Pub. L. 101–239, §6103(e)(4)(D), substituted "section 242b, 242k, or 242l of this title" for "section 242b, 242c, 242k, 242l, or 242n of this title", struck out"(1)" after "for such other purpose; and", and substituted "publication or release in other form." for "publication or release in other form, and (2) in the case of information obtained in the course of health services research, evaluations, or demonstrations under section 242b or 242c of this title or in the course of health care technology activities under section 242n of this title, such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form."
+Subsec. (d). Pub. L. 101–239, §6103(e)(4)(D), substituted "section 242b, 242k, or 242l of this title" for "section 242b, 242c, 242k, 242l, or 242n of this title", struck out "(1)" after "for such other purpose; and", and substituted "publication or release in other form." for "publication or release in other form, and (2) in the case of information obtained in the course of health services research, evaluations, or demonstrations under section 242b or 242c of this title or in the course of health care technology activities under section 242n of this title, such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form."
 
 Subsec. (e)(1), (2). Pub. L. 101–239, §6103(e)(4)(E), substituted "section 242b, 242k, or 242l of this title" for "section 242b, 242c, 242k, 242l, or 242n of this title".
 
@@ -164,7 +164,7 @@ Subsec. (b)(2). Pub. L. 97–35, §922(b), substituted "$50,000" for "$35,000".
 
 Subsec. (d)(2). Pub. L. 97–35, §922(c), inserted applicability to health care technology activities under section 242n of this title.
 
-Subsec. (i)(1). Pub. L. 97–35, §§917(a), 919(a)(2)(B), inserted provisions respecting amounts of and limitationson uses for appropriations for the fiscal years ending Sept. 30, 1982, 1983, and 1984.
+Subsec. (i)(1). Pub. L. 97–35, §§917(a), 919(a)(2)(B), inserted provisions respecting amounts of and limitations on uses for appropriations for the fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
 Subsec. (i)(2). Pub. L. 97–35, §917(b), inserted provisions respecting appropriations for the fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
@@ -192,7 +192,7 @@ Pub. L. 105–392, title IV, §401(e), Nov. 13, 1998, 112 Stat. 3587, provided t
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–690, title II, §2600, 102 Stat. 4233, provided that: "Except as provided in section 2613(b)(1) \[42 U.S.C. 285m note\], the amendments made by this subtitle \[subtitle G (§§2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a, 295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and section 393 of Title 21, Food and Drugs, enacting provisions set out as notes under section 285m of this title, amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under section 285m of this title\] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 \[Nov. 4, 1988\]."
+Pub. L. 100–690, title II, §2600, 102 Stat. 4233, provided that: "Except as provided in section 2613(b)(1) \[42 U.S.C. 285m note\], the amendments made by this subtitle \[subtitle G (§§2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a,295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and section 393 of Title 21, Food and Drugs, enacting provisions set out as notes under section 285m of this title, amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under section 285m of this title\] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 \[Nov. 4, 1988\]."
 
 #### Effective Date of 1987 Amendment
 

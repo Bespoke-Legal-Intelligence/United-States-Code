@@ -22,7 +22,7 @@
 
 #### (A) Process
 
-&emsp;&emsp;Except as provided in subsection (d), and consistent with paragraphs (2) and (3), inorder for a State to receive an allotment under section 3162(b) or 3172(b) of this title, the Governor of the State shall designate local workforce development areas within the State—
+&emsp;&emsp;Except as provided in subsection (d), and consistent with paragraphs (2) and (3), in order for a State to receive an allotment under section 3162(b) or 3172(b) of this title, the Governor of the State shall designate local workforce development areas within the State—
 
 &emsp;&emsp;&emsp;(i) through consultation with the State board; and
 

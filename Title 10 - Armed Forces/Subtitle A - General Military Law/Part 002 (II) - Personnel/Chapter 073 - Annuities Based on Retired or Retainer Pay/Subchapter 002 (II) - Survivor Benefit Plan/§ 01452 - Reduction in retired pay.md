@@ -140,15 +140,19 @@ Rule for designation of new insurable interest beneficiary following death of or
 
 (d)
 
-Deposits To Cover Periods When Retired Pay Not Paid.—
+Deposits To Cover Periods When Retired Pay Not Paid or Not Sufficient.—
 
 &emsp;(1)
 
-Required deposits.—If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
+Required deposits.—If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period, except to the extent that the required deduction is made pursuant to paragraph (2).
 
 &emsp;(2)
 
-Deposits not required when participant on active duty.—Paragraph (1) does not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
+Deduction from combat-related special compensation when retired pay not adequate.—In the case of a person who has elected to participate in the Plan and who has been awarded both retired pay and combat-related special compensation under section 1413a of this title, if a deduction from the person's retired pay for any period cannot be made in the full amount required, there shall be deducted from the person's combat-related special compensation in lieu of deduction from the person's retired pay the amount that would otherwise have been deducted from the person's retired pay for that period.
+
+&emsp;(3)
+
+Deposits not required when participant on active duty.—Paragraphs (1) and (2) do not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
 
 (e)
 
@@ -160,7 +164,7 @@ Refunds of Deductions Not Allowed.—
 
 &emsp;(1)
 
-General rule.—A person is not entitled to refund of any amount deducted from retired pay under this section.
+General rule.—A person is not entitled to refund of any amount deducted from retired pay or combat-related special compensation under this section.
 
 &emsp;(2)
 
@@ -184,7 +188,7 @@ Conditions.—Notwithstanding any other provision of this subchapter but subject
 
 &emsp;&emsp;(B)
 
-Effective date.—Participation in the Plan of a person who submits a requestunder subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
+Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
 
 &emsp;&emsp;(C)
 
@@ -208,7 +212,7 @@ Right to withdraw discontinuation request.—A person may withdraw a request mad
 
 &emsp;(4)
 
-Refund of deductions from retired pay.—Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person's surviving spouse.
+Refund of deductions from retired pay or CRSC.—Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay or combat-related special compensation of that person under this section shall be refunded to the person's surviving spouse.
 
 &emsp;(5)
 
@@ -224,7 +228,7 @@ Conditions for resumption.—A person described in paragraph (1) who discontinue
 
 &emsp;&emsp;(B)
 
-Effective date of resumed coverage.—Such person's participation in the Plan under this paragraph is effective beginning on the first day of the month after the month in which the Secretary concerned receives the application for resumption of participation in the Plan.
+Effective date of resumed coverage.—Such person's participation in the Plan under this paragraph is effective beginning on the first day of the month after themonth in which the Secretary concerned receives the application for resumption of participation in the Plan.
 
 &emsp;&emsp;(C)
 
@@ -258,13 +262,13 @@ Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the ret
 
 Coverage Paid Up at 30
 
-Years and Age 70.—Effective October 1, 2008, no reduction may be made under this section in the retired pay ofa participant in the Plan for any month after the later of—
+Years and Age 70.—Effective October 1, 2008, no reduction may be made under this section in the retired pay of a participant in the Plan for any month after the later of—
 
 &emsp;(1) the 360th month for which the participant's retired pay is reduced under this section; and
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166.)
 
 #### References in Text
 
@@ -273,6 +277,18 @@ Section 1450(a)(4) of this title, referred to in subsec. (c)(1), (3), was redesi
 Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under section 1401a of this title prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–328, §643(b)(1)(A), inserted "or Not Sufficient" after "Not Paid" in heading.
+
+Subsec. (d)(1). Pub. L. 114–328, §643(b)(1)(B), inserted before period at end ", except to the extent that the required deduction is made pursuant to paragraph (2)".
+
+Subsec. (d)(2). Pub. L. 114–328, §643(a)(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 114–328, §643(a)(1), (b)(1)(C), redesignated par. (2) as (3) and substituted "Paragraphs (1) and (2) do not" for "Paragraph (1) does not".
+
+Subsec. (f)(1). Pub. L. 114–328, §643(b)(2), inserted "or combat-related special compensation" after "from retired pay".
+
+Subsec. (g)(4). Pub. L. 114–328, §643(b)(3), inserted "or CRSC" after "retired pay" in heading and "or combat-related special compensation" after "from the retired pay" in text.
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted in heading "and FERS" after "CSRS" and inserted in text "or chapter 84 of such title" after "chapter 83 of title 5", "or 8416(a)" after "8339(j)", and "or 8442(a)" after "8341(b)".
 
@@ -336,7 +352,7 @@ Subsec. (b). Pub. L. 99–145, §723(b)(2)(2), inserted "or former spouse" after
 
 Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay".
 
-Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted "retired pay" for "retired or retainer pay" in threeplaces, and substituted "a standard annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(A) of this title" in cl. (1), "a reserve-component annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(B) of this title" in cl. (2), and "this subsection" for "this section" in third sentence.
+Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted "retired pay" for "retired or retainer pay" in three places, and substituted "a standard annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(A) of this title" in cl. (1), "a reserve-component annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(B) of this title" in cl. (2), and "this subsection" for "this section" in third sentence.
 
 Subsecs. (d) to (h). Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay" wherever appearing.
 

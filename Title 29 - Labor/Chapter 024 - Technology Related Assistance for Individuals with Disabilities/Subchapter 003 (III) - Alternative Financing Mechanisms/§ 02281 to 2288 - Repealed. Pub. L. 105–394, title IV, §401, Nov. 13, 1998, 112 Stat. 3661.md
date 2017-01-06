@@ -6,7 +6,7 @@ Section 2282, Pub. L. 100–407, title III, §302, as added Pub. L. 103–218, t
 
 Section 2283, Pub. L. 100–407, title III, §303, as added Pub. L. 103–218, title III, §301, Mar. 9, 1994, 108 Stat. 93, related to grant administration requirements.
 
-Section 2284, Pub. L. 100–407, title III, §304, as added Pub. L. 103–218, title III, §301, Mar. 9, 1994, 108 Stat. 93,related to financial requirements to receive a grant under section 2281 of this title.
+Section 2284, Pub. L. 100–407, title III, §304, as added Pub. L. 103–218, title III, §301, Mar. 9, 1994, 108 Stat. 93, related to financial requirements to receive a grant under section 2281 of this title.
 
 Section 2285, Pub. L. 100–407, title III, §305, as added Pub. L. 103–218, title III, §301, Mar. 9, 1994, 108 Stat. 94, related to amount of grants.
 

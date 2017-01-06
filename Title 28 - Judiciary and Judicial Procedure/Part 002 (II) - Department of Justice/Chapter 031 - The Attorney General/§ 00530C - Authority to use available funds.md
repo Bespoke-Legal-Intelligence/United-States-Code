@@ -50,7 +50,7 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;(K) Expenses of—
 
-&emsp;&emsp;&emsp;(i) primary and secondary schooling for dependents of personnel stationed outsidethe United States at cost not in excess of those authorized by the Department of Defense for the same area, when it is determined by the Attorney General that schools available in the locality are unable to provide adequately for the education of such dependents; and
+&emsp;&emsp;&emsp;(i) primary and secondary schooling for dependents of personnel stationed outside the United States at cost not in excess of those authorized by the Department of Defense for the same area, when it is determined by the Attorney General that schools available in the locality are unable to provide adequately for the education of such dependents; and
 
 &emsp;&emsp;&emsp;(ii) transportation of those dependents between their place of residence and schools serving the area which those dependents would normally attend when the Attorney General, under such regulations as he may prescribe, determines that such schools are not accessible by public means of transportation.
 
@@ -84,7 +84,7 @@ Specific permitted uses.—
 
 &emsp;&emsp;(A)
 
-Aircraft and boats.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
+Aircraft and boats.—Funds available to the Attorney General for United StatesAttorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
 
 &emsp;&emsp;(B)
 

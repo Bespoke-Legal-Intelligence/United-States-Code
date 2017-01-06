@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Through the 2018 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
+Through the 2018 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 
 #### (b) Eligible land
 
@@ -12,7 +12,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;(A)(i) if permitted to remain untreated could substantially reduce the agricultural production capability for future generations; or
 
-&emsp;&emsp;(ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II of this chapter; and
+&emsp;&emsp;(ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II; and
 
 &emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding February 7, 2014 (except for land enrolled in the conservation reserve program as of that date);
 
@@ -80,7 +80,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 #### (A) Limitation
 
-&emsp;&emsp;For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres ofthe land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.
+&emsp;&emsp;For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres of the land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.
 
 #### (B) Priority
 
@@ -154,7 +154,7 @@ Subsec. (b)(1)(B). Pub. L. 113–79, §2001(b)(1), substituted "February 7, 2014
 
 Subsec. (b)(2), (3). Pub. L. 113–79, §2001(b)(2), (3), redesignated par. (3) as (2), added par. (3), and struck out former par. (2) which read as follows: "marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;".
 
-Subsec. (b)(4)(C). Pub. L. 113–79, §2001(b)(4), substituted "filterstrips or riparian buffers devoted totrees, shrubs, or grasses" for "filterstrips devoted to trees or shrubs".
+Subsec. (b)(4)(C). Pub. L. 113–79, §2001(b)(4), substituted "filterstrips or riparian buffers devoted to trees, shrubs, or grasses" for "filterstrips devoted to trees or shrubs".
 
 Subsec. (b)(5). Pub. L. 113–79, §2001(b)(5), added par. (5) and struck out former par. (5) which read as follows: "the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
 

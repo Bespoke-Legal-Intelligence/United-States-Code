@@ -40,7 +40,7 @@ Contingency Program Management Matters Covered.—The joint policy for contingen
 
 Contingency Contracting Matters Covered.—(1) The joint policy for contingency contracting required by subsection (a) shall, at a minimum, provide for the following:
 
-&emsp;(A) The designation of a senior commissioned officer or civilian member of the senior executive service in each military department with the responsibility for administering the policy.
+&emsp;(A) The designation of a senior commissioned officer or civilian member of the seniorexecutive service in each military department with the responsibility for administering the policy.
 
 &emsp;(B) The assignment of a senior commissioned officer with appropriate acquisition experience and qualifications to act as head of contingency contracting during combat operations, post-conflict operations, and contingency operations, who shall report directly to the commander of the combatant command in whose area of responsibility the operations occur.
 
@@ -64,7 +64,7 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 (e)
 
-Training for Personnel Outside Acquisition Workforce.—(1) The joint policy for requirements definition, contingency programmanagement, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
+Training for Personnel Outside Acquisition Workforce.—(1) The joint policy for requirements definition, contingency program management, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
 
 (2) Training under paragraph (1) shall be sufficient to ensure that the military personnel referred to in that paragraph understand the scope and scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.
 
@@ -113,6 +113,72 @@ Subsec. (d)(2). Pub. L. 111–84, §1073(a)(23)(B), substituted "the John Warner
 Subsec. (f)(3). Pub. L. 111–84, §1073(a)(23)(C), substituted "section 101(a)(13)" for "section 101(13)".
 
 <b>2008</b>—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Enhancement of Interagency Support During Contingency Operations and Transition Periods
+
+Pub. L. 114–328, div. A, title XII, §1281, Dec. 23, 2016, 130 Stat. 2541, provided that:
+
+"(a)
+
+Authority.—The Secretary of Defense and the Secretary of State may enter into an agreement under which each Secretary may provide covered support, supplies, and services on a reimbursement basis, or by exchange of covered support, supplies, and services, to the other Secretary during a contingency operation and related transition period for up to 2 years following the end of such contingency operation.
+
+"(b)
+
+Agreement.—An agreement entered into under this section shall be in writing and shall include the following terms:
+
+&emsp;"(1) The price charged by a supplying agency shall be the direct costs that such agency incurred by providing the covered support, supplies, or services to the requesting agency under this section.
+
+&emsp;"(2) Credits and liabilities of the agencies accrued as a result of acquisitions and transfers of covered support, supplies, and services under this section shall be liquidated not less often than once every 3 months by direct payment to the agency supplying such support, supplies, or services by the agency receiving such support, supplies, or services.
+
+&emsp;"(3) Exchange entitlements accrued as a result of acquisitions and transfers of covered support, supplies, and services under this section shall be satisfied within 12 months after the date of the delivery of the covered support, supplies, or services. Exchange entitlements not so satisfied shall be immediately liquidated by direct payment to the agency supplying such covered support, supplies, or services.
+
+"(c)
+
+Effect of Obligation and Availability of Funds.—An order placed by an agency pursuant to an agreement under this section is deemed to be an obligation in the same manner that a similar order placed under a contract with, or a contract for similar goods or services awarded to, a private contractor is an obligation. Appropriations remain available to pay an obligation to the servicing agency in the same manner as appropriations remain available to pay an obligation to a private contractor.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered support, supplies, and services.—The term 'covered support, supplies, and services' means food, billeting, transportation (including airlift), petroleum, oils, lubricants, communications services, medical services, ammunition, base operations support, use of facilities, spare parts and components, repair and maintenance services, and calibration services.
+
+&emsp;"(2)
+
+Contingency operation.—The term 'contingency operation' has the meaning given that term in section 101(a)(13) of title 10, United States Code.
+
+"(e)
+
+Crediting of Receipts.—Any receipt as a result of an agreement entered into under this section shall be credited, at the option of the Secretary of Defense with respect to the Department of Defense and the Secretary of State with respect to the Department of State, to—
+
+&emsp;"(1) the appropriation, fund, or account used in incurring the obligation; or
+
+&emsp;"(2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made.
+
+"(f)
+
+Notification.—Not later than 30 days after the end of a fiscal year in which covered support, supplies, and services are provided or exchanged pursuant to an agreement under this section, the Secretary of Defense and the Secretary of State shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a notification that contains a copy of such agreement and a description of such covered support, supplies, and services."
+
+#### Agreements With Foreign Governments To Develop Land-Based Water Resources in Support of and in Preparation for Contingency Operations
+
+Pub. L. 114–328, div. A, title XII, §1291, Dec. 23, 2016, 130 Stat. 2558, provided that:
+
+"(a)
+
+Agreements Authorized.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to enter into agreements with the governments of foreign countries to develop land-based water resources in support of and in preparation for contingency operations, including water selection, pumping, purification, storage, distribution, cooling, consumption, water reuse, water source intelligence, research and development, training, acquisition of water support equipment, and water support operations.
+
+"(b)
+
+Notification Required.—Not later than 30 days after entering into an agreement under subsection (a), the Secretary of Defense shall notify the appropriate congressional committees of the existence of the agreement and provide a summary of the terms of the agreement.
+
+"(c)
+
+Definition.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
 #### Deadline for Development of Joint Policies
 

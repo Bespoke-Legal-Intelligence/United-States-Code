@@ -40,7 +40,7 @@ No individual shall be required to perform or assist in the performance of any p
 
 No entity which receives, after September 29, 1979, any grant, contract, loan, loan guarantee, or interest subsidy under the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\] may deny admission or otherwise discriminate against any applicant (including applicants for internships and residencies) for training or study because of the applicant's reluctance, or willingness, to counsel, suggest, recommend, assist, or in any way participate in the performance of abortions or sterilizations contrary to or consistent with the applicant's religious beliefs or moral convictions.
 
-(Pub. L. 93–45, title IV, §401, June 18, 1973, 87 Stat. 95; Pub. L. 93–348, title II, §214, July 12, 1974, 88 Stat. 353; Pub. L. 96–76, title II, §208, Sept. 29, 1979, 93 Stat. 583; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 106–402, title IV, §401(b)(5), Oct. 30, 2000, 114 Stat. 1738.)
+(Pub. L. 93–45, title IV, §401, June 18, 1973, 87 Stat. 95; Pub. L. 93–348, title II, §214, July 12,1974, 88 Stat. 353; Pub. L. 96–76, title II, §208, Sept. 29, 1979, 93 Stat. 583; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 106–402, title IV, §401(b)(5), Oct. 30, 2000, 114 Stat. 1738.)
 
 #### References in Text
 

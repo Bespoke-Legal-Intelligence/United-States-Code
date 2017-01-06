@@ -8,13 +8,13 @@ The Secretary shall, in consultation with the Interagency Energy Management Task
 
 &emsp;(2) making recommendations for cost effective energy efficiency and renewable energy improvements in those buildings and in other similar Federal buildings; and
 
-&emsp;(3) identifying barriers which may prevent an agency's ability to comply with section 8253of this title and other energy management goals.
+&emsp;(3) identifying barriers which may prevent an agency's ability to comply with section 8253 of this title and other energy management goals.
 
 #### (b) Implementation
 
 (1) The Secretary shall transmit to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, within 180 days after October 24, 1992, a plan for implementing this section.
 
-(2) The Secretary shall designate buildings to be surveyed in the project so as to obtain a sample of the buildings of the types and in the climates that is representative of buildings owned or leased by Federal agencies in the United States that consume the major portion of the energy consumed in Federal buildings. Such sample shall include, where appropriate, the following types of Federal facility space:
+(2) The Secretary shall designate buildings to be surveyed in the project so as to obtain a sample of the buildings of the types and in the climates that is representative of buildings owned or leased by Federal agencies in the United States that consume the major portion of the energy consumed in Federal buildings. Suchsample shall include, where appropriate, the following types of Federal facility space:
 
 &emsp;(A) Housing.
 

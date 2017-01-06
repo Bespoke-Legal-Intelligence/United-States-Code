@@ -224,7 +224,7 @@ Sec. 5. <i>National Prevention and Health Promotion Strategy</i>. Not later than
 
 (c) make recommendations to improve Federal efforts relating to prevention, health promotion, public health, and integrative health-care practices to ensure that Federal efforts are consistent with available standards and evidence.
 
-Sec. 6. <i>Reports</i>. Not later than July 1, 2010, and annually thereafter until January 1, 2015, the Council shall submit to the President and the relevant committees of the Congress, a report that:
+Sec. 6. <i>Reports</i>. Not later than July 1, 2010, and annually thereafter until January 1, 2015, the Council shallsubmit to the President and the relevant committees of the Congress, a report that:
 
 (a) describes the activities and efforts on prevention, health promotion, and public health and activities to develop the national strategy conducted by the Council during the period for which the report is prepared;
 
@@ -288,9 +288,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
 
-Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extension of term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(h);".</i>
 

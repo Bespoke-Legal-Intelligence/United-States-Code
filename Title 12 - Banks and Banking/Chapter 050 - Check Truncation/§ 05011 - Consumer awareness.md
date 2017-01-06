@@ -24,7 +24,7 @@ Each bank shall provide, in accordance with subsection (b), a brief notice about
 
 #### (3) Mode of delivery
 
-&emsp;A bank may send the notices required by this subsection by United States mail or byany other means through which the consumer has agreed to receive account information.
+&emsp;A bank may send the notices required by this subsection by United States mail or by any other means through which the consumer has agreed to receive account information.
 
 #### (4) Consumers who request copies of checks
 
@@ -57,4 +57,8 @@ Each bank shall provide, in accordance with subsection (b), a brief notice about
 The effective date of this chapter, referred to in subsec. (b)(1), is at the end of the 12-month period beginning on Oct. 28, 2003, except as otherwise specifically provided in this chapter, see section 20 of Pub. L. 108–100, set out as an Effective Date note under section 5001 of this title.
 
 This chapter, referred to in subsec. (c)(2)(B), was in the original "this Act", meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+
+#### Effective Date
+
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 

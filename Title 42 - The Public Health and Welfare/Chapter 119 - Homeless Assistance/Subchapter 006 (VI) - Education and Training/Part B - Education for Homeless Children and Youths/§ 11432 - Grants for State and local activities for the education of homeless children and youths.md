@@ -2,11 +2,11 @@
 
 #### (a) General authority
 
-The Secretary is authorized to make grants to States in accordance with the provisions of this section to enable such States to carry out the activities described in subsections (d) through (g) of this section.
+The Secretary is authorized to make grants to States in accordance with the provisions of this section to enable such States to carry out the activities described in subsections (d) through (g).
 
-#### (b) Application
+#### (b) Grants from allotments
 
-No State may receive a grant under this section unless the State educational agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
+The Secretary shall make the grants to States from the allotments made under subsection (c)(1).
 
 #### (c) Allocation and reservations
 
@@ -26,7 +26,7 @@ No State may receive a grant under this section unless the State educational age
 
 &emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
 
-&emsp;(B)(i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), that are consistent with the purposes of the programs described in this part.
+&emsp;(B)(i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> that are consistent with the purposes of the programs described in this part.
 
 &emsp;(ii) The Secretary and the Secretary of the Interior shall enter into an agreement, consistent with the requirements of this part, for the distribution and use of the funds described in clause (i) under terms that the Secretary determines best meet the purposes of the programs described in this part. Such agreement shall set forth the plans of the Secretary of the Interior for the use of the amounts transferred, including appropriate goals, objectives, and milestones.
 
@@ -40,23 +40,27 @@ Grants under this section shall be used for the following:
 
 &emsp;(1) To carry out the policies set forth in section 11431 of this title in the State.
 
-&emsp;(2) To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable such children and youths to enroll in, attend, and succeed in school, or, if appropriate, in preschool programs.
+&emsp;(2) To provide services and activities to improve the identification of homeless children and youths (including preschool-aged homeless children) and enable such children and youths to enroll in, attend, and succeed in school, including, if appropriate, in preschool programs.
 
-&emsp;(3) To establish or designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section.
+&emsp;(3) To establish or designate in the State educational agency an Office of the Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f).
 
-&emsp;(4) To prepare and carry out the State plan described in subsection (g) of this section.
+&emsp;(4) To prepare and carry out the State plan described in subsection (g).
 
-&emsp;(5) To develop and implement professional development programs for school personnel to heighten their awareness of, and capacity to respond to, specific problems in the education of homeless children and youths.
+&emsp;(5) To develop and implement professional development programs for liaisons designated under subsection (g)(1)(J)(ii) and other local educational agency personnel—
+
+&emsp;&emsp;(A) to improve their identification of homeless children and youths; and
+
+&emsp;&emsp;(B) to heighten the awareness of the liaisons and personnel of, and their capacity to respond to, specific needs in the education of homeless children and youths.
 
 #### (e) State and local subgrants
 
 #### (1) Minimum disbursements by States
 
-&emsp;From the sums made available each year to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title, except that States funded at the minimum level set forth in subsection (c)(1) of this section shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title.
+&emsp;From the sums made available each year to a State through grants under subsection (a) to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title, except that States funded at the minimum level set forth in subsection (c)(1) shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out section 11433 of this title.
 
 #### (2) Use by State educational agency
 
-&emsp;A State educational agency may use funds made available for State use under this part to conduct activities under subsection (f) of this section directly or through grants or contracts.
+&emsp;A State educational agency may use the grant funds remaining after the State educational agency distributes subgrants under paragraph (1) to conduct activities under subsection (f) directly or through grants or contracts.
 
 #### (3) Prohibition on segregating homeless students
 
@@ -66,7 +70,7 @@ Grants under this section shall be used for the following:
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), paragraphs (1)(J)(i) and (3) of subsection (g) of this section, section 11433(a)(2) of this title, and any other provision of this part relating to the placement of homeless children or youths in schools, a State that has a separate school for homeless children or youths that was operated in fiscal year 2000 in a covered county shall be eligible to receive funds under this part for programs carried out in such school if—
+&emsp;&emsp;Notwithstanding subparagraph (A), paragraphs (1)(J)(i) and (3) of subsection (g), section 11433(a)(2) of this title, and any other provision of this part relating to the placement of homeless children or youths in schools, a State that has a separate school for homeless children or youths that was operated in fiscal year 2000 in a covered county shall be eligible to receive funds under this part for programs carried out in such school if—
 
 &emsp;&emsp;&emsp;(i) the school meets the requirements of subparagraph (C);
 
@@ -86,17 +90,17 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;&emsp;(III) specifically states—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the choice of schools homeless children and youths are eligible to attend, as provided in subsection (g)(3)(A) of this section;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the choice of schools homeless children and youths are eligible to attend, as provided in subsection (g)(3)(A);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) that no homeless child or youth is required to attend a separate school for homeless children or youths;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4) of this section, including transportation services, educational services, and meals through school meals programs; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4), including transportation services, educational services, and meals through school meals programs; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) that homeless children and youths should not be stigmatized by school personnel; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) provides contact information for the local liaison for homeless children and youths and the State Coordinator for Education of Homeless Children and Youths;
 
-&emsp;&emsp;&emsp;(ii)(I) provide assistance to the parent or guardian of each homeless child or youth (or, in the case of an unaccompanied youth, the youth) to exercise the right to attend the parent's or guardian's (or youth's) choice of schools, as provided in subsection (g)(3)(A) of this section; and
+&emsp;&emsp;&emsp;(ii)(I) provide assistance to the parent or guardian of each homeless child or youth (or, in the case of an unaccompanied youth, the youth) to exercise the right to attend the parent's or guardian's (or youth's) choice of schools, as provided in subsection (g)(3)(A); and
 
 &emsp;&emsp;&emsp;(II) coordinate with the local educational agency with jurisdiction for the school selected by the parent or guardian (or youth), to provide transportation and other necessary services;
 
@@ -106,7 +110,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) is complying with clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
+&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with section 1111 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311\] and providing a full range of education and related services, including services applicable to students with disabilities).
 
 #### (D) School ineligibility
 
@@ -118,17 +122,17 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;(i) implement a coordinated system for ensuring that homeless children and youths—
 
-&emsp;&emsp;&emsp;&emsp;(I) are advised of the choice of schools provided in subsection (g)(3)(A) of this section;
+&emsp;&emsp;&emsp;&emsp;(I) are advised of the choice of schools provided in subsection (g)(3)(A);
 
-&emsp;&emsp;&emsp;&emsp;(II) are immediately enrolled, in accordance with subsection (g)(3)(C) of this section, in the school selected under subsection (g)(3)(A) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) are immediately enrolled, in accordance with subsection (g)(3)(C), in the school selected under subsection (g)(3)(A); and
 
-&emsp;&emsp;&emsp;&emsp;(III) are promptly provided necessary services described in subsection (g)(4) of this section, including transportation, to allow homeless children and youths to exercise their choices of schools under subsection (g)(3)(A) of this section;
+&emsp;&emsp;&emsp;&emsp;(III) are promptly provided necessary services described in subsection (g)(4), including transportation, to allow homeless children and youths to exercise their choices of schools under subsection (g)(3)(A);
 
 &emsp;&emsp;&emsp;(ii) document that written notice has been provided—
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (C)(i) for each child or youth enrolled in a separate school under subparagraph (B); and
 
-&emsp;&emsp;&emsp;&emsp;(II) in accordance with subsection (g)(6)(A)(v) of this section;
+&emsp;&emsp;&emsp;&emsp;(II) in accordance with subsection (g)(6)(A)(vi);
 
 &emsp;&emsp;&emsp;(iii) prohibit schools within the agency's jurisdiction from referring homeless children or youths to, or requiring homeless children and youths to enroll in or attend, a separate school described in subparagraph (B);
 
@@ -148,17 +152,19 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) compliance with all requirements of this paragraph;
 
-&emsp;&emsp;&emsp;&emsp;(II) barriers to school access in the school districts served by the local educational agencies; and
+&emsp;&emsp;&emsp;&emsp;(II) barriers to school access in the school districts served by the local educational agencies;
 
-&emsp;&emsp;&emsp;&emsp;(III) the progress the separate schools are making in integrating homeless children and youths into the mainstream school environment, including the average length of student enrollment in such schools.
+&emsp;&emsp;&emsp;&emsp;(III) the progress the separate schools are making in integrating homeless children and youths into the mainstream school environment, including the average length of student enrollment in such schools; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the progress the separate schools are making in helping all students meet the challenging State academic standards.
 
 #### (ii) Compliance with information requests
 
-&emsp;&emsp;&emsp;For purposes of enabling the Secretary to prepare the report, the separate schools and local educational agencies shall cooperate with the Secretary and the State Coordinator for Education of Homeless Children and Youths established in the State under subsection (d)(3) of this section, and shall comply with any requests for information by the Secretary and State Coordinator for such State.
+&emsp;&emsp;&emsp;For purposes of enabling the Secretary to prepare the report, the separate schools and local educational agencies shall cooperate with the Secretary and the State Coordinator for Education of Homeless Children and Youths established in the State under subsection (d)(3), and shall comply with any requests for information by the Secretary and State Coordinator for such State.
 
 #### (iii) Submission
 
-&emsp;&emsp;&emsp;Not later than 2 years after January 8, 2002, the Secretary shall submit the report described in clause (i) to—
+&emsp;&emsp;&emsp;The Secretary shall submit the report described in clause (i) to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the President;
 
@@ -178,59 +184,73 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;(iv) Maricopa County, Arizona.
 
-#### (f) Functions of the Office of Coordinator
+#### (f) Functions of the Office of the Coordinator
 
 The Coordinator for Education of Homeless Children and Youths established in each State shall—
 
-&emsp;(1) gather reliable, valid, and comprehensive information on the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools, the difficulties in identifying the special needs of such children and youths, any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties, and the success of the programs under this part in allowing homeless children and youths to enroll in, attend, and succeed in, school;
+&emsp;(1) gather and make publicly available reliable, valid, and comprehensive information on—
 
-&emsp;(2) develop and carry out the State plan described in subsection (g) of this section;
+&emsp;&emsp;(A) the number of homeless children and youths identified in the State, which shall be posted annually on the State educational agency's website;
 
-&emsp;(3) collect and transmit to the Secretary, at such time and in such manner as the Secretary may require, a report containing such information as the Secretary determines is necessary to assess the educational needs of homeless children and youths within the State;
+&emsp;&emsp;(B) the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools;
 
-&emsp;(4) facilitate coordination between the State educational agency, the State social services agency, and other agencies (including agencies providing mental health services) to provide services to homeless children, including preschool-aged homeless children, and youths, and to families of such children and youths;
+&emsp;&emsp;(C) the difficulties in identifying the special needs and barriers to the participation and achievement of such children and youths;
 
-&emsp;(5) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate and collaborate with—
+&emsp;&emsp;(D) any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties; and
 
-&emsp;&emsp;(A) educators, including child development and preschool program personnel;
+&emsp;&emsp;(E) the success of the programs under this part in identifying homeless children and youths and allowing such children and youths to enroll in, attend, and succeed in, school;
 
-&emsp;&emsp;(B) providers of services to homeless and runaway children and youths and homeless families (including domestic violence agencies, shelter operators, transitional housing facilities, runaway and homeless youth centers, and transitional living programs for homeless youths);
+&emsp;(2) develop and carry out the State plan described in subsection (g);
 
-&emsp;&emsp;(C) local educational agency liaisons designated under subsection (g)(1)(J)(ii) of this section for homeless children and youths; and
+&emsp;(3) collect data for and transmit to the Secretary, at such time and in such manner as the Secretary may reasonably require, a report containing information necessary to assess the educational needs of homeless children and youths within the State, including data necessary for the Secretary to fulfill the responsibilities under section 11434(h) of this title;
 
-&emsp;&emsp;(D) community organizations and groups representing homeless children and youths and their families; and
+&emsp;(4) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—
 
-&emsp;(6) provide technical assistance to local educational agencies in coordination with local educational agency liaisons designated under subsection (g)(1)(J)(ii) of this section, to ensure that local educational agencies comply with the requirements of subsection (e)(3) of this section and paragraphs (3) through (7) of subsection (g) of this section.
+&emsp;&emsp;(A) educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;
+
+&emsp;&emsp;(B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.);
+
+&emsp;&emsp;(C) providers of emergency, transitional, and permanent housing to homeless children and youths, and their families, including public housing agencies, shelter operators, operators of transitional housing facilities, and providers of transitional living programs for homeless youths;
+
+&emsp;&emsp;(D) local educational agency liaisons designated under subsection (g)(1)(J)(ii) for homeless children and youths; and
+
+&emsp;&emsp;(E) community organizations and groups representing homeless children and youths and their families;
+
+&emsp;(5) provide technical assistance to and conduct monitoring of local educational agencies in coordination with local educational agency liaisons designated under subsection (g)(1)(J)(ii), to ensure that local educational agencies comply with the requirements of subsection (e)(3) and paragraphs (3) through (7) of subsection (g);
+
+&emsp;(6) provide professional development opportunities for local educational agency personnel and the local educational agency liaison designated under subsection (g)(1)(J)(ii) to assist such personnel and liaison in identifying and meeting the needs of homeless children and youths, and provide training on the definitions of terms related to homelessness specified in sections 11302, 11360, and 11434a of this title to the liaison; and
+
+&emsp;(7) respond to inquiries from parents and guardians of homeless children and youths, and (in the case of unaccompanied youths) such youths, to ensure that each child or youth who is the subject of such an inquiry receives the full protections and services provided by this part.
 
 #### (g) State plan
 
 #### (1) In general
 
-&emsp;Each State shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:
+&emsp;For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:
 
-&emsp;&emsp;(A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic achievement standards all students are expected to meet.
+&emsp;&emsp;(A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic standards as all students are expected to meet.
 
-&emsp;&emsp;(B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their special needs.
+&emsp;&emsp;(B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their needs.
 
 &emsp;&emsp;(C) A description of procedures for the prompt resolution of disputes regarding the educational placement of homeless children and youths.
 
-&emsp;&emsp;(D) A description of programs for school personnel (including principals, attendance officers, teachers, enrollment personnel, and pupil services personnel) to heighten the awareness of such personnel of the specific needs of runaway and homeless youths.
+&emsp;&emsp;(D) A description of programs for school personnel (including liaisons designated under subparagraph (J)(ii), principals and other school leaders, attendance officers, teachers, enrollment personnel, and specialized instructional support personnel) to heighten the awareness of such school personnel of the specific needs of homeless children and youths, including such children and youths who are runaway and homeless youths.
 
-&emsp;&emsp;(E) A description of procedures that ensure that homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local food programs.
+&emsp;&emsp;(E) A description of procedures that ensure that homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local nutrition programs.
 
 &emsp;&emsp;(F) A description of procedures that ensure that—
 
-&emsp;&emsp;&emsp;(i) homeless children have equal access to the same public preschool programs, administered by the State agency, as provided to other children in the State;
+&emsp;&emsp;&emsp;(i) homeless children have access to public preschool programs, administered by the State educational agency or local educational agency, as provided to other children in the State;
 
-&emsp;&emsp;&emsp;(ii) homeless youths and youths separated from the public schools are identified and accorded equal access to appropriate secondary education and support services; and
+&emsp;&emsp;&emsp;(ii) youths described in section 11434a(2) of this title and youths separated from public schools are identified and accorded equal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and
 
-&emsp;&emsp;&emsp;(iii) homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local before- and after-school care programs.
+&emsp;&emsp;&emsp;(iii) homeless children and youths who meet the relevant eligibility criteria do not face barriers to accessing academic and extracurricular activities, including magnet school, summer school, career and technical education, advanced placement, online learning, and charter school programs, if such programs are available at the State and local levels.
 
-&emsp;&emsp;(G) Strategies to address problems identified in the report provided to the Secretary under subsection (f)(3) of this section.
+&emsp;&emsp;(G) Strategies to address problems identified in the report provided to the Secretary under subsection (f)(3).
 
 &emsp;&emsp;(H) Strategies to address other problems with respect to the education of homeless children and youths, including problems resulting from enrollment delays that are caused by—
 
-&emsp;&emsp;&emsp;(i) immunization and medical records requirements;
+&emsp;&emsp;&emsp;(i) requirements of immunization and other required health records;
 
 &emsp;&emsp;&emsp;(ii) residency requirements;
 
@@ -240,19 +260,23 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(v) uniform or dress code requirements.
 
-&emsp;&emsp;(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the enrollment and retention of homeless children and youths in schools in the State.
+&emsp;&emsp;(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths in schools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.
 
-&emsp;&emsp;(J) Assurances that—
+&emsp;&emsp;(J) Assurances that the following will be carried out:
 
-&emsp;&emsp;&emsp;(i) the State educational agency and local educational agencies in the State will adopt policies and practices to ensure that homeless children and youths are not stigmatized or segregated on the basis of their status as homeless;
+&emsp;&emsp;&emsp;(i) The State educational agency and local educational agencies in the State will adopt policies and practices to ensure that homeless children and youths are not stigmatized or segregated on the basis of their status as homeless.
 
-&emsp;&emsp;&emsp;(ii) local educational agencies will designate an appropriate staff person, who may also be a coordinator for other Federal programs, as a local educational agency liaison for homeless children and youths, to carry out the duties described in paragraph (6)(A); and
+&emsp;&emsp;&emsp;(ii) The local educational agencies will designate an appropriate staff person, able to carry out the duties described in paragraph (6)(A), who may also be a coordinator for other Federal programs, as a local educational agency liaison for homeless children and youths.
 
-&emsp;&emsp;&emsp;(iii) the State and its local educational agencies will adopt policies and practices to ensure that transportation is provided, at the request of the parent or guardian (or in the case of an unaccompanied youth, the liaison), to and from the school of origin, as determined in paragraph (3)(A), in accordance with the following, as applicable:
+&emsp;&emsp;&emsp;(iii) The State and the local educational agencies in the State will adopt policies and practices to ensure that transportation is provided, at the request of the parent or guardian (or in the case of an unaccompanied youth, the liaison), to and from the school of origin (as determined under paragraph (3)), in accordance with the following, as applicable:
 
-&emsp;&emsp;&emsp;&emsp;(I) If the homeless child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
+&emsp;&emsp;&emsp;&emsp;(I) If the child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
 
-&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+&emsp;&emsp;&emsp;&emsp;(II) If the child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing the child's or youth's education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child or youth with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+
+&emsp;&emsp;&emsp;(iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant to paragraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
+
+&emsp;&emsp;(K) A description of how youths described in section 11434a(2) of this title will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.
 
 #### (2) Compliance
 
@@ -272,61 +296,85 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(i) continue the child's or youth's education in the school of origin for the duration of homelessness—
 
-&emsp;&emsp;&emsp;&emsp;(I) in any case in which a family becomes homeless between academic years or during an academic year; or
+&emsp;&emsp;&emsp;&emsp;(I) in any case in which a family becomes homeless between academic years or during an academic year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for the remainder of the academic year, if the child or youth becomes permanently housed during an academic year; or
 
 &emsp;&emsp;&emsp;(ii) enroll the child or youth in any public school that nonhomeless students who live in the attendance area in which the child or youth is actually living are eligible to attend.
 
-#### (B) Best interest
+#### (B) School stability
 
 &emsp;&emsp;In determining the best interest of the child or youth under subparagraph (A), the local educational agency shall—
 
-&emsp;&emsp;&emsp;(i) to the extent feasible, keep a homeless child or youth in the school of origin, except when doing so is contrary to the wishes of the child's or youth's parent or guardian;
+&emsp;&emsp;&emsp;(i) presume that keeping the child or youth in the school of origin is in the child's or youth's best interest, except when doing so is contrary to the request of the child's or youth's parent or guardian, or (in the case of an unaccompanied youth) the youth;
 
-&emsp;&emsp;&emsp;(ii) provide a written explanation, including a statement regarding the right to appeal under subparagraph (E), to the homeless child's or youth's parent or guardian, if the local educational agency sends such child or youth to a school other than the school of origin or a school requested by the parent or guardian; and
+&emsp;&emsp;&emsp;(ii) consider student-centered factors related to the child's or youth's best interest, including factors related to the impact of mobility on achievement, education, health, and safety of homeless children and youth, giving priority to the request of the child's or youth's parent or guardian or (in the case of an unaccompanied youth) the youth;
 
-&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
+&emsp;&emsp;&emsp;(iii) if, after conducting the best interest determination based on consideration of the presumption in clause (i) and the student-centered factors in clause (ii), the local educational agency determines that it is not in the child's or youth's best interest to attend the school of origin or the school requested by the parent or guardian, or (in the case of an unaccompanied youth) the youth, provide the child's or youth's parent or guardian or the unaccompanied youth with a written explanation of the reasons for its determination, in a manner and form understandable to such parent, guardian, or unaccompanied youth, including information regarding the right to appeal under subparagraph (E); and
 
-#### (C) Enrollment
+&emsp;&emsp;&emsp;(iv) in the case of an unaccompanied youth, ensure that the local educational agency liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, gives priority to the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
 
-&emsp;&emsp;(i) The school selected in accordance with this paragraph shall immediately enroll the homeless child or youth, even if the child or youth is unable to produce records normally required for enrollment, such as previous academic records, medical records, proof of residency, or other documentation.
+#### (C) Immediate enrollment
 
-&emsp;&emsp;(ii) The enrolling school shall immediately contact the school last attended by the child or youth to obtain relevant academic and other records.
+#### (i) In general
 
-&emsp;&emsp;(iii) If the child or youth needs to obtain immunizations, or immunization or medical records, the enrolling school shall immediately refer the parent or guardian of the child or youth to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall assist in obtaining necessary immunizations, or immunization or medical records, in accordance with subparagraph (D).
+&emsp;&emsp;&emsp;The school selected in accordance with this paragraph shall immediately enroll the homeless child or youth, even if the child or youth—
+
+&emsp;&emsp;&emsp;&emsp;(I) is unable to produce records normally required for enrollment, such as previous academic records, records of immunization and other required health records, proof of residency, or other documentation; or
+
+&emsp;&emsp;&emsp;&emsp;(II) has missed application or enrollment deadlines during any period of homelessness.
+
+#### (ii) Relevant academic records
+
+&emsp;&emsp;&emsp;The enrolling school shall immediately contact the school last attended by the child or youth to obtain relevant academic and other records.
+
+#### (iii) Relevant health records
+
+&emsp;&emsp;&emsp;If the child or youth needs to obtain immunizations or other required health records, the enrolling school shall immediately refer the parent or guardian of the child or youth, or (in the case of an unaccompanied youth) the youth, to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall assist in obtaining necessary immunizations or screenings, or immunization or other required health records, in accordance with subparagraph (D).
 
 #### (D) Records
 
-&emsp;&emsp;Any record ordinarily kept by the school, including immunization or medical records, academic records, birth certificates, guardianship records, and evaluations for special services or programs, regarding each homeless child or youth shall be maintained—
+&emsp;&emsp;Any record ordinarily kept by the school, including immunization or other required health records, academic records, birth certificates, guardianship records, and evaluations for special services or programs, regarding each homeless child or youth shall be maintained—
 
-&emsp;&emsp;&emsp;(i) so that the records are available, in a timely fashion, when a child or youth enters a new school or school district; and
+&emsp;&emsp;&emsp;(i) so that the records involved are available, in a timely fashion, when a child or youth enters a new school or school district; and
 
 &emsp;&emsp;&emsp;(ii) in a manner consistent with section 1232g of title 20.
 
 #### (E) Enrollment disputes
 
-&emsp;&emsp;If a dispute arises over school selection or enrollment in a school—
+&emsp;&emsp;If a dispute arises over eligibility, or school selection or enrollment in a school—
 
-&emsp;&emsp;&emsp;(i) the child or youth shall be immediately admitted to the school in which enrollment is sought, pending resolution of the dispute;
+&emsp;&emsp;&emsp;(i) the child or youth shall be immediately enrolled in the school in which enrollment is sought, pending final resolution of the dispute, including all available appeals;
 
-&emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth shall be provided with a written explanation of the school's decision regarding school selection or enrollment, including the rights of the parent, guardian, or youth to appeal the decision;
+&emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth or (in the case of an unaccompanied youth) the youth shall be provided with a written explanation of any decisions related to school selection or enrollment made by the school, the local educational agency, or the State educational agency involved, including the rights of the parent, guardian, or unaccompanied youth to appeal such decisions;
 
-&emsp;&emsp;&emsp;(iii) the child, youth, parent, or guardian shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
+&emsp;&emsp;&emsp;(iii) the parent, guardian, or unaccompanied youth shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
 
-&emsp;&emsp;&emsp;(iv) in the case of an unaccompanied youth, the homeless liaison shall ensure that the youth is immediately enrolled in school pending resolution of the dispute.
+&emsp;&emsp;&emsp;(iv) in the case of an unaccompanied youth, the liaison shall ensure that the youth is immediately enrolled in the school in which the youth seeks enrollment pending resolution of such dispute.
 
 #### (F) Placement choice
 
 &emsp;&emsp;The choice regarding placement shall be made regardless of whether the child or youth lives with the homeless parents or has been temporarily placed elsewhere.
 
-#### (G) School of origin defined
+#### (G) Privacy
 
-&emsp;&emsp;In this paragraph, the term "school of origin" means the school that the child or youth attended when permanently housed or the school in which the child or youth was last enrolled.
+&emsp;&emsp;Information about a homeless child's or youth's living situation shall be treated as a student education record, and shall not be deemed to be directory information, under section 1232g of title 20.
 
 #### (H) Contact information
 
-&emsp;&emsp;Nothing in this part shall prohibit a local educational agency from requiring a parent or guardian of a homeless child to submit contact information.
+&emsp;&emsp;Nothing in this part shall prohibit a local educational agency from requiring a parent or guardian of a homeless child or youth to submit contact information.
+
+#### (I) School of origin defined
+
+&emsp;&emsp;In this paragraph:
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term "school of origin" means the school that a child or youth attended when permanently housed or the school in which the child or youth was last enrolled, including a preschool.
+
+#### (ii) Receiving school
+
+&emsp;&emsp;&emsp;When the child or youth completes the final grade level served by the school of origin, as described in clause (i), the term "school of origin" shall include the designated receiving school at the next grade level for all feeder schools.
 
 #### (4) Comparable services
 
@@ -334,9 +382,9 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;(A) Transportation services.
 
-&emsp;&emsp;(B) Educational services for which the child or youth meets the eligibility criteria, such as services provided under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or similar State or local programs, educational programs for children with disabilities, and educational programs for students with limited English proficiency.
+&emsp;&emsp;(B) Educational services for which the child or youth meets the eligibility criteria, such as services provided under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) or similar State or local programs, educational programs for children with disabilities, and educational programs for English learners.
 
-&emsp;&emsp;(C) Programs in vocational and technical education.
+&emsp;&emsp;(C) Programs in career and technical education.
 
 &emsp;&emsp;(D) Programs for gifted and talented students.
 
@@ -348,9 +396,9 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
 
-&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or programs providing services to homeless children and youths andtheir families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); and
+&emsp;&emsp;&emsp;(i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); and
 
-&emsp;&emsp;&emsp;(ii) with other local educational agencies on interdistrict issues, such as transportation or transfer of school records.
+&emsp;&emsp;&emsp;(ii) transportation, transfer of school records, and other interdistrict activities, with other local educational agencies.
 
 #### (B) Housing assistance
 
@@ -360,9 +408,15 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;The coordination required under subparagraphs (A) and (B) shall be designed to—
 
-&emsp;&emsp;&emsp;(i) ensure that homeless children and youths have access and reasonable proximity to available education and related support services; and
+&emsp;&emsp;&emsp;(i) ensure that all homeless children and youths are promptly identified;
 
-&emsp;&emsp;&emsp;(ii) raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness.
+&emsp;&emsp;&emsp;(ii) ensure that all homeless children and youths have access to, and are in reasonable proximity to, available education and related support services; and
+
+&emsp;&emsp;&emsp;(iii) raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness.
+
+#### (D) Homeless children and youths with disabilities
+
+&emsp;&emsp;For children and youths who are to be assisted both under this part, and under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) or section 794 of title 29, each local educational agency shall coordinate the provision of services under this part with the provision of programs for children with disabilities served by that local educational agency and other involved local educational agencies.
 
 #### (6) Local educational agency liaison
 
@@ -370,33 +424,49 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;Each local educational agency liaison for homeless children and youths, designated under paragraph (1)(J)(ii), shall ensure that—
 
-&emsp;&emsp;&emsp;(i) homeless children and youths are identified by school personnel and through coordination activities with other entities and agencies;
+&emsp;&emsp;&emsp;(i) homeless children and youths are identified by school personnel through outreach and coordination activities with other entities and agencies;
 
-&emsp;&emsp;&emsp;(ii) homeless children and youths enroll in, and have a full and equal opportunity to succeed in, schools of that local educational agency;
+&emsp;&emsp;&emsp;(ii) homeless children and youths are enrolled in, and have a full and equal opportunity to succeed in, schools of that local educational agency;
 
-&emsp;&emsp;&emsp;(iii) homeless families, children, and youths receive educational services for which such families, children, and youths are eligible, including Head Start and Even Start programs and preschool programs administered by the local educational agency, and referrals to health care services, dental services, mental health services, and other appropriate services;
+&emsp;&emsp;&emsp;(iii) homeless families and homeless children and youths have access to and receive educational services for which such families, children, and youths are eligible, including services through Head Start programs (including Early Head Start programs) under the Head Start Act (42 U.S.C. 9831 et seq.), early intervention services under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), and other preschool programs administered by the local educational agency;
 
-&emsp;&emsp;&emsp;(iv) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
+&emsp;&emsp;&emsp;(iv) homeless families and homeless children and youths receive referrals to health care services, dental services, mental health and substance abuse services, housing services, and other appropriate services;
 
-&emsp;&emsp;&emsp;(v) public notice of the educational rights of homeless children and youths is disseminated where such children and youths receive services under this chapter, such as schools, family shelters, and soup kitchens;
+&emsp;&emsp;&emsp;(v) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
 
-&emsp;&emsp;&emsp;(vi) enrollment disputes are mediated in accordance with paragraph (3)(E); and
+&emsp;&emsp;&emsp;(vi) public notice of the educational rights of homeless children and youths is disseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;
 
-&emsp;&emsp;&emsp;(vii) the parent or guardian of a homeless child or youth, and any unaccompanied youth, is fully informed of all transportation services, including transportation to the school of origin, as described in paragraph (1)(J)(iii), and is assisted in accessing transportation to the school that is selected under paragraph (3)(A).
+&emsp;&emsp;&emsp;(vii) enrollment disputes are mediated in accordance with paragraph (3)(E);
+
+&emsp;&emsp;&emsp;(viii) the parent or guardian of a homeless child or youth, and any unaccompanied youth, is fully informed of all transportation services, including transportation to the school of origin, as described in paragraph (1)(J)(iii), and is assisted in accessing transportation to the school that is selected under paragraph (3)(A);
+
+&emsp;&emsp;&emsp;(ix) school personnel providing services under this part receive professional development and other support; and
+
+&emsp;&emsp;&emsp;(x) unaccompanied youths—
+
+&emsp;&emsp;&emsp;&emsp;(I) are enrolled in school;
+
+&emsp;&emsp;&emsp;&emsp;(II) have opportunities to meet the same challenging State academic standards as the State establishes for other children and youth, including through implementation of the procedures under paragraph (1)(F)(ii); and
+
+&emsp;&emsp;&emsp;&emsp;(III) are informed of their status as independent students under section 1087vv of title 20 and that the youths may obtain assistance from the local educational agency liaison to receive verification of such status for purposes of the Free Application for Federal Student Aid described in section 1090 of title 20.
 
 #### (B) Notice
 
-&emsp;&emsp;State coordinators established under subsection (d)(3) of this section and local educational agencies shall inform school personnel, service providers, and advocates working with homeless families of the duties of the local educational agency liaisons.
+&emsp;&emsp;State Coordinators established under subsection (d)(3) and local educational agencies shall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency's website.
 
 #### (C) Local and State coordination
 
-&emsp;&emsp;Local educational agency liaisons for homeless children and youths shall, as a part of their duties, coordinate and collaborate with State coordinators and community and school personnel responsible for the provision of education and related services to homeless children and youths.
+&emsp;&emsp;Local educational agency liaisons for homeless children and youths shall, as a part of their duties, coordinate and collaborate with State Coordinators and community and school personnel responsible for the provision of education and related services to homeless children and youths. Such coordination shall include collecting and providing to the State Coordinator the reliable, valid, and comprehensive data needed to meet the requirements of paragraphs (1) and (3) of subsection (f).
+
+#### (D) Homeless status
+
+&emsp;&emsp;A local educational agency liaison designated under paragraph (1)(J)(ii) who receives training described in subsection (f)(6) may affirm, without further agency action by the Department of Housing and Urban Development, that a child or youth who is eligible for and participating in a program provided by the local educational agency, or the immediate family of such a child or youth, who meets the eligibility requirements of this chapter for a program or service authorized under subchapter IV, is eligible for such program or service.
 
 #### (7) Review and revisions
 
 #### (A) In general
 
-&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youths in schools that are selected under paragraph (3).
+&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the identification of homeless children and youths or the enrollment of homeless children and youths in schools that are selected under paragraph (3).
 
 #### (B) Consideration
 
@@ -404,411 +474,23 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (C) Special attention
 
-&emsp;&emsp;Special attention shall be given to ensuring the enrollment and attendance of homeless children and youths who are not currently attending school.
-
-#### (h) Special rule for emergency assistance
-
-#### (1) Emergency assistance
-
-#### (A) Reservation of amounts
-
-&emsp;&emsp;Subject to paragraph (4) and notwithstanding any other provision of this subchapter, the Secretary shall use funds appropriated under section 11435 of this title for fiscal year 2009, but not to exceed $30,000,000, for the purposes of providing emergency assistance through grants.
-
-#### (B) General authority
-
-&emsp;&emsp;The Secretary shall use the funds to make grants to State educational agencies under paragraph (2), to enable the agencies to make subgrants to local educational agencies under paragraph (3), to provide activities described in section 11433(d) of this title for individuals referred to in subparagraph (C).
-
-#### (C) Eligible individuals
-
-&emsp;&emsp;Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting ofhomeless children and youths, and their families, who have become homeless due to home foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
-
-#### (2) Grants to State educational agencies
-
-#### (A) Disbursement
-
-&emsp;&emsp;The Secretary shall make grants with funds provided under paragraph (1)(A) to State educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the States involved, as determined by the Secretary.
-
-#### (B) Assurance
-
-&emsp;&emsp;To be eligible to receive a grant under this paragraph, a State educational agency shall provide an assurance to the Secretary that the State educational agency, and each local educational agency receiving a subgrant from the State educational agency under this subsection shall ensure that the activities carried out under this subsection are consistent with the activities described in section 11433(d) of this title.
-
-#### (3) Subgrants to local educational agencies
-
-&emsp;A State educational agency that receives a grant under paragraph (2) shall use the funds made available through the grant to make subgrants to local educational agencies. The State educational agency shall make the subgrants to local educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the areas served by the local educational agencies, as determined by the State educational agency.
-
-#### (4) Restriction
-
-&emsp;The Secretary—
-
-&emsp;&emsp;(A) shall determine the amount (if any) by which the funds appropriated under section 11435 of this title for fiscal year 2009 exceed $70,000,000; and
-
-&emsp;&emsp;(B) may only use funds from that amount to carry out this subsection.
+&emsp;&emsp;Special attention shall be given to ensuring the identification, enrollment, and attendance of homeless children and youths who are not currently attending school.
 
 (Pub. L. 100–77, title VII, §722, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 1990; amended Pub. L. 110–289, div. B, title IX, §2901(b), July 30, 2008, 122 Stat. 2875; Pub. L. 114–95, title IX, §9102, Dec. 10, 2015, 129 Stat. 2124.)
 
-#### Amendment of Section
-
-<i>Pub. L. 114–95, title IX, §§9102, 9107, Dec. 10, 2015, 129 Stat. 2124, 2137, provided that, effective Oct. 1, 2016, this section is amended—</i>
-
-<i>(1) by striking subsection (b) and inserting the following:</i>
-
-#### <i>"(b) Grants from allotments</i>
-
-<i>"The Secretary shall make the grants to States from the allotments made under subsection (c)(1).";</i>
-
-<i>(2) in subsection (d)—</i>
-
-<i>(A) in paragraph (2)—</i>
-
-<i>(i) by striking "To provide" and all that follows through "that enable" and inserting "To provide services and activities to improve the identification of homeless children and youths (including preschool-aged homeless children) and enable"; and</i>
-
-<i>(ii) by striking "or, if" and inserting "including, if";</i>
-
-<i>(B) in paragraph (3), by striking "designate" and all that follows and inserting "designate in the State educational agency an Office of the Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f)."; and</i>
-
-<i>(C) by striking paragraph (5) and inserting the following:</i>
-
-&emsp;<i>"(5) To develop and implement professional development programs for liaisons designated under subsection (g)(1)(J)(ii) and other local educational agency personnel—</i>
-
-&emsp;&emsp;<i>"(A) to improve their identification of homeless children and youths; and</i>
-
-&emsp;&emsp;<i>"(B) to heighten the awareness of the liaisons and personnel of, and their capacity to respond to, specific needs in the education of homeless children and youths.";</i>
-
-<i>(3) in subsection (e)—</i>
-
-<i>(A) in paragraph (1), by inserting "a State through grants under subsection (a) to" after "each year to";</i>
-
-<i>(B) in paragraph (2), by striking "funds made available for State use under this part" and inserting "the grant funds remaining after the State educational agency distributes subgrants under paragraph (1)"; and</i>
-
-<i>(C) in paragraph (3)—</i>
-
-<i>(i) in subparagraph (C)(iv)(II), by striking "sections 1111 and 1116" and inserting "section 1111";</i>
-
-<i>(ii) in subparagraph (E)(ii)(II), by striking "subsection (g)(6)(A)(v)" and inserting "subsection (g)(6)(A)(vi)"; and</i>
-
-<i>(iii) in subparagraph (F)—</i>
-
-<i>(I) in clause (i)—</i>
-
-<i>(aa) by striking "and" at the end of subclause (II);</i>
-
-<i>(bb) by striking the period at the end of subclause (III) and inserting "; and"; and</i>
-
-<i>(cc) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) the progress the separate schools are making in helping all students meet the challenging State academic standards."; and</i>
-
-<i>(II) in clause (iii), by striking "Not later than 2 years after January 8, 2002, the" and inserting "The";</i>
-
-<i>(4) by striking subsection (f) and inserting the following:</i>
-
-#### <i>"(f) Functions of the Office of the Coordinator</i>
-
-<i>"The Coordinator for Education of Homeless Children and Youths established in each State shall—</i>
-
-&emsp;<i>"(1) gather and make publicly available reliable, valid, and comprehensive information on—</i>
-
-&emsp;&emsp;<i>"(A) the number of homeless children and youths identified in the State, which shall be posted annually on the State educational agency's website;</i>
-
-&emsp;&emsp;<i>"(B) the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools;</i>
-
-&emsp;&emsp;<i>"(C) the difficulties in identifying the special needs and barriers to the participation and achievement of such children and youths;</i>
-
-&emsp;&emsp;<i>"(D) any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties; and</i>
-
-&emsp;&emsp;<i>"(E) the success of the programs under this part in identifying homeless children and youths and allowing such children and youths to enroll in, attend, and succeed in, school;</i>
-
-&emsp;<i>"(2) develop and carry out the State plan described in subsection (g);</i>
-
-&emsp;<i>"(3) collect data for and transmit to the Secretary, at such time and in such manner as the Secretary may reasonably require, a report containing information necessary to assess the educational needs of homeless children and youths within the State, including data necessary for the Secretary to fulfill the responsibilities under section 11434(h) of this title;</i>
-
-&emsp;<i>"(4) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—</i>
-
-&emsp;&emsp;<i>"(A) educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;</i>
-
-&emsp;&emsp;<i>"(B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.);</i>
-
-&emsp;&emsp;<i>"(C) providers of emergency, transitional, and permanent housing to homeless children and youths, and their families, including public housing agencies, shelter operators, operators of transitional housing facilities, and providers of transitional living programs for homeless youths;</i>
-
-&emsp;&emsp;<i>"(D) local educational agency liaisons designated under subsection (g)(1)(J)(ii) for homeless children and youths; and</i>
-
-&emsp;&emsp;<i>"(E) community organizations and groups representing homeless children and youths and their families;</i>
-
-&emsp;<i>"(5) provide technical assistance to and conduct monitoring of local educational agencies in coordination with local educational agency liaisons designated under subsection (g)(1)(J)(ii), to ensure that local educational agencies comply with the requirements of subsection (e)(3) and paragraphs (3) through (7) of subsection (g);</i>
-
-&emsp;<i>"(6) provide professional development opportunities for local educational agency personnel and the local educational agency liaison designated under subsection (g)(1)(J)(ii) to assist such personnel and liaison in identifying and meeting the needs of homeless children and youths, and provide training on the definitions of terms related to homelessness specified in sections 11302, 11360, and 11434a of this title to the liaison; and</i>
-
-&emsp;<i>"(7) respond to inquiries from parents and guardians of homeless children and youths, and (in the case of unaccompanied youths) such youths, to ensure that each child or youth who is the subject of such an inquiry receives the full protections and services provided by this part.";</i>
-
-<i>(5) by striking subsection (g) and inserting the following:</i>
-
-#### <i>"(g) State plan</i>
-
-#### <i>"(1) In general</i>
-
-&emsp;<i>"For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:</i>
-
-&emsp;&emsp;<i>"(A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic standards as all students are expected to meet.</i>
-
-&emsp;&emsp;<i>"(B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their needs.</i>
-
-&emsp;&emsp;<i>"(C) A description of procedures for the prompt resolution of disputes regarding the educational placement of homeless children and youths.</i>
-
-&emsp;&emsp;<i>"(D) A description of programs for school personnel (including liaisons designated under subparagraph (J)(ii), principals and other school leaders, attendance officers, teachers, enrollment personnel, and specialized instructional support personnel) to heighten the awareness of such school personnel of the specific needs of homeless children and youths, including such children and youths who are runaway and homeless youths.</i>
-
-&emsp;&emsp;<i>"(E) A description of procedures that ensure that homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local nutrition programs.</i>
-
-&emsp;&emsp;<i>"(F) A description of procedures that ensure that—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) homeless children have access to public preschool programs, administered by the State educational agency or local educational agency, as provided to other children in the State;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) youths described in section 11434a(2) of this title and youths separated from public schools are identified and accorded equal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) homeless children and youths who meet the relevant eligibility criteria do not face barriers to accessing academic and extracurricular activities, including magnet school, summer school, career and technical education, advanced placement, online learning, and charter school programs, if such programs are available at the State and local levels.</i>
-
-&emsp;&emsp;<i>"(G) Strategies to address problems identified in the report provided to the Secretary under subsection (f)(3).</i>
-
-&emsp;&emsp;<i>"(H) Strategies to address other problems with respect to the education of homeless children and youths, including problems resulting from enrollment delays that are caused by—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) requirements of immunization and other required health records;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) residency requirements;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) lack of birth certificates, school records, or other documentation;</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) guardianship issues; or</i>
-
-&emsp;&emsp;&emsp;<i>"(v) uniform or dress code requirements.</i>
-
-&emsp;&emsp;<i>"(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths in schools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.</i>
-
-&emsp;&emsp;<i>"(J) Assurances that the following will be carried out:</i>
-
-&emsp;&emsp;&emsp;<i>"(i) The State educational agency and local educational agencies in the State will adopt policies and practices to ensure that homeless children and youths are not stigmatized or segregated on the basis of their status as homeless.</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) The local educational agencies will designate an appropriate staff person, able to carry out the duties described in paragraph (6)(A), who may also be a coordinator for other Federal programs, as a local educational agency liaison for homeless children and youths.</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) The State and the local educational agencies in the State will adopt policies and practices to ensure that transportation is provided, at the request of the parent or guardian (or in the case of an unaccompanied youth, the liaison), to and from the school of origin (as determined under paragraph (3)), in accordance with the following, as applicable:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) If the child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) If the child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing the child's or youth's education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child or youth with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant to paragraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.</i>
-
-&emsp;&emsp;<i>"(K) A description of how youths described in section 11434a(2) of this title will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.</i>
-
-#### <i>"(2) Compliance</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"Each plan adopted under this subsection shall also describe how the State will ensure that local educational agencies in the State will comply with the requirements of paragraphs (3) through (7).</i>
-
-#### <i>"(B) Coordination</i>
-
-&emsp;&emsp;<i>"Such plan shall indicate what technical assistance the State will furnish to local educational agencies and how compliance efforts will be coordinated with the local educational agency liaisons designated under paragraph (1)(J)(ii).</i>
-
-#### <i>"(3) Local educational agency requirements</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"The local educational agency serving each child or youth to be assisted under this part shall, according to the child's or youth's best interest—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) continue the child's or youth's education in the school of origin for the duration of homelessness—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) in any case in which a family becomes homeless between academic years or during an academic year; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) for the remainder of the academic year, if the child or youth becomes permanently housed during an academic year; or</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) enroll the child or youth in any public school that nonhomeless students who live in the attendance area in which the child or youth is actually living are eligible to attend.</i>
-
-#### <i>"(B) School stability</i>
-
-&emsp;&emsp;<i>"In determining the best interest of the child or youth under subparagraph (A), the local educational agency shall—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) presume that keeping the child or youth in the school of origin is in the child's or youth's best interest, except when doing so is contrary to the request of the child's or youth's parent or guardian, or (in the case of an unaccompanied youth) the youth;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) consider student-centered factors related to the child's or youth's best interest, including factors related to the impact of mobility on achievement, education, health, and safety of homeless children and youth, giving priority to the request of the child's or youth's parent or guardian or (in the case of an unaccompanied youth) the youth;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) if, after conducting the best interest determination based on consideration of the presumption in clause (i) and the student-centered factors in clause (ii), the local educational agency determines that it is not in the child's or youth's best interest to attend the school of origin or the school requested by the parent or guardian, or (in the case of an unaccompanied youth) the youth, provide the child's or youth's parent or guardian or the unaccompanied youth with a written expla</i><i>nation of the reasons for its determination, in a manner and form understandable to such parent, guardian, or unaccompanied youth, including information regarding the right to appeal under subparagraph (E); and</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) in the case of an unaccompanied youth, ensure that the local educational agency liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, gives priority to the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).</i>
-
-#### <i>"(C) Immediate enrollment</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"The school selected in accordance with this paragraph shall immediately enroll the homeless child or youth, even if the child or youth—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) is unable to produce records normally required for enrollment, such as previous academic records, records of immunization and other required health records, proof of residency, or other documentation; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) has missed application or enrollment deadlines during any period of homelessness.</i>
-
-#### <i>"(ii) Relevant academic records</i>
-
-&emsp;&emsp;&emsp;<i>"The enrolling school shall immediately contact the school last attended by the child or youth to obtain relevant academic and other records.</i>
-
-#### <i>"(iii) Relevant health records</i>
-
-&emsp;&emsp;&emsp;<i>"If the child or youth needs to obtain immunizations or other required health records, the enrolling school shall immediately refer the parent or guardian of the child or youth, or (in the case of an unaccompanied youth) the youth, to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall assist in obtaining necessary immunizations or screenings, or immunization or other required health records, in accordance with subparagraph (D).</i>
-
-#### <i>"(D) Records</i>
-
-&emsp;&emsp;<i>"Any record ordinarily kept by the school, including immunization or other required health records, academic records, birth certificates, guardianship records, and evaluations for special services or programs, regarding each homeless child or youth shall be maintained—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) so that the records involved are available, in a timely fashion, when a child or youth enters a new school or school district; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) in a manner consistent with section 1232g of title 20.</i>
-
-#### <i>"(E) Enrollment disputes</i>
-
-&emsp;&emsp;<i>"If a dispute arises over eligibility, or school selection or enrollment in a school—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the child or youth shall be immediately enrolled in the school in which enrollment is sought, pending final resolution of the dispute, including all available appeals;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the parent or guardian of the child or youth or (in the case of an unaccompanied youth) the youth shall be provided with a written explanation of any decisions related to school selection or enrollment made by the school, the local educational agency, or the State educational agency involved, including the rights of the parent, guardian, or unaccompanied youth to appeal such decisions;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) the parent, guardian, or unaccompanied youth shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) in the case of an unaccompanied youth, the liaison shall ensure that the youth is immediately enrolled in the school in which the youth seeks enrollment pending resolution of such dispute.</i>
-
-#### <i>"(F) Placement choice</i>
-
-&emsp;&emsp;<i>"The choice regarding placement shall be made regardless of whether the child or youth lives with the homeless parents or has been temporarily placed elsewhere.</i>
-
-#### <i>"(G) Privacy</i>
-
-&emsp;&emsp;<i>Information about a homeless child's or youth's living situation shall be treated as a student education record, and shall not be deemed to be directory information, under section 1232g of title 20.</i>
-
-#### <i>"(H) Contact information</i>
-
-&emsp;&emsp;<i>"Nothing in this part shall prohibit a local educational agency from requiring a parent or guardian of a homeless child or youth to submit contact information.</i>
-
-#### <i>"(I) School of origin defined</i>
-
-&emsp;&emsp;<i>"In this paragraph:</i>
-
-#### <i>"(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>"The term 'school of origin' means the school that a child or youth attended when permanently housed or the school in which the child or youth was last enrolled, including a preschool.</i>
-
-#### <i>"(ii) Receiving school</i>
-
-&emsp;&emsp;&emsp;<i>"When the child or youth completes the final grade level served by the school of origin, as described in clause (i), the term 'school of origin' shall include the designated receiving school at the next grade level for all feeder schools.</i>
-
-#### <i>"(4) Comparable services</i>
-
-&emsp;<i>"Each homeless child or youth to be assisted under this part shall be provided services comparable to services offered to other students in the school selected under paragraph (3), including the following:</i>
-
-&emsp;&emsp;<i>"(A) Transportation services.</i>
-
-&emsp;&emsp;<i>"(B) Educational services for which the child or youth meets the eligibility criteria, such as services provided under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) or similar State or local programs, educational programs for children with disabilities, and educational programs for English learners.</i>
-
-&emsp;&emsp;<i>"(C) Programs in career and technical education.</i>
-
-&emsp;&emsp;<i>"(D) Programs for gifted and talented students.</i>
-
-&emsp;&emsp;<i>"(E) School nutrition programs.</i>
-
-#### <i>"(5) Coordination</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.); and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) transportation, transfer of school records, and other interdistrict activities, with other local educational agencies.</i>
-
-#### <i>"(B) Housing assistance</i>
-
-&emsp;&emsp;<i>"If applicable, each State educational agency and local educational agency that receives assistance under this part shall coordinate with State and local housing agencies responsible for developing the comprehensive housing affordability strategy described in section 12705 of this title to minimize educational disruption for children and youths who become homeless.</i>
-
-#### <i>"(C) Coordination purpose</i>
-
-&emsp;&emsp;<i>"The coordination required under subparagraphs (A) and (B) shall be designed to—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) ensure that all homeless children and youths are promptly identified;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) ensure that all homeless children and youths have access to, and are in reasonable proximity to, available education and related support services; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness.</i>
-
-#### <i>"(D) Homeless children and youths with disabilities</i>
-
-&emsp;&emsp;<i>"For children and youths who are to be assisted both under this part, and under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) or section 794 of title 29, each local educational agency shall coordinate the provision of services under this part with the provision of programs for children with disabilities served by that local educational agency and other involved local educational agencies.</i>
-
-#### <i>"(6) Local educational agency liaison</i>
-
-#### <i>"(A) Duties</i>
-
-&emsp;&emsp;<i>"Each local educational agency liaison for homeless children and youths, designated under paragraph (1)(J)(ii), shall ensure that—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) homeless children and youths are identified by school personnel through outreach and coordination activities with other entities and agencies;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) homeless children and youths are enrolled in, and have a full and equal opportunity to succeed in, schools of that local educational agency;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) homeless families and homeless children and youths have access to and receive educational services for which such families, children, and youths are eligible, including services through Head Start programs (including Early Head Start programs) under the Head Start Act (42 U.S.C. 9831 et seq.), early intervention services under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), and other preschool programs administered by the local educational agency;</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) homeless families and homeless children and youths receive referrals to health care services, dental services, mental health and substance abuse services, housing services, and other appropriate services;</i>
-
-&emsp;&emsp;&emsp;<i>"(v) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;</i>
-
-&emsp;&emsp;&emsp;<i>"(vi) public notice of the educational rights of homeless children and youths is disseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;</i>
-
-&emsp;&emsp;&emsp;<i>"(vii) enrollment disputes are mediated in accordance with paragraph (3)(E);</i>
-
-&emsp;&emsp;&emsp;<i>"(viii) the parent or guardian of a homeless child or youth, and any unaccompanied youth, is fully informed of all transportation services, including transportation to the school of origin, as described in paragraph (1)(J)(iii), and is assisted in accessing transportation to the school that is selected under paragraph (3)(A);</i>
-
-&emsp;&emsp;&emsp;<i>"(ix) school personnel providing services under this part receive professional development and other support; and</i>
-
-&emsp;&emsp;&emsp;<i>"(x) unaccompanied youths—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) are enrolled in school;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) have opportunities to meet the same challenging State academic standards as the State establishes for other children and youth, including through implementation of the procedures under paragraph (1)(F)(ii); and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) are informed of their status as independent students under section 1087vv of title 20 and that the youths may obtain assistance from the local educational agency liaison to receive verification of such status for purposes of the Free Application for Federal Student Aid described in section 1090 of title 20.</i>
-
-#### <i>"(B) Notice</i>
-
-&emsp;&emsp;<i>"State Coordinators established under subsection (d)(3) and local educational agencies shall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency's website.</i>
-
-#### <i>"(C) Local and State coordination</i>
-
-&emsp;&emsp;"Local educational agency liaisons for homeless children and youths shall, as a part of their duties, coordinate and collaborate with State Coordinators and community and school personnel responsible for the provision of education and related services to homeless children and youths. Such coordination shall include collecting and providing to the State Coordinator the reliable, valid, and comprehensive data needed to meet the requirements of paragraphs (1) and (3) of subsection (f).
-
-#### <i>"(D) Homeless status</i>
-
-&emsp;&emsp;<i>"A local educational agency liaison designated under paragraph (1)(J)(ii) who receives training described in subsection (f)(6) may affirm, without further agency action by the Department of Housing and Urban Development, that a child or youth who is eligible for and participating in a program provided by the local educational agency, or the immediate family of such a child or youth, who meets the eligibility requirements of this chapter for a program or service authorized under subchapter IV, is eligible for such program or service.</i>
-
-#### <i>"(7) Review and revisions</i>
-
-#### <i>"(A) In general</i>
-
-&emsp;&emsp;<i>"Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the identification of homeless children and youths or the enrollment of homeless children and youths in schools that are selected under paragraph (3).</i>
-
-#### <i>"(B) Consideration</i>
-
-&emsp;&emsp;<i>"In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records and other documentation, and guardianship.</i>
-
-#### <i>"(C) Special attention</i>
-
-&emsp;&emsp;<i>"Special attention shall be given to ensuring the identification, enrollment, and attendance of homeless children and youths who are not currently attending school."; and</i>
-
-<i>(6) by striking subsection (h).</i>
-
-<i>See 2015 Amendment notes below.</i>
-
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
-The Runaway and Homeless Youth Act, referred to in subsec. (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-This chapter, referred to in subsec. (g)(6)(A)(v), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (g)(5)(D), (6)(A)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+The Head Start Act, referred to in subsec. (g)(6)(A)(iii), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+
+This chapter, referred to in subsec. (g)(6)(D), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -842,11 +524,13 @@ Subsec. (f). Pub. L. 114–95, §9102(4), added subsec. (f) and struck out forme
 
 Subsec. (g). Pub. L. 114–95, §9102(5), added subsec. (g) and struck out former subsec. (g) which related to State plans to provide for the education of homeless children and youths.
 
-Subsec. (h). Pub. L. 114–95, §9102(6), struck out subsec. (h) which related to emergency assistance for certainindividuals who become homeless due to home foreclosure.
+Subsec. (h). Pub. L. 114–95, §9102(6), struck out subsec. (h) which related to emergency assistance for certain individuals who become homeless due to home foreclosure.
 
 <b>2008</b>—Subsec. (h). Pub. L. 110–289 added subsec. (h).
 
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under section 11431 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

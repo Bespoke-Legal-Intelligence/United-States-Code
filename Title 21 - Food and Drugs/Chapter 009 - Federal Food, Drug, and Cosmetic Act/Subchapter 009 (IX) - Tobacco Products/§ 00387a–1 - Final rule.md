@@ -12,7 +12,7 @@
 
 #### (2) Contents of rule
 
-&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shall be identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
+&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shallbe identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
 
 &emsp;&emsp;(A) provide for the designation of jurisdictional authority that is in accordance with this subsection in accordance with this division and the amendments made by this division;
 
@@ -78,7 +78,7 @@
 
 #### (4) Rule of construction
 
-&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit the authority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
+&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit theauthority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
 
 #### (5) Enforcement of retail sale provisions
 

@@ -32,7 +32,7 @@ Nothing in this section shall be construed to entitle an alien to whom a permit 
 
 #### (e) Revocation of proclamation as affecting penalties
 
-The revocation of any rule, regulation, or order issued in pursuance of this section shallnot prevent prosecution for any offense committed, or the imposition of any penalties or forfeitures, liability for which was incurred under this section prior to the revocation of such rule, regulation, or order.
+The revocation of any rule, regulation, or order issued in pursuance of this section shall not prevent prosecution for any offense committed, or the imposition of any penalties or forfeitures, liability for which was incurred under this section prior to the revocation of such rule, regulation, or order.
 
 #### (f) Permits to enter
 
@@ -73,6 +73,14 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
 
 Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
+
+#### Trusted Traveler Programs
+
+Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided that: "The Secretary of Homeland Security may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
+
+&emsp;"(1) routinely submits to INTERPOL for inclusion in INTERPOL's Stolen and Lost Travel Documents database information about lost and stolen passports and travel documents of the citizens and nationals of such country; or
+
+&emsp;"(2) makes available to the United States Government the information described in paragraph (1) through another means of reporting."
 
 #### Asia-Pacific Economic Cooperation Business Travel Cards
 
@@ -134,7 +142,7 @@ Termination of Program.—The Secretary of Homeland Security, in coordination wi
 
 #### Western Hemisphere Travel Initiative
 
-Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: "Before the Secretary of HomelandSecurity publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
+Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: "Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reformand Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
 
 &emsp;"(1) the Secretary of Homeland Security shall complete a cost-benefit analysis of the Western Hemisphere Travel Initiative, authorized under such section 7209; and
 
@@ -206,7 +214,7 @@ Technical and Conforming Amendments.—After the complete implementation of the 
 
 &emsp;"(2) the President may not exercise discretion under section 215(b) of such Act (8 U.S.C. 1185(b)) to waive documentary requirements for United States citizens departing from or entering, or attempting to depart from or enter, the United States except—
 
-&emsp;&emsp;"(A) where the Secretary of Homeland Security determines that the alternative documentation that is the basis for the waiver of the documentary requirement is sufficient to denote identity and citizenship;
+&emsp;&emsp;"(A) where the Secretary of Homeland Security determines that the alternative documentationthat is the basis for the waiver of the documentary requirement is sufficient to denote identity and citizenship;
 
 &emsp;&emsp;"(B) in the case of an unforeseen emergency in individual cases; or
 

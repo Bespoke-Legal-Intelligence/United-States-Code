@@ -20,7 +20,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 #### (c) Payments to local governments
 
-(1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquired by the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
+(1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquiredby the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
 
 (2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during the last full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
 
@@ -72,7 +72,7 @@ Except as otherwise provided in subsection (e) or in section 544o of this title,
 
 &emsp;&emsp;(iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
-&emsp;&emsp;(v) Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 (42 U.S.C. 5145 and 5146) <sup>2</sup> and section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) <sup>2</sup> and are limited to actions that are necessary to alleviate the emergency.
+&emsp;&emsp;(v) Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 (42 U.S.C. 5145 and 5146) <sup>2</sup>and section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) <sup>2</sup> and are limited to actions that are necessary to alleviate the emergency.
 
 &emsp;&emsp;(vi) The maintenance, replacement, reconstruction, or repair, but not the expansion, of publicly owned or publicly operated roads, structures, or facilities. This clause shall not apply to roads, structures, or facilities referred to in paragraph (3)(B).
 
@@ -102,7 +102,7 @@ The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was rename
 
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (e)(3)(D)(v), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see ShortTitle note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Amendments
 

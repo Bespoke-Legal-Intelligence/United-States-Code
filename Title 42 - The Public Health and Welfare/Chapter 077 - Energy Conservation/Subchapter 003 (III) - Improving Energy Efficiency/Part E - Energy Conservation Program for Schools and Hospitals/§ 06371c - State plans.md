@@ -2,7 +2,7 @@
 
 #### (a) Invitation to State energy agency to submit plan; contents
 
-The Secretary shall invite the State energy agency of each State to submit, within 90 days after the effective date of the guidelines prescribed pursuant to section 6371a of this title, or such longer period as the Secretary may, forgood cause, allow, a State plan under this section for such State. Such plan shall include—
+The Secretary shall invite the State energy agency of each State to submit, within 90 days after the effective date of the guidelines prescribed pursuant to section 6371a of this title, or such longer period as the Secretary may, for good cause, allow, a State plan under this section for such State. Such plan shall include—
 
 &emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed under section 6371a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures and installation of energy conservation measures in the schools and hospitals in such State;
 
@@ -26,7 +26,7 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 #### (b) Approval of plans
 
-The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section, the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) of this section has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
+The Secretary shall review and approve or disapprove each State plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section, the Secretary shall approve the plan. If a State plan submitted within the 90-day period specified in subsection (a) of this section has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new oramended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
 
 #### (c) Development and implementation of approved plans; submission of proposed State plan
 

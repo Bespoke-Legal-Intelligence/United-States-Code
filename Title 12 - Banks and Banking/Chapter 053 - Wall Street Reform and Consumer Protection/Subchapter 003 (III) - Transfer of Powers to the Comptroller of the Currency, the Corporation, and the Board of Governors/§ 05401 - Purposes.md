@@ -18,7 +18,7 @@ This title, referred to in text, is title III of Pub. L. 111–203, July 21, 201
 
 #### Effective Date
 
-Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

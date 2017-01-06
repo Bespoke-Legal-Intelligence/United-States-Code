@@ -32,7 +32,7 @@ Grants.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (D), for a fiscal year, the Secretary of the Treasury, in consultation with the Attorney General, may grant to an eligible applicant under this section for that fiscal year, an amount determined by the Secretary of the Treasury, in consultation with the Attorney General, to be appropriate.
+In general.—Subject to subparagraph (D), for a fiscal year, the Secretary of theTreasury, in consultation with the Attorney General, may grant to an eligible applicant under this section for that fiscal year, an amount determined by the Secretary of the Treasury, in consultation with the Attorney General, to be appropriate.
 
 &emsp;&emsp;(B)
 

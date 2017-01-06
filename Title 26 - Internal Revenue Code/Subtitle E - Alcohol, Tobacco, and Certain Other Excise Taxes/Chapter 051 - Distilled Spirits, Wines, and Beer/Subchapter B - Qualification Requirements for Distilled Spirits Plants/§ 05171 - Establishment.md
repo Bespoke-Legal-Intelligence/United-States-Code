@@ -16,11 +16,11 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (2) Application required where new operations are added
 
-&emsp;No operation in addition to those set forth in the application made pursuant to paragraph (1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
+&emsp;No operation in addition to those set forth in the application made pursuant to paragraph\(1) may be conducted at a distilled spirits plant until the person has made application to the Secretary for, and received notice of, the registration of such additional operation.
 
 #### (3) Secretary may establish minimum capacity and level of activity requirements
 
-&emsp;The Secretary may by regulations prescribe for each type of operation minimum capacityand level of activity requirements for qualifying premises as a distilled spirits plant.
+&emsp;The Secretary may by regulations prescribe for each type of operation minimum capacity and level of activity requirements for qualifying premises as a distilled spirits plant.
 
 #### (4) Applicant must comply with law and regulations
 
@@ -104,11 +104,11 @@ In general.—For purposes of section 5171 of the Internal Revenue Code of 1986 
 
 &emsp;"(2)
 
-Current registration to remain in effect.—Notwithstanding paragraph (1), the registration of any person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
+Current registration to remain in effect.—Notwithstanding paragraph (1), the registration ofany person under section 5171 of the Internal Revenue Code of 1986 which is in effect on December 31, 1979, shall remain in effect until final action on the application required by paragraph (1).
 
 "(b)
 
-Continuing Operations at Existing Premises.—With respect to any operation which was permitted tobe conducted on May 1, 1979, at premises which were registered on such date under section 5171 of the Internal Revenue Code of 1986, the determination of whether such premises qualify for registration under such section as a distilled spirits plant shall be made without regard to whether or not—
+Continuing Operations at Existing Premises.—With respect to any operation which was permitted to be conducted on May 1, 1979, at premises which were registered on such date under section 5171 of the Internal Revenue Code of 1986, the determination of whether such premises qualify for registration under such section as a distilled spirits plant shall be made without regard to whether or not—
 
 &emsp;"(1) the person engaged in operations at such premises is registered under such section with respect to such premises as a distiller or warehouseman, and
 

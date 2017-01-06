@@ -1,0 +1,6 @@
+### §728. Omitted
+
+#### Codification
+
+Section, act Aug. 23, 1954, ch. 831, §8, 68 Stat. 769, which related to protection of Alabama and Coushatta Indians and conservation of resources after the date of the proclamation, was omitted from the Code as being of special and not general application.
+

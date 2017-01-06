@@ -20,7 +20,7 @@ In this chapter:
 
 #### (5) Indian tribe
 
-&emsp;The term "Indian tribe" means any Indian or Alaska Native tribe, band, nation, pueblo, village, or other community the name of which is included on a list published by the Secretary of the Interior pursuant to section 479a–1 of this title.
+&emsp;The term "Indian tribe" means any Indian or Alaska Native tribe, band, nation, pueblo,village, or other community the name of which is included on a list published by the Secretary of the Interior pursuant to section 5131 of this title.
 
 #### (6) Lineal descendant
 

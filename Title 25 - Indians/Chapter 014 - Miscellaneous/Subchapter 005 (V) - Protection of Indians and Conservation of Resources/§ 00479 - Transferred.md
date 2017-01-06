@@ -1,0 +1,6 @@
+### §479. Transferred
+
+#### Codification
+
+Section 479 was editorially reclassified as section 5129 of this title.
+

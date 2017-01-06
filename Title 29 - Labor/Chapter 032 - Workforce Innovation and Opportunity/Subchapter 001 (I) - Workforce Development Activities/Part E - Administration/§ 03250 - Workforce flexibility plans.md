@@ -4,7 +4,7 @@
 
 A State may submit to the Secretary, and the Secretary may approve, a workforce flexibility plan under which the State is authorized to waive, in accordance with the plan—
 
-&emsp;(1) any of the statutory or regulatory requirements applicable under this subchapter to local areas, pursuant to applications for such waivers from the local areas, except for requirements relating to the basic purposes of this subchapter, wage and labor standards, grievance procedures and judicial review, nondiscrimination, eligibility of participants, allocation of funds to local areas, establishmentand functions of local areas and local boards, procedures for review and approval of local plans, and worker rights, participation, and protection;
+&emsp;(1) any of the statutory or regulatory requirements applicable under this subchapter to local areas, pursuant to applications for such waivers from the local areas, except for requirements relating to the basic purposes of this subchapter, wage and labor standards, grievance procedures and judicial review, nondiscrimination, eligibility of participants, allocation of funds to local areas, establishment and functions of local areas and local boards, procedures for review and approval of local plans, and worker rights, participation, and protection;
 
 &emsp;(2) any of the statutory or regulatory requirements applicable under sections 49g through 49i of this title to the State (excluding requirements relating to the provision of services to unemployment insurance claimants and veterans, and requirements relating to universal access to basic labor exchange services without cost to jobseekers); and
 
@@ -42,7 +42,7 @@ The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is P
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 #### Workforce Flexibility Partnership Demonstration Program
 

@@ -1,0 +1,6 @@
+### §701. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §11, 68 Stat. 726, which related to advances and expenditures from tribal funds, was omitted from the Code as being of special and not general application.
+

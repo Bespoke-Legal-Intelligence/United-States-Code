@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 92–166, §1(4), substituted "Army program: 6500" for "Arm
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §521(c), Nov. 24, 2003, 117 Stat. 1463, provided that: "The amendments madeby this section \[amending this section and section 2107a of this title\] shall apply to payment of expenses of cadets and midshipmen of the Senior Reserve Officers' Training Corps program that are due after the date of the enactment of this Act \[Nov. 24, 2003\]."
+Pub. L. 108–136, div. A, title V, §521(c), Nov. 24, 2003, 117 Stat. 1463, provided that: "The amendments made by this section \[amending this section and section 2107a of this title\] shall apply to payment of expenses of cadets and midshipmen of the Senior Reserve Officers' Training Corps program that are due after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Effective Date of 1992 Amendment
 

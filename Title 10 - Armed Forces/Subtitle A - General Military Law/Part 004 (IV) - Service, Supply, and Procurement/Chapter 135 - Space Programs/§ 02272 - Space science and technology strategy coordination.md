@@ -2,7 +2,7 @@
 
 The Secretary of Defense and the Director of National Intelligence shall jointly develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy biennially. Functions of the Secretary under this section shall be carried out jointly by the Assistant Secretary of Defense for Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.
 
-(Added Pub. L. 108–136, div. A, title IX, §911(a)(1), Nov. 24, 2003, 117 Stat. 1563; amended Pub. L.111–84, div. A, title IX, §911(a)(1)–(3), Oct. 28, 2009, 123 Stat. 2428, 2429; Pub. L. 111–383, div. A, title IX, §901(j)(2), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 114–92, div. A, title XVI, §1604, Nov. 25, 2015, 129 Stat. 1098.)
+(Added Pub. L. 108–136, div. A, title IX, §911(a)(1), Nov. 24, 2003, 117 Stat. 1563; amended Pub. L. 111–84, div. A, title IX, §911(a)(1)–(3), Oct. 28, 2009, 123 Stat. 2428, 2429; Pub. L. 111–383, div. A, title IX, §901(j)(2), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 114–92, div. A, title XVI, §1604, Nov. 25, 2015, 129 Stat. 1098.)
 
 #### Prior Provisions
 

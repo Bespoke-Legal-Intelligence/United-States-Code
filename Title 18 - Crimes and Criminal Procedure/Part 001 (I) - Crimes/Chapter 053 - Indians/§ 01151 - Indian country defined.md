@@ -30,5 +30,5 @@ This section \[section 25\], by adding to section 1151 of title 18, U.S.C., the 
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–297, §1, May 29, 1976, 90 Stat. 585, provided: "That this Act \[amending sections 113, 1153, and 3242 of this title\] may be cited as the 'Indian Crimes Act of 1976'."
+Pub. L. 94–297, §1, May 29, 1976, 90 Stat. 585, provided: "That this Act \[amending sections 113, 1153, and 3242 ofthis title\] may be cited as the 'Indian Crimes Act of 1976'."
 

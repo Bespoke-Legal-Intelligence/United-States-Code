@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to make insured loans under this subchapter and at the interestrates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
+The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
 #### (b) Insured loans
 
@@ -62,7 +62,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) the average revenue per kilowatt-hour sold by the applicant is more than the average revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) the average per capita income of the residents receiving electric servicefrom the applicant is less than the average per capita income of the residents of the State in which the applicant provides service, or the median household income of the households receiving electric service from the applicant is less than the median household income of the households in the State.
+&emsp;&emsp;&emsp;&emsp;(bb) the average per capita income of the residents receiving electric service from the applicant is less than the average per capita income of the residents of the State in which the applicant provides service, or the median household income of the households receiving electric service from the applicant is less than the median household income of the households in the State.
 
 #### (iii) Exception
 
@@ -206,7 +206,7 @@ Pub. L. 97–35, title I, §165(d), Aug. 13, 1981, 95 Stat. 379, provided that: 
 
 #### Effective Date of 1976 Amendment; Interest Rate
 
-Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
+Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
 
 #### Effective Date
 

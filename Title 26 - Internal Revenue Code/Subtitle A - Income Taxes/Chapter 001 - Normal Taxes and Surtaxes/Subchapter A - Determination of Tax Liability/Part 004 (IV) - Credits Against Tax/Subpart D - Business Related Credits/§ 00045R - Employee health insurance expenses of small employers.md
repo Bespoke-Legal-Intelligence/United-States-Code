@@ -214,7 +214,7 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (h), is P
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(3)(B). Pub. L. 111–148, §10105(e)(1), amended subpar. (B) generally, including dollar amountfor taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years.
+<b>2010</b>—Subsec. (d)(3)(B). Pub. L. 111–148, §10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years.
 
 Subsec. (g). Pub. L. 111–148, §10105(e)(2), substituted "2010, 2011" for "2011" in heading and in introductory provisions.
 

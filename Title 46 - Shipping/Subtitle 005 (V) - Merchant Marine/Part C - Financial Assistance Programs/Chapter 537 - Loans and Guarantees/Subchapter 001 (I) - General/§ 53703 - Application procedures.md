@@ -62,7 +62,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(4) The President has requested no funding for the loan guarantee program despite the stated national policy to foster the development and encourage the maintenance of a merchant marine in section 50101 of title 46, United States Code.
 
-&emsp;"(5) United States commercial shipyards were placed at a competitive disadvantage in the worldshipbuilding market by government subsidized foreign commercial shipyards.
+&emsp;"(5) United States commercial shipyards were placed at a competitive disadvantage in the world shipbuilding market by government subsidized foreign commercial shipyards.
 
 &emsp;"(6) The maritime loan guarantee program has the potential to modernize shipyards and the ships of the United States coastwise trade and restore a competitive position in the world shipbuilding market for United States shipyards.
 
@@ -82,7 +82,7 @@ Deadline for action on application.—
 
 &emsp;&emsp;"(A)
 
-Traditional applications.—In the comprehensive plan the Administrator will ensure that within the 90-day period following receipt of all pertinent documentation required for review of a traditional loan application, the application shall be either accepted or rejected.
+Traditional applications.—In the comprehensive plan the Administrator will ensure thatwithin the 90-day period following receipt of all pertinent documentation required for review of a traditional loan application, the application shall be either accepted or rejected.
 
 &emsp;&emsp;"(B)
 

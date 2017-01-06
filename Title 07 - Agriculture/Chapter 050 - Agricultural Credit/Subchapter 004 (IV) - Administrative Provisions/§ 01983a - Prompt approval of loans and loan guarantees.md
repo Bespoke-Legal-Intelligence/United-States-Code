@@ -2,7 +2,7 @@
 
 #### (a) Applications; time for action by Secretary; notice; statement of reasons
 
-(1) The Secretary shall approve or disapprove an application for a loan or loan guarantee made under this chapter, and notify the applicant of such action, not later than 60 days after the Secretary has received a complete application for such loan or loan guarantee.
+(1) The Secretary shall approve or disapprove an application for a loan or loan guarantee made under this chapter, and notify the applicant ofsuch action, not later than 60 days after the Secretary has received a complete application for such loan or loan guarantee.
 
 (2)(A) If an application for a loan or loan guarantee under this chapter (other than under subchapter II) is incomplete, the Secretary shall inform the applicant of the reasons such application is incomplete not later than 20 days after the Secretary has received such application.
 
@@ -80,7 +80,7 @@ Notification.—The Secretary shall notify each borrower of a loan that a prospe
 
 Credit extended.—If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II, except as otherwise provided in this subsection.
 
-(5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required tocarry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II, whichever is applicable.
+(5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required to carry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II, whichever is applicable.
 
 (6) To the extent necessary for the borrower to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender, the Secretary shall provide interest rate reductions as provided for under section 1999 of this title.
 
@@ -126,7 +126,7 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128 Stat. 847.)
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat.1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128 Stat. 847.)
 
 #### References in Text
 

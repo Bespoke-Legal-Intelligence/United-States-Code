@@ -42,7 +42,7 @@ The Chairperson shall coordinate the programs of the National Endowment for the 
 
 #### (e) Limitation on amount of grant for workshop activities for which an admission or other charge is made to the general public
 
-The total amount of any grant under subsection (c)(3) of this section to any group engaging in workshop activities for which an admission or other charge is made to the general public shall not exceed 30 per centum of the total cost of such activities.
+The total amount of any grant under subsection (c)(3) to any group engaging in workshop activities for which an admission or other charge is made to the general public shall not exceed 30 per centum of the total cost of such activities.
 
 #### (f) Grants-in-aid programs; designation of State administrative agency; matching funds; applications and plans; allotments; cost limitations; grants to regional groups; non-Federal funding; definitions; suspension of grants; single entity limitation
 
@@ -56,7 +56,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(iii) provides, from State funds, an amount equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved;
 
-&emsp;(iv) provides that funds paid to the State under this subsection will be expended solely on programs approved by the State agency which carry out the objectives of subsection (c) of this section and which are designed to bring the humanities to the public;
+&emsp;(iv) provides that funds paid to the State under this subsection will be expended solely on programs approved by the State agency which carry out the objectives of subsection (c) and which are designed to bring the humanities to the public;
 
 &emsp;(v) provides assurances that State funds will be newly appropriated for the purpose of meeting the requirements of this subparagraph;
 
@@ -88,7 +88,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(A) provides assurances that the grant recipient will comply with the requirements of paragraph (2)(B);
 
-&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programswhich carry out the objectives of subsection (c) of this section;
+&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programs which carry out the objectives of subsection (c);
 
 &emsp;(C) establishes a membership policy which is designed to assure broad public representation with respect to programs administered by such grant recipient;
 
@@ -120,7 +120,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
-&emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
+&emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under thissubsection to States and regional groups and entities applying for such grants;
 
 &emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted in equal amounts among the States and grant recipients which have plans approved by the Chairperson; and
 
@@ -142,7 +142,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (E) For purposes of paragraph (4)(B), the term "State" and the term "grant recipient" include, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
-(6) All amounts allotted or made available under paragraph (4) for a fiscal year which arenot granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
+(6) All amounts allotted or made available under paragraph (4) for a fiscal year which are not granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c).
 
 (7) Whenever the Chairperson, after reasonable notice and opportunity for hearing, finds that—
 
@@ -166,7 +166,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 &emsp;(A) enabling cultural organizations and institutions to increase the levels of continuing support and to increase the range of contributors to the program of such organizations or institutions;
 
-&emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
+&emsp;(B) providing administrative and management improvements for cultural organizationsand institutions, particularly in the field of long-range financial planning;
 
 &emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
@@ -180,11 +180,11 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 (B) The Chairperson, with the advice of the Council, may waive all or part of the requirement of matching funds provided in subparagraph (A) of this paragraph, but only for the purposes described in clause (F) of paragraph (1), whenever he determines that highly meritorious proposals for grants and contracts under such clause, could not otherwise be supported from non-Federal sources or from Federal sources other than funds authorized by section 960(a)(3) of this title, unless such matching requirement is waived. Such waiver may not exceed 15 per centum of the amount appropriated in any fiscal year and available to the National Endowment for the Humanities for the purpose of this subsection.
 
-(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) of this section and section 959 of this title.
+(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) and section 959 of this title.
 
 #### (i) Interagency agreements
 
-The Chairperson may enter into interagency agreements to promote or assist with the humanities-related activities of other Federal agencies, on either a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) of this section for the costs of such activities.
+The Chairperson may enter into interagency agreements to promote or assist with the humanities-related activities of other Federal agencies, on either a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) for the costs of such activities.
 
 #### (j) Payment of wages at prevailing rates; authority of Secretary of Labor
 
@@ -192,7 +192,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 #### (k) National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports
 
-The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f) of this section, to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment's programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of such scholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f), to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment's programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of such scholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
 
 #### (l) Eligibility of group for financial assistance
 
@@ -210,7 +210,7 @@ The Chairperson, with the advice of the National Council on the Humanities, is a
 
 &emsp;(2) The Charles Frankel Prize to honor individuals who have made outstanding contributions to the public understanding of the humanities. Not more than 5 individuals may receive such prize each year. Each prize shall not exceed $5,000.
 
-(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
+(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L.98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
 
 #### References in Text
 

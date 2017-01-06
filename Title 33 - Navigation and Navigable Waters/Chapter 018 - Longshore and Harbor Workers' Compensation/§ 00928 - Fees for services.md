@@ -18,7 +18,7 @@ In cases where an attorney's fee is awarded against an employer or carrier there
 
 #### (e) Unapproved fees; solicitation; penalty
 
-A person who receives a fee, gratuity, or other consideration on account of services rendered asa representative of a claimant, unless the consideration is approved by the deputy commissioner, administrative law judge, Board, or court, or who makes it a business to solicit employment for a lawyer, or for himself, with respect to a claim or award for compensation under this chapter, shall, upon conviction thereof, for each offense be punished by a fine of not more than $1,000 or be imprisoned for not more than one year, or both.
+A person who receives a fee, gratuity, or other consideration on account of services rendered as a representative of a claimant, unless the consideration is approved by the deputy commissioner, administrative law judge, Board, or court, or who makes it a business to solicit employment for a lawyer, or for himself, with respect to a claim or award for compensation under this chapter, shall, upon conviction thereof, for each offense be punished by a fine of not more than $1,000 or be imprisoned for not more than one year, or both.
 
 (Mar. 4, 1927, ch. 509, §28, 44 Stat. 1438; Pub. L. 92–576, §13, Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, §17, Sept. 28, 1984, 98 Stat. 1650.)
 

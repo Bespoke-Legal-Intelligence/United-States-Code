@@ -72,7 +72,7 @@ Inclusions.—The updated report described in clause (i) shall—
 
 &emsp;&emsp;&emsp;"(CC) ensures that reviews and activities are carried out pursuant to such plan;
 
-&emsp;&emsp;&emsp;"(II) be coordinated with appropriate Federal, State, and local agencies and those public and private entities that the Secretary determines may be affected by those reviews or activities;
+&emsp;&emsp;&emsp;"(II) be coordinated with appropriate Federal, State, and local agencies and those public andprivate entities that the Secretary determines may be affected by those reviews or activities;
 
 &emsp;&emsp;&emsp;"(III) not supersede or modify any written agreement between the Federal Government and a non-Federal interest that is in effect on the date of enactment of this Act \[June 10, 2014\];
 

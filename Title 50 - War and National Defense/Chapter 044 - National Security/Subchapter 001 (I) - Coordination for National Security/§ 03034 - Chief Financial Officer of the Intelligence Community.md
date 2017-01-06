@@ -14,7 +14,7 @@ Subject to the direction of the Director of National Intelligence, the Chief Fin
 
 &emsp;(3) ensure that the strategic plan of the Director of National Intelligence—
 
-&emsp;&emsp;(A) is based on budgetary constraints as specified in the Future Year IntelligencePlans and Long-term Budget Projections required under section 3103 of this title; and
+&emsp;&emsp;(A) is based on budgetary constraints as specified in the Future Year Intelligence Plans and Long-term Budget Projections required under section 3103 of this title; and
 
 &emsp;&emsp;(B) contains specific goals and objectives to support a performance-based budget;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts with, a school of dentistry, public or nonprofit private hospital, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
+&emsp;The Secretary may make grants to, or enter into contracts with, a school of dentistry, public or nonprofit private hospital, or a public orprivate nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
 &emsp;&emsp;(A) to plan, develop, and operate, or participate in, an approved professional training program in the field of general dentistry, pediatric dentistry, or public health dentistry for dental students, residents, practicing dentists, dental hygienists, or other approved primary care dental trainees, that emphasizes training for general, pediatric, or public health dentistry;
 
@@ -48,7 +48,7 @@ With respect to training provided for under this section, the Secretary shall gi
 
 &emsp;(2) Qualified applicants that have a record of training the greatest percentage of providers, or that have demonstrated significant improvements in the percentage of providers, who enter and remain in general, pediatric, or public health dentistry.
 
-&emsp;(3) Qualified applicants that have a record of training individuals who are from a rural ordisadvantaged background, or from underrepresented minorities.
+&emsp;(3) Qualified applicants that have a record of training individuals who are from a rural or disadvantaged background, or from underrepresented minorities.
 
 &emsp;(4) Qualified applicants that establish formal relationships with Federally qualified health centers, rural health centers, or accredited teaching facilities and that conduct training of students, residents, fellows, or faculty at the center or facility.
 

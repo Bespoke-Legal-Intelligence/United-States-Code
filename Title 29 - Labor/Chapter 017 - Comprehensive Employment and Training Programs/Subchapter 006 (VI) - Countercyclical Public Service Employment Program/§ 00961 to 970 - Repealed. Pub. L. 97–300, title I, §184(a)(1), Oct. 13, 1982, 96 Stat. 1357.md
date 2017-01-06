@@ -34,11 +34,11 @@ A prior section 967, Pub. L. 93–203, title VI, §607, as added Pub. L. 94–44
 
 Provisions similar to those comprising this section were contained in former section 968 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 968, Pub. L. 93–203, title VI, §608, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2009, related to payment of wages to those employed under a public service employment program.
+Section 968, Pub. L. 93–203, title VI, §608, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2009, related topayment of wages to those employed under a public service employment program.
 
 A prior section 968, Pub. L. 93–203, title VI, §608, as added Pub. L. 94–444, §5(a), Oct. 1, 1976, 90 Stat. 1478; amended Pub. L. 95–93, title III, §307, Aug. 5, 1977, 91 Stat. 652, related to eligibility of long-term unemployed low-income persons, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 969, Pub. L. 93–203, title VI, §609, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2009, related towage supplementation for public service employees receiving financial assistance under public service employment programs.
+Section 969, Pub. L. 93–203, title VI, §609, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2009, related to wage supplementation for public service employees receiving financial assistance under public service employment programs.
 
 A prior section 969, Pub. L. 93–203, title VI, §609, as added Pub. L. 94–444, §5(a), Oct. 1, 1976, 90 Stat. 1479, related to approval of project applications, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

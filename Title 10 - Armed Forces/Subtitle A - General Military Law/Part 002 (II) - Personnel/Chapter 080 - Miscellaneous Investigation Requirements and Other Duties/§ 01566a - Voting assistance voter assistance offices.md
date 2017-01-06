@@ -78,7 +78,7 @@ The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub.
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(e)(2), which directed substitution of "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, §592(a)(1). See below.
 
-Pub. L. 113–291, §592(a), in introductory provisions, substituted "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" and inserted ", or at such installations as the Secretary ofthe military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location," after "their jurisdiction".
+Pub. L. 113–291, §592(a), in introductory provisions, substituted "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" and inserted ", or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location," after "their jurisdiction".
 
 Subsec. (f). Pub. L. 113–291, §592(b), designated existing provisions as par. (1) and added par. (2).
 

@@ -1,0 +1,30 @@
+### §2326f. Maintenance dredging data
+
+#### (a) In general
+
+The Secretary shall establish, maintain, and make publicly available a database on maintenance dredging carried out by the Secretary, which shall include information on maintenance dredging carried out by Federal and non-Federal vessels.
+
+#### (b) Scope
+
+The Secretary shall include in the database maintained under subsection (a), for each maintenance dredging project and contract, estimated and actual data on—
+
+&emsp;(1) the volume of dredged material removed;
+
+&emsp;(2) the initial cost estimate of the Corps of Engineers;
+
+&emsp;(3) the total cost;
+
+&emsp;(4) the party and vessel carrying out the work; and
+
+&emsp;(5) the number of private contractor bids received and the bid amounts, including bids that did not win the final contract award.
+
+(Pub. L. 114–322, title I, §1133, Dec. 16, 2016, 130 Stat. 1654.)
+
+#### Codification
+
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### "Secretary" Defined
+
+Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
+

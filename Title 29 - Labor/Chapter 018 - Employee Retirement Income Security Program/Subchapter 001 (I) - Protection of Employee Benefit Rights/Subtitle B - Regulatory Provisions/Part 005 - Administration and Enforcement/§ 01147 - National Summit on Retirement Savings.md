@@ -2,7 +2,7 @@
 
 #### (a) Authority to call Summit
 
-Not later than July 15, 1998, the President shall convene a National Summit on RetirementIncome Savings at the White House, to be co-hosted by the President and the Speaker and the Minority Leader of the House of Representatives and the Majority Leader and Minority Leader of the Senate. Such a National Summit shall be convened thereafter in 2001 and 2005 on or after September 1 of each year involved. Such a National Summit shall—
+Not later than July 15, 1998, the President shall convene a National Summit on Retirement Income Savings at the White House, to be co-hosted by the President and the Speaker and the Minority Leader of the House of Representatives and the Majority Leader and Minority Leader of the Senate. Such a National Summit shall be convened thereafter in 2001 and 2005 on or after September 1 of each year involved. Such a National Summit shall—
 
 &emsp;(1) advance the public's knowledge and understanding of retirement savings and its critical importance to the future well-being of American workers and their families;
 
@@ -14,7 +14,7 @@ Not later than July 15, 1998, the President shall convene a National Summit on R
 
 #### (b) Planning and direction
 
-The National Summit shall be planned and conducted under the direction of the Secretary, in consultation with, and with the assistance of, the heads of such other Federal departments and agencies as the President may designate. Such assistance may include the assignment of personnel. The Secretary shall, in planning and conducting the National Summit, consult with the congressional leaders specified in subsection (e)(2) of this section. The Secretary shall also, in carrying out the Secretary's duties under this subsection, consult and coordinate with at least one organization made up of private sector businesses and associations partnered with Government entities to promote long-term financial security in retirement through savings.
+The National Summit shall be planned and conducted under the direction of the Secretary, in consultation with, and with the assistance of, the heads of such other Federal departments and agencies as the President may designate. Such assistance may include the assignment of personnel. The Secretary shall, in planning and conducting the National Summit, consult with the congressional leaders specified in subsection (e)(2). The Secretary shall also, in carrying out the Secretary's duties under this subsection,consult and coordinate with at least one organization made up of private sector businesses and associations partnered with Government entities to promote long-term financial security in retirement through savings.
 
 #### (c) Purpose of National Summit
 
@@ -74,7 +74,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;(F) the Chairman and ranking Member of the Subcommittees on Labor, Health and Human Services, and Education of the Senate and House of Representatives; and
 
-&emsp;&emsp;(G) the parties referred to in subsection (b) of this section.
+&emsp;&emsp;(G) the parties referred to in subsection (b).
 
 #### (3) Additional participants
 
@@ -82,7 +82,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;There shall be not more than 200 additional participants. Of such additional participants—
 
-&emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and eitherthe Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
+&emsp;&emsp;&emsp;(i) one-half shall be appointed by the President, in consultation with the elected leaders of the President's party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and either the Majority Leader or the Minority Leader of the Senate; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) one-half shall be appointed by the elected leaders of Congress of the party to which the President does not belong (one-half of that allotment to be appointed by either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and one-half of that allotment to be appointed by either the Majority Leader or the Minority Leader of the Senate).
 
@@ -106,7 +106,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;In administering this section, the Secretary shall—
 
-&emsp;&emsp;(A) request the cooperation and assistance of such other Federal departments and agencies and other parties referred to in subsection (b) of this section as may be appropriate in the carrying out of this section;
+&emsp;&emsp;(A) request the cooperation and assistance of such other Federal departments and agencies and other parties referred to in subsection (b) as may be appropriate in the carrying out of this section;
 
 &emsp;&emsp;(B) furnish all reasonable assistance to State agencies, area agencies, and other appropriate organizations to enable them to organize and conduct conferences in conjunction with the National Summit;
 
@@ -156,7 +156,7 @@ The financial obligation for the Department of Labor for fiscal year 1998 shall 
 
 &emsp;(2) $250,000.
 
-> The private sector organization described in subsection (b) of this section and contracted with by the Secretary shall be obligated for the balance of the cost of the National Summit.
+> The private sector organization described in subsection (b) and contracted with by the Secretary shall be obligated for the balance of the cost of the National Summit.
 
 #### (k) Contracts
 

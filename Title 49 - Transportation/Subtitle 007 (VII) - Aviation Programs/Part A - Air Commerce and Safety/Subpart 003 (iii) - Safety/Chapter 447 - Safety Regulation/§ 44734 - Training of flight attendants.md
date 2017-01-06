@@ -6,9 +6,11 @@ Training Required.—In addition to other training required under this chapter, 
 
 &emsp;(1) serving alcohol to passengers;
 
-&emsp;(2) recognizing intoxicated passengers; and
+&emsp;(2) recognizing intoxicated passengers;
 
-&emsp;(3) dealing with disruptive passengers.
+&emsp;(3) dealing with disruptive passengers; and
+
+&emsp;(4) recognizing and responding to potential human trafficking victims.
 
 (b)
 
@@ -26,5 +28,9 @@ Air carrier.—The term "air carrier" means a person, including a commercial ent
 
 Flight attendant.—The term "flight attendant" has the meaning given that term in section 44728(g).
 
-(Added Pub. L. 112–95, title III, §309(a), Feb. 14, 2012, 126 Stat. 64.)
+(Added Pub. L. 112–95, title III, §309(a), Feb. 14, 2012, 126 Stat. 64; amended Pub. L. 114–190, title II, §2113, July 15, 2016, 130 Stat. 628.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(4). Pub. L. 114–190 added par. (4).
 

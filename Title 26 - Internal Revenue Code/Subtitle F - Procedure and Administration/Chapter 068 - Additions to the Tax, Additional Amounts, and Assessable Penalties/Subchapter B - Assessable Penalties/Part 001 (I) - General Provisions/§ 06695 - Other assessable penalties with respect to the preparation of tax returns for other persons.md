@@ -28,7 +28,7 @@ Any person required to make a return under section 6060 who fails to comply with
 
 #### (f) Negotiation of check
 
-Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the fullamount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
+Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
 
 #### (g) Failure to be diligent in determining eligibility for child tax credit; American Opportunity Tax Credit; and earned income credit
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 113–295 applicable to returns required to be filed after 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–41 applicable to returns required to be filed after Dec. 31, 2011, see section 501(b) of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
+Amendment by Pub. L. 112–41 applicable to returns required to be filed after Dec. 31, 2011, see section 501(b)of Pub. L. 112–41, set out in a note under section 3805 of Title 19, Customs Duties.
 
 #### Effective Date of 2007 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made bythis section \[amending this section\] shall apply to documents prepared after December 31, 1989."
+Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made by this section \[amending this section\] shall apply to documents prepared after December 31, 1989."
 
 #### Effective Date of 1985 Amendment
 

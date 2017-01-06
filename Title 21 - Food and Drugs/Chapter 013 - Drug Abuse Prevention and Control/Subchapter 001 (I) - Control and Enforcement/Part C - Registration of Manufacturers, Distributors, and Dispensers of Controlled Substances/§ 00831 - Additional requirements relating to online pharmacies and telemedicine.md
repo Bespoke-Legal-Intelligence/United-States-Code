@@ -10,7 +10,7 @@ Each online pharmacy shall comply with the requirements of State law concerning 
 
 #### (c) Internet pharmacy site disclosure information
 
-Each online pharmacy shall post in a visible and clear manner on the homepage of each Internet site it operates, or on a page directly linked thereto in which the hyperlink is also visible and clear on the homepage, the following information for each pharmacy that delivers, distributes, or dispenses controlled substances pursuant to orders made on, through, or on behalf of, that website:
+Each online pharmacy shall post in a visible and clear manner on the homepage of eachInternet site it operates, or on a page directly linked thereto in which the hyperlink is also visible and clear on the homepage, the following information for each pharmacy that delivers, distributes, or dispenses controlled substances pursuant to orders made on, through, or on behalf of, that website:
 
 &emsp;(1) The name and address of the pharmacy as it appears on the pharmacy's Drug Enforcement Administration certificate of registration.
 
@@ -30,7 +30,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (1) In general
 
-&emsp;Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine,and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
+&emsp;Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine, and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
 
 #### (2) Contents
 
@@ -58,7 +58,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (1) In general
 
-&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
+&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
 
 #### (2) Designations
 
@@ -68,13 +68,13 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (B) Practitioners
 
-&emsp;&emsp;A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] with the Indian Health Service.
+&emsp;&emsp;A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] with the Indian Health Service.
 
 #### (h) Special registration for telemedicine
 
 #### (1) In general
 
-&emsp;The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner, upon application for such special registration—
+&emsp;The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner,upon application for such special registration—
 
 &emsp;&emsp;(A) demonstrates a legitimate need for the special registration; and
 
@@ -100,7 +100,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (2) To Attorney General
 
-&emsp;Not later than 30 days after the date that a prescription described in subparagraph (A) isissued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
+&emsp;Not later than 30 days after the date that a prescription described in subparagraph (A) is issued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
 
 #### (j) Clarification concerning prescription transfers
 
@@ -114,7 +114,7 @@ Section 309, referred to in subsec. (c)(7), is section 309 of Pub. L. 91–513, 
 
 For effective date of this section, referred to in subsec. (d)(3), see Effective Date note below.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 

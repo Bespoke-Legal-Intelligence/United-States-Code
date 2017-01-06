@@ -48,7 +48,7 @@ Congress finds as follows:
 
 #### (2) Maps and legal descriptions
 
-&emsp;The boundaries of the Outstanding Natural Area as those shown on the map entitled"Piedras Blancas Historic Light Station: Outstanding Natural Area", dated May 5, 2004, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State office of the Bureau of Land Management in the State of California.
+&emsp;The boundaries of the Outstanding Natural Area as those shown on the map entitled "Piedras Blancas Historic Light Station: Outstanding Natural Area", dated May 5, 2004, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State office of the Bureau of Land Management in the State of California.
 
 #### (3) Basis of management
 

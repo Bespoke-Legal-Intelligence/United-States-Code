@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) section 312 of the Housing Act of 1964 \[42 U.S.C. 1452b\], as it existed immediately before its repeal by section 289 of the Cranston-Gonzalez National Affordable Housing Act;
 
-&emsp;&emsp;(C) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as it existed immediatelybefore its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
+&emsp;&emsp;(C) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as it existed immediately before its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
 
 &emsp;&emsp;(D) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act; and
 

@@ -44,13 +44,13 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally Controlled Colleges and Universities Assistance Act of 1978, which enacted this chapter and section 640c–1 of this title, amended section 640c of this title, and enacted provisions set out as notes under sections 640a, 640c–1, and 1801 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally Controlled Colleges and Universities Assistance Act of 1978, which enacted this chapter and former section 640c–1 of this title, amended former section 640c of this title, and enacted provisions set out as notes under this section and former sections 640a and 640c–1 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(6). Pub. L. 110–315, §941(a), substituted "in the fields of tribally controlled colleges and universities and Indian higher education" for "in the field of Indian education".
+<b>2008</b>—Subsec. (a)(6). Pub. L. 110–315, §941(a), substituted "in the fields of tribally controlled collegesand universities and Indian higher education" for "in the field of Indian education".
 
 Subsec. (a)(7) to (9). Pub. L. 110–315, §941(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
@@ -94,7 +94,7 @@ Pub. L. 99–428, §1, Sept. 30, 1986, 100 Stat. 982, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 95–471, §1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, §901(b)(1), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(k)(1), Aug. 14, 2008, 122 Stat. 3465, provided that: "This Act \[enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 ofthis title\] may be cited as the 'Tribally Controlled Colleges and Universities Assistance Act of 1978'."
+Pub. L. 95–471, §1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, §901(b)(1), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(k)(1), Aug. 14, 2008, 122 Stat. 3465, provided that: "This Act \[enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 of this title\] may be cited as the 'Tribally Controlled Colleges and Universities Assistance Act of 1978'."
 
 Pub. L. 95–471, title IV, §401, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: "This title \[enacting subchapter III of this chapter\] may be cited as the 'Tribal Economic Development and Technology Related Education Assistance Act of 1990'."
 
@@ -122,19 +122,23 @@ Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 131
 
 Ex. Ord. No. 13270, July 3, 2002, 67 F.R. 45288, which established the President's Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities and required agencies to develop and submit plans for making certain improvements in tribal colleges and universities, was revoked by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607, set out as a note under section 7401 of Title 20, Education.
 
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+#### Extension of Term of President's Board of Advisors on Tribal Colleges and Universities
 
 Ex. Ord. No. 13585, §1(n), Sept. 30, 2011, 76 F.R. 62281, which extended term of President's Board of Advisors on Tribal Colleges and Universities until Sept. 30, 2013, was revoked by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607, set out as a note under section 7401 of Title 20, Education.
+
+Previous extensions of term of President's Board of Advisors on Tribal Colleges and Universities were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
+
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
+
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
+
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
+
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
+
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "1001(a)".</i>
 

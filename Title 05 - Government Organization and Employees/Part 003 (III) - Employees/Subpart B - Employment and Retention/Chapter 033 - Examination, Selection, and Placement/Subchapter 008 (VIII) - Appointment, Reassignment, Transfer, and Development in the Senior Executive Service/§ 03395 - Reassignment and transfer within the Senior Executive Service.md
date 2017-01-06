@@ -2,7 +2,7 @@
 
 (a)(1) A career appointee in an agency—
 
-&emsp;(A) may, subject to paragraph (2) of this subsection, be reassigned to any Senior Executive Service position in the same agency for which the appointee is qualified; and
+&emsp;(A) may, subject to paragraph (2) of this subsection, be reassigned to any Senior ExecutiveService position in the same agency for which the appointee is qualified; and
 
 &emsp;(B) may transfer to a Senior Executive Service position in another agency for which the appointee is qualified, with the approval of the agency to which the appointee transfers.
 
@@ -63,4 +63,8 @@ Subsec. (e)(3). Pub. L. 102–175, §3(2), added par. (3).
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+
+#### Effective Date
+
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 

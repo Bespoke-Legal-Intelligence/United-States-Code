@@ -20,7 +20,7 @@ The Congress finds that—
 
 The Congress declares that it is the policy of the Federal Government to—
 
-&emsp;(1) develop the renewable energy resources of the Caribbean and Pacific insular areas ofPuerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau; and
+&emsp;(1) develop the renewable energy resources of the Caribbean and Pacific insular areas of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau; and
 
 &emsp;(2) to assist other insular areas in the Caribbean and Pacific Basin in the development of their renewable energy resources.
 
@@ -102,7 +102,7 @@ The Secretary of Energy or any administrative official who may succeed him, with
 
 &emsp;(C) other factors the Secretary of Energy considers to be appropriate.
 
-(5) Not later than 1 year after August 8, 2005, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House of Representatives, and the Committee onEnergy and Commerce of the House of Representatives, the updated plans for each insular area required by this subsection.
+(5) Not later than 1 year after August 8, 2005, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives, the updated plans for each insular area required by this subsection.
 
 #### (f) Authorization of appropriations
 
@@ -176,7 +176,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 &emsp;(A) the term "insular area" means American Samoa, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Republic of Palau, and the Virgin Islands; and
 
-&emsp;(B) the term "1982 Territorial Energy Assessment" means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c).
+&emsp;(B) the term "1982 Territorial Energy Assessment" means the comprehensive energy planprepared by the Secretary of Energy pursuant to subsection (c).
 
 (Pub. L. 96–597, title VI, §604, Dec. 24, 1980, 94 Stat. 3480; Pub. L. 98–213, §7, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 102–486, title XXVII, §2701, Oct. 24, 1992, 106 Stat. 3118; Pub. L. 109–58, title II, §251, Aug. 8, 2005, 119 Stat. 679.)
 

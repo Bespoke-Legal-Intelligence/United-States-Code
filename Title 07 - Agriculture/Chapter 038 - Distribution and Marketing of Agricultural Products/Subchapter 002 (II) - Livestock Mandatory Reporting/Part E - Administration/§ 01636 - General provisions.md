@@ -130,7 +130,7 @@ Enhanced reporting.—The Secretary of Agriculture shall develop and implement t
 
 "(B)
 
-Current system.—Notwithstanding the amendment made by paragraph (1), the Secretary shall continue to use the information format for disseminating information under subtitle B \[7 U.S.C. 1635 et seq.\] of the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) in effect on the date of the enactment of this Act\[June 18, 2008\] at least until the date that is two years after the date on which the Secretary makes the determination referred to in subparagraph (A)."
+Current system.—Notwithstanding the amendment made by paragraph (1), the Secretary shall continue to use the information format for disseminating information under subtitle B \[7 U.S.C. 1635 et seq.\] of the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) in effect on the date of the enactment of this Act \[June 18, 2008\] at least until the date that is two years after the date on which the Secretary makes the determination referred to in subparagraph (A)."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

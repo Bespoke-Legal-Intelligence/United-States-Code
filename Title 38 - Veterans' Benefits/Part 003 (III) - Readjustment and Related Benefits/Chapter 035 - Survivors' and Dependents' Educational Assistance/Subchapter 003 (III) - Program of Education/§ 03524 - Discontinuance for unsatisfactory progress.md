@@ -32,7 +32,7 @@ Pars. (1), (2). Pub. L. 101–237, §411(b), added pars. (1) and (2) and struck 
 
 <b>1980</b>—Pub. L. 96–466 struck out provisions relating to the conditions upon which an eligible person's progress would be considered unsatisfactory.
 
-<b>1977</b>—Pub. L. 95–202 inserted provisions authorizing the Administrator to determine the veteran's progress to be satisfactory even though the veteran will graduate within a length of time exceeding the approved length if the additional length of time is reasonable in accordance with regulations.
+<b>1977</b>—Pub. L. 95–202 inserted provisions authorizing the Administrator to determine the veteran's progress to be satisfactory even though the veteran will graduate within a length of time exceeding the approvedlength if the additional length of time is reasonable in accordance with regulations.
 
 <b>1976</b>—Pub. L. 94–502, §310(15), substituted "such person is attending" for "he is attending", "the Administrator finds that" for "he finds that", and "the person's" for "his" in two places.
 

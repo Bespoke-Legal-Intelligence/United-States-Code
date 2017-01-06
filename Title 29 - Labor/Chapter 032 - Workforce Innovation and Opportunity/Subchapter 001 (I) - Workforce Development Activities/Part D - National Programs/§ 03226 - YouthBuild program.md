@@ -62,7 +62,7 @@ In this section:
 
 #### (7) Indian; Indian tribe
 
-&emsp;The terms "Indian" and "Indian tribe" have the meanings given such terms in section 450b of title 25.
+&emsp;The terms "Indian" and "Indian tribe" have the meanings given such terms in section 5304 of title 25.
 
 #### (8) Low-income family
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (2) Eligible activities
 
-&emsp;An entity that receives a grant under this subsection shall use the funds made available through the grant to carry out a YouthBuild program, which may include the following activities:
+&emsp;An entity that receives a grant under this subsection shall use the funds made availablethrough the grant to carry out a YouthBuild program, which may include the following activities:
 
 &emsp;&emsp;(A) Education and workforce investment activities including—
 
@@ -134,7 +134,7 @@ In this section:
 
 &emsp;&emsp;(C) Supervision and training for participants—
 
-&emsp;&emsp;&emsp;(i) in the rehabilitation or construction of community and other public facilities,except that not more than 15 percent of funds appropriated to carry out this section may be used for such supervision and training; and
+&emsp;&emsp;&emsp;(i) in the rehabilitation or construction of community and other public facilities, except that not more than 15 percent of funds appropriated to carry out this section may be used for such supervision and training; and
 
 &emsp;&emsp;&emsp;(ii) if approved by the Secretary, in additional in-demand industry sectors or occupations in the region in which the program operates.
 
@@ -222,7 +222,7 @@ In this section:
 
 &emsp;&emsp;(B) an applicant's potential for developing a successful YouthBuild program;
 
-&emsp;&emsp;(C) the need for an applicant's proposed program, as determined by the degree of economic distress of the community from which participants would be recruited (measured by indicators such as poverty, youth unemployment, and the number of individuals who have dropped out of secondary school) and of the community in which the housing and community and public facilities proposed to be rehabilitated or constructed is located (measured by indicators such as incidence of homelessness, shortage of affordable housing, and poverty);
+&emsp;&emsp;(C) the need for an applicant's proposed program, as determined by the degree of economic distress of the community from which participants would be recruited (measured by indicators such as poverty, youth unemployment, and the number of individuals who have dropped out of secondary school) and of the community in which the housingand community and public facilities proposed to be rehabilitated or constructed is located (measured by indicators such as incidence of homelessness, shortage of affordable housing, and poverty);
 
 &emsp;&emsp;(D) the commitment of an applicant to providing skills training, leadership development, and education to participants;
 
@@ -258,7 +258,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 &emsp;(1) for rental by, or sale to, homeless individuals or low-income families; or
 
-&emsp;(2) for use as transitional or permanent housing, for the purpose of assisting in themovement of homeless individuals to independent living.
+&emsp;(2) for use as transitional or permanent housing, for the purpose of assisting in the movement of homeless individuals to independent living.
 
 #### (e) Additional program requirements
 
@@ -340,7 +340,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (h) Subgrants and contracts
 
-Each recipient of a grant under subsection (c) to carry out a YouthBuild program shall providethe services and activities described in this section directly or through subgrants, contracts, or other arrangements with local educational agencies, institutions of higher education, State or local housing development agencies, other public agencies, including agencies of Indian tribes, or private organizations.
+Each recipient of a grant under subsection (c) to carry out a YouthBuild program shall provide the services and activities described in this section directly or through subgrants, contracts, or other arrangements with local educational agencies, institutions of higher education, State or local housing development agencies, other public agencies, including agencies of Indian tribes, or private organizations.
 
 #### (i) Authorization of appropriations
 
@@ -398,7 +398,7 @@ Personnel Provisions.—
 
 &emsp;"(1)
 
-Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers and employees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code.
+Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers andemployees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code.
 
 &emsp;"(2)
 

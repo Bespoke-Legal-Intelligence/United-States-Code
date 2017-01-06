@@ -13,6 +13,7 @@
 | [<b>1003.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201003%20-%20Establishment%2C%20Directors%2C%20and%20Other%20Employees/README.md) | <b>Establishment, Directors, and Other Employees</b> | <b>100301</b> |
 | [<b>1005.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201005%20-%20Areas%20of%20National%20Park%20System/README.md) | <b>Areas of National Park System</b> | <b>100501</b> |
 | [<b>1007.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201007%20-%20Resource%20Management/README.md) | <b>Resource Management</b> | <b>100701</b> |
+| [<b>1008.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201008%20-%20Education%20and%20Interpretation/README.md) | <b>Education and Interpretation</b> | <b>100801</b> |
 | [<b>1009.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201009%20-%20Administration/README.md) | <b>Administration</b> | <b>100901</b> |
 | [<b>1011.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201011%20-%20Donations/README.md) | <b>Donations</b> | <b>101101</b> |
 | [<b>1013.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201013%20-%20Employees/README.md) | <b>Employees</b> | <b>101301</b> |
@@ -26,7 +27,13 @@
 | [<b>1029.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201029%20-%20Land%20Transfers/README.md) | <b>Land Transfers</b> | <b>102901</b> |
 | [<b>1031.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201031%20-%20Appropriations%20and%20Accounting/README.md) | <b>Appropriations and Accounting</b> | <b>103101</b> |
 | [<b>1033.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201033%20-%20National%20Military%20Parks/README.md) | <b>National Military Parks</b> | <b>103301</b> |
-| <b>1035 through 1047. </b> | <b>reserved</b> |  |
+| [<b>1035.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201035%20-%20National%20Park%20Centennial%20Challenge%20Fund/README.md) | <b>National Park Centennial Challenge Fund</b> | <b>103501</b> |
+| <b>1035 </b><b><sup>1</sup></b><b> through 1047. </b> | <b>reserved</b> |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>1049.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20A%20-%20Establishment%20and%20General%20Administration/Chapter%201049%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>104901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -146,6 +153,10 @@
 | [<b>3203.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20C%20-%20American%20Antiquities/Chapter%203203%20-%20Monuments%2C%20Ruins%2C%20Sites%2C%20and%20Objects%20of%20Antiquity/README.md) | <b>Monuments, Ruins, Sites, and Objects of Antiquity</b> | <b>320301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–289, title I, §101(b), title III, §301(b), Dec. 16, 2016, 130 Stat. 1484, 1487, added items for chapters 1008 and 1035.
 
 Disposition Table
 
@@ -659,7 +670,7 @@ Purpose.—The purpose of this Act \[see Tables for classification\] is to codif
 
 "(b)
 
-Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, asenacted into law by Public Law 93–554 (2 U.S.C. 285b(1))."
+Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1))."
 
 #### Transitional and Savings Provisions
 
@@ -706,6 +717,8 @@ Actions Taken and Offenses Committed.—An action taken or an offense committed 
 #### Repeals
 
 Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, repealed specified laws relating to the National Park System, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 19, 2014.
+
+<i><sup>1</sup></i><i> Item for chapter 1035 added by Pub. L. 114–289 without corresponding amendment of item for reserved chapters.</i>
 
 
 ---

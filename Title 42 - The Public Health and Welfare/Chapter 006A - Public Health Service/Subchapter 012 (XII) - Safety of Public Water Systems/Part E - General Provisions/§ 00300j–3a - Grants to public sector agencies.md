@@ -6,7 +6,7 @@ The Administrator of the Environmental Protection Agency shall offer grants to p
 
 &emsp;(1) assisting in the development and demonstration (including construction) of any project which will demonstrate a new or improved method, approach, or technology for providing a dependably safe supply of drinking water to the public; and
 
-&emsp;(2) assisting in the development and demonstration (including construction) of anyproject which will investigate and demonstrate health and conservation implications involved in the reclamation, recycling, and reuse of wastewaters for drinking and agricultural use or the processes and methods for the preparation of safe and acceptable drinking water.
+&emsp;(2) assisting in the development and demonstration (including construction) of any project which will investigate and demonstrate health and conservation implications involved in the reclamation, recycling, and reuse of wastewaters for drinking and agricultural use or the processes and methods for the preparation of safe and acceptable drinking water.
 
 #### (b) Limitations
 

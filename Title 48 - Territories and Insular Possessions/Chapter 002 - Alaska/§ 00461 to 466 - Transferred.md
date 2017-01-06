@@ -14,5 +14,5 @@ Section 464, act May 14, 1898, ch. 299, §10, 30 Stat. 413, which reserved landi
 
 Section 465, act May 14, 1898, ch. 299, §10, 30 Stat. 413, which excepted certain islands from the operation of sections 411 to 419, 421, 423, and 461 to 464 of this title, was transferred to section 687a–5 of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 
-Section 466, acts Mar. 3, 1891, ch. 561, §13, 26 Stat. 1100; Mar. 3, 1925, ch. 462, 43 Stat. 1144, which related to surveys for the purchase of land under sections 461 to 466 of this title, was transferred to section 687a–6 of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
+Section 466, acts Mar. 3, 1891, ch. 561, §13, 26 Stat. 1100; Mar. 3, 1925, ch. 462, 43 Stat. 1144, which related tosurveys for the purchase of land under sections 461 to 466 of this title, was transferred to section 687a–6 of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 

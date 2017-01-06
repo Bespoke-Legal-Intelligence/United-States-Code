@@ -54,7 +54,7 @@ Review of Mission, Procedures, and Administration.—(1) The Secretary of Vetera
 
 "(b)
 
-On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure theon-going independent review and oversight of the Radiation Dose Reconstruction Program, including the establishment of the advisory board required by subsection (c).
+On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program, including the establishment of the advisory board required by subsection (c).
 
 "(c)
 
@@ -162,7 +162,7 @@ Consolidation of Existing Information.—(1) For the purpose of establishing and
 
 &emsp;"(C) any relevant information maintained by any other element of the Department of Veterans Affairs or the Department of Defense.
 
-"(2) With respect to a veteran whose name is included in the Registry and for whom the information in the Registry is not complete, the Secretary of Veterans Affairs shall include information described in paragraph (1) with respect to that veteran (A) to the extent thatsuch information is reasonably available in records of the Department of Veterans Affairs or Department of Defense, or (B) if such information is submitted by the veteran after October 28, 1986.
+"(2) With respect to a veteran whose name is included in the Registry and for whom the information in the Registry is not complete, the Secretary of Veterans Affairs shall include information described in paragraph (1) with respect to that veteran (A) to the extent that such information is reasonably available in records of the Department of Veterans Affairs or Department of Defense, or (B) if such information is submitted by the veteran after October 28, 1986.
 
 "(e)
 
@@ -184,7 +184,7 @@ Pub. L. 98–542, §1–3, Oct. 24, 1984, 98 Stat. 2725, 2727, as amended by Pub
 
 "
 
-Section 1. This Act \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 1116 of this title\] may be cited as the 'Veterans' Dioxin and Radiation Exposure Compensation Standards Act'.
+Section 1. This Act \[amending this section, enacting provisions set out as notes under this section, andamending provisions set out as notes under this section and section 1116 of this title\] may be cited as the 'Veterans' Dioxin and Radiation Exposure Compensation Standards Act'.
 
 #### "findings
 
@@ -224,7 +224,7 @@ Sec. 2. The Congress makes the following findings:
 
 Sec. 3. The purpose of this Act is to ensure that Veterans' Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans' Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities)."
 
-\[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except asotherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
+\[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except as otherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
 
 #### Requirement for and Content of Regulations; Advisory Committee on Environmental Standards; Nuclear Radiation Matters Involving Other Agencies
 
@@ -326,7 +326,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 \["(2)(A) If the Secretary of Veterans Affairs determines before the end of such period that the Environmental Hazards Advisory Committee established under section 6 of Public Law 98–542 (38 U.S.C. 354 note) \[set out above\] has completed its responsibilities under that section and the directives of the Secretary pursuant to the Nehmer case court order, the amendments made by this section shall take effect as of the date of such determination.
 
-\["(B) For purposes of this paragraph, the term 'Nehmer case court order' means the court order datedMay 2, 1989, in the case of Nehmer v. Department of Veterans Affairs, in the United States district court for the northern district of California (civil action docket number C–86–6160 TEH).
+\["(B) For purposes of this paragraph, the term 'Nehmer case court order' means the court order dated May 2, 1989, in the case of Nehmer v. Department of Veterans Affairs, in the United States district court for the northern district of California (civil action docket number C–86–6160 TEH).
 
 \["(3) If the Secretary makes a determination under paragraph (2), the Secretary shall promptly publish in the Federal Register a notice that such determination has been made and that such amendments have thereby taken effect as of the date of such determination."\]
 
@@ -342,7 +342,7 @@ In General.—(1) In order to determine whether activities (other than the tests
 
 &emsp;"(B) identify any activity during which significant numbers of veterans received exposure; and
 
-&emsp;"(C) on the basis of such review, submit to the Secretary of Veterans Affairs a report containing the recommendation of the Advisory Committee on the feasibility and appropriateness for the purpose of the determination under this paragraph of any additional investigation with respect to any activity of such veterans during such service.
+&emsp;"(C) on the basis of such review, submit to the Secretary of Veterans Affairs a report containing therecommendation of the Advisory Committee on the feasibility and appropriateness for the purpose of the determination under this paragraph of any additional investigation with respect to any activity of such veterans during such service.
 
 "(2) Upon the request of the Advisory Committee, the Secretary of Veterans Affairs (after seeking such assistance from the Secretary of Defense as is necessary and appropriate) shall make available to the Advisory Committee records and other information relating to the service referred to in paragraph (1) that may assist the Advisory Committee in carrying out the review and recommendation referred to in that paragraph.
 

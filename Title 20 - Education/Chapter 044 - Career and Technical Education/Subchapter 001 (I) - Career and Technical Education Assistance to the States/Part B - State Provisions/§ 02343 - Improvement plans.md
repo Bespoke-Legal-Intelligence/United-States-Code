@@ -66,7 +66,7 @@
 
 #### (5) Funds resulting from reduced allotments
 
-&emsp;The eligible agency shall use funds withheld under paragraph (4) from an eligible recipient to provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
+&emsp;The eligible agency shall use funds withheld under paragraph (4) from an eligible recipientto provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
 
 (Pub. L. 88–210, title I, §123, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 721.)
 

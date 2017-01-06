@@ -1,0 +1,10 @@
+### §715. Omitted
+
+#### Codification
+
+Section, Pub. L. 101–42, §2, June 28, 1989, 103 Stat. 91, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 101–42, §1, June 28, 1989, 103 Stat. 91, provided that Pub. L. 101–42, enacting this subchapter, could be cited as the "Coquille Restoration Act".
+

@@ -12,7 +12,7 @@ Section 962, Pub. L. 94–462, title II, §203, Oct. 8, 1976, 90 Stat. 1975; Pub
 
 A prior section 962, Pub. L. 89–209, §13, Sept. 29, 1965, 79 Stat. 855, provided for appropriation to Commissioner of Education of funds for grants and contracts for operation of institutes to strengthen teaching of humanities and the arts, prior to repeal by Pub. L. 93–133, §2(a)(12), Oct. 19, 1973, 87 Stat. 465.
 
-Section 963, Pub. L. 94–462, title II, §204, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, §201(b), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 98–306, §9, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, §201, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 \[title II, §201\], Nov. 5, 1990, 104 Stat. 1960, 1974, related to membership, meetings, and functions of National Museum Service Board, and appointment and compensation of Board members.
+Section 963, Pub. L. 94–462, title II, §204, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, §201(b), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 98–306, §9, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, §201, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 \[title II, §201\], Nov. 5, 1990, 104 Stat. 1960, 1974, related to membership,meetings, and functions of National Museum Service Board, and appointment and compensation of Board members.
 
 A prior section 963, Pub. L. 89–209, §14, Sept. 29, 1965, 79 Stat. 855, requested President to make appointments within ninety days after Sept. 29, 1965, prior to repeal by Pub. L. 93–133, §2(a)(12), Oct. 19, 1973, 87 Stat. 465.
 

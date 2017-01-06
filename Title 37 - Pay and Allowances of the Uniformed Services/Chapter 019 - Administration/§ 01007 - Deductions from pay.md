@@ -2,7 +2,7 @@
 
 (a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
-(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
+(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit undersection 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
 (c)(1) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from the member's pay in monthly installments.
 
@@ -12,7 +12,19 @@
 
 (B) In all cases described in subparagraph (A), the Secretary concerned shall provide a reasonable opportunity for the member to request a delay in the imposition of the repayment requirement to recover the indebtedness. Before beginning collection efforts, the Secretary concerned shall consider the reasons provided by the member for the requested delay, including the financial ability of the member to repay the indebtedness, and the hardship that immediate collection would impose on the member and the member's dependents.
 
-(4)(A) If a member of the uniformed services, through no fault of the member, incurs a wound,injury, or illness while in the line of duty in a combat operation or combat zone designated by the President or the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
+(C)(i) In accordance with clause (ii), if the indebtedness of a member of the uniformed services to the United States occurs, through no fault of the member, as a result of the overpayment of pay or allowances to the member or upon the settlement of the member's accounts, the Secretary concerned may not recover the indebtedness from the member, including a retired or former member, using deductions from the pay of the member, deductions from retired or separation pay, or any other collection method unless recovery of the indebtedness commences before the end of the 10-year period beginning on the date on which the indebtedness was incurred.
+
+(ii) Clause (i) applies with respect to indebtedness incurred on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017.
+
+(D)(i) Not later than January 1 of each of 2017 through 2027, the Director of the Defense Finance and Accounting Service shall review all cases occurring during the 10-year period prior to the date of the review of indebtedness of a member of the uniformed services, including a retired or former member, to the United States in which—
+
+&emsp;(I) the recovery of the indebtedness commenced after the end of the 10-year period beginning on the date on which the indebtedness was incurred; or
+
+&emsp;(II) the Director did not otherwise notify the member of such indebtedness during such 10-year period.
+
+(ii) The Director shall submit to the congressional defense committees and the Committees on Veterans' Affairs of the House of Representatives and the Senate each review conducted under clause (i), including the amounts owed to the United States by the members included in such review.
+
+(4)(A) If a member of the uniformed services, through no fault of the member, incurs a wound, injury, or illness while in the line of duty in a combat operation or combat zone designated by the President or the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
 
 &emsp;(i) the member is notified of the overpayment; and
 
@@ -32,7 +44,7 @@
 
 (g) An amount due the United States from an officer of the Army or the Air Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.
 
-(h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed by a member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
+(h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed bya member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
 
 (2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determination of the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
 
@@ -48,7 +60,7 @@
 
 (4) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272; Pub. L. 111–84, div. A, title VI, §661(a)–(c), Oct. 28, 2009, 123 Stat. 2370; Pub. L. 111–281, title II, §205(b)(2), Oct. 15, 2010, 124 Stat. 2911.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109–364, div. A, title VI, §674, Oct. 17, 2006, 120 Stat. 2272; Pub. L. 111–84, div. A, title VI, §661(a)–(c), Oct. 28, 2009, 123 Stat. 2370; Pub. L. 111–281, title II, §205(b)(2), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 114–328, div. A, title VI, §671(a), Dec. 23, 2016, 130 Stat. 2173.)
 
 Historical and Revision Notes
 
@@ -142,11 +154,17 @@ Historical and Revision Notes
 
 \[None.\]
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (c)(3)(C)(ii), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+
 #### Prior Provisions
 
 Provisions similar to those in subsec. (i) of this section were contained in section 44c of Title 24, Hospitals and Asylums, prior to repeal by Pub. L. 101–189, §347(4).
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3)(C), (D). Pub. L. 114–328 added subpars. (C) and (D).
 
 <b>2010</b>—Subsec. (i)(3). Pub. L. 111–281, §205(b)(2)(A), inserted "or, in the case of the Coast Guard, the Commandant" after "Secretary of Defense".
 

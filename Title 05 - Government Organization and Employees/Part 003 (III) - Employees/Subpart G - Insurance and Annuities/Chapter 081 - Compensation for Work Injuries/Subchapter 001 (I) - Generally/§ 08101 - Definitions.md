@@ -10,9 +10,13 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) an individual, other than an independent contractor or an individual employed by an independent contractor, employed on the Menominee Indian Reservation in Wisconsin in operations conducted under a statute relating to tribal timber and logging operations on that reservation;
 
-&emsp;&emsp;(D) an individual employed by the government of the District of Columbia; and
+&emsp;&emsp;(D) an individual employed by the government of the District of Columbia;
 
 &emsp;&emsp;(E) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838);
+
+&emsp;&emsp;(F) an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
+
+&emsp;&emsp;(G) an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act;
 
 > &emsp;but does not include—
 
@@ -23,8 +27,6 @@ For the purpose of this subchapter—
 &emsp;&emsp;(iii) a commissioned officer of the Environmental Science Services Administration; or
 
 &emsp;&emsp;(iv) a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521–535 of title 4, District of Columbia Code; and
-
-&emsp;&emsp;(F) <sup>1</sup> an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
 
 &emsp;(2) "physician" includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term "physician" includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
@@ -56,7 +58,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) the discharge or explosion of munitions intended for use in connection with a war or armed conflict with a hostile force or individual;
 
-&emsp;&emsp;(D) the collision of vessels on convoy or the operation of vessels or aircraft withoutrunning lights or without other customary peacetime aids to navigation; or
+&emsp;&emsp;(D) the collision of vessels on convoy or the operation of vessels or aircraft without running lights or without other customary peacetime aids to navigation; or
 
 &emsp;&emsp;(E) the operation of vessels or aircraft in a zone of hostilities or engaged in war activities;
 
@@ -72,7 +74,7 @@ For the purpose of this subchapter—
 
 &emsp;(16) "war activities" includes activities directly relating to military operations;
 
-&emsp;(17) "student" means an individual under 23 years of age who has not completed 4 years of education beyond the high school level and who is regularly pursuing a full-time course of study or training at an institution which is—
+&emsp;(17) "student" means an individual under 23 years of age who has not completed 4 years of education beyond the high school level andwho is regularly pursuing a full-time course of study or training at an institution which is—
 
 &emsp;&emsp;(A) a school or college or university operated or directly supported by the United States, or by a State or local government or political subdivision thereof;
 
@@ -90,7 +92,7 @@ For the purpose of this subchapter—
 
 &emsp;(20) "United States medical officers and hospitals" includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 532; Pub. L. 90–83, §1(4), (48), Sept. 11, 1967, 81 Stat. 196, 209; Pub. L. 93–416, §1, Sept. 7, 1974, 88 Stat. 1143; Pub. L. 96–499, title IV, §421(b), Dec. 5, 1980, 94 Stat. 2608; Pub. L. 97–463, §4, Jan. 12, 1983, 96 Stat. 2532; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 532; Pub. L. 90–83, §1(4), (48), Sept. 11, 1967, 81 Stat. 196, 209; Pub. L. 93–416, §1, Sept. 7, 1974, 88 Stat. 1143; Pub. L. 96–499, title IV, §421(b), Dec. 5, 1980, 94 Stat. 2608; Pub. L. 97–463, §4, Jan. 12, 1983, 96 Stat. 2532; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 114–326, §2(b)(1), Dec. 16, 2016, 130 Stat. 1972.)
 
 Historical and Revision Notes<br>1966
 
@@ -230,11 +232,17 @@ In paragraph (19), the words "July 1966 and each later month" are substituted fo
 
 Act of August 25, 1958, 72 Stat. 838, referred to in par. (1)(E), is set out as a note under section 102 of Title 3, The President.
 
+Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (1)(G), is classified to section 5165f of Title 42, The Public Health and Welfare.
+
 #### Amendments
+
+<b>2016</b>—Par. (1)(D). Pub. L. 114–326, §2(b)(1)(A), struck out "and" after semicolon at end.
+
+Par. (1)(F), (G). Pub. L. 114–326, §2(b)(1)(B)–(D), transferred subpar. (F) and inserted it between subpar. (E) and concluding provisions, struck out "United States Code," after "title 28," in subpar. (F), and added subpar. (G) after subpar. (F).
 
 <b>1991</b>—Par. (20). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1983</b>—Par. (1)(F). Pub. L. 97–463 struck out "and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection" after "petit or grand juror".
+<b>1983</b>—Par. (1)(F). Pub. L. 97–463 substituted "grand juror;" for "grand juror and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection."
 
 <b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined "base month" as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
@@ -274,11 +282,9 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Processing of Claims Filed by District of Columbia Employees
 
-Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: "All functions of the Secretaryunder chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems." An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
+Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: "All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems." An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
 
 #### Study and Report to Congress by Secretary of Labor of Provisions and Programs Under Subchapter
 
 Pub. L. 93–416, §27, Sept. 7, 1974, 88 Stat. 1150, directed Secretary of Labor to conduct a study of the provisions of this subchapter and its programs which was to include: hearings, research, and other activities necessary to formulate recommendations; an examination of need for authority to increase allowances for services of attendants above the maximum fixed by section 8111 of this title in exceptional circumstances; an examination of the effectiveness of this subchapter; and recommendations as to survivor benefits; report results of the study together with his findings and recommendations not later than 12 months after Sept. 7, 1974.
-
-<i><sup>1</sup></i><i> So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E).</i>
 

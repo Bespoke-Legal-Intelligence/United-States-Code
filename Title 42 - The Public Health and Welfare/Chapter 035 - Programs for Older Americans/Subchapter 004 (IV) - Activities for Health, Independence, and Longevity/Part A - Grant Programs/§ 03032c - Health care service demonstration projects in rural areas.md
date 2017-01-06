@@ -6,7 +6,7 @@ The Assistant Secretary, after consultation with the State agency of the State i
 
 #### (b) Eligibility
 
-To be eligible to receive a grant under subsection (a) of this section, a public agency or nonprofit private organization shall submit to the Assistant Secretary an application containing such information and assurances as the Secretary may require, including—
+To be eligible to receive a grant under subsection (a) of this section, a public agency or nonprofit private organization shall submit tothe Assistant Secretary an application containing such information and assurances as the Secretary may require, including—
 
 &emsp;(1) information describing the nature and extent of the applicant's—
 

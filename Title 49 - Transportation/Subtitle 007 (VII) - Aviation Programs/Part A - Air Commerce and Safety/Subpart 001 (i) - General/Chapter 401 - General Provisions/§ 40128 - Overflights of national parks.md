@@ -24,7 +24,7 @@ Application required.—Before commencing commercial air tour operations over a 
 
 &emsp;&emsp;(B)
 
-Competitive bidding for limited capacity parks.—Whenever an air tour management plan limits the number of commercial air tour operations over a national park during a specified time frame, the Administrator, in cooperation with the Director, shall issue operation specifications to commercial air tour operators that conduct such operations. The operation specifications shall include such terms and conditions as the Administrator and the Director find necessary for management of commercial airtour operations over the park. The Administrator, in cooperation with the Director, shall develop an open competitive process for evaluating proposals from persons interested in providing commercial air tour operations over the park. In making a selection from among various proposals submitted, the Administrator, in cooperation with the Director, shall consider relevant factors, including—
+Competitive bidding for limited capacity parks.—Whenever an air tour management plan limits the number of commercial air tour operations over a national park during a specified time frame, the Administrator, in cooperation with the Director, shall issue operation specifications to commercial air tour operators that conduct such operations. The operation specifications shall include such terms and conditions as the Administrator and the Director find necessary for management of commercial air tour operations over the park. The Administrator, in cooperation with the Director, shall develop an open competitive process for evaluating proposals from persons interested in providing commercial air tour operations over the park. In making a selection from among various proposals submitted, the Administrator, in cooperation with the Director, shall consider relevant factors, including—
 
 &emsp;&emsp;&emsp;(i) the safety record of the person submitting the proposal or pilots employed by the person;
 
@@ -94,7 +94,7 @@ Notification of withdrawal of exemption.—The Director shall inform the Adminis
 
 &emsp;&emsp;(D)
 
-Annual report.—A commercial air tour operator conducting commercial air tour operations over a national park that is exempt from the requirements of this section shall submit to the Administrator and the Director a report each year that includes the number of commercial air tour operations the operator conducted during the preceding 1-year period over such park.
+Annual report.—A commercial air tour operator conducting commercial air tour operations over a national park that is exempt from the requirements of this section shall submit to the Administrator and the Director a report each year that includesthe number of commercial air tour operations the operator conducted during the preceding 1-year period over such park.
 
 (b)
 
@@ -266,7 +266,7 @@ Report.—Each commercial air tour operator conducting a commercial air tour ope
 
 &emsp;(2)
 
-Report submission.—Not later than 90 days after the date of enactment of the FAAModernization and Reform Act of 2012, the Administrator and the Director shall jointly issue an initial request for reports under this subsection. The reports shall be submitted to the Administrator and the Director with a frequency and in a format prescribed by the Administrator and the Director.
+Report submission.—Not later than 90 days after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator and the Director shall jointly issue an initial request for reports under this subsection. The reports shall be submitted to the Administrator and the Director with a frequency and in a format prescribed by the Administrator and the Director.
 
 (e)
 
@@ -354,7 +354,7 @@ Director.—The term "Director" means the Director of the National Park Service.
 
 The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2)(A), (3)(C), and (g)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
-The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(2), is thedate of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
 
@@ -472,7 +472,7 @@ In general.—Not later than 15 years after the date of enactment of this Act, a
 
 &emsp;"(2)
 
-Conversion incentives.—Not later than 60 days after the date of enactment of this Act, the Secretary and the Administrator of the Federal Aviation Administration shall provide incentives for commercial air tour operators that convert to quiet aircraft technology (as determined in accordance with the regulations in effect on the day before the date of enactment of this Act) before the date specified in paragraph (1), such as increasing the flight allocations for such operators on a net basis consistent with section 804(c) of the National Park\[s\] Air Tours \[Tour\] Management Act of 2000 (title VIII of Public Law 106–181) \[set out below\], provided that the cumulative impact of such operations does not increase noise at Grand Canyon National Park."
+Conversion incentives.—Not later than 60 days after the date of enactment of this Act, the Secretary and the Administrator of the Federal AviationAdministration shall provide incentives for commercial air tour operators that convert to quiet aircraft technology (as determined in accordance with the regulations in effect on the day before the date of enactment of this Act) before the date specified in paragraph (1), such as increasing the flight allocations for such operators on a net basis consistent with section 804(c) of the National Park\[s\] Air Tours \[Tour\] Management Act of 2000 (title VIII of Public Law 106–181) \[set out below\], provided that the cumulative impact of such operations does not increase noise at Grand Canyon National Park."
 
 #### Grand Canyon Overflight Rules
 
@@ -564,7 +564,7 @@ Mandate To Restore Natural Quiet.—Nothing in this Act \[should be "this title"
 
 &emsp;"(1) the statutory mandate imposed upon the Secretary of the Interior and the Administrator of the Federal Aviation Administration under Public Law 100–91 (\[former\] 16 U.S.C. 1a–1 note \[now set out below\]) to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park; and
 
-&emsp;"(2) the obligations of the Secretary and the Administrator to promulgate forthwith regulations to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park.
+&emsp;"(2) the obligations of the Secretary and the Administrator to promulgate forthwith regulations to achieve the substantial restoration of the naturalquiet and experience at the Grand Canyon National Park.
 
 #### "SEC. 805. ADVISORY GROUP.
 
@@ -682,7 +682,7 @@ Specific Requirements.—The study under this section shall include research at 
 
 &emsp;"(4) the values associated with aircraft flights over such units of the National Park System in terms of visitor enjoyment, the protection of persons or property, search and rescue operations and firefighting.
 
-> Such research shall evaluate the impact of overflights by both fixed-wing aircraft and helicopters. The research shall include an evaluation of the differences in noise levels within such units of the National Park System which are associated with flight by commonly used aircraft at different altitudes. The research shallapply only to overflights and shall not apply to landing fields within, or adjacent to, such units.
+> Such research shall evaluate the impact of overflights by both fixed-wing aircraft and helicopters. The research shall include an evaluation of the differences in noise levels within such units of the National Park System which are associated with flight by commonly used aircraft at different altitudes. The research shall apply only to overflights and shall not apply to landing fields within, or adjacent to, such units.
 
 "(d)
 
@@ -740,7 +740,7 @@ Submission.—Within 30 days after the enactment of this Act \[Aug. 18, 1987\], 
 
 &emsp;"(2)
 
-Implementation.—Not later than 90 days after receipt of the recommendations under paragraph (1) and after notice and opportunity for hearing, the Administrator shall prepare and issue a final plan for the management of air traffic in the air space above the Grand Canyon. The plan shall, by appropriate regulation, implement the recommendations of the Secretary without change unless the Administrator determines that implementing the recommendations would adversely affect aviation safety. If the Administrator determines that implementing the recommendations would adversely affect aviation safety, he shall, not later than 60 days after making such determination, in consultation with the Secretary and after notice and opportunity for hearing, review the recommendations consistent with the requirements of paragraph (1) to eliminate the adverse effects on aviation safety and issue regulations implementing the revised recommendations in the plan. In addition to the Administrator's authority to implement such regulations under the Federal Aviation Act of 1958 \[see 49 U.S.C. 40101 et seq.\], the Secretary may enforce the appropriate requirements of the plan under such rules and regulations applicable to the units of the National Park System as he deems appropriate.
+Implementation.—Not later than 90 days after receipt of the recommendations under paragraph (1) and after notice and opportunity for hearing, the Administrator shall prepare and issue a final plan for the management of air traffic in the air space above the Grand Canyon. The plan shall, by appropriate regulation, implement the recommendations of the Secretary without change unless the Administrator determines that implementing the recommendations would adversely affect aviation safety. If the Administrator determines that implementing the recommendations would adversely affect aviation safety, he shall, not later than 60 days after making such determination, in consultation with the Secretary and after notice and opportunity for hearing, review the recommendations consistent with the requirements of paragraph (1) to eliminate the adverse effects on aviation safety and issue regulations implementing the revised recommendations in the plan. In addition to the Administrator's authority to implement such regulations under the Federal Aviation Act of 1958\[see 49 U.S.C. 40101 et seq.\], the Secretary may enforce the appropriate requirements of the plan under such rules and regulations applicable to the units of the National Park System as he deems appropriate.
 
 &emsp;"(3)
 

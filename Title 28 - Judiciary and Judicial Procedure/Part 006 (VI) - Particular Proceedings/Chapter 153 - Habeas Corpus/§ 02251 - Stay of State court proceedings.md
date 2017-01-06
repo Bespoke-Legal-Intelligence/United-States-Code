@@ -42,7 +42,7 @@ Pub. L. 109–177, title V, §507(d), Mar. 9, 2006, 120 Stat. 251, provided that
 
 "(1)
 
-In general.—This section \[enacting section 2265 of this title, amending this section and sections 2261 and 2266 of this title, and repealing former section 2265 of this title\] and the amendments made by this section shall apply to cases pending on or after the date of enactment of this Act \[Mar. 9, 2006\].
+In general.—This section \[enacting section 2265 of this title, amending this section and sections 2261 and 2266 of this title, and repealing former section 2265 of this title\] and the amendments made by this sectionshall apply to cases pending on or after the date of enactment of this Act \[Mar. 9, 2006\].
 
 "(2)
 

@@ -4,7 +4,7 @@
 
 Program Required.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
 
-(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program.
+(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
 
 (b)
 
@@ -16,13 +16,15 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 (2) The Under Secretary shall establish procedures pursuant to which appropriate officials of the Department of Defense may identify proposals submitted through the unsolicited proposal process as challenge proposals. The procedures shall provide for the expeditious referral of such proposals to a Panel for preliminary evaluation under this subsection.
 
-(3) The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs that will be given priority in the evaluation of challenge proposals.
+(3) The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs or functions that will be given priority in the evaluation of challenge proposals.
 
 (4)(A) The Under Secretary shall establish procedures for the prompt issuance of a solicitation for challenge proposals addressing—
 
-&emsp;(i) any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 2433(d) of this title that the program's acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a "critical cost growth threshold breach"); and
+&emsp;(i) any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 2433(d) of this title that the program's acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a "critical cost growth threshold breach");
 
-&emsp;(ii) any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by section 2433(e)(2)(A) of this title, that have contributed significantly to the cost growth of such program.
+&emsp;(ii) any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by section 2433(e)(2)(A) of this title, that have contributed significantly to the cost growth of such program; and
+
+&emsp;(iii) any functional challenges of importance to Department of Defense missions.
 
 (B) A solicitation under this paragraph may be included in a broad agency announcement issued pursuant to paragraph (3) as long as the broad agency announcement is released in an expeditious manner following the determination of the Secretary concerned that a critical cost growth threshold breach has occurred with respect to a major defense acquisition program.
 
@@ -30,9 +32,11 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 &emsp;(A) Whether the challenge proposal has merit.
 
-&emsp;(B) Whether the challenge proposal is likely to result in improvements in performance, affordability, manufacturability, or operational capability at the component, subsystem, or system level of an acquisition program.
+&emsp;(B) Whether the challenge proposal is likely to result in improvements in performance, affordability, manufacturability, or operational capability at the component, subsystem, system, or system-of-systems level of an acquisition program.
 
 &emsp;(C) Whether the challenge proposal could be implemented in the acquisition program rapidly, at an acceptable cost, and without unacceptable disruption to the acquisition program.
+
+&emsp;(D) Whether the challenge proposal is likely to result in improvements to any functional challenges of importance to Department of Defense missions, and whether the proposal could be implemented rapidly, at an acceptable cost, and without unacceptable disruption to such missions.
 
 (6) The Under Secretary—
 
@@ -44,7 +48,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 (d)
 
-Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
+Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection\(c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
 
 (2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
 
@@ -54,7 +58,7 @@ Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secre
 
 (e)
 
-Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
+Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, system, or system-of-systems level.
 
 (2) The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
 
@@ -84,6 +88,10 @@ Limitation on Use of Funds.—Funds made available for the Challenge Program may
 
 (j)
 
+Treatment of Use of Certain Procedures as Use of Competitive Procedures.—The use of general solicitation competitive procedures established under subsection (c) shall be considered to be the use of competitive procedures for purposes of chapter 137 of this title.
+
+(k)
+
 System Defined.—In this section, the term "system"—
 
 &emsp;(1) means—
@@ -94,7 +102,7 @@ System Defined.—In this section, the term "system"—
 
 &emsp;(2) includes a major system (as defined in section 2302(5) of this title).
 
-(k)
+(l)
 
 Pilot Program for Programs Other Than Major Defense Acquisition Programs.—
 
@@ -106,13 +114,13 @@ In general.—The Under Secretary of Defense for Acquisition, Technology, and Lo
 
 Qualifying proposals.—For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—
 
-&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procured under a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
+&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procuredunder a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
 
 &emsp;&emsp;(B) is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
 
 &emsp;(3)
 
-Review procedures.—The Under Secretary shall adopt modifications as may beneeded to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
+Review procedures.—The Under Secretary shall adopt modifications as may be needed to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
 
 &emsp;(4)
 
@@ -132,15 +140,33 @@ Level of performance.—The term "level of performance", with respect to a nonde
 
 &emsp;(5)
 
-Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
+Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2021.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281.)
 
 #### References in Text
 
 The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §828(a), substituted "system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function." for "or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program."
+
+Subsec. (c)(3). Pub. L. 114–328, §828(d)(1), inserted "or functions" after "acquisition programs".
+
+Subsec. (c)(4)(A)(iii). Pub. L. 114–328, §828(d)(2), added cl. (iii).
+
+Subsec. (c)(5)(B). Pub. L. 114–328, §828(d)(4), substituted "system, or system-of-systems" for "or system".
+
+Subsec. (c)(5)(D). Pub. L. 114–328, §828(d)(3), added subpar. (D).
+
+Subsec. (e)(1). Pub. L. 114–328, §828(d)(4), substituted "system, or system-of-systems" for "or system".
+
+Subsec. (j). Pub. L. 114–328, §828(b)(2), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Subsecs. (k), (l). Pub. L. 114–328, §828(b)(1), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
+
+Subsec. (l)(5). Pub. L. 114–328, §828(c), substituted "2021" for "2016".
 
 <b>2014</b>—Subsec. (k)(4)(A). Pub. L. 113–291 substituted "section 110 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
 
@@ -172,7 +198,7 @@ Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as
 
 Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted "The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied" for "No report is required for a fiscal year in which the Challenge Program is not carried out". Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted "The reportshall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied" for "No report is required for a fiscal year in which the Challenge Program is not carried out". Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted "2012" for "2007".
 

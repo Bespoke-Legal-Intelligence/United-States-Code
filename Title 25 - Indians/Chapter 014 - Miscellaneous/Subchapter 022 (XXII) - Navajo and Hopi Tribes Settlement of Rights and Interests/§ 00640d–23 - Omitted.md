@@ -1,0 +1,6 @@
+### §640d–23. Omitted
+
+#### Codification
+
+Section, Pub. L. 93–531, §24, Dec. 22, 1974, 88 Stat. 1722, which related to separability of provisions, was omitted from the Code as being of special and not general application.
+

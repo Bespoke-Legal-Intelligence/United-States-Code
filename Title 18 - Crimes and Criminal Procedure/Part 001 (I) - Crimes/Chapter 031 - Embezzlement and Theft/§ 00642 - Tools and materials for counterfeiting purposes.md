@@ -4,7 +4,7 @@ Whoever, without authority from the United States, secretes within, or embezzles
 
 Whoever, without such authority, so secretes, embezzles, or takes and carries away any paper, parchment, or other material prepared and intended to be used in the making of any such papers, instruments, obligations, devices, or documents; or
 
-Whoever, without such authority, so secretes, embezzles, or takes and carries away any paper, parchment, or other material printed or stamped, in whole or part, and intended to beprepared, issued, or put in circulation on behalf of the United States as one of such papers, instruments, or obligations, or printed or stamped, in whole or part, in the similitude of any such paper, instrument, or obligation, whether intended to issue or put the same in circulation or not—
+Whoever, without such authority, so secretes, embezzles, or takes and carries away any paper, parchment, or other material printed or stamped, in whole or part, and intended to be prepared, issued, or put in circulation on behalf of the United States as one of such papers, instruments, or obligations, or printed or stamped, in whole or part, in the similitude of any such paper, instrument, or obligation, whether intended to issue or put the same in circulation or not—
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 

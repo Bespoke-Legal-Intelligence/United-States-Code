@@ -74,11 +74,11 @@
 
 #### (3) Report
 
-&emsp;Not later than 270 days after the date on which the Advisory Committee is established, the Advisory Committee may submit a report to the Secretary concerning the review conducted under paragraph (2) that contains the recommendations of the Advisory Committee with respect to the results of such review.
+&emsp;Not later than 270 days after the date on which the Advisory Committee is established, the Advisory Committee may submit a report to the Secretary concerning the review conducted under paragraph (2) that contains therecommendations of the Advisory Committee with respect to the results of such review.
 
 #### (c) Grants
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for the collection, analysis, and reporting of data on ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in somecases progress to ALS after receiving the report under subsection (b)(3).
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for the collection, analysis, and reporting of data on ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS after receiving the report under subsection (b)(3).
 
 #### (d) Coordination with State, local, and Federal registries
 

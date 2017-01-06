@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer ofthe subject merchandise establishing that—
+&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer of the subject merchandise establishing that—
 
 &emsp;&emsp;&emsp;&emsp;(I) such exporter or producer did not export the merchandise that was the subject of an antidumping duty or countervailing duty order to the United States (or, in the case of a regional industry, did not export the subject merchandise for sale in the region concerned) during the period of investigation, and
 
@@ -46,13 +46,27 @@
 
 &emsp;&emsp;&nbsp;if the request for the review is made during that 6-month period.
 
-#### (iii) Posting bond or security
-
-&emsp;&emsp;&emsp;The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.
-
-#### (iv) Time limits
+#### (iii) Time limits
 
 &emsp;&emsp;&emsp;The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
+
+#### (iv) Determinations based on bona fide sales
+
+&emsp;&emsp;&emsp;Any weighted average dumping margin or individual countervailing duty rate determined for an exporter or producer in a review conducted under clause (i) shall be based solely on the bona fide United States sales of an exporter or producer, as the case may be, made during the period covered by the review. In determining whether the United States sales of an exporter or producer made during the period covered by the review were bona fide, the administering authority shall consider, depending on the circumstances surrounding such sales—
+
+&emsp;&emsp;&emsp;&emsp;(I) the prices of such sales;
+
+&emsp;&emsp;&emsp;&emsp;(II) whether such sales were made in commercial quantities;
+
+&emsp;&emsp;&emsp;&emsp;(III) the timing of such sales;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the expenses arising from such sales;
+
+&emsp;&emsp;&emsp;&emsp;(V) whether the subject merchandise involved in such sales was resold in the United States at a profit;
+
+&emsp;&emsp;&emsp;&emsp;(VI) whether such sales were made on an arms-length basis; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) any other factor the administering authority determines to be relevant as to whether such sales are, or are not, likely to be typical of those the exporter or producer will make after completion of the review.
 
 #### (C) Results of determinations
 
@@ -174,7 +188,7 @@
 
 #### (C) Extraordinarily complicated
 
-&emsp;&emsp;For purposes of this subsection, the administering authority or the Commission (as the case may be) may treat a review as extraordinarily complicated if—
+&emsp;&emsp;For purposes of this subsection, the administering authority or the Commission (as thecase may be) may treat a review as extraordinarily complicated if—
 
 &emsp;&emsp;&emsp;(i) there is a large number of issues,
 
@@ -300,7 +314,7 @@ If the determination of the Commission under subsection (b)(2)(B) is negative, t
 
 The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term "ministerial error" includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-(June 17, 1930, ch. 497, title VII, §751, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 175; amended Pub. L. 98–573, title VI, §611(a)(2), (3), Oct. 30, 1984, 98 Stat. 3031; Pub. L. 99–514, title XVIII, §1886(a)(8), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1333(b), Aug. 23, 1988, 102 Stat. 1209; Pub. L. 103–465, title II, §§220(a), 283(c), Dec. 8, 1994, 108 Stat. 4857, 4930; Pub. L. 106–36, title II, §2410, June 25, 1999, 113 Stat. 171.)
+(June 17, 1930, ch. 497, title VII, §751, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 175; amended Pub. L. 98–573, title VI, §611(a)(2), (3), Oct. 30, 1984, 98 Stat. 3031; Pub. L. 99–514, title XVIII, §1886(a)(8), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1333(b), Aug. 23, 1988, 102 Stat. 1209; Pub. L. 103–465, title II, §§220(a), 283(c), Dec. 8, 1994, 108 Stat. 4857, 4930; Pub. L. 106–36, title II, §2410, June 25, 1999, 113 Stat. 171; Pub. L. 114–125, title IV, §433, Feb. 24, 2016, 130 Stat. 171.)
 
 #### References in Text
 
@@ -311,6 +325,8 @@ The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)
 The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(B)(iii), (iv). Pub. L. 114–125 added cl. (iv), redesignated former cl. (iv) as (iii), and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: "The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of thereview, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise."
 
 <b>1999</b>—Subsec. (c)(7). Pub. L. 106–36 added par. (7).
 
@@ -342,7 +358,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Suspension of the Availability of Bonds to New Shippers
 
@@ -354,7 +370,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

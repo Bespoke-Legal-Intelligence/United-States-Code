@@ -2,7 +2,7 @@
 
 (a)
 
-Sunset.—The authority to provide educational assistance under this chapter shall terminate on the date that is four years after thedate of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
+Sunset.—The authority to provide educational assistance under this chapter shall terminate on the date that is four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
 
 (b)
 

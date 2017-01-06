@@ -112,7 +112,7 @@ If the preliminary determination of the administering authority under subsection
 
 &emsp;&emsp;(B) the date that is 60 days after the date on which notice of the determination to initiate the investigation is published in the Federal Register, and
 
-&emsp;(3) shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its injury determination, under such procedures as the administering authority and the Commission may establishto prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
+&emsp;(3) shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its injury determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
 > The instructions of the administering authority under paragraphs (1) and (2) may not remain in effect for more than 4 months, except that the administering authority may, at the request of exporters representing a significant proportion of exports of the subject merchandise, extend that 4-month period to not more than 6 months.
 
@@ -158,7 +158,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 > by reason of imports of the merchandise which is the subject of the investigation by the administering authority. If that determination is negative, the investigation shall be terminated."
 
-Subsec. (b)(1)(A). Pub. L. 103–465, §219(a)(2), struck out at end "If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price."
+Subsec. (b)(1)(A). Pub. L. 103–465, §219(a)(2), struck out at end "If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated averageamount by which the foreign market value exceeds the United States price."
 
 Pub. L. 103–465, §§212(b)(2)(C)(i), 233(a)(6)(A)(viii), substituted "140 days after the date on which the administering authority initiates an investigation under section 1673a(c) of this title" for "160 days after the date on which a petition is filed under section 1673a(b) of this title", "initiated" for "commenced", and "information" for "best information".
 

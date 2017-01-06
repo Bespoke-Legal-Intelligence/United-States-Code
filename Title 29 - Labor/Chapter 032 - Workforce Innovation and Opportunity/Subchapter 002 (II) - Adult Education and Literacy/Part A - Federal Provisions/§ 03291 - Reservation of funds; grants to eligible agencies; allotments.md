@@ -60,7 +60,7 @@ For the purpose of subsection (c)(2), the term "qualifying adult" means an adult
 
 #### (4) Administrative costs
 
-&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under this subsection to pay the administrative costs of the Pacific Region EducationalLaboratory regarding activities assisted under this subsection.
+&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under this subsection to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subsection.
 
 #### (f) Hold-harmless provisions
 

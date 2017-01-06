@@ -38,6 +38,10 @@ Pub. L. 91–513, title II, §704, Oct. 27, 1970, 84 Stat. 1284, provided that:
 
 "(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\]."
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–145, §1, Apr. 19, 2016, 130 Stat. 354, provided that: "This Act \[amending sections 823 and 824 of this title\] may be cited as the 'Ensuring Patient Access and Effective Drug Enforcement Act of 2016'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–260, §1, Dec. 18, 2014, 128 Stat. 2929, provided that: "This Act \[amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under section 825 of this title\] may be cited as the 'Designer Anabolic Steroid Control Act of 2014'."
@@ -50,7 +54,7 @@ Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: "This Act \[amending sections 822 and 828 ofthis title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Secure and Responsible Drug Disposal Act of 2010'."
+Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: "This Act \[amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Secure and Responsible Drug Disposal Act of 2010'."
 
 Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: "This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title\] may be cited as the 'Combat Methamphetamine Enhancement Act of 2010'."
 
@@ -136,7 +140,7 @@ Pub. L. 99–570, title I, §1251, Oct. 27, 1986, 100 Stat. 3207–14, provided 
 
 Pub. L. 99–570, title I, §1301, Oct. 27, 1986, 100 Stat. 3207–15, provided that: "This subtitle \[subtitle G (§§1301, 1302) of title I of Pub. L. 99–570, amending section 960 of this title\] may be cited as the 'Controlled Substances Import and Export Penalties Enhancement Act of 1986'."
 
-Pub. L. 99–570, title I, §1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§1821–1823) of title I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the "Mail Order Drug Paraphernalia Control Act", was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
+Pub. L. 99–570, title I, §1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§1821–1823) oftitle I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the "Mail Order Drug Paraphernalia Control Act", was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
 
 Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided that: "This subtitle \[subtitle U (§§1991, 1992) of title I of Pub. L. 99–570, amending section 881 of this title\] may be cited as the 'Federal Drug Law Enforcement Agent Protection Act of 1986'."
 
@@ -160,7 +164,7 @@ Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enact
 
 Pub. L. 91–513, title II, §100, Oct. 27, 1970, 84 Stat. 1242, provided that: "This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the 'Controlled Substances Act'."
 
-For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of thischapter, as the "Controlled Substances Import and Export Act", see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
+For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of this chapter, as the "Controlled Substances Import and Export Act", see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
 
 #### Severability
 
@@ -188,7 +192,7 @@ In General.—The Attorney General, in consultation with the Administrator of th
 
 &emsp;"(1) develop—
 
-&emsp;&emsp;"(A) model protocols for the collection of toxicology specimens and the taking of victim statements in connection with investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving abuse of gamma hydroxybutyric acid, other controlled substances, or so-called 'designer drugs'; and
+&emsp;&emsp;"(A) model protocols for the collection of toxicology specimens and the taking of victim statements in connection with investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] orother Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving abuse of gamma hydroxybutyric acid, other controlled substances, or so-called 'designer drugs'; and
 
 &emsp;&emsp;"(B) model training materials for law enforcement personnel involved in such investigations; and
 
@@ -246,7 +250,7 @@ Advisory committee.—Not later than 180 days after the date of the enactment of
 
 &emsp;"(2)
 
-Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developedunder such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
+Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
 
 "(c)
 
@@ -274,81 +278,11 @@ Pub. L. 104–237, title I, §101, Oct. 3, 1996, 110 Stat. 3100, provided that: 
 
 #### Interagency Methamphetamine Task Force
 
-Pub. L. 104–237, title V, §501, Oct. 3, 1996, 110 Stat. 3111, provided that:
-
-"(a)
-
-Establishment.—There is established a 'Methamphetamine Interagency Task Force' (referred to as the 'interagency task force') which shall consist of the following members:
-
-&emsp;"(1) The Attorney General, or a designee, who shall serve as chair.
-
-&emsp;"(2) 2 representatives selected by the Attorney General.
-
-&emsp;"(3) The Secretary of Education or a designee.
-
-&emsp;"(4) The Secretary of Health and Human Services or a designee.
-
-&emsp;"(5) 2 representatives of State and local law enforcement and regulatory agencies, to be selected by the Attorney General.
-
-&emsp;"(6) 2 representatives selected by the Secretary of Health and Human Services.
-
-&emsp;"(7) 5 nongovernmental experts in drug abuse prevention and treatment to be selected by the Attorney General.
-
-"(b)
-
-Responsibilities.—The interagency task force shall be responsible for designing, implementing, and evaluating the education and prevention and treatment practices and strategies of the Federal Government with respect to methamphetamine and other synthetic stimulants.
-
-"(c)
-
-Meetings.—The interagency task force shall meet at least once every 6 months.
-
-"(d)
-
-Funding.—The administrative expenses of the interagency task force shall be paid out of existing Department of Justice appropriations.
-
-"(e)
-
-FACA.—The Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\] shall apply to the interagency task force.
-
-"(f)
-
-Termination.—The interagency task force shall terminate 4 years after the date of enactment of this Act \[Oct. 3, 1996\]."
+Pub. L. 104–237, title V, §501, Oct. 3, 1996, 110 Stat. 3111, provided for the establishment of a Methamphetamine Interagency Task Force to design and implement education, prevention, and treatment strategies with respect to methamphetamine and other synthetic stimulants and for the task force to terminate 4 years after Oct. 3, 1996.
 
 #### Suspicious Orders Task Force
 
-Pub. L. 104–237, title V, §504, Oct. 3, 1996, 110 Stat. 3112, provided that:
-
-"(a)
-
-In General.—The Attorney General shall establish a 'Suspicious Orders Task Force' (the 'Task Force') which shall consist of—
-
-&emsp;"(1) appropriate personnel from the Drug Enforcement Administration (the 'DEA') and other Federal, State, and local law enforcement and regulatory agencies with the experience in investigating and prosecuting illegal transactions of listed chemicals and supplies; and
-
-&emsp;"(2) representatives from the chemical and pharmaceutical industry.
-
-"(b)
-
-Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
-
-"(c)
-
-Meetings.—The Task Force shall meet at least two times per year and at such other times as may be determined necessary by the Task Force.
-
-"(d)
-
-Report.—The Task Force shall present a report to the Attorney General on its proposals with regard to suspicious orders and the electronic reporting of suspicious orders within one year of the date of enactment of this Act \[Oct. 3, 1996\]. Copies of the report shall be forwarded to the Committees of the Senate and House of Representatives having jurisdiction over the regulation of listed chemical and controlled substances.
-
-"(e)
-
-Funding.—The administrative expenses of the Task Force shall be paid out of existing Department of Justice funds or appropriations.
-
-"(f)
-
-FACA.—The Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\] shall apply to the Task Force.
-
-"(g)
-
-Termination.—The Task Force shall terminate upon presentation of its report to the Attorney General, or two years after the date of enactment of this Act \[Oct. 3, 1996\], whichever is sooner."
+Pub. L. 104–237, title V, §504, Oct. 3, 1996, 110 Stat. 3112, directed the Attorney General to establish a Suspicious Orders Task Force which would develop proposals to define suspicious orders of listed chemicals for registrants to use in determining if an order was a suspicious order that must be reported to DEA and would terminate upon presentation of its report to the Attorney General, or two years after Oct. 3, 1996, whichever was sooner.
 
 #### Joint Federal Task Force on Illegal Drug Laboratories
 
@@ -418,7 +352,7 @@ Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of Sta
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
@@ -434,7 +368,7 @@ Pub. L. 99–570, title III, §§3001–3003, 3301, Oct. 27, 1986, 100 Stat. 320
 
 #### "SEC. 3001. SHORT TITLE.
 
-"This title \[enacting section 379 of Title 10, Armed Forces, sections 1590, 1628, 1629, and 2081 of Title 19, Customs Duties, and section 312a of Title 47, Telecommunications, amending section 959 of this title, sections 374 and 911 of Title 10, sections 507, 1401, 1433, 1436, 1454, 1459, 1497, 1509, 1584 to 1586, 1594 to 1595a, 1613, 1613b, 1619, and 1622 of Title 19, section 5316 of Title 31, Money and Finance, section 12109 of Title 46, Shipping, sections 1901 to 1904 of Title 46, Appendix, Shipping, and sections 1401, 1472, 1474, and 1509 of former Title 49, Transportation, repealing section 1460 of Title 19, enacting provisions set out as notes under section 801 of this title, sections 371, 374, 525, and 9441 of Title 10, sections 1613b and 1654 of Title 19, section 403 of Title 23, Highways, section 1901 of Title 46, Appendix, section 11344 of Title 49, and section 1509 of former Title 49, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'National Drug Interdiction Improvement Act of 1986'.
+"This title \[enacting section 379 of Title 10, Armed Forces, sections 1590, 1628, 1629, and 2081 of Title 19,Customs Duties, and section 312a of Title 47, Telecommunications, amending section 959 of this title, sections 374 and 911 of Title 10, sections 507, 1401, 1433, 1436, 1454, 1459, 1497, 1509, 1584 to 1586, 1594 to 1595a, 1613, 1613b, 1619, and 1622 of Title 19, section 5316 of Title 31, Money and Finance, section 12109 of Title 46, Shipping, sections 1901 to 1904 of Title 46, Appendix, Shipping, and sections 1401, 1472, 1474, and 1509 of former Title 49, Transportation, repealing section 1460 of Title 19, enacting provisions set out as notes under section 801 of this title, sections 371, 374, 525, and 9441 of Title 10, sections 1613b and 1654 of Title 19, section 403 of Title 23, Highways, section 1901 of Title 46, Appendix, section 11344 of Title 49, and section 1509 of former Title 49, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'National Drug Interdiction Improvement Act of 1986'.
 
 #### "SEC. 3002. FINDINGS.
 
@@ -598,11 +532,11 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 &emsp;"(F) the international control of marihuana.
 
-"(2) Within one year after the date on which funds first become available to carry out this section, the Commission shall submit to the President and the Congress a comprehensive report on its study and investigation under this subsection which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations.
+"(2) Within one year after the date on which funds first become available to carry out this section, theCommission shall submit to the President and the Congress a comprehensive report on its study and investigation under this subsection which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations.
 
 "(e)
 
-\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations forlegislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
+\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
 
 "(f)
 

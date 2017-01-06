@@ -46,7 +46,7 @@ Existing programs.—Notwithstanding paragraphs (3) and (4), any training progra
 
 &emsp;(6)
 
-Monitoring.—The Under Secretary, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall review an air carrier's training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier's training program should be reviewed under this paragraph, the Under Secretary shall consider complaints from crew members. The Under Secretary shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
+Monitoring.—The Under Secretary, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall reviewan air carrier's training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier's training program should be reviewed under this paragraph, the Under Secretary shall consider complaints from crew members. The Under Secretary shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
 
 &emsp;(7)
 

@@ -16,7 +16,7 @@ In this chapter:
 
 #### (4) High school
 
-&emsp;The term "high school" means any public or private school that operates grades 10 through12, inclusive, grades 9 through 12, inclusive or grades 7 through 12, inclusive.
+&emsp;The term "high school" means any public or private school that operates grades 10 through 12, inclusive, grades 9 through 12, inclusive or grades 7 through 12, inclusive.
 
 #### (5) Intervention services
 

@@ -24,9 +24,19 @@ Requirements for Execution of Military Testamentary Instruments.—An instrument
 
 &emsp;(1) the instrument is executed by the testator (or, if the testator is unable to execute the instrument personally, the instrument is executed in the presence of, by the direction of, and on behalf of the testator);
 
-&emsp;(2) the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;
+&emsp;(2) the execution of the instrument is notarized by—
 
-&emsp;(3) the instrument is executed in the presence of at least two disinterested witnesses (in addition to the presiding attorney), each of whom attests to witnessing the testator's execution of the instrument by signing it; and
+&emsp;&emsp;(A) a military legal assistance counsel;
+
+&emsp;&emsp;(B) a person who is authorized to act as a notary under section 1044a of this title who—
+
+&emsp;&emsp;&emsp;(i) is not an attorney; and
+
+&emsp;&emsp;&emsp;(ii) is supervised by a military legal assistance counsel; or
+
+&emsp;&emsp;(C) a State-licensed notary employed by a military department or the Coast Guard who is supervised by a military legal assistance counsel;
+
+&emsp;(3) the instrument is executed in the presence of at least two disinterested witnesses (in addition to the person notarizing the instrument in accordance with paragraph (2)), each of whom attests to witnessing the testator's execution of the instrument by signing it; and
 
 &emsp;(4) the instrument is executed in accordance with such additional requirements as may be provided in regulations prescribed under this section.
 
@@ -72,9 +82,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title V, §523(a), Dec. 23, 2016, 130 Stat. 2116.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(2). Pub. L. 114–328, §523(a)(1), added par. (2) and struck out former par. (2) which read as follows: "the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;".
+
+Subsec. (c)(3). Pub. L. 114–328, §523(a)(2), substituted "person notarizing the instrument in accordance with paragraph (2)" for "presiding attorney".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 

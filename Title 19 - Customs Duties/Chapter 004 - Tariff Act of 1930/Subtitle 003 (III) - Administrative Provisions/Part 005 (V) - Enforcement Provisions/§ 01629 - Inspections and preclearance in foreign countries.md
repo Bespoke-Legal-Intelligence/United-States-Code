@@ -30,13 +30,13 @@ When customs officials of a foreign country are stationed in the United States i
 
 #### (g) Privileges and immunities
 
-Any person designated to perform the duties of an officer of the Customs Service pursuant tosection 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
+Any person designated to perform the duties of an officer of the Customs Service pursuant to section 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
 
 #### (h) Customs procedures and commitments
 
 #### (1) In general
 
-&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
+&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall workthrough appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
 
 #### (2) United States Trade Representative
 
@@ -112,11 +112,11 @@ Subsec. (g). Pub. L. 108–7, §127(c)(4), which directed addition of subsec. (g
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17,2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
 
-Pub. L. 108–429, title I, §1560, Dec. 3, 2004, 118 Stat. 2580, provided that:
+Pub. L. 108–429, title I, §1560, Dec. 3, 2004, 118 Stat. 2580, as amended by Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that:
 
 "(a)
 
@@ -136,15 +136,15 @@ Creation of Integrated Border Inspection Areas.—
 
 &emsp;"(1)
 
-In general.—The Commissioner of the Customs Service \[Bureau of Customs and Border Protection\], in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques.
+In general.—The Commissioner of U.S. Customs and Border Protection, in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques.
 
 &emsp;"(2)
 
-Additional requirement.—The Commissioner of Customs, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community.
+Additional requirement.—The Commissioner of U.S. Customs and Border Protection, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community.
 
 &emsp;"(3)
 
-Elements of the program.—Using the authority granted by this section and under section 629 of the Tariff Act of 1930 \[19 U.S.C. 1629\], the Commissioner of Customs, in consultation with the Canadian Customs and Revenue Agency, shall seek to—
+Elements of the program.—Using the authority granted by this section and under section 629 of the Tariff Act of 1930 \[19 U.S.C. 1629\], the Commissioner of U.S. Customs and Border Protection, in consultation with the Canadian Customs and Revenue Agency, shall seek to—
 
 &emsp;&emsp;"(A) locate Integrated Border Inspection Areas in areas with bridges or tunnels with high traffic volume, significant commercial activity, and that have experienced backups and delays since September 11, 2001;
 

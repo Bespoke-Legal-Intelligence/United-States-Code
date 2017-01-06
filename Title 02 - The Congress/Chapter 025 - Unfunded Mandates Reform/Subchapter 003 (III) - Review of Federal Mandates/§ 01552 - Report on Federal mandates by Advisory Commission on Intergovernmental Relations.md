@@ -18,7 +18,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;&emsp;(D) suspending, on a temporary basis, Federal mandates which are not vital to public health and safety and which compound the fiscal difficulties of State, local, and tribal governments, including recommendations for triggering such suspension;
 
-&emsp;&emsp;(E) consolidating or simplifying Federal mandates, or the planning or reporting requirements of such mandates, in order to reduce duplication and facilitate compliance by State, local, and tribal governments with those mandates;
+&emsp;&emsp;(E) consolidating or simplifying Federal mandates, or the planning or reporting requirements of such mandates, in order to reduce duplication and facilitate complianceby State, local, and tribal governments with those mandates;
 
 &emsp;&emsp;(F) establishing common Federal definitions or standards to be used by State, local, and tribal governments in complying with Federal mandates that use different definitions or standards for the same terms or principles; and
 
@@ -40,7 +40,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 #### (2) Issuance of proposed criteria
 
-&emsp;The Commission shall issue proposed criteria under this subsection no later than 60days after March 22, 1995, and thereafter provide a period of 30 days for submission by the public of comments on the proposed criteria.
+&emsp;The Commission shall issue proposed criteria under this subsection no later than 60 days after March 22, 1995, and thereafter provide a period of 30 days for submission by the public of comments on the proposed criteria.
 
 #### (3) Final criteria
 

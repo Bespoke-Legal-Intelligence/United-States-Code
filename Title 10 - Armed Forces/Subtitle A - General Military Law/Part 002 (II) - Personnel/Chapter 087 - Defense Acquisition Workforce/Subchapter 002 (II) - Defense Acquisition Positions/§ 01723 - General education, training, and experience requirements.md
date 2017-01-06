@@ -14,11 +14,11 @@ Career Path Requirements.—For each career path, the Secretary of Defense, acti
 
 &emsp;(1) encourage individuals in the acquisition workforce to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities; and
 
-&emsp;(2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in suchend user's environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
+&emsp;(2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in such end user's environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
 
 (c)
 
-Limitation on Credit for Training or Education.—Not more than one year of a period of time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
+Limitation on Credit for Training or Education.—Not more than one year of a periodof time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 104–201, div. A, title X, §1074(a)(9)(A), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 111–383, div. A, title VIII, §§873(b), 874(a), Jan. 7, 2011, 124 Stat. 4303, 4304.)
 

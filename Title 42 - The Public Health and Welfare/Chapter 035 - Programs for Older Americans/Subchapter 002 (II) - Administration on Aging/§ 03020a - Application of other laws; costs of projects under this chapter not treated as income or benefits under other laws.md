@@ -4,7 +4,7 @@
 
 (b) No part of the costs of any project under any subchapter of this chapter may be treated as income or benefits to any eligible individual (other than any wage or salary to such individual) for the purpose of any other program or provision of Federal or State law.
 
-(Pub. L. 89–73, title II, §210, formerly §211, as added Pub. L. 94–135, title I, §102, Nov. 28, 1975, 89 Stat. 713; amended Pub. L. 95–478, title I, §102(h), Oct. 18, 1978, 92 Stat. 1515; renumbered §210 and amended Pub. L. 97–115, §2(e)(2), (j), Dec. 29, 1981, 95 Stat. 1596.)
+(Pub. L. 89–73, title II, §210, formerly §211, as added Pub. L. 94–135, title I, §102, Nov. 28, 1975, 89 Stat. 713; amended Pub. L. 95–478, title I, §102(h), Oct. 18, 1978, 92 Stat. 1515; renumbered§210 and amended Pub. L. 97–115, §2(e)(2), (j), Dec. 29, 1981, 95 Stat. 1596.)
 
 #### Codification
 

@@ -12,7 +12,7 @@ In any proceeding involving the issue whether a foundation manager (as defined i
 
 &emsp;&emsp;<b>For provisions relating to burden of proof as to transferee liability, see section 6902(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title I, §101(j)(57), Dec. 30, 1969, 83 Stat. 532; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §4(d)(7), Feb. 10, 1978, 92 Stat. 23; Pub. L. 96–222, title I, §108(b)(3)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 100–203, title X, §§10712(c)(6), 10714(b), Dec. 22, 1987, 101 Stat. 1330–467, 1330-471; Pub. L. 104–168, title XIII, §1311(c)(5), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1704(t)(43), Aug. 20, 1996, 110 Stat. 1889.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title I, §101(j)(57), Dec. 30, 1969, 83 Stat. 532; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §4(d)(7), Feb. 10, 1978, 92 Stat. 23; Pub. L. 96–222, title I, §108(b)(3)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 100–203, title X, §§10712(c)(6), 10714(b), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 104–168, title XIII, §1311(c)(5), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1704(t)(43), Aug. 20, 1996, 110 Stat. 1889.)
 
 #### Amendments
 

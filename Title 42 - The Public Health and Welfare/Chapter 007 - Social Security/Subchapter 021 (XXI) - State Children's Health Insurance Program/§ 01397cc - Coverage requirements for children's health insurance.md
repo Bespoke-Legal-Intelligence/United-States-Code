@@ -2,11 +2,11 @@
 
 #### (a) Required scope of health insurance coverage
 
-The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
+The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
 
 #### (1) Benchmark coverage
 
-&emsp;Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b) of this section.
+&emsp;Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
 
 #### (2) Benchmark-equivalent coverage
 
@@ -14,7 +14,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (A) Inclusion of basic services
 
-&emsp;&emsp;The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1) of this section.
+&emsp;&emsp;The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1).
 
 #### (B) Aggregate actuarial value equivalent to benchmark package
 
@@ -22,15 +22,15 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
-&emsp;&emsp;With respect to each of the categories of additional services described in subsection\(c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage
 
-&emsp;Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1) of this section.
+&emsp;Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1).
 
 #### (4) Secretary-approved coverage
 
-&emsp;Any other health benefits coverage that the Secretary determines, upon application by a State, provides appropriate coverage for the population of targeted low-income children proposed to be provided such coverage.
+&emsp;Any other health benefits coverage that the Secretary determines, upon application by aState, provides appropriate coverage for the population of targeted low-income children proposed to be provided such coverage.
 
 #### (b) Benchmark benefit packages
 
@@ -120,7 +120,7 @@ The benchmark benefit packages are as follows:
 
 #### (ii) State employee dependent dental coverage
 
-&emsp;&emsp;&emsp;A dental benefits plan that is offered and generally available to State employees inthe State involved and that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
+&emsp;&emsp;&emsp;A dental benefits plan that is offered and generally available to State employees in the State involved and that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
 
 #### (iii) Coverage offered through commercial dental plan
 
@@ -164,7 +164,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;&emsp;(A) the actuarial value of the coverage under the program as of August 5, 1997, or
 
-&emsp;&emsp;(B) the actuarial value described in subsection (a)(2)(B) of this section,
+&emsp;&emsp;(B) the actuarial value described in subsection (a)(2)(B),
 
 > &emsp;evaluated as of the time of the modification.
 
@@ -182,7 +182,7 @@ The benchmark benefit packages are as follows:
 
 #### (2) No cost sharing on benefits for preventive services or pregnancy-related assistance
 
-&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) of this section or for pregnancy-related assistance.
+&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
 
 #### (3) Limitations on premiums and cost-sharing
 
@@ -196,7 +196,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Other children
 
-&emsp;&emsp;For children not described in subparagraph (A), subject to paragraphs (1)(B) and (2), any premiums, deductibles, cost sharing or similar charges imposed under the State childhealth plan may be imposed on a sliding scale related to income, except that the total annual aggregate cost-sharing with respect to all targeted low-income children in a family under this subchapter may not exceed 5 percent of such family's income for the year involved.
+&emsp;&emsp;For children not described in subparagraph (A), subject to paragraphs (1)(B) and (2), any premiums, deductibles, cost sharing or similar charges imposed under the State child health plan may be imposed on a sliding scale related to income, except that the total annual aggregate cost-sharing with respect to all targeted low-income children in a family under this subchapter may not exceed 5 percent of such family's income for the year involved.
 
 #### (C) Premium grace period
 

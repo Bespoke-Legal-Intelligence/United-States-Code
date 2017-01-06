@@ -32,7 +32,7 @@ In general.—The Secretary shall initiate a rulemaking to require a distributor
 
 &emsp;(B)
 
-Electronic transmission.—The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit therecords described in clauses (i), (ii), and (iii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.
+Electronic transmission.—The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit the records described in clauses (i), (ii), and (iii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.
 
 &emsp;(C)
 

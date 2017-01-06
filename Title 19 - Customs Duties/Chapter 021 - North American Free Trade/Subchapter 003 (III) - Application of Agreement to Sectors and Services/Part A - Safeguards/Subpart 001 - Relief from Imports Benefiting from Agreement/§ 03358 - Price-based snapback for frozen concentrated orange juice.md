@@ -12,7 +12,7 @@
 
 #### (2) Notice of determinations
 
-&emsp;The Secretary shall immediately notify the Commissioner of Customs and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
+&emsp;The Secretary shall immediately notify the Commissioner of U.S. Customs and Border Protection and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
 
 #### (b) Imports of Mexican articles
 
@@ -48,13 +48,17 @@ For purposes of this section—
 
 &emsp;(6) The term "trigger price" means the average daily closing price of the New York Cotton Exchange, or any successor as determined by the Secretary, for the corresponding month during the previous 5-year period, excluding the year with the highest average price for the corresponding month and the year with the lowest average price for the corresponding month.
 
-(Pub. L. 103–182, title III, §309, Dec. 8, 1993, 107 Stat. 2105; Pub. L. 104–295, §21(b)(4), Oct. 11, 1996, 110 Stat. 3530.)
+(Pub. L. 103–182, title III, §309, Dec. 8, 1993, 107 Stat. 2105; Pub. L. 104–295, §21(b)(4), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendments
 
 <b>1996</b>—Subsec. (c)(1), (2). Pub. L. 104–295 substituted "column 1 general" for "column 1–General".
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (a)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

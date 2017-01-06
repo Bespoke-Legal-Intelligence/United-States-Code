@@ -8,7 +8,7 @@
 
 #### (2) Programs
 
-&emsp;The Secretary shall carry out the fellowship program by implementing 3 programs designedto assist individual fellowship recipients, including—
+&emsp;The Secretary shall carry out the fellowship program by implementing 3 programs designed to assist individual fellowship recipients, including—
 
 &emsp;&emsp;(A) a graduate studies program in agriculture to assist individuals who participate in graduate agricultural degree training at a United States institution;
 
@@ -66,7 +66,7 @@ A fellowship provided under this section shall be used—
 
 #### (f) Program implementation
 
-The Secretary shall provide for the management, coordination, evaluation, and monitoring of the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
+The Secretary shall provide for the management, coordination, evaluation, and monitoringof the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
 
 #### (g) Authorization of appropriations
 

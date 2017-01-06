@@ -48,7 +48,7 @@ In this section:
 
 #### (6) Qualified electric transportation project
 
-&emsp;The term "qualified electric transportation project" means an electric transportation technology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
+&emsp;The term "qualified electric transportation project" means an electric transportationtechnology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
 
 &emsp;&emsp;(A) shipside or shoreside electrification for vessels;
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (6) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection $90,000,000 for each of fiscal years 2008 through 2012, of which not lessthan 1/3 of the total amount appropriated shall be available each fiscal year to make grants to local and municipal governments.
+&emsp;There is authorized to be appropriated to carry out this subsection $90,000,000 for each of fiscal years 2008 through 2012, of which not less than 1/3 of the total amount appropriated shall be available each fiscal year to make grants to local and municipal governments.
 
 #### (c) Near-term transportation sector electrification program
 

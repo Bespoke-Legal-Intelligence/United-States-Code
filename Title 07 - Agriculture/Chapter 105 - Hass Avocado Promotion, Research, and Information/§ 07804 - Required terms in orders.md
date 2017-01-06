@@ -100,9 +100,9 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d); or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), andpay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
-&emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Actof 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
+&emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
 &emsp;(8) receive, investigate, and report to the Secretary complaints of violations of the order;
 
@@ -172,7 +172,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;The order shall provide that any contract or agreement entered into under this paragraph shall provide that—
 
-&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board a plan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
+&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board aplan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;&emsp;(ii) the plan or project shall become effective on the approval of the Secretary; and
 
@@ -264,7 +264,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;&emsp;Any change in the rate of assessment under this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) may be made only if adopted by the Board by an affirmative vote of at least seven members of the Board and approved by the Secretary as necessary toachieve the objectives of this chapter (after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title);
+&emsp;&emsp;&emsp;&emsp;(I) may be made only if adopted by the Board by an affirmative vote of at least seven members of the Board and approved by the Secretary as necessary to achieve the objectives of this chapter (after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title);
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be announced by the Board not less than 30 days prior to going into effect; and
 
@@ -428,5 +428,5 @@ The Commodity Promotion, Research, and Information Act of 1996, referred to in s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

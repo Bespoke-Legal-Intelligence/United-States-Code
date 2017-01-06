@@ -16,5 +16,5 @@ Section 3224, Pub. L. 89–136, title VII, §714, Aug. 26, 1965, 79 Stat. 575, r
 
 Section 3225, Pub. L. 89–136, title VII, §715, Aug. 26, 1965, 79 Stat. 575, extended benefits to redevelopment areas under former section 2504 of this title.
 
-Section 3226, Pub. L. 89–136, title VII, §716, Aug. 26, 1965, 79 Stat. 576, prohibited statutory construction which could cause diminution in other Federal assistance.
+Section 3226, Pub. L. 89–136, title VII, §716, Aug. 26, 1965, 79 Stat. 576, prohibited statutory constructionwhich could cause diminution in other Federal assistance.
 

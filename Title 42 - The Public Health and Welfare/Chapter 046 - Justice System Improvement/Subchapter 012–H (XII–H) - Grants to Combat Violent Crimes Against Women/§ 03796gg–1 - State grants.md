@@ -174,7 +174,7 @@ A State may use any returned or remaining funds for any authorized purpose under
 
 &emsp;(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) <sup>4</sup>
 
-(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2),Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, §101(3), Mar. 7, 2013, 127 Stat. 66.)
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, §101(3), Mar. 7, 2013, 127 Stat. 66.)
 
 #### References in Text
 

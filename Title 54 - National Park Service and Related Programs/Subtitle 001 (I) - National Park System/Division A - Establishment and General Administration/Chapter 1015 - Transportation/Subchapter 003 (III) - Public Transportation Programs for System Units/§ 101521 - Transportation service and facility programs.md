@@ -40,7 +40,7 @@ Acquisition subject to statutory limitations.—Any land acquisition shall be su
 
 (c)
 
-Establishment of Information Programs.—The Secretary shall establish information programs to inform the public of availableSystem unit access opportunities and to promote the use of transportation modes other than personal motor vehicles for access to and travel within the System units.
+Establishment of Information Programs.—The Secretary shall establish information programs to inform the public of available System unit access opportunities and to promote the use of transportation modes other than personal motor vehicles for access to and travel within the System units.
 
 (d)
 

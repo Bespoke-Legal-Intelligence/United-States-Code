@@ -12,7 +12,7 @@
 
 (b) In this section, the term "dependent" has the same meaning that it has under section 401 of title 37.
 
-(Added Pub. L. 89–160, §1(1), Sept. 1, 1965, 79 Stat. 615; amended Pub. L. 91–278, §2(1), (2), June 12, 1970, 84 Stat. 306; Pub. L. 96–465, title II, §2206(c)(1), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 97–22, §11(a)(7), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, §1405(30), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1045(a)(4), Nov. 24, 2003, 117 Stat. 1612.)
+(Added Pub. L. 89–160, §1(1), Sept. 1, 1965, 79 Stat. 615; amended Pub. L. 91–278, §2(1), (2), June 12, 1970, 84 Stat. 306; Pub. L. 96–465, title II, §2206(c)(1), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 97–22, §11(a)(7), July 10, 1981, 95 Stat. 138; Pub. L.98–525, title XIV, §1405(30), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1045(a)(4), Nov. 24, 2003, 117 Stat. 1612.)
 
 #### Amendments
 

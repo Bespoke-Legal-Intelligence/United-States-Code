@@ -14,7 +14,7 @@
 
 #### (2) Eligibility
 
-&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexible agreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
+&emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexibleagreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
 
 #### (3) Report required
 
@@ -72,7 +72,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 &emsp;&emsp;&emsp;(vii) adoption of internal systems of accounting and auditing that are acceptable to the Secretary, and reporting the result thereof to the Secretary in a timely manner, and on an accurate, and auditable basis;
 
-&emsp;&emsp;&emsp;(viii) timely and accurate collection and reporting of such other data as the Secretary may require to carry out the purposes of the programs under this subchapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(viii) timely and accurate collection and reporting of such other data as the Secretary may require to carry out the purposes of the programs under this subchapter;
 
 &emsp;&emsp;&emsp;(ix) monitoring of institutions and lenders participating in the program under this part; and
 
@@ -92,7 +92,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 &emsp;(3) shall provide for uniform lender participation with the guaranty agency under the terms of the agreement; and
 
-&emsp;(4) shall not prohibit or restrict borrowers from selecting a lender of the borrower's choosing, subject to the prohibitions and restrictions applicable to the selection under this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;(4) shall not prohibit or restrict borrowers from selecting a lender of the borrower's choosing, subject to the prohibitions and restrictions applicable to the selection under this chapter.
 
 #### (c) Public notice
 
@@ -118,7 +118,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (3) Waiver notice
 
-&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> of this section to a guaranty agency that is not a party to a voluntary flexible agreement.
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
 
 #### (4) Public availability
 
@@ -140,7 +140,7 @@ Paragraph (2) of subsec. (a) of this section, referred to in subsecs. (a)(1) and
 
 #### Prior Provisions
 
-A prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1384; amended Pub. L. 100–50, §10(n), (o)(1), (p)(1), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 100–369, §§3–5(a), (b)(3), July 18, 1988, 102 Stat. 835, 836; Pub. L. 101–239, title II, §2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2112, 2114; Pub. L. 101–508, title III, §3006(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(c)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §417, July 23, 1992, 106 Stat. 529; Pub. L. 103–208,§2(c)(29)–(32), Dec. 20, 1993, 107 Stat. 2465, 2466, related to Federal supplemental loans for students, prior to repeal by Pub. L. 103–66, title IV, §4047(b), (d), Aug. 10, 1993, 107 Stat. 364, effective July 1, 1994.
+A prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1384; amended Pub. L. 100–50, §10(n), (o)(1), (p)(1), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 100–369, §§3–5(a), (b)(3), July 18, 1988, 102 Stat. 835, 836; Pub. L. 101–239, title II, §2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2112, 2114; Pub. L. 101–508, title III, §3006(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(c)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §417, July 23, 1992, 106 Stat. 529; Pub. L. 103–208, §2(c)(29)–(32), Dec. 20, 1993, 107 Stat. 2465, 2466, related to Federal supplemental loans for students, prior to repeal by Pub. L. 103–66, title IV, §4047(b), (d), Aug. 10, 1993, 107 Stat. 364, effective July 1, 1994.
 
 Another prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2120; amended Pub. L. 95–43, §1(a)(30)–(32), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §412(e), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(e), Aug. 13, 1981, 95 Stat. 455, related to student loan insurance programs, prior to the general amendment of this part by Pub. L. 99–498.
 

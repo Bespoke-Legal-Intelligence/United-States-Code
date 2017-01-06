@@ -40,7 +40,7 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 #### Abolition of Reconstruction Finance Corporation
 
-The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
+The Reconstruction Finance Corporation, which was created by the Reconstruction Finance CorporationAct, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Abolition of Home Owners' Loan Corporation
 

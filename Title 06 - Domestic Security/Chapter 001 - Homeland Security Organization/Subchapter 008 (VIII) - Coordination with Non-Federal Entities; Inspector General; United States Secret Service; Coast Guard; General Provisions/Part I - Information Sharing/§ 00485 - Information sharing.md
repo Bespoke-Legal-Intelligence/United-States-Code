@@ -252,7 +252,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(H) the measures taken by the Federal government to ensure the accuracy of information in the ISE, in particular the accuracy of information about individuals;
 
-&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, includingactions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
+&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, including actions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
 
 &emsp;&emsp;(J) an assessment of the security protections used in the ISE.
 
@@ -282,7 +282,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
 
-&emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an "authorized use" standard); and
+&emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weaponsof mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an "authorized use" standard); and
 
 &emsp;&emsp;(D) the use of anonymized data by Federal departments, agencies, or components collecting, possessing, disseminating, or handling information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, in any cases in which—
 
@@ -316,7 +316,7 @@ There is authorized to be appropriated to carry out this section $30,000,000 for
 
 Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below, which established an Information Sharing Council consistent with subsec. (g) of this section.
 
-This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known asthe National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

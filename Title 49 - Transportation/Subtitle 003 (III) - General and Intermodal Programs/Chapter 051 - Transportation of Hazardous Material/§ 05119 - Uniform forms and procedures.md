@@ -76,7 +76,7 @@ The date of enactment of this subsection, referred to in subsec. (e), is the dat
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to establishment of working group, consultation and reporting, regulations, and relationship to other laws.
+<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior toamendment, section consisted of subsecs. (a) to (d) relating to establishment of working group, consultation and reporting, regulations, and relationship to other laws.
 
 <b>1996</b>—Subsec. (b)(2), Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
 

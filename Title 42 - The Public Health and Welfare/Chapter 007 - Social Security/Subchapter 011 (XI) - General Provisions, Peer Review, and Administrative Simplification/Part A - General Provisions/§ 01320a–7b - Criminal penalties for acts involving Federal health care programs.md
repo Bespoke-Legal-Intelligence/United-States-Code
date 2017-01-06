@@ -4,7 +4,7 @@
 
 Whoever—
 
-&emsp;(1) knowingly and willfully makes or causes to be made any false statement or representation of a material fact in any application for any benefit or payment under a Federal health care program (as defined in subsection (f) of this section),
+&emsp;(1) knowingly and willfully makes or causes to be made any false statement or representation of a material fact in any application for any benefit or payment under a Federal health care program (as defined in subsection (f)),
 
 &emsp;(2) at any time knowingly and willfully makes or causes to be made any false statement or representation of a material fact for use in determining rights to such benefit or payment,
 
@@ -14,7 +14,7 @@ Whoever—
 
 &emsp;(5) presents or causes to be presented a claim for a physician's service for which payment may be made under a Federal health care program and knows that the individual who furnished the service was not licensed as a physician, or
 
-&emsp;(6) for a fee knowingly and willfully counsels or assists an individual to dispose of assets (including by any transfer in trust) in order for the individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,
+&emsp;(6) for a fee knowingly and willfully counsels or assists an individual to dispose of assets (including by any transfer in trust) in order for the individual to become eligible for medical assistance under a State plan under subchapter XIX, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,
 
 > shall (i) in the case of such a statement, representation, concealment, failure, or conversion by any person in connection with the furnishing (by that person) of items or services for which payment is or may be made under the program, be guilty of a felony and upon conviction thereof fined not more than $25,000 or imprisoned for not more than five years or both, or (ii) in the case of such a statement, representation, concealment, failure, conversion, or provision of counsel or assistance by any other person, be guilty of a misdemeanor and upon conviction thereof fined not more than $10,000 or imprisoned for not more than one year, or both. In addition, in any case where an individual who is otherwise eligible for assistance under a Federal health care program is convicted of an offense under the preceding provisions of this subsection, the administrator of such program may at its option (notwithstanding any other provision of such program) limit, restrict, or suspend the eligibility of that individual for such period (not exceeding one year) as it deems appropriate; but the imposition of a limitation, restriction, or suspension with respect to the eligibility of any individual under this sentence shall not affect the eligibility of any other person for assistance under the plan, regardless of the relationship between that individual and such other person.
 
@@ -48,13 +48,13 @@ Whoever—
 
 &emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
 
-&emsp;(D) a waiver of any coinsurance under part B of subchapter XVIII of this chapter by a Federally qualified health care center with respect to an individual who qualifies for subsidized services under a provision of the Public Health Service Act \[42 U.S.C. 201 et seq.\];
+&emsp;(D) a waiver of any coinsurance under part B of subchapter XVIII by a Federally qualified health care center with respect to an individual who qualifies for subsidized services under a provision of the Public Health Service Act \[42 U.S.C. 201 et seq.\];
 
 &emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 or in regulations under section 1395w–104(e)(6) <sup>1</sup> of this title;
 
 &emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
 
-&emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII of this chapter, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section);
+&emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section);
 
 &emsp;(H) any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title;
 
@@ -66,15 +66,15 @@ Whoever—
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
-Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
 #### (d) Illegal patient admittance and retention practices
 
 Whoever knowingly and willfully—
 
-&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
-&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
 &emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
 
@@ -98,7 +98,7 @@ For purposes of this section, the term "Federal health care program" means—
 
 #### (g) Liability under subchapter III of chapter 37 of title 31
 
-In addition to the penalties provided for in this section or section 1320a–7a of this title, a claim that includes items or services resultingfrom a violation of this section constitutes a false or fraudulent claim for purposes of subchapter III of chapter 37 of title 31.
+In addition to the penalties provided for in this section or section 1320a–7a of this title, a claim that includes items or services resulting from a violation of this section constitutes a false or fraudulent claim for purposes of subchapter III of chapter 37 of title 31.
 
 #### (h) Actual knowledge or specific intent not required
 
@@ -146,13 +146,13 @@ Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out forme
 
 Subsec. (c). Pub. L. 105–33, §4201(c)(1), substituted "critical access" for "rural primary care".
 
-Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted "(or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)" after "by the State".
+Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted "(or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)" after "by the State".
 
 <b>1996</b>—Pub. L. 104–191, §204(a)(1), substituted "Federal" for "Medicare or State" in section catchline.
 
 Subsec. (a). Pub. L. 104–191, §204(a)(4), in concluding provisions, substituted "a Federal health care program" for "a State plan approved under subchapter XIX of this chapter" and "the administrator of such program may at its option (notwithstanding any other provision of such program)" for "the State may at its option (notwithstanding any other provision of that subchapter or of such plan)".
 
-Subsec. (a)(1). Pub. L. 104–191, §204(a)(2), substituted "a Federal health care program (as defined in subsection (f) of this section)" for "a program under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title)".
+Subsec. (a)(1). Pub. L. 104–191, §204(a)(2), substituted "a Federal health care program (as defined in subsection (f))" for "a program under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title)".
 
 Subsec. (a)(5). Pub. L. 104–191, §204(a)(3), substituted "a Federal" for "a program under subchapter XVIII of this chapter or a State".
 
@@ -166,7 +166,7 @@ Subsec. (c). Pub. L. 104–191, §204(a)(6), inserted "(as defined in section 13
 
 Subsec. (f). Pub. L. 104–191, §204(a)(7), added subsec. (f).
 
-<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of "1395m(j)(5)" for "1395m(j)(4)" in subpar.\(B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because "1395m(j)(4)" does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
+<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of "1395m(j)(5)" for "1395m(j)(4)" in subpar. (B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because "1395m(j)(4)" does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
 
 <b>1990</b>—Subsec. (b)(3)(D), (E). Pub. L. 101–508, §4161(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -194,9 +194,9 @@ Subsec. (b)(3). Pub. L. 100–93, §§4(a)(5), (6), 14(b), substituted "subchapt
 
 Subsec. (c). Pub. L. 100–203, §4039(a), as amended by Pub. L. 100–360, substituted "institution, facility, or entity" for "institution or facility" wherever appearing and inserted "(including an eligible organization under section 1395mm(b) of this title)" after "other entity".
 
-Pub. L. 100–93, §4(a)(7), substituted "home health agency, or other entity for which certification is required under subchapter XVIII of this chapter or a State health care program" for "or home health agency (as those terms are employed in this subchapter)".
+Pub. L. 100–93, §4(a)(7), substituted "home health agency, or other entity for which certification is required under subchapter XVIII or a State health care program" for "or home health agency (as those terms are employed in this subchapter)".
 
-Subsec. (d)(1), (2). Pub. L. 100–93, §4(a)(8), substituted "subchapter XIX of this chapter" for "this subchapter".
+Subsec. (d)(1), (2). Pub. L. 100–93, §4(a)(8), substituted "subchapter XIX" for "this subchapter".
 
 Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395nn of this title as subsec. (e) of this section.
 
@@ -244,7 +244,7 @@ Amendment by section 133(a)(2) of Pub. L. 103–432 applicable to items or servi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4161(a)(4) of Pub. L. 101–508 applicable to services furnished on or after Oct. 1, 1991,see section 4161(a)(8) of Pub. L. 101–508, set out as a note under section 1395k of this title.
+Amendment by section 4161(a)(4) of Pub. L. 101–508 applicable to services furnished on or after Oct. 1, 1991, see section 4161(a)(8) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
 Amendment by section 4164(b)(2) of Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
@@ -264,7 +264,7 @@ Pub. L. 95–142, §4(d), Oct. 25, 1977, 91 Stat. 1183, provided that: "The amen
 
 #### Effective Date
 
-Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: "The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\]."
+Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: "The provisions of amendmentsmade by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\]."
 
 #### Rulemaking for Exception for Health Center Entity Arrangements
 
@@ -344,7 +344,7 @@ Appointment of negotiated rulemaking committee and facilitator.—The Secretary 
 
 "(6)
 
-Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reportsthat the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 "(7)
 

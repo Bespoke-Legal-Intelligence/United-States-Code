@@ -18,7 +18,7 @@ As used in this section:
 
 #### (2) Boat launching facility
 
-&emsp;The term "boat launching facility" includes any boat launching facility, regardless of whether specialized facilities or services, suchas mechanical or hydraulic boat lifts or facilities, are provided.
+&emsp;The term "boat launching facility" includes any boat launching facility, regardless of whether specialized facilities or services, such as mechanical or hydraulic boat lifts or facilities, are provided.
 
 #### (3) Campground
 

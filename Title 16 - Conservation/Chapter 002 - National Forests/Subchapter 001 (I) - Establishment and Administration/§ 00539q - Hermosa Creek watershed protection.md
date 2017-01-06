@@ -76,7 +76,7 @@ In this section:
 
 #### (iv) Prohibited activities
 
-&emsp;&emsp;&emsp;Within the area of the Special Management Area identified as "East Hermosa Area" on the map entitled "ProposedHermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area" and dated November 12, 2014, the following activities shall be prohibited:
+&emsp;&emsp;&emsp;Within the area of the Special Management Area identified as "East Hermosa Area" on the map entitled "Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area" and dated November 12, 2014, the following activities shall be prohibited:
 
 &emsp;&emsp;&emsp;&emsp;(I) New permanent or temporary road construction or the renovation of existing nonsystem roads, except as allowed under the final rule entitled "Special Areas; Roadless Area Conservation; Applicability to the National Forests in Colorado" (77 Fed. Reg. 39576 (July 3, 2012)).
 
@@ -192,7 +192,7 @@ In this section:
 
 &emsp;Notwithstanding paragraph (1), the Secretary of the Interior may convey any portion of the land described in paragraph (2) that is administered by the Bureau of Land Management to the City, the County, or the State—
 
-&emsp;&emsp;(A) pursuant to the Act of June 14, 1926 (commonly known as the "Recreation and Public Purposes Act") (43 U.S.C. 869 et seq.); or
+&emsp;&emsp;(A) pursuant to the Act of June 14, 1926 (commonly known as the "Recreation andPublic Purposes Act") (43 U.S.C. 869 et seq.); or
 
 &emsp;&emsp;(B) by exchange in accordance with applicable laws (including regulations).
 
@@ -264,7 +264,7 @@ In this section:
 
 #### (A) Finding
 
-&emsp;&emsp;Congress finds that the land described in subparagraph (C) has been adequately studied for wilderness designation under section603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782).
+&emsp;&emsp;Congress finds that the land described in subparagraph (C) has been adequately studied for wilderness designation under section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782).
 
 #### (B) Release
 
@@ -290,7 +290,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after December 19, 2014, the Secretary or the Secretary of the Interior, as appropriate, shall prepare maps and legal descriptions of—
+&emsp;&emsp;As soon as practicable after December 19, 2014, the Secretary or the Secretary of theInterior, as appropriate, shall prepare maps and legal descriptions of—
 
 &emsp;&emsp;&emsp;(i) the Special Management Area;
 
@@ -360,7 +360,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(1
 
 #### Codification
 
-Section is comprised of section 3062 of Pub. L. 113–291. Subsec. (c)(1) of section 3062 of Pub. L. 113–291 enactedsection 2(a)(22) of Pub. L. 103–77, which is listed in a table of Wilderness Areas set out under section 1132 of this title.
+Section is comprised of section 3062 of Pub. L. 113–291. Subsec. (c)(1) of section 3062 of Pub. L. 113–291 enacted section 2(a)(22) of Pub. L. 103–77, which is listed in a table of Wilderness Areas set out under section 1132 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "purpose".</i>
 

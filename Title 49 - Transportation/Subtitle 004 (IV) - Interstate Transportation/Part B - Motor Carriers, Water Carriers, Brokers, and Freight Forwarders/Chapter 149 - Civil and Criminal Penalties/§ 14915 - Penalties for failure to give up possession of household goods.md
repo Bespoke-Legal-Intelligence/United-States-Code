@@ -32,7 +32,7 @@ Failure To Give Up Possession of Household Goods Defined.—For purposes of this
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32922(b), inserted at end "The United States may assign all or a portion of the civil penalty to an aggrieved shipper. The Secretary of Transportation shall establish criteria upon which such assignments shall be made. The Secretary may order, after notice and an opportunity for a proceeding, that a person found holding a household goods shipment hostage return the goods to an aggrieved shipper."
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32922(b), inserted at end "The United States may assign all or a portion of the civil penalty to an aggrieved shipper. The Secretary of Transportation shall establish criteria upon which such assignments shall be made. The Secretarymay order, after notice and an opportunity for a proceeding, that a person found holding a household goods shipment hostage return the goods to an aggrieved shipper."
 
 Subsec. (a)(4). Pub. L. 112–141, §32923(b), added par. (4).
 

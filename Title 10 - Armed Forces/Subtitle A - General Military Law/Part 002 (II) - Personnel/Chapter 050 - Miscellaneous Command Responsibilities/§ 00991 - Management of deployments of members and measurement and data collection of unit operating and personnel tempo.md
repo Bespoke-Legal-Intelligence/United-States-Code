@@ -26,7 +26,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;(A) a civilian officer of the Department of Defense appointed by the President, by and with the advise and consent of the Senate, or a member of the Senior Executive Service; or
 
-&emsp;(B) a general or flag officer in that member's chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
+&emsp;(B) a general or flag officer in that member's chain of command (including an officer in thegrade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
 
 (4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell time a member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
 
@@ -124,7 +124,7 @@ Subsec. (f). Pub. L. 112–81, §522(c), added subsec. (f).
 
 <b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-"(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to ordersthat do not establish a permanent change of station, the member is performing the active service at a location that—
+"(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to orders that do not establish a permanent change of station, the member is performing the active service at a location that—
 
 &emsp;"(A) is not the member's permanent training site; and
 
@@ -166,7 +166,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
 
-Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, provided that: "The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly."
+Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, §618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: "The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when themember may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly."
 
 #### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
 

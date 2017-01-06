@@ -6,7 +6,7 @@ Definitions.—In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Official guest of the supreme court.—The term "official guest of the Supreme Court" means an individual who is a guest of the Supreme Court, as determined by theChief Justice of the United States or any Associate Justice of the Supreme Court;
+Official guest of the supreme court.—The term "official guest of the Supreme Court" means an individual who is a guest of the Supreme Court, as determined by the Chief Justice of the United States or any Associate Justice of the Supreme Court;
 
 &emsp;(2)
 

@@ -30,7 +30,7 @@ In par. (4), "section 501 of title 44" substituted for "section 11 of the Act of
 
 In par. (6), ", with the approval of the Commission on Information and the Commission on Educational Exchange," was deleted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission on International Educational and Cultural Affairs \[which replaced the Advisory Commission on Educational Exchange\], effective on or before July 1, 1978, at such time as specified by the President.
 
-In par. (6), "section 5703 of title 5" substituted for "section 5 of the Administrative Expenses Act of 1946, as amended, (5 U.S.C. 73b-2)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In par. (6), "section 5703 of title 5" substituted for "section 5 of the Administrative Expenses Act of 1946, as amended, (5 U.S.C. 73b-2)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first sectionof which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Findings.—The Congress finds that the overriding national security aspects of 
 
 "(b)
 
-Responsive Bid.—A bid shall not be treated as a responsive bid for purposes of the facilities modernization program of the Voice of America unless the bidder can establish that the United States goods and services content, excluding consulting and management fees, of his proposal and the resulting contract will not be lessthan 55 percent of the value of his proposal and the resulting total contract.
+Responsive Bid.—A bid shall not be treated as a responsive bid for purposes of the facilities modernization program of the Voice of America unless the bidder can establish that the United States goods and services content, excluding consulting and management fees, of his proposal and the resulting contract will not be less than 55 percent of the value of his proposal and the resulting total contract.
 
 "(c)
 

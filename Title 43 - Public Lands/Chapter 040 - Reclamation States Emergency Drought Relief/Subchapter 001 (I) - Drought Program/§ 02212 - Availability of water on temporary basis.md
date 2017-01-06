@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-In order to mitigate losses and damages resulting from drought conditions, the Secretary may make available, by temporary contract, project and nonproject water, and may permit the use of facilities at Federal Reclamation projects for the storage or conveyance of project or nonproject water, for use both within and outside an authorized project service area.
+In order to mitigate losses and damages resulting from drought conditions, the Secretarymay make available, by temporary contract, project and nonproject water, and may permit the use of facilities at Federal Reclamation projects for the storage or conveyance of project or nonproject water, for use both within and outside an authorized project service area.
 
 #### (b) Special provisions applicable to temporary water supplies provided under this section
 
@@ -34,7 +34,7 @@ The price for project water, other than water purchased pursuant to section 2211
 
 #### (d) Fish and wildlife
 
-The Secretary may make water from Federal Reclamation projects and nonproject water available on a nonreimbursable basis for the purposes of protecting or restoring fish and wildlife resources, including mitigation losses, that occur as a result of drought conditions or the operation of a Federal Reclamation project during drought conditions. The Secretary may store and convey project and nonproject water for fish and wildlife purposes, and may provide conveyance of any such water for both State and Federal wildlife habitat and for habitat held in private ownership. The Secretary may make available water for these purposes outside the authorized project service area. Use of the Federal storage and conveyance facilities for these purposes shall be on a nonreimbursable basis. Water made available by the Secretary in 1991 from the Central Valley Project, California, tothe Grasslands Water District for the purpose of fish and wildlife shall be nonreimbursable.
+The Secretary may make water from Federal Reclamation projects and nonproject water available on a nonreimbursable basis for the purposes of protecting or restoring fish and wildlife resources, including mitigation losses, that occur as a result of drought conditions or the operation of a Federal Reclamation project during drought conditions. The Secretary may store and convey project and nonproject water for fish and wildlife purposes, and may provide conveyance of any such water for both State and Federal wildlife habitat and for habitat held in private ownership. The Secretary may make available water for these purposes outside the authorized project service area. Use of the Federal storage and conveyance facilities for these purposes shall be on a nonreimbursable basis. Water made available by the Secretary in 1991 from the Central Valley Project, California, to the Grasslands Water District for the purpose of fish and wildlife shall be nonreimbursable.
 
 #### (e) Nonproject water
 

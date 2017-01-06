@@ -20,7 +20,7 @@ The Act of August 25, 1916 (39 Stat. 535) as amended and supplemented (16 U.S.C.
 
 #### Amendments
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–405 inserted provision directing the President to advise the Senate and House ofRepresentatives no later than June 1, 1983, of his recommendation with respect to the suitability or nonsuitability as wilderness of any area within the park.
+<b>1983</b>—Subsec. (b). Pub. L. 97–405 inserted provision directing the President to advise the Senate and House of Representatives no later than June 1, 1983, of his recommendation with respect to the suitability or nonsuitability as wilderness of any area within the park.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

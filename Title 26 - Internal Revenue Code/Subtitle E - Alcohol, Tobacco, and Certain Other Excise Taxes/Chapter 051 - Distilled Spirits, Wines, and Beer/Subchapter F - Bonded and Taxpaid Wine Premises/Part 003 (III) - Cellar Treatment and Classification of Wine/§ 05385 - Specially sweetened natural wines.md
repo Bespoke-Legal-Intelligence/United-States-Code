@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 90–619, §4, authorized cellar treatment of specially swe
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22,1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
+Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
 #### Effective Date of 1965 Amendment
 

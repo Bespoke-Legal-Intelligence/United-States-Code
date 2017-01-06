@@ -30,7 +30,7 @@ Awards may be made under this subpart only to a student who—
 
 (1) From among individuals who are eligible for supplemental grants for each fiscal year, the institution shall, in accordance with the agreement under section 1094 of this title, and within the amount allocated to the institution for that purpose for that year under section 1070b–3 of this title, select individuals who are to be awarded such grants and determine, in accordance with section 1070b–1 of this title, the amounts to be paid to them.
 
-(2)(A) In carrying out paragraph (1) of this subsection, each institution of higher education shall, in the agreement made under section 1094of this title, assure that the selection procedures—
+(2)(A) In carrying out paragraph (1) of this subsection, each institution of higher education shall, in the agreement made under section 1094 of this title, assure that the selection procedures—
 
 &emsp;(i) will be designed to award supplemental grants under this subpart, first, to students with exceptional need, and
 

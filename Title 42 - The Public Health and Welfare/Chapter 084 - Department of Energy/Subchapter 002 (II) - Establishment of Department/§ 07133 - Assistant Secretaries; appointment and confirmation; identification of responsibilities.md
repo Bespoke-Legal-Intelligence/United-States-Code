@@ -74,7 +74,7 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 
 #### Federal Power Marketing Administration Employment Levels
 
-Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch tochange employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
+Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
 
 #### Marketing and Exchange of Surplus Electricity From Navajo Generating Station
 

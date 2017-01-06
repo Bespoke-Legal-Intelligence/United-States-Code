@@ -56,7 +56,7 @@ Subsec. (e)(3). Pub. L. 111–84, §565(b)(1)(B)(iv), added par. (3).
 
 <b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–181, §585(b)(2), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 110–181, §585(b)(3)(A)(i), in second sentence, substituted "subsection (b)(5) or (f) (asappropriate) of section 6383" for "section 6383(b)(5)" and inserted "or under subsection (a)(3)" after "subsection (a)(1)".
+Subsec. (b)(1). Pub. L. 110–181, §585(b)(3)(A)(i), in second sentence, substituted "subsection (b)(5) or (f) (as appropriate) of section 6383" for "section 6383(b)(5)" and inserted "or under subsection (a)(3)" after "subsection (a)(1)".
 
 Subsec. (b)(2). Pub. L. 110–181, §585(b)(3)(A)(ii), inserted "or under subsection (a)(3)" after "subsection (a)(1)".
 
@@ -67,4 +67,8 @@ Subsec. (e). Pub. L. 110–181, §585(b)(3)(C), as amended by Pub. L. 110–417,
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–417, \[div. A\], title X, §1061(b), Oct. 14, 2008, 122 Stat. 4612, provided that the amendment made by section 1061(b)(2) is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.
+
+#### Effective Date
+
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 

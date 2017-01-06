@@ -8,7 +8,7 @@
 
 (b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
 
-(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall beequal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
+(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
 
 (3) Amounts in the savings fund credited to a member shall be considered as pay and allowances for purposes of section 553(c) of this title and shall otherwise be subject to withdrawal under procedures which the Secretary of the Treasury shall establish.
 
@@ -86,7 +86,7 @@ Pub. L. 99–399, title VIII, §806(a)(3), Aug. 27, 1986, 100 Stat. 885, provide
 
 "(II) In the case of any person whose status as a captive terminated before the date of the enactment of this Act \[Aug. 27, 1986\], the President shall make a payment under paragraph (1) of such subsection before the end of the one-year period beginning on such date.
 
-"(B) Amounts may be allotted to a savings fund established under such section from pay and allowances for any pay period ending after January 21, 1981, and before the establishment of such fund.
+"(B) Amounts may be allotted to a savings fund established under such section from pay and allowancesfor any pay period ending after January 21, 1981, and before the establishment of such fund.
 
 "(C) Interest on amounts so allotted with respect to any such pay period shall be calculated as if the allotment had occurred at the end of such pay period."
 

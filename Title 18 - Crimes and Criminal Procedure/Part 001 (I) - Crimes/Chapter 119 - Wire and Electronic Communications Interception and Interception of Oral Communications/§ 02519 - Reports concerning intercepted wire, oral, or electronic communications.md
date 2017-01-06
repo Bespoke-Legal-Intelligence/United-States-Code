@@ -1,6 +1,6 @@
 ### §2519. Reports concerning intercepted wire, oral, or electronic communications
 
-(1) In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year, shall report to the Administrative Office of the United States Courts—
+(1) In January of each year, any judge who has issued an order (or an extension thereof) undersection 2518 that expired during the preceding year, or who has denied approval of an interception during that year, shall report to the Administrative Office of the United States Courts—
 
 &emsp;(a) the fact that an order or extension was applied for;
 

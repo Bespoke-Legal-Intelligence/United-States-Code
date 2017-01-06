@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State or local health department shall use amounts received under a grant under this subsection to carry out a program to provide the services described in this paragraph to individuals who are between 55 and 64 years of age.
+&emsp;&emsp;A State or local health department shall use amounts received under a grant underthis subsection to carry out a program to provide the services described in this paragraph to individuals who are between 55 and 64 years of age.
 
 #### (B) Public health interventions
 
@@ -74,7 +74,7 @@
 
 #### (II) Insured individuals
 
-&emsp;&emsp;&emsp;&emsp;An individual determined to be covered under a health insurance program undersubclause (I) shall be referred by the grantee to the existing providers under such program or, if such individual does not have a current provider, to a provider who is in-network with respect to the program involved.
+&emsp;&emsp;&emsp;&emsp;An individual determined to be covered under a health insurance program under subclause (I) shall be referred by the grantee to the existing providers under such program or, if such individual does not have a current provider, to a provider who is in-network with respect to the program involved.
 
 #### (III) Uninsured individuals
 
@@ -146,7 +146,7 @@
 
 #### (4) Funding
 
-&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer,from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
+&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
 
 #### (5) Administration
 

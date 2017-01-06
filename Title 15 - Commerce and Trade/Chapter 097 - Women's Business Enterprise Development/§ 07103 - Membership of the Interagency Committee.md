@@ -64,7 +64,7 @@ A prior section 403 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–135, §301(1), substituted "December 2, 1997" for "October 22, 1994" andinserted before period at end ", and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee". See Codification note above.
+<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–135, §301(1), substituted "December 2, 1997" for "October 22, 1994" and inserted before period at end ", and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee". See Codification note above.
 
 Subsec. (a)(2)(B). Pub. L. 105–135, §301(2), inserted before period at end "and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women's Business Council established under section 7105 of this title".
 

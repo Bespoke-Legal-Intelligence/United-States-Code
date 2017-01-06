@@ -46,7 +46,7 @@ Subsec. (a)(6). Pub. L. 111–203, §1473(f)(1)(B), added par. (6).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 367(6) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L.111–203, set out as a note under section 906 of Title 2, The Congress.
+Amendment by section 367(6) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 Amendment by section 1473(b), (f)(1), of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 

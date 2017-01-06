@@ -8,7 +8,7 @@
 
 &emsp;(3) that population increases and urban concentration contribute directly to pollution and the degradation of our environment.
 
-(b)(1) The Congress declares that there is a national policy for the environment which provides for the enhancement of environmental quality. This policy is evidenced by statutes heretofore enacted relating to the prevention, abatement, and control of environmental pollution, water and land resources, transportation, and economic and regional development.
+(b)(1) The Congress declares that there is a national policy for the environment which provides for the enhancement of environmentalquality. This policy is evidenced by statutes heretofore enacted relating to the prevention, abatement, and control of environmental pollution, water and land resources, transportation, and economic and regional development.
 
 (2) The primary responsibility for implementing this policy rests with State and local government.
 

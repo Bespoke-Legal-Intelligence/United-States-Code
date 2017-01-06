@@ -192,7 +192,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 Regulatory Authority.—The Secretary of Transportation may issue regulations that the Secretary determines appropriate, pursuant to the report required by subsection (b), to protect railroad employees from unsafe exposure to radiation during the transportation of radioactive materials."
 
-\[For definitions of "railroad carrier", "Department", "railroad", and "Secretary", as used in section 411 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "railroad carrier", "Department", "railroad", and "Secretary", as used in section 411 ofPub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
 #### Safe Placement of Train Cars
 

@@ -66,7 +66,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (2) Record retention
 
-&emsp;Records of a delivery sale shall be kept as described in paragraph (1) until the end of the 4th full calendar year that begins after the date of the delivery sale.
+&emsp;Records of a delivery sale shall be kept as described in paragraph (1) until the end of the4th full calendar year that begins after the date of the delivery sale.
 
 #### (3) Access for officials
 
@@ -132,7 +132,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;&emsp;(i) use reasonable procedures to ensure maximum possible accuracy and completeness of the records and information relied on for the purpose of determining that a delivery seller is not in compliance with this chapter;
 
-&emsp;&emsp;&emsp;(ii) not later than 14 days before including a delivery seller on the list, make a reasonable attempt to send notice to the delivery seller by letter, electronic mail, or other means that the delivery seller is being placed on the list, which shall cite the relevant provisions of this chapter and the specific reasons for which the delivery seller is being placed on the list;
+&emsp;&emsp;&emsp;(ii) not later than 14 days before including a delivery seller on the list, make a reasonable attempt to send notice to the delivery seller by letter, electronic mail, or other means that the delivery seller is being placed on the list, which shall citethe relevant provisions of this chapter and the specific reasons for which the delivery seller is being placed on the list;
 
 &emsp;&emsp;&emsp;(iii) provide an opportunity to the delivery seller to challenge placement on the list;
 
@@ -186,7 +186,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (A) In general
 
-&emsp;&emsp;If a common carrier or other delivery service delays or interrupts the delivery of a package in the possession of the common carrier or delivery service because the common carrier or delivery service determines or has reason to believe that the person ordering the delivery is on a list described in paragraph (1)(A) and that clauses (i), (ii), and (iii) of paragraph (2)(A) do not apply—
+&emsp;&emsp;If a common carrier or other delivery service delays or interrupts the delivery of a package in the possession of the common carrier or delivery service because the common carrier or delivery service determines or has reason to believe that the person ordering the delivery is on a list described inparagraph (1)(A) and that clauses (i), (ii), and (iii) of paragraph (2)(A) do not apply—
 
 &emsp;&emsp;&emsp;(i) the person ordering the delivery shall be obligated to pay—
 

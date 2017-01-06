@@ -14,7 +14,7 @@ In considering programs and projects to be provided assistance by a Commission u
 
 &emsp;(6) the extent to which the project design provides for detailed outcome measurements by which grant expenditures and the results of the expenditures may be evaluated.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
 
 #### Codification
 

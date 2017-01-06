@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The President may provide duty-free treatment for any article described in section 2463(b)(1)(B) through (G) of this title that is the growth, product, or manufacture of a beneficiary sub-Saharan African country described in subsection (a), if, after receiving the advice of the International Trade Commission in accordance with section 2463(e) of this title, the President determines that such article is not import-sensitive in the context of imports from beneficiary sub-Saharan African countries.
+&emsp;The President may provide duty-free treatment for any article described in section2463(b)(1)(B) through (G) of this title that is the growth, product, or manufacture of a beneficiary sub-Saharan African country described in subsection (a), if, after receiving the advice of the International Trade Commission in accordance with section 2463(e) of this title, the President determines that such article is not import-sensitive in the context of imports from beneficiary sub-Saharan African countries.
 
 #### (2) Rules of origin
 
@@ -80,7 +80,7 @@
 
 #### (B) Use of petitions
 
-&emsp;&emsp;The President shall take into account all petitions filed pursuant to subparagraph (A)in making determinations of compliance under subsections (a)(3)(A) and (c) and in preparing any reports required by this subchapter as such reports apply with respect to beneficiary sub-Saharan African countries.
+&emsp;&emsp;The President shall take into account all petitions filed pursuant to subparagraph (A) in making determinations of compliance under subsections (a)(3)(A) and (c) and in preparing any reports required by this subchapter as such reports apply with respect to beneficiary sub-Saharan African countries.
 
 #### (4) Out-of-cycle reviews
 
@@ -143,4 +143,38 @@ Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that
 #### Modifications to the Harmonized Tariff Schedule
 
 Pub. L. 114–27, title I, §104(c), June 29, 2015, 129 Stat. 365, provided that: "The President may proclaim such modifications as may be necessary to the Harmonized Tariff Schedule of the United States (HTS) to add the special tariff treatment symbol 'D' in the 'Special' subcolumn of the HTS for each article classified under a heading or subheading with the special tariff treatment symbol 'A' or 'A\*' in the 'Special' subcolumn of the HTS."
+
+#### Ex. Ord. No. 13720. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Preferences Extension Act of 2015
+
+Ex. Ord. No. 13720, Feb. 26, 2016, 81 F.R. 11089, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trade Preferences Extension Act of 2015 (the "Act") (Public Law 114–27), and section 301 of title 3, United States Code, I hereby order as follows:
+
+Section 1. <i>Authorities and Functions under the Act</i>. (a) Except as provided in subsections (b), (c), and (d) of this section, the authorities granted to and functions specifically assigned to the President under title I of the Act are delegated and assigned, respectively, to the United States Trade Representative (U.S. Trade Representative).
+
+(b) The exercise of the following authorities of, and functions specifically assigned to the President under title I of the Act are not delegated or assigned under this order:
+
+(i) section 104(c) of the Act;
+
+(ii) sections 105(a) and (b) of the Act; and
+
+(iii) sections 506A(d)(3)(B) and (d)(4)(C) of the Trade Act of 1974 (as amended by the Act).
+
+(c) The functions of the President under section 13(c) of the AGOA Acceleration Act of 2004, as added by section 109 of the Act, are assigned to the Administrator of the United States Agency for International Development, in collaboration with the Secretary of Agriculture.
+
+(d) The functions of the President under section 110(a) of the Act are assigned to the U.S. Trade Representative, in consultation with the Secretary of State.
+
+Sec. 2. <i>Reducing Poverty and Eliminating Hunger</i>. The U.S. Trade Representative, with the advice and assistance of other executive departments and agencies involved in international programs to reduce poverty and eliminate hunger, shall perform the reporting function under section 701 of the Act.
+
+Sec. 3. <i>General Provisions</i>. (a) In exercising authority delegated by or performing functions assigned in this order, officers of the United States:
+
+(i) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (C) recommend for congressional consideration such measures as the President may judge necessary or expedient; and (D) supervise the executive branch; and
+
+(ii) may redelegate authority delegated by this order and may further assign functions assigned by this order to officers of any other department or agency within the executive branch to the extent permitted by law, and such redelegation or further assignment shall be published in the Federal Register.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

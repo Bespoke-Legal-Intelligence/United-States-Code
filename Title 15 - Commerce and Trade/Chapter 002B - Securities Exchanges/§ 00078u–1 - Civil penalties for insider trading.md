@@ -92,7 +92,7 @@ The authority of the Commission under this section with respect to security-base
 
 #### (1) In general
 
-&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely for purposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Government and the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
+&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely forpurposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Government and the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
 
 #### (2) Definitions
 

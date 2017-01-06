@@ -12,7 +12,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(4) the insurance contracts and agreements with respect to any loan may contain provisions for servicing the loan by the Secretary or by the lender, and for the purchase by the Secretary of the loan if it is not in default, on such terms and conditions as the Secretary may prescribe; and
 
-&emsp;(5) the Secretary may take mortgages creating a lien running to the United States for the benefit of the insurance fund referred to in subsection (b) of this section notwithstanding the fact that the note may be held by the lender or his assignee.
+&emsp;(5) the Secretary may take mortgages creating a lien running to the United States for the benefit of the insurance fund referred to in subsection (b) notwithstanding the fact that the note may be held by the lender or his assignee.
 
 #### (b) Utilization of farm tenant mortgage insurance fund; additions to and deposits in fund; deposits in Treasury
 
@@ -58,7 +58,7 @@ As used in this section—
 
 #### (g) Waiver of interest rate limitations
 
-The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
 
 #### (h) Determination of need for assistance
 
@@ -70,13 +70,13 @@ In making available assistance in any area under this section or section 1486 of
 
 #### (i) Domestic farm labor housing available for other families
 
-Housing and related facilities constructed with loans under this section may be used for tenants eligible for occupancy under section 1485 of this title if the Secretary determines that—
+Housing and related facilities constructed with loans under this section may be used fortenants eligible for occupancy under section 1485 of this title if the Secretary determines that—
 
 &emsp;(1) there is no longer a need in the area for farm labor housing; or
 
 &emsp;(2) the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
 
-(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31,1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §510\], Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V, §599C(d), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §§703, 708(b), Dec. 27, 2000, 114 Stat. 3013, 3018; Pub. L. 110–234, title VI, §6205, May 22, 2008, 122 Stat. 1209; Pub. L. 110–246, §4(a), title VI, §6205, June 18, 2008, 122 Stat. 1664, 1971.)
+(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31, 1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §510\], Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V, §599C(d), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §§703, 708(b), Dec. 27, 2000, 114 Stat. 3013, 3018; Pub. L. 110–234, title VI, §6205, May 22, 2008, 122 Stat. 1209; Pub. L. 110–246, §4(a), title VI, §6205, June 18, 2008, 122 Stat. 1664, 1971.)
 
 #### References in Text
 

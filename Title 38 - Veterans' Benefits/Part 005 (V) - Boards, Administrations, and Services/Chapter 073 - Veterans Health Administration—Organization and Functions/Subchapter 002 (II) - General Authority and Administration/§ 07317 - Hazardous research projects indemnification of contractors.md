@@ -4,7 +4,7 @@
 
 (2) Indemnity under paragraph (1) is indemnity against either or both of the following:
 
-&emsp;(A) Liability (including reasonable expenses of litigation or settlement) to third persons, except liability under State or Federal workers' injury compensation laws to employees of the contractor employed at the site of and in connection with the contract for which indemnification is granted, for death, bodily injury, or loss of or damage to property, from a risk that the contract defines as unusually hazardous.
+&emsp;(A) Liability (including reasonable expenses of litigation or settlement) to third persons, except liability under State or Federal workers' injury compensation laws to employees ofthe contractor employed at the site of and in connection with the contract for which indemnification is granted, for death, bodily injury, or loss of or damage to property, from a risk that the contract defines as unusually hazardous.
 
 &emsp;(B) Loss of or damage to property of the contractor from a risk that the contract defines as unusually hazardous.
 

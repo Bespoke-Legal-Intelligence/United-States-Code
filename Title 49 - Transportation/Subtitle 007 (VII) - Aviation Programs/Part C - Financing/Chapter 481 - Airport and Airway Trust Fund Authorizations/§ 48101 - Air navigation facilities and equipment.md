@@ -12,7 +12,7 @@ General Authorization of Appropriations.—Not more than a total of the followin
 
 &emsp;(4) $2,730,000,000 for fiscal year 2015.
 
-&emsp;(5) $1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
+&emsp;(5) $2,855,000,000 for each of fiscal years 2016 and 2017.
 
 (b)
 
@@ -26,7 +26,7 @@ Automated Surface Observation System/Automated Weather Observing System Upgrade.
 
 Life-Cycle Cost Estimates.—The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1),Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §207, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §7, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §102, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §104, Sept. 30, 2015, 129 Stat. 524.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §207, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §7, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §102, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §104, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §104, Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1104, July 15, 2016, 130 Stat. 618.)
 
 Historical and Revision Notes
 
@@ -67,6 +67,10 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 In subsection (a), the words "to the Secretary of Transportation" are added for clarity and consistency in this chapter. The words "for fiscal years beginning after September 30, 1990" and "$2,500,000,000 for fiscal year 1991" are omitted as obsolete.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016."
+
+Pub. L. 114–141 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "$1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016."
 
 <b>2015</b>—Subsec. (a)(5). Pub. L. 114–55 added par. (5).
 
@@ -156,7 +160,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -164,25 +168,9 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Facilities and Equipment Reports
 
-Pub. L. 108–176, title I, §184, Dec. 12, 2003, 117 Stat. 2517, provided that:
-
-"(a)
-
-Biannual Reports.—Beginning 180 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure every 6 months that describes—
-
-&emsp;"(1) the 10 largest programs funded under section 48101(a) of title 49, United States Code;
-
-&emsp;"(2) any changes in the budget for such programs;
-
-&emsp;"(3) the program schedule; and
-
-&emsp;"(4) technical risks associated with the programs.
-
-"(b)
-
-Sunset Provision.—This section shall cease to be effective beginning on the date that is 4 years after the date of enactment of this Act \[Dec. 12, 2003\]."
+Pub. L. 108–176, title I, §184, Dec. 12, 2003, 117 Stat. 2517, directed the Administrator of the Federal Aviation Administration to report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure every 6 months on the 10 largest programs funded under this section until Dec. 12, 2007.
 
 #### Funding for Aviation Programs
 
-Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources made available from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
+Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources madeavailable from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
 

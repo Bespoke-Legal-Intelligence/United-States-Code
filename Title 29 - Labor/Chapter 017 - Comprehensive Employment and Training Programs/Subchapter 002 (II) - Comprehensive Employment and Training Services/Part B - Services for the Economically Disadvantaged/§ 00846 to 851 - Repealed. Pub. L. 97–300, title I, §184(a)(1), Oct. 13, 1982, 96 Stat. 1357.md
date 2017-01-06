@@ -18,7 +18,7 @@ A prior section 848, Pub. L. 93–203, title II, §208, Dec. 28, 1973, 87 Stat. 
 
 Section 849, Pub. L. 93–203, title II, §214, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1955, provided for services for youth.
 
-A prior section 849, Pub. L. 93–203, title II, §209, Dec. 28, 1973, 87 Stat. 856; Pub. L. 93–567, title I, §105, Dec. 31, 1974, 88 Stat. 1848, provided for a special report to Congress with respect to activities concerning public service employment program, prior to the general revision of this Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 849, Pub. L. 93–203, title II, §209, Dec. 28, 1973, 87 Stat. 856; Pub. L. 93–567, title I, §105, Dec. 31,1974, 88 Stat. 1848, provided for a special report to Congress with respect to activities concerning public service employment program, prior to the general revision of this Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 850, Pub. L. 93–203, title II, §215, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1956, related to services for older workers.
 

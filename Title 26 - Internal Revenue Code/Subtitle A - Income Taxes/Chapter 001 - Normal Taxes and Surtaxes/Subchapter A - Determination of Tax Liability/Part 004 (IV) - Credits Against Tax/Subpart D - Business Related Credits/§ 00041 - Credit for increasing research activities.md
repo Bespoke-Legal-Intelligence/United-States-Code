@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (ii) Self-employed individuals and owner-employees
 
-&emsp;&emsp;&emsp;In the case of an employee (within the meaning of section 401(c)(1)), the term"wages" includes the earned income (as defined in section 401(c)(2)) of such employee.
+&emsp;&emsp;&emsp;In the case of an employee (within the meaning of section 401(c)(1)), the term "wages" includes the earned income (as defined in section 401(c)(2)) of such employee.
 
 #### (iii) Exclusion for wages to which work opportunity credit applies
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (ii) Credit rate
 
-&emsp;&emsp;&emsp;The credit determined under this subparagraph shall be equal to 6 percent ofthe qualified research expenses for the taxable year.
+&emsp;&emsp;&emsp;The credit determined under this subparagraph shall be equal to 6 percent of the qualified research expenses for the taxable year.
 
 #### (C) Election
 
@@ -638,13 +638,13 @@ For purposes of this section—
 
 #### (B) Dispositions
 
-&emsp;&emsp;If the predecessor furnished to the acquiring person such information as is necessary for the application of subparagraph (A),then, for purposes of applying this section for any taxable year ending after such disposition, the amount of qualified research expenses paid or incurred by, and the gross receipts of, the predecessor during the measurement period (as defined in subparagraph (A)(vi), determined by substituting "predecessor" for "acquiring person" each place it appears) shall be reduced by—
+&emsp;&emsp;If the predecessor furnished to the acquiring person such information as is necessary for the application of subparagraph (A), then, for purposes of applying this section for any taxable year ending after such disposition, the amount of qualified research expenses paid or incurred by, and the gross receipts of, the predecessor during the measurement period (as defined in subparagraph (A)(vi), determined by substituting "predecessor" for "acquiring person" each place it appears) shall be reduced by—
 
 &emsp;&emsp;&emsp;(i) in the case of the taxable year in which such disposition is made, an amount equal to the product of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified research expenses paid or incurred by, or gross receipts of, the predecessor with respect to the acquired business during the measurement period (as so defined and so determined), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of acquisition (as determined for purposes of subparagraph (A)(iv)(II)) and ending on the last day of the taxable year of the predecessor in which the disposition is made,
+&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of acquisition (as determined for purposes of subparagraph\(A)(iv)(II)) and ending on the last day of the taxable year of the predecessor in which the disposition is made,
 
 &emsp;&emsp;&nbsp;divided by the number of days in the taxable year of the predecessor, and
 
@@ -716,7 +716,7 @@ In the case of an individual who—
 
 &emsp;(4) is a shareholder in an S corporation,
 
-> the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39;except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
+> the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
 
 #### (h) Treatment of credit for qualified small businesses
 
@@ -812,9 +812,9 @@ In the case of an individual who—
 
 &emsp;&emsp;(B) regulations to minimize compliance and record-keeping burdens under this subsection, and
 
-&emsp;&emsp;(C) regulations for recapturing the benefit of credits determined under section 3111(f) incases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
+&emsp;&emsp;(C) regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178-2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388-473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec.19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049.)
 
 #### References in Text
 
@@ -948,7 +948,7 @@ Subsec. (h). Pub. L. 103–66, §13111(a)(1), substituted "June 30, 1995" for "J
 
 <b>1990</b>—Subsec. (e)(5)(C)(i). Pub. L. 101–508, §11101(d)(1)(C)(i), inserted before period at end ", by substituting 'calendar year 1987' for 'calendar year 1989' in subparagraph (B) thereof".
 
-Subsec. (e)(5)(C)(ii). Pub. L. 101–508, §11101(d)(1)(C)(ii), (iii), substituted "1989" for "1987" and inserted at end"Such substitution shall be in lieu of the substitution under clause (i)."
+Subsec. (e)(5)(C)(ii). Pub. L. 101–508, §11101(d)(1)(C)(ii), (iii), substituted "1989" for "1987" and inserted at end "Such substitution shall be in lieu of the substitution under clause (i)."
 
 Subsec. (h). Pub. L. 101–508, §11402(a), substituted "December 31, 1991" for "December 31, 1990" wherever appearing and "January 1, 1992" for "January 1, 1991" wherever appearing.
 
@@ -960,7 +960,7 @@ Subsec. (c). Pub. L. 101–239, §7110(b)(1), substituted "Base amount" for "Bas
 
 Subsec. (e)(7)(C)(ii). Pub. L. 101–239, §7110(b)(2)(B), substituted "base amount" for "base period research expenses".
 
-Subsec. (f)(1). Pub. L. 101–239, §7110(b)(2)(C), substituted "proportionate shares of the qualified research expenses and basic research payments" for "proportionate share of the increase in qualified research expenses" in subpars. (A)(ii) and (B)(ii).
+Subsec. (f)(1). Pub. L. 101–239, §7110(b)(2)(C), substituted "proportionate shares of the qualified researchexpenses and basic research payments" for "proportionate share of the increase in qualified research expenses" in subpars. (A)(ii) and (B)(ii).
 
 Subsec. (f)(3)(A). Pub. L. 101–239, §7110(b)(2)(D), substituted "December 31, 1983" for "June 30, 1980" and inserted before period at end ", and the gross receipts of the taxpayer for such periods shall be increased by so much of the gross receipts of such predecessor with respect to the acquired trade or business as is attributable to such portion".
 
@@ -1034,7 +1034,7 @@ Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corpora
 
 #### Effective Date of 2015 Amendment
 
-Amendment by section 121(a)(1) of Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014, see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
+Amendment by section 121(a)(1) of Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014,see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
 
 Amendment by section 121(c)(1) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3) of Pub. L. 114–113, set out as a note under section 38 of this title.
 
@@ -1142,7 +1142,7 @@ Definitions and special rules.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;"(i)
 
-Definitions.—Terms used in this paragraph which are also used in subsection (b)(3) \[set outabove\] shall have the respective meanings given such terms in such subsection.
+Definitions.—Terms used in this paragraph which are also used in subsection (b)(3) \[set out above\] shall have the respective meanings given such terms in such subsection.
 
 &emsp;&emsp;"(ii)
 
@@ -1238,7 +1238,7 @@ In general.—Except as provided in this subsection (2), the amendments made by 
 
 "(2)
 
-Subsection (a).—The amendments made by subsection (a) \[amending this section and provisions setout as a note under this section\] shall apply to taxable years ending after December 31, 1985.
+Subsection (a).—The amendments made by subsection (a) \[amending this section and provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1985.
 
 "(3)
 
@@ -1352,7 +1352,7 @@ In general.—For purposes of this subsection, in the case of a taxable year whi
 
 &emsp;"(B)
 
-Waiver of estimated tax penalties.—No addition to tax shall be made under section 6654 or 6655 of such Code for any period before July 1, 1999, withrespect to any underpayment of tax imposed by such Code to the extent such underpayment was created or increased by reason of subparagraph (A).
+Waiver of estimated tax penalties.—No addition to tax shall be made under section 6654 or 6655 of such Code for any period before July 1, 1999, with respect to any underpayment of tax imposed by such Code to the extent such underpayment was created or increased by reason of subparagraph (A).
 
 "(5)
 
@@ -1366,7 +1366,7 @@ Pub. L. 101–239, title VII, §7110(a)(2), Dec. 19, 1989, 103 Stat. 2323, which
 
 #### Study and Report on Credit Provided by This Section
 
-Pub. L. 100–647, title IV, §4007(b), Nov. 10, 1988, 102 Stat. 3652, directed Comptroller General of United States to conduct a study of credit provided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Pub. L. 100–647, title IV, §4007(b), Nov. 10, 1988, 102 Stat. 3652, directed Comptroller General of United States to conduct a study of credit provided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means ofHouse of Representatives and Committee on Finance of Senate.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

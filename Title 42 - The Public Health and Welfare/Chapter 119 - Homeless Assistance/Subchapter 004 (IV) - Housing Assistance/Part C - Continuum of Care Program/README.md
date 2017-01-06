@@ -20,6 +20,7 @@ Part C—Continuum of Care Program
 - [&sect; 11386c - Renewal funding and terms of assistance for permanent housing](%C2%A7%2011386c%20-%20Renewal%20funding%20and%20terms%20of%20assistance%20for%20permanent%20housing.md)
 - [&sect; 11386d - Matching funding](%C2%A7%2011386d%20-%20Matching%20funding.md)
 - [&sect; 11386e - Appeal procedure](%C2%A7%2011386e%20-%20Appeal%20procedure.md)
+- [&sect; 11386f - Geographic areas](%C2%A7%2011386f%20-%20Geographic%20areas.md)
 - [&sect; 11387 - Regulations](%C2%A7%2011387%20-%20Regulations.md)
 - [&sect; 11388 - Reports to Congress](%C2%A7%2011388%20-%20Reports%20to%20Congress.md)
 - [&sect; 11389 - Repealed. Pub. L. 111&#8211;22, div. B, title III, &sect;1305(1), May 20, 2009, 123 Stat. 1690](%C2%A7%2011389%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9322%2C%20div.%20B%2C%20title%20III%2C%20%C2%A71305%281%29%2C%20May%2020%2C%202009%2C%20123%20Stat.%201690.md)

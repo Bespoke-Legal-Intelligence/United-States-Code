@@ -40,5 +40,5 @@ Funds from a grant provided under this section may be used—
 
 #### Prior Provisions
 
-A prior section 3503, Pub. L. 102–486, title XXVI, §2603, Oct. 24, 1992, 106 Stat. 3114; Pub. L. 105–388, §10, Nov. 13,1998, 112 Stat. 3484, related to promotion of energy resource development and energy vertical integration on Indian reservations, prior to the general amendment of this chapter by Pub. L. 109–58.
+A prior section 3503, Pub. L. 102–486, title XXVI, §2603, Oct. 24, 1992, 106 Stat. 3114; Pub. L. 105–388, §10, Nov. 13, 1998, 112 Stat. 3484, related to promotion of energy resource development and energy vertical integration on Indian reservations, prior to the general amendment of this chapter by Pub. L. 109–58.
 

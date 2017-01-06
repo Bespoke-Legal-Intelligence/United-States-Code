@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 (1) Upon finding that conditions exist which may pose a direct threat to the national defense or its preparedness programs, the President may consult with representatives of industry, business, financing, agriculture, labor, and other interests in order to provide for the making by such persons, with the approval of the President, of voluntary agreements and plans of action to help provide for the national defense.
 
-(2) The authority granted to the President in paragraph (1) and subsection (d) may be delegated by him (A) to individuals who are appointed by and with the advice and consent of the Senate, or are holding offices to which they have been appointed by and with the advice and consent of the Senate, (B) upon the condition that such individuals consult with the Attorney General and with the Federal Trade Commission not less than ten days before consulting with any persons under paragraph (1), and (C) upon the condition that such individuals obtain the prior approval of the Attorney General, after consultation by the Attorney General with the Federal Trade Commission, to consult under paragraph (1).
+(2) The authority granted to the President in paragraph (1) and subsection (d) may be delegated by him (A) to individuals who are appointed by and with the advice and consent of the Senate, or are holding offices to which they have been appointed by and with the advice and consent of the Senate, (B) upon the condition that such individuals consult with the Attorney General and with the Federal Trade Commission not less than ten days before consulting with any persons under paragraph (1), and (C) uponthe condition that such individuals obtain the prior approval of the Attorney General, after consultation by the Attorney General with the Federal Trade Commission, to consult under paragraph (1).
 
 (3) Upon a determination by the President, on a nondelegable basis, that a specific voluntary agreement or plan of action is necessary to meet national defense requirements resulting from an event that degrades or destroys critical infrastructure—
 
@@ -124,7 +124,7 @@ The rules promulgated under subsection (e) with respect to the carrying out of v
 
 &emsp;&emsp;(B) the individual designated by the President in subsection (c)(2) to administer a voluntary agreement or plan of action (after consultation with the Attorney General and the Chairman of the Federal Trade Commission),
 
-> &emsp;may terminate or modify, in writing, the voluntary agreement or plan of action at any time, and that effective, immediately upon such termination or modification, any antitrust immunity conferred upon the participants in the voluntary agreement or plan of action by subsection (j) shall not apply to any act or omission occurring after the time of such termination or modification;
+> &emsp;may terminate or modify, in writing, the voluntary agreement or plan of action at anytime, and that effective, immediately upon such termination or modification, any antitrust immunity conferred upon the participants in the voluntary agreement or plan of action by subsection (j) shall not apply to any act or omission occurring after the time of such termination or modification;
 
 &emsp;(10) that participants in any voluntary agreement or plan of action be reasonably representative of the appropriate industry or segment of such industry; and
 
@@ -144,7 +144,7 @@ The Attorney General and the Chairman of the Federal Trade Commission shall each
 
 &emsp;&emsp;&emsp;(i) in the course of developing a voluntary agreement initiated by the President or a plan of action adopted under any such agreement; or
 
-&emsp;&emsp;&emsp;(ii) to carry out a voluntary agreement initiated by the President and approved inaccordance with this section or a plan of action adopted under any such agreement, and
+&emsp;&emsp;&emsp;(ii) to carry out a voluntary agreement initiated by the President and approved in accordance with this section or a plan of action adopted under any such agreement, and
 
 &emsp;&emsp;(B) such person—
 
@@ -264,7 +264,7 @@ Subsec. (h)(9), (10). Pub. L. 102–99, §5(15)(B), inserted "or plan of action"
 
 Subsec. (h)(11). Pub. L. 102–99, §5(15)(C)–(E), added par. (11).
 
-Subsec. (j). Pub. L. 102–99, §5(18), added subsec. (j) and struck out former subsec. (j) which read as follows: "There shall be available as a defense for any person to any civil or criminal action brought for violation of the antitrust laws (or any similar law of any State) with respect to any act or omission to act to develop or carry out any voluntary agreement under this section that—
+Subsec. (j). Pub. L. 102–99, §5(18), added subsec. (j) and struck out former subsec. (j) which read as follows:"There shall be available as a defense for any person to any civil or criminal action brought for violation of the antitrust laws (or any similar law of any State) with respect to any act or omission to act to develop or carry out any voluntary agreement under this section that—
 
 &emsp;"(1) such act or omission to act was taken in good faith by that person—
 
@@ -286,7 +286,7 @@ Subsec. (b). Pub. L. 94–152 substituted definition of "antitrust laws" for pro
 
 Subsec. (c). Pub. L. 94–152 restructured subsec. (c) into pars. (1) and (2), and, as so restructured, inserted provisions of par. (1) authorizing President to consult with leaders of industry, finance, agriculture and labor with a view to developing voluntary agreements to help provide for the defense of the United States whenever he finds conditions exist which pose a threat to the national defense or preparedness programs and transferred existing provisions to par. (2), and, as transferred, substituted provisions which authorized President to delegate authority granted to him in par. (1) of this subsection and under subsec. (d) of this section, for provisions authorizing delegation of authority of subsec. (b) of this section.
 
-Subsec. (d). Pub. L. 94–152 substituted provisions relating to establishment, membership, meetings, transcripts, etc. of advisory committees, for provisions relating to application of this section to acts or omissions to act after withdrawal of any request or findingunder this section or withdrawal of approval of Attorney General.
+Subsec. (d). Pub. L. 94–152 substituted provisions relating to establishment, membership, meetings, transcripts, etc. of advisory committees, for provisions relating to application of this section to acts or omissions to act after withdrawal of any request or finding under this section or withdrawal of approval of Attorney General.
 
 Subsec. (e). Pub. L. 94–152 substituted provisions relating to promulgation of rules for voluntary agreements, procedures for promulgation and required provisions, for provisions relating to monitoring by Attorney General of agreements in force and reports to President and Congress.
 
@@ -338,7 +338,7 @@ Pub. L. 94–152, §4, Dec. 16, 1975, 89 Stat. 820, provided that:
 
 "(b) No provision of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as amended by this Act, shall be construed as granting immunity for, nor as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any acts or practices which occurred (1) prior to the date of enactment of this Act \[Dec. 16, 1975\], (2) outside the scope and purpose or not in compliance with the terms and conditions of the Defense Production Act of 1950, or (3) subsequent to the expiration or repeal of the Defense Production Act of 1950.
 
-"(c) Effective on the date of enactment of this Act \[Dec. 16, 1975\], the immunity conferred by section 708 or 708A of the Defense Production Act of 1950, as amended by this Act, shall not apply to any action taken or authorized to be taken by or under the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\]."
+"(c) Effective on the date of enactment of this Act \[Dec. 16, 1975\], the immunity conferred by section 708 or708A of the Defense Production Act of 1950, as amended by this Act, shall not apply to any action taken or authorized to be taken by or under the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\]."
 
 \[Section 708A of the Defense Production Act of 1950, referred to in section 4 of Pub. L. 94–152, set out above, which was classified to section 2158a of the former Appendix to this title, was repealed by Pub. L. 102–99, §4, Aug. 17, 1991, 105 Stat. 487.\]
 

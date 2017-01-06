@@ -1,6 +1,6 @@
 ### §1915. Compromise of customs liabilities
 
-Whoever, being an officer of the United States, without lawful authority compromises or abates or attempts to compromise or abate any claim of the United States arising under the customs laws for any fine, penalty or forfeiture, or in any manner relieves or attempts to relieve any person, vessel, vehicle, merchandise or baggage therefrom, shall be fined under this title or imprisoned not more than two years, or both.
+Whoever, being an officer of the United States, without lawful authority compromises or abates or attempts to compromise or abate any claim of the United States arising under the customslaws for any fine, penalty or forfeiture, or in any manner relieves or attempts to relieve any person, vessel, vehicle, merchandise or baggage therefrom, shall be fined under this title or imprisoned not more than two years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 793; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 

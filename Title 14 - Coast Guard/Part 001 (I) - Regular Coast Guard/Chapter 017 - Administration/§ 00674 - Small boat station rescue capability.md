@@ -2,7 +2,7 @@
 
 The Secretary shall ensure that each Coast Guard small boat station (including a seasonally operated station) maintains, within the area of responsibility for the station, at least 1 vessel that is fully capable of performing offshore rescue operations, taking into consideration prevailing weather, marine conditions, and depositional geologic features such as sand bars.
 
-(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §673; renumbered §674, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), (f)(1), Nov. 25, 2002, 116 Stat. 2314, 2316; Pub. L. 112–213, title II, §217(12), Dec. 20, 2012, 126 Stat. 1558.)
+(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §673; renumbered §674, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), (f)(1), Nov. 25, 2002, 116 Stat. 2314, 2316;Pub. L. 112–213, title II, §217(12), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Prior Provisions
 

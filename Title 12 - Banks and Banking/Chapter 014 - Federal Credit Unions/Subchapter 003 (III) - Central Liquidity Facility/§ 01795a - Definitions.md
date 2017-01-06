@@ -26,6 +26,10 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 <b>1980</b>—Pub. L. 96–221, §309(b)(2), substituted "title" for "subchapter", which for purposes of codification has been editorially translated as "subchapter", thereby requiring no further change in text.
 
+#### Effective Date
+
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
+
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>

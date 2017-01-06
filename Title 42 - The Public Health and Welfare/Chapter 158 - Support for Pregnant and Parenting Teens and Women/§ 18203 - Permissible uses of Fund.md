@@ -48,7 +48,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 &emsp;&emsp;&emsp;(vii) Post-partum counseling.
 
-&emsp;&emsp;(C) Identify public and private service providers, located on the campus of the eligibleinstitution or within the local community, that are qualified to meet the needs described in subparagraph (B), and establishes <sup>1</sup> programs with qualified providers to meet such needs.
+&emsp;&emsp;(C) Identify public and private service providers, located on the campus of the eligible institution or within the local community, that are qualified to meet the needs described in subparagraph (B), and establishes <sup>1</sup> programs with qualified providers to meet such needs.
 
 &emsp;&emsp;(D) Assist pregnant and parenting students, fathers or spouses in locating and obtaining services that meet the needs described in subparagraph (B).
 
@@ -96,7 +96,7 @@ A State may use amounts received under a grant under section 18202 of this title
 
 #### (1) In general
 
-&emsp;A State may use amounts received under a grant under section 18202 of this title to make funding available tp <sup>2</sup> its State Attorney General to assist Statewide offices in providing—
+&emsp;A State may use amounts received under a grant under section 18202 of this title to makefunding available tp <sup>2</sup> its State Attorney General to assist Statewide offices in providing—
 
 &emsp;&emsp;(A) intervention services, accompaniment, and supportive social services for eligible pregnant women who are victims of domestic violence, sexual violence, sexual assault, or stalking.
 

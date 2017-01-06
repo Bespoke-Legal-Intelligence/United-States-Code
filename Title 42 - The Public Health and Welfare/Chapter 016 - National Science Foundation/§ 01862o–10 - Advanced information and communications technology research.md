@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-As part of the Program described in title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.), the Foundation shall support basic research related to advanced information and communications technologies that will contribute to enhancing or facilitating the availability and affordability of advanced communications services for all people of the United States. Areas of research to be supported may include research on—
+As part of the Program described in title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.), the Foundation shall support basic research related to advanced informationand communications technologies that will contribute to enhancing or facilitating the availability and affordability of advanced communications services for all people of the United States. Areas of research to be supported may include research on—
 
 &emsp;(A) affordable broadband access, including wireless technologies;
 
@@ -26,7 +26,7 @@ As part of the Program described in title I of the High-Performance Computing Ac
 
 #### (2) Centers
 
-The Director shall award multiyear grants, subject to the availability of appropriations andon a merit-reviewed competitive basis, to institutions of higher education, nonprofit research institutions affiliated with institutions of higher education, or consortia of either type of institution to establish multidisciplinary Centers for Communications Research. The purpose of the Centers shall be to generate innovative approaches to problems in information and communications technology research, including the research areas described in paragraph (1). Institutions of higher education, nonprofit research institutions affiliated with institutions of higher education, or consortia receiving such grants may partner with 1 or more government laboratories, for-profit entities, or other institutions of higher education or nonprofit research institutions.
+The Director shall award multiyear grants, subject to the availability of appropriations and on a merit-reviewed competitive basis, to institutions of higher education, nonprofit research institutions affiliated with institutions of higher education, or consortia of either type of institution to establish multidisciplinary Centers for Communications Research. The purpose of the Centers shall be to generate innovative approaches to problems in information and communications technology research, including the research areas described in paragraph (1). Institutions of higher education, nonprofit research institutions affiliated with institutions of higher education, or consortia receiving such grants may partner with 1 or more government laboratories, for-profit entities, or other institutions of higher education or nonprofit research institutions.
 
 #### (3) Funding allocation
 

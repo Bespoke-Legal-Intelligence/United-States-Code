@@ -14,7 +14,7 @@
 
 &emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similar advantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exert sustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
 
-&emsp;(7) accordingly, it is declared to be the policy of the people of the United States to sustain and strengthen principles of individual liberty, free institutions, private enterprise, and genuine independence in the Western Hemisphere through cooperation with all American Republics which participate in a joint development program based upon self-help and mutual efforts.
+&emsp;(7) accordingly, it is declared to be the policy of the people of the United States to sustain and strengthen principles of individualliberty, free institutions, private enterprise, and genuine independence in the Western Hemisphere through cooperation with all American Republics which participate in a joint development program based upon self-help and mutual efforts.
 
 (b) In order to carry forward the above policy, the Congress hereby—
 

@@ -18,7 +18,7 @@ Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give,
 
 &emsp;(7) A State museum.
 
-&emsp;(8) A museum or memorial operated and maintained for educational purposes only,whose charter denies it the right to operate for profit.
+&emsp;(8) A museum or memorial operated and maintained for educational purposes only, whose charter denies it the right to operate for profit.
 
 &emsp;(9) A post of the Veterans of Foreign Wars of the United States.
 

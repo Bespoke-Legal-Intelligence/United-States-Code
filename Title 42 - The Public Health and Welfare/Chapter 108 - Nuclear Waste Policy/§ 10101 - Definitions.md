@@ -52,7 +52,7 @@ For purposes of this chapter:
 
 &emsp;(14) The term "Governor" means the chief executive officer of a State.
 
-&emsp;(15) The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians recognized as eligible for the services provided to Indians by the Secretary of the Interior because of their status as Indians, including any Alaska Native village, as defined in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)).
+&emsp;(15) The term "Indian tribe" means any Indian tribe, band, nation, or other organizedgroup or community of Indians recognized as eligible for the services provided to Indians by the Secretary of the Interior because of their status as Indians, including any Alaska Native village, as defined in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)).
 
 &emsp;(16) The term "low-level radioactive waste" means radioactive material that—
 
@@ -100,7 +100,7 @@ For purposes of this chapter:
 
 &emsp;(32) The term "Negotiator" means the Nuclear Waste Negotiator.
 
-&emsp;(33) As used in subchapter IV of this chapter, the term "Office" means the Office of the Nuclear Waste Negotiator established under subchapter IV of this chapter.
+&emsp;(33) As used in subchapter IV, the term "Office" means the Office of the Nuclear Waste Negotiator established under subchapter IV of this chapter.
 
 &emsp;(34) The term "monitored retrievable storage facility" means the storage facility described in section 10161(b)(1) of this title.
 
@@ -110,7 +110,7 @@ For purposes of this chapter:
 
 Section 10224 of this title, referred to in par. (17), was in the original a reference to section 305 of Pub. L. 97–425, which is classified to section 10225 of this title, and was translated as section 10224 of this title as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by section 10224 of this title.
 
-The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see ShortTitle note set out under section 1601 of Title 43 and Tables.
 
 Section 10156(c) of this title, referred to in par. (26), was in the original a reference to section 137(c) of Pub. L. 97–425, which is classified to section 10157(c) of this title, and has been translated as section 10156(c) of this title as the probable intent of Congress, in view of the Interim Storage Fund being established by section 10156(c) of this title.
 

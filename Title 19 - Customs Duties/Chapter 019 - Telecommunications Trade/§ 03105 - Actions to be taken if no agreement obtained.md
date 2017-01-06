@@ -64,7 +64,7 @@ The President shall promptly inform the appropriate committees of the Congress o
 
 Subtitle A, referred to in subsec. (a)(1), is subtitle A (§§1101–1125) of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121. For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(E), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 

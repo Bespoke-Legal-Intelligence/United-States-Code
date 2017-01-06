@@ -54,6 +54,8 @@
 | [5165b.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165b%20-%20Management%20costs.md) | Management costs. |
 | [5165c.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165c%20-%20Public%20notice%2C%20comment%2C%20and%20consultation%20requirements.md) | Public notice, comment, and consultation requirements. |
 | [5165d.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165d%20-%20Designation%20of%20Small%20State%20and%20Rural%20Advocate.md) | Designation of Small State and Rural Advocate. |
+| [5165e.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165e%20-%20Integrated%20plan%20for%20administrative%20cost%20reduction.md) | Integrated plan for administrative cost reduction. |
+| [5165f.](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/%C2%A7%2005165f%20-%20National%20Urban%20Search%20and%20Rescue%20Response%20System.md) | National Urban Search and Rescue Response System. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

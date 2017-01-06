@@ -50,7 +50,7 @@
 
 &emsp;(C) any other place.
 
-> However, if the member selects as his home a place other than a place described in clause (A) or (B) of the preceding sentence, the travel and transportation allowances authorized by subsection (a) may not exceed the allowances which would be payable if the place selected as his home were in the United States (other than Hawaii or Alaska).
+> However, if the member selects as his home a place other than a place described in clause (A)or (B) of the preceding sentence, the travel and transportation allowances authorized by subsection (a) may not exceed the allowances which would be payable if the place selected as his home were in the United States (other than Hawaii or Alaska).
 
 (d)(1) The travel and transportation allowances authorized for each kind of travel may not be more than one of the following:
 
@@ -264,7 +264,7 @@ Subsec. (d)(1)(A). Pub. L. 100–26, §8(d)(6), substituted "privately owned" fo
 
 Subsec. (h). Pub. L. 100–180 added subsec. (h).
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591 substituted "Subject to paragraph (2), transportation" for "Transportation" in par. (1)(B) and "subparagraph (A) of this paragraph" for "clause (1) of this subsection" in par. (1)(C) and added pars. (2), (4), and (5), and redesignated former par. (2) as (3) and substituted "Except as provided in paragraph (4) of this subsectionand under" for "Under". See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
+<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591 substituted "Subject to paragraph (2), transportation" for "Transportation" in par. (1)(B) and "subparagraph (A) of this paragraph" for "clause (1) of this subsection" in par. (1)(C) and added pars. (2), (4), and (5), and redesignated former par. (2) as (3) and substituted "Except as provided in paragraph (4) of this subsection and under" for "Under". See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
 
 Subsec. (d)(1)(B). Pub. L. 99–661, §614(a)(1), (2), substituted "payment in lieu of subsistence as provided in paragraph (2) of this subsection in an amount sufficient" for "per diem in place of subsistence in an amount not more than $50 determined by the Secretaries concerned to be sufficient" and struck out "to be" after "travel is".
 
@@ -272,7 +272,7 @@ Subsec. (d)(1)(C). Pub. L. 99–661, §1343(b)(2), substituted "subparagraph (A)
 
 Subsec. (d)(2) to (4). Pub. L. 99–661, §614(a)(3), added pars. (2) to (4) and struck out former par. (2) which read as follows: "Under regulations prescribed by the Secretaries concerned, when either travel is to an area designated as a high cost area in those regulations or the per diem of paragraph (1)(B) of this subsection is less than the amount of the actual and necessary expenses required by the unusual circumstances of the travel assignment, reimbursement may be authorized for actual and necessary expenses, but not for more than $75 for each day in a travel status."
 
-<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted "paragraph (1)(B)" for "clause (2)". Prior to amendment, first sentence read as follows: "The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par.\(2), and in par. (2) substituted "paragraph (1)(B)" for "clause (2)". Prior to amendment, first sentence read as follows: "The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
 
 &emsp;"(1) transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation at a rate per mile prescribed by the Secretaries concerned and based on distances established, over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of the Army;
 
@@ -344,7 +344,7 @@ Amendment by section 1402(c) of Pub. L. 98–525 effective Oct. 1, 1985, see sec
 
 Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
-"(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 405a and 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are separated from the service or released from active duty on or after November 1, 1981.
+"(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 405a and 406 of this title\] shall take effect on November 1, 1981, and shall apply tomembers who are separated from the service or released from active duty on or after November 1, 1981.
 
 "(2) Paragraph (2) of section 474(b) of title 37, United States Code, as added by subsection (a)(2)(C), shall apply to travel performed after October 31, 1981.
 
@@ -372,6 +372,34 @@ Amendment by Pub. L. 90–168 effective on first day of first calendar month fol
 
 Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, §612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made to section 474(d) of title 37, United States Code, by section 614(a) of the Defense Authorization Act \[section 614(a) of Pub. L. 99–661\] shall be executed as if that portion of section 9073 of the Defense Appropriations Act \[section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, §615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section\] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act \[Apr. 21, 1987\], and the reference to 'this section' in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act."
 
+#### Modification of Flat Rate Per Diem Requirement for Personnel on Long-Term Temporary Duty Assignments
+
+Pub. L. 114–328, div. A, title VI, §672, Dec. 23, 2016, 130 Stat. 2178, provided that:
+
+"(a)
+
+Modification of Flat Rate.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall take such action as may be necessary to provide that, to the extent that regulations implementing travel and transportation authorities for military and civilian personnel of the Department of Defense impose a flat rate per diem for meals and incidental expenses for authorized travelers on long-term temporary duty assignments that is at a reduced rate compared to the per diem rate otherwise applicable, the Secretary concerned may waive the applicability of such reduced rate and pay such travelers actual expenses up to the full per diem rate for such travel in any case when the Secretary concerned determines that the reduced flat rate per diem for meals and incidental expenses is not sufficient under the circumstances of the temporary duty assignment.
+
+&emsp;"(2)
+
+Applicability.—The Secretary concerned may exercise the authority provided pursuant to paragraph (1) with respect to per diem payable for any day on or after the date of the enactment of this Act \[Dec. 23, 2016\].
+
+"(b)
+
+Delegation of Authority.—The authority pursuant to subsection (a) may be delegated by the Secretary concerned to an officer at the level of lieutenant general or vice admiral, or above. Such authority may not be delegated to an officer below that level.
+
+"(c)
+
+Waiver of Collection of Receipts.—The Secretary concerned or an officer to whom the authority pursuant to subsection (a) is delegated pursuant to subsection (b) may waive any requirement for the submittal of receipts by travelers on long-term temporary duty assignments for the purpose of receiving the full per diem rate pursuant to subsection (a) if the Secretary concerned or officer, as described in subsection (b), personally certifies that requiring travelers to submit receipts for that purpose will negatively affect mission performance or create an undue administrative burden.
+
+"(d)
+
+Secretary Concerned Defined.—In this section, the term 'Secretary concerned' has the meaning given that term in section 101 of title 37, United States Code."
+
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 
 Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, related to transmission to Congress by Secretary of Defense of certification of costs of travel and transportation allowances for fiscal year 1987. See Termination of Amendments by Public Laws 99–500 and 99–591 note above.
@@ -384,5 +412,5 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8113\], Oct. 12, 1984, 98 St
 
 Increase in Per Diem Rates; Reimbursement for Actual Expenses Incident to Travel
 
-The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the device of effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
+The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the deviceof effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
 

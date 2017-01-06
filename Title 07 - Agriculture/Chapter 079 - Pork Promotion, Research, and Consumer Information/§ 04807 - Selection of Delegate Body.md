@@ -28,7 +28,7 @@
 
 #### (c) Subsequent nominations and elections to be administered by Board; time of election; voting eligibility
 
-(1) Except as provided in paragraph (3), after the election of the producer members of the initial Delegate Body, the Board shall administer all subsequent nominations and elections of the producer members to be nominated for appointment as members of the Delegate Body, with theassistance of the Secretary and in accordance with subsections (a)(3) and (b).
+(1) Except as provided in paragraph (3), after the election of the producer members of the initial Delegate Body, the Board shall administer all subsequent nominations and elections of the producer members to be nominated for appointment as members of the Delegate Body, with the assistance of the Secretary and in accordance with subsections (a)(3) and (b).
 
 (2) The Board shall determine the timing of an election referred to in paragraph (1).
 
@@ -49,6 +49,10 @@
 (3) Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3).
 
 (Pub. L. 99–198, title XVI, §1618, Dec. 23, 1985, 99 Stat. 1611.)
+
+#### Effective Date
+
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -10,7 +10,7 @@ Such training shall include conferences, internships, seminars, workshops, and t
 
 &emsp;(1) Legislative and regulatory requirements for the operation of programs funded under this division.
 
-&emsp;(2) Assisting students in receiving adequate financial aid from programs assisted under this subchapter and part C of subchapter I of chapter 34 of title 42 and other programs.
+&emsp;(2) Assisting students in receiving adequate financial aid from programs assisted under this subchapter and other programs.
 
 &emsp;(3) The design and operation of model programs for projects funded under this division.
 
@@ -20,7 +20,7 @@ Such training shall include conferences, internships, seminars, workshops, and t
 
 #### (c) Consultation
 
-Grants for the purposes of this section shall be made only after consultation with regional and State professional associations of persons having special knowledge with respect to the needs and problems of such programs and projects.
+Grants for the purposes of this section shall be made only after consultation with regional andState professional associations of persons having special knowledge with respect to the needs and problems of such programs and projects.
 
 (Pub. L. 89–329, title IV, §402G, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(f), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(g), Aug. 14, 2008, 122 Stat. 3204.)
 

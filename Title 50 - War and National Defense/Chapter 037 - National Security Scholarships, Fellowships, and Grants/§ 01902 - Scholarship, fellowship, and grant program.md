@@ -10,17 +10,17 @@
 
 &emsp;&emsp;&emsp;(i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those languages and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
-&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(A) of this section, enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
+&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(A), enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
 
 &emsp;&emsp;(B) awarding fellowships to graduate students who—
 
 &emsp;&emsp;&emsp;(i) are United States citizens to enable such students to pursue education as part of a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under section 1903(d)(4)(B) of this title) and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
-&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B) of this section, enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
+&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B), enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
 
 &emsp;&emsp;(C) awarding grants to institutions of higher education to enable such institutions to establish, operate, or improve programs in foreign languages, area studies, counterproliferation studies, and other international fields that are critical areas of those disciplines (as determined under section 1903(d)(4)(C) of this title);
 
-&emsp;&emsp;(D) awarding grants to institutions of higher education to carry out activities under the National Flagship Language Initiative (described in subsection (i) of this section); and
+&emsp;&emsp;(D) awarding grants to institutions of higher education to carry out activities under the National Flagship Language Initiative (described in subsection (i)); and
 
 &emsp;&emsp;(E) awarding scholarships to students who—
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&nbsp;to enable such students to pursue English language studies at an institution of higher education of the United States to attain proficiency in those skills; and
 
-&emsp;&emsp;&emsp;(ii) enter into an agreement to work in a position in a similar manner (as determined by the Secretary) as agreements entered into pursuant to subsection (b)(2)(A) of this section.
+&emsp;&emsp;&emsp;(ii) enter into an agreement to work in a position in a similar manner (as determined by the Secretary) as agreements entered into pursuant to subsection (b)(2)(A).
 
 #### (2) Funding allocations
 
@@ -44,11 +44,11 @@
 
 &emsp;&emsp;(C) 1/3 of such amount for the awarding of grants pursuant to paragraph (1)(C).
 
-> &emsp;The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section or for the scholarship program under paragraph (1)(E). For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title. For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.
+> &emsp;The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) or for the scholarship program under paragraph (1)(E). For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title. For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.
 
 #### (3) Consultation with National Security Education Board
 
-&emsp;The program required under this chapter shall be carried out in consultation with the National Security Education Board established under section 1903 of this title.
+&emsp;The program required under this chapter shall be carried out in consultation with theNational Security Education Board established under section 1903 of this title.
 
 #### (4) Contract authority
 
@@ -56,9 +56,9 @@
 
 #### (b) Service agreement
 
-In awarding a scholarship or fellowship under the program, the Secretary or contract organization referred to in subsection (a)(4) of this section, as the case may be, shall require a recipient of any fellowship or any scholarship to enter into an agreement that, in return for such assistance, the recipient—
+In awarding a scholarship or fellowship under the program, the Secretary or contract organization referred to in subsection (a)(4), as the case may be, shall require a recipient of any fellowship or any scholarship to enter into an agreement that, in return for such assistance, the recipient—
 
-&emsp;(1) will maintain satisfactory academic progress, as determined in accordance with regulations issued by the Secretary, and agrees that failure to maintain such progress shall constitute grounds upon which the Secretary or contract organization referred to in subsection (a)(4) of this section may terminate such assistance;
+&emsp;(1) will maintain satisfactory academic progress, as determined in accordance with regulations issued by the Secretary, and agrees that failure to maintain such progress shall constitute grounds upon which the Secretary or contract organization referred to in subsection (a)(4) may terminate such assistance;
 
 &emsp;(2)(A) will (in accordance with regulations prescribed by the Secretary of Defense in coordination with the heads of the other Federal departments and agencies concerned) begin work not later than three years after the recipient's completion of degree study during which scholarship assistance was provided under the program—
 
@@ -84,7 +84,7 @@ The Secretary shall, through the National Security Education Program office, adm
 
 #### (d) Distribution of assistance
 
-In selecting the recipients for awards of scholarships, fellowships, or grants pursuant to this chapter, the Secretary or a contract organization referred to in subsection (a)(4) of this section, as the case may be, shall take into consideration (1) the extent to which the selections will result in there being an equitable geographic distribution of such scholarships, fellowships, or grants (as the case may be) among the various regions of the United States, and (2) the extent to which the distribution of scholarships and fellowships to individuals reflects the cultural, racial, and ethnic diversity of the population of the United States.
+In selecting the recipients for awards of scholarships, fellowships, or grants pursuant to this chapter, the Secretary or a contract organization referred to in subsection (a)(4), as the case may be, shall take into consideration (1) the extent to which the selections will result in there being an equitable geographic distribution of such scholarships, fellowships, or grants (as the case may be) among the various regions of the United States, and (2) the extent to which the distribution of scholarships and fellowships to individuals reflects the cultural, racial, and ethnic diversity of the population of the United States.
 
 #### (e) Merit review
 
@@ -92,11 +92,11 @@ The Secretary shall award scholarships, fellowships, and grants under the progra
 
 #### (f) Limitation on use of program participants
 
-No person who receives a grant, scholarship, or fellowship or any other type of assistance under this chapter shall, as a condition of receiving such assistance or under any other circumstances, be used by any department, agency, or entity of the United States Government engaged in intelligence activities to undertake any activity on its behalf during the period such person is pursuing a program of education for which funds are provided under the program carried out under this chapter.
+No person who receives a grant, scholarship, or fellowship or any other type of assistanceunder this chapter shall, as a condition of receiving such assistance or under any other circumstances, be used by any department, agency, or entity of the United States Government engaged in intelligence activities to undertake any activity on its behalf during the period such person is pursuing a program of education for which funds are provided under the program carried out under this chapter.
 
 #### (g) Determination of agencies and offices of Federal Government having national security responsibilities
 
-(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequentlist in the annual report to the Congress, as required by section 1906(b)(6) of this title.
+(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
 
 (2) Notwithstanding section 1904 of this title, funds may not be made available from the Fund to carry out this chapter for fiscal year 1997 until 30 days after the date on which the Secretary of Defense submits to the Congress the first such list required by paragraph (1).
 
@@ -120,7 +120,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
 
-(3) In this subsection, the term "award recipient" means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section who—
+(3) In this subsection, the term "award recipient" means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) who—
 
 &emsp;(A) is in good standing;
 
@@ -132,13 +132,13 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (1) Under the National Flagship Language Initiative, institutions of higher education shall establish, operate, or improve activities designed to train students in programs in a range of disciplines to achieve advanced levels of proficiency in those foreign languages that the Secretary identifies as being the most critical in the interests of the national security of the United States.
 
-(2) An undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section may participate in the activities carried out under the National Flagship Language Initiative.
+(2) An undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) may participate in the activities carried out under the National Flagship Language Initiative.
 
-(3) An institution of higher education that receives a grant pursuant to subsection (a)(1)(D) of this section shall give special consideration to applicants who are employees of the Federal Government.
+(3) An institution of higher education that receives a grant pursuant to subsection (a)(1)(D) shall give special consideration to applicants who are employees of the Federal Government.
 
 (4) For purposes of this subsection, the Foreign Language Center of the Defense Language Institute and any other educational institution that provides training in foreign languages operated by the Department of Defense or an agency in the intelligence community is deemed to be an institution of higher education, and may carry out the types of activities permitted under the National Flagship Language Initiative.
 
-(5) An undergraduate or graduate student who participates in training in a program under paragraph (1) and has not already entered into a service agreement under subsection (b) of this section shall enter into a service agreement under subsection (b) of this section applicable to an undergraduate or graduate student, as the case may be, with respect to participation in such training in a program under paragraph (1).
+(5) An undergraduate or graduate student who participates in training in a program under paragraph (1) and has not already entered into a service agreement under subsection (b) shall enter into a service agreement under subsection (b) applicable to an undergraduate or graduate student, as the case may be, with respect to participation in such training in a program under paragraph (1).
 
 (6)(A) An employee of a department or agency of the Federal Government who participates in training in a program under paragraph (1) shall agree in writing—
 
@@ -196,13 +196,13 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 #### Codification
 
-In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)"on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
 <b>2013</b>—Subsec. (k). Pub. L. 112–239 amended subsec. (k) generally. Prior to amendment, text read as follows: "The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
-&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program forwhich a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
+&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
 
 &emsp;"(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment."
 
@@ -222,7 +222,7 @@ Subsecs. (h) to (j). Pub. L. 109–364, §945(b), added subsec. (h) and redesign
 
 <b>2004</b>—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
 
-Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence "or for the scholarship program under paragraph (1)(E)" after "under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section" and by inserting at end "For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.", was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence "or for the scholarship program under paragraph (1)(E)" after "under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i)" and by inserting at end "For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.", was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
 
 Pub. L. 108–487, §601(b), in introductory provisions, inserted "or from a transfer under section 1910(c) of this title" after "National Security Education Trust Fund".
 
@@ -232,7 +232,7 @@ Subsecs. (i)(5), (6). Pub. L. 108–487, §602(a)(1), added pars. (5) and (6).
 
 <b>2002</b>—Subsec. (a)(1)(D). Pub. L. 107–306, §333(a)(1), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 107–306, §333(a)(3), inserted at end "The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section. For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title."
+Subsec. (a)(2). Pub. L. 107–306, §333(a)(3), inserted at end "The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i). For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title."
 
 Subsec. (b)(2)(A)(ii). Pub. L. 107–296, §1332(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: "if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available, work in the field of higher education in a discipline relating to the foreign country, foreign language, area study, counterproliferation study, or international field of study for which the scholarship was awarded, for a period specified by the Secretary, which period shall be determined in accordance with clause (i); or".
 
@@ -254,7 +254,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 104–201, §1078(b)(2)(B), substituted "subsecti
 
 Subsec. (b). Pub. L. 104–201, §1078(c)(1), in introductory provisions, substituted "or any scholarship" for ", or of scholarships that provide assistance for periods that aggregate 12 months or more,".
 
-Subsec. (b)(2). Pub. L. 104–201, §1078(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "will, upon completion of such recipient's baccalaureate degree or education under the program, as the case may be, and in accordance with regulations issued by the Secretary, work for the Federal Government or in the field of education in the area of study for which the scholarship or fellowship was awarded for a period specified by the Secretary, which period for the recipients of scholarships shall be no more than the same period for which scholarship assistance was provided and for the recipients of fellowships shall be not less than one and not more than three times the period for which the fellowship assistance was provided; and".
+Subsec. (b)(2). Pub. L. 104–201, §1078(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "will, upon completion of such recipient's baccalaureate degree or education under the program, as the case may be, and in accordance with regulations issued by the Secretary, work for the Federal Government or in the field of education in the area of study for which the scholarship or fellowship was awarded for a period specified by the Secretary, which period for the recipients of scholarships shall be no more than thesame period for which scholarship assistance was provided and for the recipients of fellowships shall be not less than one and not more than three times the period for which the fellowship assistance was provided; and".
 
 Subsecs. (c) to (f). Pub. L. 104–201, §1078(d), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 

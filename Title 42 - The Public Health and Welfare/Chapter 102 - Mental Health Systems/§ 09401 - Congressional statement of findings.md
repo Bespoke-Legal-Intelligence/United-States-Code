@@ -16,7 +16,7 @@ The Congress finds—
 
 &emsp;(7) present knowledge of methods to prevent mental illness through discovery and elimination of its causes and through early detection and treatment is too limited;
 
-&emsp;(8) a comprehensive and coordinated array of appropriate private and public mental health and support services for all people in need within specific geographic areas, based upon a cooperative local-State-Federal partnership, remains the most effective and humane way to provide a majority of mentally ill individuals with mental health care and needed support; and
+&emsp;(8) a comprehensive and coordinated array of appropriate private and public mental health and support services for all people in need within specific geographic areas, based upon acooperative local-State-Federal partnership, remains the most effective and humane way to provide a majority of mentally ill individuals with mental health care and needed support; and
 
 &emsp;(9) because of the rising demand for mental health services and the wide disparity in the distribution of psychiatrists, clinical psychologists, social workers, and psychiatric nurses, there is a shortage in the medical specialty of psychiatry and there are also shortages among the other health personnel who provide mental health services.
 
@@ -24,5 +24,5 @@ The Congress finds—
 
 #### Short Title
 
-Pub. L. 96–398, §1, Oct. 7, 1980, 94 Stat. 1564, provided that: "This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing section 2689q of this title, and enacting provisions set out as notes under section 242a, 246, 289k–1,and 2689b of this title\] may be cited as the 'Mental Health Systems Act'."
+Pub. L. 96–398, §1, Oct. 7, 1980, 94 Stat. 1564, provided that: "This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing section 2689q of this title, and enacting provisions set out as notes under section 242a, 246, 289k–1, and 2689b of this title\] may be cited as the 'Mental Health Systems Act'."
 

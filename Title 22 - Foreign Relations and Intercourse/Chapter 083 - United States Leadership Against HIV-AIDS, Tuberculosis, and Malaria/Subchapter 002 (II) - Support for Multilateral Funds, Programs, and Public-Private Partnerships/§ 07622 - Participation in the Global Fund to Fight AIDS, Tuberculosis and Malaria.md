@@ -230,7 +230,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (g) Provision of information to Congress
 
-The Coordinator of United States Government Activities to Combat HIV/AIDS Globally shallmake available to the Congress the following documents within 30 days of a request by the Congress for such documents:
+The Coordinator of United States Government Activities to Combat HIV/AIDS Globally shall make available to the Congress the following documents within 30 days of a request by the Congress for such documents:
 
 &emsp;(1) All financial and accounting statements for the Global Fund and the Activities to Combat HIV/AIDS Globally Fund, including administrative and grantee statements.
 

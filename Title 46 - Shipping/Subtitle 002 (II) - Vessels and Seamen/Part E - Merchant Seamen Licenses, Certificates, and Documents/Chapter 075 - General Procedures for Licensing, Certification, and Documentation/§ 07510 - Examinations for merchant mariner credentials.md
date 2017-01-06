@@ -1,0 +1,130 @@
+### §7510. Examinations for merchant mariner credentials
+
+(a)
+
+Disclosure Not Required.—Notwithstanding any other provision of law, the Secretary is not required to disclose to the public—
+
+&emsp;(1) a question from any examination for a merchant mariner credential;
+
+&emsp;(2) the answer to such a question, including any correct or incorrect answer that may be presented with such question; and
+
+&emsp;(3) any quality or characteristic of such a question, including—
+
+&emsp;&emsp;(A) the manner in which such question has been, is, or may be selected for an examination;
+
+&emsp;&emsp;(B) the frequency of such selection; and
+
+&emsp;&emsp;(C) the frequency that an examinee correctly or incorrectly answered such question.
+
+(b)
+
+Exception for Certain Questions.—Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
+
+(c)
+
+Exam Review.—
+
+&emsp;(1)
+
+In general.—Not later than 90 days after the date of the enactment of the Coast GuardAuthorization Act of 2016, and once every two years thereafter, the Commandant of the Coast Guard shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
+
+&emsp;&emsp;(A) 1 subject matter expert from the Coast Guard;
+
+&emsp;&emsp;(B) representatives from training facilities and the maritime industry, of whom—
+
+&emsp;&emsp;&emsp;(i) one-half shall be representatives from approved training facilities; and
+
+&emsp;&emsp;&emsp;(ii) one-half shall be representatives from the appropriate maritime industry;
+
+&emsp;&emsp;(C) at least 1 representative from the Merchant Marine Personnel Advisory Committee;
+
+&emsp;&emsp;(D) at least 2 representatives from the State maritime academies, of whom one shall be a representative from the deck training track and one shall be a representative of the engineer license track;
+
+&emsp;&emsp;(E) representatives from other Coast Guard Federal advisory committees, as appropriate, for the industry segment associated with the subject examinations;
+
+&emsp;&emsp;(F) at least 1 subject matter expert from the Maritime Administration; and
+
+&emsp;&emsp;(G) at least 1 human performance technology representative.
+
+&emsp;(2)
+
+Inclusion of persons knowledgeable about examination type.—The working group shall include representatives knowledgeable about the examination type under review.
+
+&emsp;(3)
+
+Limitation.—The requirement to convene a working group under paragraph (1) does not apply unless there are new examination questions to review.
+
+&emsp;(4)
+
+Baseline review.—
+
+&emsp;&emsp;(A)
+
+In general.—Within 1 year after the date of the enactment of the Coast Guard Authorization Act of 2016, the Secretary shall convene the working group to complete a baseline review of the Coast Guard's Merchant Mariner Credentialing Examination, including review of—
+
+&emsp;&emsp;&emsp;(i) the accuracy of examination questions;
+
+&emsp;&emsp;&emsp;(ii) the accuracy and availability of examination references;
+
+&emsp;&emsp;&emsp;(iii) the length of merchant mariner examinations; and
+
+&emsp;&emsp;&emsp;(iv) the use of standard technologies in administering, scoring, and analyzing the examinations.
+
+&emsp;&emsp;(B)
+
+Progress report.—The Coast Guard shall provide a progress report to the appropriate congressional committees on the review under this paragraph.
+
+&emsp;(5)
+
+Full membership not required.—The Coast Guard may convene the working group without all members present if any non-Coast-Guard representative is present.
+
+&emsp;(6)
+
+Nondisclosure agreement.—The Secretary shall require all members of the working group to sign a nondisclosure agreement with the Secretary.
+
+&emsp;(7)
+
+Treatment of members as federal employees.—A member of the working group who is not a Federal Government employee shall not be considered a Federal employee in the service or the employment of the Federal Government, except that such a member shall be considered a special government employee, as defined in section 202(a) of title 18 for purposes of sections 203, 205, 207, 208, and 209 of such title and shall be subject to any administrative standards of conduct applicable to an employee of the department in which the Coast Guard is operating.
+
+&emsp;(8)
+
+Formal exam review.—The Secretary shall ensure that the Coast Guard Performance Technology Center—
+
+&emsp;&emsp;(A) prioritizes the review of examinations required for merchant mariner credentials; and
+
+&emsp;&emsp;(B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant seamen licensing.
+
+&emsp;(9)
+
+FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any working group created under this section to review the Coast Guard's merchant mariner credentialing examinations.
+
+(d)
+
+Merchant Mariner Credential Defined.—In this section, the term "merchant mariner credential" means a merchant seaman license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
+
+(Added Pub. L. 114–120, title III, §315(a)(1), Feb. 8, 2016, 130 Stat. 60; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(1), Dec. 23, 2016, 130 Stat. 2775.)
+
+#### References in Text
+
+The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (c)(1), (4)(A), (8)(B), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+
+The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §3503(a), in introductory provisions, substituted "Coast Guard Authorization Act of 2016" for "Coast Guard Authorization Act of 2015".
+
+Subsec. (c)(1)(D). Pub. L. 114–328, §3503(b)(1)(A), substituted "engineer" for "engine".
+
+Subsec. (c)(4)(A), (8)(B). Pub. L. 114–328, §3503(a), substituted "Coast Guard Authorization Act of 2016" for "Coast Guard Authorization Act of 2015".
+
+Subsec. (c)(9). Pub. L. 114–328, §3503(b)(1)(B), inserted a period after "App".
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 60 of Title 14, Coast Guard.
+
+#### Disclosure to Congress
+
+Pub. L. 114–120, title III, §315(c), Feb. 8, 2016, 130 Stat. 62, provided that: "Nothing in this section \[enacting this section and section 7116 of this title\] may be construed to authorize the withholding of informationfrom an appropriate inspector general, the Committee on Commerce, Science, and Transportation of the Senate, or the Committee on Transportation and Infrastructure of the House of Representatives."
+

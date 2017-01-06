@@ -42,7 +42,7 @@ Pub. L. 103–416, §207(2), as amended by Pub. L. 104–208, substituted "The" 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, see section 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, seesection 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 

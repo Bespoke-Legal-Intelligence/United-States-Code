@@ -2,7 +2,7 @@
 
 #### (a) Management function
 
-The Commission shall insure that the management of any byproduct material, as defined insection 2014(e)(2) of this title, is carried out in such manner as—
+The Commission shall insure that the management of any byproduct material, as defined in section 2014(e)(2) of this title, is carried out in such manner as—
 
 &emsp;(1) the Commission deems appropriate to protect the public health and safety and the environment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate,,<sup>1</sup>
 
@@ -28,7 +28,7 @@ In the case of sites at which ores are processed primarily for their source mate
 
 #### References in Text
 
-The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 

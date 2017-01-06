@@ -40,7 +40,7 @@
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L.107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485.)
 
 Historical and Revision Notes
 
@@ -132,7 +132,7 @@ Subsec. (f)(5). Pub. L. 106–117, §511(c)(4), added par. (5).
 
 &emsp;"(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
 
-> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces."
+> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfersto the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces."
 
 Subsec. (d). Pub. L. 104–65, §17(a), which directed amendment of this section by adding subsec. (d) at the end thereof, was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress.
 
@@ -163,4 +163,8 @@ Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: "The ame
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Direct Hiring for Federal Wage Schedule Employees
+
+Pub. L. 114–328, div. A, title XI, §1139, Dec. 23, 2016, 130 Stat. 2470, provided that: "The Director of the Office of Personnel Management shall permit an agency with delegated examining authority under 1104(a)(2) of title 5, United States Code, to use direct-hire authority under section 3304(a)(3) of such title for a permanent or non-permanent position or group of positions in the competitive services at GS–15 (or equivalent) and below, or for prevailing rate employees, if the Director determines that there is either a severe shortage of candidates or a critical hiring need for such positions."
 

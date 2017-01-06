@@ -52,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language ofPub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
+<b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
 <b>2011</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" and "475" for "405" in subpar. (A), and "476" for "406" and "479" for "409" in subpar. (B).
 

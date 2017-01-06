@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Beginning after the issuance of final guidance implementing this paragraph, presubmissions and submissions for devicesunder section 360(k), 360c(f)(2)(A), 360e(c), 360e(d), 360e(f), 360j(g), 360j(m), or 360bbb–3 of this title or section 262 of title 42, and any supplements to such presubmissions or submissions, shall include an electronic copy of such presubmissions or submissions.
+&emsp;Beginning after the issuance of final guidance implementing this paragraph, presubmissions and submissions for devices under section 360(k), 360c(f)(2)(A), 360e(c), 360e(d), 360e(f), 360j(g), 360j(m), or 360bbb–3 of this title or section 262 of title 42, and any supplements to such presubmissions or submissions, shall include an electronic copy of such presubmissions or submissions.
 
 #### (2) Guidance contents
 

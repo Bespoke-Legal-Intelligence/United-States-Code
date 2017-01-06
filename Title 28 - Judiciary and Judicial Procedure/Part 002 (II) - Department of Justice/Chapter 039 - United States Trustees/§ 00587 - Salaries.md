@@ -1,6 +1,6 @@
 ### §587. Salaries
 
-Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States trustees and assistant United States trustees at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code.
+Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States trustees and assistant United States trustees at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the ExecutiveSchedule set forth in section 5315 of title 5, United States Code.
 
 (Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2664; amended Pub. L. 99–554, title I, §114(a), Oct. 27, 1986, 100 Stat. 3093.)
 

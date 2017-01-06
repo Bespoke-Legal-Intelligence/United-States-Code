@@ -28,7 +28,7 @@ Energy Performance Master Plan.—(1) The Secretary of Defense shall develop a c
 
 (c)
 
-Special Considerations.—For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
+Special Considerations.—For the purpose of developing and implementing the energy performance goals and energy performance masterplan, the Secretary of Defense shall consider at a minimum the following:
 
 &emsp;(1) Opportunities to reduce the current rate of consumption of energy.
 
@@ -70,7 +70,7 @@ Selection of Energy Conservation Measures.—For the purpose of implementing the
 
 Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It shall be the goal of the Department of Defense—
 
-&emsp;(A) to produce or procure not less than 25 percent of the total quantity of facility energyit consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
+&emsp;(A) to produce or procure not less than 25 percent of the total quantity of facility energy it consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
 
 &emsp;(B) to produce or procure facility energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
 
@@ -102,7 +102,7 @@ Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It s
 
 Pub. L. 111–383, §2832(a)(2), substituted "master plan" for "plan" wherever appearing in subsecs. (c) to (e).
 
-Subsec. (b). Pub. L. 111–383, §2832(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall develop, and update as necessary, a comprehensive plan to help achieve the energy performance goals for the Department of Defense."
+Subsec. (b). Pub. L. 111–383, §2832(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall develop, and update as necessary, a comprehensive plan to helpachieve the energy performance goals for the Department of Defense."
 
 Subsec. (b)(2)(F). Pub. L. 112–81, §2825(b), added subpar. (F).
 
@@ -125,6 +125,10 @@ Subsec. (e)(3). Pub. L. 112–81, §2824(a), added par. (3).
 Pub. L. 111–84, §2842(a), (b), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in par. (1)(A), substituted "facility energy" for "electric energy" and struck out "and in its activities" after "facilities" and "(as defined in section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)))" after "sources", in par. (1)(B), substituted "facility energy" for "electric energy", and added par. (2).
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–364, §2852, added subsec. (e).
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b)(3) of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery
 
@@ -232,7 +236,7 @@ Pub. L. 112–81, div. B, title XXVIII, §2829, Dec. 31, 2011, 125 Stat. 1694, p
 
 Establishment of Training Policy.—The Secretary of Defense shall establish a training policy for Department of Defense energy managers designated for military installations in order to—
 
-&emsp;"(1) improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contractingoptions, local renewable portfolio standards, current renewable energy technology options, energy auditing, and options to reduce energy consumption;
+&emsp;"(1) improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contracting options, local renewable portfolio standards, current renewable energy technology options, energy auditing, and options to reduce energy consumption;
 
 &emsp;"(2) improve consistency among energy managers throughout the Department in the performance of their responsibilities;
 

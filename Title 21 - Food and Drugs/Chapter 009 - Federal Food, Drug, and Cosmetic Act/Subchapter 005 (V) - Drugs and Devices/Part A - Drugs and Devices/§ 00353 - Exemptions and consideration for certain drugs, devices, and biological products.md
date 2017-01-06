@@ -26,13 +26,13 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 #### (c) Sales restrictions
 
-(1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d) of this section, the term "drug sample" means a unit of a drug, subject to subsection (b) of this section, which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
+(1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term "drug sample" means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
 
-(2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term "coupon" means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
+(2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term "coupon" means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b).
 
 (3)(A) No person may sell, purchase, or trade, or offer to sell, purchase, or trade, any drug—
 
-&emsp;(i) which is subject to subsection (b) of this section, and
+&emsp;(i) which is subject to subsection (b), and
 
 &emsp;(ii)(I) which was purchased by a public or private hospital or other health care entity, or
 
@@ -48,7 +48,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(iv) a sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug for emergency medical reasons, or
 
-&emsp;(v) a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b) of this section.
+&emsp;(v) a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b).
 
 > For purposes of this paragraph, the term "entity" does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law and the term "emergency medical reasons" includes transfers of a drug between health care entities or from a health care entity to a retail pharmacy undertaken to alleviate temporary shortages of the drug arising from delays in or interruptions of regular distribution schedules.
 
@@ -62,7 +62,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(C) pharmacy of a hospital or of another health care entity that is acting at the direction of such a practitioner and that received such sample pursuant to paragraph (2) or (3).
 
-(2)(A) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
+(2)(A) The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
 
 &emsp;(i) in response to a written request for drug samples made on a form which meets the requirements of subparagraph (B), and
 
@@ -80,7 +80,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (C) Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
 
-(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
 
 &emsp;(A) Drug samples may only be distributed—
 
@@ -92,15 +92,15 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(B) Drug manufacturers or authorized distributors of record shall store drug samples under conditions that will maintain their stability, integrity, and effectiveness and will assure that the drug samples will be free of contamination, deterioration, and adulteration.
 
-&emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
+&emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address ofeach of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
 
 &emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
 
-&emsp;(E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
+&emsp;(E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
 
 &emsp;(F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
 
-(4) In this subsection, the term "authorized distributors of record" means those distributorswith whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products.
+(4) In this subsection, the term "authorized distributors of record" means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products.
 
 #### (e) Licensing and reporting requirements for wholesale distributors; fees; definitions
 
@@ -168,13 +168,13 @@ Authorized fees of secretary.—If a State does not establish a licensing progra
 
 State licensing fees.—Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
 
-(4) For the purposes of this subsection and subsection (d), the term "wholesale distribution" means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+(4) For the purposes of this subsection and subsection (d), the term "wholesale distribution"means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
 
 &emsp;(A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
 
 &emsp;(B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
 
-&emsp;(C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to section 247d of title 42, except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+&emsp;(C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to section 319 of the Public Health Service Act \[42 U.S.C. 247d\], except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
 
 &emsp;(D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
 
@@ -182,7 +182,7 @@ State licensing fees.—Nothing in this chapter shall prohibit States from colle
 
 &emsp;(F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
 
-&emsp;(G) the purchase or other acquisition by a dispenser, hospital, or other health care entityof a drug for use by such dispenser, hospital, or other health care entity;
+&emsp;(G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
 
 &emsp;(H) the distribution of a drug by the manufacturer of such drug;
 
@@ -262,7 +262,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(ii) is, if an oral order, promptly reduced to writing by the person lawfully filling the order, and filed by that person, and
 
-&emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral order promptly reduced to writing by the personlawfully filling the order, and filed by that person.
+&emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral order promptly reduced to writing by the person lawfully filling the order, and filed by that person.
 
 (C) The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
@@ -284,25 +284,125 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 #### (g) Regulation of combination products
 
-(1) The Secretary shall in accordance with this subsection assign an agency center to regulate products that constitute a combination of a drug, device, or biological product. The Secretary shall determine the primary mode of action of the combination product. If the Secretary determines that the primary mode of action is that of—
+(1)(A) The Secretary shall, in accordance with this subsection, assign a primary agency center to regulate products that constitute a combination of a drug, device, or biological product.
 
-&emsp;(A) a drug (other than a biological product), the agency center charged with premarket review of drugs shall have primary jurisdiction,
+(B) The Secretary shall conduct the premarket review of any combination product under a single application, whenever appropriate.
 
-&emsp;(B) a device, the agency center charged with premarket review of devices shall have primary jurisdiction, or
+(C) For purposes of this subsection, the term "primary mode of action" means the single mode of action of a combination product expected to make the greatest contribution to the overall intended therapeutic effects of the combination product.
 
-&emsp;(C) a biological product, the agency center charged with premarket review of biological products shall have primary jurisdiction.
+(D) The Secretary shall determine the primary mode of action of the combination product. If the Secretary determines that the primary mode of action is that of—
 
-(2) Nothing in this subsection shall prevent the Secretary from using any agency resources of the Food and Drug Administration necessary to ensure adequate review of the safety, effectiveness, or substantial equivalence of an article.
+&emsp;(i) a drug (other than a biological product), the agency center charged with premarket review of drugs shall have primary jurisdiction;
 
-(3) The Secretary shall promulgate regulations to implement market clearance procedures in accordance with paragraphs (1) and (2) not later than 1 year after November 28, 1990.
+&emsp;(ii) a device, the agency center charged with premarket review of devices shall have primary jurisdiction; or
 
-(4)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs an office to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the "Office") shall have appropriate scientific and medical expertise, and shall be headed by a director.
+&emsp;(iii) a biological product, the agency center charged with premarket review of biological products shall have primary jurisdiction.
+
+(E) In determining the primary mode of action of a combination product, the Secretary shall not determine that the primary mode of action is that of a drug or biological product solely because the combination product has any chemical action within or on the human body.
+
+(F) If a sponsor of a combination product disagrees with the determination under subparagraph (D)—
+
+&emsp;(i) such sponsor may request, and the Secretary shall provide, a substantive rationale to such sponsor that references scientific evidence provided by the sponsor and any other scientific evidence relied upon by the Secretary to support such determination; and
+
+&emsp;(ii)(I) the sponsor of the combination product may propose one or more studies (which may be nonclinical, clinical, or both) to establish the relevance, if any, of the chemical action in achieving the primary mode of action of such product;
+
+&emsp;(II) if the sponsor proposes any such studies, the Secretary and the sponsor of such product shall collaborate and seek to reach agreement, within a reasonable time of such proposal, not to exceed 90 calendar days, on the design of such studies; and
+
+&emsp;(III) if an agreement is reached under subclause (II) and the sponsor conducts one or more of such studies, the Secretary shall consider the data resulting from any such study when reevaluating the determination of the primary mode of action of such product, and unless and until such reevaluation has occurred and the Secretary issues a new determination, the determination of the Secretary under subparagraph (D) shall remain in effect.
+
+(2)(A) <sup>1</sup> (i) To establish clarity and certainty for the sponsor, the sponsor of a combination product may request a meeting on such combination product. If the Secretary concludes that a determination of the primary mode of action pursuant to paragraph (1)(D) is necessary, the sponsor may request such meeting only after the Secretary makes such determination. If the sponsor submits a written meeting request, the Secretary shall, not later than 75 calendar days after receiving such request, meet with the sponsor of such combination product.
+
+(ii) A meeting under clause (i) may—
+
+&emsp;(I) address the standards and requirements for market approval or clearance of the combination product;
+
+&emsp;(II) address other issues relevant to such combination product, such as requirements related to postmarket modification of such combination product and good manufacturing practices applicable to such combination product; and
+
+&emsp;(III) identify elements under subclauses (I) and (II) that may be more appropriate for discussion and agreement with the Secretary at a later date given that scientific or other information is not available, or agreement is otherwise not feasible regarding such elements, at the time a request for such meeting is made.
+
+(iii) Any agreement under this subparagraph shall be in writing and made part of the administrative record by the Secretary.
+
+(iv) Any such agreement shall remain in effect, except—
+
+&emsp;(I) upon the written agreement of the Secretary and the sponsor or applicant; or
+
+&emsp;(II) pursuant to a decision by the director of the reviewing division of the primary agency center, or a person more senior than such director, in consultation with consulting centers and the Office, as appropriate, that an issue essential to determining whether the standard for market clearance or other applicable standard under this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] applicable to the combination product has been identified since the agreement was reached, or that deviating from the agreement is otherwise justifiable based on scientific evidence, for public health reasons.
+
+(3) For purposes of conducting the premarket review of a combination product that contains an approved constituent part described in paragraph (4), the Secretary may require that the sponsor of such combination product submit to the Secretary only data or information that the Secretary determines is necessary to meet the standard for clearance or approval, as applicable, under this chapter or the Public Health Service Act, including any incremental risks and benefits posed by such combination product, using a risk-based approach and taking into account any prior finding of safety and effectiveness or substantial equivalence for the approved constituent part relied upon by the applicant in accordance with paragraph (5).
+
+(4) For purposes of paragraph (3), an approved constituent part is—
+
+&emsp;(A) a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordance with paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
+
+&emsp;(B) a device constituent part approved under section 360e of this title that is referenced by the sponsor and that is available for use by the Secretary under section 360j(h)(4) of this title; or
+
+&emsp;(C) any constituent part that was previously approved, cleared, or classified under section 355, 360(k), 360c(f)(2), or 360e of this title for which the sponsor has a right of reference or any constituent part that is a nonprescription drug, as defined in section 379aa(a)(2) of this title.
+
+(5)(A) If an application is submitted under section 360e or 360(k) of this title or a request is submitted under section 360c(f)(2) of this title, consistent with any determination made under paragraph (1)(D), for a combination product containing as a constituent part an approved drug—
+
+&emsp;(i) the application or request shall include the certification or statement described in section 355(b)(2) of this title; and
+
+&emsp;(ii) the applicant or requester shall provide notice as described in section 355(b)(3) of this title.
+
+(B) For purposes of this paragraph and paragraph (4), the term "approved drug" means an active ingredient—
+
+&emsp;(i) that was in an application previously approved under section 355(c) of this title;
+
+&emsp;(ii) where such application is relied upon by the applicant submitting the application or request described in subparagraph (A);
+
+&emsp;(iii) for which full reports of investigations that have been made to show whether such drug is safe for use and whether such drug is effective in use were not conducted by or for the applicant submitting the application or request described in subparagraph (A); and
+
+&emsp;(iv) for which the applicant submitting the application or request described in subparagraph (A) has not obtained a right of reference or use from the person by or for whom the investigations described in clause (iii) were conducted.
+
+(C) The following provisions shall apply with respect to an application or request described in subparagraph (A) to the same extent and in the same manner as if such application or request were an application described in section 355(b)(2) of this title that referenced the approved drug:
+
+&emsp;(i) Subparagraphs (A), (B), (C), and (D) of section 355(c)(3) of this title.
+
+&emsp;(ii) Clauses (ii), (iii), and (iv) of section 355(c)(3)(E) of this title.
+
+&emsp;(iii) Subsections (b) and (c) of section 355a of this title.
+
+&emsp;(iv) Section 355f(a) of this title.
+
+&emsp;(v) Section 360cc(a) of this title.
+
+(D) Notwithstanding any other provision of this subsection, an application or request forclassification for a combination product described in subparagraph (A) shall be considered an application submitted under section 355(b)(2) of this title for purposes of section 271(e)(2)(A) of title 35.
+
+(6) Nothing in this subsection shall be construed as prohibiting a sponsor from submitting separate applications for the constituent parts of a combination product, unless the Secretary determines that a single application is necessary.
+
+(7) Nothing in this subsection shall prevent the Secretary from using any agency resources of the Food and Drug Administration necessary to ensure adequate review of the safety, effectiveness, or substantial equivalence of an article.
+
+(8)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs an office to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the "Office") shall have appropriate scientific and medical expertise, and shall be headed by a director.
 
 (B) In carrying out this subsection, the Office shall, for each combination product, promptly assign an agency center with primary jurisdiction in accordance with paragraph (1) for the premarket review of such product.
 
-(C)(i) In carrying out this subsection, the Office shall ensure timely and effective premarket reviews by overseeing the timeliness of and coordinating reviews involving more than one agency center.
+(C)(i) In carrying out this subsection, the Office shall help to ensure timely and effective premarket review that involves more than one agency center by coordinating such reviews, overseeing the timeliness of such reviews, and overseeing the alignment of feedback regarding such reviews.
 
-(ii) In order to ensure the timeliness of the premarket review of a combination product, the agency center with primary jurisdiction for the product, and the consulting agency center, shall be responsible to the Office with respect to the timeliness of the premarket review.
+(ii) In order to ensure the timeliness and alignment of the premarket review of a combination product, the agency center with primary jurisdiction for the product, and the consulting agency center, shall be responsible to the Office with respect to the timeliness and alignment of the premarket review.
+
+(iii) The Office shall ensure that, with respect to a combination product, a designated person or persons in the primary agency center is the primary point or points of contact for the sponsor of such combination product. The Office shall also coordinate communications to and from any consulting center involved in such premarket review, if requested by such primary agency center or any such consulting center. Agency communications and commitments, to the extent consistent with other provisions of law and the requirements of all affected agency centers, from the primary agency center shall be considered as communication from the Secretary on behalf of all agency centers involved in the review.
+
+(iv) The Office shall, with respect to the premarket review of a combination product—
+
+&emsp;(I) ensure that any meeting between the Secretary and the sponsor of such product is attended by each agency center involved in the review, as appropriate;
+
+&emsp;(II) ensure that each consulting agency center has completed its premarket review and provided the results of such review to the primary agency center in a timely manner; and
+
+&emsp;(III) ensure that each consulting center follows the guidance described in clause (vi) and advises, as appropriate, on other relevant regulations, guidances, and policies.
+
+(v) In seeking agency action with respect to a combination product, the sponsor of such product—
+
+&emsp;(I) shall identify the product as a combination product; and
+
+&emsp;(II) may request in writing the participation of representatives of the Office in meetings related to such combination product, or to have the Office otherwise engage on such regulatory matters concerning the combination product.
+
+(vi) Not later than 4 years after December 13, 2016, and after a public comment period of not less than 60 calendar days, the Secretary shall issue a final guidance that describes—
+
+&emsp;(I) the structured process for managing pre-submission interactions with sponsors developing combination products;
+
+&emsp;(II) the best practices for ensuring that the feedback in such pre-submission interactions represents the Agency's best advice based on the information provided during such pre-submission interactions; <sup>2</sup>
+
+&emsp;(III) the information that is required to be submitted with a meeting request under paragraph (2), how such meetings relate to other types of meetings in the Food and Drug Administration, and the form and content of any agreement reached through a meeting under such paragraph (2); <sup>3</sup>
 
 (D) In carrying out this subsection, the Office shall ensure the consistency and appropriateness of postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law.
 
@@ -310,37 +410,45 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
 
-(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availabilityof such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
+(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent withthe requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
 
-(G) Not later than one year after October 26, 2002, and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
+(G) Not later than one year after October 26, 2002 (except with respect to clause (iv), beginning not later than one year after December 13, 2016), and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
 
 &emsp;(i) describing the numbers and types of combination products under review and the timeliness in days of such assignments, reviews, and dispute resolutions;
 
-&emsp;(ii) identifying the number of premarket reviews of such products that involved a consulting agency center; and
+&emsp;(ii) identifying the number of premarket reviews of such products that involved a consulting agency center;
 
-&emsp;(iii) describing improvements in the consistency of postmarket regulation of combination products.
+&emsp;(iii) describing improvements in the consistency of postmarket regulation of combination products; and
+
+&emsp;(iv) identifying the percentage of combination products for which a dispute resolution, with respect to premarket review, was requested by the combination product's sponsor.
 
 (H) Nothing in this paragraph shall be construed to limit the regulatory authority of any agency center.
 
-(5) As used in this subsection:
+(9) As used in this subsection:
 
 &emsp;(A) The term "agency center" means a center or alternative organizational component of the Food and Drug Administration.
 
-&emsp;(B) The term "biological product" has the meaning given the term in section 262(i) of title 42.
+&emsp;(B) The term "biological product" has the meaning given the term in section 351(i) of the Public Health Service Act (42 U.S.C. 262(i)).
 
 &emsp;(C) The term "market clearance" includes—
 
-&emsp;&emsp;(i) approval of an application under section 355, 357,<sup>1</sup> 360e, or 360j(g) of this title,
+&emsp;&emsp;(i) approval of an application under section 355, 357,<sup>4</sup> 360e, or 360j(g) of this title;
 
-&emsp;&emsp;(ii) a finding of substantial equivalence under this part, and
+&emsp;&emsp;(ii) a finding of substantial equivalence under this part;
 
-&emsp;&emsp;(iii) approval of a biologics license application under subsection (a) of section 262 of title 42.
+&emsp;&emsp;(iii) approval of a biologics license application under subsection (a) of section 351 of the Public Health Service Act (42 U.S.C. 262); and
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635.)
+&emsp;&emsp;(iv) de novo classification under section 360c(a)(1) of this title.
+
+&emsp;(D) The terms "premarket review" and "reviews" include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act \[42 U.S.C. 262\], including with respect to investigational use of the product.
+
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105.)
 
 #### References in Text
 
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e)(4)(M)(ii), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
+The Public Health Service Act, referred to in subsec. (g)(2)(A)(iv)(II), (3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 357 of this title, referred to in subsec. (g)(5)(C)(i), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
@@ -349,6 +457,40 @@ Section 357 of this title, referred to in subsec. (g)(5)(C)(i), was repealed by 
 In subsec. (b)(5), "sections 4721, 6001, and 6151 of title 26" and "section 4761 of title 26" substituted for "section 3220 of the Internal Revenue Code (26 U.S.C. 3220)" and "section 3238(b) of the Internal Revenue Code (26 U.S.C. 3238(b))", respectively, on authority of section 7852(b) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(1). Pub. L. 114–255, §3038(a)(4), added par. (1) and struck out former par. (1) which read as follows: "The Secretary shall in accordance with this subsection assign an agency center to regulate products that constitute a combination of a drug, device, or biological product. The Secretary shall determine the primary mode of action of the combination product. If the Secretary determines that the primary mode of action is that of—
+
+&emsp;"(A) a drug (other than a biological product), the agency center charged with premarket review of drugs shall have primary jurisdiction,
+
+&emsp;"(B) a device, the agency center charged with premarket review of devices shall have primary jurisdiction, or
+
+&emsp;"(C) a biological product, the agency center charged with premarket review of biological products shall have primary jurisdiction."
+
+Subsec. (g)(2). Pub. L. 114–255, §3038(a)(4), added par. (2). Former par. (2) redesignated (7).
+
+Subsec. (g)(3). Pub. L. 114–255, §3038(a)(1), (4), added par. (3) and struck out former par. (3) which read as follows: "The Secretary shall promulgate regulations to implement market clearance procedures in accordance with paragraphs (1) and (2) not later than 1 year after November 28, 1990."
+
+Subsec. (g)(4) to (6). Pub. L. 114–255, §3038(a)(4), added pars. (4) to (6). Former pars. (4) and (5) redesignated (8) and (9), respectively.
+
+Subsec. (g)(7). Pub. L. 114–255, §3038(a)(2), redesignated par. (2) as (7).
+
+Subsec. (g)(8). Pub. L. 114–255, §3038(a)(3), redesignated par. (4) as (8).
+
+Subsec. (g)(8)(C)(i). Pub. L. 114–255, §3038(a)(5)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "In carrying out this subsection, the Office shall ensure timely and effective premarket reviews by overseeing the timeliness of and coordinating reviews involving more than one agency center."
+
+Subsec. (g)(8)(C)(ii). Pub. L. 114–255, §3038(a)(5)(A)(ii), inserted "and alignment" after "the timeliness" in two places.
+
+Subsec. (g)(8)(C)(iii) to (vi). Pub. L. 114–255, §3038(a)(5)(A)(iii), added cls. (iii) to (vi).
+
+Subsec. (g)(8)(G). Pub. L. 114–255, §3038(a)(5)(B)(i), inserted "(except with respect to clause (iv), beginning not later than one year after December 13, 2016)" after "October 26, 2002" in introductory provisions.
+
+Subsec. (g)(8)(G)(iv). Pub. L. 114–255, §3038(a)(5)(B)(ii)–(iv), added cl. (iv).
+
+Subsec. (g)(9). Pub. L. 114–255, §3038(a)(3), redesignated par. (5) as (9).
+
+Subsec. (g)(9)(C). Pub. L. 114–255, §3038(a)(6)(A), substituted semicolon for comma at end of cl. (i), semicolon for ", and" at end of cl. (ii), and "; and" for period at end of cl. (iii), and added cl. (iv).
+
+Subsec. (g)(9)(D). Pub. L. 114–255, §3038(a)(6)(B), added subpar. (D).
 
 <b>2013</b>—Subsec. (d)(4). Pub. L. 113–54, §204(b), added par. (4).
 
@@ -372,7 +514,7 @@ Subsec. (b)(3). Pub. L. 105–115, §126(c)(2), struck out reference to section 
 
 Subsec. (b)(4). Pub. L. 105–115, §126(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "A drug which is subject to paragraph (1) of this subsection shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement 'Caution: Federal law prohibits dispensing without prescription'. A drug to which paragraph (1) of this subsection does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the caution statement quoted in the preceding sentence."
 
-Subsec. (g)(4)(A). Pub. L. 105–115, §123(e)(1), substituted "section 262(i) of title 42" for "section 262(a) of title 42".
+Subsec. (g)(4)(A). Pub. L. 105–115, §123(e)(1), substituted "section 351(i)" for "section 351(a)" and "262(i)" for "262(a)".
 
 Subsec. (g)(4)(B)(iii). Pub. L. 105–115, §123(e)(2), substituted "biologics license application under subsection (a)" for "product or establishment license under subsection (a) or (d)".
 
@@ -528,5 +670,11 @@ Pub. L. 100–293, §2, Apr. 22, 1988, 102 Stat. 95, provided that: "The Congres
 
 &emsp;"(8) The effect of these several practices and conditions is to create an unacceptable risk that counterfeit, adulterated, misbranded, subpotent, or expired drugs will be sold to American consumers."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. The word "and" probably should appear.</i>
+
+<i><sup>3</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

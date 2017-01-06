@@ -48,7 +48,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 &emsp;&emsp;(A) a Bell operating company shall not carry out any promotion, marketing, sales, or advertising for or in conjunction with a separated affiliate; and
 
-&emsp;&emsp;(B) a Bell operating company shall not carry out any promotion, marketing, sales, or advertising for or in conjunction with anaffiliate that is related to the provision of electronic publishing.
+&emsp;&emsp;(B) a Bell operating company shall not carry out any promotion, marketing, sales, or advertising for or in conjunction with an affiliate that is related to the provision of electronic publishing.
 
 #### (2) Permissible joint activities
 
@@ -106,7 +106,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 &emsp;&emsp;(B) The transmission of information as a common carrier.
 
-&emsp;&emsp;(C) The transmission of information as part of a gateway to an information servicethat does not involve the generation or alteration of the content of information, including data transmission, address translation, protocol conversion, billing management, introductory information content, and navigational systems that enable users to access electronic publishing services, which do not affect the presentation of such electronic publishing services to users.
+&emsp;&emsp;(C) The transmission of information as part of a gateway to an information service that does not involve the generation or alteration of the content of information, including data transmission, address translation, protocol conversion, billing management, introductory information content, and navigational systems that enable users to access electronic publishing services, which do not affect the presentation of such electronic publishing services to users.
 
 &emsp;&emsp;(D) Voice storage and retrieval services, including voice messaging and electronic mail services.
 

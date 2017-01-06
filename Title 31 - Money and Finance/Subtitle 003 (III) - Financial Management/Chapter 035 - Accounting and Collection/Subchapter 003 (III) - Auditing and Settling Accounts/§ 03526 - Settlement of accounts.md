@@ -6,7 +6,7 @@
 
 (c)(1) The Comptroller General shall settle an account of an accountable official within 3 years after the date the Comptroller General receives the account. A copy of the certificate of settlement shall be provided the official.
 
-(2) The settlement of an account is conclusive on the Comptroller General after 3 years after the account is received by the Comptroller General. However, an amount may be charged against the account after the 3-year period whenthe Government has or may have lost money because the official acted fraudulently or criminally.
+(2) The settlement of an account is conclusive on the Comptroller General after 3 years after the account is received by the Comptroller General. However, an amount may be charged against the account after the 3-year period when the Government has or may have lost money because the official acted fraudulently or criminally.
 
 (3) A 3-year period under this subsection is suspended during a war.
 
@@ -28,7 +28,7 @@
 
 (f) The Comptroller General shall keep all settled accounts, vouchers, certificates, and related papers until they are disposed of as prescribed by law.
 
-(g) This subchapter does not prohibit the Comptroller General from suspending an item in an account to get additional evidence or explanations needed to settle an account.
+(g) This subchapter does not prohibit the Comptroller General from suspending an item inan account to get additional evidence or explanations needed to settle an account.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 964.)
 

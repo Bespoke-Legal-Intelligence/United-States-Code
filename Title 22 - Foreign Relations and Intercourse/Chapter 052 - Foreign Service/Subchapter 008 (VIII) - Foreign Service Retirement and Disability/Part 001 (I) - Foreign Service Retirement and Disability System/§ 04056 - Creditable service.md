@@ -12,7 +12,7 @@
 
 (3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
 
-(4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j).
+(4) The service of an individual who first became a participant before October 17, 1983, shallinclude credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j).
 
 #### (b) Unused sick leave credit
 
@@ -52,7 +52,7 @@ A participant who during a period of war, or national emergency proclaimed by th
 
 #### (h) Service as employees of Member or office of Congress while on approved leave without pay
 
-A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing office in the Congress shall make a matching contribution (from the appropriation or fund which is used for payment of the salary of the participant) to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
+A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that wouldbe in effect if the participant were in a pay status. The participant's employing office in the Congress shall make a matching contribution (from the appropriation or fund which is used for payment of the salary of the participant) to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
 #### (i) Former spouses
 
@@ -94,7 +94,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 "(d) For purposes of this section, the term 'determination month' means—
 
-&emsp;"(1) the first month the individual described in subsection (a) is entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor); or
+&emsp;"(1) the first month the individual described in subsection (a) is entitled to old-age or survivorsinsurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor); or
 
 &emsp;"(2) the first day of the month following the month in which this Order is issued \[Oct. 1983\] in the case of any individual so entitled to such benefits for such month.
 
@@ -102,7 +102,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 "(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section."
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to partici</i><i>pants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 

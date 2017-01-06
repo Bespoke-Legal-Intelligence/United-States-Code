@@ -42,7 +42,7 @@ In carrying out its enforcement activities under this section, each agency refer
 
 #### References in Text
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L.111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
@@ -69,4 +69,8 @@ Subsec. (b)(2). Pub. L. 111–203, §1095(2), inserted ", subject to subtitle B
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 

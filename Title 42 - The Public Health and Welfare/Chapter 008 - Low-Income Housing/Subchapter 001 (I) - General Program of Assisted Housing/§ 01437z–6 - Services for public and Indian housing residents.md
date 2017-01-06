@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent that amounts are provided in advance in appropriations Acts, the Secretary may make grants to public housing agencies onbehalf of public housing residents, recipients under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\] (notwithstanding section 502 of such Act \[25 U.S.C. 4181\]) on behalf of residents of housing assisted under such Act, or directly to resident management corporations, resident councils, or resident organizations (including nonprofit entities supported by residents), for the purposes of providing a program of supportive services and resident empowerment activities to provide supportive services to public housing residents and residents of housing assisted under such Act or assist such residents in becoming economically self-sufficient.
+To the extent that amounts are provided in advance in appropriations Acts, the Secretary may make grants to public housing agencies on behalf of public housing residents, recipients under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\] (notwithstanding section 502 of such Act \[25 U.S.C. 4181\]) on behalf of residents of housing assisted under such Act, or directly to resident management corporations, resident councils, or resident organizations (including nonprofit entities supported by residents), for the purposes of providing a program of supportive services and resident empowerment activities to provide supportive services to public housing residents and residents of housing assisted under such Act or assist such residents in becoming economically self-sufficient.
 
 #### (b) Eligible activities
 
@@ -24,7 +24,7 @@ Grantees under this section may use such amounts only for activities on or near 
 
 #### (1) In general
 
-&emsp;Except for amounts provided under subsection (d) of this section, the Secretary may distribute amounts made available under this section on the basis of a competition or a formula, as appropriate.
+&emsp;Except for amounts provided under subsection (d), the Secretary may distribute amounts made available under this section on the basis of a competition or a formula, as appropriate.
 
 #### (2) Factors for distribution
 
@@ -72,7 +72,7 @@ Subsec. (d)(2). Pub. L. 106–377, §1(a)(1) \[title II, §221(a)(4)\], substitu
 
 #### Effective Date
 
-Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provisionthat Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Assessment and Report by Secretary
 

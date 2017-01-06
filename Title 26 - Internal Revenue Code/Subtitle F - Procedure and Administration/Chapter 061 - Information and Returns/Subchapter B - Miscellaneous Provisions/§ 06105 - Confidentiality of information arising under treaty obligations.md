@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For penalties for the unauthorized disclosure of tax convention information which is return or return information, see sections 7213, 7213A, and 7431.</b>
 
-(Added Pub. L. 106–554, §1(a)(7) \[title III, §304(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-633; amended Pub. L. 107–134, title II, §201(c)(9), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 107–147, title IV, §417(18), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 106–554, §1(a)(7) \[title III, §304(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–633; amended Pub. L. 107–134, title II, §201(c)(9), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 107–147, title IV, §417(18), Mar. 9, 2002, 116 Stat. 56.)
 
 #### Prior Provisions
 

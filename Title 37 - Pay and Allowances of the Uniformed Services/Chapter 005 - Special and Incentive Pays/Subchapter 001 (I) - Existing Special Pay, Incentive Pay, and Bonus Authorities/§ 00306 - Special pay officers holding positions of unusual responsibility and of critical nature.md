@@ -10,7 +10,7 @@
 | O–5 | 100 |
 | O–4 and below | 50 |
 
-(2) An officer of the armed forces referred to in paragraph (1) is an officer who is entitled to thebasic pay under section 204 of this title, or the compensation under section 206 of this title, of pay grade O–6 or below.
+(2) An officer of the armed forces referred to in paragraph (1) is an officer who is entitled to the basic pay under section 204 of this title, or the compensation under section 206 of this title, of pay grade O–6 or below.
 
 (b) If an officer entitled to compensation under section 206 of this title is paid special pay under subsection (a) for the performance of duties in a position designated under such subsection, the special pay shall be paid at the rate of 1/30 of the monthly rate authorized by such subsection for each day of the performance of duties in the designated position.
 

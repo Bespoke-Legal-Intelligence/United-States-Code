@@ -74,7 +74,7 @@ The following shall apply with respect to grants provided in this part:
 
 #### (3) Less than $30,000,000
 
-&emsp;If the amount of appropriations for this part in a fiscal year is less than $30,000,000, the Secretary shall divide such funding evenly among only those States that have 1 or more trauma centers eligible for funding under section 300d–41(b)(3) of this title.
+&emsp;If the amount of appropriations for this part in a fiscal year is less than $30,000,000, the Secretary shall divide such funding evenly among only those States that have 1 or more traumacenters eligible for funding under section 300d–41(b)(3) of this title.
 
 #### (4) $30,000,000 or more
 

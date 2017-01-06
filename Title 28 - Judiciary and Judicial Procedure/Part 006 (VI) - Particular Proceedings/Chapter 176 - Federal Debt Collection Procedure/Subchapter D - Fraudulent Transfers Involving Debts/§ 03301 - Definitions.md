@@ -74,7 +74,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(E) a managing agent of the debtor.
 
-&emsp;(4) <sup>2</sup> "Lien" means a charge against or an interest in property to secure payment of a debt and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
+&emsp;(4) <sup>2</sup> "Lien" means a charge against or an interest in property to secure payment of a debtand includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
 
 &emsp;(5) <sup>3</sup> "Relative" means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
 

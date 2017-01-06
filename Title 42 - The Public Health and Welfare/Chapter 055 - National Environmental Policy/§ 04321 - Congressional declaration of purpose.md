@@ -88,7 +88,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) There shall be at the head of the Agency the Administrator of the Environmental Protection Agency, hereinafter referred to as the "Administrator." The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(c) There shall be in the Agency a Deputy Administrator of the Environmental Protection Agency whoshall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+(c) There shall be in the Agency a Deputy Administrator of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
 (d) There shall be in the Agency not to exceed five Assistant Administrators of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. Each Assistant Administrator shall perform such functions as the Administrator shall from time to time assign or delegate. \[As amended Pub. L. 98–80, §2(a)(2), (b)(2), (c)(2)(C), Aug. 23, 1983, 97 Stat. 485, 486.\]
 
@@ -124,7 +124,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (8)(i) The functions of the Secretary of Agriculture and the Department of Agriculture under the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 135–135k) \[7 U.S.C. 136 et seq.\], (ii) the functions of the Secretary of Agriculture and the Department of Agriculture under section 408(l) of the Federal Food, Drug, and Cosmetic Act, as amended (21 U.S.C. 346a(l)), and (iii) the functions vested by law in the Secretary of Agriculture and the Department of Agriculture which are administered through the Environmental Quality Branch of the Plant Protection Division of the Agricultural Research Service.
 
-(9) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoing provisions of this section as is incidental to or necessary for the performance by or under the Administrator of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Administrator made by this section shall be deemed to include the transfer of (1) authority, provided by law, to prescribe regulations relating primarily to the transferred functions, and (2) the functions vested in the Secretary of the Interior and the Secretary of Health, Education, and Welfare by section 169(d)(1)(B) and (3) of the Internal Revenue Code of 1954 (as enacted by section 704 of the Tax Reform Act of 1969, 83 Stat. 668); but shall be deemed to exclude the transfer of the functions of the Bureau of Reclamation under section 3(b)(1) of the Water Pollution Control Act (33 U.S.C. \[former\] 466a(b)(1)).
+(9) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoingprovisions of this section as is incidental to or necessary for the performance by or under the Administrator of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Administrator made by this section shall be deemed to include the transfer of (1) authority, provided by law, to prescribe regulations relating primarily to the transferred functions, and (2) the functions vested in the Secretary of the Interior and the Secretary of Health, Education, and Welfare by section 169(d)(1)(B) and (3) of the Internal Revenue Code of 1954 (as enacted by section 704 of the Tax Reform Act of 1969, 83 Stat. 668); but shall be deemed to exclude the transfer of the functions of the Bureau of Reclamation under section 3(b)(1) of the Water Pollution Control Act (33 U.S.C. \[former\] 466a(b)(1)).
 
 (b) There are hereby transferred to the Agency:
 
@@ -250,7 +250,7 @@ Pesticides research and standard-setting programs of the Food and Drug Administr
 
 General ecological research from the Council on Environmental Quality.—This authority to perform studies and research relating to ecological systems would be in addition to EPA's other specific research authorities, and it would help EPA to measure the impact of pollutants. The Council on Environmental Quality would retain its authority to conduct studies and research relating to environmental quality.
 
-Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards have been based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
+Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards have been based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic EnergyCommission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
 
 Pesticides registration program of the Agricultural Research Service.—The Department of Agriculture is currently responsible for several distinct functions related to pesticides use. It conducts research on the efficacy of various pesticides as related to other pest control methods and on the effects of pesticides on non-target plants, livestock, and poultry. It registers pesticides, monitors their persistence and carries out an educational program on pesticide use through the extension service. It conducts extensive pest control programs which utilize pesticides.
 
@@ -262,7 +262,7 @@ The Department of Agriculture would continue to conduct research on the effectiv
 
 This reorganization would permit response to environmental problems in a manner beyond the previous capability of our pollution control programs. The EPA would have the capacity to do research on important pollutants irrespective of the media in which they appear, and on the impact of these pollutants on the total environment. Both by itself and together with other agencies, the EPA would monitor the condition of the environment—biological as well as physical. With these data, the EPA would be able to establish quantitative "environmental baselines"—critical if we are to measure adequately the success or failure of our pollution abatement efforts.
 
-As no disjointed array of separate programs can, the EPA would be able—in concert with the States—to set and enforce standards for air and water quality and for individual pollutants. This consolidation of pollutioncontrol authorities would help assure that we do not create new environmental problems in the process of controlling existing ones. Industries seeking to minimize the adverse impact of their activities on the environment would be assured of consistent standards covering the full range of their waste disposal problems. As the States develop and expand their own pollution control programs, they would be able to look to one agency to support their efforts with financial and technical assistance and training.
+As no disjointed array of separate programs can, the EPA would be able—in concert with the States—to set and enforce standards for air and water quality and for individual pollutants. This consolidation of pollution control authorities would help assure that we do not create new environmental problems in the process of controlling existing ones. Industries seeking to minimize the adverse impact of their activities on the environment would be assured of consistent standards covering the full range of their waste disposal problems. As the States develop and expand their own pollution control programs, they would be able to look to one agency to support their efforts with financial and technical assistance and training.
 
 In proposing that the Environmental Protection Agency be set up as a separate new agency, I am making an exception to one of my own principles: that, as a matter of effective and orderly administration, additional new independent agencies normally should not be created. In this case, however, the arguments against placing environmental protection activities under the jurisdiction of one or another of the existing departments and agencies are compelling.
 
@@ -296,7 +296,7 @@ The oceans and the atmosphere are interacting parts of the total environmental s
 
 We face immediate and compelling needs for better protection of life and property from natural hazards, and for a better understanding of the total environment—and understanding which will enable us more effectively to monitor and predict its actions, and ultimately, perhaps to exercise some degree of control over them.
 
-We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are being increasingly tapped to meet the growing world demand. We must understand the nature of these resources, and assure their development without either contaminating the marine environment or upsetting its balance.
+We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are being increasingly tapped to meet the growing world demand. We must understand the nature of these resources, andassure their development without either contaminating the marine environment or upsetting its balance.
 
 Establishment of the National Oceanic and Atmospheric Administration—NOAA—within the Department of Commerce would enable us to approach these tasks in a coordinated way. By employing a unified approach to the problems of the oceans and atmosphere, we can increase our knowledge and expand our opportunities not only in those areas, but in the third major component of our environment, the solid earth, as well.
 
@@ -368,7 +368,7 @@ Drawing these activities together into a single agency would make possible a bal
 
 I expect that NOAA would exercise leadership in developing a national oceanic and atmospheric program of research and development. It would coordinate its own scientific and technical resources with the technical and operational capabilities of other government agencies and private institutions. As important, NOAA would continue to provide those services to other agencies of government, industry and private individuals which have become essential to the efficient operation of our transportation systems, our agriculture and our national security. I expect it to maintain continuing and close liaison with the new Environmental Protection Agency and the Council on Environmental Quality as part of an effort to ensure that environmental questions are dealt with in their totality and they benefit from the full range of the government's technical and human resources.
 
-Authorities who have studied this matter, including the Commission on Marine Science, Engineering and Resources, strongly recommended the creation of a National Advisory Committee for the Oceans. I agree. Consequently, I will request, upon approval of the plan, that the Secretary of Commerce establish a National Advisory Committee for the Oceans and the Atmosphere to advise him on the progress of governmental and private programs in achieving the nation's oceanic and atmospheric objectives.
+Authorities who have studied this matter, including the Commission on Marine Science, Engineering andResources, strongly recommended the creation of a National Advisory Committee for the Oceans. I agree. Consequently, I will request, upon approval of the plan, that the Secretary of Commerce establish a National Advisory Committee for the Oceans and the Atmosphere to advise him on the progress of governmental and private programs in achieving the nation's oceanic and atmospheric objectives.
 
 #### AN ON-GOING PROCESS
 
@@ -442,7 +442,7 @@ Sec. 102. <i>Functions of the Cabinet Committee</i>. (a) The Cabinet Committee s
 
 (8) Facilitate coordination among departments and agencies of the Federal Government in protecting and improving the environment.
 
-(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
+(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistentwith other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
 
 Sec. 103. <i>Coordination</i>. The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[see 54 U.S.C. 200101\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
 
@@ -466,7 +466,7 @@ Sec. 302. <i>Prior bodies and orders</i>. The President's Council on Recreation 
 
 #### Termination of Cabinet Committee on the Environment
 
-The Cabinet Committee on the Environment was terminated and its functions transferred to the DomesticCouncil, see section 2(b) of Ex. Ord. No. 11541, eff. July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+The Cabinet Committee on the Environment was terminated and its functions transferred to the Domestic Council, see section 2(b) of Ex. Ord. No. 11541, eff. July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
 
 The Domestic Council was abolished by Reorg. Plan No. 1 of 1977, §3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by the President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in the Domestic Council to the President with power to delegate the performance of such transferred functions within the Executive Office of the President.
 
@@ -500,7 +500,7 @@ Sec. 2. <i>Responsibilities of Federal agencies</i>. Consonant with Title I of t
 
 Sec. 3. <i>Responsibilities of Council on Environmental Quality</i>. The Council on Environmental Quality shall:
 
-(a) Evaluate existing and proposed policies and activities of the Federal Government directed to the control of pollution and the enhancement of the environment and to the accomplishment of other objectives which affect the quality of the environment. This shall include continuing review of procedures employed in the development and enforcement of Federal standards affecting environmental quality. Based upon such evaluations the Council shall, where appropriate, recommend to the President policies and programs to achieve more effective protection and enhancement of environmental quality and shall, where appropriate, seek resolution of significant environmental issues.
+(a) Evaluate existing and proposed policies and activities of the Federal Government directed to the control of pollution and the enhancement of the environment and to the accomplishment of other objectives which affect the quality of the environment. This shall include continuing review of procedures employed inthe development and enforcement of Federal standards affecting environmental quality. Based upon such evaluations the Council shall, where appropriate, recommend to the President policies and programs to achieve more effective protection and enhancement of environmental quality and shall, where appropriate, seek resolution of significant environmental issues.
 
 (b) Recommend to the President and to the agencies priorities among programs designed for the control of pollution and for enhancement of the environment.
 
@@ -516,7 +516,7 @@ Sec. 3. <i>Responsibilities of Council on Environmental Quality</i>. The Council
 
 (h) Issue regulations to Federal agencies for the implementation of the procedural provisions of the Act (42 U.S.C. 4332(2)). Such regulations shall be developed after consultation with affected agencies and after such public hearings as may be appropriate. They will be designed to make the environmental impact statement process more useful to decisionmakers and the public; and to reduce paperwork and the accumulation of extraneous background data, in order to emphasize the need to focus on real environmental issues and alternatives. They will require impact statements to be concise, clear, and to the point, and supported by evidence that agencies have made the necessary environmental analyses. The Council shall include in its regulations procedures (1) for the early preparation of environmental impact statements, and (2) for the referral to the Council of conflicts between agencies concerning the implementation of the National Environmental Policy Act of 1969, as amended \[this chapter\], and Section 309 of the Clean Air Act, as amended \[42 U.S.C. 7609\], for the Council's recommendation as to their prompt resolution.
 
-(i) Issue such other instructions to agencies, and request such reports and other information from them, asmay be required to carry out the Council's responsibilities under the Act.
+(i) Issue such other instructions to agencies, and request such reports and other information from them, as may be required to carry out the Council's responsibilities under the Act.
 
 (j) Assist the President in preparing the annual Environmental Quality Report provided for in section 201 of the Act \[42 U.S.C. 4341\].
 
@@ -572,7 +572,7 @@ Sec. 5. <i>Expenses</i>. Members of the Industrial Council or any of its subordi
 
 Sec. 6. <i>Regulations</i>. The provisions of Executive Order No. 11007 of February 26, 1962 (3 CFR 573) \[see 5 U.S.C. 901 note\] prescribing regulations for the formation and use of advisory committees, are hereby made applicable to the Industrial Council and each of its subordinate committees. The Secretary may exercise the discretionary powers set forth in that order.
 
-Sec. 7. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to law to, any Federal agency to the authority of any other Federal agency or of the Industrial Council or of any of its subordinate committees, or as abrogating or restricting any such function in any manner.
+Sec. 7. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or anyfunction vested by law in, or assigned pursuant to law to, any Federal agency to the authority of any other Federal agency or of the Industrial Council or of any of its subordinate committees, or as abrogating or restricting any such function in any manner.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -670,7 +670,7 @@ Sec. 3. In addition to the requirements of Section 2, agencies with responsibili
 
 Sec. 4. In addition to any responsibilities under this Order and Sections 102, 202, and 205 of the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4012a, 4106, and 4128), agencies which guarantee, approve, regulate, or insure any financial transaction which is related to an area located in an area subject to the base flood shall, prior to completing action on such transaction, inform any private parties participating in the transaction of the hazards of locating structures in the area subject to the base flood.
 
-Sec. 5. The head of each agency shall submit a report to the Council on Environmental Quality and to the Water Resources Council on June 30, 1978, regarding thestatus of their procedures and the impact of this Order on the agency's operations. Thereafter, the Water Resources Council shall periodically evaluate agency procedures and their effectiveness.
+Sec. 5. The head of each agency shall submit a report to the Council on Environmental Quality and to the Water Resources Council on June 30, 1978, regarding the status of their procedures and the impact of this Order on the agency's operations. Thereafter, the Water Resources Council shall periodically evaluate agency procedures and their effectiveness.
 
 Sec. 6. As used in this Order:
 
@@ -710,7 +710,7 @@ Section 1. (a) Each agency shall provide leadership and shall take action to min
 
 (b) This Order does not apply to the issuance by Federal agencies of permits, licenses, or allocations to private parties for activities involving wetlands on non-Federal property.
 
-Sec. 2. (a) In furtherance of Section 101(b)(3) of the National Environmental Policy Act of 1969 (42 U.S.C. 4331(b)(3)) to improve and coordinate Federal plans, functions, programs and resources to the end that the Nation may attain the widest range of beneficial uses of the environment without degradation and risk to health or safety, each agency, to the extent permitted by law, shall avoid undertaking or providing assistance for new construction located in wetlands unless the head of the agency finds (1) that there is no practicable alternative to such construction, and (2) that the proposed action includes all practicable measures to minimize harm to wetlands which may result from such use. In making this finding the head of the agency may take into account economic, environmental and other pertinent factors.
+Sec. 2. (a) In furtherance of Section 101(b)(3) of the National Environmental Policy Act of 1969 (42 U.S.C.4331(b)(3)) to improve and coordinate Federal plans, functions, programs and resources to the end that the Nation may attain the widest range of beneficial uses of the environment without degradation and risk to health or safety, each agency, to the extent permitted by law, shall avoid undertaking or providing assistance for new construction located in wetlands unless the head of the agency finds (1) that there is no practicable alternative to such construction, and (2) that the proposed action includes all practicable measures to minimize harm to wetlands which may result from such use. In making this finding the head of the agency may take into account economic, environmental and other pertinent factors.
 
 (b) Each agency shall also provide opportunity for early public review of any plans or proposals for new construction in wetlands, in accordance with Section 2(b) of Executive Order No. 11514, as amended \[set out above\], including the development of procedures to accomplish this objective for Federal actions whose impact is not significant enough to require the preparation of an environmental impact statement under Section 102(2)(C) of the National Environmental Policy Act of 1969, as amended \[42 U.S.C. 4332(2)(C)\].
 
@@ -798,7 +798,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 #### 1–6. Compliance With Pollution Controls
 
-1–601. Whenever the Administrator or the appropriate State, interstate, or local agency notifies an Executive agency that it is in violation of an applicable pollution control standard (see Section 1–102 of this Order), the Executive agency shall promptly consult with the notifying agency and provide for its approval a plan toachieve and maintain compliance with the applicable pollution control standard. This plan shall include an implementation schedule for coming into compliance as soon as practicable.
+1–601. Whenever the Administrator or the appropriate State, interstate, or local agency notifies an Executive agency that it is in violation of an applicable pollution control standard (see Section 1–102 of this Order), the Executive agency shall promptly consult with the notifying agency and provide for its approval a plan to achieve and maintain compliance with the applicable pollution control standard. This plan shall include an implementation schedule for coming into compliance as soon as practicable.
 
 1–602. The Administrator shall make every effort to resolve conflicts regarding such violation between Executive agencies and, on request of any party, such conflicts between an Executive agency and a State, interstate, or a local agency. If the Administrator cannot resolve a conflict, the Administrator shall request the Director of the Office of Management and Budget to resolve the conflict.
 
@@ -840,7 +840,7 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 
 2–1. <i>Agency Procedures</i>. Every Federal agency taking major Federal actions encompassed hereby and not exempted herefrom having significant effects on the environment outside the geographical borders of the United States and its territories and possessions shall within eight months after the effective date of this Order have in effect procedures to implement this Order. Agencies shall consult with the Department of State and the Council on Environmental Quality concerning such procedures prior to placing them in effect.
 
-2–2. <i>Information Exchange</i>. To assist in effectuating the foregoing purpose, the Department of State and the Council on Environmental Quality in collaboration with other interested Federal agencies and other nations shall conduct a program for exchange on a continuing basis of information concerning the environment. The objectives of this program shall be to provide information for use by decisionmakers, to heighten awareness of and interest in environmental concerns and, as appropriate, to facilitate environmental cooperation with foreign nations.
+2–2. <i>Information Exchange</i>. To assist in effectuating the foregoing purpose, the Department of State and the Council on Environmental Quality in collaborationwith other interested Federal agencies and other nations shall conduct a program for exchange on a continuing basis of information concerning the environment. The objectives of this program shall be to provide information for use by decisionmakers, to heighten awareness of and interest in environmental concerns and, as appropriate, to facilitate environmental cooperation with foreign nations.
 
 2–3. <i>Actions Included</i>. Agencies in their procedures under Section 2–1 shall establish procedures by which their officers having ultimate responsibility for authorizing and approving actions in one of the following categories encompassed by this Order, take into consideration in making decisions concerning such actions, a document described in Section 2–4(a):
 
@@ -860,7 +860,7 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 
 (i) environmental impact statements (including generic, program and specific statements);
 
-(ii) bilateral or multilateral environmental studies, relevant or related to the proposed action, by theUnited States and one \[or more\] more foreign nations, or by an international body or organization in which the United States is a member or participant; or
+(ii) bilateral or multilateral environmental studies, relevant or related to the proposed action, by the United States and one \[or more\] more foreign nations, or by an international body or organization in which the United States is a member or participant; or
 
 (iii) concise reviews of the environmental issues involved, including environmental assessments, summary environmental analyses or other appropriate documents.
 
@@ -926,7 +926,7 @@ In order to avoid duplication of resources, agencies in their procedures shall p
 
 #### Section 3
 
-3–1. <i>Rights of Action</i>. This Order is solely for the purpose of establishing internal procedures for Federal agencies to consider the significant effects of their actions on the environment outside the United States, its territories and possessions, and nothing in this Order shall be construed to create a cause of action.
+3–1. <i>Rights of Action</i>. This Order is solely for the purpose of establishing internal procedures for Federalagencies to consider the significant effects of their actions on the environment outside the United States, its territories and possessions, and nothing in this Order shall be construed to create a cause of action.
 
 3–2. <i>Foreign Relations</i>. The Department of State shall coordinate all communications by agencies with foreign governments concerning environmental agreements and other arrangements in implementation of this Order.
 
@@ -990,7 +990,7 @@ Section 1–1. IMPLEMENTATION.
 
 1–101. <i>Agency Responsibilities</i>. To the greatest extent practicable and permitted by law, and consistent with the principles set forth in the report on the National Performance Review, each Federal agency shall make achieving environmental justice part of its mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations in the United States and its territories and possessions, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Mariana Islands.
 
-1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency ("Administrator") or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice ("Working Group"). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department of Transportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (l) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (o) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
+1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency ("Administrator") or the Administrator's designee shall convene an interagency FederalWorking Group on Environmental Justice ("Working Group"). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department of Transportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (l) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (o) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
 
 (b) The Working Group shall: (1) provide guidance to Federal agencies on criteria for identifying disproportionately high and adverse human health or environmental effects on minority populations and low-income populations;
 
@@ -1006,7 +1006,7 @@ Section 1–1. IMPLEMENTATION.
 
 (7) develop interagency model projects on environmental justice that evidence cooperation among Federal agencies.
 
-1–103. <i>Development of Agency Strategies</i>. (a) Except as provided in section 6–605 of this order, each Federalagency shall develop an agency-wide environmental justice strategy, as set forth in subsections (b)–(e) of this section that identifies and addresses disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations. The environmental justice strategy shall list programs, policies, planning and public participation processes, enforcement, and/or rulemakings related to human health or the environment that should be revised to, at a minimum: (1) promote enforcement of all health and environmental statutes in areas with minority populations and low-income populations; (2) ensure greater public participation; (3) improve research and data collection relating to the health of and environment of minority populations and low-income populations; and (4) identify differential patterns of consumption of natural resources among minority populations and low-income populations. In addition, the environmental justice strategy shall include, where appropriate, a timetable for undertaking identified revisions and consideration of economic and social implications of the revisions.
+1–103. <i>Development of Agency Strategies</i>. (a) Except as provided in section 6–605 of this order, each Federal agency shall develop an agency-wide environmental justice strategy, as set forth in subsections (b)–(e) of this section that identifies and addresses disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations. The environmental justice strategy shall list programs, policies, planning and public participation processes, enforcement, and/or rulemakings related to human health or the environment that should be revised to, at a minimum: (1) promote enforcement of all health and environmental statutes in areas with minority populations and low-income populations; (2) ensure greater public participation; (3) improve research and data collection relating to the health of and environment of minority populations and low-income populations; and (4) identify differential patterns of consumption of natural resources among minority populations and low-income populations. In addition, the environmental justice strategy shall include, where appropriate, a timetable for undertaking identified revisions and consideration of economic and social implications of the revisions.
 
 (b) Within 4 months of the date of this order, each Federal agency shall identify an internal administrative process for developing its environmental justice strategy, and shall inform the Working Group of the process.
 
@@ -1034,7 +1034,7 @@ Sec. 3–3. RESEARCH, DATA COLLECTION, AND ANALYSIS.
 
 3–302. <i>Human Health and Environmental Data Collection and Analysis</i>. To the extent permitted by existing law, including the Privacy Act, as amended (5 U.S.C. section 552a): (a) each Federal agency, whenever practicable and appropriate, shall collect, maintain, and analyze information assessing and comparing environmental and human health risks borne by populations identified by race, national origin, or income. To the extent practical and appropriate, Federal agencies shall use this information to determine whether their programs, policies, and activities have disproportionately high and adverse human health or environmental effects on minority populations and low-income populations;
 
-(b) In connection with the development and implementation of agency strategies in section 1–103 of this order, each Federal agency, whenever practicable and appropriate, shall collect, maintain and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding facilities or sites expected to have a substantial environmental, human health, or economic effect on the surrounding populations, when such facilities or sites become the subject of a substantial Federal environmental administrative or judicial action. Such information shall be made available to the public, unless prohibited by law; and
+(b) In connection with the development and implementation of agency strategies in section 1–103 of this order, each Federal agency, whenever practicable and appropriate, shall collect, maintain and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding facilities or sites expected to have a substantial environmental, human health, or economic effect on the surrounding populations, whensuch facilities or sites become the subject of a substantial Federal environmental administrative or judicial action. Such information shall be made available to the public, unless prohibited by law; and
 
 (c) Each Federal agency, whenever practicable and appropriate, shall collect, maintain, and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding Federal facilities that are: (1) subject to the reporting requirements under the Emergency Planning and Community Right-to-Know Act, 42 U.S.C. section 11001–11050 as mandated in Executive Order No. 12856 \[former 42 U.S.C. 11001 note\]; and (2) expected to have a substantial environmental, human health, or economic effect on surrounding populations. Such information shall be made available to the public, unless prohibited by law.
 
@@ -1048,7 +1048,7 @@ Sec. 4–4. SUBSISTENCE CONSUMPTION OF FISH AND WILDLIFE.
 
 Sec. 5–5. PUBLIC PARTICIPATION AND ACCESS TO INFORMATION. (a) The public may submit recommendations to Federal agencies relating to the incorporation of environmental justice principles into Federal agency programs or policies. Each Federal agency shall convey such recommendations to the Working Group.
 
-(b) Each Federal agency may, whenever practicable and appropriate, translate crucial public documents,notices, and hearings relating to human health or the environment for limited English speaking populations.
+(b) Each Federal agency may, whenever practicable and appropriate, translate crucial public documents, notices, and hearings relating to human health or the environment for limited English speaking populations.
 
 (c) Each Federal agency shall work to ensure that public documents, notices, and hearings relating to human health or the environment are concise, understandable, and readily accessible to the public.
 
@@ -1094,7 +1094,7 @@ Section 1. <i>Policy.</i>
 
 Sec. 2. <i>Definitions</i>. The following definitions shall apply to this order.
 
-2–201. "Federal agency" means any authority of the United States that is an agency under 44 U.S.C. 3502(1) other than those considered to be independent regulatory agencies under 44 U.S.C. 3502(5). For purposes of this order, "military departments," as defined in 5 U.S.C. 102, are covered under the auspices of the Department of Defense.
+2–201. "Federal agency" means any authority of the United States that is an agency under 44 U.S.C. 3502(1) other than those considered to be independent regulatory agencies under 44 U.S.C. 3502(5). For purposes of this order, "military departments," as defined in 5U.S.C. 102, are covered under the auspices of the Department of Defense.
 
 2–202. "Covered regulatory action" means any substantive action in a rulemaking, initiated after the date of this order or for which a Notice of Proposed Rulemaking is published 1 year after the date of this order, that is likely to result in a rule that may:
 
@@ -1210,7 +1210,7 @@ Section 1. <i>Policies.</i>
 
 (a) The American Heritage Rivers initiative has three objectives: natural resource and environmental protection, economic revitalization, and historic and cultural preservation.
 
-(b) Executive agencies ("agencies"), to the extent permitted by law and consistent with their missionsand resources, shall coordinate Federal plans, functions, programs, and resources to preserve, protect, and restore rivers and their associated resources important to our history, culture, and natural heritage.
+(b) Executive agencies ("agencies"), to the extent permitted by law and consistent with their missions and resources, shall coordinate Federal plans, functions, programs, and resources to preserve, protect, and restore rivers and their associated resources important to our history, culture, and natural heritage.
 
 (c) Agencies shall develop plans to bring increased efficiencies to existing and authorized programs with goals that are supportive of protection and restoration of communities along rivers.
 
@@ -1372,67 +1372,135 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13112. Invasive Species
 
-Ex. Ord. No. 13112, Feb. 3, 1999, 64 F.R. 6183, as amended by Ex. Ord. No. 13286, §15, Feb. 28, 2003, 68 F.R. 10623, provided:
+Ex. Ord. No. 13112, Feb. 3, 1999, 64 F.R. 6183, as amended by Ex. Ord. No. 13286, §15, Feb. 28, 2003, 68 F.R. 10623; Ex. Ord. No. 13751, §§2, 3, 5–9, Dec. 5, 2016, 81 F.R. 88610, 88612–88614, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 <i>et seq</i>.), Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, as amended (16 U.S.C. 4701 <i>et seq</i>.), Lacey Act, as amended (18 U.S.C. 42), Federal Plant Pest Act (7 U.S.C. 150aa <i>et seq</i>.), Federal Noxious Weed Act of 1974, as amended (7 U.S.C. 2801 <i>et seq</i>.), Endangered Species Act of 1973, as amended (16 U.S.C. 1531 <i>et seq</i>.), and other pertinent statutes, to prevent the introduction of invasive species and provide for their control and to minimize the economic, ecological, and human health impacts that invasive species cause, it is ordered as follows:
 
-Section 1. <i>Definitions</i>.
+Section 1. <i>Definitions</i>. (a) "Control" means containing, suppressing, or reducing populations of invasive species.
 
-(a) "Alien species" means, with respect to a particular ecosystem, any species, including its seeds, eggs, spores, or other biological material capable of propagating that species, that is not native to that ecosystem.
+(b) "Eradication" means the removal or destruction of an entire population of invasive species.
 
-(b) "Control" means, as appropriate, eradicating, suppressing, reducing, or managing invasive species populations, preventing spread of invasive species from areas where they are present, and taking steps such asrestoration of native species and habitats to reduce the effects of invasive species and to prevent further invasions.
+(c) "Federal agency" means an executive department or agency, but does not include independent establishments as defined by 5 U.S.C. 104.
 
-(c) "Ecosystem" means the complex of a community of organisms and its environment.
+(d) "Introduction" means, as a result of human activity, the intentional or unintentional escape, release, dissemination, or placement of an organism into an ecosystem to which it is not native.
 
-(d) "Federal agency" means an executive department or agency, but does not include independent establishments as defined by 5 U.S.C. 104.
+(e) "Invasive species" means, with regard to a particular ecosystem, a non-native organism whose introduction causes or is likely to cause economic or environmental harm, or harm to human, animal, or plant health.
 
-(e) "Introduction" means the intentional or unintentional escape, release, dissemination, or placement of a species into an ecosystem as a result of human activity.
+(f) "Non-native species" or "alien species" means, with respect to a particular ecosystem, an organism, including its seeds, eggs, spores, or other biological material capable of propagating that species, that occurs outside of its natural range.
 
-(f) "Invasive species" means an alien species whose introduction does or is likely to cause economic or environmental harm or harm to human health.
+(g) "Pathway" means the mechanisms and processes by which non-native species are moved, intentionally or unintentionally, into a new ecosystem.
 
-(g) "Native species" means, with respect to a particular ecosystem, a species that, other than as a result of an introduction, historically occurred or currently occurs in that ecosystem.
+(h) "Prevention" means the action of stopping invasive species from being introduced or spreading into a new ecosystem.
 
-(h) "Species" means a group of organisms all of which have a high degree of physical and genetic similarity, generally interbreed only among themselves, and show persistent differences from members of allied groups of organisms.
+(i) "United States" means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the U.S. Virgin Islands, the Commonwealth of the Northern Mariana Islands, all possessions, and the territorial sea of the United States as defined by Presidential Proclamation 5928 of December 27, 1988.
 
-(i) "Stakeholders" means, but is not limited to, State, tribal, and local government agencies, academic institutions, the scientific community, nongovernmental entities including environmental, agricultural, and conservation organizations, trade groups, commercial interests, and private landowners.
+Sec. 2. <i>Federal Agency Duties</i>. (a) Each Federal agency for which that agency's actions may affect the introduction, establishment, or spread of invasive species shall, to the extent practicable and permitted by law,
 
-(j) "United States" means the 50 States, the District of Columbia, Puerto Rico, Guam, and all possessions, territories, and the territorial sea of the United States.
+(1) identify such agency actions;
 
-Sec. 2. <i>Federal Agency Duties</i>. (a) Each Federal agency whose actions may affect the status of invasive species shall, to the extent practicable and permitted by law,
+(2) subject to the availability of appropriations, and within administrative, budgetary, and jurisdictional limits, use relevant agency programs and authorities to:
 
-(1) identify such actions;
+&emsp;(i) prevent the introduction, establishment, and spread of invasive species;
 
-(2) subject to the availability of appropriations, and within Administration budgetary limits, use relevant programs and authorities to: (i) prevent the introduction of invasive species; (ii) detect and respond rapidly to and control populations of such species in a cost-effective and environmentally sound manner; (iii) monitor invasive species populations accurately and reliably; (iv) provide for restoration of native species and habitat conditions in ecosystems that have been invaded; (v) conduct research on invasive species and develop technologies to prevent introduction and provide for environmentally sound control of invasive species; and (vi) promote public education on invasive species and the means to address them; and
+&emsp;(ii) detect and respond rapidly to eradicate or control populations of invasive species in a manner that is cost-effective and minimizes human, animal, plant, and environmental health risks;
 
-(3) not authorize, fund, or carry out actions that it believes are likely to cause or promote the introduction or spread of invasive species in the United States or elsewhere unless, pursuant to guidelines that it has prescribed, the agency has determined and made public its determination that the benefits of such actions clearly outweigh the potential harm caused by invasive species; and that all feasible and prudent measures to minimize risk of harm will be taken in conjunction with the actions.
+&emsp;(iii) monitor invasive species populations accurately and reliably;
 
-(b) Federal agencies shall pursue the duties set forth in this section in consultation with the Invasive Species Council, consistent with the Invasive Species Management Plan and in cooperation with stakeholders, as appropriate, and, as approved by the Department of State, when Federal agencies are working with international organizations and foreign nations.
+&emsp;(iv) provide for the restoration of native species, ecosystems, and other assets that have been impacted by invasive species;
 
-Sec. 3. <i>Invasive Species Council</i>. (a) An Invasive Species Council (Council) is hereby established whose members shall include the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, and the Administrator of the Environmental Protection Agency. The Council shall be Co-Chaired by the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce. The Council may invite additional Federal agency representatives to be members, including representatives from subcabinet bureaus or offices with significant responsibilities concerning invasive species, and may prescribe special procedures for their participation. The Secretary of the Interior shall, with concurrence of the Co-Chairs, appoint an Executive Director of the Council and shall provide the staff and administrative support for the Council.
+&emsp;(v) conduct research on invasive species and develop and apply technologies to prevent their introduction, and provide for environmentally sound methods of eradication and control of invasive species;
 
-(b) The Secretary of the Interior shall establish an advisory committee under the Federal Advisory Committee Act, 5 U.S.C. App., to provide information and advice for consideration by the Council, and shall, after consultation with other members of the Council, appoint members of the advisory committee representing stakeholders. Among other things, the advisory committee shall recommend plans and actions at local, tribal, State, regional, and ecosystem-based levels to achieve the goals and objectives of the Management Plan in section 5 of this order. The advisory committee shall act in cooperation with stakeholders and existing organizations addressing invasive species. The Department of the Interior shall provide the administrative and financial support for the advisory committee.
+&emsp;(vi) promote public education and action on invasive species, their pathways, and ways to address them, with an emphasis on prevention, and early detection and rapid response;
 
-Sec. 4. <i>Duties of the Invasive Species Council</i>. The Invasive Species Council shall provide national leadership regarding invasive species, and shall:
+&emsp;(vii) assess and strengthen, as appropriate, policy and regulatory frameworks pertaining to the prevention, eradication, and control of invasive species and address regulatory gaps, inconsistencies, and conflicts;
 
-(a) oversee the implementation of this order and see that the Federal agency activities concerning invasive species are coordinated, complementary, cost-efficient, and effective, relying to the extent feasible and appropriate on existing organizations addressing invasive species, such as the Aquatic Nuisance Species Task Force, the Federal Interagency Committee for the Management of Noxious and Exotic Weeds, and the Committee on Environment and Natural Resources;
+&emsp;(viii) coordinate with and complement similar efforts of States, territories, federally recognized American Indian tribes, Alaska Native Corporations, Native Hawaiians, local governments, nongovernmental organizations, and the private sector; and
 
-(b) encourage planning and action at local, tribal, State, regional, and ecosystem-based levels to achieve the goals and objectives of the Management Plan in section 5 of this order, in cooperation with stakeholders and existing organizations addressing invasive species;
+&emsp;(ix) in consultation with the Department of State and with other agencies as appropriate, coordinate with foreign governments to prevent the movement and minimize the impacts of invasive species; and
 
-(c) develop recommendations for international cooperation in addressing invasive species;
+(3) refrain from authorizing, funding, or implementing actions that are likely to cause or promote the introduction, establishment, or spread of invasive species in the United States unless, pursuant to guidelines that it has prescribed, the agency has determined and made public its determination that the benefits of such actions clearly outweigh the potential harm caused by invasive species; and that all feasible and prudent measures to minimize risk of harm will be taken in conjunction with the actions.
 
-(d) develop, in consultation with the Council on Environmental Quality, guidance to Federal agencies pursuant to the National Environmental Policy Act on prevention and control of invasive species, including the procurement, use, and maintenance of native species as they affect invasive species;
+(c) \[sic\] Federal agencies shall pursue the duties set forth in this section in coordination, to the extent practicable, with other member agencies of the Council and staff, consistent with the National Invasive Species Council Management Plan, and in cooperation with State, local, tribal, and territorial governments, and stakeholders, as appropriate, and in consultation with the Department of State when Federal agencies are working with international organizations and foreign nations.
 
-(e) facilitate development of a coordinated network among Federal agencies to document, evaluate, and monitor impacts from invasive species on the economy, the environment, and human health;
+(d) Federal agencies that are members of the Council, and Federal interagency bodies working on issues relevant to the prevention, eradication, and control of invasive species, shall provide the Council with annual information on actions taken that implement these duties and identify barriers to advancing priority actions.
 
-(f) facilitate establishment of a coordinated, up-to-date information-sharing system that utilizes, to the greatest extent practicable, the Internet; this system shall facilitate access to and exchange of information concerning invasive species, including, but not limited to, information on distribution and abundance of invasive species; life histories of such species and invasive characteristics; economic, environmental, and human health impacts; management techniques, and laws and programs for management, research, and public education; and
+(e) To the extent practicable, Federal agencies shall also expand the use of new and existing technologies and practices; develop, share, and utilize similar metrics and standards, methodologies, and databases and, where relevant, platforms for monitoring invasive species; and, facilitate the interoperability of information systems, open data, data analytics, predictive modeling, and data reporting necessary to inform timely, science-based decision making.
 
-(g) prepare and issue a national Invasive Species Management Plan as set forth in section 5 of this order.
+Sec. 3. <i>National Invasive Species Council</i>. (a) A National Invasive Species Council (Council) is hereby established. The mission of the Council is to provide the vision and leadership to coordinate, sustain, and expand Federal efforts to safeguard the interests of the United States through the prevention, eradication, and control of invasive species, and through the restoration of ecosystems and other assets impacted by invasive species.
 
-Sec. 5. <i>Invasive Species Management Plan</i>. (a) Within 18 months after issuance of this order, the Council shall prepare and issue the first edition of a National Invasive Species Management Plan (Management Plan), which shall detail and recommend performance-oriented goals and objectives and specific measures of success for Federal agency efforts concerning invasive species. The Management Plan shall recommend specific objectives and measures for carrying out each of the Federal agency duties established in section 2(a) of this order and shall set forth steps to be taken by the Council to carry out the duties assigned to it under section 4 of this order. The Management Plan shall be developed through a public process and in consultation with Federal agencies and stakeholders.
+(b) The Council's membership shall be composed of the following officials, who may designate a senior-level representative to perform the functions of the member:
 
-(b) The first edition of the Management Plan shall include a review of existing and prospective approaches and authorities for preventing the introduction and spread of invasive species, including those for identifying pathways by which invasive species are introduced and for minimizing the risk of introductions via those pathways, and shall identify research needs and recommend measures to minimize the risk that introductions will occur. Such recommended measures shall provide for a science-based process to evaluate risks associated with introduction and spread of invasive species and a coordinated and systematic risk-based process to identify, monitor, and interdict pathways that may be involved in the introduction of invasive species. If recommended measures are not authorized by current law, the Council shall develop and recommend to the President through its Co-Chairs legislative proposals for necessary changes in authority.
+(i) Secretary of State;
 
-(c) The Council shall update the Management Plan biennially and shall concurrently evaluate and report on success in achieving the goals and objectives set forth in the Management Plan. The Management Plan shall identify the personnel, other resources, and additional levels of coordination needed to achieve the Management Plan's identified goals and objectives, and the Council shall provide each edition of the Management Plan and each report on it to the Office of Management and Budget. Within 18 months after measures have been recommended by the Council in any edition of the Management Plan, each Federal agency whose action is required to implement such measures shall either take the action recommended or shall provide the Council with an explanation of why the action is not feasible. The Council shall assess the effectiveness of this order no less than once each 5 years after the order is issued and shall report to the Office of Management and Budget on whether the order should be revised.
+(ii) Secretary of the Treasury;
+
+(iii) Secretary of Defense;
+
+(iv) Secretary of the Interior;
+
+(v) Secretary of Agriculture;
+
+(vi) Secretary of Commerce;
+
+(vii) Secretary of Health and Human Services;
+
+(viii) Secretary of Transportation;
+
+(ix) Secretary of Homeland Security;
+
+(x) Administrator of the National Aeronautics and Space Administration;
+
+(xi) Administrator of the Environmental Protection Agency;
+
+(xii) Administrator of the United States Agency for International Development;
+
+(xiii) United States Trade Representative;
+
+(xiv) Director or Chair of the following components of the Executive Office of the President: the Office of Science and Technology Policy, the Council on Environmental Quality, and the Office of Management and Budget; and
+
+(xv) Officials from such other departments, agencies, offices, or entities as the agencies set forth above, by consensus, deem appropriate.
+
+(c) The Council shall be co-chaired by the Secretary of the Interior (Secretary), the Secretary of Agriculture, and the Secretary of Commerce, who shall meet quarterly or more frequently if needed, and who may designate a senior-level representative to perform the functions of the Co-Chair. The Council shall meet no less than once each year. The Secretary of the Interior shall, after consultation with the Co-Chairs, appoint an Executive Director of the Council to oversee a staff that supports the duties of the Council. Within 1 year of the date of this order, the Co-Chairs of the Council shall, with consensus of its members, complete a charter, which shall include any administrative policies and processes necessary to ensure the Council can satisfy the functions and responsibilities described in this order.
+
+(d) The Secretary of the Interior shall maintain the current Invasive Species Advisory Committee established under the Federal Advisory Committee Act, 5 U.S.C. App., to provide information and advice for consideration by the Council. The Secretary shall, after consultation with other members of the Council, appoint members of the advisory committee who represent diverse stakeholders and who have expertise to advise the Council.
+
+(e) Administration of the Council. The Department of the Interior shall provide funding and administrative support for the Council and the advisory committee consistent with existing authorities. To the extent permitted by law, including the Economy Act, and within existing appropriations, participating agencies may detail staff to the Department of the Interior to support the Council's efforts.
+
+Sec. 4. <i>Duties of the National Invasive Species Council</i>. The Council shall provide national leadership regarding invasive species and shall:
+
+(a) with regard to the implementation of this order, work to ensure that the Federal agency and interagency activities concerning invasive species are coordinated, complementary, cost-efficient, and effective;
+
+(b) undertake a National Invasive Species Assessment in coordination with the U.S. Global Change Research Program's periodic national assessment, that evaluates the impact of invasive species on major U.S. assets, including food security, water resources, infrastructure, the environment, human, animal, and plant health, natural resources, cultural identity and resources, and military readiness, from ecological, social, and economic perspectives;
+
+(c) advance national incident response, data collection, and rapid reporting capacities that build on existing frameworks and programs and strengthen early detection of and rapid response to invasive species, including those that are vectors, reservoirs, or causative agents of disease;
+
+(d) publish an assessment by 2020 that identifies the most pressing scientific, technical, and programmatic coordination challenges to the Federal Government's capacity to prevent the introduction of invasive species, and that incorporate recommendations and priority actions to overcome these challenges into the National Invasive Species Council Management Plan, as appropriate;
+
+(e) support and encourage the development of new technologies and practices, and promote the use of existing technologies and practices, to prevent, eradicate, and control invasive species, including those that are vectors, reservoirs, and causative agents of disease;
+
+(f) convene annually to discuss and coordinate interagency priorities and report annually on activities and budget requirements for programs that contribute directly to the implementation of this order; and
+
+(g) publish a National Invasive Species Council Management Plan as set forth in section 5 of this order.
+
+Sec. 5. <i>National Invasive Species Council Management Plan</i>. (a) By December 31, 2019, the Council shall publish a National Invasive Species Council Management Plan (Management Plan), which shall, among other priorities identified by the Council, include actions to further the implementation of the duties of the National Invasive Species Council.
+
+(b) The Management Plan shall recommend strategies to:
+
+(1) provide institutional leadership and priority setting;
+
+(2) achieve effective interagency coordination and cost-efficiency;
+
+(3) raise awareness and motivate action, including through the promotion of appropriate transparency, community-level consultation, and stakeholder outreach concerning the benefits and risks to human, animal, or plant health when controlling or eradicating an invasive species;
+
+(4) remove institutional and policy barriers;
+
+(5) assess and strengthen capacities; and
+
+(6) foster scientific, technical, and programmatic innovation.
+
+(c) The Council shall evaluate the effectiveness of the Management Plan implementation and update the Plan every 3 years. The Council shall provide an annual report of its achievements to the public.
+
+(d) Council members may complement the Management Plan with invasive species policies and plans specific to their respective agency's roles, responsibilities, and authorities.
 
 Sec. 6. <i>Judicial Review and Administration</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any other person.
 
@@ -1440,7 +1508,9 @@ Sec. 6. <i>Judicial Review and Administration</i>. (a) This order is intended on
 
 (c) The requirements of this order do not affect the obligations of Federal agencies under 16 U.S.C. 4713 with respect to ballast water programs.
 
-(d) The requirements of section 2(a)(3) of this order shall not apply to any action of the Department of State or Department of Defense if the Secretary of State or the Secretary of Defense finds that exemption from such requirements is necessary for foreign policy or national security reasons.
+(d) The duties of section 3(a)(2) \[probably means 2(a)(2)\] and section 3(a)(3) \[2(a)(3)\] of this order shall not apply to any action of the Department of State if the Secretary of State finds that exemption from such requirements is necessary for foreign policy, readiness, or national security reasons. The duties of section 3(a)(2) \[2(a)(2)\] and section 3(a)(3) \[2(a)(3)\] of this order shall not apply to any action of the Department of Defense if the Secretary of Defense finds that exemption from such requirements is necessary for foreign policy, readiness, or national security reasons.
+
+(e) The requirements of this order do not affect the obligations of the Department of Health and Human Services under the Public Health Service Act or the Federal Food, Drug, and Cosmetic Act.
 
 #### Extension of Term of Invasive Species Advisory Committee
 
@@ -1606,7 +1676,7 @@ Sec. 8. <i>Definitions</i>. As used in this order:
 
 (a) "preparedness" means actions taken to plan, organize, equip, train, and exercise to build, apply, and sustain the capabilities necessary to prevent, protect against, ameliorate the effects of, respond to, and recover from climate change related damages to life, health, property, livelihoods, ecosystems, and national security;
 
-(b) "adaptation" means adjustment in natural or human systems in anticipation of or response to achanging environment in a way that effectively uses beneficial opportunities or reduces negative effects; and
+(b) "adaptation" means adjustment in natural or human systems in anticipation of or response to a changing environment in a way that effectively uses beneficial opportunities or reduces negative effects; and
 
 (c) "resilience" means the ability to anticipate, prepare for, and adapt to changing conditions and withstand, respond to, and recover rapidly from disruptions.
 
@@ -1630,7 +1700,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the United States to improve the resilience of communities and Federal assets against the impacts of flooding. These impacts are anticipated to increase over time due to the effects of climate change and other threats. Losses caused by flooding affect the environment, our economic prosperity, and public health and safety, each of which affects our national security.
 
-The Federal Government must take action, informed by the best-available and actionable science, to improve the Nation's preparedness and resilience against flooding. Executive Order 11988 of May 24, 1977 (Floodplain Management), requires executive departments and agencies (agencies) to avoid, to the extent possible, the long- and short-term adverse impacts associated with the occupancy and modification of floodplains and to avoid direct or indirect support of floodplain development wherever there is a practicable alternative. The Federal Government has developed processes for evaluating the impacts of Federal actions in or affecting floodplains to implement Executive Order 11988.
+The Federal Government must take action, informed by the best-available and actionable science, to improve the Nation's preparedness and resilience against flooding. Executive Order 11988 of May 24, 1977 (Floodplain Management), requires executive departments and agencies (agencies) to avoid, to the extent possible, the long- and short-term adverse impacts associated with the occupancy and modification of floodplains and to avoid direct or indirect support of floodplain development wherever there is a practicable alternative. The Federal Government has developed processes forevaluating the impacts of Federal actions in or affecting floodplains to implement Executive Order 11988.
 
 As part of a national policy on resilience and risk reduction consistent with my Climate Action Plan, the National Security Council staff coordinated an interagency effort to create a new flood risk reduction standard for federally funded projects. The views of Governors, mayors, and other stakeholders were solicited and considered as efforts were made to establish a new flood risk reduction standard for federally funded projects. The result of these efforts is the Federal Flood Risk Management Standard (Standard), a flexible framework to increase resilience against flooding and help preserve the natural values of floodplains. Incorporating this Standard will ensure that agencies expand management from the current base flood level to a higher vertical elevation and corresponding horizontal floodplain to address current and future flood risk and ensure that projects funded with taxpayer dollars last as long as intended.
 
@@ -2014,7 +2084,7 @@ Sec. 18. <i>Exemption Authority</i>. (a) The Director of National Intelligence m
 
 (c) The head of an agency may exempt law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency from the provisions of this order other than this subsection. Heads of agencies shall manage fleets to which this paragraph refers in a manner consistent with the policy set forth in section 1 of this order to the extent they determine practicable.
 
-(d) The head of an agency may exempt particular agency activities and facilities from the provisions of this order other than this subsection where it is in theinterest of national security. If the head of an agency issues an exemption under this section, the agency must notify the Chair of CEQ in writing within 30 days of issuance of the exemption under this subsection. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order.
+(d) The head of an agency may exempt particular agency activities and facilities from the provisions of this order other than this subsection where it is in the interest of national security. If the head of an agency issues an exemption under this section, the agency must notify the Chair of CEQ in writing within 30 days of issuance of the exemption under this subsection. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order.
 
 (e) The head of an agency may submit to the President, through the Chair of CEQ, a request for an exemption of an agency activity, and related personnel, resources, and facilities, from this order.
 
@@ -2087,6 +2157,54 @@ Sec. 20. <i>General Provisions</i>. (a) Nothing in this order shall be construed
 (ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13751. Safeguarding the Nation From the Impacts of Invasive Species
+
+Ex. Ord. No. 13751, Dec. 5, 2016, 81 F.R. 88609, provided:
+
+By the authority vested in me as President by the Constitution and to ensure the faithful execution of the laws of the United States of America, including the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 et seq.), the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, (16 U.S.C. 4701 et seq.), the Plant Protection Act (7 U.S.C. 7701 et seq.), the Lacey Act, as amended (18 U.S.C. 42, 16 U.S.C. 3371–3378 et seq.), the Endangered Species Act of 1973, as amended (16 U.S.C. 1531 et seq.), the Noxious Weed Control and Eradication Act of 2004 (7 U.S.C. 7781 et seq.), and other pertinent statutes, to prevent the introduction of invasive species and provide for their control, and to minimize the economic, plant, animal, ecological, and human health impacts that invasive species cause, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to prevent the introduction, establishment, and spread of invasive species, as well as to eradicate and control populations of invasive species that are established. Invasive species pose threats to prosperity, security, and quality of life. They have negative impacts on the environment and natural resources, agriculture andfood production systems, water resources, human, animal, and plant health, infrastructure, the economy, energy, cultural resources, and military readiness. Every year, invasive species cost the United States billions of dollars in economic losses and other damages.
+
+Of substantial growing concern are invasive species that are or may be vectors, reservoirs, and causative agents of disease, which threaten human, animal, and plant health. The introduction, establishment, and spread of invasive species create the potential for serious public health impacts, especially when considered in the context of changing climate conditions. Climate change influences the establishment, spread, and impacts of invasive species.
+
+Executive Order 13112 of February 3, 1999 (Invasive Species), called upon executive departments and agencies to take steps to prevent the introduction and spread of invasive species, and to support efforts to eradicate and control invasive species that are established. Executive Order 13112 also created a coordinating body—the Invasive Species Council, also referred to as the National Invasive Species Council—to oversee implementation of the order, encourage proactive planning and action, develop recommendations for international cooperation, and take other steps to improve the Federal response to invasive species. Past efforts at preventing, eradicating, and controlling invasive species demonstrated that collaboration across Federal, State, local, tribal, and territorial government; stakeholders; and the private sector is critical to minimizing the spread of invasive species and that coordinated action is necessary to protect the assets and security of the United States.
+
+This order amends Executive Order 13112 and directs actions to continue coordinated Federal prevention and control efforts related to invasive species. This order maintains the National Invasive Species Council (Council) and the Invasive Species Advisory Committee; expands the membership of the Council; clarifies the operations of the Council; incorporates considerations of human and environmental health, climate change, technological innovation, and other emerging priorities into Federal efforts to address invasive species; and strengthens coordinated, cost-efficient Federal action.
+
+Sec. 2. <i>Definitions</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 3. <i>Federal Agency Duties</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 4. <i>Emerging Priorities</i>. Federal agencies that are members of the Council and Federal interagency bodies working on issues relevant to the prevention, eradication, and control of invasive species shall take emerging priorities into consideration, including:
+
+(a) Federal agencies shall consider the potential public health and safety impacts of invasive species, especially those species that are vectors, reservoirs, and causative agents of disease. The Department of Health and Human Services, in coordination and consultation with relevant agencies as appropriate, shall within 1 year of this order, and as requested by the Council thereafter, provide the Office of Science and Technology Policy and the Council a report on public health impacts associated with invasive species. That report shall describe the disease, injury, immunologic, and safety impacts associated with invasive species, including any direct and indirect impacts on low-income, minority, and tribal communities.
+
+(b) Federal agencies shall consider the impacts of climate change when working on issues relevant to the prevention, eradication, and control of invasive species, including in research and monitoring efforts, and integrate invasive species into Federal climate change coordinating frameworks and initiatives.
+
+(c) Federal agencies shall consider opportunities to apply innovative science and technology when addressing the duties identified in section 2 of Executive Order 13112, as amended, including, but not limited to, promoting open data and data analytics; harnessing technological advances in remote sensing technologies, molecular tools, cloud computing, and predictive analytics; and using tools such as challenge prizes, citizen science, and crowdsourcing.
+
+Sec. 5. <i>National Invasive Species Council</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 6. <i>Duties of the National Invasive Species Council</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 7. <i>National Invasive Species Council Management Plan</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 8. <i>Actions of the Department of State and Department of Defense</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 9. <i>Obligations of the Department of Health and Human Services</i>. \[Amended Ex. Ord. No. 13112, set out as a note above.\]
+
+Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(1) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(2) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

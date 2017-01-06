@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) The oldest and largest lava flow known on Earth is located on the Keweenaw Peninsula of Michigan. This volcanic activity produced the only place on Earth where large scale economically recoverable 97 percent pure native copper is found.
 
-&emsp;(2) The Keweenaw Peninsula is the only site in the country where prehistoric, aboriginal mining of copper occurred. Artifacts madefrom this copper by these ancient Indians were traded as far south as present day Alabama.
+&emsp;(2) The Keweenaw Peninsula is the only site in the country where prehistoric, aboriginal mining of copper occurred. Artifacts made from this copper by these ancient Indians were traded as far south as present day Alabama.
 
 &emsp;(3) Copper mining on the Keweenaw Peninsula pioneered deep shaft, hard rock mining, milling, and smelting techniques and advancements in related mining technologies later used throughout the world.
 

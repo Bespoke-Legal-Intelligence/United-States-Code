@@ -31,7 +31,7 @@ Pub. L. 111–330, §1(17)(A), Dec. 22, 2010, 124 Stat. 3570, amended Pub. L. 11
 - [&sect; 70119 - Civil penalty](%C2%A7%2070119%20-%20Civil%20penalty.md)
 - [&sect; 70120 - In rem liability for civil penalties and certain costs](%C2%A7%2070120%20-%20In%20rem%20liability%20for%20civil%20penalties%20and%20certain%20costs.md)
 - [&sect; 70121 - Withholding of clearance](%C2%A7%2070121%20-%20Withholding%20of%20clearance.md)
-- [&sect; 70122 - Waterway watch program 1](%C2%A7%2070122%20-%20Waterway%20watch%20program%201.md)
+- [&sect; 70122 - Waterway Watch Program](%C2%A7%2070122%20-%20Waterway%20Watch%20Program.md)
 - [&sect; 70123 - Mobile biometric identification](%C2%A7%2070123%20-%20Mobile%20biometric%20identification.md)
 - [&sect; 70124 - Regulations](%C2%A7%2070124%20-%20Regulations.md)
 - [&sect; 70125 - Port security training for facility security officers](%C2%A7%2070125%20-%20Port%20security%20training%20for%20facility%20security%20officers.md)

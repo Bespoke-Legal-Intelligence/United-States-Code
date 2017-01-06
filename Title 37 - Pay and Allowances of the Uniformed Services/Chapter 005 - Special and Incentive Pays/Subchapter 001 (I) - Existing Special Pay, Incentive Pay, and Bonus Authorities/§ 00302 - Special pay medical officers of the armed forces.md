@@ -48,7 +48,7 @@ Incentive Special Pay.—(1) Subject to subsection (c) and paragraph (2) and und
 
 (c)
 
-Active-Duty Agreement.—(1) An officer may not be paid additional special pay under subsection (a)(4) or incentive special pay under subsection (b) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
+Active-Duty Agreement.—(1) An officer may not be paid additional special pay undersubsection (a)(4) or incentive special pay under subsection (b) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
 (2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by subsection (a)(4) or (b)(1). If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
 
@@ -228,7 +228,7 @@ Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
-<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
+<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, whichrequire the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–64 substituted "July 1, 1975" for "July 1, 1973" wherever appearing.
 

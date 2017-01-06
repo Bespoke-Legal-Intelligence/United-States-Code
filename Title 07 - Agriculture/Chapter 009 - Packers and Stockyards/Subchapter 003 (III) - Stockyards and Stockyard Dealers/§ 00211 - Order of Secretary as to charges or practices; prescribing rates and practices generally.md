@@ -18,5 +18,5 @@ Subsec. (b). Pub. L. 95–409, §1(b)(3), substituted "other than the rate or ch
 
 <b>1939</b>—Subsec. (a). Act Aug. 10, 1939, substituted "as both" for "or the".
 
-Subsec. (b)(2). Act Aug. 10, 1939, substituted "more or less than the rate or charge so prescribed" for "other than the rate or charge so prescribed, or in excess of the maximum or less than the minimum so prescribed, as the case may be".
+Subsec. (b)(2). Act Aug. 10, 1939, substituted "more or less than the rate or charge so prescribed" for "otherthan the rate or charge so prescribed, or in excess of the maximum or less than the minimum so prescribed, as the case may be".
 

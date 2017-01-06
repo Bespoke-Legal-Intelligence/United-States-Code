@@ -36,7 +36,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(A) the same drug in the same dosage form for the same intended use is not approved or conditionally approved;
 
-&emsp;(B) the proposed use of the drug meets the conditions of subparagraph (A) or (B) of subsection (a)(1) of this section, as appropriate;
+&emsp;(B) the proposed use of the drug meets the conditions of subparagraph (A) or (B) of subsection (a)(1), as appropriate;
 
 &emsp;(C) the person requesting the determination has established appropriate specifications for the manufacture and control of the new animal drug and has demonstrated an understanding of the requirements of current good manufacturing practices;
 
@@ -48,9 +48,9 @@ Any person intending to file a request under this section shall be entitled to o
 
 #### (d) Request for addition to index
 
-(1) With respect to a new animal drug for which the Secretary has made a determination of eligibility under subsection (c) of this section, the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a) of this section. The request for addition to the index shall include—
+(1) With respect to a new animal drug for which the Secretary has made a determination of eligibility under subsection (c), the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a). The request for addition to the index shall include—
 
-&emsp;(A) a copy of the Secretary's determination of eligibility issued under subsection (c) of this section;
+&emsp;(A) a copy of the Secretary's determination of eligibility issued under subsection (c);
 
 &emsp;(B) a written report that meets the requirements in subsection (d)(2) of this section;
 
@@ -90,11 +90,11 @@ Any person intending to file a request under this section shall be entitled to o
 
 > The Secretary shall define the criteria for selection of a qualified expert panel and the procedures for the operation of the panel by regulation.
 
-(4) Within 180 days after the receipt of a request for listing a new animal drug in the index, the Secretary shall grant or deny the request. The Secretary shall grant the request if the request for indexing continues to meet the eligibility criteria in subsection (a) of this section and the Secretary finds, on the basis of the report of the qualified expert panel and other information available to the Secretary, that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question. If the Secretary denies the request, the Secretary shall thereafter provide due notice and the opportunity for an informal conference. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
+(4) Within 180 days after the receipt of a request for listing a new animal drug in the index, the Secretary shall grant or deny the request. The Secretary shall grant the request if the request for indexing continues to meet the eligibility criteria in subsection (a) and the Secretary finds, on the basis of the report of the qualified expert panel and other information available to the Secretary, that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question. If the Secretary denies the request, the Secretary shall thereafter provide due notice and the opportunity for an informal conference. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
 
 #### (e) Index contents; publication
 
-(1) The index established under subsection (a) of this section shall include the following information for each listed drug—
+(1) The index established under subsection (a) shall include the following information for each listed drug—
 
 &emsp;(A) the name and address of the person who holds the index listing;
 
@@ -156,7 +156,7 @@ Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label u
 
 #### (i) Records and reports
 
-(1) In the case of any new animal drug for which an index listing pursuant to subsection (a) of this section is in effect, the person who has an index listing shall establish and maintain such records, and make such reports to the Secretary, of data relating to experience, and other data or information, received or otherwise obtained by such person with respect to such drug, or with respect to animal feeds bearing or containing such drug, as the Secretary may by general regulation, or by order with respect to such listing, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (f) of this section. Such regulation or order shall provide, where the Secretary deems it to be appropriate, for the examination, upon request, by the persons to whom such regulation or order is applicable, of similar information received or otherwise obtained by the Secretary.
+(1) In the case of any new animal drug for which an index listing pursuant to subsection (a) is in effect, the person who has an index listing shall establish and maintain such records, and make such reports to the Secretary, of data relating to experience, and other data or information, received or otherwise obtained by such person with respect to such drug, or with respect to animal feeds bearing or containing such drug, as the Secretary may by general regulation, or by order with respect to such listing, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (f). Such regulation or order shall provide, where the Secretary deems it to be appropriate, for the examination, upon request, by the persons to whom such regulation or order is applicable, of similar information received or otherwise obtained by the Secretary.
 
 (2) Every person required under this subsection to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
 
@@ -180,7 +180,7 @@ Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label u
 
 #### (k) Date of determination in the case of recommended controls under the CSA
 
-In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientificand medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
 (June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699.)
 

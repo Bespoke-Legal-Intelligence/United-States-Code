@@ -36,7 +36,7 @@ Except as provided in subsection (b), in no case may the Attorney General, or an
 
 (5) The Secretary of Homeland Security and the Attorney General are authorized to disclose information, to Federal, State, and local public and private agencies providing benefits, to be used solely in making determinations of eligibility for benefits pursuant to section 1641(c) of this title.
 
-(6) Subsection (a) may not be construed to prevent the Attorney General and the Secretary of Homeland Security from disclosing to the chairmen and ranking members of the Committee on the Judiciary of the Senate or the Committee on the Judiciary of the House of Representatives, for the exercise of congressional oversight authority, information on closed cases under this section in a manner that protects the confidentiality of such information and that omits personally identifying information (including locational information about individuals).
+(6) Subsection (a) may not be construed to prevent the Attorney General and the Secretary of Homeland Security from disclosing to the chairmen and ranking members of the Committee on the Judiciary of the Senate or the Committee onthe Judiciary of the House of Representatives, for the exercise of congressional oversight authority, information on closed cases under this section in a manner that protects the confidentiality of such information and that omits personally identifying information (including locational information about individuals).
 
 (7) Government entities adjudicating applications for relief under subsection (a)(2), and government personnel carrying out mandated duties under section 101(i)(1) of the Immigration and Nationality Act \[8 U.S.C. 1101(i)(1)\], may, with the prior written consent of the alien involved, communicate with nonprofit, nongovernmental victims' service providers for the sole purpose of assisting victims in obtaining victim services from programs with expertise working with immigrant victims. Agencies receiving referrals are bound by the provisions of this section. Nothing in this paragraph shall be construed as affecting the ability of an applicant to designate a safe organization through whom governmental agencies may communicate with the applicant.
 
@@ -94,7 +94,7 @@ Subsec. (a)(2). Pub. L. 106–386, §1513(d)(4), inserted "section 101(a)(15)(U)
 
 <b>1997</b>—Subsec. (b)(5). Pub. L. 105–33 added par. (5).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting "240A(a)(3)" for "244(a)(3)", was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting "240A(a)(3)" for"244(a)(3)", was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
 
 #### Effective Date of 1997 Amendment
 

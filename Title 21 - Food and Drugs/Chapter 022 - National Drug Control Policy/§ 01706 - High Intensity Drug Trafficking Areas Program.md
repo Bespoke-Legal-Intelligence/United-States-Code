@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury, the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area.
+&emsp;The Director, in consultation with the Attorney General, the Secretary of the Treasury, the Secretary of Homeland Security, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the UnitedStates as a high intensity drug trafficking area.
 
 #### (2) Activities
 
@@ -204,7 +204,7 @@ The Director, in consultation with the Attorney General, shall ensure that any d
 
 &emsp;&emsp;(A) the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
 
-&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized byHIDTA-funded initiatives in the area during the previous year; and
+&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized by HIDTA-funded initiatives in the area during the previous year; and
 
 &emsp;&emsp;(C) law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
 
@@ -306,7 +306,7 @@ Apportionment of Funds.—
 
 &emsp;"(1)
 
-Factors in apportionment.—The Director shall apportion amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (b) for activities under subsection (a) among and within areas designated by the Director ashigh intensity drug trafficking areas based on the following factors:
+Factors in apportionment.—The Director shall apportion amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (b) for activities under subsection (a) among and within areas designated by the Director as high intensity drug trafficking areas based on the following factors:
 
 &emsp;&emsp;"(A) The number of methamphetamine manufacturing facilities and amphetamine manufacturing facilities discovered by Federal, State, or local law enforcement officials in the previous fiscal year.
 

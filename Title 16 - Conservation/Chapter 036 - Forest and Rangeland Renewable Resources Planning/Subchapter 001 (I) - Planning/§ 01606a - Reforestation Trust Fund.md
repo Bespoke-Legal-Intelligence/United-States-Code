@@ -34,7 +34,7 @@ The Secretary of Agriculture is on and after December 19, 1985, authorized to ob
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Codification
 

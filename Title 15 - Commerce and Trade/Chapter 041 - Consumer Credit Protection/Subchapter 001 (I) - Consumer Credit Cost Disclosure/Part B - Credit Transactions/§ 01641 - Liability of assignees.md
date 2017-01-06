@@ -6,7 +6,7 @@ Except as otherwise specifically provided in this subchapter, any civil action f
 
 #### (b) Proof of compliance with statutory provisions
 
-Except as provided in section 1635(c) of this title, in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
+Except as provided in section 1635(c) of this title, in any action or proceeding by or againstany subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
 
 #### (c) Right of rescission by consumer unaffected
 
@@ -78,7 +78,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;In addition to other disclosures required by this subchapter, not later than 30 days afterthe date on which a mortgage loan is sold or otherwise transferred or assigned to a third party, the creditor that is the new owner or assignee of the debt shall notify the borrower in writing of such transfer, including—
+&emsp;In addition to other disclosures required by this subchapter, not later than 30 days after the date on which a mortgage loan is sold or otherwise transferred or assigned to a third party, the creditor that is the new owner or assignee of the debt shall notify the borrower in writing of such transfer, including—
 
 &emsp;&emsp;(A) the identity, address, telephone number of the new creditor;
 

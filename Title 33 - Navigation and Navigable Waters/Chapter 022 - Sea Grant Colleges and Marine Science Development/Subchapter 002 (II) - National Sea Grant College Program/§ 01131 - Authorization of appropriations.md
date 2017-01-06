@@ -42,11 +42,11 @@
 
 #### (2) Use for other offices or programs
 
-&emsp;Sums appropriated under the authority of subsection (a)(2) of this section shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
+&emsp;Sums appropriated under the authority of subsection (a)(2) shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
 
 #### (c) Distribution of funds
 
-In any fiscal year in which the appropriations made under subsection (a)(1) of this section exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
+In any fiscal year in which the appropriations made under subsection (a)(1) exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
 
 &emsp;(1) sea grant programs, according to their performance assessments;
 

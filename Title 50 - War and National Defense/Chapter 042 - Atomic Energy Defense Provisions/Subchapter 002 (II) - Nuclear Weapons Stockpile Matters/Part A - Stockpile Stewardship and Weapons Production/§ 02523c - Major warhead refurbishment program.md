@@ -18,7 +18,7 @@ In fiscal year 2015 and subsequent fiscal years, the Secretary of Energy shall s
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act,2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Atomic Energy Defense Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "10 U.S.C. 101(a)(16)".</i>
 

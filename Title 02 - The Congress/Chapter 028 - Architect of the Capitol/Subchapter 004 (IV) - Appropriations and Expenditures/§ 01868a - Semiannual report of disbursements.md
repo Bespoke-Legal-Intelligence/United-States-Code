@@ -14,7 +14,7 @@ The report required by subsection (a) shall include—
 
 &emsp;(3) a description of any service rendered to the Office of the Architect of the Capitol, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
 
-&emsp;(4) a statement of all amounts appropriated to, or received or expended by, the Office of the Architect of the Capitol and any unexpended balances of such amounts;
+&emsp;(4) a statement of all amounts appropriated to, or received or expended by, the Office ofthe Architect of the Capitol and any unexpended balances of such amounts;
 
 &emsp;(5) the information submitted to the Comptroller General under section 3523(b) of title 31; and
 

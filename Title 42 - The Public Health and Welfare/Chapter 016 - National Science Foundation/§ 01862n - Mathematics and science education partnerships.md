@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(H) developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
 
-&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
+&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) <sup>1</sup> of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
@@ -212,11 +212,7 @@
 
 &emsp;The Director, in consultation with the Secretary of Education, shall convene an annual meeting of the partnerships participating under this section to foster greater national collaboration.
 
-#### (4) Report on coordination
-
-&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President's annual budget request.
-
-#### (5) Technical assistance
+#### (4) Technical assistance
 
 &emsp;At the request of an eligible partnership or a State educational agency, the Director shall provide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
 
@@ -232,11 +228,13 @@ In this section—
 
 &emsp;(2) the term "science", in the context of elementary and secondary education, includes technology and pre-engineering.
 
-(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186.)
+(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L. 114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
 
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(10)(A)(iii)(I), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to "highly qualified", as defined in section 9101of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of Title 20, Education.
+Section 9813 of title 20, referred to in subsec. (a)(3)(I), was repealed by Pub. L. 114–329, title II, §205(b), Jan. 6, 2017, 130 Stat. 3001.
+
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(10)(A)(iii)(I), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to "highly qualified", as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of Title 20, Education.
 
 Section 1114(a)(1)(A), referred to in subsec. (a)(10)(A)(iii)(III), probably means section 1114(a)(1)(A) of the Elementary and Secondary Education Act of 1965, which is classified to section 6314(a)(1)(A) of Title 20, Education.
 
@@ -247,6 +245,8 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2017</b>—Subsec. (c)(4), (5). Pub. L. 114–329 redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President's annual budget request."
 
 <b>2015</b>—Subsec. (a)(10)(A)(iii)(III). Pub. L. 114–95, §9215(ggg)(2)(A), which directed substitution of "(as described in section 1114(a)(1)(A))" for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6314(a)(1))" was executed by making the substitution for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)" to reflect the probable intent of Congress.
 
@@ -306,7 +306,7 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress 
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 
-Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to addressand examine specified issues concerning the National Science Foundation's budgetary and programmatic growth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
+Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation's budgetary and programmatic growth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
 
 #### Definitions
 
@@ -382,7 +382,7 @@ National research facility.—The term 'national research facility' means a rese
 
 &emsp;"(13)
 
-Secondary school.—The term 'secondary school' has the meaning given that term by section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
+Secondary school.—The term 'secondary school' has the meaning given that term by section8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(14)
 

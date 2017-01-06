@@ -56,7 +56,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;&emsp;&emsp;(i) that the examinee cannot be required to take the test as a condition of employment,
 
-&emsp;&emsp;&emsp;(ii) that any statement made during the test may constitute additional supporting evidence for the purposes of an adverse employment action described in subsection (a) of this section,
+&emsp;&emsp;&emsp;(ii) that any statement made during the test may constitute additional supporting evidence for the purposes of an adverse employment action described in subsection (a),
 
 &emsp;&emsp;&emsp;(iii) of the limitations imposed under this section,
 

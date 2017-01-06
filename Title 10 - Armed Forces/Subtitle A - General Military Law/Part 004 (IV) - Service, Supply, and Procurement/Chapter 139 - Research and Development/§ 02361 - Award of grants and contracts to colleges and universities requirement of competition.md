@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
 "(1) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report on the use of competitive procedures for the award of research and development contracts, and the award of construction contracts, to colleges and universities. Each such report shall include—
 
-&emsp;"(A) a list of each college and university that, during the period covered by the report, received more than $1,000,000 in such contracts through the use of procedures other than competitive procedures; and
+&emsp;"(A) a list of each college and university that, during the period covered by the report, received morethan $1,000,000 in such contracts through the use of procedures other than competitive procedures; and
 
 &emsp;"(B) the cumulative amount of such contracts received during that period by each such college and university.
 

@@ -72,7 +72,7 @@ Treatment of Possessions.—
 
 &emsp;"(1)
 
-Payments to mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of credits allowed under subsection (a) with respect to taxable years beginning in 2009. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+Payments to mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession byreason of credits allowed under subsection (a) with respect to taxable years beginning in 2009. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 &emsp;"(2)
 

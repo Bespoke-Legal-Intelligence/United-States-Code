@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;In conducting and supporting research and development activities regarding countermeasures under section 247d–6(h) of this title, the Secretary may conduct and support such activities in accordance with this section and, in consultation with the Director of the National Institutes of Health, as part of the program under section 285f of this title, if the activities concern qualified countermeasures.
+&emsp;In conducting and supporting research and development activities regarding countermeasures under section 247d–6(h) of this title, the Secretary may conduct and support such activities in accordance with this section and,in consultation with the Director of the National Institutes of Health, as part of the program under section 285f of this title, if the activities concern qualified countermeasures.
 
 #### (2) Definitions
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
+&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section 3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
 
 &emsp;&emsp;&emsp;(i) section 3305(a)(1) of title 41 and its implementing regulations; and
 
@@ -78,7 +78,7 @@
 
 #### (D) Authority to limit competition
 
-&emsp;&emsp;In conducting a procurement under this paragraph, the Secretary may not use the authority provided for under subparagraph (A) to conduct a procurement on a basis other than full and open competition unless the Secretary determines that the mission of the BioShield Program under the Project BioShield Act of 2004 would be seriously impaired without such a limitation.
+&emsp;&emsp;In conducting a procurement under this paragraph, the Secretary may not use the authority provided for under subparagraph\(A) to conduct a procurement on a basis other than full and open competition unless the Secretary determines that the mission of the BioShield Program under the Project BioShield Act of 2004 would be seriously impaired without such a limitation.
 
 #### (2) Procedures other than full and open competition
 
@@ -112,7 +112,7 @@
 
 #### (A) Review allowed
 
-&emsp;&emsp;Notwithstanding subsection (f) of this section, section 1491 of title 28, and section 3556 of title 31, review of a contracting agency decision relating to a procurement described in paragraph (1) may be had only by filing a protest—
+&emsp;&emsp;Notwithstanding subsection (f), section 1491 of title 28, and section 3556 of title 31, review of a contracting agency decision relating to a procurement described in paragraph (1) may be had only by filing a protest—
 
 &emsp;&emsp;&emsp;(i) with a contracting agency; or
 
@@ -144,7 +144,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of performing, administering, or supporting qualified countermeasure research and development activities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, obtain by contract (in accordance with section 3109 of title 5, but without regard to the limitations in such section on the period of service and on pay) the personal services of experts or consultants who have scientific or other professional qualifications, except that in no case shall the compensation provided to any such expert or consultant exceed the daily equivalent of the annual rate of compensation for the President.
+&emsp;For the purpose of performing, administering, or supporting qualified countermeasure research and development activities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, obtain by contract (in accordance with section 3109 of title 5, but without regard to the limitations in such sectionon the period of service and on pay) the personal services of experts or consultants who have scientific or other professional qualifications, except that in no case shall the compensation provided to any such expert or consultant exceed the daily equivalent of the annual rate of compensation for the President.
 
 #### (2) Federal Tort Claims Act coverage
 
@@ -184,7 +184,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any other personnel authorities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, without regard to those provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, appoint professional and technical employees, not to exceed 30 such employees at any time, to positions in the National Institutes of Health to perform, administer, or support qualified countermeasure research and development activities in carrying out this section.
+&emsp;In addition to any other personnel authorities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, without regard to those provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, appoint professional and technical employees, not to exceed 30 such employees at any time, to positions in the National Institutes of Health to perform, administer, or support qualified countermeasure research and development activities in carrying out this section.
 
 #### (2) Limitations
 
@@ -208,7 +208,7 @@
 
 Actions by the Secretary under the authority of this section are committed to agency discretion.
 
-(July 1, 1944, ch. 373, title III, §319F–1, as added Pub. L. 108–276, §2(a), July 21, 2004, 118 Stat. 835; amended Pub. L. 109–417, title IV, §403(a), Dec. 19, 2006, 120 Stat. 2874; Pub. L. 113–5, title IV, §402(g)(1), Mar. 13, 2013, 127 Stat. 195.)
+(July 1, 1944, ch. 373, title III, §319F–1, as added Pub. L. 108–276, §2(a), July 21, 2004, 118 Stat. 835; amended Pub. L. 109–417, title IV, §403(a), Dec.19, 2006, 120 Stat. 2874; Pub. L. 113–5, title IV, §402(g)(1), Mar. 13, 2013, 127 Stat. 195.)
 
 #### References in Text
 
@@ -248,7 +248,7 @@ In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41
 
 #### Rule of Construction
 
-Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: "Nothing in this section \[enacting this section and amending sections 247d–6, 287a–2, and 300aa–6of this title\] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 \[6 U.S.C. 182(2), (4), 184(a), (b)\]."
+Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: "Nothing in this section \[enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title\] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 \[6 U.S.C. 182(2), (4), 184(a), (b)\]."
 
 #### Collaboration and Coordination
 

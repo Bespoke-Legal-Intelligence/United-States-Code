@@ -20,7 +20,7 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 &emsp;&emsp;(D) other matters that affect the educational, economic, social, physical, or cultural welfare of Vietnam-era veterans, other veterans, and their families;
 
-&emsp;(6) to assist disabled Vietnam-era veterans and other veterans in need of assistance and the dependents and survivors of those veterans; and
+&emsp;(6) to assist disabled Vietnam-era veterans and other veterans in need of assistance andthe dependents and survivors of those veterans; and
 
 &emsp;(7) to consecrate the efforts of the members of the corporation, and Vietnam-era veterans generally, to mutual helpfulness and service to their country.
 

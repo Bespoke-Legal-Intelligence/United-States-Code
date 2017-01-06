@@ -4,7 +4,7 @@
 
 #### (1) Required
 
-&emsp;Each eligible agency shall use funds made available under section 3302(a)(2) of this title for the following adult education and literacy activities to develop or enhance the adult education system of the State or outlying area:
+&emsp;Each eligible agency shall use funds made available under section 3302(a)(2) of this title for the following adult education and literacyactivities to develop or enhance the adult education system of the State or outlying area:
 
 &emsp;&emsp;(A) The alignment of adult education and literacy activities with other core programs and one-stop partners, including eligible providers, to implement the strategy identified in the unified State plan under section 3112 of this title or the combined State plan under section 3113 of this title, including the development of career pathways to provide access to employment and training services for individuals in adult education and literacy activities.
 
@@ -70,7 +70,7 @@ In carrying out this section, eligible agencies shall collaborate where possible
 
 #### (c) State-imposed requirements
 
-Whenever a State or outlying area implements any rule or policy relating to the administration or operation of a program authorized under this subchapter that has the effect of imposing a requirement that is not imposed under Federal law (including any rule or policy based on a State or outlying area interpretation of a Federal statute, regulation, or guideline), the State or outlying area shall identify, to eligible providers, the rule or policy as being imposed by the State or outlying area.
+Whenever a State or outlying area implements any rule or policy relating to the administrationor operation of a program authorized under this subchapter that has the effect of imposing a requirement that is not imposed under Federal law (including any rule or policy based on a State or outlying area interpretation of a Federal statute, regulation, or guideline), the State or outlying area shall identify, to eligible providers, the rule or policy as being imposed by the State or outlying area.
 
 (Pub. L. 113–128, title II, §223, July 22, 2014, 128 Stat. 1615.)
 

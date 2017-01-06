@@ -6,7 +6,7 @@ Blood Alcohol Concentration Level.—In this section, the blood alcohol concentr
 
 (b)
 
-First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualify from operating a commercial motor vehicle for at least one year an individual—
+First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualifyfrom operating a commercial motor vehicle for at least one year an individual—
 
 &emsp;(A) committing a first violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 

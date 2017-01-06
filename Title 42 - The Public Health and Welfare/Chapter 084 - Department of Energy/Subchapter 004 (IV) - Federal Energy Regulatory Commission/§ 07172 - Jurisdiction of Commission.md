@@ -26,7 +26,7 @@
 
 #### (c) Consideration of proposals made by Secretary to amend regulations issued under section 753 of title 15; exception
 
-(1) Pursuant to the procedures specified in section 7174 of this title and except as provided in paragraph (2), the Commission shall have jurisdiction to consider any proposal by the Secretary to amend the regulation required to be issued under section 753(a) <sup>1</sup> of title 15 which is required by section 757 or 760a <sup>1</sup> of title 15 to be transmitted by the President to, and reviewed by, each House of Congress, under section 6421 of this title.
+(1) Pursuant to the procedures specified in section 7174 of this title and except as provided inparagraph (2), the Commission shall have jurisdiction to consider any proposal by the Secretary to amend the regulation required to be issued under section 753(a) <sup>1</sup> of title 15 which is required by section 757 or 760a <sup>1</sup> of title 15 to be transmitted by the President to, and reviewed by, each House of Congress, under section 6421 of this title.
 
 (2) In the event that the President determines that an emergency situation of overriding national importance exists and requires the expeditious promulgation of a rule described in paragraph (1), the President may direct the Secretary to assume sole jurisdiction over the promulgation of such rule, and such rule shall be transmitted by the President to, and reviewed by, each House of Congress under section 757 or 760a <sup>1</sup> of title 15, and section 6421 of this title.
 
@@ -60,7 +60,7 @@ The Commission is authorized to prescribe rules, regulations, and statements of 
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
@@ -160,7 +160,7 @@ Changed Circumstances.—No person may file a complaint under section 13 of the 
 
 "(c)
 
-Limitation Regarding Unduly Discriminatory or Preferential Tariffs.—Nothing in this sectionshall prohibit any aggrieved person from filing a complaint under section 13 or section 15(l) of the Interstate Commerce Act \[former 49 U.S.C. 13, 15(1)\] challenging any tariff provision as unduly discriminatory or unduly preferential.
+Limitation Regarding Unduly Discriminatory or Preferential Tariffs.—Nothing in this section shall prohibit any aggrieved person from filing a complaint under section 13 or section 15(l) of the Interstate Commerce Act \[former 49 U.S.C. 13, 15(1)\] challenging any tariff provision as unduly discriminatory or unduly preferential.
 
 #### "SEC. 1804. DEFINITIONS.
 

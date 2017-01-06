@@ -28,7 +28,7 @@ The Secretary of the Interior shall commence further petroleum exploration of th
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Note set out under section 6501 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval PetroleumReserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Note set out under section 6501 of this title and Tables.
 
 #### Amendments
 

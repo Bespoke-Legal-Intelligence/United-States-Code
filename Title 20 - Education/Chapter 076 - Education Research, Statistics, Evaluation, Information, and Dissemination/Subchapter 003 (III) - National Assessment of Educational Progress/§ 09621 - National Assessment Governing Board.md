@@ -58,7 +58,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (3) Change of status
 
-&emsp;A member of the Assessment Board who changes status under subsection (b) of this section during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
+&emsp;A member of the Assessment Board who changes status under subsection (b) during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
 
 #### (4) Conforming provision
 
@@ -70,7 +70,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (A) Organizations
 
-&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
+&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) with respect to which the vacancy exists.
 
 #### (B) Nominations
 
@@ -78,7 +78,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (C) Maintenance of Assessment Board
 
-&emsp;&emsp;The Secretary's appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b) of this section.
+&emsp;&emsp;The Secretary's appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b).
 
 #### (2) Additional nominations
 
@@ -106,7 +106,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(H) develop standards and procedures for regional and national comparisons;
 
-&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9622 of this title consistent with the provisions of this section and section 9622 of this title; and
+&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9622 of this title consistent with theprovisions of this section and section 9622 of this title; and
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 
@@ -178,7 +178,7 @@ A prior section 302 of Pub. L. 107–279 was renumbered section 304 and is class
 
 <b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
-Subsec. (a). Pub. L. 107–279, §401(c)(1), substituted "referred to as the 'Assessment Board' " for "referredto as the 'Board' " and inserted "(carried out under section 9622 of this title)" after "for the National Assessment".
+Subsec. (a). Pub. L. 107–279, §401(c)(1), substituted "referred to as the 'Assessment Board' " for "referred to as the 'Board' " and inserted "(carried out under section 9622 of this title)" after "for the National Assessment".
 
 Subsec. (b)(1). Pub. L. 107–279, §401(c)(2), substituted "Assessment Board" for "Board" in introductory provisions.
 
@@ -230,5 +230,5 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Short Title
 
-This subchapter known as the "National Assessment of Educational Progress Authorization Act", see Short Title note set out under section 9501 of this title.
+This subchapter is known as the "National Assessment of Educational Progress Authorization Act", see Short Title note set out under section 9501 of this title.
 

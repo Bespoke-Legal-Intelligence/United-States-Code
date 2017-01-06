@@ -110,7 +110,7 @@ As used in this section:
 
 &emsp;&emsp;(iii) a local organization sponsored by an elementary or secondary school, a recreational organization, an entertainment organization, a local sports activity group, or a social club.
 
-&emsp;(C) For the purpose of subsection (a) of this section only, such term does not include an organization or entity that provides an educational program if such organization or entity—
+&emsp;(C) For the purpose of subsection (a) only, such term does not include an organization or entity that provides an educational program if such organization or entity—
 
 &emsp;&emsp;(i) recruits, for participation in such program, solely through a local school official; and
 

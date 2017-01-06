@@ -15,3 +15,4 @@
 - [Part H - Requirement Relating to the Rights of Residents of Certain Facilities](Part%20H%20-%20Requirement%20Relating%20to%20the%20Rights%20of%20Residents%20of%20Certain%20Facilities/README.md)
 - [Part I - Requirement Relating to the Rights of Residents of Certain Non-Medical, Community-Based Facilities for Children and Youth](Part%20I%20-%20Requirement%20Relating%20to%20the%20Rights%20of%20Residents%20of%20Certain%20Non-Medical%2C%20Community-Based%20Facilities%20for%20Children%20and%20Youth/README.md)
 - [Part J - Services Provided Through Religious Organizations](Part%20J%20-%20Services%20Provided%20Through%20Religious%20Organizations/README.md)
+- [Part K - Minority Fellowship Program](Part%20K%20-%20Minority%20Fellowship%20Program/README.md)

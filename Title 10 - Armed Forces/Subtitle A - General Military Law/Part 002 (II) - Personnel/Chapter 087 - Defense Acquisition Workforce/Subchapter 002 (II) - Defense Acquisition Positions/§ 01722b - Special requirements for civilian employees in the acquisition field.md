@@ -20,7 +20,7 @@ Objectives.—Policies established and guidance issued pursuant to subsection (a
 
 (c)
 
-Inclusion of Information in Annual Report.—The Secretary of Defense shall include in the report to Congress required under section 115b(d) of this title the following information related to the acquisition workforce for the period covered by the report (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, Marine Corps, Defense Agencies, and Office of the Secretary of Defense):
+Inclusion of Information in Annual Report.—The Secretary of Defense shall include in the report to Congress required under section 115b(d) <sup>1</sup> of this title the following information related to the acquisition workforce for the period covered by the report (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, Marine Corps, Defense Agencies, and Office of the Secretary of Defense):
 
 &emsp;(1) The total number of persons serving in the Acquisition Corps, set forth separately for members of the armed forces and civilian employees, by grade level and by functional specialty.
 
@@ -32,9 +32,15 @@ Inclusion of Information in Annual Report.—The Secretary of Defense shall incl
 
 (Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302; amended Pub. L. 112–239, div. A, title X, §1076(d)(1), Jan. 2, 2013, 126 Stat. 1951.)
 
+#### References in Text
+
+Section 115b of this title, referred to in subsec. (c), was repealed by Pub. L. 114–328, div. A, title XI, §1102(a), Dec. 23, 2016, 130 Stat. 2444.
+
 #### Amendments
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §1076(d)(1)(A), substituted "subsections (b)(1)(A) and (b)(1)(B)" for "subsections (b)(2)(A) and (b)(2)(B)".
 
 Subsec. (c)(4). Pub. L. 112–239, §1076(d)(1)(B), substituted "or 1734(d)" for "1734(d), or 1736(c)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

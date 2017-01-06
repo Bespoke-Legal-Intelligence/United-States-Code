@@ -18,7 +18,7 @@ The Capitol Visitor Center shall be used—
 
 #### (1) Oversight
 
-&emsp;The Committee on Rules and Administration of the Senate and the Committee onHouse Administration of the House of Representatives shall have oversight of the Capitol Visitor Center.
+&emsp;The Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives shall have oversight of the Capitol Visitor Center.
 
 #### (2) Treatment of expansion space of the Senate and House of Representatives in the Capitol Visitor Center
 
@@ -86,7 +86,7 @@ The Capitol Visitor Center shall be used—
 
 #### (4) Substitution of historical object
 
-&emsp;A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of an historical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
+&emsp;A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of anhistorical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
 
 (Pub. L. 110–437, title I, §101, Oct. 20, 2008, 122 Stat. 4984.)
 

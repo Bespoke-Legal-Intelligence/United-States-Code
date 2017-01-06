@@ -54,7 +54,7 @@ Pub. L. 108–176, title III, §322, Dec. 12, 2003, 117 Stat. 2540, provided tha
 
 "(a)
 
-Noise Disclosure System Implementation Study.—The Administrator of the Federal Aviation Administration shall conduct a study to determine the feasibility of developing a program under which prospective home buyers of property located in the vicinity of an airport could be notified of information derived from noise exposure maps that may affect the use and enjoyment of the property. The study shall assess the scope, administration, usefulness, and burdensomeness of any such program, the costs and benefits of such a program, and whether participation in such a program should be voluntary or mandatory.
+Noise Disclosure System Implementation Study.—The Administrator of the Federal Aviation Administration shall conduct a study to determine the feasibility of developing a program under which prospective home buyers of property located in the vicinity of an airport could be notified of information derived from noise exposure maps that may affect the use and enjoyment of the property. The study shall assessthe scope, administration, usefulness, and burdensomeness of any such program, the costs and benefits of such a program, and whether participation in such a program should be voluntary or mandatory.
 
 "(b)
 

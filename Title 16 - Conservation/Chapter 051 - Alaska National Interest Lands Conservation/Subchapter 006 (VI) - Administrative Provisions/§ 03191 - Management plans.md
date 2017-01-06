@@ -20,7 +20,7 @@ Each plan for a unit established, redesignated, or expanded by subchapter LIX–
 
 &emsp;(6) A plan for acquiring land with respect to such unit, including proposed modifications in the boundaries of such unit.
 
-&emsp;(7) A description (A) of privately owned areas, if any, which are within such unit, (B) of activities carried out in, or proposed for, such areas, (C) of the present and potential effects of such activities on such unit, (D) of the purposes for which such areas are used, and (E)of methods (such as cooperative agreements and issuance or enforcement of regulations) of controlling the use of such activities to carry out the policies of this Act and the purposes for which such unit is established or expanded.
+&emsp;(7) A description (A) of privately owned areas, if any, which are within such unit, (B) of activities carried out in, or proposed for, such areas, (C) of the present and potential effects of such activities on such unit, (D) of the purposes for which such areas are used, and (E) of methods (such as cooperative agreements and issuance or enforcement of regulations) of controlling the use of such activities to carry out the policies of this Act and the purposes for which such unit is established or expanded.
 
 &emsp;(8) A plan indicating the relationship between the management of such unit and activities being carried out in, or proposed for, surrounding areas and also indicating cooperative agreements which could and should be entered into for the purpose of improving such management.
 

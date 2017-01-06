@@ -166,7 +166,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(B) For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
 
-&emsp;(C) For purposes of subparagraph (B), the term "controlled group" has the meaning given such term by section 831(b)(2)(B)(ii), except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
+&emsp;(C) For purposes of subparagraph (B), the term "controlled group" has the meaning given such term by section 831(b)(2)(B)(ii),<sup>1</sup> except that in applying section 831(b)(2)(B)(ii) <sup>1</sup> for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
 
 &emsp;(16) Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shall not be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
 
@@ -950,6 +950,8 @@ Sections 306A and 306B of the Rural Electrification Act of 1936, referred to in 
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(12)(H)(vii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
+Section 831(b)(2)(B)(ii), referred to in subsec. (c)(15)(C), was redesignated section 831(b)(2)(C)(ii) by Pub. L. 114–113, div. Q, title III, §333(a)(1)(B), Dec. 18, 2015, 129 Stat. 3106.
+
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (c)(21)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, Nov. 9, 1977, 91 Stat. 1290. Part C of title IV of the Act is classified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
 Section 4223 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(22)(A)(i), (C), (D), is classified to section 1403 of Title 29, Labor.
@@ -974,7 +976,7 @@ Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs.
 
 Sections 212(a)(3)(B) and 219 of the Immigration and Nationality Act, referred to in subsec. (p)(2)(A), (C)(i), are classified to sections 1182(a)(3)(B) and 1189, respectively, of Title 8, Aliens and Nationality.
 
-The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L.95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 5 of the United Nations Participation Act of 1945, referred to in subsec. (p)(2)(B), is classified to section 287c of Title 22, Foreign Relations and Intercourse.
 
@@ -1264,7 +1266,7 @@ Transition rule for existing organizations.—In the case of any organization de
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\]."
+Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: "The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -1356,7 +1358,7 @@ Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 
 
 Amendment by section 1012(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1012(c) of Pub. L. 99–514, set out as an Effective Date note under section 833 of this title.
 
-Amendment by section 1024(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 Amendment by section 1109(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1109(c) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
@@ -1442,7 +1444,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Notice requirement.—For purposes of \[former\] section 120(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the time prescribed by the Secretary of the Treasury by regulations for giving the notice required by section 120(c)(4) of such Code shall not expire before the 90th day after the day on which regulations prescribed under such section 120(c)(4) first become final.
+Notice requirement.—For purposes of \[former\] section 120(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the time prescribed by the Secretary of the Treasury by regulations for giving the notice required by section 120(c)(4) of such Code shall notexpire before the 90th day after the day on which regulations prescribed under such section 120(c)(4) first become final.
 
 "(3)
 
@@ -1618,7 +1620,7 @@ In General.—For purposes of the Internal Revenue Code of 1986, an organization
 
 "(b)
 
-Qualified Organizations.—For purposes of this section, the term 'qualified organization' has the same meaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
+Qualified Organizations.—For purposes of this section, the term 'qualified organization' has the samemeaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
 
 "(c)
 
@@ -1626,7 +1628,7 @@ Treatment of Investment in a Technology Transfer Service Organization.—
 
 &emsp;"(1)
 
-In general.—A qualified investment made by a private foundation in an organization described insubparagraph (C) shall be treated as an investment described in section 4944(c) of the Internal Revenue Code of 1986 and shall not result in imposition of taxes under section 4941, 4943, 4944, 4945, or 507(c) of such Code.
+In general.—A qualified investment made by a private foundation in an organization described in subparagraph (C) shall be treated as an investment described in section 4944(c) of the Internal Revenue Code of 1986 and shall not result in imposition of taxes under section 4941, 4943, 4944, 4945, or 507(c) of such Code.
 
 &emsp;"(2)
 

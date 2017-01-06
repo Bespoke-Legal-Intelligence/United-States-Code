@@ -6,7 +6,7 @@ In this section, the term "Federal costs" does not include any Federal costs inc
 
 #### (b) Election
 
-Subject to subsection (d), a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this sectionas a "Program"), statewide or in a political subdivision of the State, in accordance with this section.
+Subject to subsection (d), a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a "Program"), statewide or in a political subdivision of the State, in accordance with this section.
 
 #### (c) Operation of Program
 
@@ -94,7 +94,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 &emsp;&emsp;(E) paragraphs (8), (12), (15), (17), (18), (22), and (23) of section 2020(e) of this title;
 
-&emsp;&emsp;(F) section 2020(e)(10) of this title (or a comparable requirement established by the State under a State program funded underpart A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)); and
+&emsp;&emsp;(F) section 2020(e)(10) of this title (or a comparable requirement established by the State under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)); and
 
 &emsp;&emsp;(G) section 2025 of this title.
 

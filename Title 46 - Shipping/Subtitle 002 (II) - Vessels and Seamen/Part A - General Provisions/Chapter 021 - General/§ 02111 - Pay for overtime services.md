@@ -10,7 +10,7 @@
 
 &emsp;(4) the documentation of vessels.
 
-(b) Except for Sundays and holidays, the overtime rate provided under subsection (a) of this section is one-half day's additional pay for each 2 hours of overtime (or part of 2 hours of at least one hour). The total extra pay may be not more than 2 and one-half days' pay for any one period from 5 p.m. to 8 a.m.
+(b) Except for Sundays and holidays, the overtime rate provided under subsection (a) of this section is one-half day's additional pay for each2 hours of overtime (or part of 2 hours of at least one hour). The total extra pay may be not more than 2 and one-half days' pay for any one period from 5 p.m. to 8 a.m.
 
 (c) The overtime rate provided under subsection (a) of this section for Sundays and holidays is 2 additional days' pay.
 

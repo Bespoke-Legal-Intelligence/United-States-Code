@@ -264,7 +264,7 @@ Lower basin.—The term 'Lower Basin' has the same meaning given the term in Art
 
 &emsp;"(17)
 
-Nation.—The term 'Nation' means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) \[102(2)\] of the Federally Recognized Indian Tribe List \[Act\] of 1994 (25 U.S.C. 497a(2) \[479a(2)\]), also known variously as the 'Navajo Tribe,' the 'Navajo Tribe of Arizona, New Mexico \& Utah,' and the 'Navajo Tribe of Indians' and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation.
+Nation.—The term 'Nation' means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) \[102(2)\] of the Federally Recognized Indian Tribe List \[Act\] of 1994 (25 U.S.C. 497a(2)) \[now 25 U.S.C. 5130(2)\], also known variously as the 'Navajo Tribe,' the 'Navajo Tribe of Arizona, New Mexico \& Utah,' and the 'Navajo Tribe of Indians' and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation.
 
 &emsp;"(18)
 
@@ -310,7 +310,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior, acting th
 
 &emsp;"(27)
 
-Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, NewMexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, etal., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river).
 
 &emsp;"(28)
 

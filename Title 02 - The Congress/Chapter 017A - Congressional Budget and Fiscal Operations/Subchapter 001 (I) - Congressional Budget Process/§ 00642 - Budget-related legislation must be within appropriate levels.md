@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(3), social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess andsocial security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
+&emsp;For purposes of subsection (a)(3), social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess and social security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
 
 #### (2) Tax treatment
 

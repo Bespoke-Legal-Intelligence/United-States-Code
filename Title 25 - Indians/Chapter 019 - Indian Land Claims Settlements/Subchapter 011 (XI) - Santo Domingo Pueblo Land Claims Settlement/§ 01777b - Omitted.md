@@ -1,0 +1,6 @@
+### §1777b. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–425, §4, Nov. 1, 2000, 114 Stat. 1892, which approved and ratified the Settlement Agreement, was omitted from the Code as being of special and not general application.
+

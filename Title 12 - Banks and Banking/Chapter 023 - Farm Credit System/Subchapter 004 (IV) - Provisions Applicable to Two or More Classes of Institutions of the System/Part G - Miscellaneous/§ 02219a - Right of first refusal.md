@@ -58,7 +58,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (3) Mandatory lease
 
-&emsp;An institution of the System receiving an offer from the previous owner to lease the property at a rate equivalent to the appraised rental value of the property shall, within 15 days after the receipt of such offer, accept such offer and lease the property to the previous owner unless the institution determines that the previous owner—
+&emsp;An institution of the System receiving an offer from the previous owner to lease theproperty at a rate equivalent to the appraised rental value of the property shall, within 15 days after the receipt of such offer, accept such offer and lease the property to the previous owner unless the institution determines that the previous owner—
 
 &emsp;&emsp;(A) does not have the resources available to conduct a successful farming or ranching operation; or
 

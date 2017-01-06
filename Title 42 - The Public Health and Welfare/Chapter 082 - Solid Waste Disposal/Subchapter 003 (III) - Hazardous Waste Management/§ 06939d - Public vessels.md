@@ -24,7 +24,7 @@ For purposes of this section:
 
 &emsp;(1) The term "public vessel" means a vessel owned or bareboat chartered and operated by the United States, or by a foreign nation, except when the vessel is engaged in commerce.
 
-&emsp;(2) The terms "in reserve" and "in service" have the meanings applicable to those terms under section 7293 and sections 7304 through 7308 of title 10 and regulations prescribed under those sections.
+&emsp;(2) The terms "in reserve" and "in service" have the meanings applicable to those termsunder section 7293 and sections 7304 through 7308 of title 10 and regulations prescribed under those sections.
 
 #### (d) Relationship to other law
 

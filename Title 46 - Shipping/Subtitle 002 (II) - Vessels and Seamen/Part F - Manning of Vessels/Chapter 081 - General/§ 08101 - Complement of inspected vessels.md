@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) in written form transmitted within 12 hours after the vessel arrives at its next port.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 547; Pub. L. 98–557, §29(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–640, §11(b), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 101–380, title IV, §§4104, 4114(c), 4302(e), Aug. 18,1990, 104 Stat. 511, 517, 538; Pub. L. 104–324, title VII, §725, Oct. 19, 1996, 110 Stat. 3939.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 547; Pub. L. 98–557, §29(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–640, §11(b), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 101–380, title IV, §§4104, 4114(c), 4302(e), Aug. 18, 1990, 104 Stat. 511, 517, 538; Pub. L. 104–324, title VII, §725, Oct. 19, 1996, 110 Stat. 3939.)
 
 Historical and Revision Notes
 

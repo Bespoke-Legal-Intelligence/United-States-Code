@@ -34,7 +34,7 @@ Coordination.—In carrying out the program, the Secretary shall coordinate, as 
 
 Information Assurance Test Bed.—The Secretary shall develop an information assurance test bed within the Department of Defense to provide—
 
-&emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations, war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
+&emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations,war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
 
 &emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
@@ -71,6 +71,310 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
+
+#### Requirement To Enter Into Agreements Relating to Use of Cyber Opposition Forces
+
+Pub. L. 114–328, div. A, title XVI, §1644, Dec. 23, 2016, 130 Stat. 2602, provided that:
+
+"(a)
+
+Requirement for Agreements.—Not later than September 30, 2017, the Secretary of Defense shall ensure that each commander of a combatant command establishes appropriate agreements with the Secretary relating to the use of cyber opposition forces. Each agreement shall require the command—
+
+&emsp;"(1) to support a high state of mission readiness in the command through the use of one or more cyber opposition forces in continuous exercises and other training activities as considered appropriate by the commander of the command; and
+
+&emsp;"(2) in conducting such exercises and training activities, \[to\] meet the standard required under subsection (b).
+
+"(b)
+
+Joint Standard for Cyber Opposition Forces.—Not later than March 31, 2017, the Secretary of Defense shall issue a joint training and certification standard for use by all cyber opposition forces within the Department of Defense.
+
+"(c)
+
+Joint Standard for Protection of Control Systems.—Not later than June 30, 2017, the Secretary of Defense shall issue a joint training and certification standard for the protection of control systems for use by all cyber operations forces within the Department of Defense. Such standard shall—
+
+&emsp;"(1) provide for applied training and exercise capabilities; and
+
+&emsp;"(2) use expertise and capabilities from other departments and agencies of the Federal Government, as appropriate.
+
+"(d)
+
+Briefing Required.—Not later than September 30, 2017, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that includes—
+
+&emsp;"(1) a list of each combatant command that has established an agreement under subsection (a);
+
+&emsp;"(2) with respect to each such agreement—
+
+&emsp;&emsp;"(A) special conditions in the agreement placed on any cyber opposition force used by the command;
+
+&emsp;&emsp;"(B) the process for making decisions about deconfliction and risk mitigation of cyber opposition force activities in continuous exercises and training;
+
+&emsp;&emsp;"(C) identification of cyber opposition forces trained and certified to operate at the joint standard, as issued under subsection (b);
+
+&emsp;&emsp;"(D) identification of the annual exercises that will include participation of the cyber opposition forces; and
+
+&emsp;&emsp;"(E) identification of any shortfalls in resources that may prevent annual exercises using cyber opposition forces; and
+
+&emsp;"(3) any other matters the Secretary of Defense considers appropriate."
+
+#### Cyber Protection Support for Department of Defense Personnel in Positions Highly Vulnerable to Cyber Attack
+
+Pub. L. 114–328, div. A, title XVI, §1645, Dec. 23, 2016, 130 Stat. 2603, provided that:
+
+"(a)
+
+Authority to Provide Cyber Protection Support.—
+
+&emsp;"(1)
+
+In general.—Subject to a determination by the Secretary of Defense, the Secretary may provide cyber protection support for the personal technology devices of the personnel described in paragraph (2).
+
+&emsp;"(2)
+
+At-risk personnel.—The personnel described in this paragraph are personnel of the Department of Defense—
+
+&emsp;&emsp;"(A) who the Secretary determines to be highly vulnerable to cyber attacks and hostile information collection activities because of the positions occupied by such personnel in the Department; and
+
+&emsp;&emsp;"(B) whose personal technology devices are highly vulnerable to cyber attacks and hostile information collection activities.
+
+"(b)
+
+Nature of Cyber Protection Support.—Subject to the availability of resources, the cyber protection support provided to personnel under subsection (a) may include training, advice, assistance, and other services relating to cyber attacks and hostile information collection activities.
+
+"(c)
+
+Limitation on Support.—Nothing in this section shall be construed—
+
+&emsp;"(1) to encourage personnel of the Department of Defense to use personal technology devices for official business; or
+
+&emsp;"(2) to authorize cyber protection support for senior Department personnel using personal devices and networks in an official capacity.
+
+"(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the provision of cyber protection support under subsection (a). The report shall include—
+
+&emsp;"(1) a description of the methodology used to make the determination under subsection (a)(2); and
+
+&emsp;"(2) guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (a).
+
+"(e)
+
+Personal Technology Devices Defined.—In this section, the term 'personal technology devices' means technology devices used by Department of Defense personnel outside of the scope of their employment with the Department and includes networks to which such devices connect."
+
+#### Limitation on Full Deployment of Joint Regional Security Stacks
+
+Pub. L. 114–328, div. A, title XVI, §1646, Dec. 23, 2016, 130 Stat. 2604, provided that:
+
+"(a)
+
+Limitation.—The Secretary of a military department or the head of a Defense Agency may not declare that such department or Defense Agency has achieved full operational capability for the deployment of joint regional security stacks until the date on which—
+
+&emsp;"(1) the department or Defense Agency concerned completes operational test and evaluation activities to determine the effectiveness, suitability, and survivability of the joint regional security stacks system of such department or Defense Agency; and
+
+&emsp;"(2) written certification that such testing and evaluation activities have been completed is provided to the Secretary of such department or the head of such Defense Agency by the appropriate operational test and evaluation organization of such department or Defense Agency.
+
+"(b)
+
+Waiver.—
+
+&emsp;"(1)
+
+In general.—The Secretary of a military department or the head of a Defense Agency may waive the requirements of subsection (a) if a certification described in paragraph (2) is provided to the Secretary of Defense, and signed by—
+
+&emsp;&emsp;"(A) the Secretary of the military department or the head of the Defense Agency concerned;
+
+&emsp;&emsp;"(B) the Director of Operational Test and Evaluation for the Department of Defense; and
+
+&emsp;&emsp;"(C) the Chief Information Officer of the Department of Defense.
+
+&emsp;"(2)
+
+Certification.—A certification described in this subsection is a written certification that—
+
+&emsp;&emsp;"(A) the testing and evaluation activities required under subsection (a) are unnecessary, accompanied by an explanation of the reasons such activities are unnecessary;
+
+&emsp;&emsp;"(B) the effectiveness, suitability, and survivability of the joint regional security stacks system of the military department or Defense Agency concerned has been demonstrated by methods other than the testing and evaluation activities required under subsection (a), accompanied by supporting data; or
+
+&emsp;&emsp;"(C) national security needs justify full deployment of the joint regional security stacks system of the military department or Defense Agency concerned before the test and evaluation activities required under subsection (a) can be completed, accompanied by an explanation of such justification and a risk management plan."
+
+#### Evaluation of Cyber Vulnerabilities of Department of Defense Critical Infrastructure
+
+Pub. L. 114–328, div. A, title XVI, §1650, Dec. 23, 2016, 130 Stat. 2607, provided that:
+
+"(a)
+
+Plan for Evaluation.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the evaluation of the cyber vulnerabilities of the critical infrastructure of the Department of Defense.
+
+&emsp;"(2)
+
+Elements.—The plan under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) an identification of each of the military installations to be evaluated; and
+
+&emsp;&emsp;"(B) an estimate of the cost of the evaluation.
+
+&emsp;"(3)
+
+Priority in evaluation.—The plan under paragraph (1) shall prioritize the evaluation of military installations based on the criticality of the infrastructure supporting such installations, as determined by the Chairman of the Joint Chiefs of Staff based on an assessment of—
+
+&emsp;&emsp;"(A) the Armed Forces stationed at such military installations; and
+
+&emsp;&emsp;"(B) threats to such military installations.
+
+&emsp;"(4)
+
+Integration with other efforts.—The plan under paragraph (1) shall build upon other efforts of Department of Defense relating to the identification and mitigation of cyber vulnerabilities of major weapon systems and critical infrastructure of the Department and shall not duplicate such efforts.
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date on which the Secretary submits the plan under subsection (a), the Secretary, acting through a covered research laboratory, shall initiate a pilot program under which the Secretary shall assess the feasibility and advisability of applying new, innovative methodologies or engineering approaches—
+
+&emsp;&emsp;"(A) to improve the defense of control systems against cyber attacks;
+
+&emsp;&emsp;"(B) to increase the resilience of military installations against cybersecurity threats;
+
+&emsp;&emsp;"(C) to prevent or mitigate the potential for high-consequence cyber attacks; and
+
+&emsp;&emsp;"(D) to inform future requirements for the development of such control systems.
+
+&emsp;"(2)
+
+Locations.—The Secretary shall carry out the pilot program under paragraph (1) at not fewer than two military installations selected by the Secretary from among military installations that support the most critical mission-essential functions of the Department of Defense as identified in the plan under subsection (a).
+
+&emsp;"(3)
+
+Tools.—In carrying out the pilot program under paragraph (1), the Secretary may use tools and solutions developed under subsection (e).
+
+&emsp;"(4)
+
+Report.—Not later than December 31, 2019, the Secretary shall submit to the congressional defense committees a final report on the pilot program that includes—
+
+&emsp;&emsp;"(A) a description of the activities carried out under the pilot program at each military installation concerned;
+
+&emsp;&emsp;"(B) an assessment of the value of the methodologies or tools applied during the pilot program in increasing the resilience of military installations against cybersecurity threats;
+
+&emsp;&emsp;"(C) recommendations for administrative or legislative actions to improve the ability of the Department to employ methodologies and tools for reducing cyber vulnerabilities in other activities of the Department of Defense; and
+
+&emsp;&emsp;"(D) recommendations for including such methodologies or tools as requirements for relevant activities, including technical requirements for systems or military construction projects.
+
+&emsp;"(5)
+
+Termination.—The authority of the Secretary to carry out the pilot program under this subsection shall terminate on September 30, 2019.
+
+"(c)
+
+Evaluation.—
+
+&emsp;"(1)
+
+In general.—Not later than December 31, 2020, the Secretary shall complete an evaluation of the cyber vulnerabilities of the critical infrastructure of the Department of Defense in accordance with the plan under subsection (a).
+
+&emsp;"(2)
+
+Risk mitigation strategies.—The Secretary shall develop strategies for mitigating the risks of cyber vulnerabilities identified in the course of the evaluation under paragraph (1).
+
+"(d)
+
+Status on Progress.—The Secretary shall include in each quarterly cyber operations briefing submitted to Congress under section 484 of title 10, United States Code, a summary of any activities carried out as part of—
+
+&emsp;"(1) the pilot program under subsection (b); or
+
+&emsp;"(2) the evaluation under subsection (c).
+
+"(e)
+
+Tools and Solutions.—The Secretary may—
+
+&emsp;"(1) develop tools that improve assessments of cyber vulnerabilities of Department of Defense critical infrastructure;
+
+&emsp;"(2) conduct non-recurring engineering for the design of mitigation solutions for such vulnerabilities; and
+
+&emsp;"(3) establish Department-wide information repositories to share findings relating to such assessments and to share such mitigation solutions.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Critical infrastructure of the department of defense.—The term 'critical infrastructure of the Department of Defense' means any asset of the Department of Defense of such extraordinary importance to the functioning of the Department and the operation of the Armed Forces that the incapacitation or destruction of such asset by a cyber attack would have a debilitating effect on the ability of the Department to fulfill its missions.
+
+&emsp;"(2)
+
+Covered research laboratory.—The term 'covered research laboratory' means—
+
+&emsp;&emsp;"(A) a research laboratory of the Department of Defense; or
+
+&emsp;&emsp;"(B) a research laboratory of the Department of Energy approved by the Secretary of Energy to carry out the pilot program under subsection (b)."
+
+#### Plan for Information Security Continuous Monitoring Capability and Comply-To-Connect Policy; Limitation on Software Licensing
+
+Pub. L. 114–328, div. A, title XVI, §1653, Dec. 23, 2016, 130 Stat. 2610, provided that:
+
+"(a)
+
+Information Security Monitoring Plan and Policy.—
+
+&emsp;"(1)
+
+Plan and policy.—The Chief Information Officer of the Department of Defense and the Commander of the United States Cyber Command shall jointly develop—
+
+&emsp;&emsp;"(A) a plan for a modernized, Department-wide automated information security continuous monitoring capability that includes—
+
+&emsp;&emsp;&emsp;"(i) a proposed information security architecture for the capability;
+
+&emsp;&emsp;&emsp;"(ii) a concept of operations for the capability; and
+
+&emsp;&emsp;&emsp;"(iii) requirements with respect to the functionality and interoperability of the tools, sensors, systems, processes, and other components of the continuous monitoring capability; and
+
+&emsp;&emsp;"(B) a comply-to-connect policy that requires systems to automatically comply with the configurations of the networks of the Department as a condition of connecting to such networks.
+
+&emsp;"(2)
+
+Consultation.—In developing the plan and policy under paragraph (1), the Chief Information Officer and the Commander shall consult with the Principal Cyber Advisor to the Secretary of Defense.
+
+&emsp;"(3)
+
+Implementation.—The Chief Information Officer and the Commander shall each issue such directives as they each consider appropriate to ensure compliance with the plan and policy developed under paragraph (1).
+
+&emsp;"(4)
+
+Inclusion in budget materials.—The Secretary of Defense shall include funding and program plans relating to the plan and policy under paragraph (1) in the budget materials submitted by the Secretary in support of the budget of the President for fiscal year 2019 (as submitted to Congress under section 1105(a) of title 31, United States Code).
+
+&emsp;"(5)
+
+Integration with other capabilities.—The Chief Information Officer and the Commander shall ensure that information generated through automated and automation-assisted processes for continuous monitoring, asset management, and comply-to-connect policies and processes shall be accessible and usable in machine-readable form to appropriate cyber protection teams and computer network defense service providers.
+
+&emsp;"(6)
+
+Software license compliance matters.—The plan and policy required by paragraph (1) shall comply with the software license inventory requirements of the plan issued pursuant to section 937 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. 2223 note) and updated pursuant to section 935 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2223 note).
+
+"(b)
+
+Limitation on Future Software Licensing.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), none of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2017 or any fiscal year thereafter for the Department of Defense may be obligated or expended on a contract for a software license with a cost of more than $5,000,000 in a fiscal year unless the Department is able, through automated means—
+
+&emsp;&emsp;"(A) to count the number of such licenses in use; and
+
+&emsp;&emsp;"(B) to determine the security status of each instance of use of the software licensed.
+
+&emsp;"(2)
+
+Effective date.—Paragraph (1) shall apply—
+
+&emsp;&emsp;"(A) beginning on January 1, 2018, with respect to any contract entered into by the Secretary of Defense on or after such date for the licensing of software; and
+
+&emsp;&emsp;"(B) beginning on January 1, 2020, with respect to any contract entered into by the Secretary for the licensing of software that was in effect on December 31, 2017."
 
 #### Acquisition Authority of the Commander of United States Cyber Command
 
@@ -194,6 +498,60 @@ In general.—The authority under this section shall terminate on September 30, 
 
 Limitation on duration of acquisitions.—The authority under this section does not include major defense acquisition programs, major automated information system programs, or acquisitions of foundational infrastructure or software architectures the duration of which is expected to last more than five years."
 
+#### Evaluation of Cyber Vulnerabilities of Major Weapon Systems of the Department of Defense
+
+Pub. L. 114–92, div. A, title XVI, §1647, Nov. 25, 2015, 129 Stat. 1118, as amended by Pub. L. 114–328, div. A, title XVI, §1649(b), Dec. 23, 2016, 130 Stat. 2606, provided that:
+
+"(a)
+
+Evaluation Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall, in accordance with the plan under subsection (b), complete an evaluation of the cyber vulnerabilities of each major weapon system of the Department of Defense by not later than December 31, 2019.
+
+&emsp;"(2)
+
+Exception.—The Secretary may waive the requirement of paragraph (1) with respect to a weapon system or complete the evaluation of a weapon system required by such paragraph after the date specified in such paragraph if the Secretary certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] before that date that all known cyber vulnerabilities in the weapon system have minimal consequences for the capability of the weapon system to meet operational requirements or otherwise satisfy mission requirements.
+
+"(b)
+
+Plan for Evaluation.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall submit to the congressional defense committees the plan of the Secretary for the evaluations of major weapon systems under subsection (a), including an identification of each of the weapon systems to be evaluated and an estimate of the funding required to conduct the evaluations.
+
+&emsp;"(2)
+
+Priority in evaluations.—The plan under paragraph (1) shall accord a priority among evaluations based on the criticality of major weapon systems, as determined by the Chairman of the Joint Chiefs of Staff based on an assessment of employment of forces and threats.
+
+&emsp;"(3)
+
+Integration with other efforts.—The plan under paragraph (1) shall build upon existing efforts regarding the identification and mitigation of cyber vulnerabilities of major weapon systems, and shallnot duplicate similar ongoing efforts such as Task Force Cyber Awakening of the Navy or Task Force Cyber Secure of the Air Force.
+
+"(c)
+
+Status on Progress.—The Secretary shall inform the congressional defense committees of the activities undertaken in the evaluation of major weapon systems under this section as part of the quarterly cyber operations briefings under section 484 of title 10, United States Code.
+
+"(d)
+
+Tools and Solutions for Assessing and Mitigating Cyber Vulnerabilities.—In addition to carrying out the evaluation of cyber vulnerabilities of major weapon systems of the Department under this section, the Secretary may—
+
+&emsp;"(1) develop tools to improve the detection and evaluation of cyber vulnerabilities;
+
+&emsp;"(2) conduct non-recurring engineering for the design of solutions to mitigate cyber vulnerabilities; and
+
+&emsp;"(3) establish Department-wide information repositories to share findings relating to the evaluation and mitigation of cyber vulnerabilities.
+
+"(e)
+
+Risk Mitigation Strategies.—As part of the evaluation of cyber vulnerabilities of major weapon systems of the Department under this section, the Secretary shall develop strategies for mitigating the risks of cyber vulnerabilities identified in the course of such evaluations.
+
+"(f)
+
+Authorization of Appropriations.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $200,000,000 shall be available to the Secretary to conduct the evaluations under subsection (a)(1)."
+
 #### Notification of Foreign Threats to Information Technology Systems Impacting National Security
 
 Pub. L. 113–291, div. A, title X, §1078, Dec. 19, 2014, 128 Stat. 3520, provided that:
@@ -236,7 +594,7 @@ Cyber Ranges.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall review existing cyber ranges and adapt one or more such ranges,as necessary, to support training and exercises of cyber units that are assigned to execute offensive military cyber operations.
+In general.—The Secretary shall review existing cyber ranges and adapt one or more such ranges, as necessary, to support training and exercises of cyber units that are assigned to execute offensive military cyber operations.
 
 &emsp;"(2)
 
@@ -273,6 +631,14 @@ Cross-functional team.—The Principal Cyber Advisor shall—
 "(d)
 
 Training of Cyber Personnel.—The Secretary shall establish and maintain training capabilities and facilities in the Armed Forces and, as the Secretary considers appropriate, at the United States Cyber Command, to support the needs of the Armed Forces and the United States Cyber Command for personnel who are assigned offensive and defensive cyber missions in the Department of Defense."
+
+Pub. L. 114–328, div. A, title XVI, §1643(b), Dec. 23, 2016, 130 Stat. 2602, provided that: "The Principal Cyber Advisor, acting through the cross-functional team established by section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2224 note) \[set out above\] and in consultation with the Commander of the United States Cyber Command, shall supervise—
+
+&emsp;"(1) the development of training standards for computer network operations tool developers for military, civilian, and contractor personnel supporting the cyber mission forces;
+
+&emsp;"(2) the rapid enhancement of capacity to train personnel to those standards to meet the needs of the cyber mission forces for tool development; and
+
+&emsp;"(3) actions necessary to ensure timely completion of personnel security investigations and adjudications of security clearances for tool development personnel."
 
 #### Joint Federated Centers for Trusted Defense Systems for the Department of Defense
 
@@ -376,7 +742,7 @@ Software assurance.—The term 'software assurance' means the level of confidenc
 
 #### Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors
 
-Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors' networks or information systems, was transferred to chapter 19 of this title, redesignated as section 393, and amended by Pub. L. 114–92, div. A, title XVI, §1641(a), Nov. 25, 2015, 129 Stat. 1114.
+Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors' networks or information systems, was transferred to chapter 19of this title, redesignated as section 393, and amended by Pub. L. 114–92, div. A, title XVI, §1641(a), Nov. 25, 2015, 129 Stat. 1114.
 
 #### Insider Threat Detection
 

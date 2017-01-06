@@ -124,11 +124,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the United States to plan and prepare for the timely provision of medical countermeasures to the American people in the event of a biological attack in the United States through a rapid Federal response in coordination with State, local, territorial, and tribal governments.
 
-This policy would seek to: (1) mitigate illness and prevent death; (2) sustain critical infrastructure; and\(3) complement and supplement State, local, territorial, and tribal government medical countermeasure distribution capacity.
+This policy would seek to: (1) mitigate illness and prevent death; (2) sustain critical infrastructure; and (3) complement and supplement State, local, territorial, and tribal government medical countermeasure distribution capacity.
 
 Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>. (a) The U.S. Postal Service has the capacity for rapid residential delivery of medical countermeasures for self administration across all communities in the United States. The Federal Government shall pursue a national U.S. Postal Service medical countermeasures dispensing model to respond to a large-scale biological attack.
 
-(b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
+(b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S.Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
 
 (c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
 

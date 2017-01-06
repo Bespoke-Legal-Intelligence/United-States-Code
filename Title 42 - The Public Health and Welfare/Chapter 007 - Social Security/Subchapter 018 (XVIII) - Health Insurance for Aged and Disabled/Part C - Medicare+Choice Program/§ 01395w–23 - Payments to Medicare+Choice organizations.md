@@ -6,11 +6,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), (i), and (l) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), (i), and (l) and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount determined as follows:
 
 #### (i) Payment before 2006
 
-&emsp;&emsp;&emsp;For years before 2006, the payment amount shall be equal to 1/12 of the annual MA capitation rate (as calculated under subsection (c)(1) of this section) with respect to that individual for that area, adjusted under subparagraph (C) and reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title.
+&emsp;&emsp;&emsp;For years before 2006, the payment amount shall be equal to 1/12 of the annual MA capitation rate (as calculated under subsection (c)(1)) with respect to that individual for that area, adjusted under subparagraph (C) and reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title.
 
 #### (ii) Payment for original fee-for-service benefits beginning with 2006
 
@@ -44,7 +44,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.
+&emsp;&emsp;&emsp;Subject to subparagraph (I), the Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.
 
 #### (ii) Application of coding adjustment
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) In applying the adjustment under clause (i) for health status to payment amounts, the Secretary shall ensure that such adjustment reflects changes in treatment and coding practices in the fee-for-service sector and reflects differences in coding patterns between Medicare Advantage plans and providers under part <sup>1</sup> A and B to the extent that the Secretary has identified such differences.
 
-&emsp;&emsp;&emsp;&emsp;(II) In order to ensure payment accuracy, the Secretary shall annually conduct an analysis of the differences described in subclause (I). The Secretary shall complete such analysis by a date necessary to ensure that the results ofsuch analysis are incorporated on a timely basis into the risk scores for 2008 and subsequent years. In conducting such analysis, the Secretary shall use data submitted with respect to 2004 and subsequent years, as available and updated as appropriate.
+&emsp;&emsp;&emsp;&emsp;(II) In order to ensure payment accuracy, the Secretary shall annually conduct an analysis of the differences described in subclause (I). The Secretary shall complete such analysis by a date necessary to ensure that the results of such analysis are incorporated on a timely basis into the risk scores for 2008 and subsequent years. In conducting such analysis, the Secretary shall use data submitted with respect to 2004 and subsequent years, as available and updated as appropriate.
 
 &emsp;&emsp;&emsp;&emsp;(III) In calculating each year's adjustment, the adjustment factor shall be for 2014, not less than the adjustment factor applied for 2010, plus 1.5 percentage points; for each of years 2015 through 2018, not less than the adjustment factor applied for the previous year, plus 0.25 percentage point; and for 2019 and each subsequent year, not less than 5.9 percent.
 
@@ -66,7 +66,7 @@
 
 #### (II) Individuals described
 
-&emsp;&emsp;&emsp;&emsp;An individual described in this subclause is a special needs individual described in subsection (b)(6)(B)(iii) <sup>2</sup> who enrolls in a specialized MA plan for special needs individuals on or after January 1, 2011.
+&emsp;&emsp;&emsp;&emsp;An individual described in this subclause is a special needs individual described in subsection (b)(6)(B)(iii) <sup>2</sup> whoenrolls in a specialized MA plan for special needs individuals on or after January 1, 2011.
 
 #### (III) Evaluation
 
@@ -113,6 +113,48 @@
 #### (H) Special rule for end-stage renal disease
 
 &emsp;&emsp;The Secretary shall establish separate rates of payment to a Medicare+Choice organization with respect to classes of individuals determined to have end-stage renal disease and enrolled in a Medicare+Choice plan of the organization. Such rates of payment shall be actuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003. In accordance with regulations, the Secretary shall provide for the application of the seventh sentence of section 1395rr(b)(7) of this title to payments under this section covering the provision of renal dialysis treatment in the same manner as such sentence applies to composite rate payments described in such sentence. In establishing such rates, the Secretary shall provide for appropriate adjustments to increase each rate to reflect the demonstration rate (including the risk adjustment methodology associated with such rate) of the social health maintenance organization end-stage renal disease capitation demonstrations (established by section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993), and shall compute such rates by taking into account such factors as renal treatment modality, age, and the underlying cause of the end-stage renal disease. The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.
+
+#### (I) Improvements to risk adjustment for 2019 and subsequent years
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In order to determine the appropriate adjustment for health status under subparagraph (C)(i), the following shall apply:
+
+#### (I) Taking into account total number of diseases or conditions
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall take into account the total number of diseases or conditions of an individual enrolled in an MA plan. The Secretary shall make an additional adjustment under such subparagraph as the number of diseases or conditions of an individual increases.
+
+#### (II) Using at least 2 years of diagnostic data
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may use at least 2 years of diagnosis data.
+
+#### (III) Providing separate adjustments for dual eligible individuals
+
+&emsp;&emsp;&emsp;&emsp;With respect to individuals who are dually eligible for benefits under this subchapter and subchapter XIX, the Secretary shall make separate adjustments for each of the following:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) Full-benefit dual eligible individuals (as defined in section 1396u–5(c)(6) of this title).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) Such individuals not described in item (aa).
+
+#### (IV) Evaluation of mental health and substance use disorders
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall evaluate the impact of including additional diagnosis codes related to mental health and substance use disorders in the risk adjustment model.
+
+#### (V) Evaluation of chronic kidney disease
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall evaluate the impact of including the severity of chronic kidney disease in the risk adjustment model.
+
+#### (VI) Evaluation of payment rates for end-stage renal disease
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall evaluate whether other factors (in addition to those described in subparagraph (H)) should be taken into consideration when computing payment rates under such subparagraph.
+
+#### (ii) Phased-in implementation
+
+&emsp;&emsp;&emsp;The Secretary shall phase-in any changes to risk adjustment payment amounts under subparagraph (C)(i) under this subparagraph over a 3-year period, beginning with 2019, with such changes being fully implemented for 2022 and subsequent years.
+
+#### (iii) Opportunity for review and public comment
+
+&emsp;&emsp;&emsp;The Secretary shall provide an opportunity for review of the proposed changes to such risk adjustment payment amounts under this subparagraph and a public comment period of not less than 60 days before implementing such changes.
 
 #### (2) Adjustment to reflect number of enrollees
 
@@ -200,7 +242,7 @@
 
 #### (ii) Adjustment factors
 
-&emsp;&emsp;&emsp;The risk and other factors to be used in adjusting such rates under subsection (a)(1)(C) of this section for payments for months in 2005.
+&emsp;&emsp;&emsp;The risk and other factors to be used in adjusting such rates under subsection (a)(1)(C) for payments for months in 2005.
 
 #### (B) For 2006 and subsequent years
 
@@ -216,7 +258,7 @@
 
 #### (II) Adjustment factors
 
-&emsp;&emsp;&emsp;&emsp;The risk and other factors to be used in adjusting such rates under subsection (a)(1)(C) of this section for payments for months in such year.
+&emsp;&emsp;&emsp;&emsp;The risk and other factors to be used in adjusting such rates under subsection (a)(1)(C) for payments for months in such year.
 
 #### (ii) Regional benchmark announcement
 
@@ -236,15 +278,15 @@
 
 #### (4) Continued computation and publication of county-specific per capita fee-for-service expenditure information
 
-&emsp;The Secretary, through the Chief Actuary of the Centers for Medicare \& Medicaid Services, shall provide for the computation and publication, on an annual basis beginning with 2001 at the time of publication of the annual Medicare+Choice capitation rates under paragraph (1), of the following information for the original medicare fee-for-service program under parts A and B of this subchapter (exclusive of individuals eligible for coverage under section 426–1 of this title) for each Medicare+Choice payment area for the second calendar year ending before the date of publication:
+&emsp;The Secretary, through the Chief Actuary of the Centers for Medicare \& Medicaid Services, shall provide for the computation and publication, on an annual basis beginning with 2001 at the time of publication of the annual Medicare+Choice capitation rates under paragraph (1), of the following information for the original medicare fee-for-service program under parts A and B (exclusive of individuals eligible for coverage under section 426–1 of this title) for each Medicare+Choice payment area for the second calendar year ending before the date of publication:
 
-&emsp;&emsp;(A) Total expenditures per capita per month, computed separately for part A ofthis subchapter and for part B of this subchapter.
+&emsp;&emsp;(A) Total expenditures per capita per month, computed separately for part A and for part B.
 
 &emsp;&emsp;(B) The expenditures described in subparagraph (A) reduced by the best estimate of the expenditures (such as graduate medical education and disproportionate share hospital payments) not related to the payment of claims.
 
-&emsp;&emsp;(C) The average risk factor for the covered population based on diagnoses reported for medicare inpatient services, using the same methodology as is expected to be applied in making payments under subsection (a) of this section.
+&emsp;&emsp;(C) The average risk factor for the covered population based on diagnoses reported for medicare inpatient services, using the same methodology as is expected to be applied in making payments under subsection (a).
 
-&emsp;&emsp;(D) Such average risk factor based on diagnoses for inpatient and other sites of service, using the same methodology as is expected to be applied in making payments under subsection (a) of this section.
+&emsp;&emsp;(D) Such average risk factor based on diagnoses for inpatient and other sites of service, using the same methodology as is expected to be applied in making payments under subsection (a).
 
 #### (c) Calculation of annual Medicare+Choice capitation rates
 
@@ -396,7 +438,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the annual area-specific Medicare+Choice capitation rate for that year for the area under paragraph (3), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the average number of medicare beneficiaries residing in that area in the year, multiplied by the average of the risk factor weights used to adjust payments under subsection (a)(1)(A) of this section for such beneficiaries in such area; divided by
+&emsp;&emsp;&emsp;&emsp;(II) the average number of medicare beneficiaries residing in that area in the year, multiplied by the average of the risk factor weights used to adjust payments under subsection (a)(1)(A) for such beneficiaries in such area; divided by
 
 &emsp;&emsp;&emsp;(ii) the sum of the products described in clause (i)(II) for all areas for that year.
 
@@ -408,7 +450,7 @@
 
 &emsp;&emsp;&emsp;(ii) the proportions described in subparagraph (A)(ii)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for part A services shall be the ratio (expressed as a percentage) of the national average annual per capita rate of payment for part A of this subchapter for 1997 to the total national average annual per capita rate of payment for parts A and B of this subchapter for 1997, and
+&emsp;&emsp;&emsp;&emsp;(I) for part A services shall be the ratio (expressed as a percentage) of the national average annual per capita rate of payment for part A for 1997 to the total national average annual per capita rate of payment for parts A and B for 1997, and
 
 &emsp;&emsp;&emsp;&emsp;(II) for part B services shall be 100 percent minus the ratio described in subclause (I);
 
@@ -426,13 +468,13 @@
 
 #### (5) Payment adjustment budget neutrality factor
 
-&emsp;For purposes of paragraph (1)(A), for each year (other than 2004), the Secretary shall determine a budget neutrality adjustment factor so that the aggregate of the payments under this part (other than those attributable to subsections (a)(3)(C)(iv), (a)(4), and (i) of this section) shall equal the aggregate payments that would have been made under this part if payment were based entirely on area-specific capitation rates.
+&emsp;For purposes of paragraph (1)(A), for each year (other than 2004), the Secretary shall determine a budget neutrality adjustment factor so that the aggregate of the payments under this part (other than those attributable to subsections (a)(3)(C)(iv), (a)(4), and (i)) shall equal the aggregate payments that would have been made under this part if payment were based entirely on area-specific capitation rates.
 
 #### (6) "National per capita Medicare+Choice growth percentage" defined
 
 #### (A) In general
 
-&emsp;&emsp;In this part, the "national per capita Medicare+Choice growth percentage" for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, excluding expenditures attributable to subsections (a)(7) and (o) of section 1395w–4 of this title and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
+&emsp;&emsp;In this part, the "national per capita Medicare+Choice growth percentage" for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A and enrolled under part B, excluding expenditures attributable to subsections (a)(7) and (o) of section 1395w–4 of this title and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
 
 #### (B) Adjustment
 
@@ -514,7 +556,7 @@
 
 #### (2) Establishment and designation of Medicare+Choice medical savings account as requirement for payment of contribution
 
-&emsp;In the case of an individual who has elected coverage under an MSA plan, no payment shall be made under paragraph (1) on behalf of an individual for a month unless the individual—
+&emsp;In the case of an individual who has elected coverage under an MSA plan, no paymentshall be made under paragraph (1) on behalf of an individual for a month unless the individual—
 
 &emsp;&emsp;(A) has established before the beginning of the month (or by such other deadline as the Secretary may specify) a Medicare+Choice MSA (as defined in section 138(b)(2) of the Internal Revenue Code of 1986), and
 
@@ -528,11 +570,11 @@
 
 #### (f) Payments from Trust Funds
 
-The payment to a Medicare+Choice organization under this section for individuals enrolled under this part with the organization and for payments under subsection (l) and subsection (m) and payments to a Medicare+Choice MSA under subsection (e)(1) of this section shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines reflects the relative weight that benefits under part A of this subchapter and under part B of this subchapter represents of the actuarial value of the total benefits under this subchapter. Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. Monthly payments otherwise payable under this section for October 2000 shall be paid on the first business day of such month. Monthly payments otherwise payable under this section for October 2001 shall be paid on the last business day of September 2001. Monthly payments otherwise payable under this section for October 2006 shall be paid on the first business day of October 2006.
+The payment to a Medicare+Choice organization under this section for individuals enrolled under this part with the organization and for payments under subsection (l) and subsection (m) and payments to a Medicare+Choice MSA under subsection (e)(1) shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines reflects the relative weight that benefits under part A and under part B represents of the actuarial value of the total benefits under this subchapter. Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. Monthly payments otherwise payable under this section for October 2000 shall be paid on the first business day of such month. Monthly payments otherwise payable under this section for October 2001 shall be paid on the last business day of September 2001. Monthly payments otherwise payable under this section for October 2006 shall be paid on the first business day of October 2006.
 
 #### (g) Special rule for certain inpatient hospital stays
 
-In the case of an individual who is receiving inpatient hospital services from a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title), a rehabilitation hospital described in section 1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title) as of the effective date of the individual's—
+In the case of an individual who is receiving inpatient hospital services from a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title), a rehabilitation hospital described in section 1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) <sup>2</sup> of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title) as of the effective date of the individual's—
 
 &emsp;(1) election under this part of a Medicare+Choice plan offered by a Medicare+Choice organization—
 
@@ -566,7 +608,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;&emsp;(A) payment for the hospice care furnished to the individual shall be made to the hospice program elected by the individual by the Secretary;
 
-&emsp;&emsp;(B) payment for other services for which the individual is eligible notwithstanding the individual's election of hospice care under section 1395d(d)(1) of this title, including services not related to the individual's terminal illness, shall be made by the Secretary to the Medicare+Choice organization or the provider or supplier of the service instead of payments calculated under subsection (a) of this section; and
+&emsp;&emsp;(B) payment for other services for which the individual is eligible notwithstanding the individual's election of hospice care under section 1395d(d)(1) of this title, including services not related to the individual's terminal illness, shall be made by the Secretary to the Medicare+Choice organization or the provider or supplier of the service instead of payments calculated under subsection (a); and
 
 &emsp;&emsp;(C) the Secretary shall continue to make monthly payments to the Medicare+Choice organization in an amount equal to the value of the additional benefits required under section 1395w–24(f)(1)(A) of this title.
 
@@ -574,7 +616,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), in the case of Medicare+Choice payment area in which a Medicare+Choice plan has not been offered since 1997 (or in which all organizations that offered a plan since such date have filed notice with the Secretary, as of October 13, 1999, that they will not be offering such a plan as of January 1, 2000, or filed notice with the Secretaryas of October 3, 2000, that they will not be offering such a plan as of January 1, 2001), the amount of the monthly payment otherwise made under this section shall be increased—
+&emsp;Subject to paragraphs (2) and (3), in the case of Medicare+Choice payment area in which a Medicare+Choice plan has not been offered since 1997 (or in which all organizations that offered a plan since such date have filed notice with the Secretary, as of October 13, 1999, that they will not be offering such a plan as of January 1, 2000, or filed notice with the Secretary as of October 3, 2000, that they will not be offering such a plan as of January 1, 2001), the amount of the monthly payment otherwise made under this section shall be increased—
 
 &emsp;&emsp;(A) only for the first 12 months in which any Medicare+Choice plan is offered in the area, by 5 percent of the total monthly payment otherwise computed for such payment area; and
 
@@ -590,7 +632,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 #### (4) Construction
 
-&emsp;Nothing in paragraph (1) shall be construed as affecting the calculation of the annual Medicare+Choice capitation rate under subsection (c) of this section for any payment area or as applying to payment for any period not described in such paragraph and paragraph (2).
+&emsp;Nothing in paragraph (1) shall be construed as affecting the calculation of the annual Medicare+Choice capitation rate under subsection (c) for any payment area or as applying to payment for any period not described in such paragraph and paragraph (2).
 
 #### (5) Offered defined
 
@@ -612,7 +654,7 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 
 #### (1) Applicable amount defined
 
-&emsp;For purposes of subsection (j), subject to paragraphs (2) and (4), the term "applicable amount" means for an area—
+&emsp;For purposes of subsection (j), subject to paragraphs (2), (4), and (5), the term "applicable amount" means for an area—
 
 &emsp;&emsp;(A) for 2007—
 
@@ -630,7 +672,7 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 
 &emsp;&emsp;(B) for a subsequent year—
 
-&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year (determined without regard to paragraphs (2) and (4)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
+&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year\(determined without regard to paragraphs (2), (4), and (5)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
 
 &emsp;&emsp;&emsp;(ii) if such year is specified under subsection (c)(1)(D)(ii), an amount equal to the greater of—
 
@@ -730,7 +772,7 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 
 #### (i) Phase-in percentage
 
-&emsp;&emsp;&emsp;The term "phase-in percentage" means, for an area for a year, the ratio (expressedas a percentage, but in no case greater than 100 percent) of—
+&emsp;&emsp;&emsp;The term "phase-in percentage" means, for an area for a year, the ratio (expressed as a percentage, but in no case greater than 100 percent) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the maximum cumulative adjustment percentage for the year (as defined in clause (ii)); to
 
@@ -751,6 +793,10 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 #### (C) Fee-for-service amount
 
 &emsp;&emsp;The fee-for-service amount specified in this subparagraph for an area for a year is the amount specified under subsection (c)(1)(D) for the area and the year.
+
+#### (5) Exclusion of costs for kidney acquisitions from capitation rates
+
+&emsp;After determining the applicable amount for an area for a year under paragraph (1) (beginning with 2021), the Secretary shall adjust such applicable amount to exclude from such applicable amount the Secretary's estimate of the standardized costs for payments for organ acquisitions for kidney transplants covered under this subchapter (including expenses covered under section 1395rr(d) of this title) in the area for the year.
 
 #### (l) Application of eligible professional incentives for certain MA organizations for adoption and meaningful use of certified EHR technology
 
@@ -802,7 +848,7 @@ For purposes of this part, subject to subsection (o), the term "MA area-specific
 
 #### (A) In general
 
-&emsp;&emsp;In applying section 1395w–4(a)(7) of this title under paragraph (1), instead of the payment adjustment being an applicable percent of the fee schedule amount for a year under such section, subject to subparagraph (D), the payment adjustment under paragraph (1) shall be equal to the percent specified in subparagraph (B) for such year of thepayment amount otherwise provided under this section for such year.
+&emsp;&emsp;In applying section 1395w–4(a)(7) of this title under paragraph (1), instead of the payment adjustment being an applicable percent of the fee schedule amount for a year under such section, subject to subparagraph (D), the payment adjustment under paragraph (1) shall be equal to the percent specified in subparagraph (B) for such year of the payment amount otherwise provided under this section for such year.
 
 #### (B) Specified percent
 
@@ -908,7 +954,7 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 &emsp;The Secretary shall post on the Internet website of the Centers for Medicare \& Medicaid Services, in an easily understandable format—
 
-&emsp;&emsp;(A) a list of the names, business addresses, and business phone numbers of each qualifying MA organization receiving an incentive payment under this subsection for eligible hospitals described in paragraph (2); and
+&emsp;&emsp;(A) a list of the names, business addresses, and business phone numbers of each qualifying MA organization receiving an incentivepayment under this subsection for eligible hospitals described in paragraph (2); and
 
 &emsp;&emsp;(B) a list of the names of the eligible hospitals for which such incentive payment is based.
 
@@ -920,7 +966,7 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 &emsp;&emsp;(B) the methodology and standards for determining eligible hospitals under paragraph (2); and
 
-&emsp;&emsp;(C) the methodology and standards for determining a meaningful EHR user under section 1395ww(n)(3) of this title, including specification of the means of demonstrating meaningful EHR use under subparagraph (C)of such section and selection of measures under subparagraph (B) of such section.
+&emsp;&emsp;(C) the methodology and standards for determining a meaningful EHR user under section 1395ww(n)(3) of this title, including specification of the means of demonstrating meaningful EHR use under subparagraph (C) of such section and selection of measures under subparagraph (B) of such section.
 
 #### (n) Determination of blended benchmark amount
 
@@ -942,7 +988,7 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 &emsp;&emsp;The amount specified in this subparagraph for an area and year is the product of—
 
-&emsp;&emsp;&emsp;(i) the base payment amount specified in subparagraph (E) for the area and year adjusted to take into account the phase-out in the indirect costs of medical education from capitation rates described in subsection (k)(4); and
+&emsp;&emsp;&emsp;(i) the base payment amount specified in subparagraph (E) for the area and year adjusted to take into account the phase-out in the indirect costs of medical education from capitation rates described in subsection (k)(4) and, for 2021 and subsequent years, the exclusion of payments for organ acquisitions for kidney transplants from the capitation rate as described in subsection (k)(5); and
 
 &emsp;&emsp;&emsp;(ii) the applicable percentage for the area for the year specified under subparagraph (B).
 
@@ -976,7 +1022,7 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 #### (E) Base payment amount
 
-&emsp;&emsp;Subject to subparagraph (F), the base payment amount specified in this subparagraph—
+&emsp;&emsp;Subject to subparagraphs (F) and (G), the base payment amount specified in this subparagraph—
 
 &emsp;&emsp;&emsp;(i) for 2012 is the amount specified in subsection (c)(1)(D) for the area for the year; or
 
@@ -989,6 +1035,10 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 #### (F) Application of indirect medical education phase-out
 
 &emsp;&emsp;The base payment amount specified in subparagraph (E) for a year shall be adjusted in the same manner under paragraph (4) of subsection (k) as the applicable amount is adjusted under such subsection.
+
+#### (G) Application of kidney acquisitions adjustment
+
+&emsp;&emsp;The base payment amount specified in subparagraph (E) for a year (beginning with 2021) shall be adjusted in the same manner under paragraph (5) of subsection (k) as the applicable amount is adjusted under such subsection.
 
 #### (3) Alternative phase-ins
 
@@ -1156,13 +1206,13 @@ Application of payment adjustment.—In the case that a qualifying MA organizati
 
 &emsp;This subsection shall not apply to payments to a PACE program under section 1395eee of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48; Pub. L. 110–275, title I, §161(a), (b), July 15, 2008, 122 Stat. 2568, 2569; Pub. L. 111–5, div. B, title IV, §§4101(c), (e), 4102(c), (d)(3), Feb. 17, 2009, 123 Stat. 473, 476, 484, 486; Pub. L. 111–148, title III, §§3201(a)(1), (2)(A), (b), (e)(1), (2)(A)(ii)–(iv), (f)(1), (g), (h), (i)(2), 3202(b)(2), 3203, 3205(b), (f), title X, §10318, Mar. 23, 2010, 124 Stat. 442, 444–447, 450, 452, 454–458, 948; Pub. L. 111–152, title I, §1102(a)–(c)(3), (e), Mar. 30, 2010, 124 Stat. 1040, 1043, 1046; Pub. L. 112–240, title VI, §639, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 114–10, title II, §209(d), Apr. 16, 2015, 129 Stat. 150; Pub. L. 114–106, §2, Dec. 18, 2015, 129 Stat. 2222; Pub. L. 114–113, div. O, title VI, §602(b)(2), Dec. 18, 2015, 129 Stat. 3024.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48; Pub. L. 110–275, title I, §161(a), (b), July 15, 2008, 122 Stat. 2568, 2569; Pub. L. 111–5, div. B, title IV, §§4101(c), (e), 4102(c), (d)(3), Feb. 17, 2009, 123 Stat. 473, 476, 484, 486; Pub. L. 111–148, title III, §§3201(a)(1), (2)(A), (b), (e)(1), (2)(A)(ii)–(iv), (f)(1), (g), (h), (i)(2), 3202(b)(2), 3203, 3205(b), (f), title X, §10318, Mar. 23, 2010, 124 Stat. 442, 444–447, 450, 452, 454–458, 948; Pub. L. 111–152, title I, §1102(a)–(c)(3), (e), Mar. 30, 2010, 124 Stat. 1040, 1043, 1046; Pub. L. 112–240, title VI, §639, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 114–10, title II, §209(d), Apr. 16, 2015, 129 Stat. 150; Pub. L. 114–106, §2, Dec. 18, 2015, 129 Stat. 2222; Pub. L. 114–113, div. O, title VI, §602(b)(2), Dec. 18, 2015, 129 Stat. 3024; Pub. L. 114–255, div. C, title XVII, §17006(b), (f)(1), Dec. 13, 2016, 130 Stat. 1334, 1336.)
 
 #### References in Text
 
 Subsection (b)(6)(B)(iii), referred to in subsec. (a)(1)(C)(iii)(II), probably means section 1395w–28(b)(6)(B)(iii) of this title. This section does not contain a subsec. (b)(6)(B)(iii).
 
-Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (a)(1)(E), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
+Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (a)(1)(E), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) ofthis title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
 
 Section 2355 of the Deficit Reduction Act of 1984, as amended by section 13567(b) of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (a)(1)(H), is section 2355 of Pub. L. 98–369, div. B, title III, July 18, 1984, 98 Stat. 1103, as amended by section 13567(b) of Pub. L. 103–66, title XIII, Aug. 10, 1993, 107 Stat. 608, which is not classified to the Code.
 
@@ -1170,7 +1220,25 @@ Section 1395w–29 of this title, referred to in subsecs. (b)(1)(B)(iii) and (j)
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
+The matter following clause (v) of section 1395ww(d)(1)(B) of this title, referred to in subsec. (g), now follows cl. (vi) of section 1395ww(d)(1)(B) of this title following the redesignation of subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) by Pub. L. 114–255, div. C, title XV, §15008(a)(2)(B), Dec. 13, 2016, 130 Stat. 1321.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(C)(i). Pub. L. 114–255, §17006(f)(1)(A), which directed substitution of "Subject to subparagraph (I), the Secretary" for "The Secretary", was executed by making the substitution in the first sentence to reflect the probable intent of Congress.
+
+Subsec. (a)(1)(I). Pub. L. 114–255, §17006(f)(1)(B), added subpar. (I).
+
+Subsec. (k)(1). Pub. L. 114–255, §17006(b)(1)(A)(i), substituted "paragraphs (2), (4), and (5)" for "paragraphs (2) and (4)" in introductory provisions.
+
+Subsec. (k)(1)(B)(i). Pub. L. 114–255, §17006(b)(1)(A)(ii), substituted "paragraphs (2), (4), and (5)" for "paragraphs (2) and (4)".
+
+Subsec. (k)(5). Pub. L. 114–255, §17006(b)(1)(B), added par. (5).
+
+Subsec. (n)(2)(A)(i). Pub. L. 114–255, §17006(b)(2)(A), inserted before semicolon at end "and, for 2021 and subsequent years, the exclusion of payments for organ acquisitions for kidney transplants from the capitation rate as described in subsection (k)(5)".
+
+Subsec. (n)(2)(E). Pub. L. 114–255, §17006(b)(2)(B), substituted "subparagraphs (F) and (G)" for "subparagraph (F)" in introductory provisions.
+
+Subsec. (n)(2)(G). Pub. L. 114–255, §17006(b)(2)(C), added subpar. (G).
 
 <b>2015</b>—Subsec. (b)(2). Pub. L. 114–106 inserted "(or, in 2017 and each subsequent year, at least 60 days)" after "45 days" and "(in 2017 and each subsequent year, of no less than 30 days)" after "opportunity".
 
@@ -1188,7 +1256,7 @@ Subsec. (a)(1)(C)(ii). Pub. L. 111–152, §1102(e)(2), substituted "and each su
 
 Pub. L. 111–152, §1102(e)(1), which directed the substitution of "of coding adjustment" for "during phaseout of budget neutrality factor" in heading, was executed by making the substitution for "during phase-out of budget neutrality factor" to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(C)(ii)(II). Pub. L. 111–152, §1102(e)(3)(A)–(C), inserted "annually" before "conductan analysis" and "on a timely basis" after "are incorporated", substituted "for 2008 and subsequent years" for "only for 2008, 2009, and 2010", and inserted "and updated as appropriate" after "as available".
+Subsec. (a)(1)(C)(ii)(II). Pub. L. 111–152, §1102(e)(3)(A)–(C), inserted "annually" before "conduct an analysis" and "on a timely basis" after "are incorporated", substituted "for 2008 and subsequent years" for "only for 2008, 2009, and 2010", and inserted "and updated as appropriate" after "as available".
 
 Subsec. (a)(1)(C)(ii)(III), (IV). Pub. L. 111–152, §1102(e)(3)(D), which directed amendment "in subclause (II)" of subsec. (a)(1)(C)(ii) by adding subcls. (III) and (IV) at the end, was executed by adding subcls. (III) and (IV) after subcl. (II), to reflect the probable intent of Congress.
 
@@ -1232,7 +1300,7 @@ Urban areas.—
 
 &emsp;&emsp;"(i)
 
-In general.—Subject to clause (ii) and subparagraphs (C) and (D), the service area for an MA local plan in an urban area shall be the Core Based Statistical Area (in this paragraph referred to as a 'CBSA') or, if applicable, a conceptually similar alternative classification, as defined by the Director of the Office of Management and Budget.
+In general.—Subject to clause (ii) and subparagraphs (C) and (D), the service area for an MAlocal plan in an urban area shall be the Core Based Statistical Area (in this paragraph referred to as a 'CBSA') or, if applicable, a conceptually similar alternative classification, as defined by the Director of the Office of Management and Budget.
 
 &emsp;&emsp;"(ii)
 
@@ -1468,7 +1536,7 @@ Election to provide rebates to grandfathered enrollees.—
 
 &emsp;"(A)
 
-In general.—For years beginning with 2012, each Medicare Advantage organization offering an MA local plan in an area identified by the Secretary under paragraph (1) may elect to provide rebates to grandfathered enrollees under section1395w–24(b)(1)(C) of this title. In the case where an MA organization makes such an election, the monthly per capita dollar amount of such rebates shall not exceed the applicable amount for the year (as defined in subparagraph (B)).
+In general.—For years beginning with 2012, each Medicare Advantage organization offering an MA local plan in an area identified by the Secretary under paragraph (1) may elect to provide rebates to grandfathered enrollees under section 1395w–24(b)(1)(C) of this title. In the case where an MA organization makes such an election, the monthly per capita dollar amount of such rebates shall not exceed the applicable amount for the year (as defined in subparagraph (B)).
 
 &emsp;"(B)
 
@@ -1574,7 +1642,7 @@ Pub. L. 111–5, §4101(e)(2)(A), substituted "sections 1395w–4(o) and 1395ww(
 
 Subsec. (c)(6)(A). Pub. L. 111–5, §4102(d)(3)(A)(ii), inserted "and subsections (b)(3)(B)(ix) and (n) of section 1395ww of this title" after "1395w–4 of this title".
 
-Pub. L. 111–5, §4101(e)(2)(B), inserted "excluding expenditures attributable to subsections (a)(7) and (o) ofsection 1395w–4 of this title," after "under part B of this subchapter,".
+Pub. L. 111–5, §4101(e)(2)(B), inserted "excluding expenditures attributable to subsections (a)(7) and (o) of section 1395w–4 of this title," after "under part B,".
 
 Subsec. (f). Pub. L. 111–5, §4102(d)(3)(B), inserted "and subsection (m)" after "under subsection (l)".
 
@@ -1664,7 +1732,7 @@ Subsec. (f). Pub. L. 108–173, §101(e)(3)(D), in heading, substituted "Trust F
 
 Subsec. (g). Pub. L. 108–173, §211(e)(1)(A), inserted ", a rehabilitation hospital described in section 1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title)" after "1395ww(d)(1)(B) of this title)" in introductory provisions.
 
-Subsec. (g)(2)(B). Pub. L. 108–173, §211(e)(1)(B), inserted "or other payment provision under this subchapter for inpatient services for the type of facility,hospital, or unit involved, described in the matter preceding paragraph (1), as the case may be," after "1395ww(d) of this title".
+Subsec. (g)(2)(B). Pub. L. 108–173, §211(e)(1)(B), inserted "or other payment provision under this subchapter for inpatient services for the type of facility, hospital, or unit involved, described in the matter preceding paragraph (1), as the case may be," after "1395ww(d) of this title".
 
 Subsec. (j). Pub. L. 108–173, §222(d), added subsec. (j).
 
@@ -1700,13 +1768,13 @@ Subsec. (c)(7). Pub. L. 106–554, §1(a)(6) \[title VI, §611(a)\], amended hea
 
 Subsec. (i)(1). Pub. L. 106–554, §1(a)(6) \[title VI, §608(a)\], in introductory provisions, inserted ", or filed notice with the Secretary as of October 3, 2000, that they will not be offering such a plan as of January 1, 2001" after "January 1, 2000".
 
-<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §512(1)\], substituted "subsections (e), (g), and (i) of this section" for "subsections (e) and (f) of this section".
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §512(1)\], substituted "subsections (e), (g), and (i)" for "subsections (e) and (f)".
 
 Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §511(a)\], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
 Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §514(a)\], added par. (4).
 
-Subsec. (c)(5). Pub. L. 106–113, §1000(a)(6) \[title V, §512(2)\], inserted "(other than those attributable to subsection (i) of this section)" after "payments under this part".
+Subsec. (c)(5). Pub. L. 106–113, §1000(a)(6) \[title V, §512(2)\], inserted "(other than those attributable to subsection (i))" after "payments under this part".
 
 Subsec. (c)(6)(B)(v). Pub. L. 106–113, §1000(a)(6) \[title V, §517\], substituted "0.3 percentage points" for "0.5 percentage points".
 
@@ -1746,6 +1814,10 @@ Pub. L. 106–554, §1(a)(6) \[title VI, §608(b)\], Dec. 21, 2000, 114 Stat. 27
 
 Amendment by section 1(a)(6) \[title VI, §611(a)\] of Pub. L. 106–554 effective Dec. 21, 2000, and applicable to national coverage determinations and legislative changes in benefits occurring on or after such date, see section 1(a)(6) \[title VI, §611(c)\] of Pub. L. 106–554, set out as a note under section 1395w–22 of this title.
 
+#### Reports on Risk Adjustment Models
+
+Pub. L. 114–255, div. C, title XVII, §17006(f)(2)(A)(ii), Dec. 13, 2016, 130 Stat. 1337, provided that: "Not later than December 31, 2018, and every 3 years thereafter, the Secretary of Health and Human Services shall submit to Congress a report on the risk adjustment model and the ESRD risk adjustment model under the Medicare Advantage program under part C of title XVIII of the Social Security Act \[42 U.S.C. 1395w–21 et seq.\], including any revisions to either such model since the previous report. Such report shall include information on how such revisions impact the predictive ratios under either such model for groups of enrollees in Medicare Advantage plans, including very high and very low cost enrollees, and groups defined by the number of chronic conditions of enrollees."
+
 #### MedPAC Study of AAPCC
 
 Pub. L. 108–173, title II, §211(f), Dec. 8, 2003, 117 Stat. 2178, directed the Medicare Payment Advisory Commission to conduct a study that would assess the method used for determining the adjusted average per capita cost (AAPCC) under section 1395mm(a)(4) of this title, as applied under subsection (c)(1)(A) of this section, and to submit to Congress a report on such study not later than 18 months after Dec. 8, 2003.
@@ -1780,7 +1852,7 @@ Construction.—Subparagraphs (A) and (B) shall not be taken into account in com
 
 "(4)
 
-Plans required to provide notice of changes in plan benefits.—In the case of an organization offering a plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
+Plans required to provide notice of changes in plan benefits.—In the case of an organization offeringa plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
 
 "(5)
 
@@ -1934,7 +2006,7 @@ Establishment of Project.—
 
 &emsp;"(1)
 
-In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the 'Secretary') shall establish a demonstration project (in this subchapter referred to as the 'project') under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A\(§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the 'Secretary') shall establish a demonstration project (in this subchapter referred to as the 'project') under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
 
 &emsp;"(2)
 
@@ -2030,7 +2102,7 @@ Waiver Authority.—The Secretary of Health and Human Services may waive such re
 
 "(f)
 
-Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choice organizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
+Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choiceorganizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
 
 "(g)
 

@@ -32,7 +32,7 @@
 
 (3) Each packaged terminal air conditioner and packaged terminal heat pump manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in the cooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour, then 15,000 Btu per hour shall be used in the calculation.
+&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in thecooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour, then 15,000 Btu per hour shall be used in the calculation.
 
 &emsp;(B) The minimum coefficient of performance (COP) of packaged terminal heat pumps in the heating mode shall be 1.3 + (0.16 x the minimum cooling EER as specified in subparagraph (A)) (at a standard rating of 47 degrees F db).
 
@@ -72,7 +72,7 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of thestandard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
+Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
 
 &emsp;&emsp;(ii)
 
@@ -178,13 +178,13 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;&emsp;(vi) For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
 
-(D) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
+&emsp;(D) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
 
-&emsp;(i) with respect to small commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, on or after a date which is two years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A); and
+&emsp;&emsp;(i) with respect to small commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, on or after a date which is two years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A); and
 
-&emsp;(ii) with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A);
+&emsp;&emsp;(ii) with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A);
 
-> except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a date which is four years after the date such rule is published in the Federal Register.
+> &emsp;except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a date which is four years after the date such rule is published in the Federal Register.
 
 (7) Small commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) shall meet the following standards:
 
@@ -226,7 +226,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;&emsp;(ii) 10.4 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
 
-&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
+&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
 
 (9) Very large commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 2010, shall meet the following standards:
 
@@ -373,7 +373,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 | Freezers with transparent doors | 0\.75 V + 4.10 |
 | Refrigerators/freezers with solid doors the greater of | 0\.27 AV – 0.71 or 0.70. |
 
-(3) Each commercial refrigerator with a self-contained condensing unit designed for pull-down temperature applications and transparentdoors manufactured on or after January 1, 2010, shall have a daily energy consumption (in kilowatt hours per day) of not more than 0.126 V + 3.51.
+(3) Each commercial refrigerator with a self-contained condensing unit designed for pull-down temperature applications and transparent doors manufactured on or after January 1, 2010, shall have a daily energy consumption (in kilowatt hours per day) of not more than 0.126 V + 3.51.
 
 (4)(A) Each SOC–SC–M manufactured on or after January 1, 2012, shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6  ×  TDA + 1.0.
 
@@ -391,7 +391,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (5)(A) Not later than January 1, 2009, the Secretary shall issue, by rule, standard levels for ice-cream freezers, self-contained commercial refrigerators, freezers, and refrigerator-freezers without doors, and remote condensing commercial refrigerators, freezers, and refrigerator-freezers, with the standard levels effective for equipment manufactured on or after January 1, 2012.
 
-(B) The Secretary may issue, by rule, standard levels for other types of commercial refrigerators, freezers, and refrigerator-freezers not covered by paragraph (2)(A) with the standard levels effective for equipment manufactured 3 or more years after the date on which the final rule is published.
+(B) The Secretary may issue, by rule, standard levels for other types of commercial refrigerators, freezers, and refrigerator-freezers not covered by paragraph (2)(A) with the standardlevels effective for equipment manufactured 3 or more years after the date on which the final rule is published.
 
 (6)(A) Not later than January 1, 2013, the Secretary shall issue a final rule to determine whether the standards established under this subsection should be amended.
 
@@ -455,7 +455,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
-&emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final amended standard is published.
+&emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 yearsafter the date on which the final amended standard is published.
 
 (4) A final rule issued under paragraph (2) or (3) shall establish standards at the maximum level that is technically feasible and economically justified, as provided in subsections (o) and (p) of section 6295 of this title.
 
@@ -521,7 +521,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 #### (3) Additional specifications
 
-&emsp;Each walk-in cooler or walk-in freezer with transparent reach-in doors manufactured on orafter January 1, 2009, shall also meet the following specifications:
+&emsp;Each walk-in cooler or walk-in freezer with transparent reach-in doors manufactured on or after January 1, 2009, shall also meet the following specifications:
 
 &emsp;&emsp;(A) Transparent reach-in doors for walk-in freezers and windows in walk-in freezer doors shall be of triple-pane glass with either heat-reflective treated glass or gas fill.
 
@@ -611,7 +611,7 @@ Subsec. (f)(6). Pub. L. 112–210, §2(2), added par. (6).
 
 Subsec. (a)(2). Pub. L. 110–140, §314(b)(1), inserted "(including single package vertical air conditioners and single package vertical heat pumps)" after "heating equipment" in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 110–140, §305(b), inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of a rulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
+Subsec. (a)(6). Pub. L. 110–140, §305(b), inserted heading, added subpars. (A) to (C), redesignated former subpar. (C) as (D), and struck out former subpars. (A) and (B) which related to, in subpar. (A), establishment of amended uniform national standards for certain air conditioning and heating equipment and products if ASHRAE/IES Standard 90.1 had been amended and, if such standard had not been amended, initiation of arulemaking to determine whether a more stringent standard would result in additional energy conservation and be technologically feasible and economically justified, and, in subpar. (B), establishment of an amended standard, including factors to be considered, if a rule had been issued pursuant to a subpar. (A) determination and prohibition of an amended standard which would decrease energy efficiency or would likely result in the unavailability of a product type.
 
 Subsec. (a)(6)(B)(iii). Pub. L. 110–140, §306(c), added cl. (iii) at end.
 

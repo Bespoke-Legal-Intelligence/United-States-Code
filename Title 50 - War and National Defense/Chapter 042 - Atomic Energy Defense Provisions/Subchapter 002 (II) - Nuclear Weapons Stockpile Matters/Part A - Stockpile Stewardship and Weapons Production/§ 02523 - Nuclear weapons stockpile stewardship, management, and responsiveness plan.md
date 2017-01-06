@@ -84,7 +84,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;&emsp;(ii) the strategies to address such challenges without the use of nuclear testing;
 
-&emsp;&emsp;(B) a strategy for using the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing;
+&emsp;&emsp;(B) a strategy for using the science-based tools (including advanced simulation andcomputing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing;
 
 &emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
 
@@ -150,7 +150,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(ii) whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) and the schedule described under subparagraph (B) of such subsection are adequate to support such requirements; and
 
-&emsp;&emsp;(iii) whether the plan supports the stockpile responsiveness program under section 2538b of this title in a manner that meets the objectives of such program and an identification of any improvements that may be made to the plan to better carry out such program.
+&emsp;&emsp;(iii) whether the plan supports the stockpile responsiveness program under section2538b of this title in a manner that meets the objectives of such program and an identification of any improvements that may be made to the plan to better carry out such program.
 
 &emsp;(B) An analysis of whether the plan adequately addresses the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
 
@@ -172,7 +172,7 @@ In this section:
 
 &emsp;(3) The term "nuclear security budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Administrator in support of the budget for that fiscal year.
 
-&emsp;(4) The term "quadrennial defense review" means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of title 10.
+&emsp;(4) The term "quadrennial defense review" means the review of the defense programs and policies of the United States that is carried out every four years under section 118 <sup>1</sup> of title 10.
 
 &emsp;(5) The term "weapons activities" means each activity within the budget category of weapons activities in the budget of the Administration.
 
@@ -189,6 +189,10 @@ In this section:
 &emsp;&emsp;(E) nuclear incident response.
 
 (Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190.)
+
+#### References in Text
+
+Section 118 of title 10, referred to in subsec. (f)(4), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see section 113(g) of Title 10, Armed Forces.
 
 #### Codification
 
@@ -234,7 +238,7 @@ Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, a
 
 &emsp;"(1)
 
-Report required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
+Report required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senateand the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
 
 &emsp;&emsp;"(A) enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States;
 
@@ -303,4 +307,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

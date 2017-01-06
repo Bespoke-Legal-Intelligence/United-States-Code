@@ -28,15 +28,17 @@ Upon completion of the review described in subsection (b), the Secretary shall�
 
 #### (e) Special rule
 
-Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 3 years after the expiration of such period.
+Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
 
-(Pub. L. 94–587, §156, Oct. 22, 1976, 90 Stat. 2933; Pub. L. 99–662, title IX, §934, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 113–121, title I, §1037(a), June 10, 2014, 128 Stat. 1235.)
+(Pub. L. 94–587, §156, Oct. 22, 1976, 90 Stat. 2933; Pub. L. 99–662, title IX, §934, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 113–121, title I, §1037(a), June 10, 2014, 128 Stat. 1235; Pub. L. 114–322, title I, §1122(j), Dec. 16, 2016, 130 Stat. 1647.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–322 substituted "6 years" for "3 years".
 
 <b>2014</b>—Pub. L. 113–121 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 

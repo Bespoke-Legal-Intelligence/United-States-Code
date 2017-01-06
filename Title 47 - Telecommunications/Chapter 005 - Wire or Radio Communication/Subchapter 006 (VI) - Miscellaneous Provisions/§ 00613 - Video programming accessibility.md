@@ -8,9 +8,9 @@ Within 180 days after February 8, 1996, the Federal Communications Commission sh
 
 Within 18 months after February 8, 1996, the Commission shall prescribe such regulations as are necessary to implement this section. Such regulations shall ensure that—
 
-&emsp;(1) video programming first published or exhibited after the effective date of such regulations is fully accessible through the provision of closed captions, except as provided in subsection (d) of this section; and
+&emsp;(1) video programming first published or exhibited after the effective date of such regulations is fully accessible through the provision of closed captions, except as provided in subsection (d); and
 
-&emsp;(2) video programming providers or owners maximize the accessibility of video programming first published or exhibited prior to the effective date of such regulations through the provision of closed captions, except as provided in subsection (d) of this section.
+&emsp;(2) video programming providers or owners maximize the accessibility of video programming first published or exhibited prior to the effective date of such regulations through the provision of closed captions, except as provided in subsection (d).
 
 #### (c) Deadlines for captioning
 
@@ -56,7 +56,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 #### (d) Exemptions
 
-Notwithstanding subsection (b) of this section—
+Notwithstanding subsection (b)—
 
 &emsp;(1) the Commission may exempt by regulation programs, classes of programs, or services for which the Commission has determined that the provision of closed captioning would be economically burdensome to the provider or owner of such programming;
 
@@ -152,7 +152,7 @@ The term "undue burden" means significant difficulty or expense. In determining 
 
 #### (iv) Additional market areas
 
-&emsp;&emsp;&emsp;Ten years after October 8, 2010, the Commission shall have the authority, basedupon the findings, conclusions, and recommendations contained in the report under clause (iii), to phase in the video description regulations for up to an additional 10 designated market areas each year—
+&emsp;&emsp;&emsp;Ten years after October 8, 2010, the Commission shall have the authority, based upon the findings, conclusions, and recommendations contained in the report under clause (iii), to phase in the video description regulations for up to an additional 10 designated market areas each year—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the costs of implementing the video description regulations to program owners, providers, and distributors in those additional markets are reasonable, as determined by the Commission; and
 
@@ -176,7 +176,7 @@ For purposes of this section, section 303 of this title, and section 330 of this
 
 #### (2) Video programming
 
-&emsp;The term "video programming" means programming by, or generally considered comparable to programming provided by a television broadcast station, but not including consumer-generated media (as defined in section 153 of this title).
+&emsp;The term "video programming" means programming by, or generally considered comparable to programming provided by a television broadcast station, but not includingconsumer-generated media (as defined in section 153 of this title).
 
 #### (j) <sup>2</sup> Private rights of actions prohibited
 

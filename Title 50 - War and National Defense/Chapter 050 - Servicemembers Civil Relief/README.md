@@ -36,6 +36,7 @@
 | [3936\.](Subchapter%20002%20%28II%29%20-%20General%20Relief/%C2%A7%2003936%20-%20Statute%20of%20limitations.md) | Statute of limitations. |
 | [3937\.](Subchapter%20002%20%28II%29%20-%20General%20Relief/%C2%A7%2003937%20-%20Maximum%20rate%20of%20interest%20on%20debts%20incurred%20before%20military%20service.md) | Maximum rate of interest on debts incurred before military service. |
 | [3938\.](Subchapter%20002%20%28II%29%20-%20General%20Relief/%C2%A7%2003938%20-%20Child%20custody%20protection.md) | Child custody protection. |
+| [3938a.](Subchapter%20002%20%28II%29%20-%20General%20Relief/%C2%A7%2003938a%20-%20Annual%20notice%20to%20members%20of%20the%20Armed%20Forces%20regarding%20child%20custody%20protections%20guaranteed%20by%20the%20Servicemembers%20Civil%20Relief%20Act.md) | Annual notice to members of the Armed Forces regarding child custody protections guaranteed by the Servicemembers Civil Relief Act. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

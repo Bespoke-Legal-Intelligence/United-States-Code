@@ -6,7 +6,7 @@ Except as otherwise provided in this section—
 
 &emsp;(1) returns with respect to domestic service employment taxes shall be made on a calendar year basis,
 
-&emsp;(2) any such return for any calendar year shall be filed on or before the 15th day of the fourth month following the close of the employer's taxable year which begins in such calendar year, and
+&emsp;(2) any such return for any calendar year shall be filed on or before the 15th day of thefourth month following the close of the employer's taxable year which begins in such calendar year, and
 
 &emsp;(3) no requirement to make deposits (or to pay installments under section 6157) shall apply with respect to such taxes.
 

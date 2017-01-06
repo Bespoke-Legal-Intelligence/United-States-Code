@@ -10,7 +10,7 @@ A prior section 7364, act Aug. 10, 1956, ch. 1041, 70A Stat. 455, related to adv
 
 A prior section 7365, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; Aug. 29, 1972, Pub. L. 92–417, §1(4), 86 Stat. 654, related to settlement of claims, prior to the general amendment of this chapter by Pub. L. 104–106. See section 7363 of this title.
 
-A prior section 7366, act Aug. 10, 1956, ch. 1041, 70A Stat. 456, related to limitation on appropriations fornaval salvage facilities, prior to repeal by Pub. L. 103–160, div. A, title VIII, §824(a)(10), Nov. 30, 1993, 107 Stat. 1708.
+A prior section 7366, act Aug. 10, 1956, ch. 1041, 70A Stat. 456, related to limitation on appropriations for naval salvage facilities, prior to repeal by Pub. L. 103–160, div. A, title VIII, §824(a)(10), Nov. 30, 1993, 107 Stat. 1708.
 
 A prior section 7367, act Aug. 10, 1956, ch. 1041, 70A Stat. 456, related to disposition of receipts, prior to the general amendment of this chapter by Pub. L. 104–106. See section 7364 of this title.
 

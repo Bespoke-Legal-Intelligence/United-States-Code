@@ -38,7 +38,7 @@ Another prior section 102 of act July 26, 1947, ch. 343, title I, 61 Stat. 497; 
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
@@ -66,18 +66,6 @@ Pub. L. 108–458, title I, §1018, Dec. 17, 2004, 118 Stat. 3670, provided that
 
 &emsp;&emsp;"(E) sections 301 of title 5, 113(b) and 162(b) of title 10, 503 of title 28, and 301(b) of title 31, United States Code."
 
-#### Findings Regarding Improvement of Equality of Employment Opportunities in the Intelligence Community
-
-Pub. L. 108–177, title III, §319, Dec. 13, 2003, 117 Stat. 2614, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(iv), (B), Dec. 17, 2004, 118 Stat. 3692; Pub. L. 111–259, title III, §313(b)(1)(A), (3), Oct. 7, 2010, 124 Stat. 2666, provided that: "Congress makes the following findings:
-
-&emsp;"(1) It is the recommendation of the Joint Inquiry of the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence into Intelligence Community Activities Before and After the Terrorist Attacks of September 11, 2001, that the Intelligence Community should enhance recruitment of a more ethnically and culturally diverse workforce and devise a strategy to capitalize upon the unique cultural and linguistic capabilities of first generation Americans.
-
-&emsp;"(2) The Intelligence Community could greatly benefit from an increased number of employees who are proficient in foreign languages and knowledgeable of world cultures, especially in foreign languages that are critical to the national security interests of the United States. Particular emphasis should be given to the recruitment of United States citizens whose linguistic capabilities are acutely required for the improvement of the overall intelligence collection and analysis effort of the United States Government.
-
-&emsp;"(3) The Intelligence Community has a significantly lower percentage of women and minorities than the total workforce of the Federal government and the total civilian labor force.
-
-&emsp;"(4) Women and minorities continue to be under-represented in senior grade levels, and in core mission areas, of the intelligence community."
-
 #### Report on Lessons Learned From Military Operations in Iraq
 
 Pub. L. 108–177, title III, §357, Dec. 13, 2003, 117 Stat. 2621, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(vi), Dec. 17, 2004, 118 Stat. 3692, required Director of National Intelligence to submit report to Congress, not later than one year after Dec. 13, 2003, on intelligence lessons learned as a result of Operation Iraqi Freedom.
@@ -96,7 +84,7 @@ Ex. Ord. No. 10938, May 4, 1961, 26 F.R. 3951, which established the President's
 
 #### Executive Order No. 11460
 
-Ex. Ord. No. 11460, Mar. 20, 1969, 34 F.R. 5535, which established the President's Foreign Intelligence AdvisoryBoard, was revoked by Ex. Ord. No. 11984, May 4, 1977, 42 F.R. 23129, set out below.
+Ex. Ord. No. 11460, Mar. 20, 1969, 34 F.R. 5535, which established the President's Foreign Intelligence Advisory Board, was revoked by Ex. Ord. No. 11984, May 4, 1977, 42 F.R. 23129, set out below.
 
 #### Ex. Ord. No. 11984. Abolition of President's Foreign Intelligence Advisory Board
 

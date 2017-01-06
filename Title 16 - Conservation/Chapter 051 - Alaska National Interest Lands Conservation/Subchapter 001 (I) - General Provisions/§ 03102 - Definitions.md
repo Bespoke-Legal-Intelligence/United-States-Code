@@ -68,7 +68,7 @@ Pub. L. 105–83, title III, §316(d), Nov. 14, 1997, 111 Stat. 1595, provided t
 
 Pub. L. 105–83, title III, §316(c), Nov. 14, 1997, 111 Stat. 1595, provided that: "No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
 
-&emsp;"(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq.), as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
+&emsp;"(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq.) \[now 25 U.S.C. 5101 et seq.\], as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
 
 &emsp;"(2) any assertion that Indian country, as defined in section 1151 of title 18, United States Code, exists or does not exist within the boundaries of the State of Alaska;
 
@@ -88,7 +88,7 @@ Subsection (a)
 
 Repealed.—
 
-&emsp;"(1) The Secretary of the Interior shall certify before October 1, 1999, if a bill or resolution has been passed by the Alaska State Legislature to amend the Constitution of the State of Alaska that, if approved by the electorate, would enable the implementation of state laws of general applicability consistent with, and which provide for the definition, preference, and participation specified in sections 803, 804, and 805 of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3113, 3114, 3115\].
+&emsp;"(1) The Secretary of the Interior shall certify before October 1, 1999, if a bill or resolution has been passed by the Alaska State Legislature to amend the Constitution of the State of Alaska that, if approved by the electorate, would enable the implementation of state laws of general applicability consistent with, and which provide for the definition, preference, andparticipation specified in sections 803, 804, and 805 of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3113, 3114, 3115\].
 
 &emsp;"(2) Subsection (a) shall be repealed on October 1, 1999, unless prior to that date the Secretary of the Interior makes such a certification described in paragraph (1). \[A certification was not made prior to Oct. 1, 1999.\]
 

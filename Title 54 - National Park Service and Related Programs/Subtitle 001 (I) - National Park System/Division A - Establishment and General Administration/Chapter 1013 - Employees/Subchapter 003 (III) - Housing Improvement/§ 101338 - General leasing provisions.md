@@ -6,7 +6,7 @@ Exemption From Leasing Requirements.—Section 102901 of this title and section 
 
 (b)
 
-Proceeds From Leases.—The proceeds from any lease under section 101335(a)(1) of this title and any lease under section 101337 of thistitle shall be retained by the Service and deposited in the special fund established for maintenance and operation of quarters.
+Proceeds From Leases.—The proceeds from any lease under section 101335(a)(1) of this title and any lease under section 101337 of this title shall be retained by the Service and deposited in the special fund established for maintenance and operation of quarters.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3128.)
 

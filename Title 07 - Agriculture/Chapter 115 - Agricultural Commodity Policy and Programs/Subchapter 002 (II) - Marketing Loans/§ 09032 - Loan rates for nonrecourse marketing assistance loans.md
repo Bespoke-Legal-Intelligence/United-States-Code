@@ -14,7 +14,7 @@ For purposes of each of the 2014 through 2018 crop years, the loan rate for a ma
 
 &emsp;(5) In the case of oats, $1.39 per bushel.
 
-&emsp;(6) In the case of base quality of upland cotton, for each of the 2014 through 2018 crop years, the simple average of the adjusted prevailing world price for the 2 immediately preceding marketing years, as determined by theSecretary and announced October 1 preceding the next domestic plantings, but in no case less than $0.45 per pound or more than $0.52 per pound.
+&emsp;(6) In the case of base quality of upland cotton, for each of the 2014 through 2018 crop years, the simple average of the adjusted prevailing world price for the 2 immediately preceding marketing years, as determined by the Secretary and announced October 1 preceding the next domestic plantings, but in no case less than $0.45 per pound or more than $0.52 per pound.
 
 &emsp;(7) In the case of extra long staple cotton, $0.7977 per pound.
 

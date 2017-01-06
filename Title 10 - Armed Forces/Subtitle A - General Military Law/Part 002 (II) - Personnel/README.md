@@ -70,7 +70,7 @@
 
 <b>1996</b>—Pub. L. 104–201, div. A, title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2751, substituted "Civilian Defense Intelligence Employees" for "Defense Intelligence Agency and Central Imagery Office Civilian Personnel" in item for chapter 83.
 
-Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442,added items for chapters 76 and 88 and struck out item for chapter 89 "Volunteers Investing in Peace and Security".
+Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out item for chapter 89 "Volunteers Investing in Peace and Security".
 
 <b>1994</b>—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted "Defense Intelligence Agency and Central Imagery Office Civilian Personnel" for "Defense Intelligence Agency Civilian Personnel" in item for chapter 83.
 
@@ -150,7 +150,7 @@ Processing for Administrative Separation.—
 
 &emsp;"(1)
 
-In general.—(A) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall require the processing for administrative separation of any member of the Armed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
+In general.—(A) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall require the processing for administrative separation of any member of theArmed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
 
 &emsp;"(B) The Secretary of a military department shall revise regulations applicable to the Armed Forces under the jurisdiction of that Secretary as necessary to ensure compliance with the requirement under subparagraph (A).
 

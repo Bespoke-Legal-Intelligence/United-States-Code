@@ -1,0 +1,6 @@
+### §1775a. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–377, §3, Oct. 19, 1994, 108 Stat. 3502, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.
+

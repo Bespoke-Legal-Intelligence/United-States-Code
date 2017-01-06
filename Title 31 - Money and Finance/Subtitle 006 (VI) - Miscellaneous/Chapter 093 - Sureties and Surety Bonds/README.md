@@ -16,12 +16,9 @@
 | [9307\.](%C2%A7%2009307%20-%20Civil%20actions%20and%20judgments%20against%20surety%20corporations.md) | Civil actions and judgments against surety corporations. |
 | [9308\.](%C2%A7%2009308%20-%20Civil%20penalty.md) | Civil penalty. |
 | [9309\.](%C2%A7%2009309%20-%20Priority%20of%20sureties.md) | Priority of sureties. |
+| [9310\.](%C2%A7%2009310%20-%20Individual%20sureties.md) | Individual sureties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 114–92, div. A, title VIII, §874(a)(2), (c), Nov. 25, 2015, 129 Stat. 940, 941, provided that, effective 1 year after Nov. 25, 2015, this analysis is amended by adding item 9310 "Individual sureties". See 2015 Amendment note below.</i>
 
 #### Amendments
 

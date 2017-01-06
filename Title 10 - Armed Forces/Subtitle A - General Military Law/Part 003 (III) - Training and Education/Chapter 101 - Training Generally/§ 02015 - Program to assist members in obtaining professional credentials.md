@@ -2,9 +2,9 @@
 
 (a)
 
-Program Required.—The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
+Program Required.—The Secretary of Defense and the Secretary of Homeland Security,with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
 
-&emsp;(1) are acquired during service in the armed forces incident to the performance of their military duties; and
+&emsp;(1) are acquired during service in the armed forces; and
 
 &emsp;(2) translate into civilian occupations.
 
@@ -16,23 +16,19 @@ Payment of Expenses.—(1) Under the program required by this section, the Secre
 
 (c)
 
-Quality Assurance of Certification Programs and Standards.—(1) Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) is accredited by an accreditation body that meets the requirements specified in paragraph (2).
+Quality Assurance of Certification Programs and Standards.—(1) Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) meets one of the requirements specified in paragraph (2).
 
-(2) The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+(2) The requirements for a credentialing program specified in this paragraph are that the credentialing program—
 
-&emsp;(A) be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
+&emsp;(A) is accredited by a nationally-recognized, third-party personnel certification program accreditor;
 
-&emsp;(B) meet a recognized national or international standard that directs its policy and procedures regarding accreditation;
+&emsp;(B)(i) is sought or accepted by employers within the industry or sector involved as a recognized, preferred, or required credential for recruitment, screening, hiring, retention, or advancement purposes; and
 
-&emsp;(C) apply a recognized national or international certification standard in making its accreditation decisions regarding certification bodies and programs;
+&emsp;(ii) where appropriate, is endorsed by a nationally-recognized trade association or organization representing a significant part of the industry or sector;
 
-&emsp;(D) conduct on-site visits, as applicable, to verify the documents and records submitted by credentialing bodies for accreditation;
+&emsp;(C) grants licenses that are recognized by the Federal Government or a State government; or
 
-&emsp;(E) have in place policies and procedures to ensure due process when addressing complaints and appeals regarding its accreditation activities;
-
-&emsp;(F) conduct regular training to ensure consistent and reliable decisions among reviewers conducting accreditations; and
-
-&emsp;(G) meet such other criteria as the Secretary concerned considers appropriate in order to ensure quality in its accreditation activities.
+&emsp;(D) meets credential standards of a Federal agency.
 
 (d)
 
@@ -54,13 +50,33 @@ Regulations.—(1) The Secretary of Defense and the Secretary of Homeland Securi
 
 Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
-(Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, §559, Nov. 25, 2015, 129 Stat. 827.)
+(Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, §559, Nov. 25, 2015, 129 Stat. 827; Pub. L. 114–328, div. A, title V, §561, Dec. 23, 2016, 130 Stat. 2137.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §561(a), struck out "incident to the performance of their military duties" after "in the armed forces".
+
+Subsec. (c)(1). Pub. L. 114–328, §561(b)(1), substituted "meets one of the requirements specified in paragraph (2)." for "is accredited by an accreditation body that meets the requirements specified in paragraph (2)."
+
+Subsec. (c)(2). Pub. L. 114–328, §561(b)(2), added par. (2) and struck out former par. (2) which read as follows: "The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+
+&emsp;"(A) be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
+
+&emsp;"(B) meet a recognized national or international standard that directs its policy and procedures regarding accreditation;
+
+&emsp;"(C) apply a recognized national or international certification standard in making its accreditation decisions regarding certification bodies and programs;
+
+&emsp;"(D) conduct on-site visits, as applicable, to verify the documents and records submitted by credentialing bodies for accreditation;
+
+&emsp;"(E) have in place policies and procedures to ensure due process when addressing complaints and appeals regarding its accreditation activities;
+
+&emsp;"(F) conduct regular training to ensure consistent and reliable decisions among reviewers conducting accreditations; and
+
+&emsp;"(G) meet such other criteria as the Secretary concerned considers appropriate in order to ensure quality in its accreditation activities."
 
 <b>2015</b>—Subsecs. (c) to (e). Pub. L. 114–92 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

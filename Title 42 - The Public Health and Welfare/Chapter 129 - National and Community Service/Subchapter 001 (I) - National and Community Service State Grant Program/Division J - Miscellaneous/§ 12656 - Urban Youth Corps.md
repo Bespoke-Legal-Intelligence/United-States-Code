@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (2) Corps and Urban Youth Corps
 
-&emsp;The term "Corps" and "Urban Youth Corps" mean the Urban Youth Corps established under subsection (d)(1) of this section.
+&emsp;The term "Corps" and "Urban Youth Corps" mean the Urban Youth Corps established under subsection (d)(1).
 
 #### (3) Qualified urban youth corps
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (5) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (d) Establishment of Urban Youth Corps
 
@@ -110,7 +110,7 @@ Each participant in the Urban Youth Corps shall agree to participate in the Corp
 
 #### (2) Forbearance in the collection of Stafford loans
 
-&emsp;For purposes of section 1078 of title 20, in the case of borrowers who are participants in the Urban Youth Corps, upon written request, a lender shall grant a borrower forbearance on such terms as are otherwise consistent with the regulations of the Secretary of Education, during periods in which the borrower is serving as such a participant and eligible for a national service educational award under paragraph (1).
+&emsp;For purposes of section 1078 of title 20, in the case of borrowers who are participants in the Urban Youth Corps, upon written request, alender shall grant a borrower forbearance on such terms as are otherwise consistent with the regulations of the Secretary of Education, during periods in which the borrower is serving as such a participant and eligible for a national service educational award under paragraph (1).
 
 #### (h) Nondisplacement
 
@@ -120,7 +120,7 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (1) Projects by qualified urban youth corps
 
-&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of anyappropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
+&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of any appropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
 
 #### (2) Donations
 

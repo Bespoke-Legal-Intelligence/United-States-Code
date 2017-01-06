@@ -46,7 +46,7 @@ Amendment by Pub. L. 111–154 effective on the date that is 90 days after March
 
 Act Aug. 9, 1955, ch. 695, §2, 69 Stat. 628, provided that:
 
-"(a) Except as provided in subsection (b), the amendments made by this Act \[amending this section and former sections 375, 377, and 378 of this title\] shall takeeffect thirty days after the date of its enactment \[Aug. 9, 1955\].
+"(a) Except as provided in subsection (b), the amendments made by this Act \[amending this section and former sections 375, 377, and 378 of this title\] shall take effect thirty days after the date of its enactment \[Aug. 9, 1955\].
 
 "(b) The provisions of section 2(a) of the Act of October 19, 1949, as amended by this Act \[15 U.S.C. 376(a)\], insofar as it requires the filing of memoranda or copies of invoices with the appropriate tax administrator for shipments of cigarettes into the District of Columbia, Alaska, Hawaii, and the Commonwealth of Puerto Rico, shall apply in respect of memoranda or copies of invoices covering shipments made during calendar months beginning after the month in which this Act is enacted \[August 1955\]."
 

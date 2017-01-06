@@ -1,0 +1,6 @@
+### §452. Transferred
+
+#### Codification
+
+Section 452 was editorially reclassified as section 5342 of this title.
+

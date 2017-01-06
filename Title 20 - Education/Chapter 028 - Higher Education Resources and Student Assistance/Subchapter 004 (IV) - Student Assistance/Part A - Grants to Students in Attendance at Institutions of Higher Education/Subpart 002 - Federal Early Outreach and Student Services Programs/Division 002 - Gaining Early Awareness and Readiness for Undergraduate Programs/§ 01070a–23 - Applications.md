@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) describe the activities for which assistance under this division is sought, including how the eligible entity will carry out the required activities described in section 1070a–24(a) of this title;
 
-&emsp;&emsp;(B) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of this title that chooses to provide scholarships, or an eligible entity described in section 1070a–21(c)(1) of this title, how the eligible entity will meet the requirements of section 1070a–25 of this title;
+&emsp;&emsp;(B) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of thistitle that chooses to provide scholarships, or an eligible entity described in section 1070a–21(c)(1) of this title, how the eligible entity will meet the requirements of section 1070a–25 of this title;
 
 &emsp;&emsp;(C) describe, in the case of an eligible entity described in section 1070a–21(c)(2) of this title that requests a reduced match percentage under subsection (b)(2), how such reduction will assist the entity to provide the scholarships described in subsection (b)(2)(A)(ii);
 
@@ -92,7 +92,7 @@ Subsec. (a). Pub. L. 110–315, §404(c)(2)(A), substituted "Application" for "P
 
 Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted "an application" for "a plan" and struck out at end "Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title."
 
-Subsec. (a)(2). Pub. L. 110–315, §404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment,text read as follows: "Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
+Subsec. (a)(2). Pub. L. 110–315, §404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
 
 &emsp;"(A) describe the activities for which assistance under this division is sought; and
 

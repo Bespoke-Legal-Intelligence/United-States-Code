@@ -14,7 +14,7 @@ In General.—Not later than 18 months after the date of enactment of the Rail S
 
 &emsp;&emsp;(D) other safety information involving such grade crossings;
 
-&emsp;(2) upon receiving a report pursuant to paragraph (1)(A) or (B), immediately contact trains operating near the grade crossing to warn them of the malfunction or disabled vehicle;
+&emsp;(2) upon receiving a report pursuant to paragraph (1)(A) or (B), immediately contact trainsoperating near the grade crossing to warn them of the malfunction or disabled vehicle;
 
 &emsp;(3) upon receiving a report pursuant to paragraph (1)(A) or (B), and after contacting trains pursuant to paragraph (2), contact, as necessary, appropriate public safety officials having jurisdiction over the grade crossing to provide them with the information necessary for them to direct traffic, assist in the removal of the disabled vehicle, or carry out other activities as appropriate;
 

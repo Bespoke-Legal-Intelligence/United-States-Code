@@ -2,11 +2,11 @@
 
 #### (a) Unit, operating, and maintenance costs
 
-The Secretary shall establish a technology application program for wind energy systems to achieve the purposes of this chapter by reduction in unit costs of wind energy systems through mass production and by determination of operating and maintenance costs through broad operational systems experience.
+The Secretary shall establish a technology application program for wind energy systems toachieve the purposes of this chapter by reduction in unit costs of wind energy systems through mass production and by determination of operating and maintenance costs through broad operational systems experience.
 
 #### (b) Proposals for Federal assistance
 
-In achieving the objectives of this section, the Secretary shall solicit and evaluate proposals for Federal assistance pursuant to paragraphs (1), (2), and (3) of subsection (c) of this section for investigating, purchasing, and installing such wind energy systems from public or private entities wishing to utilize wind energy systems.
+In achieving the objectives of this section, the Secretary shall solicit and evaluate proposals for Federal assistance pursuant to paragraphs (1), (2), and (3) of subsection (c) for investigating, purchasing, and installing such wind energy systems from public or private entities wishing to utilize wind energy systems.
 
 #### (c) Forms of Federal assistance
 
@@ -22,7 +22,7 @@ In achieving the objectives of this section, the Secretary is authorized to use 
 
 #### (d) Quantity production and utilization
 
-In carrying out his duties under this chapter, the Secretary is authorized to enter into suchcontracts and cooperative agreements with any public or private entity as may be necessary or appropriate for the production and utilization of large and small wind energy systems in quantities sufficient to achieve the objectives of this section.
+In carrying out his duties under this chapter, the Secretary is authorized to enter into such contracts and cooperative agreements with any public or private entity as may be necessary or appropriate for the production and utilization of large and small wind energy systems in quantities sufficient to achieve the objectives of this section.
 
 #### (e) Procedure for direct grants for large systems; limitation of amount
 

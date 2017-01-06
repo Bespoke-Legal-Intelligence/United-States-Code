@@ -10,7 +10,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(3) with respect to the plan described in section 8441(a)(3) of this title, updates to such plan and a description of best practices to improve the impact of the assistance authorized under subchapter I of this chapter;
 
-&emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of this chapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
+&emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of thischapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
 
 &emsp;(5) a description of any shortfall in United States financial, physical, technical, or human resources that hinder the effective use and monitoring of such funds;
 
@@ -58,7 +58,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;&emsp;(B) recommendations relating to any additional actions the Comptroller General believes could help improve the efficiency and effectiveness of United States efforts to meet the objectives of this chapter;
 
-&emsp;&emsp;(C) a detailed description of the expenditures made by Pakistan pursuant to grantassistance under section 2763 of this title (relating to the Foreign Military Financing program); and
+&emsp;&emsp;(C) a detailed description of the expenditures made by Pakistan pursuant to grant assistance under section 2763 of this title (relating to the Foreign Military Financing program); and
 
 &emsp;&emsp;(D) an assessment of the impact of the assistance on the security and stability of Pakistan.
 

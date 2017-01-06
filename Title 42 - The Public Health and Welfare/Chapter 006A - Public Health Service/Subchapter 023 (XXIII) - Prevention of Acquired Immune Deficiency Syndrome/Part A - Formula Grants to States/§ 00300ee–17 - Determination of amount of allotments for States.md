@@ -4,21 +4,21 @@
 
 Subject to the extent of amounts made available in appropriation Acts, the allotment for a State under section 300ee–11(a) of this title for a fiscal year shall be the greater of—
 
-&emsp;(1) the applicable amount specified in subsection (b) of this section; or
+&emsp;(1) the applicable amount specified in subsection (b); or
 
-&emsp;(2) the amount determined in accordance with subsection (c) of this section.
+&emsp;(2) the amount determined in accordance with subsection (c).
 
 #### (b) Determination of minimum allotment
 
-(1) If the total amount appropriated under section 300ee–24(a) of this title for a fiscal year exceeds $100,000,000, the amount referred to in subsection (a)(1) of this section shall be $300,000 for the fiscal year.
+(1) If the total amount appropriated under section 300ee–24(a) of this title for a fiscal year exceeds $100,000,000, the amount referred to in subsection (a)(1) shall be $300,000 for the fiscal year.
 
-(2) If the total amount appropriated under section 300ee–24(a) of this title for a fiscal year equals or exceeds $50,000,000, but is less than $100,000,000, the amount referred to in subsection (a)(1) of this section shall be $200,000 for the fiscal year.
+(2) If the total amount appropriated under section 300ee–24(a) of this title for a fiscal year equals or exceeds $50,000,000, but is less than $100,000,000, the amount referred to in subsection (a)(1) shall be $200,000 for the fiscal year.
 
-(3) If the total amount appropriated under section 300ee–24(a) of this title for a fiscal year is less than $50,000,000, the amount referred to in subsection (a)(1) of this section shall be $100,000 for the fiscal year.
+(3) If the total amount appropriated under section 300ee–24(a) of this title for a fiscal year is less than $50,000,000, the amount referred to in subsection (a)(1) shall be $100,000 for the fiscal year.
 
 #### (c) Determination under formula
 
-(1) The amount referred to in subsection (a)(2) of this section is the sum of—
+(1) The amount referred to in subsection (a)(2) is the sum of—
 
 &emsp;(A) the amount determined under paragraph (2); and
 
@@ -70,13 +70,13 @@ A prior section 2507 of act July 1, 1944, was successively renumbered by subsequ
 
 Subsec. (b)(1). Pub. L. 100–690, §2619(e)(2)(A)(i) \[(f)(2)(A)(i)\], made technical amendment to reference to section 300ee–24(a) of this title to correct reference to corresponding provision of original act.
 
-Pub. L. 100–690, §2619(e)(2)(A)(ii) \[(f)(2)(A)(ii)\], substituted "subsection (a)(1) of this section shall be" for "subsection (a)(1) of this section is".
+Pub. L. 100–690, §2619(e)(2)(A)(ii) \[(f)(2)(A)(ii)\], substituted "subsection (a)(1) shall be" for "subsection (a)(1) is".
 
-Subsec. (b)(2), (3). Pub. L. 100–690, §2619(e)(2)(B), (C) \[(f)(2)(B), (C)\], substituted "subsection (a)(1) of this section shall be" for "subsection (a)(1) of this section is".
+Subsec. (b)(2), (3). Pub. L. 100–690, §2619(e)(2)(B), (C) \[(f)(2)(B), (C)\], substituted "subsection (a)(1) shall be" for "subsection (a)(1) is".
 
 Subsec. (d). Pub. L. 100–690, §2619(e)(3) \[(f)(3)\], substituted "allotment under section 300ee–11(a) of this title" for "allotment" in par. (1) and "section 300ee–13 of this title" for "section 300ee–17 of this title" in par. (2)(A).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 13 - Census
 
-GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
+GPO's 2016 edition (laws in effect as of 2017-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title13.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -95,6 +95,6 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00305 - Penalties for unlawful export information activities](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000305%20-%20Penalties%20for%20unlawful%20export%20information%20activities.md) | 34–35 |
 | [&sect; 00306 - Delegation of functions](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000306%20-%20Delegation%20of%20functions.md) | 35 |
 | [&sect; 00307 - Relationship to general census law](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000307%20-%20Relationship%20to%20general%20census%20law.md) | 35 |
-| [Chapter 010 - Exchange of Census Information](Chapter%20010%20-%20Exchange%20of%20Census%20Information/README.md) | 35 |
-| [&sect; 00401 - Exchange of census information with Bureau of Economic Analysis](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000401%20-%20Exchange%20of%20census%20information%20with%20Bureau%20of%20Economic%20Analysis.md) | 35–36 |
+| [Chapter 010 - Exchange of Census Information](Chapter%20010%20-%20Exchange%20of%20Census%20Information/README.md) | 35–36 |
+| [&sect; 00401 - Exchange of census information with Bureau of Economic Analysis](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000401%20-%20Exchange%20of%20census%20information%20with%20Bureau%20of%20Economic%20Analysis.md) | 36 |
 | [&sect; 00402 - Providing business data to Designated Statistical Agencies](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000402%20-%20Providing%20business%20data%20to%20Designated%20Statistical%20Agencies.md) | 36 |

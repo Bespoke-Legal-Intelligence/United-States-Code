@@ -14,7 +14,7 @@
 
 &emsp;(4) The sanitary and hospital authorities of the armed forces of State Parties to the Geneva Conventions of August 12, 1949.
 
-(d) This section does not make unlawful the use of any such emblem, sign, insignia, or wordswhich was lawful on or before December 8, 2005, if such use would not appear in time of armed conflict to confer the protections of the Geneva Conventions of August 12, 1949, and, if applicable, the Additional Protocols.
+(d) This section does not make unlawful the use of any such emblem, sign, insignia, or words which was lawful on or before December 8, 2005, if such use would not appear in time of armed conflict to confer the protections of the Geneva Conventions of August 12, 1949, and, if applicable, the Additional Protocols.
 
 (e) A violation of this section or section 706 may be enjoined at the civil suit of the Attorney General.
 

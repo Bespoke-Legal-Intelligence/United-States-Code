@@ -88,15 +88,9 @@ Border Commercial Motor Vehicle and Safety Enforcement Programs.—
 
 &emsp;"(1)
 
-Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
+Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under section 31104(a)(1) of title 49, United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
 
 &emsp;"(2)
 
-Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
-
-&emsp;"(3)
-
-Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year."
-
-<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(10), (f), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, section 218 of Pub. L. 106–159, set out above, is amended in subsection (d)(1) by striking "section 31104(f)(2)(B) of title 49, United States Code" and inserting "section 31104(a)(1) of title 49, United States Code" and by striking subsection (d)(3).\]</i>
+Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies."
 

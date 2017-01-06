@@ -6,7 +6,7 @@ The Director shall measure and evaluate the impact of all programs authorized by
 
 #### (b) General standards; publication; reports of ensuing actions
 
-The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
+The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actionstaken as a result of evaluations carried out under this section.
 
 #### (c) Opinions of participants
 
@@ -24,7 +24,7 @@ The Director shall take the necessary action to assure that all studies, evaluat
 
 Not later than December 31, 1988, the Director shall—
 
-&emsp;(1) evaluate the impact of Corporation programs carried out under subchapter II of this chapter that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
+&emsp;(1) evaluate the impact of Corporation programs carried out under subchapter II that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
 
 &emsp;&emsp;(A) the range and extent of service needs of, and the services provided to, family caregivers assisted by volunteers;
 
@@ -34,7 +34,7 @@ Not later than December 31, 1988, the Director shall—
 
 &emsp;&emsp;(D) such other issues as may be relevant to provide services to assist family caregivers;
 
-&emsp;(2) evaluate the impact that volunteers who participate in programs under parts B and C of subchapter II of this chapter without receiving a stipend have on such programs and shall include in such evaluation—
+&emsp;(2) evaluate the impact that volunteers who participate in programs under parts B and C of subchapter II without receiving a stipend have on such programs and shall include in such evaluation—
 
 &emsp;&emsp;(A) information on adminstrative <sup>2</sup> costs associated with such volunteers;
 
@@ -48,7 +48,7 @@ Not later than December 31, 1988, the Director shall—
 
 The Director is authorized to use such sums as are required, but not to exceed 1 per centum of the funds appropriated under this chapter, to conduct program and project evaluations (directly, or by grants or contracts) as required by this chapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriate therefor) shall be reduced accordingly.
 
-(Pub. L. 93–113, title IV, §416, Oct. 1, 1973, 87 Stat. 412; Pub. L. 98–288, §23, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §8, Oct. 27, 1986, 100Stat. 3075; Pub. L. 101–204, title IV, §402, Dec. 7, 1989, 103 Stat. 1815; Pub. L. 103–82, title IV, §405(a)(9), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2153, Apr. 21, 2009, 123 Stat. 1591.)
+(Pub. L. 93–113, title IV, §416, Oct. 1, 1973, 87 Stat. 412; Pub. L. 98–288, §23, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §8, Oct. 27, 1986, 100 Stat. 3075; Pub. L. 101–204, title IV, §402, Dec. 7, 1989, 103 Stat. 1815; Pub. L. 103–82, title IV, §405(a)(9), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2153, Apr. 21, 2009, 123 Stat. 1591.)
 
 #### References in Text
 

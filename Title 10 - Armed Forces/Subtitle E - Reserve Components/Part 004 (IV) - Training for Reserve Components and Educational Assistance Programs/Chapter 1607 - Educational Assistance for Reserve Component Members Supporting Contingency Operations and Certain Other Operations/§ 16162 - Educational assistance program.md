@@ -52,7 +52,7 @@ Availability of Assistance for Licensing and Certification Tests.—The provisio
 
 (f)
 
-Contributions for Increased Amount of Educational Assistance.—(1)(A) Any individual eligible for educational assistance under this section may contribute amounts for purposes of receiving an increased amount of educational assistance as provided for in paragraph (2).
+Contributions for Increased Amount of Educational Assistance.—(1)(A) Any individual eligible for educational assistance under thissection may contribute amounts for purposes of receiving an increased amount of educational assistance as provided for in paragraph (2).
 
 (B) An individual covered by subparagraph (A) may make the contributions authorized by that subparagraph at any time while a member of a reserve component, but not more frequently than monthly.
 

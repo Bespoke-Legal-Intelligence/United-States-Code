@@ -14,7 +14,7 @@ In this chapter—
 
 &emsp;(4) "commercial motor vehicle" means a motor vehicle used in commerce to transport passengers or property that—
 
-&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
+&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001 pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
@@ -248,21 +248,7 @@ For provisions relating to exemptions from certain requirements of this chapter 
 
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102,title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, provided that:
-
-"(a)
-
-Establishment.—The Secretary \[of Transportation\] shall establish a grant program for persons to train operators of commercial motor vehicles (as defined in section 31301 of title 49, United States Code). The purpose of the program shall be to train operators and future operators in the safe use of such vehicles.
-
-"(b)
-
-Federal Share.—The Federal share of the cost for which a grant is made under this section shall be 80 percent.
-
-"(c)
-
-Funding.—From amounts made available under section 31110 of title 49, United States Code, the Secretary shall make available, $1,000,000 for fiscal year 2016 to carry out this section."
-
-<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(7), (f), (g), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, section 4134 of Pub. L. 109–59, set out above, is repealed, subject to a transition provision.\]</i>
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, which established a grant program for persons to train operators of commercial motor vehicles, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(7), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### CDL Task Force
 

@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Annual operating plan
 
-&emsp;The term "annual operating plan" means a plan prepared by the Secretary that describespotential water condition scenarios for a river basin for a year.
+&emsp;The term "annual operating plan" means a plan prepared by the Secretary that describes potential water condition scenarios for a river basin for a year.
 
 #### (b) Communication
 

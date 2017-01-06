@@ -116,7 +116,7 @@ In this section:
 
 #### (8) Amended report
 
-&emsp;If a responsible party receives a notification under paragraph (6)(B) or paragraph (7)(C) with respect to an article of food after the responsible party has submitted a report to theFood and Drug Administration under paragraph (1) with respect to such article of food—
+&emsp;If a responsible party receives a notification under paragraph (6)(B) or paragraph (7)(C) with respect to an article of food after the responsible party has submitted a report to the Food and Drug Administration under paragraph (1) with respect to such article of food—
 
 &emsp;&emsp;(A) the responsible party is not required to submit an additional report or make a notification under paragraph (7); and
 
@@ -134,7 +134,7 @@ The data elements described in this subsection are the following:
 
 &emsp;(4) The extent and nature of the adulteration.
 
-&emsp;(5) If the adulteration of the article of food may have originated with the responsible party, the results of the investigation required under paragraph (1)(B) or (7)(B) of subsection (d), as applicable and when known.
+&emsp;(5) If the adulteration of the article of food may have originated with the responsibleparty, the results of the investigation required under paragraph (1)(B) or (7)(B) of subsection (d), as applicable and when known.
 
 &emsp;(6) The disposition of the article of food, when known.
 
@@ -204,7 +204,7 @@ Except with respect to fruits and vegetables that are raw agricultural commoditi
 
 #### (2) States and localities
 
-&emsp;In implementing this section, the Secretary shall work with the State and local publichealth officials to share information and coordinate regulatory efforts, in order to—
+&emsp;In implementing this section, the Secretary shall work with the State and local public health officials to share information and coordinate regulatory efforts, in order to—
 
 &emsp;&emsp;(A) help to ensure coverage of the safety of the food supply chain, including those food establishments regulated by the States and localities that are not required to register under section 350d of this title; and
 
@@ -220,7 +220,7 @@ Except as provided by section 350d(a)(4) <sup>1</sup> of this title, section 55
 
 #### (l) Safety report
 
-A report or notification under subsection (d) shall be considered to be a safety report under section 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
+A report or notification under subsection (d) shall be considered to be a safety report undersection 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
 
 #### (m) Admission
 

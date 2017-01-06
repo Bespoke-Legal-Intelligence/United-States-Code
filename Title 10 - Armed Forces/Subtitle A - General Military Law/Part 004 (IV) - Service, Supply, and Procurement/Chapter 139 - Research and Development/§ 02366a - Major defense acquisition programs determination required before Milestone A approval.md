@@ -2,7 +2,7 @@
 
 (a)
 
-Responsibilities.—Before granting Milestone A approval for a major defense acquisition program or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
+Responsibilities.—Before granting Milestone A approval for a major defense acquisitionprogram or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
 
 &emsp;(1) information about the program or subprogram is sufficient to warrant entry of the program or subprogram into the risk reduction phase;
 
@@ -20,19 +20,53 @@ Written Determination Required.—A major defense acquisition program or subprog
 
 &emsp;(3) if the program duplicates a capability already provided by an existing system, the duplication provided by such program is necessary and appropriate;
 
-&emsp;(4) that, with respect to any identified areas of risk, there is a plan to reduce the risk;
+&emsp;(4) that, with respect to any identified areas of risk, including risks determined by the identification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment, there is a plan to reduce the risk;
 
 &emsp;(5) that planning for sustainment has been addressed and that a determination of applicability of core logistics capabilities requirements has been made;
 
 &emsp;(6) that an analysis of alternatives has been performed consistent with study guidance developed by the Director of Cost Assessment and Program Evaluation;
 
-&emsp;(7) that a cost estimate for the program has been submitted, with the concurrence of the Director of Cost Assessment and Program Evaluation, and that the level of resources required to develop, procure, and sustain the program is sufficient for successful program execution; and
+&emsp;(7) that a cost estimate for the program has been submitted, with the concurrence of the Director of Cost Assessment and Program Evaluation, and that the level of resources required to develop, procure, and sustain the program is sufficient for successful program execution;
 
-&emsp;(8) that the program or subprogram meets any other considerations the milestone decision authority considers relevant.
+&emsp;(8) that, with respect to a program initiated after January 1, 2019, technology shall be developed in the program (after Milestone A approval) only if the milestone decision authority determines with a high degree of confidence that such development will not delay the fielding target of the program, or, if the milestone decision authority does not make such determination for a major system component being developed under the program, the milestone decision authority ensures that the technology related to the major system component shall be sufficiently matured and demonstrated in a relevant environment (after Milestone A approval) separate from the program using the prototyping authorities in subchapter II of chapter 144B of this title or other authorities, as appropriate, and have an effective plan for adoption or insertion by the relevant program; and
+
+&emsp;(9) that the program or subprogram meets any other considerations the milestone decision authority considers relevant.
 
 (c)
 
-Submission to Congress.—At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination. The explanation shall be submitted in unclassified form, but may include a classified annex.
+Submissions to Congress on Milestone A.—
+
+&emsp;(1)
+
+Brief summary report.—Not later than 15 days after granting Milestone A approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+
+&emsp;&emsp;(A) The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title.
+
+&emsp;&emsp;(B) The estimated cost and schedule for the program established by the military department concerned, including—
+
+&emsp;&emsp;&emsp;(i) the dollar values estimated for the program acquisition unit cost and total life-cycle cost; and
+
+&emsp;&emsp;&emsp;(ii) the planned dates for each program milestone and initial operational capability.
+
+&emsp;&emsp;(C) The independent estimated cost for the program established pursuant to section 2334(a)(6) of this title, and any independent estimated schedule for the program, including—
+
+&emsp;&emsp;&emsp;(i) as assessment of the major contributors to the program acquisition unit cost and total life-cycle cost; and
+
+&emsp;&emsp;&emsp;(ii) the planned dates for each program milestone and initial operational capability.
+
+&emsp;&emsp;(D) A summary of the technical or manufacturing risks associated with the program, as determined by the military department concerned, including identification of any critical technologies or manufacturing processes that need to be matured.
+
+&emsp;&emsp;(E) A summary of the independent technical risk assessment conducted or approved under section 2448b of this title, including identification of any critical technologies or manufacturing processes that need to be matured.
+
+&emsp;&emsp;(F) A summary of any sufficiency review conducted by the Director of Cost Assessment and Program Evaluation of the analysis of alternatives performed for the program (as referred to in section 2366a(b)(6) of this title).
+
+&emsp;&emsp;(G) Any other information the milestone decision authority considers relevant.
+
+&emsp;(2)
+
+Additional information.—(A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect toa major defense acquisition program, together with a copy of the written determination, or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.
+
+&emsp;(B) The explanation or information shall be submitted in unclassified form, but may include a classified annex.
 
 (d)
 
@@ -52,13 +86,27 @@ Definitions.—In this section:
 
 &emsp;(7) The term "milestone decision authority", with respect to a major defense acquisition program or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
 
-(Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902.)
+&emsp;(8) The term "fielding target" has the meaning given that term in section 2448a(a) of this title.
+
+&emsp;(9) The term "major system component" has the meaning given that term in section 2446a(b)(3) of this title.
+
+&emsp;(10) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
+
+(Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262.)
 
 #### Prior Provisions
 
 A prior section 2366a was renumbered section 2366b of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(4). Pub. L. 114–328, §807(d), inserted ", including risks determined by the identification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment" after "areas of risk".
+
+Subsec. (b)(8), (9). Pub. L. 114–328, §806(b), added par. (8) and redesignated former par. (8) as (9).
+
+Subsec. (c). Pub. L. 114–328, §808(a)(1), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: "At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination. The explanation shall be submitted in unclassified form, but may include a classified annex."
+
+Subsec. (d)(8) to (10). Pub. L. 114–328, §808(a)(2), added pars. (8) to (10).
 
 <b>2015</b>—Pub. L. 114–92 amended section generally. Prior to amendment, section related to certification required before Milestone A approval of major defense acquisition programs.
 
@@ -98,7 +146,7 @@ Subsec. (c). Pub. L. 111–383, §1075(b)(33)(A), inserted a space after "(c)".
 
 Subsec. (c)(2) to (5). Pub. L. 111–383, §814(b)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
-Pub. L. 111–383, §1075(b)(33)(B), which directed substitution of "section 118b(c)(3) of this title" for "section 125a(a) of this title" in par. (4), was executed by makingthe substitution in par. (5) to reflect the probable intent of Congress and the amendment by Pub. L. 111–383, §814(b)(2)(A). See above.
+Pub. L. 111–383, §1075(b)(33)(B), which directed substitution of "section 118b(c)(3) of this title" for "section 125a(a) of this title" in par. (4), was executed by making the substitution in par. (5) to reflect the probable intent of Congress and the amendment by Pub. L. 111–383, §814(b)(2)(A). See above.
 
 Subsec. (c)(6). Pub. L. 111–383, §814(b)(2)(A), redesignated par. (5) as (6).
 

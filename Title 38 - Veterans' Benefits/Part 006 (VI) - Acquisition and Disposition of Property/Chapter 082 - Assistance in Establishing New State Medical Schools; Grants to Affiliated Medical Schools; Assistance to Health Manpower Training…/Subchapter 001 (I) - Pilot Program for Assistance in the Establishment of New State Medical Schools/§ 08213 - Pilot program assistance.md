@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 <b>1981</b>—Subsec. (a)(2)(G). Pub. L. 97–15 substituted "seventh and eighth such periods" for "seventh such period".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–581, §116(3), redesignated pars. (2) and (3) as (1) and (2), respectively. Former par. (1), which authorized the leasing of such land, buildings, and structures under the control of the Veterans' Administration as might be necessary for a new medical school, was struck out. See section 5070(e) of this title.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §116(3), redesignated pars. (2) and (3) as (1) and (2), respectively. Former par.\(1), which authorized the leasing of such land, buildings, and structures under the control of the Veterans' Administration as might be necessary for a new medical school, was struck out. See section 5070(e) of this title.
 
 Subsec. (b)(1). Pub. L. 94–581, §210(f)(3)(A), substituted "the Administrator" for "he" in provisions preceding subpar. (A).
 

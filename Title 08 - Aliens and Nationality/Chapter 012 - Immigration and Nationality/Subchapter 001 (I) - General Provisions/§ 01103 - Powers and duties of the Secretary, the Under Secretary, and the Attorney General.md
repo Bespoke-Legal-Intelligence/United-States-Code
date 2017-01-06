@@ -14,7 +14,7 @@
 
 (6) He is authorized to confer or impose upon any employee of the United States, with the consent of the head of the Department or other independent establishment under whose jurisdiction the employee is serving, any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
-(7) He may, with the concurrence of the Secretary of State, establish offices of the Service in foreign countries; and, after consultation with the Secretary of State, he may, wheneverin his judgment such action may be necessary to accomplish the purposes of this chapter, detail employees of the Service for duty in foreign countries.
+(7) He may, with the concurrence of the Secretary of State, establish offices of the Service in foreign countries; and, after consultation with the Secretary of State, he may, whenever in his judgment such action may be necessary to accomplish the purposes of this chapter, detail employees of the Service for duty in foreign countries.
 
 (8) After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws.
 
@@ -46,7 +46,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 (1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
-(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
+(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation,basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
 (3) Such system shall provide for the collection and dissemination of such information not less often than annually.
 
@@ -64,7 +64,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### (1) In general
 
-&emsp;The Attorney General shall have such authorities and functions under this chapter andall other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
+&emsp;The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
 
 #### (2) Powers
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
 Pub. L. 104–208, §125, inserted at end "After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers."
 
-Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
+Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization ofState and local law enforcement officers in event of mass influx of aliens arriving.
 
 Subsec. (a)(9). Pub. L. 104–208, §373(1), added at end par. (9) relating to Attorney General authority to support administrative detention of persons in non-Federal institutions.
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 104–208, §134(a), added subsec. (f).
 
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–649 added subsecs. (c) and (d).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted "instructions" for "intructions" and amended fourthsentence generally. Prior to amendment, fourth sentence read as follows: "He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service."
+<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted "instructions" for "intructions" and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: "He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service."
 
 Subsec. (b). Pub. L. 100–525, §9(c)(2), struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
 
@@ -192,7 +192,7 @@ Consultation.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United States to minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
+In general.—In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United Statesto minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -216,7 +216,7 @@ Safety features.—The Attorney General, while constructing the additional fenci
 
 &emsp;"(4)
 
-Authorization of appropriations.—There are authorized to be appropriated such sums as may benecessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 "(c)
 
@@ -303,7 +303,7 @@ Rates of pay.—
 
 Appointment.—
 
-&emsp;"(A) Upon appointment, an immigration judge shall be paid at IJ–1, and shall be advanced to IJ–2 upon completion of 104 weeks of service, to IJ–3 upon completion of 104 weeks of service in the next lower rate, and to IJ–4 upon completion of 52 weeks of service in the next lower rate.
+&emsp;"(A) Upon appointment, an immigration judge shall be paid at IJ–1, and shall be advanced to IJ–2 uponcompletion of 104 weeks of service, to IJ–3 upon completion of 104 weeks of service in the next lower rate, and to IJ–4 upon completion of 52 weeks of service in the next lower rate.
 
 &emsp;"(B) Notwithstanding subparagraph (A), the Attorney General may provide for appointment of an immigration judge at an advanced rate under such circumstances as the Attorney General may determine appropriate.
 
@@ -385,7 +385,7 @@ Sec. 2. <i>Membership and Operation</i>. (a) The Task Force shall be limited to 
 
 (xiii) such other officers of the United States as the Secretary may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
 
-(b) The Secretary shall convene and preside at meetings of the Task Force, direct its work, and as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of Task Force members. The Secretary shall designate an official of the Department to serve as the Executive Secretary of the Task Force, and the Executive Secretary shall head the staff assigned to the Task Force.
+(b) The Secretary shall convene and preside at meetings of the Task Force, direct its work, and as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of Task Force members. The Secretary shall designate an official ofthe Department to serve as the Executive Secretary of the Task Force, and the Executive Secretary shall head the staff assigned to the Task Force.
 
 Sec. 3. <i>Functions</i>. Consistent with applicable law, the Task Force shall:
 
@@ -491,7 +491,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall,
 
 (b) Within 120 days of the date of this memorandum, the Task Force shall develop and submit to the President an Integration Plan with recommendations for agency actions to further the integration of new Americans. The Integration Plan shall include:
 
-(i) an assessment by each Task Force member of the status and scope of the efforts by the member's department, agency, or office to further the civic, economic, and linguistic integration of new Americans, includinga report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning immigrant integration; and
+(i) an assessment by each Task Force member of the status and scope of the efforts by the member's department, agency, or office to further the civic, economic, and linguistic integration of new Americans, including a report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning immigrant integration; and
 
 (ii) recommendations for issues, programs, or initiatives that should be further evaluated, studied, and implemented, as appropriate.
 

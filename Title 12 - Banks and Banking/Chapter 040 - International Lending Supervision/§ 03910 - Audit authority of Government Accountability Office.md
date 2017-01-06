@@ -8,7 +8,7 @@
 
 (3) Audits of the Federal Reserve Board and Federal Reserve banks may not include—
 
-&emsp;(A) transactions for, or with, a foreign central bank, government of a foreign country, or nonprivate international financing organization;
+&emsp;(A) transactions for, or with, a foreign central bank, government of a foreign country, ornonprivate international financing organization;
 
 &emsp;(B) deliberations, decisions, or actions on monetary policy matters, including discount window operations, reserves of member banks, securities credit, interest on deposits, or open market operations;
 

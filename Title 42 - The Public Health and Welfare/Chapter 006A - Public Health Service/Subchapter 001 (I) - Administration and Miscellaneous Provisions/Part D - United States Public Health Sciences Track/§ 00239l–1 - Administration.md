@@ -58,7 +58,7 @@ The Surgeon General shall establish programs in continuing medical education for
 
 #### (3) Scientists
 
-&emsp;Scientists or other medical, dental, or nursing personnel utilized by the Track under an agreement described in paragraph (1) may be appointed to any position within the Track and may be permitted to perform such duties within the Track as the Surgeon General may approve.
+&emsp;Scientists or other medical, dental, or nursing personnel utilized by the Track under anagreement described in paragraph (1) may be appointed to any position within the Track and may be permitted to perform such duties within the Track as the Surgeon General may approve.
 
 #### (4) Volunteer services
 

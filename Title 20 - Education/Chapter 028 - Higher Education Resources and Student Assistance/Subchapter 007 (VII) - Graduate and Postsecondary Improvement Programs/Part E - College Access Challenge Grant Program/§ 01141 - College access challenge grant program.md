@@ -2,7 +2,7 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 #### (1) Amount of allotment
 
-&emsp;Subject to paragraph (2), in making grant payments to grantees under this section, the allotment to each grantee for a fiscal year shall be equal to the sum of—
+&emsp;Subject to paragraph (2), in making grant payments to grantees under this section, theallotment to each grantee for a fiscal year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the amount that bears the same relation to 50 percent of the amount appropriated under subsection (a) for such fiscal year as the number of residents in the State aged 5 through 17 who are living below the poverty line applicable to the resident's family size (as determined under section 9902(2) of title 42) bears to the total number of such residents in all States; and
 
@@ -116,7 +116,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;&emsp;&emsp;(I) entrance requirements for admission to institutions of higher education; and
 
-&emsp;&emsp;&emsp;&emsp;(II) State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 of this title, and other financial assistance that is dependent upon a student's coursework;
+&emsp;&emsp;&emsp;&emsp;(II) State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 <sup>2</sup> of this title, and other financial assistance that is dependent upon a student's coursework;
 
 &emsp;&emsp;&emsp;(ii) applying to institutions of higher education;
 
@@ -156,7 +156,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;(C) not charge any student or parent a fee or additional charge to participate in the activities or services; and
 
-&emsp;&emsp;(D) in the case of an activity providing grant aid, not require a student to meet any condition other than eligibility for Federal financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, except as provided for in the loan cancellation or repayment or interest rate reductions described in subsection (f)(1)(G).
+&emsp;&emsp;(D) in the case of an activity providing grant aid, not require a student to meet any condition other than eligibility for Federal financial assistance under subchapter IV of this chapter, except as provided for in the loan cancellation or repayment or interest rate reductions described in subsection (f)(1)(G).
 
 #### (2) Priority
 
@@ -174,7 +174,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;&emsp;(i) include information to students and the students' parents of the availability of Federal, State, local, institutional, and other grants and loans for postsecondary education; and
 
-&emsp;&emsp;&emsp;(ii) present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in a manner that is clearly distinct from information on student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(ii) present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter in a manner that is clearly distinct from information on student financial assistance under such subchapter IV.
 
 #### (4) Coordination
 
@@ -200,7 +200,7 @@ In this section:
 
 &emsp;The term "philanthropic organization" means a non-profit organization—
 
-&emsp;&emsp;(A) that does not receive funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 or under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
+&emsp;&emsp;(A) that does not receive funds under subchapter IV of this chapter or under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
 &emsp;&emsp;(B) that is not a local educational agency or an institution of higher education;
 
@@ -249,6 +249,8 @@ In this section:
 #### References in Text
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment of Pub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
+
+Section 1070a–1 of this title, referred to in subsec. (f)(1)(F)(i)(II), was omitted from the Code upon the expiration of Secretary's authority to make grants at the end of award year 2010–2011.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (i)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
@@ -347,4 +349,6 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 Section effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under section 1070a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "organizations,".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

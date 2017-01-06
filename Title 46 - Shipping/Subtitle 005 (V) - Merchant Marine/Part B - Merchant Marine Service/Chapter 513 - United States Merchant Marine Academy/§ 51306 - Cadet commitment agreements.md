@@ -48,7 +48,7 @@ Failure To Carry Out Other Requirements.—
 
 &emsp;(1)
 
-Active duty.—If the Secretary of Transportation determines that an individual has failed to fulfill any part of the agreement described in subsection (a)(2)–(6), the individual may be ordered to serve on active duty for a period of at least 3 years but not more than the unexpired period (as determined by theSecretary) of the service required by subsection (a)(5). The Secretary of Transportation, in consultation with the Secretary of Defense, shall determine in which service the individual shall serve. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+Active duty.—If the Secretary of Transportation determines that an individual hasfailed to fulfill any part of the agreement described in subsection (a)(2)–(6), the individual may be ordered to serve on active duty for a period of at least 3 years but not more than the unexpired period (as determined by the Secretary) of the service required by subsection (a)(5). The Secretary of Transportation, in consultation with the Secretary of Defense, shall determine in which service the individual shall serve. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
 
 &emsp;(2)
 

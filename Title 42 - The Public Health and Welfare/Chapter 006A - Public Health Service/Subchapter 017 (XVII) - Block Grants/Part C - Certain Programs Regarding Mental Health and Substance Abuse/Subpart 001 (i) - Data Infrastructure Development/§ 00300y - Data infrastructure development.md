@@ -16,7 +16,7 @@ As a condition of the receipt of an award under this section a State shall agree
 
 #### (1) In general
 
-&emsp;With respect to the costs of the program to be carried out under subsection (a) of this section by a State, the Secretary may make an award under such subsection only if the applicant agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs.
+&emsp;With respect to the costs of the program to be carried out under subsection (a) by a State, the Secretary may make an award under such subsection only if the applicant agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs.
 
 #### (2) Determination of amount contributed
 
@@ -24,7 +24,7 @@ As a condition of the receipt of an award under this section a State shall agree
 
 #### (e) Duration of support
 
-The period during which payments may be made for a project under subsection (a) of this section may be not less than 3 years nor more than 5 years.
+The period during which payments may be made for a project under subsection (a) may be not less than 3 years nor more than 5 years.
 
 #### (f) Authorization of appropriation
 
@@ -40,7 +40,7 @@ The period during which payments may be made for a project under subsection (a) 
 
 #### Prior Provisions
 
-A prior section 300y, act July 1, 1944, ch. 373, title XIX, §1971, as added Pub. L. 102–321, title II, §204, July 10, 1992, 106 Stat. 410; amended Pub. L. 102–352, §2(a)(13), Aug. 26, 1992, 106 Stat. 939, related to categorical grants to States for programs regarding substance abuse, prior to repeal by Pub. L. 106–310, div. B, title XXXIV, §3404(2), Oct. 17, 2000, 114 Stat. 1220.
+A prior section 300y, act July 1, 1944, ch. 373, title XIX, §1971, as added Pub. L. 102–321, title II, §204, July10, 1992, 106 Stat. 410; amended Pub. L. 102–352, §2(a)(13), Aug. 26, 1992, 106 Stat. 939, related to categorical grants to States for programs regarding substance abuse, prior to repeal by Pub. L. 106–310, div. B, title XXXIV, §3404(2), Oct. 17, 2000, 114 Stat. 1220.
 
 Another prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4002, 100 Stat. 3207–103, related to establishment of special alcohol abuse and drug abuse programs, prior to repeal by Pub. L. 100–690, title II, §2038(1), Nov. 18, 1988, 102 Stat. 4203.
 

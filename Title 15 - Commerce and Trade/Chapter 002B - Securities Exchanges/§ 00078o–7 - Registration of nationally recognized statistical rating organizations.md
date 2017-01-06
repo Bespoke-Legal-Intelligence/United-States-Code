@@ -60,7 +60,7 @@
 
 #### (A) Initial determination
 
-&emsp;&emsp;Not later than 90 days after the date on which the application for registration is furnished to the Commission under paragraph (1) (or within such longer period as to which the applicant consents) the Commission shall—
+&emsp;&emsp;Not later than 90 days after the date on which the application for registration is furnished to the Commission under paragraph (1) (or within such longer period as to whichthe applicant consents) the Commission shall—
 
 &emsp;&emsp;&emsp;(i) by order, grant such registration for ratings in the subject category or categories of obligors, as described in clauses (i) through (v) of section 78c(a)(62)(B) of this title; or
 
@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against anyaction or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -188,7 +188,7 @@
 
 #### (1) Voluntary withdrawal
 
-&emsp;A nationally recognized statistical rating organization may, upon such terms and conditions as the Commission may establish as necessary in the public interest or for the protection of investors, withdraw from registration by furnishing a written notice of withdrawal to the Commission.
+&emsp;A nationally recognized statistical rating organization may, upon such terms and conditions as the Commission may establish as necessary in the public interest or for the protection of investors, withdraw from registrationby furnishing a written notice of withdrawal to the Commission.
 
 #### (2) Commission authority
 
@@ -252,7 +252,7 @@
 
 &emsp;&emsp;&emsp;(ii) suspension or revocation of the registration of a nationally recognized statistical rating organization, if the Commission finds, on the record, after notice and opportunity for a hearing, that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the nationally recognized statistical rating organization has committed a violation of a rule issued under this subsection; and
+&emsp;&emsp;&emsp;&emsp;(I) the nationally recognized statistical rating organization has committeda violation of a rule issued under this subsection; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the violation of a rule issued under this subsection affected a rating.
 
@@ -364,7 +364,7 @@
 
 #### (k) Statements of financial condition
 
-Each nationally recognized statistical rating organization shall, on a confidential basis, filewith the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+Each nationally recognized statistical rating organization shall, on a confidential basis, file with the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (l) Sole method of registration
 
@@ -402,7 +402,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) New provisions
 
-&emsp;Such rules and regulations as are required by this section or are otherwise necessary to carry out this section, including the application form required under subsection (a)—
+&emsp;Such rules and regulations as are required by this section or are otherwise necessary tocarry out this section, including the application form required under subsection (a)—
 
 &emsp;&emsp;(A) shall be issued by the Commission in final form, not later than 270 days after September 29, 2006; and
 
@@ -446,7 +446,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (2) Staffing
 
-&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of andexpertise in corporate, municipal, and structured debt finance.
+&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of and expertise in corporate, municipal, and structured debt finance.
 
 #### (3) Commission examinations
 
@@ -496,7 +496,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) Rulemaking required
 
-&emsp;The Commission shall, by rule, require that each nationally recognized statistical rating organization publicly disclose information on the initial credit ratings determined by the nationally recognized statistical rating organization for each type of obligor, security, and money market instrument, and any subsequent changes to such credit ratings, for the purpose of allowing users of credit ratings to evaluate the accuracy of ratings and compare the performance of ratings by different nationally recognized statistical rating organizations.
+&emsp;The Commission shall, by rule, require that each nationally recognized statistical ratingorganization publicly disclose information on the initial credit ratings determined by the nationally recognized statistical rating organization for each type of obligor, security, and money market instrument, and any subsequent changes to such credit ratings, for the purpose of allowing users of credit ratings to evaluate the accuracy of ratings and compare the performance of ratings by different nationally recognized statistical rating organizations.
 
 #### (2) Content
 
@@ -524,7 +524,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 &emsp;&emsp;(B) in accordance with the policies and procedures of the nationally recognized statistical rating organization for the development and modification of credit rating procedures and methodologies;
 
-&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies\(including changes to qualitative and quantitative data and models) are made, that—
+&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies (including changes to qualitative and quantitative data and models) are made, that—
 
 &emsp;&emsp;(A) the changes are applied consistently to all credit ratings to which the changed procedures and methodologies apply;
 
@@ -684,7 +684,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (4) Treatment of NRSRO subsidiaries
 
-&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity,the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
+&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity, the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
 
 &emsp;&emsp;(A) at least ½ of the members of the committee (including the chairperson of the committee) are independent, as defined in this section; and
 

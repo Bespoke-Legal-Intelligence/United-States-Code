@@ -42,7 +42,7 @@ A prior section 1002 of Pub. L. 89–10 was renumbered section 9002 and was clas
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (i)relating to authorization of appropriations for fiscal years 2002 through 2007.
+<b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to authorization of appropriations for fiscal years 2002 through 2007.
 
 #### Effective Date of 2015 Amendment
 

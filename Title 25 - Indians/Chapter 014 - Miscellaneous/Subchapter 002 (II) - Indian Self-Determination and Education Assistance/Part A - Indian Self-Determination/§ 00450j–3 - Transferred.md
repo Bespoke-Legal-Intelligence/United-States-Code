@@ -1,0 +1,6 @@
+### §450j–3. Transferred
+
+#### Codification
+
+Section 450j–3 was editorially reclassified as section 5327 of this title.
+

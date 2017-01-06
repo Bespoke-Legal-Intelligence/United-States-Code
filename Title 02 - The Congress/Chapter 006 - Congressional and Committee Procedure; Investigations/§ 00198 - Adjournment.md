@@ -12,11 +12,11 @@
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 95–110, in amending section generally, incorporated existing subject matter in subsec. (a)(1), substituted therein an adjournment date not later than July 31 of each year for prior provision for a date not later than last day (Sundays excepted) in month of July in each year, added subsec. (a)(2), added subsec. (b) which incorporated former exception to adjournment in time of war, and deleted another exception to adjournment during national emergency proclaimed by the President.
+<b>1970</b>—Pub. L. 95–110, in amending section generally, incorporated existing subject matter in subsec. (a)(1),substituted therein an adjournment date not later than July 31 of each year for prior provision for a date not later than last day (Sundays excepted) in month of July in each year, added subsec. (a)(2), added subsec. (b) which incorporated former exception to adjournment in time of war, and deleted another exception to adjournment during national emergency proclaimed by the President.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub.L. 91–510, set out as a note under section 4301 of this title.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of this title.
 
 #### Effective Date
 

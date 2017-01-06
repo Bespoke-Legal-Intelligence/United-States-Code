@@ -18,5 +18,5 @@ A Coast Guard supply fund was established by the Naval Appropriation Act for fis
 
 <b>1970</b>—Pub. L. 91–278 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1956</b>—Act Aug. 7, 1956, substituted "Coast Guard Supply Fund" for "Coast Guard supply fund and supply account" in section catchline, struck out provisions calling for mandatory increase of the Fund by the value of commissary provisions and uniform clothing on hand on July 1, 1949, and inserted provisions permitting the Secretary to prescribe regulations for designating the classification of materials to be stocked and for increasing the existing capital of the Fund.
+<b>1956</b>—Act Aug. 7, 1956, substituted "Coast Guard Supply Fund" for "Coast Guard supply fund and supply account" in section catchline, struck out provisions calling for mandatory increase of the Fund by the value of commissary provisions and uniform clothing on hand on July 1, 1949, and inserted provisions permitting theSecretary to prescribe regulations for designating the classification of materials to be stocked and for increasing the existing capital of the Fund.
 

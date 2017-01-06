@@ -6,7 +6,7 @@ It is unlawful—
 
 &emsp;(1) for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-&emsp;(2) except as provided for in subsection <sup>1</sup> 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and <sup>2</sup>
+&emsp;(2) except as provided for in subsection <sup>1</sup> 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in thecourse of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and <sup>2</sup>
 
 &emsp;(3) for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1371(a)(2) of this title;
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 105–42, §6(d)(3), struck out heading and text of subsec.
 
 &emsp;"(2) in the case of tuna or a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean, it is dolphin safe under subsection (d)(2) of section 1385 of this title;
 
-&emsp;"(3) in the case of tuna or a tuna product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel, it is accompanied by a written statement executed by the captain ofthe vessel certifying that no purse seine net was intentionally deployed on or to encircle dolphins during the particular voyage on which the tuna was harvested; and
+&emsp;"(3) in the case of tuna or a tuna product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel, it is accompanied by a written statement executed by the captain of the vessel certifying that no purse seine net was intentionally deployed on or to encircle dolphins during the particular voyage on which the tuna was harvested; and
 
 &emsp;"(4) in the case of tuna or a product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals, it is accompanied by a written statement executed by the captain of the vessel and by an observer, certifying that no purse seine net was intentionally deployed on or to encircle marine mammals during the particular voyage on which the tuna was harvested."
 

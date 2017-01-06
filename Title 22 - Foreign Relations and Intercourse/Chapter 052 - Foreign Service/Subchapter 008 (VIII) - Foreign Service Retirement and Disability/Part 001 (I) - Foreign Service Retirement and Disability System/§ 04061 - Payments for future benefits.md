@@ -14,7 +14,7 @@ Any statute which authorizes—
 
 #### (b) Authorization of appropriations to Fund
 
-There is authorized to be appropriated to the Fund for each fiscal year an amount equal to the amount of the Foreign Service normal cost for that year which is not met by contributions to the Fund under section 4045(a) of this title.
+There is authorized to be appropriated to the Fund for each fiscal year an amount equal tothe amount of the Foreign Service normal cost for that year which is not met by contributions to the Fund under section 4045(a) of this title.
 
 (Pub. L. 96–465, title I, §821, Oct. 17, 1980, 94 Stat. 2121; Pub. L. 99–335, title IV, §402(a)(3), June 6, 1986, 100 Stat. 609.)
 

@@ -36,7 +36,7 @@ A prior section 302 of Pub. L. 89–136 was classified to section 3151a of this 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–373, §302(a), inserted "maximizes effective development and use of theworkforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications)," after "access,".
+<b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–373, §302(a), inserted "maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications)," after "access,".
 
 Subsec. (c). Pub. L. 108–373, §302(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

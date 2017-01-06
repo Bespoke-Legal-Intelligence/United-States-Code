@@ -12,13 +12,13 @@
 
 #### (b) Federal financial assistance
 
-Any assistance provided under this subchapter shall constitute Federal financial assistance forpurposes of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), and shall constitute Federal financial assistance to an education program or activity for purposes of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.).
+Any assistance provided under this subchapter shall constitute Federal financial assistance for purposes of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), and shall constitute Federal financial assistance to an education program or activity for purposes of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.).
 
 #### (c) Religious discrimination
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an individual with responsibility for the operation of a project that receives assistance under this subchapter shall not discriminate on the basis of religion against a participant in such project or a member of the staff of such project who is paid with funds received under this subchapter.
+&emsp;Except as provided in paragraph (2), an individual with responsibility for the operation of a project that receives assistance under this subchapter shall not discriminate on the basisof religion against a participant in such project or a member of the staff of such project who is paid with funds received under this subchapter.
 
 #### (2) Exception
 

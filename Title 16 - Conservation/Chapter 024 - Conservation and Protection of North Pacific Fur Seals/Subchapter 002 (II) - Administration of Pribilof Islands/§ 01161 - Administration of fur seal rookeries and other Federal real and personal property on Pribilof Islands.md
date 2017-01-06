@@ -22,7 +22,7 @@ Substantially identical provisions were contained in Pub. L. 106–554, §1(a)(4
 
 #### Termination of Responsibilities
 
-Pub. L. 106–562, title I, §105, Dec. 23, 2000, 114 Stat. 2796, provided that:
+Pub. L. 106–562, title I, §105, Dec. 23, 2000, 114 Stat. 2796, as amended by Pub. L. 114–120, title V, §523, Feb. 8, 2016, 130 Stat. 71; Pub. L. 114–328, div. C, title XXXV, §3533(d), Dec. 23, 2016, 130 Stat. 2799, provided that:
 
 "(a)
 
@@ -30,7 +30,7 @@ Future Obligation.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Commerce shall not be considered to have any obligation to promote or otherwise provide for the development of any form of an economy not dependent on sealing on the Pribilof Islands, Alaska, including any obligation under section 206 of the Fur Seal Act of 1966 (16 U.S.C. 1166) or section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note).
+In general.—Notwithstanding paragraph (2) and effective beginning on the date the Secretary publishes the notice of certification required by subsection (b)(5), the Secretary of Commerce shall not be considered to have any obligation to promote or otherwise provide for the development of any form of an economy not dependent on sealing on the Pribilof Islands, Alaska, including any obligation under section 206 of the Fur Seal Act of 1966 (16 U.S.C. 1166) or section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note).
 
 &emsp;"(2)
 
@@ -60,7 +60,7 @@ Property Conveyance and Cleanup.—
 
 In general.—Subject to paragraph (2), there are terminated all obligations of the Secretary of Commerce and the United States to—
 
-&emsp;&emsp;"(A) convey property under section 205 of the Fur Seal Act of 1966 (16 U.S.C. 1165); and
+&emsp;&emsp;"(A) convey property under section 205(a) of the Fur Seal Act of 1966 (16 U.S.C. 1165(a)); and
 
 &emsp;&emsp;"(B) carry out cleanup activities, including assessment, response, remediation, and monitoring, except for postremedial measures such as monitoring and operation and maintenance activities, related to National Oceanic and Atmospheric Administration administration of the Pribilof Islands, Alaska, under section 3 of Public Law 104–91 (16 U.S.C. 1165 note) and the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996.
 
@@ -68,7 +68,7 @@ In general.—Subject to paragraph (2), there are terminated all obligations of 
 
 Application.—Paragraph (1) shall apply on and after the date on which the Secretary of Commerce certifies that—
 
-&emsp;&emsp;"(A) the State of Alaska has provided written confirmation that no further corrective action is required at the sites and operable units covered by the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
+&emsp;&emsp;"(A) the State of Alaska has provided written confirmation that no further corrective action isrequired at the sites and operable units covered by the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
 
 &emsp;&emsp;"(B) the cleanup required under section 3(a) of Public Law 104–91 (16 U.S.C. 1165 note) is complete;
 
@@ -96,11 +96,15 @@ Certain reserved rights not conditions.—For purposes of paragraph (2)(C), the 
 
 &emsp;&emsp;"(E) The terms of the documents described in subsection (d)(2).
 
+&emsp;"(5)
+
+Notice of certification.—The Secretary shall promptly publish and submit to the Committee on Natural Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate notice that the certification described in paragraph (2) has been made.
+
 "(c)
 
-Repeals.—Effective on the date on which the Secretary of Commerce makes the certification described in subsection (b)(2), the following provisions are repealed:
+Repeals.—Effective on the date on which the Secretary of Commerce publishes the notice of certification required by subsection (b)(5), the following provisions are repealed:
 
-&emsp;"(1) Section 205 of the Fur Seal Act of 1966 (16 U.S.C. 1165).
+&emsp;"(1) Subsections (a), (b), (c), and (d) of section 205 of the Fur Seal Act of 1966 (16 U.S.C. 1165).
 
 &emsp;"(2) Section 3 of Public Law 104–91 (16 U.S.C. 1165 note).
 
@@ -124,11 +128,55 @@ Documents described.—The documents referred to in paragraph (1) are the follow
 
 "(e)
 
+Notifications.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the Secretary makes a determination under subsection (f) that land on St. Paul Island, Alaska, not specified for transfer in the document entitled 'Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions' or section 522 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 70, 2795\], or transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of such Act \[130 Stat. 72, 2795\], is in excess of the needs of the Secretary and the Federal Government, the Secretary shall notify the Alaska native village corporation for St. Paul Island of the determination.
+
+&emsp;"(2)
+
+Election to receive.—Not later than 60 days after the date receipt of the notification of the Secretary under subsection (a), the Alaska native village corporation for St. Paul Island shall notify the Secretary in writing whether the Alaska native village corporation elects to receive all right, title, and interest in the land or a portion of the land.
+
+&emsp;"(3)
+
+Transfer.—If the Alaska native village corporation provides notice under paragraph (2) that the Alaska native village corporation elects to receive all right, title and interest in the land or a portion of the land, the Secretary shall transfer all right, title, and interest in the land or portion to the Alaska native village corporation at no cost.
+
+&emsp;"(4)
+
+Other disposition.—If the Alaska native village corporation does not provide notice under paragraph (2) that the Alaska native village corporation elects to receive all right, title, and interest in the land or a portion of the land, the Secretary may dispose of the land in accordance with other applicable law.
+
+"(f)
+
+Determination.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\] and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
+
+&emsp;&emsp;"(A) needed by the Secretary for the purposes of carrying out the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.);
+
+&emsp;&emsp;"(B) in the case of land withdrawn by the Secretary on behalf of other Federal agencies, needed for carrying out the missions of those agencies for which land was withdrawn; or
+
+&emsp;&emsp;"(C) actually used by the Federal Government in connection with the administration of any Federal installation on St. Paul Island.
+
+&emsp;"(2)
+
+Report of determination.—When a determination is made under subsection (a), the Secretary shall report the determination to—
+
+&emsp;&emsp;"(A) the Committee on Natural Resources of the House of Representatives;
+
+&emsp;&emsp;"(B) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;"(C) the Alaska native village corporation for St. Paul Island.
+
+"(g)
+
 Definitions.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the definitions set forth in section 101 of the Fur Seal Act of 1966 (16 U.S.C. 1151) shall apply to this section.
+In general.—Except as provided in paragraph (2), the definitions set forth in section 101 of the FurSeal Act of 1966 (16 U.S.C. 1151) shall apply to this section.
 
 &emsp;"(2)
 

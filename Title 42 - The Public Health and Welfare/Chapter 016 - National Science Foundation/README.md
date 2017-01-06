@@ -10,7 +10,7 @@
 | [1862d.](%C2%A7%2001862d%20-%20Set-aside%20for%20certain%20institutions.md) | Set-aside for certain institutions. |
 | [1862e.](%C2%A7%2001862e%20-%20Evaluations%20of%20research%20centers.md) | Evaluations of research centers. |
 | [1862f.](%C2%A7%2001862f%20-%20Research%20center%20consortia.md) | Research center consortia. |
-| [1862g.](%C2%A7%2001862g%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Research.md) | Experimental Program to Stimulate Competitive Research. |
+| [1862g.](%C2%A7%2001862g%20-%20Established%20Program%20to%20Stimulate%20Competitive%20Research.md) | Established Program to Stimulate Competitive Research. |
 | [1862h.](%C2%A7%2001862h%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20purposes%20respecting%20scientific%20and%20technical%20education%20and%20training.md) | Congressional statement of findings and declaration of purposes respecting scientific and technical education and training. |
 | [1862i.](%C2%A7%2001862i%20-%20Scientific%20and%20technical%20education.md) | Scientific and technical education. |
 | [1862j.](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -40,7 +40,7 @@
 | 1862o–8. | Pilot program of grants for new investigators. |
 | 1862o–9. | Broader impacts merit review criterion. |
 | 1862o–10. | Advanced information and communications technology research. |
-| 1862o–11. | Evaluation and report. |
+| 1862o–11. | Repealed. |
 | 1862o–12. | Hispanic-serving institutions undergraduate program. |
 | 1862o–13. | Professional science master's degree programs. |
 | 1862o–14. | Major research instrumentation. |
@@ -62,6 +62,18 @@
 | 1862p–14. | Broader Impacts Review Criterion. |
 | 1862p–15. | Twenty-first century graduate education. |
 | [1862q.](%C2%A7%2001862q%20-%20Informal%20STEM%20education.md) | Informal STEM education. |
+| [1862r.](%C2%A7%2001862r%20-%20Research%20in%20disabilities%20education.md) | Research in disabilities education. |
+| 1862r–1. | Dyslexia. |
+| [1862s.](%C2%A7%2001862s%20-%20Reaffirmation%20of%20merit-based%20peer%20review.md) | Reaffirmation of merit-based peer review. |
+| 1862s–1. | Transparency and accountability. |
+| 1862s–2. | Oversight of NSF major multi-user research facility projects. |
+| 1862s–3. | Personnel oversight. |
+| 1862s–4. | Brain Research through Advancing Innovative Neurotechnologies Initiative. |
+| 1862s–5. | Programs to expand STEM opportunities. |
+| 1862s–6. | Presidential awards for excellence in STEM mentoring. |
+| 1862s–7. | Computer science education research. |
+| 1862s–8. | Innovation Corps. |
+| 1862s–9. | Translational research grants. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |
 | [1864a.](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md) | Deputy Director of the Foundation. |
@@ -114,7 +126,7 @@
 - [&sect; 01862d - Set-aside for certain institutions](%C2%A7%2001862d%20-%20Set-aside%20for%20certain%20institutions.md)
 - [&sect; 01862e - Evaluations of research centers](%C2%A7%2001862e%20-%20Evaluations%20of%20research%20centers.md)
 - [&sect; 01862f - Research center consortia](%C2%A7%2001862f%20-%20Research%20center%20consortia.md)
-- [&sect; 01862g - Experimental Program to Stimulate Competitive Research](%C2%A7%2001862g%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Research.md)
+- [&sect; 01862g - Established Program to Stimulate Competitive Research](%C2%A7%2001862g%20-%20Established%20Program%20to%20Stimulate%20Competitive%20Research.md)
 - [&sect; 01862h - Congressional statement of findings and declaration of purposes respecting scientific and technical education and training](%C2%A7%2001862h%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20purposes%20respecting%20scientific%20and%20technical%20education%20and%20training.md)
 - [&sect; 01862i - Scientific and technical education](%C2%A7%2001862i%20-%20Scientific%20and%20technical%20education.md)
 - [&sect; 01862j - Authorization of appropriations](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md)
@@ -144,7 +156,7 @@
 - [&sect; 01862o&#8211;8 - Pilot program of grants for new investigators](%C2%A7%2001862o%E2%80%938%20-%20Pilot%20program%20of%20grants%20for%20new%20investigators.md)
 - [&sect; 01862o&#8211;9 - Broader impacts merit review criterion](%C2%A7%2001862o%E2%80%939%20-%20Broader%20impacts%20merit%20review%20criterion.md)
 - [&sect; 01862o&#8211;10 - Advanced information and communications technology research](%C2%A7%2001862o%E2%80%9310%20-%20Advanced%20information%20and%20communications%20technology%20research.md)
-- [&sect; 01862o&#8211;11 - Evaluation and report](%C2%A7%2001862o%E2%80%9311%20-%20Evaluation%20and%20report.md)
+- [&sect; 01862o&#8211;11 - Repealed. Pub. L. 114&#8211;329, title II, &sect;204(a)(3)(B), Jan. 6, 2017, 130 Stat. 2999](%C2%A7%2001862o%E2%80%9311%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93329%2C%20title%20II%2C%20%C2%A7204%28a%29%283%29%28B%29%2C%20Jan.%206%2C%202017%2C%20130%20Stat.%202999.md)
 - [&sect; 01862o&#8211;12 - Hispanic-serving institutions undergraduate program](%C2%A7%2001862o%E2%80%9312%20-%20Hispanic-serving%20institutions%20undergraduate%20program.md)
 - [&sect; 01862o&#8211;13 - Professional science master's degree programs](%C2%A7%2001862o%E2%80%9313%20-%20Professional%20science%20master%27s%20degree%20programs.md)
 - [&sect; 01862o&#8211;14 - Major research instrumentation](%C2%A7%2001862o%E2%80%9314%20-%20Major%20research%20instrumentation.md)
@@ -166,6 +178,18 @@
 - [&sect; 01862p&#8211;14 - Broader Impacts Review Criterion](%C2%A7%2001862p%E2%80%9314%20-%20Broader%20Impacts%20Review%20Criterion.md)
 - [&sect; 01862p&#8211;15 - Twenty-first century graduate education](%C2%A7%2001862p%E2%80%9315%20-%20Twenty-first%20century%20graduate%20education.md)
 - [&sect; 01862q - Informal STEM education](%C2%A7%2001862q%20-%20Informal%20STEM%20education.md)
+- [&sect; 01862r - Research in disabilities education](%C2%A7%2001862r%20-%20Research%20in%20disabilities%20education.md)
+- [&sect; 01862r&#8211;1 - Dyslexia](%C2%A7%2001862r%E2%80%931%20-%20Dyslexia.md)
+- [&sect; 01862s - Reaffirmation of merit-based peer review](%C2%A7%2001862s%20-%20Reaffirmation%20of%20merit-based%20peer%20review.md)
+- [&sect; 01862s&#8211;1 - Transparency and accountability](%C2%A7%2001862s%E2%80%931%20-%20Transparency%20and%20accountability.md)
+- [&sect; 01862s&#8211;2 - Oversight of NSF major multi-user research facility projects](%C2%A7%2001862s%E2%80%932%20-%20Oversight%20of%20NSF%20major%20multi-user%20research%20facility%20projects.md)
+- [&sect; 01862s&#8211;3 - Personnel oversight](%C2%A7%2001862s%E2%80%933%20-%20Personnel%20oversight.md)
+- [&sect; 01862s&#8211;4 - Brain Research through Advancing Innovative Neurotechnologies Initiative](%C2%A7%2001862s%E2%80%934%20-%20Brain%20Research%20through%20Advancing%20Innovative%20Neurotechnologies%20Initiative.md)
+- [&sect; 01862s&#8211;5 - Programs to expand STEM opportunities](%C2%A7%2001862s%E2%80%935%20-%20Programs%20to%20expand%20STEM%20opportunities.md)
+- [&sect; 01862s&#8211;6 - Presidential awards for excellence in STEM mentoring](%C2%A7%2001862s%E2%80%936%20-%20Presidential%20awards%20for%20excellence%20in%20STEM%20mentoring.md)
+- [&sect; 01862s&#8211;7 - Computer science education research](%C2%A7%2001862s%E2%80%937%20-%20Computer%20science%20education%20research.md)
+- [&sect; 01862s&#8211;8 - Innovation Corps](%C2%A7%2001862s%E2%80%938%20-%20Innovation%20Corps.md)
+- [&sect; 01862s&#8211;9 - Translational research grants](%C2%A7%2001862s%E2%80%939%20-%20Translational%20research%20grants.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)

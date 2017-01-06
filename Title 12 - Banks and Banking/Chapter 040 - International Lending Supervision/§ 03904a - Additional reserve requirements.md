@@ -8,7 +8,7 @@ Each appropriate Federal banking agency shall review the exposure to risk of Uni
 
 In determining the exposure of an institution to risk for purposes of subsection (a), the appropriate Federal banking agency—
 
-&emsp;(1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category "Other TransferRisk Problems" or the category "Substandard" by the Interagency Country Exposure Review Committee should be reevaluated;
+&emsp;(1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category "Other Transfer Risk Problems" or the category "Substandard" by the Interagency Country Exposure Review Committee should be reevaluated;
 
 &emsp;(2) may exempt, in full or in part, from reserve requirements established pursuant to subsection (a), any loan—
 

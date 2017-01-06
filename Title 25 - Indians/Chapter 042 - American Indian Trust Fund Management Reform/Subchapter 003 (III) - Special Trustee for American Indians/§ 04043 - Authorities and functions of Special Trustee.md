@@ -26,7 +26,7 @@
 
 #### (A) Monitor reconciliation of trust accounts
 
-&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual Indian Money trust accounts to ensure that the Bureau provides the account holders, with a fair and accurate accounting of all trust accounts.
+&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual IndianMoney trust accounts to ensure that the Bureau provides the account holders, with a fair and accurate accounting of all trust accounts.
 
 #### (B) Investments
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(i) review each budget request submitted under subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) certify in writing as to the adequacy of such request to discharge, effectively and efficiently, the Secretary's trust responsibilities and to implement the comprehensive strategic plan; and
+&emsp;&emsp;&emsp;(ii) certify in writing as to the adequacy of such request to discharge, effectivelyand efficiently, the Secretary's trust responsibilities and to implement the comprehensive strategic plan; and
 
 &emsp;&emsp;&emsp;(iii) notify the program manager of the Special Trustee's certification under clause (ii).
 

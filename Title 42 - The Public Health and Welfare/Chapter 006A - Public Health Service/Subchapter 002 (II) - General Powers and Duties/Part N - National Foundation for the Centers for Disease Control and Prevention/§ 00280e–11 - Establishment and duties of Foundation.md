@@ -12,7 +12,7 @@ The purpose of the Foundation shall be to support and carry out activities for t
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Foundation shall establish a fund for providing endowments for positions that are associated with the Centers for Disease Control and Prevention and dedicated to the purpose described in such subsection. Subject to subsection (f)(1)(B) of this section, the fund shall consist of such donations as may be provided by non-Federal entities and such non-Federal assets of the Foundation (including earnings of the Foundation and the fund) as the Foundation may elect to transfer to the fund.
+&emsp;In carrying out subsection (b), the Foundation shall establish a fund for providing endowments for positions that are associated with the Centers for Disease Control and Prevention and dedicated to the purpose described in such subsection. Subject to subsection (f)(1)(B), the fund shall consist of such donations as may be provided by non-Federal entities and such non-Federal assets of the Foundation (including earnings of the Foundation and the fund) as the Foundation may elect to transfer to the fund.
 
 #### (2) Authorized expenditures of fund
 
@@ -20,7 +20,7 @@ The purpose of the Foundation shall be to support and carry out activities for t
 
 #### (d) Certain activities of Foundation
 
-In carrying out subsection (b) of this section, the Foundation may provide for the following with respect to the purpose described in such subsection:
+In carrying out subsection (b), the Foundation may provide for the following with respect to the purpose described in such subsection:
 
 &emsp;(1) Programs of fellowships for State and local public health officials to work and study in association with the Centers for Disease Control and Prevention.
 
@@ -36,21 +36,21 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 &emsp;(7) Programs for writing, editing, printing, and publishing of books and other materials.
 
-&emsp;(8) Other activities to carry out the purpose described in subsection (b) of this section.
+&emsp;(8) Other activities to carry out the purpose described in subsection (b).
 
 #### (e) General structure of Foundation; nonprofit status
 
 #### (1) Board of directors
 
-&emsp;The Foundation shall have a board of directors (in this part referred to as the "Board"), which shall be established and conducted in accordance with subsection (f) of this section. The Board shall establish the general policies of the Foundation for carrying out subsection (b) of this section, including the establishment of the bylaws of the Foundation.
+&emsp;The Foundation shall have a board of directors (in this part referred to as the "Board"), which shall be established and conducted in accordance with subsection (f). The Board shall establish the general policies of the Foundation for carrying out subsection (b), including the establishment of the bylaws of the Foundation.
 
 #### (2) Executive director
 
-&emsp;The Foundation shall have an executive director (in this part referred to as the "Director"), who shall be appointed by the Board, who shall serve at the pleasure of the Board, and for whom the Board shall establish the rate of compensation. Subject to compliance with the policies and bylaws established by the Board pursuant to paragraph (1), the Director shall be responsible for the daily operations of the Foundation in carrying out subsection (b) of this section.
+&emsp;The Foundation shall have an executive director (in this part referred to as the "Director"), who shall be appointed by the Board, who shall serve at the pleasure of the Board, and for whom the Board shall establish the rate of compensation. Subject to compliance with the policies and bylaws established by the Board pursuant to paragraph (1), the Director shall be responsible for the daily operations of the Foundation in carrying out subsection (b).
 
 #### (3) Nonprofit status
 
-&emsp;In carrying out subsection (b) of this section, the Board shall establish such policies and bylaws under paragraph (1), and the Director shall carry out such activities under paragraph (2), as may be necessary to ensure that the Foundation maintains status as an organization that—
+&emsp;In carrying out subsection (b), the Board shall establish such policies and bylaws under paragraph (1), and the Director shall carry out such activities under paragraph (2), as may be necessary to ensure that the Foundation maintains status as an organization that—
 
 &emsp;&emsp;(A) is described in subsection (c)(3) of section 501 of title 26; and
 
@@ -60,7 +60,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (1) Certain bylaws
 
-&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensure that the bylaws of the Foundation include bylaws for the following:
+&emsp;(A) In establishing bylaws under subsection (e)(1), the Board shall ensure that the bylaws of the Foundation include bylaws for the following:
 
 &emsp;&emsp;(i) Policies for the selection of the officers, employees, agents, and contractors of the Foundation.
 
@@ -70,7 +70,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 &emsp;&emsp;(iv) Policies for writing, editing, printing, and publishing of books and other materials, and the acquisition of patents and licenses for devices and procedures developed by the Foundation.
 
-&emsp;(B) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensure that the bylaws of the Foundation (and activities carried out under the bylaws) do not—
+&emsp;(B) In establishing bylaws under subsection (e)(1), the Board shall ensure that the bylaws of the Foundation (and activities carried out under the bylaws) do not—
 
 &emsp;&emsp;(i) reflect unfavorably upon the ability of the Foundation, or the Centers for Disease Control and Prevention, to carry out its responsibilities or official duties in a fair and objective manner; or
 
@@ -88,7 +88,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (4) Appointments, vacancies, and terms
 
-&emsp;Subject to subsection (j) of this section (regarding the initial membership of the Board), the following shall apply to the Board:
+&emsp;Subject to subsection (j) (regarding the initial membership of the Board), the following shall apply to the Board:
 
 &emsp;&emsp;(A) Any vacancy in the membership of the Board shall be filled by appointment by the Board, after consideration of suggestions made by the Chair and the Director regarding the appointments. Any such vacancy shall be filled not later than the expiration of the 180-day period beginning on the date on which the vacancy occurs.
 
@@ -102,13 +102,13 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (g) Certain responsibilities of executive director
 
-In carrying out subsection (e)(2) of this section, the Director shall carry out the following functions:
+In carrying out subsection (e)(2), the Director shall carry out the following functions:
 
 &emsp;(1) Hire, promote, compensate, and discharge officers and employees of the Foundation, and define the duties of the officers and employees.
 
 &emsp;(2) Accept and administer donations to the Foundation, and administer the assets of the Foundation.
 
-&emsp;(3) Establish a process for the selection of candidates for holding endowed positions under subsection (c) of this section.
+&emsp;(3) Establish a process for the selection of candidates for holding endowed positions under subsection (c).
 
 &emsp;(4) Enter into such financial agreements as are appropriate in carrying out the activities of the Foundation.
 
@@ -128,7 +128,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (2) Authority for acceptance of voluntary services
 
-&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.
+&emsp;(A) The Director of the Centers for Disease Control and Prevention may accept, on behalf of the Federal Government, any voluntary services provided to such Centers by the Foundation for the purpose of aiding or facilitating the work of such Centers. In the case of an individual, such Director may accept the services provided under the preceding sentence bythe individual until such time as the private funding for such individual ends.
 
 &emsp;(B) The limitation established in subparagraph (A) regarding the period of time in which services may be accepted applies to each individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation.
 
@@ -182,7 +182,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
 
-&emsp;&emsp;(i) for fiscal year 1993, make a grant to an entity described in subsection (j)(9) of this section (relating to the establishment of a committee to establish the Foundation);
+&emsp;&emsp;(i) for fiscal year 1993, make a grant to an entity described in subsection (j)(9) (relating to the establishment of a committee to establish the Foundation);
 
 &emsp;&emsp;(ii) for fiscal year 1994, make a grant to the committee established under such subsection, or if the Foundation has been established, to the Foundation; and
 
@@ -190,17 +190,17 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(B) A grant under subparagraph (A) may be expended—
 
-&emsp;&emsp;(i) in the case of an entity receiving the grant under subparagraph (A)(i), only for the purpose of carrying out the duties established in subsection (j)(9) of this section for the entity;
+&emsp;&emsp;(i) in the case of an entity receiving the grant under subparagraph (A)(i), only for the purpose of carrying out the duties established in subsection (j)(9) for the entity;
 
-&emsp;&emsp;(ii) in the case of the committee established under such subsection, only for the purpose of carrying out the duties established in subsection (j) of this section for the committee; and
+&emsp;&emsp;(ii) in the case of the committee established under such subsection, only for the purpose of carrying out the duties established in subsection (j) for the committee; and
 
 &emsp;&emsp;(iii) in the case of the Foundation, only for the purpose of the administrative expenses of the Foundation.
 
-&emsp;(C) A grant under subparagraph (A) may not be expended to provide amounts for the fund established under subsection (c) of this section.
+&emsp;(C) A grant under subparagraph (A) may not be expended to provide amounts for the fund established under subsection (c).
 
 &emsp;(D) For the purposes described in subparagraph (B)—
 
-&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 that remains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) of this section for the entity shall be available to the committee established under such subsection; and
+&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 thatremains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
 
 &emsp;&emsp;(ii) any portion of a grant under subparagraph (A) made for fiscal year 1993 or 1994 that remains unobligated after such committee completes the duties established in such subsection for the committee shall be available to the Foundation.
 
@@ -230,13 +230,13 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;&emsp;(A) To carry out such activities as may be necessary to incorporate the Foundation under the laws of the State involved, including serving as incorporators for the Foundation. Such activities shall include ensuring that the articles of incorporation for the Foundation require that the Foundation be established and operated in accordance with the applicable provisions of this part (or any successor to this part), including such provisions as may be in effect pursuant to amendments enacted after October 27, 1992.
 
-&emsp;&emsp;(B) To ensure that the Foundation qualifies for and maintains the status described in subsection (e)(3) of this section (regarding taxation).
+&emsp;&emsp;(B) To ensure that the Foundation qualifies for and maintains the status described in subsection (e)(3) (regarding taxation).
 
-&emsp;&emsp;(C) To establish the general policies and initial bylaws of the Foundation, which bylaws shall include the bylaws described in subsections (e)(3) and (f)(1) of this section.
+&emsp;&emsp;(C) To establish the general policies and initial bylaws of the Foundation, which bylaws shall include the bylaws described in subsections (e)(3) and (f)(1).
 
 &emsp;&emsp;(D) To provide for the initial operation of the Foundation, including providing for quarters, equipment, and staff.
 
-&emsp;&emsp;(E) To appoint the initial members of the Board in accordance with the requirements established in subsection (f)(2)(A) of this section for the composition of the Board, and in accordance with such other qualifications as the Committee may determine to be appropriate regarding such composition. Of the members so appointed—
+&emsp;&emsp;(E) To appoint the initial members of the Board in accordance with the requirements established in subsection (f)(2)(A) for the composition of the Board, and in accordance with such other qualifications as the Committee may determine to be appropriate regarding such composition. Of the members so appointed—
 
 &emsp;&emsp;&emsp;(i) 2 shall be appointed to serve for a term of 3 years;
 
@@ -276,7 +276,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (9) Grant for establishment of Committee
 
-&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than 180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
+&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than 180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
 
 &emsp;(B) The grant referred to in subparagraph (A) may be made to an entity only if the entity agrees that—
 

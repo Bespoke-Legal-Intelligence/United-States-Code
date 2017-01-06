@@ -22,7 +22,7 @@ In this part—
 
 &emsp;&emsp;(B) for which safety and effectiveness data have been submitted to the Secretary prior to November 26, 2014;
 
-&emsp;(7) the term "proposed sunscreen order" means an order containing a tentative determination published by the Secretary in theFederal Register containing information proposing that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients—
+&emsp;(7) the term "proposed sunscreen order" means an order containing a tentative determination published by the Secretary in the Federal Register containing information proposing that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients—
 
 &emsp;&emsp;(A) is GRASE and is not misbranded if marketed in accordance with such order;
 

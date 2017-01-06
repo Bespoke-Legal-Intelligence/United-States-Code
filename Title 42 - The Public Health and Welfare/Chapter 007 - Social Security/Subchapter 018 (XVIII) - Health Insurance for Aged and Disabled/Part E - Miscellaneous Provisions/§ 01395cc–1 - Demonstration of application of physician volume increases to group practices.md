@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall conduct demonstration projects to test and, if proven effective, expand the use of incentives to health care groups participating in the program under this subchapter that—
 
-&emsp;&emsp;(A) encourage coordination of the care furnished to individuals under the programs under parts A and B of this subchapter by institutional and other providers, practitioners, and suppliers of health care items and services;
+&emsp;&emsp;(A) encourage coordination of the care furnished to individuals under the programs under parts A and B by institutional and other providers, practitioners, and suppliers of health care items and services;
 
 &emsp;&emsp;(B) encourage investment in administrative structures and processes to ensure efficient service delivery; and
 
@@ -16,7 +16,7 @@
 
 #### (2) Administration by contract
 
-&emsp;Except as otherwise specifically provided, the Secretary may administer the program under this section in accordance with section 1395cc–2 of this title.
+&emsp;Except as otherwise specifically provided, the Secretary may administer the programunder this section in accordance with section 1395cc–2 of this title.
 
 #### (3) Definitions
 
@@ -28,7 +28,7 @@
 
 #### (B) Health care group
 
-&emsp;&emsp;The term "health care group" means a group of physicians (as defined in subparagraph (A)) organized at least in part for the purpose of providing physicians' services under this subchapter. As the Secretary finds appropriate, a health care group may include a hospital and any other individual or entity furnishing items or services for which payment may be made under this subchapter that is affiliated with the health care group under an arrangement structured so that such individual or entity participates in a demonstration under this section and will share in any bonus earned under subsection (d) of this section.
+&emsp;&emsp;The term "health care group" means a group of physicians (as defined in subparagraph (A)) organized at least in part for the purpose of providing physicians' services under this subchapter. As the Secretary finds appropriate, a health care group may include a hospital and any other individual or entity furnishing items or services for which payment may be made under this subchapter that is affiliated with the health care group under an arrangement structured so that such individual or entity participates in a demonstration under this section and will share in any bonus earned under subsection (d).
 
 #### (b) Eligibility criteria
 
@@ -38,7 +38,7 @@
 
 #### (2) Payment method
 
-&emsp;A health care group participating in the demonstration under this section shall agree with respect to services furnished to beneficiaries within the scope of the demonstration (as determined under subsection (c) of this section)—
+&emsp;A health care group participating in the demonstration under this section shall agree with respect to services furnished to beneficiaries within the scope of the demonstration (as determined under subsection (c))—
 
 &emsp;&emsp;(A) to be paid on a fee-for-service basis; and
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall specify, in accordance with this subsection, the criteria for identifying those patients of a health care group who shall be considered within the scope of the demonstration under this section for purposes of application of subsection (d) of this section and for assessment of the effectiveness of the group in achieving the objectives of this section.
+&emsp;The Secretary shall specify, in accordance with this subsection, the criteria for identifying those patients of a health care group who shall be considered within the scope of the demonstration under this section for purposes of application of subsection (d) and for assessment of the effectiveness of the group in achieving the objectives of this section.
 
 #### (2) Other criteria
 
@@ -68,13 +68,13 @@
 
 &emsp;The Secretary shall establish for each health care group participating in a demonstration under this section—
 
-&emsp;&emsp;(A) a base expenditure amount, equal to the average total payments under parts A and B of this subchapter for patients served by the health care group on a fee-for-service basis in a base period determined by the Secretary; and
+&emsp;&emsp;(A) a base expenditure amount, equal to the average total payments under parts A and B for patients served by the health care group on a fee-for-service basis in a base period determined by the Secretary; and
 
 &emsp;&emsp;(B) an annual per capita expenditure target for patients determined to be within the scope of the demonstration, reflecting the base expenditure amount adjusted for risk and expected growth rates.
 
 #### (2) Incentive bonus
 
-&emsp;The Secretary shall pay to each participating health care group (subject to paragraph (4)) a bonus for each year under the demonstration equal to a portion of the medicaresavings realized for such year relative to the performance target.
+&emsp;The Secretary shall pay to each participating health care group (subject to paragraph (4)) a bonus for each year under the demonstration equal to a portion of the medicare savings realized for such year relative to the performance target.
 
 #### (3) Additional bonus for process and outcome improvements
 
@@ -88,5 +88,5 @@
 
 #### GAO Report
 
-Pub. L. 106–554, §1(a)(6) \[title IV, §412(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that: "Not later than 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[42 U.S.C. 1395cc–1\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate."
+Pub. L. 106–554, §1(a)(6) \[title IV, §412(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that: "Not laterthan 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[42 U.S.C. 1395cc–1\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate."
 

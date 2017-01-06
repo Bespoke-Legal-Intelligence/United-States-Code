@@ -78,7 +78,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 #### (iii) Penalty for misstatement
 
-&emsp;&emsp;&emsp;Any participating State that is found to have intentionally misstated any report issued to the Secretary under the Program shall be ineligible to receive any additional funds under the Program. Funds that had been allocated or that would otherwise have been allocated to such participating State shall be paid into the general fund of the Treasury for reduction of the public debt.
+&emsp;&emsp;&emsp;Any participating State that is found to have intentionally misstated any reportissued to the Secretary under the Program shall be ineligible to receive any additional funds under the Program. Funds that had been allocated or that would otherwise have been allocated to such participating State shall be paid into the general fund of the Treasury for reduction of the public debt.
 
 #### (iv) Municipalities
 

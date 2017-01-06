@@ -18,9 +18,9 @@
 
 &emsp;A grant may be made under paragraph (1) only if—
 
-&emsp;&emsp;(A) the State involved has developed, or agrees to develop, a plan for coordinating control programs in the State, and the plan takes into account any assessments or plans described in subsection (b)(3) of this section that have been conducted or developed, respectively, by political subdivisions in the State;
+&emsp;&emsp;(A) the State involved has developed, or agrees to develop, a plan for coordinating control programs in the State, and the plan takes into account any assessments or plans described in subsection (b)(3) that have been conducted or developed, respectively, by political subdivisions in the State;
 
-&emsp;&emsp;(B) in developing such plan, the State consulted or will consult (as the case may beunder subparagraph (A)) with political subdivisions in the State that are carrying out or planning to carry out control programs;
+&emsp;&emsp;(B) in developing such plan, the State consulted or will consult (as the case may be under subparagraph (A)) with political subdivisions in the State that are carrying out or planning to carry out control programs;
 
 &emsp;&emsp;(C) the State agrees to monitor control programs in the State in order to ensure that the programs are carried out in accordance with such plan, with priority given to coordination of control programs in political subdivisions described in paragraph (2) that are contiguous;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) describes the activities of the State under the grant; and
 
-&emsp;&emsp;(B) contains an evaluation of whether the control programs of political subdivisions in the State were effectively coordinated with each other, which evaluation takes into account any reports that the State received under subsection (b)(5) of this section from such subdivisions.
+&emsp;&emsp;(B) contains an evaluation of whether the control programs of political subdivisions in the State were effectively coordinated with each other, which evaluation takes into account any reports that the State received under subsection (b)(5) from such subdivisions.
 
 #### (5) Number of grants
 
@@ -60,9 +60,9 @@
 
 &emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
-&emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
+&emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivisionor consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 
-&emsp;&emsp;(D) is located in a State that has received a grant under subsection (a) of this section.
+&emsp;&emsp;(D) is located in a State that has received a grant under subsection (a).
 
 #### (3) Requirement of assessment and plan
 
@@ -116,11 +116,11 @@
 
 #### (c) Applications for grants
 
-A grant may be made under subsection (a) or (b) of this section only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+A grant may be made under subsection (a) or (b) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (d) Technical assistance
 
-Amounts appropriated under subsection (f) of this section may be used by the Secretary to provide training and technical assistance with respect to the planning, development, and operation of assessments and plans under subsection (a) of this section and control programs under subsection (b) of this section. The Secretary may provide such technical assistance directly or through awards of grants or contracts to public and private entities.
+Amounts appropriated under subsection (f) may be used by the Secretary to provide training and technical assistance with respect to the planning, development, and operation of assessments and plans under subsection (a) and control programs under subsection (b). The Secretary may provide such technical assistance directly or through awards of grants or contracts to public and private entities.
 
 #### (e) Definition of political subdivision
 
@@ -134,11 +134,11 @@ In this section, the term "political subdivision" means the local political juri
 
 #### (2) Public health emergencies
 
-&emsp;In the case of control programs carried out in response to a mosquito-borne disease that constitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.
+&emsp;In the case of control programs carried out in response to a mosquito-borne disease thatconstitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.
 
 #### (3) Fiscal year 2004 appropriations
 
-&emsp;For fiscal year 2004, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b) of this section.
+&emsp;For fiscal year 2004, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b).
 
 (July 1, 1944, ch. 373, title III, §317S, as added Pub. L. 108–75, §2(2), Aug. 15, 2003, 117 Stat. 898.)
 

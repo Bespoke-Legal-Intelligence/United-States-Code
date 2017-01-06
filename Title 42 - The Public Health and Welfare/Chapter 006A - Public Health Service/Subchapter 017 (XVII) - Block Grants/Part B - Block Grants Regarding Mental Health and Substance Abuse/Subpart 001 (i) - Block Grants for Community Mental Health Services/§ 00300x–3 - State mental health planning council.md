@@ -6,7 +6,7 @@ A funding agreement for a grant under section 300x of this title is that the Sta
 
 #### (b) Duties
 
-A condition under subsection (a) of this section for a Council is that the duties of the Council are—
+A condition under subsection (a) for a Council is that the duties of the Council are—
 
 &emsp;(1) to review plans provided to the Council pursuant to section 300x–4(a) of this title by the State involved and to submit to the State any recommendations of the Council for modifications to the plans;
 
@@ -18,7 +18,7 @@ A condition under subsection (a) of this section for a Council is that the dutie
 
 #### (1) In general
 
-&emsp;A condition under subsection (a) of this section for a Council is that the Council be composed of residents of the State, including representatives of—
+&emsp;A condition under subsection (a) for a Council is that the Council be composed of residents of the State, including representatives of—
 
 &emsp;&emsp;(A) the principal State agencies with respect to—
 
@@ -34,7 +34,7 @@ A condition under subsection (a) of this section for a Council is that the dutie
 
 #### (2) Certain requirements
 
-&emsp;A condition under subsection (a) of this section for a Council is that—
+&emsp;A condition under subsection (a) for a Council is that—
 
 &emsp;&emsp;(A) with respect to the membership of the Council, the ratio of parents of children with a serious emotional disturbance to other members of the Council is sufficient to provide adequate representation of such children in the deliberations of the Council; and
 
@@ -52,7 +52,7 @@ The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1
 
 #### Prior Provisions
 
-A prior section 300x–3, act July 1, 1944, ch. 373, title XIX, §1915, formerly §1914, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1915 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §§105(b), 106(a), (b), (d), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §§2024–2026, 102 Stat. 4198, 4199; Aug. 16, 1989, Pub. L. 101–93, §2(d), 103 Stat. 606; Nov. 28, 1990, Pub. L. 101–639, §3(a)(2), 104 Stat. 4601, related to the use of grant allotments for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
+A prior section 300x–3, act July 1, 1944, ch. 373, title XIX, §1915, formerly §1914, as added Aug. 13, 1981, Pub.L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1915 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §§105(b), 106(a), (b), (d), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §§2024–2026, 102 Stat. 4198, 4199; Aug. 16, 1989, Pub. L. 101–93, §2(d), 103 Stat. 606; Nov. 28, 1990, Pub. L. 101–639, §3(a)(2), 104 Stat. 4601, related to the use of grant allotments for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
 
 A prior section 1914 of act July 1, 1944, was classified to section 300x–2 of this title prior to repeal by Pub. L. 102–321.
 

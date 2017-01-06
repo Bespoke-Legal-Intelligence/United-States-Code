@@ -86,7 +86,7 @@ During the period October 1, 1996, through September 30, 2001, the total new pri
 
 #### (2) Payment
 
-&emsp;The Administrator is not required to pay, during construction of the project, facility, or separable unit or feature, the interest calculated, accrued, and capitalized under subsection (f)(1).
+&emsp;The Administrator is not required to pay, during construction of the project, facility, orseparable unit or feature, the interest calculated, accrued, and capitalized under subsection (f)(1).
 
 #### (3) One-year rate
 

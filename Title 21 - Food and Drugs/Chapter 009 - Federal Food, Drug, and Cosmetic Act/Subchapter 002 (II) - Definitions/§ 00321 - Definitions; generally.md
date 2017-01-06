@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(3) intended to affect the structure or any function of the body of man or other animals, and
 
-> which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes.
+> which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes. The term "device" does not include software functions excluded pursuant to section 360j(o) of this title.
 
 (i) The term "cosmetic" means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles; except that such term shall not include soap.
 
@@ -38,7 +38,7 @@ For the purposes of this chapter—
 
 (l) The term "immediate container" does not include package liners.
 
-(m) The term "labeling" means all labels and other written, printed, or graphic matter (1)upon any article or any of its containers or wrappers, or (2) accompanying such article.
+(m) The term "labeling" means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
 (n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 &emsp;(B) any other added substance that is present on or in the commodity or food primarily as a result of the metabolism or other degradation of a pesticide chemical.
 
-(3) Notwithstanding subparagraphs (1) and (2), the Administrator may by regulation except asubstance from the definition of "pesticide chemical" or "pesticide chemical residue" if—
+(3) Notwithstanding subparagraphs (1) and (2), the Administrator may by regulation except a substance from the definition of "pesticide chemical" or "pesticide chemical residue" if—
 
 &emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportation of any raw agricultural commodity or processed food; and
 
@@ -120,7 +120,7 @@ For the purposes of this chapter—
 
 (x) The term "informal hearing" means a hearing which is not subject to section 554, 556, or 557 of title 5 and which provides for the following:
 
-&emsp;(1) The presiding officer in the hearing shall be designated by the Secretary from officersand employees of the Department who have not participated in any action of the Secretary which is the subject of the hearing and who are not directly responsible to an officer or employee of the Department who has participated in any such action.
+&emsp;(1) The presiding officer in the hearing shall be designated by the Secretary from officers and employees of the Department who have not participated in any action of the Secretary which is the subject of the hearing and who are not directly responsible to an officer or employee of the Department who has participated in any such action.
 
 &emsp;(2) Each party to the hearing shall have the right at all times to be advised and accompanied by an attorney.
 
@@ -268,7 +268,7 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783.)
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133.)
 
 #### References in Text
 
@@ -283,6 +283,8 @@ The Meat Inspection Act of March 4, 1907, as amended and extended, referred to i
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in par. (kk), is section 101(4) of Pub. L. 105–115, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h). Pub. L. 114–255 inserted at end of concluding provisions "The term 'device' does not include software functions excluded pursuant to section 360j(o) of this title."
 
 <b>2009</b>—Par. (rr). Pub. L. 111–31 added par. (rr).
 
@@ -314,7 +316,7 @@ Par. (ii). Pub. L. 105–115, §121(a), added par. (ii).
 
 Par. (jj). Pub. L. 105–115, §125(e), added par. (jj).
 
-<b>1996</b>—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: "The term 'pesticide chemical' means any substance which, alone, in chemical combination or in formulation with one or more other substances, is 'a pesticide' within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or as hereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities."
+<b>1996</b>—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: "The term 'pesticide chemical' means any substance which, alone, in chemical combination or in formulation with one or more other substances, is 'a pesticide' within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or ashereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities."
 
 Par. (s)(1), (2). Pub. L. 104–170, §402(b), amended subpars. (1) and (2) generally. Prior to amendment, subpars. (1) and (2) read as follows:
 
@@ -410,7 +412,7 @@ Pub. L. 108–282, title II, §203(d), Aug. 2, 2004, 118 Stat. 908, provided tha
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–115, title V, §501, Nov. 21, 1997, 111 Stat. 2380, provided that: "Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans' Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–115, title V, §501, Nov. 21, 1997, 111 Stat. 2380, provided that: "Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title,section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans' Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -426,7 +428,7 @@ Amendment by Pub. L. 92–516 effective at the close of Oct. 21, 1972, except if
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970,see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
@@ -570,7 +572,7 @@ Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 #### Effect of Drug Amendments of 1962 on State Laws
 
-Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law."
+Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct andpositive conflict between such amendments and such provision of State law."
 
 #### Definitions
 

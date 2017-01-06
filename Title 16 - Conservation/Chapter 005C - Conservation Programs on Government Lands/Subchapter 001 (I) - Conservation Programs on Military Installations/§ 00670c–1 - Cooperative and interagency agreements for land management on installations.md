@@ -26,7 +26,7 @@ The Secretary of a military department may enter into cooperative agreements wit
 
 (2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the United States Government.
 
-(Pub. L. 86–797, title I, §103a, as added Pub. L. 101–189, div. B, title XXVIII, §2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, §2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, \[div. A\], title III, §313, Oct. 14, 2008, 122 Stat. 4409; Pub. L. 111–84, div. A, title III, §313, Oct. 28, 2009, 123 Stat. 2248; Pub. L.112–81, div. A, title III, §312(a)(3), (b)(3), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 112–239, div. A, title III, §312(a), Jan. 2, 2013, 126 Stat. 1691; Pub. L. 113–291, div. A, title III, §312, Dec. 19, 2014, 128 Stat. 3336.)
+(Pub. L. 86–797, title I, §103a, as added Pub. L. 101–189, div. B, title XXVIII, §2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, §2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, \[div. A\], title III, §313, Oct. 14, 2008, 122 Stat. 4409; Pub. L. 111–84, div. A, title III, §313, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, §312(a)(3), (b)(3), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 112–239, div. A, title III, §312(a), Jan. 2, 2013, 126 Stat. 1691; Pub. L. 113–291, div. A, title III, §312, Dec. 19, 2014, 128 Stat. 3336.)
 
 #### Codification
 
@@ -67,4 +67,8 @@ Subsec. (b). Pub. L. 105–85, §2908(2), added heading and text of subsec. (b) 
 &emsp;"(2) to furnish services on a matching basis to carry out such programs, projects, and activities,
 
 > or to do both."
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (b)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
 

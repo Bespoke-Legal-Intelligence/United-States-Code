@@ -4,13 +4,13 @@
 
 Except as provided in subsection (b)—
 
-&emsp;(1) the provisions of part A of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall apply to group health plans, and health insurance issuers providing health insurance coverage in connection with group health plans, as if included in this subchapter; and
+&emsp;(1) the provisions of part A of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall apply to group health plans, andhealth insurance issuers providing health insurance coverage in connection with group health plans, as if included in this subchapter; and
 
 &emsp;(2) to the extent that any provision of this subchapter conflicts with a provision of such part A with respect to group health plans, or health insurance issuers providing health insurance coverage in connection with group health plans, the provisions of such part A shall apply.
 
 #### (b) Exception
 
-Notwithstanding subsection (a), the provisions of sections 2716 and 2718 of title XXVII of thePublic Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall not apply with respect to self-insured group health plans, and the provisions of this subchapter shall continue to apply to such plans as if such sections of the Public Health Service Act (as so amended) had not been enacted.
+Notwithstanding subsection (a), the provisions of sections 2716 and 2718 of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall not apply with respect to self-insured group health plans, and the provisions of this subchapter shall continue to apply to such plans as if such sections of the Public Health Service Act (as so amended) had not been enacted.
 
 (Added Pub. L. 111–148, title I, §1563(f), formerly §1562(f), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 270, 911.)
 

@@ -8,14 +8,16 @@
 | [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
 | \[483. | Repealed.\] |
 | [484\.](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md) | Quarterly cyber operations briefings. |
-| [485\.](%C2%A7%2000485%20-%20Quarterly%20counterterrorism%20operations%20briefings.md) | Quarterly counterterrorism operations briefings. |
+| [485\.](%C2%A7%2000485%20-%20Monthly%20counterterrorism%20operations%20briefings.md) | Monthly counterterrorism operations briefings. |
 | \[486, 487. | Repealed.\] |
-| [488\.](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum.md) | Management of electromagnetic spectrum. |
+| [488\.](%C2%A7%2000488%20-%20Management%20and%20review%20of%20electromagnetic%20spectrum.md) | Management and review of electromagnetic spectrum. |
 | \[489 to 491. Repealed or Renumbered.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §§1031(c), 1065(a)(2), Dec. 23, 2016, 130 Stat. 2389, 2410, substituted "Monthly counterterrorism operations briefings" for "Quarterly counterterrorism operations briefings" in item 485 and "Management and review of electromagnetic spectrum" for "Management of electromagnetic spectrum" in item 488.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title III, §331(b), title X, §1073(a)(2), Dec. 19, 2014, 128 Stat. 3344, 3518, added item 481a and struck out item 489 "Annual report on Department of Defense operation and financial support for military museums".
 
@@ -60,10 +62,10 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
 - [&sect; 00483 - Repealed. Pub. L. 113&#8211;66, div. A, title X, &sect;1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871](%C2%A7%2000483%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71084%28a%29%281%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%20871.md)
 - [&sect; 00484 - Quarterly cyber operations briefings](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md)
-- [&sect; 00485 - Quarterly counterterrorism operations briefings](%C2%A7%2000485%20-%20Quarterly%20counterterrorism%20operations%20briefings.md)
+- [&sect; 00485 - Monthly counterterrorism operations briefings](%C2%A7%2000485%20-%20Monthly%20counterterrorism%20operations%20briefings.md)
 - [&sect; 00486 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(8)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000486%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%288%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00487 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(9)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000487%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%289%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
-- [&sect; 00488 - Management of electromagnetic spectrum](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum.md)
+- [&sect; 00488 - Management and review of electromagnetic spectrum](%C2%A7%2000488%20-%20Management%20and%20review%20of%20electromagnetic%20spectrum.md)
 - [&sect; 00489 - Repealed. Pub. L. 113&#8211;291, div. A, title III, &sect;331(a), Dec. 19, 2014, 128 Stat. 3344](%C2%A7%2000489%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7331%28a%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203344.md)
 - [&sect; 00490 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(10)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000490%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%2810%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00490a - Renumbered &sect;492](%C2%A7%2000490a%20-%20Renumbered%20%C2%A7492.md)

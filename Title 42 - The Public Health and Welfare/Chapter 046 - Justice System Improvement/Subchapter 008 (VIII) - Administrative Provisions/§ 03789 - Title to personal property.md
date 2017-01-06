@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, title to all expendable and nonexpendable personal property purchased with funds made available under this chapter, including such property purchased with funds made available under this chapter as in effect before October 12, 1984, shall vest in the criminal justice agency or nonprofit organization that purchased the property if it certifies to the State office responsible for the trust fund required by section 3757 of this title, or the State office described in section 3796aa–7 <sup>1</sup> of this title,,<sup>2</sup> as the case may be, that it will use the property for criminal justice purposes. If such certification is not made, title to the property shall vest in the State office, which shall seek to have the property used for criminal justice purposes elsewhere in the State prior to using it or disposing of it in any other manner.
 
-(Pub. L. 90–351, title I, §808, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2095; amended Pub. L. 99–570, title I, §1552(b)(4), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(4), Nov. 29, 1990, 104 Stat. 4813; Pub. L. 103–322, title XXXIII, §330001(h)(10), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1111(c)(2)(E), Jan. 5, 2006, 119 Stat. 3102.)
+(Pub. L. 90–351, title I, §808, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2095; amended Pub. L. 99–570, title I, §1552(b)(4), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(4), Nov. 29, 1990, 104 Stat. 4813;Pub. L. 103–322, title XXXIII, §330001(h)(10), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1111(c)(2)(E), Jan. 5, 2006, 119 Stat. 3102.)
 
 #### References in Text
 

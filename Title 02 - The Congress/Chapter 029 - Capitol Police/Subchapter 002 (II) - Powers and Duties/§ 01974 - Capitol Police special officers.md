@@ -34,7 +34,7 @@ Nothing in this section shall prohibit the Capitol Police from entering into an 
 
 #### (e) Approval
 
-Any appointment under this section shall be subject to initial approval by the Capitol Police Board and to final approval by the Speaker of the House of Representatives (in consultationwith the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly.
+Any appointment under this section shall be subject to initial approval by the Capitol Police Board and to final approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly.
 
 #### (f) Regulations
 

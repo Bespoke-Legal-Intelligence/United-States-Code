@@ -82,7 +82,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (b) Jurisdiction
 
-(1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdiction over any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
+(1) The district court of the United States for the district in which is located a non-Federal interest that levies port or harbor dues under this section has original and exclusive jurisdictionover any matter arising out of or concerning, the imposition, computation, collection, and enforcement of port or harbor dues by a non-Federal interest under this section.
 
 (2) Any person who suffers legal wrong or is adversely affected or aggrieved by the imposition by a non-Federal interest of a proposed scheme or schedule of port or harbor dues under this section may, not later than 180 days after the date of hearing under subsection (a)(5)(A)(iii) of this section, commence an action to seek judicial review of that proposed scheme or schedule in the appropriate district court under paragraph (1).
 
@@ -112,7 +112,7 @@ At the request of an authorized representative referred to in subsection (a)(6)(
 
 &emsp;(1) withhold the clearance required by section 60105 of title 46 for a vessel if the master, owner, or operator of a vessel subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation or ordinance issued hereunder; and
 
-&emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section includingany non-Federal law, regulation, or ordinance issued hereunder.
+&emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
 
 #### (e) Maritime Lien
 

@@ -24,7 +24,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 &emsp;&emsp;&emsp;(ii) commencement of proceedings for bankruptcy of the servicer; or
 
-&emsp;&emsp;&emsp;(iii) commencement of proceedings by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation for conservatorship or receivership of the servicer (or an entity by which the servicer is owned or controlled).
+&emsp;&emsp;&emsp;(iii) commencement of proceedings by the Federal Deposit Insurance Corporationor the Resolution Trust Corporation for conservatorship or receivership of the servicer (or an entity by which the servicer is owned or controlled).
 
 #### (C) Exception for notice provided at closing
 
@@ -100,7 +100,7 @@ During the 60-day period beginning on the effective date of transfer of the serv
 
 #### (2) Action with respect to inquiry
 
-&emsp;Not later than 30 days (excluding legal public holidays, Saturdays, and Sundays) after the receipt from any borrower of any qualifiedwritten request under paragraph (1) and, if applicable, before taking any action with respect to the inquiry of the borrower, the servicer shall—
+&emsp;Not later than 30 days (excluding legal public holidays, Saturdays, and Sundays) after the receipt from any borrower of any qualified written request under paragraph (1) and, if applicable, before taking any action with respect to the inquiry of the borrower, the servicer shall—
 
 &emsp;&emsp;(A) make appropriate corrections in the account of the borrower, including the crediting of any late charges or penalties, and transmit to the borrower a written notification of such correction (which shall include the name and telephone number of a representative of the servicer who can provide assistance to the borrower);
 
@@ -162,7 +162,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (h) Preemption of conflicting State laws
 
-Notwithstanding any provision of any law or regulation of any State, a person who makes a federally related mortgage loan or a servicer shall be considered to have complied with the provisions of any such State law or regulation requiring notice to a borrower at the time of application for a loan or transfer of the servicing of a loan if such person or servicer complies with the requirements under this section regarding timing, content, and procedures for notification of the borrower.
+Notwithstanding any provision of any law or regulation of any State, a person who makes a federally related mortgage loan or a servicershall be considered to have complied with the provisions of any such State law or regulation requiring notice to a borrower at the time of application for a loan or transfer of the servicing of a loan if such person or servicer complies with the requirements under this section regarding timing, content, and procedures for notification of the borrower.
 
 #### (i) Definitions
 
@@ -234,7 +234,7 @@ A servicer of a federally related mortgage shall not be construed as having a re
 
 &emsp;&emsp;(A) the servicer has sent, by first-class mail, a written notice to the borrower containing—
 
-&emsp;&emsp;&emsp;(i) a reminder of the borrower's obligation to maintain hazard insurance on the property securing the federally related mortgage;
+&emsp;&emsp;&emsp;(i) a reminder of the borrower's obligation to maintain hazard insurance on theproperty securing the federally related mortgage;
 
 &emsp;&emsp;&emsp;(ii) a statement that the servicer does not have evidence of insurance coverage of such property;
 

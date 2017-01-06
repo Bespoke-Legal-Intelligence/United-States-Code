@@ -108,7 +108,7 @@ Scope.—Subject to the provisions of this subtitle \[subtitle C (§§5301–531
 
 "(b)
 
-Policy.—Intelligent transportation system research projects and operational tests funded pursuant to this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects.
+Policy.—Intelligent transportation system research projects and operational tests funded pursuantto this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects.
 
 "(c)
 
@@ -252,7 +252,7 @@ In General.—The Secretary \[of Transportation\] shall carry out a comprehensiv
 
 Priority Areas.—Under the program, the Secretary shall give higher priority to funding projects that—
 
-&emsp;"(1) enhance mobility and productivity through improved traffic management, incident management, transit management, freight management, road weather management, toll collection, traveler information, or highway operations systems and remote sensing products;
+&emsp;"(1) enhance mobility and productivity through improved traffic management, incident management,transit management, freight management, road weather management, toll collection, traveler information, or highway operations systems and remote sensing products;
 
 &emsp;"(2) utilize interdisciplinary approaches to develop traffic management strategies and tools to address multiple impacts of congestion concurrently;
 
@@ -338,7 +338,7 @@ Secretary's discretion.—The Secretary may authorize exceptions to paragraph (1
 
 &emsp;&emsp;"(A) projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508 of title 23, United States Code; or
 
-&emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date ofenactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
+&emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
 
 &emsp;&emsp;&emsp;"(i) would not adversely affect the goals or purposes of this subtitle \[subtitle C (§§5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title\];
 
@@ -520,7 +520,7 @@ State.—The term 'State' has the meaning given the term under section 101 of ti
 
 &emsp;"(8)
 
-Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
+Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given theterm under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
 
 #### Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems
 

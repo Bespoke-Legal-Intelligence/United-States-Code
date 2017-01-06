@@ -84,7 +84,7 @@ Not later than 2 years after December 19, 2007, and biennially thereafter, the F
 
 &emsp;(2) identifies within the planning, budgeting, and construction process all types of Federal facility procedures that may affect the certification of new and existing Federal facilities as high-performance green buildings under the provisions of section 6834(a)(3)(D) of this title and the criteria established in subsection (h);
 
-&emsp;(3) identifies inconsistencies, as reported to the Advisory Committee, in Federal law withrespect to product acquisition guidelines and high-performance product guidelines;
+&emsp;(3) identifies inconsistencies, as reported to the Advisory Committee, in Federal law with respect to product acquisition guidelines and high-performance product guidelines;
 
 &emsp;(4) recommends language for uniform standards for use by Federal agencies in environmentally responsible acquisition;
 

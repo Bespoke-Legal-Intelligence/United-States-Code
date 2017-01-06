@@ -1,6 +1,6 @@
 ### §206. Standard gauge for sheet and plate iron and steel
 
-For the purpose of securing uniformity the following is established as the only standard gaugefor sheet and plate iron and steel in the United States of America, namely:
+For the purpose of securing uniformity the following is established as the only standard gauge for sheet and plate iron and steel in the United States of America, namely:
 
 &nbsp;
 

@@ -6,7 +6,7 @@ The purposes of the corporation are—
 
 &emsp;(2) to revere, honor, and perpetuate the memory of individuals described in paragraph (1) of this section who have departed this life;
 
-&emsp;(3) to promote and encourage further public interest in the United States Navy, the United States Marine Corps, and the United States Coast Guard, and the history of those organizations;
+&emsp;(3) to promote and encourage further public interest in the United States Navy, the UnitedStates Marine Corps, and the United States Coast Guard, and the history of those organizations;
 
 &emsp;(4) to uphold the spirit and ideals of the United States Navy, the United States Marine Corps, and the United States Coast Guard;
 

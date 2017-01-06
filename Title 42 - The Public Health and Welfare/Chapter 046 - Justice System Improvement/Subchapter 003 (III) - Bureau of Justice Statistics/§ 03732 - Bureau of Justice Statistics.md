@@ -6,7 +6,7 @@ There is established within the Department of Justice, under the general authori
 
 #### (b) Appointment of Director; experience; authority; restrictions
 
-The Bureau shall be headed by a Director appointed by the President. The Director shall have had experience in statistical programs. TheDirector shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this Act.
+The Bureau shall be headed by a Director appointed by the President. The Director shall have had experience in statistical programs. The Director shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this Act.
 
 #### (c) Duties and functions of Bureau
 
@@ -56,7 +56,7 @@ The Bureau is authorized to—
 
 &emsp;(22) ensure conformance with security and privacy requirement of section 3789g of this title and identify, analyze, and participate in the development and implementation of privacy, security and information policies which impact on Federal, tribal, and State criminal justice operations and related statistical activities; and
 
-&emsp;(23) exercise the powers and functions set out in subchapter VIII of this chapter.
+&emsp;(23) exercise the powers and functions set out in subchapter VIII.
 
 #### (d) Justice statistical collection, analysis, and dissemination
 
@@ -82,7 +82,7 @@ The Bureau is authorized to—
 
 #### (e) Furnishing of information, data, or reports by Federal agencies
 
-Federal agencies requested to furnish information, data, or reports pursuant to subsection (d)(1)(C) of this section shall provide such information to the Bureau as is required to carry out the purposes of this section.
+Federal agencies requested to furnish information, data, or reports pursuant to subsection\(d)(1)(C) of this section shall provide such information to the Bureau as is required to carry out the purposes of this section.
 
 #### (f) Consultation with representatives of State, tribal, and local government and judiciary
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–211, title II, §251(c), July 29, 2010, 124 Stat. 2298, provided that: "Nothing in this section \[amending this section and provisions set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure\] or any amendment made by this section—
+Pub. L. 111–211, title II, §251(c), July 29, 2010, 124 Stat. 2298, provided that: "Nothing in this section \[amendingthis section and provisions set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure\] or any amendment made by this section—
 
 &emsp;"(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or
 
@@ -290,7 +290,7 @@ Issues Addressed.—The study conducted under this section shall address such is
 
 "(c)
 
-National Academy of Sciences.—In carrying out this section, the Attorney General shall consider contracting with the Committee on Law and Justice of the National Research Council of the National Academy of Sciences to provide research for the study conducted under this section.
+National Academy of Sciences.—In carrying out this section, the Attorney General shall consider contracting with the Committee on Law and Justice ofthe National Research Council of the National Academy of Sciences to provide research for the study conducted under this section.
 
 "(d)
 

@@ -46,7 +46,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application of Increase
 
-Pub. L. 107–314, div. A, title VI, §615(i), Dec. 2, 2002, 116 Stat. 2569, provided that: "In the case of an amendment made by this section \[amending sections 301d, 301e, 302, 302a, 302d, 302e, and 302i of this title and section 2130a of Title 10, Armed Forces\] to increase the maximum amount of a special pay or bonus that maybe paid during any 12-month period, the amended limitation shall apply to 12-month periods beginning after September 30, 2002."
+Pub. L. 107–314, div. A, title VI, §615(i), Dec. 2, 2002, 116 Stat. 2569, provided that: "In the case of an amendment made by this section \[amending sections 301d, 301e, 302, 302a, 302d, 302e, and 302i of this title and section 2130a of Title 10, Armed Forces\] to increase the maximum amount of a special pay or bonus that may be paid during any 12-month period, the amended limitation shall apply to 12-month periods beginning after September 30, 2002."
 
 #### Eligibility of Flag and General Officers for Multiyear Retention Bonus for Medical Officers
 

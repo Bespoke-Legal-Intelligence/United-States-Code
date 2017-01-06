@@ -46,7 +46,7 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 #### References in Text
 
-Section 114(t) of title 49, referred to in subsecs. (a) and (e), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
+Section 114(t) of title 49, referred to in subsecs. (a) and (e), was redesignated section 114(s) of title 49 byPub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note under section 1101 of this title.
 

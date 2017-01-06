@@ -8,7 +8,7 @@
 
 #### (2) Prohibition
 
-&emsp;Peace Corps Medical Officers, Safety and Security Officers, and program staff may notserve as victim advocates. The victim advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
+&emsp;Peace Corps Medical Officers, Safety and Security Officers, and program staff may not serve as victim advocates. The victim advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
 
 #### (3) Exemption
 

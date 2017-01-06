@@ -28,7 +28,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (2) Deadline for requests
 
-&emsp;The Secretary shall include in each notice required by this subsection a requirement that non-Federal interests submit to the Secretary any proposals described in paragraph (1) by not later than 120 days after the date of publication of the notice in the Federal Register in order for the proposals to be considered for inclusion in the annual report.
+&emsp;The Secretary shall include in each notice required by this subsection a requirement thatnon-Federal interests submit to the Secretary any proposals described in paragraph (1) by not later than 120 days after the date of publication of the notice in the Federal Register in order for the proposals to be considered for inclusion in the annual report.
 
 #### (3) Notification
 
@@ -190,11 +190,19 @@ In this section:
 
 &emsp;The term "non-Federal interest" has the meaning given that term in section 1962d–5b of title 42.
 
-(Pub. L. 113–121, title VII, §7001, June 10, 2014, 128 Stat. 1360.)
+#### (5) Water resources development project
+
+&emsp;The term "water resources development project" includes a project under an environmental infrastructure assistance program if authorized before December 16, 2016.
+
+(Pub. L. 113–121, title VII, §7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, §1157(b), Dec. 16, 2016, 130 Stat. 1666.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (f)(5). Pub. L. 114–322 added par. (5).
 
 #### "Secretary" Defined
 

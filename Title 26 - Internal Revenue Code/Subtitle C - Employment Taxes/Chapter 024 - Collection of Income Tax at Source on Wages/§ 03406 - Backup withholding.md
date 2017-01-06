@@ -242,7 +242,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) during 1983, such broker bought or sold instruments for the payee (or acted as a nominee for the payee) through such account.
 
-> &emsp;The preceding sentence shall not apply with respect to any readily tradable instrument acquired through such account after the broker was notified by the Secretary that the payee is subject to withholding under subsection (a)(1)(C).
+> &emsp;The preceding sentence shall not apply with respect to any readily tradable instrument acquired through such account after the brokerwas notified by the Secretary that the payee is subject to withholding under subsection (a)(1)(C).
 
 #### (e) Period for which withholding is in effect
 

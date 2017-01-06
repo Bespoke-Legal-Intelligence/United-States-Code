@@ -1,0 +1,6 @@
+### §1711. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–395, §12, Sept. 30, 1978, 92 Stat. 817, which related to limitation of actions and jurisdiction,was omitted from the Code as being of special and not general application.
+

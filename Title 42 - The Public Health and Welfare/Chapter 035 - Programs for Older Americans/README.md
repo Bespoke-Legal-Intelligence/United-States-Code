@@ -102,32 +102,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Disease Prevention and Health Promotion Services
+#### Part D—Evidence-Based Disease Prevention and Health Promotion Services
 
 |  |  |
 | :--- | ---: |
-| [3030m.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030m%20-%20Program%20authorized.md) | Program authorized. |
-| [3030n.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030n%20-%20Distribution%20to%20area%20agencies%20on%20aging.md) | Distribution to area agencies on aging. |
+| [3030m.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Evidence-Based%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030m%20-%20Program%20authorized.md) | Program authorized. |
+| [3030n.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Evidence-Based%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030n%20-%20Distribution%20to%20area%20agencies%20on%20aging.md) | Distribution to area agencies on aging. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part E—National Family Caregiver Support Program
 
-#### subpart i—caregiver support program
-
 |  |  |
 | :--- | ---: |
-| [3030s.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20E%20-%20National%20Family%20Caregiver%20Support%20Program/Subpart%20001%20%28i%29%20-%20Caregiver%20Support%20Program/%C2%A7%2003030s%20-%20Definitions.md) | Definitions. |
+| [3030s.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20E%20-%20National%20Family%20Caregiver%20Support%20Program/%C2%A7%2003030s%20-%20Definitions.md) | Definitions. |
 | 3030s–1. | Program authorized. |
 | 3030s–2. | Maintenance of effort. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart ii—national innovation programs
-
-|  |
-| :--- |
-| 3030s–11, 3030s–12. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -147,13 +137,13 @@
 | [3032a.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032a%20-%20Career%20preparation%20for%20the%20field%20of%20aging.md) | Career preparation for the field of aging. |
 | [3032b.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032b%20-%20Older%20individuals%27%20protection%20from%20violence%20projects.md) | Older individuals' protection from violence projects. |
 | [3032c.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032c%20-%20Health%20care%20service%20demonstration%20projects%20in%20rural%20areas.md) | Health care service demonstration projects in rural areas. |
-| [3032d.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032d%20-%20Computer%20training.md) | Computer training. |
+| [3032d.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032d%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93144%2C%20%C2%A75%28d%29%2C%20Apr.%2019%2C%202016%2C%20130%20Stat.%20342.md) | Repealed. |
 | [3032e.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032e%20-%20Technical%20assistance%20and%20innovation%20to%20improve%20transportation%20for%20older%20individuals.md) | Technical assistance and innovation to improve transportation for older individuals. |
 | [3032f.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032f%20-%20Demonstration%2C%20support%2C%20and%20research%20projects%20for%20multigenerational%20and%20civic%20engagement%20activities.md) | Demonstration, support, and research projects for multigenerational and civic engagement activities. |
 | [3032g.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032g%20-%20Native%20American%20programs.md) | Native American programs. |
-| [3032h.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032h%20-%20Multidisciplinary%20centers%20and%20multidisciplinary%20systems.md) | Multidisciplinary centers and multidisciplinary systems. |
+| [3032h.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032h%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93144%2C%20%C2%A75%28d%29%2C%20Apr.%2019%2C%202016%2C%20130%20Stat.%20342.md) | Repealed. |
 | [3032i.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032i%20-%20Demonstration%20and%20support%20projects%20for%20legal%20assistance%20for%20older%20individuals.md) | Demonstration and support projects for legal assistance for older individuals. |
-| [3032j.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032j%20-%20Ombudsman%20and%20advocacy%20demonstration%20projects.md) | Ombudsman and advocacy demonstration projects. |
+| [3032j.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032j%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93144%2C%20%C2%A75%28d%29%2C%20Apr.%2019%2C%202016%2C%20130%20Stat.%20342.md) | Repealed. |
 | [3032k.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032k%20-%20Community%20innovations%20for%20aging%20in%20place.md) | Community innovations for aging in place. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -222,7 +212,7 @@
 | [3056f.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056f%20-%20Report.md) | Report. |
 | [3056g.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20supplemental%20nutrition%20assistance%20programs.md) | Employment assistance and Federal housing and supplemental nutrition assistance programs. |
 | [3056h.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056h%20-%20Eligibility%20for%20workforce%20investment%20activities.md) | Eligibility for workforce investment activities. |
-| [3056i.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056i%20-%20Coordination%20with%20the%20Workforce%20Innovation%20and%20Opportunity%20Act%201.md) | Coordination with the Workforce Innovation and Opportunity Act. |
+| [3056i.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056i%20-%20Coordination%20with%20the%20Workforce%20Innovation%20and%20Opportunity%20Act.md) | Coordination with the Workforce Innovation and Opportunity Act. |
 | [3056j.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056j%20-%20Treatment%20of%20assistance.md) | Treatment of assistance. |
 | [3056k.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056k%20-%20Performance.md) | Performance. |
 | 3056<i>l.</i> | Competitive requirements relating to grant awards. |

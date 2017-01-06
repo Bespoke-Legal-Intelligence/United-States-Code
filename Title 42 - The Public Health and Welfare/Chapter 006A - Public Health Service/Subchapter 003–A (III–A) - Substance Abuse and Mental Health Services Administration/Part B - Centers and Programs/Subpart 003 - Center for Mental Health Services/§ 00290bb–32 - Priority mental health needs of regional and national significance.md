@@ -2,7 +2,7 @@
 
 #### (a) Projects
 
-The Secretary shall address priority mental health needs of regional and national significance (as determined under subsection (b) of this section) through the provision of or through assistance for—
+The Secretary shall address priority mental health needs of regional and national significance (as determined under subsection (b)) through the provision of or through assistance for—
 
 &emsp;(1) knowledge development and application projects for prevention, treatment, and rehabilitation, and the conduct or support of evaluations of such projects;
 
@@ -10,9 +10,9 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 &emsp;(3) targeted capacity response programs; and
 
-&emsp;(4) systems change grants including statewide family network grants and client-oriented and consumer run self-help activities.
+&emsp;(4) systems change grants including statewide family network grants and client-oriented and consumer run self-help activities, which may include technical assistance centers.
 
-> The Secretary may carry out the activities described in this subsection directly or through grants or cooperative agreements with States, political subdivisions of States, Indian tribes and tribal organizations, other public or private nonprofit entities.
+> The Secretary may carry out the activities described in this subsection directly or through grants, contracts, or cooperative agreements with States, political subdivisions of States, Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or,<sup>1</sup> other public or private nonprofit entities.
 
 #### (b) Priority mental health needs
 
@@ -36,15 +36,15 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under this section provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a), require that entities that apply for grants, contracts, or cooperative agreements under this section provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 
-The Secretary shall evaluate each project carried out under subsection (a)(1) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+The Secretary shall evaluate each project carried out under subsection (a)(1) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 
 #### (e) Information and education
 
@@ -56,23 +56,29 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) of
 
 &emsp;In disseminating information on evidence-based practices in the provision of children's mental health services under this subsection, the Secretary shall ensure that such information is distributed to rural and medically underserved areas.
 
-#### (f) Authorization of appropriation
+#### (3) Geriatric mental disorders
 
-#### (1) In general
+&emsp;The Secretary shall, as appropriate, provide technical assistance to grantees regarding evidence-based practices for the prevention and treatment of geriatric mental disorders and co-occurring mental health and substance use disorders among geriatric populations, as well as disseminate information about such evidence-based practices to States and nongrantees throughout the United States.
 
-&emsp;There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+#### (f) Authorization of appropriations
 
-#### (2) Data infrastructure
+There are authorized to be appropriated to carry out this section $394,550,000 for each of fiscal years 2018 through 2022.
 
-&emsp;If amounts are not appropriated for a fiscal year to carry out section 300y of this title with respect to mental health, then the Secretary shall make available, from the amounts appropriated for such fiscal year under paragraph (1), an amount equal to the sum of $6,000,000and 10 percent of all amounts appropriated for such fiscal year under such paragraph in excess of $100,000,000, to carry out such section 300y of this title.
-
-(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189.)
+(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189; Pub. L. 114–255, div. B, title VII, §7003, title IX, §9012, Dec. 13, 2016, 130 Stat. 1223, 1245.)
 
 #### Codification
 
 Section was formerly classified to section 290cc–13 of this title prior to renumbering by Pub. L. 102–321.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, §7003(1)(B), in concluding provisions, inserted ", contracts," before "or cooperative agreements" and substituted "Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or" for "Indian tribes and tribal organizations".
+
+Subsec. (a)(4). Pub. L. 114–255, §7003(1)(A), inserted ", which may include technical assistance centers" before period at end.
+
+Subsec. (e)(3). Pub. L. 114–255, §9012, added par. (3).
+
+Subsec. (f). Pub. L. 114–255, §7003(2), amended subsec. (f) generally, substituting appropriations for fiscal years 2018 through 2022 for appropriations for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003 and data infrastructure provisions.
 
 <b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority mental health needs of regional and national significance for provisions relating to establishment of grant programs for demonstration projects.
 
@@ -103,4 +109,6 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 #### Community Mental Health Services Demonstration Projects for Homeless Individuals Who Are Chronically Mentally Ill
 
 Pub. L. 100–77, title VI, §612, July 22, 1987, 101 Stat. 523, as amended by Pub. L. 100–607, title VIII, §821, Nov. 4, 1988, 102 Stat. 3171; Pub. L. 100–628, title VI, §621, Nov. 7, 1988, 102 Stat. 3244; Pub. L. 101–93, §5(t)(1), (2), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §521, Nov. 29, 1990, 104 Stat. 4734, which authorized to be appropriated for payments under this section such sums as may be necessary for each of the fiscal years 1991 through 1993, in addition to any other amounts authorized to be appropriated for such payments for each of such fiscal years with such additional amounts to be available only for the provision of community-based mental health services to homeless individuals who are chronically mentally ill, and amounts paid to grantees under subsection (a) of this section that remain unobligated at the end of the fiscal year in which the amounts were received to remain available to grantees during the succeeding fiscal year for the purposes for which the payments were made, was repealed by Pub. L. 106–310, div. B, title XXXII, §3201(b)(3), Oct. 17, 2000, 114 Stat. 1190.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

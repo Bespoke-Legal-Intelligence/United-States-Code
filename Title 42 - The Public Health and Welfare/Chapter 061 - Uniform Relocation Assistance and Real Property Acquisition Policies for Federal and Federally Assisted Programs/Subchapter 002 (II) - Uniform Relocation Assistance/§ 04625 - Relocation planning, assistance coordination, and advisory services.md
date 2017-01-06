@@ -2,7 +2,7 @@
 
 #### (a) Planning of programs or projects undertaken by Federal agencies or with Federal financial assistance
 
-Programs or projects undertaken by a Federal agency or with Federal financial assistanceshall be planned in a manner that (1) recognizes, at an early stage in the planning of such programs or projects and before the commencement of any actions which will cause displacements, the problems associated with the displacement of individuals, families, businesses, and farm operations, and (2) provides for the resolution of such problems in order to minimize adverse impacts on displaced persons and to expedite program or project advancement and completion.
+Programs or projects undertaken by a Federal agency or with Federal financial assistance shall be planned in a manner that (1) recognizes, at an early stage in the planning of such programs or projects and before the commencement of any actions which will cause displacements, the problems associated with the displacement of individuals, families, businesses, and farm operations, and (2) provides for the resolution of such problems in order to minimize adverse impacts on displaced persons and to expedite program or project advancement and completion.
 
 #### (b) Availability of advisory services
 
@@ -16,7 +16,7 @@ Each relocation assistance advisory program required by subsection (b) of this s
 
 &emsp;(2) provide current and continuing information on the availability, sales prices, and rental charges of comparable replacement dwellings for displaced homeowners and tenants and suitable locations for businesses and farm operations;
 
-&emsp;(3) assure that a person shall not be required to move from a dwelling unless the person has had a reasonable opportunity to relocate to a comparable replacement dwelling, except in the case of—
+&emsp;(3) assure that a person shall not be required to move from a dwelling unless the person hashad a reasonable opportunity to relocate to a comparable replacement dwelling, except in the case of—
 
 &emsp;&emsp;(A) a major disaster as defined in section 5122(2) of this title;
 

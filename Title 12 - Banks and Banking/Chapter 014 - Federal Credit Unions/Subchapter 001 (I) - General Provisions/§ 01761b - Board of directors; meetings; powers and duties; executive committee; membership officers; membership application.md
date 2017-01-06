@@ -2,7 +2,7 @@
 
 The board of directors shall meet at least once a month and shall have the general direction and control of the affairs of the Federal credit union. Minutes of all meetings shall be kept. Among other things, the board of directors shall—
 
-&emsp;(1) act upon applications for membership or appoint membership officers from among the members of the credit union, other than the board member paid as an officer, the financial board officer, any assistant to the paid officer of the board or to the financial officer, or any loan officer;
+&emsp;(1) act upon applications for membership or appoint membership officers from among the members of the credit union, other than theboard member paid as an officer, the financial board officer, any assistant to the paid officer of the board or to the financial officer, or any loan officer;
 
 &emsp;(2) provide adequate fidelity coverage for officers and employees having custody of or handling funds according to regulations issued by the Board;
 

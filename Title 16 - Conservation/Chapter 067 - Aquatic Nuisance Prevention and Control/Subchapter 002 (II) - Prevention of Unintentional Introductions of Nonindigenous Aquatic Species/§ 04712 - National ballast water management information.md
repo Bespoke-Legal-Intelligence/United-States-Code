@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveysof the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
+&emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveys of the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
 
 &emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting from ballast water operations and other operations of vessels; and
 
@@ -60,17 +60,17 @@
 
 #### (3) Columbia River
 
-&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
+&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecologicaland ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
 
 #### (c) Reports
 
 #### (1) Ballast exchange
 
-&emsp;Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under section 4711(b) of this title, the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) of this section and makes recommendations with respect to such regulations.
+&emsp;Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under section 4711(b) of this title, the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
 
 #### (2) Biological and shipping studies
 
-&emsp;Not later than 18 months after November 29, 1990, the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a) of this section.
+&emsp;Not later than 18 months after November 29, 1990, the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a).
 
 #### (d) Negotiations
 
@@ -100,7 +100,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 &emsp;&emsp;(B) compliance with the guidelines issued pursuant to section 4711(c) of this title; and
 
-&emsp;&emsp;(C) any other information obtained by the Task Force under subsection (b) of this section.
+&emsp;&emsp;(C) any other information obtained by the Task Force under subsection (b).
 
 #### (2) Report
 

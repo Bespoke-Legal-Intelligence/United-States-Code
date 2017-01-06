@@ -108,7 +108,7 @@ Pub. L. 110–233, §1(a), May 21, 2008, 122 Stat. 881, provided that: "This Act
 
 #### Severability
 
-Pub. L. 110–233, title III, §301, May 21, 2008, 122 Stat. 920, provided that: "If any provision of this Act \[seeShort Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provisions to any person or circumstance shall not be affected thereby."
+Pub. L. 110–233, title III, §301, May 21, 2008, 122 Stat. 920, provided that: "If any provision of this Act \[see Short Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provisions to any person or circumstance shall not be affected thereby."
 
 #### Findings
 

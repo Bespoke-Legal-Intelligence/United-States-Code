@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in cooperation with non-Federal project entities and consistent with thissubchapter, may carry out a rural water supply program in Reclamation States to—
+The Secretary, in cooperation with non-Federal project entities and consistent with this subchapter, may carry out a rural water supply program in Reclamation States to—
 
 &emsp;(1) investigate and identify opportunities to ensure safe and adequate rural water supply projects for domestic, municipal, and industrial use in small communities and rural areas of the Reclamation States;
 

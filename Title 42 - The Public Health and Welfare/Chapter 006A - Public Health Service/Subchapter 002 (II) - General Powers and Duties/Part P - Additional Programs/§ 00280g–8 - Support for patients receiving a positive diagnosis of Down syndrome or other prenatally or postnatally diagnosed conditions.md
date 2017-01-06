@@ -18,7 +18,7 @@ In this section:
 
 #### (4) Prenatally diagnosed condition
 
-&emsp;The term "prenatally diagnosed condition" means any fetal health condition identified by prenatal genetic testing or prenatal screening procedures.
+&emsp;The term "prenatally diagnosed condition" means any fetal health condition identified byprenatal genetic testing or prenatal screening procedures.
 
 #### (5) Prenatal test
 

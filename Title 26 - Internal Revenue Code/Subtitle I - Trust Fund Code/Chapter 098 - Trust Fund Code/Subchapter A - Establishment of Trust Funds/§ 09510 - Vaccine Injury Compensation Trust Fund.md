@@ -20,7 +20,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (3) Limitation on transfers to Vaccine Injury Compensation Trust Fund
 
-&emsp;No amount may be appropriated to the Vaccine Injury Compensation Trust Fund on and after the date of any expenditure from the Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;No amount may be appropriated to the Vaccine Injury Compensation Trust Fund on andafter the date of any expenditure from the Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 
@@ -64,7 +64,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;If at any time the Vaccine Injury Compensation Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) be paid in full in the order in which they are finally determined.
 
-(Added Pub. L. 100–203, title IX, §9202(a), Dec. 22, 1987, 101 Stat. 1330–330; amended Pub. L. 100–647, title II, §2006(b), Nov. 10, 1988, 102 Stat. 3613; Pub. L. 101–239, title VII, §7841(g)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 103–66, title XIII, §13421(b), Aug. 10, 1993, 107 Stat. 566; Pub. L. 105–277, div. C, title XV, §1504(a), div. J, title IV, §4003(d), Oct. 21, 1998, 112 Stat. 2681–741, 2681-909; Pub. L. 106–170, title V, §523(b)(1), (2), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 106–554, §1(a)(7) \[title III, §318(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646.)
+(Added Pub. L. 100–203, title IX, §9202(a), Dec. 22, 1987, 101 Stat. 1330–330; amended Pub. L. 100–647, title II, §2006(b), Nov. 10, 1988, 102 Stat. 3613; Pub. L. 101–239, title VII, §7841(g)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 103–66, title XIII, §13421(b), Aug. 10, 1993, 107 Stat. 566; Pub. L. 105–277, div. C, title XV, §1504(a), div. J, title IV, §4003(d), Oct. 21, 1998, 112 Stat. 2681–741, 2681–909; Pub. L. 106–170, title V, §523(b)(1), (2), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 106–554, §1(a)(7) \[title III, §318(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### References in Text
 
@@ -98,7 +98,7 @@ Pub. L. 105–277, §1504(a)(1), which directed the general amendment of par. (1
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 effective as if included in the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. 105–277, to which such amendment relates, see section 523(b)(3) of Pub. L. 106–170, set out as a note under section 4132 of this title.
+Amendment by Pub. L. 106–170 effective as if included in the provisions of the Omnibus Consolidated andEmergency Supplemental Appropriations Act, 1999, Pub. L. 105–277, to which such amendment relates, see section 523(b)(3) of Pub. L. 106–170, set out as a note under section 4132 of this title.
 
 #### Effective Date of 1998 Amendment
 

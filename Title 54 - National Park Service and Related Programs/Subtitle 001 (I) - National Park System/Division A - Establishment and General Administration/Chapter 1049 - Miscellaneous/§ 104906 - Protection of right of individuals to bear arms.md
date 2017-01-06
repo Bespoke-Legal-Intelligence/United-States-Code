@@ -6,7 +6,7 @@ Findings.—Congress finds the following:
 
 &emsp;(1) The 2d amendment to the Constitution provides that "the right of the people to keep and bear Arms, shall not be infringed".
 
-&emsp;(2) Section 2.4(a)(1) of title 36, Code of Federal Regulations, provides that "except asotherwise provided in this section and parts 7 (special regulations) and 13 (Alaska regulations), the following are prohibited: (i) Possessing a weapon, trap or net (ii) Carrying a weapon, trap or net (iii) Using a weapon, trap or net".
+&emsp;(2) Section 2.4(a)(1) of title 36, Code of Federal Regulations, provides that "except as otherwise provided in this section and parts 7 (special regulations) and 13 (Alaska regulations), the following are prohibited: (i) Possessing a weapon, trap or net (ii) Carrying a weapon, trap or net (iii) Using a weapon, trap or net".
 
 &emsp;(3) The regulations described in paragraph (2) prevent individuals complying with Federal and State laws from exercising the 2d amendment rights of the individuals while at System units.
 

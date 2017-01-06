@@ -34,7 +34,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;&emsp;(i) list the items required to be included in the table in a different order than the order in which such items are set forth in paragraph (1)(A) or (4)(A) of section 1637(c) of this title; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section 1637(c) of this title if such terminology conveys substantially the same meaning.
+&emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section1637(c) of this title if such terminology conveys substantially the same meaning.
 
 #### (C) Grace period
 
@@ -110,7 +110,7 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection withthose regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

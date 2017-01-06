@@ -8,7 +8,7 @@ The district courts of the United States and the United States courts of any Ter
 
 The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of section 80b–6 of this title involving—
 
-&emsp;(1) conduct within the United States that constitutes significant steps in furtherance ofthe violation, even if the violation is committed by a foreign adviser and involves only foreign investors; or
+&emsp;(1) conduct within the United States that constitutes significant steps in furtherance of the violation, even if the violation is committed by a foreign adviser and involves only foreign investors; or
 
 &emsp;(2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
 

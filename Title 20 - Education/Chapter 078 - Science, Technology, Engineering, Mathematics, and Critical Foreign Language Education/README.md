@@ -11,14 +11,9 @@
 
 #### Part A—Teachers for a Competitive Tomorrow
 
-|  |  |
-| :--- | ---: |
-| [9811\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20A%20-%20Teachers%20for%20a%20Competitive%20Tomorrow/%C2%A7%2009811%20-%20Purpose.md) | Purpose. |
-| [9812\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20A%20-%20Teachers%20for%20a%20Competitive%20Tomorrow/%C2%A7%2009812%20-%20Definitions.md) | Definitions. |
-| [9813\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20A%20-%20Teachers%20for%20a%20Competitive%20Tomorrow/%C2%A7%2009813%20-%20Programs%20for%20baccalaureate%20degrees%20in%20science%2C%20technology%2C%20engineering%2C%20mathematics%2C%20or%20critical%20foreign%20languages%2C%20with%20concurrent%E2%80%A6.md) | Programs for baccalaureate degrees in science, technology, engineering, mathematics, or critical foreign languages, with concurrent teacher certification. |
-| [9814\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20A%20-%20Teachers%20for%20a%20Competitive%20Tomorrow/%C2%A7%2009814%20-%20Programs%20for%20master%27s%20degrees%20in%20science%2C%20technology%2C%20engineering%2C%20mathematics%2C%20or%20critical%20foreign%20language%20education.md) | Programs for master's degrees in science, technology, engineering, mathematics, or critical foreign language education. |
-| [9815\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20A%20-%20Teachers%20for%20a%20Competitive%20Tomorrow/%C2%A7%2009815%20-%20General%20provisions.md) | General provisions. |
-| [9816\.](Subchapter%20001%20%28I%29%20-%20Teacher%20Assistance/Part%20A%20-%20Teachers%20for%20a%20Competitive%20Tomorrow/%C2%A7%2009816%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 9811 to 9816. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

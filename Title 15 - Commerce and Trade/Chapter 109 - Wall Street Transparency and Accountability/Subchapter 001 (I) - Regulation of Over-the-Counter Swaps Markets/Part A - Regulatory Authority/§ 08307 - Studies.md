@@ -44,7 +44,7 @@
 
 #### (4) Report
 
-&emsp;Within 8 months after July 21, 2010, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall jointly submit to the Committees on Agriculture and on Financial Services of the House of Representatives and the Committees on Agriculture, Nutrition, and Forestry and on Banking, Housing, and Urban Affairs of the Senate a written report which contains the results of the study required by paragraphs (1) through (3).
+&emsp;Within 8 months after July 21, 2010, the Securities and Exchange Commission and theCommodity Futures Trading Commission shall jointly submit to the Committees on Agriculture and on Financial Services of the House of Representatives and the Committees on Agriculture, Nutrition, and Forestry and on Banking, Housing, and Urban Affairs of the Senate a written report which contains the results of the study required by paragraphs (1) through (3).
 
 #### (c) International swap regulation
 

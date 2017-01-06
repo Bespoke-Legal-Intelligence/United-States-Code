@@ -40,7 +40,7 @@ Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or M
 
 (e)
 
-Waivers.—For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary's satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.
+Waivers.—For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, onan annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary's satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.
 
 (f)
 
@@ -144,7 +144,7 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub.L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(g), July 15, 2016, 130 Stat. 617, provided that:
 
 "(a)
 
@@ -168,7 +168,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 "(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on March 31, 2016."
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2017."
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: "The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date."\]
 
@@ -194,7 +194,7 @@ Review of Marketing Practices That Adversely Affect Service to Small or Medium C
 
 "(b)
 
-Regulations.—If the Secretary finds, after conducting the review, that marketing practices inhibitthe availability of affordable air transportation services to small- and medium-sized communities, then, after public notice and an opportunity for comment, the Secretary may issue regulations that address the problem or take other appropriate action.
+Regulations.—If the Secretary finds, after conducting the review, that marketing practices inhibit the availability of affordable air transportation services to small- and medium-sized communities, then, after public notice and an opportunity for comment, the Secretary may issue regulations that address the problem or take other appropriate action.
 
 "(c)
 

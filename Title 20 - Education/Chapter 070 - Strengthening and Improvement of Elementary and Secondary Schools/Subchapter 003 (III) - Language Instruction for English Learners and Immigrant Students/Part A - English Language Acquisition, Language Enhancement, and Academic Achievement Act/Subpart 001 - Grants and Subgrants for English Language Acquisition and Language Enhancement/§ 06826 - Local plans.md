@@ -6,7 +6,7 @@ Each eligible entity desiring a subgrant from the State educational agency under
 
 #### (b) Contents
 
-Each plan submitted under subsection (a) of this section shall—
+Each plan submitted under subsection (a) shall—
 
 &emsp;(1) describe the effective programs and activities, including language instruction educational programs, proposed to be developed, implemented, and administered under the subgrant that will help English learners increase their English language proficiency and meet the challenging State academic standards;
 
@@ -32,7 +32,7 @@ Each plan submitted under subsection (a) of this section shall—
 
 Each eligible entity receiving a subgrant under section 6824 of this title shall include in its plan a certification that all teachers in any language instruction educational program for English learners that is, or will be, funded under this part are fluent in English and any other language used for instruction, including having written and oral communications skills.
 
-(Pub. L. 89–10, title III, §3116, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1700; amended Pub. L. 114–95, title III, §3003(g), Dec. 10, 2015, 129 Stat. 1961.)
+(Pub. L. 89–10, title III, §3116, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1700;amended Pub. L. 114–95, title III, §3003(g), Dec. 10, 2015, 129 Stat. 1961.)
 
 #### Prior Provisions
 

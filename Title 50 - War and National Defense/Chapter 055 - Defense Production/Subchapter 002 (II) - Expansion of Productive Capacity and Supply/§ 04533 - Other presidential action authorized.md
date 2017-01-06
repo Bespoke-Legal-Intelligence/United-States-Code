@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (7), the President shall provide written notice to theCommittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of a domestic industrial base shortfall prior to taking action under this subsection to remedy the shortfall. The notice shall include the determinations made by the President under paragraph (5).
+&emsp;&emsp;Except as provided in paragraph (7), the President shall provide written notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of a domestic industrial base shortfall prior to taking action under this subsection to remedy the shortfall. The notice shall include the determinations made by the President under paragraph (5).
 
 #### (B) Aggregate amounts
 
@@ -162,7 +162,7 @@ Pub. L. 113–172, §4(b), Sept. 26, 2014, 128 Stat. 1897, provided that: "Secti
 
 #### Delegation of Functions
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Functions of President under this chapter relating to production, conservation, use, control, distribution,and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
 For delegation of certain authority of President under this section, see sections 303(a), 304, 305(b), and 306–308 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, 16655, set out as a note under section 4553 of this title.
 
@@ -188,7 +188,7 @@ Report by the Secretary.—Before the end of the 6-month period beginning on the
 
 &emsp;"(3) the intentions of the Department of Defense for the industrial base for radiation-hardened electronics; and
 
-&emsp;"(4) the plans of the Department of Defense for use of providers of radiation-hardened electronics beyondthe providers with which the Department had entered into contractual arrangements under the authority of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as of the date of the enactment of this Act."
+&emsp;"(4) the plans of the Department of Defense for use of providers of radiation-hardened electronics beyond the providers with which the Department had entered into contractual arrangements under the authority of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as of the date of the enactment of this Act."
 
 Pub. L. 107–314, div. A, title VIII, §829, Dec. 2, 2002, 116 Stat. 2618, provided that: "Notwithstanding the limitation in \[former\] section 303(a)(6)(C) of the Defense Production Act of 1950 (\[former\] 50 U.S.C. App. 2093(a)(6)(C)), action or actions may be taken under section 303 of that Act to correct the industrial resource shortfall for radiation-hardened electronics, if such actions do not cause the aggregate outstanding amount of all such actions to exceed $106,000,000."
 

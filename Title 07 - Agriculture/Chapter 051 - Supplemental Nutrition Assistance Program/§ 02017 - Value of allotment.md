@@ -2,7 +2,7 @@
 
 #### (a) Calculation
 
-The value of the allotment which State agencies shall be authorized to issue to any households certified as eligible to participate in the supplemental nutrition assistance program shall be equal to the cost to such households of the thrifty food plan reduced by an amount equal to 30 per centum of the household's income, as determined in accordance with section 2014(d) and (e) of this title, rounded to the nearest lower whole dollar: <i>Provided</i>, That for households of one and two persons the minimum allotment shall be 8 percent of the cost of the thrifty foodplan for a household containing 1 member, as determined by the Secretary under section 2012 of this title, rounded to the nearest whole dollar increment.
+The value of the allotment which State agencies shall be authorized to issue to any households certified as eligible to participate in the supplemental nutrition assistance program shall be equal to the cost to such households of the thrifty food plan reduced by an amount equal to 30 per centum of the household's income, as determined in accordance with section 2014(d) and (e) of this title, rounded to the nearest lower whole dollar: <i>Provided</i>, That for households of one and two persons the minimum allotment shall be 8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under section 2012 of this title, rounded to the nearest whole dollar increment.
 
 #### (b) Benefits not deemed income or resources for certain purposes
 
@@ -16,7 +16,7 @@ The value of benefits that may be provided under this chapter shall not be consi
 
 (3)
 
-Optional combined allotment for expedited households.—A State agency may provide to an eligible household applying after the 15th day of a month, in lieu of the initial allotment of the household and the regular allotment of the household for the following month, an allotment that is equal to the total amount of the initial allotment and the first regular allotment. The allotment shall be provided in accordance with section 2020(e)(3) of this title in the case of a household that is not entitled to expedited service and in accordance with paragraphs (3) and (9) of section 2020(e) of this title in the case of a household that is entitled to expedited service.
+Optional combined allotment for expedited households.—A State agency may provide to an eligible household applying after the 15th day of a month, in lieu of the initial allotment of the household and the regular allotment of the household for the following month, an allotment that is equal to the total amount of the initial allotment and the first regular allotment. The allotment shall be provided in accordance with section 2020(e)(3) of this title in the case of a household that is not entitled to expedited service and in accordance with paragraphs (3) and (9) of section 2020(e) of this title in thecase of a household that is entitled to expedited service.
 
 #### (d) Reduction of public assistance benefits
 
@@ -150,7 +150,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) a sufficient number of pilot projects have been carried out under paragraph (2)(A); and
 
-&emsp;&emsp;&emsp;&emsp;(bb) authorization of implementation of paragraph (1) in all States is not inthe best interest of the supplemental nutrition assistance program.
+&emsp;&emsp;&emsp;&emsp;(bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
 
 (Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868.)
 
@@ -214,7 +214,7 @@ Subsec. (c)(2)(B). Pub. L. 102–237, §910(2), substituted "the expiration of a
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1730, inserted before period at end ", and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(o) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5".
 
-Subsec. (c)(3). Pub. L. 101–624, §1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotmentand its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title."
+Subsec. (c)(3). Pub. L. 101–624, §1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title."
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–387 substituted "(2)" for "and (2)" and added cl. (3).
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amendment by section 1732 of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see section 1781(a), (b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
+Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amendment by section 1732 of Pub.L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see section 1781(a), (b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1988 Amendments
 

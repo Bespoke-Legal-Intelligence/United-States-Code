@@ -16,7 +16,7 @@ Notwithstanding section 12102(4)(E)(ii) of this title, a covered entity shall no
 
 #### (1) In general
 
-&emsp;This subchapter shall not prohibit a religious corporation, association, educational institution, or society from giving preference in employment to individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities.
+&emsp;This subchapter shall not prohibit a religious corporation, association, educational institution, or society from giving preference inemployment to individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities.
 
 #### (2) Religious tenets requirement
 

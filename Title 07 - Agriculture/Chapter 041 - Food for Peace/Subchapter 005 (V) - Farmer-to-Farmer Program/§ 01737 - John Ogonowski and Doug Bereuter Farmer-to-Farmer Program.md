@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, to further assist developing countri
 
 &emsp;The goals of programs carried out under this section in sub-Saharan African and Caribbean Basin countries shall be—
 
-&emsp;&emsp;(A) to expand small agricultural operations in those countries into agribusiness enterprises by increasing access to credit for agricultural producers through—
+&emsp;&emsp;(A) to expand small agricultural operations in those countries into agribusinessenterprises by increasing access to credit for agricultural producers through—
 
 &emsp;&emsp;&emsp;(i) the development and use of village banking systems; and
 

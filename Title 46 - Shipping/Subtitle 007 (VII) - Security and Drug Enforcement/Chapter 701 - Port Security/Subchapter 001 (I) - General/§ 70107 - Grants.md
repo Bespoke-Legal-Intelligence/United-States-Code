@@ -10,7 +10,7 @@ Eligible Costs.—The following costs of funding the correction of Coast Guard i
 
 &emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
-&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this sectionmay not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
 &emsp;&emsp;(A) $1,000,000 per project; or
 
@@ -218,7 +218,7 @@ National port security centers.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higher learning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
+In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higherlearning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
 
 &emsp;&emsp;(B)
 
@@ -232,7 +232,7 @@ Competitive selection process.—The Secretary shall select grant recipients und
 
 &emsp;&emsp;&emsp;(ii) The applicant's capability to provide leadership in making national and regional contributions to the solution of immediate and long-range port and maritime transportation security and risk mitigation problems.
 
-&emsp;&emsp;&emsp;(iii) Whether the applicant can demonstrate that is <sup>2</sup> has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
+&emsp;&emsp;&emsp;(iii) Whether the applicant can demonstrate that the applicant has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
 
 &emsp;&emsp;&emsp;(iv) Whether the applicant's investigations will involve major United States ports on the East Coast, the Gulf Coast, and the West Coast, and Federal agencies and other entities with expertise in port and maritime transportation.
 
@@ -258,7 +258,7 @@ Recordkeeping.—Recipients of grants shall keep all records related to expendit
 
 Annual review and report.—The Inspector General of the department in which the Coast Guard is operating shall annually review the programs established under this subsection to ensure that the expenditures and obligations of funds are consistent with the purposes for which they are provided, and report the findings to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2075; amended Pub. L. 108–293, title VIII, §§804(a), (b), 808(a), Aug. 9, 2004, 118 Stat. 1081, 1083; Pub. L. 109–347, title I, §112, Oct. 13, 2006, 120 Stat. 1894; Pub. L. 111–281, title VIII, §828(b), Oct. 15, 2010, 124 Stat. 3007.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2075; amended Pub. L. 108–293, title VIII, §§804(a), (b), 808(a), Aug. 9, 2004, 118 Stat. 1081, 1083; Pub. L. 109–347, title I, §112, Oct. 13, 2006, 120 Stat. 1894; Pub. L. 111–281, title VIII, §828(b), Oct. 15, 2010, 124 Stat. 3007; Pub. L. 114–120, title III, §306(a)(10), Feb. 8, 2016, 130 Stat. 54.)
 
 #### References in Text
 
@@ -271,6 +271,10 @@ This Act, referred to in subsec. (k)(1)(B)(iii), probably means the Maritime Tra
 The Maritime Transportation Security Act of 2002, referred to in subsec. (k)(3)(D), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–120, §306(a)(10)(A), substituted "5196(j)(8))," for "5121(j)(8))," in introductory provisions.
+
+Subsec. (m)(3)(C)(iii). Pub. L. 114–120, §306(a)(10)(B), substituted "that the applicant" for "that is".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281, §828(b)(1), substituted "services and to train law enforcement personnel under section 70132 of this title." for "services." in first sentence.
 
@@ -292,7 +296,7 @@ Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted "Secretary shall req
 
 Subsecs. (j), (k). Pub. L. 109–347, §112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
+Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read asfollows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
 
 Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (l).
 
@@ -322,9 +326,5 @@ Pub. L. 108–293, title VIII, §804(c), Aug. 9, 2004, 118 Stat. 1081, provided 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "5196(j)(8)".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "the applicant".</i>
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

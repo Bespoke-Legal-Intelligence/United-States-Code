@@ -1,0 +1,6 @@
+### §692. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §2, 68 Stat. 724, which set out definitions, was omitted from the Code as being of special and not general application.
+

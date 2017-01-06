@@ -6,7 +6,7 @@ Authority To Pay Bonus.—
 
 &emsp;(1)
 
-Authority.—The Secretary of Defense may authorize the appropriate Secretary to pay a bonus under this section to an individual referred to in paragraph (2) who refers to a military recruiter a person who has not previously served in an armed force and, after such referral, takes an oath of enlistment that leads to appointment as a commissioned officer, or accepts an appointment as a commissioned officer, in an armed force in a health profession designated by the appropriate Secretary for purposes of this section.
+Authority.—The Secretary of Defense may authorize the appropriate Secretary to pay a bonus under this section to an individual referred to in paragraph (2) who refers to a military recruiter a person who has not previously served in an armed force and, after such referral, takes an oath of enlistment thatleads to appointment as a commissioned officer, or accepts an appointment as a commissioned officer, in an armed force in a health profession designated by the appropriate Secretary for purposes of this section.
 
 &emsp;(2)
 

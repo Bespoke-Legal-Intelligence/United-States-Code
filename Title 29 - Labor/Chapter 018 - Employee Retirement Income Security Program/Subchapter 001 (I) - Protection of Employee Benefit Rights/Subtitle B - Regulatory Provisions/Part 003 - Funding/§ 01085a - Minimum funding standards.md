@@ -42,7 +42,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;(B) the amount necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) separately, with respect to each plan year, the net decrease (if any) in unfundedpast service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(i) separately, with respect to each plan year, the net decrease (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net experience gain (if any) under the plan, over a period of 5 plan years, and
 
@@ -126,7 +126,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No actuarial assumption (other than the assumptions described in subsection (h)(3)) used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
+&emsp;&emsp;&emsp;No actuarial assumption (other than the assumptions described in subsection (h)(3))used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
 
 #### (ii) Plans to which subparagraph applies
 
@@ -214,7 +214,7 @@ Assets.—For purposes of clause (i), assets shall not be reduced by any credit 
 
 #### (d) Extension of amortization periods
 
-The period of years required to amortize any unfunded liability (described in any clause of subsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension would carry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
+The period of years required to amortize any unfunded liability (described in any clause ofsubsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension would carry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
 
 &emsp;(1) a substantial risk to the voluntary continuation of the plan, or
 
@@ -305,7 +305,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "required annual payment" means the lesser of—
 
-&emsp;&emsp;&emsp;(i) 90 percent of the amount required to be contributed to or under the plan by theemployer for the plan year under section 1082 of this title (without regard to any waiver under subsection (c) thereof), or
+&emsp;&emsp;&emsp;(i) 90 percent of the amount required to be contributed to or under the plan by the employer for the plan year under section 1082 of this title (without regard to any waiver under subsection (c) thereof), or
 
 &emsp;&emsp;&emsp;(ii) 100 percent of the amount so required for the preceding plan year.
 
@@ -393,13 +393,13 @@ The period of years required to amortize any unfunded liability (described in an
 
 &emsp;&emsp;(A) any person fails to make a required installment under subsection (f) or any other payment required under this section before the due date for such installment or other payment, and
 
-&emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), whenadded to the aggregate unpaid balance of all preceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
+&emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), when added to the aggregate unpaid balance of all preceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
 > &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3) upon all property and rights to property, whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
 
 #### (2) Plans to which subsection applies
 
-&emsp;This subsection shall apply to a CSEC plan for any plan year for which the funded current liability percentage of such plan is less than 100 percent. This subsection shall not apply to any plan to which section 1321 of this title does not apply (as such section is in effect on December 8, 1994).
+&emsp;This subsection shall apply to a CSEC plan for any plan year for which the funded current liability percentage of such plan is less than100 percent. This subsection shall not apply to any plan to which section 1321 of this title does not apply (as such section is in effect on December 8, 1994).
 
 #### (3) Amount of lien
 
@@ -555,7 +555,7 @@ Notwithstanding any other provisions of this section—
 
 #### (3) Funding restoration plan
 
-&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shall take into account contributions required under this section (without regard to thisparagraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
+&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shall take into account contributions required under this section (without regard to this paragraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
 
 #### (4) Annual certification by plan actuary
 

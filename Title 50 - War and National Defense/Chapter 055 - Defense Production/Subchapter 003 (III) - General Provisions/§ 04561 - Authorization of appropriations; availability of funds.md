@@ -1,6 +1,6 @@
 ### §4561. Authorization of appropriations; availability of funds
 
-There is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter for the carrying out of the provisions and purposes of this chapter by the President and such agencies as he may designate or create.
+There is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscalyear thereafter for the carrying out of the provisions and purposes of this chapter by the President and such agencies as he may designate or create.
 
 (Sept. 8, 1950, ch. 932, title VII, §711, 64 Stat. 820; Pub. L. 93–426, §3, Sept. 30, 1974, 88 Stat. 1167; Pub. L. 96–294, title I, §105(a), June 30, 1980, 94 Stat. 632; Pub. L. 98–265, §5, Apr. 17, 1984, 98 Stat. 151; Pub. L. 99–441, §3, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 101–137, §9(b), Nov. 3, 1989, 103 Stat. 826; Pub. L. 102–99, §3, Aug. 17, 1991, 105 Stat. 487; Pub. L. 102–558, title I, §§144, 152, 161, Oct. 28, 1992, 106 Stat. 4218, 4219; Pub. L. 104–64, §3, Dec. 18, 1995, 109 Stat. 689; Pub. L. 105–261, div. A, title X, §1072(b), Oct. 17, 1998, 112 Stat. 2137; Pub. L. 106–65, div. A, title X, §1063(b), Oct. 5, 1999, 113 Stat. 769; Pub. L. 106–363, §2, Oct. 27, 2000, 114 Stat. 1407; Pub. L. 107–47, §3, Oct. 5, 2001, 115 Stat. 260; Pub. L. 108–195, §2(b), Dec. 19, 2003, 117 Stat. 2892; Pub. L. 110–367, §3, Oct. 8, 2008, 122 Stat. 4026; Pub. L. 111–67, §2(b), Sept. 30, 2009, 123 Stat. 2007; Pub. L. 113–172, §5, Sept. 26, 2014, 128 Stat. 1898.)
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 102–558, §161, added subsec. (d).
 
 "(4)(A) There are authorized to be appropriated for fiscal year 1990, not to exceed $50,000,000 to carry out the provisions of section 4533 of this title.
 
-"(B) The aggregate amount of loans, guarantees, purchase agreements, and other actions under sections 4531, 4532, and 4533 of this title during fiscal year 1990 may not exceed $50,000,000."
+"(B) The aggregate amount of loans, guarantees, purchase agreements, and other actions under sections4531, 4532, and 4533 of this title during fiscal year 1990 may not exceed $50,000,000."
 
 <b>1989</b>—Subsec. (a)(4). Pub. L. 101–137 amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 

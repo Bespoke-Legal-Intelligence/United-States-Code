@@ -6,7 +6,7 @@ Annual Payment.—
 
 &emsp;(1)
 
-In general.—The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, foreach vessel that is covered by the operating agreement, an amount equal to—
+In general.—The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
 
 &emsp;&emsp;(A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
@@ -28,7 +28,7 @@ Timing.—The amount shall be paid in equal monthly installments at the end of e
 
 (b)
 
-Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractorfor the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 (c)
 
@@ -40,11 +40,9 @@ General Limitations.—The Secretary of Transportation shall not make any paymen
 
 &emsp;(3) more than—
 
-&emsp;&emsp;(A) 25 years of age, except as provided in subparagraph (B) or (C);
+&emsp;&emsp;(A) 25 years of age, except as provided in subparagraph (B); or
 
-&emsp;&emsp;(B) 20 years of age, in the case of a tank vessel; or
-
-&emsp;&emsp;(C) 30 years of age, in the case of a lighter aboard ship vessel.
+&emsp;&emsp;(B) 20 years of age, in the case of a tank vessel.
 
 (d)
 
@@ -72,9 +70,11 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for "; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
 
 <b>2015</b>—Subsec. (a)(1)(B). Pub. L. 114–113, §101(e)(1)(A), struck out comma before "for each".
 

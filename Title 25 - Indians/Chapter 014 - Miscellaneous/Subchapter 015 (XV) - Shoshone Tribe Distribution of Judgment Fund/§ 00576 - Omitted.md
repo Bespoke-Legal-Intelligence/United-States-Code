@@ -1,0 +1,6 @@
+### §576. Omitted
+
+#### Codification
+
+Section, act July 27, 1939, ch. 387, §6, 53 Stat. 1130, which related to purchase of lands and reimbursement of expenditures, was omitted from the Code as being of special and not general application.
+

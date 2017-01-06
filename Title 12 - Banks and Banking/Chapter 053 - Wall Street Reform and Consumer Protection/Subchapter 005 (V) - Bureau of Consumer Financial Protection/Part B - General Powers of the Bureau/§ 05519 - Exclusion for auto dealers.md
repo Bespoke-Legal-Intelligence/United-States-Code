@@ -18,7 +18,7 @@ Subsection (a) shall not apply to any person, to the extent that such person—
 
 &emsp;&emsp;&emsp;(i) the extension of retail credit or retail leases are provided directly to consumers; and
 
-&emsp;&emsp;&emsp;(ii) the contract governing such extension of retail credit or retail leases is not routinely assigned to an unaffiliated third party finance or leasing source; or
+&emsp;&emsp;&emsp;(ii) the contract governing such extension of retail credit or retail leases is notroutinely assigned to an unaffiliated third party finance or leasing source; or
 
 &emsp;(3) offers or provides a consumer financial product or service not involving or related to the sale, financing, leasing, rental, repair, refurbishment, maintenance, or other servicing of motor vehicles, motor vehicle parts, or any related or ancillary product or service.
 

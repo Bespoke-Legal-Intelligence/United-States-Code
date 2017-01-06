@@ -2,7 +2,7 @@
 
 #### (a) No other funding
 
-Funds for the orderly liquidation of any covered financial company under this subchaptershall only be provided as specified under this subchapter.
+Funds for the orderly liquidation of any covered financial company under this subchapter shall only be provided as specified under this subchapter.
 
 #### (b) Limit on governmental actions
 
@@ -17,4 +17,8 @@ In the event that the Corporation is appointed receiver for more than 1 covered 
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 

@@ -40,7 +40,7 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(I) Whether the repair was performed under a contract awarded through the use of competitive procedures or procedures other than competitive procedures.
 
-(4) In the case of a covered vessel described in subparagraph (C) of paragraph (5), the report shall not be required to include the information described in subparagraphs (A), (E), (F), (G), and (I) of paragraph (3).
+(4) In the case of a covered vessel described in subparagraph (C) of paragraph (5), the reportshall not be required to include the information described in subparagraphs (A), (E), (F), (G), and (I) of paragraph (3).
 
 (5) In this subsection, the term "covered naval vessel" means any of the following:
 
@@ -75,4 +75,8 @@ Subsec. (c)(5)(C). Pub. L. 112–239, §344(4), added subpar. (C).
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted "or Guam" after "outside the United States".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–160, §367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

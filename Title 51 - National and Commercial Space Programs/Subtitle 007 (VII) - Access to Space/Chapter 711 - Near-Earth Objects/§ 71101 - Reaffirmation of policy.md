@@ -34,7 +34,7 @@ Pub. L. 110–422, title VIII, §802, Oct. 15, 2008, 122 Stat. 4803, provided th
 
 &emsp;"(5) Unlike earthquakes and hurricanes, asteroids and comets can provide adequate collision information, enabling the United States to include both asteroid-collision and comet-collision disaster recovery and disaster avoidance in its public-safety structure.
 
-&emsp;"(6) Basic information is needed for technical and policy decisionmaking for the United States to create a comprehensive program in order to be ready to eliminate and mitigate the serious and credible threats to humankind posed by potentially hazardous near-Earth asteroids and comets.
+&emsp;"(6) Basic information is needed for technical and policy decisionmaking for the United States to createa comprehensive program in order to be ready to eliminate and mitigate the serious and credible threats to humankind posed by potentially hazardous near-Earth asteroids and comets.
 
 &emsp;"(7) As a first step to eliminate and to mitigate the risk of such collisions, situation and decision analysis processes, as well as procedures and system resources, must be in place well before a collision threat becomes known."
 

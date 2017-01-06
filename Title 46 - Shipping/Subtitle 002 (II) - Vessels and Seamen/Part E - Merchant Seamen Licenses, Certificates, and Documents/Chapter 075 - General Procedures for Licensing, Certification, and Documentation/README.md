@@ -10,10 +10,14 @@
 | [7506\.](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md) | Convention tonnage for licenses, certificates, and documents. |
 | [7507\.](%C2%A7%2007507%20-%20Authority%20to%20extend%20the%20duration%20of%20licenses%2C%20certificates%20of%20registry%2C%20and%20merchant%20mariner%20documents.md) | Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents. |
 | [7508\.](%C2%A7%2007508%20-%20Authority%20to%20extend%20the%20duration%20of%20medical%20certificates.md) | Authority to extend the duration of medical certificates. |
+| [7509\.](%C2%A7%2007509%20-%20Medical%20certification%20by%20trusted%20agents.md) | Medical certification by trusted agents. |
+| [7510\.](%C2%A7%2007510%20-%20Examinations%20for%20merchant%20mariner%20credentials.md) | Examinations for merchant mariner credentials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title III, §§309(c), 315(a)(2), Feb. 8, 2016, 130 Stat. 57, 62, added items 7509 and 7510.
 
 <b>2012</b>—Pub. L. 112–213, title III, §306(b), Dec. 20, 2012, 126 Stat. 1565, added item 7508.
 
@@ -38,3 +42,5 @@
 - [&sect; 07506 - Convention tonnage for licenses, certificates, and documents](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md)
 - [&sect; 07507 - Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents](%C2%A7%2007507%20-%20Authority%20to%20extend%20the%20duration%20of%20licenses%2C%20certificates%20of%20registry%2C%20and%20merchant%20mariner%20documents.md)
 - [&sect; 07508 - Authority to extend the duration of medical certificates](%C2%A7%2007508%20-%20Authority%20to%20extend%20the%20duration%20of%20medical%20certificates.md)
+- [&sect; 07509 - Medical certification by trusted agents](%C2%A7%2007509%20-%20Medical%20certification%20by%20trusted%20agents.md)
+- [&sect; 07510 - Examinations for merchant mariner credentials](%C2%A7%2007510%20-%20Examinations%20for%20merchant%20mariner%20credentials.md)

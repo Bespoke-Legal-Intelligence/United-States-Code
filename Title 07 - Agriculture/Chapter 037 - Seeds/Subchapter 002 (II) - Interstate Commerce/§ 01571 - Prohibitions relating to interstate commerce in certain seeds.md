@@ -4,7 +4,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (a) Any agricultural seeds or any mixture of agricultural seeds for seeding purposes, unless each container bears a label giving the following information, in accordance with rules and regulations prescribed under section 1592 of this title.
 
-&emsp;(1) The name of the kind or kind and variety for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That (A), except with respect to seed mixtures intended for lawn and turf purposes, if any such component is one which the Secretary of Agriculture has determined, in rules and regulations prescribed under section 1592 of this title, is generally labeled as to variety, the label shall bear, in addition to the name of the kind, either the name of such variety or the statement "Variety Not Stated", (B) in the case of any such component which is a hybrid seed it shall, in addition to the above requirements, be designated as hybrid on the label, and (C) seed mixtures intended for lawn and turf purposes shall be designated as a mixture on the label and each seed component shall be listed on the label in the order of predominance;
+&emsp;(1) The name of the kind or kind and variety for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That (A), except with respect to seed mixtures intended for lawn and turf purposes, if any such component is one which the Secretary of Agriculture has determined, in rules and regulations prescribed under section 1592 of this title, is generally labeled as to variety, the label shall bear, in addition to the name of the kind, either the name of such variety or the statement "Variety Not Stated", (B) in the case of any such component which is a hybridseed it shall, in addition to the above requirements, be designated as hybrid on the label, and (C) seed mixtures intended for lawn and turf purposes shall be designated as a mixture on the label and each seed component shall be listed on the label in the order of predominance;
 
 &emsp;(2) Lot number or other identification;
 
@@ -24,7 +24,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(10) The year and month beyond which an inoculant, if shown in the labeling, is no longer claimed to be effective.
 
-(b) Any vegetable seeds, for seeding purposes, in containers, unless each container bears alabel giving the following information in accordance with rules and regulations prescribed under section 1592 of this title:
+(b) Any vegetable seeds, for seeding purposes, in containers, unless each container bears a label giving the following information in accordance with rules and regulations prescribed under section 1592 of this title:
 
 &emsp;(1) For containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title—
 
@@ -86,7 +86,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulations made and promulgated thereunder, with seed of the same kind produced in the United States.
 
-(h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that theyare intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
+(h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that they are intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
 
 (i) Any agricultural seeds or any mixture thereof or any vegetable seeds or any mixture thereof, for seeding purposes, that have been treated, unless each container thereof bears a label giving the following information and statements in accordance with rules and regulations prescribed under section 1592 of this title:
 
@@ -124,7 +124,7 @@ Subsec. (j). Pub. L. 97–439, §2(c), struck out subsec. (j) which directed tha
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–686, §4, inserted in introductory text, ", except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,".
 
-Subsec. (a)(1). Pub. L. 89–686, §5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That such components are expressed in accordance with the category designated under (A), (B), or (C);".
+Subsec. (a)(1). Pub. L. 89–686, §5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and thepercentage by weight of each: <i>Provided</i>, That such components are expressed in accordance with the category designated under (A), (B), or (C);".
 
 Subsec. (a)(10). Pub. L. 89–686, §6, added par. (10).
 

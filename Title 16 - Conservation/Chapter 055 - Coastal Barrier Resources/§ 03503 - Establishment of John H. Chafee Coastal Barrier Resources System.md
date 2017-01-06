@@ -96,7 +96,7 @@ In subsec. (e)(1), "chapters 1 to 11 of title 40 and division C (except sections
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–514, §3(d), substituted "which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as those maps may be modified, revised, or corrected under—" and pars. (1) to (3) for "which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990."
+<b>2000</b>—Subsec. (a). Pub. L. 106–514, §3(d), substituted "which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as those maps may be modified, revised, or corrected under—" and pars. (1) to (3) for "which shall consist of those undeveloped coastal barriers and otherareas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990."
 
 Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
 
@@ -118,7 +118,7 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted "the John H. Chafee Co
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -250,7 +250,7 @@ Contents.—The report required under paragraph (1) shall contain—
 
 &emsp;&emsp;"(C) recommendations for the adoption of the digital maps created under this section by Congress;
 
-&emsp;&emsp;"(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System andotherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
+&emsp;&emsp;"(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System and otherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
 
 &emsp;&emsp;"(E) a summary and update on the implementation and use of the digital maps created under the pilot project; and
 
@@ -369,6 +369,10 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 #### Revision of Maps for Units of System
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 114–314, §1, Dec. 16, 2016, 130 Stat. 1535.
+
+Pub. L. 114–128, §1, Feb. 29, 2016, 130 Stat. 287.
 
 Pub. L. 113–253, Dec. 18, 2014, 128 Stat. 2895.
 
@@ -498,7 +502,7 @@ Effective date of modifications.—A modification of the boundaries of a unit of
 
 #### Pacific Coastal Barrier Protection Study and Maps
 
-Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to prepare maps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C.3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
+Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to prepare maps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C. 3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
 
 #### Report Regarding Coastal Barrier Management
 

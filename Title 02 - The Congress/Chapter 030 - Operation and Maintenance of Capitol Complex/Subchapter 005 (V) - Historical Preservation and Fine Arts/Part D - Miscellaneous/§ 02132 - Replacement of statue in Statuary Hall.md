@@ -6,7 +6,7 @@
 
 (2) A request shall be considered under paragraph (1) only if—
 
-&emsp;(A) the request has been approved by a resolution adopted by the legislature of the State and the request has been approved by the Governor of the State, and
+&emsp;(A) the request has been approved by a resolution adopted by the legislature of the Stateand the request has been approved by the Governor of the State, and
 
 &emsp;(B) the statue to be replaced has been displayed in the Capitol of the United States for at least 10 years as of the time the request is made, except that the Joint Committee may waive this requirement for cause at the request of a State.
 
@@ -26,7 +26,7 @@ Nothing in this section shall be interpreted to permit a State to have more than
 
 (1) Subject to the approval of the Joint Committee on the Library, ownership of any statue replaced under this section shall be transferred to the State.
 
-(2) If any statue is removed from the Capitol of the United States as part of a transfer of ownership under paragraph (1), then it may not bereturned to the Capitol for display unless such display is specifically authorized by Federal law.
+(2) If any statue is removed from the Capitol of the United States as part of a transfer of ownership under paragraph (1), then it may not be returned to the Capitol for display unless such display is specifically authorized by Federal law.
 
 #### (e) Relocation of statues
 

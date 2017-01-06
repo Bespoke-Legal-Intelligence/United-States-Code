@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;(10) The term "State" means each of the several States and the District of Columbia.
 
-&emsp;(11) The term "State median income" means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
+&emsp;(11) The term "State median income" means the State median income promulgated by theSecretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
 
 (Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
@@ -44,7 +44,7 @@ As used in this subchapter:
 
 The Food and Nutrition Act of 2008, referred to in par. (1)(E), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Social Security Act, referred to in par. (1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. Forcomplete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in par. (1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

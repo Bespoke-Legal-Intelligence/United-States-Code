@@ -64,7 +64,7 @@ Historical and Revision Notes
 
 Dec. 27, 1950, ch. 1155, §§1, 2, 64 Stat. 1120.
 
-In subsection (b), the words "When the head of an agency . . . considers it necessary" are substituted for"either upon his own initiative or upon the written recommendation of the head of any other Government agency, when he deems that such action is necessary" to eliminate unnecessary words.
+In subsection (b), the words "When the head of an agency . . . considers it necessary" are substituted for "either upon his own initiative or upon the written recommendation of the head of any other Government agency, when he deems that such action is necessary" to eliminate unnecessary words.
 
 #### Amendments
 

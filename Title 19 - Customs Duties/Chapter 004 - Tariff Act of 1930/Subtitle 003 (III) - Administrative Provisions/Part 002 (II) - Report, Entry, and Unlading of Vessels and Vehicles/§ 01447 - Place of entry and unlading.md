@@ -1,8 +1,8 @@
 ### §1447. Place of entry and unlading
 
-It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
+It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of U.S. Customs and Border Protection may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
 
-(June 17, 1930, ch. 497, title IV, §447, 46 Stat. 714; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §649(a), Dec. 8, 1993, 107 Stat. 2208.)
+(June 17, 1930, ch. 497, title IV, §447, 46 Stat. 714; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §649(a), Dec. 8, 1993, 107 Stat. 2208; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Prior Provisions
 
@@ -20,15 +20,19 @@ R.S. §2897 authorized Secretary of the Treasury, under regulations by him presc
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs personnel, referred to in text, were under Department of the Treasury.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of suchDepartment transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs personnel, referred to in text, were under Department of the Treasury.
 
 "Commissioner of Customs" substituted in text for "Secretary of Commerce" on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 

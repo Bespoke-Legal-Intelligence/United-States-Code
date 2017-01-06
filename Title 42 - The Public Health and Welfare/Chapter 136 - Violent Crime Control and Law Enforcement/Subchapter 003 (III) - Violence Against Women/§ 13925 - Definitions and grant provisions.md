@@ -24,7 +24,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) has established a specialized culturally specific program that addresses domestic violence, dating violence, sexual assault, or stalking;
 
-&emsp;&emsp;(C) has a primary focus on underserved populations (and includes representatives of these populations) and domestic violence, dating violence, sexual assault, or stalking; or
+&emsp;&emsp;(C) has a primary focus on underserved populations (and includes representatives ofthese populations) and domestic violence, dating violence, sexual assault, or stalking; or
 
 &emsp;&emsp;(D) obtains expertise, or shows demonstrated capacity to work effectively, on domestic violence, dating violence, sexual assault, and stalking through collaboration.
 
@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (7) Culturally specific services
 
-&emsp;The term "culturally specific services" means community-based services that includeculturally relevant and linguistically specific services and resources to culturally specific communities.
+&emsp;The term "culturally specific services" means community-based services that include culturally relevant and linguistically specific services and resources to culturally specific communities.
 
 #### (8) Domestic violence
 
@@ -266,7 +266,7 @@ In this subchapter:
 
 #### (44) Victim services or services
 
-&emsp;The terms "victim services" and "services" mean services provided to victims of domestic violence, dating violence, sexual assault, or stalking, including telephonic or web-based hotlines, legal advocacy, economic advocacy, emergency and transitional shelter, accompaniment and advocacy through medical, civil or criminal justice, immigration, and social support systems, crisis intervention, short-term individual and group support services, information and referrals, culturally specific services, population specific services, and other related supportive services.
+&emsp;The terms "victim services" and "services" mean services provided to victims of domestic violence, dating violence, sexual assault, or stalking, including telephonic or web-basedhotlines, legal advocacy, economic advocacy, emergency and transitional shelter, accompaniment and advocacy through medical, civil or criminal justice, immigration, and social support systems, crisis intervention, short-term individual and group support services, information and referrals, culturally specific services, population specific services, and other related supportive services.
 
 #### (45) Youth
 

@@ -24,7 +24,7 @@
 | [44715\.](%C2%A7%2044715%20-%20Controlling%20aircraft%20noise%20and%20sonic%20boom.md) | Controlling aircraft noise and sonic boom. |
 | [44716\.](%C2%A7%2044716%20-%20Collision%20avoidance%20systems.md) | Collision avoidance systems. |
 | [44717\.](%C2%A7%2044717%20-%20Aging%20aircraft.md) | Aging aircraft. |
-| [44718\.](%C2%A7%2044718%20-%20Structures%20interfering%20with%20air%20commerce.md) | Structures interfering with air commerce. |
+| [44718\.](%C2%A7%2044718%20-%20Structures%20interfering%20with%20air%20commerce%20or%20national%20security.md) | Structures interfering with air commerce or national security. |
 | [44719\.](%C2%A7%2044719%20-%20Standards%20for%20navigational%20aids.md) | Standards for navigational aids. |
 | [44720\.](%C2%A7%2044720%20-%20Meteorological%20services.md) | Meteorological services. |
 | [44721\.](%C2%A7%2044721%20-%20Aeronautical%20charts%20and%20related%20products%20and%20services.md) | Aeronautical charts and related products and services. |
@@ -46,6 +46,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title III, §341(a)(4)(B), Dec. 23, 2016, 130 Stat. 2081, substituted "Structures interfering with air commerce or national security" for "Structures interfering with air commerce" in item 44718.
 
 <b>2012</b>—Pub. L. 112–95, title III, §§303(c)(2), 306(c), 307(c), 308(b), 309(b), 310(b), Feb. 14, 2012, 126 Stat. 58, 61, 62, 64, 65, substituted "Type certificates, production certificates, airworthiness certificates, and design and production organization certificates" for "Type certificates, production certificates, airworthiness certificates, and design organization certificates" in item 44704 and added items 44730 to 44735.
 
@@ -81,7 +83,7 @@
 - [&sect; 44715 - Controlling aircraft noise and sonic boom](%C2%A7%2044715%20-%20Controlling%20aircraft%20noise%20and%20sonic%20boom.md)
 - [&sect; 44716 - Collision avoidance systems](%C2%A7%2044716%20-%20Collision%20avoidance%20systems.md)
 - [&sect; 44717 - Aging aircraft](%C2%A7%2044717%20-%20Aging%20aircraft.md)
-- [&sect; 44718 - Structures interfering with air commerce](%C2%A7%2044718%20-%20Structures%20interfering%20with%20air%20commerce.md)
+- [&sect; 44718 - Structures interfering with air commerce or national security](%C2%A7%2044718%20-%20Structures%20interfering%20with%20air%20commerce%20or%20national%20security.md)
 - [&sect; 44719 - Standards for navigational aids](%C2%A7%2044719%20-%20Standards%20for%20navigational%20aids.md)
 - [&sect; 44720 - Meteorological services](%C2%A7%2044720%20-%20Meteorological%20services.md)
 - [&sect; 44721 - Aeronautical charts and related products and services](%C2%A7%2044721%20-%20Aeronautical%20charts%20and%20related%20products%20and%20services.md)

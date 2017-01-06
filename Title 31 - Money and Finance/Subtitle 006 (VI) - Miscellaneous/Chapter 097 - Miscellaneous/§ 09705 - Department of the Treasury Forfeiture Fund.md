@@ -80,7 +80,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;(E) the payment of claims against employees of the Customs Service settled by the Secretary under section 630 of the Tariff Act of 1930;
 
-&emsp;&emsp;(F) payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
+&emsp;&emsp;(F) payment for equipment for any vessel, vehicle, or aircraft available for official useby a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
 
 &emsp;&emsp;(G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
@@ -278,7 +278,7 @@ Transfers to Attorney General and Postmaster General.—
 
 &emsp;(1) The Secretary shall transfer from the Fund to the Attorney General for deposit in the Department of Justice Assets Forfeiture Fund amounts appropriate to reflect the degree of participation of participating Federal agencies in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization. For purposes of the preceding sentence, a "participating Federal agency" is an agency that participates in the Department of Justice Assets Forfeiture Fund.
 
-&emsp;(2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of the United States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
+&emsp;(2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of theUnited States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
 
 (o)
 
@@ -374,7 +374,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

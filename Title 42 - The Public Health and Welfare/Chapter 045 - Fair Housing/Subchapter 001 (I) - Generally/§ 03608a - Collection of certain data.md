@@ -18,7 +18,7 @@ Title VIII of Public Law 90–284, referred to in subsec. (a), is title VIII of 
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of title VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
+Section was enacted as part of the Housing and Community Development Act of 1987, and not as part oftitle VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
 
 #### Amendments
 

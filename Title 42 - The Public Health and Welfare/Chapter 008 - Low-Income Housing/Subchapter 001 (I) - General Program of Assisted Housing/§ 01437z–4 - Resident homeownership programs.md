@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A public housing agency may carry out a homeownership program in accordance with this section and the public housing agency plan of the agency to make public housing dwelling units, public housing projects, and other housing projects available for purchase by low-income families for use only as principal residences for such families. An agency may transfer a unit pursuant to a homeownership program only if the program is authorized under this section and approved by the Secretary.
+A public housing agency may carry out a homeownership program in accordance with this section and the public housing agency plan of the agency to make public housing dwelling units, public housing projects, and other housing projects available for purchase by low-income families for use only as principal residences for such families. An agency may transfer a unitpursuant to a homeownership program only if the program is authorized under this section and approved by the Secretary.
 
 #### (b) Participating units
 
@@ -24,7 +24,7 @@ In making any sale under this section, the public housing agency shall initially
 
 #### (e) Protection of nonpurchasing residents
 
-If a public housing resident does not exercise the right of first refusal under subsection (d) of this section with respect to the public housing unit in which the resident resides, the public housing agency—
+If a public housing resident does not exercise the right of first refusal under subsection (d) with respect to the public housing unit in which the resident resides, the public housing agency—
 
 &emsp;(1) shall notify the resident residing in the unit 90 days prior to the displacement date except in cases of imminent threat to health or safety, consistent with any guidelines issued by the Secretary governing such notifications, that—
 
@@ -44,7 +44,7 @@ If a public housing resident does not exercise the right of first refusal under 
 
 &emsp;&emsp;&emsp;&emsp;(II) project-based assistance; or
 
-&emsp;&emsp;&emsp;&emsp;(III) occupancy in a unit owned, operated, or assisted by the public housingagency at a rental rate paid by the resident that is comparable to the rental rate applicable to the unit from which the resident is vacated;
+&emsp;&emsp;&emsp;&emsp;(III) occupancy in a unit owned, operated, or assisted by the public housing agency at a rental rate paid by the resident that is comparable to the rental rate applicable to the unit from which the resident is vacated;
 
 &emsp;(2) shall provide for the payment of the actual and reasonable relocation expenses of the resident to be displaced;
 
@@ -76,7 +76,7 @@ A homeownership program under this section may provide for sale to the purchasin
 
 #### (1) Authority and limitation
 
-&emsp;A homeownership program under this section shall permit the resale of a dwelling unit purchased under the program by an eligible family, but shall provide such limitations on resale as the agency considers appropriate (whether the family purchases directly from the agency or from another entity) for the agency to recapture—
+&emsp;A homeownership program under this section shall permit the resale of a dwelling unitpurchased under the program by an eligible family, but shall provide such limitations on resale as the agency considers appropriate (whether the family purchases directly from the agency or from another entity) for the agency to recapture—
 
 &emsp;&emsp;(A) some or all of the economic gain derived from any such resale occurring during the 5-year period beginning upon purchase of the dwelling unit by the eligible family; and
 

@@ -42,13 +42,13 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;(4)(A) The Secretary shall require satisfactory evidence that the hospital will be located in a State or political subdivision of a State with reasonable minimum standards of licensure and methods of operation for hospitals and satisfactory assurance that such standards will be applied and enforced with respect to the hospital.
 
-&emsp;(B) The Secretary shall establish the means for determining need and feasibility for thehospital, if the State does not have an official procedure for determining need for hospitals. If the State has an official procedure for determining need for hospitals, the Secretary shall require that such procedure be followed before the application for insurance is submitted, and the application shall document that need has also been established under that procedure.
+&emsp;(B) The Secretary shall establish the means for determining need and feasibility for the hospital, if the State does not have an official procedure for determining need for hospitals. If the State has an official procedure for determining need for hospitals, the Secretary shall require that such procedure be followed before the application for insurance is submitted, and the application shall document that need has also been established under that procedure.
 
 &emsp;(5) The Secretary shall not insure any mortgage or approve any modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title if such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt, except that the Secretary shall not refuse to insure such a mortgage or approve such a modification solely on the basis that such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt if—
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
-&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
+&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respectto the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
@@ -80,7 +80,7 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of
 
 #### (2) Report to Congress
 
-&emsp;Not later than 3 years after July 31, 2003, the Secretary shall submit a report to Congressdetailing the effects of the exemption of critical access hospitals from the provisions of subsection (b)(1)(B) on—
+&emsp;Not later than 3 years after July 31, 2003, the Secretary shall submit a report to Congress detailing the effects of the exemption of critical access hospitals from the provisions of subsection (b)(1)(B) on—
 
 &emsp;&emsp;(A) the provision of mortgage insurance to hospitals under this section; and
 
@@ -94,7 +94,7 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 
 Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 of Title 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
-The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Subsec. (d)(3)(A). Pub. L. 98–479, §204(a)(13), substituted a semicolon for t
 
 Subsec. (d)(3)(B). Pub. L. 98–181, §404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
 
-Subsec. (f). Pub. L. 98–181, §436(2), inserted ", and in the case of public hospitals, to encourage programs that are undertaken to provide essential health careservices to all residents of a community regardless of ability to pay" after "defined population".
+Subsec. (f). Pub. L. 98–181, §436(2), inserted ", and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay" after "defined population".
 
 <b>1981</b>—Subsec. (d)(5). Pub. L. 97–35 inserted provisions respecting limitation on authority of the Secretary to approve mortgage increases on eligible mortgages.
 

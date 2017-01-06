@@ -6,7 +6,7 @@
 
 (c) A contract entered into by the United States in connection with a military construction project or a military family housing project may not use any form of cost-plus contracting. This prohibition is in addition to the prohibition specified in subsection (a) on the use of the cost-plus-a-percentage-of-cost system of contracting and applies notwithstanding a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act (50 U.S.C. 1621) that includes the use of the armed forces.
 
-(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, orresearch work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
+(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
 (e)(1) Except as provided in paragraph (2), each cost contract and each cost-plus-a-fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
 
@@ -22,7 +22,7 @@
 
 (h) Multiyear contracting authority for the purchase of property is provided in section 2306b of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513, title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205; Pub. L. 108–136, div. A, title VIII, §842, Nov. 24, 2003, 117 Stat. 1552; Pub. L. 112–81, div. B, title XXVIII, §2801(a), Dec. 31, 2011, 125 Stat. 1684.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513,title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205; Pub. L. 108–136, div. A, title VIII, §842, Nov. 24, 2003, 117 Stat. 1552; Pub. L. 112–81, div. B, title XXVIII, §2801(a), Dec. 31, 2011, 125 Stat. 1684.)
 
 Historical and Revision Notes
 
@@ -94,7 +94,7 @@ Subsec. (h). Pub. L. 103–355, §1022(b), amended subsec. (h) generally. Prior 
 
 <b>1991</b>—Subsec. (e)(2)(A). Pub. L. 102–25 substituted "the small purchase threshold" for "the small purchase amount under section 2304(g) of this title".
 
-<b>1990</b>—Subsec. (h)(1). Pub. L. 101–510, §808(a), struck out "(other than contracts described in paragraph (6))" after "multiyear contracts" in introductory provisionsand substituted "substantial savings of the total anticipated costs of carrying out the program through annual contracts" for "reduced total costs under the contract" in subpar. (A).
+<b>1990</b>—Subsec. (h)(1). Pub. L. 101–510, §808(a), struck out "(other than contracts described in paragraph (6))" after "multiyear contracts" in introductory provisions and substituted "substantial savings of the total anticipated costs of carrying out the program through annual contracts" for "reduced total costs under the contract" in subpar. (A).
 
 Subsec. (h)(6). Pub. L. 101–510, §808(b), struck out "contracts for the construction, alteration, or major repair of improvements to real property or" after "not apply to".
 
@@ -118,7 +118,7 @@ Subsec. (b). Pub. L. 99–145, §1303(a)(15)(B), struck out "of this title" befo
 
 <b>1984</b>—Pub. L. 98–369, §2724(f), substituted "Kinds of contracts; cost or pricing data: truth in negotiation" for "Kinds of contracts" in section catchline.
 
-Subsec. (a). Pub. L. 98–369, §2724(a), substituted "the limitation in the preceding sentence, the other provisions of this section, and other applicable provisions of law, the head of an agency, in awarding contracts under this chapter after using procedures other than sealed-bid procedures, may enter into" for "this limitation and subject to subsections (b)–(f), the head of any agency may, in negotiating contracts under section 2304 of this title, make".
+Subsec. (a). Pub. L. 98–369, §2724(a), substituted "the limitation in the preceding sentence, the other provisions of this section, and other applicable provisions of law, the head of an agency, in awarding contracts under this chapter after using procedures other thansealed-bid procedures, may enter into" for "this limitation and subject to subsections (b)–(f), the head of any agency may, in negotiating contracts under section 2304 of this title, make".
 
 Subsec. (b). Pub. L. 98–369, §2724(b), substituted "awarded under this chapter after using procedures other than sealed-bid procedures" for "negotiated under section 2304".
 
@@ -190,13 +190,37 @@ For effective date of amendment by Pub. L. 87–653 see section 1(h) of Pub. L. 
 
 Pub. L. 101–189, div. A, title VIII, §805(c), Nov. 29, 1989, 103 Stat. 1489, provided that: "Subparagraph (C) of paragraph (9) of section 2306(h) of title 10, United States Code, as added by subsection (a), does not apply to programs that are under a multiyear contract on the date of the enactment of this Act \[Nov. 29, 1989\]."
 
+#### Preference for Fixed-Price Contracts
+
+Pub. L. 114–328, div. A, title VIII, §829, Dec. 23, 2016, 130 Stat. 2281, provided that:
+
+"(a)
+
+Establishment of Preference.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Defense Federal Acquisition Regulation Supplement shall be revised to establish a preference for fixed-price contracts, including fixed-price incentive fee contracts, in the determination of contract type.
+
+"(b)
+
+Approval Requirement for Certain Cost-type Contracts.—
+
+&emsp;"(1)
+
+In general.—A contracting officer of the Department of Defense may not enter into a cost-type contract described in paragraph (2) unless the contract is approved by the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition, Technology, and Logistics (as applicable).
+
+&emsp;"(2)
+
+Covered contracts.—A contract described in this paragraph is—
+
+&emsp;&emsp;"(A) a cost-type contract in excess of $50,000,000, in the case of a contract entered into on or after October 1, 2018, and before October 1, 2019; and
+
+&emsp;&emsp;"(B) a cost-type contract in excess of $25,000,000, in the case of a contract entered into on or after October 1, 2019."
+
 #### Determination of Contract Type for Development Programs
 
 Pub. L. 109–364, div. A, title VIII, §818(b)–(e), Oct. 17, 2006, 120 Stat. 2329, 2330, provided that:
 
 "(b)
 
-Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
+Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act\[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
 
 "(c)
 

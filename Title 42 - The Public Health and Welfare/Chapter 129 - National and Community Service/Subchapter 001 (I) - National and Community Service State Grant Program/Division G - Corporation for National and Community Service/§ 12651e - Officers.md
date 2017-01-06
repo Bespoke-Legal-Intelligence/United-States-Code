@@ -48,7 +48,7 @@
 
 #### (1) Appointment
 
-&emsp;One of the Managing Directors appointed under subsection (a) of this section shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
+&emsp;One of the Managing Directors appointed under subsection (a) shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
 
 &emsp;&emsp;(A) 1 Assistant Director shall be responsible for programs carried out under parts A \[42 U.S.C. 4951 et seq.\] and B <sup>1</sup> of title I of the Domestic Volunteer Service Act of 1973 (the Volunteers in Service to America (VISTA) program) and other antipoverty programs under title I of that Act \[42 U.S.C. 4951 et seq.\];
 

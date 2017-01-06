@@ -64,7 +64,7 @@ No guarantee may be made with respect to any debenture under subsection (a) unle
 
 #### (e) "Qualified State or local development company" defined; exception for rural company; authority
 
-(1) For purposes of this section, the term "qualified State or local development company"means any State or local development company which, as determined by the Administration, has—
+(1) For purposes of this section, the term "qualified State or local development company" means any State or local development company which, as determined by the Administration, has—
 
 &emsp;(A) a full-time professional staff;
 
@@ -140,7 +140,7 @@ Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
 &emsp;"(i) 0.9375 percent per year of the outstanding balance of the loan; or
 
-&emsp;"(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase orguarantee $2,000,000,000 of debentures in fiscal year 1997; and".
+&emsp;"(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and".
 
 Subsec. (f). Pub. L. 105–135, §222(2), substituted "2000" for "1997".
 

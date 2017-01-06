@@ -40,13 +40,13 @@ Not later than 30 days after October 26, 1996, the Task Force shall request a We
 
 &emsp;(5) provide advice to public and private individuals and entities concerning methods of preventing and controlling aquatic nuisance species infestations; and
 
-&emsp;(6) submit annually a report to the Task Force describing activities within the Western region related to aquatic nuisance species prevention, research, and control.
+&emsp;(6) submit annually a report to the Task Force describing activities within the Westernregion related to aquatic nuisance species prevention, research, and control.
 
 #### (c) Additional regional panels
 
 The Task Force shall—
 
-&emsp;(1) encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b) of this section; and
+&emsp;(1) encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b); and
 
 &emsp;(2) cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).
 

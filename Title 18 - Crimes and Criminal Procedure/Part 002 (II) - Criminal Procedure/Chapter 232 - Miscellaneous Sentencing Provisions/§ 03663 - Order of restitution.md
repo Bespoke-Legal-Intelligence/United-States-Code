@@ -1,6 +1,6 @@
 ### §3663. Order of restitution
 
-(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 5124, 46312, 46502, or 46504 of title 49, other than an offense described in section 3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by theparties in a plea agreement, restitution to persons other than the victim of the offense.
+(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 5124, 46312, 46502, or 46504 of title 49, other than an offense described in section 3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
 
 (B)(i) The court, in determining whether to order restitution under this section, shall consider—
 
@@ -62,7 +62,7 @@
 
 (6) Requests for community restitution under this subsection may be considered in all plea agreements negotiated by the United States.
 
-(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courtsin determining the amount of restitution that may be ordered under this subsection.
+(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courts in determining the amount of restitution that may be ordered under this subsection.
 
 (B) No restitution shall be ordered under this subsection until such time as the Sentencing Commission promulgates guidelines pursuant to this paragraph.
 

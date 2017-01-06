@@ -18,7 +18,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 #### (A) Prohibition
 
-&emsp;&emsp;Subject to subparagraph (B), each order of the Secretary of Commerce under paragraph (1) or (2) shall also prohibit, notwithstanding any other provision of law, any person frompurchasing, directly or indirectly, unprocessed timber originating from public lands in a State if—
+&emsp;&emsp;Subject to subparagraph (B), each order of the Secretary of Commerce under paragraph (1) or (2) shall also prohibit, notwithstanding any other provision of law, any person from purchasing, directly or indirectly, unprocessed timber originating from public lands in a State if—
 
 &emsp;&emsp;&emsp;(i) such unprocessed timber would be used in substitution for exported unprocessed timber originating from private lands in that State; or
 
@@ -48,7 +48,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 &emsp;&emsp;Subject to subparagraph (B), the Secretary of Commerce shall, as soon as possible after July 1, 1993—
 
-&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a);
+&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each Statethat is subject to an order issued under subsection (a);
 
 &emsp;&emsp;&emsp;(ii) administer the prohibitions consistent with sections 620 to 620j of this title;
 
@@ -146,7 +146,7 @@ Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out fo
 
 "(B) For the period beginning on January 1, 1992, and ending on December 31, 1993, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1991. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.
 
-"(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such ordershall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period."
+"(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period."
 
 Subsec. (b)(3), (4). Pub. L. 103–45, §2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted "the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d)" for "States pursuant to sections 620 to 620j of this title".
 

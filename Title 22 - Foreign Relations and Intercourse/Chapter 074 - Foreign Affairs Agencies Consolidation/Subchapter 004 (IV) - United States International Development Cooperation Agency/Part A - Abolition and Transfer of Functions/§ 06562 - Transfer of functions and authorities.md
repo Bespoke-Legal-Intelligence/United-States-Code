@@ -16,7 +16,7 @@ There are transferred to the Administrator of the Agency for International Devel
 
 #### (c) Other activities
 
-The authorities and functions transferred to the United States International Development Cooperation Agency or the Director of that Agency by section 6 of Reorganization Plan Numbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
+The authorities and functions transferred to the United States International DevelopmentCooperation Agency or the Director of that Agency by section 6 of Reorganization Plan Numbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIV, §1412, Oct. 21, 1998, 112 Stat. 2681–790.)
 

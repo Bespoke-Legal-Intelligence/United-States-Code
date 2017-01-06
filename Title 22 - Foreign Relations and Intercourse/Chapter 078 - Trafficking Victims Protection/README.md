@@ -23,6 +23,7 @@
 | [7111\.](%C2%A7%2007111%20-%20Report%20by%20Secretary%20of%20State.md) | Report by Secretary of State. |
 | [7112\.](%C2%A7%2007112%20-%20Additional%20activities%20to%20monitor%20and%20combat%20forced%20labor%20and%20child%20labor.md) | Additional activities to monitor and combat forced labor and child labor. |
 | [7113\.](%C2%A7%2007113%20-%20Accountability.md) | Accountability. |
+| [7114\.](%C2%A7%2007114%20-%20Efforts%20to%20end%20modern%20slavery.md) | Efforts to end modern slavery. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,3 +53,4 @@
 - [&sect; 07111 - Report by Secretary of State](%C2%A7%2007111%20-%20Report%20by%20Secretary%20of%20State.md)
 - [&sect; 07112 - Additional activities to monitor and combat forced labor and child labor](%C2%A7%2007112%20-%20Additional%20activities%20to%20monitor%20and%20combat%20forced%20labor%20and%20child%20labor.md)
 - [&sect; 07113 - Accountability](%C2%A7%2007113%20-%20Accountability.md)
+- [&sect; 07114 - Efforts to end modern slavery](%C2%A7%2007114%20-%20Efforts%20to%20end%20modern%20slavery.md)

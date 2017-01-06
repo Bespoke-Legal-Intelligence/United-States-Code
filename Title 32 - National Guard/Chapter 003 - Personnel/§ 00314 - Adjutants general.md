@@ -58,7 +58,7 @@ In subsection (d), the words "at such times and in such form" are omitted as cov
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out "each Territory and" before "the District of Columbia" in first sentence, and struck out at end "To be eligible for appointment as adjutant general of a Territory, a person must be a citizen of that jurisdiction."
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out at end "Each Secretary shall send with his annual report toCongress an abstract of the returns and reports of the adjutants general and such comments as he considers necessary for the information of Congress."
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out at end "Each Secretary shall send with his annual report to Congress an abstract of the returns and reports of the adjutants general and such comments as he considers necessary for the information of Congress."
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(1), struck out "the Canal Zone," after "Puerto Rico,".
 

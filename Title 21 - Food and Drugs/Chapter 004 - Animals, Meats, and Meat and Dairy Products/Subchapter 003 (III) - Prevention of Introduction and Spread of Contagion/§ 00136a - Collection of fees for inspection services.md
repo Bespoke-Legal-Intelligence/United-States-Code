@@ -110,7 +110,7 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 #### (2) Customs territory
 
-&emsp;For the purposes of subsection (a) of this section, the term "customs territory of the United States" means the 50 States, the District of Columbia, and Puerto Rico.
+&emsp;For the purposes of subsection (a), the term "customs territory of the United States" means the 50 States, the District of Columbia, and Puerto Rico.
 
 #### (3) Person
 
@@ -118,11 +118,11 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 #### (4) United States
 
-&emsp;For the purposes of subsection (b) of this section, the term "United States" means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
+&emsp;For the purposes of subsection (b), the term "United States" means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
 #### (5) Vessel
 
-&emsp;For the purposes of subsection (a) of this section, the term "vessel" does not include any ferry.
+&emsp;For the purposes of subsection (a), the term "vessel" does not include any ferry.
 
 (Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10418(b)(5), May 13, 2002, 116 Stat. 509.)
 

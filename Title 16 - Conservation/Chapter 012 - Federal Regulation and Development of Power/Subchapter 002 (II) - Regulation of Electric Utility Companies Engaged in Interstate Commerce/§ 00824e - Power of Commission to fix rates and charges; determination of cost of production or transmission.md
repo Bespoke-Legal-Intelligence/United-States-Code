@@ -10,7 +10,7 @@ Whenever the Commission institutes a proceeding under this section, the Commissi
 
 #### (c) Refund considerations; shifting costs; reduction in revenues; "electric utility companies" and "registered holding company" defined
 
-Notwithstanding subsection (b), in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: <i>Provided</i>, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission's order. For purposes of this subsection, the terms "electric utility companies" and "registered holding company" shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.<sup>1</sup>
+Notwithstanding subsection (b), in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: <i>Provided</i>, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission's order. For purposes of this subsection, the terms "electric utility companies" and "registered holding company" shallhave the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.<sup>1</sup>
 
 #### (d) Investigation of costs
 
@@ -60,7 +60,7 @@ Subsecs. (b) to (d). Pub. L. 100–473, §2(2), added subsecs. (b) and (c) and r
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–473, §4, Oct. 6, 1988, 102 Stat. 2300, provided that: "The amendments made by this Act \[amending this section\] are not applicable to complaints filed or motions initiated before the date of enactment of this Act \[Oct. 6, 1988\] pursuant to section 206 of the Federal Power Act \[this section\]: <i>Provided, however</i>, That suchcomplaints may be withdrawn and refiled without prejudice."
+Pub. L. 100–473, §4, Oct. 6, 1988, 102 Stat. 2300, provided that: "The amendments made by this Act \[amending this section\] are not applicable to complaints filed or motions initiated before the date of enactment of this Act \[Oct. 6, 1988\] pursuant to section 206 of the Federal Power Act \[this section\]: <i>Provided, however</i>, That such complaints may be withdrawn and refiled without prejudice."
 
 #### Limitation on Authority Provided
 
@@ -68,7 +68,7 @@ Pub. L. 100–473, §3, Oct. 6, 1988, 102 Stat. 2300, provided that: "Nothing in
 
 #### Study
 
-Pub. L. 100–473, §5, Oct. 6, 1988, 102 Stat. 2301, directed that, no earlier than three years and no later than four years after Oct. 6, 1988, Federal Energy Regulatory Commission perform a study of effect of amendments to this section, analyzing (1) impact, if any, of such amendments on cost of capital paid by public utilities, (2) any change in average time taken to resolve proceedings under this section, and (3) such other matters as Commission may deem appropriate in public interest, with study to be sent to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives.
+Pub. L. 100–473, §5, Oct. 6, 1988, 102 Stat. 2301, directed that, no earlier than three years and no later than fouryears after Oct. 6, 1988, Federal Energy Regulatory Commission perform a study of effect of amendments to this section, analyzing (1) impact, if any, of such amendments on cost of capital paid by public utilities, (2) any change in average time taken to resolve proceedings under this section, and (3) such other matters as Commission may deem appropriate in public interest, with study to be sent to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

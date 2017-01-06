@@ -32,7 +32,7 @@ Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. 
 
 #### Transfer of Office of Training Technology Transfer
 
-Pub. L. 103–227, title II, §236(a)(1), Mar. 31, 1994, 108 Stat. 156, provided that: "The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology."
+Pub. L. 103–227, title II, §236(a)(1), Mar. 31, 1994, 108 Stat. 156, provided that: "The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20U.S.C. 5093) is transferred to and established in the Office of Educational Technology."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

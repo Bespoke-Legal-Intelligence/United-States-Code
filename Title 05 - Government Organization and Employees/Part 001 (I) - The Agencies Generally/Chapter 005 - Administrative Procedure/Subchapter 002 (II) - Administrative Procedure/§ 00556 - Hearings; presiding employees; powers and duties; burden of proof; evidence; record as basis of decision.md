@@ -1,6 +1,6 @@
 ### §556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision
 
-(a) This section applies, according to the provisions thereof, to hearings required by section553 or 554 of this title to be conducted in accordance with this section.
+(a) This section applies, according to the provisions thereof, to hearings required by section 553 or 554 of this title to be conducted in accordance with this section.
 
 (b) There shall preside at the taking of evidence—
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Hearing Examiners Employed by Department of Agriculture
 
-Functions vested by this subchapter in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employeesof that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Commerce
 
@@ -88,7 +88,7 @@ Functions vested by this subchapter in hearing examiners employed by Department 
 
 #### Hearing Examiners Employed by Department of Justice
 
-Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950Reorg. Plan No. 2, §1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Labor
 

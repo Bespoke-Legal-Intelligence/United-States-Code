@@ -12,7 +12,7 @@ Any project authorized for construction by this Act shall not be authorized afte
 
 (3)
 
-Minimum funding list.—At the end of each fiscal year, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make available on a publicly accessible Internet site in a manner that is downloadable, searchable, and sortable, a list of—
+Minimum funding list.—At the end of each fiscal year, the Secretary shall submit to the Committee on Environment and Public Works ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make available on a publicly accessible Internet site in a manner that is downloadable, searchable, and sortable, a list of—
 
 &emsp;(A) projects or separable elements of projects authorized for construction for which funding has been obligated during the current fiscal year or any of the 6 preceding fiscal years;
 

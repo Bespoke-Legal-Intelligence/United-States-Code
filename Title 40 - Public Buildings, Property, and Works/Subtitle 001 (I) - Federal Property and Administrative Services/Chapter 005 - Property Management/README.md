@@ -104,6 +104,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—PROPERTY MANAGEMENT
+
+|  |  |
+| :--- | ---: |
+| [621\.](Subchapter%20007%20%28VII%29%20-%20Property%20Management/%C2%A7%2000621%20-%20Definitions.md) | Definitions. |
+| [622\.](Subchapter%20007%20%28VII%29%20-%20Property%20Management/%C2%A7%2000622%20-%20Collocation%20among%20United%20States%20Postal%20Service%20properties.md) | Collocation among United States Postal Service properties. |
+| [623\.](Subchapter%20007%20%28VII%29%20-%20Property%20Management/%C2%A7%2000623%20-%20Establishment%20of%20a%20Federal%20Real%20Property%20Council.md) | Establishment of a Federal Real Property Council. |
+| [624\.](Subchapter%20007%20%28VII%29%20-%20Property%20Management/%C2%A7%2000624%20-%20Information%20on%20certain%20leasing%20authorities.md) | Information on certain leasing authorities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.
+
 
 ---
 
@@ -115,3 +130,4 @@
 - [Subchapter 004 (IV) - Proceeds from Sale or Transfer](Subchapter%20004%20%28IV%29%20-%20Proceeds%20from%20Sale%20or%20Transfer/README.md)
 - [Subchapter 005 (V) - Operation of Buildings and Related Activities](Subchapter%20005%20%28V%29%20-%20Operation%20of%20Buildings%20and%20Related%20Activities/README.md)
 - [Subchapter 006 (VI) - Motor Vehicle Pools and Transportation Systems](Subchapter%20006%20%28VI%29%20-%20Motor%20Vehicle%20Pools%20and%20Transportation%20Systems/README.md)
+- [Subchapter 007 (VII) - Property Management](Subchapter%20007%20%28VII%29%20-%20Property%20Management/README.md)

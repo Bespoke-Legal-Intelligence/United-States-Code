@@ -9,7 +9,7 @@
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-604, substituted "Partial" for "50-percent" in item 1202.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, substituted "Partial" for "50-percent" in item 1202.
 
 <b>1993</b>—Pub. L. 103–66, title XIII, §13113(d)(6), Aug. 10, 1993, 107 Stat. 430, added item 1202.
 

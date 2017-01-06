@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and privatesector freight stakeholders, including representatives of ports, freight railroads, shippers, carriers, freight-related associations, third-party logistics providers, the freight industry workforce, the transportation department of the State, and local governments.
+In General.—The Secretary of Transportation shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of ports, freight railroads, shippers, carriers, freight-related associations, third-party logistics providers, the freight industry workforce, the transportation department of the State, and local governments.
 
 (b)
 

@@ -30,13 +30,13 @@ Each State Domestic Violence Coalition desiring a grant under this section shall
 
 A coalition that receives a grant under this section shall use the grant funds for administration and operations to further the purposes of family violence, domestic violence, and dating violence intervention and prevention, through activities that shall include—
 
-&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providing training and technical assistance and conducting State needs assessments;
+&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providingtraining and technical assistance and conducting State needs assessments;
 
 &emsp;(2) participating in planning and monitoring the distribution of subgrants and subgrant funds within the State under section 10408(a) of this title;
 
 &emsp;(3) working in collaboration with service providers and community-based organizations to address the needs of family violence, domestic violence, and dating violence victims, and their dependents, who are members of racial and ethnic minority populations and underserved populations;
 
-&emsp;(4) collaborating with and providing information to entities in such fields as housing,health care, mental health, social welfare, or business to support the development and implementation of effective policies, protocols, and programs that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence;
+&emsp;(4) collaborating with and providing information to entities in such fields as housing, health care, mental health, social welfare, or business to support the development and implementation of effective policies, protocols, and programs that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence;
 
 &emsp;(5) encouraging appropriate responses to cases of family violence, domestic violence, or dating violence against adults or youth, including by working with judicial and law enforcement agencies;
 

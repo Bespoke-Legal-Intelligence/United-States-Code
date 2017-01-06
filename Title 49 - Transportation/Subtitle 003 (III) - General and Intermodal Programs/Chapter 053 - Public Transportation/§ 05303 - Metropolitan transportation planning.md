@@ -48,7 +48,7 @@ Development of long-range plans and tips.—To accomplish the objectives in subs
 
 &emsp;(2)
 
-Contents.—The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercitybus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
+Contents.—The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
 
 &emsp;(3)
 
@@ -146,7 +146,7 @@ Existing metropolitan planning areas in nonattainment.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (2), except as provided in subparagraph (B), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) as of the date of enactment of the SAFETEA–LU, theboundaries of the metropolitan planning area in existence as of such date of enactment shall be retained.
+In general.—Notwithstanding paragraph (2), except as provided in subparagraph (B), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) as of the date of enactment of the SAFETEA–LU, the boundaries of the metropolitan planning area in existence as of such date of enactment shall be retained.
 
 &emsp;&emsp;(B)
 
@@ -342,7 +342,7 @@ Mitigation activities.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A long-range transportation plan shall include a discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activitiesthat may have the greatest potential to restore and maintain the environmental functions affected by the plan.
+In general.—A long-range transportation plan shall include a discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -552,7 +552,7 @@ Consistency with long-range transportation plan.—Each project shall be consist
 
 &emsp;&emsp;(D)
 
-Requirement of anticipated full funding.—The program shall include aproject, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project or the identified phase within the time period contemplated for completion of the project or the identified phase.
+Requirement of anticipated full funding.—The program shall include a project, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project or the identified phase within the time period contemplated for completion of the project or the identified phase.
 
 &emsp;(4)
 
@@ -654,7 +654,7 @@ Congestion management plan.—A metropolitan planning organization serving a tra
 
 &emsp;&emsp;(D)
 
-Participation.—In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and non-profit providers ofpublic transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
+Participation.—In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and non-profit providers of public transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
 
 &emsp;(4)
 
@@ -780,9 +780,9 @@ Treatment.—For the purpose of this title, the Bi-State Metropolitan Planning O
 
 &emsp;&emsp;(B) a transportation management area under subsection (k); and
 
-&emsp;&emsp;(C) an urbanized area, which is comprised of a population of 145,000 in the State of California and a population of 65,000 in the State of Nevada.
+&emsp;&emsp;(C) an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area in the State of California and a population of 65,000 and 12 square miles of land area in the State of Nevada.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628; Pub. L. 114–94, div. A, title III, §3003(a), Dec. 4, 2015, 129 Stat. 1447.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628; Pub. L. 114–94, div. A, title III, §3003(a), Dec. 4, 2015, 129 Stat. 1447; Pub. L. 114–322, title III, §3603(f)(3), Dec. 16, 2016, 130 Stat. 1789.)
 
 Historical and Revision Notes
 
@@ -902,6 +902,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (q), is Pu
 
 #### Amendments
 
+<b>2016</b>—Subsec. (r)(2)(C). Pub. L. 114–322 inserted "and 25 square miles of land area" after "145,000" and "and 12 square miles of land area" after "65,000".
+
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §3003(a)(1), inserted "resilient" after "development of".
 
 Subsec. (c)(2). Pub. L. 114–94, §3003(a)(2), substituted ", bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers" for "and bicycle transportation facilities".
@@ -954,7 +956,7 @@ Pub. L. 105–178, §3004(b)(1)(A), as amended by Pub. L. 105–206, §9009(b)(1
 
 Subsec. (c)(2). Pub. L. 105–178, §3004(b)(2), substituted "Each policy board of a metropolitan planning organization that serves an area designated as a transportation management area when designated or redesignated under this subsection shall consist of" for "In a metropolitan area designated as a transportation management area, the designated metropolitan planning organization, if redesignated after December 18, 1991, shall include" and "officials of public agencies" for "officials of authorities".
 
-Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206, §9009(b)(1)(B), substituted "within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area" for "in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area".
+Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206, §9009(b)(1)(B), substituted "within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area" for"in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area".
 
 Subsec. (c)(4)(A). Pub. L. 105–178, §3004(b)(4), as added by Pub. L. 105–206, §9009(b)(1)(E), directed an amendment identical to that made by Pub. L. 105–102, §2(4)(B). See 1997 Amendment note below.
 
@@ -964,7 +966,7 @@ Subsec. (c)(5)(B). Pub. L. 105–178, §3004(b)(5)(B), formerly §3004(b)(4)(B),
 
 Subsec. (c)(5)(D). Pub. L. 105–178, §3004(b)(5)(C), formerly §3004(b)(4)(C), as renumbered by Pub. L. 105–206, §9009(b)(1)(D), added subpar. (D).
 
-Subsec. (d). Pub. L. 105–178, §3004(c), inserted "Planning" after "Metropolitan" in subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, inserted "planning" before "area" in first sentence and substituted pars. (2) to (4)for "The area shall cover at least the existing urbanized area and the contiguous area expected to become urbanized within the 20-year forecast period and may include the Metropolitan Statistical Area or Consolidated Metropolitan Statistical Area, as defined by the Secretary of Commerce. An area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) shall include at least the boundaries of the nonattainment area, except as the chief executive officer and metropolitan planning organization otherwise agree."
+Subsec. (d). Pub. L. 105–178, §3004(c), inserted "Planning" after "Metropolitan" in subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, inserted "planning" before "area" in first sentence and substituted pars. (2) to (4) for "The area shall cover at least the existing urbanized area and the contiguous area expected to become urbanized within the 20-year forecast period and may include the Metropolitan Statistical Area or Consolidated Metropolitan Statistical Area, as defined by the Secretary of Commerce. An area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) shall include at least the boundaries of the nonattainment area, except as the chief executive officer and metropolitan planning organization otherwise agree."
 
 Subsec. (e)(2). Pub. L. 105–178, §3004(d)(1), inserted "or compact" after "2 States making an agreement" and substituted "making the agreements and compacts effective" for "making the agreement effective".
 

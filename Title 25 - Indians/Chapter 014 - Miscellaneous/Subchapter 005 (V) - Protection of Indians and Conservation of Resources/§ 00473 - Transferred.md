@@ -1,0 +1,6 @@
+### §473. Transferred
+
+#### Codification
+
+Section 473 was editorially reclassified as section 5118 of this title.
+

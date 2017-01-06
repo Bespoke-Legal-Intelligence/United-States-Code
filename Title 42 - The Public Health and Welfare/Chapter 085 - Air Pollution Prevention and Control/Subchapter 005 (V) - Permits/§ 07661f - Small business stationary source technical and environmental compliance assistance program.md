@@ -94,7 +94,7 @@ The State (or the Administrator) may reduce any fee required under this chapter 
 
 #### (g) Continuous emission monitors
 
-In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A of this chapter provisions relating to continuous emissions monitoring.
+In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A provisions relating to continuous emissions monitoring.
 
 #### (h) Control technique guidelines
 
@@ -106,7 +106,7 @@ The Administrator shall consider, consistent with the requirements of this chapt
 
 The Small Business Act, referred to in subsec. (c)(1)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally tochapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 

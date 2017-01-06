@@ -54,7 +54,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (1) Other government assistance
 
-&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
+&emsp;Information regarding any related assistance from the Federal Government, a State, ora unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
 
 #### (2) Interested parties
 
@@ -70,7 +70,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (d) Limitation of assistance
 
-The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocatedto an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
+The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
 
 #### (e) Administrative remedies
 
@@ -122,7 +122,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (3) Reviewability of imposition of a penalty
 
-&emsp;The Secretary's determination or order imposing a penalty under subsection (f) of this section shall not be subject to review, except as provided in subsection (h) of this section.
+&emsp;The Secretary's determination or order imposing a penalty under subsection (f) of thissection shall not be subject to review, except as provided in subsection (h) of this section.
 
 #### (h) Judicial review of agency determination
 
@@ -144,7 +144,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (i) Action to collect penalty
 
-If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is nolonger subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (j) Settlement by Secretary
 
@@ -196,7 +196,7 @@ Pub. L. 102–550, title IX, §911, Oct. 28, 1992, 106 Stat. 3875, as amended by
 
 "(a)
 
-Certification of Subsidy Layering Compliance.—The requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] may be satisfied in connection with a project receiving assistance under a program that is within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] by a certification by a housing credit agency to the Secretary, submitted in accordance with guidelines established by the Secretary, that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which assistance is to be provided within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 shall not be any greater than is necessary to provide affordable housing.
+Certification of Subsidy Layering Compliance.—The requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] may be satisfied in connection with a project receiving assistance under a program that is within the jurisdiction of the Departmentof Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] by a certification by a housing credit agency to the Secretary, submitted in accordance with guidelines established by the Secretary, that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which assistance is to be provided within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 shall not be any greater than is necessary to provide affordable housing.
 
 "(b)
 

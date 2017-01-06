@@ -50,7 +50,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(xiii) return to custody for specified hours following release for employment, schooling, or other limited purposes; and
 
-&emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community.
+&emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assurethe safety of any other person and the community.
 
 > &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at a minimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
 
@@ -82,7 +82,7 @@ Temporary Detention To Permit Revocation of Conditional Release, Deportation, or
 
 Detention.—(1) If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial.
 
-(2) In a case described in subsection (f)(1) of this section, a rebuttable presumption arisesthat no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
+(2) In a case described in subsection (f)(1) of this section, a rebuttable presumption arises that no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
 
 &emsp;(A) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if a circumstance giving rise to Federal jurisdiction had existed;
 
@@ -114,7 +114,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(C) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
 
-&emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described in subparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
+&emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described insubparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
 
 &emsp;&emsp;(E) any felony that is not otherwise a crime of violence that involves a minor victim or that involves the possession or use of a firearm or destructive device (as those terms are defined in section 921), or any other dangerous weapon, or involves a failure to register under section 2250 of title 18, United States Code; or
 
@@ -128,7 +128,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 (g)
 
-Factors To Be Considered.—The judicial officer shall, in determining whether there areconditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community, take into account the available information concerning—
+Factors To Be Considered.—The judicial officer shall, in determining whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community, take into account the available information concerning—
 
 &emsp;(1) the nature and circumstances of the offense charged, including whether the offense is a crime of violence, a violation of section 1591, a Federal crime of terrorism, or involves a minor victim or a controlled substance, firearm, explosive, or destructive device;
 
@@ -226,7 +226,7 @@ Subsec. (g)(4). Pub. L. 101–647, §3624, substituted "subsection (c)(1)(B)(xi)
 
 <b>1988</b>—Subsec. (c)(3). Pub. L. 100–690 substituted "the order" for "order".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out "his" after "released on" and substituted "under subsection (b) of this section" for "pursuant to the provisions of subsection (b)", in par. (2) substituted "under subsection (c) of this section" for "pursuant to the provisions of subsection (c)", in par. (3) substituted "under subsection (d) of this section" for "pursuant to provisions of subsection (d)", and in par. (4) substituted "under subsection (e) of this section" for "pursuant to provisions of subsection (e)".
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out "his" after "released on" and substituted "under subsection (b) of this section" for "pursuant tothe provisions of subsection (b)", in par. (2) substituted "under subsection (c) of this section" for "pursuant to the provisions of subsection (c)", in par. (3) substituted "under subsection (d) of this section" for "pursuant to provisions of subsection (d)", and in par. (4) substituted "under subsection (e) of this section" for "pursuant to provisions of subsection (e)".
 
 Subsec. (b). Pub. L. 99–646, §55(c)(2), struck out "his" after "person on" and "period of".
 

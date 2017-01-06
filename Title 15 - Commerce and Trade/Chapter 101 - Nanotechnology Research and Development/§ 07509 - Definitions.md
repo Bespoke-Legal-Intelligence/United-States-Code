@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Nanotechnology
 
-&emsp;The term "nanotechnology" means the science and technology that will enable one tounderstand, measure, manipulate, and manufacture at the atomic, molecular, and supramolecular levels, aimed at creating materials, devices, and systems with fundamentally new molecular organization, properties, and functions.
+&emsp;The term "nanotechnology" means the science and technology that will enable one to understand, measure, manipulate, and manufacture at the atomic, molecular, and supramolecular levels, aimed at creating materials, devices, and systems with fundamentally new molecular organization, properties, and functions.
 
 #### (3) Program
 

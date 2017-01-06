@@ -36,7 +36,7 @@ Grants under this section may be used—
 
 &emsp;(5) to develop methods for the wide dissemination of resources written in non-Roman language alphabets;
 
-&emsp;(6) to assist teachers of less commonly taught languages in acquiring, via electronic and other means, materials suitable for classroom use;
+&emsp;(6) to assist teachers of less commonly taught languages in acquiring, via electronicand other means, materials suitable for classroom use;
 
 &emsp;(7) to promote collaborative technology based projects in foreign languages, area studies, and international studies among grant recipients under this subchapter;
 

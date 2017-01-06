@@ -114,7 +114,7 @@ Subsec. (c). Pub. L. 102–390, §225(b)(4), substituted "United States Mint" fo
 
 <b>1990</b>—Subsec. (a)(2) to (5). Pub. L. 101–585 added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted "(3)" for "(2)" in par. (4).
 
-<b>1988</b>—Subsec. (a)(2) to (4). Pub. L. 100–274, §1, added pars. (2) to (4) and struck out former par. (2) which readas follows: "Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices."
+<b>1988</b>—Subsec. (a)(2) to (4). Pub. L. 100–274, §1, added pars. (2) to (4) and struck out former par. (2) which read as follows: "Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices."
 
 Subsec. (b). Pub. L. 100–274, §2(c)(3), struck out "and assay offices" after "amounts appropriated for the mints" in last sentence.
 
@@ -130,7 +130,7 @@ Subsec. (a)(2). Pub. L. 97–452 substituted "$50,165,000" for "$54,706,000", an
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–390, title II, §221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: "The amendments made by this section \[enacting section 5134 of this title, amending this section, amending and repealing provisions set out as notes under section 5112 of this title\] shall apply with respect to fiscal years beginning after fiscal year 1992."
+Pub. L. 102–390, title II, §221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: "The amendments made by this section \[enacting section 5134 of this title, amending this section, amending and repealing provisions set outas notes under section 5112 of this title\] shall apply with respect to fiscal years beginning after fiscal year 1992."
 
 #### Effective Date of 1985 Amendments
 

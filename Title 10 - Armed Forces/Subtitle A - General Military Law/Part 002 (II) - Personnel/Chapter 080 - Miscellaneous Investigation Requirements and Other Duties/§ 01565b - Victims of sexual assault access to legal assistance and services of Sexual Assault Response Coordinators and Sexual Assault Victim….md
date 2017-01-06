@@ -18,7 +18,7 @@ Availability of Legal Assistance and Victim Advocate Services.—(1) A member of
 
 (b)
 
-Restricted Reporting.—(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces, or an adult dependent of a member, who is the victim of a sexual assault may elect to confidentially disclose the details of the assault to an individual specified in paragraph (2) and receive medical treatment, legal assistance under section 1044 of this title, or counseling, without initiating an official investigation of the allegations.
+Restricted Reporting.—(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces, or an adult dependent of a member, who is the victim of a sexualassault may elect to confidentially disclose the details of the assault to an individual specified in paragraph (2) and receive medical treatment, legal assistance under section 1044 of this title, or counseling, without initiating an official investigation of the allegations.
 
 (2) The individuals specified in this paragraph are the following:
 
@@ -42,7 +42,7 @@ Sexual assault.—The term "sexual assault" includes the offenses of rape, sexua
 
 State.—The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L.113–66, div. A, title XVII, §1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
+(Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L. 113–66, div. A, title XVII, §1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
 
 #### Amendments
 

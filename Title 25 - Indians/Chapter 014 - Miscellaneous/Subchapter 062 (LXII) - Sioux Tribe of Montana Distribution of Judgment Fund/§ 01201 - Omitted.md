@@ -1,0 +1,6 @@
+### §1201. Omitted
+
+#### Codification
+
+Section, Pub. L. 91–283, §1, June 19, 1970, 84 Stat. 313, which related to per capita distributions of judgment funds, eligibility of tribal members for distributions, and payment of attorney's fees, expenses, and other deductions, was omitted from the Code as being of special and not general application.
+

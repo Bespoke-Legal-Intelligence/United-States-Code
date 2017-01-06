@@ -16,11 +16,11 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 #### (1) State laws generally applicable
 
-&emsp;Nothing in subsection (a) of this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
+&emsp;Nothing in subsection (a) shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
 
 #### (2) State regulations not subject to exemption
 
-&emsp;Subsection (a) of this section shall not apply to any State law which requires a risk retention group to do any of the following:
+&emsp;Subsection (a) shall not apply to any State law which requires a risk retention group to do any of the following:
 
 &emsp;&emsp;(A) Comply with the unfair claim settlement practices law of the State.
 
@@ -44,7 +44,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 #### (c) Application of exemptions
 
-The exemptions specified in subsection (a) of this section apply to—
+The exemptions specified in subsection (a) apply to—
 
 &emsp;(1) pollution liability insurance coverage provided by a risk retention group for—
 

@@ -50,7 +50,7 @@ A majority of the current membership of the Council shall constitute a quorum fo
 
 #### (f) Meetings
 
-The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
+The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4).
 
 #### (g) Coordinator
 
@@ -62,7 +62,7 @@ The Director of the United States Fish and Wildlife Service shall appoint an ind
 
 &emsp;(3) who shall be compensated with the funds available under section 4407(a)(1) of this title for administering this chapter.
 
-(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990,104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448.)
+(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448.)
 
 #### References in Text
 

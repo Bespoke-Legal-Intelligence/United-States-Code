@@ -4,7 +4,7 @@
 
 #### (1) Prime contractors
 
-&emsp;In awarding contracts to perform nuclear hot cell services, the Secretary, in evaluating bids for such contracts, shall exclude from consideration costs related to the decommissioning of nuclear facilities or the storage and disposal of nuclear waste, if—
+&emsp;In awarding contracts to perform nuclear hot cell services, the Secretary, in evaluatingbids for such contracts, shall exclude from consideration costs related to the decommissioning of nuclear facilities or the storage and disposal of nuclear waste, if—
 
 &emsp;&emsp;(A) one or more of the parties bidding to perform such services is a United States company that is subject to such costs; and
 
@@ -16,7 +16,7 @@
 
 #### (b) Issuance of regulations
 
-The Secretary shall issue regulations not later than 90 days after October 24, 1992, to carry out the requirements of subsection (a) of this section.
+The Secretary shall issue regulations not later than 90 days after October 24, 1992, to carry out the requirements of subsection (a).
 
 #### (c) Definitions
 

@@ -44,7 +44,7 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 &emsp;(7) perform any other law enforcement related duty; and
 
-&emsp;(8) when requested, assist (with or without reimbursement) any Federal, tribal, State, or local law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
+&emsp;(8) when requested, assist (with or without reimbursement) any Federal, tribal, State, orlocal law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
 
 (Pub. L. 101–379, §4, Aug. 18, 1990, 104 Stat. 475; Pub. L. 109–162, title IX, §908(b), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 111–211, title II, §211(c), July 29, 2010, 124 Stat. 2266.)
 

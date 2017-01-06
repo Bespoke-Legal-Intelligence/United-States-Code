@@ -12,7 +12,7 @@ The purpose of this section is to provide the Department of Agriculture with add
 
 #### (2) Information technologies
 
-&emsp;The Secretary shall use an appropriate amount of the funds provided under this section to employ information technologies known as data mining and data warehousing and other available information technologies to administer the supplemental nutrition assistance program and enforce regulations promulgated under section 2013(c) of this title.
+&emsp;The Secretary shall use an appropriate amount of the funds provided under this section to employ information technologies known as data mining and data warehousingand other available information technologies to administer the supplemental nutrition assistance program and enforce regulations promulgated under section 2013(c) of this title.
 
 #### (c) Funding
 

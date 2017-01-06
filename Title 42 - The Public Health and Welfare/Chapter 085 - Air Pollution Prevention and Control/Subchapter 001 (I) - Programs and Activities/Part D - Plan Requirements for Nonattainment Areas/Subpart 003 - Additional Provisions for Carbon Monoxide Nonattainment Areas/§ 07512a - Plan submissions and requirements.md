@@ -2,7 +2,7 @@
 
 #### (a) Moderate Areas
 
-Each State in which all or part of a Moderate Area is located shall, with respect to the Moderate Area (or portion thereof, to the extent specified in guidance of the Administrator issued before November 15, 1990), submit to the Administrator the State implementation plan revisions (including the plan items) described under this subsection, within such periods as areprescribed under this subsection, except to the extent the State has made such submissions as of November 15, 1990:
+Each State in which all or part of a Moderate Area is located shall, with respect to the Moderate Area (or portion thereof, to the extent specified in guidance of the Administrator issued before November 15, 1990), submit to the Administrator the State implementation plan revisions (including the plan items) described under this subsection, within such periods as are prescribed under this subsection, except to the extent the State has made such submissions as of November 15, 1990:
 
 #### (1) Inventory
 
@@ -42,11 +42,11 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) In general
 
-&emsp;Each State in which all or part of a Serious Area is located shall, with respect to the Serious Area, make the submissions (other than those required under subsection (a)(1)(B) <sup>1</sup> of this section) applicable under subsection (a) of this section to Moderate Areas with a design value of 12.7 ppm or greater at the time ofclassification, and shall also submit the revision and other items described under this subsection.
+&emsp;Each State in which all or part of a Serious Area is located shall, with respect to the Serious Area, make the submissions (other than those required under subsection (a)(1)(B) <sup>1</sup> of this section) applicable under subsection (a) of this section to Moderate Areas with a design value of 12.7 ppm or greater at the time of classification, and shall also submit the revision and other items described under this subsection.
 
 #### (2) Vehicle miles traveled
 
-&emsp;Within 2 years after November 15, 1990, the State shall submit a revision that includes the transportation control measures as required in section 7511a(d)(1) of this title except that such revision shall be for the purpose of reducing CO emissions rather than volatile organic compound emissions. In the case of any such area (other than an area in New York State) which is a covered area (as defined in section 7586(a)(2)(B) of this title) for purposes of the Clean Fuel Fleet program under part C of subchapter II of this chapter, if the State fails to include any such measure, the implementation plan shall contain an explanation of why such measure was not adopted and what emissions reduction measure was adopted to provide a comparable reduction in emissions, or reasons why such reduction is not necessary to attain the national primary ambient air quality standard for carbon monoxide.
+&emsp;Within 2 years after November 15, 1990, the State shall submit a revision that includes the transportation control measures as required in section 7511a(d)(1) of this title except that such revision shall be for the purpose of reducing CO emissions rather than volatile organic compound emissions. In the case of any such area (other than an area in New York State) which is a covered area (as defined in section 7586(a)(2)(B) of this title) for purposes of the Clean Fuel Fleet program under part C of subchapter II, if the State fails to include any such measure, the implementation plan shall contain an explanation of why such measure was not adopted and what emissions reduction measure was adopted to provide a comparable reduction in emissions, or reasons why such reduction is not necessary to attain the national primary ambient air quality standard for carbon monoxide.
 
 #### (3) Oxygenated gasoline
 
@@ -82,7 +82,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (2) Adequacy of demonstration
 
-&emsp;A demonstration under this paragraph shall be submitted in such form and manner, and shall contain such information and analysis, as the Administrator shall require. The Administrator shall determine whether or not a State's demonstration is adequate within 90 days after the Administrator's receipt of a demonstration which contains the information and analysis required by the Administrator.
+&emsp;A demonstration under this paragraph shall be submitted in such form and manner, and shall contain such information and analysis, as the Administrator shall require. The Administrator shall determine whether or not a State's demonstration is adequate within 90days after the Administrator's receipt of a demonstration which contains the information and analysis required by the Administrator.
 
 #### (3) Failure to meet emission reduction milestone
 
@@ -92,7 +92,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Coordination among States
 
-&emsp;Each State in which there is located a portion of a single nonattainment area for carbon monoxide which covers more than one State ("multi-State nonattainment area") shall take all reasonable steps to coordinate, substantively and procedurally, the revisions andimplementation of State implementation plans applicable to the nonattainment area concerned. The Administrator may not approve any revision of a State implementation plan submitted under this part for a State in which part of a multi-State nonattainment area is located if the plan revision for that State fails to comply with the requirements of this subsection.
+&emsp;Each State in which there is located a portion of a single nonattainment area for carbon monoxide which covers more than one State ("multi-State nonattainment area") shall take all reasonable steps to coordinate, substantively and procedurally, the revisions and implementation of State implementation plans applicable to the nonattainment area concerned. The Administrator may not approve any revision of a State implementation plan submitted under this part for a State in which part of a multi-State nonattainment area is located if the plan revision for that State fails to comply with the requirements of this subsection.
 
 #### (2) Failure to demonstrate attainment
 

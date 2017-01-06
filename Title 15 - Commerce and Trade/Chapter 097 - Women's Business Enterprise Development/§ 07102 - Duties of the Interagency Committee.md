@@ -8,7 +8,7 @@ The Interagency Committee shall—
 
 &emsp;(2) develop and promote new public sector initiatives, policies, programs, and plans designed to foster women's business enterprise;
 
-&emsp;(3) review, monitor, and coordinate plans and programs, developed in the public sector,which affect the ability of women-owned businesses to obtain capital and credit;
+&emsp;(3) review, monitor, and coordinate plans and programs, developed in the public sector, which affect the ability of women-owned businesses to obtain capital and credit;
 
 &emsp;(4) promote and assist, as appropriate, in the development of surveys of women-owned business; and
 

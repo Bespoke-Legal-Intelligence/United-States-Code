@@ -154,7 +154,7 @@
 
 #### (i) Establishment of payment methods
 
-&emsp;&emsp;&emsp;The Secretary shall develop payment methods for the pilot program for entitiesparticipating in the pilot program. Such payment methods may include bundled payments and bids from entities for episodes of care. The Secretary shall make payments to the entity for services covered under this section.
+&emsp;&emsp;&emsp;The Secretary shall develop payment methods for the pilot program for entities participating in the pilot program. Such payment methods may include bundled payments and bids from entities for episodes of care. The Secretary shall make payments to the entity for services covered under this section.
 
 #### (ii) No additional program expenditures
 
@@ -264,7 +264,7 @@ The Secretary shall consult with representatives of small rural hospitals, inclu
 
 #### (3) Continuing care hospital defined
 
-&emsp;In this subsection, the term "continuing care hospital" means an entity that has demonstrated the ability to meet patient care and patient safety standards and that provides under common management the medical and rehabilitation services provided in inpatient rehabilitation hospitals and units (as defined in section 1395ww(d)(1)(B)(ii) of this title), long term care hospitals (as defined in section 1395ww(d)(1)(B)(iv)(I) of this title), and skilled nursing facilities (as defined in section 1395i–3(a) of this title) that are located in a hospital described in section 1395ww(d) of this title.
+&emsp;In this subsection, the term "continuing care hospital" means an entity that has demonstrated the ability to meet patient care and patient safety standards and that provides under common management the medical and rehabilitation services provided in inpatient rehabilitation hospitals and units (as defined in section 1395ww(d)(1)(B)(ii) of this title), long term care hospitals (as defined in section 1395ww(d)(1)(B)(iv)(I) <sup>2</sup> of this title), and skilled nursing facilities (as defined in section 1395i–3(a) of this title) that are located in ahospital described in section 1395ww(d) of this title.
 
 #### (h) Administration
 
@@ -275,6 +275,8 @@ Chapter 35 of title 44 shall not apply to the selection, testing, and evaluation
 #### References in Text
 
 Parts A, B, and C, referred to in subsec. (a)(2)(A)(i), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+
+Section 1395ww(d)(1)(B)(iv)(I) of this title, referred to in subsec. (g)(3), was redesignated section 1395ww(d)(1)(B)(iv) of this title by Pub. L. 114–255, div. C, title XV, §15008(a)(3), Dec. 13, 2016, 130 Stat. 1321.
 
 #### Codification
 
@@ -291,4 +293,6 @@ Subsec. (c)(1)(B). Pub. L. 111–148, §10308(a)(2), added subpar. (B) and struc
 Subsec. (g). Pub. L. 111–148, §10308(a)(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Not later than January 1, 2016, the Secretary shall submit a plan for the implementation of an expansion of the pilot program if the Secretary determines that such expansion will result in improving or not reducing the quality of patient care and reducing spending under this subchapter."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

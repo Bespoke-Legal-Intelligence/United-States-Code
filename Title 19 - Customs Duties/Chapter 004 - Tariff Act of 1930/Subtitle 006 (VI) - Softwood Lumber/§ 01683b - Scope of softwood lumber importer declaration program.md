@@ -86,7 +86,7 @@ The following softwood lumber products shall not be subject to the importer decl
 
 #### (3) Radius-cut box-spring frame components
 
-&emsp;Radius-cut box-spring frame components, not exceeding 1 inch in actual thickness or 83inches in length, ready for assembly without further processing, if radius cuts are present on both ends of the boards and are substantial cuts so as to completely round 1 corner.
+&emsp;Radius-cut box-spring frame components, not exceeding 1 inch in actual thickness or 83 inches in length, ready for assembly without further processing, if radius cuts are present on both ends of the boards and are substantial cuts so as to completely round 1 corner.
 
 #### (4) Fence pickets
 

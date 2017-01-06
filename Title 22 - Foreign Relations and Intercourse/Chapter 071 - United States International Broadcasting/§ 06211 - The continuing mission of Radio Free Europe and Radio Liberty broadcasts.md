@@ -56,7 +56,7 @@ Programming Surge.—RFE/RL, Incorporated, and Voice of America programming to U
 
 &emsp;"(3) provide programming content 24 hours a day, seven days a week to target populations, using all available and effective distribution outlets, including—
 
-&emsp;&emsp;"(A) at least 8 weekly hours of total original television and video content in Ukrainian, Russian, and Tatar languages, not inclusive of live video streaming coverage of breaking news, to be distributed onsatellite, digital, and through regional television affiliates by the Voice of America; and
+&emsp;&emsp;"(A) at least 8 weekly hours of total original television and video content in Ukrainian, Russian, and Tatar languages, not inclusive of live video streaming coverage of breaking news, to be distributed on satellite, digital, and through regional television affiliates by the Voice of America; and
 
 &emsp;&emsp;"(B) at least 14 weekly hours the total audio content in Ukrainian, Russian, and Tatar languages to be distributed on satellite, digital, and through regional radio affiliates of RFE/RL, Incorporated;
 

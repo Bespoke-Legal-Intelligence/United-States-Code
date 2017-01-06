@@ -6,7 +6,7 @@ The following actions shall be taken in order to assure that there is a sufficie
 
 &emsp;(2) After the determination in paragraph (1) is made, the Secretary of Labor shall identify the areas of the country in which there is an insufficient number of such volunteers and training participants and public service employment workers.
 
-&emsp;(3) After such areas are identified, the Secretary of Labor shall take steps to assure thatsuch weatherization programs are supported to the maximum extent practicable in such areas by such volunteers and training participants and public service employment workers.
+&emsp;(3) After such areas are identified, the Secretary of Labor shall take steps to assure that such weatherization programs are supported to the maximum extent practicable in such areas by such volunteers and training participants and public service employment workers.
 
 (Pub. L. 95–619, title II, §233, Nov. 9, 1978, 92 Stat. 3227; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(39), (f)(30)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 113–128, title V, §512(v), July 22, 2014, 128 Stat. 1713.)
 

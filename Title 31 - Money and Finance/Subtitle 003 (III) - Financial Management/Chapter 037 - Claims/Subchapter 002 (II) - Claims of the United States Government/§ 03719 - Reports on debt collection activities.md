@@ -60,5 +60,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Consolidation of Reports
 
-Pub. L. 104–134, title III, §31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: "Notwithstanding anyother provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report."
+Pub. L. 104–134, title III, §31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: "Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report."
 

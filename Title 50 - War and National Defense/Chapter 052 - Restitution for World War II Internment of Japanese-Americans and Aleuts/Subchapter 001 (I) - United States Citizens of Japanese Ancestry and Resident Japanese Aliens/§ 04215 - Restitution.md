@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iii) If there is no surviving spouse described in clause (i) and if there are no children described in clause (ii), such payment shall be made in equal shares to the parents of the eligible individual who are living at the time of payment.
 
-> &emsp;If there is no surviving spouse, children, or parents described in clauses (i), (ii), and (iii),the amount of such payment shall remain in the Fund, and may be used only for the purposes set forth in section 4216(b) of this title.
+> &emsp;If there is no surviving spouse, children, or parents described in clauses (i), (ii), and (iii), the amount of such payment shall remain in the Fund, and may be used only for the purposes set forth in section 4216(b) of this title.
 
 &emsp;(B) After the death of an eligible individual, this subsection and subsections (c) and (f) shall apply to the individual or individuals specified in subparagraph (A) to whom payment under this section will be made, to the same extent as such subsections apply to the eligible individual.
 
@@ -140,7 +140,7 @@ Pub. L. 102–371, §4(b), added subsec. (h).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 Pub. L. 102–371, §6(b), Sept. 27, 1992, 106 Stat. 1168, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as of August 10, 1988."
 

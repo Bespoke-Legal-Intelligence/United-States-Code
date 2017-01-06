@@ -54,7 +54,7 @@ Waiver by head of executive agency.—
 
 &emsp;&emsp;(A)
 
-In general.—The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
+In general.—The head of an executive agency may waive the applicability of thecost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
 &emsp;&emsp;&emsp;(i) is primarily engaged in the sale of commercial items; and
 
@@ -94,7 +94,7 @@ Required Board Action for Prescribing Standards and Interpretations.—Before pr
 
 &emsp;(2) prepare and publish a report in the Federal Register on the issues reviewed under paragraph (1);
 
-&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicitcomments on the report prepared under paragraph (2);
+&emsp;(3)(A) publish an advanced notice of proposed rulemaking in the Federal Register to solicit comments on the report prepared under paragraph (2);
 
 &emsp;(B) provide all parties affected at least 60 days after publication to submit their views and comments; and
 
@@ -122,7 +122,11 @@ Implementing Regulations.—The Board shall prescribe regulations for the implem
 
 Nonapplicability of Certain Sections of Title 5.—Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696; Pub. L. 114–328, div. A, title VIII, §820(a)(2), Dec. 23, 2016, 130 Stat. 2274.)
+
+#### Amendment of Subsection (b)(3)(A)
+
+<i>Pub. L. 114–328, div. A, title VIII, §820(a)(2), (d), Dec. 23, 2016, 130 Stat. 2274, 2276, provided that, effective Oct. 1, 2018, subsection (b)(3)(A) of this section is amended by striking "$15,000,000" and inserting "$100,000,000". See 2016 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -179,6 +183,14 @@ In subsection (a)(1), the word "make" is omitted as being included in "prescribe
 In subsection (b)(2)(A), the word "categories" is omitted as being included in "classes".
 
 In subsection (b)(3)(A)(ii), the words "as in effect on or after the effective date of this paragraph" are omitted as obsolete.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(A). Pub. L. 114–328 substituted "$100,000,000" for "$15,000,000" in introductory provisions.
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as an Effective Date note under section 190 of Title 10, Armed Forces.
 
 #### Effective Date of Amendment by Pub. L. 106–65; Regulations; Implementation; Construction
 

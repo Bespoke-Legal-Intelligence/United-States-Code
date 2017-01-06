@@ -16,7 +16,7 @@ With respect to aging research (as defined in section 242q–4 <sup>1</sup> of 
 
 #### (c) Provision of information to public
 
-The Task Force may make available to health professionals, and to other members of the public, information regarding the research described in subsection (b) of this section.
+The Task Force may make available to health professionals, and to other members of the public, information regarding the research described in subsection (b).
 
 (Pub. L. 101–557, title III, §301, Nov. 15, 1990, 104 Stat. 2768.)
 

@@ -12,7 +12,7 @@ In the exercise of functions under this subchapter, the Secretary of State may�
 
 &emsp;(4)(A) employ in accordance with the civil service laws such personnel as may be necessary to carry out the provisions of this subchapter, and
 
-&emsp;(B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as language instructors, linguists, and other academic and training specialists (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
+&emsp;(B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
 
 &emsp;(5) acquire such real and personal property and equipment as may be necessary for the establishment, maintenance, and operation of the facilities necessary to carry out the provisions of this subchapter without regard to sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41.
 
@@ -44,7 +44,7 @@ The Secretary may provide to family members of members of the Service or of empl
 
 (2) As used in this subsection, the term "consular function" includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
 
-(Pub. L. 96–465, title I, §704, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 97–241, title I, §125(1), Aug. 24, 1982, 96 Stat. 281; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(f), Oct. 21, 1998, 112 Stat. 2681–819.)
+(Pub. L. 96–465, title I, §704, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 97–241, title I, §125(1), Aug. 24, 1982, 96 Stat. 281; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(f), Oct. 21, 1998, 112 Stat. 2681–819; Pub. L. 114–323, title IV, §407, Dec. 16, 2016, 130 Stat. 1930.)
 
 #### References in Text
 
@@ -55,6 +55,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 In subsec. (a)(5), "sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(4)(B). Pub. L. 114–323 substituted "education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution" for "language instructors, linguists, and other academic and training specialists".
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 

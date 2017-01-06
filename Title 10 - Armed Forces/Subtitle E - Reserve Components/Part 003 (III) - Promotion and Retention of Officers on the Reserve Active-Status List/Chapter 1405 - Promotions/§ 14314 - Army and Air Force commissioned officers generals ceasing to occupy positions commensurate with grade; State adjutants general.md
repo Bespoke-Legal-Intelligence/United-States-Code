@@ -8,7 +8,7 @@ General Officers.—Within 30 days after a reserve officer of the Army or the Ai
 
 &emsp;(2) Transfer the officer in grade to the inactive status list of the Standby Reserve, if the officer is qualified.
 
-&emsp;(3) Discharge the officer from the officer's reserve appointment and, if the officer is qualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer's appointment in a general officer grade.
+&emsp;(3) Discharge the officer from the officer's reserve appointment and, if the officer isqualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer's appointment in a general officer grade.
 
 &emsp;(4) Discharge the officer from the officer's reserve appointment.
 
@@ -39,4 +39,8 @@ Provisions similar to those in this section were contained in sections 3375, 837
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–201 struck out "of the Air Force" after "reserve officer".
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

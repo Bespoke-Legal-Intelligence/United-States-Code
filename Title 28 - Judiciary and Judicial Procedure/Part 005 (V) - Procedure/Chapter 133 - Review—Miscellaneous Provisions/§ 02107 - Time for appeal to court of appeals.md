@@ -68,7 +68,7 @@ This amendment eliminates as surplusage the words "in any such action, suit or p
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–16 substituted "within 14 days" for "within 7 days" in concluding provisions.
 
-<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c),designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
+<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
 
 "In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
 

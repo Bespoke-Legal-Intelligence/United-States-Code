@@ -12,7 +12,7 @@
 
 &emsp;The purposes of the Foundation are—
 
-&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) of this section, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
+&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) herein, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
 
 &emsp;&emsp;(B) to conduct such other environmental education activities as will further the development of an environmentally conscious and responsible public, a well-trained and environmentally literate workforce, and an environmentally advanced educational system;
 
@@ -26,7 +26,7 @@
 
 #### (1) Establishment and membership
 
-&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of theFoundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
+&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
 
 &emsp;(B) The Administrator of the Environmental Protection Agency shall, pursuant to paragraph (2), appoint the Director of the Office of Environmental Education established pursuant to section 5502 of this title as an ex-officio member of the Board. Ex officio membership shall also be offered to other Federal agencies or departments with an interest and/or experience in environmental education and training.
 
@@ -54,7 +54,7 @@
 
 #### (6) Reimbursement of expenses
 
-&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expensesincurred by them in the performance of the duties of the Foundation.
 
 #### (7) General powers
 
@@ -122,7 +122,7 @@
 
 &emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific act or make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
 
-(3) No materials bearing "logos", letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f) of this section.
+(3) No materials bearing "logos", letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f).
 
 #### (e) Administrative services and support
 
@@ -158,7 +158,7 @@ In subsec. (h), "section 10101 of title 36" substituted for "the Act entitled 'A
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee onFinancial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -10,11 +10,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+&emsp;&emsp;The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c).
 
 #### (B) Limitations
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary shall only reserve an amount thatis greater than 2 percent of the amount appropriated under section 9858 of this title, for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the "reservation year") if—
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under section 9858 of this title, for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the "reservation year") if—
 
 &emsp;&emsp;&emsp;(i) the amount appropriated under section 9858 of this title for the reservation year is greater than the amount appropriated under section 9858 of this title for fiscal year 2014; and
 
@@ -36,7 +36,7 @@
 
 #### (1) General rule
 
-&emsp;From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
+&emsp;From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
 
 &emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
@@ -78,7 +78,7 @@
 
 #### (1) General authority
 
-&emsp;From amounts reserved under subsection (a)(2) of this section, the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
+&emsp;From amounts reserved under subsection (a)(2), the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
 
 #### (2) Applications and requirements
 
@@ -150,13 +150,13 @@
 
 #### (d) Data and information
 
-The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
+The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b).
 
 #### (e) Reallotments
 
 #### (1) In general
 
-&emsp;Any portion of the allotment under subsection (b) of this section to a State that the Secretary determines is not required to carry out a State plan approved under section 9858c(d) of this title, in the period for which the allotment is made available, shall be reallotted by the Secretary to other States in proportion to the original allotments to the other States.
+&emsp;Any portion of the allotment under subsection (b) to a State that the Secretary determines is not required to carry out a State plan approved under section 9858c(d) of this title, in the period for which the allotment is made available, shall be reallotted by the Secretary to other States in proportion to the original allotments to the other States.
 
 #### (2) Limitations
 
@@ -170,11 +170,11 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (3) Amounts reallotted
 
-&emsp;For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) of this section to the State.
+&emsp;For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) to the State.
 
 #### (4) Indian tribes or tribal organizations
 
-&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) in accordance with their respective needs.
 
 #### (f) "State" defined
 

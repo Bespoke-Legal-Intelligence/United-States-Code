@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the price under such contract for natural gas, subject to such contract, delivered during such period.
 
-> &emsp;For purposes of subparagraph (A), the reasonable costs directly associated with the use of heavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
+> &emsp;For purposes of subparagraph (A), the reasonable costs directly associated with the use of heavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premisescontaining such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
 
 &emsp;(3) The term "just compensation", when used with respect to any intrastate pipeline which would have transported or distributed natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), to the extent such loss—
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 
-&emsp;(4) The term "contractual interests" means the right to receive natural gas under contract as affected by an applicable curtailment planfiled with the Commission or the appropriate State regulatory authority.
+&emsp;(4) The term "contractual interests" means the right to receive natural gas under contract as affected by an applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
 
 &emsp;(5) The term "interstate pipeline" means any person engaged in natural gas transportation subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
 
@@ -108,7 +108,7 @@ No supplier of natural gas under any contract, with respect to which contractual
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), isact June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, as amended, which is classified principally to chapter 92 (§8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 42 and Tables.
 

@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;From the amount reserved under subsection (a) by a State educational agency, the Stateeducational agency shall award grants to geographically diverse local educational agencies described in subsection (a)(1)(B)(i).
+&emsp;From the amount reserved under subsection (a) by a State educational agency, the State educational agency shall award grants to geographically diverse local educational agencies described in subsection (a)(1)(B)(i).
 
 #### (2) Priority
 

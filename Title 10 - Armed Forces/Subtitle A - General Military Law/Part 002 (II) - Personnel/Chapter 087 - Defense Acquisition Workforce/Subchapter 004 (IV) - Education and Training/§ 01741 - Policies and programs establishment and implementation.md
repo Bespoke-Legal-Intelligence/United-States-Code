@@ -2,7 +2,7 @@
 
 (a)
 
-Policies and Procedures.—The Secretary of Defense shall establish policies and procedures for the establishment and implementationof the education and training programs authorized by this subchapter.
+Policies and Procedures.—The Secretary of Defense shall establish policies and procedures for the establishment and implementation of the education and training programs authorized by this subchapter.
 
 (b)
 
@@ -19,4 +19,20 @@ Programs.—The Secretary of each military department, acting through the servic
 <b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
+
+#### Guidance Regarding Training and Development of the Acquisition Workforce
+
+Pub. L. 114–328, div. A, title VIII, §803(b), Dec. 23, 2016, 130 Stat. 2249, provided that:
+
+"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall issue guidance addressing the training and development of the Department of Defense workforce engaged in the procurement of services, including those personnel not designated as members of the acquisition workforce.
+
+"(2)
+
+Identification of training and professional development opportunities and alternatives.—The guidance required under paragraph (1) shall identify training and professional development opportunities and alternatives, not limited to existing Department of Defense institutions, that focus on and provide relevant training and professional development in commercial business models and contracting.
+
+"(3)
+
+Treatment of training and professional development.—Any training and professional development provided pursuant to this subsection outside Department of Defense institutions shall be deemed to be equivalent to similar training certified or provided by the Defense Acquisition University."
 

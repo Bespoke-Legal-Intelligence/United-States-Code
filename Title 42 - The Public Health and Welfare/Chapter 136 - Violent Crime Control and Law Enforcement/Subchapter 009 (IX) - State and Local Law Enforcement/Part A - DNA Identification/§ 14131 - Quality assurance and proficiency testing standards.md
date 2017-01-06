@@ -16,9 +16,9 @@
 
 #### (b) Administration of advisory board
 
-(1) For administrative purposes, the advisory board appointed under subsection (a) of this section shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
+(1) For administrative purposes, the advisory board appointed under subsection (a) shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
 
-(2) Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a) of this section.
+(2) Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a).
 
 (3) The DNA advisory board established under this section shall be separate and distinct from any other advisory board administered by the FBI, and is to be administered separately.
 
@@ -26,7 +26,7 @@
 
 #### (c) Proficiency testing program
 
-(1) Not later than 1 year after the effective date of this Act,<sup>1</sup> the Director of the NationalInstitute of Justice shall certify to the Committees on the Judiciary of the House and Senate that—
+(1) Not later than 1 year after the effective date of this Act,<sup>1</sup> the Director of the National Institute of Justice shall certify to the Committees on the Judiciary of the House and Senate that—
 
 &emsp;(A) the Institute has entered into a contract with, or made a grant to, an appropriate entity for establishing, or has taken other appropriate action to ensure that there is established, not later than 2 years after September 13, 1994, a blind external proficiency testing program for DNA analyses, which shall be available to public and private laboratories performing forensic DNA analyses;
 

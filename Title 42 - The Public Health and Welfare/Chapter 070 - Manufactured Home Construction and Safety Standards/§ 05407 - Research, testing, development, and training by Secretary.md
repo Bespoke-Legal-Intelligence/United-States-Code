@@ -2,7 +2,7 @@
 
 #### (a) Scope
 
-The Secretary shall conduct research, testing, development, and training necessary to carryout the purposes of this chapter, including, but not limited to—
+The Secretary shall conduct research, testing, development, and training necessary to carry out the purposes of this chapter, including, but not limited to—
 
 &emsp;(1) collecting data from any source for the purpose of determining the relationship between manufactured home performance characteristics and (A) accidents involving manufactured homes, and (B) the occurrence of death, personal injury, or damage resulting from such accidents;
 
@@ -16,7 +16,7 @@ The Secretary shall conduct research, testing, development, and training necessa
 
 #### (b) Contracts and grants with States, interstate agencies, and independent institutions
 
-The Secretary is authorized to conduct research, testing, development, and training as authorized to be carried out by subsection (a) of this section by contracting for or making grants for the conduct of such research, testing, development, and training to States, interstate agencies, and independent institutions.
+The Secretary is authorized to conduct research, testing, development, and training as authorized to be carried out by subsection (a) of this section by contracting for or making grantsfor the conduct of such research, testing, development, and training to States, interstate agencies, and independent institutions.
 
 #### (c) Definitions
 

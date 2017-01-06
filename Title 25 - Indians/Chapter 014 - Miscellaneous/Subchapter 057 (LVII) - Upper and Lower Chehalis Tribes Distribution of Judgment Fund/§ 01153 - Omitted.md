@@ -1,0 +1,6 @@
+### §1153. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–114, §3, Oct. 24, 1967, 81 Stat. 335, which related to distribution of shares of deceased enrollees and minors or persons under legal disabilities, was omitted from the Code as being of special and not general application.
+

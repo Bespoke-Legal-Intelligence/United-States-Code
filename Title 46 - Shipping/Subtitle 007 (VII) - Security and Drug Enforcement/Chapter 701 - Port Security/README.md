@@ -11,22 +11,12 @@
 | [70105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070105%20-%20Transportation%20security%20cards.md) | Transportation security cards. |
 | [70106\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070106%20-%20Deployable%2C%20specialized%20forces.md) | Deployable, specialized forces. |
 | [70107\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070107%20-%20Grants.md) | Grants. |
-| [70107A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070107A%20-%20Interagency%20operational%20centers%20for%20port%20security.md) | Interagency operational centers for port security <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [70107A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070107A%20-%20Interagency%20operational%20centers%20for%20port%20security.md) | Interagency operational centers for port security. |
 | [70108\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070108%20-%20Foreign%20port%20assessment.md) | Foreign port assessment. |
 | [70109\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070109%20-%20Notifying%20foreign%20authorities.md) | Notifying foreign authorities. |
 | [70110\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070110%20-%20Actions%20and%20assistance%20for%20foreign%20ports%20or%20facilities%20and%20United%20States%20territories.md) | Actions and assistance for foreign ports or facilities and United States territories. |
 | [70111\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070111%20-%20Enhanced%20crewmember%20identification.md) | Enhanced crewmember identification. |
-| [70112\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070112%20-%20Maritime%20Security%20Advisory%20Committees.md) | Maritime security advisory committees.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [70112\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070112%20-%20Maritime%20Security%20Advisory%20Committees.md) | Maritime Security Advisory Committees. |
 | [70113\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070113%20-%20Maritime%20intelligence.md) | Maritime intelligence. |
 | [70114\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070114%20-%20Automatic%20identification%20systems.md) | Automatic identification systems. |
 | [70115\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070115%20-%20Long-range%20vessel%20tracking%20system.md) | Long-range vessel tracking system. |
@@ -36,7 +26,7 @@
 | [70119\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070119%20-%20Civil%20penalty.md) | Civil penalty. |
 | [70120\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070120%20-%20In%20rem%20liability%20for%20civil%20penalties%20and%20certain%20costs.md) | In rem liability for civil penalties and certain costs. |
 | [70121\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070121%20-%20Withholding%20of%20clearance.md) | Withholding of clearance. |
-| [70122\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070122%20-%20Waterway%20watch%20program%201.md) | Waterway watch program. |
+| [70122\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070122%20-%20Waterway%20Watch%20Program.md) | Waterway Watch Program. |
 | [70123\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070123%20-%20Mobile%20biometric%20identification.md) | Mobile biometric identification. |
 | [70124\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070124%20-%20Regulations.md) | Regulations. |
 | [70125\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070125%20-%20Port%20security%20training%20for%20facility%20security%20officers.md) | Port security training for facility security officers. |
@@ -54,6 +44,8 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
+
 <b>2010</b>—Pub. L. 111–281, title VIII, §828(c)(2), Oct. 15, 2010, 124 Stat. 3007, as amended by Pub. L. 111–330, §1(17)(B)–(D), Dec. 22, 2010, 124 Stat. 3570, added items for subchapters I and II and items 70131 and 70132.
 
 Pub. L. 111–281, title II, §208(b), title VIII, §§801(b), 804(b), 806(c)(2)(C), 807(b), 820(b), 821(c), Oct. 15, 2010, 124 Stat. 2912, 2989, 2991, 2993, 3001, 3003, substituted "Deployable, specialized forces" for "Maritime safety and security teams" in item 70106 and "Actions and assistance for foreign ports or facilities and United States territories" for "Actions and assistance for foreign ports and United States territories" in item 70110, struck out item 70117 "Firearms, arrests, and seizure of property", and added items 70122 to 70125.
@@ -67,10 +59,6 @@ Pub. L. 109–241, §901(l)(5), July 11, 2006, 120 Stat. 565, which directed ame
 <b>2004</b>—Pub. L. 108–293, title VIII, §802(c), Aug. 9, 2004, 118 Stat. 1080, added items 70117 "In rem liability for civil penalties and certain costs", 70118 "Enforcement by injunction or withholding of clearance", and 70119 "Civil penalty", and struck out former item 70119 "Enforcement by State and local officers".
 
 Pub. L. 108–293, title VIII, §801(b), Aug. 9, 2004, 118 Stat. 1078, added items 70118 "Enforcement" and 70119 "Enforcement by State and local officers".
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

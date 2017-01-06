@@ -16,7 +16,7 @@ Effect on Assertion and Manner of Determination.—
 
 &emsp;(1)
 
-Statement.—A court may order the debtor to file a statement with regard to any claimed exemption. A copy of such statement shall be served on counsel for the United States. Such statement shall be under oath and shall describe each item of property for which exemption is claimed, the value and the basis for such valuation, and the nature of the debtor's ownership interest.
+Statement.—A court may order the debtor to file a statement with regard to any claimed exemption. A copy of such statement shall be served on counsel for the UnitedStates. Such statement shall be under oath and shall describe each item of property for which exemption is claimed, the value and the basis for such valuation, and the nature of the debtor's ownership interest.
 
 &emsp;(2)
 
@@ -24,7 +24,7 @@ Hearing.—The United States or the debtor, by application to the court in which
 
 &emsp;(3)
 
-Stay of Disposition.—Assertion of an exemption shall prevent the United States from selling or otherwise disposing of the property for which such exemption is claimed until the court determines whether the debtor has asubstantial nonexempt interest in such property. The United States may not take possession of, dispose of, sell, or otherwise interfere with the debtor's normal use and enjoyment of an interest in property the United States knows or has reason to know is exempt.
+Stay of Disposition.—Assertion of an exemption shall prevent the United States from selling or otherwise disposing of the property for which such exemption is claimed until the court determines whether the debtor has a substantial nonexempt interest in such property. The United States may not take possession of, dispose of, sell, or otherwise interfere with the debtor's normal use and enjoyment of an interest in property the United States knows or has reason to know is exempt.
 
 (c)
 

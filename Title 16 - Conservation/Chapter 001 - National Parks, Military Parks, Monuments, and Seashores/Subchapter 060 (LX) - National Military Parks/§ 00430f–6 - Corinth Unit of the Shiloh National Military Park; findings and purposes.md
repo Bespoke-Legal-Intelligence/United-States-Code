@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;&emsp;&emsp;(iii) individuals;
 
-&emsp;(2) the Corinth Battlefield was ranked as a priority 1 battlefield having critical need forcoordinated nationwide action by the year 2000 by the Civil War Sites Advisory Commission in its report on Civil War Battlefields of the United States;
+&emsp;(2) the Corinth Battlefield was ranked as a priority 1 battlefield having critical need for coordinated nationwide action by the year 2000 by the Civil War Sites Advisory Commission in its report on Civil War Battlefields of the United States;
 
 &emsp;(3) there is a national interest in protecting and preserving sites of historic significance associated with the Civil War; and
 

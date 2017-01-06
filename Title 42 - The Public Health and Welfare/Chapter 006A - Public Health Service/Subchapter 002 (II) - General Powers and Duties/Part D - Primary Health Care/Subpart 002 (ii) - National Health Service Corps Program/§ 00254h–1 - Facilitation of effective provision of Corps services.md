@@ -54,7 +54,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (2) Assumption of duties of member
 
-&emsp;(A) Temporary relief under paragraph (1) may be provided only if the duties of the Corps member involved are assumed by another health professional. With respect to such temporary relief, the duties may be assumed by Corps members or by health professionals who are not Corps members, if the Secretary approves the professionals for such purpose. Any health professional so approved by the Secretary shall, during the period of providing such temporary relief, be deemed to be a Corps member for purposes of section 233 of this title (including for purposes of the remedy described in such section), section 254f(f) of this title, and section 254h(e) of this title.
+&emsp;(A) Temporary relief under paragraph (1) may be provided only if the duties of the Corps member involved are assumed by another health professional. With respect to such temporary relief, the duties may be assumed by Corps members or by health professionals whoare not Corps members, if the Secretary approves the professionals for such purpose. Any health professional so approved by the Secretary shall, during the period of providing such temporary relief, be deemed to be a Corps member for purposes of section 233 of this title (including for purposes of the remedy described in such section), section 254f(f) of this title, and section 254h(e) of this title.
 
 &emsp;(B) In carrying out paragraph (1), the Secretary shall provide for the formation and continued existence of a group of health professionals to provide temporary relief under such paragraph.
 
@@ -64,7 +64,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 &emsp;&emsp;(A) encourage health professionals who are not Corps members to enter into arrangements under which the health professionals temporarily assume the duties of Corps members for purposes of paragraph (1); and
 
-&emsp;&emsp;(B) with respect to the entities to which Corps members have been assigned undersection 254f of this title, encourage the entities to facilitate the development of arrangements described in subparagraph (A).
+&emsp;&emsp;(B) with respect to the entities to which Corps members have been assigned under section 254f of this title, encourage the entities to facilitate the development of arrangements described in subparagraph (A).
 
 #### (4) Limitation
 
@@ -80,7 +80,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (f) Determinations regarding effective service
 
-In carrying out subsection (a) of this section and sections 254l(d) and 254l–1(d) of this title, the Secretary shall carry out activities to determine—
+In carrying out subsection (a) and sections 254l(d) and 254l–1(d) of this title, the Secretary shall carry out activities to determine—
 
 &emsp;(1) the characteristics of physicians, dentists, and other health professionals who are more likely to remain in practice in health professional shortage areas after the completion of the period of service in the Corps;
 

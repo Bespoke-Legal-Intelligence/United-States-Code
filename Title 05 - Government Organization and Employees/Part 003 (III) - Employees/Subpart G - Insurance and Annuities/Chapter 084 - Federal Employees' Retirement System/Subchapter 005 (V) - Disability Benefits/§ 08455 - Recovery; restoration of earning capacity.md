@@ -12,7 +12,7 @@
 
 &emsp;(B) has not recovered from the disability for which that individual was retired;
 
-> the annuity of such individual shall be restored at the applicable rate under section 8452 effective the first of the year following any calendaryear in which such individual's income from wages or self-employment or both is less than 80 percent of the current rate of pay of the position occupied immediately before retirement.
+> the annuity of such individual shall be restored at the applicable rate under section 8452 effective the first of the year following any calendar year in which such individual's income from wages or self-employment or both is less than 80 percent of the current rate of pay of the position occupied immediately before retirement.
 
 (3) If an annuitant whose annuity is terminated because of a medical finding that the individual has recovered from disability is not reemployed in a position in which such individual is subject to this chapter, the annuity of such individual shall be restored at the applicable rate under section 8452 effective from the date on which the Office determines that there has been a recurrence of the disability.
 

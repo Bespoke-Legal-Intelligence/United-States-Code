@@ -6,7 +6,7 @@ It is declared that the disruption of the orderly exchange of commodities in int
 
 #### Constitutionality
 
-For information regarding constitutionality of act May 12, 1933, and act Aug. 24, 1935, cited throughout this chapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of act May 12, 1933, and act Aug. 24, 1935, cited throughout this chapter, see Congressional Research Service, TheConstitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Short Title of 2006 Amendment
 

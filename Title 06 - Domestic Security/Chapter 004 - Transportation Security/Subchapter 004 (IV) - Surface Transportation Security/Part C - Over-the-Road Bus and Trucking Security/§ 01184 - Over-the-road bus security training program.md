@@ -30,7 +30,7 @@ The regulations developed under subsection (a) shall require security training p
 
 &emsp;(6) Psychology, behavior, and methods of terrorists, including observation and analysis.
 
-&emsp;(7) Training related to psychological responses to terrorist incidents, including the ability to cope with hijacker behavior and passenger responses.
+&emsp;(7) Training related to psychological responses to terrorist incidents, including theability to cope with hijacker behavior and passenger responses.
 
 &emsp;(8) Live situational training exercises regarding various threat conditions, including tunnel evacuation procedures.
 
@@ -50,7 +50,7 @@ The regulations developed under subsection (a) shall require security training p
 
 #### (2) Approval
 
-&emsp;Not later than 60 days after receiving a security training program under this subsection,the Secretary shall approve the program or require the over-the-road bus operator that developed the program to make any revisions to the program that the Secretary considers necessary for the program to meet the requirements of the regulations. An over-the-road bus operator shall respond to the Secretary's comments not later than 30 days after receiving them.
+&emsp;Not later than 60 days after receiving a security training program under this subsection, the Secretary shall approve the program or require the over-the-road bus operator that developed the program to make any revisions to the program that the Secretary considers necessary for the program to meet the requirements of the regulations. An over-the-road bus operator shall respond to the Secretary's comments not later than 30 days after receiving them.
 
 #### (3) Training
 

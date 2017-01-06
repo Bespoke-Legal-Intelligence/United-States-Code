@@ -20,7 +20,7 @@ In this subchapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(ii) on a beach or shore of the United States and, although able to return to the water, is in need of apparent medical attention; or
 
-&emsp;&emsp;&emsp;(iii) in the waters under the jurisdiction of the United States (including any navigable waters), but is unable to return to its natural habitat under its own power or without assistance.
+&emsp;&emsp;&emsp;(iii) in the waters under the jurisdiction of the United States (including any navigable waters), but is unable to return toits natural habitat under its own power or without assistance.
 
 &emsp;(4) The term "stranding network participant" means a person who is authorized by an agreement under section 1382(c) of this title to take marine mammals as described in section 1379(h)(1) of this title in response to a stranding.
 

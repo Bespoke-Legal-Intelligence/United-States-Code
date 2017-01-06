@@ -2,7 +2,7 @@
 
 #### (a) Trade readjustment allowance conditions
 
-Payment of a trade readjustment allowance shall be made to an adversely affected workercovered by a certification under subpart A of this part who files an application for such allowance for any week of unemployment which begins on or after the date of such certification, if the following conditions are met:
+Payment of a trade readjustment allowance shall be made to an adversely affected worker covered by a certification under subpart A of this part who files an application for such allowance for any week of unemployment which begins on or after the date of such certification, if the following conditions are met:
 
 &emsp;(1) Such worker's total or partial separation before the worker's application under this part occurred—
 
@@ -130,13 +130,13 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of thissection, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -192,7 +192,7 @@ Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substit
 
 Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-<b>2006</b>—Subsec. (c)(1)(F). Pub. L. 109–270 substituted "area career and technical education schools" for "area vocational education schools" and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
+<b>2006</b>—Subsec. (c)(1)(F). Pub. L. 109–270 substituted "area career and technical education schools" for "area vocational education schools" and made technicalamendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
 <b>2002</b>—Subsec. (a)(3)(B). Pub. L. 107–210, §114(a), inserted ", except additional compensation that is funded by a State and is not reimbursed from any Federal funds," after "any unemployment insurance".
 
@@ -204,7 +204,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–318 added subpar. (D) and substituted "subparagraph (A) or (C), or both (and not more than 26 weeks, in the case of weeks described in subparagraph (B) or (D))" for "paragraph (A) or (C), or both" in closing provisions.
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418, §1423(a)(1), amended par. (5) generally. Prior to amendment, par.\(5) read as follows: "Such worker, unless the Secretary has determined that no acceptable job search program is reasonably available—
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418, §1423(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "Such worker, unless the Secretary has determined that no acceptable job search program is reasonably available—
 
 &emsp;"(A) is enrolled in a job search program approved by the Secretary under section 2297(c) of this title, or
 

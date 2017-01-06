@@ -12,7 +12,7 @@
 
 &emsp;(2)(A) performs, for the purpose of providing military aid to enforce the law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—
 
-&emsp;&emsp;(i) Federal service under section 331, 332, 333, or 12406 of title 10, or other provision of law, as applicable, or
+&emsp;&emsp;(i) Federal service under section 331, 332, 333,<sup>1</sup> or 12406 of title 10, or other provision of law, as applicable, or
 
 &emsp;&emsp;(ii) full-time military service for his State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States; or
 
@@ -52,11 +52,13 @@ June 30, 1960, Pub. L. 86–559, §7, 74 Stat. 282.
 
 Oct. 4, 1961, Pub. L. 87–378, §7(a), 75 Stat. 809.
 
-In subsection (a), the words "without regard to classification or terminology peculiar to the Civil Service system" are omitted as unnecessary. The word "performance" is added on authority of the Performance Rating Act of 1950, which is carried into chapter 43 of this title.
+In subsection (a), the words "without regard to classification or terminology peculiar to the Civil Service system" are omitted as unnecessary. The word "performance" is added on authority of the PerformanceRating Act of 1950, which is carried into chapter 43 of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
+
+Sections 331, 332, 333, referred to in subsec. (b)(2)(A)(i), were renumbered sections 251, 252, and 253, respectively, of Title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 Section 8401(30) of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597, and, as so amended, no longer describes military reserve technicians.
 
@@ -74,7 +76,7 @@ Section 8401(30) of this title, referred to in subsec. (d)(1), was amended gener
 
 Subsec. (d)(1). Pub. L. 106–65, §§672(b) and 1105(a), amended par. (1) identically, striking out "noncombat" after "for participation in".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end "Upon the request of an employee, the period forwhich an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave."
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end "Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave."
 
 Subsec. (d). Pub. L. 104–106, §1039, added subsec. (d).
 
@@ -134,7 +136,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and Published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and Published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1968 Amendment
 
@@ -148,7 +150,7 @@ Pub. L. 107–117, div. A, title VIII, §8023, Jan. 10, 2002, 115 Stat. 2252, pr
 
 &emsp;"(2) performs, for the purpose of providing military aid to enforce the law or providing assistance to civil authorities in the protection or saving of life or property or prevention of injury—
 
-&emsp;&emsp;"(A) Federal service under sections 331, 332, 333, or 12406 of title 10, United States Code, or other provision of law, as applicable; or
+&emsp;&emsp;"(A) Federal service under sections 331 \[now 251\], 332 \[now 252\], 333 \[now 253\], or 12406 of title 10, United States Code, or other provision of law, as applicable; or
 
 &emsp;&emsp;"(B) full-time military service for his or her State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States; and
 
@@ -188,5 +190,5 @@ Pub. L. 101–511, title VIII, §8086, Nov. 5, 1990, 104 Stat. 1895.
 
 Act July 1, 1947, ch. 192, §4, 61 Stat. 239, as amended by June 22, 1956, ch. 428, 70 Stat. 331, provided that: "The words 'officers and employees of the United States or of the District of Columbia' as used in the third paragraph, subheading 'Ordinance Stores and Equipment for Reserve Officers Training Corps', of the Act of May 12, 1917 (40 Stat. 72; 10 U.S.C. Annotated 371) \[covered by this section\], as now or hereafter amended, as used in that part of section 80 of the Act of June 3, 1916 (39 Stat. 203; 32 U.S.C. 75) \[covered by this section\], as now or hereafter amended, which precedes the proviso, and as used in the first proviso of section 9 of the Naval Reserve Act of 1938 (52 Stat. 1177; 34 U.S.C. 853g) \[covered by this section\], as now or hereafter amended, shall be construed to mean all officers and employees of the United States or of the District of Columbia, permanent or temporary indefinite, without regard to classifications or terminology peculiar to the Federal Civil Service System. The words 'officers and employees of the United States or of the District of Columbia', as used in such provisions of law, as now or hereafter amended, also shall be construed to mean substitute employees in the postal field service; such substitute employees shall be entitled to military leave of absence on the basis of one hour of such leave for each period or periods aggregating twenty-six hours of work performed in the calendar year immediately preceding the year in which they are ordered to duty by proper authority: <i>Provided,</i> That the number of hours worked during the preceding calendar year shall not be less than one thousand forty hours before such substitute employee shall be entitled to military leave of absence, pay for such leave not to exceed eighty hours in each calendar year."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below</i>
 

@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Any tax return preparer who prepares any return or claim for refund with respect to which any part of an understatement of liability is due to a conduct described in paragraph (2) shall pay a penalty with respect to each such return or claim in an amount equal to the greater of—
+&emsp;Any tax return preparer who prepares any return or claim for refund with respect towhich any part of an understatement of liability is due to a conduct described in paragraph (2) shall pay a penalty with respect to each such return or claim in an amount equal to the greater of—
 
 &emsp;&emsp;(A) $5,000, or
 
@@ -100,7 +100,7 @@ Subsec. (a). Pub. L. 110–28, §8246(b), amended heading and text of subsec. (a
 
 &emsp;"(3) such position was not disclosed as provided in section 6662(d)(2)(B)(ii) or was frivolous,
 
-> such person shall pay a penalty of $250 with respect to such return or claim unless it is shown that there is reasonable cause for the understatement and such person acted in good faith."
+> such person shall pay a penalty of $250 with respect to such return or claim unless it is shown that there isreasonable cause for the understatement and such person acted in good faith."
 
 Subsec. (b). Pub. L. 110–28, §8246(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "If any part of any understatement of liability with respect to any return or claim for refund is due—
 

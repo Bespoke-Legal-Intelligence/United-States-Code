@@ -24,7 +24,7 @@ Pub. L. 102–90, title I, §8, Aug. 14, 1991, 105 Stat. 451, provided that:
 
 Pub. L. 102–90, title I, §9, Aug. 14, 1991, 105 Stat. 452, provided that:
 
-"(a) Subject to subsection (b), those employees of the Architect of the Capitol engaged in operating elevators in that part of the United States Capitol Building under the control and jurisdiction of the United States Senate, together with the elevator operating functions performed by such employees, effective October 1, 1991, shall be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate.
+"(a) Subject to subsection (b), those employees of the Architect of the Capitol engaged in operating elevatorsin that part of the United States Capitol Building under the control and jurisdiction of the United States Senate, together with the elevator operating functions performed by such employees, effective October 1, 1991, shall be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate.
 
 "(b) The Sergeant at Arms and Doorkeeper of the Senate is authorized to enter into an agreement or other arrangement with the Architect of the Capitol regarding the supervision of such employees."
 

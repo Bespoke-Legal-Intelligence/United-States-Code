@@ -390,6 +390,8 @@ Cummins Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, �
 
 Currant Mountain Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(4), Dec. 5, 1989, 103 Stat. 1784; Pub. L. 109–432, div. C, title III, §323(a)(6), Dec. 20, 2006, 120 Stat. 3031.
 
+Daniel J. Evans Wilderness (former Olympic Wilderness), Olympic National Park, Washington.—Pub. L. 100–668, title I, §101, Nov. 16, 1988, 102 Stat. 3961; Pub. L. 112–97, Feb. 27, 2012, 126 Stat. 257; Pub. L. 114–272, Dec. 14, 2016, 130 Stat. 1399.
+
 Dark Canyon Wilderness, Manti-LaSal National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(8), Sept. 28, 1984, 98 Stat. 1658.
 
 Darwin Falls Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(17), Oct. 31, 1994, 108 Stat. 4475.
@@ -776,7 +778,7 @@ Laurel Fork North Wilderness, Monongahela National Forest, West Virginia.—Pub.
 
 Laurel Fork South Wilderness, Monongahela National Forest, West Virginia.—Pub. L. 97–466, §1(3), Jan. 13, 1983, 96 Stat. 2538; Pub. L. 111–11, title I, §1002(a), Mar. 30, 2009, 123 Stat. 1001.
 
-Lava Beds Wilderness, Lava Beds National Monument, California.—Pub. L. 92–493, Oct. 13, 1972, 86 Stat. 811.
+Lava Beds Wilderness, Lava Beds National Monument, California.—Pub. L. 92–493, Oct. 13, 1972, 86 Stat. 811; Pub. L. 114–289, title VI, §601(g), Dec. 16, 2016, 130 Stat. 1491.
 
 LaVerkin Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(K), Mar. 30, 2009, 123 Stat. 1077.
 
@@ -1025,8 +1027,6 @@ Ojito Wilderness, Albuquerque District-Bureau of Land Management, New Mexico.—
 Okefenokee Wilderness, Okefenokee National Wildlife Refuge, Georgia.—Pub. L. 93–429, Oct. 1, 1974, 88 Stat. 1179.
 
 Old Woman Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(43), Oct. 31, 1994, 108 Stat. 4478.
-
-Olympic Wilderness, Olympic National Park, Washington.—Pub. L. 100–668, title I, §101, Nov. 16, 1988, 102 Stat. 3961; Pub. L. 112–97, Feb. 27, 2012, 126 Stat. 257.
 
 Opal Creek Wilderness, Willamette National Forest, Oregon.—Pub. L. 104–208, div. B, title I, §104, Sept. 30, 1996, 110 Stat. 3009–523; Pub. L. 104–333, div. I, title X, §1023(c), Nov. 12, 1996, 110 Stat. 4215; Pub. L. 106–176, title I, §125, Mar. 10, 2000, 114 Stat. 30.
 

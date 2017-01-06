@@ -22,7 +22,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1990</b>—Pub. L. 101–624 substituted "$420,000,000 for fiscal year 1991, $430,000,000 for fiscal year 1992, $440,000,000 for fiscal year 1993, $450,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995" for "$370,000,000 for the fiscal year ending September 30, 1986, $380,000,000 for the fiscal year ending September 30, 1987, $390,000,000 for the fiscal year ending September 30, 1988, $400,000,000 for the fiscal year ending September 30, 1989, and $420,000,000 for the fiscal year ending September 30, 1990."
 
-<b>1985</b>—Pub. L. 99–198 substituted "$370,000,000 for the fiscal year ending September 30, 1986, $380,000,000 for the fiscal year ending September 30, 1987, $390,000,000 for the fiscal year ending September 30, 1988, $400,000,000 for the fiscal year ending September 30, 1989, and $420,000,000 for the fiscal year ending September 30, 1990" for "$260,000,000 for the fiscal year ending September 30, 1978, $280,000,000 for the fiscal year ending September 30, 1979, $300,000,000 for the fiscal year ending September 30, 1980, $320,000,000 for the fiscal year ending September 30, 1981, $350,000,000 for the fiscal year ending September 30, 1982, $360,000,000 for the fiscal year ending September 30, 1983, $370,000,000 for the fiscal year ending September 30, 1984, and $380,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year".
+<b>1985</b>—Pub. L. 99–198 substituted "$370,000,000 for the fiscal year ending September 30, 1986, $380,000,000 for the fiscal year ending September 30, 1987, $390,000,000 for the fiscal year ending September 30, 1988, $400,000,000 for the fiscal year ending September 30, 1989, and $420,000,000 for the fiscal year ending September 30, 1990" for "$260,000,000 for the fiscal year ending September 30, 1978, $280,000,000 for the fiscal year ending September 30, 1979, $300,000,000 for the fiscal year ending September 30, 1980, $320,000,000 for the fiscal year ending September 30, 1981, $350,000,000 for the fiscal year ending September 30, 1982, $360,000,000 for thefiscal year ending September 30, 1983, $370,000,000 for the fiscal year ending September 30, 1984, and $380,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year".
 
 <b>1981</b>—Pub. L. 97–98 inserted provisions authorizing appropriations of $360,000,000 for fiscal year ending Sept. 30, 1983, $370,000,000 for fiscal year ending Sept. 30, 1984, and $380,000,000 for fiscal year ending Sept. 30, 1985.
 
@@ -37,4 +37,8 @@ Pub. L. 99–198, title XIV, §1423, Dec. 23, 1985, 99 Stat. 1552, provided that
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

@@ -18,7 +18,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A partnership agreement described in paragraph (1) may provide with respect to a project that the Secretary shall credit toward the non-Federal share of the cost of the project, including a project implementedwithout specific authorization in law or a project under an environmental infrastructure assistance program, the value of in-kind contributions made by the non-Federal interest, including—
+&emsp;&emsp;A partnership agreement described in paragraph (1) may provide with respect to a project that the Secretary shall credit toward the non-Federal share of the cost of the project, including a project implemented without specific authorization in law or a project under an environmental infrastructure assistance program, the value of in-kind contributions made by the non-Federal interest, including—
 
 &emsp;&emsp;&emsp;(i) the costs of planning (including data collection), design, management, mitigation, construction, and construction services that are provided by the non-Federal interest for implementation of the project;
 
@@ -36,7 +36,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In any case in which the non-Federal interest is to receive credit under subparagraph (A) for the cost of construction carried out by the non-Federal interest before execution of a partnership agreement and that construction has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work and shall do so prior to the non-Federal interest initiating construction or issuing a written notice to proceed for the construction.
+&emsp;&emsp;&emsp;&emsp;In any case in which the non-Federal interest is to receive credit under subparagraph (A) for the cost of construction carried out by the non-Federal interest before execution of a partnership agreement and that construction has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work and shall do so prior to the non-Federal interest initiatingconstruction or issuing a written notice to proceed for the construction.
 
 #### (II) Eligibility
 
@@ -86,7 +86,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall apply to water resources projects authorized after November 16, 1986, including projects initiatedafter November 16, 1986, without specific authorization in law, and to water resources projects authorized prior to November 17, 1986, if correction of design deficiencies is necessary.
+&emsp;&emsp;&emsp;This paragraph shall apply to water resources projects authorized after November 16, 1986, including projects initiated after November 16, 1986, without specific authorization in law, and to water resources projects authorized prior to November 17, 1986, if correction of design deficiencies is necessary.
 
 #### (ii) Authorization as addition to other authorizations
 
@@ -96,7 +96,7 @@
 
 The term "non-Federal interest" means—
 
-&emsp;(1) a legally constituted public body (including a federally recognized Indian tribe); or
+&emsp;(1) a legally constituted public body (including a federally recognized Indian tribe and, as defined in section 1602 of title 43, a Native village, Regional Corporation, and Village Corporation); or
 
 &emsp;(2) a nonprofit entity with the consent of the affected local government,
 
@@ -108,7 +108,7 @@ Every agreement entered into pursuant to this section shall be enforcible in the
 
 #### (d) Nonperformance of terms of agreement by non-Federal interest; notice; reasonable opportunity for performance; performance by Chief of Engineers
 
-After commencement of construction of a project, the Chief of Engineers may undertake performance of those items of cooperation necessary to the functioning of the project for its purposes, if he has first notified the non-Federal interest of its failure to perform the terms of its agreement and has given such interest a reasonable time after such notification to so perform.
+After commencement of construction of a project, the Chief of Engineers may undertakeperformance of those items of cooperation necessary to the functioning of the project for its purposes, if he has first notified the non-Federal interest of its failure to perform the terms of its agreement and has given such interest a reasonable time after such notification to so perform.
 
 #### (e) Delegation of authority
 
@@ -142,7 +142,7 @@ Not later than 120 days after November 8, 2007, the Chief of Engineers shall—
 
 This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
 
-(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224.)
+(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224; Pub. L. 114–322, title I, §1131, Dec. 16, 2016, 130 Stat. 1653.)
 
 #### References in Text
 
@@ -153,6 +153,8 @@ The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L.
 Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+
+Subsec. (b)(1). Pub. L. 114–322 inserted "and, as defined in section 1602 of title 43, a Native village, Regional Corporation, and Village Corporation" after "Indian tribe".
 
 <b>2014</b>—Subsec. (a)(4)(A). Pub. L. 113–121, §1018(a)(1), inserted "or a project under an environmental infrastructure assistance program" after "law" in introductory provisions.
 

@@ -38,7 +38,7 @@ Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to b
 
 "District of Columbia Court of General Sessions" changed to "Superior Court of the District of Columbia" pursuant to Pub. L. 91–358, which provided that such change is effective first day of seventh calendar month which begins after July 29, 1970.
 
-Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, July 8, 1963, 77 Stat. 77, both redesignatedthe "Municipal Court for the District of Columbia" as the "District of Columbia Court of General Sessions".
+Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, July 8, 1963, 77 Stat. 77, both redesignated the "Municipal Court for the District of Columbia" as the "District of Columbia Court of General Sessions".
 
 #### Effective Date of 1973 Amendment
 

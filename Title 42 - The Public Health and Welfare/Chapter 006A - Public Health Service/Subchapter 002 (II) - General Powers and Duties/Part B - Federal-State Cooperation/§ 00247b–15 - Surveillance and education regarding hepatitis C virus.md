@@ -20,7 +20,7 @@ The Secretary may (directly and through grants to public and nonprofit private e
 
 #### (c) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title III, §317N, as added Pub. L. 106–310, div. A, title XVIII, §1801, Oct. 17, 2000, 114 Stat. 1152.)
 

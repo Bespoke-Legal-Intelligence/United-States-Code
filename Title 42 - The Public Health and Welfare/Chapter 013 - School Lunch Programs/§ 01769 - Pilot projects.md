@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Federal share of costs for a project funded through a grant awarded under thissubsection shall not exceed 75 percent of the total cost of the project.
+&emsp;&emsp;The Federal share of costs for a project funded through a grant awarded under this subsection shall not exceed 75 percent of the total cost of the project.
 
 #### (B) Federal matching
 
@@ -164,7 +164,7 @@
 
 #### (E) No cost-sharing requirement
 
-&emsp;&emsp;A nonprofit organization or public entity that receives a grant under this paragraphshall not be required to share the cost of carrying out the activities assisted under this paragraph.
+&emsp;&emsp;A nonprofit organization or public entity that receives a grant under this paragraph shall not be required to share the cost of carrying out the activities assisted under this paragraph.
 
 #### (F) Evaluation
 
@@ -248,7 +248,7 @@
 
 #### (C) Cost assessment
 
-&emsp;&emsp;The evaluation shall assess the increased costs associated with providing additional free, reduced price, or paid meals in theschool food authorities operating under this subsection.
+&emsp;&emsp;The evaluation shall assess the increased costs associated with providing additional free, reduced price, or paid meals in the school food authorities operating under this subsection.
 
 #### (D) Report
 
@@ -324,7 +324,7 @@ A prior section 18 of act June 4, 1946, which was classified to section 1767 of 
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–296, §441(a)(9), struck out subsec. (a) which related to pilot projects for administration of child nutrition programs by contract or direct disbursement.
 
-Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted "The Secretary may conduct" for "In addition to the pilot projects described in this subsection, the Secretary may conduct other", and struck out former pars. (1) and (2) which related to certain pilot programs.
+Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted "The Secretary may conduct" for "In addition to the pilot projects described in this subsection, the Secretary may conduct other", and struck outformer pars. (1) and (2) which related to certain pilot programs.
 
 Subsecs. (d) to (f). Pub. L. 111–296, §441(a)(11)–(13), struck out subsecs. (d) to (f) which related to fortified fluid milk, breakfast pilot projects, and summer food service residential camp eligibility, respectively.
 

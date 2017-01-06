@@ -1,6 +1,6 @@
 # Printed pages - Title 24 - Hospitals and Asylums
 
-GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
+GPO's 2016 edition (laws in effect as of 2017-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title24.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -172,8 +172,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00401 - Definitions](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/%C2%A7%2000401%20-%20Definitions.md) | 30–31 |
 | [Subchapter 001 (I) - Establishment and Operation of Retirement Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/README.md) | 31 |
 | [&sect; 00411 - Establishment of the Armed Forces Retirement Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000411%20-%20Establishment%20of%20the%20Armed%20Forces%20Retirement%20Home.md) | 31–33 |
-| [&sect; 00412 - Residents of Retirement Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000412%20-%20Residents%20of%20Retirement%20Home.md) | 33 |
-| [&sect; 00413 - Services provided to residents](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20to%20residents.md) | 33–34 |
+| [&sect; 00412 - Residents of Retirement Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000412%20-%20Residents%20of%20Retirement%20Home.md) | 33–34 |
+| [&sect; 00413 - Services provided to residents](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20to%20residents.md) | 34 |
 | [&sect; 00413a - Oversight of health care provided to residents](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413a%20-%20Oversight%20of%20health%20care%20provided%20to%20residents.md) | 34–35 |
 | [&sect; 00414 - Fees paid by residents](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000414%20-%20Fees%20paid%20by%20residents.md) | 35–36 |
 | [&sect; 00415 - Chief Operating Officer](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000415%20-%20Chief%20Operating%20Officer.md) | 36–37 |

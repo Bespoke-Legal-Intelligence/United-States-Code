@@ -110,7 +110,7 @@ The protections provided by this section are independent of, and not subject to 
 
 (2) A report under paragraph (1) may not identify or otherwise provide any information about an individual submitting a complaint under this section without the consent of the individual.
 
-(Pub. L. 107–314, div. D, title XLVI, §4602, formerly Pub. L. 106–65, div. C, title XXXI, §3164,Oct. 5, 1999, 113 Stat. 946; renumbered Pub. L. 107–314, div. D, title XLVI, §4602, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(3), Nov. 24, 2003, 117 Stat. 1776; Pub. L. 113–66, div. C, title XXXI, §3146(g)(2), Dec. 26, 2013, 127 Stat. 1079.)
+(Pub. L. 107–314, div. D, title XLVI, §4602, formerly Pub. L. 106–65, div. C, title XXXI, §3164, Oct. 5, 1999, 113 Stat. 946; renumbered Pub. L. 107–314, div. D, title XLVI, §4602, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(3), Nov. 24, 2003, 117 Stat. 1776; Pub. L. 113–66, div. C, title XXXI, §3146(g)(2), Dec. 26, 2013, 127 Stat. 1079.)
 
 #### References in Text
 

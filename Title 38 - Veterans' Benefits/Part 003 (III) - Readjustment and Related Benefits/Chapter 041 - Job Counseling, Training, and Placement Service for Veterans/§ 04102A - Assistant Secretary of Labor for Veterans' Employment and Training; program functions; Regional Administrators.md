@@ -18,7 +18,7 @@ Program Functions.—The Secretary shall carry out the following functions:
 
 &emsp;(2) In order to make maximum use of available resources in meeting such needs, encourage all such programs, and all grantees and contractors under such programs to enter into cooperative arrangements with private industry and business concerns (including small business concerns owned by veterans or disabled veterans), educational institutions, trade associations, and labor unions.
 
-&emsp;(3) Ensure that maximum effectiveness and efficiency are achieved in providing services and assistance to eligible veterans under all such programs by coordinating and consultingwith the Secretary of Veterans Affairs with respect to (A) programs conducted under other provisions of this title, with particular emphasis on coordination of such programs with readjustment counseling activities carried out under section 1712A of this title, apprenticeship or other on-the-job training programs carried out under section 3687 of this title, and rehabilitation and training activities carried out under chapter 31 of this title and (B) determinations covering veteran population in a State.
+&emsp;(3) Ensure that maximum effectiveness and efficiency are achieved in providing services and assistance to eligible veterans under all such programs by coordinating and consulting with the Secretary of Veterans Affairs with respect to (A) programs conducted under other provisions of this title, with particular emphasis on coordination of such programs with readjustment counseling activities carried out under section 1712A of this title, apprenticeship or other on-the-job training programs carried out under section 3687 of this title, and rehabilitation and training activities carried out under chapter 31 of this title and (B) determinations covering veteran population in a State.
 
 &emsp;(4) Ensure that employment, training, and placement activities are carried out in coordination and cooperation with appropriate State public employment service officials.
 
@@ -82,7 +82,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 (4) In determining the terms and conditions of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title, the Secretary shall take into account—
 
-&emsp;(A) the results of reviews, carried out pursuant to subsection (b)(7), of the performance of the employment, training, and placement service delivery system in the State, and
+&emsp;(A) the results of reviews, carried out pursuant to subsection (b)(7), of the performance ofthe employment, training, and placement service delivery system in the State, and
 
 &emsp;(B) the monitoring carried out under this section.
 
@@ -132,7 +132,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 (d)
 
-Participation in Other Federally Funded Job Training Programs.—The Assistant Secretary of Labor for Veterans' Employment andTraining shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act and other federally funded employment and training programs.
+Participation in Other Federally Funded Job Training Programs.—The Assistant Secretary of Labor for Veterans' Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act and other federally funded employment and training programs.
 
 (e)
 
@@ -182,7 +182,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is Pub
 
 <b>2015</b>—Subsec. (c)(9)(A)(ii)(III). Pub. L. 114–58 struck out closing quotation marks at end.
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–128, §512(gg)(2)(A), substituted "participation of qualified veterans and eligible persons in employment and training opportunitiesunder title I of the Workforce Innovation and Opportunity Act" for "participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998".
+<b>2014</b>—Subsec. (d). Pub. L. 113–128, §512(gg)(2)(A), substituted "participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act" for "participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998".
 
 Subsec. (f)(2)(A). Pub. L. 113–128, §512(gg)(2)(B), substituted "be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act" for "be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998".
 
@@ -280,7 +280,7 @@ Applicability to previously-hired employees.—In the case of such a State emplo
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–461, title VI, §601(c), Dec. 22, 2006, 120 Stat. 3436, provided that: "Paragraph (8) of section 4102A(c)of title 38, United States Code, as added by subsection (a), and clause (iii) of section 4102A(c)(2)(A) of such title, as added by subsection (b), shall apply with respect to a State employee assigned to perform the duties of a disabled veterans' outreach program specialist or a local veterans' employment representative under chapter 41 of such title who is so assigned on or after January 1, 2006."
+Pub. L. 109–461, title VI, §601(c), Dec. 22, 2006, 120 Stat. 3436, provided that: "Paragraph (8) of section 4102A(c) of title 38, United States Code, as added by subsection (a), and clause (iii) of section 4102A(c)(2)(A) of such title, as added by subsection (b), shall apply with respect to a State employee assigned to perform the duties of a disabled veterans' outreach program specialist or a local veterans' employment representative under chapter 41 of such title who is so assigned on or after January 1, 2006."
 
 #### Effective Date of 2003 Amendment
 

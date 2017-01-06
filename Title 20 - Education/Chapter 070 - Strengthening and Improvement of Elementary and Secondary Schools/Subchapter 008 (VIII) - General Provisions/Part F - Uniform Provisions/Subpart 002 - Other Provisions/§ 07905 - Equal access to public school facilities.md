@@ -18,7 +18,7 @@ This section may be cited as the "Boy Scouts of America Equal Access Act".
 
 #### (1) Departmental action
 
-&emsp;The Secretary is authorized and directed to effectuate subsection (b) of this section by issuing and securing compliance with rules or orders with respect to a public elementary school, public secondary school, local educational agency, or State educational agency that receives funds made available through the Department and that denies equal access, or a fair opportunity to meet, or discriminates, as described in subsection (b) of this section.
+&emsp;The Secretary is authorized and directed to effectuate subsection (b) by issuing and securing compliance with rules or orders with respect to a public elementary school, public secondary school, local educational agency, or State educational agency that receives funds made available through the Department and that denies equal access, or a fair opportunity to meet, or discriminates, as described in subsection (b).
 
 #### (2) Procedure
 

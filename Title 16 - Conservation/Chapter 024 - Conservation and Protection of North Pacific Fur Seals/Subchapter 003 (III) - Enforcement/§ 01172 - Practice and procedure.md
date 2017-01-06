@@ -2,7 +2,7 @@
 
 #### (a) Joint responsibility; designation by Secretary of State officers and employees as Federal law enforcement agents; non-Federal employees for civil service purposes
 
-Enforcement of the provisions of this chapter is the joint responsibility of the Secretary, theSecretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating. In addition, the Secretary may designate officers and employees of the States of the United States to enforce the provisions of this chapter which relate to persons or vessels subject to the jurisdiction of the United States. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes; but they shall not be held and considered as employees of the United States for the purpose of any laws administered by the Office of Personnel Management.
+Enforcement of the provisions of this chapter is the joint responsibility of the Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating. In addition, the Secretary may designate officers and employees of the States of the United States to enforce the provisions of this chapter which relate to persons or vessels subject to the jurisdiction of the United States. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes; but they shall not be held and considered as employees of the United States for the purpose of any laws administered by the Office of Personnel Management.
 
 #### (b) Issuance of warrants and other process
 
@@ -26,7 +26,7 @@ Such person so authorized may seize any vessel subject to the jurisdiction of th
 
 #### (f) Seizure and disposition of fur seals
 
-Such person so authorized may seize, whenever and wherever lawfully found, all fur seals taken or retained in violation of this chapter or the regulations issued thereunder. Any fur seals so seized or forfeited to the United States pursuant to this chapter shall be disposed of in accordance with the provisions of section 1155 of this title.
+Such person so authorized may seize, whenever and wherever lawfully found, all fur sealstaken or retained in violation of this chapter or the regulations issued thereunder. Any fur seals so seized or forfeited to the United States pursuant to this chapter shall be disposed of in accordance with the provisions of section 1155 of this title.
 
 (Pub. L. 89–702, title III, §302, Nov. 2, 1966, 80 Stat. 1097; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 844; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

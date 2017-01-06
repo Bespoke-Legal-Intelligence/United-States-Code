@@ -24,13 +24,13 @@ Pub. L. 89–509, §1, July 19, 1966, 80 Stat. 310, provided: "That this Act \[a
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-"Chief of Staff of the Air Force" substituted in subsec. (a) for "Commanding General of the Army Air Forces" pursuant to act July 26, 1947, ch. 343, title II, §208(b), 61 Stat. 503, which transferred functions ofCommanding General of the Army Air Forces to Chief of Staff, United States Air Force. Section 208(b) of act July 26, 1947 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. See sections 8031 and 8034 of Title 10, Armed Forces.
+"Chief of Staff of the Air Force" substituted in subsec. (a) for "Commanding General of the Army Air Forces" pursuant to act July 26, 1947, ch. 343, title II, §208(b), 61 Stat. 503, which transferred functions of Commanding General of the Army Air Forces to Chief of Staff, United States Air Force. Section 208(b) of act July 26, 1947 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. See sections 8031 and 8034 of Title 10, Armed Forces.
 
 "Federal Aviation Administration" substituted in subsec. (a) for "Federal Aviation Agency" pursuant to Pub. L. 89–670, §§3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938, which transferred all functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof to Secretary of Transportation and established a Federal Aviation Administration in Department of Transportation. See section 106 of Title 49, Transportation.
 
 #### Appropriations
 
-Act Aug. 12, 1946, ch. 955, §6, 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, §10, July 19, 1966, 80 Stat. 311, provided that: "There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act \[this subchapter\] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses."
+Act Aug. 12, 1946, ch. 955, §6, 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, §10, July 19, 1966, 80 Stat. 311, provided that: "There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act\[this subchapter\] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses."
 
 #### Construction of Museum Center
 

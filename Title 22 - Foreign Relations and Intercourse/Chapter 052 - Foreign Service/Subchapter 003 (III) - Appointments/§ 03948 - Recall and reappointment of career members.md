@@ -16,7 +16,7 @@ Pub. L. 114–113, div. K, title VII, §7057(a)–(e), Dec. 18, 2015, 129 Stat. 
 
 "(a)
 
-Authority.—Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. K of Pub. L. 114–113, 129 Stat. 2716\] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading 'Assistance for Europe, Eurasia and Central Asia', may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
+Authority.—Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. K ofPub. L. 114–113, 129 Stat. 2716\] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], including funds appropriated under the heading 'Assistance for Europe, Eurasia and Central Asia', may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3948, 3949\].
 
 "(b)
 

@@ -26,7 +26,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 #### (2) Terms
 
-&emsp;(A) The term of office of a voting member of the panel shall be 4 years, except that of the original appointees, five shall be appointed for a term of 2 years, five shall be appointed for a term of 3 years, and five shall be appointed for a term of 4 years, as specified by the Administrator at the time of appointment.
+&emsp;(A) The term of office of a voting member of the panel shall be 4 years, except that of theoriginal appointees, five shall be appointed for a term of 2 years, five shall be appointed for a term of 3 years, and five shall be appointed for a term of 4 years, as specified by the Administrator at the time of appointment.
 
 &emsp;(B) Any individual appointed to a partial or full term may be reappointed for one additional full term. A voting member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office.
 
@@ -54,7 +54,7 @@ The panel shall meet on a biannual basis and, at any other time, at the call of 
 
 #### (f) Powers
 
-The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
+The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
 
 (Pub. L. 105–384, title III, §305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, §432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, §4, Oct. 10, 2008, 122 Stat. 4107.)
 

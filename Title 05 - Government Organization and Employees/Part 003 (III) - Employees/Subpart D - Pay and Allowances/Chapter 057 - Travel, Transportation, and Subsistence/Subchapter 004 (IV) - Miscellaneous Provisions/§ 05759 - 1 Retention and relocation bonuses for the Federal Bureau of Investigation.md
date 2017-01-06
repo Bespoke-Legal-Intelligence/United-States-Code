@@ -20,7 +20,7 @@ Service Agreement.—Payment of a bonus under this section is contingent upon th
 
 &emsp;(1) the period of service the individual shall be required to complete in return for the bonus; and
 
-&emsp;(2) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, andthe effect of the termination, including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.
+&emsp;(2) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, and the effect of the termination, including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.
 
 (c)
 

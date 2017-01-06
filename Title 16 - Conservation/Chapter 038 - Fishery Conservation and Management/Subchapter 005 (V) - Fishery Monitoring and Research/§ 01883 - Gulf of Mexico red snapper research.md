@@ -4,7 +4,7 @@
 
 (1) Within 30 days of October 11, 1996, the Secretary shall initiate an independent peer review to evaluate—
 
-&emsp;(A) the accuracy and adequacy of fishery statistics used by the Secretary for the red snapper fishery in the Gulf of Mexico to account for all commercial, recreational, and charter fishing harvests and fishing effort on the stock;
+&emsp;(A) the accuracy and adequacy of fishery statistics used by the Secretary for the red snapper fishery in the Gulf of Mexico to account for all commercial, recreational, andcharter fishing harvests and fishing effort on the stock;
 
 &emsp;(B) the appropriateness of the scientific methods, information, and models used by the Secretary to assess the status and trends of the Gulf of Mexico red snapper stock and as the basis for the fishery management plan for the Gulf of Mexico red snapper fishery;
 

@@ -44,7 +44,7 @@ Special Apportionment Categories.—(1) The Secretary shall use amounts availabl
 
 &emsp;&emsp;(v) been designated by the Secretary as a reliever airport to an airport with 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.
 
-(2) If the Secretary decides that an amount required to be used for grants under paragraph (1) of this subsection cannot be used for a fiscal year because there are insufficient qualified grant applications, the amount the Secretary determines cannot be used is available during the fiscal year for grants for other airports or for other purposes for which amounts are authorized for grants under section 48103 of this title.
+(2) If the Secretary decides that an amount required to be used for grants under paragraph (1) of this subsection cannot be used for a fiscal year because there are insufficient qualifiedgrant applications, the amount the Secretary determines cannot be used is available during the fiscal year for grants for other airports or for other purposes for which amounts are authorized for grants under section 48103 of this title.
 
 (3)
 
@@ -246,7 +246,7 @@ Subsec. (f). Pub. L. 106–181, §129, amended subsec. (f) generally. Prior to a
 
 "(f)
 
-Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subsection, if the Secretary finds, based on the notices the Secretary receives under section 47105(f) of this title or otherwise, that an amount apportioned under section 47114 of this title will not be used for grants during a fiscal year, the Secretary may use an equal amount for grants during that fiscal year for any of the purposes for which amounts are authorized for grants under section 48103 of this title.
+Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subsection, if the Secretary finds, based on the notices the Secretary receives under section 47105(f) of this title or otherwise, that an amount apportioned under section 47114 of this title will not be used for grants during a fiscal year, the Secretary may use an equal amount for grants during that fiscal year for any of the purposes for whichamounts are authorized for grants under section 48103 of this title.
 
 "(2) The Secretary may make a grant under paragraph (1) of this subsection only if the Secretary decides that—
 

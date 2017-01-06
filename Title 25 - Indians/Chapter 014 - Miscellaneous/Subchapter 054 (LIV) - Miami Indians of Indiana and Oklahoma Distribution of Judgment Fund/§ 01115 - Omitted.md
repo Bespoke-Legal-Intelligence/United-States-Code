@@ -1,0 +1,6 @@
+### §1115. Omitted
+
+#### Codification
+
+Section, Pub. L. 89–659, §5, Oct. 14, 1966, 80 Stat. 909, which related to applications for enrollment, was omitted from the Code as being of special and not general application.
+

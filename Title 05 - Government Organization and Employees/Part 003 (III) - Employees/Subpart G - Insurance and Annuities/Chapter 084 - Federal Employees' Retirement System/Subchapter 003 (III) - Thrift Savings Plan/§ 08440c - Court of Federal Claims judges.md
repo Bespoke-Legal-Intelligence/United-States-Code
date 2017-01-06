@@ -6,7 +6,7 @@
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of this subchapter and subchapter VII shall apply with respect to Court of Federal Claims judges who make contributions to the Thrift Savings Fund under subsection (a) of this section.
 
-(2) The amount contributed by a Court of Federal Claims judge for any pay period shall not exceed the maximum percentage of such judge's basic pay for such pay period allowable under section 8440f.
+(2) The amount contributed by a Court of Federal Claims judge for any pay period shall not exceed the maximum percentage of such judge'sbasic pay for such pay period allowable under section 8440f.
 
 (3) No contributions shall be made under section 8432(c) of this title for the benefit of a Court of Federal Claims judge making contributions under subsection (a) of this section.
 

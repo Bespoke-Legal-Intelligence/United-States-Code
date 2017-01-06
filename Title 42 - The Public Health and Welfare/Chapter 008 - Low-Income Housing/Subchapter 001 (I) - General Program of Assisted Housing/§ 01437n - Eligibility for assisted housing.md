@@ -30,7 +30,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (iii) Family choice
 
-&emsp;&emsp;&emsp;Incentives referred to in clause (ii) may be made available by a public housing agency only in a manner that allows for the eligible family to have the sole discretion in determining whether to accept the incentive and an agency may not take any adverse action toward any eligible family for choosing not to accept an incentive and occupancy of a project described in clause\(i)(II),<sup>2</sup> <i>Provided</i>, That the skipping of a family on a waiting list to reach another family to implement the policy under clause (i) shall not be considered an adverse action. An agency implementing an admissions policy under this subparagraph shall implement the policy in a manner that does not prevent or interfere with the use of site-based waiting lists authorized under section 1437d(s) <sup>3</sup> of this title.
+&emsp;&emsp;&emsp;Incentives referred to in clause (ii) may be made available by a public housing agency only in a manner that allows for the eligible family to have the sole discretion in determining whether to accept the incentive and an agency may not take any adverse action toward any eligible family for choosing not to accept an incentive and occupancy of a project described in clause (i)(II),<sup>2</sup> <i>Provided</i>, That the skipping of a family on a waiting list to reach another family to implement the policy under clause (i) shall not be considered an adverse action. An agency implementing an admissions policy under this subparagraph shall implement the policy in a manner that does not prevent or interfere with the use of site-based waiting lists authorized under section 1437d(s) <sup>3</sup> of this title.
 
 #### (4) Fungibility with tenant-based assistance
 
@@ -44,7 +44,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 &emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
 
-&emsp;&emsp;&emsp;(ii) the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) of this section for such fiscal year.
+&emsp;&emsp;&emsp;(ii) the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) for such fiscal year.
 
 #### (C) Limitations on credit number
 
@@ -64,7 +64,45 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (E) Qualified family
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified family" means a family having an income described in subsection (b)(1) of this section.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified family" means a family having an income described in subsection (b)(1).
+
+#### (5) Limitations on tenancy for over-income families
+
+#### (A) Limitations
+
+&emsp;&emsp;Except as provided in subparagraph (D), in the case of any family residing in a dwelling unit of public housing whose income for the most recent two consecutive years, as determined pursuant to income reviews conducted pursuant to section 1437a(a)(6) of this title, has exceeded the applicable income limitation under subparagraph (C), the public housing agency shall—
+
+&emsp;&emsp;&emsp;(i) notwithstanding any other provision of this chapter, charge such family as monthly rent for the unit occupied by such family an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the applicable fair market rental established under section 1437f(c) of this title for a dwelling unit in the same market area of the same size; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of the monthly subsidy provided under this chapter for the dwelling unit, which shall include any amounts from the Operating Fund and Capital Fund under section 1437g of this title used for the unit, as determined by the agency in accordance with regulations that the Secretary shall issue to carry out this subclause; or
+
+&emsp;&emsp;&emsp;(ii) terminate the tenancy of such family in public housing not later than 6 months after the income determination described in subparagraph (A).
+
+#### (B) Notice
+
+&emsp;&emsp;In the case of any family residing in a dwelling unit of public housing whose income for a year has exceeded the applicable income limitation under subparagraph (C), upon the conclusion of such year the public housing agency shall provide written notice to such family of the requirements under subparagraph (A).
+
+#### (C) Income limitation
+
+&emsp;&emsp;The income limitation under this subparagraph shall be 120 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income limitations higher or lower than 120 percent of such median income on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs, or unusually high or low family incomes, vacancy rates, or rental costs.
+
+#### (D) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to a family occupying a dwelling unit in public housing pursuant to paragraph (5) of section 1437a(a) of this title.
+
+#### (E) Reports on over-income families and waiting lists
+
+&emsp;&emsp;The Secretary shall require that each public housing agency shall—
+
+&emsp;&emsp;&emsp;(i) submit a report annually, in a format required by the Secretary, that specifies—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of families residing, as of the end of the year for which the report is submitted, in public housing administered by the agency who had incomes exceeding the applicable income limitation under subparagraph (C); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of families, as of the end of such year, on the waiting lists for admission to public housing projects of the agency; and
+
+&emsp;&emsp;&emsp;(ii) make the information reported pursuant to clause (i) publicly available.
 
 #### (b) Income eligibility for tenant-based section 1437f assistance
 
@@ -92,7 +130,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (4) Prohibition of skipping
 
-&emsp;In developing admission procedures implementing paragraphs (1), (2), and (3), the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence. Nothing in this paragraph or this subsection may be construed to prevent an owner of housing assisted under a contract for project-based assistance from establishing a preference for occupancy insuch housing for families containing a member who is employed.
+&emsp;In developing admission procedures implementing paragraphs (1), (2), and (3), the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence. Nothing in this paragraph or this subsection may be construed to prevent an owner of housing assisted under a contract for project-based assistance from establishing a preference for occupancy in such housing for families containing a member who is employed.
 
 #### (5) Exception
 
@@ -118,9 +156,97 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (d) Establishment of different standards
 
-Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
+Notwithstanding subsection (a)(2) or (b)(1), if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
 
-#### (e) Repealed. Pub. L. 105–276, title V, §576(d)(2), Oct. 21, 1998, 112 Stat. 2640
+#### (e) Eligibility for assistance based on assets
+
+#### (1) Limitation on assets
+
+&emsp;Subject to paragraph (3) and notwithstanding any other provision of this chapter, a dwelling unit assisted under this chapter may not be rented and assistance under this chapter may not be provided, either initially or at each recertification of family income, to any family—
+
+&emsp;&emsp;(A) whose net family assets exceed $100,000, as such amount is adjusted annually by applying an inflationary factor as the Secretary considers appropriate; or
+
+&emsp;&emsp;(B) who has a present ownership interest in, a legal right to reside in, and the effective legal authority to sell, real property that is suitable for occupancy by the family as a residence, except that the prohibition under this subparagraph shall not apply to—
+
+&emsp;&emsp;&emsp;(i) any property for which the family is receiving assistance under subsection (y) or (o)(12) of section 1437f of this title;
+
+&emsp;&emsp;&emsp;(ii) any person that is a victim of domestic violence; or
+
+&emsp;&emsp;&emsp;(iii) any family that is offering such property for sale.
+
+#### (2) Net family assets
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection, the term "net family assets" means, for all members of the household, the net cash value of all assets after deducting reasonable costs that would be incurred in disposing of real property, savings, stocks, bonds, and other forms of capital investment. Such term does not include interests in Indian trust land, equity in property for which the family is receiving assistance under subsection (y) or (o)(12) of section 1437f of this title, equity accounts in homeownership programs of the Department of Housing and Urban Development, or Family Self Sufficiency accounts.
+
+#### (B) Exclusions
+
+&emsp;&emsp;Such term does not include—
+
+&emsp;&emsp;&emsp;(i) the value of personal property, except for items of personal property of significant value, as the Secretary may establish or the public housing agency may determine;
+
+&emsp;&emsp;&emsp;(ii) the value of any retirement account;
+
+&emsp;&emsp;&emsp;(iii) real property for which the family does not have the effective legal authority necessary to sell such property;
+
+&emsp;&emsp;&emsp;(iv) any amounts recovered in any civil action or settlement based on a claim of malpractice, negligence, or other breach of duty owed to a member of the family and arising out of law, that resulted in a member of the family being disabled;
+
+&emsp;&emsp;&emsp;(v) the value of any Coverdell education savings account under section 530 of title 26 or any qualified tuition program under section 529 of such title; and
+
+&emsp;&emsp;&emsp;(vi) such other exclusions as the Secretary may establish.
+
+#### (C) Trust funds
+
+&emsp;&emsp;In cases in which a trust fund has been established and the trust is not revocable by, or under the control of, any member of the family or household, the value of the trust fund shall not be considered an asset of a family if the fund continues to be held in trust. Any income distributed from the trust fund shall be considered income for purposes of section 1437a(b) of this title and any calculations of annual family income, except in the case of medical expenses for a minor.
+
+#### (3) Self-certification
+
+#### (A) Net family assets
+
+&emsp;&emsp;A public housing agency or owner may determine the net assets of a family, for purposes of this section, based on a certification by the family that the net assets of such family do not exceed $50,000, as such amount is adjusted annually by applying an inflationary factor as the Secretary considers appropriate.
+
+#### (B) No current real property ownership
+
+&emsp;&emsp;A public housing agency or owner may determine compliance with paragraph (1)(B) based on a certification by the family that such family does not have any current ownership interest in any real property at the time the agency or owner reviews the family's income.
+
+#### (C) Standardized forms
+
+&emsp;&emsp;The Secretary may develop standardized forms for the certifications referred to in subparagraphs (A) and (B).
+
+#### (4) Compliance for public housing dwelling units
+
+&emsp;When recertifying family income with respect to families residing in public housing dwelling units, a public housing agency may, in the discretion of the agency and only pursuant to a policy that is set forth in the public housing agency plan under section 1437c–1 of this title for the agency, choose not to enforce the limitation under paragraph (1).
+
+#### (5) Enforcement
+
+&emsp;When recertifying the income of a family residing in a dwelling unit assisted under this chapter, a public housing agency or owner may choose not to enforce the limitation under paragraph (1) or may establish exceptions to such limitation based on eligibility criteria, but only pursuant to a policy that is set forth in the public housing agency plan under section 1437c–1 of this title for the agency or under a policy adopted by the owner. Eligibility criteria for establishing exceptions may provide for separate treatment based on family type and may be based on different factors, such as age, disability, income, the ability of the family to find suitable alternative housing, and whether supportive services are being provided.
+
+#### (6) Authority to delay evictions
+
+&emsp;In the case of a family residing in a dwelling unit assisted under this chapter who does not comply with the limitation under paragraph (1), the public housing agency or project owner may delay eviction or termination of the family based on such noncompliance for a period of not more than 6 months.
+
+#### (7) Verifying income
+
+&emsp;(A) Beginning in fiscal year 2018, the Secretary shall require public housing agencies to require each applicant for, or recipient of, benefits under this chapter to provide authorization by the applicant or recipient (or by any other person whose income or resources are material to the determination of the eligibility of the applicant or recipient for such benefits) for the public housing agency to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to the applicant or recipient (or any such other person) whenever the public housing agency determines the record is needed in connection with a determination with respect to such eligibility or the amount of such benefits.
+
+&emsp;(B) Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(1)\], an authorization provided by an applicant or recipient (or any other person whose income or resources are material to the determination of the eligibility of the applicant or recipient) pursuant to subparagraph (A) of this paragraph shall remain effective until the earliest of—
+
+&emsp;&emsp;(i) the rendering of a final adverse decision on the applicant's application for eligibility for benefits under this chapter;
+
+&emsp;&emsp;(ii) the cessation of the recipient's eligibility for benefits under this chapter; or
+
+&emsp;&emsp;(iii) the express revocation by the applicant or recipient (or such other person referred to in subparagraph (A)) of the authorization, in a written notification to the Secretary.
+
+&emsp;(C)(i) An authorization obtained by the public housing agency pursuant to this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[12 U.S.C. 3401 et seq.\] for purposes of section 1103(a) of such Act \[12 U.S.C. 3403(a)\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[12 U.S.C. 3404(a)\].
+
+&emsp;(ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[12 U.S.C. 3403(b)\] shall not apply to requests by the public housing agency pursuant to an authorization provided under this clause.
+
+&emsp;(iii) A request by the public housing agency pursuant to an authorization provided under this clause is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(3)\] and the flush language of section 1102 of such Act \[12 U.S.C. 3402\].
+
+&emsp;(iv) The public housing agency shall inform any person who provides authorization pursuant to this paragraph of the duration and scope of the authorization.
+
+&emsp;(D) If an applicant for, or recipient of, benefits under this chapter (or any such other person referred to in subparagraph (A)) refuses to provide, or revokes, any authorization made by the applicant or recipient for the public housing agency to obtain from any financial institution any financial record, the public housing agency may, on that basis, determine that the applicant or recipient is ineligible for benefits under this subchapter.
 
 #### (f) Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises
 
@@ -130,7 +256,7 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069; Pub. L. 113–76, div. L, title II, §238(b), Jan. 17, 2014, 128 Stat. 635.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069; Pub. L. 113–76, div. L, title II, §238(b), Jan. 17, 2014, 128 Stat. 635; Pub. L. 114–201, title I, §§103, 104, July 29, 2016, 130 Stat. 792, 793.)
 
 #### References in Text
 
@@ -142,11 +268,17 @@ The Low-Income Housing Preservation and Resident Homeownership Act of 1990, refe
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of Title 12, Banks and Banking, and which amended section 1715z–6 of Title 12, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended section 1715z–15 of Title 12 and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
+The Right to Financial Privacy Act, referred to in subsec. (e)(7)(C)(i), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+
 #### Codification
 
 October 1, 1981, referred to in subsec. (c)(1), (2), was in the original "the effective date of the Housing and Community Development Amendments of 1981" and "such effective date", meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(5). Pub. L. 114–201, §103, added par. (5).
+
+Subsec. (e). Pub. L. 114–201, §104, added subsec. (e).
 
 <b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–76, §238(b)(1), substituted "extremely low-income families" for "families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
@@ -156,7 +288,7 @@ Subsec. (c)(3). Pub. L. 113–76, §238(b)(3), substituted "extremely low-income
 
 <b>1999</b>—Subsecs. (a)(2)(A), (c)(3). Pub. L. 106–74, §205(1), inserted before the period at end "; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
-<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
+<b>1998</b>—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on orafter Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
 Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 
@@ -208,7 +340,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease tobe effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date
 

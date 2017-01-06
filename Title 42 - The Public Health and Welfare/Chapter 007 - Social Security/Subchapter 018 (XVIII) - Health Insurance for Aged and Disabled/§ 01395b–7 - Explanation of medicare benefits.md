@@ -6,7 +6,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 &emsp;(1) lists the item or service for which payment has been made and the amount of such payment for each item or service; and
 
-&emsp;(2) includes a notice of the individual's right to request an itemized statement (as provided in subsection (b) of this section).
+&emsp;(2) includes a notice of the individual's right to request an itemized statement (as provided in subsection (b)).
 
 #### (b) Request for itemized statement for medicare items and services
 
@@ -18,7 +18,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after the date on which a request under paragraph (1) has beenmade, a person described in such paragraph shall furnish an itemized statement describing each item or service provided to the individual requesting the itemized statement.
+&emsp;&emsp;Not later than 30 days after the date on which a request under paragraph (1) has been made, a person described in such paragraph shall furnish an itemized statement describing each item or service provided to the individual requesting the itemized statement.
 
 #### (B) Penalty
 

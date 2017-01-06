@@ -20,7 +20,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(8) All controlled substances which have been possessed in violation of this subchapter.
 
-&emsp;(9) All listed chemicals, all drug manufacturing equipment, all tableting machines, all encapsulating machines, and all gelatin capsules, which have been imported, exported, manufactured, possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired, imported, or exported, in violation of this subchapter or subchapter II of this chapter.
+&emsp;(9) All listed chemicals, all drug manufacturing equipment, all tableting machines, all encapsulating machines, and all gelatin capsules, which have been imported, exported, manufactured, possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired, imported, or exported, in violation of this subchapter or subchapter II.
 
 &emsp;(10) Any drug paraphernalia (as defined in section 863 of this title).
 
@@ -90,9 +90,9 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 #### (f) Forfeiture and destruction of schedule I and II substances
 
-(1) All controlled substances in schedule I or II that are possessed, transferred, sold, or offered for sale in violation of the provisions of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products shall be deemed contraband and seized and summarily forfeited to the United States. Similarly, all substances in schedule I or II, which are seized or come into the possession of the United States, the owners of which are unknown, shall be deemed contraband and summarily forfeited to the United States.
+(1) All controlled substances in schedule I or II that are possessed, transferred, sold, or offered for sale in violation of the provisions of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products shall be deemed contraband and seized and summarily forfeited to the United States. Similarly, all substances in schedule I or II, which are seized or come into the possession of the United States, the owners of which are unknown, shall be deemed contraband and summarily forfeited to the United States.
 
-(2) The Attorney General may direct the destruction of all controlled substances in schedule I or II seized for violation of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products under such circumstances as the Attorney General may deem necessary.
+(2) The Attorney General may direct the destruction of all controlled substances in schedule I or II seized for violation of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products under such circumstances as the Attorney General may deem necessary.
 
 #### (g) Plants
 
@@ -104,7 +104,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 #### (h) Vesting of title in United States
 
-All right, title, and interest in property described in subsection (a) of this section shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
+All right, title, and interest in property described in subsection (a) shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
 
 #### (i) Stay of civil forfeiture proceedings
 
@@ -118,11 +118,11 @@ In addition to the venue provided for in section 1395 of title 28 or any other p
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
-(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub.L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
+(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsec. (a)(9), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II, referred to in subsec. (a)(9), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 812(c) of this title.
 
@@ -162,7 +162,7 @@ Subsec. (a)(11). Pub. L. 101–647, §2008, added par. (11).
 
 Subsec. (e)(1)(B). Pub. L. 101–647, §2003, inserted ", by public sale or any other commercially feasible means," after "sell".
 
-Subsec. (f). Pub. L. 101–647, §2004, inserted "; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products" after "this subchapter" in pars. (1) and (2).
+Subsec. (f). Pub. L. 101–647, §2004, inserted "; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products" after "this subchapter" in pars. (1) and (2).
 
 <b>1989</b>—Subsec. (e)(3)(B). Pub. L. 101–189 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies."
 

@@ -10,7 +10,7 @@ In prescribing and implementing such regulations with respect to applications su
 
 &emsp;(1) the appropriate State historic preservation officer (as determined in accordance with regulations prescribed by the Secretary of the Interior) shall, not later than 45 days after receiving information from the applicant relating to the identification of properties which will be affected by the project for which the application is made and which may meet the criteria established by the Secretary of the Interior for inclusion on the National Register of Historic Places (together with documentation relating to such inclusion), submit his or her comments, together with such other information considered necessary by the officer, to the applicant concerning such properties; and
 
-&emsp;(2) the Secretary of the Interior shall, not later than 45 days after receiving from the applicant the information described in paragraph (1) and the comments submitted to the applicant in accordance with paragraph (1), make adetermination as to whether any of the properties affected by the project for which the application is made is eligible for inclusion on the National Register of Historic Places.
+&emsp;(2) the Secretary of the Interior shall, not later than 45 days after receiving from the applicant the information described in paragraph (1) and the comments submitted to the applicant in accordance with paragraph (1), make a determination as to whether any of the properties affected by the project for which the application is made is eligible for inclusion on the National Register of Historic Places.
 
 #### (c) Regulations by Advisory Council on Historic Preservation providing for expeditious action
 
@@ -28,7 +28,7 @@ Section 5318 of this title, referred to in subsec. (a), probably should be a ref
 
 &emsp;"(1) 'An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes', approved October 14, 1966, as amended; and
 
-&emsp;"(2) 'An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam', approved June 27, 1960, as amended."
+&emsp;"(2) 'An Act to provide for the preservation of historical and archaeological data (including relics andspecimens) which might otherwise be lost as a result of the construction of a dam', approved June 27, 1960, as amended."
 
 Subsec. (c). Pub. L. 113–287, §5(k)(4)(B), substituted "section 306108 of title 54" for "section 106 of the Act referred to in subsection (a)(1)".
 

@@ -10,7 +10,7 @@ An individual may participate in the National Intelligence Reserve Corps only if
 
 #### (c) Terms of participation
 
-The Director of National Intelligence shall prescribe the terms and conditions under whicheligible individuals may participate in the National Intelligence Reserve Corps.
+The Director of National Intelligence shall prescribe the terms and conditions under which eligible individuals may participate in the National Intelligence Reserve Corps.
 
 #### (d) Expenses
 

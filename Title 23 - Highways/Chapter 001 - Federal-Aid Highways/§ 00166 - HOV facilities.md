@@ -108,7 +108,7 @@ Facility Management, Operation, Monitoring, and Enforcement.—
 
 &emsp;(1)
 
-In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to theSecretary that the authority will carry out the following responsibilities with respect to the facility:
+In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the authority will carry out the following responsibilities with respect to the facility:
 
 &emsp;&emsp;(A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways and submitting to the Secretary annual reports of those impacts.
 
@@ -134,7 +134,7 @@ Submission of plan.—Not later than 180 days after the date on which a facility
 
 &emsp;&emsp;&emsp;(ii)
 
-Notice of approval or disapproval.—Not later than 60 days after the date of receipt of a plan under clause (i), the Secretary shall provide to the public authority a written notice indicating whether the Secretary has approved or disapproved the plan based on a determination of whether the implementation of the plan will make significant progress toward bringing the HOV facility into compliance with the minimum average operating speed performance standard.
+Notice of approval or disapproval.—Not later than 60 days afterthe date of receipt of a plan under clause (i), the Secretary shall provide to the public authority a written notice indicating whether the Secretary has approved or disapproved the plan based on a determination of whether the implementation of the plan will make significant progress toward bringing the HOV facility into compliance with the minimum average operating speed performance standard.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -230,7 +230,7 @@ Low emission and energy-efficient vehicle.—The term "low emission and energy-e
 
 &emsp;&emsp;(A) has been certified by the Administrator as meeting the Tier II emission level established in regulations prescribed by the Administrator under section 202(i) of the Clean Air Act (42 U.S.C. 7521(i)) for that make and model year vehicle; and
 
-&emsp;&emsp;(B)(i) is certified by the Administrator of the Environmental Protection Agency, in consultation with the manufacturer, to have achieved not less than a 50-percent increase in city fuel economy or not less than a 25-percent increase in combined city-highway fuel economy (or such greater percentage of city or city-highway fuel economy as may be determined by a State under subsection (d)(2)(C)) relative to a comparable vehicle that is an internal combustion gasoline fueled vehicle (other than a vehicle that has propulsion energy from onboard hybrid sources); or
+&emsp;&emsp;(B)(i) is certified by the Administrator of the Environmental Protection Agency, in consultation with the manufacturer, to have achieved not less than a 50-percent increase in city fuel economy or not less than a 25-percent increase in combined city-highway fuel economy (or such greater percentage of city or city-highway fuel economy as may be determined by a State under subsection\(d)(2)(C)) relative to a comparable vehicle that is an internal combustion gasoline fueled vehicle (other than a vehicle that has propulsion energy from onboard hybrid sources); or
 
 &emsp;&emsp;(ii) is an alternative fuel vehicle.
 

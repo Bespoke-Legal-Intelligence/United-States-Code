@@ -26,7 +26,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;(9) Any necessary temporary relocation of tenants during rehabilitation.
 
-&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that wouldhave been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
+&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that would have been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
 
 &emsp;(11) Implementation of a replacement housing plan.
 
@@ -84,7 +84,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(E) identification and description of the public housing project or projects involved, and a description of the composition of the tenants, including family size and income;
 
-&emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
+&emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
 &emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, where applicable, by a resident council or other entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 

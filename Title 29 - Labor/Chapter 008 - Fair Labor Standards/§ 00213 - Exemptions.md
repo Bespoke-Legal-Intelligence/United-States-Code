@@ -68,7 +68,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures ascompiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -118,7 +118,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (c) Child labor requirements
 
-(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
+(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relatingto child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
 &emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
@@ -260,7 +260,7 @@ The provisions of sections 206, 207, and 212 of this title shall not apply with 
 
 #### (e) Maximum hour requirements and minimum wage employees
 
-The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establishminimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
+The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establish minimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
 
 #### (f) Employment in foreign countries and certain United States territories
 
@@ -364,7 +364,7 @@ Subsec. (b)(30). Pub. L. 103–329, §633(d)(2), added par. (30).
 
 Subsec. (a)(4). Pub. L. 101–157, §3(c)(1), struck out par. (4) which related to employees employed by an establishment which qualified as an exempt retail establishment under clause (2) of this subsection and was recognized as a retail establishment in the particular industry notwithstanding that such establishment made or processed at the retail establishment the goods that it sold.
 
-Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted "provided by paragraph (6) of subsection (a)" for "provided by paragraphs (2) and (6) of subsection (a) of this section" and struck out before period at end ", except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) if it were in an enterprise described in section 203(s) of this title".
+Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted "provided by paragraph (6) of subsection (a)" for "provided by paragraphs (2) and (6) of subsection (a)" and struck out before period at end ", except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) if it were in an enterprise described in section 203(s) of this title".
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–70 struck out "; and the Canal Zone" after "Johnston Island".
 
@@ -390,11 +390,11 @@ Subsec. (i). Pub. L. 95–151, §6(b), added subsec. (i).
 
 Subsec. (j). Pub. L. 95–151, §7(b), added subsec. (j).
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted "$225,000" for "$250,000" effective Jan. 1, 1975, Pub. L. 93–259, §8(b), substituted "$200,000" for "$225,000" effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out "or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)" after "section 203(s) of this title" effective Jan. 1, 1977.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted "$225,000" for "$250,000" effective Jan. 1, 1975, Pub. L.93–259, §8(b), substituted "$200,000" for "$225,000" effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out "or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)" after "section 203(s) of this title" effective Jan. 1, 1977.
 
 Subsec. (a)(9). Pub. L. 93–259, §23(a)(1), repealed exemption provision respecting any employee employed by an establishment which is a motion picture theater. See subsec. (b)(27) of this section.
 
-Subsec. (a)(11). Pub. L. 93–259, §10(a), repealed exemption provision respecting any employee or proprietor in a retail or service establishment which qualifies as an exempt retail or service establishment under former par. (2) of subsec. (a) with respect to whom provisionsof sections 206 and 207 of this title would not otherwise apply, engaged in handling telegraphic messages for public under an agency or contract arrangement with a telegraph company where telegraph message revenue of such agency does not exceed $500 a month.
+Subsec. (a)(11). Pub. L. 93–259, §10(a), repealed exemption provision respecting any employee or proprietor in a retail or service establishment which qualifies as an exempt retail or service establishment under former par. (2) of subsec. (a) with respect to whom provisions of sections 206 and 207 of this title would not otherwise apply, engaged in handling telegraphic messages for public under an agency or contract arrangement with a telegraph company where telegraph message revenue of such agency does not exceed $500 a month.
 
 Subsec. (a)(13). Pub. L. 93–259, §23(b)(1), repealed exemption provision respecting any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to mill, processing plant, railroad, or other transportation terminal, if number of employees employed by his employer in such forestry or lumbering operations does not exceed eight. See subsec. (b)(28) of this section.
 
@@ -502,7 +502,7 @@ Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwaj
 
 Subsec. (a)(2). Pub. L. 87–30, §9, inserted conditional provision, including subclauses (i) to (iv).
 
-Subsec. (a)(5). Pub. L. 87–30, §9, inserted "propagating" and "or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations" after "taking" and "life", respectively, and substituted "loading and unloading when performed by any such employee" for "including employment in the loading, unloading,or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof". See subsec. (b)(4) of this section.
+Subsec. (a)(5). Pub. L. 87–30, §9, inserted "propagating" and "or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations" after "taking" and "life", respectively, and substituted "loading and unloading when performed by any such employee" for "including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof". See subsec. (b)(4) of this section.
 
 Subsec. (a)(7). Pub. L. 87–30, §9, substituted "Secretary" for "Administrator".
 
@@ -610,7 +610,7 @@ Pub. L. 93–259, §10(b)(2), (3), Apr. 8, 1974, 88 Stat. 63, 64, provided that 
 
 Pub. L. 93–259, §11(b), (c), Apr. 8, 1974, 88 Stat. 64, provided that the amendment and repeal made by subsecs. (b) and (c) of section 11 are effective one year and two years after May 1, 1974, respectively.
 
-Pub. L. 93–259, §13(b)–(d), Apr. 8, 1974, 88 Stat. 64, provided that the amendments made by subsecs. (b), (c),and (d) of section 13 are effective one year, two years, and three years after May 1, 1974, respectively.
+Pub. L. 93–259, §13(b)–(d), Apr. 8, 1974, 88 Stat. 64, provided that the amendments made by subsecs. (b), (c), and (d) of section 13 are effective one year, two years, and three years after May 1, 1974, respectively.
 
 Pub. L. 93–259, §15(b), (c), Apr. 8, 1974, 88 Stat. 65, provided that the amendment and repeal made by subsecs. (b) and (c) of section 15 are effective one year and two years after May 1, 1974, respectively.
 

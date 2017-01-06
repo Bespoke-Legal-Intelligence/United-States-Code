@@ -2,55 +2,55 @@
 
 (a)
 
-General Authority.—Subject to the requirements of this section, the Secretary of Transportation shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the priorities set forth in paragraphs (1) and (2).
+General Authority.—Subject to the requirements of this section, the Secretary shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the following:
 
 &emsp;(1)
 
-Grants to states.—
-
-&emsp;&emsp;(A)
-
-Occupant protection.—16 percent of the funds provided under this section in each fiscal year shall be allocated among States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles (as described in subsection (b)).
-
-&emsp;&emsp;(B)
-
-State traffic safety information system improvements.—14.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that meet the requirements of the State traffic safety information system improvements (as described in subsection (c)).
-
-&emsp;&emsp;(C)
-
-Impaired driving countermeasures.—52.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that meet the requirements of the impaired driving countermeasures (as described in subsection (d)).
-
-&emsp;&emsp;(D)
-
-Distracted driving.—8.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that adopt and implement effective laws to reduce distracted driving (as described in subsection (e)).
-
-&emsp;&emsp;(E)
-
-Motorcyclist safety.—1.5 percent of the funds provided under this section in each fiscal year shall be allocated among States that implement motorcyclist safety programs (as described in subsection (f)).
-
-&emsp;&emsp;(F)
-
-State graduated driver licensing laws.—5 percent of the funds provided under this section in each fiscal year shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).
-
-&emsp;&emsp;(G)
-
-Transfers.—Notwithstanding subparagraphs (A) through (F), the Secretary may reallocate, before the last day of any fiscal year, any amounts remaining available to carry out any of the activities described in subsections (b) through (g) to increase the amount made available to carry out any of the other activities described in such subsections, or the amount made available under section 402, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.
-
-&emsp;&emsp;(H)
-
-Maintenance of effort.—
-
-&emsp;&emsp;&emsp;(i)
-
-Requirements.—No grant may be made to a State in any fiscal year under subsection (b), (c), or (d) unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all State and local sources for programs described in those sections at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012.
-
-&emsp;&emsp;&emsp;(ii)
-
-Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements under clause (i) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances.
+Occupant protection.—In each fiscal year, 13 percent of the funds provided under this section shall be allocated among States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles (as described in subsection (b)).
 
 &emsp;(2)
 
-Other priority programs.—Funds provided under this section in each fiscal year may be used for research into technology to prevent alcohol-impaired driving (as described in subsection <sup>1</sup> 403(h)).
+State traffic safety information system improvements.—In each fiscal year, 14.5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to State traffic safety information system improvements (as described in subsection (c)).
+
+&emsp;(3)
+
+Impaired driving countermeasures.—In each fiscal year, 52.5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to impaired driving countermeasures (as described in subsection (d)).
+
+&emsp;(4)
+
+Distracted driving.—In each fiscal year, 8.5 percent of the funds provided under this section shall be allocated among States that adopt and implement effective laws to reduce distracted driving (as described in subsection (e)).
+
+&emsp;(5)
+
+Motorcyclist safety.—In each fiscal year, 1.5 percent of the funds provided under this section shall be allocated among States that implement motorcyclist safety programs (as described in subsection (f)).
+
+&emsp;(6)
+
+State graduated driver licensing laws.—In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).
+
+&emsp;(7)
+
+Nonmotorized safety.—In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to nonmotorized safety (as described in subsection (h)).
+
+&emsp;(8)
+
+Transfers.—Notwithstanding paragraphs (1) through (7), the Secretary shall reallocate, before the last day of any fiscal year, any amounts remaining available to carry out any of the activities described in subsections (b) through (h) to increase the amount made available under section 402, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.
+
+&emsp;(9)
+
+Maintenance of effort.—
+
+&emsp;&emsp;(A)
+
+Certification.—As part of the grant application required in section 402(k)(3)(F), a State receiving a grant in any fiscal year under subsection (b), (c), or (d) of this section shall provide certification that the lead State agency responsible for programs described in any of those subsections is maintaining aggregate expenditures at or above the average level of such expenditures in the 2 fiscal years prior to the date of enactment of the FAST Act.
+
+&emsp;&emsp;(B)
+
+Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements under subparagraph (A) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances.
+
+&emsp;(10)
+
+Political subdivisions.—A State may provide the funds awarded under this section to a political subdivision of the State or an Indian tribal government.
 
 (b)
 
@@ -134,7 +134,7 @@ In general.—Grant funds received pursuant to this subsection may be used to—
 
 &emsp;&emsp;(B)
 
-High seat belt use rate.—A State that is eligible for funds under paragraph (3)(A) may use up to 75 percent of such funds for any project or activity eligible for funding under section 402.
+High seat belt use rate.—A State that is eligible for funds under paragraph (3)(A) may use up to 100 percent of such funds for any project or activity eligible for funding under section 402.
 
 &emsp;(5)
 
@@ -166,7 +166,7 @@ State Traffic Safety Information System Improvements.—
 
 &emsp;(1)
 
-General authority.—Subject to the requirements under this subsection, the Secretary of Transportation shall award grants toStates to support the development and implementation of effective State programs that—
+General authority.—Subject to the requirements under this subsection, the Secretary of Transportation shall award grants to States to support the development and implementation of effective State programs that—
 
 &emsp;&emsp;(A) improve the timeliness, accuracy, completeness, uniformity, integration, and accessibility of the State safety data that is needed to identify priorities for Federal, State, and local highway and traffic safety programs;
 
@@ -278,7 +278,7 @@ Use of grant amounts.—
 
 Required programs.—High-range States shall use grant funds for—
 
-&emsp;&emsp;&emsp;(i) high visibility enforcement efforts; and
+&emsp;&emsp;&emsp;(i) high-visibility enforcement efforts; and
 
 &emsp;&emsp;&emsp;(ii) any of the activities described in subparagraph (B) if—
 
@@ -292,25 +292,27 @@ Authorized programs.—Medium-range and low-range States may use grant funds for
 
 &emsp;&emsp;&emsp;(i) any of the purposes described in subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) hiring a full-time or part-time impaired driving coordinator of the State's activities to address the enforcement and adjudication of laws regarding driving while impaired by alcohol;
+&emsp;&emsp;&emsp;(ii) hiring a full-time or part-time impaired driving coordinator of the State's activities to address the enforcement and adjudication of laws regarding driving while impaired by alcohol, drugs, or the combination of alcohol and drugs;
 
-&emsp;&emsp;&emsp;(iii) court support of high visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;
+&emsp;&emsp;&emsp;(iii) court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;
 
 &emsp;&emsp;&emsp;(iv) alcohol ignition interlock programs;
 
 &emsp;&emsp;&emsp;(v) improving blood-alcohol concentration testing and reporting;
 
-&emsp;&emsp;&emsp;(vi) paid and earned media in support of high visibility enforcement efforts, and conducting standardized field sobriety training, advanced roadside impaired driving evaluation training, and drug recognition expert training for law enforcement, and equipment and related expenditures used in connection with impaired driving enforcement in accordance with criteria established by the National Highway Traffic Safety Administration;
+&emsp;&emsp;&emsp;(vi) paid and earned media in support of high-visibility enforcement efforts, conducting standardized field sobriety training, advanced roadside impaired driving evaluation training, and drug recognition expert training for law enforcement, and equipment and related expenditures used in connection with impaired driving enforcement in accordance with criteria established by the National Highway Traffic Safety Administration;
 
-&emsp;&emsp;&emsp;(vii) training on the use of alcohol screening and brief intervention;
+&emsp;&emsp;&emsp;(vii) training on the use of alcohol and drug screening and brief intervention;
 
-&emsp;&emsp;&emsp;(viii) developing impaired driving information systems; and
+&emsp;&emsp;&emsp;(viii) training for and implementation of impaired driving assessment programs or other tools designed to increase the probability of identifying the recidivism risk of a person convicted of driving under the influence of alcohol, drugs, or a combination of alcohol and drugs and to determine the most effective mental health or substance abuse treatment or sanction that will reduce such risk;
 
-&emsp;&emsp;&emsp;(ix) costs associated with a 24-7 sobriety program.
+&emsp;&emsp;&emsp;(ix) developing impaired driving information systems; and
+
+&emsp;&emsp;&emsp;(x) costs associated with a 24-7 sobriety program.
 
 &emsp;&emsp;(C)
 
-Other programs.—Low-range States may use grant funds for any expenditure designed to reduce impaired driving based on problem identification. Medium and high-range States may use funds for such expenditures upon approval by the Secretary.
+Other programs.—Low-range States may use grant funds for any expenditure designed to reduce impaired driving based on problem identification and may use not more than 50 percent of funds made available under this subsection for any project or activity eligible for funding under section 402. Medium-range and high-range States may use funds for any expenditure designed to reduce impaired driving based on problem identification upon approval by the Secretary.
 
 &emsp;(5)
 
@@ -318,37 +320,61 @@ Grant amount.—Subject to paragraph (6), the allocation of grant funds to a Sta
 
 &emsp;(6)
 
-Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.—
+Additional grants.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.
+Grants to states with alcohol-ignition interlock laws.—The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving underthe influence of alcohol or of driving while intoxicated.
 
 &emsp;&emsp;(B)
 
-Use of funds.—Grants authorized under subparagraph (A) may be used by recipient States for any eligible activities under this subsection or section 402.
+Grants to states with 24-7 sobriety programs.—The Secretary shall make a separate grant under this subsection to each State that—
+
+&emsp;&emsp;&emsp;(i) adopts and is enforcing a law that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to receive a restriction on driving privileges; and
+
+&emsp;&emsp;&emsp;(ii) provides a 24-7 sobriety program.
 
 &emsp;&emsp;(C)
 
-Allocation.—Amounts made available under this paragraph shall be allocated among States described in subparagraph (A) in proportion to the State's apportionment under section 402 for fiscal year 2009.
+Use of funds.—Grants authorized under subparagraph (A) and subparagraph (B) may be used by recipient States for any eligible activities under this subsection or section 402.
 
 &emsp;&emsp;(D)
 
-Funding.—Not more than 15 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under this paragraph.
+Allocation.—Amounts made available under this paragraph shall be allocated among States described in subparagraph (A) and subparagraph (B) in proportion to the State's apportionment under section 402 for fiscal year 2009.
+
+&emsp;&emsp;(E)
+
+Funding.—
+
+&emsp;&emsp;&emsp;(i)
+
+Funding for grants to states with alcohol-ignition interlock laws.—Not more than 12 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under subparagraph (A).
+
+&emsp;&emsp;&emsp;(ii)
+
+Funding for grants to states with 24-7 sobriety programs.—Not more than 3 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under subparagraph (B).
+
+&emsp;&emsp;(F) Exceptions.—A State alcohol-ignition interlock law under subparagraph (A) may include exceptions for the following circumstances:
+
+&emsp;&emsp;&emsp;(i) The individual is required to operate an employer's motor vehicle in the course and scope of employment and the business entity that owns the vehicle is not owned or controlled by the individual.
+
+&emsp;&emsp;&emsp;(ii) The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device.
+
+&emsp;&emsp;&emsp;(iii) A State-certified ignition interlock provider is not available within 100 miles of the individual's residence.
 
 &emsp;(7)
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) 24-7
 
-24-7 sobriety program.—The term "24-7 sobriety program" means a State law or program that authorizes a State court or a State agency, as a condition of sentence, probation, parole, or work permit, to—
+sobriety program.—The term "24-7 sobriety program" means a State law or program that authorizes a State court or an agency with jurisdiction, as a condition of bond, sentence, probation, parole, or work permit, to—
 
-&emsp;&emsp;&emsp;(i) require an individual who plead guilty or was convicted of driving under the influence of alcohol or drugs to totally abstain from alcohol or drugs for a period of time; and
+&emsp;&emsp;&emsp;(i) require an individual who was arrested for, plead guilty to, or was convicted of driving under the influence of alcohol or drugs to totally abstain from alcohol or drugs for a period of time; and
 
 &emsp;&emsp;&emsp;(ii) require the individual to be subject to testing for alcohol or drugs—
 
-&emsp;&emsp;&emsp;&emsp;(I) at least twice per day;
+&emsp;&emsp;&emsp;&emsp;(I) at least twice per day at a testing location;
 
 &emsp;&emsp;&emsp;&emsp;(II) by continuous transdermal alcohol monitoring via an electronic monitoring device; or
 
@@ -364,7 +390,7 @@ High-range state.—The term "high-range State" means a State that has an averag
 
 &emsp;&emsp;(D)
 
-Low-range state.—The term "low-range State" means a State that has an average impaired driving fatality rate of 0.30 or lower..<sup>2</sup>
+Low-range state.—The term "low-range State" means a State that has an average impaired driving fatality rate of 0.30 or lower.
 
 &emsp;&emsp;(E)
 
@@ -376,41 +402,39 @@ Distracted Driving Grants.—
 
 &emsp;(1)
 
-In general.—The Secretary shall award a grant under this subsection to any State that enacts and enforces a statute that meets the requirements set forth in paragraphs (2) and (3).
+In general.—The Secretary shall award a grant under this subsection to any State that includes distracted driving awareness as part of the State's driver's license examination, and enacts and enforces a law that meets the requirements set forth in paragraphs (2) and (3).
 
 &emsp;(2)
 
-Prohibition on texting while driving.—A State statute meets the requirements set forth in this paragraph if the statute—
+Prohibition on texting while driving.—A State law meets the requirements set forth in this paragraph if the law—
 
-&emsp;&emsp;(A) prohibits drivers from texting through a personal wireless communications device while driving;
+&emsp;&emsp;(A) prohibits a driver from texting through a personal wireless communications device while driving;
 
-&emsp;&emsp;(B) makes violation of the statute a primary offense; and
+&emsp;&emsp;(B) makes violation of the law a primary offense;
 
-&emsp;&emsp;(C) establishes—
+&emsp;&emsp;(C) establishes a minimum fine for a violation of the law; and
 
-&emsp;&emsp;&emsp;(i) a minimum fine for a first violation of the statute; and
-
-&emsp;&emsp;&emsp;(ii) increased fines for repeat violations.
+&emsp;&emsp;(D) does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.
 
 &emsp;(3)
 
-Prohibition on youth cell phone use while driving.—A State statute meets the requirements set forth in this paragraph if the statute—
+Prohibition on youth cell phone use while driving or stopped in traffic.—A State law meets the requirements set forth in this paragraph if the law—
 
-&emsp;&emsp;(A) prohibits a driver who is younger than 18 years of age from using a personal wireless communications device while driving;
+&emsp;&emsp;(A) prohibits a driver from using a personal wireless communications device while driving if the driver is—
 
-&emsp;&emsp;(B) makes violation of the statute a primary offense;
+&emsp;&emsp;&emsp;(i) younger than 18 years of age; or
 
-&emsp;&emsp;(C) requires distracted driving issues to be tested as part of the State driver's license examination; and
+&emsp;&emsp;&emsp;(ii) in the learner's permit or intermediate license stage set forth in subsection (g)(2)(B);
 
-&emsp;&emsp;(D) establishes—
+&emsp;&emsp;(B) makes violation of the law a primary offense;
 
-&emsp;&emsp;&emsp;(i) a minimum fine for a first violation of the statute; and
+&emsp;&emsp;(C) establishes a minimum fine for a violation of the law; and
 
-&emsp;&emsp;&emsp;(ii) increased fines for repeat violations.
+&emsp;&emsp;(D) does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.
 
 &emsp;(4)
 
-Permitted exceptions.—A statute that meets the requirements set forth in paragraphs (2) and (3) may provide exceptions for—
+Permitted exceptions.—A law that meets the requirements set forth in paragraph (2) or (3) may provide exceptions for—
 
 &emsp;&emsp;(A) a driver who uses a personal wireless communications device to contact emergency services;
 
@@ -418,73 +442,99 @@ Permitted exceptions.—A statute that meets the requirements set forth in parag
 
 &emsp;&emsp;&emsp;(i) operating an emergency services vehicle; and
 
-&emsp;&emsp;&emsp;(ii) engaged in the performance of their duties as emergency services personnel; and
+&emsp;&emsp;&emsp;(ii) engaged in the performance of their duties as emergency services personnel;
 
-&emsp;&emsp;(C) an individual employed as a commercial motor vehicle driver or a school bus driver who uses a personal wireless communications device within the scope of such individual's employment if such use is permitted under the regulations promulgated pursuant to section 31152 of title 49.
+&emsp;&emsp;(C) an individual employed as a commercial motor vehicle driver or a school bus driver who uses a personal wireless communications device within the scope of such individual's employment if such use is permitted under the regulations promulgated pursuant to section 31136 of title 49; and
+
+&emsp;&emsp;(D) any additional exceptions determined by the Secretary through a rulemaking process.
 
 &emsp;(5)
 
-Use of grant funds.—Of the amounts received by a State under this subsection—
+Use of grant funds.—
 
-&emsp;&emsp;(A) at least 50 percent shall be used—
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), amounts received by a State under this subsection shall be used—
 
 &emsp;&emsp;&emsp;(i) to educate the public through advertising containing information about the dangers of texting or using a cell phone while driving;
 
 &emsp;&emsp;&emsp;(ii) for traffic signs that notify drivers about the distracted driving law of the State; or
 
-&emsp;&emsp;&emsp;(iii) for law enforcement costs related to the enforcement of the distracted driving law; and
-
-&emsp;&emsp;(B) up to 50 percent may be used for any eligible project or activity under section 402.
-
-&emsp;(6)
-
-Additional grants.—In the first fiscal year that grants are awarded under this subsection, the Secretary may use up to 25 percent of the amounts available for grants under this subsection to award grants to States that—
-
-&emsp;&emsp;(A) enacted statutes before the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, which meet the requirements set forth in subparagraphs (A) and (B) of paragraph (2); and
-
-&emsp;&emsp;(B) are otherwise ineligible for a grant under this subsection.
-
-&emsp;(7)
-
-Allocation to support state distracted driving laws.—Of the amounts available under this subsection in a fiscal year for distracted driving grants, the Secretary may expend up to $5,000,000 for the development and placement of broadcast media to support the enforcement of State distracted driving laws.
-
-&emsp;(8)
-
-Distracted driving study.—
-
-&emsp;&emsp;(A)
-
-In general.—The Secretary shall conduct a study of all forms of distracted driving.
+&emsp;&emsp;&emsp;(iii) for law enforcement costs related to the enforcement of the distracted driving law.
 
 &emsp;&emsp;(B)
 
-Components.—The study conducted under subparagraph (A) shall—
+Flexibility.—
 
-&emsp;&emsp;&emsp;(i) examine the effect of distractions other than the use of personal wireless communications on motor vehicle safety;
+&emsp;&emsp;&emsp;(i) Not more than 50 percent of amounts received by a State under this subsection may be used for any eligible project or activity under section 402.
 
-&emsp;&emsp;&emsp;(ii) identify metrics to determine the nature and scope of the distracted driving problem;
+&emsp;&emsp;&emsp;(ii) Not more than 75 percent of amounts received by a State under this subsection may be used for any eligible project or activity under section 402 if the State has conformed its distracted driving data to the most recent Model Minimum Uniform Crash Criteria published by the Secretary.
 
-&emsp;&emsp;&emsp;(iii) identify the most effective methods to enhance education and awareness; and
+&emsp;(6)
 
-&emsp;&emsp;&emsp;(iv) identify the most effective method of reducing deaths and injuries caused by all forms of distracted driving.
+Additional distracted driving grants.—
 
-&emsp;&emsp;(C)
+&emsp;&emsp;(A)
 
-Report.—Not later than 1 year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, the Secretary shall submit a report containing the results of the study conducted under this paragraph to—
+In general.—Notwithstanding paragraph (1), for each of fiscal years 2017 and 2018, the Secretary shall use up to 25 percent of the amounts available for grants under this subsection to award grants to any State that—
 
-&emsp;&emsp;&emsp;(i) the Committee on Commerce, Science, and Transportation of the Senate; and
+&emsp;&emsp;&emsp;(i) in fiscal year 2017—
 
-&emsp;&emsp;&emsp;(ii) the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;&emsp;&emsp;(I) certifies that it has enacted a basic text messaging statute that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is applicable to drivers of all ages; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) makes violation of the basic text messaging statute a primary offense or secondary enforcement action as allowed by State statute; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is otherwise ineligible for a grant under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) in fiscal year 2018—
+
+&emsp;&emsp;&emsp;&emsp;(I) certifies that it has enacted a basic text messaging statute that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is applicable to drivers of all ages; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) makes violation of the basic text messaging statute a primary offense;
+
+&emsp;&emsp;&emsp;&emsp;(II) imposes fines for violations;
+
+&emsp;&emsp;&emsp;&emsp;(III) has a statute that prohibits drivers who are younger than 18 years of age from using a personal wireless communications device while driving; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) is otherwise ineligible for a grant under this subsection.
+
+&emsp;&emsp;(B)
+
+Use of grant funds.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Notwithstanding paragraph (5) and subject to clauses (ii) and (iii) of this subparagraph, amounts received by a State under subparagraph (A) may be used for activities related to the enforcement of distracted driving laws, including for public information and awareness purposes.
+
+&emsp;&emsp;&emsp;(ii)
+
+Fiscal year 2017.—In fiscal year 2017, up to 15 percent of the amounts received by a State under subparagraph (A) may be used for any eligible project or activity under section 402.
+
+&emsp;&emsp;&emsp;(iii)
+
+Fiscal year 2018.—In fiscal year 2018, up to 25 percent of the amounts received by a State under subparagraph (A) may be used for any eligible project or activity under section 402.
+
+&emsp;(7)
+
+Allocation to support state distracted driving laws.—Of the amounts available under this subsection in a fiscal year for distracted driving grants, the Secretary may expend not more than $5,000,000 for the development and placement of broadcast media to reduce distracted driving of motor vehicles.
+
+&emsp;(8)
+
+Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.
 
 &emsp;(9)
 
-Definitions.—In this subsection:
+Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
 Driving.—The term "driving"—
 
-&emsp;&emsp;&emsp;(i) means operating a motor vehicle on a public road, including operation while temporarily stationary because of traffic, a traffic light or stop sign, or otherwise; and
+&emsp;&emsp;&emsp;(i) means operating a motor vehicle on a public road; and
 
 &emsp;&emsp;&emsp;(ii) does not include operating a motor vehicle when the vehicle has pulled over to the side of, or off, an active roadway and has stopped in a location where it can safely remain stationary.
 
@@ -506,7 +556,7 @@ Public road.—The term "public road" has the meaning given such term in section
 
 &emsp;&emsp;(E)
 
-Texting.—The term "texting" means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, e-mailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.
+Texting.—The term "texting" means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, emailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.
 
 (f)
 
@@ -518,7 +568,7 @@ Grants authorized.—Subject to the requirements under this subsection, the Secr
 
 &emsp;(2)
 
-Allocation.—The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.
+Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009, except that the amount of a grant awarded to a State for a fiscal year may not exceed 25 percent of the amount apportioned to the State under such section for fiscal year 2009.
 
 &emsp;(3)
 
@@ -580,6 +630,10 @@ In general.—A State may use funds from a grant under this subsection only for 
 
 Suballocations of funds.—An agency of a State that receives a grant under this subsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
 
+&emsp;&emsp;(C)
+
+Flexibility.—Not more than 50 percent of grant funds received by a State under this subsection may be used for any eligible project or activity under section 402 if the State is in the lowest 25 percent of all States for motorcycle deaths per 10,000 motorcycle registrations based on the most recent data that conforms with criteria established by the Secretary.
+
 &emsp;(5)
 
 Definitions.—In this subsection:
@@ -604,6 +658,10 @@ Motorcyclist safety training.—The term "motorcyclist safety training" means a 
 
 State.—The term "State" has the meaning given such term in section 101(a) of title 23, United States Code.
 
+&emsp;(6)
+
+Share-the-road model language.—Not later than 1 year after the date of enactment of this paragraph, the Secretary shall update and provide to the States model language, for use in traffic safety education courses, driver's manuals, and other driver training materials, that provides instruction for drivers of motor vehicles on the importance of sharing the road safely with motorcyclists.
+
 (g)
 
 State Graduated Driver Licensing Incentive Grant.—
@@ -618,7 +676,7 @@ Minimum requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—A State meets the requirements set forth in this paragraph if the State has a graduated driver licensing law that requires novice drivers younger than 21 years of age to comply with the 2-stage licensing process described in subparagraph (B) before receiving an unrestricted driver's license.
+In general.—A State meets the requirements set forth in this paragraph if the State has a graduated driver licensing law that requires novice drivers younger than 18 years of age to comply with the 2-stage licensing process described in subparagraph (B) before receiving an unrestricted driver's license.
 
 &emsp;&emsp;(B)
 
@@ -628,9 +686,19 @@ Licensing process.—A State is in compliance with the 2-stage licensing process
 
 &emsp;&emsp;&emsp;&emsp;(I) is at least 6 months in duration;
 
-&emsp;&emsp;&emsp;&emsp;(II) prohibits the driver from using a cellular telephone or any communications device in a nonemergency situation; and
+&emsp;&emsp;&emsp;&emsp;(II) contains a prohibition on the driver using a personal wireless communications device (as defined in subsection (e)) while driving except under an exception permitted under paragraph (4) of that subsection, and makes a violation of the prohibition a primary offense;
 
-&emsp;&emsp;&emsp;&emsp;(III) remains in effect until the driver—
+&emsp;&emsp;&emsp;&emsp;(III) requires applicants to successfully pass a vision and knowledge assessment prior to receiving a learner's permit;
+
+&emsp;&emsp;&emsp;&emsp;(IV) requires that the driver be accompanied and supervised at all times while the driver is operating a motor vehicle by a licensed driver who is at least 21 years of age or is a State-certified driving instructor;
+
+&emsp;&emsp;&emsp;&emsp;(V) has a requirement that the driver—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) complete a State-certified driver education or training course; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) obtain at least 50 hours of behind-the-wheel training, with at least 10 hours at night, with a licensed driver; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) remains in effect until the driver—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) reaches 16 years of age and enters the intermediate stage; or
 
@@ -638,41 +706,31 @@ Licensing process.—A State is in compliance with the 2-stage licensing process
 
 &emsp;&emsp;&emsp;(ii) an intermediate stage that—
 
-&emsp;&emsp;&emsp;&emsp;(I) commences immediately after the expiration of the learner's permit stage;
+&emsp;&emsp;&emsp;&emsp;(I) commences immediately after the expiration of the learner's permit stage and successful completion of a driving skills assessment;
 
 &emsp;&emsp;&emsp;&emsp;(II) is at least 6 months in duration;
 
-&emsp;&emsp;&emsp;&emsp;(III) prohibits the driver from using a cellular telephone or any communications device in a nonemergency situation;
+&emsp;&emsp;&emsp;&emsp;(III) prohibits the driver from using a personal wireless communications device (as defined in subsection (e)) while driving except under an exception permitted under paragraph (4) of that subsection, and makes a violation of the prohibition a primary offense;
 
-&emsp;&emsp;&emsp;&emsp;(IV) restricts driving at night;
+&emsp;&emsp;&emsp;&emsp;(IV) for the first 6 months of the intermediate stage, restricts driving at night between the hours of 10:00 p.m. and 5:00 a.m. when not supervised by a licensed driver 21 years of age or older, excluding transportation to work, school, religious activities, or emergencies;
 
 &emsp;&emsp;&emsp;&emsp;(V) prohibits the driver from operating a motor vehicle with more than 1 nonfamilial passenger younger than 21 years of age unless a licensed driver who is at least 21 years of age is in the motor vehicle; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) remains in effect until the driver reaches 18 years of age; and
+&emsp;&emsp;&emsp;&emsp;(VI) remains in effect until the driver reaches 17 years of age; and
 
-&emsp;&emsp;&emsp;(iii) any other requirement prescribed by the Secretary of Transportation, including—
+&emsp;&emsp;&emsp;(iii) learner's permit and intermediate stages that each require, in addition to any other penalties imposed by State law, that the granting of an unrestricted driver's license be automatically delayed for any individual who, during the learner's permit or intermediate stage, is convicted of a driving-related offense during the first 6 months, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the learner's permit stage—
+&emsp;&emsp;&emsp;&emsp;(I) driving while intoxicated;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) at least 40 hours of behind-the-wheel training with a licensed driver who is at least 21 years of age;
+&emsp;&emsp;&emsp;&emsp;(II) misrepresentation of the individual's age;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a driver training course; and
+&emsp;&emsp;&emsp;&emsp;(III) reckless driving;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) a requirement that the driver be accompanied and supervised by a licensed driver, who is at least 21 years of age, at all times while such driver is operating a motor vehicle; and
+&emsp;&emsp;&emsp;&emsp;(IV) driving without wearing a seat belt;
 
-&emsp;&emsp;&emsp;&emsp;(II) in the learner's permit or intermediate stage, a requirement, in addition to any other penalties imposed by State law, that the grant of an unrestricted driver's license be automatically delayed for any individual who, during the learner's permit or intermediate stage, is convicted of a driving-related offense, including—
+&emsp;&emsp;&emsp;&emsp;(V) speeding; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) driving while intoxicated;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) misrepresentation of his or her true age;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) reckless driving;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) driving without wearing a seat belt;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) speeding; or
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) any other driving-related offense, as determined by the Secretary.
+&emsp;&emsp;&emsp;&emsp;(VI) any other driving-related offense, as determined by the Secretary.
 
 &emsp;(3)
 
@@ -712,473 +770,47 @@ Use of funds.—Of the grant funds received by a State under this subsection—
 
 &emsp;&emsp;(B) up to 75 percent may be used for any eligible project or activity under section 402.
 
+&emsp;(6)
+
+Special rule.—Notwithstanding paragraph (5), up to 100 percent of grant funds received by a State under this subsection may be used for any eligible project or activity under section 402, if the State is in the lowest 25 percent of all States for the number of drivers under age 18 involved in fatal crashes in the State per the total number of drivers under age 18 in the State based on the most recent data that conforms with criteria established by the Secretary.
+
+(h)
+
+Nonmotorized Safety.—
+
+&emsp;(1)
+
+General authority.—Subject to the requirements under this subsection, the Secretary shall award grants to States for the purpose of decreasing pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle.
+
+&emsp;(2)
+
+Federal share.—The Federal share of the cost of a project carried out by a State using amounts from a grant awarded under this subsection may not exceed 80 percent.
+
+&emsp;(3)
+
+Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined pedestrian and bicycle fatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.
+
+&emsp;(4)
+
+Use of grant amounts.—Grant funds received by a State under this subsection may be used for—
+
+&emsp;&emsp;(A) training of law enforcement officials on State laws applicable to pedestrian and bicycle safety;
+
+&emsp;&emsp;(B) enforcement mobilizations and campaigns designed to enforce State traffic laws applicable to pedestrian and bicycle safety; and
+
+&emsp;&emsp;(C) public education and awareness programs designed to inform motorists, pedestrians, and bicyclists of State traffic laws applicable to pedestrian and bicycle safety.
+
+&emsp;(5)
+
+Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.
+
 (Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111–147, title IV, §421(c)(1), Mar. 18, 2010, 124 Stat. 84; Pub. L. 112–30, title I, §121(c)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, §31105(a), July 6, 2012, 126 Stat. 741; Pub. L. 114–94, div. A, title IV, §§4005, 4014(3), Dec. 4, 2015, 129 Stat. 1501, 1513.)
-
-#### Amendment of Section
-
-<i>Pub. L. 114–94, div. A, title IV, §§4005, 4015, Dec. 4, 2015, 129 Stat. 1501, 1513, provided that, effective Oct. 1, 2016, this section is amended as follows:</i>
-
-<i>(a) Subsection (a) is amended to read as follows:</i>
-
-<i>"(a)</i>
-
-<i>General Authority.—Subject to the requirements of this section, the Secretary shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the following:</i>
-
-&emsp;<i>"(1)</i>
-
-<i>Occupant protection.—In each fiscal year, 13 percent of the funds provided under this section shall be allocated among States that adopt and implement effective occupant protection programs to reduce highway deaths and injuries resulting from individuals riding unrestrained or improperly restrained in motor vehicles (as described in subsection (b)).</i>
-
-&emsp;<i>"(2)</i>
-
-<i>State traffic safety information system improvements.—In each fiscal year, 14.5 percent of the funds provided under this section shall be al</i><i>located among States that meet requirements with respect to State traffic safety information system improvements (as described in subsection (c)).</i>
-
-&emsp;<i>"(3)</i>
-
-<i>Impaired driving countermeasures.—In each fiscal year, 52.5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to impaired driving countermeasures (as described in subsection (d)).</i>
-
-&emsp;<i>"(4)</i>
-
-<i>Distracted driving.—In each fiscal year, 8.5 percent of the funds provided under this section shall be allocated among States that adopt and implement effective laws to reduce distracted driving (as described in subsection (e)).</i>
-
-&emsp;<i>"(5)</i>
-
-<i>Motorcyclist safety.—In each fiscal year, 1.5 percent of the funds provided under this section shall be allocated among States that implement motorcyclist safety programs (as described in subsection (f)).</i>
-
-&emsp;<i>"(6)</i>
-
-<i>State graduated driver licensing laws.—In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).</i>
-
-&emsp;<i>"(7)</i>
-
-<i>Nonmotorized safety.—In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to nonmotorized safety (as described in subsection (h)).</i>
-
-&emsp;<i>"(8)</i>
-
-<i>Transfers.—Notwithstanding paragraphs (1) through (7), the Secretary shall reallocate, before the last day of any fiscal year, any amounts remaining available to carry out any of the activities described in subsections (b) through (h) to increase the amount made available under section 402, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.</i>
-
-&emsp;<i>"(9)</i>
-
-<i>Maintenance of effort.—</i>
-
-&emsp;&emsp;<i>"(A)</i>
-
-<i>Certification.—As part of the grant application required in section 402(k)(3)(F), a State receiving a grant in any fiscal year under subsection (b), (c), or (d) of this section shall provide certification that the lead State agency responsible for programs described in any of those subsections is maintaining aggregate expenditures at or above the average level of such expenditures in the 2 fiscal years prior to the date of enactment of the FAST Act.</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements under subparagraph (A) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances.</i>
-
-&emsp;<i>"(10)</i>
-
-<i>Political subdivisions.—A State may provide the funds awarded under this section to a political subdivision of the State or an Indian tribal government."</i>
-
-<i>(b) Subsection (b)(4)(B) is amended by striking "75 percent" and inserting "100 percent".</i>
-
-<i>(c) Subsection (d) is amended—</i>
-
-<i>(1) by striking paragraph (4) and inserting the following:</i>
-
-&emsp;<i>"(4)</i>
-
-<i>Use of grant amounts.—</i>
-
-&emsp;&emsp;<i>"(A)</i>
-
-<i>Required programs.—High-range States shall use grant funds for—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) high-visibility enforcement efforts; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) any of the activities described in subparagraph (B) if—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) the activity is described in the statewide plan; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) the Secretary approves the use of funding for such activity.</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Authorized programs.—Medium-range and low-range States may use grant funds for—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) any of the purposes described in subparagraph (A);</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) hiring a full-time or part-time impaired driving coordinator of the State's activities to address the enforcement and adjudication of laws regarding driving while impaired by alcohol, drugs, or the combination of alcohol and drugs;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) alcohol ignition interlock programs;</i>
-
-&emsp;&emsp;&emsp;<i>"(v) improving blood-alcohol concentration testing and reporting;</i>
-
-&emsp;&emsp;&emsp;<i>"(vi) paid and earned media in support of high-visibility enforcement efforts, conducting standardized field sobriety training, advanced roadside impaired driving evaluation training, and drug recognition expert training for law enforcement, and equipment and related expenditures used in connection with impaired driving enforcement in accordance with criteria established by the National Highway Traffic Safety Administration;</i>
-
-&emsp;&emsp;&emsp;<i>"(vii) training on the use of alcohol and drug screening and brief intervention;</i>
-
-&emsp;&emsp;&emsp;<i>"(viii) training for and implementation of impaired driving assessment programs or other tools designed to increase the probability of identifying the recidivism risk of a person convicted of driving under the influence of alcohol, drugs, or a combination of alcohol and drugs and to determine the most effective mental health or substance abuse treatment or sanction that will reduce such risk;</i>
-
-&emsp;&emsp;&emsp;<i>"(ix) developing impaired driving information systems; and</i>
-
-&emsp;&emsp;&emsp;<i>"(x) costs associated with a 24-7 sobriety program.</i>
-
-&emsp;&emsp;<i>"(C)</i>
-
-<i>Other programs.—Low-range States may use grant funds for any expenditure designed to reduce impaired driving based on problem identification and may use not more than 50 percent of funds made available under this subsection for any project or activity eligible for funding under section 402. Medium-range and high-range States may use funds for any expenditure designed to reduce impaired driving based on problem identification upon approval by the Secretary."</i>
-
-<i>(2) in paragraph (6)—</i>
-
-<i>(A) by amending the paragraph heading to read as follows: "</i>
-
-<i>Additional grants.—";</i>
-
-<i>(B) in subparagraph (A) by amending the subparagraph heading to read as follows: "</i>
-
-<i>Grants to states with alcohol-ignition interlock laws.—";</i>
-
-<i>(C) by redesignating subparagraphs (B) through (D) as subparagraphs (C) through (E), respectively;</i>
-
-<i>(D) by inserting after subparagraph (A), the following:</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Grants to states with 24-7 sobriety programs.—The Secretary shall make a separate grant under this subsection to each State that—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) adopts and is enforcing a law that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to receive a restriction on driving privileges; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) provides a 24-7 sobriety program."</i>
-
-<i>(E) in subparagraph (C), as redesignated, by inserting "and subparagraph (B)" after "subparagraph (A)";</i>
-
-<i>(F) in subparagraph (D), as redesignated, by inserting "and subparagraph (B)" after "subparagraph (A)";</i>
-
-<i>(G) by amending subparagraph (E), as redesignated, to read as follows:</i>
-
-&emsp;&emsp;<i>"(E)</i>
-
-<i>Funding.—</i>
-
-&emsp;&emsp;&emsp;<i>"(i)</i>
-
-<i>Funding for grants to states with alcohol-ignition interlock laws.—Not more than 12 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under subparagraph (A).</i>
-
-&emsp;&emsp;&emsp;<i>"(ii)</i>
-
-<i>Funding for grants to states with 24-7 sobriety programs.—Not more than 3 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under subparagraph (B)."</i>
-
-<i>(H) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(F)</i>
-
-<i>Exceptions.—A State alcohol-ignition interlock law under subparagraph (A) may include exceptions for the following circumstances:</i>
-
-&emsp;&emsp;&emsp;<i>"(i) The individual is required to operate an employer's motor vehicle in the course and scope of employment and the business entity that owns the vehicle is not owned or controlled by the individual.</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device.</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) A State-certified ignition interlock provider is not available within 100 miles of the individual's residence."</i>
-
-<i>(3) in paragraph (7)—</i>
-
-<i>(A) in subparagraph (A)—</i>
-
-<i>(i) in the matter preceding clause (i)—</i>
-
-<i>(I) by striking "or a State agency" and inserting "or an agency with jurisdiction"; and</i>
-
-<i>(II) by inserting "bond," before "sentence";</i>
-
-<i>(ii) in clause (i) by striking "who plead guilty or" and inserting "who was arrested for, plead guilty to, or"; and</i>
-
-<i>(iii) in clause (ii)(I) by inserting "at a testing location" after "per day"; and</i>
-
-<i>(B) in subparagraph (D) by striking the second period at the end.</i>
-
-<i>(d) Subsection (e) is amended to read as follows:</i>
-
-<i>"(e)</i>
-
-<i>Distracted Driving Grants.—</i>
-
-&emsp;<i>"(1)</i>
-
-<i>In general.—The Secretary shall award a grant under this subsection to any State that includes distracted driving awareness as part of the State's driver's license examination, and enacts and enforces a law that meets the requirements set forth in paragraphs (2) and (3).</i>
-
-&emsp;<i>"(2)</i>
-
-<i>Prohibition on texting while driving.—A State law meets the requirements set forth in this paragraph if the law—</i>
-
-&emsp;&emsp;<i>"(A) prohibits a driver from texting through a personal wireless communications device while driving;</i>
-
-&emsp;&emsp;<i>"(B) makes violation of the law a primary offense;</i>
-
-&emsp;&emsp;<i>"(C) establishes a minimum fine for a violation of the law; and</i>
-
-&emsp;&emsp;<i>"(D) does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.</i>
-
-&emsp;<i>"(3)</i>
-
-<i>Prohibition on youth cell phone use while driving or stopped in traffic.—A State law meets the requirements set forth in this paragraph if the law—</i>
-
-&emsp;&emsp;<i>"(A) prohibits a driver from using a personal wireless communications device while driving if the driver is—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) younger than 18 years of age; or</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) in the learner's permit or intermediate license stage set forth in subsection (g)(2)(B);</i>
-
-&emsp;&emsp;<i>"(B) makes violation of the law a primary offense;</i>
-
-&emsp;&emsp;<i>"(C) establishes a minimum fine for a violation of the law; and</i>
-
-&emsp;&emsp;<i>"(D) does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.</i>
-
-&emsp;<i>"(4)</i>
-
-<i>Permitted exceptions.—A law that meets the requirements set forth in paragraph (2) or (3) may provide exceptions for—</i>
-
-&emsp;&emsp;<i>"(A) a driver who uses a personal wireless communications device to contact emergency services;</i>
-
-&emsp;&emsp;<i>"(B) emergency services personnel who use a personal wireless communications device while—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) operating an emergency services vehicle; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) engaged in the performance of their duties as emergency services personnel;</i>
-
-&emsp;&emsp;<i>"(C) an individual employed as a commercial motor vehicle driver or a school bus driver who uses a personal wireless communications device within the scope of such individual's employment if such use is permitted under the regulations promulgated pursuant to section 31136 of title 49; and</i>
-
-&emsp;&emsp;<i>"(D) any additional exceptions determined by the Secretary through a rulemaking process.</i>
-
-&emsp;<i>"(5)</i>
-
-<i>Use of grant funds.—</i>
-
-&emsp;&emsp;<i>"(A)</i>
-
-<i>In general.—Except as provided in subparagraph (B), amounts received by a State under this subsection shall be used—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) to educate the public through advertising containing information about the dangers of texting or using a cell phone while driving;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) for traffic signs that notify drivers about the distracted driving law of the State; or</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) for law enforcement costs related to the enforcement of the distracted driving law.</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Flexibility.—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) Not more than 50 percent of amounts received by a State under this subsection may</i><i>be used for any eligible project or activity under section 402.</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) Not more than 75 percent of amounts received by a State under this subsection may be used for any eligible project or activity under section 402 if the State has conformed its distracted driving data to the most recent Model Minimum Uniform Crash Criteria published by the Secretary.</i>
-
-&emsp;<i>"(6)</i>
-
-<i>Additional distracted driving grants.—</i>
-
-&emsp;&emsp;<i>"(A)</i>
-
-<i>In general.—Notwithstanding paragraph (1), for each of fiscal years 2017 and 2018, the Secretary shall use up to 25 percent of the amounts available for grants under this subsection to award grants to any State that—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) in fiscal year 2017—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) certifies that it has enacted a basic text messaging statute that—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(aa) is applicable to drivers of all ages; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(bb) makes violation of the basic text messaging statute a primary offense or secondary enforcement action as allowed by State statute; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) is otherwise ineligible for a grant under this subsection; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) in fiscal year 2018—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) certifies that it has enacted a basic text messaging statute that—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(aa) is applicable to drivers of all ages; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(bb) makes violation of the basic text messaging statute a primary offense;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) imposes fines for violations;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) has a statute that prohibits drivers who are younger than 18 years of age from using a personal wireless communications device while driving; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) is otherwise ineligible for a grant under this subsection.</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Use of grant funds.—</i>
-
-&emsp;&emsp;&emsp;<i>"(i)</i>
-
-<i>In general.—Notwithstanding paragraph (5) and subject to clauses (ii) and (iii) of this subparagraph, amounts received by a State under subparagraph (A) may be used for activities related to the enforcement of distracted driving laws, including for public information and awareness purposes.</i>
-
-&emsp;&emsp;&emsp;<i>"(ii)</i>
-
-<i>Fiscal year 2017.—In fiscal year 2017, up to 15 percent of the amounts received by a State under subparagraph (A) may be used for any eligible project or activity under section 402.</i>
-
-&emsp;&emsp;&emsp;<i>"(iii)</i>
-
-<i>Fiscal year 2018.—In fiscal year 2018, up to 25 percent of the amounts received by a State under subparagraph (A) may be used for any eligible project or activity under section 402.</i>
-
-&emsp;<i>"(7)</i>
-
-<i>Allocation to support state distracted driving laws.—Of the amounts available under this subsection in a fiscal year for distracted driving grants, the Secretary may expend not more than $5,000,000 for the development and placement of broadcast media to reduce distracted driving of motor vehicles.</i>
-
-&emsp;<i>"(8)</i>
-
-<i>Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.</i>
-
-&emsp;<i>"(9)</i>
-
-<i>Definitions.—In this subsection, the following definitions apply:</i>
-
-&emsp;&emsp;<i>"(A)</i>
-
-<i>Driving.—The term 'driving'—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) means operating a motor vehicle on a public road; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) does not include operating a motor vehicle when the vehicle has pulled over to the side of, or off, an active roadway and has stopped in a location where it can safely remain stationary.</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Personal wireless communications device.—The term 'personal wireless communications device'—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 (47 U.S.C. 332(c)(7)(C)(i))) are transmitted; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) does not include a global navigation satellite system receiver used for positioning, emergency notification, or navigation purposes.</i>
-
-&emsp;&emsp;<i>"(C)</i>
-
-<i>Primary offense.—The term 'primary offense' means an offense for which a law enforcement officer may stop a vehicle solely for the purpose of issuing a citation in the absence of evidence of another offense.</i>
-
-&emsp;&emsp;<i>"(D)</i>
-
-<i>Public road.—The term 'public road' has the meaning given such term in section 402(c).</i>
-
-&emsp;&emsp;<i>"(E)</i>
-
-<i>Texting.—The term 'texting' means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, emailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication."</i>
-
-<i>(e) Subsection (f) is amended—</i>
-
-<i>(1) by striking paragraph (2) and inserting the following:</i>
-
-&emsp;<i>"(2)</i>
-
-<i>Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009, except that the amount of a grant awarded to a State for a fiscal year may not exceed 25 percent of the amount apportioned to the State under such section for fiscal year 2009."</i>
-
-<i>(2) in paragraph (4) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>"(C)</i>
-
-<i>Flexibility.—Not more than 50 percent of grant funds received by a State under this subsection may be used for any eligible project or activity under section 402 if the State is in the lowest 25 percent of all States for motorcycle deaths per 10,000 motorcycle registrations based on the most recent data that conforms with criteria established by the Secretary."</i>
-
-<i>(3) by adding at the end the following:</i>
-
-&emsp;<i>"(6)</i>
-
-<i>Share-the-road model language.—Not later than 1 year after the date of enactment of this paragraph, the Secretary shall update and provide to the States model language, for use in traffic safety education courses, driver's manuals, and other driver training materials, that provides instruction for drivers of motor vehicles on the importance of sharing the road safely with motorcyclists."</i>
-
-<i>(f) Subsection (g) is amended—</i>
-
-<i>(1) in paragraph (2)—</i>
-
-<i>(A) in subparagraph (A) by striking "21" and inserting "18"; and</i>
-
-<i>(B) by amending subparagraph (B) to read as follows:</i>
-
-&emsp;&emsp;<i>"(B)</i>
-
-<i>Licensing process.—A State is in compliance with the 2-stage licensing process described in this subparagraph if the State's driver's license laws include—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) a learner's permit stage that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) is at least 6 months in duration;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) contains a prohibition on the driver using a personal wireless communications device (as defined in subsection (e)) while driving except under an exception permitted under paragraph (4) of that subsection, and makes a violation of the prohibition a primary offense;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) requires applicants to successfully pass a vision and knowledge assessment prior to receiving a learner's permit;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) requires that the driver be accompanied and supervised at all times while the driver is operating a motor vehicle by a licensed driver who is at least 21 years of age or is a State-certified driving instructor;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(V) has a requirement that the driver—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(aa) complete a State-certified driver education or training course; or</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(bb) obtain at least 50 hours of behind-the-wheel training, with at least 10 hours at night, with a licensed driver; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VI) remains in effect until the driver—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(aa) reaches 16 years of age and enters the intermediate stage; or</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>"(bb) reaches 18 years of age;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) an intermediate stage that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) commences immediately after the expiration of the learner's permit stage and successful completion of a driving skills assessment;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) is at least 6 months in duration;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) prohibits the driver from using a personal wireless communications device (as defined in subsection (e)) while driving except under an exception permitted under paragraph (4) of that subsection, and makes a violation of the prohibition a primary offense;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) for the first 6 months of the intermediate stage, restricts driving at night between the hours of 10:00 p.m. and 5:00 a.m. when not supervised by a licensed driver 21 years of age or older, excluding transportation to work, school, religious activities, or emergencies;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(V) prohibits the driver from operating a motor vehicle with more than 1 nonfamilial passenger younger than 21 years of age unless a licensed driver who is at least 21 years of age is in the motor vehicle; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VI) remains in effect until the driver reaches 17 years of age; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) learner's permit and intermediate stages that each require, in addition to any other penalties imposed by State law, that the granting of an unrestricted driver's license be automatically delayed for any individual who, during the learner's permit or intermediate stage, is convicted of a driving-related offense during the first 6 months, including—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(I) driving while intoxicated;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(II) misrepresentation of the individual's age;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(III) reckless driving;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(IV) driving without wearing a seat belt;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(V) speeding; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VI) any other driving-related offense, as determined by the Secretary."</i>
-
-<i>(2) by adding at the end the following:</i>
-
-&emsp;<i>"(6)</i>
-
-<i>Special rule.—Notwithstanding paragraph (5), up to 100 percent of grant funds received by a State under this subsection may be used for any eligible project or activity under section 402, if the State is in the lowest 25 percent of all States for the number of drivers under age 18 involved in fatal crashes in the State per the total number of drivers under age 18 in the State based on the most recent data that conforms with criteria established by the Secretary."</i>
-
-<i>(g) by adding at the end of the section the following:</i>
-
-<i>"(h)</i>
-
-<i>Nonmotorized Safety.—</i>
-
-&emsp;<i>"(1)</i>
-
-<i>General authority.—Subject to the requirements under this subsection, the Secretary shall award grants to States for the purpose of decreasing pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle.</i>
-
-&emsp;<i>"(2)</i>
-
-<i>Federal share.—The Federal share of the cost of a project carried out by a State using amounts from a grant awarded under this subsection may not exceed 80 percent.</i>
-
-&emsp;<i>"(3)</i>
-
-<i>Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined pedestrian and bicycle fatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.</i>
-
-&emsp;<i>"(4)</i>
-
-<i>Use of grant amounts.—Grant funds received by a State under this subsection may be used for—</i>
-
-&emsp;&emsp;<i>"(A) training of law enforcement officials on State laws applicable to pedestrian and bicycle safety;</i>
-
-&emsp;&emsp;<i>"(B) enforcement mobilizations and campaigns designed to enforce State traffic laws applicable to pedestrian and bicycle safety; and</i>
-
-&emsp;&emsp;<i>"(C) public education and awareness programs designed to inform motorists, pedestrians, and bicyclists of State traffic laws applicable to pedestrian and bicycle safety.</i>
-
-&emsp;<i>"(5)</i>
-
-<i>Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009."</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
-The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsecs. (a)(1)(H)(i), (e)(6)(A), (8)(C), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+The date of enactment of the FAST Act, referred to in subsec. (a)(9)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+The date of enactment of this paragraph, referred to in subsec. (f)(6), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Prior Provisions
 
@@ -1186,7 +818,7 @@ A prior section 405, added Pub. L. 93–87, title II, §230(a), Aug. 13, 1973, 8
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–94, §4005(a), amended subsec. (a) generally. Prior to amendment, text relatedto the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
+<b>2015</b>—Subsec. (a). Pub. L. 114–94, §4005(a), amended subsec. (a) generally. Prior to amendment, text related to the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
 
 Subsec. (b)(4)(B). Pub. L. 114–94, §4005(b), substituted "100 percent" for "75 percent".
 
@@ -1204,7 +836,7 @@ In general.—".
 
 Subsec. (d)(6)(B). Pub. L. 114–94, §4005(c)(2)(D), added subpar. (B). Former subsec. (B) redesignated (C).
 
-Subsec. (d)(6)(C). Pub. L. 114–94, §4014(3)(A)(ii), which directed substitution of "in proportion to the State's apportionment under section 402 for fiscal year 2009" for "on the basis of the apportionment formula set forth in section 402(c)" in subpar. (D) as redesignated by Pub. L. 114–94, §4005(c)(2)(C), was executed by making substitution to subpar. (C), pending future execution of Pub. L. 114–94, §4005, to reflect the probable intent of Congress.
+Subsec. (d)(6)(C). Pub. L. 114–94, §4014(3)(A)(ii), which directed substitution of "in proportion to the State's apportionment under section 402 for fiscal year 2009" for "on the basis of the apportionment formula set forth in section 402(c)" in subpar. (D) as redesignated by Pub. L. 114–94, §4005(c)(2)(C), was executed by making substitution to subpar. (C) to reflect the probable intent of Congress.
 
 Pub. L. 114–94, §4005(c)(2)(C), (E), redesignated subpar. (B) as (C), and in subpar. (C) substituted "and subparagraph (B)" after "subparagraph (A)". Former subpar. (C) redesignated (D).
 
@@ -1299,8 +931,4 @@ Pub. L. 109–59, title II, §2011, Aug. 10, 2005, 119 Stat. 1538, as amended by
 #### Child Passenger Protection Education Grants
 
 Pub. L. 105–178, title II, §2003(b), June 9, 1998, 112 Stat. 327, authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

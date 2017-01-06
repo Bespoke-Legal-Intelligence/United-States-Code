@@ -2,13 +2,13 @@
 
 #### (a) General rule
 
-The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings todetermine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
+The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings to determine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
 
 #### (b) Parties
 
 (1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
 
-(2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect to such petition under subsection (c) of this section shall afford all interested persons an opportunity to submit relevant, written information—
+(2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect to such petition under subsection (c) shall afford all interested persons an opportunity to submit relevant, written information—
 
 &emsp;(A) relating to the existence of the evidence described in section 300aa–13(a)(1)(B) of this title, or
 
@@ -60,7 +60,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 &emsp;(ii) be issued as expeditiously as practicable but not later than 240 days, exclusive of suspended time under subparagraph (C), after the date the petition was filed.
 
-> The decision of the special master may be reviewed by the United States Court of Federal Claims in accordance with subsection (e) of this section.
+> The decision of the special master may be reviewed by the United States Court of Federal Claims in accordance with subsection (e).
 
 (B) In conducting a proceeding on a petition a special master—
 
@@ -112,15 +112,15 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (f) Appeals
 
-The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of thedate of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
+The findings of fact and conclusions of law of the United States Court of Federal Claims on apetition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
 
 #### (g) Notice
 
 If—
 
-&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
+&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D), and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C)), or
 
-&emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section) after the date on which the petition was filed,
+&emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D), and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C)) after the date on which the petition was filed,
 
 > the special master or court shall notify the petitioner under such petition that the petitioner may withdraw the petition under section 300aa–21(b) of this title or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special master or court, as the case may be.
 
@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 100–360, §411(o)(2), made technical amendment to directo
 
 Pub. L. 100–360, §411(o)(3)(A), added Pub. L. 100–203, §4308(b), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted "United States Claims Court" for "districtcourts of the United States" and "the court" for "the courts".
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted "United States Claims Court" for "district courts of the United States" and "the court" for "the courts".
 
 Subsec. (c)(1). Pub. L. 100–203, §4307(3)(B), substituted "the United States Claims Court" for "the district court of the United States in which the petition is filed".
 

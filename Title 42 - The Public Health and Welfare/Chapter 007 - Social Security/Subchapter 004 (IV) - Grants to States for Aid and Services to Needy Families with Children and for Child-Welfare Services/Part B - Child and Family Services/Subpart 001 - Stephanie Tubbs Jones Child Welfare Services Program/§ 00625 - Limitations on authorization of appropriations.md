@@ -24,5 +24,5 @@ Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payment
 
 #### Effective Date
 
-Section effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as an Effective Date of 2006 Amendment note under section 621 of this title.
+Section effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter forcalendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as an Effective Date of 2006 Amendment note under section 621 of this title.
 

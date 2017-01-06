@@ -28,7 +28,7 @@ For purposes of this section, the term "graduate" means, unless otherwise specif
 
 #### (2) Definition
 
-&emsp;As used in this subsection, the term "new program" means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a) of this section.
+&emsp;As used in this subsection, the term "new program" means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a).
 
 #### (3) Criteria
 

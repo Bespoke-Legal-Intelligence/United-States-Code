@@ -56,7 +56,7 @@ The Attorney General shall annually (1) select the controlled substance (or cont
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(7), was in the original as added by Pub. L. 99–646 "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. In the subsec. (a)(7) added by Pub. L. 99–570, the reference was "this title", meaning title II of Pub. L. 91–513 which is popularly known as the "Controlled Substances Act" and is classified principally to this subchapter. For complete classification of this Act and title II to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a)(7), was in the original as added by Pub. L. 99–646 "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. In the subsec. (a)(7) added by Pub. L. 99–570, the reference was "this title", meaning title II of Pub. L. 91–513 which is popularly known as the "Controlled Substances Act" and isclassified principally to this subchapter. For complete classification of this Act and title II to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Schedule II, referred to in subsec. (c), is set out in section 812(c) of this title.
 
@@ -160,7 +160,7 @@ Pub. L. 105–107, title I, §104(e), Nov. 20, 1997, 111 Stat. 2250.
 
 Pub. L. 104–293, title I, §104(d), Oct. 11, 1996, 110 Stat. 3464.
 
-Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided that: "During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: <i>Provided</i>, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense."
+Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided that: "During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shallbe to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: <i>Provided</i>, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense."
 
 Similar provisions were contained in the following prior appropriation act:
 

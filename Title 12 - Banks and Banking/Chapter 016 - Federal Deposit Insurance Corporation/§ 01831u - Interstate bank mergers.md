@@ -82,7 +82,7 @@
 
 #### (B) Penalty for failure to comply
 
-&emsp;&emsp;The responsible agency may not approve an application for an interstate mergertransaction if the applicant materially fails to comply with subparagraph (A).
+&emsp;&emsp;The responsible agency may not approve an application for an interstate merger transaction if the applicant materially fails to comply with subparagraph (A).
 
 #### (2) Concentration limits
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;The responsible agency may not approve an application for an interstate merger transaction if—
 
-&emsp;&emsp;&emsp;(i) any bank involved in the transaction (including all insured depository institutions which are affiliates of any such bank) has a branch in any State in which any other bank involved in the transaction has a branch; and
+&emsp;&emsp;&emsp;(i) any bank involved in the transaction (including all insured depository institutions which are affiliates of any suchbank) has a branch in any State in which any other bank involved in the transaction has a branch; and
 
 &emsp;&emsp;&emsp;(ii) the resulting bank (including all insured depository institutions which would be affiliates of the resulting bank), upon consummation of the transaction, would control 30 percent or more of the total amount of deposits of insured depository institutions in any such State.
 
@@ -146,7 +146,7 @@
 
 #### (B) Imposition of shares tax by host States
 
-&emsp;&emsp;In the case of a branch of an out-of-State bank which results from an interstate merger transaction, a proportionate amount of the value of the shares of the out-of-Statebank may be subject to any bank shares tax levied or imposed by the host State, or any political subdivision of such host State that imposes such tax based upon a method adopted by the host State, which may include allocation and apportionment.
+&emsp;&emsp;In the case of a branch of an out-of-State bank which results from an interstate merger transaction, a proportionate amount of the value of the shares of the out-of-State bank may be subject to any bank shares tax levied or imposed by the host State, or any political subdivision of such host State that imposes such tax based upon a method adopted by the host State, which may include allocation and apportionment.
 
 #### (2) Applicability of antitrust laws
 
@@ -306,7 +306,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (f)(1)(B)(i)(IV), is Pub. L.111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (f)(1)(B)(i)(IV), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 #### Amendments
 

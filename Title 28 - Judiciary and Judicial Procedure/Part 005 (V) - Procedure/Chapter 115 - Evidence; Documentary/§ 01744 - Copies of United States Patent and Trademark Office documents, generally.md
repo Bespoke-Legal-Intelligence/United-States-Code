@@ -4,7 +4,7 @@ Copies of letters patent or of any records, books, papers, or drawings belonging
 
 Any person making application and paying the required fee may obtain such certified copies.
 
-(June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, §92(c), 63 Stat. 103; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(15)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A-584.)
+(June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, §92(c), 63 Stat. 103; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(15)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Historical and Revision Notes
 

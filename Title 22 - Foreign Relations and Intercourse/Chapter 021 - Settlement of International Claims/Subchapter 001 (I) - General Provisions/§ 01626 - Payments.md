@@ -26,7 +26,7 @@ Payments made pursuant to this subchapter shall be made only to the person or pe
 
 #### (d) Erroneous payments as bar to further recovery
 
-Whenever the Secretary of the Treasury shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against theUnited States, its officers, agents, or employees with respect to such payment.
+Whenever the Secretary of the Treasury shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against the United States, its officers, agents, or employees with respect to such payment.
 
 #### (e) Acquiescence in conditions of subchapter
 

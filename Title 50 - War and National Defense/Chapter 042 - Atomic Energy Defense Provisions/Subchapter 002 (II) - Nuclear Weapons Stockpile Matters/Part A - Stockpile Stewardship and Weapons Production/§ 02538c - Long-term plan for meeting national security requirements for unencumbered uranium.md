@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Concurrent with the submission to Congress of the budget of the President under section 1105(a)of title 31, in each even-numbered year beginning in 2016 and ending in 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
+Concurrent with the submission to Congress of the budget of the President under section 1105(a) of title 31, in each even-numbered year beginning in 2016 and ending in 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
 
 #### (b) Plan requirements
 

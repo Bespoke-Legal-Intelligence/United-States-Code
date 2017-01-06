@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Director; Office
 
-&emsp;The terms "Director" and "Office" mean the Director and Office specified in subsection (c) of this section.
+&emsp;The terms "Director" and "Office" mean the Director and Office specified in subsection (c).
 
 #### (2) Federally qualified health center and rural health clinic
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Frontier community
 
-&emsp;The term "frontier community" shall have the meaning given the term in regulations issued under subsection (r) of this section.
+&emsp;The term "frontier community" shall have the meaning given the term in regulations issued under subsection (r).
 
 #### (4) Medically underserved area
 
@@ -50,7 +50,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (1) Telehealth network grants
 
-&emsp;The Director may, in carrying out the telehealth network grant program referred to in subsection (b) of this section, award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
+&emsp;The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
 
 &emsp;&emsp;(A) expand access to, coordinate, and improve the quality of health care services;
 
@@ -60,7 +60,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (2) Telehealth resource centers grants
 
-&emsp;The Director may, in carrying out the telehealth resource centers grant program referred to in subsection (b) of this section, award grants to eligible entities for projects to demonstrate how telehealth technologies can be used in the areas and communities, and for the populations, described in paragraph (1), to establish telehealth resource centers.
+&emsp;The Director may, in carrying out the telehealth resource centers grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used in the areas and communities, and for the populations, described in paragraph (1), to establish telehealth resource centers.
 
 #### (e) Grant periods
 
@@ -72,13 +72,13 @@ The Director may award grants under this section for periods of not more than 4 
 
 #### (A) Grant recipient
 
-&emsp;&emsp;To be eligible to receive a grant under subsection (d)(1) of this section, an entity shall be a nonprofit entity.
+&emsp;&emsp;To be eligible to receive a grant under subsection (d)(1), an entity shall be a nonprofit entity.
 
 #### (B) Telehealth networks
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To be eligible to receive a grant under subsection (d)(1) of this section, an entity shall demonstrate that the entity will provide services through a telehealth network.
+&emsp;&emsp;&emsp;To be eligible to receive a grant under subsection (d)(1), an entity shall demonstrate that the entity will provide services through a telehealth network.
 
 #### (ii) Nature of entities
 
@@ -114,11 +114,11 @@ The Director may award grants under this section for periods of not more than 4 
 
 #### (2) Telehealth resource centers grants
 
-&emsp;To be eligible to receive a grant under subsection (d)(2) of this section, an entity shall be a nonprofit entity.
+&emsp;To be eligible to receive a grant under subsection (d)(2), an entity shall be a nonprofit entity.
 
 #### (g) Applications
 
-To be eligible to receive a grant under subsection (d) of this section, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+To be eligible to receive a grant under subsection (d), an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;(1) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -138,13 +138,13 @@ To be eligible to receive a grant under subsection (d) of this section, an eligi
 
 #### (h) Terms; conditions; maximum amount of assistance
 
-The Secretary shall establish the terms and conditions of each grant program described in subsection (b) of this section and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) of this section for each fiscal year.
+The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year.
 
 #### (i) Preferences
 
 #### (1) Telehealth networks
 
-&emsp;In awarding grants under subsection (d)(1) of this section for projects involving telehealth networks, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
+&emsp;In awarding grants under subsection (d)(1) for projects involving telehealth networks, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
 
 #### (A) Organization
 
@@ -182,7 +182,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (2) Telehealth resource centers
 
-&emsp;In awarding grants under subsection (d)(2) of this section for projects involving telehealth resource centers, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
+&emsp;In awarding grants under subsection (d)(2) for projects involving telehealth resource centers, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
 
 #### (A) Provision of services
 
@@ -190,7 +190,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (B) Collaboration and sharing of expertise
 
-&emsp;&emsp;The eligible entity has a demonstrated record of collaborating and sharing expertise with providers of telehealth services at the national, regional, State, and local levels.
+&emsp;&emsp;The eligible entity has a demonstrated record of collaborating and sharing expertisewith providers of telehealth services at the national, regional, State, and local levels.
 
 #### (C) Broad range of telehealth services
 
@@ -212,7 +212,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (2) Telehealth networks
 
-&emsp;In awarding grants under subsection (d)(1) of this section for a fiscal year, the Director shall ensure that—
+&emsp;In awarding grants under subsection (d)(1) for a fiscal year, the Director shall ensure that—
 
 &emsp;&emsp;(A) not less than 50 percent of the funds awarded shall be awarded for projects in rural areas; and
 
@@ -222,7 +222,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (1) Telehealth network program
 
-&emsp;The recipient of a grant under subsection (d)(1) of this section may use funds received through such grant for salaries, equipment, and operating or other costs, including the cost of—
+&emsp;The recipient of a grant under subsection (d)(1) may use funds received through such grant for salaries, equipment, and operating or other costs, including the cost of—
 
 &emsp;&emsp;(A) developing and delivering clinical telehealth services that enhance access to community-based health care services in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations;
 
@@ -246,7 +246,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (2) Telehealth resource centers
 
-&emsp;The recipient of a grant under subsection (d)(2) of this section may use funds received through such grant for salaries, equipment, and operating or other costs for—
+&emsp;The recipient of a grant under subsection (d)(2) may use funds received through such grant for salaries, equipment, and operating or other costs for—
 
 &emsp;&emsp;(A) providing technical assistance, training, and support, and providing for travel expenses, for health care providers and a range of health care entities that provide or will provide telehealth services;
 
@@ -292,19 +292,19 @@ In providing services under this section, an eligible entity shall collaborate, 
 
 #### (n) Coordination with other agencies
 
-The Secretary shall coordinate activities carried out under grant programs described in subsection (b) of this section, to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar programs, to maximize the effect of public dollars in funding meritorious proposals.
+The Secretary shall coordinate activities carried out under grant programs described in subsection (b), to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar programs, to maximize the effect of public dollars in funding meritorious proposals.
 
 #### (o) Outreach activities
 
-The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b) of this section.
+The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b).
 
 #### (p) Telehealth
 
-It is the sense of Congress that, for purposes of this section, States should develop reciprocityagreements so that a provider of services under this section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
+It is the sense of Congress that, for purposes of this section, States should develop reciprocity agreements so that a provider of services under this section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
 
 #### (q) Report
 
-Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsection (b) of this section.
+Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsection (b).
 
 #### (r) Regulations
 
@@ -314,9 +314,9 @@ The Secretary shall issue regulations specifying, for purposes of this section, 
 
 There are authorized to be appropriated to carry out this section—
 
-&emsp;(1) for grants under subsection (d)(1) of this section, $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
+&emsp;(1) for grants under subsection (d)(1), $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
 
-&emsp;(2) for grants under subsection (d)(2) of this section, $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+&emsp;(2) for grants under subsection (d)(2), $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 (July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 113–55, title I, §103(a), Nov. 27, 2013, 127 Stat. 642.)
 

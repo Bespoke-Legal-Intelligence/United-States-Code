@@ -88,7 +88,7 @@ Except with respect to the specific lease transaction described in paragraph (1)
 
 Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
 
-(Pub. L. 97–459, title II, §221, as added Pub. L. 108–374, §5, Oct. 27, 2004, 118 Stat. 1795; amended Pub. L. 110–453, title II, §207(e), Dec. 2, 2008, 122 Stat. 5033.)
+(Pub. L. 97–459, title II, §221, as added Pub. L. 108–374, §5, Oct. 27, 2004, 118 Stat. 1795; amendedPub. L. 110–453, title II, §207(e), Dec. 2, 2008, 122 Stat. 5033.)
 
 #### References in Text
 

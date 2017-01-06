@@ -7,7 +7,7 @@
 | [8033\.](%C2%A7%2008033%20-%20Chief%20of%20Staff.md) | Chief of Staff. |
 | [8034\.](%C2%A7%2008034%20-%20Vice%20Chief%20of%20Staff.md) | Vice Chief of Staff. |
 | [8035\.](%C2%A7%2008035%20-%20Deputy%20Chiefs%20of%20Staff%20and%20Assistant%20Chiefs%20of%20Staff.md) | Deputy Chiefs of Staff and Assistant Chiefs of Staff. |
-| [8036\.](%C2%A7%2008036%20-%20Surgeon%20General%20appointment%3B%20grade.md) | Surgeon General: appointment; grade. |
+| [8036\.](%C2%A7%2008036%20-%20Surgeon%20General%20appointment%3B%20duties.md) | Surgeon General: appointment; duties. |
 | [8037\.](%C2%A7%2008037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md) | Judge Advocate General, Deputy Judge Advocate General: appointment; duties. |
 | [8038\.](%C2%A7%2008038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md) | Office of Air Force Reserve: appointment of Chief. |
 | [8039\.](%C2%A7%2008039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md) | Chief of Chaplains: appointment; duties. |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VII, §702(b)(3)(B), Dec. 23, 2016, 130 Stat. 2196, substituted "Surgeon General: appointment; duties" for "Surgeon General: appointment; grade" in item 8036.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title XVI, §1652(a)(2), Nov. 25, 2015, 129 Stat. 1122, added item 8040.
 
@@ -35,7 +37,7 @@
 - [&sect; 08033 - Chief of Staff](%C2%A7%2008033%20-%20Chief%20of%20Staff.md)
 - [&sect; 08034 - Vice Chief of Staff](%C2%A7%2008034%20-%20Vice%20Chief%20of%20Staff.md)
 - [&sect; 08035 - Deputy Chiefs of Staff and Assistant Chiefs of Staff](%C2%A7%2008035%20-%20Deputy%20Chiefs%20of%20Staff%20and%20Assistant%20Chiefs%20of%20Staff.md)
-- [&sect; 08036 - Surgeon General appointment; grade](%C2%A7%2008036%20-%20Surgeon%20General%20appointment%3B%20grade.md)
+- [&sect; 08036 - Surgeon General appointment; duties](%C2%A7%2008036%20-%20Surgeon%20General%20appointment%3B%20duties.md)
 - [&sect; 08037 - Judge Advocate General, Deputy Judge Advocate General appointment; duties](%C2%A7%2008037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md)
 - [&sect; 08038 - Office of Air Force Reserve appointment of Chief](%C2%A7%2008038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md)
 - [&sect; 08039 - Chief of Chaplains appointment; duties](%C2%A7%2008039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md)

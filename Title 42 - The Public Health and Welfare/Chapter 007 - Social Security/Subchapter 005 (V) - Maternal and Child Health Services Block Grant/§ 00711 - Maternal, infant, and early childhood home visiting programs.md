@@ -104,7 +104,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Corrective action plan
 
-&emsp;&emsp;&emsp;If the report submitted by the eligible entity under clause (i) fails to demonstrateimprovement in at least 4 of the areas specified in subparagraph (A), the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A), subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+&emsp;&emsp;&emsp;If the report submitted by the eligible entity under clause (i) fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A), subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
 
 #### (iii) Technical assistance
 
@@ -160,7 +160,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;&emsp;(I) The model conforms to a clear consistent home visitation model that has been in existence for at least 3 years and is research-based, grounded in relevant empirically-based knowledge, linked to program determined outcomes, associated with a national organization or institution of higher education that has comprehensive home visitation program standards that ensure high quality service delivery and continuous program quality improvement, and has demonstrated significant,<sup>2</sup> (and in the case of the service delivery model described in item (aa), sustained) positive outcomes, as described in the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), when evaluated using well-designed and rigorous—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) randomized controlled research designs, and the evaluation results have been published in a peer-reviewed journal; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) randomized controlled research designs, and the evaluation resultshave been published in a peer-reviewed journal; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) quasi-experimental research designs.
 
@@ -168,7 +168,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Majority of grant funds used for evidence-based models
 
-&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grantpaid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
+&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grant paid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
 
 #### (iii) Criteria for evidence of effectiveness of models
 
@@ -238,7 +238,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;&emsp;(B) participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
 
-&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), andsection 9840a of this title (relating to Early Head Start programs).
+&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
 
 &emsp;(10) Other information as required by the Secretary.
 
@@ -298,7 +298,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (B) Nonprofit organizations
 
-&emsp;&emsp;If, as of the beginning of fiscal year 2012, a State has not applied or been approved for a grant under this section, the Secretary may use amounts appropriated under paragraph (1) of subsection (j) that are available for expenditure under paragraph (3) of that subsection to make a grant to an eligible entity that is a nonprofit organization described in subsection (k)(1)(B) to conduct an early childhood home visitation program in the State. The Secretary shall specify the requirements for such an organization to apply for and conduct the program which shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require the organization to—
+&emsp;&emsp;If, as of the beginning of fiscal year 2012, a State has not applied or been approved for agrant under this section, the Secretary may use amounts appropriated under paragraph (1) of subsection (j) that are available for expenditure under paragraph (3) of that subsection to make a grant to an eligible entity that is a nonprofit organization described in subsection (k)(1)(B) to conduct an early childhood home visitation program in the State. The Secretary shall specify the requirements for such an organization to apply for and conduct the program which shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require the organization to—
 
 &emsp;&emsp;&emsp;(i) carry out the program based on the needs assessment conducted by the State under subsection (b); and
 
@@ -394,7 +394,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible entity" means a State, an Indian Tribe, Tribal Organization, or Urban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
+&emsp;&emsp;The term "eligible entity" means a State, an Indian Tribe, Tribal Organization, orUrban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
 
 #### (B) Nonprofit organizations
 

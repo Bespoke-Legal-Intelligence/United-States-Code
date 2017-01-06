@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) programs carried out in collaboration with elementary schools, secondary schools, and postsecondary schools; and
 
-&emsp;&emsp;(B) consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b) of this section.
+&emsp;&emsp;(B) consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b).
 
 #### (b) Grant and scholarship programs
 

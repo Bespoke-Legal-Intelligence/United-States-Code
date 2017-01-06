@@ -10,7 +10,7 @@ Requirement for Sustaining Existing Forces.—(1) The Secretary of Defense shall
 
 Sustainment Plan.—The Secretary of Defense shall require that each sustainment plan under this section include, at a minimum, the following:
 
-&emsp;(1) The milestone schedule for the development of the major defense acquisition program, including the scheduled dates for low-rate initial production, initial operational capability, full-rate production, and full operational capability and the date as of when the replacement system is scheduled to assume the majority of responsibility for the mission of the existing system.
+&emsp;(1) The milestone schedule for the development of the major defense acquisition program, including the scheduled dates for low-rate initial production, initial operational capability, full-rate production, and full operational capability and the date as of when the replacement system is scheduled to assumethe majority of responsibility for the mission of the existing system.
 
 &emsp;(2) An analysis of the existing system to assess the following:
 

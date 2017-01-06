@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Navy shall provide that the Assistant Secretary of the Navy for Financial Management shall direct and manage financial management activities and operations of the Department of the Navy, including ensuring that financial management systems of the Department of the Navy comply with subsection (b). The authority of the Assistant Secretary for such direction and management shall include the authority to—
 
-&emsp;(1) supervise and direct the preparation of budget estimates of the Department of the Navy and otherwise carry out, with respect to the Department of the Navy, the functions specified for the Under Secretary of Defense (Comptroller) in section 135(c) of this title;
+&emsp;(1) supervise and direct the preparation of budget estimates of the Department of the Navy and otherwise carry out, with respect to the Department of the Navy, the functionsspecified for the Under Secretary of Defense (Comptroller) in section 135(c) of this title;
 
 &emsp;(2) approve and supervise any project to design or enhance a financial management system for the Department of the Navy; and
 

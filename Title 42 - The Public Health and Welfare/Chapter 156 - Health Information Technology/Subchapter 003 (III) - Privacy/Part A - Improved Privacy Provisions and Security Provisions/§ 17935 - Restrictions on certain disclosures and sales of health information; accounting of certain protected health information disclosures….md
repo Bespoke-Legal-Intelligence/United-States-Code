@@ -48,11 +48,11 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 #### (2) Regulations
 
-&emsp;The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101.<sup>2</sup> Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
+&emsp;The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the <sup>3</sup> section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101.<sup>2</sup> Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
 
 #### (3) Process
 
-&emsp;In response to an <sup>3</sup> request from an individual for an accounting, a covered entity shall elect to provide either an—
+&emsp;In response to an <sup>4</sup> request from an individual for an accounting, a covered entity shall elect to provide either an—
 
 &emsp;&emsp;(A) accounting, as specified under paragraph (1), for disclosures of protected health information that are made by such covered entity and by a business associate acting on behalf of the covered entity; or
 
@@ -76,7 +76,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 #### (C) Later date
 
-&emsp;&emsp;The Secretary may set an effective date that is later that <sup>4</sup> the date specified under subparagraph (A) or (B) if the Secretary determines that such later date is necessary, but in no case may the date specified under—
+&emsp;&emsp;The Secretary may set an effective date that is later that <sup>5</sup> the date specified under subparagraph (A) or (B) if the Secretary determines that such later date is necessary, but in no case may the date specified under—
 
 &emsp;&emsp;&emsp;(i) subparagraph (A) be later than 2016; or
 
@@ -122,23 +122,31 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 In applying section 164.524 of title 45, Code of Federal Regulations, in the case that a covered entity uses or maintains an electronic health record with respect to protected health information of an individual—
 
-&emsp;(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific; and
+&emsp;(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
 
-&emsp;(2) notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity's labor costs in responding to the request for the copy (or summary or explanation).
+&emsp;(2) if the individual makes a request to a business associate for access to, or a copy of, protected health information about the individual, or if an individual makes a request to a business associate to grant such access to, or transmit such copy directly to, a person or entity designated by the individual, a business associate may provide the individual with such access or copy, which may be in an electronic form, or grant or transmit such access or copy to such person or entity designated by the individual; and
 
-(Pub. L. 111–5, div. A, title XIII, §13405, Feb. 17, 2009, 123 Stat. 264.)
+&emsp;(3) notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity's labor costs in responding to the request for the copy (or summary or explanation).
+
+(Pub. L. 111–5, div. A, title XIII, §13405, Feb. 17, 2009, 123 Stat. 264; Pub. L. 114–255, div. A, title IV, §4006(b), Dec. 13, 2016, 130 Stat. 1183.)
 
 #### References in Text
 
 Section 13423, referred to in subsec. (b)(3), means section 13423 of div. A of Pub. L. 111–5, which is set out as an Effective Date note under section 17931 of this title.
 
-Section 13101, referred to in subsec. (c)(2), means section 13101 of div. A of Pub. L. 111–5.
+Section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101, referred to in subsec. (c)(2), means section 300jj–12(b)(2)(B)(iv) of this title as added by section 13101 of div. A of Pub. L. 111–5. Section 300jj–12 of this title was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in section 300jj–12(b)(2)(B)(ii) of this title as enacted by Pub. L. 114–255.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (e)(2), (3). Pub. L. 114–255 added par. (2) and redesignated former par. (2) as (3).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Regulations."</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be "a".</i>
+<i><sup>3</sup></i><i> So in original.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be "than".</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "a".</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be "than".</i>
 

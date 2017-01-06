@@ -21,6 +21,7 @@
 | [5106h.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5106i.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005106i%20-%20Rule%20of%20construction.md) | Rule of construction. |
 | [5107\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005107%20-%20Discretionary%20programs%3B%20authorization%20of%20appropriations.md) | Discretionary programs; authorization of appropriations. |
+| [5108\.](Subchapter%20001%20%28I%29%20-%20General%20Program/%C2%A7%2005108%20-%20Monitoring%20and%20oversight.md) | Monitoring and oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

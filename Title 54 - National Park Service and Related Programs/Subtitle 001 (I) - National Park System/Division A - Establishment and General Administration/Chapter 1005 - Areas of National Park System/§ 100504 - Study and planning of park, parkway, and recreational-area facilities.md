@@ -10,7 +10,7 @@ Definition.—In this subsection, the term "State" means a State, the District o
 
 &emsp;(2)
 
-Study.—The Secretary shall cause the Service to make a comprehensive study, other than on land under the jurisdiction of the Secretary of Agriculture, of the public park, parkway, and recreational area programs of the United States, States, and political subdivisions of States and of areas of land throughout the United States that are or may be chiefly valuable as public park, parkway, or recreational areas. A study shall not be made in any State without the consent and approval of the State officials, boards, or departmentshaving jurisdiction over the land. The study shall be such as, in the judgment of the Secretary, will provide data helpful in developing a plan for coordinated and adequate public park, parkway, and recreational-area facilities for the people of the United States.
+Study.—The Secretary shall cause the Service to make a comprehensive study, other than on land under the jurisdiction of the Secretary of Agriculture, of the public park, parkway, and recreational area programs of the United States, States, and political subdivisions of States and of areas of land throughout the United States that are or may be chiefly valuable as public park, parkway, or recreational areas. A study shall not be made in any State without the consent and approval of the State officials, boards, or departments having jurisdiction over the land. The study shall be such as, in the judgment of the Secretary, will provide data helpful in developing a plan for coordinated and adequate public park, parkway, and recreational-area facilities for the people of the United States.
 
 &emsp;(3)
 

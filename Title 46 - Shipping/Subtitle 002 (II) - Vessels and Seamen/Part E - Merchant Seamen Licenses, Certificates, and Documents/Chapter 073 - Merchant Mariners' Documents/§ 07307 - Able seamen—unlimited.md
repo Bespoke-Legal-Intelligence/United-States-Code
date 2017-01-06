@@ -18,5 +18,5 @@ Section 7307 requires individuals to have at least 3 years service on deck on ve
 
 #### Acceptance of Certain Services Toward Endorsement as Able Seaman
 
-Service used to qualify for endorsement as able seaman—fishing industry to be accepted as qualifying service toward an endorsement under this section, see section 602(e)(3) of Pub. L. 101–595, set out as a note under section 7306 of this title.
+Service used to qualify for endorsement as able seaman—fishing industry to be accepted as qualifyingservice toward an endorsement under this section, see section 602(e)(3) of Pub. L. 101–595, set out as a note under section 7306 of this title.
 

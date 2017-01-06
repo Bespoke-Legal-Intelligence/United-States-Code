@@ -70,7 +70,7 @@ As used in this part, unless otherwise specified—
 
 &emsp;(11) the term "special agent" has the same meaning given in section 4044(15) of this title.
 
-(Pub. L. 96–465, title I, §852, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 615; amended Pub. L. 100–238, title II, §241, Jan. 8,1988, 101 Stat. 1776; Pub. L. 105–382, §2(a)(2), Nov. 13, 1998, 112 Stat. 3406; Pub. L. 112–96, title V, §5002(a), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, §402(a), Dec. 26, 2013, 127 Stat. 1185.)
+(Pub. L. 96–465, title I, §852, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 615; amended Pub. L. 100–238, title II, §241, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 105–382, §2(a)(2), Nov. 13, 1998, 112 Stat. 3406; Pub. L. 112–96, title V, §5002(a), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, §402(a), Dec. 26, 2013, 127 Stat. 1185.)
 
 #### References in Text
 

@@ -26,7 +26,7 @@ Chairman.—The Director is the Chairman of the National Capital Memorial Adviso
 
 (c)
 
-Advisory Role.—The National Capital Memorial Advisory Commission shall advise the Secretary of the Interior and the Administrator of General Services (as appropriate) on policy and procedures for establishment of, and proposals to establish, commemorative works in the District of Columbia and its environs and on other matters concerning commemorative works in the Nation's Capital as the Commission considers appropriate.
+Advisory Role.—The National Capital Memorial Advisory Commission shall advise the Secretary of the Interior and the Administrator of General Services (as appropriate) on policy and procedures for establishment of, and proposals to establish, commemorative works in the District of Columbia and its environs and onother matters concerning commemorative works in the Nation's Capital as the Commission considers appropriate.
 
 (d)
 

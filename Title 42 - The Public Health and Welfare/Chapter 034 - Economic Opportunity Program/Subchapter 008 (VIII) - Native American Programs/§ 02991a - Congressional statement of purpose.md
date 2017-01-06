@@ -20,7 +20,7 @@ Pub. L. 100–175, §504(b)(1), inserted ", other Native American Pacific Islan
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 504(b)(1) of Pub. L. 100–175 effective Oct. 1, 1987, and amendment by section 506(c)(1) of Pub. L. 100–175 effective upon expiration of 90-day period beginning Nov. 29, 1987, see section 701(a), (c) of Pub. L. 100–175, set out as a note under section 3001 of this title.
+Amendment by section 504(b)(1) of Pub. L. 100–175 effective Oct. 1, 1987, and amendment by section 506(c)(1) of Pub. L. 100–175 effective upon expiration of 90-day period beginning Nov. 29, 1987, see section 701(a), (c) ofPub. L. 100–175, set out as a note under section 3001 of this title.
 
 #### Alaska Federation of Natives' Study and Report With Proposals To Implement Recommendations of Alaska Natives Commission
 
@@ -106,7 +106,7 @@ Additional State Funding.—The Congress encourages the State of Alaska to provi
 
 #### Alaska Natives Commission
 
-Pub. L. 101–379, §12, Aug. 18, 1990, 104 Stat. 478, established a Joint Federal-State Commission on Policies and Programs Affecting Alaska Natives to conduct a comprehensive review of Federal and State policies and programs affecting Alaska Natives in order to identify specific actions that could be taken to help assure that public policy goals were more fully realized among Alaska Natives, further provided for membership, meetings, and other administrative affairs of the Commission, as well as specific powers and duties, further directed the Commission to submit, by no later than 18 months after its first meeting, a report with recommendations to the President, the Congress, the Governor of Alaska, and the legislature of the State of Alaska, and further provided for funding as well as termination of the Commission 180 days after the date of submission of its report.
+Pub. L. 101–379, §12, Aug. 18, 1990, 104 Stat. 478, established a Joint Federal-State Commission on Policies and Programs Affecting Alaska Natives to conduct a comprehensive review of Federal and State policies and programs affecting Alaska Natives in order to identify specific actions that could be taken to help assure that public policy goals were more fully realized among Alaska Natives, further provided for membership,meetings, and other administrative affairs of the Commission, as well as specific powers and duties, further directed the Commission to submit, by no later than 18 months after its first meeting, a report with recommendations to the President, the Congress, the Governor of Alaska, and the legislature of the State of Alaska, and further provided for funding as well as termination of the Commission 180 days after the date of submission of its report.
 
 #### Native Hawaiians Study Commission
 

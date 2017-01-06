@@ -80,7 +80,7 @@ In this division:
 
 #### (A) In general
 
-&emsp;&emsp;The term "Indian tribe" has the meaning given such term in section 450b of title 25.
+&emsp;&emsp;The term "Indian tribe" has the meaning given such term in section 5304 of title 25.
 
 #### (B) Inclusion of Pueblo and Rancheria
 

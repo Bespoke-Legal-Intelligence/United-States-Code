@@ -18,7 +18,7 @@ For purposes of this section, the term "trade or business" shall not include—
 
 #### Amendments
 
-<b>1969</b>—Pub. L. 91–172 redesignated first sentence of existing provisions as subsec. (a), and substantial portionof second sentence as subsec. (b)(1), and, in subsec. (b)(1) as so redesignated, inserted reference to section 512 of this title, and added pars. (2) and (3).
+<b>1969</b>—Pub. L. 91–172 redesignated first sentence of existing provisions as subsec. (a), and substantial portion of second sentence as subsec. (b)(1), and, in subsec. (b)(1) as so redesignated, inserted reference to section 512 of this title, and added pars. (2) and (3).
 
 #### Effective Date of 1969 Amendment
 

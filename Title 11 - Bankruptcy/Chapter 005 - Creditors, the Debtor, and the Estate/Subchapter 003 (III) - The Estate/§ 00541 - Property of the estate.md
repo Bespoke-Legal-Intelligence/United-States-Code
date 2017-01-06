@@ -32,7 +32,7 @@
 
 &emsp;(2) any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease before the commencement of the case under this title, and ceases to include any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease during the case;
 
-&emsp;(3) any eligibility of the debtor to participate in programs authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.), or any accreditation status or State licensure of the debtor as an educational institution;
+&emsp;(3) any eligibility of the debtor to participate in programs authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.),<sup>1</sup> or any accreditation status or State licensure of the debtor as an educational institution;
 
 &emsp;(4) any interest of the debtor in liquid or gaseous hydrocarbons to the extent that—
 
@@ -192,7 +192,7 @@ Section 541(e) \[enacted as (d)\] confirms the current status under the Bankrupt
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Part C of title IV of the Act was formerly classified to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 113–295 applicable with respect to cases commenced under 
 
 Amendment by section 1221(c) of Pub. L. 109–8 applicable to cases pending under this title on Apr. 20, 2005, or filed under this title on or after Apr. 20, 2005, with certain exceptions, see section 1221(d) of Pub. L. 109–8, set out as a note under section 363 of this title.
 
-Amendment by sections 225(a), 323, 1212, and 1230 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwiseprovided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 225(a), 323, 1212, and 1230 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -281,4 +281,6 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec.
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(5)(C), (6)(C), dollar amount "5,475" was adjusted to "5,850".
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(5)(C), (6)(C), dollar amount "5,000" was adjusted to "5,475".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

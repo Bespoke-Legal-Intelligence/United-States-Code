@@ -102,7 +102,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Palestinian Anti-Terrorism Act of 2006
 
-Pub. L. 109–446, Dec. 21, 2006, 120 Stat. 3318, provided that:
+Pub. L. 109–446, Dec. 21, 2006, 120 Stat. 3318, as amended by Pub. L. 114–323, title VII, §715(b)(3), Dec. 16, 2016, 130 Stat. 1946, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -256,10 +256,6 @@ Establishment of Fund.—Not later than 60 days after the date of the enactment 
 
 "(b)
 
-Annual Report.—Not later than 60 days after the date of the enactment of this Act \[Dec. 21, 2006\], and annually thereafter for so long as the Fund remains in existence, the Secretary of State shall submit to the appropriate congressional committees a report on programs sponsored and proposed to be sponsored by the Fund.
-
-"(c)
-
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of State $20,000,000 for fiscal year 2007 for purposes of the Fund.
 
 #### "SEC. 11. REPORTING REQUIREMENT.
@@ -304,7 +300,7 @@ With respect to the provision of assistance for the administrative and personal 
 
 Accordingly, I hereby waive section 550(a) of the FOAA, as amended, and section 620K(a) of the Foreign Assistance Act, as amended, with respect to such assistance, and authorize such assistance for the above purposes.
 
-Furthermore, I hereby determine that, with respect to assistance to nongovernmental organizations for the West Bank and Gaza other than assistance covered by paragraphs (b)(1), (2), and (3) of section 620L of the Foreign Assistance Act, as amended, it is in the national security interest of the United States to provide such assistance as the Secretary of State deems appropriate, and assign to the Secretary of State the functions under section 620L(b)(4)(B) regarding the specific programs, projects, and activities to be carried out using such assistance.
+Furthermore, I hereby determine that, with respect to assistance to nongovernmental organizations for the West Bank and Gaza other than assistance covered by paragraphs (b)(1), (2), and (3) of section 620L of the Foreign Assistance Act, as amended, it is in the nationalsecurity interest of the United States to provide such assistance as the Secretary of State deems appropriate, and assign to the Secretary of State the functions under section 620L(b)(4)(B) regarding the specific programs, projects, and activities to be carried out using such assistance.
 
 I also hereby assign the functions of the President under section 550(b) and (c) of the FOAA, as amended and as carried forward under the Revised Continuing Appropriations Resolution, 2007 (Public Law 110–5), to the Secretary of State.
 

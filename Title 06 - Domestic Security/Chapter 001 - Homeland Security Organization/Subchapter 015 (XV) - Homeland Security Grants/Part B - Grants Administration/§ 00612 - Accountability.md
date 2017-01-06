@@ -10,7 +10,7 @@
 
 #### (B) Access to information
 
-&emsp;&emsp;The Department and each recipient of a grant administered by the Department shall provide the Comptroller General and any officer or employee of the Government Accountability Office with full access to information regarding the activities carried out related to any grant administered by the Department.
+&emsp;&emsp;The Department and each recipient of a grant administered by the Department shallprovide the Comptroller General and any officer or employee of the Government Accountability Office with full access to information regarding the activities carried out related to any grant administered by the Department.
 
 #### (C) Improper payments
 
@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of receiving a grant under section 604 or 605 of this title, a State, high-risk urban area, or directly eligible tribeshall, not later than 30 days after the end of each Federal fiscal quarter, submit to the Administrator a report on activities performed using grant funds during that fiscal quarter.
+&emsp;&emsp;As a condition of receiving a grant under section 604 or 605 of this title, a State, high-risk urban area, or directly eligible tribe shall, not later than 30 days after the end of each Federal fiscal quarter, submit to the Administrator a report on activities performed using grant funds during that fiscal quarter.
 
 #### (B) Contents
 

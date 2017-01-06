@@ -190,7 +190,7 @@ No financial obligation of an eligible entity entered into pursuant to this sect
 
 #### (B) Evaluations; technical assistance; dissemination
 
-&emsp;&emsp;From the amount made available to a State through a grant under this subsection for a fiscal year, the State may reserve not more than 5 percent to carry out evaluations, to provide technical assistance, and to disseminate information.
+&emsp;&emsp;From the amount made available to a State through a grant under this subsectionfor a fiscal year, the State may reserve not more than 5 percent to carry out evaluations, to provide technical assistance, and to disseminate information.
 
 #### (C) Supplement, not supplant
 

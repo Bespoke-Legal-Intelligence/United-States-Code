@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(i) the Secretary shall provide to the State the reasons for the disapproval; and
 
-&emsp;&emsp;&emsp;(ii) the State may revise and resubmit the proposed strategy as many times as necessary until the Secretary approves a proposed strategy.
+&emsp;&emsp;&emsp;(ii) the State may revise and resubmit the proposed strategy as many times asnecessary until the Secretary approves a proposed strategy.
 
 #### (C) Requirement
 

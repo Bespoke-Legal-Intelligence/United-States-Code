@@ -14,7 +14,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the Administrator shall conduct an initial assessment of therelative threat, vulnerability, and consequences from acts of terrorism faced by each eligible metropolitan area, including consideration of—
+&emsp;&emsp;For each fiscal year, the Administrator shall conduct an initial assessment of the relative threat, vulnerability, and consequences from acts of terrorism faced by each eligible metropolitan area, including consideration of—
 
 &emsp;&emsp;&emsp;(i) the factors set forth in subparagraphs (A) through (H) and (K) of section 608(a)(1) of this title; and
 
@@ -108,7 +108,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (1) In general
 
-&emsp;If the Administrator approves the application of a high-risk urban area for a grantunder this section, the Administrator shall distribute the grant funds to the State or States in which that high-risk urban area is located.
+&emsp;If the Administrator approves the application of a high-risk urban area for a grant under this section, the Administrator shall distribute the grant funds to the State or States in which that high-risk urban area is located.
 
 #### (2) State distribution of funds
 

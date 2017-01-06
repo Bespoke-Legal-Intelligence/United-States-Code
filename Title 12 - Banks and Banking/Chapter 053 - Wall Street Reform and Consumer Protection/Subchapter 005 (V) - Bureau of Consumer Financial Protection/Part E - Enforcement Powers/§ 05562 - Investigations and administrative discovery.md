@@ -124,7 +124,7 @@
 
 #### (12) Separate answers
 
-&emsp;Each reporting requirement or question in a civil investigative demand shall be answered separately and fully in writing under oath, unless it is objected to, in which event the reasons for the objection shall be stated in lieu of an answer, and it shall be submitted under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by any person responsible for answering each reporting requirement or question, to the effect that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted.
+&emsp;Each reporting requirement or question in a civil investigative demand shall be answered separately and fully in writing under oath, unless it is objected to, in which event the reasons for the objection shall be stated in lieu of an answer, and it shall be submitted under a sworn certificate, in such form as the demand designates, by the person, if a natural person,to whom the demand is directed or, if not a natural person, by any person responsible for answering each reporting requirement or question, to the effect that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted.
 
 #### (13) Testimony
 
@@ -140,7 +140,7 @@
 
 #### (iii) Transmission to custodian
 
-&emsp;&emsp;&emsp;After the testimony is fully transcribed, the officer investigator before whom thetestimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
+&emsp;&emsp;&emsp;After the testimony is fully transcribed, the officer investigator before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
 #### (B) Parties present
 
@@ -188,7 +188,7 @@
 
 #### (F) Certification by investigator
 
-&emsp;&emsp;The Bureau investigator shall certify on the transcript that the witness was duly sworn by him or her and that the transcript is a true record of the testimony given by the witness, and the Bureau investigator shall promptly deliver the transcript or send it by registered or certified mail to the custodian.
+&emsp;&emsp;The Bureau investigator shall certify on the transcript that the witness was duly sworn by him or her and that the transcript is a true record of the testimony given by the witness, and the Bureau investigator shall promptly deliver the transcript or sendit by registered or certified mail to the custodian.
 
 #### (G) Copy of transcript
 
@@ -206,7 +206,7 @@
 
 #### (2) Disclosure to Congress
 
-&emsp;No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided thematerial to the Bureau and had designated such material as confidential.
+&emsp;No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided the material to the Bureau and had designated such material as confidential.
 
 #### (e) Petition for enforcement
 

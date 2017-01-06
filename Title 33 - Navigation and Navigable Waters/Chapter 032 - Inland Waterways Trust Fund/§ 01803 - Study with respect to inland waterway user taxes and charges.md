@@ -20,7 +20,7 @@ The Secretary of Transportation, and the Secretary of Commerce, in consultation 
 
 &emsp;(4) The classes and categories of users and other persons on whom inland waterway user taxes and charges should be imposed.
 
-&emsp;(5) The waterways of the United States (including the Great Lakes, deep draft channels,and coastal ports) which should be included in any system of user taxes and charges, together with the economic effects of such taxes and charges.
+&emsp;(5) The waterways of the United States (including the Great Lakes, deep draft channels, and coastal ports) which should be included in any system of user taxes and charges, together with the economic effects of such taxes and charges.
 
 &emsp;(6) The use of revenues derived from inland waterway user taxes and charges, including consideration of changes in, or alternatives to, the Trust Fund mechanism.
 

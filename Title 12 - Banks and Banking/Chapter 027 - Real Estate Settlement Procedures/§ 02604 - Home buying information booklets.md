@@ -8,7 +8,7 @@ The Director of the Bureau of Consumer Financial Protection (hereafter in this s
 
 Each booklet shall be in such form and detail as the Director shall prescribe and, in addition to such other information as the Director may provide, shall include in plain and understandable language the following information:
 
-&emsp;(1) A description and explanation of the nature and purpose of the costs incident to a real estate settlement or a federally related mortgage loan. The description and explanation shall provide general information about the mortgage process as well as specific information concerning, at a minimum—
+&emsp;(1) A description and explanation of the nature and purpose of the costs incident to a realestate settlement or a federally related mortgage loan. The description and explanation shall provide general information about the mortgage process as well as specific information concerning, at a minimum—
 
 &emsp;&emsp;(A) balloon payments;
 
@@ -62,9 +62,9 @@ Booklets may be printed and distributed by lenders if their form and content are
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading "this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
+This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading"this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
-The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and areclassified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 
@@ -99,4 +99,8 @@ Amendment by section 1450 of Pub. L. 111–203 effective on the date on which fi
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authorized to suspend for up to 180 days from Jan. 2, 1976, any provision of this section as amended by Pub. L. 94–205, see section 12 of Pub. L. 94–205, set out as a note under section 2602 of this title.
+
+#### Effective Date
+
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
 

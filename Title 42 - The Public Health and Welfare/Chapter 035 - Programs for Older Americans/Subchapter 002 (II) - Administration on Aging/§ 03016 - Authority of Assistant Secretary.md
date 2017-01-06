@@ -12,13 +12,13 @@
 
 &emsp;(D) collect, prepare, publish, and disseminate special educational or informational materials, including reports of the projects for which funds are provided under this chapter.
 
-(2)(A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III of this chapter and shall have duties that include—
+(2)(A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III and shall have duties that include—
 
 &emsp;(i) designing, implementing, and evaluating evidence-based programs to support improved nutrition and regular physical activity for older individuals;
 
 &emsp;(ii) developing guidelines for nutrition providers concerning safety, sanitary handling of food, equipment, preparation, and food storage;
 
-&emsp;(iii) conducting outreach and disseminating evidence-based information to nutrition service providers about the benefits of healthful diets and regular physical activity, including information about the most current Dietary Guidelines for Americans published under section 5341 of title 7, the Food Guidance System of the Department of Agriculture, and advances in nutrition science;
+&emsp;(iii) conducting outreach and disseminating evidence-based information to nutrition service providers about the benefits of healthful diets and regular physical activity, including information about the most current DietaryGuidelines for Americans published under section 5341 of title 7, the Food Guidance System of the Department of Agriculture, and advances in nutrition science;
 
 &emsp;(iv) promoting coordination between nutrition service providers and community-based organizations serving older individuals;
 
@@ -34,7 +34,7 @@
 
 &emsp;(x) providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (ix).
 
-(B) The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III of this chapter.
+(B) The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III.
 
 (C) The officer or employee designated under subparagraph (A) shall—
 
@@ -50,17 +50,15 @@
 
 In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
 
-#### (c) Authorization of appropriations
-
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
-
-(Pub. L. 89–73, title II, §205, formerly §206, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 34; amended Pub. L. 95–478, title I, §102(f), Oct. 18, 1978, 92 Stat. 1515; renumbered §205 and amended Pub. L. 97–115, §2(e)(2), (g), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §205, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§109, 110, Nov. 29, 1987, 101 Stat. 932; Pub. L. 102–375, title II, §206, title IX, §904(a)(7), Sept. 30, 1992, 106 Stat. 1212, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title II, §202(3), title VIII, §801(b)(3), Nov. 13, 2000, 114 Stat. 2231, 2292; Pub. L. 109–365, title II, §204, Oct. 17, 2006, 120 Stat. 2535.)
+(Pub. L. 89–73, title II, §205, formerly §206, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 34; amended Pub. L. 95–478, title I, §102(f), Oct. 18, 1978, 92 Stat. 1515; renumbered §205 and amended Pub. L. 97–115, §2(e)(2), (g), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §205, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§109, 110, Nov. 29, 1987, 101 Stat. 932; Pub. L. 102–375, title II, §206, title IX, §904(a)(7), Sept. 30, 1992, 106 Stat. 1212, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title II, §202(3), title VIII, §801(b)(3), Nov. 13, 2000, 114 Stat. 2231, 2292; Pub. L. 109–365, title II, §204, Oct. 17, 2006, 120 Stat. 2535; Pub. L. 114–144, §3(c), Apr. 19, 2016, 130 Stat. 337.)
 
 #### Prior Provisions
 
 A prior section 205 of Pub. L. 89–73 was renumbered section 204 and is classified to section 3015 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–144 struck out subsec. (c). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary."
 
 <b>2006</b>—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, §204(1)(A), in subpar. (C) inserted "and" at end, in subpar. (D) substituted period for "; and" at end, and struck out subpar. (E) which read as follows: "provide staff and other technical assistance to the Federal Council on the Aging."
 
@@ -76,7 +74,7 @@ Subsec. (a)(2)(C)(i). Pub. L. 109–365, §204(1)(B)(ii), amended cl. (i) genera
 
 Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
 
-"(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not laterthan 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
+"(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
 
 "(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available."
 

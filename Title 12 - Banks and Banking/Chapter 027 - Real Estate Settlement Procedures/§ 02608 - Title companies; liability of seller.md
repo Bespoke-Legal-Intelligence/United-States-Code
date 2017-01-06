@@ -6,3 +6,7 @@
 
 (Pub. L. 93–533, §9, Dec. 22, 1974, 88 Stat. 1728.)
 
+#### Effective Date
+
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under section 2601 of this title.
+

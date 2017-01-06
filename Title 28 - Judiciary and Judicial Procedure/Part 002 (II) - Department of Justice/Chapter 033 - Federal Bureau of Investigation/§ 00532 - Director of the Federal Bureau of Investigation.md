@@ -6,7 +6,7 @@ The Attorney General may appoint a Director of the Federal Bureau of Investigati
 
 #### Historical and Revision Notes
 
-The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a "Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation". The Division of Investigation was first designated as the "Federal Bureau of Investigation" by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since thatdate. The title of "Director of the Federal Bureau of Investigation" was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
+The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a "Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation". The Division of Investigation was first designated as the "Federal Bureau of Investigation" by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date. The title of "Director of the Federal Bureau of Investigation" was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
 
 #### Findings
 
@@ -40,7 +40,7 @@ Improvement of Intelligence Capabilities.—The Director of the Federal Bureau o
 
 National Intelligence Workforce.—(1) In developing and maintaining a national intelligence workforce under subsection (b), the Director of the Federal Bureau of Investigation shall develop and maintain a specialized and integrated national intelligence workforce consisting of agents, analysts, linguists, and surveillance specialists who are recruited, trained, and rewarded in a manner which ensures the existence within the Federal Bureau of Investigation of an institutional culture with substantial expertise in, and commitment to, the intelligence mission of the Bureau.
 
-"(2) Each agent employed by the Bureau after the date of the enactment of this Act \[Dec. 17, 2004\] shall receive basic training in both criminal justice matters and national intelligence matters.
+"(2) Each agent employed by the Bureau after the date of the enactment of this Act \[Dec. 17, 2004\] shallreceive basic training in both criminal justice matters and national intelligence matters.
 
 "(3) Each agent employed by the Bureau after the date of the enactment of this Act shall, to the maximum extent practicable, be given the opportunity to undergo, during such agent's early service with the Bureau, meaningful assignments in criminal justice matters and in national intelligence matters.
 

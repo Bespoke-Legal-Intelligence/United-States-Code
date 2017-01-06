@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-Except as provided in subsection (b)(2) of this section, the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
+Except as provided in subsection (b)(2), the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
 
 #### (b) Term
 
@@ -16,7 +16,7 @@ Except as provided in subsection (b)(2) of this section, the President, by and w
 
 #### (3) Subsequent Directors
 
-&emsp;The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a) of this section, other than a Director appointed under paragraph (2).
+&emsp;The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a), other than a Director appointed under paragraph (2).
 
 #### (c) Pay
 
@@ -56,7 +56,7 @@ The duties of the Director shall include the following:
 
 &emsp;(9) To coordinate with the Secretary to promote and provide for the coordination of research and development activities and technical assistance activities between the Institute and comprehensive centers.
 
-&emsp;(10) To solicit and consider the recommendations of education stakeholders, in order to ensure that there is broad and regular public and professional input from the educational field in the planning and carrying out of the Institute's activities.
+&emsp;(10) To solicit and consider the recommendations of education stakeholders, in order to ensure that there is broad and regular public and professional input from the educationalfield in the planning and carrying out of the Institute's activities.
 
 &emsp;(11) To coordinate the wide dissemination of information on scientifically valid research.
 

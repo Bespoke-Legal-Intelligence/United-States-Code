@@ -116,7 +116,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 #### Codification
 
-Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intentof Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
+Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Subsec. (c)(3). Pub. L. 96–482, §22(4), substituted subpars. (A) and (B) for 
 
 Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
 
-Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
+Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) andsubpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(n)(1), (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted "After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section," before "contracting".
 

@@ -26,7 +26,7 @@ Subject to the availability of funds appropriated to the Fund, the Secretary sha
 
 &emsp;&emsp;(C) One account for the independent benefit of those Aleuts who, as determined by the Secretary, upon the advice of the trustees, are deserving but will not benefit directly from the accounts established under subparagraphs (A) and (B).
 
-> &emsp;The trustees shall credit to the account described in subparagraph (C) an amount equal to 5 percent of the principal amount deposited by the Secretary in the trust under this subsection. Of the remaining principal amount, an amount shall be credited to each account described in subparagraphs (A) and (B) whichbears the same proportion to such remaining principal amount as the Aleut civilian population, as of June 1, 1942, of the village with respect to which such account is established bears to the total civilian Aleut population on such date of all affected Aleut villages.
+> &emsp;The trustees shall credit to the account described in subparagraph (C) an amount equal to 5 percent of the principal amount deposited by the Secretary in the trust under this subsection. Of the remaining principal amount, an amount shall be credited to each account described in subparagraphs (A) and (B) which bears the same proportion to such remaining principal amount as the Aleut civilian population, as of June 1, 1942, of the village with respect to which such account is established bears to the total civilian Aleut population on such date of all affected Aleut villages.
 
 #### (2) Uses of accounts
 

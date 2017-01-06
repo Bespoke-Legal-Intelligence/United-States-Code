@@ -32,7 +32,7 @@
 
 #### (4) Amounts not allocated
 
-&emsp;In the House of Representatives or the Senate, if a committee receives no allocation ofnew budget authority or outlays, that committee shall be deemed to have received an allocation equal to zero for new budget authority or outlays.
+&emsp;In the House of Representatives or the Senate, if a committee receives no allocation of new budget authority or outlays, that committee shall be deemed to have received an allocation equal to zero for new budget authority or outlays.
 
 #### (5) Adjusting allocation of discretionary spending in the House of Representatives
 
@@ -50,7 +50,7 @@ After the Committee on Appropriations has received an allocation pursuant to sub
 
 #### (d) Subsequent concurrent resolutions
 
-In the case of a concurrent resolution on the budget referred to in section 635 of this title, the allocations under subsection (a) and the subdivisions under subsection (b) shall be required only to the extent necessary to take into account revisions made in the most recently agreed to concurrent resolution on the budget.
+In the case of a concurrent resolution on the budget referred to in section 635 of this title, theallocations under subsection (a) and the subdivisions under subsection (b) shall be required only to the extent necessary to take into account revisions made in the most recently agreed to concurrent resolution on the budget.
 
 #### (e) Alteration of allocations
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 105–33, §10106(d), amended heading and text of subsec. (
 
 Subsec. (a)(2). Pub. L. 101–508, §13303(c)(1), inserted "social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years," after "appropriate levels of".
 
-Pub. L. 101–508, §13201(b)(3)(B), substituted "total budget outlays and total new budget authority" for"total budget outlays, total new budget authority and new credit authority".
+Pub. L. 101–508, §13201(b)(3)(B), substituted "total budget outlays and total new budget authority" for "total budget outlays, total new budget authority and new credit authority".
 
 Pub. L. 101–508, §13112(a)(6), struck out "the House of Representatives and" after "among each committee of".
 

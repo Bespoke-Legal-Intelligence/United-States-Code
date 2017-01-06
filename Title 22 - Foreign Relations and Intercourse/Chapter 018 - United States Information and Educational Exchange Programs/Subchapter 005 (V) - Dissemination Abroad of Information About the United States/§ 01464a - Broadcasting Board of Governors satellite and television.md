@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Broadcasting Board of Governors is authorized to lease or otherwise acquire time oncommercial or United States Government satellites for the purpose of transmitting materials and programs to posts and other users abroad.
+The Broadcasting Board of Governors is authorized to lease or otherwise acquire time on commercial or United States Government satellites for the purpose of transmitting materials and programs to posts and other users abroad.
 
 #### (b) Broadcast principles
 

@@ -4,7 +4,7 @@
 
 (1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entry of the order, a written petition requesting that the order be modified or set aside in whole or in part.
 
-(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated by the Commission for that purpose. Thereupon theCommission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
+(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the record, to affirm or modify and enforce or to set aside the order in whole or in part.
 
@@ -20,7 +20,7 @@
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the materials set forth in paragraph (2) of this subsection, to affirm and enforce or to set aside the rule.
 
-(4) The findings of the Commission as to the facts identified by the Commission as the basis, in whole or in part, of the rule, if supported by substantial evidence, are conclusive. The court shall affirm and enforce the rule unless the Commission's action in promulgating the rule is found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; contrary to constitutional right, power, privilege, or immunity; in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; or without observance of procedure required by law.
+(4) The findings of the Commission as to the facts identified by the Commission as the basis, in whole or in part, of the rule, if supported by substantial evidence, are conclusive. The court shall affirm and enforce the rule unless the Commission's action in promulgating the rule is found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance withlaw; contrary to constitutional right, power, privilege, or immunity; in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; or without observance of procedure required by law.
 
 (5) If proceedings have been instituted under this subsection in two or more courts of appeals with respect to the same rule, the Commission shall file the materials set forth in paragraph (2) of this subsection in that court in which a proceeding was first instituted. The other courts shall thereupon transfer all such proceedings to the court in which the materials have been filed. For the convenience of the parties in the interest of justice that court may thereafter transfer all the proceedings to any other court of appeals.
 
@@ -34,7 +34,7 @@
 
 #### (d) Other appropriate regulatory agencies
 
-(1) For purposes of the preceding subsections of this section, the term "Commission" includes the agencies enumerated in section 78c(a)(34) ofthis title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78o–5 of this title.
+(1) For purposes of the preceding subsections of this section, the term "Commission" includes the agencies enumerated in section 78c(a)(34) of this title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78o–5 of this title.
 
 (2) For purposes of subsection (a)(4) of this section and section 706 of title 5, an order of the Commission pursuant to section 78s(a) of this title denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to section 78s(b) of this title disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such order was entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
 

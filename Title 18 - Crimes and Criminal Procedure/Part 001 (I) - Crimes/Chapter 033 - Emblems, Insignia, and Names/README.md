@@ -39,7 +39,7 @@
 
 <b>1997</b>—Pub. L. 105–55, title III, §308(e), Oct. 7, 1997, 111 Stat. 1198, substituted "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress" for "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate" in item 713.
 
-<b>1991</b>—Pub. L. 102–229, title II, §210(e), Dec. 12, 1991, 105 Stat. 1717, substituted "Use of likenesses of the great seal of the United States, the seals of the President andVice President, and the seal of the United States Senate." for "Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President." in item 713.
+<b>1991</b>—Pub. L. 102–229, title II, §210(e), Dec. 12, 1991, 105 Stat. 1717, substituted "Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate." for "Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President." in item 713.
 
 <b>1990</b>—Pub. L. 101–647, title XXXV, §3518, Nov. 29, 1990, 104 Stat. 4923, inserted a comma after "INSIGNIA" in chapter heading.
 

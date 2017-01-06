@@ -1,0 +1,6 @@
+### §506. Transferred
+
+#### Codification
+
+Section 506 was editorially reclassified as section 5206 of this title.
+

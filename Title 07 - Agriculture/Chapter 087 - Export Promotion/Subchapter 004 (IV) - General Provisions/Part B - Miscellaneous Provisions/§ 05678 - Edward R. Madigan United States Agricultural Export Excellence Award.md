@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) in recent years, United States agricultural exports have steadily increased, surpassing $54,000,000,000 in value in 1995;
 
-&emsp;(4) as United States agricultural producers move toward a market-oriented system in which planting and other decisions by producers are driven by national and international market signals, developing new and expanding agricultural export markets is vital to maintaining a vibrant and healthy agricultural sector and rural economy; and
+&emsp;(4) as United States agricultural producers move toward a market-oriented system in which planting and other decisions by producers are driven by national and internationalmarket signals, developing new and expanding agricultural export markets is vital to maintaining a vibrant and healthy agricultural sector and rural economy; and
 
 &emsp;(5) a United States agricultural export excellence award will increase United States agricultural exports by—
 
@@ -22,7 +22,7 @@ Congress finds that—
 
 #### (b) Establishment
 
-There is established the Edward R. Madigan United States Agricultural Export Excellence Award, which shall be evidenced by a medal bearing the inscription "Edward R. Madigan United States Agricultural Export ExcellenceAward". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary of Agriculture (referred to in this section as the "Secretary") may prescribe.
+There is established the Edward R. Madigan United States Agricultural Export Excellence Award, which shall be evidenced by a medal bearing the inscription "Edward R. Madigan United States Agricultural Export Excellence Award". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary of Agriculture (referred to in this section as the "Secretary") may prescribe.
 
 #### (c) Selection of recipient
 

@@ -4,7 +4,7 @@
 
 #### (1) Applicability
 
-&emsp;Notwithstanding any other provision of this title,<sup>1</sup> and except as provided in paragraph (3),this section shall apply to any covered person who—
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> and except as provided in paragraph (3), this section shall apply to any covered person who—
 
 &emsp;&emsp;(A) offers or provides origination, brokerage, or servicing of loans secured by real estate for use by consumers primarily for personal, family, or household purposes, or loan modification or foreclosure relief services in connection with such loans;
 
@@ -64,7 +64,7 @@
 
 &emsp;The Bureau shall, to the fullest extent possible, use—
 
-&emsp;&emsp;(A) reports pertaining to persons described in subsection (a)(1) that have been provided or required to have been provided to a Federal or State agency; and
+&emsp;&emsp;(A) reports pertaining to persons described in subsection (a)(1) that have been providedor required to have been provided to a Federal or State agency; and
 
 &emsp;&emsp;(B) information that has been reported publicly.
 
@@ -136,7 +136,7 @@ Notwithstanding any other provision of Federal law and except as provided in sec
 
 #### (e) Service providers
 
-A service provider to a person described in subsection (a)(1) shall be subject to the authority of the Bureau under this section, to the same extent as if such service provider were engaged in a service relationship with a bank, and the Bureau were an appropriate Federal banking agency under section 1867(c) of this title. In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator, as applicable.
+A service provider to a person described in subsection (a)(1) shall be subject to the authority of the Bureau under this section, to the same extent as if such service provider were engagedin a service relationship with a bank, and the Bureau were an appropriate Federal banking agency under section 1867(c) of this title. In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator, as applicable.
 
 #### (f) Preservation of Farm Credit Administration authority
 
@@ -150,7 +150,7 @@ This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is titl
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(3). Pub. L. 113–173 substituted "regulators, the State bank regulatory authorities, and theState agencies that licence, supervise, or examine the offering of consumer financial products or services" for "regulators and the State bank regulatory authorities" and inserted at end "The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority."
+<b>2014</b>—Subsec. (b)(3). Pub. L. 113–173 substituted "regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services" for "regulators and the State bank regulatory authorities" and inserted at end "The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority."
 
 #### Effective Date
 

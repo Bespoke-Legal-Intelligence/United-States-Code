@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after April 30, 2015, the Secretary of Energy, in collaboration withthe Administrator of the Environmental Protection Agency, shall complete a study—
+&emsp;Not later than 2 years after April 30, 2015, the Secretary of Energy, in collaboration with the Administrator of the Environmental Protection Agency, shall complete a study—
 
 &emsp;&emsp;(A) on the impact of—
 

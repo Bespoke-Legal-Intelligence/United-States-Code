@@ -66,7 +66,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to suchmembers. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
 
 #### (3) Terms
 
@@ -126,13 +126,13 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 &emsp;&emsp;(B) health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
 
-&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq\[., 42 U.S.C. 2751 et seq.\]);
+&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of theHigher Education Act of 1965 (20 U.S.C. 1001 et seq <sup>2</sup> );
 
-&emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.\[, 42 U.S.C. 2751 et seq.\]), and any other Federal health care workforce programs;
+&emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
 
 &emsp;&emsp;(E) the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
 
-&emsp;&emsp;(F) recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community.<sup>2</sup>
+&emsp;&emsp;(F) recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community.<sup>3</sup>
 
 #### (4) High priority areas
 
@@ -188,7 +188,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (8) Assessment
 
-&emsp;The Commission shall assess and receive reports from the National Center for Health Care Workforce Analysis established under section 761(b) of the Public Service Health Act \[42 U.S.C. 294n(b)\] (as amended by section 5103).<sup>3</sup>
+&emsp;The Commission shall assess and receive reports from the National Center for Health Care Workforce Analysis established under section 761(b) of the Public Service Health Act \[42 U.S.C. 294n(b)\] (as amended by section 5103).<sup>4</sup>
 
 #### (e) Consultation with Federal, State, and local agencies, Congress, and other organizations
 
@@ -198,7 +198,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (2) Obtaining official data
 
-&emsp;The Commission, consistent with established privacy rules, may secure directly from any department or agency of the ExecutiveBranch information necessary to enable the Commission to carry out this section.
+&emsp;The Commission, consistent with established privacy rules, may secure directly from any department or agency of the Executive Branch information necessary to enable the Commission to carry out this section.
 
 #### (3) Detail of Federal Government employees
 
@@ -266,11 +266,11 @@ In this section:
 
 &emsp;The term "health professionals" includes—
 
-&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup> public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
+&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>5</sup> public health professionals, clinical pharmacists, allied health professionals, doctorsof chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
 &emsp;&emsp;(B) national representatives of health professionals;
 
-&emsp;&emsp;(C) representatives of schools of medicine, osteopathy, nursing, dentistry, optometry,pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup> oral health care industry dentistry and dental hygiene, and physician assistants;
+&emsp;&emsp;(C) representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,<sup>5</sup> oral health care industry dentistry and dental hygiene, and physician assistants;
 
 &emsp;&emsp;(D) representatives of public and private teaching hospitals, and ambulatory health facilities, including Federal medical facilities; and
 
@@ -286,7 +286,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. 
 
 The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(3)(D), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -402,9 +402,11 @@ Registered apprenticeship program.—The term 'registered apprenticeship program
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original.</i>
 
-<i><sup>4</sup></i><i> See 2010 Amendment note below.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
+
+<i><sup>5</sup></i><i> See 2010 Amendment note below.</i>
 

@@ -12,7 +12,7 @@ Certification Label.—In the case of the certification label affixed by an inte
 
 &emsp;(2) that it has elected to assume responsibility for compliance with that standard.
 
-> If the intermediate or final stage manufacturer elects to assume responsibility for compliance with the standard covered by the documentation provided by an incomplete motor vehicle manufacturer, the intermediate or final stage manufacturer shall notify the incomplete motor vehicle manufacturer in writing within a reasonable time of affixing the certification label. A violation of this subsection shall not be subject to a civil penalty under section 30165.
+> If the intermediate or final stage manufacturer elects to assume responsibility for compliancewith the standard covered by the documentation provided by an incomplete motor vehicle manufacturer, the intermediate or final stage manufacturer shall notify the incomplete motor vehicle manufacturer in writing within a reasonable time of affixing the certification label. A violation of this subsection shall not be subject to a civil penalty under section 30165.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 947; Pub. L. 106–414, §9, Nov. 1, 2000, 114 Stat. 1805.)
 

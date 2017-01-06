@@ -34,11 +34,11 @@
 
 (3) The inpatient hospital deductible for a year shall apply to—
 
-&emsp;(A) the deduction under the first sentence of subsection (a)(1) of this section for the year in which the first day of inpatient hospital services or inpatient critical access hospital services occurs in a spell of illness, and
+&emsp;(A) the deduction under the first sentence of subsection (a)(1) for the year in which the first day of inpatient hospital services or inpatient critical access hospital services occurs in a spell of illness, and
 
-&emsp;(B) to the coinsurance amounts under subsection (a) of this section for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
+&emsp;(B) to the coinsurance amounts under subsection (a) for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, titleI, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Subsec. (b)(1). Pub. L. 100–360, §411(b)(1)(H)(ii), added Pub. L. 100–203, 
 
 Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related to application of deductible.
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §4002(f)(3), as added by Pub. L. 100–360, §411(b)(1)(H)(ii), substituted"Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied" for "applicable percentage increase (as defined in section 1395ww(b)(3)(B) of this title) which is applied".
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §4002(f)(3), as added by Pub. L. 100–360, §411(b)(1)(H)(ii), substituted "Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied" for "applicable percentage increase (as defined in section 1395ww(b)(3)(B) of this title) which is applied".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–509 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -132,7 +132,7 @@ General rule.—Except as provided in paragraph (2), sections 101, 102, and 104(
 
 &emsp;"(2)
 
-Exception for blood deduction.—The repeal of section 102(1) of MCCA \[amending this section\] (relating to deductibles and coinsurance under part A)shall not apply, but only insofar as such section amended paragraph (2) of section 1813(a) of the Social Security Act \[42 U.S.C. 1395e(a)(2)\] (relating to a deduction for blood).
+Exception for blood deduction.—The repeal of section 102(1) of MCCA \[amending this section\] (relating to deductibles and coinsurance under part A) shall not apply, but only insofar as such section amended paragraph (2) of section 1813(a) of the Social Security Act \[42 U.S.C. 1395e(a)(2)\] (relating to a deduction for blood).
 
 "(b)
 

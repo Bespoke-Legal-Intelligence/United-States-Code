@@ -12,7 +12,7 @@
 
 (3) Instead of acting under paragraphs (1) and (2) of this subsection, the court may require probate or letters of administration to be taken out, and then deliver the money, property, and wages to the legal representative of the seaman.
 
-(b) If the money, property, and wages are more than $1,500 in value, the court, subject to deductions for expenses, shall deliver the money,property, and wages to the legal representative of the seaman.
+(b) If the money, property, and wages are more than $1,500 in value, the court, subject to deductions for expenses, shall deliver the money, property, and wages to the legal representative of the seaman.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 574; Pub. L. 99–307, §1(15), May 19, 1986, 100 Stat. 446.)
 

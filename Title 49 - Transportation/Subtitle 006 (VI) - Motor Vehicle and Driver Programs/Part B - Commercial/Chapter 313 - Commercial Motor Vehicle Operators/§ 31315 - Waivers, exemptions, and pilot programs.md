@@ -48,7 +48,7 @@ Requests for exemption.—Not later than 180 days after the date of enactment of
 
 &emsp;&emsp;(C) An analysis of the safety impacts the requested exemption may cause.
 
-&emsp;&emsp;(D) The specific countermeasures the person would undertake to ensure an equivalent or greater level of safety than would be achieved absent the requested exemption.
+&emsp;&emsp;(D) The specific countermeasures the person would undertake to ensure an equivalentor greater level of safety than would be achieved absent the requested exemption.
 
 &emsp;(6)
 
@@ -116,7 +116,7 @@ Report to congress.—At the conclusion of each pilot program, the Secretary sha
 
 (d)
 
-Preemption of State Rules.—During the time period that a waiver, exemption, or pilot program is in effect under this chapter or section 31136, no State shall enforce any law or regulation that conflicts with or is inconsistent with the waiver, exemption, or pilot program with respect to a person operating under the waiver or exemption or participating in the pilot program.
+Preemption of State Rules.—During the time period that a waiver, exemption, or pilotprogram is in effect under this chapter or section 31136, no State shall enforce any law or regulation that conflicts with or is inconsistent with the waiver, exemption, or pilot program with respect to a person operating under the waiver or exemption or participating in the pilot program.
 
 (e)
 

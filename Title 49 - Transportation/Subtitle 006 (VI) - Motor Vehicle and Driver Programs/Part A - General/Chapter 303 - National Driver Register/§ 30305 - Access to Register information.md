@@ -52,7 +52,7 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 (d)
 
-Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
+Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 ofthe National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–178, title II, §2006(b), June 9, 1998, 112 Stat. 335; Pub. L. 108–375, div. A, title X, §1061, Oct. 28, 2004, 118 Stat. 2056; Pub. L. 114–94, div. A, title V, §5512, Dec. 4, 2015, 129 Stat. 1556.)
 

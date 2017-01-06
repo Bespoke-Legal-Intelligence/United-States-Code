@@ -84,7 +84,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the amount equal to the average of the 3 highest 50-percent payments made to each eligible county during the eligibility period; by
 
-&emsp;&emsp;&emsp;(ii) the amount equal to the sum of the amounts calculated under clause (i) and paragraph (2)(B)(i) for all eligible counties in all eligible States during the eligibility period.
+&emsp;&emsp;&emsp;(ii) the amount equal to the sum of the amounts calculated under clause (i) andparagraph (2)(B)(i) for all eligible counties in all eligible States during the eligibility period.
 
 #### (10) 50-percent payment
 

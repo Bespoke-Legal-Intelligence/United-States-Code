@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) the rate of basic pay in effect for the position in which placed;
 
-&emsp;&emsp;(ii) the rate of basic pay in effect at the time of the placement for the position thecareer appointee held in the civil service immediately before being appointed to the Senior Executive Service; or
+&emsp;&emsp;(ii) the rate of basic pay in effect at the time of the placement for the position the career appointee held in the civil service immediately before being appointed to the Senior Executive Service; or
 
 &emsp;&emsp;(iii) the rate of basic pay in effect for the career appointee immediately before being placed under subsection (a) or (b) of this section; and
 
@@ -63,4 +63,8 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+
+#### Effective Date
+
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Transactions involving controlling or closely affiliated persons
 
-It shall be unlawful for any person who is related to a business development company in a manner described in subsection (b) of this section, acting as principal—
+It shall be unlawful for any person who is related to a business development company in amanner described in subsection (b) of this section, acting as principal—
 
 &emsp;(1) knowingly to sell any security or other property to such business development company or to any company controlled by such business development company, unless such sale involves solely (A) securities of which the buyer is the issuer, or (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities;
 

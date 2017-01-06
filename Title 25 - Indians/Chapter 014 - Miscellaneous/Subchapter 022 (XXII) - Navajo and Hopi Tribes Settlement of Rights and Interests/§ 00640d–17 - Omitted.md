@@ -1,0 +1,6 @@
+### §640d–17. Omitted
+
+#### Codification
+
+Section, Pub. L. 93–531, §18, Dec. 22, 1974, 88 Stat. 1721, which related to actions for accounting, fair value ofgrazing, and claims for damages to land, was omitted from the Code as being of special and not general application.
+

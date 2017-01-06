@@ -16,7 +16,7 @@ The district courts of the United States shall have jurisdiction over civil acti
 
 &emsp;&emsp;(A) in the case of a civil action described in paragraph (1) of such subsection, in the United States district court for the judicial district in which any act, omission, or transaction constituting a violation of section 8124 of this title or section 8141 of this title occurred or in which the defendant is found or transacts business; or
 
-&emsp;&emsp;(B) in the case of a civil action described in paragraph (2) of such subsection, in theUnited States district court for the judicial district in which the defendant is found or transacts business.
+&emsp;&emsp;(B) in the case of a civil action described in paragraph (2) of such subsection, in the United States district court for the judicial district in which the defendant is found or transacts business.
 
 #### (2) Service of process
 

@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 94–432, §202(7), added subsec. (h).
 
 <b>1975</b>—Subsec. (b). Pub. L. 94–169, §102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
 
-Subsec. (c). Pub. L. 94–169, §102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provisionthat in no case may the amount of pension be less than $5 monthly.
+Subsec. (c). Pub. L. 94–169, §102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provision that in no case may the amount of pension be less than $5 monthly.
 
 Subsec. (d). Pub. L. 94–169, §102(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, "such veteran" for "him" and "$133" for "$123".
 
@@ -148,7 +148,7 @@ Subsec. (e). Pub. L. 93–527, §2(4), substituted "$49" for "$44".
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–177, §1(a), substituted "$143" for "$130", "$800" for "$1,000", "$1,300" for "$1,500", "$1,600" for "$1,800", and "$2,500" for "$2,600" in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
 
-Subsec. (c). Pub. L. 93–177, §1(b), substituted "$154" for "$140", "$159" for "$145", "$164" for "$150", "$800" for "$900", "$2,600" for "$3,200", and "$3,700" for "$3,800" in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
+Subsec. (c). Pub. L. 93–177, §1(b), substituted "$154" for "$140", "$159" for "$145", "$164" for "$150", "$800"for "$900", "$2,600" for "$3,200", and "$3,700" for "$3,800" in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
 
 <b>1971</b>—Subsec. (b). Pub. L. 92–198, §1(a), substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
 
@@ -346,7 +346,7 @@ Pub. L. 105–178, title VIII, §8206, June 9, 1998, 112 Stat. 494, provided tha
 
 #### Report to Congressional Committees; Medical Examinations of Certain Pension Recipients
 
-Pub. L. 98–543, title III, §302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans' Affairs to report to Committees on Veterans' Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
+Pub. L. 98–543, title III, §302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans' Affairs to report to Committees on Veterans' Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensionsunder this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
 
 #### Study of Pension Benefits Paid to Persons Residing Outside United States; Transmittal of Report and Recommendations to President and Congress
 
@@ -390,5 +390,5 @@ Pub. L. 90–77, title I, §110, Aug. 31, 1967, 81 Stat. 180, provided that: "Th
 
 #### Retirement Income Exclusion
 
-Pub. L. 88–664, §10, Oct. 13, 1964, 78 Stat. 1096, provided that: "In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans' Pension Act of 1959 \[formerlyset out in a Savings Provision note above\] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs."
+Pub. L. 88–664, §10, Oct. 13, 1964, 78 Stat. 1096, provided that: "In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans' Pension Act of 1959 \[formerly set out in a Savings Provision note above\] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs."
 

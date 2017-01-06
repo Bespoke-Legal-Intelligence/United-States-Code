@@ -2,13 +2,13 @@
 
 #### (a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage
 
-Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
+Subject to subsection (d), a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
 &emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
 
 &emsp;(2) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
 
-&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1) of this section) applicable to the participant or beneficiary as of the enrollment date.
+&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1)) applicable to the participant or beneficiary as of the enrollment date.
 
 #### (b) Definitions
 
@@ -22,7 +22,7 @@ For purposes of this part—
 
 #### (B) Treatment of genetic information
 
-&emsp;&emsp;Genetic information shall not be treated as a condition described in subsection (a)(1) of this section in the absence of a diagnosis of the condition related to such information.
+&emsp;&emsp;Genetic information shall not be treated as a condition described in subsection (a)(1) in the absence of a diagnosis of the condition related to such information.
 
 #### (2) Enrollment date
 
@@ -34,7 +34,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) the first period in which the individual is eligible to enroll under the plan, or
 
-&emsp;&emsp;(B) a special enrollment period under subsection (f) of this section.
+&emsp;&emsp;(B) a special enrollment period under subsection (f).
 
 #### (4) Waiting period
 
@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (C) TAA-eligible individuals
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (i) TAA pre-certification period rule
 
-&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days afterthe date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (ii) Definitions
 
@@ -94,11 +94,11 @@ For purposes of this part—
 
 #### (A) Standard method
 
-&emsp;&emsp;Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, shall count a period of creditable coverage without regard to the specific benefits covered during the period.
+&emsp;&emsp;Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3), a group health plan, and a health insurance issuer offering group health insurance coverage, shall count a period of creditable coverage without regard to the specific benefits covered during the period.
 
 #### (B) Election of alternative method
 
-&emsp;&emsp;A group health plan, or a health insurance issuer offering group health insurance coverage, may elect to apply subsection (a)(3) of this section based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
+&emsp;&emsp;A group health plan, or a health insurance issuer offering group health insurance coverage, may elect to apply subsection (a)(3) based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
 
 #### (C) Plan notice
 
@@ -110,7 +110,7 @@ For purposes of this part—
 
 #### (4) Establishment of period
 
-&emsp;Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) of this section or in such other manner as may be specified in regulations.
+&emsp;Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
 
 #### (d) Exceptions
 
@@ -156,11 +156,11 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
-&emsp;In the case of an election described in subsection (c)(3)(B) of this section by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
+&emsp;In the case of an election described in subsection (c)(3)(B) by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
 
 &emsp;&emsp;(A) upon request of such plan or issuer, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan or issuer information on coverage of classes and categories of health benefits available under such entity's plan or coverage, and
 
@@ -204,7 +204,7 @@ For purposes of this part—
 
 #### (B) Dependent special enrollment period
 
-&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period ofnot less than 30 days and shall begin on the later of—
+&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of—
 
 &emsp;&emsp;&emsp;(i) the date dependent coverage is made available, or
 
@@ -224,7 +224,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under theterms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -252,7 +252,7 @@ For purposes of this part—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under thegroup health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
@@ -456,7 +456,7 @@ Report by working group to the secretaries.—Not later than 18 months after the
 
 &emsp;"(II)
 
-Report by secretaries to the congress.—Not later than 2 months after receipt of the report pursuant to subclause (I), the Secretaries shall jointly submit a report to each House of the Congress regarding the recommendations contained in the report under such subclause.
+Report by secretaries to the congress.—Not later than 2 months after receipt of the reportpursuant to subclause (I), the Secretaries shall jointly submit a report to each House of the Congress regarding the recommendations contained in the report under such subclause.
 
 "(vi)
 

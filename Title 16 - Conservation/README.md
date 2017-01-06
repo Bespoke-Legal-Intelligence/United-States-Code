@@ -144,6 +144,9 @@
 | [<b>92.</b>](Chapter%20092%20-%20Forest%20Landscape%20Restoration/README.md) | <b>Forest Landscape Restoration</b> | <b>7301</b> |
 | [<b>93.</b>](Chapter%20093%20-%20Agreement%20on%20Port%20State%20Measures%20to%20Prevent%2C%20Deter%20and%20Eliminate%20Illegal%2C%20Unreported%20and%20Unregulated%20Fishing/README.md) | <b>Agreement on Port State Measures To Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing</b> | <b>7401</b> |
 | [<b>94.</b>](Chapter%20094%20-%20National%20Oceans%20and%20Coastal%20Security/README.md) | <b>National Oceans and Coastal Security</b> | <b>7501</b> |
+| [<b>95.</b>](Chapter%20095%20-%20Eliminate%2C%20Neutralize%2C%20and%20Disrupt%20Wildlife%20Trafficking/README.md) | <b>Eliminate, Neutralize, and Disrupt Wildlife Trafficking</b> | <b>7601</b> |
+| [<b>96.</b>](Chapter%20096%20-%20North%20Pacific%20Fisheries%20Convention/README.md) | <b>North Pacific Fisheries Convention</b> | <b>7701</b> |
+| [<b>97.</b>](Chapter%20097%20-%20Convention%20on%20the%20Conservation%20and%20Management%20of%20High%20Seas%20Fishery%20Resources%20in%20the%20South%20Pacific/README.md) | <b>Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific</b> | <b>7801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -293,3 +296,6 @@
 - [Chapter 092 - Forest Landscape Restoration](Chapter%20092%20-%20Forest%20Landscape%20Restoration/README.md)
 - [Chapter 093 - Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing](Chapter%20093%20-%20Agreement%20on%20Port%20State%20Measures%20to%20Prevent%2C%20Deter%20and%20Eliminate%20Illegal%2C%20Unreported%20and%20Unregulated%20Fishing/README.md)
 - [Chapter 094 - National Oceans and Coastal Security](Chapter%20094%20-%20National%20Oceans%20and%20Coastal%20Security/README.md)
+- [Chapter 095 - Eliminate, Neutralize, and Disrupt Wildlife Trafficking](Chapter%20095%20-%20Eliminate%2C%20Neutralize%2C%20and%20Disrupt%20Wildlife%20Trafficking/README.md)
+- [Chapter 096 - North Pacific Fisheries Convention](Chapter%20096%20-%20North%20Pacific%20Fisheries%20Convention/README.md)
+- [Chapter 097 - Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific](Chapter%20097%20-%20Convention%20on%20the%20Conservation%20and%20Management%20of%20High%20Seas%20Fishery%20Resources%20in%20the%20South%20Pacific/README.md)

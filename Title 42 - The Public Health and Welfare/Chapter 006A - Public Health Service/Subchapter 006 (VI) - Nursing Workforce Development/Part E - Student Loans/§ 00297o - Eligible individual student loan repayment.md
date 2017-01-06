@@ -34,7 +34,7 @@ Agreements entered into pursuant to subsection (b) shall be entered into on such
 
 #### (1) In general
 
-&emsp;In the case of any agreement made under subsection (b), the individual is liable to the Federal Government for the total amount paid by the Secretary under such agreement, and for interest on such amount at the maximum legal prevailing rate, if the individual fails to meet the agreement terms required under such subsection.
+&emsp;In the case of any agreement made under subsection (b), the individual is liable to theFederal Government for the total amount paid by the Secretary under such agreement, and for interest on such amount at the maximum legal prevailing rate, if the individual fails to meet the agreement terms required under such subsection.
 
 #### (2) Waiver or suspension of liability
 

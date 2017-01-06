@@ -44,7 +44,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;&emsp;(i) the Federal Government; and
 
-&emsp;&emsp;&emsp;(ii) the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 450b(e) of title 25).
+&emsp;&emsp;&emsp;(ii) the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 5304(e) of title 25).
 
 #### (C) Representation
 
@@ -66,7 +66,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
-&emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
+&emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating tothe use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
 &emsp;&emsp;(ii) identify substance abuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -128,7 +128,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (ii) Suspension of grants
 
-&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
 #### (iii) Renewal grants
 
@@ -150,7 +150,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;&emsp;&emsp;(I) the eligible coalitions demonstrate that the coalitions are collaborating with one another; and
 
-&emsp;&emsp;&emsp;&emsp;(II) each of the coalitions has independently met the requirements set forth in subsection (a) of this section.
+&emsp;&emsp;&emsp;&emsp;(II) each of the coalitions has independently met the requirements set forth in subsection (a).
 
 #### (2) Rural coalition grants
 
@@ -158,15 +158,15 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) of this section if the Administrator considers that waiver to be appropriate.
+&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
 
 #### (ii) Matching requirement
 
-&emsp;&emsp;&emsp;Subject to subparagraph (C), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
+&emsp;&emsp;&emsp;Subject to subparagraph (C), for a fiscal year, the Administrator may grant to aneligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
 #### (iii) Suspension of grants
 
-&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet any criteria specified in subsection (a) of this section that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet any criteria specified in subsection (a) that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
 #### (B) Renewal grants
 
@@ -206,7 +206,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (E) Suspension
 
-&emsp;&emsp;If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+&emsp;&emsp;If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
 #### (F) Limitation
 
@@ -222,7 +222,7 @@ Funds appropriated for the substance abuse activities of a coalition that includ
 
 #### (d) Priority in awarding grants
 
-In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall be given to a coalition serving economically disadvantaged areas.
+In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
 
 (Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, §1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535.)
 

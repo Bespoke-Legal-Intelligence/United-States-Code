@@ -118,7 +118,7 @@ Amendment to titles 3, 5, and 28 of the united states code.—Section 104 of tit
 
 Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] is amended by striking 'corresponds to' and all that follows thereafter through the period and inserting the following:
 
-> 'corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which suchadjustment in the rates of pay under the General Schedule takes effect.'."
+> 'corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.'."
 
 #### Reduction of Rate of Salary or Basic Pay of Offices or Positions in the Executive, Legislative, and Judicial Branches to the Salary or Basic Pay Rate Payable as of July 14, 1983
 
@@ -158,7 +158,7 @@ Identical provisions were enacted by Pub. L. 95–391, title III, §304, Sept. 3
 
 #### 1977 Comparability Adjustment Not Effective for Certain Positions
 
-Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of section 104 of Title 3, ThePresident; par. (2) of section 4501 of Title 2, The Congress; section 461 of Title 28, Judiciary and Judicial Procedure; and section 5318 of this title.
+Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of section 104 of Title 3, The President; par. (2) of section 4501 of Title 2, The Congress; section 461 of Title 28, Judiciary and Judicial Procedure; and section 5318 of this title.
 
 #### Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 

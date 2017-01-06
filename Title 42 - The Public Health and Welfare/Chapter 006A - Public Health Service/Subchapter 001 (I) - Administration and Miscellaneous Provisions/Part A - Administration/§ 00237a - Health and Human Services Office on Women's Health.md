@@ -28,7 +28,7 @@ The Secretary, acting through the Office, with respect to the health concerns of
 
 &emsp;(6) coordinate efforts to promote women's health programs and policies with the private sector; and
 
-&emsp;(7) through publications and any other means appropriate, provide for the exchange ofinformation between the Office and recipients of grants, contracts, and agreements under subsection (c), and between the Office and health professionals and the general public.
+&emsp;(7) through publications and any other means appropriate, provide for the exchange of information between the Office and recipients of grants, contracts, and agreements under subsection (c), and between the Office and health professionals and the general public.
 
 #### (c) Grants and contracts regarding duties
 
@@ -63,6 +63,40 @@ Pub. L. 111–148, title III, §3509(a)(2), Mar. 23, 2010, 124 Stat. 533, provid
 &emsp;"(B) are in effect at the time this section takes effect, or were final before the date of enactment of this section and are to become effective on or after such date,
 
 > shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law."
+
+#### Information and Awareness on Eating Disorders
+
+Pub. L. 114–255, div. B, title XIII, §13005, Dec. 13, 2016, 130 Stat. 1286, provided that:
+
+"(a)
+
+Information.—The Secretary of Health and Human Services, acting through the Director of the Office on Women's Health, may—
+
+&emsp;"(1) update information, related fact sheets, and resource lists related to eating disorders that are available on the public Internet website of the National Women's Health Information Center sponsored by the Office on Women's Health, to include—
+
+&emsp;&emsp;"(A) updated findings and current research related to eating disorders, as appropriate; and
+
+&emsp;&emsp;"(B) information about eating disorders, including information related to males and females;
+
+&emsp;"(2) incorporate, as appropriate, and in coordination with the Secretary of Education, information from publicly available resources into appropriate obesity prevention programs developed by the Office on Women's Health; and
+
+&emsp;"(3) make publicly available (through a public Internet website or other method) information, related fact sheets, and resource lists, as updated under paragraph (1), and the information incorporated into appropriate obesity prevention programs under paragraph (2).
+
+"(b)
+
+Awareness.—The Secretary of Health and Human Services may advance public awareness on—
+
+&emsp;"(1) the types of eating disorders;
+
+&emsp;"(2) the seriousness of eating disorders, including prevalence, comorbidities, and physical and mental health consequences;
+
+&emsp;"(3) methods to identify, intervene, refer for treatment, and prevent behaviors that may lead to the development of eating disorders;
+
+&emsp;"(4) discrimination and bullying based on body size;
+
+&emsp;"(5) the effects of media on self-esteem and body image; and
+
+&emsp;"(6) the signs and symptoms of eating disorders."
 
 #### No New Regulatory Authority
 

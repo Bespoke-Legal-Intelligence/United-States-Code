@@ -36,7 +36,7 @@ For purposes of this part:
 
 &emsp;(B) protect the interests and rights of the plan and of its participants and beneficiaries (including meeting the requirements of paragraph (3)).
 
-(3) The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B) of this section)—
+(3) The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B))—
 
 &emsp;(A) that a plan fiduciary totally independent of the insurer authorize the purchase of such policy (unless such purchase is a transaction exempt under section 1108(b)(5) of this title),
 
@@ -58,7 +58,7 @@ For purposes of this part:
 
 &emsp;(i) as otherwise provided by the Secretary in regulations intended to prevent avoidance of the regulations issued under paragraph (1), or
 
-&emsp;(ii) as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) ofsection 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
+&emsp;(ii) as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) of section 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
 
 > The Secretary shall bring a cause of action described in clause (ii) if a participant, beneficiary, or fiduciary demonstrates to the satisfaction of the Secretary that a breach described in clause (ii) has occurred.
 
@@ -66,7 +66,7 @@ For purposes of this part:
 
 (7) For purposes of this subsection, the term "policy" includes a contract.
 
-(Pub. L. 93–406, title I, §401, Sept. 2, 1974, 88 Stat. 874; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–188, title I, §1460(a), Aug. 20, 1996, 110 Stat. 1820.)
+(Pub. L. 93–406, title I, §401, Sept. 2, 1974, 88 Stat. 874; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19,1989, 103 Stat. 2445; Pub. L. 104–188, title I, §1460(a), Aug. 20, 1996, 110 Stat. 1820.)
 
 #### References in Text
 

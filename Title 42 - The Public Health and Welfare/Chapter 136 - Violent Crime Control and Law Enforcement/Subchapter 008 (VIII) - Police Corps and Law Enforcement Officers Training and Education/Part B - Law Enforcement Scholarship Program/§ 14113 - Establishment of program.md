@@ -18,7 +18,7 @@
 
 &emsp;The employment described in paragraph (1)(B)—
 
-&emsp;&emsp;(A) shall be provided by State and local law enforcement agencies for students who are juniors or seniors in high school or areenrolled in an institution of higher education and who demonstrate an interest in undertaking a career in law enforcement;
+&emsp;&emsp;(A) shall be provided by State and local law enforcement agencies for students who are juniors or seniors in high school or are enrolled in an institution of higher education and who demonstrate an interest in undertaking a career in law enforcement;
 
 &emsp;&emsp;(B) shall not be in a law enforcement position; and
 
@@ -36,7 +36,7 @@
 
 #### (3) Non-Federal share
 
-&emsp;The non-Federal share of the cost of scholarships and student employment provided under this part shall be supplied from sources other than the Federal Government.
+&emsp;The non-Federal share of the cost of scholarships and student employment provided underthis part shall be supplied from sources other than the Federal Government.
 
 #### (c) Responsibilities of Director
 

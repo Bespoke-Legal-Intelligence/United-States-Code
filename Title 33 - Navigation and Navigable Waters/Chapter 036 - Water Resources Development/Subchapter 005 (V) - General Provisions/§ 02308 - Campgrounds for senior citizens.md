@@ -6,7 +6,7 @@ The Secretary may establish and develop separate campgrounds for individuals six
 
 #### (b) Control of campground use and access
 
-The Secretary may prescribe regulations to control the use of and the access to any separate campground established and developed under subsection (a) of this section.
+The Secretary may prescribe regulations to control the use of and the access to any separatecampground established and developed under subsection (a) of this section.
 
 #### (c) Authorization of appropriations
 

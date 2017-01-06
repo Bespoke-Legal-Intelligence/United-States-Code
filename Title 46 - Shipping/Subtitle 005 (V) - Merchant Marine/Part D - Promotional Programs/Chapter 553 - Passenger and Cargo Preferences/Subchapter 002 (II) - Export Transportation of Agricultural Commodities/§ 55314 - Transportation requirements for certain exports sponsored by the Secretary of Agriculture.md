@@ -78,7 +78,7 @@ The Food for Peace Act, referred to in subsec. (b)(1), is act July 10, 1954, ch.
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §100124(a)(1), struck out subsec. (a), which related to minimum tonnage of agricultural commodities and their products.
 
-Subsec. (b). Pub. L. 112–141, §100124(a)(2), substituted "The activities specified in this subsection are export activities" for "This section applies to export activity" in introductory provisions.
+Subsec. (b). Pub. L. 112–141, §100124(a)(2), substituted "The activities specified in this subsection are exportactivities" for "This section applies to export activity" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–141, §100124(a)(1), struck out subsec. (c), which related to additional requirements for this section and section 55305 of this title.
 

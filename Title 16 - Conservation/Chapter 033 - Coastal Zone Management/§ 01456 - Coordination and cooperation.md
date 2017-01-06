@@ -70,7 +70,7 @@ In case of serious disagreement between any Federal agency and a coastal state�
 
 (3) Fees collected under this subsection shall be deposited into the Coastal Zone Management Fund established under section 1456a of this title.
 
-(Pub. L. 89–454, title III, §307, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1285; amended Pub.L. 94–370, §6, July 26, 1976, 90 Stat. 1018; Pub. L. 95–372, title V, §504, Sept. 18, 1978, 92 Stat. 693; Pub. L. 101–508, title VI, §6208, Nov. 5, 1990, 104 Stat. 1388–307; Pub. L. 102–587, title II, §2205(b)(13), (14), Nov. 4, 1992, 106 Stat. 5051.)
+(Pub. L. 89–454, title III, §307, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1285; amended Pub. L. 94–370, §6, July 26, 1976, 90 Stat. 1018; Pub. L. 95–372, title V, §504, Sept. 18, 1978, 92 Stat. 693; Pub. L. 101–508, title VI, §6208, Nov. 5, 1990, 104 Stat. 1388–307; Pub. L. 102–587, title II, §2205(b)(13), (14), Nov. 4, 1992, 106 Stat. 5051.)
 
 #### References in Text
 
@@ -78,7 +78,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is act 
 
 The Federal Water Pollution Control Act, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which isclassified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Codification
 

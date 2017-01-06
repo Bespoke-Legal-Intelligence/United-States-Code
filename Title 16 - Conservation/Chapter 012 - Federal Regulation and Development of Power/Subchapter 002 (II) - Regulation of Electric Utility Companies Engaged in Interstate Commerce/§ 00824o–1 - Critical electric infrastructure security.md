@@ -34,7 +34,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A)(i) a malicious act using electronic communication or an electromagnetic pulse, or a geomagnetic storm event, that could disrupt the operation of those electronic devices or communications networks, including hardware, software, and data, that are essential to the reliability of critical electric infrastructure or of defense critical electric infrastructure; and
 
-&emsp;&emsp;(ii) disruption of the operation of such devices or networks, with significant adverse effects on the reliability of critical electric infrastructure or of defense critical electric infrastructure, as a result of such act or event; or
+&emsp;&emsp;(ii) disruption of the operation of such devices or networks, with significant adverseeffects on the reliability of critical electric infrastructure or of defense critical electric infrastructure, as a result of such act or event; or
 
 &emsp;&emsp;(B)(i) a direct physical attack on critical electric infrastructure or on defense critical electric infrastructure; and
 
@@ -90,7 +90,7 @@ For purposes of this section:
 
 #### (7) Temporary access to classified information
 
-&emsp;The Secretary, and other appropriate Federal agencies, shall, to the extent practicableand consistent with their obligations to protect classified information, provide temporary access to classified information related to a grid security emergency for which emergency measures are issued under paragraph (1) to key personnel of any entity subject to such emergency measures to enable optimum communication between the entity and the Secretary and other appropriate Federal agencies regarding the grid security emergency.
+&emsp;The Secretary, and other appropriate Federal agencies, shall, to the extent practicable and consistent with their obligations to protect classified information, provide temporary access to classified information related to a grid security emergency for which emergency measures are issued under paragraph (1) to key personnel of any entity subject to such emergency measures to enable optimum communication between the entity and the Secretary and other appropriate Federal agencies regarding the grid security emergency.
 
 #### (c) Designation of critical defense facilities
 
@@ -166,7 +166,7 @@ Not later than 180 days after December 4, 2015, the Secretary, in consultation w
 
 #### (10) Removal of designation
 
-&emsp;The Commission or the Secretary, as appropriate, shall remove the designation of criticalelectric infrastructure information, in whole or in part, from a document or electronic communication if the Commission or the Secretary, as appropriate, determines that the unauthorized disclosure of such information could no longer be used to impair the security or reliability of the bulk-power system or distribution facilities.
+&emsp;The Commission or the Secretary, as appropriate, shall remove the designation of critical electric infrastructure information, in whole or in part, from a document or electronic communication if the Commission or the Secretary, as appropriate, determines that the unauthorized disclosure of such information could no longer be used to impair the security or reliability of the bulk-power system or distribution facilities.
 
 #### (11) Judicial review of designations
 

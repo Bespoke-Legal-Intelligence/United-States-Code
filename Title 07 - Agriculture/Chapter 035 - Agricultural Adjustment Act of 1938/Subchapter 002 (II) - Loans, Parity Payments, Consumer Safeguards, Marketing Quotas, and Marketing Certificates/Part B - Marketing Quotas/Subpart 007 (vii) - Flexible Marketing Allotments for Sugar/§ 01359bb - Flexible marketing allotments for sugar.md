@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;The marketing allotments under this subpart shall apply to the marketing by processors of sugar intended for domestic human consumption that has been processed fromsugar cane, sugar beets, or in-process beet sugar, whether such sugar beets or in-process beet sugar was produced domestically or imported.
+&emsp;The marketing allotments under this subpart shall apply to the marketing by processors of sugar intended for domestic human consumption that has been processed from sugar cane, sugar beets, or in-process beet sugar, whether such sugar beets or in-process beet sugar was produced domestically or imported.
 
 #### (2) Exceptions
 

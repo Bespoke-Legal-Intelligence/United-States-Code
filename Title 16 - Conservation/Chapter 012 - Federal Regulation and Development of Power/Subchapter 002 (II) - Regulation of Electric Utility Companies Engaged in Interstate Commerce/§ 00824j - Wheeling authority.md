@@ -56,7 +56,7 @@ As used in this section, the term "facilities" means only facilities used for th
 
 Subsec. (d)(1). Pub. L. 109–58, §1295(c)(2), substituted "if the transmitting utility providing" for "if the electric utility providing" in introductory provisions.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under thissubsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services)."
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services)."
 
 Pub. L. 102–486, §721(2), in second sentence, substituted "the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order." for "the Commission may issue such order if it finds that such order—
 
@@ -72,7 +72,7 @@ Pub. L. 102–486, §721(2), in second sentence, substituted "the Commission may
 
 &emsp;"(3) meets the requirements of section 824k of this title."
 
-Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
+Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy forresale and notice, hearing, and determinations by Commission.
 
 Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), and substituted "which requires the transmitting" for "which requires the electric" in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 

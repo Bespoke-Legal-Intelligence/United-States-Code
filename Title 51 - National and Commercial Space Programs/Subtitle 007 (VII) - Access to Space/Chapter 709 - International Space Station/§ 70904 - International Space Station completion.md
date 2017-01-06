@@ -26,7 +26,7 @@ Contingencies.—
 
 &emsp;(1)
 
-Policy.—The Administrator shall ensure that the International Space Station can have available, if needed, sufficient logistics and on-orbit capabilities to support any potential period during which the space shuttle or its follow-on crew and cargo systems are unavailable, and can have available, if needed, sufficient surge delivery capability or prepositioning of spares and other supplies needed to accommodate any such hiatus.
+Policy.—The Administrator shall ensure that the International Space Station can have available, if needed, sufficient logistics and on-orbit capabilities to support any potential period during which the space shuttle or its follow-on crew and cargo systems are unavailable, and can have available, if needed, sufficient surge delivery capability orprepositioning of spares and other supplies needed to accommodate any such hiatus.
 
 &emsp;(2)
 

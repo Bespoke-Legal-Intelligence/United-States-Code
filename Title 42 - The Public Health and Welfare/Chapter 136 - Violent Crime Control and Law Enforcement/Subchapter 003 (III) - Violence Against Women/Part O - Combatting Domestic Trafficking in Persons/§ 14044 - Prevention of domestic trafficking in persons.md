@@ -68,9 +68,9 @@
 
 There are authorized to be appropriated—
 
-&emsp;(1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) of this section and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii) of this section; and
+&emsp;(1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
 
-&emsp;(2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2) of this section.
+&emsp;(2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2).
 
 (Pub. L. 109–164, title II, §201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, §302(2), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1252(2), Mar. 7, 2013, 127 Stat. 156.)
 

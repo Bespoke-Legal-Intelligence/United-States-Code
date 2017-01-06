@@ -2,11 +2,11 @@
 
 (a)
 
-Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. TheChairman serves at the pleasure of the President for a term of two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
+Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
 
 (2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term, but may be reappointed as provided in paragraph (1).
 
-(3) An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.
+(3) An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if thecombined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.
 
 (b)
 
@@ -24,9 +24,29 @@ Requirement for Appointment.—(1) The President may appoint an officer as Chair
 
 Grade and Rank.—The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, §921(b)(1), Dec. 23, 2016, 130 Stat. 2351.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 114–328, div. A, title IX, §921(b), Dec. 23, 2016, 130 Stat. 2351, provided that, effective Jan. 1, 2019, and applicable to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by striking "two years, beginning on October 1 of odd-numbered years" and all that follows and inserting "four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war."; and</i>
+
+<i>(2) by striking paragraph (3) and inserting the following new paragraph (3):</i>
+
+<i>"(3) The President may extend to eight years the combined period of service of an officer as Chairman and Vice Chairman if the President determines that such action is in the national interest. The limitation in this paragraph does not apply in time of war."</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §921(b)(1)(A), substituted "four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war." for "two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments."
+
+Subsec. (a)(3). Pub. L. 114–328, §921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war."
+
 <b>1987</b>—Pub. L. 100–180 substituted "grade and rank" for "rank" in section catchline.
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title IX, §921(b)(2), Dec. 23, 2016, 130 Stat. 2351, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 2019, and shall apply to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date."
 

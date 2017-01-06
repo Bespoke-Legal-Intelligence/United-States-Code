@@ -46,7 +46,7 @@
 
 (5)(A) Unless the complainant brings an action under paragraph (4), any person adversely affected or aggrieved by a final order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
-(B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
+(B) An order of the Secretary with respect to which review could have been obtained undersubparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
 (6) Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary may file a civil action in the United States district court for the district in which the violation was found to occur, or in the United States district court for the District of Columbia, to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief and compensatory damages.
 

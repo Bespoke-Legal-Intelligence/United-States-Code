@@ -2,7 +2,7 @@
 
 #### (a) Approval of application
 
-The Secretary shall provide a community development corporation that has an application approved under section 13823 of this title with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b) of this section.
+The Secretary shall provide a community development corporation that has an application approved under section 13823 of this title with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b).
 
 #### (b) Limitations on availability of amounts
 
@@ -20,7 +20,7 @@ The Secretary shall provide a community development corporation that has an appl
 
 #### (c) Amounts drawn from line of credit
 
-Amounts drawn from each line of credit under this subpart shall be used solely for the purposesdescribed in section 13821 of this title and shall only be drawn down as needed to provide loans, investments, or to defray administrative costs related to the establishment of a revolving loan fund.
+Amounts drawn from each line of credit under this subpart shall be used solely for the purposes described in section 13821 of this title and shall only be drawn down as needed to provide loans, investments, or to defray administrative costs related to the establishment of a revolving loan fund.
 
 #### (d) Use of revolving loan funds
 

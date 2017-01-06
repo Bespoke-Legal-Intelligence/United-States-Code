@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any appointment authority of the Office of Thrift Supervision under Federal law that relates to the functions transferred under section 5412 of this title, including the regulations of the Office of Personnel Management, for filling the positions of employees in the excepted service shall be transferred to the Comptroller of the Currency or theChairperson of the Corporation, as appropriate.
+&emsp;&emsp;Except as provided in subparagraph (B), any appointment authority of the Office of Thrift Supervision under Federal law that relates to the functions transferred under section 5412 of this title, including the regulations of the Office of Personnel Management, for filling the positions of employees in the excepted service shall be transferred to the Comptroller of the Currency or the Chairperson of the Corporation, as appropriate.
 
 #### (B) Declining transfers allowed
 
@@ -100,7 +100,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (1) 30-month protection
 
-&emsp;Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under this part, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have beenreduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
+&emsp;Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under this part, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have been reduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
 
 #### (2) Exceptions
 
@@ -126,7 +126,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (i) Continuation of existing retirement plan
 
-&emsp;&emsp;&emsp;Each transferred employee shall remain enrolled in the retirement plan of the transferred employee, for as long as the transferred employee is employed by the Office of the Comptroller of the Currency or the Corporation.
+&emsp;&emsp;&emsp;Each transferred employee shall remain enrolled in the retirement plan of thetransferred employee, for as long as the transferred employee is employed by the Office of the Comptroller of the Currency or the Corporation.
 
 #### (ii) Employer's contribution
 
@@ -174,7 +174,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (iii) Funds transfer
 
-&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as the case maybe, shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
+&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
 
 #### (E) Special provisions to ensure continuation of life insurance benefits
 
@@ -231,6 +231,10 @@ In administering the provisions of this section, the Comptroller of the Currency
 #### References in Text
 
 This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealed section 1441a of this title, enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under section 5301 of this title and Tables.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

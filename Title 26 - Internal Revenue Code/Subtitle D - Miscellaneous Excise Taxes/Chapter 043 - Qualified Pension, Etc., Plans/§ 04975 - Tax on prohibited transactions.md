@@ -44,7 +44,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (4) Special rule for Archer MSAs
 
-&emsp;An individual for whose benefit an Archer MSA (within the meaning of section 220(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 220(e)(2) applies to such transaction.
+&emsp;An individual for whose benefit an Archer MSA (within the meaning of section 220(d)) isestablished shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 220(e)(2) applies to such transaction.
 
 #### (5) Special rule for Coverdell education savings accounts
 
@@ -52,7 +52,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (6) Special rule for health savings accounts
 
-&emsp;An individual for whose benefit a health savings account (within the meaning of section223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
+&emsp;An individual for whose benefit a health savings account (within the meaning of section 223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
 
 #### (d) Exemptions
 
@@ -200,11 +200,11 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(C) no brokerage commission, fee (except for customary transfer fees, the fact of which is disclosed pursuant to subparagraph (D)), or other remuneration is paid in connection with the transaction,
 
-&emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions under which cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including the written policies and procedures of the investment manager described in subparagraph (H),
+&emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions underwhich cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including the written policies and procedures of the investment manager described in subparagraph (H),
 
 &emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 407(d)(7) of the Employee Retirement Income Security Act of 1974), the master trust has assets of at least $100,000,000,
 
-&emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the planparticipated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
+&emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the plan participated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
 
 &emsp;&emsp;(G) the investment manager does not base its fee schedule on the plan's consent to cross trading, and no other service (other than the investment opportunities and cost savings available through a cross trade) is conditioned on the plan's consent to cross trading,
 
@@ -282,7 +282,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(A) exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authority or control respecting management or disposition of its assets,
 
-&emsp;&emsp;(B) renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property ofsuch plan, or has any authority or responsibility to do so, or
+&emsp;&emsp;(B) renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or has any authority or responsibility to do so, or
 
 &emsp;&emsp;(C) has any discretionary authority or discretionary responsibility in the administration of such plan.
 
@@ -424,7 +424,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An investment advice program meets the requirements of this subparagraph if therequirements of clauses (ii), (iii), and (iv) are met.
+&emsp;&emsp;&emsp;An investment advice program meets the requirements of this subparagraph if the requirements of clauses (ii), (iii), and (iv) are met.
 
 #### (ii) Computer model
 
@@ -480,7 +480,7 @@ For purposes of this section—
 
 #### (ii) Special rule for individual retirement and similar plans
 
-&emsp;&emsp;&emsp;In the case of a plan described in subparagraphs (B) through (F) (and so much of subparagraph (G) as relates to such subparagraphs) of subsection (e)(1), in lieu of the requirements of clause (i), audits of the arrangement shall be conducted at such times and in such manner as the Secretary of Labor may prescribe.
+&emsp;&emsp;&emsp;In the case of a plan described in subparagraphs (B) through (F) (and so much of subparagraph (G) as relates to such subparagraphs) of subsection (e)(1), in lieu of the requirements of clause (i), audits of the arrangement shall be conducted atsuch times and in such manner as the Secretary of Labor may prescribe.
 
 #### (iii) Independent auditor
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
-&emsp;&emsp;&emsp;&emsp;(II) a bank or similar financial institution referred to in subsection (d)(4) or asavings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
+&emsp;&emsp;&emsp;&emsp;(II) a bank or similar financial institution referred to in subsection (d)(4) or a savings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
 &emsp;&emsp;&emsp;&emsp;(III) an insurance company qualified to do business under the laws of a State,
 
@@ -650,7 +650,7 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-628, 2763A-629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969-971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106.)
 
 #### References in Text
 
@@ -662,7 +662,7 @@ The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is t
 
 The Investment Advisers Act of 1940, referred to in subsec. (f)(8)(J)(i)(I), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to section 78f of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch.404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to section 78f of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
 
@@ -772,7 +772,7 @@ Subsec. (d)(1)(B). Pub. L. 99–514, §1114(b)(15)(A), substituted "highly compe
 
 Subsec. (e)(7). Pub. L. 99–514, §1854(f)(3)(A), inserted ", section 409(o), and, if applicable, section 409(n)" in last sentence.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–369, §491(d)(45), substituted in provision following par. (15) "or an individual retirement annuity (as defined in section 408)" for", individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409)".
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §491(d)(45), substituted in provision following par. (15) "or an individual retirement annuity (as defined in section 408)" for ", individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409)".
 
 Subsec. (e)(1). Pub. L. 98–369, §491(d)(46), struck out "or 405(a)" after "section 403(a)" and "or a retirement bond described in section 409" after "section 408(b)", and substituted "or annuity" for "annuity, or bond" and "or account" for "account, or bond".
 
@@ -844,7 +844,7 @@ Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. 
 
 Pub. L. 107–16, title VI, §612(c), June 7, 2001, 115 Stat. 100, provided that: "The amendment made by this section \[amending this section and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 2001."
 
-Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
+Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, exceptthat in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -854,7 +854,7 @@ Pub. L. 105–34, title X, §1074(b), Aug. 5, 1997, 111 Stat. 949, provided that
 
 Amendment by section 1506(b)(1) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1506(c) of Pub. L. 105–34, set out as a note under section 409 of this title.
 
-Amendment by section 1530(c)(10) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the useof, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by section 1530(c)(10) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
@@ -916,13 +916,13 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 
 "(2) Section 4975 of the Internal Revenue Code of 1986 (relating to tax on prohibited transactions) shall not apply to—
 
-&emsp;"(A) a loan of money or other extension of credit between a plan and a disqualified person under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such loan or other extension of credit remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be, and if the execution of the contract, the making of the loan, or the extension of credit was not, at the time of such execution, making, or extension, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law);
+&emsp;"(A) a loan of money or other extension of credit between a plan and a disqualified person under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, ifsuch loan or other extension of credit remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be, and if the execution of the contract, the making of the loan, or the extension of credit was not, at the time of such execution, making, or extension, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law);
 
 &emsp;"(B) a lease of joint use of property involving the plan and a disqualified person pursuant to a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such lease or joint use remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the execution of the contract was not, at the time of such execution, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law;
 
 &emsp;"(C) the sale, exchange, or other disposition of property described in subparagraph (B) between a plan and a disqualified person before June 30, 1984, if—
 
-&emsp;&emsp;"(i) in the case of a sale, exchange, or other disposition of the property by the plan to the disqualified person, the plan receives an amount which isnot less than the fair market value of the property at the time of such disposition; and
+&emsp;&emsp;"(i) in the case of a sale, exchange, or other disposition of the property by the plan to the disqualified person, the plan receives an amount which is not less than the fair market value of the property at the time of such disposition; and
 
 &emsp;&emsp;"(ii) in the case of the acquisition of the property by the plan, the plan pays an amount which is not in excess of the fair market value of the property at the time of such acquisition:
 
@@ -1006,7 +1006,7 @@ In general.—If the Secretary of Labor initially makes a determination describe
 
 &emsp;"(ii)
 
-Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If theSecretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
+Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
 
 "(E)
 

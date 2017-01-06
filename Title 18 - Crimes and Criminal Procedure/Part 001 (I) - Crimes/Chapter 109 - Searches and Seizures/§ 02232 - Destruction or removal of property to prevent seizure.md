@@ -54,7 +54,7 @@ Pub. L. 98–473, §1103(b), inserted paragraph relating to the penalties for wa
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date thatis 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1986 Amendment
 

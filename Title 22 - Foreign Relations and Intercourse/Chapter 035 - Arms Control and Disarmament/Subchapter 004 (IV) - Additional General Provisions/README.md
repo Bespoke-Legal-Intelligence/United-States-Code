@@ -17,3 +17,4 @@
 - [&sect; 02593a - Annual report to Congress](%C2%A7%2002593a%20-%20Annual%20report%20to%20Congress.md)
 - [&sect; 02593b - Public annual report on world military expenditures and arms transfers](%C2%A7%2002593b%20-%20Public%20annual%20report%20on%20world%20military%20expenditures%20and%20arms%20transfers.md)
 - [&sect; 02593c, 2593d - Repealed. Pub. L. 105&#8211;277, div. G, subdiv. A, title XII, &sect;1222, Oct. 21, 1998, 112 Stat. 2681&#8211;768](%C2%A7%2002593c%2C%202593d%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20A%2C%20title%20XII%2C%20%C2%A71222%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93768.md)
+- [&sect; 02593e - Measures against persons involved in activities that violate arms control treaties or agreements with the United States](%C2%A7%2002593e%20-%20Measures%20against%20persons%20involved%20in%20activities%20that%20violate%20arms%20control%20treaties%20or%20agreements%20with%20the%20United%20States.md)

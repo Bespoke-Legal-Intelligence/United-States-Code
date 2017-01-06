@@ -22,7 +22,7 @@
 
 #### (3) Tolerances
 
-&emsp;Where the Secretary or his delegate finds that the revenue will not be endangered thereby, he may by regulations prescribe tolerances for barrels and fractional parts of barrels, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a barrel or a fractional part of a barrel are within the limit of the applicable tolerance prescribed.
+&emsp;Where the Secretary or his delegate finds that the revenue will not be endangered thereby, he may by regulations prescribe tolerancesfor barrels and fractional parts of barrels, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a barrel or a fractional part of a barrel are within the limit of the applicable tolerance prescribed.
 
 #### (b) Assessment on materials used in production in case of fraud
 

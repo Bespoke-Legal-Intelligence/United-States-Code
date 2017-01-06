@@ -122,7 +122,7 @@ Section 3 of the Act of June 28, 1906 (34 Stat. 539), referred to in par. (3), i
 
 #### Amendments
 
-<b>1996</b>—Par. (7). Pub. L. 104–185, §2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'lessee' means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;".
+<b>1996</b>—Par. (7). Pub. L. 104–185, §2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'lessee' means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, orany person who has been assigned an obligation to make royalty or other payments required by the lease;".
 
 Pars. (17) to (25). Pub. L. 104–185, §2(2), added pars. (17) to (25).
 

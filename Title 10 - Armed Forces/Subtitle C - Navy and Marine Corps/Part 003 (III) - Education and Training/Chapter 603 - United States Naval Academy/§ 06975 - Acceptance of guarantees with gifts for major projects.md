@@ -22,7 +22,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Major project.—The term "major project" means a project for the purchase or other procurement of real or personal property, or for the construction, renovation, or repair of real or personal property, the totalcost of which is, or is estimated to be, at least $1,000,000.
+Major project.—The term "major project" means a project for the purchase or other procurement of real or personal property, or for the construction, renovation, or repair of real or personal property, the total cost of which is, or is estimated to be, at least $1,000,000.
 
 &emsp;(2)
 

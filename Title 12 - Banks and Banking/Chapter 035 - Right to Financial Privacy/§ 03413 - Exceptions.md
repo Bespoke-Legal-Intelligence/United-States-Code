@@ -26,7 +26,7 @@ Nothing in this chapter shall apply when financial records are sought by a Gover
 
 #### (g) Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers
 
-The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[50 U.S.C. 4305(b)\]; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
+The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 4305(b) of title 50; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
 
 #### (h) Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc.
 
@@ -68,7 +68,7 @@ This chapter shall not apply when financial records are sought by the Government
 
 &emsp;(B) the investigation or recovery of an improper Federal payment or collection of funds or an improperly negotiated Treasury check.
 
-(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing information contained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
+(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing informationcontained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
 
 #### (l) Crimes against financial institutions by insiders
 
@@ -114,9 +114,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223,Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, setout as an Effective Date note under section 375b of this title.
 
 The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -175,4 +175,8 @@ Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any rec
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of Title 26, Internal Revenue Code.
+
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 

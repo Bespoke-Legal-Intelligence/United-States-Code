@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Sergeant at Arms and Doorkeeper of the Senate may directly, or through the GeneralServices Administration, transfer title to excess or surplus educationally useful equipment to a public school. Any such transfer shall be completed at the lowest possible cost to the public school and the Senate.
+The Sergeant at Arms and Doorkeeper of the Senate may directly, or through the General Services Administration, transfer title to excess or surplus educationally useful equipment to a public school. Any such transfer shall be completed at the lowest possible cost to the public school and the Senate.
 
 #### (b) Regulations
 

@@ -16,7 +16,7 @@ Office and Director.—(1) There is an Office of Corrosion Policy and Oversight 
 
 (b)
 
-Duties.—(1) The Director of Corrosion Policy and Oversight (in this section referred to as the "Director") shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
+Duties.—(1) The Director of Corrosion Policy and Oversight (in this section referred to as the "Director") shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the militaryequipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
 
 (2) The Director shall develop and recommend any policy guidance on the prevention and mitigation of corrosion to be issued by the Secretary of Defense.
 
@@ -68,21 +68,27 @@ Long-Term Strategy.—(1) The Secretary of Defense shall develop and implement a
 
 (e)
 
-Report.—(1) For each budget for a fiscal year, beginning with the budget for fiscal year 2009, the Secretary of Defense shall submit, with the defense budget materials, a report on the following:
+Report.—(1) For each budget for a fiscal year, beginning with the budget for fiscal year 2009 and ending with the budget for fiscal year 2022, the Secretary of Defense shall submit, with the defense budget materials, a report on the following:
 
 &emsp;(A) Funding requirements for the long-term strategy developed under subsection (d).
 
-&emsp;(B) The return on investment that would be achieved by implementing the strategy, including available validated data on return on investment for completed corrosion projects and activities.
+&emsp;(B) The estimated composite return on investment achieved by implementing the strategy, and documented in the assessments by the Department of Defense of completed corrosion projects and activities.
 
 &emsp;(C) For the fiscal year covered by the report and the preceding fiscal year, the funds requested in the budget compared to the funding requirements.
 
-&emsp;(D) An explanation if the funding requirements are not fully funded in the budget.
+&emsp;(D) If the full amount of funding requirements is not requested in the budget, the reasons for not including the full amount and a description of the impact on readiness, logistics, and safety of not fully funding required corrosion prevention and mitigation activities.
 
 &emsp;(E) For the fiscal year preceding the fiscal year covered by the report, the amount of funds requested in the budget for each project or activity described in subsection (d) compared to the funding requirements for the project or activity.
 
-&emsp;(F) For the fiscal year preceding the fiscal year covered by the report, a description of the specific amount of funds used for military corrosion projects, the Technical Corrosion Collaboration pilot program, and other corrosion-related activities.
+&emsp;(F) For the fiscal year preceding the fiscal year covered by the report, a description of the specific amount of funds used for military corrosion projects, the Technical Corrosion Collaboration program, and other corrosion-related activities.
 
-(2) Each report under this section shall include, in an annex to the report, a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).
+(2)(A) Each report under this section shall include, in an annex to the report, a summary of the most recent report required by subparagraph (B).
+
+(B) Not later than December 31 of each year, through December 31, 2020, the corrosion control and prevention executive of a military department shall submit to the Director of CorrosionPolicy and Oversight a report containing recommendations pertaining to the corrosion control and prevention program of the military department. Such report shall include recommendations for the funding levels necessary for the executive to carry out the duties of the executive under this section. The report required under this subparagraph shall—
+
+&emsp;(i) provide a summary of key accomplishments, goals, and objectives of the corrosion control and prevention program of the military department; and
+
+&emsp;(ii) include the performance measures used to ensure that the corrosion control and prevention program achieved the goals and objectives described in clause (i).
 
 (f)
 
@@ -98,9 +104,19 @@ Definitions.—In this section:
 
 &emsp;(5) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, §954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(1). Pub. L. 114–328, §954(a)(1), inserted "and ending with the budget for fiscal year 2022" after "2009" in introductory provisions.
+
+Subsec. (e)(1)(B). Pub. L. 114–328, §954(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The return on investment that would be achieved by implementing the strategy, including available validated data on return on investment for completed corrosion projects and activities."
+
+Subsec. (e)(1)(D). Pub. L. 114–328, §954(a)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "An explanation if the funding requirements are not fully funded in the budget."
+
+Subsec. (e)(1)(F). Pub. L. 114–328, §954(a)(4), struck out "pilot" before "program".
+
+Subsec. (e)(2). Pub. L. 114–328, §954(b), designated existing provisions as subpar. (A), substituted "a summary of the most recent report required by subparagraph (B)." for "a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).", and added subpar. (B).
 
 <b>2013</b>—Subsec. (e)(1)(B). Pub. L. 112–239, §341(1)(A), inserted ", including available validated data on return on investment for completed corrosion projects and activities" before period at end.
 
@@ -178,7 +194,21 @@ Corrosion Study.—The corrosion study described in this subsection is the study
 
 #### Corrosion Control and Prevention Executives for the Military Departments
 
-Pub. L. 110–417, \[div. A\], title IX, §903, Oct. 14, 2008, 122 Stat. 4566, as amended by Pub. L. 113–66, div. A, title III, §334, title X, §1084(b)(1), Dec. 26, 2013, 127 Stat. 740, 871, provided that:
+Pub. L. 114–328, div. A, title III, §322, Dec. 23, 2016, 130 Stat. 2075, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Director of Corrosion Policy and Oversight for the Department of Defense, shall revise guidance relating to corrosion control and prevention executives to—
+
+&emsp;"(1) clarify the role of each such executive with respect to assisting the Office of Corrosion Policy and Oversight in holding the appropriate project management office in each military department accountable for submitting the annual report required under \[former\] section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2228 note \[set out below\]); and
+
+&emsp;"(2) ensure that corrosion control and prevention executives emphasize the reduction of corrosion and the effects of corrosion on the military equipment and infrastructure of the Department of Defense, as required in the long-term strategy of the Department of Defense under section 2228(d) of title 10, United States Code.
+
+"(b)
+
+Corrosion Control and Prevention Executive Defined.—In this section, the term 'corrosion control and prevention executive' means the employee of a military department designated as the corrosion control and prevention executive of the department under section 903(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2228 note)."
+
+Pub. L. 110–417, \[div. A\], title IX, §903, Oct. 14, 2008, 122 Stat. 4566, as amended by Pub. L. 113–66, div. A, title III, §334, title X, §1084(b)(1), Dec. 26, 2013, 127 Stat. 740, 871; Pub. L. 114–328, div. A, title IX, §954(c), Dec. 23, 2016, 130 Stat. 2377, provided that:
 
 "(a)
 
@@ -202,7 +232,7 @@ Duties.—(1) The corrosion control and prevention executive of a military depar
 
 "(2) The corrosion control and prevention executive of a military department shall be responsible for identifying the funding levels necessary to accomplish the items listed in subparagraphs (A) through (F) of paragraph (1).
 
-"(3) The corrosion control and prevention executive of a military department shall, in cooperation with the appropriate staff of the department, develop, support, and provide the rationale for resources—
+"(3) The corrosion control and prevention executive of a military department shall, in cooperation with theappropriate staff of the department, develop, support, and provide the rationale for resources—
 
 &emsp;"(A) to initiate and sustain an effective corrosion control and prevention program in the department;
 
@@ -212,13 +242,7 @@ Duties.—(1) The corrosion control and prevention executive of a military depar
 
 "(4) The corrosion control and prevention executive of a military department shall be the principal point of contact of the department to the Director of Corrosion Policy and Oversight (as assigned under section 2228 of title 10, United States Code).
 
-"(5)(A) Not later than December 31 of each year, the corrosion control and prevention executive of a military department shall submit to the Secretary of Defense a report containing recommendations pertaining to the corrosion control and prevention program of the military department. Such report shall include recommendations for the funding levels necessary for the executive to carry out the duties of the executive under this section.
-
-"(B) The report required under subparagraph (A) shall—
-
-&emsp;"(i) provide a clear linkage between the corrosion control and prevention program of the military department and the overarching goals and objectives of the long-term corrosion control and prevention strategy developed and implemented by the Secretary of Defense under section 2228(d) of title 10, United States Code; and
-
-&emsp;"(ii) include performance measures to ensure that the corrosion control and prevention program is achieving the goals and objectives described in clause (i)."
+"\[(5) Repealed. Pub. L. 114–328, div. A, title IX, §954(c), Dec. 23, 2016, 130 Stat. 2377.\]"
 
 #### Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review
 

@@ -70,7 +70,7 @@ Safety Orders.—
 
 &emsp;(1)
 
-In general.—Not later than December 31, 2007, the Secretary shall issue regulations providing that, after notice and opportunity for a hearing, if the Secretary determines that a pipeline facility has a condition that poses a pipeline integrity risk to public safety, property, or the environment, the Secretary mayorder the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, or other appropriate action, to remedy that condition.
+In general.—Not later than December 31, 2007, the Secretary shall issue regulations providing that, after notice and opportunity for a hearing, if the Secretary determines that a pipeline facility has a condition that poses a pipeline integrity risk to public safety, property, or the environment, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, or other appropriate action, to remedy that condition.
 
 &emsp;(2)
 
@@ -144,7 +144,93 @@ Use.—Amounts in the Fund shall be available to the Secretary, in amounts speci
 
 No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496; Pub. L. 112–90, §13(a), Jan. 3, 2012, 125 Stat. 1913.)
+(o)
+
+Emergency Order Authority.—
+
+&emsp;(1)
+
+In general.—If the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, constitutes or is causing an imminent hazard, the Secretary may issue an emergency order described in paragraph (3) imposing emergency restrictions, prohibitions, and safety measures on owners and operators of gas or hazardous liquid pipeline facilities without prior notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+
+&emsp;(2)
+
+Considerations.—
+
+&emsp;&emsp;(A)
+
+In general.—Before issuing an emergency order under paragraph (1), the Secretary shall consider, as appropriate, the following factors:
+
+&emsp;&emsp;&emsp;(i) The impact of the emergency order on public health and safety.
+
+&emsp;&emsp;&emsp;(ii) The impact, if any, of the emergency order on the national or regional economy or national security.
+
+&emsp;&emsp;&emsp;(iii) The impact of the emergency order on the ability of owners and operators of pipeline facilities to maintain reliability and continuity of service to customers.
+
+&emsp;&emsp;(B)
+
+Consultation.—In considering the factors under subparagraph (A), the Secretary shall consult, as the Secretary determines appropriate, with appropriate Federal agencies, State agencies, and other entities knowledgeable in pipeline safety or operations.
+
+&emsp;(3)
+
+Written order.—An emergency order issued by the Secretary pursuant to paragraph (1) with respect to an imminent hazard shall contain a written description of—
+
+&emsp;&emsp;(A) the violation, condition, or practice that constitutes or is causing the imminent hazard;
+
+&emsp;&emsp;(B) the entities subject to the order;
+
+&emsp;&emsp;(C) the restrictions, prohibitions, or safety measures imposed;
+
+&emsp;&emsp;(D) the standards and procedures for obtaining relief from the order;
+
+&emsp;&emsp;(E) how the order is tailored to abate the imminent hazard and the reasons the authorities under section 60112 and 60117(l) are insufficient to do so; and
+
+&emsp;&emsp;(F) how the considerations were taken into account pursuant to paragraph (2).
+
+&emsp;(4)
+
+Opportunity for review.—Upon receipt of a petition for review from an entity subject to, and aggrieved by, an emergency order issued under this subsection, the Secretary shall provide an opportunity for a review of the order under section 554 of title 5 to determine whether the order should remain in effect, be modified, or be terminated.
+
+&emsp;(5)
+
+Expiration of effectiveness order.—If a petition for review of an emergency order is filed under paragraph (4) and an agency decision with respect to the petition is not issued on or before the last day of the 30-day period beginning on the date on which the petition is filed, the order shall cease to be effective on such day, unless the Secretary determines in writing on or before the last day of such period that the imminent hazard still exists.
+
+&emsp;(6)
+
+Judicial review of orders.—
+
+&emsp;&emsp;(A)
+
+In general.—After completion of the review process described in paragraph (4), or the issuance of a written determination bythe Secretary pursuant to paragraph (5), an entity subject to, and aggrieved by, an emergency order issued under this subsection may seek judicial review of the order in a district court of the United States and shall be given expedited consideration.
+
+&emsp;&emsp;(B)
+
+Limitation.—The filing of a petition for review under subparagraph (A) shall not stay or modify the force and effect of the agency's final decision under paragraph (4), or the written determination under paragraph (5), unless stayed or modified by the Secretary.
+
+&emsp;(7)
+
+Regulations.—
+
+&emsp;&emsp;(A)
+
+Temporary regulations.—Not later than 60 days after the date of enactment of the PIPES Act of 2016, the Secretary shall issue such temporary regulations as are necessary to carry out this subsection. The temporary regulations shall expire on the date of issuance of the final regulations required under subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Final regulations.—Not later than 270 days after such date of enactment, the Secretary shall issue such regulations as are necessary to carry out this subsection. Such regulations shall ensure that the review process described in paragraph (4) contains the same procedures as subsections (d) and (g) of section 109.19 of title 49, Code of Federal Regulations, and is otherwise consistent with the review process developed under such section, to the greatest extent practicable and not inconsistent with this section.
+
+&emsp;(8)
+
+Imminent hazard defined.—In this subsection, the term "imminent hazard" means the existence of a condition relating to a gas or hazardous liquid pipeline facility that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of such death, illness, injury, or endangerment.
+
+&emsp;(9)
+
+Limitation and savings clause.—An emergency order issued under this subsection may not be construed to—
+
+&emsp;&emsp;(A) alter, amend, or limit the Secretary's obligations under, or the applicability of, section 553 of title 5; or
+
+&emsp;&emsp;(B) provide the authority to amend the Code of Federal Regulations.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993; Pub. L. 109–468, §§11, 13, 17, Dec. 29, 2006, 120 Stat. 3494–3496; Pub. L. 112–90, §13(a), Jan. 3, 2012, 125 Stat. 1913; Pub. L. 114–183, §16, June 22, 2016, 130 Stat. 525.)
 
 Historical and Revision Notes
 
@@ -332,7 +418,13 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 | --- | --- | --- |
 | 60117(i)(2) | 49 App.:1682 (note). | Oct. 24, 1992, Pub. L. 102–508, §304(c), 106 Stat. 3308. |
 
+#### References in Text
+
+The date of enactment of the PIPES Act of 2016 and such date of enactment, referred to in subsec. (o)(7), is the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (o). Pub. L. 114–183 added subsec. (o).
 
 <b>2012</b>—Subsec. (n). Pub. L. 112–90 amended subsec. (n) generally. Prior to amendment, text read as follows:
 
@@ -356,7 +448,7 @@ Subsecs. (m), (n). Pub. L. 109–468, §§11, 17, added subsecs. (m) and (n).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–304, §19, inserted "and promotional activities relating to prevention of damage to pipeline facilities" after "and training activities".
 
-Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted "owning" for "transporting gas or hazardous liquid"and inserted at end "The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines."
+Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted "owning" for "transporting gas or hazardous liquid" and inserted at end "The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines."
 
 Subsec. (k). Pub. L. 104–304, §12(2), added subsec. (k).
 
@@ -391,6 +483,30 @@ Presiding official.—The regulations issued under this subsection shall—
 "(3)
 
 Expedited review.—The regulations issued under this subsection shall define the term 'expedited review' for the purposes of paragraph (1)(C)."
+
+#### Safety Data Sheets
+
+Pub. L. 114–183, §14, June 22, 2016, 130 Stat. 524, provided that:
+
+"(a)
+
+In General.—Each owner or operator of a hazardous liquid pipeline facility, following an accident involving such pipeline facility that results in a hazardous liquid spill, shall provide safety data sheets on any spilled hazardous liquid to the designated Federal On-Scene Coordinator and appropriate State and local emergency responders within 6 hours of a telephonic or electronic notice of the accident to the National Response Center.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Federal on-scene coordinator.—The term 'Federal On-Scene Coordinator' has the meaning given such term in section 311(a) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)).
+
+&emsp;"(2)
+
+National response center.—The term 'National Response Center' means the center described under section 300.125(a) of title 40, Code of Federal Regulations.
+
+&emsp;"(3)
+
+Safety data sheet.—The term 'safety data sheet' means a safety data sheet required under section 1910.1200 of title 29, Code of Federal Regulations."
 
 #### Accident and Incident Notification
 

@@ -12,7 +12,7 @@
 
 #### (B) Members of House of Representatives
 
-&emsp;&emsp;One Member of the House of Representatives shall be appointed by the Speaker of the House of Representatives, and one Member of the House of Representatives shall be appointed by the Minority Leader of the House of Representatives.
+&emsp;&emsp;One Member of the House of Representatives shall be appointed by the Speaker ofthe House of Representatives, and one Member of the House of Representatives shall be appointed by the Minority Leader of the House of Representatives.
 
 #### (C) Additional members
 

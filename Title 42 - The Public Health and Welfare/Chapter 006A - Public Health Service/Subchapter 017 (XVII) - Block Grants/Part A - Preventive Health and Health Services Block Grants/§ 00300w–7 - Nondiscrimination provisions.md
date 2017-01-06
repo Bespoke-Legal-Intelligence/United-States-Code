@@ -8,7 +8,7 @@
 
 #### (b) Failure to comply
 
-Whenever the Secretary finds that a State, or an entity that has received a payment from an allotment to a State under section 300w–1 of this title, has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
+Whenever the Secretary finds that a State, or an entity that has received a payment from an allotment to a State under section 300w–1 of this title, has failed to comply with a provision of law referred to in subsection (a)(1), with subsection (a)(2), or with an applicable regulation (including one prescribed to carry out subsection (a)(2)), the Secretary shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted,
 
@@ -18,13 +18,13 @@ Whenever the Secretary finds that a State, or an entity that has received a paym
 
 #### (c) Civil actions by Attorney General
 
-When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever he has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of subsection (a)(2) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b)(1), or whenever he has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 (July 1, 1944, ch. 373, title XIX, §1908, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 542.)
 
 #### References in Text
 
-The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6101 of this title and Tables.
 
 The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 

@@ -40,7 +40,7 @@
 
 &emsp;(A) costs for consultant and expert witness fees that exceed the highest rate of compensation for expert witnesses paid by the Federal Government; or
 
-&emsp;(B) costs for attorneys' fees that exceed $150 per hour unless the agency determines, based on the recommendation of the Comptroller General on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
+&emsp;(B) costs for attorneys' fees that exceed $150 per hour unless the agency determines, based on the recommendation of the ComptrollerGeneral on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
 
 (3) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency shall—
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 "(2) Not later than January 31 of each year, the Comptroller General shall transmit to Congress a report describing each instance in which a Federal agency did not fully implement the Comptroller General's recommendations during the preceding fiscal year."
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out "unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period" after "submitted to the Comptroller General" before period at end.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out "unless the Comptroller General determines and states in writing the reasons that the specific circumstances of theprotest require a longer period" after "submitted to the Comptroller General" before period at end.
 
 #### Change of Name
 
@@ -137,6 +137,10 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date
 
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
+
+#### Inclusion of Information on Common Grounds for Sustaining Bid Protests in Annual Government Accountability Office Reports to Congress
+
+Pub. L. 114–328, div. A, title VIII, §889, Dec. 23, 2016, 130 Stat. 2323, provided that: "The Comptroller General of the United States shall include in the annual report to Congress on the Government Accountability Office each year a list of the most common grounds for sustaining protests relating to bids for contracts during such year."
 
 #### Prompt Payment of Costs Under Prior Law
 

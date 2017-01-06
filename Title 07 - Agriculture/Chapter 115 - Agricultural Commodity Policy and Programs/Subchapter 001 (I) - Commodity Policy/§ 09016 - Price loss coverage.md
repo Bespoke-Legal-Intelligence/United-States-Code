@@ -44,7 +44,7 @@ In determining the effective price for barley under subsection (b), the Secretar
 
 #### (g) Reference price for temperate japonica rice
 
-The Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to 115 percent of the amount established in subparagraphs (F) and (G) of section9011(18) of this title in order to reflect price premiums.
+The Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to 115 percent of the amount established in subparagraphs (F) and (G) of section 9011(18) of this title in order to reflect price premiums.
 
 (Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668.)
 

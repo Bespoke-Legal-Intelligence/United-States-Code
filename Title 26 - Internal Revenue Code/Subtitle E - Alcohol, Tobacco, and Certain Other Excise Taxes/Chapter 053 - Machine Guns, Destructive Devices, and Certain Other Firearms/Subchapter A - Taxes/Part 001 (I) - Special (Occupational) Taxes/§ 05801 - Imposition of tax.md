@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-On 1st engaging in business and thereafter on or before July 1 of each year, every importer, manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
+On 1st engaging in business and thereafter on or before July 1 of each year, every importer,manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
 
 &emsp;(1) Importers and manufacturers: $1,000 a year or fraction thereof.
 

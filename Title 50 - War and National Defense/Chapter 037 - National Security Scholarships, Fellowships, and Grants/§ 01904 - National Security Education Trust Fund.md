@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the "National Security Education Trust Fund". The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e) of this section.
+There is established in the Treasury of the United States a trust fund to be known as the "National Security Education Trust Fund". The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e).
 
 #### (b) Availability of sums in Fund
 
@@ -18,7 +18,7 @@ The Secretary of the Treasury shall invest in full the amount in the Fund that i
 
 #### (d) Authority to sell obligations
 
-Any obligation acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
+Any obligation acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold by the Secretary of the Treasury at the market price, and such specialobligations may be redeemed at par plus accrued interest.
 
 #### (e) Amounts credited to Fund
 
@@ -28,7 +28,7 @@ Any obligation acquired by the Fund (except special obligations issued exclusive
 
 (3) Any gifts of money shall be credited to and form a part of the Fund.
 
-(Pub. L. 102–183, title VIII, §804, Dec. 4, 1991, 105 Stat. 1274; Pub. L. 102–496, title IV, §404(e), Oct.24, 1992, 106 Stat. 3186; Pub. L. 103–160, div. A, title III, §375, Nov. 30, 1993, 107 Stat. 1637.)
+(Pub. L. 102–183, title VIII, §804, Dec. 4, 1991, 105 Stat. 1274; Pub. L. 102–496, title IV, §404(e), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 103–160, div. A, title III, §375, Nov. 30, 1993, 107 Stat. 1637.)
 
 #### Amendments
 

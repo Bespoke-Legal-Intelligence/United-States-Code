@@ -4,7 +4,7 @@
 
 Sections 1749bbb–11 to 1749bbb–21, comprising part D of this subchapter, terminated on Sept. 30, 1995, with certain exceptions, pursuant to former section 1749bbb(b) of this title.
 
-Section 1749bbb–11, act June 27, 1934, ch. 847, title XII, §1241, formerly §1231, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 563; renumbered §1241 and amended Pub. L. 91–609, title VI, §602(d), (g), (h), Dec.31, 1970, 84 Stat. 1789, 1790; Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to submission of claims, judicial review, jurisdiction, and statute of limitations.
+Section 1749bbb–11, act June 27, 1934, ch. 847, title XII, §1241, formerly §1231, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 563; renumbered §1241 and amended Pub. L. 91–609, title VI, §602(d), (g), (h), Dec. 31, 1970, 84 Stat. 1789, 1790; Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to submission of claims, judicial review, jurisdiction, and statute of limitations.
 
 Section 1749bbb–12, act June 27, 1934, ch. 847, title XII, §1242, formerly §1232, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 563; renumbered §1242 and amended Pub. L. 91–609, title VI, §602(d), (i), Dec. 31, 1970, 84 Stat. 1789, 1790; Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to fiscal intermediaries and servicing agents.
 
@@ -20,7 +20,7 @@ Section 1749bbb–17, act June 27, 1934, ch. 847, title XII, §1247, formerly §
 
 Section 1749bbb–18, act June 27, 1934, ch. 847, title XII, §1248, formerly §1238, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 566; renumbered §1248, Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to utilization of services and facilities of other agencies.
 
-Section 1749bbb–19, act June 27, 1934, ch. 847, title XII, §1249, formerly §1239, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 566; renumbered §1249, Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to advance payments.
+Section 1749bbb–19, act June 27, 1934, ch. 847, title XII, §1249, formerly §1239, as added Pub. L. 90–448, title XI,§1103, Aug. 1, 1968, 82 Stat. 566; renumbered §1249, Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to advance payments.
 
 Section 1749bbb–20, act June 27, 1934, ch. 847, title XII, §1250, formerly §1240, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 566; renumbered §1250, Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title I \[title IV, §452(b)(1)\], Nov. 30, 1983, 97 Stat. 1230, related to tax issues.
 

@@ -6,7 +6,7 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 &emsp;(A)(i) the employee, or another person at the employee's request, has filed a complaint or begun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or
 
-&emsp;(ii) the person perceives that the employee has filed or is about to file a complaint or hasbegun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order;
+&emsp;(ii) the person perceives that the employee has filed or is about to file a complaint or has begun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order;
 
 &emsp;(B) the employee refuses to operate a vehicle because—
 
@@ -90,7 +90,7 @@ Steps to address problem.—The Secretary of Homeland Security shall review and 
 
 (j)
 
-Definition.—In this section, "employee" means a driver of a commercial motor vehicle (including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
+Definition.—In this section, "employee" means a driver of a commercial motor vehicle\(including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 
 &emsp;(1) directly affects commercial motor vehicle safety or security in the course of employment by a commercial motor carrier; and
 

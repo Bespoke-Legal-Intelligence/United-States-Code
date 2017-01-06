@@ -1,0 +1,6 @@
+### §663. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–507, §5, Sept. 21, 1968, 82 Stat. 861, which authorized Secretary of the Interior to prescribe rules and regulations to carry out the provisions of former sections 659 to 663 of this title, was omitted from the Code as being of special and not general application.
+

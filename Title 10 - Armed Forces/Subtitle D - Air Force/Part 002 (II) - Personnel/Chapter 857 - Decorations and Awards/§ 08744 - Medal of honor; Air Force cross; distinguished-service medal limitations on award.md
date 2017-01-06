@@ -18,7 +18,7 @@
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 
-> a medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, as thecase may be, may be awarded to the person concerned within two years after the date of that determination.
+> a medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 540; Pub. L. 86–582, §1(3), July 5, 1960, 74 Stat. 320; Pub. L. 86–593, §1(2), July 6, 1960, 74 Stat. 331; Pub. L. 113–66, div. A, title V, §§561(c), 562(b), Dec. 26, 2013, 127 Stat. 766.)
 

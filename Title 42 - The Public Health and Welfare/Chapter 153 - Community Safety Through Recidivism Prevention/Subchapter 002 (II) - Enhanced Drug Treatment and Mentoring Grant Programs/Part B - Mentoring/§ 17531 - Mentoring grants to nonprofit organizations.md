@@ -10,7 +10,7 @@ A grant awarded under subsection (a) may be used for—
 
 &emsp;(1) mentoring adult and juvenile offenders during incarceration, through transition back to the community, and post-release;
 
-&emsp;(2) transitional services to assist in the reintegration of offenders into the community; and
+&emsp;(2) transitional services to assist in the reintegration of offenders into the community, including mental health care; and
 
 &emsp;(3) training regarding offender and victims issues.
 
@@ -34,11 +34,15 @@ The Attorney General shall require each applicant under this section to identify
 
 #### (e) Reports
 
-An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grantduring that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
+An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant during that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
 
 #### (f) Authorization of appropriations
 
 There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2009 and 2010.
 
-(Pub. L. 110–199, title II, §211, Apr. 9, 2008, 122 Stat. 679.)
+(Pub. L. 110–199, title II, §211, Apr. 9, 2008, 122 Stat. 679; Pub. L. 114–255, div. B, title XIV, §14009(b), Dec. 13, 2016, 130 Stat. 1297.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–255 inserted ", including mental health care" after "community".
 

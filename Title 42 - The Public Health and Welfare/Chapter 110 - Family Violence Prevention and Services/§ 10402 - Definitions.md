@@ -30,7 +30,7 @@ In this chapter:
 
 #### (5) Indian; Indian tribe; tribal organization
 
-&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given such terms in section 450b of title 25.
+&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given such terms in section 5304 of title 25.
 
 #### (6) Native Hawaiian
 

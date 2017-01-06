@@ -12,7 +12,7 @@
 
 #### (3) Gender
 
-&emsp;With respect to gender, target participation rates shall take into consideration the number of current and potential socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in the State.
+&emsp;With respect to gender, target participation rates shall take into consideration the numberof current and potential socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in the State.
 
 #### (b) Reservation and allocation
 

@@ -18,17 +18,17 @@ Notwithstanding chapters 1 to 11 and section 1302 of title 40 and division C (ex
 
 &emsp;(5) charge such fees as the Secretary of Agriculture considers reasonable for the use of the National Arboretum for commercial photography or cinematography;
 
-&emsp;(6) publish, in print and electronically and without regard to laws relating to printing bythe Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
+&emsp;(6) publish, in print and electronically and without regard to laws relating to printing by the Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
 
 &emsp;(7) license use of the National Arboretum name and logo for public service or commercial uses.
 
 #### (b) Use of funds
 
-Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) of this section shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
+Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
 
 #### (c) Acceptance of voluntary services
 
-The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
+The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1), and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 
 #### (d) Recognition of donors
 
@@ -38,7 +38,7 @@ A nonprofit organization that entered into a concession or agreement under subse
 
 #### Codification
 
-In subsec. (a), "chapters 1 to 11 and section 1302 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) and section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "chapters 1 to 11 and section 1302 of title 40 and division C (except sections 3302, 3307(e),3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) and section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

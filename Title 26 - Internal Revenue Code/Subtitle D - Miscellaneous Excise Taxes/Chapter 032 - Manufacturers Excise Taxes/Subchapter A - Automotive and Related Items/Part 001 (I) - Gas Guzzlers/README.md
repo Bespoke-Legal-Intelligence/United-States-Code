@@ -11,7 +11,7 @@
 
 <b>1986</b>—Pub. L. 99–514, title XVIII, §1875(f), Oct. 22, 1986, 100 Stat. 2897, substituted "guzzler" for "guzzlers" in item 4064.
 
-<b>1984</b>—Pub. L. 98–369, div. A, title VII, §735(a)(2), July 18, 1984, 98 Stat. 980, substituted "GAS GUZZLERS" for "MOTOR VEHICLES" in part I heading, struck out items 4061 "Imposition of tax", 4062 "Articles classified as parts", and 4063 "Exemptions", and substituted "guzzlers" for "guzzler" in item 4064.
+<b>1984</b>—Pub. L. 98–369, div. A, title VII, §735(a)(2), July 18, 1984, 98 Stat. 980, substituted "GAS GUZZLERS" for "MOTOR VEHICLES" in part I heading, struck out items 4061 "Imposition of tax", 4062 "Articles classifiedas parts", and 4063 "Exemptions", and substituted "guzzlers" for "guzzler" in item 4064.
 
 <b>1978</b>—Pub. L. 95–618, title II, §201(f), Nov. 9, 1978, 92 Stat. 3184, added item 4064.
 

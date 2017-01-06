@@ -20,9 +20,13 @@ Performance of Certain Acquisition-related Functions.—The Secretary of Defense
 
 (b)
 
-Rule of Construction.—Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or section 8014(c)(1)(A) of this title, except as explicitly provided in this section.
+Adherence to Requirements in Major Defense Acquisition Programs.—The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under section 2448a(a) of this title.
 
 (c)
+
+Rule of Construction.—Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or section 8014(c)(1)(A) of this title, except as explicitly provided in this section.
+
+(d)
 
 Definitions.—In this section:
 
@@ -36,13 +40,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) identifies production attributes required for a single increment of a program.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879.)
+&emsp;(3) The term "program capability document" has the meaning provided in section 2446a(b)(5) of this title.
+
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, §807(c), Dec. 23, 2016, 130 Stat. 2261.)
 
 #### Prior Provisions
 
 A prior section 2547 was renumbered section 2557 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsecs. (b), (c). Pub. L. 114–328, §807(c)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 114–328, §807(c)(1), redesignated subsec. (c) as (d).
+
+Subsec. (d)(3). Pub. L. 114–328, §807(c)(3), added par. (3).
 
 <b>2015</b>—Subsec. (a)(2) to (5). Pub. L. 114–92, §802(b)(1), (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Secretary to carry out the provisions of thispart $16,000,000 for each of the fiscal years 2015 through 2021. Amounts appropriated pursuant to this subsection shall remain available until expended.
+There are authorized to be appropriated to the Secretary to carry out the provisions of this part $16,000,000 for each of the fiscal years 2015 through 2021. Amounts appropriated pursuant to this subsection shall remain available until expended.
 
 #### (b) Personnel
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub
 
 For revival and applicability, beginning on June 29, 2015, of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
 
-For termination of section and reinstatement of former section 2345 of this title beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
+For termination of section and reinstatement of former section 2345 of this title beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27,set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
 
 For revival and applicability, beginning on Oct. 21, 2011, of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 

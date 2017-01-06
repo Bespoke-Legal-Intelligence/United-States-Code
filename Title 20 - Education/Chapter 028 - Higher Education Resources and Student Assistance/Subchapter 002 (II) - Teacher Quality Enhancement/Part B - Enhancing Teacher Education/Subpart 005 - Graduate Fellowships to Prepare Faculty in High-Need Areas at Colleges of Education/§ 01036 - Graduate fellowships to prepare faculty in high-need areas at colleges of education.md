@@ -38,7 +38,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 &emsp;&emsp;(B) may not provide a graduate fellowship to an otherwise eligible individual—
 
-&emsp;&emsp;&emsp;(i) during periods in which such individual is enrolled at an institution of higher education unless such individual is maintaining satisfactory academic progress in, and devoting full-time study or research to, the pursuit of the degree for which the fellowship support was provided; or
+&emsp;&emsp;&emsp;(i) during periods in which such individual is enrolled at an institution of higher education unless such individual is maintaining satisfactory academic progress in, and devoting full-time study or researchto, the pursuit of the degree for which the fellowship support was provided; or
 
 &emsp;&emsp;&emsp;(ii) if the individual is engaged in gainful employment, other than part-time employment related to teaching, research, or a similar activity determined by the institution to be consistent with and supportive of the individuals's <sup>1</sup> progress toward the degree for which the fellowship support was provided.
 
@@ -68,7 +68,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 #### (D) Failure to comply
 
-&emsp;&emsp;If an individual who receives a graduate fellowship award under this section fails to comply with the agreement signed pursuant to subparagraph (C), the sum of the amounts of any graduate fellowship award received by such recipient shall, upon a determination of such a failure, be treated as a Federal Direct Unsubsidized Stafford Loan under part C of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the fellowship award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
+&emsp;&emsp;If an individual who receives a graduate fellowship award under this section fails to comply with the agreement signed pursuant to subparagraph (C), the sum of the amounts of any graduate fellowship award received by such recipient shall, upon a determination of such a failure, be treated as a Federal Direct Unsubsidized Stafford Loan under part D of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the fellowship award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
 
 #### (E) Modified service requirement
 

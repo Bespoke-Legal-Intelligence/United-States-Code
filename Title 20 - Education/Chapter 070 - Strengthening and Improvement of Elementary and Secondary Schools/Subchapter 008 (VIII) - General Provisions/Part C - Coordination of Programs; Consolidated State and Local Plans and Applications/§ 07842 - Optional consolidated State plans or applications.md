@@ -4,7 +4,7 @@
 
 #### (1) Simplification
 
-&emsp;In order to simplify application requirements and reduce the burden for State educational agencies under this chapter, the Secretary, in accordance with subsection (b) of this section, shall establish procedures and criteria under which, after consultation with the Governor, a State educational agency may submit a consolidated State plan or a consolidated State application meeting the requirements of this section for—
+&emsp;In order to simplify application requirements and reduce the burden for State educational agencies under this chapter, the Secretary, in accordance with subsection (b), shall establish procedures and criteria under which, after consultation with the Governor, a State educational agency may submit a consolidated State plan or a consolidated State application meeting the requirements of this section for—
 
 &emsp;&emsp;(A) each of the covered programs in which the State participates; and
 

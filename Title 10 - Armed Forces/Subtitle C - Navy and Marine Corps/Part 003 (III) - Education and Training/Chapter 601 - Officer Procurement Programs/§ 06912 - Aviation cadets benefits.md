@@ -52,7 +52,7 @@ Section 6912 is amended by eliminating subsections (a) (less clause (4)) and (b)
 
 <b>1962</b>—Pub. L. 87–649 substituted "section 402(a) and (b) of title 37" for "section 251(a) of title 37".
 
-<b>1958</b>—Pub. L. 85–861 substituted "benefits" for "pay and allowances" in section catchline, and struck out provisions which prescribed the rate of pay of cadets, which authorized them to receive the same allowancesfor subsistence as prescribed for officers, which related to the furnishing of quarters, medical care and hospitalization, and which authorized transportation and expenses while traveling under orders.
+<b>1958</b>—Pub. L. 85–861 substituted "benefits" for "pay and allowances" in section catchline, and struck out provisions which prescribed the rate of pay of cadets, which authorized them to receive the same allowances for subsistence as prescribed for officers, which related to the furnishing of quarters, medical care and hospitalization, and which authorized transportation and expenses while traveling under orders.
 
 #### Effective Date of 1962 Amendment
 

@@ -20,7 +20,7 @@ Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty
 
 #### Effective Date of 1957 Amendment
 
-Amendment by Pub. L. 85–231 effective upon expiration of ninety days from Aug. 30, 1957, see section 2 ofPub. L. 85–231, set out as a note under section 213 of this title.
+Amendment by Pub. L. 85–231 effective upon expiration of ninety days from Aug. 30, 1957, see section 2 of Pub. L. 85–231, set out as a note under section 213 of this title.
 
 #### Effective Date of 1949 Amendment
 

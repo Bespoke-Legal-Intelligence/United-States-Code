@@ -1,6 +1,6 @@
 ### §1429. Determinations of Secretary as final and conclusive
 
-Determinations made by the Secretary under this Act shall be final and conclusive: <i>Provided</i>,That the scope and nature of such determinations shall not be inconsistent with the provisions of the Commodity Credit Corporation Charter Act \[15 U.S.C. 714 et seq.\].
+Determinations made by the Secretary under this Act shall be final and conclusive: <i>Provided</i>, That the scope and nature of such determinations shall not be inconsistent with the provisions of the Commodity Credit Corporation Charter Act \[15 U.S.C. 714 et seq.\].
 
 (Oct. 31, 1949, ch. 792, title IV, §412, 63 Stat. 1057.)
 

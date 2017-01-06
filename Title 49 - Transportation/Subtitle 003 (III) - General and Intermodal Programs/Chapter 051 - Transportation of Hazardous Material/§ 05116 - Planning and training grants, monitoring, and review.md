@@ -94,7 +94,7 @@ Minimizing Duplication of Effort and Expenses.—The Secretaries of Transportati
 
 (h)
 
-Annual Registration Fee Account and Its Uses.—The Secretary of the Treasury shallestablish an account in the Treasury (to be known as the "Hazardous Materials Emergency Preparedness Fund") into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation transfers to the Secretary of the Treasury under section 5108(g)(2)(C) of this title. Without further appropriation, amounts in the account are available—
+Annual Registration Fee Account and Its Uses.—The Secretary of the Treasury shall establish an account in the Treasury (to be known as the "Hazardous Materials Emergency Preparedness Fund") into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation transfers to the Secretary of the Treasury under section 5108(g)(2)(C) of this title. Without further appropriation, amounts in the account are available—
 
 &emsp;(1) to make grants under this section and section 5107(e);
 
@@ -152,7 +152,7 @@ Reports.—The Secretary shall submit an annual report to the Committee on Trans
 
 &emsp;(4) any recommendations the Secretary may have for improving such grant programs.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389,3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(b), July 6, 2012, 126 Stat. 832; Pub. L. 114–94, div. A, title VII, §7203(a), (b)(2), Dec. 4, 2015, 129 Stat. 1589, 1591.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(b), July 6, 2012, 126 Stat. 832; Pub. L. 114–94, div. A, title VII, §7203(a), (b)(2), Dec. 4, 2015, 129 Stat. 1589, 1591.)
 
 Historical and Revision Notes
 

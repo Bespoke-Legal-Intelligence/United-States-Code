@@ -86,7 +86,7 @@
 
 #### (2) Buffer acreage
 
-&emsp;The maximum size of any buffer acreage described in subsection (b)(2) that an owner or operator may enroll in the conservation reserve under this section shall be determined by the Secretary in consultation with the State Technical Committee.
+&emsp;The maximum size of any buffer acreage described in subsection (b)(2) that an owner oroperator may enroll in the conservation reserve under this section shall be determined by the Secretary in consultation with the State Technical Committee.
 
 #### (3) Tracts
 

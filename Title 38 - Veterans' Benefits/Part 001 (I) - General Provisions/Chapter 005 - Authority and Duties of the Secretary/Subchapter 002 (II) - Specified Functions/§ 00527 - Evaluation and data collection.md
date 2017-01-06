@@ -62,7 +62,7 @@ Reports by independent scientific organization.—The Secretary of Veterans Affa
 
 &emsp;&emsp;"(A) Not later than two years after the date on which the registry under subsection (a) is established, an initial report containing the following:
 
-&emsp;&emsp;&emsp;"(i) An assessment of the effectiveness of actions taken by the Secretaries to collect and maintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits.
+&emsp;&emsp;&emsp;"(i) An assessment of the effectiveness of actions taken by the Secretaries to collect andmaintain information on the health effects of exposure to toxic airborne chemicals and fumes caused by open burn pits.
 
 &emsp;&emsp;&emsp;"(ii) Recommendations to improve the collection and maintenance of such information.
 
@@ -226,7 +226,7 @@ Definitions.—For the purposes of this section:
 
 "(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek toenter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 "(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
@@ -266,7 +266,7 @@ Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense sh
 
 "(d)
 
-Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
+Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs andthe Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
 
 &emsp;"(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
 
@@ -296,7 +296,7 @@ Reports.—(1) Not later than July 1, 2010, and July 1 of each of the five follo
 
 "(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled 'VA National Survey of Persian Gulf Veterans—Phase III', the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature.
 
-"(B) With respect to any findings of that study and any other pertinent medical literature which identifyscientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
+"(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
 
 "(d)
 

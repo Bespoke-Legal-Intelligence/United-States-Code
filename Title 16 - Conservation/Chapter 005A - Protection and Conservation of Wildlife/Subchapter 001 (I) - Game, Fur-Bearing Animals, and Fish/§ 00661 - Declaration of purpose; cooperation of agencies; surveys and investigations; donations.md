@@ -50,7 +50,7 @@ Sec. 2. <i>Federal Activities</i>. Federal agencies shall, consistent with agenc
 
 (c) Manage wildlife and wildlife habitats on public lands in a manner that expands and enhances hunting opportunities, including through the use of hunting in wildlife management planning;
 
-(d) Work collaboratively with State governments to manage and conserve game species and their habitatsin a manner that respects private property rights and State management authority over wildlife resources;
+(d) Work collaboratively with State governments to manage and conserve game species and their habitats in a manner that respects private property rights and State management authority over wildlife resources;
 
 (e) Establish short and long term goals, in cooperation with State and tribal governments, and consistent with agency missions, to foster healthy and productive populations of game species and appropriate opportunities for the public to hunt those species;
 

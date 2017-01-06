@@ -24,7 +24,7 @@ It shall be unlawful for any person to knowingly sell, buy, possess, train, tran
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
-It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture, promoting <sup>2</sup> or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
+It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture, promoting <sup>2</sup> or in any other manner furthering an animal fighting ventureexcept as performed outside the limits of the States of the United States.
 
 #### (d) Violation of State law
 
@@ -42,7 +42,7 @@ The Secretary or any other person authorized by him shall make such investigatio
 
 In this section—
 
-&emsp;(1) the term "animal fighting venture" means any event, in or affecting interstate orforeign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment, except that the term "animal fighting venture" shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
+&emsp;(1) the term "animal fighting venture" means any event, in or affecting interstate or foreign commerce, that involves a fight conducted or to be conducted between at least 2 animals for purposes of sport, wagering, or entertainment, except that the term "animal fighting venture" shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
 
 &emsp;(2) the term "instrumentality of interstate commerce" means any written, wire, radio, television or other form of communication in, or using a facility of, interstate commerce;
 

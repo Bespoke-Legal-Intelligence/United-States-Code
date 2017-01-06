@@ -6,7 +6,7 @@ The Attorney General shall, within six months of October 13, 1980, issue guideli
 
 &emsp;(1) a recognition of the personal privacy interests of the person in possession of such documentary materials;
 
-&emsp;(2) a requirement that the least intrusive method or means of obtaining such materials be used which do not substantially jeopardize the availability or usefulness of the materials sought to be obtained;
+&emsp;(2) a requirement that the least intrusive method or means of obtaining such materialsbe used which do not substantially jeopardize the availability or usefulness of the materials sought to be obtained;
 
 &emsp;(3) a recognition of special concern for privacy interests in cases in which a search or seizure for such documents would intrude upon a known confidential relationship such as that which may exist between clergyman and parishioner; lawyer and client; or doctor and patient; and
 
@@ -14,7 +14,7 @@ The Attorney General shall, within six months of October 13, 1980, issue guideli
 
 #### (b) Use of search warrants; reports to Congress
 
-The Attorney General shall collect and compile information on, and report annually to the Committees on the Judiciary of the Senate and the House of Representatives on the use of search warrants by Federal officers and employees for documentary materials described in subsection (a)(3) of this section.
+The Attorney General shall collect and compile information on, and report annually to the Committees on the Judiciary of the Senate and the House of Representatives on the use of search warrants by Federal officers and employees for documentary materials described in subsection (a)(3).
 
 (Pub. L. 96–440, title II, §201, Oct. 13, 1980, 94 Stat. 1882.)
 

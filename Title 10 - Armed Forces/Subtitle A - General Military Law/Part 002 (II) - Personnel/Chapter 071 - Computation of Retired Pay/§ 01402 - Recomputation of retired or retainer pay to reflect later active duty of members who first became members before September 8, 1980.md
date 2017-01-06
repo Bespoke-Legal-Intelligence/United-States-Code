@@ -76,7 +76,7 @@ Oct. 12, 1949, ch. 681, §§402(d) (last proviso, less applicability to retired 
 
 In subsection (a), columns 1 and 2 of the table are based on 37:316 (1st proviso). Column 4 is based on 37:316 (last proviso). Footnote 1 is based on 37:316 (2d proviso). 37:316 (3d proviso) is omitted as operationally obsolete.
 
-In subsections (a) and (d), the words "and disregard a part of a year that is less than six months" are addedto footnote 1 to conform to footnote 3 of section 1401 of this title.
+In subsections (a) and (d), the words "and disregard a part of a year that is less than six months" are added to footnote 1 to conform to footnote 3 of section 1401 of this title.
 
 In subsection (b), the words "for which he would otherwise be eligible for retired pay under chapter 61 of this title" are substituted for the words "in accordance with the standard schedule of rating disabilities in current use by the Veterans' Administration" and "if qualified".
 
@@ -112,7 +112,7 @@ Subsec. (d). Pub. L. 98–94, §922(a)(4), substituted "according to the followi
 
 Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted "Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
 
-<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) of this title) before September 8, 1980" for "the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–513 substituted "a uniformed service (as defined in section 1407(a)(2) ofthis title) before September 8, 1980" for "the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981" wherever appearing.
 
 Pub. L. 96–342 inserted "who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and" after "of an armed force" wherever appearing.
 
@@ -210,7 +210,7 @@ Pub. L. 88–132, §5(a)–(f), Oct. 2, 1963, 77 Stat. 212, provided that:
 
 &emsp;&emsp;"(B) if he served on active duty after he retired and his retired pay was recomputed by reason of that service, when his retired pay was so recomputed;
 
-> &emsp;using as his rate of basic pay the rate of basic pay prescribed for officers serving on active duty in thosepositions on June 1, 1958, by footnote 1 to table for commissioned officers in section 201(a) of the Career Compensation Act of 1949, as amended (72 Stat. 122) \[see section 203 of Title 37\]; or
+> &emsp;using as his rate of basic pay the rate of basic pay prescribed for officers serving on active duty in those positions on June 1, 1958, by footnote 1 to table for commissioned officers in section 201(a) of the Career Compensation Act of 1949, as amended (72 Stat. 122) \[see section 203 of Title 37\]; or
 
 &emsp;"(2) to an increase of 5 percent in the retired pay to which he was entitled on the day before the effective date of this Act \[Oct. 1, 1963\];
 

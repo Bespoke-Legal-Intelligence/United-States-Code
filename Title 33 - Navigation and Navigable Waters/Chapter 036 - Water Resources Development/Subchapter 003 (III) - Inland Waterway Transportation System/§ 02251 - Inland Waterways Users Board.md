@@ -26,7 +26,7 @@ There is hereby established an Inland Waterway Users Board (hereinafter in this 
 
 #### (3) Project development teams
 
-&emsp;The chairperson of the Users Board shall appoint a representative of the Users Board toserve as an advisor to the project development team for a qualifying project or the study or design of a commercial navigation feature or component of the inland waterways and inland harbors of the United States.
+&emsp;The chairperson of the Users Board shall appoint a representative of the Users Board to serve as an advisor to the project development team for a qualifying project or the study or design of a commercial navigation feature or component of the inland waterways and inland harbors of the United States.
 
 #### (4) Independent judgment
 
@@ -74,7 +74,7 @@ The chairperson of the Users Board and the project development team member appoi
 
 #### (1) In general
 
-&emsp;The Users Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
+&emsp;The Users Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14, and, with the consent ofthe appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
 
 #### (2) Members not considered special Government employees
 

@@ -24,7 +24,7 @@ Section 5020, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Ju
 
 Section 5021, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Oct. 3, 1961, Pub. L. 87–336, 75 Stat. 750; Mar. 15, 1976, Pub. L. 94–233, §9, 90 Stat. 232, related to issuance of certificates setting aside convictions of youth offenders.
 
-Section 5022, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089, provided that this chapter would not apply to offenses committed before its enactment (Sept. 30, 1950).
+Section 5022, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089, provided that this chapter would not applyto offenses committed before its enactment (Sept. 30, 1950).
 
 Section 5023, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Apr. 8, 1952, ch. 163, §1, 66 Stat. 45, related to relationship between this chapter and Probation and Juvenile Delinquency Acts.
 

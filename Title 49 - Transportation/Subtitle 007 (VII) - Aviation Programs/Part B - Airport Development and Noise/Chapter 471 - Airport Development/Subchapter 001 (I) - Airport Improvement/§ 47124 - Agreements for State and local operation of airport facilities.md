@@ -52,7 +52,7 @@ Priority.—In selecting facilities to participate in the program, the Secretary
 
 &emsp;&emsp;&emsp;(ii) Air traffic control towers that the Secretary determines have a benefit-to-cost ratio of at least .50.
 
-&emsp;&emsp;&emsp;(iii) Air traffic control towers of the Federal Aviation Administration that areclosed as a result of the air traffic controllers strike in 1981.
+&emsp;&emsp;&emsp;(iii) Air traffic control towers of the Federal Aviation Administration that are closed as a result of the air traffic controllers strike in 1981.
 
 &emsp;&emsp;&emsp;(iv) Air traffic control towers located at airports or points at which an air carrier is receiving compensation under the essential air service program under this chapter.
 
@@ -68,7 +68,7 @@ Costs exceeding benefits.—If the costs of operating an air traffic tower under
 
 &emsp;&emsp;(E)
 
-Funding.—Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2015 and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016, may be used to carry out this paragraph.
+Funding.—Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2017 may be used to carry out this paragraph.
 
 &emsp;&emsp;(F)
 
@@ -84,7 +84,7 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;(i) a primary airport—
 
-&emsp;&emsp;&emsp;&emsp;(I) from amounts made available under sections 47114(c)(1) and 47114(c)(2) for the construction or improvement of a nonapproach control tower, as defined by the Secretary, and for the acquisition and installation of air traffic control, communications, and related equipment to be used in that tower;
+&emsp;&emsp;&emsp;&emsp;(I) from amounts made available under sections 47114(c)(1) and 47114(c)(2) for the construction or improvement of a nonapproach control tower, as defined by the Secretary, and for the acquisitionand installation of air traffic control, communications, and related equipment to be used in that tower;
 
 &emsp;&emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(1) and 47114(c)(2) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
@@ -120,13 +120,13 @@ Eligibility.—An airport sponsor shall be eligible for a grant under this parag
 
 &emsp;&emsp;(C)
 
-Limitation on federal share.—The Federal share of the cost of construction ofa nonapproach control tower under this paragraph may not exceed $2,000,000.
+Limitation on federal share.—The Federal share of the cost of construction of a nonapproach control tower under this paragraph may not exceed $2,000,000.
 
 (c)
 
 Safety Audits.—The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649; Pub. L. 112–95, title I, §147, Feb. 14, 2012, 126 Stat. 30; Pub. L. 113–76, div. L, title I, §118, Jan. 17, 2014, 128 Stat. 581; Pub. L. 113–235, div. K, title I, §118, Dec. 16, 2014, 128 Stat. 2704; Pub. L. 114–55, title I, §102(c), Sept. 30, 2015, 129 Stat. 523.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649; Pub. L. 112–95, title I, §147, Feb. 14, 2012, 126 Stat. 30; Pub. L. 113–76, div. L, title I, §118, Jan. 17, 2014, 128 Stat. 581; Pub. L. 113–235, div. K, title I, §118, Dec. 16, 2014, 128 Stat. 2704; Pub. L. 114–55, title I, §102(c), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(c), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(c), July 15, 2016, 130 Stat. 617.)
 
 Historical and Revision Notes
 
@@ -163,6 +163,10 @@ In subsection (b)(1), the words "in effect" are omitted as surplus. The words "o
 In subsection (b)(2), the word "Secretary" is substituted for "Administrator" for consistency in the chapter.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(E). Pub. L. 114–190 substituted "fiscal years 2012 through 2017" for "fiscal years 2012through 2015 and not more than $8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016,".
+
+Pub. L. 114–141 substituted "$8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016," for "$5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,".
 
 <b>2015</b>—Subsec. (b)(3)(E). Pub. L. 114–55 inserted "and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016," after "fiscal years 2012 through 2015".
 
@@ -220,7 +224,7 @@ Pub. L. 108–7, div. I, title III, §370(c), Feb. 20, 2003, 117 Stat. 426, prov
 
 "(1)
 
-In general.—The Administrator of the Federal Aviation Administration may enter into a lease agreement or contract agreement with a private entity toprovide for construction and operation of a nonapproach control tower as defined by the Secretary of Transportation.
+In general.—The Administrator of the Federal Aviation Administration may enter into a lease agreement or contract agreement with a private entity to provide for construction and operation of a nonapproach control tower as defined by the Secretary of Transportation.
 
 "(2)
 
@@ -246,7 +250,7 @@ Pub. L. 108–7, div. I, title III, §370(d), Feb. 20, 2003, 117 Stat. 427, prov
 
 "(1)
 
-Study.—The Secretary of Transportation shall conduct a study of the feasibility, costs, and benefits of allowing the sponsor of an airport to use not to exceed 10 percent of amounts apportioned to the sponsor under section 47114 to pay the non-Federal share of the cost of operation of an air traffic control tower under section 47124(b) of title 49, United States Code.
+Study.—The Secretary of Transportation shall conduct a study of the feasibility, costs, and benefits of allowing the sponsor of an airport to use not to exceed 10 percent of amounts apportioned to the sponsor under section 47114 to pay the non-Federal share of the costof operation of an air traffic control tower under section 47124(b) of title 49, United States Code.
 
 "(2)
 

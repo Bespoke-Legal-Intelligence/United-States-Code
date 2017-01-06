@@ -68,7 +68,7 @@ A directly eligible tribe that receives a grant under section 605 of this title 
 
 #### (3) Imposition of requirements
 
-&emsp;A State may not impose unreasonable or unduly burdensome requirements on an Indian tribe as a condition of providing the Indian tribe with grant funds or resources under section 605 of this title.
+&emsp;A State may not impose unreasonable or unduly burdensome requirements on an Indiantribe as a condition of providing the Indian tribe with grant funds or resources under section 605 of this title.
 
 #### (k) Rule of construction
 

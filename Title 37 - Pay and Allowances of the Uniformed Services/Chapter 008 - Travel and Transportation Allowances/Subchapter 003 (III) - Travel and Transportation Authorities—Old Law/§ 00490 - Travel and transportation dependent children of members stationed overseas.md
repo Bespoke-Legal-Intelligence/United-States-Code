@@ -132,7 +132,7 @@ Pub. L. 107–107, div. A, title VI, §639(d), Dec. 28, 2001, 115 Stat. 1149, as
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title VI, §625(b), Nov. 29, 1989, 103 Stat. 1449, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\]."
+Pub. L. 101–189, div. A, title VI, §625(b), Nov. 29, 1989, 103 Stat. 1449, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\]."
 
 #### Effective Date
 
@@ -140,7 +140,7 @@ Pub. L. 98–94, title IX, §910(b), Sept. 24, 1983, 97 Stat. 639, as amended by
 
 #### Dependent Student Travel Within United States
 
-For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
+For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 1786 of Title 10, Armed Forces.
 
 Pub. L. 98–212, title VII, §799B, Dec. 8, 1983, 97 Stat. 1456, as amended by Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1378, provided in part that: "After August 31, 1984, none of the funds appropriated to the Department of Defense for the travel and transportation of dependent students of military personnel stationed overseas shall be obligated for a transportation allowance for travel within or between the contiguous United States."
 

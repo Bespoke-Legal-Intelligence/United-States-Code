@@ -10,7 +10,7 @@ Any contingency plan transmitted to the Congress pursuant to section 6261(a)(1)Â
 
 (2)(A) Subject to subparagraph (B), any such rationing contingency plan shall be considered approved for purposes of section 6261(d)Â <sup>1</sup> of this title only if such plan is not disapproved by a resolution described in subsection (d)(2)(B)(i) of this section which passes each House of the Congress during the 30-calendar-day period of continuous session after the plan is transmitted to such Houses and which thereafter becomes law.
 
-(B) A rationing contingency plan may be considered approved prior to the expiration of the 30-calendar-day period after such plan is transmitted if a resolution described in subsection (d)(2)(B)(ii) of this section is passed by each House of the Congress and thereafter becomes law.
+(B) A rationing contingency plan may be considered approved prior to the expiration of the30-calendar-day period after such plan is transmitted if a resolution described in subsection (d)(2)(B)(ii) of this section is passed by each House of the Congress and thereafter becomes law.
 
 #### (c) Computation of period
 

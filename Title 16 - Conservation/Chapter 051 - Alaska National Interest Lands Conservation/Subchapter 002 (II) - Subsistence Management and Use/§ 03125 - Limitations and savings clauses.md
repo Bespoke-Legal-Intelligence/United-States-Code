@@ -2,7 +2,7 @@
 
 Nothing in this subchapter shall be construed as—
 
-&emsp;(1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthypopulations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
+&emsp;(1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthy populations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
 
 &emsp;(2) permitting any subsistence use of fish and wildlife on any portion of the public lands (whether or not within any conservation system unit) which was permanently closed to such uses on January 1, 1978, or enlarging or diminishing the Secretary's authority to manipulate habitat on any portion of the public lands;
 
@@ -34,7 +34,7 @@ The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9,
 
 #### Amendments
 
-<b>2014</b>—Par. (4). Pub. L. 113–287 substituted "section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54" for "the National Park Service Organic Act (39 Stat. 535, 16 U.S.C. 1, 2, 3, 4)" and inserted "or such title" after "such Acts".
+<b>2014</b>—Par. (4). Pub. L. 113–287 substituted "section 100101(b)(1), chapter 1003, and sections 100751(a), 100752,100753, and 102101 of title 54" for "the National Park Service Organic Act (39 Stat. 535, 16 U.S.C. 1, 2, 3, 4)" and inserted "or such title" after "such Acts".
 
 <b>1997</b>—Par. (5). Pub. L. 105–83, §316(b)(9), which directed amendment of section by adding par. (5) reading as follows: "prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.", was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 

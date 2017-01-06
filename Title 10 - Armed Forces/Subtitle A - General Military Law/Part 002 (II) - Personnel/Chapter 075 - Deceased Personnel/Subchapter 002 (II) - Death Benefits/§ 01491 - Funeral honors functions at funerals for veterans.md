@@ -20,7 +20,7 @@ Support.—(1) To support a funeral honors detail under this section, the Secret
 
 &emsp;(A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 or the daily stipend prescribed under paragraph (2).
 
-&emsp;(B) For members of a veterans organization or other organization referred to in subsection\(b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
+&emsp;(B) For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
 
 &emsp;(C) For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
 
@@ -48,7 +48,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (g)
 
-Annual Report.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the report shall be presented in a standard format, regardless of military department or other organization.
+Annual Report.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the reportshall be presented in a standard format, regardless of military department or other organization.
 
 (h)
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 109–163 applicable with respect to funerals and burials t
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: "Section 1491(a) of title 10, United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999."
+Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: "Section 1491(a) of title 10,United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999."
 

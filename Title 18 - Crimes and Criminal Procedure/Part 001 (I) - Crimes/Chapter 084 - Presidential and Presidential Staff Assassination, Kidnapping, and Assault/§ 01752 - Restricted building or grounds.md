@@ -56,7 +56,7 @@ Subsec. (a)(3). Pub. L. 109–177, §602(a)(1)(B), (D), redesignated par. (2) as
 
 Subsec. (a)(4), (5). Pub. L. 109–177, §602(a)(1)(B), (E), (F), redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted "described in paragraph (1) or (2)" for "designated or enumerated in paragraph (1)" in each par.
 
-Subsec. (b). Pub. L. 109–177, §602(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Violation of this section, and attempts orconspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both."
+Subsec. (b). Pub. L. 109–177, §602(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both."
 
 Subsecs. (d) to (f). Pub. L. 109–177, §602(a)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: "The Secretary of the Treasury is authorized—
 

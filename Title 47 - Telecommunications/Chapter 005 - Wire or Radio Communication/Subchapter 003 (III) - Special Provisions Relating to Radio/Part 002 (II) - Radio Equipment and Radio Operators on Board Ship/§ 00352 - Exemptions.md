@@ -6,7 +6,7 @@ The provisions of this part shall not apply to—
 
 &emsp;(1) A ship of war;
 
-&emsp;(2) A ship of the United States belonging to and operated by the Government, except a ship of the Maritime Administration of the Department of Transportation, the Inland and Coastwise Waterways Service, or the Panama Canal Company;
+&emsp;(2) A ship of the United States belonging to and operated by the Government, except a shipof the Maritime Administration of the Department of Transportation, the Inland and Coastwise Waterways Service, or the Panama Canal Company;
 
 &emsp;(3) A foreign ship belonging to a country which is a party to any Safety Convention in force between the United States and that country which ship carries a valid certificate exempting said ship from the radio provisions of that Convention, or which ship conforms to the radio requirements of such Convention or Regulations and has on board a valid certificate to that effect, or which ship is not subject to the radio provisions of any such Convention;
 
@@ -14,7 +14,7 @@ The provisions of this part shall not apply to—
 
 &emsp;(5) Vessels in tow;
 
-&emsp;(6) A ship navigating solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a ship leaving or attempting to leave any harbor orport of the United States for a voyage solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States;
+&emsp;(6) A ship navigating solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States;
 
 &emsp;(7) A ship navigating solely on the Great Lakes of North America and the River Saint Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island, and, on the north side of Anticosti Island, the sixty-third meridian, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on such waters and within such area;
 
@@ -34,7 +34,7 @@ Except for nuclear ships, the Commission may, if it considers that the route or 
 
 #### (c) Unforeseeable equipment failures
 
-If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) of this section shall not apply: <i>Provided</i>, That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) of this section to permit the ship to proceed to a port where the equipment deficiency may be remedied.
+If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) shall not apply: <i>Provided</i>, That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) to permit the ship to proceed to a port where the equipment deficiency may be remedied.
 
 #### (d) Radio direction finding apparatus unreasonable or unnecessary
 
@@ -50,7 +50,7 @@ Panama Canal Company, referred to in subsec. (a)(2), deemed to refer to Panama C
 
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–31 substituted "Maritime Administration of the Department of Transportation" for "United States Maritime Commission". For prior transfers of functions, see Transfer of Functions note set out below.
 
-<b>1965</b>—Pub. L. 89–121, §3(a), added pars. (6) to (8) and struck out former par. (6) which made the provisions of this part inapplicable to a vessel navigating solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a vessel leaving or attempting to leave any harbor or port of the United States for a voyage solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States.
+<b>1965</b>—Subsec. (a). Pub. L. 89–121, §3(a), added pars. (6) to (8) and struck out former par. (6) which made the provisions of this part inapplicable to a vessel navigating solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a vessel leaving or attempting to leave any harbor or port of the United States for a voyage solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States.
 
 Subsec. (b). Pub. L. 89–121, §3(b), excepted nuclear ships and substituted "or, alternatively, do not go more than two hundred nautical miles" for "or more than two hundred nautical miles".
 

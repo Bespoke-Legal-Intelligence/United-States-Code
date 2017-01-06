@@ -4,7 +4,7 @@
 
 #### (1) Determination under formula
 
-&emsp;Subject to subsection (b) of this section, the Secretary shall determine the amount of the allotment required in section 300x of this title for a State for a fiscal year in accordance with the following formula:
+&emsp;Subject to subsection (b), the Secretary shall determine the amount of the allotment required in section 300x of this title for a State for a fiscal year in accordance with the following formula:
 
 &nbsp;
 
@@ -90,7 +90,7 @@
 
 #### (8) Determination of certain factor
 
-&emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and the amounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
+&emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and theamounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
 
 &emsp;(B) Subject to subparagraph (C), the factor determined under this paragraph and in effect for the fiscal year involved shall be determined according to the methodology described in the report entitled "Adjusting the Alcohol, Drug Abuse and Mental Health Services Block Grant Allocations for Poverty Populations and Cost of Service", dated March 30, 1990, and prepared by Health Economics Research, a corporation, pursuant to a contract with the National Institute on Drug Abuse.
 
@@ -138,7 +138,7 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 #### (5) Applicability of certain provisions
 
-&emsp;For purposes of subsection (a) of this section, the term "State" does not include the territories of the United States.
+&emsp;For purposes of subsection (a), the term "State" does not include the territories of the United States.
 
 (July 1, 1944, ch. 373, title XIX, §1918, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 385; amended Pub. L. 102–352, §2(a)(8), (9), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXII, §3205, Oct. 17, 2000, 114 Stat. 1193.)
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ix) the incidence and prevalence of child maltreatment by a wide array of demographic characteristics such as age, sex, race, family structure, household relationship (including the living arrangement of the resident parent and family size), school enrollment and education attainment, disability, grandparents as caregivers, labor force status, work status in previous year, and income in previous year;
 
-&emsp;&emsp;&emsp;(x) the extent to which reports of suspected or known instances of child abuseor neglect involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal, are being screened out solely on the basis of the cross-jurisdictional complications; and
+&emsp;&emsp;&emsp;(x) the extent to which reports of suspected or known instances of child abuse or neglect involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal, are being screened out solely on the basis of the cross-jurisdictional complications; and
 
 &emsp;&emsp;&emsp;(xi) the incidence and outcomes of child abuse and neglect allegations reported within the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(B) ways to mitigate psychological trauma to the child victim;
 
-&emsp;&emsp;(C) effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
+&emsp;&emsp;(C) effective programs carried out by the States under this subchapter and subchapter III; and
 
 &emsp;&emsp;(D) effective approaches being utilized to link child protective service agencies with health care, mental health care, and developmental services to improve forensic diagnosis and health evaluations, and barriers and shortages to such linkages.
 
@@ -348,7 +348,7 @@ Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth co
 
 #### Child Abuse and Disability
 
-Pub. L. 100–294, title I, §102, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children's handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such informationand data, and recommendations on how to prevent abuse of disabled children.
+Pub. L. 100–294, title I, §102, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children's handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent abuse of disabled children.
 
 #### Child Abuse and Alcoholic Families
 

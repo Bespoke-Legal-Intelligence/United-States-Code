@@ -4,7 +4,7 @@
 
 General.—Section 30112(a) of this title does not apply to a motor vehicle imported on a temporary basis for personal use by an individual who is a member of—
 
-&emsp;(1)(A) the personnel of the government of a foreign country on assignment in the United States or a member of the Secretariat of a public international organization designatedunder the International Organizations Immunities Act (22 U.S.C. 288 et seq.); and
+&emsp;(1)(A) the personnel of the government of a foreign country on assignment in the United States or a member of the Secretariat of a public international organization designated under the International Organizations Immunities Act (22 U.S.C. 288 et seq.); and
 
 &emsp;(B) the class of individuals for whom the Secretary of State has authorized free importation of motor vehicles; or
 
@@ -60,7 +60,7 @@ This amends 49:30144(a)(1)(A) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The International Organizations Immunities Act, referred to in subsec. (a)(1)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a)(1)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, seeShort Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
 

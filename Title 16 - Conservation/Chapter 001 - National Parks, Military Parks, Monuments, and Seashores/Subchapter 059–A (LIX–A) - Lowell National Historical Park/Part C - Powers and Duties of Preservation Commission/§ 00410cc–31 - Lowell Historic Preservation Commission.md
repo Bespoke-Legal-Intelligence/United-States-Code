@@ -58,7 +58,7 @@ The Commission shall meet at least once each month, at the call of the chairman 
 
 (2) Members of the Commission who are full-time officers or employees of the United States, the city of Lowell, or the Commonwealth of Massachusetts shall receive no additional pay on account of their service on the Commission.
 
-(3) While away from their homes or regular places of business in the performance of servicesfor the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+(3) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (i) Termination
 

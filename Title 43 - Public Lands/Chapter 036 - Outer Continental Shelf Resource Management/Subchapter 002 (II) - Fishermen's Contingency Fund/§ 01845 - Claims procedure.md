@@ -34,7 +34,7 @@ If the decision of the Secretary under subsection (d) is in favor of the commerc
 
 #### (f) Powers of Secretary
 
-(1) For purposes of any proceeding conducted pursuant to this section, the Secretary shall have the power to administer oaths and subpena the attendance or testimony of witnesses and the production of books, records, and other evidence relative or pertinent to the issues being presented for determination.
+(1) For purposes of any proceeding conducted pursuant to this section, the Secretary shallhave the power to administer oaths and subpena the attendance or testimony of witnesses and the production of books, records, and other evidence relative or pertinent to the issues being presented for determination.
 
 (2) In any proceeding conducted pursuant to this section with respect to a claim for damages resulting from activities on any area of the Outer Continental Shelf, the Secretary shall consider evidence of obstructions in such area which have been identified pursuant to the survey conducted under section 1847 <sup>1</sup> of this title.
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 97–212, §5(5), substituted "the Secretary" for "hearing 
 
 Subsec. (g). Pub. L. 97–212, §5(6), substituted "Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located" for "A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, in any of the affected districts, or, if such matter occurred outside of any district, in the nearest district".
 
-Subsec. (h)(1). Pub. L. 97–212, §5(7)(A), substituted provisions that the amount awarded in an initial determination by the Secretary under subsec. (d) be immediately disbursed by the Secretary if the claimant states in writing that he will not petition for review of the initial determination and he enters into an agreement with the Secretary to repay to the Secretary all or any part of the award that is not sustained upon later judicial review for provisions that upon a decision of the hearing examiner and in absence of judicial review, any amount to be paid would be certified to the Secretary who would promptly disburse the award and that such decision of the hearing examiner was not reviewable by the Secretary.
+Subsec. (h)(1). Pub. L. 97–212, §5(7)(A), substituted provisions that the amount awarded in an initial determination by the Secretary under subsec. (d) be immediately disbursed by the Secretary if the claimant states in writing that he will not petition for review of the initial determination and he enters into an agreement with the Secretary to repay to the Secretary all or any part of the award that is not sustained uponlater judicial review for provisions that upon a decision of the hearing examiner and in absence of judicial review, any amount to be paid would be certified to the Secretary who would promptly disburse the award and that such decision of the hearing examiner was not reviewable by the Secretary.
 
 Subsec. (h)(2). Pub. L. 97–212, §5(7)(B), inserted provision that any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 

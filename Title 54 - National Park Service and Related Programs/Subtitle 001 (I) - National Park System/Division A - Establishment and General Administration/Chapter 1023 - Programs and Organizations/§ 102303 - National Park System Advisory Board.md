@@ -30,7 +30,7 @@ Vacancy.—Any vacancy in the Board shall not affect its powers, but shall be fi
 
 &emsp;(5)
 
-Compensation.—All members of the Board shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Board while away from home or their regular place of business, in accordance with subchapter I of chapter 57 of title 5. With the exception of travel and per diem, a member of the Board who otherwise is an officer or employee of the United States Government shall serve on the Board without additional compensation.
+Compensation.—All members of the Board shall be reimbursed for travel and perdiem in lieu of subsistence expenses during the performance of duties of the Board while away from home or their regular place of business, in accordance with subchapter I of chapter 57 of title 5. With the exception of travel and per diem, a member of the Board who otherwise is an officer or employee of the United States Government shall serve on the Board without additional compensation.
 
 (d)
 

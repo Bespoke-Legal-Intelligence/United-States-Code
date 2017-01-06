@@ -32,7 +32,7 @@ Pub. L. 96–472, title III, §§301, 302, Oct. 19, 1980, 94 Stat. 2260, as amen
 
 &emsp;"(4) prepare recommendations as to the need for legislation that will limit the legal liability of those third party persons or groups which are called upon to provide technical assistance and advice to public employees, including policemen, firemen, and transportation employees, who are generally the first to respond to a hazardous incident; which recommendations shall be provided to the appropriate committees of Congress within one hundred and eighty days after the date of enactment of this Act \[Oct. 19, 1980\];
 
-&emsp;"(5) prepare, within one hundred and eighty days after the date of enactment of this Act \[Oct. 19, 1980\],a report on the status of the Agency's emergency information and communications systems which will provide recommendations on—
+&emsp;"(5) prepare, within one hundred and eighty days after the date of enactment of this Act \[Oct. 19, 1980\], a report on the status of the Agency's emergency information and communications systems which will provide recommendations on—
 
 &emsp;&emsp;"(A) the advisability of developing a single, unified emergency information and communication system for use by the Agency in carrying out its emergency management activities;
 
@@ -108,7 +108,7 @@ The offices of Federal Civil Defense Administrator and Deputy Administrator prov
 
 #### Sec. 7. Records, Property, Personnel, and Funds
 
-(a) The records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of the Office ofDefense Mobilization and of the Federal Civil Defense Administration shall, upon the taking effect of the provisions of this reorganization plan, become records, property, personnel, and unexpended balances of the Office of Emergency Preparedness.
+(a) The records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of the Office of Defense Mobilization and of the Federal Civil Defense Administration shall, upon the taking effect of the provisions of this reorganization plan, become records, property, personnel, and unexpended balances of the Office of Emergency Preparedness.
 
 (b) Records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of any agency (including the Office of Emergency Preparedness), relating to functions vested in or delegated or assigned to the Office of Defense Mobilization or the Federal Civil Defense Administration immediately prior to the taking effect of the provisions of this reorganization plan, may be transferred from time to time to any other agency of the Government by the Director of the Bureau of the Budget under authority of this subsection for use, subject to the provisions of the Reorganization Act of 1949, as amended, in connection with any of the said functions authorized at time of transfer under this subsection to be performed by the transferee agency.
 
@@ -116,7 +116,7 @@ The offices of Federal Civil Defense Administrator and Deputy Administrator prov
 
 #### Sec. 8. Interim Provisions
 
-The President may authorize any person who immediately prior to the effective date of this reorganization plan holds an office abolished by section 6 hereof to hold any office established by section 2 of this reorganization plan until the latter office is filled pursuant to the said section 2 or by recess appointment, as the case may be, but in no event for any period extending more than 120 days after the said effective date.
+The President may authorize any person who immediately prior to the effective date of this reorganizationplan holds an office abolished by section 6 hereof to hold any office established by section 2 of this reorganization plan until the latter office is filled pursuant to the said section 2 or by recess appointment, as the case may be, but in no event for any period extending more than 120 days after the said effective date.
 
 #### Sec. 9. Effective Date
 
@@ -214,11 +214,11 @@ I have therefore concluded that it is timely and appropriate to transfer to the 
 
 The multi-disciplinary staff resources of the Foundation will provide analytic capabilities for performance of the transferred functions. In addition, the Director of the Foundation will be able to draw on expertise from all of the Federal agencies, as well as from outside the Government, for assistance in carrying out his new responsibilities.
 
-It is also my intention, after the transfer of responsibilities is effected, to ask Dr. H. Guyford Stever, thecurrent Director of the Foundation, to take on the additional post of Science Adviser. In this capacity, he would advise and assist the White House, Office of Management and Budget, Domestic Council, and other entities within the Executive Office of the President on matters where scientific and technological expertise is called for, and would act as the President's representative in selected cooperative programs in international scientific affairs, including chairing such joint bodies as the U.S.—U.S.S.R. Joint Commission on Scientific and Technical Cooperation.
+It is also my intention, after the transfer of responsibilities is effected, to ask Dr. H. Guyford Stever, the current Director of the Foundation, to take on the additional post of Science Adviser. In this capacity, he would advise and assist the White House, Office of Management and Budget, Domestic Council, and other entities within the Executive Office of the President on matters where scientific and technological expertise is called for, and would act as the President's representative in selected cooperative programs in international scientific affairs, including chairing such joint bodies as the U.S.—U.S.S.R. Joint Commission on Scientific and Technical Cooperation.
 
 In the case of national security, the Department of Defense has strong capabilities for assessing weapons needs and for undertaking new weapons development, and the President will continue to draw primarily on this source for advice regarding military technology. The President in special situations also may seek independent studies or assessments concerning military technology from within or outside the Federal establishment, using the machinery of the National Security Council for this purpose, as well as the Science Adviser when appropriate.
 
-In one special area of technology—space and aeronautics—a coordinating council has existed within the Executive Office of the President since 1958. This body, the National Aeronautics and Space Council, met a major need during the evolution of our nation's space program. Vice President Agnew has served with distinction as its chairman for the past four years. At my request, beginning in 1969, the Vice President also chaired a special Space Task Group charged with developing strategy alternatives for a balanced U.S. space program in the coming years.
+In one special area of technology—space and aeronautics—a coordinating council has existed within the Executive Office of the President since 1958. This body, the National Aeronautics and Space Council, met a major need during the evolution of our nation's space program. Vice President Agnew has served with distinction as its chairman for the past four years. At my request, beginning in 1969, the Vice President alsochaired a special Space Task Group charged with developing strategy alternatives for a balanced U.S. space program in the coming years.
 
 As a result of this work, basic policy issues in the United States space effort have been resolved, and the necessary interagency relationships have been established. I have therefore concluded, with the Vice President's concurrence, that the Council can be discontinued. Needed policy coordination can now be achieved through the resources of the executive departments and agencies, such as the National Aeronautics and Space Administration, augmented by some of the former Council staff. Accordingly, my reorganization plan proposes the abolition of the National Aeronautics and Space Council.
 
@@ -248,7 +248,7 @@ The Oil Policy Committee will continue to function as in the past, unaffected by
 
 #### DECLARATIONS
 
-After investigation, I have found that each action included in the accompanying plan is necessary to accomplish one or more of the purposes set forth in Section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to the intention of the Congress as expressed in Section 901(a)(1), "to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;" and in Section 901(a)(3), "to increase the efficiency of the operations of the Government to thefullest extent practicable;" and in Section 901(a)(5), "to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government."
+After investigation, I have found that each action included in the accompanying plan is necessary to accomplish one or more of the purposes set forth in Section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to the intention of the Congress as expressed in Section 901(a)(1), "to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;" and in Section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable;" and in Section 901(a)(5), "to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government."
 
 While it is not practicable to specify all of the expenditure reductions and other economies which will result from the actions proposed, personnel and budget savings from abolition of the National Aeronautics and Space Council and the Office of Science and Technology alone will exceed $2 million annually, and additional savings should result from a reduction of Executive Pay Schedule positions now associated with other transferred and delegated functions.
 
@@ -344,7 +344,7 @@ Ex. Ord. No. 11005, Feb. 16, 1962, 27 F.R. 1544, which related to assignment of 
 
 #### Executive Order No. 11051
 
-Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683, as amended by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473; Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193; Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175; Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, which related to responsibility of the Office of Emergency Preparedness, was revoked by section 5–109 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43243, set out below.
+Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683, as amended by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473; Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193; Ex. Ord.No. 11725, June 27, 1973, 38 F.R. 17175; Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, which related to responsibility of the Office of Emergency Preparedness, was revoked by section 5–109 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43243, set out below.
 
 #### Executive Order No. 11087
 
@@ -610,7 +610,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President by the Cons
 
 Section 101. <i>National Security Emergency Preparedness Policy.</i>
 
-(a) The policy of the United States is to have sufficient capabilities at all levels of government to meet essential defense and civilian needs during any national security emergency. A national security emergency is any occurrence, including natural disaster, military attack, technological emergency, or other emergency, that seriously degrades or seriously threatens the national security of the United States. Policy for national security emergency preparedness shall be established by the President. Pursuant to the President's direction, the National Security Council shall be responsible for developing and administering such policy, except that the Homeland Security Council shall be responsible for administering such policy with respect to terrorist threats and attacks within the United States. All national security emergency preparedness activities shall be consistent with the Constitution and laws of the United States and with preservation of the constitutional government of the United States.
+(a) The policy of the United States is to have sufficient capabilities at all levels of government to meet essential defense and civilian needs during any national security emergency. A national security emergency is any occurrence, including natural disaster, military attack, technological emergency, or other emergency, that seriously degrades or seriously threatens the national security of the United States. Policy for national security emergency preparedness shall be established by the President. Pursuant to the President's direction, the National Security Council shall be responsible for developing and administering such policy, except that the Homeland Security Council shall be responsible for administering such policy with respect to terrorist threats and attacks within the United States. All national security emergency preparedness activities shall be consistent with the Constitution andlaws of the United States and with preservation of the constitutional government of the United States.
 
 (b) Effective national security emergency preparedness planning requires: identification of functions that would have to be performed during such an emergency; development of plans for performing these functions; and development of the capability to execute those plans.
 
@@ -746,7 +746,7 @@ Sec. 301. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (c) Use and handling of crops, agricultural commodities, timber, and agricultural lands that have been exposed to or affected by hazardous agents; and
 
-(d) Assuring the safety and wholesomeness, and minimizing losses from hazards, of animals and animal products and agricultural commodities and products subject to continuous inspection by the Department of Agriculture or owned by the Commodity Credit Corporation or by the Department of Agriculture;
+(d) Assuring the safety and wholesomeness, and minimizing losses from hazards, of animals and animal products and agricultural commodities and products subject to continuous inspection by the Department ofAgriculture or owned by the Commodity Credit Corporation or by the Department of Agriculture;
 
 (9) In consultation with the Secretary of State and the Secretary of Homeland Security, represent the United States in agriculture-related international civil emergency preparedness planning and related activities.
 
@@ -808,7 +808,7 @@ Sec. 501. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (7) In consultation with the Secretaries of State and Energy, the Secretary of Homeland Security, and others, as required, develop plans and capabilities for identifying, analyzing, mitigating, and responding to hazards related to nuclear weapons, materials, and devices; and maintain liaison, as appropriate, with the Secretary of Energy and the Members of the Nuclear Regulatory Commission to ensure the continuity of nuclear weapons production and the appropriate allocation of scarce resources, including the recapture of special nuclear materials from Nuclear Regulatory Commission licensees when appropriate;
 
-(8) Coordinate with the Administrator of the National Aeronautics and Space Adminstration \[sic\] and theSecretary of Energy, as appropriate, to prepare for the use, maintenance, and development of technologically advanced aerospace and aeronautical-related systems, equipment, and methodologies applicable to national security emergencies;
+(8) Coordinate with the Administrator of the National Aeronautics and Space Adminstration \[sic\] and the Secretary of Energy, as appropriate, to prepare for the use, maintenance, and development of technologically advanced aerospace and aeronautical-related systems, equipment, and methodologies applicable to national security emergencies;
 
 (9) Develop, in coordination with the Secretaries of Labor and Homeland Security, the Directors of the Selective Service System, the Office of Personnel Management, and the Federal Emergency Management Agency, plans and systems to ensure that the Nation's human resources are available to meet essential military and civilian needs in national security emergencies;
 
@@ -1142,7 +1142,7 @@ Sec. 1601. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (2) Develop, for national security emergencies, guidance on acceptable emergency levels of nuclear radiation, assist in determining acceptable emergency levels of biological agents, and help to provide detection and identification of chemical agents;
 
-(3) Develop, in coordination with the Secretary of Defense, plans to assure the provision of potable water supplies to meet community needs under national security emergency conditions, including claimancy for materials and equipment for public water systems.
+(3) Develop, in coordination with the Secretary of Defense, plans to assure the provision of potable watersupplies to meet community needs under national security emergency conditions, including claimancy for materials and equipment for public water systems.
 
 Sec. 1602. <i>Support Responsibilities</i>. The Administrator of the Environmental Protection Agency shall:
 
@@ -1202,7 +1202,7 @@ Sec. 1801. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (3) Develop national security emergency operational plans and procedures for the use of public utility services (other than telecommunications services) by Federal departments and agencies, except for Department of Energy-operated facilities;
 
-(4) Develop plans and operating procedures of government-wide supply programs to meet the requirementsof Federal departments and agencies during national security emergencies;
+(4) Develop plans and operating procedures of government-wide supply programs to meet the requirements of Federal departments and agencies during national security emergencies;
 
 (5) Develop plans and operating procedures for the use, in national security emergencies, of excess and surplus real and personal property by Federal, State, and local governmental entities;
 
@@ -1218,7 +1218,7 @@ Sec. 1901. <i>Lead Responsibility</i>. In addition to the applicable responsibil
 
 Sec. 2001. <i>Lead Responsibilities</i>. In addition to the applicable responsibilities covered in Parts 1 and 2, the Archivist of the United States shall:
 
-(1) Develop procedures for publication during national security emergencies of the Federal Register for as broad public dissemination as is practicable of presidential proclamations and Executive orders, Federal administrative regulations, Federal emergency notices and actions, and Acts of Congress;
+(1) Develop procedures for publication during national security emergencies of the Federal Register foras broad public dissemination as is practicable of presidential proclamations and Executive orders, Federal administrative regulations, Federal emergency notices and actions, and Acts of Congress;
 
 (2) Develop emergency procedures for providing instructions and advice on the handling and preservation of records critical to the operation of the Federal Government in national security emergencies.
 
@@ -1304,7 +1304,7 @@ Sec. 2701. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 Sec. 2702. <i>Support Responsibilities</i>. The Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] shall:
 
-(1) Assist the Secretary of Health and Human Services in promoting the development of State and local plans for the provision of medical services in national security emergencies, and develop appropriate plans to support such State and local plans;
+(1) Assist the Secretary of Health and Human Services in promoting the development of State and localplans for the provision of medical services in national security emergencies, and develop appropriate plans to support such State and local plans;
 
 (2) Assist the Secretary of Health and Human Services in developing national plans to mobilize the health care industry and medical resources during national security emergencies;
 
@@ -1350,7 +1350,7 @@ Sec. 2. <i>Generally Applicable Principles and Directives</i>. (a) Subject to th
 
 (2) shall take care not to supplant State and local resources. DHS shall substitute its own resources for those of the State and local governments only to the extent necessary to compensate for the nonparticipation or inadequate participation of those governments, and only as a last resort after appropriate consultation with the Governors and responsible local officials in the affected area regarding State and local participation;
 
-(3) is authorized, to the extent permitted by law, to enter into interagency Memoranda of Understanding providing for utilization of the resources of other Executive branch Departments and agencies and for delegation to other Executive branch Departments and agencies of any of the functions and duties assigned to DHS under this Order; however, any such Memorandum ofUnderstanding shall be subject to approval by the Director of the Office of Management and Budget ("OMB") and published in final form in the Federal Register; and
+(3) is authorized, to the extent permitted by law, to enter into interagency Memoranda of Understanding providing for utilization of the resources of other Executive branch Departments and agencies and for delegation to other Executive branch Departments and agencies of any of the functions and duties assigned to DHS under this Order; however, any such Memorandum of Understanding shall be subject to approval by the Director of the Office of Management and Budget ("OMB") and published in final form in the Federal Register; and
 
 (4) shall assume for purposes of Sections 3 and 4 of this Order that, in the event of an actual radiological emergency or disaster, State and local authorities would contribute their full resources and exercise their authorities in accordance with their duties to protect the public from harm and would act generally in conformity with the licensee's radiological emergency preparedness plan.
 
@@ -1364,7 +1364,7 @@ Sec. 2. <i>Generally Applicable Principles and Directives</i>. (a) Subject to th
 
 (4) that full reimbursement to the Federal Government is provided, to the extent permitted by law.
 
-Sec. 3. <i>DHS Participation in Emergency Preparedness Planning</i>. (a) DHS assistance in emergency preparedness planning shall include advice, technical assistance, and arrangements for facilities and resources as needed to satisfy the emergency planning requirements under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and any other Federal legislation or regulations pertaining to issuance or retention of a construction permit or an operating license for a nuclear power plant.
+Sec. 3. <i>DHS Participation in Emergency Preparedness Planning</i>. (a) DHS assistance in emergency preparedness planning shall include advice, technical assistance, and arrangements for facilities and resources as needed to satisfy the emergency planning requirements under the Atomic Energy Act of 1954, as amended \[42U.S.C. 2011 et seq.\], and any other Federal legislation or regulations pertaining to issuance or retention of a construction permit or an operating license for a nuclear power plant.
 
 (b) DHS shall make all necessary plans and arrangements to ensure that the Federal Government is prepared to assume any and all functions and undertakings necessary to provide adequate protection to the public in cases within the scope of this Order. In making such plans and arrangements,
 
@@ -1406,7 +1406,7 @@ Sec. 9. <i>Effective Date</i>. This Order shall be effective November 18, 1988.
 
 Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended (42 U.S.C. 5121 <i>et seq</i>.), and in order to conform delegationsof authority to recent legislation, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended (42 U.S.C. 5121 <i>et seq</i>.), and in order to conform delegations of authority to recent legislation, it is hereby ordered as follows:
 
 Section 1. Section 4–203 of Executive Order No. 12148 \[set out above\] is amended to read:
 

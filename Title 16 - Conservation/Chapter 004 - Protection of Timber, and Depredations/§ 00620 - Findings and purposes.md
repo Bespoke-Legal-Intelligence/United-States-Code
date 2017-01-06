@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;(4) In recent years, administrative, statutory, or judicial action has been taken to set aside an increased amount of otherwise harvestable timberlands for conservation purposes.
 
-&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
+&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the NationalForest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
 
 &emsp;(6) There is evidence of a shortfall in the supply of unprocessed timber in the western United States.
 
@@ -52,7 +52,7 @@ Subsec. (b)(5). Pub. L. 106–36, §1002(a)(1)(B), substituted "WTO Agreement an
 
 #### Effective Date
 
-Pub. L. 101–382, title IV, §494, Aug. 20, 1990, 104 Stat. 725, provided that: "Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisionsset out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\]."
+Pub. L. 101–382, title IV, §494, Aug. 20, 1990, 104 Stat. 725, provided that: "Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\]."
 
 #### Short Title of 1997 Amendment
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) in the case of any other civil action described in such paragraph, in the United States district court for the judicial district wherein the defendant is found or transacts business.
 
-> In any such civil action process may be served on a defendant in any judicial district in whicha defendant resides or may be found. Subpoenas requiring attendance of witnesses in any such action may be served in any judicial district.
+> In any such civil action process may be served on a defendant in any judicial district in which a defendant resides or may be found. Subpoenas requiring attendance of witnesses in any such action may be served in any judicial district.
 
 #### (b) Seizure
 
@@ -39,4 +39,8 @@ Any chemical substance, mixture, or product subject to subchapter IV which was m
 &emsp;"(D) direct any manufacturer or processor of a chemical substance or mixture manufactured or processed in violation of section 2604 or 2605 of this title or a rule or order under section 2604 or 2605 of this title and distributed in commerce, (i) to give notice of such fact to distributors in commerce of such substance or mixture and, to the extent reasonably ascertainable, to other persons in possession of such substance or mixture or exposed to such substance or mixture, (ii) to give public notice of such risk of injury, and (iii) to either replace or repurchase such substance or mixture, whichever the person to which the requirement is directed elects."
 
 Subsec. (b). Pub. L. 102–550, §1021(b)(7), in first sentence substituted "substance, mixture, or product subject to subchapter IV" for "substance or mixture" and inserted "product," before "or article" in two places.
+
+#### Effective Date
+
+Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 

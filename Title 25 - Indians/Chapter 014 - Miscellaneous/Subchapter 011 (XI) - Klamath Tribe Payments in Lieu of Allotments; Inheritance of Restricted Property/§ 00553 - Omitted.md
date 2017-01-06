@@ -1,0 +1,6 @@
+### §553. Omitted
+
+#### Codification
+
+Section, act June 1, 1938, ch. 310, §3, 52 Stat. 605, which related to deposit and expenditure of payments, was omitted from the Code as being of special and not general application.
+

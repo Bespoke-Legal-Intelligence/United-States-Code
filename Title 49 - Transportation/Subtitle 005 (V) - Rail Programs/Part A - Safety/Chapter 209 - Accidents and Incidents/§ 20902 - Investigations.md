@@ -58,7 +58,7 @@ In this section, the words "accident" and "incident" are used, and the words "co
 
 Subsection (a)(2) is substituted for the text of 49 App.:26(f) (words after last semicolon) for clarity.
 
-In subsection (b), the words "In carrying out an investigation" are substituted for "shall have authority to investigate such collisions, derailments, or other accidents aforesaid, and all the attending facts, conditions, and circumstances, and for that purpose" to eliminate unnecessary words. The words "books, papers, orders, memoranda" are omitted as being included in "papers". The words "in coordination with" are substituted for "in connection with" for clarity. The words "The railroad carrier on whose railroad line the accident or incident occurred" are added for clarity.
+In subsection (b), the words "In carrying out an investigation" are substituted for "shall have authorityto investigate such collisions, derailments, or other accidents aforesaid, and all the attending facts, conditions, and circumstances, and for that purpose" to eliminate unnecessary words. The words "books, papers, orders, memoranda" are omitted as being included in "papers". The words "in coordination with" are substituted for "in connection with" for clarity. The words "The railroad carrier on whose railroad line the accident or incident occurred" are added for clarity.
 
 In subsection (c), the words "When in the public interest" are substituted for "when he deems it to the public interest" to eliminate unnecessary words.
 

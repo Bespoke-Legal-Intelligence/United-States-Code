@@ -46,7 +46,7 @@ Deposit of receipts.—All receipts from numismatic operations and programs shal
 
 &emsp;(3)
 
-Transfer of seigniorage.—The Secretary shall transfer monthly from the Fundto the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
+Transfer of seigniorage.—The Secretary shall transfer monthly from the Fund to the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
 
 &emsp;(4)
 
@@ -248,7 +248,7 @@ Waiver of paragraph.—The Secretary of the Treasury may waive the application o
 
 &emsp;&emsp;(G)
 
-Nonapplicability to federal entities.—This paragraph shall not apply to anyFederal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
+Nonapplicability to federal entities.—This paragraph shall not apply to any Federal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
 
 &emsp;&emsp;(H)
 
@@ -256,7 +256,7 @@ Availability of books and records.—An organization that receives any payment f
 
 &emsp;(3)
 
-Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>1</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
+Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>1</sup> to anydesignated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
 
 &emsp;(4)
 

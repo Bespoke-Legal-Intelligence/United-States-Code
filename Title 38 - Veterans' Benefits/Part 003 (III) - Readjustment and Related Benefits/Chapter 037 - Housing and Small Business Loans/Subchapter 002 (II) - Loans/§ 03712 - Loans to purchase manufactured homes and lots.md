@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(II) must have previously occupied the home, a manufactured home on the lot, or the home and the lot, securing the loan as the veteran's home and must certify, in such form as the Secretary shall require, that the veteran has previously so occupied the home (or such a home on the lot); or
 
-&emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, the manufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
+&emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, themanufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
 (B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
@@ -82,13 +82,13 @@
 
 &emsp;(ii) the amount equal to the guaranty under this section.
 
-(D) If the holder of a loan files for payment of a claim under clause (ii) of subparagraph (B) ofthis paragraph, the amount of such claim payable by the Secretary shall be the lesser of—
+(D) If the holder of a loan files for payment of a claim under clause (ii) of subparagraph (B) of this paragraph, the amount of such claim payable by the Secretary shall be the lesser of—
 
 &emsp;(i) the amount equal to the excess, if any, of the total indebtedness over the greater of the value of the property securing the loan, as determined by the Secretary, or the amount of the liquidation or resale proceeds; or
 
 &emsp;(ii) the amount equal to the guaranty under this section.
 
-(E) In any accounting filed pursuant to subparagraph (B)(ii) of this paragraph, the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper.
+(E) In any accounting filed pursuant to subparagraph (B)(ii) of this paragraph, the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds accrued interest from the cutoff date established to such further date as the Secretary may determine andsuch costs and expenses as the Secretary determines to be reasonable and proper.
 
 (F) The liability of the United States under the guaranty provided for by this paragraph shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
 
@@ -140,7 +140,7 @@
 
 (g) The Secretary shall promulgate such regulations as the Secretary determines to be necessary or appropriate in order to fully implement the provisions of this section, and such regulations may specify which provisions in other sections of this chapter the Secretary determines should be applicable to loans guaranteed or made for purposes specified in this section. The Secretary shall have such powers and responsibilities in respect to matters arising under this section as the Secretary has in respect to loans made or guaranteed or under other sections of this chapter.
 
-(h)(1) No loan for the purchase of a manufactured home shall be guaranteed for purposesspecified in this section unless the manufactured home and lot, if any, meet or exceed standards for planning, construction, and general acceptability as prescribed by the Secretary and no loan for the purchase of a lot on which to place a manufactured home owned by a veteran shall be guaranteed for purposes specified in this section unless the lot meets such standards prescribed for manufactured home lots. Such standards shall be designed to encourage the maintenance and development of sites for manufactured homes which will be attractive residential areas and which will be free from, and not substantially contribute to, adverse scenic or environmental conditions.
+(h)(1) No loan for the purchase of a manufactured home shall be guaranteed for purposes specified in this section unless the manufactured home and lot, if any, meet or exceed standards for planning, construction, and general acceptability as prescribed by the Secretary and no loan for the purchase of a lot on which to place a manufactured home owned by a veteran shall be guaranteed for purposes specified in this section unless the lot meets such standards prescribed for manufactured home lots. Such standards shall be designed to encourage the maintenance and development of sites for manufactured homes which will be attractive residential areas and which will be free from, and not substantially contribute to, adverse scenic or environmental conditions.
 
 (2) Any manufactured housing unit properly displaying a certification of conformity to all applicable Federal manufactured home construction and safety standards pursuant to section 616 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5415) shall be deemed to meet the standards required by paragraph (1).
 
@@ -170,7 +170,7 @@ Subsec. (c)(3)(E). Pub. L. 103–446, §1201(e)(14)(A)(ii), substituted "subpara
 
 Subsec. (h)(2). Pub. L. 103–446, §906(a), amended par. (2) generally. Prior to amendment, par. (2) required the Secretary to inspect the manufacturing process of manufacturers of manufactured homes sold to veterans and provided for the delegation of that function to the Secretary of Housing and Urban Development.
 
-Subsec. (j). Pub. L. 103–446, §906(b), substituted "in the case of—" and pars. (1) to (3) for "in the case of manufactured homes constructed by any manufacturer who refuses to permit the inspections provided for in subsection (h) of this section; or in the case of manufactured homes which are determined by the Secretary not to conform to the aforesaid standards; or where themanufacturer of manufactured homes fails or is unable to discharge the manufacturer's obligations under the warranty."
+Subsec. (j). Pub. L. 103–446, §906(b), substituted "in the case of—" and pars. (1) to (3) for "in the case of manufactured homes constructed by any manufacturer who refuses to permit the inspections provided for in subsection (h) of this section; or in the case of manufactured homes which are determined by the Secretary not to conform to the aforesaid standards; or where the manufacturer of manufactured homes fails or is unable to discharge the manufacturer's obligations under the warranty."
 
 Subsec. (l). Pub. L. 103–446, §906(c), struck out "the results of inspections required by subsection (h) of this section," after "including" and "of this section" after "subsection (i)".
 
@@ -340,7 +340,7 @@ Subsec. (b)(2). Pub. L. 93–569, §5(2), added par. (2).
 
 Subsec. (c)(1). Pub. L. 93–569, §5(3), (4), redesignated cls. (1) and (2) as (A) and (B), respectively, and in cl. (A) as so redesignated, inserted provision relating to purchase of a lot on which to place a mobile home previously purchased by the veteran, whether or not such mobile home was purchased with a loan guaranteed, insured or made by another Federal agency, and substituted "or for the purchase of a used mobile home which meets or exceeds minimum requirements for construction, design, and general acceptability prescribed by the Administrator," for "or for the purchase of a used mobile home which is the security for a prior loan guaranteed or made under this section or for a loan guaranteed, insured or made by another Federal agency."
 
-Subsec. (d)(1). Pub. L. 93–569, §5(5), substituted ", whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot" for "financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot".
+Subsec. (d)(1). Pub. L. 93–569, §5(5), substituted ", whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot"for "financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot".
 
 Subsec. (d)(2)(A). Pub. L. 93–569, §5(6), substituted "$12,500" for "$10,000," and "single wide mobile home only" for "mobile home only,".
 

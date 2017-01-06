@@ -6,7 +6,7 @@ In order to obtain assistance in the development and implementation of the purpo
 
 #### (b) Compensation
 
-The members of any other advisory committees appointed pursuant to this chapter who are not officers or employees of the United States while attending conferences or meetings or while otherwise serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem inlieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+The members of any other advisory committees appointed pursuant to this chapter who are not officers or employees of the United States while attending conferences or meetings or while otherwise serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (c) <sup>1</sup> Consultations by Administrator
 
@@ -54,7 +54,7 @@ Subsecs. (d), (e). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for
 
 Subsec. (f). Pub. L. 91–604, §4(d), added subsec. (f).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–148 substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and call it together from time to time to evaluate progress and develop and recommend research programs.
+<b>1967</b>—Subsec. (a). Pub. L. 90–148 substituted provisions establishing in the Department of Health, Education, and Welfare an Air Quality Advisory Board and providing for the appointment and term of its members for provisions directing the Secretary to maintain liaison with manufacturers looking toward development of devices and fuels to reduce pollutants in automotive exhaust and to appoint a technical committee and callit together from time to time to evaluate progress and develop and recommend research programs.
 
 Subsec. (b). Pub. L. 90–148 substituted provision setting out the duties of the Air Quality Advisory Board for provisions requiring the Secretary to make semi-annual reports to Congress on measures being taken toward the resolution of vehicle exhaust pollution problems.
 

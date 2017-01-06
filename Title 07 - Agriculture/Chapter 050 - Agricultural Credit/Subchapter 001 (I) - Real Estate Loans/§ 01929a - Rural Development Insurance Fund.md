@@ -2,7 +2,7 @@
 
 #### (a) Creation; revolving fund; rural development loans
 
-There is hereby created the Rural Development Insurance Fund (hereinafter in this section referred to as the "Insurance Fund") which shall be used by the Secretary as a revolving fund for the discharge of the obligations of the Secretary under contracts guaranteeing or insuring rural development loans. For the purpose of this section "rural development loans" shall be those provided for by sections 1926(a)(1) and1932 of this title, except loans (other than for water systems and waste disposal facilities) of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972.
+There is hereby created the Rural Development Insurance Fund (hereinafter in this section referred to as the "Insurance Fund") which shall be used by the Secretary as a revolving fund for the discharge of the obligations of the Secretary under contracts guaranteeing or insuring rural development loans. For the purpose of this section "rural development loans" shall be those provided for by sections 1926(a)(1) and 1932 of this title, except loans (other than for water systems and waste disposal facilities) of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972.
 
 #### (b) Transfer of assets and liabilities
 
@@ -36,7 +36,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(4) to make payments in compliance with the Secretary's obligations under contracts of guarantee entered into by him;
 
-&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans.Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
+&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 

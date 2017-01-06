@@ -6,7 +6,7 @@ Each State educational agency and specially qualified agency desiring a grant un
 
 #### (b) Contents
 
-Each plan submitted under subsection (a) of this section shall—
+Each plan submitted under subsection (a) shall—
 
 &emsp;(1) describe the process that the agency will use in awarding subgrants to eligible entities under section 6824(d)(1) of this title;
 
@@ -38,7 +38,7 @@ Each plan submitted under subsection (a) of this section shall—
 
 &emsp;(6) describe how the agency will assist eligible entities in meeting—
 
-&emsp;&emsp;(A) the State-designed long-term goals established under section 6311(c)(4)(A)(ii) of this title, including measurements of interim progress towards meeting such goals,based on the State's English language proficiency assessment under section 6311(b)(2)(G) of this title; and
+&emsp;&emsp;(A) the State-designed long-term goals established under section 6311(c)(4)(A)(ii) of this title, including measurements of interim progress towards meeting such goals, based on the State's English language proficiency assessment under section 6311(b)(2)(G) of this title; and
 
 &emsp;&emsp;(B) the challenging State academic standards;
 
@@ -52,13 +52,13 @@ Each plan submitted under subsection (a) of this section shall—
 
 #### (c) Approval
 
-The Secretary, after using a peer review process, shall approve a plan submitted under subsection (a) of this section if the plan meets the requirements of this section.
+The Secretary, after using a peer review process, shall approve a plan submitted under subsection (a) if the plan meets the requirements of this section.
 
 #### (d) Duration of plan
 
 #### (1) In general
 
-&emsp;Each plan submitted by a State educational agency or specially qualified agency and approved under subsection (c) of this section shall—
+&emsp;Each plan submitted by a State educational agency or specially qualified agency and approved under subsection (c) shall—
 
 &emsp;&emsp;(A) remain in effect for the duration of the agency's participation under this subpart; and
 
@@ -76,7 +76,7 @@ The Secretary, after using a peer review process, shall approve a plan submitted
 
 #### (e) Consolidated plan
 
-A plan submitted under subsection (a) of this section may be submitted as part of a consolidated plan under section 7842 of this title.
+A plan submitted under subsection (a) may be submitted as part of a consolidated plan under section 7842 of this title.
 
 #### (f) Secretary assistance
 

@@ -12,7 +12,7 @@ In a manner specified by the Secretary of Health and Human Services (referred to
 
 An action referred to in subsection (a)(1) is, with respect to a pharmacy that compounds drugs, any of the following:
 
-&emsp;(1) The issuance of a warning letter, or the imposition of sanctions or penalties, by a State for violations of a State's pharmacy regulations pertaining to compounding.
+&emsp;(1) The issuance of a warning letter, or the imposition of sanctions or penalties, by aState for violations of a State's pharmacy regulations pertaining to compounding.
 
 &emsp;(2) The suspension or revocation of a State-issued pharmacy license or registration for violations of a State's pharmacy regulations pertaining to compounding.
 

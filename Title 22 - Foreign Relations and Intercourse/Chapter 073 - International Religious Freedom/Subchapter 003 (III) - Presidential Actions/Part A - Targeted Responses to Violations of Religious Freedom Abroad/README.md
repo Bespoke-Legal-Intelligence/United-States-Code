@@ -7,6 +7,7 @@ Part A—Targeted Responses to Violations of Religious Freedom Abroad
 
 - [&sect; 06441 - Presidential actions in response to violations of religious freedom](%C2%A7%2006441%20-%20Presidential%20actions%20in%20response%20to%20violations%20of%20religious%20freedom.md)
 - [&sect; 06442 - Presidential actions in response to particularly severe violations of religious freedom](%C2%A7%2006442%20-%20Presidential%20actions%20in%20response%20to%20particularly%20severe%20violations%20of%20religious%20freedom.md)
+- [&sect; 06442a - Non-state actor designations](%C2%A7%2006442a%20-%20Non-state%20actor%20designations.md)
 - [&sect; 06443 - Consultations](%C2%A7%2006443%20-%20Consultations.md)
 - [&sect; 06444 - Report to Congress](%C2%A7%2006444%20-%20Report%20to%20Congress.md)
 - [&sect; 06445 - Description of Presidential actions](%C2%A7%2006445%20-%20Description%20of%20Presidential%20actions.md)

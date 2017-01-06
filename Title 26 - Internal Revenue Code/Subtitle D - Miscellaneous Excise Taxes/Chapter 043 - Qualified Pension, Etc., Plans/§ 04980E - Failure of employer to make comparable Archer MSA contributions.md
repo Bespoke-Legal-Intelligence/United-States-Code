@@ -60,7 +60,7 @@ For purposes of this section, all persons treated as a single employer under sub
 
 Terms used in this section which are also used in section 220 have the respective meanings given such terms in section 220.
 
-(Added Pub. L. 104–191, title III, §301(c)(4)(A), Aug. 21, 1996, 110 Stat. 2049; amended Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8), (b)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-629; Pub. L. 107–147, title IV, §417(17)(A), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 104–191, title III, §301(c)(4)(A), Aug. 21, 1996, 110 Stat. 2049; amended Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8), (b)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–147, title IV, §417(17)(A), Mar. 9, 2002, 116 Stat. 56.)
 
 #### Amendments
 
@@ -74,5 +74,5 @@ Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], subst
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as an Effective Date of 1996 Amendment note under section 62 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set outas an Effective Date of 1996 Amendment note under section 62 of this title.
 

@@ -182,7 +182,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 (b) As used in sections 1927(e),<sup>1</sup> 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
-&emsp;(1) The term "borrower" means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has beenaccelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
+&emsp;(1) The term "borrower" means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
 &emsp;(2) The term "loan service program" means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
 
@@ -302,7 +302,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Effective and Termination Date of 1966 Amendment
 
-Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, July 26, 1968, 82 Stat. 445, provided in part that the amendment made by Pub. L. 89–586 is effective only for the period of time commencing with Sept. 19, 1966, and ending on June 30, 1970.
+Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, July 26, 1968, 82 Stat. 445, provided inpart that the amendment made by Pub. L. 89–586 is effective only for the period of time commencing with Sept. 19, 1966, and ending on June 30, 1970.
 
 #### Construction of 1990 Amendment
 

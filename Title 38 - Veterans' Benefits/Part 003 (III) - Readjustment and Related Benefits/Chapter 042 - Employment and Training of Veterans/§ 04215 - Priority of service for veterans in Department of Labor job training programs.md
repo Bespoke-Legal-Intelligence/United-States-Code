@@ -58,7 +58,7 @@ Addition to Annual Report.—(1) In the annual report required under section 410
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

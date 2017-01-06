@@ -46,7 +46,7 @@ Subsec. (a)(9), (10). Pub. L. 113–4, §901(4)(B), (5)(B), (6), added pars. (9)
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–271, §7(a)(3)(A), substituted "or authorized designees of Indian tribal governments" for "and tribal organizations" in introductory provisions and added par. (8).
 
-Subsec. (c). Pub. L. 109–271, §7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows: "The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section."
+Subsec. (c). Pub. L. 109–271, §7(a)(3)(B), struck out subsec. (c). Prior to amendment, text read as follows:"The Federal share of a grant made under this section may not exceed 90 percent of the total costs of the project described in the application submitted, except that the Attorney General may grant a waiver of this match requirement on the basis of demonstrated financial hardship. Funds appropriated for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section."
 
 #### Effective Date of 2013 Amendment
 

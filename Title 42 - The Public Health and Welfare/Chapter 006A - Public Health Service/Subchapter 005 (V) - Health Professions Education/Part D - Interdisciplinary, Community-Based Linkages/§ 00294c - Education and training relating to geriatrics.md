@@ -120,7 +120,7 @@
 
 #### (C) Payment to institution
 
-&emsp;&emsp;The Secretary shall make payments to institutions which include schools of medicine, osteopathic medicine, nursing, social work, psychology, dentistry, and pharmacy, or other allied health discipline in an accredited health professions school that is approved by the Secretary.
+&emsp;&emsp;The Secretary shall make payments to institutions which include schools of medicine, osteopathic medicine, nursing, social work,psychology, dentistry, and pharmacy, or other allied health discipline in an accredited health professions school that is approved by the Secretary.
 
 #### (6) Service requirement
 
@@ -180,7 +180,7 @@
 
 #### (8) Maintenance of effort
 
-&emsp;A geriatric education center that receives an award under this subsection shall provide assurances to the Secretary that funds provided to the geriatric education center under this subsection will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the geriatric education center.
+&emsp;A geriatric education center that receives an award under this subsection shall provide assurances to the Secretary that funds provided to the geriatric education center under this subsection will be used only to supplement,not to supplant, the amount of Federal, State, and local funds otherwise expended by the geriatric education center.
 
 #### (9) Authorization of appropriations
 

@@ -60,7 +60,7 @@ In making the calculations regarding cost of attendance, net price, and tuition 
 
 #### (d) Categories of institutions
 
-The lists described in subsection (c)(1) shall be compiled according to the following categories of institutions that participate in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42:
+The lists described in subsection (c)(1) shall be compiled according to the following categories of institutions that participate in programs under subchapter IV:
 
 &emsp;(1) Four-year public institutions of higher education.
 
@@ -128,7 +128,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;(2) the percentage change in tuition and fees for such students for all public institutions of higher education in such State for each of the five most recent preceding academic years; and
 
-&emsp;(3) the percentage change in the total amount of need-based aid and merit-based aid provided by such State to full-time students enrolled in the public institutions of higher education in the State for each of the five most recent preceding academic years.
+&emsp;(3) the percentage change in the total amount of need-based aid and merit-based aidprovided by such State to full-time students enrolled in the public institutions of higher education in the State for each of the five most recent preceding academic years.
 
 #### (h) Net price calculator
 
@@ -142,7 +142,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (3) Use of net price calculator by institutions
 
-&emsp;Not later than two years after the date on which the Secretary makes the calculator developed under paragraph (1) available to institutions of higher education, each institution of higher education that receives Federal funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 shall make publicly available on the institution's website a net price calculator to help current and prospective students, families, and other consumers estimate a student's individual net price at such institution of higher education. Such calculator may be a net price calculator developed—
+&emsp;Not later than two years after the date on which the Secretary makes the calculator developed under paragraph (1) available to institutions of higher education, each institution of higher education that receives Federal funds under subchapter IV shall make publicly available on the institution's website a net price calculator to help current and prospective students, families, and other consumers estimate a student's individual net price at such institution of higher education. Such calculator may be a net price calculator developed—
 
 &emsp;&emsp;(A) by the Department pursuant to paragraph (1); or
 
@@ -160,15 +160,15 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;&emsp;(iii) may change;
 
-&emsp;&emsp;(B) stating that the student must complete the Free Application for Federal Student Aid described in section 1090 of this title in order to be eligible for, and receive, an actual financial aid award that includes Federal grant, loan, or work-study assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;(B) stating that the student must complete the Free Application for Federal Student Aid described in section 1090 of this title in order to be eligible for, and receive, an actual financial aid award that includes Federal grant, loan, or work-study assistance under subchapter IV; and
 
 &emsp;&emsp;(C) including a link to the website of the Department that allows students to access the Free Application for Federal Student Aid described in section 1090 of this title.
 
 #### (i) Consumer information
 
-#### (1) Availability of title IV institution information
+#### (1) Availability of subchapter IV institution information
 
-&emsp;Not later than one year after August 14, 2008, the Secretary shall make publicly available on the College Navigator website, in simple and understandable terms, the following information about each institution of higher education that participates in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, for the most recent academic year for which satisfactory data are available:
+&emsp;Not later than one year after August 14, 2008, the Secretary shall make publicly available on the College Navigator website, in simple and understandable terms, the following information about each institution of higher education that participates in programs under subchapter IV, for the most recent academic year for which satisfactory data are available:
 
 &emsp;&emsp;(A) A statement of the institution's mission.
 
@@ -266,15 +266,15 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) Availability of list of participating institutions
 
-&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in a sortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, which list shall, for each institution, include the following:
+&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in a sortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV, which list shall, for each institution, include the following:
 
 &emsp;&emsp;&emsp;(i) The tuition and fees for each of the three most recent academic years for which data are available.
 
 &emsp;&emsp;&emsp;(ii) The net price for each of the three most recent available academic years for which data are available.
 
-&emsp;&emsp;&emsp;(iii)(I) During the period beginning July 1, 2010, and ending June 30, 2013, the net price for students receiving Federal student financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, disaggregated by the income categories described in paragraph (6), for the most recent academic year for which data are available.
+&emsp;&emsp;&emsp;(iii)(I) During the period beginning July 1, 2010, and ending June 30, 2013, the net price for students receiving Federal student financial aid under subchapter IV, disaggregated by the income categories described in paragraph (6), for the most recent academic year for which data are available.
 
-&emsp;&emsp;&emsp;(II) Beginning July 1, 2013, the net price for students receiving Federal student financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, disaggregated by the income categories described in paragraph (6), for each of the three most recent academic years for which data are available.
+&emsp;&emsp;&emsp;(II) Beginning July 1, 2013, the net price for students receiving Federal student financial aid under subchapter IV, disaggregated by the income categories described in paragraph (6), for each of the three most recent academic years for which data are available.
 
 &emsp;&emsp;&emsp;(iv) The average annual percentage change and average annual dollar change in such institution's tuition and fees for each of the three most recent academic years for which data are available.
 
@@ -290,7 +290,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of reporting the information required under this subsection, the following income categories shall apply for students who receive Federal student financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42:
+&emsp;&emsp;For purposes of reporting the information required under this subsection, the following income categories shall apply for students who receive Federal student financial aid under subchapter IV:
 
 &emsp;&emsp;&emsp;(i) $0–30,000.
 
@@ -348,7 +348,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;&emsp;(iii) may change, subject to the availability of financial assistance, State appropriations, and other factors;
 
-&emsp;&emsp;(B) stating that the student must complete the Free Application for Federal Student Aid described in section 1090 of this title in order to be eligible for, and receive, an actual financial aid award that includes Federal grant, loan, or work-study assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;(B) stating that the student must complete the Free Application for Federal Student Aid described in section 1090 of this title in order to be eligible for, and receive, an actual financial aid award that includes Federal grant, loan, or work-study assistance under subchapter IV; and
 
 &emsp;&emsp;(C) including a link to the website of the Department that allows students to access the Free Application for Federal Student Aid described in section 1090 of this title.
 
@@ -356,7 +356,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (1) Survey required
 
-&emsp;The Secretary, acting through the Commissioner for Education Statistics, shall conduct, on a State-by-State basis, a survey of recipients of Federal student financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42—
+&emsp;The Secretary, acting through the Commissioner for Education Statistics, shall conduct,on a State-by-State basis, a survey of recipients of Federal student financial aid under subchapter IV—
 
 &emsp;&emsp;(A) to identify the population of students receiving such Federal student financial aid;
 
@@ -391,10 +391,6 @@ The Secretary shall annually report on the College Navigator website, in charts 
 The Secretary is authorized to issue such regulations as may be necessary to carry out this section.
 
 (Pub. L. 89–329, title I, §132, as added Pub. L. 110–315, title I, §111, Aug. 14, 2008, 122 Stat. 3098.)
-
-#### References in Text
-
-Title IV, referred to in the heading of subsec. (i)(1), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to subchapter IV of this chapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Prior Provisions
 

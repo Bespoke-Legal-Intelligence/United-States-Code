@@ -70,7 +70,7 @@ A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 
 
 <b>2014</b>—Subsecs. (e), (f). Pub. L. 113–295 struck out subsecs. (e) and (f) which related to special rule for individuals with long-term unused credits and treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options, respectively.
 
-<b>2009</b>—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struckout former cl. (iii). Prior to amendment, text read as follows: "The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)."
+<b>2009</b>—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)."
 
 Subsec. (d)(1)(B)(iii)(II). Pub. L. 111–5, §1142(b)(4)(B), struck out "increased in the manner provided in clause (iii)" before period.
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 110–343, §103(b), added subsec. (f).
 
 Subsec. (d)(1)(B)(iv)(II). Pub. L. 104–188, §1704(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased by the amount of any credit not allowed under section 29 solely by reason of the application of section 29(b)(5)(B) or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)."
 
-Pub. L. 104–188, §1205(d)(5)(B), which directed that subcl. (II) be amended by striking out "or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)", could not be executed because the phrase sought to be struck out did not appear in text subsequent to the general amendment of subcl. (II) by Pub. L. 104–188, §1704(j)(1), see above, which, pursuant to section 1701 of Pub. L. 104–188, set out as a note under section 1 of this title, is treated as having been enacted before section 1205(d)(5)(B) of Pub. L. 104–188.
+Pub. L. 104–188, §1205(d)(5)(B), which directed that subcl. (II) be amended by striking out "or not allowedunder section 28 solely by reason of the application of section 28(d)(2)(B)", could not be executed because the phrase sought to be struck out did not appear in text subsequent to the general amendment of subcl. (II) by Pub. L. 104–188, §1704(j)(1), see above, which, pursuant to section 1701 of Pub. L. 104–188, set out as a note under section 1 of this title, is treated as having been enacted before section 1205(d)(5)(B) of Pub. L. 104–188.
 
 <b>1993</b>—Subsec. (d)(1)(B)(ii)(II). Pub. L. 103–66, §13171(c), substituted "(5), and (7)" for "(5), (6), and (8)".
 
@@ -162,7 +162,7 @@ Pub. L. 108–357, title IV, §421(b), Oct. 22, 2004, 118 Stat. 1514, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable yearsending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
+Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Pub. L. 104–188, title I, §1704(j)(1), Aug. 20, 1996, 110 Stat. 1881, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
 
@@ -184,7 +184,7 @@ Pub. L. 101–239, title VII, §7612(a)(3), Dec. 19, 1989, 103 Stat. 2373, provi
 
 Pub. L. 101–239, title VII, §7612(b)(2), Dec. 19, 1989, 103 Stat. 2374, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of the minimum tax credit for taxable years beginning after December 31, 1989; except that, for such purposes, section 53(b)(1) of the Internal Revenue Code of 1986 shall be applied as if such amendment had been in effect for all prior taxable years."
 
-Amendment by section 7811(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

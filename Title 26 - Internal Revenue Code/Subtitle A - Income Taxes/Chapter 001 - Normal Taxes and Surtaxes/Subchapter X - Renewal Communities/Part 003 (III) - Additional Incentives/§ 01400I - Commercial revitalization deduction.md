@@ -126,5 +126,5 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 This section shall not apply to any building placed in service after December 31, 2009.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-596.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–596.)
 

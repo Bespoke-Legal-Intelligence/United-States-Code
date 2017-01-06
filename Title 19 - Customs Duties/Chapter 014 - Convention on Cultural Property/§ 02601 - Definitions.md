@@ -94,5 +94,161 @@ Exception.—Notwithstanding subsection (a), the members of the Committee may be
 
 Pub. L. 97–446, title III, §301, Jan. 12, 1983, 96 Stat. 2350, provided that: "This title \[enacting this chapter\] may be cited as the 'Convention on Cultural Property Implementation Act'."
 
+#### Protecting and Preserving International Cultural Property
+
+Pub. L. 114–151, May 9, 2016, 130 Stat. 369, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Protect and Preserve International Cultural Property Act'.
+
+#### "SEC. 2. SENSE OF CONGRESS.
+
+"It is the sense of Congress that the President should establish an interagency coordinating committee to coordinate the efforts of the executive branch to protect and preserve international cultural property at risk from political instability, armed conflict, or natural or other disasters. Such committee should—
+
+&emsp;"(1) be chaired by a Department of State employee of Assistant Secretary rank or higher, concurrent with that employee's other duties;
+
+&emsp;"(2) include representatives of the Smithsonian Institution and Federal agencies with responsibility for the preservation and protection of international cultural property;
+
+&emsp;"(3) consult with governmental and nongovernmental organizations, including the United States Committee of the Blue Shield, museums, educational institutions, and research institutions, and participants in the international art and cultural property market on efforts to protect and preserve international cultural property;
+
+&emsp;"(4) coordinate core United States interests in—
+
+&emsp;&emsp;"(A) protecting and preserving international cultural property;
+
+&emsp;&emsp;"(B) preventing and disrupting looting and illegal trade and trafficking in international cultural property, particularly exchanges that provide revenue to terrorist and criminal organizations;
+
+&emsp;&emsp;"(C) protecting sites of cultural and archaeological significance; and
+
+&emsp;&emsp;"(D) providing for the lawful exchange of international cultural property.
+
+#### "SEC. 3. EMERGENCY PROTECTION FOR SYRIAN CULTURAL PROPERTY.
+
+"(a)
+
+In General.—The President shall exercise the authority of the President under section 304 of the Convention on Cultural Property Implementation Act (19 U.S.C. 2603) to impose import restrictions set forth in section 307 of that Act (19 U.S.C. 2606) with respect to any archaeological or ethnological material of Syria—
+
+&emsp;"(1) not later than 90 days after the date of the enactment of this Act \[May 9, 2016\];
+
+&emsp;"(2) without regard to whether Syria is a State Party (as defined in section 302 of that Act (19 U.S.C. 2601)); and
+
+&emsp;"(3) notwithstanding—
+
+&emsp;&emsp;"(A) the requirement of subsection (b) of section 304 of that Act (19 U.S.C. 2603(b)) that an emergency condition (as defined in subsection (a) of that section) applies; and
+
+&emsp;&emsp;"(B) the limitations under subsection (c) of that section.
+
+"(b)
+
+Annual Determination Regarding Certification.—
+
+&emsp;"(1)
+
+Determination.—
+
+&emsp;&emsp;"(A)
+
+In general.—The President shall, not less often than annually, determine whether at least 1 of the conditions specified in subparagraph (B) is met, and shall notify the appropriate congressional committees of such determination.
+
+&emsp;&emsp;"(B)
+
+Conditions.—The conditions referred to in subparagraph (A) are the following:
+
+&emsp;&emsp;&emsp;"(i) The Government of Syria is incapable, at the time a determination under such subparagraph is made, of fulfilling the requirements to request an agreement under section 303 of the Convention on Cultural Property Implementation Act (19 U.S.C. 2602), including the requirements under subsection (a)(3) of that section.
+
+&emsp;&emsp;&emsp;"(ii) It would be against the United States national interest to enter into such an agreement.
+
+&emsp;"(2)
+
+Termination of restrictions.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), the import restrictions referred to in subsection (a) shall terminate on the date that is 5 years after the date on which the President determines that neither of the conditions specified in paragraph (1)(B) are met.
+
+&emsp;&emsp;"(B)
+
+Request for termination.—If Syria requests to enter into an agreement with the United States pursuant to section 303 of the Convention on Cultural Property Implementation Act (19 U.S.C. 2602) on or after the date on which the President determines that neither of the conditions specified in paragraph (1)(B) are met, the import restrictions referred to in subsection (a) shall terminate on the earlier of—
+
+&emsp;&emsp;&emsp;"(i) the date that is 3 years after the date on which Syria makes such a request; or
+
+&emsp;&emsp;&emsp;"(ii) the date on which the United States and Syria enter into such an agreement.
+
+"(c)
+
+Waiver.—
+
+&emsp;"(1)
+
+In general.—The President may waive the import restrictions referred to in subsection (a) for specified archaeological and ethnological material of Syria if the President certifies to the appropriate congressional committees that the conditions described in paragraph (2) are met.
+
+&emsp;"(2)
+
+Conditions.—The conditions referred to in paragraph (1) are the following:
+
+&emsp;&emsp;"(A)(i) The owner or lawful custodian of the specified archaeological or ethnological material of Syria has requested that such material be temporarily located in the United States for protection purposes; or
+
+&emsp;&emsp;"(ii) if no owner or lawful custodian can reasonably be identified, the President determines that, for purposes of protecting and preserving such material, the material should be temporarily located in the United States.
+
+&emsp;&emsp;"(B) Such material shall be returned to the owner or lawful custodian when requested by such owner or lawful custodian.
+
+&emsp;&emsp;"(C) There is no credible evidence that granting a waiver under this subsection will contribute to illegal trafficking in archaeological or ethnological material of Syria or financing of criminal or terrorist activities.
+
+&emsp;"(3)
+
+Action.—If the President grants a waiver under this subsection, the specified archaeological or ethnological material of Syria that is the subject of such waiver shall be placed in the temporary custody of the United States Government or in the temporary custody of a cultural or educational institution within the United States for the purpose of protection, restoration, conservation, study, or exhibition, without profit.
+
+&emsp;"(4)
+
+Immunity from seizure.—Any archaeological or ethnological material that enters the United States pursuant to a waiver granted under this section shall have immunity from seizure under Public Law 89–259 (22 U.S.C. 2459). All provisions of Public Law 89–259 shall apply to such material as if immunity from seizure had been granted under that Public Law.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations and the Committee on Finance of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs and the Committee on Ways and Means of the House of Representatives.
+
+&emsp;"(2)
+
+Archaeological or ethnological material of syria.—The term 'archaeological or ethnological material of Syria' means cultural property (as defined in section 302 of the Convention on Cultural Property Implementation Act (19 U.S.C. 2601)) that is unlawfully removed from Syria on or after March 15, 2011.
+
+#### "SEC. 4. REPORT.
+
+"Not later than 1 year after the date of the enactment of this Act \[May 9, 2016\], and annually thereafter for the next 6 years, the President shall submit to the appropriate congressional committees a report on theefforts of the executive branch, during the 12-month period preceding the submission of the report, to protect and preserve international cultural property, including—
+
+&emsp;"(1) whether an interagency coordinating committee as described in section 2 has been established and, if such a committee has been established, a description of the activities undertaken by such committee, including a list of the entities participating in such activities;
+
+&emsp;"(2) a description of measures undertaken pursuant to relevant statutes, including—
+
+&emsp;&emsp;"(A) actions to implement and enforce section 3 of this Act and section 3002 of the Emergency Protection for Iraqi Cultural Antiquities Act of 2004 (Public Law 108–429; 118 Stat. 2599), including measures to dismantle international networks that traffic illegally in cultural property;
+
+&emsp;&emsp;"(B) a description of any requests for a waiver under section 3(c) of this Act and, for each such request, whether a waiver was granted;
+
+&emsp;&emsp;"(C) a list of the statutes and regulations employed in criminal, civil, and civil forfeiture actions to prevent illegal trade and trafficking in cultural property;
+
+&emsp;&emsp;"(D) actions undertaken to ensure the consistent and effective application of law in cases relating to illegal trade and trafficking in cultural property; and
+
+&emsp;&emsp;"(E) actions undertaken to promote the legitimate commercial and non-commercial exchange and movement of cultural property; and
+
+&emsp;"(3) actions undertaken in fulfillment of international agreements on cultural property protection, including the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague May 14, 1954."
+
+#### Delegation of Functions and Authorities Under the Protect and Preserve International Cultural Property Act
+
+Memorandum of President of the United States, Aug. 1, 2016, 81 F.R. 55105, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, the functions and authorities conferred upon the President by the Protect and Preserve International Cultural Property Act (Public Law 114–151, 130 Stat. 369) are hereby delegated to the Secretary of State. In the performance of such functions, the Secretary of State shall consult the Secretaries of Homeland Security and the Treasury, and the heads of other departments and agencies, as appropriate.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

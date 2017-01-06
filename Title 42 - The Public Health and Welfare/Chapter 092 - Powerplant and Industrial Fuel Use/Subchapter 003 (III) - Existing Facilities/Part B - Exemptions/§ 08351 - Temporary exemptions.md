@@ -4,7 +4,7 @@
 
 After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant such an exemption for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that for the period of the proposed exemption, despite diligent good faith efforts—
 
-&emsp;(1) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source, will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the bestpracticable estimates, does not substantially exceed the costs, as determined by rule by the Secretary, of using imported petroleum as a primary energy source;
+&emsp;(1) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source, will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the costs, as determined by rule by the Secretary, of using imported petroleum as a primary energy source;
 
 &emsp;(2) one or more site limitations exist which would not permit the operation of such a powerplant using coal or any other alternate fuel as a primary energy source; or
 
@@ -46,7 +46,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (h) Duration of temporary exemptions
 
-(1) Except as provided in paragraphs (2) and (3), exemptions under this section for any powerplant may not exceed, taking into account any extension or renewal, 5 years.
+(1) Except as provided in paragraphs (2) and (3), exemptions under this section for anypowerplant may not exceed, taking into account any extension or renewal, 5 years.
 
 (2)(A) An exemption under subsection (a)(1) of this section may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
 

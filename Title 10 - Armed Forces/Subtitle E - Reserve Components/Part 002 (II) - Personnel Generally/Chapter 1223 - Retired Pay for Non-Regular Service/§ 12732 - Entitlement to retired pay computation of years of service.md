@@ -60,7 +60,7 @@
 
 (b) The following service may not be counted under subsection (a):
 
-&emsp;(1) Service (other than active service) in an inactive section of the Organized Reserve Corps or of the Army Reserve, or in an inactive section of the officers' section of the Air Force Reserve.
+&emsp;(1) Service (other than active service) in an inactive section of the Organized ReserveCorps or of the Army Reserve, or in an inactive section of the officers' section of the Air Force Reserve.
 
 &emsp;(2) Service (other than active service) after June 30, 1949, while on the Honorary Retired List of the Navy Reserve or of the Marine Corps Reserve.
 
@@ -146,7 +146,7 @@ June 29, 1948, ch. 708, §306 (less (c) and (d), as applicable to determination 
 
 34:440m(f).
 
-Subsection (a) consolidates the provisions of 10:1036a and 1036e(b)–(d), and 34:440i and 440m(b)–(d), relating to service that may be counted in determining eligibility for retired pay under this chapter. 10:1036e(a) and34:440m(a) are omitted as covered by the enumeration of the service that may be counted for the purposes of the revised section.
+Subsection (a) consolidates the provisions of 10:1036a and 1036e(b)–(d), and 34:440i and 440m(b)–(d), relating to service that may be counted in determining eligibility for retired pay under this chapter. 10:1036e(a) and 34:440m(a) are omitted as covered by the enumeration of the service that may be counted for the purposes of the revised section.
 
 In subsection (a)(1)(A)–(F), the requirement that the service must have been satisfactory is omitted as executed, since all service before July 1, 1949, has been found to have been satisfactory by the Secretaries concerned.
 
@@ -174,7 +174,7 @@ The word "full-time" is inserted for clarity. The other change reflects the opin
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, whichamended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–636, §2, Oct. 8, 1964, 78 Stat. 1034, provided that: "The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissionedpersonnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department."
+Pub. L. 88–636, §2, Oct. 8, 1964, 78 Stat. 1034, provided that: "The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissioned personnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department."
 
 #### Effective Date of 1958 Amendment
 
@@ -250,7 +250,7 @@ Sec. 2. Creditable constructive service for a person qualified under section 1 h
 
 "
 
-Sec. 3. Additional pay accruing to any person by virtue of increased creditable service resulting from the inclusion of constructive service creditable by application of section 1 hereof shall not be made for active or inactive duty for which pay is authorized by competent authority which is performed prior to the first day of the calendar quarter next succeeding the calendar quarter in which this Act becomes effective."
+Sec. 3. Additional pay accruing to any person by virtue of increased creditable service resulting from the inclusion of constructive service creditable by application of section 1 hereof shall not be made for active orinactive duty for which pay is authorized by competent authority which is performed prior to the first day of the calendar quarter next succeeding the calendar quarter in which this Act becomes effective."
 
 #### Additional Clerical Service Creditable Under This Chapter
 

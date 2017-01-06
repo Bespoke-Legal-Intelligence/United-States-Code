@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education, consortia of such institutions, or partnerships between nonprofit educational organizations and institutions of higher education, to assist such institutions, consortia or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, consortia or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
+&emsp;The Secretary is authorized to make grants to institutions of higher education, consortia of such institutions, or partnerships betweennonprofit educational organizations and institutions of higher education, to assist such institutions, consortia or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, consortia or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
 
 #### (2) Use of funds
 
@@ -68,7 +68,7 @@
 
 &emsp;The Secretary may waive or reduce the required non-Federal share for institutions that—
 
-&emsp;&emsp;(A) are eligible to receive assistance under part A or B of subchapter III of this chapter or under subchapter V of this chapter; and
+&emsp;&emsp;(A) are eligible to receive assistance under part A or B of subchapter III or under subchapter V; and
 
 &emsp;&emsp;(B) have submitted a grant application under this section that demonstrates a need for a waiver or reduction.
 

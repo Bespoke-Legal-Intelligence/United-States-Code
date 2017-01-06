@@ -10,7 +10,7 @@ Prohibited Activities.—Whoever—
 
 &emsp;(3) intentionally damages or destroys the property of a facility, or attempts to do so, because such facility provides reproductive health services, or intentionally damages or destroys the property of a place of religious worship,
 
-> shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section for such activities insofar as they are directed exclusively at that minor.
+> shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section forsuch activities insofar as they are directed exclusively at that minor.
 
 (b)
 
@@ -44,7 +44,7 @@ Action by attorney general of the united states.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Attorney General of the United States has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, the Attorney General may commence a civilaction in any appropriate United States District Court.
+In general.—If the Attorney General of the United States has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, the Attorney General may commence a civil action in any appropriate United States District Court.
 
 &emsp;&emsp;(B)
 

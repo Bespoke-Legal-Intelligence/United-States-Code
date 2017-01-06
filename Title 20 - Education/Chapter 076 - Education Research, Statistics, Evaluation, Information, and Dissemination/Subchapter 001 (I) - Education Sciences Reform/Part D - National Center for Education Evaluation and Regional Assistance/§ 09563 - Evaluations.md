@@ -40,7 +40,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b). Pub. L. 114–95 substituted "section 8601 of the Elementary and Secondary Education Act of1965" for "part E of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6491 et seq.)".
+<b>2015</b>—Subsec. (b). Pub. L. 114–95 substituted "section 8601 of the Elementary and Secondary Education Act of 1965" for "part E of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6491 et seq.)".
 
 #### Effective Date of 2015 Amendment
 

@@ -8,7 +8,7 @@ Subject to the availability of appropriations to carry out this part, the amount
 
 If the funds appropriated to carry out this part in a fiscal year subsequent to fiscal year 1991 exceed the funds appropriated to carry out this part in fiscal year 1991, then the amount of the grant (if any) made under this part to a tribal organization for the subsequent fiscal year shall be—
 
-&emsp;(1) increased by such amount as the Assistant Secretary considers to be appropriate, in addition to the amount of any increase required by subsection (a) of this section, so that the grant equals or more closely approaches the amount of the grant made under this part to the tribal organization for fiscal year 1980; or
+&emsp;(1) increased by such amount as the Assistant Secretary considers to be appropriate, inaddition to the amount of any increase required by subsection (a) of this section, so that the grant equals or more closely approaches the amount of the grant made under this part to the tribal organization for fiscal year 1980; or
 
 &emsp;(2) an amount the Assistant Secretary considers to be sufficient if the tribal organization did not receive a grant under this part for either fiscal year 1980 or fiscal year 1991.
 
@@ -20,7 +20,7 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 #### (2) Consortia of tribal organizations
 
-&emsp;If a tribal organization received a grant under this part for fiscal year 1991 as part of a consortium, the Assistant Secretary shall consider the tribal organization to have received a grant under this part for fiscal year 1991 for purposes of subsections (a) and (b), and shall apply the provisions of subsections (a) and (b)(1) (under the conditions described in subsection (b)) to the tribal organization for each covered year for which the tribal organizationsubmits an application under this part, even if the tribal organization submits—
+&emsp;If a tribal organization received a grant under this part for fiscal year 1991 as part of a consortium, the Assistant Secretary shall consider the tribal organization to have received a grant under this part for fiscal year 1991 for purposes of subsections (a) and (b), and shall apply the provisions of subsections (a) and (b)(1) (under the conditions described in subsection (b)) to the tribal organization for each covered year for which the tribal organization submits an application under this part, even if the tribal organization submits—
 
 &emsp;&emsp;(A) a separate application from the remaining members of the consortium; or
 

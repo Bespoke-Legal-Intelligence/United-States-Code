@@ -26,9 +26,17 @@ Issuance of Cards.—(1) The Secretary shall issue a biometric transportation se
 
 &emsp;(E) an individual with access to security sensitive information as determined by the Secretary;
 
-&emsp;(F) other individuals engaged in port security activities as determined by the Secretary; and
+&emsp;(F) other individuals engaged in port security activities as determined by the Secretary;
 
-&emsp;(G) other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
+&emsp;(G) a member of the Armed Forces who—
+
+&emsp;&emsp;(i) is undergoing separation, discharge, or release from the Armed Forces under honorable conditions;
+
+&emsp;&emsp;(ii) applies for a transportation security card; and
+
+&emsp;&emsp;(iii) is otherwise eligible for such a card; and
+
+&emsp;(H) other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
 
 (3) The Secretary may extend for up to one year the expiration of a biometric transportation security card required by this section to align the expiration with the expiration of a license, certificate of registry, or merchant mariner document required under chapter 71 or 73.
 
@@ -110,7 +118,7 @@ Interim disqualifying criminal offenses.—Except as provided under paragraph (2
 
 &emsp;&emsp;&emsp;(xiv) Fraudulent entry into a seaport in violation of section 1036 of title 18, or a comparable State law.
 
-&emsp;&emsp;&emsp;(xv) A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act <sup>1</sup> or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
+&emsp;&emsp;&emsp;(xv) A violation of the chapter 96 of title 18 (popularly known as the Racketeer Influenced and Corrupt Organizations Act) or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
 
 &emsp;&emsp;(C)
 
@@ -136,7 +144,7 @@ Other potential disqualifications.—Except as provided under subparagraphs (A) 
 
 Modification of listed offenses.—The Secretary may, by rulemaking, add to or modify the list of disqualifying crimes described in paragraph (1)(B).
 
-&emsp;(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) <sup>2</sup> paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+&emsp;(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
 
 &emsp;&emsp;(A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
 
@@ -238,7 +246,9 @@ Implementation Schedule.—In implementing the transportation security card prog
 
 (j)
 
-Transportation Security Card Processing Deadline.—Not later than January 1, 2009, the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners' documents on the date of the enactment of the SAFE Port Act.
+Priority Processing for Separating Service Members.—(1) The Secretary and the Secretary of Defense shall enter into a memorandum of understanding regarding the submission and processing of applications for transportation security cards under subsection (b)(2)(G).
+
+(2) Not later than 30 days after the submission of such an application by an individual who is eligible to submit such an application, the Secretary shall process and approve or deny the application unless an appeal or waiver applies or further application documentation is necessary.
 
 (k)
 
@@ -274,7 +284,7 @@ Fee.—An individual charged a fee for a transportation security card issued und
 
 &emsp;(3)
 
-Regulations.—Not later than 2 years after the commencement of the pilot programunder paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
+Regulations.—Not later than 2 years after the commencement of the pilot program under paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
 
 &emsp;(4)
 
@@ -320,7 +330,7 @@ In general.—Not later than one year after the date of publication of final reg
 
 Limitation.—The Secretary may not require any such vessel or facility to provide on-site activation capability.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV, §3509(a), Dec. 23, 2016, 130 Stat. 2780.)
 
 #### References in Text
 
@@ -330,11 +340,19 @@ The Immigration and Nationality Act, referred to in subsec. (c)(1)(D)(iii), is a
 
 The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The date of the enactment of the SAFE Port Act, referred to in subsecs. (j), (k)(1)(C), (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
+The date of the enactment of the SAFE Port Act, referred to in subsecs. (k)(1)(C) and (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
 
-Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4), (l), is classified to section 901(1) of Title 6, Domestic Security.
+Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4) and (l), is classified to section 901(1) of Title 6, Domestic Security.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2)(G), (H). Pub. L. 114–328, §3509(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+
+Subsec. (c)(1)(B)(xv). Pub. L. 114–120, §306(a)(9)(A), substituted "18 (popularly" for "18, popularly" and "Act)" for "Act".
+
+Subsec. (c)(2). Pub. L. 114–120, §306(a)(9)(B), substituted "(D) of paragraph" for "(D) paragraph" in introductory provisions.
+
+Subsec. (j). Pub. L. 114–328, §3509(a)(2), amended subsec. (j) generally. Prior to amendment, text read as follows: "Not later than January 1, 2009, the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners' documents on the date of the enactment of the SAFE Port Act."
 
 <b>2010</b>—Subsec. (b)(2)(B). Pub. L. 111–281, §809(1), inserted "allowed unescorted access to a secure area designated in a vessel security plan approved under section 70103 of this title" after "subtitle II of this title".
 
@@ -362,13 +380,137 @@ Subsec. (c)(3) to (5). Pub. L. 109–241 added par. (3) and redesignated former 
 
 Subsecs. (g) to (m). Pub. L. 109–347, §104(a), added subsecs. (g) to (m).
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) of title 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(13) is effective with the enactment of Pub. L. 111–281.
 
+#### Deadline for Memorandum
+
+Pub. L. 114–328, div. C, title XXXV, §3509(b), Dec. 23, 2016, 130 Stat. 2781, provided that: "The Secretary of the department in which the Coast Guard is operating and the Secretary of Defense shall enter into the memorandum of understanding required by the amendment made by subsection (a)(2) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
 #### Deadline for Section 70105 Regulations
 
-Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
+Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, theSecretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
+
+#### Transportation Worker Identification Credential Security Card Program Improvements and Assessment
+
+Pub. L. 114–278, §1, Dec. 16, 2016, 130 Stat. 1410, provided that:
+
+"(a)
+
+Credential Improvements.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Dec. 16, 2016\], the Administrator of the Transportation Security Administration shall commence actions, consistent with section 70105 of title 46, United States Code, to improve the Transportation Security Administration's process for vetting individuals with access to secure areas of vessels and maritime facilities.
+
+&emsp;"(2)
+
+Required actions.—The actions described under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) conducting a comprehensive risk analysis of security threat assessment procedures, including—
+
+&emsp;&emsp;&emsp;"(i) identifying those procedures that need additional internal controls; and
+
+&emsp;&emsp;&emsp;"(ii) identifying best practices for quality assurance at every stage of the security threat assessment;
+
+&emsp;&emsp;"(B) implementing the additional internal controls and best practices identified under subparagraph (A);
+
+&emsp;&emsp;"(C) improving fraud detection techniques, such as—
+
+&emsp;&emsp;&emsp;"(i) by establishing benchmarks and a process for electronic document validation;
+
+&emsp;&emsp;&emsp;"(ii) by requiring annual training for Trusted Agents; and
+
+&emsp;&emsp;&emsp;"(iii) by reviewing any security threat assessment-related information provided by Trusted Agents and incorporating any new threat information into updated guidance under subparagraph (D);
+
+&emsp;&emsp;"(D) updating the guidance provided to Trusted Agents regarding the vetting process and related regulations;
+
+&emsp;&emsp;"(E) finalizing a manual for Trusted Agents and adjudicators on the vetting process; and
+
+&emsp;&emsp;"(F) establishing quality controls to ensure consistent procedures to review adjudication decisions and terrorism vetting decisions.
+
+&emsp;"(3)
+
+Report.—Not later than 2 years after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall submit a report to Congress that evaluates the implementation of the actions described in paragraph (1).
+
+"(b)
+
+Comprehensive Security Assessment of the Transportation Security Card Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Dec. 16, 2016\], the Secretary of Homeland Security shall commission an assessment of the effectiveness of the transportation security card program (referred to in this section as 'Program') required under section 70105 of title 46, United States Code, at enhancing security and reducing security risks for facilities and vessels regulated under chapter 701 of that title.
+
+&emsp;"(2)
+
+Location.—The assessment commissioned under paragraph (1) shall be conducted by a research organization with significant experience in port or maritime security, such as—
+
+&emsp;&emsp;"(A) a national laboratory;
+
+&emsp;&emsp;"(B) a university-based center within the Science and Technology Directorate's centers of excellence network; or
+
+&emsp;&emsp;"(C) a qualified Federally-funded research and development center.
+
+&emsp;"(3)
+
+Contents.—The assessment commissioned under paragraph (1) shall—
+
+&emsp;&emsp;"(A) review the credentialing process by determining—
+
+&emsp;&emsp;&emsp;"(i) the appropriateness of vetting standards;
+
+&emsp;&emsp;&emsp;"(ii) whether the fee structure adequately reflects the current costs of vetting;
+
+&emsp;&emsp;&emsp;"(iii) whether there is unnecessary redundancy or duplication with other Federal- or State-issued transportation security credentials; and
+
+&emsp;&emsp;&emsp;"(iv) the appropriateness of having varied Federal and State threat assessments and access controls;
+
+&emsp;&emsp;"(B) review the process for renewing applications for Transportation Worker Identification Credentials, including the number of days it takes to review application, appeal, and waiver requests for additional information; and
+
+&emsp;&emsp;"(C) review the security value of the Program by—
+
+&emsp;&emsp;&emsp;"(i) evaluating the extent to which the Program, as implemented, addresses known or likely security risks in the maritime and port environments;
+
+&emsp;&emsp;&emsp;"(ii) evaluating the potential for a non-biometric credential alternative;
+
+&emsp;&emsp;&emsp;"(iii) identifying the technology, business process, and operational impacts of the use of the transportation security card and transportation security card readers in the maritime and port environments;
+
+&emsp;&emsp;&emsp;"(iv) assessing the costs and benefits of the Program, as implemented; and
+
+&emsp;&emsp;&emsp;"(v) evaluating the extent to which the Secretary of Homeland Security has addressed the deficiencies in the Program identified by the Government Accountability Office and the Inspector General of the Department of Homeland Security before the date of enactment of this Act.
+
+&emsp;"(4)
+
+Deadlines.—The assessment commissioned under paragraph (1) shall be completed not later than 1 year after the date on which the assessment is commissioned.
+
+&emsp;"(5)
+
+Submission to congress.—Not later than 60 days after the date that the assessment is completed, the Secretary of Homeland Security shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives the results of the assessment commissioned under this subsection.
+
+"(c)
+
+Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b) identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
+
+&emsp;"(1) responds to findings of the assessment;
+
+&emsp;"(2) includes an implementation plan with benchmarks;
+
+&emsp;"(3) may include programmatic reforms, revisions to regulations, or proposals for legislation; and
+
+&emsp;"(4) shall be considered in any rulemaking by the Department of Homeland Security relating to the Program.
+
+"(d)
+
+Inspector General Review.—If a corrective action plan is submitted under subsection (c), the Inspector General of the Department of Homeland Security shall—
+
+&emsp;"(1) not later than 120 days after the date of such submission, review the extent to which such plan implements the requirements under subsection (c); and
+
+&emsp;"(2) not later than 18 months after the date of such submission, and annually thereafter for 3 years, submit a report to the congressional committees set forth in subsection (c) that describes the progress of the implementation of such plan."
 
 #### Transportation Worker Identification Credential Process Reform
 
@@ -425,8 +567,4 @@ Pub. L. 109–347, title I, §106, Oct. 13, 2006, 120 Stat. 1891, provided that:
 &emsp;"(3) sedition, or conspiracy to commit sedition; or
 
 &emsp;"(4) a crime listed in chapter 113B of title 18, United States Code, a comparable State law, or conspiracy to commit such crime."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "of".</i>
 

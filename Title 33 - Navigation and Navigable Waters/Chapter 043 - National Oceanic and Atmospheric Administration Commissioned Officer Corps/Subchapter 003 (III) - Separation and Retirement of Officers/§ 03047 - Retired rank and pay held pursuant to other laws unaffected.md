@@ -1,6 +1,6 @@
 ### §3047. Retired rank and pay held pursuant to other laws unaffected
 
-Nothing in this subchapter shall prevent an officer from being placed on the retired list withthe highest rank and with the highest retired pay to which the officer is entitled under any other provision of law.
+Nothing in this subchapter shall prevent an officer from being placed on the retired list with the highest rank and with the highest retired pay to which the officer is entitled under any other provision of law.
 
 (Pub. L. 107–372, title II, §247, Dec. 19, 2002, 116 Stat. 3090.)
 

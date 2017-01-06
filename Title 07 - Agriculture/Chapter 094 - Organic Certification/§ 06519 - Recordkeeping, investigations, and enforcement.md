@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) making a false statement;
 
-&emsp;&emsp;&emsp;(ii) attempting to have a label indicating that an agricultural product is organically produced affixed to an agricultural product that a person knows, or should have reason to know, to have been produced orhandled in a manner that is not in accordance with this chapter; or
+&emsp;&emsp;&emsp;(ii) attempting to have a label indicating that an agricultural product is organically produced affixed to an agricultural product that a person knows, or should have reason to know, to have been produced or handled in a manner that is not in accordance with this chapter; or
 
 &emsp;&emsp;&emsp;(iii) otherwise violating the purposes of the applicable organic certification program, as determined by the Secretary.
 

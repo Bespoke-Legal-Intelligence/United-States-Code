@@ -7,6 +7,7 @@
 | [6601\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006601%20-%20Congressional%20findings%3B%20priority%20goals.md) | Congressional findings; priority goals. |
 | [6602\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006602%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [6603\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006603%20-%20Sense%20of%20Congress%20on%20innovation%20acceleration%20research.md) | Sense of Congress on innovation acceleration research. |
+| [6604\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006604%20-%20Interagency%20working%20group%20on%20research%20regulation.md) | Interagency working group on research regulation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +29,8 @@
 | [6622\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006622%20-%20Coordination%20of%20advanced%20manufacturing%20research%20and%20development.md) | Coordination of advanced manufacturing research and development. |
 | [6623\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006623%20-%20Interagency%20public%20access%20committee.md) | Interagency public access committee. |
 | [6624\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006624%20-%20Federal%20scientific%20collections.md) | Federal scientific collections. |
+| [6625\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006625%20-%20Coordination%20of%20international%20science%20and%20technology%20partnerships.md) | Coordination of international science and technology partnerships. |
+| [6626\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006626%20-%20Working%20group%20on%20inclusion%20in%20STEM%20fields.md) | Working group on inclusion in STEM fields. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

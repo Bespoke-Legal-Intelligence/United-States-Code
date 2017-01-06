@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is established an office of the Congress to be known as the Congressional Budget Office (hereinafter in this chapter referred to as the "Office"). The Office shall be headed by a Director; and there shall be a Deputy Director who shall perform such duties as may be assigned to him by the Director and, during the absence or incapacity of the Director or during a vacancy in that office, shall act as Director.
+(1) There is established an office of the Congress to be known as the Congressional BudgetOffice (hereinafter in this chapter referred to as the "Office"). The Office shall be headed by a Director; and there shall be a Deputy Director who shall perform such duties as may be assigned to him by the Director and, during the absence or incapacity of the Director or during a vacancy in that office, shall act as Director.
 
 (2) The Director shall be appointed by the Speaker of the House of Representatives and the President pro tempore of the Senate after considering recommendations received from the Committees on the Budget of the House and the Senate, without regard to political affiliation and solely on the basis of his fitness to perform his duties. The Deputy Director shall be appointed by the Director.
 
@@ -32,7 +32,7 @@ The Director is authorized to secure information, data, estimates, and statistic
 
 #### (e) Relationship to other agencies of Congress
 
-In carrying out the duties and functions of the Office, and for the purpose of coordinating theoperations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the Government Accountability Office,<sup>1</sup> and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General,<sup>1</sup> and the Librarian of Congress are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
+In carrying out the duties and functions of the Office, and for the purpose of coordinating the operations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the Government Accountability Office,<sup>1</sup> and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General,<sup>1</sup> and the Librarian of Congress are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
 
 #### (f) Revenue estimates
 

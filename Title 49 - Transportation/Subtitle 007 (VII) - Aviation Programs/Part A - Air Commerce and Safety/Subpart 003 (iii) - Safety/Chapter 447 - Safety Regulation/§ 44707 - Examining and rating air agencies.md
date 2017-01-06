@@ -42,7 +42,7 @@ Pub. L. 106–181, title VII, §734, Apr. 5, 2000, 114 Stat. 170, provided that:
 
 Establishment of Panel.—The Administrator \[of the Federal Aviation Administration\]—
 
-&emsp;"(1) shall establish an aircraft repair and maintenance advisory panel to review issues related to the use and oversight of aircraft and aviation componentrepair and maintenance facilities (in this section referred to as 'aircraft repair facilities') located within, or outside of, the United States; and
+&emsp;"(1) shall establish an aircraft repair and maintenance advisory panel to review issues related to the use and oversight of aircraft and aviation component repair and maintenance facilities (in this section referred to as 'aircraft repair facilities') located within, or outside of, the United States; and
 
 &emsp;"(2) may seek the advice of the panel on any issue related to methods to increase safety by improving the oversight of aircraft repair facilities.
 

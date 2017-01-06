@@ -8,9 +8,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Family Seating
+
+Pub. L. 114–190, title II, §2309, July 15, 2016, 130 Stat. 648, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Secretary of Transportation shall review and, if appropriate, establish a policy directing all air carriers providing scheduled passenger interstate or intrastate air transportation to establish policies that enable a child, who is age 13 or under on the date an applicable flight is scheduled to occur, to be seated in a seat adjacent to the seat of an accompanying family member over the age of 13, to the maximum extent practicable and at no additional cost, except when assignment to an adjacent seat would require an upgrade to another cabin class or a seat with extra legroom or seat pitch for which additional payment is normally required.
+
+"(b)
+
+Effect on Airline Boarding and Seating Policies.—When considering any new policy under this section, the Secretary shall consider the traditional seating and boarding policies of air carriers providing scheduled passenger interstate or intrastate air transportation and whether those policies generally allow families to sit together.
+
+"(c)
+
+Statutory Construction.—Notwithstanding the requirement in subsection (a), nothing in this section may be construed to allow the Secretary to impose a significant change in the overall seating or boarding policy of an air carrier providing scheduled passenger interstate or intrastate air transportation that has an open or flexible seating policy in place that generally allows adjacent family seating as described in subsection (a)."
+
 #### Establishment of Advisory Committee for Aviation Consumer Protection
 
-Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523, provided that:
+Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618, provided that:
 
 "(a)
 
@@ -34,7 +50,7 @@ Vacancies.—A vacancy in the advisory committee shall be filled in the manner i
 
 "(d)
 
-Travel Expenses.—Members of the advisory committee shall serve without pay but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code.
+Travel Expenses.—Members of the advisory committee shall serve without pay but shall receivetravel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
 "(e)
 
@@ -58,7 +74,7 @@ Report to Congress.—Not later than February 1 of each of the first 2 calendar 
 
 "(h)
 
-Termination.—The advisory committee established under this section shall terminate on March 31, 2016."
+Termination.—The advisory committee established under this section shall terminate on September 30, 2017."
 
 #### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft
 

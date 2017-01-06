@@ -6,13 +6,13 @@
 
 #### (1) Court order
 
-&emsp;The victim of an offense of the type referred to in subsection (a) <sup>1</sup> of this section may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendant given to the victim or the defendant must be accompanied by appropriate counseling.
+&emsp;The victim of an offense of the type referred to in subsection (a) <sup>1</sup> may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendant given to the victim or the defendant must be accompanied by appropriate counseling.
 
 #### (2) Showing required
 
 &emsp;To obtain an order under paragraph (1), the victim must demonstrate that—
 
-&emsp;&emsp;(A) the defendant has been charged with the offense in a State or Federal court, and if the defendant has been arrested without a warrant, a probable cause determination has been made;
+&emsp;&emsp;(A) the defendant has been charged with the offense in a State or Federal court, andif the defendant has been arrested without a warrant, a probable cause determination has been made;
 
 &emsp;&emsp;(B) the test for the etiologic agent for acquired immune deficiency syndrome is requested by the victim after appropriate counseling; and
 
@@ -24,7 +24,7 @@
 
 #### (4) Termination of testing requirements
 
-&emsp;An order for follow-up testing under paragraph (3) shall be terminated if the person obtains an acquittal on, or dismissal of, all charges of the type referred to in subsection (a) <sup>1</sup> of this section.
+&emsp;An order for follow-up testing under paragraph (3) shall be terminated if the person obtains an acquittal on, or dismissal of, all charges of the type referred to in subsection (a).<sup>1</sup>
 
 #### (5) Confidentiality of test
 

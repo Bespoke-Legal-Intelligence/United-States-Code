@@ -104,7 +104,7 @@ After January 1, 2008, the head of a Federal agency may not grant or renew a sec
 
 &emsp;&emsp;(A) include procedures and standards under which a covered person is determined to be mentally incompetent and provide a means to appeal such a determination; and
 
-&emsp;&emsp;(B) require that no negative inference concerning the standards in the guidelines may be raised solely on the basis of seeking mental health counseling.
+&emsp;&emsp;(B) require that no negative inference concerning the standards in the guidelines maybe raised solely on the basis of seeking mental health counseling.
 
 (Pub. L. 108–458, title III, §3002, as added Pub. L. 110–181, div. A, title X, §1072(a), Jan. 28, 2008, 122 Stat. 328.)
 

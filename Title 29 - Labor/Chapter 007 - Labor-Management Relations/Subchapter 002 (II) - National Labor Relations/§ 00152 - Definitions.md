@@ -10,7 +10,7 @@ When used in this subchapter—
 
 &emsp;(4) The term "representatives" includes any individual or labor organization.
 
-&emsp;(5) The term "labor organization" means any organization of any kind, or any agency oremployee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+&emsp;(5) The term "labor organization" means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
 &emsp;(6) The term "commerce" means trade, traffic, commerce, transportation, or communication among the several States, or between the District of Columbia or any Territory of the United States and any State or other Territory, or between any foreign country and any State, Territory, or the District of Columbia, or within the District of Columbia or any Territory, or between points in the same State but through any other State or any Territory or the District of Columbia or any foreign country.
 

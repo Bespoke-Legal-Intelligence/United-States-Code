@@ -6,7 +6,7 @@ The Attorney General, in consultation with the Secretary of Education, shall pro
 
 #### (b) Report
 
-Based on the study required by subsection (a) of this section and data collected under the Student Right-To-Know and Campus Security Act (20 U.S.C. 1001 note; Public Law 101–542) and amendments made by that Act, the Attorney General shall prepare a report including an analysis of—
+Based on the study required by subsection (a) and data collected under the Student Right-To-Know and Campus Security Act (20 U.S.C. 1001 note; Public Law 101–542) and amendments made by that Act, the Attorney General shall prepare a report including an analysis of—
 
 &emsp;(1) the number of reported allegations and estimated number of unreported allegations of campus sexual assaults, and to whom the allegations are reported (including authorities of the educational institution, sexual assault victim service entities, and local criminal authorities);
 
@@ -16,7 +16,7 @@ Based on the study required by subsection (a) of this section and data collected
 
 &emsp;(4) Federal and State laws or regulations pertaining specifically to campus sexual assaults;
 
-&emsp;(5) the adequacy of policies and practices of educational institutions in addressing campus sexual assaults and protecting victims, including consideration of—
+&emsp;(5) the adequacy of policies and practices of educational institutions in addressing campussexual assaults and protecting victims, including consideration of—
 
 &emsp;&emsp;(A) the security measures in effect at educational institutions, such as utilization of campus police and security guards, control over access to grounds and buildings, supervision of student activities and student living arrangements, control over the consumption of alcohol by students, lighting, and the availability of escort services;
 
@@ -38,7 +38,7 @@ Based on the study required by subsection (a) of this section and data collected
 
 #### (c) Submission of report
 
-The report required by subsection (b) of this section shall be submitted to the Congress no later than September 1, 1996.
+The report required by subsection (b) shall be submitted to the Congress no later than September 1, 1996.
 
 #### (d) "Campus sexual assaults" defined
 

@@ -2,7 +2,7 @@
 
 #### (a) Agreements in response to countervailable subsidies
 
-Within 90 days after the administering authority accepts a quantitative restriction agreementunder section 1671c(a)(2) or (c)(3) of this title, the President shall enter into consultations with the government that is party to the agreement for purposes of—
+Within 90 days after the administering authority accepts a quantitative restriction agreement under section 1671c(a)(2) or (c)(3) of this title, the President shall enter into consultations with the government that is party to the agreement for purposes of—
 
 &emsp;(1) eliminating the countervailable subsidy completely, or
 
@@ -26,7 +26,7 @@ Subsec. (a)(1), (2). Pub. L. 103–465, §270(a)(1)(I), inserted "countervailabl
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date
 

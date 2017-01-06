@@ -26,7 +26,7 @@
 
 #### (3) Damages
 
-&emsp;The powers, remedies, and procedures provided in section 1981a of this title, including the limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
+&emsp;The powers, remedies, and procedures provided in section 1981a of this title, includingthe limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
 
 #### (c) Employees covered by Congressional Accountability Act of 1995
 

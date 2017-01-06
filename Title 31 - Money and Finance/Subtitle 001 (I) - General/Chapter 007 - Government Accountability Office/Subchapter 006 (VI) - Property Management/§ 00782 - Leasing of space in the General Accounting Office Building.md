@@ -16,7 +16,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 #### Payments of Reimbursements Incident to Operation of General Accounting Office Building
 
-Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2275, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part that "notwithstanding the provisions of section 782 of title 31, United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the Government Accountability Office and remain available until expended, and not morethan $5,915,000 of such funds shall be available for use in fiscal year 1991".
+Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2275, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part that "notwithstanding the provisions of section 782 of title 31, United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the Government Accountability Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991".
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

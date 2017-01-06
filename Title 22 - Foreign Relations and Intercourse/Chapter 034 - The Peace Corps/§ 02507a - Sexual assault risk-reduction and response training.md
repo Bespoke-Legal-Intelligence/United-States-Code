@@ -78,7 +78,7 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (3) Sexual assault
 
-&emsp;The term "sexual assault" means any conduct prescribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
+&emsp;The term "sexual assault" means any conduct prescribed by chapter 109A of title 18,whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
 
 #### (4) Stalking
 

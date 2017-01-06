@@ -60,7 +60,7 @@ For purposes of this chapter—
 
 (h) The term "Fair Packaging and Labeling Act" \[15 U.S.C. 1451 et seq.\] means the Act so entitled, approved November 3, 1966 (80 Stat. 1296), and Acts amendatory thereof or supplementary thereto.
 
-(i) The term "Federal Food, Drug, and Cosmetic Act" \[21 U.S.C. 301 et seq.\] means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
+(i) The term "Federal Food, Drug, and Cosmetic Act" \[21 U.S.C. 301 et seq.\] means the Act so entitled, approved June 25, 1938 (52 Stat. 1040),and Acts amendatory thereof or supplementary thereto.
 
 (j) The term "inspection" means the application of such inspection methods and techniques as are deemed necessary by the responsible Secretary to carry out the provisions of this chapter.
 

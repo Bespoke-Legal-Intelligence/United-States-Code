@@ -30,7 +30,7 @@ General authority.—The Administrator may prescribe regulations to carry out th
 
 &emsp;(2)
 
-Required regulations and orders.—The Administrator shall prescribe regulations that the Administrator considers necessary to carry out the Administrator's functions under this subtitle and the head of each executive agency shall issue orders and directives that the agency head considers necessary to carry out the regulations.
+Required regulations and orders.—The Administrator shall prescribe regulations that the Administrator considers necessary tocarry out the Administrator's functions under this subtitle and the head of each executive agency shall issue orders and directives that the agency head considers necessary to carry out the regulations.
 
 (d)
 
@@ -244,7 +244,7 @@ Administrator of General Services
 
 1–203. In the process of meeting Federal space needs in urban areas and implementing the policies of this Order, the Administrator shall:
 
-(a) Consider the efficient performance of the missions and programs of the agencies, the nature and function of the facilities involved, the convenience of the public served, and the maintenance and improvement of safe and healthful working conditions for employees.
+(a) Consider the efficient performance of the missions and programs of the agencies, the nature and function of the facilities involved, the convenience of the publicserved, and the maintenance and improvement of safe and healthful working conditions for employees.
 
 (b) Coordinate proposed programs and plans for facilities and space with the Director of the Office of Management and Budget.
 
@@ -260,7 +260,7 @@ Administrator of General Services
 
 General Provisions
 
-1–301. The heads of Executive agencies shall cooperate with the Administrator in implementing the policies of this Order and shall economize on their use of space.They shall ensure that the Administrator is given early notice of new or changing missions or organizational realignments which affect space requirements.
+1–301. The heads of Executive agencies shall cooperate with the Administrator in implementing the policies of this Order and shall economize on their use of space. They shall ensure that the Administrator is given early notice of new or changing missions or organizational realignments which affect space requirements.
 
 1–302. Executive agencies which acquire or utilize Federally owned or leased space under authority other than the Federal Property and Administrative Services Act of 1949, as amended \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41\], shall conform to the provisions of this Order to the extent they have the authority to do so.
 
@@ -302,7 +302,7 @@ Sec. 4. (a) When the Secretary determines that a contractor has permanently repl
 
 Sec. 5. The Secretary shall publish or cause to be published, in the Federal Register, the names of contractors that have, in the judgement of the Secretary, permanently replaced lawfully striking employees and have been the subject of debarment.
 
-Sec. 6. The Secretary shall be responsible for the administration and enforcement of this order. The Secretary, after consultation with the Secretary of Defense, the Administrator of the General Services, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the Office of Federal Procurement Policy, may adopt such rules and regulations and issue such orders as may be deemed necessary and appropriate to achieve the purposes of this order.
+Sec. 6. The Secretary shall be responsible for the administration and enforcement of this order. The Secretary, after consultation with the Secretary of Defense, the Administrator of the General Services, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the Office ofFederal Procurement Policy, may adopt such rules and regulations and issue such orders as may be deemed necessary and appropriate to achieve the purposes of this order.
 
 Sec. 7. Each contracting department and agency shall cooperate with the Secretary and provide such information and assistance as the Secretary may require in the performance of the Secretary's functions under this order.
 
@@ -310,7 +310,7 @@ Sec. 8. The Secretary may delegate any function or duty of the Secretary under t
 
 Sec. 9. The Secretary of Defense, the Administrator of the General Services, and the Administrator of the National Aeronautics and Space Administration, after consultation with the Administrator of the Office of Federal Procurement Policy, shall take whatever action is appropriate to implement the provisions of this order and of any related rules, regulations, or orders of the Secretary issued pursuant to this order.
 
-Sec. 10. This order is not intended, and should not be construed, to create any right or benefit, substantiveor procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final agency decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
+Sec. 10. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final agency decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
 
 Sec. 11. The meaning of the term "organizational unit of a Federal contractor" as used in this order shall be defined in regulations that shall be issued by the Secretary of Labor, in consultation with affected agencies. This order shall apply only to contracts in excess of the Simplified Acquisition Threshold.
 
@@ -408,13 +408,13 @@ Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the inter
 
 #### Ex. Ord. No. 13327. Federal Real Property Asset Management
 
-Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord. No. 13423, §11(c), Jan. 24, 2007, 72 F.R. 3923; Ex. Ord. No. 13693, §16(d), Mar. 19, 2015, 80 F.R. 15881, provided:
+Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord. No. 13423, §11(c), Jan. 24, 2007, 72 F.R.3923; Ex. Ord. No. 13693, §16(d), Mar. 19, 2015, 80 F.R. 15881, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and in order to promote the efficient and economical use of Federal real property resources in accordance with their value as national assets and in the best interests of the Nation, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the United States to promote the efficient and economical use of America's real property assets and to assure management accountability for implementing Federal real property management reforms. Based on this policy, executive branch departments and agencies shall recognize the importance of real property resources through increased management attention, the establishment of clear goals and objectives, improved policies and levels of accountability, and other appropriate action.
 
-Sec. 2. <i>Definition and Scope</i>. (a) For the purpose of this executive order, Federal real property is defined as any real property owned, leased, or otherwise managed by the Federal Government, both within and outsidethe United States, and improvements on Federal lands. For the purpose of this order, Federal real property shall exclude: interests in real property assets that have been disposed of for public benefit purposes pursuant to section 484 of title 40, United States Code \[now 40 U.S.C. 541–555\], and are now held in private ownership; land easements or rights-of-way held by the Federal Government; public domain land (including lands withdrawn for military purposes) or land reserved or dedicated for national forest, national park, or national wildlife refuge purposes except for improvements on those lands; land held in trust or restricted fee status for individual Indians or Indian tribes; and land and interests in land that are withheld from the scope of this order by agency heads for reasons of national security, foreign policy, or public safety.
+Sec. 2. <i>Definition and Scope</i>. (a) For the purpose of this executive order, Federal real property is defined as any real property owned, leased, or otherwise managed by the Federal Government, both within and outside the United States, and improvements on Federal lands. For the purpose of this order, Federal real property shall exclude: interests in real property assets that have been disposed of for public benefit purposes pursuant to section 484 of title 40, United States Code \[now 40 U.S.C. 541–555\], and are now held in private ownership; land easements or rights-of-way held by the Federal Government; public domain land (including lands withdrawn for military purposes) or land reserved or dedicated for national forest, national park, or national wildlife refuge purposes except for improvements on those lands; land held in trust or restricted fee status for individual Indians or Indian tribes; and land and interests in land that are withheld from the scope of this order by agency heads for reasons of national security, foreign policy, or public safety.
 
 (b) This order shall not be interpreted to supersede any existing authority under law or by executive order for real property asset management, with the exception of the revocation of Executive Order 12512 of April 29, 1985 \[formerly set out as a note above\], in section 8 of this order.
 

@@ -32,7 +32,7 @@ After consultation with the Secretary of State and the Secretary of the Treasury
 
 The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 93–205, Dec.28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Codification
 
@@ -96,7 +96,7 @@ Certification Procedure.—The ban on importation of shrimp or products from shr
 
 #### Executive Order No. 11911
 
-Ex. Ord. No. 11911, Apr. 13, 1976, 41 F.R. 15683, which provided that for purposes of the Convention on International Trade in Endangered Species of Wild Fauna and Flora the Secretary of the Interior be designated as the Management Authority and established the Endangered Species Scientific Authority as the Scientific Authority, with the Secretary of the Interior designated to act on behalf of the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere, wasrevoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.
+Ex. Ord. No. 11911, Apr. 13, 1976, 41 F.R. 15683, which provided that for purposes of the Convention on International Trade in Endangered Species of Wild Fauna and Flora the Secretary of the Interior be designated as the Management Authority and established the Endangered Species Scientific Authority as the Scientific Authority, with the Secretary of the Interior designated to act on behalf of the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere, was revoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.
 
 #### Delegation of Authority Regarding Certification of Countries Exporting Shrimp to United States
 

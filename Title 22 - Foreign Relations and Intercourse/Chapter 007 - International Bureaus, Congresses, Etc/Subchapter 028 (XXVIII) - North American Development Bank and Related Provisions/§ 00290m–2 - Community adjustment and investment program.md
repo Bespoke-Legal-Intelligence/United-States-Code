@@ -4,7 +4,7 @@
 
 (1) The President may enter into an agreement with the Bank that facilitates implementation by the President of a program for community adjustment and investment in support of the Agreement pursuant to chapter II of the Cooperation Agreement (hereafter in this section referred to as the "community adjustment and investment program").
 
-(2) The President may receive from the Bank 10 percent of the paid-in capital actually paid to the Bank by the United States for the President to carry out, without further appropriations, through Federal agencies and their loan and loan guarantee programs, the community adjustment and investment program, pursuant to an agreement between the President and the Bank.
+(2) The President may receive from the Bank 10 percent of the paid-in capital actually paid to the Bank by the United States for the President to carry out, without further appropriations,through Federal agencies and their loan and loan guarantee programs, the community adjustment and investment program, pursuant to an agreement between the President and the Bank.
 
 (3) The President may select one or more Federal agencies that make loans or guarantee the repayment of loans to assist in carrying out the community adjustment and investment program, and may transfer the funds received from the Bank to such agency or agencies for the purpose of assisting in carrying out the community adjustment and investment program.
 
@@ -48,7 +48,7 @@
 
 &emsp;It shall be the function of the Advisory Committee—
 
-&emsp;&emsp;(A) to provide advice to the President regarding the implementation of the community adjustment and investment program, including advice on the guidelines to be established by the President for the loans and loan guarantees to be made pursuant to subsection (a)(4) of this section, advice on identifying the needs for adjustment assistance and investment in support of the goals and objectives of the Agreement, taking into account economic and geographic considerations, and advice on such other matters as may be requested by the President; and
+&emsp;&emsp;(A) to provide advice to the President regarding the implementation of the community adjustment and investment program, including advice on the guidelines to be established by the President for the loans and loan guarantees to be made pursuant to subsection (a)(4), advice on identifying the needs for adjustment assistance and investment in support of the goals and objectives of the Agreement, taking into account economic and geographic considerations, and advice on such other matters as may be requested by the President; and
 
 &emsp;&emsp;(B) to review on a regular basis the operation of the community adjustment and investment program and provide the President with the conclusions of its review.
 
@@ -84,7 +84,7 @@ The President shall appoint an ombudsman to provide the public with an opportuni
 
 &emsp;&emsp;(A) to establish procedures for receiving comments from the general public on the operation of the community adjustment and investment program, to receive such comments, and to provide the President with summaries of the public comments; and
 
-&emsp;&emsp;(B) to perform an independent inspection and programmatic audit of the operation of the community adjustment and investment program and to provide the President with the conclusions of its investigation and audit.
+&emsp;&emsp;(B) to perform an independent inspection and programmatic audit of the operation ofthe community adjustment and investment program and to provide the President with the conclusions of its investigation and audit.
 
 #### (2) Authorization of appropriations
 

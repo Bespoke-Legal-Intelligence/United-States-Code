@@ -46,7 +46,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (4) A military department or Defense Agency may not be required to conduct a public-private competition under Office of Management and Budget Circular A–76 or any other provision of law at the end of the performance period specified in a letter of obligation or other agreement entered into with Department of Defense civilian employees pursuant to a public-private competition for any function of the Department of Defense performed by Department of Defense civilian employees.
 
-(5)(A) Except as provided in subparagraph (B), the duration of a public-private competition conducted pursuant to Office of Managementand Budget Circular A–76 or any other provision of law for any function of the Department of Defense performed by Department of Defense civilian employees may not exceed a period of 24 months, commencing on the date on which the preliminary planning for the public-private competition begins and ending on the date on which a performance decision is rendered with respect to the function.
+(5)(A) Except as provided in subparagraph (B), the duration of a public-private competition conducted pursuant to Office of Management and Budget Circular A–76 or any other provision of law for any function of the Department of Defense performed by Department of Defense civilian employees may not exceed a period of 24 months, commencing on the date on which the preliminary planning for the public-private competition begins and ending on the date on which a performance decision is rendered with respect to the function.
 
 (B)(i) The Secretary of Defense may specify an alternative period of time for a public-private competition, which may not exceed 33 months, if the Secretary—
 
@@ -66,7 +66,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
 
-(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the final decision and shall be binding on the Department.
+(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the finaldecision and shall be binding on the Department.
 
 (E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort, or formally assigns Department of Defense personnel, to carry out any of the following activities:
 
@@ -122,7 +122,7 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
 
-(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
+(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not includedin the submitted report, the function for which the public-private competition was conducted for which the objection was submitted may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
 (d)
 
@@ -366,7 +366,7 @@ Annual Report.—The Secretary of the Air Force shall provide to the congression
 
 #### Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program
 
-Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, provided that: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
+Pub. L. 109–163, div. A, title III, §341(e), Jan. 6, 2006, 119 Stat. 3199, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(1), Oct. 17, 2006, 120 Stat. 2401, providedthat: "Subsection (a)(1)(F) of section 2461 of title 10, United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1444; 10 U.S.C. 2461 note)."
 
 #### Performance of Certain Work by Federal Government Employees
 
@@ -410,7 +410,7 @@ Termination of Pilot Program.—The pilot program shall terminate on September 3
 
 #### Limitations on Conversion of Work Performed by Department of Defense Civilian Employees to Contractor Performance
 
-Pub. L. 108–375, div. A, title III, §327, Oct. 28, 2004, 118 Stat. 1849, which generally required the Secretary of Defense to maintain the continued performance of certain activities and functions by civilian employees unless the competitive sourcing official determined that the cost of performance of the activity or function by a contractor would be less costly by an amount thatequaled or exceeded the lesser of $10,000,000 or 10 percent of the most efficient organization's personnel-related costs for performance of the activity or function by civilian employees, was repealed by Pub. L. 109–163, div. A, title III, §341(g)(3), Jan. 6, 2006, 119 Stat. 3200.
+Pub. L. 108–375, div. A, title III, §327, Oct. 28, 2004, 118 Stat. 1849, which generally required the Secretary of Defense to maintain the continued performance of certain activities and functions by civilian employees unless the competitive sourcing official determined that the cost of performance of the activity or function by a contractor would be less costly by an amount that equaled or exceeded the lesser of $10,000,000 or 10 percent of the most efficient organization's personnel-related costs for performance of the activity or function by civilian employees, was repealed by Pub. L. 109–163, div. A, title III, §341(g)(3), Jan. 6, 2006, 119 Stat. 3200.
 
 #### Delayed Implementation of Revised Office of Management and Budget Circular A–76 By Department of Defense
 
@@ -484,7 +484,7 @@ Pub. L. 106–65, div. A, title VIII, §814, Oct. 5, 1999, 113 Stat. 711, author
 
 #### Public Availability of Operating Agreements Between Military Installations and Financial Institutions
 
-Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, provided that: "With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt theagreement from the provisions of sections 552 and 552a of title 5, United States Code."
+Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, provided that: "With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt the agreement from the provisions of sections 552 and 552a of title 5, United States Code."
 
 #### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
 
@@ -522,7 +522,7 @@ GAO Report.—Not later than June 1, 1999, the Comptroller General shall submit 
 
 Military Installation Defined.—For purposes of this section, the term 'military installation' means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility."
 
-\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by that section to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if included in the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
+\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by section 1069(b)(1) to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if includedin the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
 
 #### Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report
 
@@ -562,7 +562,7 @@ Pub. L. 104–106, div. A, title III, §353(b), Feb. 10, 1996, 110 Stat. 267, pr
 
 &emsp;"(B) The methodology, duration, and anticipated costs of the program, including the cost of an arrangement pursuant to which a private-sector source would receive an agreed-upon payment plus an additional negotiated amount not to exceed 50 percent of the dollar savings achieved in excess of the goal specified in paragraph (4).
 
-&emsp;"(C) A specific citation to any provisions of law, rule, or regulation that, if not waived, would prohibitthe conduct of the program or any part of the program.
+&emsp;"(C) A specific citation to any provisions of law, rule, or regulation that, if not waived, would prohibit the conduct of the program or any part of the program.
 
 &emsp;"(D) A mechanism to evaluate the program.
 

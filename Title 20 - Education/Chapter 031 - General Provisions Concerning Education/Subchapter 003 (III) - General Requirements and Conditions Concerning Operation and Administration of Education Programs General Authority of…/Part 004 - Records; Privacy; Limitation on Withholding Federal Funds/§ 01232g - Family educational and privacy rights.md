@@ -38,7 +38,7 @@
 
 &emsp;(ii) records maintained by a law enforcement unit of the educational agency or institution that were created by that law enforcement unit for the purpose of law enforcement;
 
-&emsp;(iii) in the case of persons who are employed by an educational agency or institution butwho are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose; or
+&emsp;(iii) in the case of persons who are employed by an educational agency or institution but who are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose; or
 
 &emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
 
@@ -50,13 +50,13 @@
 
 #### (b) Release of education records; parental consent requirement; exceptions; compliance with judicial orders and subpoenas; audit and evaluation of federally-supported education programs; recordkeeping
 
-(1) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a) of this section) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—
+(1) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a)) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—
 
 &emsp;(A) other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have legitimate educational interests, including the educational interests of the child for whom consent would otherwise be required;
 
 &emsp;(B) officials of other schools or school systems in which the student seeks or intends to enroll, upon condition that the student's parents be notified of the transfer, receive a copy of the record if desired, and have an opportunity for a hearing to challenge the content of the record;
 
-&emsp;(C)(i) authorized representatives of (I) the Comptroller General of the United States, (II) the Secretary, or (III) State educational authorities, under the conditions set forth in paragraph (3), or (ii) authorized representatives of the Attorney General for law enforcement purposes under the same conditions as apply to the Secretary under paragraph (3);
+&emsp;(C)(i) authorized representatives of (I) the Comptroller General of the United States, (II) the Secretary, or (III) State educational authorities, under the conditions set forth inparagraph (3), or (ii) authorized representatives of the Attorney General for law enforcement purposes under the same conditions as apply to the Secretary under paragraph (3);
 
 &emsp;(D) in connection with a student's application for, or receipt of, financial aid;
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(ii) any personally identifiable data shall be destroyed when the data are no longer needed for program monitoring, evaluations, and performance measurements; and
 
-&emsp;(L) an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 450b of title 25), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student's education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student's education records.
+&emsp;(L) an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 5304 of title 25), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student's education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student's education records.
 
 > Nothing in subparagraph (E) of this paragraph shall prevent a State from further limiting the number or type of State or local officials who will continue to have access thereunder.
 
@@ -96,7 +96,7 @@
 
 &emsp;(A) there is written consent from the student's parents specifying records to be released, the reasons for such release, and to whom, and with a copy of the records to be released to the student's parents and the student if desired by the parents, or
 
-&emsp;(B) except as provided in paragraph (1)(J), such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition that parents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required.
+&emsp;(B) except as provided in paragraph (1)(J), such information is furnished in compliance with judicial order, or pursuant to any lawfully issued subpoena, upon condition thatparents and the students are notified of all such orders or subpoenas in advance of the compliance therewith by the educational institution or agency, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required.
 
 (3) Nothing contained in this section shall preclude authorized representatives of (A) the Comptroller General of the United States, (B) the Secretary, or (C) State educational authorities from having access to student or other records which may be necessary in connection with the audit and evaluation of Federally-supported education programs, or in connection with the enforcement of the Federal legal requirements which relate to such programs: <i>Provided</i>, That except when collection of personally identifiable information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements.
 
@@ -126,7 +126,7 @@ Not later than 240 days after October 20, 1994, the Secretary shall adopt approp
 
 #### (d) Students' rather than parents' permission or consent
 
-For the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required of and the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
+For the purposes of this section, whenever a student has attained eighteen years of age, or is attending an institution of postsecondary education, the permission or consent required ofand the rights accorded to the parents of the student shall thereafter only be required of and accorded to the student.
 
 #### (e) Informing parents or students of rights under this section
 
@@ -152,7 +152,7 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 #### (1) In general
 
-&emsp;Nothing in this Act or the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use orpossession of alcohol or a controlled substance, regardless of whether that information is contained in the student's education records, if—
+&emsp;Nothing in this Act or the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student's education records, if—
 
 &emsp;&emsp;(A) the student is under the age of 21; and
 
@@ -160,13 +160,13 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 #### (2) State law regarding disclosure
 
-&emsp;Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a) of this section.
+&emsp;Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a).
 
 #### (j) Investigation and prosecution of terrorism
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a) through (i) of this section or any provision of State law, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring an educational agency or institution to permit the Attorney General (or his designee) to—
+&emsp;Notwithstanding subsections (a) through (i) or any provision of State law, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring an educational agency or institution to permit the Attorney General (or his designee) to—
 
 &emsp;&emsp;(A) collect education records in the possession of the educational agency or institution that are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18, or an act of domestic or international terrorism as defined in section 2331 of that title; and
 
@@ -186,9 +186,9 @@ In general.—An application under paragraph (1) shall certify that there are sp
 
 #### (4) Record-keeping
 
-&emsp;Subsection (b)(4) of this section does not apply to education records subject to a court order under this subsection.
+&emsp;Subsection (b)(4) does not apply to education records subject to a court order under this subsection.
 
-(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, §103(d), Dec. 13, 2010, 124 Stat. 3192; Pub. L. 112–278, §2, Jan. 14, 2013, 126 Stat. 2480.)
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, §103(d), Dec. 13, 2010, 124 Stat.3192; Pub. L. 112–278, §2, Jan. 14, 2013, 126 Stat. 2480.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Section 14071 of title 42, referred to in subsec. (b)(7)(A), was repealed by Pub
 
 This Act, referred to in subsec. (i)(1), is Pub. L. 90–247, Jan. 2, 1968, 80 Stat. 783, known as the Elementary and Secondary Education Amendments of 1967. Title IV of the Act, known as the General Education Provisions Act, is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -286,9 +286,9 @@ Subsec. (a)(2). Pub. L. 93–568, §2(a)(4), substituted provisions making the a
 
 Subsec. (a)(3) to (6). Pub. L. 93–568, §2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
 
-Subsec. (b)(1). Pub. L. 93–568, §2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted "educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a) of this section)" for "state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)", in subpar. (A), substituted "educational agency, who have been determined by such agency or institution to have" for "educational agency who have", in subpar. (B), substituted "the student seeks or intends to" for "the student intends to", in subpar. (C), substituted reference to "section 408(c)" for reference to "section 409 of this Act" which for purposes of codification has been translated as "section 1221e–3(c) of this title", and added subpars. (E) to (I).
+Subsec. (b)(1). Pub. L. 93–568, §2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted "educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a))" for "state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)", in subpar. (A), substituted "educational agency, who have been determined by such agency or institution to have" for "educational agency who have", in subpar. (B), substituted "the student seeks or intends to" for "the student intends to", in subpar. (C), substituted reference to "section 408(c)" for reference to "section 409 of this Act" which for purposes of codification has been translated as "section 1221e–3(c) of this title", and added subpars. (E) to (I).
 
-Subsec. (b)(2). Pub. L. 93–568, §2(a)(1)(E), (2)(E), substituted "educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in educationrecords other than directory information, or as is permitted under paragraph (1) of this subsection" for "state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section".
+Subsec. (b)(2). Pub. L. 93–568, §2(a)(1)(E), (2)(E), substituted "educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection" for "state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section".
 
 Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted "information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements" for "data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected".
 

@@ -26,7 +26,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 (2)(A) The Secretary of the Interior, in consultation with the Governor of Alaska, shall conduct a study of the issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
 
-(B) The Secretary shall, no later than January 31, 1991, transmit a report to the Congress on thefindings and conclusions reached as the result of the study carried out under this subsection.
+(B) The Secretary shall, no later than January 31, 1991, transmit a report to the Congress on the findings and conclusions reached as the result of the study carried out under this subsection.
 
 #### (c) Treaty negotiations
 

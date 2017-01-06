@@ -8,7 +8,7 @@
 
 (d) A financial institution or agency that violates any provision of subsection (i) or (j) of section 5318, or any special measures imposed under section 5318A, or any regulation prescribed under subsection (i) or (j) of section 5318 or section 5318A, shall be fined in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–473, title II, §901(b), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(g), Oct. 27, 1986, 100 Stat. 3207–24, 3207–26; Pub. L. 102–550, title XV, §1504(d)(2), Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–325, title IV, §411(c)(1), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 107–56, title III, §§353(b), 363(b), Oct. 26, 2001, 115 Stat. 323, 332.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–473, title II, §901(b), Oct. 12, 1984, 98 Stat.2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(g), Oct. 27, 1986, 100 Stat. 3207–24, 3207–26; Pub. L. 102–550, title XV, §1504(d)(2), Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–325, title IV, §411(c)(1), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 107–56, title III, §§353(b), 363(b), Oct. 26, 2001, 115 Stat. 323, 332.)
 
 Historical and Revision Notes
 

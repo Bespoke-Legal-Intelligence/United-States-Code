@@ -152,7 +152,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (iv) Terms
 
-&emsp;&emsp;&emsp;Each initial appointment to the executive committee shall be for a term of 2 years. After the initial appointments, each appointment to the executive committee shall be for a term of 1 year.
+&emsp;&emsp;&emsp;Each initial appointment to the executive committee shall be for a term of 2years. After the initial appointments, each appointment to the executive committee shall be for a term of 1 year.
 
 #### (B) Authority
 
@@ -296,7 +296,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler\(including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
+&emsp;&emsp;The order shall provide that each qualified handler shall pay to the PromoFlor Council, in the manner provided in the order, an assessment on each sale of cut flowers or cut greens to a retailer or an exempt handler (including each transaction described in subparagraph (C)(ii)), except to the extent that the sale is excluded from assessments under section 6805(a) of this title.
 
 #### (B) Published lists
 
@@ -510,5 +510,5 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

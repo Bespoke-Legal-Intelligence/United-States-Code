@@ -30,7 +30,7 @@
 
 (2) An application shall not be considered to be complete unless it includes such information and supporting evidence as the regulations require, including certification by an appropriate medical authority as to the nature of the individual's illness and that the individual is not expected to live more than 9 months because of that illness.
 
-(3)(A) In order to ascertain the reliability of any medical opinion or finding submitted as part of an application under this section, the covered individual may be required to submit to a medical examination under the direction of the agency or entity considering the application. The individual shall not be liable for the costs associated with any examination required under this subparagraph.
+(3)(A) In order to ascertain the reliability of any medical opinion or finding submitted aspart of an application under this section, the covered individual may be required to submit to a medical examination under the direction of the agency or entity considering the application. The individual shall not be liable for the costs associated with any examination required under this subparagraph.
 
 (B) Any decision by the reviewing agency or entity with respect to an application for benefits under this section (including one relating to an individual's medical prognosis) shall not be subject to administrative review.
 

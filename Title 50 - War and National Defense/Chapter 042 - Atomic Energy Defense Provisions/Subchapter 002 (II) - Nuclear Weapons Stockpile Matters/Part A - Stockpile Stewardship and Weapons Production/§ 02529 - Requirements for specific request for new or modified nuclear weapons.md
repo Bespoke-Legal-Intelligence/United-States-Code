@@ -6,7 +6,7 @@
 
 (2) The activities described in this paragraph are as follows:
 
-&emsp;(A) The conduct, or provision for conduct, of research and development which could lead to the production of a new nuclear weapon by the United States.
+&emsp;(A) The conduct, or provision for conduct, of research and development which could lead tothe production of a new nuclear weapon by the United States.
 
 &emsp;(B) The conduct, or provision for conduct, of engineering or manufacturing to carry out the production of a new nuclear weapon by the United States.
 
@@ -18,7 +18,7 @@
 
 The Secretary shall include in a request for funds under subsection (a) the following:
 
-&emsp;(1) In the case of funds for activities described in subparagraph (A) or (C) of subsection (a)(2), a single dedicated line item for all such activities for new nuclear weapons ormodified nuclear weapons that are in phase 1, 2, or 2A or phase 6.1, 6.2, or 6.2A (as the case may be), or any concept work prior to phase 1 or 6.1 (as the case may be), of the nuclear weapons acquisition process.
+&emsp;(1) In the case of funds for activities described in subparagraph (A) or (C) of subsection (a)(2), a single dedicated line item for all such activities for new nuclear weapons or modified nuclear weapons that are in phase 1, 2, or 2A or phase 6.1, 6.2, or 6.2A (as the case may be), or any concept work prior to phase 1 or 6.1 (as the case may be), of the nuclear weapons acquisition process.
 
 &emsp;(2) In the case of funds for activities described in subparagraph (B) or (D) of subsection (a)(2), a dedicated line item for each such activity for a new nuclear weapon or modified nuclear weapon that is in phase 3 or higher or phase 6.3 or higher (as the case may be) of the nuclear weapons acquisition process.
 

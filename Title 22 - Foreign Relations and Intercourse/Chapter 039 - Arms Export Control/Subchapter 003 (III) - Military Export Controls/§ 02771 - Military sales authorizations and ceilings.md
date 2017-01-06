@@ -2,7 +2,7 @@
 
 #### (a) Authorization for foreign military sales credit and guarantee program
 
-There are authorized to be appropriated to the President to carry out this chapter $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987. Credits may not be extended under section 2763 of this title in an amount, and loans may not be guaranteed under section 2764(a) of this title in a principal amount, which exceeds any maximum amount which may be established with respect to such credits or such loan guarantees in legislation appropriating funds to carry out this chapter. Unobligated balances of funds made available pursuant to this section are hereby authorized to be continued available byappropriations legislation to carry out this chapter.
+There are authorized to be appropriated to the President to carry out this chapter $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987. Credits may not be extended under section 2763 of this title in an amount, and loans may not be guaranteed under section 2764(a) of this title in a principal amount, which exceeds any maximum amount which may be established with respect to such credits or such loan guarantees in legislation appropriating funds to carry out this chapter. Unobligated balances of funds made available pursuant to this section are hereby authorized to be continued available by appropriations legislation to carry out this chapter.
 
 #### (b) Aggregate ceilings on credit sales; availability at concessional rates of interest
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 97–113, §105(b), prescribed in par. (1) $800,000,000 lim
 
 Subsec. (c). Pub. L. 97–113, §105(c)(1)–(3), substituted "fiscal year 1982 and for the fiscal year 1983" for "fiscal year 1981", "$550,000,000" for "$500,000,000", and "each such year" for "such year".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–533, §§104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted"$500,000,000 for the fiscal year 1981" for "$673,500,000 for the fiscal year 1980".
+<b>1980</b>—Subsec. (a). Pub. L. 96–533, §§104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted "$500,000,000 for the fiscal year 1981" for "$673,500,000 for the fiscal year 1980".
 
 Subsec. (b). Pub. L. 96–533, §106(b), in revising subsec. (b), substituted par. (1) and (2) limits on amount of credits or participations in credits and loan guaranties for fiscal year 1981 in amounts of $500,000,000 and $2,616,000,000 for prior combined sum limited to $2,235,000,000 for fiscal year 1980 and substituted par. (3) earmarking minimum of $1,400,000,000 only for Israel for fiscal year 1981, including availability of $200,000,000 for costs associated with relocation of Israeli forces from the Sinai for prior prescription of minimum sum of $1,000,000,000 as available only for Israel.
 

@@ -80,7 +80,7 @@ The Secretary through the Commissioner of Food and Drugs may, without regard to 
 
 The Secretary shall annually prepare and publish in the Federal Register and solicit public comment on a report that—
 
-&emsp;(1) provides detailed statistical information on the performance of the Secretary under the plan described in subsection (f) of this section;
+&emsp;(1) provides detailed statistical information on the performance of the Secretary under the plan described in subsection (f);
 
 &emsp;(2) compares such performance of the Secretary with the objectives of the plan and with the statutory obligations of the Secretary; and
 
@@ -158,7 +158,7 @@ Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided t
 
 #### Regulations for Sunscreen Products
 
-Pub. L. 105–115, title I, §129, Nov. 21, 1997, 111 Stat. 2331, provided that: "Not later than 18 months after thedate of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn."
+Pub. L. 105–115, title I, §129, Nov. 21, 1997, 111 Stat. 2331, provided that: "Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn."
 
 #### Construction of 2011 Amendment
 
@@ -174,7 +174,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Ju
 
 "(b)
 
-Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—
+Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User FeeAgreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—
 
 &emsp;"(1) identify a clear vision of the fundamental role of efficient, consistent, and predictable, science-based decisions throughout regulatory decisionmaking of the Food and Drug Administration with respect to medical products;
 
@@ -250,7 +250,7 @@ List and Analysis.—The Secretary of Health and Human Services shall, acting th
 
 &emsp;"(2) provide a quantitative and qualitative analysis of the mercury compounds in the list under paragraph (1).
 
-> The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Act of 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
+> The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Actof 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
 
 "(b)
 

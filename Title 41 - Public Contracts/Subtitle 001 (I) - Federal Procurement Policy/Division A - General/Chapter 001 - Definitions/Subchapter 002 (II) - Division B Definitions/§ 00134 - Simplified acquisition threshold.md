@@ -4,6 +4,10 @@ In division B, the term "simplified acquisition threshold" means $100,000.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3682.)
 
+#### Adjustment of Simplified Acquisition Threshold
+
+<i>For adjustment of dollar threshold pursuant to section 1908 of this title, see definition of simplified acquisition threshold in Federal Acquisition Regulation 2.101.</i>
+
 Historical and Revision Notes
 
 <i>Revised</i>

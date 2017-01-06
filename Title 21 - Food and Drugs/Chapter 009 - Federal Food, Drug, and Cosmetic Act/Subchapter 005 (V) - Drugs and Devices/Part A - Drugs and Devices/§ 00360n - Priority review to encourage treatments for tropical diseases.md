@@ -48,9 +48,11 @@ In this section:
 
 &emsp;&emsp;(P) Yaws.
 
-&emsp;&emsp;(Q) Filoviruses.
+&emsp;&emsp;(Q) Filovirus Diseases.
 
-&emsp;&emsp;(R) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
+&emsp;&emsp;(R) Zika Virus Disease.
+
+&emsp;&emsp;(S) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
 
 #### (4) Tropical disease product application
 
@@ -80,7 +82,7 @@ In this section:
 
 #### (A) No award for prior approved application
 
-&emsp;&emsp;A sponsor of a tropical disease product may not receive a priority review voucher under this section if the tropical disease product application was submitted to the Secretary prior to September 27, 2007.
+&emsp;&emsp;A sponsor of a tropical disease product may not receive a priority review voucherunder this section if the tropical disease product application was submitted to the Secretary prior to September 27, 2007.
 
 #### (B) One-year waiting period
 
@@ -126,13 +128,19 @@ In this section:
 
 &emsp;&emsp;(B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127.)
+(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, §3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154.)
 
 #### References in Text
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3)(Q). Pub. L. 114–146, §2(2), substituted "Filovirus Diseases" for "Filoviruses".
+
+Subsec. (a)(3)(R), (S). Pub. L. 114–146, §2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S).
+
+Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in original act which appears in text as reference to section 262 of title 42.
 
 <b>2014</b>—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, §2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted "order of" for "regulation by".
 

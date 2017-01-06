@@ -6,7 +6,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-&emsp;(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
+&emsp;(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
 &emsp;&emsp;(A) Such other classes of health care occupations—
 
@@ -22,13 +22,15 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;&emsp;(C) Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4104 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+<b>2016</b>—Par. (3). Pub. L. 114–256 inserted "licensed hearing aid specialists," after "Audiologists," in introductory provisions.
 
 <b>2015</b>—Par. (3)(A)(ii). Pub. L. 114–58 struck out "that" before "would otherwise receive".
 
@@ -52,7 +54,25 @@ Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out forme
 
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
+#### Licensed Hearing Aid Specialists Appointment and Services
+
+Pub. L. 114–256, §4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided that:
+
+"(b)
+
+Requirements.—With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary \[of Veterans Affairs\] shall ensure that—
+
+&emsp;"(1) a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist's State license related to the practice of fitting and dispensing hearing aids without excluding other qualified professionals, including audiologists, from rendering services in overlapping practice areas;
+
+&emsp;"(2) services provided to veterans by hearing aid specialists shall be provided as part of the non-medical treatment plan developed by an audiologist; and
+
+&emsp;"(3) the medical facilities of the Department of Veterans Affairs provide to veterans access to the full range of professional services provided by an audiologist.
+
+"(c)
+
+Consultation.—In determining the qualifications required for hearing aid specialists and in carrying out subsection (b), the Secretary shall consult with veterans service organizations, audiologists, otolaryngologists, hearing aid specialists, and other stakeholder and industry groups as the Secretary determines appropriate."
+
 #### Prior Appointments of Certain Personnel
 
-Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: "Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, byreason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3)."
+Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: "Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3)."
 

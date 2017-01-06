@@ -4,9 +4,9 @@
 
 #### (1) In general
 
-&emsp;A funding agreement for a grant under section 300x–21 of this title is that the State involved will require that any entity receiving amounts from the grant for operating a program of treatment for substance abuse—
+&emsp;A funding agreement for a grant under section 300x–21 of this title is that the State involved will require that any entity receiving amounts from the grant for operating a program of treatment for substance use disorders—
 
-&emsp;&emsp;(A) will, directly or through arrangements with other public or nonprofit private entities, routinely make available tuberculosis services to each individual receiving treatment for such abuse; and
+&emsp;&emsp;(A) will, directly or through arrangements with other public or nonprofit private entities, routinely make available tuberculosis services to each individual receiving treatment for such disorders; and
 
 &emsp;&emsp;(B) in the case of an individual in need of such treatment who is denied admission to the program on the basis of the lack of the capacity of the program to admit the individual, will refer the individual to another provider of tuberculosis services.
 
@@ -26,7 +26,7 @@
 
 &emsp;In the case of a State described in paragraph (2), a funding agreement for a grant under section 300x–21 of this title is that—
 
-&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
+&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance use disorders, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
 
 &emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects, the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
 
@@ -34,17 +34,17 @@
 
 #### (2) Designated States
 
-&emsp;For purposes of this subsection, a State described in this paragraph is any State whose rate of cases of acquired immune deficiency syndrome is 10 or more such cases per 100,000 individuals (as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control for the most recent calendar year for which such data are available).
+&emsp;For purposes of this subsection, a State described in this paragraph is any State whose rate of cases of acquired immune deficiency syndrome is 10 or more such cases per 100,000 individuals (as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control and Prevention for the most recent calendar year for which such data are available).
 
-#### (3) Use of existing programs regarding substance abuse
+#### (3) Use of existing programs regarding substance use disorders
 
-&emsp;With respect to programs that provide treatment services for substance abuse, a funding agreement for a grant under section 300x–21 of this title for a designated State is that each such program participating in a project under paragraph (1) will be a program that began operation prior to the fiscal year for which the State is applying to receive the grant. A program that so began operation may participate in a project under paragraph (1) without regard to whether the program has been providing early intervention services for HIV disease.
+&emsp;With respect to programs that provide treatment services for substance use disorders, a funding agreement for a grant under section 300x–21 of this title for a designated State is that each such program participating in a project under paragraph (1) will be a program that began operation prior to the fiscal year for which the State is applying to receive the grant. A program that so began operation may participate in a project under paragraph (1) without regard to whether the program has been providing early intervention services for HIV disease.
 
 #### (4) Applicable percentage regarding expenditures for services
 
 &emsp;(A)(i) For purposes of paragraph (1)(B), the percentage that is applicable under this paragraph for a designated State is, subject to subparagraph (B), the percentage by which the amount of the grant under section 300x–21 of this title for the State for the fiscal year involved is an increase over the amount specified in clause (ii).
 
-&emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this titlefor fiscal year 1991 in compliance with section 300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
+&emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this title for fiscal year 1991 in compliance with section 300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
 
 &emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including a negative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(A) such services will be undertaken voluntarily by, and with the informed consent of, the individual; and
 
-&emsp;&emsp;(B) undergoing such services will not be required as a condition of receiving treatment services for substance abuse or any other services.
+&emsp;&emsp;(B) undergoing such services will not be required as a condition of receiving treatment services for substance use disorders or any other services.
 
 #### (7) Definitions
 
@@ -98,15 +98,11 @@
 
 &emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
 
-#### (d) Maintenance of effort
-
-With respect to services provided for by a State for purposes of compliance with this section, a funding agreement for a grant under section 300x–21 of this title is that the State will maintain expenditures of non-Federal amounts for such services at a level that is not less than average level of such expenditures maintained by the State for 2-year period preceding the first fiscal year for which the State receives such a grant.
-
-#### (e) Applicability of certain provision
+#### (d) Applicability of certain provision
 
 Section 300x–31 of this title applies to this section (and to each other provision of this subpart).
 
-(July 1, 1944, ch. 373, title XIX, §1924, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 391.)
+(July 1, 1944, ch. 373, title XIX, §1924, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 391; amended Pub. L. 114–255, div. B, title VIII, §8002(c), Dec. 13, 2016, 130 Stat. 1229.)
 
 #### References in Text
 
@@ -125,6 +121,22 @@ Another prior section 1924 of act July 1, 1944, was classified to section 300y�
 #### Change of Name
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §8002(c)(1)(A), substituted "substance use disorders" for "substance abuse" in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 114–255, §8002(c)(1)(B), substituted "such disorders" for "such abuse".
+
+Subsec. (b)(1)(A). Pub. L. 114–255, §8002(c)(2)(A), substituted "substance use disorders" for "substance abuse".
+
+Subsec. (b)(2). Pub. L. 114–255, §8002(c)(2)(B), inserted "and Prevention" after "Disease Control".
+
+Subsec. (b)(3). Pub. L. 114–255, §8002(c)(2)(C), substituted "use disorders" for "abuse" in heading and "substance use disorders" for "substance abuse" in text.
+
+Subsec. (b)(6)(B). Pub. L. 114–255, §8002(c)(2)(D), substituted "substance use disorders" for "substance abuse".
+
+Subsecs. (d), (e). Pub. L. 114–255, §8002(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "With respect to services provided for by a State for purposes of compliance with this section, a funding agreement for a grant under section 300x–21 of this title is that the State will maintain expenditures of non-Federal amounts for such services at a level that is not less than average level of such expenditures maintained by the State for 2-year period preceding the first fiscal year for which the State receives such a grant."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

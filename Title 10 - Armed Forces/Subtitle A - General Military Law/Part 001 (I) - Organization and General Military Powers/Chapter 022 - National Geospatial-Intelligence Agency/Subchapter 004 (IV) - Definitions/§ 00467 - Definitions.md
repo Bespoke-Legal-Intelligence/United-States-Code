@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;(ii) likenesses or presentations produced by satellites, airborne platforms, unmanned aerial vehicles, or other similar means.
 
-&emsp;(B) Such term does not include handheld or clandestine photography taken by or on behalf of human intelligence collection organizations.
+&emsp;(B) Such term does not include handheld or clandestine photography taken by or on behalfof human intelligence collection organizations.
 
 &emsp;(3) The term "imagery intelligence" means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.
 

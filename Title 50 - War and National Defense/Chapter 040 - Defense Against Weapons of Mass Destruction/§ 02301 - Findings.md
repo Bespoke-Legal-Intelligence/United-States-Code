@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
 
-&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption inthe states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
+&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
 &emsp;(5) The conditions described in paragraph (4) have substantially increased the ability of potentially hostile nations, terrorist groups, and individuals to acquire weapons of mass destruction and related materials and technologies from within the states of the former Soviet Union and from unemployed scientists who worked on those programs.
 
@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(9) Foreign states can transfer weapons to or otherwise aid extremist and terrorist movements indirectly and with plausible deniability.
 
-&emsp;(10) Terrorist groups have already conducted chemical attacks against civilian targets in the United States and Japan, and a radiological attack in Russia.
+&emsp;(10) Terrorist groups have already conducted chemical attacks against civilian targets inthe United States and Japan, and a radiological attack in Russia.
 
 &emsp;(11) The potential for the national security of the United States to be threatened by nuclear, radiological, chemical, or biological terrorism must be taken seriously.
 
@@ -64,7 +64,7 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Pub. L. 104–201, div. A, title XIV, §1401, Sept. 23, 1996, 110 Stat. 2715, provided that: "This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Defense Against Weapons of Mass Destruction Act of 1996'."
 
-Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: "This subtitle \[subtitle C\(§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the 'Nonproliferation Assistance Coordination Act of 2002'."
+Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: "This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the 'Nonproliferation Assistance Coordination Act of 2002'."
 
 #### Utilization of Contributions to International Nuclear Materials Protection and Cooperation Program and Russian Plutonium Disposition Program
 
@@ -82,7 +82,7 @@ Retention and Use of Amounts.—Notwithstanding section 3302 of title 31, United
 
 Return of Amounts Not Used Within 5
 
-Years.—If an amount contributed under an agreement under subsection (a) is not used under this section within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
+Years.—If an amount contributed under an agreement undersubsection (a) is not used under this section within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
 
 "(d)
 
@@ -256,7 +256,7 @@ Miscellaneous Administrative and Support Services.—The Secretary of Defense sh
 
 "The Commission shall terminate 30 days after the date of the submission of its report under section 1403(a), as amended by the National Defense Authorization Act for Fiscal Year 2016 \[Pub. L. 114–92\]."
 
-\[Amendments by Pub. L. 114–92, div. A, title X, §1089(f), (g), Nov. 25, 2015, 129 Stat. 1016, to title XIV of Pub. L. 106–398, set out above, were executed to reflect the probable intent of Congress. Section 1089(f), which directed substitution of "June 30, 2017" for "September 30, 2007" in section 1403, was executed by making the substitution for "November 30, 2008" following the amendment by Pub. L. 110–181, §1075(a). Section 1089(g),which directed insertion of ", as amended by the National Defense Authorization Act for Fiscal Year 2016" before period at end of section "1049" of Pub. L. 106–398, was executed by making the insertion in section 1409.\]
+\[Amendments by Pub. L. 114–92, div. A, title X, §1089(f), (g), Nov. 25, 2015, 129 Stat. 1016, to title XIV of Pub. L. 106–398, set out above, were executed to reflect the probable intent of Congress. Section 1089(f), which directed substitution of "June 30, 2017" for "September 30, 2007" in section 1403, was executed by making the substitution for "November 30, 2008" following the amendment by Pub. L. 110–181, §1075(a). Section 1089(g), which directed insertion of ", as amended by the National Defense Authorization Act for Fiscal Year 2016" before period at end of section "1049" of Pub. L. 106–398, was executed by making the insertion in section 1409.\]
 
 \[Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(8) to section 1075(a) of Pub. L. 110–181, amending Pub. L. 106–398, §1403(a), set out above, is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.\]
 
@@ -274,7 +274,7 @@ Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended 
 
 "(a)
 
-Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
+Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons ofmass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
 
 "(b)
 
@@ -350,7 +350,7 @@ Reports.—(1) Not later than 6 months after the date of the first meeting of th
 
 Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Justice, and the Federal Emergency Management Agency, or any other Federal department or agency information that the panel considers necessary for the panel to carry out its duties.
 
-"(2) The Attorney General, the Secretary of Defense, the Secretary of Energy, the Secretary of Health andHuman Services, the Director of the Federal Emergency Management Agency, and any other official of the United States shall provide the panel with full and timely cooperation in carrying out its duties under this section.
+"(2) The Attorney General, the Secretary of Defense, the Secretary of Energy, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and any other official of the United States shall provide the panel with full and timely cooperation in carrying out its duties under this section.
 
 "(j)
 

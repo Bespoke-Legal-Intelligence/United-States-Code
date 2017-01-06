@@ -6,7 +6,7 @@ Except as otherwise provided in this subchapter, the President shall continue to
 
 #### References in Text
 
-The Tariff Schedules of the United States, referred to in text, to be treated as a reference to the HarmonizedTariff Schedule pursuant to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Tariff Schedules of the United States, referred to in text, to be treated as a reference to the Harmonized Tariff Schedule pursuant to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Report on Effect of Subchapter; Recommendations
 

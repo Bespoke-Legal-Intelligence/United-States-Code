@@ -13,6 +13,23 @@
 | [813\.](%C2%A7%2000813%20-%20Art.%2013.%20Punishment%20prohibited%20before%20trial.md) | 13\. | Punishment prohibited before trial. |
 | [814\.](%C2%A7%2000814%20-%20Art.%2014.%20Delivery%20of%20offenders%20to%20civil%20authorities.md) | 14\. | Delivery of offenders to civil authorities. |
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–328, div. E, title LXIII, §§5541(1), 5542, Dec. 23, 2016, 130 Stat. 2965, 2967, provided that, effective on the date designated by the President, not later than the first day of the</i><i>first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 810 and 812 and inserting the following new items:</i>
+
+&nbsp;
+
+| Sec. | Art. | &nbsp; |
+| :--- | :---: | ---: |
+| [810\.](%C2%A7%2000810%20-%20Art.%2010.%20Restraint%20of%20persons%20charged%20with%20offenses.md) | 10\. | Restraint of persons charged. |
+| [812\.](%C2%A7%2000812%20-%20Art.%2012.%20Confinement%20with%20enemy%20prisoners%20prohibited.md) | 12\. | Prohibition of confinement of members of the armed forces with enemy prisoners and certain others. |
+
+<i>See 2016 Amendment note below.</i>
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(1), Dec. 23, 2016, 130 Stat. 2965, substituted "Restraint of persons charged" for "Restraint of persons charged with offenses" in item 810 and "Prohibition of confinement of members of the armed forces with enemy prisoners and certain others" for "Confinement with enemy prisoners prohibited" in item 812.
+
 
 ---
 

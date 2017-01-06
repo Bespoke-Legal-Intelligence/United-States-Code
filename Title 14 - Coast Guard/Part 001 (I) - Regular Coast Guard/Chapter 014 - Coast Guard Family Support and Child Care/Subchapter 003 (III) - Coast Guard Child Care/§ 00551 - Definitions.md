@@ -20,7 +20,7 @@ Competitive service position.—The term "competitive service position" means a 
 
 &emsp;(5)
 
-Family home daycare.—The term "family home daycare" means home-based child care services provided for a member of the Coast Guard by an individual who—
+Family home daycare.—The term "family home daycare" means home-based childcare services provided for a member of the Coast Guard by an individual who—
 
 &emsp;&emsp;(A) is certified by the Commandant as qualified to provide home-based child care services; and
 

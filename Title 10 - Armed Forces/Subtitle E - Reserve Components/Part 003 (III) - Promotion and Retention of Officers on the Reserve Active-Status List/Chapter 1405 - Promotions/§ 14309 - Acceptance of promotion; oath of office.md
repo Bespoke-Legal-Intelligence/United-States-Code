@@ -6,11 +6,15 @@ Acceptance.—An officer who is appointed to a higher grade under this chapter s
 
 (b)
 
-Oath.—An officer who has served continuously since taking the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this chapter.
+Oath.—An officer who has served continuously since taking the oath of office prescribed in section 3331 of title 5 is not required to takea new oath upon appointment to a higher grade under this chapter.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

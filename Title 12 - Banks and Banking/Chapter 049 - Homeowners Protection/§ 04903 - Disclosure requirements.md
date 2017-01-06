@@ -4,7 +4,7 @@
 
 #### (1) Disclosures for non-exempted transactions
 
-&emsp;In any case in which private mortgage insurance is required in connection with a residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title), at the time atwhich the transaction is consummated, the mortgagee shall provide to the mortgagor—
+&emsp;In any case in which private mortgage insurance is required in connection with a residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title), at the time at which the transaction is consummated, the mortgagee shall provide to the mortgagor—
 
 &emsp;&emsp;(A) if the transaction relates to a fixed rate mortgage—
 
@@ -70,7 +70,7 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), i
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–569, §§402(c)(2)(A)(i), 403(b)(1)(A), substituted "residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title)" for "residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)" in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–569, §§402(c)(2)(A)(i), 403(b)(1)(A), substituted "residential mortgage transaction (other than a residential mortgage transactiondescribed in section 4902(g)(1) of this title)" for "residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)" in introductory provisions.
 
 Subsec. (a)(1)(A)(ii)(IV), (B)(iii). Pub. L. 106–569, §402(c)(2)(A)(ii), (iii), substituted "section 4902(g) of this title" for "section 4902(f) of this title".
 
@@ -79,4 +79,8 @@ Subsec. (a)(2). Pub. L. 106–569, §§402(c)(2)(B), 403(b)(1)(B), substituted "
 Subsec. (c). Pub. L. 106–569, §403(b)(2), substituted "subsection (a)(3)" for "paragraphs (1)(B) and (3) of subsection (a)".
 
 Subsec. (d). Pub. L. 106–569, §403(b)(3), inserted before period at end ", which disclosures shall relate to the mortgagor's rights under this chapter".
+
+#### Effective Date
+
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 

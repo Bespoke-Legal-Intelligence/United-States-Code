@@ -8,7 +8,7 @@ An individual may enroll in the insurance program established by this part only 
 
 #### (c) Initial general enrollment period; eligible individuals before March 1, 1966
 
-In the case of individuals who first satisfy paragraph (1) or (2) of section 1395o of this title before March 1, 1966, the initial general enrollment period shall begin on the first day of the second month which begins after July 30, 1965, and shall end on May 31, 1966. For purposes of this subsection and subsection (d) of this section, an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section shall be treated as satisfying such paragraph (1) on the first day on which he is (or on filing application would have been) entitled to hospital insurance benefits under part A.
+In the case of individuals who first satisfy paragraph (1) or (2) of section 1395o of this title before March 1, 1966, the initial general enrollment period shall begin on the first day of the second month which begins after July 30, 1965, and shall end on May 31, 1966. For purposes of this subsection and subsection (d), an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section shall be treated as satisfying such paragraph (1) on the first day on which he is (or on filing application would have been) entitled to hospital insurance benefits under part A.
 
 #### (d) Eligible individuals on or after March 1, 1966
 
@@ -24,7 +24,7 @@ Any individual—
 
 &emsp;(1) who is eligible under section 1395o of this title to enroll in the medical insurance program by reason of entitlement to hospital insurance benefits as described in paragraph (1) of such section, and
 
-&emsp;(2) whose initial enrollment period under subsection (d) of this section begins after March 31, 1973, and
+&emsp;(2) whose initial enrollment period under subsection (d) begins after March 31, 1973, and
 
 &emsp;(3) who is residing in the United States, exclusive of Puerto Rico,
 
@@ -32,15 +32,15 @@ Any individual—
 
 #### (g) Commencement of enrollment period
 
-All of the provisions of this section shall apply to individuals satisfying subsection (f) of this section, except that—
+All of the provisions of this section shall apply to individuals satisfying subsection (f), except that—
 
-&emsp;(1) in the case of an individual who satisfies subsection (f) of this section by reason of entitlement to disability insurance benefits described in section 426(b) of this title, his initial enrollment period shall begin on the first day of the later of (A) April 1973 or (B) the third month before the 25th month of such entitlement, and shall reoccur with each continuous period of eligibility (as defined in section 1395r(d) of this title) and upon attainment of age 65;
+&emsp;(1) in the case of an individual who satisfies subsection (f) by reason of entitlement to disability insurance benefits described in section 426(b) of this title, his initial enrollment period shall begin on the first day of the later of (A) April 1973 or (B) the third month before the25th month of such entitlement, and shall reoccur with each continuous period of eligibility (as defined in section 1395r(d) of this title) and upon attainment of age 65;
 
 &emsp;(2)(A) in the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title on the first day of his initial enrollment period or becomes entitled to monthly benefits under section 402 of this title during the first 3 months of such period, his enrollment shall be deemed to have occurred in the third month of his initial enrollment period, and
 
 &emsp;(B) in the case of an individual who is not entitled to benefits under section 402 of this title on the first day of his initial enrollment period and does not become so entitled during the first 3 months of such period, his enrollment shall be deemed to have occurred in the month in which he files the application establishing his entitlement to hospital insurance benefits provided such filing occurs during the last 4 months of his initial enrollment period; and
 
-&emsp;(3) in the case of an individual who would otherwise satisfy subsection (f) of this section but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d) of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
+&emsp;(3) in the case of an individual who would otherwise satisfy subsection (f) but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d) of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
 
 #### (h) Waiver of enrollment period requirements where individual's rights were prejudiced by administrative error or inaction
 
@@ -68,7 +68,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 (3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
-(B) The special enrollment period referred to in the second sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual) ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
+(B) The special enrollment period referred to in the second sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual) ending withthe last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
 (4)(A) In the case of an individual who is entitled to benefits under part A pursuant to section 426(b) of this title and—
 
@@ -88,9 +88,9 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 In applying this section in the case of an individual who is entitled to benefits under part A pursuant to the operation of section 426(h) of this title, the following special rules apply:
 
-&emsp;(1) The initial enrollment period under subsection (d) of this section shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395o(1) of this title.
+&emsp;(1) The initial enrollment period under subsection (d) shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395o(1) of this title.
 
-&emsp;(2) In applying subsection (g)(1) of this section, the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
+&emsp;(2) In applying subsection (g)(1), the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
 
 #### (k) Special enrollment period for certain volunteers serving outside United States
 
@@ -128,7 +128,7 @@ In applying this section in the case of an individual who is entitled to benefit
 
 (6) The Secretary of Defense shall collaborate with the Secretary of Health and Human Services and the Commissioner of Social Security to provide for the accurate identification of individuals described in paragraph (1). The Secretary of Defense shall provide such individuals with notification with respect to this subsection. The Secretary of Defense shall collaborate with the Secretary of Health and Human Services and the Commissioner of Social Security to ensure appropriate follow up pursuant to any notification provided under the preceding sentence.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45; Pub. L. 111–148, title III, §3110(a)(1), Mar. 23, 2010, 124 Stat. 420.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444;Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45; Pub. L. 111–148, title III, §3110(a)(1), Mar. 23, 2010, 124 Stat. 420.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any 
 
 Subsec. (i)(3)(B). Pub. L. 103–432, §151(c)(2)(B), substituted "in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)" for "as an active individual in a large group health plan (as such terms are defined in section 1395y(b)(1)(B)(iv) of this title)".
 
-Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any part of which the individual isenrolled" for "beginning with the first day of the first month in which the individual is no longer enrolled" and "ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled" for "and ending seven months later".
+Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any part of which the individual is enrolled" for "beginning with the first day of the first month in which the individual is no longer enrolled" and "ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled" for "and ending seven months later".
 
 <b>1989</b>—Subsec. (i)(1). Pub. L. 101–239, §6202(c)(1)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively, struck out former subpar. (A) which read as follows: "has attained the age of 65,", and inserted "not described in the previous sentence" after "In the case of an individual" in second sentence.
 
@@ -230,7 +230,7 @@ Subsec. (d). Pub. L. 89–384, §3(b), substituted March 1, 1966, for January 1,
 
 Pub. L. 111–148, title III, §3110(a)(2), Mar. 23, 2010, 124 Stat. 420, as amended by Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to elections made on and after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
-\[Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that the amendment made by section 201to section 3110(a)(2) of Pub. L. 111–148, set out above, is effective as if included in the enactment of Pub. L. 111–148.\]
+\[Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that the amendment made by section 201 to section 3110(a)(2) of Pub. L. 111–148, set out above, is effective as if included in the enactment of Pub. L. 111–148.\]
 
 #### Effective Date of 2006 Amendment
 

@@ -42,7 +42,7 @@ As used in this subchapter:
 
 (13) The term "felony" means any Federal or State offense classified by applicable Federal or State law as a felony.
 
-(14) The term "isomer" means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term "isomer" means any optical, positional, or geometric isomer. As used in schedule II(a)(4), theterm "isomer" means any optical or geometric isomer.
+(14) The term "isomer" means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term "isomer" means any optical, positional, or geometric isomer. As used in schedule II(a)(4), the term "isomer" means any optical or geometric isomer.
 
 (15) The term "manufacture" means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term "manufacturer" means a person who manufactures a drug or other substance.
 
@@ -62,7 +62,7 @@ As used in this subchapter:
 
 &emsp;(F) Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
 
-(18) The term "opiate" means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
 
 (19) The term "opium poppy" means the plant of the species Papaver somniferum L., except the seed thereof.
 
@@ -96,11 +96,11 @@ As used in this subchapter:
 
 (28) The term "United States", when used in a geographic sense, means all places and waters, continental or insular, subject to the jurisdiction of the United States.
 
-(29) The term "maintenance treatment" means the dispensing, for a period in excess of twenty-one days, of a narcotic drug in the treatment of an individual for dependence upon heroin or other morphine-like drugs.
+(29) The term "maintenance treatment" means the dispensing, for a period in excess oftwenty-one days, of a narcotic drug in the treatment of an individual for dependence upon heroin or other morphine-like drugs.
 
 (30) The term "detoxification treatment" means the dispensing, for a period not in excess of one hundred and eighty days, of a narcotic drug in decreasing doses to an individual in order to alleviate adverse physiological or psychological effects incident to withdrawal from the continuous or sustained use of a narcotic drug and as a method of bringing the individual to a narcotic drug-free state within such period.
 
-(31) The term "Convention on Psychotropic Substances" means the Convention on Psychotropic Substances signed at Vienna, Austria, onFebruary 21, 1971; and the term "Single Convention on Narcotic Drugs" means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
+(31) The term "Convention on Psychotropic Substances" means the Convention on Psychotropic Substances signed at Vienna, Austria, on February 21, 1971; and the term "Single Convention on Narcotic Drugs" means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
 
 (32)(A) Except as provided in subparagraph (C), the term "controlled substance analogue" means a substance—
 
@@ -202,17 +202,17 @@ As used in this subchapter:
 
 (37) The term "regular importer" means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
-(38) The term "regulated person" means a person who manufactures, distributes, imports, or exports a listed chemical, a tableting machine, or an encapsulating machine or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine.
+(38) The term "regulated person" means a person who manufactures, distributes, imports, or exports a listed chemical, a tableting machine, or an encapsulating machine or who acts as abroker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine.
 
 (39) The term "regulated transaction" means—
 
-&emsp;(A) a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of alisted chemical, except that such term does not include—
+&emsp;(A) a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of a listed chemical, except that such term does not include—
 
 &emsp;&emsp;(i) a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
 
 &emsp;&emsp;(ii) a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title;
 
-&emsp;&emsp;(iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
+&emsp;&emsp;(iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II;
 
 &emsp;&emsp;(iv) any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], subject to clause (v), unless—
 
@@ -222,7 +222,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(v) any transaction in a scheduled listed chemical product that is a sale at retail by a regulated seller or a distributor required to submit reports under section 830(b)(3) of this title; or
 
-&emsp;&emsp;(vi) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
+&emsp;&emsp;(vi) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
 
 &emsp;(B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
 
@@ -494,9 +494,9 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
 
-&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
+&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the UnitedStates (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
 
-&emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
+&emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\];
 
 &emsp;&emsp;(v) any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
 
@@ -554,7 +554,7 @@ As used in this subchapter:
 
 &emsp;(C) is being conducted by a practitioner—
 
-&emsp;&emsp;(i) who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
+&emsp;&emsp;(i) who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\];
 
 &emsp;&emsp;(ii) acting within the scope of the employment, contract, or compact described in clause (i); and
 
@@ -574,7 +574,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
 
-&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitionerotherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
+&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
 &emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
 
@@ -602,7 +602,7 @@ As used in this subchapter:
 
 &emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722.)
 
 #### References in Text
 
@@ -610,15 +610,17 @@ Schedules I, II, III, IV, and V, referred to in pars. (6), (14), (32)(A), (52)(B
 
 This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II, referred to in par. (39)(A)(iii), (vi), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This chapter, referred to in par. (41)(C)(i), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Par. (18). Pub. L. 114–198 inserted "or 'opioid' " after "The term 'opiate' ".
 
 <b>2014</b>—Par. (41)(A)(l) to (lxxv). Pub. L. 113–260, §2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
 
@@ -718,7 +720,7 @@ Par. (39)(A)(iii). Pub. L. 103–200, §2(a)(6)(B), inserted "or any category of
 
 Par. (39)(A)(iv). Pub. L. 103–200, §2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or".
 
-Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end "which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered".
+Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end "which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered".
 
 Par. (40). Pub. L. 103–200, §2(a)(7), substituted "list I chemical or a list II chemical" for "listed precursor chemical or a listed essential chemical" in two places.
 

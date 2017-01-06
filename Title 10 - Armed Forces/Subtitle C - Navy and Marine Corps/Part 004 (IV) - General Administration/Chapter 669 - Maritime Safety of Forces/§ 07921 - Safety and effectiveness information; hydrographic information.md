@@ -14,7 +14,7 @@ Safety and Effectiveness Information.—(1) The Secretary of the Navy shall maxi
 
 (b)
 
-Hydrographic Information.—The Secretary of the Navy shall collect, process, and provide to the Director of the National Geospatial-Intelligence Agency hydrographic information to support preparation of maps, charts, books, and geodetic products by that Agency.
+Hydrographic Information.—The Secretary of the Navy shall collect, process, andprovide to the Director of the National Geospatial-Intelligence Agency hydrographic information to support preparation of maps, charts, books, and geodetic products by that Agency.
 
 (Added Pub. L. 112–81, div. A, title III, §363(a), Dec. 31, 2011, 125 Stat. 1379.)
 

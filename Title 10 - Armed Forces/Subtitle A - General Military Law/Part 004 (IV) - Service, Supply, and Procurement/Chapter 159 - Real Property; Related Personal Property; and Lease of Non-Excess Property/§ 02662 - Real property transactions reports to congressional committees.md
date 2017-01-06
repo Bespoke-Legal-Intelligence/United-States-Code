@@ -20,7 +20,7 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 &emsp;(H) Any transaction or contract action for the provision and operation of energy production facilities on real property under the jurisdiction of the Secretary of a military department, as authorized by section 2922a(a)(2) of this title, if the term of the transaction or contract exceeds 20 years.
 
-(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project,the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
 (3) The authority of the Secretary concerned to enter into a transaction described in paragraph (1) commences only after—
 
@@ -76,7 +76,7 @@ Statements of Compliance in Transaction Instruments.—A statement in an instrum
 
 (e)
 
-Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committeeon Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 (f)
 
@@ -88,7 +88,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 &emsp;(C) A declaration of an emergency or major disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-&emsp;(D) The use of the militia or the armed forces after a proclamation to disperse under section 334 of this title.
+&emsp;(D) The use of the militia or the armed forces after a proclamation to disperse under section 334 of this title.<sup>1</sup>
 
 &emsp;(E) A contingency operation.
 
@@ -144,9 +144,11 @@ In subsection (d), the words "A statement \* \* \* that the requirements of th
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (f)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (f)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+Section 334 of this title, referred to in subsection (f)(1)(D), was renumbered section 254 of this title by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Amendments
 
@@ -275,4 +277,6 @@ Pub. L. 95–82, title VI, §612(c), Aug. 1, 1977, 91 Stat. 380, provided that: 
 #### Closing of Facilities; Reports to Congress
 
 Pub. L. 89–188, title VI, §611, Sept. 16, 1965, 79 Stat. 818, as amended by Pub. L. 89–568, title VI, §613, Sept. 12, 1966, 80 Stat. 757, required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

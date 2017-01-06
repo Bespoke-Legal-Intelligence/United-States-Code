@@ -20,7 +20,7 @@ As used in this section—
 
 #### (c) Servicing motor vehicle air conditioners
 
-Effective January 1, 1992, no person repairing or servicing motor vehicles for consideration may perform any service on a motor vehicle air conditioner involving the refrigerant for such air conditioner without properly using approved refrigerant recycling equipment and no such person may perform such service unless such person has been properly trained and certified. The requirements of the previous sentence shall not apply until January 1, 1993 in the case of aperson repairing or servicing motor vehicles for consideration at an entity which performed service on fewer than 100 motor vehicle air conditioners during calendar year 1990 and if such person so certifies, pursuant to subsection (d)(2) of this section, to the Administrator by Janu- ary 1, 1992.
+Effective January 1, 1992, no person repairing or servicing motor vehicles for consideration may perform any service on a motor vehicle air conditioner involving the refrigerant for such air conditioner without properly using approved refrigerant recycling equipment and no such person may perform such service unless such person has been properly trained and certified. The requirements of the previous sentence shall not apply until January 1, 1993 in the case of a person repairing or servicing motor vehicles for consideration at an entity which performed service on fewer than 100 motor vehicle air conditioners during calendar year 1990 and if such person so certifies, pursuant to subsection (d)(2) of this section, to the Administrator by Janu- ary 1, 1992.
 
 #### (d) Certification
 
@@ -32,7 +32,7 @@ Effective January 1, 1992, no person repairing or servicing motor vehicles for c
 
 (2) Effective January 1, 1993, each person who certified under paragraph (1)(B) shall submit a certification under paragraph (1)(A).
 
-(3) Each certification under this subsection shall contain the name and address of the person certifying under this subsection and the serial number of each unit of approved recycling equipment acquired by such person and shall be signed and attested by the owner or another responsible officer. Certifications under paragraph (1)(A) may be made by submitting the required information to the Administrator on a standard form provided by the manufacturer of certified refrigerant recycling equipment.
+(3) Each certification under this subsection shall contain the name and address of the person certifying under this subsection and the serialnumber of each unit of approved recycling equipment acquired by such person and shall be signed and attested by the owner or another responsible officer. Certifications under paragraph (1)(A) may be made by submitting the required information to the Administrator on a standard form provided by the manufacturer of certified refrigerant recycling equipment.
 
 #### (e) Small containers of class I or class II substances
 

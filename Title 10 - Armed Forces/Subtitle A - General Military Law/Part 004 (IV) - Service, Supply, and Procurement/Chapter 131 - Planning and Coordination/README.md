@@ -30,7 +30,7 @@
 | [2223a.](%C2%A7%2002223a%20-%20Information%20technology%20acquisition%20planning%20and%20oversight%20requirements.md) | Information technology acquisition planning and oversight requirements. |
 | [2224\.](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md) | Defense Information Assurance Program. |
 | [2224a.](%C2%A7%2002224a%20-%20Information%20security%20continued%20applicability%20of%20expiring%20Governmentwide%20requirements%20to%20the%20Department%20of%20Defense.md) | Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense. |
-| [2225\.](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md) | Information technology purchases: tracking and management. |
+| \[2225. | Repealed.\] |
 | [2226\.](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md) | Contracted property and services: prompt payment of vouchers. |
 | [2227\.](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md) | Electronic submission and processing of claims for contract payments. |
 | [2228\.](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md) | Office of Corrosion Policy and Oversight. |
@@ -41,7 +41,11 @@
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–92, div. A, title VIII, §883(a)(2), Nov. 25, 2015, 129 Stat. 947, which directed amendment of the analysis for "such chapter" by striking item 2222 and adding a new item 2222, was executed to the analysis for this chapter by adding item 2222 and striking out former item 2222 "Defense business systems: architecture, accountability, and modernization", to reflect the probable intent of Congress.
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, made technical correction to directory language of Pub. L. 114–92, §883(a)(2). See 2015 Amendment note below.
+
+Pub. L. 114–328, div. A, title VIII, §833(b)(2)(B), Dec. 23, 2016, 130 Stat. 2284, struck out item 2225 "Information technology purchases: tracking and management".
+
+<b>2015</b>—Pub. L. 114–92, div. A, title VIII, §883(a)(2), Nov. 25, 2015, 129 Stat. 947, as amended by Pub. L. 114–328, div. A, title X, §1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, added item 2222 and struck out former item 2222 "Defense business systems: architecture, accountability, and modernization".
 
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 
@@ -160,7 +164,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 - [&sect; 02223a - Information technology acquisition planning and oversight requirements](%C2%A7%2002223a%20-%20Information%20technology%20acquisition%20planning%20and%20oversight%20requirements.md)
 - [&sect; 02224 - Defense Information Assurance Program](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md)
 - [&sect; 02224a - Information security continued applicability of expiring Governmentwide requirements to the Department of Defense](%C2%A7%2002224a%20-%20Information%20security%20continued%20applicability%20of%20expiring%20Governmentwide%20requirements%20to%20the%20Department%20of%20Defense.md)
-- [&sect; 02225 - Information technology purchases tracking and management](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md)
+- [&sect; 02225 - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(2)(A), Dec. 23, 2016, 130 Stat. 2284](%C2%A7%2002225%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%282%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202284.md)
 - [&sect; 02226 - Contracted property and services prompt payment of vouchers](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md)
 - [&sect; 02227 - Electronic submission and processing of claims for contract payments](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md)
 - [&sect; 02228 - Office of Corrosion Policy and Oversight](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md)

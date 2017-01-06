@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Secretary shall establish a program, including a uniform health professions data reporting system, to collect, compile, and analyze data on health professions personnel which program shall initially include data respecting all physicians and dentists in the States. The Secretary is authorized to expand the program to include, whenever he determines it necessary, the collection, compilation, and analysis of data respecting pharmacists, optometrists, podiatrists, veterinarians, public health personnel, audiologists, speech pathologists, health care administration personnel, nurses, allied health personnel, medical technologists, chiropractors, clinical psychologists, professional counselors, and any other health personnel in States designated by the Secretary to be included in the program. Such data shall include data respecting the training, licensure status (including permanent, temporary, partial, limited, or institutional), place or places of practice, professional specialty, practice characteristics, place and date of birth, sex, and socioeconomic background of health professions personnel and such other demographic information regarding health professions personnel as the Secretary may require.
+The Secretary shall establish a program, including a uniform health professions data reporting system, to collect, compile, and analyze data on health professions personnel which program shall initially include data respecting all physicians and dentists in the States. The Secretary is authorized to expand the program to include, whenever he determines it necessary, the collection, compilation, and analysis of data respecting pharmacists, optometrists, podiatrists, veterinarians, public health personnel,audiologists, speech pathologists, health care administration personnel, nurses, allied health personnel, medical technologists, chiropractors, clinical psychologists, professional counselors, and any other health personnel in States designated by the Secretary to be included in the program. Such data shall include data respecting the training, licensure status (including permanent, temporary, partial, limited, or institutional), place or places of practice, professional specialty, practice characteristics, place and date of birth, sex, and socioeconomic background of health professions personnel and such other demographic information regarding health professions personnel as the Secretary may require.
 
 #### (b) Certain authorities and requirements
 
 #### (1) Sources of information
 
-&emsp;In carrying out subsection (a) of this section, the Secretary shall collect available information from appropriate local, State, and Federal agencies and other appropriate sources.
+&emsp;In carrying out subsection (a), the Secretary shall collect available information from appropriate local, State, and Federal agencies and other appropriate sources.
 
 #### (2) Contracts for studies of health professions
 
@@ -16,13 +16,13 @@ The Secretary shall establish a program, including a uniform health professions 
 
 #### (3) Grants and contracts regarding States
 
-&emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
+&emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a). The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
 
-&emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
+&emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
 
 &emsp;&emsp;(B) such State or entity shall collect such information and report it to the Secretary in such form and manner as the Secretary shall prescribe; and
 
-&emsp;&emsp;(C) such State or entity shall comply with the requirements of subsection (e) of this section.
+&emsp;&emsp;(C) such State or entity shall comply with the requirements of subsection (e).
 
 #### (d) <sup>1</sup> Reports to Congress
 
@@ -52,7 +52,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (3) Disclosure by Secretary
 
-&emsp;(A) Notwithstanding any other provision of law, personal data collected by the Secretary or any program entity under this section may not be made available or disclosed by the Secretary or any program entity to any person other than the individual who is the subject ofsuch data unless (i) such person requires such data for purposes of this section, or (ii) in response to a demand for such data made by means of compulsory legal process. Any individual who is the subject of personal data made available or disclosed under clause (ii) shall be notified of the demand for such data.
+&emsp;(A) Notwithstanding any other provision of law, personal data collected by the Secretary or any program entity under this section may not be made available or disclosed by the Secretary or any program entity to any person other than the individual who is the subject of such data unless (i) such person requires such data for purposes of this section, or (ii) in response to a demand for such data made by means of compulsory legal process. Any individual who is the subject of personal data made available or disclosed under clause (ii) shall be notified of the demand for such data.
 
 &emsp;(B) Subject to all applicable laws regarding confidentiality, only the data collected by the Secretary under this section which is not personal data shall be made available to bona fide researchers and policy analysts (including the Congress) for the purposes of assisting in the conduct of studies respecting health professions personnel.
 
@@ -68,11 +68,11 @@ The Secretary shall provide technical assistance to the States and political sub
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a) of this section, the Secretary may make grants, or enter into contracts and cooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
+&emsp;In carrying out subsection (a), the Secretary may make grants, or enter into contracts and cooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
 
 #### (2) Reports
 
-&emsp;With respect to reports required in subsection (d) of this section, each such report made on or after October 1, 1991, shall include a description and analysis of data collected pursuant to paragraph (1).
+&emsp;With respect to reports required in subsection (d), each such report made on or after October 1, 1991, shall include a description and analysis of data collected pursuant to paragraph (1).
 
 (July 1, 1944, ch. 373, title VII, §792, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 105–392, title I, §106(b), Nov. 13, 1998, 112 Stat. 3559.)
 

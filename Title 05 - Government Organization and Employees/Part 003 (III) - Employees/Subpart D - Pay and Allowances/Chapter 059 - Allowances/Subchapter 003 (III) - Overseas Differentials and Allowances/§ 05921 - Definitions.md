@@ -74,7 +74,7 @@ Pub. L. 86–707, title V, §501(a), Sept. 6, 1960, 74 Stat. 800, provided that:
 
 #### References to Provisions Affected by the Overseas Differentials and Allowances Act
 
-Pub. L. 86–707, title V, §521, Sept. 6, 1960, 74 Stat. 802, provided that: "Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act \[repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, section 1131 of Title 22, and sections3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section\], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act."
+Pub. L. 86–707, title V, §521, Sept. 6, 1960, 74 Stat. 802, provided that: "Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act \[repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, section 1131 of Title 22, and sections 3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section\], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act."
 
 #### Transitional Provisions for Payment of Allowances and Differentials
 
@@ -122,7 +122,7 @@ Sec. 2. The Secretary of State is hereby authorized and directed to exercise the
 
 "(b) The authority vested in the President by section 8(a)(1) of the Defense Department Overseas and Teachers Pay and Personnel Practices Act (73 Stat. 216; 5 U.S.C. 2356(a)(1)) \[section 906(a)(1) of Title 20, Education\] to prescribe regulations relating to cost-of-living allowances.
 
-"(c) The authority vested in the President by section 235(a) \[now 707(a)(5)\] of title 38 of the United States Code to prescribe rules and regulations with respect to allowances and benefits similar to those provided for in section 941 of the Foreign Service Act of 1946, as amended (22 U.S.C. 1156)."
+"(c) The authority vested in the President by section 235(a) \[now 707(a)(5)\] of title 38 of the United States Code to prescribe rules and regulations with respect to allowances and benefits similar to those provided for insection 941 of the Foreign Service Act of 1946, as amended (22 U.S.C. 1156)."
 
 (b) The reference in section 1 of Executive Order No. 10853 of November 27, 1959, to the regulations contained in Executive Order No. 10000 of September 16, 1948, shall be deemed to include a reference to the corresponding regulations prescribed in pursuance of the provisions of this order.
 

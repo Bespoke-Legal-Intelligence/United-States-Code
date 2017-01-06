@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the present value of the reasonably anticipated employer contributions for the current plan year and each of the 6 succeeding plan years, assuming that the terms of all collective bargaining agreements pursuant to which the plan is maintained for the current plan year continue in effect for succeeding plan years,
 
-&emsp;&emsp;&nbsp;is less than the present value of all nonforfeitable benefits projected to be payableunder the plan during the current plan year and each of the 6 succeeding plan years (plus administrative expenses for such plan years).
+&emsp;&emsp;&nbsp;is less than the present value of all nonforfeitable benefits projected to be payable under the plan during the current plan year and each of the 6 succeeding plan years (plus administrative expenses for such plan years).
 
 &emsp;&emsp;(B) A plan is described in this subparagraph if—
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (C) Date of implementation
 
-&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) or (B) expires.
+&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date onwhich the collective bargaining agreement described in subparagraph (A) or (B) expires.
 
 #### (D) Failure to make scheduled contributions
 
@@ -434,7 +434,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection (b)(2) as of the beginning of the plan year;
+&emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection\(b)(2) as of the beginning of the plan year;
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 1084(d)(2) of this title or section 1084 of this title (as in effect prior to the enactment of the Pension Protection Act of 2006); and
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
-&emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to theextent such form is reasonably accessible to persons to whom the notice is required to be provided.
+&emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
 
 &emsp;&emsp;&nbsp;The Secretary of the Treasury shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
 
@@ -690,7 +690,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the plan actuary certifies that after taking into account such benefitsimprovements the plan is projected to avoid insolvency indefinitely under section 1426 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the plan actuary certifies that after taking into account such benefits improvements the plan is projected to avoid insolvency indefinitely under section 1426 of this title.
 
 #### (ii) Equitable distribution of benefit improvements
 
@@ -808,7 +808,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) A statement in opposition to the suspension compiled from comments received pursuant to subparagraph (G)(ii).
 
-&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
+&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary ofthe Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
 
 &emsp;&emsp;&emsp;&emsp;(IV) A statement that the plan sponsor has determined that the plan will become insolvent unless the suspension takes effect.
 
@@ -864,7 +864,7 @@ For purposes of this section—
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits underthis paragraph in accordance with section 706 of title 5.
 
 #### (bb) Temporary injunction
 
@@ -932,7 +932,7 @@ For purposes of this section—
 
 #### (1) Benefit reduction
 
-&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 1381 of this title.
+&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining anemployer's withdrawal liability under section 1381 of this title.
 
 #### (2) Surcharges
 
@@ -1160,7 +1160,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date
 
-Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
+Section applicable with respect to plan years beginning after 2007, with special rules for certain noticesand certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
 
 #### Guidance
 

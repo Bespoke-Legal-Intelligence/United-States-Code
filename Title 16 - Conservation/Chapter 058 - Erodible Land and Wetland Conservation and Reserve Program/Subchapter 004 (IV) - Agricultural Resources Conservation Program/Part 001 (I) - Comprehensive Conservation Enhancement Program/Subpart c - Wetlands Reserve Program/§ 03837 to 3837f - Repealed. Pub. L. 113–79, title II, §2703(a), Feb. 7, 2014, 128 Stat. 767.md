@@ -20,7 +20,7 @@ Pub. L. 113–79, title II, §2703, Feb. 7, 2014, 128 Stat. 767, provided that:
 
 "(a)
 
-Repeal.—Except as provided in subsection (b), subchapter C of chapter 1 of subtitle D of title XII ofthe Food Security Act of 1985 (16 U.S.C. 3837 et seq.) is repealed.
+Repeal.—Except as provided in subsection (b), subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3837 et seq.) is repealed.
 
 "(b)
 

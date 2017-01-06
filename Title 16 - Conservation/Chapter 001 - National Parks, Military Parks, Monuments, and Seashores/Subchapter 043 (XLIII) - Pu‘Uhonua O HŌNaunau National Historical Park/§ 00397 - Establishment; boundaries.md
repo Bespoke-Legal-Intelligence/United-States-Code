@@ -6,7 +6,7 @@ When title to such lands located on the island of Hawaii, within the following-d
 
 parcel 1
 
-Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 9470 to Muki, and portions of R. P. 7874, L. C. Aw. 11216 Apana 34 to M. Kekauonohi (Ahupuaa of Honaunau), and R. P. 6852, L. C. Aw. 7712 Apana 1 to M. Kekuanaoa (Ahupuaa of Keokea).
+Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 9470 to Muki, and portions of R. P. 7874, L. C. Aw. 11216 Apana 34 to M. Kekauonohi (Ahupuaa of Honaunau), and R. P.6852, L. C. Aw. 7712 Apana 1 to M. Kekuanaoa (Ahupuaa of Keokea).
 
 Beginning at a one and one-half-inch pipe in concrete monument called "Kalani", at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundary of the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station "Lae-O-Kanoni" being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
 
@@ -90,7 +90,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called "Kalani" a
 
 3\. Thence along high-water mark, along sea, the direct azimuth and distance being: two hundred six degrees thirty-three minutes thirty seconds four hundred eighty-two and nine-tenths feet;
 
-4\. Two hundred fifty-nine degrees thirty-three minutes fifteen seconds six hundred eighty feet along L. C. Aw. 7712:1 to M. Kekuanaoa and passing over a rock called Kuwaia, marked K+K atsix and eight-tenths feet to the point of beginning.
+4\. Two hundred fifty-nine degrees thirty-three minutes fifteen seconds six hundred eighty feet along L. C. Aw. 7712:1 to M. Kekuanaoa and passing over a rock called Kuwaia, marked K+K at six and eight-tenths feet to the point of beginning.
 
 Area, ten and twenty-five one-hundredths acres.
 

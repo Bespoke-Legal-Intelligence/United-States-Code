@@ -52,7 +52,7 @@
 
 #### (4) Authorized travel and employment during temporary residence
 
-&emsp;During the period an alien is in lawful temporary resident status granted under this subsection, the alien has the right to travel abroad (including commutation from a residence abroad) and shall be granted authorization to engage in employment in the United States and shall be provided an "employment authorized" endorsement or other appropriate work permit, in the same manner as for aliens lawfully admitted for permanent residence.
+&emsp;During the period an alien is in lawful temporary resident status granted under this subsection, the alien has the right to travel abroad (including commutation from a residence abroad) and shall be granted authorization to engage in employment in the UnitedStates and shall be provided an "employment authorized" endorsement or other appropriate work permit, in the same manner as for aliens lawfully admitted for permanent residence.
 
 #### (5) In general
 
@@ -208,7 +208,7 @@
 
 &emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
-&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) the Service may grant temporary admission to theUnited States, work authorization, and provide an "employment authorized" endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
+&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) the Service may grant temporary admission to the United States, work authorization, and provide an "employment authorized" endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
 &emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
 
@@ -252,7 +252,7 @@ For all purposes (subject to subsections (a)(5) and (f)) an alien whose status i
 
 In this section, the term "seasonal agricultural services" means the performance of field work related to planting, cultural practices, cultivating, growing and harvesting of fruits and vegetables of every kind and other perishable commodities, as defined in regulations by the Secretary of Agriculture.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Pub. L. 99–603, title III, §302(a)(1), Nov. 6, 1986, 100 Stat. 3417; amended Pub. L. 100–202, §101(a) \[title II, §211\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–525, §2(m), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–238, §4, Dec. 18, 1989, 103 Stat. 2103; Pub. L. 101–649, title VI, §603(a)(5), Nov. 29, 1990, 104 Stat. 5082; Pub. L. 102–232, title III, §§307(j), 309(b)(6), Dec. 12, 1991, 105 Stat. 1756, 1758; Pub. L. 103–416, title II, §219(d), (z)(7), Oct. 25, 1994, 108 Stat. 4316, 4318; Pub. L. 104–132, title IV, §431(b), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), Sept. 30, 1996, 110 Stat. 3009–622, 3009–653, 3009–697.)
+(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Pub. L. 99–603, title III, §302(a)(1), Nov. 6, 1986, 100 Stat. 3417; amended Pub. L. 100–202, §101(a) \[title II, §211\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–525, §2(m), Oct. 24, 1988, 102Stat. 2613; Pub. L. 101–238, §4, Dec. 18, 1989, 103 Stat. 2103; Pub. L. 101–649, title VI, §603(a)(5), Nov. 29, 1990, 104 Stat. 5082; Pub. L. 102–232, title III, §§307(j), 309(b)(6), Dec. 12, 1991, 105 Stat. 1756, 1758; Pub. L. 103–416, title II, §219(d), (z)(7), Oct. 25, 1994, 108 Stat. 4316, 4318; Pub. L. 104–132, title IV, §431(b), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), Sept. 30, 1996, 110 Stat. 3009–622, 3009–653, 3009–697.)
 
 #### References in Text
 
@@ -324,7 +324,7 @@ Amendment by section 308(g)(2)(B) of Pub. L. 104–208 effective, with certain t
 
 Pub. L. 104–208, div. C, title III, §384(d)(2), Sept. 30, 1996, 110 Stat. 3009–653, provided that: "The amendments made by this subsection \[amending this section and section 1255a of this title\] shall apply to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office ofAssistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -338,7 +338,7 @@ Pub. L. 102–232, title III, §307(j), Dec. 12, 1991, 105 Stat. 1756, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1,1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1, 1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 

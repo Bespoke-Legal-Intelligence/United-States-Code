@@ -22,7 +22,7 @@ The Director shall, in coordination with the heads of the other elements of the 
 
 &emsp;(2) Providing information, training, and technical assistance.
 
-&emsp;(3) Providing support for inter- and intra-agency task forces and other agreements andfor assessment of the effectiveness of programs, projects, approaches, or practices.
+&emsp;(3) Providing support for inter- and intra-agency task forces and other agreements and for assessment of the effectiveness of programs, projects, approaches, or practices.
 
 &emsp;(4) Providing in the assessment of the effectiveness of neighborhood and community-based law enforcement and crime prevention strategies and techniques, in coordination with the National Institute of Justice.
 

@@ -30,7 +30,7 @@ In this section, the term "covered employee" means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Architect of the Capitol shall charge fees or charges for electricity provided to covered employees sufficient to cover the costs to the Architect of the Capitol to carry out this section, including costs to any vendors or other costs associated with maintaining the battery charging stations.
+&emsp;Subject to paragraph (2), the Architect of the Capitol shall charge fees or charges for electricity provided to covered employees sufficient to cover the costs to the Architect of the Capitol to carry out this section, including costs to any vendors or other costs associatedwith maintaining the battery charging stations.
 
 #### (2) Approval of fees or charges
 

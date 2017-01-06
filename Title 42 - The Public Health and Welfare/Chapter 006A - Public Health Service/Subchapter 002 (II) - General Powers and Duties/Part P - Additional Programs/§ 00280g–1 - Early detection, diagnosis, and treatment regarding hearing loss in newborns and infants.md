@@ -36,7 +36,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (1) In general
 
-&emsp;In carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of theCenters for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with other Federal agencies; State and local agencies, including those responsible for early intervention services pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program); title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\] (State Children's Health Insurance Program); title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (Maternal and Child Health Block Grant Program); and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; consumer groups of and that serve individuals who are deaf and hard-of-hearing and their families; appropriate national medical and other health and education specialty organizations; persons who are deaf and hard-of-hearing and their families; other qualified professional personnel who are proficient in deaf or hard-of-hearing children's language and who possess the specialized knowledge, skills, and attributes needed to serve deaf and hard-of-hearing newborns, infants, toddlers, children, and their families; third-party payers and managed care organizations; and related commercial industries.
+&emsp;In carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with other Federal agencies; State and local agencies, including those responsible for early intervention services pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program); title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\] (State Children's Health Insurance Program); title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (Maternal and Child Health Block Grant Program); and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; consumer groups of and that serve individuals who are deaf and hard-of-hearing and their families; appropriate national medical and other health and education specialty organizations; persons who are deaf and hard-of-hearing and their families; other qualified professional personnel who are proficient in deaf or hard-of-hearing children's language and who possess the specialized knowledge, skills, and attributes needed to serve deaf and hard-of-hearing newborns, infants, toddlers, children, and their families; third-party payers and managed care organizations; and related commercial industries.
 
 #### (2) Policy development
 
@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (3) State early detection, diagnosis, and intervention programs and systems; data collection
 
-&emsp;The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation, diagnosis, and intervention programs and systems under subsection (a) of this section and to develop a data collection system under subsection (b) of this section.
+&emsp;The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation, diagnosis, and intervention programs and systems under subsection (a) and to develop a data collection system under subsection (b).
 
 #### (d) Rule of construction; religious accommodation
 
@@ -70,15 +70,15 @@ For purposes of this section:
 
 #### (1) Statewide newborn and infant hearing screening, evaluation and intervention programs and systems
 
-&emsp;For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated to the Health Resources and Services Administration such sums as may be necessary for fiscal years 2011 through 2015.
+&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated to the Health Resources and Services Administration such sums as may be necessary for fiscal years 2011 through 2015.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (b)(1) of this section, there are authorized to be appropriated to the Centers for Disease Control and Prevention such sums as may be necessary for fiscal years 2011 through 2015.
+&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention such sums as may be necessary for fiscal years 2011 through 2015.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 
-&emsp;For the purpose of carrying out subsection (b)(2) of this section, there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders such sums as may be necessary for fiscal years 2011 through 2015.
+&emsp;For the purpose of carrying out subsection (b)(2), there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders such sums as may be necessary for fiscal years 2011 through 2015.
 
 (July 1, 1944, ch. 373, title III, §399M, as added Pub. L. 106–310, div. A, title VII, §702, Oct. 17, 2000, 114 Stat. 1121; amended Pub. L. 111–337, §2, Dec. 22, 2010, 124 Stat. 3588.)
 

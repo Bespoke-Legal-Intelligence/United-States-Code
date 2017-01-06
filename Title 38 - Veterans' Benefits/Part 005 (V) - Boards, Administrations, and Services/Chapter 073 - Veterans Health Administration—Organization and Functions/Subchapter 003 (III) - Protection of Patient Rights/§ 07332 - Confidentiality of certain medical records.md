@@ -26,7 +26,7 @@
 
 &emsp;(G) To a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act (42 U.S.C. 280g–3), to the extent necessary to prevent misuse and diversion of prescription medicines.
 
-(3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to section 7334 of this title.
+(3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the nextof kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to section 7334 of this title.
 
 (c) Except as authorized by a court order granted under subsection (b)(2)(D), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against, or to conduct any investigation of, a patient or subject.
 
@@ -38,7 +38,7 @@
 
 &emsp;(2) between such components furnishing health care to veterans and the Armed Forces.
 
-(f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject isinfected with such virus, identified as being a sexual partner of such patient or subject.
+(f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject is infected with such virus, identified as being a sexual partner of such patient or subject.
 
 (2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 

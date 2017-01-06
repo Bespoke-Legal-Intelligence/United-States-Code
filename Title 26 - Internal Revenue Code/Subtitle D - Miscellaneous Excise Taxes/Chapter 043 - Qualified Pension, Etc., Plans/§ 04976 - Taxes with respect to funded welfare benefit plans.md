@@ -34,7 +34,7 @@ For purposes of subsection (a)—
 
 #### (4) Exception for certain amounts charged against existing reserve
 
-&emsp;Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefits charged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
+&emsp;Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefitscharged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
 
 #### (c) Definitions
 
@@ -44,7 +44,7 @@ For purposes of this section, the terms used in this section shall have the same
 
 #### Codification
 
-Pub. L. 101–140 amended this section to read as if the amendments made by section 1011B(a)(27) of Pub. L.100–647 (enacting subsec. (c)) had not been enacted. Subsequent to enactment by Pub. L. 100–647, subsec. (c) was amended by Pub. L. 100–647, §3021(a)(1)(C). See 1988 Amendment note below.
+Pub. L. 101–140 amended this section to read as if the amendments made by section 1011B(a)(27) of Pub. L. 100–647 (enacting subsec. (c)) had not been enacted. Subsequent to enactment by Pub. L. 100–647, subsec. (c) was amended by Pub. L. 100–647, §3021(a)(1)(C). See 1988 Amendment note below.
 
 #### Amendments
 

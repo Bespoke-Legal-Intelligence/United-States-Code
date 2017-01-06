@@ -20,7 +20,7 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (2) Health or day care or early childhood development services
 
-&emsp;After March 31, 1994, no Federal agency shall permit smoking within any indoor facility (or portion thereof) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood development (Head Start) services to children, except that this paragraph shall not apply to—
+&emsp;After March 31, 1994, no Federal agency shall permit smoking within any indoor facility (or portion thereof) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhooddevelopment (Head Start) services to children, except that this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any portion of such facility that is used for inpatient hospital treatment of individuals dependent on, or addicted to, drugs or alcohol; and
 
@@ -32,13 +32,13 @@ After March 31, 1994, no person shall permit smoking within any indoor facility 
 
 #### (d) Notice
 
-The prohibitions in subsections (a) through (c) of this section shall be incorporated by publication of a notice in the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children's services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
+The prohibitions in subsections (a) through (c) shall be incorporated by publication of a notice in the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children's services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
 
 #### (e) Special waiver
 
 #### (1) In general
 
-&emsp;On receipt of an application, the head of the Federal agency may grant a special waiver to a person described in subsection (a) of this section who employs individuals who are members of a labor organization and provide children's services pursuant to a collective bargaining agreement that—
+&emsp;On receipt of an application, the head of the Federal agency may grant a special waiver to a person described in subsection (a) who employs individuals who are members of a labor organization and provide children's services pursuant to a collective bargaining agreement that—
 
 &emsp;&emsp;(A) took effect before March 31, 1994; and
 
@@ -56,7 +56,7 @@ The prohibitions in subsections (a) through (c) of this section shall be incorpo
 
 #### (1) In general
 
-&emsp;Any failure to comply with a prohibition in this section shall be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty under this section, the total amount shall not exceed the amount of Federal funds received by such person for the fiscal year in which the continuing violations occurred. For the purpose of the prohibition in subsection (c) of this section, the term "person" shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
+&emsp;Any failure to comply with a prohibition in this section shall be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty under this section, the total amount shall not exceed the amount of Federal funds received by such person for the fiscal year in which the continuing violations occurred. For the purpose of the prohibition in subsection (c), the term "person" shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
 
 #### (2) Administrative proceeding
 

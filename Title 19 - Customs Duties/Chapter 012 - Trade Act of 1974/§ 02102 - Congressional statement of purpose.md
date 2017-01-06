@@ -8,7 +8,7 @@ The purposes of this chapter are, through trade agreements affording mutual bene
 
 &emsp;(3) to establish fairness and equity in international trading relations, including reform of the General Agreement on Tariffs and Trade;
 
-&emsp;(4) to provide adequate procedures to safeguard American industry and labor againstunfair or injurious import competition, and to assist industries, firm,<sup>1</sup> workers, and communities to adjust to changes in international trade flows;
+&emsp;(4) to provide adequate procedures to safeguard American industry and labor against unfair or injurious import competition, and to assist industries, firm,<sup>1</sup> workers, and communities to adjust to changes in international trade flows;
 
 &emsp;(5) to open up market opportunities for United States commerce in nonmarket economies; and
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 13, 1953, ch. 429, §17, 67 Stat. 574.
 
-The words "and such emblems, seals, and badges as have heretofore been used by the Illinois corporationreferred to in section 478 of this title in carrying out its program" are omitted as unnecessary. The words "This section does not affect any vested rights" are substituted for "it being distinctly understood, however, that nothing in this chapter shall interfere or conflict with established or vested rights" to eliminate unnecessary words.
+The words "and such emblems, seals, and badges as have heretofore been used by the Illinois corporation referred to in section 478 of this title in carrying out its program" are omitted as unnecessary. The words "This section does not affect any vested rights" are substituted for "it being distinctly understood, however, that nothing in this chapter shall interfere or conflict with established or vested rights" to eliminate unnecessary words.
 

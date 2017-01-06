@@ -24,7 +24,7 @@ The Secretary may develop the multimedia campaign in languages other than Englis
 
 #### (d) Performance measures
 
-The Secretary shall develop measures to evaluate the effectiveness of the pilot nationalpublic service multimedia campaign, as measured by improved financial decision making among individuals.
+The Secretary shall develop measures to evaluate the effectiveness of the pilot national public service multimedia campaign, as measured by improved financial decision making among individuals.
 
 #### (e) Report
 

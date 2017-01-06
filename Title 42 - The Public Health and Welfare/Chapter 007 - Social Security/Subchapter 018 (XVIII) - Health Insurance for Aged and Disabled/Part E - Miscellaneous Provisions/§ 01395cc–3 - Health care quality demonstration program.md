@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Beneficiary
 
-&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A of thissubchapter and enrolled under part B of this subchapter, including any individual who is enrolled in a Medicare Advantage plan under part C of this subchapter.
+&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A and enrolled under part B, including any individual who is enrolled in a Medicare Advantage plan under part C.
 
 #### (2) Health care group
 
@@ -56,13 +56,13 @@ The Secretary shall establish a demonstration program under which the Secretary 
 
 &emsp;A health care group that receives assistance under this section may, with respect to the demonstration project to be carried out with such assistance, include proposals for the use of alternative payment systems for items and services provided to beneficiaries by the group that are designed to—
 
-&emsp;&emsp;(A) encourage the delivery of high quality care while accomplishing the objectives described in subsection (b) of this section; and
+&emsp;&emsp;(A) encourage the delivery of high quality care while accomplishing the objectives described in subsection (b); and
 
 &emsp;&emsp;(B) streamline documentation and reporting requirements otherwise required under this subchapter.
 
 #### (3) Benefits
 
-&emsp;A health care group that receives assistance under this section may, with respect to the demonstration project to be carried out with such assistance, include modifications to the package of benefits available under the original medicare fee-for-service program under parts A and B of this subchapter or the package of benefits available through a Medicare Advantage plan under part C of this subchapter. The criteria employed under the demonstration program under this section to evaluate outcomes and determine best practice guidelines and incentives shall not be used as a basis for the denial of medicare benefits under the demonstration program to patients against their wishes (or if the patient is incompetent, against the wishes of the patient's surrogate) on the basis of the patient's age or expected length of life or of the patient's present or predicted disability, degree of medical dependency, or quality of life.
+&emsp;A health care group that receives assistance under this section may, with respect to the demonstration project to be carried out with such assistance, include modifications to the package of benefits available under the original medicare fee-for-service program under parts A and B or the package of benefits available through a Medicare Advantage plan under part C. The criteria employed under the demonstration program under this section to evaluate outcomes and determine best practice guidelines and incentives shall not be used as a basis for the denial of medicare benefits under the demonstration program to patients against their wishes (or if the patient is incompetent, against the wishes of the patient's surrogate) on the basis of the patient's age or expected length of life or of the patient's present or predicted disability, degree of medical dependency, or quality of life.
 
 #### (d) Eligibility criteria
 
@@ -86,11 +86,11 @@ To be eligible to receive assistance under this section, an entity shall—
 
 #### (e) Waiver authority
 
-The Secretary may waive such requirements of this subchapter and subchapter XI of this chapter as may be necessary to carry out the purposes of the demonstration program established under this section.
+The Secretary may waive such requirements of this subchapter and subchapter XI as may be necessary to carry out the purposes of the demonstration program established under this section.
 
 #### (f) Budget neutrality
 
-With respect to the period of the demonstration program under subsection (b) of this section, the aggregate expenditures under this subchapter for such period shall not exceed the aggregate expenditures that would have been expended under this subchapter if the program established under this section had not been implemented.
+With respect to the period of the demonstration program under subsection (b), the aggregate expenditures under this subchapter for such period shall not exceed the aggregate expenditures that would have been expended under this subchapter if the program established under this section had not been implemented.
 
 #### (g) Notice requirements
 
@@ -102,7 +102,7 @@ In carrying out the demonstration program under this section, the Secretary may 
 
 &emsp;(1) the Director of the National Institutes of Health to expand the efforts of the Institutes to evaluate current medical technologies and improve the foundation for evidence-based practice;
 
-&emsp;(2) the Administrator of the Agency for Healthcare Research and Quality to, where possible and appropriate, use the program under this section as a laboratory for the study of quality improvement strategies and to evaluate, monitor, and disseminate information relevant to such program; and
+&emsp;(2) the Administrator of the Agency for Healthcare Research and Quality to, wherepossible and appropriate, use the program under this section as a laboratory for the study of quality improvement strategies and to evaluate, monitor, and disseminate information relevant to such program; and
 
 &emsp;(3) the Administrator of the Centers for Medicare \& Medicaid Services and the Administrator of the Center for Medicare Choices to support linkages of relevant medicare data to registry information from participating health care groups for the beneficiary populations served by the participating groups, for analysis supporting the purposes of the demonstration program, consistent with the applicable provisions of the Health Insurance Portability and Accountability Act of 1996.
 

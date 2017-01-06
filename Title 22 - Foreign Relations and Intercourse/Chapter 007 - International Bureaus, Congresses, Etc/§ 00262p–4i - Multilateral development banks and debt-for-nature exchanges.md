@@ -12,7 +12,7 @@ The Secretary of the Treasury shall direct the United States Executive Directors
 
 &emsp;&emsp;(C) actively promote, coordinate and facilitate debt-for-nature exchanges and the restoration, protection, and sustainable use of tropical forests, renewable natural resources, endangered ecosystems and species in debtor countries;
 
-&emsp;(2) support and encourage the approval of multilateral development bank loans which include provisions that foster and facilitate the implementation of a sound and effective environmental policy in the borrowing country;
+&emsp;(2) support and encourage the approval of multilateral development bank loans whichinclude provisions that foster and facilitate the implementation of a sound and effective environmental policy in the borrowing country;
 
 &emsp;(3) encourage the banks to assist such countries in reducing and restructuring private debt through the use of a portion of a project or policy based environmental loan in ways which will enable such countries to buy back private debt at a rate of discount available for such debt, at auction in the secondary market or through negotiations with creditors holding such debt;
 
@@ -60,7 +60,7 @@ The United States Executive Directors of the multilateral development banks shal
 
 #### (c) Inclusion of certain items in guidelines
 
-The United States Executive Directors shall endeavor to include the provisions of paragraphs (1) through (5) of subsection (b) of this section in the guidelines developed through the negotiations specified in this section.
+The United States Executive Directors shall endeavor to include the provisions of paragraphs (1) through (5) of subsection (b) in the guidelines developed through the negotiations specified in this section.
 
 (Pub. L. 95–118, title XVI, §1614, as added Pub. L. 101–240, title V, §512, Dec. 19, 1989, 103 Stat. 2508.)
 

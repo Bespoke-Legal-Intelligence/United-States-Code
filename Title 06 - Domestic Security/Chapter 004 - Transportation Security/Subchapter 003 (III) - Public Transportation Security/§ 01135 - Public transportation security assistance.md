@@ -30,7 +30,7 @@ A recipient of a grant under subsection (a) shall use the grant funds for one or
 
 &emsp;&emsp;(E) surveillance equipment;
 
-&emsp;&emsp;(F) communications equipment, including mobile service equipment to provide access to wireless Enhanced 911 (E911) emergency services in an underground fixed guideway system;
+&emsp;&emsp;(F) communications equipment, including mobile service equipment to provide accessto wireless Enhanced 911 (E911) emergency services in an underground fixed guideway system;
 
 &emsp;&emsp;(G) emergency response equipment, including personal protective equipment;
 

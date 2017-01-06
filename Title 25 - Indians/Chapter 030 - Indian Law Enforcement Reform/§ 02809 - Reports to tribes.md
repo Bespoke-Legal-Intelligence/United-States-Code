@@ -60,7 +60,7 @@ The Attorney General shall submit to Congress annual reports containing, with re
 
 #### (3) Regulations
 
-&emsp;The Attorney General shall establish, by regulation, standards for the protection of theconfidential or privileged communications, information, and sources described in this section.
+&emsp;The Attorney General shall establish, by regulation, standards for the protection of the confidential or privileged communications, information, and sources described in this section.
 
 (Pub. L. 101–379, §10, Aug. 18, 1990, 104 Stat. 477; Pub. L. 111–211, title II, §212, July 29, 2010, 124 Stat. 2267.)
 

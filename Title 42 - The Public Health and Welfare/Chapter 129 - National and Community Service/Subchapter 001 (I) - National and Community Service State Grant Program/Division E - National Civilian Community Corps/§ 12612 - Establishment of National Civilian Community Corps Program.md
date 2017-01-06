@@ -6,7 +6,7 @@ The Corporation may establish the National Civilian Community Corps Program to c
 
 #### (b) Program components
 
-Under the National Civilian Community Corps Program authorized by subsection (a) of this section, the members of a National Civilian Community Corps shall receive training and perform service in at least one of the following two program components:
+Under the National Civilian Community Corps Program authorized by subsection (a), the members of a National Civilian Community Corps shall receive training and perform service in at least one of the following two program components:
 
 &emsp;(1) A national service program.
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 12653a of this title prior to renumbe
 
 #### Prior Provisions
 
-A prior section 12612, Pub. L. 101–610, title I, §161, Nov. 16, 1990, 104 Stat. 3157; Pub. L. 102–384, §7(a), Oct.5, 1992, 106 Stat. 1456, related to eligibility and selection procedures, prior to repeal by Pub. L. 103–82, §104(a).
+A prior section 12612, Pub. L. 101–610, title I, §161, Nov. 16, 1990, 104 Stat. 3157; Pub. L. 102–384, §7(a), Oct. 5, 1992, 106 Stat. 1456, related to eligibility and selection procedures, prior to repeal by Pub. L. 103–82, §104(a).
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Subsec. (a). Pub. L. 111–13, §1502(2), substituted "National Civilian Communi
 
 Subsec. (b). Pub. L. 111–13, §1502(3), in introductory provisions, substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" and "a National Civilian Community Corps" for "a Civilian Community Corps".
 
-Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corps in Corps housing during the periods of the members' agreed service."
+Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corpsin Corps housing during the periods of the members' agreed service."
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 

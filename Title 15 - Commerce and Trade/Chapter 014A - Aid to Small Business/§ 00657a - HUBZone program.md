@@ -18,9 +18,9 @@ There is established within the Administration a program to be carried out by th
 
 #### (A) Sole source contracts
 
-&emsp;&emsp;A contracting officer may award sole source contracts under this section to any qualified HUBZone small business concern, if—
+&emsp;&emsp;A contracting officer may award sole source contracts under this section to anyqualified HUBZone small business concern, if—
 
-&emsp;&emsp;&emsp;(i) the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonableexpectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
+&emsp;&emsp;&emsp;(i) the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonable expectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
 
 &emsp;&emsp;&emsp;(ii) the anticipated award price of the contract (including options) will not exceed—
 
@@ -82,11 +82,11 @@ There is established within the Administration a program to be carried out by th
 
 #### (3) Provision of data
 
-&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development,and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
 #### (4) Penalties
 
-&emsp;In addition to the penalties described in section 645(d) of this title, any small businessconcern that is determined by the Administrator to have misrepresented the status of that concern as a "HUBZone small business concern" for purposes of this section, shall be subject to—
+&emsp;In addition to the penalties described in section 645(d) of this title, any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a "HUBZone small business concern" for purposes of this section, shall be subject to—
 
 &emsp;&emsp;(A) section 1001 of title 18; and
 

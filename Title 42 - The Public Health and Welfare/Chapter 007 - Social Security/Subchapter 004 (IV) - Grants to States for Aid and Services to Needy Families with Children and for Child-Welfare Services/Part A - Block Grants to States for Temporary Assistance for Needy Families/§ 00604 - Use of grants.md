@@ -6,7 +6,7 @@ Subject to this part, a State to which a grant is made under section 603 of this
 
 &emsp;(1) in any manner that is reasonably calculated to accomplish the purpose of this part, including to provide low income households with assistance in meeting home heating and cooling costs; or
 
-&emsp;(2) in any manner that the State was authorized to use amounts received under part A or F of this subchapter, as such parts were in effect on September 30, 1995, or (at the option of the State) August 21, 1996.
+&emsp;(2) in any manner that the State was authorized to use amounts received under part A or F, as such parts were in effect on September 30, 1995, or (at the option of the State) August 21, 1996.
 
 #### (b) Limitation on use of grant for administrative purposes
 
@@ -36,7 +36,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (A) In general
 
-&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX of this chapter.
+&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX.
 
 #### (B) Applicable percent
 
@@ -50,7 +50,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (B) Exception relating to division A <sup>1</sup> of subchapter XX programs
 
-&emsp;&emsp;All amounts paid to a State under this part that are used to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX of this chapter shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;All amounts paid to a State under this part that are used to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (e) Authority to carry over certain amounts for benefits or services or for future contingencies
 
@@ -220,7 +220,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### References in Text
 
-Part F of this subchapter, referred to in subsec. (a)(2), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+Part F, referred to in subsec. (a)(2), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (d)(1)(B), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
@@ -284,7 +284,7 @@ Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by sections 4002(b)(1)(A), (B), (2)(V) and 4115(c)(2)(G) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -300,7 +300,7 @@ Pub. L. 105–178, title VIII, §8401(c), June 9, 1998, 112 Stat. 499, provided 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5002(b), Aug. 5, 1997, 111 Stat. 594, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5002(b), Aug. 5, 1997, 111 Stat. 594, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5503 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
@@ -378,7 +378,7 @@ Individual development account.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term 'individual development account' means a trust created or organizedin the United States exclusively for the purpose of paying the qualified expenses of an eligible individual, or enabling the eligible individual to make an emergency withdrawal, but only if the written governing instrument creating the trust contains the following requirements:
+In general.—The term 'individual development account' means a trust created or organized in the United States exclusively for the purpose of paying the qualified expenses of an eligible individual, or enabling the eligible individual to make an emergency withdrawal, but only if the written governing instrument creating the trust contains the following requirements:
 
 &emsp;&emsp;&emsp;"(i) No contribution will be accepted unless the contribution is in cash or by check.
 
@@ -390,7 +390,7 @@ In general.—The term 'individual development account' means a trust created or
 
 &emsp;&emsp;&emsp;"(v) Except as provided in clause (vi), any amount in the trust that is attributable to a deposit provided under section 410 may be paid or distributed out of the trust only for the purpose of paying the qualified expenses of the eligible individual.
 
-&emsp;&emsp;&emsp;"(vi) Any balance in the trust on the day after the date on which the individual for whose benefit the trust is established dies shall be distributed within 30 days of that date as directed by that individual to another individual development account established for the benefit of an eligible individual.
+&emsp;&emsp;&emsp;"(vi) Any balance in the trust on the day after the date on which the individual for whose benefitthe trust is established dies shall be distributed within 30 days of that date as directed by that individual to another individual development account established for the benefit of an eligible individual.
 
 &emsp;&emsp;"(B)
 
@@ -488,7 +488,7 @@ Business capitalization.—Amounts paid from an individual development account d
 
 &emsp;&emsp;&emsp;"(i)
 
-Qualified business capitalization expenses.—The term 'qualified business capitalization expenses' means qualified expenditures forthe capitalization of a qualified business pursuant to a qualified plan.
+Qualified business capitalization expenses.—The term 'qualified business capitalization expenses' means qualified expenditures for the capitalization of a qualified business pursuant to a qualified plan.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -526,7 +526,7 @@ Secretary.—The term 'Secretary' means the Secretary of Health and Human Servic
 
 &emsp;"(11)
 
-Tribal government.—The term 'tribal government' means a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) or a Native Hawaiian organization, as defined in section 6207 of the Native Hawaiian Education Act \[20 U.S.C. 7517\].
+Tribal government.—The term 'tribal government' means a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\] or a Native Hawaiian organization, as defined in section 6207 of the Native Hawaiian Education Act \[20 U.S.C. 7517\].
 
 #### "SEC. 405. APPLICATIONS.
 
@@ -600,7 +600,7 @@ Demonstration Authority.—If the Secretary approves an application to conduct a
 
 "(b)
 
-Grant Authority.—For each project year of a demonstration project conducted under this title, the Secretary may make a grant to the qualified entity authorized to conduct the project. In making such a grant, the Secretary shall make the grant on the firstday of the project year in an amount not to exceed the lesser of—
+Grant Authority.—For each project year of a demonstration project conducted under this title, the Secretary may make a grant to the qualified entity authorized to conduct the project. In making such a grant, the Secretary shall make the grant on the first day of the project year in an amount not to exceed the lesser of—
 
 &emsp;"(1) the aggregate amount of funds committed as matching contributions from non-Federal public or private sector sources; or
 

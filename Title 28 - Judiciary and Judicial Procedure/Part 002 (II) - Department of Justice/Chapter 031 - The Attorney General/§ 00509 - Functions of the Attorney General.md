@@ -44,6 +44,10 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 
 Pub. L. 98–473, title II, §235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–325, §1, Dec. 16, 2016, 130 Stat. 1965, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016'."
+
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
@@ -54,7 +58,7 @@ For assignment of certain emergency preparedness functions to the Attorney Gener
 
 #### Unsolved Civil Rights Crimes
 
-Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, provided that:
+Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325, §2, Dec. 16, 2016, 130 Stat. 1965, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -64,9 +68,21 @@ Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, provided that:
 
 "It is the sense of Congress that all authorities with jurisdiction, including the Federal Bureau of Investigation and other entities within the Department of Justice, should—
 
-&emsp;"(1) expeditiously investigate unsolved civil rights murders, due to the amount of time that has passed since the murders and the age of potential witnesses; and
+&emsp;"(1) expeditiously investigate unsolved civil rights murders, due to the amount of time that has passed since the murders and the age of potential witnesses;
 
-&emsp;"(2) provide all the resources necessary to ensure timely and thorough investigations in the cases involved.
+&emsp;"(2) provide all the resources necessary to ensure timely and thorough investigations in the cases involved;
+
+&emsp;"(3) meet regularly with eligible entities to coordinate the sharing of information and to discuss the status of the Department's work under this Act;
+
+&emsp;"(4) support the full accounting of all victims whose deaths or disappearances were the result of racially motivated crimes;
+
+&emsp;"(5) hold accountable under Federal and State law all individuals who were perpetrators of, or accomplices in, unsolved civil rights murders and such disappearances;
+
+&emsp;"(6) express the condolences of the authority to the communities affected by unsolved civil rights murders, and to the families of the victims of such murders and such disappearances;
+
+&emsp;"(7) keep families regularly informed about the status of the investigations of such murders and such disappearances of their loved ones; and
+
+&emsp;"(8) expeditiously comply with requests for information received pursuant to section 552 of title 5, United States Code, (commonly known as the 'Freedom of Information Act') and develop a singular, publicly accessible repository of these disclosed documents.
 
 #### "SEC. 3. DEPUTY CHIEF OF THE CRIMINAL SECTION OF THE CIVIL RIGHTS DIVISION.
 
@@ -80,11 +96,27 @@ Responsibility.—
 
 &emsp;"(1)
 
-In general.—The Deputy Chief shall be responsible for coordinating the investigation and prosecution of violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
+In general.—The Deputy Chief shall be responsible for coordinating the investigation and prosecution of violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death.
 
 &emsp;"(2)
 
-Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials.
+Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials, and eligible entities.
+
+&emsp;"(3)
+
+Review of closed cases.—The Deputy Chief may, to the extent practicable, reopen and review any case involving a violation described in paragraph (1) that was closed prior to the date of the enactment of the Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016 \[Dec. 16, 2016\] without an in-person investigation or review conducted by an officer or employee of the Criminal Section of the Civil Rights Division of the Department of Justice or by an agent of the Federal Bureau of Investigation.
+
+&emsp;"(4)
+
+Public engagement.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Department shall hold meetings with representatives of the Civil Rights Division, Federal Bureau of Investigation, the Community Relations Service, eligible entities, and where appropriate, state and local law enforcement to discuss the status of the Department's work under this Act.
+
+&emsp;&emsp;"(B)
+
+Authorization of appropriations.—In addition to amounts made available to carry out this Act under section 6, there is authorized to be appropriated to the Attorney General $1,500,000 for fiscal year 2017 and each of the next 10 subsequent fiscal years to carry out this paragraph.
 
 "(c)
 
@@ -94,23 +126,25 @@ Study and Report.—
 
 Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
 
-&emsp;&emsp;"(A) the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1969;
+&emsp;&emsp;"(A) the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1979;
 
 &emsp;&emsp;"(B) the number of new cases opened pursuant to this Act since the previous year's study;
 
 &emsp;&emsp;"(C) the number of unsealed Federal cases charged within the study period, including the case names, the jurisdiction in which the charges were brought, and the date the charges were filed;
 
-&emsp;&emsp;"(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges beingfiled, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
+&emsp;&emsp;"(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges being filed, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
 
 &emsp;&emsp;"(E) the number of cases within the study period that were closed without Federal prosecution, the case names of unsealed Federal cases, the dates the cases were closed, and the relevant federal statutes;
 
-&emsp;&emsp;"(F) the number of attorneys who worked, in whole or in part, on any case described in subsection (b)(1); and
+&emsp;&emsp;"(F) the number of attorneys who worked, in whole or in part, on any case described in subsection (b)(1);
 
-&emsp;&emsp;"(G) the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended.
+&emsp;&emsp;"(G) the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended; and
+
+&emsp;&emsp;"(H) the number of cases referred by an eligible entity or a State or local law enforcement agency or prosecutor to the Department within the study period, the number of such cases that resulted in Federal charges being filed, the date the charges were filed, and if the Department declines to prosecute or participate in an investigation of a case so referred, the fact that it did so, and the outreach, collaboration, and support for investigations and prosecutions of violations of criminal civil rights statutes described in section 2(3), including murders and including disappearances described in section 2(4), within Federal, State, and local jurisdictions.
 
 &emsp;"(2)
 
-Report.—Not later than 6 months after the date of enactment of this Act \[Oct. 7, 2008\], and each year thereafter, the Attorney General shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1).
+Report.—Not later than 6 months after the date of enactment of this Act \[Oct. 7, 2008\], and each year thereafter, the Attorney General shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1) and a description of the activities conducted under subsection (b)(3).
 
 #### "SEC. 4. SUPERVISORY SPECIAL AGENT IN THE CIVIL RIGHTS UNIT OF THE FEDERAL BUREAU OF INVESTIGATION.
 
@@ -124,55 +158,61 @@ Responsibility.—
 
 &emsp;"(1)
 
-In general.—The Supervisory Special Agent shall be responsible for investigating violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
+In general.—The Supervisory Special Agent shall be responsible for investigating violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death.
 
 &emsp;"(2)
 
-Coordination.—In investigating a complaint under paragraph (1), the Supervisory Special Agent may coordinate the investigative activities with State and local law enforcement officials.
+Coordination.—In investigating a complaint under paragraph (1), the Supervisory Special Agent may coordinate the investigative activities with State and local law enforcement officials, and eligible entities.
 
 #### "SEC. 5. GRANTS TO STATE AND LOCAL LAW ENFORCEMENT.
 
 "(a)
 
-In General.—The Attorney General may award grants to State or local law enforcement agencies for expenses associated with the investigation and prosecution by them of criminal offenses, involving civil rights, that occurred not later than December 31, 1969, and resulted in a death.
+In General.—The Attorney General may award grants to State or local law enforcement agencies for expenses associated with the investigation and prosecution by them of criminal offenses, involving civil rights, that occurred not later than December 31, 1979, and resulted in a death.
 
 "(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated $2,000,000 for each of the fiscal years 2008 through 2017 to carry out this section.
+Authorization of Appropriations.—There are authorized to be appropriated $2,000,000 for fiscal year 2017 and each of the 10 subsequent fiscal years to carry out this section.
 
 #### "SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
 
 "(a)
 
-In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2017 for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
+In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for fiscal year 2017 and each of the 10 subsequent fiscal years for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
 
 "(b)
 
-Community Relations Service of the Department of Justice.—In addition to any amounts authorized to be appropriated under title XI of the Civil Rights Act of 1964 (42 U.S.C. 2000h et seq.), there are authorized to be appropriated to the Community Relations Service of the Department of Justice $1,500,000 for fiscal year 2008 and each subsequent fiscal year, to enable the Service (in carrying out the functions described in title X of such Act (42 U.S.C. 2000g et seq.)) to provide technical assistance by bringing together law enforcement agencies and communities in the investigation of violations of criminal civil rights statutes, in cases described in section 4(b).
+Community Relations Service of the Department of Justice.—Using funds appropriated under section 3(b)(4)(B), the Community Relations Service of the Department of Justice shall provide technical assistance by bringing together law enforcement agencies and communities to address tensions raised by Civil Rights era crimes.
 
-#### "SEC. 7. DEFINITION OF 'CRIMINAL CIVIL RIGHTS STATUTES'.
+#### "SEC. 7. DEFINITIONS.
 
-"In this Act, the term 'criminal civil rights statutes' means—
+"In this Act:
 
-&emsp;"(1) section 241 of title 18, United States Code (relating to conspiracy against rights);
+&emsp;"(1)
 
-&emsp;"(2) section 242 of title 18, United States Code (relating to deprivation of rights under color of law);
+Criminal civil rights statutes.—The term 'criminal civil rights statutes' means—
 
-&emsp;"(3) section 245 of title 18, United States Code (relating to federally protected activities);
+&emsp;&emsp;"(A) section 241 of title 18, United States Code (relating to conspiracy against rights);
 
-&emsp;"(4) sections 1581 and 1584 of title 18, United States Code (relating to involuntary servitude and peonage);
+&emsp;&emsp;"(B) section 242 of title 18, United States Code (relating to deprivation of rights under color of law);
 
-&emsp;"(5) section 901 of the Fair Housing Act (42 U.S.C. 3631); and
+&emsp;&emsp;"(C) section 245 of title 18, United States Code (relating to federally protected activities);
 
-&emsp;"(6) any other Federal law that—
+&emsp;&emsp;"(D) sections 1581 and 1584 of title 18, United States Code (relating to involuntary servitude and peonage);
 
-&emsp;&emsp;"(A) was in effect on or before December 31, 1969; and
+&emsp;&emsp;"(E) section 901 of the Fair Housing Act (42 U.S.C. 3631); and
 
-&emsp;&emsp;"(B) the Criminal Section of the Civil Rights Division of the Department of Justice enforced, before the date of enactment of this Act \[Oct. 7, 2008\].
+&emsp;&emsp;"(F) any other Federal law that—
 
-#### "SEC. 8. SUNSET.
+&emsp;&emsp;&emsp;"(i) was in effect on or before December 31, 1969; and
 
-"Sections 2 through 6 of this Act shall cease to have effect at the end of fiscal year 2017.
+&emsp;&emsp;&emsp;"(ii) the Criminal Section of the Civil Rights Division of the Department of Justice enforced, before the date of enactment of this Act \[Oct. 7, 2008\].
+
+&emsp;"(2)
+
+Eligible entity.—The term 'eligible entity' means an organization whose primary purpose is to promote civil rights, an institution of higher education, or another entity, determined by the Attorney General to be appropriate.
+
+#### "\[SEC. 8. Repealed. Pub. L. 114–325, §2(7), Dec. 16, 2016, 130 Stat. 1967.\]
 
 #### "SEC. 9. AUTHORITY OF INSPECTORS GENERAL.
 
@@ -256,7 +296,7 @@ Annual Report.—The privacy official shall submit a report to the Committees on
 
 #### Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism
 
-Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that: "Not less often than once every 12 months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
+Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that: "Not less often than once every 12months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
 
 &emsp;"(1) specify the number of persons or residents so detained; and
 
@@ -300,7 +340,7 @@ Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, provided that
 
 "(a)
 
-In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and providesupport to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
+In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
 
 &emsp;"(1) to provide forensic examinations with respect to seized or intercepted computer evidence relating to criminal activity (including cyberterrorism);
 
@@ -414,7 +454,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $25,0
 
 #### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009-22, provided that: "Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate\(including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement."
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: "Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement."
 
 #### Overseas Law Enforcement Training Activities
 
@@ -516,7 +556,7 @@ Duties.—This senior interagency group shall enhance interagency coordination a
 
 #### Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration
 
-Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681-67, provided that: "Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business."
+Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: "Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business."
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
@@ -538,7 +578,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;"(2) shall expire on December 31, 2004.
 
-"(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority."
+"(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the FederalGovernment to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority."
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -618,7 +658,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 &emsp;"(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
-"(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the Organized Crime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
+"(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the OrganizedCrime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
 
 "(d)
 
@@ -704,7 +744,7 @@ Pub. L. 94–503, title II, §201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 
 "(3) The provisions of sections 7512 and 7701 of title 5, United States Code, and otherwise applicable Executive orders, shall not apply with respect to actions taken by the Administrator under paragraph (1) or any reduction in rank or pay (under paragraph (2) or otherwise) of any individual in a position described in subsection (a).
 
-"(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies."
+"(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basicpay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies."
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -738,7 +778,7 @@ There are hereby transferred to the Attorney General:
 
 (a) \[Repealed. Reorg. Plan No. 2 of 1973, §3, 38 F.R. 15932, 87 Stat. 1091, eff. July 1, 1973. Subsection established the Bureau of Narcotics and Dangerous Drugs in the Department of Justice and provided that it be headed by a Director appointed by the Attorney General.\]
 
-(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate nowor hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
+(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -776,7 +816,7 @@ This separation of responsibilities—despite the relentless and dedicated effor
 
 For example, more than nine out of ten seizures of LSD made by the Bureau of Drug Abuse Control have also turned up marihuana—but that Bureau has no jurisdiction over marihuana.
 
-In many instances, we are confronted by well organized disciplined and resourceful criminals who reap huge profits at the expense of their unfortunate victims.
+In many instances, we are confronted by well organized disciplined and resourceful criminals who reaphuge profits at the expense of their unfortunate victims.
 
 The response of the Federal Government must be unified. And it must be total.
 
@@ -902,7 +942,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
-More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. TheTreasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -938,7 +978,7 @@ The major responsibility of the Drug Enforcement Administration would thus inclu
 
 &emsp;—regulation of the legal manufacture of drugs and other controlled substances under Federal regulations.
 
-The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution and sentencing of drug traffickers following their apprehension by the enforcement organization. He would alsohave the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
+The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution and sentencing of drug traffickers following their apprehension by the enforcement organization. He would also have the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
 
 My proposals would make possible a more effective antidrug role for the FBI, especially in dealing with the relationship between drug trafficking and organized crime. I intend to see that the resources of the FBI are fully committed to assist in supporting the new Drug Enforcement Administration.
 
@@ -954,7 +994,7 @@ No heroin or cocaine is produced within the United States; domestic availability
 
 At the present time, however, Federal responsibility for conducting port-of-entry inspections is awkwardly divided among several Cabinet departments. The principal agencies involved are the Treasury Department's Bureau of Customs, which inspects goods, and the Justice Department's Immigration and Naturalization Service, which inspects persons and their papers. The two utilize separate inspection procedures, hold differing views of inspection priorities, and employ dissimilar personnel management practices.
 
-To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested in Justice Department officials to inspect persons, or the documents of persons.
+To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested inJustice Department officials to inspect persons, or the documents of persons.
 
 When the plan takes effect, it is my intention to direct the Secretary of the Treasury to use the resources so transferred—including some 1,000 employees of the Immigration and Naturalization Service—to augment the staff and budget of the Bureau of Customs. The Bureau's primary responsibilities would then include:
 
@@ -1104,7 +1144,7 @@ Automated Legal Research and Information Systems
 
 Responsibilities of the Agencies
 
-1–701. Each agency shall (a) review the management and operation of its legal activities and report in oneyear to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
+1–701. Each agency shall (a) review the management and operation of its legal activities and report in one year to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
 
 1–702. To the extent permitted by law, each agency shall furnish the Federal Legal Council and the Attorney General with reports, information and assistance as requested to carry out the provisions of this Order.
 
@@ -1166,7 +1206,7 @@ Sec. 2. <i>Establishment of the Identity Theft Task Force.</i>
 
 (xi) such other officers of the United States as the Attorney General may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
 
-(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
+(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairmanmay also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
 
 (d) A member of the Task Force, including the Chairman and Co-Chairman, may designate, to perform the Task Force or Task Force subgroup functions of the member, any person who is a part of the member's department, agency, or instrumentality and who has high-level policy or operational duties or responsibilities related to the mission of the Task Force.
 
@@ -1264,7 +1304,7 @@ Sec. 2. <i>Membership and Operation</i>. The Task Force shall be chaired by the 
 
 (y) such other executive branch departments, agencies, or offices as the President may, from time to time, designate or that the Attorney General may invite.
 
-The Attorney General shall convene and, through the Deputy Attorney General, direct the work of the Task Force in fulfilling all its functions under this order. The Attorney General shall convene the first meeting of the Task Force within 30 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate. At the direction of the Attorney General, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, including but not limited to a Steering Committee chaired by the Deputy Attorney General, and subcommittees addressing enforcement efforts, training and information sharing, and victims' rights, as the Attorney General deems appropriate.
+The Attorney General shall convene and, through the Deputy Attorney General, direct the work of the Task Force in fulfilling all its functions under this order. The Attorney General shall convene the first meeting of the Task Force within 30 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate. At the direction of the Attorney General, the Task Force may establishsubgroups consisting exclusively of Task Force members or their designees under this section, including but not limited to a Steering Committee chaired by the Deputy Attorney General, and subcommittees addressing enforcement efforts, training and information sharing, and victims' rights, as the Attorney General deems appropriate.
 
 Sec. 3. <i>Mission and Functions</i>. Consistent with the authorities assigned to the Attorney General by law, and other applicable law, the Task Force shall:
 

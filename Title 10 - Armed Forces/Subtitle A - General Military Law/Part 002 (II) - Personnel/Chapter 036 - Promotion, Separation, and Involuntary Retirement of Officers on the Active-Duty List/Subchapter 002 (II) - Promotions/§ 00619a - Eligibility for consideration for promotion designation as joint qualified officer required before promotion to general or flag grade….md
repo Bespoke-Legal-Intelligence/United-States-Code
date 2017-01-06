@@ -56,7 +56,7 @@ Subsec. (a). Pub. L. 110–417, §521(a)(1), substituted "unless the officer has
 
 &emsp;"(2) for appointments after September 30, 2008, the officer has been selected for the joint specialty".
 
-Subsec. (b). Pub. L. 110–417, §521(a)(2)(A), substituted "subsection (a)" for "paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a)," in introductory provisions.
+Subsec. (b). Pub. L. 110–417, §521(a)(2)(A), substituted "subsection (a)" for "paragraph (1) or paragraph (2) ofsubsection (a), or both paragraphs (1) and (2) of subsection (a)," in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 110–417, §521(a)(2)(B), substituted "is not less than two years and the officer has successfully completed a program of education described in subsections (b) and (c) of section 2155 of this title" for "within that immediate organization is not less than two years".
 

@@ -40,7 +40,7 @@
 
 &emsp;(C) If an individual resumes or begins attendance for purposes of subparagraph (B), the obligation of the individual under the agreement under paragraph (1) shall be considered to have been suspended for the period in which the individual was not in attendance.
 
-&emsp;(D) This paragraph may not be construed as authorizing the waiver or suspension of the obligation of a student to repay, in accordancewith section 292r of this title, loans from student loan funds under section 292q of this title.
+&emsp;(D) This paragraph may not be construed as authorizing the waiver or suspension of the obligation of a student to repay, in accordance with section 292r of this title, loans from student loan funds under section 292q of this title.
 
 #### (b) Requirements for schools
 
@@ -50,7 +50,7 @@
 
 #### (2) Description of conditions
 
-&emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as "designated graduates"), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
+&emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as"designated graduates"), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
 
 &emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion of either being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
 
@@ -98,9 +98,9 @@ For purposes of this section:
 
 &emsp;(1) The term "exempt contributions" means exempt Federal capital contributions and exempt school contributions.
 
-&emsp;(2) The term "exempt Federal capital contribution" means a Federal capital contribution described in subclause (I) of subsection (a)(2)(A)(ii) of this section.
+&emsp;(2) The term "exempt Federal capital contribution" means a Federal capital contribution described in subclause (I) of subsection (a)(2)(A)(ii).
 
-&emsp;(3) The term "exempt school contribution" means a school contribution described in subclause (II) of subsection (a)(2)(A)(ii) of this section.
+&emsp;(3) The term "exempt school contribution" means a school contribution described in subclause (II) of subsection (a)(2)(A)(ii).
 
 &emsp;(4) The term "income", with respect to a student fund under section 292q of this title, means payments of principal and interest on any loan made from the fund, and any other earnings of the fund.
 

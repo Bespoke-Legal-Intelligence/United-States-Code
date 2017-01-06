@@ -16,7 +16,7 @@
 
 #### (2) Volume
 
-&emsp;In evaluating the likely volume of imports of the subject merchandise if the order is revoked or the suspended investigation is terminated, the Commission shall consider whether the likely volume of imports of the subject merchandise would be significant if the order is revoked or the suspended investigation is terminated, either in absolute terms or relative to production or consumption in the United States. In so doing, the Commission shall consider all relevant economic factors, including—
+&emsp;In evaluating the likely volume of imports of the subject merchandise if the order is revoked or the suspended investigation is terminated, the Commission shall consider whether the likely volume of imports of the subject merchandise would be significant if the order is revoked or the suspended investigation isterminated, either in absolute terms or relative to production or consumption in the United States. In so doing, the Commission shall consider all relevant economic factors, including—
 
 &emsp;&emsp;(A) any likely increase in production capacity or existing unused production capacity in the exporting country,
 

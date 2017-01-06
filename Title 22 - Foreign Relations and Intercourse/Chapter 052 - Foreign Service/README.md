@@ -20,6 +20,7 @@
 | [3922\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003922%20-%20Utilization%20of%20Foreign%20Service%20personnel%20system%20by%20other%20agencies.md) | Utilization of Foreign Service personnel system by other agencies. |
 | [3922a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003922a%20-%20Representation%20of%20minorities%20and%20women%20in%20Foreign%20Service.md) | Representation of minorities and women in Foreign Service. |
 | [3922b.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003922b%20-%20Public%20diplomacy%20training.md) | Public diplomacy training. |
+| [3922c.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003922c%20-%20Integration%20of%20foreign%20economic%20policy.md) | Integration of foreign economic policy. |
 | [3923\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003923%20-%20Compatibility%20among%20agencies%20utilizing%20Foreign%20Service%20personnel%20system.md) | Compatibility among agencies utilizing Foreign Service personnel system. |
 | [3924\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003924%20-%20Uniform%20and%20consolidated%20administration%20of%20Service.md) | Uniform and consolidated administration of Service. |
 | [3925\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003925%20-%20Compatibility%20between%20Foreign%20Service%20and%20other%20Government%20personnel%20systems.md) | Compatibility between Foreign Service and other Government personnel systems. |
@@ -65,6 +66,7 @@
 | [3966\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003966%20-%20Within-class%20salary%20increases.md) | Within-class salary increases. |
 | [3967\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003967%20-%20Salaries%20for%20Foreign%20Service%20personnel%20abroad%20who%20perform%20routine%20duties.md) | Salaries for Foreign Service personnel abroad who perform routine duties. |
 | [3968\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003968%20-%20Local%20compensation%20plans.md) | Local compensation plans. |
+| [3968a.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003968a%20-%20Locally-employed%20staff%20wages.md) | Locally-employed staff wages. |
 | [3969\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003969%20-%20Salaries%20of%20consular%20agents.md) | Salaries of consular agents. |
 | [3970\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003970%20-%20Compensation%20for%20imprisoned%20foreign%20national%20employees.md) | Compensation for imprisoned foreign national employees. |
 | [3971\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003971%20-%20Temporary%20service%20as%20principal%20officer.md) | Temporary service as principal officer. |
@@ -101,7 +103,7 @@
 | [4007\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004007%20-%20Retirement%20for%20expiration%20of%20time%20in%20class.md) | Retirement for expiration of time in class. |
 | [4008\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004008%20-%20Retirement%20based%20on%20failure%20to%20meet%20standard%20of%20performance.md) | Retirement based on failure to meet standard of performance. |
 | [4009\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004009%20-%20Retirement%20benefits.md) | Retirement benefits. |
-| [4010\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004010%20-%20Separation%20for%20cause.md) | Separation for cause. |
+| [4010\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004010%20-%20Separation%20for%20cause%3B%20suspension.md) | Separation for cause; suspension. |
 | [4010a.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004010a%20-%20Reductions%20in%20force.md) | Reductions in force. |
 | [4011\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004011%20-%20Termination%20of%20limited%20appointments.md) | Termination of limited appointments. |
 | [4012\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004012%20-%20Termination%20of%20appointments%20of%20consular%20agents%20and%20foreign%20national%20employees.md) | Termination of appointments of consular agents and foreign national employees. |

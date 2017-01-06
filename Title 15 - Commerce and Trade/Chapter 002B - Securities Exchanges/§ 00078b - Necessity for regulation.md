@@ -142,7 +142,7 @@ Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasu
 
 Ex. Ord. No. 12631, Mar. 18, 1988, 53 F.R. 9421, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States ofAmerica, and in order to establish a Working Group on Financial Markets, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and in order to establish a Working Group on Financial Markets, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. (a) There is hereby established a Working Group on Financial Markets (Working Group). The Working Group shall be composed of:
 

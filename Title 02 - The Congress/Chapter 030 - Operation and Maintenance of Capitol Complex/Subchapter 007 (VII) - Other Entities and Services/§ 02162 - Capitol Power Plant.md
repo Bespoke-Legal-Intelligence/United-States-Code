@@ -64,7 +64,7 @@ Section is based on act Mar. 4, 1911, popularly known as the "Sundry Civil Appro
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–140 added text of section and struck out former text which read as follows: "The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904, shall be known as the 'Capitol power plant'; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 2001 of this title."
+<b>2007</b>—Pub. L. 110–140 added text of section and struck out former text which read as follows: "The heating, lighting, and power plant constructed under the termsof the Act approved April 28, 1904, shall be known as the 'Capitol power plant'; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under section 2001 of this title."
 
 #### Change of Name
 

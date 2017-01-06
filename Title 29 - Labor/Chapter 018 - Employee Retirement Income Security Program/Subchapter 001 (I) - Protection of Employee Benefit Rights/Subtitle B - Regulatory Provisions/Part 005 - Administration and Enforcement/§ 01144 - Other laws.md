@@ -14,17 +14,17 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (3) Nothing in this section shall be construed to prohibit use by the Secretary of services or facilities of a State agency as permitted under section 1136 of this title.
 
-(4) Subsection (a) of this section shall not apply to any generally applicable criminal law of a State.
+(4) Subsection (a) shall not apply to any generally applicable criminal law of a State.
 
-(5)(A) Except as provided in subparagraph (B), subsection (a) of this section shall not apply to the Hawaii Prepaid Health Care Act (Haw. Rev. Stat. §§393–1 through 393–51).
+(5)(A) Except as provided in subparagraph (B), subsection (a) shall not apply to the Hawaii Prepaid Health Care Act (Haw. Rev. Stat. §§393–1 through 393–51).
 
-(B) Nothing in subparagraph (A) shall be construed to exempt from subsection (a) of this section—
+(B) Nothing in subparagraph (A) shall be construed to exempt from subsection (a)—
 
 &emsp;(i) any State tax law relating to employee benefit plans, or
 
 &emsp;(ii) any amendment of the Hawaii Prepaid Health Care Act enacted after September 2, 1974, to the extent it provides for more than the effective administration of such Act as in effect on such date.
 
-(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sectionsof this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
+(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
 
 (6)(A) Notwithstanding any other provision of this section—
 
@@ -42,7 +42,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (D) For purposes of this paragraph, a multiple employer welfare arrangement shall be considered fully insured only if the terms of the arrangement provide for benefits the amount of all of which the Secretary determines are guaranteed under a contract, or policy of insurance, issued by an insurance company, insurance service, or insurance organization, qualified to conduct business in a State.
 
-(7) Subsection (a) of this section shall not apply to qualified domestic relations orders (within the meaning of section 1056(d)(3)(B)(i) of this title), qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent they apply to qualified medical child support orders.
+(7) Subsection (a) shall not apply to qualified domestic relations orders (within the meaning of section 1056(d)(3)(B)(i) of this title), qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent they apply to qualified medical child support orders.
 
 (8) Subsection (a) of this section shall not be construed to preclude any State cause of action—
 
@@ -72,7 +72,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 &emsp;(A) under which a participant may elect to have the plan sponsor make payments as contributions under the plan on behalf of the participant, or to the participant directly in cash,
 
-&emsp;(B) under which a participant is treated as having elected to have the plan sponsor make such contributions in an amount equal to a uniform percentage of compensation providedunder the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
+&emsp;(B) under which a participant is treated as having elected to have the plan sponsor make such contributions in an amount equal to a uniform percentage of compensation provided under the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
 
 &emsp;(C) under which such contributions are invested in accordance with regulations prescribed by the Secretary under section 1104(c)(5) of this title.
 
@@ -90,7 +90,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 &emsp;(iii) the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
 
-(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668; Pub. L. 109–280, title IX, §902(f)(1), Aug. 17, 2006, 120 Stat. 1039.)
+(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan.14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668; Pub. L. 109–280, title IX, §902(f)(1), Aug. 17, 2006, 120 Stat. 1039.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Pub. L. 99–272, title IX, §9503(d)(2), Apr. 7, 1986, 100 Stat. 207, provided 
 
 &emsp;"(ii) the earlier of—
 
-&emsp;&emsp;"(I) the date on which the last of the collective bargaining agreements under which the plan is maintained, which were in effect on the date of the enactment of this Act, terminates (determinedwithout regard to any extension thereof agreed to after the date of the enactment of this Act); or
+&emsp;&emsp;"(I) the date on which the last of the collective bargaining agreements under which the plan is maintained, which were in effect on the date of the enactment of this Act, terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act); or
 
 &emsp;&emsp;"(II) three years after the date of the enactment of this Act."
 

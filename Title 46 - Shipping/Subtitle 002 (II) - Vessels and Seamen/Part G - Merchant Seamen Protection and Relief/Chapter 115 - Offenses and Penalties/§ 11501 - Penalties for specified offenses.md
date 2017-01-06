@@ -16,7 +16,7 @@ When a seaman lawfully engaged commits any of the following offenses, the seaman
 
 &emsp;(7) For willfully damaging the vessel, or embezzling or willfully damaging any of the stores or cargo, the seaman forfeits from the seaman's wages the amount of the loss sustained and, at the discretion of the court, may be imprisoned for not more than 12 months.
 
-&emsp;(8) For smuggling for which a seaman is convicted causing loss or damage to the owner or master, the seaman is liable to the owner or master for the loss or damage, and any part of the seaman's wages may be retained to satisfy the liability. The seaman also may be imprisoned for not more than 12 months.
+&emsp;(8) For smuggling for which a seaman is convicted causing loss or damage to the owner or master, the seaman is liable to the owner or master for the loss or damage, and any part of the seaman's wages may be retained to satisfythe liability. The seaman also may be imprisoned for not more than 12 months.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 582.)
 

@@ -58,7 +58,7 @@ This section \[section 16\] clarifies the wording of section 704 of title 18, U.
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–12, §2(a)(1), struck out "wears," after "Whoever knowingly".
 
-Subsec. (b). Pub. L. 113–12, §2(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Whoever falsely represents himself or herself, verbally or in writing, to have been awarded any decoration or medal authorized by Congress for the Armed Forces of the United States, any of the service medals or badges awarded to the members of such forces, the ribbon, button, or rosette of any such badge, decoration, or medal, or any colorable imitation of such item shall be fined under this title, imprisoned not more than six months, or both."
+Subsec. (b). Pub. L. 113–12, §2(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Whoever falsely represents himself or herself, verbally or in writing, to have been awarded any decoration ormedal authorized by Congress for the Armed Forces of the United States, any of the service medals or badges awarded to the members of such forces, the ribbon, button, or rosette of any such badge, decoration, or medal, or any colorable imitation of such item shall be fined under this title, imprisoned not more than six months, or both."
 
 Subsec. (c)(1). Pub. L. 113–12, §2(c), struck out "or (b)" after "subsection (a)".
 

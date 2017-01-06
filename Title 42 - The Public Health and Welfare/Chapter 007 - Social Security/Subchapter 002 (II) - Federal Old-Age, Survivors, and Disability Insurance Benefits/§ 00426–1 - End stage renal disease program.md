@@ -2,11 +2,11 @@
 
 #### (a) Entitlement to benefits
 
-Notwithstanding any provision to the contrary in section 426 of this title or subchapter XVIII of this chapter, every individual who—
+Notwithstanding any provision to the contrary in section 426 of this title or subchapter XVIII, every individual who—
 
 &emsp;(1)(A) is fully or currently insured (as such terms are defined in section 414 of this title), or would be fully or currently insured if (i) his service as an employee (as defined in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) after December 31, 1936, were included within the meaning of the term "employment" for purposes of this subchapter, and (ii) his medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term "employment" for purposes of this subchapter;
 
-&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaningof the term "employment" for purposes of this subchapter; or
+&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term "employment" for purposes of this subchapter; or
 
 &emsp;(C) is the spouse or dependent child (as defined in regulations) of an individual described in subparagraph (A) or (B);
 
@@ -14,11 +14,11 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 &emsp;(3) has filed an application for benefits under this section;
 
-> shall, in accordance with the succeeding provisions of this section, be entitled to benefits under part A and eligible to enroll under part B of subchapter XVIII of this chapter, subject to the deductible, premium, and coinsurance provisions of that subchapter.
+> shall, in accordance with the succeeding provisions of this section, be entitled to benefitsunder part A and eligible to enroll under part B of subchapter XVIII, subject to the deductible, premium, and coinsurance provisions of that subchapter.
 
 #### (b) Duration of period of entitlement
 
-Subject to subsection (c) of this section, entitlement of an individual to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter by reasons of this section on the basis of end stage renal disease—
+Subject to subsection (c), entitlement of an individual to benefits under part A and eligibility to enroll under part B of subchapter XVIII by reasons of this section on the basis of end stage renal disease—
 
 &emsp;(1) shall begin with—
 
@@ -32,13 +32,13 @@ Subject to subsection (c) of this section, entitlement of an individual to benef
 
 #### (c) Individuals participating in self-care dialysis training programs; kidney transplant failures; resumption of previously terminated regular course of dialysis
 
-Notwithstanding the provisions of subsection (b) of this section—
+Notwithstanding the provisions of subsection (b)—
 
-&emsp;(1) in the case of any individual who participates in a self-care dialysis training program prior to the third month after the month in which such individual initiates a regular course of renal dialysis in a renal dialysis facility or provider of services meeting the requirements of section 1395rr(b) of this title, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is initiated;
+&emsp;(1) in the case of any individual who participates in a self-care dialysis training program prior to the third month after the month in which such individual initiates a regular course of renal dialysis in a renal dialysis facility or provider of services meeting the requirements of section 1395rr(b) of this title, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such regular course of renal dialysis is initiated;
 
-&emsp;(2) in any case in which a kidney transplant fails (whether during or after the thirty-six-month period specified in subsection (b)(2) of this section) and as a result the individual who received such transplant initiates or resumes a regular course of renal dialysis, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such course is initiated or resumed; and
+&emsp;(2) in any case in which a kidney transplant fails (whether during or after the thirty-six-month period specified in subsection (b)(2)) and as a result the individual who received such transplant initiates or resumes a regular course of renal dialysis, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such course is initiated or resumed; and
 
-&emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is resumed.
+&emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such regular course of renal dialysis is resumed.
 
 (Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 114–74, title VIII, §844(b), Nov. 2, 2015, 129 Stat. 617.)
 
@@ -64,7 +64,7 @@ Subsec. (a)(1)(C), (D). Pub. L. 97–248 combined former subpars. (C) and (D) in
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 applicable with respect to benefits based on disability (as defined in section 425(c)(9) of this title) which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issueregulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(a)(3)(E)(i) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment; Sunset Provision note under section 425 of this title.
+Amendment by Pub. L. 103–296 applicable with respect to benefits based on disability (as defined in section 425(c)(9) of this title) which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(a)(3)(E)(i) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment; Sunset Provision note under section 425 of this title.
 
 #### Effective Date of 1986 Amendment
 

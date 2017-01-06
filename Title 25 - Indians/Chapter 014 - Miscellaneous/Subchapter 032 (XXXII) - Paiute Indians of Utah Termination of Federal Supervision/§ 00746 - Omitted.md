@@ -1,0 +1,6 @@
+### §746. Omitted
+
+#### Codification
+
+Section, act Sept. 1, 1954, ch. 1207, §6, 68 Stat. 1101, which related to transfer of funds or other personal property held in trust by the United States, was omitted from the Code as being of special and not general application.
+

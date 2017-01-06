@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $10,000,
 
-> &emsp;&emsp;(as estimated under section 1604 of this title) in the quarterly period described in section 1604(a) of this title during which the registration would be made is not required to register under this subsection with respect to such client.
+> &emsp;&emsp;(as estimated under section 1604 of this title) in the quarterly period described in section1604(a) of this title during which the registration would be made is not required to register under this subsection with respect to such client.
 
 #### (B) Adjustment
 
@@ -115,4 +115,8 @@ Subsec. (b)(6). Pub. L. 110–81, §208, substituted "in the 20 years before the
 #### Effective Date of 2007 Amendment
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 

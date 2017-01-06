@@ -1,0 +1,6 @@
+### §583. Omitted
+
+#### Codification
+
+Section, Pub. L. 92–206, §3, Dec. 18, 1971, 85 Stat. 737, which credited funds to the Northwestern Bands of Shoshone Indians for certain claims, was omitted from the Code as being of special and not general application.
+

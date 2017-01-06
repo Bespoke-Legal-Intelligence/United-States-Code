@@ -36,7 +36,7 @@ In the case of malt beverages, the provisions of subsections (a), (b), (c), and 
 
 The Secretary of the Treasury shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing regulations to carry out the provisions of this section.
 
-(Aug. 29, 1935, ch. 814, title I, §105, formerly §5, 49 Stat. 981; Feb. 29, 1936, ch. 105, §2, 49 Stat. 1152; June 25, 1936, ch. 804, 49 Stat. 1921; June 26, 1936, ch. 830, title V, §§505, 506, 49 Stat. 1965, 1966; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Apr. 20, 1942, ch. 244, §1(h), 56 Stat. 219; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; renumbered title I, §105, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(13)\], Nov. 29, 1999, 113 Stat. 1536, 1501A-584.)
+(Aug. 29, 1935, ch. 814, title I, §105, formerly §5, 49 Stat. 981; Feb. 29, 1936, ch. 105, §2, 49 Stat. 1152; June 25, 1936, ch. 804, 49 Stat. 1921; June 26, 1936, ch. 830, title V, §§505, 506, 49 Stat. 1965, 1966; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Apr. 20, 1942, ch. 244, §1(h), 56 Stat. 219; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; renumbered title I, §105, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(13)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Codification
 

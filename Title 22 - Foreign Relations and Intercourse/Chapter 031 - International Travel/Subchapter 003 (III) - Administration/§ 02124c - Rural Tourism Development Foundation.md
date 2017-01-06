@@ -6,7 +6,7 @@ In order to assist in the development and promotion of rural tourism, there is e
 
 #### (b) Functions
 
-The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
+The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenuesby attracting foreign visitors to rural America. Initially, such projects and programs shall include—
 
 &emsp;(1) participation in the development and distribution of educational and promotional materials pertaining to both private and public attractions located in rural areas of the United States, including Federal parks and recreational lands, which can be used by foreign visitors;
 
@@ -28,7 +28,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 
-&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at leastone shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
+&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at least one shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
 
 &emsp;(D) Voting members of the Board shall each serve a term of six years, except that—
 
@@ -62,11 +62,11 @@ No compensation shall be paid to the members of the Board for their services as 
 
 #### (2) Indians
 
-&emsp;A gift, devise, or bequest accepted by the Foundation for the benefit of or in connection with rural tourism on Indian reservations, pursuant to section 451 of title 25, shall be maintained in a separate accounting for the benefit of Indian tribes in the development of tourism on Indian reservations.
+&emsp;A gift, devise, or bequest accepted by the Foundation for the benefit of or in connection with rural tourism on Indian reservations, pursuant to section 5341 of title 25, shall be maintained in a separate accounting for the benefit of Indian tribes in the development of tourism on Indian reservations.
 
 #### (f) Investments
 
-Except as otherwise required by the instrument of transfer, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property or income thereof as the Board may from time to time determine. The Foundation shall not engage in any business, nor shall the Foundation make any investment that may not lawfully be made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer and may retain any property accepted by the Foundation.
+Except as otherwise required by the instrument of transfer, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property or income thereof as the Board may from time to time determine. The Foundation shall not engage inany business, nor shall the Foundation make any investment that may not lawfully be made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer and may retain any property accepted by the Foundation.
 
 #### (g) Perpetual succession; liability of Board members
 
@@ -88,7 +88,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (3) Construction
 
-&emsp;Neither an officer or employee hired under paragraph (1) nor an individual who providesservices under paragraph (2) shall be considered a Federal employee for any purpose other than for purposes of chapter 81 of title 5, relating to compensation for work injuries, and chapter 171 of title 28, relating to tort claims.
+&emsp;Neither an officer or employee hired under paragraph (1) nor an individual who provides services under paragraph (2) shall be considered a Federal employee for any purpose other than for purposes of chapter 81 of title 5, relating to compensation for work injuries, and chapter 171 of title 28, relating to tort claims.
 
 #### (j) Exemption from taxes; contributions
 
@@ -108,7 +108,7 @@ As used in this section—
 
 &emsp;(1) the term "Indian reservation" has the meaning given the term "reservation" in section 1452(d) of title 25;
 
-&emsp;(2) the term "Indian tribe" has the meaning given that term in section 450b(e) of title 25;
+&emsp;(2) the term "Indian tribe" has the meaning given that term in section 5304(e) of title 25;
 
 &emsp;(3) the term "local government" has the meaning given that term in section 3371(2) of title 5; and
 

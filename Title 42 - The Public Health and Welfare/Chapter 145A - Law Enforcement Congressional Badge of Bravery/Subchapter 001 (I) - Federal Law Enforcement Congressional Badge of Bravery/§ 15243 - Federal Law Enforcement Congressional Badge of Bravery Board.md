@@ -58,7 +58,7 @@ The Federal Board shall do the following:
 
 #### (4) Terms and vacancies
 
-&emsp;Each Federal Board member shall be appointed for 2 years and may be reappointed. Avacancy in the Federal Board shall not affect the powers of the Federal Board and shall be filled in the same manner as the original appointment.
+&emsp;Each Federal Board member shall be appointed for 2 years and may be reappointed. A vacancy in the Federal Board shall not affect the powers of the Federal Board and shall be filled in the same manner as the original appointment.
 
 #### (d) Operations
 

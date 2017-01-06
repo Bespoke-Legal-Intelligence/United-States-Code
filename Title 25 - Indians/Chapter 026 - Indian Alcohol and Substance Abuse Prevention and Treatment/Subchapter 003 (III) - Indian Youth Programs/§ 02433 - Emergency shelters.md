@@ -28,7 +28,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 (2) For the staffing and operation of emergency shelters and half-way houses, there are authorized to be appropriated $5,000,000 for fiscal year 1993 and $7,000,000 for each of fiscal years 2011 through 2015.
 
-(3) The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+(3) The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
 
 (4) Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
 
@@ -38,17 +38,17 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 (5) Nothing in this Act may be construed—
 
-&emsp;(A) to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
+&emsp;(A) to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
 
 &emsp;(B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII,§703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
 
 #### References in Text
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
@@ -74,7 +74,7 @@ Subsec. (e)(4), (5). Pub. L. 101–272, §1(3), added pars. (4) and (5).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
-Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read asfollows: "For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act."
+Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "half-way".</i>
 

@@ -24,17 +24,17 @@ In this section:
 
 Each head of an agency, or the heads of multiple agencies in cooperation, may carry out a program to award prizes competitively to stimulate innovation that has the potential to advance the mission of the respective agency.
 
-#### (c) Prizes
+#### (c) Prize competitions
 
-For purposes of this section, a prize may be one or more of the following:
+For purposes of this section, a prize competition may be 1 or more of the following types of activities:
 
 &emsp;(1) A point solution prize that rewards and spurs the development of solutions for a particular, well-defined problem.
 
-&emsp;(2) An exposition prize that helps identify and promote a broad range of ideas and practices that may not otherwise attract attention, facilitating further development of the idea or practice by third parties.
+&emsp;(2) An exposition prize competition that helps identify and promote a broad range of ideas and practices that may not otherwise attract attention, facilitating further development of the idea or practice by third parties.
 
-&emsp;(3) Participation prizes that create value during and after the competition by encouraging contestants to change their behavior or develop new skills that may have beneficial effects during and after the competition.
+&emsp;(3) Participation prize competitions that create value during and after the competition by encouraging contestants to change their behavior or develop new skills that may have beneficial effects during and after the competition.
 
-&emsp;(4) Such other types of prizes as each head of an agency considers appropriate to stimulate innovation that has the potential to advance the mission of the respective agency.
+&emsp;(4) Such other types of prize competitions as each head of an agency considers appropriate to stimulate innovation that has the potential to advance the mission of the respective agency.
 
 #### (d) Topics
 
@@ -46,23 +46,23 @@ The head of an agency shall widely advertise each prize competition to encourage
 
 #### (f) Requirements and registration
 
-For each prize competition, the head of an agency shall publish a notice in the Federal Register announcing—
+For each prize competition, the head of an agency shall publish a notice on a publicly accessible Government website, such as www.challenge.gov, announcing—
 
-&emsp;(1) the subject of the competition;
+&emsp;(1) the subject of the prize competition;
 
-&emsp;(2) the rules for being eligible to participate in the competition;
+&emsp;(2) the rules for being eligible to participate in the prize competition;
 
-&emsp;(3) the process for participants to register for the competition;
+&emsp;(3) the process for participants to register for the prize competition;
 
-&emsp;(4) the amount of the prize; and
+&emsp;(4) the amount of the cash prize purse or non-cash prize award; and
 
 &emsp;(5) the basis on which a winner will be selected.
 
 #### (g) Eligibility
 
-To be eligible to win a prize under this section, an individual or entity—
+To be eligible to win a cash prize purse under this section, an individual or entity—
 
-&emsp;(1) shall have registered to participate in the competition under any rules promulgated by the head of an agency under subsection (f);
+&emsp;(1) shall have registered to participate in the prize competition under any rules promulgated by the head of an agency under subsection (f);
 
 &emsp;(2) shall have complied with all the requirements under this section;
 
@@ -72,7 +72,7 @@ To be eligible to win a prize under this section, an individual or entity—
 
 #### (h) Consultation with Federal employees
 
-An individual or entity shall not be deemed ineligible under subsection (g) because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.
+An individual or entity shall not be deemed ineligible under subsection (g) because the individual or entity used Federal facilities or consulted with Federal employees during a prize competition if the facilities and employees are made available to all individuals and entities participating in the prize competition on an equitable basis.
 
 #### (i) Liability
 
@@ -84,17 +84,27 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (B) Liability
 
-&emsp;&emsp;Registered participants shall be required to agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
+&emsp;&emsp;Registered participants shall be required to agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a prize competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
 
 #### (2) Insurance
 
 &emsp;Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the head of an agency, for claims by—
 
-&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a prize competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to prize competition activities; and
 
 &emsp;&emsp;(B) the Federal Government for damage or loss to Government property resulting from such an activity.
 
-#### (3) Exception
+#### (3) Waivers
+
+#### (A) In general
+
+&emsp;&emsp;An agency may waive the requirement under paragraph (2).
+
+#### (B) List
+
+&emsp;&emsp;The Director shall include a list of all of the waivers granted under this paragraph during the preceding fiscal year, including a detailed explanation of the reason for granting the waiver.
+
+#### (4) Exception
 
 &emsp;The head of an agency may not require a participant to waive claims against the administering entity arising out of the unauthorized use or disclosure by the agency of the intellectual property, trade secrets, or confidential business information of the participant.
 
@@ -102,29 +112,29 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (1) Prohibition on the government acquiring intellectual property rights
 
-&emsp;The Federal Government may not gain an interest in intellectual property developed by a participant in a competition without the written consent of the participant.
+&emsp;The Federal Government may not gain an interest in intellectual property developed by a participant in a prize competition without the written consent of the participant.
 
 #### (2) Licenses
 
-&emsp;The Federal Government may negotiate a license for the use of intellectual property developed by a participant for a competition.
+&emsp;As appropriate and to further the goals of a prize competition, the Federal Government may negotiate a license for the use of intellectual property developed by a registered participant in a prize competition.
 
 #### (k) Judges
 
 #### (1) In general
 
-&emsp;For each competition, the head of an agency, either directly or through an agreement under subsection (l), shall appoint one or more qualified judges to select the winner or winners of the prize competition on the basis described under subsection (f). Judges for each competition may include individuals from outside the agency, including from the private sector.
+&emsp;For each prize competition, the head of an agency, either directly or through an agreement under subsection (l), shall appoint one or more qualified judges to select the winner or winners of the prize competition on the basis described under subsection (f). Judges for each prize competition may include individuals from outside the agency, including from the private sector.
 
 #### (2) Restrictions
 
 &emsp;A judge may not—
 
-&emsp;&emsp;(A) have personal or financial interests in, or be an employee, officer, director, or agent of any entity that is a registered participant in a competition; or
+&emsp;&emsp;(A) have personal or financial interests in, or be an employee, officer, director, or agent of any entity that is a registered participant in a prize competition; or
 
 &emsp;&emsp;(B) have a familial or financial relationship with an individual who is a registered participant.
 
 #### (3) Guidelines
 
-&emsp;The heads of agencies who carry out competitions under this section shall develop guidelines to ensure that the judges appointed for such competitions are fairly balanced and operate in a transparent manner.
+&emsp;The heads of agencies who carry out prize competitions under this section shall developguidelines to ensure that the judges appointed for such prize competitions are fairly balanced and operate in a transparent manner.
 
 #### (4) Exemption from FACA
 
@@ -132,65 +142,65 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (l) Administering the competition
 
-The head of an agency may enter into an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section.
+The head of an agency may enter into a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section.
 
 #### (m) Funding
 
 #### (1) In general
 
-&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.
+&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request and accept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
 
 #### (2) Availability of funds
 
-&emsp;Notwithstanding any other provision of law, funds appropriated for prize awards under thissection shall remain available until expended. No provision in this section permits obligation or payment of funds in violation of section 1341 of title 31.
+&emsp;Notwithstanding any other provision of law, funds appropriated for cash prize purses or non-cash prize awards under this section shall remain available until expended. No provision in this section permits obligation or payment of funds in violation of section 1341 of title 31.
 
 #### (3) Amount of prize
 
 #### (A) Announcement
 
-&emsp;&emsp;No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source.
+&emsp;&emsp;No prize competition may be announced under subsection (f) until all the funds needed to pay out the announced amount of the cash prize purse have been appropriated or committed in writing by a private or State, United States territory, local, or tribal government source.
 
 #### (B) Increase in amount
 
-&emsp;&emsp;The head of an agency may increase the amount of a prize after an initial announcement is made under subsection (f) only if—
+&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cash prize award after an initial announcement is made under subsection (f) only if—
 
-&emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize; and
+&emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize competition; and
 
-&emsp;&emsp;&emsp;(ii) the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by a private source.
+&emsp;&emsp;&emsp;(ii) the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by a private or State, United States territory, local, or tribal government source.
 
 #### (4) Limitation on amount
 
 #### (A) Notice to Congress
 
-&emsp;&emsp;No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives.
+&emsp;&emsp;No prize competition under this section may offer a cash prize purse or a non-cash prize award in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (B) Approval of head of agency
 
-&emsp;&emsp;No prize competition under this section may result in the award of more than $1,000,000 in cash prizes without the approval of the head of an agency.
+&emsp;&emsp;No prize competition under this section may result in the award of more than $1,000,000 in cash prize purses or non-cash prize awards without the approval of the head of an agency.
 
-#### (n) General Service <sup>1</sup> Administration assistance
+#### (n) General Services Administration assistance
 
-Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
+Not later than 180 days after January 6, 2017, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle for both for-profit and nonprofit entities and State, United States territory, local, and tribal government entities, to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
 
 #### (o) Compliance with existing law
 
 #### (1) In general
 
-&emsp;The Federal Government shall not, by virtue of offering or providing a prize under this section, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and nonproliferation laws, and related regulations.
+&emsp;The Federal Government shall not, by virtue of offering a prize competition or providing a cash prize purse or non-cash prize award under this section, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and nonproliferation laws, and related regulations.
 
 #### (2) Other prize authority
 
 &emsp;Nothing in this section affects the prize authority authorized by any other provision of law.
 
-#### (p) Annual report
+#### (p) Biennial report
 
 #### (1) In general
 
-&emsp;Not later than March 1 of each year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (b).
+&emsp;Not later than March 1 of every other year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities carried out during the preceding 2 fiscal years under the authority in subsection (b).
 
 #### (2) Information included
 
-&emsp;The report for a fiscal year under this subsection shall include, for each prize competition under subsection (b), the following:
+&emsp;A report under this subsection shall include, for each prize competition under subsection (b), the following:
 
 #### (A) Proposed goals
 
@@ -200,9 +210,9 @@ Not later than 180 days after January 4, 2011, the General Services Administrati
 
 &emsp;&emsp;An analysis of why the utilization of the authority in subsection (b) was the preferable method of achieving the goals described in subparagraph (A) as opposed to other authorities available to the agency, such as contracts, grants, and cooperative agreements.
 
-#### (C) Amount of cash prizes
+#### (C) Amount of cash prize purses or non-cash prize awards
 
-&emsp;&emsp;The total amount of cash prizes awarded for each prize competition, including a description of amount of private funds contributed to the program, the sources of such funds, and the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the agency for recording as obligations and expenditures.
+&emsp;&emsp;The total amount of cash prize purses or non-cash prize awards awarded for each prize competition, including a description of amount of private funds contributed to the program, the sources of such funds, and the manner in which the amounts of cash prize purses or non-cash prize awards awarded and claimed were allocated among the accounts of the agency for recording as obligations and expenditures.
 
 #### (D) Solicitations and evaluation of submissions
 
@@ -216,15 +226,81 @@ Not later than 180 days after January 4, 2011, the General Services Administrati
 
 &emsp;&emsp;A description of how each prize competition advanced the mission of the agency concerned.
 
-(Pub. L. 96–480, §24, as added Pub. L. 111–358, title I, §105(a), Jan. 4, 2011, 124 Stat. 3989.)
+#### (G) Plan
+
+&emsp;&emsp;A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.
+
+(Pub. L. 96–480, §24, as added Pub. L. 111–358, title I, §105(a), Jan. 4, 2011, 124 Stat. 3989; amended Pub. L. 114–329, title IV, §401(b), Jan. 6, 2017, 130 Stat. 3016.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Change of Name
+#### Amendments
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+<b>2017</b>—Subsec. (c). Pub. L. 114–329, §401(b)(1)(A), (B), substituted "Prize competitions" for "Prizes" in heading and "prize competition may be 1 or more of the following types of activities" for "prize may be one or more of the following" in introductory provisions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "Services".</i>
+Subsec. (c)(2). Pub. L. 114–329, §401(b)(1)(C), inserted "competition" after "prize".
+
+Subsec. (c)(3), (4). Pub. L. 114–329, §401(b)(1)(D), substituted "prize competitions" for "prizes".
+
+Subsec. (f). Pub. L. 114–329, §401(b)(2)(A), substituted "on a publicly accessible Government website, such as www.challenge.gov," for "in the Federal Register" in introductory provisions.
+
+Subsec. (f)(1) to (3). Pub. L. 114–329, §401(b)(2)(B), inserted "prize" before "competition".
+
+Subsec. (f)(4). Pub. L. 114–329, §401(b)(2)(C), substituted "cash prize purse or non-cash prize award" for "prize".
+
+Subsec. (g). Pub. L. 114–329, §401(b)(3)(A), substituted "cash prize purse" for "prize" in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 114–329, §401(b)(3)(B), inserted "prize" before "competition".
+
+Subsec. (h). Pub. L. 114–329, §401(b)(4), inserted "prize" before "competition" in two places.
+
+Subsec. (i)(1)(B). Pub. L. 114–329, §401(b)(5)(A), inserted "prize" before "competition".
+
+Subsec. (i)(2)(A). Pub. L. 114–329, §401(b)(5)(B), inserted "prize" before "competition" in two places.
+
+Subsec. (i)(3), (4). Pub. L. 114–329, §401(b)(5)(C), (D), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (j)(1). Pub. L. 114–329, §401(b)(6)(A), inserted "prize" before "competition".
+
+Subsec. (j)(2). Pub. L. 114–329, §401(b)(6)(B), amended par. (2) generally. Prior to amendment, text read as follows: "The Federal Government may negotiate a license for the use of intellectual property developed by a participant for a competition."
+
+Subsec. (k)(1). Pub. L. 114–329, §401(b)(7)(A), substituted "each prize competition" for "each competition" in two places.
+
+Subsec. (k)(2)(A). Pub. L. 114–329, §401(b)(7)(B), inserted "prize" before "competition".
+
+Subsec. (k)(3). Pub. L. 114–329, §401(b)(7)(C), inserted "prize" before "competitions" in two places.
+
+Subsec. (l). Pub. L. 114–329, §401(b)(8), substituted "a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section." for "an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section."
+
+Subsec. (m)(1). Pub. L. 114–329, §401(b)(9)(A), amended par. (1) generally. Prior to amendment, text read as follows: "Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation."
+
+Subsec. (m)(2). Pub. L. 114–329, §401(b)(9)(B), substituted "cash prize purses or non-cash prize awards" for "prize awards".
+
+Subsec. (m)(3)(A). Pub. L. 114–329, §401(b)(9)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: "No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source."
+
+Subsec. (m)(3)(B). Pub. L. 114–329, §401(b)(9)(C)(ii)(I), substituted "a cash prize purse or non-cash prize award" for "a prize" in introductory provisions.
+
+Subsec. (m)(3)(B)(i). Pub. L. 114–329, §401(b)(9)(C)(ii)(II), inserted "competition" after "prize".
+
+Subsec. (m)(3)(B)(ii). Pub. L. 114–329, §401(b)(9)(C)(ii)(III), inserted "or State, United States territory, local, or tribal government" after "private".
+
+Subsec. (m)(4)(A). Pub. L. 114–329, §401(b)(9)(D)(i), substituted "a cash prize purse or a non-cash prize award" for "a prize" and "Science, Space, and Technology" for "Science and Technology".
+
+Subsec. (m)(4)(B). Pub. L. 114–329, §401(b)(9)(D)(ii), substituted "cash prize purses or non-cash prize awards" for "cash prizes".
+
+Subsec. (n). Pub. L. 114–329, §401(b)(10), in heading, substituted "Services" for "Service" and, in text, substituted "January 6, 2017," for "January 4, 2011," and inserted "for both for-profit and nonprofit entities and State, United States territory, local, and tribal government entities," after "contract vehicle".
+
+Subsec. (o)(1). Pub. L. 114–329, §401(b)(11), substituted "a prize competition or providing a cash prize purse or non-cash prize award" for "or providing a prize".
+
+Subsec. (p). Pub. L. 114–329, §401(b)(12)(A), substituted "Biennial" for "Annual" in heading.
+
+Subsec. (p)(1). Pub. L. 114–329, §401(b)(12)(B), substituted "every other year" for "each year", "Science, Space, and Technology" for "Science and Technology", and "2 fiscal years" for "fiscal year".
+
+Subsec. (p)(2). Pub. L. 114–329, §401(b)(12)(C)(i), substituted "A report" for "The report for a fiscal year" in introductory provisions.
+
+Subsec. (p)(2)(C). Pub. L. 114–329, §401(b)(12)(C)(ii), substituted "cash prize purses or non-cash prize awards" for "cash prizes" in heading and in two places in text.
+
+Subsec. (p)(2)(G). Pub. L. 114–329, §401(b)(12)(C)(iii), added subpar. (G).
 

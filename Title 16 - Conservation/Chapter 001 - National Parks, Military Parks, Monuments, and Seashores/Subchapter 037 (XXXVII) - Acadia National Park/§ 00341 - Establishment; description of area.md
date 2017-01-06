@@ -32,7 +32,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 "(b)(1) Not later than 6 months after the enactment of this Act \[Sept. 25, 1986\], the Secretary shall publish specific guidelines under which determinations shall be made under subsection (a)(2). The Secretary shall provide adequate opportunity for public comment on such guidelines. The guidelines shall provide for notice to the Secretary prior to commencement of any proposed development within the boundaries of the Park. The Secretary shall provide written notice to the owner of the property of any determination proposed to be made under subsection (a)(2) and shall provide the owner a reasonable opportunity to comment on such proposal.
 
-"(2) For purposes of this section, except as provided in paragraph (3), development or proposed developmentof private property within the boundaries of the Park that is significantly different from, or a significant expansion of, development existing as of November 1, 1985, shall be considered by the Secretary as detrimental to the values for which the Park was established.
+"(2) For purposes of this section, except as provided in paragraph (3), development or proposed development of private property within the boundaries of the Park that is significantly different from, or a significant expansion of, development existing as of November 1, 1985, shall be considered by the Secretary as detrimental to the values for which the Park was established.
 
 "(3) Reconstruction or expansion of a private or commercial building shall not be treated as detrimental to the Park or as an incompatible development within the meaning of this section if such reconstruction or expansion is limited to one or more of the following:
 
@@ -58,7 +58,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 &emsp;"(2) 50 per centum of the cost of such construction.
 
-"(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as 'Schooner Head', which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on such lands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section.
+"(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as 'Schooner Head', which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on suchlands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section.
 
 "(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcels subject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics:
 
@@ -90,7 +90,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 "(4) For purposes of this subsection, the term 'conservation easement' means a less-than-fee interest in land or a conservation restriction as defined in section 476 through 479–B inclusive, as amended, of title 33 of the Maine Revised Statutes of 1964, as in effect on the date of the enactment of this Act \[Sept. 25, 1986\].
 
-"(5) No easement may be acquired by the Secretary under this subsection without first consulting with,and providing written notification to, the town in which the land is located and the Acadia National Park Advisory Commission established by section 103 of this title. In providing such notification, the Secretary shall indicate the manner and degree to which the easement meets the criteria provided in this subsection.
+"(5) No easement may be acquired by the Secretary under this subsection without first consulting with, and providing written notification to, the town in which the land is located and the Acadia National Park Advisory Commission established by section 103 of this title. In providing such notification, the Secretary shall indicate the manner and degree to which the easement meets the criteria provided in this subsection.
 
 "(i) Nothing in this section shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances.
 
@@ -212,7 +212,7 @@ Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, as amended by Pub. L. 104–333,
 
 "\[(b), (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(C), Nov. 12, 1996, 110 Stat. 4196.\]
 
-"(d) Carrying capacities established pursuant to this section shall be reviewed, and if necessary revised, every five years. Any revision in such carrying capacity shall be made in accordance with the procedures set forth in subsections (b) and (c) of this section.
+"(d) Carrying capacities established pursuant to this section shall be reviewed, and if necessary revised,every five years. Any revision in such carrying capacity shall be made in accordance with the procedures set forth in subsections (b) and (c) of this section.
 
 "(e) Until such time as a carrying capacity limitation is established and implemented pursuant to subsections (b) and (c) of this section, the Secretary shall take such temporary measures as are necessary to assure that visitation does not exceed the average annual visitation for the period 1979 to 1981.
 

@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
-&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in thejudgment of the Secretary, make such article unfit for human food;
+&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
 &emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title;
 
@@ -88,7 +88,7 @@ For purposes of this chapter—
 
 (t) The term "shipping container" means any container used or intended for use in packaging the product packed in an immediate container.
 
-(u) The term "immediate container" includes any consumer package; or any other container in which poultry products, not consumer packaged, are packed.
+(u) The term "immediate container" includes any consumer package; or any other containerin which poultry products, not consumer packaged, are packed.
 
 (v) The term "capable of use as human food" shall apply to any carcass, or part or product of a carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 

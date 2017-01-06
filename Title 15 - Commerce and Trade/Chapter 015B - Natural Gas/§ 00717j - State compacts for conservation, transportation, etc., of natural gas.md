@@ -6,7 +6,7 @@ In case two or more States propose to the Congress compacts dealing with the con
 
 #### (b) Assembly of information relative to operation of compact; report to Congress
 
-It shall be the duty of the Commission to assemble and keep current pertinent informationrelative to the effect and operation of any compact between two or more States heretofore or hereafter approved by the Congress, to make such information public, and to report to the Congress, from time to time, the information so obtained, together with such recommendations as may appear to be appropriate or necessary to promote the purposes of such compact.
+It shall be the duty of the Commission to assemble and keep current pertinent information relative to the effect and operation of any compact between two or more States heretofore or hereafter approved by the Congress, to make such information public, and to report to the Congress, from time to time, the information so obtained, together with such recommendations as may appear to be appropriate or necessary to promote the purposes of such compact.
 
 #### (c) Availability of services, etc., of other agencies
 

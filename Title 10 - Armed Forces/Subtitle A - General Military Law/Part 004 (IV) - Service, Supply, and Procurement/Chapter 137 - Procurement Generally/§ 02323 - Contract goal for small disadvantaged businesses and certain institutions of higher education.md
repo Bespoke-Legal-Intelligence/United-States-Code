@@ -20,7 +20,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 (b)
 
-Amount.—(1) With respect to the Department of Defense, the requirements of subsection\(a) for any fiscal year apply to the combined total of the following amounts:
+Amount.—(1) With respect to the Department of Defense, the requirements of subsection (a) for any fiscal year apply to the combined total of the following amounts:
 
 &emsp;(A) Funds obligated for contracts entered into with the Department of Defense for such fiscal year for procurement.
 
@@ -86,7 +86,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(2) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency shall make advance payments under section 2307 of this title to contractors described in subsection (a). The Federal Acquisition Regulation shall provide guidance to contracting officers for making advance payments to entities described in subsection (a)(1) under such section.
 
-&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
 
 &emsp;(B)(i) The Secretary of Defense may not exercise the authority under subparagraph (A) to enter into a contract for a price exceeding fair market cost if the regulations implementing that authority are suspended under clause (ii) with respect to that contract.
 

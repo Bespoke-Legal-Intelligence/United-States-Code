@@ -10,7 +10,7 @@ An insured State bank may control or hold an interest in a subsidiary that engag
 
 &emsp;(3) the State bank complies with the financial and operational safeguards required by section 24a(d) of this title; and
 
-&emsp;(4) the State bank complies with the amendments to sections 23A and 23B of the Federal Reserve Act \[12 U.S.C. 371c and 371c–1\] made by section 121(b) of the Gramm-Leach-Bliley Act.
+&emsp;(4) the State bank complies with the amendments to sections 23A and 23B of the FederalReserve Act \[12 U.S.C. 371c and 371c–1\] made by section 121(b) of the Gramm-Leach-Bliley Act.
 
 #### (b) Preservation of existing subsidiaries
 

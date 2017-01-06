@@ -36,7 +36,7 @@ For purposes of chapter 2 and subtitle C, qualified disaster relief payments and
 
 #### (e) No relief for certain individuals
 
-Subsections (a), (f), and (g) shall not apply with respect to any individual identified by theAttorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
+Subsections (a), (f), and (g) shall not apply with respect to any individual identified by the Attorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
 
 #### (f) Exclusion of certain additional payments
 

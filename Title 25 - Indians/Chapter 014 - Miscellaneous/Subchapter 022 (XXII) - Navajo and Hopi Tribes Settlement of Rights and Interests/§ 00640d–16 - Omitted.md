@@ -1,0 +1,6 @@
+### §640d–16. Omitted
+
+#### Codification
+
+Section, Pub. L. 93–531, §17, Dec. 22, 1974, 88 Stat. 1720, which related to title, possession, and enjoyment of lands, was omitted from the Code as being of special and not general application.
+

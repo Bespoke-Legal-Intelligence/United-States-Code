@@ -1,6 +1,6 @@
 ### §7121. Grievance procedures
 
-(a)(1) Except as provided in paragraph (2) of this subsection, any collective bargaining agreement shall provide procedures for the settlement of grievances, including questions of arbitrability. Except as provided in subsections (d), (e), and (g) of this section, the procedures shall be the exclusive administrative procedures forresolving grievances which fall within its coverage.
+(a)(1) Except as provided in paragraph (2) of this subsection, any collective bargaining agreement shall provide procedures for the settlement of grievances, including questions of arbitrability. Except as provided in subsections (d), (e), and (g) of this section, the procedures shall be the exclusive administrative procedures for resolving grievances which fall within its coverage.
 
 (2) Any collective bargaining agreement may exclude any matter from the application of the grievance procedures which are provided for in the agreement.
 
@@ -22,7 +22,7 @@
 
 &emsp;(i) a stay of any personnel action in a manner similar to the manner described in section 1221(c) with respect to the Merit Systems Protection Board; and
 
-&emsp;(ii) the taking, by an agency, of any disciplinary action identified under section 1215(a)(3) that is otherwise within the authority of such agency to take.
+&emsp;(ii) the taking, by an agency, of any disciplinary action identified under section 1215(a)(3)that is otherwise within the authority of such agency to take.
 
 (B) Any employee who is the subject of any disciplinary action ordered under subparagraph (A)(ii) may appeal such action to the same extent and in the same manner as if the agency had taken the disciplinary action absent arbitration.
 
@@ -48,7 +48,7 @@
 
 (g)(1) This subsection applies with respect to a prohibited personnel practice other than a prohibited personnel practice to which subsection (d) applies.
 
-(2) An aggrieved employee affected by a prohibited personnel practice described in paragraph (1) may elect not more than one of theremedies described in paragraph (3) with respect thereto. For purposes of the preceding sentence, a determination as to whether a particular remedy has been elected shall be made as set forth under paragraph (4).
+(2) An aggrieved employee affected by a prohibited personnel practice described in paragraph (1) may elect not more than one of the remedies described in paragraph (3) with respect thereto. For purposes of the preceding sentence, a determination as to whether a particular remedy has been elected shall be made as set forth under paragraph (4).
 
 (3) The remedies described in this paragraph are as follows:
 
@@ -79,6 +79,10 @@
 Subsec. (b). Pub. L. 103–424, §9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
 
 Subsec. (g). Pub. L. 103–424, §9(b), added subsec. (g).
+
+#### Effective Date
+
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 

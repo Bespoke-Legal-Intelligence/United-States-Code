@@ -106,9 +106,21 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–328, div. A, title XI, §1138(a), Dec. 23, 2016, 130 Stat. 2460, provided that: "This section \[enacting sections 6329a to 6329c of this title, amending section 6502 of this title, and enacting provisions set out as notes under section 6329a of this title\] may be cited as the 'Administrative Leave Act of 2016'."
+
+Pub. L. 114–302, §1, Dec. 16, 2016, 130 Stat. 1516, provided that: "This Act \[amending section 2303 of this title\] may be cited as the 'Federal Bureau of Investigation Whistleblower Protection Enhancement Act of 2016'."
+
+Pub. L. 114–185, §1, June 30, 2016, 130 Stat. 538, provided that: "This Act \[amending section 552 of this title and section 3102 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under section 552 of this title\] may be cited as the 'FOIA Improvement Act of 2016'."
+
+Pub. L. 114–137, §1, Mar. 18, 2016, 130 Stat. 310, provided that: "This Act \[amending sections 3318, 3319, and 9510 of this title and enacting provisions set out as a note under section 3318 of this title\] may be cited as the 'Competitive Service Act of 2015'."
+
+Pub. L. 114–136, §1, Mar. 18, 2016, 130 Stat. 301, provided that: "This Act \[amending sections 8331, 8701, and 8901 of this title and section 2203 of Title 44, Public Printing and Documents, enacting provisions set out as a note under section 3101 of this title, amending provisions set out as a note under section 102 of Title 3, The President, and repealing provisions set out as a note under section 102 of Title 3\] may be cited as the 'Edward "Ted" Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015'."
+
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–75, §1, Nov. 5, 2015, 129 Stat. 640, provided that: "This Act \[enacting section 6329 of this title and provisions set out as notes under section 6329 of this title\] may be cited as the 'Wounded Warriors Federal Leave Act of 2015'."
+Pub. L. 114–75, §1, Nov. 5, 2015, 129 Stat. 640, provided that: "This Act \[enacting section 6329 of this title andprovisions set out as notes under section 6329 of this title\] may be cited as the 'Wounded Warriors Federal Leave Act of 2015'."
 
 Pub. L. 114–62, §1, Oct. 7, 2015, 129 Stat. 547, provided that: "This Act \[amending section 2108 of this title and enacting provisions set out as a note under section 2108 of this title\] may be cited as the 'Gold Star Fathers Act of 2015'."
 
@@ -170,7 +182,7 @@ Pub. L. 108–496, §1, Dec. 23, 2004, 118 Stat. 4001, provided that: "This Act 
 
 Pub. L. 108–469, §1(a), Dec. 21, 2004, 118 Stat. 3891, provided that: "This Act \[amending sections 8351, 8432, 8433, 8439, and 8440a to 8440e of this title and enacting provisions set out as a note under section 8350 of this title\] may be cited as the 'Thrift Savings Plan Open Elections Act of 2004'."
 
-Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: "This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the 'Federal Workforce Flexibility Act of 2004'."
+Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: "This Act \[enacting sections 4121, 5550b,5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the 'Federal Workforce Flexibility Act of 2004'."
 
 Pub. L. 108–401, §1, Oct. 30, 2004, 118 Stat. 2255, provided that: "This Act \[amending sections 591, 594, and 596 of this title\] may be cited as the 'Federal Regulatory Improvement Act of 2004'."
 
@@ -184,7 +196,7 @@ Pub. L. 108–123, §1, Nov. 11, 2003, 117 Stat. 1345, provided that: "This Act 
 
 Pub. L. 108–44, §1, July 3, 2003, 117 Stat. 842, provided that: "This Act \[enacting section 3114 of this title\] may be cited as the 'Accountant, Compliance, and Enforcement Staffing Act of 2003'."
 
-Pub. L. 108–18, §1, Apr. 23, 2003, 117 Stat. 624, provided that: "This Act \[amending sections 8331, 8334, and 8348of this title, enacting provisions set out as notes under sections 8334 and 8348 of this title and preceding section 2001 of Title 39, Postal Service, and repealing provisions set out as a note under section 8348 of this title\] may be cited as the 'Postal Civil Service Retirement System Funding Reform Act of 2003'."
+Pub. L. 108–18, §1, Apr. 23, 2003, 117 Stat. 624, provided that: "This Act \[amending sections 8331, 8334, and 8348 of this title, enacting provisions set out as notes under sections 8334 and 8348 of this title and preceding section 2001 of Title 39, Postal Service, and repealing provisions set out as a note under section 8348 of this title\] may be cited as the 'Postal Civil Service Retirement System Funding Reform Act of 2003'."
 
 #### Short Title of 2002 Amendment
 

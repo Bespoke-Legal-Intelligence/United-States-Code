@@ -98,7 +98,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;&emsp;(F) the fairness of such process to air carriers and the extent to which air carriers are provided equivalent rights of access to the air transportation market in the countries of which foreign air carriers holding slots are citizens;
 
-&emsp;&emsp;(G) the impact, on the ability of air carriers to provide domestic and international air service, of the withdrawal of slots from air carriers in order to provide slots for foreign air carriers; and
+&emsp;&emsp;(G) the impact, on the ability of air carriers to provide domestic and internationalair service, of the withdrawal of slots from air carriers in order to provide slots for foreign air carriers; and
 
 &emsp;&emsp;(H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and the impact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O'Hare International Airport.
 

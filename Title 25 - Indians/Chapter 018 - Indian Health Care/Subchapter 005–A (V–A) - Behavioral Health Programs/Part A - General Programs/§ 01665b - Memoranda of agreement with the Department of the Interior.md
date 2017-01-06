@@ -20,7 +20,7 @@ Not later than 1 year after March 23, 2010, the Secretary, acting through the Se
 
 &emsp;(6) A strategy for the comprehensive coordination of the behavioral health services provided by the Bureau of Indian Affairs and the Service to meet the problems identified pursuant to paragraph (1), including—
 
-&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, theBureau of Indian Affairs, and Indian tribes and tribal organizations (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2401 et seq.)) with behavioral health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually diagnosed individuals requiring behavioral health and substance abuse treatment; and
+&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and Indian tribes and tribal organizations (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2401 et seq.)) with behavioral health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually diagnosed individuals requiring behavioral health and substance abuse treatment; and
 
 &emsp;&emsp;(B) ensuring that the Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services.
 
@@ -56,7 +56,7 @@ Section 703 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665b, Pub. L. 94–437, title VII, §703, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
+A prior section 1665b, Pub. L. 94–437, title VII, §703, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "memorandum".</i>
 

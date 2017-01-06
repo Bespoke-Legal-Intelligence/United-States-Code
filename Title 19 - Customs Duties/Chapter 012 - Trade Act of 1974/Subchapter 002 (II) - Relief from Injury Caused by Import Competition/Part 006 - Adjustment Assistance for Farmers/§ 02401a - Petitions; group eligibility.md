@@ -14,11 +14,11 @@ The Secretary shall certify a group of agricultural commodity producers as eligi
 
 &emsp;(1)(A) the national average price of the agricultural commodity produced by the group during the most recent marketing year for which data are available is less than 85 percent of the average of the national average price for the commodity in the 3 marketing years preceding such marketing year;
 
-&emsp;(B) the quantity of production of the agricultural commodity produced by the group during such marketing year is less than 85 percent of the average of the quantity of production of the commodity produced by the group in the 3 marketing years preceding such marketing year;
+&emsp;(B) the quantity of production of the agricultural commodity produced by the groupduring such marketing year is less than 85 percent of the average of the quantity of production of the commodity produced by the group in the 3 marketing years preceding such marketing year;
 
 &emsp;(C) the value of production of the agricultural commodity produced by the group during such marketing year is less than 85 percent of the average value of production of the commodity produced by the group in the 3 marketing years preceding such marketing year; or
 
-&emsp;(D) the cash receipts for the agricultural commodity produced by the group during suchmarketing year are less than 85 percent of the average of the cash receipts for the commodity produced by the group in the 3 marketing years preceding such marketing year;
+&emsp;(D) the cash receipts for the agricultural commodity produced by the group during such marketing year are less than 85 percent of the average of the cash receipts for the commodity produced by the group in the 3 marketing years preceding such marketing year;
 
 &emsp;(2) the volume of imports of articles like or directly competitive with the agricultural commodity produced by the group in the marketing year with respect to which the group files the petition increased compared to the average volume of such imports during the 3 marketing years preceding such marketing year; and
 
@@ -74,7 +74,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21,2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Termination Date
 

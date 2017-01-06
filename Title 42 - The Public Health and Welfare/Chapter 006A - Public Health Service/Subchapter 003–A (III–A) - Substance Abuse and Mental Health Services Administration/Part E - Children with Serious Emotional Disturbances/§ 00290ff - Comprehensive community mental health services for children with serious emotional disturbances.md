@@ -4,39 +4,39 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance.
+&emsp;The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance, which may include efforts to identify and serve children at risk.
 
 #### (2) "Public entity" defined
 
-&emsp;For purposes of this part, the term "public entity" means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 450b(b) and section 450b(c) <sup>1</sup> of title 25).
+&emsp;For purposes of this part, the term "public entity" means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 5304(b) and section 5304(c) <sup>1</sup> of title 25).
 
 #### (b) Considerations in making grants
 
 #### (1) Requirement of status as grantee under part B of subchapter XVII
 
-&emsp;The Secretary may make a grant under subsection (a) of this section to a public entity only if—
+&emsp;The Secretary may make a grant under subsection (a) to a public entity only if—
 
 &emsp;&emsp;(A) in the case of a public entity that is a State, the State is a grantee under section 300x of this title;
 
-&emsp;&emsp;(B) in the case of a public entity that is a political subdivision of a State, the State inwhich the political subdivision is located is such a grantee; and
+&emsp;&emsp;(B) in the case of a public entity that is a political subdivision of a State, the State in which the political subdivision is located is such a grantee; and
 
 &emsp;&emsp;(C) in the case of a public entity that is an Indian tribe or tribal organization, the State in which the tribe or tribal organization is located is such a grantee.
 
 #### (2) Requirement of status as medicaid provider
 
-&emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under subsection (a) of this section only if, in the case of any service under such subsection that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
+&emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under subsection (a) only if, in the case of any service under suchsubsection that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
 &emsp;&emsp;(i) the public entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the public entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
-&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under subsection (a) of this section, the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under subsection (a), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 &emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
 #### (3) Certain considerations
 
-&emsp;In making grants under subsection (a) of this section, the Secretary shall—
+&emsp;In making grants under subsection (a), the Secretary shall—
 
 &emsp;&emsp;(A) equitably allocate such assistance among the principal geographic regions of the United States;
 
@@ -46,13 +46,13 @@
 
 &emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such a grant that are received by the Secretary from the State in which the entity is located; and
 
-&emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributions required in subsection (c) of this section regarding such a grant.
+&emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributions required in subsection (c) regarding such a grant.
 
 #### (c) Matching funds
 
 #### (1) In general
 
-&emsp;A funding agreement for a grant under subsection (a) of this section is that the public entity involved will, with respect to the costs to be incurred by the entity in carrying out the purpose described in such subsection, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
+&emsp;A funding agreement for a grant under subsection (a) is that the public entity involved will, with respect to the costs to be incurred by the entity in carrying out the purpose described in such subsection, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
 
 &emsp;&emsp;(A) for the first fiscal year for which the entity receives payments from a grant under such subsection, is not less than $1 for each $3 of Federal funds provided in the grant;
 
@@ -66,13 +66,13 @@
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
+&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
-(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175.)
+(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(a), Dec. 13, 2016, 130 Stat. 1262.)
 
 #### References in Text
 
-Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in section 450b of Title 25, Indians.
+Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -82,6 +82,8 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255 inserted ", which may include efforts to identify and serve children at risk" before period at end.
+
 <b>2000</b>—Subsec. (c)(1)(D). Pub. L. 106–310 substituted "fifth and sixth such fiscal year" for "fifth such fiscal year".
 
 <b>1993</b>—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted "this part" for "this subpart".
@@ -90,7 +92,7 @@ Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted "is such a g
 
 #### Effective Date
 
-Part effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Part effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c),\(d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Current Grantees
 

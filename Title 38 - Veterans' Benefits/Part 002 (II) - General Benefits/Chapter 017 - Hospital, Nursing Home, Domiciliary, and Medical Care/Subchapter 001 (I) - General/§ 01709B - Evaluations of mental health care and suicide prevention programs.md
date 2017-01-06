@@ -6,15 +6,17 @@ Evaluations.—(1) Not less frequently than once during each period specified in
 
 (2) Each evaluation conducted under paragraph (1) shall—
 
-&emsp;(A) use metrics that are common among and useful for practitioners in the field of mental health care and suicide prevention;
+&emsp;(A) use metrics that are common among and useful for practitioners in the field of mental health care and suicide prevention, including metrics applicable specifically to women;
 
 &emsp;(B) identify the most effective mental health care and suicide prevention programs conducted by the Secretary, including such programs conducted at a Center of Excellence;
 
 &emsp;(C) identify the cost-effectiveness of each program identified under subparagraph (B);
 
-&emsp;(D) measure the satisfaction of patients with respect to the care provided under each such program; and
+&emsp;(D) measure the satisfaction of patients with respect to the care provided under each such program;
 
-&emsp;(E) propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services.
+&emsp;(E) propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services; and
+
+&emsp;(F) identify the mental health care and suicide prevention programs conducted by the Secretary that are most effective for women veterans and such programs with the highest satisfaction rates among women veterans.
 
 (3) The periods specified in this paragraph are the following:
 
@@ -34,9 +36,15 @@ Annual Submission.—Not later than December 1, 2018, and each year thereafter, 
 
 &emsp;(2) Any recommendations the Secretary considers appropriate.
 
-(Added Pub. L. 114–2, §2(a)(1), Feb. 12, 2015, 129 Stat. 30.)
+(Added Pub. L. 114–2, §2(a)(1), Feb. 12, 2015, 129 Stat. 30; amended Pub. L. 114–188, §2, June 30, 2016, 130 Stat. 611.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (a)(4), is the date of enactment of Pub. L. 114–2, which was approved Feb. 12, 2015.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–188, §2(1), inserted before semicolon at end ", including metrics applicable specifically to women".
+
+Subsec. (a)(2)(F). Pub. L. 114–188, §2(2)–(4), added subpar. (F).
 

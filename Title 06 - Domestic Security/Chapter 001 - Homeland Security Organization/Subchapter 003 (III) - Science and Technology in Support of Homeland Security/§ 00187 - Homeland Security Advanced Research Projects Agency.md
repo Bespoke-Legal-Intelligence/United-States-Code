@@ -52,7 +52,7 @@ In this section:
 
 #### (6) Personnel
 
-&emsp;In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note; Public Law 105–261). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before thegranting of any extension under subsection (c)(2) of that section.
+&emsp;In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 <sup>1</sup> of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note; Public Law 105–261). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before the granting of any extension under subsection (c)(2) of that section.
 
 #### (7) Demonstrations
 
@@ -74,7 +74,13 @@ In this section:
 
 (Pub. L. 107–296, title III, §307, Nov. 25, 2002, 116 Stat. 2168; Pub. L. 114–22, title III, §302(d), May 29, 2015, 129 Stat. 255.)
 
+#### References in Text
+
+Section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(6), is section 1101 of Pub. L. 105–261,which was formerly set out as a note under section 3104 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 114–328, div. A, title XI, §1121(b), Dec. 23, 2016, 130 Stat. 2452. See section 1599h of Title 10, Armed Forces.
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(3)(D). Pub. L. 114–22 added subpar. (D).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

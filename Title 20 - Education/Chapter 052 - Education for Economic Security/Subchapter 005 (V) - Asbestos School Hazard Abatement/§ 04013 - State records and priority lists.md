@@ -16,7 +16,7 @@ The Governor of each State shall maintain records on—
 
 &emsp;(A) submit to the Administrator a priority list of all schools under the authority of a local educational agency within the State, without regard to the public or private nature of the school involved, that are candidates for abatement activities and other response actions; and
 
-&emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and <sup>1</sup>
+&emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financialassistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and <sup>1</sup>
 
 (2) The priority list shall rank the potential candidates for abatement action based on the nature and magnitude of the existing and potential exposure presented by the asbestos materials.
 

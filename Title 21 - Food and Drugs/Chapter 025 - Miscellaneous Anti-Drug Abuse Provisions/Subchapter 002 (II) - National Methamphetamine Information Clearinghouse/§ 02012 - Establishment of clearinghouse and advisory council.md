@@ -2,7 +2,7 @@
 
 #### (a) Clearinghouse
 
-There is established, under the supervision of the Attorney General of the United States, an information clearinghouse to be known as theNational Methamphetamine Information Clearinghouse.
+There is established, under the supervision of the Attorney General of the United States, an information clearinghouse to be known as the National Methamphetamine Information Clearinghouse.
 
 #### (b) Advisory council
 

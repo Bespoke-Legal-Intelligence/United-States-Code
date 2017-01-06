@@ -34,7 +34,7 @@ The Government of the United States shall not be liable for any negligence by a 
 
 &emsp;The account shall consist of—
 
-&emsp;&emsp;(A) amounts received by the United States as fees charged under subsection (b)(1)(C) of this section; and
+&emsp;&emsp;(A) amounts received by the United States as fees charged under subsection (b)(1)(C); and
 
 &emsp;&emsp;(B) such other amounts as may be provided by law.
 

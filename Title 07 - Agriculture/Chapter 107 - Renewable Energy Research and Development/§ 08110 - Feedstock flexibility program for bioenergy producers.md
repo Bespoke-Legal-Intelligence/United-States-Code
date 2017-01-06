@@ -82,7 +82,7 @@ In this section:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any commodities owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title).
+&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any commodities owned and held in inventory by the Commodity Credit Corporation\(accumulated pursuant to the program authorized under section 7272 of this title).
 
 #### (C) Option to prevent storage fees
 
@@ -108,7 +108,7 @@ In this section:
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classifiedto subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 #### Codification
 
@@ -127,4 +127,8 @@ A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

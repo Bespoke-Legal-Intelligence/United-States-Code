@@ -8,7 +8,7 @@
 
 (3) The program may include—
 
-&emsp;(A) the combined use of the credits, loans, or guarantees offered by the Export-Import Bank of the United States with concessional financing or grants made available under section 635r(d) of this title, by methods including theblending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
+&emsp;(A) the combined use of the credits, loans, or guarantees offered by the Export-Import Bank of the United States with concessional financing or grants made available under section 635r(d) of this title, by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
 
 &emsp;(B) the combined use of credits, loans, or guarantees offered by the Bank, with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Bank and private institutions or entities.
 

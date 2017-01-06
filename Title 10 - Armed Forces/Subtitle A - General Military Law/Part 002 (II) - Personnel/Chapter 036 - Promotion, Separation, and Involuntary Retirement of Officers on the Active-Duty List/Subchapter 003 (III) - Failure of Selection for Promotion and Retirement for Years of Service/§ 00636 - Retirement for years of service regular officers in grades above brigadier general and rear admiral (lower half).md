@@ -2,23 +2,29 @@
 
 (a)
 
-Major Generals and Rear Admirals Serving in Grade.—Except as provided in subsection (b) or (c) and under section 637(b) of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of major general, and each officer of the Regular Navy who holds the regular grade of rear admiral, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 35 years of active commissioned service, whichever is later.
+Major Generals and Rear Admirals Serving in Grade.—Except as provided in subsection (b) or (c) and under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of major general, and each officer of the Regular Navy who holds the regular grade of rear admiral, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 35 years of active commissioned service, whichever is later.
 
 (b)
 
-Lieutenant Generals and Vice Admirals.—In the administration of subsection (a) in the case of an officer who is serving in the grade of lieutenant general or vice admiral, the number of years of active commissioned service applicable to the officer is 38 years.
+Lieutenant Generals and Vice Admirals.—In the administration of subsection (a) inthe case of an officer who is serving in the grade of lieutenant general or vice admiral, the number of years of active commissioned service applicable to the officer is 38 years.
 
 (c)
 
 Generals and Admirals.—In the administration of subsection (a) in the case of an officer who is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 98–525, title XIV, §1405(14), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 105–85, div. A, title V, §506(a), (b), Nov. 18, 1997, 111 Stat. 1726.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 98–525, title XIV, §1405(14), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 105–85, div. A, title V, §506(a), (b), Nov. 18, 1997, 111 Stat. 1726; Pub. L. 114–328, div. A, title V, §505(b)(4), Dec. 23, 2016, 130 Stat. 2108.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328 inserted "or 637a" after "637(b)".
 
 <b>1997</b>—Pub. L. 105–85, §506(b), substituted "regular officers in grades above brigadier general and rear admiral (lower half)" for "regular major generals and rear admirals" in section catchline.
 
 Pub. L. 105–85, §506(a), designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b) or (c) and" for "Except as provided", and added subsecs. (b) and (c).
 
 <b>1984</b>—Pub. L. 98–525 substituted "35" for "thirty-five".
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

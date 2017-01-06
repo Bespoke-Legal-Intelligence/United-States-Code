@@ -14,7 +14,7 @@ The Attorney General may award grants under this subsection to private nonprofit
 
 &emsp;(1) to implement, expand, and establish cooperative efforts and projects between domestic violence, dating violence, and sexual assault victim service providers and legal assistance providers to provide legal assistance for victims of domestic violence, dating violence, stalking, and sexual assault;
 
-&emsp;(2) to implement, expand, and establish efforts and projects to provide legal assistancefor victims of domestic violence, dating violence, stalking, and sexual assault by organizations with a demonstrated history of providing direct legal or advocacy services on behalf of these victims; and
+&emsp;(2) to implement, expand, and establish efforts and projects to provide legal assistance for victims of domestic violence, dating violence, stalking, and sexual assault by organizations with a demonstrated history of providing direct legal or advocacy services on behalf of these victims; and
 
 &emsp;(3) to implement, expand, and establish efforts and projects to provide competent, supervised pro bono legal assistance for victims of domestic violence, dating violence, sexual assault, or stalking, except that not more than 10 percent of the funds awarded under this section may be used for the purpose described in this paragraph.
 

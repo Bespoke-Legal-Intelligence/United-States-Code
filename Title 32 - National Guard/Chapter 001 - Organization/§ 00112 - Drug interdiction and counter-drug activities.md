@@ -112,7 +112,7 @@ Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading andtext of former subsec. (e). Text read as follows: "Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10."
+<b>2004</b>—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10."
 
 Subsec. (e)(1)(A), (B). Pub. L. 108–375, §416(k)(3), struck out "for a period of more than 180 days" after "order to duty".
 
@@ -188,13 +188,17 @@ Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior 
 
 &emsp;"(B) the Director of National Drug Control Policy in the case of a plan submitted for subsequent fiscal years."
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### National Guard Counterdrug Schools
 
-Pub. L. 109–469, title IX, §901, Dec. 29, 2006, 120 Stat. 3536, as amended by Pub. L. 112–239, div. A, title X, §1008, Jan. 2, 2013, 126 Stat. 1905, provided that:
+Pub. L. 109–469, title IX, §901, Dec. 29, 2006, 120 Stat. 3536, as amended by Pub. L. 112–239, div. A, title X, §1008, Jan. 2, 2013, 126 Stat. 1905; Pub. L. 114–328, div. A, title X, §1012, Dec. 23, 2016, 130 Stat. 2385, provided that:
 
 "(a)
 
@@ -232,7 +236,7 @@ Use of National Guard Personnel.—
 
 &emsp;"(1)
 
-In general.—To the extent provided for in the State drug interdiction and counterdrug activities plan of a State in which a National Guard counterdrug school is located, personnel of the National Guard of that State who are ordered to perform full-time National Guard duty authorized under section 112(b) of that \[sic\] title 32, United States Code, may provide training referred to in subsection (b) at that school.
+In general.—To the extent provided for in the State drug interdiction and counterdrug activities plan of a State in which a National Guard counterdrug school is located, personnel of the National Guard of that State who are ordered to perform full-time National Guard duty authorized under section 112(b) of title 32, United States Code, may provide training referred to in subsection (b) at that school.
 
 &emsp;"(2)
 
@@ -240,9 +244,13 @@ Definition.—In this subsection, the term 'State drug interdiction and counterd
 
 "(e)
 
-Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
+Curriculum Review.—The Secretary of Defense shall review the curriculum and program structure of each school established under this section.
 
 "(f)
+
+Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
+
+"(g)
 
 Annual Report on Activities.—Not later than February 1 each year, the Secretary of Defense shall submit to Congress a report on the activities of the National Guard counterdrug schools during the preceding year. Each such report shall set forth a description of the activities of each National Guard counterdrug school for the fiscal year preceding the fiscal year during which the report is submitted, including—
 
@@ -258,7 +266,7 @@ Annual Report on Activities.—Not later than February 1 each year, the Secretar
 
 &emsp;"(6) updates, if any, to the Department of Defense regulations prescribed under subsection (a).
 
-"(g)
+"(h)
 
 Authorization of Appropriations.—
 
@@ -269,6 +277,8 @@ In general.—Not more than $30,000,000 may be expended by the Secretary of Defe
 &emsp;"(2)
 
 Construction.—The amount expended pursuant to paragraph (1) for a fiscal year is in addition to any other amount authorized to be appropriated for the Department of Defense for the National Guard for such fiscal year."
+
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 901(g) of Pub. L. 109–469, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, any person may commence a 
 
 &emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any requirement prescribed by or under this subchapter;
 
-&emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this subchapterwhich is not discretionary with the Administrator; or
+&emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this subchapter which is not discretionary with the Administrator; or
 
 &emsp;(3) for the collection of a penalty by the United States Government (and associated costs and interest) against any Federal agency that fails, by the date that is 18 months after the effective date of a final order to pay a penalty assessed by the Administrator under section 300h–8(b) <sup>1</sup> of this title, to pay the penalty.
 
@@ -24,9 +24,9 @@ No civil action may be commenced—
 
 &emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice of such action to the Administrator; or
 
-&emsp;(3) under subsection (a)(3) of this section prior to 60 days after the plaintiff has given notice of such action to the Attorney General and to the Federal agency.
+&emsp;(3) under subsection (a)(3) prior to 60 days after the plaintiff has given notice of such action to the Attorney General and to the Federal agency.
 
-> Notice required by this subsection shall be given in such manner as the Administrator shall prescribe by regulation. No person may commence a civil action under subsection (a) of this section to require a State to prescribe a schedule under section 300g–4 or 300g–5 of this title for a variance or exemption, unless such person shows to the satisfaction of the court that the State has in a substantial number of cases failed to prescribe such schedules.
+> Notice required by this subsection shall be given in such manner as the Administrator shall prescribe by regulation. No person may commence a civil action under subsection (a) to require a State to prescribe a schedule under section 300g–4 or 300g–5 of this title for a variance or exemption, unless such person shows to the satisfaction of the court that the State has in a substantial number of cases failed to prescribe such schedules.
 
 #### (c) Intervention of right
 

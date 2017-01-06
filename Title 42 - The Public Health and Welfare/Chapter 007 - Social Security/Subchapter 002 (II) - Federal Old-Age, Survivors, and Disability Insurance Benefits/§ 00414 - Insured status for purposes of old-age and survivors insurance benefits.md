@@ -12,15 +12,15 @@ The term "fully insured individual" means any individual who had not less than�
 
 &emsp;(3) in the case of an individual who died before 1951, 6 quarters of coverage;
 
-> not counting as an elapsed year for purposes of paragraph (1) any year any part of which was included in a period of disability (as defined in section 416(i) of this title), and who satisfies the criterion specified in subsection (c) of this section.
+> not counting as an elapsed year for purposes of paragraph (1) any year any part of which was included in a period of disability (as defined in section 416(i) of this title), and who satisfies the criterion specified in subsection (c).
 
 #### (b) "Currently insured individual" defined
 
-The term "currently insured individual" means any individual who had not less than six quarters of coverage during the thirteen-quarter period ending with (1) the quarter in which he died, (2) the quarter in which he became entitled to old-age insurance benefits, (3) the quarter in which he became entitled to primary insurance benefits under this subchapter as in effect prior to August 28, 1950, or (4) in the case of any individual entitled to disability insurance benefits, the quarter in which he most recently became entitled to disability insurance benefits, not counting as part of such thirteen-quarter period any quarter any part of which was included in a period of disability unless such quarter was a quarter of coverage, and who satisfies the criterion specified in subsection (c) of this section.
+The term "currently insured individual" means any individual who had not less than six quarters of coverage during the thirteen-quarter period ending with (1) the quarter in which he died, (2) the quarter in which he became entitled to old-age insurance benefits, (3) the quarter in which he became entitled to primary insurance benefits under this subchapter as in effect prior to August 28, 1950, or (4) in the case of any individual entitled to disability insurance benefits, the quarter in which he most recently became entitled to disability insurance benefits, not counting as part of such thirteen-quarter period any quarter any part of which was included in a period of disability unless such quarter was a quarter of coverage, and who satisfies the criterion specified in subsection (c).
 
 #### (c) Criterion described
 
-For purposes of subsections (a) and (b) of this section, the criterion specified in this subsection is that the individual, if not a United States citizen or national—
+For purposes of subsections (a) and (b), the criterion specified in this subsection is that the individual, if not a United States citizen or national—
 
 &emsp;(1) has been assigned a social security account number that was, at the time of assignment, or at any later time, consistent with the requirements of subclause (I) or (III) of section 405(c)(2)(B)(i) of this title; or
 
@@ -40,9 +40,9 @@ Section 211(a) of Pub. L. 108–203, which directed amendment of section 214, wa
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–203, §211(a)(1), inserted ", and who satisfies the criterion specified in subsection (c) of this section" before period at end. See Codification note above.
+<b>2004</b>—Subsec. (a). Pub. L. 108–203, §211(a)(1), inserted ", and who satisfies the criterion specified in subsection (c)" before period at end. See Codification note above.
 
-Subsec. (b). Pub. L. 108–203, §211(a)(2), inserted ", and who satisfies the criterion specified in subsection (c) of this section" before period at end. See Codification note above.
+Subsec. (b). Pub. L. 108–203, §211(a)(2), inserted ", and who satisfies the criterion specified in subsection (c)" before period at end. See Codification note above.
 
 Subsec. (c). Pub. L. 108–203, §211(a)(3), added subsec. (c). See Codification note above.
 
@@ -86,7 +86,7 @@ Pub. L. 92–603, title I, §104(j), Oct. 30, 1972, 86 Stat. 1341, provided that
 
 Pub. L. 87–64, title I, §103(b), June 30, 1961, 75 Stat. 137, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply—
 
-&emsp;"(1) in the case of monthly benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for months beginning on or after the effective date of this title \[see note set out under section 402 of this title\], based on applications filed in or after March 1961,
+&emsp;"(1) in the case of monthly benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] formonths beginning on or after the effective date of this title \[see note set out under section 402 of this title\], based on applications filed in or after March 1961,
 
 &emsp;"(2) in the case of lump-sum death payments under such title with respect to deaths on or after the effective date of this title, and
 

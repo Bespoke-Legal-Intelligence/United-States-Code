@@ -20,7 +20,7 @@ Nothing in this part shall be construed as requiring the Secretary to report for
 
 #### (e) Compliance with regulations
 
-Except as provided in the first sentence of section 360ss of this title, compliance with this partor any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
+Except as provided in the first sentence of section 360ss of this title, compliance with this part or any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
 
 #### (f) Additional remedies
 

@@ -12,7 +12,7 @@ The Congress finds that it is in the national security interest of the United St
 
 &emsp;(2) Facilitate, on a priority basis, the prevention of proliferation of weapons (and components of weapons) of mass destruction and destabilizing conventional weapons of the independent states of the former Soviet Union and the establishment of verifiable safeguards against the proliferation of such weapons and components.
 
-&emsp;(3) Facilitate, on a priority basis, the prevention of diversion of weapons-related scientific expertise of the independent states of the former Soviet Union to terrorist groups or third world countries.
+&emsp;(3) Facilitate, on a priority basis, the prevention of diversion of weapons-related scientific expertise of the independent states ofthe former Soviet Union to terrorist groups or third world countries.
 
 &emsp;(4) Support (A) the demilitarization of the defense-related industry and equipment of the independent states of the former Soviet Union, and (B) the conversion of such industry and equipment to civilian purposes and uses.
 
@@ -84,7 +84,7 @@ Pub. L. 108–136, div. C, title XXXVI, §3622, Nov. 24, 2003, 117 Stat. 1824, p
 
 "(a)
 
-Establishment of Working Group.—There is hereby established a working group to be known as the'Threat Reduction Working Group' as an interparliamentary group of the Congress of the United States and the legislature of the Russian Federation.
+Establishment of Working Group.—There is hereby established a working group to be known as the 'Threat Reduction Working Group' as an interparliamentary group of the Congress of the United States and the legislature of the Russian Federation.
 
 "(b)
 
@@ -94,7 +94,7 @@ Purpose of Working Group.—The purpose of the working group established by subs
 
 Membership.—(1) The majority leader of the Senate, after consultation with the minority leader of the Senate, shall appoint not more than 10 Senators to the working group established by subsection (a).
 
-"(2) The Speaker of the House of Representatives, after consultation with the minority leader of the House of Representatives, shall appoint not more than 30 Members of the House to the working group."
+"(2) The Speaker of the House of Representatives, after consultation with the minority leader of theHouse of Representatives, shall appoint not more than 30 Members of the House to the working group."
 
 #### Transfer to National Nuclear Security Administration of Department of Defense's Cooperative Threat Reduction Program Relating to Elimination of Weapons Grade Plutonium Production in Russia
 
@@ -164,7 +164,7 @@ International Participation in Program.—(1) In order to achieve international 
 
 "(4) If any amount contributed under paragraph (1) has not been utilized within five years of receipt under that paragraph, the Secretary shall return such amount to the person, government, or organization contributing such amount under that paragraph.
 
-"(5) Not later than 30 days after the receipt of any amount contributed under paragraph (1), the Secretaryshall submit to the congressional defense committees a notice of the receipt of such amount.
+"(5) Not later than 30 days after the receipt of any amount contributed under paragraph (1), the Secretary shall submit to the congressional defense committees a notice of the receipt of such amount.
 
 "(6) Not later than October 31 each year, the Secretary shall submit to the congressional defense committees a report on the receipt and utilization of amounts under this subsection during the preceding fiscal year. Each report for a fiscal year shall set forth—
 
@@ -282,7 +282,7 @@ Annual Report on Implementation of Plan.—(1) Not later than January 31, 2003, 
 
 &emsp;"(D) any recommendations that the President considers appropriate regarding modifications to law or regulations, or to the administration or organization of any Federal department or agency, in order to improve the effectiveness of any programs carried out during such year in the implementation of the plan."
 
-\[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary of State by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
+\[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary ofState by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
 
 #### Russian Nonstrategic Nuclear Arms
 

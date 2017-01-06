@@ -16,7 +16,7 @@
 
 &emsp;(7) the term "repetitive loss structure" means a structure covered by a contract for flood insurance that—
 
-&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent ofthe value of the structure at the time of each such flood event; and
+&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event; and
 
 &emsp;&emsp;(B) at the time of the second incidence of flood-related damage, the contract for flood insurance contains increased cost of compliance coverage.<sup>1</sup>
 

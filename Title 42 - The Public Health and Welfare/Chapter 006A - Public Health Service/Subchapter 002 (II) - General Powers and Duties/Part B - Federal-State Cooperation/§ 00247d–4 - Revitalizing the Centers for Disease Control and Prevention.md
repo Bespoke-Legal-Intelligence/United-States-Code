@@ -4,7 +4,7 @@
 
 #### (1) Findings
 
-&emsp;Congress finds that the Centers for Disease Control and Prevention has an essential rolein defending against and combatting public health threats domestically and abroad and requires secure and modern facilities, and expanded and improved capabilities related to bioterrorism and other public health emergencies, sufficient to enable such Centers to conduct this important mission.
+&emsp;Congress finds that the Centers for Disease Control and Prevention has an essential role in defending against and combatting public health threats domestically and abroad and requires secure and modern facilities, and expanded and improved capabilities related to bioterrorism and other public health emergencies, sufficient to enable such Centers to conduct this important mission.
 
 #### (2) Facilities
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) improving communications facilities and networks, including delivery of necessary information to rural areas;
 
-&emsp;&emsp;(C) improving capabilities for public health surveillance and reporting activities, taking into account the integrated system or systems of public health alert communications and surveillance networks under subsection (b) of this section; and
+&emsp;&emsp;(C) improving capabilities for public health surveillance and reporting activities, taking into account the integrated system or systems of public health alert communications and surveillance networks under subsection (b); and
 
 &emsp;&emsp;(D) improving laboratory facilities related to bioterrorism and other public health emergencies, including increasing the security of such facilities.
 
@@ -56,7 +56,7 @@
 
 #### (2) Strategy and implementation plan
 
-&emsp;Not later than 180 days after March 13, 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measurable steps the Secretary will carry out to—
+&emsp;Not later than 180 days after March 13, 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementationplan that identifies and demonstrates the measurable steps the Secretary will carry out to—
 
 &emsp;&emsp;(A) develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3);
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(A) shall establish, enhance, or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies;
 
-&emsp;&emsp;(B) may award grants or contracts to entities described in paragraph (1) within orserving such State to assist such entities in improving the operation of information technology systems, facilitating the secure exchange of data and information, and training personnel to enhance the operation of the system described in subparagraph (A); and
+&emsp;&emsp;(B) may award grants or contracts to entities described in paragraph (1) within or serving such State to assist such entities in improving the operation of information technology systems, facilitating the secure exchange of data and information, and training personnel to enhance the operation of the system described in subparagraph (A); and
 
 &emsp;&emsp;(C) may conduct a pilot program for the development of multi-State telehealth network test beds that build on, enhance, and securely link existing State and local telehealth programs to prepare for, monitor, respond to, and manage the events of public health emergencies, facilitate coordination and communication among medical, public health, and emergency response agencies, and provide medical services through telehealth initiatives within the States that are involved in such a multi-State telehealth network test bed.
 
@@ -180,7 +180,7 @@ There are authorized to be appropriated to carry out this section, $138,300,000 
 
 For purposes of this section the term "biosurveillance" means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
 
-(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851; Pub. L. 113–5, title II, §204(a), Mar. 13, 2013, 127 Stat. 177.)
+(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851; Pub. L. 113–5, title II, §204(a), Mar. 13, 2013, 127 Stat. 177.)
 
 #### Amendments
 

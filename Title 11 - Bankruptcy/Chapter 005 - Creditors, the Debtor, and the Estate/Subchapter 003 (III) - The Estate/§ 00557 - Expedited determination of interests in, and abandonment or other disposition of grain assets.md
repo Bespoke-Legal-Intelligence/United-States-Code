@@ -70,7 +70,7 @@
 
 (e)(1) Any governmental unit that has regulatory jurisdiction over the operation or liquidation of the debtor or the debtor's business shall be given notice of any request made or order entered under subsection (c) of this section.
 
-(2) Any such governmental unit may raise, and may appear and be heard on, any issue relatingto grain or the proceeds of grain in a case in which a request is made, or an order is entered, under subsection (c) of this section.
+(2) Any such governmental unit may raise, and may appear and be heard on, any issue relating to grain or the proceeds of grain in a case in which a request is made, or an order is entered, under subsection (c) of this section.
 
 (3) The trustee shall consult with such governmental unit before taking any action relating to the disposition of grain in the possession, custody, or control of the debtor or the estate.
 

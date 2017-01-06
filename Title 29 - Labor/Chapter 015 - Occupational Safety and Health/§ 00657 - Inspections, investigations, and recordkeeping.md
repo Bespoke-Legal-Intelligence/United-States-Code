@@ -14,9 +14,9 @@ In making his inspections and investigations under this chapter the Secretary ma
 
 #### (c) Maintenance, preservation, and availability of records; issuance of regulations; scope of records; periodic inspections by employer; posting of notices by employer; notification of employee of corrective action
 
-(1) Each employer shall make, keep and preserve, and make available to the Secretary or the Secretary of Health and Human Services, such records regarding his activities relating to this chapter as the Secretary, in cooperation with the Secretary of Health and Human Services, may prescribe by regulation as necessary or appropriate for the enforcement of this chapter or for developing information regarding the causes and prevention of occupational accidents and illnesses. In order to carry out the provisions of this paragraph such regulations may include provisions requiring employers to conduct periodic inspections. The Secretary shall also issue regulations requiring that employers, through posting of notices or other appropriate means, keep their employees informed of their protections and obligations under this chapter, including the provisions of applicable standards.
+(1) Each employer shall make, keep and preserve, and make available to the Secretary or the Secretary of Health and Human Services, such records regarding his activities relating tothis chapter as the Secretary, in cooperation with the Secretary of Health and Human Services, may prescribe by regulation as necessary or appropriate for the enforcement of this chapter or for developing information regarding the causes and prevention of occupational accidents and illnesses. In order to carry out the provisions of this paragraph such regulations may include provisions requiring employers to conduct periodic inspections. The Secretary shall also issue regulations requiring that employers, through posting of notices or other appropriate means, keep their employees informed of their protections and obligations under this chapter, including the provisions of applicable standards.
 
-(2) The Secretary, in cooperation with the Secretary of Health and Human Services, shall prescribe regulations requiring employers to maintain accurate records of, and to make periodic reports on, work-related deaths, injuries and illnesses other than minor injuries requiring only first aid treatment and which do not involvemedical treatment, loss of consciousness, restriction of work or motion, or transfer to another job.
+(2) The Secretary, in cooperation with the Secretary of Health and Human Services, shall prescribe regulations requiring employers to maintain accurate records of, and to make periodic reports on, work-related deaths, injuries and illnesses other than minor injuries requiring only first aid treatment and which do not involve medical treatment, loss of consciousness, restriction of work or motion, or transfer to another job.
 
 (3) The Secretary, in cooperation with the Secretary of Health and Human Services, shall issue regulations requiring employers to maintain accurate records of employee exposures to potentially toxic materials or harmful physical agents which are required to be monitored or measured under section 655 of this title. Such regulations shall provide employees or their representatives with an opportunity to observe such monitoring or measuring, and to have access to the records thereof. Such regulations shall also make appropriate provision for each employee or former employee to have access to such records as will indicate his own exposure to toxic materials or harmful physical agents. Each employer shall promptly notify any employee who has been or is being exposed to toxic materials or harmful physical agents in concentrations or at levels which exceed those prescribed by an applicable occupational safety and health standard promulgated under section 655 of this title, and shall inform any employee who is being thus exposed of the corrective action being taken.
 
@@ -38,7 +38,7 @@ Subject to regulations issued by the Secretary, a representative of the employer
 
 (1) The Secretary and Secretary of Health and Human Services are authorized to compile, analyze, and publish, either in summary or detailed form, all reports or information obtained under this section.
 
-(2) The Secretary and the Secretary of Health and Human Services shall each prescribe such rules and regulations as he may deem necessary to carry out their responsibilities under this chapter, including rules and regulations dealing with the inspection of an employer's establishment.
+(2) The Secretary and the Secretary of Health and Human Services shall each prescribe such rules and regulations as he may deem necessary to carry out their responsibilities under this chapter, including rules and regulations dealingwith the inspection of an employer's establishment.
 
 #### (h) Use of results of enforcement activities
 
@@ -48,7 +48,7 @@ The Secretary shall not use the results of enforcement activities, such as the n
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 8 of Pub. L. 91–596, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional inWhole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of section 8 of Pub. L. 91–596, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

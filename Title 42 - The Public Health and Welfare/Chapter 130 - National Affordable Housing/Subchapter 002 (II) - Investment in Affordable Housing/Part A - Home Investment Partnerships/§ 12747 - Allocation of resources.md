@@ -4,13 +4,13 @@
 
 #### (1) States and units of general local government
 
-&emsp;After reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b) of this section. Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
+&emsp;After reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b). Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
 
 #### (2) Repealed. Pub. L. 104–330, title V, §505(a)(1)(B), Oct. 26, 1996, 110 Stat. 4044
 
 #### (3) <sup>1</sup> Insular areas
 
-&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out thissubchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
+&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
 
 #### (b) Formula allocation
 
@@ -56,11 +56,11 @@
 
 #### (4) Threshold reduction
 
-&emsp;If the amount appropriated pursuant to section 12724 of this title for any fiscal year is less than $1,500,000,000, then this section shall be applied during that year by substituting"$335,000" for "$500,000" where it appears in paragraph (3).
+&emsp;If the amount appropriated pursuant to section 12724 of this title for any fiscal year is less than $1,500,000,000, then this section shall be applied during that year by substituting "$335,000" for "$500,000" where it appears in paragraph (3).
 
 #### (c) Criteria for direct reallocation
 
-The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a direct reallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategies under this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
+The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a directreallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategies under this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
 
 &emsp;(1) the applicant's demonstrated commitment to expand the supply of affordable rental housing, including units developed by public housing agencies, as indicated by the additional number of units of affordable housing made available through production or rehabilitation within the previous 2 years, making adjustment for regional variations in construction and rehabilitation costs and giving special consideration to the number of additional units made available under this subchapter through production or rehabilitation, including units developed by public housing agencies, in relation to the amounts made available under this program;
 
@@ -108,9 +108,9 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out "reserving amounts under paragraph (2) for Indian tribes and after" after "After".
 
-Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: "For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section.The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment."
+Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: "For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment."
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: "After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section."
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: "After reserving amountsfor Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section."
 
 Pub. L. 102–389 made identical amendment to those made by Pub. L. 102–229 and Pub. L. 102–230, §1(1). See 1991 Amendment note below.
 
@@ -180,7 +180,7 @@ Pub. L. 104–330, title V, §505(b), Oct. 26, 1996, 110 Stat. 4044, provided th
 
 Amendment by section 211(a)(2) of Pub. L. 102–550 applicable with respect to fiscal year 1993 and thereafter, see section 211(b) of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
-Amendment by sections 202(b) and 203(b) of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by sections 202(b) and 203(b) of Pub. L. 102–550 applicable to unexpended funds allocated undersubchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Applicability of Grant Thresholds
 

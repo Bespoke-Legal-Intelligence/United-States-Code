@@ -10,7 +10,7 @@ The Administrator of the Environmental Protection Agency shall—
 
 &emsp;&emsp;(B) developing disposal methods as alternatives to the dumping described in subparagraph (A); and
 
-&emsp;(2) encourage, cooperate with, promote the coordination of, and render financial and otherassistance to appropriate public authorities, agencies, and institutions (whether Federal, State, interstate, or local) and appropriate private agencies, institutions, and individuals in the conduct of research and other activities described in paragraph (1).
+&emsp;(2) encourage, cooperate with, promote the coordination of, and render financial and other assistance to appropriate public authorities, agencies, and institutions (whether Federal, State, interstate, or local) and appropriate private agencies, institutions, and individuals in the conduct of research and other activities described in paragraph (1).
 
 #### (b) Termination date for ocean dumping of sewage sludge not affected
 
@@ -34,7 +34,7 @@ The Administrator, in cooperation with the Secretary, the Secretary of Commerce,
 
 The Administrator, in cooperation with the Secretary of Commerce, shall submit to the Congress and the President, not later than one year after April 7, 1986, a report on sewage sludge disposal in the New York City metropolitan region. The report shall—
 
-&emsp;(1) consider the factors listed in subsection (c) of this section as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
+&emsp;(1) consider the factors listed in subsection (c) as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
 
 &emsp;(2) include an assessment of the cost of these alternatives; and
 

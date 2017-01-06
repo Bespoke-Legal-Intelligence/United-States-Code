@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Limitation
 
-&emsp;The aggregate amount of qualified wages and qualified employee health insurance coststaken into account with respect to any employee for any taxable year (and for the base period under subsection (a)(2)) shall not exceed $20,000.
+&emsp;The aggregate amount of qualified wages and qualified employee health insurance costs taken into account with respect to any employee for any taxable year (and for the base period under subsection (a)(2)) shall not exceed $20,000.
 
 #### (c) Qualified employee
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (4) Employment must be trade or business employment
 
-&emsp;An employee shall be treated as a qualified employee for any taxable year of the employer only if more than 50 percent of the wages paid or incurred by the employer to such employee during such taxable year are for services performed in a trade or business of the employer. Any determination as to whether the preceding sentence applies with respect to any employee for any taxable year shall be made without regard to subsection (e)(2).
+&emsp;An employee shall be treated as a qualified employee for any taxable year of the employeronly if more than 50 percent of the wages paid or incurred by the employer to such employee during such taxable year are for services performed in a trade or business of the employer. Any determination as to whether the preceding sentence applies with respect to any employee for any taxable year shall be made without regard to subsection (e)(2).
 
 #### (5) Certain employees not eligible
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) by a transaction to which section 381(a) applies if the employee continues to be employed by the acquiring corporation, or
 
-&emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues tobe employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
+&emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
 
 #### (4) Special rule
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (5) Special rule for short taxable years
 
-&emsp;For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
+&emsp;For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of daysin the taxable year and the denominator of which is 365.
 
 #### (f) Termination
 

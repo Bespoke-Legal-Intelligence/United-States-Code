@@ -74,7 +74,7 @@
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for a State applies only if, as of April 1, 2008, theState is substantially in compliance with the agreement under clause (iii)(II).
+&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for a State applies only if, as of April 1, 2008, the State is substantially in compliance with the agreement under clause (iii)(II).
 
 #### (v) Progress toward names-based reporting
 
@@ -92,7 +92,7 @@
 
 #### (III) Increased adjustment for certain States previously using code-based reporting
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in a State that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
+&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph for each of fiscal years 2010 through 2012, theSecretary shall deem the applicable number of living cases of HIV/AIDS in a State that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) there is an area in such State that satisfies all of the conditions described in items (aa) through (cc) of section 300ff–13(a)(3)(C)(vi)(III) of this title; or
 
@@ -136,7 +136,7 @@
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of thelimitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
 
 #### (F) Appropriations for treatment drug program
 
@@ -196,7 +196,7 @@
 
 #### (iii) Fiscal year 2013
 
-&emsp;&emsp;&emsp;For fiscal year 2013, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is notless than 92.5 percent of such total for the State for fiscal year 2012.
+&emsp;&emsp;&emsp;For fiscal year 2013, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 92.5 percent of such total for the State for fiscal year 2012.
 
 #### (iv) Source of funds for increase
 
@@ -216,7 +216,7 @@
 
 #### (1) Allowances
 
-&emsp;Prior to allocating assistance under this subsection, a State shall consider the unmet needs of those areas that have not received financial assistance under part A of this subchapter.
+&emsp;Prior to allocating assistance under this subsection, a State shall consider the unmetneeds of those areas that have not received financial assistance under part A.
 
 #### (2) Planning and evaluations
 
@@ -272,7 +272,7 @@
 
 #### (5) Exception
 
-&emsp;With respect to a State that receives the minimum allotment under subsection (a)(1) of this section for a fiscal year, such State, from the amounts received under a grant awarded under section 300ff–21 of this title for such fiscal year for the activities described in paragraphs (2) and (3), may, notwithstanding paragraphs (2) through (4), use not more than thatamount required to support one full-time-equivalent employee.
+&emsp;With respect to a State that receives the minimum allotment under subsection (a)(1) for a fiscal year, such State, from the amounts received under a grant awarded under section 300ff–21 of this title for such fiscal year for the activities described in paragraphs (2) and (3), may, notwithstanding paragraphs (2) through (4), use not more than that amount required to support one full-time-equivalent employee.
 
 #### (6) Construction
 
@@ -462,7 +462,7 @@ Subsec. (b)(3)(B). Pub. L. 105–392, §417(2), struck out "the Virgin Islands, 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(g)(2), struck out subsec. (a) which related to special projects of national significance.
 
-Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of subsec. (a)(1) by substituting "section 300ff–77" for "section 300ff–30", could not be executed because of the repeal of subsec. (a) by Pub. L. 104–146, §3(g)(2). See above.
+Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of subsec. (a)(1) by substituting"section 300ff–77" for "section 300ff–30", could not be executed because of the repeal of subsec. (a) by Pub. L. 104–146, §3(g)(2). See above.
 
 Subsec. (b)(1). Pub. L. 104–146, §6(c)(3)(B), which directed amendment of subsec. (b)(1) by substituting "section 300ff–77 of this title" for "section 300ff–30 of this title", could not be executed because the words "section 300ff–30 of this title" did not appear subsequent to the general amendment of subsec. (b)(1) by Pub. L. 104–146, §5. See below.
 

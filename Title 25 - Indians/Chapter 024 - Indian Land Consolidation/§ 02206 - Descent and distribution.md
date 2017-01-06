@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interest by no more than 1 heir, so that the interest does not further fractionate;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interestby no more than 1 heir, so that the interest does not further fractionate;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the tribal rule does not apply to any interest disposed of by a valid will;
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), any interest"; <sup>5</sup> in trust or restricted land that is subject to section 464 of this title, may be devised only in accordance with—
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), any interest"; <sup>5</sup> in trust or restricted land that is subject to section 5107 of this title, may be devised only in accordance with—
 
 &emsp;&emsp;&emsp;&emsp;(I) that section;
 
@@ -212,7 +212,7 @@
 
 #### (iii) Effect
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), nothing; and <sup>6</sup> in this section or in section 464 of this title, shall be construed to authorize the devise of any interest in trust or restricted land that is subject to section 464 of this title to any person as a fee interest under subparagraph (A)(ii).
+&emsp;&emsp;&emsp;Except as provided in clause (ii), nothing; and <sup>6</sup> in this section or in section 5107 of this title, shall be construed to authorize the devise of any interest in trust or restricted land that is subject to section 5107 of this title to any person as a fee interest under subparagraph (A)(ii).
 
 #### (3) General devise of an interest in trust personalty
 
@@ -348,7 +348,7 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 #### (3) Limitation on effect of paragraph
 
-&emsp;Except to the extent that this chapter would amend or otherwise affect the application of a Federal law specified or described in paragraph (1) or (2), nothing in paragraph (2) limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.
+&emsp;Except to the extent that this chapter would amend or otherwise affect the application of aFederal law specified or described in paragraph (1) or (2), nothing in paragraph (2) limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.
 
 #### (h) Rules of interpretation
 
@@ -380,7 +380,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (B) Meaning of "heirs" and "next of kin", etc.; time of ascertaining class
 
-&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's "heirs", "next of kin", "relatives", or "family" shall mean those persons, including the spouse, who would be entitled to take underthe provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
+&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's "heirs", "next of kin", "relatives", or "family" shall mean those persons, including the spouse, who would be entitled to take under the provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
 
 #### (C) Time for ascertaining class
 
@@ -450,7 +450,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (A) In general
 
-&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by theUnited States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
+&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by the United States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
 
 #### (B) Dismissal or withdrawal
 
@@ -568,7 +568,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 &emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B), shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
 
-&emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the property or as of the time of the decedent's death, whichever occurs first.
+&emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the propertyor as of the time of the decedent's death, whichever occurs first.
 
 &emsp;(C) If the recipient of the trust personalty predeceases the decedent, the property shall not be treated as an advancement or taken into account in computing the division and distribution of the decedent's intestate estate unless the decedent's contemporaneous writing provides otherwise.
 
@@ -670,7 +670,7 @@ After receiving a written request by any owner of a trust or restricted interest
 
 #### (B) Limitation
 
-&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties orresponsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
+&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties or responsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
 
 #### (C) Secretarial approval of transactions
 
@@ -792,7 +792,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### (B) Holding in trust
 
-&emsp;&emsp;Proceeds described in subparagraph (A) shall be deposited and held in an account as trust personalty if the interest sold would otherwise pass to—
+&emsp;&emsp;Proceeds described in subparagraph (A) shall be deposited and held in an account astrust personalty if the interest sold would otherwise pass to—
 
 &emsp;&emsp;&emsp;(i) the heir, by intestate succession under subsection (a); or
 
@@ -806,7 +806,7 @@ This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (g)(2), (3), intr
 
 Section 8 of the American Indian Probate Reform Act of 2004, referred to in subsecs. (a)(2)(D)(iv)(II)(dd), (c)(2), and (j)(2)(A)(ii)(I), (7)(B), is section 8 of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
-Public Law 91–627, referred to in subsec. (g)(1)(A), is Pub. L. 91–627, Dec. 31, 1970, 84 Stat. 1874, which amended section 607 of this title and enacted provisions set out as a note under section 607 of this title.
+Public Law 91–627, referred to in subsec. (g)(1)(A), is Pub. L. 91–627, Dec. 31, 1970, 84 Stat. 1874, which amended former section 607 of this title and enacted provisions formerly set out as a note under section 607 of this title.
 
 Public Law 92–377, referred to in subsec. (g)(1)(B), is Pub. L. 92–377, Aug. 10, 1972, 86 Stat. 530, which is not classified to the Code.
 
@@ -820,7 +820,7 @@ Act of July 8, 1940, referred to in subsec. (j)(2)(B)(ii), is act July 8, 1940, 
 
 #### Prior Provisions
 
-A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984,98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
+A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
 
 #### Amendments
 
@@ -940,7 +940,7 @@ Small undivided interests in indian lands.—The amendments made by subsection (
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 
 #### Effective Date of 2004 Amendment
 

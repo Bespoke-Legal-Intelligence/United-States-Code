@@ -10,7 +10,7 @@
 
 #### (B) Additional service
 
-&emsp;&emsp;In addition to signals provided under subparagraph (A), any satellite carrier may also provide service under the statutory license of section 122 of title 17, to the local market within which such household is located. The service provided under section 122 of suchtitle may be in addition to the two signals provided under section 119 of such title.
+&emsp;&emsp;In addition to signals provided under subparagraph (A), any satellite carrier may also provide service under the statutory license of section 122 of title 17, to the local market within which such household is located. The service provided under section 122 of such title may be in addition to the two signals provided under section 119 of such title.
 
 #### (2) Replacement of distant signals with local signals
 
@@ -20,7 +20,7 @@
 
 #### (i) For those receiving distant signals
 
-&emsp;&emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the signal of a network station solely by reason of section 119(e) of title 17 (in this subparagraph referred to as a "distant signal"), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
+&emsp;&emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the signalof a network station solely by reason of section 119(e) of title 17 (in this subparagraph referred to as a "distant signal"), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(I) In a case in which the satellite carrier makes available to the subscriber the signal of a local network station affiliated with the same television network pursuant to section 338 of this title, the carrier may only provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber—
 
@@ -58,13 +58,13 @@
 
 &emsp;&emsp;&emsp;(i) is not a subscriber lawfully receiving such secondary transmission as of the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to section 338 of this title (and the retransmission of such signal by such carrier can reach such subscriber); or
 
-&emsp;&emsp;&emsp;(ii) lawfully subscribes to and receives a distant signal on or after the date of enactment of the Satellite Television Extension and Localism Act of 2010, and, subsequent to such subscription, the satellite carrier makes available to that subscriber the signal of a local network station affiliated with the same network as the distantsignal (and the retransmission of such signal by such carrier can reach such subscriber), unless such person subscribes to the signal of the local network station within 60 days after such signal is made available.
+&emsp;&emsp;&emsp;(ii) lawfully subscribes to and receives a distant signal on or after the date of enactment of the Satellite Television Extension and Localism Act of 2010, and, subsequent to such subscription, the satellite carrier makes available to that subscriber the signal of a local network station affiliated with the same network as the distant signal (and the retransmission of such signal by such carrier can reach such subscriber), unless such person subscribes to the signal of the local network station within 60 days after such signal is made available.
 
 #### (D) Special rules for distant signals
 
 #### (i) Eligibility and signal testing
 
-&emsp;&emsp;&emsp;A subscriber of a satellite carrier shall be eligible to receive a distant signal of a network station affiliated with the same network under this section if, with respect to a local network station, such subscriber—
+&emsp;&emsp;&emsp;A subscriber of a satellite carrier shall be eligible to receive a distant signal of a network station affiliated with the same network under this section if, with respectto a local network station, such subscriber—
 
 &emsp;&emsp;&emsp;&emsp;(I) is a subscriber whose household is not predicted by the model specified in subsection (c)(3) to receive the signal intensity required under section 73.622(e)(1) or, in the case of a low-power station or translator station transmitting an analog signal, section 73.683(a) of title 47, Code of Federal Regulations, or a successor regulation;
 
@@ -120,7 +120,7 @@
 
 #### (H) Available defined
 
-&emsp;&emsp;For purposes of this paragraph, a satellite carrier makes available a local signal to asubscriber or person if the satellite carrier offers that local signal to other subscribers who reside in the same zip code as that subscriber or person.
+&emsp;&emsp;For purposes of this paragraph, a satellite carrier makes available a local signal to a subscriber or person if the satellite carrier offers that local signal to other subscribers who reside in the same zip code as that subscriber or person.
 
 #### (3) Penalty for violation
 
@@ -180,7 +180,7 @@
 
 #### (A) Predictive model
 
-&emsp;&emsp;Within 270 days after the date of the enactment of the Satellite Television Extension and Localism Act of 2010, the Commission shall develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations, through the use of an antenna, to receive signals in accordance with the signal intensity standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or a successor regulation, including to account for the continuing operation of translator stations and low power television stations. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Commission in CS Docket No. 98–201, as previously revised with respect to analog signals, and as recommended by the Commission with respect to digital signals in its Report to Congress in ET Docket No. 05–182, FCC 05–199 (released December 9, 2005). The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.
+&emsp;&emsp;Within 270 days after the date of the enactment of the Satellite Television Extension and Localism Act of 2010, the Commission shall develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations, through the use of an antenna, to receive signals in accordance with the signal intensity standard in section73.622(e)(1) of title 47, Code of Federal Regulations, or a successor regulation, including to account for the continuing operation of translator stations and low power television stations. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Commission in CS Docket No. 98–201, as previously revised with respect to analog signals, and as recommended by the Commission with respect to digital signals in its Report to Congress in ET Docket No. 05–182, FCC 05–199 (released December 9, 2005). The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.
 
 #### (B) On-location testing
 
@@ -210,7 +210,7 @@
 
 #### (5) Definition
 
-&emsp;Notwithstanding subsection (d)(4) of this section, for purposes of paragraphs (2) and (4) of this subsection, the term "satellite carrier" includes a distributor (as defined in section 119(d)(1) of title 17), but only if the satellite distributor's relationship with the subscriber includes billing, collection, service activation, and service deactivation.
+&emsp;Notwithstanding subsection (d)(4), for purposes of paragraphs (2) and (4) of this subsection, the term "satellite carrier" includes a distributor (as defined in section 119(d)(1) of title 17), but only if the satellite distributor's relationship with the subscriber includes billing, collection, service activation, and service deactivation.
 
 #### (d) Definitions
 
@@ -292,7 +292,7 @@ Subsec. (a)(2)(D)(xi). Pub. L. 111–175, §204(b)(1)(B)(v)(II), struck out cl. 
 
 Subsec. (a)(2)(E). Pub. L. 111–175, §204(b)(1)(B)(vi), substituted "distant signal" for "distant analog signal or distant digital signal (within the meaning of subparagraph (A), (B), or (D))".
 
-Subsec. (c)(3). Pub. L. 111–175, §204(b)(2)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available."
+Subsec. (c)(3). Pub. L. 111–175, §204(b)(2)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shallestablish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available."
 
 Subsec. (c)(4)(A). Pub. L. 111–175, §204(b)(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: "If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signal that meets the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the subscriber shall not be denied the retransmission of a signal of a network station under section 119 of title 17."
 

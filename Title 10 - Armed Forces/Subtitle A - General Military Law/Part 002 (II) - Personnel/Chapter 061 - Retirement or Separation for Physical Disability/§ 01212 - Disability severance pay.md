@@ -8,7 +8,7 @@
 
 &emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination.
 
-&emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
+&emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for thephysical disability for which he is separated and which was found to exist as a result of a physical examination, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
 
 (b) For the purposes of subsection (a), a part of a year of active service that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded.
 
@@ -54,7 +54,7 @@ In subsection (a), the words "Upon separation" are inserted for clarity. The wor
 
 In clause (2)(A)–(D), the words "Twice the amount of monthly" are substituted for the words "An amount equal to two months' ". The words "if his name was not carried on that list" are substituted for the words "whichever is earlier", since the member might be separated without ever being carried on the list. The word "rating" is omitted as surplusage.
 
-In clause (2)(B), the words "the Secretary of the military department, or the Secretary of the Treasury, asthe case may be, having jurisdiction over the armed force from which he is separated" are substituted for the words "the Secretary concerned" for clarity.
+In clause (2)(B), the words "the Secretary of the military department, or the Secretary of the Treasury, as the case may be, having jurisdiction over the armed force from which he is separated" are substituted for the words "the Secretary concerned" for clarity.
 
 In clause (2)(C), the words "regular or reserve" are inserted, since they are the only "permanent" grades.
 
@@ -97,4 +97,96 @@ Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, pro
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Combat-Injured Veterans Tax Fairness
+
+Pub. L. 114–292, Dec. 16, 2016, 130 Stat. 1500, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Combat-Injured Veterans Tax Fairness Act of 2016'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress makes the following findings:
+
+&emsp;"(1) Approximately 10,000 to 11,000 individuals are retired from service in the Armed Forces for medical reasons each year.
+
+&emsp;"(2) Some of such individuals are separated from service in the Armed Forces for combat-related injuries (as defined in section 104(b)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 104(b)(3)\]).
+
+&emsp;"(3) Congress has recognized the tremendous personal sacrifice of veterans with combat-related injuries by, among other things, specifically excluding from taxable income severance pay received for combat-related injuries.
+
+&emsp;"(4) Since 1991, the Secretary of Defense has improperly withheld taxes from severance pay for wounded veterans, thus denying them their due compensation and a significant benefit intended by Congress.
+
+&emsp;"(5) Many veterans owed redress are beyond the statutory period to file an amended tax return because they were not or are not aware that taxes were improperly withheld.
+
+#### "SEC. 3. RESTORATION OF AMOUNTS IMPROPERLY WITHHELD FOR TAX PURPOSES FROM SEVERANCE PAYMENTS TO VETERANS WITH COMBAT-RELATED INJURIES.
+
+"(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Defense shall—
+
+&emsp;"(1) identify—
+
+&emsp;&emsp;"(A) the severance payments—
+
+&emsp;&emsp;&emsp;"(i) that the Secretary paid after January 17, 1991;
+
+&emsp;&emsp;&emsp;"(ii) that the Secretary computed under section 1212 of title 10, United States Code;
+
+&emsp;&emsp;&emsp;"(iii) that were not considered gross income pursuant to section 104(a)(4) of the Internal Revenue Code of 1986 \[26 U.S.C. 104(a)(4)\]; and
+
+&emsp;&emsp;&emsp;"(iv) from which the Secretary withheld amounts for tax purposes; and
+
+&emsp;&emsp;"(B) the individuals to whom such severance payments were made; and
+
+&emsp;"(2) with respect to each person identified under paragraph (1)(B), provide—
+
+&emsp;&emsp;"(A) notice of—
+
+&emsp;&emsp;&emsp;"(i) the amount of severance payments in paragraph (1)(A) which were improperly withheld for tax purposes; and
+
+&emsp;&emsp;&emsp;"(ii) such other information determined to be necessary by the Secretary of the Treasury to carry out the purposes of this section; and
+
+&emsp;&emsp;"(B) instructions for filing amended tax returns to recover the amounts improperly withheld for tax purposes.
+
+"(b)
+
+Extension of Limitation on Time for Credit or Refund.—
+
+&emsp;"(1)
+
+Period for filing claim.—If a claim for credit or refund under section 6511(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 6511(a)\] relates to a specified overpayment, the 3-year period of limitation prescribed by such subsection shall not expire before the date which is 1 year after the date the information return described in subsection (a)(2) is provided. The allowable amount of credit or refund of a specified overpayment shall be determined without regard to the amount of tax paid within the period provided in section 6511(b)(2) \[26 U.S.C. 6511(b)(2)\].
+
+&emsp;"(2)
+
+Specified overpayment.—For purposes of paragraph (1), the term 'specified overpayment' means an overpayment attributable to a severance payment described in subsection (a)(1).
+
+#### "SEC. 4. REQUIREMENT THAT SECRETARY OF DEFENSE ENSURE AMOUNTS ARE NOT WITHHELD FOR TAX PURPOSES FROM SEVERANCE PAYMENTS NOT CONSIDERED GROSS INCOME.
+
+"The Secretary of Defense shall take such actions as may be necessary to ensure that amounts are not withheld for tax purposes from severance payments made by the Secretary to individuals when such payments are not considered gross income pursuant to section 104(a)(4) of the Internal Revenue Code of 1986 \[26 U.S.C. 104(a)(4)\].
+
+#### "SEC. 5. REPORT TO CONGRESS.
+
+"(a)
+
+In General.—After completing the identification required by section 3(a) and not later than 1 year after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Defense shall submit to the appropriate committees of Congress a report on the actions taken by the Secretary to carry out this Act.
+
+"(b)
+
+Contents.—The report submitted under subsection (a) shall include the following:
+
+&emsp;"(1) The number of individuals identified under section 3(a)(1)(B).
+
+&emsp;"(2) Of all the severance payments described in section 3(a)(1)(A), the aggregate amount that the Secretary withheld for tax purposes from such payments.
+
+&emsp;"(3) A description of the actions the Secretary plans to take to carry out section 4.
+
+"(c)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Committee on Armed Services, the Committee on Veterans' Affairs, and the Committee on Finance of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services, the Committee on Veterans' Affairs, and the Committee on Ways and Means of the House of Representatives."
 

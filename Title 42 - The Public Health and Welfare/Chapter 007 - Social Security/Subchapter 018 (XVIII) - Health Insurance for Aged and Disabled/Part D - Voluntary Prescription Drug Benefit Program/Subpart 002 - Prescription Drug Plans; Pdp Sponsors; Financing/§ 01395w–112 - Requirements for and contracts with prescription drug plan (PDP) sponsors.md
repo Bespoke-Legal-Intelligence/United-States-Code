@@ -6,7 +6,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (1) Licensure
 
-&emsp;Subject to subsection (c) of this section, the sponsor is organized and licensed under State law as a risk-bearing entity eligible to offer health insurance or health benefits coverage in each State in which it offers a prescription drug plan.
+&emsp;Subject to subsection (c), the sponsor is organized and licensed under State law as a risk-bearing entity eligible to offer health insurance or health benefits coverage in each State in which it offers a prescription drug plan.
 
 #### (2) Assumption of financial risk for unsubsidized coverage
 
@@ -16,11 +16,11 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (B) Reinsurance permitted
 
-&emsp;&emsp;The plan sponsor may obtain insurance or make other arrangements for the cost of coverage provided to any enrollee to the extent that the sponsor is at risk for providing such coverage.
+&emsp;&emsp;The plan sponsor may obtain insurance or make other arrangements for the cost ofcoverage provided to any enrollee to the extent that the sponsor is at risk for providing such coverage.
 
 #### (3) Solvency for unlicensed sponsors
 
-&emsp;In the case of a PDP sponsor that is not described in paragraph (1) and for which a waiver has been approved under subsection (c) of this section, such sponsor shall meet solvency standards established by the Secretary under subsection (d) of this section.
+&emsp;In the case of a PDP sponsor that is not described in paragraph (1) and for which a waiver has been approved under subsection (c), such sponsor shall meet solvency standards established by the Secretary under subsection (d).
 
 #### (b) Contract requirements
 
@@ -82,7 +82,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to all clean claims submitted by pharmacies (other than pharmacies that dispense drugs by mail order only or are located in, or contract with, along-term care facility) under this part within the applicable number of calendar days after the date on which the claim is received.
+&emsp;&emsp;&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to all clean claims submitted by pharmacies (other than pharmacies that dispense drugs by mail order only or are located in, or contract with, a long-term care facility) under this part within the applicable number of calendar days after the date on which the claim is received.
 
 #### (ii) Clean claim defined
 
@@ -178,11 +178,11 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an entity that seeks to offer a prescription drug plan in a State, the Secretary shall waive the requirement of subsection (a)(1) of this section that the entity be licensed in that State if the Secretary determines, based on the application and other evidence presented to the Secretary, that any of the grounds for approval of the application described in paragraph (2) have been met.
+&emsp;&emsp;In the case of an entity that seeks to offer a prescription drug plan in a State, the Secretary shall waive the requirement of subsection (a)(1) that the entity be licensed in that State if the Secretary determines, based on the application and other evidence presented to the Secretary, that any of the grounds for approval of the application described in paragraph (2) have been met.
 
 #### (B) Application of regional plan waiver rule
 
-&emsp;&emsp;In addition to the waiver available under subparagraph (A), the provisions of section 1395w–27a(d) of this title shall apply to PDP sponsors under this part in a manner similar to the manner in which such provisions apply to MA organizations under part C of this subchapter, except that no application shall be required under paragraph (1)(B) of such section in the case of a State that does not provide a licensing process for such a sponsor.
+&emsp;&emsp;In addition to the waiver available under subparagraph (A), the provisions of section 1395w–27a(d) of this title shall apply to PDP sponsors under this part in a manner similar to the manner in which such provisions apply to MA organizations under part C, except that no application shall be required under paragraph (1)(B) of such section in the case of a State that does not provide a licensing process for such a sponsor.
 
 #### (2) Grounds for approval
 
@@ -222,11 +222,11 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (2) Compliance with standards
 
-&emsp;A PDP sponsor that is not licensed by a State under subsection (a)(1) of this section and for which a waiver application has been approved under subsection (c) of this section shall meet solvency and capital adequacy standards established under paragraph (1). The Secretary shall establish certification procedures for such sponsors with respect to such solvency standards in the manner described in section 1395w–25(c)(2) of this title.
+&emsp;A PDP sponsor that is not licensed by a State under subsection (a)(1) and for which a waiver application has been approved under subsection (c) shall meet solvency and capital adequacy standards established under paragraph (1). The Secretary shall establish certification procedures for such sponsors with respect to such solvency standards in the manner described in section 1395w–25(c)(2) of this title.
 
 #### (e) Licensure does not substitute for or constitute certification
 
-The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of this section or has a waiver application approved under subsection (c) of this section does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
+The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) or has a waiver application approved under subsection (c) does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
 
 #### (f) Periodic review and revision of standards
 
@@ -240,7 +240,7 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of 
 
 #### (g) Prohibition of State imposition of premium taxes; relation to State laws
 
-The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C of this subchapter.
+The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582.)
 

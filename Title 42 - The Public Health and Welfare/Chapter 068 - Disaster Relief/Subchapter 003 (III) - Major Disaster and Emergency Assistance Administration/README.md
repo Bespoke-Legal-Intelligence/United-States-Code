@@ -34,3 +34,5 @@
 - [&sect; 05165b - Management costs](%C2%A7%2005165b%20-%20Management%20costs.md)
 - [&sect; 05165c - Public notice, comment, and consultation requirements](%C2%A7%2005165c%20-%20Public%20notice%2C%20comment%2C%20and%20consultation%20requirements.md)
 - [&sect; 05165d - Designation of Small State and Rural Advocate](%C2%A7%2005165d%20-%20Designation%20of%20Small%20State%20and%20Rural%20Advocate.md)
+- [&sect; 05165e - Integrated plan for administrative cost reduction](%C2%A7%2005165e%20-%20Integrated%20plan%20for%20administrative%20cost%20reduction.md)
+- [&sect; 05165f - National Urban Search and Rescue Response System](%C2%A7%2005165f%20-%20National%20Urban%20Search%20and%20Rescue%20Response%20System.md)

@@ -4,11 +4,11 @@
 
 #### (1) Exclusive means of plan termination
 
-&emsp;Except in the case of a termination for which proceedings are otherwise instituted by the corporation as provided in section 1342 of this title, a single-employer plan may be terminated only in a standard termination under subsection (b) of this section or a distress termination under subsection (c) of this section.
+&emsp;Except in the case of a termination for which proceedings are otherwise instituted by the corporation as provided in section 1342 of this title, a single-employer plan may be terminated only in a standard termination under subsection (b) or a distress termination under subsection (c).
 
 #### (2) 60-day notice of intent to terminate
 
-&emsp;Not less than 60 days before the proposed termination date of a standard termination under subsection (b) of this section or a distress termination under subsection (c) of this section, the plan administrator shall provide to each affected party (other than the corporation in the case of a standard termination) a written notice of intent to terminate stating that such termination is intended and the proposed termination date. The written notice shall include any related additional information required in regulations of the corporation.
+&emsp;Not less than 60 days before the proposed termination date of a standard termination under subsection (b) or a distress termination under subsection (c), the plan administrator shall provide to each affected party (other than the corporation in the case of a standard termination) a written notice of intent to terminate stating that such termination is intended and the proposed termination date. The written notice shall include any related additional information required in regulations of the corporation.
 
 #### (3) Adherence to collective bargaining agreements
 
@@ -20,7 +20,7 @@
 
 &emsp;A single-employer plan may terminate under a standard termination only if—
 
-&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2) of this section,
+&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2),
 
 &emsp;&emsp;(B) the requirements of subparagraphs (A) and (B) of paragraph (2) are met,
 
@@ -32,7 +32,7 @@
 
 #### (A) Notice to the corporation
 
-&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2) of this section, the plan administrator shall send a notice to the corporation setting forth—
+&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2), the plan administrator shall send a notice to the corporation setting forth—
 
 &emsp;&emsp;&emsp;(i) certification by an enrolled actuary—
 
@@ -78,11 +78,11 @@
 
 &emsp;&emsp;&emsp;Within 60 days after receipt of the notice under subparagraph (A), the corporation shall issue a notice of noncompliance to the plan administrator if—
 
-&emsp;&emsp;&emsp;&emsp;(I) it determines, based on the notice sent under paragraph (2)(A) of subsection (b) of this section, that there is reason to believe that the plan is not sufficient for benefit liabilities,
+&emsp;&emsp;&emsp;&emsp;(I) it determines, based on the notice sent under paragraph (2)(A) of subsection (b), that there is reason to believe that the plan is not sufficient for benefit liabilities,
 
-&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affected parties or otherwise obtained by the corporation, that there is reason to believe that the plan is not sufficient for benefit liabilities, or
+&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affected parties or otherwise obtained by the corporation, that there is reason to believethat the plan is not sufficient for benefit liabilities, or
 
-&emsp;&emsp;&emsp;&emsp;(III) it determines that any other requirement of subparagraph (A) or (B) of this paragraph or of subsection (a)(2) of this section has not been met, unless it further determines that the issuance of such notice would be inconsistent with the interests of participants and beneficiaries.
+&emsp;&emsp;&emsp;&emsp;(III) it determines that any other requirement of subparagraph (A) or (B) of this paragraph or of subsection (a)(2) has not been met, unless it further determines that the issuance of such notice would be inconsistent with the interests of participants and beneficiaries.
 
 #### (ii) Extension
 
@@ -140,7 +140,7 @@
 
 #### (C) Fully funded
 
-&emsp;&emsp;For purposes of subparagraph (A), a plan shall be treated as fully funded with respect to any transaction or series of transactions if—
+&emsp;&emsp;For purposes of subparagraph (A), a plan shall be treated as fully funded with respectto any transaction or series of transactions if—
 
 &emsp;&emsp;&emsp;(i) in the case of a transaction or series of transactions which occur in a plan year beginning before January 1, 2008, the funded current liability percentage determined under section 1082(d) of this title for the plan year is at least 100 percent, and
 
@@ -156,7 +156,7 @@
 
 &emsp;A single-employer plan may terminate under a distress termination only if—
 
-&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2) of this section,
+&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2),
 
 &emsp;&emsp;(B) the requirements of subparagraph (A) of paragraph (2) are met, and
 
@@ -166,7 +166,7 @@
 
 #### (A) Information submitted to the corporation
 
-&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2) of this section, the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
+&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
 
 &emsp;&emsp;&emsp;(i) such information as the corporation may prescribe by regulation as necessary to make determinations under subparagraph (B) and paragraph (3);
 
@@ -198,7 +198,7 @@
 
 #### (B) Determination by the corporation of necessary distress criteria
 
-&emsp;&emsp;Upon receipt of the notice of intent to terminate required under subsection (a)(2) of this section and the information required under subparagraph (A), the corporation shall determine whether the requirements of this subparagraph are met as provided in clause (i), (ii), or (iii). The requirements of this subparagraph are met if each person who is (as of the proposed termination date) a contributing sponsor of such plan or a member of such sponsor's controlled group meets the requirements of any of the following clauses:
+&emsp;&emsp;Upon receipt of the notice of intent to terminate required under subsection (a)(2) and the information required under subparagraph (A), the corporation shall determine whether the requirements of this subparagraph are met as provided in clause (i), (ii), or (iii). The requirements of this subparagraph are met if each person who is (as of the proposed termination date) a contributing sponsor of such plan or a member of such sponsor's controlled group meets the requirements of any of the following clauses:
 
 #### (i) Liquidation in bankruptcy or insolvency proceedings
 
@@ -284,11 +284,11 @@
 
 #### (i) Cases of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution, in the manner described in subsection (b)(3) of this section, and shall take such other actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution, in the manner described in subsection (b)(3), and shall take such other actions as may be appropriate to carry out the termination of the plan.
 
 #### (ii) Cases of sufficiency for guaranteed benefits without a finding of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administrator shall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administrator shall proceed to distribute the plan's assets in the manner described in subsection (b)(3), make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
 
 #### (iii) Cases without any finding of sufficiency
 
@@ -310,7 +310,7 @@
 
 &emsp;&emsp;&emsp;The plan administrator shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2) of this section and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
+&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2) and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet the requirements of clause (ii) commencing on the date on which the plan administrator or the corporation makes a finding under subparagraph (C)(ii).
 
@@ -342,9 +342,9 @@ For purposes of this section—
 
 #### (e) Limitation on the conversion of a defined benefit plan to a defined contribution plan
 
-The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) of this section or distress termination under subsection (c) of this section.
+The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) or distress termination under subsection (c).
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22,1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
 
 #### References in Text
 
@@ -364,7 +364,7 @@ Subsec. (c)(1)(C). Pub. L. 109–280, §506(a)(2), substituted "subparagraphs (B
 
 Subsec. (c)(2)(D). Pub. L. 109–280, §506(a)(1), added subpar. (D).
 
-<b>1994</b>—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: "It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or".
+<b>1994</b>—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: "It has reason to believe that any requirement of subsection (a)(2) or subparagraph (A) or (B) has not been met, or".
 
 Subsec. (b)(2)(C)(i)(III). Pub. L. 103–465, §778(a)(1)(B), (C), added subcl. (III).
 
@@ -378,7 +378,7 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §7893(c), realigned margin of last senten
 
 Subsec. (b)(3)(B). Pub. L. 101–239, §7881(g)(4), inserted period at end.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted "unless the corporationdetermines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title," before "certification", in subcl. (I), inserted "and, if applicable, the proposed distribution date" after "termination date", and in subcls. (II) to (V), substituted "dates" for "date".
+Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted "unless the corporation determines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title," before "certification", in subcl. (I), inserted "and, if applicable, the proposed distribution date" after "termination date", and in subcls. (II) to (V), substituted "dates" for "date".
 
 Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–239, §7881(f)(7)(A), (B), struck out "(or its designee under section 1349(b) of this title)" before "to be able" and substituted "section 1322(c) of this title" for "section 1349 of this title".
 
@@ -428,7 +428,7 @@ Subsec. (c)(2)(A)(iv). Pub. L. 100–203, §9314(a)(2)(A), added cl. (iv) and st
 
 Subsec. (c)(2)(B). Pub. L. 100–203, §9313(b)(1)(A), substituted "a member" for "a substantial member" in introductory provisions.
 
-Subsec. (c)(2)(B)(i). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted "proposed termination date" for "termination date" in subcls. (I) and (II).
+Subsec. (c)(2)(B)(i). Pub. L. 100–203, §9313(b)(3), as amended by Pub. L. 101–239, §7881(g)(5), substituted"proposed termination date" for "termination date" in subcls. (I) and (II).
 
 Pub. L. 100–203, §9313(b)(4), inserted "(or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought)" in subcl. (I).
 
@@ -452,7 +452,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in headin
 
 Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before "the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section 1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
 
 Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
@@ -500,7 +500,7 @@ Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Em
 
 Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
-Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified."
+Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice ofnoncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified."
 
 Pub. L. 103–465, title VII, §778(b)(2), Dec. 8, 1994, 108 Stat. 5050, provided that: "The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\]."
 
@@ -582,7 +582,7 @@ Terminations for which notices of sufficiency have been issued.—In the case of
 
 &emsp;&emsp;"(C)
 
-Terminations proceeding as distress termination.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(ii), if the requirements of section 4041(c)(2)(B) of such Act (as amended by this title) are met, the termination shall be treated as a distress termination under section 4041(c) of such Act (as amended by this title).
+Terminations proceeding as distress termination.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(ii), if the requirementsof section 4041(c)(2)(B) of such Act (as amended by this title) are met, the termination shall be treated as a distress termination under section 4041(c) of such Act (as amended by this title).
 
 &emsp;&emsp;"(D)
 

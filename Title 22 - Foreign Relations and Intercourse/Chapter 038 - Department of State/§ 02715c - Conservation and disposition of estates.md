@@ -4,7 +4,7 @@
 
 #### (1) Authority to act as conservator
 
-&emsp;Whenever a United States citizen or national dies abroad, a consular officer shall actas the provisional conservator of the portion of the decedent's estate located abroad and, subject to paragraphs (3), (4), and (5), shall—
+&emsp;Whenever a United States citizen or national dies abroad, a consular officer shall act as the provisional conservator of the portion of the decedent's estate located abroad and, subject to paragraphs (3), (4), and (5), shall—
 
 &emsp;&emsp;(A) take possession of the personal effects of the decedent within his jurisdiction;
 

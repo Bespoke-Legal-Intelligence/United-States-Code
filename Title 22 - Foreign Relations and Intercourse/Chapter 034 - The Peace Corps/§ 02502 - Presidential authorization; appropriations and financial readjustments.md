@@ -6,7 +6,7 @@ The President is authorized to carry out programs in furtherance of the purposes
 
 #### (b) Authorization of appropriations
 
-(1) There are authorized to be appropriated to carry out the purposes of this chapter$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003.
+(1) There are authorized to be appropriated to carry out the purposes of this chapter $270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003.
 
 (2) Amounts authorized to be appropriated under paragraph (1) for a fiscal year are authorized to remain available for that fiscal year and the subsequent fiscal year.
 
@@ -64,9 +64,9 @@ Subsec. (c). Pub. L. 96–533, §601(b), substituted "1981" for "1980".
 
 Subsec. (c). Pub. L. 96–53, §301(2), substituted "1980" for "1978, $1,069,000, and for fiscal year 1979".
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
+<b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
-Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
+Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to$1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
 Subsec. (g). Pub. L. 95–331, §3(3), added subsec. (g).
 

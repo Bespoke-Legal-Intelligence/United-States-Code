@@ -148,7 +148,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;&emsp;&emsp;(iii) other official of the Department of the Interior; and
 
-&emsp;&emsp;(C) if actions on land not under the jurisdiction of the Secretary or the Secretary of the Interior are proposed, the appropriate Regional Forester shall provide evidence that the landowner intends to participate in, and provide appropriate funding to carry out, the actions.
+&emsp;&emsp;(C) if actions on land not under the jurisdiction of the Secretary or the Secretary of the Interior are proposed, the appropriate Regional Forester shall provide evidencethat the landowner intends to participate in, and provide appropriate funding to carry out, the actions.
 
 #### (d) Selection process
 

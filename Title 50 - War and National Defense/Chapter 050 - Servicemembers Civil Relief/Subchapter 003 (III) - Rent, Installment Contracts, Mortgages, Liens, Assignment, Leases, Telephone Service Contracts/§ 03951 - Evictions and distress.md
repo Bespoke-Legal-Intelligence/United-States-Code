@@ -66,7 +66,7 @@ Section was formerly classified to section 531 of the former Appendix to this ti
 
 #### Prior Provisions
 
-A prior section 301 of act Oct. 17, 1940, ch. 888, art. III, 54 Stat. 1182; Oct. 6, 1942, ch. 581, §9(a), (c), (d), 56 Stat. 771; Pub. L. 102–12, §9(9), Mar. 18, 1991, 105 Stat. 40, related to installment contracts for purchase of property, prior to the general amendment of this Act by Pub. L. 108–189. See section 3952 of this title.
+A prior section 301 of act Oct. 17, 1940, ch. 888, art. III, 54 Stat. 1182; Oct. 6, 1942, ch. 581, §9(a), (c), (d), 56 Stat.771; Pub. L. 102–12, §9(9), Mar. 18, 1991, 105 Stat. 40, related to installment contracts for purchase of property, prior to the general amendment of this Act by Pub. L. 108–189. See section 3952 of this title.
 
 Provisions similar to this section were contained in section 300 of act Oct. 17, 1940, ch. 888, art. III, 54 Stat. 1181; Oct. 6, 1942, ch. 581, §8, 56 Stat. 771; Pub. L. 89–358, §10, Mar. 3, 1966, 80 Stat. 28; Pub. L. 102–12, §§2(a), (b), 9(8), Mar. 18, 1991, 105 Stat. 34, 39, prior to the general amendment of this Act by Pub. L. 108–189.
 

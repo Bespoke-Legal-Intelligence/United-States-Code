@@ -1,6 +1,6 @@
 ### §4703. Demonstration projects
 
-(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
+(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstrationprojects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
 
 &emsp;(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 
@@ -97,6 +97,10 @@
 (i) Upon request of the Director of the Office of Personnel Management, agencies shall cooperate with and assist the Office, to the extent practicable, in any evaluation undertaken under subsection (h) of this section and provide the Office with requested information and reports relating to the conducting of demonstration projects in their respective agencies.
 
 (Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1186.)
+
+#### Effective Date
+
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
 #### Authority of Export-Import Bank To Conduct Demonstration Program
 

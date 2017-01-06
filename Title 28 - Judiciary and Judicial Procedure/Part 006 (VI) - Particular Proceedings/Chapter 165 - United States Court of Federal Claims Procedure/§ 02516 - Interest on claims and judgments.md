@@ -4,7 +4,7 @@
 
 (b) Interest on a judgment against the United States affirmed by the Supreme Court after review on petition of the United States is paid at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the date of the judgment.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, §57, 68 Stat. 1248; Pub. L. 97–164, title I, §139(j)(2), title III, §302(d), Apr. 2, 1982, 96 Stat. 43, 56; Pub. L. 97–258, §2(g)(5), (m)(3), Sept. 13, 1982, 96 Stat. 1061, 1062; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, §1(a)(7) \[title III, §307(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-636.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, §57, 68 Stat. 1248; Pub. L. 97–164, title I, §139(j)(2), title III, §302(d), Apr. 2, 1982, 96 Stat. 43, 56; Pub. L. 97–258, §2(g)(5), (m)(3), Sept. 13, 1982, 96 Stat. 1061, 1062; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, §1(a)(7) \[title III, §307(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–636.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) Burden of proof
 
-In any proceeding involving the issue of whether or not any person is liable for a penalty under section 6700, 6701, or 6702, the burden of proof with respect to such issue shall be on the Secretary.
+In any proceeding involving the issue of whether or not any person is liable for a penaltyunder section 6700, 6701, or 6702, the burden of proof with respect to such issue shall be on the Secretary.
 
 #### (b) Deficiency procedures not to apply
 
@@ -12,7 +12,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 #### (1) In general
 
-&emsp;If, within 30 days after the day on which notice and demand of any penalty under section6700 or 6701 is made against any person, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claim for refund of the amount so paid, no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
+&emsp;If, within 30 days after the day on which notice and demand of any penalty under section 6700 or 6701 is made against any person, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claim for refund of the amount so paid, no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
 
 #### (2) Person must bring suit in district court to determine his liability for penalty
 

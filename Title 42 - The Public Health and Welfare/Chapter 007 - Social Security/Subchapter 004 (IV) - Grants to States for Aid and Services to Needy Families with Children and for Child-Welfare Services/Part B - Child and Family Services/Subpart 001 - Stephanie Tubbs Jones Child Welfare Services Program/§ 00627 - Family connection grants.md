@@ -22,7 +22,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 &emsp;&emsp;(D) shall provide outreach to kinship care families, including by establishing, distributing, and updating a kinship care website, or other relevant guides or outreach materials;
 
-&emsp;&emsp;(E) shall promote partnerships between public and private agencies, including schools, community based or faith-based organizations, and relevant government agencies, to increase their knowledge of the needs of kinship care families and other individuals who are willing and able to be foster parents for children in foster care underthe responsibility of the State who are themselves parents to promote better services for those families;
+&emsp;&emsp;(E) shall promote partnerships between public and private agencies, including schools, community based or faith-based organizations, and relevant government agencies, to increase their knowledge of the needs of kinship care families and other individuals who are willing and able to be foster parents for children in foster care under the responsibility of the State who are themselves parents to promote better services for those families;
 
 &emsp;&emsp;(F) may establish and support a kinship care ombudsman with authority to intervene and help kinship caregivers access services; and
 

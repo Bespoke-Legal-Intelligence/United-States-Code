@@ -58,11 +58,11 @@
 
 #### (1) Availability of funds deposited by local checks
 
-&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 1 business day shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which the funds involved are available for withdrawal.
+&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section,and section 4003 of this title, not more than 1 business day shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which the funds involved are available for withdrawal.
 
 #### (2) Availability of funds deposited by nonlocal checks
 
-&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 4business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
+&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 4 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
 
 #### (3) Time period adjustments for cash withdrawal of certain checks
 

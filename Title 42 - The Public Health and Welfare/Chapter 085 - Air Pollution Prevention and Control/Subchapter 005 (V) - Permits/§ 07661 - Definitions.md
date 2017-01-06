@@ -4,7 +4,7 @@ As used in this subchapter—
 
 #### (1) Affected source
 
-&emsp;The term "affected source" shall have the meaning given such term in subchapter IV–A of this chapter.
+&emsp;The term "affected source" shall have the meaning given such term in subchapter IV–A.
 
 #### (2) Major source
 
@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) A major source as defined in section 7412 of this title.
 
-&emsp;&emsp;(B) A major stationary source as defined in section 7602 of this title or part D of subchapter I of this chapter.
+&emsp;&emsp;(B) A major stationary source as defined in section 7602 of this title or part D of subchapter I.
 
 #### (3) Schedule of compliance
 

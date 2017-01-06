@@ -10,7 +10,7 @@ The Administrator shall—
 
 &emsp;(3) provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1) of this section, to appropriate entities;
 
-&emsp;(4) coordinate with the United States Interagency Council on Homelessness to ensurethat homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
+&emsp;(4) coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
 
 &emsp;(5) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
 

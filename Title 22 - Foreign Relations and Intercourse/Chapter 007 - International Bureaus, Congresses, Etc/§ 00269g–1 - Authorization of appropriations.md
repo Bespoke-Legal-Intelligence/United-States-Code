@@ -12,5 +12,5 @@ There are authorized to be appropriated such sums as may be necessary for the pa
 
 #### Annual Appropriations
 
-Annual appropriations to meet the obligations of membership in various international organizationswere contained in acts listed in a note set out under section 269a of this title.
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) is not on a foreign voyage.
 
-&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
+&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
 
 &emsp;&emsp;(A)(i) was constructed, under construction, or under contract to be constructed as a fish tender vessel before January 1, 1980; or
 
@@ -56,11 +56,13 @@
 
 &emsp;(12) a vessel of the working fleet of the Panama Canal Commission not on a foreign voyage.
 
+&emsp;(13) a vessel of the United States on a domestic voyage that is within the Gulf of Mexico and operating not more than 15 nautical miles seaward of the base line from which the territorial sea of the United States is measured between Crystal Bay, Florida and Hudson Creek, Florida.
+
 (c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565.)
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565; Pub. L. 114–120, title VI, §612, Feb. 8, 2016, 130 Stat. 85.)
 
 #### Historical and Revision Notes
 
@@ -116,9 +118,11 @@ Clause (12) exempts vessels of the working voyages from the requirement to have 
 
 Section 5102(c) authorizes the Secretary to assign load lines for any vessel exempted from load line requirements by subsection (b) upon the request of the owner. It also provides that any exempted vessel for which load lines are assigned will remain subject to the load line requirements until its load line certificate is surrendered and the load line marks are removed.
 
-Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party,which are not in conflict with the International Convention on Load Lines.
+Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party, which are not in conflict with the International Convention on Load Lines.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(13). Pub. L. 114–120 added par. (13).
 
 <b>2012</b>—Subsec. (b)(3). Pub. L. 112–213 substituted "July 1, 2013." for "July 1, 2012."
 

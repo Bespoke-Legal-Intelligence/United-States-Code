@@ -14,7 +14,7 @@ A prior section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which related to d
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–17, §1, May 22, 2015, 129 Stat. 201, provided that: "This Act \[enacting section 2160e of this title\]may be cited as the 'Iran Nuclear Agreement Review Act of 2015'."
+Pub. L. 114–17, §1, May 22, 2015, 129 Stat. 201, provided that: "This Act \[enacting section 2160e of this title\] may be cited as the 'Iran Nuclear Agreement Review Act of 2015'."
 
 #### Short Title of 2013 Amendment
 

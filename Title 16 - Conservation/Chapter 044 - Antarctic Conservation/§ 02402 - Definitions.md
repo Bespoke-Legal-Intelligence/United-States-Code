@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 &emsp;(8) the term "import" means to land on, bring into, or introduce into, or attempt to land on, bring into or introduce into, any place subject to the jurisdiction of the United States, including the 12-mile territorial sea of the United States, whether or not such act constitutes an importation within the meaning of the customs laws of the United States;
 
-&emsp;(9) the term "native bird" means any member, at any stage of its life cycle (includingeggs), of any species of the class Aves which is indigenous to Antarctica or occurs there seasonally through natural migrations, and includes any part of such member;
+&emsp;(9) the term "native bird" means any member, at any stage of its life cycle (including eggs), of any species of the class Aves which is indigenous to Antarctica or occurs there seasonally through natural migrations, and includes any part of such member;
 
 &emsp;(10) the term "native invertebrate" means any terrestrial or freshwater invertebrate, at any stage of its life cycle, which is indigenous to Antarctica, and includes any part of such invertebrate;
 

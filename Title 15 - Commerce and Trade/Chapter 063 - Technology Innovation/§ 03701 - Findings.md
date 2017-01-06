@@ -30,6 +30,10 @@ The Congress finds and declares that:
 
 <b>1986</b>—Par. (10). Pub. L. 99–502 inserted ", which include inventions, computer software, and training technologies,".
 
+#### Short Title of 2017 Amendment
+
+Pub. L. 114–329, title IV, §401(a), Jan. 6, 2017, 130 Stat. 3016, provided that: "This section \[enacting section 3724 of this title and amending sections 272, 278, and 3719 of this title\] may be cited as the 'Science Prize Competition Act'."
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–404, §1, Nov. 1, 2000, 114 Stat. 1742, provided that: "This Act \[enacting section 7261c of Title 42, The Public Health and Welfare, amending sections 3703, 3704, 3707, 3710, 3710a, 3710c, 3714, and 3715 of this title and sections 200, 202, 207, and 209 of Title 35, Patents, and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the 'Technology Transfer Commercialization Act of 2000'."
@@ -40,13 +44,13 @@ Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: "This Act \[
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: "This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'American Technology Preeminence Act of 1991'."
+Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: "This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42,The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'American Technology Preeminence Act of 1991'."
 
 Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: "This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278l of this title\] may be cited as the 'Technology Administration Authorization Act of 1991'."
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: "This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title andenacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the 'National Competitiveness Technology Transfer Act of 1989'."
+Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: "This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the 'National Competitiveness Technology Transfer Act of 1989'."
 
 #### Short Title of 1988 Amendment
 
@@ -134,7 +138,7 @@ Consultation.—
 
 &emsp;&emsp;"(A)
 
-In general.—The study required by paragraph (1) shall be conducted in consultation with the National Economic Council of the Office of Policy Development, such Federal agencies as the Secretary considers appropriate, and the Innovation Advisory Board established under subparagraph (B). The Secretary shall also establish a process for obtaining comments from the public.
+In general.—The study required by paragraph (1) shall be conducted in consultation withthe National Economic Council of the Office of Policy Development, such Federal agencies as the Secretary considers appropriate, and the Innovation Advisory Board established under subparagraph (B). The Secretary shall also establish a process for obtaining comments from the public.
 
 &emsp;&emsp;"(B)
 
@@ -350,7 +354,7 @@ Termination.—The Commission shall terminate 6 months after the submission of i
 
 "(h)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this sectionsuch sums as may be necessary for the fiscal years 1992 and 1993."
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for the fiscal years 1992 and 1993."
 
 #### Research, Development, Technology Utilization, and Government Procurement Policy
 
@@ -438,7 +442,7 @@ Contract With National Research Council.—Within 90 days after the date of enac
 
 "(b)
 
-Membership.—In selecting the members of the review panel, the National Research Council shall consult with and draw from, among others, laboratory accreditation organizations, Federal and State government agencies involved in testing and certification,professional societies, trade associations, small business, and labor organizations.
+Membership.—In selecting the members of the review panel, the National Research Council shall consult with and draw from, among others, laboratory accreditation organizations, Federal and State government agencies involved in testing and certification, professional societies, trade associations, small business, and labor organizations.
 
 "(c)
 

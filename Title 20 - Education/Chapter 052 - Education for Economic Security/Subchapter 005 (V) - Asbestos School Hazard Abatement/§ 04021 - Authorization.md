@@ -20,7 +20,7 @@
 
 &emsp;(D) The development of a comprehensive testing and technical assistance program.
 
-(3) Of those sums appropriated for any fiscal year for the implementation of this subchapter, the Administrator may use not more than 5 percent to provide grants to States for the following purposes:
+(3) Of those sums appropriated for any fiscal year for the implementation of this subchapter,the Administrator may use not more than 5 percent to provide grants to States for the following purposes:
 
 &emsp;(A) Assisting local educational agencies in performing the periodic reinspections and training activities required under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
 

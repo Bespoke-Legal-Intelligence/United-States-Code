@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter but subject to subparagraph (B) and paragraph (5), each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e)) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
 
 #### (B) State option to waive requirement for 3 months before receipt of medical assistance
 
@@ -14,9 +14,9 @@
 
 #### (2) Notice of benefits
 
-&emsp;Each State, in the notice of termination of aid under part A of subchapter IV of this chapter sent to a family meeting the requirements of paragraph (1)—
+&emsp;Each State, in the notice of termination of aid under part A of subchapter IV sent to a family meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3)) under which such extension may be terminated; and
+&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) and of the circumstances (described in paragraph (3)) under which such extension may be terminated; and
 
 &emsp;&emsp;(B) shall include a card or other evidence of the family's entitlement to assistance under this subchapter for the period provided in this subsection.
 
@@ -24,11 +24,11 @@
 
 #### (A) No dependent child
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), extension of assistance during the 6-month period described in paragraph (1) to a family shall terminate (during such period) at the close of the first month in which the family ceases to include a child, whether or not the child is (or would if needy be) a dependent child under part A of subchapter IV of this chapter.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), extension of assistance during the 6-month period described in paragraph (1) to a family shall terminate (during such period) at the close of the first month in which the family ceases to include a child, whether or not the child is (or would if needy be) a dependent child under part A of subchapter IV.
 
 #### (B) Notice before termination
 
-&emsp;&emsp;No termination of assistance shall become effective under subparagraph (A) until theState has provided the family with notice of the grounds for the termination.
+&emsp;&emsp;No termination of assistance shall become effective under subparagraph (A) until the State has provided the family with notice of the grounds for the termination.
 
 #### (C) Continuation in certain cases until redetermination
 
@@ -38,11 +38,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), during the 6-month extension period under this subsection, the amount, duration, and scope of medical assistance made available with respect to a family shall be the same as if the family were still receiving aid under the plan approved under part A of subchapter IV of this chapter.
+&emsp;&emsp;Subject to subparagraph (B), during the 6-month extension period under this subsection, the amount, duration, and scope of medical assistance made available with respect to a family shall be the same as if the family were still receiving aid under the plan approved under part A of subchapter IV.
 
 #### (B) State medicaid "wrap-around" option
 
-&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependent child. In the case of such coverage offered by an employer of the caretaker relative—
+&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependentchild. In the case of such coverage offered by an employer of the caretaker relative—
 
 &emsp;&emsp;&emsp;(i) the State may require the caretaker relative, as a condition of extension of coverage under this subsection for the caretaker and the caretaker's family, to make application for such employer coverage, but only if—
 
@@ -62,7 +62,7 @@
 
 #### (1) Requirement
 
-&emsp;Notwithstanding any other provision of this subchapter but subject to subsection (a)(5), each State plan approved under this subchapter shall provide that the State shall offer to each family, which has received assistance during the entire 6-month period under subsection (a) of this section and which meets the requirement of paragraph (2)(B)(i), in the last month of the period the option of extending coverage under this subsection for the succeeding 6-month period, subject to paragraph (3).
+&emsp;Notwithstanding any other provision of this subchapter but subject to subsection (a)(5), each State plan approved under this subchapter shall provide that the State shall offer to each family, which has received assistance during the entire 6-month period under subsection (a) and which meets the requirement of paragraph (2)(B)(i), in the last month of the period the option of extending coverage under this subsection for the succeeding 6-month period, subject to paragraph (3).
 
 #### (2) Notice and reporting requirements
 
@@ -70,7 +70,7 @@
 
 #### (i) Notice during initial extension period of option and requirements
 
-&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a) of this section, shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and, in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
+&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a), shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and, in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
 
 #### (ii) Notice during additional extension period of reporting requirements and premiums
 
@@ -80,7 +80,7 @@
 
 #### (i) During initial extension period
 
-&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) of this section report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a) of this section, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
+&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a), on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
 
 #### (ii) During additional extension period
 
@@ -88,7 +88,7 @@
 
 #### (iii) Clarification on frequency of reporting
 
-&emsp;&emsp;&emsp;A State may not require that a family receiving extended assistance under this subsection or subsection (a) of this section report more frequently than as required under clause (i) or (ii).
+&emsp;&emsp;&emsp;A State may not require that a family receiving extended assistance under this subsection or subsection (a) report more frequently than as required under clause (i) or (ii).
 
 #### (3) Termination of extension
 
@@ -98,7 +98,7 @@
 
 #### (i) No dependent child
 
-&emsp;&emsp;&emsp;The extension shall terminate at the close of the first month in which the family ceases to include a child, whether or not the child is (or would if needy be) a dependent child under part A of subchapter IV of this chapter.
+&emsp;&emsp;&emsp;The extension shall terminate at the close of the first month in which the family ceases to include a child, whether or not the child is (or would if needy be) a dependent child under part A of subchapter IV.
 
 #### (ii) Failure to pay any premium
 
@@ -128,7 +128,7 @@
 
 #### (ii) Medically needy
 
-&emsp;&emsp;&emsp;With respect to an individual who would cease to receive medical assistance because of clause (ii) or (iii) of subparagraph (A) but who may be eligible for assistance under the State plan because the individual is within a category of person for which medical assistance under the State plan is available under section 1396a(a)(10)(C) of this title (relating tomedically needy individuals), the State may not discontinue such assistance under such subparagraph until the State has determined that the individual is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to an individual who would cease to receive medical assistance because of clause (ii) or (iii) of subparagraph (A) but who may be eligible for assistance under the State plan because the individual is within a category of person for which medical assistance under the State plan is available under section 1396a(a)(10)(C) of this title (relating to medically needy individuals), the State may not discontinue such assistance under such subparagraph until the State has determined that the individual is not eligible for assistance under the plan.
 
 #### (4) Coverage
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;During the extension period under this subsection—
 
-&emsp;&emsp;&emsp;(i) the State plan shall offer to each family medical assistance which (subject to subparagraphs (B) and (C)) is the same amount, duration, and scope as would be made available to the family if it were still receiving aid under the plan approved under part A of subchapter IV of this chapter; and
+&emsp;&emsp;&emsp;(i) the State plan shall offer to each family medical assistance which (subject to subparagraphs (B) and (C)) is the same amount, duration, and scope as would be made available to the family if it were still receiving aid under the plan approved under part A of subchapter IV; and
 
 &emsp;&emsp;&emsp;(ii) the State plan may offer alternative coverage described in subparagraph (D).
 
@@ -146,7 +146,7 @@
 
 #### (C) State medicaid "wrap-around" option
 
-&emsp;&emsp;At a State's option, the State may elect to apply the option described in subsection (a)(4)(B) of this section (relating to "wrap-around" coverage) for families electing medical assistance under this subsection in the same manner as such option applies to families provided extended eligibility for medical assistance under subsection (a) of this section.
+&emsp;&emsp;At a State's option, the State may elect to apply the option described in subsection (a)(4)(B) (relating to "wrap-around" coverage) for families electing medical assistance under this subsection in the same manner as such option applies to families provided extended eligibility for medical assistance under subsection (a).
 
 #### (D) Alternative assistance
 
@@ -226,7 +226,7 @@
 
 #### (1) Ineligibility for aid
 
-&emsp;This section shall not apply to an individual who is a member of a family which has received aid under part A of subchapter IV of this chapter if the State makes a finding that, at any time during the last 6 months in which the family was receiving such aid before otherwise being provided extended eligibility under this section, the individual was ineligible for such aid because of fraud.
+&emsp;This section shall not apply to an individual who is a member of a family which has received aid under part A of subchapter IV if the State makes a finding that, at any time during the last 6 months in which the family was receiving such aid before otherwise being provided extended eligibility under this section, the individual was ineligible for such aid because of fraud.
 
 #### (2) General disqualifications
 
@@ -234,7 +234,7 @@
 
 #### (e) "Caretaker relative" defined
 
-In this section, the term "caretaker relative" has the meaning of such term as used in part A of subchapter IV of this chapter.
+In this section, the term "caretaker relative" has the meaning of such term as used in part A of subchapter IV.
 
 #### (f) Collection and reporting of participation information
 
@@ -260,7 +260,7 @@ A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-<b>2015</b>—Subsecs. (f), (g). Pub. L. 114–10 redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "Thissection shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2015."
+<b>2015</b>—Subsecs. (f), (g). Pub. L. 114–10 redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2015."
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–93 substituted "March 31, 2015" for "March 31, 2014".
 
@@ -294,7 +294,7 @@ Subsec. (g). Pub. L. 111–5, §5004(d), added subsec. (g).
 
 Subsec. (b)(3)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(2)\], which directed substitution of "(i)(IV), (i)(VI), (i)(VII)," for "(i)(IV) (i)(VI) (i)(VII),,", was executed by making the substitution for "(i)(IV), (i)(VI) (i)(VII),," to reflect the probable intent of Congress.
 
-<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out "less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title" after "(as defined in section 1396b(m)(1)(A) of this title)".
+<b>1997</b>—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out "less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance withsection 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title" after "(as defined in section 1396b(m)(1)(A) of this title)".
 
 Pub. L. 105–33, §4701(b)(2)(A)(ix), substituted "medicaid managed care organization" for "health maintenance organization" in two places.
 
@@ -346,7 +346,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Amendment by section 4601(a)(3)(B) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4601 of Pub. L. 101–508 have been promulgated by such date, see section 4601(b) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: "The amendments madeby subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
+Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
 
 #### Effective Date of 1989 Amendment
 
@@ -366,7 +366,7 @@ For provisions that certain references to provisions of part A (§601 et seq.) o
 
 #### Study and Report to Congress on Impact of Medicaid Extension Provisions
 
-Pub. L. 100–485, title III, §303(c), Oct. 13, 1988, 102 Stat. 2392, directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus on costs of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
+Pub. L. 100–485, title III, §303(c), Oct. 13, 1988, 102 Stat. 2392, directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus oncosts of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

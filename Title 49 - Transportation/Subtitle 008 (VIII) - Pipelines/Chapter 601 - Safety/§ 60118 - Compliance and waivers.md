@@ -150,7 +150,7 @@ In subsection (a)(1), the words "at all times after the date . . . takes effec
 
 In subsection (a)(2), the words "establish and" in 49 App.:2006(a)(2) and "and comply with such plan" are omitted as surplus.
 
-In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. The word "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
+In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. Theword "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
 
 In subsection (c), the words "any part of" are substituted for "in whole or in part" to eliminate unnecessary words. The words "and to such extent" and "he determines that . . . of compliance with such standard" are omitted as surplus.
 

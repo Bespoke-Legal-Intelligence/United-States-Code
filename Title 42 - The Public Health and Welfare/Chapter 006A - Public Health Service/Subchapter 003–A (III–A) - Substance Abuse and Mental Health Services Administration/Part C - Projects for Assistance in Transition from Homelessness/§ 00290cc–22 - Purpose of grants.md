@@ -2,17 +2,17 @@
 
 #### (a) In general
 
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the payments will be expended solely for making grants to political subdivisions of the State, and to nonprofit private entities (including community-based veterans organizations and other community organizations), for the purpose of providing the services specified in subsection (b) of this section to individuals who—
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the payments will be expended solely for making grants to political subdivisions of the State, and to nonprofit private entities (including community-based veterans organizations and other community organizations), for the purpose of providing the services specified in subsection (b) to individuals who—
 
 &emsp;(1)(A) are suffering from serious mental illness; or
 
-&emsp;(B) are suffering from serious mental illness and from substance abuse; and
+&emsp;(B) are suffering from serious mental illness and from a substance use disorder; and
 
 &emsp;(2) are homeless or at imminent risk of becoming homeless.
 
 #### (b) Specification of services
 
-The services referred to in subsection (a) of this section are—
+The services referred to in subsection (a) are—
 
 &emsp;(1) outreach services;
 
@@ -24,7 +24,7 @@ The services referred to in subsection (a) of this section are—
 
 &emsp;(5) alcohol or drug treatment services;
 
-&emsp;(6) staff training, including the training of individuals who work in shelters, mental health clinics, substance abuse programs, and other sites where homeless individuals require services;
+&emsp;(6) staff training, including the training of individuals who work in shelters, mental health clinics, substance use disorder programs, and other sites where homeless individuals require services;
 
 &emsp;(7) case management services, including—
 
@@ -42,7 +42,7 @@ The services referred to in subsection (a) of this section are—
 
 &emsp;(9) referrals for primary health services, job training, educational services, and relevant housing services;
 
-&emsp;(10) subject to subsection (h)(1) of this section—
+&emsp;(10) subject to subsection (h)(1)—
 
 &emsp;&emsp;(A) minor renovation, expansion, and repair of housing;
 
@@ -62,47 +62,43 @@ The services referred to in subsection (a) of this section are—
 
 #### (c) Coordination
 
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees to make grants pursuant to subsection (a) of this section only to entities that have the capacity to provide, directly or through arrangements, the services specified in subsection (b) of this section, including coordinating the provision of services in order to meet the needs of eligible homeless individuals who are both mentally ill and suffering from substance abuse.
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees to make grants pursuant to subsection (a) only to entities that have the capacity to provide, directly or through arrangements, the services specified in subsection (b), including coordinating the provision of services in order to meet the needs of eligible homeless individuals who are both mentally ill and suffering from a substance use disorder.
 
 #### (d) Special consideration regarding veterans
 
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that, in making grants to entities pursuant to subsection (a) of this section, the State will give special consideration to entities with a demonstrated effectiveness in serving homeless veterans.
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that, in making grants to entities pursuant to subsection (a), the State will give special consideration to entities with a demonstrated effectiveness in serving homeless veterans.
 
 #### (e) Special rules
 
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that grants pursuant to subsection (a) of this section will not be made to any entity that—
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that grants pursuant to subsection (a) will not be made to any entity that—
 
-&emsp;(1) has a policy of excluding individuals from mental health services due to the existence or suspicion of substance abuse; or
+&emsp;(1) has a policy of excluding individuals from mental health services due to the existence or suspicion of a substance use disorder; or
 
-&emsp;(2) has a policy of excluding individuals from substance abuse services due to the existence or suspicion of mental illness.
+&emsp;(2) has a policy of excluding individuals from substance use disorder services due to the existence or suspicion of mental illness.
 
 #### (f) Administrative expenses
 
 The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that not more than 4 percent of the payments will be expended for administrative expenses regarding the payments.
 
-#### (g) Maintenance of effort
-
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the State will maintain State expenditures for services specified in subsection (b) of this section at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying to receive such payments.
-
-#### (h) Restrictions on use of funds
+#### (g) Restrictions on use of funds
 
 The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that—
 
-&emsp;(1) not more than 20 percent of the payments will be expended for housing services under subsection (b)(10) of this section; and
+&emsp;(1) not more than 20 percent of the payments will be expended for housing services under subsection (b)(10); and
 
 &emsp;(2) the payments will not be expended—
 
 &emsp;&emsp;(A) to support emergency shelters or construction of housing facilities;
 
-&emsp;&emsp;(B) for inpatient psychiatric treatment costs or inpatient substance abuse treatment costs; or
+&emsp;&emsp;(B) for inpatient psychiatric treatment costs or inpatient substance use disorder treatment costs; or
 
-&emsp;&emsp;(C) to make cash payments to intended recipients of mental health or substance abuse services.
+&emsp;&emsp;(C) to make cash payments to intended recipients of mental health or substance use disorder services.
 
-#### (i) Waiver for territories
+#### (h) Waiver for territories
 
 With respect to the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may waive the provisions of this part that the Secretary determines to be appropriate.
 
-(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(U), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(U), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat.516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(U), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(U), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–255, div. B, title IX, §9004(b), Dec. 13, 2016, 130 Stat. 1238.)
 
 #### References in Text
 
@@ -117,6 +113,22 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 522 of act July 1, 1944, was renumbered section 543 by section 611(2) of Pub. L. 100–77 and is classified to section 290dd–2 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(B). Pub. L. 114–255, §9004(b)(1), substituted "a substance use disorder" for "substance abuse".
+
+Subsec. (b)(6). Pub. L. 114–255, §9004(b)(2), substituted "substance use disorder" for "substance abuse".
+
+Subsec. (c). Pub. L. 114–255, §9004(b)(3), substituted "a substance use disorder" for "substance abuse".
+
+Subsec. (e)(1). Pub. L. 114–255, §9004(b)(4)(A), substituted "a substance use disorder" for "substance abuse".
+
+Subsec. (e)(2). Pub. L. 114–255, §9004(b)(4)(B), substituted "substance use disorder" for "substance abuse".
+
+Subsec. (g). Pub. L. 114–255, §9004(b)(5), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: "The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the State will maintain State expenditures for services specified in subsection (b) at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying to receive such payments."
+
+Subsec. (g)(2)(B), (C). Pub. L. 114–255, §9004(b)(6), substituted "substance use disorder" for "substance abuse".
+
+Subsecs. (h), (i). Pub. L. 114–255, §9004(b)(5), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
 <b>2008</b>—Subsec. (b)(7)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(U), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 

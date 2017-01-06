@@ -44,7 +44,7 @@ Contents of report.—The report required by paragraph (1) shall separately incl
 
 &emsp;(3)
 
-Public availability.—The head of each Federal agency submitting a report underparagraph (1) shall make the report publicly available to the maximum extent practicable.
+Public availability.—The head of each Federal agency submitting a report under paragraph (1) shall make the report publicly available to the maximum extent practicable.
 
 &emsp;(4)
 

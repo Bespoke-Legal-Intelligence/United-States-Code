@@ -6,13 +6,13 @@ Notwithstanding sections 1053 and 1054 of this title, the plan sponsor of a term
 
 #### (b) Determinations respecting value of nonforfeitable benefits under terminated plan and value of assets of plan
 
-(1) The value of nonforfeitable benefits under a terminated plan referred to in subsection (a) of this section, and the value of the plan's assets, shall be determined in writing, in accordance with regulations prescribed by the corporation, as of the end of the plan year during which section 1341a(d) of this title becomes applicable to the plan, and each plan year thereafter.
+(1) The value of nonforfeitable benefits under a terminated plan referred to in subsection (a), and the value of the plan's assets, shall be determined in writing, in accordance with regulations prescribed by the corporation, as of the end of the plan year during which section 1341a(d) of this title becomes applicable to the plan, and each plan year thereafter.
 
 (2) For purposes of this section, plan assets include outstanding claims for withdrawal liability (within the meaning of section 1301(a)(12) of this title).
 
 #### (c) Amendment of plan by plan sponsor to reduce benefits for conservation of assets; factors applicable
 
-(1) If, according to the determination made under subsection (b) of this section, the value of nonforfeitable benefits exceeds the value of the plan's assets, the plan sponsor shall amend the plan to reduce benefits under the plan to the extent necessary to ensure that the plan's assets are sufficient, as determined and certified in accordance with regulations prescribed by the corporation, to discharge when due all of the plan's obligations with respect to nonforfeitable benefits.
+(1) If, according to the determination made under subsection (b), the value of nonforfeitable benefits exceeds the value of the plan's assets, the plan sponsor shall amend the plan to reduce benefits under the plan to the extent necessary to ensure that the plan's assets are sufficient, as determined and certified in accordance with regulations prescribed by the corporation, to discharge when due all of the plan's obligations with respect to nonforfeitable benefits.
 
 (2) Any plan amendment required by this subsection shall, in accordance with regulations prescribed by the Secretary of the Treasury—
 
@@ -32,13 +32,13 @@ Notwithstanding sections 1053 and 1054 of this title, the plan sponsor of a term
 
 &emsp;(A) a plan is insolvent if—
 
-&emsp;&emsp;(i) the plan has been amended to reduce benefits to the extent permitted by subsection (c) of this section, and
+&emsp;&emsp;(i) the plan has been amended to reduce benefits to the extent permitted by subsection (c), and
 
 &emsp;&emsp;(ii) the plan's available resources are not sufficient to pay benefits under the plan when due for the plan year; and
 
 &emsp;(B) "resource benefit level" and "available resources" have the meanings set forth in paragraphs (2) and (3), respectively, of section 1426(b) of this title.
 
-(3) The plan sponsor of a plan which is insolvent (within the meaning of paragraph (2)(A)) shall have the powers and duties of the plan sponsor of a plan in reorganization which is insolvent (within the meaning of section 1426(b)(1) of this title), except that regulations governing the plan sponsor's exercise of those powers and duties under this section shall be prescribed by the corporation, and the corporation shall prescribe by regulation notice requirements which assure that plan participants and beneficiaries receive adequate notice of benefit suspensions.
+(3) The plan sponsor of a plan which is insolvent (within the meaning of paragraph (2)(A)) shall have the powers and duties of the plan sponsor of a plan in reorganization which is insolvent (within the meaning of section 1426(b)(1)of this title), except that regulations governing the plan sponsor's exercise of those powers and duties under this section shall be prescribed by the corporation, and the corporation shall prescribe by regulation notice requirements which assure that plan participants and beneficiaries receive adequate notice of benefit suspensions.
 
 (4) A plan is not required to make retroactive benefit payments with respect to that portion of a benefit which was suspended under this subsection, except that the provisions of section 1426(c)(4) and (5) of this title shall apply in the case of plans which are insolvent under paragraph (2)(A), in connection with the plan year during which such section 1341a(d) of this title first became applicable to the plan and every year thereafter, in the same manner and to the same extent as such provisions apply to insolvent plans in reorganization under section 1426 of this title, in connection with insolvency years under such section 1426 of this title.
 

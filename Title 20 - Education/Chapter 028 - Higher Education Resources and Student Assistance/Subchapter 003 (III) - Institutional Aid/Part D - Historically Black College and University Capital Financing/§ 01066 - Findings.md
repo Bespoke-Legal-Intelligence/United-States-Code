@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) a significant part of the Federal mission in education has been to attain equal opportunity in higher education for low-income,educationally disadvantaged Americans and African Americans;
+&emsp;(1) a significant part of the Federal mission in education has been to attain equal opportunity in higher education for low-income, educationally disadvantaged Americans and African Americans;
 
 &emsp;(2) the Nation's historically Black colleges and universities have played a prominent role in American history and have an unparalleled record of fostering the development of African American youth by recognizing their potential, enhancing their academic and technical skills, and honing their social and political skills through higher education;
 

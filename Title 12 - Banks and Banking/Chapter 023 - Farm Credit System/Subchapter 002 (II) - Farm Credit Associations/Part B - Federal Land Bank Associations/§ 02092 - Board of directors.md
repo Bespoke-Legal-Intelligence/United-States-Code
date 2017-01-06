@@ -12,3 +12,7 @@ A prior section 2092, Pub. L. 92–181, title II, §2.11, Dec. 10, 1971, 85 Stat
 
 <b>1991</b>—Pub. L. 102–237 substituted "stockholder, or agent" for "or stockholder".
 
+#### Effective Date
+
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+

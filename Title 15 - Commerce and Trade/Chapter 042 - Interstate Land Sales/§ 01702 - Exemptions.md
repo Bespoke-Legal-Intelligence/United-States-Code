@@ -24,7 +24,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(B) the purchaser or lessee of such real estate is a duly organized corporation, partnership, trust, or business entity engaged in commercial or industrial business;
 
-&emsp;&emsp;(C) the purchaser or lessee of such real estate is represented in the transaction of saleor lease by a representative of its own selection;
+&emsp;&emsp;(C) the purchaser or lessee of such real estate is represented in the transaction of sale or lease by a representative of its own selection;
 
 &emsp;&emsp;(D) the purchaser or lessee of such real estate affirms in writing to the seller or lessor that it either (i) is purchasing or leasing such real estate substantially for its own use, or (ii) has a binding commitment to sell, lease, or sublease such real estate to an entity which meets the requirements of subparagraph (B), is engaged in commercial or industrial business, and is not affiliated with the seller, lessor, or agent thereof; and
 
@@ -42,7 +42,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;(4) the sale or lease of lots in a subdivision in which each of the lots is at least twenty acres (inclusive of easements for ingress and egress or public utilities);
 
-&emsp;(5) the sale or lease of a lot which is located within a municipality or county where a unit of local government specifies minimum standards for the development of subdivision lots taking place within its boundaries, when—
+&emsp;(5) the sale or lease of a lot which is located within a municipality or county where a unitof local government specifies minimum standards for the development of subdivision lots taking place within its boundaries, when—
 
 &emsp;&emsp;(A)(i) the subdivision meets all local codes and standards, and (ii) each lot is either zoned for single family residences or, in the absence of a zoning ordinance, is limited exclusively to single family residences;
 
@@ -58,7 +58,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(G) there are no offers, by direct mail or telephone solicitation, of gifts, trips, dinners, or other such promotional techniques to induce prospective purchasers or lessees to visit the subdivision or to purchase or lease a lot;
 
-&emsp;(6) the sale or lease of a lot, if a mobile home is to be erected or placed thereon as a residence, where the lot is sold as a homesite byone party and the home by another, under contracts that obligate such sellers to perform, contingent upon the other seller carrying out its obligations so that a completed mobile home will be erected or placed on the completed homesite within a period of two years, and provide for all funds received by the sellers to be deposited in escrow accounts (controlled by parties independent of the sellers) until the transactions are completed, and further provide that such funds shall be released to the buyer on demand without prejudice if the land with the mobile home erected or placed thereon is not conveyed within such two-year period. Such homesite must conform to all local codes and standards for mobile home subdivisions, if any, must provide potable water, sanitary sewage disposal, electricity, access by roads, the purchaser must receive marketable title to the lot, and where common facilities are to be provided, they must be completed or fully funded;
+&emsp;(6) the sale or lease of a lot, if a mobile home is to be erected or placed thereon as a residence, where the lot is sold as a homesite by one party and the home by another, under contracts that obligate such sellers to perform, contingent upon the other seller carrying out its obligations so that a completed mobile home will be erected or placed on the completed homesite within a period of two years, and provide for all funds received by the sellers to be deposited in escrow accounts (controlled by parties independent of the sellers) until the transactions are completed, and further provide that such funds shall be released to the buyer on demand without prejudice if the land with the mobile home erected or placed thereon is not conveyed within such two-year period. Such homesite must conform to all local codes and standards for mobile home subdivisions, if any, must provide potable water, sanitary sewage disposal, electricity, access by roads, the purchaser must receive marketable title to the lot, and where common facilities are to be provided, they must be completed or fully funded;
 
 &emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operation which is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
 
@@ -74,7 +74,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(iv) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing the receipt of a written statement by the developer containing good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot.
 
-&emsp;(B) As used in subparagraph (A)(i) of this paragraph, the terms "liens", "encumbrances", and "adverse claims" do not include United States land patents and similar Federal grants or reservations, property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners' association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, if—
+&emsp;(B) As used in subparagraph (A)(i) of this paragraph, the terms "liens", "encumbrances", and "adverse claims" do not include United States land patents and similar Federal grants or reservations, property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, taxes and assessments imposed by a State, by any other publicbody having authority to assess and tax property, or by a property owners' association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, if—
 
 &emsp;&emsp;(i) the developer, prior to the time the contract of sale or lease is entered into, has furnished each purchaser or lessee with a statement setting forth in descriptive and concise terms all such liens, reservations, taxes, assessments and restrictions which are applicable to the lot to be purchased or leased; and
 
@@ -92,7 +92,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(D) each purchase or lease agreement contains (i) a clear and specific statement describing a good faith estimate of the year of completion of and the party responsible for providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and (ii) a nonwaivable provision specifying that the contract or agreement may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws;
 
-&emsp;&emsp;(E) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing receipt of a written statement by the developer settingforth (i) in descriptive and concise terms all liens, reservations, taxes, assessments, beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, and adverse claims which are applicable to the lot to be purchased or leased, and (ii) good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot;
+&emsp;&emsp;(E) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing receipt of a written statement by the developer setting forth (i) in descriptive and concise terms all liens, reservations, taxes, assessments, beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, and adverse claims which are applicable to the lot to be purchased or leased, and (ii) good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot;
 
 &emsp;&emsp;(F) the developer executes and supplies to the purchaser a written instrument designating a person within the State of residence of the purchaser as his agent for service of process and acknowledging that the developer submits to the legal jurisdiction of the State in which the purchaser or lessee resides; and
 
@@ -153,4 +153,8 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
+
+#### Effective Date
+
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 

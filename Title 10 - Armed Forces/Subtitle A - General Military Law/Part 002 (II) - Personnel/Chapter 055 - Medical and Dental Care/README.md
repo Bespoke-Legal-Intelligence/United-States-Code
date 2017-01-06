@@ -6,7 +6,9 @@
 | [1072\.](%C2%A7%2001072%20-%20Definitions.md) | Definitions. |
 | [1073\.](%C2%A7%2001073%20-%20Administration%20of%20this%20chapter.md) | Administration of this chapter. |
 | [1073a.](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md) | Contracts for health care: best value contracting. |
-| [1073b.](%C2%A7%2001073b%20-%20Recurring%20reports.md) | Recurring reports. |
+| [1073b.](%C2%A7%2001073b%20-%20Recurring%20reports%20and%20publication%20of%20certain%20data.md) | Recurring reports and publication of certain data. |
+| [1073c.](%C2%A7%2001073c%20-%20Administration%20of%20Defense%20Health%20Agency%20and%20military%20medical%20treatment%20facilities.md) | Administration of Defense Health Agency and military medical treatment facilities. |
+| [1073d.](%C2%A7%2001073d%20-%20Military%20medical%20treatment%20facilities.md) | Military medical treatment facilities. |
 | [1074\.](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md) | Medical and dental care for members and certain former members. |
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
 | [1074b.](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md) | Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC. |
@@ -22,14 +24,22 @@
 | 1074<i>l.</i> | Notification to Congress of hospitalization of combat wounded members. |
 | [1074m.](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md) | Mental health assessments for members of the armed forces deployed in support of a contingency operation. |
 | [1074n.](%C2%A7%2001074n%20-%20Annual%20mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces.md) | Annual mental health assessments for members of the armed forces. |
-| \[1075. | Repealed.\] |
+| [1075\.](%C2%A7%2001075%20-%20TRICARE%20Select.md) | TRICARE Select. |
+| [1075a.](%C2%A7%2001075a%20-%20TRICARE%20Prime%20cost%20sharing.md) | TRICARE Prime: cost sharing. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
 | \[1076b. | Repealed.\] |
 | [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
 | [1076d.](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md) | TRICARE program: TRICARE Standard coverage for members of the Selected Reserve. |
 | [1076e.](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%20retirement%20but%E2%80%A6.md) | TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60. |
+| [1076f.](%C2%A7%2001076f%20-%20TRICARE%20program%20extension%20of%20coverage%20for%20certain%20members%20of%20the%20National%20Guard%20and%20dependents%20during%20certain%20disaster%20response%20duty.md) | TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
+| [1077a.](%C2%A7%2001077a%20-%20Access%20to%20military%20medical%20treatment%20facilities%20and%20other%20facilities.md) | Access to military medical treatment facilities and other facilities <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
 | [1078b.](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md) | Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities. |
@@ -90,7 +100,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–328, div. A, title VII, §701(j)(2), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this analysis is amended as follows:</i>
+
+<i>(1) in the item relating to section 1076d, by striking "TRICARE Standard" and inserting "TRICARE Reserve Select";</i>
+
+<i>(2) in the item relating to section 1076e, by striking "TRICARE Standard" and inserting "TRICARE Retired Reserve";</i>
+
+<i>(3) in the item relating to section 1079a, by striking "CHAMPUS" and inserting "TRICARE program"; and</i>
+
+<i>(4) in the item relating to section 1095f, by striking "for specialty health care" and inserting "and preauthorizations under TRICARE Prime".</i>
+
+<i>See 2016 Amendment note below.</i>
+
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title VII, §§702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted "Recurring reports and publication of certain data" for "Recurring reports" in item 1073b.
+
+Pub. L. 114–328, div. A, title VII, §§701(a)(2), (b)(2), (j)(2), (k), Dec. 23, 2016, 130 Stat. 2184, 2185, 2192, 2193, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, added items 1075 and 1075a and substituted "TRICARE Reserve Select" for "TRICARE Standard" in item 1076d, "TRICARE Retired Reserve" for "TRICARE Standard" in item 1076e, "TRICARE program" for "CHAMPUS" in item 1079a, and "and preauthorizations under TRICARE Prime" for "for specialty health care" in item 1095f.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VII, §711(b), Nov. 25, 2015, 129 Stat. 864, added item 1095g.
 
@@ -116,7 +144,7 @@ Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 11
 
 Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 1076b.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title VII, §§701(a)(2), (f)(2), 731(b), 732(a)(2), 736(c)(2), title X, §1048(a)(10), Dec. 28, 2001, 115 Stat. 1158, 1161, 1169, 1173, 1223, struck outitem 1074b "Transitional medical and dental care: members on active duty in support of contingency operations", transferred item 1074i to appear after item 1074h, and added items 1074j, 1074k, 1079b, and 1086b.
+<b>2001</b>—Pub. L. 107–107, div. A, title VII, §§701(a)(2), (f)(2), 731(b), 732(a)(2), 736(c)(2), title X, §1048(a)(10), Dec. 28, 2001, 115 Stat. 1158, 1161, 1169, 1173, 1223, struck out item 1074b "Transitional medical and dental care: members on active duty in support of contingency operations", transferred item 1074i to appear after item 1074h, and added items 1074j, 1074k, 1079b, and 1086b.
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §§706(a)(2), 728(a)(2), 751(b)(2), 758(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, 1654A–200, added items 1074h, 1074i, 1095f, and 1110.
 
@@ -170,6 +198,8 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 <b>1958</b>—Pub. L. 85–861, §1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted "Medical and Dental Care" for "Voting by Members of Armed Forces" in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
@@ -179,7 +209,9 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01072 - Definitions](%C2%A7%2001072%20-%20Definitions.md)
 - [&sect; 01073 - Administration of this chapter](%C2%A7%2001073%20-%20Administration%20of%20this%20chapter.md)
 - [&sect; 01073a - Contracts for health care best value contracting](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md)
-- [&sect; 01073b - Recurring reports](%C2%A7%2001073b%20-%20Recurring%20reports.md)
+- [&sect; 01073b - Recurring reports and publication of certain data](%C2%A7%2001073b%20-%20Recurring%20reports%20and%20publication%20of%20certain%20data.md)
+- [&sect; 01073c - Administration of Defense Health Agency and military medical treatment facilities](%C2%A7%2001073c%20-%20Administration%20of%20Defense%20Health%20Agency%20and%20military%20medical%20treatment%20facilities.md)
+- [&sect; 01073d - Military medical treatment facilities](%C2%A7%2001073d%20-%20Military%20medical%20treatment%20facilities.md)
 - [&sect; 01074 - Medical and dental care for members and certain former members](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md)
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
 - [&sect; 01074b - Medical and dental care Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md)
@@ -195,14 +227,17 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01074l - Notification to Congress of hospitalization of combat wounded members](%C2%A7%2001074l%20-%20Notification%20to%20Congress%20of%20hospitalization%20of%20combat%20wounded%20members.md)
 - [&sect; 01074m - Mental health assessments for members of the armed forces deployed in support of a contingency operation](%C2%A7%2001074m%20-%20Mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces%20deployed%20in%20support%20of%20a%20contingency%20operation.md)
 - [&sect; 01074n - Annual mental health assessments for members of the armed forces](%C2%A7%2001074n%20-%20Annual%20mental%20health%20assessments%20for%20members%20of%20the%20armed%20forces.md)
-- [&sect; 01075 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;607(a)(1), Oct. 28, 2004, 118 Stat. 1946](%C2%A7%2001075%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7607%28a%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201946.md)
+- [&sect; 01075 - TRICARE Select](%C2%A7%2001075%20-%20TRICARE%20Select.md)
+- [&sect; 01075a - TRICARE Prime cost sharing](%C2%A7%2001075a%20-%20TRICARE%20Prime%20cost%20sharing.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
 - [&sect; 01076b - Repealed. Pub. L. 109&#8211;364, div. A, title VII, &sect;706(d), Oct. 17, 2006, 120 Stat. 2282](%C2%A7%2001076b%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7706%28d%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202282.md)
 - [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
 - [&sect; 01076d - TRICARE program TRICARE Standard coverage for members of the Selected Reserve](%C2%A7%2001076d%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md)
 - [&sect; 01076e - TRICARE program TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but&#8230;](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%20retirement%20but%E2%80%A6.md)
+- [&sect; 01076f - TRICARE program extension of coverage for certain members of the National Guard and dependents during certain disaster response duty](%C2%A7%2001076f%20-%20TRICARE%20program%20extension%20of%20coverage%20for%20certain%20members%20of%20the%20National%20Guard%20and%20dependents%20during%20certain%20disaster%20response%20duty.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
+- [&sect; 01077a - Access to military medical treatment facilities and other facilities](%C2%A7%2001077a%20-%20Access%20to%20military%20medical%20treatment%20facilities%20and%20other%20facilities.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
 - [&sect; 01078b - Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md)

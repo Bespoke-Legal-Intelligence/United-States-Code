@@ -16,7 +16,7 @@ Each State shall, not later than January 1, 2014—
 
 &emsp;&emsp;(A) health insurance issuers, and third party administrators on behalf of group health plans, are required to make payments to an applicable reinsurance entity for any plan year beginning in the 3-year period beginning January 1, 2014 (as specified in paragraph (3); <sup>1</sup> and
 
-&emsp;&emsp;(B) the applicable reinsurance entity collects payments under subparagraph (A) anduses amounts so collected to make reinsurance payments to health insurance issuers described in subparagraph (A) that cover high risk individuals in the individual market (excluding grandfathered health plans) for any plan year beginning in such 3-year period.
+&emsp;&emsp;(B) the applicable reinsurance entity collects payments under subparagraph (A) and uses amounts so collected to make reinsurance payments to health insurance issuers described in subparagraph (A) that cover high risk individuals in the individual market (excluding grandfathered health plans) for any plan year beginning in such 3-year period.
 
 #### (2) High-risk individual; payment amounts
 
@@ -56,7 +56,7 @@ Each State shall, not later than January 1, 2014—
 
 &emsp;&emsp;&emsp;(iv) in addition to the aggregate contribution amounts under clause (iii), each issuer's contribution amount for any calendar year under clause (iii) reflects its proportionate share of an additional $2,000,000,000 for 2014, an additional $2,000,000,000 for 2015, and an additional $1,000,000,000 for 2016.
 
-> &emsp;&emsp;Nothing in this subparagraph shall be construed to preclude a State from collecting additional amounts from issuers on a voluntary basis.
+> &emsp;&emsp;Nothing in this subparagraph shall be construed to preclude a State from collectingadditional amounts from issuers on a voluntary basis.
 
 #### (4) Expenditure of funds
 

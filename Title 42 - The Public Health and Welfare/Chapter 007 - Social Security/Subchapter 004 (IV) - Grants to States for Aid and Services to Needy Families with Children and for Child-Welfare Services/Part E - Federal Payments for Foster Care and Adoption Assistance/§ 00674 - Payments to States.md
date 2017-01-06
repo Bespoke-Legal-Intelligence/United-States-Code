@@ -2,7 +2,7 @@
 
 #### (a) Amounts
 
-For each quarter beginning after September 30, 1980, each State which has a plan approvedunder this part shall be entitled to a payment equal to the sum of—
+For each quarter beginning after September 30, 1980, each State which has a plan approved under this part shall be entitled to a payment equal to the sum of—
 
 &emsp;(1) an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as foster care maintenance payments under section 672 of this title for children in foster family homes or child-care institutions (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the "tribal FMAP") if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
 
@@ -20,9 +20,9 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, are capable of interfacing with the State data collection system that collects information relating to child abuse and neglect;
 
-&emsp;&emsp;&emsp;(iii) to the extent practicable, have the capability of interfacing with, and retrieving information from, the State data collection system that collects information relating to the eligibility of individuals under part A of this subchapter (for the purposes of facilitating verification of eligibility of foster children); and
+&emsp;&emsp;&emsp;(iii) to the extent practicable, have the capability of interfacing with, and retrieving information from, the State data collection system that collects informationrelating to the eligibility of individuals under part A (for the purposes of facilitating verification of eligibility of foster children); and
 
-&emsp;&emsp;&emsp;(iv) are determined by the Secretary to be likely to provide more efficient, economical, and effective administration of the programs carried out under a State plan approved under part B of this subchapter or this part; and
+&emsp;&emsp;&emsp;(iv) are determined by the Secretary to be likely to provide more efficient, economical, and effective administration of the programs carried out under a State plan approved under part B or this part; and
 
 &emsp;&emsp;(D) 50 percent of so much of such expenditures as are for the operation of the statewide mechanized data collection and information retrieval systems referred to in subparagraph (C); and
 
@@ -34,7 +34,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;&emsp;(i) 80 percent of the amounts expended by the State during the fiscal year in which the quarter occurs to carry out programs in accordance with the State application approved under section 677(b) of this title for the period in which the quarter occurs (including any amendment that meets the requirements of section 677(b)(5) of this title); or
 
-&emsp;&emsp;&emsp;(ii) the amount allotted to the State under section 677(c)(1) of this title for thefiscal year in which the quarter occurs, reduced by the total of the amounts payable to the State under this paragraph for all prior quarters in the fiscal year; exceeds
+&emsp;&emsp;&emsp;(ii) the amount allotted to the State under section 677(c)(1) of this title for the fiscal year in which the quarter occurs, reduced by the total of the amounts payable to the State under this paragraph for all prior quarters in the fiscal year; exceeds
 
 &emsp;&emsp;(B) the total amount of any penalties assessed against the State under section 677(e) of this title during the fiscal year in which the quarter occurs; plus
 
@@ -42,13 +42,13 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (b) Quarterly estimates of State's entitlement for next quarter; payments; United States' pro rata share of amounts recovered as overpayment; allowance, disallowance, or deferral of claim
 
-(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with subsection (a) of this section, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of children in the State receiving assistance under this part, and (C) such other investigation as the Secretary may find necessary.
+(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to which a State will be entitled under subsection (a) for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with subsection (a), and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of children in the State receiving assistance under this part, and (C) such other investigation as the Secretary may find necessary.
 
 (2) The Secretary shall then pay to the State, in such installments as he may determine, the amounts so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
 (3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any political subdivision thereof with respect to foster care and adoption assistance furnished under the State plan shall be considered an overpayment to be adjusted under this subsection.
 
-(4)(A) Within 60 days after receipt of a State claim for expenditures pursuant to subsection (a) of this section, the Secretary shall allow, disallow, or defer such claim.
+(4)(A) Within 60 days after receipt of a State claim for expenditures pursuant to subsection (a), the Secretary shall allow, disallow, or defer such claim.
 
 (B) Within 15 days after a decision to defer such a State claim, the Secretary shall notify the State of the reasons for the deferral and of the additional information necessary to determine the allowability of the claim.
 
@@ -64,7 +64,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (c) Automated data collection expenditures
 
-The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respect to foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
+The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C), without regard to whether the systems may be used with respect to foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
 
 #### (d) Reduction for violation of plan requirement
 
@@ -116,7 +116,7 @@ The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–351, §301(c)(2), inserted "(or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the 'tribal FMAP') if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State)" before semicolon.
+<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–351, §301(c)(2), inserted "(or, with respect to such payments made duringsuch quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the 'tribal FMAP') if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State)" before semicolon.
 
 Pub. L. 110–275 substituted "(which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia)" for "(as defined in section 1396d(b) of this title)".
 
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 103–432, §207(a), (b)(2), redesignated subsec. (e) as (c
 
 Subsec. (d). Pub. L. 103–432, §207(b)(2), redesignated subsec. (d) as (b).
 
-Subsec. (d)(1). Pub. L. 103–432, §207(b)(1), substituted "subsection (a) of this section for such quarter" for "subsections (a), (b), and (c) of this section for such quarter" and "subsection (a) of this section" for "the provisions of such subsections".
+Subsec. (d)(1). Pub. L. 103–432, §207(b)(1), substituted "subsection (a) for such quarter" for "subsections (a), (b), and (c) for such quarter" and "subsection (a)" for "the provisions of such subsections".
 
 Subsec. (e). Pub. L. 103–432, §207(b)(2), redesignated subsec. (e) as (c).
 

@@ -16,7 +16,7 @@ It is the sense of the Congress that departments and agencies, including the Fed
 
 #### (d) Cooperative efforts
 
-The Secretary and the National Science Foundation shall, on a continuing basis, provide each other the opportunity to comment on any proposed program of activity under section 3705, 3707, 3710, 3710d, 3711a, or 3712 of this title before funds are committed to such program in order to mount complementary efforts and avoid duplication.
+The Secretary and the National Science Foundation shall, on a continuing basis, provide each other the opportunity to comment on any proposed program of activity under section 3705, 3707, 3710, 3710d, 3711a, or 3712 of this title before funds are committed to such program in orderto mount complementary efforts and avoid duplication.
 
 (Pub. L. 96–480, §10, formerly §9, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, §9(e)(2)(C), Oct. 20, 1986, 100 Stat. 1797; Pub. L. 100–107, §3(b), Aug. 20, 1987, 101 Stat. 727; renumbered §10 and amended Pub. L. 100–418, title V, §5122(a)(1), (c), Aug. 23, 1988, 102 Stat. 1438, 1439; Pub. L. 102–240, title VI, §6019, Dec. 18, 1991, 105 Stat. 2183.)
 

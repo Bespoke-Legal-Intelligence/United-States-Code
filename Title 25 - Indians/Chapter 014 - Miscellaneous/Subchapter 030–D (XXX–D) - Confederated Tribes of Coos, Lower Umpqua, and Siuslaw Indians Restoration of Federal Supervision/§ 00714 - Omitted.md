@@ -1,0 +1,10 @@
+### §714. Omitted
+
+#### Codification
+
+Section, Pub. L. 98–481, §2, Oct. 17, 1984, 98 Stat. 2250, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 98–481, §1, Oct. 17, 1984, 98 Stat. 2250, provided that Pub. L. 98–481, enacting this subchapter, could be cited as the "Coos, Lower Umpqua, and Siuslaw Restoration Act".
+

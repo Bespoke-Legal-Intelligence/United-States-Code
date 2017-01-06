@@ -44,5 +44,5 @@ Subsecs. (d), (e). Pub. L. 95–617, §604(c), substituted "Secretary of Energy"
 
 #### Change of Name
 
-"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (c) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (c) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 

@@ -4,21 +4,33 @@ For the purposes of this chapter—
 
 &emsp;(1) the term "appropriate congressional committees" means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives;
 
-&emsp;(2) the term "RFE/RL, Incorporated" includes—
+(4) <sup>1</sup> the terms "Board" and "Chief Executive Officer of the Board" mean the Broadcasting Board of Governors and the position, respectively, authorized in accordance with this chapter;
 
-&emsp;&emsp;(A) the corporation having the corporate title described in section 6206(b)(3) <sup>1</sup> of this title; and
+&emsp;(3) the term "RFE/RL, Incorporated" includes—
 
-&emsp;&emsp;(B) any alternative grantee described in section 6206(e) <sup>2</sup> of this title; and
+&emsp;&emsp;(A) the corporation having the corporate title described in section 6206(b)(3) <sup>2</sup> of this title; and
 
-&emsp;(3) the term "salary or other compensation" includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
+&emsp;&emsp;(B) any alternative grantee described in section 6206(e) <sup>3</sup> of this title; and
 
-(Pub. L. 103–236, title III, §314, Apr. 30, 1994, 108 Stat. 445.)
+&emsp;(4) the term "salary or other compensation" includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
+
+(Pub. L. 103–236, title III, §314, Apr. 30, 1994, 108 Stat. 445; Pub. L. 114–328, div. A, title XII, §1288(8), Dec. 23, 2016, 130 Stat. 2554.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in introductory provisions, was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. There is no section "6206(b)(3)".</i>
+This chapter, referred to in the first par. (4), was in the original "this Act", and was translated as reading "this title", meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
 
-<i><sup>2</sup></i><i> So in original. Probably should be section "6207(d)".</i>
+Section 6206 of this title, referred to in par. (3), which related to the International Broadcasting Bureau and did not contain a subsec. (b)(3), was repealed by Pub. L. 114–328, div. A, title XII, §1288(4), Dec. 23, 2016, 130 Stat. 2552.
+
+#### Amendments
+
+<b>2016</b>—Pars. (2) to (4). Pub. L. 114–328 redesignated par. (2) as (3) and par. (3) as (4) defining "salary or othercompensation" and added par. (4) defining "Board" and "Chief Executive Officer of the Board" after par. (1).
+
+<i><sup>1</sup></i><i> So in original. Probably should be designated as par. (2).</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be section "6207(d)".</i>
 

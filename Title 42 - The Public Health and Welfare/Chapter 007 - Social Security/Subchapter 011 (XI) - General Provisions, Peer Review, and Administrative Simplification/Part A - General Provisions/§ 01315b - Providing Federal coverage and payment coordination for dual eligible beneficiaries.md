@@ -54,7 +54,7 @@ The specific responsibilities of the Federal Coordinated Health Care Office are 
 
 &emsp;(4) To consult and coordinate with the Medicare Payment Advisory Commission established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6) and the Medicaid and CHIP Payment and Access Commission established under section 1900 of such Act (42 U.S.C. 1396) with respect to policies relating to the enrollment in, and provision of, benefits to dual eligible individuals under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\].
 
-&emsp;(5) To study the provision of drug coverage for new full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6)),<sup>3</sup> as well as to monitor and report annual total expenditures, health outcomes, and access to benefits for all dual eligible individuals.
+&emsp;(5) To study the provision of drug coverage for new full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6)),<sup>3</sup> as wellas to monitor and report annual total expenditures, health outcomes, and access to benefits for all dual eligible individuals.
 
 #### (e) Report
 

@@ -1,0 +1,6 @@
+### §602. Omitted
+
+#### Codification
+
+Section, act Aug. 9, 1946, ch. 933, §2, 60 Stat. 969, which related to applications for tribal membership by persons excluded from enrollment, was omitted from the Code as being of special and not general application.
+

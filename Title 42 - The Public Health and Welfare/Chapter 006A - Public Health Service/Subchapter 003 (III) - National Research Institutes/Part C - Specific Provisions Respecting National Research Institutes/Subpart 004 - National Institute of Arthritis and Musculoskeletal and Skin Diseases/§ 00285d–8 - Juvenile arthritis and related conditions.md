@@ -6,13 +6,13 @@ The Director of the Institute, in coordination with the Director of the National
 
 #### (b) Coordination
 
-The Directors referred to in subsection (a) of this section shall jointly coordinate the programs referred to in such subsection and consult with the Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee.
+The Directors referred to in subsection (a) shall jointly coordinate the programs referred to in such subsection and consult with the Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee.
 
 (July 1, 1944, ch. 373, title IV, §442A, as added Pub. L. 106–310, div. A, title III, §301(a), Oct. 17, 2000, 114 Stat. 1111; amended Pub. L. 109–482, title I, §103(b)(23), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
+<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: "For thepurpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
 
 #### Effective Date of 2007 Amendment
 

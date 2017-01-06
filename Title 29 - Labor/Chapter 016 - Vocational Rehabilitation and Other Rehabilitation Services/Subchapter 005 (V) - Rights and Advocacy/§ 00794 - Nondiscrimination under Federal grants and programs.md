@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of rules and regulations
 
-No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of anyproposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
+No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
 
 #### (b) "Program or activity" defined
 
@@ -30,7 +30,7 @@ For the purposes of this section, the term "program or activity" means all of th
 
 #### (c) Significant structural alterations by small providers
 
-Small providers are not required by subsection (a) of this section to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988.
+Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988.
 
 #### (d) Standards used in determining violation of section
 

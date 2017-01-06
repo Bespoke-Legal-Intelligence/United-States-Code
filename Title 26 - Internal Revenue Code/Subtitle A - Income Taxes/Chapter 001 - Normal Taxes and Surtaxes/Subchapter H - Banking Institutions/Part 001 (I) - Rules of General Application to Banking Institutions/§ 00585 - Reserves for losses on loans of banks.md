@@ -154,7 +154,7 @@
 
 &emsp;&emsp;In the case of a parent-subsidiary controlled group, any election under this section shall be made separately by each member of such group.
 
-(Added Pub. L. 91–172, title IV, §431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, §267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, §901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, §10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, §11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388-527; Pub. L. 104–188, title I, §1616(b)(6), Aug. 20, 1996, 110 Stat. 1856.)
+(Added Pub. L. 91–172, title IV, §431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, §267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, §901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, §10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, §11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, §1616(b)(6), Aug. 20, 1996, 110 Stat. 1856.)
 
 #### Amendments
 

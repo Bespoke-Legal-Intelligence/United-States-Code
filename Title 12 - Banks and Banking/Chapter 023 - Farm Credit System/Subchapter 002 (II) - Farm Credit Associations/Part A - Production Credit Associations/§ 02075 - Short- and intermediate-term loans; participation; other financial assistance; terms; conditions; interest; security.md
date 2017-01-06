@@ -40,7 +40,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (3) Varying rates
 
-&emsp;The loan documents may provide for the interest rate or rates to vary from time to timeduring the repayment period of the loan in accordance with the rate or rates currently being charged by the association.
+&emsp;The loan documents may provide for the interest rate or rates to vary from time to time during the repayment period of the loan in accordance with the rate or rates currently being charged by the association.
 
 #### (4) Prior approval
 
@@ -60,7 +60,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### Prior Provisions
 
-A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat. 594; Pub. L. 95–443, Oct. 10, 1978, 92 Stat. 1066; Pub. L. 96–592, title II, §204, Dec. 24, 1980, 94 Stat. 3441; Pub. L. 99–509, title I, §1033(b), Oct. 21, 1986, 100 Stat. 1877, related to terms, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat. 594; Pub. L. 95–443, Oct. 10, 1978, 92 Stat.1066; Pub. L. 96–592, title II, §204, Dec. 24, 1980, 94 Stat. 3441; Pub. L. 99–509, title I, §1033(b), Oct. 21, 1986, 100 Stat. 1877, related to terms, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 
@@ -73,4 +73,8 @@ Subsec. (d). Pub. L. 100–399, §401(q), added subsec. (d).
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+#### Effective Date
+
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 

@@ -6,7 +6,7 @@ The Secretary of the Treasury shall pay out of the War Claims Fund on account of
 
 (1) Payment in full of awards made pursuant to section 4132(d)(1) and (2) of this title, and thereafter of any award made pursuant to section 4132(a) of this title to any claimant (A) certified to the Commission by the Small Business Administration as having been, on the date of loss, damage, or destruction, a small business concern within the meaning now set forth in the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], or (B) determined by the Commission to have been, on the date of loss, damage, or destruction, a nonprofit organization operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes.
 
-(2) Thereafter, payments from time to time on account of the other awards made pursuant tosection 4132 of this title in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment made pursuant to this paragraph on account of any award shall not exceed $10,000.
+(2) Thereafter, payments from time to time on account of the other awards made pursuant to section 4132 of this title in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment made pursuant to this paragraph on account of any award shall not exceed $10,000.
 
 (3) Thereafter, payments from time to time on account of the other awards made to individuals and corporations pursuant to section 4132 of this title and not compensated in full under paragraph (1) or (2) of this subsection in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment pursuant to this paragraph on account of any award shall not exceed $35,000.
 
@@ -58,7 +58,7 @@ Notwithstanding the provisions of sections 4140 and 4141 of this title receipt a
 
 #### Recertification of Certain Awards
 
-Pub. L. 91–571, §1(b), Dec. 24, 1970, 84 Stat. 1503, provided that: "The Foreign Claims Settlement Commission is authorized to recertify to the Secretary of the Treasury each award which has been certified before the date of enactment of this Act \[Dec. 24, 1970\] pursuant to title II of the War Claims Act of 1948, as added by the Act of October 22, 1962 (76 Stat. 1107) \[50 U.S.C. 4131 et seq.\], but which as of the date of enactment of this Act has not been paid in full, in such manner as it may determine to be required to give effect to the amendments made by this Act \[amending this section\] to the same extent and with the same effect as if such amendments had taken effect on October 22, 1962."
+Pub. L. 91–571, §1(b), Dec. 24, 1970, 84 Stat. 1503, provided that: "The Foreign Claims Settlement Commission is authorized to recertify to the Secretary of the Treasury each award which has been certified before the date of enactment of this Act \[Dec. 24, 1970\] pursuant to title II of the War Claims Act of 1948, as added by the Act of October 22, 1962 (76 Stat. 1107) \[50 U.S.C. 4131 et seq.\], but which as of the date of enactment of this Act has not been paid in full, in such manner as it may determine to be required to give effect to the amendments made by this Act \[amending this section\]to the same extent and with the same effect as if such amendments had taken effect on October 22, 1962."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

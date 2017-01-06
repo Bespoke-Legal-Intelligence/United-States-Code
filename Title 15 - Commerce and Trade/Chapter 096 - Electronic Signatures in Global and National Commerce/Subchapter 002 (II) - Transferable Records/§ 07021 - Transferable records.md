@@ -22,7 +22,7 @@ For purposes of this section:
 
 #### (b) Control
 
-A person has control of a transferable record if a system employed for evidencing the transfer ofinterests in the transferable record reliably establishes that person as the person to which the transferable record was issued or transferred.
+A person has control of a transferable record if a system employed for evidencing the transfer of interests in the transferable record reliably establishes that person as the person to which the transferable record was issued or transferred.
 
 #### (c) Conditions
 

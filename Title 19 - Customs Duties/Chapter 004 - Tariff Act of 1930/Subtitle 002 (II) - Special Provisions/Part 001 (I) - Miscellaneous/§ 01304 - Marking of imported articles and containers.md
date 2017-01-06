@@ -38,7 +38,7 @@ Whenever an article is excepted under subdivision (3) of subsection (a) of this 
 
 #### (c) Marking of certain pipe and fittings
 
-(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
+(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of diestamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
 
 (2) If, because of the nature of an article, it is technically or commercially infeasible to mark it by one of the five methods specified in paragraph (1), the article may be marked by an equally permanent method of marking or, in the case of small diameter pipe, tube, and fittings, by tagging the containers or bundles.
 
@@ -46,9 +46,9 @@ Whenever an article is excepted under subdivision (3) of subsection (a) of this 
 
 No exception may be made under subsection (a)(3) with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the country of origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
 
-#### (e) Marking of certain manhole rings or frames, covers, and assemblies thereof
+#### (e) Marking of certain castings
 
-No exception may be made under subsection (a)(3) with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
+No exception may be made under subsection (a)(3) with respect to inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes, manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking in a location such that it will remain visible after installation.
 
 #### (f) Marking of certain coffee and tea products
 
@@ -72,7 +72,7 @@ If at the time of importation any article (or its container, as provided in subs
 
 #### (j) Delivery withheld until marked
 
-No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and everyother article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
+No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
 #### (k) Treatment of goods of NAFTA country
 
@@ -132,7 +132,7 @@ Any person who, with intent to conceal the information given thereby or containe
 
 &emsp;(2) upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
 
-(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180.)
+(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180; Pub. L. 114–125, title IX, §917(a), Feb. 24, 2016, 130 Stat. 279.)
 
 #### References in Text
 
@@ -143,6 +143,12 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 Provisions dealing with the subject matter of this section and former section 133 of this title were contained in act Oct. 3, 1913, ch. 16, §IV, F, subsecs. 1 and 2, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §304(a), 42 Stat. 947, and repealed by §321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–125, §917(a)(3), inserted before period at end "in a location such that it will remain visible after installation".
+
+Pub. L. 114–125, §917(a)(2), which directed insertion of "inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes," before "manhole rings,", was executed by making the insertion before "manhole rings or frames," to reflect the probable intent of Congress.
+
+Pub. L. 114–125, §917(a)(1), substituted "castings" for "manhole rings or frames, covers, and assemblies thereof" in heading.
 
 <b>1999</b>—Subsecs. (h), (i). Pub. L. 106–36, §2423(a), added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
@@ -173,6 +179,10 @@ Subsecs. (h), (i). Pub. L. 103–182, §207(a)(4), (5), added subsec. (h) and re
 <b>1953</b>—Subsec. (a)(3)(K). Act Aug. 8, 1953, added cl. (K).
 
 <b>1938</b>—Act June 25, 1938, amended section generally.
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–125, title IX, §917(b), Feb. 24, 2016, 130 Stat. 279, provided that: "The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Feb. 24, 2016\] and apply with respect to the importation of castings described in such amendments on or after the date that is 180 days after such date of enactment."
 
 #### Effective Date of 1999 Amendment
 
@@ -224,7 +234,7 @@ Pub. L. 98–573, title II, §214, Oct. 30, 1984, 98 Stat. 2988, provided that:
 
 "(B) The amendment made by section 210(b) \[amending section 1520 of this title\] shall apply with respect to determinations made or ordered on or after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
+"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections 1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
 
 &emsp;"(A) Section 641(c)(1)(B) and section 641(c)(2) of the Tariff Act of 1930, as added by such section \[19 U.S.C. 1641(c)(1)(B), (2)\], shall take effect three years after the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -254,7 +264,7 @@ Act Aug. 8, 1953, ch. 397, §23, 67 Stat. 521, provided: "Except as may be other
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
 

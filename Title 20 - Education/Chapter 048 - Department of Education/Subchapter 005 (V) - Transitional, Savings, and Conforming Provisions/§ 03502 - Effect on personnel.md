@@ -12,7 +12,7 @@ Any person who, on the day preceding May 4, 1980, held a position compensated in
 
 #### Codification
 
-In subsec. (b), "May 4, 1980" substituted for "the effective date of this chapter" pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
+In subsec. (b), "May 4, 1980" substituted for "the effective date of this chapter" pursuant to section 601 ofPub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Abolished Positions Deemed Transferred
 

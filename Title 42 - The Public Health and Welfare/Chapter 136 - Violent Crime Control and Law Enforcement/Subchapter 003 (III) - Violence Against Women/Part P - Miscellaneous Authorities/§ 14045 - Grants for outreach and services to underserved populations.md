@@ -34,7 +34,7 @@ The Attorney General may use up to 25 percent of funds available under this sect
 
 &emsp;(3) identifying promising prevention, outreach and intervention strategies for victims from a targeted underserved population or populations; and
 
-&emsp;(4) developing a plan, with the input of the targeted underserved population or populations, for implementing prevention, outreach and intervention strategies to address the barriers to accessing services, promotingcommunity engagement in the prevention of domestic violence, dating violence, sexual assault, and stalking within the targeted underserved populations, and evaluating the program.
+&emsp;(4) developing a plan, with the input of the targeted underserved population or populations, for implementing prevention, outreach and intervention strategies to address the barriers to accessing services, promoting community engagement in the prevention of domestic violence, dating violence, sexual assault, and stalking within the targeted underserved populations, and evaluating the program.
 
 #### (d) Implementation grants
 

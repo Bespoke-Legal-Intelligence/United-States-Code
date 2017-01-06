@@ -16,7 +16,7 @@
 
 &emsp;(3) any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).
 
-(Pub. L. 85–699, title V, §504, as added Pub. L. 99–272, title XVIII, §18008(a), Apr. 7, 1986, 100 Stat. 366; amended Pub. L. 100–72, §2 July 11, 1987, 101 Stat. 477; Pub. L. 100–590, title I, §112(a), Nov. 3, 1988, 102 Stat. 2996.)
+(Pub. L. 85–699, title V, §504, as added Pub. L. 99–272, title XVIII, §18008(a), Apr. 7, 1986, 100Stat. 366; amended Pub. L. 100–72, §2 July 11, 1987, 101 Stat. 477; Pub. L. 100–590, title I, §112(a), Nov. 3, 1988, 102 Stat. 2996.)
 
 #### Amendments
 

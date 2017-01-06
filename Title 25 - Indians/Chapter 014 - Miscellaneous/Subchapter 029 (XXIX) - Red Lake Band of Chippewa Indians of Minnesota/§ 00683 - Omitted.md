@@ -1,0 +1,6 @@
+### §683. Omitted
+
+#### Codification
+
+Section, act June 19, 1952, ch. 445, §3, 66 Stat. 140, which provided that payments made under former sections 681 to 683 of this title would not be held to be "other income and resources", was omitted from the Code as being of special and not general application.
+

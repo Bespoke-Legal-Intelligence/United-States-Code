@@ -8,7 +8,7 @@
 
 &emsp;(A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, community mental health center, migrant health center, facility operated by a city or county health department, and community health center;
 
-&emsp;(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\];
+&emsp;(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\];
 
 &emsp;(C) such a facility used in connection with the delivery of health services under section 248 of this title (relating to hospitals), 249 of this title (relating to care and treatment of persons under quarantine and others), 250 of this title (relating to care and treatment of Federal prisoners), 251 of this title (relating to examination and treatment of certain Federal employees), 252 of this title (relating to examination of aliens), 253 of this title (relating to services to certain Federal employees), 247e of this title (relating to services for persons with Hansen's disease), or 254b(h) of this title (relating to the provision of health services to homeless individuals); and
 
@@ -30,13 +30,13 @@ The Secretary shall establish by regulation criteria for the designation of area
 
 In determining whether to make a designation, the Secretary shall take into consideration the following:
 
-&emsp;(1) The recommendations of the Governor of each State in which the area, population group, medical facility, or other public facility under consideration for designation is in whole or part located.
+&emsp;(1) The recommendations of the Governor of each State in which the area, populationgroup, medical facility, or other public facility under consideration for designation is in whole or part located.
 
 &emsp;(2) The extent to which individuals who are (A) residents of the area, members of the population group, or patients in the medical facility or other public facility under consideration for designation, and (B) entitled to have payment made for medical services under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], cannot obtain such services because of suspension of physicians from the programs under such titles.
 
 #### (d) Designation; publication of descriptive lists
 
-(1) In accordance with the criteria established under subsection (b) of this section and the considerations listed in subsection (c) of this section the Secretary shall designate health professional shortage areas in the States, publish a descriptive list of the areas, population groups, medical facilities, and other public facilities so designated, and at least annually review and, as necessary, revise such designations.
+(1) In accordance with the criteria established under subsection (b) and the considerations listed in subsection (c), the Secretary shall designate health professional shortage areas in the States, publish a descriptive list of the areas, population groups, medical facilities, and other public facilities so designated, and at least annually review and, as necessary, revise such designations.
 
 (2) For purposes of paragraph (1), a complete descriptive list shall be published in the Federal Register not later than July 1 of 1991 and each subsequent year.
 
@@ -64,7 +64,7 @@ The Secretary may conduct such information programs in areas, among population g
 
 #### (i) Dissemination
 
-The Administrator of the Health Resources and Services Administration shall disseminate information concerning the designation criteria described in subsection (b) of this section to—
+The Administrator of the Health Resources and Services Administration shall disseminate information concerning the designation criteria described in subsection (b) to—
 
 &emsp;(1) the Governor of each State;
 
@@ -72,7 +72,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 &emsp;(3) the representative of any area, population group, or facility that requests such information; and
 
-&emsp;(4) the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b) of this section.
+&emsp;(4) the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b).
 
 #### (j) Regulations and report
 
@@ -90,7 +90,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975,88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -192,7 +192,7 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 Pub. L. 100–628, title VI, §631, Nov. 7, 1988, 102 Stat. 3244, provided that: "The amendments made by subsection (a) of section 601 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 7, 1988\], whichever occurs later."
 
-Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: "The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35,290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later."
+Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: "The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later."
 
 #### Effective Date of 1981 Amendment
 

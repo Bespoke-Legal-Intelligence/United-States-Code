@@ -38,7 +38,7 @@ The Administrator shall provide initial financial assistance to the organization
 
 &emsp;(5) Cooperation with NASA, other departments and agencies of the United States Government, the States, and commercial entities in ensuring the enhancement and sustained operations of non-exploration-related research payload ground support facilities for the ISS, including the Space Life Sciences Laboratory, the Space Station Processing Facility and Payload Operations Integration Center.
 
-&emsp;(6) Development and implementation of scientific outreach and education activities designed to ensure effective utilization of ISS research capabilities including the conduct of scientific assemblies, conferences, and other fora for the presentation of research findings, methods, and mechanisms for the dissemination of non-restricted research findings and the development of educational programs, course supplements, interaction with educational programs at all grade levels, including student-focused research opportunities forconduct of research in the ISS national laboratory facilities.
+&emsp;(6) Development and implementation of scientific outreach and education activities designed to ensure effective utilization of ISS research capabilities including the conduct of scientific assemblies, conferences, and other fora for the presentation of research findings, methods, and mechanisms for the dissemination of non-restricted research findings and the development of educational programs, course supplements, interaction with educational programs at all grade levels, including student-focused research opportunities for conduct of research in the ISS national laboratory facilities.
 
 &emsp;(7) Such other matters relating to the utilization of the ISS national laboratory facilities for research and development as the Administrator may consider appropriate.
 
@@ -64,7 +64,7 @@ The Administrator shall provide initial financial assistance to the organization
 
 #### Codification
 
-In subsec. (c)(3), "section 70906 of title 51" substituted for "section 602 of the National Aeronautics and Space Administration Authorization Act of 2008 (42 U.S.C. 17752)" on authority of Pub. L. 111–314, §5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
+In subsec. (c)(3), "section 70906 of title 51" substituted for "section 602 of the National Aeronautics and Space Administration Authorization Act of 2008 (42 U.S.C. 17752)" on authority of Pub. L. 111–314, §5(e), Dec. 18,2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
 
 #### Amendments
 

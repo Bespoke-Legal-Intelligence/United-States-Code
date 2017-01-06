@@ -26,7 +26,7 @@ Factors to consider.—A concessioner's rates and charges to the public shall be
 
 &emsp;(2)
 
-Rates and charges not to exceed market rates and charges.—Rates and charges may not exceed the market rates and charges for comparable facilities, goods, and services, after taking into account the factors referred to in paragraph (1).
+Rates and charges not to exceed market rates and charges.—Rates and chargesmay not exceed the market rates and charges for comparable facilities, goods, and services, after taking into account the factors referred to in paragraph (1).
 
 (c)
 

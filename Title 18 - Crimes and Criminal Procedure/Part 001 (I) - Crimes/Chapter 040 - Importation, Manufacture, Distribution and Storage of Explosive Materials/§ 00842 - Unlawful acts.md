@@ -4,7 +4,7 @@
 
 &emsp;(1) to engage in the business of importing, manufacturing, or dealing in explosive materials without a license issued under this chapter;
 
-&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
+&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false,fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
 
 &emsp;(3) other than a licensee or permittee knowingly—
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting,possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
 &emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
 
@@ -96,7 +96,7 @@
 
 &emsp;(7) who, having been a citizen of the United States, has renounced the citizenship of that person <sup>3</sup>
 
-> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped ortransported in or affecting interstate or foreign commerce.
+> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in or affecting interstate or foreign commerce.
 
 (j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Attorney General. In promulgating such regulations, the Attorney General shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
@@ -154,7 +154,7 @@ The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2)
 
 Subsec. (d)(7)(B). Pub. L. 108–177, §372(a)(2), inserted "or" at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
-"(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation withthe Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+"(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
 "(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;".
 

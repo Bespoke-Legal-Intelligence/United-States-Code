@@ -7,10 +7,13 @@
 | :--- | :---: | ---: |
 | [<b>I.</b>](Part%20001%20%28I%29%20-%20Regular%20Coast%20Guard/README.md) | <b>Regular Coast Guard</b> | <b>1</b> |
 | [<b>II.</b>](Part%20002%20%28II%29%20-%20Coast%20Guard%20Reserve%20and%20Auxiliary/README.md) | <b>Coast Guard Reserve and Auxiliary</b> | <b>701</b> |
+| [<b>III.</b>](Part%20003%20%28III%29%20-%20Coast%20Guard%20Authorizations%20and%20Reports%20to%20Congress/README.md) | <b>Coast Guard Authorizations and Reports to Congress</b> | <b>2701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title I, §102(a), Feb. 8, 2016, 130 Stat. 32, added item for part III.
 
 <b>1986</b>—Pub. L. 99–640, §10(a)(1), Nov. 10, 1986, 100 Stat. 3548, substituted "701" for "751" in item for part II.
 
@@ -1090,7 +1093,7 @@ Act Aug. 4, 1949, ch. 393, §20, 63 Stat. 561, repealed the sections or parts of
 
 #### Legislative Construction
 
-Act Aug. 4, 1949, ch. 393, §3, 63 Stat. 557, provided that: "No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, CoastGuard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title."
+Act Aug. 4, 1949, ch. 393, §3, 63 Stat. 557, provided that: "No inference of a legislative construction is tobe drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title."
 
 #### Separability
 
@@ -1111,3 +1114,4 @@ Act Aug. 4, 1949, ch. 393, §5, 63 Stat. 558, provided that: "Nothing contained 
 
 - [Part 001 (I) - Regular Coast Guard](Part%20001%20%28I%29%20-%20Regular%20Coast%20Guard/README.md)
 - [Part 002 (II) - Coast Guard Reserve and Auxiliary](Part%20002%20%28II%29%20-%20Coast%20Guard%20Reserve%20and%20Auxiliary/README.md)
+- [Part 003 (III) - Coast Guard Authorizations and Reports to Congress](Part%20003%20%28III%29%20-%20Coast%20Guard%20Authorizations%20and%20Reports%20to%20Congress/README.md)

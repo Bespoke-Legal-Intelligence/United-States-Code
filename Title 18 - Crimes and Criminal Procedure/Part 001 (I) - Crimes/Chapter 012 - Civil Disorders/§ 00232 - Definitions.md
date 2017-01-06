@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 (1) The term "civil disorder" means any public disturbance involving acts of violence by assemblages of three or more persons, which causes an immediate danger of or results in damage or injury to the property or person of any other individual.
 
-(2) The term "commerce" means commerce (A) between any State or the District of Columbia and any place outside thereof; (B) between points within any State or the District of Columbia, but through any place outside thereof; or (C) wholly within the District of Columbia.
+(2) The term "commerce" means commerce (A) between any State or the District of Columbia and any place outside thereof; (B) betweenpoints within any State or the District of Columbia, but through any place outside thereof; or (C) wholly within the District of Columbia.
 
 (3) The term "federally protected function" means any function, operation, or action carried out, under the laws of the United States, by any department, agency, or instrumentality of the United States or by an officer or employee thereof; and such term shall specifically include, but not be limited to, the collection and distribution of the United States mails.
 
@@ -22,7 +22,7 @@ For purposes of this chapter:
 
 #### Amendments
 
-<b>1992</b>—Par. (7). Pub. L. 102–484 substituted "members of the National Guard (as defined in section 101 of title10)," for ", but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code," and "not included within the National Guard (as defined in section 101 of title 10)," for ", not included within the definition of National Guard as defined by such section 101(9),".
+<b>1992</b>—Par. (7). Pub. L. 102–484 substituted "members of the National Guard (as defined in section 101 of title 10)," for ", but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code," and "not included within the National Guard (as defined in section 101 of title 10)," for ", not included within the definition of National Guard as defined by such section 101(9),".
 
 <b>1990</b>—Par. (8). Pub. L. 101–647 added par. (8).
 

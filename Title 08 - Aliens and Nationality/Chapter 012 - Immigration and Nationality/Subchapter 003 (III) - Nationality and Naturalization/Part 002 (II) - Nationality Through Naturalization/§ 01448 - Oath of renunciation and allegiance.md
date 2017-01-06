@@ -16,13 +16,13 @@ Notwithstanding section 1421(b) of this title, an individual may be granted an e
 
 The Attorney General shall prescribe rules and procedures to ensure that the ceremonies conducted by the Attorney General for the administration of oaths of allegiance under this section are public, conducted frequently and at regular intervals, and are in keeping with the dignity of the occasion.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Pub. L. 97–116, §18(o), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(18),\(d)(15), Nov. 29, 1990, 104 Stat. 5041, 5044; Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), Dec. 12, 1991, 105 Stat. 1736, 1750; Pub. L. 106–448, §1, Nov. 6, 2000, 114 Stat. 1939.)
+(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Pub. L. 97–116, §18(o), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(18), (d)(15), Nov. 29, 1990, 104 Stat. 5041, 5044; Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), Dec. 12, 1991, 105 Stat. 1736, 1750; Pub. L. 106–448, §1, Nov. 6, 2000, 114 Stat. 1939.)
 
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–448 inserted at end "The Attorney General may waive the taking of the oath by a person if in the opinion of the Attorney General the person is unable to understand, or to communicate an understanding of, its meaning because of a physical or developmental disability or mental impairment. If the Attorney General waives the taking of the oath by a person under the preceding sentence, the person shall be considered to have met the requirements of section 1427(a)(3) of this title with respect to attachment to the principles of the Constitution and well disposition to the good order and happiness of the United States."
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–232, §102(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the applicant is prevented by sickness or other disability from attending a public ceremony, the oath required to be taken by subsection (a) of this section may be taken at such place as the Attorney General may designate under section 1445(e) of this title."
+<b>1991</b>—Subsec. (c). Pub. L. 102–232, §102(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c)read as follows: "If the applicant is prevented by sickness or other disability from attending a public ceremony, the oath required to be taken by subsection (a) of this section may be taken at such place as the Attorney General may designate under section 1445(e) of this title."
 
 Pub. L. 102–232, §305(i), struck out "before" after "may be taken".
 

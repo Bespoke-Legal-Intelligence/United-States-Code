@@ -38,7 +38,7 @@ The President shall conduct a study to determine (1) whether adequate private in
 
 #### (d) Issues, alternatives, and policy considerations involving selection of locations for waste treatment, storage, and disposal facilities
 
-The Administrator of the Environmental Protection Agency shall, in consultation with other Federal agencies and appropriate representatives of State and local governments and nongovernmental agencies, conduct a study and report to the Congress within two years of December 11, 1980, on the issues, alternatives, and policy considerations involved in the selection oflocations for hazardous waste treatment, storage, and disposal facilities. This study shall include—
+The Administrator of the Environmental Protection Agency shall, in consultation with other Federal agencies and appropriate representatives of State and local governments and nongovernmental agencies, conduct a study and report to the Congress within two years of December 11, 1980, on the issues, alternatives, and policy considerations involved in the selection of locations for hazardous waste treatment, storage, and disposal facilities. This study shall include—
 
 &emsp;(A) an assessment of current and projected treatment, storage, and disposal capacity needs and shortfalls for hazardous waste by management category on a State-by-State basis;
 

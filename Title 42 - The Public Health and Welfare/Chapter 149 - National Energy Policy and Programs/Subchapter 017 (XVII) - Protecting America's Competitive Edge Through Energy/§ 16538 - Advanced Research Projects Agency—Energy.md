@@ -220,7 +220,7 @@ The Director shall seek opportunities to partner with purchasing and procurement
 
 #### (1) In general
 
-&emsp;After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into acontract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
+&emsp;After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
 
 #### (2) Inclusions
 
@@ -338,7 +338,7 @@ Subsecs. (k), (l). Pub. L. 111–358, §904(4), redesignated subsecs. (j) and (k
 
 Subsec. (l)(1). Pub. L. 111–358, §904(9)(A), substituted "6 years" for "4 years".
 
-Subsec. (l)(2)(B). Pub. L. 111–358, §904(9)(B), inserted ", and the manner in which those lessons may apply tothe operation of other programs of the Department" after "ARPA-E".
+Subsec. (l)(2)(B). Pub. L. 111–358, §904(9)(B), inserted ", and the manner in which those lessons may apply to the operation of other programs of the Department" after "ARPA-E".
 
 Subsecs. (m), (n). Pub. L. 111–358, §904(4), redesignated subsecs. (l) and (m) as (m) and (n), respectively.
 

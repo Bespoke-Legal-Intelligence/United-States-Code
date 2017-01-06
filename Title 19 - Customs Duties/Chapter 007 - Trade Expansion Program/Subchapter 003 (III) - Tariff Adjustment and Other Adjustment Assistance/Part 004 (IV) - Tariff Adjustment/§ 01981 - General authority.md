@@ -44,13 +44,13 @@ No proclamation pursuant to subsection (a) shall be made—
 
 (3) Repealed. Pub. L. 93–618, title VI, §602(d), Jan. 3, 1975, 88 Stat. 2072.
 
-(4) In advising the President under this subsection as to the probable economic effect on the industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
+(4) In advising the President under this subsection as to the probable economic effect onthe industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
 
 (5) Advice by the United States International Trade Commission under this subsection shall be given on the basis of an investigation during the course of which the United States International Trade Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
 
 #### (e) Conformity of trade agreements with this section
 
-The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered intounder section 1351 of this title into conformity with the provisions of this section. No trade agreement shall be entered into under section 1821(a) of this title unless such agreement permits action in conformity with the provisions of this section.
+The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered into under section 1351 of this title into conformity with the provisions of this section. No trade agreement shall be entered into under section 1821(a) of this title unless such agreement permits action in conformity with the provisions of this section.
 
 (Pub. L. 87–794, title III, §351, Oct. 11, 1962, 76 Stat. 899; Pub. L. 93–618, title I, §171(b), title VI, §602(c), (d), Jan. 3, 1975, 88 Stat. 2009, 2072.)
 

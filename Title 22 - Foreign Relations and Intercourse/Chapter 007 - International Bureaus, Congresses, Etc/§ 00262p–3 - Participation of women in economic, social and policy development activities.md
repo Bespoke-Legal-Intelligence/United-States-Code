@@ -20,7 +20,7 @@ The Secretary of the Treasury shall instruct—
 
 &emsp;(1) the United States Executive Director of the International Bank for Reconstruction and Development and the International Development Association to support attempts to strengthen the role of the Women in Development division in policy development, project design and implementation, and evaluation; and
 
-&emsp;(2) the United States Executive Directors of the regional multilateral development banks to support exploring the establishment of a mechanism, or the strengthening of any existing mechanism, within each of the respective banks, to advise, advocate, and promote the full intergration <sup>1</sup> of women in the planning, design, implementation, and evaluation of lending activities both in borrowing countries and within the banks.
+&emsp;(2) the United States Executive Directors of the regional multilateral development banks to support exploring the establishment of a mechanism, or the strengthening of any existing mechanism, within each of the respective banks, to advise, advocate, and promote the full intergration <sup>1</sup> of women in the planning, design, implementation, and evaluation oflending activities both in borrowing countries and within the banks.
 
 #### (c) Annual reports to Congress
 

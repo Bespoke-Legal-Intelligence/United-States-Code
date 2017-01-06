@@ -14,7 +14,17 @@
 
 &emsp;(2) Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, §902, Dec. 31, 2011, 125 Stat. 1532; Pub. L. 113–291, div. A, title IX, §901(k)(2), Dec. 19, 2014, 128 Stat. 3468.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, §902, Dec. 31, 2011, 125 Stat. 1532; Pub. L. 113–291, div. A, title IX, §901(k)(2), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–328, div. A, title IX, §901(c)(4), Dec. 23, 2016, 130 Stat. 2341.)
+
+#### Amendment of Subsections (c) to (e)
+
+<i>Pub. L. 114–328, div. A, title IX, §901(c)(4), Dec. 23, 2016, 130 Stat. 2341, provided that, effective on Feb. 1, 2018, this section is amended as follows:</i>
+
+<i>(1) by striking subsection (c); and</i>
+
+<i>(2) by redesignating subsections (d) and (e) as subsections (c) and (d), respectively.</i>
+
+<i>See 2016 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -42,7 +52,7 @@ In subsection (a), the last sentence is substituted for 5 U.S.C. 171c(a) (provis
 
 #### References in Text
 
-Executive Order No. 13299, referred to in subsec. (e)(1), was superseded by Ex. Ord. No. 13537, Apr. 14, 2010, 75 F.R. 20237, set out as a note preceding section 1451 of Title 48, Territories and Insular Possessions.
+Executive Order No. 13299, referred to in subsec. (e)(1), was superseded by Ex. Ord. No. 13537, Apr. 14, 2010, 75F.R. 20237, set out as a note preceding section 1451 of Title 48, Territories and Insular Possessions.
 
 Executive Order No. 12788, referred to in subsec. (e)(2), is set out as a note under section 2391 of this title.
 
@@ -51,6 +61,8 @@ Executive Order No. 12788, referred to in subsec. (e)(2), is set out as a note u
 A prior section 132 was renumbered section 112 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsecs. (c) to (e). Pub. L. 114–328 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: "The Deputy Secretary serves as the Chief Management Officer of the Department of Defense."
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–291 substituted "dies, resigns, or is otherwise unable to perform the functions and duties of the office" for "is disabled or there is no Secretary of Defense".
 
@@ -92,6 +104,10 @@ Subsec. (b). Pub. L. 92–596 provided for the exercise of powers and duties con
 
 Subsec. (c). Pub. L. 92–596 substituted "The Deputy Secretaries take" for "The Deputy Secretary takes".
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title IX, §901(c)(4), Dec. 23, 2016, 130 Stat. 2341, provided that the amendment made by section 901(c)(4) is effective on Feb. 1, 2018.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by section 901(c)(2), (m)(2) of Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
@@ -112,7 +128,7 @@ Pub. L. 110–181, div. A, title IX, §904(a)(2), Jan. 28, 2008, 122 Stat. 273, 
 
 "(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer."
 
-<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
+<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under section 131 of this title, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.\]</i>
 
 #### Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments
 
@@ -126,5 +142,5 @@ Pub. L. 110–181, div. A, title IX, §904(b), Jan. 28, 2008, 122 Stat. 274, as 
 
 "(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer and Deputy Chief Management Officer of the Department of Defense as is necessary to assist those officials in the performance of their duties."
 
-<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the</i><i>Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
+<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, set out as a References note under section 131 of this title, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.\]</i>
 

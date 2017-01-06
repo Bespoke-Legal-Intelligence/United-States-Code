@@ -116,7 +116,7 @@ In establishing and conducting programs under this section, the Administrator sh
 
 &emsp;&emsp;Except as provided in subparagraph (B), the information required by paragraph (1) shall be published with respect to a research program as follows:
 
-&emsp;&emsp;&emsp;(i) The information described in subparagraphs (A), (B), and (C) of paragraph (1) with respect to such research program shall be made available under paragraph (1) not later than 30 days after the Administrator has awarded the funding for such research program.
+&emsp;&emsp;&emsp;(i) The information described in subparagraphs (A), (B), and (C) of paragraph (1)with respect to such research program shall be made available under paragraph (1) not later than 30 days after the Administrator has awarded the funding for such research program.
 
 &emsp;&emsp;&emsp;(ii) The information described in subparagraph (D) of paragraph (1) with respect to a research program shall be made available under paragraph (1) not later than 60 days after the date such research program has been completed.
 

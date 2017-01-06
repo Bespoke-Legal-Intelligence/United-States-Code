@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title52",
- "package": "USCODE-2015-title52",
+ "package": "USCODE-2016-title52",
  "pieces": [
   {
    "id": "52_",
@@ -773,10 +773,10 @@
    "marks": [
     [
      "I",
-     14,
+     12,
      [
       [
-       92,
+       97,
        "[Page 36]"
       ]
      ]
@@ -792,14 +792,10 @@
    "id": "52_20311",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       89,
-       "[Page 37]"
-      ]
-     ]
+     "L",
+     56,
+     "[Page 37]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20311 - Technology pilot program.md",
@@ -822,7 +818,7 @@
    "marks": [
     [
      "L",
-     38,
+     30,
      "[Page 38]",
      true
     ]
@@ -855,10 +851,14 @@
    "id": "52_20504",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 39]",
-     true
+     "I",
+     4,
+     [
+      [
+       93,
+       "[Page 39]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20504 - Simultaneous application for voter registration and application for motor vehicle driver's license.md",
@@ -872,10 +872,10 @@
    "marks": [
     [
      "I",
-     38,
+     32,
      [
       [
-       101,
+       97,
        "[Page 40]"
       ]
      ]
@@ -892,10 +892,10 @@
    "marks": [
     [
      "I",
-     70,
+     68,
      [
       [
-       143,
+       95,
        "[Page 41]"
       ]
      ]
@@ -912,19 +912,19 @@
    "marks": [
     [
      "L",
-     32,
+     24,
      "[Page 42]",
      true
     ],
     [
      "L",
-     94,
+     90,
      "[Page 43]",
      true
     ],
     [
      "L",
-     156,
+     150,
      "[Page 44]",
      true
     ]
@@ -958,10 +958,10 @@
    "marks": [
     [
      "I",
-     16,
+     10,
      [
       [
-       94,
+       145,
        "[Page 45]"
       ]
      ]
@@ -1004,10 +1004,14 @@
    "id": "52_20702",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 46]",
-     true
+     "I",
+     2,
+     [
+      [
+       95,
+       "[Page 46]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20702 - Theft, destruction, concealment, mutilation, or alteration of records or papers; penalties.md",
@@ -1057,10 +1061,10 @@
    "marks": [
     [
      "I",
-     74,
+     62,
      [
       [
-       76,
+       56,
        "[Page 47]"
       ]
      ]
@@ -1085,14 +1089,10 @@
    "id": "52_20901",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       96,
-       "[Page 48]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 48]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20901 - Payments to States for activities to improve administration of elections.md",
@@ -1106,38 +1106,33 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       140,
+       93,
        "[Page 49]"
       ]
      ]
+    ],
+    [
+     "L",
+     112,
+     "[Page 50]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20902 - Replacement of punch card or lever voting machines.md",
    "printed_pages": [
     48,
-    49
+    50
    ]
   },
   {
    "id": "52_20903",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       231,
-       "[Page 50]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20903 - Guaranteed minimum payment amount.md",
    "printed_pages": [
-    49,
+    50,
     50
    ]
   },
@@ -1197,30 +1192,26 @@
   },
   {
    "id": "52_20921",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 51]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20921 - Establishment.md",
    "printed_pages": [
     50,
-    50
+    51
    ]
   },
   {
    "id": "52_20922",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       87,
-       "[Page 51]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20922 - Duties.md",
    "printed_pages": [
-    50,
+    51,
     51
    ]
   },
@@ -1229,7 +1220,7 @@
    "marks": [
     [
      "L",
-     74,
+     68,
      "[Page 52]",
      true
     ]
@@ -1242,30 +1233,26 @@
   },
   {
    "id": "52_20924",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     74,
+     "[Page 53]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20924 - Staff.md",
    "printed_pages": [
     52,
-    52
+    53
    ]
   },
   {
    "id": "52_20925",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       91,
-       "[Page 53]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20925 - Powers.md",
    "printed_pages": [
-    52,
+    53,
     53
    ]
   },
@@ -1292,7 +1279,7 @@
    "marks": [
     [
      "L",
-     14,
+     10,
      "[Page 54]",
      true
     ]
@@ -3070,6 +3057,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2015-title52 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2016-title52 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 52 - Voting and Elections"
 }

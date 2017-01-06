@@ -38,7 +38,7 @@ In addition to other duties specified in this chapter, the Administrator and the
 
 &emsp;&emsp;(ii) if the Secretary has not obtained agreements pursuant to subparagraph (B) regarding the desirability of applying the requirements described in subparagraph (A)(i) to all vessels described in section 1902(a) of this title which call at United States ports.
 
-(5) No standard issued by any person or Federal authority, with respect to emissions from tank vessels subject to regulation 15 of Annex VI to the Convention, shall be effective until 6 months after the required notification to the International Maritime Organization by the Secretary.
+(5) No standard issued by any person or Federal authority, with respect to emissions from tank vessels subject to regulation 15 of Annex VIto the Convention, shall be effective until 6 months after the required notification to the International Maritime Organization by the Secretary.
 
 #### (d) Utilization of personnel, facilities, or equipment of other Federal departments and agencies
 
@@ -80,5 +80,5 @@ Subsec. (b) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

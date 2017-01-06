@@ -6,7 +6,7 @@
 
 (2) An applicant for a grant under paragraph (1) shall determine whether the program to be supported by the grant is a program under part A, B, or C, and shall submit an application as required for such program.
 
-(3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C of this subchapter under which the program supported by such grant is to be carried out.
+(3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C under which the program supported by such grant is to be carried out.
 
 (4) To the maximum extent practicable, the Director shall ensure that not less than 25 percent of the funds appropriated under this section are used to award grants—
 
@@ -68,7 +68,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 The Director shall widely disseminate information on grants that may be made under subsection (a) of this section to field personnel of the Corporation and to community volunteer organizations that request such information.
 
-(Pub. L. 93–113, title II, §225, as added Pub. L. 101–204, title V, §502(a), Dec. 7, 1989, 103 Stat.1815; amended Pub. L. 103–82, title III, §349, title IV, §405(a)(6), Sept. 21, 1993, 107 Stat. 906, 920; Pub. L. 111–13, title II, §2146(d), Apr. 21, 2009, 123 Stat. 1589.)
+(Pub. L. 93–113, title II, §225, as added Pub. L. 101–204, title V, §502(a), Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §349, title IV, §405(a)(6), Sept. 21, 1993, 107 Stat. 906, 920; Pub. L. 111–13, title II, §2146(d), Apr. 21, 2009, 123 Stat. 1589.)
 
 #### Amendments
 

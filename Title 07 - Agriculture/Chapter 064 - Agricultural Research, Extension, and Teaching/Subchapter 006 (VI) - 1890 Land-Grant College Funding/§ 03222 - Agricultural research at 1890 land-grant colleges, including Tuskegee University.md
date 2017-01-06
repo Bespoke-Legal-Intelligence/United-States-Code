@@ -32,7 +32,7 @@
 
 #### (ii) Redistribution
 
-&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection\(b)(2)(B) to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
+&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
 
 #### (b) Allocation and distribution of appropriated funds
 
@@ -62,7 +62,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 &emsp;&emsp;(A) The critical short-term, intermediate, and long-term agricultural issues in the State in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
 
-&emsp;&emsp;(B) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
+&emsp;&emsp;(B) The process established to consult with users of agricultural research regarding the identification of critical agricultural issuesin the State and the development of research programs and projects targeted to address the issues.
 
 &emsp;&emsp;(C) Other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State.
 
@@ -134,7 +134,7 @@ Subsec. (c). Pub. L. 105–185, §225(b), inserted subsec. heading, designated e
 
 Subsec. (g). Pub. L. 105–362, §101(e)(1), struck out "(1)" before "On or before".
 
-Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: "The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portionof the appropriation available for allotment to any institution has been withheld and if so the reasons therefor."
+Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: "The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor."
 
 Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution."
 
@@ -165,6 +165,10 @@ Amendment by section 225(b) of Pub. L. 105–185 effective Oct. 1, 1999, see sec
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 #### West Virginia State College, Institute, West Virginia
 

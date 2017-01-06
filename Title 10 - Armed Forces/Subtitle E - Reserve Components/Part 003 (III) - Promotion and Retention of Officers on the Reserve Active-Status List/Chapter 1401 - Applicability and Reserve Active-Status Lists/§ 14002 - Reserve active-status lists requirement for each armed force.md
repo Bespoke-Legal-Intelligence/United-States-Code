@@ -1,6 +1,6 @@
 ### §14002. Reserve active-status lists: requirement for each armed force
 
-(a) The Secretary of each military department shall maintain a single list, to be known as the reserve active-status list, for each armed force under the Secretary's jurisdiction. That list shall include the names of all reserve officers of that armed force who are in an active status other than those on an active-duty list described in section 620 of this title or warrant officers (including commissioned warrant officers).
+(a) The Secretary of each military department shall maintain a single list, to be known as the reserve active-status list, for each armed force under the Secretary's jurisdiction. That listshall include the names of all reserve officers of that armed force who are in an active status other than those on an active-duty list described in section 620 of this title or warrant officers (including commissioned warrant officers).
 
 (b) The reserve active-status list for the Army shall include officers in the Army Reserve and the Army National Guard of the United States. The reserve active-status list for the Air Force shall include officers in the Air Force Reserve and the Air National Guard of the United States. The Secretary of the Navy shall maintain separate lists for the Navy Reserve and the Marine Corps Reserve.
 
@@ -9,6 +9,10 @@
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 #### Establishment of Reserve Active-Status List
 

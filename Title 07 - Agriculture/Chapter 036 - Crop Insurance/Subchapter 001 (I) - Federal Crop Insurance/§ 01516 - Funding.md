@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) The administrative and operating expenses of the Corporation for the sales commissions of agents.
 
-&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
+&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of anapproved insurance provider for the delivery of policies with additional coverage.
 
 &emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
 
@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the 2014 and subsequent reinsurance years, the Corporation may usethe insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+&emsp;&emsp;&emsp;For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
 
 &emsp;&emsp;&emsp;&emsp;(I) to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
 
@@ -130,7 +130,7 @@ Other expenses.—The Corporation is authorized to pay from the insurance fund e
 
 <b>1996</b>—Subsec. (a)(2)(C). Pub. L. 104–127, §193(e)(1), struck out subpar. (C) which read as follows: "payments for noninsured assistance losses under section 1519 of this title."
 
-Subsec. (b)(1). Pub. L. 104–127, §193(e)(2)(A), struck out subpar. (A) designation and heading "In general", substituted "In the case of each" for "Except as provided in subparagraph (B), in the case of each", and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: "In the case of the 1997 reinsurance year, the amount of the payments from the insurance fund established under subsection (c) of this section for the expenses of the Corporationfor the sales commissions of agents may not exceed 8.5 percent of the total amount of premiums paid for additional coverage for the 1997 reinsurance year."
+Subsec. (b)(1). Pub. L. 104–127, §193(e)(2)(A), struck out subpar. (A) designation and heading "In general", substituted "In the case of each" for "Except as provided in subparagraph (B), in the case of each", and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: "In the case of the 1997 reinsurance year, the amount of the payments from the insurance fund established under subsection (c) of this section for the expenses of the Corporation for the sales commissions of agents may not exceed 8.5 percent of the total amount of premiums paid for additional coverage for the 1997 reinsurance year."
 
 Subsec. (b)(2)(A). Pub. L. 104–127, §193(e)(3), struck out ", noninsured assistance benefits," after "all premium subsidies".
 
@@ -166,7 +166,7 @@ Pub. L. 96–365, title I, §110, Sept. 26, 1980, 94 Stat. 1318, provided that t
 
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

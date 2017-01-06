@@ -26,11 +26,11 @@
 
 #### (1) In general
 
-&emsp;At the request of a fleet or covered person allocated a credit under subsection (a) of this section, the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II of this chapter, or subchapter III of this chapter.
+&emsp;At the request of a fleet or covered person allocated a credit under subsection (a), the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II, or subchapter III.
 
 #### (2) Limitation
 
-&emsp;Credits allocated under subsection (a) of this section may not be used to satisfy more than 50 percent of the alternative fueled vehicle requirements of a fleet or covered person under this subchapter, subchapter II of this chapter, and subchapter III of this chapter. This paragraph shall not apply to a fleet or covered person that is a biodiesel alternative fuel provider described in section 13251(a)(2)(A) of this title.
+&emsp;Credits allocated under subsection (a) may not be used to satisfy more than 50 percent of the alternative fueled vehicle requirements of a fleet or covered person under this subchapter, subchapter II, and subchapter III. This paragraph shall not apply to a fleet or covered person that is a biodiesel alternative fuel provider described in section 13251(a)(2)(A) of this title.
 
 #### (c) Credit not a section 13258 credit
 
@@ -42,7 +42,7 @@ The Secretary shall, before January 1, 1999, issue a rule establishing procedure
 
 #### (e) Collection of data
 
-The Secretary shall collect such data as are required to make a determination described in subsection (f)(2)(B) of this section.
+The Secretary shall collect such data as are required to make a determination described in subsection (f)(2)(B).
 
 #### (f) Definitions
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
 
-(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
+(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct.21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ The date of the enactment of this section, referred to in subsec. (a)(1), probab
 
 This subchapter, referred to in subsec. (b), was in the original "this title", meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title. For complete classification of title III to the Code, see Tables.
 
-Subchapter II of this chapter, referred to in subsec. (b), was in the original "title IV", meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15. For complete classification of title IV to the Code, see Tables.
+Subchapter II, referred to in subsec. (b), was in the original "title IV", meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II (§13231 et seq.) of this chapter, amended sections 6374a and 6374b and former section 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under former section 79b and section 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15. For complete classification of title IV to the Code, see Tables.
 
 #### Codification
 

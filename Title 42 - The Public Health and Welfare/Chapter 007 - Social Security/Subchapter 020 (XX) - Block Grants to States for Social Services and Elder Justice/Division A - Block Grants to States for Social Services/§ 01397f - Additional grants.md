@@ -146,7 +146,7 @@ As used in this section:
 
 &emsp;&emsp;(C) was developed in cooperation with the local government or governments with jurisdiction over the area; and
 
-&emsp;&emsp;(D) to the extent that any State will not use the amounts provided under this section for the area in the manner described in subsection (b) of this section, explains the reasons why not.
+&emsp;&emsp;(D) to the extent that any State will not use the amounts provided under this section for the area in the manner described in subsection (b), explains the reasons why not.
 
 #### (5) Rural area
 

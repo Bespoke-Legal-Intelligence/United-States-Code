@@ -16,7 +16,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(6) coordinate policies across multilateral development banks on issues including debarment, cross-debarment, procurement guidelines, consultant guidelines, and fiduciary standards so that a person that is debarred by one such bank is subject to a rebuttable presumption of ineligibility to conduct business with any other such bank during the specific ineligibility period;
 
-&emsp;(7) require each bank borrower and grantee and each bidder, supplier and contractor for MDB projects to comply with the highest standard of ethics prohibiting coercive, collusive, corrupt and fraudulent practices, such as are defined in the World Bank's Procurement Guidelines of May, 2004;
+&emsp;(7) require each bank borrower and grantee and each bidder, supplier and contractor forMDB projects to comply with the highest standard of ethics prohibiting coercive, collusive, corrupt and fraudulent practices, such as are defined in the World Bank's Procurement Guidelines of May, 2004;
 
 &emsp;(8) maintain a functionally independent Investigations Office, Auditor General Office and Evaluation Office that are free from interference in determining the scope of investigations (including forensic audits), internal auditing (including assessments of management controls for meeting operational objectives and complying with bank policies), performing work and communicating results, and that regularly report to such bank's board of directors and, as appropriate and in a manner consistent with such functional independence of the Investigations Office and the Auditor General Office, to the bank's President;
 

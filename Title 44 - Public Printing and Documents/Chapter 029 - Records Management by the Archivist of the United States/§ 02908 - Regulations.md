@@ -1,6 +1,6 @@
 ### §2908. Regulations
 
-Subject to applicable law, the Archivist shall promulgate regulations governing the transfer of records from the custody of one executive agency to that of another.
+Subject to applicable law, the Archivist shall promulgate regulations governing the transferof records from the custody of one executive agency to that of another.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1297; Pub. L. 98–497, title I, §107(b)(15)(B), Oct. 19, 1984, 98 Stat. 2288.)
 

@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle D of Pub. L. 99–509, title I, §§1031–1037, Oct. 21, 1986, 100 Stat. 1877, which amended sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note below and Tables.
+The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle D of Pub. L. 99–509, title I, §§1031–1037, Oct. 21, 1986, 100 Stat. 1877, which amended sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title and enacted provisions set out as a notebelow. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note below and Tables.
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Pub. L. 103–376, §1, Oct. 19, 1994, 108 Stat. 3497, provided that: "This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–552, §1(a), Oct. 28, 1992, 106 Stat. 4102, provided that: "This Act \[see Tables for classification\]may be cited as the 'Farm Credit Banks and Associations Safety and Soundness Act of 1992'."
+Pub. L. 102–552, §1(a), Oct. 28, 1992, 106 Stat. 4102, provided that: "This Act \[see Tables for classification\] may be cited as the 'Farm Credit Banks and Associations Safety and Soundness Act of 1992'."
 
 #### Short Title of 1988 Amendments
 
@@ -96,7 +96,7 @@ The repealed provisions constituted the bulk of chapter 7 of this title. Pub. L.
 
 #### Savings Provision
 
-Pub. L. 92–181, §5.40(b), formerly §5.26(b), Dec. 10, 1971, 85 Stat. 625, renumbered §5.40(b), Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: "All regulations of the Farm Credit Administration or the institutions of the System and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Acts repealed by subsection (a) of this section \[see Repeals note above\] shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act \[this chapter\]. All stock, notes, bonds, debentures, and other obligations issued under the repealed acts shall be valid and enforceable upon the terms and conditions under which they were issued, including the pledge of collateral against which theywere issued, and all loans made and security or collateral therefor held by, and all contracts entered into by, institutions of the System shall remain enforceable according to their terms unless and until modified in accordance with the provisions of this Act; it being the purpose of this subsection to avoid disruption in the effective operation of the System by reason of said repeals."
+Pub. L. 92–181, §5.40(b), formerly §5.26(b), Dec. 10, 1971, 85 Stat. 625, renumbered §5.40(b), Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: "All regulations of the Farm Credit Administration or the institutions of the System and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Acts repealed by subsection (a) of this section \[see Repeals note above\] shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act \[this chapter\]. All stock, notes, bonds, debentures, and other obligations issued under the repealed acts shall be valid and enforceable upon the terms and conditions under which they were issued, including the pledge of collateral against which they were issued, and all loans made and security or collateral therefor held by, and all contracts entered into by, institutions of the System shall remain enforceable according to their terms unless and until modified in accordance with the provisions of this Act; it being the purpose of this subsection to avoid disruption in the effective operation of the System by reason of said repeals."
 
 #### Separability
 

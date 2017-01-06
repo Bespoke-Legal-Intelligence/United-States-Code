@@ -10,7 +10,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(4) "Commuter service" means short-haul rail passenger service operated in metropolitan and suburban areas, whether within or across the geographical boundaries of a State, usually characterized by reduced fare, multiple-ride, and commutation tickets, and by morning and evening peak period operations;
 
-&emsp;(5) "Corporation" means the Consolidated Rail Corporation required to be established under section 741 of this title or its successor by merger, consolidation or other form of succession carried out under applicable law for the purpose of changing the State of its incorporation;
+&emsp;(5) "Corporation" means the Consolidated Rail Corporation required to be establishedunder section 741 of this title or its successor by merger, consolidation or other form of succession carried out under applicable law for the purpose of changing the State of its incorporation;
 
 &emsp;(6) "effective date of the final system plan" means the date on which the final system plan or any revised final system plan is deemed approved by Congress, in accordance with section 718 of this title;
 
@@ -52,9 +52,9 @@ As used in this chapter, unless the context otherwise requires—
 
 Section 711(i) of this title, referred to in par. (9), which related to the Finance Committee of the Board of Directors of the Association, was repealed by Pub. L. 97–35, title XI, §1147, Aug. 13, 1981, 95 Stat. 673.
 
-Section 10361 of title 49, referred to in par. (12), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, in par. (12) "section 10361 of title 49" was substituted for "section 205 of this Act", meaning section 205 of Pub. L. 93–236, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
+Section 10361 of title 49, referred to in par. (12), was omitted in the general amendment of subtitle IV ofTitle 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, in par. (12) "section 10361 of title 49" was substituted for "section 205 of this Act", meaning section 205 of Pub. L. 93–236, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
 
-Section 77 of the Bankruptcy Act, referred to in par. (16), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct.1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in par. (16), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 The Conrail Privatization Act, referred to in par. (17A), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. For complete classification of this Act to the Code see Short Title note set out under section 1301 of this title and Tables. The date on which the initial public offering of the securities of the corporation is closed under this Act was Apr. 2, 1987.
 

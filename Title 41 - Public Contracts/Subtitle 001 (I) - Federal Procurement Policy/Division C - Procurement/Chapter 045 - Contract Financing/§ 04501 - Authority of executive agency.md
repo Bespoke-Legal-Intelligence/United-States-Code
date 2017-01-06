@@ -26,5 +26,5 @@ June 30, 1949, ch. 288, title III, §305(a), 63 Stat. 396; July 12, 1952, ch. 70
 
 #### Relationship to Prompt Payment Requirements
 
-Pub. L. 103–355, title II, §2051(f), Oct. 13, 1994, 108 Stat. 3306, provided that: "The amendments made by this section \[see Tables for classification\] are not intendedto impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item."
+Pub. L. 103–355, title II, §2051(f), Oct. 13, 1994, 108 Stat. 3306, provided that: "The amendments made by this section \[see Tables for classification\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item."
 

@@ -12,7 +12,7 @@ Authority To Issue Special Permits.—(1) As provided under procedures prescribe
 
 (b)
 
-Applications.—When applying for a special permit or renewal of a special permit under thissection, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a new special permit or a modification to an existing special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. The Secretary shall make available to the public on the Department of Transportation's Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days. This subsection does not require the release of information protected by law from public disclosure.
+Applications.—When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a new special permit or a modification to an existing special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. The Secretary shall make available to the public on the Department of Transportation's Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days. This subsection does not require the release of information protected by law from public disclosure.
 
 (c)
 
@@ -112,7 +112,7 @@ In subsection (b), the words "upon application" and "grant of such" are omitted 
 
 In subsection (c)(1), clauses (A) and (B) are substituted for "any vessel which is excepted from the application of section 201 of the Ports and Waterways Safety Act of 1972 by paragraph (2) of such section". Section 201 of that Act amended section 4417a of the Revised Statutes (classified at 46:391a prior to its repeal and reenactment as part of the codification of subtitle II of title 46 in 1983). Clauses (A) and (B) restate the exceptions provided by section 201 of that Act and by section 4417a of the Revised Statutes as subsequently amended. Clause (C) is substituted for "any other vessel regulated under such Act, to the extent of such regulation" because of the restatement.
 
-In subsection (c)(2), before clause (A), the word "prescribed" is substituted for "issued" for consistency inthe revised title and with other titles of the United States Code.
+In subsection (c)(2), before clause (A), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (d), the words "by which", "the requirements of", and "or relieved of the obligation to meet any requirements imposed under" are omitted as surplus.
 

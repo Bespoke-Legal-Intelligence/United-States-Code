@@ -1,0 +1,6 @@
+### §1702. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–395, §3, Sept. 30, 1978, 92 Stat. 813, which set out definitions for this subchapter, was omitted from the Code as being of special and not general application.
+

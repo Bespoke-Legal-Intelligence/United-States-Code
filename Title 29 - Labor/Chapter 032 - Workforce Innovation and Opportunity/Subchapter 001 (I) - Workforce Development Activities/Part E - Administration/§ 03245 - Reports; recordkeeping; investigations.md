@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out any audit under this subchapter (other than any initial audit surveyor any audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General of the Department of Labor, or the Comptroller General of the United States shall furnish to the State, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not later than 14 days (or as soon as practicable) prior to the commencement of the audit.
+&emsp;&emsp;In carrying out any audit under this subchapter (other than any initial audit survey or any audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General of the Department of Labor, or the Comptroller General of the United States shall furnish to the State, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not later than 14 days (or as soon as practicable) prior to the commencement of the audit.
 
 #### (B) Notification requirement
 
@@ -88,7 +88,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 &emsp;The reports required in subsection (c) shall include information regarding programs and activities carried out under this subchapter pertaining to—
 
-&emsp;&emsp;(A) the relevant demographic characteristics (including race, ethnicity, sex, and age) and other related information regarding participants;
+&emsp;&emsp;(A) the relevant demographic characteristics (including race, ethnicity, sex, and age)and other related information regarding participants;
 
 &emsp;&emsp;(B) the programs and activities in which participants are enrolled, and the length of time that participants are engaged in such programs and activities;
 
@@ -132,5 +132,5 @@ The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

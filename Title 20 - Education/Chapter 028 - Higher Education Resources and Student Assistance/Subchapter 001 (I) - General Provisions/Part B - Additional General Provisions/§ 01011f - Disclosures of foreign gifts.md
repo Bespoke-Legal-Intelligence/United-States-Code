@@ -12,11 +12,11 @@ Each report to the Secretary required by this section shall contain the followin
 
 &emsp;(2) For gifts received from or contracts entered into with a foreign government, the aggregate amount of such gifts and contracts received from each foreign government.
 
-&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
+&emsp;(3) In the case of an institution which is owned or controlled by a foreign source, theidentity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
 
 #### (c) Additional disclosures for restricted and conditional gifts
 
-Notwithstanding the provisions of subsection (b) of this section, whenever any institution receives a restricted or conditional gift or contract from a foreign source, the institution shall disclose the following:
+Notwithstanding the provisions of subsection (b), whenever any institution receives a restricted or conditional gift or contract from a foreign source, the institution shall disclose the following:
 
 &emsp;(1) For such gifts received from or contracts entered into with a foreign source other than a foreign government, the amount, the date, and a description of such conditions or restrictions. The report shall also disclose the country of citizenship, or if unknown, the principal residence for a foreign source which is a natural person, and the country of incorporation, or if unknown, the principal place of business for a foreign source which is a legal entity.
 
@@ -26,11 +26,11 @@ Notwithstanding the provisions of subsection (b) of this section, whenever any i
 
 #### (1) State requirements
 
-&emsp;If an institution described under subsection (a) of this section is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a) of this section. The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
 
 #### (2) Use of other Federal reports
 
-&emsp;If an institution receives a gift from, or enters into a contract with, a foreign source, where any other department, agency, or bureau of the executive branch requires a report containing requirements substantially similar to those required under this section, a copy of the report may be filed with the Secretary in lieu of a report required under subsection (a) of this section.
+&emsp;If an institution receives a gift from, or enters into a contract with, a foreign source, where any other department, agency, or bureau of the executive branch requires a report containing requirements substantially similar to those required under this section, a copy of the report may be filed with the Secretary in lieu of a report required under subsection (a).
 
 #### (e) Public inspection
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
 
-(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) through captain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
+(b)(1) Original appointments in the Regular Army in the Medical Corps or Dental Corps, and original appointments in the Regular Air Force with a view to designation of an officer as a medical or dental officer, may be made in the grades of first lieutenant through colonel. Original appointments in the Regular Navy in the Medical Corps or Dental Corps may be made in the grades of lieutenant (junior grade) throughcaptain. Such appointments may be made only from persons who are qualified doctors of medicine, osteopathy, or dentistry.
 
 (2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
 
@@ -59,6 +59,10 @@ Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 #### Effective Date of 2004 Amendment
 
 Amendment by section 501(a)(1) of Pub. L. 108–375 effective on May 1, 2005, and amendment by section 501(a)(2), (3)(A) of Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
 

@@ -2,21 +2,21 @@
 
 #### (a) Merger into Capital Fund
 
-Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under section 1437l of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
+Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under section 1437l of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d).
 
 #### (b) Merger into Operating Fund
 
-Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under this section before October 1, 1999, shall be merged into the Operating Fund established under subsection (e) of this section.
+Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under this section before October 1, 1999, shall be merged into the Operating Fund established under subsection (e).
 
 #### (c) Allocation amount
 
 #### (1) In general
 
-&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
+&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2)—
 
-&emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2) of this section; and
+&emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2); and
 
-&emsp;&emsp;(B) for assistance from the Operating Fund, the amount determined for the agency under the formula under subsection (e)(2) of this section.
+&emsp;&emsp;(B) for assistance from the Operating Fund, the amount determined for the agency under the formula under subsection (e)(2).
 
 #### (2) Funding
 
@@ -112,11 +112,11 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(H) the costs of administering a public housing work program under section 1437j of this title, including the costs of any related insurance needs;
 
-&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to financethe rehabilitation and development of public housing units, which shall be subject to such reasonable requirements as the Secretary may establish;
+&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to suchreasonable requirements as the Secretary may establish;
 
 &emsp;&emsp;(J) the costs associated with the operation and management of mixed finance projects, to the extent appropriate; and
 
-&emsp;&emsp;(K) the costs of operating computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E) of this section, and of activities related to that initiative.
+&emsp;&emsp;(K) the costs of operating computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E), and of activities related to that initiative.
 
 #### (2) Formula
 
@@ -166,17 +166,23 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (f) Negotiated rulemaking procedure
 
-The formulas under subsections (d)(2) and (e)(2) of this section shall be developed according to procedures for issuance of regulations under the negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
+The formulas under subsections (d)(2) and (e)(2) shall be developed according to procedures for issuance of regulations under the negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
 
 #### (g) Limitations on use of funds
 
-#### (1) Flexibility for Capital Fund amounts
+#### (1) Flexibility in use of funds
 
-&emsp;Of any amounts appropriated for fiscal year 2000 or any fiscal year thereafter that are allocated for fiscal year 2000 or any fiscal year thereafter from the Capital Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (e) of this section for assistance with amounts from the OperatingFund, but only if the public housing agency plan for the agency provides for such use.
+#### (A) Flexibility for Capital Fund amounts
+
+&emsp;&emsp;Of any amounts appropriated for fiscal year 2000 or any fiscal year thereafter that are allocated for fiscal year 2000 or any fiscal year thereafter from the Capital Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (e) for assistance with amounts from the Operating Fund, but only if the public housing agency plan for the agency provides for such use.
+
+#### (B) Flexibility for Operating Fund amounts
+
+&emsp;&emsp;Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter thatare allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under section 1437c–1 of this title for the agency provides for such use.
 
 #### (2) Full flexibility for small PHAs
 
-&emsp;Of any amounts allocated for any fiscal year for any public housing agency that owns or operates less than 250 public housing dwelling units, is not designated pursuant to section 1437d(j)(2) of this title as a troubled public housing agency, and (in the determination of the Secretary) is operating and maintaining its public housing in a safe, clean, and healthy condition, the agency may use any such amounts for any eligible activities under subsections (d)(1) and (e)(1) of this section, regardless of the fund from which the amounts were allocated and provided. This subsection shall take effect on October 21, 1998.
+&emsp;Of any amounts allocated for any fiscal year for any public housing agency that owns or operates less than 250 public housing dwelling units, is not designated pursuant to section 1437d(j)(2) of this title as a troubled public housing agency, and (in the determination of the Secretary) is operating and maintaining its public housing in a safe, clean, and healthy condition, the agency may use any such amounts for any eligible activities under subsections (d)(1) and (e)(1), regardless of the fund from which the amounts were allocated and provided. This subsection shall take effect on October 21, 1998.
 
 #### (3) Limitation on new construction
 
@@ -186,11 +192,11 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (B) Exception regarding use of assistance
 
-&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the Capital Fund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) of this section shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
+&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the Capital Fund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
 
 #### (C) Exception regarding formulas
 
-&emsp;&emsp;Subject to reasonable limitations set by the Secretary, the formulas established under subsections (d)(2) and (e)(2) of this section may provide additional funding for the operation and modernization costs (but not the initial development costs) of housing in excess of amounts otherwise permitted under this paragraph, and such amounts may be so used, if—
+&emsp;&emsp;Subject to reasonable limitations set by the Secretary, the formulas established under subsections (d)(2) and (e)(2) may provide additional funding for the operation and modernization costs (but not the initial development costs) of housing in excess of amounts otherwise permitted under this paragraph, and such amounts may be so used, if—
 
 &emsp;&emsp;&emsp;(i) such units are part of a mixed-finance project or otherwise leverage significant additional private or public investment; and
 
@@ -218,7 +224,7 @@ To the extent amounts are provided in advance in appropriations Acts, the Secret
 
 &emsp;(7) clearinghouse services in furtherance of the goals and activities of this subsection; and
 
-&emsp;(8) assistance in connection with the establishment and operation of computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E) of this section.
+&emsp;(8) assistance in connection with the establishment and operation of computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E).
 
 > As used in this subsection, the terms "training" and "technical assistance" shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees.
 
@@ -240,7 +246,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;The Secretary—
 
-&emsp;&emsp;(A) may, extend the time period under paragraph (1) for a public housing agency,for such period as the Secretary determines to be necessary, if the Secretary determines that the failure of the agency to obligate assistance in a timely manner is attributable to—
+&emsp;&emsp;(A) may, extend the time period under paragraph (1) for a public housing agency, for such period as the Secretary determines to be necessary, if the Secretary determines that the failure of the agency to obligate assistance in a timely manner is attributable to—
 
 &emsp;&emsp;&emsp;(i) litigation;
 
@@ -304,6 +310,10 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;Any obligation entered into by a public housing agency shall be subject to the right of the Secretary to recapture the obligated amounts for violation by the public housing agency of the requirements of this subsection.
 
+#### (7) Treatment of replacement reserve
+
+&emsp;The requirements of this subsection shall not apply to funds held in replacement reserves established pursuant to subsection (n).
+
 #### (k) Treatment of nonrental income
 
 A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
@@ -316,7 +326,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Exemptions
 
-&emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3) of this section, as applicable, during which such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
+&emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3), as applicable, during which such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
 
 #### (m) Treatment of public housing
 
@@ -334,7 +344,41 @@ A public housing agency that receives income from nonrental sources (as determin
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866.)
+#### (n) Establishment of replacement reserves
+
+#### (1) In general
+
+&emsp;Public housing agencies shall be permitted to establish a replacement reserve to fund any of the capital activities listed in subsection (d)(1).
+
+#### (2) Source and amount of funds for replacement reserve
+
+&emsp;At any time, a public housing agency may deposit funds from such agency's Capital Fund into a replacement reserve, subject to the following:
+
+&emsp;&emsp;(A) At the discretion of the Secretary, public housing agencies may transfer and hold in a replacement reserve funds originating from additional sources.
+
+&emsp;&emsp;(B) No minimum transfer of funds to a replacement reserve shall be required.
+
+&emsp;&emsp;(C) At any time, a public housing agency may not hold in a replacement reserve more than the amount the public housing authority has determined necessary to satisfy the anticipated capital needs of properties in its portfolio assisted under this section, as outlined in its Capital Fund 5-Year Action Plan, or a comparable plan, as determined by the Secretary.
+
+&emsp;&emsp;(D) The Secretary may establish, by regulation, a maximum replacement reserve level or levels that are below amounts determined under subparagraph (C), which may be based upon the size of the portfolio assisted under this section or other factors.
+
+#### (3) Transfer of operating funds
+
+&emsp;In first establishing a replacement reserve, the Secretary may allow public housing agencies to transfer more than 20 percent of its operating funds into its replacement reserve.
+
+#### (4) Expenditure
+
+&emsp;Funds in a replacement reserve may be used for purposes authorized by subsection (d)(1) and contained in its Capital Fund 5-Year Action Plan.
+
+#### (5) Management and report
+
+&emsp;The Secretary shall establish appropriate accounting and reporting requirements to ensure that public housing agencies are spending funds on eligible projects and that funds in the replacement reserve are connected to capital needs.
+
+#### (o) Public housing heating guidelines
+
+The Secretary shall publish model guidelines for minimum heating requirements for public housing dwelling units operated by public housing agencies receiving assistance under this section.
+
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, titleII, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866; Pub. L. 114–201, title I, §§109, 111, July 29, 2016, 130 Stat. 801, 803.)
 
 #### References in Text
 
@@ -347,6 +391,14 @@ Section 1437l of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was
 A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(1). Pub. L. 114–201, §109(b), substituted "Flexibility in use of funds" for "Flexibility for Capital Fund amounts" in heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+Subsec. (j)(7). Pub. L. 114–201, §109(a)(1), added par. (7).
+
+Subsec. (n). Pub. L. 114–201, §109(a)(2), added subsec. (n).
+
+Subsec. (o). Pub. L. 114–201, §111, added subsec. (o).
 
 <b>2008</b>—Subsecs. (k) to (n). Pub. L. 110–289 redesignated subsecs. (l) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
 
@@ -462,7 +514,7 @@ Qualifications.—Before the implementation of formulas pursuant to sections 9(d
 
 &emsp;&emsp;"(B) if a public housing agency establishes a rental amount that is based on an adjustment to income under section 3(b)(5)(G) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(5)(G)\] (as in effect immediately before the enactment of this Act \[Oct. 21, 1998\]), the Secretary shall not take into account any reduction of or any increase in the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\]; and
 
-&emsp;&emsp;"(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
+&emsp;&emsp;"(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributionsfor the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
 
 "(f)
 
@@ -546,7 +598,7 @@ Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided
 
 #### Applicability of Penalties for Slow Expenditure of Capital Funds
 
-Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: "That, hereafter, notwithstanding any other provision of law or any failure of the Secretary of Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \["
+Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: "That, hereafter, notwithstanding any other provision of law or any failure of the Secretaryof Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \["
 
 public housing capital fund (including transfer of funds)"\], shall apply to all assistance made available under this same heading on or after such date".
 

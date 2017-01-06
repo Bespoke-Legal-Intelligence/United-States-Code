@@ -2,7 +2,7 @@
 
 #### (a) Permanent exemption due to lack of alternate fuel supply, site limitations, environmental requirements, or adequate capital
 
-(1) After consideration of a petition (and comments thereon) for an exemption for a powerplant from the prohibitions of part A, the Secretary shall, by order, grant a permanent exemption under this subsection with respect tonatural gas or petroleum, if he finds that the petitioner has demonstrated that despite diligent good faith efforts—
+(1) After consideration of a petition (and comments thereon) for an exemption for a powerplant from the prohibitions of part A, the Secretary shall, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he finds that the petitioner has demonstrated that despite diligent good faith efforts—
 
 &emsp;(A) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source (i) will not be available within the first 10 years of the useful life of the powerplant, or (ii) will not be available at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the cost, as determined by rule by the Secretary, of the fuel that would be used as a primary energy source during the useful life of the powerplant involved;
 

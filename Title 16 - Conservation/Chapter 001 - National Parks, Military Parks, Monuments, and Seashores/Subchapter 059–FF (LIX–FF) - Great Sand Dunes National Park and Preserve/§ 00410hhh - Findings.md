@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;(6) the designation of a Great Sand Dunes National Park, which would encompass the existing Great Sand Dunes National Monument and additional land, would provide—
 
-&emsp;&emsp;(A) greater long-term protection of the geological, hydrological, paleontological, scenic, scientific, educational, wildlife, and recreational resources of the area (including the sand sheet associated with the dune mass and the ground water system on which the sand dune and wetland systems depend); and
+&emsp;&emsp;(A) greater long-term protection of the geological, hydrological, paleontological, scenic, scientific, educational, wildlife, and recreational resources of the area (includingthe sand sheet associated with the dune mass and the ground water system on which the sand dune and wetland systems depend); and
 
 &emsp;&emsp;(B) expanded visitor use opportunities;
 

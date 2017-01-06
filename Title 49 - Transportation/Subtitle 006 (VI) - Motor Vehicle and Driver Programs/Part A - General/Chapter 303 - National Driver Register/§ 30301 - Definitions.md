@@ -112,7 +112,7 @@ Minimum Standards for Federal Use.—
 
 &emsp;"(1)
 
-In general.—Beginning 3 years after the date of the enactment of this division \[May 11, 2005\], a Federal agency may not accept, for any official purpose, a driver's license or identification card issuedby a State to any person unless the State is meeting the requirements of this section.
+In general.—Beginning 3 years after the date of the enactment of this division \[May 11, 2005\], a Federal agency may not accept, for any official purpose, a driver's license or identification card issued by a State to any person unless the State is meeting the requirements of this section.
 
 &emsp;"(2)
 
@@ -236,7 +236,7 @@ Other Requirements.—To meet the requirements of this section, a State shall ad
 
 &emsp;"(8) Subject all persons authorized to manufacture or produce drivers' licenses and identification cards to appropriate security clearance requirements.
 
-&emsp;"(9) Establish fraudulent document recognition training programs for appropriate employees engagedin the issuance of drivers' licenses and identification cards.
+&emsp;"(9) Establish fraudulent document recognition training programs for appropriate employees engaged in the issuance of drivers' licenses and identification cards.
 
 &emsp;"(10) Limit the period of validity of all driver's licenses and identification cards that are not temporary to a period that does not exceed 8 years.
 
@@ -308,7 +308,7 @@ Pub. L. 105–178, title II, §2006(c), June 9, 1998, 112 Stat. 336, provided th
 
 "(1)
 
-Evaluation.—The Secretary shall evaluate the implementation of chapter 303 of title 49, United States Code, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve the ability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
+Evaluation.—The Secretary shall evaluate the implementation of chapter 303 of title 49, United States Code, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve theability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
 
 "(2)
 

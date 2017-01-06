@@ -76,7 +76,7 @@
 
 #### (7) Fully-indexed rate defined
 
-&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at thetime the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
+&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
 
 #### (8) Reverse mortgages and bridge loans
 
@@ -84,7 +84,7 @@
 
 #### (9) Seasonal income
 
-&emsp;If documented income, including income from a small business, is a repayment source for a residential mortgage loan, a creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
+&emsp;If documented income, including income from a small business, is a repayment sourcefor a residential mortgage loan, a creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
 
 #### (b) Presumption of ability to repay
 
@@ -142,7 +142,7 @@
 
 #### (iii) Bona fide discount points defined
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fidereduction of, the interest rate or time-price differential applicable to the mortgage.
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
 
 #### (iv) Interest rate reduction
 
@@ -150,7 +150,7 @@
 
 #### (D) Smaller loans
 
-&emsp;&emsp;The Bureau shall prescribe rules adjusting the criteria under subparagraph (A)(vii) in order to permit lenders that extend smaller loans to meet the requirements of the presumption of compliance under paragraph (1). In prescribing such rules, the Bureau shall consider the potential impact of such rules on rural areas and other areas where home values are lower.
+&emsp;&emsp;The Bureau shall prescribe rules adjusting the criteria under subparagraph (A)(vii) inorder to permit lenders that extend smaller loans to meet the requirements of the presumption of compliance under paragraph (1). In prescribing such rules, the Bureau shall consider the potential impact of such rules on rural areas and other areas where home values are lower.
 
 #### (E) Balloon loans
 

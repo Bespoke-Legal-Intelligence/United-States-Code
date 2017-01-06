@@ -2,7 +2,7 @@
 
 #### (a) Notification of registration; effective date of registration
 
-Any investment company organized or otherwise created under the laws of the United States or of a State may register for the purposes of this subchapter by filing with the Commission a notification of registration, in such form as the Commission shall by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. An investment company shall be deemed to be registered upon receipt by the Commission of such notification of registration.
+Any investment company organized or otherwise created under the laws of the United States or of a State may register for the purposes of this subchapter by filing with the Commission a notification of registration, in such form as the Commission shall by rules and regulations prescribe as necessary or appropriate in the publicinterest or for the protection of investors. An investment company shall be deemed to be registered upon receipt by the Commission of such notification of registration.
 
 #### (b) Registration statement; contents
 
@@ -26,7 +26,7 @@ The Commission shall make provision, by permissive rules and regulations or orde
 
 &emsp;(2) copies of any reports filed by the registrant pursuant to section 78m or 78o(d) of this title; and
 
-&emsp;(3) a report containing reasonably current information regarding the matters included in copies filed pursuant to paragraphs (1) and (2) of this subsection, and such further information regarding matters not included in suchcopies as the Commission is authorized to require under subsection (b).
+&emsp;(3) a report containing reasonably current information regarding the matters included in copies filed pursuant to paragraphs (1) and (2) of this subsection, and such further information regarding matters not included in such copies as the Commission is authorized to require under subsection (b).
 
 #### (d) Registration of unit investment trusts
 

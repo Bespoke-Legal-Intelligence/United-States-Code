@@ -24,7 +24,7 @@ Monitoring program for certain unregulated contaminants.—
 
 &emsp;&emsp;(i)
 
-Initial list.—Not later than 3 years after August 6, 1996, and every 5 years thereafter, the Administrator shall issue a list pursuant to subparagraph (A) of not more than 30 unregulated contaminants to be monitored by public water systems and to be included in the national drinking water occurrence data base maintained pursuant to subsection (g) of this section.
+Initial list.—Not later than 3 years after August 6, 1996, and every 5 years thereafter, the Administrator shall issue a list pursuant to subparagraph (A) of not more than 30 unregulated contaminants to be monitored by public water systems and to be included in the national drinking water occurrence data base maintained pursuant to subsection (g).
 
 &emsp;&emsp;(ii)
 
@@ -56,7 +56,7 @@ Waiver of monitoring requirement.—The Administrator shall waive the requiremen
 
 &emsp;(G)
 
-Analytical methods.—The State may use screening methods approved by the Administrator under subsection (i) of this section in lieu of monitoring for particular contaminants under this paragraph.
+Analytical methods.—The State may use screening methods approved by the Administrator under subsection (i) in lieu of monitoring for particular contaminants under this paragraph.
 
 &emsp;(H)
 
@@ -64,13 +64,13 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 #### (b) Entry of establishments, facilities, or other property; inspections; conduct of certain tests; audit and examination of records; entry restrictions; prohibition against informing of a proposed entry
 
-(1) Except as provided in paragraph (2), the Administrator, or representatives of the Administrator duly designated by him, upon presenting appropriate credentials and a written notice to any supplier of water or other person subject to (A) a national primary drinking water regulation prescribed under section 300g–1 of this title, (B) an applicable underground injection control program, or (C) any requirement to monitor an unregulated contaminant pursuant to subsection (a) of this section, or person in charge of any of the property of such supplier or other person referred to in clause (A), (B), or (C), is authorized to enter any establishment, facility, or other property of such supplier or other person in order to determine whether such supplier or other person has acted or is acting in compliance with this subchapter, including for this purpose, inspection, at reasonable times, of records, files, papers, processes, controls, and facilities, or in order to test any feature of a public water system, including its raw water source. The Administrator or the Comptroller General (or any representative designated by either) shall have access for the purpose of audit and examination to any records, reports, or information of a grantee which are required to be maintained under subsection (a) of this section or which are pertinent to any financial assistance under this subchapter.
+(1) Except as provided in paragraph (2), the Administrator, or representatives of the Administrator duly designated by him, upon presenting appropriate credentials and a written notice to any supplier of water or other person subject to (A) a national primary drinking water regulation prescribed under section 300g–1 of this title, (B) an applicable underground injection control program, or (C) any requirement to monitor an unregulated contaminant pursuant to subsection (a), or person in charge of any of the property of such supplier or other person referred to in clause (A), (B), or (C), is authorized to enter any establishment, facility, or other property of such supplier or other person in order to determine whether such supplier or other person has acted or is acting in compliance with this subchapter, including for this purpose, inspection, at reasonable times, of records, files, papers, processes, controls, and facilities, or in order to test any feature of a public water system, including its raw water source. The Administrator or the Comptroller General (or any representative designated by either) shall have access for the purpose of audit and examination to any records, reports, or information of a grantee which are required to be maintained under subsection (a) or which are pertinent to any financial assistance under this subchapter.
 
-(2) No entry may be made under the first sentence of paragraph (1) in an establishment, facility, or other property of a supplier of water or other person subject to a national primary drinking water regulation if the establishment, facility, or other property is located in a State which has primary enforcement responsibility for public water systems unless, before written notice of such entry is made, the Administrator (or his representative) notifies the State agency charged with responsibility for safe drinking water of the reasons for such entry. The Administrator shall, upon a showing by the State agency that such an entry will be detrimental to the administration of the State's program of primary enforcement responsibility, take such showing into consideration in determining whether to make such entry. No State agency which receives notice under this paragraph of an entry proposed to be made under paragraph (1) may use the information contained in the notice to inform the person whose property is proposed to be entered of the proposed entry; and if a State agency so uses such information, notice to the agency under this paragraph is not required until such time as the Administrator determines the agency has provided him satisfactory assurances that it will no longer so use information contained in a notice under this paragraph.
+(2) No entry may be made under the first sentence of paragraph (1) in an establishment, facility, or other property of a supplier of water or other person subject to a national primary drinking water regulation if the establishment, facility, or other property is located in a State which has primary enforcement responsibility for public water systems unless, before written notice of such entry is made, the Administrator (or his representative) notifies the State agency charged with responsibility for safe drinking water of the reasons for such entry. The Administrator shall, upon a showing by the State agency that such an entry will be detrimental to the administration of the State's program of primary enforcement responsibility, take such showing into consideration in determining whether to make such entry. No State agency which receives notice under this paragraph of an entry proposed to be made under paragraph (1) may use the information contained in the notice to inform the person whose property is proposed to be entered of the proposed entry; and if a State agency so uses such information, notice to the agency under this paragraph is not required until such time as the Administrator determinesthe agency has provided him satisfactory assurances that it will no longer so use information contained in a notice under this paragraph.
 
 #### (c) Penalty
 
-Whoever fails or refuses to comply with any requirement of subsection (a) of this section or to allow the Administrator, the ComptrollerGeneral, or representatives of either, to enter and conduct any audit or inspection authorized by subsection (b) of this section shall be subject to a civil penalty of not to exceed $25,000.
+Whoever fails or refuses to comply with any requirement of subsection (a) or to allow the Administrator, the Comptroller General, or representatives of either, to enter and conduct any audit or inspection authorized by subsection (b) shall be subject to a civil penalty of not to exceed $25,000.
 
 #### (d) Confidential information; trade secrets and secret processes; information disclosure; "information required under this section" defined
 
@@ -84,13 +84,13 @@ For purposes of this section, (1) the term "grantee" means any person who applie
 
 #### (f) Information regarding drinking water coolers
 
-The Administrator may utilize the authorities of this section for purposes of part F of this subchapter. Any person who manufactures, imports, sells, or distributes drinking water coolers in interstate commerce shall be treated as a supplier of water for purposes of applying the provisions of this section in the case of persons subject to part F of this subchapter.
+The Administrator may utilize the authorities of this section for purposes of part F. Any person who manufactures, imports, sells, or distributes drinking water coolers in interstate commerce shall be treated as a supplier of water for purposes of applying the provisions of this section in the case of persons subject to part F.
 
 #### (g) Occurrence data base
 
 #### (1) In general
 
-&emsp;Not later than 3 years after August 6, 1996, the Administrator shall assemble and maintain a national drinking water contaminant occurrence data base, using information on the occurrence of both regulated and unregulated contaminants in public water systems obtained under subsection (a)(1)(A) of this section or subsection (a)(2) of this section and reliable information from other public and private sources.
+&emsp;Not later than 3 years after August 6, 1996, the Administrator shall assemble and maintain a national drinking water contaminant occurrence data base, using information on the occurrence of both regulated and unregulated contaminants in public water systems obtained under subsection (a)(1)(A) or subsection (a)(2) and reliable information from other public and private sources.
 
 #### (2) Public input
 
@@ -102,7 +102,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 #### (4) Public recommendations
 
-&emsp;The Administrator shall periodically solicit recommendations from the appropriate officials of the National Academy of Sciences and the States, and any person may submit recommendations to the Administrator, with respect to contaminants that should be included in the national drinking water contaminant occurrence data base, including recommendations with respect to additional unregulated contaminants that should be listed under subsection (a)(2) of this section. Any recommendation submitted under this clause shall be accompanied by reasonable documentation that—
+&emsp;The Administrator shall periodically solicit recommendations from the appropriate officials of the National Academy of Sciences and the States, and any person may submit recommendations to the Administrator, with respect to contaminants that should be included in the national drinking water contaminant occurrence data base, including recommendations with respect to additional unregulated contaminants that should be listed under subsection (a)(2). Any recommendation submitted under this clause shall be accompanied by reasonable documentation that—
 
 &emsp;&emsp;(A) the contaminant occurs or is likely to occur in drinking water; and
 
@@ -120,7 +120,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 &emsp;With respect to contaminants for which a national primary drinking water regulation has not been established, the data base shall include—
 
-&emsp;&emsp;(A) monitoring information collected by public water systems that serve a population of more than 10,000, as required by the Administrator under subsection (a) of this section;
+&emsp;&emsp;(A) monitoring information collected by public water systems that serve a population of more than 10,000, as required by the Administrator under subsection (a);
 
 &emsp;&emsp;(B) monitoring information collected from a representative sampling of public water systems that serve a population of 10,000 or fewer; and
 
@@ -128,7 +128,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 #### (h) Availability of information on small system technologies
 
-For purposes of sections 300g–1(b)(4)(E) and 300g–4(e) of this title (relating to small systemvariance program), the Administrator may request information on the characteristics of commercially available treatment systems and technologies, including the effectiveness and performance of the systems and technologies under various operating conditions. The Administrator may specify the form, content, and submission date of information to be submitted by manufacturers, States, and other interested persons for the purpose of considering the systems and technologies in the development of regulations or guidance under sections 300g–1(b)(4)(E) and 300g–4(e) of this title.
+For purposes of sections 300g–1(b)(4)(E) and 300g–4(e) of this title (relating to small system variance program), the Administrator may request information on the characteristics of commercially available treatment systems and technologies, including the effectiveness and performance of the systems and technologies under various operating conditions. The Administrator may specify the form, content, and submission date of information to be submitted by manufacturers, States, and other interested persons for the purpose of considering the systems and technologies in the development of regulations or guidance under sections 300g–1(b)(4)(E) and 300g–4(e) of this title.
 
 #### (i) Screening methods
 

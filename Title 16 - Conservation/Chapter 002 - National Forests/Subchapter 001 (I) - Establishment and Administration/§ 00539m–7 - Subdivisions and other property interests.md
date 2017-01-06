@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory or any other form of jurisdiction, over the subdivisions and property interests therein, and thelaws of the Pueblo shall not apply to the subdivisions.
+&emsp;&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory or any other form of jurisdiction, over the subdivisions and property interests therein, and the laws of the Pueblo shall not apply to the subdivisions.
 
 #### (B) State jurisdiction
 
@@ -122,7 +122,7 @@ Those properties not specifically addressed in subsections <sup>1</sup> (a) or 
 
 #### (2) Utility rights-of-way
 
-&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the Sandia Peak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unless the Pueblo agrees otherwise. To the extent that enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
+&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, theSecretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the Sandia Peak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unless the Pueblo agrees otherwise. To the extent that enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
 
 #### (3) Forest Service rights-of-way
 

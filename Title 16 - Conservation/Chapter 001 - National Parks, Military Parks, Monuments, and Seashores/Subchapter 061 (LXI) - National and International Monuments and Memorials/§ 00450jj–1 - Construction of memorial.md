@@ -6,7 +6,7 @@ The memorial authorized herein shall be constructed in general, in accordance wi
 
 #### (b) Easements; above-ground parking
 
-The Secretary of the Interior, in connection with the construction and operation of the memorial, is authorized to grant such easements as are in the public interest, and, in his discretion, to convey to the city of Saint Louis for above-ground parking structures, under such terms and conditions as he may consider to be compatible with maintaining the integrity, appearance, and purposes of said memorial, such portion of the historic site as may in his judgment be excluded therefrom without detriment thereto, subject, however, to reversion of such portion of the historic site to the United States if such excluded area ceases to be used for parking purposes by said city.
+The Secretary of the Interior, in connection with the construction and operation of the memorial, is authorized to grant such easements as are in the public interest, and, in his discretion,to convey to the city of Saint Louis for above-ground parking structures, under such terms and conditions as he may consider to be compatible with maintaining the integrity, appearance, and purposes of said memorial, such portion of the historic site as may in his judgment be excluded therefrom without detriment thereto, subject, however, to reversion of such portion of the historic site to the United States if such excluded area ceases to be used for parking purposes by said city.
 
 #### (c) Easements; public protection
 
@@ -16,7 +16,7 @@ The Secretary of the Interior is authorized to grant easements for the purpose o
 
 #### References in Text
 
-Herein, referred to in subsec. (a), means act May 17, 1954, which is generally classified to sections 450jj to450jj–9 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in subsec. (a), means act May 17, 1954, which is generally classified to sections 450jj to 450jj–9 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

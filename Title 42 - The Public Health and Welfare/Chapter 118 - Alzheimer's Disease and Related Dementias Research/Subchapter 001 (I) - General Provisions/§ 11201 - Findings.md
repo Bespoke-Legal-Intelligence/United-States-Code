@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) best estimates indicate that between 2,000,000 and 3,000,000 Americans presently have Alzheimer's disease or related dementias;
 
-&emsp;(2) estimates of the number of individuals afflicted with Alzheimer's disease and relateddementias are unreliable because current diagnostic procedures lack accuracy and sensitivity and because there is a need for epidemiological data on incidence and prevalence of such disease and dementias;
+&emsp;(2) estimates of the number of individuals afflicted with Alzheimer's disease and related dementias are unreliable because current diagnostic procedures lack accuracy and sensitivity and because there is a need for epidemiological data on incidence and prevalence of such disease and dementias;
 
 &emsp;(3) studies estimate that between one-half and two-thirds of patients in nursing homes meet the clinical and mental status criteria for dementia;
 
@@ -68,7 +68,7 @@ Pub. L. 111–375, §1, Jan. 4, 2011, 124 Stat. 4100, provided that: "This Act \
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–507, §1, Oct. 24, 1992, 106 Stat. 3281, provided that: "This Act \[enacting section 11261 of this title, amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing section 11261 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Alzheimer's Disease Research, Training, and Education Amendments of 1992'."
+Pub. L. 102–507, §1, Oct. 24, 1992, 106 Stat. 3281, provided that: "This Act \[enacting section 11261 of thistitle, amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing section 11261 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Alzheimer's Disease Research, Training, and Education Amendments of 1992'."
 
 #### Short Title
 

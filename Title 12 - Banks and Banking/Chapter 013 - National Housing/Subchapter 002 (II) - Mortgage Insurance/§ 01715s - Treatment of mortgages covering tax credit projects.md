@@ -44,7 +44,7 @@ Administrative and Procedural Changes.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Housing and Urban Development (in this section referred to as the 'Secretary') shall, not later than the expiration of the 6-month period beginning upon after \[sic\] the date of the enactment of this Act \[July 30, 2008\], implementadministrative and procedural changes to expedite approval of multifamily housing projects under the jurisdiction of the Department of Housing and Urban Development that meet the requirements of the Secretary for such approvals.
+In general.—The Secretary of Housing and Urban Development (in this section referred to as the 'Secretary') shall, not later than the expiration of the 6-month period beginning upon after \[sic\] the date of the enactment of this Act \[July 30, 2008\], implement administrative and procedural changes to expedite approval of multifamily housing projects under the jurisdiction of the Department of Housing and Urban Development that meet the requirements of the Secretary for such approvals.
 
 &emsp;"(2)
 

@@ -86,13 +86,13 @@ Nothing in this chapter modifies the authority of Federal, State, or local gover
 
 &emsp;&emsp;&emsp;(i) the land meets the criteria set forth in section 2(b) <sup>1</sup> and is acquired in the period beginning 3 years before the date of the submission of the grant application and ending 3 years after the date of the award of the grant;
 
-&emsp;&emsp;&emsp;(ii) the value of the land or easement is held by a non-governmental organizationincluded in the grant application in perpetuity for conservation purposes of the program; and
+&emsp;&emsp;&emsp;(ii) the value of the land or easement is held by a non-governmental organization included in the grant application in perpetuity for conservation purposes of the program; and
 
 &emsp;&emsp;&emsp;(iii) the land or easement is connected either physically or through a conservation planning process to the land or easement that would be acquired.
 
 &emsp;&emsp;(B) The appraised value of the land or conservation easement at the time of the grant closing will be considered and applied as the non-Federal cost share.
 
-&emsp;&emsp;(C) Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non-Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in <sup>2</sup> (A), within the same time limits described therein. These costs may include either cash or in-kind contributions.
+&emsp;&emsp;(C) Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non-Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in <sup>2</sup> (A), within the same time limits described therein. Thesecosts may include either cash or in-kind contributions.
 
 #### (g) Reservation of funds for National Estuarine Research Reserve sites
 

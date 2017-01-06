@@ -76,7 +76,7 @@ In general.—The Secretary of the Treasury may impose a civil money penalty of 
 
 &emsp;(B)
 
-Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+Pattern of negligent activity.—If any financial institution or nonfinancial trade orbusiness engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
 (7)
 

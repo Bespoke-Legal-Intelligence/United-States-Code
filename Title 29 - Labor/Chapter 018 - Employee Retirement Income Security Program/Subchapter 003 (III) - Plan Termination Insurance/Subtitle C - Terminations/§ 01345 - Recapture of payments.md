@@ -2,17 +2,17 @@
 
 #### (a) Authorization to recover benefits
 
-Except as provided in subsection (c) of this section, the trustee is authorized to recover for the benefit of a plan from a participant the recoverable amount (as defined in subsection (b) of this section) of all payments from the plan to him which commenced within the 3-year period immediately preceding the time the plan is terminated.
+Except as provided in subsection (c), the trustee is authorized to recover for the benefit of a plan from a participant the recoverable amount (as defined in subsection (b)) of all payments from the plan to him which commenced within the 3-year period immediately preceding the time the plan is terminated.
 
 #### (b) Recoverable amount
 
-For purposes of subsection (a) of this section the recoverable amount is the excess of the amount determined under paragraph (1) over the amount determined under paragraph (2).
+For purposes of subsection (a) the recoverable amount is the excess of the amount determined under paragraph (1) over the amount determined under paragraph (2).
 
 &emsp;(1) The amount determined under this paragraph is the sum of the amount of the actual payments received by the participant within the 3-year period.
 
 &emsp;(2) The amount determined under this paragraph is the sum of—
 
-&emsp;&emsp;(A) the sum of the amount such participant would have received during each consecutive 12-month period within the 3 yearsif the participant received the benefit in the form described in paragraph (3),
+&emsp;&emsp;(A) the sum of the amount such participant would have received during each consecutive 12-month period within the 3 years if the participant received the benefit in the form described in paragraph (3),
 
 &emsp;&emsp;(B) the sum for each of the consecutive 12-month periods of the lesser of—
 
@@ -26,7 +26,7 @@ For purposes of subsection (a) of this section the recoverable amount is the exc
 
 #### (c) Payments made on or after death or disability of participant; waiver of recovery in case of hardship
 
-(1) In the event of a distribution described in section 1343(b)(7) <sup>1</sup> of this title the 3-year period referred to in subsection (b) of this section shall not end sooner than the date on which the corporation is notified of the distribution.
+(1) In the event of a distribution described in section 1343(b)(7) <sup>1</sup> of this title the 3-year period referred to in subsection (b) shall not end sooner than the date on which the corporation is notified of the distribution.
 
 (2) The trustee shall not recover any payment made from a plan after or on account of the death of a participant, or to a participant who is disabled (within the meaning of section 72(m)(7) of title 26).
 

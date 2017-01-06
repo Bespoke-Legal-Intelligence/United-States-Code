@@ -8,7 +8,7 @@ For the purpose of preventing the excessive use of credit for the purchase or ca
 
 &emsp;(2) 100 per centum of the lowest market price of the security during the preceding thirty-six calendar months, but not more than 75 per centum of the current market price.
 
-> Such rules and regulations may make appropriate provision with respect to the carrying of undermargined accounts for limited periods andunder specified conditions; the withdrawal of funds or securities; the substitution or additional purchases of securities; the transfer of accounts from one lender to another; special or different margin requirements for delayed deliveries, short sales, arbitrage transactions, and securities to which paragraph (2) of this subsection does not apply; the bases and the methods to be used in calculating loans, and margins and market prices; and similar administrative adjustments and details. For the purposes of paragraph (2) of this subsection, until July 1, 1936, the lowest price at which a security has sold on or after July 1, 1933, shall be considered as the lowest price at which such security has sold during the preceding thirty-six calendar months.
+> Such rules and regulations may make appropriate provision with respect to the carrying of undermargined accounts for limited periods and under specified conditions; the withdrawal of funds or securities; the substitution or additional purchases of securities; the transfer of accounts from one lender to another; special or different margin requirements for delayed deliveries, short sales, arbitrage transactions, and securities to which paragraph (2) of this subsection does not apply; the bases and the methods to be used in calculating loans, and margins and market prices; and similar administrative adjustments and details. For the purposes of paragraph (2) of this subsection, until July 1, 1936, the lowest price at which a security has sold on or after July 1, 1933, shall be considered as the lowest price at which such security has sold during the preceding thirty-six calendar months.
 
 #### (b) Lower and higher margin requirements
 
@@ -32,7 +32,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (A) Compliance with margin rules required
 
-&emsp;&emsp;It shall be unlawful for any broker, dealer, or member of a national securities exchange to, directly or indirectly, extend or maintain credit to or for, or collect margin from any customer on, any security futures product unless such activities comply with the regulations—
+&emsp;&emsp;It shall be unlawful for any broker, dealer, or member of a national securities exchangeto, directly or indirectly, extend or maintain credit to or for, or collect margin from any customer on, any security futures product unless such activities comply with the regulations—
 
 &emsp;&emsp;&emsp;(i) which the Board shall prescribe pursuant to subparagraph (B); or
 
@@ -60,7 +60,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (3) Exception
 
-&emsp;This subsection and the rules and regulations issued under this subsection shall notapply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for a member of a national securities exchange or a registered broker or dealer—
+&emsp;This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for a member of a national securities exchange or a registered broker or dealer—
 
 &emsp;&emsp;(A) a substantial portion of whose business consists of transactions with persons other than brokers or dealers; or
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Amendment by Pub. L. 91–508 effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in section 401(c) of Pub. L. 91–508, see section 401(a) of Pub. L. 91–508, set out as a note under section 1951 of Title 12, Banks and Banking.
 
-Pub. L. 91–508, title IV, §401(c), Oct. 26, 1970, 84 Stat. 1125, provided that: "The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenthcalendar month which begins after the date of enactment \[Oct. 26, 1970\]."
+Pub. L. 91–508, title IV, §401(c), Oct. 26, 1970, 84 Stat. 1125, provided that: "The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\]."
 
 #### Validity of Rules and Regulations
 

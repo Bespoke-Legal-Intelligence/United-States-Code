@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(B) identify specific requirements for the range of linguistic skills necessary for the intelligence community, including proficiency in scientific and technical vocabularies of critical foreign languages; and
 
-&emsp;(C) develop a comprehensive plan for the Office to meet such requirements through the education, recruitment, and training of linguists.
+&emsp;(C) develop a comprehensive plan for the Office to meet such requirements through theeducation, recruitment, and training of linguists.
 
 (2) In carrying out activities under paragraph (1), the Director shall take into account education grant programs of the Department of Defense and the Department of Education that are in existence as of December 17, 2004.
 
@@ -54,5 +54,5 @@ Pub. L. 109–364, div. A, title IX, §944(a)(1), Oct. 17, 2006, 120 Stat. 2366,
 
 Pub. L. 109–163, div. A, title XI, §1124, Jan. 6, 2006, 119 Stat. 3454, authorized Secretary of Defense to support implementation of Civilian Linguist Reserve Corps pilot project authorized by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 \[Pub. L. 108–487, formerly set out as a note below\], subject to availability of appropriated funds.
 
-Pub. L. 108–487, title VI, §613, Dec. 23, 2004, 118 Stat. 3959, as amended by Pub. L. 109–364, div. A, title IX,§944(a)(2), (b)–(e), Oct. 17, 2006, 120 Stat. 2366, provided that Secretary of Defense, in coordination with Director of National Intelligence, shall conduct five-year pilot project to assess feasibility and advisability of establishing Civilian Linguist Reserve Corps comprised of United States citizens with advanced levels of proficiency in foreign languages who would be available upon the call of the Secretary to perform such service or duties with respect to such foreign languages in the intelligence community as the Secretary may specify and provided that the Secretary shall submit final report on project to Congress six months after completion of project.
+Pub. L. 108–487, title VI, §613, Dec. 23, 2004, 118 Stat. 3959, as amended by Pub. L. 109–364, div. A, title IX, §944(a)(2), (b)–(e), Oct. 17, 2006, 120 Stat. 2366, provided that Secretary of Defense, in coordination with Director of National Intelligence, shall conduct five-year pilot project to assess feasibility and advisability of establishing Civilian Linguist Reserve Corps comprised of United States citizens with advanced levels of proficiency in foreign languages who would be available upon the call of the Secretary to perform such service or duties with respect to such foreign languages in the intelligence community as the Secretary may specify and provided that the Secretary shall submit final report on project to Congress six months after completion of project.
 

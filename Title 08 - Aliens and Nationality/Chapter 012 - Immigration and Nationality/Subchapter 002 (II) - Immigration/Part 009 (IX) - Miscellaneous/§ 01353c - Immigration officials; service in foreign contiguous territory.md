@@ -6,7 +6,7 @@ Nothing in section 209 of title 18 relative to augmenting salaries of Government
 
 #### Codification
 
-"Section 209 of title 18" substituted in text for "section 1914 of title 18" on authority of section 2 of Pub. L. 87–849, Oct. 23, 1962, 76 Stat. 1126, which repealed section 1914 and supplanted it with section 209, and which provided that exemptions from section 1914 shall be deemed exemptions from section 209. For further details, see Exemptions note set out under section 203 of Title 18, Crimes and Criminal Procedure.
+"Section 209 of title 18" substituted in text for "section 1914 of title 18" on authority of section 2 of Pub. L. 87–849, Oct. 23, 1962, 76 Stat. 1126, which repealed section 1914 and supplanted it with section 209, and which provided that exemptions from section 1914 shall bedeemed exemptions from section 209. For further details, see Exemptions note set out under section 203 of Title 18, Crimes and Criminal Procedure.
 
 Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
 

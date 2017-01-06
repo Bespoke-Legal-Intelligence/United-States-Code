@@ -258,6 +258,10 @@ Pub. L. 97–35, title XIX, §1918, Aug. 13, 1981, 95 Stat. 781, provided that: 
 
 Pub. L. 96–302, title V, §507, July 2, 1980, 94 Stat. 854, provided that: "This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980."
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–125, title V, §501, Feb. 24, 2016, 130 Stat. 172, provided that: "This title \[enacting sections 4721a and 4728a of this title, amending sections 634c, 649, and 4727 of this title, and enacting provisions set out as a note under section 4727 of this title\] may be cited as the 'Small Business Trade Enhancement Act of 2015' or the 'State Trade Coordination Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–88, §1(a), Nov. 25, 2015, 129 Stat. 686, provided that: "This Act \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as notes under this section and sections 636 and 657l of this title\] may be cited as the 'Recovery Improvements for Small Entities After Disaster Act of 2015' or the 'RISE After Disaster Act of 2015'." \[For identical short title, see below.\]
@@ -292,7 +296,7 @@ Pub. L. 110–186, §1, Feb. 14, 2008, 122 Stat. 623, provided that: "This Act \
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amendingsection 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
+Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C\(§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
 
 #### Short Title of 2004 Amendment
 

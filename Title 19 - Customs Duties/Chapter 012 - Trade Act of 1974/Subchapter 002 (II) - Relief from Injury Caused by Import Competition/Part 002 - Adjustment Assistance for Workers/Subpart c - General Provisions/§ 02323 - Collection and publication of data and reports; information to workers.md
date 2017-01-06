@@ -58,7 +58,7 @@ The system required under subsection (a) shall include collection of and reporti
 
 &emsp;(B) A summary of the data on workers in the annual reports required under section 2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
 
-&emsp;(C) The median earnings of workers described in section 2311(j)(2)(A)(i)(III) of this title during the second calendar quarter after exit from the program, expressed as a percentage of the median earnings of such workers before the calendar quarter in which such workers began receiving benefits under this part.
+&emsp;(C) The median earnings of workers described in section 2311(j)(2)(A)(i)(III) of thistitle during the second calendar quarter after exit from the program, expressed as a percentage of the median earnings of such workers before the calendar quarter in which such workers began receiving benefits under this part.
 
 &emsp;(D) The sectors in which workers are employed after receiving benefits under this part.
 

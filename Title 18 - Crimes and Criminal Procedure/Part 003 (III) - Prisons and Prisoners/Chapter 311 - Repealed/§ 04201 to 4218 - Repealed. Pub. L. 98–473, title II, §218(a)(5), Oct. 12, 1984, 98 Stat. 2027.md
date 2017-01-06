@@ -34,7 +34,7 @@ Pub. L. 107–273, div. C, title I, §11017, Nov. 2, 2002, 116 Stat. 1824, provi
 
 "(a)
 
-Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'fifteen years' or 'fifteen-year period' shall be deemed to be a reference to 'eighteen years' or 'eighteen-year period', respectively.
+Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'fifteen years' or 'fifteen-year period' shall be deemed to be a reference to 'eighteen years' or 'eighteen-year period', respectively.
 
 "(b)
 
@@ -252,7 +252,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4208. Parole determination proceeding; time
 
-(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a paroledetermination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
+(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
 (b) At least thirty days prior to any parole determination proceeding, the prisoner shall be provided with (1) written notice of the time and place of the proceeding, and (2) reasonable access to a report or other document to be used by the Commission in making its determination. A prisoner may waive such notice, except that if notice is not waived the proceeding shall be held during the next regularly scheduled proceedings by the Commission at the institution in which the prisoner is confined.
 
@@ -334,7 +334,7 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (a) A parolee shall remain in the legal custody and under the control of the Attorney General, until the expiration of the maximum term or terms for which such parolee was sentenced.
 
-(b) Except as otherwise provided in this section, the jurisdiction of the Commission over the parolee shall terminate no later than the date of the expiration of the maximum term or terms for which he was sentenced, except that—
+(b) Except as otherwise provided in this section, the jurisdiction of the Commission over the parolee shallterminate no later than the date of the expiration of the maximum term or terms for which he was sentenced, except that—
 
 &emsp;(1) such jurisdiction shall terminate at an earlier date to the extent provided under section 4164 (relating to mandatory release) or section 4211 (relating to early termination of parole supervision), and
 

@@ -80,7 +80,7 @@ Subsec. (d)(3)(B). Pub. L. 106–117, §204(e)(5), inserted "and the amount expe
 
 Subsec. (d)(4). Pub. L. 106–117, §204(e)(6), added par. (4).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–262, §343(c), substituted "A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit" for "The corporationshall obtain a report of independent auditors concerning the receipts and expenditures of funds by the corporation during that year and shall include that report".
+<b>1996</b>—Subsec. (b). Pub. L. 104–262, §343(c), substituted "A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit" for "The corporation shall obtain a report of independent auditors concerning the receipts and expenditures of funds by the corporation during that year and shall include that report".
 
 Subsec. (c)(2). Pub. L. 104–262, §343(d), substituted "a statement signed by the executive director of the corporation certifying that each director and" for "an annual statement signed by the director or employee certifying that the director or".
 

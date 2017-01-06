@@ -20,9 +20,9 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(iii) No special allowance may be paid under this subparagraph unless the issuer of such obligations complies with subsection (d) of this section.
 
-&emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, or interest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
+&emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, orinterest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
 
-&emsp;(v) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance shall be the rate determined under subparagraph\(A), (E), (F), (G), (H), or (I) of this paragraph, or paragraph (4), as the case may be, for a holder of loans that—
+&emsp;(v) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance shall be the rate determined under subparagraph (A), (E), (F), (G), (H), or (I) of this paragraph, or paragraph (4), as the case may be, for a holder of loans that—
 
 &emsp;&emsp;(I) were made or purchased with funds—
 
@@ -242,7 +242,7 @@ Calculation based on LIBOR.—For the calendar quarter beginning on April 1, 201
 
 &emsp;&emsp;&emsp;(II)
 
-Loans eligible for LIBOR-based calculation.—The special allowance paid pursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement ismade on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
+Loans eligible for LIBOR-based calculation.—The special allowance paidpursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -292,7 +292,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (6) Regulation of time and manner of payment
 
-&emsp;The Secretary shall pay the holder of an eligible loan, at such time or times as are specified in regulations, a special allowance prescribed pursuant to this subsection subject to the condition that such holder shall submit to the Secretary, at such time or times and in such a manner as the Secretary may deemproper, such information as may be required by regulation for the purpose of enabling the Secretary to carry out his functions under this section and to carry out the purposes of this section.
+&emsp;The Secretary shall pay the holder of an eligible loan, at such time or times as are specified in regulations, a special allowance prescribed pursuant to this subsection subject to the condition that such holder shall submit to the Secretary, at such time or times and in such a manner as the Secretary may deem proper, such information as may be required by regulation for the purpose of enabling the Secretary to carry out his functions under this section and to carry out the purposes of this section.
 
 #### (7) Use of average quarterly balance
 
@@ -302,7 +302,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (1) Deduction from interest and special allowance subsidies
 
-&emsp;(A) Notwithstanding subsection (b) of this section, the Secretary shall collect the amount the lender is authorized to charge as an origination fee in accordance with paragraph (2) of this subsection—
+&emsp;(A) Notwithstanding subsection (b), the Secretary shall collect the amount the lender is authorized to charge as an origination fee in accordance with paragraph (2) of this subsection—
 
 &emsp;&emsp;(i) by reducing the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder; or
 
@@ -358,9 +358,9 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (b) of this section, the Secretary shall collect a loan fee in an amount determined in accordance with paragraph (2)—
+&emsp;&emsp;Notwithstanding subsection (b), the Secretary shall collect a loan fee in an amount determined in accordance with paragraph (2)—
 
-&emsp;&emsp;&emsp;(i) by reducing the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder of a loan; or
+&emsp;&emsp;&emsp;(i) by reducing the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b), respectively, to any holder of a loan; or
 
 &emsp;&emsp;&emsp;(ii) directly from the holder of the loan, if the lender—
 
@@ -370,7 +370,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (B) Special rule
 
-&emsp;&emsp;If the Secretary collects loan fees under this subsection through the reduction of interest and special allowance payments, and the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount of such loan fees, then the Secretary shall deduct the amount of the loan fee balance from the amount of interest and special allowance payments that would otherwise be payable, in subsequent quarterly increments until the balance has been deducted.
+&emsp;&emsp;If the Secretary collects loan fees under this subsection through the reduction of interest and special allowance payments, and the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b), respectively, is less than the amount of such loan fees, then the Secretary shall deduct the amount of the loan fee balance from the amount of interest and special allowance payments that would otherwise be payable, in subsequent quarterly increments until the balance has been deducted.
 
 #### (2) Amount of loan fees
 
@@ -386,7 +386,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (e) Nondiscrimination
 
-In order for the holders of loans which were made or purchased with funds obtained by the holder from an Authority issuing obligations, the income from which is exempt from taxation under title 26, to be eligible to receive a special allowance under subsection (b)(2) of this section on any such loans, the Authority shall not engage in any pattern or practice which results in a denial of a borrower's access to loans under this part because of the borrower's race, sex, color, religion, national origin, age, disability status, income, attendance at a particular eligible institution within the area served by the Authority, length of the borrower's educational program, or the borrower's academic year in school.
+In order for the holders of loans which were made or purchased with funds obtained by the holder from an Authority issuing obligations, the income from which is exempt from taxation under title 26, to be eligible to receive a special allowance under subsection (b)(2) on any such loans, the Authority shall not engage in any pattern or practice which results in a denial of a borrower's access to loans under this part because of the borrower's race, sex, color, religion, national origin, age, disability status, income, attendance at a particular eligible institution within the area served by the Authority, length of the borrower's educational program, or the borrower's academic year in school.
 
 #### (f) Regulations to prevent denial of loans to eligible students
 

@@ -40,7 +40,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;&emsp;If a State has failed to meet the requirements, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) make any funds reserved for the State available by direct reallocation among applications submitted by units of general local government within the State or consortia that include units of general local government within the State, insofar asapprovable applications meeting the selection criteria under section 12747(c) of this title are received within 12 months after the funds become available for the direct reallocation, and
+&emsp;&emsp;&emsp;(i) make any funds reserved for the State available by direct reallocation among applications submitted by units of general local government within the State or consortia that include units of general local government within the State, insofar as approvable applications meeting the selection criteria under section 12747(c) of this title are received within 12 months after the funds become available for the direct reallocation, and
 
 &emsp;&emsp;&emsp;(ii) reallocate the remainder by formula in accordance with section 12747(b) of this title.
 

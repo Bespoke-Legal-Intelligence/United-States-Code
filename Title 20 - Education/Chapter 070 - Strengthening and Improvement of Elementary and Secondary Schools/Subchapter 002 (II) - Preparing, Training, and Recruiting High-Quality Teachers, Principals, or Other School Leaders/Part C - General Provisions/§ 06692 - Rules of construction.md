@@ -26,7 +26,7 @@ Another prior section 2302 of Pub. L. 89–10 was classified to section 6672 of 
 
 Prior sections 6701, 6702, 6711 to 6716, 6721, and 6722 were repealed by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-Section 6701, Pub. L. 89–10, title II, §2331, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1660, set forth purposes of subpart 2 of part C of former subchapter II of this chapter.
+Section 6701, Pub. L. 89–10, title II, §2331, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1660,set forth purposes of subpart 2 of part C of former subchapter II of this chapter.
 
 Another prior section 6701, Pub. L. 89–10, title II, §2401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, related to reporting and accountability, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

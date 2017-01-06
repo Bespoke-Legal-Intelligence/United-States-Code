@@ -54,5 +54,7 @@ Potential Trade Agreements Report.—Not later than 1 year after the date of the
 
 Termination.—The reporting requirements of this section shall cease to have any force or effect after September 30, 2025."
 
+\[Functions of President under section 110(a) of Pub. L. 114–27, set out above, assigned to United States Trade Representative, in consultation with Secretary of State, see Ex. Ord. No. 13720, §1(d), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.\]
+
 \[For definitions of "beneficiary sub-Saharan African country" and "sub-Saharan African country" as used in section 110 of Pub. L. 114–27, set out above, see section 112 of Pub. L. 114–27, set out as a note under section 3701 of this title.\]
 

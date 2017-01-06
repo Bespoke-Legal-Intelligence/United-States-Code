@@ -74,7 +74,7 @@ The functions of the CAN are to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each member shall be appointed to serve a 4-year term, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which themember's predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;&emsp;&emsp;Each member shall be appointed to serve a 4-year term, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (ii) Consecutive appointments; maximum terms
 
@@ -120,7 +120,7 @@ The functions of the CAN are to—
 
 &emsp;&emsp;&emsp;(i) a representative of the National Institutes of Health, recommended by the Secretary of the Department of Health and Human Services;
 
-&emsp;&emsp;&emsp;(ii) a representative of the Office of the Assistant Secretary of Defense for Health Affairs, recommended by the Secretary of Defense;
+&emsp;&emsp;&emsp;(ii) a representative of the Office of the Assistant Secretary of Defense for HealthAffairs, recommended by the Secretary of Defense;
 
 &emsp;&emsp;&emsp;(iii) a representative of the Office of the Under Secretary for Health for the Veterans Health Administration, recommended by the Secretary of Veterans Affairs;
 
@@ -248,7 +248,7 @@ The functions of the CAN are to—
 
 #### (C) The cures acceleration flexible research awards
 
-&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this sectioncannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
+&emsp;&emsp;If the Director of the Center determines that the goals and objectives of this section cannot adequately be carried out through a contract, grant, or cooperative agreement, the Director of the Center shall have flexible research authority to use other transactions to fund projects in accordance with the terms and conditions of this section. Awards made under such flexible research authority for a fiscal year shall not exceed 20 percent of the total funds appropriated under subsection (g)(1) for such fiscal year.
 
 #### (4) Suspension of awards for defaults, noncompliance with provisions and plans, and diversion of funds; repayment of funds
 

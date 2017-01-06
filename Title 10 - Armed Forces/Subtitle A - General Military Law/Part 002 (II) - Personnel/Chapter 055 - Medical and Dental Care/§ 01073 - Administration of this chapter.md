@@ -2,7 +2,7 @@
 
 (a)
 
-Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, theSecretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
+Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
 
 (2) Except as otherwise provided in this chapter, the Secretary of Defense shall have responsibility for administering the TRICARE program and making any decision affecting such program.
 
@@ -75,6 +75,156 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Repeals
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### Termination of TRICARE Standard and TRICARE Extra
+
+Pub. L. 114–328, div. A, title VII, §701(e), Dec. 23, 2016, 130 Stat. 2187, provided that: "Beginning on January 1, 2018, the Secretary of Defense may not carry out TRICARE Standard and TRICARE Extra under the TRICARE program. The Secretary shall ensure that any individual who is covered under TRICARE Standard or TRICARE Extra as of December 31, 2017, enrolls in TRICARE Prime or TRICARE Select, as the case may be, as of January 1, 2018, for the individual to continue coverage under the TRICARE program."
+
+\[For definitions of terms used in section 701(e) of Pub. L. 114–328, set out above, see section 703(i) of Pub. L. 114–328, set out as a note below.\]
+
+#### Pilot Program on Incorporation of Value-based Health Care in Purchased Care Component of TRICARE Program
+
+Pub. L. 114–328, div. A, title VII, §701(h), Dec. 23, 2016, 130 Stat. 2188, provided that:
+
+"(1)
+
+In general.—Not later than January 1, 2018, the Secretary of Defense shall carry out a pilot program to demonstrate and assess the feasibility of incorporating value-based health care methodology in the purchased care component of the TRICARE program by reducing copayments or cost shares for targeted populations of covered beneficiaries in the receipt of high-value medications and services and the use of high-value providers under such purchased care component, including by exempting certain services from deductible requirements.
+
+"(2)
+
+Requirements.—In carrying out the pilot program under paragraph (1), the Secretary shall—
+
+&emsp;"(A) identify each high-value medication and service that is covered under the purchased care component of the TRICARE program for which a reduction or elimination of the copayment or cost share for such medication or service would encourage covered beneficiaries to use the medication or service;
+
+&emsp;"(B) reduce or eliminate copayments or cost shares for covered beneficiaries to receive high-value medications and services;
+
+&emsp;"(C) reduce or eliminate copayments or cost shares for covered beneficiaries to receive health care services from high-value providers;
+
+&emsp;"(D) credit the amount of any reduction or elimination of a copayment or cost share under subparagraph (B) or (C) for a covered beneficiary towards meeting a deductible applicable to the covered beneficiary in the purchased care component of the TRICARE program to the same extent as if such reduction or elimination had not applied; and
+
+&emsp;"(E) develop a process to reimburse high-value providers at rates higher than those rates for health care providers that are not high-value providers.
+
+"(3)
+
+Report on value-based health care methodology.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes the following:
+
+&emsp;"(A) A list of each high-value medication and service identified under paragraph (2)(A) for which the copayment or cost share amount will be reduced or eliminated under the pilot program to encourage covered beneficiaries to use such medications and services through the purchased care component of the TRICARE program.
+
+&emsp;"(B) For each high-value medication and service identified under paragraph (2)(A), the amount of the copayment or cost share required under the purchased care component of the TRICARE program and the amount of any reduction or elimination of such copayment or cost share pursuant to the pilot program.
+
+&emsp;"(C) A description of a plan to identify and communicate to covered beneficiaries, through multiple communication media—
+
+&emsp;&emsp;"(i) the list of high-value medications and services described in subparagraph (A); and
+
+&emsp;&emsp;"(ii) a list of high-value providers.
+
+&emsp;"(D) A description of modifications, if any, to existing health care contracts that may be required to implement value-based health care methodology in the purchased care component of the TRICARE program under the pilot program and the estimated costs of those contract modifications.
+
+"(4)
+
+Comptroller general preliminary review and assessment.—
+
+&emsp;"(A) Not later than March 1, 2021, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a review and assessment of the preliminary results of the pilot program.
+
+&emsp;"(B) The review and assessment required under subparagraph (A) shall include the following:
+
+&emsp;&emsp;"(i) An assessment of the extent of the use of value-based health care methodology in the purchased care component of the TRICARE program under the pilot program.
+
+&emsp;&emsp;"(ii) An analysis demonstrating how reducing or eliminating the copayment or cost share for each high-value medication and service identified under paragraph (2)(A) resulted in—
+
+&emsp;&emsp;&emsp;"(I) increased adherence to medication regimens;
+
+&emsp;&emsp;&emsp;"(II) improvement of quality measures;
+
+&emsp;&emsp;&emsp;"(III) improvement of health outcomes;
+
+&emsp;&emsp;&emsp;"(IV) reduction of number of emergency room visits or hospitalizations; and
+
+&emsp;&emsp;&emsp;"(V) enhancement of experience of care for covered beneficiaries.
+
+&emsp;&emsp;"(iii) Such recommendations for incentivizing the use of high-value medications and services to improve health outcomes and the experience of care for beneficiaries as the Comptroller General considers appropriate.
+
+"(5)
+
+Review and assessment of pilot program.—
+
+&emsp;"(A) Not later than January 1, 2023, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a review and assessment of the pilot program.
+
+&emsp;"(B) The review and assessment required under subparagraph (A) shall include the following:
+
+&emsp;&emsp;"(i) An assessment of the extent of the use of value-based health care methodology in the purchased care component of the TRICARE program under the pilot program.
+
+&emsp;&emsp;"(ii) An analysis demonstrating how reducing or eliminating the copayment or cost share for each high-value medication and service identified under paragraph (2)(A) resulted in—
+
+&emsp;&emsp;&emsp;"(I) increased adherence to medication regimens;
+
+&emsp;&emsp;&emsp;"(II) improvement of quality measures;
+
+&emsp;&emsp;&emsp;"(III) improvement of health outcomes; and
+
+&emsp;&emsp;&emsp;"(IV) enhancement of experience of care for covered beneficiaries.
+
+&emsp;&emsp;"(iii) A cost-benefit analysis of the implementation of value-based health care methodology in the purchased care component of the TRICARE program under the pilot program.
+
+&emsp;&emsp;"(iv) Such recommendations for incentivizing the use of high-value medications and services to improve health outcomes and the experience of care for covered beneficiaries as the Secretary considers appropriate.
+
+"(6)
+
+Termination.—The Secretary may not carry out the pilot program after December 31, 2022."
+
+\[For definitions of terms used in section 701(h) of Pub. L. 114–328, set out above, see section 703(i) of Pub. L. 114–328, set out as a note below.\]
+
+#### Improvement of Health Outcomes and Control of Costs of Health Care Under TRICARE Program Through Programs To Involve Covered Beneficiaries
+
+Pub. L. 114–328, div. A, title VII, §729, Dec. 23, 2016, 130 Stat. 2234, provided that:
+
+"(a)
+
+Medical Intervention Incentive Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall establish a program to incentivize covered beneficiaries to participate in medical intervention programs established by the Secretary, such as comprehensive disease management programs, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost-share amounts for health care services during a particular year for covered beneficiaries with chronic diseases or conditions described in paragraph (2) who met participation milestones, as determined by the Secretary, in the previous year in such medical intervention programs.
+
+&emsp;"(2)
+
+Chronic diseases or conditions described.—Chronic diseases or conditions described in this paragraph may include diabetes, chronic obstructive pulmonary disease, asthma, congestive heart failure, hypertension, history of stroke, coronary artery disease, mood disorders, obesity, and such other diseases or conditions as the Secretary determines appropriate.
+
+"(b)
+
+Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, such as smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
+
+"(c)
+
+Healthy Lifestyle Maintenance Incentive Program.—The Secretary shall establish a program to incentivize the maintenance of a healthy lifestyle among covered beneficiaries, such as exercise and weight maintenance, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost-share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to the maintenance of a healthy lifestyle, such as maintaining smoking cessation or maintaining a normal body mass index.
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than January 1, 2020, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the programs established under subsections (a), (b), and (c).
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A detailed description of the programs implemented under subsections (a), (b), and (c).
+
+&emsp;&emsp;"(B) An assessment of the impact of such programs on—
+
+&emsp;&emsp;&emsp;"(i) improving health outcomes for covered beneficiaries; and
+
+&emsp;&emsp;&emsp;"(ii) lowering per capita health care costs for the Department of Defense.
+
+"(e)
+
+Regulations.—Not later than January 1, 2018, the Secretary shall prescribe an interim final rule to carry out this section.
+
+"(f)
+
+Definitions.—In this section, the terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code."
 
 #### Access to Health Care Under the TRICARE Program for Beneficiaries of TRICARE Prime
 
@@ -224,7 +374,7 @@ Availability of Information on Designation.—
 
 &emsp;"(1)
 
-Registry.—The Secretary of Defense shall establish and update as necessary a publically availableregistry of all non-Department mental health care providers that are currently designated under subsection (a)(1).
+Registry.—The Secretary of Defense shall establish and update as necessary a publically available registry of all non-Department mental health care providers that are currently designated under subsection (a)(1).
 
 &emsp;"(2)
 
@@ -354,7 +504,7 @@ Annual Reports.—Not later than December 31 of each year an agreement entered i
 
 "(d)
 
-Rule of Construction.—Nothing in this section shall be construed as authorizing the provision ofhealth care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code."
+Rule of Construction.—Nothing in this section shall be construed as authorizing the provision of health care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code."
 
 #### Inpatient Mental Health Service
 
@@ -638,7 +788,7 @@ Pub. L. 109–163, div. A, title VII, §717, Jan. 6, 2006, 119 Stat. 3345, provi
 
 "(a)
 
-Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual may be selected to serve in the position of Regional Director under the TRICARE program unless the individual—
+Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual maybe selected to serve in the position of Regional Director under the TRICARE program unless the individual—
 
 &emsp;"(1) is—
 
@@ -782,7 +932,7 @@ Waiver Authority.—The Secretary may waive the prohibition in subsection (a) if
 
 &emsp;&emsp;"(C) determines that the lack of nonavailability statement data would significantly interfere with TRICARE contract administration;
 
-&emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care atthe military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
+&emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care at the military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
 
 &emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiver under this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
 
@@ -996,7 +1146,7 @@ Covered Sources.—The regulations shall apply to the following:
 
 &emsp;"(1) Pharmacies and any other dispensers of prescription medications in medical facilities of the uniformed services.
 
-&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by anyof the administering Secretaries under chapter 55 of title 10, United States Code.
+&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by any of the administering Secretaries under chapter 55 of title 10, United States Code.
 
 &emsp;"(3) Pharmacies paid under the Civilian Health and Medical Program of the Uniformed Services (including the TRICARE program).
 
@@ -1150,7 +1300,7 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in paragraph (2), if a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
 
-"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10, United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
+"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10,United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
 
 "(f)
 
@@ -1246,7 +1396,7 @@ Pub. L. 104–106, div. A, title VII, §716, Feb. 10, 1996, 110 Stat. 375, provi
 
 "(a)
 
-Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in needof mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
+Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in need of mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
 
 "(2) A child shall be eligible for selection to participate in the pilot program if the child is a dependent (as described in subparagraph (D) or (I) of section 1072(2) of title 10, United States Code) who—
 
@@ -1312,9 +1462,11 @@ Entity To Conduct Evaluation.—The Secretary may use a federally funded researc
 
 Annual Report.—Not later than March 1, 1997, and each March 1 thereafter, the Secretary shall submit to Congress a report describing the results of the evaluation under subsection (a) during the preceding year."
 
+\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 717(c) of Pub. L. 104–106, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+
 #### Use of Health Maintenance Organization Model as Option for Military Health Care
 
-Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, title VII, §715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, §714, Feb. 10, 1996, 110 Stat. 374, provided that:
+Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, titleVII, §715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, §714, Feb. 10, 1996, 110 Stat. 374, provided that:
 
 "(a)
 
@@ -1334,7 +1486,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1) The term 'covered beneficiary' means a beneficiary under chapter 55 of title 10, United States Code, other than a beneficiary under section 1074(a) of such title.
 
-&emsp;"(2) The term 'TRICARE program' means the managed health care program that is established by the Secretary of Defense under the authority of chapter55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
+&emsp;"(2) The term 'TRICARE program' means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
 "(e)
 
@@ -1380,7 +1532,7 @@ Definitions.—For purposes of this section:
 
 #### Alternative Health Care Delivery Methodologies
 
-Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure thecontinuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 
@@ -1450,7 +1602,7 @@ Treatment of Limitation on Funds for Program.—No provision of law stated as a 
 
 #### Extension of CHAMPUS Reform Initiative for Certain States
 
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: "That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate."
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: "That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographicexpansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate."
 
 #### Conditions on Expansion of CHAMPUS Reform Initiative
 
@@ -1585,4 +1737,20 @@ Definitions.—In this section:
 &emsp;"(2) The term 'Civilian Health and Medical Program of the Uniformed Services' has the meaning given such term in section 1072(4) of title 10, United States Code (as added by section 701(b)).
 
 &emsp;"(3) The term 'covered beneficiary' has the meaning given such term in section 1072(5) of title 10, United States Code (as added by section 701(b))."
+
+#### Definitions
+
+Pub. L. 114–328, div. A, title VII, §701(i), Dec. 23, 2016, 130 Stat. 2190, provided that: "In this section \[enacting sections 1075 and 1075a of this title, amending sections 1072, 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title, and enacting provisions set out as notes under this section and sections 1072 and 1099 of this title\]:
+
+&emsp;"(1) The terms 'uniformed services', 'covered beneficiary', 'TRICARE Extra', 'TRICARE for Life', 'TRICARE Prime', and 'TRICARE Standard', have the meaning given those terms in section 1072 of title 10, United States Code, as amended by subsection (j).
+
+&emsp;"(2) The term 'TRICARE Select' means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of such title, as added by subsection (a).
+
+&emsp;"(3) The term 'chronic conditions' includes diabetes, chronic obstructive pulmonary disease, asthma, congestive heart failure, hypertension, history of stroke, coronary artery disease, mood disorders, and such other diseases or conditions as the Secretary considers appropriate.
+
+&emsp;"(4) The term 'high-value medications and services' means prescription medications and clinical services for the management of chronic conditions that the Secretary determines would improve health outcomes and create health value for covered beneficiaries (such as preventive care, primary and specialty care, diagnostic tests, procedures, and durable medical equipment).
+
+&emsp;"(5) The term 'high-value provider' means an individual or institutional health care provider that provides health care under the purchased care component of the TRICARE program and that consistently improves the experience of care, meets established quality of care and effectiveness metrics, and reduces the per capita costs of health care.
+
+&emsp;"(6) The term 'value-based health care methodology' means a methodology for identifying specific prescription medications and clinical services provided under the TRICARE program for which reduction of copayments, cost shares, or both, would improve the management of specific chronic conditions because of the high value and clinical effectiveness of such medications and services for such chronic conditions."
 

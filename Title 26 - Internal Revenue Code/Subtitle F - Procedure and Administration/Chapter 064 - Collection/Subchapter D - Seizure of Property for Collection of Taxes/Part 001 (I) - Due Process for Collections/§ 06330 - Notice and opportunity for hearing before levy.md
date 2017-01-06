@@ -156,7 +156,7 @@ For purposes of subsection (f)—
 
 &emsp;A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-642, 2763A-643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565; Pub. L. 114–74, title XI, §1101(d), Nov. 2, 2015, 129 Stat. 637; Pub. L. 114–113, div. Q, title IV, §424(b)(1), Dec. 18, 2015, 129 Stat. 3124.)
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565; Pub. L. 114–74, title XI, §1101(d), Nov. 2, 2015, 129 Stat. 637; Pub. L. 114–113, div. Q, title IV, §424(b)(1), Dec. 18, 2015, 129 Stat. 3124.)
 
 #### Amendment of Subsection (c)(4)
 

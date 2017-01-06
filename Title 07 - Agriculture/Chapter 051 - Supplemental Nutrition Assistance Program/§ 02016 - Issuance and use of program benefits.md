@@ -172,7 +172,7 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 &emsp;(B) any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of households receiving supplemental nutrition assistance program benefits, as determined by the Secretary.
 
-(4) Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
+(4) Administrative costs incurred in connection with activities under this subsection shallbe eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
 
 (5) The Secretary shall periodically inform State agencies of the advantages of using electronic benefit systems to issue benefits in accordance with this subsection in lieu of issuing coupons to households.
 
@@ -336,7 +336,7 @@ Demonstration projects.—To be eligible to participate in a demonstration proje
 
 &emsp;&emsp;&emsp;(II) the manner by which the retail food store will provide proof of the transaction to households;
 
-&emsp;&emsp;&emsp;(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate theimpact of the demonstration on participant access, ease of use, and program integrity; and
+&emsp;&emsp;&emsp;(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
 
 &emsp;&emsp;&emsp;(IV) such other criteria as the Secretary may require.
 
@@ -380,7 +380,7 @@ Report to congress.—The Secretary shall—
 
 &emsp;To be eligible to issue benefits under this subsection, a State agency shall—
 
-&emsp;&emsp;(A) submit a plan to the Secretary that describes the conditions and procedures under which the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
+&emsp;&emsp;(A) submit a plan to the Secretary that describes the conditions and procedures underwhich the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
 
 &emsp;&emsp;(B) obtain the approval of the Secretary for the plan.
 
@@ -712,7 +712,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted "any" before "households".
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Change of Name
 
@@ -756,7 +756,7 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 #### Savings Clause
 
-Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: "Nothing in this section \[amendingthis section and section 2019 of this title\] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section."
+Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: "Nothing in this section \[amending this section and section 2019 of this title\] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section."
 
 #### Report on Electronic Benefit Transfer Systems
 
@@ -810,7 +810,7 @@ Report.—Not later than October 1, 2003, the Secretary of Agriculture shall sub
 
 #### Congressional Statement of Purpose
 
-Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "The purposes of this Act \[amending this section and enacting provisions set out as notes under this section and section 2011 of this title\] are—
+Pub. L. 106–171, §2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: "The purposes of this Act \[amending this section and enacting provisionsset out as notes under this section and section 2011 of this title\] are—
 
 &emsp;"(1) to protect the integrity of the supplemental nutrition assistance program;
 

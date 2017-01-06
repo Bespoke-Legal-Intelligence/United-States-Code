@@ -84,7 +84,7 @@ Allowable interest rate.—The term 'allowable interest rate' refers to the inte
 
 &emsp;"(2)
 
-Eligible loan.—The term 'eligible loan' means each loan made by lending institutions to each State trust fund, or to the State acting in conjunction with the State trust fund, to further the purposes of this chapter, and the proceeds from any issuance of obligations, or other bonded indebtedness, of any eligible State, the State trust fund, or any agency of an eligible State, except that no eligible loan shall bear an interest rate in excess of 10 percent per year.
+Eligible loan.—The term 'eligible loan' means each loan made by lending institutions to each State trust fund, or to the State acting in conjunction with the State trust fund, to further the purposes of this chapter, and the proceeds from any issuance of obligations, or other bonded indebtedness, of any eligibleState, the State trust fund, or any agency of an eligible State, except that no eligible loan shall bear an interest rate in excess of 10 percent per year.
 
 &emsp;"(3)
 
@@ -180,7 +180,7 @@ Regulations.—Except regarding the eligible State described in section 1465(c)(
 
 &emsp;"(5) requirements to prevent program abuse and procedures to recover improperly obtained funds;
 
-&emsp;"(6) rules permitting State trust funds to act as revolving funds or to otherwise accumulate additional capital, based on investments, to be subsequently used to promote the purposes of this chapter; and
+&emsp;"(6) rules permitting State trust funds to act as revolving funds or to otherwise accumulate additionalcapital, based on investments, to be subsequently used to promote the purposes of this chapter; and
 
 &emsp;"(7) any other rules necessary and appropriate to carry out the program.
 
@@ -204,7 +204,7 @@ In general.—Funds from eligible loans (including proceeds from the sale of bon
 
 &emsp;&emsp;"(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loan proceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
 
-&emsp;&emsp;"(E) to generate earnings (including through investments not exceeding 10 years in duration foreach eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
+&emsp;&emsp;"(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
 &emsp;"(2)
 

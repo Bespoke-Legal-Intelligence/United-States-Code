@@ -6,7 +6,7 @@ Within one year of December 22, 1987, the Secretary shall report to Congress on 
 
 #### (b) Impacts to be considered
 
-Potential impacts to be addressed in the report under this <sup>1</sup> subsection (a) of this section shall include impacts on—
+Potential impacts to be addressed in the report under this <sup>1</sup> subsection (a) shall include impacts on—
 
 &emsp;(1) education, including facilities and personnel for elementary and secondary schools, community colleges, vocational and technical schools and universities;
 

@@ -46,7 +46,7 @@ This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov
 
 #### Short Title
 
-Pub. L. 100–707, title II, §201, Nov. 23, 1988, 102 Stat. 4711, provided that: "This title \[enacting this section,amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16\] may be cited as the 'Great Lakes Planning Assistance Act of 1988'."
+Pub. L. 100–707, title II, §201, Nov. 23, 1988, 102 Stat. 4711, provided that: "This title \[enacting this section, amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16\] may be cited as the 'Great Lakes Planning Assistance Act of 1988'."
 
 #### Great Lakes Damage Assistance and Prevention; Damage Assistance Program
 

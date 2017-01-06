@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a request under section 360fff–1 of this title that is determined to be eligibleunder subsection (a) for further review under this section and section 360fff–3 of this title, the Secretary shall, in notifying the public under subsection (a)(1)(C) of such eligibility determination, post the eligibility determination on the Internet website of the Food and Drug Administration, invite the sponsor of such request and any other interested party to submit comments, and provide a period of not less than 45 calendar days for comments in support of or otherwise relating to a GRASE determination, including published and unpublished data and other information related to the safety and efficacy of such request.
+&emsp;In the case of a request under section 360fff–1 of this title that is determined to be eligible under subsection (a) for further review under this section and section 360fff–3 of this title, the Secretary shall, in notifying the public under subsection (a)(1)(C) of such eligibility determination, post the eligibility determination on the Internet website of the Food and Drug Administration, invite the sponsor of such request and any other interested party to submit comments, and provide a period of not less than 45 calendar days for comments in support of or otherwise relating to a GRASE determination, including published and unpublished data and other information related to the safety and efficacy of such request.
 
 #### (2) Filing determination
 

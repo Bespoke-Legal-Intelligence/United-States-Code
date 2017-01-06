@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, whenever marketing quotas are in eff
 
 &emsp;(2) the individual farm program acreage for the farm under section 107B(d)(3)(A) <sup>1</sup> of such Act.
 
-(Pub. L. 95–113, title X, §1001, Sept. 29, 1977, 91 Stat. 950; Pub. L. 95–279, title I, §101, May 15, 1978, 92 Stat. 240; Pub. L. 95–334, title V, §501(a), Aug. 4, 1978, 92 Stat. 434; Pub. L. 96–213, §6, Mar. 18, 1980, 94 Stat. 120; Pub. L. 97–98, title XI, §1106, Dec. 22, 1981, 95 Stat. 1265; Pub. L. 99–198, title X, §1014, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, §1141, Nov. 28, 1990, 104 Stat. 3515.)
+(Pub. L. 95–113, title X, §1001, Sept. 29, 1977, 91 Stat. 950; Pub. L. 95–279, title I, §101, May 15, 1978, 92 Stat. 240; Pub. L. 95–334, title V, §501(a), Aug. 4, 1978, 92 Stat. 434; Pub. L. 96–213, §6, Mar. 18, 1980, 94 Stat. 120; Pub. L. 97–98, title XI, §1106, Dec. 22, 1981, 95 Stat. 1265; Pub. L. 99–198, title X,§1014, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, §1141, Nov. 28, 1990, 104 Stat. 3515.)
 
 #### References in Text
 

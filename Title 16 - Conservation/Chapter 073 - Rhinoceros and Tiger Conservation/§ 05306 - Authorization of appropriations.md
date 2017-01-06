@@ -8,7 +8,7 @@ There is authorized to be appropriated to the Fund $10,000,000 for each of fisca
 
 Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 103–391, §10, formerly §7, Oct. 22, 1994, 108 Stat. 4097; renumbered §9 and amended Pub. L. 105–312, title IV, §§405(1), 407, Oct. 30, 1998, 112 Stat. 2960, 2961; renumbered §10 and amended Pub. L. 107–112, §§2–4, Jan. 8, 2002, 115 Stat. 2097; Pub. L. 110–132, §3(b), (c), Dec. 6, 2007, 121 Stat. 1360.)
+(Pub. L. 103–391, §10, formerly §7, Oct. 22, 1994, 108 Stat. 4097; renumbered §9 and amended Pub. L. 105–312, title IV, §§405(1), 407, Oct. 30, 1998, 112Stat. 2960, 2961; renumbered §10 and amended Pub. L. 107–112, §§2–4, Jan. 8, 2002, 115 Stat. 2097; Pub. L. 110–132, §3(b), (c), Dec. 6, 2007, 121 Stat. 1360.)
 
 #### Amendments
 

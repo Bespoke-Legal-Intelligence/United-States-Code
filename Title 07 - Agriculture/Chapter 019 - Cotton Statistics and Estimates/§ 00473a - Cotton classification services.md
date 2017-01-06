@@ -46,7 +46,7 @@ Funds described in subsection (d) may be invested—
 
 #### (f) Lease agreements
 
-Notwithstanding any other provision of law, the Secretary may enter into long-term lease agreements that exceed 5 years or may take title to property (including through purchase agreements) for the purpose of obtaining offices to be used for the classification of cotton in accordance with this chapter, if the Secretary determines that action would best effectuate the purposes of this chapter.
+Notwithstanding any other provision of law, the Secretary may enter into long-term lease agreements that exceed 5 years or may take title to property (including through purchaseagreements) for the purpose of obtaining offices to be used for the classification of cotton in accordance with this chapter, if the Secretary determines that action would best effectuate the purposes of this chapter.
 
 #### (g) Authorization of appropriations
 
@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 102–237, §120(b)(2), added cl. (7) and struck out former cl. (7). Text read as follows: "the Secretary shall announce the uniform classification fee and any surcharge for the crop not later than June 1 of the year in which the fee applies, except that for fiscal year 1987, such announcement shall be made as soon as practicable following enactment of this proviso."
 
-Pub. L. 102–237, §120(b)(1), added cls. (1) and (2) and struck out former cls. (1) and (2). Text read as follows: "(1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall be the uniform fee collected in the previous year, exclusive of adjustments to such fee made in the previous year under clauses (2), (3), and (4) of this proviso, and as may be adjusted by the percentage change in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which statistics are available; (2) the fee calculated in accordance with clause (1) for a crop year may be increased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year below thelevel of 12,500,000 running bales, or decreased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year above the level of 12,500,000 running bales;".
+Pub. L. 102–237, §120(b)(1), added cls. (1) and (2) and struck out former cls. (1) and (2). Text read as follows: "(1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall be the uniform fee collected in the previous year, exclusive of adjustments to such fee made in the previous year under clauses (2), (3), and (4) of this proviso, and as may be adjusted by the percentage change in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which statistics are available; (2) the fee calculated in accordance with clause (1) for a crop year may be increased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year below the level of 12,500,000 running bales, or decreased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year above the level of 12,500,000 running bales;".
 
 Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "Effective for the fiscal years ending September 30, 1987, September 30, 1988, September 30, 1989, September 30, 1990, September 30, 1991, and September 30, 1992, the Secretary of Agriculture shall make cotton classification services available to producers of cotton and shall provide for the collection of classification fees from participating producers, or agents who voluntarily agree to collect and remit the fees on behalf of producers."
 
@@ -98,7 +98,7 @@ That part of Pub. L. 100–108, §2, Aug. 20, 1987, 101 Stat. 728, which provide
 
 #### Effective and Termination Dates of 1984 Amendment
 
-That part of Pub. L. 98–403, \[§1\], Aug. 28, 1984, 98 Stat. 1479, which provided that the amendment made by Pub. L. 98–403 was effective for the period beginning Oct. 1, 1984, and ending Sept. 30, 1988, was repealed by Pub. L. 107–171, title X, §10801(b)(1), May 13, 2002, 116 Stat. 525.
+That part of Pub. L. 98–403, \[§1\], Aug. 28, 1984, 98 Stat. 1479, which provided that the amendment made by Pub.L. 98–403 was effective for the period beginning Oct. 1, 1984, and ending Sept. 30, 1988, was repealed by Pub. L. 107–171, title X, §10801(b)(1), May 13, 2002, 116 Stat. 525.
 
 #### Effective and Termination Dates of 1981 Amendment
 

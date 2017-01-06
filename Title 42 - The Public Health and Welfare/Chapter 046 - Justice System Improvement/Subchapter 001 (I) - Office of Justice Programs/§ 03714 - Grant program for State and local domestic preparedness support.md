@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Office for Domestic Preparedness of the Office of Justice Programs shall make a grant toeach State, which shall be used by the State, in conjunction with units of local government, to enhance the capability of State and local jurisdictions to prepare for and respond to terrorist acts including events of terrorism involving weapons of mass destruction and biological, nuclear, radiological, incendiary, chemical, and explosive devices.
+The Office for Domestic Preparedness of the Office of Justice Programs shall make a grant to each State, which shall be used by the State, in conjunction with units of local government, to enhance the capability of State and local jurisdictions to prepare for and respond to terrorist acts including events of terrorism involving weapons of mass destruction and biological, nuclear, radiological, incendiary, chemical, and explosive devices.
 
 #### (b) Use of grant amounts
 

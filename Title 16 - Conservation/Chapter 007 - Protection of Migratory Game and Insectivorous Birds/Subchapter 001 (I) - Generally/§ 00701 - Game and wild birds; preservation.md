@@ -64,7 +64,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (4) design migratory bird habitat and population conservation principles, measures, and practices, into agency plans and planning processes (natural resource, land management, and environmental quality planning, including, but not limited to, forest and rangeland planning, coastal management planning, watershed planning, etc.) as practicable, and coordinate with other agencies and nonfederal partners in planning efforts;
 
-(5) within established authorities and in conjunction with the adoption, amendment, or revision of agencymanagement plans and guidance, ensure that agency plans and actions promote programs and recommendations of comprehensive migratory bird planning efforts such as Partners-in-Flight, U.S. National Shorebird Plan, North American Waterfowl Management Plan, North American Colonial Waterbird Plan, and other planning efforts, as well as guidance from other sources, including the Food and Agricultural Organization's International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries;
+(5) within established authorities and in conjunction with the adoption, amendment, or revision of agency management plans and guidance, ensure that agency plans and actions promote programs and recommendations of comprehensive migratory bird planning efforts such as Partners-in-Flight, U.S. National Shorebird Plan, North American Waterfowl Management Plan, North American Colonial Waterbird Plan, and other planning efforts, as well as guidance from other sources, including the Food and Agricultural Organization's International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries;
 
 (6) ensure that environmental analyses of Federal actions required by the NEPA or other established environmental review processes evaluate the effects of actions and agency plans on migratory birds, with emphasis on species of concern;
 
@@ -80,7 +80,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (12) provide training and information to appropriate employees on methods and means of avoiding or minimizing the take of migratory birds and conserving and restoring migratory bird habitat;
 
-(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Department of State, as appropriate or relevant to the agency's authorities;
+(13) promote migratory bird conservation in international activities and with other countries and international partners, in consultation with the Departmentof State, as appropriate or relevant to the agency's authorities;
 
 (14) recognize and promote economic and recreational values of birds, as appropriate; and
 

@@ -42,7 +42,7 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 #### (1) Prohibition on payments
 
-&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receive price loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary.
+&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receiveprice loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary.
 
 #### (2) Exceptions
 
@@ -78,5 +78,5 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 113–79,Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 

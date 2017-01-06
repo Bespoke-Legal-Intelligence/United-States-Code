@@ -48,3 +48,7 @@ Subsecs. (c) to (e). Pub. L. 96–221, §309(a)(4), substituted "Board" for "Adm
 
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
+#### Effective Date
+
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
+

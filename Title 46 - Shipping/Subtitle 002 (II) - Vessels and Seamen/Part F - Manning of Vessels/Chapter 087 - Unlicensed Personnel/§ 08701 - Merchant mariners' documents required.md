@@ -28,7 +28,7 @@
 
 (d) A person (including an individual) violating this section is liable to the United States Government for a civil penalty of $500.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(A), July 17, 1984, 98 Stat. 449; Pub. L. 99–640, §11(c), Nov. 10, 1986, 100 Stat.3550; Pub. L. 104–324, title VII, §731, title XI, §1104(e), Oct. 19, 1996, 110 Stat. 3940, 3967; Pub. L. 107–295, title III, §324(b), Nov. 25, 2002, 116 Stat. 2104.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(A), July 17, 1984, 98 Stat. 449; Pub. L. 99–640, §11(c), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 104–324, title VII, §731, title XI, §1104(e), Oct. 19, 1996, 110 Stat. 3940, 3967; Pub. L. 107–295, title III, §324(b), Nov. 25, 2002, 116 Stat. 2104.)
 
 Historical and Revision Notes
 

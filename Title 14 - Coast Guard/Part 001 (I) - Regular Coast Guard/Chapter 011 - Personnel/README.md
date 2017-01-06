@@ -112,7 +112,7 @@
 | [354\.](Enlisted%20Members/%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%27%20service.md) | Voluntary retirement after thirty years' service. |
 | [355\.](Enlisted%20Members/%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%27%20service.md) | Voluntary retirement after twenty years' service. |
 | \[356. | Repealed.\] |
-| [357\.](Enlisted%20Members/%C2%A7%2000357%20-%20Involuntary%20retirement%20of%20enlisted%20members.md) | Involuntary retirement of enlisted members. |
+| [357\.](Enlisted%20Members/%C2%A7%2000357%20-%20Retirement%20of%20enlisted%20members%20increase%20in%20retired%20pay.md) | Retirement of enlisted members: increase in retired pay. |
 | \[358. | Repealed.\] |
 | [359\.](Enlisted%20Members/%C2%A7%2000359%20-%20Recall%20to%20active%20duty%20during%20war%20or%20national%20emergency.md) | Recall to active duty during war or national emergency. |
 | [360\.](Enlisted%20Members/%C2%A7%2000360%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20member.md) | Recall to active duty with consent of member. |
@@ -145,6 +145,9 @@
 | [426\.](General%20Provisions/%C2%A7%2000426%20-%20Emergency%20leave%20retention%20authority.md) | Emergency leave retention authority. |
 | [427\.](General%20Provisions/%C2%A7%2000427%20-%20Prohibition%20of%20certain%20involuntary%20administrative%20separations.md) | Prohibition of certain involuntary administrative separations. |
 | [428\.](General%20Provisions/%C2%A7%2000428%20-%20Sea%20service%20letters.md) | Sea service letters. |
+| [429\.](General%20Provisions/%C2%A7%2000429%20-%20Multirater%20assessment%20of%20certain%20personnel.md) | Multirater assessment of certain personnel. |
+| [430\.](General%20Provisions/%C2%A7%2000430%20-%20Investigations%20of%20flag%20officers%20and%20Senior%20Executive%20Service%20employees.md) | Investigations of flag officers and Senior Executive Service employees. |
+| [431\.](General%20Provisions/%C2%A7%2000431%20-%20Leave%20policies%20for%20the%20Coast%20Guard.md) | Leave policies for the Coast Guard. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,7 +155,6 @@
 
 |  |  |
 | :--- | ---: |
-| \[431. | Repealed.\] |
 | [432\.](Special%20Provisions/%C2%A7%2000432%20-%20Personnel%20of%20former%20Lighthouse%20Service.md) | Personnel of former Lighthouse Service. |
 | \[433 to 440. Repealed.\] |  |
 
@@ -160,11 +162,13 @@
 
 #### Historical and Revision Notes
 
-This chapter, dealing with the appointment, enlistment, promotion, retirement and recall of all militarypersonnel, covers subject matter which has been greatly affected by war-time legislation and, therefore, has required rather extensive rewriting of existing law in order to correlate all of the various provisions. An attempt has been made to provide for enlisted men and warrant officers in a manner similar to the way that commissioned officers are provided for; for example, the act of February 21, 1946, ch. 34, 60 Stat. 29 (title 14, U.S.C., 1946 ed., §162a), made provision for the retirement of commissioned officers on half pay after twenty years naval service, and a prewar statute provided for twenty year retirement of enlisted men on half pay. This leaves warrant officers the only military group not eligible for retirement in twenty years, and a provision such as found in section 305 of this title, granting such retirement, seems clearly indicated in order to avoid unjust discrimination.
+This chapter, dealing with the appointment, enlistment, promotion, retirement and recall of all military personnel, covers subject matter which has been greatly affected by war-time legislation and, therefore, has required rather extensive rewriting of existing law in order to correlate all of the various provisions. An attempt has been made to provide for enlisted men and warrant officers in a manner similar to the way that commissioned officers are provided for; for example, the act of February 21, 1946, ch. 34, 60 Stat. 29 (title 14, U.S.C., 1946 ed., §162a), made provision for the retirement of commissioned officers on half pay after twenty years naval service, and a prewar statute provided for twenty year retirement of enlisted men on half pay. This leaves warrant officers the only military group not eligible for retirement in twenty years, and a provision such as found in section 305 of this title, granting such retirement, seems clearly indicated in order to avoid unjust discrimination.
 
 The subject matter seemed to break down into the sub-heads of "Commissioned Officers", "Warrant Officers", "Enlisted Men", and "General Provisions". Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term "commissioned officer" includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as "Coast Guard personnel" or "personnel of the Coast Guard", as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title II, §§214(a)(2), 215(b)(2), 220(b), 222(b), Feb. 8, 2016, 130 Stat. 43, 46, 48, 50, added items 357, 429, 430, and 431 and struck out former item 357 "Involuntary retirement of enlisted members".
 
 <b>2014</b>—Pub. L. 113–281, title II, §212(b), title III, §305(b)(2), Dec. 18, 2014, 128 Stat. 3029, 3044, added items 296 and 428.
 
@@ -226,7 +230,7 @@ Act June 8, 1955, ch. 136, §1, 69 Stat. 88, added item 370.
 
 #### Year-End Strength for Active Duty Personnel and Average Military Training Student Loads for Each Fiscal Year After Fiscal Year 1977; Authorization and Appropriations
 
-Pub. L. 94–406, §6, Sept. 10, 1976, 90 Stat. 1236, which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as section 661 of this title by Pub. L. 97–295, §§2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1302, 1314.
+Pub. L. 94–406, §6, Sept. 10, 1976, 90 Stat. 1236, which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as section 661 of this title by Pub. L. 97–295, §§2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1302, 1314 and subsequently transferred to section 2703 of this title by Pub. L. 114–120, title I, §101(c), Feb. 8, 2016, 130 Stat. 31.
 
 
 ---

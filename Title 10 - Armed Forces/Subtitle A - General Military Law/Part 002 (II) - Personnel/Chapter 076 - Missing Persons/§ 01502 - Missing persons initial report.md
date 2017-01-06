@@ -24,7 +24,7 @@ Safeguarding and Forwarding of Records.—A commander making a preliminary asses
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–201, §578(b)(1)(A), substituted "10 days" for "48 hours" and "Secretary concerned" for "theater component commander with jurisdiction over the missing person".
 
-Subsec. (b). Pub. L. 104–201, §578(b)(1)(D), struck out at end "The theater component commander through whom the report with respect to the missing person istransmitted under subsection (b) shall ensure that all pertinent information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person is properly safeguarded to avoid loss, damage, or modification."
+Subsec. (b). Pub. L. 104–201, §578(b)(1)(D), struck out at end "The theater component commander through whom the report with respect to the missing person is transmitted under subsection (b) shall ensure that all pertinent information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person is properly safeguarded to avoid loss, damage, or modification."
 
 Pub. L. 104–201, §578(b)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "
 

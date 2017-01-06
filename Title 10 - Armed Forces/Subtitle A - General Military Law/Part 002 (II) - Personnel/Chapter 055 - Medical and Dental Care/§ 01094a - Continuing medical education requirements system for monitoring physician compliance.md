@@ -8,6 +8,52 @@ The Secretary of Defense shall establish a mechanism for ensuring that each pers
 
 Pub. L. 105–261, div. A, title VII, §734(c)(2), Oct. 17, 1998, 112 Stat. 2073, provided that: "The system required by section 1094a of title 10, United States Code (as added by subsection (b)), shall take effect on the date that is three years after the date of the enactment of this Act \[Oct. 17, 1998\]."
 
+#### Oversight of Graduate Medical Education Programs of Military Departments
+
+Pub. L. 114–328, div. A, title VII, §749, Dec. 23, 2016, 130 Stat. 2242, provided that:
+
+"(a)
+
+Process.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall establish and implement a process to provide oversight of the graduate medical education programs of the military departments to ensure that such programs fully support the operational medical force readiness requirements for health care providers of the Armed Forces and the medical readiness of the Armed Forces. The process shall include the following:
+
+&emsp;"(1) A process to review such programs to ensure, to the extent practicable, that such programs are—
+
+&emsp;&emsp;"(A) conducted jointly among the military departments; and
+
+&emsp;&emsp;"(B) focused on, and related to, operational medical force readiness requirements.
+
+&emsp;"(2) A process to minimize duplicative programs relating to such programs among the military departments.
+
+&emsp;"(3) A process to ensure that—
+
+&emsp;&emsp;"(A) assignments of faculty, support staff, and students within such programs are coordinated among the military departments; and
+
+&emsp;&emsp;"(B) the Secretary optimizes resources by using military medical treatment facilities as training platforms when and where most appropriate.
+
+&emsp;"(4) A process to review and, if necessary, restructure or realign, such programs to sustain and improve operational medical force readiness.
+
+"(b)
+
+Report.—Not later than 30 days after the date on which the Secretary establishes the process under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that describes such process. The report shall include a description of each graduate medical education program of the military departments, categorized by the following:
+
+&emsp;"(1) Programs that provide direct support to operational medical force readiness.
+
+&emsp;"(2) Programs that provide indirect support to operational medical force readiness.
+
+&emsp;"(3) Academic programs that provide other medical support.
+
+"(c)
+
+Comptroller General Review and Report.—
+
+&emsp;"(1)
+
+Review.—The Comptroller General of the United States shall conduct a review of the process established under subsection (a), including with respect to each process described in paragraphs (1) through (4) of such subsection.
+
+&emsp;"(2)
+
+Report.—Not later than 180 days after the date on which the Secretary submits the report under subsection (b), the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives the review conducted under paragraph (1), including an assessment of the elements of the process established under subsection (a)."
+
 #### Joint Pilot Program for Providing Graduate Medical Education and Training for Physicians
 
 Pub. L. 107–314, div. A, title VII, §725(a)–(d), Dec. 2, 2002, 116 Stat. 2599, provided that:

@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (B) Special rule for multiemployer plans
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage made available to employeesthrough a multiemployer plan (as defined in section 414(f)), the plan sponsor shall make the calculations, and provide the notice, required under subparagraph (A).
+&emsp;&emsp;In the case of applicable employer-sponsored coverage made available to employees through a multiemployer plan (as defined in section 414(f)), the plan sponsor shall make the calculations, and provide the notice, required under subparagraph (A).
 
 #### (d) Applicable employer-sponsored coverage; cost
 
@@ -188,7 +188,11 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
 
-#### (D) Allocation on a monthly basis
+#### (D) Qualified small employer health reimbursement arrangements
+
+&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)), the cost of coverage shall be equal to the amount described in section 6051(a)(15).
+
+#### (E) Allocation on a monthly basis
 
 &emsp;&emsp;If cost is determined on other than a monthly basis, the cost shall be allocated to months in a taxable period on such basis as the Secretary may prescribe.
 
@@ -254,7 +258,7 @@ For purposes of this section—
 
 #### (4) Group health plan
 
-&emsp;The term "group health plan" has the meaning given such term by section 5000(b)(1).
+&emsp;The term "group health plan" has the meaning given such term by section 5000(b)(1). Section 9831(d)(1) shall not apply for purposes of this section.
 
 #### (5) Health insurance coverage; health insurance issuer
 
@@ -290,7 +294,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I,§1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037.)
+(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I, §1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 114–255, div. C, title XVIII, §18001(a)(4), Dec. 13, 2016, 130 Stat. 1342.)
 
 #### References in Text
 
@@ -303,6 +307,10 @@ Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)
 Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to section 1002(16)(B) of Title 29, Labor.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(2)(D), (E). Pub. L. 114–255, §18001(a)(4)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (f)(4). Pub. L. 114–255, §18001(a)(4)(A), inserted at end "Section 9831(d)(1) shall not apply for purposes of this section.".
 
 <b>2015</b>—Subsec. (b)(3)(C)(v). Pub. L. 114–113, §101(b), substituted "as determined for" for "as in effect" in introductory provisions and "as so determined" for "as so in effect" in subcl. (I).
 
@@ -343,6 +351,10 @@ Subsec. (d)(1)(B)(ii), (iii). Pub. L. 111–152, §1401(a)(4), added cl. (ii) an
 Subsec. (d)(3). Pub. L. 111–152, §1401(a)(5), added par. (3).
 
 Subsec. (f)(3). Pub. L. 111–148, §10901(a), inserted "individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act (8 U.S.C. 1288(b)), determined without regard to paragraph (2) thereof)," before "and individuals engaged in the construction, mining".
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016, see section 18001(a)(7) of Pub. L. 114–255, set out as a note under section 36B of this title.
 
 #### Effective Date of 2010 Amendment
 

@@ -1,0 +1,6 @@
+### §724. Omitted
+
+#### Codification
+
+Section, act Aug. 23, 1954, ch. 831, §4, 68 Stat. 769, which provided for cancellation of certain indebtedness effective on the date of the proclamation, was omitted from the Code as being of special and not general application.
+

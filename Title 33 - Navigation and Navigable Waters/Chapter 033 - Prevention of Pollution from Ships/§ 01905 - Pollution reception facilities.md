@@ -2,7 +2,7 @@
 
 #### (a) Adequacy; criteria
 
-(1) The Secretary, after consultation with the Administrator of the Environmental ProtectionAgency, shall establish regulations setting criteria for determining the adequacy of a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port's or terminal's facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
+(1) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall establish regulations setting criteria for determining the adequacy of a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port's or terminal's facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
 
 (2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
@@ -14,11 +14,11 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 #### (c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary
 
-(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
+(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1), the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
 
-(2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
+(2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2), the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
 
-(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
+(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilitiesunder this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
 
 (C) The Secretary may, with respect to certificates issued under this paragraph prior to October 19, 1996, prescribe by regulation differing periods of validity for such certificates.
 
@@ -56,7 +56,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 
-(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision ofadequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
+(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
 
 #### (f) Surveys
 

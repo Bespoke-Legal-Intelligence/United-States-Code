@@ -6,11 +6,11 @@ If any person liable to the corporation under section 1362, 1363, or 1364 of thi
 
 #### (b) Term of lien
 
-The lien imposed by subsection (a) of this section arises on the date of termination of a plan, and continues until the liability imposed under section 1362, 1363, or 1364 of this title is satisfied or becomes unenforceable by reason of lapse of time.
+The lien imposed by subsection (a) arises on the date of termination of a plan, and continues until the liability imposed under section 1362, 1363, or 1364 of this title is satisfied or becomes unenforceable by reason of lapse of time.
 
 #### (c) Priority
 
-(1) Except as otherwise provided under this section, the priority of a lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26 (as in effect on April 7, 1986). Such section 6323 shall be applied for purposes of this section by disregarding subsection (g)(4) and by substituting—
+(1) Except as otherwise provided under this section, the priority of a lien imposed under subsection (a) shall be determined in the same manner as under section 6323 of title 26 (as in effect on April 7, 1986). Such section 6323 shall be applied for purposes of this section by disregarding subsection (g)(4) and by substituting—
 
 &emsp;(A) "lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1368\]" for "lien imposed by section 6321" each place it appears in subsections (a), (b), (c)(1), (c)(4)(B), (d), (e), and (h)(5);
 
@@ -28,15 +28,15 @@ The lien imposed by subsection (a) of this section arises on the date of termina
 
 &emsp;(H) "the date on which the lien is first filed" for "the date of the assessment of the tax" in subsection (g)(3)(A).
 
-(2) In a case under title 11 or in insolvency proceedings, the lien imposed under subsection (a) of this section shall be treated in the same manner as a tax due and owing to the United States for purposes of title 11 or section 3713 of title 31.
+(2) In a case under title 11 or in insolvency proceedings, the lien imposed under subsection (a) shall be treated in the same manner as a tax due and owing to the United States for purposes of title 11 or section 3713 of title 31.
 
-(3) For purposes of applying section 6323(a) of title 26 to determine the priority between the lien imposed under subsection (a) of this section and a Federal tax lien, each lien shall be treated as a judgment lien arising as of the time notice of such lien is filed.
+(3) For purposes of applying section 6323(a) of title 26 to determine the priority between the lien imposed under subsection (a) and a Federal tax lien, each lien shall be treated as a judgment lien arising as of the time notice of such lien is filed.
 
-(4) For purposes of this subsection, notice of the lien imposed by subsection (a) of this section shall be filed in the same manner as under section 6323(f) and (g) of title 26.
+(4) For purposes of this subsection, notice of the lien imposed by subsection (a) shall be filed in the same manner as under section 6323(f) and (g) of title 26.
 
 #### (d) Civil action; limitation period
 
-(1) In any case where there has been a refusal or neglect to pay the liability imposed under section 1362, 1363, or 1364 of this title, the corporation may bring civil action in a district court of the United States to enforce the lien ofthe corporation under this section with respect to such liability or to subject any property, of whatever nature, of the liable person, or in which he has any right, title, or interest to the payment of such liability.
+(1) In any case where there has been a refusal or neglect to pay the liability imposed under section 1362, 1363, or 1364 of this title, the corporation may bring civil action in a district court of the United States to enforce the lien of the corporation under this section with respect to such liability or to subject any property, of whatever nature, of the liable person, or in which he has any right, title, or interest to the payment of such liability.
 
 (2) The liability imposed by section 1362, 1363, or 1364 of this title may be collected by a proceeding in court if the proceeding is commenced within 6 years after the date upon which the plan was terminated or prior to the expiration of any period for collection agreed upon in writing by the corporation and the liable person before the expiration of such 6-year period. The period of limitations provided under this paragraph shall be suspended for the period the assets of the liable person are in the control or custody of any court of the United States, or of any State, or of the District of Columbia, and for 6 months thereafter, and for any period during which the liable person is outside the United States if such period of absence is for a continuous period of at least 6 months.
 
@@ -78,7 +78,7 @@ Pub. L. 100–203, §9312(b)(2)(C)(ii), inserted at end "The preceding provision
 
 Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted "person liable" for "employer or employers liable", "neglects or refuses" for "neglect or refuse", and "such person" for "such employer or employers" and inserted "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
 
-Subsec. (c)(1). Pub. L. 99–272, §11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: "Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26. Such section 6323 shall be applied by substituting 'lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974' for 'lien imposed by section 6321'; 'corporation' for 'Secretary or his delegate'; 'employer liability lien' for 'tax lien'; 'employer' for 'taxpayer'; 'lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974' for 'assessment of the tax'; and 'payment of the loan value is made to the corporation' for 'satisfaction of a levy pursuant to section 6332(b)'; each place such terms appear."
+Subsec. (c)(1). Pub. L. 99–272, §11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: "Except as otherwise provided under this section, the priority of the lien imposed under subsection (a)shall be determined in the same manner as under section 6323 of title 26. Such section 6323 shall be applied by substituting 'lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974' for 'lien imposed by section 6321'; 'corporation' for 'Secretary or his delegate'; 'employer liability lien' for 'tax lien'; 'employer' for 'taxpayer'; 'lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974' for 'assessment of the tax'; and 'payment of the loan value is made to the corporation' for 'satisfaction of a levy pursuant to section 6332(b)'; each place such terms appear."
 
 Subsec. (d)(1), (2). Pub. L. 99–272, §11016(a)(6)(B)(iii), (iv), substituted "liable person" for "employer" wherever appearing.
 
@@ -88,7 +88,7 @@ Subsec. (e). Pub. L. 99–272, §11016(a)(6)(B)(v), (c)(14), struck out ", with
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(f)(3)(B), (10)(C), (12) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which suchamendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(f)(3)(B), (10)(C), (12) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

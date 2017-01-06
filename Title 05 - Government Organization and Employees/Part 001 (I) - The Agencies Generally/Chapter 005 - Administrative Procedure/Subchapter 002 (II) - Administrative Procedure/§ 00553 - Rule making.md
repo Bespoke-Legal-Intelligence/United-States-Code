@@ -18,7 +18,7 @@
 
 &emsp;(A) to interpretative rules, general statements of policy, or rules of agency organization, procedure, or practice; or
 
-&emsp;(B) when the agency for good cause finds (and incorporates the finding and a brief statement of reasons therefor in the rules issued) that notice and public procedure thereon areimpracticable, unnecessary, or contrary to the public interest.
+&emsp;(B) when the agency for good cause finds (and incorporates the finding and a brief statement of reasons therefor in the rules issued) that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.
 
 (c) After notice required by this section, the agency shall give interested persons an opportunity to participate in the rule making through submission of written data, views, or arguments with or without opportunity for oral presentation. After consideration of the relevant matter presented, the agency shall incorporate in the rules adopted a concise general statement of their basis and purpose. When rules are required by statute to be made on the record after opportunity for an agency hearing, sections 556 and 557 of this title apply instead of this subsection.
 

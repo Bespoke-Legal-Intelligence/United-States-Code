@@ -2,7 +2,7 @@
 
 #### (a) Condition for participation in Medicaid
 
-As a condition of the State plan under this subchapter and receipt of any Federal financial assistance under section 1396b(a) of this title for calendar quarters beginning after January 1, 2014, a State shall ensure that the requirements of subsection (b) is <sup>1</sup> met.
+As a condition of the State plan under this subchapter and receipt of any Federal financialassistance under section 1396b(a) of this title for calendar quarters beginning after January 1, 2014, a State shall ensure that the requirements of subsection (b) is <sup>1</sup> met.
 
 #### (b) Enrollment simplification and coordination with State health insurance exchanges and CHIP
 
@@ -36,7 +36,7 @@ As a condition of the State plan under this subchapter and receipt of any Federa
 
 #### (4) Enrollment website requirements
 
-&emsp;The procedures established by State under paragraph (1) shall include establishing and having in operation, not later than January 1, 2014, an Internet website that is linked to any website of an Exchange established by the State under section 18031 of this title and to the State CHIP agency (if different from the State Medicaid agency) and allows an individual who is eligible for medical assistance under the State plan or under a waiver of the plan and who is eligible to receive premium credit assistance for the purchase of a qualified health plan under section 36B of the Internal Revenue Code of 1986 to compare the benefits, premiums, and cost-sharing applicable to the individual under the State plan or waiver with the benefits, premiums, and cost-sharing available to the individual under a qualified health plan offered through such an Exchange, including, in the case of a child, the coverage that would be provided for the child through the State plan or waiver with the coverage that would be provided to the child through enrollment in family coverage under that plan and as supplemental coverage by the State under the State plan or waiver.
+&emsp;The procedures established by State under paragraph (1) shall include establishing and having in operation, not later than January 1, 2014, an Internet website that is linked to any website of an Exchange established by the State under section 18031 of this title and to the State CHIP agency (if different from the State Medicaid agency) and allows an individual who is eligible for medical assistance under the State plan or under a waiver of the plan and who is eligible to receive premium credit assistance for the purchase of a qualified health plan under section 36B of the Internal Revenue Code of 1986 to compare the benefits, premiums, and cost-sharing applicable tothe individual under the State plan or waiver with the benefits, premiums, and cost-sharing available to the individual under a qualified health plan offered through such an Exchange, including, in the case of a child, the coverage that would be provided for the child through the State plan or waiver with the coverage that would be provided to the child through enrollment in family coverage under that plan and as supplemental coverage by the State under the State plan or waiver.
 
 #### (5) Continued need for assessment for home and community-based services
 

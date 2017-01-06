@@ -20,7 +20,7 @@ In order that the President and the Congress may secure information and assistan
 
 &emsp;(2) Ascertain conversion costs and costs of production in the principal growing, producing, or manufacturing centers of foreign countries of articles imported into the United States, whenever in the opinion of the commission such conversion costs or costs of production are necessary for comparison with conversion costs or costs of production in the United States and can be reasonably ascertained;
 
-&emsp;(3) Select and describe articles which are representative of the classes or kinds of articles imported into the United States andwhich are similar to or comparable with articles of the United States; select and describe articles of the United States similar to or comparable with such imported articles; and obtain and file samples of articles so selected, whenever the commission deems it advisable;
+&emsp;(3) Select and describe articles which are representative of the classes or kinds of articles imported into the United States and which are similar to or comparable with articles of the United States; select and describe articles of the United States similar to or comparable with such imported articles; and obtain and file samples of articles so selected, whenever the commission deems it advisable;
 
 &emsp;(4) Ascertain import costs of such representative articles so selected;
 
@@ -87,6 +87,344 @@ For termination, effective May 15, 2000, of provisions in subsec. (g) relating t
 #### Delegation of Functions
 
 Functions of President under subsec. (g) of this section regarding reports by United States International Trade Commission to President delegated to United States Trade Representative, see section 5–301 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
+
+#### American Manufacturing Competitiveness
+
+Pub. L. 114–159, May 20, 2016, 130 Stat. 396, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'American Manufacturing Competitiveness Act of 2016'.
+
+#### "SEC. 2. SENSE OF CONGRESS ON THE NEED FOR A MISCELLANEOUS TARIFF BILL.
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) As of the date of the enactment of this Act \[May 20, 2016\], the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized TariffSchedule note set out under section 1202 of this title\] imposes duties on imported goods for which there is no domestic availability or insufficient domestic availability.
+
+&emsp;"(2) The imposition of duties on such goods creates artificial distortions in the economy of the United States that negatively affect United States manufacturers and consumers.
+
+&emsp;"(3) The manufacturing competitiveness of the United States around the world will be enhanced if Congress regularly and predictably updates the Harmonized Tariff Schedule to suspend or reduce duties on such goods.
+
+&emsp;"(4) Creating and maintaining an open and transparent process for consideration of petitions for duty suspensions and reductions builds confidence that the process is fair, open to all, and free of abuse.
+
+&emsp;"(5) Complying with the Rules of the House of Representatives and the Senate, in particular with clause 9 of rule XXI of the Rules of the House of Representatives and rule XLIV of the Standing Rules of the Senate, is essential to fostering and maintaining confidence in the process for considering a miscellaneous tariff bill.
+
+&emsp;"(6) A miscellaneous tariff bill developed under this process will not contain any—
+
+&emsp;&emsp;"(A) congressional earmarks or limited tax benefits within the meaning of clause 9 of rule XXI of the Rules of the House of Representatives; or
+
+&emsp;&emsp;"(B) congressionally directed spending items or limited tax benefits within the meaning of rule XLIV of the Standing Rules of the Senate.
+
+&emsp;"(7) Because any limited tariff benefits contained in any miscellaneous tariff bill following the process set forth by this Act will not have been the subject of legislation introduced by an individual Member of Congress and will be fully vetted through a transparent and fair process free of abuse, it is appropriate for Congress to consider limited tariff benefits as part of that miscellaneous tariff bill as long as—
+
+&emsp;&emsp;"(A) in the case of a miscellaneous tariff bill considered in the House of Representatives, consistent with the Rules of the House of Representatives, a list of such limited tariff benefits is published in the reports of the Committee on Ways and Means of the House of Representatives accompanying the miscellaneous tariff bill, or in the Congressional Record; and
+
+&emsp;&emsp;"(B) in the case of a miscellaneous tariff bill considered in the Senate, consistent with the Standing Rules of the Senate—
+
+&emsp;&emsp;&emsp;"(i) such limited tariff benefits have been identified through lists, charts, or other similar means; and
+
+&emsp;&emsp;&emsp;"(ii) the information identified in clause (i) has been available on a publicly accessible congressional website in a searchable format at least 48 hours before the vote on the motion to proceed to the miscellaneous tariff bill or the vote on the adoption of a report of a committee of conference in connection with the miscellaneous tariff bill, as the case may be.
+
+&emsp;"(8) When the process set forth under paragraph (7) is followed, it is consistent with the letter and intent of the Rules of the House of Representatives and the Senate and other related guidance.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that, to remove the competitive disadvantage to United States manufacturers and consumers and to promote the competitiveness of United States manufacturers, Congress should, not later than 90 days after the United States International Trade Commission issues a final report on petitions for duty suspensions and reductions under section 3(b)(3)(E), consider a miscellaneous tariff bill.
+
+#### "SEC. 3. PROCESS FOR CONSIDERATION OF PETITIONS FOR DUTY SUSPENSIONS AND REDUCTIONS.
+
+"(a)
+
+Purpose.—It is the purpose of this section to establish a process for the submission and consideration of petitions for duty suspensions and reductions.
+
+"(b)
+
+Requirements of Commission.—
+
+&emsp;"(1)
+
+Initiation.—Not later than October 15, 2016, and October 15, 2019, the Commission shall publish in the Federal Register and on a publicly available Internet website of the Commission a notice requesting members of the public who can demonstrate that they are likely beneficiaries of duty suspensions or reductions to submit to the Commission during the 60-day period beginning on the date of such publication—
+
+&emsp;&emsp;"(A) petitions for duty suspensions and reductions; and
+
+&emsp;&emsp;"(B) Commission disclosure forms with respect to such duty suspensions and reductions.
+
+&emsp;"(2)
+
+Content of petitions.—Each petition for a duty suspension or reduction under paragraph (1)(A) shall include the following information:
+
+&emsp;&emsp;"(A) The name and address of the petitioner.
+
+&emsp;&emsp;"(B) A statement as to whether the petition provides for an extension of an existing duty suspension or reduction or provides for a new duty suspension or reduction.
+
+&emsp;&emsp;"(C) A certification that the petitioner is a likely beneficiary of the proposed duty suspension or reduction.
+
+&emsp;&emsp;"(D) An article description for the proposed duty suspension or reduction to be included in the amendment to subchapter II of chapter 99 of the Harmonized Tariff Schedule of the United States.
+
+&emsp;&emsp;"(E) To the extent available—
+
+&emsp;&emsp;&emsp;"(i) a classification of the article for purposes of the amendment to subchapter II of chapter 99 of the Harmonized Tariff Schedule of the United States;
+
+&emsp;&emsp;&emsp;"(ii) a classification ruling of U.S. Customs and Border Protection with respect to the article; and
+
+&emsp;&emsp;&emsp;"(iii) a copy of a U.S. Customs and Border Protection entry summary indicating where the article is classified in the Harmonized Tariff Schedule of the United States.
+
+&emsp;&emsp;"(F) A brief and general description of the article.
+
+&emsp;&emsp;"(G) A brief description of the industry in the United States that uses the article.
+
+&emsp;&emsp;"(H) An estimate of the total value, in United States dollars, of imports of the article for each of the 5 calendar years after the calendar year in which the petition is filed, including an estimate of the total value of such imports by the person who submits the petition and by any other importers, if available.
+
+&emsp;&emsp;"(I) The name of each person that imports the article, if available.
+
+&emsp;&emsp;"(J) A description of any domestic production of the article, if available.
+
+&emsp;&emsp;"(K) Such other information as the Commission may require.
+
+&emsp;"(3)
+
+Review.—
+
+&emsp;&emsp;"(A)
+
+Commission publication and public availability.—As soon as practicable after the expiration of the 60-day period specified in paragraph (1), but in any case not later than 30 days after the expiration of such 60-day period, the Commission shall publish on a publicly available Internet website of the Commission—
+
+&emsp;&emsp;&emsp;"(i) the petitions for duty suspensions and reductions submitted under paragraph (1)(A) that contain the information required under paragraph (2); and
+
+&emsp;&emsp;&emsp;"(ii) the Commission disclosure forms with respect to such duty suspensions and reductions submitted under paragraph (1)(B).
+
+&emsp;&emsp;"(B)
+
+Public comment.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Commission shall publish in the Federal Register and on a publicly available Internet website of the Commission a notice requesting members of the public to submit to the Commission during the 45-day period beginning on the date of publication described in subparagraph (A) comments on—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the petitions for duty suspensions and reductions published by the Commission under subparagraph (A)(i); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the Commission disclosure forms with respect to such duty suspensions and reductions published by the Commission under subparagraph (A)(ii).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Publication of comments.—The Commission shall publish a notice in the Federal Register directing members of the public to a publicly available Internet website of the Commission to view the comments of the members of the public received under clause (i).
+
+&emsp;&emsp;"(C)
+
+Preliminary report.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—As soon as practicable after the expiration of the 120-day period beginning on the date of publication described in subparagraph (A), but in any case not later than 30 days after the expiration of such 120-day period, the Commission shall submit to the appropriate congressional committees a preliminary report on the petitions for duty suspensions and reductions submitted under paragraph (1)(A). The preliminary report shall contain the following information with respect to each petition for a duty suspension or reduction:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) The heading or subheading of the Harmonized Tariff Schedule of the United States in which each article that is the subject of the petition for the duty suspension or reduction is classified, as identified by documentation supplied to the Commission, and any supporting information obtained by the Commission.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) A determination of whether or not domestic production of the article that is the subject of the petition for the duty suspension or reduction exists, taking into account the report of the Secretary of Commerce under subsection (c)(1), and, if such production exists, whether or not a domestic producer of the article objects to the duty suspension or reduction.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) Any technical changes to the article description of the article that is the subject of the petition for the duty suspension or reduction that are necessary for purposes of administration when the article is presented for importation, taking into account the report of the Secretary of Commerce under subsection (c)(2).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) An estimate of the amount of loss in revenue to the United States that would no longer be collected if the duty suspension or reduction takes effect.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) A determination of whether or not the duty suspension or reduction is available to any person that imports the article that is the subject of the duty suspension or reduction.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) The likely beneficiaries of each duty suspension or reduction, including whether the petitioner is a likely beneficiary.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Categories of information.—The preliminary report submitted under clause (i) shall also contain the following information:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) A list of petitions for duty suspensions and reductions that meet the requirements of this Act without modifications.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) A list of petitions for duty suspensions and reductions for which the Commission recommends technical corrections in order to meet the requirements of this Act, with the correction specified.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) A list of petitions for duty suspensions and reductions for which the Commission recommends modifications to the amount of the duty suspension or reduction that is the subject of the petition to comply with the requirements of this Act, with the modification specified.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) A list of petitions for duty suspensions and reductions for which the Commission recommends modifications to the scope of the articles that are the subject of such petitions to address objections by domestic producers to such petitions, with the modifications specified.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) A list of the following:
+
+&emsp;&emsp;&emsp;"(aa) Petitions for duty suspensions and reductions that the Commission has determined do not contain the information required under paragraph (2).
+
+&emsp;&emsp;&emsp;"(bb) Petitions for duty suspensions and reductions with respect to which the Commission has determined the petitioner is not a likely beneficiary.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) A list of petitions for duty suspensions and reductions that the Commission does not recommend for inclusion in a miscellaneous tariff bill, other than petitions specified in subclause (V).
+
+&emsp;&emsp;"(D)
+
+Additional information.—The Commission shall consider any information submitted by the appropriate congressional committees to the Commission relating to moving a petition that is contained in the list referred to in subclause (VI) of subparagraph (C)(ii) of the preliminary report submitted under subparagraph (C) to a list referred to in subclause (I), (II), (III), or (IV) of subparagraph (C)(ii).
+
+&emsp;&emsp;"(E)
+
+Final report.—Not later than 60 days after the date on which the preliminary report is submitted under subparagraph (C), the Commission shall submit to the appropriate congressional committees a final report on each petition for a duty suspension or reduction specified in the preliminary report. The final report shall contain with respect to each such petition—
+
+&emsp;&emsp;&emsp;"(i) the information required under clauses (i) and (ii) of subparagraph (C) and updated as appropriate under subparagraph (D); and
+
+&emsp;&emsp;&emsp;"(ii) a determination of the Commission whether—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the duty suspension or reduction can likely be administered by U.S. Customs and Border Protection;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the estimated loss in revenue to the United States from the duty suspension or reduction does not exceed $500,000 in a calendar year during which the duty suspension or reduction would be in effect; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the duty suspension or reduction is available to any person importing the article that is the subject of the duty suspension or reduction.
+
+&emsp;&emsp;"(F)
+
+Exclusions.—The appropriate congressional committees may exclude from a miscellaneous tariff bill any petition for a duty suspension or reduction that—
+
+&emsp;&emsp;&emsp;"(i) is contained in any list referred to in subclause (I), (II), (III), or (IV) of subparagraph (C)(ii), as updated as appropriate under subparagraph (E)(i);
+
+&emsp;&emsp;&emsp;"(ii) is the subject of an objection from a Member of Congress; or
+
+&emsp;&emsp;&emsp;"(iii) is for an article for which there is domestic production.
+
+&emsp;&emsp;"(G)
+
+Estimates by the congressional budget office.—For purposes of reflecting the estimate of the Congressional Budget Office, the appropriate congressional committees shall adjust the amount of a duty suspension or reduction in a miscellaneous tariff bill only to assure that the estimated loss in revenue to the United States from that duty suspension or reduction, as estimated by the Congressional Budget Office, does not exceed $500,000 in a calendar year during which the duty suspension or reduction would be in effect.
+
+&emsp;&emsp;"(H)
+
+Prohibitions.—Any petitions for duty suspensions or reductions that are contained in any list referred to in subclause (V) or (VI) of subparagraph (C)(ii), as updated as appropriate under subparagraph (E)(i), or have not otherwise undergone the processes required by this Act shall not be included in a miscellaneous tariff bill.
+
+&emsp;"(4)
+
+Confidential business information.—The procedures concerning the release of confidential business information set forth in section 332(g) of theTariff Act of 1930 (19 U.S.C. 1332(g)) shall apply with respect to information received by the Commission in posting petitions on a publicly available website of the Commission and in preparing reports under this subsection.
+
+&emsp;"(5)
+
+Procedures.—The Commission shall prescribe and publish in the Federal Register and on a publicly available Internet website of the Commission procedures to be complied with by members of the public submitting petitions for duty suspensions and reductions under subsection (b)(1)(A).
+
+"(c)
+
+Department of Commerce Report.—Not later than the end of the 90-day period beginning on the date of publication of the petitions for duty suspensions and reductions under subsection (b)(3)(A), the Secretary of Commerce, in consultation with U.S. Customs and Border Protection and other relevant Federal agencies, shall submit to the Commission and the appropriate congressional committees a report on each petition for a duty suspension or reduction submitted under subsection (b)(1)(A) that includes the following information:
+
+&emsp;"(1) A determination of whether or not domestic production of the article that is the subject of the petition for the duty suspension or reduction exists and, if such production exists, whether or not a domestic producer of the article objects to the petition for the duty suspension or reduction.
+
+&emsp;"(2) Any technical changes to the article description that are necessary for purposes of administration when articles are presented for importation.
+
+#### "SEC. 4. REPORT ON EFFECTS OF DUTY SUSPENSIONS AND REDUCTIONS ON UNITED STATES ECONOMY.
+
+"(a)
+
+In General.—Not later than 12 months after the date of the enactment of a miscellaneous tariff bill, the Commission shall submit to the appropriate congressional committees a report on the effects on the United States economy of duty suspensions and reductions enacted pursuant to this Act, including a broad assessment of the economic effects of such duty suspensions and reductions on producers, purchasers, and consumers in the United States, using case studies describing such effects on selected industries or by type of article as available data permit.
+
+"(b)
+
+Recommendations.—The Commission shall also solicit and append to the report required under subsection (a) recommendations with respect to those domestic industry sectors or specific domestic industries that might benefit from permanent duty suspensions and reductions, either through a unilateral action of the United States or though \[sic\] negotiations for reciprocal tariff agreements, with a particular focus on inequities created by tariff inversions.
+
+"(c)
+
+Form of Report.—Each report required by this section shall be submitted in unclassified form, but may include a classified annex.
+
+#### "SEC. 5. PUBLICATION OF LIMITED TARIFF BENEFITS IN THE HOUSE OF REPRESENTATIVES AND THE SENATE.
+
+"(a)
+
+House of Representatives.—
+
+&emsp;"(1)
+
+In general.—The chair of the Committee on Ways and Means of the House of Representatives shall include a list of limited tariff benefits contained in a miscellaneous tariff bill in the report to accompany such a bill or, in a case where a miscellaneous tariff bill is not reported by the committee, shall cause such a list to be printed in the appropriate section of the Congressional Record.
+
+&emsp;"(2)
+
+Limited tariff benefit defined.—For purposes of this subsection and consistent with clause 9 of rule XXI of the Rules of the House of Representatives, as in effect during the One Hundred Fourteenth Congress, the term 'limited tariff benefit' means a provision modifying the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized Tariff Schedule note set out under section 1202 of this title\] in a manner that benefits 10 or fewer entities.
+
+"(b)
+
+Senate.—
+
+&emsp;"(1)
+
+In general.—The chairman of the Committee on Finance of the Senate, the Majority Leader of the Senate, or the designee of the Majority Leader of the Senate, shall provide for the publication in the Congressional Record of a certification that—
+
+&emsp;&emsp;"(A) each limited tariff benefit contained in a miscellaneous tariff bill considered in the Senate has been identified through lists, charts, or other similar means; and
+
+&emsp;&emsp;"(B) the information identified in subparagraph (A) has been available on a publicly accessible congressional website in a searchable format at least 48 hours before the vote on the motion to proceed to the miscellaneous tariff bill or the vote on the adoption of a report of a committee of conference in connection with the miscellaneous tariff bill, as the case may be.
+
+&emsp;"(2)
+
+Satisfaction of senate rules.—Publication of a certification in the Congressional Record under paragraph (1) satisfies the certification requirements of paragraphs 1(a), 2(a), and 3(a) of rule XLIV of the Standing Rules of the Senate.
+
+&emsp;"(3)
+
+Limited tariff benefit defined.—For purposes of this subsection and consistent with rule XLIV of the Standing Rules of the Senate, as in effect during the One Hundred Fourteenth Congress, the term 'limited tariff benefit' means a provision modifying the Harmonized Tariff Schedule of the United States in a manner that benefits 10 or fewer entities.
+
+"(c)
+
+Enactment as Exercise of Rulemaking Power of House of Representatives and Senate.—This section is enacted by Congress—
+
+&emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such are deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
+
+&emsp;"(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+#### "SEC. 6. JUDICIAL REVIEW PRECLUDED.
+
+"The exercise of functions under this Act shall not be subject to judicial review.
+
+#### "SEC. 7. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+&emsp;"(2)
+
+Commission.—The term 'Commission' means the United States International Trade Commission.
+
+&emsp;"(3)
+
+Commission disclosure form.—The term 'Commission disclosure form' means, with respect to a petition for a duty suspension or reduction, a document submitted by a petitioner to the Commission that contains the following:
+
+&emsp;&emsp;"(A) The contact information for any known importers of the article to which the proposed duty suspension or reduction would apply.
+
+&emsp;&emsp;"(B) A certification by the petitioner that the proposed duty suspension or reduction is available to any person importing the article to which the proposed duty suspension or reduction would apply.
+
+&emsp;&emsp;"(C) A certification that the petitioner is a likely beneficiary of the proposed duty suspension or reduction.
+
+&emsp;"(4)
+
+Domestic producer.—The term 'domestic producer' means a person that demonstrates production, or imminent production, in the United States of an article that is identical to, or like or directly competitive with, an article to which a petition for a duty suspension or reduction would apply.
+
+&emsp;"(5)
+
+Domestic production.—The term 'domestic production' means the production of an article that is identical to, or like or directly competitive with, anarticle to which a petition for a duty suspension or reduction would apply, for which a domestic producer has demonstrated production, or imminent production, in the United States.
+
+&emsp;"(6)
+
+Duty suspension or reduction.—The term 'duty suspension or reduction' refers to an amendment to subchapter II of chapter 99 of the Harmonized Tariff Schedule of the United States for a period not to exceed 3 years that—
+
+&emsp;&emsp;"(A) extends an existing temporary duty suspension or reduction on an article under that subchapter; or
+
+&emsp;&emsp;"(B) provides for a new temporary duty suspension or reduction on an article under that subchapter.
+
+&emsp;"(7)
+
+Likely beneficiary.—The term 'likely beneficiary' means an individual or entity likely to utilize, or benefit directly from the utilization of, an article that is the subject of a petition for a duty suspension or reduction.
+
+&emsp;"(8)
+
+Member of congress.—The term 'Member of Congress' means a Senator or Representative in, or Delegate or Resident Commissioner to, Congress.
+
+&emsp;"(9)
+
+Miscellaneous tariff bill.—The term 'miscellaneous tariff bill' means a bill of either House of Congress that contains only duty suspensions and reductions and related technical corrections that—
+
+&emsp;&emsp;"(A) are included in the final report of the Commission submitted to the appropriate congressional committees under section 3(b)(3)(E), except for—
+
+&emsp;&emsp;&emsp;"(i) petitions for duty suspensions or reductions that the Commission has determined do not contain the information required under section 3(b)(2);
+
+&emsp;&emsp;&emsp;"(ii) petitions for duty suspensions and reductions with respect to which the Commission has determined the petitioner is not a likely beneficiary; and
+
+&emsp;&emsp;&emsp;"(iii) petitions for duty suspensions and reductions that the Commission does not recommend for inclusion in the miscellaneous tariff bill;
+
+&emsp;&emsp;"(B) are not excluded under section 3(b)(3)(F); and
+
+&emsp;&emsp;"(C) otherwise meet the applicable requirements of this Act."
 
 #### Continuation of Reports With Respect to Synthetic Organic Chemicals
 

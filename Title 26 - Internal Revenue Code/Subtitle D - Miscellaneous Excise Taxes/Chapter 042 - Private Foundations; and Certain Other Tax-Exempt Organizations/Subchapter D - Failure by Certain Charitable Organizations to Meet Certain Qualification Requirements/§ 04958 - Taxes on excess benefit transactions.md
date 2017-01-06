@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on theparticipation of any organization manager in the excess benefit transaction, knowing that it is such a transaction, a tax equal to 10 percent of the excess benefit, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who participated in the excess benefit transaction.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any organization manager in the excess benefit transaction, knowing that it is such a transaction, a tax equal to 10 percent of the excess benefit, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who participated in the excess benefit transaction.
 
 #### (b) Additional tax on the disqualified person
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (4) Authority to include certain other private inurement
 
-&emsp;To the extent provided in regulations prescribed by the Secretary, the term "excess benefit transaction" includes any transaction in which the amount of any economic benefit provided to or for the use of a disqualified person is determined in whole or in part by the revenues of 1 or more activities of the organization but only if such transaction results in inurement not permitted under paragraph (3) or (4) of section 501(c), as the case may be. In the case of any such transaction, the excess benefit shall be the amount of the inurement not so permitted.
+&emsp;To the extent provided in regulations prescribed by the Secretary, the term "excess benefit transaction" includes any transactionin which the amount of any economic benefit provided to or for the use of a disqualified person is determined in whole or in part by the revenues of 1 or more activities of the organization but only if such transaction results in inurement not permitted under paragraph (3) or (4) of section 501(c), as the case may be. In the case of any such transaction, the excess benefit shall be the amount of the inurement not so permitted.
 
 #### (d) Special rules
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (1) Joint and several liability
 
-&emsp;If more than 1 person is liable for any tax imposed by subsection (a) or subsection (b), allsuch persons shall be jointly and severally liable for such tax.
+&emsp;If more than 1 person is liable for any tax imposed by subsection (a) or subsection (b), all such persons shall be jointly and severally liable for such tax.
 
 #### (2) Limit for management
 

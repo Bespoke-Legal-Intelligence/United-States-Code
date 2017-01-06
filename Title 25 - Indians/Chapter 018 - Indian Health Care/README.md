@@ -232,6 +232,8 @@
 | [1681\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001681%20-%20Omitted.md) | Omitted. |
 | [1682\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001682%20-%20Subrogation%20of%20claims%20by%20Indian%20Health%20Service.md) | Subrogation of claims by Indian Health Service. |
 | [1683\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001683%20-%20Indian%20Catastrophic%20Health%20Emergency%20Fund.md) | Indian Catastrophic Health Emergency Fund. |
+| [1684\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001684%20-%20Emergency%20plan%20for%20Indian%20safety%20and%20health.md) | Emergency plan for Indian safety and health. |
+| [1685\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001685%20-%20Service%20of%20traditional%20foods%20in%20public%20facilities.md) | Service of traditional foods in public facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

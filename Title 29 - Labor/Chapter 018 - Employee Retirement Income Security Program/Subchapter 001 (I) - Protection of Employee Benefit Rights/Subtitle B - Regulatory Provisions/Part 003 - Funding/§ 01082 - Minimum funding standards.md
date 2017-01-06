@@ -90,7 +90,7 @@
 
 #### (B) Consultation with the Pension Benefit Guaranty Corporation
 
-&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury shall, before granting or modifying a waiver under this subsection or an extension under 1085a(d) <sup>1</sup> of this title with respect to a plan described in subparagraph (A)(i)—
+&emsp;&emsp;Except as provided in subparagraph (C), the Secretary of the Treasury shall, beforegranting or modifying a waiver under this subsection or an extension under 1085a(d) <sup>1</sup> of this title with respect to a plan described in subparagraph (A)(i)—
 
 &emsp;&emsp;&emsp;(i) provide the Pension Benefit Guaranty Corporation with—
 
@@ -156,7 +156,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21)of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
+&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title or section 1085a(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of anyincrease in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title or section 1085a(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 

@@ -248,7 +248,7 @@ For purposes of this section—
 
 Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
 
-(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110; Pub. L. 111–5, div. B, title I, §1005(a), Feb. 17, 2009, 123 Stat. 316; Pub. L. 113–295, div. B, title I, §105(a), Dec. 19, 2014, 128 Stat. 4064; Pub. L. 114–113, div. Q, title III, §302(a)(1), (b)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3086.)
+(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110; Pub. L. 111–5, div. B, title I, §1005(a), Feb. 17, 2009, 123 Stat. 316; Pub. L. 113–295, div. B, title I, §105(a), Dec. 19, 2014, 128 Stat. 4064; Pub. L. 114–113, div. Q, title III, §302(a)(1), (b)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3086.)
 
 #### References in Text
 
@@ -256,7 +256,7 @@ The date of the enactment of the Economic Growth and Tax Relief Reconciliation A
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), probably means the date of enactment of Pub. L. 105–34, which enacted subsec. (e)(5) and which was approved Aug. 5, 1997.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
@@ -292,7 +292,7 @@ Subsec. (a). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" f
 
 Subsec. (b). Pub. L. 107–16, §402(a)(4)(C), substituted "Qualified tuition" for "Qualified State tuition" in heading.
 
-Subsec. (b)(1). Pub. L. 107–16, §402(a)(1), (4)(A), in introductory provisions, substituted "qualified tuition"for "qualified State tuition" and inserted "or by 1 or more eligible educational institutions" after "thereof", and added concluding provisions.
+Subsec. (b)(1). Pub. L. 107–16, §402(a)(1), (4)(A), in introductory provisions, substituted "qualified tuition" for "qualified State tuition" and inserted "or by 1 ormore eligible educational institutions" after "thereof", and added concluding provisions.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §402(a)(2), inserted "in the case of a program established and maintained by a State or agency or instrumentality thereof," before "may make".
 

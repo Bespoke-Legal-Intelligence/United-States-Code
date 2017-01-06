@@ -6,7 +6,7 @@ There shall be allowed as a credit against the tax imposed by this subtitle for 
 
 &emsp;(1) under section 6420 (determined without regard to section 6420(g)),
 
-&emsp;(2) under section 6421 (determined without regard to section 6421(i)),<sup>1</sup> and
+&emsp;(2) under section 6421 (determined without regard to section 6421(i)), and
 
 &emsp;(3) under section 6427 (determined without regard to section 6427(k)).
 
@@ -16,17 +16,13 @@ Credit shall not be allowed under subsection (a) for any amount payable under se
 
 (Added Pub. L. 89–44, title VIII, 809(c), June 21, 1965, 79 Stat. 167, §39; amended Pub. L. 91–258, title II, §207(c), May 21, 1970, 84 Stat. 248; Pub. L. 94–455, title XIX, §§1901(a)(3), 1906(b)(8), (9), Oct. 4, 1976, 90 Stat. 1764, 1834; Pub. L. 94–530, §1(c)(1), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §505(c)(1), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–618, title II, §233(b)(2)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–223, title II, §232(d)(4)(A), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(6)(A)–(C), Jan. 6, 1983, 96 Stat. 2181; renumbered §34 and amended Pub. L. 98–369, div. A, title IV, §471(c), title IX, §911(d)(2)(A), July 18, 1984, 98 Stat. 826, 1006; Pub. L. 99–514, title XVII, §1703(e)(2)(F), title XVIII, §1877(a), Oct. 22, 1986, 100 Stat. 2778, 2902; Pub. L. 100–647, title I, §1017(c)(2), Nov. 10, 1988, 102 Stat. 3576; Pub. L. 104–188, title I, §1606(b)(1), Aug. 20, 1996, 110 Stat. 1839; Pub. L. 105–206, title VI, §6023(24)(B), July 22, 1998, 112 Stat. 826; Pub. L. 110–172, §11(a)(4), Dec. 29, 2007, 121 Stat. 2484.)
 
-#### References in Text
-
-Section 6421(i), referred to in subsec. (a)(2), was repealed by Pub. L. 103–66, title XIII, §13241(f)(7), Aug. 10, 1993, 107 Stat. 512.
-
 #### Prior Provisions
 
-A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repealby Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
+A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172, §11(a)(4)(A), struck out "with respect to gasoline used during the taxable year on a farm for farming purposes" before "(determined without regard to section 6420(g))".
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172, §11(a)(4)(A), struck out "with respect to gasoline used during thetaxable year on a farm for farming purposes" before "(determined without regard to section 6420(g))".
 
 Subsec. (a)(2). Pub. L. 110–172, §11(a)(4)(B), which directed striking out "with respect to gasoline used during the taxable year: (A) otherwise than as a fuel in a highway vehicle; or (B) in vehicles while engaged in furnishing certain public passenger land transportation service", was executed by striking out "with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service" before "(determined without regard to section 6421(i))", to reflect the probable intent of Congress.
 
@@ -122,7 +118,7 @@ Amendment by Pub. L. 96–223 effective on Jan. 1, 1979, see section 232(h)(2) o
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–618, title II, §233(d), Nov. 9, 1978, 92 Stat. 3192, provided that: "The amendments made by this section \[amending sections 39 \[now 34\], 4041, 4221, 4483, 6416, 6421, 6424, 6427, 6504, and 6675 of this title and amending a provision set out as a note under section 120 of Title 23, Highways\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\]."
+Pub. L. 95–618, title II, §233(d), Nov. 9, 1978, 92 Stat. 3192, provided that: "The amendments made by thissection \[amending sections 39 \[now 34\], 4041, 4221, 4483, 6416, 6421, 6424, 6427, 6504, and 6675 of this title and amending a provision set out as a note under section 120 of Title 23, Highways\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\]."
 
 Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub. L. 95–599, set out as a note under section 6427 of this title.
 
@@ -141,6 +137,4 @@ Amendment by Pub. L. 91–258 applicable with respect to taxable years ending af
 #### Effective Date
 
 Section applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 6420 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

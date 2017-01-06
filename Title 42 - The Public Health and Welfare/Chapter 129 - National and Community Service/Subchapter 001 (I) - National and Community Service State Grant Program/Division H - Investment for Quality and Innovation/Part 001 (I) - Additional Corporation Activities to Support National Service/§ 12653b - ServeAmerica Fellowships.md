@@ -34,7 +34,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;From the amounts appropriated under section 12681(a)(4)(B) of this title and allottedunder paragraph (2)(A), the Corporation shall make grants (including financial assistance and a corresponding allotment of approved national service positions), to the State Commission of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico with an application approved under this section, to enable such State Commissions to award ServeAmerica Fellowships under subsection (e).
+&emsp;From the amounts appropriated under section 12681(a)(4)(B) of this title and allotted under paragraph (2)(A), the Corporation shall make grants (including financial assistance and a corresponding allotment of approved national service positions), to the State Commission of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico with an application approved under this section, to enable such State Commissions to award ServeAmerica Fellowships under subsection (e).
 
 #### (2) Allotment; administrative costs
 

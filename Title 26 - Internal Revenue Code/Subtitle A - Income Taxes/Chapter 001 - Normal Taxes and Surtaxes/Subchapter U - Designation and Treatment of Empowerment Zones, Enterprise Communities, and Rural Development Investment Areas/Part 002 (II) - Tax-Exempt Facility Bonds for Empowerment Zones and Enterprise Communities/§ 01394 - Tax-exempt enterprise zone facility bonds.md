@@ -200,7 +200,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 &emsp;&emsp;(B) in the case of obligations issued after December 31, 2001, all empowerment zones (other than the District of Columbia Enterprise Zone) were taken into account under sections 1397C and 1397D.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, §1703(n)(7), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §§953(a), 955(a), (b), Aug. 5, 1997, 111 Stat. 887, 889, 890; Pub. L. 106–554, §1(a)(7) \[title I, §§115(a), 116(b)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-601, 2763A-603; Pub. L. 107–147, title IV, §417(16), Mar. 9, 2002, 116 Stat. 56; Pub. L. 113–295, div. A, title II, §220(o), (p), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–113, div. Q, title I, §171(b)–(d), Dec. 18, 2015, 129 Stat. 3070, 3071.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, §1703(n)(7), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §§953(a), 955(a), (b), Aug. 5, 1997, 111 Stat. 887, 889, 890; Pub. L. 106–554, §1(a)(7) \[title I, §§115(a), 116(b)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603; Pub. L. 107–147, title IV, §417(16), Mar. 9, 2002, 116 Stat. 56; Pub. L. 113–295, div. A, title II, §220(o), (p), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–113, div. Q, title I, §171(b)–(d), Dec. 18, 2015, 129 Stat. 3070, 3071.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Pub. L. 114–113, div. Q, title I, §171(e)(2), Dec. 18, 2015, 129 Stat. 3071, 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-602, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after December 31, 2001."
+Pub. L. 106–554, §1(a)(7) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after December 31, 2001."
 
 Amendment by section 1(a)(7) \[title I, §116(b)(3), (4)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 

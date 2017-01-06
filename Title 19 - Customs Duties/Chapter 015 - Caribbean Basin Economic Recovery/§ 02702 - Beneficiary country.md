@@ -149,7 +149,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2),May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530.)
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530.)
 
 #### Amendment of Section
 

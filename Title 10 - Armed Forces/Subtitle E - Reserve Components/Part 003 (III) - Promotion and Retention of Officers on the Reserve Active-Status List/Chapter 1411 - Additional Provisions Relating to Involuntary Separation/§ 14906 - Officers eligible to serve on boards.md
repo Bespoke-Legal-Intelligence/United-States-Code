@@ -24,3 +24,7 @@ Limitation.—A person may not be a member of more than one board convened under
 
 "(2) An officer may not serve on a board under this chapter unless the officer holds a grade above lieutenant colonel or commander and is senior in grade and rank to any officer considered by the board."
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

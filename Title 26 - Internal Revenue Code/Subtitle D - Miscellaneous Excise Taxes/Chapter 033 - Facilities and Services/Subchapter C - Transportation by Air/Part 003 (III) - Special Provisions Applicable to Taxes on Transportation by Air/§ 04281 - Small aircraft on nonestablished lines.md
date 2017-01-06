@@ -34,7 +34,7 @@ A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax 
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §204(b), Dec. 19, 2014, 128 Stat. 4025, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effectas if included in section 1107 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\]."
+Pub. L. 113–295, div. A, title II, §204(b), Dec. 19, 2014, 128 Stat. 4025, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 1107 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\]."
 
 #### Effective Date of 2012 Amendment
 

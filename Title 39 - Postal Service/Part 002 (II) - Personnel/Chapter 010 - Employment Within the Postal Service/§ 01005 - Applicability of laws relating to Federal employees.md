@@ -24,7 +24,7 @@
 
 (ii) The provisions of subparagraph (A) of this paragraph shall not, to the extent that such provisions relate to an individual under clause (ii) of such subparagraph, be modified by any program developed under section 1004 of this title.
 
-(b)(1) Except as provided under paragraph (2), section 5941 of title 5 shall apply to the Postal Service. Except as provided under paragraph (2), for purposes of section 5941 of that title, the pay of officers and employees of the Postal Service shall be considered to be fixed by statute, and the basic pay of an employee shall be the pay (but not any allowance or benefit) of that officer or employee established in accordance with the provisions of this title.
+(b)(1) Except as provided under paragraph (2), section 5941 of title 5 shall apply to the Postal Service. Except as provided under paragraph (2),for purposes of section 5941 of that title, the pay of officers and employees of the Postal Service shall be considered to be fixed by statute, and the basic pay of an employee shall be the pay (but not any allowance or benefit) of that officer or employee established in accordance with the provisions of this title.
 
 (2) On and after the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009—
 
@@ -78,7 +78,7 @@ Subsec. (d)(2). Pub. L. 111–84, §1122(d), in introductory provisions, substit
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–335 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Officers and employees of the Postal Service (other than the Governors) shall be covered by chapter 83 of title 5 relating to civil service retirement. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in such chapter. The Postal Service shall pay into the Civil Service Retirement and Disability Fund the amounts determined by the Civil Service Commission under section 8348(h) of title 5."
 
-<b>1974</b>—Subsec. (d). Pub. L. 93–349 substituted requirement that the Postal Service pay into the Civil Service Retirement and Disability Fund the amounts determined by the Civil Service Commission under section 8348(h) of title 5, for requirement that the Postal Service pay to the Civil Service Commission upon request of the Civil Service Commission but not less frequently than annually the costs reasonably related to the administration of Fund activities for officers and employees of the Postal Service.
+<b>1974</b>—Subsec. (d). Pub. L. 93–349 substituted requirement that the Postal Service pay into the Civil ServiceRetirement and Disability Fund the amounts determined by the Civil Service Commission under section 8348(h) of title 5, for requirement that the Postal Service pay to the Civil Service Commission upon request of the Civil Service Commission but not less frequently than annually the costs reasonably related to the administration of Fund activities for officers and employees of the Postal Service.
 
 #### Effective Date of 2011 Amendment
 

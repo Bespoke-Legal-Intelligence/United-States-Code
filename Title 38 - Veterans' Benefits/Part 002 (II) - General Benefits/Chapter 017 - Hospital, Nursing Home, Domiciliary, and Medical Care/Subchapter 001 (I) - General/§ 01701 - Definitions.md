@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(A)(i) medical services rendered in the course of the hospitalization of any veteran, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title;
 
-&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardianof a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
+&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
 
 &emsp;(C)(i) medical services rendered in the course of the hospitalization of a dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title, and (ii) travel and incidental expenses for such dependent or survivor under the terms and conditions set forth in section 111 of this title.
 
@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;(E) substance abuse prevention measures;
 
-&emsp;(F) immunizations against infectious disease;
+&emsp;(F) immunizations against infectious diseases, including each immunization on the recommended adult immunization schedule at the time such immunization is indicated on that schedule;
 
 &emsp;(G) prevention of musculoskeletal deformity or other gradually developing disabilities of a metabolic or degenerative nature;
 
@@ -74,7 +74,9 @@ For the purposes of this chapter—
 
 &emsp;(K) such other health-care services as the Secretary may determine to be necessary to provide effective and economical preventive health care.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140.)
+(10) The term "recommended adult immunization schedule" means the schedule established (and periodically reviewed and, as appropriate, revised) by the Advisory Committee on Immunization Practices established by the Secretary of Health and Human Services and delegated to the Centers for Disease Control and Prevention.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, §602(a), Dec. 16, 2016, 130 Stat. 1569.)
 
 #### Codification
 
@@ -86,6 +88,10 @@ Prior sections 1700 and 1701 were renumbered sections 3500 and 3501 of this titl
 
 #### Amendments
 
+<b>2016</b>—Par. (9)(F). Pub. L. 114–315, §602(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "immunizations against infectious disease;".
+
+Par. (10). Pub. L. 114–315, §602(a)(2), added par. (10).
+
 <b>2008</b>—Par. (5)(B). Pub. L. 110–387, §301(a)(1), inserted "marriage and family counseling," after "professional counseling," and substituted "as the Secretary considers appropriate for" for "as may be essential to".
 
 Par. (6)(E) to (G). Pub. L. 110–387, §801(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
@@ -94,11 +100,11 @@ Par. (10). Pub. L. 110–387, §801(1), struck out par. (10) which read as follo
 
 "(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2008, the term 'medical services' includes noninstitutional extended care services.
 
-"(B) For the purposes of subparagraph (A), the term 'noninstitutional extended care services' means suchalternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor."
+"(B) For the purposes of subparagraph (A), the term 'noninstitutional extended care services' means such alternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor."
 
 <b>2003</b>—Par. (8). Pub. L. 108–170, §104(a), struck out "(other than those types of vocational rehabilitation services provided under chapter 31 of this title)" after "programs".
 
-Par. (10)(A). Pub. L. 108–170, §106(a), substituted "November 30, 1999, and ending on December 31, 2008," for "the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,".
+Par. (10)(A). Pub. L. 108–170, §106(a), substituted "November 30, 1999, and ending on December 31, 2008," for"the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,".
 
 <b>2002</b>—Par. (5). Pub. L. 107–135, §208(e)(2), substituted "1781(b)" for "1713(b)" in subpars. (B) and (C)(i).
 
@@ -170,7 +176,7 @@ Par. (6)(B)(ii). Pub. L. 99–272, §19011(d)(2)(B), substituted "section 612(f)
 
 Par. (9). Pub. L. 99–272, §19012(a)(2), added par. (9).
 
-<b>1985</b>—Par. (4)(C)(v). Pub. L. 99–166, §102(a), substituted "with respect to the Commonwealth of Puerto Ricoshall expire on September 30, 1988" for "(except with respect to Alaska and Hawaii) shall expire on October 31, 1985" and struck out "and to the Virgin Islands" before "of the restrictions in this subclause".
+<b>1985</b>—Par. (4)(C)(v). Pub. L. 99–166, §102(a), substituted "with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988" for "(except with respect to Alaska and Hawaii) shall expire on October 31, 1985" and struck out "and to the Virgin Islands" before "of the restrictions in this subclause".
 
 Pub. L. 99–108 substituted "October 31, 1985" for "September 30, 1985".
 
@@ -212,7 +218,7 @@ Par. (7). Pub. L. 94–581, §102(3), substituted "necessary medical services an
 
 Par. (8). Pub. L. 94–581, §102(4), added par. (8).
 
-<b>1973</b>—Par. (4)(C). Pub. L. 93–82, §101(a), extended the Administrator's contract authority for providing hospital care and medical services to persons sufferingfrom service-connected disabilities or from disabilities for which such persons were discharged or released from the active military, naval, or air service and removed the limitation on such authority that such care be rendered in emergency cases only.
+<b>1973</b>—Par. (4)(C). Pub. L. 93–82, §101(a), extended the Administrator's contract authority for providing hospital care and medical services to persons suffering from service-connected disabilities or from disabilities for which such persons were discharged or released from the active military, naval, or air service and removed the limitation on such authority that such care be rendered in emergency cases only.
 
 Par. (5). Pub. L. 93–82, §101(b), incorporated existing provisions in subpar. (A) and added subpars. (B) and (C).
 
@@ -247,6 +253,1114 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date of 1973 Amendment
 
 Pub. L. 93–82, title V, §501, Aug. 2, 1973, 87 Stat. 196, provided that: "The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under section 1732 of this title\] shall be effective July 1, 1973; and section 203 \[amending former section 4107 of this title\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\]."
+
+#### Construction of 2016 Amendment
+
+Pub. L. 114–315, title VI, §602(d), Dec. 16, 2016, 130 Stat. 1570, provided that: "Nothing in this section \[amending this section and section 1704 of this title\] or the amendments made by this section may be construed to require a veteran to receive an immunization that the veteran does not want to receive."
+
+#### Faster Care for Veterans
+
+Pub. L. 114–286, Dec. 16, 2016, 130 Stat. 1459, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Faster Care for Veterans Act of 2016'.
+
+#### "SEC. 2. PILOT PROGRAM ESTABLISHING A PATIENT SELF-SCHEDULING APPOINTMENT SYSTEM.
+
+"(a)
+
+Pilot Program.—Not later than 120 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Veterans Affairs shall commence a pilot program under which veterans use an Internet website or mobile application to schedule and confirm medical appointments at medical facilities of the Department of Veterans Affairs.
+
+"(b)
+
+Selection of Locations.—The Secretary shall select not less than three Veterans Integrated Services Networks in which to carry out the pilot program under subsection (a).
+
+"(c)
+
+Contracts.—
+
+&emsp;"(1)
+
+Authority.—The Secretary shall seek to enter into a contract using competitive procedures with one or more contractors to provide the scheduling capability described in subsection (a).
+
+&emsp;"(2)
+
+Notice of competition.—Not later than 60 days after the date of the enactment of this Act, the Secretary shall issue a request for proposals for the contract described in paragraph (1). Such request shall be full and open to any contractor that has an existing commercially available, off-the-shelf online patient self-scheduling system that includes the capabilities specified in section 3(a).
+
+&emsp;"(3)
+
+Selection.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall award a contract to one or more contractors pursuant to the request for proposals under paragraph (2).
+
+"(d)
+
+Duration of Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Except as provided by paragraph (2), the Secretary shall carry out the pilot program under subsection (a) for an 18-month period.
+
+&emsp;"(2)
+
+Extension.—The Secretary may extend the duration of the pilot program under subsection (a), and may expand the selection of Veterans Integrated Services Networks under subsection (b), if the Secretary determines that the pilot program is reducing the wait times of veterans seeking medical care and ensuring that more available appointment times are filled.
+
+"(e)
+
+Mobile Application Defined.—In this section, the term 'mobile application' means a software program that runs on the operating system of a cellular telephone, tablet computer, or similar portable computing device that transmits data over a wireless connection.
+
+#### "SEC. 3. CAPABILITIES OF PATIENT SELF-SCHEDULING APPOINTMENT SYSTEM.
+
+"(a)
+
+Minimum Capabilities.—The Secretary of Veterans Affairs shall ensure that the patient self-scheduling appointment system used in the pilot program under section 2, and any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs, includes, at a minimum, the following capabilities:
+
+&emsp;"(1) Capability to schedule, modify, and cancel appointments for primary care, specialty care, and mental health.
+
+&emsp;"(2) Capability to support appointments for the provision of health care regardless of whether such care is provided in person or through telehealth services.
+
+&emsp;"(3) Capability to view appointment availability in real time.
+
+&emsp;"(4) Capability to make available, in real time, appointments that were previously filled but later cancelled by other patients.
+
+&emsp;"(5) Capability to provide prompts or reminders to veterans to schedule follow-up appointments.
+
+&emsp;"(6) Capability to be used 24 hours per day, 7 days per week.
+
+&emsp;"(7) Capability to integrate with the Veterans Health Information Systems and Technology Architecture of the Department, or such successor information technology system.
+
+"(b)
+
+Independent Validation and Verification.—
+
+&emsp;"(1)
+
+Independent entity.—
+
+&emsp;&emsp;"(A) The Secretary shall seek to enter into an agreement with an appropriate non-governmental, not-for-profit entity with expertise in health information technology to independently validate and verify that the patient self-scheduling appointment system used in the pilot program under section 2, and any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs, includes the capabilities specified in subsection (a).
+
+&emsp;&emsp;"(B) Each independent validation and verification conducted under subparagraph (A) shall be completed as follows:
+
+&emsp;&emsp;&emsp;"(i) With respect to the validation and verification of the patient self-scheduling appointment system used in the pilot program under section 2, by not later than 60 days after the date on which such pilot program commences.
+
+&emsp;&emsp;&emsp;"(ii) With respect to any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs, by not later than 60 days after the date on which such system is deployed, regardless of whether such deployment is on a limited basis, but not including any deployments for testing purposes.
+
+&emsp;"(2)
+
+GAO evaluation.—
+
+&emsp;&emsp;"(A) The Comptroller General of the United States shall evaluate each validation and verification conducted under paragraph (1).
+
+&emsp;&emsp;"(B) Not later than 30 days after the date on which the Comptroller General completes an evaluation under paragraph (1), the Comptroller General shall submit to the appropriate congressional committees a report on such evaluation.
+
+&emsp;&emsp;"(C) In this paragraph, the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;&emsp;"(i) the Committees on Veterans' Affairs of the House of Representatives and the Senate; and
+
+&emsp;&emsp;&emsp;"(ii) the Committees on Appropriations of the House of Representatives and the Senate.
+
+"(c)
+
+Certification.—
+
+&emsp;"(1)
+
+Capabilities included.—Not later than December 31, 2017, the Secretary shall certify to the Committees on Veterans' Affairs of the House of Representatives and the Senate that the patient self-scheduling appointment system used in the pilot program under section 2, and any other patient self-scheduling appointment system developed or used by the Department of Veterans Affairs as of the date of the certification, includes the capabilities specified in subsection (a).
+
+&emsp;"(2)
+
+New systems.—If the Secretary develops or begins using a new patient self-scheduling appointment system that is not covered by a certification made under paragraph (1), the Secretary shall certify to such committees that such new system includes the capabilities specified in subsection (a) by not later than 30 days after the date on which the Secretary determines to replace the previous patient self-scheduling appointment system.
+
+&emsp;"(3)
+
+Effect of capabilities not included.—If the Secretary does not make a timely certification under paragraph (1) or paragraph (2), the Secretary shall replace any patient self-scheduling appointment system developed by the Secretary that is in use with a commercially available, off-the-shelf online patient self-scheduling system that includes the capabilities specified in subsection (a).
+
+#### "SEC. 4. PROHIBITION ON NEW APPROPRIATIONS.
+
+"No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized."
+
+#### Inspection Program for Kitchens and Food Service Areas at Department of Veterans Affairs Medical Facilities
+
+Pub. L. 114–223, div. A, title II, §251, Sept. 29, 2016, 130 Stat. 893, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Sept. 29, 2016\], the Secretary of Veterans Affairs shall establish a program to conduct inspections of kitchens and food service areas at each medical facility of the Department of Veterans Affairs. Such inspections shall occur not less frequently than annually. The program's goal is to ensure that the same standards for kitchens and food service areas at hospitals in the private sector are being met at kitchens and food service areas at medical facilities of the Department.
+
+"(b)
+
+Agreement.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall seek to enter into an agreement with the Joint Commission on Accreditation of Hospital Organizations under which the Joint Commission on Accreditation of Hospital Organizations conducts the inspections required under subsection (a).
+
+&emsp;"(2)
+
+Alternate organization.—If the Secretary is unable to enter into an agreement described in paragraph (1) with the Joint Commission on Accreditation of Hospital Organizations on terms acceptable to the Secretary, the Secretary shall seek to enter into such an agreement with another appropriate organization that—
+
+&emsp;&emsp;"(A) is not part of the Federal Government;
+
+&emsp;&emsp;"(B) operates as a not-for-profit entity; and
+
+&emsp;&emsp;"(C) has expertise and objectivity comparable to that of the Joint Commission on Accreditation of Hospital Organizations.
+
+"(c)
+
+Remediation Plan.—
+
+&emsp;"(1)
+
+Initial failure.—If a kitchen or food service area of a medical facility of the Department is determined pursuant to an inspection conducted under subsection (a) not to meet the standards for kitchens and food service areas in hospitals in the private sector, that medical facility fails the inspection and the Secretary shall—
+
+&emsp;&emsp;"(A) implement a remediation plan for that medical facility within 72 hours; and
+
+&emsp;&emsp;"(B) Conduct \[sic\] a second inspection under subsection (a) at that medical facility within 14 days of the failed inspection.
+
+&emsp;"(2)
+
+Second failure.—If a medical facility of the Department fails the second inspection conducted under paragraph (1)(B), the Secretary shall close the kitchen or food service area at that medical facility that did not meet the standards for kitchens and food service areas in hospitals in the private sector until full remediation is completed and all kitchens and food service areas at that medical facility meet such standards.
+
+&emsp;"(3)
+
+Provision of food.—If a kitchen or food service area is closed at a medical facility of the Department pursuant to paragraph (2), the Director of the Veterans Integrated Service Network in which the medical facility is located shall enter into a contract with a vendor approved by the General Services Administration to provide food at the medical facility.
+
+"(d)
+
+Quarterly Reports.—Not less frequently than quarterly, the Under Secretary of Health shall submit to Congress a report on inspections conducted under this section, and their detailed findings and actions taken, during the preceding quarter at medical facilities of the Department."
+
+#### Mold Inspection Program for Department of Veterans Affairs Medical Facilities
+
+Pub. L. 114–223, div. A, title II, §252, Sept. 29, 2016, 130 Stat. 894, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Sept. 29, 2016\], the Secretary of Veterans Affairs shall establish a program to conduct risk-based inspections for mold and mold issues at each medical facility of the Department of Veterans Affairs. Such facilities will be rated high, medium, or low risk for mold. Such inspections at facilities rated high risk shall occur not less frequently than annually, and such inspections at facilities rated medium or low risk shall occur not less frequently than biennially.
+
+"(b)
+
+Agreement.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall seek to enter into an agreement with the Joint Commission on Accreditation of Hospital Organizations under which the Joint Commission on Accreditation of Hospital Organizations conducts the inspections required under subsection (a).
+
+&emsp;"(2)
+
+Alternate organization.—If the Secretary is unable to enter into an agreement described in paragraph (1) with the Joint Commission on Accreditation of Hospital Organizations on terms acceptable to the Secretary, the Secretary shall seek to enter into such an agreement with another appropriate organization that—
+
+&emsp;&emsp;"(A) is not part of the Federal Government;
+
+&emsp;&emsp;"(B) operates as a not-for-profit entity; and
+
+&emsp;&emsp;"(C) has expertise and objectivity comparable to that of the Joint Commission on Accreditation of Hospital Organizations.
+
+"(c)
+
+Remediation Plan.—If a medical facility of the Department is determined pursuant to an inspection conducted under subsection (a) to have a mold issue, the Secretary shall—
+
+&emsp;"(1) implement a remediation plan for that medical facility within 7 days; and
+
+&emsp;"(2) Conduct \[sic\] a second inspection under subsection (a) at that medical facility within 90 days of the initial inspection.
+
+"(d)
+
+Quarterly Reports.—Not less frequently than quarterly, the Under Secretary for Health shall submit to Congress a report on inspections conducted under this section, and their detailed findings and actions taken, during the preceding quarter at medical facilities of the Department."
+
+#### Improvement of Health Care Relating to Use of Opioids, Patient Advocacy, Complementary and Integrative Health, and Fitness of Providers
+
+Pub. L. 114–198, title IX, July 22, 2016, 130 Stat. 755, provided that:
+
+#### "SEC. 901. SHORT TITLE.
+
+"This title may be cited as the 'Jason Simcakoski Memorial and Promise Act'.
+
+#### "SEC. 902. DEFINITIONS.
+
+"In this title:
+
+&emsp;"(1) The term 'controlled substance' has the meaning given that term in section 102 of the Controlled Substances Act (21 U.S.C. 802).
+
+&emsp;"(2) The term 'State' means each of the several States, territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+&emsp;"(3) The term 'complementary and integrative health' has the meaning given that term, or any successor term, by the National Institutes of Health.
+
+&emsp;"(4) The term 'opioid receptor antagonist' means a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) for emergency treatment of known or suspected opioid overdose.
+
+#### "Subtitle A—Opioid Therapy and Pain Management
+
+#### "SEC. 911. IMPROVEMENT OF OPIOID SAFETY MEASURES BY DEPARTMENT OF VETERANS AFFAIRS.
+
+"(a)
+
+Expansion of Opioid Safety Initiative.—
+
+&emsp;"(1)
+
+Inclusion of all medical facilities.—Not later than 180 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs shall expand the Opioid Safety Initiative of the Department of Veterans Affairs to include all medical facilities of the Department.
+
+&emsp;"(2)
+
+Guidance.—The Secretary shall establish guidance that each health care provider of the Department of Veterans Affairs, before initiating opioid therapy to treat a patient as part of the comprehensive assessment conducted by the health care provider, use the Opioid Therapy Risk Report tool of the Department of Veterans Affairs (or any subsequent tool), which shall include information from the prescription drug monitoring program of each participating State as applicable, that includes the most recent information to date relating to the patient that accessed such program to assess the risk for adverse outcomes of opioid therapy for the patient, including the concurrent use of controlled substances such as benzodiazepines, as part of the comprehensive assessment conducted by the health care provider.
+
+&emsp;"(3)
+
+Enhanced standards.—The Secretary shall establish enhanced standards with respect to the use of routine and random urine drug tests for all patients before and during opioid therapy to help prevent substance abuse, dependence, and diversion, including—
+
+&emsp;&emsp;"(A) that such tests occur not less frequently than once each year or as otherwise determined according to treatment protocols; and
+
+&emsp;&emsp;"(B) that health care providers appropriately order, interpret and respond to the results from such tests to tailor pain therapy, safeguards, and risk management strategies to each patient.
+
+"(b)
+
+Pain Management Education and Training.—
+
+&emsp;"(1)
+
+In general.—In carrying out the Opioid Safety Initiative of the Department, the Secretary shall require all employees of the Department responsible for prescribing opioids to receive education and training described in paragraph (2).
+
+&emsp;"(2)
+
+Education and training.—Education and training described in this paragraph is education and training on pain management and safe opioid prescribing practices for purposes of safely and effectively managing patients with chronic pain, including education and training on the following:
+
+&emsp;&emsp;"(A) The implementation of and full compliance with the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain, including any update to such guideline.
+
+&emsp;&emsp;"(B) The use of evidence-based pain management therapies and complementary and integrative health services, including cognitive-behavioral therapy, non-opioid alternatives, and non-drug methods and procedures to managing pain and related health conditions including, to the extent practicable, medical devices approved or cleared by the Food and Drug Administration for the treatment of patients with chronic pain and related health conditions.
+
+&emsp;&emsp;"(C) Screening and identification of patients with substance use disorder, including drug-seeking behavior, before prescribing opioids, assessment of risk potential for patients developing an addiction, and referral of patients to appropriate addiction treatment professionals if addiction is identified or strongly suspected.
+
+&emsp;&emsp;"(D) Communication with patients on the potential harm associated with the use of opioids and other controlled substances, including the need to safely store and dispose of supplies relating to the use of opioids and other controlled substances.
+
+&emsp;&emsp;"(E) Such other education and training as the Secretary considers appropriate to ensure that veterans receive safe and high-quality pain management care from the Department.
+
+&emsp;"(3)
+
+Use of existing program.—In providing education and training described in paragraph (2), the Secretary shall use the Interdisciplinary Chronic Pain Management Training Team Program of the Department (or successor program).
+
+"(c)
+
+Pain Management Teams.—
+
+&emsp;"(1)
+
+In general.—In carrying out the Opioid Safety Initiative of the Department, the director of each medical facility of the Department shall identify and designate a pain management team of health care professionals, which may include board certified pain medicine specialists, responsible for coordinating and overseeing pain management therapy at such facility for patients experiencing acute and chronic pain that is non-cancer related.
+
+&emsp;"(2)
+
+Establishment of protocols.—
+
+&emsp;&emsp;"(A)
+
+In general.—In consultation with the Directors of each Veterans Integrated Service Network,the Secretary shall establish standard protocols for the designation of pain management teams at each medical facility within the Department.
+
+&emsp;&emsp;"(B)
+
+Consultation on prescription of opioids.—Each protocol established under subparagraph (A) shall ensure that any health care provider without expertise in prescribing analgesics or who has not completed the education and training under subsection (b), including a mental health care provider, does not prescribe opioids to a patient unless that health care provider—
+
+&emsp;&emsp;&emsp;"(i) consults with a health care provider with pain management expertise or who is on the pain management team of the medical facility; and
+
+&emsp;&emsp;&emsp;"(ii) refers the patient to the pain management team for any subsequent prescriptions and related therapy.
+
+&emsp;"(3)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of enactment of this Act \[July 22, 2016\], the director of each medical facility of the Department shall submit to the Under Secretary for Health and the director of the Veterans Integrated Service Network in which the medical facility is located a report identifying the health care professionals that have been designated as members of the pain management team at the medical facility pursuant to paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Elements.—Each report submitted under subparagraph (A) with respect to a medical facility of the Department shall include—
+
+&emsp;&emsp;&emsp;"(i) a certification as to whether all members of the pain management team at the medical facility have completed the education and training required under subsection (b);
+
+&emsp;&emsp;&emsp;"(ii) a plan for the management and referral of patients to such pain management team if health care providers without expertise in prescribing analgesics prescribe opioid medications to treat acute and chronic pain that is non-cancer related; and
+
+&emsp;&emsp;&emsp;"(iii) a certification as to whether the medical facility—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) fully complies with the stepped-care model, or successor models, of pain management and other pain management policies of the Department; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) does not fully comply with such stepped-care model, or successor models, of pain management and other pain management policies but is carrying out a corrective plan of action to ensure such full compliance.
+
+"(d)
+
+Tracking and Monitoring of Opioid Use.—
+
+&emsp;"(1)
+
+Prescription drug monitoring programs of states.—In carrying out the Opioid Safety Initiative and the Opioid Therapy Risk Report tool of the Department, the Secretary shall—
+
+&emsp;&emsp;"(A) ensure access by health care providers of the Department to information on controlled substances, including opioids and benzodiazepines, prescribed to veterans who receive care outside the Department through the prescription drug monitoring program of each State with such a program, including by seeking to enter into memoranda of understanding with States to allow shared access of such information between States and the Department;
+
+&emsp;&emsp;"(B) include such information in the Opioid Therapy Risk Report tool; and
+
+&emsp;&emsp;"(C) require health care providers of the Department to submit to the prescription drug monitoring program of each State with such a program information on prescriptions of controlled substances received by veterans in that State under the laws administered by the Secretary.
+
+&emsp;"(2)
+
+Report on tracking of data on opioid use.—Not later than 18 months after the date of the enactment of this Act \[July 22, 2016\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the feasibility and advisability of improving the Opioid Therapy Risk Report tool of the Department to allow for more advanced real-time tracking of and access to data on—
+
+&emsp;&emsp;"(A) the key clinical indicators with respect to the totality of opioid use by veterans;
+
+&emsp;&emsp;"(B) concurrent prescribing by health care providers of the Department of opioids in different health care settings, including data on concurrent prescribing of opioids to treat mental health disorders other than opioid use disorder; and
+
+&emsp;&emsp;"(C) mail-order prescriptions of opioids prescribed to veterans under the laws administered by the Secretary.
+
+"(e)
+
+Availability of Opioid Receptor Antagonists.—
+
+&emsp;"(1)
+
+Increased availability and use.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall maximize the availability of opioid receptor antagonists, including naloxone, to veterans.
+
+&emsp;&emsp;"(B)
+
+Availability, training, and distributing.—In carrying out subparagraph (A), not later than 90 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary shall—
+
+&emsp;&emsp;&emsp;"(i) equip each pharmacy of the Department with opioid receptor antagonists to be dispensed to outpatients as needed; and
+
+&emsp;&emsp;&emsp;"(ii) expand the Overdose Education and Naloxone Distribution program of the Department to ensure that all veterans in receipt of health care under laws administered by the Secretary who are at risk of opioid overdose may access such opioid receptor antagonists and training on the proper administration of such opioid receptor antagonists.
+
+&emsp;&emsp;"(C)
+
+Veterans who are at risk.—For purposes of subparagraph (B), veterans who are at risk of opioid overdose include—
+
+&emsp;&emsp;&emsp;"(i) veterans receiving long-term opioid therapy;
+
+&emsp;&emsp;&emsp;"(ii) veterans receiving opioid therapy who have a history of substance use disorder or prior instances of overdose; and
+
+&emsp;&emsp;&emsp;"(iii) veterans who are at risk as determined by a health care provider who is treating the veteran.
+
+&emsp;"(2)
+
+Report.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on carrying out paragraph (1), including an assessment of any remaining steps to be carried out by the Secretary to carry out such paragraph.
+
+"(f)
+
+Inclusion of Certain Information and Capabilities in Opioid Therapy Risk Report Tool of the Department.—
+
+&emsp;"(1)
+
+Information.—The Secretary shall include in the Opioid Therapy Risk Report tool of the Department—
+
+&emsp;&emsp;"(A) information on the most recent time the tool was accessed by a health care provider of the Department with respect to each veteran; and
+
+&emsp;&emsp;"(B) information on the results of the most recent urine drug test for each veteran.
+
+&emsp;"(2)
+
+Capabilities.—The Secretary shall include in the Opioid Therapy Risk Report tool the ability of the health care providers of the Department to determine whether a health care provider of the Department prescribed opioids to a veteran without checking the information in the tool with respect to the veteran.
+
+"(g)
+
+Notifications of Risk in Computerized Health Record.—The Secretary shall modify the computerized patient record system of the Department to ensure that any health care provider that accesses the record of a veteran, regardless of the reason the veteran seeks care from the health care provider, will be immediately notified whether the veteran—
+
+&emsp;"(1) is receiving opioid therapy and has a history of substance use disorder or prior instances of overdose;
+
+&emsp;"(2) has a history of opioid abuse; or
+
+&emsp;"(3) is at risk of developing an opioid use disorder, as determined by a health care provider who is treating the veteran.
+
+#### "SEC. 912. STRENGTHENING OF JOINT WORKING GROUP ON PAIN MANAGEMENT OF THE DEPARTMENT OF VETERANS AFFAIRS AND THE DEPARTMENT OF DEFENSE.
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs and the Secretary of Defense shall ensure that the Pain Management Working Group of the Health Executive Committee of the Department of Veterans Affairs–Department of Defense Joint Executive Committee (Pain Management Working Group) established under section 320 of title 38, United States Code, includes a focus on the following:
+
+&emsp;"(1) The opioid prescribing practices of health care providers of each Department.
+
+&emsp;"(2) The ability of each Department to manage acute and chronic pain among individuals receiving health care from the Department, including training health care providers with respect to pain management.
+
+&emsp;"(3) The use by each Department of complementary and integrative health in treating such individuals.
+
+&emsp;"(4) The concurrent use and practice by health care providers of each Department of opioids and prescription drugs to treat mental health disorders, including benzodiazepines.
+
+&emsp;"(5) The use of care transition plans by health care providers of each Department to address case management issues for patients receiving opioid therapy who transition between inpatient and outpatient care.
+
+&emsp;"(6) The coordination in coverage of and consistent access to medications prescribed for patients transitioning from receiving health care from the Department of Defense to receiving health care from the Department of Veterans Affairs.
+
+&emsp;"(7) The ability of each Department to properly screen, identify, refer, and treat patients with substance use disorders who are seeking treatment for acute and chronic pain management conditions.
+
+"(b)
+
+Coordination and Consultation.—The Secretary of Veterans Affairs and the Secretary of Defense shall ensure that the working group described in subsection (a)—
+
+&emsp;"(1) coordinates the activities of the working group with other relevant working groups established under section 320 of title 38, United States Code;
+
+&emsp;"(2) consults with other relevant Federal agencies, including the Centers for Disease Control and Prevention, with respect to the activities of the working group; and
+
+&emsp;"(3) consults with the Department of Veterans Affairs and the Department of Defense with respect to the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain, or any successor guideline, and reviews and provides comments before any update to the guideline is released.
+
+"(c)
+
+Clinical Practice Guidelines.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs and the Secretary of Defense shall issue an update to the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain.
+
+&emsp;"(2)
+
+Matters included.—In conducting the update under paragraph (1), the Pain Management Working Group, in coordination with the Clinical Practice Guideline VA/DoD \[sic\] Management of Opioid Therapy for Chronic Pain Working Group, shall work to ensure that the Clinical Practical Guideline includes the following:
+
+&emsp;&emsp;"(A) Enhanced guidance with respect to—
+
+&emsp;&emsp;&emsp;"(i) the co-administration of an opioid and other drugs, including benzodiazepines, that may result in life-limiting drug interactions;
+
+&emsp;&emsp;&emsp;"(ii) the treatment of patients with current acute psychiatric instability or substance use disorder or patients at risk of suicide; and
+
+&emsp;&emsp;&emsp;"(iii) the use of opioid therapy to treat mental health disorders other than opioid use disorder.
+
+&emsp;&emsp;"(B) Enhanced guidance with respect to the treatment of patients with behaviors or comorbidities, such as post-traumatic stress disorder or other psychiatric disorders, or a history of substance abuse or addiction, that requires a consultation or co-management of opioid therapy with one or more specialists in pain management, mental health, or addictions.
+
+&emsp;&emsp;"(C) Enhanced guidance with respect to health care providers—
+
+&emsp;&emsp;&emsp;"(i) conducting an effective assessment for patients beginning or continuing opioid therapy, including understanding and setting realistic goals with respect to achieving and maintaining an expected level of pain relief, improved function, or a clinically appropriate combination of both; and
+
+&emsp;&emsp;&emsp;"(ii) effectively assessing whether opioid therapy is achieving or maintaining the established treatment goals of the patient or whether the patient and health care provider should discuss adjusting, augmenting, or discontinuing the opioid therapy.
+
+&emsp;&emsp;"(D) Guidelines to inform the methodologies used by health care providers of the Department of Veterans Affairs and the Department of Defense to safely taper opioid therapy when adjusting or discontinuing the use of opioid therapy, including—
+
+&emsp;&emsp;&emsp;"(i) prescription of the lowest effective dose based on patient need;
+
+&emsp;&emsp;&emsp;"(ii) use of opioids only for a limited time; and
+
+&emsp;&emsp;&emsp;"(iii) augmentation of opioid therapy with other pain management therapies and modalities.
+
+&emsp;&emsp;"(E) Guidelines with respect to appropriate case management for patients receiving opioid therapy who transition between inpatient and outpatient health care settings, which may include the use of care transition plans.
+
+&emsp;&emsp;"(F) Guidelines with respect to appropriate case management for patients receiving opioid therapy who transition from receiving care during active duty to post-military health care networks.
+
+&emsp;&emsp;"(G) Guidelines with respect to providing options, before initiating opioid therapy, for pain management therapies without the use of opioids and options to augment opioid therapy with other clinical and complementary and integrative health services to minimize opioid dependence.
+
+&emsp;&emsp;"(H) Guidelines with respect to the provision of evidence-based non-opioid treatments within the Department of Veterans Affairs and the Department of Defense, including medical devices and other therapies approved or cleared by the Food and Drug Administration for the treatment of chronic pain as an alternative to or to augment opioid therapy.
+
+&emsp;&emsp;"(I) Guidelines developed by the Centers for Disease Control and Prevention for safely prescribing opioids for the treatment of chronic, non-cancer related pain in outpatient settings.
+
+&emsp;"(3)
+
+Rule of construction.—Nothing in this subsection shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain, as required under paragraph (1), or from ensuring that the final clinical practice guideline updated under such paragraph remains applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense.
+
+#### "SEC. 913. REVIEW, INVESTIGATION, AND REPORT ON USE OF OPIOIDS IN TREATMENT BY DEPARTMENT OF VETERANS AFFAIRS.
+
+"(a)
+
+Comptroller General Report.—
+
+&emsp;"(1)
+
+In general.—Not later than two years after the date of the enactment of this Act \[July 22, 2016\], the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the Opioid Safety Initiative of the Department of Veterans Affairs and the opioid prescribing practices of health care providers of the Department.
+
+&emsp;"(2)
+
+Elements.—The report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of the implementation and monitoring by the Veterans Health Administration of the Opioid Safety Initiative of the Department, including examining, as appropriate, the following:
+
+&emsp;&emsp;&emsp;"(i) How the Department monitors the key clinical outcomes of such safety initiative (for example, the percentage of unique veterans visiting each medical center of the Department that are prescribed an opioid or an opioid and benzodiazepine concurrently) and how the Department uses that information—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to improve prescribing practices; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to identify high prescribing or otherwise inappropriate prescribing practices by health care providers.
+
+&emsp;&emsp;&emsp;"(ii) How the Department monitors the use of the Opioid Therapy Risk Report tool of the Department (as developed through such safety initiative) and compliance with such tool by medical facilities and health care providers of the Department, including any findings by the Department of prescription rates or prescription practices by medical facilities or health care providers that are inappropriate.
+
+&emsp;&emsp;&emsp;"(iii) The implementation of academic detailing programs within the Veterans Integrated Service Networks of the Department and how such programs are being used to improve opioid prescribing practices.
+
+&emsp;&emsp;&emsp;"(iv) Recommendations on such improvements to the Opioid Safety Initiative of the Department as the Comptroller General considers appropriate.
+
+&emsp;&emsp;"(B) Information made available under the Opioid Therapy Risk Report tool with respect to—
+
+&emsp;&emsp;&emsp;"(i) deaths resulting from sentinel events involving veterans prescribed opioids by a health care provider;
+
+&emsp;&emsp;&emsp;"(ii) overall prescription rates and, if applicable, indications used by health care providers for prescribing chronic opioid therapy to treat non-cancer, non-palliative, and non-hospice care patients;
+
+&emsp;&emsp;&emsp;"(iii) the prescription rates and indications used by health care providers for prescribing benzodiazepines and opioids concomitantly;
+
+&emsp;&emsp;&emsp;"(iv) the practice by health care providers of prescribing opioids to treat patients without any pain, including to treat patients with mental health disorders other than opioid use disorder; and
+
+&emsp;&emsp;&emsp;"(v) the effectiveness of opioid therapy for patients receiving such therapy, including the effectiveness of long-term opioid therapy.
+
+&emsp;&emsp;"(C) An evaluation of processes of the Department in place to oversee opioid use among veterans, including procedures to identify and remedy potential over-prescribing of opioids by health care providers of the Department.
+
+&emsp;&emsp;"(D) An assessment of the implementation by the Secretary of Veterans Affairs of the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain, including any figures or approaches used by the Department to assess compliance with such guidelines by medical centers of the Department and identify any medical centers of the Department operating action plans to improve compliance with such guidelines.
+
+&emsp;&emsp;"(E) An assessment of the data that the Department has developed to review the opioid prescribing practices of health care providers of the Department, as required by this subtitle, including a review of how the Department identifies the practices of individual health care providers that warrant further review based on prescribing levels, health conditions for which the health care provider is prescribing opioids or opioids and benzodiazepines concurrently, or other practices of the health care provider.
+
+"(b)
+
+Semi-annual Progress Report on Implementation of Comptroller General Recommendations.—Not later than 180 days after the date of the submittal of the report required under subsection (a), and not less frequently than annually thereafter until the Comptroller General of the United States determines that all recommended actions are closed, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a progress report detailing the actions by the Secretary to address any outstanding findings and recommendations by the Comptroller General of the United States under subsection (a) with respect to the Veterans Health Administration.
+
+"(c)
+
+Annual Report on Opioid Therapy and Prescription Rates.—Not later than one year after the date of the enactment of this Act \[July 22, 2016\], and not less frequently than annually for the following five years, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on opioid therapy and prescription rates for the one-year period preceding the date of the submission of the report. Each such report shall include each of the following:
+
+&emsp;"(1) The number of patients and the percentage of the patient population of the Department who were prescribed benzodiazepines and opioids concurrently by a health care provider of the Department.
+
+&emsp;"(2) The number of patients and the percentage of the patient population of the Department without any pain who were prescribed opioids by a health care provider of the Department, including those who were prescribed benzodiazepines and opioids concurrently.
+
+&emsp;"(3) The number of non-cancer, non-palliative, and non-hospice care patients and the percentage of such patients who were treated with opioids by a health care provider of the Department on an inpatient-basis and who also received prescription opioids by mail from the Department while being treated on an inpatient-basis.
+
+&emsp;"(4) The number of non-cancer, non-palliative, and non-hospice care patients and the percentage of such patients who were prescribed opioids concurrently by a health care provider of the Department and a health care provider that is not a health care provider of the Department.
+
+&emsp;"(5) With respect to each medical facility of the Department, the collected and reviewed information on opioids prescribed by health care providers at the facility to treat non-cancer, non-palliative, and non-hospice care patients, including—
+
+&emsp;&emsp;"(A) the prescription rate at which each health care provider at the facility prescribed benzodiazepines and opioids concurrently to such patients and the aggregate of such prescription rate for all health care providers at the facility;
+
+&emsp;&emsp;"(B) the prescription rate at which each health care provider at the facility prescribed benzodiazepines or opioids to such patients to treat conditions for which benzodiazepines or opioids are not approved treatment and the aggregate of such prescription rate for all health care providers at the facility;
+
+&emsp;&emsp;"(C) the prescription rate at which each health care provider at the facility prescribed or dispensed mail-order prescriptions of opioids to such patients while such patients were being treated with opioids on an inpatient-basis and the aggregate of such prescription rate for all health care providers at the facility; and
+
+&emsp;&emsp;"(D) the prescription rate at which each health care provider at the facility prescribed opioids to such patients who were also concurrently prescribed opioids by a health care provider that is not a health care provider of the Department and the aggregate of such prescription rates for all health care providers at the facility.
+
+&emsp;"(6) With respect to each medical facility of the Department, the number of times a pharmacist at the facility overrode a critical drug interaction warning with respect to an interaction between opioids and another medication before dispensing such medication to a veteran.
+
+"(d)
+
+Investigation of Prescription Rates.—If the Secretary determines that a prescription rate with respect to a health care provider or medical facility of the Department conflicts with or is otherwise inconsistent with the standards of appropriate and safe care, the Secretary shall—
+
+&emsp;"(1) immediately notify the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives of such determination, including information relating to such determination, prescription rate, and health care provider or medical facility, as the case may be; and
+
+&emsp;"(2) through the Office of the Medical Inspector of the Veterans Health Administration, conduct a full investigation of the health care provider or medical facility, as the case may be.
+
+"(e)
+
+Prescription Rate Defined.—In this section, the term 'prescription rate' means, with respect to a health care provider or medical facility of the Department, each of the following:
+
+&emsp;"(1) The number of patients treated with opioids by the health care provider or at the medical facility, as the case may be, divided by the total number of pharmacy users of that health care provider or medical facility.
+
+&emsp;"(2) The average number of morphine equivalents per day prescribed by the health care provider or at the medical facility, as the case may be, to patients being treated with opioids.
+
+&emsp;"(3) Of the patients being treated with opioids by the health care provider or at the medical facility, as the case may be, the average number of prescriptions of opioids per patient.
+
+#### "SEC. 914. MANDATORY DISCLOSURE OF CERTAIN VETERAN INFORMATION TO STATE CONTROLLED SUBSTANCE MONITORING PROGRAMS.
+
+\[Amended section 5701 of this title.\]
+
+#### "SEC. 915. ELIMINATION OF COPAYMENT REQUIREMENT FOR VETERANS RECEIVING OPIOID ANTAGONISTS OR EDUCATION ON USE OF OPIOID ANTAGONISTS.
+
+"(a)
+
+Copayment for Opioid Antagonists.—\[Amended section 1722A of this title.\]
+
+"(b)
+
+Copayment for Education on Use of Opioid Antagonists.—\[Amended section 1710 of this title.\]
+
+#### "Subtitle B—Patient Advocacy
+
+#### "SEC. 921. COMMUNITY MEETINGS ON IMPROVING CARE FURNISHED BY DEPARTMENT OF VETERANS AFFAIRS.
+
+"(a)
+
+Community Meetings.—
+
+&emsp;"(1)
+
+Medical centers.—Not later than 90 days after the date of the enactment of this Act \[July 22, 2016\], and not less frequently than once every 90 days thereafter, the Secretary shall ensure that each medical facility of the Department of Veterans Affairs hosts a community meeting open to the public on improving health care furnished by the Secretary.
+
+&emsp;"(2)
+
+Community-based outpatient clinics.—Not later than one year after the date of the enactment of this Act, and not less frequently than annually thereafter, the Secretary shall ensure that each community-based outpatient clinic of the Department hosts a community meeting open to the public on improving health care furnished by the Secretary.
+
+"(b)
+
+Attendance by Director of Veterans Integrated Service Network or Designee.—
+
+&emsp;"(1)
+
+In general.—Each community meeting hosted by a medical facility or community-based outpatient clinic under subsection (a) shall be attended by the Director of the Veterans Integrated Service Network in which the medical facility or community-based outpatient clinic, as the case may be, is located. Subject to paragraph (2), the Director may delegate such attendance only to an employee who works in the Office of the Director.
+
+&emsp;"(2)
+
+Attendance by director.—Each Director of a Veterans Integrated Service Network shall personally attend not less than one community meeting under subsection (a) hosted by each medical facility located in the Veterans Integrated Service Network each year.
+
+"(c)
+
+Notice.—The Secretary shall notify the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and each Member of Congress (as defined in section 902) \[sic\] who represents the area in which the medical facility is located of a community meeting under subsection (a) by not later than 10 days before such community meeting occurs.
+
+#### "SEC. 922. IMPROVEMENT OF AWARENESS OF PATIENT ADVOCACY PROGRAM AND PATIENT BILL OF RIGHTS OF DEPARTMENT OF VETERANS AFFAIRS.
+
+"Not later than 90 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs shall, in as many prominent locations as the Secretary determines appropriate to be seen by the largest percentage of patients and family members of patients at each medical facility of the Department of Veterans Affairs—
+
+&emsp;"(1) display the purposes of the Patient Advocacy Program of the Department and the contact information for the patient advocate at such medical facility; and
+
+&emsp;"(2) display the rights and responsibilities of—
+
+&emsp;&emsp;"(A) patients and family members of patients at such medical facility; and
+
+&emsp;&emsp;"(B) with respect to community living centers and other residential facilities of the Department, residents and family members of residents at such medical facility.
+
+#### "SEC. 923. COMPTROLLER GENERAL REPORT ON PATIENT ADVOCACY PROGRAM OF DEPARTMENT OF VETERANS AFFAIRS.
+
+"(a)
+
+In General.—Not later than two years after the date of the enactment of this Act \[July 22, 2016\], the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the Patient Advocacy Program of the Department of Veterans Affairs (in this section referred to as the 'Program').
+
+"(b)
+
+Elements.—The report required by subsection (a) shall include the following:
+
+&emsp;"(1) A description of the Program, including—
+
+&emsp;&emsp;"(A) the purpose of the Program;
+
+&emsp;&emsp;"(B) the activities carried out under the Program; and
+
+&emsp;&emsp;"(C) the sufficiency of the Program in achieving the purpose of the Program.
+
+&emsp;"(2) An assessment of the sufficiency of staffing of employees of the Department responsible for carrying out the Program.
+
+&emsp;"(3) An assessment of the sufficiency of the training of such employees.
+
+&emsp;"(4) An assessment of—
+
+&emsp;&emsp;"(A) the awareness of the Program among veterans and family members of veterans; and
+
+&emsp;&emsp;"(B) the use of the Program by veterans and family members of veterans.
+
+&emsp;"(5) Such recommendations and proposals for improving or modifying the Program as the Comptroller General considers appropriate.
+
+&emsp;"(6) Such other information with respect to the Program as the Comptroller General considers appropriate.
+
+#### "SEC. 924. ESTABLISHMENT OF OFFICE OF PATIENT ADVOCACY OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+"(a)
+
+In General.—\[Enacted section 7309A of this title.\]
+
+"(b)
+
+Clerical Amendment.—\[Amended analysis of chapter 73 of this title.\]
+
+"(c)
+
+Date Fully Operational.—\[Enacted provisions set out as a note under section 7309A of this title.\]
+
+#### "Subtitle C—Complementary and Integrative Health
+
+#### "SEC. 931. EXPANSION OF RESEARCH AND EDUCATION ON AND DELIVERY OF COMPLEMENTARY AND INTEGRATIVE HEALTH TO VETERANS.
+
+"(a)
+
+Establishment.—There is established a commission to be known as the 'Creating Options for Veterans' Expedited Recovery' or the 'COVER Commission' (in this section referred to as the 'Commission'). The Commission shall examine the evidence-based therapy treatment model used by the Secretary of Veterans Affairs for treating mental health conditions of veterans and the potential benefits of incorporating complementary and integrative health treatments available in non-Department facilities (as defined in section 1701 of title 38, United States Code).
+
+"(b)
+
+Duties.—The Commission shall perform the following duties:
+
+&emsp;"(1) Examine the efficacy of the evidence-based therapy model used by the Secretary for treating mental health illnesses of veterans and identify areas to improve wellness-based outcomes.
+
+&emsp;"(2) Conduct a patient-centered survey within each of the Veterans Integrated Service Networks to examine—
+
+&emsp;&emsp;"(A) the experience of veterans with the Department of Veterans Affairs when seeking medical assistance for mental health issues through the health care system of the Department;
+
+&emsp;&emsp;"(B) the experience of veterans with non-Department facilities and health professionals for treating mental health issues;
+
+&emsp;&emsp;"(C) the preference of veterans regarding available treatment for mental health issues and which methods the veterans believe to be most effective;
+
+&emsp;&emsp;"(D) the experience, if any, of veterans with respect to the complementary and integrative health treatment therapies described in paragraph (3);
+
+&emsp;&emsp;"(E) the prevalence of prescribing prescription medication among veterans seeking treatment through the health care system of the Department as remedies for addressing mental health issues; and
+
+&emsp;&emsp;"(F) the outreach efforts of the Secretary regarding the availability of benefits and treatments for veterans for addressing mental health issues, including by identifying ways to reduce barriers to gaps in such benefits and treatments.
+
+&emsp;"(3) Examine available research on complementary and integrative health treatment therapies for mental health issues and identify what benefits could be made with the inclusion of such treatments for veterans, including with respect to—
+
+&emsp;&emsp;"(A) music therapy;
+
+&emsp;&emsp;"(B) equine therapy;
+
+&emsp;&emsp;"(C) training and caring for service dogs;
+
+&emsp;&emsp;"(D) yoga therapy;
+
+&emsp;&emsp;"(E) acupuncture therapy;
+
+&emsp;&emsp;"(F) meditation therapy;
+
+&emsp;&emsp;"(G) outdoor sports therapy;
+
+&emsp;&emsp;"(H) hyperbaric oxygen therapy;
+
+&emsp;&emsp;"(I) accelerated resolution therapy;
+
+&emsp;&emsp;"(J) art therapy;
+
+&emsp;&emsp;"(K) magnetic resonance therapy; and
+
+&emsp;&emsp;"(L) other therapies the Commission determines appropriate.
+
+&emsp;"(4) Study the sufficiency of the resources of the Department to ensure the delivery of quality health care for mental health issues among veterans seeking treatment within the Department.
+
+&emsp;"(5) Study the current treatments and resources available within the Department and assess—
+
+&emsp;&emsp;"(A) the effectiveness of such treatments and resources in decreasing the number of suicides per day by veterans;
+
+&emsp;&emsp;"(B) the number of veterans who have been diagnosed with mental health issues;
+
+&emsp;&emsp;"(C) the percentage of veterans using the resources of the Department who have been diagnosed with mental health issues;
+
+&emsp;&emsp;"(D) the percentage of veterans who have completed counseling sessions offered by the Department; and
+
+&emsp;&emsp;"(E) the efforts of the Department to expand complementary and integrative health treatments viable to the recovery of veterans with mental health issues as determined by the Secretary to improve the effectiveness of treatments offered by the Department.
+
+"(c)
+
+Membership.—
+
+&emsp;"(1)
+
+In general.—The Commission shall be composed of 10 members, appointed as follows:
+
+&emsp;&emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran.
+
+&emsp;&emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran.
+
+&emsp;&emsp;"(C) Two members appointed by the majority leader of the Senate, at least one of whom shall be a veteran.
+
+&emsp;&emsp;"(D) Two members appointed by the minority leader of the Senate, at least one of whom shall be a veteran.
+
+&emsp;&emsp;"(E) Two members appointed by the President, at least one of whom shall be a veteran.
+
+&emsp;"(2)
+
+Qualifications.—Members of the Commission shall be individuals who—
+
+&emsp;&emsp;"(A) are of recognized standing and distinction within the medical community with a background in treating mental health;
+
+&emsp;&emsp;"(B) have experience working with the military and veteran population; and
+
+&emsp;&emsp;"(C) do not have a financial interest in any of the complementary and integrative health treatments reviewed by the Commission.
+
+&emsp;"(3)
+
+Chairman.—The President shall designate a member of the Commission to be the Chairman.
+
+&emsp;"(4)
+
+Period of appointment.—Members of the Commission shall be appointed for the life of the Commission.
+
+&emsp;"(5)
+
+Vacancy.—A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+
+&emsp;"(6)
+
+Appointment deadline.—The appointment of members of the Commission in this section shall be made not later than 90 days after the date of the enactment of this Act \[July 22, 2016\].
+
+"(d)
+
+Powers of Commission.—
+
+&emsp;"(1)
+
+Meetings.—
+
+&emsp;&emsp;"(A)
+
+Initial meeting.—The Commission shall hold its first meeting not later than 30 days after a majority of members are appointed to the Commission.
+
+&emsp;&emsp;"(B)
+
+Meeting.—The Commission shall regularly meet at the call of the Chairman. Such meetings may be carried out through the use of telephonic or other appropriate telecommunication technology if the Commission determines that such technology will allow the members to communicate simultaneously.
+
+&emsp;"(2)
+
+Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive evidence as the Commission considers advisable to carry out the responsibilities of the Commission.
+
+&emsp;"(3)
+
+Information from federal agencies.—The Commission may secure directly from any department or agency of the Federal Government such information as the Commission considers necessary to carry out the duties of the Commission.
+
+&emsp;"(4)
+
+Information from nongovernmental organizations.—In carrying out its duties, the Commission may seek guidance through consultation with foundations, veteran service organizations, nonprofit groups, faith-based organizations, private and public institutions of higher education, and other organizations as the Commission determines appropriate.
+
+&emsp;"(5)
+
+Commission records.—The Commission shall keep an accurate and complete record of the actions and meetings of the Commission. Such record shall be made available for public inspection and the Comptroller General of the United States may audit and examine such record.
+
+&emsp;"(6)
+
+Personnel records.—The Commission shall keep an accurate and complete record of the actions and meetings of the Commission. Such record shall be made available for public inspection and the Comptroller General of the United States may audit and examine such records.
+
+&emsp;"(7)
+
+Compensation of members; travel expenses.—Each member shall serve without pay but shall receive travel expenses to perform the duties of the Commission, including per diem in lieu of substances \[sic\], at rates authorized under subchapter I of chapter 57 of title 5, United States Code.
+
+&emsp;"(8)
+
+Staff.—The Chairman, in accordance with rules agreed upon the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, without regard to the provision of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this paragraph may exceed the equivalent of that payable for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+&emsp;"(9)
+
+Personnel as federal employees.—
+
+&emsp;&emsp;"(A)
+
+In general.—The executive director and any personnel of the Commission are employees under section 2105 of title 5, United States Code, for purpose of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of such title.
+
+&emsp;&emsp;"(B)
+
+Members of the commission.—Subparagraph (A) shall not be construed to apply to members of the Commission.
+
+&emsp;"(10)
+
+Contracting.—The Commission may, to such extent and in such amounts as are provided in appropriations Acts, enter into contracts to enable the Commission to discharge the duties of the Commission under this Act.
+
+&emsp;"(11)
+
+Expert and consultant service.—The Commission may procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, at rates not to exceed the daily rate paid to a person occupying a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+&emsp;"(12)
+
+Postal service.—The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+
+&emsp;"(13)
+
+Physical facilities and equipment.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act. These administrative services may include human resource management, budget, leasing accounting, and payroll services.
+
+"(e)
+
+Report.—
+
+&emsp;"(1)
+
+Interim reports.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date on which the Commission first meets, and each 30-day period thereafter ending on the date on which the Commission submits the final report under paragraph (2), the Commission shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate and the President a report detailing the level of cooperation the Secretary of Veterans Affairs (and the heads of other departments or agencies of the Federal Government) has provided to the Commission.
+
+&emsp;&emsp;"(B)
+
+Other reports.—In carrying out its duties, at times that the Commission determines appropriate, the Commission shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate and any other appropriate entities an interim report with respect to the findings identified by the Commission.
+
+&emsp;"(2)
+
+Final report.—Not later than 18 months after the first meeting of the Commission, the Commission shall submit to the Committee on Veterans' Affairs of the House of Representatives and the Senate, the President, and the Secretary of Veterans Affairs a final report on the findings of the Commission. Such report shall include the following:
+
+&emsp;&emsp;"(A) Recommendations to implement in a feasible, timely, and cost-efficient manner the solutions and remedies identified within the findings of the Commission pursuant to subsection (b).
+
+&emsp;&emsp;"(B) An analysis of the evidence-based therapy model used by the Secretary of Veterans Affairs for treating veterans with mental health care issues, and an examination of the prevalence and efficacy of prescription drugs as a means for treatment.
+
+&emsp;&emsp;"(C) The findings of the patient-centered survey conducted within each of the Veterans Integrated Service Networks pursuant to subsection (b)(2).
+
+&emsp;&emsp;"(D) An examination of complementary and integrative health treatments described in subsection (b)(3) and the potential benefits of incorporating such treatments in the therapy models used by the Secretary for treating veterans with mental health issues.
+
+&emsp;"(3)
+
+Plan.—Not later than 90 days after the date on which the Commission submits the final report under paragraph (2), the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the following:
+
+&emsp;&emsp;"(A) An action plan for implementing the recommendations established by the Commission on such solutions and remedies for improving wellness-based outcomes for veterans with mental health care issues.
+
+&emsp;&emsp;"(B) A feasible timeframe on when the complementary and integrative health treatments described in subsection (b)(3) can be implemented Department-wide.
+
+&emsp;&emsp;"(C) With respect to each recommendation established by the Commission, including any complementary and integrative health treatment, that the Secretary determines is not appropriate or feasible to implement, a justification for such determination and an alternative solution to improve the efficacy of the therapy models used by the Secretary for treating veterans with mental health issues.
+
+"(f)
+
+Termination of Commission.—The Commission shall terminate 30 days after the Commission submits the final report under subsection (e)(2).
+
+#### "SEC. 932. EXPANSION OF RESEARCH AND EDUCATION ON AND DELIVERY OF COMPLEMENTARY AND INTEGRATIVE HEALTH TO VETERANS.
+
+"(a)
+
+Development of Plan To Expand Research, Education, and Delivery.—Not later than 180 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs shall develop a plan to expand materially and substantially the scopeof the effectiveness of research and education on, and delivery and integration of, complementary and integrative health services into the health care services provided to veterans.
+
+"(b)
+
+Elements.—The plan required by subsection (a) shall provide for the following:
+
+&emsp;"(1) Research on the following:
+
+&emsp;&emsp;"(A) The effectiveness of various complementary and integrative health services, including the effectiveness of such services integrated with clinical services.
+
+&emsp;&emsp;"(B) Approaches to integrating complementary and integrative health services into other health care services provided by the Department of Veterans Affairs.
+
+&emsp;"(2) Education and training for health care professionals of the Department on the following:
+
+&emsp;&emsp;"(A) Complementary and integrative health services selected by the Secretary for purposes of the plan.
+
+&emsp;&emsp;"(B) Appropriate uses of such services.
+
+&emsp;&emsp;"(C) Integration of such services into the delivery of health care to veterans.
+
+&emsp;"(3) Research, education, and clinical activities on complementary and integrative health at centers of innovation at medical centers of the Department.
+
+&emsp;"(4) Identification or development of metrics and outcome measures to evaluate the effectiveness of the provision and integration of complementary and integrative health services into the delivery of health care to veterans.
+
+&emsp;"(5) Integration and delivery of complementary and integrative health services with other health care services provided by the Department.
+
+"(c)
+
+Consultation.—
+
+&emsp;"(1)
+
+In general.—In carrying out subsection (a), the Secretary shall consult with the following:
+
+&emsp;&emsp;"(A) The Director of the National Center for Complementary and Integrative Health of the National Institutes of Health.
+
+&emsp;&emsp;"(B) The Commissioner of Food and Drugs.
+
+&emsp;&emsp;"(C) Institutions of higher education, private research institutes, and individual researchers with extensive experience in complementary and integrative health and the integration of complementary and integrative health practices into the delivery of health care.
+
+&emsp;&emsp;"(D) Nationally recognized providers of complementary and integrative health.
+
+&emsp;&emsp;"(E) Such other officials, entities, and individuals with expertise on complementary and integrative health as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Scope of consultation.—The Secretary shall undertake consultation under paragraph (1) in carrying out subsection (a) with respect to the following:
+
+&emsp;&emsp;"(A) To develop the plan.
+
+&emsp;&emsp;"(B) To identify specific complementary and integrative health practices that, on the basis of research findings or promising clinical interventions, are appropriate to include as services to veterans.
+
+&emsp;&emsp;"(C) To identify barriers to the effective provision and integration of complementary and integrative health services into the delivery of health care to veterans, and to identify mechanisms for overcoming such barriers.
+
+#### "SEC. 933. PILOT PROGRAM ON INTEGRATION OF COMPLEMENTARY AND INTEGRATIVE HEALTH AND RELATED ISSUES FOR VETERANS AND FAMILY MEMBERS OF VETERANS.
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date on which the Secretary of Veterans Affairs receives the final report under section 931(e)(2), the Secretary shall commence a pilot program to assess the feasibility and advisability of using complementary and integrative health and wellness-based programs (as defined by the Secretary) to complement the provision of pain management and related health care services, including mental health care services, to veterans.
+
+&emsp;"(2)
+
+Matters addressed.—In carrying out the pilot program, the Secretary shall assess the following:
+
+&emsp;&emsp;"(A) Means of improving coordination between Federal, State, local, and community providers of health care in the provision of pain management and related health care services to veterans.
+
+&emsp;&emsp;"(B) Means of enhancing outreach, and coordination of outreach, by and among providers of health care referred to in subparagraph (A) on the pain management and related health care services available to veterans.
+
+&emsp;&emsp;"(C) Means of using complementary and integrative health and wellness-based programs of providers of health care referred to in subparagraph (A) as complements to the provision by the Department of Veterans Affairs of pain management and related health care services to veterans.
+
+&emsp;&emsp;"(D) Whether complementary and integrative health and wellness-based programs described in subparagraph (C)—
+
+&emsp;&emsp;&emsp;"(i) are effective in enhancing the quality of life and well-being of veterans;
+
+&emsp;&emsp;&emsp;"(ii) are effective in increasing the adherence of veterans to the primary pain management and related health care services provided such veterans by the Department;
+
+&emsp;&emsp;&emsp;"(iii) have an effect on the sense of well-being of veterans who receive primary pain management and related health care services from the Department; and
+
+&emsp;&emsp;&emsp;"(iv) are effective in encouraging veterans receiving health care from the Department to adopt a more healthy lifestyle.
+
+"(b)
+
+Duration.—The Secretary shall carry out the pilot program under subsection (a)(1) for a period of three years.
+
+"(c)
+
+Locations.—
+
+&emsp;"(1)
+
+Facilities.—The Secretary shall carry out the pilot program under subsection (a)(1) at facilities of the Department providing pain management and related health care services, including mental health care services, to veterans. In selecting such facilities to carry out the pilot program, the Secretary shall select not fewer than 15 geographically diverse medical centers of the Department, of which not fewer than two shall be polytrauma rehabilitation centers of the Department.
+
+&emsp;"(2)
+
+Medical centers with prescription rates of opioids that conflict with care standards.—In selecting the medical centers under paragraph (1), the Secretary shall give priority to medical centers of the Department at which there is a prescription rate of opioids that conflicts with or is otherwise inconsistent with the standards of appropriate and safe care.
+
+"(d)
+
+Provision of Services.—Under the pilot program under subsection (a)(1), the Secretary shall provide covered services to covered veterans by integrating complementary and integrative health services with other services provided by the Department at the medical centers selected under subsection (c).
+
+"(e)
+
+Covered Veterans.—For purposes of the pilot program under subsection (a)(1), a covered veteran is any veteran who—
+
+&emsp;"(1) has a mental health condition diagnosed by a clinician of the Department;
+
+&emsp;"(2) experiences chronic pain;
+
+&emsp;"(3) has a chronic condition being treated by a clinician of the Department; or
+
+&emsp;"(4) is not described in paragraph (1), (2), or (3) and requests to participate in the pilot program or is referred by a clinician of the Department who is treating the veteran.
+
+"(f)
+
+Covered Services.—
+
+&emsp;"(1)
+
+In general.—For purposes of the pilot program, covered services are services consisting of complementary and integrative health services as selected by the Secretary.
+
+&emsp;"(2)
+
+Administration of services.—Covered services shall be administered under the pilot program as follows:
+
+&emsp;&emsp;"(A) Covered services shall be administered by professionals or other instructors with appropriate training and expertise in complementary and integrative health services who are employees of the Department or with whom the Department enters into an agreement to provide such services.
+
+&emsp;&emsp;"(B) Covered services shall be included as part of the Patient Aligned Care Teams initiative of the Office of Patient Care Services, Primary Care Program Office, in coordination with the Office of Patient Centered Care and Cultural Transformation.
+
+&emsp;&emsp;"(C) Covered services shall be made available to—
+
+&emsp;&emsp;&emsp;"(i) covered veterans who have received conventional treatments from the Department for the conditions for which the covered veteran seeks complementary and integrative health services under the pilot program; and
+
+&emsp;&emsp;&emsp;"(ii) covered veterans who have not received conventional treatments from the Department for such conditions.
+
+"(g)
+
+Reports.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 months after the date on which the Secretary commences the pilot program under subsection (a)(1), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the pilot program.
+
+&emsp;"(2)
+
+Elements.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The findings and conclusions of the Secretary with respect to the pilot program under subsection (a)(1), including with respect to—
+
+&emsp;&emsp;&emsp;"(i) the use and efficacy of the complementary and integrative health services established under the pilot program;
+
+&emsp;&emsp;&emsp;"(ii) the outreach conducted by the Secretary to inform veterans and community organizations about the pilot program; and
+
+&emsp;&emsp;&emsp;"(iii) an assessment of the benefit of the pilot program to covered veterans in mental health diagnoses, pain management, and treatment of chronic illness.
+
+&emsp;&emsp;"(B) Identification of any unresolved barriers that impede the ability of the Secretary to incorporate complementary and integrative health services with other health care services provided by the Department.
+
+&emsp;&emsp;"(C) Such recommendations for the continuation or expansion of the pilot program as the Secretary considers appropriate.
+
+#### "Subtitle D—Fitness of Health Care Providers
+
+#### "SEC. 941. ADDITIONAL REQUIREMENTS FOR HIRING OF HEALTH CARE PROVIDERS BY DEPARTMENT OF VETERANS AFFAIRS.
+
+"As part of the hiring process for each health care provider considered for a position at the Department of Veterans Affairs after the date of the enactment of the \[this\] Act \[July 22, 2016\], the Secretary of Veterans Affairs shall require from the medical board of each State in which the health care provider has or had a medical license—
+
+&emsp;"(1) information on any violation of the requirements of the medical license of the health care provider during the 20-year period preceding the consideration of the health care provider by the Department; and
+
+&emsp;"(2) information on whether the health care provider has entered into any settlement agreement for a disciplinary charge relating to the practice of medicine by the health care provider.
+
+#### "SEC. 942. PROVISION OF INFORMATION ON HEALTH CARE PROVIDERS OF DEPARTMENT OF VETERANS AFFAIRS TO STATE MEDICAL BOARDS.
+
+"Notwithstanding section 552a of title 5, United States Code, with respect to each health care provider of the Department of Veterans Affairs who has violated a requirement of the medical license of the health care provider, the Secretary of Veterans Affairs shall provide to the medical board of each State in which the health care provider is licensed detailed information with respect to such violation, regardless of whether such board has formally requested such information.
+
+#### "SEC. 943. REPORT ON COMPLIANCE BY DEPARTMENT OF VETERANS AFFAIRS WITH REVIEWS OF HEALTH CARE PROVIDERS LEAVING THE DEPARTMENT OR TRANSFERRING TO OTHER FACILITIES.
+
+"Not later than 180 days after the date of the enactment of this Act \[July 22, 2016\], the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the compliance by the Department of Veterans Affairs with the policy of the Department—
+
+&emsp;"(1) to conduct a review of each health care provider of the Department who transfers to another medical facility of the Department, resigns, retires, or is terminated to determine whether there are any concerns, complaints, or allegations of violations relating to the medical practice of the health care provider; and
+
+&emsp;"(2) to take appropriate action with respect to any such concern, complaint, or allegation.
+
+#### "Subtitle E—Other Matters
+
+#### "SEC. 951. MODIFICATION TO LIMITATION ON AWARDS AND BONUSES."
+
+\[Amended section 705 of Pub. L. 113–146, set out as a note under section 703 of this title.\]
 
 #### Funding Account for Non-Department Care
 
@@ -294,7 +1408,7 @@ Definitions.—In this section:
 
 #### Veterans Access, Choice and Accountability in Health Care
 
-Pub. L. 113–146, §2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 1769, 1801, as amended by Pub. L. 113–175, title IV, §409(a)–(f), Sept. 26, 2014, 128 Stat. 1906, 1907; Pub. L. 113–235, div. I, title II, §242, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–19, §3(a), May 22, 2015, 129 Stat. 215; Pub. L. 114–41, title IV, §§4004, 4005, July 31, 2015, 129 Stat. 463, 464, provided that:
+Pub. L. 113–146, §2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 1769, 1801, as amended by Pub. L. 113–175, title IV, §409(a)–(f), Sept. 26, 2014, 128 Stat. 1906, 1907; Pub. L. 113–235, div. I, title II, §242, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–19, §3(a), May 22, 2015, 129 Stat. 215; Pub. L. 114–41, title IV, §§4004, 4005, July 31, 2015, 129 Stat. 463, 464; Pub. L. 114–131, §1, Feb. 29, 2016, 130 Stat. 292, provided that:
 
 #### "SEC. 2. DEFINITIONS.
 
@@ -746,7 +1860,7 @@ Final report.—Not later than 30 days after the date on which the Secretary det
 
 &emsp;&emsp;"(D) The results of a survey of eligible veterans who have received care or services under this section on the satisfaction of such eligible veterans with the care or services received by such eligible veterans under this section.
 
-&emsp;&emsp;"(E) An assessment of the effect of furnishing care and services under this section on wait times for appointments for the receipt of hospital care and medical services from the Department.
+&emsp;&emsp;"(E) An assessment of the effect of furnishing care and services under this section on wait timesfor appointments for the receipt of hospital care and medical services from the Department.
 
 &emsp;&emsp;"(F) An assessment of the feasibility and advisability of continuing furnishing care and services under this section after the termination date specified in subsection (p).
 
@@ -778,7 +1892,7 @@ Waiver of Certain Printing Requirements.—Section 501 of title 44, United State
 
 "(a)
 
-Outreach to Tribal-Run Medical Facilities.—The Secretary of Veterans Affairs shall, in consultationwith the Director of the Indian Health Service, conduct outreach to each medical facility operated by an Indian tribe or tribal organization through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) to raise awareness of the ability of such facilities, Indian tribes, and tribal organizations to enter into agreements with the Department of Veterans Affairs under which the Secretary reimburses such facilities, Indian tribes, or tribal organizations, as the case may be, for health care provided to veterans who are—
+Outreach to Tribal-Run Medical Facilities.—The Secretary of Veterans Affairs shall, in consultation with the Director of the Indian Health Service, conduct outreach to each medical facility operated by an Indian tribe or tribal organization through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\] to raise awareness of the ability of such facilities, Indian tribes, and tribal organizations to enter into agreements with the Department of Veterans Affairs under which the Secretary reimburses such facilities, Indian tribes, or tribal organizations, as the case may be, for health care provided to veterans who are—
 
 &emsp;"(1) eligible for health care at such facilities; and
 
@@ -800,7 +1914,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 &emsp;&emsp;"(A) The Indian Health Service.
 
-&emsp;&emsp;"(B) An Indian tribe or tribal organization operating a medical facility through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;"(B) An Indian tribe or tribal organization operating a medical facility through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\].
 
 &emsp;&emsp;"(C) A medical facility of the Indian Health Service.
 
@@ -836,7 +1950,7 @@ Claims processing system.—The Secretary of Veterans Affairs shall establish an
 
 &emsp;"(2)
 
-Compliance with prompt payment act.—The system established and implemented under paragraph (1) shall comply with all requirements of chapter 39 of title 31, United States Code (commonly referred to as the 'Prompt Payment Act').
+Compliance with prompt payment act.—The system established and implemented under paragraph\(1) shall comply with all requirements of chapter 39 of title 31, United States Code (commonly referred to as the 'Prompt Payment Act').
 
 "(c)
 
@@ -1022,7 +2136,7 @@ Timing.—The private sector entity or entities carrying out the assessment requ
 
 Private Sector Entities Described.—A private entity described in this subsection is a private entity that—
 
-&emsp;"(1) has experience and proven outcomes in optimizing the performance of the health care delivery systems of the Veterans Health Administration and the private sector and in health care management; and
+&emsp;"(1) has experience and proven outcomes in optimizing the performance of the health care deliverysystems of the Veterans Health Administration and the private sector and in health care management; and
 
 &emsp;"(2) specializes in implementing large-scale organizational and cultural transformations, especially with respect to health care delivery systems.
 
@@ -1062,7 +2176,7 @@ Establishment of Commission.—
 
 &emsp;"(1)
 
-In general.—There is established a commission, to be known as the 'Commission on Care' (inthis section referred to as the 'Commission'), to examine the access of veterans to health care from the Department of Veterans Affairs and strategically examine how best to organize the Veterans Health Administration, locate health care resources, and deliver health care to veterans during the 20-year period beginning on the date of the enactment of this Act \[Aug. 7, 2014\].
+In general.—There is established a commission, to be known as the 'Commission on Care' (in this section referred to as the 'Commission'), to examine the access of veterans to health care from the Department of Veterans Affairs and strategically examine how best to organize the Veterans Health Administration, locate health care resources, and deliver health care to veterans during the 20-year period beginning on the date of the enactment of this Act \[Aug. 7, 2014\].
 
 &emsp;"(2)
 
@@ -1150,7 +2264,7 @@ Reports.—The Commission shall submit to the President, through the Secretary o
 
 &emsp;&emsp;&emsp;"(ii) such recommendations as the Commission may have for legislative or administrative action to improve access to health care through the Veterans Health Administration.
 
-&emsp;&emsp;"(B) Not later than 180 days after the date of the initial meeting of the Commission, a final report on—
+&emsp;&emsp;"(B) Not later than June 30, 2016, a final report on—
 
 &emsp;&emsp;&emsp;"(i) the findings of the Commission with respect to the evaluation and assessment required by this subsection; and
 
@@ -1166,7 +2280,7 @@ Hearings.—The Commission may hold such hearings, sit and act at such times and
 
 &emsp;"(2)
 
-Information from federal agencies.—The Commission may secure directly from any Federal agency such information as the Commission considers necessary to carry out this section. Upon request of the Chairperson of the Commission, the head of such agency shall furnish such information to the Commission.
+Information from federal agencies.—The Commission may secure directly from any Federal agency such information as the Commission considers necessary to carry out this section. Upon requestof the Chairperson of the Commission, the head of such agency shall furnish such information to the Commission.
 
 "(d)
 
@@ -1198,7 +2312,7 @@ In general.—The Chairperson of the Commission may, without regard to the civil
 
 &emsp;&emsp;"(B)
 
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates,except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;"(4)
 
@@ -1326,7 +2440,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Aug. 7, 2014\], andnot later than September 30 each year thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on access to health care through the use of mobile vet centers and mobile medical centers of the Department that includes statistics on each of the requirements set forth in subsection (a)(2) for the year covered by the report.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Aug. 7, 2014\], and not later than September 30 each year thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on access to health care through the use of mobile vet centers and mobile medical centers of the Department that includes statistics on each of the requirements set forth in subsection (a)(2) for the year covered by the report.
 
 &emsp;"(2)
 

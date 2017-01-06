@@ -10,13 +10,17 @@
 
 &emsp;(4) that it is appropriate and necessary for the Federal Government to support research and scholarship in American folklife in order to contribute to an understanding of the complex problems of the basic desires, beliefs, and values of the American people in both rural and urban areas;
 
-&emsp;(5) that the encouragement and support of American folklife, while primarily a matterfor private and local initiative, is also an appropriate matter of concern to the Federal Government; and
+&emsp;(5) that the encouragement and support of American folklife, while primarily a matter for private and local initiative, is also an appropriate matter of concern to the Federal Government; and
 
 &emsp;(6) that it is in the interest of the general welfare of the Nation to preserve, support, revitalize, and disseminate American folklife traditions and arts.
 
 (b) It is therefore the purpose of this subchapter to establish in the Library of Congress an American Folklife Center to preserve and present American folklife.
 
 (Pub. L. 94–201, §2, Jan. 2, 1976, 89 Stat. 1129.)
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–246, §1, Nov. 28, 2016, 130 Stat. 995, provided that: "This Act \[amending section 2142 of this title\] may be cited as the 'Gold Star Families Voices Act'."
 
 #### Short Title
 

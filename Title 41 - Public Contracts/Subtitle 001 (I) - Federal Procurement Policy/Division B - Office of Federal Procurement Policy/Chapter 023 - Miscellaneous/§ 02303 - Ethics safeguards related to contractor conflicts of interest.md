@@ -98,7 +98,7 @@ In subsection (b)(4)(A), the words "Except as provided in subparagraph (B)" are 
 
 #### Deadline for Issuance of Standard Policy
 
-Pub. L. 111–350, §6(f)(1), Jan. 4, 2011, 124 Stat. 3854, provided that: "The requirement in section 2303(b)(1) of title 41, United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008."
+Pub. L. 111–350, §6(f)(1), Jan. 4, 2011, 124 Stat. 3854, provided that: "The requirement in section 2303(b)(1) oftitle 41, United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008."
 
 #### Review of Federal Acquisition Regulation Relating to Conflicts of Interest
 

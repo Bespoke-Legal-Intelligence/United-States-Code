@@ -8,11 +8,9 @@
 | [<b>IV.</b>](Subchapter%20004%20%28IV%29%20-%20Trial%20Procedure/README.md) | <b>Trial Procedure</b> | <b>949a.</b> |
 | [<b>V.</b>](Subchapter%20005%20%28V%29%20-%20Classified%20Information%20Procedures/README.md) | <b>Classified Information Procedures</b> | <b>949p–1.</b> |
 | [<b>VI.</b>](Subchapter%20006%20%28VI%29%20-%20Sentences/README.md) | <b>Sentences</b> | <b>949s.</b> |
-| [<b>VII.</b>](Subchapter%20007%20%28VII%29%20-%20Post-Trial%20Procedure%20and%20Review%20of%20Military%20Commissions/README.md) | <b>Post-Trial Procedures and Review of Military Commissions </b><b><sup>1</sup></b> |  |
+| [<b>VII.</b>](Subchapter%20007%20%28VII%29%20-%20Post-Trial%20Procedure%20and%20Review%20of%20Military%20Commissions/README.md) | <b>Post-Trial Procedures and Review of Military Commissions </b><b><sup>1</sup></b> | <b>950a.</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-950a.
 
 |  |  |  |
 | :--- | :---: | ---: |

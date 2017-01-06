@@ -6,7 +6,7 @@
 
 &emsp;Each State that receives funds under this subchapter shall—
 
-&emsp;&emsp;(A) ensure that any State rules, regulations, and policies relating to this subchapter conform to the purposes of this subchapter and provide any such proposed rules, regulations, and policies to the committee of practitioners created under subsection (b) of this section for review and comment;
+&emsp;&emsp;(A) ensure that any State rules, regulations, and policies relating to this subchapter conform to the purposes of this subchapter and provide any such proposed rules, regulations, and policies to the committee of practitioners created under subsection (b) for review and comment;
 
 &emsp;&emsp;(B) minimize such rules, regulations, and policies to which the State's local educational agencies and schools are subject;
 
@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Each State educational agency that receives funds under this subchapter shall create aState committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
+&emsp;Each State educational agency that receives funds under this subchapter shall create a State committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
 
 #### (2) Membership
 

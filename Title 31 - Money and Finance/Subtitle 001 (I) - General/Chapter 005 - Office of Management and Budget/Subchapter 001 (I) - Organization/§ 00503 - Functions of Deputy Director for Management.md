@@ -8,7 +8,7 @@
 
 &emsp;(3) Review agency budget requests for financial management systems and operations, and advise the Director on the resources required to develop and effectively operate and maintain Federal Government financial management systems and to correct major deficiencies in such systems.
 
-&emsp;(4) Review and, where appropriate, recommend to the Director changes to the budget and legislative proposals of agencies to ensurethat they are in accordance with financial management plans of the Office of Management and Budget.
+&emsp;(4) Review and, where appropriate, recommend to the Director changes to the budget and legislative proposals of agencies to ensure that they are in accordance with financial management plans of the Office of Management and Budget.
 
 &emsp;(5) Monitor the financial execution of the budget in relation to actual expenditures, including timely performance reports.
 
@@ -72,7 +72,39 @@
 
 &emsp;(10) Perform any other functions prescribed by the Director.
 
-(Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, §638(g), Sept. 29, 1999, 113 Stat. 476; Pub. L. 107–347, title I, §102(b), Dec. 17, 2002, 116 Stat. 2910.)
+(c)
+
+Program and Project Management.—
+
+&emsp;(1)
+
+Requirement.—Subject to the direction and approval of the Director, the Deputy Director for Management or a designee shall—
+
+&emsp;&emsp;(A) adopt governmentwide standards, policies, and guidelines for program and project management for executive agencies;
+
+&emsp;&emsp;(B) oversee implementation of program and project management for the standards, policies, and guidelines established under subparagraph (A);
+
+&emsp;&emsp;(C) chair the Program Management Policy Council established under section 1126(b);
+
+&emsp;&emsp;(D) establish standards and policies for executive agencies, consistent with widely accepted standards for program and project management planning and delivery;
+
+&emsp;&emsp;(E) engage with the private sector to identify best practices in program and projectmanagement that would improve Federal program and project management;
+
+&emsp;&emsp;(F) conduct portfolio reviews to address programs identified as high risk by the Government Accountability Office;
+
+&emsp;&emsp;(G) not less than annually, conduct portfolio reviews of agency programs in coordination with Project Management Improvement Officers designated under section 1126(a)(1) to assess the quality and effectiveness of program management; and
+
+&emsp;&emsp;(H) establish a 5-year strategic plan for program and project management.
+
+&emsp;(2)
+
+Application to department of defense.—Paragraph (1) shall not apply to the Department of Defense to the extent that the provisions of that paragraph are substantially similar to or duplicative of—
+
+&emsp;&emsp;(A) the provisions of chapter 87 of title 10; or
+
+&emsp;&emsp;(B) policy, guidance, or instruction of the Department related to program management.
+
+(Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, §638(g), Sept. 29, 1999, 113 Stat. 476; Pub. L. 107–347, title I, §102(b), Dec. 17, 2002, 116 Stat. 2910; Pub. L. 114–264, §2(a)(1), Dec. 14, 2016, 130 Stat. 1371; Pub. L. 114–328, div. A, title VIII, §861(a)(1), Dec. 23, 2016, 130 Stat. 2298.)
 
 #### References in Text
 
@@ -83,6 +115,8 @@ Section 302 of the Chief Financial Officers Act of 1990 \[Pub. L. 101–576\], r
 A prior section 503 was renumbered section 505 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–264 and Pub. L. 114–328 amended section identically, adding subsec. (c).
 
 <b>2002</b>—Subsec. (b)(5) to (10). Pub. L. 107–347 added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
@@ -98,5 +132,19 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–58, title VI, §638(h), Sept. 29, 1999, 113 Stat. 476, provided that: "This section \[amending this sectionand sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect at noon on January 20, 2001."
+Pub. L. 106–58, title VI, §638(h), Sept. 29, 1999, 113 Stat. 476, provided that: "This section \[amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect at noon on January 20, 2001."
+
+#### Issuance of Standards, Policies, and Guidelines for Program and Project Management; Regulations
+
+Pub. L. 114–328, div. A, title VIII, §861(a)(2), (3), Dec. 23, 2016, 130 Stat. 2299, provided that:
+
+"(2)
+
+Deadline for standards, policies, and guidelines.—Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2016\], the Deputy Director for Management of the Office of Management and Budget shall issue the standards, policies, and guidelines required under section 503(c) of title 31, United States Code, as added by paragraph (1).
+
+"(3)
+
+Regulations.—Not later than 90 days after the date on which the standards, policies, and guidelines are issued under paragraph (2), the Deputy Director for Management of the Office of Management and Budget, in consultation with the Program Management Policy Council established under section 1126(b) of title 31, United States Code, as added by subsection (b)(1), and the Director of the Office of Management and Budget, shall issue any regulations as are necessary to implement the requirements of section 503(c) of title 31, United States Code, as added by paragraph (1)."
+
+Similar provisions were contained in Pub. L. 114–264, §2(a)(2), (3), Dec. 14, 2016, 130 Stat. 1372.
 

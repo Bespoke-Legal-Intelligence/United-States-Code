@@ -38,5 +38,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title V, §510(a), as added Aug. 4, 1939, ch. 417, §7, 53 Stat. 1183; July 17, 1952, ch. 939, §7, 66 Stat. 762; Pub. L. 85–332, Feb. 20, 1958, 72 Stat. 17; Pub. L. 87–755, Oct. 5, 1962, 76 Stat. 751; Pub. L. 91–469, §12(a), Oct. 21, 1970, 84 Stat. 1022; Pub. L. 97–31, §12(91), Aug. 6, 1981, 95 Stat. 161.
 
-In paragraph (1)(A), the words "or is purchased under section 1204 of this Appendix, as amended, by the person turning in an obsolete vessel under this section" are omitted because the purchase authority under 46App. U.S.C. 1204 was impliedly repealed by section 14 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 note).
+In paragraph (1)(A), the words "or is purchased under section 1204 of this Appendix, as amended, by the person turning in an obsolete vessel under this section" are omitted because the purchase authority under 46 App. U.S.C. 1204 was impliedly repealed by section 14 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 note).
 

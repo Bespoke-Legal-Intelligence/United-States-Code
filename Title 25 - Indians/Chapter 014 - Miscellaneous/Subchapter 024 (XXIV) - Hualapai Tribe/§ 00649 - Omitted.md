@@ -1,0 +1,6 @@
+### §649. Omitted
+
+#### Codification
+
+Section, Pub. L. 91–400, §3, Sept. 16, 1970, 84 Stat. 838, which authorized the Secretary of the Interior to prescribe rules and regulations to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
+

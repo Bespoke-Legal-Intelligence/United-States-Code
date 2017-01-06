@@ -6,7 +6,7 @@
 | [8062\.](%C2%A7%2008062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md) | Policy; composition; aircraft authorization. |
 | \[8066. | Repealed.\] |
 | [8067\.](%C2%A7%2008067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md) | Designation: officers to perform certain professional functions. |
-| [8069\.](%C2%A7%2008069%20-%20Air%20Force%20nurses%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md) | Air Force nurses: Chief and assistant chief; appointment; grade. |
+| [8069\.](%C2%A7%2008069%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md) | Air Force nurses: Chief; appointment. |
 | \[8071. | Repealed.\] |
 | \[8072. | Renumbered.\] |
 | [8074\.](%C2%A7%2008074%20-%20Commands%20territorial%20organization.md) | Commands: territorial organization. |
@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(nn)(3), Dec. 23, 2016, 130 Stat. 2106, substituted "Air Force nurses: Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade" in item 8069.
 
 <b>2001</b>—Pub. L. 107–107, div. A, title IX, §912(b), Dec. 28, 2001, 115 Stat. 1196, added item 8084.
 
@@ -48,7 +50,7 @@ Pub. L. 96–343, §12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted "General
 - [&sect; 08062 - Policy; composition; aircraft authorization](%C2%A7%2008062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md)
 - [&sect; 08066 - Repealed. Pub. L. 96&#8211;513, title II, &sect;201, Dec. 12, 1980, 94 Stat. 2878](%C2%A7%2008066%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7201%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202878.md)
 - [&sect; 08067 - Designation officers to perform certain professional functions](%C2%A7%2008067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md)
-- [&sect; 08069 - Air Force nurses Chief and assistant chief; appointment; grade](%C2%A7%2008069%20-%20Air%20Force%20nurses%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md)
+- [&sect; 08069 - Air Force nurses Chief; appointment](%C2%A7%2008069%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md)
 - [&sect; 08071 - Repealed. Pub. L. 90&#8211;130, &sect;1(25), Nov. 8, 1967, 81 Stat. 382](%C2%A7%2008071%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93130%2C%20%C2%A71%2825%29%2C%20Nov.%208%2C%201967%2C%2081%20Stat.%20382.md)
 - [&sect; 08072 - Renumbered &sect;8037](%C2%A7%2008072%20-%20Renumbered%20%C2%A78037.md)
 - [&sect; 08074 - Commands territorial organization](%C2%A7%2008074%20-%20Commands%20territorial%20organization.md)

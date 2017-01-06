@@ -14,7 +14,7 @@ Evaluation.—For each proposed project, the agency head shall evaluate current 
 
 (d)
 
-Selection.—From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required.Selection shall be based on criteria established and published by the agency head.
+Selection.—From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1130.)
 
@@ -36,7 +36,7 @@ June 30, 1949, ch. 288, title IX, §903, as added Pub. L. 92–582, Oct. 27, 197
 
 In subsection (b), the words "engaged in the lawful practice of their profession" are omitted as unnecessary because of the definition of "firm" in section 1102 of the revised title.
 
-In subsection (c), the words "compare alternative methods for furnishing services" are substituted for "the relative utility of alternative methods of approach for furnishing the required services" to eliminate unnecessary words.
+In subsection (c), the words "compare alternative methods for furnishing services" are substituted for"the relative utility of alternative methods of approach for furnishing the required services" to eliminate unnecessary words.
 
 #### Architectural and Engineering Services
 

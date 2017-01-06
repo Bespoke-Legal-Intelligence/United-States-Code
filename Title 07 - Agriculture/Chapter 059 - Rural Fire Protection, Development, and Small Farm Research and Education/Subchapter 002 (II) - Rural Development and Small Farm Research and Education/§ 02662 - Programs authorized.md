@@ -158,7 +158,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 etseq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -202,7 +202,7 @@ Subsec. (j). Pub. L. 102–237, §403(a)(2)(C), (D), redesignated subsec. (h), r
 
 Subsec. (f). Pub. L. 101–624, §2389(c)(1), substituted "Competitive" for "Special" in heading.
 
-Subsec. (f)(1)(A). Pub. L. 101–624, §2389(b)(1), substituted "competitive grants for programs that meetthe criteria specified in subparagraph (B) to develop counseling, retraining, and educational" for "special grants for programs to develop educational, retraining, and counseling".
+Subsec. (f)(1)(A). Pub. L. 101–624, §2389(b)(1), substituted "competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational" for "special grants for programs to develop educational, retraining, and counseling".
 
 Subsec. (f)(1)(B). Pub. L. 101–624, §2389(b)(3), (4), added subpar. (B), struck out heading, introductory provisions, and cl. (i) of former subpar. (B), and redesignated cls. (ii) to (viii) of former subpar. (B) as cls. (i) to (vii) of subpar. (D). Prior to amendment, introductory provisions and cl. (i) read as follows: "Such programs shall provide the following services:
 

@@ -42,5 +42,5 @@ The Act of March 16, 1934, referred to in par. (1), is act Mar. 16, 1934, ch. 71
 
 #### Short Title
 
-Pub. L. 113–239, §1, Dec. 18, 2014, 128 Stat. 2847, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Permanent Electronic Duck Stamp Act of 2013'."
+Pub. L. 113–239, §1, Dec. 18, 2014, 128 Stat. 2847, provided that: "This Act \[enacting this subchapter\] maybe cited as the 'Permanent Electronic Duck Stamp Act of 2013'."
 

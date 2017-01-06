@@ -58,7 +58,7 @@ Annual Updates for Non-integrated Programs.—
 
 &emsp;(1)
 
-Requirement.—For each major satellite acquisition program that the Under Secretary has determined under subsection (b)(5) or subsection (e) is a non-integrated program, the Under Secretary shall annually submit to Congress, at the same time the budget of the President for a fiscal year is submitted under section 1105 of title 31, an update to the report required by subsection (a) for such program.
+Requirement.—For each major satellite acquisition program that the Under Secretary has determined under subsection (b)(5) or subsection (e) is a non-integrated program, theUnder Secretary shall annually submit to Congress, at the same time the budget of the President for a fiscal year is submitted under section 1105 of title 31, an update to the report required by subsection (a) for such program.
 
 &emsp;(2)
 
@@ -103,6 +103,10 @@ A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–291, §1071(e)(3)(A), substituted "before January 2, 2013" for "before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
 
 Subsec. (d)(2). Pub. L. 113–291, §1071(e)(3)(B), substituted "on or after January 2, 2013" for "on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013".
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

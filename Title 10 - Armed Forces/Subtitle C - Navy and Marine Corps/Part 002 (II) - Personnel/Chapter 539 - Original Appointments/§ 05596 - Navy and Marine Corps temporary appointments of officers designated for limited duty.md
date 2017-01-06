@@ -14,7 +14,7 @@
 
 &emsp;(4) Members of the Navy Reserve and the Marine Corps Reserve ordered to temporary active duty to prosecute special work.
 
-(d) Officers designated for limited duty under subsection (a) may be temporarily appointed bythe Secretary of the Navy in a higher grade not above commander in the Regular Navy or lieutenant colonel in the Regular Marine Corps under such regulations as the Secretary may prescribe. Regulations prescribed under this section shall to the greatest extent practicable conform to the procedures prescribed in chapter 36 of this title for selection for promotion and promotion to higher permanent grades.
+(d) Officers designated for limited duty under subsection (a) may be temporarily appointed by the Secretary of the Navy in a higher grade not above commander in the Regular Navy or lieutenant colonel in the Regular Marine Corps under such regulations as the Secretary may prescribe. Regulations prescribed under this section shall to the greatest extent practicable conform to the procedures prescribed in chapter 36 of this title for selection for promotion and promotion to higher permanent grades.
 
 (e) The Secretary of the Navy may terminate any appointment made under this section.
 
@@ -144,7 +144,7 @@ Subsec. (c). Pub. L. 96–513 redesignated subsec. (g) as (c), struck out provis
 
 Subsec. (d). Pub. L. 96–513 substituted provisions authorizing the Secretary of the Navy to temporarily appoint officers designated for limited duty under subsec. (a)(2) in a higher grade not above commander in the Regular Navy or lieutenant colonel in the Regular Marine Corps for provisions authorizing the Secretary to make temporary appointments in warrant officer grades.
 
-Subsec. (e). Pub. L. 96–513 redesignated subsec. (h) as (e), substituted "Secretary of the Navy" for "President", and struck out former subsec. (e) which provided that the number of persons appointed in the Regular Navy under this section in grades above chief warrant officer, W–4, could not exceed the difference between the actual number of officers on the active list of theNavy in the line or in the staff corps concerned and the authorized number of such officers.
+Subsec. (e). Pub. L. 96–513 redesignated subsec. (h) as (e), substituted "Secretary of the Navy" for "President", and struck out former subsec. (e) which provided that the number of persons appointed in the Regular Navy under this section in grades above chief warrant officer, W–4, could not exceed the difference between the actual number of officers on the active list of the Navy in the line or in the staff corps concerned and the authorized number of such officers.
 
 Subsecs. (f) to (h). Pub. L. 96–513 redesignated subsecs. (f), (g), and (h) as (b), (c), and (e), respectively.
 

@@ -4,7 +4,7 @@
 
 Notice Required.—(1) Whenever the Secretary of Defense requests or requires a member of the armed forces to receive an investigational new drug or a drug unapproved for its applied use, the Secretary shall provide the member with notice containing the information specified in subsection (d).
 
-(2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the informationrequired to be provided under paragraphs (3) and (4) of subsection (d).
+(2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the information required to be provided under paragraphs (3) and (4) of subsection (d).
 
 (b)
 
@@ -158,7 +158,7 @@ Sec. 3. <i>Informed Consent Requirements and Waiver Provisions.</i>
 
 (i) The President will approve or deny the waiver request and will provide written notification of the decision to the Secretary and the Commissioner.
 
-Sec. 4. <i>Required Action After Waiver is Issued</i>. (a) Following a Presidential waiver under 10 U.S.C. 1107(f), the DoD offices responsible for implementing the waiver, DoD's Office of the Inspector General, and the FDA, consistent with its regulatory role, will conduct an ongoing review and monitoring to assess adherence to the standards and criteria under 21 CFR 50.23(d) and this order. The responsible DoD offices shall also adhere to any periodic reporting requirements specified by the President at the time of the waiver approval. The Secretary shall submit the findings to the President and provide a copy to the Commissioner.
+Sec. 4. <i>Required Action After Waiver is Issued</i>. (a) Following a Presidential waiver under 10 U.S.C. 1107(f), theDoD offices responsible for implementing the waiver, DoD's Office of the Inspector General, and the FDA, consistent with its regulatory role, will conduct an ongoing review and monitoring to assess adherence to the standards and criteria under 21 CFR 50.23(d) and this order. The responsible DoD offices shall also adhere to any periodic reporting requirements specified by the President at the time of the waiver approval. The Secretary shall submit the findings to the President and provide a copy to the Commissioner.
 
 (b) The Secretary shall, as soon as practicable, make the congressional notifications required by 10 U.S.C. 1107(f)(2)(B).
 

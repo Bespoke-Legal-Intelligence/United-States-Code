@@ -6,7 +6,7 @@ The Commission shall monitor and investigate compliance with each license and pe
 
 #### (b) Revocation orders
 
-After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where any licensee or exemptee is found by the Commission:
+After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where anylicensee or exemptee is found by the Commission:
 
 &emsp;(1) to have knowingly violated a final order issued under subsection (a) after completion of judicial review (or the opportunity for judicial review); and
 
@@ -36,7 +36,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 (5) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Commission under paragraph (3), the Commission shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
 
-(6)(A) Notwithstanding the provisions of title 28 or of this chapter, the Commission may berepresented by the general counsel of the Commission (or any attorney or attorneys within the Commission designated by the Chairman) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (5)) in a court of the United States or in any other court, except the Supreme Court. However, the Commission or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
+(6)(A) Notwithstanding the provisions of title 28 or of this chapter, the Commission may be represented by the general counsel of the Commission (or any attorney or attorneys within the Commission designated by the Chairman) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (5)) in a court of the United States or in any other court, except the Supreme Court. However, the Commission or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
 
 (B) The Commission shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
 

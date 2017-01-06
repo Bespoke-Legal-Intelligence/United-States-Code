@@ -154,7 +154,7 @@ In this subtitle—
 
 &emsp;&emsp;&emsp;(iv) a sailing school instructor or sailing school student.
 
-&emsp;(21a) "passenger for hire" means a passenger for whom consideration is contributed as a condition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
+&emsp;(21a) "passenger for hire" means a passenger for whom consideration is contributed as acondition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
 
 &emsp;(22) "passenger vessel" means a vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -198,7 +198,7 @@ In this subtitle—
 
 &emsp;&emsp;(E) is not a citizen or temporary or permanent resident of a country designated by the United States as a sponsor of terrorism or any other country that the Secretary, in consultation with the Secretary of State and the heads of other appropriate United States agencies, determines to be a security threat to the United States.
 
-&emsp;(27) "sailing instruction" means teaching, research, and practical experience in operatingvessels propelled primarily by sail and may include—
+&emsp;(27) "sailing instruction" means teaching, research, and practical experience in operating vessels propelled primarily by sail and may include—
 
 &emsp;&emsp;(A) any subject related to that operation and to the sea, including seamanship, navigation, oceanography, other nautical and marine sciences, and maritime history and literature; and
 
@@ -355,7 +355,7 @@ Section 2101(4) defines "Coast Guard".
 
 Section 2101(5) provides that wherever the term "commercial service" is used it is to include all vessels except those that are primarily used for combatant purposes. This is to make sure that vessels that are engaged in the transportation of goods or individuals are subject to the applicable maritime and environmental safety laws, even if they are sovereign controlled vessels.
 
-Section 2101(6) defines "consular officer" as one who has authority to issue visas. Traditionally this personis knowledgeable and familiar with the maritime safety and seamen's welfare laws.
+Section 2101(6) defines "consular officer" as one who has authority to issue visas. Traditionally this person is knowledgeable and familiar with the maritime safety and seamen's welfare laws.
 
 Section 2101(7) defines "crude oil" because certain equipment requirements like inert gas systems, segregated ballast tanks, crude oil washing systems or special ballast arrangements are applicable only to tank vessels that carry crude oil. Crude oil is still included within the definition of "hazardous material" and "oil".
 

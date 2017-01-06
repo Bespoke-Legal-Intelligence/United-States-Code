@@ -1,0 +1,6 @@
+### §1145. Omitted
+
+#### Codification
+
+Section, Pub. L. 90–93, §5, Sept. 27, 1967, 81 Stat. 229, which related to disposition of apportioned shares, was omitted from the Code as being of special and not general application.
+

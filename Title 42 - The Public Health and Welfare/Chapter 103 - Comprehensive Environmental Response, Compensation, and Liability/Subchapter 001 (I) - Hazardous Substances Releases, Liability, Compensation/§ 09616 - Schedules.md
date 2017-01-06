@@ -14,7 +14,7 @@ Within 4 years after October 17, 1986, each facility listed (as of October 17, 1
 
 #### (c) Explanations
 
-If any of the goals established by subsection (a) or (b) of this section are not achieved, the President shall publish an explanation of why such action could not be completed by the specified date.
+If any of the goals established by subsection (a) or (b) are not achieved, the President shall publish an explanation of why such action could not be completed by the specified date.
 
 #### (d) Commencement of RI/FS
 
@@ -36,5 +36,5 @@ The President shall assure that substantial and continuous physical on-site reme
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11,1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 

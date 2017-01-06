@@ -54,7 +54,7 @@ For the purpose of making price loss coverage payments under section 9016 of thi
 
 #### (4) Use of county average yield
 
-&emsp;If the yield per planted acre for a crop of the covered commodity for a farm for any of the 2008 through 2012 crop years was less than 75 percent of the average of the 2008 through 2012county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the average of the 2008 through 2012 county yield for the purposes of determining the average yield under paragraph (3).
+&emsp;If the yield per planted acre for a crop of the covered commodity for a farm for any of the 2008 through 2012 crop years was less than 75 percent of the average of the 2008 through 2012 county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the average of the 2008 through 2012 county yield for the purposes of determining the average yield under paragraph (3).
 
 (Pub. L. 113–79, title I, §1113, Feb. 7, 2014, 128 Stat. 664.)
 

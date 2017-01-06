@@ -42,7 +42,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(iii) such representative has failed or refused to act on behalf of the individual;
 
-&emsp;(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
+&emsp;(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b);
 
 &emsp;(6) establish an advisory council—
 
@@ -52,11 +52,11 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;(C) which shall be chaired by an individual who has received or is receiving mental health services or who is a family member of such an individual;
 
-&emsp;(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
+&emsp;(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located, and make publicly available, a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
 
 &emsp;(8) on an annual basis, provide the public with an opportunity to comment on the priorities established by, and the activities of, the system;
 
-&emsp;(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
+&emsp;(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III; and
 
 &emsp;(10) not use allotments provided to a system in a manner inconsistent with section 14404 of this title.
 
@@ -82,13 +82,15 @@ The Secretary and the agency of a State which administers its State plan under t
 
 &emsp;(B) consistent with subparagraph (A), jointly develop the annual priorities of the system with the advisory council.
 
-(Pub. L. 99–319, title I, §105, May 23, 1986, 100 Stat. 480; Pub. L. 100–509, §§4–6(a), 7(c), Oct. 20, 1988, 102 Stat. 2543–2545; Pub. L. 102–173, §§6, 10, Nov. 27, 1991, 105 Stat. 1218, 1219; Pub. L. 105–12, §9(m), Apr. 30, 1997, 111 Stat. 28.)
+(Pub. L. 99–319, title I, §105, May 23, 1986, 100 Stat. 480; Pub. L. 100–509, §§4–6(a), 7(c), Oct. 20, 1988, 102 Stat. 2543–2545; Pub. L. 102–173, §§6, 10, Nov. 27, 1991, 105 Stat. 1218, 1219; Pub. L. 105–12, §9(m), Apr. 30, 1997, 111 Stat. 28; Pub. L. 114–255, div. B, title VI, §6022(a), Dec. 13, 2016, 130 Stat. 1216.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(7). Pub. L. 114–255 substituted "is located, and make publicly available, a report" for "is located a report".
 
 <b>1997</b>—Subsec. (a)(10). Pub. L. 105–12 added par. (10).
 
@@ -98,7 +100,7 @@ Subsec. (a)(4). Pub. L. 102–173, §6(a), inserted "as a result of monitoring o
 
 Subsec. (a)(6). Pub. L. 102–173, §6(b), substituted "60 percent" for "one-half" in subpar. (B) and added subpar. (C).
 
-Subsec. (a)(9). Pub. L. 102–173, §6(c), inserted before period at end "and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter".
+Subsec. (a)(9). Pub. L. 102–173, §6(c), inserted before period at end "and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III".
 
 Subsec. (b). Pub. L. 102–173, §10(2), substituted "individuals with mental illness" for "mentally ill individuals".
 

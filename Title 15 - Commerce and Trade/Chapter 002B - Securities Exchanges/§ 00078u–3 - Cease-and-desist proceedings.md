@@ -28,7 +28,7 @@ The notice instituting proceedings pursuant to subsection (a) shall fix a hearin
 
 #### (ii) Standard
 
-&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
+&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing priorto entry of the order would be impracticable or contrary to the public interest.
 
 #### (iii) Effective period
 

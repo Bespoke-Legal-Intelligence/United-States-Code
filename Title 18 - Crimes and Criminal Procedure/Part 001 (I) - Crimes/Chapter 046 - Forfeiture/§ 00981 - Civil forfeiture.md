@@ -46,7 +46,7 @@
 
 &emsp;(G) All assets, foreign or domestic—
 
-&emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any any <sup>1</sup> Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the UnitedStates, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
+&emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any any <sup>1</sup> Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
 
 &emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing any Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
 
@@ -56,9 +56,11 @@
 
 &emsp;(H) Any property, real or personal, involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a violation, of section 2339C of this title.
 
+&emsp;(I) Any property, real or personal, that is involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a prohibition imposed pursuant to section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016.
+
 (2) For purposes of paragraph (1), the term "proceeds" is defined as follows:
 
-&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term "proceeds" means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
+&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, theterm "proceeds" means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
 &emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term "proceeds" means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
@@ -84,7 +86,7 @@
 
 (B) The application for the restraining order shall set forth the nature and circumstances of the foreign charges and the basis for belief that the person arrested or charged has property in the United States that would be subject to forfeiture, and shall contain a statement that the restraining order is needed to preserve the availability of property for such time as is necessary to receive evidence from the foreign country or elsewhere in support of probable cause for the seizure of the property under this subsection.
 
-(c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the AttorneyGeneral, the Secretary of the Treasury, or the Postal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
+(c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
 
 &emsp;(1) place the property under seal;
 
@@ -94,7 +96,7 @@
 
 (d) For purposes of this section, the provisions of the customs laws relating to the seizure, summary and judicial forfeiture, condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale of such property under this section, the remission or mitigation of such forfeitures, and the compromise of claims (19 U.S.C. 1602 et seq.), insofar as they are applicable and not inconsistent with the provisions of this section, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this section, except that such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be. The Attorney General shall have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
-(e) Notwithstanding any other provision of the law, except section 3 of the Anti Drug Abuse Act of 1986, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, is authorized to retain property forfeited pursuant to this section, or to transfer such property on such terms and conditions as he may determine—
+(e) Notwithstanding any other provision of the law, except section 3 of the Anti Drug Abuse Act of 1986, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, is authorized to retain property forfeited pursuant to this section, or to transfersuch property on such terms and conditions as he may determine—
 
 &emsp;(1) to any other Federal agency;
 
@@ -178,7 +180,7 @@ In general.—For the purpose of a forfeiture under this section or under the Co
 
 &emsp;&emsp;(B)
 
-Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
+Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds,and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
 
 &emsp;(2)
 
@@ -216,11 +218,13 @@ Exception.—The foreign financial institution (as defined in section 984(c)(2)(
 
 &emsp;&emsp;&emsp;&emsp;(II) the foreign financial institution (as defined in section 984(c)(2)(A) of this title) establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign financial institution (as defined in section 984(c)(2)(A) of this title) had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign financial institution (as defined in section 984(c)(2)(A) of this title) shall be deemed the owner of the funds to the extent of such discharged obligation.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569; Pub. L. 112–186, §3, Oct. 5, 2012, 126 Stat. 1428.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title I, §§111, 120, title IV, §§404, 406(a)(3), Mar. 9, 2006, 120 Stat. 209, 221, 244; Pub. L. 111–203, title III, §377(3), July 21, 2010, 124 Stat. 1569; Pub. L. 112–186, §3, Oct. 5, 2012, 126 Stat. 1428; Pub. L. 114–122, title I, §105(a), Feb. 18, 2016, 130 Stat. 101.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec. (a)(1)(I), is classified to section 9214(a) of Title 22, Foreign Relations and Intercourse.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
@@ -236,9 +240,11 @@ Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(1)(I). Pub. L. 114–122 added subpar. (I).
+
 <b>2012</b>—Subsec. (a)(1)(C). Pub. L. 112–186 inserted "670," after "657,".
 
-<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out "Resolution Trust Corporation," after "acquired or held by the" and "or the Office of Thrift Supervision" after "Office of the Comptroller of the Currency".
+<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out "Resolution Trust Corporation,"after "acquired or held by the" and "or the Office of Thrift Supervision" after "Office of the Comptroller of the Currency".
 
 <b>2006</b>—Subsec. (a)(1)(B)(i). Pub. L. 109–177, §111, inserted "trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or" after "involves".
 
@@ -342,7 +348,7 @@ Subsec. (a)(1)(C). Pub. L. 100–690, §6463(a)(2), struck out subpar. (C) which
 
 Subsec. (a)(2). Pub. L. 100–690, §6470(e), substituted "omission" for "emission".
 
-Subsec. (b). Pub. L. 100–690, §6463(b), which directed amendment of subsec. (b) by substituting "involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury" for "involved in a violation ofsection 1956 or 1957 of this title investigated by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" was executed by substituting the new language for "involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, may be seized by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 100–690, §6463(b), which directed amendment of subsec. (b) by substituting "involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury" for "involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" was executed by substituting the new language for "involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, may be seized by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" in introductory provisions, to reflect the probable intent of Congress.
 
 Pub. L. 100–690, §6469(b)(1), inserted "or the Postal Service" after "Secretary of the Treasury" in two places in introductory provisions.
 

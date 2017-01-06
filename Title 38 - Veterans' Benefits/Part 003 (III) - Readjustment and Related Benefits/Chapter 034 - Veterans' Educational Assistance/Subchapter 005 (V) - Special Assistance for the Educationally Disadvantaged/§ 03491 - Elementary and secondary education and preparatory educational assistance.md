@@ -6,7 +6,7 @@
 
 &emsp;(2) is not on active duty and who, in order to pursue a program of education for which the veteran would otherwise be eligible, needs refresher courses, deficiency courses, or other preparatory or special educational assistance to qualify for admission to an appropriate educational institution,
 
-> the Secretary may, without regard to so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is "already qualified", approve the enrollment of such veteran in an appropriate course or courses or other special educational assistance program.
+> the Secretary may, without regard to so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is "already qualified", approve the enrollment ofsuch veteran in an appropriate course or courses or other special educational assistance program.
 
 (b)(1) The Secretary shall pay to an eligible veteran pursuing a course or courses or program pursuant to subsection (a)(2) of this section, an educational assistance allowance as provided in sections 3481 and 3482(a) or (b) of this title.
 

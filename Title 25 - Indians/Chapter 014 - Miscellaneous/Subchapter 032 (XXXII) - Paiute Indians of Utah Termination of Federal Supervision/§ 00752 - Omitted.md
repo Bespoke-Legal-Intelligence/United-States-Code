@@ -1,0 +1,6 @@
+### §752. Omitted
+
+#### Codification
+
+Section, act Sept. 1, 1954, ch. 1207, §12, 68 Stat. 1103, which provided that nothing in this subchapter would abrogate any water rights of a tribe or its members, was omitted from the Code as being of special and not general application.
+

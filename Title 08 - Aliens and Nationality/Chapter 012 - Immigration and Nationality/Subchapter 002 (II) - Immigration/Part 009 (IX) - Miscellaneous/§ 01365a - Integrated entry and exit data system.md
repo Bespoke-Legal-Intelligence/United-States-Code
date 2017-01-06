@@ -106,7 +106,7 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 "(a)
 
-System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney Generalshall develop an automated entry and exit control system that will—
+System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney General shall develop an automated entry and exit control system that will—
 
 &emsp;"(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States;
 
@@ -134,7 +134,7 @@ Information.—The report shall include the following information:
 
 "(c)
 
-Use of Information on Overstays.—Information regarding aliens who have remained in the United Staty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices."
+Use of Information on Overstays.—Information regarding aliens who have remained in the UnitedStaty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §116(1), in introductory provisions, substituted "later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney" for "later than October 15, 1998, the Attorney".
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall make grants to eligible entities to pay the Federal share of the cost of providing the services specified in subsection (b) of this section to families in which a member is—
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall make grants to eligible entities to pay the Federal share of the cost of providing the services specified in subsection (b) to families in which a member is—
 
 &emsp;&emsp;(A) a pregnant woman at risk of delivering an infant with a health or developmental complication; or
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has enteredinto a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
@@ -34,7 +34,7 @@
 
 #### (b) Home visiting services for eligible families
 
-With respect to an eligible family, each of the following services shall, directly or through arrangement with other public or nonprofit private entities, be available (as applicable to the family member involved) in each project operated with a grant under subsection (a) of this section:
+With respect to an eligible family, each of the following services shall, directly or through arrangement with other public or nonprofit private entities, be available (as applicable to the family member involved) in each project operated with a grant under subsection (a):
 
 &emsp;(1) Prenatal and postnatal health care.
 
@@ -50,7 +50,7 @@ With respect to an eligible family, each of the following services shall, direct
 
 #### (c) Considerations in making grants
 
-In awarding grants under subsection (a) of this section, the Secretary shall take into consideration—
+In awarding grants under subsection (a), the Secretary shall take into consideration—
 
 &emsp;(1) the ability of the entity involved to provide, either directly or through linkages, a broad range of preventive and primary health care services and related social, family support, and developmental services;
 
@@ -62,15 +62,15 @@ In awarding grants under subsection (a) of this section, the Secretary shall tak
 
 #### (d) Federal share
 
-With respect to the costs of carrying out a project under subsection (a) of this section, a grant under such subsection for the project may not exceed 90 percent of such costs. To be eligible to receive such a grant, an applicant must provide assurances that the applicant will obtain at least 10 percent of such costs from non-Federal funds (and such contributions to such costs may be in cash or in-kind, including facilities and personnel).
+With respect to the costs of carrying out a project under subsection (a), a grant under such subsection for the project may not exceed 90 percent of such costs. To be eligible to receive such a grant, an applicant must provide assurances that the applicant will obtain at least 10 percent of such costs from non-Federal funds (and such contributions to such costs may be in cash or in-kind, including facilities and personnel).
 
 #### (e) Rule of construction regarding at-risk births
 
-For purposes of subsection (a)(1) of this section, a pregnant woman shall be considered to be at risk of delivering an infant with a health or developmental complication if during the pregnancy the woman—
+For purposes of subsection (a)(1), a pregnant woman shall be considered to be at risk of delivering an infant with a health or developmental complication if during the pregnancy the woman—
 
 &emsp;(1) lacks appropriate access to, or information concerning, early and routine prenatal care;
 
-&emsp;(2) lacks the transportation necessary to gain access to the services described in subsection (b) of this section;
+&emsp;(2) lacks the transportation necessary to gain access to the services described in subsection (b);
 
 &emsp;(3) lacks appropriate child care assistance, which results in impeding the ability of such woman to utilize health and related social services;
 
@@ -116,15 +116,15 @@ For purposes of subsection (a)(1) of this section, a pregnant woman shall be con
 
 #### (g) Outreach
 
-Each grantee under subsection (a) of this section shall provide outreach and casefinding services to inform eligible families of the availability of home visiting services from the project.
+Each grantee under subsection (a) shall provide outreach and casefinding services to inform eligible families of the availability of home visiting services from the project.
 
 #### (h) Confidentiality
 
-In accordance with applicable State law, an entity receiving a grant under subsection (a) of this section shall maintain confidentiality with respect to services provided to families under this section.
+In accordance with applicable State law, an entity receiving a grant under subsection (a) shall maintain confidentiality with respect to services provided to families under this section.
 
 #### (i) Certain assurances
 
-The Secretary may award a grant under subsection (a) of this section only if the entity involved provides assurances satisfactory to the Secretary that—
+The Secretary may award a grant under subsection (a) only if the entity involved provides assurances satisfactory to the Secretary that—
 
 &emsp;(1) the entity will provide home visiting services with reasonable frequency—
 
@@ -136,7 +136,7 @@ The Secretary may award a grant under subsection (a) of this section only if the
 
 #### (j) Submission to Secretary of certain information
 
-The Secretary may award a grant under subsection (a) of this section only if the entity involved submits to the Secretary—
+The Secretary may award a grant under subsection (a) only if the entity involved submits to the Secretary—
 
 &emsp;(1) a description of the population to be targeted for home visiting services and methods of outreach and casefinding for identifying eligible families, including the use of lay home visitors where appropriate;
 
@@ -146,7 +146,7 @@ The Secretary may award a grant under subsection (a) of this section only if the
 
 #### (k) Limitation regarding administrative expenses
 
-Not more than 10 percent of a grant under subsection (a) of this section may be expended for administrative expenses with respect to the grant. The costs of training individuals to serve in the project involved are not subject to the preceding sentence.
+Not more than 10 percent of a grant under subsection (a) may be expended for administrative expenses with respect to the grant. The costs of training individuals to serve in the project involved are not subject to the preceding sentence.
 
 #### (l) Restrictions on use of grant
 
@@ -186,11 +186,11 @@ To be eligible to receive a grant under this section, an entity must agree to su
 
 #### (n) Requirement of application
 
-The Secretary may make a grant under subsection (a) of this section only if—
+The Secretary may make a grant under subsection (a) only if—
 
 &emsp;(1) an application for the grant is submitted to the Secretary;
 
-&emsp;(2) the application contains the agreements and assurances required in this section, and the information required in subsection (j) of this section;
+&emsp;(2) the application contains the agreements and assurances required in this section, and the information required in subsection (j);
 
 &emsp;(3) the application contains evidence that the preparation of the application has been coordinated with the State agencies responsible for maternal and child health and child welfare, and coordinated with services provided under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; and
 
@@ -200,7 +200,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 #### (1) Requirement
 
-&emsp;In making determinations for awarding grants under subsection (a) of this section, the Secretary shall rely on the recommendations of the peer review panel established under paragraph (2).
+&emsp;In making determinations for awarding grants under subsection (a), the Secretary shall rely on the recommendations of the peer review panel established under paragraph (2).
 
 #### (2) Composition
 
@@ -216,7 +216,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;The Secretary shall, directly or through contracts with public or private entities—
 
-&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) of this section in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
+&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
 
 &emsp;&emsp;(B) not less than once during each 3-year period, prepare and submit to the appropriate committees of Congress a report concerning the results of such evaluations.
 
@@ -224,9 +224,9 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;The evaluations conducted under paragraph (1) shall—
 
-&emsp;&emsp;(A) include a summary of the data contained in the annual reports submitted under subsection (m) of this section;
+&emsp;&emsp;(A) include a summary of the data contained in the annual reports submitted under subsection (m);
 
-&emsp;&emsp;(B) assess the relative effectiveness of projects under subsection (a) of this section in urban and rural areas, and among programs utilizing differing combinations of professionals and trained home visitors recruited from the community to meet the needs of defined target service populations; and
+&emsp;&emsp;(B) assess the relative effectiveness of projects under subsection (a) in urban and rural areas, and among programs utilizing differing combinations of professionals and trained home visitors recruited from the community to meet the needs of defined target service populations; and
 
 &emsp;&emsp;(C) make further recommendations necessary or desirable to increase the effectiveness of such projects.
 
@@ -236,7 +236,7 @@ For purposes of this section:
 
 &emsp;(1) The term "eligible entity" includes public and nonprofit private entities that provide health or related social services, including community-based organizations, visiting nurse organizations, hospitals, local health departments, community health centers, Native Hawaiian health centers, nurse managed clinics, family service agencies, child welfare agencies, developmental service providers, family resource and support programs, and resource mothers projects.
 
-&emsp;(2) The term "eligible family" means a family described in subsection (a) of this section.
+&emsp;(2) The term "eligible family" means a family described in subsection (a).
 
 &emsp;(3) The term "health or developmental complication", with respect to a child, means—
 
@@ -248,7 +248,7 @@ For purposes of this section:
 
 &emsp;&emsp;(D) a developmental disability or delay.
 
-&emsp;(4) The term "home visiting services" means the services specified in subsection (b) of this section, provided at the residence of the eligible family involved or provided pursuant to arrangements made for the family (including arrangements for services in community settings).
+&emsp;(4) The term "home visiting services" means the services specified in subsection (b), provided at the residence of the eligible family involved or provided pursuant to arrangements made for the family (including arrangements for services in community settings).
 
 &emsp;(5) The term "home visitors" means providers of home visiting services.
 

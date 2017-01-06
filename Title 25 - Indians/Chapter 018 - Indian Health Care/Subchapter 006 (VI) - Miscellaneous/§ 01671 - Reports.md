@@ -18,7 +18,7 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 &emsp;(4) a separate statement which specifies the amount of funds requested to carry out the provisions of section 1621 of this title;
 
-&emsp;(5) a separate statement of the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in section 1680d of this title, relating to infant and maternal mortality and fetal alcohol syndrome;
+&emsp;(5) a separate statement of the total amount obligated or expended in the most recentlycompleted fiscal year to achieve each of the objectives described in section 1680d of this title, relating to infant and maternal mortality and fetal alcohol syndrome;
 
 &emsp;(6) the reports required by sections 1602(d),<sup>2</sup> 1616a(n), 1621b(b), 1621h(j), 1631(c), 1632(g), 1634(a)(3), 1643, 1665g(e),<sup>2</sup> and 1680g(a), and 1680l(f) <sup>2</sup> of this title;
 

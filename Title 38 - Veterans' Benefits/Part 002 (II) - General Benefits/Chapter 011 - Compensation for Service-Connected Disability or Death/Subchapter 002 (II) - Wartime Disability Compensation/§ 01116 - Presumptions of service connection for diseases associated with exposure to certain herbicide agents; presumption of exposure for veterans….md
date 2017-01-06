@@ -98,6 +98,278 @@ Pub. L. 107–103, title II, §201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provi
 
 Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be paid or provided by reason of such amendment for any period before such date, see section 505(d) of Pub. L. 104–275, set out as a note under section 101 of this title.
 
+#### Toxic Exposure
+
+Pub. L. 114–315, title VI, subtitle C, Dec. 16, 2016, 130 Stat. 1579, provided that:
+
+#### "SEC. 631. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1)
+
+Armed forces.—The term 'Armed Forces' means the United States Army, Navy, Marine Corps, Air Force, and Coast Guard.
+
+&emsp;"(2)
+
+Descendant.—The term 'descendant' means, with respect to an individual, the biological child or grandchild of that individual.
+
+&emsp;"(3)
+
+Toxic exposure.—The term 'toxic exposure' means a condition in which an individual inhaled or ingested an agent determined to be hazardous to the health of the individual or the agent came in contact with the skin or eyes of the individual in a manner that could be hazardous to the health of the individual.
+
+&emsp;"(4)
+
+Veteran.—The term 'veteran' has the meaning given that term in section 101 of title 38, United States Code.
+
+#### "SEC. 632. NATIONAL ACADEMY OF MEDICINE ASSESSMENT ON RESEARCH RELATING TO THE DESCENDANTS OF INDIVIDUALS WITH TOXIC EXPOSURE.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Agreement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Medicine under which the National Academy of Medicineconducts an assessment on scientific research relating to the descendants of individuals with toxic exposure.
+
+&emsp;"(2)
+
+Alternate organization.—
+
+&emsp;&emsp;"(A)
+
+In general.—If the Secretary is unable within the period prescribed in paragraph (1) to enter into an agreement described in such paragraph with the National Academy of Medicine on terms acceptable to the Secretary, the Secretary shall seek to enter into such an agreement with another appropriate organization that—
+
+&emsp;&emsp;&emsp;"(i) is not part of the Federal Government;
+
+&emsp;&emsp;&emsp;"(ii) operates as a not-for-profit entity; and
+
+&emsp;&emsp;&emsp;"(iii) has expertise and objectivity comparable to that of the National Academy of Medicine.
+
+&emsp;&emsp;"(B)
+
+Treatment.—If the Secretary enters into an agreement with another organization as described in subparagraph (A), any reference in this section to the National Academy of Medicine shall be treated as a reference to the other organization.
+
+"(b)
+
+Elements.—The assessment conducted pursuant to the agreement entered into under subsection (a) shall include the following:
+
+&emsp;"(1) A scientific review of the scientific literature regarding toxicological and epidemiological research on descendants of individuals with toxic exposure.
+
+&emsp;"(2) An assessment of areas requiring further scientific study relating to the descendants of veterans with toxic exposure.
+
+&emsp;"(3) An assessment of the scope and methodology required to conduct adequate scientific research relating to the descendants of individuals with toxic exposure, including—
+
+&emsp;&emsp;"(A) the types of individuals to be studied, including veterans with toxic exposure and the descendants of those veterans;
+
+&emsp;&emsp;"(B) the number of veterans and descendants described in subparagraph (A) to be studied;
+
+&emsp;&emsp;"(C) the potential alternatives for participation in such a study, including whether it would be necessary for participants to travel in order to participate;
+
+&emsp;&emsp;"(D) the approximate amount of time and resources needed to prepare and conduct the research; and
+
+&emsp;&emsp;"(E) the appropriate Federal agencies to participate in the research, including the Department of Defense and the Department of Veterans Affairs.
+
+&emsp;"(4) The establishment of categories, including definitions for each such category, to be used in assessing the evidence that a particular health condition is related to toxic exposure, such as—
+
+&emsp;&emsp;"(A) sufficient evidence of a causal relationship;
+
+&emsp;&emsp;"(B) sufficient evidence of an association;
+
+&emsp;&emsp;"(C) limited or suggestive evidence of an association;
+
+&emsp;&emsp;"(D) inadequate or insufficient evidence to determine whether an association exists; and
+
+&emsp;&emsp;"(E) limited or suggestive evidence of no association.
+
+&emsp;"(5) An analysis of—
+
+&emsp;&emsp;"(A) the feasibility of conducting scientific research to address the areas that require further study as described under paragraph (2);
+
+&emsp;&emsp;"(B) the value and relevance of the information that could result from such scientific research; and
+
+&emsp;&emsp;"(C) for purposes of conducting further research, the feasibility and advisability of accessing additional information held by a Federal agency that may be sensitive.
+
+&emsp;"(6) An identification of a research entity or entities with—
+
+&emsp;&emsp;"(A) expertise in conducting research on health conditions of descendants of individuals with toxic exposure; and
+
+&emsp;&emsp;"(B) an ability to conduct research on those health conditions to address areas requiring further scientific study as described under paragraph (2).
+
+"(c)
+
+Report.—The agreement entered into under subsection (a) shall require the National Academy of Medicine to submit, not later than 2 years after entering into such agreement, to the Secretary of Veterans Affairs, the Committee on Veterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives—
+
+&emsp;"(1) the results of the assessment conducted pursuant to such agreement, including such recommendations as the National Academy of Medicine considers appropriate regarding the scope and methodology required to conduct adequate scientific research relating to the descendants of veterans with toxic exposure; and
+
+&emsp;"(2) a determination regarding whether the results of such assessment indicate that it is feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, including an explanation of the basis for the determination.
+
+"(d)
+
+Certification.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after receiving the results of the assessment and determination under subsection (c), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a certification of the understanding of the Secretary, based on such results and determination, regarding the feasibility of conducting further research regarding health conditions of descendants of veterans with toxic exposure that is expressed by such results and determination.
+
+&emsp;"(2)
+
+Basis for certification.—The certification submitted under paragraph (1) shall include an explanation of the basis for the certification.
+
+#### "SEC. 633. ADVISORY BOARD ON RESEARCH RELATING TO HEALTH CONDITIONS OF DESCENDANTS OF VETERANS WITH TOXIC EXPOSURE WHILE SERVING IN THE ARMED FORCES.
+
+"(a)
+
+Establishment.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 180 days after receiving such results and determination, the Secretary shall establish an advisory board (in this section referred to as the 'Advisory Board') to advise the Secretary in the selection of a research entity or entities under section 634, advise such entity or entities in conducting research under such section, and advise the Secretary with respect to the activities of such entity or entities under such section.
+
+"(b)
+
+Membership.—
+
+&emsp;"(1)
+
+Composition.—The Secretary, in consultation with the National Academy of Medicine, the Director of the National Institute of Environmental Health Sciences, and such other heads of Federal agencies as the Secretary determines appropriate—
+
+&emsp;&emsp;"(A) shall select not more than 13 voting members of the Advisory Board, of whom—
+
+&emsp;&emsp;&emsp;"(i) not less than two shall be members of organizations exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\];
+
+&emsp;&emsp;&emsp;"(ii) not less than two shall be descendants of veterans with toxic exposure while serving as members of the Armed Forces; and
+
+&emsp;&emsp;&emsp;"(iii) not less than seven shall be health professionals, scientists, or academics who are not employees of the Federal Government and have expertise in—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) birth defects;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) developmental disabilities;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) epigenetics;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) public health;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) the science of environmental exposure or environmental exposure assessment;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) the science of toxic substances; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) medical and research ethics; and
+
+&emsp;&emsp;"(B) may select not more than two nonvoting members who are employees of the Federal Government and who are otherwise described in subparagraph (A)(iii).
+
+&emsp;"(2)
+
+Chair.—The Secretary shall select a Chair from among the members of the Advisory Board selected under paragraph (1)(A).
+
+&emsp;"(3)
+
+Terms.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each member of the Advisory Board shall serve a term of 2 or 3 years as determined by the Secretary.
+
+&emsp;&emsp;"(B)
+
+Reappointment.—At the end of the term of a member of the Advisory Board, the Secretary may reselect the member for another term, except that no member may serve more than 4 consecutive terms.
+
+"(c)
+
+Duties.—The Advisory Board shall—
+
+&emsp;"(1) advise the Secretary in the selection of a research entity or entities to conduct research under section 634 from among those identified under section 632(b)(6);
+
+&emsp;"(2) advise such entity or entities and assess the activities of such entity or entities in conducting such research;
+
+&emsp;"(3) develop a research strategy for such entity or entities based on, but not limited to, the results of the assessment conducted under section 632;
+
+&emsp;"(4) advise the Secretary with respect to the activities of such entity or entities under section 634;
+
+&emsp;"(5) submit recommendations to be included by such entity or entities in the report under section 634(d)(2)(C); and
+
+&emsp;"(6) not less frequently than semiannually, meet with the Secretary and representatives of such entity or entities on the research conducted by such entity or entities under section 634.
+
+"(d)
+
+Meetings.—The Advisory Board shall meet at the call of the Chair, but not less frequently than semiannually.
+
+"(e)
+
+Compensation.—The members of the Advisory Board shall serve without compensation.
+
+"(f)
+
+Expenses.—The Secretary of Veterans Affairs shall determine the appropriate expenses of the Advisory Board.
+
+"(g)
+
+Personnel.—
+
+&emsp;"(1)
+
+In general.—The Chair may, without regard to the civil service laws and regulations, appoint an executive director of the Advisory Board, who shall be a civilian employee of the Department of Veterans Affairs, and such other personnel as may be necessary to enable the Advisory Board to perform its duties.
+
+&emsp;"(2)
+
+Approval.—The appointment of an executive director under paragraph (1) shall be subject to approval by the Advisory Board.
+
+&emsp;"(3)
+
+Compensation.—The Chair may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+#### "SEC. 634. RESEARCH RELATING TO HEALTH CONDITIONS OF DESCENDANTS OF VETERANS WITH TOXIC EXPOSURE WHILE SERVING IN THE ARMED FORCES.
+
+"(a)
+
+In General.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 1 year after receiving such results and determination, the Secretary shall (in consultation with the advisory board established under section 633 (in this section referred to as the 'Advisory Board')) enter into an agreement with one or more research entities identified under section 632(b)(6) (excluding an entity of the Department of Veterans Affairs) to conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces (in this section referred to as the 'research entity or entities').
+
+"(b)
+
+Research.—
+
+&emsp;"(1)
+
+In general.—To the extent included in the research strategy developed by the Advisory Board under section 633(c)(3), the research entity or entities shall conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces.
+
+&emsp;"(2)
+
+Studies.—In conducting research under paragraph (1), the research entity or entities may study any veteran, at the election of the veteran, identified under section 632(b)(3)(A) as a type of individual to be studied in order to conduct adequate scientific research relating to the descendants of veterans with toxic exposure.
+
+&emsp;"(3)
+
+Categorization.—In conducting research under paragraph (1), the research entity or entities shall assess, using the categories established under section 632(b)(4), the extent to which a health condition of a descendant of a veteran is related to the toxic exposure of the veteran while serving as a member of the Armed Forces.
+
+"(c)
+
+Availability of Records.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
+
+&emsp;"(2)
+
+Mechanism for access.—The Secretary of Veterans Affairs, the Secretary of Defense, and the head of each Federal agency identified under section 632(b)(3)(E) shall jointly establish a mechanism for access by the research entity or entities to records made available under paragraph (1).
+
+"(d)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after commencing the conduct of research under this section, and not later than September 30 each year thereafter, each research entity with which the Secretary has entered into an agreement under subsection (a) shall, in consultation with the Advisory Board, submit to the Secretary of Veterans Affairs, the Committee on Veterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives a report on the functions of such entity under this section during the year preceding the submittal of the report.
+
+&emsp;"(2)
+
+Elements.—Each report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A summary of the research efforts that have been completed during the year preceding the submittal of the report and that are ongoing as of the date of the submittal of the report.
+
+&emsp;&emsp;"(B) A description of any findings made during such year in carrying out such research efforts.
+
+&emsp;&emsp;"(C) Recommendations for administrative or legislative action made by the Advisory Board based on such findings, which may include recommendations for further research under this section.
+
+&emsp;"(3)
+
+Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
+
 #### Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent
 
 Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, provided that:
@@ -118,7 +390,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941, provided that:
 
 "(a)
 
@@ -168,11 +440,11 @@ Limitation on Authority.—The authority to enter into agreements under this sec
 
 "(i)
 
-Sunset.—This section shall cease to be effective on December 31, 2016.
+Sunset.—This section shall cease to be effective on December 31, 2017.
 
 "(j)
 
-Alternative Contract Scientific Organization.—If the Secretary is unable within the time period prescribed in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for the purposes of this section with another appropriate scientific organization that is not part of the Government and operates as a not-for-profit entity and that has expertise and objectivity comparable to that of the National Academy of Sciences. If the Secretary enters into such an agreement with another organization, then any reference in this section and in section 1116 \[formerly 316\] of title 38, United States Code (as added by section 2), to the National Academy of Sciences shall be treated as a reference to the other organization.
+Alternative Contract Scientific Organization.—If the Secretary is unable within the time period prescribed in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for the purposes of this section with another appropriate scientific organization that is not part of the Government and operates as a not-for-profit entity andthat has expertise and objectivity comparable to that of the National Academy of Sciences. If the Secretary enters into such an agreement with another organization, then any reference in this section and in section 1116 \[formerly 316\] of title 38, United States Code (as added by section 2), to the National Academy of Sciences shall be treated as a reference to the other organization.
 
 "(k)
 
@@ -254,7 +526,7 @@ Security of Specimens.—The Secretary shall ensure that the tissue is collected
 
 "(c)
 
-Authorized Use of Specimens.—The Secretary may make blood and tissue available from the system for research referred to in subsection (a). The Secretary shall carry out this section in a manner consistent with the privacy rights and interests of the blood and tissue donors.
+Authorized Use of Specimens.—The Secretary may make blood and tissue available from the system for research referred to in subsection (a). The Secretaryshall carry out this section in a manner consistent with the privacy rights and interests of the blood and tissue donors.
 
 "(d)
 
@@ -338,7 +610,7 @@ Blood Testing.—Subject to subsections (d) and (e), in the case of a veteran de
 
 "(b)
 
-Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a completeexplanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
+Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a complete explanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
 
 "(c)
 
@@ -356,7 +628,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 &emsp;"(B) notifies the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
-"(2) In making a determination under this subsection, the Secretary shall give great weight to the views and recommendations of the Academy expressed in that report with respect to the implementation of this section."
+"(2) In making a determination under this subsection, the Secretary shall give great weight to theviews and recommendations of the Academy expressed in that report with respect to the implementation of this section."
 
 #### Study of Effect of Vietnam Experience on Health Status of Women Vietnam Veterans
 
@@ -460,5 +732,5 @@ Definitions.—For the purposes of this section:
 
 #### Agent Orange Study; Report to Congressional Committees
 
-Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, §401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, §8(a), Oct. 24, 1984, 98 Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
+Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, §401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, §8(a), Oct. 24, 1984, 98Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
 

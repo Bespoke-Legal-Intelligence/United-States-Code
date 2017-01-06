@@ -18,7 +18,7 @@ Regulations.—Not later than April 1, 2010, the Secretary of Transportation, in
 
 (d)
 
-Compliance and Enforcement.—The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp car pursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
+Compliance and Enforcement.—The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp carpursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 891; Pub. L. 110–432, div. A, title IV, §420, Oct. 16, 2008, 122 Stat. 4893.)
 

@@ -34,7 +34,7 @@ Time Limitation.—(1) In the case of information or evidence that the claimant 
 
 (B) For purposes of this paragraph, the term "maximum benefit" means the highest evaluation assignable in accordance with the evidence of record, as long as such evidence is adequate for rating purposes and sufficient to grant the earliest possible effective date in accordance with section 5110 of this title.
 
-(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, §8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, §701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L. 110–389, title I, §101(a), Oct. 10, 2008, 122 Stat. 4147; Pub. L. 112–154, title V, §504(a), Aug. 6, 2012, 126 Stat. 1191.)
+(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, §8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, §701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L.110–389, title I, §101(a), Oct. 10, 2008, 122 Stat. 4147; Pub. L. 112–154, title V, §504(a), Aug. 6, 2012, 126 Stat. 1191.)
 
 #### Prior Provisions
 
@@ -74,7 +74,7 @@ Amendment effective as if enacted Nov. 9, 2000, immediately after the enactment 
 
 #### Construction
 
-Pub. L. 112–154, title V, §504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: "Nothing in the amendments madeby subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\]."
+Pub. L. 112–154, title V, §504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\]."
 
 #### Applicability of Regulations
 

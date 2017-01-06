@@ -120,7 +120,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Federally recognized tribe
 
-&emsp;&emsp;The term "federally recognized tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;The term "federally recognized tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
 #### (C) State recognized tribe
 
@@ -136,7 +136,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;Notwithstanding clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the allocation formula under section 4152 of this title shall be determined for a State recognized tribe under tribal membership eligibility criteria in existence on October 26, 1996; and
+&emsp;&emsp;&emsp;&emsp;(I) the allocation formula under section 4152 of this title shall be determinedfor a State recognized tribe under tribal membership eligibility criteria in existence on October 26, 1996; and
 
 &emsp;&emsp;&emsp;&emsp;(II) nothing in this paragraph shall be construed to confer upon a State recognized tribe any rights, privileges, responsibilities, or obligations otherwise accorded groups recognized as Indian tribes by the United States for other purposes.
 
@@ -158,7 +158,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (17) Nonprofit
 
-&emsp;The term "nonprofit" means, with respect to an organization, association, corporation, orother entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
+&emsp;The term "nonprofit" means, with respect to an organization, association, corporation, or other entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
 
 #### (18) Person with disabilities
 
@@ -220,7 +220,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, §401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, §3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, §3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, §2, Oct. 12, 2010, 124 Stat. 2850.)
+(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV,§401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, §3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, §3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, §2, Oct. 12, 2010, 124 Stat. 2850.)
 
 #### References in Text
 
@@ -230,7 +230,7 @@ The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–4
 
 The Alaska Native Claims Settlement Act, referred to in par. (13)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (13)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (13)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 For the effective date under section 705, referred to in par. (13)(C)(i)(II), as Oct. 26, 1996, see section 705 of Pub. L. 104–330, set out as an Effective Date note under section 4211 of this title.
 
@@ -255,4 +255,6 @@ Par. (12)(C)(i)(II). Pub. L. 105–276, §595(e)(2), substituted "705" for "107"
 #### Effective Date
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

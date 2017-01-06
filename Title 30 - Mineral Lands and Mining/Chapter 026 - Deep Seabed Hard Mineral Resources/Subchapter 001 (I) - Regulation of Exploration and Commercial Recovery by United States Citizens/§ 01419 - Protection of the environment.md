@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) assessment of the effects of seabased processing activities.
 
-> &emsp;Within 160 days after June 28, 1980, the Administrator shall prepare a plan to carry out the program described in this subsection, including necessary funding levels for the next five fiscal years, and shall submit the plan to the Congress.
+> &emsp;Within 160 days after June 28, 1980, the Administrator shall prepare a plan to carry out theprogram described in this subsection, including necessary funding levels for the next five fiscal years, and shall submit the plan to the Congress.
 
 #### (b) Terms, conditions, and restrictions
 

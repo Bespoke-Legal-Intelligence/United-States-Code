@@ -104,7 +104,7 @@
 
 |  |  |
 | :--- | ---: |
-| [12821\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20E%20-%20Other%20Assistance/%C2%A7%2012821%20-%20Downpayment%20assistance%20initiative.md) | Downpayment assistance initiative. |
+| [12821\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20E%20-%20Other%20Assistance/%C2%A7%2012821%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

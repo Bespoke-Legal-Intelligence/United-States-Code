@@ -24,7 +24,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;&emsp;(C) in the Individual Ready Reserve;
 
-&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
+&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated bythe Secretary of Defense and the head of such program for purposes of this section; or
 
 &emsp;&emsp;(E) in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 
@@ -50,7 +50,7 @@ Election of Incentive.—A National Call to Service participant shall elect in t
 
 (g)
 
-Payment of Bonus Amounts.—(1) Payment to a National Call to Service participant of thebonus elected by the National Call to Service participant under subsection (e)(1) shall be made in such time and manner as the Secretary of Defense shall prescribe.
+Payment of Bonus Amounts.—(1) Payment to a National Call to Service participant of the bonus elected by the National Call to Service participant under subsection (e)(1) shall be made in such time and manner as the Secretary of Defense shall prescribe.
 
 (2)(A) Payment of outstanding principal and interest on the qualifying student loans of a National Call to Service participant, as elected under subsection (e)(2), shall be made in such time and manner as the Secretary of Defense shall prescribe.
 
@@ -76,7 +76,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (i)
 
-Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37.
+Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total periodof service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (j)
 
@@ -142,7 +142,7 @@ Pub. L. 107–314, div. A, title V, §531(b), Dec. 2, 2002, 116 Stat. 2544, dire
 
 #### Implementation Report
 
-Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submit to committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
+Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, directed the Secretary of Defense to submitto committees of Congress a report on the Secretary's plans for implementation of this section not later than Mar. 31, 2003.
 
 #### Effectiveness Reports
 

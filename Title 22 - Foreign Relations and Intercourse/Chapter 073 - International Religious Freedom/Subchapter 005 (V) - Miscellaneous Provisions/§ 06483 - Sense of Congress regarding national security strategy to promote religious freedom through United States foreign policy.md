@@ -1,0 +1,24 @@
+### §6483. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy
+
+It is the sense of Congress that the annual national security strategy report of the President required under section 3043 of title 50—
+
+&emsp;(1) should promote international religious freedom as a foreign policy and national security priority; and
+
+&emsp;(2) should articulate that promotion of the right to freedom of religion is a strategy that—
+
+&emsp;&emsp;(A) protects other, related human rights, and advances democracy outside the United States; and
+
+&emsp;&emsp;(B) makes clear its importance to United States foreign policy goals of stability, security, development, and diplomacy;
+
+&emsp;(3) should be a guide for the strategies and activities of relevant Federal agencies; and
+
+&emsp;(4) should inform the Department of Defense quadrennial defense review under section 118 <sup>1</sup> of title 10 and the Department of State Quadrennial Diplomacy and Development Review.
+
+(Pub. L. 105–292, title VII, §703, as added Pub. L. 114–281, title VI, §601, Dec. 16, 2016, 130 Stat. 1439.)
+
+#### References in Text
+
+Section 118 of title 10, referred to in par. (4), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see section 113(g) of Title 10, Armed Forces.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

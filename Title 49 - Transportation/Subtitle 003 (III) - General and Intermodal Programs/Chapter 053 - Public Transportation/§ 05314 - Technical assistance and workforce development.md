@@ -70,7 +70,7 @@ In general.—The Government share of the cost of an activity carried out using 
 
 &emsp;&emsp;(B)
 
-Non-government share.—The non-Government share of the cost of an activity carried out using a grant under this subsection may be derived from in-kind contributions.
+Non-government share.—The non-Government share of the cost of an activitycarried out using a grant under this subsection may be derived from in-kind contributions.
 
 (b)
 
@@ -164,7 +164,7 @@ National Transit Institute.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a national transit institute and award grants to a public 4-year degree-granting institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)), in order to carry out the duties of the institute.
+Establishment.—The Secretary shall establish a national transit institute and award grants to a public 4-year degree-granting institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965\(20 U.S.C. 1001(a)), in order to carry out the duties of the institute.
 
 &emsp;(2)
 

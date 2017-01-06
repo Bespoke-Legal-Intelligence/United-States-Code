@@ -28,7 +28,7 @@ Congress finds that—
 
 &emsp;(7) increasing the volume and value of exports is important to the financial well-being of the farm sector in the United States and to increasing farm income in the United States;
 
-&emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers inthe United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Food for Peace Act (7 U.S.C. 1691 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
+&emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers in the United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Food for Peace Act (7 U.S.C. 1691 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
 
 &emsp;(9) greater use should be made by the Secretary of Agriculture of the authorities established under section 4 <sup>1</sup> of the Food for Peace Act of 1966 (7 U.S.C. 1707a), the Food for Peace Act (7 U.S.C. 1691 et seq.), section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), and the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.) to provide intermediate credit financing and other assistance for the establishment of facilities in importing countries to—
 

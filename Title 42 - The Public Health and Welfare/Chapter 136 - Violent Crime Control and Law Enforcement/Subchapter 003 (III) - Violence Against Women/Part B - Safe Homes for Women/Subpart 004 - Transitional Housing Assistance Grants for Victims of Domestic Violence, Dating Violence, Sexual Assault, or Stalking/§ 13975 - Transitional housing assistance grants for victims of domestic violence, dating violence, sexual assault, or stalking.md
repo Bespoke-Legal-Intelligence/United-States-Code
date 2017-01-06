@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, acting in consultation with the Director of the Violence Against Women Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section toStates, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the "recipient") to carry out programs to provide assistance to minors, adults, and their dependents—
+The Attorney General, acting in consultation with the Director of the Violence AgainstWomen Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section to States, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the "recipient") to carry out programs to provide assistance to minors, adults, and their dependents—
 
 &emsp;(1) who are homeless, or in need of transitional housing or other housing assistance, as a result of a situation of domestic violence, dating violence, sexual assault, or stalking; and
 
@@ -14,7 +14,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;(1) transitional housing, including funding for the operating expenses of newly developed or existing transitional housing.<sup>1</sup>
 
-&emsp;(2) short-term housing assistance, including rental or utilities payments assistance and assistance with related expenses such as payment of security deposits and other costs incidental to relocation to transitional housing for persons described in subsection (a) of this section; and
+&emsp;(2) short-term housing assistance, including rental or utilities payments assistance and assistance with related expenses such as payment of security deposits and other costs incidental to relocation to transitional housing for persons described in subsection (a); and
 
 &emsp;(3) support services designed to enable a minor, an adult, or a dependent of such minor or adult, who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—
 
@@ -50,7 +50,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(A) describe the activities for which assistance under this section is sought;
 
-&emsp;&emsp;(B) provide assurances that any supportive services offered to participants in programs developed under subsection (b)(3) of this section are voluntary and that refusal to receive such services shall not be grounds for termination from the program or eviction from the victim's housing; and
+&emsp;&emsp;(B) provide assurances that any supportive services offered to participants in programs developed under subsection (b)(3) are voluntary and that refusal to receive such services shall not be grounds for termination from the program or eviction from the victim's housing; and
 
 &emsp;&emsp;(C) provide such additional assurances as the Attorney General determines to be essential to ensure compliance with the requirements of this section.
 
@@ -88,7 +88,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(D) the type of support services provided to each minor, adult, or dependent, assisted under this section; and
 
-&emsp;&emsp;(E) the client population served and the number of individuals requesting servicesthat the transitional housing program is unable to serve as a result of a lack of resources.
+&emsp;&emsp;(E) the client population served and the number of individuals requesting services that the transitional housing program is unable to serve as a result of a lack of resources.
 
 #### (f) Report to Congress
 
@@ -138,7 +138,7 @@ In general.—Not less than 10 percent of the total amount available under this 
 
 Applicability of part.— <sup>3</sup> The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
 
-&emsp;&emsp;(ii) Priority shall be given to projects developed under subsection (b) of this section that primarily serve underserved populations.
+&emsp;&emsp;(ii) Priority shall be given to projects developed under subsection (b) that primarily serve underserved populations.
 
 #### (D) Qualified application defined
 

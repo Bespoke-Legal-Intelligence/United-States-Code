@@ -14,7 +14,7 @@ Not later than December 31 of each year, the President shall prepare and transmi
 
 #### (b) Supplemental views in annual report
 
-Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
+Not later than December 15 of each year, each member of the Board shall be entitled to receivea copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
 
 (Pub. L. 87–195, pt. V, §813, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 893.)
 
@@ -22,7 +22,7 @@ Not later than December 15 of each year, each member of the Board shall be entit
 
 Prior sections 2432 to 2435 were repealed by Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761.
 
-Section 2432, Pub. L. 87–195, pt. V, §802, as added Pub. L. 93–189, §24, Dec. 17, 1973, 87 Stat. 728, authorized appropriation of $504,000,000 for fiscal year 1974 to remainavailable until expended for relief and reconstruction of South Vietnam, Cambodia, and Laos.
+Section 2432, Pub. L. 87–195, pt. V, §802, as added Pub. L. 93–189, §24, Dec. 17, 1973, 87 Stat. 728, authorized appropriation of $504,000,000 for fiscal year 1974 to remain available until expended for relief and reconstruction of South Vietnam, Cambodia, and Laos.
 
 Section 2433, Pub. L. 87–195, pt. V, §803, as added Pub. L. 93–189, §24, Dec. 17, 1973, 87 Stat. 728, provided for assistance to South Vietnamese children.
 

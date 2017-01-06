@@ -38,7 +38,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(14) Such other functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L.110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, §1081(3), Jan. 2, 2013, 126 Stat. 1960.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, §1081(3), Jan. 2, 2013, 126 Stat. 1960.)
 
 #### Amendments
 
@@ -49,6 +49,10 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 Pub. L. 110–181, §1813(b)(1), in introductory provisions, substituted "The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop" for "The Secretary of the Army and the Secretary of the Air Force shall jointly develop" and "reflect the full scope of the duties and activities of the Bureau, including" for "cover".
 
 Pars. (2) to (14). Pub. L. 110–181, §1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted "the Secretary of Defense" for "the Secretaries" in par. (14).
+
+#### Effective Date
+
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 
 #### Annual Preparation of Future Years Defense Plan
 

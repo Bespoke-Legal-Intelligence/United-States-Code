@@ -64,7 +64,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
-(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agenciesand officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
@@ -213,6 +213,42 @@ Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided th
 &emsp;"(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 
 &emsp;"(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander."
+
+#### Limiting the Use of Restrictive Housing by the Federal Government
+
+Memorandum of President of the United States, Mar. 1, 2016, 81 F.R. 11997, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+A growing body of evidence suggests that the overuse of solitary confinement and other forms of restrictive housing in U.S. correctional systems undermines public safety and is contrary to our Nation's values.
+
+In July 2015, as part of my Administration's ongoing efforts to pursue reforms that make the criminal justice system more fair and effective, I directed the Attorney General to undertake a comprehensive review of the overuse of solitary confinement across American prisons. Since that time, senior officials at the Department of Justice (DOJ) have met regularly to study the issue and develop strategies for reducing the use of this practice nationwide.
+
+Those efforts gave rise to a final report transmitted to me on January 25, 2016 (DOJ Report and Recommendations Concerning the Use of Restrictive Housing) (the "DOJ Report"), that sets forth specific policy recommendations for DOJ with respect to the Federal Bureau of Prisons and other DOJ entities as well as more general guiding principles for all correctional systems.
+
+As the DOJ Report makes clear, although occasions exist when correctional officials have no choice but to segregate inmates from the general population, this action has the potential to cause serious, long-lasting harm. The DOJ Report accordingly emphasizes the responsibility of Government to ensure that this practice is limited, applied with constraints, and used only as a measure of last resort.
+
+Given the urgency and importance of this issue, it is critical that DOJ accelerate efforts to reduce the number of Federal inmates and detainees held in restrictive housing and that Federal correctional and detention systems be models for facilities across the United States. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the overuse of solitary confinement in correctional and detention systems throughout the United States, I hereby direct as follows:
+
+Section 1. <i>Implementation of the DOJ Report</i>. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the status of these efforts not later than 180 days after the date of this memorandum.
+
+(b) Other executive departments and agencies (agencies) that impose restrictive housing shall review the DOJ Report to determine whether corresponding changes at their facilities should be made in light of the policy recommendations and guiding principles in the DOJ Report.
+
+These other agencies shall report back to me not later than 180 days after the date of this memorandum on how they plan to address their use of restrictive housing.
+
+Sec. 2. <i>General Provisions</i>. (a) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 3. <i>Publication</i>. The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(6)".</i>
 

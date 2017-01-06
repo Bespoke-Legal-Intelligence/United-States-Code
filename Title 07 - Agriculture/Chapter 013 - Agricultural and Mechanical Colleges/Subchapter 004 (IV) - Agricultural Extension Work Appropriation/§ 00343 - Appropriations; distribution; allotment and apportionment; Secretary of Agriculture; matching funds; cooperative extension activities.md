@@ -14,7 +14,7 @@ Annual appropriation for hispanic-serving agricultural colleges and universities
 
 &emsp;(A)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-serving agricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-servingagricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
 
 &emsp;(B)
 
@@ -44,7 +44,7 @@ Matching Funds.—
 
 &emsp;(1)
 
-Requirement.—Except as provided in paragraph (4) and subsection (f), no allotment shall be made to a State under subsection (b)or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
+Requirement.—Except as provided in paragraph (4) and subsection (f), no allotment shall be made to a State under subsection (b) or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
 
 &emsp;(2)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
+In general.—Not less than the applicable percentage specified under paragraph (2) of theamounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
 
 &emsp;(2)
 
@@ -146,7 +146,7 @@ Other requirements.—An extension activity for which merit review is conducted 
 
 Integration of Research and Extension.—Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.
 
-(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §§7129(b), 7403(a), May 22, 2008, 122 Stat. 1226, 1246; Pub. L. 110–246, §4(a), title VII, §§7129(b), 7403(a), June 18, 2008, 122 Stat. 1664, 1987, 2007.)
+(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §§7129(b), 7403(a), May 22, 2008, 122 Stat. 1226, 1246; Pub. L. 110–246, §4(a), title VII, §§7129(b), 7403(a), June 18, 2008, 122 Stat. 1664, 1987, 2007.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out head
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted "Secretary of Agriculture" for "Federal Extension Service".
 
-Subsec. (b)(3). Pub. L. 105–185, §201, substituted "1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State." for "State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt."
+Subsec. (b)(3). Pub. L. 105–185, §201, substituted "1994 Institutions (in accordance with regulations that theSecretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State." for "State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt."
 
 Subsec. (c)(1). Pub. L. 105–185, §203(b)(1)(A), (c)(2)(A), redesignated par. 1 as (1) and substituted "Secretary of Agriculture" for "Federal Extension Service".
 
@@ -214,7 +214,7 @@ Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redes
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–749, §1(b), substituted "sums available" for "sums received", and "1962" for "1953", and struck out ", Alaska, Hawaii, Puerto Rico," before "and the Federal Extension Service","such sums shall be" before "subject to the same requirement", ", Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953" before "except that amounts heretofore", and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
+<b>1962</b>—Subsec. (b). Pub. L. 87–749, §1(b), substituted "sums available" for "sums received", and "1962" for "1953", and struck out ", Alaska, Hawaii, Puerto Rico," before "and the Federal Extension Service", "such sums shall be" before "subject to the same requirement", ", Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953" before "except that amounts heretofore", and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
 
 Subsec. (c)1. Pub. L. 87–749, §1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 

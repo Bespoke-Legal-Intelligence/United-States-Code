@@ -14,7 +14,7 @@
 
 &emsp;(B) that are within 50 miles of the source,
 
-> of each permit application or proposed permit forwarded to the Administrator under this section, and shall provide an opportunity for such States to submit written recommendations respecting the issuance of the permit and its terms and conditions. If any part of those recommendations are not accepted by the permitting authority, such authority shall notify the State submitting the recommendations and the Administrator in writing of its failure to accept those recommendations and the reasons therefor.
+> of each permit application or proposed permit forwarded to the Administrator under this section, and shall provide an opportunity for such States to submit written recommendations respecting the issuance of the permit and itsterms and conditions. If any part of those recommendations are not accepted by the permitting authority, such authority shall notify the State submitting the recommendations and the Administrator in writing of its failure to accept those recommendations and the reasons therefor.
 
 #### (b) Objection by EPA
 
@@ -34,7 +34,7 @@ If the permitting authority fails, within 90 days after the date of an objection
 
 (2) The Administrator may, by regulation, establish categories of sources (including any class, type, or size within such category) to which the requirements of subsections (a) and (b) of this section shall not apply. The preceding sentence shall not apply to major sources.
 
-(3) The Administrator may exclude from any waiver under this subsection notification under subsection (a)(2) of this section. Any waivergranted under this subsection may be revoked or modified by the Administrator by rule.
+(3) The Administrator may exclude from any waiver under this subsection notification under subsection (a)(2) of this section. Any waiver granted under this subsection may be revoked or modified by the Administrator by rule.
 
 #### (e) Refusal of permitting authority to terminate, modify, or revoke and reissue
 

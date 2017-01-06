@@ -1,0 +1,6 @@
+### §972. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–629, §2, Sept. 5, 1962, 76 Stat. 429, which related to personal property rights of tribe members and restrictions thereon, was omitted from the Code as being of special and not general application.
+

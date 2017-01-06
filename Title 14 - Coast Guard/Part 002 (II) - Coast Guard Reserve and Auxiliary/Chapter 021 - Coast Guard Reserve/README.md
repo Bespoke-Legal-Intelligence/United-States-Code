@@ -14,12 +14,7 @@
 | [706\.](Subchapter%20A%20-%20General/%C2%A7%2000706%20-%20Temporary%20members%20of%20the%20Reserve%3B%20eligibility%20and%20compensation.md) | Temporary members of the Reserve; eligibility and compensation. |
 | [707\.](Subchapter%20A%20-%20General/%C2%A7%2000707%20-%20Temporary%20members%20of%20the%20Reserve%3B%20disability%20or%20death%20benefits.md) | Temporary members of the Reserve; disability or death benefits. |
 | [708\.](Subchapter%20A%20-%20General/%C2%A7%2000708%20-%20Temporary%20members%20of%20the%20Reserve%3B%20certificate%20of%20honorable%20service.md) | Temporary members of the Reserve; certificate of honorable service. |
-| [709\.](Subchapter%20A%20-%20General/%C2%A7%2000709%20-%20Reserve%20student%20aviation%20pilots%3B%20Reserve%20aviation%20pilots%3B%20appointments%20in%20commissioned%20grade.md) | Reserve student aviation pilots; reserve aviation pilots; appointments in commissioned grade.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [709\.](Subchapter%20A%20-%20General/%C2%A7%2000709%20-%20Reserve%20student%20aviation%20pilots%3B%20Reserve%20aviation%20pilots%3B%20appointments%20in%20commissioned%20grade.md) | Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade. |
 | [709a.](Subchapter%20A%20-%20General/%C2%A7%2000709a%20-%20Reserve%20student%20pre-commissioning%20assistance%20program.md) | Reserve student pre-commissioning assistance program. |
 | [710\.](Subchapter%20A%20-%20General/%C2%A7%2000710%20-%20Appointment%20or%20wartime%20promotion%3B%20retention%20of%20grade%20upon%20release%20from%20active%20duty.md) | Appointment or wartime promotion; retention of grade upon release from active duty. |
 | [711\.](Subchapter%20A%20-%20General/%C2%A7%2000711%20-%20Exclusiveness%20of%20service.md) | Exclusiveness of service. |
@@ -54,12 +49,7 @@
 | [737\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000737%20-%20Type%20of%20promotion%3B%20temporary.md) | Type of promotion; temporary. |
 | [738\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000738%20-%20Effect%20of%20removal%20by%20the%20President%20or%20failure%20of%20consent%20of%20the%20Senate.md) | Effect of removal by the President or failure of consent of the Senate. |
 | [739\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000739%20-%20Failure%20of%20selection%20for%20promotion.md) | Failure of selection for promotion. |
-| [740\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000740%20-%20Failure%20of%20selection%20and%20removal%20from%20an%20active%20status.md) | Failure of selection and removal from active status.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [740\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000740%20-%20Failure%20of%20selection%20and%20removal%20from%20an%20active%20status.md) | Failure of selection and removal from an active status. |
 | [741\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000741%20-%20Retention%20boards%3B%20removal%20from%20an%20active%20status%20to%20provide%20a%20flow%20of%20promotion.md) | Retention boards; removal from an active status to provide a flow of promotion. |
 | [742\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000742%20-%20Maximum%20ages%20for%20retention%20in%20an%20active%20status.md) | Maximum ages for retention in an active status. |
 | [743\.](Subchapter%20B%20-%20Commissioned%20Officers/%C2%A7%2000743%20-%20Rear%20admiral%20and%20rear%20admiral%20%28lower%20half%29%3B%20maximum%20service%20in%20grade.md) | Rear admiral and rear admiral (lower half); maximum service in grade. |
@@ -70,6 +60,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title II, §209(12), Feb. 8, 2016, 130 Stat. 41, substituted "Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade" for "Reserve student aviation pilots; reserve aviation pilots; appointments in commissioned grade" in item 709 and "Failure of selection and removal from an active status" for "Failure of selection and removal from active status" in item 740.
 
 <b>2002</b>—Pub. L. 107–295, title IV, §413(b), Nov. 25, 2002, 116 Stat. 2120, added item 709a.
 
@@ -98,10 +90,6 @@ Pub. L. 87–649, §7(d), Sept. 7, 1962, 76 Stat. 495, substituted "Benefits" fo
 <b>1958</b>—Pub. L. 85–861, §5(3), Sept. 2, 1958, 72 Stat. 1555, added heading "Commissioned Officers" and items 770 to 795.
 
 <b>1956</b>—Act Aug. 10, 1956, ch. 1041, §§15(b), 16(b), 70A Stat. 625, 626, added items 751a, 752a, 753a, 758a, and 759a.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

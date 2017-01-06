@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Energy shall prepare and implement a research and development plan to improve nuclear forensics capabilities in the Department of Energy and at the national laboratories overseen by the Department of Energy. The plan shall focus on improving the technical capabilities required—
 
-&emsp;&emsp;(A) to enable a robust and timely nuclear forensic response to a nuclear explosion orto the interdiction of nuclear material or a nuclear weapon anywhere in the world; and
+&emsp;&emsp;(A) to enable a robust and timely nuclear forensic response to a nuclear explosion or to the interdiction of nuclear material or a nuclear weapon anywhere in the world; and
 
 &emsp;&emsp;(B) to develop an international database that can attribute nuclear material or a nuclear weapon to its source.
 

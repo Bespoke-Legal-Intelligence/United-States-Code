@@ -14,7 +14,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (1) In general
 
-&emsp;An eligible organization may use a grant awarded under subsection (a) of this section to provide, in rural areas—
+&emsp;An eligible organization may use a grant awarded under subsection (a) to provide, in rural areas—
 
 &emsp;&emsp;(A) rent, mortgage, or utility assistance after 2 months of nonpayment in order to prevent eviction, foreclosure, or loss of utility service;
 
@@ -72,7 +72,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (2) Capacity building activities
 
-&emsp;Not more than 20 percent of the funds transferred under subsection (l)(1) of this section for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
+&emsp;Not more than 20 percent of the funds transferred under subsection (l)(1) for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
 
 #### (c) Award of grants
 
@@ -80,7 +80,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (A) Set aside
 
-&emsp;&emsp;In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection (l)(1) of this section for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
+&emsp;&emsp;In awarding grants under subsection (a) for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection (l)(1) for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
 
 #### (B) Priority within set aside
 
@@ -88,15 +88,15 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (2) Communities without significant Federal assistance
 
-&emsp;In awarding grants under subsection (a) of this section, including grants awarded in accordance with paragraph (1), the Secretary shall give priority to eligible organizations serving communities not currently receiving significant Federal assistance under this chapter.
+&emsp;In awarding grants under subsection (a), including grants awarded in accordance with paragraph (1), the Secretary shall give priority to eligible organizations serving communities not currently receiving significant Federal assistance under this chapter.
 
 #### (3) State limit
 
-&emsp;In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection (l)(1) of this section, for the fiscal year.
+&emsp;In awarding grants under subsection (a) for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection (l)(1), for the fiscal year.
 
 #### (d) Application
 
-In order to be eligible to receive a grant under subsection (a) of this section, an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
+In order to be eligible to receive a grant under subsection (a), an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
 
 &emsp;(1) a description of the target population and geographic area to be served;
 
@@ -104,7 +104,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(3) an assurance that the assistance to be provided is closely related to the identified needs of the target population;
 
-&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existingassistance or provide assistance not available in the immediate area;
+&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existing assistance or provide assistance not available in the immediate area;
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served;
 
@@ -116,13 +116,13 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 #### (e) Eligible organizations
 
-Organizations eligible to receive a grant under subsection (a) of this section shall include private nonprofit entities and county and local governments.
+Organizations eligible to receive a grant under subsection (a) shall include private nonprofit entities and county and local governments.
 
 #### (f) Matching funding
 
 #### (1) In general
 
-&emsp;An organization eligible to receive a grant under subsection (a) shall specify matching contributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
+&emsp;An organization eligible to receive a grant under subsection (a) shall specify matchingcontributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
 
 #### (2) Limitations on in-kind match
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall determine the total amount of funding attributable under section 11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
+&emsp;The Secretary shall determine the total amount of funding attributable under section11386a(b)(2) of this title to meet the needs of any geographic area in the Nation that applies for funding under this section. The Secretary shall transfer any amounts determined under this subsection from the Community Homeless Assistance Program and consolidate such transferred amounts for grants under this section, except that the Secretary shall transfer an amount not less than 5 percent of the amount available under part C for grants under this section. Any amounts so transferred and not used for grants under this section due to an insufficient number of applications shall be transferred to be used for grants under part C.
 
 #### (2) Availability
 
@@ -278,5 +278,5 @@ Amendment by Pub. L. 104–330 applicable with respect to amounts made available
 
 #### Definition
 
-For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub.L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

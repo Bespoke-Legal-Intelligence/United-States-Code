@@ -20,7 +20,7 @@
 
 (c)(1) Except in any case to which subsection (b) of this section applies, if an agency involved in collective bargaining with an exclusive representative alleges that the duty to bargain in good faith does not extend to any matter, the exclusive representative may appeal the allegation to the Authority in accordance with the provisions of this subsection.
 
-(2) The exclusive representative may, on or before the 15th day after the date on which theagency first makes the allegation referred to in paragraph (1) of this subsection, institute an appeal under this subsection by—
+(2) The exclusive representative may, on or before the 15th day after the date on which the agency first makes the allegation referred to in paragraph (1) of this subsection, institute an appeal under this subsection by—
 
 &emsp;(A) filing a petition with the Authority; and
 
@@ -57,6 +57,10 @@
 &emsp;(B) the agency shall provide the labor organization a written statement of the reasons for taking the final action.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1205.)
+
+#### Effective Date
+
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 

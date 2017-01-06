@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall carry out a pilot program at notmore than 10 commercial service airports under which the sponsors of such airports may use an amount made available under section 48103 to retrofit existing eligible airport ground support equipment that burns conventional fuels to achieve lower emissions utilizing emission control technologies certified or verified by the Environmental Protection Agency.
+In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 commercial service airports under which the sponsors of such airports may use an amount made available under section 48103 to retrofit existing eligible airport ground support equipment that burns conventional fuels to achieve lower emissions utilizing emission control technologies certified or verified by the Environmental Protection Agency.
 
 (b)
 

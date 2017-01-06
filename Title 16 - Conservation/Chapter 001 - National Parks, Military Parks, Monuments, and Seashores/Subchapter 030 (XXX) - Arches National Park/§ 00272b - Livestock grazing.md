@@ -16,7 +16,7 @@ In a case in which any Federal lands included within the park are legally occupi
 
 #### (3) Periodic renewal
 
-&emsp;Until the expiration of the period described in paragraph (1), the holder (or descendant of the holder) of a grazing lease, permit, or license shall be entitled to renew the lease, permit, or license periodically, subject to suchlimitations, conditions, or regulations as the Secretary may prescribe.
+&emsp;Until the expiration of the period described in paragraph (1), the holder (or descendant of the holder) of a grazing lease, permit, or license shall be entitled to renew the lease, permit, or license periodically, subject to such limitations, conditions, or regulations as the Secretary may prescribe.
 
 #### (4) Sale
 

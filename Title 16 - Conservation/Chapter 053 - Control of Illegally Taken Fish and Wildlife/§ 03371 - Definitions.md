@@ -4,7 +4,7 @@ For the purposes of this chapter:
 
 (a) The term "fish or wildlife" means any wild animal, whether alive or dead, including without limitation any wild mammal, bird, reptile, amphibian, fish, mollusk, crustacean, arthropod, coelenterate, or other invertebrate, whether or not bred, hatched, or born in captivity, and includes any part, product, egg, or offspring thereof.
 
-(b) The term "import" means to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or notsuch landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+(b) The term "import" means to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 (c) The term "Indian tribal law" means any regulation of, or other rule of conduct enforceable by, any Indian tribe, band, or group but only to the extent that the regulation or rule applies within Indian country as defined in section 1151 of title 18.
 
@@ -68,7 +68,7 @@ Taking.—The term "taking" means the act by which fish, wildlife, or plants are
 
 This chapter, referred to in the provision preceding par. (a), and in par. (h), was in the original "this Act" and "the Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in par. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
 

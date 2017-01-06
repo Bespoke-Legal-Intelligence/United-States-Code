@@ -30,11 +30,11 @@ Inclusions.—The term "Indian tribe" includes an Alaska Native village, as defi
 
 &emsp;(7) The term "regulated substance" means—
 
-&emsp;&emsp;(A) any substance defined in section 9601(14) of this title (but not including any substance regulated as a hazardous waste under subchapter III of this chapter), and
+&emsp;&emsp;(A) any substance defined in section 9601(14) of this title (but not including any substance regulated as a hazardous waste under subchapter III), and
 
 &emsp;&emsp;(B) petroleum.
 
-&emsp;(8) The term "release" means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
+&emsp;(8) The term "release" means any spilling, leaking, emitting, discharging, escaping,leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
 
 &emsp;(9)
 

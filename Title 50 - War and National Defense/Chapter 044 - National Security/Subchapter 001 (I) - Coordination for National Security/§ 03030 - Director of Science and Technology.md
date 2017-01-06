@@ -14,7 +14,7 @@ The Director of Science and Technology shall—
 
 &emsp;(1) act as the chief representative of the Director of National Intelligence for science and technology;
 
-&emsp;(2) chair the Director of National Intelligence Science and Technology Committee under subsection (d) of this section;
+&emsp;(2) chair the Director of National Intelligence Science and Technology Committee under subsection (d);
 
 &emsp;(3) assist the Director in formulating a long-term strategy for scientific advances in the field of intelligence;
 

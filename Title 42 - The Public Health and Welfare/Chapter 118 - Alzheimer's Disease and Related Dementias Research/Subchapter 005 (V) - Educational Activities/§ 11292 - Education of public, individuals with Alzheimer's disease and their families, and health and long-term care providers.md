@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;The Director of the National Institute on Aging may award grants to eligible entities toassist the entities in developing and evaluating model training programs—
+&emsp;The Director of the National Institute on Aging may award grants to eligible entities to assist the entities in developing and evaluating model training programs—
 
 &emsp;&emsp;(A) for—
 
@@ -50,7 +50,7 @@ In awarding grants under this section, the Director of the National Institute on
 
 &emsp;(1) award the grants on the basis of merit;
 
-&emsp;(2) award the grants in a manner that will ensure access to the programs described in subsections (a) and (b) of this section by rural, minority, and underserved populations throughout the country; and
+&emsp;(2) award the grants in a manner that will ensure access to the programs described in subsections (a) and (b) by rural, minority, and underserved populations throughout the country; and
 
 &emsp;(3) ensure that the grants are distributed among the principal geographic regions of the United States.
 

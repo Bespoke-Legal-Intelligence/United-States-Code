@@ -26,7 +26,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsecs. (e), (f). Pub. L. 97–322 repealed subsec. (e) which required that the Secretary, annually and not later than April 1, file with the Speaker of the House and the President of the Senate a report of the utilization of subsecs. (a), (b), and (d) authority during the preceding calendar year, and subsec. (f) which prohibited utilization of subsecs. (a), (b), (c), or (d) authority after Apr. 1, 1973, unless all required subsec. (e) reports were filed with the Congress.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
+<b>1981</b>—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do nothave dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–376 substituted "multiyear basis" for "multi-year basis," and authorized advance payment for any housing facilities lease in accordance with local custom and practice.
 

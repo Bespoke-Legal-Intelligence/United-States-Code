@@ -92,7 +92,7 @@
 
 &emsp;(I) conduct a periodic statewide needs assessment concerning the quality and availability of early childhood education and development programs and services for children from birth to school entry, including an assessment of the availability of high-quality pre-kindergarten services for low-income children in the State;
 
-&emsp;(II) identify opportunities for, and barriers to, collaboration and coordination among Federally-funded and State-funded child development, child care, and early childhood education programs and services, including collaboration and coordination among State agencies responsible for administering such programs;
+&emsp;(II) identify opportunities for, and barriers to, collaboration and coordination among Federally-funded and State-funded child development, child care, and early childhood education programs and services, including collaboration and coordination among Stateagencies responsible for administering such programs;
 
 &emsp;(III) develop recommendations for increasing the overall participation of children in existing Federal, State, and local child care and early childhood education programs, including outreach to underrepresented and special populations;
 
@@ -140,11 +140,11 @@
 
 &emsp;(ii) information about how the State used such funds to meet the goals of this subsection through activities to develop or enhance high-quality systems of early childhood education and care, increase effectiveness of delivery systems and use of funds, and enhance existing programs and services;
 
-&emsp;(iii) information regarding the remaining needs described in the periodic statewide needs assessment and statewide strategic report that have not yet been addressed by the State; and
+&emsp;(iii) information regarding the remaining needs described in the periodic statewide needsassessment and statewide strategic report that have not yet been addressed by the State; and
 
 &emsp;(iv) any other information that the Secretary may require.
 
-(F) Nothing in this subsection shall be construed to provide the State Advisory Councilwith authority to modify, supersede, or negate the requirements of this subchapter.
+(F) Nothing in this subsection shall be construed to provide the State Advisory Council with authority to modify, supersede, or negate the requirements of this subchapter.
 
 (Pub. L. 97–35, title VI, §642B, as added and amended Pub. L. 110–134, §11, Dec. 12, 2007, 121 Stat. 1408.)
 

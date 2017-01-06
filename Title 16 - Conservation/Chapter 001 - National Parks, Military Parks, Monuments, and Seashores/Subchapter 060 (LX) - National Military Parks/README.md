@@ -27,6 +27,7 @@
 - [&sect; 00423a - Acceptance of donations of lands](%C2%A7%2000423a%20-%20Acceptance%20of%20donations%20of%20lands.md)
 - [&sect; 00423a&#8211;1 - Addition of lands](%C2%A7%2000423a%E2%80%931%20-%20Addition%20of%20lands.md)
 - [&sect; 00423a&#8211;2 - Adjustment of boundary](%C2%A7%2000423a%E2%80%932%20-%20Adjustment%20of%20boundary.md)
+- [&sect; 00423a&#8211;3 - Petersburg National Battlefield boundary modification](%C2%A7%2000423a%E2%80%933%20-%20Petersburg%20National%20Battlefield%20boundary%20modification.md)
 - [&sect; 00423b - Commission; organization](%C2%A7%2000423b%20-%20Commission%3B%20organization.md)
 - [&sect; 00423c - Duties of commission](%C2%A7%2000423c%20-%20Duties%20of%20commission.md)
 - [&sect; 00423d - Acceptance and disposition of gifts](%C2%A7%2000423d%20-%20Acceptance%20and%20disposition%20of%20gifts.md)

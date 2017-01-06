@@ -60,7 +60,7 @@
 
 #### (B) Producer expansion
 
-&emsp;&emsp;In an area in the United States or specified in subparagraph (A) where crop insurance is not available for a particular agricultural commodity, the Corporation may offer to enter into a written agreement with an individual producer operating in the area for insurance coverage under this subchapter if the producer has actuarially sound data relating to the production by the producer of the commodity or similar commodities and the data is acceptable to the Corporation.
+&emsp;&emsp;In an area in the United States or specified in subparagraph (A) where crop insurance is not available for a particular agricultural commodity, the Corporation may offer toenter into a written agreement with an individual producer operating in the area for insurance coverage under this subchapter if the producer has actuarially sound data relating to the production by the producer of the commodity or similar commodities and the data is acceptable to the Corporation.
 
 #### (5) Dissemination of crop insurance information
 
@@ -148,7 +148,7 @@
 
 #### (i) Publication required
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Corporation shall publish in a timely manner on the website of the Risk Management Agency information regarding each violation of this paragraph, including any sanctions imposed in response to the violation, in sufficient detail so that the information may serve as effective guidance to approved insurance providers, agents, and producers.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Corporation shall publish in a timely manner on the website of the Risk Management Agencyinformation regarding each violation of this paragraph, including any sanctions imposed in response to the violation, in sufficient detail so that the information may serve as effective guidance to approved insurance providers, agents, and producers.
 
 #### (ii) Protection of privacy
 
@@ -180,7 +180,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Sanctions for violations under this paragraph shall only apply to the individualsor entities directly responsible for the certification required under subparagraph (C) or the failure to comply with the requirements of this paragraph.
+&emsp;&emsp;&emsp;Sanctions for violations under this paragraph shall only apply to the individuals or entities directly responsible for the certification required under subparagraph (C) or the failure to comply with the requirements of this paragraph.
 
 #### (ii) Prohibition
 
@@ -220,7 +220,7 @@
 
 &emsp;&emsp;(B) An alternative catastrophic risk protection coverage that—
 
-&emsp;&emsp;&emsp;(i) indemnifies the producer on an area yield and loss basis if such a policy or plan of insurance is offered for the agricultural commodity in the county in which the farm is located;
+&emsp;&emsp;&emsp;(i) indemnifies the producer on an area yield and loss basis if such a policy or plan of insurance is offered for the agriculturalcommodity in the county in which the farm is located;
 
 &emsp;&emsp;&emsp;(ii) provides, on a uniform national basis, a higher combination of yield and price protection than the coverage available under paragraph (2)(A); and
 
@@ -256,7 +256,7 @@
 
 #### (iv) Current policies
 
-&emsp;&emsp;&emsp;This clause shall take effect beginning with the 1997 crop year. Subject to clause\(ii) all catastrophic risk protection policies written by local offices of the Department shall be transferred to the approved insurance provider for performance of all sales, service, and loss adjustment functions. Any fees in connection with such policies that are not yet collected at the time of the transfer shall be payable to the approved insurance providers assuming the policies. The transfer process for policies for the 1997 crop year with sales closing dates before January 1, 1997, shall begin at the time of the Secretary's announcement under clause (iii) and be completed by the sales closing date for the crop and county. The transfer process for all subsequent policies (including policies for the 1998 and subsequent crop years) shall begin at a date that permits the process to be completed not later than 45 days before the sales closing date.
+&emsp;&emsp;&emsp;This clause shall take effect beginning with the 1997 crop year. Subject to clause (ii) all catastrophic risk protection policies written by local offices of the Department shall be transferred to the approved insurance provider for performance of all sales, service, and loss adjustment functions. Any fees in connection with such policies that are not yet collected at the time of the transfer shall be payable to the approved insurance providers assuming the policies. The transfer process for policies for the 1997 crop year with sales closing dates before January 1, 1997, shall begin at the time of the Secretary's announcement under clause (iii) and be completed by the sales closing date for the crop and county. The transfer process for all subsequent policies (including policies for the 1998 and subsequent crop years) shall begin at a date that permits the process to be completed not later than 45 days before the sales closing date.
 
 #### (5) Administrative fee
 
@@ -284,7 +284,7 @@
 
 #### (C) Time for payment
 
-&emsp;&emsp;The administrative fee required by this paragraph shall be paid by the producer on the same date on which the premium for a policy of additional coverage would be paid by the producer.
+&emsp;&emsp;The administrative fee required by this paragraph shall be paid by the producer onthe same date on which the premium for a policy of additional coverage would be paid by the producer.
 
 #### (D) Use of fees
 
@@ -320,7 +320,7 @@
 
 #### (B) Other plans
 
-&emsp;&emsp;To the extent that the policies and procedures developed under subparagraph (A) may be applied to other plans of insurance offered under this subchapter without jeopardizing the actuarial soundness or integrity of thecrop insurance program, the Corporation shall apply the policies and procedures to the other plans of insurance within a reasonable period of time (as determined by the Corporation) after the effective date of this paragraph.
+&emsp;&emsp;To the extent that the policies and procedures developed under subparagraph (A) may be applied to other plans of insurance offered under this subchapter without jeopardizing the actuarial soundness or integrity of the crop insurance program, the Corporation shall apply the policies and procedures to the other plans of insurance within a reasonable period of time (as determined by the Corporation) after the effective date of this paragraph.
 
 #### (10) Loss adjustment
 
@@ -366,7 +366,7 @@
 
 #### (B) Information
 
-&emsp;&emsp;The Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).
+&emsp;&emsp;The Corporation shall provide producers with information on catastrophic risk andadditional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).
 
 #### (C) Supplemental coverage option
 
@@ -410,7 +410,7 @@
 
 #### (B) General rule
 
-&emsp;&emsp;Except as otherwise provided in subparagraph (C), the expected market price of an agricultural commodity shall be not lessthan the projected market price of the agricultural commodity, as determined by the Corporation.
+&emsp;&emsp;Except as otherwise provided in subparagraph (C), the expected market price of an agricultural commodity shall be not less than the projected market price of the agricultural commodity, as determined by the Corporation.
 
 #### (C) Other authorized approaches
 
@@ -454,7 +454,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date of contracting with the expert reviewers under clause (ii), the expert reviewers shall submit, and the Corporation shall make available to the public, the recommendations of the expert reviewers.
+&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date of contracting with the expert reviewers under clause (ii), the expert reviewersshall submit, and the Corporation shall make available to the public, the recommendations of the expert reviewers.
 
 #### (II) Consideration
 
@@ -490,7 +490,7 @@
 
 #### (C) Wheat classes and malting barley
 
-&emsp;&emsp;The Corporation shall, as the Corporation determines practicable, offer producers different price elections for classes of wheatand malting barley (including contract prices in the case of malting barley), in addition to the standard price election, that reflect different market prices, as determined by the Corporation. The Corporation shall, as the Corporation determines practicable, offer additional coverage for each class determined under this subparagraph and charge a premium for each class that is actuarially sound.
+&emsp;&emsp;The Corporation shall, as the Corporation determines practicable, offer producers different price elections for classes of wheat and malting barley (including contract prices in the case of malting barley), in addition to the standard price election, that reflect different market prices, as determined by the Corporation. The Corporation shall, as the Corporation determines practicable, offer additional coverage for each class determined under this subparagraph and charge a premium for each class that is actuarially sound.
 
 #### (D) Organic crops
 
@@ -586,7 +586,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
-&emsp;&emsp;(C) In the case of additional coverage equal to or greater than 55 percent, but less than 65 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
+&emsp;&emsp;(C) In the case of additional coverage equal to or greater than 55 percent, but less than 65 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individualyield, the amount shall be equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) 64 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
@@ -652,7 +652,7 @@
 
 &emsp;Subject to paragraph (4), in the case of a policy or plan of insurance that covers losses due to a reduction in revenue in an area, the amount of the premium paid by the Corporation shall be as follows:
 
-&emsp;&emsp;(A) In the case of additional area coverage equal to or greater than 70 percent, but less than 75 percent, of the recorded county yield indemnified at not greater than 100 percent of the expected market price, the amount shall be equal to the sum of—
+&emsp;&emsp;(A) In the case of additional area coverage equal to or greater than 70 percent, but lessthan 75 percent, of the recorded county yield indemnified at not greater than 100 percent of the expected market price, the amount shall be equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) 59 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
@@ -946,7 +946,7 @@
 
 #### (I) Authority
 
-&emsp;&emsp;&emsp;&emsp;An applicant that receives the notification may modify the application, and such application, as modified, shall be considered by the Board in the manner provided in subparagraph (D) within the 30-day period beginning on the date the modified application is submitted.
+&emsp;&emsp;&emsp;&emsp;An applicant that receives the notification may modify the application, and such application, as modified, shall beconsidered by the Board in the manner provided in subparagraph (D) within the 30-day period beginning on the date the modified application is submitted.
 
 #### (II) Time period
 
@@ -1100,7 +1100,7 @@
 
 #### (C) Other reductions
 
-&emsp;&emsp;Beginning with the 2002 reinsurance year, in the case of a policy or plan of insurance approved by the Board that was not reinsured during the 1998 reinsurance year but, had it been reinsured, would have received a reduced rate of reimbursement during the 1998 reinsurance year, the rate of reimbursement for administrative and operating costs established for the policy or plan of insurance shall take into account the factors used to determine the rate of reimbursement for administrative and operating costs during the 1998 reinsurance year, including the expected difference in premium and actual administrative and operating costs of the policy or plan of insurance relative to an individual yield policy or plan of insurance and other appropriate factors, as determined by the Corporation.
+&emsp;&emsp;Beginning with the 2002 reinsurance year, in the case of a policy or plan of insurance approved by the Board that was not reinsured during the 1998 reinsurance year but, had it been reinsured, would have received a reduced rate of reimbursement during the 1998 reinsurance year, the rate of reimbursement for administrative and operating costsestablished for the policy or plan of insurance shall take into account the factors used to determine the rate of reimbursement for administrative and operating costs during the 1998 reinsurance year, including the expected difference in premium and actual administrative and operating costs of the policy or plan of insurance relative to an individual yield policy or plan of insurance and other appropriate factors, as determined by the Corporation.
 
 #### (D) Time for reimbursement
 
@@ -1200,7 +1200,7 @@
 
 #### (l) Optional coverages
 
-The Corporation may offer specific risk protection programs, including protection againstprevented planting, wildlife depredation, tree damage and disease, and insect infestation, under such terms and conditions as the Board may determine, except that no program may be undertaken if insurance for the specific risk involved is generally available from private companies.
+The Corporation may offer specific risk protection programs, including protection against prevented planting, wildlife depredation, tree damage and disease, and insect infestation, under such terms and conditions as the Board may determine, except that no program may be undertaken if insurance for the specific risk involved is generally available from private companies.
 
 #### (m) Quality loss adjustment coverage
 
@@ -1238,7 +1238,7 @@ The Corporation may offer specific risk protection programs, including protectio
 
 #### (4) Quality of agricultural commodities delivered to warehouse operators
 
-&emsp;In administering this subchapter, the Secretary shall accept, in the same manner and under the same terms and conditions, evidence of the quality of agricultural commodities delivered to—
+&emsp;In administering this subchapter, the Secretary shall accept, in the same manner andunder the same terms and conditions, evidence of the quality of agricultural commodities delivered to—
 
 &emsp;&emsp;(A) warehouse operators that are licensed under the United States Warehouse Act (7 U.S.C. 241 et seq.);
 
@@ -1324,7 +1324,7 @@ The Corporation may offer specific risk protection programs, including protectio
 
 Beginning with the 2015 crop year, a producer that produces an agricultural commodity on both dry land and irrigated land may elect a different coverage level for each production practice.
 
-(Feb. 16, 1938, ch. 30, title V, §508, 52 Stat. 74; June 22, 1938, ch. 563, 52 Stat. 835; June 21, 1941, ch. 214, §§3–7, 10, 55 Stat. 255, 256; Dec. 23, 1944, ch. 713, §§1–3, 58 Stat. 918, 919; Aug. 1, 1947, ch. 440, §§1–3, 61 Stat. 718; Aug. 25, 1949, ch. 512, §§1–3, 63 Stat. 663; Aug. 13, 1953, ch. 431, 67 Stat. 575; Pub. L. 85–111, July 23, 1957, 71 Stat. 309; Pub. L. 86–131, Aug. 4, 1959, 73 Stat. 278; Pub. L. 88–589, Sept. 12, 1964, 78 Stat. 933; Pub. L. 96–365, title I, §§105, 106, 107(b), Sept. 26, 1980, 94 Stat. 1314, 1315, 1317; Pub. L. 100–387, title II, §208(a), Aug. 11, 1988, 102 Stat. 941; Pub. L. 101–624, title XXII, §§2203–2205, Nov. 28, 1990, 104 Stat. 3955–3957; Pub. L. 102–237, title VI, §601(4), (5), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title XIV, §1403(b)(1), (2), Aug. 10, 1993, 107 Stat. 333, 334; Pub. L. 103–354, title I, §106, Oct. 13, 1994, 108 Stat. 3183; Pub. L. 104–127, title I, §§193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, 110 Stat. 943–946; Pub. L. 105–185, title V, §§532, 534, June 23, 1998, 112 Stat. 581, 583; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §§205(a), 206\], Nov. 29, 1999, 113 Stat. 1536, 1501A–294; Pub. L. 106–224, title I, §§101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, 114 Stat. 360–368, 378, 391, 392, 395; Pub. L. 107–171, title X, §§10001–10003, May 13, 2002, 116 Stat. 486; Pub. L. 109–97, title VII, §780, Nov. 10, 2005, 119 Stat. 2162; Pub. L. 110–234, title XII, §§12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1372–1381, 1405; Pub. L. 110–246, §4(a), title XII, §§12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133–2142, 2167; Pub. L. 113–79, title XI, §§11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, §12305(b), Feb. 7, 2014, 128 Stat. 954–957, 960, 961, 963, 966, 973, 977, 988; Pub. L. 114–74, title II, §201, Nov. 2, 2015, 129 Stat. 587; Pub. L. 114–94, div. C, title XXXII, §32205, Dec. 4, 2015, 129 Stat. 1740.)
+(Feb. 16, 1938, ch. 30, title V, §508, 52 Stat. 74; June 22, 1938, ch. 563, 52 Stat. 835; June 21, 1941, ch. 214, §§3–7, 10, 55 Stat. 255, 256; Dec. 23, 1944, ch. 713, §§1–3, 58 Stat. 918, 919; Aug. 1, 1947, ch. 440, §§1–3, 61 Stat. 718; Aug. 25, 1949, ch. 512, §§1–3, 63 Stat. 663; Aug. 13, 1953, ch. 431, 67 Stat. 575; Pub. L. 85–111, July 23, 1957, 71 Stat. 309; Pub. L. 86–131, Aug. 4, 1959, 73 Stat. 278; Pub. L. 88–589, Sept. 12, 1964, 78 Stat. 933; Pub. L. 96–365,title I, §§105, 106, 107(b), Sept. 26, 1980, 94 Stat. 1314, 1315, 1317; Pub. L. 100–387, title II, §208(a), Aug. 11, 1988, 102 Stat. 941; Pub. L. 101–624, title XXII, §§2203–2205, Nov. 28, 1990, 104 Stat. 3955–3957; Pub. L. 102–237, title VI, §601(4), (5), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title XIV, §1403(b)(1), (2), Aug. 10, 1993, 107 Stat. 333, 334; Pub. L. 103–354, title I, §106, Oct. 13, 1994, 108 Stat. 3183; Pub. L. 104–127, title I, §§193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, 110 Stat. 943–946; Pub. L. 105–185, title V, §§532, 534, June 23, 1998, 112 Stat. 581, 583; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §§205(a), 206\], Nov. 29, 1999, 113 Stat. 1536, 1501A–294; Pub. L. 106–224, title I, §§101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, 114 Stat. 360–368, 378, 391, 392, 395; Pub. L. 107–171, title X, §§10001–10003, May 13, 2002, 116 Stat. 486; Pub. L. 109–97, title VII, §780, Nov. 10, 2005, 119 Stat. 2162; Pub. L. 110–234, title XII, §§12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1372–1381, 1405; Pub. L. 110–246, §4(a), title XII, §§12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133–2142, 2167; Pub. L. 113–79, title XI, §§11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, §12305(b), Feb. 7, 2014, 128 Stat. 954–957, 960, 961, 963, 966, 973, 977, 988; Pub. L. 114–74, title II, §201, Nov. 2, 2015, 129 Stat. 587; Pub. L. 114–94, div. C, title XXXII, §32205, Dec. 4, 2015, 129 Stat. 1740.)
 
 #### References in Text
 
@@ -1342,7 +1342,7 @@ Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in sub
 
 This subchapter, referred to in subsec. (k)(8)(F)(i)(II), (III), was in the original "this Act", meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
 
-The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -1384,7 +1384,7 @@ Subsec. (c)(3). Pub. L. 113–79, §11003(a), added par. (3) and struck out form
 
 Subsec. (c)(3)(C). Pub. L. 113–79, §11004, added subpar. (C).
 
-Subsec. (c)(4). Pub. L. 113–79, §11003(b), added par. (4) and struck out former par. (4). Text read as follows: "The level of coverage shall be dollar denominated and may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation). Not later than the beginning of the 1996 crop year, the Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph)."
+Subsec. (c)(4). Pub. L. 113–79, §11003(b), added par. (4) and struck out former par. (4). Text read as follows: "The level of coverage shall be dollar denominated andmay be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation). Not later than the beginning of the 1996 crop year, the Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph)."
 
 Subsec. (c)(6)(D). Pub. L. 113–79, §11023(a), added subpar. (D).
 
@@ -1528,7 +1528,7 @@ Subsec. (o)(2)(A)(i). Pub. L. 110–246, §12033(c)(2)(B), substituted "this sub
 
 Subsec. (e)(4). Pub. L. 107–171, §10002, substituted "Prohibition" for "Temporary prohibition" in heading and "and subsequent reinsurance years" for "through 2005 reinsurance years" in text.
 
-Subsec. (m)(3). Pub. L. 107–171, §10003(1), designated first sentence of par. (3) as subpar. (A) and inserted heading and designated second sentence of par. (3) assubpar. (B), inserted heading, and substituted "Effective beginning not later than the 2004 reinsurance year, based on" for "Based on" in text.
+Subsec. (m)(3). Pub. L. 107–171, §10003(1), designated first sentence of par. (3) as subpar. (A) and inserted heading and designated second sentence of par. (3) as subpar. (B), inserted heading, and substituted "Effective beginning not later than the 2004 reinsurance year, based on" for "Based on" in text.
 
 Subsec. (m)(4). Pub. L. 107–171, §10003(2), added par. (4).
 
@@ -1636,7 +1636,7 @@ Subsec. (n). Pub. L. 105–277 designated existing provisions as par. (1), inser
 
 Subsec. (b)(4)(C). Pub. L. 104–127, §193(a)(1), added subpar. (C).
 
-Subsec. (b)(7)(A). Pub. L. 104–127, §193(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Prior to amendment, text read as follows: "To be eligible for any price support or production adjustment program, the conservation reserve program, or any benefit described in section 2008f of this title, the producer must obtain at least the catastrophic level of insurance for each crop of economic significance grown on each farm in the county in which the producer has an interest, if insurance is available in the county for the crop."
+Subsec. (b)(7)(A). Pub. L. 104–127, §193(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Prior to amendment, text read as follows: "To be eligible for any price support or production adjustment program, the conservation reserve program, or any benefit described in section 2008f of this title, the producer must obtain at least the catastrophic level of insurance for each crop of economic significance grown on each farm in the county in which theproducer has an interest, if insurance is available in the county for the crop."
 
 Subsec. (h)(9). Pub. L. 104–127, §195, added par. (9).
 
@@ -1694,7 +1694,7 @@ Subsec. (n). Pub. L. 101–624, §2204(a)(3), added subsec. (n).
 
 Subsec. (b). Pub. L. 96–365, §106(1), designated existing provisions as par. (1), struck out "in the agricultural commodity or in cash," after "premiums for insurance" and proviso from first sentence authorizing establishment of premiums on the basis of the parity or comparable price for the commodity as determined and publish by Secretary of Agriculture, or on the basis of an average market price designated by the Board and second sentence providing for collection of premiums at such time or times, or for securing in such manner, as the Board may determine, which is covered in par. (4), required the rates to be actuarially sufficient, added pars. (2) and (3), incorporated existing provision in par. (4), and added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 96–365, §106(2), struck out "in the agricultural commodity or in cash," after "claims for losses" and provisions respecting: determination of indemnities on same price basis as premiums were determined for the crop with respect to which the indemnities were paid; requirement that the Corporation post annually for each county at the county courthouse a list of indemnities paid for losses on farms in the county; action on claims in any court of the State having general jurisdiction, sitting in the county where the insured farm was located; and jurisdiction of district courts without regard to amount in controversy.
+Subsec. (c). Pub. L. 96–365, §106(2), struck out "in the agricultural commodity or in cash," after "claims forlosses" and provisions respecting: determination of indemnities on same price basis as premiums were determined for the crop with respect to which the indemnities were paid; requirement that the Corporation post annually for each county at the county courthouse a list of indemnities paid for losses on farms in the county; action on claims in any court of the State having general jurisdiction, sitting in the county where the insured farm was located; and jurisdiction of district courts without regard to amount in controversy.
 
 Subsec. (d). Pub. L. 96–365, §106(3), redesignated subsec. (e) as (d) and struck out prior subsec. (d) authorizing Corporation to purchase, handle, store, insure, provide storage facilities for, and sell agricultural commodities.
 
@@ -1808,7 +1808,7 @@ Effective period.—This paragraph shall apply only to the 1996 crop year.
 
 "(B)
 
-Availability.—During a period of not less than 2 weeks, but not more than 4 weeks, beginning on the date of enactment of this title \[Apr. 4, 1996\], the Secretary shall provide producers with an opportunity to obtain catastrophic risk protection insurance under section 508(b) of the Federal Crop Insurance Act (7 U.S.C. 1508(b)) for a spring-planted crop, and limited additional coverage for malting barley under the Malting Barley Price and Quality Endorsement. The Federal Crop Insurance Corporation may attach such limitations and restrictions on obtaining insurance duringthis period as the Corporation considers necessary to maintain the actuarial soundness of the crop insurance program.
+Availability.—During a period of not less than 2 weeks, but not more than 4 weeks, beginning on the date of enactment of this title \[Apr. 4, 1996\], the Secretary shall provide producers with an opportunity to obtain catastrophic risk protection insurance under section 508(b) of the Federal Crop Insurance Act (7 U.S.C. 1508(b)) for a spring-planted crop, and limited additional coverage for malting barley under the Malting Barley Price and Quality Endorsement. The Federal Crop Insurance Corporation may attach such limitations and restrictions on obtaining insurance during this period as the Corporation considers necessary to maintain the actuarial soundness of the crop insurance program.
 
 "(C)
 

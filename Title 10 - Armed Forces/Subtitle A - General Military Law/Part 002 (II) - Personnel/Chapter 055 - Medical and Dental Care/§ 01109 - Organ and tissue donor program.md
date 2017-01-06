@@ -2,7 +2,7 @@
 
 (a)
 
-Responsibilities of the Secretary of Defense.—The Secretary of Defense shall ensure that the advanced systems developed for recording armed forces members' personal data and information (such as the SMARTCARD, MEDITAG, and Personal Information Carrier) include the capability to record organ and tissue donation elections.
+Responsibilities of the Secretary of Defense.—The Secretary of Defense shall ensurethat the advanced systems developed for recording armed forces members' personal data and information (such as the SMARTCARD, MEDITAG, and Personal Information Carrier) include the capability to record organ and tissue donation elections.
 
 (b)
 

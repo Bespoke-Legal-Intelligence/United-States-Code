@@ -6,7 +6,7 @@ The seashore shall be administered, protected, and developed in accordance with 
 
 #### (b) Preservation in primitive state; recreational activities exception
 
-Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c), no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not <sup>2</sup> prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
+Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c), no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions now prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
 
 #### (c) Tours of the seashore
 
@@ -18,7 +18,7 @@ Notwithstanding subsection (b), the Secretary may enter into not more than 3 con
 
 &emsp;(3) Public Law 97–250 (96 Stat. 709).
 
-(Pub. L. 92–536, §6, Oct. 23, 1972, 86 Stat. 1068; Pub. L. 108–447, div. E, title I, §145(b), Dec. 8, 2004, 118 Stat. 3073.)
+(Pub. L. 92–536, §6, Oct. 23, 1972, 86 Stat. 1068; Pub. L. 108–447, div. E, title I, §145(b), Dec. 8, 2004, 118 Stat. 3073; Pub. L. 114–289, title VI, §601(c), Dec. 16, 2016, 130 Stat. 1491.)
 
 #### References in Text
 
@@ -30,11 +30,11 @@ Public Law 97–250, referred to in subsec. (c)(3), is Pub. L. 97–250, Sept. 8
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b). Pub. L. 114–289 substituted "physiographic conditions now prevailing" for "physiographic conditions not prevailing".
+
 <b>2004</b>—Subsec. (b). Pub. L. 108–447, §145(b)(1), inserted ", except as provided in subsection (c)," before "no development of the project".
 
 Subsec. (c). Pub. L. 108–447, §145(b)(2), added subsec. (c).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "now".</i>
 

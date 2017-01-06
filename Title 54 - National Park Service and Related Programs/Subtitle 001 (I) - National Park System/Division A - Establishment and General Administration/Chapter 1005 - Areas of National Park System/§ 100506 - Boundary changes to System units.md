@@ -18,7 +18,7 @@ Proposal of Secretary.—In proposing a boundary change to a System unit, the Se
 
 &emsp;(2) apply the criteria developed pursuant to subsection (a) and accompany the proposal with a statement reflecting the results of the application of the criteria; and
 
-&emsp;(3) include with the proposal an estimate of the cost for acquiring any parcels proposed foracquisition, the basis for the estimate, and a statement on the relative priority for the acquisition of each parcel within the priorities for acquisition of other parcels for the System unit and for the System.
+&emsp;(3) include with the proposal an estimate of the cost for acquiring any parcels proposed for acquisition, the basis for the estimate, and a statement on the relative priority for the acquisition of each parcel within the priorities for acquisition of other parcels for the System unit and for the System.
 
 (c)
 
@@ -52,7 +52,7 @@ Administration of acquisitions.—Land, water, and interests in land or water ac
 
 &emsp;(5)
 
-When authority applies.—For the purposes of paragraph (1)(A), in all cases except the case of technical boundary changes (resulting from such causes as survey error or changed road alignments), the authority of the Secretary under paragraph (1)(A) shall apply only if each of the following conditions is met:
+When authority applies.—For the purposes of paragraph (1)(A), in all cases except the case of technical boundary changes (resulting from such causes as survey error or changed road alignments), the authority ofthe Secretary under paragraph (1)(A) shall apply only if each of the following conditions is met:
 
 &emsp;&emsp;(A) The sum of the total acreage of the land, water, and interests in land or water to be added to the System unit and the total acreage of the land, water, and interests in land or water to be deleted from the System unit is not more than 5 percent of the total Federal acreage authorized to be included in the System unit and is less than 200 acres.
 

@@ -20,7 +20,7 @@ Subsec. (e). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, tempora
 
 Subsec. (g). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (g) without change. See Effective and Termination Dates of 1973 Amendment note below.
 
-Subsec. (i). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (i) without change. See Effective and Termination Dates of 1973 Amendment note below.
+Subsec. (i). Pub. L. 91–524, §402(b)(C), as added by Pub. L. 93–86, temporarily reenacted subsec. (i) withoutchange. See Effective and Termination Dates of 1973 Amendment note below.
 
 <b>1970</b>—Pub. L. 91–524, §402(a), formerly §402, temporarily substituted provisions covering the issuance of domestic certificates to producers and a voluntary set-aside program for wheat for provisions for a wheat marketing allocation program for the 1964 to 1970 crops. See Effective and Termination Dates of 1970 Amendment note below.
 

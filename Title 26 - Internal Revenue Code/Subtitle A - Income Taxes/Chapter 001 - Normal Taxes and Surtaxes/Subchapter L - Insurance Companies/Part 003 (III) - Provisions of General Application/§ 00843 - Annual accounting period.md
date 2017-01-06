@@ -1,6 +1,6 @@
 ### §843. Annual accounting period
 
-For purposes of this subtitle, the annual accounting period for each insurance companysubject to a tax imposed by this subchapter shall be the calendar year. Under regulations prescribed by the Secretary, an insurance company which joins in the filing of a consolidated return (or is required to so file) may adopt the taxable year of the common parent corporation even though such year is not a calendar year.
+For purposes of this subtitle, the annual accounting period for each insurance company subject to a tax imposed by this subchapter shall be the calendar year. Under regulations prescribed by the Secretary, an insurance company which joins in the filing of a consolidated return (or is required to so file) may adopt the taxable year of the common parent corporation even though such year is not a calendar year.
 
 (Added Mar. 13, 1956, ch. 83, §4(a), 70 Stat. 48; amended Pub. L. 94–455, title XV, §1507(b)(2), Oct. 4, 1976, 90 Stat. 1740.)
 

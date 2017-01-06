@@ -28,7 +28,35 @@ Health Care Plans Available Under System.—A health care plan designated by the
 
 Regulations.—The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896.)
+(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 114–328, div. A, title VII, §701(d)(1), (j)(1)(E), Dec. 23, 2016, 130 Stat. 2186, 2192.)
+
+#### Amendment of Subsections (b)(1) and (c)(2)
+
+<i>Pub. L. 114–328, div. A, title VII, §701(d)(1), (j)(1)(E), (k), Dec. 23, 2016, 130 Stat. 2186, 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this section is amended:</i>
+
+<i>(1) by amending subsection (b)(1) to read as follows:</i>
+
+&emsp;<i>"(1) allow covered beneficiaries to elect to enroll in a health care plan, or modify a previous election, from eligible health care plans designated by the Secretary of Defense during—</i>
+
+&emsp;&emsp;<i>"(A) an annual open enrollment period; and</i>
+
+&emsp;&emsp;<i>"(B) any period based on a qualifying event experienced by the beneficiary, as determined appropriate by the Secretary; or"; and</i>
+
+<i>(2) by striking subsection (c)(2) and inserting the following new paragraph:</i>
+
+&emsp;<i>"(2) A plan under the TRICARE program."</i>
+
+<i>See 2016 Amendment notes below.</i>
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–328, §701(d)(1), amended par. (1) generally. Prior to amendment, text read as follows: "allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or".
+
+Subsec. (c)(2). Pub. L. 114–328, §701(j)(1)(E), added par. (2) and struck out former par. (2) which read as follows: "The Civilian Health and Medical Program of the Uniformed Services."
+
+#### Effective Date of 2016 Amendment
+
+Amendment by Pub. L. 114–328 applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as a note under section 1072 of this title.
 
 #### Regulations
 
@@ -45,6 +73,26 @@ Pub. L. 99–661, div. A, title VII, §701(d)(1), (2), Nov. 14, 1986, 100 Stat. 
 &emsp;"(B) not later than September 30, 1990, for all other covered beneficiaries and facilities of the uniformed services.
 
 "(2) The Secretary may not assign covered beneficiaries to facilities of the uniformed services, as authorized by section 1099(b)(2) of such title (as added by subsection (a)(1)), before October 1, 1990."
+
+#### Initial Annual Open Enrollment Period
+
+Pub. L. 114–328, div. A, title VII, §701(d)(2), (3), Dec. 23, 2016, 130 Stat. 2186, provided that:
+
+"(2)
+
+Application.—The Secretary of Defense shall implement the initial annual open enrollment period pursuant to section 1099(b)(1) of title 10, United States Code, as amended by paragraph (1), during 2018.
+
+"(3)
+
+Grace period during first year.—
+
+&emsp;"(A) At any time during the one-year period beginning on the date on which the initial annual open enrollment period begins pursuant to section 1099(b)(1) of title 10, United States Code, as amended by paragraph (1), a covered beneficiary may make an election, or modify such an election, described in such section.
+
+&emsp;"(B) If during such one-year period an individual who is eligible to enroll in the TRICARE program, but does not elect to enroll in such program, receives health care services for an episode of care that would be covered under the TRICARE program if such individual were enrolled in the TRICARE program, the Secretary—
+
+&emsp;&emsp;"(i) shall pay the out-of-network fees only for the first episode of care and inform the individual of the opportunity to enroll in the TRICARE program; and
+
+&emsp;&emsp;"(ii) may not pay any costs relating to any subsequent episode of care if such individual is not enrolled in the TRICARE program."
 
 #### Reports to Congress
 

@@ -14,7 +14,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(C) current tenants will not be involuntarily displaced (except for good cause);
 
-&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
+&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying thehousing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
 
 &emsp;&emsp;(E)(i) any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
 
@@ -24,7 +24,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and <sup>2</sup>
 
-&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved bythe Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
 
 &emsp;&emsp;(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
 
@@ -58,7 +58,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (4) Tenant and community comment and appeal
 
-&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. The Secretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
+&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. TheSecretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
 
 #### (d) Housing standards
 
@@ -72,7 +72,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;The Secretary shall take any action appropriate to require the owner of any housing not in compliance with such standards to bring such housing into compliance with the standards, including—
 
-&emsp;&emsp;&emsp;(i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>1</sup> of this title, to withhold the disbursement to the owner of any escrowedloan proceeds and requiring that such proceeds be used for repair of the housing; and
+&emsp;&emsp;&emsp;(i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>1</sup> of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
 
 &emsp;&emsp;&emsp;(ii) reduce the amount of the annual authorized return, as determined by the Secretary, for the period ending upon a determination by the Secretary that the project is in compliance with the standards and requiring that such amounts be used for repair.
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 > except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph." See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for "; and" and inserting at end "For any section 8 assistance provided under this subchapter, whether through the extension of an existingcontract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and", was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for "; and" and inserting at end "For any section 8 assistance provided under this subchapter, whether through the extension of an existing contract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and", was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(2)(E)(iii). Pub. L. 103–327 temporarily added cl. (iii) which read as follows:
 

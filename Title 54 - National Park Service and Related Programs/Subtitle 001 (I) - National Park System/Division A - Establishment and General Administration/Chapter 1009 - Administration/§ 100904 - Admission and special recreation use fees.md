@@ -80,7 +80,7 @@ Commercial Tour Use Fees.—
 
 &emsp;(1)
 
-Establishment.—In the case of each System unit for which an admission fee is charged under this section, the Secretary shall establish a commercial tour use fee to be imposed on each vehicle entering the System unit for the purpose of providing commercial tour services within the System unit.
+Establishment.—In the case of each System unit for which an admission fee is charged under this section, the Secretary shall establish a commercial tour use fee to be imposed on each vehicle entering the System unit forthe purpose of providing commercial tour services within the System unit.
 
 &emsp;(2)
 

@@ -30,7 +30,7 @@ This section applies to the following leases:
 
 &emsp;A lease of a motor vehicle used, or intended to be used, by a servicemember or a servicemember's dependents for personal or business transportation if—
 
-&emsp;&emsp;(A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service under a call or order specifying a period of not less than 180 days (or who enters military service under a call or order specifying a period of180 days or less and who, without a break in service, receives orders extending the period of military service to a period of not less than 180 days); or
+&emsp;&emsp;(A) the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service under a call or order specifying a period of not less than 180 days (or who enters military service under a call or order specifying a period of 180 days or less and who, without a break in service, receives orders extending the period of military service to a period of not less than 180 days); or
 
 &emsp;&emsp;(B) the servicemember, while in military service, executes the lease and thereafter receives military orders—
 

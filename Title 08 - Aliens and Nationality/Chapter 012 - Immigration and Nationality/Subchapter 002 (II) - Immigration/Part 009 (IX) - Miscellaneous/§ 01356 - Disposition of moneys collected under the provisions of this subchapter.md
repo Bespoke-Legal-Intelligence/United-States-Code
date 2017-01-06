@@ -14,7 +14,7 @@ Except as otherwise provided in subsection (a) and subsection (b), or in any oth
 
 #### (d) Schedule of fees
 
-In addition to any other fee authorized by law, the Attorney General shall charge and collect $7 per individual for the immigration inspection of each passenger arriving at a port of entry in the United States, or for the preinspection of a passenger in a place outside of the United Statesprior to such arrival, aboard a commercial aircraft or commercial vessel.
+In addition to any other fee authorized by law, the Attorney General shall charge and collect $7 per individual for the immigration inspection of each passenger arriving at a port of entry in the United States, or for the preinspection of a passenger in a place outside of the United States prior to such arrival, aboard a commercial aircraft or commercial vessel.
 
 #### (e) Limitations on fees
 
@@ -88,7 +88,7 @@ Notwithstanding section 1353b of this title, or any other provision of law, the 
 
 #### (i) Reimbursement
 
-Notwithstanding any other provision of law, the Attorney General is authorized to receive reimbursement from the owner, operator, or agent of a private or commercial aircraft or vessel, or from any airport or seaport authority for expenses incurred by the Attorney General in providing immigration inspection services which are rendered at the request of such person or authority (including the salary and expenses of individuals employed by the Attorney General to provide such immigration inspection services). The Attorney General's authority to receive such reimbursement shall terminate immediately upon the provision for such services by appropriation.
+Notwithstanding any other provision of law, the Attorney General is authorized to receive reimbursement from the owner, operator, or agent of a private or commercial aircraft or vessel, or from any airport or seaport authority for expenses incurred by the Attorney General in providing immigration inspection services which are rendered at the request of such person or authority (including the salary and expenses of individuals employed by the Attorney General to provide such immigration inspection services). Reimbursements under this subsection may be collected in advance of the provision ofsuch immigration inspection services. Notwithstanding subsection (h)(1)(B), and only to the extent provided in appropriations Acts, any amounts collected under this subsection shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection, remain available until expended, and be available for the purposes for which such appropriation, account, or fund is authorized to be used.
 
 #### (j) Regulations
 
@@ -126,7 +126,7 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 (iii) The Attorney General shall prepare and submit on a quarterly basis a status report on each land border inspection project implemented under this subparagraph.
 
-(B) The Attorney General, in consultation with the Secretary of the Treasury, may conduct pilot projects to demonstrate the use of designated ports of entry after working hours through the use of card reading machines or other appropriate technology.
+(B) The Attorney General, in consultation with the Secretary of the Treasury, may conduct pilot projects to demonstrate the use ofdesignated ports of entry after working hours through the use of card reading machines or other appropriate technology.
 
 (2) All of the fees collected under this subsection, including receipts for services performed in processing forms I–94, I–94W, and I–68, and other similar applications processed at land border ports of entry, shall be deposited as offsetting receipts in a separate account within the general fund of the Treasury of the United States, to remain available until expended. Such account shall be known as the Land Border Inspection Fee Account.
 
@@ -240,7 +240,7 @@ The Attorney General is authorized to establish and collect a premium fee for em
 
 &emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, titleVI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283; Pub. L. 114–125, title VIII, §818(a), Feb. 24, 2016, 130 Stat. 222.)
 
 #### Amendment of Section
 
@@ -258,11 +258,13 @@ Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is sectio
 
 #### Amendments
 
+<b>2016</b>—Subsec. (i). Pub. L. 114–125 substituted "Reimbursements under this subsection may be collected in advance of the provision of such immigration inspection services. Notwithstanding subsection (h)(1)(B), and only to the extent provided in appropriations Acts, any amounts collected under this subsection shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection, remain available until expended, and be available for the purposes for which such appropriation, account, or fund is authorized to be used." for "The Attorney General's authority to receive such reimbursement shall terminate immediately upon the provision for such services by appropriation."
+
 <b>2009</b>—Subsec. (v)(2)(B), (C). Pub. L. 111–117, which directed substitution of subpars. (B) and (C) for "subparagraphs (B) and (C) that appear within section 426(b) of division J of" Pub. L. 108–447, was executed by adding subpars. (B) and (C) to subsec. (v)(2) and striking out former subpars. (B) and (C), to reflect the probable intent of Congress. See 2004 Amendment note below. Prior to amendment, subpars. (B) and (C) read as follows:
 
 "(B)
 
-Secretary of homeland security.—One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title.
+Secretary of homeland security.—One-third of the amounts deposited into the Fraud Prevention andDetection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title.
 
 "(C)
 
@@ -312,7 +314,7 @@ Subsec. (g). Pub. L. 107–173 struck out ", within forty-five minutes of their
 
 Subsec. (m). Pub. L. 107–296, §457, which directed the substitution of "such services." for "such services, including the costs of similar services provided without charge to asylum applicants or other immigrants.", was repealed by Pub. L. 108–7, §107.
 
-Subsec. (q)(2). Pub. L. 107–273 inserted ", including receipts for services performed in processing forms I–94,I–94W, and I–68, and other similar applications processed at land border ports of entry," after "subsection".
+Subsec. (q)(2). Pub. L. 107–273 inserted ", including receipts for services performed in processing forms I–94, I–94W, and I–68, and other similar applications processed at land border ports of entry," after "subsection".
 
 <b>2001</b>—Subsec. (d). Pub. L. 107–77, §109(1), substituted "$7" for "$6".
 
@@ -502,7 +504,7 @@ Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 9
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–117, div. D, title V, §524(b), Dec. 16, 2009, 123 Stat. 3284, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 16, 2009\]."
+Pub. L. 111–117, div. D, title V, §524(b), Dec. 16, 2009, 123 Stat. 3284, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 16, 2009\]."
 
 #### Effective and Termination Dates of 2005 Amendment
 
@@ -558,7 +560,7 @@ Pub. L. 99–500, §101(b) \[title II, §205(b)\], as added by Pub. L. 100–525
 
 "(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to immigration inspection services rendered after November 30, 1986.
 
-"(2) Fees may be charged under section 286(d) of the Immigration and Nationality Act \[8 U.S.C. 1356(d)\] onlywith respect to immigration inspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1986."
+"(2) Fees may be charged under section 286(d) of the Immigration and Nationality Act \[8 U.S.C. 1356(d)\] only with respect to immigration inspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1986."
 
 #### Effective Date of 1981 Amendment
 

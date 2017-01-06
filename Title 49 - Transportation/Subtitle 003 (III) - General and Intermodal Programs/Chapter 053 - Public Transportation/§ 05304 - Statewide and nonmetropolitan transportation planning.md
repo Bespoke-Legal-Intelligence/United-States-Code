@@ -52,7 +52,7 @@ In general.—Each State shall carry out a statewide transportation planning pro
 
 &emsp;&emsp;(D) increase the accessibility and mobility of people and freight;
 
-&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve thequality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
@@ -248,7 +248,7 @@ Consultation with governments.—
 
 &emsp;&emsp;(A)
 
-Metropolitan areas.—With respect to each metropolitan area in the State, the program shall be developed in cooperation with the metropolitan planning organization designated for the metropolitan area under section 5303.
+Metropolitan areas.—With respect to each metropolitan area in the State, the program shall be developed in cooperation with the metropolitan planning organizationdesignated for the metropolitan area under section 5303.
 
 &emsp;&emsp;(B)
 
@@ -268,7 +268,7 @@ Indian tribal areas.—With respect to each area of the State under the jurisdic
 
 &emsp;(3)
 
-Participation by interested parties.—In developing the program, the State shallprovide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
+Participation by interested parties.—In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
 
 &emsp;(4)
 
@@ -424,7 +424,7 @@ Designation of Regional Transportation Planning Organizations.—
 
 &emsp;(1)
 
-In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
+In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizationsto enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
 
 &emsp;(2)
 
@@ -524,7 +524,7 @@ Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §3003(b)(3), inserted "public ports," 
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updatingof a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -532,7 +532,7 @@ Pub. L. 105–178, §3005(a), in second sentence, substituted "the metropolitan 
 
 Subsec. (b)(2)(B). Pub. L. 105–178, §3005(d)(2)(A), as added by Pub. L. 105–206, §9009(c)(2), struck out "and" at end.
 
-Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting "strategies; and" for "strategies which may include", was executedby making the substitution for "strategies, which may include" to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting "strategies; and" for "strategies which may include", was executed by making the substitution for "strategies, which may include" to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
 
 Pub. L. 105–178, §3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: "recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects."
 

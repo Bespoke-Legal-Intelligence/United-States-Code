@@ -42,7 +42,7 @@ Manufacturer in the National Technology and Industrial Base.—
 
 &emsp;(1)
 
-General requirement.—A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+General requirement.—A manufacturer meets the requirements of this subsection ifthe manufacturer is part of the national technology and industrial base.
 
 &emsp;(2)
 
@@ -328,7 +328,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Covered contract.—The term 'covered contract' means a contract awarded by the Departmentof Defense that provides for a photovoltaic device to be—
+Covered contract.—The term 'covered contract' means a contract awarded by the Department of Defense that provides for a photovoltaic device to be—
 
 &emsp;&emsp;"(A) installed inside the United States on Department of Defense property or in a facility owned by the Department of Defense; or
 

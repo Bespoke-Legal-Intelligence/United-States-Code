@@ -8,7 +8,7 @@
 
 #### (2) Compliance under accepted standards
 
-&emsp;A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under section 1002 of this title, and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with section 1005 of this title, if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b) of this section, to meet the requirements of section 1002 of this title.
+&emsp;A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under section 1002 of this title, and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with section 1005 of this title, if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b), to meet the requirements of section 1002 of this title.
 
 #### (3) Absence of standards
 
@@ -40,7 +40,7 @@ If industry associations or standard-setting organizations fail to issue technic
 
 #### (2) Grounds for extension
 
-&emsp;The Commission may, after consultation with the Attorney General, grant an extension under this subsection, if the Commission determines that compliance with the assistance capability requirements under section 1002 of this title is not reasonably achievable through application of technology available within the compliance period.
+&emsp;The Commission may, after consultation with the Attorney General, grant an extensionunder this subsection, if the Commission determines that compliance with the assistance capability requirements under section 1002 of this title is not reasonably achievable through application of technology available within the compliance period.
 
 #### (3) Length of extension
 

@@ -24,7 +24,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;(3) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302 of title 31;
 
-> only upon the written certification of the Commissioner of Customs (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
+> only upon the written certification of the Commissioner of Customs <sup>1</sup> (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) <sup>1</sup> that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
 
 #### (b) Liquidation of corporations and business entities
 
@@ -74,7 +74,7 @@ For purposes of subsection (d) of this section—
 
 > &emsp;except that subparagraphs (A) and (B) shall not apply with respect to the report required under paragraph (2) of subsection (d) of this section.
 
-(Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, §1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, §110(b), Oct. 19, 1996, 110 Stat. 3832.)
+(Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, §1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, §110(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Codification
 
@@ -82,9 +82,9 @@ In subsec. (a)(1)(A)(ii), "sections 6301(a) and (b)(1) to (3) and 6306 of title 
 
 In subsec. (a)(1)(A)(iii), "chapter 45 of title 41," substituted for "section 305 of the Act of June 30, 1949 (63 Stat. 396; 41 U.S.C. 255)," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(1)(A)(iv), "Section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(1)(A)(iv), "Section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877\(19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a)(1)(A)(v), "section 3901 of title 41, and" substituted for "section 304(a) of the Federal Propertyand Administrative Services Act of 1949 (41 U.S.C. 254(a)), and" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1)(A)(v), "section 3901 of title 41, and" substituted for "section 304(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a)), and" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -92,7 +92,13 @@ In subsec. (a)(1)(A)(v), "section 3901 of title 41, and" substituted for "sectio
 
 Subsec. (b). Pub. L. 104–316 struck out "and the Comptroller General" after "the Secretary of the Treasury".
 
+#### Change of Name
+
+Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

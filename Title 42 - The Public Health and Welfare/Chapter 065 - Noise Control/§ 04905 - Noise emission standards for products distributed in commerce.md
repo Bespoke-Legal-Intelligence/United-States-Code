@@ -42,7 +42,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 (2) After publication of any proposed regulations under this section, the Administrator shall allow interested persons an opportunity to participate in rulemaking in accordance with the first sentence of section 553(c) of title 5.
 
-(3) The Administrator may revise any regulation prescribed by him under this section by (A)publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.
+(3) The Administrator may revise any regulation prescribed by him under this section by (A) publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.
 
 #### (d) Warranty by manufacturer of conformity of product with regulations; transfer of cost obligation from manufacturer to dealer prohibited
 
@@ -56,7 +56,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 (1) No State or political subdivision thereof may adopt or enforce—
 
-&emsp;(A) with respect to any new product for which a regulation has been prescribed by the Administrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or
+&emsp;(A) with respect to any new product for which a regulation has been prescribed by theAdministrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or
 
 &emsp;(B) with respect to any component incorporated into such new product by the manufacturer of such product, any law or regulation setting a limit on noise emissions from such component when so incorporated.
 

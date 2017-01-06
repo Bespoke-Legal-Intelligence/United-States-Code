@@ -42,7 +42,7 @@ The President shall establish and carry out programs that support the production
 
 #### (f) Consultation requirement
 
-The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives andprograms described in subsections (a) through (e).
+The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
 
 #### (g) Termination of certain grants, contracts and cooperative agreements
 

@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Allow
 
-&emsp;The term "allow", with respect to the diversion through a country of goods, services, or technologies, means the government of the country knows or has reason to know that theterritory of the country is being used for such diversion.
+&emsp;The term "allow", with respect to the diversion through a country of goods, services, or technologies, means the government of the country knows or has reason to know that the territory of the country is being used for such diversion.
 
 #### (2) Appropriate congressional committees
 

@@ -30,7 +30,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 &emsp;(A) which requests and undergoes an on-site consultative visit provided under this subsection;
 
-&emsp;(B) which corrects the hazards that have been identified during the visit within the time frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
+&emsp;(B) which corrects the hazards that have been identified during the visit within thetime frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
 
 &emsp;(C) which is implementing procedures for regularly identifying and preventing hazards regulated under this chapter and maintains appropriate involvement of, and training for, management and non-management employees in achieving safe and healthful working conditions,
 
@@ -38,7 +38,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 (5) A State shall provide worksite consultations under paragraph (2) at the request of an employer. Priority in scheduling such consultations shall be assigned to requests from small businesses which are in higher hazard industries or have the most hazardous conditions at issue in the request.
 
-(Pub. L. 91–596, §21, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93Stat. 695; Pub. L. 105–197, §2, July 16, 1998, 112 Stat. 638.)
+(Pub. L. 91–596, §21, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–197, §2, July 16, 1998, 112 Stat. 638.)
 
 #### Amendments
 

@@ -18,7 +18,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 &emsp;Such plan shall—
 
-&emsp;&emsp;(A) describe the population to be served and identify the education and employment needs of the population to be served and the manner in which the services to be provided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment, or stabilize their unsubsidized employment, including upgraded employment in agriculture;
+&emsp;&emsp;(A) describe the population to be served and identify the education and employmentneeds of the population to be served and the manner in which the services to be provided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment, or stabilize their unsubsidized employment, including upgraded employment in agriculture;
 
 &emsp;&emsp;(B) describe the related assistance and supportive services to be provided and the manner in which such assistance and services are to be integrated and coordinated with other appropriate services;
 

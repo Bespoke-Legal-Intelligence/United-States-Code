@@ -6,7 +6,7 @@ Not to exceed 12 Senators shall be appointed to meet annually with representativ
 
 #### (b) Appointment of Members
 
-The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senate shall designate 1 Senator as the Chair of the United States group.
+The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senateshall designate 1 Senator as the Chair of the United States group.
 
 #### (c) Funding
 

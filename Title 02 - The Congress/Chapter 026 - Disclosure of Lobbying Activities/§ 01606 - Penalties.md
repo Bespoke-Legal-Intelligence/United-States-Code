@@ -12,7 +12,7 @@ Whoever knowingly fails to—
 
 #### (b) Criminal penalty
 
-Whoever knowingly and corruptly fails to comply with any provision of this chapter shall be imprisoned for not more than 5 years or fined under title 18, or both.
+Whoever knowingly and corruptly fails to comply with any provision of this chapter shallbe imprisoned for not more than 5 years or fined under title 18, or both.
 
 (Pub. L. 104–65, §7, Dec. 19, 1995, 109 Stat. 699; Pub. L. 110–81, title II, §211(a), Sept. 14, 2007, 121 Stat. 749.)
 
@@ -27,4 +27,8 @@ This chapter, referred to in text, was in the original "this Act" meaning Pub. L
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–81, title II, §211(b), Sept. 14, 2007, 121 Stat. 749, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to any violation committed on or after the date of the enactment of this Act \[Sept. 14, 2007\]."
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 

@@ -34,7 +34,7 @@ In carrying out the flood insurance program the Administrator shall, to the maxi
 
 &emsp;(2) other appropriate participation, on other than a risk-sharing basis, by insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations,
 
-> in accordance with the provisions of subchapter II of this chapter.
+> in accordance with the provisions of subchapter II.
 
 (Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title I \[title IV, §451(d)(1), (2)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100225(f), 100238(b)(1), July 6, 2012, 126 Stat. 942, 958.)
 
@@ -122,7 +122,7 @@ Effective dates.—Notwithstanding section 1306(c) of the National Flood Insuran
 
 &emsp;&emsp;"(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
 
-&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri Riverthat commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
+&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
 
 "(c)
 

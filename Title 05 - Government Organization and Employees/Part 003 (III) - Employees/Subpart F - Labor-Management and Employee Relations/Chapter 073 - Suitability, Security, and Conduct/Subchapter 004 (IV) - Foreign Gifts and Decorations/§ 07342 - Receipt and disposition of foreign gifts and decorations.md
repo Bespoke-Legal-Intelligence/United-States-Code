@@ -62,13 +62,13 @@
 
 &emsp;&emsp;(ii) an employee may accept gifts of travel or expenses for travel taking place entirely outside the United States (such as transportation, food, and lodging) of more than minimal value if such acceptance is appropriate, consistent with the interests of the United States, and permitted by the employing agency and any regulations which may be prescribed by the employing agency.
 
-(2) Within 60 days after accepting a tangible gift of more than minimal value (other than agift described in paragraph (1)(B)(ii)), an employee shall—
+(2) Within 60 days after accepting a tangible gift of more than minimal value (other than a gift described in paragraph (1)(B)(ii)), an employee shall—
 
 &emsp;(A) deposit the gift for disposal with his or her employing agency; or
 
 &emsp;(B) subject to the approval of the employing agency, deposit the gift with that agency for official use.
 
-> Within 30 days after terminating the official use of a gift under subparagraph (B), the employing agency shall forward the gift to the Administrator of General Services in accordance with subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2).
+> Within 30 days after terminating the official use of a gift under subparagraph (B), the employingagency shall forward the gift to the Administrator of General Services in accordance with subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2).
 
 (3) When an employee deposits a gift of more than minimal value for disposal or for official use pursuant to paragraph (2), or within 30 days after accepting travel or travel expenses as provided in paragraph (1)(B)(ii) unless such travel or travel expenses are accepted in accordance with specific instructions of his or her employing agency, the employee shall file a statement with his or her employing agency or its delegate containing the information prescribed in subsection (f) for that gift.
 
@@ -108,7 +108,7 @@
 
 (C) In this paragraph, the term "intelligence community" has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).<sup>1</sup>
 
-(g)(1) Each employing agency shall prescribe such regulations as may be necessary to carry out the purpose of this section. For all employing agencies in the executive branch, such regulations shall be prescribed pursuant to guidanceprovided by the Secretary of State. These regulations shall be implemented by each employing agency for its employees.
+(g)(1) Each employing agency shall prescribe such regulations as may be necessary to carry out the purpose of this section. For all employing agencies in the executive branch, such regulations shall be prescribed pursuant to guidance provided by the Secretary of State. These regulations shall be implemented by each employing agency for its employees.
 
 (2) Each employing agency shall—
 

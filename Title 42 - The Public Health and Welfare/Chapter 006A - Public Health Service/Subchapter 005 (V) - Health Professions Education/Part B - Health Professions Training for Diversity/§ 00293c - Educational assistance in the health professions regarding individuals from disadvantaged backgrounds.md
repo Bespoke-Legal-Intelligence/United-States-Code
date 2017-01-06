@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;For the purpose of assisting individuals from disadvantaged backgrounds, as determined in accordance with criteria prescribed by the Secretary, to undertake education to enter a health profession, the Secretary may make grants to and enter into contracts withschools of medicine, osteopathic medicine, public health, dentistry, veterinary medicine, optometry, pharmacy, allied health, chiropractic, and podiatric medicine, public and nonprofit private schools that offer graduate programs in behavioral and mental health, programs for the training of physician assistants, and other public or private nonprofit health or educational entities to assist in meeting the costs described in paragraph (2).
+&emsp;For the purpose of assisting individuals from disadvantaged backgrounds, as determined in accordance with criteria prescribed by the Secretary, to undertake education to enter a health profession, the Secretary may make grants to and enter into contracts with schools of medicine, osteopathic medicine, public health, dentistry, veterinary medicine, optometry, pharmacy, allied health, chiropractic, and podiatric medicine, public and nonprofit private schools that offer graduate programs in behavioral and mental health, programs for the training of physician assistants, and other public or private nonprofit health or educational entities to assist in meeting the costs described in paragraph (2).
 
 #### (2) Authorized expenditures
 
@@ -34,7 +34,7 @@
 
 #### (b) Requirements for awards
 
-In making awards to eligible entities under subsection (a)(1) of this section, the Secretary shall give preference to approved applications for programs that involve a comprehensive approach by several public or nonprofit private health or educational entities to establish, enhance and expand educational programs that will result in the development of a competitive applicant pool of individuals from disadvantaged backgrounds who desire to pursue health professions careers. In considering awards for such a comprehensive partnership approach, the following shall apply with respect to the entity involved:
+In making awards to eligible entities under subsection (a)(1), the Secretary shall give preference to approved applications for programs that involve a comprehensive approach by several public or nonprofit private health or educational entities to establish, enhance and expand educational programs that will result in the development of a competitive applicant pool of individuals from disadvantaged backgrounds who desire to pursue health professions careers. In considering awards for such a comprehensive partnership approach, the following shall apply with respect to the entity involved:
 
 &emsp;(1) The entity shall have a demonstrated commitment to such approach through formal agreements that have common objectives with institutions of higher education, school districts, and other community-based entities.
 
@@ -46,11 +46,11 @@ In making awards to eligible entities under subsection (a)(1) of this section, t
 
 #### (c) Equitable allocation of financial assistance
 
-The Secretary, to the extent practicable, shall ensure that services and activities under subsection (a) of this section are adequately allocated among the various racial and ethnic populations who are from disadvantaged backgrounds.
+The Secretary, to the extent practicable, shall ensure that services and activities under subsection (a) are adequately allocated among the various racial and ethnic populations who are from disadvantaged backgrounds.
 
 #### (d) Matching requirements
 
-The Secretary may require that an entity that applies for a grant or contract under subsection (a) of this section, provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant or contract. As determined by the Secretary, such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
+The Secretary may require that an entity that applies for a grant or contract under subsection (a), provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant or contract. As determined by the Secretary, such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
 
 (July 1, 1944, ch. 373, title VII, §739, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3534.)
 
@@ -58,7 +58,7 @@ The Secretary may require that an entity that applies for a grant or contract un
 
 A prior section 293c, act July 1, 1944, ch. 373, title VII, §739, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2027, related to centers of excellence in health professions education for minority individuals, prior to the general amendment of this part by Pub. L. 105–392. See section 293 of this title.
 
-Another prior section 293c, act July 1, 1944, ch. 373, title VII, §723, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 168; amended Aug. 16, 1968, Pub. L. 90–490, title I, §103(a)(1), (2), 82 Stat. 773; Nov. 18, 1971, Pub. L. 92–157,title I, §102(c)(5), (f)(2)(C), (j)(1), (5), 85 Stat. 432, 435–437; Oct. 12, 1976, Pub. L. 94–484, title III, §305, 90 Stat. 2255; Aug. 13, 1981, Pub. L. 97–35, title XXVII,§2723(f), 95 Stat. 916; Oct. 22, 1985, Pub. L. 99–129, title II, §207(a), 99 Stat. 527, related to recovery by United States of grant moneys where facility was no longer owned by a public or nonprofit agency or where it ceased to be used for teaching or training purposes, prior to the general revision of this subchapter by Pub. L. 102–408.
+Another prior section 293c, act July 1, 1944, ch. 373, title VII, §723, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 168; amended Aug. 16, 1968, Pub. L. 90–490, title I, §103(a)(1), (2), 82 Stat. 773; Nov. 18, 1971, Pub. L. 92–157,title I, §102(c)(5), (f)(2)(C), (j)(1), (5), 85 Stat. 432, 435–437; Oct. 12, 1976, Pub. L. 94–484, title III, §305, 90 Stat. 2255; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2723(f), 95 Stat. 916; Oct. 22, 1985, Pub. L. 99–129, title II, §207(a), 99 Stat. 527, related to recovery by United States of grant moneys where facility was no longer owned by a public or nonprofit agency or where it ceased to be used for teaching or training purposes, prior to the general revision of this subchapter by Pub. L. 102–408.
 
 A prior section 739 of act July 1, 1944, was classified to section 294l of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 

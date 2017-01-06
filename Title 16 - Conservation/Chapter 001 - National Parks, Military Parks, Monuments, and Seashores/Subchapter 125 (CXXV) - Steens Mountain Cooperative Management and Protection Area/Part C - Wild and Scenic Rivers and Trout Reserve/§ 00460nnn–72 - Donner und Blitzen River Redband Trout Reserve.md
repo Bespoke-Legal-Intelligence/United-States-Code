@@ -40,7 +40,7 @@ The Redband Trout Reserve does not include any private lands adjacent to the Don
 
 #### (4) Removal of dam
 
-&emsp;The Secretary shall remove the dam located below the mouth of Fish Creek and above PageSprings if removal of the dam is scientifically justified and funds are available for such purpose.
+&emsp;The Secretary shall remove the dam located below the mouth of Fish Creek and above Page Springs if removal of the dam is scientifically justified and funds are available for such purpose.
 
 #### (f) Outreach and education
 

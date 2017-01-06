@@ -50,7 +50,7 @@
 
 #### (2) Entity manager
 
-&emsp;In the case of each entity manager, the amount of the tax imposed under subsection (a)(2) shall be $20,000 for each approval (orother act causing participation) described in subsection (a)(2).
+&emsp;In the case of each entity manager, the amount of the tax imposed under subsection (a)(2) shall be $20,000 for each approval (or other act causing participation) described in subsection (a)(2).
 
 #### (c) Tax-exempt entity
 

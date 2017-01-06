@@ -1,0 +1,6 @@
+### §488. Transferred
+
+#### Codification
+
+Section 488 was editorially reclassified as section 5136 of this title.
+

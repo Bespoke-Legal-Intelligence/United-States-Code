@@ -10,6 +10,7 @@
 | [3535\.](%C2%A7%2003535%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [3535a.](%C2%A7%2003535a%20-%20Working%20capital%20fund.md) | Working capital fund. |
 | [3536\.](%C2%A7%2003536%20-%20Annual%20reports.md) | Annual reports. |
+| [3536a.](%C2%A7%2003536a%20-%20Report%20on%20interagency%20family%20economic%20empowerment%20strategies.md) | Report on interagency family economic empowerment strategies. |
 | [3537\.](%C2%A7%2003537%20-%20Separability.md) | Separability. |
 | [3537a.](%C2%A7%2003537a%20-%20Prohibition%20of%20advance%20disclosure%20of%20funding%20decisions.md) | Prohibition of advance disclosure of funding decisions. |
 | [3537b.](%C2%A7%2003537b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9365%2C%20%C2%A711%28b%29%281%29%2C%20Dec.%2019%2C%201995%2C%20109%20Stat.%20701.md) | Repealed. |
@@ -43,6 +44,7 @@
 - [&sect; 03535 - Administrative provisions](%C2%A7%2003535%20-%20Administrative%20provisions.md)
 - [&sect; 03535a - Working capital fund](%C2%A7%2003535a%20-%20Working%20capital%20fund.md)
 - [&sect; 03536 - Annual reports](%C2%A7%2003536%20-%20Annual%20reports.md)
+- [&sect; 03536a - Report on interagency family economic empowerment strategies](%C2%A7%2003536a%20-%20Report%20on%20interagency%20family%20economic%20empowerment%20strategies.md)
 - [&sect; 03537 - Separability](%C2%A7%2003537%20-%20Separability.md)
 - [&sect; 03537a - Prohibition of advance disclosure of funding decisions](%C2%A7%2003537a%20-%20Prohibition%20of%20advance%20disclosure%20of%20funding%20decisions.md)
 - [&sect; 03537b - Repealed. Pub. L. 104&#8211;65, &sect;11(b)(1), Dec. 19, 1995, 109 Stat. 701](%C2%A7%2003537b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9365%2C%20%C2%A711%28b%29%281%29%2C%20Dec.%2019%2C%201995%2C%20109%20Stat.%20701.md)

@@ -144,7 +144,7 @@ The procedures required by this section shall include the following:
 
 #### (2) Contents
 
-&emsp;The procedural safeguards notice shall include a full explanation of the procedural safeguards, written in the native language of the parents (unless it clearly is not feasible to do so) and written in an easily understandablemanner, available under this section and under regulations promulgated by the Secretary relating to—
+&emsp;The procedural safeguards notice shall include a full explanation of the procedural safeguards, written in the native language of the parents (unless it clearly is not feasible to do so) and written in an easily understandable manner, available under this section and under regulations promulgated by the Secretary relating to—
 
 &emsp;&emsp;(A) independent educational evaluation;
 
@@ -304,7 +304,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (C) Timeline for requesting hearing
 
-&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of the date the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
+&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of thedate the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
 
 #### (D) Exceptions to the timeline
 
@@ -336,7 +336,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (F) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the right of a parent to filea complaint with the State educational agency.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the right of a parent to file a complaint with the State educational agency.
 
 #### (g) Appeal
 
@@ -470,7 +470,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (j) Maintenance of current educational placement
 
-Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or local educational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
+Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or localeducational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
 
 #### (k) Placement in alternative educational setting
 
@@ -528,7 +528,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) knowingly possesses or uses illegal drugs, or sells or solicits the sale of a controlled substance, while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency; or
 
-&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency.
+&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school functionunder the jurisdiction of a State or local educational agency.
 
 #### (H) Notification
 
@@ -562,7 +562,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;When an appeal under paragraph (3) has been requested by either the parent or the local educational agency—
 
-&emsp;&emsp;(A) the child shall remain in the interim alternative educational setting pending the decision of the hearing officer or until the expiration of the time period provided for inparagraph (1)(C), whichever occurs first, unless the parent and the State or local educational agency agree otherwise; and
+&emsp;&emsp;(A) the child shall remain in the interim alternative educational setting pending the decision of the hearing officer or until the expiration of the time period provided for in paragraph (1)(C), whichever occurs first, unless the parent and the State or local educational agency agree otherwise; and
 
 &emsp;&emsp;(B) the State or local educational agency shall arrange for an expedited hearing, which shall occur within 20 school days of the date the hearing is requested and shall result in a determination within 10 school days after the hearing.
 
@@ -594,7 +594,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
+&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educationalplacement determined by school authorities.
 
 #### (6) Referral to and action by law enforcement and judicial authorities
 
@@ -672,7 +672,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112,
 
 #### Prior Provisions
 
-A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, §102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §314(a)(1), Oct. 20, 1994, 108 Stat. 3936, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

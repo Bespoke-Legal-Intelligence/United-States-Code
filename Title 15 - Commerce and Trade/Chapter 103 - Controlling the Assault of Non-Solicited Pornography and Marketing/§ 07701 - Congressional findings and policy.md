@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(3) The receipt of unsolicited commercial electronic mail may result in costs to recipients who cannot refuse to accept such mail and who incur costs for the storage of such mail, or for the time spent accessing, reviewing, and discarding such mail, or for both.
 
-&emsp;(4) The receipt of a large number of unwanted messages also decreases the convenience of electronic mail and creates a risk that wanted electronic mail messages, both commercial and noncommercial, will be lost, overlooked, or discarded amidst the larger volume of unwanted messages, thus reducing the reliability and usefulness of electronic mail to the recipient.
+&emsp;(4) The receipt of a large number of unwanted messages also decreases the convenience of electronic mail and creates a risk that wanted electronic mail messages, both commercial and noncommercial, will be lost, overlooked, or discarded amidst the larger volumeof unwanted messages, thus reducing the reliability and usefulness of electronic mail to the recipient.
 
 &emsp;(5) Some commercial electronic mail contains material that many recipients may consider vulgar or pornographic in nature.
 

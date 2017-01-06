@@ -6,15 +6,15 @@ An entity receiving funds under this subpart may submit a plan to the Secretary 
 
 #### (b) Consolidation of programs
 
-Upon the receipt of an acceptable plan under subsection (a) of this section, the Secretary, in cooperation with each Federal agency providing grants for the provision of education and related services to the entity, shall authorize the entity to consolidate, in accordance with such plan, the federally funded education and related services programs of the entity and the Federal programs, or portions of the programs, serving Indian students in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.
+Upon the receipt of an acceptable plan under subsection (a), the Secretary, in cooperation with each Federal agency providing grants for the provision of education and related services to the entity, shall authorize the entity to consolidate, in accordance with such plan, the federally funded education and related services programs of the entity and the Federal programs, or portions of the programs, serving Indian students in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.
 
 #### (c) Programs affected
 
-The funds that may be consolidated in a demonstration project under any such plan referred to in subsection (a) of this section shall include funds for any Federal program exclusively serving Indian children, or the funds reserved under any Federal program to exclusively serve Indian children, under which the entity is eligible for receipt of funds under a statutory or administrative formula for the purposes of providing education and related services that would be used to serve Indian students.
+The funds that may be consolidated in a demonstration project under any such plan referred to in subsection (a) shall include funds for any Federal program exclusively serving Indian children, or the funds reserved under any Federal program to exclusively serve Indian children, under which the entity is eligible for receipt of funds under a statutory or administrative formula for the purposes of providing education and related services that would be used to serve Indian students.
 
 #### (d) Plan requirements
 
-For a plan to be acceptable pursuant to subsection (b) of this section, the plan shall—
+For a plan to be acceptable pursuant to subsection (b), the plan shall—
 
 &emsp;(1) identify the programs or funding sources to be consolidated;
 
@@ -36,7 +36,7 @@ For a plan to be acceptable pursuant to subsection (b) of this section, the plan
 
 #### (e) Plan review
 
-Upon receipt of the plan from an eligible entity, the Secretary shall consult with the Secretary of each Federal department providing funds to be used to implement the plan, and with the entity submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal departmental regulations, policies, or procedures necessary to enable the entity to implement the plan. Notwithstanding any other provision of law, the Secretary of the affected department shall have the authority to waive any regulation, policy, or procedure promulgated by that department that has been so identified by the entity or department, unless the Secretary of the affected department determines that such a waiver is inconsistent with the objectives of this subpart or those provisions of the statute from which the program involved derives authority that are specifically applicable to Indian students.
+Upon receipt of the plan from an eligible entity, the Secretary shall consult with the Secretary of each Federal department providing funds to be used to implement the plan, and with the entity submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal departmental regulations, policies, or procedures necessary to enable the entity to implement the plan. Notwithstanding any other provision of law, the Secretary of the affected department shall havethe authority to waive any regulation, policy, or procedure promulgated by that department that has been so identified by the entity or department, unless the Secretary of the affected department determines that such a waiver is inconsistent with the objectives of this subpart or those provisions of the statute from which the program involved derives authority that are specifically applicable to Indian students.
 
 #### (f) Plan approval
 
@@ -64,7 +64,7 @@ The responsibilities of the lead agency shall include—
 
 #### (i) Report requirements
 
-A single report format shall be developed by the Secretary, consistent with the requirements of this section. Such report format shall require that reports described in subsection (h) of this section, together with records maintained on the consolidated program at the local level, shall contain such information as will allow a determination that the eligible entity has complied with the requirements incorporated in its approved plan, including making a demonstration of student academic achievement, and will provide assurances to each Secretary that the eligible entity has complied with all directly applicable statutory requirements and with those directly applicable regulatory requirements that have not been waived.
+A single report format shall be developed by the Secretary, consistent with the requirements of this section. Such report format shall require that reports described in subsection (h), together with records maintained on the consolidated program at the local level, shall contain such information as will allow a determination that the eligible entity has complied with the requirements incorporated in its approved plan, including making a demonstration of student academic achievement, and will provide assurances to each Secretary that the eligible entity has complied with all directly applicable statutory requirements and with those directly applicable regulatory requirements that have not been waived.
 
 #### (j) No reduction in amounts
 
@@ -110,7 +110,7 @@ For the purposes of this section, the term "Secretary" means—
 
 &emsp;(2) the Secretary of Education, in the case of any other entity.
 
-(Pub. L. 89–10, title VI, §6116, formerly title VII, §7116, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1913; renumbered title VI,§6116, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
+(Pub. L. 89–10, title VI, §6116, formerly title VII, §7116, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1913; renumbered title VI, §6116, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
 
 #### References in Text
 

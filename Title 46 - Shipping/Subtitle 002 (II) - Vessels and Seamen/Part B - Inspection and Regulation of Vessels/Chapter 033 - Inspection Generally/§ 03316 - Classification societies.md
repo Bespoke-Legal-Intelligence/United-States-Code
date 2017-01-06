@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
 
-(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
+(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in theUnited States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
 
 (2) The Secretary may approve a person for purposes of paragraph (1) only if the Secretary determines that—
 
@@ -82,7 +82,7 @@
 
 (e) The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
 
-(f)(1) Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegationis authorized under that paragraph. A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.
+(f)(1) Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegation is authorized under that paragraph. A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.
 
 (2) If the Secretary determines that a certificate of inspection or related document issued under authority delegated under paragraph (1) of this subsection with respect to a vessel has reduced the operational safety of that vessel, the Secretary may terminate the certificate or document, respectively.
 
@@ -154,7 +154,7 @@ Subsec. (a). Pub. L. 104–324, §607(a)(3), which directed the substitution of 
 
 Pub. L. 104–324, §607(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: "In carrying out this part, the Secretary may rely on reports, documents, and certificates issued by the American Bureau of Shipping or a similar United States classification society, or an agent of the Bureau or society."
 
-Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: "To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or anagent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation." Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: "To the maximum extent practicable, the Secretary may delegate to the Bureau or a similar United States classification society, or an agent of the Bureau or society, the inspection or examination, in the United States or in a foreign country, of a vessel documented or to be documented as a vessel of the United States. The Bureau, society, or agent may issue the certificate of inspection required by this part and other certificates essential to documentation." Former subsec. (b) redesignated (a).
 
 Subsec. (c). Pub. L. 104–324, §607(a)(2), redesignated subsec. (c) as (b).
 
@@ -166,5 +166,5 @@ Pub. L. 108–293, title IV, §413(b), Aug. 9, 2004, 118 Stat. 1046, provided th
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

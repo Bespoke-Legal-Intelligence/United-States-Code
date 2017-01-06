@@ -56,7 +56,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3) and subsection (e) of this section, not later than 180 days after notification of the occurrence of a cause for debarment described in paragraph (2), the Secretary shall initiate nonprocurement debarment proceedings against the contractor who has committed the cause for debarment.
+&emsp;Except as provided in paragraph (3) and subsection (e), not later than 180 days after notification of the occurrence of a cause for debarment described in paragraph (2), the Secretary shall initiate nonprocurement debarment proceedings against the contractor who has committed the cause for debarment.
 
 #### (2) Causes for debarment
 
@@ -80,7 +80,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the other provisions of this paragraph and notwithstanding any other provision of law except subsection (e) of this section, if, after deciding to initiate nonprocurement debarment proceedings pursuant to paragraph (1), the Secretary decides to debar a contractor, the debarment shall be for a period of not less than 3 years.
+&emsp;&emsp;Subject to the other provisions of this paragraph and notwithstanding any other provision of law except subsection (e), if, after deciding to initiate nonprocurement debarment proceedings pursuant to paragraph (1), the Secretary decides to debar a contractor, the debarment shall be for a period of not less than 3 years.
 
 #### (B) Previous debarment
 
@@ -102,7 +102,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(iv) otherwise settle a debarment action at any time;
 
-> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, ifthe Secretary determines there is good cause for the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e) of this section.
+> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, if the Secretary determines there is good cause for the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e).
 
 #### (5) Information
 
@@ -118,7 +118,7 @@ The Secretary shall—
 
 #### (e) Mandatory debarment
 
-Notwithstanding any other provision of this section, the Secretary shall initiate nonprocurement debarment proceedings against the contractor (including any cooperative) who has committed the cause for debarment (as determined under subsection (d)(2) of this section), unless the action—
+Notwithstanding any other provision of this section, the Secretary shall initiate nonprocurement debarment proceedings against the contractor (including any cooperative) who has committed the cause for debarment (as determined under subsection (d)(2)), unless the action—
 
 &emsp;(1) is likely to have a significant adverse effect on competition or prices in the relevant market or nationally;
 

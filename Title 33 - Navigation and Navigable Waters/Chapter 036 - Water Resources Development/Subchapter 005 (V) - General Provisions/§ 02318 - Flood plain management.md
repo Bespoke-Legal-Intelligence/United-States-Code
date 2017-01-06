@@ -22,23 +22,23 @@ The Secretary shall not include in the benefit base for justifying Federal flood
 
 #### (c) Counties substantially located within 100-year flood plain
 
-For the purposes of subsection (a) of this section, a county is substantially located within the 100-year flood plain—
+For the purposes of subsection (a), a county is substantially located within the 100-year flood plain—
 
 &emsp;(1) if the county is comprised of lands of which 50 percent or more are located in the 100-year flood plain; and
 
-&emsp;(2) if the Secretary determines that application of the requirement contained in subsection (a)(1)(A) of this section with respect to the county would unreasonably restrain continued economic development or unreasonably limit the availability of needed flood control measures.
+&emsp;(2) if the Secretary determines that application of the requirement contained in subsection (a)(1)(A) with respect to the county would unreasonably restrain continued economic development or unreasonably limit the availability of needed flood control measures.
 
 #### (d) Cost sharing
 
-Not later than January 1, 1992, the Secretary shall transmit to Congress a report on the feasibility and advisability of increasing the non-Federal share of costs for new projects in areas where new or substantially improved structures and other constrictions are built or placed in the 100-year flood plain or the 10-year floodplain, as the case may be, after the initial date of the affected governmental unit's entry into the regular program of the national flood insurance program of the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\].
+Not later than January 1, 1992, the Secretary shall transmit to Congress a report on the feasibility and advisability of increasing the non-Federal share of costs for new projects in areas where new or substantially improved structures and other constrictions are built or placed in the 100-year flood plain or the 10-year flood plain, as the case may be, after the initial date of the affected governmental unit's entry into the regular program of the national flood insurance program of the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\].
 
 #### (e) Regulations
 
-Not later than 6 months after the date on which a report is transmitted to Congress under subsection (c) of this section, the Secretary, in consultation with the Director of the Federal Emergency Management Agency, shall issue regulations to implement subsection (a) of this section. Such regulations shall define key terms, such as new or substantially improved structure, constriction, 10-year flood plain, and 100-year flood plain.
+Not later than 6 months after the date on which a report is transmitted to Congress under subsection (c), the Secretary, in consultation with the Director of the Federal Emergency Management Agency, shall issue regulations to implement subsection (a). Such regulations shall define key terms, such as new or substantially improved structure, constriction, 10-year flood plain, and 100-year flood plain.
 
 #### (f) Applicability
 
-The provisions of this section shall not apply to any project, or separable element thereof, for which a final report of the Chief of Engineers has been forwarded to the Secretary before the last day of the 6-month period beginning on the date on which regulations are issued pursuant to subsection (a) of this section but not later than July 1, 1993.
+The provisions of this section shall not apply to any project, or separable element thereof, for which a final report of the Chief of Engineers has been forwarded to the Secretary before the last day of the 6-month period beginning on the date on which regulations are issued pursuant to subsection (a) but not later than July 1, 1993.
 
 (Pub. L. 101–640, title III, §308, Nov. 28, 1990, 104 Stat. 4638; Pub. L. 106–53, title II, §219(a), Aug. 17, 1999, 113 Stat. 294.)
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 106–53, §219(a)(2), redesignated subsec. (e) as (f).
 
 #### Change of Name
 
-References to the Director of the Federal Emergency Management Agency to be considered to refer and apply to the Administrator of the Federal Emergency Management Agency, see section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
+References to the Director of the Federal Emergency Management Agency to be considered to refer andapply to the Administrator of the Federal Emergency Management Agency, see section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security.
 
 #### Transfer of Functions
 

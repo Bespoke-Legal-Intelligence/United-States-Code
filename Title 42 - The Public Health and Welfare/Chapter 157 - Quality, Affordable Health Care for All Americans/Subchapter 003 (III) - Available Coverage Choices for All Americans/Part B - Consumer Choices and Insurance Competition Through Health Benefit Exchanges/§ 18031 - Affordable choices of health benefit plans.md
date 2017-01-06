@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) include within health insurance plan networks those essential community providers, where available, that serve predominately low-income, medically-underserved individuals, such as health care providers defined in section 340B(a)(4) of the Public Health Service Act \[42 U.S.C. 256b(a)(4)\] and providers described in section 1927(c)(1)(D)(i)(IV) of the Social Security Act \[42 U.S.C. 1396r–8(c)(1)(D)(i)(IV)\] as set forth by section 221 of Public Law 111–8, except that nothing in this subparagraph shall be construed to require any health plan to provide coverage for any specific medical procedure;
 
-&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
+&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measuressuch as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
 
 &emsp;&emsp;(ii) receive such accreditation within a period established by an Exchange for such accreditation that is applicable to all qualified health plans;
 
@@ -84,7 +84,7 @@
 
 #### (3) Rating system
 
-&emsp;The Secretary shall develop a rating system that would rate qualified health plans offered through an Exchange in each benefits level on the basis of the relative quality and price. TheExchange shall include the quality rating in the information provided to individuals and employers through the Internet portal established under paragraph (4).
+&emsp;The Secretary shall develop a rating system that would rate qualified health plans offered through an Exchange in each benefits level on the basis of the relative quality and price. The Exchange shall include the quality rating in the information provided to individuals and employers through the Internet portal established under paragraph (4).
 
 #### (4) Enrollee satisfaction system
 
@@ -132,7 +132,7 @@
 
 #### (ii) Offering of stand-alone dental benefits
 
-&emsp;&emsp;&emsp;Each Exchange within a State shall allow an issuer of a plan that only provides limited scope dental benefits meeting the requirements of section 9832(c)(2)(A) of title 26 to offer the plan through the Exchange (either separately or in conjunction with a qualified health plan) if the plan provides pediatric dental benefits meeting the requirements of section 18022(b)(1)(J) of this title).
+&emsp;&emsp;&emsp;Each Exchange within a State shall allow an issuer of a plan that only provideslimited scope dental benefits meeting the requirements of section 9832(c)(2)(A) of title 26 to offer the plan through the Exchange (either separately or in conjunction with a qualified health plan) if the plan provides pediatric dental benefits meeting the requirements of section 18022(b)(1)(J) of this title).
 
 #### (3) Rules relating to additional required benefits
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;(ii) through the imposition of premium price controls; or
 
-&emsp;&emsp;&emsp;(iii) on the basis that the plan provides treatments necessary to prevent patients'deaths in circumstances the Exchange determines are inappropriate or too costly.
+&emsp;&emsp;&emsp;(iii) on the basis that the plan provides treatments necessary to prevent patients' deaths in circumstances the Exchange determines are inappropriate or too costly.
 
 #### (2) Premium considerations
 
@@ -324,7 +324,7 @@
 
 &emsp;A strategy described in this paragraph is a payment structure that provides increased reimbursement or other incentives for—
 
-&emsp;&emsp;(A) improving health outcomes through the implementation of activities that shallinclude quality reporting, effective case management, care coordination, chronic disease management, medication and care compliance initiatives, including through the use of the medical home model, for treatment or services under the plan or coverage;
+&emsp;&emsp;(A) improving health outcomes through the implementation of activities that shall include quality reporting, effective case management, care coordination, chronic disease management, medication and care compliance initiatives, including through the use of the medical home model, for treatment or services under the plan or coverage;
 
 &emsp;&emsp;(B) the implementation of activities to prevent hospital readmissions through a comprehensive program for hospital discharge that includes patient-centered education and counseling, comprehensive discharge planning, and post discharge reinforcement by an appropriate health care professional;
 
@@ -374,7 +374,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible to receive a grant under paragraph (1), an entity shall demonstrate to the Exchange involved that the entity has existing relationships, or could readily establish relationships, with employers and employees, consumers (including uninsured and underinsured consumers), or self-employed individuals likely to be qualified to enroll in a qualified health plan.
+&emsp;&emsp;To be eligible to receive a grant under paragraph (1), an entity shall demonstrate to the Exchange involved that the entity hasexisting relationships, or could readily establish relationships, with employers and employees, consumers (including uninsured and underinsured consumers), or self-employed individuals likely to be qualified to enroll in a qualified health plan.
 
 #### (B) Types
 
@@ -404,7 +404,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for navigators under this subsection, includingprovisions to ensure that any private or public entity that is selected as a navigator is qualified, and licensed if appropriate, to engage in the navigator activities described in this subsection and to avoid conflicts of interest. Under such standards, a navigator shall not—
+&emsp;&emsp;The Secretary shall establish standards for navigators under this subsection, including provisions to ensure that any private or public entity that is selected as a navigator is qualified, and licensed if appropriate, to engage in the navigator activities described in this subsection and to avoid conflicts of interest. Under such standards, a navigator shall not—
 
 &emsp;&emsp;&emsp;(i) be a health insurance issuer; or
 
@@ -438,7 +438,7 @@ Section 2716 of the Public Health Service Act, referred to in subsec. (c)(5), pr
 
 The Social Security Act, referred to in subsecs. (c)(6)(C), (d)(4)(F), and (f)(3)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title XVIII of the Act is classified generally to part D (§1395w–101 et seq.) of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 2794 of the Public Health Service Act, referred to in subsec. (e)(2), probably means section 2794 of act July 1, 1944, as added by section 1003 of Pub. L. 111–148, which relates to premium increases for consumers and is classified to section 300gg–94 of this title. Another section 2794 of act July 1, 1944, relates to uniform fraud and abuse referral format and is classified to section 300gg–95 of this title.
+Section 2794 of the Public Health Service Act, referred to in subsec. (e)(2), probably means section 2794 of act July 1, 1944, as added by section 1003 of Pub. L.111–148, which relates to premium increases for consumers and is classified to section 300gg–94 of this title. Another section 2794 of act July 1, 1944, relates to uniform fraud and abuse referral format and is classified to section 300gg–95 of this title.
 
 The Public Health Service Act, referred to in subsec. (h)(1)(A)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§299b–21 et seq.) of subchapter VII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

@@ -38,7 +38,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (2) Deadline for grievances
 
-&emsp;Except for a grievance that alleges fraud or criminal activity, a grievance shall be madenot later than 1 year after the date of the alleged occurrence of the event that is the subject of the grievance.
+&emsp;Except for a grievance that alleges fraud or criminal activity, a grievance shall be made not later than 1 year after the date of the alleged occurrence of the event that is the subject of the grievance.
 
 #### (3) Deadline for hearing and decision
 

@@ -20,7 +20,7 @@ As soon as practicable after November 28, 1990, a map and legal description of t
 
 #### (e) Withdrawal
 
-Subject to valid existing rights, all Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the conservation area are herebywithdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
 
 #### (f) Water
 
@@ -76,7 +76,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to theCode, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. For complete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 

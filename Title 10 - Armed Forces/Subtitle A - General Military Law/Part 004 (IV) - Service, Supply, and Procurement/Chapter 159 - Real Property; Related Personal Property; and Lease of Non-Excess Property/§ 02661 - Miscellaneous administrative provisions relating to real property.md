@@ -28,7 +28,7 @@ Prohibition on Naming Department of Defense Real Property After Member of Congre
 
 &emsp;(A) The term "Member of Congress" includes a Delegate or Resident Commissioner to the Congress.
 
-&emsp;(B) The term "real property" includes structures, buildings, or other infrastructure of amilitary installation, roadways and defense access roads, and any other area on the grounds of a military installation.
+&emsp;(B) The term "real property" includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
 
 (d)
 
@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
+Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition insubsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
 
 #### Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations
 

@@ -2,7 +2,7 @@
 
 #### (a) Applications for grants
 
-For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
+For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projectedcosts of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
 
 &emsp;(1) the applicant is (A) a public broadcast station; (B) a noncommercial telecommunications entity; (C) a system of public telecommunications entities; (D) a nonprofit foundation, corporation, institution, or association organized primarily for educational or cultural purposes; or (E) a State or local government (or any agency thereof), or a political or special purpose subdivision of a State;
 
@@ -22,7 +22,7 @@ Upon approving any application under this section with respect to any project fo
 
 #### (c) Information and assurances
 
-The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) of this section to receive construction assistance.
+The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
 
 #### (d) Studies
 
@@ -34,13 +34,13 @@ The Secretary shall establish such rules and regulations as may be necessary to 
 
 #### (f) Minorities and women
 
-In establishing criteria for grants pursuant to section 393 of this title and in establishing procedures relating to the order of priority established in subsection (e) of this section in approving applications for grants, the Secretary shall give special consideration to applications which would increase minority and women's ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
+In establishing criteria for grants pursuant to section 393 of this title and in establishing procedures relating to the order of priority established in subsection (e) in approving applications for grants, the Secretary shall give special consideration to applications which would increase minority and women's ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
 
 #### (g) Recovering funds
 
 If, within 10 years after completion of any project for construction of public telecommunications facilities with respect to which a grant has been made under this section—
 
-&emsp;(1) the applicant or other owner of such facilities ceases to be an agency, institution, foundation, corporation, association, or other entity described in subsection (a)(1) of this section; or
+&emsp;(1) the applicant or other owner of such facilities ceases to be an agency, institution, foundation, corporation, association, or other entity described in subsection (a)(1); or
 
 &emsp;(2) such facilities cease to be used primarily for the provision of public telecommunications services (or the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services interferes with the provision of such public telecommunications services as required in this part);
 
@@ -52,7 +52,7 @@ Each recipient of assistance under this subpart shall keep such records as may b
 
 #### (i) Accessibility of records
 
-The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of any recipient of assistance under this subpart that are pertinent to assistance received under this subpart.
+The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for thepurpose of audit and examination to any books, documents, papers, and records of any recipient of assistance under this subpart that are pertinent to assistance received under this subpart.
 
 (June 19, 1934, ch. 652, title III, §392, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 65; amended Pub. L. 90–129, title I, §§102, 103(b)–(e), 104, Nov. 7, 1967, 81 Stat. 365–367; Pub. L. 94–309, §4, June 5, 1976, 90 Stat. 683; Pub. L. 95–567, title I, §103(a), Nov. 2, 1978, 92 Stat. 2405; Pub. L. 97–35, title XII, §1223, Aug. 13, 1981, 95 Stat. 725.)
 
@@ -60,7 +60,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 <b>1981</b>—Subsec. (a)(4). Pub. L. 97–35, §1223(a), inserted provisions relating to noninterference of facilities with services required under this part, and substituted "primarily" for "only".
 
-Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted "primarily" for "only", and provisions relating to interference of uses of facilities for provisions relating togood cause for release of applicant or owner from requirements.
+Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted "primarily" for "only", and provisions relating to interference of uses of facilities for provisions relating to good cause for release of applicant or owner from requirements.
 
 <b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking out provisions for an 8½ percent limit on grants and criteria for awarding grants.
 
@@ -116,7 +116,7 @@ Pub. L. 95–567, title I, §103(b), Nov. 2, 1978, 92 Stat. 2407, provided that:
 
 &emsp;"(A) make such determinations as may be necessary with regard to the transfer of the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 
-&emsp;"(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A);
+&emsp;"(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property,records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A);
 
 > as the Director may deem necessary to accomplish the purposes of this Act \[see Short Title of 1978 Amendment note set out under section 609 of this title\] and the amendments made by this Act."
 

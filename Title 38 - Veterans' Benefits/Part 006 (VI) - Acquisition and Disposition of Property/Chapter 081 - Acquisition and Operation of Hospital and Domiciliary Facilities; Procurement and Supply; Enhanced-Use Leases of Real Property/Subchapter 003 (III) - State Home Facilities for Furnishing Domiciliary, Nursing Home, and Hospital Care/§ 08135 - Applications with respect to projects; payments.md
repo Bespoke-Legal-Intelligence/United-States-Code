@@ -28,7 +28,7 @@
 
 &emsp;(C) A five-year capital plan for the State home program for that State.
 
-(2) Failure to provide adequate documentation under paragraph (1)(A) or to provide an adequatefinancial plan under paragraph (1)(B) shall be a basis for disapproving the application.
+(2) Failure to provide adequate documentation under paragraph (1)(A) or to provide an adequate financial plan under paragraph (1)(B) shall be a basis for disapproving the application.
 
 (c)(1) Upon receipt of an application under subsection (a) for financial assistance under this subchapter, the Secretary—
 
@@ -76,7 +76,7 @@
 
 (B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
 
-(7)(A) Subject to subparagraph (B) of this paragraph, the Secretary may increase the amount of any grant awarded to any State for a project under this section by an amount by which the Secretary determines that the estimated cost of the construction or acquisition has increased from the estimated cost on whichthe Secretary based the determination to award the grant, without regard to the position of such project on the list established under paragraph (4) of this subsection, if the Secretary determines that the grant was awarded before the State entered into a contract for the construction or acquisition provided for in such project.
+(7)(A) Subject to subparagraph (B) of this paragraph, the Secretary may increase the amount of any grant awarded to any State for a project under this section by an amount by which the Secretary determines that the estimated cost of the construction or acquisition has increased from the estimated cost on which the Secretary based the determination to award the grant, without regard to the position of such project on the list established under paragraph (4) of this subsection, if the Secretary determines that the grant was awarded before the State entered into a contract for the construction or acquisition provided for in such project.
 
 (B) A grant may not be increased under subparagraph (A) of this paragraph by more than 10 percent of the amount of the grant initially awarded for such project, and the amount of such grant, as increased, may not exceed 65 percent of the cost of the project.
 
@@ -144,7 +144,7 @@ Subsec. (b)(6), (7). Pub. L. 100–322, §206(b)(2), added pars. (6) and (7).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–576, §224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
 
-Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted "The amount of a grant underthis subchapter shall be paid" for "Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment" and struck out par. (2) which read as follows: "No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year."
+Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted "The amount of a grant under this subchapter shall be paid" for "Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amountgreater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment" and struck out par. (2) which read as follows: "No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year."
 
 <b>1985</b>—Subsec. (a)(6). Pub. L. 99–166, §205(a), inserted "by July 1 of the fiscal year for which the application is approved".
 
@@ -222,7 +222,7 @@ Pub. L. 106–117, title II, §207(c), Nov. 30, 1999, 113 Stat. 1566, provided t
 
 &emsp;"(A) Any application for a fiscal year 1999 priority one project.
 
-&emsp;"(B) Any application for a fiscal year 2000 priority one project that was submitted by a State that (i) did not receive grant funds from amounts appropriated for fiscal year 1999 under the State home grant program, and (ii) does not have any fiscal year 1999 priority one projects.
+&emsp;"(B) Any application for a fiscal year 2000 priority one project that was submitted by a State that (i) didnot receive grant funds from amounts appropriated for fiscal year 1999 under the State home grant program, and (ii) does not have any fiscal year 1999 priority one projects.
 
 "(3) For purposes of this subsection—
 

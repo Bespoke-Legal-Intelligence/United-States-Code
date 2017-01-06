@@ -54,7 +54,7 @@ Annual Report.—(1) The Secretary of the Army shall direct the Superintendent o
 
 &emsp;(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated.
 
-&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Armyand the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
+&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Army and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year.
 
 &emsp;(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
 
@@ -65,6 +65,10 @@ Annual Report.—(1) The Secretary of the Army shall direct the Superintendent o
 (B) The Secretary of Defense shall transmit each such report, together with the Secretary's comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (Added Pub. L. 109–364, div. A, title V, §532(a)(1), Oct. 17, 2006, 120 Stat. 2200.)
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
 

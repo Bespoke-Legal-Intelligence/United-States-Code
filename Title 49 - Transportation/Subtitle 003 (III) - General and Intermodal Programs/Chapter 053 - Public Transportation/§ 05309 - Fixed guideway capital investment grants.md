@@ -52,7 +52,7 @@ Program of interrelated projects.—The term "program of interrelated projects" 
 
 &emsp;(7)
 
-Small start project.—The term "small start project" means a new fixed guideway capital project or corridor-based bus rapid transit project for which—
+Small start project.—The term "small start project" means a new fixed guidewaycapital project or corridor-based bus rapid transit project for which—
 
 &emsp;&emsp;(A) the Federal assistance provided or to be provided under this section is less than $100,000,000; and
 
@@ -156,7 +156,7 @@ In general.—A new fixed guideway capital project may advance to the engineerin
 
 &emsp;&emsp;&emsp;(ii) is adopted into the metropolitan transportation plan required under section 5303;
 
-&emsp;&emsp;&emsp;(iii) is justified based on a comprehensive review of the project's mobility improvements, the project's environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies andland use patterns of the project that support public transportation, and the project's cost-effectiveness as measured by cost per rider; and
+&emsp;&emsp;&emsp;(iii) is justified based on a comprehensive review of the project's mobility improvements, the project's environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies and land use patterns of the project that support public transportation, and the project's cost-effectiveness as measured by cost per rider; and
 
 &emsp;&emsp;&emsp;(iv) is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
 
@@ -330,7 +330,7 @@ Warrants.—The Secretary shall, to the maximum extent practicable, develop and 
 
 &emsp;(4)
 
-Letters of intent and early systems work agreements.—In order to expedite a project under this subsection, the Secretary shall, to the maximum extent practicable, issue letters of intent and enter into early systems work agreements upon issuance of a record of decision for projects that receive an overall project rating of medium or better.
+Letters of intent and early systems work agreements.—In order to expedite aproject under this subsection, the Secretary shall, to the maximum extent practicable, issue letters of intent and enter into early systems work agreements upon issuance of a record of decision for projects that receive an overall project rating of medium or better.
 
 &emsp;(5)
 
@@ -344,7 +344,7 @@ Policy guidance.—The Secretary shall issue policy guidance regarding the revie
 
 Rules.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue rules establishing an evaluation and rating process for—
 
-&emsp;&emsp;(A) new fixed guideway capital projects that is based on the results of project justification, policies and land use patternsthat promote public transportation, and local financial commitment, as required under this subsection; and
+&emsp;&emsp;(A) new fixed guideway capital projects that is based on the results of project justification, policies and land use patterns that promote public transportation, and local financial commitment, as required under this subsection; and
 
 &emsp;&emsp;(B) core capacity improvement projects that is based on the results of the capacity needs of the corridor, project justification, and local financial commitment.
 
@@ -502,7 +502,7 @@ Review required.—The Secretary shall annually review the program implementatio
 
 &emsp;&emsp;(B)
 
-Extension of time.—If a program of interrelated projects is not adhering to its schedule, the Secretary may, upon the request of the applicant, grant an extension of time if the applicant submits a reasonable plan that includes—
+Extension of time.—If a program of interrelated projects is not adhering to itsschedule, the Secretary may, upon the request of the applicant, grant an extension of time if the applicant submits a reasonable plan that includes—
 
 &emsp;&emsp;&emsp;(i) evidence of continued adequate funding; and
 
@@ -692,7 +692,7 @@ Appropriation required.—An obligation may be made under this subsection only w
 
 &emsp;(5)
 
-Notification to congress.—At least 30 days before issuing a letter of intent, entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee onAppropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
+Notification to congress.—At least 30 days before issuing a letter of intent, entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
 
 (l)
 
@@ -780,7 +780,7 @@ In general.—The Secretary may pay the Government share of the net capital proj
 
 &emsp;&emsp;(B) the Secretary approves the payment; and
 
-&emsp;&emsp;(C) before the State or local governmental authority carries out the part of the project, the Secretary approves the plans and specifications for the part in the same way as other projects under this section.
+&emsp;&emsp;(C) before the State or local governmental authority carries out the part of the project,the Secretary approves the plans and specifications for the part in the same way as other projects under this section.
 
 &emsp;(2)
 
@@ -888,7 +888,7 @@ Government share.—The Government share shall not exceed 80 percent of the net 
 
 Non-government share.—The remainder of the net capital cost attributable to the public transportation costs of a project under this subsection shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L.109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984; Pub. L. 114–94, div. A, title III, §3005(a), Dec. 4, 2015, 129 Stat. 1450.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984; Pub. L. 114–94, div. A, title III, §3005(a), Dec. 4, 2015, 129 Stat. 1450.)
 
 Historical and Revision Notes
 
@@ -1184,7 +1184,7 @@ Pub. L. 112–102, §303(1)(C), substituted "2011 and $150,000,000 for the perio
 
 Subsec. (m)(6)(B). Pub. L. 112–141, §113003(2)(A), substituted "2012" for "2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
-Pub. L. 112–140, §§1(c), 303(2)(A), temporarily substituted "2011 and $11,400,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $11,250,000 shall be available forthe period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 303(2)(A), temporarily substituted "2011 and $11,400,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §303(2)(A), substituted "2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
@@ -1246,7 +1246,7 @@ Subsec. (m)(7)(E). Pub. L. 112–141, §113003(3)(E), struck out "and $2,250,000
 
 Pub. L. 112–140, §§1(c), 303(3)(E), temporarily substituted "and $2,280,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102, §303(3)(E), substituted "and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "and $1,500,000shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
+Pub. L. 112–102, §303(3)(E), substituted "and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
 <b>2011</b>—Subsec. (m)(2). Pub. L. 112–30, §133(1)(A), (B), substituted "
 
@@ -1466,7 +1466,7 @@ Subsec. (m)(1)(C). Pub. L. 108–280, §7(a)(1)(D), substituted ", except for f
 
 Pub. L. 108–263, §7(a)(1)(A), (D), substituted "July 31, 2004" for "June 30, 2004" and "$503,014,600" for "$452,713,140".
 
-Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotationmarks designating the provisions to be inserted, was executed by substituting "2003, and ending on June 30, 2004, during which $452,713,140 will be available" for "2003 and ending on April 30, 2004, during which $352,110,220 will be available", to reflect the probable intent of Congress.
+Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotation marks designating the provisions to be inserted, was executed by substituting "2003, and ending on June 30, 2004, during which $452,713,140 will be available" for "2003 and ending on April 30, 2004, during which $352,110,220 will be available", to reflect the probable intent of Congress.
 
 Pub. L. 108–202, §9(a)(1)(D), inserted ", except for the period beginning on October 1, 2003 and ending on April 30, 2004, during which $352,110,220 will be available" after "facilities".
 
@@ -1554,7 +1554,7 @@ Required Payments and Eligible Costs of Projects That Enhance Urban Economic Dev
 
 Subsec. (g). Pub. L. 105–178, §3009(f)(1), substituted "Funding" for "Financing" in heading.
 
-Subsec. (g)(1)(B). Pub. L. 105–178, §3009(f)(3), substituted "At least 60 days" for "At least 30 days" and"letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project" for "issuance of the letter" and inserted "or entering into a full funding grant agreement" after "subparagraph (A) of this paragraph".
+Subsec. (g)(1)(B). Pub. L. 105–178, §3009(f)(3), substituted "At least 60 days" for "At least 30 days" and "letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project" for "issuance of the letter" and inserted "or entering into a full funding grant agreement" after "subparagraph (A) of this paragraph".
 
 Subsec. (g)(2)(A), (B), (3)(A)(i). Pub. L. 105–178, §3009(f)(2), substituted "full funding" for "full financing".
 
@@ -1646,7 +1646,7 @@ Corridor-based bus rapid transit project.—The term 'corridor-based bus rapid t
 
 &emsp;"(E)
 
-Eligible project.—The term 'eligible project' means a new fixed guideway capital project, a smallstart project, or a core capacity improvement project that has not entered into a full funding grant agreement with the Federal Transit Administration before the date of enactment of this Act \[Dec. 4, 2015\].
+Eligible project.—The term 'eligible project' means a new fixed guideway capital project, a small start project, or a core capacity improvement project that has not entered into a full funding grant agreement with the Federal Transit Administration before the date of enactment of this Act \[Dec. 4, 2015\].
 
 &emsp;"(F)
 
@@ -1750,7 +1750,7 @@ Financial commitment.—
 
 &emsp;&emsp;"(i)
 
-Requirements.—In determining whether an eligible project is supported by an acceptable degree of local financial commitment and shows evidence of stable and dependable financing sources for purposes of subparagraph (A)(v), the Secretary shall require that—
+Requirements.—In determining whether an eligible project is supported by an acceptable degree of local financial commitment and shows evidence of stable and dependable financing sourcesfor purposes of subparagraph (A)(v), the Secretary shall require that—
 
 &emsp;&emsp;&emsp;"(I) each proposed source of capital and operating financing is stable, reliable, and available within the proposed eligible project timetable; and
 

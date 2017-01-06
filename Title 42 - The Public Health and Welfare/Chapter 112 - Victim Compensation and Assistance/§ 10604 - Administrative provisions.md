@@ -6,7 +6,7 @@ The Director may establish such rules, regulations, guidelines, and procedures a
 
 #### (b) Recordkeeping
 
-Each recipient of sums under this chapter shall keep such records as the Director shall prescribe, including records that fully disclose the amount and disposition by such recipient of such sums, the total cost of the undertaking for which such sums are used, and that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of sums under this chapter shall keep such records as the Director shallprescribe, including records that fully disclose the amount and disposition by such recipient of such sums, the total cost of the undertaking for which such sums are used, and that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (c) Access of Director to books and records for purpose of audit and examination
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 100–690 not applicable with respect to a State compensati
 
 #### Reports on Amounts Received and Distributed From Fines for Violations of Trade Secrets Provisions
 
-Pub. L. 104–294, title I, §101(c), Oct. 11, 1996, 110 Stat. 3491, provided that: "Not later than 2 years and 4 years after the date of the enactment of this Act \[Oct. 11, 1996\], the Attorney General shall report to Congress on the amounts received and distributed from fines for offenses under this chapter \[probably means chapter 90 of title 18, added by section 101(a) of Pub. L. 104–294\] deposited in the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601)."
+Pub. L. 104–294, title I, §101(c), Oct. 11, 1996, 110 Stat. 3491, provided that: "Not later than 2 years and 4 yearsafter the date of the enactment of this Act \[Oct. 11, 1996\], the Attorney General shall report to Congress on the amounts received and distributed from fines for offenses under this chapter \[probably means chapter 90 of title 18, added by section 101(a) of Pub. L. 104–294\] deposited in the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601)."
 

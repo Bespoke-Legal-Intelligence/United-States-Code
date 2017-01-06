@@ -2,7 +2,7 @@
 
 #### (a) Enforcement measures; importation of Rhodesian chromium
 
-Notwithstanding the provisions of any other law, whenever the United States is called upon by the Security Council to apply measures which said Council has decided, pursuant to article 41 of said Charter, are to be employed to give effect to its decisions under said Charter, the President may, to the extent necessary to apply such measures, through any agency which he may designate, and under such orders, rules, and regulations as may be prescribed by him, investigate, regulate, or prohibit, in whole or in part, economic relations or rail, sea, air, postal,telegraphic, radio, and other means of communication between any foreign country or any national thereof or any person therein and the United States or any person subject to the jurisdiction thereof, or involving any property subject to the jurisdiction of the United States. Any Executive order which is issued under this subsection and which applies measures against Southern Rhodesia pursuant to any United Nations Security Council Resolution may be enforced, notwithstanding the provisions of any other law. The President may exempt from such Executive order any shipment of chromium in any form which is in transit to the United States on March 18, 1977.
+Notwithstanding the provisions of any other law, whenever the United States is called upon by the Security Council to apply measures which said Council has decided, pursuant to article 41 of said Charter, are to be employed to give effect to its decisions under said Charter, the President may, to the extent necessary to apply such measures, through any agency which he may designate, and under such orders, rules, and regulations as may be prescribed by him, investigate, regulate, or prohibit, in whole or in part, economic relations or rail, sea, air, postal, telegraphic, radio, and other means of communication between any foreign country or any national thereof or any person therein and the United States or any person subject to the jurisdiction thereof, or involving any property subject to the jurisdiction of the United States. Any Executive order which is issued under this subsection and which applies measures against Southern Rhodesia pursuant to any United Nations Security Council Resolution may be enforced, notwithstanding the provisions of any other law. The President may exempt from such Executive order any shipment of chromium in any form which is in transit to the United States on March 18, 1977.
 
 #### (b) Penalties
 
@@ -10,7 +10,7 @@ Any person who willfully violates or evades or attempts to violate or evade any 
 
 #### (c) Steel mill products containing chromium; certificate of origin; regulations; subpenas; certificate exemption; release from customs custody; definitions
 
-(1) During the period in which measures are applied against Southern Rhodesia under subsection (a) of this section pursuant to any United Nations Security Council Resolution, a shipment of any steel mill product (as such product may be defined by the Secretary) containing chromium in any form may not be released from customs custody for entry into the United States if—
+(1) During the period in which measures are applied against Southern Rhodesia under subsection (a) pursuant to any United Nations Security Council Resolution, a shipment of any steel mill product (as such product may be defined by the Secretary) containing chromium in any form may not be released from customs custody for entry into the United States if—
 
 &emsp;(A) a certificate of origin with respect to such shipment has not been filed with the Secretary; or
 
@@ -22,7 +22,7 @@ Any person who willfully violates or evades or attempts to violate or evade any 
 
 (3)(A) In carrying out this subsection, the Secretary may issue subpenas requiring the attendance and testimony of witnesses and the production of evidence. Any such subpena may, upon application by the Secretary, be enforced in a civil action in an appropriate United States district court.
 
-(B) The Secretary may exempt from the certification requirements of this subsection any shipment of a steel mill product containing chromium in any form which is in transit to the United States on March 18, 1977.
+(B) The Secretary may exempt from the certification requirements of this subsection anyshipment of a steel mill product containing chromium in any form which is in transit to the United States on March 18, 1977.
 
 (C) Under such circumstances as he deems appropriate, the Secretary may release from customs custody for entry into the United States, under such bond as he may require, any shipment of a steel mill product containing chromium in any form.
 
@@ -94,7 +94,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (b) To the extent consistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, licenses, contracts, agreements, and other actions made, issued, taken, or entered into under the provisions of such Executive orders and not previously revoked, superseded, or otherwise made inapplicable, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall retain the authority and responsibility for the enforcement of Executive Orders 11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
+1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall retain the authority and responsibility for the enforcement of Executive Orders11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
 
 (b) The revocation, in Section 1–101 of this order, of such prior Executive orders shall not affect:
 
@@ -122,7 +122,7 @@ Sec. 2. <i>Definitions</i>. For purposes of this order, the term: (a) "Person" m
 
 (b) "United States person" means any citizen or national of the United States, any lawful permanent resident of the United States, or any corporation, business association, partnership, society, trust, or any other entity, organization or group, including governmental entities, organized under the laws of the United States (including foreign branches).
 
-Sec. 3. <i>Responsibilities</i>. The functions and responsibilities for the enforcement of the foregoing prohibitions are delegated as follows: (a) The Secretary of State is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by section 5 of the United Nations Participation Act \[of 1945\] \[22 U.S.C. 287c\] and other authorities available to the Secretary of State, as may be necessary to carry out the purpose of this order, relating to arms and related materiel ofa type enumerated on the United States Munitions List (22 C.F.R. Part 121). The Secretary of State may redelegate any of these functions to other officers and agencies of the United States Government; and
+Sec. 3. <i>Responsibilities</i>. The functions and responsibilities for the enforcement of the foregoing prohibitions are delegated as follows: (a) The Secretary of State is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by section 5 of the United Nations Participation Act \[of 1945\] \[22 U.S.C. 287c\] and other authorities available to the Secretary of State, as may be necessary to carry out the purpose of this order, relating to arms and related materiel of a type enumerated on the United States Munitions List (22 C.F.R. Part 121). The Secretary of State may redelegate any of these functions to other officers and agencies of the United States Government; and
 
 (b) The Secretary of Commerce, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by section 5 of the United Nations Participation Act \[of 1945\] and other authorities available to the Secretary of Commerce, as may be necessary to carry out the purpose of this order, relating to arms and related materiel identified in the Export Administration Regulations (15 C.F.R. Parts 730–799). The Secretary of Commerce may redelegate any of these functions to other officers and agencies of the United States Government.
 

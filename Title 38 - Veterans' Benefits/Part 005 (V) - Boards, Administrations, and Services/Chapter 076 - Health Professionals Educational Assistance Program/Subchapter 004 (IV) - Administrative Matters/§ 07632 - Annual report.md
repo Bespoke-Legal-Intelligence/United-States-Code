@@ -20,7 +20,7 @@ Not later than March 1 of each year, the Secretary shall submit to Congress a re
 
 #### Amendments
 
-<b>1998</b>—Par. (1). Pub. L. 105–368, §805(5)(A), substituted ", the Tuition Reimbursement Program, the EmployeeIncentive Scholarship Program, and the Education Debt Reduction Program" for "and the Tuition Reimbursement Program" and inserted "(if any)" after "number of students".
+<b>1998</b>—Par. (1). Pub. L. 105–368, §805(5)(A), substituted ", the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, and the Education Debt Reduction Program" for "and the Tuition Reimbursement Program" and inserted "(if any)" after "number of students".
 
 Par. (2). Pub. L. 105–368, §805(5)(B), inserted "(if any)" after "education institutions".
 

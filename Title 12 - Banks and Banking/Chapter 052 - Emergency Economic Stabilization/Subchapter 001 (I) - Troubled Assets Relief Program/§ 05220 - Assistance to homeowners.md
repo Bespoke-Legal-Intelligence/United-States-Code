@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the Corporation, with respect to residential mortgage loans and mortgage-backed securities held by any bridge depository institution pursuant to section 1821(n) of this title; and
 
-&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open marketoperations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
+&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
 
 &emsp;(2) the term "consumer" has the same meaning as in section 1602 of title 15;
 

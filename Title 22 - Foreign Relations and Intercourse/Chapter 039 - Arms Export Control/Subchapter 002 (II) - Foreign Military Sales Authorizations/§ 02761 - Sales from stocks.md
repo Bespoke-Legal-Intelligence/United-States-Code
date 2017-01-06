@@ -10,7 +10,7 @@
 
 &emsp;(C) in the case of the sale of a defense service, the full cost to the United States Government of furnishing such service, except that in the case of training sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347 et seq.\] or to any high-income foreign country (as described in that chapter), only those additional costs that are incurred by the United States Government in furnishing such assistance.
 
-(2) For purposes of subparagraph (A) of paragraph (1), the actual value of a naval vessel of3,000 tons or less and 20 years or more of age shall be considered to be not less than the greater of the scrap value or fair value (including conversion costs) of such vessel, as determined by the Secretary of Defense.
+(2) For purposes of subparagraph (A) of paragraph (1), the actual value of a naval vessel of 3,000 tons or less and 20 years or more of age shall be considered to be not less than the greater of the scrap value or fair value (including conversion costs) of such vessel, as determined by the Secretary of Defense.
 
 #### (b) Time of payment
 
@@ -178,7 +178,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec.29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, §208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, §208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993.)
 
 #### References in Text
 
@@ -238,7 +238,7 @@ Subsec. (j). Pub. L. 104–106, §112, struck out heading and text of subsec. (j
 
 "(4) This subsection applies with respect to funds received from sales occurring after September 30, 1989."
 
-Subsec. (k). Pub. L. 104–164, §104(b)(1), substituted "the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred." for "the President shall first consider theeffects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold."
+Subsec. (k). Pub. L. 104–164, §104(b)(1), substituted "the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred." for "the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold."
 
 Subsec. (l). Pub. L. 104–164, §152(a), added subsec. (l).
 
@@ -349,6 +349,22 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Delegation of Functions
 
 For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+
+#### International Sales Process Improvements
+
+Pub. L. 114–328, div. A, title XII, §1297, Dec. 23, 2016, 130 Stat. 2563, provided that:
+
+"(a)
+
+Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall develop a plan to improve the management and use of fees collected on transfer of defense articles and services via sale, lease, or grant to international customers under programs over which the Defense Security Cooperation Agency has administration responsibilities. The plan shall include options to use fees more effectively—
+
+&emsp;"(1) to improve the staffing and processes of the licensing review cycle at the Defense Technology Security Administration and other reviewing authorities; and
+
+&emsp;"(2) to maintain a cadre of contracting officers and acquisition officials who specialize in foreign military sales contracting.
+
+"(b)
+
+Process for Gathering Input.—The Secretary of Defense shall establish a process for contractors to provide input, feedback, and adjudication of any differences regarding the appropriateness of governmental pricing and availability estimates prior to the delivery to potential foreign customers of formal responses to Letters of Request for Pricing and Availability."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

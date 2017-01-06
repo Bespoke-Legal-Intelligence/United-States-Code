@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In order for a consortium of eligible institutions described in paragraph (2) to receiveassistance pursuant to such paragraph, such consortium shall operate joint projects that—
+&emsp;&emsp;In order for a consortium of eligible institutions described in paragraph (2) to receive assistance pursuant to such paragraph, such consortium shall operate joint projects that—
 
 &emsp;&emsp;&emsp;(i) provide services to all postsecondary institutions participating in the consortium; and
 

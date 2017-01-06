@@ -28,7 +28,7 @@ Functions.—In order to enable the Committee to make recommendations in its ann
 
 &emsp;(1) Review existing policies, procedures, and practices relating to the coordination and sharing of resources between the two Departments.
 
-&emsp;(2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership, including with respect to job training and post-service placement.
+&emsp;(2) Identify changes in policies, procedures, and practices that, in the judgment of theCommittee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership, including with respect to job training and post-service placement.
 
 &emsp;(3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgment of the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for benefits provided by either Department.
 

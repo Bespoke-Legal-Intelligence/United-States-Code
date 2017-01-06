@@ -10,7 +10,7 @@ Congress finds as follows:
 
 &emsp;(3) One of every 6 women, and 1 of every 133 men, in America has been the victim of a completed or attempted rape, according to the Department of Justice.
 
-&emsp;(4) The Federal Bureau of Investigation ranks rape second in the hierarchy of violentcrimes for its Uniform Crime Reports, trailing only murder.
+&emsp;(4) The Federal Bureau of Investigation ranks rape second in the hierarchy of violent crimes for its Uniform Crime Reports, trailing only murder.
 
 &emsp;(5) The Federal Government, through the Victims of Crime Act \[42 U.S.C. 10601 et seq.\], Violence Against Women Act, and other laws, has long played a role in providing services to sexual assault victims and in seeking policies to increase the number of rapists brought to justice.
 

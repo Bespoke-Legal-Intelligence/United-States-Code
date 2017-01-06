@@ -72,7 +72,7 @@ Availability and Purpose of Grants.—Using the funds made available under subse
 
 Grants Based on Value and Acreage.—Subject to subsection (c), for each State whose application for a grant for a fiscal year that \[sic\] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—
 
-&emsp;"(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, as demonstrated in the most recent Census of Agriculture data; bears to
+&emsp;"(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, asdemonstrated in the most recent Census of Agriculture data; bears to
 
 &emsp;"(2) the average of the most recent available value of specialty crop production in all States and the acreage of specialty crop production in all States, as demonstrated in the most recent Census of Agriculture data.
 

@@ -14,5 +14,5 @@ Historical and Revision Notes
 
 46:243
 
-Section 7104 requires an applicant for a certificate of registry as a medical doctor or professional nurse to have, as a prerequisite, a license as a medical doctor or registered nurse issued by a State.
+Section 7104 requires an applicant for a certificate of registry as a medical doctor or professional nurse tohave, as a prerequisite, a license as a medical doctor or registered nurse issued by a State.
 

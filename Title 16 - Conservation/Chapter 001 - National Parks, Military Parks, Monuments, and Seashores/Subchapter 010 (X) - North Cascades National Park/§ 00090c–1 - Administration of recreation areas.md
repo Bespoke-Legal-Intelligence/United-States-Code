@@ -6,11 +6,11 @@ The Secretary shall administer the recreation areas in a manner which in his jud
 
 #### (b) Lands withdrawn from location, entry, and patent under mining laws; removal of minerals
 
-The lands within the recreation areas, subject to valid existing rights, are hereby withdrawn from all forms of appropriation or disposal under the public land laws, including location, entry, and patent under the United States mining laws, and disposition under the United States mineral leasing laws: <i>Provided, however</i>, That within that portion of the Lake Chelan National Recreation Area which is not designated as wilderness, sand, rock and gravel may be made available for sale to the residents of Stehekin for local use so long as such sale and disposal does not have significant adverse effects on the administration of the Lake Chelan National Recreation Area.
+The lands within the recreation areas, subject to valid existing rights, are hereby withdrawnfrom all forms of appropriation or disposal under the public land laws, including location, entry, and patent under the United States mining laws, and disposition under the United States mineral leasing laws: <i>Provided, however</i>, That within that portion of the Lake Chelan National Recreation Area which is not designated as wilderness, sand, rock and gravel may be made available for sale to the residents of Stehekin for local use so long as such sale and disposal does not have significant adverse effects on the administration of the Lake Chelan National Recreation Area.
 
 #### (c) Receipts, disposition
 
-All receipts derived from permits and leases issued on lands or interests in lands within the recreation areas under the Mineral Leasing Act of February 25, 1920, as amended \[30 U.S.C. 181 et seq.\], or the Acquired Lands Mineral Leasing Act of August 7, 1947 \[30 U.S.C. 351 et seq.\], shall be disposed of as provided in the applicable Act; and receipts from the disposition of nonleasable minerals within the recreation areas shall bedisposed of in the same manner as moneys received from the sale of public lands.
+All receipts derived from permits and leases issued on lands or interests in lands within the recreation areas under the Mineral Leasing Act of February 25, 1920, as amended \[30 U.S.C. 181 et seq.\], or the Acquired Lands Mineral Leasing Act of August 7, 1947 \[30 U.S.C. 351 et seq.\], shall be disposed of as provided in the applicable Act; and receipts from the disposition of nonleasable minerals within the recreation areas shall be disposed of in the same manner as moneys received from the sale of public lands.
 
 #### (d) Hunting and fishing
 

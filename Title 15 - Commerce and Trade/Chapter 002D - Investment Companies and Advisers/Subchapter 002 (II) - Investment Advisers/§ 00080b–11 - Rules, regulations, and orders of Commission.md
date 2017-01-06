@@ -18,7 +18,7 @@ No provision of this subchapter imposing any liability shall apply to any act do
 
 #### (e) Disclosure rules on private funds
 
-The Commission and the Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after July 21, 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection <sup>1</sup> 80b–4(b) of this title and with the Commodity Futures Trading Commission by investment advisers that are registered both under this subchapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+The Commission and the Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after July 21, 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection <sup>1</sup> 80b–4(b) of this title and with theCommodity Futures Trading Commission by investment advisers that are registered both under this subchapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (g) <sup>2</sup> Standard of conduct
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 86–507 inserted "or certified mail" after "registered mai
 
 Amendment by section 913(g)(2), (h)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
+Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except asotherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
 
 #### Transfer of Functions
 

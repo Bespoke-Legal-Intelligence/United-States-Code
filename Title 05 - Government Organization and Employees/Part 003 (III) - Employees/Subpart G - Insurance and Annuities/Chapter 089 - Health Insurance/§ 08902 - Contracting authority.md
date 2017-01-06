@@ -16,7 +16,7 @@
 
 (f) A contract may not be made or a plan approved which excludes an individual because of race, sex, health status, or, at the time of the first opportunity to enroll, because of age.
 
-(g) A contract may not be made or a plan approved which does not offer to each employee, annuitant, family member, former spouse, or person having continued coverage under section8905a of this title whose enrollment in the plan is ended, except by a cancellation of enrollment, a temporary extension of coverage during which he may exercise the option to convert, without evidence of good health, to a nongroup contract providing health benefits. An employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title who exercises this option shall pay the full periodic charges of the nongroup contract.
+(g) A contract may not be made or a plan approved which does not offer to each employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title whose enrollment in the plan is ended, except by a cancellation of enrollment, a temporary extension of coverage during which he may exercise the option to convert, without evidence of good health, to a nongroup contract providing health benefits. An employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title who exercises this option shall pay the full periodic charges of the nongroup contract.
 
 (h) The benefits and coverage made available under subsection (g) of this section are noncancelable by the carrier except for fraud, over-insurance, or nonpayment of periodic charges.
 
@@ -54,7 +54,7 @@
 
 (o) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L.95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842.)
 
 Historical and Revision Notes
 
@@ -130,7 +130,7 @@ Subsecs. (j), (k). Pub. L. 98–615, §3(2)(B), substituted "family member, or f
 
 <b>1980</b>—Subsec. (m)(2)(A). Pub. L. 96–179 substituted "in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)" for "who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))".
 
-<b>1978</b>—Subsecs. (a), (c) to (e), (i), (j), (l). Pub. L. 95–454 substituted "Office of Personnel Management" for"Civil Service Commission" and "Office" for "Commission" wherever appearing.
+<b>1978</b>—Subsecs. (a), (c) to (e), (i), (j), (l). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
 Subsec. (m). Pub. L. 95–368 added subsec. (m).
 
@@ -216,7 +216,7 @@ Pub. L. 100–360, title IV, §422, July 1, 1988, 102 Stat. 810, which directed 
 
 #### Authority of Carrier To Contract for Comprehensive Medical Services From a Group Practice Unit or Organization
 
-Pub. L. 91–515, title IV, §401, Oct. 30, 1970, 84 Stat. 1309, authorized Secretary of Health, Education, and Welfare to permit any carrier which is a party to a contract entered into under this chapter or under the Retired Federal Employees Health Benefits Act, or which participates in carrying out of any such contract, to issue in any State contracts entitling any person as abeneficiary to receive comprehensive medical services from a group practice unit or organization with which such carrier has contracted or otherwise arranged for the provision of such services.
+Pub. L. 91–515, title IV, §401, Oct. 30, 1970, 84 Stat. 1309, authorized Secretary of Health, Education, and Welfare to permit any carrier which is a party to a contract entered into under this chapter or under the Retired Federal Employees Health Benefits Act, or which participates in carrying out of any such contract, to issue in any State contracts entitling any person as a beneficiary to receive comprehensive medical services from a group practice unit or organization with which such carrier has contracted or otherwise arranged for the provision of such services.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

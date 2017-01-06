@@ -80,7 +80,7 @@ July 9, 1964, Pub. L. 88–365, §14(a) (1st sentence), 78 Stat. 308; Sept. 8, 1
 
 49 App.:1601a (last sentence).
 
-In subsection (b)(1), the words "the predominant part" in 49 App.:1601(a)(1) and "lives in urban areas" in 49 App.:1601b(1) are omitted because of the restatement. The words "metropolitan and other" in 49 App.:1601(a)(1) are omitted as surplus.
+In subsection (b)(1), the words "the predominant part" in 49 App.:1601(a)(1) and "lives in urban areas" in49 App.:1601b(1) are omitted because of the restatement. The words "metropolitan and other" in 49 App.:1601(a)(1) are omitted as surplus.
 
 In subsection (b)(2), the words "housing, urban renewal, highway, and other", "being", "the . . . provision of", and "transportation and other" in 49 App.:1601(a)(2) are omitted as surplus.
 
@@ -88,7 +88,7 @@ In subsection (b)(4), the words "the early 1970's" are substituted for "recent y
 
 In subsection (b)(5), the word "particularly" in 49 App.:1601b(5) is omitted as surplus.
 
-In subsection (b)(6), the words "were . . . in the early 1970's" are substituted for "now" in 49 App.:1601b(6) forclarity. The words "engaged in", "actually", and "comprehensive" in 49 App.:1601b(6) are omitted as surplus.
+In subsection (b)(6), the words "were . . . in the early 1970's" are substituted for "now" in 49 App.:1601b(6) for clarity. The words "engaged in", "actually", and "comprehensive" in 49 App.:1601b(6) are omitted as surplus.
 
 In subsection (b)(9), the word "many" in 49 App.:1601(b)(7) is omitted as surplus.
 

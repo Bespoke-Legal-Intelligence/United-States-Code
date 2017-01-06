@@ -72,7 +72,7 @@ Pub. L. 93–498, §1, Oct. 29, 1974, 88 Stat. 1535, provided: "That this Act \[
 
 #### Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the resultsof the study to Congress within 18 months of Oct. 30, 2000.
+Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
 
 #### Local Firefighter and Emergency Services Training
 
@@ -188,7 +188,7 @@ The Director may establish bureaus, offices, divisions, and other units within t
 
 #### Sec. 201. Fire Prevention
 
-There are hereby transferred to the Director all functions vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration, and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended, (15 U.S.C. 2201 through 2219); exclusive of the functions set forth at Sections 18 and 23 of the Federal Fire Prevention and Control Act (15 U.S.C. 278(f) and 1511).
+There are hereby transferred to the Director all functions vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration, and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Preventionand Control Act of 1974, as amended, (15 U.S.C. 2201 through 2219); exclusive of the functions set forth at Sections 18 and 23 of the Federal Fire Prevention and Control Act (15 U.S.C. 278(f) and 1511).
 
 #### Sec. 202. Flood and Other Matters
 
@@ -252,7 +252,7 @@ Several additional transfers of emergency preparedness and mitigation functions 
 
 This reorganization rests on several fundamental principles:
 
-<i>First, Federal authorities to anticipate, prepare for, and respond to major civil emergencies should be supervised by one official responsible to the President and given attention by other officials at the highest levels.</i>
+<i>First, Federal authorities to anticipate, prepare for, and respond to major civil emergencies should be supervised by</i><i>one official responsible to the President and given attention by other officials at the highest levels.</i>
 
 The new Agency would be in this position. To increase White House oversight and involvement still further, I shall establish by Executive Order an Emergency Management Committee, to be chaired by the Federal Emergency Management Agency Director. Its membership shall be comprised of the Assistants to the President for National Security, Domestic Affairs and Policy and Intergovernmental Relations, and the Director, Office of Management and Budget. It will advise the President on ways to meet national civil emergencies. It will also oversee and provide guidance on the management of all Federal emergency authorities, advising the President on alternative approaches to improve performance and avoid excessive costs.
 
@@ -294,7 +294,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 (b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telecommunications\]. (Section 203 of the Plan.)
 
-1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (\[formerly\] 12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 \[formerly\] at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
+1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the NationalHousing Act, as amended (\[formerly\] 12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 \[formerly\] at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
 
 1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telecommunications\]. (Section 203 of the Plan.)
 

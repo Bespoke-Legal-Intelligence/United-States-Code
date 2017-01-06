@@ -106,7 +106,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (5) Waiver by Secretary
 
-&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive relative to the failure involved.
+&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, theSecretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive relative to the failure involved.
 
 #### (d) Tax not to apply to certain plans
 
@@ -188,7 +188,7 @@ This section shall not apply to—
 
 #### (V) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respectto a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974, notwithstanding subclause (I) or (II), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (VI) Special rule for TAA-eligible individuals
 
@@ -230,7 +230,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(ii) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
+> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to "102 percent" isdeemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
 
 #### (D) No requirement of insurability
 
@@ -238,7 +238,7 @@ This section shall not apply to—
 
 #### (E) Conversion option
 
-&emsp;&emsp;In the case of a qualified beneficiary whose period of continuation coverage expiresunder subparagraph (B)(i), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under subparagraph (B)(i), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 #### (3) Qualifying event
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 #### (B) Effect of election on other beneficiaries
 
-&emsp;&emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of subsection (g)(1) shall be deemed to include an election of continuation coverage on behalf of any other qualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
+&emsp;&emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of subsection (g)(1) shall be deemed to include an election of continuation coverage on behalf of any otherqualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
 
 #### (C) Temporary extension of COBRA election period for certain individuals
 
@@ -374,11 +374,11 @@ This section shall not apply to—
 
 > &emsp;&emsp;of such beneficiary's rights under this subsection.
 
-> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of thecovered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 #### (7) Covered employee
 
-&emsp;For purposes of this subsection, the term "covered employee" means an individual who is (or was) provided coverage under a group health plan by virtue of the performance ofservices by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1)).
+&emsp;For purposes of this subsection, the term "covered employee" means an individual who is (or was) provided coverage under a group health plan by virtue of the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1)).
 
 #### (8) Optional extension of required periods
 
@@ -446,7 +446,7 @@ For purposes of this section—
 
 The Public Health Service Act, referred to in subsec. (f)(1), does not contain a section 2162. The reference probably should be to section 1928 of the Social Security Act, which is classified to section 1396s of Title 42, The Public Health and Welfare, and which relates to pediatric vaccines.
 
-The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 ofTitle 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -574,7 +574,7 @@ Section applicable to taxable years beginning after Dec. 31, 1988, but not appli
 
 #### Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurancecoverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
 
 #### Notification of Changes in Continuation Coverage
 

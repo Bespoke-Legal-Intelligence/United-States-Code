@@ -22,7 +22,7 @@
 
 (k) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 89–141, §1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, §320101(e), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(D), Oct. 11, 1996, 110 Stat. 3507.)
+(Added Pub. L. 89–141, §1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, §320101(e), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150;Pub. L. 104–294, title VI, §604(b)(12)(D), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Amendments
 

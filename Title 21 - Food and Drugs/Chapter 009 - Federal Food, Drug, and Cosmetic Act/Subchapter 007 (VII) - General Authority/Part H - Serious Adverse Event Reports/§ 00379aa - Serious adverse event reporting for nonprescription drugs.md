@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) a congenital anomaly or birth defect; or
 
-&emsp;&emsp;(B) requires, based on reasonable medical judgment, a medical or surgical intervention to prevent an outcome described under subparagraph (A).
+&emsp;&emsp;(B) requires, based on reasonable medical judgment, a medical or surgical interventionto prevent an outcome described under subparagraph (A).
 
 #### (4) Serious adverse event report
 
@@ -120,7 +120,7 @@ The submission of any adverse event report in compliance with this section shall
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall affect the authority of the Secretary to provide adverse event reports and information to any health, food, or drug officer or employee of any State, territory, or political subdivision of a State or territory, under a memorandum of understanding between the Secretary and such State, territory, or political subdivision.
+&emsp;&emsp;Nothing in this section shall affect the authority of the Secretary to provide adverseevent reports and information to any health, food, or drug officer or employee of any State, territory, or political subdivision of a State or territory, under a memorandum of understanding between the Secretary and such State, territory, or political subdivision.
 
 #### (B) Personally-identifiable information
 

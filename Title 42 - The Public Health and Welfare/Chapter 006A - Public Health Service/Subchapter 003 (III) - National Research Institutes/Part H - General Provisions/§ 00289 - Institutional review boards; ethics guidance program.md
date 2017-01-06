@@ -1,12 +1,84 @@
 ### §289. Institutional review boards; ethics guidance program
 
-(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research involving human subjects submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to theSecretary that it has established (in accordance with regulations which the Secretary shall prescribe) a board (to be known as an "Institutional Review Board") to review biomedical and behavioral research involving human subjects conducted at or supported by such entity in order to protect the rights of the human subjects of such research.
+(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research involving human subjects submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that it has established (in accordance with regulations which the Secretary shall prescribe) a board (to be known as an "Institutional Review Board") to review biomedical and behavioral research involving human subjects conducted at or supported by such entity in order to protect the rights of the human subjects of such research.
 
 (b)(1) The Secretary shall establish a program within the Department of Health and Human Services under which requests for clarification and guidance with respect to ethical issues raised in connection with biomedical or behavioral research involving human subjects are responded to promptly and appropriately.
 
 (2) The Secretary shall establish a process for the prompt and appropriate response to information provided to the Director of NIH respecting incidences of violations of the rights of human subjects of research for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such violations.
 
 (July 1, 1944, ch. 373, title IV, §491, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 873.)
+
+#### Protection of Human Research Subjects
+
+Pub. L. 114–255, div. A, title III, §3023, Dec. 13, 2016, 130 Stat. 1098, provided that:
+
+"(a)
+
+In General.—In order to simplify and facilitate compliance by researchers with applicable regulations for the protection of human subjects in research, the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall, to the extent practicable and consistent with other statutory provisions, harmonize differences between the HHS Human Subject Regulations and the FDA Human Subject Regulations in accordance with subsection (b).
+
+"(b)
+
+Avoiding Regulatory Duplication and Unnecessary Delays.—The Secretary shall, as appropriate—
+
+&emsp;"(1) make such modifications to the provisions of the HHS Human Subject Regulations, the FDA Human Subject Regulations, and the vulnerable populations rules as may be necessary—
+
+&emsp;&emsp;"(A) to reduce regulatory duplication and unnecessary delays;
+
+&emsp;&emsp;"(B) to modernize such provisions in the context of multisite and cooperative research projects; and
+
+&emsp;&emsp;"(C) to protect vulnerable populations, incorporate local considerations, and support community engagement through mechanisms such as consultation with local researchers and human research protection programs, in a manner consistent with subparagraph (B); and
+
+&emsp;"(2) ensure that human subject research that is subject to the HHS Human Subject Regulations and to the FDA Human Subject Regulations may—
+
+&emsp;&emsp;"(A) use joint or shared review;
+
+&emsp;&emsp;"(B) rely upon the review of—
+
+&emsp;&emsp;&emsp;"(i) an independent institutional review board; or
+
+&emsp;&emsp;&emsp;"(ii) an institutional review board of an entity other than the sponsor of the research; or
+
+&emsp;&emsp;"(C) use similar arrangements to avoid duplication of effort.
+
+"(c)
+
+Consultation.—In harmonizing or modifying regulations or guidance under this section, the Secretary shall consult with stakeholders (including researchers, academic organizations, hospitals, institutional research boards, pharmaceutical, biotechnology, and medical device developers, clinical research organizations, patient groups, and others).
+
+"(d)
+
+Timing.—The Secretary shall complete the harmonization described in subsection (a) not later than 3 years after the date of enactment of this Act \[Dec. 13, 2016\].
+
+"(e)
+
+Progress Report.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report on the progress made toward completing such harmonization.
+
+"(f)
+
+Definitions.—
+
+&emsp;"(1)
+
+Human subject regulations.—In this section:
+
+&emsp;&emsp;"(A)
+
+FDA human subject regulations.—The term 'FDA Human Subject Regulations' means the provisions of parts 50, 56, 312, and 812 of title 21, Code of Federal Regulations (or any successor regulations).
+
+&emsp;&emsp;"(B)
+
+HHS human subject regulations.—The term 'HHS Human Subject Regulations' means the provisions of subpart A of part 46 of title 45, Code of Federal Regulations (or any successor regulations).
+
+&emsp;&emsp;"(C)
+
+Vulnerable population rules.—The term 'vulnerable population rules' means—
+
+&emsp;&emsp;&emsp;"(i) except in the case of research described in clause (ii), the provisions of subparts B through D of part 46, Code of Federal Regulations (or any successor regulations); and
+
+&emsp;&emsp;&emsp;"(ii) in the case of research that is subject to FDA Human Subject Regulations, the provisions applicable to vulnerable populations under part 56 of title 21, Code of Federal Regulations (or any successor regulations) and subpart D of part 50 of such title 21 (or any successor regulations).
+
+&emsp;"(2)
+
+Institutional review board defined.—In this section, the term 'institutional review board' has the meaning that applies to the term 'institutional review board' under the HHS Human Subject Regulations."
 
 #### Informed Consent for Newborn Screening Research
 

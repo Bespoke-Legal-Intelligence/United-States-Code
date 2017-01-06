@@ -4,9 +4,9 @@
 
 In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
 
-&emsp;(1) 30 percent of the qualified solar electric property expenditures made by the taxpayer during such year,
+&emsp;(1) the applicable percentage of the qualified solar electric property expenditures made by the taxpayer during such year,
 
-&emsp;(2) 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year,
+&emsp;(2) the applicable percentage of the qualified solar water heating property expenditures made by the taxpayer during such year,
 
 &emsp;(3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
 
@@ -130,35 +130,21 @@ For purposes of this section—
 
 For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
-#### (g) Termination
+#### (g) Applicable percentage
 
-The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
+For purposes of paragraphs (1) and (2) of subsection (a), the applicable percentage shall be—
+
+&emsp;(1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
+
+&emsp;(2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and
+
+&emsp;(3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.
+
+#### (h) Termination
+
+The credit allowed under this section shall not apply to property placed in service after December 31, 2016 (December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures).
 
 (Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039.)
-
-#### Amendment of Section
-
-<i>Pub. L. 114–113, div. P, title III, §304, Dec. 18, 2015, 129 Stat. 3039, provided that, effective Jan. 1, 2017, this section is amended as follows:</i>
-
-<i>(1) in paragraphs (1) and (2) of subsection (a), by striking "30 percent" each place it appears and inserting "the applicable percentage";</i>
-
-<i>(2) in subsection (g), by inserting "(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)" before the period at the end;</i>
-
-<i>(3) by redesignating subsection (g) as subsection (h); and</i>
-
-<i>(4) by inserting after subsection (f) the following new subsection:</i>
-
-#### <i>(g) Applicable percentage</i>
-
-<i>For purposes of paragraphs (1) and (2) of subsection (a), the applicable percentage shall be—</i>
-
-&emsp;<i>(1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,</i>
-
-&emsp;<i>(2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and</i>
-
-&emsp;<i>(3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.</i>
-
-<i>See 2015 Amendment notes below.</i>
 
 #### Amendments
 
@@ -226,7 +212,7 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. P, title III, §304(b), Dec. 18, 2015, 129 Stat. 3040, provided that: "The amendments madeby this section \[amending this section\] shall take effect on January 1, 2017."
+Pub. L. 114–113, div. P, title III, §304(b), Dec. 18, 2015, 129 Stat. 3040, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2017."
 
 #### Effective Date of 2013 Amendment
 
@@ -236,7 +222,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1103(b)(2)(B) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1103(c)(2) of Pub. L. 111–5, set out as a note under section 25C of this title.
 
-Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 2008 Amendment
 

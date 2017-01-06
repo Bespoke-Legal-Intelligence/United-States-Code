@@ -50,7 +50,7 @@ The coordinator designated under subsection (a) shall have the rank and status o
 
 #### (2) International financial institutions
 
-&emsp;The coordinator designated under subsection (a), under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in section 262r(c)(2) of thistitle) to coordinate United States assistance for Afghanistan with international financial institutions.
+&emsp;The coordinator designated under subsection (a), under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in section 262r(c)(2) of this title) to coordinate United States assistance for Afghanistan with international financial institutions.
 
 (Pub. L. 107–327, title I, §104, Dec. 4, 2002, 116 Stat. 2804; Pub. L. 108–458, title VII, §7104(c)(2), (d), Dec. 17, 2004, 118 Stat. 3781.)
 

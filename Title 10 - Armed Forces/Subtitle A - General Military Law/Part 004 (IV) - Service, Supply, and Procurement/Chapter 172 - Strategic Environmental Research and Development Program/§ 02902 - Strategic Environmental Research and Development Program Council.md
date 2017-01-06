@@ -70,7 +70,7 @@
 
 &emsp;(5) provide for the identification and support of research, development, and application of other technologies developed for national defense purposes which not only are directly useful for programs, projects, and activities of such departments, but also have useful applications for solutions to such national and international environmental problems as climate change and ozone depletion;
 
-&emsp;(6) provide for the Secretary of Defense, the Secretary of Energy, and the Administrator ofthe Environmental Protection Agency, in cooperation with other Federal and State agencies, as appropriate, to conduct joint research, development, and demonstration projects relating to innovative technologies, management practices, and other approaches for purposes of—
+&emsp;(6) provide for the Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency, in cooperation with other Federal and State agencies, as appropriate, to conduct joint research, development, and demonstration projects relating to innovative technologies, management practices, and other approaches for purposes of—
 
 &emsp;&emsp;(A) preventing pollution from all sources;
 
@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 104–106, §203(b)(2)(A), struck out subsec. (h) which req
 
 <b>1993</b>—Subsec. (b)(1) to (4). Pub. L. 103–160, §265(a)(1)–(3), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1) which read as follows: "The Assistant Secretary of Defense responsible for matters relating to production and logistics."
 
-Subsec. (b)(6). Pub. L. 103–160, §265(a)(4), added par. (6) and struck out former par. (6) which read as follows:"The Director of the Department of Energy Office of Environmental Restoration and Waste Management."
+Subsec. (b)(6). Pub. L. 103–160, §265(a)(4), added par. (6) and struck out former par. (6) which read as follows: "The Director of the Department of Energy Office of Environmental Restoration and Waste Management."
 
 <b>1992</b>—Subsec. (b)(9). Pub. L. 102–484 substituted "nonvoting" for "non-voting".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Matters Affecting National Security.—The Secretary of Transportation shall consult with the Secretary of Defense on a matter under this chapter affecting national security. The Secretary of Defense shall identify and notify the Secretary of Transportation of a national security interest relevant to an activity under this chapter.
+Matters Affecting National Security.—The Secretary of Transportation shall consult with the Secretary of Defense on a matter under this chapter affecting national security. TheSecretary of Defense shall identify and notify the Secretary of Transportation of a national security interest relevant to an activity under this chapter.
 
 (b)
 
@@ -18,7 +18,7 @@ Other Matters.—In carrying out this chapter, the Secretary of Transportation s
 
 &emsp;(3) when appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918 of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
 
 Historical and Revision Notes
 

@@ -26,7 +26,7 @@
 
 #### (d) Definitions
 
-For the purposes of this section, the terms "navigable" and "navigability" means navigable for the purpose of determining title to lands beneath navigable waters, as between the United States and the several States pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\] and section 6(m) of the Alaska Statehood Act.
+For the purposes of this section, the terms "navigable" and "navigability" means navigable for the purpose of determining title tolands beneath navigable waters, as between the United States and the several States pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\] and section 6(m) of the Alaska Statehood Act.
 
 (Pub. L. 96–487, title IX, §901, Dec. 2, 1980, 94 Stat. 2430; Pub. L. 99–258, Mar. 19, 1986, 100 Stat. 42; Pub. L. 99–644, Nov. 10, 1986, 100 Stat. 3581; Pub. L. 100–395, title I, §101, Aug. 16, 1988, 102 Stat. 979.)
 
@@ -66,5 +66,5 @@ Pub. L. 100–395, title I, §103, Aug. 16, 1988, 102 Stat. 980, directed Secret
 
 #### Definitions
 
-For definition of the terms "land", "Federal land", "public lands", "conservation system unit", "AlaskaNative Claims Settlement Act", "Native Corporation", "Regional Corporation", "Village Corporation", "Urban Corporation", "Native Group", "Native land", "Secretary", "wilderness" and "National Wilderness Preservation System", "Alaska Statehood Act", "State", "Alaska Native" or "Native", "fish and wildlife", and "take" or "taking" as used in this chapter, including sections 1639 to 1641 of this title, as having the same meaning as they have in the Alaska Native Claims Settlement Act, section 1601 et seq. of this title, and the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, see section 3102 of Title 16, Conservation.
+For definition of the terms "land", "Federal land", "public lands", "conservation system unit", "Alaska Native Claims Settlement Act", "Native Corporation", "Regional Corporation", "Village Corporation", "Urban Corporation", "Native Group", "Native land", "Secretary", "wilderness" and "National Wilderness Preservation System", "Alaska Statehood Act", "State", "Alaska Native" or "Native", "fish and wildlife", and "take" or "taking" as used in this chapter, including sections 1639 to 1641 of this title, as having the same meaning as they have in the Alaska Native Claims Settlement Act, section 1601 et seq. of this title, and the Alaska Statehood Act, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, see section 3102 of Title 16, Conservation.
 

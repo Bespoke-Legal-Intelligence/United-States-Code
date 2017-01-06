@@ -12,7 +12,7 @@
 
 #### (3) Information sharing
 
-&emsp;The Secretary of State shall, on a regular basis, provide information relating to child labor and forced labor in the production of goods in violation of international standards to the Department of Labor to be used in developing the list described in subsection (b)(2)(C).
+&emsp;The Secretary of State shall, on a regular basis, provide information relating to child labor and forced labor in the production of goods in violation of international standardsto the Department of Labor to be used in developing the list described in subsection (b)(2)(C).
 
 #### (b) Activities of the Department of Labor
 
@@ -118,7 +118,7 @@ Membership.—The Consultative Group shall be composed of not more than 13 indiv
 
 &emsp;"(6) 1 member shall represent an organization that provides independent, third-party certification services for labor standards for producers or importers of agricultural commodities or products; and
 
-&emsp;"(7) 3 members shall represent organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] that have expertise on the issues of international child labor and do not possess a conflict of interest associated with establishment of the guidelines issued under subsection (c)(2),as determined by the Bureau of International Labor Affairs of the Department of Labor, including representatives from consumer organizations and trade unions, if appropriate.
+&emsp;"(7) 3 members shall represent organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] that have expertise on the issues of international child labor and do not possess a conflict of interest associated with establishment of the guidelines issued under subsection (c)(2), as determined by the Bureau of International Labor Affairs of the Department of Labor, including representatives from consumer organizations and trade unions, if appropriate.
 
 "(e)
 

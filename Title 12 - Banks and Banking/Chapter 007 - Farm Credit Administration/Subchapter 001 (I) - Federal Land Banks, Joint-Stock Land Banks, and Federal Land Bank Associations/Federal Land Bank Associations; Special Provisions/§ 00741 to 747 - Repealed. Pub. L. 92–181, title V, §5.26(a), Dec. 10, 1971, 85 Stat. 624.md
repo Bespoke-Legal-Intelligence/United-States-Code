@@ -10,7 +10,7 @@ Section 744, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Aug. 18, 1
 
 Section 744a, acts June 16, 1933, ch. 98, title VII, §72, 48 Stat. 271; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, relieved shareholders of land bank associations of personal liability for contracts, debts, and engagements entered into after June 16, 1933.
 
-Section 745, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; June 3, 1935, ch. 164, 20, 49 Stat. 319; Aug. 19, 1937, ch. 704, §24, 50 Stat. 710; June 30, 1945, ch. 204, §1(b), 59 Stat. 266; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), (i), 73 Stat. 387, provided for new members for land bank associations. See section 2033 of this title.
+Section 745, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; June 3, 1935, ch. 164, 20, 49 Stat. 319; Aug. 19, 1937, ch. 704, §24, 50 Stat. 710; June 30, 1945, ch. 204,§1(b), 59 Stat. 266; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), (i), 73 Stat. 387, provided for new members for land bank associations. See section 2033 of this title.
 
 Section 746, act July 17, 1916, ch. 245, title I, §9 (par.) as added Aug. 19, 1937, ch. 704, §25(a), 50 Stat. 710; amended Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for a common board of directors for two or more associations. See section 2032 of this title.
 

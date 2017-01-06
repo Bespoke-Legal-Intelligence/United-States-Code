@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (3) Local governmental entity
 
@@ -86,7 +86,7 @@ The Secretary shall establish a program, to be known as the "community forest an
 
 #### (A) Ineligibility
 
-&emsp;&emsp;The Secretary shall not provide a grant under the Program for any project on landheld in trust by the United States (including Indian reservations and allotment land).
+&emsp;&emsp;The Secretary shall not provide a grant under the Program for any project on land held in trust by the United States (including Indian reservations and allotment land).
 
 #### (B) Acquired land
 

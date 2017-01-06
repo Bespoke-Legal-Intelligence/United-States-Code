@@ -28,15 +28,15 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 #### (c) Requirements of United States assistance through institutions for projects in recipient countries
 
-The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
+The United States Government, in connection with its voice and vote in the institutions listed in subsection (a), shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
 
 #### (d) Criteria for determination of gross violations of internationally recognized human rights standards
 
-In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a) of this section, the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
+In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a), the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
 
 #### (e) Opposition by United States Executive Directors of institutions to financial or technical assistance to violating countries
 
-The United States Executive Directors of the institutions listed in subsection (a) of this section are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
+The United States Executive Directors of the institutions listed in subsection (a) are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2), unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
 
 #### (f) Consultative requirement
 
@@ -44,7 +44,7 @@ The Secretary of the Treasury or his delegate shall consult frequently and in a 
 
 #### (g) Violations of religious freedom
 
-In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a) of this section, the President shall give particular consideration to whether a foreign government—
+In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a), the President shall give particular consideration to whether a foreign government—
 
 &emsp;(1) has engaged in or tolerated particularly severe violations of religious freedom, as defined in section 6402 of this title; or
 
@@ -70,7 +70,7 @@ Subsec. (b)(4). Pub. L. 102–511, §1008(b), inserted "Russia and the other ind
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–240, §541(c), amended subsec. (c) generally, substituting provisions relating to quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
 
-Subsec. (d). Pub. L. 101–240, §541(e)(8), struck out at end "The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs."
+Subsec. (d). Pub. L. 101–240, §541(e)(8), struck out at end "The annual report required under subsection (c) shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs."
 
 Subsec. (g)(1). Pub. L. 101–240, §541(d)(4), struck out par. (1) which related to quarterly reporting requirements by Secretary of the Treasury in consultation with Secretary of State.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–240, title VIII, §801, Dec. 19, 1989, 103 Stat. 2524, provided that: "Except as otherwise provided in this Act, this Act and the amendments made by this Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending this section, sections 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title, and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under sections 283z–6, 2151, and 2291 of this title and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262l of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–240, title VIII, §801, Dec. 19, 1989, 103 Stat. 2524, provided that: "Except as otherwise provided in this Act, this Act and the amendments made by this Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk,and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending this section, sections 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title, and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under sections 283z–6, 2151, and 2291 of this title and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262l of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 #### Effective Date of 1981 Amendment
 

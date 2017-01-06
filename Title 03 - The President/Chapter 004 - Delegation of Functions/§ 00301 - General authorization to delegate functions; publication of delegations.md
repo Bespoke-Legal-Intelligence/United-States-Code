@@ -6,7 +6,7 @@ The President of the United States is authorized to designate and empower the he
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget. See Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget. See Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Similar Provisions; Repeal; Saving Clause
 
@@ -46,7 +46,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (n) The authority vested in the President by section 3(b) of the act of March 3, 1925, ch. 426, 43 Stat. 1111, as amended \[see 50 U.S.C. 167d\], to approve regulations governing the production and sale of helium for medical, scientific, and commercial use.
 
-(o) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor ofthe Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
+(o) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor of the Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
 
 (p) The authority vested in the President by section 28 of the act of April 26, 1906, ch. 1876, 34 Stat. 148, to approve acts, ordinances, or resolutions of the tribal council or legislature of the Choctaw, Chickasaw, Cherokee, Creek, and Seminole tribes or nations, and to approve contracts, involving the payment or expenditure of money or affecting property belonging to any of the said tribes or nations, made by them or any of them or by any officer thereof.
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (a) The authority vested in the Secretary of the Interior by section 1 of the act of June 6, 1942, ch. 380, 56 Stat. 326 \[16 U.S.C. 459r\], to convey or lease to the States or to the political subdivisions thereof any or all of certain recreational demonstration projects and lands and equipment comprised within such projects or any parts of such projects; and to transfer to other Federal agencies any of the said recreational demonstration areas that may be of use to such agencies.
 
-(b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40 Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
+(b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
 
 3\. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
@@ -92,7 +92,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 2\. The Secretary of the Treasury is hereby designated and empowered to perform without the approval, ratification, or other action of the President the following functions which have heretofore, under the respective provisions of law cited, required the approval of the President in connection with their performance by the Secretary of the Treasury:
 
-(a) The authority vested in the Secretary of the Treasury by section 6 of the act of July 8, 1937, ch. 444, 50 Stat. 480 \[now 40 U.S.C. 17309\], to make rules and regulations necessary for the execution of the functions vested in the Secretary of the Treasury by the said act, as amended.
+(a) The authority vested in the Secretary of the Treasury by section 6 of the act of July 8, 1937, ch. 444, 50 Stat. 480 \[now 40 U.S.C. 17309\], to make rules and regulations necessary for the execution of the functionsvested in the Secretary of the Treasury by the said act, as amended.
 
 (b), (c) \[Revoked by Ex. Ord. No. 11110, June 4, 1963, 28 F.R. 5605.\]
 
@@ -140,7 +140,7 @@ Sec. 6. The Attorney General and the Archivist of the United States are hereby d
 
 (a) The authority vested in the President by section 5(a) of the act of July 26, 1935, ch. 417, 49 Stat. 501, as amended (44 U.S.C. 1505(a)), to determine from time to time the documents or classes of documents having general applicability and legal effect.
 
-(b) The authority vested in the President by sections 6, 11(a), and 11(f) of said act, as amended (44 U.S.C. 1506;1510(a) and 1510(f)), to approve (or disapprove), respectively, (1) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of that act (including the regulations referred to in section 5(b) of the act (44 U.S.C. 1505(b)), authorizing publication in the Federal Register of certain documents or classes of documents), (2) actions of the Administrative Committee of the Federal Register requiring, from time to time, the preparation and publication in special or supplemental editions of the Federal Register of complete codifications of the documents, described in the said section 11(a) (44 U.S.C. 1510(a)), of each agency of the Government, and (3) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of section 11 (44 U.S.C. 1510) of the said act, as amended.
+(b) The authority vested in the President by sections 6, 11(a), and 11(f) of said act, as amended (44 U.S.C. 1506; 1510(a) and 1510(f)), to approve (or disapprove), respectively, (1) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of that act (including the regulations referred to in section 5(b) of the act (44 U.S.C. 1505(b)), authorizing publication in the Federal Register of certain documents or classes of documents), (2) actions of the Administrative Committee of the Federal Register requiring, from time to time, the preparation and publication in special or supplemental editions of the Federal Register of complete codifications of the documents, described in the said section 11(a) (44 U.S.C. 1510(a)), of each agency of the Government, and (3) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of section 11 (44 U.S.C. 1510) of the said act, as amended.
 
 #### Part VI
 
@@ -152,7 +152,7 @@ Sec. 8. As used in this order, the term "functions" embraces duties, powers, res
 
 #### Ex. Ord. No. 10621. Delegation of Functions to Secretary of Defense
 
-Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, as amended by Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601; Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897; Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
+Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, as amended by Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601; Ex.Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897; Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
 
 Section 1. The Secretary of Defense, and, as designated by the said Secretary for this purpose, any of the Secretaries, Under Secretaries, and Assistant Secretaries of the military departments, are hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
@@ -162,7 +162,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (c) The authority vested in the President by the act of May 22, 1928, ch. 688, 45 Stat. 712 \[10 U.S.C. 6152\], to approve regulations governing the advancement of public funds to naval personnel when required to meet expenses of officers and men detailed on emergency shore duty.
 
-(d) The authority vested in the President by the act of June 22, 1938, ch. 567, 52 Stat. 839, as amended \[10 U.S.C. 5083, 5133, 5148, 5201\], section 201(a) of the act of August 25, 1941, ch. 409, 55 Stat. 680 \[10 U.S.C. 5063, 5064\], section 3 of the act of December 28, 1945, ch. 604, 59 Stat. 666, as amended \[10 U.S.C. 5138\], section 2 of the act of August 1, 1946, ch. 727, 60 Stat. 779 \[10 U.S.C. 5150\], and section 7(a) of the act of March 5, 1948, ch. 98, 62 Stat. 68 \[see Department of Defense Reorganization Order set out as a note under 10 U.S.C. 5111\], to authorize, in his discretion, for any officer of the Regular Navy or Marine Corps who retires while serving as Chief of Naval Operations, as Chief of a Bureau of the Navy Department, as Judge Advocate General of the Navy, as Commandant of the Marine Corps, as Director of Budgets and Reports, as Chief of the Dental Division, as Chief of Naval Research, or as Chief of Naval Material, or while serving in a lower rank if he has previously served in any of such offices two and one-half years or more, retirement in the highest grade or rank in which he so served and with retired pay based on that rank.
+(d) The authority vested in the President by the act of June 22, 1938, ch. 567, 52 Stat. 839, as amended \[10 U.S.C. 5083, 5148, 5201, former 10 U.S.C. 5133\], section 201(a) of the act of August 25, 1941, ch. 409, 55 Stat. 680 \[10 U.S.C. 5063, 5064\], section 3 of the act of December 28, 1945, ch. 604, 59 Stat. 666, as amended \[10 U.S.C. 5138\], section 2 of the act of August 1, 1946, ch. 727, 60 Stat. 779 \[10 U.S.C. 5150\], and section 7(a) of the act of March 5, 1948, ch. 98, 62 Stat. 68 \[see Department of Defense Reorganization Order set out as a note under 10 U.S.C. 5111\], to authorize, in his discretion, for any officer of the Regular Navy or Marine Corps who retires while serving as Chief of Naval Operations, as Chief of a Bureau of the Navy Department, as Judge Advocate General of the Navy, as Commandant of the Marine Corps, as Director of Budgets and Reports, as Chief of the Dental Division, as Chief of Naval Research, or as Chief of Naval Material, or while serving in a lower rank if he has previously served in any of such offices two and one-half years or more, retirement in the highest grade or rank in which he so served and with retired pay based on that rank.
 
 (e) The authority vested in the President by the act of June 15, 1940, ch. 374, 54 Stat. 400, to prescribe from time to time the number of warrant and commissioned warrant officers for the Marine Corps.
 
@@ -190,7 +190,7 @@ Section 1. The Secretary of Homeland Security is hereby designated and empowered
 
 (a) The authority vested in the President by section 149 of title 14 of the United States Code, in his discretion, to detail officers and enlisted men of the Coast Guard to assist foreign governments in matters concerning which the Coast Guard may be of assistance.
 
-(b) The authority vested in the President by section 229 of title 14 of the United States Code \[see 14 U.S.C.281 et seq.\], to revoke the commission of any officer on the active list of the Coast Guard who, at the date of such revocation, has had less than three years of continuous service as a commissioned officer in the Coast Guard, and to prescribe regulations relating to such revocations.
+(b) The authority vested in the President by section 229 of title 14 of the United States Code \[see 14 U.S.C. 281 et seq.\], to revoke the commission of any officer on the active list of the Coast Guard who, at the date of such revocation, has had less than three years of continuous service as a commissioned officer in the Coast Guard, and to prescribe regulations relating to such revocations.
 
 (c) The authority vested in the President by section 232 of title 14 of the United States Code \[see 14 U.S.C. 291\], in his discretion, to retire from active service any commissioned officer of the Coast Guard, upon his own application, who has completed twenty years of active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve Components thereof.
 
@@ -250,15 +250,15 @@ Sec. 5. Whenever the entire Coast Guard operates as a service in the Navy, the r
 
 Ex. Ord. No. 10661, Feb. 27, 1956, 21 F.R. 1315, provided:
 
-Section 1. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose, the Secretary of the Army are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the first section of the act of June 26, 1946, ch. 493, 60 Stat. 311, as amended \[10 U.S.C. 4344, 9344\], to designate persons from the American Republics (other than the United States) and Canada who may be permitted to receive instruction at the United States Military Academy at West Point, New York.
+Section 1. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose, the Secretary of the Army are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the first section of the act of June 26, 1946, ch. 493, 60 Stat. 311, as amended \[former 10 U.S.C. 4344, 9344\], to designate persons from the American Republics (other than the United States) and Canada who may be permitted to receive instruction at the United States Military Academy at West Point, New York.
 
 Sec. 2. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose, the Secretary of the Navy are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the following-described authority to designate persons who may be permitted to receive instruction at the United States Naval Academy at Annapolis, Maryland:
 
-(a) The authority vested in the President by the act of July 14, 1941, ch. 292, 55 Stat. 589, as amended \[10 U.S.C. 6957\], with respect to persons from the American Republics (other than the United States) and Canada.
+(a) The authority vested in the President by the act of July 14, 1941, ch. 292, 55 Stat. 589, as amended \[former 10 U.S.C. 6957\], with respect to persons from the American Republics (other than the United States) and Canada.
 
-(b) The authority vested in the President by the act of June 24, 1948, ch. 616, 62 Stat. 583 \[10 U.S.C. 6957\], with respect to Filipinos.
+(b) The authority vested in the President by the act of June 24, 1948, ch. 616, 62 Stat. 583 \[former 10 U.S.C. 6957\], with respect to Filipinos.
 
-Sec. 3. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose, the Secretary of the Air Force are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the first section of the said act of June 26, 1946, as made applicable to the United States Air Force Academy by section 5 of the act of April 1, 1954, ch. 127, 68 Stat. 48 \[10 U.S.C. 9344\], to designate persons from the American Republics (other than the United States) and Canada who may be permitted to receive instruction at the United States Air Force Academy.
+Sec. 3. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose, the Secretary of the Air Force are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the first section of the said act of June 26, 1946, as made applicable to the United States Air Force Academy by section 5 of the act of April 1, 1954, ch. 127, 68 Stat. 48 \[former 10 U.S.C. 9344\], to designate persons from the American Republics (other than the United States) and Canada who may be permitted to receive instruction at the United States Air Force Academy.
 
 Sec. 4. The Secretary of Commerce is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the act of August 9, 1946, ch. 928, 60 Stat. 961 \[former 46 U.S.C. 1126b\], to designate persons from the American Republics (other than the United States) who may be permitted to receive instruction in the United States Merchant Marine Cadet Corps and at the United States Merchant Marine Academy at Kings Point, New York.
 
@@ -346,7 +346,7 @@ Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the
 
 Sec. 3. In connection with making appointments or promotions under authority delegated to him by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, the Secretary of Commerce shall issue to each person appointed or promoted by him thereunder a certificate evidencing the appointment or promotion of such person. Such certificate may be issued in the name of the President.
 
-Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
+Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, bedeemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
 
 Sec. 5. The Secretary of Commerce is hereby authorized to accept, in the name of the President, the resignation of a commissioned officer, either permanent or temporary, of the National Oceanic and Atmospheric Administration.
 
@@ -392,7 +392,7 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 (5) The authority vested in the President by Section 9(c) of the Federal Employees Salary Act of 1965 \[5 U.S.C. 5595(b)(2)\] to prescribe rules and regulations governing severance pay.
 
-Sec. 2. The Director of the Office of Personnel Management is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by Section 304(e) of the Government Employees' Incentive Awards Act, 68 Stat. 1113 (5 U.S.C. 2123(e)) \[5 U.S.C. 4502(d)\], to determine the activity primarily benefiting, or the various activities benefiting, from any suggestion, invention, superior accomplishment, or other personal effort of any civilian officer or employee of the Government which constitutes the basis of any Presidential award or honorary recognition made or grantedunder Section 304(b) of that Act (5 U.S.C. 2123(b)) \[5 U.S.C. 4501(2)(A), 4504\].
+Sec. 2. The Director of the Office of Personnel Management is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by Section 304(e) of the Government Employees' Incentive Awards Act, 68 Stat. 1113 (5 U.S.C. 2123(e)) \[5 U.S.C. 4502(d)\], to determine the activity primarily benefiting, or the various activities benefiting, from any suggestion, invention, superior accomplishment, or other personal effort of any civilian officer or employee of the Government which constitutes the basis of any Presidential award or honorary recognition made or granted under Section 304(b) of that Act (5 U.S.C. 2123(b)) \[5 U.S.C. 4501(2)(A), 4504\].
 
 Sec 3. The following are hereby superseded:
 
@@ -414,7 +414,7 @@ Sec. 5. All actions heretofore taken by the President or by his delegates in res
 
 #### Executive Order No. 11230
 
-Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8847, as amended by Ex. Ord. No. 11275, Mar. 31, 1966, 31 F.R. 5283; Ex. Ord. No. 11290, July 21, 1966, 31 F.R. 10067; Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601, delegating certain functions of the President to the Director of the Bureau of the Budget, was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under this section.
+Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8847, as amended by Ex. Ord. No. 11275, Mar. 31, 1966, 31 F.R.5283; Ex. Ord. No. 11290, July 21, 1966, 31 F.R. 10067; Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601, delegating certain functions of the President to the Director of the Bureau of the Budget, was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under this section.
 
 #### Executive Order No. 11294
 
@@ -486,7 +486,7 @@ Section 1. (a) Except with respect to facilities covered by Executive Order Nos.
 
 &emsp;(v) similar facilities above or below ground; and
 
-&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreign country, whether or not in conjunction with the facilities identified in (iii) above.
+&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreigncountry, whether or not in conjunction with the facilities identified in (iii) above.
 
 (b) With respect to applications received pursuant to subsection (a)(i) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, the Interstate Commerce Commission, and the Director of the Office of Emergency Planning. With respect to applications received pursuant to subsection (a)(ii) above, the Secretary of State shall request the views of the Secretary of Defense and the Secretary of the Interior. With respect to applications received pursuant to subsection (a)(iii), (iv), (v), or (vi) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, and the Secretary of Transportation.
 
@@ -570,7 +570,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (22), (23) \[Revoked by Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043.\]
 
-Sec. 2. <i>Department of the Treasury</i>. The Secretary of the Treasury is hereby designated and empowered toexercise, without the approval, ratification, or other action of the President, the following:
+Sec. 2. <i>Department of the Treasury</i>. The Secretary of the Treasury is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the following:
 
 (1) The authority under 5 U.S.C. 5943(a) to make recommendations to the President concerning the meeting of losses sustained by employees and members of the uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation to the American dollar.
 
@@ -624,7 +624,7 @@ Sec. 9. <i>Office of Management and Budget</i>. The Director of the Office of Ma
 
 (7) The authority of the President under 44 U.S.C. 1108 to approve the use, from the appropriations available for printing and binding, of such sums as are necessary for the printing of journals, magazines, periodicals, and similar publications.
 
-(8) The authority of the President under the paragraph appearing under the heading "Expenses of Management Improvement" in title III of the Treasury, Post Office, and Executive Office Appropriation Act,1971, P.L. 91–422, 84 Stat. 877, or by any reenactment of the provisions of that paragraph in the same or in a different amount of funds, to allocate to any agency or office of the executive branch (including the Office of Management and Budget) funds appropriated by that paragraph or by any such reenactment of it. The Director of the Office of Management and Budget shall from time to time report to the President concerning activities carried on by executive agencies and offices with funds allocated under this paragraph and shall, consonant with law, exercise such direction and control with respect to those activities as he shall deem appropriate.
+(8) The authority of the President under the paragraph appearing under the heading "Expenses of Management Improvement" in title III of the Treasury, Post Office, and Executive Office Appropriation Act, 1971, P.L. 91–422, 84 Stat. 877, or by any reenactment of the provisions of that paragraph in the same or in a different amount of funds, to allocate to any agency or office of the executive branch (including the Office of Management and Budget) funds appropriated by that paragraph or by any such reenactment of it. The Director of the Office of Management and Budget shall from time to time report to the President concerning activities carried on by executive agencies and offices with funds allocated under this paragraph and shall, consonant with law, exercise such direction and control with respect to those activities as he shall deem appropriate.
 
 Sec. 10. <i>General Provisions</i>. (a) Unless inappropriate, any reference in this order to any provision of law shall be deemed to include reference thereto as amended from time to time and as affected by Reorganization Plan No. 2 of 1970 (35 F.R. 7959).
 
@@ -696,7 +696,7 @@ Ex. Ord. No. 11713, Apr. 21, 1973, 38 F.R. 10069, which related to the delegatio
 
 Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, provided:
 
-By virtue of the authority vested in me by section 301 of title 3 of the United States Code, the Secretary ofHousing and Urban Development is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the functions vested in the President by sections 305 and 301 of the National Housing Act, as amended (12 U.S.C. 1720 and 1716, respectively), relating to the authorization of the purchase of mortgages by the Government National Mortgage Association in connection with its special assistance functions and the determination that such action is in the public interest.
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code, the Secretary of Housing and Urban Development is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the functions vested in the President by sections 305 and 301 of the National Housing Act, as amended (12 U.S.C. 1720 and 1716, respectively), relating to the authorization of the purchase of mortgages by the Government National Mortgage Association in connection with its special assistance functions and the determination that such action is in the public interest.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -770,7 +770,7 @@ Sec. 2. (a) The Secretary of Defense is designated to perform during a time of w
 
 (3) The authority vested in the President by Section 644 \[see 123\] of Title 10 of the United States Code, to suspend the operation of any law relating to the promotion, involuntary retirement, or separation of commissioned officers of the Army, Navy, Air Force, or Marine Corps.
 
-(b) The authority delegated to the Secretary of Defense by this Section may not be exercised during thetime of a national emergency declared by the President, unless the exercise of any such authority is specifically directed by the President in accordance with Section 301 of the National Emergencies Act (50 U.S.C. 1631).
+(b) The authority delegated to the Secretary of Defense by this Section may not be exercised during the time of a national emergency declared by the President, unless the exercise of any such authority is specifically directed by the President in accordance with Section 301 of the National Emergencies Act (50 U.S.C. 1631).
 
 (c) The Secretary of Defense shall ensure that actions taken pursuant to the authority delegated by this Section are accounted for as required by Section 401 of the National Emergencies Act (50 U.S.C. 1641).
 
@@ -836,7 +836,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 8\. Report on Proposed Refugee Admissions, consistent with section 207(d)(1) of Public Law 96–212 (8 U.S.C. 1157(d)(1));
 
-9\. Report on Continued Compliance With the Provisions of the Jackson-Vanik Amendment, consistentwith sections 402(b) and 409(b) of Public Law 93–618, as amended (19 U.S.C. 2432(b), 2439(b));
+9\. Report on Continued Compliance With the Provisions of the Jackson-Vanik Amendment, consistent with sections 402(b) and 409(b) of Public Law 93–618, as amended (19 U.S.C. 2432(b), 2439(b));
 
 10\. Report Regarding Conditions in Burma and U.S. Policy Toward Burma, consistent with section 570(d) of Public Law 104–208 \[110 Stat. 3009–167\];
 
@@ -898,7 +898,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 2\. Report on the National Emergency With Respect to Terrorist Attacks on the United States, Proclamation 7463 of September 14, 2001 \[50 U.S.C. 1621 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c).
 
-(d) The Secretary of Commerce shall submit the Report on the National Emergency Caused by the Lapse of the Export Administration Act of 1979, Executive Order 13222 \[listed in a table under section 1701 of Title 50\],consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c).
+(d) The Secretary of Commerce shall submit the Report on the National Emergency Caused by the Lapse of the Export Administration Act of 1979, Executive Order 13222 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c).
 
 (e) The Director of Central Intelligence shall submit the following reports:
 
@@ -918,7 +918,7 @@ Sec. 2. Reports to the Congress described in certain Senate resolutions shall be
 
 3\. Report on Chemical Weapons Convention Compliance, consistent with Condition 10(C) of the Resolution of Advice and Consent to the Chemical Weapons Convention adopted by the Senate on April 24, 1997; and
 
-4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice and Consent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
+4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice andConsent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
 
 (b) The Secretary of Commerce shall submit the Report on the Status of the World Intellectual Property Organization Copyright Treaty and the Performance and Phonograms Treaty, consistent with the Senate's resolution of ratification of October 21, 1998.
 

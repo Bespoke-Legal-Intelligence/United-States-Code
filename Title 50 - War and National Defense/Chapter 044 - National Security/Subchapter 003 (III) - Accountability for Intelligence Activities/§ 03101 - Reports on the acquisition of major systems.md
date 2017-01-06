@@ -154,7 +154,7 @@ If a determination of an increase by a percentage equal to or greater than the s
 
 &emsp;&emsp;(ii) each revised current Baseline Estimate established for a major system under subparagraph (B); and
 
-&emsp;&emsp;(iii) each revised current Baseline Estimate established for a major system under subparagraph (C), including the percentage increase of the total acquisition cost of such major system that occurred prior to October 7, 2010.
+&emsp;&emsp;(iii) each revised current Baseline Estimate established for a major system undersubparagraph (C), including the percentage increase of the total acquisition cost of such major system that occurred prior to October 7, 2010.
 
 (2) The revised current Baseline Estimate established for a major system under subparagraph (B) or (C) of paragraph (1) shall be the 2010 adjusted total acquisition cost for the major system and may include the estimated cost of conducting any vulnerability assessments for such major system required under section 3099 of this title.
 

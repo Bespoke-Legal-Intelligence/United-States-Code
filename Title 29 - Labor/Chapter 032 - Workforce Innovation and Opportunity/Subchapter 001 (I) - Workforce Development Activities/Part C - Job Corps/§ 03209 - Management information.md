@@ -38,7 +38,7 @@
 
 &emsp;The Secretary shall also establish performance indicators, and expected levels of performance on the performance indicators, for recruitment service providers serving the Job Corps program. The performance indicators shall relate to—
 
-&emsp;&emsp;(A) the number of enrollees recruited, compared to the established goals for such recruitment, and the number of enrollees who remain committed to the program for 90 days after enrollment; and
+&emsp;&emsp;(A) the number of enrollees recruited, compared to the established goals for such recruitment, and the number of enrolleeswho remain committed to the program for 90 days after enrollment; and
 
 &emsp;&emsp;(B) the measurements described in subparagraphs (I), (L), and (M) of subsection (d)(1).
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(H) the number of graduates who entered unsubsidized employment related to the career and technical education and training received through the Job Corps program and the number who entered unsubsidized employment not related to the education and training received;
 
-&emsp;&emsp;(I) the percentage and number of former enrollees, including the number dismissedunder the zero tolerance policy described in section 3202(b) of this title;
+&emsp;&emsp;(I) the percentage and number of former enrollees, including the number dismissed under the zero tolerance policy described in section 3202(b) of this title;
 
 &emsp;&emsp;(J) the percentage and number of graduates who enter postsecondary education;
 

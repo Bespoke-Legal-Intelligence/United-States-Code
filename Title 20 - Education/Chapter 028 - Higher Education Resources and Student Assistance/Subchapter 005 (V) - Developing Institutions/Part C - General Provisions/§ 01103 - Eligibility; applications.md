@@ -10,9 +10,9 @@ Each Hispanic-serving institution desiring to receive assistance under this subc
 
 &emsp;Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution's need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
 
-&emsp;&emsp;(A) the application meets the requirements of subsection (c) of this section; and
+&emsp;&emsp;(A) the application meets the requirements of subsection (c); and
 
-&emsp;&emsp;(B) the institution is eligible for assistance in accordance with the provisions of this subchapter under which the assistance is sought.
+&emsp;&emsp;(B) the institution is eligible for assistance in accordance with the provisions of thissubchapter under which the assistance is sought.
 
 #### (2) Preliminary applications
 
@@ -56,7 +56,7 @@ With respect to applications for assistance under this section, the Secretary sh
 
 #### (e) Eligibility data
 
-The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in making eligibility determinations and shall advance the base-year for the determinations forward following each annual grant cycle.
+The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV in making eligibility determinations and shall advance the base-year for the determinations forward following each annual grant cycle.
 
 (Pub. L. 89–329, title V, §521, formerly §511, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1770; renumbered §521 and amended Pub. L. 110–315, title V, §§502(a)(2), (b)(2), 503, Aug. 14, 2008, 122 Stat. 3331, 3333.)
 
@@ -66,7 +66,7 @@ A prior section 1103, Pub. L. 89–329, title V, §511, as added Pub. L. 102–3
 
 Another prior section 1103, Pub. L. 89–329, title V, §511, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, set forth statement of purpose for former part A of this subchapter relating to midcareer teacher training for nontraditional students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1103, Pub. L. 89–329, title V, §513, Nov. 8, 1965, 79 Stat. 1256; Pub. L. 90–35, §3(a)(3), (c)–(f), June 29, 1967, 81 Stat. 85, 86; Pub. L. 91–230, title VIII, §§803, 804(c), (d), 805(b), Apr. 13, 1970, 84 Stat. 190, 191; Pub. L. 93–380, title VIII, §835(a)(2), (3), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94–482, title I, §§151(a)(5)(C), 152(b)–(d), Oct. 12, 1976, 90 Stat. 2152, 2153; Pub. L. 96–374, title V, §502(a)–(d), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1459, 1503, related to recruitment, enrollment, training, etc., of members for program, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480.
+Another prior section 1103, Pub. L. 89–329, title V, §513, Nov. 8, 1965, 79 Stat. 1256; Pub. L. 90–35, §3(a)(3), (c)–(f), June 29, 1967, 81 Stat. 85, 86; Pub. L. 91–230, title VIII, §§803, 804(c), (d), 805(b), Apr. 13, 1970, 84 Stat. 190, 191; Pub. L. 93–380, title VIII, §835(a)(2), (3), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94–482, title I, §§151(a)(5)(C), 152(b)–(d), Oct. 12, 1976, 90 Stat. 2152, 2153; Pub. L. 96–374,title V, §502(a)–(d), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1459, 1503, related to recruitment, enrollment, training, etc., of members for program, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480.
 
 A prior section 521 of Pub. L. 89–329 was classified to section 1104 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

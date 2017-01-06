@@ -72,7 +72,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 &emsp;&emsp;(C) which normally employed more than 10 employees on a typical business day during the preceding calendar year.
 
-> &emsp;For purposes of subparagraph (C), rules similar to the rules of subsections (a) and (b) of section 52 shall apply under regulations prescribed by the Secretary, and an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
+> &emsp;For purposes of subparagraph (C), rules similar to the rules of subsections (a) and (b) ofsection 52 shall apply under regulations prescribed by the Secretary, and an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
 
 #### (5) Employer not to be liable for wrong allocations
 
@@ -158,5 +158,5 @@ Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that
 
 #### Study of Tip Compliance
 
-Pub. L. 97–248, title III, §314(c), Sept. 3, 1982, 96 Stat. 605, directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tip compliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
+Pub. L. 97–248, title III, §314(c), Sept. 3, 1982, 96 Stat. 605, directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tipcompliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
 

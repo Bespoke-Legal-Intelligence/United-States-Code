@@ -20,7 +20,7 @@
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Administrator determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this sectionafter a final year following such fiscal year, as defined in accordance with regulations established by the Administrator, and for each subsequent fiscal year.
+&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), thedirector of the designated State unit shall continue to have the authority to award such grants under this section if the Administrator determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Administrator, and for each subsequent fiscal year.
 
 #### (2) Grants by designated State units
 
@@ -80,13 +80,13 @@ In the administration of the provisions of this section, the director of the des
 
 #### (e) Order of priorities
 
-Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers forindependent living within a State, to the extent funds are available:
+Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-&emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
+&emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c), that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 
 &emsp;(2) The director of the designated State unit shall provide for a cost-of-living increase for such existing centers for independent living.
 
-&emsp;(3) The director of the designated State unit shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;(3) The director of the designated State unit shall fund new centers for independent living, as described in subsection (d), that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (f) Nonresidential agencies
 
@@ -104,7 +104,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 &emsp;&emsp;(A) the date of such notification; or
 
-&emsp;&emsp;(B) in the case of a center that requests an appeal under subsection (i) of this section, the date of any final decision under subsection (i) of this section,
+&emsp;&emsp;(B) in the case of a center that requests an appeal under subsection (i), the date of any final decision under subsection (i),
 
 > &emsp;unless the center submits a plan to achieve compliance within 90 days and such plan is approved by the director, or if appealed, by the Administrator.
 

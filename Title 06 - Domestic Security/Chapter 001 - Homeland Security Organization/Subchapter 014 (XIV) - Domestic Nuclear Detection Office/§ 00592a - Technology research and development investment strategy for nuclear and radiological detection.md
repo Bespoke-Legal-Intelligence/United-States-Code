@@ -8,7 +8,7 @@ Not later than 1 year after October 13, 2006, the Secretary, the Secretary of En
 
 The strategy under subsection (a) shall include—
 
-&emsp;(1) a long term technology roadmap for nuclear and radiological detection applicable tothe mission needs of the Department, the Department of Energy, the Department of Defense, and the Office of the Director of National Intelligence;
+&emsp;(1) a long term technology roadmap for nuclear and radiological detection applicable to the mission needs of the Department, the Department of Energy, the Department of Defense, and the Office of the Director of National Intelligence;
 
 &emsp;(2) budget requirements necessary to meet the roadmap; and
 
@@ -34,7 +34,7 @@ This title, referred to in subsec. (c)(1), is title V of Pub. L. 109–347, Oct.
 
 #### Codification
 
-Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known asthe SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Definitions
 

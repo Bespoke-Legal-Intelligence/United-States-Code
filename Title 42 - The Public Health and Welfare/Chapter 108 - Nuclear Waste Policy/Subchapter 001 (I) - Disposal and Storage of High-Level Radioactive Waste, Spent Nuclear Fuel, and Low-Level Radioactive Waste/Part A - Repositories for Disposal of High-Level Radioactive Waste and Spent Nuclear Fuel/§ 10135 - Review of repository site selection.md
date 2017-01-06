@@ -6,7 +6,7 @@ For purposes of this section, the term "resolution of repository siting approval
 
 #### (b) State or Indian tribe petitions
 
-The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title, unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c) of this section.
+The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title, unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c).
 
 #### (c) Congressional review of petitions
 
@@ -54,9 +54,9 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (2) Resolutions of repository siting approval shall upon introduction, be immediately referred by the Speaker of the House to the appropriate committee or committees of the House. Any such resolution received from the Senate shall be held at the Speaker's table.
 
-(3) Upon the expiration of 60 days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which such resolution was referred shall be discharged from further consideration of such resolution, and such resolution shall be referred to the appropriate calendar, unless such resolution or anidentical resolution was previously reported by each committee to which it was referred.
+(3) Upon the expiration of 60 days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which such resolution was referred shall be discharged from further consideration of such resolution, and such resolution shall be referred to the appropriate calendar, unless such resolution or an identical resolution was previously reported by each committee to which it was referred.
 
-(4) It shall be in order for the Speaker to recognize a Member favoring a resolution to call up a resolution of repository siting approval after it has been on the appropriate calendar for 5 legislative days. When any such resolution is called up, the House shall proceed to its immediate consideration and the Speaker shall recognize the Member calling up such resolution and a Member opposed to such resolution for 2 hours of debate in the House, to be equally divided and controlled by such Members. When such time has expired, the previous question shall be considered as ordered on the resolution to adoption without intervening motion. No amendment to any such resolution shall be in order, nor shall it be in order to move to reconsider the vote by which such resolution is agreed to or disagreed to.
+(4) It shall be in order for the Speaker to recognize a Member favoring a resolution to call upa resolution of repository siting approval after it has been on the appropriate calendar for 5 legislative days. When any such resolution is called up, the House shall proceed to its immediate consideration and the Speaker shall recognize the Member calling up such resolution and a Member opposed to such resolution for 2 hours of debate in the House, to be equally divided and controlled by such Members. When such time has expired, the previous question shall be considered as ordered on the resolution to adoption without intervening motion. No amendment to any such resolution shall be in order, nor shall it be in order to move to reconsider the vote by which such resolution is agreed to or disagreed to.
 
 (5) If the House receives from the Senate a resolution of repository siting approval with respect to any site, then the following procedure shall apply:
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;(1) continuity of session of Congress is broken only by an adjournment sine die; and
 
-&emsp;(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 90-day period referred to in subsection (c) of this section and the 60-day period referred to in subsections (d) and (e) of this section.
+&emsp;(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 90-day period referred to in subsection (c) and the 60-day period referred to in subsections (d) and (e).
 
 #### (g) Information provided to Congress
 

@@ -34,13 +34,13 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;&emsp;(A) to carry out the purposes of—
 
-&emsp;&emsp;&emsp;(i) paragraphs (1), (2), (5), and (6) of section 111(a) of CERCLA as in effect on the date of the enactment of the Superfund Amendments and Reauthorization Act of 1986,
+&emsp;&emsp;&emsp;(i) paragraphs (1), (2), (5), and (6) of section 111(a) of CERCLA as in effect on thedate of the enactment of the Superfund Amendments and Reauthorization Act of 1986,
 
 &emsp;&emsp;&emsp;(ii) section 111(c) of CERCLA (as so in effect), other than paragraphs (1) and (2) thereof, and
 
 &emsp;&emsp;&emsp;(iii) section 111(m) of CERCLA (as so in effect), or
 
-&emsp;&emsp;(B) hereafter authorized by a law which does not authorize the expenditure out ofthe Superfund for a general purpose not covered by subparagraph (A) (as so in effect).
+&emsp;&emsp;(B) hereafter authorized by a law which does not authorize the expenditure out of the Superfund for a general purpose not covered by subparagraph (A) (as so in effect).
 
 #### (2) Exception for certain transfers, etc., of hazardous substances
 

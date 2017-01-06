@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
+&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
 
 #### (2) Priority for occupancy
 
@@ -20,7 +20,7 @@ Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any te
 
 #### (c) Relocation assistance
 
-A public housing agency that designates any existing project or building, or portion thereof, for occupancy as provided under subsection (a)(1) of this section shall provide, to each person and family who agrees to be relocated in connection with such designation—
+A public housing agency that designates any existing project or building, or portion thereof, for occupancy as provided under subsection (a)(1) shall provide, to each person and family who agrees to be relocated in connection with such designation—
 
 &emsp;(1) notice of the designation and an explanation of available relocation benefits, as soon as is practicable for the agency and the person or family;
 
@@ -30,7 +30,7 @@ A public housing agency that designates any existing project or building, or por
 
 #### (d) Required plan
 
-A plan under this subsection for designating a project (or portion of a project) for occupancy under subsection (a)(1) of this section is a plan, prepared by the public housing agency for the project and submitted to the Secretary, that—
+A plan under this subsection for designating a project (or portion of a project) for occupancy under subsection (a)(1) is a plan, prepared by the public housing agency for the project and submitted to the Secretary, that—
 
 &emsp;(1) establishes that the designation of the project is necessary—
 
@@ -56,15 +56,15 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (1) Review and notification
 
-&emsp;The Secretary shall conduct a limited review of each plan under subsection (d) of this section that is submitted to the Secretary to ensure that the plan is complete and complies with the requirements of subsection (d) of this section. The Secretary shall notify each public housing agency submitting a plan whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the public housing agency, as required under this paragraph or paragraph (2), the plan shall be considered, for purposes of this section, to comply with the requirements under subsection (d) of this section and the Secretary shall be considered to have notified the agency of such compliance upon the expiration of such 60-day period.
+&emsp;The Secretary shall conduct a limited review of each plan under subsection (d) that is submitted to the Secretary to ensure that the plan is complete and complies with the requirements of subsection (d). The Secretary shall notify each public housing agency submitting a plan whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the public housing agency, as required under this paragraph or paragraph (2), the plan shall be considered, for purposes of this section, to comply with the requirements under subsection (d) and the Secretary shall be considered to have notified the agency of such compliance upon the expiration of such 60-day period.
 
 #### (2) Notice of reasons for determination of noncompliance
 
-&emsp;If the Secretary determines that a plan, as submitted, does not comply with the requirements under subsection (d) of this section, the Secretary shall specify in the notice under paragraph (1) the reasons for the noncompliance and any modifications necessary for the plan to meet such requirements.
+&emsp;If the Secretary determines that a plan, as submitted, does not comply with the requirements under subsection (d), the Secretary shall specify in the notice under paragraph (1) the reasons for the noncompliance and any modifications necessary for the plan to meet such requirements.
 
 #### (3) Standards for determination of noncompliance
 
-&emsp;The Secretary may determine that a plan does not comply with the requirements under subsection (d) of this section only if—
+&emsp;The Secretary may determine that a plan does not comply with the requirements under subsection (d) only if—
 
 &emsp;&emsp;(A) the plan is incomplete in significant matters required under such subsection; or
 
@@ -78,7 +78,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (1) 5-year effectiveness of original plan
 
-&emsp;A plan under subsection (d) of this section shall be in effect for purposes of this section during the 5-year period that begins upon notification under subsection (e)(1) of this section of the public housing agency that the plan complies with the requirements under subsection (d) of this section.
+&emsp;A plan under subsection (d) shall be in effect for purposes of this section during the 5-year period that begins upon notification under subsection (e)(1) of the public housing agency that the plan complies with the requirements under subsection (d).
 
 #### (2) Renewal of plan
 
@@ -86,7 +86,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (3) Transition provision
 
-&emsp;Any application and allocation plan approved under this section (as in effect before March 28, 1996) before March 28, 1996, shall be considered to be a plan under subsection (d) of this section that is in effect for purposes of this section for the 5-year period beginning upon such approval.
+&emsp;Any application and allocation plan approved under this section (as in effect before March 28, 1996) before March 28, 1996, shall be considered to be a plan under subsection (d) that is in effect for purposes of this section for the 5-year period beginning upon such approval.
 
 #### (g) Inapplicability of Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970
 
@@ -108,7 +108,7 @@ A prior section 7 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, requi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (h). Pub. L. 105–276 struck out heading and text of subsec. (h). Text read as follows: "The provisions of this section shall not apply with respect tolow-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority."
+<b>1998</b>—Subsec. (h). Pub. L. 105–276 struck out heading and text of subsec. (h). Text read as follows: "The provisions of this section shall not apply with respect to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority."
 
 <b>1996</b>—Pub. L. 104–330, §501(b)(4), which directed amendment of "subsection 7" of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (l), could not be executed because this section does not contain a subsec. (l).
 

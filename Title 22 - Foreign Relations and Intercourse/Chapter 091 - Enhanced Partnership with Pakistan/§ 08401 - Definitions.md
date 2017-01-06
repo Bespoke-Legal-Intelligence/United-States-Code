@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) assistance authorized to be appropriated or otherwise made available under any provision of law that is funded from accounts within budget function 050 (National Defense); and
 
-&emsp;&emsp;&emsp;(ii) amounts appropriated or otherwise available to the PakistanCounterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 (Public Law 111–32).
+&emsp;&emsp;&emsp;(ii) amounts appropriated or otherwise available to the Pakistan Counterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 (Public Law 111–32).
 
 (Pub. L. 111–73, §2, Oct. 15, 2009, 123 Stat. 2060.)
 

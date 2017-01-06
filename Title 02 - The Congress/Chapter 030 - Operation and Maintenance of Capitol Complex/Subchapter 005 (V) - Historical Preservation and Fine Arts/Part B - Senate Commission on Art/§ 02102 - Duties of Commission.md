@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commission is hereby authorized and directed to supervise, hold, place, protect, and make known all works of art, historical objects, and exhibits within the Senate wing of the United States Capitol, any Senate Office Buildings, and in all rooms, spaces, and corridors thereof, which are the property of the United States, and in its judgment to accept any works of art, historical objects, or exhibits which may hereafter be offered, given, or devised to the Senate, its committees, and its officers for placement and exhibition in the Senate wing of the Capitol, the Senate Office Buildings, or in rooms, spaces, or corridors thereof.
+The Commission is hereby authorized and directed to supervise, hold, place, protect, and make known all works of art, historical objects, and exhibits within the Senate wing of the United States Capitol, any Senate Office Buildings, and in all rooms, spaces, and corridors thereof, which are the property of the UnitedStates, and in its judgment to accept any works of art, historical objects, or exhibits which may hereafter be offered, given, or devised to the Senate, its committees, and its officers for placement and exhibition in the Senate wing of the Capitol, the Senate Office Buildings, or in rooms, spaces, or corridors thereof.
 
 #### (b) Issuance and publication of regulations
 
@@ -14,7 +14,7 @@ Regulations authorized by the provisions of section 2183 of this title to be iss
 
 #### (d) Responsibilities of Committee on Rules and Administration of Senate
 
-The Committee on Rules and Administration of the Senate in consultation with the Architect of the Capitol and consistent with regulations prescribed by the Commission under subsection (b) of this section, shall have responsibility for the supervision, protection, and placement of all works of art, historical objects, and exhibitswhich shall have been accepted on behalf of the Senate by the Commission or acknowledged as United States property by inventory of the Commission, and which may be lodged in the Senate wing of the Capitol or the Senate Office Buildings by the Commission.
+The Committee on Rules and Administration of the Senate in consultation with the Architect of the Capitol and consistent with regulations prescribed by the Commission under subsection (b) of this section, shall have responsibility for the supervision, protection, and placement of all works of art, historical objects, and exhibits which shall have been accepted on behalf of the Senate by the Commission or acknowledged as United States property by inventory of the Commission, and which may be lodged in the Senate wing of the Capitol or the Senate Office Buildings by the Commission.
 
 (Pub. L. 100–696, title IX, §901(a), (b)(2), Nov. 18, 1988, 102 Stat. 4610, 4611.)
 

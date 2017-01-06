@@ -40,7 +40,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
 
-(9) Test procedures for illuminated exit signs shall be based on the test method used underversion 2.0 of the Energy Star program of the Environmental Protection Agency for illuminated exit signs.
+(9) Test procedures for illuminated exit signs shall be based on the test method used under version 2.0 of the Energy Star program of the Environmental Protection Agency for illuminated exit signs.
 
 (10)(A) Test procedures for distribution transformers and low voltage dry-type distribution transformers shall be based on the "Standard Test Method for Measuring the Energy Consumption of Distribution Transformers" prescribed by the National Electrical Manufacturers Association (NEMA TP 2–1998).
 
@@ -160,7 +160,7 @@ Subsec. (b)(5). Pub. L. 100–357 added par. (5).
 
 Subsec. (a)(3). Pub. L. 95–619, §§425(a), 691(b)(2), struck out "Except as provided in paragraph (6)," before "The Secretary", struck out provision requiring proposed test procedures to be published not later than June 30, 1976, with certain excepted cases not required to be published before Sept. 30, 1976 and June 30, 1977, and substituted "Secretary" for "Administrator".
 
-Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out"Except as provided in paragraph (6)," before "The Secretary shall", substituted "Secretary" for "Administrator" in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
+Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions formerly classified to subpar. (A), as par. (4) and in par. (4), as so redesignated, struck out "Except as provided in paragraph (6)," before "The Secretary shall", substituted "Secretary" for "Administrator" in two places, inserted provision requiring the prescription of test procedures not later than Jan. 31, 1978, and struck out subpar. (B) requiring the prescription of test procedures not later than Sept. 30, 1976, with certain excepted cases required to be prescribed not later than Dec. 31, 1976 and Sept. 30 1977.
 
 Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator" wherever appearing.
 

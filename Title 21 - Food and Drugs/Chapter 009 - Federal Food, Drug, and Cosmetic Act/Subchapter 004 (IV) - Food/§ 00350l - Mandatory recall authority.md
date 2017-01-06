@@ -84,7 +84,7 @@ In conducting a recall under this section, the Secretary shall—
 
 &emsp;(2) consult the policies of the Department of Agriculture regarding providing to the public a list of retail consignees receiving products involved in a Class I recall and shall consider providing such a list to the public, as determined appropriate by the Secretary; and
 
-&emsp;(3) if available, publish on the Internet Web site of the Food and Drug Administration an image of the article that is the subject of the press release described in (1).<sup>2</sup>
+&emsp;(3) if available, publish on the Internet Web site of the Food and Drug Administration animage of the article that is the subject of the press release described in (1).<sup>2</sup>
 
 #### (h) No delegation
 

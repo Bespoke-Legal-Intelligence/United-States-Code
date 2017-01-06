@@ -76,7 +76,7 @@ The purposes of this section are—
 
 #### (4) Minimum amount
 
-&emsp;The Attorney General shall allocate to each State (including the District of Columbia and Puerto Rico) not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.25 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories.
+&emsp;The Attorney General shall allocate to each State (including the District of Columbia andPuerto Rico) not less than 1.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands shall each be allocated 0.25 percent of the total appropriations. The remaining funds shall be allotted to each State and each territory in an amount that bears the same ratio to such remaining funds as the population of such State and such territory bears to the population of all the States and the territories.
 
 #### (c) Grants for culturally specific programs addressing sexual assault
 
@@ -166,7 +166,7 @@ The purposes of this section are—
 
 #### (1) Grants authorized
 
-&emsp;The Attorney General may award grants to Indian tribes, tribal organizations, and nonprofit tribal organizations for the operation ofsexual assault programs or projects in Indian tribal lands and Alaska Native villages to support the establishment, maintenance, and expansion of programs and projects to assist those victimized by sexual assault.
+&emsp;The Attorney General may award grants to Indian tribes, tribal organizations, and nonprofit tribal organizations for the operation of sexual assault programs or projects in Indian tribal lands and Alaska Native villages to support the establishment, maintenance, and expansion of programs and projects to assist those victimized by sexual assault.
 
 #### (2) Allocation and use of funds
 

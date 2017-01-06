@@ -36,7 +36,7 @@
 
 #### (4) Consultation
 
-&emsp;The standards and procedures shall provide for necessary consultation with individualsand organizations, including court, probation, parole, law enforcement, education, welfare, and medical authorities and advisers.
+&emsp;The standards and procedures shall provide for necessary consultation with individuals and organizations, including court, probation, parole, law enforcement, education, welfare, and medical authorities and advisers.
 
 #### (5) Reimbursement
 
@@ -102,7 +102,7 @@
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

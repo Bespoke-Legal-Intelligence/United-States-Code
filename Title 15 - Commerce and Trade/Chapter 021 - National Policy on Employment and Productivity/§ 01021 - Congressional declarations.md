@@ -10,7 +10,7 @@ The Congress further declares and establishes as a national goal the fulfillment
 
 #### (c) Inflation
 
-The Congress further declares that inflation is a major national problem requiring improved government policies relating to food, energy, improved and coordinated fiscal and monetary management, the reform of outmoded rules and regulations of the Federal Government, the correction of structural defects in the economy that prevent or seriously impede competition in private markets, and other measures to reduce the rate of inflation.
+The Congress further declares that inflation is a major national problem requiring improvedgovernment policies relating to food, energy, improved and coordinated fiscal and monetary management, the reform of outmoded rules and regulations of the Federal Government, the correction of structural defects in the economy that prevent or seriously impede competition in private markets, and other measures to reduce the rate of inflation.
 
 #### (d) Coordination of Federal policies and programs
 
@@ -22,7 +22,7 @@ The Congress further declares that, although it is the purpose under the Full Em
 
 #### (f) Expansion of private employment
 
-The Congress further declares that it is the purpose of the Full Employment and BalancedGrowth Act of 1978 \[15 U.S.C. 3101 et seq.\] to maximize and place primary emphasis upon the expansion of private employment, and all programs and policies under such Act shall be in accord with such purpose. Toward this end, the effort to expand jobs to the full employment level shall be in this order of priority to the extent consistent with balanced growth—
+The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to maximize and place primary emphasis upon the expansion of private employment, and all programs and policies under such Act shall be in accord with such purpose. Toward this end, the effort to expand jobs to the full employment level shall be in this order of priority to the extent consistent with balanced growth—
 
 &emsp;(1) expansion of conventional private jobs through improved use of general economic and structural policies, including measures to encourage private sector investment and capital formation;
 
@@ -56,7 +56,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d)
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–523 designated existing provisions as subsec. (a), inserted provisions relating to promotion of balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, improvement in trade balance, and reasonable price stability, and added subsecs. (b) to (j).
+<b>1978</b>—Pub. L. 95–523 designated existing provisions as subsec. (a), inserted provisions relating to promotion of balanced growth, a balanced Federal budget, adequateproductivity growth, proper attention to national priorities, improvement in trade balance, and reasonable price stability, and added subsecs. (b) to (j).
 
 #### Short Title
 

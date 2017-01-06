@@ -6,7 +6,7 @@
 
 &emsp;(2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney Generalmay acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
 
 &emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
 
@@ -34,7 +34,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and 
 
 &emsp;(A) arrests, convictions, and arrest warrants for stalking or domestic violence or for violations of protection orders for the protection of parties from stalking or domestic violence; and
 
-&emsp;(B) protection orders for the protection of persons from stalking or domestic violence, provided such orders are subject to periodic verification.
+&emsp;(B) protection orders for the protection of persons from stalking or domestic violence,provided such orders are subject to periodic verification.
 
 (3) As used in this subsection—
 
@@ -110,7 +110,19 @@ Subsec. (b). Pub. L. 97–292, §2(b), substituted "exchange of records and info
 
 #### Regulations
 
-Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
+Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General may make rules to carry out the subsection added to section534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
+
+#### Improving Department of Justice Data Collection on Mental Illness Involved in Crime
+
+Pub. L. 114–255, div. B, title XIV, §14015, Dec. 13, 2016, 130 Stat. 1306, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law, on or after the date that is 90 days after the date on which the Attorney General promulgates regulations under subsection (b), any data prepared by, or submitted to, the Attorney General or the Director of the Federal Bureau of Investigation with respect to the incidences of homicides, law enforcement officers killed, seriously injured, and assaulted, or individuals killed or seriously injured by law enforcement officers shall include data with respect to the involvement of mental illness in such incidences, if any.
+
+"(b)
+
+Regulations.—Not later than 90 days after the date of the enactment of this Act \[Dec. 13, 2016\], the Attorney General shall promulgate or revise regulations as necessary to carry out subsection (a)."
 
 #### Access to National Crime Information Databases
 
@@ -368,7 +380,7 @@ Regulations.—Not later than 180 days after the date of enactment of this Act \
 
 &emsp;"(3)
 
-Criminal penalties for use of information.—Whoever knowingly and intentionally uses any information obtained pursuant to this Act \[this section\] other than for the purpose of determining the suitability of an individual for employment as a private security officer shall be fined under title 18, United States Code, or imprisoned for not more than 2 years, or both.
+Criminal penalties for use of information.—Whoever knowingly and intentionally uses any information obtained pursuant to this Act \[this section\]other than for the purpose of determining the suitability of an individual for employment as a private security officer shall be fined under title 18, United States Code, or imprisoned for not more than 2 years, or both.
 
 &emsp;"(4)
 
@@ -402,7 +414,7 @@ State opt out.—A State may decline to participate in the background check syst
 
 #### Criminal Background Checks for Applicants for Employment in Nursing Facilities and Home Health Care Agencies
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681-73, provided that:
+Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73, provided that:
 
 "(a)(1) A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
 
@@ -450,7 +462,7 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 &emsp;"(2) the National Crime Information Center, which links more than 16,000 Federal, State and local law enforcement agencies, is the single most important avenue of cooperation among law enforcement agencies;
 
-&emsp;"(3) major improvements to the National Crime Information Center are needed because the current system is more than twenty years old; carries much greater volumes of enforcement information; and at this time is unable to incorporate technological advances that would significantly improve its performance; and
+&emsp;"(3) major improvements to the National Crime Information Center are needed because the current system is more than twenty years old; carries muchgreater volumes of enforcement information; and at this time is unable to incorporate technological advances that would significantly improve its performance; and
 
 &emsp;"(4) the Federal Bureau of Investigation, working with State and local law enforcement agencies and private organizations, has developed a promising plan, 'NCIC 2000', to make the necessary upgrades to the National Crime Information Center that should meet the needs of United States law enforcement agencies into the next century.
 
@@ -542,7 +554,7 @@ Inclusion of Offenses Involving Illegal Drugs.—The Director of the Federal Bur
 
 "(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated $350,000 for fiscal year 1989 and such sums as may be necessary to carry out the provisions of this section after fiscal year 1989.
+Authorization of Appropriations.—There are authorized to be appropriated $350,000 for fiscal year1989 and such sums as may be necessary to carry out the provisions of this section after fiscal year 1989.
 
 "(g)
 

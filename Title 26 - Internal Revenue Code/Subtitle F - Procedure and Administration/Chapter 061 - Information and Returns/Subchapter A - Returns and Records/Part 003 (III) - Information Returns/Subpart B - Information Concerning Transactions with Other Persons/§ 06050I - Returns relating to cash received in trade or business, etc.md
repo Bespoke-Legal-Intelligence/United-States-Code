@@ -116,7 +116,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### (4) Information to Federal prosecutors
 
-&emsp;Each clerk required to include on a return under paragraph (1) the information described in paragraph (2)(B) with respect to an individual described in paragraph (2)(B)(i)(I) shall furnish (at such time as the Secretary may by regulations prescribe) a written statement showing such information to the United States Attorney for the jurisdiction in which such individual resides and the jurisdiction in which the specified criminal offense occurred.
+&emsp;Each clerk required to include on a return under paragraph (1) the information described in paragraph (2)(B) with respect to an individual described in paragraph (2)(B)(i)(I) shall furnish (at such time as the Secretary may by regulations prescribe) a written statementshowing such information to the United States Attorney for the jurisdiction in which such individual resides and the jurisdiction in which the specified criminal offense occurred.
 
 #### (5) Information to payors of bail
 
@@ -126,7 +126,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;&emsp;(B) the aggregate amount of cash described in paragraph (1) received by such clerk.
 
-(Added Pub. L. 98–369, div. A, title I, §146(a), July 18, 1984, 98 Stat. 685; amended Pub. L. 99–514, title XV, §1501(c)(12), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 100–690, title VII, §7601(a)(1), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–508, title XI, §11318(a), (c), Nov. 5, 1990, 104 Stat. 1388–458, 1388-459; Pub. L. 103–322, title II, §20415(a), (b)(3), Sept. 13, 1994, 108 Stat. 1832, 1833; Pub. L. 104–168, title XII, §1201(a)(9), July 30, 1996, 110 Stat. 1469.)
+(Added Pub. L. 98–369, div. A, title I, §146(a), July 18, 1984, 98 Stat. 685; amended Pub. L. 99–514, title XV, §1501(c)(12), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 100–690, title VII, §7601(a)(1), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–508, title XI, §11318(a), (c), Nov. 5, 1990, 104 Stat. 1388–458, 1388–459; Pub. L. 103–322, title II, §20415(a), (b)(3), Sept. 13, 1994, 108 Stat. 1832, 1833; Pub. L. 104–168, title XII, §1201(a)(9), July 30, 1996, 110 Stat. 1469.)
 
 #### Amendments
 

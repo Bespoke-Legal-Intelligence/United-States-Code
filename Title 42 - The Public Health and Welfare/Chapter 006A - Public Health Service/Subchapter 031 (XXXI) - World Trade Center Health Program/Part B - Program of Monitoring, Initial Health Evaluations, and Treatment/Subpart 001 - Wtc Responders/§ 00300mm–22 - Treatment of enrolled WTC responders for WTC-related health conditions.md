@@ -20,7 +20,7 @@
 
 #### (2) Determination
 
-&emsp;The determination under paragraph (1) or subsection (b) of whether the September 11, 2001, terrorist attacks were substantially likely to be a significant factor in aggravating, contributing to, or causing an individual's illness or health condition shall be made based on an assessment of the following:
+&emsp;The determination under paragraph (1) or subsection (b) of whether the September 11,2001, terrorist attacks were substantially likely to be a significant factor in aggravating, contributing to, or causing an individual's illness or health condition shall be made based on an assessment of the following:
 
 &emsp;&emsp;(A) The individual's exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the terrorist attacks. Such exposure shall be—
 
@@ -126,7 +126,7 @@
 
 #### (D) Determinations not to add cancer or certain types of cancer
 
-&emsp;&emsp;In the case that the WTC Program Administrator determines under subparagraph (B) or (C) that cancer or a certain type of cancer should not be added to such list of WTC-related health conditions, the WTC Program Administrator shall publish an explanation for such determination in the Federal Register. Any such determination to not make such an addition shall not preclude the addition of cancer or the certain type of cancer to such list at a later date.
+&emsp;&emsp;In the case that the WTC Program Administrator determines under subparagraph (B) or (C) that cancer or a certain type of cancer should not be added to such list of WTC-related health conditions, the WTC Program Administrator shall publish an explanationfor such determination in the Federal Register. Any such determination to not make such an addition shall not preclude the addition of cancer or the certain type of cancer to such list at a later date.
 
 #### (6) Addition of health conditions to list for WTC responders
 
@@ -190,7 +190,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title for an enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001, terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
+&emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title for an enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001,terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the medical facts supporting such determination; and
 
@@ -222,7 +222,7 @@
 
 #### (B) Procedures for review, certification, and appeal
 
-&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinationsunder subparagraph (A). Such rule shall provide for—
+&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinations under subparagraph (A). Such rule shall provide for—
 
 &emsp;&emsp;&emsp;(i) the timely review of such a determination by a physician panel with appropriate expertise for the condition and recommendations to the WTC Program Administrator;
 
@@ -258,7 +258,7 @@
 
 #### (B) Pharmaceutical coverage
 
-&emsp;&emsp;With respect to ensuring coverage of medically necessary outpatient prescription drugs, such drugs shall be provided, under arrangements made by the WTC Program Administrator, directly through participating Clinical Centers of Excellence or through one or more outside vendors.
+&emsp;&emsp;With respect to ensuring coverage of medically necessary outpatient prescriptiondrugs, such drugs shall be provided, under arrangements made by the WTC Program Administrator, directly through participating Clinical Centers of Excellence or through one or more outside vendors.
 
 #### (C) Transportation expenses for nationwide network
 
@@ -284,7 +284,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a ratehigher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
+&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a rate higher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
 
 #### (B) Pharmaceuticals
 

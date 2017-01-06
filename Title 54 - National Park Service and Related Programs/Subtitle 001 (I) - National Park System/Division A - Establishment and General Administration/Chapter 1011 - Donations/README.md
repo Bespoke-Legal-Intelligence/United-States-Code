@@ -23,8 +23,14 @@
 | [101118\.](Subchapter%20002%20%28II%29%20-%20National%20Park%20Foundation/%C2%A7%20101118%20-%20Tax%20exemptions%3B%20contributions%20toward%20costs%20of%20local%20government%3B%20contributions%2C%20gifts%2C%20or%20transfers%20to%20or%20for%20use%20of%20United%20States.md) | Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States. |
 | [101119\.](Subchapter%20002%20%28II%29%20-%20National%20Park%20Foundation/%C2%A7%20101119%20-%20Liability%20of%20United%20States.md) | Liability of United States. |
 | [101120\.](Subchapter%20002%20%28II%29%20-%20National%20Park%20Foundation/%C2%A7%20101120%20-%20Promotion%20of%20local%20fundraising%20support.md) | Promotion of local fundraising support. |
+| [101121\.](Subchapter%20002%20%28II%29%20-%20National%20Park%20Foundation/%C2%A7%20101121%20-%20Second%20Century%20Endowment%20for%20the%20National%20Park%20Service.md) | Second Century Endowment for the National Park Service. |
+| [101122\.](Subchapter%20002%20%28II%29%20-%20National%20Park%20Foundation/%C2%A7%20101122%20-%20Authorization%20of%20appropriations%3B%20use%20of%20funds.md) | Authorization of appropriations; use of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–289, title II, §202(b), title IV, §402(b), Dec. 16, 2016, 130 Stat. 1486, 1488, added items 101121 and 101122.
 
 
 ---

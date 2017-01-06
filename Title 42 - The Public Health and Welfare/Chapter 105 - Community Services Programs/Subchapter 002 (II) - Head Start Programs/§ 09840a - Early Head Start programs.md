@@ -6,7 +6,7 @@ The Secretary shall make grants to entities (referred to in this subchapter as "
 
 #### (b) Scope and design of programs
 
-In carrying out a program described in subsection (a) of this section, an entity receiving assistance under this section shall—
+In carrying out a program described in subsection (a), an entity receiving assistance under this section shall—
 
 &emsp;(1) provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical, social, emotional, and intellectual development of participating children;
 
@@ -30,11 +30,11 @@ In carrying out a program described in subsection (a) of this section, an entity
 
 &emsp;(11) ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), and with the agency responsible for administering section 5106a of this title;
 
-&emsp;(12) meet such other requirements concerning design and operation of the program described in subsection (a) of this section as the Secretary may establish.
+&emsp;(12) meet such other requirements concerning design and operation of the program described in subsection (a) as the Secretary may establish.
 
 #### (c) Persons eligible to participate
 
-Persons who may participate in programs described in subsection (a) of this section include—
+Persons who may participate in programs described in subsection (a) include—
 
 &emsp;(1) pregnant women; and
 
@@ -50,11 +50,11 @@ To be eligible to receive assistance under this section, an entity shall submit 
 
 &emsp;(2) entities operating Indian Head Start programs or migrant or seasonal Head Start programs; and
 
-&emsp;(3) other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
+&emsp;(3) other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet suchother appropriate requirements relating to the activities under this section as the Secretary may establish.
 
 #### (e) Selection of grant recipients
 
-The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) of this section (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
+The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
 
 #### (f) Distribution
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 &emsp;(1) ensure that, not later than September 30, 2010, all teachers providing direct services to children and families participating in Early Head Start programs located in Early Head Start centers, have a minimum of a child development associate credential, and have been trained (or have equivalent coursework) in early childhood development; and
 
-&emsp;(2) establish staff qualification goals to ensure that not later than September 30, 2012, all such teachers have been trained (or have equivalent coursework) in early childhood development with a focus on infant and toddler development.
+&emsp;(2) establish staff qualification goals to ensure that not later than September 30, 2012, allsuch teachers have been trained (or have equivalent coursework) in early childhood development with a focus on infant and toddler development.
 
 #### (i) Staff qualifications and development
 
@@ -190,7 +190,7 @@ Subsec. (b)(7). Pub. L. 105–285, §113(3)(B), struck out "and" at end.
 
 Subsec. (b)(8), (9). Pub. L. 105–285, §113(3)(C), (D), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (c). Pub. L. 105–285, §113(4)(A), substituted "subsection (a) of this section" for "subsection (a)(1) of this section" in introductory provisions.
+Subsec. (c). Pub. L. 105–285, §113(4)(A), substituted "subsection (a)" for "subsection (a)(1)" in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 105–285, §113(4)(B), substituted "3;" for "3 (or under age 5, in the case of children served by an entity specified in subsection (e)(3) of this section);".
 

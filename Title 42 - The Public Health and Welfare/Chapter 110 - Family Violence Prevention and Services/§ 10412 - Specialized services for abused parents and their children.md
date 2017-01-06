@@ -8,7 +8,7 @@
 
 #### (2) Grants
 
-&emsp;The Secretary may make grants to eligible entities through the program established under paragraph (1) for periods of not more than 2 years. If the Secretary determines that an entity has received such a grant and been successful in meeting the objectives of the grant application submitted under subsection (c), the Secretary may renew the grant for 1 additional period of not more than 2 years.
+&emsp;The Secretary may make grants to eligible entities through the program established under paragraph (1) for periods of not more than 2 years. If the Secretary determines thatan entity has received such a grant and been successful in meeting the objectives of the grant application submitted under subsection (c), the Secretary may renew the grant for 1 additional period of not more than 2 years.
 
 #### (b) Eligible entities
 
@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be a local
 
 #### (c) Application
 
-An entity seeking a grant under this section shall submit an application to the Secretary atsuch time, in such manner, and containing such information as the Secretary may reasonably require, including—
+An entity seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—
 
 &emsp;(1) a description of how the entity will prioritize the safety of, and confidentiality of information about—
 

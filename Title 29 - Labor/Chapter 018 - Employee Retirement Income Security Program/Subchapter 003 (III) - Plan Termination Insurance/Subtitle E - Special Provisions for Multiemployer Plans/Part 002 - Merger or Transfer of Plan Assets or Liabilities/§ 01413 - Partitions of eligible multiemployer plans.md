@@ -26,7 +26,7 @@ For purposes of this section, a multiemployer plan is an eligible multiemployer 
 
 #### (c) Transfer of liabilities
 
-The corporation's partition order shall provide for a transfer to the plan referenced in subsection (d)(1) of the minimum amount of theplan's liabilities necessary for the plan to remain solvent.
+The corporation's partition order shall provide for a transfer to the plan referenced in subsection (d)(1) of the minimum amount of the plan's liabilities necessary for the plan to remain solvent.
 
 #### (d) Plans created by partition orders
 

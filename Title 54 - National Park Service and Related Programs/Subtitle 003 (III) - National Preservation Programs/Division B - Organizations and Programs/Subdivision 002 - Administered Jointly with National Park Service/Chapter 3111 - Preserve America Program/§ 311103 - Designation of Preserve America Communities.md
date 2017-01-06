@@ -6,7 +6,7 @@ Application.—To be considered for designation as a Preserve America Community,
 
 (b)
 
-Criteria.—To be designated as a Preserve America Community under the program, a community, tribal area, or neighborhood that submits an application under subsection (a) shall, as determined by the Council, in consultation with the Secretary, meet criteria required by the Council and, in addition, consider—
+Criteria.—To be designated as a Preserve America Community under the program, a community, tribal area, or neighborhood that submits an application under subsection (a) shall, as determined by the Chairman of the Council, in consultation with the Secretary, meet criteria required by the Chairman of the Council and, in addition, consider—
 
 &emsp;(1) protection and celebration of the heritage of the community, tribal area, or neighborhood;
 
@@ -20,9 +20,9 @@ Local Governments Previously Certified for Historic Preservation Activities.—T
 
 (d)
 
-Guidelines.—The Council, in consultation with the Secretary, shall establish any guidelines that are necessary to carry out this section.
+Guidelines.—The Chairman of the Council, in consultation with the Secretary, shall establish any guidelines that are necessary to carry out this section.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3248.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3248; Pub. L. 114–289, title V, §501(d), Dec. 16, 2016, 130 Stat. 1490.)
 
 Historical and Revision Notes
 
@@ -39,4 +39,10 @@ Historical and Revision Notes
 16 U.S.C. 469n(d).
 
 Pub. L. 111–11, title VII, subtitle D, §7302(d), Mar. 30, 2009, 123 Stat. 1215.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–289 substituted "Chairman of the Council" for "Council" in two places in introductory provisions.
+
+Subsec. (d). Pub. L. 114–289 substituted "Chairman of the Council" for "Council".
 

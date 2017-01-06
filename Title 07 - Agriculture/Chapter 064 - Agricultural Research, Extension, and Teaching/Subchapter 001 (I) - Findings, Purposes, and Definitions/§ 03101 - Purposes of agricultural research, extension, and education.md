@@ -14,7 +14,7 @@ The purposes of federally supported agricultural research, extension, and educat
 
 &emsp;(6) improve the safe production and processing of, and adding of value to, United States food and fiber resources using methods that maintain the balance between yield and environmental soundness;
 
-&emsp;(7) support higher education in agriculture to give the next generation of Americans the knowledge, technology, and applications necessary to enhance the competitiveness of United States agriculture; and
+&emsp;(7) support higher education in agriculture to give the next generation of Americans theknowledge, technology, and applications necessary to enhance the competitiveness of United States agriculture; and
 
 &emsp;(8) maintain an adequate, nutritious, and safe supply of food to meet human nutritional needs and requirements.
 
@@ -46,7 +46,7 @@ Pub. L. 97–98, title XIV, §1401, Dec. 22, 1981, 95 Stat. 1294, provided that:
 
 #### Short Title
 
-Pub. L. 95–113, title XIV, §1401, Sept. 29, 1977, 91 Stat. 981, provided that: "This title \[enacting this chapterand sections 2669 and 2670 of this title, amending sections 341, 342, 343, 361c, 390 to 390j, 427, 450i, 1923, 1942, 2662, 2663, and 2667 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealing section 390k of this title\] may be cited as the 'National Agricultural Research, Extension, and Teaching Policy Act of 1977'."
+Pub. L. 95–113, title XIV, §1401, Sept. 29, 1977, 91 Stat. 981, provided that: "This title \[enacting this chapter and sections 2669 and 2670 of this title, amending sections 341, 342, 343, 361c, 390 to 390j, 427, 450i, 1923, 1942, 2662, 2663, and 2667 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealing section 390k of this title\] may be cited as the 'National Agricultural Research, Extension, and Teaching Policy Act of 1977'."
 
 #### Review of Agricultural Research Service
 
@@ -112,7 +112,7 @@ Duties.—The Task Force shall—
 
 "(d)
 
-Reports.—Not later than 12 months after the date of enactment of this Act \[May 13, 2002\], the Task Force shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Secretary—
+Reports.—Not later than 12 months after the date of enactment of this Act \[May 13, 2002\], the Task Force shall submit to the Committee on Agriculture ofthe House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Secretary—
 
 &emsp;"(1) a report on the review and evaluation required under subsection (c)(1); and
 

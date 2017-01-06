@@ -16,19 +16,29 @@ For purposes of the Program, the Secretary of Defense may obligate and expend Co
 
 #### (b) Congressional notification
 
-At the time at which the Secretary obligates funds under subsection (a) for a project or activity, the Secretary of Defense shall notify, in writing, the congressional defense committees and the Secretary of State shall notify, in writing, the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of the determinations made under such subsection with respect to such project or activity, together with—
+Not later than 15 days before the date on which the Secretary obligates funds under subsection (a) for a project or activity, the Secretary of Defense shall notify, in writing, the congressional defense committees and the Secretary of State shall notify, in writing, the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of the determinations made under such subsection with respect to such project or activity, together with—
 
-&emsp;(1) a justification for such determinations; and
+&emsp;(1) a justification for such determinations;
 
-&emsp;(2) a description of the scope and duration of such project or activity.
+&emsp;(2) a description of the scope and duration of such project or activity; and
+
+&emsp;(3) a discussion of—
+
+&emsp;&emsp;(A) whether authorities other than the authority under this section are available to the Secretaries to perform such project or activity to meet the threats or goals identified under subsection (a)(1); and
+
+&emsp;&emsp;(B) if such other authorities exist, why the Secretaries were not able to use such authorities for such project or activity.
 
 #### (c) Non-defense agency partner-nation contacts
 
-With respect to military-to-military and defense contacts carried out under subsection\(a)(6) of section 3711 of this title, as further described in subsection (f) of such section, concurrence of the Secretary of State under subsection (a) is required only for participation in such contacts by personnel from non-defense agencies of foreign countries.
+With respect to military-to-military and defense contacts carried out under subsection (a)(6) of section 3711 of this title, as further described in subsection (f) of such section, concurrence of the Secretary of State under subsection (a) is required only for participation in such contacts by personnel from non-defense agencies of foreign countries.
 
 #### (d) Exception to requirement for certain determinations
 
 The requirement for a determination under subsection (a) shall not apply to a state of the former Soviet Union.
 
-(Pub. L. 113–291, div. A, title XIII, §1322, Dec. 19, 2014, 128 Stat. 3597.)
+(Pub. L. 113–291, div. A, title XIII, §1322, Dec. 19, 2014, 128 Stat. 3597; Pub. L. 114–328, div. A, title XIII, §1302(b)(2), Dec. 23, 2016, 130 Stat. 2566.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–328 substituted "Not later than 15 days before the date on which" for "At the time at which" in introductory provisions and added par. (3).
 

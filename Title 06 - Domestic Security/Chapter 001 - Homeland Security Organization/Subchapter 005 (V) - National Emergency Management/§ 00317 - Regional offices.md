@@ -14,7 +14,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 #### (A) In general
 
-&emsp;&emsp;Each Regional Administrator shall be appointed from among individuals who have ademonstrated ability in and knowledge of emergency management and homeland security.
+&emsp;&emsp;Each Regional Administrator shall be appointed from among individuals who have a demonstrated ability in and knowledge of emergency management and homeland security.
 
 #### (B) Considerations
 

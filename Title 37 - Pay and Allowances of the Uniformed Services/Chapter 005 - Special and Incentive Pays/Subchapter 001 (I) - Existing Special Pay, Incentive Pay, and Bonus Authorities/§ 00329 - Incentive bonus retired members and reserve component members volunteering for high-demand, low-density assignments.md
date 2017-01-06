@@ -2,7 +2,7 @@
 
 (a)
 
-Incentive Bonus Authorized.—The Secretary of Defense may pay a bonus under this section to a retired member or former member of the Army, Navy, Air Force, or Marine Corps or to a member of a reserve component of the Army, Navy, Air Force, or Marine Corps (who isnot otherwise serving on active duty) who executes a written agreement to serve on active duty for a period specified in the agreement in an assignment intended to alleviate the need for members in a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements.
+Incentive Bonus Authorized.—The Secretary of Defense may pay a bonus under this section to a retired member or former member of the Army, Navy, Air Force, or Marine Corps or to a member of a reserve component of the Army, Navy, Air Force, or Marine Corps (who is not otherwise serving on active duty) who executes a written agreement to serve on active duty for a period specified in the agreement in an assignment intended to alleviate the need for members in a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements.
 
 (b)
 

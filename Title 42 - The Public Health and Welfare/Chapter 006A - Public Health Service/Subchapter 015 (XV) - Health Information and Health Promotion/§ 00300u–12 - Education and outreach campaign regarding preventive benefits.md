@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall provide for the planning and implementation of a national public–private partnership for a prevention and health promotion outreach and education campaign to raise public awareness of health improvement across the life span. Such campaign shall include the dissemination of information that—
+The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall provide for the planning and implementation of a national public–private partnership for a prevention and health promotion outreach and education campaign to raise public awareness of health improvement across the life span. Suchcampaign shall include the dissemination of information that—
 
 &emsp;(1) describes the importance of utilizing preventive services to promote wellness, reduce health disparities, and mitigate chronic disease;
 
@@ -46,7 +46,7 @@ In coordinating the campaign under subsection (a), the Secretary shall consult w
 
 #### (d) Website
 
-The Secretary, in consultation with private-sector experts, shall maintain or enter into a contract to maintain an Internet website to provide science-based information on guidelines fornutrition, regular exercise, obesity reduction, smoking cessation, and specific chronic disease prevention. Such website shall be designed to provide information to health care providers and consumers.
+The Secretary, in consultation with private-sector experts, shall maintain or enter into a contract to maintain an Internet website to provide science-based information on guidelines for nutrition, regular exercise, obesity reduction, smoking cessation, and specific chronic disease prevention. Such website shall be designed to provide information to health care providers and consumers.
 
 #### (e) Dissemination of information through providers
 

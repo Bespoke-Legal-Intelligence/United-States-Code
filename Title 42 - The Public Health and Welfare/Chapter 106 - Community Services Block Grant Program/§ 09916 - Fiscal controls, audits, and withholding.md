@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) establish fiscal control and fund accounting procedures necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this chapter, including procedures for monitoring the funds provided under this chapter;
 
-&emsp;&emsp;(B) ensure that cost and accounting standards of the Office of Management and Budgetapply to a recipient of the funds under this chapter;
+&emsp;&emsp;(B) ensure that cost and accounting standards of the Office of Management and Budget apply to a recipient of the funds under this chapter;
 
 &emsp;&emsp;(C) subject to paragraph (2), prepare, at least every year, an audit of the expenditures of the State of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter; and
 
@@ -18,7 +18,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), each audit required by subsection (a)(1)(C) of this section shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
+&emsp;&emsp;Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
 
 #### (B) Single audit requirements
 

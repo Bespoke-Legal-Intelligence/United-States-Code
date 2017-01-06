@@ -46,7 +46,7 @@ All covered grants shall be subject to the following accountability provisions:
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit organization that is awarded a covered grant and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subsection available for public inspection.
+&emsp;&emsp;Each nonprofit organization that is awarded a covered grant and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make theinformation disclosed under this subsection available for public inspection.
 
 #### (3) Conference expenditures
 

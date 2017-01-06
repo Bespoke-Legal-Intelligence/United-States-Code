@@ -30,7 +30,7 @@ In this part:
 
 #### (3) Payment
 
-&emsp;The term "payment" means financial assistance provided to a producer for performing practices under this part, including compensation for—
+&emsp;The term "payment" means financial assistance provided to a producer for performingpractices under this part, including compensation for—
 
 &emsp;&emsp;(A) incurred costs associated with planning, design, materials, equipment, installation, labor, management, maintenance, or training; and
 
@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. L. 104–127, title III, §334, Apr. 4,1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
 

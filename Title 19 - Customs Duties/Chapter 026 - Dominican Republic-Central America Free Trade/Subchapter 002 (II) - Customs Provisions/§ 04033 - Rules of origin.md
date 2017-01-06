@@ -217,7 +217,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
 
-&emsp;&emsp;&emsp;(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
+&emsp;&emsp;&emsp;(ii) calculating the total cost incurred with respect to all goods produced by thatproducer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
 
 &emsp;&emsp;&emsp;(iii) reasonably allocating each cost that forms part of the total cost incurred with respect to the automotive good so that the aggregate of all such costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
 
@@ -265,7 +265,7 @@ nc
 
 #### (1) Originating materials used in production of goods of another country
 
-&emsp;Originating materials from the territory of one or more of the CAFTA–DR countries thatare used in the production of a good in the territory of another CAFTA–DR country shall be considered to originate in the territory of that other country.
+&emsp;Originating materials from the territory of one or more of the CAFTA–DR countries that are used in the production of a good in the territory of another CAFTA–DR country shall be considered to originate in the territory of that other country.
 
 #### (2) Multiple procedures
 
@@ -347,7 +347,7 @@ nc
 
 #### (A) Claim for preferential tariff treatment
 
-&emsp;&emsp;A person claiming that a fungible good or fungible material is an originating good maybase the claim either on the physical segregation of the fungible good or fungible material or by using an inventory management method with respect to the fungible good or fungible material.
+&emsp;&emsp;A person claiming that a fungible good or fungible material is an originating good may base the claim either on the physical segregation of the fungible good or fungible material or by using an inventory management method with respect to the fungible good or fungible material.
 
 #### (B) Inventory management method
 
@@ -377,7 +377,7 @@ nc
 
 &emsp;&emsp;(A) be treated as originating goods if the good is an originating good; and
 
-&emsp;&emsp;(B) be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement.
+&emsp;&emsp;(B) be disregarded in determining whether all the nonoriginating materials used in theproduction of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement.
 
 #### (2) Conditions
 
@@ -437,7 +437,7 @@ In this section:
 
 &emsp;&emsp;(A) the United States; and
 
-&emsp;&emsp;(B) Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua, for such time as the Agreement is inforce between the United States and that country.
+&emsp;&emsp;(B) Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua, for such time as the Agreement is in force between the United States and that country.
 
 #### (3) Class of motor vehicles
 
@@ -547,7 +547,7 @@ In this section:
 
 #### (15) Packing materials and containers for shipment
 
-&emsp;The term "packing materials and containers for shipment" means the goods used to protect a good during its transportation and does not include the packaging materials and containers in which a good is packaged for retail sale.
+&emsp;The term "packing materials and containers for shipment" means the goods used to protecta good during its transportation and does not include the packaging materials and containers in which a good is packaged for retail sale.
 
 #### (16) Preferential tariff treatment
 
@@ -617,7 +617,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex3.25 of the Agreement may be modified as provided for in this paragraph.
+&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex 3.25 of the Agreement may be modified as provided for in this paragraph.
 
 #### (B) Definitions
 
@@ -691,7 +691,7 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2,2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 This subchapter, referred to in subsec. (o)(1)(B), was in the original "this title" meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 

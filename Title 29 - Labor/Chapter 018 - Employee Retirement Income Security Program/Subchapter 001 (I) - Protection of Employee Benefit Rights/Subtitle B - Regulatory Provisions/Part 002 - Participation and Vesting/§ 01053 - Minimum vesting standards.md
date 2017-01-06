@@ -74,7 +74,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 #### (b) Computation of period of service
 
-(1) In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee's years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
+(1) In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2), all of an employee's years of service with theemployer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
 
 &emsp;(A) years of service before age 18,<sup>2</sup>
 
@@ -164,11 +164,11 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 #### (c) Plan amendments altering vesting schedule
 
-(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
-(B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
+(B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
-(2) Subsection (a) of this section shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26.
+(2) Subsection (a) shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26.
 
 #### (d) Nonforfeitable benefits after lesser period and in greater amounts than required
 
@@ -212,7 +212,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 &emsp;&emsp;The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
-(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug.20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §108(a)(4), formerly §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
+(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L.107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §108(a)(4), formerly §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
 
 #### References in Text
 
@@ -274,7 +274,7 @@ Subsec. (a)(3)(D)(v). Pub. L. 101–239, §7894(c)(3), substituted "nonforfeitab
 
 Subsec. (a)(3)(F). Pub. L. 101–239, §7861(a)(5)(B), added subpar. (F).
 
-Subsec. (b)(1)(A). Pub. L. 101–239, §7861(a)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "years of service before age 18, except that in case of a plan which does not satisfy subparagraph (A) or (B) of subsection (a)(2) of this section, the plan may not disregard any such year of service during which the employee was a participant;".
+Subsec. (b)(1)(A). Pub. L. 101–239, §7861(a)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "years of service before age 18, except that in case of a plan which does not satisfy subparagraph (A) or (B) of subsection (a)(2), the plan may not disregard any such year of service during which the employee was a participant;".
 
 Subsec. (c)(2). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
@@ -296,7 +296,7 @@ Subsec. (c)(1)(B). Pub. L. 99–514, §1113(e)(4)(A), substituted "3 years" for 
 
 Subsec. (c)(3). Pub. L. 99–514, §1113(e)(2), struck out par. (3) which provided for class year vesting.
 
-Pub. L. 99–514, §1898(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The requirements of subsection (a)(2) of this section shall be deemed to be satisfied in the case of a class year plan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th year following the plan year for which such contributions were made. For purposes of this part, the term 'class year plan' means a profit sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees' rights to or derived from the contributions for each plan year."
+Pub. L. 99–514, §1898(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The requirements of subsection (a)(2) shall be deemed to be satisfied in the case of a class year plan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th year following the plan year for which such contributions were made. For purposes of this part, the term 'class year plan' means a profit sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees' rights to or derived from the contributions for each plan year."
 
 Subsec. (e)(1). Pub. L. 99–514, §1898(d)(1)(B), as amended by Pub. L. 101–239, §7862(d)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "If the present value of any accrued benefit exceeds $3,500, such benefit shall not be treated as nonforfeitable if the plan provides that the present value of such benefit could be immediately distributed without the consent of the participant."
 
@@ -356,7 +356,7 @@ Amendment by sections 7861(a)(1), (5)(B), (6)(B) and 7862(d)(4), (5), (10) of Pu
 
 Amendment by section 7891(a)(1), (b)(1), (2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(c)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to whichsuch amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(c)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1986 Amendment
 

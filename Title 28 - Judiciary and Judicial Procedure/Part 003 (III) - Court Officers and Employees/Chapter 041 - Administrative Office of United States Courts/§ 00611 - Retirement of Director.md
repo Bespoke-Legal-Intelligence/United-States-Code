@@ -16,7 +16,7 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–518, §301(a)(2), substituted "who has at least fifteen years of service and has" for "who has served at least fifteen years and" in first par. and "who has at least ten years of service," for "who has served at least ten years," in second par.
+<b>2000</b>—Subsec. (b). Pub. L. 106–518, §301(a)(2), substituted "who has at least fifteen years of service and has" for "who has served at least fifteen years and" infirst par. and "who has at least ten years of service," for "who has served at least ten years," in second par.
 
 Subsec. (c). Pub. L. 106–518, §301(a)(3), substituted "at least fifteen years of service," for "served at least fifteen years," and "less than fifteen years of service," for "served less than fifteen years,".
 

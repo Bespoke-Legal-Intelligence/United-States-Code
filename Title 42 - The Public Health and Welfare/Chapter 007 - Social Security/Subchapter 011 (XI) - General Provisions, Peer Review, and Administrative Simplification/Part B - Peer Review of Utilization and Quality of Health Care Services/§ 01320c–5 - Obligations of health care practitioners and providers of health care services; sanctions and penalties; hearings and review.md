@@ -2,7 +2,7 @@
 
 #### (a) Assurances regarding services and items ordered or provided by practitioner or provider
 
-It shall be the obligation of any health care practitioner and any other person (including ahospital or other health care facility, organization, or agency) who provides health care services for which payment may be made (in whole or in part) under this chapter, to assure, to the extent of his authority that services or items ordered or provided by such practitioner or person to beneficiaries and recipients under this chapter—
+It shall be the obligation of any health care practitioner and any other person (including a hospital or other health care facility, organization, or agency) who provides health care services for which payment may be made (in whole or in part) under this chapter, to assure, to the extent of his authority that services or items ordered or provided by such practitioner or person to beneficiaries and recipients under this chapter—
 
 &emsp;(1) will be provided economically and only when, and to the extent, medically necessary;
 
@@ -14,11 +14,11 @@ It shall be the obligation of any health care practitioner and any other person 
 
 (1) If after reasonable notice and opportunity for discussion with the practitioner or person concerned, and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan, any organization having a contract with the Secretary under this part determines that such practitioner or person has—
 
-&emsp;(A) failed in a substantial number of cases substantially to comply with any obligation imposed on him under subsection (a) of this section, or
+&emsp;(A) failed in a substantial number of cases substantially to comply with any obligation imposed on him under subsection (a), or
 
 &emsp;(B) grossly and flagrantly violated any such obligation in one or more instances,
 
-> such organization shall submit a report and recommendations to the Secretary. If the Secretary agrees with such determination, the Secretary (in addition to any other sanction provided under law) may exclude (permanently or for such period as the Secretary may prescribe, except that such period may not be less than 1 year) such practitioner or person from eligibility to provide services under this chapter on a reimbursable basis. If the Secretary fails to act upon the recommendations submitted to him by such organization within 120 days after such submission, such practitioner or person shall be excluded from eligibility to provide services on a reimbursable basis until such time as the Secretary determines otherwise.
+> such organization shall submit a report and recommendations to the Secretary. If the Secretary agrees with such determination, the Secretary (in addition to any other sanction provided under law) may exclude (permanently or for such period as the Secretary may prescribe, except that such period may not be less than 1 year) such practitioner or person from eligibility to provide services under this chapter on a reimbursable basis. If the Secretary fails to act upon the recommendations submitted to him by such organization within 120 days aftersuch submission, such practitioner or person shall be excluded from eligibility to provide services on a reimbursable basis until such time as the Secretary determines otherwise.
 
 (2) A determination made by the Secretary under this subsection to exclude a practitioner or person shall be effective on the same date and in the same manner as an exclusion from participation under the programs under this chapter becomes effective under section 1320a–7(c) of this title, and shall (subject to the minimum period specified in the second sentence of paragraph (1)) remain in effect until the Secretary finds and gives reasonable notice to the public that the basis for such determination has been removed and that there is reasonable assurance that it will not recur.
 
@@ -32,9 +32,9 @@ It shall be the obligation of any health care practitioner and any other person 
 
 #### (c) Enlistment of support of other organizations to assure practitioner's or provider's compliance with obligations
 
-It shall be the duty of each quality improvement organization to use such authority or influence it may possess as a professional organization, and to enlist the support of any other professional or governmental organization having influence or authority over health care practitioners and any other person (including a hospital or other health care facility, organization, or agency) providing health care services in the area served by such review organization, in assuring that each practitioner or person (referred to in subsection (a) of this section) providing health care services in such area shall comply with all obligations imposed on him under subsection (a) of this section.
+It shall be the duty of each quality improvement organization to use such authority or influence it may possess as a professional organization, and to enlist the support of any other professional or governmental organization having influence or authority over health care practitioners and any other person (including a hospital or other health care facility, organization, or agency) providing health care services in the area served by such review organization, in assuring that each practitioner or person (referred to in subsection (a)) providing health care services in such area shall comply with all obligations imposed on him under subsection (a).
 
-(Aug. 14, 1935, ch. 531, title XI, §1156, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.388; amended Pub. L. 100–93, §6, Aug. 18, 1987, 101 Stat. 691; Pub. L. 100–203, title IV, §4095(a), Dec. 22, 1987, 101 Stat. 1330–138; Pub. L. 100–203, title IV, §4039(h)(5), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; Pub. L. 101–508, title IV, §4205(a)(1), (d)(2)(A), Nov. 5, 1990, 104 Stat. 1388–112, 1388–114; Pub. L. 101–597, title IV, §401(c)(1), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–432, title I, §156(b)(1), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–191, title II, §§214, 231(f), Aug. 21, 1996, 110 Stat. 2005, 2014; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XI, §1156, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 388; amended Pub. L. 100–93, §6, Aug. 18, 1987, 101 Stat. 691; Pub. L. 100–203, title IV, §4095(a), Dec. 22, 1987, 101 Stat. 1330–138; Pub. L. 100–203, title IV, §4039(h)(5), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; Pub. L. 101–508, title IV, §4205(a)(1), (d)(2)(A), Nov. 5, 1990, 104 Stat. 1388–112, 1388–114; Pub. L. 101–597, title IV, §401(c)(1), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–432, title I, §156(b)(1), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–191, title II, §§214, 231(f), Aug. 21, 1996, 110 Stat. 2005, 2014; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 
@@ -104,7 +104,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4095(b), Dec. 22, 1987, 101 Stat. 1330–138, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[42 U.S.C. 1320c–5(b)\] on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4095(b), Dec. 22, 1987, 101 Stat. 1330–138, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[42 U.S.C. 1320c–5(b)\] on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

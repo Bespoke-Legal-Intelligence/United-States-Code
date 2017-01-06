@@ -2,7 +2,7 @@
 
 #### (a) Grant program authorized
 
-The Attorney General may carry out a grant program under which the Attorney General may make grants to States, units of local government, territories, Indian Tribes, and other public and private entities to—
+The Attorney General may carry out a grant program under which the Attorney General maymake grants to States, units of local government, territories, Indian Tribes, and other public and private entities to—
 
 &emsp;(1) evaluate methods to improve academic and vocational education for offenders in prisons, jails, and juvenile facilities;
 

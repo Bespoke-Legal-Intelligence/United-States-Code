@@ -14,7 +14,7 @@ Determination of conflicting interests.—An agency shall determine whether a pe
 
 (b)
 
-Services and Facilities of Other Entities.—For purposes of this subchapter, an agency may use the services and facilities of other Federal agencies and public and private agencies and instrumentalities with the consent of such agencies and instrumentalities, and with or without reimbursement to such agencies and instrumentalities, and may accept voluntary anduncompensated services without regard to the provisions of section 1342 of title 31. The Federal Mediation and Conciliation Service may provide services and facilities, with or without reimbursement, to assist agencies under this subchapter, including furnishing conveners, facilitators, and training in negotiated rulemaking.
+Services and Facilities of Other Entities.—For purposes of this subchapter, an agency may use the services and facilities of other Federal agencies and public and private agencies and instrumentalities with the consent of such agencies and instrumentalities, and with or without reimbursement to such agencies and instrumentalities, and may accept voluntary and uncompensated services without regard to the provisions of section 1342 of title 31. The Federal Mediation and Conciliation Service may provide services and facilities, with or without reimbursement, to assist agencies under this subchapter, including furnishing conveners, facilitators, and training in negotiated rulemaking.
 
 (c)
 
@@ -28,7 +28,7 @@ Expenses of Committee Members.—Members of a negotiated rulemaking committee sh
 
 Status of Member as Federal Employee.—A member's receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amended Pub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amendedPub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
 
 #### References in Text
 

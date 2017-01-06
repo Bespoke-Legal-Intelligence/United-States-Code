@@ -2,7 +2,7 @@
 
 #### (a) Allotments to States, territories, and Indian tribes
 
-The Corporation, in consultation with the Secretary of Education, may make allotments toState educational agencies, territories, and Indian tribes to pay for the Federal share of—
+The Corporation, in consultation with the Secretary of Education, may make allotments to State educational agencies, territories, and Indian tribes to pay for the Federal share of—
 
 &emsp;(1) planning and building the capacity within the State, territory, or Indian tribe involved to implement service-learning programs that are based principally in elementary schools and secondary schools, including—
 
@@ -78,7 +78,7 @@ An entity that receives financial assistance under this part from a State, terri
 
 #### (d) Special rule
 
-A State educational agency described in section 12522(2)(A) of this title may designate a statewide entity (which may be a community-based entity) with demonstrated experience in supporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
+A State educational agency described in section 12522(2)(A) of this title may designate astatewide entity (which may be a community-based entity) with demonstrated experience in supporting or implementing service-learning programs, to receive the State educational agency's allotment under this part, and carry out the functions of the agency under this part.
 
 #### (e) Consultation with Secretary of Education
 

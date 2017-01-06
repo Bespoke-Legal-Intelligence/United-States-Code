@@ -5606,7 +5606,7 @@ Pub. L. 102–83, §7, Aug. 6, 1991, 105 Stat. 410, provided that:
 
 "(a)
 
-References to Replaced Laws.—A reference to a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 \[enacting chapters 3, 5, 7, 9, and 77 of this title, amending sections 618, 621, 654, 1521, 1685, 1833, 2003A, 2014, 5701, 7101, and 7455 of this title, and repealing former chapter 3 of this title\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
+References to Replaced Laws.—A reference to a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 \[enacting chapters 3, 5, 7, 9, and 77 of this title, amending sections 618, 621, 654, 1521, 1685, 1833, 2003A, 2014 \[now 4214\], 5701, 7101, and 7455 of this title, and repealing former chapter 3 of this title\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
 
 "(b)
 

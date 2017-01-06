@@ -14,7 +14,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (A) In general
 
-&emsp;&emsp;If a certification is issued under subparagraph (B) and notice of the right to judicialreview under subsection (d) is provided, no consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose or specify in any consumer report, that a government agency described in subsection (a) has sought or obtained access to information or records under subsection (a).
+&emsp;&emsp;If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose or specify in any consumer report, that a government agency described in subsection (a) has sought or obtained access to information or records under subsection (a).
 
 #### (B) Certification
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–23, §501(d), substituted "analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information." for "analysis."
+<b>2015</b>—Subsec. (a). Pub. L. 114–23, §501(d), substituted "analysis and that includes a term that specificallyidentifies a consumer or account to be used as the basis for the production of such information." for "analysis."
 
 Subsec. (c). Pub. L. 114–23, §502(d), added subsec. (c) and struck out former subsec. (c) which related to confidentiality.
 

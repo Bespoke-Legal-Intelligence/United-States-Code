@@ -18,7 +18,7 @@ To carry out the activities of the Museum, the Secretary may—
 
 &emsp;(4) exhibit, perform, display, and publish materials and information of or relating to the Museum in any media or place;
 
-&emsp;(5) consistent with guidelines approved by the Secretary, lease space on the premises of the Museum at reasonable rates and for uses consistent with such guidelines; and
+&emsp;(5) consistent with guidelines approved by the Secretary, lease space on the premises ofthe Museum at reasonable rates and for uses consistent with such guidelines; and
 
 &emsp;(6) use the proceeds of activities authorized under this section to pay the costs of the Museum.
 

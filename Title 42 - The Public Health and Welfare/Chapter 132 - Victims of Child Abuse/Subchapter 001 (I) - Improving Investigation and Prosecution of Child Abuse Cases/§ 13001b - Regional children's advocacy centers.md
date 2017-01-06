@@ -64,7 +64,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;In order for a proposal to be selected, the Administrator may require an applicant to have in existence, at the time the proposal is submitted, 1 or more of the following:
 
-&emsp;&emsp;(A) A proven record in conducting activities of the kinds described in subsection (c) of this section.
+&emsp;&emsp;(A) A proven record in conducting activities of the kinds described in subsection (c).
 
 &emsp;&emsp;(B) A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
 
@@ -118,7 +118,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;&emsp;&emsp;(ii) assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse;
 
-&emsp;&emsp;&emsp;(iii) carry out the objectives developed by the board under subsection (e)(2)(A) of this section;
+&emsp;&emsp;&emsp;(iii) carry out the objectives developed by the board under subsection (e)(2)(A);
 
 &emsp;&emsp;&emsp;(iv) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
 
@@ -154,7 +154,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (B) Solicitation of new proposals
 
-&emsp;&emsp;Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c) of this section.
+&emsp;&emsp;Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 
 #### (e) Children's advocacy advisory board
 
@@ -180,7 +180,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (A) Objectives
 
-&emsp;&emsp;Not later than 180 days after November 4, 1992, and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children's advocacy program activities described in subsection (b) of this section.
+&emsp;&emsp;Not later than 180 days after November 4, 1992, and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children's advocacy program activities described in subsection (b).
 
 #### (B) Review
 

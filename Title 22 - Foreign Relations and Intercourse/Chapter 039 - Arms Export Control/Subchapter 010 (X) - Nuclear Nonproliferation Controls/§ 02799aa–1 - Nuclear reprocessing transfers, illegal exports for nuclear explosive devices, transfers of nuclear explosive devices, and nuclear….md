@@ -124,7 +124,7 @@ Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: "The ame
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905,set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 #### Waiver of Certain Sanctions Against North Korea
 
@@ -184,7 +184,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives."
 
-\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
+\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 ofPub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 
@@ -230,7 +230,7 @@ Reporting requirement.—Not later than 60 days after the date of the enactment 
 
 "(e)
 
-Congressional Notification.—The issuance of a license for export of a defense article, defense service,or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
+Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
 
 "(f)
 

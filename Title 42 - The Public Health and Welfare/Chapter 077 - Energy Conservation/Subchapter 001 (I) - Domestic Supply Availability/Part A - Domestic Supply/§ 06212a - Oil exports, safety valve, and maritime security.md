@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, except as provided in subsections (c
 
 #### (c) Savings clause
 
-Nothing in this section limits the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or regulations issued under that Act (other than section 754.2 of title 15, Code of Federal Regulations), the National Emergencies Act (50 U.S.C. 1601 et seq.), part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271 et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
+Nothing in this section limits the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or regulations issued under that Act (other than section 754.2 of title 15, Code of Federal Regulations), the NationalEmergencies Act (50 U.S.C. 1601 et seq.), part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271 et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
 
 #### (d) Exceptions and presidential authority
 
@@ -38,7 +38,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (c), is 
 
 The National Emergencies Act, referred to in subsec. (c), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Energy Policy and Conservation Act, referred to in subsec. (c), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat.871. Part B of title II of the Act is classified generally to part B (§6271 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (c), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title II of the Act is classified generally to part B (§6271 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Trading With the Enemy Act, referred to in subsec. (c), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 

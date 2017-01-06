@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-In making grants under section 300ff–51 of this title, the Secretary shall give preference to any qualified applicant experiencing an increase in the burden of providing services regarding HIV/AIDS, as indicated by the factors specified in subsection (b) of this section.
+In making grants under section 300ff–51 of this title, the Secretary shall give preference to any qualified applicant experiencing an increase in the burden of providing services regarding HIV/AIDS, as indicated by the factors specified in subsection (b).
 
 #### (b) Specification of factors
 
 #### (1) In general
 
-&emsp;In the case of the geographic area with respect to which the entity involved is applying for a grant under section 300ff–51 of this title, the factors referred to in subsection (a) of this section, as determined for the period specified in paragraph (2), are—
+&emsp;In the case of the geographic area with respect to which the entity involved is applying for a grant under section 300ff–51 of this title, the factors referred to in subsection (a), as determined for the period specified in paragraph (2), are—
 
 &emsp;&emsp;(A) the number of cases of HIV/AIDS;
 
@@ -30,7 +30,7 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 #### (c) Equitable allocations
 
-In providing preferences for purposes of subsection (b) of this section, the Secretary shall equitably allocate the preferences among urban and rural areas.
+In providing preferences for purposes of subsection (b), the Secretary shall equitably allocate the preferences among urban and rural areas.
 
 #### (d) Certain areas
 
@@ -44,7 +44,7 @@ Of the applicants who qualify for preference under this section—
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

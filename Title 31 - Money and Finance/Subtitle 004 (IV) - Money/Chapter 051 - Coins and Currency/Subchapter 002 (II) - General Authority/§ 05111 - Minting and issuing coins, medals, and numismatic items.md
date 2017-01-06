@@ -18,7 +18,7 @@ Procurements Relating to Coin Production.—
 
 &emsp;(1)
 
-In general.—The Secretary may make contracts, on conditions the Secretary decides are appropriate and are in the public interest,to acquire articles, materials, supplies, and services (including equipment, manufacturing facilities, patents, patent rights, technical knowledge, and assistance) necessary to produce the coins referred to in this title.
+In general.—The Secretary may make contracts, on conditions the Secretary decides are appropriate and are in the public interest, to acquire articles, materials, supplies, and services (including equipment, manufacturing facilities, patents, patent rights, technical knowledge, and assistance) necessary to produce the coins referred to in this title.
 
 &emsp;(2)
 
@@ -32,7 +32,7 @@ Determination.—
 
 &emsp;&emsp;(A)
 
-In general.—Any determination of the Secretary referred to in paragraph (2) shall not be reviewable in any administrative proceeding or court of the United States.
+In general.—Any determination of the Secretary referred to in paragraph (2) shallnot be reviewable in any administrative proceeding or court of the United States.
 
 &emsp;&emsp;(B)
 
@@ -138,7 +138,7 @@ In subsection (a)(2), the words "Secretary of the Treasury" are substituted for 
 
 In subsection (a)(3), the words "numismatic items" are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words "In connection with the operations of the Bureau of the Mint" are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
-In subsection (a)(4), the words "may mint" are substituted for "It shall be lawful for coinage to be executed" in 31:367, and the words "regular minting operations" are substituted for "required coinage of the United States", for consistency in the revised section. The words "at the mints of the United States" and "according to the legally prescribed standards and devices of such country" are omitted as unnecessary because ofthe restatement. The words "The Secretary of the Treasury . . . shall prescribe a charge" are substituted for "the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The words "minting the foreign coins" are substituted for "the same", for clarity. The words "under such regulations as the Secretary of the Treasury may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
+In subsection (a)(4), the words "may mint" are substituted for "It shall be lawful for coinage to be executed" in 31:367, and the words "regular minting operations" are substituted for "required coinage of the United States", for consistency in the revised section. The words "at the mints of the United States" and "according to the legally prescribed standards and devices of such country" are omitted as unnecessary because of the restatement. The words "The Secretary of the Treasury . . . shall prescribe a charge" are substituted for "the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The words "minting the foreign coins" are substituted for "the same", for clarity. The words "under such regulations as the Secretary of the Treasury may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
 
 In subsection (b), the first sentence is added for clarity and because of the restatement. The words "amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal" are substituted for "gain arising from the coinage of metals purchased out of such fund into coin of a nominal value exceeding the cost of such metals" to eliminate unnecessary words. The words "The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund" are substituted for "such sums as shall from time to time be transferred therefrom to the general fund of the Treasury" for clarity and for consistency in the revised title.
 
@@ -167,6 +167,10 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 114–269, Dec. 14, 2016, 130 Stat. 1391, recognizing the Office of Strategic Services.
+
+Pub. L. 114–265, Dec. 14, 2016, 130 Stat. 1376, recognizing Filipino Veterans of World War II.
 
 Pub. L. 114–5, Mar. 7, 2015, 129 Stat. 78, recognizing Foot Soldiers who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March in March, 1965.
 

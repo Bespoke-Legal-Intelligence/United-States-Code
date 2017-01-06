@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is made by the administering authority under section 1673b(b) of this title during the 8-year period preceding the filing of the petition under this section in the course of an investigation for which no final determination is made under section 1673d of this title by reason of a suspension of the investigation under section 1673c of this title, and
 
-&emsp;&emsp;&emsp;(ii) includes a determination that the estimated average amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise is not less than 15 percent ad valorem.
+&emsp;&emsp;&emsp;(ii) includes a determination that the estimated average amount by which thenormal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise is not less than 15 percent ad valorem.
 
 #### (3) Subject of affirmative dumping determination
 

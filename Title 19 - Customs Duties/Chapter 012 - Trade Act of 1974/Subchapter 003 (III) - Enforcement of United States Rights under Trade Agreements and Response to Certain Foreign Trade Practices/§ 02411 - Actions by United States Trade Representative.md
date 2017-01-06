@@ -8,7 +8,7 @@
 
 &emsp;(B) an act, policy, or practice of a foreign country—
 
-&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits tothe United States under, any trade agreement, or
+&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
@@ -54,7 +54,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 #### (c) Scope of authority
 
-(1) For purposes of carrying out the provisions of subsection (a) or (b), the Trade Representative is authorized to—
+(1) For purposes of carrying out the provisions of subsection (a) or (b) or section 2416(c) of this title, the Trade Representative is authorized to—
 
 &emsp;(A) suspend, withdraw, or prevent the application of, benefits of trade agreement concessions to carry out a trade agreement with the foreign country referred to in such subsection;
 
@@ -134,7 +134,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(IV) market opportunities, including the toleration by a foreign government of systematic anticompetitive activities by enterprises or among enterprises in the foreign country that have the effect of restricting, on a basis that is inconsistent with commercial considerations, access of United States goods or services to a foreign market,
 
-&emsp;&emsp;(ii) constitutes export targeting, or
+&emsp;&emsp;(ii) constitutes export targeting,
 
 &emsp;&emsp;(iii) constitutes a persistent pattern of conduct that—
 
@@ -146,7 +146,9 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(IV) fails to provide a minimum age for the employment of children, or
 
-&emsp;&emsp;&emsp;(V) fails to provide standards for minimum wages, hours of work, and occupational safety and health of workers.
+&emsp;&emsp;&emsp;(V) fails to provide standards for minimum wages, hours of work, and occupational safety and health of workers, or
+
+&emsp;&emsp;(iv) constitutes a persistent pattern of conduct by the government of a foreign country under which that government fails to effectively enforce commitments under agreements to which the foreign country and the United States are parties, including with respect to trade in goods, trade in services, trade in agriculture, foreign investment, intellectual property, digital trade in goods and services and cross-border data flows, regulatory practices, state-owned and state-controlled enterprises, localization barriers to trade, labor and the environment, anticorruption, trade remedy laws, textiles, and commercial partnerships.
 
 &emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii) shall not be treated as being unreasonable if the Trade Representative determines that—
 
@@ -176,15 +178,23 @@ For purposes of this subchapter—
 
 &emsp;(8) The term "Trade Representative" means the United States Trade Representative.
 
-&emsp;(9) The term "interested persons", only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
+&emsp;(9) The term "interested persons", only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2),<sup>1</sup> and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
 
-(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 114–125, title VI, §§602(b)(1), 607, Feb. 24, 2016, 130 Stat. 184, 189.)
+
+#### References in Text
+
+Section 2416(c)(2) of this title, referred to in subsec. (d)(9), was redesignated section 2416(d)(2) of this title by Pub. L. 114–125, title VI, §602(a)(1), Feb. 24, 2016, 130 Stat. 184.
 
 #### Prior Provisions
 
 A prior section 301 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2041, which related to Presidential responses to foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(1). Pub. L. 114–125, §602(b)(1), inserted "or section 2416(c) of this title" after "subsection (a) or (b)" in introductory provisions.
+
+Subsec. (d)(3)(B)(iv). Pub. L. 114–125, §607, added cl. (iv).
 
 <b>1996</b>—Subsec. (c)(4). Pub. L. 104–295 substituted "paragraph (1)(D)(iii)" for "paragraph (1)(C)(iii)".
 
@@ -208,7 +218,7 @@ Subsec. (d)(3)(F). Pub. L. 103–465, §314(c)(2), added subpar. (F).
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistentwith the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
 
 Subsec. (b)(1). Pub. L. 98–573, §304(b)(1), struck out "and" at end.
 
@@ -270,7 +280,7 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (4) the United States should work with individual countries in sub-Saharan Africa to assist them in development of effective public education campaigns aimed at the prevention of HIV/AIDS transmission and infection, and to improve their health care infrastructure to promote improved access to quality health care for their citizens in general, and particularly with respect to the HIV/AIDS epidemic;
 
-(5) an effective United States response to the crisis in sub-Saharan Africa must focus in the short term onpreventive programs designed to reduce the frequency of new infections and remove the stigma of the disease, and should place a priority on basic health services that can be used to treat opportunistic infections, sexually transmitted infections, and complications associated with HIV/AIDS so as to prolong the duration and improve the quality of life of those with the disease;
+(5) an effective United States response to the crisis in sub-Saharan Africa must focus in the short term on preventive programs designed to reduce the frequency of new infections and remove the stigma of the disease, and should place a priority on basic health services that can be used to treat opportunistic infections, sexually transmitted infections, and complications associated with HIV/AIDS so as to prolong the duration and improve the quality of life of those with the disease;
 
 (6) an effective United States response to the crisis must also focus on the development of HIV/AIDS vaccines to prevent the spread of the disease;
 
@@ -287,4 +297,6 @@ Sec. 3. <i>Scope</i>. (a) This order prohibits the United States Government from
 (b) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not create, any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §50302. Purposes
 
-The purposes of the corporation are—
+The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include—
 
 &emsp;(1) to uphold and maintain the Constitution and laws of the United States;
 
@@ -12,11 +12,15 @@ The purposes of the corporation are—
 
 &emsp;(5) to stimulate a feeling of mutual devotion, helpfulness, and comradeship among all wounded, injured, and disabled veterans;
 
-&emsp;(6) to serve our comrades, our communities, and our country; and
+&emsp;(6) to serve our comrades, our communities, and our country;
 
-&emsp;(7) to encourage in all people that spirit of understanding which will guard against future wars.
+&emsp;(7) to educate the public about the sacrifices and needs of disabled veterans;
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1343.)
+&emsp;(8) to educate disabled veterans about the benefits and resources available to them; and
+
+&emsp;(9) to encourage in all people that spirit of understanding which will guard against future wars.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1343; Pub. L. 114–135, §1(a), Mar. 18, 2016, 130 Stat. 300.)
 
 Historical and Revision Notes
 
@@ -33,4 +37,10 @@ Historical and Revision Notes
 36:90c.
 
 June 17, 1932, ch. 268, §3, 47 Stat. 320; July 15, 1942, ch. 505, §2, 56 Stat. 660; June 13, 1991, Pub. L. 102–54, §13(n)(2), 105 Stat. 278.
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–135, §1(a)(1), substituted "The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include" for "The purposes of the corporation are" in introductory provisions.
+
+Pars. (7) to (9). Pub. L. 114–135, §1(a)(2)–(4), added pars. (7) and (8) and redesignated former par. (7) as (9).
 

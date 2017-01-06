@@ -120,7 +120,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory,decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
 
@@ -188,7 +188,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;If a new entrant constructs a new sugar beet processing factory, or acquires and reopens a sugar beet processing factory that last processed sugar beets prior to the 1998 crop year and there is no allocation currently associated with the factory, the Secretary shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) assign an allocation for beet sugar to the new entrant that provides a fairand equitable distribution of the allocations for beet sugar so as to enable the new entrant to achieve a factory utilization rate comparable to the factory utilization rates of other similarly-situated processors; and
+&emsp;&emsp;&emsp;&emsp;(I) assign an allocation for beet sugar to the new entrant that provides a fair and equitable distribution of the allocations for beet sugar so as to enable the new entrant to achieve a factory utilization rate comparable to the factory utilization rates of other similarly-situated processors; and
 
 &emsp;&emsp;&emsp;&emsp;(II) reduce the allocations for beet sugar of all other processors on a pro rata basis to reflect the allocation to the new entrant.
 
@@ -196,7 +196,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed upon the transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
+&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed uponthe transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
 
 #### (II) Prohibition
 

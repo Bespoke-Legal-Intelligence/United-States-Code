@@ -30,7 +30,7 @@ Within sixteen days after final payment of compensation has been made, the emplo
 
 #### (h) Investigations, examinations, and hearings for controverted, stopped, or suspended payments
 
-The deputy commissioner (1) may upon his own initiative at any time in a case in which payments are being made without an award, and (2) shall in any case where right to compensation is controverted, or where payments of compensation have been stopped or suspended, upon receipt of notice from any person entitled to compensation, or from the employer, that the right to compensation is controverted, or that payments of compensation have been stopped or suspended, make such investigations, cause such medical examinations to be made, or hold such hearings, and take such further action as he considers will properly protect the rights of all parties.
+The deputy commissioner (1) may upon his own initiative at any time in a case in which payments are being made without an award, and (2) shall in any case where right to compensation is controverted, or where payments of compensation have been stopped or suspended, upon receipt of notice from any person entitled to compensation, or from the employer, that the right to compensation is controverted, or that payments of compensation have been stopped or suspended, make such investigations, cause such medical examinations to be made, or hold such hearings, and take such further action as heconsiders will properly protect the rights of all parties.
 
 #### (i) Deposit by employer
 
@@ -60,7 +60,7 @@ Subsec. (m). Pub. L. 92–576, §5(e), repealed subsec. (m) limiting aggregate m
 
 <b>1961</b>—Subsec. (m). Pub. L. 87–87 increased limitation on total money allowance as compensation for injury from "$17,280" to "$24,000".
 
-<b>1956</b>—Subsec. (m). Act July 26, 1956, provided for maximum money allowance of $17,280 in lieu of total compensation of $11,000, struck out additional former limit of $10,000 for disabilities compensable under section908(c)(21) of this title, and inserted provision excepting from $17,280 limitation, amounts payable under section 908(g) of this title for maintenance during rehabilitation, and amounts payable under this section for delay or default in payment of compensation or interest collectible under section 918 of this title.
+<b>1956</b>—Subsec. (m). Act July 26, 1956, provided for maximum money allowance of $17,280 in lieu of total compensation of $11,000, struck out additional former limit of $10,000 for disabilities compensable under section 908(c)(21) of this title, and inserted provision excepting from $17,280 limitation, amounts payable under section 908(g) of this title for maintenance during rehabilitation, and amounts payable under this section for delay or default in payment of compensation or interest collectible under section 918 of this title.
 
 <b>1948</b>—Subsec. (m). Act June 24, 1948, increased overall statutory maximum limitation upon compensation for disability from $7,500 to $11,000, and fixed a sublimitation of $10,000 upon that particular compensation for permanent partial disability which is payable when the case is classified as one in which compensation shall be payable under section 908(c)(21) of this title, but neither limitation shall apply for permanent total disability or death.
 

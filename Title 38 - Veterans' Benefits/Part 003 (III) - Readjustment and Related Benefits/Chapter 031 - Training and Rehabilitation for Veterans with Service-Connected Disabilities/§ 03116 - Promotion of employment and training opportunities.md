@@ -42,5 +42,5 @@ In General.—In carrying out section 3116(b) \[formerly 1516(b)\] of title 38, 
 
 "(b)
 
-Directive.—In carrying out such Act, the Secretary of Veterans Affairs shall take all feasible steps to ensure that, in the cases of veterans who are eligible to have payments made on their behalf under both suchAct and section 3116(b) \[formerly 1516(b)\] of title 38, United States Code, the authority under such section is utilized, to the maximum extent feasible and consistent with the veteran's best interests, to make payments to employers on behalf of such veterans."
+Directive.—In carrying out such Act, the Secretary of Veterans Affairs shall take all feasible steps to ensure that, in the cases of veterans who are eligible to have payments made on their behalf under both such Act and section 3116(b) \[formerly 1516(b)\] of title 38, United States Code, the authority under such section is utilized, to the maximum extent feasible and consistent with the veteran's best interests, to make payments to employers on behalf of such veterans."
 

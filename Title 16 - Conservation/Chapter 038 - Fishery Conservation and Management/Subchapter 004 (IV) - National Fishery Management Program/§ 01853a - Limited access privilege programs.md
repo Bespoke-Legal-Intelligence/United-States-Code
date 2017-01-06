@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastalcommunities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -198,7 +198,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(A) establish a policy and criteria for the transferability of limited access privileges (through sale or lease), that is consistent with the policies adopted by the Council for the fishery under paragraph (5); and
 
-&emsp;&emsp;(B) establish, in coordination with the Secretary, a process for monitoring of transfers\(including sales and leases) of limited access privileges.
+&emsp;&emsp;(B) establish, in coordination with the Secretary, a process for monitoring of transfers (including sales and leases) of limited access privileges.
 
 #### (8) Preparation and implementation of secretarial plans
 
@@ -268,7 +268,7 @@ The requirements of this section shall not apply to any quota program, including
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (h), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. Section 302(f) of the Act (120 Stat. 3624) is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
 

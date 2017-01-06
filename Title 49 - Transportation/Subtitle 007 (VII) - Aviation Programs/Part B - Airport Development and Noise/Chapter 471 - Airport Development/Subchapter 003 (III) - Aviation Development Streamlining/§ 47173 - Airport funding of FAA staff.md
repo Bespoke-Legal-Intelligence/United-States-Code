@@ -40,5 +40,5 @@ Section 337 of the Department of Transportation and Related Agencies Appropriati
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–95 substituted "services of consultants—" for "services of consultants in order to facilitate the timely processing, review, and completion of environmental activities associated with an airport development project." and added pars. (1) to (5).
+<b>2012</b>—Subsec. (a). Pub. L. 112–95 substituted "services of consultants—" for "services of consultants in orderto facilitate the timely processing, review, and completion of environmental activities associated with an airport development project." and added pars. (1) to (5).
 

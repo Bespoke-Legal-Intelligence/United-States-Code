@@ -32,7 +32,7 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 Transfers of Duties and Powers Prohibited.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this section to another department, agency, or instrumentality of the United States Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1117; Pub. L. 107–71, title I, §101(e), Nov. 19, 2001, 115 Stat. 603; Pub. L. 107–296, title XVI, §1601(a), Nov. 25, 2002, 116 Stat. 2312; Pub. L. 111–83, title V, §561(c)(2), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 112–95, title VIII, §801, Feb. 14, 2012, 126 Stat. 118.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1117; Pub. L. 107–71, title I, §101(e), Nov. 19, 2001, 115Stat. 603; Pub. L. 107–296, title XVI, §1601(a), Nov. 25, 2002, 116 Stat. 2312; Pub. L. 111–83, title V, §561(c)(2), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 112–95, title VIII, §801, Feb. 14, 2012, 126 Stat. 118.)
 
 Historical and Revision Notes
 

@@ -1,0 +1,6 @@
+### §744. Omitted
+
+#### Codification
+
+Section, act Sept. 1, 1954, ch. 1207, §4, 68 Stat. 1100, which related to personal property rights upon publication of roll, was omitted from the Code as being of special and not general application.
+

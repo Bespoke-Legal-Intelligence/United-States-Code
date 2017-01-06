@@ -34,7 +34,7 @@ Director.—The term 'Director' means the Director of the National Institute of 
 
 &emsp;"(2)
 
-Federal agency.—The term 'Federal agency' has the meaning given such term in section 4 of theStevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703).
+Federal agency.—The term 'Federal agency' has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703).
 
 &emsp;"(3)
 

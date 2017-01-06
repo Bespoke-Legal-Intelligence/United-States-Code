@@ -22,7 +22,7 @@
 
 #### (3) Media campaign
 
-&emsp;In conducting the education campaign under paragraph (1), the Secretary shall award grants to entities to establish national multimedia campaigns oriented to young women that may include advertising through television, radio, print media, billboards, posters, all forms of existing and especially emerging social networking media, other Internet media, and any other medium determined appropriate by the Secretary.
+&emsp;In conducting the education campaign under paragraph (1), the Secretary shall award grants to entities to establish national multimedia campaigns oriented to young women that may include advertising through television, radio, print media, billboards, posters, all forms of existing and especially emergingsocial networking media, other Internet media, and any other medium determined appropriate by the Secretary.
 
 #### (4) Advisory committee
 

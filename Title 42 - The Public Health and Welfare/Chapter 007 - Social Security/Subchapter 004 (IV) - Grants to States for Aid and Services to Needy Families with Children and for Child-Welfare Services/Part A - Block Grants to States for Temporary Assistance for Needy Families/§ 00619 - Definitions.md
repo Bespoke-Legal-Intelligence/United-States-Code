@@ -22,7 +22,7 @@ As used in this part:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the terms "Indian", "Indian tribe", and "tribal organization" have the meaning given such terms by section 450b of title 25.
+&emsp;&emsp;Except as provided in subparagraph (B), the terms "Indian", "Indian tribe", and "tribal organization" have the meaning given such terms by section 5304 of title 25.
 
 #### (B) Special rule for Indian tribes in Alaska
 
@@ -60,5 +60,5 @@ As used in this part:
 
 #### Effective Date
 
-Par. (4) of this section effective Oct. 1, 1996, with remainder of section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedingscommenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Par. (4) of this section effective Oct. 1, 1996, with remainder of section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 

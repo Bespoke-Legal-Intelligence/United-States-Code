@@ -2,7 +2,7 @@
 
 Section 5634, Pub. L. 93–415, title II, §224, Sept. 7, 1974, 88 Stat. 1122; Pub. L. 95–115, §4(d), Oct. 3, 1977, 91 Stat. 1054; Pub. L. 96–509, §§12, 19(h), Dec. 8, 1980, 94 Stat. 2759, 2765; Pub. L. 98–473, title II, §627, Oct. 12, 1984, 98 Stat. 2114, related to funding of special emphasis prevention and treatment programs through grants and contracts.
 
-Section 5635, Pub. L. 93–415, title II, §225, Sept. 7, 1974, 88 Stat. 1123; Pub. L. 94–503, title I, §130(c), Oct. 15, 1976,90 Stat. 2425; Pub. L. 95–115, §4(e), Oct. 3, 1977, 91 Stat. 1055; Pub. L. 98–473, title II, §628, Oct. 12, 1984, 98 Stat. 2116, related to applications for grants and contracts under section 5634 of this title.
+Section 5635, Pub. L. 93–415, title II, §225, Sept. 7, 1974, 88 Stat. 1123; Pub. L. 94–503, title I, §130(c), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §4(e), Oct. 3, 1977, 91 Stat. 1055; Pub. L. 98–473, title II, §628, Oct. 12, 1984, 98 Stat. 2116, related to applications for grants and contracts under section 5634 of this title.
 
 Section 5636, Pub. L. 93–415, title II, §226, Sept. 7, 1974, 88 Stat. 1124, provided for proceedings by Administrator in the case of noncompliance of program or activity with this subchapter.
 

@@ -50,7 +50,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (A) In general
 
-&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, suchincrease shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (B) Credit carryback defined
 
@@ -126,7 +126,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### (3) Inflation adjustment
 
-&emsp;In the case of estates of decedents dying in a calendar year after 1998, the $1,000,000amount contained in paragraph (2)(A) shall be increased by an amount equal to—
+&emsp;In the case of estates of decedents dying in a calendar year after 1998, the $1,000,000 amount contained in paragraph (2)(A) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) $1,000,000, multiplied by
 
@@ -438,13 +438,13 @@ For effective date of amendment by section 206(e) of Pub. L. 85–866, see secti
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Administration of Penalties and Interest
 
 Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: "The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
 
-&emsp;"(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
+&emsp;"(1) reviewing the administration and implementation by the Internal Revenue Service of the interestand penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 
 &emsp;"(2) making any legislative and administrative recommendations the Committee or the Secretary deems appropriate to simplify penalty or interest administration and reduce taxpayer burden.
 

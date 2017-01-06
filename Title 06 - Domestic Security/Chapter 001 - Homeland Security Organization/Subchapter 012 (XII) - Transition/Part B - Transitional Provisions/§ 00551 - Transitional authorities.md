@@ -36,7 +36,7 @@ Upon the transfer of an agency to the Department—
 
 &emsp;This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development, and to any funds provided to the Coast Guard from the Sport Fish Restoration and Boating Trust Fund for boating safety programs.
 
-(Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309; Pub. L. 108–7, div. L, §103(4), Feb. 20,2003, 117 Stat. 529; Pub. L. 109–59, title XI, §11115(b)(2)(F), Aug. 10, 2005, 119 Stat. 1950.)
+(Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309; Pub. L. 108–7, div. L, §103(4), Feb. 20, 2003, 117 Stat. 529; Pub. L. 109–59, title XI, §11115(b)(2)(F), Aug. 10, 2005, 119 Stat. 1950.)
 
 #### References in Text
 

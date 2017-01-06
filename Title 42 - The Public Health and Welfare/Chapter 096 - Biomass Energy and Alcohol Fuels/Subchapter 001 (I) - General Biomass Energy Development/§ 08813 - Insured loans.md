@@ -20,7 +20,7 @@ Subject to sections 8812 and 8817 of this title, the Secretary of Agriculture ma
 
 (2) There shall be reimbursed to the Funds, from appropriations made under section 8803 of this title, amounts equal to the operating and administrative costs incurred by the Secretary of Agriculture in insuring loans under this section.
 
-(3) Notwithstanding any provision of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], no funds made available to the Secretary of Agriculture under this section for insured loans shall be used for any other purpose.
+(3) Notwithstanding any provision of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], no funds made available tothe Secretary of Agriculture under this section for insured loans shall be used for any other purpose.
 
 (4) For purposes of this section, the term "insured loan" means a loan which is made, sold, and insured.
 

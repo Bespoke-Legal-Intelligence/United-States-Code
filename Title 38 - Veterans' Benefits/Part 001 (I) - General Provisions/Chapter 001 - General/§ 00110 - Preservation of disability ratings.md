@@ -2,7 +2,7 @@
 
 A rating of total disability or permanent total disability which has been made for compensation, pension, or insurance purposes under laws administered by the Secretary, and which has been continuously in force for twenty or more years, shall not be reduced thereafter, except upon a showing that such rating was based on fraud. A disability which has been continuously rated at or above evaluation for twenty or more years for compensation purposes under laws administered by the Secretary shall not thereafter be rated at less than such evaluation, except upon a showing that such rating was based on fraud. The mentioned period shall be computed from the date determined by the Secretary as the date on which the status commenced for rating purposes.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 87–825, §6, Oct. 15, 1962, 76 Stat. 950; Pub. L.88–445, §1(a), (b), Aug. 19, 1964, 78 Stat. 464; Pub. L. 91–32, June 23, 1969, 83 Stat. 38; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 87–825, §6, Oct. 15, 1962, 76 Stat. 950; Pub. L. 88–445, §1(a), (b), Aug. 19, 1964, 78 Stat. 464; Pub. L. 91–32, June 23, 1969, 83 Stat. 38; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 

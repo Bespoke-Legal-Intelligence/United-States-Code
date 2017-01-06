@@ -38,7 +38,7 @@
 
 #### (B) Target housing constructed between 1960 and 1978
 
-&emsp;&emsp;Beginning on January 1, 1995, procedures established under paragraphs (1) and (2) shall require an inspection for lead-based paint and lead-based paint hazards in all federally owned target housing constructed between 1960 and 1978. The results of such inspections shall be made available to prospective purchasers, identifying the presence of lead-based paint and lead-based paint hazards on a surface-by-surface basis. The Secretary shall have the discretion to waive the requirement of this subparagraph for housing in which a federally funded risk assessment,performed by a certified contractor, has determined no lead-based paint hazards are present.
+&emsp;&emsp;Beginning on January 1, 1995, procedures established under paragraphs (1) and (2) shall require an inspection for lead-based paint and lead-based paint hazards in all federally owned target housing constructed between 1960 and 1978. The results of such inspections shall be made available to prospective purchasers, identifying the presence of lead-based paint and lead-based paint hazards on a surface-by-surface basis. The Secretary shall have the discretion to waive the requirement of this subparagraph for housing in which a federally funded risk assessment, performed by a certified contractor, has determined no lead-based paint hazards are present.
 
 #### (C) Budget authority
 
@@ -76,7 +76,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (A) Abatement demonstration program
 
-&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, andsuch abatement shall qualify for assistance under section 1437l <sup>1</sup> of this title.
+&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437l <sup>1</sup> of this title.
 
 #### (B) Report
 
@@ -132,7 +132,7 @@ The Secretary shall carry out the provisions of this section utilizing available
 
 This section may not be construed to affect the responsibilities of the Environmental Protection Agency with respect to the protection of the public health from hazards posed by lead-based paint.
 
-(Pub. L. 91–695, title III, §302, as added Pub. L. 93–151, §4(a)(1), Nov. 9, 1973, 87 Stat. 566; amended Pub. L. 100–242, title V, §566(a), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 100–628, title X, §1088(a)–(f),\(h), Nov. 7, 1988, 102 Stat. 3280–3282; Pub. L. 102–550, title X, §§1012(a)–(d), 1013, Oct. 28, 1992, 106 Stat. 3904, 3905, 3907; Pub. L. 105–276, title V, §522(b)(4), Oct. 21, 1998, 112 Stat. 2564.)
+(Pub. L. 91–695, title III, §302, as added Pub. L. 93–151, §4(a)(1), Nov. 9, 1973, 87 Stat. 566; amended Pub. L. 100–242, title V, §566(a), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 100–628, title X, §1088(a)–(f), (h), Nov. 7, 1988, 102 Stat. 3280–3282; Pub. L. 102–550, title X, §§1012(a)–(d), 1013, Oct. 28, 1992, 106 Stat. 3904, 3905, 3907; Pub. L. 105–276, title V, §522(b)(4), Oct. 21, 1998, 112 Stat. 2564.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsec. (f). Pub. L. 105–276, §522(b)(4)(B), substituted "under the Capital F
 
 Subsec. (a). Pub. L. 102–550, §1012(a)(2)–(4), designated first sentence of subsec. (a) as par. (1), inserted heading, inserted before period at end of first sentence "or otherwise receives more than $5,000 in project-based assistance under a Federal housing program", substituted "Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in section 4851b of this title, and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—" and subpars. (A) to (G) for former second sentence of subsec. (a) which read as follows: "Such procedures shall apply to all such housing constructed or substantially rehabilitated prior to 1978 and shall as a minimum provide for (1) appropriate measures to eliminate as far as practicable immediate hazards due to the presence of accessible intact, intact, and nonintact interior and exterior painted surfaces that may contain lead in any such housing in which any child who is less than 7 years of age resides or is expected to reside, and (2) assured notification (using a brochure developed after consultation with the National Institute of Building Sciences) to purchasers and tenants of such housing of the hazards of lead based paint, of the symptoms and treatment of lead based paint poisoning, and of the importance and availability of maintenance and removal techniques for eliminating such hazards.", and designated former third sentence of subsec. (a) as par. (2) and inserted heading.
 
-Pub. L. 102–550, §1013, added pars. (3) and (4) and struck out former fourth sentence of subsec. (a) which read as follows: "Further, the Secretary shall establish and implement procedures to eliminate the hazards of lead based paint poisoning in all federally owned properties prior to the sale of such properties when their use is intended for residential habitation."
+Pub. L. 102–550, §1013, added pars. (3) and (4) and struck out former fourth sentence of subsec. (a) whichread as follows: "Further, the Secretary shall establish and implement procedures to eliminate the hazards of lead based paint poisoning in all federally owned properties prior to the sale of such properties when their use is intended for residential habitation."
 
 Subsec. (b). Pub. L. 102–550, §1012(b), substituted "for the risk assessment, interim control, inspection, and abatement of lead-based paint hazards in housing covered by this section shall be based upon guidelines developed pursuant to section 4852c of this title." for "for the detection and abatement of lead-based paint poisoning hazards in any housing, including housing assisted under section 1437f of this title—
 
@@ -184,7 +184,7 @@ Subsec. (d)(2)(B). Pub. L. 100–628, §1088(b)(3), in introductory provisions, 
 
 Subsec. (d)(2)(B)(i). Pub. L. 100–628, §1088(c)(1), inserted ", including X-ray fluorescence and atomic absorption spectroscopy" after "lead-based paint".
 
-Subsec. (d)(2)(B)(ii). Pub. L. 100–628, §1088(c)(2), inserted ", including removal, containment, or encapsulation of the contaminated components, procedures which minimize the generation of dust (including the high efficiency vacuum removal of leaded dust), andprocedures that provide for offsite disposal of the removed components, in compliance with all applicable regulatory standards and procedures" after "methods for abatement".
+Subsec. (d)(2)(B)(ii). Pub. L. 100–628, §1088(c)(2), inserted ", including removal, containment, or encapsulation of the contaminated components, procedures which minimize the generation of dust (including the high efficiency vacuum removal of leaded dust), and procedures that provide for offsite disposal of the removed components, in compliance with all applicable regulatory standards and procedures" after "methods for abatement".
 
 Subsec. (d)(2)(B)(iii). Pub. L. 100–628, §1088(c)(3), inserted ", abatement, and worker protection" after "in testing".
 

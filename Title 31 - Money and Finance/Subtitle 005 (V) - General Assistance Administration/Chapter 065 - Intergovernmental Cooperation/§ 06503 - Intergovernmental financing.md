@@ -96,5 +96,5 @@ Effective date of regulations.—Regulations issued by the Secretary of the Trea
 
 #### GAO Report
 
-Pub. L. 101–453, §6, Oct. 24, 1990, 104 Stat. 1062, as amended by Pub. L. 102–589, §2(3), Nov. 10, 1992, 106 Stat. 5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, §115(i), Oct. 19, 1996, 110 Stat. 3835.
+Pub. L. 101–453, §6, Oct. 24, 1990, 104 Stat. 1062, as amended by Pub. L. 102–589, §2(3), Nov. 10, 1992, 106 Stat.5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, §115(i), Oct. 19, 1996, 110 Stat. 3835.
 

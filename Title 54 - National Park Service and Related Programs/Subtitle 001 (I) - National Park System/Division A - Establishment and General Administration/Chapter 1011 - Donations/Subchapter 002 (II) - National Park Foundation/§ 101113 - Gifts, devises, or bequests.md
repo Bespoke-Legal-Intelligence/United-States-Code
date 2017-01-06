@@ -10,6 +10,10 @@ In general.—The National Park Foundation may accept, receive, solicit, hold, a
 
 &emsp;(2)
 
+Coordination with service.—Activities of the National Park Foundation under paragraph (1) shall be undertaken after consultation with the Director to ensure that those activities are consistent with the programs and policies of the Service.
+
+&emsp;(3)
+
 Gift, devise, or bequest that is encumbered, restricted, or subject to beneficial interests.—A gift, devise, or bequest may be accepted by the National Park Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Service, its activities, or its services.
 
 (b)
@@ -20,7 +24,7 @@ When Gift, Devise, or Bequest May Not Be Accepted.—The National Park Foundatio
 
 Interest in Real Property.—For purposes of this section, an interest in real property includes easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3120.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3120; Pub. L. 114–289, title IV, §401(2), Dec. 16, 2016, 130 Stat. 1488.)
 
 Historical and Revision Notes
 
@@ -51,4 +55,8 @@ Pub. L. 90–209, §3, Dec. 18, 1967, 81 Stat. 656.
 16 U.S.C. 19g (2d sentence).
 
 In subsection (c), the words "among other things" are omitted as unnecessary.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2), (3). Pub. L. 114–289 added par. (2) and redesignated former par. (2) as (3).
 

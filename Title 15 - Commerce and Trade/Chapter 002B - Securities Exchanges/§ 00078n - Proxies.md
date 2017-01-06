@@ -2,7 +2,7 @@
 
 #### (a) Solicitation of proxies in violation of rules and regulations
 
-(1) It shall be unlawful for any person, by the use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security (other than an exempted security) registered pursuant to section 78l of this title.
+(1) It shall be unlawful for any person, by the use of the mails or by any means or instrumentality of interstate commerce or of any facilityof a national securities exchange or otherwise, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to solicit or to permit the use of his name to solicit any proxy or consent or authorization in respect of any security (other than an exempted security) registered pursuant to section 78l of this title.
 
 (2) The rules and regulations prescribed by the Commission under paragraph (1) may include—
 
@@ -30,7 +30,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (4) Any solicitation or recommendation to the holders of such a security to accept or reject a tender offer or request or invitation for tenders shall be made in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may be withdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or invitation for tenders may bewithdrawn by or on behalf of the depositor at any time until the expiration of seven days after the time definitive copies of the offer or request or invitation are first published or sent or given to security holders, and at any time after sixty days from the date of the original tender offer or request or invitation, except as the Commission may otherwise prescribe by rules, regulations, or order as necessary or appropriate in the public interest or for the protection of investors.
 
 (6) Where any person makes a tender offer, or request or invitation for tenders, for less than all the outstanding equity securities of a class, and where a greater number of securities is deposited pursuant thereto within ten days after copies of the offer or request or invitation are first published or sent or given to security holders than such person is bound or willing to take up and pay for, the securities taken up shall be taken up as nearly as may be pro rata, disregarding fractions, according to the number of securities deposited by each depositor. The provisions of this subsection shall also apply to securities deposited within ten days after notice of an increase in the consideration offered to security holders, as described in paragraph (7), is first published or sent or given to security holders.
 
@@ -46,7 +46,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 #### (e) Untrue statement of material fact or omission of fact with respect to tender offer
 
-It shall be unlawful for any person to make any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading, or to engage in any fraudulent, deceptive, or manipulative acts or practices, in connection with any tender offer or request or invitation for tenders, or any solicitation of security holders in opposition to or in favor of any such offer, request, or invitation. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribemeans reasonably designed to prevent, such acts and practices as are fraudulent, deceptive, or manipulative.
+It shall be unlawful for any person to make any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading, or to engage in any fraudulent, deceptive, or manipulative acts or practices, in connection with any tender offer or request or invitation for tenders, or any solicitation of security holders in opposition to or in favor of any such offer, request, or invitation. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such acts and practices as are fraudulent, deceptive, or manipulative.
 
 #### (f) Election or designation of majority of directors of issuer by owner of more than five per centum of class of securities at other than meeting of security holders
 
@@ -112,7 +112,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;&emsp;(iii) whether it is expected that there will be a significant difference between the exchange values of the limited partnerships and the trading price of the securities to be issued in the limited partnership rollup transaction;
 
-&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determine the value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
+&emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determinethe value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
 
 &emsp;&emsp;&emsp;(v) the differing risks and effects of the limited partnership rollup transaction for investors in different limited partnerships proposed to be included, and the risks and effects of completing the limited partnership rollup transaction with less than all limited partnerships;
 
@@ -134,7 +134,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;(G) provide that, if the general partner or sponsor has obtained any opinion, appraisal, or report as described in subparagraph (F) from any person whose compensation is contingent on the transaction's approval or completion or who has not been given access by the issuer to its personnel and premises and relevant books and records, the general partner or sponsor shall state the reasons therefor;
 
-&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by astatement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
+&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by a statement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
 
 &emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limited partnership rollup transaction set forth prominently in the fore part thereof;
 
@@ -158,7 +158,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;(B) any of the investors' limited partnership securities are not, as of the date of filing, reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
 
-&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subject to a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
+&emsp;&emsp;(C) investors in any of the limited partnerships involved in the transaction are subjectto a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
 
 &emsp;&emsp;(D) any of such investors are not provided an option to receive or retain a security under substantially the same terms and conditions as the original issue.
 
@@ -206,7 +206,7 @@ This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the or
 
 The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For completeclassification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
 
@@ -252,7 +252,7 @@ Subsec. (e). Pub. L. 91–567, §5, inserted provisions requiring the Commission
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–467, §5(a), substituted provisions which make it unlawful for any person, in contravention of the Commission's rules and regulations, to solicit, or to permit the use of his name to solicit, proxies in respect of any security registered pursuant to section 78l of this title for former provisions which limited the Commission's rulemaking authority to proxies relating to securities listed and registered on a national securities exchange.
 
-Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unlawful for members of a national securities exchange and brokers and dealers registeredunder this chapter, in contravention of such rules as may be prescribed by the Commission, to give, or to refrain from giving proxies, consents, and other authorizations in respect of any security registered under section 78l of this title carried for the account of customers for former provisions which limited the Commission's rulemaking authority only to the giving of proxies in respect to listed securities carried for the account of customers by members of the national securities exchanges and by brokers or dealers who conduct business through the medium of an exchange member, and deleted the reference to brokers and dealers who transacted business through the medium of an exchange member as being now covered by brokers and dealers registered under this chapter.
+Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unlawful for members of a national securities exchange and brokers and dealers registered under this chapter, in contravention of such rules as may be prescribed by the Commission, to give, or to refrain from giving proxies, consents, and other authorizations in respect of any security registered under section 78l of this title carried for the account of customers for former provisions which limited the Commission's rulemaking authority only to the giving of proxies in respect to listed securities carried for the account of customers by members of the national securities exchanges and by brokers or dealers who conduct business through the medium of an exchange member, and deleted the reference to brokers and dealers who transacted business through the medium of an exchange member as being now covered by brokers and dealers registered under this chapter.
 
 Subsec. (c). Pub. L. 88–467, §5(c), added subsec. (c).
 
@@ -292,7 +292,7 @@ Exemptions.—The Commission may, by rule or order, exempt an issuer or class of
 
 \[For definitions of terms used in section 971(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
-Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\]."
+Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings andprescribe final regulations under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 \[15 U.S.C. 78n(h)\], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\]."
 
 #### Construction of 1993 Amendment
 

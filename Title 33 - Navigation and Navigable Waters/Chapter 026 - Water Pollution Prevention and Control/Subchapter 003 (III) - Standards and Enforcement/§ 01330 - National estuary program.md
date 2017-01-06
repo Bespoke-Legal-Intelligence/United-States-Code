@@ -50,13 +50,13 @@ The members of a management conference convened under this section shall include
 
 &emsp;(3) each interested Federal agency, as determined appropriate by the Administrator;
 
-&emsp;(4) local governments having jurisdiction over any land or water within the estuarinezone, as determined appropriate by the Administrator; and
+&emsp;(4) local governments having jurisdiction over any land or water within the estuarine zone, as determined appropriate by the Administrator; and
 
 &emsp;(5) affected industries, public and private educational institutions, and the general public, as determined appropriate by the Administrator.
 
 #### (d) Utilization of existing data
 
-In developing a conservation and management plan under this section, the management conference shall survey and utilize existing reports, data, and studies relating to the estuary that have been developed by or made available to Federal, interstate, State, and local agencies.
+In developing a conservation and management plan under this section, the management conference shall survey and utilize existing reports, data, and studies relating to the estuary thathave been developed by or made available to Federal, interstate, State, and local agencies.
 
 #### (e) Period of conference
 
@@ -94,21 +94,57 @@ A management conference convened under this section shall be convened for a peri
 
 &emsp;&emsp;(B) shall be made on condition that the non-Federal share of the costs are provided from non-Federal sources.
 
+#### (4) Competitive awards
+
+#### (A) In general
+
+&emsp;&emsp;Using the amounts made available under subsection (i)(2)(B), the Administrator shall make competitive awards under this paragraph.
+
+#### (B) Application for awards
+
+&emsp;&emsp;The Administrator shall solicit applications for awards under this paragraph from State, interstate, and regional water pollution control agencies and entities, State coastal zone management agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals.
+
+#### (C) Selection of recipients
+
+&emsp;&emsp;In selecting award recipients under this paragraph, the Administrator shall select recipients that are best able to address urgent and challenging issues that threaten the ecological and economic well-being of coastal areas. Such issues shall include—
+
+&emsp;&emsp;&emsp;(i) extensive seagrass habitat losses resulting in significant impacts on fisheries and water quality;
+
+&emsp;&emsp;&emsp;(ii) recurring harmful algae blooms;
+
+&emsp;&emsp;&emsp;(iii) unusual marine mammal mortalities;
+
+&emsp;&emsp;&emsp;(iv) invasive exotic species that may threaten wastewater systems and cause other damage;
+
+&emsp;&emsp;&emsp;(v) jellyfish proliferation limiting community access to water during peak tourism seasons;
+
+&emsp;&emsp;&emsp;(vi) flooding that may be related to sea level rise or wetland degradation or loss; and
+
+&emsp;&emsp;&emsp;(vii) low dissolved oxygen conditions in estuarine waters and related nutrient management.
+
 #### (h) Grant reporting
 
-Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2010 for—
+#### (1) In general
 
-&emsp;(1) expenses related to the administration of management conferences under this section, not to exceed 10 percent of the amount appropriated under this subsection;
+&emsp;There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021 for—
 
-&emsp;(2) making grants under subsection (g) of this section; and
+&emsp;&emsp;(A) expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and
 
-&emsp;(3) monitoring the implementation of a conservation and management plan by the management conference or by the Administrator, in any case in which the conference has been terminated.
+&emsp;&emsp;(B) making grants and awards under subsection (g).
 
-> The Administrator shall provide up to $5,000,000 per fiscal year of the sums authorized to be appropriated under this subsection to the Administrator of the National Oceanic and Atmospheric Administration to carry out subsection (j) of this section.
+#### (2) Allocations
+
+#### (A) Conservation and management plans
+
+&emsp;&emsp;Not less than 80 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator to provide grant assistance for the development, implementation, and monitoring of each of the conservation and management plans eligible for grant assistance under subsection (g)(2).
+
+#### (B) Competitive awards
+
+&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for afiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 
 #### (j) Research
 
@@ -120,7 +156,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baseline studies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
 
-&emsp;&emsp;(C) a comprehensive water quality sampling program for the continuous monitoring of nutrients, chlorine, acid precipitation dissolved oxygen, and potentially toxic pollutants (including organic chemicals and metals) in estuarine zones, after consultation with interested State, local, interstate,or international agencies and review and analysis of all environmental sampling data presently collected from estuarine zones; and
+&emsp;&emsp;(C) a comprehensive water quality sampling program for the continuous monitoring of nutrients, chlorine, acid precipitation dissolved oxygen, and potentially toxic pollutants (including organic chemicals and metals) in estuarine zones, after consultation with interested State, local, interstate, or international agencies and review and analysis of all environmental sampling data presently collected from estuarine zones; and
 
 &emsp;&emsp;(D) a program of research to identify the movements of nutrients, sediments and pollutants through estuarine zones and the impact of nutrients, sediments, and pollutants on water quality, the ecosystem, and designated or potential uses of the estuarine zones.
 
@@ -140,13 +176,17 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 For purposes of this section, the terms "estuary" and "estuarine zone" have the meanings such terms have in section 1254(n)(4) of this title, except that the term "estuarine zone" shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253.)
+(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253; Pub. L. 114–162, §§1, 2, May 20, 2016, 130 Stat. 409.)
 
 #### References in Text
 
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g)(4). Pub. L. 114–162, §1, added par. (4).
+
+Subsec. (i). Pub. L. 114–162, §2, added subsec. (i) and struck out former subsec. (i) which related to authorization of appropriations for fiscal years 2001 through 2010.
 
 <b>2004</b>—Subsec. (i). Pub. L. 108–399 substituted "2010" for "2005" in introductory provisions.
 

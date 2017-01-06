@@ -42,7 +42,7 @@ In carrying out the comprehensive national film preservation program for motion 
 
 &emsp;(2) review the comprehensive national film preservation plan, and amend it to the extent necessary to ensure that it addresses technological advances in the preservation and storage of, and access to film collections in multiple formats; and
 
-&emsp;(3) wherever possible, undertake expanded initiatives to ensure the preservation of themoving image heritage of the United States, including film, videotape, television, and born digital moving image formats, by supporting the work of the National Audio-Visual Conservation Center of the Library of Congress, and other appropriate nonprofit archival and preservation organizations.
+&emsp;(3) wherever possible, undertake expanded initiatives to ensure the preservation of the moving image heritage of the United States, including film, videotape, television, and born digital moving image formats, by supporting the work of the National Audio-Visual Conservation Center of the Library of Congress, and other appropriate nonprofit archival and preservation organizations.
 
 (Pub. L. 104–285, title I, §103, Oct. 11, 1996, 110 Stat. 3377; Pub. L. 109–9, title III, §302(a), Apr. 27, 2005, 119 Stat. 224; Pub. L. 110–336, §3(a)(2), Oct. 2, 2008, 122 Stat. 3727.)
 

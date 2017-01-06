@@ -14,7 +14,7 @@ System for Monitoring Adverse Reactions.—(1) The Secretary shall establish a s
 
 &emsp;(B) Periodic surveys of personnel to whom the vaccine is administered.
 
-&emsp;(C) A continuing longitudinal study of a pre-identified group of members of the armedforces (including men and women and members from all services).
+&emsp;(C) A continuing longitudinal study of a pre-identified group of members of the armed forces (including men and women and members from all services).
 
 &emsp;(D) Active surveillance of a sample of members to whom the anthrax vaccine has been administered that is sufficient to identify, at the earliest opportunity, any patterns of adverse reactions, the discovery of which might be delayed by reliance solely on the Vaccine Adverse Event Reporting System.
 
@@ -32,7 +32,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(e)\], Oct. 30, 2000, 114 S
 
 &emsp;"(2) not later than July 1, 2001, establish the system for monitoring adverse reactions of members of the Armed Forces to the anthrax vaccine required under subsection (b)(1) of such section;
 
-&emsp;"(3) not later than April 1, 2001, establish the guidelines under which members of the Armed Forces may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up required under subsection (b)(3) of such section; and
+&emsp;"(3) not later than April 1, 2001, establish the guidelines under which members of the Armed Forces mayobtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up required under subsection (b)(3) of such section; and
 
 &emsp;"(4) not later than July 1, 2001, prescribe the regulations regarding emergency essential employees of the Department of Defense required under subsection (a) of section 1580a of such title (as added by subsection(c))."
 

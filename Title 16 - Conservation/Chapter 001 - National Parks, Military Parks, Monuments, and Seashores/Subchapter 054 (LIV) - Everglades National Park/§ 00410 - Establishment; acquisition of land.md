@@ -84,7 +84,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior or the des
 
 &emsp;"(8)
 
-South florida ecosystem.—The term 'South Florida ecosystem' has the meaning given that term in section 528(a)(4) of the Water Resources Development Act of 1996 (Public Law 104–303) \[110 Stat. 3767\].
+South florida ecosystem.—The term 'South Florida ecosystem' has the meaning given that termin section 528(a)(4) of the Water Resources Development Act of 1996 (Public Law 104–303) \[110 Stat. 3767\].
 
 &emsp;"(9)
 
@@ -92,7 +92,7 @@ Special use permit area.—The term 'special use permit area' means the area of 
 
 &emsp;"(10)
 
-Tribe.—The term 'Tribe', unless otherwise specified, means the Miccosukee Tribe of Indians of Florida, a tribe of American Indians recognized by the United States and organized under section 16 of the Act of June 18, 1934 (48 Stat. 987; 25 U.S.C. 476), and recognized by the State of Florida pursuant to chapter 285, Florida Statutes.
+Tribe.—The term 'Tribe', unless otherwise specified, means the Miccosukee Tribe of Indians of Florida, a tribe of American Indians recognized by the United States and organized under section 16 of the Act of June 18, 1934 (48 Stat. 987; 25 U.S.C. 476) \[now 25 U.S.C. 5123\], and recognized by the State of Florida pursuant to chapter 285, Florida Statutes.
 
 &emsp;"(11)
 
@@ -212,7 +212,7 @@ In general.—Not later than 12 months after the date of the enactment of this A
 
 &emsp;&emsp;&emsp;"(ii)
 
-Tribal water quality standards.—The Tribe may not adopt water quality standards for the MRA under clause (i) that are more restrictive than the water quality standards adopted by the Tribe for contiguous reservation lands that are not within the Park.
+Tribal water quality standards.—The Tribe may not adopt water quality standards forthe MRA under clause (i) that are more restrictive than the water quality standards adopted by the Tribe for contiguous reservation lands that are not within the Park.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -250,7 +250,7 @@ Exceptions.—The following types of structures are exempt from the restrictions
 
 &emsp;"(3)
 
-Waiver.—The Secretary may waive the restrictions of this subsection if the Secretary finds thatthe needs of the Tribe for the structure that is taller than structures allowed under the restrictions would outweigh the adverse effects to the Park or its visitors.
+Waiver.—The Secretary may waive the restrictions of this subsection if the Secretary finds that the needs of the Tribe for the structure that is taller than structures allowed under the restrictions would outweigh the adverse effects to the Park or its visitors.
 
 &emsp;"(4)
 
@@ -466,7 +466,7 @@ In general.—Subject to subparagraph (B) with respect to any tribal member, tri
 
 &emsp;&emsp;"(B)
 
-Rule of construction.—Nothing in this paragraph shall be construed to alter any liability or other obligation that the United States may have under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+Rule of construction.—Nothing in this paragraph shall be construed to alter any liability or other obligation that the United States may have under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\].
 
 &emsp;"(2)
 

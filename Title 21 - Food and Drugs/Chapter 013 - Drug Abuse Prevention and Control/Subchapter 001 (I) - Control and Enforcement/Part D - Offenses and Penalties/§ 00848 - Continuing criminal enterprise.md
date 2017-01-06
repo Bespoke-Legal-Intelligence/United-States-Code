@@ -6,21 +6,21 @@ Any person who engages in a continuing criminal enterprise shall be sentenced to
 
 #### (b) Life imprisonment for engaging in continuing criminal enterprise
 
-Any person who engages in a continuing criminal enterprise shall be imprisoned for life and fined in accordance with subsection (a) of this section, if—
+Any person who engages in a continuing criminal enterprise shall be imprisoned for life and fined in accordance with subsection (a), if—
 
 &emsp;(1) such person is the principal administrator, organizer, or leader of the enterprise or is one of several such principal administrators, organizers, or leaders; and
 
-&emsp;(2)(A) the violation referred to in subsection (c)(1) of this section involved at least 300 times the quantity of a substance described in subsection 841(b)(1)(B) of this title, or
+&emsp;(2)(A) the violation referred to in subsection (c)(1) involved at least 300 times the quantity of a substance described in subsection 841(b)(1)(B) of this title, or
 
 &emsp;(B) the enterprise, or any other enterprise in which the defendant was the principal or one of several principal administrators, organizers, or leaders, received $10 million dollars in gross receipts during any twelve-month period of its existence for the manufacture, importation, or distribution of a substance described in section 841(b)(1)(B) of this title.
 
 #### (c) "Continuing criminal enterprise" defined
 
-For purposes of subsection (a) of this section, a person is engaged in a continuing criminal enterprise if—
+For purposes of subsection (a), a person is engaged in a continuing criminal enterprise if—
 
-&emsp;(1) he violates any provision of this subchapter or subchapter II of this chapter the punishment for which is a felony, and
+&emsp;(1) he violates any provision of this subchapter or subchapter II the punishment for which is a felony, and
 
-&emsp;(2) such violation is a part of a continuing series of violations of this subchapter or subchapter II of this chapter—
+&emsp;(2) such violation is a part of a continuing series of violations of this subchapter or subchapter II—
 
 &emsp;&emsp;(A) which are undertaken by such person in concert with five or more other persons with respect to whom such person occupies a position of organizer, a supervisory position, or any other position of management, and
 
@@ -36,7 +36,7 @@ In the case of any sentence imposed under this section, imposition or execution 
 
 &emsp;(A) any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under section 841(b)(1)(A) <sup>1</sup> of this title or section 960(b)(1) <sup>1</sup> of this title who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
 
-&emsp;(B) any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II of this chapter who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer's official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
+&emsp;(B) any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer's official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
 
 (2) As used in paragraph (1)(B), the term "law enforcement officer" means a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, prosecution or adjudication of an offense, and includes those engaged in corrections, probation, or parole functions.
 
@@ -76,7 +76,7 @@ Subsec. (s). Pub. L. 109–177, §733, added subsec. (s).
 
 Subsec. (q)(10). Pub. L. 104–132, §903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: "Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9)."
 
-<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–322, §330003(e), substituted "subsection (c)(1) of this section" for "subsection (d)(1) of this section".
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–322, §330003(e), substituted "subsection (c)(1)" for "subsection (d)(1)".
 
 Subsec. (n)(11). Pub. L. 103–322, §330014, made technical amendment to reference to section 859 of this title to correct reference to corresponding section of original act.
 
@@ -92,7 +92,7 @@ Pub. L. 100–690, §7001(a)(1), which directed redesignation of former subsec. 
 
 Subsecs. (g) to (r). Pub. L. 100–690, §7001(b), added subsecs. (g) to (r).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted "to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual," for "to a fine of not more than $100,000," and "to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual," for "to a fine of not more than $200,000,".
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted "to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or$2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual," for "to a fine of not more than $100,000," and "to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual," for "to a fine of not more than $200,000,".
 
 Subsecs. (b) to (e). Pub. L. 99–570, §1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
 

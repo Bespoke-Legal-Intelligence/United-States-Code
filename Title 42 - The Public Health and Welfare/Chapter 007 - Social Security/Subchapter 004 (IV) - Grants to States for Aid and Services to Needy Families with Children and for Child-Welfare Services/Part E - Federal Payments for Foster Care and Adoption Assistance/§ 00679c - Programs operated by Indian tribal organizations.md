@@ -2,11 +2,11 @@
 
 #### (a) Definitions of Indian tribe; tribal organizations
 
-In this section, the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 450b of title 25.
+In this section, the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 5304 of title 25.
 
 #### (b) Authority
 
-Except as otherwise provided in this section, this part shall apply in the same manner as this part applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has aplan approved by the Secretary under section 671 of this title in accordance with this section.
+Except as otherwise provided in this section, this part shall apply in the same manner as this part applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has a plan approved by the Secretary under section 671 of this title in accordance with this section.
 
 #### (c) Plan requirements
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (II) Training expenditures
 
-&emsp;&emsp;&emsp;&emsp;With respect to amounts expended during a fiscal year quarter beginning after September 30, 2009, and before October 1, 2011, for which the tribe, organization, or consortium is eligible for payments under subparagraph (A) or (B) of section 674(a)(3) of this title, not more than 12 percent of such amounts may consist of in-kind expenditures from third-partysources that are specified in such list and described in subclause (III).
+&emsp;&emsp;&emsp;&emsp;With respect to amounts expended during a fiscal year quarter beginning after September 30, 2009, and before October 1, 2011, for which the tribe, organization, or consortium is eligible for payments under subparagraph (A) or (B) of section 674(a)(3) of this title, not more than 12 percent of such amounts may consist of in-kind expenditures from third-party sources that are specified in such list and described in subclause (III).
 
 #### (III) Sources described
 
@@ -100,7 +100,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 &emsp;&emsp;&emsp;If, at the time expenditures are made for a fiscal year quarter beginning after September 30, 2011, and before October 1, 2014, for which a tribe, organization, or consortium may receive payments for <sup>1</sup> under section 674(a)(3) of this title, no regulations required to be promulgated under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008 are in effect, and no legislation has been enacted specifying otherwise—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of any quarter of fiscal year 2012, 2013, or 2014, the limitations on claiming in-kind expenditures from third-party sources under clause (ii) of this subparagraph shall apply (without regard to fiscal limitation) for purposes of determining the non-Federal share of such expenditures; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any quarter of fiscal year 2012, 2013, or 2014, the limitations onclaiming in-kind expenditures from third-party sources under clause (ii) of this subparagraph shall apply (without regard to fiscal limitation) for purposes of determining the non-Federal share of such expenditures; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any quarter of fiscal year 2015 or any fiscal year thereafter, no tribe, organization, or consortium may claim in-kind expenditures from third-party sources for purposes of determining the non-Federal share of such expenditures if a State with a plan approved under section 671(a) of this title could not claim in-kind expenditures from third-party sources for such purposes.
 

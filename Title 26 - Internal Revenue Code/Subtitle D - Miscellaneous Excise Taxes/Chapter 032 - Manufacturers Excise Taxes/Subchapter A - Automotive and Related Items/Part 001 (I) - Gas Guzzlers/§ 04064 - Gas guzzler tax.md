@@ -69,7 +69,7 @@ For purposes of this section—
 
 #### (B) Lengthening treated as manufacture
 
-&emsp;&emsp;For purposes of this section, subchapter G of this chapter, and section 6416(b)(3), the lengthening of an automobile by any person shall be treated as the manufacture of an automobile by such person.
+&emsp;&emsp;For purposes of this section, subchapter G of this chapter, and section 6416(b)(3), thelengthening of an automobile by any person shall be treated as the manufacture of an automobile by such person.
 
 #### (6) EPA Administrator
 
@@ -159,7 +159,7 @@ Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 28
 
 #### Effective Date
 
-Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model yearautomobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
+Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

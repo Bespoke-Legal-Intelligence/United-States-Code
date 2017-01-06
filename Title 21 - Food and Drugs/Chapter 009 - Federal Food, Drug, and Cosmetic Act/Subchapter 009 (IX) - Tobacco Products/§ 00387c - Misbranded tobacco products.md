@@ -58,7 +58,7 @@ The Secretary may, by regulation, require prior approval of statements made on t
 
 #### References in Text
 
-The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
+The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L.111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
 
 #### Prior Provisions
 

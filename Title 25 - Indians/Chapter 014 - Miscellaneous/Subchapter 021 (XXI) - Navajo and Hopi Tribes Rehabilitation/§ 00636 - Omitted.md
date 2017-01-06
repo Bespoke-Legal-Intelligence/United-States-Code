@@ -1,0 +1,6 @@
+### §636. Omitted
+
+#### Codification
+
+Section, act Apr. 19, 1950, ch. 92, §6, 64 Stat. 46, which related to the adoption of a constitution by the Navajo Tribe, was omitted from the Code as being of special and not general application.
+

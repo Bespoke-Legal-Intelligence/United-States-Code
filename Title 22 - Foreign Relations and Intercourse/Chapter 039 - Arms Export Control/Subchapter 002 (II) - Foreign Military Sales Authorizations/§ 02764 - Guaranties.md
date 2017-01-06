@@ -44,7 +44,7 @@ Pub. L. 93–559, §45(b), Dec. 30, 1974, 88 Stat. 1815, provided that: "The ame
 
 #### Delegation of Functions
 
-For delegation of functions of the President under this section, with certain conditions, see section 1(f) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under this section, with certain conditions, see section 1(f) ofEx. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Foreign Military Sales Debt Reform
 
@@ -72,5 +72,5 @@ Arrearages.—(1) None of the funds provided pursuant to the Arms Export Control
 
 "(d)
 
-Purposes and Reports.—The authorities of paragraphs (a) and (b) of this heading may be utilized by the President in efforts to negotiate base rights and base access agreements, and for other bilateral foreign policy matters: <i>Provided further</i>, That the Secretaries of Defense, State, and Treasury shall transmit to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committees on Appropriations of the House of Representatives and Senate a joint report detailing the United States financial and foreign policy purposes served by implementation of this authority on a country by country basis not later than March 1, 1989, and a second joint report not later than August 1, 1989."
+Purposes and Reports.—The authorities of paragraphs (a) and (b) of this heading may be utilized by the President in efforts to negotiate base rights and base access agreements, and for other bilateral foreign policy matters: <i>Provided further</i>, That the Secretariesof Defense, State, and Treasury shall transmit to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committees on Appropriations of the House of Representatives and Senate a joint report detailing the United States financial and foreign policy purposes served by implementation of this authority on a country by country basis not later than March 1, 1989, and a second joint report not later than August 1, 1989."
 

@@ -2,11 +2,11 @@
 
 #### (a) Registries
 
-For the purpose of carrying out this part (other than section 280e–3a of this title), there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003. Of the amounts appropriated under the preceding sentence for any such fiscal year, the Secretary may obligate not more than 25 percent for carrying out section 280e–1 of this title, and not more than 10 percent may be expended for assessing the accuracy, completeness andquality of data collected, and not more than 10 percent of which is to be expended under section 280e–2 of this title.
+For the purpose of carrying out this part (other than section 280e–3a of this title), there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003. Of the amounts appropriated under the preceding sentence for any such fiscal year, the Secretary may obligate not more than 25 percent for carrying out section 280e–1 of this title, and not more than 10 percent may be expended for assessing the accuracy, completeness and quality of data collected, and not more than 10 percent of which is to be expended under section 280e–2 of this title.
 
 #### (b) Breast cancer study
 
-Of the amounts appropriated for the National Cancer Institute under subpart 1 of part C of subchapter III of this chapter for any fiscal year in which the study required in section 280e–3 of this title is being carried out, the Secretary shall expend not less than $1,000,000 for the study.
+Of the amounts appropriated for the National Cancer Institute under subpart 1 of part C of subchapter III for any fiscal year in which the study required in section 280e–3 of this title is being carried out, the Secretary shall expend not less than $1,000,000 for the study.
 
 (July 1, 1944, ch. 373, title III, §399F, formerly §399L, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; amended Pub. L. 103–43, title XX, §2003, June 10, 1993, 107 Stat. 208; Pub. L. 103–183, title VII, §705(c), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–340, title II, §202, Oct. 31, 1998, 112 Stat. 3194; renumbered §399F and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (D), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 110–285, §4(b)(2), July 29, 2008, 122 Stat. 2631.)
 

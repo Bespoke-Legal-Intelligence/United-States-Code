@@ -6,7 +6,7 @@ A transfer of assets or liabilities between, or a merger of, a multiemployer pla
 
 #### (b) Accrued benefit of participant or beneficiary not lower immediately after effective date of transfer or merger
 
-No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) of this section than the benefit immediately before that date.
+No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) than the benefit immediately before that date.
 
 #### (c) Liability of multiemployer plan to corporation where single-employer plan terminates within 60 months after effective date of transfer; amount of liability, exemption, etc.
 
@@ -22,7 +22,7 @@ No accrued benefit of a participant or beneficiary may be lower immediately afte
 
 &emsp;(B) fails to make any determination regarding the adequacy with which such interests are protected with respect to such transfer of liabilities.
 
-> If, after the receipt of such application, the corporation requests from the plan sponsor additional information necessary for the determination, the running of the 180-day period shall be suspended from the date of such request until the receipt by the corporation of the additionalinformation requested. The corporation may by regulation prescribe procedures and standards for the issuance of determinations under this paragraph. This paragraph shall not apply to any application submitted less than 180 days after September 26, 1980.
+> If, after the receipt of such application, the corporation requests from the plan sponsor additional information necessary for the determination, the running of the 180-day period shall be suspended from the date of such request until the receipt by the corporation of the additional information requested. The corporation may by regulation prescribe procedures and standards for the issuance of determinations under this paragraph. This paragraph shall not apply to any application submitted less than 180 days after September 26, 1980.
 
 (3) A multiemployer plan shall not be liable to the corporation as provided in paragraph (1) in the case of a transfer from the multiemployer plan to a single-employer plan of liabilities which accrued under a single-employer plan which merged with the multiemployer plan, if, the value of liabilities transferred to the single-employer plan does not exceed the value of the liabilities for benefits which accrued before the merger, and the value of the assets transferred to the single-employer plan is substantially equal to the value of the assets which would have been in the single-employer plan if the employer had maintained and funded it as a separate plan under which no benefits accrued after the date of the merger.
 
@@ -36,7 +36,7 @@ Benefits under a single-employer plan to which liabilities are transferred in ac
 
 (1) Except as provided in paragraph (2), a multiemployer plan may not transfer liabilities to a single-employer plan unless the plan sponsor of the plan to which the liabilities would be transferred agrees to the transfer.
 
-(2) In the case of a transfer described in subsection (c)(3) of this section, paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
+(2) In the case of a transfer described in subsection (c)(3), paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
 
 #### (f) Additional requirements by corporation for protection of interests of plan participants, beneficiaries and corporation; approval by corporation of transfer of assets or liabilities to single-employer plan from plan in reorganization; covered transfers in connection with termination
 

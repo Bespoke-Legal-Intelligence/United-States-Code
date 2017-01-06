@@ -200,6 +200,34 @@ For transfer of the SAFECOM Program, excluding elements related to research, dev
 
 #### Department of Homeland Security Interoperable Communications
 
+Pub. L. 114–120, title II, §212, Feb. 8, 2016, 130 Stat. 42, provided that:
+
+"(a)
+
+In General.—If the Secretary of Homeland Security determines that there are at least two communications systems described under paragraph (1)(B) and certified under paragraph (2), the Secretary shall establish and carry out a pilot program across not less than three components of the Department of Homeland Security to assess the effectiveness of a communications system that—
+
+&emsp;"(1) provides for—
+
+&emsp;&emsp;"(A) multiagency collaboration and interoperability; and
+
+&emsp;&emsp;"(B) wide-area, secure, and peer-invitation- and-acceptance-based multimedia communications;
+
+&emsp;"(2) is certified by the Department of Defense Joint Interoperability Test Center; and
+
+&emsp;"(3) is composed of commercially available, off-the-shelf technology.
+
+"(b)
+
+Assessment.—Not later than 6 months after the date on which the pilot program is completed, the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee \[on\] Homeland Security and Governmental Affairs of the Senate an assessment of the pilot program, including the impacts of the program with respect to interagency and Coast Guard response capabilities.
+
+"(c)
+
+Strategy.—The pilot program shall be consistent with the strategy required by the Department of Homeland Security Interoperable Communications Act (Public Law 114–29) \[set out below\].
+
+"(d)
+
+Timing.—The pilot program shall commence within 90 days after the date of the enactment of this Act \[Feb. 8, 2016\] or within 60 days after the completion of the strategy required by the Department of Homeland Security Interoperable Communications Act (Public Law 114–29), whichever is later."
+
 Pub. L. 114–29, July 6, 2015, 129 Stat. 421, provided that:
 
 #### "SECTION 1. SHORT TITLE.
@@ -212,7 +240,7 @@ Pub. L. 114–29, July 6, 2015, 129 Stat. 421, provided that:
 
 &emsp;"(1) the term 'Department' means the Department of Homeland Security;
 
-&emsp;"(2) the term 'interoperable communications' has the meaning given that term in section 701(d) of the Homeland Security Act of 2002, as added by section 3 \[6 U.S.C. 341(d)\]; and
+&emsp;"(2) the term 'interoperable communications' has the meaning given that term in section 701(d) \[now 701(e)\] of the Homeland Security Act of 2002 \[6 U.S.C. 341(e)\], as added by section 3; and
 
 &emsp;"(3) the term 'Under Secretary for Management' means the Under Secretary for Management of the Department of Homeland Security.
 
@@ -318,7 +346,7 @@ Pub. L. 110–53, title XXII, §2205, Aug. 3, 2007, 121 Stat. 543, provided that
 
 #### Regional Model Strategic Plan Pilot Projects
 
-Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
+Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan tofoster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -190,7 +190,7 @@ Weather Radar Decommissioning.—The Secretary shall not remove or permanently d
 
 "(c)
 
-Surface Observing System Commissioning.—The Secretary may not commission an automated surface observing system located at an airport unless it is determined, in consultation with the Secretary of Transportation, that the weather services provided after commissioning will continue to be in full compliance with applicable flight aviation rules promulgated by the Federal Aviation Administration.
+Surface Observing System Commissioning.—The Secretary may not commission an automated surface observing system located at an airport unless it is determined, in consultation with the Secretary ofTransportation, that the weather services provided after commissioning will continue to be in full compliance with applicable flight aviation rules promulgated by the Federal Aviation Administration.
 
 #### "SEC. 706. RESTRUCTURING FIELD OFFICES.
 
@@ -350,7 +350,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 "Since our Nation's economy—its agriculture, aviation, ocean shipping and construction—is heavily affected by weather and our ability to forecast and disseminate vital information about its behavior: Now, therefore,
 
-"It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can workclosely with the private sector, other Federal and State government agencies, and the weather services of other nations.
+"It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
 "Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval."
 

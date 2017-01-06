@@ -8,7 +8,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) which, to any significant extent, is distributed in commerce for personal use or consumption by individuals;
 
-> &emsp;without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption.
+> &emsp;without regard to whether such article of such type is in fact distributed in commerce forpersonal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption.
 
 &emsp;(2) The term "covered product" means a consumer product of a type specified in section 6292 of this title.
 
@@ -44,7 +44,7 @@ For purposes of this part:
 
 &emsp;(15)(A) The term "private labeler" means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark suchproduct (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark such product (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 &emsp;(16) The terms "to distribute in commerce" and "distribution in commerce" mean to sell in commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
@@ -122,7 +122,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
-&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy fromone temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
+&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
 &emsp;(28) The term "weatherized warm air furnace or boiler" means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
@@ -180,7 +180,7 @@ For purposes of this part:
 
 &emsp;&emsp;(iv) Any instant start lamp (commonly referred to as 8-foot slimline lamps) with single pin bases of nominal overall length of 96 inches and rated wattage of 52 or more, as defined in ANSI C78.3–1978 (R1984) and related supplement ANSI C78.3a–1985.
 
-&emsp;(B) The term "general service fluorescent lamp" means fluorescent lamps which can beused to satisfy the majority of fluorescent applications, but does not include any lamp designed and marketed for the following nongeneral lighting applications:
+&emsp;(B) The term "general service fluorescent lamp" means fluorescent lamps which can be used to satisfy the majority of fluorescent applications, but does not include any lamp designed and marketed for the following nongeneral lighting applications:
 
 &emsp;&emsp;(i) Fluorescent lamps designed to promote plant growth.
 
@@ -288,7 +288,7 @@ Exclusions.—The term "general service incandescent lamp" does not include the 
 
 &emsp;(M) The term "lamp efficacy" means the lumen output of a lamp divided by its wattage, expressed in lumens per watt (LPW).
 
-&emsp;(N) The term "lamp type" means all lamps designated as having the same electrical andlighting characteristics and made by one manufacturer.
+&emsp;(N) The term "lamp type" means all lamps designated as having the same electrical and lighting characteristics and made by one manufacturer.
 
 &emsp;(O) The term "lamp wattage" means the total electrical power consumed by a lamp in watts, after the initial seasoning period referenced in the appropriate IES standard test procedure and including, for fluorescent, arc watts plus cathode watts.
 
@@ -508,7 +508,7 @@ Colored incandescent lamp.—The term "colored incandescent lamp" means an incan
 
 &emsp;&emsp;(i) a transformer with multiple voltage taps, the highest of which equals at least 20 percent more than the lowest;
 
-&emsp;&emsp;(ii) a transformer that is designed to be used in a special purpose application and is unlikely to be used in general purpose applications, such as a drive transformer, rectifier transformer, auto-transformer,Uninterruptible Power System transformer, impedance transformer, regulating transformer, sealed and nonventilating transformer, machine tool transformer, welding transformer, grounding transformer, or testing transformer; or
+&emsp;&emsp;(ii) a transformer that is designed to be used in a special purpose application and is unlikely to be used in general purpose applications, such as a drive transformer, rectifier transformer, auto-transformer, Uninterruptible Power System transformer, impedance transformer, regulating transformer, sealed and nonventilating transformer, machine tool transformer, welding transformer, grounding transformer, or testing transformer; or
 
 &emsp;&emsp;(iii) any transformer not listed in clause (ii) that is excluded by the Secretary by rule because—
 
@@ -730,7 +730,7 @@ Efficiency formula.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) P<sub>in</sub> shall equal the measured operating input wattage;
 
-&emsp;&emsp;&emsp;(iii) the lamp, and the capacitor when the capacitor is provided, shall constitutea nominal system in accordance with the ANSI Standard C78.43–2004;
+&emsp;&emsp;&emsp;(iii) the lamp, and the capacitor when the capacitor is provided, shall constitute a nominal system in accordance with the ANSI Standard C78.43–2004;
 
 &emsp;&emsp;&emsp;(iv) for ballasts with a frequency of 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall be measured after lamps have been stabilized according to section 4.4 of ANSI Standard C82.6–2005 using a wattmeter with accuracy specified in section 4.5 of ANSI Standard C82.6–2005; and
 

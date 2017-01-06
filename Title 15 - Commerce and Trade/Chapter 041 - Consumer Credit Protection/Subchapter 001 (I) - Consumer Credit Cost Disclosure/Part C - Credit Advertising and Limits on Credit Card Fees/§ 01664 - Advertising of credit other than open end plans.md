@@ -14,7 +14,7 @@ If any advertisement to which this section applies states the rate of a finance 
 
 #### (d) Requisite disclosures in advertisement
 
-If any advertisement to which this section applies states the amount of the downpayment, ifany, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:
+If any advertisement to which this section applies states the amount of the downpayment, if any, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:
 
 &emsp;(1) The downpayment, if any.
 

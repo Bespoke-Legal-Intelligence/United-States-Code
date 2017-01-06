@@ -6,7 +6,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
 
 #### (b) Program goals
 
-The goals of the program established under subsection (a) of this section shall include—
+The goals of the program established under subsection (a) shall include—
 
 &emsp;(1) improved resource selection and product quality;
 

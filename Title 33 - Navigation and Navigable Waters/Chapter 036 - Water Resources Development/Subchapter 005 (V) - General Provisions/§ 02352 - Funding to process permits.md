@@ -8,27 +8,31 @@
 
 #### (A) Natural gas company
 
-&emsp;&emsp;The term "natural gas company" has the meaning given the term in section 16451 oftitle 42, except that the term also includes a person engaged in the transportation of natural gas in intrastate commerce.
+&emsp;&emsp;The term "natural gas company" has the meaning given the term in section 16451 of title 42, except that the term also includes a person engaged in the transportation of natural gas in intrastate commerce.
 
 #### (B) Public-utility company
 
 &emsp;&emsp;The term "public-utility company" has the meaning given the term in section 16451 of title 42.
 
+#### (C) Railroad carrier
+
+&emsp;&emsp;The term "railroad carrier" has the meaning given the term in section 20102 of title 49.
+
 #### (2) Permit processing
 
-&emsp;The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company or natural gas company to expedite the evaluation of a permit of that entity or company related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
+&emsp;The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company, natural gas company, or railroad carrier to expedite the evaluation of a permit of that entity, company, or carrier related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
 
 #### (3) Limitation for public-utility and natural gas companies
 
-&emsp;The authority provided under paragraph (2) to a public-utility company or natural gas company shall expire on the date that is 7 years after June 10, 2014.
+&emsp;The authority provided under paragraph (2) to a public-utility company, natural gas company, or railroad carrier shall expire on the date that is 10 years after June 10, 2014.
 
 #### (4) Effect on other entities
 
-&emsp;To the maximum extent practicable, the Secretary shall ensure that expediting the evaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
+&emsp;To the maximum extent practicable, the Secretary shall ensure that expediting theevaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
 
 #### (5) GAO study
 
-&emsp;Not later than 4 years after June 10, 2014, the Comptroller General of the United States shall carry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies and natural gas companies.
+&emsp;Not later than 4 years after June 10, 2014, the Comptroller General of the United States shall carry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies, natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws.
 
 #### (b) Effect on permitting
 
@@ -90,15 +94,23 @@ None of the funds accepted under this section shall be used to carry out a revie
 
 &emsp;&emsp;(B) make each report received under subparagraph (A) available on a single publicly accessible Internet site.
 
-(Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, §1006, June 10, 2014, 128 Stat. 1212.)
+(Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, §1006, June 10, 2014, 128 Stat. 1212; Pub. L. 114–322, title I, §1125, Dec. 16, 2016, 130 Stat. 1648.)
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 Section was formerly classified as a note under section 2201 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–322, §1125(1), added subpar. (C).
+
+Subsec. (a)(2). Pub. L. 114–322, §1125(2), substituted ", natural gas company, or railroad carrier" for "or natural gas company" and ", company, or carrier" for "or company".
+
+Subsec. (a)(3). Pub. L. 114–322, §1125(3), substituted ", natural gas company, or railroad carrier" for "or natural gas company" and "10 years" for "7 years".
+
+Subsec. (a)(5). Pub. L. 114–322, §1125(4), substituted ", natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws" for "and natural gas companies".
 
 <b>2014</b>—Subsec. (a)(1), (2). Pub. L. 113–121, §1006(1)(A), (B), substituted "Funding to process permits" for "In general" in subsec. heading, added par. (1), redesignated text of subsec. (a) as par. (2), inserted heading, and inserted "or a public-utility company or natural gas company" after "non-Federal public entity" and "or company" after "that entity".
 

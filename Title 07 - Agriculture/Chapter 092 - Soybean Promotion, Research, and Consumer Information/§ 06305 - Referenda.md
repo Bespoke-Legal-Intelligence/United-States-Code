@@ -8,7 +8,7 @@
 
 #### (2) Advance notice
 
-&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. Any such notice shall be provided without advertising expenses by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county Extension Service offices and county Agricultural Stabilization and Conservation Service offices, and by other appropriate means specified in the order. Such notice shall include information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent facts.
+&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advanceof any referendum. Any such notice shall be provided without advertising expenses by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county Extension Service offices and county Agricultural Stabilization and Conservation Service offices, and by other appropriate means specified in the order. Such notice shall include information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent facts.
 
 #### (3) Approval of order
 
@@ -32,7 +32,7 @@
 
 #### (C) Eligible producers
 
-&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during arepresentative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
+&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during a representative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
 
 #### (2) Disapproval of order
 

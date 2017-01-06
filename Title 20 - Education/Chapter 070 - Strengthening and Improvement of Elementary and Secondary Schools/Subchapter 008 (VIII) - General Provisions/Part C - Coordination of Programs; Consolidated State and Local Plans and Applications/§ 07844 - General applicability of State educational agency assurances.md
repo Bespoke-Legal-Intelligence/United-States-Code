@@ -8,7 +8,7 @@ A State educational agency, in consultation with the Governor of the State, that
 
 &emsp;(2)(A) the control of funds provided under each such program and title to property acquired with program funds will be in a public agency, a <sup>1</sup> eligible private agency, institution, or organization, or an Indian tribe, if the law authorizing the program provides for assistance to those entities; and
 
-&emsp;(B) the public agency, eligible private agency, institution, or organization, or Indiantribe will administer those funds and property to the extent required by the authorizing law;
+&emsp;(B) the public agency, eligible private agency, institution, or organization, or Indian tribe will administer those funds and property to the extent required by the authorizing law;
 
 &emsp;(3) the State will adopt and use proper methods of administering each such program, including—
 

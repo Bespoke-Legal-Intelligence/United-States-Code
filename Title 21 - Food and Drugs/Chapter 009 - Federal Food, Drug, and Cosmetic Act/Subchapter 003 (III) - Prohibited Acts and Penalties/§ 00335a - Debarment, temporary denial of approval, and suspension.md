@@ -4,7 +4,7 @@
 
 #### (1) Corporations, partnerships, and associations
 
-&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law forconduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such person from submitting, or assisting in the submission of, any such application.
+&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such person from submitting, or assisting in the submission of, any such application.
 
 #### (2) Individuals
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) is a felony under Federal law (if the person was convicted before May 13, 1992), a misdemeanor under Federal law, or a felony under State law, or
 
-&emsp;&emsp;&emsp;(ii) of a conspiracy to commit, or aiding or abetting, a criminal offense described in clause (i) or a felony described in subsection (a)(1) of this section,
+&emsp;&emsp;&emsp;(ii) of a conspiracy to commit, or aiding or abetting, a criminal offense described in clause (i) or a felony described in subsection (a)(1),
 
 > &emsp;&emsp;if the Secretary finds that the type of conduct which served as the basis for such conviction undermines the process for the regulation of drugs.
 
@@ -52,29 +52,29 @@
 
 &emsp;&emsp;&emsp;(I) a misdemeanor under Federal law or a felony under State law for conduct relating to the development or approval, including the process for development or approval, of any drug product or otherwise relating to the regulation of drug products under this chapter, or
 
-&emsp;&emsp;&emsp;(II) a conspiracy to commit, or aiding or abetting, such criminal offense or a felony described in subsection (a)(2) of this section,
+&emsp;&emsp;&emsp;(II) a conspiracy to commit, or aiding or abetting, such criminal offense or a felony described in subsection (a)(2),
 
 > &emsp;&emsp;if the Secretary finds that the type of conduct which served as the basis for such conviction undermines the process for the regulation of drugs.
 
 &emsp;&emsp;(ii) Any individual whom the Secretary finds has been convicted of—
 
-&emsp;&emsp;&emsp;(I) a felony which is not described in subsection (a)(2) of this section or clause (i) of this subparagraph and which involves bribery, payment of illegal gratuities, fraud, perjury, false statement, racketeering, blackmail, extortion, falsification or destruction of records, or interference with, obstruction of an investigation into, or prosecution of, any criminal offense, or
+&emsp;&emsp;&emsp;(I) a felony which is not described in subsection (a)(2) or clause (i) of this subparagraph and which involves bribery, payment of illegal gratuities, fraud, perjury, false statement, racketeering, blackmail, extortion, falsification or destruction of records, or interference with, obstruction of an investigation into, or prosecution of, any criminal offense, or
 
 &emsp;&emsp;&emsp;(II) a conspiracy to commit, or aiding or abetting, such felony,
 
 > &emsp;&emsp;if the Secretary finds, on the basis of the conviction of such individual and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
-&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) of this section or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
+&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, ifthe Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
-&emsp;&emsp;&emsp;(I) worked for, or worked as a consultant for, the same person as another individual during the period in which such other individual took actions for which a felony conviction was obtained and which resulted in the debarment under subsection (a)(2) of this section, or clause (i), of such other individual,
+&emsp;&emsp;&emsp;(I) worked for, or worked as a consultant for, the same person as another individual during the period in which such other individual took actions for which a felony conviction was obtained and which resulted in the debarment under subsection (a)(2), or clause (i), of such other individual,
 
 &emsp;&emsp;&emsp;(II) had actual knowledge of the actions described in subclause (I) of such other individual, or took action to avoid such actual knowledge, or failed to take action for the purpose of avoiding such actual knowledge,
 
 &emsp;&emsp;&emsp;(III) knew that the actions described in subclause (I) were violative of law, and
 
-&emsp;&emsp;&emsp;(IV) did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs wasnot undermined, within a reasonable time after such agent first knew of such actions,
+&emsp;&emsp;&emsp;(IV) did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs was not undermined, within a reasonable time after such agent first knew of such actions,
 
 > &emsp;&emsp;if the Secretary finds that the type of conduct which served as the basis for such other individual's conviction undermines the process for the regulation of drugs.
 
@@ -96,9 +96,9 @@
 
 &emsp;The Secretary—
 
-&emsp;&emsp;(A) shall not accept or review (other than in connection with an audit under this section) any abbreviated drug application submitted by or with the assistance of a person debarred under subsection (a)(1) or (b)(2)(A) of this section during the period such person is debarred,
+&emsp;&emsp;(A) shall not accept or review (other than in connection with an audit under this section) any abbreviated drug application submitted by or with the assistance of a person debarred under subsection (a)(1) or (b)(2)(A) during the period such person is debarred,
 
-&emsp;&emsp;(B) shall, during the period of a debarment under subsection (a)(2) or (b)(2)(B) of this section, debar an individual from providing services in any capacity to a person that has an approved or pending drug product application and shall not accept or review (other than in connection with an audit under this section) an abbreviated drug application from such individual, and
+&emsp;&emsp;(B) shall, during the period of a debarment under subsection (a)(2) or (b)(2)(B), debar an individual from providing services in any capacity to a person that has an approved or pending drug product application and shall not accept or review (other than in connection with an audit under this section) an abbreviated drug application from such individual, and
 
 &emsp;&emsp;(C) shall, if the Secretary makes the finding described in paragraph (6) or (7) of section 335b(a) of this title, assess a civil penalty in accordance with section 335b of this title.
 
@@ -106,23 +106,23 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall debar a person under subsection (a) or (b) of this section for the following periods:
+&emsp;&emsp;The Secretary shall debar a person under subsection (a) or (b) for the following periods:
 
-&emsp;&emsp;&emsp;(i) The period of debarment of a person (other than an individual) under subsection (a)(1) of this section shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under subsection (a) of this section occurs within 10 years after such person has been debarred under subsection (a)(1) of this section, the period of debarment shall be permanent.
+&emsp;&emsp;&emsp;(i) The period of debarment of a person (other than an individual) under subsection (a)(1) shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under subsection (a) occurs within 10 years after such person has been debarred under subsection (a)(1), the period of debarment shall be permanent.
 
-&emsp;&emsp;&emsp;(ii) The debarment of an individual under subsection (a)(2) of this section shall be permanent.
+&emsp;&emsp;&emsp;(ii) The debarment of an individual under subsection (a)(2) shall be permanent.
 
-&emsp;&emsp;&emsp;(iii) The period of debarment of any person under paragraph (2) or (3) of subsection (b) of this section shall not be more than 5 years.
+&emsp;&emsp;&emsp;(iii) The period of debarment of any person under paragraph (2) or (3) of subsection (b) shall not be more than 5 years.
 
 > &emsp;&emsp;The Secretary may determine whether debarment periods shall run concurrently or consecutively in the case of a person debarred for multiple offenses.
 
 #### (B) Notification
 
-&emsp;&emsp;Upon a conviction for an offense described in subsection (a) or (b) of this section or upon execution of an agreement with the United States to plead guilty to such an offense, the person involved may notify the Secretary that the person acquiesces to debarment and such person's debarment shall commence upon such notification.
+&emsp;&emsp;Upon a conviction for an offense described in subsection (a) or (b) or upon execution of an agreement with the United States to plead guilty to such an offense, the person involved may notify the Secretary that the person acquiesces to debarment and such person's debarment shall commence upon such notification.
 
 #### (3) Considerations
 
-&emsp;In determining the appropriateness and the period of a debarment of a person under subsection (b) of this section and any period of debarment beyond the minimum specified in subparagraph (A)(i) of paragraph (2), the Secretary shall consider where applicable—
+&emsp;In determining the appropriateness and the period of a debarment of a person under subsection (b) and any period of debarment beyond the minimum specified in subparagraph (A)(i) of paragraph (2), the Secretary shall consider where applicable—
 
 &emsp;&emsp;(A) the nature and seriousness of any offense involved,
 
@@ -140,7 +140,7 @@
 
 #### (1) Application
 
-&emsp;Any person that is debarred under subsection (a) of this section (other than a person permanently debarred) or any person that is debarred under subsection (b) of this section may apply to the Secretary for termination of the debarment under this subsection. Any information submitted to the Secretary under this paragraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
+&emsp;Any person that is debarred under subsection (a) (other than a person permanently debarred) or any person that is debarred under subsection (b) may apply to the Secretary for termination of the debarment under this subsection. Any information submitted to the Secretary under this paragraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
 
 #### (2) Deadline
 
@@ -152,7 +152,7 @@
 
 #### (i) Conviction reversal
 
-&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of a person under subsection (a)(1) of this section or paragraph (2)(A) or (3) of subsection (b) of this section is reversed, the Secretary shall withdraw the order of debarment.
+&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of a person under subsection (a)(1) or paragraph (2)(A) or (3) of subsection (b) is reversed, the Secretary shall withdraw the order of debarment.
 
 #### (ii) Application
 
@@ -162,23 +162,23 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in applicable cases, sufficient audits, conducted by the Food and Drug Administration or by independent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
 
-&emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than the expiration of one year from the date of the debarment.
+&emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1), such termination shall take effect no earlier than the expiration of one year from the date of the debarment.
 
 #### (B) Individuals
 
 #### (i) Conviction reversal
 
-&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of an individual under subsection (a)(2) of this section or clause (i), (ii), (iii), or (iv) of subsection (b)(2)(B) or subsection (b)(3) of this section is reversed, the Secretary shall withdraw the order of debarment.
+&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of an individual under subsection (a)(2) or clause (i), (ii), (iii), or (iv) of subsection (b)(2)(B) or subsection (b)(3) is reversed, the Secretary shall withdraw the order of debarment.
 
 #### (ii) Application
 
-&emsp;&emsp;&emsp;Upon application submitted under paragraph (1), the Secretary shall terminate the debarment of an individual who has been debarred under subsection (b)(2)(B) or subsection (b)(3) of this section if such termination serves the interests of justice and adequately protects the integrity of the drug approval process or the food importation process, as the case may be.
+&emsp;&emsp;&emsp;Upon application submitted under paragraph (1), the Secretary shall terminate the debarment of an individual who has been debarred under subsection (b)(2)(B) or subsection (b)(3) if such termination serves the interests of justice and adequately protects the integrity of the drug approval process or the food importation process, as the case may be.
 
 #### (4) Special termination
 
 #### (A) Application
 
-&emsp;&emsp;Any person that is debarred under subsection (a)(1) of this section (other than a person permanently debarred under subsection (c)(2)(A)(i) of this section) or any individual who is debarred under subsection (a)(2) of this section may apply to the Secretary for special termination of debarment under this subsection. Any information submitted to the Secretary under this subparagraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
+&emsp;&emsp;Any person that is debarred under subsection (a)(1) (other than a person permanently debarred under subsection (c)(2)(A)(i)) or any individual who is debarred under subsection (a)(2) may apply to the Secretary for special termination of debarment under this subsection. Any information submitted to the Secretary under this subparagraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
 
 #### (B) Corporations
 
@@ -194,7 +194,7 @@
 
 #### (C) Individuals
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) or which relate to any matter under the jurisdiction of the Food and Drug Administration.
 
 #### (D) Secretarial action
 
@@ -212,7 +212,7 @@
 
 #### (e) Publication and list of debarred persons
 
-The Secretary shall publish in the Federal Register the name of any person debarred under subsection (a) or (b) of this section, the effective date of the debarment, and the period of the debarment. The Secretary shall also maintain and make available to the public a list, updated no less often than quarterly, of such persons, of the effective dates and minimum periods of such debarments, and of the termination of debarments.
+The Secretary shall publish in the Federal Register the name of any person debarred under subsection (a) or (b), the effective date of the debarment, and the period of the debarment. The Secretary shall also maintain and make available to the public a list, updated no less often than quarterly, of such persons, of the effective dates and minimum periods of such debarments, and of the termination of debarments.
 
 #### (f) Temporary denial of approval
 
@@ -262,9 +262,9 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(A) the Secretary finds—
 
-&emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) of this section in connection with 2 or more drugs under abbreviated drug applications, or
+&emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution ofone or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 
@@ -272,7 +272,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(B) such person is under an active investigation by a Federal authority in connection with a civil or criminal action involving conduct described in subparagraph (A),
 
-> &emsp;the Secretary shall issue an order suspending the distribution of all drugs the development or approval of which was related to such conduct described in subparagraph (A) or suspending the distribution of all drugs approved under abbreviated drug applications of such person if the Secretary finds that such conduct may have affected the development or approval of a significant number of drugs whichthe Secretary is unable to identify. The Secretary shall exclude a drug from such order if the Secretary determines that such conduct was not likely to have influenced the safety or efficacy of such drug.
+> &emsp;the Secretary shall issue an order suspending the distribution of all drugs the development or approval of which was related to such conduct described in subparagraph (A) or suspending the distribution of all drugs approved under abbreviated drug applications of such person if the Secretary finds that such conduct may have affected the development or approval of a significant number of drugs which the Secretary is unable to identify. The Secretary shall exclude a drug from such order if the Secretary determines that such conduct was not likely to have influenced the safety or efficacy of such drug.
 
 #### (2) Public health waiver
 
@@ -280,7 +280,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (h) Termination of suspension
 
-The Secretary shall withdraw an order of suspension of the distribution of a drug under subsection (g) of this section if the person with respect to whom the order was issued demonstrates in a petition to the Secretary—
+The Secretary shall withdraw an order of suspension of the distribution of a drug under subsection (g) if the person with respect to whom the order was issued demonstrates in a petition to the Secretary—
 
 &emsp;(1)(A) on the basis of an audit by the Food and Drug Administration or by experts acceptable to the Food and Drug Administration, or on the basis of other information, that the development, approval, manufacturing, and distribution of such drug is in substantial compliance with the applicable requirements of this chapter, and
 
@@ -296,25 +296,25 @@ The Secretary shall withdraw an order of suspension of the distribution of a dru
 
 #### (i) Procedure
 
-The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g), or (h) of this section with respect to any person unless the Secretary has issued an order for such action made on the record after opportunity for an agency hearing on disputed issues of material fact. In the course of any investigation or hearing under this subsection, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g), or (h) with respect to any person unless the Secretary has issued an order for such action made on the record after opportunity for an agency hearing on disputed issues of material fact. In the course of any investigation or hearing under this subsection, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
 #### (j) Judicial review
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person that is the subject of an adverse decision under subsection (a), (b), (c), (d), (f), (g), or (h) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+&emsp;Except as provided in paragraph (2), any person that is the subject of an adverse decision under subsection (a), (b), (c), (d), (f), (g), or (h) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (2) Exception
 
-&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection (b)(2)(B) of this section may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
+&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection (b)(2)(B) may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
 
 #### (k) Certification
 
 Any application for approval of a drug product shall include—
 
-&emsp;(1) a certification that the applicant did not and will not use in any capacity the services of any person debarred under subsection (a) or (b) of this section, in connection with such application, and
+&emsp;(1) a certification that the applicant did not and will not use in any capacity the services of any person debarred under subsection (a) or (b), in connection with such application, and
 
-&emsp;(2) if such application is an abbreviated drug application, a list of all convictions, described in subsections (a) and (b) of this section which occurred within the previous 5 years, of the applicant and affiliated persons responsible for the development or submission of such application.
+&emsp;(2) if such application is an abbreviated drug application, a list of all convictions, described in subsections (a) and (b) which occurred within the previous 5 years, of the applicant and affiliated persons responsible for the development or submission of such application.
 
 #### (l) Applicability
 
@@ -330,7 +330,7 @@ Any application for approval of a drug product shall include—
 
 #### (2) Effective dates
 
-&emsp;Subsection (a) of this section, subparagraph (A) of subsection (b)(2) of this section, clauses (i) and (ii) of subsection (b)(2)(B) of this section, and subsection (b)(3)(A) of this section shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b) of this section. Clauses (iii) and (iv) of subsection (b)(2)(B) of this section, subsection (b)(3)(B) of this section, and subsections (f) and (g) of this section shall not apply to an act or action which occurred more than 5 years before the initiation of an agencyaction proposed to be taken under subsection (b), (f), or (g) of this section. Clause (iv) of subsection (b)(2)(B) of this section shall not apply to an action which occurred before June 1, 1992. Subsection (k) of this section shall not apply to applications submitted to the Secretary before June 1, 1992.
+&emsp;Subsection (a), subparagraph (A) of subsection (b)(2), clauses (i) and (ii) of subsection (b)(2)(B), and subsection (b)(3)(A) shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b). Clauses (iii) and (iv) of subsection (b)(2)(B), subsection (b)(3)(B), and subsections (f) and (g) shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g). Clause (iv) of subsection (b)(2)(B) shall not apply to an action which occurred before June 1, 1992. Subsection (k) shall not apply to applications submitted to the Secretary before June 1, 1992.
 
 #### (m) Devices; mandatory debarment regarding third-party inspections and reviews
 
@@ -348,7 +348,7 @@ Any application for approval of a drug product shall include—
 
 #### (3) Termination of debarment; judicial review; other matters
 
-&emsp;Subsections (c)(3), (d), (e), (i), (j), and (l)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
+&emsp;Subsections (c)(3), (d), (e), (i), (j), and (l)(1) apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1), or an individual who is debarred under subsection (a)(2), respectively.
 
 (June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
 
@@ -372,7 +372,7 @@ Subsec. (b)(3), (4). Pub. L. 107–188, §304(a)(2)(B), (C), added par. (3) and 
 
 Subsec. (c)(2)(A)(iii). Pub. L. 107–188, §304(b)(3), substituted "paragraph (2) or (3) of subsection (b)" for "subsection (b)(2)".
 
-Subsec. (d)(3)(A)(i). Pub. L. 107–188, §304(b)(4)(A), substituted "subsection (a)(1) of this section or paragraph (2)(A) or (3) of subsection (b)" for "subsection (a)(1) or (b)(2)(A)".
+Subsec. (d)(3)(A)(i). Pub. L. 107–188, §304(b)(4)(A), substituted "subsection (a)(1) or paragraph (2)(A) or (3) of subsection (b)" for "subsection (a)(1) or (b)(2)(A)".
 
 Subsec. (d)(3)(A)(ii)(II). Pub. L. 107–188, §304(b)(4)(B), inserted "in applicable cases," before "sufficient audits".
 
@@ -380,7 +380,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 107–188, §304(b)(4)(C), inserted "or subsection
 
 Subsec. (d)(3)(B)(ii). Pub. L. 107–188, §304(b)(4)(C), (D), inserted "or subsection (b)(3)" after "subsection (b)(2)(B)" and "or the food importation process, as the case may be" before period.
 
-Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out "and" after "subsection (b)(2) of this section," and inserted ", and subsection (b)(3)(A) of this section" after "subsection (b)(2)(B) of this section" and in second sentence inserted ", subsection (b)(3)(B) of this section," after "subsection (b)(2)(B) of this section".
+Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out "and" after "subsection (b)(2)," and inserted ", and subsection (b)(3)(A)" after "subsection (b)(2)(B)" and in second sentence inserted ", subsection (b)(3)(B)," after "subsection (b)(2)(B)".
 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 

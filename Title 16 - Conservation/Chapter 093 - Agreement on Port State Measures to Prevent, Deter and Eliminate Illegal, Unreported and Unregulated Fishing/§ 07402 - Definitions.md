@@ -4,9 +4,9 @@ As used in this chapter:
 
 &emsp;(1) The term "Agreement" means the Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing, done at the Food and Agriculture Organization of the United Nations, in Rome, Italy, November 22, 2009, and signed by the United States November 22, 2009.
 
-&emsp;(2) The term "IUU fishing" means any activity set out in paragraph 3 of the 2001 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing.
+&emsp;(2) The term "IUU fishing" means any activity set out in paragraph 3 of the 2001 FAOInternational Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing.
 
-&emsp;(3) The term "listed IUU vessel" means a vessel that is included in a list of vessels having engaged in IUU fishing or fishing-relatedactivities in support of IUU fishing that has been adopted by a regional fisheries management organization of which the United States is a member, or a list adopted by a regional fisheries management organization of which the United States is not a member if the Secretary determines the criteria used by that organization to create the IUU list is comparable to criteria adopted by RFMOs of which the United States is a member for identifying IUU vessels and activities.
+&emsp;(3) The term "listed IUU vessel" means a vessel that is included in a list of vessels having engaged in IUU fishing or fishing-related activities in support of IUU fishing that has been adopted by a regional fisheries management organization of which the United States is a member, or a list adopted by a regional fisheries management organization of which the United States is not a member if the Secretary determines the criteria used by that organization to create the IUU list is comparable to criteria adopted by RFMOs of which the United States is a member for identifying IUU vessels and activities.
 
 &emsp;(4) The term "Magnuson-Stevens Act" means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 

@@ -2,7 +2,7 @@
 
 #### (a) Interest rates; security; equitable geographical distribution
 
-(1) Any loan made by the Secretary to a public agency under this part for the modernization or construction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities inthe same or similar areas, minus 3 per centum per annum.
+(1) Any loan made by the Secretary to a public agency under this part for the modernization or construction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities in the same or similar areas, minus 3 per centum per annum.
 
 (2)(A) No loan to a public agency shall be made under this part unless—
 
@@ -10,13 +10,13 @@
 
 &emsp;(ii) such agency provides the Secretary with reasonable assurances that there will be available to such agency such additional funds as may be necessary to complete the project with respect to which such loan is requested.
 
-(B) Any loan to a public agency shall have such security, have such maturity date, be repayable in such installments, and be subject to such other terms and conditions (including provision for recovery in case of default) as the Secretary determines to be necessary to carry out the purposes of this part while adequately protecting the financial interests of the United States.
+(B) Any loan to a public agency shall have such security, have such maturity date, be repayable in such installments, and be subject tosuch other terms and conditions (including provision for recovery in case of default) as the Secretary determines to be necessary to carry out the purposes of this part while adequately protecting the financial interests of the United States.
 
 (3) In making loans to public agencies under this part, the Secretary shall give due regard to achieving an equitable geographical distribution of such loans.
 
 #### (b) Sale
 
-(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans referred to in subsection (a)(1) of this section either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
+(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans referred to in subsection (a)(1) either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
 
 (2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loan as of the time of sale.
 
@@ -52,7 +52,7 @@ Amounts received by the Secretary as proceeds from the sale of loans under this 
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary, for deposit in the loan fund established by section 291j–6 of this title, $30,000,000 to provide initial capital for the making of direct loans by the Secretary to public agencies for the modernization or construction of facilities referred to in subsection (a)(1) of this section.
+There is authorized to be appropriated to the Secretary, for deposit in the loan fund established by section 291j–6 of this title, $30,000,000 to provide initial capital for the making of direct loans by the Secretary to public agencies for the modernization or construction of facilities referred to in subsection (a)(1).
 
 (July 1, 1944, ch. 373, title VI, §627, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 349; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -62,5 +62,5 @@ There is authorized to be appropriated to the Secretary, for deposit in the loan
 
 #### Commitments for Direct Loans to Public Agencies
 
-Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: "That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[42 U.S.C. 291j–7\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at anygiven time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received."
+Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: "That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[42 U.S.C. 291j–7\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received."
 

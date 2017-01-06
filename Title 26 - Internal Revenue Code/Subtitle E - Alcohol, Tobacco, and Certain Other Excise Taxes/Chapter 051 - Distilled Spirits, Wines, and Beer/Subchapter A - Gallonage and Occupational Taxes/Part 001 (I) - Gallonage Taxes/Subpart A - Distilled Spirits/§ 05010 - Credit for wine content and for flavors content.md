@@ -16,7 +16,7 @@
 
 #### (3) Fractional part of proof gallon
 
-&emsp;In the case of any fractional part of a proof gallon of the wine content, or of the flavorscontent, of distilled spirits, a proportionate credit shall be allowed.
+&emsp;In the case of any fractional part of a proof gallon of the wine content, or of the flavors content, of distilled spirits, a proportionate credit shall be allowed.
 
 #### (b) Time for determining and allowing credit
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of P
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: "The amendments made by this section \[amending this section\] shall apply withrespect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1984 Amendment
 

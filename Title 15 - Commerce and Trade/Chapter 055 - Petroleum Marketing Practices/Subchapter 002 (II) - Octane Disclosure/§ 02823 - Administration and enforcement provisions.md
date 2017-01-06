@@ -2,7 +2,7 @@
 
 #### (a) Procedural, investigative, and enforcement powers of Federal Trade Commission
 
-The Federal Trade Commission shall have procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements of this subchapter and rules prescribed pursuant to the requirements of this subchapter, to further define terms used in this subchapter, and to require the filing of reports, the production of documents, and the appearance of witnesses, as though the applicable terms and conditions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were part of this subchapter.
+The Federal Trade Commission shall have procedural, investigative, and enforcement powers,including the power to issue procedural rules in enforcing compliance with the requirements of this subchapter and rules prescribed pursuant to the requirements of this subchapter, to further define terms used in this subchapter, and to require the filing of reports, the production of documents, and the appearance of witnesses, as though the applicable terms and conditions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were part of this subchapter.
 
 #### (b) Testing, certification, and notice requirements of Environmental Protection Agency; interagency enforcement agreements between Federal Trade Commission and Environmental Protection Agency and other Federal agencies
 
@@ -70,7 +70,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Se
 
 Pub. L. 102–486, §1501(c)(3)(A), (B), substituted "automotive fuel rating" for "octane rating" and "fuel" for "gasoline" wherever appearing.
 
-Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted "automotive fuel rating" for "octane rating" and"fuel" for "gasoline" wherever appearing, "section 2821" for "section 2821(1)" in par. (3), and "automotive fuel ratings" for "octane ratings" in par. (4).
+Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted "automotive fuel rating" for "octane rating" and "fuel" for "gasoline" wherever appearing, "section 2821" for "section 2821(1)" in par. (3), and "automotive fuel ratings" for "octane ratings" in par. (4).
 
 Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sentence "; except that for purposes of section 5(m)(1)(A) of such Act, the term 'or knowledge fairly implied on the basis of objective circumstances' shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title".
 

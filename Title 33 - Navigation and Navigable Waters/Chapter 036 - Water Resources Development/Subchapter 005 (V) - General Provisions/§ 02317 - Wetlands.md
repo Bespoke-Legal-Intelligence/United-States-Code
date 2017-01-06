@@ -34,13 +34,13 @@ Notwithstanding any other provision of law, the Secretary is authorized and dire
 
 &emsp;&emsp;(A) to meeting the objective of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] to restore and maintain the physical, chemical, and biological integrity of the Nation's waters, and
 
-&emsp;&emsp;(B) to attaining the goals established by subsection (a) of this section.
+&emsp;&emsp;(B) to attaining the goals established by subsection (a).
 
 > The project under this subsection shall be carried out to improve the quality of effluent discharged from publicly owned treatment works operated by the city of Fayetteville, Arkansas, into Mud Creek or its tributaries.
 
 #### (c) Non-Federal responsibilities
 
-For the project conducted under subsection (b) of this section, the non-Federal interest shall agree—
+For the project conducted under subsection (b), the non-Federal interest shall agree—
 
 &emsp;(1) to provide, without cost to the United States, all lands, easements, rights-of-way, relocations, and dredged material disposal areas necessary for construction and subsequent research and demonstration work;
 
@@ -48,17 +48,17 @@ For the project conducted under subsection (b) of this section, the non-Federal 
 
 &emsp;(3) to operate and maintain the restored or constructed wetlands in accordance with good management practices; except that nothing in this paragraph shall be construed as precluding a Federal agency from agreeing to operate and maintain the restored or reconstructed wetlands.
 
-> The value of the non-Federal lands, easements, rights-of-way, relocations, and dredged material disposal areas provided by the non-Federal interest shall be credited toward the non-Federalshare of project design and construction costs. The non-Federal share of project design and construction costs shall be 25 percent.
+> The value of the non-Federal lands, easements, rights-of-way, relocations, and dredged material disposal areas provided by the non-Federal interest shall be credited toward the non-Federal share of project design and construction costs. The non-Federal share of project design and construction costs shall be 25 percent.
 
 #### (d) Wetlands restoration and enhancement demonstration program
 
 #### (1) Establishment and implementation
 
-&emsp;The Secretary, in consultation with the Administrator, is authorized to establish and implement a demonstration program for the purpose of determining the feasibility of wetlands restoration, enhancement, and creation as a means of contributing to the goals established by subsection (a) of this section.
+&emsp;The Secretary, in consultation with the Administrator, is authorized to establish and implement a demonstration program for the purpose of determining the feasibility of wetlands restoration, enhancement, and creation as a means of contributing to the goals established by subsection (a).
 
 #### (2) Goal
 
-&emsp;The goal of the program under this subsection shall be to establish a limited number of demonstration wetlands restoration, enhancement, and creation areas in districts of the Corps of Engineers for the purpose of evaluating the technical and scientific long-term feasibility of such areas as a means of contributing to the attainment of the goals established by subsection (a) of this section. Federal and State land-owning agencies and private parties may contribute to such areas.
+&emsp;The goal of the program under this subsection shall be to establish a limited number of demonstration wetlands restoration, enhancement, and creation areas in districts of the Corps of Engineers for the purpose of evaluating the technical and scientific long-term feasibility of such areas as a means of contributing to the attainment of the goals established by subsection (a). Federal and State land-owning agencies and private parties may contribute to such areas.
 
 #### (3) Factors to consider
 
@@ -84,7 +84,7 @@ For the project conducted under subsection (b) of this section, the non-Federal 
 
 #### (B) To Congress
 
-&emsp;&emsp;Not later than 3 years after November 28, 1990, the Secretary shall transmit to Congress a report evaluating the use of wetlands restoration, enhancement, and creation areas in fulfilling the goal established by paragraph (2), together with recommendations on whether or not to continue use of such areas as a means of meeting the goals established by subsection (a) of this section.
+&emsp;&emsp;Not later than 3 years after November 28, 1990, the Secretary shall transmit to Congress a report evaluating the use of wetlands restoration, enhancement, and creation areas in fulfilling the goal established by paragraph (2), together with recommendations on whether or not to continue use of such areas as a means of meeting the goals established by subsection (a).
 
 #### (5) Effect on other laws
 

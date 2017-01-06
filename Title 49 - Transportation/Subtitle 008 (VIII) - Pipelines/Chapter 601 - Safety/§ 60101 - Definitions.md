@@ -86,7 +86,7 @@ General.—In this chapter—
 
 &emsp;&emsp;&emsp;(ii) the movement of gas through regulated gathering lines; but
 
-&emsp;&emsp;(B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area.<sup>1</sup>
+&emsp;&emsp;(B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area;
 
 &emsp;(22) "transporting hazardous liquid"—
 
@@ -102,13 +102,21 @@ General.—In this chapter—
 
 &emsp;&emsp;&emsp;(ii) onshore production, refining, or manufacturing facilities; or
 
-&emsp;&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities.<sup>1</sup>
+&emsp;&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities;
 
 &emsp;(23) "risk management" means the systematic application, by the owner or operator of a pipeline facility, of management policies, procedures, finite resources, and practices to the tasks of identifying, analyzing, assessing, reducing, and controlling risk in order to protect employees, the general public, the environment, and pipeline facilities;
 
-&emsp;(24) "risk management plan" means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management; and
+&emsp;(24) "risk management plan" means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management;
 
-&emsp;(25) "Secretary" means the Secretary of Transportation.
+&emsp;(25) "Secretary" means the Secretary of Transportation; and
+
+&emsp;(26) "underground natural gas storage facility" means a gas pipeline facility that stores natural gas in an underground facility, including—
+
+&emsp;&emsp;(A) a depleted hydrocarbon reservoir;
+
+&emsp;&emsp;(B) an aquifer reservoir; or
+
+&emsp;&emsp;(C) a solution-mined salt cavern reservoir.
 
 (b)
 
@@ -120,13 +128,13 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 &emsp;(ii) is not bound by a classification the Commission establishes under the Natural Gas Act (15 U.S.C. 717 et seq.).
 
-(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
+(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, andthe composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
 
 (B)(i) The Secretary also shall consider diameter when defining "regulated gathering line" for hazardous liquid.
 
 (ii) The definition of "regulated gathering line" for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
 
-(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805; Pub. L. 109–468, §7, Dec. 29, 2006, 120 Stat. 3491; Pub. L. 112–90, §14, Jan. 3, 2012, 125 Stat. 1914.)
+(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805; Pub. L. 109–468, §7, Dec. 29, 2006, 120 Stat. 3491; Pub. L. 112–90, §14, Jan. 3, 2012, 125 Stat. 1914; Pub. L. 114–183, §12(a), June 22, 2016, 130 Stat. 522.)
 
 Historical and Revision Notes
 
@@ -276,7 +284,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §220; added Oct. 24, 1992, Pub. 
 
 In this chapter, the words "liquefied natural gas" are substituted for "LNG" for clarity. The word "authority" is substituted for "agency" for consistency in the revised title and with other titles of the United States Code. The words "gas" and "hazardous liquid" are added where applicable because of the restatement.
 
-In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) is omitted because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words "As used" are omitted as surplus. In clause (1)(A), the words "Federal Energy Regulatory Commission" and "Commission" are substituted for "Department of Energy" because under 42:7171(a) and 7172(a)(1) the Commission is statutorily independent of the Department and has the responsibility for siting, construction, and operating applications. In clauses (3) and (5), the words "without limitation, new and existing" are omitted as surplus. In clause (4)(B), the words "or material" are omitted as surplus. In clause (6), before subclause (A), the word "pipeline" is substituted for "transmission" for clarity and consistency. In clause (8)(A), before subclause (i), the words "trade, traffic, transportation, exchange, or other" are omitted as surplus. In subclause (ii), the words "trade, transportation, exchange, or other" are omitted as surplus. In clause (8)(B), the word "place" is substituted for "point" for clarity and consistency in the revised title. In clause (9), before subclause (A), the word "facility" is substituted for "transportation" for clarity and consistency. In clause (12), the words "resulting from" and the text of 49 App.:1671(16)(A)–(D) are omitted as surplus. In clause (13), the words "(liquefaction or solidification)" and "(vaporization)" are omitted as surplus. In clauses (14) and (16), the word "pipeline" is added for clarity. In clause (15), the words "city, county, or any other" are omitted as surplus. In clause (17), the words "in addition to its meaning under section 1 of title 1 (except as to societies)" are substituted for "any individual, firm, joint venture, partnership, corporation, association . . . cooperative association, or joint stock association" to eliminate unnecessary words, for clarity, and for consistency in the revised title and with other titles of the Code. Clauses (18) and (19) are added because of the restatement. In clause (20), the words "of the United States" are substituted for "of the several" forconsistency in the revised title and with other titles of the Code. In clause (21)(B), the words "outside a populated area" are substituted for "which lie outside the limits of any incorporated or unincorporated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, a community development, or any similar populated area" to eliminate unnecessary words. In clause (22)(B)(i), the word "area" is substituted for "locations" for consistency.
+In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) is omitted because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words "As used" are omitted as surplus. In clause (1)(A), the words "Federal Energy Regulatory Commission" and "Commission" are substituted for "Department of Energy" because under 42:7171(a) and 7172(a)(1) the Commission is statutorily independent of the Department and has the responsibility for siting, construction, and operating applications. In clauses (3) and (5), the words "without limitation, new and existing" are omitted as surplus. In clause (4)(B), the words "or material" are omitted as surplus. In clause (6), before subclause (A), the word "pipeline" is substituted for "transmission" for clarity and consistency. In clause (8)(A), before subclause (i), the words "trade, traffic, transportation, exchange, or other" are omitted as surplus. In subclause (ii), the words "trade, transportation, exchange, or other" are omitted as surplus. In clause (8)(B), the word "place" is substituted for "point" for clarity and consistency in the revised title. In clause (9), before subclause (A), the word "facility" is substituted for "transportation" for clarity and consistency. In clause (12), the words "resulting from" and the text of 49 App.:1671(16)(A)–(D) are omitted as surplus. In clause (13), the words "(liquefaction or solidification)" and "(vaporization)" are omitted as surplus. In clauses (14) and (16), the word "pipeline" is added for clarity. In clause (15), the words "city, county, or any other" are omitted as surplus. In clause (17), the words "in addition to its meaning under section 1 of title 1 (except as to societies)" are substituted for "any individual, firm, joint venture, partnership, corporation, association . . . cooperative association, or joint stock association" to eliminate unnecessary words, for clarity, and for consistency in the revised title and with other titles of the Code. Clauses (18) and (19) are added because of the restatement. In clause (20), the words "of the United States" are substituted for "of the several" for consistency in the revised title and with other titles of the Code. In clause (21)(B), the words "outside a populated area" are substituted for "which lie outside the limits of any incorporated or unincorporated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, a community development, or any similar populated area" to eliminate unnecessary words. In clause (22)(B)(i), the word "area" is substituted for "locations" for consistency.
 
 Pub. L. 103–272, §4(s)
 
@@ -316,6 +324,12 @@ The amendments by section 4(s) of Pub. L. 103–272 to pars. (21) and (22) of su
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(21)(B). Pub. L. 114–183, §12(a)(1), substituted "nonrural area;" for "nonrural area."
+
+Subsec. (a)(22)(B)(iii). Pub. L. 114–183, §12(a)(2), substituted "facilities;" for "facilities."
+
+Subsec. (a)(26). Pub. L. 114–183, §12(a)(3)–(5), added par. (26).
+
 <b>2012</b>—Subsec. (a)(4)(B), (C). Pub. L. 112–90 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>2006</b>—Subsec. (a)(6). Pub. L. 109–468, §7(1), added par. (6) and struck out former par. (6) which defined "interstate gas pipeline facility".
@@ -343,6 +357,10 @@ Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted ", if appropria
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–183, §1(a), June 22, 2016, 130 Stat. 514, provided that: "This Act \[enacting sections 60141 and 60302 of this title, amending this section and sections 6107, 60103, 60106 to 60109, 60115, 60117, 60124, 60125, and 60130 of this title, enacting provisions set out as notes under sections 108, 60102, 60103, 60108, 60109, and 60117 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016' or the 'PIPES Act of 2016'."
 
 #### Short Title of 2012 Amendment
 
@@ -416,7 +434,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Pipeline Integrity, Safety, and Reliability Research and Development
 
-Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501; Pub. L. 112–90, §32(f), Jan. 3, 2012, 125 Stat. 1923, provided that:
+Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501; Pub. L. 112–90, §32(f), Jan. 3, 2012, 125 Stat. 1923; Pub. L. 114–183, §§2(e), 22(b)(2), June 22, 2016, 130 Stat. 516, 529, provided that:
 
 "(a)
 
@@ -488,7 +506,13 @@ Consultation.—The Secretary shall comply with the consultation requirements of
 
 &emsp;&emsp;"(C)
 
-Funding from non-federal sources.—The Secretary shall ensure at least 30 percent of the costs of program-wide research and developmentactivities are carried out using non-Federal sources.
+Funding from non-federal sources.—The Secretary shall ensure that—
+
+&emsp;&emsp;&emsp;"(i) at least 30 percent of the costs of technology research and development activities may be carried out using non-Federal sources;
+
+&emsp;&emsp;&emsp;"(ii) at least 20 percent of the costs of basic research and development with universities may be carried out using non-Federal sources; and
+
+&emsp;&emsp;&emsp;"(iii) up to 100 percent of the costs of research and development for purely governmental purposes may be carried out using Federal funds.
 
 "(e)
 
@@ -496,11 +520,23 @@ Reports to Congress.—Not later than 1 year after the date of enactment of this
 
 "(f)
 
-Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2012 through 2015.
+Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2016 through 2019.
 
 "(g)
 
-Participating Agencies Defined.—In this section, the term 'participating agencies' means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology."
+Participating Agencies Defined.—In this section, the term 'participating agencies' means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.
+
+"(h)
+
+Independent Experts.—Not later than 180 days after the date of enactment of the PIPES Act of 2016 \[June 22, 2016\], the Secretary shall—
+
+&emsp;"(1) implement processes and procedures to ensure that activities listed under subsection (c), to the greatest extent practicable, produce results that are peer-reviewed by independent experts and not by persons or entities that have a financial interest in the pipeline, petroleum, or natural gas industries, or that would be directly impacted by the results of the projects; and
+
+&emsp;"(2) submit to the Committee on Transportation and Infrastructure, the Committee on Energy and Commerce, and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the processes and procedures implemented under paragraph (1).
+
+"(i)
+
+Conflict of Interest.—The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, and includes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator."
 
 #### Definitions
 
@@ -513,6 +549,4 @@ Applicability of chapter 601 definitions.—In this Act \[see Short Title of 201
 "(2)
 
 High-consequence area.—In this Act, the term 'high-consequence area' means an area described in section 60109(a) of title 49, United States Code."
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

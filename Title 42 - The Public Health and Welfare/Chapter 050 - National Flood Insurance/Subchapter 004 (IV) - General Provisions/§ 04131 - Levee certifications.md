@@ -12,7 +12,7 @@ In carrying out section 100226 of Public Law 112–141 (42 U.S.C. 4101 note; 126
 
 #### (1) In general
 
-&emsp;On receipt of a request from a non-Federal interest, the Secretary may carry out a levee system evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
+&emsp;On receipt of a request from a non-Federal interest, the Secretary may carry out a leveesystem evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
 
 #### (2) Requirements
 
@@ -40,7 +40,7 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (a)(2) and (b)
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Definition of "Secretary"
 

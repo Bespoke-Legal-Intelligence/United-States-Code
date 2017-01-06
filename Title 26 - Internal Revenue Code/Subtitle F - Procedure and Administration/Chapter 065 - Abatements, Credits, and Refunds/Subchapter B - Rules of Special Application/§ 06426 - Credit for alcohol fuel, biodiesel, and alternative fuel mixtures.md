@@ -34,7 +34,7 @@ There shall be allowed as a credit—
 
 #### (C) Reduction delayed until annual production or importation of 7,500,000,000 gallons
 
-&emsp;&emsp;In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar yearsbeginning after 2007, subparagraph (A)(ii) shall be applied by substituting "51 cents" for "45 cents".
+&emsp;&emsp;In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting "51 cents" for "45 cents".
 
 #### (3) Alcohol fuel mixture
 
@@ -350,7 +350,7 @@ Amendment by section 203(c)(1) of Pub. L. 110–343 applicable to claims for cre
 
 Pub. L. 110–343, div. B, title II, §204(d), Oct. 3, 2008, 122 Stat. 3835, provided that: "The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 15331(b) of Pub. L. 110–246 effective June 18, 2008, see section 15331(c) of Pub. L. 110–246, set out as a note under section 40 of this title.
 
@@ -362,7 +362,7 @@ Pub. L. 110–172, §5(b), Dec. 29, 2007, 121 Stat. 2479, provided that: "The am
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 11113(b)(1)–(3)(A) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Amendment by section 11113(b)(1)–(3)(A) of Pub. L. 109–59 applicable to any sale or use for any period afterSept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
 Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 11151(f)(3) of Pub. L. 109–59, set out as a note under section 38 of this title.
 
@@ -390,7 +390,7 @@ Pub. L. 113–295, div. A, title I, §160(e), Dec. 19, 2014, 128 Stat. 4023, pro
 
 Pub. L. 111–312, title VII, §701(c), Dec. 17, 2010, 124 Stat. 3310, provided that: "Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17, 2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
 
-Pub. L. 111–312, title VII, §704(c), Dec. 17, 2010, 124 Stat. 3311, provided that: "Notwithstanding any other provision of law, in the case of any alternative fuel credit or any alternative fuel mixture credit properly determined under subsection (d) or (e) of section 6426 of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17,2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
+Pub. L. 111–312, title VII, §704(c), Dec. 17, 2010, 124 Stat. 3311, provided that: "Notwithstanding any other provision of law, in the case of any alternative fuel credit or any alternative fuel mixture credit properly determined under subsection (d) or (e) of section 6426 of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17, 2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

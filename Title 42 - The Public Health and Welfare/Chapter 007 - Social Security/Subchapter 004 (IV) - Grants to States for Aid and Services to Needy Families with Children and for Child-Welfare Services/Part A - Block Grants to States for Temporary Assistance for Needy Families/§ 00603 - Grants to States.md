@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VII) Marriage mentoring programs which use married couples as role models and mentors in at-risk communities.
 
-&emsp;&emsp;&emsp;&emsp;(VIII) Programs to reduce the disincentives to marriage in means-tested aidprograms, if offered in conjunction with any activity described in this subparagraph.
+&emsp;&emsp;&emsp;&emsp;(VIII) Programs to reduce the disincentives to marriage in means-tested aid programs, if offered in conjunction with any activity described in this subparagraph.
 
 #### (B) Limitation on use of funds for demonstration projects for coordination of provision of child welfare and TANF services to tribal families at risk of child abuse or neglect
 
@@ -110,7 +110,7 @@
 
 #### (E) Preference
 
-&emsp;&emsp;In awarding funds under this paragraph for fiscal year 2011, the Secretary shall givepreference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
+&emsp;&emsp;In awarding funds under this paragraph for fiscal year 2011, the Secretary shall give preference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
 
 #### (3) Supplemental grant for population increases in certain States
 
@@ -190,7 +190,7 @@
 
 #### (F) Grants reduced pro rata if insufficient appropriations
 
-&emsp;&emsp;If the amount appropriated pursuant to this paragraph for a fiscal year (or portion ofa fiscal year) is less than the total amount of payments otherwise required to be made under this paragraph for the fiscal year (or portion of the fiscal year), then the amount otherwise payable to any State for the fiscal year (or portion of the fiscal year) under this paragraph shall be reduced by a percentage equal to the amount so appropriated divided by such total amount.
+&emsp;&emsp;If the amount appropriated pursuant to this paragraph for a fiscal year (or portion of a fiscal year) is less than the total amount of payments otherwise required to be made under this paragraph for the fiscal year (or portion of the fiscal year), then the amount otherwise payable to any State for the fiscal year (or portion of the fiscal year) under this paragraph shall be reduced by a percentage equal to the amount so appropriated divided by such total amount.
 
 #### (G) Budget scoring
 
@@ -324,7 +324,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the percentage represented by the number of individuals in the State whose income is less than the poverty line divided by the number of such individuals in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the percentage represented by the number of adults who are recipients of assistance under the State program funded under this part divided by the number of adults in the United Stateswho are recipients of assistance under any State program funded under this part.
+&emsp;&emsp;&emsp;&emsp;(II) the percentage represented by the number of adults who are recipients of assistance under the State program funded under this part divided by the number of adults in the United States who are recipients of assistance under any State program funded under this part.
 
 #### (vi) Procedure for distribution of funds within States
 
@@ -376,7 +376,7 @@
 
 #### (ix) Reversion of unallotted formula funds
 
-&emsp;&emsp;&emsp;If at the end of any fiscal year any funds available under this subparagraph have not been allotted due to a determinationby the Secretary that any State has not met the requirements of clause (ii), such funds shall be transferred to the General Fund of the Treasury of the United States.
+&emsp;&emsp;&emsp;If at the end of any fiscal year any funds available under this subparagraph have not been allotted due to a determination by the Secretary that any State has not met the requirements of clause (ii), such funds shall be transferred to the General Fund of the Treasury of the United States.
 
 #### (B) Competitive grants
 
@@ -386,7 +386,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) The effectiveness of the proposal in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) expanding the base of knowledge about programs aimed at moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment.<sup>4</sup>
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) expanding the base of knowledge about programs aimed at moving recipients of assistance under State programs funded under this part who areleast job ready into unsubsidized employment.<sup>4</sup>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment; and
 
@@ -474,7 +474,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) The minor child is eligible for, or is receiving, assistance under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], benefits under the supplemental security income program under subchapter XVI of this chapter, medical assistance under subchapter XIX of this chapter, or child health assistance under subchapter XXI of this chapter.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999, the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D of this subchapter, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999, the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) A commitment by the noncustodial parent to cooperate, at the earliest opportunity, in the establishment of the paternity of the minor child, through voluntary acknowledgement or other procedures, and in the establishment of a child support order.
 
@@ -484,11 +484,11 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) A description of the services to be provided under this paragraph, and a commitment by the noncustodial parent to participate in such services, that are designed to assist the noncustodial parent obtain and retain employment, increase earnings, and enhance the financial and emotional contributions to the well-being of the minor child.
 
-> &emsp;&emsp;&emsp;&emsp;In order to protect custodial parents and children who may be at risk of domestic violence, the preceding provisions of this subclause shall not be construed to affect any other provision of law requiring a custodial parent to cooperate in establishing the paternity of a child or establishing or enforcing a support order with respect to a child, or entitling a custodial parent to refuse, for good cause, to provide such cooperation as a condition of assistance or benefit under any program, shall not be construed to require such cooperation by the custodial parent as a condition of participation of either parent in the program authorized underthis paragraph, and shall not be construed to require a custodial parent to cooperate with or participate in any activity under this clause. The entity operating a project under this clause with funds provided under this paragraph shall consult with domestic violence prevention and intervention organizations in the development of the project.
+> &emsp;&emsp;&emsp;&emsp;In order to protect custodial parents and children who may be at risk of domestic violence, the preceding provisions of this subclause shall not be construed to affect any other provision of law requiring a custodial parent to cooperate in establishing the paternity of a child or establishing or enforcing a support order with respect to a child, or entitling a custodial parent to refuse, for good cause, to provide such cooperation as a condition of assistance or benefit under any program, shall not be construed to require such cooperation by the custodial parent as a condition of participation of either parent in the program authorized under this paragraph, and shall not be construed to require a custodial parent to cooperate with or participate in any activity under this clause. The entity operating a project under this clause with funds provided under this paragraph shall consult with domestic violence prevention and intervention organizations in the development of the project.
 
 #### (iv) Targeting of hard to employ individuals with characteristics associated with long-term welfare dependence
 
-&emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph may expend not more than 30 percent of all funds provided to the project for programs that provide assistance in a form described in clause (i)—
+&emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph may expend not more than 30 percent of all funds provided to the project for programsthat provide assistance in a form described in clause (i)—
 
 &emsp;&emsp;&emsp;&emsp;(I) to recipients of assistance under the program funded under this part of the State in which the entity is located who have characteristics associated with long-term welfare dependence (such as school dropout, teen pregnancy, or poor work history), including, at the option of the State, by providing assistance in such form as a condition of receiving assistance under the State program funded under this part;
 
@@ -496,7 +496,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) who have attained 18 years of age but not 25 years of age; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) who, before attaining 18 years of age, were recipients of foster care maintenance payments (as defined in section 675(4) of this title) under part E of this subchapter or were in foster care under the responsibility of a State;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) who, before attaining 18 years of age, were recipients of foster care maintenance payments (as defined in section 675(4) of this title) under part E or were in foster care under the responsibility of a State;
 
 &emsp;&emsp;&emsp;&emsp;(III) to recipients of assistance under the State program funded under this part, determined to have significant barriers to self-sufficiency, pursuant to criteria established by the local private industry council; or
 
@@ -524,7 +524,7 @@
 
 #### (vii) Prohibition against use of grant funds for any other fund matching requirement
 
-&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) of this section or section 618 of this title or any other provision of this chapter or other Federal law.
+&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) or section 618 of this title or any other provision of this chapter or other Federal law.
 
 #### (viii) Deadline for expenditure
 
@@ -544,7 +544,7 @@
 
 &emsp;&emsp;&emsp;For purposes of this paragraph, the number of individuals with an income that is less than the poverty line shall be determined for a fiscal year—
 
-&emsp;&emsp;&emsp;&emsp;(I) based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case ofPuerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
+&emsp;&emsp;&emsp;&emsp;(I) based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
 
 &emsp;&emsp;&emsp;&emsp;(II) using data for the most recent year for which such data is available before the beginning of the fiscal year.
 
@@ -554,7 +554,7 @@
 
 #### (iii) Service delivery area
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term "service delivery area" shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>6</sup>
+&emsp;&emsp;&emsp;As used in this paragraph, the term "service delivery area" shall have themeaning given such term for purposes of the Job Training Partnership Act or.<sup>6</sup>
 
 #### (E) Funding for Indian tribes
 
@@ -638,7 +638,7 @@
 
 #### (III) Remedies
 
-&emsp;&emsp;&emsp;&emsp;The procedure shall include remedies for violation of clause (i), (ii), or (iii), which may continue during the pendency of the procedure, and which may include—
+&emsp;&emsp;&emsp;&emsp;The procedure shall include remedies for violation of clause (i), (ii), or (iii), which may continue during the pendencyof the procedure, and which may include—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) suspension or termination of payments from funds provided under this paragraph;
 
@@ -814,7 +814,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (a)(5)(C)(iii)(II)(dd
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
 The Protect our Kids Act of 2012, referred to in subsec. (b)(2), is Pub. L. 112–275, Jan. 14, 2013, 126 Stat. 2460. Section 3 of the Act, which established the Commission to Eliminate Child Abuse and Neglect Fatalities, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 1305 of this title and Tables.
 
@@ -826,7 +826,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916;June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI,§§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
 
@@ -1000,7 +1000,7 @@ Subsec. (a)(5)(I)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(4)\
 
 Subsec. (a)(5)(K). Pub. L. 106–113, §1000(a)(4) \[title VIII, §805(a)(2)\], added subpar. (K).
 
-<b>1998</b>—Subsec. (a)(5)(A)(iv)(II). Pub. L. 105–306 substituted ", other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State" for "or sub-State entity".
+<b>1998</b>—Subsec. (a)(5)(A)(iv)(II). Pub. L. 105–306 substituted ", other than funds reserved by the State fordistribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State" for "or sub-State entity".
 
 Subsec. (a)(5)(A)(vii)(I). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(A)\], struck out "described in section 103(c) of the Job Training Partnership Act or" before "defined in section 101 of the Workforce".
 
@@ -1094,7 +1094,7 @@ Pub. L. 112–96, title IV, §4002(j), Feb. 22, 2012, 126 Stat. 195, provided th
 
 #### Effective Date of 2009 Amendment; Savings Provision
 
-Pub. L. 111–5, div. B, title II, §2101(a)(2), Feb. 17, 2009, 123 Stat. 448, provided that: "Effective October 1, 2010, subsection (c) of section 403 of the Social Security Act (42 U.S.C. 603) (as added by paragraph (1)) is repealed, except that paragraph (9) of such subsection shall remain in effect until October 1, 2011, but only with respect to section 407(b)(3)(A)(i) of such Act \[42 U.S.C. 607(b)(3)(A)(i)\]."
+Pub. L. 111–5, div. B, title II, §2101(a)(2), Feb. 17, 2009, 123 Stat. 448, provided that: "Effective October 1, 2010,subsection (c) of section 403 of the Social Security Act (42 U.S.C. 603) (as added by paragraph (1)) is repealed, except that paragraph (9) of such subsection shall remain in effect until October 1, 2011, but only with respect to section 407(b)(3)(A)(i) of such Act \[42 U.S.C. 607(b)(3)(A)(i)\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -1150,7 +1150,7 @@ Subsec. (a)(1)(C), (D) of this section effective Oct. 1, 1996, and remainder of 
 
 #### Regulations
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284, provided that: "Interim final regulations shall be prescribed to implement the amendments made by this section \[amending this section and sections 604 and 612 of this title\] not later than January 1, 2000. Final regulations shall be prescribed within 90 days after the date of the enactment of this Act \[Nov. 29, 1999\] to implement the amendments made by this Act to section 403(a)(5) of theSocial Security Act \[42 U.S.C. 603(a)(5)\], in the same manner as described in section 403(a)(5)(C)(ix) of the Social Security Act (as so redesignated by subsection (b)(1)(A) of this section)."
+Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284, provided that: "Interim final regulations shall be prescribed to implement the amendments made by this section \[amending this section and sections 604 and 612 of this title\] not later than January 1, 2000. Final regulations shall be prescribed within 90 days after the date of the enactment of this Act \[Nov. 29, 1999\] to implement the amendments made by this Act to section 403(a)(5) of the Social Security Act \[42 U.S.C. 603(a)(5)\], in the same manner as described in section 403(a)(5)(C)(ix) of the Social Security Act (as so redesignated by subsection (b)(1)(A) of this section)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

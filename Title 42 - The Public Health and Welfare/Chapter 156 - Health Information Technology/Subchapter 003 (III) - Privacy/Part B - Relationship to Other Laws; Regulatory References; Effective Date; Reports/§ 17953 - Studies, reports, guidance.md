@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the first year beginning after February 17, 2009, and annually thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report concerning complaints of alleged violations of law, including the provisions of this subchapter as well as the provisions of subparts C and E of part 164 of title 45, Code of Federal Regulations, (as such provisions are in effect as of February 17, 2009) relating to privacy and security of health information that are received by the Secretary during the year for which the report is being prepared. Each such report shall include, with respect to such complaints received during the year—
+&emsp;For the first year beginning after February 17, 2009, and annually thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report concerning complaints of alleged violations of law, including the provisions of this subchapter as well as the provisions of subparts Cand E of part 164 of title 45, Code of Federal Regulations, (as such provisions are in effect as of February 17, 2009) relating to privacy and security of health information that are received by the Secretary during the year for which the report is being prepared. Each such report shall include, with respect to such complaints received during the year—
 
 &emsp;&emsp;(A) the number of such complaints;
 
@@ -30,7 +30,7 @@
 
 &emsp;Not later than one year after February 17, 2009, the Secretary, in consultation with the Federal Trade Commission, shall conduct a study, and submit a report under paragraph (2), on privacy and security requirements for entities that are not covered entities or business associates as of February 17, 2009, including—
 
-&emsp;&emsp;(A) requirements relating to security, privacy, and notification in the case of a breachof security or privacy (including the applicability of an exemption to notification in the case of individually identifiable health information that has been rendered unusable, unreadable, or indecipherable through technologies or methodologies recognized by appropriate professional organization or standard setting bodies to provide effective security for the information) that should be applied to—
+&emsp;&emsp;(A) requirements relating to security, privacy, and notification in the case of a breach of security or privacy (including the applicability of an exemption to notification in the case of individually identifiable health information that has been rendered unusable, unreadable, or indecipherable through technologies or methodologies recognized by appropriate professional organization or standard setting bodies to provide effective security for the information) that should be applied to—
 
 &emsp;&emsp;&emsp;(i) vendors of personal health records;
 
@@ -60,7 +60,7 @@ Not later than one year after February 17, 2009, the Comptroller General of the 
 
 #### (e) Report required
 
-Not later than 5 years after February 17, 2009, the Government Accountability Office shall submit to Congress and the Secretary of Health and Human Services a report on the impact of any of the provisions of this Act on health insurance premiums, overall health care costs, adoption of electronic health records by providers, and reduction in medical errors and other quality improvements.
+Not later than 5 years after February 17, 2009, the Government Accountability Office shall submit to Congress and the Secretary of Health andHuman Services a report on the impact of any of the provisions of this Act on health insurance premiums, overall health care costs, adoption of electronic health records by providers, and reduction in medical errors and other quality improvements.
 
 #### (f) Study
 

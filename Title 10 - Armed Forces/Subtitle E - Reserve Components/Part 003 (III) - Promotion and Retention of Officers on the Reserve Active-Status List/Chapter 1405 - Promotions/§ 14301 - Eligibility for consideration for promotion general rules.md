@@ -36,7 +36,7 @@ Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force 
 
 (f)
 
-Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 daysafter the date on which the selection board for which the officer would otherwise be eligible is to be convened.
+Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
 
 (g)
 
@@ -124,5 +124,5 @@ Amendment by section 503(b), (c) of Pub. L. 105–85 effective Nov. 18, 1997, an
 
 #### Effective Date
 
-Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

@@ -1,6 +1,6 @@
 ### §130508. Principal office
 
-The principal office of the corporation shall be in Williamsport, Pennsylvania, or another placedecided by the board of directors. However, the activities of the corporation may be conducted throughout the world.
+The principal office of the corporation shall be in Williamsport, Pennsylvania, or another place decided by the board of directors. However, the activities of the corporation may be conducted throughout the world.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1378.)
 

@@ -30,7 +30,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;&emsp;(ii) payment methodologies; and
 
-&emsp;&emsp;&emsp;(iii) the relationship of such factors and methodologies to access and quality of care for Medicaid and CHIP beneficiaries (including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations).
+&emsp;&emsp;&emsp;(iii) the relationship of such factors and methodologies to access and quality of care for Medicaid and CHIP beneficiaries (including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate shareof low-income and other vulnerable populations).
 
 #### (B) Eligibility policies
 
@@ -92,7 +92,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under section1396r–4 of this title. Each report shall include the information specified in clause (ii).
+&emsp;&emsp;&emsp;MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under section 1396r–4 of this title. Each report shall include the information specified in clause (ii).
 
 #### (ii) Required report information
 
@@ -108,7 +108,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (iii) Data
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary regularly shall provide MACPAC with the most recent State reports and most recent independent certified audits submitted under section 1396r–4(j) of this title, cost reports submitted under subchapter XVIII of this chapter, and such other data as MACPAC may request for purposes of conducting the reviews and preparing and submitting the annual reports required under this subparagraph.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Secretary regularly shall provide MACPAC with the most recent State reports and most recent independent certified audits submitted under section 1396r–4(j) of this title, cost reports submitted under subchapter XVIII, and such other data as MACPAC may request for purposes of conducting the reviews and preparing and submitting the annual reports required under this subparagraph.
 
 #### (iv) Submission deadlines
 
@@ -162,7 +162,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (A) In general
 
-&emsp;&emsp;The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mix of different professions, broad geographic representation, and a balance between urban and rural representation.
+&emsp;&emsp;The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mixof different professions, broad geographic representation, and a balance between urban and rural representation.
 
 #### (B) Inclusion
 
@@ -218,7 +218,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (1) Obtaining official data
 
-&emsp;MACPAC may secure directly from any department or agency of the United States and, as a condition for receiving payments undersections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP, information necessary to enable it to carry out this section. Upon request of the Chairman, the head of that department or agency shall furnish that information to MACPAC on an agreed upon schedule.
+&emsp;MACPAC may secure directly from any department or agency of the United States and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP, information necessary to enable it to carry out this section. Upon request of the Chairman, the head of that department or agency shall furnish that information to MACPAC on an agreed upon schedule.
 
 #### (2) Data collection
 
@@ -354,7 +354,7 @@ Pub. L. 111–3, title II, §213, Feb. 4, 2009, 123 Stat. 56, provided that:
 
 "(a)
 
-In General.—In order to assure continuity of coverage of low-income children under the Medicaid program and the State Children's Health Insurance Program (CHIP), not later than 18 months after the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services, in consultation with State Medicaid and CHIP directors and organizations representing program beneficiaries, shall develop a model process for the coordination of the enrollment, retention, and coverage under such programs of children who, because of migration of families, emergencyevacuations, natural or other disasters, public health emergencies, educational needs, or otherwise, frequently change their State of residency or otherwise are temporarily located outside of the State of their residency.
+In General.—In order to assure continuity of coverage of low-income children under the Medicaid program and the State Children's Health Insurance Program (CHIP), not later than 18 months after the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services, in consultation with State Medicaid and CHIP directors and organizations representing program beneficiaries, shall develop a model process for the coordination of the enrollment, retention, and coverage under such programs of children who, because of migration of families, emergency evacuations, natural or other disasters, public health emergencies, educational needs, or otherwise, frequently change their State of residency or otherwise are temporarily located outside of the State of their residency.
 
 "(b)
 

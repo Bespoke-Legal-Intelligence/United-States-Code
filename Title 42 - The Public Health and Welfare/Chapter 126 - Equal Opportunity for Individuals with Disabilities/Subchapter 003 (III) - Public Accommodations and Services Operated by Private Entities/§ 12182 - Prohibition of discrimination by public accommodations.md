@@ -50,7 +50,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (A) Discrimination
 
-&emsp;&emsp;For purposes of subsection (a) of this section, discrimination includes—
+&emsp;&emsp;For purposes of subsection (a), discrimination includes—
 
 &emsp;&emsp;&emsp;(i) the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;
 
@@ -74,7 +74,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (C) Demand responsive system
 
-&emsp;&emsp;For purposes of subsection (a) of this section, discrimination includes—
+&emsp;&emsp;For purposes of subsection (a), discrimination includes—
 
 &emsp;&emsp;&emsp;(i) a failure of a private entity which operates a demand responsive system and which is not subject to section 12184 of this title to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities; and
 
@@ -88,7 +88,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (ii) Accessibility requirements
 
-&emsp;&emsp;&emsp;For purposes of subsection (a) of this section, discrimination includes (I) the purchase or lease of an over-the-road bus which does not comply with the regulations issued under section 12186(a)(2) of this title by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and (II) any other failure of such entity to comply with such regulations.
+&emsp;&emsp;&emsp;For purposes of subsection (a), discrimination includes (I) the purchase or lease of an over-the-road bus which does not comply with the regulations issued under section 12186(a)(2) of this title by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and (II) any other failure of such entity to comply with such regulations.
 
 #### (3) Specific construction
 

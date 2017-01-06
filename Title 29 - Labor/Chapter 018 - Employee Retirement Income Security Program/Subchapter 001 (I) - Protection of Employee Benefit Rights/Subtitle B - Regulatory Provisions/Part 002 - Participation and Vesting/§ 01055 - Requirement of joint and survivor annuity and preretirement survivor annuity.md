@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2), to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -32,7 +32,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(ii) an employee stock ownership plan (as defined in section 4975(e)(7) of title 26),
 
-> subsection (a) of this section shall not apply to that portion of the employee's accrued benefit to which the requirements of section 409(h) of title 26 apply.
+> subsection (a) shall not apply to that portion of the employee's accrued benefit to which the requirements of section 409(h) of title 26 apply.
 
 (B) Subparagraph (A) shall not apply with respect to any participant unless the requirements of clause <sup>1</sup> (i), (ii), and (iii) of paragraph (1)(C) are met with respect to such participant.
 
@@ -56,7 +56,7 @@ Each pension plan to which this section applies shall provide that—
 
 (2) Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless—
 
-&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by thespouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
+&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
 
 &emsp;(B) it is established to the satisfaction of a plan representative that the consent required under subparagraph (A) may not be obtained because there is no spouse, because the spouse cannot be located, or because of such other circumstances as the Secretary of the Treasury may by regulations prescribe.
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 > &emsp;In the case of an individual who separated from service before the date of such individual's death, subparagraph (A)(ii)(I) shall not apply.
 
-&emsp;(2) In the case of any individual account plan or participant described in subparagraph (B) or (C) of subsection (b)(1) of this section, the term "qualified preretirement survivor annuity" means an annuity for the life of the surviving spouse the actuarial equivalent of which is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 1053 of this title).
+&emsp;(2) In the case of any individual account plan or participant described in subparagraph (B) or (C) of subsection (b)(1), the term "qualified preretirement survivor annuity" means an annuity for the life of the surviving spouse the actuarial equivalent of which is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 1053 of this title).
 
 &emsp;(3) For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 
@@ -234,11 +234,11 @@ A plan may take into account in any equitable manner (as determined by the Secre
 
 #### (j) Use of participant's accrued benefit as security for loan as not preventing distribution
 
-If the use of any participant's accrued benefit (or any portion thereof) as security for a loan meets the requirements of subsection (c)(4) of this section, nothing in this section shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
+If the use of any participant's accrued benefit (or any portion thereof) as security for a loan meets the requirements of subsection (c)(4), nothing in this section shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
 
 #### (k) Spousal consent
 
-No consent of a spouse shall be effective for purposes of subsection (g)(1) or (g)(2) of this section (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (c)(1)(A) of this section are met.
+No consent of a spouse shall be effective for purposes of subsection (g)(1) or (g)(2) (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (c)(1)(A) are met.
 
 #### (l) Regulations; consultation of Secretary of the Treasury with Secretary of Labor
 
@@ -262,7 +262,7 @@ Subsec. (c)(7)(A). Pub. L. 109–280, §1102(a)(2)(A), substituted "180-day" for
 
 Subsec. (d). Pub. L. 109–280, §1004(b)(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Subsec. (g)(3). Pub. L. 109–280, §302(a), struck out heading and amended text of par. (3) generally. Prior to amendment, par. (3) stated general rule for determination of present value, defined "applicable mortality table" and "applicable interest rate", and set forth exception from general rule in the case of a distribution from a plan that was adopted and in effect prior to Dec. 8, 1994.
+Subsec. (g)(3). Pub. L. 109–280, §302(a), struck out heading and amended text of par. (3) generally. Prior toamendment, par. (3) stated general rule for determination of present value, defined "applicable mortality table" and "applicable interest rate", and set forth exception from general rule in the case of a distribution from a plan that was adopted and in effect prior to Dec. 8, 1994.
 
 <b>2002</b>—Subsec. (g)(1). Pub. L. 107–147, §411(r)(2)(A), substituted "exceed the amount that can be distributed without the participant's consent under section 1053(e) of this title" for "exceed the dollar limit under section 1053(e)(1) of this title".
 
@@ -422,11 +422,11 @@ Amendment by sections 7861(d)(2) and 7862(d)(1)(B), (3), (6)–(9) of Pub. L. 10
 
 Amendment by section 7891(a)(1), (b)(3), (c), (e) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: "The amendment made by subparagraph (A) \[amendingthis section\] shall take effect as if included in section 103 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\] in reference to the new section 205(c)(5) of ERISA \[subsec. (c)(5) of this section\] as added by such section 3113."
+Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in section 103 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\] in reference to the new section 205(c)(5) of ERISA \[subsec. (c)(5) of this section\] as added by such section 3113."
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall notapply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1145(b) of Pub. L. 99–514 applicable as if included in the amendments made by the Retirement Equity Act of 1984, Pub. L. 98–397, see section 1145(d) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 

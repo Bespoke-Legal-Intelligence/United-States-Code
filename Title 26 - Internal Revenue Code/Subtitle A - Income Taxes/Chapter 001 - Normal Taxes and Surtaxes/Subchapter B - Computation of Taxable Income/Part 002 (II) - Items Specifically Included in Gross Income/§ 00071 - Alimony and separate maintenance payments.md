@@ -160,7 +160,7 @@ In general.—The amendment made by paragraph (1) \[amending this section\] shal
 
 &emsp;"(B)
 
-Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
+Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly providesthat the amendments made by paragraph (1) shall apply to such modification.
 
 "(3)
 

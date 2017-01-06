@@ -90,7 +90,7 @@ In the case of a distribution to which section 355 (or so much of section 356 as
 
 &emsp;For purposes of this subsection, the term "liability" shall include any fixed or contingent obligation to make payment, without regard to whether the obligation is otherwise taken into account for purposes of this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, §21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, §2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, §1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, §1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, §11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1012(b)(2), Aug. 5, 1997, 111 Stat. 916; Pub. L. 106–36, title III, §3001(a)(2), (d)(6), June 25, 1999, 113 Stat. 182, 184; Pub. L. 106–554, §1(a)(7) \[title III, §309(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-638; Pub. L. 107–147, title IV, §412(c), Mar. 9, 2002, 116 Stat. 53.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, §21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, §2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, §1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, §1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, §11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1012(b)(2), Aug. 5, 1997, 111 Stat. 916; Pub. L. 106–36, title III, §3001(a)(2), (d)(6), June 25, 1999, 113 Stat. 182, 184; Pub. L. 106–554, §1(a)(7) \[title III, §309(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 107–147, title IV, §412(c), Mar. 9, 2002, 116 Stat. 53.)
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §309(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-638, provided that:
+Pub. L. 106–554, §1(a)(7) \[title III, §309(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638, provided that:
 
 "(1)
 
@@ -174,7 +174,7 @@ United States Railway Association abolished effective Apr. 1, 1987, all powers, 
 
 #### Application of Comparable Rules to Partnerships and S Corporations
 
-Pub. L. 106–554, §1(a)(7) \[title III, §309(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-638, provided that: "The Secretary of the Treasury or his delegate—
+Pub. L. 106–554, §1(a)(7) \[title III, §309(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638, provided that: "The Secretary of the Treasury or his delegate—
 
 &emsp;"(1) shall prescribe rules which provide appropriate adjustments under subchapter K of chapter 1 of the Internal Revenue Code of 1986 to prevent the acceleration or duplication of losses through the assumption of (or transfer of assets subject to) liabilities described in section 358(h)(3) of such Code (as added by subsection (a)) in transactions involving partnerships, and
 

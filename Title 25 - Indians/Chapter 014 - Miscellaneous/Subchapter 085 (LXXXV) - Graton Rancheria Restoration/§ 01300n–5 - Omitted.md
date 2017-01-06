@@ -1,0 +1,6 @@
+### §1300n–5. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–568, title XIV, §1407, Dec. 27, 2000, 114 Stat. 2941, which provided for governance of thetribe by an Interim Tribal Council until ratification of a final tribal constitution, was omitted from the Code as being of special and not general application.
+

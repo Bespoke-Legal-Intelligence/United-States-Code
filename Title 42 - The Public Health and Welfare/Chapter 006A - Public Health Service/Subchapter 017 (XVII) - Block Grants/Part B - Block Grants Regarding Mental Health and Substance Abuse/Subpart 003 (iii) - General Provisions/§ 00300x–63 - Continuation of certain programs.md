@@ -2,17 +2,21 @@
 
 #### (a) In general
 
-Of the amount allotted to the State of Hawaii under section 300x of this title, and the amount allotted to such State under section 300x–21 of this title, an amount equal to the proportion of Native Hawaiians residing in the State to the total population of the State shall be available, respectively, for carrying out the program involved for Native Hawaiians.
+Of the amount allotted to the State of Hawaii under section 300x of this title, and the amount allotted to such State under section 300x–21 of this title, an amount equal to the proportion ofNative Hawaiians residing in the State to the total population of the State shall be available, respectively, for carrying out the program involved for Native Hawaiians.
 
 #### (b) Expenditure of amounts
 
-The amount made available under subsection (a) of this section may be expended only through contracts entered into by the State of Hawaii with public and private nonprofit organizations to enable such organizations to plan, conduct, and administer comprehensive substance abuse and treatment programs for the benefit of Native Hawaiians. In entering into contracts under this section, the State of Hawaii shall give preference to Native Hawaiian organizations and Native Hawaiian health centers.
+The amount made available under subsection (a) may be expended only through contracts entered into by the State of Hawaii with public and private nonprofit organizations to enable such organizations to plan, conduct, and administer comprehensive substance use disorder and treatment programs for the benefit of Native Hawaiians. In entering into contracts under this section, the State of Hawaii shall give preference to Native Hawaiian organizations and Native Hawaiian health centers.
 
 #### (c) Definitions
 
 For the purposes of this subsection,<sup>1</sup> the terms "Native Hawaiian", "Native Hawaiian organization", and "Native Hawaiian health center" have the meaning given such terms in section 11707 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1953, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409.)
+(July 1, 1944, ch. 373, title XIX, §1953, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409; amended Pub. L. 114–255, div. B, title VIII, §8003(2), Dec. 13, 2016, 130 Stat. 1233.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–255 substituted "substance use disorder" for "substance abuse".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 

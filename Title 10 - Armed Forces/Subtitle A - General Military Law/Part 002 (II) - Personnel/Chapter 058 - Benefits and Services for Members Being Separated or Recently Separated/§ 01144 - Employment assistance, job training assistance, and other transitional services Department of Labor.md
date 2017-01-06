@@ -30,6 +30,10 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(9) Provide information about disability-related employment and education protections.
 
+&emsp;(10) Provide information regarding the required deduction, pursuant to subsection (h) of section 1175a of this title, from disability compensation paid by the Secretary of Veterans Affairs of amounts equal to any voluntary separation pay received by the member under such section.
+
+&emsp;(11) Acting through the Secretary of the department in which the Coast Guard is operating, provide information on career and employment opportunities available to members with transportation security cards issued under section 70105 of title 46.
+
 (c)
 
 Participation.—(1) Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
@@ -48,7 +52,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(2) use military and civilian personnel of the Department of Defense and the Department of Homeland Security;
 
-&emsp;(3) use personnel of the Veterans Benefits Administration of the Department of Veterans Affairs and other appropriate personnel of that Department;
+&emsp;(3) use personnel of the Veterans Benefits Administration of the Department of VeteransAffairs and other appropriate personnel of that Department;
 
 &emsp;(4) use representatives of military and veterans' service organizations;
 
@@ -82,7 +86,7 @@ Additional Training Opportunities.—(1) As part of the program carried out unde
 
 (2) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall ensure that a member of the armed forces who elects to receive additional training in subjects available under paragraph (1) is able to receive the training.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138.)
 
 #### References in Text
 
@@ -91,6 +95,10 @@ Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out a
 The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(10). Pub. L. 114–328, §563, added par. (10).
+
+Subsec. (b)(11). Pub. L. 114–328, §564(a), added par. (11).
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
@@ -146,6 +154,10 @@ Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
+#### Deadline for Implementation
+
+Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+
 #### Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program
 
 Pub. L. 113–291, div. A, title V, §557, Dec. 19, 2014, 128 Stat. 3381, provided that:
@@ -166,7 +178,7 @@ Elements.—The additional information required by paragraph (1) shall include t
 
 &emsp;&emsp;&emsp;"(i) to the extent practicable, differences between types of institutions of higher learning in such matters as tuition and fees, admission requirements, accreditation, transferability of credits, credit for qualifying military training, time required to complete a degree, and retention and job placement rates; and
 
-&emsp;&emsp;&emsp;"(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.\[; 42 U.S.C. 2751 et seq.\]) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
+&emsp;&emsp;&emsp;"(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
 
 &emsp;&emsp;"(B) Information about the Postsecondary Education Complaint System of the Department of Defense, the Department of Veterans Affairs, the Department of Education, and the Consumer Financial Protection Bureau.
 
@@ -252,7 +264,7 @@ Contents.—The report required by paragraph (1) shall include the following:
 
 #### Deadline for Implementation
 
-Pub. L. 113–66, div. A, title V, §521(b), Dec. 26, 2013, 127 Stat. 755, provided that: "The program carried out under section 1144 of title 10, United States Code, shallcomply with the requirements of subsection (b)(9) of such section, as added by subsection (a), by not later than April 1, 2015."
+Pub. L. 113–66, div. A, title V, §521(b), Dec. 26, 2013, 127 Stat. 755, provided that: "The program carried out under section 1144 of title 10, United States Code, shall comply with the requirements of subsection (b)(9) of such section, as added by subsection (a), by not later than April 1, 2015."
 
 #### Off-Base Transition Training for Veterans and Their Spouses
 

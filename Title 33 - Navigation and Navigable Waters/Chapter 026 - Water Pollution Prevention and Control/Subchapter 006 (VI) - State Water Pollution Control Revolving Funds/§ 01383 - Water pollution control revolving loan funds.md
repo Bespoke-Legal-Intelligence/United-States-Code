@@ -88,7 +88,7 @@ A State may provide financial assistance from its water pollution control revolv
 
 #### (g) Priority list requirement
 
-The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) of this section if such project is on the State's priority list under section 1296 of this title. Such assistance may be provided regardless of the rank of such project on such list.
+The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) if such project is on the State's priority list under section 1296 of this title. Such assistance may be provided regardless of the rank of such project on such list.
 
 #### (h) Eligibility of non-Federal share of construction grant projects
 
@@ -98,9 +98,9 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 #### (1) In general
 
-&emsp;In any case in which a State provides assistance to a municipality or intermunicipal, interstate, or State agency under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—
+&emsp;In any case in which a State provides assistance to an eligible recipient under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—
 
-&emsp;&emsp;(A) to benefit a municipality that—
+&emsp;&emsp;(A) in assistance to a municipality or intermunicipal, interstate, or State agency to benefit a municipality that—
 
 &emsp;&emsp;&emsp;(i) meets the affordability criteria of the State established under paragraph (2); or
 
@@ -128,7 +128,7 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than September 30, 2015, and after providing notice and an opportunity for public comment, a State shall establish affordability criteria to assist in identifying municipalities that would experience asignificant hardship raising the revenue necessary to finance a project or activity eligible for assistance under subsection (c)(1) if additional subsidization is not provided.
+&emsp;&emsp;&emsp;Not later than September 30, 2015, and after providing notice and an opportunity for public comment, a State shall establish affordability criteria to assist in identifying municipalities that would experience a significant hardship raising the revenue necessary to finance a project or activity eligible for assistance under subsection (c)(1) if additional subsidization is not provided.
 
 #### (ii) Contents
 
@@ -170,11 +170,15 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 &emsp;&emsp;If the State provides additional subsidization to a municipality or intermunicipal, interstate, or State agency under this subsection that meets the criteria under paragraph (1)(A), the State shall take the criteria set forth in section 1382(b)(5) of this title into consideration.
 
-(June 30, 1948, ch. 758, title VI, §603, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 23; amended Pub. L. 113–121, title V, §5003, June 10, 2014, 128 Stat. 1323.)
+(June 30, 1948, ch. 758, title VI, §603, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 23; amended Pub. L. 113–121, title V, §5003, June 10, 2014, 128 Stat. 1323; Pub. L. 114–322, title IV, §5012, Dec. 16, 2016, 130 Stat. 1902.)
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance."
+<b>2016</b>—Subsec. (i)(1). Pub. L. 114–322, §5012(1), substituted "to an eligible recipient" for "to a municipality or intermunicipal, interstate, or State agency" in introductory provisions.
+
+Subsec. (i)(1)(A). Pub. L. 114–322, §5012(2), inserted "in assistance to a municipality or intermunicipal, interstate, or State agency" before "to benefit" in introductory provisions.
+
+<b>2014</b>—Subsec. (c). Pub. L. 113–121, §5003(1), added subsec. (c) and struck out former subsec. (c). Prior toamendment, text read as follows: "The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance."
 
 Subsec. (d)(1)(A). Pub. L. 113–121, §5003(2)(A)(i), substituted "the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan" for "20 years".
 

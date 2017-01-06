@@ -44,7 +44,7 @@ The Assistant Secretary shall establish a citizen advisory panel to advise the A
 
 #### (e) Application
 
-To be eligible to receive a grant under this section, an entity shall submit an application tothe Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
+To be eligible to receive a grant under this section, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
 
 &emsp;(1) a plan to establish a pension counseling and information program that—
 
@@ -130,7 +130,7 @@ Of the funds appropriated under section 3020f of this title to carry out this se
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 

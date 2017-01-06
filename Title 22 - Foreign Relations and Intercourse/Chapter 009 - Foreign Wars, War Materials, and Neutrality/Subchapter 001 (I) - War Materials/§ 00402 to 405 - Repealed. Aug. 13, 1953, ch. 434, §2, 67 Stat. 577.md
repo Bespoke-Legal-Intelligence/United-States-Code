@@ -4,7 +4,7 @@ Section 402, act June 15, 1917, ch. 30, title VI, §2, 40 Stat. 224, related to 
 
 Section 403, act June 15, 1917, ch. 30, title VI, §3, 40 Stat. 224, related to filing petition for restoration of seized property.
 
-Section 404, acts June 15, 1917, ch. 30, title VI, §4, 40 Stat. 224; Mar. 1, 1929, ch. 420, 45 Stat. 1423, related toinstitution of libel proceedings and sale of seized property.
+Section 404, acts June 15, 1917, ch. 30, title VI, §4, 40 Stat. 224; Mar. 1, 1929, ch. 420, 45 Stat. 1423, related to institution of libel proceedings and sale of seized property.
 
 Section 405, act June 15, 1917, ch. 30, title VI, §5, 40 Stat. 224, related to method of trial and bond for redelivery.
 

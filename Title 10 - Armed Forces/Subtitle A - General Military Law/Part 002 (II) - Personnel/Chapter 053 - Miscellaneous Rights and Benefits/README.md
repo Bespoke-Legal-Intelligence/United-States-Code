@@ -27,12 +27,7 @@
 | [1047\.](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md) | Allowance for civilian clothing. |
 | [1048\.](%C2%A7%2001048%20-%20Gratuity%20payment%20to%20persons%20discharged%20for%20fraudulent%20enlistment.md) | Gratuity payment to persons discharged for fraudulent enlistment. |
 | [1049\.](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md) | Subsistence: miscellaneous persons. |
-| [1050\.](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md) | Latin American cooperation: payment of personnel expenses. |
-| [1050a.](%C2%A7%2001050a%20-%20African%20cooperation%20payment%20of%20personnel%20expenses.md) | African cooperation: payment of personnel expenses. |
-| [1051\.](%C2%A7%2001051%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md) | Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses. |
-| [1051a.](%C2%A7%2001051a%20-%20Liaison%20officers%20of%20certain%20foreign%20nations%3B%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20medical%20care%2C%20and%20other%20personal%E2%80%A6.md) | Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses. |
-| [1051b.](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md) | Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance. |
-| [1051c.](%C2%A7%2001051c%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20assignments%20to%20improve%20education%20and%20training%20in%20information%20security.md) | Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security. |
+| \[1050 to 1051c. Repealed or Renumbered.\] |  |
 | [1052\.](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md) | Adoption expenses: reimbursement. |
 | [1053\.](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md) | Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement. |
 | \[1053a. | Repealed.\] |
@@ -50,6 +45,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §§1241(o)(4), 1243(b)(2), 1253(a)(2)(B), Dec. 23, 2016, 130 Stat. 2512, 2516, 2532, struck out items 1050 "Latin American cooperation: payment of personnel expenses", 1050a "African cooperation: payment of personnel expenses", 1051 "Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses", 1051a "Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses", 1051b "Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance", and 1051c "Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security".
 
 <b>2013</b>—Pub. L. 113–66, div. A, title VI, §621(a)(2)(B), (c)(2)(B), title XVII, §1716(a)(2), Dec. 26, 2013, 127 Stat. 783, 784, 969, added item 1044e and struck out items 1036 "Escorts for dependents of members: transportation and travel allowances" and 1053a "Expenses incurred in connection with leave canceled due to contingency operations: reimbursement".
 
@@ -93,7 +90,7 @@ Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, 
 
 Pub. L. 102–25, title VII, §701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck out "mandatory" after "error in" in item 1053.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title V, §§502(b)(2), 551(a)(2), title XIV, §1481(c)(2), Nov. 5, 1990, 104 Stat. 1557, 1566, 1705, added items 1044a and 1056 and struck out item 1046 "Preseparation counseling requirement".
+<b>1990</b>—Pub. L. 101–510, div. A, title V, §§502(b)(2), 551(a)(2), title XIV, §1481(c)(2), Nov. 5, 1990, 104 Stat.1557, 1566, 1705, added items 1044a and 1056 and struck out item 1046 "Preseparation counseling requirement".
 
 <b>1989</b>—Pub. L. 101–189, div. A, title VI, §664(a)(3)(B), Nov. 29, 1989, 103 Stat. 1466, substituted "Reimbursement for financial institution charges incurred because of Government" for "Relief for expenses because of" in item 1053.
 
@@ -135,6 +132,18 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 <b>1958</b>—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
 
+#### Access to Wireless High-speed Internet and Network Connections for Certain Members of the Armed Forces
+
+Pub. L. 114–328, div. A, title III, §347, Dec. 23, 2016, 130 Stat. 2086, provided that:
+
+"(a)
+
+In General.—In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installations outside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
+
+"(b)
+
+Contract Authority.—The Secretary may enter into contracts for the purpose of carrying out subsection (a)."
+
 #### Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members
 
 Pub. L. 112–239, div. A, title V, §533, Jan. 2, 2013, 126 Stat. 1727, as amended by Pub. L. 113–66, div. A, title V, §532(a), Dec. 26, 2013, 127 Stat. 759, provided that:
@@ -145,7 +154,7 @@ Protection of Rights of Conscience.—
 
 &emsp;"(1)
 
-Accommodation.—Unless it could have an adverse impact on military readiness, unit cohesion,and good order and discipline, the Armed Forces shall accommodate individual expressions of belief of a member of the armed forces reflecting the sincerely held conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such expression of belief as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
+Accommodation.—Unless it could have an adverse impact on military readiness, unit cohesion, and good order and discipline, the Armed Forces shall accommodate individual expressions of belief of a member of the armed forces reflecting the sincerely held conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such expression of belief as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
 
 &emsp;"(2)
 
@@ -297,12 +306,10 @@ Contingency Operation Defined.—In this section, the term 'contingency operatio
 - [&sect; 01047 - Allowance for civilian clothing](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md)
 - [&sect; 01048 - Gratuity payment to persons discharged for fraudulent enlistment](%C2%A7%2001048%20-%20Gratuity%20payment%20to%20persons%20discharged%20for%20fraudulent%20enlistment.md)
 - [&sect; 01049 - Subsistence miscellaneous persons](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md)
-- [&sect; 01050 - Latin American cooperation payment of personnel expenses](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md)
-- [&sect; 01050a - African cooperation payment of personnel expenses](%C2%A7%2001050a%20-%20African%20cooperation%20payment%20of%20personnel%20expenses.md)
-- [&sect; 01051 - Multilateral, bilateral, or regional cooperation programs payment of personnel expenses](%C2%A7%2001051%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md)
-- [&sect; 01051a - Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal&#8230;](%C2%A7%2001051a%20-%20Liaison%20officers%20of%20certain%20foreign%20nations%3B%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20medical%20care%2C%20and%20other%20personal%E2%80%A6.md)
-- [&sect; 01051b - Bilateral or regional cooperation programs awards and mementos to recognize superior noncombat achievements or performance](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md)
-- [&sect; 01051c - Multilateral, bilateral, or regional cooperation programs assignments to improve education and training in information security](%C2%A7%2001051c%20-%20Multilateral%2C%20bilateral%2C%20or%20regional%20cooperation%20programs%20assignments%20to%20improve%20education%20and%20training%20in%20information%20security.md)
+- [&sect; 01050 - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1243(b)(1), Dec. 23, 2016, 130 Stat. 2516](%C2%A7%2001050%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71243%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202516.md)
+- [&sect; 01050a to 1051a - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1243(b)(1), Dec. 23, 2016, 130 Stat. 2516](%C2%A7%2001050a%20to%201051a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71243%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202516.md)
+- [&sect; 01051b - Renumbered &sect;313](%C2%A7%2001051b%20-%20Renumbered%20%C2%A7313.md)
+- [&sect; 01051c - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1253(a)(1)(B), Dec. 23, 2016, 130 Stat. 2532](%C2%A7%2001051c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71253%28a%29%281%29%28B%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202532.md)
 - [&sect; 01052 - Adoption expenses reimbursement](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md)
 - [&sect; 01053 - Financial institution charges incurred because of Government error in direct deposit of pay reimbursement](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md)
 - [&sect; 01053a - Repealed. Pub. L. 113&#8211;66, div. A, title VI, &sect;621(c)(2)(A), Dec. 26, 2013, 127 Stat. 784](%C2%A7%2001053a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7621%28c%29%282%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%20784.md)

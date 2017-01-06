@@ -40,7 +40,7 @@ June 3, 1916, ch. 134, §72; restated June 4, 1920, ch. 227, subch. I, §40; res
 
 June 3, 1916, ch. 134, §110 (last par., less 1st 30, and last 25, words); restated Sept. 22, 1922, ch. 423, §6 (last par., less 1st 30, and last 137, words); restated May 12, 1928, ch. 529 (less 1st 30, and last 25, words), 45 Stat. 500.
 
-Subsection (a) is substituted for 32:154 (last par., less 1st 26, and last 26, words) to reflect an opinion of the Judge Advocate General of the Army (JAGA 1953/9033, 3 Dec. 1953).
+Subsection (a) is substituted for 32:154 (last par., less 1st 26, and last 26, words) to reflect an opinion of theJudge Advocate General of the Army (JAGA 1953/9033, 3 Dec. 1953).
 
 In subsection (b), the words "is entitled to a discharge certificate similar in form and classification to the corresponding certificate" are substituted for the words "shall receive a discharge in writing in such form and with such classification as is or shall be". The words "service in" are omitted as surplusage.
 

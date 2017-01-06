@@ -28,7 +28,7 @@ Special Rules for Commercial Items.—The Federal Acquisition Regulation shall p
 
 &emsp;(2) may not conduct the purchase on a sole source basis unless the need to do so is justified in writing and approved in accordance with section 2304(f) of title 10 or section 3304(e) of this title, as applicable; and
 
-&emsp;(3) shall include in the contract file a written description of the procedures used inawarding the contract and the number of offers received.
+&emsp;(3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719.)
 

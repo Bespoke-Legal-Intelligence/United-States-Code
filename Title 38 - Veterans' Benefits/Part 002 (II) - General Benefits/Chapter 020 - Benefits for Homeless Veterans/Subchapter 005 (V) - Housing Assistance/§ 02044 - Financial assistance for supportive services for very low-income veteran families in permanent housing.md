@@ -102,7 +102,7 @@ Funding.—(1) From amounts appropriated to the Department for Medical Services,
 
 &emsp;(D) $100,000,000 for fiscal year 2012.
 
-&emsp;(E) $300,000,000 for each of fiscal years 2015 through 2016.
+&emsp;(E) $320,000,000 for each of fiscal years 2015 through 2017.
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -144,17 +144,19 @@ Definitions.—In this section:
 
 &emsp;(B) The Secretary shall make appropriate adjustments to the income requirement under subparagraph (A) based on family size.
 
-&emsp;(C) The Secretary may establish an income ceiling higher or lower than 50 percent of the median income for an area if the Secretary determines that such variations are necessary because the area has unusually high or lowconstruction costs, fair market rents (as determined under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f)), or family incomes.
+&emsp;(C) The Secretary may establish an income ceiling higher or lower than 50 percent of the median income for an area if the Secretary determines that such variations are necessary because the area has unusually high or low construction costs, fair market rents (as determined under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f)), or family incomes.
 
 &emsp;(7) The term "veteran family" includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538.)
+(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939.)
 
 #### Codification
 
 Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of "section 2044" without specifying the Code title to be amended, was executed to this section, which is section 2044 of Title 38, Veterans' Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(1)(E). Pub. L. 114–228 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "$300,000,000 for each of fiscal years 2015 through 2016."
 
 <b>2015</b>—Subsec. (b)(1)(D). Pub. L. 114–58, §601(9), substituted "Federal" for "federal" in introductory provisions.
 

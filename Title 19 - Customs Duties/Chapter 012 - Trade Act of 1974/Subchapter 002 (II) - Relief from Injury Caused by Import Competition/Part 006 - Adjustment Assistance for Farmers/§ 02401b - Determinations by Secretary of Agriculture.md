@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As soon as practicable after the date on which a petition is filed under section 2401a of thistitle, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2401a(c) of this title and shall, if the group meets the requirements, issue a certification of eligibility to apply for assistance under this part covering agricultural commodity producers in any group that meets the requirements. Each certification shall specify the date on which eligibility under this part begins.
+As soon as practicable after the date on which a petition is filed under section 2401a of this title, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2401a(c) of this title and shall, if the group meets the requirements, issue a certification of eligibility to apply for assistance under this part covering agricultural commodity producers in any group that meets the requirements. Each certification shall specify the date on which eligibility under this part begins.
 
 #### (b) Notice
 
@@ -64,7 +64,7 @@ Not later than January 30 of each year, the Secretary shall submit to the Commit
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5,was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
 

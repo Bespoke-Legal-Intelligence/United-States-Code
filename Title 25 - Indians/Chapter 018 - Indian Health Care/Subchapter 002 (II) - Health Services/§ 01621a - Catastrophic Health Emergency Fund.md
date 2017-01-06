@@ -14,7 +14,7 @@ CHEF shall be administered by the Secretary, acting through the headquarters of 
 
 #### (c) Conditions on use of Fund
 
-No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
+No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
 
 #### (d) Regulations
 
@@ -22,7 +22,7 @@ The Secretary shall promulgate regulations consistent with the provisions of thi
 
 &emsp;(1) establish a definition of disasters and catastrophic illnesses for which the cost of the treatment provided under contract would qualify for payment from CHEF;
 
-&emsp;(2) provide that a Service Unit shall not be eligible for reimbursement for the cost of treatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—
+&emsp;(2) provide that a Service Unit shall not be eligible for reimbursement for the cost oftreatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—
 
 &emsp;&emsp;(A) the 2000 level of $19,000; and
 
@@ -50,7 +50,7 @@ There shall be deposited into CHEF all reimbursements to which the Service is en
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -71,4 +71,6 @@ Subsec. (e). Pub. L. 102–573, §217(b)(2), struck out subsec. (e) which author
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–573, title II, §202(b), Oct. 29, 1992, 106 Stat. 4546, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

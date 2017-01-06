@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
+&emsp;&emsp;Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a). The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) for which such person is accredited.
 
 #### (B) Withdrawal of accreditation
 
@@ -62,7 +62,7 @@
 
 #### (D) Annual report
 
-&emsp;&emsp;The Secretary shall include in the annual report required under section 393(g) of thistitle the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
+&emsp;&emsp;The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
 
 #### (E) Periodic reaccreditation
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iv) promptly respond and attempt to resolve complaints regarding its activities for which it is accredited; and
 
-&emsp;&emsp;&emsp;(v) protect against the use, in carrying out subsection (a) of this section with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
+&emsp;&emsp;&emsp;(v) protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
 
 #### (4) Selection of accredited persons
 
@@ -114,35 +114,11 @@
 
 The authority provided by this section terminates October 1, 2017.
 
-#### (d) Report
-
-Not later than January 10, 2007, the Secretary shall conduct a study based on the experience under the program under this section and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings of the study. The objectives of the study shall include determining—
-
-&emsp;(1) the number of devices reviewed under this section;
-
-&emsp;(2) the number of devices reviewed under this section that were ultimately cleared by the Secretary;
-
-&emsp;(3) the number of devices reviewed under this section that were ultimately not cleared by the Secretary;
-
-&emsp;(4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
-
-&emsp;(5) the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title;
-
-&emsp;(6) if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
-
-&emsp;(7) whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
-
-&emsp;(8) whether the quality of reviews under this section of devices for which no guidance has been issued is qualitatively inferior to reviews under this section of devices for which guidance has been issued;
-
-&emsp;(9) whether this section has in any way jeopardized or improved the public health;
-
-&emsp;(10) any impact of this section on resources available to the Secretary to review reports under section 360(k) of this title; and
-
-&emsp;(11) any suggestions for continuation, modification (including contraction or expansion ofdevice eligibility), or termination of this section that the Secretary determines to be appropriate.
-
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–255 struck out subsec. (d) which related to report to Congress.
 
 <b>2012</b>—Subsec. (b)(2)(E). Pub. L. 112–144, §611(a), added subpar. (E).
 

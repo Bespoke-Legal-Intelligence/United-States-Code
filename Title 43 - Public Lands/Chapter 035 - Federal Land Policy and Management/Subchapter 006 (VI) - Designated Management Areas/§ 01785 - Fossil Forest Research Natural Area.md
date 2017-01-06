@@ -86,7 +86,7 @@ The Federal Land Policy and Management Act of 1976, as amended, referred to in s
 
 #### Codification
 
-November 12, 1996, referred to in subsec. (e)(1), was in the original "the date of enactment of this Act", whichwas translated as meaning the date of enactment of Pub. L. 104–333, which amended this section generally, to reflect the probable intent of Congress.
+November 12, 1996, referred to in subsec. (e)(1), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 104–333, which amended this section generally, to reflect the probable intent of Congress.
 
 Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1984, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 

@@ -8,7 +8,7 @@ Congress declares that the relationship between the United States and Pakistan s
 
 &emsp;(3) The United States requires a balanced, integrated, countrywide strategy for Pakistan that provides assistance throughout the country and does not disproportionately focus on security-related assistance or one particular area or province.
 
-&emsp;(4) The United States supports Pakistan's struggle against extremist elements and recognizes the profound sacrifice made by Pakistan in the fight against terrorism, includingthe loss of more than 1,900 soldiers and police since 2001 in combat with al Qaeda, the Taliban, and other extremist and terrorist groups.
+&emsp;(4) The United States supports Pakistan's struggle against extremist elements and recognizes the profound sacrifice made by Pakistan in the fight against terrorism, including the loss of more than 1,900 soldiers and police since 2001 in combat with al Qaeda, the Taliban, and other extremist and terrorist groups.
 
 &emsp;(5) The United States intends to work with the Government of Pakistan—
 

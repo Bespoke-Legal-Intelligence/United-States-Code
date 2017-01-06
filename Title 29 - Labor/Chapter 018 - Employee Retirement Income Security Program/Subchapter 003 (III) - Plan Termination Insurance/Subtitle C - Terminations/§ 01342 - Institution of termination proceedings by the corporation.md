@@ -12,11 +12,11 @@ The corporation may institute proceedings under this section to terminate a plan
 
 &emsp;(4) the possible long-run loss of the corporation with respect to the plan may reasonably be expected to increase unreasonably if the plan is not terminated.
 
-> The corporation shall as soon as practicable institute proceedings under this section to terminate a single-employer plan whenever the corporation determines that the plan does not have assets available to pay benefits which are currently due under the terms of the plan. The corporation may prescribe a simplified procedure to follow in terminating small plans as long as that procedure includes substantial safeguards for the rights of the participants and beneficiaries under the plans, and for the employers who maintain such plans (including the requirement for a court decree under subsection (c) of this section). Notwithstanding any other provision of this subchapter, the corporation is authorized to pool assets of terminated plans for purposes of administration, investment, payment of liabilities of all such terminated plans, and such other purposes as it determines to be appropriate in the administration of this subchapter.
+> The corporation shall as soon as practicable institute proceedings under this section to terminate a single-employer plan whenever the corporation determines that the plan does not have assets available to pay benefits which are currently due under the terms of the plan. The corporation may prescribe a simplified procedure to follow in terminating small plans as long as that procedure includes substantial safeguards for the rights of the participants and beneficiaries under the plans, and for the employers who maintain such plans (including the requirement for a court decree under subsection (c)). Notwithstanding any other provision of this subchapter, the corporation is authorized to pool assets of terminated plans for purposes of administration, investment, payment of liabilities of all such terminated plans, and such other purposes as it determines to be appropriate in the administration of this subchapter.
 
 #### (b) Appointment of trustee
 
-(1) Whenever the corporation makes a determination under subsection (a) of this section with respect to a plan or is required under subsection (a) of this section to institute proceedings under this section, it may, upon notice to the plan, apply to the appropriate United States district court for the appointment of a trustee to administer the plan with respect to which the determination is made pending the issuance of a decree under subsection (c) of this section ordering the termination of the plan. If within 3 business days after the filing of an application under this subsection, or such other period as the court may order, the administrator of the plan consents to the appointment of a trustee, or fails to show why a trustee should not be appointed, the court may grant the application and appoint a trustee to administer the plan in accordance with its terms until the corporation determines that the plan should be terminated or that termination is unnecessary. The corporation may request that it be appointed as trustee of a plan in any case.
+(1) Whenever the corporation makes a determination under subsection (a) with respect to a plan or is required under subsection (a) to institute proceedings under this section, it may, upon notice to the plan, apply to the appropriate United States district court for the appointment of a trustee to administer the plan with respect to which the determination is made pending the issuance of a decree under subsection (c) ordering the termination of the plan. If within 3 business days after the filing of an application under this subsection, or such other period as the court may order, the administrator of the plan consents to the appointment of a trustee, orfails to show why a trustee should not be appointed, the court may grant the application and appoint a trustee to administer the plan in accordance with its terms until the corporation determines that the plan should be terminated or that termination is unnecessary. The corporation may request that it be appointed as trustee of a plan in any case.
 
 (2) Notwithstanding any other provision of this subchapter—
 
@@ -28,7 +28,7 @@ The corporation may institute proceedings under this section to terminate a plan
 
 #### (c) Adjudication that plan must be terminated
 
-(1) If the corporation is required under subsection (a) of this section to commence proceedings under this section with respect to a plan or, after issuing a notice under this section to a plan administrator, has determined that the plan should be terminated, it may, upon notice to the plan administrator, apply to the appropriate United States district court for a decree adjudicating that the plan must be terminated in order to protect the interests of the participants or to avoid any unreasonable deterioration of the financial condition of the plan or any unreasonable increase in the liability of the fund. If the trustee appointed under subsection (b) of this section disagrees with the determination of the corporation under the preceding sentence he may intervene in the proceeding relating to the application for the decree, or make application for such decree himself. Upon granting a decree for which the corporation or trustee has applied under this subsection the court shall authorize the trustee appointed under subsection (b) of this section (or appoint a trustee if one has not been appointed under such subsection and authorize him) to terminate the plan in accordance with the provisions of this subtitle. If the corporation and the plan administrator agree that a plan should be terminated and agree to the appointment of a trustee without proceeding in accordance with the requirements of this subsection (other than this sentence) the trustee shall have the power described in subsection (d)(1) of this section and, in addition to any other duties imposed on the trustee under law or by agreement between the corporation and the plan administrator, the trustee is subject to the duties described in subsection (d)(3) of this section. Whenever a trustee appointed under this subchapter is operating a plan with discretion as to the date upon which final distribution of the assets is to be commenced, the trustee shall notify the corporation at least 10 days before the date on which he proposes to commence such distribution.
+(1) If the corporation is required under subsection (a) of this section to commence proceedings under this section with respect to a plan or, after issuing a notice under this section to a plan administrator, has determined that the plan should be terminated, it may, upon notice to the plan administrator, apply to the appropriate United States district court for a decree adjudicating that the plan must be terminated in order to protect the interests of the participants or to avoid any unreasonable deterioration of the financial condition of the plan or any unreasonable increase in the liability of the fund. If the trustee appointed under subsection (b) disagrees with the determination of the corporation under the preceding sentence he may intervene in the proceeding relating to the application for the decree, or make application for such decree himself. Upon granting a decree for which the corporation or trustee has applied under this subsection the court shall authorize the trustee appointed under subsection (b) (or appoint a trustee if one has not been appointed under such subsection and authorize him) to terminate the plan in accordance with the provisions of this subtitle. If the corporation and the plan administrator agree that a plan should be terminated and agree to the appointment of a trustee without proceeding in accordance with the requirements of this subsection (other than this sentence) the trustee shall have the power described in subsection (d)(1) and, in addition to any other duties imposed on the trustee under law or by agreement between the corporation and the plan administrator, the trustee is subject to the duties described in subsection (d)(3). Whenever a trustee appointed under this subchapter is operating a plan with discretion as to the date upon which final distribution of the assets is to be commenced, the trustee shall notify the corporation at least 10 days before the date on which he proposes to commence such distribution.
 
 (2) In the case of a proceeding initiated under this section, the plan administrator shall provide the corporation, upon the request of the corporation, the information described in clauses (ii), (iii), and (iv) of section 1341(c)(2)(A) of this title.
 
@@ -82,7 +82,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 #### (d) Powers of trustee
 
-(1)(A) A trustee appointed under subsection (b) of this section shall have the power—
+(1)(A) A trustee appointed under subsection (b) shall have the power—
 
 &emsp;(i) to do any act authorized by the plan or this subchapter to be done by the plan administrator or any trustee of the plan;
 
@@ -92,15 +92,15 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(iv) to limit payment of benefits under the plan to basic benefits or to continue payment of some or all of the benefits which were being paid prior to his appointment;
 
-&emsp;(v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) of this subchapter to be performed by the plan sponsor or administrator;
+&emsp;(v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) to be performed by the plan sponsor or administrator;
 
 &emsp;(vi) to do such other acts as he deems necessary to continue operation of the plan without increasing the potential liability of the corporation, if such acts may be done under the provisions of the plan; and
 
 &emsp;(vii) to require the plan sponsor, the plan administrator, any contributing or withdrawn employer, and any employee organization representing plan participants to furnish any information with respect to the plan which the trustee may reasonably need in order to administer the plan.
 
-> If the court to which application is made under subsection (c) of this section dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c) of this section, within 30 days after the date on which the trustee is appointed under subsection (b) ofthis section, the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v) of this section). The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
+> If the court to which application is made under subsection (c) dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c), within 30 days after the date on which the trustee is appointed under subsection (b), the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v)). The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
 
-(B) If the court to which an application is made under subsection (c) of this section issues the decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
+(B) If the court to which an application is made under subsection (c) issues the decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
 
 &emsp;(i) to pay benefits under the plan in accordance with the requirements of this subchapter;
 
@@ -126,7 +126,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(C) each employer who may be subject to liability under section 1362, 1363, or 1364 of this title,
 
-&emsp;(D) each employer who is or may be liable to the plan under section <sup>1</sup> part 1 of subtitle E of this subchapter,
+&emsp;(D) each employer who is or may be liable to the plan under section <sup>1</sup> part 1 of subtitle E,
 
 &emsp;(E) each employer who has an obligation to contribute, within the meaning of section 1392(a) of this title, under a multiemployer plan, and
 
@@ -140,7 +140,7 @@ An application by the corporation under this section may be filed notwithstandin
 
 #### (f) Exclusive jurisdiction; stay of other proceedings
 
-Upon the filing of an application for the appointment of a trustee or the issuance of a decree under this section, the court to which an application is made shall have exclusive jurisdiction of the plan involved and its property wherever located with the powers, to the extent consistent with the purposes of this section, of a court of the United States having jurisdiction over cases under chapter 11 of title 11. Pending an adjudication under subsection (c) of this section such court shall stay, and upon appointment by it of a trustee, as provided in this section such court shall continue the stay of, any pending mortgage foreclosure, equity receivership, or other proceeding to reorganize, conserve, or liquidate the plan or its property and any other suit against any receiver, conservator, or trustee of the plan or its property. Pending such adjudication and upon the appointment by it of such trustee, the court may stay any proceeding to enforce a lien against property of the plan or any other suit against the plan.
+Upon the filing of an application for the appointment of a trustee or the issuance of a decree under this section, the court to which an application is made shall have exclusive jurisdiction of the plan involved and its property wherever located with the powers, to the extent consistent with the purposes of this section, of a court of the United States having jurisdiction over cases under chapter 11 of title 11. Pending an adjudication under subsection (c) such court shall stay, and upon appointment by it of a trustee, as provided in this section such courtshall continue the stay of, any pending mortgage foreclosure, equity receivership, or other proceeding to reorganize, conserve, or liquidate the plan or its property and any other suit against any receiver, conservator, or trustee of the plan or its property. Pending such adjudication and upon the appointment by it of such trustee, the court may stay any proceeding to enforce a lien against property of the plan or any other suit against the plan.
 
 #### (g) Venue
 
@@ -152,7 +152,7 @@ An action under this subsection may be brought in the judicial district where th
 
 (2) Trustees shall appoint, retain, and compensate accountants, actuaries, and other professional service personnel in accordance with regulations prescribed by the corporation.
 
-(Pub. L. 93–406, title IV, §4042, Sept. 2, 1974, 88 Stat. 1021; Pub. L. 95–598, title III, §321(a), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §402(a)(6), Sept. 26, 1980, 94 Stat. 1298; Pub. L.99–272, title XI, §§11010, 11016(c)(10), (11), Apr. 7, 1986, 100 Stat. 253, 274; Pub. L. 100–203, title IX, §§9312(c)(3), 9314(b), 9314(b), Dec. 22, 1987, 101 Stat. 1330–363, 1330–366, 1330–367; Pub. L. 101–239, title VII, §§7881(g)(7), 7891(a)(1), 7893(e), Dec. 19, 1989, 103 Stat. 2441, 2445, 2447; Pub. L. 103–465, title VII, §771(e)(2), Dec. 8, 1994, 108 Stat. 5043; Pub. L. 109–280, title V, §506(b), Aug. 17, 2006, 120 Stat. 947; Pub. L. 110–458, title I, §105(e)(2), Dec. 23, 2008, 122 Stat. 5105.)
+(Pub. L. 93–406, title IV, §4042, Sept. 2, 1974, 88 Stat. 1021; Pub. L. 95–598, title III, §321(a), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §402(a)(6), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 99–272, title XI, §§11010, 11016(c)(10), (11), Apr. 7, 1986, 100 Stat. 253, 274; Pub. L. 100–203, title IX, §§9312(c)(3), 9314(b), 9314(b), Dec. 22, 1987, 101 Stat. 1330–363, 1330–366, 1330–367; Pub. L. 101–239, title VII, §§7881(g)(7), 7891(a)(1), 7893(e), Dec. 19, 1989, 103 Stat. 2441, 2445, 2447; Pub. L. 103–465, title VII, §771(e)(2), Dec. 8, 1994, 108 Stat. 5043; Pub. L. 109–280, title V, §506(b), Aug. 17, 2006, 120 Stat. 947; Pub. L. 110–458, title I, §105(e)(2), Dec. 23, 2008, 122 Stat. 5105.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ Subsecs. (a)(1), (d)(3). Pub. L. 101–239, §7891(a)(1), substituted "Internal 
 
 Subsec. (c)(3). Pub. L. 100–203, §9314(b), added par. (3). Another section 9314(b) of Pub. L. 100–203 amended subsec. (a) of this section, see above.
 
-Subsec. (i). Pub. L. 100–203, §9312(c)(3), struck out subsec. (i) which read as follows: "In any case in which a plan is terminated under this section in a termination proceeding initiated by the corporation pursuant to subsection (a) of this section, the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title, unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title or that there is no amount of unfunded benefit commitments under the plan."
+Subsec. (i). Pub. L. 100–203, §9312(c)(3), struck out subsec. (i) which read as follows: "In any case in which a plan is terminated under this section in a termination proceeding initiated by the corporation pursuant to subsection (a), the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title, unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title or that there is no amount of unfunded benefit commitments under the plan."
 
 <b>1986</b>—Pub. L. 99–272, §11010(c), substituted "Institution of termination proceedings by the corporation" for "Termination by corporation" in section catchline.
 
@@ -184,9 +184,9 @@ Subsec. (a). Pub. L. 99–272, §11010(a)(1)(B), in provision following par. (4)
 
 Subsec. (a)(2). Pub. L. 99–272, §11010(a)(1)(A), substituted "will be" for "is".
 
-Subsec. (b)(1). Pub. L. 99–272, §11010(a)(2)(A), inserted "or is required under subsection (a) of this section to institute proceedings under this section,".
+Subsec. (b)(1). Pub. L. 99–272, §11010(a)(2)(A), inserted "or is required under subsection (a) to institute proceedings under this section,".
 
-Subsec. (c). Pub. L. 99–272, §11010(a)(2)(B), substituted "is required under subsection (a) of this section to commence proceedings under this section with respect to a plan or, after issuing a notice under this section to a plan administrator," for "has issued a notice under this section to a plan administrator and (whether or not a trustee has been appointed under subsection (b) of this section)".
+Subsec. (c). Pub. L. 99–272, §11010(a)(2)(B), substituted "is required under subsection (a) of this section to commence proceedings under this section with respect to a plan or, after issuing a notice under this section to a plan administrator," for "has issued a notice under this section to a plan administrator and (whether or not a trustee has been appointed under subsection (b))".
 
 Subsec. (d)(1)(B)(ii). Pub. L. 99–272, §11016(c)(10), inserted ", including but not limited to the power to collect from the persons obligated to meet the requirements of section 1082 of this title or the terms of the plan".
 
@@ -206,7 +206,7 @@ Subsec. (d)(1)(B). Pub. L. 96–364, §402(a)(6)(F), (G), in cl. (i) substituted
 
 Subsec. (d)(2)(D) to (F). Pub. L. 96–364, §402(a)(6)(H)–(J), added subpars. (D) to (F).
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–598 substituted "of a court of the United States having jurisdiction over cases under chapter 11 of title 11" for "of a court of bankruptcy and of a court in a proceeding under chapter X of the Bankruptcy Act" in first sentence and struck out "bankruptcy," before "mortgage foreclosure" in second sentence.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 substituted "of a court of the United States having jurisdiction over cases under chapter 11 of title 11" for "of a court ofbankruptcy and of a court in a proceeding under chapter X of the Bankruptcy Act" in first sentence and struck out "bankruptcy," before "mortgage foreclosure" in second sentence.
 
 #### Effective Date of 2008 Amendment
 
@@ -224,7 +224,7 @@ Pub. L. 103–465, title VII, §771(f), Dec. 8, 1994, 108 Stat. 5043, provided t
 
 Amendment by section 7881(g)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7893(e) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

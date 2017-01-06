@@ -42,33 +42,43 @@ Modification of Scope.—The scope of an undefinitized contractual action under 
 
 (e)
 
-Allowable Profit.—The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
+Allowable Profit.—(1) The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
 
-&emsp;(1) the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated; and
+&emsp;(A) the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated; and
 
-&emsp;(2) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
+&emsp;(B) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
+
+(2) If a contractor submits a qualifying proposal to definitize an undefinitized contractual action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal, the head of the agency concerned shall ensure that the profit allowed on the contract accurately reflects the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.
 
 (f)
 
-Applicability.—This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
+Time Limit.—No undefinitized contractual action may extend beyond 90 days without a written determination by the Secretary of the military department concerned, the head of the Defense Agency concerned, the commander ofthe combatant command concerned, or the Under Secretary of Defense for Acquisition, Technology, and Logistics (as applicable) that it is in the best interests of the military department, the Defense Agency, the combatant command, or the Department of Defense, respectively, to continue the action.
 
 (g)
+
+Foreign Military Contracts.—(1) Except as provided in paragraph (2), a contracting officer of the Department of Defense may not enter into an undefinitized contractual action for a foreign military sale unless the contractual action provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period described in subsection (b)(1)(A).
+
+(2) The requirement under paragraph (1) may be waived in accordance with subsection (b)(4).
+
+(h)
+
+Applicability.—This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
+
+(i)
 
 Definitions.—In this section:
 
 &emsp;(1) The term "undefinitized contractual action" means a new procurement action entered into by the head of an agency for which the contractual terms, specifications, or price are not agreed upon before performance is begun under the action. Such term does not include contractual actions with respect to the following:
 
-&emsp;&emsp;(A) Foreign military sales.
+&emsp;&emsp;(A) Purchases in an amount not in excess of the amount of the simplified acquisition threshold.
 
-&emsp;&emsp;(B) Purchases in an amount not in excess of the amount of the simplified acquisition threshold.
+&emsp;&emsp;(B) Special access programs.
 
-&emsp;&emsp;(C) Special access programs.
+&emsp;&emsp;(C) Congressionally mandated long-lead procurement contracts.
 
-&emsp;&emsp;(D) Congressionally mandated long-lead procurement contracts.
+&emsp;(2) The term "qualifying proposal" means a proposal that contains sufficient information to enable the Department of Defense to conduct a meaningful audit of the information contained in the proposal.
 
-&emsp;(2) The term "qualifying proposal" means a proposal that contains sufficient information to enable the Department of Defense to conduct complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer.
-
-(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831.)
+(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, title VIII, §811, Dec. 23, 2016, 130 Stat. 2268.)
 
 #### Codification
 
@@ -81,6 +91,14 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 A prior section 2326 was renumbered section 2346 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–328, §811(1), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsecs. (f) to (i). Pub. L. 114–328, §811(2), (3), added subsecs. (f) and (g) and redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
+
+Subsec. (i)(1). Pub. L. 114–328, §811(4)(A), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: "Foreign military sales."
+
+Subsec. (i)(2). Pub. L. 114–328, §811(4)(B), substituted "a meaningful audit of the information contained in the proposal." for "complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer."
 
 <b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation."
 
@@ -188,7 +206,7 @@ Limitation on Use of Funds for Undefinitized Contractual Actions.—(1) On the l
 
 "(2) On the last day of each six-month period described in paragraph (4), the amount of funds obligated for undefinitized contractual actions entered into by the Secretary of Defense (with respect to the Defense Logistics Agency) or the Secretary of a military department during the six-month period that are not definitized on or before such day may not exceed 10 percent of the amount of funds obligated for all contractual actions entered into by the Secretary during the six-month period.
 
-"(3) If on the last day of a six-month period described in paragraph (4) the total amount of funds obligated forundefinitized contractual actions under the jurisdiction of a Secretary that were entered into during the six-month period exceeds the limit established in paragraph (2), the Secretary—
+"(3) If on the last day of a six-month period described in paragraph (4) the total amount of funds obligated for undefinitized contractual actions under the jurisdiction of a Secretary that were entered into during the six-month period exceeds the limit established in paragraph (2), the Secretary—
 
 &emsp;"(A) shall, not later than the end of the 45-day period beginning on the first day following the six-month period, submit to the defense committees an unclassified report concerning—
 
@@ -228,5 +246,5 @@ Waiver Authority.—The Secretary of Defense may waive the application of subsec
 
 "(e)
 
-Definition.—For purposes of this section, the term 'undefinitized contractual action' has the meaning given such term in section 2326(g) of title 10, United States Code (as added by subsection (d)(1))."
+Definition.—For purposes of this section, the term 'undefinitized contractual action' has the meaning given such term in section 2326(g) \[now 2326(i)\] of title 10, United States Code (as added by subsection (d)(1))."
 

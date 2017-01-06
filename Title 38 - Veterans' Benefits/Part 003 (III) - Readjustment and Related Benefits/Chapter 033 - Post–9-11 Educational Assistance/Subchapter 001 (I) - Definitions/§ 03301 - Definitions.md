@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;&emsp;(A) In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
 
-&emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10 or section 712 of title 14.
+&emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service onactive duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10 or section 712 of title 14.
 
 &emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
 
@@ -84,111 +84,7 @@ Pub. L. 110–252, title V, §5002, June 30, 2008, 122 Stat. 2357, provided that
 
 #### Applicability to Individuals Under Montgomery GI Bill Program
 
-Pub. L. 110–252, title V, §5003(c), June 30, 2008, 122 Stat. 2375, provided that:
-
-"(1)
-
-Individuals Eligible to Elect Participation in Post-9/11 Educational Assistance.—An individual may elect to receive educational assistance under chapter 33 of title 38, United States Code (as added by subsection (a)), if such individual—
-
-&emsp;"(A) as of August 1, 2009—
-
-&emsp;&emsp;"(i) is entitled to basic educational assistance under chapter 30 of title 38, United States Code, and has used, but retains unused, entitlement under that chapter;
-
-&emsp;&emsp;"(ii) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, and has used, but retains unused, entitlement under the applicable chapter;
-
-&emsp;&emsp;"(iii) is entitled to basic educational assistance under chapter 30 of title 38, United States Code, but has not used any entitlement under that chapter;
-
-&emsp;&emsp;"(iv) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, but has not used any entitlement under such chapter;
-
-&emsp;&emsp;"(v) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of title 38, United States Code, and is making contributions toward such assistance under section 3011(b) or 3012(c) of such title; or
-
-&emsp;&emsp;"(vi) is a member of the Armed Forces who is not entitled to basic educational assistance under chapter 30 of title 38, United States Code, by reason of an election under section 3011(c)(1) or 3012(d)(1) of such title; and
-
-&emsp;"(B) as of the date of the individual's election under this paragraph, meets the requirements for entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added).
-
-"(2)
-
-Cessation of Contributions Toward Gi \[sic\] Bill.—Effective as of the first month beginning on or after the date of an election under paragraph (1) of an individual described by subparagraph (A)(v) of that paragraph, the obligation of the individual to make contributions under section 3011(b) or 3012(c) of title 38, United States Code, as applicable, shall cease, and the requirements of such section shall be deemed to be no longer applicable to the individual.
-
-"(3)
-
-Revocation of Remaining Transferred Entitlement.—
-
-&emsp;"(A)
-
-Election to revoke.—If, on the date an individual described in subparagraph (A)(i) or (A)(iii) of paragraph (1) makes an election under that paragraph, a transfer of the entitlement of the individual to basic educational assistance under section 3020 of title 38, United States Code, is in effect and a number of months of the entitlement so transferred remain unutilized, the individual may elect to revoke all or a portion of the entitlement so transferred that remains unutilized.
-
-&emsp;"(B)
-
-Availability of revoked entitlement.—Any entitlement revoked by an individual under this paragraph shall no longer be available to the dependent to whom transferred, but shall be available to the individual instead for educational assistance under chapter 33 of title 38, United States Code (as so added), in accordance with the provisions of this subsection.
-
-&emsp;"(C)
-
-Availability of unrevoked entitlement.—Any entitlement described in subparagraph (A) that is not revoked by an individual in accordance with that subparagraph shall remain available to the dependent or dependents concerned in accordance with the current transfer of such entitlement under section 3020 of title 38, United States Code.
-
-"(4)
-
-Post-9/11 Educational Assistance.—
-
-&emsp;"(A)
-
-In general.—Subject to subparagraph (B) and except as provided in paragraph (5), an individual making an election under paragraph (1) shall be entitled to educational assistance under chapter 33 of title 38, United States Code (as so added), in accordance with the provisions of such chapter, instead of basic educational assistance under chapter 30 of title 38, United States Code, or educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, as applicable.
-
-&emsp;"(B)
-
-Limitation on entitlement for certain individuals.—In the case of an individual making an election under paragraph (1) who is described by subparagraph (A)(i) of that paragraph, the number of months of entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), shall be the number of months equal to—
-
-&emsp;&emsp;"(i) the number of months of unused entitlement of the individual under chapter 30 of title 38, United States Code, as of the date of the election, plus
-
-&emsp;&emsp;"(ii) the number of months, if any, of entitlement revoked by the individual under paragraph (3)(A).
-
-"(5)
-
-Continuing Entitlement to Educational Assistance Not Available Under 9/11 Assistance Program.—
-
-&emsp;"(A)
-
-In general.—In the event educational assistance to which an individual making an election under paragraph (1) would be entitled under chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable, is not authorized to be available to the individual under the provisions of chapter 33 of title 38, United States Code (as so added), the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
-
-&emsp;"(B)
-
-Charge for use of entitlement.—The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement under such chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable).
-
-"(6)
-
-Additional Post-9/11 Assistance for Members Having Made Contributions Toward Gi \[sic\] Bill.—
-
-&emsp;"(A)
-
-Additional assistance.—In the case of an individual making an election under paragraph (1) who is described by clause (i), (iii), or (v) of subparagraph (A) of that paragraph, the amount of educational assistance payable to the individual under chapter 33 of title 38, United States Code (as so added), as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of such title, or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
-
-&emsp;&emsp;"(i) the total amount of contributions toward basic educational assistance made by the individual under section 3011(b) or 3012(c) of title 38, United States Code, as of the date of the election, multiplied by
-
-&emsp;&emsp;"(ii) the fraction—
-
-&emsp;&emsp;&emsp;"(I) the numerator of which is—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the number of months of entitlement to basic educational assistance under chapter 30 of title 38, United States Code, remaining to the individual at the time of the election; plus
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) the number of months, if any, of entitlement under such chapter 30 revoked by the individual under paragraph (3)(A); and
-
-&emsp;&emsp;&emsp;"(II) the denominator of which is 36 months.
-
-&emsp;"(B)
-
-Months of remaining entitlement for certain individuals.—In the case of an individual covered by subparagraph (A) who is described by paragraph (1)(A)(v), the number of months of entitlement to basic educational assistance remaining to the individual for purposes of subparagraph (A)(ii)(I)(aa) shall be 36 months.
-
-&emsp;"(C)
-
-Timing of payment.—The amount payable with respect to an individual under subparagraph (A) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of title 38, United States Code (as so added), or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual's entitlement to educational assistance under chapter 33 of such title (as so added).
-
-"(7)
-
-Continuing Entitlement to Additional Assistance for Critical Skills or Speciality and Additional Service.—An individual making an election under paragraph (1)(A) who, at the time of the election, is entitled to increased educational assistance under section 3015(d) of title 38, United States Code, or section 16131(i) of title 10, United States Code, or supplemental educational assistance under subchapter III of chapter 30 of title 38, United States Code, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added), in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
-
-"(8)
-
-Irrevocability of Elections.—An election under paragraph (1) or (3)(A) is irrevocable."
+Pub. L. 110–252, title V, §5003(c), June 30, 2008, 122 Stat. 2375, which related to applicability of Post-9/11 Educational Assistance program to individuals entitled to education assistance under chapter 33 of this title, was repealed by Pub. L. 114–315, title IV, §405(c), Dec. 16, 2016, 130 Stat. 1558. See section 3327 of this title.
 
 #### Ex. Ord. No. 13607. Establishing Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members
 
@@ -198,7 +94,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The original GI Bill, approved just weeks after D-Day, educated nearly 8 million Americans and helped transform this Nation. We owe the same obligations to this generation of service men and women as was afforded that previous one. This is the promise of the Post-9/11 Veterans Educational Assistance Act of 2008 (title V, Public Law 110–252) (Post-9/11 GI Bill) and the continued provision of educational benefits in the Department of Defense's Tuition Assistance Program (10 U.S.C. 2007): to provide our service members, veterans, spouses, and other family members the opportunity to pursue a high-quality education and gain the skills and training they need to fill the jobs of tomorrow.
 
-Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by someeducational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potential students to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
+Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potential students to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
 
 To ensure our service members, veterans, spouses, and other family members have the information they need to make informed decisions concerning their well-earned Federal military and veterans educational benefits, I am directing my Administration to develop Principles of Excellence to strengthen oversight, enforcement, and accountability within these benefits programs.
 
@@ -226,7 +122,7 @@ Sec. 3. <i>Implementation of the Principles of Excellence</i>.
 
 (a) The Departments of Defense and Veterans Affairs shall reflect the Principles described in section 2 of this order in new agreements with educational institutions, to the extent practicable and permitted by law, concerning participation in the Yellow Ribbon Program for veterans under the Post-9/11 GI Bill or the Tuition Assistance Program for active duty service members. The Department of Veterans Affairs shall also notify all institutions participating in the Post-9/11 GI Bill program that they are strongly encouraged to comply with the Principles and shall post on the Department's website those that do.
 
-(b) The Secretaries of Defense, Veterans Affairs, and Education, in consultation with the Director of the Bureau of Consumer Financial Protection (CFPB) and the Attorney General, shall take immediate action to implement this order, and, within 90 days from the date of this order, report to the President their progress on implementation, including promptly revising regulations, Department of Defense Instructions, guidance documents, Memoranda of Understanding, and other policies governing programs authorized or funded by the Post-9/11 GI Bill and the Tuition Assistance Program to implement the Principles, to the extent permitted by law.
+(b) The Secretaries of Defense, Veterans Affairs, and Education, in consultation with the Director of the Bureau of Consumer Financial Protection (CFPB) and the Attorney General, shall take immediate action to implement this order, and, within 90 days from the date of this order, report to the President their progress on implementation, including promptly revising regulations, Department of Defense Instructions, guidance documents, Memoranda of Understanding, and other policies governing programs authorized or funded by thePost-9/11 GI Bill and the Tuition Assistance Program to implement the Principles, to the extent permitted by law.
 
 (c) The Secretaries of Defense, Veterans Affairs, and Education shall develop a comprehensive strategy for developing service member and veteran student outcome measures that are comparable, to the maximum extent practicable, across Federal military and veterans educational benefit programs, including, but not limited to, the Post-9/11 GI Bill and the Tuition Assistance Program. To the extent practicable, the student outcome measures should rely on existing administrative data to minimize the reporting burden on institutions participating in these benefit programs. The student outcome measures should permit comparisons across Federal educational programs and across institutions and types of institutions. The Secretary of Education, in consultation with the Secretaries of Defense and Veterans Affairs, shall also collect from educational institutions, as part of the Integrated Postsecondary Education Data System and other data collection systems, information on the amount of funding received pursuant to the Post-9/11 GI Bill and the Tuition Assistance Program. The Secretary of Education shall make this information publicly available on the College Navigator Website.
 

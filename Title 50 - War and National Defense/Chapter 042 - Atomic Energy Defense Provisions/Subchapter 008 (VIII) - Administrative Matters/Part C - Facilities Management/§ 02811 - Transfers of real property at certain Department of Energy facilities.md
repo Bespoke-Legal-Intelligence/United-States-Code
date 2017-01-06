@@ -56,7 +56,7 @@ Nothing in this section shall be construed as affecting or modifying in any way 
 
 In this section, the terms "hazardous substance", "release", and "pollutant or contaminant" have the meanings provided by section 9601 of title 42.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4831, formerly Pub. L. 105–85, div. C, title XXXI, §3158, Nov. 18, 1997, 111 Stat. 2046; Pub. L. 108–7, div. D, title V, §506, Feb. 20, 2003, 117 Stat. 158; renumbered Pub. L. 107–314, div. D, title XLVIII, §4831, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(11), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 108–137, title V, §504(a), Dec. 1, 2003, 117 Stat. 1868; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(K), (i)(6), Dec. 26, 2013, 127 Stat. 1073, 1082.)
+(Pub. L. 107–314, div. D, title XLVIII, §4831, formerly Pub. L. 105–85, div. C, title XXXI, §3158,Nov. 18, 1997, 111 Stat. 2046; Pub. L. 108–7, div. D, title V, §506, Feb. 20, 2003, 117 Stat. 158; renumbered Pub. L. 107–314, div. D, title XLVIII, §4831, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(11), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 108–137, title V, §504(a), Dec. 1, 2003, 117 Stat. 1868; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(K), (i)(6), Dec. 26, 2013, 127 Stat. 1073, 1082.)
 
 #### Codification
 
@@ -72,7 +72,7 @@ Subsec. (c)(1)(A). Pub. L. 113–66, §3146(i)(6)(A), substituted "Secretary" fo
 
 Subsec. (d). Pub. L. 113–66, §3146(i)(6), substituted "Secretary" for "Secretary of Energy" in heading and "Secretary determines" for "Secretary of Energy determines" in par. (1).
 
-Subsec. (f). Pub. L. 113–66, §3146(a)(2)(K), substituted "section, the terms" for "section:", struck out par. (1) which defined "defense nuclear facility", and struckout par. (2) designation and "The terms" before " 'hazardous substance' ".
+Subsec. (f). Pub. L. 113–66, §3146(a)(2)(K), substituted "section, the terms" for "section:", struck out par. (1) which defined "defense nuclear facility", and struck out par. (2) designation and "The terms" before " 'hazardous substance' ".
 
 <b>2003</b>—Subsec. (b)(2)(D). Pub. L. 108–137, §504(a), which directed that subsec. (b)(2) of section 3158 of the National Defense Authorization Act for Fiscal Year 1998 (42 U.S.C. 7274q(b)(2)) be amended by adding a subpar. (D), was executed to that section as renumbered by Pub. L. 108–136 to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2003 Amendment note below.
 

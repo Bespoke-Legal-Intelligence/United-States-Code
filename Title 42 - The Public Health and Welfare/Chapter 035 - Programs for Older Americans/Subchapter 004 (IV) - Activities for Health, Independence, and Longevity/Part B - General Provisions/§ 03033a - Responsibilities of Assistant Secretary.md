@@ -90,7 +90,7 @@ Another prior section 3035g, Pub. L. 89–73, title IV, §431, as added Pub. L. 
 
 Section 3035h, Pub. L. 89–73, title IV, §429, as added Pub. L. 102–375, title IV, §409, Sept. 30, 1992, 106 Stat. 1249; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to demonstration projects for multigenerational activities.
 
-Another prior section 3035h, Pub. L. 89–73, title IV, §432, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1545, related to mortgage interest grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115.
+Another prior section 3035h, Pub. L. 89–73, title IV, §432, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct.18, 1978, 92 Stat. 1545, related to mortgage interest grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Section 3035i, Pub. L. 89–73, title IV, §429A, as added Pub. L. 102–375, title IV, §410, Sept. 30, 1992, 106 Stat. 1251; amended Pub. L. 103–171, §3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1990, related to supportive services in the federally assisted housing demonstration program.
 
@@ -104,7 +104,7 @@ Section 3035m, Pub. L. 89–73, title IV, §429E, as added Pub. L. 102–375, ti
 
 Section 3035n, Pub. L. 89–73, title IV, §429F, as added Pub. L. 102–375, title IV, §415, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(C), Oct. 30, 2000, 114 Stat. 1739, related to demonstration programs for older individuals with developmental disabilities.
 
-Section 3035o, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat.1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
+Section 3035o, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
 
 Section 3035p, Pub. L. 89–73, title IV, §429H, as added Pub. L. 102–375, title IV, §417, Sept. 30, 1992, 106 Stat. 1260; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to private resource enhancement projects.
 

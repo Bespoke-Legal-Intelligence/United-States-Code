@@ -20,7 +20,7 @@ It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to
 
 #### Prior Provisions
 
-A prior section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, related to activities of the Administrator of General Services with respect to records management, surveys, and reports, prior to repeal by Pub. L. 94–575, §2(a)(1). See section 2904 of this title.
+A prior section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, related to activities of the Administrator ofGeneral Services with respect to records management, surveys, and reports, prior to repeal by Pub. L. 94–575, §2(a)(1). See section 2904 of this title.
 
 #### Amendments
 

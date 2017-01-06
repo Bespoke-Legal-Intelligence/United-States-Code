@@ -16,7 +16,7 @@ Definitions.—In this chapter—
 
 &emsp;(4) "State" means any of the several States and the District of Columbia;
 
-&emsp;(5) "income" means the total money income received from all sources as determined by the Secretary of Commerce for general statisticalpurposes, which for units of general local government is reported by the Bureau of the Census for 1990 in the publication Summary Social, Economic, and Housing Characteristics;
+&emsp;(5) "income" means the total money income received from all sources as determined by the Secretary of Commerce for general statistical purposes, which for units of general local government is reported by the Bureau of the Census for 1990 in the publication Summary Social, Economic, and Housing Characteristics;
 
 &emsp;(6) "per capita income" means—
 

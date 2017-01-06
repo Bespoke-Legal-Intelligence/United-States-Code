@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may prohibit, suspend, or end immediately the launch of a launch vehicle or the operation of a launch site or reentry site, or reentry of a reentry vehicle, licensed under this chapter if the Secretary decides the launch or operation or reentry is detrimental to the public health and safety, the safety of property, or a national security or foreign policy interest of the United States.
+General Authority.—The Secretary of Transportation may prohibit, suspend, or end immediately the launch of a launch vehicle or the operation of a launch site or reentry site, or reentry of a reentry vehicle, licensed under thischapter if the Secretary decides the launch or operation or reentry is detrimental to the public health and safety, the safety of property, or a national security or foreign policy interest of the United States.
 
 (b)
 
@@ -36,7 +36,7 @@ Oct. 30, 1984, Pub. L. 98–575, §11, 98 Stat. 3059.
 
 Subsec. (b). Pub. L. 111–314, §4(d)(5)(L), substituted "section 50912" for "section 70110".
 
-<b>1998</b>—Pub. L. 105–303, §102(a)(8)(A), substituted "Prohibition, suspension, and end of launches, operation oflaunch sites and reentry sites, and reentries" for "Prohibition, suspension, and end of launches and operation of launch sites" in section catchline.
+<b>1998</b>—Pub. L. 105–303, §102(a)(8)(A), substituted "Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries" for "Prohibition, suspension, and end of launches and operation of launch sites" in section catchline.
 
 Subsec. (a). Pub. L. 105–303, §102(a)(8)(B), inserted "or reentry site, or reentry of a reentry vehicle," after "operation of a launch site" and "or reentry" after "launch or operation".
 

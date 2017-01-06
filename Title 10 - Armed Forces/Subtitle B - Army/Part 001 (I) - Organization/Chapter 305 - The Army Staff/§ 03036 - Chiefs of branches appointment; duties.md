@@ -16,33 +16,39 @@
 
 &emsp;(2) have been recommended by a board under subsection (e).
 
-> Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general. The Surgeon General may be appointed from officers in any corps of the Army Medical Department and, while so serving, has the grade of lieutenant general. The Judge Advocate General shall be appointed as prescribed in section 3037 of this title.
+> The Surgeon General may be appointed from officers in any corps of the Army Medical Department. The Judge Advocate General shall be appointed as prescribed in section 3037 of this title.
 
 (c) An officer appointed under subsection (b) normally holds office for four years. However, the President may terminate or extend the appointment at any time.
 
-(d)(1) Each officer named in subsection (a) shall perform duties prescribed by the Secretary of the Army and by law.
+(d) Each officer named in subsection (a) shall perform duties prescribed by the Secretary of the Army and by law.
 
-(2) Under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
+(e)(1) Under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
 
-&emsp;(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
+&emsp;(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agencyproviding Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 
 &emsp;(B) the services are provided on a reimbursable basis.
 
-(3) In this subsection, the term "State" includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
+(2) In this subsection, the term "State" includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
 
-(e) For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
+(f)(1) The Surgeon General serves as the principal advisor to the Secretary of the Army and the Chief of Staff of the Army on all health and medical matters of the Army, including strategic planning and policy development relating to such matters.
+
+(2) The Surgeon General serves as the chief medical advisor of the Army to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Army.
+
+(3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Army, shall recruit, organize, train, and equip, medical personnel of the Army.
+
+(g) For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
 
 &emsp;(1) the name of each officer of the Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is colonel;
 
 &emsp;(2) the name of each officer whose regular grade is above colonel, who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment;
 
-&emsp;(3) to the extent that the Secretary determines advisable, the name of each officer ofthe Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is lieutenant colonel, in the order in which their names appear on the applicable promotion lists; and
+&emsp;(3) to the extent that the Secretary determines advisable, the name of each officer of the Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is lieutenant colonel, in the order in which their names appear on the applicable promotion lists; and
 
 &emsp;(4) to the extent that the Secretary considers advisable, the name of each regular or reserve officer on active duty in a grade above lieutenant colonel who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment.
 
 > From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendation for the grade of brigadier general or major general under section 3306 or 3307 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 163; Pub. L. 89–288, §1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, §1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, §922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, §7(a)(10), Apr. 21, 1987, 101 Stat. 278; Pub. L. 102–580, title II, §211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, §506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, §1074(a)(18), Sept. 23, 1996, 110 Stat. 2660.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 163; Pub. L. 89–288, §1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, §1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, §922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, §7(a)(10), Apr. 21, 1987, 101 Stat. 278; Pub. L. 102–580, title II, §211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, §506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, §1074(a)(18), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 114–328, div. A, title V, §502(k), title VII, §702(b)(1), Dec. 23, 2016, 130 Stat. 2103, 2195.)
 
 Historical and Revision Notes<br>1956
 
@@ -120,6 +126,12 @@ The first sentence is restated to clarify that the Secretary concerned is the Se
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b). Pub. L. 114–328, §502(k)(2), which directed amendment of second sentence of concluding provisions by striking ", and while so serving, has the grade of lieutenant general", was executed by striking out "and, while so serving, has the grade of lieutenant general" after "Army Medical Department" to reflect the probable intent of Congress.
+
+Pub. L. 114–328, §502(k)(1), struck out first sentence of concluding provisions which read as follows: "Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general."
+
+Subsecs. (d) to (g). Pub. L. 114–328, §702(b)(1), struck out par. (1) designation before "Each officer" in subsec. (d), redesignated subsec. (e) as (g), added subsec. (e) designation, redesignated pars. (2) and (3) of subsec. (d) as pars. (1) and (2), respectively, of subsec. (e), and added subsec. (f).
+
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted "may be appointed from officers in any corps of the Army Medical Department and" after "The Surgeon General" in concluding provisions.
 
 Subsec. (d)(3). Pub. L. 104–201 substituted "In this subsection" for "For purposes of this subsection".
@@ -152,9 +164,37 @@ Subsec. (d)(3). Pub. L. 104–201 substituted "In this subsection" for "For purp
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–288 provided Surgeon General, while so serving, with grade of lieutenant general.
 
+#### Veterans' Curation Program
+
+Pub. L. 114–189, July 6, 2016, 130 Stat. 613, provided that:
+
+#### "SECTION 1. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) The Corps of Engineers and other Federal agencies are required to preserve and catalogue artifacts and other items of national historical significance that are uncovered during the course of their work (notably under part 79 of title 36, Code of Federal Regulations).
+
+&emsp;"(2) Uncatalogued artifacts within the care of Federal agencies are stored in hundreds of repositories and museums across the Nation.
+
+&emsp;"(3) In October 2009, the Corps of Engineers, Center of Expertise for the Curation and Management of Archaeological Collections, initiated the Veterans' Curation Program to employ and train Iraq and Afghanistan veterans in archaeological processing.
+
+&emsp;"(4) The Veterans' Curation Program employs veterans and members of the Armed Forces in the sorting, cleaning, and cataloguing of artifacts managed by the Corps of Engineers.
+
+&emsp;"(5) Employees of the Veterans' Curation Program gain valuable work skills, including computer database management, records management, photographic and scanning techniques, computer software proficiency, vocabulary and writing skills, and interpersonal communication skills, as well as knowledge and training in archaeology and history.
+
+&emsp;"(6) Since 2009, a total of 241 veterans have participated in the Veterans' Curation Program, including the current class of 38 participants. Of the 203 graduates of the program, 87 percent have received permanent employment in a field related to training received under the program or chosen to continue their education.
+
+&emsp;"(7) Experience in archaeological curation gained through the Veterans' Curation Program is valuable training and experience for the museum, forensics, administrative, records management, and other fields.
+
+&emsp;"(8) Veterans' Curation Program participants may assist the Corps of Engineers in developing a more efficient and comprehensive collections management program and also may provide the workforce to meet the records management needs at other agencies and departments, including the Department of Veterans Affairs.
+
+#### "SEC. 2. TRAINING AND EMPLOYMENT FOR VETERANS AND MEMBERS OF ARMED FORCES IN CURATION AND HISTORIC PRESERVATION.
+
+"Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans' Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities."
+
 #### Corps of Engineers; Annual Budget Submission
 
-Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: "All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents."
+Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: "All budget documents andjustification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents."
 
 #### Chief of Engineers; Fiscal Transparency Report
 
@@ -252,7 +292,7 @@ Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided 
 
 #### reorganization of the department of the army
 
-By virtue of the authority vested in me by section 202(c) of the National Security Act of 1947, as amended\(72 Stat. 514; 5 U.S.C. 171a(c)), and as Secretary of Defense, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), and as Secretary of Defense, it is hereby ordered as follows:
 
 Section 1. <i>Abolition of officers and transfer of functions</i>. The following officers named in section 3036, Title 10, United States Code, are hereby abolished and their functions transferred to the Secretary of the Army:
 

@@ -10,7 +10,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;(1) identify and develop the best available techniques, equipment, and materials for dealing with oil spills in the arctic and subarctic marine environment; and
 
-&emsp;(2) complement Federal and State damage assessment efforts and determine, document, assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled "EXXON VALDEZ oil spill dated March 1990"), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
+&emsp;(2) complement Federal and State damage assessment efforts and determine, document,assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled "EXXON VALDEZ oil spill dated March 1990"), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
 
 #### (c) Advisory board
 
@@ -40,7 +40,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (3) Policies
 
-&emsp;Policies determined by the Advisory Board under this subsection shall include policies forthe conduct and support, through contracts and grants awarded on a nationally competitive basis, of research, projects, and studies to be supported by the Institute in accordance with the purposes of this section.
+&emsp;Policies determined by the Advisory Board under this subsection shall include policies for the conduct and support, through contracts and grants awarded on a nationally competitive basis, of research, projects, and studies to be supported by the Institute in accordance with the purposes of this section.
 
 #### (4) Scientific review
 
@@ -78,7 +78,7 @@ The authorization in section 2736(b) of this title providing funding for the Ins
 
 #### (j) Use of funds
 
-No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
+No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b).
 
 #### (k) Research
 

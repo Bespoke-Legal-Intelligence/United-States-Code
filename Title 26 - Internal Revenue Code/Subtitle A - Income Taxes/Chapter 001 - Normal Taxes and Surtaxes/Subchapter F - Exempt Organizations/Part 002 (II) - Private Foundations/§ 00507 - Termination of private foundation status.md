@@ -56,7 +56,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of paragraph (1), the term "substantial contributor" means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the privatefoundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term "substantial contributor" also means the creator of the trust.
+&emsp;&emsp;For purposes of paragraph (1), the term "substantial contributor" means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term "substantial contributor" also means the creator of the trust.
 
 #### (B) Special rules
 
@@ -126,7 +126,7 @@ Section effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set o
 
 #### Applicability to Determination of Status as Substantial Contributor for Purposes of Taxes on Self-Dealing of Contributions Made Prior to October 9, 1969
 
-Pub. L. 95–170, §3, Nov. 12, 1977, 91 Stat. 1352, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "In determining whether a person is a substantial contributor within the meaning of section 507(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for purposes of applying section 4941 of such Code (relating to taxes on self-dealing), contributions made before October 9, 1969, which—
+Pub. L. 95–170, §3, Nov. 12, 1977, 91 Stat. 1352, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In determining whether a person is a substantial contributor within the meaning of section 507(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for purposes of applying section 4941 of such Code (relating to taxes on self-dealing), contributions made before October 9, 1969, which—
 
 &emsp;"(1) were made on account of or in lieu of payments required under a lease in effect before such date, and
 

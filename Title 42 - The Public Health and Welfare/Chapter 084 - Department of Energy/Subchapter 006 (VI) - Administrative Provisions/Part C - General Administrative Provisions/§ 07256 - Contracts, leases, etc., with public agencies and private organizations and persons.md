@@ -132,7 +132,7 @@ Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount 
 
 "(b)
 
-Amount.—(1) Except as provided in paragraph (2), the requirements of subsection (a) for any fiscal year apply to the combined total of the funds obligated for contracts entered into by the Department of Energy pursuant to competitive procedures for such fiscal yearfor purposes of carrying out national security programs of the Department.
+Amount.—(1) Except as provided in paragraph (2), the requirements of subsection (a) for any fiscal year apply to the combined total of the funds obligated for contracts entered into by the Department of Energy pursuant to competitive procedures for such fiscal year for purposes of carrying out national security programs of the Department.
 
 "(2) In computing the combined total of funds under paragraph (1) for a fiscal year, funds obligated for such fiscal year for contracts for naval reactor programs shall not be included.
 

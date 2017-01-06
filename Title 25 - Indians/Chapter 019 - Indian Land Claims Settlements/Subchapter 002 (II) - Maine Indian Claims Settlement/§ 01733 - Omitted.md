@@ -1,0 +1,6 @@
+### §1733. Omitted
+
+#### Codification
+
+Section, Pub. L. 96–420, §14, Oct. 10, 1980, 94 Stat. 1797, which authorized appropriations, was omitted from the Code as being of special and not general application.
+

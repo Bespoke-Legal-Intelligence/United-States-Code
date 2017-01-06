@@ -14,7 +14,7 @@ Copies of all reports pertinent to the evaluation, inspection, or monitoring of 
 
 #### (d) Funds accounted for and reported as receipts and disbursements separate and distinct from Federal funds
 
-Non-Federal funds received by the Institute, and funds received for projects funded in part bythe Institute or by any recipient from a source other than the Institute, shall be accounted for and reported as receipts and disbursements separate and distinct from Federal funds.
+Non-Federal funds received by the Institute, and funds received for projects funded in part by the Institute or by any recipient from a source other than the Institute, shall be accounted for and reported as receipts and disbursements separate and distinct from Federal funds.
 
 (Pub. L. 98–620, title II, §211, Nov. 8, 1984, 98 Stat. 3344.)
 

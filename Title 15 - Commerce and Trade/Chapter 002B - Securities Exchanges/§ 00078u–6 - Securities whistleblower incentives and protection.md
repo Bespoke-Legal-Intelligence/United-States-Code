@@ -36,7 +36,7 @@ In this section the following definitions shall apply:
 
 #### (6) Whistleblower
 
-&emsp;The term "whistleblower" means any individual who provides, or 2 or more individualsacting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
+&emsp;The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
 
 #### (b) Awards
 
@@ -168,7 +168,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (5) Reports to Congress
 
-&emsp;Not later than October 30 of each fiscal year beginning after July 21, 2010, the Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives a report on—
+&emsp;Not later than October 30 of each fiscal year beginning after July 21, 2010, the Commissionshall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives a report on—
 
 &emsp;&emsp;(A) the whistleblower award program, established under this section, including—
 
@@ -260,7 +260,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Without the loss of its status as confidential in the hands of the Commission, all information referred to in subparagraph (A) may, in the discretion of the Commission, when determined by the Commission to be necessary to accomplish the purposes of this chapter and to protect investors, be made available to—
+&emsp;&emsp;&emsp;Without the loss of its status as confidential in the hands of the Commission, all information referred to in subparagraph (A) may, in the discretion of the Commission, when determined by theCommission to be necessary to accomplish the purposes of this chapter and to protect investors, be made available to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Attorney General of the United States;
 

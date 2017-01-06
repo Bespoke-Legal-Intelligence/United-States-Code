@@ -1,0 +1,6 @@
+### §474. Transferred
+
+#### Codification
+
+Section 474 was editorially reclassified as section 5120 of this title.
+

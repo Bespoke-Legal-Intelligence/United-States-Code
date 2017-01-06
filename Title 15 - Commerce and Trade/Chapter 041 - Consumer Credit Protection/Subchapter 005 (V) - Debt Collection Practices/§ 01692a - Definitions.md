@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;(5) The term "debt" means any obligation or alleged obligation of a consumer to pay money arising out of a transaction in which the money, property, insurance, or services which are the subject of the transaction are primarily for personal, family, or household purposes, whether or not such obligation has been reduced to judgment.
 
-&emsp;(6) The term "debt collector" means any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the collection of any debts, or who regularly collects orattempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due another. Notwithstanding the exclusion provided by clause (F) of the last sentence of this paragraph, the term includes any creditor who, in the process of collecting his own debts, uses any name other than his own which would indicate that a third person is collecting or attempting to collect such debts. For the purpose of section 1692f(6) of this title, such term also includes any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the enforcement of security interests. The term does not include—
+&emsp;(6) The term "debt collector" means any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due another. Notwithstanding the exclusion provided by clause (F) of the last sentence of this paragraph, the term includes any creditor who, in the process of collecting his own debts, uses any name other than his own which would indicate that a third person is collecting or attempting to collect such debts. For the purpose of section 1692f(6) of this title, such term also includes any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the enforcement of security interests. The term does not include—
 
 &emsp;&emsp;(A) any officer or employee of a creditor while, in the name of the creditor, collecting debts for such creditor;
 
@@ -41,4 +41,8 @@ As used in this subchapter—
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 

@@ -118,7 +118,7 @@ Commodities provided under this subchapter shall, to the extent practicable, be 
 
 &emsp;Of the funds made available under section 1726a(f) of this title,<sup>1</sup> for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.
 
-(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §§3002, 3003, Feb. 7, 2014, 128 Stat. 773.)
+(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §§3002, 3003, Feb. 7, 2014, 128 Stat. 773.)
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted "not less than 5 perce
 
 Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administratormay provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
 
 Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted "eligible organizations" for "private voluntary organizations and cooperatives" in heading.
 
@@ -190,7 +190,7 @@ Subsec. (b)(2). Pub. L. 96–53, §202, substituted provisions relating to encou
 
 Subsec. (b). Pub. L. 95–88, §207(3), added subsec. (b).
 
-<b>1966</b>—Pub. L. 89–808 substituted provisions for furnishing commodities for prescribed purposes through use of friendly governments, agencies, and organizations, using to extent practicable registered and approved nonprofit voluntary agencies, identification of source of commodities, determination by the President of the manner and terms and conditions of furnishing the commodities and for directions of the assistance toward community and self-help activities for former provisions for transfer of commodities on a grant bases to assist the prescribed programs.
+<b>1966</b>—Pub. L. 89–808 substituted provisions for furnishing commodities for prescribed purposes through use of friendly governments, agencies, and organizations, using to extent practicable registered and approved nonprofit voluntary agencies, identification ofsource of commodities, determination by the President of the manner and terms and conditions of furnishing the commodities and for directions of the assistance toward community and self-help activities for former provisions for transfer of commodities on a grant bases to assist the prescribed programs.
 
 <b>1963</b>—Pub. L. 88–205 substituted "economic and community development" for "economic developments".
 

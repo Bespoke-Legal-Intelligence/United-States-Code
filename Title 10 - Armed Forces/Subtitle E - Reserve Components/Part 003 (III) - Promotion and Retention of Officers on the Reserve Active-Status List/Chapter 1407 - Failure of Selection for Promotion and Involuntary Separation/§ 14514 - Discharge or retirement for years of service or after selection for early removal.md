@@ -2,7 +2,7 @@
 
 Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and who is required to be removed from an active status or from a reserve active-status list, as the case may be, under section 14507, 14508, 14704, or 14705 of this title (unless the officer is sooner separated or the officer's separation is deferred or the officer is continued in an active status under another provision of law), in accordance with those sections, shall—
 
-&emsp;(1) be transferred to the Retired Reserve if the officer is qualified for such transfer anddoes not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve; or
+&emsp;(1) be transferred to the Retired Reserve if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve; or
 
 &emsp;(2) be discharged from the officer's reserve appointment if the officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
@@ -17,4 +17,8 @@ Par. (2). Pub. L. 107–107, §517(c)(2), added par. (2) and struck out former p
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–107 effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as a note under section 10154 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

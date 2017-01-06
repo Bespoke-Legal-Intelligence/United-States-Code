@@ -40,7 +40,7 @@ Contents.—The national freight strategic plan shall include—
 
 (c)
 
-Updates.—Not later than 5 years after the date of completion of the national freight strategic plan under subsection (a), and every 5years thereafter, the Under Secretary shall update the plan and publish the updated plan on the public Internet Web site of the Department of Transportation.
+Updates.—Not later than 5 years after the date of completion of the national freight strategic plan under subsection (a), and every 5 years thereafter, the Under Secretary shall update the plan and publish the updated plan on the public Internet Web site of the Department of Transportation.
 
 (d)
 

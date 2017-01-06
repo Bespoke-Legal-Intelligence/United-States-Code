@@ -2,13 +2,13 @@
 
 #### (a) Prohibition
 
-Nothing contained in this part shall be deemed (1) to amend any other provision of, or requirement under, this chapter; or (2) except to the extent authorized in subsection (b) of this section, to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over public telecommunications, or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation, or over the curriculum, program of instruction, or personnel of any educational institution, school system, or public telecommunications entity.
+Nothing contained in this part shall be deemed (1) to amend any other provision of, or requirement under, this chapter; or (2) except to the extent authorized in subsection (b), to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over public telecommunications, or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation, or over the curriculum, program of instruction, or personnel of any educational institution, school system, or public telecommunications entity.
 
 #### (b) Equal opportunity employment
 
 (1) Equal opportunity in employment shall be afforded to all persons by the Public Broadcasting Service and National Public Radio (or any successor organization) and by all public telecommunications entities receiving funds pursuant to subpart C <sup>1</sup> (hereinafter in this subsection referred to as "recipients"), in accordance with the equal employment opportunity regulations of the Commission, and no person shall be subjected to discrimination in employment by any recipient on the grounds of race, color, religion, national origin, or sex.
 
-(2)(A) The Secretary is authorized and directed to enforce this subsection and to prescribe such rules and regulations as may be necessary tocarry out the functions of the Secretary under this subsection.
+(2)(A) The Secretary is authorized and directed to enforce this subsection and to prescribe such rules and regulations as may be necessary to carry out the functions of the Secretary under this subsection.
 
 (B) The Secretary shall provide for close coordination with the Commission in the administration of the responsibilities of the Secretary under this subsection which are of interest to or affect the functions of the Commission so that, to the maximum extent possible consistent with the enforcement responsibilities of each, the reporting requirements of public telecommunications entities shall be uniformly based upon consistent definitions and categories of information.
 
@@ -48,7 +48,7 @@ Subpart C, referred to in subsec. (b)(1), (3)(A), was redesignated subpart D by 
 
 <b>1978</b>—Pub. L. 95–567 designated existing provisions as subsec. (a), substituted "public telecommunications entity" and "public telecommunications" for "educational broadcasting station or system" and "educational television or radio broadcasting", respectively, and added subsecs. (b) and (c).
 
-<b>1967</b>—Pub. L. 90–129, §§103(g), 201(5), inserted "or radio" and ", or over the Corporation or any of itsgrantees or contractors, or over the charter or bylaws of the Corporation," before and after "broadcasting", where first appearing, respectively.
+<b>1967</b>—Pub. L. 90–129, §§103(g), 201(5), inserted "or radio" and ", or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation," before and after "broadcasting", where first appearing, respectively.
 
 #### Effective Date of 1978 Amendment
 

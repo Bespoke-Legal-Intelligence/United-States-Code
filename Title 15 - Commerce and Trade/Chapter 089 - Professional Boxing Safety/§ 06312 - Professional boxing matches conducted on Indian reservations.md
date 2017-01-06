@@ -6,7 +6,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Indian tribe
 
-&emsp;The term "Indian tribe" has the same meaning as in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the same meaning as in section 5304(e) of title 25.
 
 #### (2) Reservation
 
@@ -14,7 +14,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Tribal organization
 
-&emsp;The term "tribal organization" has the same meaning as in section 450b(l) of title 25.
+&emsp;The term "tribal organization" has the same meaning as in section 5304(l) of title 25.
 
 #### (b) Requirements
 
@@ -35,4 +35,8 @@ For purposes of this section, the following definitions shall apply:
 &emsp;&emsp;(B) the most recently published version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions.
 
 (Pub. L. 104–272, §21, formerly §13, Oct. 9, 1996, 110 Stat. 3313; renumbered §21, Pub. L. 106–210, §4(1), May 26, 2000, 114 Stat. 322.)
+
+#### Effective Date
+
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 

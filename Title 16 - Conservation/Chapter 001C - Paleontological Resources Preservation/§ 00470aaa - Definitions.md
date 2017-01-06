@@ -28,7 +28,7 @@ In this chapter:
 
 #### (5) Secretary
 
-&emsp;The term "Secretary" means the Secretary of the Interior with respect to land controlled or administered by the Secretary of the Interior or the Secretary of Agriculture with respect to National Forest System land controlled or administered by the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of the Interior with respect to land controlledor administered by the Secretary of the Interior or the Secretary of Agriculture with respect to National Forest System land controlled or administered by the Secretary of Agriculture.
 
 #### (6) State
 

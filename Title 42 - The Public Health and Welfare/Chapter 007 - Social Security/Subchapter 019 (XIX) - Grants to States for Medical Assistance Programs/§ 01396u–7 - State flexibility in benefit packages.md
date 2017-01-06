@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of thissubchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
+&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
 
 &emsp;&emsp;&emsp;(i) provides benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
 
@@ -22,7 +22,7 @@
 
 #### (D) Treatment as medical assistance
 
-&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated as payment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
+&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated aspayment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
 
 #### (E) Rule of construction
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistance for all services defined in section 1396d(a) of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
+&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistancefor all services defined in section 1396d(a) of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
 
 #### (ii) Exclusion of medically needy and spend-down populations
 

@@ -12,7 +12,7 @@ A responsible party is not liable for removal costs or damages under section 270
 
 &emsp;&emsp;(A) exercised due care with respect to the oil concerned, taking into consideration the characteristics of the oil and in light of all relevant facts and circumstances; and
 
-&emsp;&emsp;(B) took precautions against foreseeable acts or omissions of any such third partyand the foreseeable consequences of those acts or omissions; or
+&emsp;&emsp;(B) took precautions against foreseeable acts or omissions of any such third party and the foreseeable consequences of those acts or omissions; or
 
 &emsp;(4) any combination of paragraphs (1), (2), and (3).
 
@@ -22,7 +22,7 @@ A responsible party is not liable under section 2702 of this title to a claimant
 
 #### (c) Limitation on complete defense
 
-Subsection (a) of this section does not apply with respect to a responsible party who fails or refuses—
+Subsection (a) does not apply with respect to a responsible party who fails or refuses—
 
 &emsp;(1) to report the incident as required by law if the responsible party knows or has reason to know of the incident;
 
@@ -34,7 +34,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(3) of this section the term "contractual relationship" includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
+&emsp;For purposes of subsection (a)(3) the term "contractual relationship" includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
 
 &emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
@@ -62,7 +62,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 &emsp;For purposes of paragraph (1)(C), the responsible party must establish by a preponderance of the evidence that the responsible party—
 
-&emsp;&emsp;(A) has satisfied the requirements of subsection (a)(3)(A) and (B) of this section;
+&emsp;&emsp;(A) has satisfied the requirements of subsection (a)(3)(A) and (B);
 
 &emsp;&emsp;(B) has provided full cooperation, assistance, and facility access to the persons that are authorized to conduct removal actions, including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial removal action;
 
@@ -98,7 +98,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 &emsp;&emsp;&emsp;(ii) Interviews with past and present owners, operators, and occupants of the facility and the real property on which the facility is located for the purpose of gathering information regarding the potential for oil at the facility and on the real property on which the facility is located.
 
-&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previoususes and occupancies of the real property on which the facility is located since the property was first developed.
+&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previous uses and occupancies of the real property on which the facility is located since the property was first developed.
 
 &emsp;&emsp;&emsp;(iv) Searches for recorded environmental cleanup liens against the facility and the real property on which the facility is located that are filed under Federal, State, or local law.
 
@@ -140,7 +140,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (5) Previous owner or operator
 
-&emsp;Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this title and no defense under subsection (a) of this section shall be available to such responsible party.
+&emsp;Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this title and no defense under subsection (a) shall be available to such responsible party.
 
 #### (6) Limitation on defense
 

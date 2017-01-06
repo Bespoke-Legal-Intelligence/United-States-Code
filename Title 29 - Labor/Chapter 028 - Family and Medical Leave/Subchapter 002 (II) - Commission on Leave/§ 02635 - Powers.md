@@ -14,7 +14,7 @@ The Commission may secure directly from any Federal agency information necessary
 
 #### (d) Use of facilities and services
 
-Upon the request of the Commission, the head of any Federal agency may make available tothe Commission any of the facilities and services of such agency.
+Upon the request of the Commission, the head of any Federal agency may make available to the Commission any of the facilities and services of such agency.
 
 #### (e) Personnel from other agencies
 

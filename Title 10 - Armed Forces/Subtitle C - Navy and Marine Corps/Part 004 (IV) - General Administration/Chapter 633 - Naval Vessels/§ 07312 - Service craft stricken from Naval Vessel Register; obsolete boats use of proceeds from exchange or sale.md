@@ -58,5 +58,5 @@ A prior section 7312, added Pub. L. 100–180, div. A, title XI, §1102(a)(1), D
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title X, §1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: "Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after the date of the enactment of this Act \[Oct. 28, 2004\] and to amounts received before the date of the enactment of this Act and not obligated as of that date."
+Pub. L. 108–375, div. A, title X, §1012(b), Oct. 28, 2004, 118 Stat. 2040, provided that: "Section 7312 of title 10, United States Code, as added by subsection (a), shall apply with respect to amounts received on or after thedate of the enactment of this Act \[Oct. 28, 2004\] and to amounts received before the date of the enactment of this Act and not obligated as of that date."
 

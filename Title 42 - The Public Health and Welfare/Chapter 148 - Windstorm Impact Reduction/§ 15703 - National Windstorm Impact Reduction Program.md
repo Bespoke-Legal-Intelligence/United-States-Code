@@ -56,7 +56,7 @@ There is established the National Windstorm Impact Reduction Program, the purpos
 
 #### (1) In general
 
-&emsp;The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to be complementary to, and avoid duplication of,other public and private hazard reduction efforts.
+&emsp;The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to be complementary to, and avoid duplication of, other public and private hazard reduction efforts.
 
 #### (2) Understanding of windstorms
 
@@ -152,13 +152,13 @@ The Director of the National Institute of Standards and Technology, the Director
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(C), was in the original "this Act" and was translated as reading "this title", to reflect the probable intent of Congress. See below.
+This chapter, referred to in subsec. (b)(1)(C), was in the original "this Act" and was translated as reading"this title", to reflect the probable intent of Congress. See below.
 
 This chapter, referred to in subsec. (c)(1), was in the original "this title", meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 15701 of this title and Tables.
 
 #### Amendments
 
-<b>2015</b>—Subsecs. (a), (b). Pub. L. 114–52, §3(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program, respectively.
+<b>2015</b>—Subsecs. (a), (b). Pub. L. 114–52, §3(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program.
 
 Subsec. (c). Pub. L. 114–52, §3(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which established an Interagency Working Group.
 

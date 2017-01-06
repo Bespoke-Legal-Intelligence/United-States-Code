@@ -192,9 +192,9 @@ In subsection (a)(5), the words "which submitted the project grant application" 
 
 In subsection (b), before clause (1), the words "for an airport" are added for clarity. In clause (1), the words "or an agency thereof" are omitted surplus. In clause (3), the words "that the Secretary . . . decides is necessary" are substituted for "when it is determined by the Secretary that any such item is required" to eliminate unnecessary words.
 
-In subsection (c)(1)(B), before subclause (i), the words "chief executive officer" are substituted for "Governor" because this chapter applies to the District of Columbia which does not have a Governor. The words "except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if" are substituted for "In any case where . . . certification shall be obtained from such Administrator" for clarity. Subclause (i) is substituted for "such standards have not been approved" for clarity.
+In subsection (c)(1)(B), before subclause (i), the words "chief executive officer" are substituted for "Governor" because this chapter applies to the District of Columbia which does not have a Governor. The words "except that the Administrator of the EnvironmentalProtection Agency shall make the certification instead of the chief executive officer if" are substituted for "In any case where . . . certification shall be obtained from such Administrator" for clarity. Subclause (i) is substituted for "such standards have not been approved" for clarity.
 
-In subsection (c)(2), before clause (A), the words "Notwithstanding any other provision of law" areomitted as surplus. The words "that does not involve the location of an airport or runway, or a major runway extension" are substituted for "(other than an airport development project in which paragraph (7)(A) applies)" for clarity. The words "the preparation of" are omitted as surplus. In clause (B), the words "statutory and administrative" are omitted as surplus.
+In subsection (c)(2), before clause (A), the words "Notwithstanding any other provision of law" are omitted as surplus. The words "that does not involve the location of an airport or runway, or a major runway extension" are substituted for "(other than an airport development project in which paragraph (7)(A) applies)" for clarity. The words "the preparation of" are omitted as surplus. In clause (B), the words "statutory and administrative" are omitted as surplus.
 
 In subsection (c)(4)(A), the words "to the Secretary" are added for clarity.
 
@@ -290,7 +290,7 @@ Consultation.—The Secretary shall conduct the study in consultation with the A
 
 "(d)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study, together with recommendations for streamlining, if appropriate, the environmental review process in the planning and approval of airport improvement projects."
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to the Committee on Transportation andInfrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study, together with recommendations for streamlining, if appropriate, the environmental review process in the planning and approval of airport improvement projects."
 
 #### Grants for Engineered Materials Arresting Systems
 

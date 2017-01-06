@@ -2,7 +2,7 @@
 
 #### (a) Use in the Medicare fee-for-service program
 
-The Secretary shall use predictive modeling and other analytics technologies (in this sectionreferred to as "predictive analytics technologies") to identify improper claims for reimbursement and to prevent the payment of such claims under the Medicare fee-for-service program.
+The Secretary shall use predictive modeling and other analytics technologies (in this section referred to as "predictive analytics technologies") to identify improper claims for reimbursement and to prevent the payment of such claims under the Medicare fee-for-service program.
 
 #### (b) Predictive analytics technologies requirements
 
@@ -24,7 +24,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 &emsp;&emsp;(C) prioritize such identified transactions for additional review before payment is made in terms of the likelihood of potential waste, fraud, and abuse to more efficiently utilize investigative resources;
 
-&emsp;(4) capture outcome information on adjudicated claims for reimbursement to allow for refinement and enhancement of the predictive analytics technologies on the basis of such outcome information, including post-payment information about the eventual status of a claim; and
+&emsp;(4) capture outcome information on adjudicated claims for reimbursement to allow forrefinement and enhancement of the predictive analytics technologies on the basis of such outcome information, including post-payment information about the eventual status of a claim; and
 
 &emsp;(5) prevent the payment of claims for reimbursement that have been identified as potentially wasteful, fraudulent, or abusive until such time as the claims have been verified as valid.
 
@@ -164,7 +164,7 @@ The Secretary may waive such provisions of titles XI, XVIII, XIX, and XXI of the
 
 #### (B) Application to Medicaid and CHIP
 
-&emsp;&emsp;The Secretary shall reserve such portion of the funds appropriated under paragraph (1) as the Secretary determines appropriate for purposes of providing assistance to States for administrative expenses in the event of the expansion of predictive analytics technologies to claims under Medicaid and CHIP.
+&emsp;&emsp;The Secretary shall reserve such portion of the funds appropriated under paragraph\(1) as the Secretary determines appropriate for purposes of providing assistance to States for administrative expenses in the event of the expansion of predictive analytics technologies to claims under Medicaid and CHIP.
 
 #### (i) Definitions
 

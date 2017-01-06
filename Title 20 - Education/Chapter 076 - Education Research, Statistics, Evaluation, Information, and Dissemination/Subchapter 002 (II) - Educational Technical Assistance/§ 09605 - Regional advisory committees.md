@@ -44,15 +44,15 @@ Beginning in 2004, the Secretary shall establish a regional advisory committee f
 
 #### (B) Dissolution
 
-&emsp;&emsp;Each regional advisory committee shall be dissolved by the Secretary after submission of such committee's report described in subsection (c)(2) of this section to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
+&emsp;&emsp;Each regional advisory committee shall be dissolved by the Secretary after submission of such committee's report described in subsection (c)(2) to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
 
 #### (c) Duties
 
 Each regional advisory committee shall advise the Secretary on the following:
 
-&emsp;(1) An educational needs assessment of its region (using the results of the assessment conducted under subsection (d) of this section), in order to assist in making decisions regarding the regional educational priorities.
+&emsp;(1) An educational needs assessment of its region (using the results of the assessment conducted under subsection (d)), in order to assist in making decisions regarding the regional educational priorities.
 
-&emsp;(2) Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d) of this section.
+&emsp;(2) Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d).
 
 #### (d) Regional assessments
 

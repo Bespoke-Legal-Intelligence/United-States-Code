@@ -4,7 +4,7 @@ It is the purpose of this subchapter to provide—
 
 &emsp;(1) opportunities for senior service to meet unmet local, State, and national needs in the areas of education, public safety, emergency and disaster preparedness, relief, and recovery, health and human needs, and the environment;
 
-&emsp;(2) for the National Senior Service Corps, comprised of the Retired and Senior Volunteer Program, the Foster Grandparent Program, and the Senior Companion Program, and demonstration and other programs, to empower people 55 years of age or older to contribute to their communities through service, enhancethe lives of those who serve and those whom they serve, and provide communities with valuable services;
+&emsp;(2) for the National Senior Service Corps, comprised of the Retired and Senior Volunteer Program, the Foster Grandparent Program, and the Senior Companion Program, and demonstration and other programs, to empower people 55 years of age or older to contribute to their communities through service, enhance the lives of those who serve and those whom they serve, and provide communities with valuable services;
 
 &emsp;(3) opportunities for people 55 years of age or older, through the Retired and Senior Volunteer Program, to share their knowledge, experiences, abilities, and skills for the betterment of their communities and themselves;
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) any plumbing in a residential or nonresidential facility providing water for human consumption,
 
-> &emsp;&emsp;that is not lead free (within the meaning of subsection (d) of this section).
+> &emsp;&emsp;that is not lead free (within the meaning of subsection (d)).
 
 #### (B) Leaded joints
 
@@ -66,15 +66,15 @@
 
 #### (1) Enforcement of prohibition
 
-&emsp;The requirements of subsection (a)(1) of this section shall be enforced in all States effective 24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
+&emsp;The requirements of subsection (a)(1) shall be enforced in all States effective 24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
 
 #### (2) Enforcement of public notice requirements
 
-&emsp;The requirements of subsection (a)(2) of this section shall apply in all States effective 24 months after June 19, 1986.
+&emsp;The requirements of subsection (a)(2) shall apply in all States effective 24 months after June 19, 1986.
 
 #### (c) Penalties
 
-If the Administrator determines that a State is not enforcing the requirements of subsection (a) of this section as required pursuant to subsection (b) of this section, the Administrator may withhold up to 5 percent of Federal funds available to that State for State program grants under section 300j–2(a) of this title.
+If the Administrator determines that a State is not enforcing the requirements of subsection (a) as required pursuant to subsection (b), the Administrator may withhold up to 5 percent of Federal funds available to that State for State program grants under section 300j–2(a) of this title.
 
 #### (d) Definition of lead free
 
@@ -88,7 +88,7 @@ If the Administrator determines that a State is not enforcing the requirements o
 
 #### (2) Calculation
 
-&emsp;The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.
+&emsp;The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shallbe calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.
 
 #### (e) Plumbing fittings and fixtures
 
@@ -100,15 +100,35 @@ If the Administrator determines that a State is not enforcing the requirements o
 
 #### (A) In general
 
-&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
+&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
 
 #### (B) Alternative requirement
 
 &emsp;&emsp;If regulations are required to be promulgated under subparagraph (A) and have not been promulgated by the date that is 5 years after August 6, 1996, no person may import, manufacture, process, or distribute in commerce a new plumbing fitting or fixture, intended by the manufacturer to dispense water for human ingestion, that contains more than 4 percent lead by dry weight.
 
-(July 1, 1944, ch. 373, title XIV, §1417, as added Pub. L. 99–339, title I, §109(a), June 19, 1986, 100 Stat. 651; amended Pub. L. 104–182, title I, §118, title V, §501(f)(1), Aug. 6, 1996, 110 Stat. 1645, 1691; Pub. L. 111–380, §2(a), Jan. 4, 2011, 124 Stat. 4131; Pub. L. 113–64, §2, Dec. 20, 2013, 127 Stat. 668.)
+#### (f) Public education
+
+#### (1) In general
+
+&emsp;The Administrator shall make information available to the public regarding lead in drinking water, including information regarding—
+
+&emsp;&emsp;(A) risks associated with lead in drinking water;
+
+&emsp;&emsp;(B) the conditions that contribute to drinking water containing lead in a residence;
+
+&emsp;&emsp;(C) steps that States, public water systems, and consumers can take to reduce the risks of lead in drinking water; and
+
+&emsp;&emsp;(D) the availability of additional resources that consumers can use to minimize lead exposure, including information on sampling for lead in drinking water.
+
+#### (2) Vulnerable populations
+
+&emsp;In making information available to the public under this subsection, the Administrator shall, subject to the availability of appropriations, carry out targeted outreach strategies that focus on educating groups within the general population that may be at greater risk than the general population of adverse health effects from exposure to lead in drinking water.
+
+(July 1, 1944, ch. 373, title XIV, §1417, as added Pub. L. 99–339, title I, §109(a), June 19, 1986, 100 Stat. 651; amended Pub. L. 104–182, title I, §118, title V, §501(f)(1), Aug. 6, 1996, 110 Stat. 1645, 1691; Pub. L. 111–380, §2(a), Jan. 4, 2011, 124 Stat. 4131; Pub. L. 113–64, §2, Dec. 20, 2013, 127 Stat. 668; Pub. L. 114–322, title II, §2106(b), Dec. 16, 2016, 130 Stat. 1726.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f). Pub. L. 114–322 added subsec. (f).
 
 <b>2013</b>—Subsec. (a)(4)(B). Pub. L. 113–64 inserted "fire hydrants," after "shower valves,".
 

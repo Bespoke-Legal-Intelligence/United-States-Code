@@ -4,7 +4,7 @@
 
 In this section—
 
-&emsp;(1) the term "designated employee" means an employee designated by the Director of the Central Intelligence Agency under subsection (b) of this section; and
+&emsp;(1) the term "designated employee" means an employee designated by the Director of the Central Intelligence Agency under subsection (b); and
 
 &emsp;(2) the term "Federal retirement system" includes the Central Intelligence Agency Retirement and Disability System, and the Federal Employees' Retirement System (including the Thrift Savings Plan).
 
@@ -32,7 +32,7 @@ In this section—
 
 #### (c) Compensation
 
-The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i) of this section, retain any salary, allowances, and other benefits provided under this section.
+The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i), retain any salary, allowances, and other benefits provided under this section.
 
 #### (d) Retirement benefits
 
@@ -96,7 +96,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 #### (A) In general
 
-&emsp;&emsp;A designated employee participating in the health insurance program established under paragraph (1) may convert to coverage under the program under chapter 89 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the health insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
+&emsp;&emsp;A designated employee participating in the health insurance program establishedunder paragraph (1) may convert to coverage under the program under chapter 89 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the health insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
 
 &emsp;&emsp;&emsp;(i) intelligence operations;
 
@@ -116,7 +116,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 &emsp;&emsp;&emsp;(iii) the employee shall be deemed to have had coverage under chapter 89 of that title from the first opportunity to enroll for purposes of continuing coverage as an annuitant; and
 
-&emsp;&emsp;&emsp;(iv) the Director of the Central Intelligence Agency shall transmit an amountfor deposit in the Employees' Health Benefits Fund that is necessary to cover any costs of such conversion.
+&emsp;&emsp;&emsp;(iv) the Director of the Central Intelligence Agency shall transmit an amount for deposit in the Employees' Health Benefits Fund that is necessary to cover any costs of such conversion.
 
 #### (C) Transmitted amounts
 
@@ -194,7 +194,7 @@ The Director of the Central Intelligence Agency may exempt a designated employee
 
 #### (i) Regulations
 
-The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b) of this section, the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
+The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 
 #### (j) Finality of decisions
 

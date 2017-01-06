@@ -14,7 +14,7 @@ Pursuant to sections 222 and 224 of the U.S.-RMI Compact, the United States shal
 
 #### (c) Section 177 Agreement
 
-(1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made by the United States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
+(1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made by theUnited States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
 
 (2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in the event that the President determines that an investment management firm selected by the Government of the Marshall Islands does not meet the requirements specified in Article I of the Section 177 Agreement, the United States shall invoke the conference and dispute resolution procedures of Article II of Title Four of the Compact. Pending the resolution of such a dispute and until a qualified Fund Manager has been designated, the Government of the Marshall Islands shall place the funds paid by the United States pursuant to Article I of the Section 177 Agreement into an interest-bearing escrow account. Upon designation of a qualified Fund Manager, all funds in the escrow account shall be transferred to the control of such Fund Manager for management pursuant to the Section 177 Agreement.
 
@@ -52,7 +52,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources of the House of Representatives, a report that contains—
+&emsp;&emsp;&emsp;The Secretary shall submit to the Committee on Energy and Natural Resourcesof the Senate, and the Committee on Natural Resources of the House of Representatives, a report that contains—
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of—
 
@@ -108,7 +108,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 (1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that services provided by the United States Public Health Service or any other United States agency pursuant to section 1(a) of Article II of the Agreement for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") shall be only for services to the people of the Atolls of Bikini, Enewetak, Rongelap, and Utrik who were affected by the consequences of the United States nuclear testing program, pursuant to the program described in Public Law 95–134 (91 Stat. 1159) and Public Law 96–205 (94 Stat. 84) and their descendants (and any other persons identified as having been so affected if such identification occurs in the manner described in such public laws). Nothing in this subsection shall be construed as prejudicial to the views or policies of the Government of the Marshall Islands as to the persons affected by the consequences of the United States nuclear testing program.
 
-(2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned tothe Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
+(2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned to the Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
 
 (3) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that the Fund Manager shall retain the funds returned by the Government of the Marshall Islands pursuant to paragraph (2) of this subsection, shall invest and manage such funds, and at the end of 15 years after the effective date of the Compact, shall make from the total amount so retained and the proceeds thereof annual disbursements sufficient to continue to make payments for the provision of health services as specified in paragraph (1) of this subsection to such extent as may be provided in contracts between the Government of the Marshall Islands and appropriate United States providers of such health services.
 
@@ -122,7 +122,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (2) Monitor conditions
 
-&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that upon the request of the Government of the Marshall Islands, the United States shall monitor the radiation and other conditions on Enjebi and within one year of receiving such a request shall report to the Government of the Marshall Islands when the people of Enjebi may resettle Enjebi under circumstances where the radioactive contamination at Enjebi, including contamination derived from consumption of locally grown food products, can be reduced or otherwise controlled to meet whole body Federal radiation protection standards for the general population, including mean annual dose and mean 30-year cumulative dose standards.
+&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that upon the request of the Government of the Marshall Islands, the United States shall monitor the radiation and other conditions on Enjebi and within one year of receiving such arequest shall report to the Government of the Marshall Islands when the people of Enjebi may resettle Enjebi under circumstances where the radioactive contamination at Enjebi, including contamination derived from consumption of locally grown food products, can be reduced or otherwise controlled to meet whole body Federal radiation protection standards for the general population, including mean annual dose and mean 30-year cumulative dose standards.
 
 #### (3) Resettlement of Enjebi
 
@@ -172,7 +172,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 > &emsp;Such authority shall include authority for the Comptroller General to conduct or cause to be conducted any of the audits provided for in section 232 of the U.S.-RMI Compact. The authority provided in this paragraph shall continue for at least three years after the last such grant has been made or assistance has been provided.
 
-&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personnel and to such records, documents, working papers, automated data and files, and other information relevant to such review.
+&emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personneland to such records, documents, working papers, automated data and files, and other information relevant to such review.
 
 #### (2) Comptroller General access to records
 
@@ -190,7 +190,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 &emsp;&emsp;(A) whether the Government of the Republic of the Marshall Islands has met the requirements set forth in the U.S.-RMI Compact, or any related agreement entered into under the U.S.-RMI Compact, regarding the purposes for which such grants and other assistance are to be used; and
 
-&emsp;&emsp;(B) the propriety of the financial transactions of the Government of the Republic ofthe Marshall Islands pursuant to such grants or assistance.
+&emsp;&emsp;(B) the propriety of the financial transactions of the Government of the Republic of the Marshall Islands pursuant to such grants or assistance.
 
 #### (5) Cooperation by the Republic of the Marshall Islands
 
@@ -214,7 +214,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (3) Disposition of increased payments pending new land use agreement
 
-&emsp;Until such time as the Government of the Marshall Islands and the landowners of Kwajalein Atoll have concluded an agreement amending or superseding the land use agreement reflecting the terms of and consistent with the Military Use Operating Rights Agreement dated October 19, 1982, any amounts paid by the United States to the Government of the Marshall Islands in excess of the amounts required to be paid pursuant to the land use agreement dated October 19, 1982, shall be paid into, and held in, an interest bearing escrow account in a United States financial institution by the Government of the Republic of the Marshall Islands. At such time, the funds and interest held in escrow shall be paid to the landowners of Kwajalein in accordance with the new land use agreement. If no such agreement is concluded by the date which is five years after December 17, 2003, then such funds and interest shall, unless otherwise mutually agreed between the Government of the United States of America and the Government of the Republic of the Marshall Islands, be returned to the U.S. Treasury.
+&emsp;Until such time as the Government of the Marshall Islands and the landowners of Kwajalein Atoll have concluded an agreement amending or superseding the land use agreement reflecting the terms of and consistent with the Military Use Operating Rights Agreement dated October 19, 1982, any amounts paid by the United States to the Government of the Marshall Islands in excess of the amounts required to be paid pursuant to the land use agreement dated October 19, 1982, shall be paid into, and held in, an interest bearing escrow account in a United States financial institution by the Government of the Republic of the Marshall Islands. At such time, the funds and interest held in escrow shall be paid to the landowners of Kwajalein in accordance with the new land use agreement. If no such agreement is concluded by the date which is fiveyears after December 17, 2003, then such funds and interest shall, unless otherwise mutually agreed between the Government of the United States of America and the Government of the Republic of the Marshall Islands, be returned to the U.S. Treasury.
 
 #### (4) Notifications and report
 

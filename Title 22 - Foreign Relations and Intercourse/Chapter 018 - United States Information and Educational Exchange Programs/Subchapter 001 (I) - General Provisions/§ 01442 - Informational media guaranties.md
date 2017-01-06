@@ -26,7 +26,7 @@ The Director is further authorized, under such terms as he may prescribe, to mak
 
 #### (g) Separate accounts; transfers
 
-As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: <i>Provided</i>, That there shall be transferred from the special account established pursuant to subsection (b), into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to makepayments under informational media guaranties.
+As soon as feasible after July 18, 1956, all assets, liabilities, income, expenses, and charges of whatever kind pertaining to informational media guaranties, including any charges against the authority to issue notes provided in section 1509(c)(2) <sup>1</sup> of this title, cumulative from April 3, 1948, shall be accounted for separately from other guaranties issued pursuant to section 1933(b) <sup>1</sup> of this title: <i>Provided</i>, That there shall be transferred from the special account established pursuant to subsection (b), into the account available for payments under guaranties other than the informational media guaranties, an amount equal to the total of the fees received for the issuance of guaranties other than informational media guaranties, and used to make payments under informational media guaranties.
 
 #### (h) Appropriations for restoration of realized impairment to capital; liquidation of notes
 
@@ -56,7 +56,7 @@ Section 1476(a) of this title, referred to in subsec. (h)(4), was repealed by Pu
 
 <b>1958</b>—Subsec. (h). Pub. L. 85–477 added subsec. (h).
 
-<b>1956</b>—Subsec. (a). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, designated as subsec. (a) the entire former section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
+<b>1956</b>—Subsec. (a). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, designated as subsec. (a) the entireformer section and amended it to eliminate provisions which permitted the Director to make guaranties against funds made available by notes issued pursuant to section 1509(c)(2) of this title and which limited the amount of such guaranties in any fiscal year to not more than $10,000,000. Such provisions were covered by subsecs. (b) to (g) of this section.
 
 Subsecs. (b) to (g). Act Aug. 26, 1954, §544(g), as added by act July 18, 1956, added subsecs (b) to (g).
 

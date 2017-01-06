@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States a fund to be known as the Indian Health Scholarship and Loan Repayment Recovery Fund (hereafter in this section referred to as the "Fund"). The Fund shall consist of such amounts as may be appropriated to the Fund under subsection (b). Amounts appropriated for the Fund shall remain available until expended.
+There is established in the Treasury of the United States a fund to be known as the Indian Health Scholarship and Loan Repayment Recovery Fund (hereafter in this section referred to as the "Fund"). The Fund shall consist of suchamounts as may be appropriated to the Fund under subsection (b). Amounts appropriated for the Fund shall remain available until expended.
 
 #### (b) Authorization of appropriations
 
@@ -18,7 +18,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 #### (c) Use of funds
 
-(1) Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]—
+(1) Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\]—
 
 &emsp;(A) to which a scholarship recipient under section 1613a of this title or a loan repayment program participant under section 1616a of this title has been assigned to meet the obligated service requirements pursuant to <sup>1</sup> sections; and
 
@@ -36,7 +36,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (c)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "to such".</i>
 

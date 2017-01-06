@@ -6,11 +6,11 @@ The Secretary shall from time to time set dates by which schools must file appli
 
 #### (b) Contingent reduction in allotments
 
-If the total of the amounts requested for any fiscal year in such applications exceeds theamounts appropriated under this section for that fiscal year, the allotment to the loan fund of each such school shall be reduced to whichever of the following is the smaller: (A) the amount requested in its application; or (B) an amount which bears the same ratio to the amounts appropriated as the number of students estimated by the Secretary to be enrolled in such school during such fiscal year bears to the estimated total number of students in all such schools during such year. Amounts remaining after allotment under the preceding sentence shall be reallotted in accordance with clause (B) of such sentence among schools whose applications requested more than the amounts so allotted to their loan funds, but with such adjustments as may be necessary to prevent the total allotted to any such school's loan fund from exceeding the total so requested by it.
+If the total of the amounts requested for any fiscal year in such applications exceeds the amounts appropriated under this section for that fiscal year, the allotment to the loan fund of each such school shall be reduced to whichever of the following is the smaller: (A) the amount requested in its application; or (B) an amount which bears the same ratio to the amounts appropriated as the number of students estimated by the Secretary to be enrolled in such school during such fiscal year bears to the estimated total number of students in all such schools during such year. Amounts remaining after allotment under the preceding sentence shall be reallotted in accordance with clause (B) of such sentence among schools whose applications requested more than the amounts so allotted to their loan funds, but with such adjustments as may be necessary to prevent the total allotted to any such school's loan fund from exceeding the total so requested by it.
 
 #### (c) Allotment of excess funds
 
-Funds available in any fiscal year for payment to schools under this subpart which are in excess of the amount appropriated pursuant to this section for that year shall be allotted among schools in such manner as the Secretary determines will best carry out the purposes of this subpart.
+Funds available in any fiscal year for payment to schools under this subpart which are in excess of the amount appropriated pursuant to this section for that year shall be allotted amongschools in such manner as the Secretary determines will best carry out the purposes of this subpart.
 
 #### (d) Payment of installments to schools
 

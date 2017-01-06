@@ -14,7 +14,7 @@ The Board may at any time order the exclusion from the zone of any goods or proc
 
 #### (d) Retail trade within zone
 
-No retail trade shall be conducted within the zone except under permits issued by the grantee and approved by the Board. Such permittees shall sell no goods except such domestic or duty-paid or duty-free goods as are brought into the zone from customs territory.
+No retail trade shall be conducted within the zone except under permits issued by the granteeand approved by the Board. Such permittees shall sell no goods except such domestic or duty-paid or duty-free goods as are brought into the zone from customs territory.
 
 #### (e) Exemption from State and local ad valorem taxation of tangible personal property
 

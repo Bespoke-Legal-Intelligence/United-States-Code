@@ -34,7 +34,7 @@ In this section:
 
 #### (A) Date
 
-&emsp;&emsp;Not later than 1 year after December 19, 2014, there shall be established as a unit ofthe National Park System the Manhattan Project National Historical Park.
+&emsp;&emsp;Not later than 1 year after December 19, 2014, there shall be established as a unit of the National Park System the Manhattan Project National Historical Park.
 
 #### (B) Areas included
 

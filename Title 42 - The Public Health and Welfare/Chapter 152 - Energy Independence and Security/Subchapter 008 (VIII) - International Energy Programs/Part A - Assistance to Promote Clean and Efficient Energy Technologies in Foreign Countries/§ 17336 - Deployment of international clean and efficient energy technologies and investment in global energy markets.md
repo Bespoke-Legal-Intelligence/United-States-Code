@@ -92,11 +92,11 @@
 
 &emsp;&emsp;(A) support the development and implementation of programs, policies, and initiatives in developing countries to promote the adoption and deployment of clean and efficient energy technologies, with an emphasis on those developing countries that are expected to experience the most significant growth in energy production and use over the next 20 years;
 
-&emsp;&emsp;(B) open and expand clean and efficient energy technology markets and facilitate theexport of clean and efficient energy technologies to developing countries, in a manner consistent with United States obligations as a member of the World Trade Organization;
+&emsp;&emsp;(B) open and expand clean and efficient energy technology markets and facilitate the export of clean and efficient energy technologies to developing countries, in a manner consistent with United States obligations as a member of the World Trade Organization;
 
 &emsp;&emsp;(C) integrate into the foreign policy objectives of the United States the promotion of—
 
-&emsp;&emsp;&emsp;(i) the deployment of clean and efficient energy technologies and the reduction of greenhouse gas emissions in developing countries; and
+&emsp;&emsp;&emsp;(i) the deployment of clean and efficient energy technologies and the reduction ofgreenhouse gas emissions in developing countries; and
 
 &emsp;&emsp;&emsp;(ii) the export of clean and efficient energy technologies; and
 

@@ -18,7 +18,7 @@ In carrying out its purposes, the Institute shall—
 
 #### (b) Review of programs, projects, and other activities; objectives of review
 
-In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, andother activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the <sup>1</sup> are responsible.
+In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the <sup>1</sup> are responsible.
 
 #### (c) Presidential utilization of additional statutory authorities
 
@@ -44,7 +44,7 @@ The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (c), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963, as amended. Title V of the Act is classified generally to sections 2656a to 2656d of this title. For complete classification of this Act to the Code, see Tables.
 
-The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424, Oct. 6, 1978, 92 Stat. 937, as amended. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
+The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424,Oct. 6, 1978, 92 Stat. 937, as amended. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
 
 #### Amendments
 

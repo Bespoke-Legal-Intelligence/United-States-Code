@@ -48,7 +48,7 @@ This chapter, referred to in subsec. (f), was in the original "this Act", meanin
 
 #### Prior Provisions
 
-A prior section 405 of Pub. L. 94–265, amended section 971 of this title and enacted provisions formerly set out as a note under section 971 of this title, prior to being amended generally by Pub. L. 104–297.
+A prior section 405 of Pub. L. 94–265, amended section 971 of this title and enacted provisions formerly set outas a note under section 971 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Change of Name
 

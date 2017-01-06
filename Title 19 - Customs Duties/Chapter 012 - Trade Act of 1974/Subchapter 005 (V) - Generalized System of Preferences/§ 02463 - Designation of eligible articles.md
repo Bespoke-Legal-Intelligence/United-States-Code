@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d), whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
 
-&emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
+&emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of theapplicable amount for the calendar year, or
 
 &emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of the appraised value of the total imports of that article into the United States during any calendar year,
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
+&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
 
 #### (B) Other waiver limits
 
@@ -252,7 +252,7 @@ Subsec. (b)(4). Pub. L. 108–429, §1555(a), added par. (4).
 
 <b>2000</b>—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "Subparagraph (A) shall not apply to any least-developed beneficiary developing country."
 
-<b>1999</b>—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: "the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered."
+<b>1999</b>—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: "the direct costs ofprocessing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered."
 
 #### Effective Date of 2004 Amendment
 

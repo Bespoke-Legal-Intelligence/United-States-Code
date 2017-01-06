@@ -1,6 +1,6 @@
 ### §102. Definitions
 
-The following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
+Except as provided in subchapter VII of chapter 5 of this title, the following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
 &emsp;(1)
 
@@ -14,7 +14,7 @@ Care and handling.—The term "care and handling" includes—
 
 Contractor inventory.—The term "contractor inventory" means—
 
-&emsp;&emsp;(A) property, in excess of amounts needed to complete full performance, that is acquired by and in possession of a contractor or subcontractor under a contract pursuant to which title is vested in the Federal Government; and
+&emsp;&emsp;(A) property, in excess of amounts needed to complete full performance, that is acquired by and in possession of a contractoror subcontractor under a contract pursuant to which title is vested in the Federal Government; and
 
 &emsp;&emsp;(B) property that the Government is obligated or has the option to take over, under any type of contract, as a result of changes in specifications or plans under the contract, or as a result of termination of the contract (or a subcontract), prior to completion of the work, for the convenience or at the option of the Government.
 
@@ -70,7 +70,7 @@ Property.—The term "property" means any interest in property except—
 
 Surplus property.—The term "surplus property" means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(l)(2), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(l)(2), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 114–318, §3(b)(2), Dec. 16, 2016, 130 Stat. 1613.)
 
 Historical and Revision Notes
 
@@ -93,6 +93,8 @@ In this section, the words "and in title III of the Federal Property and Adminis
 In clause (6), the words "the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau" are substituted for "the Trust Territory of the Pacific Islands" because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–318 substituted "Except as provided in subchapter VII of chapter 5 of this title, the" for "The" in introductory provisions.
 
 <b>2011</b>—Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in introductory provisions.
 

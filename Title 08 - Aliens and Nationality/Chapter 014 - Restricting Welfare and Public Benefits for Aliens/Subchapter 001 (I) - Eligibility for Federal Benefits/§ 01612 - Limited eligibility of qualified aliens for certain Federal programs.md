@@ -30,7 +30,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 ofthis title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (C) Veteran and active duty exception
 
@@ -98,7 +98,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(i) who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act (8 U.S.C. 1359) apply; or
 
-&emsp;&emsp;&emsp;(ii) who is a member of an Indian tribe (as defined in section 450b(e) of title 25).
+&emsp;&emsp;&emsp;(ii) who is a member of an Indian tribe (as defined in section 5304(e) of title 25).
 
 #### (H) SSI exception for certain recipients on the basis of very old applications
 
@@ -154,7 +154,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C.1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C. 1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
 
@@ -282,7 +282,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510,Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567.)
 
 #### References in Text
 
@@ -348,7 +348,7 @@ Subsec. (a)(2)(J). Pub. L. 105–185, §507, added subpar. (J).
 
 Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
-<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply to an alien until 5 years after the date—
+<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Paragraph\(1) shall not apply to an alien until 5 years after the date—
 
 &emsp;"(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act;
 
@@ -438,7 +438,7 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: "Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shallbe effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

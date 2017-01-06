@@ -30,6 +30,7 @@
 | [3521\.](%C2%A7%2003521%20-%20Central%20services%20program.md) | Central services program. |
 | [3522\.](%C2%A7%2003522%20-%20Detail%20of%20employees.md) | Detail of employees. |
 | [3523\.](%C2%A7%2003523%20-%20Intelligence%20operations%20and%20cover%20enhancement%20authority.md) | Intelligence operations and cover enhancement authority. |
+| [3524\.](%C2%A7%2003524%20-%20Support%20for%20the%20Associate%20Director%20of%20the%20Central%20Intelligence%20Agency%20for%20Military%20Affairs.md) | Support for the Associate Director of the Central Intelligence Agency for Military Affairs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,3 +67,4 @@
 - [&sect; 03521 - Central services program](%C2%A7%2003521%20-%20Central%20services%20program.md)
 - [&sect; 03522 - Detail of employees](%C2%A7%2003522%20-%20Detail%20of%20employees.md)
 - [&sect; 03523 - Intelligence operations and cover enhancement authority](%C2%A7%2003523%20-%20Intelligence%20operations%20and%20cover%20enhancement%20authority.md)
+- [&sect; 03524 - Support for the Associate Director of the Central Intelligence Agency for Military Affairs](%C2%A7%2003524%20-%20Support%20for%20the%20Associate%20Director%20of%20the%20Central%20Intelligence%20Agency%20for%20Military%20Affairs.md)

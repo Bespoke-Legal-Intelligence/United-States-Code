@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall award grants or cooperative agreements to eligible entities to—
+The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants or cooperative agreements to eligible entities to—
 
-&emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
 
 &emsp;(2) support public organizations and private nonprofit organizations actively involved in State-sponsored statewide or tribal youth suicide early intervention and prevention strategies and in the development and continuation of State-sponsored statewide youth suicide early intervention and prevention strategies;
 
@@ -24,17 +24,21 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 &emsp;&emsp;(B) a public organization or private nonprofit organization designated by a State to develop or direct the State-sponsored statewide youth suicide early intervention and prevention strategy; or
 
-&emsp;&emsp;(C) a Federally recognized Indian tribe or tribal organization (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]) or an urban Indian organization (as defined in the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\]) that is actively involved in the development and continuation of a tribal youth suicide early intervention and prevention strategy.
+&emsp;&emsp;(C) a Federally recognized Indian tribe or tribal organization (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]) or an urban Indian organization (as defined in the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\]) that is actively involved in the development and continuation of a tribal youth suicide early intervention and prevention strategy.
 
 #### (2) Limitation
 
-&emsp;In carrying out this section, the Secretary shall ensure that each State is awarded only 1 grant or cooperative agreement under this section. For purposes of the preceding sentence, a State shall be considered to have been awarded a grant or cooperative agreement if the eligible entity involved is the State or an entity designated by the State under paragraph (1)(B). Nothing in this paragraph shall be construed to apply to entities described in paragraph (1)(C).
+&emsp;In carrying out this section, the Secretary shall ensure that a State does not receive more than 1 grant or cooperative agreement under this section at any 1 time. For purposes of the preceding sentence, a State shall be considered to have received a grant or cooperative agreement if the eligible entity involved is the State or an entity designated by the State under paragraph (1)(B). Nothing in this paragraph shall be construed to apply to entities described in paragraph (1)(C).
+
+#### (3) Consideration
+
+&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including theincidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
 
 #### (c) Preference
 
 In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
 
-&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
 
 &emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
@@ -46,7 +50,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(6) offer access to services and care to youth with diverse linguistic and cultural backgrounds;
 
-&emsp;(7) offer appropriate postsuicide intervention services, care, and information to families, friends, schools, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations of youth who recently completed suicide;
+&emsp;(7) offer appropriate postsuicide intervention services, care, and information to families, friends, schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations of youth who recently completed suicide;
 
 &emsp;(8) offer continuous and up-to-date information and awareness campaigns that target parents, family members, child care professionals, community care providers, and the general public and highlight the risk factors associated with youth suicide and the life-saving help and care available from early intervention and prevention services;
 
@@ -64,7 +68,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 #### (d) Requirement for direct services
 
-Not less than 85 percent of grant funds received under this section shall be used to provide direct services, of which not less than 5 percent shall be used for activities authorized under subsection (a)(3) of this section.
+Not less than 85 percent of grant funds received under this section shall be used to provide direct services, of which not less than 5 percent shall be used for activities authorized under subsection (a)(3).
 
 #### (e) Coordination and collaboration
 
@@ -110,7 +114,7 @@ Nothing in this section shall be construed to require suicide assessment, early 
 
 #### (2) Report
 
-&emsp;Not later than 2 years after October 21, 2004, the Secretary shall submit to the appropriate committees of Congress a report concerning the results of—
+&emsp;Not later than 2 years after December 13, 2016, the Secretary shall submit to the appropriate committees of Congress a report concerning the results of—
 
 &emsp;&emsp;(A) the evaluations conducted under paragraph (1); and
 
@@ -134,7 +138,7 @@ States and entities receiving funding under this section and section 290bb–36a
 
 #### (k) Relation to education provisions
 
-Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of anyeducation records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
+Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of any education records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
 
 #### (l) Definitions
 
@@ -164,21 +168,15 @@ In this section:
 
 #### (m) Authorization of appropriations
 
-#### (1) In general
+For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $7,000,000 for fiscal year 2005, $18,000,000 for fiscal year 2006, and $30,000,000 for fiscal year 2007.
-
-#### (2) Preference
-
-&emsp;If less than $3,500,000 is appropriated for any fiscal year to carry out this section, in awarding grants and cooperative agreements under this section during the fiscal year, the Secretary shall give preference to States that have rates of suicide that significantly exceed the national average as determined by the Centers for Disease Control and Prevention.
-
-(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187.)
+(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13, 2016, 130 Stat. 1203, 1242.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively,of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
@@ -191,6 +189,20 @@ The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107
 A prior section 290bb–36, act July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 106–310, div. B, title XXXI, §3111, Oct. 17, 2000, 114 Stat. 1186, and amended, which related to suicide prevention for children and adolescents, was renumbered section 520E–1 of act July 1, 1944, by Pub. L. 108–355, §3(b)(2), Oct. 21, 2004, 118 Stat. 1409, and transferred to section 290bb–36a of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 114–255, §9008(b)(1), substituted "substance use disorder" for "substance abuse".
+
+Subsec. (b)(2). Pub. L. 114–255, §9008(b)(2)(A), substituted "ensure that a State does not receive more than 1 grant or cooperative agreement under this section at any 1 time" for "ensure that each State is awarded only 1 grant or cooperative agreement under this section" and "received" for "been awarded".
+
+Subsec. (b)(3). Pub. L. 114–255, §9008(b)(2)(B), added par. (3).
+
+Subsec. (c)(1), (7). Pub. L. 114–255, §9008(b)(1), substituted "substance use disorder" for "substance abuse".
+
+Subsec. (g)(2). Pub. L. 114–255, §9008(b)(3), substituted "2 years after December 13, 2016," for "2 years after October 21, 2004,".
+
+Subsec. (m). Pub. L. 114–255, §9008(b)(4), added subsec. (m) and struck out former subsec. (m) which authorized appropriations for fiscal years 2005 to 2007 and provided that the Secretary should give preference to certain States if less than $3,500,000 was appropriated for any fiscal year.
 
 <b>2015</b>—Subsec. (l)(2)(C). Pub. L. 114–95 substituted "elementary school or secondary school (as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965)" for "elementary or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965)".
 
@@ -230,7 +242,7 @@ Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress 
 
 &emsp;"(14) According to the 2001 National Household Survey on Drug Abuse, 20 percent of full-time undergraduate college students use illicit drugs.
 
-&emsp;"(15) The 2001 National Household Survey on Drug Abuse also reported that 18.4 percent of adults aged 18 to 24 are dependent on or abusing illicit drugs or alcohol. In addition, the study found that 'serious mental illness is highly correlated with substance dependence or abuse. Among adults with serious mental illness in 2001, 20.3 percent were dependent on or abused alcohol or illicit drugs, while the rate among adults without serious mental illness was only 6.3 percent.'.
+&emsp;"(15) The 2001 National Household Survey on Drug Abuse also reported that 18.4 percent of adults aged 18 to 24 are dependent on or abusing illicit drugs or alcohol. In addition, the study found that 'serious mentalillness is highly correlated with substance dependence or abuse. Among adults with serious mental illness in 2001, 20.3 percent were dependent on or abused alcohol or illicit drugs, while the rate among adults without serious mental illness was only 6.3 percent.'.
 
 &emsp;"(16) A 2003 Gallagher's Survey of Counseling Center Directors found that 81 percent were concerned about the increasing number of students with more serious psychological problems, 67 percent reported a need for more psychiatric services, and 63 percent reported problems with growing demand for services without an appropriate increase in resources.
 

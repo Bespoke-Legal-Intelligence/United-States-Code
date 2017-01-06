@@ -20,7 +20,7 @@ Research on Human Factors and Simulation Models.—The Administrator shall condu
 
 &emsp;(2) to enhance air traffic controller, mechanic, and flight crew performance;
 
-&emsp;(3) to develop a human-factor analysis of the hazards associated with new technologies to be used by air traffic controllers, mechanics, and flight crews;
+&emsp;(3) to develop a human-factor analysis of the hazards associated with new technologies tobe used by air traffic controllers, mechanics, and flight crews;
 
 &emsp;(4) to identify innovative and effective corrective measures for human errors that adversely affect air safety;
 
@@ -152,7 +152,7 @@ In General.—The Secretary of Transportation shall carry out a pilot program at
 
 "(b)
 
-Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
+Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measuredby the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
 
 "(c)
 
@@ -198,7 +198,7 @@ In General.—The Administrator of the Federal Aviation Administration shall rev
 
 "(b)
 
-Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shallreport the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science \[now Committee on Science, Space, and Technology\]."
+Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science \[now Committee on Science, Space, and Technology\]."
 
 #### Use of Recycled Materials
 

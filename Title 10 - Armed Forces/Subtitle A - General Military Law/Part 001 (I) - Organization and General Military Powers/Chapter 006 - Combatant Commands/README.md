@@ -12,7 +12,8 @@
 | [166b.](%C2%A7%2000166b%20-%20Combatant%20commands%20funding%20for%20combating%20terrorism%20readiness%20initiatives.md) | Combatant commands: funding for combating terrorism readiness initiatives. |
 | [167\.](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md) | Unified combatant command for special operations forces. |
 | [167a.](%C2%A7%2000167a%20-%20Unified%20combatant%20command%20for%20joint%20warfighting%20experimentation%20acquisition%20authority.md) | Unified combatant command for joint warfighting experimentation: acquisition authority. |
-| [168\.](%C2%A7%2000168%20-%20Military-to-military%20contacts%20and%20comparable%20activities.md) | Military-to-military contacts and comparable activities. |
+| [167b.](%C2%A7%2000167b%20-%20Unified%20combatant%20command%20for%20cyber%20operations.md) | Unified combatant command for cyber operations. |
+| \[168. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,6 +22,8 @@
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title IX, §923(b), title XII, §1253(a)(2)(A), Dec. 23, 2016, 130 Stat. 2358, 2532, added item 167b and struck out item 168 "Military-to-military contacts and comparable activities".
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VIII, §848(a)(2), Nov. 24, 2003, 117 Stat. 1555, added item 167a.
 
@@ -49,4 +52,5 @@ Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012, added chapte
 - [&sect; 00166b - Combatant commands funding for combating terrorism readiness initiatives](%C2%A7%2000166b%20-%20Combatant%20commands%20funding%20for%20combating%20terrorism%20readiness%20initiatives.md)
 - [&sect; 00167 - Unified combatant command for special operations forces](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md)
 - [&sect; 00167a - Unified combatant command for joint warfighting experimentation acquisition authority](%C2%A7%2000167a%20-%20Unified%20combatant%20command%20for%20joint%20warfighting%20experimentation%20acquisition%20authority.md)
-- [&sect; 00168 - Military-to-military contacts and comparable activities](%C2%A7%2000168%20-%20Military-to-military%20contacts%20and%20comparable%20activities.md)
+- [&sect; 00167b - Unified combatant command for cyber operations](%C2%A7%2000167b%20-%20Unified%20combatant%20command%20for%20cyber%20operations.md)
+- [&sect; 00168 - Repealed. Pub. L. 114&#8211;328, div. A, title XII, &sect;1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532](%C2%A7%2000168%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XII%2C%20%C2%A71253%28a%29%281%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202532.md)

@@ -18,13 +18,13 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 &emsp;(3) submit an application to participate in the Scholarship Program; and
 
-&emsp;(4) sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f) of this section) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
+&emsp;(4) sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f)) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
 
 #### (c) Review and evaluation of information and forms by prospective applicant
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
 
-&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o of this title in the case of the individual's breach of the contract; and
+&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o ofthis title in the case of the individual's breach of the contract; and
 
 &emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
 
@@ -52,13 +52,13 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 &emsp;(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup>1</sup> of this title;
 
-&emsp;(B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) of this section is completed; and
+&emsp;(B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
 &emsp;(C) third, subject to subparagraph (B), to any application for such a contract submitted by an individual who is from a disadvantaged background.
 
 #### (e) Commencement of participation in Scholarship Program; notice
 
-(1) An individual becomes a participant in the Scholarship Program only upon the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.
+(1) An individual becomes a participant in the Scholarship Program only upon the Secretary's approval of the individual's application submitted under subsection (b)(3) and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4).
 
 (2) The Secretary shall provide written notice to an individual promptly upon the Secretary's approving, under paragraph (1), of the individual's participation in the Scholarship Program.
 
@@ -68,15 +68,15 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
 &emsp;&emsp;&emsp;(i) to accept provision of such a scholarship to the individual;
 
-&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
+&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) until the individual completes the course of study;
 
-&emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
+&emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level ofacademic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
 
 &emsp;&emsp;&emsp;(iv) if pursuing a degree from a school of medicine or osteopathic medicine, to complete a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
 
@@ -86,7 +86,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;&emsp;(II) two years,
 
-&emsp;&emsp;&nbsp;whichever is greater, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which he is assigned by the Secretary as a member ofthe Corps, or as otherwise provided in this subpart;
+&emsp;&emsp;&nbsp;whichever is greater, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which he is assigned by the Secretary as a member of the Corps, or as otherwise provided in this subpart;
 
 &emsp;(2) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for scholarships under this subpart and to carry out the purposes of sections 254d through 254h and sections 254j and 254k of this title;
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set outas a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1985 Amendment
 

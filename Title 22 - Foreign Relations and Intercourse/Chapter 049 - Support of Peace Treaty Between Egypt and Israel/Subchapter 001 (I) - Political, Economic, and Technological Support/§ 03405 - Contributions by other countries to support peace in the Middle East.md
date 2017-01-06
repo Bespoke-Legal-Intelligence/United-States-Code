@@ -10,5 +10,5 @@ It is the sense of the Congress that other countries should give favorable consi
 
 #### Amendments
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required a Presidential report to Congress nolater than Jan. 31, 1980, on United States efforts to encourage aid to Egypt and Israel.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required a Presidential report to Congress no later than Jan. 31, 1980, on United States efforts to encourage aid to Egypt and Israel.
 

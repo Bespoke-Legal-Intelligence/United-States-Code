@@ -6,7 +6,7 @@ Assignment as Combatant Commander.—(1) The President may assign an officer to 
 
 &emsp;(A) has the joint specialty under section 661 of this title; and
 
-&emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title) as a general or flag officer.
+&emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) <sup>1</sup> of this title) as a general or flag officer.
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 
@@ -19,6 +19,14 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 &emsp;(A) performs his duties under the authority, direction, and control of the Secretary of Defense; and
 
 &emsp;(B) is directly responsible to the Secretary for the preparedness of the command to carry out missions assigned to the command.
+
+(3) Among the full range of command responsibilities specified in subsection (c) and as provided for in section 161 of this title, the primary duties of the commander of a combatant command shall be as follows:
+
+&emsp;(A) To produce plans for the employment of the armed forces to execute national defense strategies and respond to significant military contingencies.
+
+&emsp;(B) To take actions, as necessary, to deter conflict.
+
+&emsp;(C) To command United States armed forces as directed by the Secretary and approved by the President.
 
 (c)
 
@@ -58,7 +66,7 @@ Authority Over Subordinate Commanders.—Unless otherwise directed by the Presid
 
 (e)
 
-Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
+Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may berecommended to the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of the combatant command; and
 
@@ -72,7 +80,7 @@ Selection of Subordinate Commanders.—(1) An officer may be assigned to a posit
 
 &emsp;(B) submit the evaluation to the Secretary of the military department concerned and the Chairman of the Joint Chiefs of Staff.
 
-(4) At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of the National Guard who is eligible for promotion to the grade of O–9, unless a National Guard officer is serving as commander of that combatant command.
+(4) At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of a reserve component of the armed forces who is eligible for promotion to the grade of O–9, unless a reserve component officer is serving as commander of that combatant command.
 
 (f)
 
@@ -90,9 +98,23 @@ Combatant Command Staff.—(1) Each unified and specified combatant command shal
 
 Authority to Suspend Subordinates.—In accordance with procedures established by the Secretary of Defense, the commander of a combatant command may suspend from duty and recommend the reassignment of any officer assigned to such combatant command.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501.)
+(h)
+
+Support to Chairman of the Joint Chiefs of Staff.—The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under section 153 of this title.
+
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354.)
+
+#### References in Text
+
+Section 664(f) of this title, referred to in subsec. (a)(1)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, §510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(3). Pub. L. 114–328, §921(e)(1), added par. (3).
+
+Subsec. (e)(4). Pub. L. 114–328, §516, substituted "a reserve component of the armed forces" for "the National Guard" and "a reserve component officer" for "a National Guard officer".
+
+Subsec. (h). Pub. L. 114–328, §921(e)(2), added subsec. (h).
 
 <b>2008</b>—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
 
@@ -113,4 +135,6 @@ Pub. L. 110–181, div. A, title XVIII, §1824(a), Jan. 28, 2008, 122 Stat. 501,
 #### Waiver of Qualifications for Assignment as Combatant Commander
 
 Pub. L. 99–433, title II, §214(b), Oct. 1, 1986, 100 Stat. 1018, authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

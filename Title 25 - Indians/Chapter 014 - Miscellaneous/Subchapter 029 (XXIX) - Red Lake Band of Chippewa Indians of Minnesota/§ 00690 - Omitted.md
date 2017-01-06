@@ -1,0 +1,6 @@
+### §690. Omitted
+
+#### Codification
+
+Section, Pub. L. 88–663, Oct. 13, 1964, 78 Stat. 1093, which related to distribution of judgment fund and tax exemption of per capita payments, was omitted from the Code as being of special and not general application.
+

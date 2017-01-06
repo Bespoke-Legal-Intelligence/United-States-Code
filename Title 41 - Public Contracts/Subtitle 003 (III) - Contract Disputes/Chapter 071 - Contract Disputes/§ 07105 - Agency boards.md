@@ -6,7 +6,7 @@ Armed Services Board.—
 
 &emsp;(1)
 
-Establishment.—An Armed Services Board of Contract Appeals may be established within the Department of Defense when the Secretary of Defense, after consultation with the Administrator, determines from a workload study that the volume of contract claims justifies the establishment of a full-time agency board of at least 3 members who shall haveno other inconsistent duties. Workload studies will be updated at least once every 3 years and submitted to the Administrator.
+Establishment.—An Armed Services Board of Contract Appeals may be established within the Department of Defense when the Secretary of Defense, after consultation with the Administrator, determines from a workload study that the volume of contract claims justifies the establishment of a full-time agency board of at least 3 members who shall have no other inconsistent duties. Workload studies will be updated at least once every 3 years and submitted to the Administrator.
 
 &emsp;(2)
 
@@ -106,7 +106,7 @@ Other agency boards.—Each other agency board has jurisdiction to decide any ap
 
 &emsp;(2)
 
-Relief.—In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting acontract claim in the United States Court of Federal Claims.
+Relief.—In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
 
 (f)
 
@@ -126,7 +126,7 @@ Decisions.—An agency board shall—
 
 #### Amendments Not Shown in Text
 
-<i>Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, §1075(o), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, §422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking "(41 U.S.C. 607(b))" and inserting "(41 U.S.C. 607(d))" and in subsec. (c)(2)(A) by inserting "of 1978" after "Contract Disputes Act". Section 607(d) of former Title 41 was amended by adding at the end "Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal."</i>
+<i>Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, §1075(o), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, §422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking "(41 U.S.C. 607(b))" and inserting "(41 U.S.C. 607(d))" and in subsec. (c)(2)(A) by inserting "of 1978" after "Contract Disputes Act". Section 607(d) of former Title 41 was amended by adding at the end "Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such</i><i>Board shall have jurisdiction to decide that appeal."</i>
 
 Historical and Revision Notes
 

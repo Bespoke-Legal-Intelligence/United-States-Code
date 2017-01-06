@@ -24,7 +24,7 @@ Upon the introduction of the first such resolution of disapproval in either the 
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–458, §3(a), substituted "unless during such sixty-day period a joint resolution is enacted" for "unless during such sixty-day period either House adopts a resolution disapproving such plans".
+<b>1983</b>—Subsec. (a). Pub. L. 97–458, §3(a), substituted "unless during such sixty-day period a joint resolutionis enacted" for "unless during such sixty-day period either House adopts a resolution disapproving such plans".
 
 Subsec. (b). Pub. L. 97–458, §3(b), substituted "date of enactment of a joint resolution disapproving a plan" for "date of adoption of a resolution disapproving a plan".
 

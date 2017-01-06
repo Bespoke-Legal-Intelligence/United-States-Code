@@ -16,9 +16,9 @@ A civil action may be brought—
 
 &emsp;(4) by the Secretary, or by a participant, or beneficiary for appropriate relief in the case of a violation of 1025(c) of this title;
 
-&emsp;(5) except as otherwise provided in subsection (b) of this section, by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
+&emsp;(5) except as otherwise provided in subsection (b), by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
 
-&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), (8), or (9) of subsection (c) of this section or under subsection (i) or (l) of this section;
+&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), (8), or (9) of subsection (c) or under subsection (i) or (l);
 
 &emsp;(7) by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title);
 
@@ -38,7 +38,7 @@ A civil action may be brought—
 
 #### (b) Plans qualified under Internal Revenue Code; maintenance of actions involving delinquent contributions
 
-(1) In the case of a plan which is qualified under section 401(a), 403(a), or 405(a) <sup>2</sup> of title 26 (or with respect to which an application to so qualify has been filed and has not been finally determined) the Secretary may exercise his authority under subsection (a)(5) of this section with respect to a violation of, or the enforcement of, parts 2 and 3 of this subtitle (relating to participation, vesting, and funding), only if—
+(1) In the case of a plan which is qualified under section 401(a), 403(a), or 405(a) <sup>2</sup> of title 26 (or with respect to which an application to so qualify has been filed and has not been finally determined) the Secretary may exercise his authority under subsection (a)(5) with respect to a violation of, or the enforcement of, parts 2 and 3 of this subtitle (relating to participation, vesting, and funding), only if—
 
 &emsp;(A) requested by the Secretary of the Treasury, or
 
@@ -60,7 +60,7 @@ A civil action may be brought—
 
 (5) The Secretary may assess a civil penalty against any person of up to $1,000 a day from the date of the person's failure or refusal to file the information required to be filed by such person with the Secretary under regulations prescribed pursuant to section 1021(g) of this title.
 
-(6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under thisparagraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
+(6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
 (7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
@@ -70,7 +70,7 @@ A civil action may be brought—
 
 &emsp;(B) in the case of a plan in endangered status which is not in seriously endangered status, for failure by the plan to meet the applicable benchmarks under section 1085 of this title by the end of the funding improvement period with respect to the plan.
 
-(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a day from the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
+(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a dayfrom the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
 
 (B) The Secretary may assess a civil penalty against any plan administrator of up to $100 a day from the date of the plan administrator's failure to timely provide to any State the information required to be disclosed under section 1181(f)(3)(B)(ii) of this title. For purposes of this subparagraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
@@ -192,7 +192,7 @@ The district courts of the United States shall have jurisdiction, without respec
 
 #### (h) Service upon Secretary of Labor and Secretary of the Treasury
 
-A copy of the complaint in any action under this subchapter by a participant, beneficiary, or fiduciary (other than an action brought by one or more participants or beneficiaries under subsection (a)(1)(B) of this section which is solely for the purpose of recovering benefits due such participants under the terms of the plan) shall be served upon the Secretary and the Secretary of the Treasury by certified mail. Either Secretary shall have the right in his discretion to intervene in any action, except that the Secretary of the Treasury may not intervene in any action under part 4 of this subtitle. If the Secretary brings an action under subsection (a) of this section on behalf of a participant or beneficiary, he shall notify the Secretary of the Treasury.
+A copy of the complaint in any action under this subchapter by a participant, beneficiary, or fiduciary (other than an action brought by one or more participants or beneficiaries under subsection (a)(1)(B) which is solely for the purpose of recovering benefits due such participants under the terms of the plan) shall be served upon the Secretary and the Secretary of the Treasury by certified mail. Either Secretary shall have the right in his discretion to intervene in any action, except that the Secretary of the Treasury may not intervene in any action under part 4 of this subtitle. If the Secretary brings an action under subsection (a) on behalf of a participant or beneficiary, he shall notify the Secretary of the Treasury.
 
 #### (i) Administrative assessment of civil penalty
 
@@ -220,13 +220,13 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 
 &emsp;(A) pursuant to any settlement agreement with the Secretary, or
 
-&emsp;(B) ordered by a court to be paid by such fiduciary or other person to a plan or its participants and beneficiaries in a judicial proceeding instituted by the Secretary under subsection (a)(2) or (a)(5) of this section.
+&emsp;(B) ordered by a court to be paid by such fiduciary or other person to a plan or its participants and beneficiaries in a judicial proceeding instituted by the Secretary under subsection (a)(2) or (a)(5).
 
 (3) The Secretary may, in the Secretary's sole discretion, waive or reduce the penalty under paragraph (1) if the Secretary determines in writing that—
 
 &emsp;(A) the fiduciary or other person acted reasonably and in good faith, or
 
-&emsp;(B) it is reasonable to expect that the fiduciary or other person will not be able to restore all losses to the plan (or to provide the relief ordered pursuant to subsection (a)(9) of this section) without severe financial hardship unless such waiver or reduction is granted.
+&emsp;(B) it is reasonable to expect that the fiduciary or other person will not be able to restore all losses to the plan (or to provide the relief ordered pursuant to subsection (a)(9)) without severe financial hardship unless such waiver or reduction is granted.
 
 (4) The penalty imposed on a fiduciary or other person under this subsection with respect to any transaction shall be reduced by the amount of any penalty or tax imposed on such fiduciary or other person with respect to such transaction under subsection (i) of this section and section 4975 of title 26.
 
@@ -282,7 +282,7 @@ Subsec. (c)(1). Pub. L. 109–280, §508(a)(2)(C), substituted "section 1021(f) 
 
 Subsec. (c)(4). Pub. L. 109–280, §902(f)(2), which directed amendment of par. (4) by substituting ", section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title" for "or section 1082(b)(7)(F)(vi) of this title", was executed by making the substitution for "or 1082(b)(7)(F)(iv) of this title", to reflect the probable intent of Congress.
 
-Pub. L. 109–280, §502(b)(2), which directed amendment of par. (4) by substituting "subsection (j), (k), or (l) of section 1021 of this title" for "section 1021(j) or (k) of this title", was executed by making the substitution for "subsection (j) or (k) of section 1021 of this title", to reflect the probable intent of Congress.
+Pub. L. 109–280, §502(b)(2), which directed amendment of par. (4) by substituting "subsection (j), (k), or (l) ofsection 1021 of this title" for "section 1021(j) or (k) of this title", was executed by making the substitution for "subsection (j) or (k) of section 1021 of this title", to reflect the probable intent of Congress.
 
 Pub. L. 109–280, §502(a)(2), substituted "subsection (j) or (k) of section 1021 of this title" for "section 1021(j)".
 
@@ -306,7 +306,7 @@ Subsec. (c)(7), (8). Pub. L. 107–204, §306(b)(3)(B), (C), added par. (7) and 
 
 Subsec. (c)(6), (7). Pub. L. 105–34, §1503(c)(2)(B), added par. (6) and redesignated former par. (6) as (7).
 
-<b>1996</b>—Subsec. (a)(6). Pub. L. 104–191, §101(e)(2)(A)(i), substituted "under paragraph (2), (4), or (5) of subsection (c) of this section or under subsection (i) or (l) of this section" for "under subsection (c)(2) or (i) or (l) of this section".
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–191, §101(e)(2)(A)(i), substituted "under paragraph (2), (4), or (5) of subsection (c) or under subsection (i) or (l)" for "under subsection (c)(2) or (i) or (l) of this section".
 
 Subsec. (b)(3). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
 
@@ -318,7 +318,7 @@ Subsec. (c)(4) to (6). Pub. L. 104–191, §101(e)(2)(A)(ii), struck out "For pu
 
 <b>1994</b>—Subsec. (a)(9). Pub. L. 103–401, §2, added par. (9).
 
-Subsec. (l)(3)(B). Pub. L. 103–401, §3, inserted "(or to provide the relief ordered pursuant to subsection (a)(9) of this section)" after "to restore all losses to the plan".
+Subsec. (l)(3)(B). Pub. L. 103–401, §3, inserted "(or to provide the relief ordered pursuant to subsection (a)(9))" after "to restore all losses to the plan".
 
 Subsec. (m). Pub. L. 103–465 added subsec. (m).
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 Pub. L. 110–233, title I, §101(f)(2), May 21, 2008, 122 Stat. 888, provided that: "The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]."
 
@@ -436,7 +436,7 @@ Regulations.—The Secretary of Labor shall issue the regulations required to ca
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule for collective bargaining agreements, see section 10002(d)of Pub. L. 99–272, set out as an Effective Date note under section 1161 of this title.
+Amendment by Pub. L. 99–272 applicable to plan years beginning on or after July 1, 1986, with special rule for collective bargaining agreements, see section 10002(d) of Pub. L. 99–272, set out as an Effective Date note under section 1161 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -454,7 +454,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
-For applicability of amendment by section 202(b), (c) of Pub. L. 109–280 to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
+For applicability of amendment by section 202(b), (c) of Pub. L. 109–280 to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30,2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 #### Effect of Pub. L. 103–401 on Other Provisions
 

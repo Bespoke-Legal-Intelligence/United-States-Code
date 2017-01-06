@@ -12,7 +12,7 @@
 
 #### (3) Civil penalties
 
-&emsp;Any person or entity who willfully violates the management plan or any land use ordinance or any implementation measure or any order issued by the Commission pursuant to sections 544 to 544p of this title may be assessed a civil penalty by the Commission not to exceed $10,000 for each violation. No penalty may be assessed under this subsection unless such person or entity is given notice and opportunity for a public hearing with respect to such violation. The Commission may compromise, modify, or remit, with or without conditions, any penalty imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the violator to remedy the violation in a timely manner.
+&emsp;Any person or entity who willfully violates the management plan or any land use ordinance or any implementation measure or any order issued by the Commission pursuant tosections 544 to 544p of this title may be assessed a civil penalty by the Commission not to exceed $10,000 for each violation. No penalty may be assessed under this subsection unless such person or entity is given notice and opportunity for a public hearing with respect to such violation. The Commission may compromise, modify, or remit, with or without conditions, any penalty imposed under this subsection, taking into consideration the nature and seriousness of the violation and the efforts of the violator to remedy the violation in a timely manner.
 
 #### (b) Judicial remedies
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iii) which challenges the consistency of the draft management plan with the purposes and standards of sections 544 to 544p of this title or with other applicable law prior to the certification or adoption of the Management Plan pursuant to section 544d of this title; or
 
-&emsp;&emsp;(B) under paragraph (2)(B) of this subsection prior to sixty days after the plaintiff has given notice in writing of such action to the Secretary, the Commission, and to the county in which the failure to perform anyact or duty pursuant to sections 544 to 544p of this title is alleged: <i>Provided</i>, That such action may be brought immediately after such notification where the violation or order complained of constitutes an imminent threat to the health or safety of the plaintiff or would immediately affect a legal interest of the plaintiff.
+&emsp;&emsp;(B) under paragraph (2)(B) of this subsection prior to sixty days after the plaintiff has given notice in writing of such action to the Secretary, the Commission, and to the county in which the failure to perform any act or duty pursuant to sections 544 to 544p of this title is alleged: <i>Provided</i>, That such action may be brought immediately after such notification where the violation or order complained of constitutes an imminent threat to the health or safety of the plaintiff or would immediately affect a legal interest of the plaintiff.
 
 #### (4) Judicial review
 

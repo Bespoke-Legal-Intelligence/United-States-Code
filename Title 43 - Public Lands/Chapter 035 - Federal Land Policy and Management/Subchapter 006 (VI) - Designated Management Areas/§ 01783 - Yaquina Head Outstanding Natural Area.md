@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to protect the unique scenic, scientific, educational, and recreational values of certain lands in and around Yaquina Head, in Lincoln County, Oregon, there is hereby established, subject to valid existing rights, the Yaquina Head Outstanding Natural Area (hereinafter referred to as the "area"). The boundaries of the area are those shown on the map entitled "Yaquina Head Area", dated July 1979, which shall be on file and available for public inspection in the Office of the Director, Bureau ofLand Management, United States Department of the Interior, and the State Office of the Bureau of Land Management in the State of Oregon.
+In order to protect the unique scenic, scientific, educational, and recreational values of certain lands in and around Yaquina Head, in Lincoln County, Oregon, there is hereby established, subject to valid existing rights, the Yaquina Head Outstanding Natural Area (hereinafter referred to as the "area"). The boundaries of the area are those shown on the map entitled "Yaquina Head Area", dated July 1979, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State Office of the Bureau of Land Management in the State of Oregon.
 
 #### (b) Administration by Secretary of the Interior; management plan; quarrying permits
 
@@ -42,7 +42,7 @@ There are hereby authorized to be appropriated in addition to that authorized by
 
 #### References in Text
 
-The Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602), referred to in subsecs. (c) and (d), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which isclassified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+The Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602), referred to in subsecs. (c) and (d), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (d), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 

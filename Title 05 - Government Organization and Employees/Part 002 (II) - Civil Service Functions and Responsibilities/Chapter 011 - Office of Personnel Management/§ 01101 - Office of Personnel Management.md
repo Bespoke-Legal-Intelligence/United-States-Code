@@ -50,7 +50,7 @@ Pub. L. 95–454, title IX, §902, Oct. 13, 1978, 92 Stat. 1223, provided that:
 
 "(b) No provision of this Act \[see Tables for classification\] shall affect any administrative proceedings pending at the time such provision takes effect. Orders shall be issued in such proceedings and appeals shall be taken therefrom as if this Act had not been enacted.
 
-"(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office of Personnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted."
+"(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office of Personnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to anysuch suit, action, or other proceeding shall be made as if this Act had not been enacted."
 
 #### Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates
 
@@ -434,7 +434,7 @@ Federal Register.
 
 #### Sec. 302. Establishment of the General Counsel of the Authority
 
-There shall be a General Counsel of the Authority, who shall be appointed by the President, by and withthe advice and consent of the Senate for a term of four years, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule \[5 U.S.C. 5316\]. The General Counsel shall perform such duties as the Authority shall from time to time prescribe, including but not limited to the duty of determining and presenting facts required by the Authority in order to decide unfair labor practice complaints.
+There shall be a General Counsel of the Authority, who shall be appointed by the President, by and with the advice and consent of the Senate for a term of four years, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule \[5 U.S.C. 5316\]. The General Counsel shall perform such duties as the Authority shall from time to time prescribe, including but not limited to the duty of determining and presenting facts required by the Authority in order to decide unfair labor practice complaints.
 
 #### Sec. 303. The Federal Service Impasses Panel
 
@@ -502,7 +502,7 @@ The positive personnel management tasks of the government—such as training, pr
 
 The adjudication and prosecution responsibilities of the Civil Service Commission will be performed by the Merit Systems Protection Board. The Board will be headed by a bipartisan panel of three members appointed to six-year, staggered terms. This Board would be the first independent and institutionally impartial Federal agency solely for the protection of Federal employees.
 
-The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegalacts—the so-called "whistleblowers." The Council would be appointed by the President and confirmed by the Senate.
+The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegal acts—the so-called "whistleblowers." The Council would be appointed by the President and confirmed by the Senate.
 
 #### federal labor relations authority
 
@@ -562,7 +562,7 @@ Merit Systems Protection Board
 
 The Special Counsel
 
-1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel to the Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel tothe Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 1–302. <i>Functions of the Special Counsel</i>. The transfer of functions provided for in Section 204(b) and the performance of functions set forth in Section 204(c)–(g) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
@@ -590,7 +590,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section undersubsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words "Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words "Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -778,7 +778,7 @@ Labor Management Relations in the Federal Service
 
 General Provisions
 
-2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conducta study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
+2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
 
 2–402. <i>Continuing Effect of this Order.</i> Except as required by the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] as its provisions become effective, in accord with Section 7135 of Title 5, United States Code, as amended, and in accord with Section 902(a) of that Act \[set out as a Savings Provisions note above\], the provisions of this Order shall continue in effect, according to its terms, until modified, terminated or suspended.
 
@@ -795,6 +795,56 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Executive Order No. 12157
 
 Ex. Ord. No. 12157, Sept. 14, 1979, 44 F.R. 54035, which related to the President's Management Improvement Council, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to this title.
+
+#### Ex. Ord. No. 12353. Charitable Fund-Raising
+
+Ex. Ord. No. 12353, Mar. 23, 1982, 47 F.R. 12785, as amended by Ex. Ord. No. 12404, §1, Feb. 10, 1983, 48 F.R. 6685; Ex. Ord. No. 13743, §1, Oct. 13, 2016, 81 F.R. 71571, provided:
+
+By the authority vested in me as President by the Constitution of the United States of America, and in order to support and facilitate fund-raising on behalf of voluntary health and welfare organizations through on-the-job solicitations of Federal employees and members of the uniformed services, and to ensure that the recipient organizations are responsible in the uses of the monies so raised, it is hereby ordered as follows:
+
+Section 1.
+
+(a) The Director of the Office of Personnel Management shall make arrangements for voluntary health and welfare organizations to solicit contributions from Federal employees and members of the uniformed services at their places of employment or duty. Federal employees and members of the uniformed services can also be solicited to make pledges of volunteer time. These arrangements shall take the form of an annual Combined Federal Campaign in which eligible voluntary health and welfare organizations are authorized to take part.
+
+(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitation of such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
+
+Sec. 2. (a) The Director shall establish criteria for determining the eligibility of voluntary health and welfare organizations that may participate in each of the annual Combined Federal Campaigns.
+
+(b) In establishing those criteria, the Director shall be guided by the following principles and policies:
+
+(1) The objectives of the Combined Federal Campaign are to lessen the burdens of government in meeting needs of human health and welfare; to provide a convenient channel through which Federal public servants may contribute to these efforts; to minimize or eliminate disruption of the Federal workplace and costs to Federal taxpayers that such fund-raising may entail; and to avoid the reality and appearance of the use of Federal resources in aid of fund-raising for political activity or advocacy of public policy, lobbying, or philanthropy of any kind that does not directly serve needs of human health and welfare.
+
+(2) To meet these objectives, eligibility for participation in the Combined Federal Campaign shall be limited to voluntary, charitable, health and welfare organizations that provide or support direct health and welfare services to individuals or their families. Such direct health and welfare services must be available to Federal employees in the local campaign solicitation area, unless they are rendered to needy persons overseas. Such services must directly benefit human beings, whether children, youth, adults, the aged, the ill and infirm, or the mentally or physically handicapped. Such services must consist of care, research or education in the fields of human health or social adjustment and rehabilitation; relief of victims of natural disasters and other emergencies; or assistance to those who are impoverished and therefore in need of food,shelter, clothing, education, and basic human welfare services.
+
+(3) Organizations that seek to influence the outcomes of elections or the determination of public policy through political activity or advocacy, lobbying, or litigation on behalf of parties other than themselves shall not be deemed charitable health and welfare organizations and shall not be eligible to participate in the Combined Federal Campaign.
+
+(4) International organizations that provide health and welfare services overseas, and that meet the eligibility criteria except for the local services criterion, shall be eligible to participate in each local solicitation area of the Combined Federal Campaign.
+
+(5) Local voluntary, charitable, health and welfare organizations that are not affiliated with a national organization or federation but that satisfy the eligibility criteria set forth in this order and by the Director shall be permitted to participate in the Combined Federal Campaign.
+
+Sec. 3. In making arrangements for the Combined Federal Campaign, the Director is authorized, in his discretion, to consult with the Departments and agencies concerned, representatives of the employees and members to be solicited, and, to the extent practicable, representatives of voluntary health and welfare organizations seeking to participate in a Combined Federal Campaign.
+
+Sec. 4. The arrangements made by the Director shall (a) ensure that all contributions are voluntary, that there is no coercion, and that individuals have the option of disclosing their contribution or keeping it confidential, (b) designate the specific period during which the annual solicitation may be conducted, and (c) permit only one annual solicitation except in cases of emergency or disaster appeals for which specific provision shall be made by the Director.
+
+Sec. 5. Subject to such rules and regulations as the Director may prescribe, the Director may authorize:
+
+(a) outreach coordinators to conduct campaign promotion in a local Combined Federal Campaign; and
+
+(b) central campaign administrators to administer application and pledging systems and to collect and disburse pledged funds.
+
+Such authorizations shall, if made, ensure at a minimum that outreach coordinators and central campaign administrators operate subject to the direction and control of the Director and such local Federal coordinating entities as may be established; and manage the Combined Federal Campaign fairly and equitably. The Director may consult with and consider advice from interested parties and organizations, and shall publish reports on the management and results of the Combined Federal Campaign.
+
+Sec. 6. The methods for the solicitation of funds shall clearly specify the eligible organizations and provide a direct means to designate funds to such organizations. Where allocation of undesignated funds by the central campaign administrator is authorized by the Director, prominent notice of the authorization for such allocation shall be provided.
+
+Sec. 7. This Order shall not apply to solicitations conducted by organizations composed of civilian employees or members of the uniformed services among their own members for organizational support or for the benefit of welfare funds for their members. Such solicitations shall be conducted under policies and procedures approved by the head of the Department or agency concerned.
+
+Sec. 8. The Director shall prescribe such rules and regulations as may be necessary to implement this Order.
+
+Sec. 9. Executive Order No. 10927 \[Mar. 18, 1961, 26 F.R. 2383\], as amended, is revoked. Notwithstanding that revocation, directives issued under that Order shall continue in effect until revoked or modified under the provisions of this Order.
+
+\[Section 2(d) of Ex. Ord. No. 13743 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in effect until revoked or modified under the provisions of Ex. Ord. No. 13743.\]
+
+\[Section 2 of Ex. Ord. No. 12404 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in full force and effect until revoked or modified under the provisions of Ex. Ord. No. 12404.\]
 
 <i><sup>1</sup></i><i> As amended July 11, 1978.</i>
 

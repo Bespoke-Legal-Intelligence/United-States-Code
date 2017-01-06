@@ -28,7 +28,7 @@ Pub. L. 112–268, §1, Jan. 14, 2013, 126 Stat. 2441, provided that:
 
 "(a)
 
-In General.—The Secretary of the Interior may issue right-of-way permits for each natural gas pipeline (including all appurtenances used in the operation of the natural gas pipeline) that, as of March 1, 2012, is located within the boundary of Glacier National Park.
+In General.—The Secretary of the Interior may issue right-of-way permits for each natural gas pipeline\(including all appurtenances used in the operation of the natural gas pipeline) that, as of March 1, 2012, is located within the boundary of Glacier National Park.
 
 "(b)
 

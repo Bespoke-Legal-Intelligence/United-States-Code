@@ -4,7 +4,7 @@
 
 The Secretary—
 
-&emsp;(1) subject to the availability of, and from, amounts appropriated pursuant to subsection (e)(1) of this section, shall conduct training activities and provide—
+&emsp;(1) subject to the availability of, and from, amounts appropriated pursuant to subsection (e)(1), shall conduct training activities and provide—
 
 &emsp;&emsp;(A) training and technical assistance to improve the skills of individuals employed in—
 
@@ -32,11 +32,11 @@ The Secretary—
 
 &emsp;&emsp;&emsp;(ii) demonstrate the greatest need, for the purpose of aiding schools in meeting costs associated with initiating or expanding a school breakfast program under section 1773 of this title, including outreach and informational activities; and
 
-&emsp;(2) from amounts appropriated pursuant to subsection (e)(2) of this section, is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish and maintain a food service management institute.
+&emsp;(2) from amounts appropriated pursuant to subsection (e)(2), is authorized to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi, to establish and maintain a food service management institute.
 
 #### (b) Minimum requirements
 
-The activities conducted and assistance provided as required by subsection (a)(1) of this section shall at least include activities and assistance with respect to—
+The activities conducted and assistance provided as required by subsection (a)(1) shall at least include activities and assistance with respect to—
 
 &emsp;(1) menu planning;
 
@@ -48,7 +48,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (1) In general
 
-&emsp;Any food service management institute established as authorized by subsection (a)(2) of this section shall carry out activities to improve the general operation and quality of—
+&emsp;Any food service management institute established as authorized by subsection (a)(2) shall carry out activities to improve the general operation and quality of—
 
 &emsp;&emsp;(A) food service programs assisted under this chapter;
 
@@ -98,11 +98,11 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (1) In general
 
-&emsp;The Secretary shall coordinate activities carried out and assistance provided as required by subsection (b) of this section with activities carried out by any food service management institute established as authorized by subsection (a)(2) of this section.
+&emsp;The Secretary shall coordinate activities carried out and assistance provided as required by subsection (b) with activities carried out by any food service management institute established as authorized by subsection (a)(2).
 
 #### (2) Use of institute for dietary and nutrition activities
 
-&emsp;The Secretary shall use any food service management institute established under subsection (a)(2) of this section to assist in carrying out dietary and nutrition activities of the Secretary.
+&emsp;The Secretary shall use any food service management institute established under subsection (a)(2) to assist in carrying out dietary and nutrition activities of the Secretary.
 
 #### (e) Food service management institute
 
@@ -118,11 +118,11 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (2) Additional funding
 
-&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2), in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (3) Funding for education, training, or applied research or studies
 
-&emsp;In addition to amounts made available under paragraphs (1) and (2), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+&emsp;In addition to amounts made available under paragraphs (1) and (2), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 
 #### (f) Administrative training and technical assistance material
 
@@ -134,7 +134,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 #### (A) In general
 
-&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of theTreasury shall transfer to the Secretary of Agriculture to carry out this subsection—
+&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection—
 
 &emsp;&emsp;&emsp;(i) on October 1, 2004, and October 1, 2005, $3,000,000;
 

@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a group health plan who is a noncustodial parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or, if necessary, any steps to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
+&emsp;&emsp;&emsp;&emsp;(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is availableunder the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or, if necessary, any steps to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 
@@ -122,7 +122,7 @@
 
 #### (3) Acquisition by States of rights of third parties
 
-&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to makepayment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
+&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
 
 #### (c) Group health plan coverage of dependent children in cases of adoption
 
@@ -320,7 +320,7 @@ Group health plan.—The term 'group health plan' has the meaning provided in se
 
 &emsp;&emsp;"(F)
 
-State.—The term 'State' includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+State.—The term 'State' includes the District of Columbia, the Commonwealth of PuertoRico, the Virgin Islands, Guam, and American Samoa.
 
 &emsp;&emsp;"(G)
 
@@ -384,7 +384,7 @@ Rule of construction.—Nothing in this subparagraph shall be construed as requi
 
 &emsp;"(6)
 
-Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be madeto the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 &emsp;"(7)
 
@@ -400,7 +400,7 @@ Report and Recommendations Regarding the Enforcement of Qualified Medical Child 
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301(d) of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301(d) of Pub. L. 103–66 shall not be required to be made before the first planyear beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "13623".</i>
 

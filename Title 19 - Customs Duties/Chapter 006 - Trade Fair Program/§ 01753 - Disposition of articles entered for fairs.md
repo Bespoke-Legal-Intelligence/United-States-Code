@@ -10,7 +10,7 @@ At any time before, or within 3 months after, the closing date of any fair, any 
 
 #### (b) Disposition without payment of duties or taxes
 
-At any time before, or within 3 months after, the closing date of any fair, any article enteredfor such fair under section 1752 of this title may, without the payment of any duties or internal-revenue taxes, be—
+At any time before, or within 3 months after, the closing date of any fair, any article entered for such fair under section 1752 of this title may, without the payment of any duties or internal-revenue taxes, be—
 
 &emsp;(1) exported,
 

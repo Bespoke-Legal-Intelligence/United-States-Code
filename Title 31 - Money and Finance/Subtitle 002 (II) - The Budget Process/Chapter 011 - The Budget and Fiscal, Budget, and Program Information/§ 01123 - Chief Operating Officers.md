@@ -8,7 +8,7 @@ Establishment.—At each agency, the deputy head of agency, or equivalent, shall
 
 Function.—Each Chief Operating Officer shall be responsible for improving the management and performance of the agency, and shall—
 
-&emsp;(1) provide overall organization management to improve agency performance and achieve the mission and goals of the agency through the use of strategic and performance planning, measurement, analysis, regular assessment of progress, and use of performance information to improve the results achieved;
+&emsp;(1) provide overall organization management to improve agency performance and achievethe mission and goals of the agency through the use of strategic and performance planning, measurement, analysis, regular assessment of progress, and use of performance information to improve the results achieved;
 
 &emsp;(2) advise and assist the head of agency in carrying out the requirements of sections 1115 through 1122 of this title and section 306 of title 5;
 

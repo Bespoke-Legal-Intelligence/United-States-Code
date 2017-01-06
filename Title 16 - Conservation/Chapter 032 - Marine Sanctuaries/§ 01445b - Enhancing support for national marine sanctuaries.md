@@ -128,7 +128,7 @@ Subsec. (h). Pub. L. 104–283, §6(b)(1), struck out heading and text of subsec
 
 &emsp;"(1) the term 'national marine sanctuary' or 'national marine sanctuaries' means a national marine sanctuary or sanctuaries designated under this chapter, or by other law in accordance with this chapter;
 
-&emsp;"(2) the term 'official sponsor' means any person designated by the Secretary who is authorized to manufacture, reproduce, or use any symbol created, adopted, and published in the Federal Register under this section for a fee paid to the Secretary; and
+&emsp;"(2) the term 'official sponsor' means any person designated by the Secretary who is authorized tomanufacture, reproduce, or use any symbol created, adopted, and published in the Federal Register under this section for a fee paid to the Secretary; and
 
 &emsp;"(3) the term 'Secretary' means the Secretary of Commerce."
 

@@ -1,0 +1,688 @@
+### §31102. Motor carrier safety assistance program
+
+(a)
+
+In General.—The Secretary of Transportation shall administer a motor carrier safety assistance program funded under section 31104.
+
+(b)
+
+Goal.—The goal of the program is to ensure that the Secretary, States, local governments, other political jurisdictions, federally recognized Indian tribes, and other persons work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient surface transportation system by—
+
+&emsp;(1) making targeted investments to promote safe commercial motor vehicle transportation, including the transportation of passengers and hazardous materials;
+
+&emsp;(2) investing in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes and in fatalities resulting from such crashes;
+
+&emsp;(3) adopting and enforcing effective motor carrier, commercial motor vehicle, and driver safety regulations and practices consistent with Federal requirements; and
+
+&emsp;(4) assessing and improving statewide performance by setting program goals and meeting performance standards, measures, and benchmarks.
+
+(c)
+
+State Plans.—
+
+&emsp;(1)
+
+In general.—In carrying out the program, the Secretary shall prescribe procedures for a State to submit a multiple-year plan, and annual updates thereto, under which the State agrees to assume responsibility for improving motor carrier safety by adopting and enforcing State regulations, standards, and orders that are compatible with the regulations, standards, and orders of the Federal Government on commercial motor vehicle safety and hazardous materials transportation safety.
+
+&emsp;(2)
+
+Contents.—The Secretary shall approve a State plan if the Secretary determines that the plan is adequate to comply with the requirements of this section, and the plan—
+
+&emsp;&emsp;(A) implements performance-based activities, including deployment and maintenance of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
+
+&emsp;&emsp;(B) designates a lead State commercial motor vehicle safety agency responsible for administering the plan throughout the State;
+
+&emsp;&emsp;(C) contains satisfactory assurances that the lead State commercial motor vehicle safety agency has or will have the legal authority, resources, and qualified personnel necessary to enforce the regulations, standards, and orders;
+
+&emsp;&emsp;(D) contains satisfactory assurances that the State will devote adequate resources to the administration of the plan and enforcement of the regulations, standards, and orders;
+
+&emsp;&emsp;(E) provides a right of entry (or other method a State may use that the Secretary determines is adequate to obtain necessary information) and inspection to carry out the plan;
+
+&emsp;&emsp;(F) provides that all reports required under this section be available to the Secretary on request;
+
+&emsp;&emsp;(G) provides that the lead State commercial motor vehicle safety agency will adopt the reporting requirements and use the forms for recordkeeping, inspections, and investigations that the Secretary prescribes;
+
+&emsp;&emsp;(H) requires all registrants of commercial motor vehicles to demonstrate knowledge of applicable safety regulations, standards, and orders of the Federal Government and the State;
+
+&emsp;&emsp;(I) provides that the State will grant maximum reciprocity for inspections conducted under the North American Inspection Standards through the use of a nationally accepted system that allows ready identification of previously inspected commercial motor vehicles;
+
+&emsp;&emsp;(J) ensures that activities described in subsection (h), if financed through grants to the State made under this section, will not diminish the effectiveness of the development and implementation of the programs to improve motor carrier, commercial motor vehicle, and driver safety as described in subsection (b);
+
+&emsp;&emsp;(K) ensures that the lead State commercial motor vehicle safety agency will coordinate the plan, data collection, and information systems with the State highway safety improvement program required under section 148(c) of title 23;
+
+&emsp;&emsp;(L) ensures participation in appropriate Federal Motor Carrier Safety Administration information technology and data systems and other information systems by all appropriate jurisdictions receiving motor carrier safety assistance program funding;
+
+&emsp;&emsp;(M) ensures that information is exchanged among the States in a timely manner;
+
+&emsp;&emsp;(N) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
+
+&emsp;&emsp;(O) provides satisfactory assurances that the State will address national priorities and performance goals, including—
+
+&emsp;&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
+
+&emsp;&emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
+
+&emsp;&emsp;&emsp;(iii) when conducted with an appropriate commercial motor vehicle inspection, criminal interdiction activities, and appropriate strategies for carrying out those interdiction activities, including interdiction activities that affect the transportation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) and listed in part 1308 oftitle 21, Code of Federal Regulations, as updated and republished from time to time) by any occupant of a commercial motor vehicle;
+
+&emsp;&emsp;(P) provides that the State has established and dedicated sufficient resources to a program to ensure that—
+
+&emsp;&emsp;&emsp;(i) the State collects and reports to the Secretary accurate, complete, and timely motor carrier safety data; and
+
+&emsp;&emsp;&emsp;(ii) the State participates in a national motor carrier safety data correction system prescribed by the Secretary;
+
+&emsp;&emsp;(Q) ensures that the State will cooperate in the enforcement of financial responsibility requirements under sections 13906, 31138, and 31139 and regulations issued under those sections;
+
+&emsp;&emsp;(R) ensures consistent, effective, and reasonable sanctions;
+
+&emsp;&emsp;(S) ensures that roadside inspections will be conducted at locations that are adequate to protect the safety of drivers and enforcement personnel;
+
+&emsp;&emsp;(T) provides that the State will include in the training manuals for the licensing examination to drive noncommercial motor vehicles and commercial motor vehicles information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
+
+&emsp;&emsp;(U) provides that the State will enforce the registration requirements of sections 13902 and 31134 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under those sections or to be operated beyond the scope of the motor carrier's registration;
+
+&emsp;&emsp;(V) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
+
+&emsp;&emsp;(W) except in the case of an imminent hazard or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a bus station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop (excluding a weigh station);
+
+&emsp;&emsp;(X) ensures that the State will transmit to its roadside inspectors notice of each Federal exemption granted under section 31315(b) of this title and sections 390.23 and 390.25 of title 49, Code of Federal Regulations, and provided to the State by the Secretary, including the name of the person that received the exemption and any terms and conditions that apply to the exemption;
+
+&emsp;&emsp;(Y) except as provided in subsection (d), provides that the State—
+
+&emsp;&emsp;&emsp;(i) will conduct safety audits of interstate and, at the State's discretion, intrastate new entrant motor carriers under section 31144(g); and
+
+&emsp;&emsp;&emsp;(ii) if the State authorizes a third party to conduct safety audits under section 31144(g) on its behalf, the State verifies the quality of the work conducted and remains solely responsible for the management and oversight of the activities;
+
+&emsp;&emsp;(Z) provides that the State agrees to fully participate in the performance and registration information systems management under section 31106(b) not later than October 1, 2020, by complying with the conditions for participation under paragraph (3) of that section, or demonstrates to the Secretary an alternative approach for identifying and immobilizing a motor carrier with serious safety deficiencies in a manner that provides an equivalent level of safety;
+
+&emsp;&emsp;(AA) in the case of a State that shares a land border with another country, provides that the State—
+
+&emsp;&emsp;&emsp;(i) will conduct a border commercial motor vehicle safety program focusing on international commerce that includes enforcement and related projects; or
+
+&emsp;&emsp;&emsp;(ii) will forfeit all funds calculated by the Secretary based on border-related activities if the State declines to conduct the program described in clause (i) in its plan; and
+
+&emsp;&emsp;(BB) in the case of a State that meets the other requirements of this section and agrees to comply with the requirements established in subsection (l)(3), provides that the State may fund operation and maintenance costs associated with innovative technology deployment under subsection (l)(3) with motor carrier safety assistance program funds authorized under section 31104(a)(1).
+
+&emsp;(3)
+
+Publication.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), the Secretary shall publish each approved State multiple-year plan, and each annual update thereto, on a publically accessible Internet Web site of the Department of Transportation not later than 30 days after the date the Secretary approves the plan or update.
+
+&emsp;&emsp;(B)
+
+Limitation.—Before publishing an approved State multiple-year plan or annual update under subparagraph (A), the Secretary shall redact any information identified by the State that, if disclosed—
+
+&emsp;&emsp;&emsp;(i) would reasonably be expected to interfere with enforcement proceedings; or
+
+&emsp;&emsp;&emsp;(ii) would reveal enforcement techniques or procedures that would reasonably be expected to risk circumvention of the law.
+
+(d)
+
+Exclusion of U.S. Territories.—The requirement that a State conduct safety audits of new entrant motor carriers under subsection (c)(2)(Y) does not apply to a territory of the United States unless required by the Secretary.
+
+(e)
+
+Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws, including regulations, with Federal motor carrier safety regulations to be enforced under subsections (b) and (c). To the extent practicable, the guidelines and standards shallallow for maximum flexibility while ensuring a degree of uniformity that will not diminish motor vehicle safety.
+
+(f)
+
+Maintenance of Effort.—
+
+&emsp;(1)
+
+Baseline.—Except as provided under paragraphs (2) and (3) and in accordance with section 5107 of the FAST Act, a State plan under subsection (c) shall provide that the total expenditure of amounts of the lead State commercial motor vehicle safety agency responsible for administering the plan will be maintained at a level each fiscal year that is at least equal to—
+
+&emsp;&emsp;(A) the average level of that expenditure for fiscal years 2004 and 2005; or
+
+&emsp;&emsp;(B) the level of that expenditure for the year in which the Secretary implements a new allocation formula under section 5106 of the FAST Act.
+
+&emsp;(2)
+
+Adjusted baseline after fiscal year 2017.—At the request of a State, the Secretary may evaluate additional documentation related to the maintenance of effort and may make reasonable adjustments to the maintenance of effort baseline after the year in which the Secretary implements a new allocation formula under section 5106 of the FAST Act, and this adjusted baseline will replace the maintenance of effort requirement under paragraph (1).
+
+&emsp;(3)
+
+Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that the waiver or modification is reasonable, based on circumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
+
+&emsp;(4)
+
+Level of state expenditures.—In estimating the average level of a State's expenditures under paragraph (1), the Secretary—
+
+&emsp;&emsp;(A) may allow the State to exclude State expenditures for federally sponsored demonstration and pilot programs and strike forces;
+
+&emsp;&emsp;(B) may allow the State to exclude expenditures for activities related to border enforcement and new entrant safety audits; and
+
+&emsp;&emsp;(C) shall require the State to exclude State matching amounts used to receive Federal financing under section 31104.
+
+(g)
+
+Use of Unified Carrier Registration Fees Agreement.—Amounts generated under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's match required under section 31104 or maintenance of effort required by subsection (f).
+
+(h)
+
+Use of Grants To Enforce Other Laws.—When approved as part of a State's plan under subsection (c), the State may use motor carrier safety assistance program funds received under this section—
+
+&emsp;(1) if the activities are carried out in conjunction with an appropriate inspection of a commercial motor vehicle to enforce Federal or State commercial motor vehicle safety regulations, for—
+
+&emsp;&emsp;(A) enforcement of commercial motor vehicle size and weight limitations at locations, excluding fixed-weight facilities, such as near steep grades or mountainous terrains, where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
+
+&emsp;&emsp;(B) detection of and enforcement actions taken as a result of criminal activity, including the trafficking of human beings, in a commercial motor vehicle or by any occupant, including the operator, of the commercial motor vehicle; and
+
+&emsp;(2) for documented enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles, including documented enforcement of such laws and regulations relating to noncommercial motor vehicles when necessary to promote the safe operation of commercial motor vehicles, if—
+
+&emsp;&emsp;(A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
+
+&emsp;&emsp;(B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretary determines that a higher percentage will result in significant increases in commercial motor vehicle safety.
+
+(i)
+
+Evaluation of Plans and Award of Grants.—
+
+&emsp;(1)
+
+Awards.—The Secretary shall establish criteria for the application, evaluation, and approval of State plans under this section. Subject to subsection (j), the Secretary may allocate the amounts made available under section 31104(a)(1) among the States.
+
+&emsp;(2)
+
+Opportunity to cure.—If the Secretary disapproves a plan under this section, the Secretary shall give the State a written explanation of the reasons for disapproval and allow the State to modify and resubmit the plan for approval.
+
+(j)
+
+Allocation of Funds.—
+
+&emsp;(1)
+
+In general.—The Secretary, by regulation, shall prescribe allocation criteria for funds made available under section 31104(a)(1).
+
+&emsp;(2)
+
+Annual allocations.—On October 1 of each fiscal year, or as soon as practicable thereafter, and after making a deduction under section 31104(c), the Secretary shall allocate amounts made available under section 31104(a)(1) to carry out this section for the fiscal year among the States with plans approved under this section in accordance with the criteria prescribed under paragraph (1).
+
+&emsp;(3)
+
+Elective adjustments.—Subject to the availability of funding and notwithstanding fluctuations in the data elements used by the Secretary to calculate the annual allocation amounts, after the creation of a new allocation formula under section 5106 of the FASTAct, the Secretary may not make elective adjustments to the allocation formula that decrease a State's Federal funding levels by more than 3 percent in a fiscal year. The 3 percent limit shall not apply to the withholding provisions of subsection (k).
+
+(k)
+
+Plan Monitoring.—
+
+&emsp;(1)
+
+In general.—On the basis of reports submitted by the lead State agency responsible for administering a State plan approved under this section and an investigation by the Secretary, the Secretary shall periodically evaluate State implementation of and compliance with the State plan.
+
+&emsp;(2)
+
+Withholding of funds.—
+
+&emsp;&emsp;(A)
+
+Disapproval.—If, after notice and an opportunity to be heard, the Secretary finds that a State plan previously approved under this section is not being followed or has become inadequate to ensure enforcement of State regulations, standards, or orders described in subsection (c)(1), or the State is otherwise not in compliance with the requirements of this section, the Secretary may withdraw approval of the State plan and notify the State. Upon the receipt of such notice, the State plan shall no longer be in effect and the Secretary shall withhold all funding to the State under this section.
+
+&emsp;&emsp;(B)
+
+Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and an opportunity to be heard, withhold funding from the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
+
+&emsp;&emsp;&emsp;(i) up to 5 percent of funds during the fiscal year that the Secretary notifies the State of its noncompliance;
+
+&emsp;&emsp;&emsp;(ii) up to 10 percent of funds for the first full fiscal year of noncompliance;
+
+&emsp;&emsp;&emsp;(iii) up to 25 percent of funds for the second full fiscal year of noncompliance; and
+
+&emsp;&emsp;&emsp;(iv) not more than 50 percent of funds for the third and any subsequent full fiscal year of noncompliance.
+
+&emsp;(3)
+
+Judicial review.—A State adversely affected by a determination under paragraph (2) may seek judicial review under chapter 7 of title 5. Notwithstanding the disapproval of a State plan under paragraph (2)(A) or the withholding of funds under paragraph (2)(B), the State may retain jurisdiction in an administrative or a judicial proceeding that commenced before the notice of disapproval or withholding if the issues involved are not related directly to the reasons for the disapproval or withholding.
+
+(l)
+
+High Priority Program.—
+
+&emsp;(1)
+
+In general.—The Secretary shall administer a high priority program funded under section 31104(a)(2) for the purposes described in paragraphs (2) and (3).
+
+&emsp;(2)
+
+Activities related to motor carrier safety.—The Secretary may make discretionary grants to and enter into cooperative agreements with States, local governments, federally recognized Indian tribes, other political jurisdictions as necessary, and any person to carry out high priority activities and projects that augment motor carrier safety activities and projects planned in accordance with subsections (b) and (c), including activities and projects that—
+
+&emsp;&emsp;(A) increase public awareness and education on commercial motor vehicle safety;
+
+&emsp;&emsp;(B) target unsafe driving of commercial motor vehicles and noncommercial motor vehicles in areas identified as high risk crash corridors;
+
+&emsp;&emsp;(C) improve the safe and secure movement of hazardous materials;
+
+&emsp;&emsp;(D) improve safe transportation of goods and persons in foreign commerce;
+
+&emsp;&emsp;(E) demonstrate new technologies to improve commercial motor vehicle safety;
+
+&emsp;&emsp;(F) support participation in performance and registration information systems management under section 31106(b)—
+
+&emsp;&emsp;&emsp;(i) for entities not responsible for submitting the plan under subsection (c); or
+
+&emsp;&emsp;&emsp;(ii) for entities responsible for submitting the plan under subsection (c)—
+
+&emsp;&emsp;&emsp;&emsp;(I) before October 1, 2020, to achieve compliance with the requirements of participation; and
+
+&emsp;&emsp;&emsp;&emsp;(II) beginning on October 1, 2020, or once compliance is achieved, whichever is sooner, for special initiatives or projects that exceed routine operations required for participation;
+
+&emsp;&emsp;(G) conduct safety data improvement projects—
+
+&emsp;&emsp;&emsp;(i) that complete or exceed the requirements under subsection (c)(2)(P) for entities not responsible for submitting the plan under subsection (c); or
+
+&emsp;&emsp;&emsp;(ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c); and
+
+&emsp;&emsp;(H) otherwise improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations.
+
+&emsp;(3)
+
+Innovative technology deployment grant program.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall establish an innovative technology deployment grant program to make discretionary grants to eligible States for the innovative technology deployment of commercial motor vehicle information systems and networks.
+
+&emsp;&emsp;(B)
+
+Purposes.—The purposes of the program shall be—
+
+&emsp;&emsp;&emsp;(i) to advance the technological capability and promote the deployment of intelligent transportation system applications for commercial motor vehicle operations, including commercial motor vehicle, commercial driver, and carrier-specific information systems and networks; and
+
+&emsp;&emsp;&emsp;(ii) to support and maintain commercial motor vehicle information systems and networks—
+
+&emsp;&emsp;&emsp;&emsp;(I) to link Federal motor carrier safety information systems with State commercial motor vehicle systems;
+
+&emsp;&emsp;&emsp;&emsp;(II) to improve the safety and productivity of commercial motor vehicles and drivers; and
+
+&emsp;&emsp;&emsp;&emsp;(III) to reduce costs associated with commercial motor vehicle operations and Federal and State commercial motor vehicle regulatory requirements.
+
+&emsp;&emsp;(C)
+
+Eligibility.—To be eligible for a grant under this paragraph, a State shall—
+
+&emsp;&emsp;&emsp;(i) have a commercial motor vehicle information systems and networks program plan approved by the Secretary that describes the various systems and networks at the State level that need to be refined, revised, upgraded, or built to accomplish deployment of commercial motor vehicle information systems and networks capabilities;
+
+&emsp;&emsp;&emsp;(ii) certify to the Secretary that its commercial motor vehicle information systems and networks deployment activities, including hardware procurement, software and system development, and infrastructure modifications—
+
+&emsp;&emsp;&emsp;&emsp;(I) are consistent with the national intelligent transportation systems and commercial motor vehicle information systems and networks architectures and available standards; and
+
+&emsp;&emsp;&emsp;&emsp;(II) promote interoperability and efficiency to the extent practicable; and
+
+&emsp;&emsp;&emsp;(iii) agree to execute interoperability tests developed by the Federal Motor Carrier Safety Administration to verify that its systems conform with the national intelligent transportation systems architecture, applicable standards, and protocols for commercial motor vehicle information systems and networks.
+
+&emsp;&emsp;(D)
+
+Use of funds.—Grant funds received under this paragraph may be used—
+
+&emsp;&emsp;&emsp;(i) for deployment activities and activities to develop new and innovative advanced technology solutions that support commercial motor vehicle information systems and networks;
+
+&emsp;&emsp;&emsp;(ii) for planning activities, including the development or updating of program or top level design plans in order to become eligible or maintain eligibility under subparagraph (C); and
+
+&emsp;&emsp;&emsp;(iii) for the operation and maintenance costs associated with innovative technology.
+
+&emsp;&emsp;(E)
+
+Secretary authorization.—The Secretary is authorized to award a State funding for the operation and maintenance costs associated with innovative technology deployment with funds made available under sections 31104(a)(1) and 31104(a)(2).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+31102(a)
+
+49 App.:2302(a).
+
+Jan. 6, 1983, Pub. L. 97–424, §402(a), (c), 96 Stat. 2155, 2156.
+
+31102(b)
+
+49 App.:2302(b), (d).
+
+Jan. 6, 1983, Pub. L. 97–424, §402(b), (d), 96 Stat. 2155, 2156; Dec. 18, 1991, Pub. L. 102–240, §4002(a), (b), 105 Stat. 2140.
+
+31102(c)
+
+49 App.:2302(e).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §402(e); added Dec. 18, 1991, Pub. L. 102–240, §4002(c), 105 Stat. 2142.
+
+31102(d)
+
+49 App.:2302(c).
+
+In this section, the word "rules" is omitted as being synonymous with "regulations".
+
+In subsection (a), the words "Subject to this section and the availability of amounts" are substituted for "Under the terms and conditions of this section, subject to the availability of funds" to eliminate unnecessary words.
+
+In subsection (b)(1), before clause (A), the word "prescribe" is substituted for "formulate" for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words "into law and practice" are omitted a unnecessary. In clause (O)(i), the words "highways of the United States" are substituted for "our Nation's highways" for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word "especially" is omitted as unnecessary.
+
+In subsection (b)(3)(B), the words "Government financing" are substituted for "Federal funding" for clarity and consistency in the revised title.
+
+In subsection (c), before clause (1), the words "type of" are omitted as unnecessary. In clause (1), the word "leave" is substituted for "exit" for clarity and consistency in the revised title.
+
+In subsection (d), the words "the regulations, standards, or orders" are substituted for "Federal rules, regulations, standards, or orders applicable to commercial motor vehicle safety or compatible State rules, regulations, standards, or orders" for consistency and to eliminate unnecessary words. The last sentence is substituted for 49 App.:2302(c) (last sentence) for clarity.
+
+#### References in Text
+
+Sections 5106 and 5107 of the FAST Act, referred to in subsecs. (f)(1), (2) and (j)(3), are sections 5106 and 5107 of Pub. L. 114–94, which are set out as notes below.
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to grants to States for programs to improve motor carrier safety.
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §32601(a)(1), amended heading generally, substituting "Motor Carrier Safety Assistance Program" for "State Plan Procedures and Contents".
+
+Subsec. (b)(1). Pub. L. 112–141, §32601(a)(3), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (b)(2). Pub. L. 112–141, §32601(a)(2), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(2)(I). Pub. L. 112–141, §32601(a)(4)(A), substituted "demonstrate" for "make a declaration of".
+
+Subsec. (b)(2)(M). Pub. L. 112–141, §32601(a)(4)(B), amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: "ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;".
+
+Subsec. (b)(2)(Q). Pub. L. 112–141, §32601(a)(4)(C), inserted "and dedicated sufficient resources to" after "has established".
+
+Subsec. (b)(2)(Y). Pub. L. 112–141, §32601(a)(4)(D)–(F), added subpar. (Y).
+
+Subsec. (b)(3). Pub. L. 112–141, §32601(a)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 112–141, §32601(a)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
+
+&emsp;"(A) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
+
+&emsp;"(B) shall require the State to exclude Government amounts and State matching amounts used to receive Government financing under subsection (a) of this section."
+
+Pub. L. 112–141, §32601(a)(2), redesignated par. (3) as (4).
+
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59, §4106(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "implements performance-based activities by fiscal year 2000;".
+
+Subsec. (b)(1)(E). Pub. L. 109–59, §4106(a)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: "provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;".
+
+Subsec. (b)(1)(Q). Pub. L. 109–59, §4106(a)(3), added subpar. (Q) and struck out former subpar. (Q) which read as follows: "provides that the State will establish a program to ensure the proper and timely correction of commercial motor vehicle safety violations noted during an inspection carried out with funds authorized under section 31104;".
+
+Subsec. (b)(1)(R). Pub. L. 109–59, §4106(a)(4), aligned margins.
+
+Subsec. (b)(1)(U) to (X). Pub. L. 109–59, §4106(a)(5)–(7), added subpars. (U) to (X).
+
+Subsec. (b)(3). Pub. L. 109–59, §4307(b), substituted "paragraph (1)(E)" for "paragraph (1)(D)" in introductory provisions.
+
+Subsec. (c). Pub. L. 109–59, §4106(b)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "A State may use amounts received under a grant under subsection (a) of this section for the following activities if the activities are carried out in conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
+
+&emsp;"(1) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States.
+
+&emsp;"(2) detection of the unlawful presence of a controlled substance (as defined under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)) in a commercial motor vehicle or on the person of any occupant (including the operator) of the vehicle.
+
+&emsp;"(3) enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles."
+
+Subsec. (e). Pub. L. 109–59, §4106(b)(2), added subsec. (e).
+
+<b>1999</b>—Subsec. (b)(1)(A). Pub. L. 106–159, §207(1), realigned subpar. (A) margins.
+
+Subsec. (b)(1)(R). Pub. L. 106–159, §207(2), added subpar. (R) and struck out former subpar. (R) which read as follows: "ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;".
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted "improving motor carrier safety and" after "implementation of programs for" and ", hazardous materials transportation safety," after "commercial motor vehicle safety".
+
+Subsec. (b)(1). Pub. L. 105–178, §4003(b)(2), in introductory provisions, substituted "assume responsibility for improving motor carrier safety and to adopt and enforce" for "adopt and assume responsibility for enforcing" and inserted ", hazardous materials transportation safety," after "commercial motor vehicle safety".
+
+Subsec. (b)(1)(A) to (I). Pub. L. 105–178, §4003(c)(6), (7), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively. Former subpar. (I) redesignated (J).
+
+Subsec. (b)(1)(J). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (I) as (J). Former subpar. (J) redesignated (K).
+
+Pub. L. 105–178, §4003(c)(1), substituted "subsection (c)(1)" for "subsection (c)".
+
+Subsec. (b)(1)(K) to (M). Pub. L. 105–178, §4003(c)(6), redesignated subpars. (J) to (L) as (K) to (M), respectively. Former subpar. (M) redesignated (N).
+
+Pub. L. 105–178, §4003(c)(2), added subpars. (K) to (M) and struck out former subpars. (K) to (M) which read as follows:
+
+"(K) ensures that fines imposed and collected by the State for violations of commercial motor vehicle safety regulations will be reasonable and appropriate and that, to the maximum extent practicable, the State will attempt to implement the recommended fine schedule published by the Commercial Vehicle Safety Alliance;
+
+"(L) ensures that the State agency will coordinate the plan prepared under this section with the State highway safety plan under section 402 of title 23;
+
+"(M) ensures participation by the 48 contiguous States in SAFETYNET not later than January 1, 1994;".
+
+Subsec. (b)(1)(N). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (M) as (N). Former subpar. (N) redesignated (O).
+
+Subsec. (b)(1)(O). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
+
+Pub. L. 105–178, §4003(c)(3), inserted "in support of national priorities and performance goals, including" after "activities" in introductory provisions, substituted "activities aimed at removing" for "to remove" in cl. (i), substituted "activities aimed at providing" for "to provide" and inserted "and" after semicolon in cl. (ii), added cl. (iii), and struck out former cls. (iii) and (iv) which read as follows:
+
+"(iii) to promote enforcement of the requirements related to the licensing of commercial motor vehicle drivers, including checking the status of commercial drivers' licenses; and
+
+"(iv) to improve enforcement of hazardous material transportation regulations by encouraging more inspections of shipper facilities affecting highway transportation and more comprehensive inspection of the loads of commercial motor vehicles transporting hazardous material;".
+
+Subsec. (b)(1)(P). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (O) as (P). Former subpar. (P) redesignated (Q).
+
+Pub. L. 105–178, §4003(c)(4), added subpar. (P) and struck out former subpar. (P) which read as follows: "provides satisfactory assurances that the State will promote effective—
+
+&emsp;"(i) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
+
+&emsp;"(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety; and".
+
+Subsec. (b)(1)(Q). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (P) as (Q). Former subpar. (Q) redesignated (R).
+
+Pub. L. 105–178, §4003(c)(5)(A), substituted "sections 31138 and 31139" for "sections 31140 and 31146".
+
+Subsec. (b)(1)(R). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (Q) as (R).
+
+Subsec. (b)(1)(S), (T). Pub. L. 105–178, §4003(c)(5)(B), (8), added subpars. (S) and (T).
+
+<b>1995</b>—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. A, title V, §5101(f), Dec. 4, 2015, 129 Stat. 1526, provided that: "The amendments made by this section \[amending this section and sections 31103, 31104, 31106, and 31144 of this title, repealing sections 31107 and 31109 of this title, amending provisions set out as a note under section 31133 of this title, and repealing provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title\] shall take effect on October 1, 2016."
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
+
+#### Transition
+
+Pub. L. 114–94, div. A, title V, §5101(g), Dec. 4, 2015, 129 Stat. 1526, provided that: "Notwithstanding the amendments made by this section \[see Effective Date of 2015 Amendment note above\], the Secretary \[of Transportation\] shall carry out sections 31102, 31103, and 31104 of title 49, United States Code, and any sections repealed under subsection (e) \[repealing sections 31107 and 31109 of this title and provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title\], as necessary, as those sections were in effect on the day before October 1, 2016, with respect to applications for grants, cooperative agreements, or contracts under those sections submitted before October 1, 2016."
+
+#### Motor Carrier Safety Assistance Program Allocation
+
+Pub. L. 114–94, div. A, title V, §5106, Dec. 4, 2015, 129 Stat. 1530, provided that:
+
+"(a)
+
+Working Group.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall establish a motor carrier safety assistance program formula working group (in this section referred to as the 'working group').
+
+&emsp;"(2)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to subparagraph (B), the working group shall consist of representatives of the following:
+
+&emsp;&emsp;&emsp;"(i) The Federal Motor Carrier Safety Administration.
+
+&emsp;&emsp;&emsp;"(ii) The lead State commercial motor vehicle safety agencies responsible for administering the plan required by section 31102 of title 49, United States Code.
+
+&emsp;&emsp;&emsp;"(iii) An organization representing State agencies responsible for enforcing a program for inspection of commercial motor vehicles.
+
+&emsp;&emsp;&emsp;"(iv) Such other persons as the Secretary considers necessary.
+
+&emsp;&emsp;"(B)
+
+Composition.—Representatives of State commercial motor vehicle safety agencies shall comprise at least 51 percent of the membership.
+
+&emsp;"(3)
+
+New allocation formula.—The working group shall analyze requirements and factors for the establishment of a new allocation formula for the motor carrier safety assistance program under section 31102 of title 49, United States Code.
+
+&emsp;"(4)
+
+Recommendation.—Not later than 1 year after the date the working group is established under paragraph (1), the working group shall make a recommendation to the Secretary regarding a new allocation formula for the motor carrier safety assistance program.
+
+&emsp;"(5)
+
+Exemption.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this subsection.
+
+&emsp;"(6)
+
+Publication.—The Administrator of the Federal Motor Carrier Safety Administration shall publish on a publicly accessible Internet Web site of the Federal Motor Carrier Safety Administration—
+
+&emsp;&emsp;"(A) detailed summaries of the meetings of the working group; and
+
+&emsp;&emsp;"(B) the final recommendation of the working group provided to the Secretary.
+
+"(b)
+
+Notice of Proposed Rulemaking.—After receiving the recommendation of the working group under subsection (a)(4), the Secretary shall publish in the Federal Register a notice seeking public comment on the establishment of a new allocation formula for the motor carrier safety assistance program.
+
+"(c)
+
+Basis for Formula.—The Secretary shall ensure that the new allocation formula for the motor carrier safety assistance program is based on factors that reflect, at a minimum—
+
+&emsp;"(1) the relative needs of the States to comply with section 31102 of title 49, United States Code;
+
+&emsp;"(2) the relative administrative capacities of and challenges faced by States in complying with that section;
+
+&emsp;"(3) the average of each State's new entrant motor carrier inventory for the 3-year period prior to the date of enactment of this Act;
+
+&emsp;"(4) the number of international border inspection facilities and border crossings by commercial vehicles in each State; and
+
+&emsp;"(5) any other factors the Secretary considers appropriate.
+
+"(d)
+
+Funding Amounts Prior to Development of New Allocation Formula.—
+
+&emsp;"(1)
+
+Interim formula.—Prior to the development of the new allocation formula for the motor carrier safety assistance program, the Secretary may calculate the interim funding amounts for that program in fiscal year 2017 (and later fiscal years, as necessary) under section 31104(a)(1) of title 49, United States Code, as amended by this subtitle, by using the following methodology:
+
+&emsp;&emsp;"(A) The Secretary shall calculate the funding amount to a State using the allocation formula the Secretary used to award motor carrier safety assistance program funding in fiscal year 2016 under section 31102 of title 49, United States Code.
+
+&emsp;&emsp;"(B) The Secretary shall average the funding awarded or other equitable amounts to a State in fiscal years 2013, 2014, and 2015 for—
+
+&emsp;&emsp;&emsp;"(i) border enforcement grants under section 31107 of title 49, United States Code; and
+
+&emsp;&emsp;&emsp;"(ii) new entrant audit grants under section 31144(g)(5) of that title.
+
+&emsp;&emsp;"(C) The Secretary shall add the amounts calculated in subparagraphs (A) and (B).
+
+&emsp;"(2)
+
+Adjustments.—Subject to the availability of funding and notwithstanding fluctuations in the data elements used by the Secretary, the initial amounts resulting from the calculation described in paragraph (1) shall be adjusted to ensure that, for each State, the amount shall not be less than 97 percent of the average amount of funding received or other equitable amounts in fiscal years 2013, 2014, and 2015 for—
+
+&emsp;&emsp;"(A) motor carrier safety assistance program funds awarded to the State under section 31102 of title 49, United States Code;
+
+&emsp;&emsp;"(B) border enforcement grants awarded to the State under section 31107 of title 49, United States Code; and
+
+&emsp;&emsp;"(C) new entrant audit grants awarded to the State under section 31144(g)(5) of title 49, United States Code.
+
+&emsp;"(3)
+
+Immediate relief.—On the date of enactment of this Act, and for the 3 fiscal years following the implementation of the new allocation formula, the Secretary shall terminate the withholding of motor carrier safety assistance program funds from a State if the State was subject to the withholding of such funds for matters of noncompliance immediately prior to the date of enactment of this Act.
+
+&emsp;"(4)
+
+Future withholdings.—Beginning on the date that the new allocation formula for the motor carrier safety assistance program is implemented, the Secretary shall impose all future withholdings in accordance with section 31102(k) of title 49, United States Code, as amended by this subtitle.
+
+"(e)
+
+Termination of Working Group.—The working group established under subsection (a) shall terminate on the date of the implementation of the new allocation formula for the motor carrier safety assistance program."
+
+#### Maintenance of Effort Calculation
+
+Pub. L. 114–94, div. A, title V, §5107, Dec. 4, 2015, 129 Stat. 1532, provided that:
+
+"(a)
+
+Before New Allocation Formula.—
+
+&emsp;"(1)
+
+Fiscal year 2017.—If a new allocation formula for the motor carrier safety assistance program has not been established under this subtitle \[subtitle A (§§5101–5107) of title V of div. A of Pub. L. 114–94, see Tables for classification\] for fiscal year 2017, the Secretary \[of Transportation\] shall calculate for fiscal year 2017 the maintenance of effort baseline required under section 31102(f) of title 49, United States Code, as amended by this subtitle, by averaging the expenditures for fiscal years 2004 and 2005 required by section 31102(b)(4) of title 49, United States Code, as that section was in effect on the day before the date of enactment of this Act \[Dec. 4, 2015\].
+
+&emsp;"(2)
+
+Subsequent fiscal years.—The Secretary may use the methodology for calculating the maintenance of effort baseline specified in paragraph (1) for fiscal year 2018 and subsequent fiscal years if a new allocation formula for the motor carrier safety assistance program has not been established for that fiscal year.
+
+"(b)
+
+Beginning With New Allocation Formation.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraphs (2) and (3)(B), beginning on the date that a new allocation formula for the motor carrier safety assistance program is established under this subtitle, upon the request of a State, the Secretary may waive or modify the baseline maintenance of effort required of the State by section 31102(f) of title 49, United States Code, as amended by this subtitle, for the purpose of establishing a new baseline maintenance of effort if the Secretary determines that a waiver or modification—
+
+&emsp;&emsp;"(A) is equitable due to reasonable circumstances;
+
+&emsp;&emsp;"(B) will ensure the continuation of commercial motor vehicle enforcement activities in the State; and
+
+&emsp;&emsp;"(C) is necessary to ensure that the total amount of State maintenance of effort and matching expenditures required under sections 31102 and 31104 of title 49, United States Code, as amended by this subtitle, does not exceed a sum greater than the average of the total amount of State maintenance of effort and matching expenditures required under those sections for the 3 fiscal years prior to the date of enactment of this Act.
+
+&emsp;"(2)
+
+Adjustment methodology.—If requested by a State, the Secretary may modify the maintenance of effort baseline referred to in paragraph (1) for the State according to the following methodology:
+
+&emsp;&emsp;"(A) The Secretary shall establish the maintenance of effort baseline for the State using the average baseline of fiscal years 2004 and 2005, as required by section 31102(b)(4) of title 49, United States Code, as that section was in effect on the day before the date of enactment of this Act.
+
+&emsp;&emsp;"(B) The Secretary shall calculate the average required match by a lead State commercial motor vehicle safety agency for fiscal years 2013, 2014, and 2015 for motor carrier safety assistance grants established at 20 percent by section 31103 of title 49, United States Code, as that section was in effect on the day before the date of enactment of this Act.
+
+&emsp;&emsp;"(C) The Secretary shall calculate the estimated match required under section 31104(b) of title 49, United States Code, as amended by this subtitle.
+
+&emsp;&emsp;"(D) The Secretary shall subtract the amount in subparagraph (B) from the amount in subparagraph (C) and—
+
+&emsp;&emsp;&emsp;"(i) if the number is greater than 0, the Secretary shall subtract the number from the amount in subparagraph (A); or
+
+&emsp;&emsp;&emsp;"(ii) if the number is not greater than 0, the Secretary shall calculate the maintenance of effort using the methodology in subparagraph (A).
+
+&emsp;"(3)
+
+Maintenance of effort amount.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall use the amount calculated under paragraph (2) as the baseline maintenance of effort required under section 31102(f) of title 49, United States Code, as amended by this subtitle.
+
+&emsp;&emsp;"(B)
+
+Deadline.—If a State does not request a waiver or modification under this subsection before September 30 during the first fiscal year that the Secretary implements a new allocation formula for the motor carrier safety assistance program under this subtitle, the Secretary shall calculate the maintenance of effort using the methodology described in paragraph (2)(A).
+
+&emsp;"(4)
+
+Maintenance of effort described.—The maintenance of effort calculated under this section is the amount required under section 31102(f) of title 49, United States Code, as amended by this subtitle.
+
+"(c)
+
+Termination of Effectiveness.—The authority of the Secretary under this section shall terminate effective on the date that a new maintenance of effort baseline is calculated based on a new allocation formula for the motor carrier safety assistance program implemented under section 31102 of title 49, United States Code."
+
+#### Relationship to Other Laws
+
+Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under section 13902 of this title.
+
+#### Maintenance of Effort
+
+Pub. L. 106–159, title I, §103(c), Dec. 9, 1999, 113 Stat. 1753, which related to maintenance of effort as condition on grants to States, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(8), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
+
+#### State Compliance With CDL Requirements
+
+Pub. L. 106–159, title I, §103(e), Dec. 9, 1999, 113 Stat. 1754, which related to State compliance with CDL requirements and withholding of funds for noncompliance, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(9), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
+
+#### Effects of MCSAP Grant Reductions
+
+Pub. L. 105–178, title IV, §4032, June 9, 1998, 112 Stat. 419, required the Secretary of Transportation to conduct a study and submit a report not later than twoyears after June 9, 1998, on the effects of reductions of grants under this section and authorized the Secretary to adjust State allocations under section 31103 of this title based on the study.
+

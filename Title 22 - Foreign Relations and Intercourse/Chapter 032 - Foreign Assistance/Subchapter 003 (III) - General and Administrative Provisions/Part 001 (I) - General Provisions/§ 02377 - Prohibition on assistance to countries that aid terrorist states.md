@@ -2,7 +2,7 @@
 
 #### (a) Withholding of assistance
 
-The President shall withhold assistance under this chapter to the government of any countrythat provides assistance to the government of any other country for which the Secretary of State has made a determination under section 2371 of this title.
+The President shall withhold assistance under this chapter to the government of any country that provides assistance to the government of any other country for which the Secretary of State has made a determination under section 2371 of this title.
 
 #### (b) Waiver
 

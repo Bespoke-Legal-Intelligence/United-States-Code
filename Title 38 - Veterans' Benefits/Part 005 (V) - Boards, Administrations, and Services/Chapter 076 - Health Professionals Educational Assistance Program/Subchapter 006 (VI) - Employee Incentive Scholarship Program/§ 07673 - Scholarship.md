@@ -36,7 +36,7 @@ Full-Time Coursework.—For purposes of this section, full-time coursework shall
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–135, §101(c)(1), substituted "for the equivalent of one year of full-time coursework" for "for any 1 year".
 
-Subsec. (b)(2). Pub. L. 107–135, §101(c)(2), added par. (2) and struck out former par. (2) which read as follows: "in the case of a participant in the Program who is apart-time student, shall be the amount specified in paragraph (1) reduced in accordance with the proportion that the number of credit hours carried by the participant in that school year bears to the number of credit hours required to be carried by a full-time student in the course of education or training being pursued by the participant."
+Subsec. (b)(2). Pub. L. 107–135, §101(c)(2), added par. (2) and struck out former par. (2) which read as follows: "in the case of a participant in the Program who is a part-time student, shall be the amount specified in paragraph (1) reduced in accordance with the proportion that the number of credit hours carried by the participant in that school year bears to the number of credit hours required to be carried by a full-time student in the course of education or training being pursued by the participant."
 
 Subsec. (c). Pub. L. 107–135, §101(d), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 

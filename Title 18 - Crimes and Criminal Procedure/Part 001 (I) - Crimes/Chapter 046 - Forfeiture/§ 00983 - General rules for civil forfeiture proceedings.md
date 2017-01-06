@@ -16,7 +16,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(iv) In a case in which the property is seized by a State or local law enforcement agency and turned over to a Federal law enforcement agency for the purpose of forfeiture under Federal law, notice shall be sent not more than 90 days after the date of seizure by the State or local law enforcement agency.
 
-&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
+&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent tosuch interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
 
 &emsp;(B) A supervisory official in the headquarters office of the seizing agency may extend the period for sending notice under subparagraph (A) for a period not to exceed 30 days (which period may not be further extended except by a court), if the official determines that the conditions in subparagraph (D) are present.
 
@@ -74,7 +74,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(4)(A) In any case in which the Government files in the appropriate United States district court a complaint for forfeiture of property, any person claiming an interest in the seized property may file a claim asserting such person's interest in the property in the manner set forth in the Supplemental Rules for Certain Admiralty and Maritime Claims, except that such claim may be filed not later than 30 days after the date of service of the Government's complaint or, as applicable, not later than 30 days after the date of final publication of notice of the filing of the complaint.
 
-&emsp;(B) A person asserting an interest in seized property, in accordance with subparagraph (A), shall file an answer to the Government's complaint for forfeiture not later than 20 days after the date of the filing of the claim.
+&emsp;(B) A person asserting an interest in seized property, in accordance with subparagraph (A), shall file an answer to the Government'scomplaint for forfeiture not later than 20 days after the date of the filing of the claim.
 
 (b)
 
@@ -124,7 +124,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(II) in a timely fashion revoked or made a good faith attempt to revoke permission for those engaging in such conduct to use the property or took reasonable actions in consultation with a law enforcement agency to discourage or prevent the illegal use of the property.
 
-&emsp;(ii) A person is not required by this subparagraph to take steps that the person reasonablybelieves would be likely to subject any person (other than the person whose conduct gave rise to the forfeiture) to physical danger.
+&emsp;(ii) A person is not required by this subparagraph to take steps that the person reasonably believes would be likely to subject any person (other than the person whose conduct gave rise to the forfeiture) to physical danger.
 
 &emsp;(3)(A) With respect to a property interest acquired after the conduct giving rise to the forfeiture has taken place, the term "innocent owner" means a person who, at the time that person acquired the interest in the property—
 
@@ -142,7 +142,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(iv) the claimant acquired his or her interest in the property through marriage, divorce, or legal separation, or the claimant was the spouse or legal dependent of a person whose death resulted in the transfer of the property to the claimant through inheritance or probate,
 
-> &emsp;except that the court shall limit the value of any real property interest for which innocent ownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for such claimant and all dependents residing with the claimant.
+> &emsp;except that the court shall limit the value of any real property interest for which innocentownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for such claimant and all dependents residing with the claimant.
 
 &emsp;(4) Notwithstanding any provision of this subsection, no person may assert an ownership interest under this subsection in contraband or other property that it is illegal to possess.
 
@@ -200,7 +200,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(B) the claimant has sufficient ties to the community to provide assurance that the property will be available at the time of the trial;
 
-&emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing anindividual from working, or leaving an individual homeless;
+&emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing an individual from working, or leaving an individual homeless;
 
 &emsp;&emsp;(D) the claimant's likely hardship from the continued possession by the Government of the seized property outweighs the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is returned to the claimant during the pendency of the proceeding; and
 
@@ -216,7 +216,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(ii) the steps the claimant has taken to secure release of the property from the appropriate official.
 
-&emsp;(4) If the Government establishes that the claimant's claim is frivolous, the court shall deny the petition. In responding to a petition under this subsection on other grounds, the Government may in appropriate cases submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
+&emsp;(4) If the Government establishes that the claimant's claim is frivolous, the court shall deny the petition. In responding to a petition under this subsection on other grounds, the Government may in appropriate cases submit evidence ex parte in order to avoid disclosingany matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
 
 &emsp;(5) The court shall render a decision on a petition filed under paragraph (3) not later than 30 days after the date of the filing, unless such 30-day limitation is extended by consent of the parties or by the court for good cause shown.
 
@@ -286,7 +286,7 @@ Civil Forfeiture Statute Defined.—In this section, the term "civil forfeiture 
 
 &emsp;&emsp;(C) the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.);
 
-&emsp;&emsp;(D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) <sup>1</sup> or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or
+&emsp;&emsp;(D) the Trading with the Enemy Act (50 U.S.C. 4301 et seq.), the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), or the North Korea Sanctions Enforcement Act of 2016; <sup>1</sup> or
 
 &emsp;&emsp;(E) section 1 of title VI of the Act of June 15, 1917 (40 Stat. 233; 22 U.S.C. 401).
 
@@ -310,7 +310,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
 
 #### References in Text
 
@@ -324,13 +324,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (i)(2)(B), is classifi
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified principally to chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified principally to chapter 53 (§4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+The North Korea Sanctions Enforcement Act of 2016, referred to in subsec. (i)(2)(D), probably means the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–222, Feb. 18, 2016, 130 Stat. 93, which is classified principally to chapter 99 (§9201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 22 and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (i)(2)(D). Pub. L. 114–122 amended subpar. (D) generally. Prior to amendment, text read as follows: "the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or".
 
 <b>2009</b>—Subsec. (j)(3). Pub. L. 111–16 substituted "14 days" for "10 days".
 

@@ -70,7 +70,7 @@ Request for iaea reports.—The Secretary of State shall direct the United State
 
 &emsp;"(2)
 
-Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
+Annual reports to the congress.—Not later than 180 days after the date of the enactment of thisAct \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
 
 #### Privileges, Exemptions, and Immunities
 

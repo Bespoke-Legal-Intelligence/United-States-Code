@@ -12,7 +12,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(2) seal all portals, entryways, drifts, shafts, or other openings between the surface and underground mine working when no longer needed for the conduct of the mining operations;
 
-&emsp;(3) fill or seal exploratory holes no longer necessary for mining, maximizing to the extent technologically and economically feasiblereturn of mine and processing waste, tailings, and any other waste incident to the mining operation, to the mine workings or excavations;
+&emsp;(3) fill or seal exploratory holes no longer necessary for mining, maximizing to the extent technologically and economically feasible return of mine and processing waste, tailings, and any other waste incident to the mining operation, to the mine workings or excavations;
 
 &emsp;(4) with respect to surface disposal of mine wastes, tailings, coal processing wastes, and other wastes in areas other than the mine workings or excavations, stabilize all waste piles created by the permittee from current operations through construction in compacted layers including the use of incombustible and impervious materials if necessary and assure that the leachate will not degrade below water quality standards established pursuant to applicable Federal and State law surface or ground waters and that the final contour of the waste accumulation will be compatible with natural surroundings and that the site is stabilized and revegetated according to the provisions of this section;
 
@@ -32,7 +32,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;&emsp;&emsp;(ii) treating drainage to reduce toxic content which adversely affects downstream water upon being released to water courses;
 
-&emsp;&emsp;&emsp;(iii) casing, sealing, or otherwise managing boreholes, shafts, and wells to keep acid or other toxic drainage from entering ground and surface waters; and
+&emsp;&emsp;&emsp;(iii) casing, sealing, or otherwise managing boreholes, shafts, and wells to keepacid or other toxic drainage from entering ground and surface waters; and
 
 &emsp;&emsp;(B) conducting surface coal mining operations so as to prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow or runoff outside the permit area (but in no event shall such contributions be in excess of requirements set by applicable State or Federal law), and avoiding channel deepening or enlargement in operations requiring the discharge of water from mines;
 

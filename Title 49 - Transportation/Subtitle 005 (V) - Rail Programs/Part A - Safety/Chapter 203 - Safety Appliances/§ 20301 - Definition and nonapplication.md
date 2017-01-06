@@ -10,7 +10,7 @@ Nonapplication.—This chapter does not apply to the following:
 
 &emsp;(1) a train of 4-wheel coal cars.
 
-&emsp;(2) a train of 8-wheel standard logging cars if the height of each car from the top of the rail to the center of the coupling is not more than 25 inches.
+&emsp;(2) a train of 8-wheel standard logging cars if the height of each car from the top of the railto the center of the coupling is not more than 25 inches.
 
 &emsp;(3) a locomotive used in hauling a train referred to in clause (2) of this subsection when the locomotive and cars of the train are used only to transport logs.
 

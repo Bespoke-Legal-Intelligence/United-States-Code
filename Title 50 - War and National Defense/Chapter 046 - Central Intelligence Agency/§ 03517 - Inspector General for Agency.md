@@ -52,7 +52,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(D) a certification that the Inspector General has had full and direct access to all information relevant to the performance of his functions;
 
-&emsp;(E) a description of the exercise of the subpoena authority under subsection (e)(5) of this section by the Inspector General during the reporting period; and
+&emsp;(E) a description of the exercise of the subpoena authority under subsection (e)(5) by the Inspector General during the reporting period; and
 
 &emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
 
@@ -120,7 +120,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;&emsp;(II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
+&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee's reporting an urgent concern in accordance with this paragraph.
 
 &emsp;(ii) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
@@ -132,7 +132,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (2) The Inspector General shall have access to any employee or any employee of a contractor of the Agency whose testimony is needed for the performance of his duties. In addition, he shall have direct access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which relate to the programs and operations with respect to which the Inspector General has responsibilities under this section. Failure on the part of any employee or contractor to cooperate with the Inspector General shall be grounds for appropriate administrative actions by the Director, to include loss of employment or the termination of an existing contractual relationship.
 
-(3) The Inspector General is authorized to receive and investigate complaints or informationfrom any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
+(3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
 
 &emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
@@ -178,7 +178,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (1) Beginning with fiscal year 1991, and in accordance with procedures to be issued by the Director of National Intelligence in consultation with the intelligence committees, the Director of National Intelligence shall include in the National Intelligence Program budget a separate account for the Office of Inspector General established pursuant to this section.
 
-(2) For each fiscal year, the Inspector General shall transmit a budget estimate and requestthrough the Director to the Director of National Intelligence that specifies for such fiscal year—
+(2) For each fiscal year, the Inspector General shall transmit a budget estimate and request through the Director to the Director of National Intelligence that specifies for such fiscal year—
 
 &emsp;(A) the aggregate amount requested for the operations of the Inspector General;
 
@@ -242,7 +242,7 @@ Subsec. (d)(5)(H). Pub. L. 113–126, §603(b)(2), added subpar. (H).
 
 <b>2012</b>—Subsec. (h). Pub. L. 112–87 added subsec. (h).
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–259, §425(a), substituted "This appointment shall be made without regard to political affiliation and shall be on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigation. Such appointment shall also be made on the basis of compliance with the security standards of the Agency and prior experience in the field of foreign intelligence." for "This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity,compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing."
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–259, §425(a), substituted "This appointment shall be made without regard to political affiliation and shall be on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigation. Such appointment shall also be made on the basis of compliance with the security standards of the Agency and prior experience in the field of foreign intelligence." for "This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing."
 
 Subsec. (b)(6). Pub. L. 111–259, §425(b), struck out "immediately" after "President shall" and substituted "not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal." for period at end.
 
@@ -320,7 +320,7 @@ Subsec. (d)(4). Pub. L. 103–359, §402(5), inserted "or findings and recommend
 
 Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted "the Inspector General shall" for "it is the sense of Congress that the Inspector General should".
 
-<b>1992</b>—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted "any person" for "an employeeof the Agency" and inserted "from an employee of the Agency" after "received".
+<b>1992</b>—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted "any person" for "an employee of the Agency" and inserted "from an employee of the Agency" after "received".
 
 <b>1989</b>—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
 

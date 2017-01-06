@@ -170,7 +170,7 @@ A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is clas
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservationof amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
+<b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservation of amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
 
 #### Effective Date of 2009 Amendment
 

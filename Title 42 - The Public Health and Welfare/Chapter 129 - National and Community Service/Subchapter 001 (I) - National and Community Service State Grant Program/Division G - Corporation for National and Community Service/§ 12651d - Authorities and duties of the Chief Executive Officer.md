@@ -56,7 +56,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(C) information on the results achieved by the programs funded under the national service laws during the year preceding the year in which the report is prepared;
 
-&emsp;(11) provide for studies (including the evaluations described in subsection (f) of this section) and demonstrations that evaluate, and prepare and submit to the Board periodically, a report containing recommendations regarding, issues related to—
+&emsp;(11) provide for studies (including the evaluations described in subsection (f)) and demonstrations that evaluate, and prepare and submit to the Board periodically, a report containing recommendations regarding, issues related to—
 
 &emsp;&emsp;(A) the administration and organization of programs authorized under the national service laws or under Public Law 91–378 \[16 U.S.C. 1701 et seq.\] (referred to in this subparagraph as "service programs"), including—
 
@@ -78,7 +78,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;(vii) other issues that the Director determines to be relevant to the administration and organization of the service programs; and
 
-&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\] related to community service;
+&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service;
 
 &emsp;(12) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
 
@@ -168,7 +168,7 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 #### (e) Actions
 
-In an action described in subsection (c)(7) of this section—
+In an action described in subsection (c)(7)—
 
 &emsp;(1) a district court referred to in such subsection shall have jurisdiction of such a civil action without regard to the amount in controversy;
 
@@ -182,17 +182,17 @@ In an action described in subsection (c)(7) of this section—
 
 #### (1) Evaluation of living allowance
 
-&emsp;The Corporation shall arrange for an independent evaluation to determine the levels of living allowances paid in all programs under divisions C and I of this subchapter, individually, by State, and by region. Such evaluation shall determine the effects that such living allowances have had on the ability of individuals to participate in such programs.
+&emsp;The Corporation shall arrange for an independent evaluation to determine the levels of living allowances paid in all programs under divisions C and I, individually, by State, and by region. Such evaluation shall determine the effects that such living allowances have had on the ability of individuals to participate in such programs.
 
 #### (2) Evaluation of success of investment in national service
 
 #### (A) Evaluation required
 
-&emsp;&emsp;The Corporation shall arrange for the independent evaluation of the operation of division C of this subchapter to determine the levels of participation of economically disadvantaged individuals in national service programs carried out or supported using assistance provided under section 12571 of this title.
+&emsp;&emsp;The Corporation shall arrange for the independent evaluation of the operation of division C to determine the levels of participation of economically disadvantaged individuals in national service programs carried out or supported using assistance provided under section 12571 of this title.
 
 #### (B) Period covered by evaluation
 
-&emsp;&emsp;The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under section 12571 of this title, and ending on adate that is as close as is practicable to the the <sup>3</sup> first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act.
+&emsp;&emsp;The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under section 12571 of this title, and ending on a date that is as close as is practicable to the the <sup>3</sup> first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act.
 
 #### (C) Income levels of participants
 
@@ -246,7 +246,7 @@ Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug
 
 This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (b)(17) and (g)(1), (2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. Title II of the Act is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 

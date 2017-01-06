@@ -86,7 +86,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;(ii) permit effective enforcement of the conservation purposes of such easements;
 
-&emsp;&emsp;&emsp;(iii) include a right of enforcement for the Secretary, that may be used only if theterms of the easement are not enforced by the holder of the easement;
+&emsp;&emsp;&emsp;(iii) include a right of enforcement for the Secretary, that may be used only if the terms of the easement are not enforced by the holder of the easement;
 
 &emsp;&emsp;&emsp;(iv) subject the land in which an interest is purchased to an agricultural land easement plan that—
 
@@ -148,7 +148,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;If the Secretary finds that a certified eligible entity no longer meets the criteria established under subparagraph (B), the Secretary may—
 
-&emsp;&emsp;&emsp;&emsp;(I) allow the certified eligible entity a specified period of time, at a minimum 180 days, in which to take such actions as may be necessary to meet the criteria; and
+&emsp;&emsp;&emsp;&emsp;(I) allow the certified eligible entity a specified period of time, at a minimum180 days, in which to take such actions as may be necessary to meet the criteria; and
 
 &emsp;&emsp;&emsp;&emsp;(II) revoke the certification of the eligible entity, if, after the specified period of time, the certified eligible entity does not meet such criteria.
 

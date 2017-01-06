@@ -258,6 +258,12 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–242, §1, Oct. 7, 2016, 130 Stat. 978, provided that: "This Act \[amending section 40122 of this title and enacting provisions set out as notes under section 40122 of this title\] may be cited as the 'Federal Aviation Administration Veteran Transition Improvement Act of 2016'."
+
+Pub. L. 114–190, §1(a), July 15, 2016, 130 Stat. 615, provided that: "This Act \[see Tables for classification\] may be cited as the 'FAA Extension, Safety, and Security Act of 2016'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–113, div. O, title IV, §401, Dec. 18, 2015, 129 Stat. 3000, provided that: "This title \[enacting section 10609 of Title 42, The Public Health and Welfare, amending section 905 of Title 2, The Congress, enacting provisions set out as a note under section 905 of Title 2, and amending provisions set out as notes under this section\] may be cited as the 'James Zadroga 9/11 Victim Compensation Fund Reauthorization Act'."
@@ -334,7 +340,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: "This Act \
 
 Pub. L. 104–264, §1(a), Oct. 9, 1996, 110 Stat. 3213, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Aviation Reauthorization Act of 1996'."
 
-Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121,40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
+Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
 
 Pub. L. 104–264, title II, §278(a), Oct. 9, 1996, 110 Stat. 3249, provided that: "This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the 'Rural Air Service Survival Act'."
 
@@ -406,7 +412,7 @@ Termination.—The requirement to submit a report under subparagraph (A) shall t
 
 "(c)
 
-UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' meansthe National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
+UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
 
 #### Prohibition on Participation in European Union's Emissions Trading Scheme
 
@@ -466,7 +472,7 @@ Exclusion of Payment of Taxes and Penalties.—Actions taken under subsection (a
 
 #### NextGen Air Transportation System and Air Traffic Control Modernization
 
-Pub. L. 112–95, title II, §§201, 202, 211–222, Feb. 14, 2012, 126 Stat. 36, 44–54, provided that:
+Pub. L. 112–95, title II, §§201, 202, 211–222, Feb. 14, 2012, 126 Stat. 36, 44–54, as amended by Pub. L. 114–328, div. A, title III, §341(b), Dec. 23, 2016, 130 Stat. 2081, provided that:
 
 #### "SEC. 201. DEFINITIONS.
 
@@ -652,7 +658,7 @@ OEP airports report.—Not later than 6 months after the date of enactment of th
 
 &emsp;&emsp;"(A)
 
-RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
+RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35 operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
 
 &emsp;&emsp;"(B)
 
@@ -759,6 +765,34 @@ In general.—Navigation performance and area navigation procedures developed, c
 &emsp;"(2)
 
 Nextgen procedures.—Any navigation performance or other performance based navigation procedure developed, certified, published, or implemented that, in the determination of the Administrator, would result in measurable reductions in fuel consumption, carbon dioxide emissions, and noise, on a per flight basis, as compared to aircraft operations that follow existing instrument flight rules procedures in the same airspace, shall be presumed to have no significant affect on the quality of the human environment and the Administrator shall issue and file a categorical exclusion for the new procedure.
+
+&emsp;"(3)
+
+Notifications and consultations.—Not later than 90 days before applying a categorical exclusion under this subsection to a new procedure at an OEP airport, the Administrator shall—
+
+&emsp;&emsp;"(A) notify and consult with the operator of the airport at which the procedure would be implemented; and
+
+&emsp;&emsp;"(B) consider consultations or other engagement with the community in the \[sic\] which the airport is located to inform the public of the procedure.
+
+&emsp;"(4)
+
+Review of certain categorical exclusions.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall review any decision of the Administrator made on or after February 14, 2012, and before the date of the enactment of this paragraph \[Dec. 23, 2016\] to grant a categorical exclusion under this subsection with respect to a procedure to be implemented at an OEP airport that was a material change from procedures previously in effect at the airport to determine if the implementation of the procedure had a significant effect on the human environment in the community in which the airport is located.
+
+&emsp;&emsp;"(B)
+
+Content of review.—If, in conducting a review under subparagraph (A) with respect to a procedure implemented at an OEP airport, the Administrator, in consultation with the operator of the airport, determines that implementing the procedure had a significant effect on the human environment in the community in which the airport is located, the Administrator shall—
+
+&emsp;&emsp;&emsp;"(i) consult with the operator of the airport to identify measures to mitigate the effect of the procedure on the human environment; and
+
+&emsp;&emsp;&emsp;"(ii) in conducting such consultations, consider the use of alternative flight paths that do not substantially degrade the efficiencies achieved by the implementation of the procedure being reviewed.
+
+&emsp;&emsp;"(C)
+
+Human environment defined.—In this paragraph, the term 'human environment' has the meaning given such term in section 1508.14 of title 40, Code of Federal Regulations (as in effect on the day before the date of the enactment of this paragraph).
 
 "(d)
 
@@ -1054,7 +1088,415 @@ Contents.—Each report submitted under paragraph (1) shall include the followin
 
 #### Unmanned Aircraft Systems
 
-Pub. L. 112–95, title III, subtitle B, Feb. 14, 2012, 126 Stat. 72, provided that:
+Pub. L. 114–190, title II, subtitle B, July 15, 2016, 130 Stat. 628, provided that:
+
+#### "SEC. 2201. DEFINITIONS.
+
+"(a)
+
+Definitions Applied.—In this subtitle, the terms 'unmanned aircraft', 'unmanned aircraft system', and 'small unmanned aircraft' have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (49 U.S.C. 40101 note), as amended by this Act.
+
+"(b)
+
+FAA Modernization and Reform Act.—\[Amended section 331 of Pub. L. 112–95, set out in a note below.\]
+
+#### "SEC. 2202. IDENTIFICATION STANDARDS.
+
+"(a)
+
+In General.—The Administrator of the Federal Aviation Administration, in consultation with the Secretary of Transportation, the President of RTCA, Inc., and the Director of the National Institute of Standards and Technology, shall convene industry stakeholders to facilitate the development of consensus standards for remotely identifying operators and owners of unmanned aircraft systems and associated unmanned aircraft.
+
+"(b)
+
+Considerations.—As part of any standards developed under subsection (a), the Administrator shall ensure the consideration of—
+
+&emsp;"(1) requirements for remote identification of unmanned aircraft systems;
+
+&emsp;"(2) appropriate requirements for different classifications of unmanned aircraft systems operations, including public and civil; and
+
+&emsp;"(3) the feasibility of the development and operation of a publicly accessible online database of unmanned aircraft and the operators thereof, and any criteria for exclusion from the database.
+
+"(c)
+
+Deadline.—Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on any standards developed under subsection (a).
+
+"(d)
+
+Guidance.—Not later than 1 year after the date on which the Administrator submits the report under subsection (c), the Administrator shall issue regulations or guidance, as appropriate, based on any standards developed under subsection (a).
+
+#### "SEC. 2203. SAFETY STATEMENTS.
+
+"(a)
+
+Required Information.—Beginning on the date that is 1 year after the date of publication of the guidance under subsection (b)(1), a manufacturer of a small unmanned aircraft shall make available to the owner at the time of delivery of the small unmanned aircraft the safety statement described in subsection (b)(2).
+
+"(b)
+
+Safety Statement.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall issue guidance for implementing this section.
+
+&emsp;"(2)
+
+Requirements.—A safety statement required under subsection (a) shall include—
+
+&emsp;&emsp;"(A) information about, and sources of, laws and regulations applicable to small unmanned aircraft;
+
+&emsp;&emsp;"(B) recommendations for using small unmanned aircraft in a manner that promotes the safety of persons and property;
+
+&emsp;&emsp;"(C) the date that the safety statement was created or last modified; and
+
+&emsp;&emsp;"(D) language approved by the Administrator regarding the following:
+
+&emsp;&emsp;&emsp;"(i) A person may operate the small unmanned aircraft as a model aircraft (as defined in section 336 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (49 U.S.C. 40101 note)) or otherwise in accordance with Federal Aviation Administration authorization or regulation, including requirements for the completion of any applicable airman test.
+
+&emsp;&emsp;&emsp;"(ii) The definition of a model aircraft under section 336 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note).
+
+&emsp;&emsp;&emsp;"(iii) The requirements regarding the operation of a model aircraft under section 336 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note).
+
+&emsp;&emsp;&emsp;"(iv) The Administrator may pursue enforcement action against a person operating model aircraft who endangers the safety of the national airspace system.
+
+"(c)
+
+Civil Penalty.—A person who violates subsection (a) shall be liable for each violation to the United States Government for a civil penalty described in section 46301(a) of title 49, United States Code.
+
+#### "SEC. 2204. FACILITATING INTERAGENCY COOPERATION FOR UNMANNED AIRCRAFT AUTHORIZATION IN SUPPORT OF FIREFIGHTING OPERATIONS AND UTILITY RESTORATION.
+
+"(a)
+
+Firefighting Operations.—The Administrator of the Federal Aviation Administration shall enter into agreements with the Secretary of the Interior and the Secretary of Agriculture, as necessary, to continue the expeditious authorization of safe unmanned aircraft system operations in support of firefighting operations consistent with the requirements of section 334(c) of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (49 U.S.C. 40101 note).
+
+"(b)
+
+Utility Restoration.—The Administrator shall enter into agreements with the Secretary of Energy and with such other agencies or parties, including the Federal Emergency Management Agency, as are necessary to facilitate the expeditious authorization of safe unmanned aircraft system operations in support of service restoration efforts of utilities.
+
+"(c)
+
+Definition of Utility.—In this section, the term 'utility' shall at a minimum include the definition in section 3(4) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602(4)).
+
+#### "SEC. 2205. INTERFERENCE WITH WILDFIRE SUPPRESSION, LAW ENFORCEMENT, OR EMERGENCY RESPONSE EFFORT BY OPERATION OF UNMANNED AIRCRAFT.
+
+"(a)
+
+In General.—\[Enacted section 46320 of this title.\]
+
+"(b)
+
+FAA To Impose Civil Penalty.—\[Amended section 46301 of this title.\]
+
+"(c)
+
+Clerical Amendment.—\[Amended analysis of chapter 463 of this title.\]
+
+#### "SEC. 2206. PILOT PROJECT FOR AIRPORT SAFETY AND AIRSPACE HAZARD MITIGATION.
+
+"(a)
+
+In General.—The Administrator of the Federal Aviation Administration shall establish a pilot program for airspace hazard mitigation at airports and other critical infrastructure using unmanned aircraft detection systems.
+
+"(b)
+
+Consultation.—In carrying out the pilot program under subsection (a), the Administrator shall work with the Secretary of Defense, the Secretary of Homeland Security, and the heads of other relevant Federal departments and agencies for the purpose of ensuring that technologies that are developed, tested, or deployed by those departments and agencies to mitigate threats posed by errant or hostile unmanned aircraft system operations do not adversely impact or interfere with safe airport operations, navigation, air traffic services, or the safe and efficient operation of the national airspace system.
+
+"(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated from the Airport and Airway Trust Fund to carry out this section $6,000,000, to remain available until expended.
+
+"(d)
+
+Authority.—After the pilot program established under subsection (a) ceases to be effective pursuant to subsection (g), the Administrator may use unmanned aircraft detection systems to detect and mitigate the unauthorized operation of an unmanned aircraft that poses a risk to aviation safety.
+
+"(e)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 18 months after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the pilot program established under subsection (a).
+
+&emsp;"(2)
+
+Contents.—The report required under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The number of unauthorized unmanned aircraft operations detected, together with a description of such operations.
+
+&emsp;&emsp;"(B) The number of instances in which unauthorized unmanned aircraft were mitigated, together with a description of such instances.
+
+&emsp;&emsp;"(C) The number of enforcement cases brought by the Federal Aviation Administration for unauthorized operation of unmanned aircraft detected through the pilot program, together with a description of such cases.
+
+&emsp;&emsp;"(D) The number of any technical failures in the pilot program, together with a description of such failures.
+
+&emsp;&emsp;"(E) Recommendations for safety and operational standards for unmanned aircraft detection systems.
+
+&emsp;&emsp;"(F) The feasibility of deployment of the systems at other airports.
+
+&emsp;"(3)
+
+Format.—To the extent practicable, the report prepared under paragraph (1) shall be submitted in a classified format. If appropriate, the report may include an unclassified summary.
+
+"(f)
+
+Sunset.—The pilot program established under subsection (a) shall cease to be effective on the earlier of—
+
+&emsp;"(1) the date that is 18 months after the date of enactment of this Act; and
+
+&emsp;"(2) the date of the submission of the report under subsection (e).
+
+#### "SEC. 2207. EMERGENCY EXEMPTION PROCESS.
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall publish guidance for applications for, and procedures for the processing of, on an emergency basis, exemptions or certificates of authorization or waiver for the use of unmanned aircraft systems by civil or public operators in response to a catastrophe, disaster, or other emergency to facilitate emergency response operations, such as firefighting, search and rescue, and utility and infrastructure restoration efforts. In processing such applications, the Administrator shall give priority to applications for public unmanned aircraft systems engaged in emergency response activities.
+
+"(b)
+
+Requirements.—In providing guidance under subsection (a), the Administrator shall—
+
+&emsp;"(1) make explicit any safety requirements that must be met for the consideration of applications that include requests for beyond visual line of sight or nighttime operations, or the suspension of otherwise applicable operating restrictions, consistent with public interest and safety; and
+
+&emsp;"(2) explicitly state the procedures for coordinating with an incident commander, if any, to ensure operations granted under procedures developed under subsection (a) do not interfere with other emergency response efforts.
+
+"(c)
+
+Review.—In processing applications on an emergency basis for exemptions or certificates of authorization or waiver for unmanned aircraft systems operations in response to a catastrophe, disaster, or other emergency, the Administrator shall act on such applications as expeditiously as practicable and without requiring public notice and comment.
+
+#### "SEC. 2208. UNMANNED AIRCRAFT SYSTEMS TRAFFIC MANAGEMENT.
+
+"(a)
+
+Research Plan for UTM Development and Deployment.—
+
+&emsp;"(1)
+
+In general.—The Administrator of the Federal Aviation Administration (in this section referred to as the 'Administrator'), in coordination with the Administrator of the National Aeronautics and Space Administration, shall continue development of a research plan for unmanned aircraft systems traffic management (in this section referred to as 'UTM') development and deployment.
+
+&emsp;"(2)
+
+Requirements.—In developing the research plan, the Administrator shall—
+
+&emsp;&emsp;"(A) identify research outcomes sought; and
+
+&emsp;&emsp;"(B) ensure the plan is consistent with existing regulatory and operational frameworks, and considers potential future regulatory and operational frameworks, for unmanned aircraft systems in the national airspace system.
+
+&emsp;"(3)
+
+Assessment.—The research plan shall include an assessment of the interoperability of a UTM system with existing and potential future air traffic management systems and processes.
+
+&emsp;"(4)
+
+Deadlines.—The Administrator shall—
+
+&emsp;&emsp;"(A) initiate development of the research plan not later than 60 days after the date of enactment of this Act \[July 15, 2016\]; and
+
+&emsp;&emsp;"(B) not later than 180 days after the date of enactment of this Act—
+
+&emsp;&emsp;&emsp;"(i) complete the research plan;
+
+&emsp;&emsp;&emsp;"(ii) submit the research plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;&emsp;"(iii) publish the research plan on the Internet Web site of the Federal Aviation Administration.
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of submission of the research plan under subsection (a)(4)(B), the Administrator, in coordination with the Administrator of the National Aeronautics and Space Administration, the Drone Advisory Committee, the research advisory committee established by section 44508(a) of title 49, United States Code, and representatives of the unmanned aircraft industry, shall establish a UTM system pilot program.
+
+&emsp;"(2)
+
+Sunset.—Not later than 2 years after the date of establishment of the pilot program, the Administrator shall conclude the pilot program.
+
+"(c)
+
+Updates.—Not later than 180 days after the date of establishment of the pilot program, and every 180 days thereafter until the date of conclusion of the pilot program, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives an update on the status and progress of the pilot program.
+
+#### "SEC. 2209. APPLICATIONS FOR DESIGNATION.
+
+"(a)
+
+Applications for Designation.—Not later than 180 days after the date of enactment of this Act \[July 15, 2016\], the Secretary of Transportation shall establish a process to allow applicants to petition the Administrator of the Federal Aviation Administration to prohibit or restrict the operation of an unmanned aircraft in close proximity to a fixed site facility.
+
+"(b)
+
+Review Process.—
+
+&emsp;"(1)
+
+Application procedures.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall establish the procedures for the application for designation under subsection (a).
+
+&emsp;&emsp;"(B)
+
+Requirements.—The procedures shall allow operators or proprietors of fixed site facilities to apply for designation individually or collectively.
+
+&emsp;&emsp;"(C)
+
+Considerations.—Only the following may be considered fixed site facilities:
+
+&emsp;&emsp;&emsp;"(i) Critical infrastructure, such as energy production, transmission, and distribution facilities and equipment.
+
+&emsp;&emsp;&emsp;"(ii) Oil refineries and chemical facilities.
+
+&emsp;&emsp;&emsp;"(iii) Amusement parks.
+
+&emsp;&emsp;&emsp;"(iv) Other locations that warrant such restrictions.
+
+&emsp;"(2)
+
+Determination.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall provide for a determination under the review process established under subsection (a) not later than 90 days after the date of application, unless the applicant is provided with written notice describing the reason for the delay.
+
+&emsp;&emsp;"(B)
+
+Affirmative designations.—An affirmative designation shall outline—
+
+&emsp;&emsp;&emsp;"(i) the boundaries for unmanned aircraft operation near the fixed site facility; and
+
+&emsp;&emsp;&emsp;"(ii) such other limitations that the Administrator determines may be appropriate.
+
+&emsp;&emsp;"(C)
+
+Considerations.—In making a determination whether to grant or deny an application for a designation, the Administrator may consider—
+
+&emsp;&emsp;&emsp;"(i) aviation safety;
+
+&emsp;&emsp;&emsp;"(ii) protection of persons and property on the ground;
+
+&emsp;&emsp;&emsp;"(iii) national security; or
+
+&emsp;&emsp;&emsp;"(iv) homeland security.
+
+&emsp;&emsp;"(D)
+
+Opportunity for resubmission.—If an application is denied, and the applicant can reasonablyaddress the reason for the denial, the Administrator may allow the applicant to reapply for designation.
+
+"(c)
+
+Public Information.—Designations under subsection (a) shall be published by the Federal Aviation Administration on a publicly accessible website.
+
+"(d)
+
+Savings Clause.—Nothing in this section may be construed as prohibiting the Administrator from authorizing operation of an aircraft, including an unmanned aircraft system, over, under, or within a specified distance from that fixed site facility designated under subsection (b).
+
+#### "SEC. 2210. OPERATIONS ASSOCIATED WITH CRITICAL INFRASTRUCTURE.
+
+"(a)
+
+In General.—Any application process established under section 333 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (49 U.S.C. 40101 note) shall allow for a person to apply to the Administrator of the Federal Aviation Administration to operate an unmanned aircraft system, for purposes of conducting an activity described in subsection (b)—
+
+&emsp;"(1) beyond the visual line of sight of the individual operating the unmanned aircraft system; and
+
+&emsp;"(2) during the day or at night.
+
+"(b)
+
+Activities Described.—The activities described in this subsection are—
+
+&emsp;"(1) activities for which manned aircraft may be used to comply with Federal, State, or local laws, including—
+
+&emsp;&emsp;"(A) activities to ensure compliance with Federal or State regulatory, permit, or other requirements, including to conduct surveys associated with applications for permits for new pipeline or pipeline systems construction or maintenance or rehabilitation of existing pipelines or pipeline systems; and
+
+&emsp;&emsp;"(B) activities relating to ensuring compliance with—
+
+&emsp;&emsp;&emsp;"(i) parts 192 and 195 of title 49, Code of Federal Regulations; and
+
+&emsp;&emsp;&emsp;"(ii) the requirements of any Federal, State, or local governmental or regulatory body, or industry best practice, pertaining to the construction, ownership, operation, maintenance, repair, or replacement of covered facilities;
+
+&emsp;"(2) activities to inspect, repair, construct, maintain, or protect covered facilities, including for the purpose of responding to a pipeline, pipeline system, or electric energy infrastructure incident; and
+
+&emsp;"(3) activities in response to or in preparation for a natural disaster, manmade disaster, severe weather event, or other incident beyond the control of the applicant that may cause material damage to a covered facility.
+
+"(c)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;"(1)
+
+Covered facility.—The term 'covered facility' means—
+
+&emsp;&emsp;"(A) a pipeline or pipeline system;
+
+&emsp;&emsp;"(B) an electric energy generation, transmission, or distribution facility (including a renewable electric energy facility);
+
+&emsp;&emsp;"(C) an oil or gas production, refining, or processing facility; or
+
+&emsp;&emsp;"(D) any other critical infrastructure facility.
+
+&emsp;"(2)
+
+Critical infrastructure.—The term 'critical infrastructure' has the meaning given that term in section 2339D of title 18, United States Code.
+
+"(d)
+
+Deadlines.—
+
+&emsp;"(1)
+
+Certification to congress.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a certification that a process has been established to facilitate applications for unmanned aircraft systems operations described in this section.
+
+&emsp;"(2)
+
+Failure to meet certification deadline.—If the Administrator cannot provide a certification under paragraph (1), the Administrator, not later than 180 days after the deadline specified in paragraph (1), shall update the process under section 333 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (49 U.S.C. 40101 note) to facilitate applications for unmanned aircraft systems operations described in this section.
+
+"(e)
+
+Exemptions.—In addition to the operations described in this section, the Administrator may authorize, exempt, or otherwise allow other unmanned aircraft systems operations under section 333 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note) that are conducted beyond the visual line of sight of the individual operating the unmanned aircraft system or during the day or at night.
+
+#### "SEC. 2211. UNMANNED AIRCRAFT SYSTEMS RESEARCH AND DEVELOPMENT ROADMAP.
+
+\[Amended section 332 of Pub. L. 112–95, set out in a note below.\]
+
+#### "SEC. 2212. UNMANNED AIRCRAFT SYSTEMS-MANNED AIRCRAFT COLLISION RESEARCH.
+
+"(a)
+
+Research.—The Administrator of the Federal Aviation Administration (in this section referred to as the 'Administrator'), in continuation of ongoing work, shall coordinate with the Administrator of the National Aeronautics and Space Administration to develop a program to conduct comprehensive testing or modeling of unmanned aircraft systems colliding with various sized aircraft in various operational settings, as considered appropriate by the Administrator, including—
+
+&emsp;"(1) collisions between unmanned aircraft systems of various sizes, traveling at various speeds, and jet aircraft of various sizes, traveling at various speeds;
+
+&emsp;"(2) collisions between unmanned aircraft systems of various sizes, traveling at various speeds, and propeller-driven aircraft of various sizes, traveling at various speeds;
+
+&emsp;"(3) collisions between unmanned aircraft systems of various sizes, traveling at various speeds, and rotorcraft of various sizes, traveling at various speeds; and
+
+&emsp;"(4) collisions between unmanned aircraft systems and various parts of the aforementioned aircraft, including—
+
+&emsp;&emsp;"(A) windshields;
+
+&emsp;&emsp;"(B) noses;
+
+&emsp;&emsp;"(C) engines;
+
+&emsp;&emsp;"(D) radomes;
+
+&emsp;&emsp;"(E) propellers; and
+
+&emsp;&emsp;"(F) wings.
+
+"(b)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator shall transmit to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing the costs and results of research under this section.
+
+#### "SEC. 2213. PROBABILISTIC METRICS RESEARCH AND DEVELOPMENT STUDY.
+
+"(a)
+
+Study.—Not later than 30 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Academies to study the potential use of probabilistic assessments of risks by the Administration to streamline the integration of unmanned aircraft systems into the national airspace system, including any research and development necessary.
+
+"(b)
+
+Completion Date.—Not later than 1 year after the date of enactment of this Act, the Administrator shall provide the results of the study to the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
+
+Pub. L. 112–95, title III, subtitle B, Feb. 14, 2012, 126 Stat. 72, as amended by Pub. L. 114–190, title I, §1102(i),title II, §§2201(b), 2211, July 15, 2016, 130 Stat. 618, 628, 636, provided that:
 
 #### "SEC. 331. DEFINITIONS.
 
@@ -1082,11 +1524,19 @@ Sense and avoid capability.—The term 'sense and avoid capability' means the ca
 
 &emsp;"(6)
 
-Small unmanned aircraft.—The term 'small unmanned aircraft' means an unmanned aircraft weighing less than 55 pounds.
+Small unmanned aircraft.—The term 'small unmanned aircraft' means an unmanned aircraft weighing less than 55 pounds, including everything that is on board or otherwise attached to the aircraft.
 
 &emsp;"(7)
 
-Test range.—The term 'test range' means a defined geographic area where research and development are conducted.
+Test range.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'test range' means a defined geographic area where research and development are conducted as authorized by the Administrator of the Federal Aviation Administration.
+
+&emsp;&emsp;"(B)
+
+Inclusions.—The term 'test range' includes any of the 6 test ranges established by the Administrator of the Federal Aviation Administration under section 332(c), as in effect on the day before the date of enactment of this subparagraph \[July 15, 2016\], and any public entity authorized by the Federal Aviation Administration as an unmanned aircraft system flight test center before January 1, 2009.
 
 &emsp;"(8)
 
@@ -1118,7 +1568,7 @@ Contents of plan.—The plan required under paragraph (1) shall contain, at a mi
 
 &emsp;&emsp;&emsp;"(iii) establish standards and requirements for the operator and pilot of a civil unmanned aircraft system, including standards and requirements for registration and licensing;
 
-&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve thesafe and routine operation of civil unmanned aircraft systems in the national airspace system;
+&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve the safe and routine operation of civil unmanned aircraft systems in the national airspace system;
 
 &emsp;&emsp;"(C) a phased-in approach to the integration of civil unmanned aircraft systems into the national airspace system;
 
@@ -1144,7 +1594,21 @@ Report to congress.—Not later than 1 year after the date of enactment of this 
 
 &emsp;"(5)
 
-Roadmap.—Not later than 1 year after the date of enactment of this Act, the Secretary shall approve and make available in print and on the Administration's Internet Web site a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update the roadmap annually.
+Roadmap.—Not later than 1 year after the date of enactment of this Act, the Secretary shall approve and make available in print and on the Administration's Internet Web site a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update, in coordination with the Administrator of the National Aeronautics and Space Administration (NASA) and relevant stakeholders, including those in industry and academia, the roadmap annually. The roadmap shall include, at a minimum—
+
+&emsp;&emsp;"(A) cost estimates, planned schedules, and performance benchmarks, including specific tasks, milestones, and timelines, for unmanned aircraft systems integration into the national airspace system, including an identification of—
+
+&emsp;&emsp;&emsp;"(i) the role of the unmanned aircraft systems test ranges established under subsection (c) and the Unmanned Aircraft Systems Center of Excellence;
+
+&emsp;&emsp;&emsp;"(ii) performance objectives for unmanned aircraft systems that operate in the national airspace system; and
+
+&emsp;&emsp;&emsp;"(iii) research and development priorities for tools that could assist air traffic controllers as unmanned aircraft systems are integrated into the national airspace system, as appropriate;
+
+&emsp;&emsp;"(B) a description of how the Administration plans to use research and development, including research and development conducted through NASA's Unmanned Aircraft Systems Traffic Management initiatives, to accommodate, integrate, and provide for the evolution of unmanned aircraft systems in the national airspace system;
+
+&emsp;&emsp;"(C) an assessment of critical performance abilities necessary to integrate unmanned aircraft systems into the national airspace system, and how these performance abilities can be demonstrated; and
+
+&emsp;&emsp;"(D) an update on the advancement of technologies needed to integrate unmanned aircraft systems into the national airspace system, including decisionmaking by adaptive systems, such as sense-and-avoid capabilities and cyber physical systems security.
 
 "(b)
 
@@ -1162,7 +1626,7 @@ Pilot Projects.—
 
 &emsp;"(1)
 
-Establishment.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall establish a program to integrate unmanned aircraft systems into the national airspace system at 6 test ranges. The program shall terminate 5 years after the date of enactment of this Act.
+Establishment.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall establish a program to integrate unmanned aircraft systems into the national airspace system at 6 test ranges. The program shall terminate on September 30, 2019.
 
 &emsp;"(2)
 
@@ -1230,7 +1694,7 @@ Aircraft approval.—Not later than 1 year after the entry into force of an agre
 
 "(a)
 
-In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of theplan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
+In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of the plan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
 
 "(b)
 
@@ -1458,7 +1922,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(1) The United States has revolutionized the way people travel, developing new technologies and aircraft to move people more efficiently and more safely.
 
-&emsp;"(2) Past Federal investment in aeronautics research and development has benefited the economyand national security of the United States and the quality of life of its citizens.
+&emsp;"(2) Past Federal investment in aeronautics research and development has benefited the economy and national security of the United States and the quality of life of its citizens.
 
 &emsp;"(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
 
@@ -1478,7 +1942,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(8) Despite the downturn in the global economy, projections of the Federal Aviation Administration indicate that upwards of 1,000,000,000 people will fly annually by 2013. Efforts must begin now to prepare for future growth in the number of airline passengers.
 
-&emsp;"(9) The United States must increase its investment in research and development to revitalize the aviation and aerospace industries, to create jobs, and to provide educational assistance and training to prepare workers in those industries for the future."
+&emsp;"(9) The United States must increase its investment in research and development to revitalize the aviation and aerospace industries, to create jobs, andto provide educational assistance and training to prepare workers in those industries for the future."
 
 #### Report on Long-Term Environmental Improvements
 
@@ -1750,7 +2214,7 @@ In General.—The Secretary of Transportation may make grants to reimburse the f
 
 "(b)
 
-Documentation.—Reimbursement under this section shall be made in accordance with sworn financial statements or other appropriate data submitted by each general aviation entity demonstrating the costs incurred and revenue foregone to the satisfaction of the Secretary.
+Documentation.—Reimbursement under this section shall be made in accordance with sworn financialstatements or other appropriate data submitted by each general aviation entity demonstrating the costs incurred and revenue foregone to the satisfaction of the Secretary.
 
 "(c)
 
@@ -1812,7 +2276,7 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportationon that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
@@ -1822,7 +2286,7 @@ Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided 
 
 Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, as amended by Pub. L. 114–113, div. O, title IV, §402(h), Dec. 18, 2015, 129 Stat. 3007, provided that: "Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) and (2) of such Act. Costs for payments for compensation for claims in Group A, as described in section 405(a)(3)(C)(ii) of such Act, shall be paid from amounts made available under section 406 of such Act. Costs for payments for compensation for claims in Group B, as described in section 405(a)(3)(C)(iii) of such Act, shall be paid from amounts in the Victims Compensation Fund established under section 410 of such Act."
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I,§114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -1906,7 +2370,7 @@ Distribution of amounts.—The President shall distribute the amount set aside u
 
 "(a)
 
-Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service beforeSeptember 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
+Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
 
 "(b)
 
@@ -2042,7 +2506,7 @@ Claimant.—The term 'claimant' means an individual filing a claim for compensat
 
 &emsp;"(6)
 
-Collateral source.—The term 'collateral source' means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including underthe World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, 42 U.S.C. 300mm\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
+Collateral source.—The term 'collateral source' means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including under the World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, 42 U.S.C. 300mm\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
 
 &emsp;"(7)
 
@@ -2066,7 +2530,7 @@ Immediate aftermath.—The term 'immediate aftermath' means any period beginning
 
 &emsp;"(12)
 
-Noneconomic losses.—The term 'noneconomic losses' means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
+Noneconomic losses.—The term 'noneconomic losses' means losses for physical and emotional pain,suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
 
 &emsp;"(13)
 
@@ -2162,7 +2626,7 @@ In general.—Except as provided by subparagraph (B), no claim may be filed unde
 
 &emsp;&emsp;"(B)
 
-Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b)(1) andending on the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b)(1) and ending on the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
 
 &emsp;&emsp;"(C)
 
@@ -2396,7 +2860,7 @@ In general.—The total amount of Federal funds paid for compensation under this
 
 &emsp;&emsp;"(B)
 
-Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master has ratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of suchAct, authorize payment of the amount of compensation that is equal to the difference between—
+Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master has ratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of such Act, authorize payment of the amount of compensation that is equal to the difference between—
 
 &emsp;&emsp;&emsp;"(i) the amount of compensation that the claimant would have been paid under this title for such claim without regard to the limitation under the second sentence of paragraph (1) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act; and
 
@@ -2428,7 +2892,7 @@ In general.—Not later than 30 days after the date of enactment of the James Za
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-Limitation.—The policies and procedures developed under subclause (I) shall ensure that total expenditures, including administrative expenses, in providing compensation for claims in Group B, as described in section 405(a)(3)(C)(iii), do not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
+Limitation.—The policies and procedures developed under subclause (I) shall ensure that total expenditures, including administrative expenses, in providing compensation for claims inGroup B, as described in section 405(a)(3)(C)(iii), do not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 
@@ -2708,7 +3172,7 @@ Requirements for assessment of cost pools.—In carrying out subparagraph (B)(vi
 
 &emsp;&emsp;&emsp;"(i) review costs that cannot reliably be attributed to specific Administration services or activities (called 'common and fixed costs' in the Administration Cost Allocation Study) and consider alternative methods for allocating such costs; and
 
-&emsp;&emsp;&emsp;"(ii) perform appropriate tests to assess relationships between costs in the various cost poolsand activities and services to which the costs are attributed by the Administration.
+&emsp;&emsp;&emsp;"(ii) perform appropriate tests to assess relationships between costs in the various cost pools and activities and services to which the costs are attributed by the Administration.
 
 &emsp;"(3)
 
@@ -2936,7 +3400,7 @@ Additional recommendations.—The aviation funding task force report may also ma
 
 &emsp;&emsp;&emsp;"(iv) the elimination of unneeded programs; and
 
-&emsp;&emsp;&emsp;"(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, andrevolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
+&emsp;&emsp;&emsp;"(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, and revolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
 
 &emsp;&emsp;"(D)
 
@@ -3056,7 +3520,7 @@ Report by the administrator based on final report of aviation safety task force.
 
 "(d)
 
-GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the mannerin which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
+GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
 
 "(e)
 
@@ -3172,7 +3636,7 @@ Pub. L. 103–305, title III, §304, Aug. 23, 1994, 108 Stat. 1591, provided tha
 
 "(a)
 
-Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with theheads of other appropriate Federal agencies, shall establish a research program to determine—
+Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shall establish a research program to determine—
 
 &emsp;"(1) what, if any, aircraft cabin air conditions, including pressure altitude systems, on flights within the United States are harmful to the health of airline passengers and crew, as indicated by physical symptoms such as headaches, nausea, fatigue, and lightheadedness; and
 
@@ -3198,7 +3662,7 @@ Participation.—In carrying out the research program established under subsecti
 
 "(e)
 
-Report.—(1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administrator shall submit to the Congress a plan for implementation of the research program established under subsection (a).
+Report.—(1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administratorshall submit to the Congress a plan for implementation of the research program established under subsection (a).
 
 "(2) The Administrator shall annually submit to the Congress a report on the progress made during the year for which the report is submitted toward meeting the goals set forth in subsection (c).
 
@@ -3296,7 +3760,7 @@ Ex. Ord. No. 13479, Nov. 18, 2008, 73 F.R. 70241, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the United States to establish and maintain a national air transportation system that meets the present and future civil aviation, homeland security, economic, environmental protection, and national defense needs of the United States, including through effective implementation of the Next Generation Air Transportation System (NextGen).
+Section 1. <i>Policy</i>. It is the policy of the United States to establish and maintain a national air transportationsystem that meets the present and future civil aviation, homeland security, economic, environmental protection, and national defense needs of the United States, including through effective implementation of the Next Generation Air Transportation System (NextGen).
 
 Sec. 2. <i>Definitions</i>. As used in this order the term "Next Generation Air Transportation System" means the system to which section 709 of the Vision 100—Century of Aviation Reauthorization Act (Public Law 108–176) (Act) refers.
 
@@ -3396,7 +3860,7 @@ Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Fe
 
 (iii) establish policies and procedures, or confirm that policies and procedures are in place, that provide meaningful oversight of individuals who have access to sensitive information (including any PII) collected using UAS;
 
-(iv) ensure that any data-sharing agreements or policies, data use policies, and record management policiesapplicable to UAS conform to applicable laws, regulations, and policies;
+(iv) ensure that any data-sharing agreements or policies, data use policies, and record management policies applicable to UAS conform to applicable laws, regulations, and policies;
 
 (v) establish policies and procedures, or confirm that policies and procedures are in place, to authorize the use of UAS in response to a request for UAS assistance in support of Federal, State, local, tribal, or territorial government operations; and
 
@@ -3412,7 +3876,7 @@ Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Fe
 
 (e) <i>Reports</i>. Within 180 days of the date of this memorandum, agencies shall provide the President with a status report on the implementation of this section. Within 1 year of the date of this memorandum, agencies shall publish information on how to access their publicly available policies and procedures implementing this section.
 
-Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal uses of UAS described in section 1 of this memorandum, the combination of greater operational flexibility, lower capital requirements, and lower operating costs could allow UAS to be a transformative technology in the commercial and private sectors for fields as diverse as urban infrastructure management, farming, and disaster response. Although these opportunities will enhance American economic competitiveness, our Nation must be mindful of the potential implications for privacy, civil rights, and civil liberties. The Federal Government is committed to promoting the responsible use of this technology in a way that does not diminish rights and freedoms.
+Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal uses of UAS described in section 1 of this memorandum, the combination of greater operational flexibility, lower capital requirements, and lower operating costs could allow UAS to be a transformative technology in the commercial and private sectors for fields as diverse as urban infrastructure management, farming, and disaster response. Althoughthese opportunities will enhance American economic competitiveness, our Nation must be mindful of the potential implications for privacy, civil rights, and civil liberties. The Federal Government is committed to promoting the responsible use of this technology in a way that does not diminish rights and freedoms.
 
 (a) There is hereby established a multi-stakeholder engagement process to develop and communicate best practices for privacy, accountability, and transparency issues regarding commercial and private UAS use in the NAS. The process will include stakeholders from the private sector.
 
@@ -3448,6 +3912,10 @@ Sec. 4. <i>General Provisions</i>. (a) This memorandum complements and is not in
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Definition of Term in Pub. L. 114–190
+
+Pub. L. 114–190, §2, July 15, 2016, 130 Stat. 617, provided that: "In this Act \[see Tables for classification\], unless expressly provided otherwise, the term 'appropriate committees of Congress' means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+
 #### Definitions of Terms in Title II of Pub. L. 112–95
 
 Pub. L. 112–95, title IX, §902, Feb. 14, 2012, 126 Stat. 138, provided that: " In this title \[amending sections 44504, 44505, 44511, 44513, and 48102 of this title, enacting provisions set out as notes under this section and sections 44501, 44504, 44505, and 44513 of this title, and amending provisions set out as notes under section 44504 of this title\], the following definitions apply:
@@ -3474,5 +3942,5 @@ NOAA.—The term 'NOAA' means the National Oceanic and Atmospheric Administratio
 
 #### Definitions of Terms in Pub. L. 107–71
 
-For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub.L. 107–71, set out as a note under section 40102 of this title.
+For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
 

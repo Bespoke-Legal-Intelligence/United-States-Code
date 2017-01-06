@@ -58,6 +58,36 @@ Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted "section 11103 of t
 
 Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: "Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998."
 
+#### Pilot Program on Evaluation of Commercial Information Technology
+
+Pub. L. 114–328, div. A, title II, §232, Dec. 23, 2016, 130 Stat. 2061, provided that:
+
+"(a)
+
+Pilot Program.—The Director of the Defense Information Systems Agency may carry out a pilot program to evaluate commercially available information technology tools to better understand the potential impact of such tools on networks and computing environments of the Department of Defense.
+
+"(b)
+
+Activities.—Activities under the pilot program may include the following:
+
+&emsp;"(1) Prototyping, experimentation, operational demonstration, military user assessments, and other means of obtaining quantitative and qualitative feedback on the commercial information technology products.
+
+&emsp;"(2) Engagement with the commercial information technology industry to—
+
+&emsp;&emsp;"(A) forecast military requirements and technology needs; and
+
+&emsp;&emsp;"(B) support the development of market strategies and program requirements before finalizing acquisition decisions and strategies.
+
+&emsp;"(3) Assessment of novel or innovative commercial technology for use by the Department of Defense.
+
+&emsp;"(4) Assessment of novel or innovative contracting mechanisms to speed delivery of capabilities to the Armed Forces.
+
+&emsp;"(5) Solicitation of operational user input to shape future information technology requirements of the Department of Defense.
+
+"(c)
+
+Limitation on Availability of Funds.—Of the amounts authorized to be appropriated for research, development, test, and evaluation, Defense-wide, for each of fiscal years 2017 through 2022, not more than $15,000,000 may be expended on the pilot program in any such fiscal year."
+
 #### Additional Requirements Relating to the Software Licenses of the Department of Defense
 
 Pub. L. 113–66, div. A, title IX, §935, Dec. 26, 2013, 127 Stat. 833, provided that:
@@ -86,7 +116,7 @@ Submission.—Not later than September 30, 2015, the Chief Information Officer o
 
 "(b)
 
-Performance Plan.—If the Chief Information Officer of the Department of Defense determines through the implementation of the process and business systems in the updated plan required by subsection (a) that the number of software licenses of the Department for an individual title for which a military department spends greater than $5,000,000 annually exceeds the needs of the Department for such software licenses, or the inventory discloses that there is a discrepancy between the number of software licenses purchased and those in actual use, the Chief Information Officer of the Department of Defense shall implement a plan to bring the number of such software licenses into balance with the needs of the Department and the terms of any relevant contract."
+Performance Plan.—If the Chief Information Officer of the Department of Defense determines through the implementation of the process and business systems in the updated plan required by subsection (a) that the number of software licenses of the Department for an individual title for which a military department spends greater than $5,000,000 annually exceeds the needs of the Department for such software licenses, or the inventory discloses that there is a discrepancy between the number of software licenses purchased and those in actual use, the Chief Information Officer of the Department of Defense shall implement a plan to bring the number of such software licenses intobalance with the needs of the Department and the terms of any relevant contract."
 
 #### Collection and Analysis of Network Flow Data
 
@@ -158,7 +188,7 @@ Plan for Inventory of Licenses.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Chief Information Officer of the Department of the\[sic\] Defense shall, in consultation with the chief information officers of the military departments and the Defense Agencies, issue a plan for the inventory of selected software licenses of the Department of Defense, including a comparison of licenses purchased with licenses installed.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Chief Information Officer of the Department of the \[sic\] Defense shall, in consultation with the chief information officers of the military departments and the Defense Agencies, issue a plan for the inventory of selected software licenses of the Department of Defense, including a comparison of licenses purchased with licenses installed.
 
 &emsp;"(2)
 

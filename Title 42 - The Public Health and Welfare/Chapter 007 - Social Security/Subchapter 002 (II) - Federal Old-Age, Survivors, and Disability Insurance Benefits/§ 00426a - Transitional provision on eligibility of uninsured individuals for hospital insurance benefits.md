@@ -18,7 +18,7 @@ Anyone who—
 
 #### (b) Persons ineligible
 
-The provisions of subsection (a) of this section shall not apply to any individual who—
+The provisions of subsection (a) shall not apply to any individual who—
 
 &emsp;(1) is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) <sup>1</sup> of this title,
 
@@ -36,7 +36,7 @@ The provisions of subsection (a) of this section shall not apply to any individu
 
 There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
-&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund underpart A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
+&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
 
 &emsp;(2) the additional administrative expenses resulting or expected to result therefrom, and
 

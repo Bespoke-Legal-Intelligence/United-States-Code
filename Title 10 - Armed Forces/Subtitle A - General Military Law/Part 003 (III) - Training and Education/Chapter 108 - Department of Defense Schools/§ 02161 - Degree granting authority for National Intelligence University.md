@@ -20,7 +20,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 &emsp;(B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
 
-(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
+(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation ofthe Secretary of Education on the proposed modification or redesignation.
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Intelligence University to award any new or existing degree.
 
@@ -36,5 +36,5 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: "The amendments madeby this section \[amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments."
+Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: "The amendments made by this section \[amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments."
 

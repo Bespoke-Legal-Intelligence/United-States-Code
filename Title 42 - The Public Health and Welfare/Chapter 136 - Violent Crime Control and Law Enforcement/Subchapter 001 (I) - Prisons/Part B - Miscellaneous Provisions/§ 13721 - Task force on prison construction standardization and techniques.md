@@ -20,7 +20,7 @@ The task force shall work to—
 
 #### (d) Dissemination
 
-The task force shall disseminate information described in subsection (c) of this section to State and local officials involved in prison construction, through written reports and meetings.
+The task force shall disseminate information described in subsection (c) to State and local officials involved in prison construction, through written reports and meetings.
 
 #### (e) Promotion and evaluation
 

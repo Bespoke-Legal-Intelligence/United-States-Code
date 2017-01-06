@@ -16,11 +16,11 @@ The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, th
 
 #### (2) Fully and currently informed defined
 
-&emsp;For purposes of paragraph (1), the term "fully and currently informed" means thetransmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
+&emsp;For purposes of paragraph (1), the term "fully and currently informed" means the transmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
 
 (Pub. L. 110–417, \[div. A\], title X, §1062, Oct. 14, 2008, 122 Stat. 4614.)
 
 #### Codification
 
-Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year2009, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 

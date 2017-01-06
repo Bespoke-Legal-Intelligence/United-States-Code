@@ -44,7 +44,7 @@ Pub. L. 101–508, title XIII, §13501, Nov. 5, 1990, 104 Stat. 1388–628, prov
 
 "(a)
 
-Definition.—For purposes of this section, the terms 'Government-sponsored enterprise' and 'GSE' mean the Farm Credit System (including the FarmCredit Banks, Banks for Cooperatives, and Federal Agricultural Mortgage Corporation), the Federal Home Loan Bank System, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, and the Student Loan Marketing Association.
+Definition.—For purposes of this section, the terms 'Government-sponsored enterprise' and 'GSE' mean the Farm Credit System (including the Farm Credit Banks, Banks for Cooperatives, and Federal Agricultural Mortgage Corporation), the Federal Home Loan Bank System, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, and the Student Loan Marketing Association.
 
 "(b)
 
@@ -78,7 +78,7 @@ Confidentiality of Relevant Information.—
 
 &emsp;"(2) The Department of the Treasury shall be exempt from section 552 of title 5, United States Code, for any book, record, or information made available under subsection (d) and determined by the Secretary of the Treasury to be confidential under this subsection.
 
-&emsp;"(3) Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
+&emsp;"(3) Any officer or employee of the Department of the Treasury shall be subject to the penalties setforth in section 1906 of title 18, United States Code, if—
 
 &emsp;&emsp;"(A) by virtue of his or her employment or official position, he or she has possession of or access to any book, record, or information made available under and determined to be confidential under this section; and
 
@@ -126,7 +126,7 @@ Waivers.—
 
 &emsp;"(1)
 
-Permanent.—Sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act \[sections 636(b)(2), (c)(4), 637, 641(d)(2), and 644 of this title andsubsecs. (c) and (d) of this note\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.
+Permanent.—Sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act \[sections 636(b)(2), (c)(4), 637, 641(d)(2), and 644 of this title and subsecs. (c) and (d) of this note\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.
 
 &emsp;"(2)
 

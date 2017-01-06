@@ -16,7 +16,7 @@ Changes were made in phraseology and surplusage omitted.
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 substituted "and detained pursuant to chapter 207" for "and not admitted to bail" andstruck out "and unable to make bail" after "held as a material witness".
+<b>1984</b>—Pub. L. 98–473 substituted "and detained pursuant to chapter 207" for "and not admitted to bail" and struck out "and unable to make bail" after "held as a material witness".
 
 #### Admission of Alaska as State
 

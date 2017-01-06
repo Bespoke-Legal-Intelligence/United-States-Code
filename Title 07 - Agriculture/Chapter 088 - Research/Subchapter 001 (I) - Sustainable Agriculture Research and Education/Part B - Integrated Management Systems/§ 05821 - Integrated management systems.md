@@ -10,7 +10,7 @@ The Secretary shall establish a research and education program concerning integr
 
 &emsp;(3) to accumulate and analyze information on agricultural production practices researched or developed under programs established under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate programs of the Department of Agriculture to further the development of integrated crop and livestock management systems;
 
-&emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock managementsystems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
+&emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock management systems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
 
 &emsp;(5) to evaluate and recommend appropriate integrated crop and livestock management policies and programs.
 

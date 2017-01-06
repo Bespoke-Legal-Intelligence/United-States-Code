@@ -16,7 +16,7 @@
 
 (e) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
 
-(Added Pub. L. 101–366, title II, §201(a)(1), Aug. 15, 1990, 104 Stat. 437, §620C; renumbered §1720Cand amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, §103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289.)
+(Added Pub. L. 101–366, title II, §201(a)(1), Aug. 15, 1990, 104 Stat. 437, §620C; renumbered §1720C and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, §103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289.)
 
 #### Amendments
 

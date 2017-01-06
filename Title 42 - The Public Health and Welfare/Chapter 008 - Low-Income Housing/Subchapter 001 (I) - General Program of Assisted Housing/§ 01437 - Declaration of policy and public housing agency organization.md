@@ -12,17 +12,17 @@ It is the policy of the United States—
 
 &emsp;&emsp;(C) consistent with the objectives of this subchapter, to vest in public housing agencies that perform well, the maximum amount of responsibility and flexibility in program administration, with appropriate accountability to public housing residents, localities, and the general public;
 
-&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even a majority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actions of private citizens to develop housing and strengthen their own neighborhoods;
+&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even amajority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actions of private citizens to develop housing and strengthen their own neighborhoods;
 
 &emsp;(3) that the Federal Government should act where there is a serious need that private citizens or groups cannot or are not addressing responsibly; and
 
-&emsp;(4) that our Nation should promote the goal of providing decent and affordable housing forall citizens through the efforts and encouragement of Federal, State, and local governments, and by the independent and collective actions of private citizens, organizations, and the private sector.
+&emsp;(4) that our Nation should promote the goal of providing decent and affordable housing for all citizens through the efforts and encouragement of Federal, State, and local governments, and by the independent and collective actions of private citizens, organizations, and the private sector.
 
 #### (b) Public housing agency organization
 
 #### (1) Required membership
 
-&emsp;Except as provided in paragraph (2), the membership of the board of directors or similar governing body of each public housing agency shall contain not less than 1 member—
+&emsp;Except as provided in paragraphs (2) and (3), the membership of the board of directors or similar governing body of each public housing agency shall contain not less than 1 member—
 
 &emsp;&emsp;(A) who is directly assisted by the public housing agency; and
 
@@ -40,11 +40,29 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to section 1437c–1(e) of this title of notice under clause (i), the public housing agency has not been notified of the intention of any resident to participate on the board of directors.
 
-#### (3) Nondiscrimination
+#### (3) Exception for certain jurisdictions
+
+#### (A) Exception
+
+&emsp;&emsp;A covered agency (as such term is defined in subparagraph (C) of this paragraph) shall not be required to include on the board of directors or a similar governing board of such agency a member described in paragraph (1).
+
+#### (B) Advisory board requirement
+
+&emsp;&emsp;Each covered agency that administers Federal housing assistance under section 1437f of this title that chooses not to include a member described in paragraph (1) on the board of directors or a similar governing board of the agency shall establish an advisory board of not less than 6 residents of public housing or recipients of assistance under section 1437f of this title to provide advice and comment to the agency or other administering entity on issues related to public housing and section 1437f of this title. Such advisory board shall meet not less than quarterly.
+
+#### (C) Covered agency or entity
+
+&emsp;&emsp;For purposes of this paragraph, the term "covered agency" means a public housing agency or such other entity that administers Federal housing assistance for—
+
+&emsp;&emsp;&emsp;(I) <sup>1</sup> the Housing Authority of the county of Los Angeles, California; or
+
+&emsp;&emsp;&emsp;(ii) any of the States of Alaska, Iowa, and Mississippi.
+
+#### (4) Nondiscrimination
 
 &emsp;No person shall be prohibited from serving on the board of directors or similar governing body of a public housing agency because of the residence of that person in a public housing project or status as assisted under section 1437f of this title.
 
-(Sept. 1, 1937, ch. 896, title I, §2, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236; Pub. L. 105–276, title V, §505, Oct. 21, 1998, 112 Stat. 2522.)
+(Sept. 1, 1937, ch. 896, title I, §2, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236; Pub. L. 105–276, title V, §505, Oct. 21, 1998, 112 Stat. 2522; Pub. L. 114–201, title I, §114, July 29, 2016, 130 Stat. 804.)
 
 #### Prior Provisions
 
@@ -53,6 +71,10 @@ A prior section 2 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, related to defini
 Prior similar provisions were contained in section 1 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, which was classified to section 1401 of this title prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–201, §114(1), substituted "paragraphs (2) and (3)" for "paragraph (2)" in introductory provisions.
+
+Subsec. (b)(3), (4). Pub. L. 114–201, §114(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
 <b>1998</b>—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: "It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project."
 
@@ -104,6 +126,10 @@ Pub. L. 93–383, title II, §201(b), Aug. 22, 1974, 88 Stat. 667, provided that
 
 Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under section 1437a of this title.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–201, §1(a), July 29, 2016, 130 Stat. 782, provided that: "This Act \[enacting sections 1437z–9, 3536a, and 11386f of this title, amending this section, sections 1436a, 1437a, 1437f, 1437g, 1437n, 1472, 3533, 11373, 11387, 11388, 12902, and 12903 of this title, and section 1709 of Title 12, Banks and Banking, enacting provisions set out as notes under sections 1437a, 1437f, 1437z–9, 3533, 3544, and 11313 of this title, and amending provisions set out as a note under section 12805 of this title\] may be cited as the 'Housing Opportunity Through Modernization Act of 2016'."
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, provided that: "This title \[amending section 1437c–1 of this title\] may be cited as the 'Small Public Housing Authorities Paperwork Reduction Act'."
@@ -132,7 +158,7 @@ Act Sept. 1, 1937, ch. 896, title I, §1, as added by Pub. L. 93–383, title II
 
 Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) \[amending provisions set out as notes under sections 1437a, 1437c, and 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
+Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C.1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
 Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority."
 
@@ -152,7 +178,7 @@ Effective date.—Paragraph (1) shall take effect as if such provision were enac
 
 Pub. L. 101–625, title IV, §419, Nov. 28, 1990, 104 Stat. 4161, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\]."
 
-Pub. L. 101–625, title V, §527, Nov. 28, 1990, 104 Stat. 4216, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housingand Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437l of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply."
+Pub. L. 101–625, title V, §527, Nov. 28, 1990, 104 Stat. 4216, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437l of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply."
 
 #### Applicability of 1989 Amendments; Indian Housing
 
@@ -325,4 +351,6 @@ Effective Date.—This section shall take effect on the date of the enactment of
 #### Limitation on Withholding or Conditioning of Assistance
 
 Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3331 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(i)".</i>
 

@@ -56,7 +56,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 &emsp;(B) to the extent that he finds reasonable and necessary to effectuate the purposes of the designation, make the use of designated fairways and traffic separation schemes mandatory for specific types and sizes of vessels, foreign and domestic, operating in the territorial sea of the United States and for specific types and sizes of vessels of the United States operating on the high seas beyond the territorial sea of the United States;
 
-&emsp;(C) may, from time to time, as necessary, adjust the location or limits of designated fairways or traffic separation schemes, in order to accommodate the needs of other uses which cannot be reasonably accommodated otherwise: <i>Provided</i>, That such an adjustment will not, in the judgement of the Secretary, unacceptably adversely affect the purpose forwhich the existing designation was made and the need for which continues; and
+&emsp;(C) may, from time to time, as necessary, adjust the location or limits of designated fairways or traffic separation schemes, in order to accommodate the needs of other uses which cannot be reasonably accommodated otherwise: <i>Provided</i>, That such an adjustment will not, in the judgement of the Secretary, unacceptably adversely affect the purpose for which the existing designation was made and the need for which continues; and
 
 &emsp;(D) shall, through appropriate channels, (i) notify cognizant international organizations of any designation, or adjustment thereof, and (ii) take action to seek the cooperation of foreign States in making it mandatory for vessels under their control to use any fairway or traffic separation scheme designated pursuant to this subsection in any area of the high seas, to the same extent as required by the Secretary for vessels of the United States.
 
@@ -70,7 +70,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 #### (e) Cooperative agreements
 
-(1) The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1) of this section.
+(1) The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1).
 
 (2) A nongovernmental entity may not under this subsection carry out an inherently governmental function.
 
@@ -115,6 +115,38 @@ Pub. L. 109–241, title IX, §901(d), July 11, 2006, 120 Stat. 564, provided in
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+
+#### No Wake Zones in Navigation Channels
+
+Pub. L. 114–322, title I, §1149, Dec. 16, 2016, 130 Stat. 1660, provided that:
+
+"(a)
+
+In General.—At the request of a State or local official, the Secretary \[of the Army\], in consultation with the Commandant of the Coast Guard, shall promptly identify and, subject to the considerations in subsection (b), allow the implementation of measures for addressing navigation safety hazards in a covered navigation channel resulting from wakes created by recreational vessels identified by such official, while maintaining the navigability of the channel.
+
+"(b)
+
+Considerations.—In identifying measures under subsection (a) with respect to a covered navigation channel, the Secretary shall consider, at a minimum, whether—
+
+&emsp;"(1) State or local law enforcement officers have documented the existence of safety hazards in the channel that are the direct result of excessive wakes from recreational vessels present in the channel;
+
+&emsp;"(2) the Secretary has made a determination that safety concerns exist in the channel and that the proposed measures will remedy those concerns without significant impacts to the navigable capacity of the channel; and
+
+&emsp;"(3) the measures are consistent with any recommendations made by the Commandant of the Coast Guard to ensure the safety of vessels operating in the channel and the safety of the passengers and crew aboard such vessels.
+
+"(c)
+
+Covered Navigation Channel Defined.—In this section, the term 'covered navigation channel' means a navigation channel that—
+
+&emsp;"(1) is federally marked or maintained;
+
+&emsp;"(2) is part of the Atlantic Intracoastal Waterway; and
+
+&emsp;"(3) is adjacent to a marina.
+
+"(d)
+
+Savings Clause.—Nothing in this section shall be construed to relieve the master, pilot, or other person responsible for determining the speed of a vessel from the obligation to comply with the inland navigation regulations promulgated pursuant to section 3 of the Inland Navigational Rules Act of 1980 (33 U.S.C. 2071) or any other applicable laws or regulations governing the safe navigation of a vessel."
 
 #### Notice of Arrival for Foreign Vessels on the Outer Continental Shelf
 

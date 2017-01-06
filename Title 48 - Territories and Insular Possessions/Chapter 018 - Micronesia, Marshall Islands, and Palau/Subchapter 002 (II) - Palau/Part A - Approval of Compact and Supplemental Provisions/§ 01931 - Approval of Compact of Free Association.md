@@ -2,7 +2,7 @@
 
 #### (a) Approval
 
-The Compact of Free Association set forth in title II of this joint resolution between the United States and the Government of Palau is hereby approved, and Congress hereby consents to the agreements as set forth on pages 154 through 405 of House Document 99–193 of April 9, 1986 (hereafter in this joint resolution referred to as subsidiary or related agreements), as they relate to such Government. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the Compact, to an effective date for and thereafter to implement such Compact, having taken into account any procedures with respect to the United Nations for termination of the Trusteeship Agreement.
+The Compact of Free Association set forth in title II of this joint resolution between the United States and the Government of Palau is hereby approved, and Congress hereby consents to the agreements as set forth on pages 154 through 405 of House Document 99–193 of April 9, 1986 (hereafter in this joint resolution referred to as subsidiary or related agreements), as theyrelate to such Government. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the Compact, to an effective date for and thereafter to implement such Compact, having taken into account any procedures with respect to the United Nations for termination of the Trusteeship Agreement.
 
 #### (b) Reference to Compact
 
@@ -60,7 +60,7 @@ Any reference in this joint resolution to the "Compact" shall be treated as a re
 
 &emsp;(E) The agreement referred to in section 462(j) of the Compact.
 
-(5) No agreement between the United States and the Government of Palau which would amend, change, or terminate any subsidiary or related agreement, or portion thereof, other than those set forth in subsection (d) <sup>2</sup> of this section or paragraph (4) of this subsection, shall take effect until the President has transmitted such an agreement to the President of the Senate and the Speaker of the House of Representatives, together with an explanation of the agreement and the reasons therefor.
+(5) No agreement between the United States and the Government of Palau which would amend, change, or terminate any subsidiary or related agreement, or portion thereof, other than those set forth in subsection (d) <sup>2</sup> of this section or paragraph (4) of this subsection, shalltake effect until the President has transmitted such an agreement to the President of the Senate and the Speaker of the House of Representatives, together with an explanation of the agreement and the reasons therefor.
 
 (Pub. L. 99–658, title I, §101, Nov. 14, 1986, 100 Stat. 3673.)
 
@@ -98,7 +98,7 @@ Pub. L. 99–658 which enacted this part contained several "Whereas" clauses rea
 
 "Whereas the United States, in accordance with the Trusteeship Agreement, the Charter of the United Nations and the objectives of the international trusteeship system, has promoted the development of the peoples of the Trust Territory toward self-government or independence as appropriate to the particular cicumstances \[sic\] of the Trust Territory and its peoples and the freely expressed wishes of the peoples concerned; and
 
-"Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its ownobligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and
+"Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its own obligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and
 
 "Whereas these negotiations resulted in the 'Compact of Free Association' \[set out below\] between the United States and Palau which, together with its related agreements, was signed by the United States and by Palau on January 10, 1986; and
 
@@ -132,7 +132,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "NOW, THEREFORE, AGREE to enter into relationship of free association which provides a full measure of self-government for the people of Palau; and
 
-"FURTHER AGREE that the relationships of free association derives from and is as set forth in this Compact; and that, during such relationships of free association, the respective rights and responsibilities of the Government of the United States and the Government of the freely associated state of Palau in regard to this relationship of free association derives from and is as set forth in this Compact.
+"FURTHER AGREE that the relationships of free association derives from and is as set forth in this Compact; and that, during such relationships of free association, the respective rights and responsibilities of the Government of the United States and the Governmentof the freely associated state of Palau in regard to this relationship of free association derives from and is as set forth in this Compact.
 
 #### "TITLE ONE
 
@@ -308,7 +308,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 172
 
-"(a) Every citizen of Palau who is not a resident of the United States shall enjoy the rights and remediesunder the laws of the United States enjoyed by any nonresident alien.
+"(a) Every citizen of Palau who is not a resident of the United States shall enjoy the rights and remedies under the laws of the United States enjoyed by any nonresident alien.
 
 "(b) The Government and every citizen of Palau shall be considered a 'person' within the meaning of the Freedom of Information Act, 5 U.S.C. 552, and of the judicial review provisions of the Administrative Procedure Act, 5 U.S.C. 701–706.
 
@@ -330,7 +330,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 &emsp;"(3) settlement of any administrative claim or of any action before a court of the Trust Territory of the Pacific Islands, pending as of the effective date of this Compact, against the Government of the Trust Territory of the Pacific Islands or the Government of the United States, arising as a result of acts or omissions of the Government of the Trust Territory of the Pacific Islands or the Government of the United States.
 
-"(c) Any claim not referred to in Section 174(b) and arising from an act or omission of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of this Compact shall be adjudicated in the same manner as a claim adjudicated according to Section 174(d). In any claim against the Government of the Trust Territory of the Pacific Islands, the Government of the United States shall stand in the place of the Government of the Trust Territory of the Pacific Islands. A judgment on any claim referred to in Section 174(b) or this subsection, not otherwise satisfied by the Government of the United States, may be presented for certification to the United States Court of Appeals for the Federal Circuit, or its successor court, which shall have jurisdiction therefor, notwithstanding the provisions of 28 U.S.C. 1502, and which court's decisions shall be reviewable as provided by the laws of the United States. The United States Court of Appeals for the Federal Circuit shall certify such judgment, and order payment thereof, unless it finds, after a hearing, that such judgment is manifestly erroneous as to law or fact, or manifestly excessive. In either of such cases the United States Court of Appeals for the Federal Circuit shall have jurisdiction to modify such judgment.
+"(c) Any claim not referred to in Section 174(b) and arising from an act or omission of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of this Compact shall be adjudicated in the same manner as a claim adjudicated according to Section 174(d). In any claim against the Government of the Trust Territory of the Pacific Islands, the Government of the United States shall stand in the place of the Government of the Trust Territory of the Pacific Islands. A judgment on any claim referred to in Section 174(b) or this subsection, not otherwise satisfied by the Government of the United States, may be presented for certification to the United States Court of Appeals for the Federal Circuit, or its successor court, which shall have jurisdiction therefor, notwithstanding the provisions of 28 U.S.C. 1502, and which court's decisions shall be reviewable as provided by the laws of the United States. The United States Court of Appeals for the Federal Circuit shall certify such judgment, and order payment thereof, unless it finds, after a hearing, that such judgment is manifestly erroneous as to law or fact, or manifestly excessive. In either of such cases the UnitedStates Court of Appeals for the Federal Circuit shall have jurisdiction to modify such judgment.
 
 "(d) The Government of Palau, shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of Palau in any case in which the action is based on a commercial activity of the defendant Government carried out where the action is brought, or in a case in which damages are sought for personal injury or death or damage to or loss of property occurring where the action is brought. This subsection shall apply only to actions based on commercial activities entered into or injuries or losses suffered on or after the effective date of this Compact.
 
@@ -526,7 +526,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 254
 
-"(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shall have authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term 'resident of Palau' shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
+"(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shallhave authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term 'resident of Palau' shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
 
 &emsp;"(1) relief in the form of the foreign tax credit (or deduction in lieu thereof) available with respect to the income taxes of a possession of the United States, and
 
@@ -632,7 +632,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(c) Unless otherwise mutually agreed, the joint committee shall meet semi-annually at a time and place to be designated, after appropriate consultation, by the Government of the United States. The joint committee also shall meet promptly upon request of either of its members. Upon notification by the Government of the United States, the joint committee shall meet promptly in combined session with other such joint committees so notified. The joint committee shall follow such procedures, including the establishment of functional subcommittees, as the members may from time to time agree.
 
-"(d) Unresolved issues in the joint committee shall be referred to the Government of the United States andthe Government of Palau for resolution, and the Government of Palau shall be afforded, on an expeditious basis, an opportunity to raise its concerns with the United States Secretary of Defense personally regarding any unresolved issue which threatens its continued association with the Government of the United States.
+"(d) Unresolved issues in the joint committee shall be referred to the Government of the United States and the Government of Palau for resolution, and the Government of Palau shall be afforded, on an expeditious basis, an opportunity to raise its concerns with the United States Secretary of Defense personally regarding any unresolved issue which threatens its continued association with the Government of the United States.
 
 #### "Section 352
 
@@ -682,7 +682,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 423
 
-"If a dispute between the Government of the United States and the Government of Palau cannot be resolved within 90 days of written notification in the manner provided in Section 422, either party to the dispute may refer it to arbitration in accordance with Section 424.
+"If a dispute between the Government of the United States and the Government of Palau cannot be resolvedwithin 90 days of written notification in the manner provided in Section 422, either party to the dispute may refer it to arbitration in accordance with Section 424.
 
 #### "Section 424
 
@@ -708,7 +708,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 432
 
-"Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact andits related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
+"Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact and its related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
 
 #### "Article IV
 
@@ -878,7 +878,7 @@ On October 21, 1986, in the case of the Republic of the Marshall Islands, and on
 
 On January 10, 1986, the Government of the United States and the Government of Palau concluded a Compact of Free Association \[set out above\] similar to those that the United States entered into with the Republic of the Marshall Islands and with the Federated States of Micronesia. As in those instances, it was specified that the Compact with Palau would come into effect upon (1) mutual agreement between the Government of the United States, acting in fulfillment of its responsibilities as Administering Authority of the Trust Territory of the Pacific Islands, and the Government of Palau; (2) the approval of the Compact by the two Governments, in accordance with their constitutional processes; and (3) the approval of the Compact by plebiscite in Palau.
 
-In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved byPublic Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
+In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved by Public Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
 
 On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for the Trusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
 

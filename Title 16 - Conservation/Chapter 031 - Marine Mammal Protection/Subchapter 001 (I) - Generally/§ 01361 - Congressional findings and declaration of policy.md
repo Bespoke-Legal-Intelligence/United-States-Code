@@ -110,7 +110,7 @@ Pub. L. 103–238, §14, Apr. 30, 1994, 108 Stat. 558, provided that: "Nothing i
 
 #### Study on Effects of Dolphin Feeding
 
-Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
+Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects offeeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
 
 #### Study on Mortality of Atlantic Dolphin
 

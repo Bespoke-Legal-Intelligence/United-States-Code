@@ -6,7 +6,7 @@ Policy.—The Administrator shall take all necessary steps to ensure that the In
 
 (b)
 
-NASA Actions.—In furtherance of the policy under subsection (a), the Administrator shall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
+NASA Actions.—In furtherance of the policy under subsection (a), the Administratorshall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
 
 &emsp;(1) remains viable as an element of overall exploration and partnership strategies and approaches;
 
@@ -34,5 +34,5 @@ Pub. L. 110–422, title VI, §601(a), Oct. 15, 2008, 122 Stat. 4793.
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–90 amended section generally. Prior to amendment, section related to maintaining theInternational Space Station as a viable and productive facility capable of potential United States utilization through at least 2020.
+<b>2015</b>—Pub. L. 114–90 amended section generally. Prior to amendment, section related to maintaining the International Space Station as a viable and productive facility capable of potential United States utilization through at least 2020.
 

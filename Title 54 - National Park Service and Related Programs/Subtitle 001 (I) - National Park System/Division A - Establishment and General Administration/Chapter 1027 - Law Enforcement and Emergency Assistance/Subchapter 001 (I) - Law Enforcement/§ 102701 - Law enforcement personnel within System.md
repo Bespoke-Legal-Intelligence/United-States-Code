@@ -56,7 +56,7 @@ In general.—Except as otherwise provided in this subsection, a law enforcement
 
 &emsp;&emsp;(B)
 
-Exceptions.—A law enforcement officer of a State or political subdivision of aState, when acting as a special police officer under paragraph (1), is deemed to be—
+Exceptions.—A law enforcement officer of a State or political subdivision of a State, when acting as a special police officer under paragraph (1), is deemed to be—
 
 &emsp;&emsp;&emsp;(i) a Federal employee for purposes of sections 1346(b) and 2401(b) and chapter 171 of title 28; and
 

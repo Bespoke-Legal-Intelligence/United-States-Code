@@ -14,7 +14,7 @@
 
 (3) The Executive Secretary shall be compensated at the rate specified for employees placed in grade GS–18 of the General Schedule set forth in section 5332 of title 5.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §813\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591,§101(b) \[title VIII, §813\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, §2, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 101–557, title V, §501, Nov. 15, 1990, 104 Stat. 2771; Pub. L. 101–589, title II, §253, Nov. 16, 1990, 104 Stat. 2895.)
+(Pub. L. 99–500, §101(b) \[title VIII, §813\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, §101(b) \[title VIII, §813\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, §2, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 101–557, title V, §501, Nov. 15, 1990, 104 Stat. 2771; Pub. L. 101–589, title II, §253, Nov. 16, 1990, 104 Stat. 2895.)
 
 #### References in Text
 

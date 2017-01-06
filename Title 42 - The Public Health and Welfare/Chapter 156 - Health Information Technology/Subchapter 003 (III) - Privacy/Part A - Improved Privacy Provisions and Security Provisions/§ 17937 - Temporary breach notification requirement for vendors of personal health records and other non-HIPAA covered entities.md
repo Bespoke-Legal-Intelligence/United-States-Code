@@ -48,7 +48,7 @@ For purposes of this section:
 
 #### (B) Exception in case timely guidance not issued
 
-&emsp;&emsp;In the case that the Secretary does not issue guidance under section 17932(h)(2) of this title by the date specified in such section, for purposes of this section, the term "unsecured PHR identifiable health information" shall mean PHR identifiable health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and that is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
+&emsp;&emsp;In the case that the Secretary does not issue guidance under section 17932(h)(2) ofthis title by the date specified in such section, for purposes of this section, the term "unsecured PHR identifiable health information" shall mean PHR identifiable health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and that is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
 
 #### (g) Regulations; effective date; sunset
 

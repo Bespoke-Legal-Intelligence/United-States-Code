@@ -8,7 +8,7 @@ Section 982, Pub. L. 89–287, §3, Oct. 22, 1965, 79 Stat. 1037, authorized Com
 
 Section 983, Pub. L. 89–287, §4, Oct. 22, 1965, 79 Stat. 1038, prohibited Commissioner from issuing certificates of insurance to lenders in States having adequate non-Federal loan insurance programs.
 
-Section 984, Pub. L. 89–287, §5, Oct. 22, 1965, 79 Stat. 1038; Pub. L. 90–460, §1(b)(1), Aug. 3, 1968, 82 Stat. 634, set forth scope and duration of loan insurance program of this chapter.
+Section 984, Pub. L. 89–287, §5, Oct. 22, 1965, 79 Stat. 1038; Pub. L. 90–460, §1(b)(1), Aug. 3, 1968, 82 Stat. 634,set forth scope and duration of loan insurance program of this chapter.
 
 Section 985, Pub. L. 89–287, §6, Oct. 22, 1965, 79 Stat. 1039, limited annual and aggregate amounts available to individuals as loans and covered by insurance under this chapter.
 
@@ -40,7 +40,7 @@ Repeal applicable to loans made on or after the 60th day after Oct. 16, 1968, se
 
 #### Transfer of Assets and Liabilities of the Vocational Student Loan Insurance Fund
 
-Pub. L. 90–575, title I, §116(c)(2), Oct. 16, 1968, 82 Stat. 1024, provided that: "All assets and liabilities of the vocational student loan insurance fund established by section 13 of the National Vocational Student Loan Insurance Act of 1965 \[section 992 of this title\], matured or contingent, shall be transferred to, and become assets and liabilities of, the student loan insurance fund established by section 431 of the Higher Education Act of 1965 \[section 1081 of this title\]. Payments in connection with defaults of loans made on or after the sixtiethday after the date of enactment of this Act \[Oct. 16, 1968\] and insured by the Commissioner (under the authority of subsection (e)(3) or (e)(4) of this section \[set out as a note under section 1083 of this title\]) under the National Vocational Student Loan Insurance Act of 1965 \[sections 981 to 996 of this title\] shall be paid out of the fund established by such section 431."
+Pub. L. 90–575, title I, §116(c)(2), Oct. 16, 1968, 82 Stat. 1024, provided that: "All assets and liabilities of the vocational student loan insurance fund established by section 13 of the National Vocational Student Loan Insurance Act of 1965 \[section 992 of this title\], matured or contingent, shall be transferred to, and become assets and liabilities of, the student loan insurance fund established by section 431 of the Higher Education Act of 1965 \[section 1081 of this title\]. Payments in connection with defaults of loans made on or after the sixtieth day after the date of enactment of this Act \[Oct. 16, 1968\] and insured by the Commissioner (under the authority of subsection (e)(3) or (e)(4) of this section \[set out as a note under section 1083 of this title\]) under the National Vocational Student Loan Insurance Act of 1965 \[sections 981 to 996 of this title\] shall be paid out of the fund established by such section 431."
 
 &nbsp;
 

@@ -164,7 +164,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 #### (A) In general
 
-&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b).
+&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligiblecommodities from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b).
 
 #### (B) Basis for reimbursement
 

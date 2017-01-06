@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of Eligible State.—In this section, the term "eligible State" means a State designated by the Administrator as eligible tocompete in the National Science Foundation's Experimental Program to Stimulate Competitive Research.
+Definition of Eligible State.—In this section, the term "eligible State" means a State designated by the Administrator as eligible to compete in the National Science Foundation's Experimental Program to Stimulate Competitive Research.
 
 (b)
 

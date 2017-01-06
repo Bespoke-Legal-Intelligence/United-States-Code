@@ -11,3 +11,4 @@ Part Q—Programs To Improve the Health of Children
 - [&sect; 00280h&#8211;3 - Health professional education and training](%C2%A7%2000280h%E2%80%933%20-%20Health%20professional%20education%20and%20training.md)
 - [&sect; 00280h&#8211;4 - Grants for the establishment of school-based health centers](%C2%A7%2000280h%E2%80%934%20-%20Grants%20for%20the%20establishment%20of%20school-based%20health%20centers.md)
 - [&sect; 00280h&#8211;5 - School-based health centers](%C2%A7%2000280h%E2%80%935%20-%20School-based%20health%20centers.md)
+- [&sect; 00280h&#8211;6 - Infant and early childhood mental health promotion, intervention, and treatment](%C2%A7%2000280h%E2%80%936%20-%20Infant%20and%20early%20childhood%20mental%20health%20promotion%2C%20intervention%2C%20and%20treatment.md)

@@ -38,7 +38,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (C) Public sale
 
-&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancherunder subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
+&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancher under subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
 
 #### (2) Previous lease
 
@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice orwrit is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -138,7 +138,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) such Indian tribe itself.
 
-(v) If real property described in clause (i) is not purchased or leased under clause (iii) and the Indian tribe having jurisdiction over the reservation within which the real property is located is unable to purchase or lease the real property, the Secretary shall transfer the real property to the Secretary of the Interior who shall administer the real property as if the real property were held in trust by the United States for the benefit of such Indian tribe. From the rental income derived from the lease of the transferred real property, and all other income generated from the transferred real property, the Secretary of the Interior shall pay those State, county, municipal, or other local taxes to which the transferred real property was subject at the time of acquisition by the Secretary, until the earlier of—
+(v) If real property described in clause (i) is not purchased or leased under clause (iii) and the Indian tribe having jurisdiction over the reservation within which the real property is located is unable to purchase or lease the realproperty, the Secretary shall transfer the real property to the Secretary of the Interior who shall administer the real property as if the real property were held in trust by the United States for the benefit of such Indian tribe. From the rental income derived from the lease of the transferred real property, and all other income generated from the transferred real property, the Secretary of the Interior shall pay those State, county, municipal, or other local taxes to which the transferred real property was subject at the time of acquisition by the Secretary, until the earlier of—
 
 &emsp;(I) the expiration of the 4-year period beginning on the date on which the real property is so transferred, or
 
@@ -218,7 +218,7 @@ Notice to borrower.—If an Indian borrower-owner does not voluntarily convey to
 
 &emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasing the Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
 
-&emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribehaving jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
+&emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
 
 &emsp;(II)
 
@@ -238,7 +238,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 &emsp;&emsp;(bb) the loan shall be for the lesser of the outstanding principal and interest of the loan or the fair market value of the property; and
 
-&emsp;&emsp;(cc) the loan shall be treated as though the loan was made under sections 488 to 494 of title 25.
+&emsp;&emsp;(cc) the loan shall be treated as though the loan was made under sections 5136 to 5143 of title 25.
 
 (vi)(I) Except as provided in subclause (II), at a foreclosure sale of real property described in clause (i), the Secretary shall offer a bid for the property that is equal to the higher of—
 
@@ -258,7 +258,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (5) Notwithstanding any other provisions of law, compliance by the Secretary with this subsection shall not cause any acreage allotment, marketing quota, or acreage base assigned to such property to lapse, terminate, be reduced, or otherwise be adversely affected.
 
-(6) In the event of any conflict between any provision of this subsection and any provision of the law of any State providing a right of first refusal to the owner of farmland or the operator of a farm before the sale or lease of land to any other person, such provision of State law shall prevail.
+(6) In the event of any conflict between any provision of this subsection and any provision ofthe law of any State providing a right of first refusal to the owner of farmland or the operator of a farm before the sale or lease of land to any other person, such provision of State law shall prevail.
 
 #### (f) Normal security income
 
@@ -354,7 +354,7 @@ Subsec. (c)(2). Pub. L. 107–171, §5308(2), added par. (2) and struck out head
 
 "(A)
 
-Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretaryleased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
+Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
 
 "(B)
 
@@ -442,7 +442,7 @@ Subsec. (e)(1)(D)(i). Pub. L. 102–554, §17(1), substituted "Except as provide
 
 Subsec. (e)(1)(G). Pub. L. 102–554, §17(2), added subpar. (G).
 
-<b>1991</b>—Subsec. (e)(1)(A)(i). Pub. L. 102–237, §501(f)(1), as amended by Pub. L. 102–552, substituted "the borrower-owner (as defined in subparagraph (F))" for "the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the 'borrower-owner')". See 1992 Amendment note above.
+<b>1991</b>—Subsec. (e)(1)(A)(i). Pub. L. 102–237, §501(f)(1), as amended by Pub. L. 102–552, substituted "the borrower-owner (as defined in subparagraph (F))" for "the borrower from whom the Secretary acquired real farm orranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the 'borrower-owner')". See 1992 Amendment note above.
 
 Subsec. (e)(1)(F). Pub. L. 102–237, §501(f)(2), added subpar. (F).
 
@@ -478,7 +478,7 @@ Pub. L. 101–624, §1813(b)(2), substituted "shall randomly" for "shall, by maj
 
 Subsec. (g). Pub. L. 101–624, §1813(h)(1), added subsec. (g).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless propertycannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
 
 Subsec. (e)(1). Pub. L. 100–233, §610(b)(1), added par. (1) and struck out former par. (1) which read as follows: "The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
 
@@ -510,7 +510,7 @@ Subsec. (e). Pub. L. 99–198, §1314(a)(3), added subsec. (e).
 
 Subsec. (f). Pub. L. 99–198, §1315, added subsec. (f).
 
-<b>1972</b>—Subsec. (c). Pub. L. 92–419 substituted "the provisions of any law administered by the Farmers Home Administration" for "subchapter I of this chapter" in first sentence and "such provisions" for "the provisions of subchapter I of this chapter" in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
+<b>1972</b>—Subsec. (c). Pub. L. 92–419 substituted "the provisions of any law administered by the Farmers Home Administration" for "subchapter I of this chapter" in first sentence and "such provisions" for "the provisions of subchapter I of this chapter" in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision forpayment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
 
 #### Effective Date of 2008 Amendment
 

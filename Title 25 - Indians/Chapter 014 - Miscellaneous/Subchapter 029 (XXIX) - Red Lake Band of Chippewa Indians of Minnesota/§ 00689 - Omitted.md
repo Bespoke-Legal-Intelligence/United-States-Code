@@ -1,0 +1,6 @@
+### §689. Omitted
+
+#### Codification
+
+Section, Pub. L. 85–794, §3, Aug. 28, 1958, 72 Stat. 958, which provided that payments made under former sections 687 to 689 of this title would not be considered "other income and resources", was omitted from the Code as being of special and not general application.
+

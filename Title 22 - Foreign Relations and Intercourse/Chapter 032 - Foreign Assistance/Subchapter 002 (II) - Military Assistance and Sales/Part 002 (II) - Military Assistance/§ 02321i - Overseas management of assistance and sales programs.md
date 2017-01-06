@@ -100,7 +100,7 @@ Subsec. (h). Pub. L. 95–384, §9(e), added subsec. (h).
 
 Subsec. (b). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to specified countries by President for implementation of management responsibilities during fiscal year 1978 under international security assistance programs, for provisions requiring specific Congressional authority for assignment of any military assistance advisory group, etc., to operate in any foreign country after Sept. 30, 1977, and provisions relating to assignment by the President of military personnel to diplomatic missions of the United States.
 
-Subsec. (c). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to nonspecifiedcountries by President for performance of accounting and other management functions under international security assistance programs, for provisions limiting after Sept. 30, 1976, the number of military missions and groups to not more than 34.
+Subsec. (c). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to nonspecified countries by President for performance of accounting and other management functions under international security assistance programs, for provisions limiting after Sept. 30, 1976, the number of military missions and groups to not more than 34.
 
 Subsec. (d). Pub. L. 95–92 substituted provisions setting forth maximum number of military personnel assignable under subsecs. (b) and (c) of this section for fiscal year 1978 as 865, for provisions defining "military assistance advisory group, military mission, or other organization of United States military personnel performing similar military advisory functions under this chapter".
 

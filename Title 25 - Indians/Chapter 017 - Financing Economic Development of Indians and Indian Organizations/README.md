@@ -81,6 +81,8 @@
 | [1542\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001542%20-%20Agency%20cooperation%3B%20private%20contracts%20for%20management%20services%20and%20technical%20assistance.md) | Agency cooperation; private contracts for management services and technical assistance. |
 | [1543\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001543%20-%20Funds%20limitation%20for%20private%20contracts.md) | Funds limitation for private contracts. |
 | [1544\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001544%20-%20Additional%20compensation%20to%20contractors%20of%20Federal%20agency.md) | Additional compensation to contractors of Federal agency. |
+| [1545\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001545%20-%20Livestock%20loans%3B%20cash%20settlements.md) | Livestock loans; cash settlements. |
+| [1546\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001546%20-%20Disposition%20of%20cash%20settlements.md) | Disposition of cash settlements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

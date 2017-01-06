@@ -16,7 +16,7 @@
 
 #### (4) Options for obtaining loan
 
-&emsp;A marketing assistance loan under this subsection, and loan deficiency payments undersubsection (e), may be obtained at the option of the producers on a farm through—
+&emsp;A marketing assistance loan under this subsection, and loan deficiency payments under subsection (e), may be obtained at the option of the producers on a farm through—
 
 &emsp;&emsp;(A) a designated marketing association or marketing cooperative of producers that is approved by the Secretary; or
 
@@ -135,6 +135,10 @@ The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

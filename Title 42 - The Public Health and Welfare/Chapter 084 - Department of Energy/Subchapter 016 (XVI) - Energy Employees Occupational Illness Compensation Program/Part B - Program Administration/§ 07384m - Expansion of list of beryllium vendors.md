@@ -6,5 +6,5 @@ Not later than December 31, 2002, the President may, in consultation with the Se
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, set out as a note under section 7384 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000,65 F.R. 77487, set out as a note under section 7384 of this title.
 

@@ -32,13 +32,13 @@ Authorized Recommendations.—The Physical Disability Board of Review may, as a 
 
 &emsp;(2) The recharacterization of the separation of such individual to retirement for disability.
 
-&emsp;(3) The modification of the disability rating previously assigned such individual by thePhysical Evaluation Board concerned, which modified disability rating may not be a reduction of the disability rating previously assigned such individual by that Physical Evaluation Board.
+&emsp;(3) The modification of the disability rating previously assigned such individual by the Physical Evaluation Board concerned, which modified disability rating may not be a reduction of the disability rating previously assigned such individual by that Physical Evaluation Board.
 
 &emsp;(4) The issuance of a new disability rating for such individual.
 
 (e)
 
-Correction of Military Records.—(1) The Secretary concerned may correct the military records of a covered individual in accordance with a recommendation made by the Physical Disability Board of Review under subsection (d). Any such correction may be made effective as of the effective date of the action taken on the report of the Physical Evaluation Board to which such recommendation relates.
+Correction of Military Records.—(1) The Secretary concerned may correct the military records of a covered individual in accordance with a recommendation made by the Physical Disability Board of Review under subsection (d). Any such correction may be made effective as ofthe effective date of the action taken on the report of the Physical Evaluation Board to which such recommendation relates.
 
 (2) In the case of a member previously separated pursuant to the findings and decision of a Physical Evaluation Board together with a lump-sum or other payment of back pay and allowances at separation, the amount of pay or other monetary benefits to which such member would be entitled based on the member's military record as corrected shall be reduced to take into account receipt of such lump-sum or other payment in such manner as the Secretary of Defense considers appropriate.
 

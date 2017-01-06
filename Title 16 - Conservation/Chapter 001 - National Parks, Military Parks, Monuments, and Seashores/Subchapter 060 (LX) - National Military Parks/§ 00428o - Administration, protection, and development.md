@@ -1,6 +1,6 @@
 ### §428<i>o</i>. Administration, protection, and development
 
-The administration, protection, and development of the Fort Donelson National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act entitled "An Act to establish a National ParkService, and for other purposes", approved August 25, 1916 (39 Stat. 535),<sup>1</sup> as amended.
+The administration, protection, and development of the Fort Donelson National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535),<sup>1</sup> as amended.
 
 (Pub. L. 86–738, §5, Sept. 8, 1960, 74 Stat. 876.)
 

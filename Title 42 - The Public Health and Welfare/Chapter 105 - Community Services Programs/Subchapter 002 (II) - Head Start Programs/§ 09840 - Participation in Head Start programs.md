@@ -44,7 +44,7 @@
 
 &emsp;(A) there is no other preschool program in the community;
 
-&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) <sup>2</sup> of this title and is located in a health professional shortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
+&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) <sup>2</sup> of this title and is located in a health professionalshortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
 
 &emsp;(C) the community is in a location which, by reason of remoteness, does not permit reasonable access to the types of services described in clauses (A) and (B); and
 
@@ -60,7 +60,7 @@
 
 (B) The following amounts of pay and allowance of a member of the uniformed services shall not be considered to be income for purposes of determining the eligibility of a dependent of such member for programs funded under this subchapter:
 
-&emsp;(i) The amount of any special pay payable under section 310 of title 37, relating to duty subject to hostile fire or imminent danger.
+&emsp;(i) The amount of any special pay payable under section 310 or 351 of title 37, relating to duty subject to hostile fire or imminent danger.
 
 &emsp;(ii) The amount of basic allowance payable under section 403 of such title, including any such amount that is provided on behalf of the member for housing that is acquired or constructed under the alternative authority for the acquisition and improvement of military housing under subchapter IV of chapter 169 of title 10 or any other related provision of law.
 
@@ -92,11 +92,11 @@
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 
-The Secretary shall not prescribe any fee schedule or otherwise provide for the charging of any fees for participation in Head Start programs, unless such fees are authorized by legislation hereafter enacted. Nothing in this subsection shall be construed to prevent the families of children who participate in Head Start programs and who are willing and able to pay the full cost of such participation from doing so. A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving the services through participation in a program carried out by another agency or entity.
+The Secretary shall not prescribe any fee schedule or otherwise provide for the charging of any fees for participation in Head Start programs, unless such fees are authorized by legislation hereafter enacted. Nothing in this subsection shall be construed to prevent the families of children who participate in Head Start programs and who are willing and able to pay the full cost of such participation from doing so. A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving theservices through participation in a program carried out by another agency or entity.
 
 #### (c) Availability of more than one year of services; children eligible
 
-Each Head Start program operated in a community shall be permitted to provide more than 1 year of Head Start services to eligible children in the State. Each Head Start program operated in a community shall be permitted to recruitand accept applications for enrollment of children throughout the year.
+Each Head Start program operated in a community shall be permitted to provide more than 1 year of Head Start services to eligible children in the State. Each Head Start program operated in a community shall be permitted to recruit and accept applications for enrollment of children throughout the year.
 
 #### (d) Indian tribes
 
@@ -104,7 +104,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 &emsp;(A) operates a Head Start program;
 
-&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
+&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
 
 &emsp;(C) has the resources to enroll additional children in the community who do not meet the low-income criteria;
 
@@ -114,7 +114,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 (3) Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under section 9840a of this title and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary to reduce a base grant (as defined in section 9835(a)(7) of this title) for either program in succeeding years.
 
-(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718; Pub. L. 110–134, §14, Dec. 12, 2007, 121 Stat. 1415.)
+(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718; Pub. L. 110–134, §14, Dec. 12, 2007, 121 Stat. 1415; Pub. L. 114–328, div. A, title VI, §618(j), Dec. 23, 2016, 130 Stat. 2161.)
 
 #### References in Text
 
@@ -123,6 +123,8 @@ Section 254c of this title, referred to in subsec. (a)(2)(B), was in the origina
 This Act, referred to in subsec. (d)(3), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Omnibus Budget Reconciliation Act of 1981. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3)(B)(i). Pub. L. 114–328 inserted "or 351" after "section 310".
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–134, §14(1)(A), added par. (a)(1) and struck out former par. (1) which related to criteria for eligibility for participation in Head Start programs assisted under this subchapter.
 
@@ -148,7 +150,7 @@ Subsec. (d). Pub. L. 103–252, §111(2), added subsec. (d).
 
 Subsec. (a)(2)(B). Pub. L. 101–597 substituted "health professional shortage area" for "health manpower shortage area".
 
-Subsec. (c). Pub. L. 101–501, §114, inserted at end "The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence."
+Subsec. (c). Pub. L. 101–501, §114, inserted at end "The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start programin accordance with the authority described in the preceding sentence."
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–425 substituted "1990" for "1986" in closing provisions.
 

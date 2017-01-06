@@ -32,7 +32,7 @@ The plan required by subsection (a) shall include, with respect to each defense 
 
 &emsp;&emsp;(A) Preventing nuclear and radiological proliferation and terrorism, including through—
 
-&emsp;&emsp;&emsp;(i) material management and minimization, particularly with respect to removing or minimizing the use of highly enriched uranium, plutonium, and radiological materials worldwide (and identifyingthe countries in which such materials are located), efforts to dispose of surplus material, converting reactors from highly enriched uranium to low-enriched uranium (and identifying the countries in which such reactors are located);
+&emsp;&emsp;&emsp;(i) material management and minimization, particularly with respect to removing or minimizing the use of highly enriched uranium, plutonium, and radiological materials worldwide (and identifying the countries in which such materials are located), efforts to dispose of surplus material, converting reactors from highly enriched uranium to low-enriched uranium (and identifying the countries in which such reactors are located);
 
 &emsp;&emsp;&emsp;(ii) global nuclear material security, including securing highly enriched uranium, plutonium, and radiological materials worldwide (and identifying the countries in which such materials are located), and providing radiation detection capabilities at foreign ports and borders;
 

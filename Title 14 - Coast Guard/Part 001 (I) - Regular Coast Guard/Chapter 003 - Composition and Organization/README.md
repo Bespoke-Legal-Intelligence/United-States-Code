@@ -9,12 +9,7 @@
 | [44\.](%C2%A7%2000044%20-%20Commandant%3B%20appointment.md) | Commandant; appointment. |
 | \[45. | Repealed.\] |
 | [46\.](%C2%A7%2000046%20-%20Retirement%20of%20Commandant.md) | Retirement of Commandant. |
-| [47\.](%C2%A7%2000047%20-%20Vice%20commandant%3B%201%20appointment.md) | Vice Commandant; appointment.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [47\.](%C2%A7%2000047%20-%20Vice%20Commandant%3B%20appointment.md) | Vice Commandant; appointment. |
 | \[48, 49. | Repealed.\] |
 | [50\.](%C2%A7%2000050%20-%20Vice%20admirals.md) | Vice admirals. |
 | \[50a. | Repealed.\] |
@@ -30,7 +25,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [60\.](%C2%A7%2000060%20-%20Training%20course%20on%20workings%20of%20Congress.md) | Training course on workings of Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title II, §214(b)(2), Feb. 8, 2016, 130 Stat. 45, added item 60.
 
 <b>2012</b>—Pub. L. 112–213, title II, §216(a), Dec. 20, 2012, 126 Stat. 1555, struck out item 55 "District Ombudsmen".
 
@@ -64,7 +67,7 @@
 - [&sect; 00044 - Commandant; appointment](%C2%A7%2000044%20-%20Commandant%3B%20appointment.md)
 - [&sect; 00045 - Repealed. Pub. L. 86&#8211;474, &sect;1(4), May 14, 1960, 74 Stat. 144](%C2%A7%2000045%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93474%2C%20%C2%A71%284%29%2C%20May%2014%2C%201960%2C%2074%20Stat.%20144.md)
 - [&sect; 00046 - Retirement of Commandant](%C2%A7%2000046%20-%20Retirement%20of%20Commandant.md)
-- [&sect; 00047 - Vice commandant; 1 appointment](%C2%A7%2000047%20-%20Vice%20commandant%3B%201%20appointment.md)
+- [&sect; 00047 - Vice Commandant; appointment](%C2%A7%2000047%20-%20Vice%20Commandant%3B%20appointment.md)
 - [&sect; 00048, 49 - Repealed. Pub. L. 86&#8211;474, &sect;1(7), May 14, 1960, 74 Stat. 145](%C2%A7%2000048%2C%2049%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93474%2C%20%C2%A71%287%29%2C%20May%2014%2C%201960%2C%2074%20Stat.%20145.md)
 - [&sect; 00050 - Vice admirals](%C2%A7%2000050%20-%20Vice%20admirals.md)
 - [&sect; 00050a - Repealed. Pub. L. 111&#8211;281, title V, &sect;511(b), Oct. 15, 2010, 124 Stat. 2952](%C2%A7%2000050a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93281%2C%20title%20V%2C%20%C2%A7511%28b%29%2C%20Oct.%2015%2C%202010%2C%20124%20Stat.%202952.md)
@@ -77,3 +80,4 @@
 - [&sect; 00057 - Prevention and response workforces](%C2%A7%2000057%20-%20Prevention%20and%20response%20workforces.md)
 - [&sect; 00058 - Centers of expertise for Coast Guard prevention and response](%C2%A7%2000058%20-%20Centers%20of%20expertise%20for%20Coast%20Guard%20prevention%20and%20response.md)
 - [&sect; 00059 - Marine industry training program](%C2%A7%2000059%20-%20Marine%20industry%20training%20program.md)
+- [&sect; 00060 - Training course on workings of Congress](%C2%A7%2000060%20-%20Training%20course%20on%20workings%20of%20Congress.md)

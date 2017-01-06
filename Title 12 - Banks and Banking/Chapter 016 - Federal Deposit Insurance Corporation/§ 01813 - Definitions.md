@@ -148,7 +148,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(ii) the contract evidencing the obligation provides by express terms, and not by implication, for payment at an office of the depository institution located in any State;
 
-&emsp;&emsp;&emsp;(B) any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board ofGovernors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;&emsp;(B) any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board of Governors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
 
 &emsp;&emsp;&emsp;(C) any liability of an insured depository institution that arises under an annuity contract, the income of which is tax deferred under section 72 of title 26.
 
@@ -234,7 +234,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (1) In general
 
-&emsp;&emsp;The term "State bank supervisor" means any officer, agency, or other entity of anyState which has primary regulatory authority over State banks or State savings associations in such State.
+&emsp;&emsp;The term "State bank supervisor" means any officer, agency, or other entity of any State which has primary regulatory authority over State banks or State savings associations in such State.
 
 #### (2) Interstate application
 
@@ -248,7 +248,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (2) Federal branch
 
-&emsp;&emsp;The term "Federal branch" has the meaning given to such term by section 1(b)(6) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
+&emsp;&emsp;The term "Federal branch" has the meaning given to such term by section 1(b)(6) ofthe International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
 
 #### (3) Insured branch
 
@@ -330,7 +330,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (2) In danger of default
 
-&emsp;&emsp;The term "in danger of default" means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, ifthe appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
+&emsp;&emsp;The term "in danger of default" means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, if the appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
 
 &emsp;&emsp;&emsp;(A) in the opinion of such agency or authority—
 
@@ -388,7 +388,7 @@ Subsec. (q)(1) to (4). Pub. L. 111–203, §312(c)(1), added pars. (1) to (3) an
 
 Subsec. (u)(1), (3). Pub. L. 111–203, §312(c)(2), substituted "(other than a bank holding company or savings and loan holding company" for "(other than a bank holding company".
 
-Subsec. (y)(3). Pub. L. 111–203, §334(b), inserted ", or such comparable percentage of the assessment base setforth in section 1817(b)(2)(C) of this title" before the period.
+Subsec. (y)(3). Pub. L. 111–203, §334(b), inserted ", or such comparable percentage of the assessment base set forth in section 1817(b)(2)(C) of this title" before the period.
 
 Subsec. (z). Pub. L. 111–203, §363(1)(C), struck out "the Director of the Office of Thrift Supervision," before "the Board".
 
@@ -464,7 +464,7 @@ Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out
 
 Subsec. (m)(3), (4). Pub. L. 102–242, §141(f), added pars. (3) and (4).
 
-Subsec. (r). Pub. L. 102–242, §112(b), as added by Pub. L. 102–550, §1603(b)(2)(B), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "Theterms 'foreign bank' and 'Federal branch' shall be construed consistently with the usage of such terms in the International Banking Act of 1978."
+Subsec. (r). Pub. L. 102–242, §112(b), as added by Pub. L. 102–550, §1603(b)(2)(B), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "The terms 'foreign bank' and 'Federal branch' shall be construed consistently with the usage of such terms in the International Banking Act of 1978."
 
 Subsec. (s). Pub. L. 102–242, §111(e), amended subsec. (s) generally. Prior to amendment, subsec. (s) read as follows: "The term 'insured branch' means a branch of a foreign bank any deposits in which are insured in accordance with the provisions of this chapter."
 
@@ -544,7 +544,7 @@ Subsec. (t). Pub. L. 97–320, §113(b), added subsec. (t).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–110, §103(a)(1), inserted "the Trust Territory of the Pacific Islands," after "American Samoa," wherever appearing.
 
-Subsec. (l)(5). Pub. L. 97–110, §102, reenacted without change the provisions preceding subpar. (A), redesignated remaining existing provisions as subpar. (A), inserted reference to banks located outside of the TrustTerritory of the Pacific Islands in subpar. (A) as thus redesignated, and added subpar. (B).
+Subsec. (l)(5). Pub. L. 97–110, §102, reenacted without change the provisions preceding subpar. (A), redesignated remaining existing provisions as subpar. (A), inserted reference to banks located outside of the Trust Territory of the Pacific Islands in subpar. (A) as thus redesignated, and added subpar. (B).
 
 Subsec. (m)(1). Pub. L. 97–110, §103(a)(2), inserted "of the Trust Territory of the Pacific Islands," after "American Samoa,".
 
@@ -638,7 +638,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–495, title I, §101(g), Oct. 28, 1974, 88 Stat. 1502, provided that: "This section and the amendments made by it \[amending this section and sections 1464, 1724, 1728, 1757, 1787, 1817, and 1821 of this title\] shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974\]."
+Pub. L. 93–495, title I, §101(g), Oct. 28, 1974, 88 Stat. 1502, provided that: "This section and the amendmentsmade by it \[amending this section and sections 1464, 1724, 1728, 1757, 1787, 1817, and 1821 of this title\] shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974\]."
 
 Pub. L. 93–495, title I, §102(b), (c), Oct. 28, 1974, 88 Stat. 1502, provided that:
 

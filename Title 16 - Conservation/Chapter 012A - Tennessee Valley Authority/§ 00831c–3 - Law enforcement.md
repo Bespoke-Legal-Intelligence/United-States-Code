@@ -56,7 +56,7 @@ Nothing in this section shall be construed to—
 
 #### (f) Qualifications and training
 
-The Board, in consultation with the Attorney General, shall adopt qualification and training standards for law enforcement agents designated under subsection (a).
+The Board, in consultation with the Attorney General, shall adopt qualification and trainingstandards for law enforcement agents designated under subsection (a).
 
 #### (g) Relation to other law
 

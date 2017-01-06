@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 105–85, §3525(a)(1), (2), redesignated subsec. (c) as (e
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment madeby section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
 
 #### Savings Provision for Basic Pay
 

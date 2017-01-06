@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-If the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b), has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism, he may by regulation require such bank, institution, or person—
+If the Secretary determines that the maintenance of appropriate records and procedures byany uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b), has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism, he may by regulation require such bank, institution, or person—
 
 &emsp;(1) to require, retain, or maintain, with respect to its functions as an uninsured bank or uninsured institution or its functions referred to in subsection (b), any records or evidence of any type which the Secretary is authorized under section 1829b of this title to require insured banks to require, retain, or maintain; and
 
@@ -49,6 +49,10 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

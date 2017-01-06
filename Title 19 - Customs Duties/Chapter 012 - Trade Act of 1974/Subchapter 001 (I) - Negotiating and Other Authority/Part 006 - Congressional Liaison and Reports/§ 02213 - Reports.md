@@ -28,11 +28,19 @@
 
 &emsp;(I) each of the referrals made under section 2171(d)(1)(B) of this title and any action taken with respect to such referral;
 
-&emsp;(J) other information relating to the trade agreements program and to the agreements entered into thereunder; and
+&emsp;(J) other information relating to the trade agreements program and to the agreements entered into thereunder;
 
-&emsp;(K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
+&emsp;(K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications; and
 
-(3)(A) The national trade policy agenda required under paragraph (1)(B) for the year in which a report is submitted shall be in the form of a statement of—
+&emsp;(L) the operation of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under section 2171(h) of this title, including—
+
+&emsp;&emsp;(i) information relating to the personnel of the Center, including a description of any employees detailed or assigned to the Center by a Federal agency under paragraph (3)(B) of such section;
+
+&emsp;&emsp;(ii) information relating to the functions of the Center; and
+
+&emsp;&emsp;(iii) an assessment of the operating costs of the Center.
+
+(3)(A) The national trade policy agenda required under paragraph (1)(B) for the year inwhich a report is submitted shall be in the form of a statement of—
 
 &emsp;(i) the trade policy objectives and priorities of the United States for the year, and the reasons therefor;
 
@@ -92,13 +100,51 @@
 
 The United States International Trade Commission shall submit to the Congress, at least once a year, a factual report on the operation of the trade agreements program.
 
-(Pub. L. 93–618, title I, §163, Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–418, title I, §1641, Aug. 23, 1988, 102 Stat. 1271.)
+#### (d) Quadrennial plan and report
+
+#### (1) Quadrennial plan
+
+&emsp;Pursuant to the goals and objectives of the strategic plan of the Office of the United States Trade Representative as required under section 306 of title 5, the Trade Representative shall, every 4 years, develop a plan—
+
+&emsp;&emsp;(A) to analyze internal quality controls and record management of the Office;
+
+&emsp;&emsp;(B) to identify existing staff of the Office and new staff that will be necessary to support the trade negotiation and enforcement functions and powers of the Office (including those functions and powers of the Trade Policy Staff Committee) as described in section 2171 of this title and section 2411 of this title;
+
+&emsp;&emsp;(C) to identify existing staff of the Office and staff in other Federal agencies who will be required to be detailed or assigned to support interagency programs led by the Trade Representative, including any associated expenses;
+
+&emsp;&emsp;(D) to provide an outline of budget justifications, including salaries and expenses as well as nonpersonnel administrative expenses, for the fiscal years required under the strategic plan; and
+
+&emsp;&emsp;(E) to provide an outline of budget justifications, including salaries and expenses as well as nonpersonnel administrative expenses, for interagency programs led by the Trade Representative for the fiscal years required under the strategic plan.
+
+#### (2) Report
+
+#### (A) In general
+
+&emsp;&emsp;The Trade Representative shall submit to the appropriate congressional committees a report that contains the plan required under paragraph (1). Except as provided in subparagraph (B), the report required under this subparagraph shall be submitted in conjunction with the strategic plan of the Office as required under section 306 of title 5.
+
+#### (B) Exception
+
+&emsp;&emsp;The Trade Representative shall submit to the appropriate congressional committees an initial report that contains the plan required under paragraph (1) not later than June 1, 2016.
+
+#### (C) Appropriate congressional committees defined
+
+&emsp;&emsp;In this paragraph, the term "appropriate congressional committees" means—
+
+&emsp;&emsp;&emsp;(i) the Committee on Finance and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;&emsp;(ii) the Committee on Ways and Means and the Committee on Appropriations of the House of Representatives.
+
+(Pub. L. 93–618, title I, §163, Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–418, title I, §1641, Aug. 23, 1988, 102 Stat. 1271; Pub. L. 114–125, title VI, §604(c), Feb. 24, 2016, 130 Stat. 186.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(L). Pub. L. 114–125, §604(c)(1), added subpar. (L).
+
+Subsec. (d). Pub. L. 114–125, §604(c)(2), added subsec. (d).
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
 
@@ -196,7 +242,7 @@ Meetings.—The Commission shall meet at the call of the Chairperson.
 
 &emsp;"(7)
 
-Chairperson and vice chairperson.—The members of the Commission shall elect a chairperson and vice chairperson from among the members of the Commission.
+Chairperson and vice chairperson.—The members of the Commission shall elect a chairpersonand vice chairperson from among the members of the Commission.
 
 &emsp;"(8)
 
@@ -308,7 +354,7 @@ Compensation of members.—Each member of the Commission shall be compensated at
 
 &emsp;"(2)
 
-Travel expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+Travel expenses.—The members of the Commission shall be allowed travel expenses, includingper diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 &emsp;"(3)
 

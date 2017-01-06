@@ -1,0 +1,6 @@
+### §1743. Omitted
+
+#### Codification
+
+Section, Pub. L. 97–399, §4, Dec. 31, 1982, 96 Stat. 2013, which related to findings by the Secretary of the Interior, was omitted from the Code as being of special and not general application.
+

@@ -64,7 +64,7 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 #### (1) In general
 
-&emsp;In establishing additional minimum State law requirements for swimming pools and spasunder subsection (a)(1), the Commission shall require, at a minimum, 1 or more of the following (except for pools constructed without a single main drain):
+&emsp;In establishing additional minimum State law requirements for swimming pools and spas under subsection (a)(1), the Commission shall require, at a minimum, 1 or more of the following (except for pools constructed without a single main drain):
 
 #### (A) Safety vacuum release system
 
@@ -107,4 +107,8 @@ In establishing minimum State law requirements for swimming pools and spas under
 "(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and".
 
 Subsec. (a)(2) to (4). Pub. L. 113–76, §501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted "paragraph (1)(B)" for "paragraph (1)" in introductory provisions of par. (3), and struck out former par. (2) which read as follows: "The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement."
+
+#### Effective Date
+
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 

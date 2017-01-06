@@ -27,7 +27,7 @@
 | [3319\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003319%20-%20Alternative%20ranking%20and%20selection%20procedures.md) | Alternative ranking and selection procedures. |
 | [3320\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003320%20-%20Excepted%20service%3B%20government%20of%20the%20District%20of%20Columbia%3B%20selection.md) | Excepted service; government of the District of Columbia; selection. |
 | [3321\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003321%20-%20Competitive%20service%3B%20probationary%20period.md) | Competitive service; probationary period. |
-| \[3322. | Repealed.\] |
+| [3322\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003322%20-%20Voluntary%20separation%20before%20resolution%20of%20personnel%20investigation.md) | Voluntary separation before resolution of personnel investigation. |
 | [3323\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003323%20-%20Automatic%20separations%3B%20reappointment%3B%20reemployment%20of%20annuitants.md) | Automatic separations; reappointment; reemployment of annuitants. |
 | [3324\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003324%20-%20Appointments%20to%20positions%20classified%20above%20GS%E2%80%9315.md) | Appointments to positions classified above GS–15. |
 | [3325\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003325%20-%20Appointments%20to%20scientific%20and%20professional%20positions.md) | Appointments to scientific and professional positions. |
@@ -40,6 +40,7 @@
 | [3330b.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md) | Preference eligibles; judicial redress. |
 | [3330c.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md) | Preference eligibles; remedy. |
 | [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20certain%20military%20spouses.md) | Appointment of certain military spouses. |
+| [3330e.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330e%20-%20Review%20of%20official%20personnel%20file%20of%20former%20Federal%20employees%20before%20rehiring.md) | Review of official personnel file of former Federal employees before rehiring. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -140,17 +141,19 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed the amendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §566(c), Jan. 2, 2013, 126 Stat. 1751, added item 3330d.
 
 <b>2002</b>—Pub. L. 107–296, title XIII, §§1312(b), 1321(a)(1)(C), Nov. 25, 2002, 116 Stat. 2291, 2296, added item 3319 and struck out item 3393a "Recertification".
 
 <b>1998</b>—Pub. L. 105–339, §3(b), Oct. 31, 1998, 112 Stat. 3184, added items 3330a to 3330c.
 
-Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" in heading for subchapter III, "Acting officer" for "Details; to officeof head of Executive agency or military department" in item 3345, "Time limitation" for "Details; to subordinate offices" in item 3346, "Exclusivity" for "Details; Presidential authority" in item 3347, "Vacant office" for "Details; limited in time" in item 3348, and "Reporting of vacancies" for "Details; to fill vacancies; restrictions" in item 3349 and added items 3349a to 3349d.
+Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" in heading for subchapter III, "Acting officer" for "Details; to office of head of Executive agency or military department" in item 3345, "Time limitation" for "Details; to subordinate offices" in item 3346, "Exclusivity" for "Details; Presidential authority" in item 3347, "Vacant office" for "Details; limited in time" in item 3348, and "Reporting of vacancies" for "Details; to fill vacancies; restrictions" in item 3349 and added items 3349a to 3349d.
 
 <b>1996</b>—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted "Competitive service; recommendations of Senators or Representatives" for "Political recommendations" in item 3303.
 
-Pub. L. 104–106, div. A, title X, §1037(b)(2), Feb. 10, 1996, 110 Stat. 432, which directed substitution of "3330. Government-wide list of vacant positions" for the item relating to section 3329, as added by section 4431(b) of Pub. L. 102–484, could not be executed because of the intervening amendment by Pub. L. 104–52, §4(2). See 1995 Amendment note below.
+Pub. L. 104–106, div. A, title X, §1037(b)(2), Feb. 10, 1996, 110 Stat. 432, which directed substitution of "3330. Government-wide list of vacant positions" for the item relating to section 3329, as added by section 4431(b) ofPub. L. 102–484, could not be executed because of the intervening amendment by Pub. L. 104–52, §4(2). See 1995 Amendment note below.
 
 <b>1995</b>—Pub. L. 104–52, title IV, §4(2), Nov. 19, 1995, 109 Stat. 490, redesignated item 3329 "Government-wide list of vacant positions" as item 3330.
 

@@ -16,17 +16,17 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences theCommissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
-&emsp;The Commissioner shall pay an employment network under the Program in accordance with the outcome payment system under subsection (h)(2) of this section or under the outcome-milestone payment system under subsection (h)(3) of this section (whichever is elected pursuant to subsection (h)(1) of this section). An employment network may not request or receive compensation for such services from the beneficiary.
+&emsp;The Commissioner shall pay an employment network under the Program in accordance with the outcome payment system under subsection (h)(2) or under the outcome-milestone payment system under subsection (h)(3)\(whichever is elected pursuant to subsection (h)(1)). An employment network may not request or receive compensation for such services from the beneficiary.
 
 #### (c) State participation
 
 #### (1) In general
 
-&emsp;Each State agency administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) may elect to participate in the Program as an employment network with respect to a disabled beneficiary. If the State agency does elect to participate in the Program, the State agency also shall elect to be paid under the outcome payment system or the outcome-milestone payment system in accordance with subsection (h)(1) of this section. With respect to a disabled beneficiary that the State agency does not elect to have participate in the Program, the State agency shall be paid for services provided to that beneficiary under the system for payment applicable under section 422(d) of this title and subsections (d) and (e) of section 1382d of this title. The Commissioner shall provide for periodic opportunities for exercising such elections.
+&emsp;Each State agency administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) may elect to participate in the Program as an employment network with respect to a disabled beneficiary. If the State agency does elect to participate in the Program, the State agency also shall elect to be paid under the outcome payment system or the outcome-milestone payment system in accordance with subsection (h)(1). With respect to a disabled beneficiary that the State agency does not elect to have participate in the Program, the State agency shall be paid for services provided to that beneficiary under the system for payment applicable under section 422(d) of this title and subsections (d) and (e) of section 1382d of this title. The Commissioner shall provide for periodic opportunities for exercising such elections.
 
 #### (2) Effect of participation by State agency
 
@@ -68,7 +68,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) In general
 
-&emsp;&emsp;The Commissioner shall select and enter into agreements with employment networks for service under the Program. Such employment networks shall be in addition to State agencies serving as employment networks pursuant to elections under subsection (c) of this section.
+&emsp;&emsp;The Commissioner shall select and enter into agreements with employment networks for service under the Program. Such employment networks shall be in addition to State agencies serving as employment networks pursuant to elections under subsection (c).
 
 #### (B) Alternate participants
 
@@ -80,7 +80,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (6) Quality assurance
 
-&emsp;The Commissioner shall provide for such periodic reviews as are necessary to provide for effective quality assurance in the provision of services by employment networks. The Commissioner shall solicit and consider the views of consumers and the program manager under which the employment networks serve and shall consult with providers of services to develop performance measurements. The Commissioner shall ensure that the results of the periodic reviews are made available to beneficiaries who are prospective service recipients as they select employment networks. The Commissioner shall ensure that the periodic surveys of beneficiaries receiving services under the Program are designed to measure customer service satisfaction.
+&emsp;The Commissioner shall provide for such periodic reviews as are necessary to provide for effective quality assurance in the provision of services by employment networks. The Commissioner shall solicit and consider the views of consumers and the program manager under which the employment networks serve and shall consult with providers of services todevelop performance measurements. The Commissioner shall ensure that the results of the periodic reviews are made available to beneficiaries who are prospective service recipients as they select employment networks. The Commissioner shall ensure that the periodic surveys of beneficiaries receiving services under the Program are designed to measure customer service satisfaction.
 
 #### (7) Dispute resolution
 
@@ -114,7 +114,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) In general
 
-&emsp;&emsp;Each employment network serving under the Program shall consist of an agency or instrumentality of a State (or a political subdivision thereof) or a private entity, that assumes responsibility for the coordination and delivery of services under the Program to individuals assigning to the employment network tickets to work and self-sufficiency issued under subsection (b) of this section.
+&emsp;&emsp;Each employment network serving under the Program shall consist of an agency or instrumentality of a State (or a political subdivision thereof) or a private entity, that assumes responsibility for the coordination and delivery of services under the Program to individuals assigning to the employment network tickets to work and self-sufficiency issued under subsection (b).
 
 #### (B) One-stop delivery systems
 
@@ -122,11 +122,11 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Compliance with selection criteria
 
-&emsp;&emsp;No employment network may serve under the Program unless it meets and maintainscompliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
+&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
 
 #### (D) Single or associated providers allowed
 
-&emsp;&emsp;An employment network shall consist of either a single provider of such services or of an association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) of this section by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
+&emsp;&emsp;An employment network shall consist of either a single provider of such services or of an association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
 
 #### (2) Requirements relating to provision of services
 
@@ -134,7 +134,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;(A) serve prescribed service areas; and
 
-&emsp;&emsp;(B) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subsection (g) of this section.
+&emsp;&emsp;(B) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subsection (g).
 
 #### (3) Annual financial reporting
 
@@ -194,13 +194,13 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Payments made during outcome payment period
 
-&emsp;&emsp;The outcome payment system shall provide for a schedule of payments to an employment network, in connection with each individual who is a beneficiary, for each month, during the individual's outcome payment period, for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable to such individual because of work or earnings.
+&emsp;&emsp;The outcome payment system shall provide for a schedule of payments to an employment network, in connection with each individual who is a beneficiary, for each month, during the individual's outcome payment period, for which benefits (described in paragraphs (3) and (4) of subsection (k)) are not payable to such individual because of work or earnings.
 
 #### (C) Computation of payments to employment network
 
 &emsp;&emsp;The payment schedule of the outcome payment system shall be designed so that—
 
-&emsp;&emsp;&emsp;(i) the payment for each month during the outcome payment period for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable is equal to a fixed percentage of the payment calculation base for the calendar year in which such month occurs; and
+&emsp;&emsp;&emsp;(i) the payment for each month during the outcome payment period for which benefits (described in paragraphs (3) and (4) of subsection (k)) are not payable is equal to a fixed percentage of the payment calculation base for the calendar year in which such month occurs; and
 
 &emsp;&emsp;&emsp;(ii) such fixed percentage is set at a percentage which does not exceed 40 percent.
 
@@ -228,13 +228,13 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(i) in connection with a title II disability beneficiary, the average disability insurance benefit payable under section 423 of this title for all beneficiaries for months during the preceding calendar year; and
 
-&emsp;&emsp;&emsp;(ii) in connection with a title XVI disability beneficiary (who is not concurrently a title II disability beneficiary), the average payment of supplemental security income benefits based on disability payable under subchapter XVI of this chapter (excluding State supplementation) for months during the preceding calendar year to all beneficiaries who have attained 18 years of age but have not attained 65 years of age.
+&emsp;&emsp;&emsp;(ii) in connection with a title XVI disability beneficiary (who is not concurrently a title II disability beneficiary), the average payment of supplemental security income benefits based on disability payable under subchapter XVI (excluding State supplementation) for months during the preceding calendar year to all beneficiaries who have attained 18 years of age but have not attained 65 years of age.
 
 #### (B) Outcome payment period
 
 &emsp;&emsp;The term "outcome payment period" means, in connection with any individual who had assigned a ticket to work and self-sufficiency to an employment network under the Program, a period—
 
-&emsp;&emsp;&emsp;(i) beginning with the first month, ending after the date on which such ticket was assigned to the employment network, for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable to such individual by reason of engagement in substantial gainful activity or by reason of earnings from work activity; and
+&emsp;&emsp;&emsp;(i) beginning with the first month, ending after the date on which such ticket was assigned to the employment network, for which benefits (described in paragraphs (3) and (4) of subsection (k)) are not payable to such individual by reason of engagement in substantial gainful activity or by reason of earnings from work activity; and
 
 &emsp;&emsp;&emsp;(ii) ending with the 60th month (consecutive or otherwise), ending after such date, for which such benefits are not payable to such individual by reason of engagement in substantial gainful activity or by reason of earnings from work activity.
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph\(2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -264,7 +264,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (i) Suspension of disability reviews
 
-During any period for which an individual is using, as defined by the Commissioner, a ticket to work and self-sufficiency issued under this section, the Commissioner (and any applicable State agency) may not initiate a continuing disability review or other review under section 421 of this title of whether the individual is or is not under a disability or a review under subchapter XVI of this chapter similar to any such review under section 421 of this title.
+During any period for which an individual is using, as defined by the Commissioner, a ticket to work and self-sufficiency issued under this section, the Commissioner (and any applicable State agency) may not initiate a continuing disability review or other review under section 421 of this title of whether the individual is or is not under a disability or a review under subchapter XVI similar to any such review under section 421 of this title.
 
 #### (j) Authorizations
 
@@ -280,7 +280,7 @@ During any period for which an individual is using, as defined by the Commission
 
 #### (2) Administrative expenses
 
-&emsp;The costs of administering this section (other than payments to employment networks) shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among such amounts as appropriate.
+&emsp;The costs of administering this section (other than payments to employment networks) shall be paid from amounts made available for the administration of subchapter II and amounts made available for the administration of subchapter XVI, and shall be allocated among such amounts as appropriate.
 
 #### (k) Definitions
 
@@ -296,15 +296,15 @@ In this section:
 
 #### (3) Title II disability beneficiary
 
-&emsp;The term "title II disability beneficiary" means an individual entitled to disability insurance benefits under section 423 of this titleor to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
+&emsp;The term "title II disability beneficiary" means an individual entitled to disability insurance benefits under section 423 of this title or to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
 
 #### (4) Title XVI disability beneficiary
 
-&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplemental security income benefits under subchapter XVI of this chapter on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) or disability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
+&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplemental security income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) or disability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
 
 #### (5) Supplemental security income benefit
 
-&emsp;The term "supplemental security income benefit under subchapter XVI of this chapter" means a cash benefit under section 1382 or 1382h(a) of this title, and does not include a State supplementary payment, administered federally or otherwise.
+&emsp;The term "supplemental security income benefit under subchapter XVI" means a cash benefit under section 1382 or 1382h(a) of this title, and does not include a State supplementary payment, administered federally or otherwise.
 
 #### (l) Regulations
 
@@ -456,7 +456,7 @@ Pub. L. 106–170, title I, §101(d), Dec. 17, 1999, 113 Stat. 1874, provided th
 
 "(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set outas a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
 
 "(2)
 
@@ -472,7 +472,7 @@ Ongoing evaluation of program.—
 
 &emsp;"(A)
 
-In general.—The Commissioner shall provide for independent evaluations to assess the effectiveness of the activities carried out under this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes under this section\] and the amendments made thereby. Such evaluations shall address the cost-effectiveness of such activities, as well as the effects of this section and the amendments made thereby on work outcomes for beneficiaries receiving tickets to work and self-sufficiency under the Program.
+In general.—The Commissioner shall provide for independent evaluations to assess the effectiveness of the activities carried out under this section \[enacting this section, amending sections 421, 422, 425,1382d, 1383, and 1383b of this title, and enacting provisions set out as notes under this section\] and the amendments made thereby. Such evaluations shall address the cost-effectiveness of such activities, as well as the effects of this section and the amendments made thereby on work outcomes for beneficiaries receiving tickets to work and self-sufficiency under the Program.
 
 &emsp;"(B)
 
@@ -536,151 +536,5 @@ Existing agreements.—Nothing in subparagraph (A) or the amendments made by sub
 
 #### Ticket to Work and Work Incentives Advisory Panel
 
-Pub. L. 106–170, title I, §101(f), Dec. 17, 1999, 113 Stat. 1878, provided that:
-
-"(1)
-
-Establishment.—There is established within the Social Security Administration a panel to be known as the 'Ticket to Work and Work Incentives Advisory Panel' (in this subsection referred to as the 'Panel').
-
-"(2)
-
-Duties of panel.—It shall be the duty of the Panel to—
-
-&emsp;"(A) advise the President, the Congress, and the Commissioner of Social Security on issues related to work incentives programs, planning, and assistancefor individuals with disabilities, including work incentive provisions under titles II, XI, XVI, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1301 et seq., 1381 et seq., 1395 et seq., 1396 et seq.); and
-
-&emsp;"(B) with respect to the Ticket to Work and Self-Sufficiency Program established under section 1148 of such Act \[42 U.S.C. 1320b–19\]—
-
-&emsp;&emsp;"(i) advise the Commissioner of Social Security with respect to establishing phase-in sites for such Program and fully implementing the Program thereafter, the refinement of access of disabled beneficiaries to employment networks, payment systems, and management information systems, and advise the Commissioner whether such measures are being taken to the extent necessary to ensure the success of the Program;
-
-&emsp;&emsp;"(ii) advise the Commissioner regarding the most effective designs for research and demonstration projects associated with the Program or conducted pursuant to section 302 of this Act \[set out as a note under section 434 of this title\];
-
-&emsp;&emsp;"(iii) advise the Commissioner on the development of performance measurements relating to quality assurance under section 1148(d)(6) of the Social Security Act \[42 U.S.C. 1320b–19(d)(6)\]; and
-
-&emsp;&emsp;"(iv) furnish progress reports on the Program to the Commissioner and each House of Congress.
-
-"(3)
-
-Membership.—
-
-&emsp;"(A)
-
-Number and appointment.—The Panel shall be composed of 12 members as follows:
-
-&emsp;&emsp;"(i) four members appointed by the President, not more than two of whom may be of the same political party;
-
-&emsp;&emsp;"(ii) two members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Committee on Ways and Means of the House of Representatives;
-
-&emsp;&emsp;"(iii) two members appointed by the minority leader of the House of Representatives, in consultation with the ranking member of the Committee on Ways and Means of the House of Representatives;
-
-&emsp;&emsp;"(iv) two members appointed by the majority leader of the Senate, in consultation with the Chairman of the Committee on Finance of the Senate; and
-
-&emsp;&emsp;"(v) two members appointed by the minority leader of the Senate, in consultation with the ranking member of the Committee on Finance of the Senate.
-
-&emsp;"(B)
-
-Representation.—
-
-&emsp;&emsp;"(i)
-
-In general.—The members appointed under subparagraph (A) shall have experience or expert knowledge as a recipient, provider, employer, or employee in the fields of, or related to, employment services, vocational rehabilitation services, and other support services.
-
-&emsp;&emsp;"(ii)
-
-Requirement.—At least one-half of the members appointed under subparagraph (A) shall be individuals with disabilities, or representatives of individuals with disabilities, with consideration given to current or former title II \[42 U.S.C. 401 et seq.\] disability beneficiaries or title XVI \[42 U.S.C. 1381 et seq.\] disability beneficiaries (as such terms are defined in section 1148(k) of the Social Security Act \[42 U.S.C. 1320b–19(k)\] (as added by subsection (a)).
-
-&emsp;"(C)
-
-Terms.—
-
-&emsp;&emsp;"(i)
-
-In general.—Each member shall be appointed for a term of 4 years (or, if less, for the remaining life of the Panel), except as provided in clauses (ii) and (iii). The initial members shall be appointed not later than 90 days after the date of the enactment of this Act \[Dec. 17, 1999\].
-
-&emsp;&emsp;"(ii)
-
-Terms of initial appointees.—Of the members first appointed under each clause of subparagraph (A), as designated by the appointing authority for each such clause—
-
-&emsp;&emsp;&emsp;"(I) one-half of such members shall be appointed for a term of 2 years; and
-
-&emsp;&emsp;&emsp;"(II) the remaining members shall be appointed for a term of 4 years.
-
-&emsp;&emsp;"(iii)
-
-Vacancies.—Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Panel shall be filled in the manner in which the original appointment was made.
-
-&emsp;"(D)
-
-Basic pay.—Members shall each be paid at a rate, and in a manner, that is consistent with guidelines established under section 7 of the Federal Advisory Committee Act (5 U.S.C. App.).
-
-&emsp;"(E)
-
-Travel expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
-
-&emsp;"(F)
-
-Quorum.—Eight members of the Panel shall constitute a quorum but a lesser number may hold hearings.
-
-&emsp;"(G)
-
-Chairperson.—The Chairperson of the Panel shall be designated by the President. The term of office of the Chairperson shall be 4 years.
-
-&emsp;"(H)
-
-Meetings.—The Panel shall meet at least quarterly and at other times at the call of the Chairperson or a majority of its members.
-
-"(4)
-
-Director and staff of panel; experts and consultants.—
-
-&emsp;"(A)
-
-Director.—The Panel shall have a Director who shall be appointed by the Chairperson, and paid at a rate, and in a manner, that is consistent with guidelines established under section 7 of the Federal Advisory Committee Act (5 U.S.C. App.).
-
-&emsp;"(B)
-
-Staff.—Subject to rules prescribed by the Commissioner of Social Security, the Director may appoint and fix the pay of additional personnel as the Director considers appropriate.
-
-&emsp;"(C)
-
-Experts and consultants.—Subject to rules prescribed by the Commissioner of Social Security, the Director may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
-
-&emsp;"(D)
-
-Staff of federal agencies.—Upon request of the Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
-
-"(5)
-
-Powers of panel.—
-
-&emsp;"(A)
-
-Hearings and sessions.—The Panel may, for the purpose of carrying out its duties under this subsection, hold such hearings, sit and act at such times and places, and take such testimony and evidence as the Panel considers appropriate.
-
-&emsp;"(B)
-
-Powers of members and agents.—Any member or agent of the Panel may, if authorized by the Panel, take any action which the Panel is authorized to take by this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes above\].
-
-&emsp;"(C)
-
-Mails.—The Panel may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
-
-"(6)
-
-Reports.—
-
-&emsp;"(A)
-
-Interim reports.—The Panel shall submit to the President and the Congress interim reports at least annually.
-
-&emsp;"(B)
-
-Final report.—The Panel shall transmit a final report to the President and the Congress not later than eight years after the date of the enactment of this Act \[Dec. 17, 1999\]. The final report shall contain a detailed statement of the findings and conclusions of the Panel, together with its recommendations for legislation and administrative actions which the Panel considers appropriate.
-
-"(7)
-
-Termination.—The Panel shall terminate 30 days after the date of the submission of its final report under paragraph (6)(B).
-
-"(8)
-
-Authorization of appropriations.—There are authorized to be appropriated from the Federal Old-Ageand Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the general fund of the Treasury, as appropriate, such sums as are necessary to carry out this subsection."
+Pub. L. 106–170, title I, §101(f), Dec. 17, 1999, 113 Stat. 1878, established the Ticket to Work and Work Incentives Advisory Panel to advise the President, Congress, and the Social Security Administration on work incentives programs, planning, and assistance for individuals with disabilities and provided for the Panel's termination 30 days after submission of its final report in December 2007.
 

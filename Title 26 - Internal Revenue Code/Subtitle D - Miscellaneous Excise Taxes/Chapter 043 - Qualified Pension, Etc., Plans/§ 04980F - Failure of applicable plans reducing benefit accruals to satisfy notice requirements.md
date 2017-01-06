@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) each participant in the plan, and
 
-&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
+&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section 414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
 
 > &emsp;whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
 

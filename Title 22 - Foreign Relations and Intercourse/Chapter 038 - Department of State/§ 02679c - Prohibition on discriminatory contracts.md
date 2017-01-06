@@ -60,7 +60,7 @@ Section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)), 
 
 #### Codification
 
-In subsec. (a)(1), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal ProcurementPolicy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

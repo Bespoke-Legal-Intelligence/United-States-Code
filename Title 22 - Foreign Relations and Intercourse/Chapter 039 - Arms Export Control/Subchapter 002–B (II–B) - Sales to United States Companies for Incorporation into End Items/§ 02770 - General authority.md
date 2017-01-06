@@ -12,7 +12,7 @@ Defense articles and defense services may be sold, procured and sold, or manufac
 
 For the purpose of this section, the terms "defense articles" and "defense services" mean defense articles and defense services as defined in section 2794(3) and (4) of this title.
 
-(Pub. L. 90–629, ch. 2B, §30, as added Pub. L. 97–392, §1, Dec. 29, 1982, 96 Stat. 1962; amended Pub. L. 101–165, title IX, §9097, Nov. 21, 1989, 103 Stat. 1150.)
+(Pub. L. 90–629, ch. 2B, §30, as added Pub. L. 97–392, §1, Dec. 29, 1982, 96 Stat. 1962; amendedPub. L. 101–165, title IX, §9097, Nov. 21, 1989, 103 Stat. 1150.)
 
 #### Amendments
 

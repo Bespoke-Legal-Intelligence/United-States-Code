@@ -2,7 +2,7 @@
 
 (a) Because of the long-standing importance of volunteerism throughout American history, it is the policy of the Congress to foster the tradition of volunteerism through greater involvement on the part of individuals of all ages and backgrounds.
 
-(b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extentthe programs authorized under this chapter, coordinate with other Federal, State, and local agencies, expand relationships with, and support for, the efforts of civic, community, and educational organizations, and utilize the energy, innovative spirit, experience, and skills of all Americans.
+(b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extent the programs authorized under this chapter, coordinate with other Federal, State, and local agencies, expand relationships with, and support for, the efforts of civic, community, and educational organizations, and utilize the energy, innovative spirit, experience, and skills of all Americans.
 
 (Pub. L. 93–113, §2, as added Pub. L. 99–551, §2(a), Oct. 27, 1986, 100 Stat. 3071; amended Pub. L. 103–82, title IV, §405(a)(1), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2002, Apr. 21, 2009, 123 Stat. 1581.)
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 #### Effective Date
 
-Pub. L. 99–551, §11, Oct. 27, 1986, 100 Stat. 3079, provided that: "Except as otherwise provided, the amendments made by this Act \[enacting this section and section 4959 of this title, amending sections 4953, 4955, 4971, 4972, 4974, 4992, 5011, 5013, 5024, 5041 to 5044, 5047, 5052, 5055, 5056, 5059, 5061, 5081, 5082, and 5084 of this title, and amending provisions set out as a note under section 5041 of this title\] shall take effect October 1, 1986."
+Pub. L. 99–551, §11, Oct. 27, 1986, 100 Stat. 3079, provided that: "Except as otherwise provided, the amendments made by this Act \[enacting this section and section 4959 of this title, amending sections 4953, 4955, 4971,4972, 4974, 4992, 5011, 5013, 5024, 5041 to 5044, 5047, 5052, 5055, 5056, 5059, 5061, 5081, 5082, and 5084 of this title, and amending provisions set out as a note under section 5041 of this title\] shall take effect October 1, 1986."
 
 #### Short Title of 1993 Amendment
 

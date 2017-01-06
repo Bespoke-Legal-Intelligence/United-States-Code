@@ -90,7 +90,7 @@
 
 #### (1) Cooperative agreements
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into cooperative agreements with State, territorial, and Indian tribes or tribal organizations (as those terms are defined in section 1603 of title 25) to establish oral health leadership and program guidance, oral health data collection and interpretation,<sup>2</sup> (including determinants of poor oral health among vulnerable populations), a multi-dimensional delivery system for oral health, and to implement science-based programs (including dental sealants and community water fluoridation) to improve oral health.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into cooperative agreements with State, territorial, and Indian tribes or tribal organizations (as those terms are defined in section 1603 of title 25) to establish oral health leadership and program guidance,oral health data collection and interpretation,<sup>2</sup> (including determinants of poor oral health among vulnerable populations), a multi-dimensional delivery system for oral health, and to implement science-based programs (including dental sealants and community water fluoridation) to improve oral health.
 
 #### (2) Authorization of appropriations
 
@@ -98,7 +98,7 @@
 
 #### (e) Definitions
 
-For purposes of this section, the term "Indian tribe" means an Indian tribe or tribal organization as defined in section 450b(b) and section 450b(c) <sup>3</sup> of title 25.
+For purposes of this section, the term "Indian tribe" means an Indian tribe or tribal organization as defined in section 5304(b) and section 5304(c) <sup>3</sup> of title 25.
 
 #### (f) Authorization of appropriations
 
@@ -108,7 +108,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 450b of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

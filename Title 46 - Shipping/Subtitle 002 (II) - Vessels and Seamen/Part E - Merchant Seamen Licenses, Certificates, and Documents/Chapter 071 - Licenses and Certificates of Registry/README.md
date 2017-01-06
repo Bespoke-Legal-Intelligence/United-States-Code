@@ -17,10 +17,13 @@
 | [7113\.](%C2%A7%2007113%20-%20Exemption%20from%20draft.md) | Exemption from draft. |
 | [7114\.](%C2%A7%2007114%20-%20Fees.md) | Fees. |
 | [7115\.](%C2%A7%2007115%20-%20Merchant%20Mariner%20Medical%20Advisory%20Committee.md) | Merchant Mariner Medical Advisory Committee. |
+| [7116\.](%C2%A7%2007116%20-%20Examinations%20for%20merchant%20mariner%20credentials.md) | Examinations for merchant mariner credentials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title III, §315(b)(2), Feb. 8, 2016, 130 Stat. 62, added item 7116.
 
 <b>2010</b>—Pub. L. 111–281, title II, §210(c), Oct. 15, 2010, 124 Stat. 2914, added item 7115.
 
@@ -48,3 +51,4 @@
 - [&sect; 07113 - Exemption from draft](%C2%A7%2007113%20-%20Exemption%20from%20draft.md)
 - [&sect; 07114 - Fees](%C2%A7%2007114%20-%20Fees.md)
 - [&sect; 07115 - Merchant Mariner Medical Advisory Committee](%C2%A7%2007115%20-%20Merchant%20Mariner%20Medical%20Advisory%20Committee.md)
+- [&sect; 07116 - Examinations for merchant mariner credentials](%C2%A7%2007116%20-%20Examinations%20for%20merchant%20mariner%20credentials.md)

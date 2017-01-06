@@ -8,7 +8,7 @@
 
 (d) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member of the program who is dropped from the program from an active duty obligation imposed by this section, but such relief shall not relieve him from any military obligation imposed by any other law.
 
-(e)(1) A member of the program who is relieved of the member's active duty obligation under this subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determined by the Secretary of the military department concerned:
+(e)(1) A member of the program who is relieved of the member's active duty obligation under this subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determinedby the Secretary of the military department concerned:
 
 &emsp;(A) A service obligation in another armed force for a period of time not less than the member's remaining active duty service obligation.
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(1)(C). Pub. L. 109–163 substituted "pursuant to the repayment provisions of section303a(e) of title 37." for "equal to the percentage of the member's total active duty service obligation being relieved, plus interest."
+<b>2006</b>—Subsec. (e)(1)(C). Pub. L. 109–163 substituted "pursuant to the repayment provisions of section 303a(e) of title 37." for "equal to the percentage of the member's total active duty service obligation being relieved, plus interest."
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–201 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Any member of the program relieved of his active duty obligation under this subchapter before the completion of such obligation may, under regulations prescribed by the Secretary of Defense, be assigned to a health professional shortage area designated by the Secretary of Health and Human Services for a period equal to the period of obligation from which he was relieved."
 

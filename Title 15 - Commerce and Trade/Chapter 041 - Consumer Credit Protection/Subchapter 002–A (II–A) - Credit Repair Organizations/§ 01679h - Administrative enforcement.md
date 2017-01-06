@@ -48,7 +48,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (3) Investigatory powers
 
-&emsp;For purposes of bringing any action under this subsection, nothing in this subsectionshall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+&emsp;For purposes of bringing any action under this subsection, nothing in this subsection shall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
 #### (4) Limitation
 
@@ -59,4 +59,8 @@ Compliance with the requirements imposed under this subchapter with respect to c
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+#### Effective Date
+
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 

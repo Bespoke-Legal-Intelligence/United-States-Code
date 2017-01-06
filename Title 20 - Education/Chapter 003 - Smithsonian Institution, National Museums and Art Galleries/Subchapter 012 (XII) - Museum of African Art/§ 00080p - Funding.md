@@ -12,5 +12,5 @@ There is authorized to be appropriated for the first fiscal year under this subc
 
 #### Effective Date
 
-Section effective, except for the provisions in subsec. (b) of this section, on the date of transfer of a deed or other instrument under the provisions of section 80k of this title, see section 7 of Pub. L. 95–414, set out as a note under section 80k of this title.
+Section effective, except for the provisions in subsec. (b) of this section, on the date of transfer of a deed orother instrument under the provisions of section 80k of this title, see section 7 of Pub. L. 95–414, set out as a note under section 80k of this title.
 

@@ -14,7 +14,7 @@ The Secretary of Defense shall be required to offer meals meeting nutritional st
 
 #### (d) Authorization of appropriations
 
-Funds are hereby authorized to be appropriated for any fiscal year in such amounts as may be necessary for the administrative expenses of the Department of Defense under this section.
+Funds are hereby authorized to be appropriated for any fiscal year in such amounts asmay be necessary for the administrative expenses of the Department of Defense under this section.
 
 #### (e) Technical assistance for administration of program
 

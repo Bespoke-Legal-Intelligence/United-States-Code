@@ -1,6 +1,6 @@
 ### §566. Powers and duties
 
-(a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
+(a) It is the primary role and mission of the United States Marshals Service to provide forthe security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
 
 (b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district, and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
 
@@ -36,7 +36,7 @@
 
 #### Prior Provisions
 
-A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II,§206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, §7608(a)(1).
+A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, §206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, §7608(a)(1).
 
 #### Amendments
 

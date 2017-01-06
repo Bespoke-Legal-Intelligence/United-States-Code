@@ -30,7 +30,7 @@ Notwithstanding any other provision of this part, variances from national primar
 
 &emsp;&emsp;(III) as appropriate, propose revocations of specific variances or propose revised schedules or other requirements for specific public water systems granted variances, or both.
 
-&emsp;(ii) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to clause (i) of this subparagraph. After a hearing on a notice pursuant to such clause, the Administrator shall (I) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (II) promulgate (with such modifications as he deems appropriate) such variance revocations and revised schedules or other requirements proposed in such notice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to clause (i) of this subparagraph, the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
+&emsp;(ii) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to clause (i) of this subparagraph. After a hearing on a notice pursuant to such clause, the Administrator shall (I) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (II) promulgate (with such modifications as he deems appropriate) such variance revocations and revised schedules or other requirements proposed insuch notice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to clause (i) of this subparagraph, the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
 
 &emsp;(iii) If a State is notified under clause (i) of this subparagraph of a finding of the Administrator made with respect to a variance granted a public water system within that State or to a schedule or other requirement for a variance and if, before a revocation of such variance or a revision of such schedule or other requirement promulgated by the Administrator takes effect, the State takes corrective action with respect to such variance or schedule or other requirement which the Administrator determines makes his finding inapplicable to such variance or schedule or other requirement, the Administrator shall rescind the application of his finding to that variance on schedule or other requirement. No variance revocation or revised schedule or other requirement may take effect before the expiration of 90 days following the date of the notice in which the revocation or revised schedule or other requirement was proposed.
 
@@ -40,11 +40,11 @@ Notwithstanding any other provision of this part, variances from national primar
 
 #### (b) Enforcement of schedule or other requirement
 
-Any schedule or other requirement on which a variance granted under paragraph (1)(B) or (2) of subsection (a) of this section is conditioned may be enforced under section 300g–3 of this title as if such schedule or other requirement was part of a national primary drinking water regulation.
+Any schedule or other requirement on which a variance granted under paragraph (1)(B) or (2) of subsection (a) is conditioned may be enforced under section 300g–3 of this title as if such schedule or other requirement was part of a national primary drinking water regulation.
 
 #### (c) Applications for variances; regulations: reasonable time for acting
 
-If an application for a variance under subsection (a) of this section is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
+If an application for a variance under subsection (a) is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
 
 #### (d) "Treatment technique requirement" defined
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "treatment technique requirement" means a
 
 &emsp;&emsp;&emsp;(ii) If the Administrator objects to the variance, the date on which the State makes the recommended modifications or responds in writing to each objection.
 
-(July 1, 1944, ch. 373, title XIV, §1415, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1669; amended Pub. L. 99–339, title I, §104, June 19,1986, 100 Stat. 649; Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), Aug. 6, 1996, 110 Stat. 1621, 1641, 1691.)
+(July 1, 1944, ch. 373, title XIV, §1415, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1669; amended Pub. L. 99–339, title I, §104, June 19, 1986, 100 Stat. 649; Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), Aug. 6, 1996, 110 Stat. 1621, 1641, 1691.)
 
 #### Amendments
 

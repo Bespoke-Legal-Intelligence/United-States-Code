@@ -6,7 +6,7 @@ Each applicable implementation plan shall—
 
 &emsp;(1) require each major proposed new (or modified) source—
 
-&emsp;&emsp;(A) subject to part C of this subchapter (relating to significant deterioration of air quality) or
+&emsp;&emsp;(A) subject to part C (relating to significant deterioration of air quality) or
 
 &emsp;&emsp;(B) which may significantly contribute to levels of air pollution in excess of the national ambient air quality standards in any air quality control region outside the State in which such source intends to locate (or make such modification),
 
@@ -28,7 +28,7 @@ Notwithstanding any permit which may have been granted by the State in which the
 
 > The Administrator may permit the continued operation of a source referred to in paragraph (2) beyond the expiration of such three-month period if such source complies with such emission limitations and compliance schedules (containing increments of progress) as may be provided by the Administrator to bring about compliance with the requirements contained in section 7410(a)(2)(D)(ii) of this title or this section as expeditiously as practicable, but in no case later than three years after the date of such finding. Nothing in the preceding sentence shall be construed to preclude any such source from being eligible for an enforcement order under section 7413(d) <sup>1</sup> of this title after the expiration of such period during which the Administrator has permitted continuous operation.
 
-(July 14, 1955, ch. 360, title I, §126, as added Pub. L. 95–95, title I, §123, Aug. 7, 1977, 91 Stat. 724; amended Pub. L. 95–190, §14(a)(39), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title I, §109(a), Nov. 15, 1990, 104 Stat. 2469.)
+(July 14, 1955, ch. 360, title I, §126, as added Pub. L. 95–95, title I, §123, Aug. 7, 1977, 91 Stat. 724; amended Pub. L. 95–190, §14(a)(39), Nov. 16, 1977,91 Stat. 1401; Pub. L. 101–549, title I, §109(a), Nov. 15, 1990, 104 Stat. 2469.)
 
 #### References in Text
 

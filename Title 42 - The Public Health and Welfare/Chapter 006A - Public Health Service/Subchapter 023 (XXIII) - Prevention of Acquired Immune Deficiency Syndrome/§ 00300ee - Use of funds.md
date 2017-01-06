@@ -10,11 +10,11 @@ All programs of education and information receiving funds under this subchapter 
 
 #### (c) Limitation
 
-None of the funds appropriated to carry out this subchapter may be used to provide education or information designed to promote or encourage, directly, homosexual or heterosexual sexual activity or intravenous substance abuse.
+None of the funds appropriated to carry out this subchapter may be used to provide education or information designed to promote orencourage, directly, homosexual or heterosexual sexual activity or intravenous substance abuse.
 
 #### (d) Construction
 
-Subsection (c) of this section may not be construed to restrict the ability of an education program that includes the information required in subsection (b) of this section to provide accurate information about various means to reduce an individual's risk of exposure to, or the transmission of, the etiologic agent for acquired immune deficiency syndrome, provided that any informational materials used are not obscene.
+Subsection (c) may not be construed to restrict the ability of an education program that includes the information required in subsection (b) to provide accurate information about various means to reduce an individual's risk of exposure to, or the transmission of, the etiologic agent for acquired immune deficiency syndrome, provided that any informational materials used are not obscene.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2500, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3093; amended Pub. L. 100–690, title II, §2619(a), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 

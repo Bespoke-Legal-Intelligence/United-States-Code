@@ -6,7 +6,7 @@ To the greatest extent practicable, the Secretary shall encourage and incorporat
 
 #### (b) Activities
 
-In carrying out subsection (a), the Secretary, to the greatest extent practicable, shall ensure that contractors performing work for water resources development projects—
+In carrying out subsection (a), the Secretary, to the greatest extent practicable, shall ensurethat contractors performing work for water resources development projects—
 
 &emsp;(1) use best practices to carry out corrosion prevention activities in the field;
 
@@ -36,11 +36,23 @@ In this section, the term "corrosion prevention activities" means—
 
 &emsp;(3) any other activities related to corrosion prevention the Secretary determines appropriate.
 
-(Pub. L. 113–121, title I, §1033, June 10, 2014, 128 Stat. 1233.)
+#### (d) Report
+
+In the first annual report submitted to Congress after December 16, 2016, in accordance with section 556 of this title, and section 2295(b) of this title, the Secretary shall report on the corrosion prevention activities encouraged under this section, including—
+
+&emsp;(1) a description of the actions the Secretary has taken to implement this section; and
+
+&emsp;(2) a description of the projects utilizing corrosion prevention activities, including which activities were undertaken.
+
+(Pub. L. 113–121, title I, §1033, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, §1142, Dec. 16, 2016, 130 Stat. 1658.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–322 added subsec. (d).
 
 #### "Secretary" Defined
 

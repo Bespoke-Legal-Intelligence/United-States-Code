@@ -28,7 +28,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (4) Estimate not feasible
 
-&emsp;If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, but shall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement. If such determination is made by the Director, a point of order under this part shall lie only under section 658d(a)(1) of this title and as if the requirement of section 658d(a)(1) of this title had not been met.
+&emsp;If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, butshall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement. If such determination is made by the Director, a point of order under this part shall lie only under section 658d(a)(1) of this title and as if the requirement of section 658d(a)(1) of this title had not been met.
 
 #### (b) Federal private sector mandates in reported bills and joint resolutions
 
@@ -63,4 +63,8 @@ If a bill or joint resolution is passed in an amended form (including if passed 
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(3), (4). Pub. L. 106–141 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 

@@ -66,11 +66,11 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 &emsp;&emsp;&emsp;(i) made based upon meeting previously established performance criteria (which may include hours of work, efficiency, or productivity) of any business unit consisting of at least 10 employees or of a facility, except that, any determinations may be based on length of service or minimum schedule of hours or days of work; or
 
-&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the sole discretion of the employer and not pursuant to any prior contract.
+&emsp;&emsp;&emsp;(ii) made based upon the past performance (which may include any criteria) of one or more employees in a given period so long as the determination is in the solediscretion of the employer and not pursuant to any prior contract.
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if theduties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -82,7 +82,7 @@ No employer shall be deemed to have violated subsection (a) by employing any emp
 
 &emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
 
-> and if (i) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) of this section are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
+> and if (i) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
 
 #### (h) Credit toward minimum wage or overtime compensation of amounts excluded from regular rate
 
@@ -104,7 +104,7 @@ No public agency shall be deemed to have violated subsection (a) with respect to
 
 &emsp;(1) in a work period of 28 consecutive days the employee receives for tours of duty which in the aggregate exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975; or
 
-&emsp;(2) in the case of such an employee to whom a work period of at least 7 but less than 28 days applies, in his work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his work period as 216 hours (or if lower, the number of hours referred to in clause (B) of paragraph (1)) bears to 28 days,
+&emsp;(2) in the case of such an employee to whom a work period of at least 7 but less than 28days applies, in his work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his work period as 216 hours (or if lower, the number of hours referred to in clause (B) of paragraph (1)) bears to 28 days,
 
 > compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
@@ -282,7 +282,7 @@ Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
 Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
-Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
+Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer notqualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
 Subsec. (d). Pub. L. 89–601, §204(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -380,7 +380,7 @@ Limitation on liability.—An employer shall not be liable for a violation of se
 
 &emsp;&emsp;"(A) the violation occurred in the 1-year period beginning on August 10, 2005; and
 
-&emsp;&emsp;"(B) as of the date of the violation, the employer did not have actual knowledge that the employerwas subject to the requirements of such section with respect to the covered employee.
+&emsp;&emsp;"(B) as of the date of the violation, the employer did not have actual knowledge that the employer was subject to the requirements of such section with respect to the covered employee.
 
 &emsp;"(2)
 

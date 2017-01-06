@@ -6,9 +6,13 @@
 
 &emsp;(2) permit the Office and representatives of the Government Accountability Office to examine such records of the qualified company as may be necessary to carry out the purposes of this chapter.
 
-(b) Each Federal agency shall keep such records, make such certifications, and furnishthe Office, the qualified company, or both, with such information and reports as the Office may require.
+(b) Each Federal agency shall keep such records, make such certifications, and furnish the Office, the qualified company, or both, with such information and reports as the Office may require.
 
 (c) The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the vision benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 
 (Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4010.)
+
+#### Effective Date
+
+Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 

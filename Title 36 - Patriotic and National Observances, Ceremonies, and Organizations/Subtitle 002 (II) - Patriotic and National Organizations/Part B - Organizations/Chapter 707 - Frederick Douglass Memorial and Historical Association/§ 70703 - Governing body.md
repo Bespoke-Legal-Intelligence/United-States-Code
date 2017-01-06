@@ -58,5 +58,5 @@ In subsection (a)(2), the words "who shall be elected by the corporators at thei
 
 In subsection (a)(3), the word "common" is omitted as unnecessary.
 
-Subsection (b)(3) is substituted for "and all of the officers of the association, together with such agents and employees . . . , shall be subject to removal for such causes and under such conditions and regulations asmay be prescribed by the by-laws" for clarity and to eliminate unnecessary words.
+Subsection (b)(3) is substituted for "and all of the officers of the association, together with such agents and employees . . . , shall be subject to removal for such causes and under such conditions and regulations as may be prescribed by the by-laws" for clarity and to eliminate unnecessary words.
 

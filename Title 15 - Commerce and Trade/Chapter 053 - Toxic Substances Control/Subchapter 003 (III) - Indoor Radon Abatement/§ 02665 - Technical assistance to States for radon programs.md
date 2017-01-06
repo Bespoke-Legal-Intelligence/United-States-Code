@@ -46,7 +46,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (2) Charge imposed
 
-&emsp;To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating in training seminars such charges as may be necessary to defray the costs of the program or seminars. No such charge may be imposed on any State or local government.
+&emsp;To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating intraining seminars such charges as may be necessary to defray the costs of the program or seminars. No such charge may be imposed on any State or local government.
 
 #### (3) Special account
 
@@ -54,7 +54,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (4) Reimbursement of general fund
 
-&emsp;During the first three years of the program and seminars, the Administrator shall makeevery effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
+&emsp;During the first three years of the program and seminars, the Administrator shall make every effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
 
 #### (5) Research
 

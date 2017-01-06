@@ -10,7 +10,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 &emsp;&emsp;(A) the administration of the system;
 
-&emsp;&emsp;(B) the provision of intensive home-based services under paragraph (4) of section290ff–1(c) of this title, intensive day treatment under paragraph (5) of such section, and foster care or group homes under paragraph (7) of such section; and
+&emsp;&emsp;(B) the provision of intensive home-based services under paragraph (4) of section 290ff–1(c) of this title, intensive day treatment under paragraph (5) of such section, and foster care or group homes under paragraph (7) of such section; and
 
 &emsp;&emsp;(C) the development of individualized plans for purposes of section 290ff–2 of this title;
 
@@ -46,7 +46,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that not
 
 #### (f) Reports to Secretary
 
-A funding agreement for a grant under section 290ff(a) of this title is that the public entity involved will annually submit to the Secretary a report on the activities of the entity under the grant that includes a description of the number of children provided access to systems of care operated pursuant to the grant, the demographic characteristics of the children, the types and costs of services provided pursuant to the grant, the availability and use of third-party reimbursements, estimates of the unmet need for such services in the jurisdiction of the entity, and the manner in which the grant has been expended toward the establishment of a jurisdiction-wide system of care for children with a serious emotional disturbance, and such other information as the Secretary may require with respect to the grant.
+A funding agreement for a grant under section 290ff(a) of this title is that the public entity involved will annually submit to the Secretary (and provide a copy to the State involved) a report on the activities of the entity under the grant that includes a description of the number of children provided access to systems of care operated pursuant to the grant, the demographic characteristics of the children, the types and costs of services provided pursuant to the grant, the availability and use of third-party reimbursements, estimates of the unmet need for such services in the jurisdiction of the entity, and the manner in which the grant has been expended toward the establishment of a jurisdiction-wide system of care for children with a serious emotional disturbance, and such other information as the Secretary may require with respect to the grant.
 
 #### (g) Description of intended uses of grant
 
@@ -60,9 +60,13 @@ The Secretary may make a grant under section 290ff(a) of this title only if—
 
 #### (h) Requirement of application
 
-The Secretary may make a grant under section 290ff(a) of this title only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g) of this section, and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under section 290ff(a) of this title only if an application for the grant is submitted to the Secretary, the application contains the description of intended uses required in subsection (g), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title V, §564, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 355.)
+(July 1, 1944, ch. 373, title V, §564, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 355; amended Pub. L. 114–255, div. B, title X, §10001(c), Dec. 13, 2016, 130 Stat. 1262.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (f). Pub. L. 114–255 inserted "(and provide a copy to the State involved)" after "to the Secretary".
 
 #### Effective Date
 

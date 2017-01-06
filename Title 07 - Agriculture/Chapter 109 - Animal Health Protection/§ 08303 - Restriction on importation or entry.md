@@ -30,7 +30,7 @@ With notice to the Secretary of the Treasury and public notice as soon as practi
 
 &emsp;&emsp;(B) any animal or progeny of any animal, article, or means of conveyance that has been imported or entered in violation of this chapter; or
 
-&emsp;&emsp;(C) any animal that has strayed into the United States if the Secretary determines that destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock.
+&emsp;&emsp;(C) any animal that has strayed into the United States if the Secretary determinesthat destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock.
 
 #### (2) Requirements of owners
 

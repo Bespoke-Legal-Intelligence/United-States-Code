@@ -34,7 +34,7 @@ The Attorney General may, subject to the availability of appropriations, agree t
 
 #### (2) Compensation
 
-&emsp;If compliance with the assistance capability requirements of section 1002 of this title is notreasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—
+&emsp;If compliance with the assistance capability requirements of section 1002 of this title is not reasonably achievable with respect to equipment, facilities, or services deployed after January 1, 1995—
 
 &emsp;&emsp;(A) the Attorney General, on application of a telecommunications carrier, may agree, subject to the availability of appropriations, to pay the telecommunications carrier for the additional reasonable costs of making compliance with such assistance capability requirements reasonably achievable; and
 
@@ -46,7 +46,7 @@ The Attorney General shall allocate funds appropriated to carry out this subchap
 
 #### (d) Failure to make payment with respect to equipment, facilities, and services deployed on or before January 1, 1995
 
-If a carrier has requested payment in accordance with procedures promulgated pursuant to subsection (e) of this section, and the Attorney General has not agreed to pay the telecommunications carrier for all reasonable costs directly associated with modifications necessary to bring any equipment, facility, or service deployed on or before January 1, 1995, into compliance with the assistance capability requirements of section 1002 of this title, such equipment, facility, or service shall be considered to be in compliance with the assistance capability requirements of section 1002 of this title until the equipment, facility, or service is replaced or significantly upgraded or otherwise undergoes major modification.
+If a carrier has requested payment in accordance with procedures promulgated pursuant to subsection (e), and the Attorney General has not agreed to pay the telecommunications carrier for all reasonable costs directly associated with modifications necessary to bring any equipment, facility, or service deployed on or before January 1, 1995, into compliance with the assistance capability requirements of section 1002 of this title, such equipment, facility, or service shall be considered to be in compliance with the assistance capability requirements of section 1002 of this title until the equipment, facility, or service is replaced or significantly upgraded or otherwise undergoes major modification.
 
 #### (e) Cost control regulations
 
@@ -60,7 +60,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 &emsp;&emsp;(A) permit recovery from the Federal Government of—
 
-&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a) of this section, of providing the capabilities requested under subsection (b)(2) of this section, or of providing the capacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
+&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a), of providing the capabilities requested under subsection (b)(2), or of providing the capacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
 
 &emsp;&emsp;&emsp;(ii) the costs of training personnel in the use of such capabilities or capacities; and
 

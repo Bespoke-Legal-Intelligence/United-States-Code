@@ -24,7 +24,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (1) Land and water conservation fund special accounts
 
-&emsp;Amounts in the special accounts established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for Federal landmanagement agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 by subsection (a) of this section.
+&emsp;Amounts in the special accounts established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 by subsection (a) of this section.
 
 #### (2) National parks passport
 
@@ -40,7 +40,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (f) Effect of regulations
 
-A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
+A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policyis consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
 
 (Pub. L. 108–447, div. J, title VIII, §813, Dec. 8, 2004, 118 Stat. 3390; Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526; Pub. L. 113–287, §5(d)(37), Dec. 19, 2014, 128 Stat. 3268.)
 

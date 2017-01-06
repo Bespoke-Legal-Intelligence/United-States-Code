@@ -66,7 +66,7 @@ Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, amended 
 
 Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 45F.
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §121(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-610, added item 45D.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §121(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, added item 45D.
 
 <b>1996</b>—Pub. L. 104–188, title I, §1205(a)(3)(B), Aug. 20, 1996, 110 Stat. 1775, added item 45C.
 
@@ -74,7 +74,7 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 
 <b>1992</b>—Pub. L. 102–486, title XIX, §1914(d), Oct. 24, 1992, 106 Stat. 3023, added item 45.
 
-<b>1990</b>—Pub. L. 101–508, title XI, §§11511(c)(1), 11611(d), Nov. 5, 1990, 104 Stat. 1388–485, 1388-503, added items 43 and 44.
+<b>1990</b>—Pub. L. 101–508, title XI, §§11511(c)(1), 11611(d), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, added items 43 and 44.
 
 <b>1986</b>—Pub. L. 99–514, title II, §§231(d)(3)(K), 252(d), Oct. 22, 1986, 100 Stat. 2180, 2205, added item 41 relating to credit for increasing research activities and item 42.
 

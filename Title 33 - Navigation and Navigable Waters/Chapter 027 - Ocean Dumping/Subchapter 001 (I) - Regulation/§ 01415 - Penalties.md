@@ -6,7 +6,7 @@ Any person who violates any provision of this subchapter, or of the regulations 
 
 #### (b) Criminal penalties
 
-In addition to any action that may be brought under subsection (a) of this section—
+In addition to any action that may be brought under subsection (a)—
 
 &emsp;(1) any person who knowingly violates any provision of this subchapter, any regulation promulgated under this subchapter, or a permit issued under this subchapter, shall be fined under title 18 or imprisoned for not more than 5 years, or both; and
 
@@ -40,7 +40,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 &emsp;(A) prior to sixty days after notice of the violation has been given to the Administrator or to the Secretary, and to any alleged violator of the prohibition, limitation, criterion, or permit; or
 
-&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
+&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action ina court of the United States to require compliance with the prohibition, limitation, criterion, or permit; or
 
 &emsp;(C) if the Administrator has commenced action to impose a penalty pursuant to subsection (a) of this section, or if the Administrator, or the Secretary, has initiated permit revocation or suspension proceedings under subsection (f) of this section; or
 
@@ -62,7 +62,7 @@ No person shall be subject to a civil penalty or to a criminal fine or imprisonm
 
 #### (1) In general
 
-&emsp;Any vessel used to commit an act for which a penalty is imposed under subsection (b) of this section shall be subject to seizure and forfeiture to the United States under procedures established for seizure and forfeiture of conveyances under sections 853 and 881 of title 21.
+&emsp;Any vessel used to commit an act for which a penalty is imposed under subsection (b) shall be subject to seizure and forfeiture to the United States under procedures established for seizure and forfeiture of conveyances under sections 853 and 881 of title 21.
 
 #### (2) Limitation on application
 
@@ -80,7 +80,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 "(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
-"(2) In addition to any action which may be brought under subsection (a) of this section, any person—
+"(2) In addition to any action which may be brought under subsection (a), any person—
 
 &emsp;"(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
 

@@ -98,7 +98,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;(iii) convening stakeholders within the State and creating a forum for identifying and deliberating on education issues that—
 
-&emsp;&emsp;&emsp;&emsp;(I) involve preschool through grade 12 education, postsecondary education, the21st century workforce, and the Armed Forces; and
+&emsp;&emsp;&emsp;&emsp;(I) involve preschool through grade 12 education, postsecondary education, the 21st century workforce, and the Armed Forces; and
 
 &emsp;&emsp;&emsp;&emsp;(II) transcend any single system of education's ability to address; and
 
@@ -158,7 +158,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) prohibits the party from using the information for any purpose other than the purpose specified in the agreement; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) requires the party to destroy the information when the purpose for which the disclosure was made is accomplished;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) requires the party to destroy the information when the purpose forwhich the disclosure was made is accomplished;
 
 &emsp;&emsp;&emsp;&emsp;(VI) maintain adequate security measures to ensure the confidentiality and integrity of the statewide P–16 education data system, such as protecting a student record from identification by a unique identifier;
 
@@ -234,7 +234,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 #### (2) Application contents
 
-&emsp;Each application submitted under this section shall specify whether the State application is for the conduct of P–16 education alignment activities, or the establishment or improvement of a statewide P–16 education data system. The application shall include, at a minimum, the following:
+&emsp;Each application submitted under this section shall specify whether the State application is for the conduct of P–16 education alignment activities, or the establishment or improvement of a statewide P–16 education datasystem. The application shall include, at a minimum, the following:
 
 &emsp;&emsp;(A) A description of the activities and programs to be carried out with the grant funds and a comprehensive plan for carrying out the activities.
 

@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 96–466, §605(c)(3)(B), inserted "(or any interest thereo
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable with respect to any indebtedness to the United States arising pursuant to chapter 37 of this title before, on, or after Aug.5, 1997, see section 8033(c) of Pub. L. 105–33, set out as a note under section 3726 of this title.
+Amendment by Pub. L. 105–33 applicable with respect to any indebtedness to the United States arising pursuant to chapter 37 of this title before, on, or after Aug. 5, 1997, see section 8033(c) of Pub. L. 105–33, set out as a note under section 3726 of this title.
 
 #### Effective Date of 1982 Amendment
 

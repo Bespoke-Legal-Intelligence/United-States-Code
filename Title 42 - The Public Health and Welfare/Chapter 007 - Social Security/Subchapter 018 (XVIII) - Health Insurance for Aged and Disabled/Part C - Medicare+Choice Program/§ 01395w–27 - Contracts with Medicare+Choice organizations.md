@@ -30,7 +30,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (2) Termination authority
 
-&emsp;In accordance with procedures established under subsection (h) of this section, the Secretary may at any time terminate any such contract if the Secretary determines that the organization—
+&emsp;In accordance with procedures established under subsection (h), the Secretary may at any time terminate any such contract if the Secretary determines that the organization—
 
 &emsp;&emsp;(A) has failed substantially to carry out the contract;
 
@@ -136,11 +136,11 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization and a PDP sponsor under part D of this subchaptershall pay the fee established by the Secretary under subparagraph (B).
+&emsp;&emsp;A Medicare+Choice organization and a PDP sponsor under part D shall pay the fee established by the Secretary under subparagraph (B).
 
 #### (B) Authorization
 
-&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D of this subchapter that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
+&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
 
 #### (C) Authorization of appropriations
 
@@ -168,15 +168,15 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;(i) the average number of individuals enrolled in Medicare+Choice plans during the fiscal year, to
 
-&emsp;&emsp;&emsp;(ii) the average number of individuals entitled to benefits under part A of this subchapter, and enrolled under part B of this subchapter, during the fiscal year.
+&emsp;&emsp;&emsp;(ii) the average number of individuals entitled to benefits under part A, and enrolled under part B, during the fiscal year.
 
 #### (F) Applicable portion defined
 
 &emsp;&emsp;In this paragraph, the term "applicable portion" means, for a fiscal year—
 
-&emsp;&emsp;&emsp;(i) with respect to MA organizations, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D of this subchapter that are made to such organizations); or
+&emsp;&emsp;&emsp;(i) with respect to MA organizations, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D that are made to such organizations); or
 
-&emsp;&emsp;&emsp;(ii) with respect to PDP sponsors, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D of this subchapter.
+&emsp;&emsp;&emsp;(ii) with respect to PDP sponsors, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D.
 
 #### (3) Agreements with federally qualified health centers
 
@@ -206,7 +206,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Requirement
 
-&emsp;A contract under this part shall require a Medicare+Choice organization to provideprompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
+&emsp;A contract under this part shall require a Medicare+Choice organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
 
 #### (2) Secretary's option to bypass noncomplying organization
 
@@ -274,15 +274,15 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (3) Other intermediate sanctions
 
-&emsp;In the case of a Medicare+Choice organization for which the Secretary makes a determination under subsection (c)(2) of this section the basis of which is not described in paragraph (1), the Secretary may apply the following intermediate sanctions:
+&emsp;In the case of a Medicare+Choice organization for which the Secretary makes a determination under subsection (c)(2) the basis of which is not described in paragraph (1), the Secretary may apply the following intermediate sanctions:
 
-&emsp;&emsp;(A) Civil money penalties of not more than $25,000 for each determination under subsection (c)(2) of this section if the deficiency that is the basis of the determination has directly adversely affected (or has the substantial likelihood of adversely affecting) an individual covered under the organization's contract.
+&emsp;&emsp;(A) Civil money penalties of not more than $25,000 for each determination under subsection (c)(2) if the deficiency that is the basis of the determination has directly adversely affected (or has the substantial likelihood of adversely affecting) an individual covered under the organization's contract.
 
-&emsp;&emsp;(B) Civil money penalties of not more than $10,000 for each week beginning after the initiation of civil money penalty procedures by the Secretary during which the deficiency that is the basis of a determination under subsection (c)(2) of this section exists.
+&emsp;&emsp;(B) Civil money penalties of not more than $10,000 for each week beginning after the initiation of civil money penalty procedures by the Secretary during which the deficiency that is the basis of a determination under subsection (c)(2) exists.
 
-&emsp;&emsp;(C) Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) of this section and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
+&emsp;&emsp;(C) Suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under subsection (c)(2) and until the Secretary is satisfied that the deficiency that is the basis for the determination has been corrected and is not likely to recur.
 
-&emsp;&emsp;(D) Civil monetary penalties of not more than $100,000, or such higher amount as the Secretary may establish by regulation, where the finding under subsection (c)(2)(A) of this section is based on the organization's termination of its contract under this section other than at a time and in a manner provided for under subsection (a) of this section.
+&emsp;&emsp;(D) Civil monetary penalties of not more than $100,000, or such higher amount as the Secretary may establish by regulation, where the finding under subsection (c)(2)(A) is based on the organization's termination of its contract under this section other than at a time and in a manner provided for under subsection (a).
 
 #### (4) Civil money penalties
 
@@ -292,15 +292,19 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) In general
 
-&emsp;The Secretary may terminate a contract with a Medicare+Choice organization under this section in accordance with formal investigation and compliance procedures established by the Secretary under which—
+&emsp;The Secretary may terminate a contract with a Medicare+Choice organization underthis section in accordance with formal investigation and compliance procedures established by the Secretary under which—
 
-&emsp;&emsp;(A) the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary's determination under subsection (c)(2) of this section; and
+&emsp;&emsp;(A) the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary's determination under subsection (c)(2); and
 
 &emsp;&emsp;(B) the Secretary provides the organization with reasonable notice and opportunity for hearing (including the right to appeal an initial decision) before terminating the contract.
 
 #### (2) Exception for imminent and serious risk to health
 
 &emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
+
+#### (3) Delay in contract termination authority for plans failing to achieve minimum quality rating
+
+&emsp;During the period beginning on December 13, 2016, and through the end of plan year 2018, the Secretary may not terminate a contract under this section with respect to the offering of an MA plan by a Medicare Advantage organization solely because the MA plan has failed to achieve a minimum quality rating under the 5-star rating system under section 1395w–23(o)(4) of this title.
 
 #### (i) Medicare+Choice program compatibility with employer or union group health plans
 
@@ -312,9 +316,11 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c),title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047; Pub. L. 114–255, div. C, title XVII, §17001(b), Dec. 13, 2016, 130 Stat. 1330.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h)(3). Pub. L. 114–255 added par. (3).
 
 <b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §6408(b)(1)(A), inserted "timely" before "inspect".
 
@@ -340,9 +346,9 @@ Subsec. (f)(3)(C). Pub. L. 110–275, §173(b), added subpar. (C).
 
 Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted "Secretary" for "Health Care Financing Administration".
 
-Subsec. (e)(2)(A). Pub. L. 108–173, §222(k)(1), inserted "and a PDP sponsor under part D of this subchapter" after "organization".
+Subsec. (e)(2)(A). Pub. L. 108–173, §222(k)(1), inserted "and a PDP sponsor under part D" after "organization".
 
-Subsec. (e)(2)(B). Pub. L. 108–173, §222(k)(2), inserted "and each PDP sponsor with a contract under part D of this subchapter" after "contract under this part", "or sponsor's" after "organization's", and ", section 1395w–101(c) of this title," after "information)".
+Subsec. (e)(2)(B). Pub. L. 108–173, §222(k)(2), inserted "and each PDP sponsor with a contract under part D" after "contract under this part", "or sponsor's" after "organization's", and ", section 1395w–101(c) of this title," after "information)".
 
 Subsec. (e)(2)(C). Pub. L. 108–173, §222(k)(3), inserted "and ending with fiscal year 2005" after "beginning with fiscal year 2001", "and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000," after "$100,000,000,", and "and section 1395w–112(b)(3)(D) of this title" after "under this paragraph".
 
@@ -400,7 +406,7 @@ Pub. L. 110–275, title I, §173(c), July 15, 2008, 122 Stat. 2581, provided th
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 222(j), (k), (l)(3)(C) of Pub. L. 108–173 applicable with respect to plan years beginningon or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+Amendment by section 222(j), (k), (l)(3)(C) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 Amendment by section 237(c) of Pub. L. 108–173 applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, see section 237(e) of Pub. L. 108–173, set out as a note under section 1320a–7b of this title.
 
@@ -419,6 +425,14 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 11
 #### Construction Relating to Additional Exceptions
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: "Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to affect the authority of the Secretary of Health and Human Services to provide for exceptions in addition to the exception provided in such amendment, including exceptions provided under Operational Policy Letter \#103 (OPL99.103)."
+
+#### Delay in Authority To Terminate Contracts for Medicare Advantage Plans Failing To Achieve Minimum Quality Ratings
+
+Pub. L. 114–255, div. C, title XVII, §17001(a), Dec. 13, 2016, 130 Stat. 1330, provided that: "Consistent with the studies provided under the IMPACT Act of 2014 (Public Law 113–185) \[see Tables for classification\], it is the intent of Congress—
+
+&emsp;"(1) to continue to study and request input on the effects of socioeconomic status and dual-eligible populations on the Medicare Advantage STARS rating system before reforming such system with the input of stakeholders; and
+
+&emsp;"(2) pending the results of such studies and input, to provide for a temporary delay in authority of theCenters for Medicare \& Medicaid Services (CMS) to terminate Medicare Advantage plan contracts solely on the basis of performance of plans under the STARS rating system."
 
 #### Technical Correction to MA Private Fee-for-Service Plans
 

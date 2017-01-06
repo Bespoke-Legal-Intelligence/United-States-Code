@@ -40,7 +40,7 @@ A grant awarded under this subpart shall be for a period of not more than 5 year
 
 &emsp;&emsp;(B) A description of how the State educational agency, in collaboration with the State literacy team, if applicable, will develop a State comprehensive literacy instruction plan or will revise and update an already existing State comprehensive literacy instruction plan.
 
-&emsp;&emsp;(C) An implementation plan that includes a description of how the State educational agency will carry out the State activities described in subsection (f).
+&emsp;&emsp;(C) An implementation plan that includes a description of how the State educationalagency will carry out the State activities described in subsection (f).
 
 &emsp;&emsp;(D) An assurance that the State educational agency will use implementation grant funds described in subsection (f)(1) for comprehensive literacy instruction programs as follows:
 

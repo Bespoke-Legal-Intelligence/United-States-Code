@@ -10,7 +10,7 @@ The Secretary may prescribe the terms and conditions for the destruction of all 
 
 #### (c) Payment of storage, cartage, and labor charges by owner or consignee; liens
 
-All charges for storage, cartage, and labor with respect to any article which is importedcontrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such article and any other article thereafter imported under this chapter by or for such owner or consignee.
+All charges for storage, cartage, and labor with respect to any article which is imported contrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such article and any other article thereafter imported under this chapter by or for such owner or consignee.
 
 #### (d) Prohibition
 
@@ -76,7 +76,7 @@ Subsec. (e)(2) to (7). Pub. L. 103–465, §431(l)(2), (3), redesignated pars. (
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–182, §361(f)(1), substituted "not be limited to the following:" for "not be limited to—" in introductory provisions.
 
-Subsec. (e)(1) to (7). Pub. L. 103–182, §361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted "The" for "the" at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for "; and" at end of par. (6). Prior to amendment, former par. (1) read as follows: "a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;".
+Subsec. (e)(1) to (7). Pub. L. 103–182, §361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted "The" for "the" at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for "; and" at end of par. (6). Prior to amendment, former par. (1) read as follows: "a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred toin subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;".
 
 <b>1988</b>—Subsec. (e)(6). Pub. L. 100–418, §4604(b), added par. (6).
 

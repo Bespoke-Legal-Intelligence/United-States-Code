@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of expediting the cost-effective design and construction of wetlands restoration that is part of an authorized water resources project, the Secretary may enter intocooperative agreements under section 6305 of title 31 with nonprofit organizations with expertise in wetlands restoration to carry out such design and construction on behalf of the Secretary.
+For the purpose of expediting the cost-effective design and construction of wetlands restoration that is part of an authorized water resources project, the Secretary may enter into cooperative agreements under section 6305 of title 31 with nonprofit organizations with expertise in wetlands restoration to carry out such design and construction on behalf of the Secretary.
 
 #### (b) Limitations
 

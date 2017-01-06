@@ -26,7 +26,7 @@ The Secretary shall prescribe procedures by which any taxpayer may request early
 
 #### (1) In general
 
-&emsp;The Secretary shall prescribe procedures under which an organization which claims to be described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Office of Appeals of an adverse determination described in paragraph (2).
+&emsp;The Secretary shall prescribe procedures under which an organization which claims tobe described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Office of Appeals of an adverse determination described in paragraph (2).
 
 #### (2) Adverse determinations
 

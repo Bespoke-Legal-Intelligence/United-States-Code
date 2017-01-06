@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a dam safety maintenance and repair program within the Bureau to ensure maintenance and monitoring ofthe condition of each dam identified pursuant to subsection (e) necessary to maintain the dam in a satisfactory condition on a long-term basis.
+The Secretary shall establish a dam safety maintenance and repair program within the Bureau to ensure maintenance and monitoring of the condition of each dam identified pursuant to subsection (e) necessary to maintain the dam in a satisfactory condition on a long-term basis.
 
 #### (b) Transfer of existing functions and personnel
 
@@ -72,7 +72,7 @@ To carry out the purposes of this chapter, the Secretary may obtain technical as
 
 #### (h) Contract authority
 
-In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
+In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
 
 #### (i) Annual report
 
@@ -88,7 +88,7 @@ The Secretary shall submit an annual report on the implementation of this chapte
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 
@@ -97,4 +97,6 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 #### Change of Name
 
 Subcommittee on Native American Affairs changed to Subcommittee on Native American and Insular Affairs.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

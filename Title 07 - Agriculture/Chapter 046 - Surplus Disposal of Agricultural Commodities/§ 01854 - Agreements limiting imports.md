@@ -20,7 +20,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 Ex. Ord. No. 11539, June 30, 1970, 35 F.R. 10733, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, provided:
 
-By virtue of the authority vested in me by section 204 of the Agricultural Act of 1956, as amended (7 U.S.C. 1854), and section 301 of title 3 of the United States Code and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by section 204 of the Agricultural Act of 1956, as amended (7 U.S.C. 1854), and section 301 of title 3 of the United StatesCode and as President of the United States, it is ordered as follows:
 
 Section 1. The United States Trade Representative, with the concurrence of the Secretary of Agriculture and the Secretary of State, is authorized to negotiate bilateral agreements with representatives of governments of foreign countries limiting the export from the respective countries and the importation into the United States of—
 
@@ -46,7 +46,7 @@ Section 1. (a) The Committee for the Implementation of Textile Agreements (herei
 
 (b) Except as provided in subsection (c) of this section, the Chairman of the Committee, after notice to the representatives of the other member agencies, shall take such actions or shall recommend that appropriate officials or agencies of the United States take such actions as may be necessary to implement each such textile trade agreement: Provided, however, that if a majority of the voting members of the Committee have objected to such action within ten days of receipt of notice from the Chairman, such action shall not be taken except as may otherwise be authorized.
 
-(c) To the extent authorized by the President and by such officials as the President may from time to time designate, the Committee shall take appropriate actions concerning textiles and textile products under Section 204 of the Agricultural Act of 1956, as amended \[this section\], and Articles 3 and 8 of the ArrangementRegarding International Trade in Textiles done at Geneva on December 20, 1973, and with respect to any other matter affecting textile trade policy.
+(c) To the extent authorized by the President and by such officials as the President may from time to time designate, the Committee shall take appropriate actions concerning textiles and textile products under Section 204 of the Agricultural Act of 1956, as amended \[this section\], and Articles 3 and 8 of the Arrangement Regarding International Trade in Textiles done at Geneva on December 20, 1973, and with respect to any other matter affecting textile trade policy.
 
 Sec. 2. (a) The Commissioner of Customs shall take such actions as the Committee, acting through its Chairman, shall recommend to carry out all agreements and arrangements entered into by the United States pursuant to Section 204 of the Agricultural Act of 1956, as amended \[this section\], with respect to entry, or withdrawal from warehouse, for consumption in the United States of textiles and textile products.
 
@@ -78,7 +78,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12475, May 9, 1984, 49 F.R. 19955, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 204 of the Agricultural Act of 1956, as amended (76 Stat. 104, 7 U.S.C. 1854), and Section 301 of Title 3 of the United States Code, and in order to prevent circumvention or frustration of multilateral and bilateral agreements to which the United States is a party and to facilitate efficient and equitable administration of the United States Textile Import Program, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 204 of the Agricultural Act of 1956, as amended (76 Stat. 104, 7 U.S.C. 1854), and Section 301 ofTitle 3 of the United States Code, and in order to prevent circumvention or frustration of multilateral and bilateral agreements to which the United States is a party and to facilitate efficient and equitable administration of the United States Textile Import Program, it is hereby ordered as follows:
 
 Section 1. (a) In accordance with policy guidance provided by the Committee for the Implementation of Textile Agreements (CITA), through its Chairman, in accordance with the provisions of Executive Order No. 11651, as amended \[set out above\], the Secretary of the Treasury shall issue regulations governing the entry or withdrawal from warehouse for consumption of textiles and textile products subject to Section 204 of the Act \[7 U.S.C. 1854\].
 

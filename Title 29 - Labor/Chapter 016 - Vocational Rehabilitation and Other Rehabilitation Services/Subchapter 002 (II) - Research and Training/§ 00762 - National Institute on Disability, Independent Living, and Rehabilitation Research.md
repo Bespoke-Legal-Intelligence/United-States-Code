@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Director as principal officer
 
-(1) There is established within the Administration for Community Living of the Department of Health and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the "Institute"), which shall be headed by a Director (hereinafter in this subchapter referred to as the "Director"), in order to—
+(1) There is established within the Administration for Community Living of the Department ofHealth and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the "Institute"), which shall be headed by a Director (hereinafter in this subchapter referred to as the "Director"), in order to—
 
 &emsp;(A) promote, coordinate, and provide for—
 
@@ -22,7 +22,7 @@
 
 &emsp;(D) provide leadership in advancing the quality of life of individuals with disabilities.
 
-(2) In the performance of the functions of the office, the Director shall be directly responsible to the Administrator for the Administration forCommunity Living of the Department of Health and Human Services.
+(2) In the performance of the functions of the office, the Director shall be directly responsible to the Administrator for the Administration for Community Living of the Department of Health and Human Services.
 
 #### (b) Duties of Director
 
@@ -246,7 +246,7 @@ Subsec. (f)(1). Pub. L. 113–128, §433(5), substituted "The scientific peer re
 
 Subsec. (h)(1)(A). Pub. L. 113–128, §433(6)(A), substituted "priorities for disability, independent living, and rehabilitation research," for "priorities for rehabilitation research," and inserted "dissemination," after "training,".
 
-Subsec. (h)(2)(A). Pub. L. 113–128, §433(6)(B)(i), substituted "especially in the areas of employment and independent living" for "especially in the area of employment".
+Subsec. (h)(2)(A). Pub. L. 113–128, §433(6)(B)(i), substituted "especially in the areas of employment andindependent living" for "especially in the area of employment".
 
 Subsec. (h)(2)(D). Pub. L. 113–128, §433(6)(B)(ii)(I), substituted "coordinated with the strategic plan required under section 763(c) of this title" for "developed by the Director" in introductory provisions.
 

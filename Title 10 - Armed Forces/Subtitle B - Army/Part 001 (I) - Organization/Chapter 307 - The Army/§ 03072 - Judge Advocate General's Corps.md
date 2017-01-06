@@ -6,13 +6,11 @@ There is a Judge Advocate General's Corps in the Army. The Judge Advocate Genera
 
 &emsp;(2) the Assistant Judge Advocate General;
 
-&emsp;(3) three officers in the grade of brigadier general;
+&emsp;(3) commissioned officers of the Regular Army appointed therein; and
 
-&emsp;(4) commissioned officers of the Regular Army appointed therein; and
+&emsp;(4) other members of the Army assigned thereto by the Secretary of the Army.
 
-&emsp;(5) other members of the Army assigned thereto by the Secretary of the Army.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 169.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 169; Pub. L. 114–328, div. A, title V, §502(q), Dec. 23, 2016, 130 Stat. 2104.)
 
 Historical and Revision Notes
 
@@ -29,4 +27,8 @@ Historical and Revision Notes
 June 28, 1950, ch. 383, §308 (1st sentence, less applicability to strength), 64 Stat. 270.
 
 The words "authorized by sections 21f and 21h, respectively, of this title" are omitted as surplusage. The word "grade" is substituted for the word "rank". The words "but the Secretary shall not assign to the Judge Advocate General's Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch" are omitted as covered by section 3064 of this title.
+
+#### Amendments
+
+<b>2016</b>—Pars. (3) to (5). Pub. L. 114–328 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "three officers in the grade of brigadier general;".
 

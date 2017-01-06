@@ -28,7 +28,7 @@ Not later than November 28, 1991, and in consultation with State Forest Stewards
 
 #### (f) Application
 
-For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e).
+For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall givereasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e).
 
 #### (g) State consent
 
@@ -104,7 +104,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 &emsp;&emsp;In conveying land or an interest in land under subparagraph (A), the Secretary may require that—
 
-&emsp;&emsp;&emsp;(i) the deed conveying the land or interest in land include requirements for the management of the land in a manner that—
+&emsp;&emsp;&emsp;(i) the deed conveying the land or interest in land include requirements for themanagement of the land in a manner that—
 
 &emsp;&emsp;&emsp;&emsp;(I) conserves the land or interest in land; and
 
@@ -124,7 +124,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amendedPub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
 
 #### References in Text
 

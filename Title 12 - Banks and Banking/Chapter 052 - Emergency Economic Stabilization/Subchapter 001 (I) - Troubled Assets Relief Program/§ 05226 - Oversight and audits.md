@@ -4,7 +4,7 @@
 
 #### (1) Scope of oversight
 
-&emsp;The Comptroller General of the United States shall, upon establishment of the troubled assets relief program <sup>1</sup> under this chapter (in this section referred to as the "TARP"),commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
+&emsp;The Comptroller General of the United States shall, upon establishment of the troubled assets relief program <sup>1</sup> under this chapter (in this section referred to as the "TARP"), commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
 
 &emsp;&emsp;(A) The performance of the TARP in meeting the purposes of this chapter, particularly those involving—
 
@@ -80,7 +80,7 @@
 
 #### (3) Reporting
 
-&emsp;The Comptroller General shall submit reports of findings under this section, regularly and no less frequently than once every 60 days, to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
+&emsp;The Comptroller General shall submit reports of findings under this section annuallyto the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
 
 #### (b) Comptroller General audits
 
@@ -132,7 +132,7 @@ Any oversight, reporting, or audit requirement under this section shall terminat
 
 &emsp;(2) the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, §116, Oct. 3, 2008, 122 Stat. 3783; Pub. L. 111–22, div. A, title VI, §601, May 20, 2009, 123 Stat. 1659.)
+(Pub. L. 110–343, div. A, title I, §116, Oct. 3, 2008, 122 Stat. 3783; Pub. L. 111–22, div. A, title VI, §601, May 20, 2009, 123 Stat. 1659; Pub. L. 114–301, §3(a), Dec. 16, 2016, 130 Stat. 1514.)
 
 #### References in Text
 
@@ -142,9 +142,11 @@ Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act
 
 Section 1441a of this title, referred to in subsec. (a)(1)(H), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
-Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. Aof Pub. L. 110–343, which is classified to section 5230 of this title.
+Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. A of Pub. L. 110–343, which is classified to section 5230 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–301 substituted "annually" for ", regularly and no less frequently than once every 60 days,".
 
 <b>2009</b>—Subsec. (a)(1)(A)(v). Pub. L. 111–22, §601(1), added cl. (v).
 

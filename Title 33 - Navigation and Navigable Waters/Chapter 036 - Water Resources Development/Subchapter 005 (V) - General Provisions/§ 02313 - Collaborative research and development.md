@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of improving the state of engineering and construction in the United States and consistent with the civil works mission ofthe Army Corps of Engineers, the Secretary is authorized to utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
+For the purpose of improving the state of engineering and construction in the United States and consistent with the civil works mission of the Army Corps of Engineers, the Secretary is authorized to utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
 
 #### (b) Pre-agreement temporary protection of technology
 
@@ -20,7 +20,7 @@ In carrying out this section, the Secretary may consider the recommendations of 
 
 #### (d) Applicability of other laws
 
-The research, development, or utilization of any technology pursuant to an agreement under subsection (c) of this section, including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714).
+The research, development, or utilization of any technology pursuant to an agreement under subsection (c), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701–3714).
 
 #### (e) Authorization of appropriations
 

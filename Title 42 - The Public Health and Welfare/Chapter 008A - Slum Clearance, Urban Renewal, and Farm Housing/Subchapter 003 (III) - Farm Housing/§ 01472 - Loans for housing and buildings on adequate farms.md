@@ -30,7 +30,7 @@ The instruments under which the loan is made and the security given shall—
 
 &emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
-&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
+&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
 
 &emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
@@ -38,7 +38,7 @@ The instruments under which the loan is made and the security given shall—
 
 #### (c) Prepayment and refinancing provisions
 
-(1)(A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
+(1)(A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
 
 &emsp;(i) fifteen years from the date on which the loan was made in the case of a loan made or insured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or section 1437f of this title; or
 
@@ -46,7 +46,7 @@ The instruments under which the loan is made and the security given shall—
 
 > or until the Secretary determines (prior to the end of such period) that there is no longer a need for such housing and related facilities to be so utilized or that Federal or other financial assistance provided to the residents of such housing will no longer be provided.
 
-(B) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any initial loan made or insured under section 1485 of this title pursuant to a contract entered into on or after December 15, 1989.
+(B) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any initial loan made or insured under section 1485 of this title pursuant to a contract entered into on or after December 15, 1989.
 
 (2) If any loan which was made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, is prepaid or refinanced on or after October 8, 1980, and tenants of the housing and related facilities financed with such loan are displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of such prepayment or refinancing, the Secretary shall provide such tenants a priority for relocation in alternative housing assisted pursuant to this subchapter.
 
@@ -56,7 +56,7 @@ Notice of offer to prepay.—Not less than 30 days after receiving an offer to p
 
 (4)(A)
 
-Agreement by borrower to extend low income use.—Before accepting any offer to prepay, or requesting refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, the Secretary shall make reasonable efforts to enter into an agreement with the borrower under which the borrower will make a binding commitment to extend the low income use of the assisted housing and related facilities involved for not less than the 20-year period beginning on the date on which the agreement is executed.
+Agreement by borrower to extend low income use.—Before accepting any offer to prepay, or requesting refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, the Secretary shall make reasonable efforts to enter into an agreement with the borrower under which the borrower will make a binding commitment to extend the low income use of the assisted housing and related facilities involved for not less than the 20-year period beginning on the date on which the agreement is executed.
 
 (B)
 
@@ -92,7 +92,7 @@ In general.—If the Secretary determines after a reasonable period that an agre
 
 &emsp;(ii)
 
-Period for which requirement applicable.—If, upon the expiration of 180 days afteran offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of this section of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
+Period for which requirement applicable.—If, upon the expiration of 180 days after an offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
 
 (B)
 
@@ -140,11 +140,11 @@ Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii
 
 (F)
 
-General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
+General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
 
 (G)
 
-Exception.—This paragraph shall not apply to any offer to prepay, or any request to refinance in accordance with subsection (b)(3) of this section, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, if—
+Exception.—This paragraph shall not apply to any offer to prepay, or any request to refinance in accordance with subsection (b)(3), any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, if—
 
 &emsp;(i) the borrower enters into an agreement with the Secretary that obligates the borrower (and successors in interest thereof)—
 
@@ -154,7 +154,7 @@ Exception.—This paragraph shall not apply to any offer to prepay, or any reque
 
 &emsp;(ii) the Secretary determines that housing opportunities of minorities will not be materially affected as a result of the prepayment or refinancing, and that—
 
-&emsp;&emsp;(I) the borrower (and any successor in interest thereof) are obligated to ensure that tenants of the housing and related facilities financed with the loan will not be displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of the prepayment or refinancing; or
+&emsp;&emsp;(I) the borrower (and any successor in interest thereof) are obligated to ensure that tenants of the housing and related facilities financed with the loan will not be displaceddue to a change in the use of the housing, or to an increase in rental or other charges, as a result of the prepayment or refinancing; or
 
 &emsp;&emsp;(II) there is an adequate supply of safe, decent, and affordable rental housing within the market area of the housing and related facilities and sufficient actions have been taken to ensure that the rental housing will be made available to each tenant upon displacement.
 
@@ -218,7 +218,7 @@ On and after November 30, 1983—
 
 &emsp;(A) reduce the operating costs for a borrower by maximizing the energy savings and be cost-effective over the life of the manufactured home or the term of the loan, whichever is shorter, taking into account variations in climate, types of energy used, the cost to modify the home to meet such requirements, and the estimated value of the energy saved over the term of the mortgage; and
 
-&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and CommunityDevelopment Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
+&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
 
 (3) A loan that may be made or insured under this section with respect to a manufactured home on a permanent foundation, or a manufactured home on a permanent foundation and a lot, shall be repayable over the same period as would be applicable under section 203(b) of the National Housing Act \[12 U.S.C. 1709(b)\].
 
@@ -230,13 +230,13 @@ On and after November 30, 1983—
 
 #### (2) Prohibition
 
-&emsp;The Secretary may not refuse to make, insure, or guarantee a loan that otherwise meets the requirements under this section solely on the basis that the housing involved is located in an area that is excessively rural in character or excessively remote or on tribal allotted or Indian trust land.
+&emsp;The Secretary may not refuse to make, insure, or guarantee a loan that otherwise meets the requirements under this section solely onthe basis that the housing involved is located in an area that is excessively rural in character or excessively remote or on tribal allotted or Indian trust land.
 
 #### (g) Deferred mortgage demonstration
 
 #### (1) Authority
 
-&emsp;With respect to families or persons otherwise eligible for assistance under subsection (d) of this section but having incomes below the amount determined to qualify for a loan under this section, the Secretary may defer mortgage payments beyond the amount affordable at 1 percent interest, taking into consideration income, taxes and insurance. Deferred mortgage payments shall be converted to payment status when the ability of the borrower to repay improves. Deferred amounts shall not exceed 25 percent of the amount of the payment due at 1 percent interest and shall be subject to recapture.
+&emsp;With respect to families or persons otherwise eligible for assistance under subsection (d) but having incomes below the amount determined to qualify for a loan under this section, the Secretary may defer mortgage payments beyond the amount affordable at 1 percent interest, taking into consideration income, taxes and insurance. Deferred mortgage payments shall be converted to payment status when the ability of the borrower to repay improves. Deferred amounts shall not exceed 25 percent of the amount of the payment due at 1 percent interest and shall be subject to recapture.
 
 #### (2) Interest
 
@@ -290,9 +290,9 @@ On and after November 30, 1983—
 
 &emsp;&emsp;(C) involve a principal obligation (including initial service charges, appraisal, inspection, and other fees as the Secretary may approve)—
 
-&emsp;&emsp;&emsp;(i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section; and
+&emsp;&emsp;&emsp;(i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7); <sup>2</sup> and
 
-&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section.
+&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7).<sup>2</sup>
 
 #### (8) Fees
 
@@ -304,7 +304,7 @@ On and after November 30, 1983—
 
 #### (9) Refinancing
 
-&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
+&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordancewith terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
 
 #### (10) Nonassumption
 
@@ -436,7 +436,21 @@ On and after November 30, 1983—
 
 &emsp;&emsp;The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303.)
+#### (18) Delegation of approval
+
+&emsp;The Secretary may delegate, in part or in full, the Secretary's authority to approve and execute binding Rural Housing Service loan guarantees pursuant to this subsection to certain preferred lenders, in accordance with standards established by the Secretary.
+
+#### (i) Guaranteed underwriting user fee
+
+#### (1) Authority; maximum amount
+
+&emsp;The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender's participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+
+#### (2) Crediting; availability
+
+&emsp;Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
+
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805.)
 
 #### References in Text
 
@@ -451,6 +465,10 @@ Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949,
 This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (h)(18). Pub. L. 114–201, §201, added par. (18).
+
+Subsec. (i). Pub. L. 114–201, §202, added subsec. (i).
 
 <b>2010</b>—Subsec. (h)(8). Pub. L. 111–212 amended par. (8) generally. Prior to amendment, text read as follows: "With respect to a guaranteed loan under this subsection, the Secretary may collect from the lender at the time of issuance of the guarantee a fee equal to not more than 1 percent of the principal obligation of the loan."
 
@@ -474,7 +492,7 @@ Subsec. (h)(6). Pub. L. 108–285, §3(b)(1), redesignated par. (5) as (6). Form
 
 Subsec. (h)(7). Pub. L. 108–285, §3(b)(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (h)(7)(C). Pub. L. 108–447, which directed insertion of ", plus the guarantee fee as authorized by subsection (h)(7) of this section" after "whichever is less" in pars. (i) and (ii) of subsec. (h)(6)(C), was executed by making the insertion in cls. (i) and (ii) of par. (7)(C), to reflect the probable intent of Congress and the amendment by Pub. L. 108–285, §3(b)(1). See above.
+Subsec. (h)(7)(C). Pub. L. 108–447, which directed insertion of ", plus the guarantee fee as authorized by subsection (h)(7)" after "whichever is less" in pars. (i) and (ii) of subsec. (h)(6)(C), was executed by making the insertion in cls. (i) and (ii) of par. (7)(C), to reflect the probable intent of Congress and the amendment by Pub. L. 108–285, §3(b)(1). See above.
 
 Subsec. (h)(8) to (13). Pub. L. 108–285, §3(b)(1), redesignated pars. (7) to (12) as (8) to (13), respectively. Former par. (13) redesignated (14).
 
@@ -528,7 +546,7 @@ Subsec. (g). Pub. L. 101–625, §705(a), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–625, §706(b), added subsec. (h).
 
-<b>1989</b>—Subsec. (c)(1). Pub. L. 101–235, §206, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted "but before December 15, 1989," after "December 21, 1979," in introductory provisions and cl. (i), and added subpar. (B).
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–235 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted "but before December 15, 1989," after "December 21, 1979," in introductory provisions and cl. (i), and added subpar. (B).
 
 <b>1988</b>—Subsec. (c)(3). Pub. L. 100–242, §241, added par. (3).
 

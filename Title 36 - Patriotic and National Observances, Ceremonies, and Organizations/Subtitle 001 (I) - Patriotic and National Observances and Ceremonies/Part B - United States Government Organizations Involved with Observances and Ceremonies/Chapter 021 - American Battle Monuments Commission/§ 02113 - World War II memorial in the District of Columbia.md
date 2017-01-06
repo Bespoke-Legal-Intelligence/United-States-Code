@@ -88,5 +88,5 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 #### Effect of Repeal of Current Memorial Fund
 
-Pub. L. 106–117, title VI, §601(c), Nov. 30, 1999, 113 Stat. 1578, provided that: "Upon the enactment of this Act \[Nov. 30, 1999\], the Secretary of the Treasury shalltransfer amounts in the fund created by section 4(a) of Public Law 103–32 (40 U.S.C. 1003 note) \[now 40 U.S.C. 8903 note\] to the fund created by section 2113(b) of title 36, United States Code, as added by subsection (a)."
+Pub. L. 106–117, title VI, §601(c), Nov. 30, 1999, 113 Stat. 1578, provided that: "Upon the enactment of this Act \[Nov. 30, 1999\], the Secretary of the Treasury shall transfer amounts in the fund created by section 4(a) of Public Law 103–32 (40 U.S.C. 1003 note) \[now 40 U.S.C. 8903 note\] to the fund created by section 2113(b) of title 36, United States Code, as added by subsection (a)."
 

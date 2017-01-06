@@ -66,7 +66,7 @@
 
 &emsp;(B) from disapproving any collection of information contained in an agency rule, if the agency failed to comply with the requirements of paragraph (1) of this subsection;
 
-&emsp;(C) from disapproving any collection of information contained in a final agency rule, if the Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed under paragraph (2) of this subsection was unreasonable; or
+&emsp;(C) from disapproving any collection of information contained in a final agency rule, ifthe Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed under paragraph (2) of this subsection was unreasonable; or
 
 &emsp;(D) from disapproving any collection of information contained in a final rule, if—
 

@@ -22,7 +22,7 @@ For any fiscal year beginning after September 30, 2007, State expenditures of no
 
 #### (e) Limitation on reimbursement for administrative costs
 
-A payment may not be made to a State under this section with respect to expenditures duringa fiscal year for administrative costs, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year for activities funded from amounts provided under this subpart.
+A payment may not be made to a State under this section with respect to expenditures during a fiscal year for administrative costs, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year for activities funded from amounts provided under this subpart.
 
 #### (f) Child visitation by caseworkers
 
@@ -42,7 +42,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 &emsp;(i) 1, if the number of full percentage points by which the State fell short of the percentage specified in subparagraph (A) is less than 10;
 
-&emsp;(ii) 3, if the number of full percentage points by which the State fell short, as described in clause (i), is not less than 10 and less than 20; or
+&emsp;(ii) 3, if the number of full percentage points by which the State fell short, as described inclause (i), is not less than 10 and less than 20; or
 
 &emsp;(iii) 5, if the number of full percentage points by which the State fell short, as described in clause (i), is not less than 20.
 

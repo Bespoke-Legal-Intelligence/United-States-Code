@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) a borrower received a discharge of liability under this subsection and after the discharge the borrower—
 
-&emsp;&emsp;&emsp;(i) receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or
+&emsp;&emsp;&emsp;(i) receives a loan made, insured, or guaranteed under this subchapter; or
 
 &emsp;&emsp;&emsp;(ii) has earned income in excess of the poverty line; or
 
@@ -32,7 +32,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (1) In general
 
-&emsp;If a borrower who received, on or after January 1, 1986, a loan made, insured, or guaranteed under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable to complete the program in which such student is enrolled due to the closure of the institution or if such student's eligibility to borrow under this part was falsely certified by the eligible institution or was falsely certified as a result of a crime of identity theft, or if the institution failed to make a refund of loan proceeds which the institution owed to such student's lender, then the Secretary shall discharge the borrower's liability on the loan (including interest and collection fees) by repaying the amount owed on the loan and shall subsequently pursue any claim available to such borrower against the institution and its affiliates and principals or settle the loan obligation pursuant to the financial responsibility authority under subpart 3 of part G of this subchapter. In the case of a discharge based upon a failure to refund, the amount of the discharge shall not exceed that portion of the loan which should have been refunded. The Secretary shall report to the authorizing committees annually as to the dollar amount of loan discharges attributable to failures to make refunds.
+&emsp;If a borrower who received, on or after January 1, 1986, a loan made, insured, or guaranteed under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable to complete the program in which such student is enrolled due to the closure of the institution or if such student's eligibility to borrow under this part was falsely certified by the eligible institution or was falsely certified as a result of a crime of identity theft, or if the institution failed to make a refund of loan proceeds which the institution owed to such student's lender, then the Secretary shall discharge the borrower's liability on the loan (including interest and collection fees) by repaying the amount owed on the loan and shall subsequently pursue any claim available to such borrower against the institution and its affiliates and principals or settle the loan obligation pursuant to the financial responsibility authority under subpart 3 of part H. In the case of a discharge based upon a failure to refund, the amount of the discharge shall not exceed that portion of the loan which should have been refunded. The Secretary shall report to the authorizing committees annually as to the dollar amount of loan discharges attributable to failures to make refunds.
 
 #### (2) Assignment
 
@@ -40,11 +40,11 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (3) Eligibility for additional assistance
 
-&emsp;The period of a student's attendance at an institution at which the student was unable tocomplete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The period of a student's attendance at an institution at which the student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period of eligibility for additional assistance under this subchapter.
 
 #### (4) Special rule
 
-&emsp;A borrower whose loan has been discharged pursuant to this subsection shall not be precluded from receiving additional grants, loans, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for which the borrower would be otherwise eligible (but for the default on such discharged loan). The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.
+&emsp;A borrower whose loan has been discharged pursuant to this subsection shall not be precluded from receiving additional grants, loans, or work assistance under this subchapter for which the borrower would be otherwise eligible (but for the default on such discharged loan). The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.
 
 #### (5) Reporting
 
@@ -72,7 +72,7 @@ A prior section 1087, Pub. L. 89–329, title IV, §437, as added Pub. L. 90–5
 
 &emsp;"(A) a borrower received a discharge of liability under this subsection and after the discharge the borrower—
 
-&emsp;&emsp;"(i) receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or
+&emsp;&emsp;"(i) receives a loan made, insured, or guaranteed under this subchapter; or
 
 &emsp;&emsp;"(ii) has earned income in excess of the poverty line; or
 
@@ -104,7 +104,7 @@ Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end "The amount disch
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–39, title IV, §402(e)(2), July 1, 2009, 123 Stat. 1943, provided that: "The amendments made byparagraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 437(a) of the Higher Education Opportunity Act (Public Law 110–315) \[amending this section\], and shall take effect on July 1, 2010."
+Pub. L. 111–39, title IV, §402(e)(2), July 1, 2009, 123 Stat. 1943, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 437(a) of the Higher Education Opportunity Act (Public Law 110–315) \[amending this section\], and shall take effect on July 1, 2010."
 
 #### Effective Date of 2008 Amendment
 

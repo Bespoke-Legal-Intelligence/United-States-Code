@@ -28,11 +28,11 @@
 
 > The administrator shall permit such accountant or actuary to inspect whatever books and records of the plan are necessary for such audit. The plan shall be liable to the Secretary for the expenses for such audit or report, and the Secretary may bring an action against the plan in any court of competent jurisdiction to recover such expenses.
 
-(6) The administrator of any employee benefit plan subject to this part shall furnish to the Secretary, upon request, any documents relating to the employee benefit plan, including but not limited to, the latest summary plan description (including any summaries of plan changes not contained in the summary plan description), and the bargaining agreement, trust agreement, contract, or other instrument under which the plan is established or operated.
+(6) The administrator of any employee benefit plan subject to this part shall furnish to the Secretary, upon request, any documents relating to the employee benefit plan, including but not limited to, the latest summary plan description (including any summaries of plan changes not contained in the summary plan description), and the bargaining agreement, trust agreement,contract, or other instrument under which the plan is established or operated.
 
 #### (b) Publication of summary plan description and annual report to participants and beneficiaries of plan
 
-Publication of the summary plan descriptions and annual reports shall be made to participantsand beneficiaries of the particular plan as follows:
+Publication of the summary plan descriptions and annual reports shall be made to participants and beneficiaries of the particular plan as follows:
 
 (1) The administrator shall furnish to each participant, and each beneficiary receiving benefits under the plan, a copy of the summary plan description, and all modifications and changes referred to in section 1022(a) of this title—
 
@@ -128,7 +128,7 @@ Subsec. (b)(4). Pub. L. 105–34, §1503(d)(3), struck out "plan description" be
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–204 made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 
-Pub. L. 104–191, in closing provisions, substituted "1022(a)(1) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) of this title))," for "1022(a)(1) of this title," and inserted at end "If there is a modification or change described in section 1022(a)(1) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such description at regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits."
+Pub. L. 104–191, in closing provisions, substituted "1022(a)(1) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) of this title))," for "1022(a)(1) of this title," and inserted at end "If there is a modification or change described in section 1022(a)(1) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such descriptionat regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits."
 
 <b>1989</b>—Subsec. (a)(5)(B). Pub. L. 101–239, §7894(b)(3), substituted a comma for period at end.
 

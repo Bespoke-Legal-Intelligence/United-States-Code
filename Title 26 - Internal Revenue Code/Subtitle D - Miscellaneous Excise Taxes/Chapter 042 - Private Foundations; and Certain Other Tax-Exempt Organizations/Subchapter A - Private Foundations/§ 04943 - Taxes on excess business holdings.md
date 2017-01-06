@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) excess business holdings in such enterprise, the interest of the foundation in such enterprise (immediately after such change) shall (while held by the foundation) be treated as held by a disqualified person (rather than by the foundation) during the 5-year period beginning on the date of such change in holdings; or
 
-&emsp;&emsp;(B) an increase in excess business holdings in such enterprise (determined without regard to subparagraph (A)), subparagraph (A) shall apply, except that the excess holdings immediately preceding the increase therein shall not be treated, solely because of suchincrease, as held by a disqualified person (rather than by the foundation).
+&emsp;&emsp;(B) an increase in excess business holdings in such enterprise (determined without regard to subparagraph (A)), subparagraph (A) shall apply, except that the excess holdings immediately preceding the increase therein shall not be treated, solely because of such increase, as held by a disqualified person (rather than by the foundation).
 
 > &emsp;In any case where an acquisition by a disqualified person would result in a substitution under clause (i) or (ii) of subparagraph (D) of paragraph (4), the preceding sentence shall be applied with respect to such acquisition as if it did not contain the phrase "or by a disqualified person" in the material preceding subparagraph (A).
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a member of the family of an individual described in subparagraph (A), or
 
-&emsp;&emsp;(C) a 35-percent controlled entity (as defined in section 4958(f)(3) by substituting "persons described in subparagraph (A) or (B) of section 4943(e)(2)" for "persons described in subparagraph (A) or (B) of paragraph (1)" in subparagraph (A)(i) thereof).
+&emsp;&emsp;(C) a 35-percent controlled entity (as defined in section 4958(f)(3) by substituting"persons described in subparagraph (A) or (B) of section 4943(e)(2)" for "persons described in subparagraph (A) or (B) of paragraph (1)" in subparagraph (A)(i) thereof).
 
 #### (3) Present holdings
 
@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) "January 1, 2007" shall be substituted for "January 1, 1971" in paragraph (4)(E).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a),314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### References in Text
 

@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;(3) the term "used" refers to any self-propelled vehicle the equitable or legal title to which has been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser; and
 
-&emsp;(4) the term "ultimate purchaser" means the first person, other than a dealer purchasing in his capacity as a dealer, who in good faith purchases a self-propelled vehicle for purposes other than resale.
+&emsp;(4) the term "ultimate purchaser" means the first person, other than a dealer purchasing inhis capacity as a dealer, who in good faith purchases a self-propelled vehicle for purposes other than resale.
 
 #### (d) Cooperation of law enforcement and governmental authorities
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(i) service rendered as an employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Allotment Act or of a committee or association of producers described in section 10(b) of the Agricultural Adjustment Act; and
 
-&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employeemoves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
 (b) A preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
 
@@ -264,7 +264,7 @@ Study and Report.—(1) The Director of the Office of Personnel Management shall
 
 "(b)
 
-Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
+Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determinesthat such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
 
 "(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5) shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
 
@@ -298,7 +298,7 @@ Pub. L. 102–484, div. D, title XLIV, §4433(b), Oct. 23, 1992, 106 Stat. 2722,
 
 #### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
 
-Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see section 472a(a) of Title 25, Indians.
+Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see section 5117(a) of Title 25, Indians.
 
 #### Ex. Ord. No. 12828. Delegation of Certain Personnel Management Authorities
 

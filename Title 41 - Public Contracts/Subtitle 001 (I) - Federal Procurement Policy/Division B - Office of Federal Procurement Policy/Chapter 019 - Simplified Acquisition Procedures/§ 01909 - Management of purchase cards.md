@@ -40,7 +40,7 @@ Required Safeguards and Internal Controls.—The head of each executive agency t
 
 (b)
 
-Guidance.—The Director of the Office of Management and Budget shall review existing guidance and, as necessary, prescribe additional guidance governing the implementation of the requirements of subsection (a) by executive agencies.
+Guidance.—The Director of the Office of Management and Budget shall review existing guidance and, as necessary, prescribe additional guidance governing the implementation of therequirements of subsection (a) by executive agencies.
 
 (c)
 
@@ -74,7 +74,7 @@ Risk Assessments and Audits.—The Inspector General of each executive agency sh
 
 &emsp;&emsp;(B) any patterns of such uses; and
 
-&emsp;&emsp;(C) categories of purchases that could be made by means other than purchase cards in order to better aggregate purchases and obtain lower prices (excluding transactionsmade under card-based strategic sourcing arrangements);
+&emsp;&emsp;(C) categories of purchases that could be made by means other than purchase cards in order to better aggregate purchases and obtain lower prices (excluding transactions made under card-based strategic sourcing arrangements);
 
 &emsp;(3) report to the head of the executive agency concerned on the results of such analysis or audits; and
 

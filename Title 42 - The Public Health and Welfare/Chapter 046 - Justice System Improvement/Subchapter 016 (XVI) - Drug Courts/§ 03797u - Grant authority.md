@@ -4,7 +4,7 @@
 
 The Attorney General may make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or private entities, for adult drug courts, juvenile drug courts, family drug courts, and tribal drug courts that involve—
 
-&emsp;(1) continuing judicial supervision over offenders, and other individuals under the jurisdiction of the court, with substance abuse problems who are not violent offenders;
+&emsp;(1) continuing judicial supervision over offenders, and other individuals under the jurisdiction of the court, with substance abuse problems, including co-occurring substance abuse and mental health problems, who are not violent offenders;
 
 &emsp;(2) coordination with the appropriate State or local prosecutor; and
 
@@ -42,7 +42,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 #### (2) Mandatory sanctions
 
-&emsp;The Attorney General shall, by prescribing guidelines or regulations, specify that grantamounts under this subchapter may be used for a drug court only if the drug court imposes graduated sanctions that increase punitive measures, therapeutic measures, or both whenever a participant fails a drug test. Such sanctions and measures may include, but are not limited to, one or more of the following:
+&emsp;The Attorney General shall, by prescribing guidelines or regulations, specify that grant amounts under this subchapter may be used for a drug court only if the drug court imposes graduated sanctions that increase punitivemeasures, therapeutic measures, or both whenever a participant fails a drug test. Such sanctions and measures may include, but are not limited to, one or more of the following:
 
 &emsp;&emsp;(A) Incarceration.
 
@@ -72,9 +72,11 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 &emsp;&emsp;(N) Anger management classes.
 
-(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, §751, Mar. 9, 2006, 120 Stat. 273.)
+(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 109–177, title VII, §751, Mar. 9, 2006, 120 Stat. 273; Pub. L. 114–255, div. B, title XIV, §14007(1), Dec. 13, 2016, 130 Stat. 1296.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255 inserted ", including co-occurring substance abuse and mental health problems," after "abuse problems".
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted "offenders, and other individuals under the jurisdiction of the court, with substance abuse problems" for "offenders with substance abuse problems".
 

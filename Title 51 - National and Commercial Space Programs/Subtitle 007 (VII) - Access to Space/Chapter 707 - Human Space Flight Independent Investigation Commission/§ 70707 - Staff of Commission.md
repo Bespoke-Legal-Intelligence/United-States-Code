@@ -6,7 +6,7 @@ Appointment and Compensation.—The Chairman, in consultation with the Vice Chai
 
 (b)
 
-Detailees.—Any Federal Government employee, except for an employee of the Administration, may be detailed to a Commission without reimbursement from the Commission, andsuch detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+Detailees.—Any Federal Government employee, except for an employee of the Administration, may be detailed to a Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 (c)
 

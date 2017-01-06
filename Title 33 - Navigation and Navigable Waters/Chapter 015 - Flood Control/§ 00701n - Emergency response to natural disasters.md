@@ -2,7 +2,7 @@
 
 #### (a) Emergency fund
 
-(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor's request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: <i>Provided</i>, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
+(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor's request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to anylocality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: <i>Provided</i>, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
 
 (2) In preparing a cost and benefit feasibility assessment for any emergency project described in paragraph (1), the Chief of Engineers shall consider the benefits to be gained by such project for the protection of—
 
@@ -11,6 +11,10 @@
 &emsp;(B) commercial establishments, including the protection of inventory; and
 
 &emsp;(C) agricultural establishments, including the protection of crops.
+
+(3)
+
+Nonstructural alternatives defined.—In this subsection, the term "nonstructural alternatives" includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
 
 #### (b) Emergency supplies of drinking water; drought; well construction and water transportation
 
@@ -68,13 +72,35 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) repair or rebuilding described in clause (i) if, in the normal course of usage, the structure becomes structurally unsound and is no longer fit to provide the level of protection for which the structure was designed.
 
-(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305.)
+#### (d) Increased level of protection
+
+In conducting repair or restoration work under subsection (a), at the request of the non-Federal sponsor, the Chief of Engineers may increase the level of protection above the level to which the system was designed, or, if the repair or restoration includes repair or restoration of a pumping station, increase the capacity of a pump, if—
+
+&emsp;(1) the Chief of Engineers determines the improvements are in the public interest, including consideration of whether—
+
+&emsp;&emsp;(A) the authority under this section has been used more than once at the same location;
+
+&emsp;&emsp;(B) there is an opportunity to decrease significantly the risk of loss of life and property damage; or
+
+&emsp;&emsp;(C) there is an opportunity to decrease total life cycle rehabilitation costs for the project; and
+
+&emsp;(2) the non-Federal sponsor agrees to pay the difference between the cost of repair or restoration to the original design level or original capacity and the cost of achieving the higher level of protection or capacity sought by the non-Federal sponsor.
+
+#### (e) Notice
+
+The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
+
+(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673.)
 
 #### References in Text
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(3). Pub. L. 114–322, §1176(1), added par. (3).
+
+Subsecs. (d), (e). Pub. L. 114–322, §1176(2), added subsecs. (d) and (e).
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–121 inserted "and subject to the condition that the Chief of Engineers may include modifications to the structure or project" after "work for flood control" and substituted "structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor" for "structure damaged or destroyed by wind, wave, or water action of other than an ordinary nature when in the discretion of the Chief of Engineers such repair and restoration is warranted for the adequate functioning of the structure for hurricane or shore protection".
 
@@ -122,7 +148,7 @@ Pub. L. 113–121, title III, §3013, June 10, 2014, 128 Stat. 1284, provided th
 
 "(a)
 
-Definition of Guidelines.—In this section, the term 'guidelines' means the Corps of Engineers policyguidelines for management of vegetation on levees, including—
+Definition of Guidelines.—In this section, the term 'guidelines' means the Corps of Engineers policy guidelines for management of vegetation on levees, including—
 
 &emsp;"(1) Engineering Technical Letter 1110–2–571 entitled 'Guidelines for Landscape Planting and Vegetation Management at Levees, Floodwalls, Embankment Dams, and Appurtenant Structures' and adopted April 10, 2009; and
 
@@ -212,7 +238,7 @@ Recommendations.—
 
 &emsp;&emsp;"(A)
 
-Regional integration teams.—Corps of Engineers Regional Integration Teams, representing districts, divisions, and headquarters, in consultation with State and Federal resource agencies, and with participation by local agencies, shall submit to the Secretary any recommendations for vegetation management policies for levees that conform with Federal and State laws and other applicable requirements, including recommendations relating to the review of guidelines under subsection (b) and the consideration of variances under subsection (c)(2).
+Regional integration teams.—Corps of Engineers Regional Integration Teams, representing districts, divisions, and headquarters, in consultation with State and Federal resource agencies, and with participation by local agencies, shall submit to the Secretary any recommendations for vegetation management policies for levees that conform with Federal and State laws and other applicable requirements, including recommendations relatingto the review of guidelines under subsection (b) and the consideration of variances under subsection (c)(2).
 
 &emsp;&emsp;"(B)
 
@@ -270,7 +296,7 @@ Content; incorporation into manual.—The revised guidelines shall—
 
 &emsp;"(3)
 
-Failure to meet deadlines.—If the Secretary fails to submit a report by the required deadlineunder this subsection, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of—
+Failure to meet deadlines.—If the Secretary fails to submit a report by the required deadline under this subsection, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of—
 
 &emsp;&emsp;"(A) why the deadline was missed;
 

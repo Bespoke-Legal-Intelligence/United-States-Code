@@ -60,7 +60,7 @@ If the estimate of the Federal investment with respect to construction and opera
 
 #### (g) Disposition of Federal property interests, electricity, synthetic fuels, and other byproducts upon completion of project
 
-(1) At the conclusion of any demonstration project established under this section, or as soon thereafter as may be practicable, the responsible Federal agencies shall, by sale, lease, or otherwise, dispose of all Federal property interests which they have acquired pursuant to this section in accordance with existing law and the terms of the cooperative agreements involved.
+(1) At the conclusion of any demonstration project established under this section, or as soon thereafter as may be practicable, the responsibleFederal agencies shall, by sale, lease, or otherwise, dispose of all Federal property interests which they have acquired pursuant to this section in accordance with existing law and the terms of the cooperative agreements involved.
 
 (2) The agency involved shall, under appropriate agreements or other arrangements, provide for the disposition of electricity, synthetic fuels, and other byproducts of the project administered by such agency.
 

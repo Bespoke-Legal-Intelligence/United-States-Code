@@ -8,13 +8,13 @@
 
 #### (2) Definition
 
-&emsp;For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
+&emsp;For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference tothe program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
 
 #### (b) Considerations in making grants
 
 #### (1) Requirements
 
-&emsp;In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], consumers of project services, public health departments, hospitals, health centers under section 254b of this title, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a) of this section.
+&emsp;In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], consumers of project services, public health departments, hospitals, health centers under section 254b of this title, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a).
 
 #### (2) Other considerations
 
@@ -34,11 +34,11 @@
 
 #### (c) Coordination
 
-Recipients of grants under subsection (a) of this section shall coordinate their services and activities with the State agency or agencies that administer block grant programs under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] in order to promote cooperation, integration, and dissemination of information with Statewide systems and with other community services funded under the Maternal and Child Health Block Grant.
+Recipients of grants under subsection (a) shall coordinate their services and activities with the State agency or agencies that administer block grant programs under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] in order to promote cooperation, integration, and dissemination of information with Statewide systems and with other community services funded under the Maternal and Child Health Block Grant.
 
 #### (d) Rule of construction
 
-Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a) of this section.
+Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a).
 
 #### (e) Funding
 

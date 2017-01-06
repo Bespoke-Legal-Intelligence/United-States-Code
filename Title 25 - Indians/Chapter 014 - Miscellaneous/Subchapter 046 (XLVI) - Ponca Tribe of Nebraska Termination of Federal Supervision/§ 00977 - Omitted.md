@@ -1,0 +1,6 @@
+### §977. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–629, §7, Sept. 5, 1962, 76 Stat. 430, which provided that nothing in this subchapter would affect the rights, privileges, or obligations of the tribe or its members under the laws of Nebraska, was omitted from the Code as being of special and not general application.
+

@@ -22,7 +22,7 @@ The judges shall be officers or employees of the Department. The judges shall me
 
 #### (d) Assignment of judges
 
-For the purposes of conducting hearings described in subsection (a) of this section, the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
+For the purposes of conducting hearings described in subsection (a), the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been ofcounsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
 
 #### (e) Review and evidentiary functions
 
@@ -46,11 +46,11 @@ The judge shall review and may require that evidence be taken on the sufficiency
 
 > The judge shall set a time limit of 90 days on the discovery period. The judge may extend this period for good cause shown. At the request of any party, the judge may establish a specific schedule for the conduct of discovery.
 
-(2) In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
+(2) In order to carry out the provisions of subsections (f)(1) and (g)(1), the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
 
 #### (h) Mediation of disputes
 
-The Secretary shall establish a process for the voluntary mediation of disputes pending before the Office. The mediator shall be agreed to by all parties involved in mediation and shall be independent of the parties to the dispute. In the mediation of disputes the Secretary shall consider mitigating circumstances and proportionof harm pursuant to section 1234b of this title. In accordance with rule 408 of the Federal Rules of Evidence, evidence of conduct or statements made in compromise negotiations shall not be admissible in proceedings before the Office. Mediation shall be limited to 120 days, except that the mediator may grant extensions of such period.
+The Secretary shall establish a process for the voluntary mediation of disputes pending before the Office. The mediator shall be agreed to by all parties involved in mediation and shall be independent of the parties to the dispute. In the mediation of disputes the Secretary shall consider mitigating circumstances and proportion of harm pursuant to section 1234b of this title. In accordance with rule 408 of the Federal Rules of Evidence, evidence of conduct or statements made in compromise negotiations shall not be admissible in proceedings before the Office. Mediation shall be limited to 120 days, except that the mediator may grant extensions of such period.
 
 #### (i) Professional personnel; employment, assignment, or transfer
 

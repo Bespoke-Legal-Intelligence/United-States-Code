@@ -34,7 +34,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 &emsp;&emsp;&emsp;(i) in the case of assistance involving substantial rehabilitation or acquisition of the building, for a period of not less than 10 years; and
 
-&emsp;&emsp;&emsp;(ii) in the case of assistance under paragraph (1), (3), or (4) of subsection (a) of this section, for a period of not less than 3 years.
+&emsp;&emsp;&emsp;(ii) in the case of assistance under paragraph (1), (3), or (4) of subsection (a), for a period of not less than 3 years.
 
 #### (B) Waiver
 

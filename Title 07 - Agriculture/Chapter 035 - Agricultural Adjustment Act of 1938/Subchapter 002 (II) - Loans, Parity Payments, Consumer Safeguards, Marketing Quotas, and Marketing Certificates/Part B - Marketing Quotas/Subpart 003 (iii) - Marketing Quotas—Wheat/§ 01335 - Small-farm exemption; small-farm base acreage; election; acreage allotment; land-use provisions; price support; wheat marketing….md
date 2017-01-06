@@ -10,7 +10,7 @@ Notwithstanding any other provision of this subpart, no farm marketing quota for
 
 <b>1965</b>—Pub. L. 89–321 made section inapplicable to crops planted for harvest in 1967 and subsequent years.
 
-<b>1962</b>—Pub. L. 87–703 substituted provisions for small-farm exemption from marketing quotas for provisions of subsecs. (a), (b), (c), (e), and (f), respecting the establishment of marketing quotas, the amount of national and farm marketing quotas, designation of States outside commercial wheat-producing areas (now covered by section 1334b of this title), and feed wheat exemption permitting any producer to harvest up to 30 acres of wheat without penalty if the entire crop is used on the farm where produced.
+<b>1962</b>—Pub. L. 87–703 substituted provisions for small-farm exemption from marketing quotas for provisionsof subsecs. (a), (b), (c), (e), and (f), respecting the establishment of marketing quotas, the amount of national and farm marketing quotas, designation of States outside commercial wheat-producing areas (now covered by section 1334b of this title), and feed wheat exemption permitting any producer to harvest up to 30 acres of wheat without penalty if the entire crop is used on the farm where produced.
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–128 repealed subsec. (d) which provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 

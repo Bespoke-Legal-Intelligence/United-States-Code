@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise specifically provided in this section, the provisions of chapter 84 of title 5 shall apply in the case of an employee of the Agency who is subject to chapter 84 of title 5and who has a former spouse (as defined in section 8401(12) of title 5) or a qualified former spouse.
+Except as otherwise specifically provided in this section, the provisions of chapter 84 of title 5 shall apply in the case of an employee of the Agency who is subject to chapter 84 of title 5 and who has a former spouse (as defined in section 8401(12) of title 5) or a qualified former spouse.
 
 #### (b) Definitions
 
@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;The term "qualified former spouse" means a former spouse of an employee or retired employee who—
 
-&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
+&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, atleast 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
 
 &emsp;&emsp;(B) in the case of a former spouse whose divorce from such employee becomes final after December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent by the employee outside the United States during the employee's service with the Agency or otherwise in a position the duties of which qualified the employee for designation by the Director under the criteria prescribed in section 2013 of this title.
 
@@ -92,7 +92,7 @@ For purposes of this section:
 
 #### (B) Reduction in basic pay upon recall to service
 
-&emsp;&emsp;If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title, the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
+&emsp;&emsp;If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title, the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the creditof the Civil Service Retirement and Disability Fund.
 
 #### (6) Special rules for disability annuitants
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 #### (4) Restoration
 
-&emsp;If the survivor annuity payable under this subsection to a surviving qualified formerspouse is terminated because of remarriage before becoming age 55, the annuity shall be restored at the same rate commencing on the date such remarriage is dissolved by death, divorce, or annulment, if—
+&emsp;If the survivor annuity payable under this subsection to a surviving qualified former spouse is terminated because of remarriage before becoming age 55, the annuity shall be restored at the same rate commencing on the date such remarriage is dissolved by death, divorce, or annulment, if—
 
 &emsp;&emsp;(A) such former spouse elects to receive this survivor annuity instead of any other survivor benefit to which such former spouse may be entitled under subchapter IV of chapter 84 of title 5, or under another retirement system for Government employees by reason of the remarriage; and
 
@@ -166,7 +166,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) 50 percent of the employee's annuity under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), plus
 
-&emsp;&emsp;&emsp;(ii) the survivor benefits referred to in subsection (d)(2)(A) of this section,
+&emsp;&emsp;&emsp;(ii) the survivor benefits referred to in subsection (d)(2)(A),
 
 > &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
 
@@ -220,11 +220,11 @@ Whenever an employee or former employee becomes entitled to receive the lump-sum
 
 In the case of any employee or retired employee who has a qualified former spouse who is covered by a court order or who is a party to a spousal agreement—
 
-&emsp;(1) any right of the qualified former spouse to any retirement benefits under subsection (c) of this section and to any survivor benefits under subsection (d) of this section, and the amount of any such benefits;
+&emsp;(1) any right of the qualified former spouse to any retirement benefits under subsection (c) and to any survivor benefits under subsection (d), and the amount of any such benefits;
 
-&emsp;(2) any right of the qualified former spouse to any Thrift Savings Plan benefit under subsection (e) of this section, and the amount of any such benefit; and
+&emsp;(2) any right of the qualified former spouse to any Thrift Savings Plan benefit under subsection (e), and the amount of any such benefit; and
 
-&emsp;(3) any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g) of this section, and the amount of any such payment;
+&emsp;(3) any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g), and the amount of any such payment;
 
 > shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this section.
 
@@ -234,7 +234,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 (2) For the purposes of computing such former spouse's benefits under sections 2034 and 2035 of this title—
 
-&emsp;(A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A) of this section; and
+&emsp;(A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A); and
 
 &emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
 

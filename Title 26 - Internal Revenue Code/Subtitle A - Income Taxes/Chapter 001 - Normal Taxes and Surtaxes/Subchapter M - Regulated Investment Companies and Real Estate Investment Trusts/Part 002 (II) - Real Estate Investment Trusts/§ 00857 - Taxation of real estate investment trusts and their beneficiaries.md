@@ -50,9 +50,9 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;If for any taxable year a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is hereby imposed a tax (if such tax is less than the tax imposed by such subsection) which shall consist of the sum of—
 
-&emsp;&emsp;&emsp;(i) a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined byexcluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and
+&emsp;&emsp;&emsp;(i) a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and
 
-&emsp;&emsp;&emsp;(ii) a tax determined at the rates provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
+&emsp;&emsp;&emsp;(ii) a tax determined at the rates provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561)determined with reference to capital gains dividends only.
 
 #### (B) Treatment of capital gain dividends by shareholders
 
@@ -96,7 +96,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;A tax is hereby imposed for each taxable year on the net income from foreclosure property of every real estate investment trust. Such tax shall be computed by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b).
+&emsp;&emsp;A tax is hereby imposed for each taxable year on the net income from foreclosureproperty of every real estate investment trust. Such tax shall be computed by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b).
 
 #### (B) Net income from foreclosure property
 
@@ -148,7 +148,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(ii) aggregate expenditures made by the trust, or any partner of the trust, during the 2-year period preceding the date of sale which are includible in the basis of the property do not exceed 30 percent of the net selling price of the property;
 
-&emsp;&emsp;&emsp;(iii)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or (III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year, or (IV) the trust satisfies the requirements of subclause (II) applied by substituting "20 percent" for "10 percent" and the 3-year average adjusted bases percentage for the taxable year (as defined in subparagraph (G)) does not exceed 10 percent,or (V) the trust satisfies the requirements of subclause (III) applied by substituting "20 percent" for "10 percent" and the 3-year average fair market value percentage for the taxable year (as defined in subparagraph (H)) does not exceed 10 percent;
+&emsp;&emsp;&emsp;(iii)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or (III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year, or (IV) the trust satisfies the requirements of subclause (II) applied by substituting "20 percent" for "10 percent" and the 3-year average adjusted bases percentage for the taxable year (as defined in subparagraph (G)) does not exceed 10 percent, or (V) the trust satisfies the requirements of subclause (III) applied by substituting "20 percent" for "10 percent" and the 3-year average fair market value percentage for the taxable year (as defined in subparagraph (H)) does not exceed 10 percent;
 
 &emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 2 years for production of rental income; and
 
@@ -274,7 +274,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (vi) Exceptions granted by Secretary
 
-&emsp;&emsp;&emsp;The Secretary may waive the tax otherwise imposed by subparagraph (A) if the trust establishes to the satisfaction of the Secretary that rents charged to tenantswere established on an arms' length basis even though a taxable REIT subsidiary of the trust provided services to such tenants.
+&emsp;&emsp;&emsp;The Secretary may waive the tax otherwise imposed by subparagraph (A) if the trust establishes to the satisfaction of the Secretary that rents charged to tenants were established on an arms' length basis even though a taxable REIT subsidiary of the trust provided services to such tenants.
 
 #### (C) Redetermined deductions
 
@@ -362,7 +362,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(ii) the excess of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the sum of the real estate investment trust taxable income computed under section 857(b)(2) for the preceding taxable year and the income subject to tax by reason of the application of the regulations under section 337(d) for such preceding taxable year, over
+&emsp;&emsp;&emsp;&emsp;(I) the sum of the real estate investment trust taxable income computed under section 857(b)(2) for the precedingtaxable year and the income subject to tax by reason of the application of the regulations under section 337(d) for such preceding taxable year, over
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of the taxes imposed on the trust for such preceding taxable year under section 857(b)(1) and by reason of the application of such regulations, and
 
@@ -450,7 +450,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (A) In general
 
-&emsp;&emsp;If a real estate investment trust fails to comply with the requirements of paragraph (1) for a taxable year, such trust shall pay (on notice and demand by the Secretary and in the same manner as tax) a penalty of $25,000.
+&emsp;&emsp;If a real estate investment trust fails to comply with the requirements of paragraph\(1) for a taxable year, such trust shall pay (on notice and demand by the Secretary and in the same manner as tax) a penalty of $25,000.
 
 #### (B) Intentional disregard
 
@@ -478,13 +478,13 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.</b>
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746-1748, 1750-1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303-2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032-1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265-2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101.)
 
 #### References in Text
 
 The date of enactment of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(6)(I), is the date of enactment of div. C of Pub. L. 110–289, which was approved July 30, 2008.
 
-Section 856(c)(8), referred to in subsec. (b)(6)(J), was redesignated section 856(c)(10) of this title by Pub. L. 114–113, div. Q, §§311(b), 318(a), Dec. 18, 2015, 129 Stat. 3090, 3094.
+Section 856(c)(8), referred to in subsec. (b)(6)(J), was redesignated section 856(c)(10) of this title by Pub. L. 114–113, div. Q, §§311(b), 318(a), Dec. 18, 2015, 129 Stat. 3090, 3095.
 
 #### Codification
 
@@ -506,7 +506,7 @@ Subsec. (b)(6)(D)(iv)(IV), (V). Pub. L. 114–113, §313(a)(3), added subcls. (I
 
 Subsec. (b)(6)(D)(v). Pub. L. 114–113, §321(a)(2), struck out ", in the case of a sale on or before the termination date," before "a taxable REIT subsidiary".
 
-Subsec. (b)(6)(F). Pub. L. 114–113, §313(b)(2), amended subpar. (F) generally. Prior to amendment, text read as follows: "In determining whether or not any sale constitutes a 'prohibited transaction' for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted."
+Subsec. (b)(6)(F). Pub. L. 114–113, §313(b)(2), amended subpar. (F) generally. Prior to amendment, text read asfollows: "In determining whether or not any sale constitutes a 'prohibited transaction' for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted."
 
 Subsec. (b)(6)(G) to (J). Pub. L. 114–113, §313(a)(2), added subpars. (G) and (H) and redesignated former subpars. (G) and (H) as (I) and (J), respectively.
 
@@ -718,7 +718,7 @@ Subsec. (b)(3)(B). Pub. L. 94–455, §1402(b)(2), provided that "9 months" woul
 
 Pub. L. 94–455, §1402(b)(1)(P), provided that "6 months" would be changed to "9 months" for taxable years beginning in 1977.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §§1601(c), 1607(b)(3), 1901(a)(112), (b)(33)(K), inserted "; except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 859(c)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination" after "30 days after the close of its taxable year", substituted "net capital gain" for "excess of the net long-term capital gain over the net short-term capital loss" in provision covering the portion of distributions which shall be capital gain dividends, inserted provision that the net capital gainbe deemed not to exceed the real estate investment trust taxable income, and struck out provision which specified the source of deductions for dividends paid in the case of taxable years beginning before Jan. 1, 1975.
+Subsec. (b)(3)(C). Pub. L. 94–455, §§1601(c), 1607(b)(3), 1901(a)(112), (b)(33)(K), inserted "; except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 859(c)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination" after "30 days after the close of its taxable year", substituted "net capital gain" for "excess of the net long-term capital gain over the net short-term capital loss" in provision covering the portion of distributions which shall be capital gain dividends, inserted provision that the net capital gain be deemed not to exceed the real estate investment trust taxable income, and struck out provision which specified the source of deductions for dividends paid in the case of taxable years beginning before Jan. 1, 1975.
 
 Subsec. (b)(4)(B)(i). Pub. L. 94–455, §1604(c)(2), inserted reference to subparagraph (G) of section 856(c)(3).
 
@@ -812,7 +812,7 @@ Pub. L. 108–357, title IV, §418(c), Oct. 22, 2004, 118 Stat. 1513, as amended
 
 &emsp;"(1) any distribution by a real estate investment trust which is treated as a deduction for a taxable year of such trust beginning after the date of the enactment of this Act \[Oct. 22, 2004\], and
 
-&emsp;"(2) any distribution by a real estate investment trust made after such date which is treated as a deduction under section 860 \[probably means section 860 of the Internal Revenue Code of 1986\] for a taxable year of such trust beginning on or before such date."
+&emsp;"(2) any distribution by a real estate investment trust made after such date which is treated as a deduction under section 860 \[probably means section 860of the Internal Revenue Code of 1986\] for a taxable year of such trust beginning on or before such date."
 
 Amendment by Pub. L. 108–311 effective as if included in section 302 of the Jobs and Growth Tax Relief Reconciliation Act of 2003, Pub. L. 108–27, see section 402(b) of Pub. L. 108–311, set out a note under section 1 of this title.
 

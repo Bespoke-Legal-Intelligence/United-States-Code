@@ -2,7 +2,7 @@
 
 #### (a) OSHA
 
-(1) As of the privatization date, the private corporation shall be subject to and comply with the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
+(1) As of the privatization date, the private corporation shall be subject to and comply withthe Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
 
 (2) The Nuclear Regulatory Commission and the Occupational Safety and Health Administration shall, within 90 days after April 26, 1996, enter into a memorandum of agreement to govern the exercise of their authority over occupational safety and health hazards at the gaseous diffusion plants, including inspection, investigation, enforcement, and rulemaking relating to such hazards.
 
@@ -20,7 +20,7 @@ For purposes of the antitrust laws, the performance by the private corporation o
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(1), is Pub. L. 91–596, Dec. 29, 1970,84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(1), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Codification
 

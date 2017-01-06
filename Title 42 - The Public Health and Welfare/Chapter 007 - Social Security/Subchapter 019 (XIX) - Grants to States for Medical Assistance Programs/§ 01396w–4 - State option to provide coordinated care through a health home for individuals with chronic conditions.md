@@ -48,7 +48,7 @@ A State shall include in the State plan amendment a requirement for hospitals th
 
 #### (e) Coordination
 
-A State shall consult and coordinate, as appropriate, with the Substance Abuse and Mental Health Services Administration in addressing issues regarding the prevention and treatment of mental illness and substance abuse among eligible individuals with chronic conditions.
+A State shall consult and coordinate, as appropriate, with the Substance Abuse and MentalHealth Services Administration in addressing issues regarding the prevention and treatment of mental illness and substance abuse among eligible individuals with chronic conditions.
 
 #### (f) Monitoring
 

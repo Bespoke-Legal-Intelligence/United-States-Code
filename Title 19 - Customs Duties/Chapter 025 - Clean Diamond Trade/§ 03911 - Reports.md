@@ -4,7 +4,7 @@
 
 Not later than 1 year after April 25, 2003, and every 12 months thereafter for such period as this chapter is in effect, the President shall transmit to the Congress a report—
 
-&emsp;(1) describing actions taken by countries that have exported rough diamonds to the United States during the preceding 12-month period to control the exportation of the diamonds through the Kimberley Process Certification Scheme;
+&emsp;(1) describing actions taken by countries that have exported rough diamonds to theUnited States during the preceding 12-month period to control the exportation of the diamonds through the Kimberley Process Certification Scheme;
 
 &emsp;(2) describing whether there is statistical information or other evidence that would indicate efforts to circumvent the Kimberley Process Certification Scheme, including cutting rough diamonds for the purpose of circumventing the Kimberley Process Certification Scheme;
 

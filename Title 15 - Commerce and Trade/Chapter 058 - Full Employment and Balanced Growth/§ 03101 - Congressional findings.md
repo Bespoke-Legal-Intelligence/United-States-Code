@@ -10,7 +10,7 @@
 
 &emsp;(4) Business and industry are deprived of the production, sales, capital flow, and productivity necessary to maintain adequate profits, undertake new investment, create jobs, compete internationally, and contribute to meeting society's economic needs. These problems are especially acute for smaller businesses. Variations in the business cycle and low-level operations of the economy are far more damaging to smaller businesses than to larger business concerns because smaller businesses have fewer available resources, and less access to resources, to withstand nationwide economic adversity. A decline in small business enterprises contributes to unemployment by reducing employment opportunities and contributes to inflation by reducing competition.
 
-&emsp;(5) Unemployment exposes many families to social, psychological, and physiological costs, including disruption of family life, loss of individual dignity and self-respect, and the aggravation of physical and psychological illnesses, alcoholism and drug abuse, crime, and social conflicts.
+&emsp;(5) Unemployment exposes many families to social, psychological, and physiological costs,including disruption of family life, loss of individual dignity and self-respect, and the aggravation of physical and psychological illnesses, alcoholism and drug abuse, crime, and social conflicts.
 
 &emsp;(6) Federal, State, and local government budgets are undermined by deficits due to shortfalls in tax revenues and in increases in expenditures for unemployment compensation, public assistance, and other recession-related services in the areas of criminal justice, alcoholism and drug abuse, and physical and mental health.
 

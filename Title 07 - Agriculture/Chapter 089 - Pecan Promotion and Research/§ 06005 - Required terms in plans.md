@@ -28,7 +28,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 &emsp;&emsp;(E) one member representing the general public, nominated by the Board; and
 
-&emsp;&emsp;(F) at the option of the Board, a consultant or advisor representing the views ofpecan producers in a country other than the United States who may be chosen to attend Board functions as a nonvoting member.
+&emsp;&emsp;(F) at the option of the Board, a consultant or advisor representing the views of pecan producers in a country other than the United States who may be chosen to attend Board functions as a nonvoting member.
 
 #### (4) Representation of members
 
@@ -298,7 +298,7 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 #### (A) Exception
 
-&emsp;&emsp;Except as provided in this chapter, information obtained under this chapter may bemade available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
+&emsp;&emsp;Except as provided in this chapter, information obtained under this chapter may be made available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
 
 #### (B) Penalty
 

@@ -24,7 +24,7 @@ Funds appropriated to carry out this section for any fiscal year shall be apport
 
 &emsp;(2) The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
 
-(Pub. L. 95–113, title XIV, §1415, Sept. 29, 1977, 91 Stat. 993; Pub. L. 97–98, title XIV, §1417, Dec. 22,1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1410, Dec. 23, 1985, 99 Stat. 1547; Pub. L. 101–624, title XVI, §1607(a), (b), Nov. 28, 1990, 104 Stat. 3716; Pub. L. 113–79, title VII, §7128(b)(1)(A), Feb. 7, 2014, 128 Stat. 878.)
+(Pub. L. 95–113, title XIV, §1415, Sept. 29, 1977, 91 Stat. 993; Pub. L. 97–98, title XIV, §1417, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1410, Dec. 23, 1985, 99 Stat. 1547; Pub. L. 101–624, title XVI, §1607(a), (b), Nov. 28, 1990, 104 Stat. 3716; Pub. L. 113–79, title VII, §7128(b)(1)(A), Feb. 7, 2014, 128 Stat. 878.)
 
 #### Amendments
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date
 
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

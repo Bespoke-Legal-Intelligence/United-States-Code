@@ -26,7 +26,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (6) Critical infrastructure
 
-&emsp;The term "critical infrastructure" means, subject to rules issued under this section, systems and assets, whether physical or virtual,so vital to the United States that the incapacity or destruction of such systems or assets would have a debilitating impact on national security.
+&emsp;The term "critical infrastructure" means, subject to rules issued under this section, systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems or assets would have a debilitating impact on national security.
 
 #### (7) Critical technologies
 
@@ -106,7 +106,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) the transaction is a foreign government-controlled transaction; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the transaction would result in control of any critical infrastructure ofor within the United States by or on behalf of any foreign person, if the Committee determines that the transaction could impair national security, and that such impairment to national security has not been mitigated by assurances provided or renewed with the approval of the Committee, as described in subsection (l), during the review period under paragraph (1); or
+&emsp;&emsp;&emsp;&emsp;(III) the transaction would result in control of any critical infrastructure of or within the United States by or on behalf of any foreign person, if the Committee determines that the transaction could impair national security, and that such impairment to national security has not been mitigated by assurances provided or renewed with the approval of the Committee, as described in subsection (l), during the review period under paragraph (1); or
 
 &emsp;&emsp;&emsp;(ii) the lead agency recommends, and the Committee concurs, that an investigation be undertaken.
 
@@ -404,7 +404,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (A) In general
 
-&emsp;&emsp;The Committee or a lead agency may, on behalf of the Committee, negotiate, enter into or impose, and enforce any agreement or condition with any party to the covered transaction in order to mitigate any threat to the national security of the United Statesthat arises as a result of the covered transaction.
+&emsp;&emsp;The Committee or a lead agency may, on behalf of the Committee, negotiate, enter into or impose, and enforce any agreement or condition with any party to the covered transaction in order to mitigate any threat to the national security of the United States that arises as a result of the covered transaction.
 
 #### (B) Risk-based analysis required
 
@@ -468,7 +468,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;(D) Information on whether companies that withdrew notices to the Committee in accordance with subsection (b)(1)(C)(ii) have later refiled such notices, or, alternatively, abandoned the transaction.
 
-&emsp;&emsp;(E) The types of security arrangements and conditions the Committee has used to mitigate national security concerns about a transaction, including a discussion of themethods that the Committee and any lead agency are using to determine compliance with such arrangements or conditions.
+&emsp;&emsp;(E) The types of security arrangements and conditions the Committee has used to mitigate national security concerns about a transaction, including a discussion of the methods that the Committee and any lead agency are using to determine compliance with such arrangements or conditions.
 
 &emsp;&emsp;(F) A detailed discussion of all perceived adverse effects of covered transactions on the national security or critical infrastructure of the United States that the Committee will take into account in its deliberations during the period before delivery of the next report, to the extent possible.
 
@@ -600,7 +600,7 @@ Report.—Before the end of the 30-day period beginning upon the date of complet
 
 Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779; Ex. Ord. No. 12860, Sept. 3, 1993, 58 F.R. 47201; Ex. Ord. No. 13286, §57, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13456, §1, Jan. 23, 2008, 73 F.R. 4677, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 721 of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2170) \[now 50 U.S.C. 4565\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 721 of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2170) \[now 50 U.S.C. 4565\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. International investment in the United States promotes economic growth, productivity, competitiveness, and job creation. It is the policy of the United States to support unequivocally such investment, consistent with the protection of the national security.
 
@@ -674,7 +674,7 @@ Sec. 7. <i>Risk Mitigation</i>. (a) The Committee, or any lead agency acting on 
 
 (c) A risk mitigation measure shall not, except in extraordinary circumstances, require that a party to a transaction recognize, state its intent to comply with, or consent to the exercise of any authorities under existing provisions of law.
 
-(d) The lead agency designated for the purpose of monitoring a risk mitigation measure shall seek to ensure that adequate resources are available for such monitoring. When designating a lead agency for thosepurposes, the Secretary of the Treasury shall consider the agency's views on the adequacy of its resources for such purposes.
+(d) The lead agency designated for the purpose of monitoring a risk mitigation measure shall seek to ensure that adequate resources are available for such monitoring. When designating a lead agency for those purposes, the Secretary of the Treasury shall consider the agency's views on the adequacy of its resources for such purposes.
 
 (e)(i) Nothing in this order shall be construed to limit the ability of a department or agency, in the exercise of authorities other than those provided under the Act, to:
 

@@ -6,13 +6,13 @@ The Director of the Institute, in consultation with the National Cancer Advisory
 
 #### (b) Coordination with other institutes
 
-The Director of the Institute shall coordinate the activities of the Director under subsection (a) of this section with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes <sup>1</sup> and agencies have responsibilities that are related to breast cancer and other cancers of the reproductive system of women.
+The Director of the Institute shall coordinate the activities of the Director under subsection (a) with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes <sup>1</sup> and agencies have responsibilities that are related to breast cancer and other cancers of the reproductive system of women.
 
 #### (c) Programs for breast cancer
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the cause of, and to find a cure for, breast cancer. Activities under such subsection shall provide for an expansion and intensification of the conduct and support of—
+&emsp;In carrying out subsection (a), the Director of the Institute shall conduct or support research to expand the understanding of the cause of, and to find a cure for, breast cancer. Activities under such subsection shall provide for an expansion and intensification of the conduct and support of—
 
 &emsp;&emsp;(A) basic research concerning the etiology and causes of breast cancer;
 
@@ -38,7 +38,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 #### (d) Other cancers
 
-In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research on ovarian cancer and other cancers of the reproductive system of women. Activities under such subsection shall provide for the conduct and support of—
+In carrying out subsection (a), the Director of the Institute shall conduct or support research on ovarian cancer and other cancers of the reproductive system of women. Activities under such subsection shall provide for the conduct and support of—
 
 &emsp;(1) basic research concerning the etiology and causes of ovarian cancer and other cancers of the reproductive system of women;
 
@@ -52,9 +52,9 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 #### (e) Report
 
-The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Institute under the research programs referred to in subsection (a) of this section, that shall include—
+The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Institute under the research programs referred to in subsection (a), that shall include—
 
-&emsp;(1) a description of the research plan with respect to breast cancer prepared under subsection (c) of this section;
+&emsp;(1) a description of the research plan with respect to breast cancer prepared under subsection (c);
 
 &emsp;(2) an assessment of the development, revision, and implementation of such plan;
 
@@ -74,7 +74,7 @@ Section 284b of this title, referred to in subsec. (e), was repealed by Pub. L. 
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

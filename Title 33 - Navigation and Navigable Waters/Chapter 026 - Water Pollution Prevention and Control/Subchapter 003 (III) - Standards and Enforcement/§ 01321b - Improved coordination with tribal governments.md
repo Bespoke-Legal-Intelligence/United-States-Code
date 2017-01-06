@@ -24,7 +24,7 @@ The Coast Guard may enter into memoranda of agreement and associated protocols w
 
 &emsp;(3) provisions on coordination in the event of a spill, including agreements that representatives of the tribal government will be included as part of the regional response team co-chaired by the Coast Guard and the Environmental Protection Agency to establish policies for responding to oil spills;
 
-&emsp;(4) arrangements for the Coast Guard to provide training of tribal incident commanders and spill responders for oil spill preparedness and response;
+&emsp;(4) arrangements for the Coast Guard to provide training of tribal incident commandersand spill responders for oil spill preparedness and response;
 
 &emsp;(5) demonstration projects to assist tribal governments in building the capacity to protect tribal treaty rights and trust assets from oil spills; and
 

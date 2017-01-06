@@ -8,7 +8,7 @@ Before a plan issued by the Secretary under this chapter may be amended, the Sec
 
 #### (1) In general
 
-&emsp;The amendments described in paragraph (2) that are required to be made by the Secretary to a plan as a result of the amendments made by the Watermelon Research and Promotion Improvement Act of 1993 shall be subject to separate line item voting and approval in a referendum conducted pursuant to section 4912 of this title before the Secretary alters the plan as in effect on the day before December 14, 1993.
+&emsp;The amendments described in paragraph (2) that are required to be made by the Secretary to a plan as a result of the amendments made by the Watermelon Research and Promotion Improvement Act of 1993 shall be subject to separate line item voting and approval in a referendum conducted pursuant to section 4912of this title before the Secretary alters the plan as in effect on the day before December 14, 1993.
 
 #### (2) Amendments
 

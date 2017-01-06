@@ -10,7 +10,7 @@ Each State receiving funds under this part shall submit an annual report to the 
 
 #### (b) Capital representation improvement grants
 
-With respect to the funds provided under section 14163 of this title, a report under subsection (a) of this section shall include—
+With respect to the funds provided under section 14163 of this title, a report under subsection (a) shall include—
 
 &emsp;(1) an accounting of all amounts expended;
 
@@ -36,7 +36,7 @@ With respect to the funds provided under section 14163 of this title, a report u
 
 &emsp;&emsp;&emsp;&emsp;(II) if the State employs appointed attorneys under section 14163(e)(1)(B) of this title, the hourly fees received by such attorneys for actual time and service and the basis on which the hourly rate was calculated;
 
-&emsp;&emsp;&emsp;&emsp;(III) the amounts paid to non-attorney members of the defense team, and thebasis on which such amounts were determined; and
+&emsp;&emsp;&emsp;&emsp;(III) the amounts paid to non-attorney members of the defense team, and the basis on which such amounts were determined; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) the amounts for which attorney and non-attorney members of the defense team were reimbursed for reasonable incidental expenses;
 
@@ -46,7 +46,7 @@ With respect to the funds provided under section 14163 of this title, a report u
 
 #### (c) Capital prosecution improvement grants
 
-With respect to the funds provided under section 14163a of this title, a report under subsection (a) of this section shall include—
+With respect to the funds provided under section 14163a of this title, a report under subsection (a) shall include—
 
 &emsp;(1) an accounting of all amounts expended;
 

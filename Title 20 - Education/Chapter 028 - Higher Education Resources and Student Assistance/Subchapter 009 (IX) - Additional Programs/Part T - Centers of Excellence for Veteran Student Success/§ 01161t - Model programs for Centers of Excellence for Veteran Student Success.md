@@ -8,7 +8,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations under subsection (f), the Secretary shall award grants to institutions of higher education to develop model programs to support veteran student success in postsecondary education.
+&emsp;Subject to the availability of appropriations under subsection (f), the Secretary shall awardgrants to institutions of higher education to develop model programs to support veteran student success in postsecondary education.
 
 #### (2) Grant period
 
@@ -54,7 +54,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 &emsp;&emsp;(G) Coordination of academic advising and admissions counseling with military bases and national guard units in the area.
 
-&emsp;&emsp;(H) Other support services the institution determines to be necessary to ensure thesuccess of veterans in achieving educational and career goals.
+&emsp;&emsp;(H) Other support services the institution determines to be necessary to ensure the success of veterans in achieving educational and career goals.
 
 #### (d) Application; selection
 

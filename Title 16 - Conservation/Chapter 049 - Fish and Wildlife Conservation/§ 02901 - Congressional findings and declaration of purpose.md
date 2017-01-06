@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;(4) Historically, fish and wildlife conservation programs have been focused on the more recreationally and commercially important species within any particular ecosystem. As a consequence such programs have been largely financed by hunting and fishing license revenues or excise taxes on certain hunting and fishing equipment. These traditional financing mechanisms are neither adequate nor fully appropriate to meet the conservation needs of nongame fish and wildlife.
 
-&emsp;(5) Each State should be encouraged to develop, revise, and implement, in consultationwith appropriate Federal, State, and local and regional agencies, a plan for the conservation of fish and wildlife, particularly those species which are indigenous to the State.
+&emsp;(5) Each State should be encouraged to develop, revise, and implement, in consultation with appropriate Federal, State, and local and regional agencies, a plan for the conservation of fish and wildlife, particularly those species which are indigenous to the State.
 
 #### (b) Purpose
 

@@ -6,7 +6,7 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 &emsp;(2) respond appropriately to the private capital market;
 
-&emsp;(3) provide ongoing assistance to the secondary market for residential mortgages (including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on otheractivities) by increasing the liquidity of mortgage investments and improving the distribution of investment capital available for residential mortgage financing;
+&emsp;(3) provide ongoing assistance to the secondary market for residential mortgages (including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities) by increasing the liquidity of mortgage investments and improving the distribution of investment capital available for residential mortgage financing;
 
 &emsp;(4) promote access to mortgage credit throughout the Nation (including central cities, rural areas, and underserved areas) by increasing the liquidity of mortgage investments and improving the distribution of investment capital available for residential mortgage financing; and
 

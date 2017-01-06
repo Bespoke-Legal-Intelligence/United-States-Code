@@ -1,0 +1,6 @@
+### §480. Transferred
+
+#### Codification
+
+Section 480 was editorially reclassified as section 5132 of this title.
+

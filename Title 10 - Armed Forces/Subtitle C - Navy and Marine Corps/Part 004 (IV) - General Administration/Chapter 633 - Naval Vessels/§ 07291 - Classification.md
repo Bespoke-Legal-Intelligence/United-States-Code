@@ -150,7 +150,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) Given the recent increase in the cost of crude oil, which cannot realistically be expected to improve over the long term, other energy sources must be seriously considered.
 
-&emsp;"(4) Alternate propulsion sources such as nuclear power offer many advantages over conventional power for major surface combatant ships of the Navy, including—
+&emsp;"(4) Alternate propulsion sources such as nuclear power offer many advantages over conventionalpower for major surface combatant ships of the Navy, including—
 
 &emsp;&emsp;"(A) virtually unlimited high-speed endurance;
 
@@ -410,7 +410,7 @@ Definition.—For the purposes of this section, the term 'sensitive warship tech
 
 Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that: "It is the sense of the Congress that—
 
-&emsp;"(1) A larger and stronger American Navy is needed as an essential ingredient of our Armed Forces, in order to fulfill its basic missions of (A) protecting the sea lanes to preserve the safety of the free world's commerce, (B) assuring continued access to raw materials essential to the well-being of the free world, (C) enhancing our capacity to project effective American forces into regions of the world where the vital interests of the United States must be protected, (D) engaging the Navy of the Soviet Union or any other potential adversary successfully, (E) continuing toserve as a viable leg of our strategic triad, and (F) providing visible evidence of American diplomatic, economic and military commitments throughout the world.
+&emsp;"(1) A larger and stronger American Navy is needed as an essential ingredient of our Armed Forces, in order to fulfill its basic missions of (A) protecting the sea lanes to preserve the safety of the free world's commerce, (B) assuring continued access to raw materials essential to the well-being of the free world, (C) enhancing our capacity to project effective American forces into regions of the world where the vital interests of the United States must be protected, (D) engaging the Navy of the Soviet Union or any other potential adversary successfully, (E) continuing to serve as a viable leg of our strategic triad, and (F) providing visible evidence of American diplomatic, economic and military commitments throughout the world.
 
 &emsp;"(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 
@@ -418,7 +418,7 @@ Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that:
 
 #### Construction of Advanced, Versatile, Survivable, and Cost-Effective Combatant Ships; Plans and Programs; Presidential Conclusions and Recommendations To Accompany Ship Authorization Requests
 
-Pub. L. 95–485, title VIII, §810(a), (b), Oct. 20, 1978, 92 Stat. 1623, which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship's possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as section 7310 of this title by Pub. L. 97–295, §§1(49)(A), 6(b), Oct. 12, 1982, 96 Stat. 1298, 1315.
+Pub. L. 95–485, title VIII, §810(a), (b), Oct. 20, 1978, 92 Stat. 1623, which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship's possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as section 7310 ofthis title by Pub. L. 97–295, §§1(49)(A), 6(b), Oct. 12, 1982, 96 Stat. 1298, 1315.
 
 #### Conversion, Overhaul, or Repair Work Under Service Life Extension Program or DDG–2
 

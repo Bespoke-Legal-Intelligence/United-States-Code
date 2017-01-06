@@ -1,6 +1,6 @@
 ### §8319. Surveillance of zoonotic diseases
 
-The Secretary of Health and Human Services, through the Commissioner of Food and Drugsand the Director of the Centers for Disease Control and Prevention, and the Secretary of Agriculture shall coordinate the surveillance of zoonotic diseases.
+The Secretary of Health and Human Services, through the Commissioner of Food and Drugs and the Director of the Centers for Disease Control and Prevention, and the Secretary of Agriculture shall coordinate the surveillance of zoonotic diseases.
 
 (Pub. L. 107–188, title III, §313, June 12, 2002, 116 Stat. 674.)
 

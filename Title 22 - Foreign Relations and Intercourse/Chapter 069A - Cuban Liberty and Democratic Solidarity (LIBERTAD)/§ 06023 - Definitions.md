@@ -84,7 +84,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(A) As used in subchapter III, and except as provided in subparagraph (B), a person "traffics" in confiscated property if that person knowingly and intentionally—
 
-&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases,receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
+&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 
 &emsp;&emsp;(ii) engages in a commercial activity using or otherwise benefiting from confiscated property, or
 
@@ -96,7 +96,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(i) the delivery of international telecommunication signals to Cuba;
 
-&emsp;&emsp;(ii) the trading or holding of securities publicly traded or held, unless the trading is with or by a person determined by the Secretary of the Treasury to be a specially designated national;
+&emsp;&emsp;(ii) the trading or holding of securities publicly traded or held, unless the trading iswith or by a person determined by the Secretary of the Treasury to be a specially designated national;
 
 &emsp;&emsp;(iii) transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of property are necessary to the conduct of such travel; or
 

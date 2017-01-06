@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) recent developments in Russia and the other independent states of the former Soviet Union present an historic opportunity for a transition to a peaceful and stable international order and the integration of the independent states of the former Soviet Union into the community of democratic nations;
+&emsp;(1) recent developments in Russia and the other independent states of the former SovietUnion present an historic opportunity for a transition to a peaceful and stable international order and the integration of the independent states of the former Soviet Union into the community of democratic nations;
 
 &emsp;(2) the entire international community has a vital interest in the success of this transition, and the dimension of the problems now faced in the independent states of the former Soviet Union makes it imperative for donor countries and institutions to provide the expertise and support necessary to ensure continued progress on economic and political reforms;
 
@@ -56,7 +56,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(7) Sergei Leonidovich Magnitsky died on November 16, 2009, at the age of 37, in Matrosskaya Tishina Prison in Moscow, Russia, and is survived by a mother, a wife, and 2 sons.
 
-&emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for one hour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminal charges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
+&emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for one hour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminalcharges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
 
 &emsp;"(9) The systematic abuse of Sergei Magnitsky, including his repressive arrest and torture in custody by officers of the Ministry of the Interior of the Russian Federation that Mr. Magnitsky had implicated in the embezzlement of funds from the Russian Treasury and the misappropriation of 3 companies from his client, Hermitage Capital Management, reflects how deeply the protection of human rights is affected by corruption.
 
@@ -112,7 +112,7 @@ United states person.—The term 'United States person' means—
 
 "(a)
 
-In General.—Not later than 120 days after the date of the enactment of this Act \[Dec. 14, 2012\], thePresident shall submit to the appropriate congressional committees a list of each person who the President determines, based on credible information—
+In General.—Not later than 120 days after the date of the enactment of this Act \[Dec. 14, 2012\], the President shall submit to the appropriate congressional committees a list of each person who the President determines, based on credible information—
 
 &emsp;"(1) is responsible for the detention, abuse, or death of Sergei Magnitsky, participated in efforts to conceal the legal liability for the detention, abuse, or death of Sergei Magnitsky, financially benefitted from the detention, abuse, or death of Sergei Magnitsky, or was involved in the criminal conspiracy uncovered by Sergei Magnitsky;
 
@@ -226,7 +226,7 @@ Freezing of Assets.—
 
 &emsp;"(1)
 
-In general.—The President shall exercise all powers granted by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C.1701) shall not apply) to the extent necessary to freeze and prohibit all transactions in all property and interests in property of a person who is on the list required by section 404(a) of this Act if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+In general.—The President shall exercise all powers granted by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C. 1701) shall not apply) to the extent necessary to freeze and prohibit all transactions in all property and interests in property of a person who is on the list required by section 404(a) of this Act if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 &emsp;"(2)
 
@@ -234,7 +234,7 @@ Exception.—Paragraph (1) shall not apply to persons included on the classified
 
 "(b)
 
-Waiver for National Security Interests.—The Secretary of the Treasury may waive the application of subsection (a) if the Secretary determines that such a waiver is in the national security interests of the United States. Not less than 15 days prior to granting such a waiver, the Secretary shall provide to the appropriate congressional committees notice of, and a justification for, the waiver.
+Waiver for National Security Interests.—The Secretary of the Treasury may waive the application ofsubsection (a) if the Secretary determines that such a waiver is in the national security interests of the United States. Not less than 15 days prior to granting such a waiver, the Secretary shall provide to the appropriate congressional committees notice of, and a justification for, the waiver.
 
 "(c)
 
@@ -472,7 +472,7 @@ Blocking of assets.—It is the sense of Congress that the President should bloc
 
 Prohibited activities.—Activities prohibited by reason of the blocking of property and interests in property under paragraph (1) should include—
 
-&emsp;&emsp;"(A) payments or transfers of any property, or any transactions involving the transfer of anythingof economic value by any United States person, to the Government of Belarus, to any person or entity acting for or on behalf of, or owned or controlled, directly or indirectly, by that government, or to any member of the senior leadership of the Government of Belarus;
+&emsp;&emsp;"(A) payments or transfers of any property, or any transactions involving the transfer of anything of economic value by any United States person, to the Government of Belarus, to any person or entity acting for or on behalf of, or owned or controlled, directly or indirectly, by that government, or to any member of the senior leadership of the Government of Belarus;
 
 &emsp;&emsp;"(B) the export or reexport to any entity owned, controlled, or operated by the Government of Belarus, directly or indirectly, of any goods, technology, or services, either—
 
@@ -574,7 +574,7 @@ Senior leadership of the government of belarus.—The term 'senior leadership of
 
 #### Presidential Report on Funding for New Independent States of Former Soviet Union
 
-Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1617, provided in part that: "(o) The report required by subsection (d) under the heading 'Assistance for the New Independent States of the Former Soviet Union', contained in Public Law 102–391 \[set out below\], shall be updated at least annually and shall also contain a listing of all grants and contracts issued from funds appropriated annually for the new independent states of theformer Soviet Union, to include for each grant and contract (1) a description of its purpose, (2) its amount, and (3) the country where the grant or contract funds are to be expended."
+Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1617, provided in part that: "(o) The report required by subsection (d) under the heading 'Assistance for the New Independent States of the Former Soviet Union', contained in Public Law 102–391 \[set out below\], shall be updated at least annually and shall also contain a listing of all grants and contracts issued from funds appropriated annually for the new independent states of the former Soviet Union, to include for each grant and contract (1) a description of its purpose, (2) its amount, and (3) the country where the grant or contract funds are to be expended."
 
 Pub. L. 102–391, title III, Oct. 6, 1992, 106 Stat. 1650, provided in part that: "(d)
 

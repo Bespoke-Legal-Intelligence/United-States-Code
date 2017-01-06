@@ -46,13 +46,33 @@
 
 (c) A headstone or marker furnished under subsection (a), (b), or (d) of this section may be of any material, including but not limited to marble, granite, bronze, or slate, requested by the person entitled to request such headstone or marker if the material requested is determined by the Secretary (1) to be cost effective, and (2) in a case in which the headstone or marker is to be placed in a national cemetery, to be aesthetically compatible with the area of the cemetery in which it is to be placed.
 
-(d)(1) The Secretary shall furnish, when requested, an appropriate Government headstoneor marker at the expense of the United States for the grave of an individual described in paragraph (2) or (5) of subsection (a) who is buried in a private cemetery, notwithstanding that the grave is marked by a headstone or marker furnished at private expense. Such a headstone or marker may be furnished only if the individual making the request for the Government headstone or marker certifies to the Secretary that the headstone or marker will be placed on the grave for which the headstone or marker is requested, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located.
+(d)(1) The Secretary shall furnish, when requested, an appropriate Government headstone or marker at the expense of the United States for the grave of an individual described in paragraph (2) or (5) of subsection (a) who is buried in a private cemetery, notwithstanding that the grave is marked by a headstone or marker furnished at private expense. Such a headstone or marker may be furnished only if the individual making the request for the Government headstone or marker certifies to the Secretary that the headstone or marker will be placed on the grave for which the headstone or marker is requested, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located.
 
 (2) Any headstone or marker furnished under this subsection shall be delivered by the Secretary directly to the cemetery where the grave is located or to a receiving agent for delivery to the cemetery.
 
 (3) The headstone or marker furnished under this subsection shall be the headstone or marker selected by the individual making the request from among all the headstones and markers made available by the Government for selection.
 
-(4) In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased's status as a veteran, to be attached to a headstone or marker furnished at private expense.
+(4)(A) In lieu of furnishing a headstone or marker under this subsection to a deceased individual described in subparagraph (B), the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased individual's status as a veteran, to be attached to a headstone or marker furnished at private expense.
+
+(B) A deceased individual described in this subsection is an individual who—
+
+&emsp;(i) served in the Armed Forces on or after April 6, 1917; and
+
+&emsp;(ii) is eligible for a headstone or marker furnished under paragraph (1) (or would be so eligible but for the date of the death of the individual).
+
+(5)(A) In carrying out this subsection with respect to a deceased individual described in subparagraph (C), the Secretary shall furnish, upon request, a headstone or marker under paragraph (1) or a medallion under paragraph (4) that signifies the deceased's status as a medal of honor recipient.
+
+(B) If the Secretary furnished a headstone, marker, or medallion under paragraph (1) or (4) for a deceased individual described in subparagraph (C) that does not signify the deceased's status as a medal of honor recipient, the Secretary shall, upon request, replace such headstone, marker, or medallion with a headstone, marker, or medallion, as the case may be, that so signifies the deceased's status as a medal of honor recipient.
+
+(C) A deceased individual described in this subparagraph is a deceased individual who—
+
+&emsp;(i) served in the Armed Forces on or after April 6, 1917;
+
+&emsp;(ii) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+
+&emsp;(iii) was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14 (including posthumously).
+
+(D) In this paragraph, the term "medal of honor recipient" means an individual who is awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14.
 
 (e)(1) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
 
@@ -70,11 +90,11 @@
 
 (4) Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
 
-(f) The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial in a national cemetery of a deceased veteran in any case in which the Secretary—
+(f) The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title in any case in which the Secretary—
 
 &emsp;(1) is unable to identify the veteran's next of kin, if any; and
 
-&emsp;(2) determines that sufficient resources for the furnishing of a casket or urn for the burial of the veteran in a national cemetery are not otherwise available.
+&emsp;(2) determines that sufficient resources for the furnishing of a casket or urn for such burial are not otherwise available.
 
 (g)(1) When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
@@ -88,9 +108,17 @@
 
 (4) A casket or urn may not be furnished under subsection (f) for burial of a person described in section 2411(b) of this title.
 
-(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, §2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§401(a), (b), 402,title X, §1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 110–389, title VIII, §810(a), Oct. 10, 2008, 122 Stat. 4190; Pub. L. 111–275, title V, §502(d)(3), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 112–260, title I, §101(a), Jan. 10, 2013, 126 Stat. 2418.)
+(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, §2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§401(a), (b), 402, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 110–389, title VIII, §810(a), Oct. 10, 2008, 122 Stat. 4190; Pub. L. 111–275, title V, §502(d)(3), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 112–260, title I, §101(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 114–273, §2, Dec. 14, 2016, 130 Stat. 1400; Pub. L. 114–315, title III, §301, Dec. 16, 2016, 130 Stat. 1550.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d)(4). Pub. L. 114–315, §301(1), added par. (4) and struck out former par. (4) which read as follows: "In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased's status as a veteran, to be attached to a headstone or marker furnished at private expense."
+
+Subsec. (d)(5). Pub. L. 114–315, §301(2), added par. (5).
+
+Subsec. (f). Pub. L. 114–273, §2(1) substituted "for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title" for "for burial in a national cemetery of a deceased veteran" in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 114–273, §2(2), substituted "such burial" for "the burial of the veteran in a national cemetery".
 
 <b>2013</b>—Subsecs. (f) to (h). Pub. L. 112–260, §101(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -182,7 +210,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "2403" for "1003" in concl
 
 <b>1989</b>—Subsecs. (a) to (c). Pub. L. 101–237, §313(b)(1), substituted "Secretary" for "Administrator".
 
-Subsec. (d). Pub. L. 101–237, §501, substituted "cost of acquiring" for "actual costs incurred by or on behalf of such person in acquiring" in first sentence, inserted after first sentence "The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceasedindividual, as the case may be.", and substituted "this subsection" for "the preceding sentence" in last sentence.
+Subsec. (d). Pub. L. 101–237, §501, substituted "cost of acquiring" for "actual costs incurred by or on behalf of such person in acquiring" in first sentence, inserted after first sentence "The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.", and substituted "this subsection" for "the preceding sentence" in last sentence.
 
 Pub. L. 101–237, §313(b)(1), substituted "Secretary" and "Secretary's" for "Administrator" and "Administrator's", respectively, wherever appearing.
 
@@ -266,5 +294,5 @@ Pub. L. 93–43, §10(c), June 18, 1973, 87 Stat. 88, provided that: "Clause (2)
 
 #### Continuation of Authority
 
-Pub. L. 110–92, §162, as added by Pub. L. 110–149, §2, Dec. 21, 2007, 121 Stat. 1819, provided that: "Notwithstanding section 106 \[121 Stat. 990\], the authority provided by section 2306(d)(3) of title 38, United StatesCode, shall continue in effect through September 30, 2008."
+Pub. L. 110–92, §162, as added by Pub. L. 110–149, §2, Dec. 21, 2007, 121 Stat. 1819, provided that: "Notwithstanding section 106 \[121 Stat. 990\], the authority provided by section 2306(d)(3) of title 38, United States Code, shall continue in effect through September 30, 2008."
 

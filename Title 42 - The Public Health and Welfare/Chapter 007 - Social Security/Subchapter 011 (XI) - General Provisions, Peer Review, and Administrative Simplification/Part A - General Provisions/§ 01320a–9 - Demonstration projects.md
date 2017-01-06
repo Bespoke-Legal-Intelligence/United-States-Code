@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may authorize States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.
+&emsp;The Secretary may authorize States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV.
 
 #### (2) Limitation
 
@@ -42,7 +42,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State shall demonstrate that the State has implemented, or plans to implement within 3 years of the date on which the State submits its application to conduct the demonstration project or 2 years after the date on which the Secretary approves such demonstration project (whichever is later), at least 2 of the child welfare program improvement policies described in paragraph (7).
+&emsp;&emsp;&emsp;The State shall demonstrate that the State has implemented, or plans to implement within 3 years of the date on which the State submits its application to conduct the demonstration project or 2 years after the date on which the Secretary approves such demonstration project (whichever is later), at least 2 of the child welfareprogram improvement policies described in paragraph (7).
 
 #### (ii) Previous implementation
 
@@ -58,7 +58,7 @@
 
 #### (5) Requirement to consider effect of project on terms and conditions of certain court orders
 
-&emsp;In considering an application to conduct a demonstration project under this section that has been submitted by a State in which there is in effect a court order determining that the State's child welfare program has failed to comply with the provisions of part B or E of subchapter IV of this chapter, or with the Constitution of the United States, the Secretary shall take into consideration the effect of approving the proposed project on the terms and conditions of the court order related to the failure to comply and the ability of the State to implement a corrective action plan approved under section 1320a–2a of this title.
+&emsp;In considering an application to conduct a demonstration project under this section that has been submitted by a State in which there is in effect a court order determining that the State's child welfare program has failed to comply with the provisions of part B or E of subchapter IV, or with the Constitution of the United States, the Secretary shall take into consideration the effect of approving the proposed project on the terms and conditions of the court order related to the failure to comply and the ability of the State to implement a corrective action plan approved under section 1320a–2a of this title.
 
 #### (6) Inapplicability of random assignment for control groups as a factor for approval of demonstration projects
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(I) The inclusion in the State plan under section 671 of this title of a description of State procedures for—
 
-&emsp;&emsp;&emsp;(i) ensuring that youth in foster care who have attained age 16 are engaged in discussions, including during the development of the transition plans required under paragraphs (1)(D) and (5)(H) of section 675 of this title, that explore whether the youth wishes to reconnect with the youth's biological family, including parents, grandparents, and siblings, and, if so, what skills and strategies the youth will need to successfully and safely reconnect with those family members;
+&emsp;&emsp;&emsp;(i) ensuring that youth in foster care who have attained age 16 are engaged in discussions, including during the development of the transition plans requiredunder paragraphs (1)(D) and (5)(H) of section 675 of this title, that explore whether the youth wishes to reconnect with the youth's biological family, including parents, grandparents, and siblings, and, if so, what skills and strategies the youth will need to successfully and safely reconnect with those family members;
 
 &emsp;&emsp;&emsp;(ii) providing appropriate guidance and services to youth whom <sup>1</sup> affirm an intent to reconnect with biological family members on how to successfully and safely manage such reconnections; and
 
@@ -116,7 +116,7 @@
 
 #### (b) Waiver authority
 
-The Secretary may waive compliance with any requirement of part B or E of subchapter IV of this chapter which (if applied) would prevent a State from carrying out a demonstration project under this section or prevent the State from effectively achieving the purpose of such a project, except that the Secretary may not waive—
+The Secretary may waive compliance with any requirement of part B or E of subchapter IV which (if applied) would prevent a State from carrying out a demonstration project under this section or prevent the State from effectively achieving the purpose of such a project, except that the Secretary may not waive—
 
 &emsp;(1) any provision of section 622(b)(8) of this title, or section 679 of this title; or
 
@@ -124,7 +124,7 @@ The Secretary may waive compliance with any requirement of part B or E of subcha
 
 #### (c) Treatment as program expenditures
 
-For purposes of parts B and E of subchapter IV of this chapter, the Secretary shall consider the expenditures of any State to conduct a demonstration project under this section to be expenditures under subpart 1 or 2 of such part B, or under such part E, as the State may elect.
+For purposes of parts B and E of subchapter IV, the Secretary shall consider the expenditures of any State to conduct a demonstration project under this section to be expenditures under subpart 1 or 2 of such part B, or under such part E, as the State may elect.
 
 #### (d) Duration of demonstration
 
@@ -174,7 +174,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 &emsp;&emsp;(A) submit periodic reports to the Secretary on the specific programs, activities, and strategies used to improve outcomes for infants, children, youth, and families and the results achieved for infants, children, and youth during the conduct of the demonstration project, including with respect to those infants, children, and youth who are prevented from entering foster care, infants, children, and youth in foster care, and infants, children, and youth who move from foster care to permanent families; and
 
-&emsp;&emsp;(B) post a copy of each such report on the website for the State child welfare programconcurrent with the submission of the report to the Secretary.
+&emsp;&emsp;(B) post a copy of each such report on the website for the State child welfare program concurrent with the submission of the report to the Secretary.
 
 #### (2) Reports to Congress
 
@@ -186,7 +186,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 #### (h) Cost neutrality
 
-The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project over its approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV of this chapter if the project were not conducted.
+The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project over its approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV if the project were not conducted.
 
 #### (i) Indian tribes operating IV–E programs considered States
 

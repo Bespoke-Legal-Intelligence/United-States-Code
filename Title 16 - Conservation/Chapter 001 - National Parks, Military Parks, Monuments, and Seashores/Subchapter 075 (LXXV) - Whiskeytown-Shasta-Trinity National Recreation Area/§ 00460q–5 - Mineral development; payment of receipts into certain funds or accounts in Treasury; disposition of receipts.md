@@ -8,5 +8,5 @@ All receipts derived from permits and leases issued under the authority of this 
 
 #### References in Text
 
-The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in text, is act Aug. 7, 1947, ch. 513, 61Stat. 913, which is classified generally to chapter 7 (§351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 30 and Tables.
+The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in text, is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 30 and Tables.
 

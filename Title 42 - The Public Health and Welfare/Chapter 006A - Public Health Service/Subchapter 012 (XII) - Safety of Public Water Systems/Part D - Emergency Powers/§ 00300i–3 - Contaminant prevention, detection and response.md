@@ -4,7 +4,7 @@
 
 The Administrator, in consultation with the Centers for Disease Control and, after consultation with appropriate departments and agencies of the Federal Government and with State and local governments, shall review (or enter into contracts or cooperative agreements to provide for a review of) current and future methods to prevent, detect and respond to the intentional introduction of chemical, biological or radiological contaminants into community water systems and source water for community water systems, including each of the following:
 
-&emsp;(1) Methods, means and equipment, including real time monitoring systems, designed to monitor and detect various levels of chemical,biological, and radiological contaminants or indicators of contaminants and reduce the likelihood that such contaminants can be successfully introduced into public water systems and source water intended to be used for drinking water.
+&emsp;(1) Methods, means and equipment, including real time monitoring systems, designed to monitor and detect various levels of chemical, biological, and radiological contaminants or indicators of contaminants and reduce the likelihood that such contaminants can be successfully introduced into public water systems and source water intended to be used for drinking water.
 
 &emsp;(2) Methods and means to provide sufficient notice to operators of public water systems, and individuals served by such systems, of the introduction of chemical, biological or radiological contaminants and the possible effect of such introduction on public health and the safety and supply of drinking water.
 

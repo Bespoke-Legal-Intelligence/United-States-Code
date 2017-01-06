@@ -6,13 +6,13 @@
 
 &emsp;A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if—
 
-&emsp;&emsp;(A) the number of children in the local educational agency counted under section 6333(c) of this title, before application of the weighted child count described in subsection (c) of this section, is at least 10; and
+&emsp;&emsp;(A) the number of children in the local educational agency counted under section 6333(c) of this title, before application of the weighted child count described in subsection (c), is at least 10; and
 
-&emsp;&emsp;(B) if the number of children counted for grants under section 6333(c) of this title, before application of the weighted child count described in subsection (c) of this section, is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
+&emsp;&emsp;(B) if the number of children counted for grants under section 6333(c) of this title, before application of the weighted child count described in subsection (c), is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
 
 #### (2) Special rule
 
-&emsp;For any fiscal year for which the Secretary allocates funds under this section on the basisof counties, funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
+&emsp;For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
 
 #### (b) Grants for local educational agencies, the District of Columbia, and the Commonwealth of Puerto Rico
 
@@ -20,13 +20,13 @@
 
 &emsp;The amount of the grant that a local educational agency in a State (other than the Commonwealth of Puerto Rico) is eligible to receive under this section for any fiscal year shall be the product of—
 
-&emsp;&emsp;(A) the weighted child count determined under subsection (c) of this section; and
+&emsp;&emsp;(A) the weighted child count determined under subsection (c); and
 
 &emsp;&emsp;(B) the amount determined under section 6333(a)(1)(B) of this title.
 
 #### (2) Puerto Rico
 
-&emsp;For each fiscal year, the amount of the grant the Commonwealth of Puerto Rico is eligible to receive under this section shall be equal to the number of children counted under subsection (c) of this section for the Commonwealth of Puerto Rico, multiplied by the amount determined in section 6333(a)(4) of this title for the Commonwealth of Puerto Rico.
+&emsp;For each fiscal year, the amount of the grant the Commonwealth of Puerto Rico is eligible to receive under this section shall be equal to the number of children counted under subsection (c) for the Commonwealth of Puerto Rico, multiplied by the amount determined in section 6333(a)(4) of this title for the Commonwealth of Puerto Rico.
 
 #### (c) Weighted child count
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) adjust any limitation or allowance applicable to such personnel;
 
-> by percentages which are equal or equivalent, insofar as practicable and with such exceptions as may be necessary to provide for appropriate pay relationships between positions, to the percentages of the adjustments made by the President under such section 5303 (and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area) for corresponding rates of pay for employees subject to the General Schedule contained in section 5332 of such title and adjust the rates of such personnel by such amounts as necessary to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions. Such rates, limitations, and allowances adjusted by the President pro tempore shall become effective on the first day of the month in which any adjustment becomes effective under such section 5303 or section 3(c) of this Act.
+> by percentages which are equal or equivalent, insofar as practicable and with such exceptions as may be necessary to provide for appropriate pay relationships between positions, to the percentages of the adjustments made by the President under such section 5303 (and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Marylandconsolidated metropolitan statistical area) for corresponding rates of pay for employees subject to the General Schedule contained in section 5332 of such title and adjust the rates of such personnel by such amounts as necessary to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions. Such rates, limitations, and allowances adjusted by the President pro tempore shall become effective on the first day of the month in which any adjustment becomes effective under such section 5303 or section 3(c) of this Act.
 
 (b) The adjustments made by the President pro tempore shall be made in such manner as he considers advisable and shall have the force and effect of law.
 
@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Section 3(c) of this Act, referred to in subsec. (a), is section 3(c) of Pub. L. 91–656, which is set out as a noteunder section 5303 of Title 5, Government Organization and Employees.
+Section 3(c) of this Act, referred to in subsec. (a), is section 3(c) of Pub. L. 91–656, which is set out as a note under section 5303 of Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -276,7 +276,7 @@ Pub. L. 88–426, title II, §202(f), (g), Aug. 14, 1964, 78 Stat. 414, provided
 
 "(f) Notwithstanding the provision referred to in subsection (g), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Official Reporters of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by an amount which is equal to the amount of the increase which would be provided by subsection (a) of this section \[former section 60e–11 of this title\] in that gross rate determined without regard to the provisions referred to in subsection (g) of this section which is nearest in amount to the total annual compensation of such officer or employee.
 
-"(g) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading 'SENATE' in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended by striking out '$18,880' and inserting in lieu thereof '$22,945'." \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+"(g) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading 'SENATE' in the Legislative Appropriation Act, 1956, as amended (74Stat. 304; Public Law 86–568), is amended by striking out '$18,880' and inserting in lieu thereof '$22,945'." \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1962
 
@@ -296,7 +296,7 @@ Pub. L. 86–568, title I, §117(c), (d), July 1, 1960, 74 Stat. 303, provided t
 
 "(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading 'SENATE' in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-" 'No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.' " \[Prior to this amendment "$8,880" and "$17,525" were, respectively, "$8,880" and "$16,300" per annum.\] \[The paragraph in the Legislative Appropriation Act,1956, referred to above was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+" 'No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.' " \[Prior to this amendment "$8,880" and "$17,525" were, respectively, "$8,880" and "$16,300" per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1958
 

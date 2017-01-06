@@ -48,13 +48,13 @@ The report required under subsection (a) shall—
 
 #### (1) In general
 
-&emsp;To assist the Director in analyzing the matters described in subsection (b), the Director shall conduct, on a monthly basis, a survey of mortgage markets in accordance with this subsection.
+&emsp;To assist the Director in analyzing the matters described in subsection (b), the Director shall conduct, on a monthly basis, a survey ofmortgage markets in accordance with this subsection.
 
 #### (2) Data points
 
 &emsp;Each monthly survey conducted by the Director under paragraph (1) shall collect data on—
 
-&emsp;&emsp;(A) the characteristics of individual mortgages that are eligible for purchase by the enterprises and the characteristics of individual mortgages that are not eligible forpurchase by the enterprises including, in both cases, information concerning—
+&emsp;&emsp;(A) the characteristics of individual mortgages that are eligible for purchase by the enterprises and the characteristics of individual mortgages that are not eligible for purchase by the enterprises including, in both cases, information concerning—
 
 &emsp;&emsp;&emsp;(i) the price of the house that secures the mortgage;
 

@@ -2,7 +2,7 @@
 
 In the performance of, and with respect to, the functions vested in the Secretary by this part, the Secretary—
 
-&emsp;(1) shall, within 120 days of August 14, 2008, publish in the Federal Register a notice and request for proposals for any private for-profit organization or entity wishing to serve as the designated bonding authority under this part, which notice shall—
+&emsp;(1) shall, within 120 days of August 14, 2008, publish in the Federal Register a notice andrequest for proposals for any private for-profit organization or entity wishing to serve as the designated bonding authority under this part, which notice shall—
 
 &emsp;&emsp;(A) specify the time and manner for submission of proposals; and
 

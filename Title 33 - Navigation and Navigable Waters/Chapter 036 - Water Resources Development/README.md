@@ -46,6 +46,7 @@
 | [2238a.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238a%20-%20Estimate%20of%20harbor%20maintenance%20needs.md) | Estimate of harbor maintenance needs. |
 | [2238b.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238b%20-%20Funding%20for%20harbor%20maintenance%20programs.md) | Funding for harbor maintenance programs. |
 | [2238c.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238c%20-%20Additional%20measures%20at%20donor%20ports%20and%20energy%20transfer%20ports.md) | Additional measures at donor ports and energy transfer ports. |
+| [2238d.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238d%20-%20Maintenance%20of%20harbors%20of%20refuge.md) | Maintenance of harbors of refuge. |
 | [2239\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002239%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20IV%2C%20%C2%A7412%28f%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204650.md) | Repealed. |
 | [2240\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002240%20-%20Emergency%20response%20services.md) | Emergency response services. |
 | [2241\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002241%20-%20Definitions.md) | Definitions. |
@@ -95,6 +96,7 @@
 | [2282b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282b%20-%20Submission%20of%20reports%20to%20Congress.md) | Submission of reports to Congress. |
 | [2282c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282c%20-%20Vertical%20integration%20and%20acceleration%20of%20studies.md) | Vertical integration and acceleration of studies. |
 | [2282d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282d%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [2282e.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282e%20-%20Post-authorization%20change%20reports.md) | Post-authorization change reports. |
 | [2283\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283%20-%20Fish%20and%20wildlife%20mitigation.md) | Fish and wildlife mitigation. |
 | [2283a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283a%20-%20Status%20report.md) | Status report. |
 | [2283b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283b%20-%20Clarification%20of%20mitigation%20authority.md) | Clarification of mitigation authority. |
@@ -107,6 +109,7 @@
 | [2287\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002287%20-%20Continued%20planning%20and%20investigations.md) | Continued planning and investigations. |
 | [2288\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002288%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93121%2C%20title%20I%2C%20%C2%A71004%2C%20June%2010%2C%202014%2C%20128%20Stat.%201199.md) | Repealed. |
 | [2289\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002289%20-%20Urban%20and%20rural%20flood%20control%20frequency.md) | Urban and rural flood control frequency. |
+| [2289a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002289a%20-%20Consideration%20of%20measures.md) | Consideration of measures. |
 | [2290\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002290%20-%20Flood%20control%20in%20Trust%20Territory%20of%20the%20Pacific%20Islands.md) | Flood control in Trust Territory of the Pacific Islands. |
 | [2291\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002291%20-%20Federal%20Project%20Repayment%20District.md) | Federal Project Repayment District. |
 | [2292\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002292%20-%20Surveying%20and%20mapping.md) | Surveying and mapping. |
@@ -128,7 +131,7 @@
 | [2308\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002308%20-%20Campgrounds%20for%20senior%20citizens.md) | Campgrounds for senior citizens. |
 | [2309\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002309%20-%20Great%20Lakes%20Commodities%20Marketing%20Board.md) | Great Lakes Commodities Marketing Board. |
 | [2309a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002309a%20-%20Project%20modifications%20for%20improvement%20of%20environment.md) | Project modifications for improvement of environment. |
-| [2310\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Cost%20sharing%20for%20Territories.md) | Cost sharing for Territories. |
+| [2310\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Cost%20sharing%20for%20Territories%20and%20Indian%20tribes.md) | Cost sharing for Territories and Indian tribes. |
 | [2311\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002311%20-%20Report%20to%20Congress%20covering%20proposals%20for%20water%20impoundment%20facilities.md) | Report to Congress covering proposals for water impoundment facilities. |
 | [2312\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002312%20-%20Comments%20on%20certain%20changes%20in%20operations%20of%20reservoirs.md) | Comments on certain changes in operations of reservoirs. |
 | [2313\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313%20-%20Collaborative%20research%20and%20development.md) | Collaborative research and development. |
@@ -142,7 +145,7 @@
 | [2316\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002316%20-%20Environmental%20protection%20mission.md) | Environmental protection mission. |
 | [2317\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002317%20-%20Wetlands.md) | Wetlands. |
 | [2317a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002317a%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
-| [2317b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002317b%20-%20Wetlands%20mitigation.md) | Wetlands mitigation. |
+| [2317b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002317b%20-%20Mitigation%20banks%20and%20in-lieu%20fee%20arrangements.md) | Mitigation banks and in-lieu fee arrangements. |
 | [2318\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002318%20-%20Flood%20plain%20management.md) | Flood plain management. |
 | [2319\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002319%20-%20Reservoir%20management.md) | Reservoir management. |
 | [2320\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002320%20-%20Protection%20of%20recreational%20and%20commercial%20uses.md) | Protection of recreational and commercial uses. |
@@ -158,14 +161,19 @@
 | [2326\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326%20-%20Regional%20sediment%20management.md) | Regional sediment management. |
 | [2326a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326a%20-%20Dredged%20material%20disposal%20facility%20partnerships.md) | Dredged material disposal facility partnerships. |
 | [2326b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326b%20-%20Sediment%20management.md) | Sediment management. |
-| [2326c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326c%20-%20Dredged%20material%20marketing%20and%20recycling.md) | Dredged material marketing and recycling. |
+| [2326c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326c%20-%20Reservoir%20sediment.md) | Reservoir sediment. |
+| [2326d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326d%20-%20Alternative%20projects%20to%20maintenance%20dredging.md) | Alternative projects to maintenance dredging. |
+| [2326e.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326e%20-%20Non-Federal%20interest%20dredging%20authority.md) | Non-Federal interest dredging authority. |
+| [2326f.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326f%20-%20Maintenance%20dredging%20data.md) | Maintenance dredging data. |
 | [2327\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002327%20-%20Definition%20of%20rehabilitation%20for%20inland%20waterway%20projects.md) | Definition of rehabilitation for inland waterway projects. |
 | [2328\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002328%20-%20Challenge%20cost-sharing%20program%20for%20management%20of%20recreation%20facilities.md) | Challenge cost-sharing program for management of recreation facilities. |
 | [2328a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002328a%20-%20Special%20use%20permits.md) | Special use permits. |
 | [2329\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002329%20-%20International%20outreach%20program.md) | International outreach program. |
 | [2330\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330%20-%20Aquatic%20ecosystem%20restoration.md) | Aquatic ecosystem restoration. |
 | [2330a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330a%20-%20Monitoring%20ecosystem%20restoration.md) | Monitoring ecosystem restoration. |
+| [2330b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330b%20-%20Fish%20hatcheries.md) | Fish hatcheries. |
 | [2331\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002331%20-%20Use%20of%20continuing%20contracts%20for%20construction%20of%20certain%20projects.md) | Use of continuing contracts for construction of certain projects. |
+| [2331a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002331a%20-%20Initiating%20work%20on%20separable%20elements.md) | Initiating work on separable elements. |
 | [2332\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002332%20-%20Flood%20mitigation%20and%20riverine%20restoration%20program.md) | Flood mitigation and riverine restoration program. |
 | [2333\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002333%20-%20Irrigation%20diversion%20protection%20and%20fisheries%20enhancement%20assistance.md) | Irrigation diversion protection and fisheries enhancement assistance. |
 | [2334\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002334%20-%20Innovative%20technologies%20for%20watershed%20restoration.md) | Innovative technologies for watershed restoration. |
@@ -178,10 +186,11 @@
 | [2340\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002340%20-%20Revision%20of%20project%20partnership%20agreement%3B%20cost%20sharing.md) | Revision of project partnership agreement; cost sharing. |
 | [2341\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002341%20-%20Expedited%20actions%20for%20emergency%20flood%20damage%20reduction.md) | Expedited actions for emergency flood damage reduction. |
 | [2341a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002341a%20-%20Prioritization.md) | Prioritization. |
+| [2341b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002341b%20-%20Prioritization%20of%20certain%20projects.md) | Prioritization of certain projects. |
 | [2342\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002342%20-%20Access%20to%20water%20resource%20data.md) | Access to water resource data. |
 | [2343\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002343%20-%20Independent%20peer%20review.md) | Independent peer review. |
 | [2344\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002344%20-%20Safety%20assurance%20review.md) | Safety assurance review. |
-| [2345\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002345%20-%20Electronic%20submission%20of%20permit%20applications.md) | Electronic submission of permit applications. |
+| [2345\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002345%20-%20Electronic%20submission%20and%20tracking%20of%20permit%20applications.md) | Electronic submission and tracking of permit applications. |
 | [2346\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002346%20-%20Project%20administration.md) | Project administration. |
 | [2347\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347%20-%20Coordination%20and%20scheduling%20of%20Federal%2C%20State%2C%20and%20local%20actions.md) | Coordination and scheduling of Federal, State, and local actions. |
 | [2347a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347a%20-%20Determination%20of%20project%20completion.md) | Determination of project completion. |
@@ -190,6 +199,8 @@
 | [2350\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002350%20-%20Corrosion%20prevention.md) | Corrosion prevention. |
 | [2351\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002351%20-%20Durability%2C%20sustainability%2C%20and%20resilience.md) | Durability, sustainability, and resilience. |
 | [2352\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002352%20-%20Funding%20to%20process%20permits.md) | Funding to process permits. |
+| [2353\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002353%20-%20Structural%20health%20monitoring.md) | Structural health monitoring. |
+| [2354\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002354%20-%20Easements%20for%20electric%2C%20telephone%2C%20or%20broadband%20service%20facilities.md) | Easements for electric, telephone, or broadband service facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

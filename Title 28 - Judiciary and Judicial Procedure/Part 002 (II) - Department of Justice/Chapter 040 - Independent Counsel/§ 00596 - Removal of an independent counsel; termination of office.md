@@ -52,7 +52,7 @@ Subsec. (b)(2). Pub. L. 103–270, §3(h), inserted at end "If the Attorney Gene
 
 Subsec. (c). Pub. L. 103–270, §3(i), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "
 
-Audits.—After the termination of the office of an independent counsel, the Comptroller General shall conduct an audit of the expenditures of that office, and shall submit to the appropriate committees of the Congress a report on the audit."
+Audits.—After the termination of the office of an independent counsel, the Comptroller General shall conduct an audit of the expenditures of that office, andshall submit to the appropriate committees of the Congress a report on the audit."
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b) which related to similar subject matter.
 

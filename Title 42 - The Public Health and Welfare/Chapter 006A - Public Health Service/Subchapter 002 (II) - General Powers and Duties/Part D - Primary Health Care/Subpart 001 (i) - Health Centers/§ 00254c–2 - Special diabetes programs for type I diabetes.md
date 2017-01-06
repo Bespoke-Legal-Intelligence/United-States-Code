@@ -8,7 +8,7 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 #### (1) Transferred funds
 
-&emsp;Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in suchsection for each of fiscal years 1998 through 2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
+&emsp;Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through 2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
 
 #### (2) Appropriations
 

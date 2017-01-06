@@ -12,5 +12,5 @@ Herein, referred to in text, means act Feb. 26, 1919, which is classified to sec
 
 The words "prior to February 26, 1919," were in the original "existing", and refer to the date of enactment of act Feb. 26, 1919.
 
-A provision of the original text requiring a report to Congress as to terms upon which the toll road and trailmentioned herein might be purchased was omitted as historically obsolete.
+A provision of the original text requiring a report to Congress as to terms upon which the toll road and trail mentioned herein might be purchased was omitted as historically obsolete.
 

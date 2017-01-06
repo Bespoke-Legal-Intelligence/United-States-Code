@@ -20,6 +20,40 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Space-Based Environmental Monitoring
+
+Pub. L. 114–328, div. A, title XVI, §1607, Dec. 23, 2016, 130 Stat. 2586, provided that:
+
+"(a)
+
+Roles of DOD and NOAA.—
+
+&emsp;"(1)
+
+Mechanisms.—The Secretary of Defense and the Administrator of the National Oceanic and Atmospheric Administration shall jointly establish mechanisms to collaborate and coordinate in defining the roles and responsibilities of the Department of Defense and the National Oceanic and Atmospheric Administration to—
+
+&emsp;&emsp;"(A) carry out space-based environmental monitoring; and
+
+&emsp;&emsp;"(B) plan for future non-governmental space-based environmental monitoring capabilities, as appropriate.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in paragraph (1) may be construed to authorize a joint satellite program of the Department of Defense and the National Oceanic and Atmospheric Administration.
+
+"(b)
+
+Report.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary and the Administrator shall jointly submit to the appropriate congressional committees a report on the mechanisms established under subsection (a)(1).
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+&emsp;"(2) the Committee on Science, Space, and Technology of the House of Representatives; and
+
+&emsp;"(3) the Committee on Commerce, Science, and Transportation of the Senate."
+
 #### Consolidation of Acquisition of Wideband Satellite Communications
 
 Pub. L. 114–92, div. A, title XVI, §1610, Nov. 25, 2015, 129 Stat. 1102, provided that:
@@ -104,7 +138,7 @@ Pub. L. 113–291, div. A, title XVI, §1603, Dec. 19, 2014, 128 Stat. 3622, pro
 
 #### Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program
 
-Pub. L. 113–291, div. A, title XVI, §1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, §1607, Nov. 25, 2015, 129 Stat. 1100, provided that:
+Pub. L. 113–291, div. A, title XVI, §1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, §1607, Nov. 25, 2015, 129 Stat. 1100; Pub. L. 114–328, div. A, title XVI, §1602, Dec. 23, 2016, 130 Stat. 2582, provided that:
 
 "(a)
 
@@ -120,21 +154,11 @@ Waiver.—The Secretary may waive the prohibition under subsection (a) with resp
 
 "(c)
 
-Exception.—
+Exception.—The prohibition in subsection (a) shall not apply to any of the following:
 
-&emsp;"(1)
+&emsp;"(1) The placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013.
 
-In general.—The prohibition in subsection (a) shall not apply to any of the following:
-
-&emsp;&emsp;"(A) The placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013.
-
-&emsp;&emsp;"(B) Subject to paragraph (2), contracts awarded for the procurement of property or services for space launch activities that include the use of not more than a total of five rocket engines designed or manufactured in the Russian Federation that prior to February 1, 2014, were either fully paid for by the contractor or covered by a legally binding commitment of the contractor to fully pay for such rocket engines.
-
-&emsp;&emsp;"(C) Contracts not covered under subparagraph (A) or (B) that are awarded for the procurement of property or services for space launch activities that include the use of not more than a total of four additional rocket engines designed or manufactured in the Russian Federation.
-
-&emsp;"(2)
-
-Certification.—The Secretary may not award or renew a contract for the procurement of property or services for space launch activities described in paragraph (1)(B) unless the Secretary, upon the advice of the General Counsel of the Department of Defense, certifies to the congressional defense committees that the offeror has provided to the Secretary sufficient documentation to conclusively demonstrate that prior to February 1, 2014, the offeror had either fully paid for the rocket engines described in such paragraph or made a legally binding commitment to fully pay for such rocket engines."
+&emsp;"(2) Contracts that are awarded during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 \[Dec. 23, 2016\] and ending December 31, 2022, for the procurement of property or services for space launch activities that include the use of a total of 18 rocket engines designed or manufactured in the Russian Federation, in addition to the Russian-designed or Russian-manufactured engines to which paragraph (1) applies."
 
 #### Integrated Space Architectures
 
@@ -225,6 +249,8 @@ Biennial update.—Not later than March 15 of each even-numbered year after 2008
 &emsp;"(3)
 
 Classification.—The report required by paragraph (1), and each update required by paragraph (2), shall be in unclassified form, but may include a classified annex."
+
+\[For termination, effective Dec. 31, 2021, of reporting provisions in section 911(f)(2) of Pub. L. 110–181, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 #### Maintenance of Capability for Space-Based Nuclear Detection
 

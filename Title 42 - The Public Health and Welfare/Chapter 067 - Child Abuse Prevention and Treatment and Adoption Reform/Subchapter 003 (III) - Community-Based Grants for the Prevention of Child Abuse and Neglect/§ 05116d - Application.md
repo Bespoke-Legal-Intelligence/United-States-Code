@@ -62,7 +62,7 @@ Par. (3). Pub. L. 108–36, §125(3), added par. (3) and struck out former par. 
 
 Par. (4). Pub. L. 108–36, §125(4), substituted "community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for "State's network of community-based, prevention-focused, family resource and support programs".
 
-Par. (5). Pub. L. 108–36, §125(5), substituted "start up, maintenance, expansion, and redesign of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for "Statewide network of community-based, prevention-focused, family resource and support programs".
+Par. (5). Pub. L. 108–36, §125(5), substituted "start up, maintenance, expansion, and redesign of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for "Statewide network ofcommunity-based, prevention-focused, family resource and support programs".
 
 Par. (7). Pub. L. 108–36, §125(6), substituted "community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for "individual community-based, prevention-focused, family resource and support programs".
 

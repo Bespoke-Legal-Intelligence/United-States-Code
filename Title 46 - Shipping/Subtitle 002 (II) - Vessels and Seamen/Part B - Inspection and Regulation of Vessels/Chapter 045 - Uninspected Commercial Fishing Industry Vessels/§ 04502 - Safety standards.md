@@ -132,7 +132,7 @@
 
 (4) There is authorized to be appropriated $3,000,000 for each fiscal years 2015 through 2017 for activities under this subsection.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat.3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18, 2014, 128 Stat. 3045.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18, 2014, 128 Stat. 3045.)
 
 #### Amendments
 
@@ -216,7 +216,7 @@ Subsec. (f). Pub. L. 101–595, §602(c)(2), amended subsec. (f) generally. Prio
 
 Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: "This section \[amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title\] is effective on the date of enactment of this section \[Nov. 16, 1990\] except as follows:
 
-&emsp;"(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code,\(as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
+&emsp;"(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
 
 &emsp;"(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
 

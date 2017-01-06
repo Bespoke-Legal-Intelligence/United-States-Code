@@ -14,7 +14,7 @@ If the court determines that the just and proper disposition of the case require
 
 If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the person and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 
-(Aug. 9, 1939, ch. 615, title IV, §410, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §24(b), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, §402(7)(A), Nov. 8, 1984, 98 Stat. 3357.)
+(Aug. 9, 1939, ch. 615, title IV, §410, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24,1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §24(b), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, §402(7)(A), Nov. 8, 1984, 98 Stat. 3357.)
 
 #### Amendments
 

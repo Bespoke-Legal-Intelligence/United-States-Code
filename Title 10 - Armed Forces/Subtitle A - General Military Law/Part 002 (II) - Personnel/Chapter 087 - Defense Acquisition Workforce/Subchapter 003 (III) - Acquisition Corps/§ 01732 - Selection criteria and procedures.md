@@ -40,7 +40,7 @@ Waiver.—(1) Except as provided in paragraph (2), the Secretary of Defense may 
 
 (e)
 
-Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians inthe Acquisition Corps to sign mobility statements.
+Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians in the Acquisition Corps to sign mobility statements.
 
 (2) The Secretary of Defense shall identify which categories of civilians in the Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 

@@ -2,7 +2,7 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to provide assistance to States and local communities, working through a network of community action agencies and other neighborhood-based organizations, for the reduction of poverty, the revitalization of low-income communities, and the empowerment of low-income families and individuals in rural and urban areas to become fully self-sufficient (particularly families who are attempting totransition off a State program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)); and
+&emsp;(1) to provide assistance to States and local communities, working through a network of community action agencies and other neighborhood-based organizations, for the reduction of poverty, the revitalization of low-income communities, and the empowerment of low-income families and individuals in rural and urban areas to become fully self-sufficient (particularly families who are attempting to transition off a State program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)); and
 
 &emsp;(2) to accomplish the goals described in paragraph (1) through—
 

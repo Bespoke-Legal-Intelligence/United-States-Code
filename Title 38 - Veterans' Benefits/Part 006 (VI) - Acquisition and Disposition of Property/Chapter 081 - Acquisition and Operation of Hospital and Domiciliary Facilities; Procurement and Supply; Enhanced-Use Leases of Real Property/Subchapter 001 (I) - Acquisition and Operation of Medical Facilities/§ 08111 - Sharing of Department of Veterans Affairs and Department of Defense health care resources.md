@@ -6,7 +6,7 @@ Required Coordination and Sharing of Health Care Resources.—The Secretary of V
 
 (b)
 
-Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, the two Secretaries shall carry out the following functions:
+Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of thetwo Departments, the two Secretaries shall carry out the following functions:
 
 &emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31.
 
@@ -70,7 +70,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(F) Such recommendations for legislation as the two Secretaries consider appropriate to facilitate the sharing of health-care resources between the two Departments.
 
-(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection anoverall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
+(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection an overall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
 
 &emsp;(A) Enumerations and explanations of major policy decisions reached by the two Secretaries during the period covered by the report period with respect to sharing between the two Departments.
 
@@ -104,13 +104,13 @@ Definitions.—For the purposes of this section:
 
 &emsp;(4) The term "health-care resource" includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, services under sections 1782 and 1783 of this title, any other health-care service, and any health-care support or administrative resource.
 
-&emsp;(5) The term "primary beneficiary" (A) with respect to the Department means a person who is eligible under this title (other than under section 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
+&emsp;(5) The term "primary beneficiary" (A) with respect to the Department means a person who is eligible under this title (other than undersection 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
 
 &emsp;(6) The term "providing Department" means the Department of Veterans Affairs, in the case of care or services furnished by a facility of the Department of Veterans Affairs, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
 
 &emsp;(7) The term "service region" means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub.L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869.)
 
 #### References in Text
 
@@ -162,7 +162,7 @@ Subsec. (e)(1). Pub. L. 108–136, §583(b)(2)(C), substituted "Department of Ve
 
 Subsec. (f)(2)(B), (C). Pub. L. 108–136, §583(b)(2)(D), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
-"(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for the sharing of health-care resources between the two Departments.
+"(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for thesharing of health-care resources between the two Departments.
 
 "(C) Any recommendation made under subsection (c)(4) during such fiscal year."
 

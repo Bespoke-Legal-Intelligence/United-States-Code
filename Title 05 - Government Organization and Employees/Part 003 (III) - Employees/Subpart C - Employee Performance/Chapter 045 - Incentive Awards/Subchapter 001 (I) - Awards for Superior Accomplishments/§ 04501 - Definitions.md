@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) "Government" means the Government of the United States and the government of the District of Columbia.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, §503(a), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–690, title VII, §7106(a), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–474, §5(f), Oct. 30, 1990, 104 Stat.1100; Pub. L. 103–89, §3(b)(1)(C), Sept. 30, 1993, 107 Stat. 981; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, §503(a), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–690, title VII, §7106(a), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–474, §5(f), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–89, §3(b)(1)(C), Sept. 30, 1993, 107 Stat. 981; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,7 @@ Section 1. <i>Statement of Presidential Principles.</i>
 
 Government corporations subject to this order should not pay bonuses in excess of those authorized by sections 4501 through 4507 of title 5, United States Code, except as otherwise specifically provided by law.
 
-Sec. 2. <i>Administration Review</i>. (a) Before taking action to approve any bonus in excess of those authorized in section 4502 of title 5, United States Code, each corporation subject to this section (as provided in section 6 of this order) shall submit information to the Director of the Office of Management and Budget (OMB) relating to such bonuses as provided in subsection (b). Such corporation shall refrain from approving any such bonus until the Director of OMB has had an opportunity to review the information provided by the corporation.
+Sec. 2. <i>Administration Review</i>. (a) Before taking action to approve any bonus in excess of those authorized in section 4502 of title 5, United States Code, each corporation subject to this section (as provided in section 6 of this order) shall submit information to the Director of the Office of Management and Budget (OMB) relating to such bonuses as provided in subsection (b). Such corporation shall refrain from approving any suchbonus until the Director of OMB has had an opportunity to review the information provided by the corporation.
 
 (b) The Director of OMB shall issue instructions to the corporations subject to this section specifying when information is to be submitted, and the content and form of such information.
 

@@ -1,8 +1,8 @@
 ### §901. Social Security Administration
 
-(a) There is hereby established, as an independent agency in the executive branch of the Government, a Social Security Administration (in this subchapter referred to as the "Administration").
+(a) There is hereby established, as an independent agency in the executive branch of theGovernment, a Social Security Administration (in this subchapter referred to as the "Administration").
 
-(b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter.
+(b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II and the supplemental security income program under subchapter XVI.
 
 (Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat. 558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
 
@@ -92,7 +92,7 @@ Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (4
 
 Inter-Agency Transfer Arrangement.—The Secretary of Health and Human Services and the Commissioner of Social Security shall enter into a written inter-agency transfer arrangement (in this subsection referred to as the 'arrangement'), which shall be effective March 31, 1995. Transfers made pursuant to this section shall be in accordance with the arrangement, which shall specify the personnel and resources to be transferred as provided under this section. The terms of such arrangement shall be transmitted not later than January 1, 1995, to the Committee on Ways and Means of the House of Representatives, to the Committee on Finance of the Senate, and to the Comptroller General of the United States. Not later than February 15, 1995, the Comptroller General shall submit a report to each such Committee setting forth an evaluation of such arrangement."
 
-\[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub. L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
+\[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub.L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 
 #### Transition Rules
 
@@ -104,7 +104,7 @@ Transition Rules Relating to Officers of the Social Security Administration.—
 
 &emsp;"(1)
 
-Appointment of initial commissioner of social security.—The President shall nominate for appointment the initial Commissioner of Social Security to serve as head of the Social Security Administration established under section 701 of the Social Security Act \[42 U.S.C. 901\] (as amended by this Act)not later than 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
+Appointment of initial commissioner of social security.—The President shall nominate for appointment the initial Commissioner of Social Security to serve as head of the Social Security Administration established under section 701 of the Social Security Act \[42 U.S.C. 901\] (as amended by this Act) not later than 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
 &emsp;"(2)
 
@@ -146,7 +146,7 @@ Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, d
 
 "(c)
 
-Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
+Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuantto such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
 
 "(d)
 

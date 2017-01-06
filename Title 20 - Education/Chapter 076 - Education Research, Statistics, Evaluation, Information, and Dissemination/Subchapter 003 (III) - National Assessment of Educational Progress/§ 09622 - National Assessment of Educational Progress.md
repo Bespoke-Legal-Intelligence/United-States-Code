@@ -26,7 +26,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(F) continue to conduct the trend assessment of academic achievement at ages 9, 13, and 17 for the purpose of maintaining data on long-term trends in reading and mathematics;
 
-&emsp;&emsp;(G) include information on special groups, including, whenever feasible, informationcollected, cross tabulated, compared, and reported by race, ethnicity, socioeconomic status, gender, disability and limited English proficiency; and
+&emsp;&emsp;(G) include information on special groups, including, whenever feasible, information collected, cross tabulated, compared, and reported by race, ethnicity, socioeconomic status, gender, disability and limited English proficiency; and
 
 &emsp;&emsp;(H) ensure that achievement data are made available on a timely basis following official reporting, in a manner that facilitates further analysis and that includes trend lines.
 
@@ -42,13 +42,13 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;&emsp;(iii) may conduct State academic assessments of student achievement in grades 4, 8, and 12 as described in paragraph (2)(D); and
 
-&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f) of this section, that such assessment produces high quality data that are valid and reliable.
+&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
 
 #### (B) Agreement
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;States participating in State assessments shall enter into an agreement with the Secretary pursuant to subsection (d)(3) of this section.
+&emsp;&emsp;&emsp;States participating in State assessments shall enter into an agreement with the Secretary pursuant to subsection (d)(3).
 
 #### (ii) Content
 
@@ -84,7 +84,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (5) Requirement
 
-&emsp;In carrying out any assessment authorized under this section, the Commissioner for Education Statistics, in a manner consistent with subsection (c)(3) of this section, shall—
+&emsp;In carrying out any assessment authorized under this section, the Commissioner for Education Statistics, in a manner consistent with subsection (c)(3), shall—
 
 &emsp;&emsp;(A) use widely accepted professional testing standards, objectively measure academic achievement, knowledge, and skills, and ensure that any academic assessment authorized under this section be tests that do not evaluate or assess personal or family beliefs and attitudes or publicly disclose personally identifiable information;
 
@@ -102,7 +102,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (3), parents and members of the public shall have access to all assessment data, questions, and complete and current assessment instruments of any assessment authorized underthis section. The local educational agency shall make reasonable efforts to inform parents and members of the public about the access required under this paragraph.
+&emsp;&emsp;Except as provided in paragraph (3), parents and members of the public shall have access to all assessment data, questions, and complete and current assessment instruments of any assessment authorized under this section. The local educational agency shall make reasonable efforts to inform parents and members of the public about the access required under this paragraph.
 
 #### (B) Timeline
 
@@ -176,13 +176,13 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (4) Review
 
-&emsp;Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure ofany authorized assessment upon request in a manner consistent with subsection (c) of this section, except the review described in subparagraph (2)(C) of subsection (c) of this section shall take place in consultation with the representatives described in this paragraph.
+&emsp;Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure of any authorized assessment upon request in a manner consistent with subsection (c), except the review described in subparagraph (2)(C) of subsection (c) shall take place in consultation with the representatives described in this paragraph.
 
 #### (e) Student achievement levels
 
 #### (1) Achievement levels
 
-&emsp;The Assessment Board shall develop appropriate student achievement levels for each grade or age in each subject area to be tested under assessments authorized under this section, except the trend assessment described in subsection (b)(2)(F) of this section.
+&emsp;The Assessment Board shall develop appropriate student achievement levels for each grade or age in each subject area to be tested under assessments authorized under this section, except the trend assessment described in subsection (b)(2)(F).
 
 #### (2) Determination of levels
 
@@ -202,7 +202,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (C) Trial basis
 
-&emsp;&emsp;The achievement levels shall be used on a trial basis until the Commissioner for Education Statistics determines, as a result of an evaluation under subsection (f) of this section, that such levels are reasonable, valid, and informative to the public.
+&emsp;&emsp;The achievement levels shall be used on a trial basis until the Commissioner for Education Statistics determines, as a result of an evaluation under subsection (f), that such levels are reasonable, valid, and informative to the public.
 
 #### (D) Status
 
@@ -214,11 +214,11 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (3) Reporting
 
-&emsp;After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f) of this section, the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
+&emsp;After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
 
 #### (4) Review
 
-&emsp;The Assessment Board shall provide for a review of any trial student achievement levels under development by representatives of State educational agencies or the chief State school officer in a manner consistent with subsection (c) of this section, except the review described in paragraph (2)(C) of such subsection shall take place in consultation with the representatives described in this paragraph.
+&emsp;The Assessment Board shall provide for a review of any trial student achievement levels under development by representatives of State educational agencies or the chief State school officer in a manner consistent with subsection (c), except the review described in paragraph (2)(C) of such subsection shall take place in consultation with the representatives described in this paragraph.
 
 #### (f) Review of National and State assessments
 
@@ -274,7 +274,7 @@ A prior section 303 of Pub. L. 107–279 was renumbered section 305 and is class
 
 <b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
-Subsec. (a). Pub. L. 107–279, §401(d)(3), substituted "section 9621" for "section 9011" and struck out "and with the technical assistance of the Advisory Council established under section 9006 of this title," before "carry out".
+Subsec. (a). Pub. L. 107–279, §401(d)(3), substituted "section 9621" for "section 9011" and struck out "andwith the technical assistance of the Advisory Council established under section 9006 of this title," before "carry out".
 
 Pub. L. 107–279, §401(d)(2), substituted "Assessment Board" for "National Assessment Governing Board".
 

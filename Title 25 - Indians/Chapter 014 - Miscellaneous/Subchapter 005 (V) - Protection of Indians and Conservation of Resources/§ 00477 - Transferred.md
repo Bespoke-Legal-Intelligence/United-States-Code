@@ -1,0 +1,6 @@
+### §477. Transferred
+
+#### Codification
+
+Section 477 was editorially reclassified as section 5124 of this title.
+

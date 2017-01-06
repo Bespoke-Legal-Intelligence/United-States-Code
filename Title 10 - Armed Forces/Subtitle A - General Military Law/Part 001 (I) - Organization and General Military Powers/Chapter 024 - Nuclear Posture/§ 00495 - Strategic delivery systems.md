@@ -12,7 +12,7 @@ Annual Certification.—Beginning in fiscal year 2013, the President shall annua
 
 &emsp;(4) a ballistic missile submarine; and
 
-&emsp;(5) maintaining the nuclear command and control system (as first reported under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576)).
+&emsp;(5) maintaining the nuclear command and control system (as first reported under section1043 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576)).
 
 (b)
 
@@ -102,7 +102,7 @@ Pub. L. 113–66, div. A, title X, §1062(a), Dec. 26, 2013, 127 Stat. 866, prov
 
 &emsp;"(2) proceed with a robust stockpile stewardship program;
 
-&emsp;"(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
+&emsp;"(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety,security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
 
 &emsp;"(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States."
 

@@ -35,6 +35,8 @@
 | [3720\.](%C2%A7%2003720%20-%20Office%20of%20Innovation%20and%20Entrepreneurship.md) | Office of Innovation and Entrepreneurship. |
 | [3721\.](%C2%A7%2003721%20-%20Federal%20loan%20guarantees%20for%20innovative%20technologies%20in%20manufacturing.md) | Federal loan guarantees for innovative technologies in manufacturing. |
 | [3722\.](%C2%A7%2003722%20-%20Regional%20innovation%20program.md) | Regional innovation program. |
+| [3723\.](%C2%A7%2003723%20-%20STEM%20apprenticeship%20programs.md) | STEM apprenticeship programs. |
+| [3724\.](%C2%A7%2003724%20-%20Crowdsourcing%20and%20citizen%20science.md) | Crowdsourcing and citizen science. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,3 +78,5 @@
 - [&sect; 03720 - Office of Innovation and Entrepreneurship](%C2%A7%2003720%20-%20Office%20of%20Innovation%20and%20Entrepreneurship.md)
 - [&sect; 03721 - Federal loan guarantees for innovative technologies in manufacturing](%C2%A7%2003721%20-%20Federal%20loan%20guarantees%20for%20innovative%20technologies%20in%20manufacturing.md)
 - [&sect; 03722 - Regional innovation program](%C2%A7%2003722%20-%20Regional%20innovation%20program.md)
+- [&sect; 03723 - STEM apprenticeship programs](%C2%A7%2003723%20-%20STEM%20apprenticeship%20programs.md)
+- [&sect; 03724 - Crowdsourcing and citizen science](%C2%A7%2003724%20-%20Crowdsourcing%20and%20citizen%20science.md)

@@ -12,7 +12,7 @@ The report required by subsection (a) shall include—
 
 &emsp;(2) the quantity and price of any item furnished to the House of Representatives;
 
-&emsp;(3) a description of any service rendered to the House of Representatives, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+&emsp;(3) a description of any service rendered to the House of Representatives, together with astatement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
 
 &emsp;(4) a statement of all amounts appropriated to, or received, or expended by the House of Representatives, and any unexpended balances of such amounts;
 

@@ -1,6 +1,6 @@
 ### §57521. Termination of charter during national emergency
 
-A charter under this chapter shall provide that during a national emergency proclaimed by the President or a period for which the President has proclaimed that the security of the national defense makes it advisable, the Secretary of Transportation may terminate the charterwithout cost to the United States Government on such notice to the charterer as the President determines.
+A charter under this chapter shall provide that during a national emergency proclaimed by the President or a period for which the President has proclaimed that the security of the national defense makes it advisable, the Secretary of Transportation may terminate the charter without cost to the United States Government on such notice to the charterer as the President determines.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1668.)
 

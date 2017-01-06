@@ -32,7 +32,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (A) Disclosure
 
-&emsp;&emsp;No Federal department, bureau, agency, officer, or employee and no recipient of a Federal grant, contract, or cooperative agreement may, for any reason, require the Director, any Commissioner of a National Education Center, or any other employee of the Institute to disclose individually identifiable information that has been collected or retained under this subchapter.
+&emsp;&emsp;No Federal department, bureau, agency, officer, or employee and no recipient of a Federal grant, contract, or cooperativeagreement may, for any reason, require the Director, any Commissioner of a National Education Center, or any other employee of the Institute to disclose individually identifiable information that has been collected or retained under this subchapter.
 
 #### (B) Immunity
 
@@ -44,7 +44,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (2) Employee or staff violations
 
-&emsp;Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2) of this section, knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2) of this section, and that comes into such employee or staff's possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
+&emsp;Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2), knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2), and that comes into such employee or staff's possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
 
 #### (3) Temporary staff
 
@@ -64,7 +64,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (6) Violations
 
-&emsp;Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses, publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2) of this section, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
+&emsp;Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses, publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2), shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
 
 #### (7) Access to reports or records
 
@@ -74,9 +74,9 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a) and (b) of this section, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
+&emsp;Notwithstanding subsections (a) and (b), the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
 
-&emsp;&emsp;(A) collect reports, records, and information (including individually identifiable information) in the possession of the Directorthat are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18 or an act of domestic or international terrorism as defined in section 2331 of that title; and
+&emsp;&emsp;(A) collect reports, records, and information (including individually identifiable information) in the possession of the Director that are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18 or an act of domestic or international terrorism as defined in section 2331 of that title; and
 
 &emsp;&emsp;(B) for official purposes related to the investigation or prosecution of an offense described in paragraph (1)(A), retain, disseminate, and use (including as evidence at trial or in other administrative or judicial proceedings) such information, consistent with such guidelines as the Attorney General, after consultation with the Secretary, shall issue to protect confidentiality.
 
@@ -90,7 +90,7 @@ In general.—An application under paragraph (1) shall certify that there are sp
 
 #### (3) Protection
 
-&emsp;An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) <sup>1</sup> of this section and shall not be liable to any person for that production.
+&emsp;An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) <sup>1</sup> and shall not be liable to any person for that production.
 
 (Pub. L. 107–279, title I, §183, title IV, §401(a)(6), Nov. 5, 2002, 116 Stat. 1972, 1983.)
 

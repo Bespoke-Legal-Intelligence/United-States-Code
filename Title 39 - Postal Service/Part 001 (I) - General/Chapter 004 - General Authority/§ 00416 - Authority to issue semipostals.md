@@ -106,7 +106,7 @@ Termination.—This section shall cease to be effective at the end of the 10-yea
 
 #### Effective Date
 
-Pub. L. 106–253, §2(d), formerly §2(e), July 28, 2000, 114 Stat. 636, as renumbered §2(d) by Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: "The program under section 416 of title 39, United StatesCode (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\]."
+Pub. L. 106–253, §2(d), formerly §2(e), July 28, 2000, 114 Stat. 636, as renumbered §2(d) by Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: "The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\]."
 
 #### Multinational Species Conservation Funds Semipostal Stamp
 

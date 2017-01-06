@@ -2,7 +2,7 @@
 
 In this chapter, the following definitions apply:
 
-&emsp;(1) The term "coastal fishery management plan" means a plan for managing a coastal fishery resource, or an amendment to suchplan, prepared and adopted by the Commission, that—
+&emsp;(1) The term "coastal fishery management plan" means a plan for managing a coastal fishery resource, or an amendment to such plan, prepared and adopted by the Commission, that—
 
 &emsp;&emsp;(A) contains information regarding the status of the resource and related fisheries; and
 

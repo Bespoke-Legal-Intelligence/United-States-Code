@@ -4,7 +4,7 @@
 
 #### (1) Transmission of agreements
 
-&emsp;Not later than 5 calendar days after reaching an agreement with Iran relating to the nuclear program of Iran, the President shall transmit to the appropriate congressional committees and leadership—
+&emsp;Not later than 5 calendar days after reaching an agreement with Iran relating to the nuclear program of Iran, the President shall transmitto the appropriate congressional committees and leadership—
 
 &emsp;&emsp;(A) the agreement, as defined in subsection (h)(1), including all related materials and annexes;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) use all measures not expressly prohibited by the agreement to conceal activities that violate its obligations and commitments under the agreement; and
 
-&emsp;&emsp;&emsp;(ii) alter or deviate from standard practices in order to impede efforts to verifythat Iran is complying with those obligations and commitments.
+&emsp;&emsp;&emsp;(ii) alter or deviate from standard practices in order to impede efforts to verify that Iran is complying with those obligations and commitments.
 
 #### (C) Classified annex
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(iii) all actions, including in international fora, being taken by the United States to stop, counter, and condemn acts by Iran to directly or indirectly carry out acts of terrorism against the United States and United States persons;
 
-&emsp;&emsp;&emsp;(iv) the impact on the national security of the United States and the safety ofUnited States citizens as a result of any Iranian actions reported under this paragraph; and
+&emsp;&emsp;&emsp;(iv) the impact on the national security of the United States and the safety of United States citizens as a result of any Iranian actions reported under this paragraph; and
 
 &emsp;&emsp;&emsp;(v) all of the sanctions relief provided to Iran, pursuant to the agreement, and a description of the relationship between each sanction waived, suspended, or deferred and Iran's nuclear weapon's program.
 
@@ -286,7 +286,7 @@
 
 #### (A) Coordination with action by other House
 
-&emsp;&emsp;If, before the passage by one House of qualifying legislation of that House, that House receives qualifying legislation fromthe other House, then the following procedures shall apply:
+&emsp;&emsp;If, before the passage by one House of qualifying legislation of that House, that House receives qualifying legislation from the other House, then the following procedures shall apply:
 
 &emsp;&emsp;&emsp;(i) The qualifying legislation of the other House shall not be referred to a committee.
 
@@ -322,7 +322,7 @@ Nothing in the section shall be construed as—
 
 &emsp;(1) modifying, or having any other impact on, the President's authority to negotiate, enter into, or implement appropriate executive agreements, other than the restrictions on implementation of the agreements specifically covered by this section;
 
-&emsp;(2) allowing any new waiver, suspension, reduction, or other relief from statutory sanctions with respect to Iran under any provision of law, or allowing the President to refrain from applying any such sanctions pursuant to an agreement described in subsection (a) during the period for review provided in subsection (b);
+&emsp;(2) allowing any new waiver, suspension, reduction, or other relief from statutory sanctions with respect to Iran under any provisionof law, or allowing the President to refrain from applying any such sanctions pursuant to an agreement described in subsection (a) during the period for review provided in subsection (b);
 
 &emsp;(3) revoking or terminating any statutory sanctions imposed on Iran; or
 
@@ -354,7 +354,7 @@ In this section:
 
 #### (6) EU-Iran Joint Statement
 
-&emsp;The term "EU-Iran Joint Statement" means only the Joint Statement by EU High Representative Federica Mogherini and IranianForeign Minister Javad Zarif made on April 2, 2015, at Lausanne, Switzerland.
+&emsp;The term "EU-Iran Joint Statement" means only the Joint Statement by EU High Representative Federica Mogherini and Iranian Foreign Minister Javad Zarif made on April 2, 2015, at Lausanne, Switzerland.
 
 #### (7) Material breach
 

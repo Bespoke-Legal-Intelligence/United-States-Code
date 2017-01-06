@@ -6,7 +6,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 &emsp;(1) any person, including a current or former official of the Government of Ukraine or a person acting on behalf of that Government, that the President determines has perpetrated, or is responsible for ordering, controlling, or otherwise directing, significant acts of violence or gross human rights abuses in Ukraine against persons associated with the antigovernment protests in Ukraine that began on November 21, 2013;
 
-&emsp;(2) any person that the President determines has perpetrated, or is responsible for ordering, controlling, or otherwise directing, significant acts that are intended to undermine the peace,security, stability, sovereignty, or territorial integrity of Ukraine, including acts of economic extortion;
+&emsp;(2) any person that the President determines has perpetrated, or is responsible for ordering, controlling, or otherwise directing, significant acts that are intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including acts of economic extortion;
 
 &emsp;(3) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is responsible for, complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in Ukraine, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
 
@@ -60,5 +60,5 @@ The President shall issue such regulations, licenses, and orders as are necessar
 
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, Warand National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

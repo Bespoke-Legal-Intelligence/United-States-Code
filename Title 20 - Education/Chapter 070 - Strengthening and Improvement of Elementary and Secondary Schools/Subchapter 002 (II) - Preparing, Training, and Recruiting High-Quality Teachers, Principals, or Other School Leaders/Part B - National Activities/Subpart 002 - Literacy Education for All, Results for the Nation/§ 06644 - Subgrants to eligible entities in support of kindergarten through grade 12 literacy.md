@@ -30,7 +30,7 @@
 
 #### (b) Priority
 
-In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use funds under subsection (c) or (d) to implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use funds under subsection (c) or (d) to implement evidence-basedactivities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 #### (c) Local uses of funds for kindergarten through grade 5
 

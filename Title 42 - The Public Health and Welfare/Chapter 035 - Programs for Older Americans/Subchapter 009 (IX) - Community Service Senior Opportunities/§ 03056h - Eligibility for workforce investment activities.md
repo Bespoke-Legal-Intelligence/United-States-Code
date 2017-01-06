@@ -12,7 +12,7 @@ The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 11
 
 A prior section 3056h, Pub. L. 89–73, title V, §510, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2280, related to eligibility for workforce investment activities, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
-Another prior section 3056h, Pub. L. 89–73, title V, §510, as added Pub. L. 102–375, title V, §506, Sept. 30, 1992, 106 Stat. 1269; amended Pub. L. 103–171, §2(20), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 105–277, div. A, §101(f)\[title VIII, §405(d)(33)(D), (f)(25)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, related to dual eligibility, prior to the general amendment of this subchapter by Pub. L. 106–501.
+Another prior section 3056h, Pub. L. 89–73, title V, §510, as added Pub. L. 102–375, title V, §506, Sept. 30, 1992, 106 Stat. 1269; amended Pub. L. 103–171, §2(20), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(D), (f)(25)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, related to dual eligibility, prior to the general amendment of this subchapter by Pub. L. 106–501.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 #### (A) In general
 
-&emsp;The Administrator of General Services may install, construct, operate, and maintain on a reimbursable basis a battery recharging station (or allow, on a reimbursable basis, the use of a 120-volt electrical receptacle for battery recharging) in a parking area that is in the custody, control, or administrative jurisdiction of the General Services Administration for the use of only privately owned vehicles of employees of the General Services Administration, tenant Federal agencies, and others whoare authorized to park in such area to the extent such use by only privately owned vehicles does not interfere with or impede access to the equipment by Federal fleet vehicles.
+&emsp;The Administrator of General Services may install, construct, operate, and maintain on a reimbursable basis a battery recharging station (or allow, on a reimbursable basis, the use of a 120-volt electrical receptacle for battery recharging) in a parking area that is in the custody, control, or administrative jurisdiction of the General Services Administration for the use of only privately owned vehicles of employees of the General Services Administration, tenant Federal agencies, and others who are authorized to park in such area to the extent such use by only privately owned vehicles does not interfere with or impede access to the equipment by Federal fleet vehicles.
 
 #### (B) Areas under other Federal agencies
 
@@ -34,7 +34,7 @@
 
 #### (3) No effect on existing programs for House and Senate
 
-Nothing in this subsection affects the installation, construction, operation, or maintenance of battery recharging stations by the Architect of the Capitol—
+Nothing in this subsection affects the installation, construction, operation, or maintenance ofbattery recharging stations by the Architect of the Capitol—
 
 &emsp;(A) under section 2171 of title 2, relating to employees of the House of Representatives and individuals authorized to park in any parking area under the jurisdiction of the House of Representatives on the Capitol Grounds; or
 

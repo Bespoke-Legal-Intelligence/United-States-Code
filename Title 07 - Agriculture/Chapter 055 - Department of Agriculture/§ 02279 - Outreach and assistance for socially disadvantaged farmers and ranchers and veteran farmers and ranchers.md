@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance programto encourage and assist socially disadvantaged farmers and ranchers and veteran farmers or ranchers—
+&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers and veteran farmers or ranchers—
 
 &emsp;&emsp;(A) in owning and operating farms and ranches; and
 
@@ -200,7 +200,7 @@
 
 &emsp;&emsp;(E) Any other institution of higher education (as defined in section 1001 of title 20) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
 
-&emsp;&emsp;(F) An Indian tribe (as defined in section 450b of title 25) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+&emsp;&emsp;(F) An Indian tribe (as defined in section 5304 of title 25) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
 
 &emsp;&emsp;(G) An organization or institution that received funding under subsection (a) before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
 
@@ -222,7 +222,7 @@
 
 #### (1) Consolidated suboffice
 
-&emsp;The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
+&emsp;The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservationand to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
 
 #### (2) Cooperative agreements
 
@@ -248,7 +248,7 @@ The Agricultural Adjustment Act of 1938, referred to in subsec. (e)(3)(C), is ac
 
 The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (e)(3)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, asamended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (i), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 

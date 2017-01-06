@@ -4,7 +4,7 @@
 
 (1) Nothing in this part shall have the effect of terminating any validly issued right-of-way or customary operation, maintenance, repair, and replacement activities in such right-of-way, issued, granted, or permitted to Southern California Edison Company, its successors or assigns, which is located on lands included in the Mojave National Preserve, but outside lands designated as wilderness under section 601(a)(3). Such activities shall be conducted in a manner which will minimize the impact on preserve resources.
 
-(2) Nothing in this part shall have the effect of prohibiting the upgrading of an existing electrical transmission line for the purpose of increasing the capacity of such transmission line in the Southern California Edison Company validly issued Eldorado-Lugo Transmission Line right-of-way and Mojave-Lugo TransmissionLine right-of-way, or in a right-of-way if issued, granted, or permitted by the Secretary adjacent to the existing Mojave-Lugo Transmission Line right-of-way (hereafter in this section referred to as "adjacent right-of-way"), including construction of a replacement transmission line: <i>Provided</i>, That—
+(2) Nothing in this part shall have the effect of prohibiting the upgrading of an existing electrical transmission line for the purpose of increasing the capacity of such transmission line in the Southern California Edison Company validly issued Eldorado-Lugo Transmission Line right-of-way and Mojave-Lugo Transmission Line right-of-way, or in a right-of-way if issued, granted, or permitted by the Secretary adjacent to the existing Mojave-Lugo Transmission Line right-of-way (hereafter in this section referred to as "adjacent right-of-way"), including construction of a replacement transmission line: <i>Provided</i>, That—
 
 &emsp;(A) in the Eldorado-Lugo Transmission Line rights-of-way (hereafter in this section referred to as the "Eldorado rights-of-way") at no time shall there be more than three electrical transmission lines;
 
@@ -24,7 +24,7 @@
 
 (1) Nothing in this part shall have the effect of terminating any validly issued right-of-way, or customary operation, maintenance, repair, and replacement activities in such right-of-way; prohibiting the upgrading of and construction on existing facilities in such right-of-way for the purpose of increasing the capacity of the existing pipeline; or prohibiting the renewal of such right-of-way issued, granted, or permitted to the Southern California Gas Company, its successors or assigns, which is located on lands included in the Mojave National Preserve, but outside lands designated as wilderness under section 601(a)(3). Such activities shall be conducted in a manner which will minimize the impact on preserve resources.
 
-(2) The Secretary shall prepare within one hundred and eighty days after October 31, 1994, in consultation with the Southern California Gas Company, plans for emergency access by the Southern California Gas Company to its rights-of-way.
+(2) The Secretary shall prepare within one hundred and eighty days after October 31, 1994, in consultation with the Southern CaliforniaGas Company, plans for emergency access by the Southern California Gas Company to its rights-of-way.
 
 #### (c) Communications cables or lines
 

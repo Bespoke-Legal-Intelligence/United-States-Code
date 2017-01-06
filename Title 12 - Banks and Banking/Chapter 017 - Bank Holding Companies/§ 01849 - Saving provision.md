@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Nothing herein contained shall be interpreted or construed as approving any act, action, or conduct which is or has been or may be in violation of existing law, nor shall anything herein contained constitute a defense to any action, suit, or proceeding pending or hereafter instituted on account of any prohibited antitrust or monopolistic act, action, or conduct, except as specifically provided in this section.
+Nothing herein contained shall be interpreted or construed as approving any act, action, orconduct which is or has been or may be in violation of existing law, nor shall anything herein contained constitute a defense to any action, suit, or proceeding pending or hereafter instituted on account of any prohibited antitrust or monopolistic act, action, or conduct, except as specifically provided in this section.
 
 #### (b) Antitrust review
 
@@ -36,7 +36,7 @@ Any acquisition, merger, or consolidation of the kind described in section 1842(
 
 #### (e) Antitrust litigation; substantive law applicable to proceedings pending on or after July 1, 1966, with respect to merger transactions
 
-Any court having pending before it on or after July 1, 1966, any litigation initiated under the antitrust laws by the Attorney General with respect to any acquisition, merger, or consolidation of the kind described in section 1842(a) of this title shall apply the substantive rule of law set forth in section 1842 of this title.
+Any court having pending before it on or after July 1, 1966, any litigation initiated under theantitrust laws by the Attorney General with respect to any acquisition, merger, or consolidation of the kind described in section 1842(a) of this title shall apply the substantive rule of law set forth in section 1842 of this title.
 
 #### (f) "Antitrust laws" defined
 

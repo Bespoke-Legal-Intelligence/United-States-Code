@@ -20,7 +20,7 @@ To assist targeted assistance schools and local educational agencies to meet the
 
 &emsp;&emsp;&emsp;(ii) a schoolwide tiered model to prevent and address behavior problems, and early intervening services, coordinated with similar activities and services carried out under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
-&emsp;&emsp;(C) coordinating with and supporting the regular education program, which may include services to assist preschool children in the transition from early childhood education programs such as Head Start, the literacy program under subpart 2 of part B ofsubchapter II, or State-run preschool programs to elementary school programs;
+&emsp;&emsp;(C) coordinating with and supporting the regular education program, which may include services to assist preschool children in the transition from early childhood education programs such as Head Start, the literacy program under subpart 2 of part B of subchapter II, or State-run preschool programs to elementary school programs;
 
 &emsp;&emsp;(D) providing professional development with resources provided under this part, and, to the extent practicable, from other sources, to teachers, principals, other school leaders, paraprofessionals, and, if appropriate, specialized instructional support personnel, and other school personnel who work with eligible children in programs under this section or in the regular education program;
 
@@ -64,7 +64,7 @@ To assist targeted assistance schools and local educational agencies to meet the
 
 #### (C) Migrant children
 
-&emsp;&emsp;A child who, at any time in the 2 years preceding the year for which the determination is made, received services under part C of this subchapter is eligible for services under this part.
+&emsp;&emsp;A child who, at any time in the 2 years preceding the year for which the determination is made, received services under part C is eligible for services under this part.
 
 #### (D) Neglected or delinquent children
 

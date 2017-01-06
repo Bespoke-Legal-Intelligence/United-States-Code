@@ -26,7 +26,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(iv) separately, with respect to each plan year, the net loss (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 15 plan years,
 
-&emsp;&emsp;(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for each prior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
+&emsp;&emsp;(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for eachprior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
 
 &emsp;&emsp;(D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under section 1082(b)(3)(D) of this title (as in effect on the day before August 17, 2006), and
 
@@ -86,7 +86,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (C) Plan payments to supplemental program or withdrawal liability payment fund
 
-&emsp;&emsp;Any amount paid by a plan during a plan year to the Pension Benefit Guaranty Corporation pursuant to section 1402 of this title or to a fund exempt under section 501(c)(22) of title 26 pursuant to section 1403 of this title shall reduce the amount of contributions considered received by the plan for the plan year.
+&emsp;&emsp;Any amount paid by a plan during a plan year to the Pension Benefit Guaranty Corporation pursuant to section 1402 of this title or to a fund exempt under section 501(c)(22) of title 26 pursuant to section 1403of this title shall reduce the amount of contributions considered received by the plan for the plan year.
 
 #### (D) Interim withdrawal liability payments
 
@@ -144,7 +144,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may change its asset valuation method in a manner which—
 
-&emsp;&emsp;&emsp;&emsp;(I) spreads the difference between expected and actual returns for either orboth of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
+&emsp;&emsp;&emsp;&emsp;(I) spreads the difference between expected and actual returns for either or both of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
 
 &emsp;&emsp;&emsp;&emsp;(II) provides that for either or both of the first 2 plan years beginning after August 31, 2008, the value of plan assets at any time shall not be less than 80 percent or greater than 130 percent of the fair market value of such assets at such time, or
 
@@ -160,7 +160,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (iii) Amortization of reduction in unfunded accrued liability
 
-&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the planshall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
 
 #### (C) Solvency test
 
@@ -306,7 +306,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review anytables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -322,7 +322,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period endingon the last day before the beginning of the plan year.
 
 #### (II) Secretarial authority
 
@@ -454,7 +454,7 @@ Amendment by section 108(a)(3)(B) of Pub. L. 113–235 applicable with respect t
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–192 effective as of the first day of the first plan year ending after Aug. 31, 2008, with certain exceptions, see section 211(b) of Pub. L.111–192, set out as a note under section 431 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 111–192 effective as of the first day of the first plan year ending after Aug. 31, 2008, with certain exceptions, see section 211(b) of Pub. L. 111–192, set out as a note under section 431 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 
@@ -474,7 +474,7 @@ Criteria.—A multiemployer pension plan meets the criteria of this clause if—
 
 &emsp;"(A) the plan has not adopted, or ceased using, the shortfall funding method during the 5-year period ending on the day before the date the plan is to use the method under paragraph (1); and
 
-&emsp;"(B) the plan is not operating under an amortization period extension under section 304(d) of such Act \[29 U.S.C. 1084(d)\] and did not operate under such an extension during such 5-year period.
+&emsp;"(B) the plan is not operating under an amortization period extension under section 304(d) of such Act\[29 U.S.C. 1084(d)\] and did not operate under such an extension during such 5-year period.
 
 "(3)
 

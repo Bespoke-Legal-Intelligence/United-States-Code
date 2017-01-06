@@ -24,7 +24,7 @@ Cost effective.—The term "cost effective" means costing no more than the avail
 
 &emsp;(5)
 
-Launch.—The term "launch" means to place, or attempt to place, a launch vehicleand its payload, if any, in a suborbital trajectory, in Earth orbit in outer space, or otherwise in outer space.
+Launch.—The term "launch" means to place, or attempt to place, a launch vehicle and its payload, if any, in a suborbital trajectory, in Earth orbit in outer space, or otherwise in outer space.
 
 &emsp;(6)
 

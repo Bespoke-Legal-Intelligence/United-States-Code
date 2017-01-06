@@ -2,15 +2,15 @@
 
 #### (a) Requirements of State eligibility systems
 
-In order to meet the requirements of this section, a State must have in effect an income and eligibility verification system which meets the requirements of subsection (d) of this section and under which—
+In order to meet the requirements of this section, a State must have in effect an income and eligibility verification system which meets the requirements of subsection (d) and under which—
 
-&emsp;(1) the State shall require, as a condition of eligibility for benefits under any program listed in subsection (b) of this section, that each applicant for or recipient of benefits under that program furnish to the State his social security account number (or numbers, if he has more than one such number), and the State shall utilize such account numbers in the administration of that program so as to enable the association of the records pertaining to the applicant or recipient with his account number;
+&emsp;(1) the State shall require, as a condition of eligibility for benefits under any program listed in subsection (b), that each applicant for or recipient of benefits under that program furnish to the State his social security account number (or numbers, if he has more than one such number), and the State shall utilize such account numbers in the administration of that program so as to enable the association of the records pertaining to the applicant or recipient with his account number;
 
-&emsp;(2) wage information from agencies administering State unemployment compensation laws available pursuant to section 3304(a)(16) of the Internal Revenue Code of 1986, wage information reported pursuant to paragraph (3) of this subsection, and wage, income, and other information from the Social Security Administration and the Internal Revenue Service available pursuant to section 6103(l)(7) of such Code, shall be requested and utilized to the extent that such information may be useful in verifying eligibility for, and the amount of, benefits available under any program listed in subsection (b) of this section, as determined by the Secretary of Health and Human Services (or, in the case of the unemployment compensation program, by the Secretary of Labor, or, in the case of the supplemental nutrition assistance program, by the Secretary of Agriculture);
+&emsp;(2) wage information from agencies administering State unemployment compensation laws available pursuant to section 3304(a)(16) of the Internal Revenue Code of 1986, wage information reported pursuant to paragraph (3) of this subsection, and wage, income, and other information from the Social Security Administration and the Internal Revenue Service available pursuant to section 6103(l)(7) of such Code, shall be requested and utilized to the extent that such information may be useful in verifying eligibility for, and the amount of, benefits available under any program listed in subsection (b), as determined by the Secretary of Health and Human Services (or, in the case of the unemployment compensation program, by the Secretary of Labor, or, in the case of the supplemental nutrition assistance program, by the Secretary of Agriculture);
 
 &emsp;(3) employers (as defined in section 653a(a)(2)(B) of this title) (including State and local governmental entities and labor organizations) in such State are required, effective September 30, 1988, to make quarterly wage reports to a State agency (which may be the agency administering the State's unemployment compensation law) except that the Secretary of Labor (in consultation with the Secretary of Health and Human Services and the Secretary of Agriculture) may waive the provisions of this paragraph if he determines that the State has in effect an alternative system which is as effective and timely for purposes of providing employment related income and eligibility data for the purposes described in paragraph (2), and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis;
 
-&emsp;(4) the State agencies administering the programs listed in subsection (b) of this section adhere to standardized formats and procedures established by the Secretary of Health and Human Services (in consultation with the Secretary of Agriculture) under which—
+&emsp;(4) the State agencies administering the programs listed in subsection (b) adhere to standardized formats and procedures established by the Secretary of Health and Human Services (in consultation with the Secretary of Agriculture) under which—
 
 &emsp;&emsp;(A) the agencies will exchange with each other information in their possession which may be of use in establishing or verifying eligibility or benefit amounts under any other such program;
 
@@ -22,7 +22,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the information exchanged by the State agencies is made available only to the extent necessary to assist in the valid administrative needs of the program receiving such information, and the information released pursuant to section 6103(l) of the Internal Revenue Code of 1986 is only exchanged with agencies authorized to receive such information under such section 6103(l); and
 
-&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the supplemental nutrition assistance program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(l) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
+&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the supplemental nutrition assistance program, theSecretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(l) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
 
 &emsp;(6) all applicants for and recipients of benefits under any such program shall be notified at the time of application, and periodically thereafter, that information available through the system will be requested and utilized; and
 
@@ -44,7 +44,7 @@ The programs which must participate in the income and eligibility verification s
 
 #### (c) Protection of applicants from improper use of information
 
-(1) In order to protect applicants for and recipients of benefits under the programs identified in subsection (b) of this section, or under the supplemental security income program under subchapter XVI of this chapter, from the improper use of information obtained from the Secretary of the Treasury under section 6103(l)(7)(B) of the Internal Revenue Code of 1986, no Federal, State, or local agency receiving such information may terminate, deny, suspend, or reduce any benefits of an individual until such agency has taken appropriate steps to independently verify information relating to—
+(1) In order to protect applicants for and recipients of benefits under the programs identified in subsection (b), or under the supplemental security income program under subchapter XVI, from the improper use of information obtained from the Secretary of the Treasury under section 6103(l)(7)(B) of the Internal Revenue Code of 1986, no Federal, State, or local agency receiving such information may terminate, deny, suspend, or reduce any benefits of an individual until such agency has taken appropriate steps to independently verify information relating to—
 
 &emsp;(A) the amount of the asset or income involved,
 
@@ -58,7 +58,7 @@ The programs which must participate in the income and eligibility verification s
 
 The requirements of this subsection, with respect to an income and eligibility verification system of a State, are as follows:
 
-&emsp;(1)(A) The State shall require, as a condition of an individual's eligibility for benefits under a program listed in subsection (b) of this section, a declaration in writing, under penalty of perjury—
+&emsp;(1)(A) The State shall require, as a condition of an individual's eligibility for benefits under a program listed in subsection (b), a declaration in writing, under penalty of perjury—
 
 &emsp;&emsp;(i) by the individual,
 
@@ -68,7 +68,7 @@ The requirements of this subsection, with respect to an income and eligibility v
 
 > &emsp;stating whether the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status.
 
-&emsp;(B) In this subsection, in the case of the program described in subsection (b)(4) of this section—
+&emsp;(B) In this subsection, in the case of the program described in subsection (b)(4)—
 
 &emsp;&emsp;(i) any reference to the State shall be considered a reference to the State agency, and
 
@@ -112,19 +112,19 @@ The requirements of this subsection, with respect to an income and eligibility v
 
 #### (e) Erroneous State citizenship or immigration status determinations; penalties not required
 
-Each Federal agency responsible for administration of a program described in subsection (b) of this section shall not take any compliance, disallowance, penalty, or other regulatory action against a State with respect to any error in the State's determination to make an individual eligible for benefits based on citizenship or immigration status—
+Each Federal agency responsible for administration of a program described in subsection (b) shall not take any compliance, disallowance, penalty, or other regulatory action against a State with respect to any error in the State's determination to make an individual eligible for benefits based on citizenship or immigration status—
 
 &emsp;(1) if the State has provided such eligibility based on a verification of satisfactory immigration status by the Immigration and Naturalization Service,
 
-&emsp;(2) because the State, under subsection (d)(4)(A)(ii) of this section, was required to provide a reasonable opportunity to submit documentation,
+&emsp;(2) because the State, under subsection (d)(4)(A)(ii), was required to provide a reasonable opportunity to submit documentation,
 
-&emsp;(3) because the State, under subsection (d)(4)(B)(ii) of this section, was required to wait for the response of the Immigration and Naturalization Service to the State's request for official verification of the immigration status of the individual, or
+&emsp;(3) because the State, under subsection (d)(4)(B)(ii), was required to wait for the response of the Immigration and Naturalization Service to the State's request for official verification of the immigration status of the individual, or
 
-&emsp;(4) because of a fair hearing process described in subsection (d)(5)(B) of this section.
+&emsp;(4) because of a fair hearing process described in subsection (d)(5)(B).
 
 #### (f) Medical assistance to aliens for treatment of emergency conditions
 
-Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
+Subsections (a)(1) and (d) shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–79, title IV, §4030(q), Feb. 7, 2014, 128 Stat. 815.)
 
@@ -152,11 +152,11 @@ Subsec. (b)(4). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted "su
 
 Pub. L. 106–170, §405(b)(1), which directed striking out "(as defined in section 653a(a)(2)(B)(iii) of this title)" after "labor organizations", was executed by striking "(as defined in section 653a(a)(2)(B)(ii) of this title)" to reflect the probable intent of Congress and the amendment by Pub. L. 106–169.
 
-Pub. L. 106–170, §405(a), inserted before semicolon at end: ", and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis".
+Pub. L. 106–170, §405(a), inserted before semicolon at end: ", and except that in the case of wage reports withrespect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis".
 
 Pub. L. 106–169, substituted "653a(a)(2)(B)(ii) of this title))" for "653a(a)(2)(B)(iii) of this title)". See Effective Date of 1999 Amendment note below.
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted "(including State and local governmental entities andlabor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)" after "employers" and ", and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission" before semicolon at end.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted "(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)" after "employers" and ", and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission" before semicolon at end.
 
 Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: "the aid to families with dependent children program under part A of subchapter IV of this chapter;".
 
@@ -168,7 +168,7 @@ Subsec. (d)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amen
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–360 added subsec. (f).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–603, §121(a)(1)(A), inserted "which meets the requirements of subsection (d) of this section and" after "system" in introductory text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–603, §121(a)(1)(A), inserted "which meets the requirements of subsection (d) and" after "system" in introductory text.
 
 Subsec. (a)(2), (4)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
@@ -274,7 +274,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;"(VI) The programs of financial assistance for housing subject to section 214 of the Housing and Community Development Act of 1980 \[42 U.S.C. 1436a\].
 
-&emsp;&emsp;&emsp;"(VII) The program of grants, loans, and work assistance under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\].
+&emsp;&emsp;&emsp;"(VII) The program of grants, loans, and work assistance under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\].
 
 &emsp;&emsp;"(ii) The term 'appropriate Secretary' means, with respect to the covered program described in—
 
@@ -318,7 +318,7 @@ Pub. L. 99–603, title I, §121(c)(1), Nov. 6, 1986, 100 Stat. 3391, provided t
 
 #### General Accounting Office Reports
 
-Pub. L. 99–603, title I, §121(d), Nov. 6, 1986, 100 Stat. 3393, directed Comptroller General to examine current pilot projects relating to the System for Alien Verification of Eligibility (SAVE) operated by, or through cooperative agreements with, the Immigration and Naturalization Service, and report, not later than Oct. 1, 1987, to Congress and to Commissioner of Immigration and Naturalization Service concerning the effectiveness of such projects and any problems with the implementation of such projects, particularly as they may apply to implementation of the system, with Comptroller General to monitor and analyze the implementation of such system, report to Congress and to the appropriate Secretaries, by not later than Apr. 1, 1989, on such implementation, and include in such report recommendations for appropriate changes in the system.
+Pub. L. 99–603, title I, §121(d), Nov. 6, 1986, 100 Stat. 3393, directed Comptroller General to examine currentpilot projects relating to the System for Alien Verification of Eligibility (SAVE) operated by, or through cooperative agreements with, the Immigration and Naturalization Service, and report, not later than Oct. 1, 1987, to Congress and to Commissioner of Immigration and Naturalization Service concerning the effectiveness of such projects and any problems with the implementation of such projects, particularly as they may apply to implementation of the system, with Comptroller General to monitor and analyze the implementation of such system, report to Congress and to the appropriate Secretaries, by not later than Apr. 1, 1989, on such implementation, and include in such report recommendations for appropriate changes in the system.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

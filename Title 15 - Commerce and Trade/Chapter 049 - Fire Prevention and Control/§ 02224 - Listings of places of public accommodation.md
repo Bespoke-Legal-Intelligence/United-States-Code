@@ -2,7 +2,7 @@
 
 #### (a) Submissions by States
 
-(1) Not later than 2 years after September 25, 1990, each State (acting through its Governor or the Governor's designee) shall, under procedures formulated by the Administrator of FEMA, submit to the Administrator of FEMA a list of those places of public accommodation affectingcommerce located in the State which meet the requirements of the guidelines described in section 2225 of this title.
+(1) Not later than 2 years after September 25, 1990, each State (acting through its Governor or the Governor's designee) shall, under procedures formulated by the Administrator of FEMA, submit to the Administrator of FEMA a list of those places of public accommodation affecting commerce located in the State which meet the requirements of the guidelines described in section 2225 of this title.
 
 (2) The Administrator of FEMA shall formulate procedures under which each State (acting through its Governor or the Governor's designee) shall periodically update the list submitted pursuant to paragraph (1).
 
@@ -28,5 +28,5 @@ Subsec. (a). Pub. L. 102–522, §104(2), inserted "(acting through its Governor
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

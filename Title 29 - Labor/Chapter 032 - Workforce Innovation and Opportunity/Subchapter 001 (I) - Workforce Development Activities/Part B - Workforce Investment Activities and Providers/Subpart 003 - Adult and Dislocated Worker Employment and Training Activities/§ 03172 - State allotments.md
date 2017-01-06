@@ -36,7 +36,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, compared to the total number of unemployed individuals in areas of substantial unemployment in all States;
 
-&emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State, compared to the total excess number of unemployed individuals in all States; and
+&emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State,compared to the total excess number of unemployed individuals in all States; and
 
 &emsp;&emsp;&emsp;&emsp;(III) 331/3 percent shall be allotted on the basis of the relative number of disadvantaged adults in each State, compared to the total number of disadvantaged adults in all States, except as described in clause (iii).
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (VII) Low-income level
 
-&emsp;&emsp;&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amountthat bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (2) Dislocated worker employment and training activities
 
@@ -150,7 +150,7 @@ The Secretary shall—
 
 #### (II) Maximum percentage
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receivean allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (iv) Definitions
 

@@ -24,7 +24,7 @@ The Commission shall further develop a National Action Plan on Demand Response, 
 
 #### (c) Implementation of Plan
 
-Upon completion, the National Action Plan on Demand Response shall be published, together with any favorable and dissenting commentssubmitted by participants in its preparation. Six months after publication, the Commission, together with the Secretary of Energy, shall submit to Congress a proposal to implement the Action Plan, including specific proposed assignments of responsibility, proposed budget amounts, and any agreements secured for participation from State and other participants.
+Upon completion, the National Action Plan on Demand Response shall be published, together with any favorable and dissenting comments submitted by participants in its preparation. Six months after publication, the Commission, together with the Secretary of Energy, shall submit to Congress a proposal to implement the Action Plan, including specific proposed assignments of responsibility, proposed budget amounts, and any agreements secured for participation from State and other participants.
 
 #### (d) Authorization
 

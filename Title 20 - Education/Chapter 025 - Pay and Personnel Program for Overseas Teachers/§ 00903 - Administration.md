@@ -38,7 +38,7 @@ Subsec. (b)(1). Pub. L. 105–85, §1073(c)(9)(C), made technical correction to 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §1606(b)(1)(B), substituted "the Department of Defense" for "his military department".
 
-Pub. L. 104–201, §1606(b)(1)(A), as amended by Pub. L. 105–85, §1073(c)(9)(B), substituted "Secretary of Defenseshall" for "secretary of each military department in the Department of Defense shall".
+Pub. L. 104–201, §1606(b)(1)(A), as amended by Pub. L. 105–85, §1073(c)(9)(B), substituted "Secretary of Defense shall" for "secretary of each military department in the Department of Defense shall".
 
 Subsec. (b). Pub. L. 104–201, §1606(b)(2)(A), substituted "Secretary of Defense—" for "secretary of each military department—" in introductory provisions.
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 89–391, §1(c), inserted provisions designated as subsec.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made bythat section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Effective Date of 1966 Amendment
 

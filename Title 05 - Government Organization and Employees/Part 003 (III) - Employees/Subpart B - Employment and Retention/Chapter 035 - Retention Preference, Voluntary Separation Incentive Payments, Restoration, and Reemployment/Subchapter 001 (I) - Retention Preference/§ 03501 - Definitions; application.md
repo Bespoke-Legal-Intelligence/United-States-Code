@@ -60,7 +60,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 inserted reference to a member of Senior Executive Service.
 
-<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out ", except an employee whose appointment is made under section3311 of title 39" after "or made with the advice and consent of, the Senate".
+<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out ", except an employee whose appointment is made under section 3311 of title 39" after "or made with the advice and consent of, the Senate".
 
 #### Effective Date of 1978 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If requested by a non-Federal interest, the Secretary shall carry out a locally preferred plan that provides a higher level of protection than a flood risk management project authorized under this Act if the Secretary determines that—
+If requested by a non-Federal interest, the Secretary shall carry out a locally preferredplan that provides a higher level of protection than a flood risk management project authorized under this Act if the Secretary determines that—
 
 &emsp;(1) the plan is technically feasible and environmentally acceptable; and
 

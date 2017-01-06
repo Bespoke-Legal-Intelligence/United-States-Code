@@ -16,7 +16,7 @@ Before suit against the United States Government has been instituted, the head o
 
 #### (c) Drug products manufactured outside the United States
 
-Funds appropriated pursuant to this chapter shall not be expended by the United States Government for the acquisition of any drug product or pharmaceutical product manufactured outside the United States if the manufacture of such drug product or pharmaceutical product in the United States would involve the use of, or be covered by, an unexpired patent of the United States which has not previously been held invalid by an unappealed or unappealable judgment or decree of a court of competent jurisdiction, unless such manufacture is expressly authorized by the owner of such patent.
+Funds appropriated pursuant to this chapter shall not be expended by the United States Government for the acquisition of any drug product or pharmaceutical product manufactured outside the United States if the manufacture of such drug product or pharmaceutical product in the United States would involve the use of, or becovered by, an unexpired patent of the United States which has not previously been held invalid by an unappealed or unappealable judgment or decree of a court of competent jurisdiction, unless such manufacture is expressly authorized by the owner of such patent.
 
 (Pub. L. 87–195, pt. III, §606, Sept. 4, 1961, 75 Stat. 440; Pub. L. 97–164, title I, §160(a)(6), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

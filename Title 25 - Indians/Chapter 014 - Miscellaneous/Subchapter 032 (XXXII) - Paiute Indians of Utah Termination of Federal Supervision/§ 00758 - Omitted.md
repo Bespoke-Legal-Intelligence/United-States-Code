@@ -1,0 +1,6 @@
+### §758. Omitted
+
+#### Codification
+
+Section, act Sept. 1, 1954, ch. 1207, §18, 68 Stat. 1104, which provided for revocation of corporate charter and termination of Federal power effective on the date of the proclamation, was omitted from the Code as being of special and not general application.
+

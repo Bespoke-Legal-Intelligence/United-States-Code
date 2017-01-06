@@ -36,13 +36,13 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (2) Treated as facility for excess liability
 
-&emsp;To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1) of this section), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3) of this section, the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+&emsp;To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
 
 #### (c) Exceptions
 
 #### (1) Acts of responsible party
 
-&emsp;Subsection (a) of this section does not apply if the incident was proximately caused by—
+&emsp;Subsection (a) does not apply if the incident was proximately caused by—
 
 &emsp;&emsp;(A) gross negligence or willful misconduct of, or
 
@@ -52,7 +52,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (2) Failure or refusal of responsible party
 
-&emsp;Subsection (a) of this section does not apply if the responsible party fails or refuses—
+&emsp;Subsection (a) does not apply if the responsible party fails or refuses—
 
 &emsp;&emsp;(A) to report the incident as required by law and the responsible party knows or has reason to know of the incident;
 
@@ -62,11 +62,11 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (3) OCS facility or vessel
 
-&emsp;Notwithstanding the limitations established under subsection (a) of this section and the defenses of section 2703 of this title, all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
+&emsp;Notwithstanding the limitations established under subsection (a) and the defenses of section 2703 of this title, all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
 
 #### (4) Certain tank vessels
 
-&emsp;Subsection (a)(1) of this section shall not apply to—
+&emsp;Subsection (a)(1) shall not apply to—
 
 &emsp;&emsp;(A) a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title; and
 
@@ -94,7 +94,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (3) Periodic reports
 
-&emsp;The President shall, within 6 months after August 18, 1990, and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a) of this section.
+&emsp;The President shall, within 6 months after August 18, 1990, and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a).
 
 #### (4) Adjustment to reflect Consumer Price Index
 
@@ -124,7 +124,7 @@ Pub. L. 111–281, §903(a)(2), made technical amendment to directory language o
 
 Subsec. (a)(2). Pub. L. 109–241, §603(a)(2), as amended by Pub. L. 111–281, §903(a)(2), substituted "$950 per gross ton" for "$600 per gross ton" and "$800,000," for "$500,000".
 
-Subsec. (d)(4). Pub. L. 109–241, §603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index."
+Subsec. (d)(4). Pub. L. 109–241, §603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) to reflect significant increases in the Consumer Price Index."
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–383, §406(1), substituted comma for "(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)" after "tank vessel".
 
@@ -146,7 +146,7 @@ For delegation of functions of President under subsec. (d) of this section, see 
 
 #### Report
 
-Pub. L. 109–241, title VI, §603(c), July 11, 2006, 120 Stat. 554, provided that:
+Pub. L. 109–241, title VI, §603(c), July 11, 2006, 120 Stat. 554, as amended by Pub. L. 114–120, title VI, §601(b), Feb. 8, 2016, 130 Stat. 79, provided that:
 
 "(1)
 
@@ -164,7 +164,7 @@ Contents.—The report shall include, at a minimum, the following:
 
 "(3)
 
-Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) on an annual basis."
+Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701)) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 (33 U.S.C. 2704)."
 
 <i><sup>2</sup></i><i> So in original. The word "this" probably should not appear.</i>
 

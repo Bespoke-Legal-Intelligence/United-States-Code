@@ -2,7 +2,7 @@
 
 The Congress authorizes and directs that, to the fullest extent possible: (1) the policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in this chapter, and (2) all agencies of the Federal Government shall—
 
-&emsp;(A) utilize a systematic, interdisciplinary approach which will insure the integrated useof the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man's environment;
+&emsp;(A) utilize a systematic, interdisciplinary approach which will insure the integrated use of the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man's environment;
 
 &emsp;(B) identify and develop methods and procedures, in consultation with the Council on Environmental Quality established by subchapter II of this chapter, which will insure that presently unquantified environmental amenities and values may be given appropriate consideration in decisionmaking along with economic and technical considerations;
 

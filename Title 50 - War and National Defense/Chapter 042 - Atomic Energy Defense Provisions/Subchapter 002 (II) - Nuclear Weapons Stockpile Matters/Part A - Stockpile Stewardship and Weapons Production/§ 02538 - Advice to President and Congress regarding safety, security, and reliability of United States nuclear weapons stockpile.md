@@ -34,7 +34,7 @@ In addition to a director of a national security laboratory or a nuclear weapons
 
 #### (1) In general
 
-&emsp;No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the NuclearWeapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
+&emsp;No individual, including a representative of the President, may take any action against, or otherwise constrain, a director of a national security laboratory or a nuclear weapons production facility, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command from presenting the professional views of the director, member, or Commander, as the case may be, to the President, the National Security Council, or Congress regarding—
 
 &emsp;&emsp;(A) the safety, security, reliability, or credibility of the nuclear weapons stockpile and nuclear forces; or
 

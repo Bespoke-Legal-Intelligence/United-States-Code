@@ -44,3 +44,7 @@ Officers Below the Zone.—Officers on the reserve active-status list are consid
 
 <b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
+

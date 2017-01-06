@@ -40,7 +40,7 @@
 
 #### (C) 7:30 p.m. to 3:30 a.m. shiftwork
 
-&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium payamounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
+&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
 
 #### (2) Sunday differential
 
@@ -58,7 +58,7 @@
 
 #### (1) Fiscal year cap
 
-&emsp;The aggregate of overtime pay under subsection (a) (including commuting compensation under subsection (a)(2)(B)) and premium pay under subsection (b) that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
+&emsp;The aggregate of overtime pay under subsection (a) (including commuting compensation under subsection (a)(2)(B)) and premium pay under subsection (b) that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of U.S. Customs and Border Protection or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
 
 #### (2) Exclusivity of pay under this section
 
@@ -80,7 +80,7 @@ As used in this section:
 
 &emsp;(2) The term "holiday" means any day designated as a holiday under a Federal statute or Executive order.
 
-(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316, June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.)
+(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316, June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Codification
 
@@ -94,6 +94,10 @@ Prior to the general revision of section 5 of act Feb. 13, 1911, by section 1381
 
 <b>1970</b>—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector of customs wherever appearing, and struck out reference to inspectors, storekeepers, weighers, and other customs officers and employees.
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (c)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1993 Amendment
 
 Pub. L. 103–66, title XIII, §13811(c), Aug. 10, 1993, 107 Stat. 670, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1450 of this title, repealing section 1451a of this title, and omitting provisions formerly set out as section 261 of this title\] apply to customs inspectional services provided on or after January 1, 1994."
@@ -104,7 +108,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, were under Department of the Treasury.
 

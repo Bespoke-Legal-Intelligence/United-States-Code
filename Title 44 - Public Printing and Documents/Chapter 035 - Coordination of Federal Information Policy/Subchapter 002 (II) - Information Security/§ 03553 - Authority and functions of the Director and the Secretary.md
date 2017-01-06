@@ -18,7 +18,7 @@ Director.—The Director shall oversee agency information security policies and 
 
 &emsp;(5) overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303 of title 40, to enforce accountability for compliance with such requirements; and
 
-&emsp;(6) coordinating information security policies and procedures with related information resources management policies and procedures.
+&emsp;(6) coordinating information security policies and procedures with related informationresources management policies and procedures.
 
 (b)
 
@@ -86,19 +86,19 @@ Consideration.—
 
 &emsp;(1)
 
-In general.—In carrying out the responsibilities under subsection (b), the Secretary shall consider any applicable standards or guidelines developed by the National Institute of Standards and Technology and issued by the Secretary of Commerce under section 11331 of title 40.
+In general.—In carrying out the responsibilities under subsection (b), the Secretary shall consider any applicable standards or guidelines developed by the National Institute of Standards and Technology and issued by the Secretary of Commerce under section 11331 of title 40.<sup>1</sup>
 
 &emsp;(2)
 
 Directives.—The Secretary shall—
 
-&emsp;&emsp;(A) consult with the Director of the National Institute of Standards and Technology regarding any binding operational directive that implements standards and guidelines developed by the National Institute of Standards and Technology; and
+&emsp;&emsp;(A) consult with the Director of the National Institute of Standards and Technology regarding any binding operational directive that implements standards andguidelines developed by the National Institute of Standards and Technology; and
 
-&emsp;&emsp;(B) ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40.
+&emsp;&emsp;(B) ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40.<sup>1</sup>
 
 &emsp;(3)
 
-Rule of construction.—Nothing in this subchapter shall be construed as authorizing the Secretary to direct the Secretary of Commerce in the development and promulgation of standards and guidelines under section 11331 of title 40.
+Rule of construction.—Nothing in this subchapter shall be construed as authorizing the Secretary to direct the Secretary of Commerce in the development and promulgation of standards and guidelines under section 11331 of title 40.<sup>1</sup>
 
 (g)
 
@@ -210,6 +210,8 @@ Appropriate Congressional Committees Defined.—In this section, the term "appro
 
 #### References in Text
 
+Section 11331 of title 40, referred to in subsec. (f), was generally amended by both Pub. L. 107–347 and Pub. L. 107–296. As amended by Pub. L. 107–347, effective Dec. 17, 2002, section 11331 of title 40 provided for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems. See 2002 Amendment note under that section. As amended by Pub. L. 107–296, effective 60 days after Nov. 25, 2002, section 11331 of title 40 provided for the promulgation by the Director of the Office of Management and Budget of information security standards pertaining to Federal information systems.
+
 Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which is classified to section 151(b)(1) of Title 6, Domestic Security.
 
 #### Prior Provisions
@@ -275,4 +277,6 @@ Exception.—Any element of the intelligence community (as such term is defined 
 Rule of construction.—Nothing in paragraph (1) shall be construed to alter any authority of a Federal agency or department."
 
 Similar provisions were contained in Pub. L. 113–282, §7(b), Dec. 18, 2014, 128 Stat. 3071.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

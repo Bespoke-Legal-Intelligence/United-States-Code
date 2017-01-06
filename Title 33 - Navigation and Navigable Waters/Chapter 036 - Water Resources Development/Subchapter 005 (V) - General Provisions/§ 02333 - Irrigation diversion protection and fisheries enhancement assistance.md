@@ -6,7 +6,7 @@ The Secretary may provide technical planning and design assistance to non-Federa
 
 #### (b) Cooperation
 
-Measures under subsection (a) of this section—
+Measures under subsection (a)—
 
 &emsp;(1) shall be developed in cooperation with Federal and State resource agencies; and
 
@@ -14,7 +14,7 @@ Measures under subsection (a) of this section—
 
 #### (c) Priority
 
-In providing assistance under subsection (a) of this section, the Secretary shall give priority based on—
+In providing assistance under subsection (a), the Secretary shall give priority based on—
 
 &emsp;(1) the objectives of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
@@ -26,7 +26,7 @@ In providing assistance under subsection (a) of this section, the Secretary shal
 
 #### (1) In general
 
-&emsp;The non-Federal share of the cost of measures under subsection (a) of this section shall be 50 percent.
+&emsp;The non-Federal share of the cost of measures under subsection (a) shall be 50 percent.
 
 #### (2) In-kind contributions
 

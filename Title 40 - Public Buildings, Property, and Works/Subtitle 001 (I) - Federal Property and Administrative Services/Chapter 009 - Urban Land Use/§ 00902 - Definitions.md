@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Unit of general local government.—The term "unit of general local government" means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
+Unit of general local government.—The term "unit of general local government"means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
 
 &emsp;(2)
 

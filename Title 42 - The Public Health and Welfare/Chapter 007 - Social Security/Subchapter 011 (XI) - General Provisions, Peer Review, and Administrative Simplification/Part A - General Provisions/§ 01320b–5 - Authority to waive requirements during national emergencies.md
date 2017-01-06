@@ -2,15 +2,15 @@
 
 #### (a) Purpose
 
-The purpose of this section is to enable the Secretary to ensure to the maximum extent feasible, in any emergency area and during an emergency period (as defined in subsection (g)(1) of this section)—
+The purpose of this section is to enable the Secretary to ensure to the maximum extent feasible, in any emergency area and during an emergency period (as defined in subsection (g)(1))—
 
-&emsp;(1) that sufficient health care items and services are available to meet the needs of individuals in such area enrolled in the programs under subchapters XVIII, XIX, and XXI of this chapter; and
+&emsp;(1) that sufficient health care items and services are available to meet the needs of individuals in such area enrolled in the programs under subchapters XVIII, XIX, and XXI; and
 
-&emsp;(2) that health care providers (as defined in subsection (g)(2) of this section) that furnish such items and services in good faith, but that are unable to comply with one or more requirements described in subsection (b) of this section, may be reimbursed for such items and services and exempted from sanctions for such noncompliance, absent any determination of fraud or abuse.
+&emsp;(2) that health care providers (as defined in subsection (g)(2)) that furnish such items and services in good faith, but that are unable to comply with one or more requirements described in subsection (b), may be reimbursed for such items and services and exempted from sanctions for such noncompliance, absent any determination of fraud or abuse.
 
 #### (b) Secretarial authority
 
-To the extent necessary to accomplish the purpose specified in subsection (a) of this section, the Secretary is authorized, subject to the provisions of this section, to temporarily waive or modify the application of, with respect to health care items and services furnished by a health care provider (or classes of health care providers) in any emergency area (or portion of such an area) during any portion of an emergency period, the requirements of subchapters XVIII, XIX, or XXI of this chapter, or any regulation thereunder (and the requirements of this subchapter other than this section, and regulations thereunder, insofar as they relate to such subchapters), pertaining to—
+To the extent necessary to accomplish the purpose specified in subsection (a), the Secretary is authorized, subject to the provisions of this section, to temporarily waive or modify the application of, with respect to health care items and services furnished by a health care provider (or classes of health care providers) in any emergency area (or portion of such an area) during any portion of an emergency period, the requirements of subchapters XVIII, XIX, or XXI, or any regulation thereunder (and the requirements of this subchapter other than this section, and regulations thereunder, insofar as they relate to such subchapters), pertaining to—
 
 &emsp;(1)(A) conditions of participation or other certification requirements for an individual health care provider or types of providers,
 
@@ -52,7 +52,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications.
 
-> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectiousdisease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
+> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation paymentit receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
 
 #### (c) Authority for retroactive waiver
 
@@ -72,7 +72,7 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 &emsp;&emsp;(D) the period of time for which the waiver or modification will be in effect; and
 
-&emsp;(2) a certification that the waiver or modification is necessary to carry out the purpose specified in subsection (a) of this section.
+&emsp;(2) a certification that the waiver or modification is necessary to carry out the purpose specified in subsection (a).
 
 #### (e) Duration of waiver
 
@@ -80,9 +80,9 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 &emsp;A waiver or modification of requirements pursuant to this section terminates upon—
 
-&emsp;&emsp;(A) the termination of the applicable declaration of emergency or disaster described in subsection (g)(1)(A) of this section;
+&emsp;&emsp;(A) the termination of the applicable declaration of emergency or disaster described in subsection (g)(1)(A);
 
-&emsp;&emsp;(B) the termination of the applicable declaration of public health emergency described in subsection (g)(1)(B) of this section; or
+&emsp;&emsp;(B) the termination of the applicable declaration of public health emergency described in subsection (g)(1)(B); or
 
 &emsp;&emsp;(C) subject to paragraph (2), the termination of a period of 60 days from the date the waiver or modification is first published (or, if applicable, the date of extension of the waiver or modification under paragraph (2)).
 
@@ -92,7 +92,7 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 #### (f) Report to Congress
 
-Within one year after the end of the emergency period in an emergency area in which the Secretary exercised the authority provided under this section, the Secretary shall report to the Congress regarding the approaches used to accomplish the purposes described in subsection (a) of this section, including an evaluation of such approaches and recommendations for improved approaches should the need for such emergency authority arise in the future.
+Within one year after the end of the emergency period in an emergency area in which the Secretary exercised the authority provided under this section, the Secretary shall report to the Congress regarding the approaches used to accomplish the purposes described in subsection (a), including an evaluation of such approaches and recommendations for improved approaches should the need for such emergency authority arise in the future.
 
 #### (g) Definitions
 
@@ -122,7 +122,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Prior Provisions
 
-A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(l)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
+A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L.100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(l)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
 
 #### Amendments
 

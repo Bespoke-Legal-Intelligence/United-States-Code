@@ -134,7 +134,7 @@ Subsec. (c)(3). Pub. L. 110–69, §7031(a)(2), added par. (3).
 
 Subsec. (a)(1). Pub. L. 107–368, §21(a)(2), inserted "and in core science and mathematics courses" after "advanced-technology fields".
 
-Subsec. (a)(2). Pub. L. 107–368, §21(a)(3), substituted "who provide instruction in science, mathematics, andadvanced-technology fields" for "in advanced-technology fields".
+Subsec. (a)(2). Pub. L. 107–368, §21(a)(3), substituted "who provide instruction in science, mathematics, and advanced-technology fields" for "in advanced-technology fields".
 
 Subsec. (c)(1)(B)(iii), (iv). Pub. L. 107–368, §21(b), added cls. (iii) and (iv).
 

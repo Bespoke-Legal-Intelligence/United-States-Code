@@ -60,7 +60,7 @@ Independent Right of Recovery.—(1) In accordance with regulations prescribed b
 
 (3) Any amount paid by the United States to the provider that furnished the veteran's emergency treatment shall constitute a lien against any subsequent amount the provider receives from a third party for the same emergency treatment for which the United States made payment.
 
-(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documentsrelating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
+(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
 
 (e)
 
@@ -90,7 +90,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(A) An insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar arrangement under which health services for individuals are provided or the expenses of such services are paid.
 
-&emsp;&emsp;(B) An insurance program described in section 1811 of the Social Security Act (42 U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
+&emsp;&emsp;(B) An insurance program described in section 1811 of the Social Security Act (42U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
 
 &emsp;&emsp;(C) A State plan for medical assistance approved under title XIX of such Act (42 U.S.C. 1396 et seq.).
 

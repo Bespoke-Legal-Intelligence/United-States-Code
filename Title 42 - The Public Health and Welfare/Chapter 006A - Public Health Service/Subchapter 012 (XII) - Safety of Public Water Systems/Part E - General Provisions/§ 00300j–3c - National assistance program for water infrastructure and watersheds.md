@@ -2,11 +2,11 @@
 
 #### (a) Technical and financial assistance
 
-The Administrator of the Environmental Protection Agency may provide technical and financial assistance in the form of grants to States (1) for the construction, rehabilitation, and improvement of water supply systems, and (2) consistent with nonpoint source management programs established under section 1329 of title 33, for source water quality protection programs to address pollutants in navigable waters for thepurpose of making such waters usable by water supply systems.
+The Administrator of the Environmental Protection Agency may provide technical and financial assistance in the form of grants to States (1) for the construction, rehabilitation, and improvement of water supply systems, and (2) consistent with nonpoint source management programs established under section 1329 of title 33, for source water quality protection programs to address pollutants in navigable waters for the purpose of making such waters usable by water supply systems.
 
 #### (b) Limitation
 
-Not more than 30 percent of the amounts appropriated to carry out this section in a fiscal year may be used for source water quality protection programs described in subsection (a)(2) of this section.
+Not more than 30 percent of the amounts appropriated to carry out this section in a fiscal year may be used for source water quality protection programs described in subsection (a)(2).
 
 #### (c) Condition
 
@@ -40,7 +40,7 @@ In this section, the following definitions apply:
 
 #### (2) Water supply system
 
-&emsp;The term "water supply system" means a system for the provision to the public of piped water for human consumption if such system has at least 15 service connections or regularly serves at least 25 individuals and a draw and fill system for the provision to the public of water for human consumption. Such term does not include a system owned by a Federal agency. Such term includes (A) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (B) any collection or pretreatment facilities not under such control that are used primarily in connection with such system.
+&emsp;The term "water supply system" means a system for the provision to the public of pipedwater for human consumption if such system has at least 15 service connections or regularly serves at least 25 individuals and a draw and fill system for the provision to the public of water for human consumption. Such term does not include a system owned by a Federal agency. Such term includes (A) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (B) any collection or pretreatment facilities not under such control that are used primarily in connection with such system.
 
 (Pub. L. 104–182, title IV, §401, Aug. 6, 1996, 110 Stat. 1690.)
 

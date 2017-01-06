@@ -132,7 +132,7 @@ Such order shall provide for the imposition and collection of assessments with r
 
 #### (4) Importers
 
-&emsp;The assessment on imported limes shall be paid by the importer at the time of entry intothe United States and shall be remitted to the Board.
+&emsp;The assessment on imported limes shall be paid by the importer at the time of entry into the United States and shall be remitted to the Board.
 
 #### (5) De minimis exception
 
@@ -200,7 +200,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 &emsp;So that information and data will be available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this chapter (or any order or regulation issued under this chapter), such order shall require handlers, producer-handlers, and importers who are responsible for the collection, payment, or remittance of assessments under subsection (d)—
 
-&emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
+&emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board andthe Secretary such books and records as may be required by the order; and
 
 &emsp;&emsp;(B) to file, at the times, in the manner, and having the content prescribed by the order, reports regarding the collection, payment, or remittance of such assessments.
 
@@ -222,7 +222,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
-(Pub. L. 101–624, title XIX, §1955, Nov. 28, 1990, 104 Stat. 3872; Pub. L. 102–237, title VIII, §805(1),Dec. 13, 1991, 105 Stat. 1882; Pub. L. 103–194, §4, Dec. 14, 1993, 107 Stat. 2295.)
+(Pub. L. 101–624, title XIX, §1955, Nov. 28, 1990, 104 Stat. 3872; Pub. L. 102–237, title VIII, §805(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 103–194, §4, Dec. 14, 1993, 107 Stat. 2295.)
 
 #### Amendments
 

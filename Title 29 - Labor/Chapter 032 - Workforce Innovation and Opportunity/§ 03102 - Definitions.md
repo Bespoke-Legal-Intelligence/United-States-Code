@@ -168,7 +168,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;The term "in-demand industry sector or occupation" means—
 
-&emsp;&emsp;&emsp;(i) an industry sector that has a substantial current or potential impact (includingthrough jobs that lead to economic self-sufficiency and opportunities for advancement) on the State, regional, or local economy, as appropriate, and that contributes to the growth or stability of other supporting businesses, or the growth of other industry sectors; or
+&emsp;&emsp;&emsp;(i) an industry sector that has a substantial current or potential impact (including through jobs that lead to economic self-sufficiency and opportunities for advancement) on the State, regional, or local economy, as appropriate, and that contributes to the growth or stability of other supporting businesses, or the growth of other industry sectors; or
 
 &emsp;&emsp;&emsp;(ii) an occupation that currently has or is projected to have a number of positions (including positions that lead to economic self-sufficiency and opportunities for advancement) in an industry sector so as to have a significant impact on the State, regional, or local economy, as appropriate.
 
@@ -304,7 +304,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;&emsp;&emsp;(II) 70 percent of the lower living standard income level;
 
-&emsp;&emsp;&emsp;(iii) is a homeless individual (as defined in section 14043e–2(6) of title 42), or a homeless child or youth (as defined under section 11434a(2) of title 42);
+&emsp;&emsp;&emsp;(iii) is a homeless individual (as defined in section 14043e–2(6) of title 42), or ahomeless child or youth (as defined under section 11434a(2) of title 42);
 
 &emsp;&emsp;&emsp;(iv) receives or is eligible to receive a free or reduced price lunch under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.);
 
@@ -440,7 +440,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (58) State plan
 
-&emsp;The term "State plan", used without further description, means a unified State plan undersection 3112 of this title or a combined State plan under section 3113 of this title.
+&emsp;The term "State plan", used without further description, means a unified State plan under section 3112 of this title or a combined State plan under section 3113 of this title.
 
 #### (59) Supportive services
 

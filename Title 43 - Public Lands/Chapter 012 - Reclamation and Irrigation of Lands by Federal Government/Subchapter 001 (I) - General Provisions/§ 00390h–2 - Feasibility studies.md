@@ -16,7 +16,7 @@ In addition to the requirements of other Federal laws, feasibility studies condu
 
 &emsp;(2) all potential uses for reclaimed water;
 
-&emsp;(3) at least two alternative measures or technologies available for water reclamation, distribution, and reuse for the project under consideration;
+&emsp;(3) at least two alternative measures or technologies available for water reclamation,distribution, and reuse for the project under consideration;
 
 &emsp;(4) public health and environmental quality issues associated with use of reclaimed water;
 

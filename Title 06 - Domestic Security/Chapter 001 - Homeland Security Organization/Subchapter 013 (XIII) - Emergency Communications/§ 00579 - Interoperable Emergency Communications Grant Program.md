@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish the Interoperable Emergency Communications Grant Program to make grants to States to carry out initiatives to improve local, tribal, statewide, regional, national and, where appropriate, international interoperable emergency communications, including communications in collective response to natural disasters, acts of terrorism, and other man-made disasters.
+The Secretary shall establish the Interoperable Emergency Communications Grant Program to make grants to States to carry out initiatives to improve local, tribal, statewide, regional, national and, where appropriate, international interoperable emergency communications, including communications in collectiveresponse to natural disasters, acts of terrorism, and other man-made disasters.
 
 #### (b) Policy
 
@@ -144,7 +144,7 @@ Each State that receives a grant under this section shall certify that the grant
 
 #### (1) Annual reports by State grant recipients
 
-&emsp;A State that receives a grant under this section shall annually submit to the Director of Emergency Communications a report on the progress of the State in implementing that State's Statewide Interoperable Communications Plans required under section 194(f) of this title and achieving interoperability at the city, county, regional, State, and interstate levels. The Director shall make the reportspublicly available, including by making them available on the Internet website of the Office of Emergency Communications, subject to any redactions that the Director determines are necessary to protect classified or other sensitive information.
+&emsp;A State that receives a grant under this section shall annually submit to the Director of Emergency Communications a report on the progress of the State in implementing that State's Statewide Interoperable Communications Plans required under section 194(f) of this title and achieving interoperability at the city, county, regional, State, and interstate levels. The Director shall make the reports publicly available, including by making them available on the Internet website of the Office of Emergency Communications, subject to any redactions that the Director determines are necessary to protect classified or other sensitive information.
 
 #### (2) Annual reports to Congress
 

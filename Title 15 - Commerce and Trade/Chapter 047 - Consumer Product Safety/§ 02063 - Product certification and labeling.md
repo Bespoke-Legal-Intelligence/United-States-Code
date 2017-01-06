@@ -16,7 +16,7 @@ Third party testing requirement.—Effective on the dates provided in paragraph 
 
 &emsp;(A) submit sufficient samples of the children's product, or samples that are identical in all material respects to the product, to a third party conformity assessment body accredited under paragraph (3) to be tested for compliance with such children's product safety rule; and
 
-&emsp;(B) based on such testing, issue a certificate that certifies that such children's productcomplies with the children's product safety rule based on the assessment of a third party conformity assessment body accredited to conduct such tests.
+&emsp;(B) based on such testing, issue a certificate that certifies that such children's product complies with the children's product safety rule based on the assessment of a third party conformity assessment body accredited to conduct such tests.
 
 > A manufacturer or private labeler shall issue either a separate certificate for each children's product safety rule applicable to a product or a combined certificate that certifies compliance with all applicable children's product safety rules, in which case each such rule shall be specified.
 
@@ -50,7 +50,7 @@ Children's metal jewelry.—Not later than 120 days after August 14, 2008, the C
 
 &emsp;&emsp;(v)
 
-Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
+Baby bouncers, walkers, and jumpers.—Not later than 210 days after August14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
 
 &emsp;&emsp;(vi)
 
@@ -102,7 +102,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;(4) In the case of a consumer product subject to a consumer product safety rule, a certification that the product meets all applicable consumer product safety standards and a specification of the standards which are applicable.
 
-> Such labels, where practicable, may be required by the Commission to be permanently marked on or affixed to any such consumer product. The Commission may, in appropriate cases, permit information required under paragraphs (1) and (2) of this subsection to be coded.
+> Such labels, where practicable, may be required by the Commission to be permanently marked on or affixed to any such consumer product. TheCommission may, in appropriate cases, permit information required under paragraphs (1) and (2) of this subsection to be coded.
 
 #### (d) Additional regulations for third party testing
 
@@ -142,7 +142,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;&emsp;(v) The extent to which evidence of conformity with other national or international governmental standards may provide assurance of conformity to consumer product safety rules, bans, standards, or regulations applicable under this chapter.
 
-&emsp;&emsp;&emsp;(vi) The extent to which technology, other than the technology already approved by the Commission, exists for third party conformity assessment bodies to testor to screen for testing consumer products subject to a third party testing requirement.
+&emsp;&emsp;&emsp;(vi) The extent to which technology, other than the technology already approved by the Commission, exists for third party conformity assessment bodies to test or to screen for testing consumer products subject to a third party testing requirement.
 
 &emsp;&emsp;&emsp;(vii) Other techniques for lowering the cost of third party testing consistent with assuring compliance with the applicable consumer product safety rules, bans, standards, and regulations.
 
@@ -160,7 +160,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (i) Consideration; alternative requirements
 
-&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirements under this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule, ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
+&emsp;&emsp;&emsp;Subject to subparagraph (C), in implementing third party testing requirements under this section, the Commission shall take into consideration any economic, administrative, or other limits on the ability of small batch manufacturers to comply with such requirements and shall, after notice and a hearing, provide alternative testing requirements for covered products manufactured by small batch manufacturers in lieu of those required under subsection (a) or (b). Any such alternative requirements shall provide for reasonable methods to assure compliance with any applicable consumer product safety rule,ban, standard, or regulation. The Commission may allow such alternative testing requirements for small batch manufacturers with respect to a specific product or product class or with respect to a specific safety rule, ban, standard, or regulation, or portion thereof.
 
 #### (ii) Exemption
 
@@ -216,7 +216,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (II) Ordinary paper-based printed materials
 
-&emsp;&emsp;&emsp;&emsp;The term "ordinary paper-based printed materials" means materials printed on paper or cardboard, such as magazines, posters, greeting cards, and similar products, that are printed with inks or toners and bound and finished using a conventional method.
+&emsp;&emsp;&emsp;&emsp;The term "ordinary paper-based printed materials" means materials printedon paper or cardboard, such as magazines, posters, greeting cards, and similar products, that are printed with inks or toners and bound and finished using a conventional method.
 
 #### (III) Exclusions
 
@@ -292,7 +292,7 @@ In this section:
 
 #### (D) Firewalled conformity assessment bodies
 
-&emsp;&emsp;Upon request, the Commission may accredit a conformity assessment body that is owned, managed, or controlled by a manufacturer or private labeler as a third party conformity assessment body if the Commission by order finds that—
+&emsp;&emsp;Upon request, the Commission may accredit a conformity assessment body that is owned, managed, or controlled by a manufacturer or private labeler as a third partyconformity assessment body if the Commission by order finds that—
 
 &emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's use of an independent third party conformity assessment body; and
 
@@ -320,7 +320,7 @@ In this section:
 
 #### (4) Electronic filing of certificates for imported products
 
-&emsp;In consultation with the Commissioner of Customs, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of Customs.
+&emsp;In consultation with the Commissioner of U.S. Customs and Border Protection, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of U.S. Customs and Border Protection.
 
 #### (h) Rule of construction
 
@@ -330,11 +330,11 @@ Compliance of any children's product with third party testing and certification 
 
 No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.
 
-(Pub. L. 92–573, §14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028; Pub. L. 112–28, §§2(a), 6, 10(a), Aug. 12, 2011, 125 Stat. 276, 281, 283.)
+(Pub. L. 92–573, §14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028; Pub. L. 112–28, §§2(a), 6, 10(a), Aug. 12, 2011, 125 Stat. 276, 281, 283; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### References in Text
 
-The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. L. 86–613, July 12, 1960, 74 Stat.372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 #### Amendments
 
@@ -358,7 +358,7 @@ Pub. L. 110–314, §102(a)(2), which directed amendment of par. (2) of this sec
 
 Subsec. (a)(5). Pub. L. 110–314, §103(a), added par. (5).
 
-Subsec. (b). Pub. L. 110–314, §102(d), substituted "any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission," for "consumer products which are subject to consumer product safety standards under this chapter" and ", unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products." for "or testing programs."
+Subsec. (b). Pub. L. 110–314, §102(d), substituted "any product which is subject to a consumer product safetyrule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission," for "consumer products which are subject to consumer product safety standards under this chapter" and ", unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products." for "or testing programs."
 
 Subsec. (c)(2) to (4). Pub. L. 110–314, §103(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -368,11 +368,19 @@ Pub. L. 110–314, §102(b), added subsec. (d) relating to additional regulation
 
 Subsecs. (e) to (h). Pub. L. 110–314, §102(b), added subsecs. (e) to (h).
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in subsec. (g)(4) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–314, title I, §102(a)(1)(B), Aug. 14, 2008, 122 Stat. 3022, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 Amendment by section 103(c) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### CPSC Consideration of Existing Requirements
 

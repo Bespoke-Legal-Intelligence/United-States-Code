@@ -126,7 +126,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
-&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other public lands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosion control measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
+&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other publiclands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosion control measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
 
 &emsp;&emsp;&emsp;(viii) cleaning and improving rivers maintained by the Federal Government or a State;
 
@@ -356,7 +356,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;(C) A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
 
-&emsp;&emsp;&emsp;(i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.);
+&emsp;&emsp;&emsp;(i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(ii) teams composed of students described in clause (i); or
 
@@ -388,7 +388,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (2) Consultation
 
-&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consultwith organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of veteran services, and other human, educational, environmental, or public safety services, to communities or persons.
+&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consult with organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of veteran services, and other human, educational, environmental, or public safety services, to communities or persons.
 
 #### (3) Application to subgrants
 
@@ -450,7 +450,7 @@ The Corporation shall consult with the Secretary of Education, the Secretary of 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involvingelementary school or secondary school students certifies that individuals serving in approved national service positions as tutors in such program have—
+&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involving elementary school or secondary school students certifies that individuals serving in approved national service positions as tutors in such program have—
 
 &emsp;&emsp;(A) obtained their high school diplomas; and
 
@@ -494,7 +494,7 @@ Not later than 60 days after the end of each fiscal year for which the Corporati
 
 This chapter, referred to in subsecs. (b)(2)(F)(ii) and (f)(1)(A), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20, Education, and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (k)(4)(B), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. Parts A and B of title II of the Act are classified generally to parts A (§5001) and B (§5011 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -523,4 +523,6 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be "paragraph".</i>
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

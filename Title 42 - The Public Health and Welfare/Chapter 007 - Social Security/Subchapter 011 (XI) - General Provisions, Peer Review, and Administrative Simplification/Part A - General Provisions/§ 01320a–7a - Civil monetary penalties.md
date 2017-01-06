@@ -2,9 +2,9 @@
 
 #### (a) Improperly filed claims
 
-Any person (including an organization, agency, or other entity, but excluding a beneficiary, as defined in subsection (i)(5) of this section) that—
+Any person (including an organization, agency, or other entity, but excluding a beneficiary, as defined in subsection (i)(5)) that—
 
-&emsp;(1) knowingly presents or causes to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1) of this section), a claim (as defined in subsection (i)(2) of this section) that the Secretary determines—
+&emsp;(1) knowingly presents or causes to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1)), a claim (as defined in subsection (i)(2)) that the Secretary determines—
 
 &emsp;&emsp;(A) is for a medical or other item or service that the person knows or should know was not provided as claimed, including any person who engages in a pattern or practice of presenting or causing to be presented a claim for an item or service that is based on a code that the person knows or should know will result in a greater payment to the person than the code the person knows or should know is applicable to the item or service actually provided,
 
@@ -22,17 +22,17 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;&emsp;(E) is for a pattern of medical or other items or services that a person knows or should know are not medically necessary;
 
-&emsp;(2) knowingly presents or causes to be presented to any person a request for payment which is in violation of the terms of (A) an assignment under section 1395u(b)(3)(B)(ii) of this title, or (B) an agreement with a State agency (or other requirement of a State plan under subchapter XIX of this chapter) not to charge a person for an item or service in excess of the amount permitted to be charged, or (C) an agreement to be a participating physician or supplier under section 1395u(h)(1) of this title, or (D) an agreement pursuant to section 1395cc(a)(1)(G) of this title;
+&emsp;(2) knowingly presents or causes to be presented to any person a request for payment which is in violation of the terms of (A) an assignment under section 1395u(b)(3)(B)(ii) of this title, or (B) an agreement with a State agency (or other requirement of a State plan under subchapter XIX) not to charge a person for an item or service in excess of the amount permitted to be charged, or (C) an agreement to be a participating physician or supplier under section 1395u(h)(1) of this title, or (D) an agreement pursuant to section 1395cc(a)(1)(G) of this title;
 
-&emsp;(3) knowingly gives or causes to be given to any person, with respect to coverage under subchapter XVIII of this chapter of inpatient hospital services subject to the provisions of section 1395ww of this title, information that he knows or should know is false or misleading, and that could reasonably be expected to influence the decision when to discharge such person or another individual from the hospital;
+&emsp;(3) knowingly gives or causes to be given to any person, with respect to coverage under subchapter XVIII of inpatient hospital services subject to the provisions of section 1395ww of this title, information that he knows or should know is false or misleading, and that could reasonably be expected to influence the decision when to discharge such person or another individual from the hospital;
 
-&emsp;(4) in the case of a person who is not an organization, agency, or other entity, is excluded from participating in a program under subchapter XVIII of this chapter or a State health care program in accordance with this subsection or under section 1320a–7 of this title and who, at the time of a violation of this subsection—
+&emsp;(4) in the case of a person who is not an organization, agency, or other entity, is excluded from participating in a program under subchapter XVIII or a State health care program in accordance with this subsection or under section 1320a–7 of this title and who, at the time of a violation of this subsection—
 
-&emsp;&emsp;(A) retains a direct or indirect ownership or control interest in an entity that is participating in a program under subchapter XVIII of this chapter or a State health care program, and who knows or should know ofthe action constituting the basis for the exclusion; or
+&emsp;&emsp;(A) retains a direct or indirect ownership or control interest in an entity that is participating in a program under subchapter XVIII or a State health care program, and who knows or should know of the action constituting the basis for the exclusion; or
 
 &emsp;&emsp;(B) is an officer or managing employee (as defined in section 1320a–5(b) of this title) of such an entity;
 
-&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section 1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
+&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section 1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII, or a State health care program (as so defined);
 
 &emsp;(6) arranges or contracts (by employment or otherwise) with an individual or entity that the person knows or should know is excluded from participation in a Federal health care program (as defined in section 1320a–7b(f) of this title), for the provision of items or services for which payment may be made under such a program;
 
@@ -48,35 +48,35 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(10) knows of an overpayment (as defined in paragraph (4) of section 1320a–7k(d) of this title) and does not report and return the overpayment in accordance with such section;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> incases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
 (1) If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit medically necessary services provided with respect to individuals who—
 
-&emsp;(A) are entitled to benefits under part A or part B of subchapter XVIII of this chapter or to medical assistance under a State plan approved under subchapter XIX of this chapter, and
+&emsp;(A) are entitled to benefits under part A or part B of subchapter XVIII or to medical assistance under a State plan approved under subchapter XIX, and
 
 &emsp;(B) are under the direct care of the physician,
 
 > the hospital or a critical access hospital shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each such individual with respect to whom the payment is made.
 
-(2) Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for eachindividual described in such paragraph with respect to whom the payment is made.
+(2) Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each individual described in such paragraph with respect to whom the payment is made.
 
 (3)(A) Any physician who executes a document described in subparagraph (B) with respect to an individual knowing that all of the requirements referred to in such subparagraph are not met with respect to the individual shall be subject to a civil monetary penalty of not more than the greater of—
 
 &emsp;(i) $5,000, or
 
-&emsp;(ii) three times the amount of the payments under subchapter XVIII of this chapter for home health services which are made pursuant to such certification.
+&emsp;(ii) three times the amount of the payments under subchapter XVIII for home health services which are made pursuant to such certification.
 
-(B) A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII of this chapter, that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in the case of home health services furnished to the individual.
+(B) A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII, that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in the case of home health services furnished to the individual.
 
 #### (c) Initiation of proceeding; authorization by Attorney General, notice, etc., estoppel, failure to comply with order or procedure
 
-(1) The Secretary may initiate a proceeding to determine whether to impose a civil money penalty, assessment, or exclusion under subsection (a) or (b) of this section only as authorized by the Attorney General pursuant to procedures agreed upon by them. The Secretary may not initiate an action under this section with respect to any claim, request for payment, or other occurrence described in this section later than six years after the date the claim was presented, the request for payment was made, or the occurrence took place. The Secretary may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
+(1) The Secretary may initiate a proceeding to determine whether to impose a civil money penalty, assessment, or exclusion under subsection (a) or (b) only as authorized by the Attorney General pursuant to procedures agreed upon by them. The Secretary may not initiate an action under this section with respect to any claim, request for payment, or other occurrence described in this section later than six years after the date the claim was presented, the request for payment was made, or the occurrence took place. The Secretary may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
 
-(2) The Secretary shall not make a determination adverse to any person under subsection (a) or (b) of this section until the person has been given written notice and an opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.
+(2) The Secretary shall not make a determination adverse to any person under subsection (a) or (b) until the person has been given written notice and an opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.
 
-(3) In a proceeding under subsection (a) or (b) of this section which—
+(3) In a proceeding under subsection (a) or (b) which—
 
 &emsp;(A) is against a person who has been convicted (whether upon a verdict after trial or upon a plea of guilty or nolo contendere) of a Federal crime charging fraud or false statements, and
 
@@ -104,7 +104,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 #### (d) Amount or scope of penalty, assessment, or exclusion
 
-In determining the amount or scope of any penalty, assessment, or exclusion imposed pursuant to subsection (a) or (b) of this section, the Secretary shall take into account—
+In determining the amount or scope of any penalty, assessment, or exclusion imposed pursuant to subsection (a) or (b), the Secretary shall take into account—
 
 &emsp;(1) the nature of claims and the circumstances under which they were presented,
 
@@ -114,15 +114,15 @@ In determining the amount or scope of any penalty, assessment, or exclusion impo
 
 #### (e) Review by courts of appeals
 
-Any person adversely affected by a determination of the Secretary under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the claim was presented, by filing in such court (within sixty days following the date the person is notified of the Secretary's determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the Court <sup>12</sup> the record in the proceeding as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Secretary and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Secretary with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be made a part of the record. The Secretary may modify his findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and he shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive, and his recommendations, if any, for the modification or setting aside of his original order. Upon the filing of the record with it, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
+Any person adversely affected by a determination of the Secretary under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the claim or specified claim was presented, by filing in such court (within sixty days following the date the person is notified of the Secretary's determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the Court <sup>12</sup> the record in the proceeding as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Secretary and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Secretary with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be made a part of the record. The Secretary may modify his findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and he shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive, and his recommendations, if any, for the modification or setting aside of his original order. Upon the filing of the record with it, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
 
 #### (f) Compromise of penalties and assessments; recovery; use of funds recovered
 
-Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
+Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim or specified claim (as defined in subsection (r)) was presented, or where the claimant (or, with respect to a person described in subsection (o), the person) resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
 
-&emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX of this chapter, there shall be paid to the State agency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
+&emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX, there shall be paid to the State agency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
 
-&emsp;(B) In the case of amounts recovered arising out of a claim under an allotment to a State under subchapter V of this chapter, there shall be paid to the State agency an amount equal to three-sevenths of the amount recovered.
+&emsp;(B) In the case of amounts recovered arising out of a claim under an allotment to a State under subchapter V, there shall be paid to the State agency an amount equal to three-sevenths of the amount recovered.
 
 &emsp;(2) Such portion of the amounts recovered as is determined to have been paid out of the trust funds under sections 1395i and 1395t of this title shall be repaid to such trust funds.
 
@@ -130,21 +130,21 @@ Civil money penalties and assessments imposed under this section may be compromi
 
 &emsp;(4) The remainder of the amounts recovered shall be deposited as miscellaneous receipts of the Treasury of the United States.
 
-> The amount of such penalty or assessment, when finally determined, or the amount agreed upon in compromise, may be deducted from any sum then or later owing by the United States or a State agency to the person against whom the penalty or assessment has been assessed.
+> The amount of such penalty or assessment, when finally determined, or the amount agreed upon in compromise, may be deducted from any sum then or later owing by the United States or a State agency (or, in the case of a penalty or assessment under subsection (o), by a specified State agency (as defined in subsection (q)(6)), to the person against whom the penalty or assessment has been assessed.
 
 #### (g) Finality of determination respecting penalty, assessment, or exclusion
 
-A determination by the Secretary to impose a penalty, assessment, or exclusion under subsection (a) or (b) of this section shall be final upon the expiration of the sixty-day period referred to in subsection (e) of this section. Matters that were raised or that could have been raised in a hearing before the Secretary or in an appeal pursuant to subsection (e) of this section may not be raised as a defense to a civil action by the United States to collect a penalty, assessment, or exclusion assessed under this section.
+A determination by the Secretary to impose a penalty, assessment, or exclusion under subsection (a) or (b) shall be final upon the expiration of the sixty-day period referred to in subsection (e). Matters that were raised or that could have been raised in a hearing before the Secretary or in an appeal pursuant to subsection (e) may not be raised as a defense to a civil action by the United States to collect a penalty, assessment, or exclusion assessed under this section.
 
 #### (h) Notification of appropriate entities of finality of determination
 
-Whenever the Secretary's determination to impose a penalty, assessment, or exclusion under subsection (a) or (b) of this section becomes final, he shall notify the appropriate State or local medical or professional organization, the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title), and the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in section 1395aa(a) and 1396a(a)(33) of this title) that such a penalty, assessment, or exclusion has become final and the reasons therefor.
+Whenever the Secretary's determination to impose a penalty, assessment, or exclusion under subsection (a) or (b) becomes final, he shall notify the appropriate State or local medical or professional organization, the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title), and the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in section 1395aa(a) and 1396a(a)(33) of this title) that such a penalty, assessment, or exclusion has become final and the reasons therefor.
 
 #### (i) Definitions
 
 For the purposes of this section:
 
-&emsp;(1) The term "State agency" means the agency established or designated to administer or supervise the administration of the State plan under subchapter XIX of this chapter or designated to administer the State's program under subchapter V of this chapter or division A <sup>13</sup> of subchapter XX of this chapter.
+&emsp;(1) The term "State agency" means the agency established or designated to administer or supervise the administration of the State plan under subchapter XIX of this chapter or designated to administer the State's program under subchapter V or division A <sup>13</sup> of subchapter XX of this chapter.
 
 &emsp;(2) The term "claim" means an application for payments for items and services under a Federal health care program (as defined in section 1320a–7b(f) of this title).
 
@@ -154,7 +154,7 @@ For the purposes of this section:
 
 &emsp;(5) The term "beneficiary" means an individual who is eligible to receive items or services for which payment may be made under a Federal health care program (as so defined) but does not include a provider, supplier, or practitioner.
 
-&emsp;(6) The term "remuneration" includes the waiver of coinsurance and deductible amounts (or any part thereof), and transfers of items orservices for free or for other than fair market value. The term "remuneration" does not include—
+&emsp;(6) The term "remuneration" includes the waiver of coinsurance and deductible amounts (or any part thereof), and transfers of items or services for free or for other than fair market value. The term "remuneration" does not include—
 
 &emsp;&emsp;(A) the waiver of coinsurance and deductible amounts by a person, if—
 
@@ -168,7 +168,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) fails to collect coinsurance or deductible amounts after making reasonable collection efforts;
 
-&emsp;&emsp;(B) subject to subsection (n) of this section, any permissible practice described in any subparagraph of section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;
+&emsp;&emsp;(B) subject to subsection (n), any permissible practice described in any subparagraph of section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;
 
 &emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan design as long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996;
 
@@ -196,7 +196,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;(iv) the person provides the items or services after determining in good faith that the individual is in financial need; or
 
-&emsp;&emsp;(I) effective on a date specified by the Secretary (but not earlier than January 1, 2011), the waiver by a PDP sponsor of a prescription drug plan under part D of subchapter XVIII or an MA organization offering an MA–PD plan under part C of such subchapter of any copayment for the first fill of a covered part D drug (as defined in section 1395w–102(e) of this title) that is a generic drug for individuals enrolled in the prescription drug plan or MA–PD plan, respectively.
+&emsp;&emsp;(I) effective on a date specified by the Secretary (but not earlier than January 1, 2011),the waiver by a PDP sponsor of a prescription drug plan under part D of subchapter XVIII or an MA organization offering an MA–PD plan under part C of such subchapter of any copayment for the first fill of a covered part D drug (as defined in section 1395w–102(e) of this title) that is a generic drug for individuals enrolled in the prescription drug plan or MA–PD plan, respectively.
 
 &emsp;(7) The term "should know" means that a person, with respect to information—
 
@@ -208,7 +208,7 @@ For the purposes of this section:
 
 #### (j) Subpoenas
 
-(1) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they are applicable with respect to subchapter II of this chapter. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
+(1) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they are applicable with respect to subchapter II. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
 
 (2) The Secretary may delegate authority granted under this section and under section 1320a–7 of this title to the Inspector General of the Department of Health and Human Services.
 
@@ -222,7 +222,7 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 #### (m) Claims within jurisdiction of other departments or agencies
 
-(1) For purposes of this section, with respect to a Federal health care program not contained in this chapter, references to the Secretary in this section shall be deemed to be references tothe Secretary or Administrator of the department or agency with jurisdiction over such program and references to the Inspector General of the Department of Health and Human Services in this section shall be deemed to be references to the Inspector General of the applicable department or agency.
+(1) For purposes of this section, with respect to a Federal health care program not contained in this chapter, references to the Secretary in this section shall be deemed to be references to the Secretary or Administrator of the department or agency with jurisdiction over such program and references to the Inspector General of the Department of Health and Human Services in this section shall be deemed to be references to the Inspector General of the applicable department or agency.
 
 (2)(A) The Secretary and Administrator of the departments and agencies referred to in paragraph (1) may include in any action pursuant to this section, claims within the jurisdiction of other Federal departments or agencies as long as the following conditions are satisfied:
 
@@ -234,15 +234,67 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 #### (n) Safe harbor for payment of medigap premiums
 
-(1) Subparagraph (B) of subsection (i)(6) of this section shall not apply to a practice described in paragraph (2) unless—
+(1) Subparagraph (B) of subsection (i)(6) shall not apply to a practice described in paragraph (2) unless—
 
 &emsp;(A) the Secretary, through the Inspector General of the Department of Health and Human Services, promulgates a rule authorizing such a practice as an exception to remuneration; and
 
 &emsp;(B) the remuneration is offered or transferred by a person under such rule during the 2-year period beginning on the date the rule is first promulgated.
 
-(2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to section 426–1 of this title.
+(2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII pursuant to section 426–1 of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804; Pub. L. 114–10, title V, §512(a)(1), Apr. 16, 2015, 129 Stat. 170.)
+#### (o) Penalties for violations of grants, contracts, and other agreements
+
+Any person (including an organization, agency, or other entity, but excluding a program beneficiary, as defined in subsection (q)(4)) that, with respect to a grant, contract, or other agreement for which the Secretary provides funding—
+
+&emsp;(1) knowingly presents or causes to be presented a specified claim (as defined in subsection (r)) under such grant, contract, or other agreement that the person knows or should know is false or fraudulent;
+
+&emsp;(2) knowingly makes, uses, or causes to be made or used any false statement, omission, or misrepresentation of a material fact in any application, proposal, bid, progress report, or other document that is required to be submitted in order to directly or indirectly receive or retain funds provided in whole or in part by such Secretary pursuant to such grant, contract, or other agreement;
+
+&emsp;(3) knowingly makes, uses, or causes to be made or used, a false record or statement material to a false or fraudulent specified claim under such grant, contract, or other agreement;
+
+&emsp;(4) knowingly makes, uses, or causes to be made or used, a false record or statement material to an obligation (as defined in subsection (s)) to pay or transmit funds or property to such Secretary with respect to such grant, contract, or other agreement, or knowingly conceals or knowingly and improperly avoids or decreases an obligation to pay or transmit funds or property to such Secretary with respect to such grant, contract, or other agreement; or
+
+&emsp;(5) fails to grant timely access, upon reasonable request (as defined by such Secretary in regulations), to the Inspector General of the Department, for the purpose of audits, investigations, evaluations, or other statutory functions of such Inspector General in matters involving such grants, contracts, or other agreements;
+
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty in cases under paragraph (1), of not more than $10,000 for each specified claim; in cases under paragraph (2), not more than $50,000 for each false statement, omission, or misrepresentation of a material fact; in cases under paragraph (3), not more than $50,000 for each false record or statement; in cases under paragraph (4), not more than $50,000 for each false record or statement or $10,000 for each day that the person knowingly conceals or knowingly and improperly avoids or decreases an obligation to pay; or in cases under paragraph (5), not more than $15,000 for each day of the failure described in such paragraph. In addition, in cases under paragraphs (1) and (3), such a person shall be subject to an assessment of not more than 3 times the amount claimed in the specified claim described in such paragraph in lieu of damages sustained by the United States or a specified State agency because of such specified claim, and in cases under paragraphs (2) and (4), such a person shall be subject to an assessment of not more than 3 times the total amount of the funds described in paragraph (2) or (4), respectively (or, in the case of an obligation to transmit property to the Secretary described in paragraph (4), of the value of the property described in such paragraph) in lieu of damages sustained by the United States or a specified State agency because of such case. In addition, the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+
+#### (p) Applicability of rules to penalties or assessments for violations of grants, contracts, and other agreements
+
+The provisions of subsections (c), (d), (g), and (h) shall apply to a civil money penalty or assessment under subsection (o) in the same manner as such provisions apply to a penalty, assessment, or proceeding under subsection (a). In applying subsection (d), each reference to a claim under such subsection shall be treated as including a reference to a specified claim (as defined in subsection (r)).
+
+#### (q) Definitions of terms used in subsections (o) and (p)
+
+For purposes of this subsection and subsections (o) and (p):
+
+&emsp;(1) The term "Department" means the Department of Health and Human Services.
+
+&emsp;(2) The term "material" means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
+
+&emsp;(3) The term "other agreement" includes a cooperative agreement, scholarship, fellowship, loan, subsidy, payment for a specified use, donation agreement, award, or subaward (regardless of whether one or more of the persons entering into the agreement is a contractor or subcontractor).
+
+&emsp;(4) The term "program beneficiary" means, in the case of a grant, contract, or other agreement designed to accomplish the objective of awarding or otherwise furnishing benefits or assistance to individuals and for which the Secretary provides funding, an individual who applies for, or who receives, such benefits or assistance from such grant, contract, or other agreement. Such term does not include, with respect to such grant, contract, or other agreement, an officer, employee, or agent of a person or entity that receives such grant or that enters into such contract or other agreement.
+
+&emsp;(5) The term "recipient" includes a subrecipient or subcontractor.
+
+&emsp;(6) The term "specified State agency" means an agency of a State government established or designated to administer or supervise the administration of a grant, contract, or other agreement funded in whole or in part by the Secretary.
+
+#### (r) Definition of "specified claim"
+
+For purposes of this section, the term "specified claim" means any application, request, or demand under a grant, contract, or other agreement for money or property, whether or not the United States or a specified State agency has title to the money or property, that is not a claim (as defined in subsection (i)(2)) and that—
+
+&emsp;(1) is presented or caused to be presented to an officer, employee, or agent of the Department or agency thereof, or of any specified State agency; or
+
+&emsp;(2) is made to a contractor, grantee, or any other recipient if the money or property is to be spent or used on the Department's behalf or to advance a Department program or interest, and if the Department—
+
+&emsp;&emsp;(A) provides or has provided any portion of the money or property requested or demanded; or
+
+&emsp;&emsp;(B) will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.
+
+#### (s) Definition of "obligation"
+
+For purposes of subsection (o), the term "obligation" means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, for a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment.
+
+(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804; Pub. L. 114–10, title V, §512(a)(1), Apr. 16, 2015, 129 Stat. 170; Pub. L. 114–255, div. A, title V, §5003, Dec. 13, 2016, 130 Stat. 1188.)
 
 #### References in Text
 
@@ -258,6 +310,12 @@ The Inspector General Act of 1978, referred to in subsec. (m)(2)(B), is Pub. L. 
 
 #### Amendments
 
+<b>2016</b>—Subsec. (e). Pub. L. 114–255, §5003(b)(1), inserted "or specified claim" after "claim".
+
+Subsec. (f). Pub. L. 114–255, §5003(b)(2), inserted "or specified claim (as defined in subsection (r))" after "district where the claim" and "(or, with respect to a person described in subsection (o), the person)" after "claimant" in introductory provisions and "(or, in the case of a penalty or assessment under subsection (o), by a specified State agency (as defined in subsection (q)(6))," after "or a State agency" in concluding provisions.
+
+Subsecs. (o) to (s). Pub. L. 114–255, §5003(a), added subsecs. (o) to (s).
+
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–10 inserted "medically necessary" after "reduce or limit".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §6408(a)(3)(B), which directed substitution of "act, in cases under paragraph (8), $50,000 for each false record or statement, or in cases under paragraph (9), $15,000 for each day of the failure described in such paragraph)" for "act)" in first sentence, was executed by making the substitution for "act" to reflect the probable intent of Congress. See amendment by Pub. L. 111–148, §6402(d)(2)(A)(iv) below.
@@ -266,7 +324,7 @@ Pub. L. 111–148, §6408(a)(3)(A), which directed substitution of "in cases und
 
 Pub. L. 111–148, §6402(d)(2)(A)(iv), (v), in concluding provisions, struck out "or" after "prohibited relationship occurs;" and substituted "act; or in cases under paragraph (9), $50,000 for each false statement or misrepresentation of a material fact)" for "act)" and "purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact)" for "purpose)".
 
-Subsec. (a)(1)(D). Pub. L. 111–148, §6402(d)(2)(A)(i), which directed substitution of "was excluded from the Federal health care program (as defined in section1320a–7b(f) of this title) under which the claim was made pursuant to Federal law." for " 'was excluded' and all that follows through the period at the end", was executed by making the substitution for "was excluded from the program under which the claim was made pursuant to a determination by the Secretary under this section or under section 1320a–7, 1320c–5, 1320c–9(b) (as in effect on September 2, 1982), 1395y(d) (as in effect on August 18, 1987), or 1395cc(b) of this title or as a result of the application of the provisions of section 1395u(j)(2) of this title, or", to reflect the probable intent of Congress, because there was no period at the end.
+Subsec. (a)(1)(D). Pub. L. 111–148, §6402(d)(2)(A)(i), which directed substitution of "was excluded from the Federal health care program (as defined in section 1320a–7b(f) of this title) under which the claim was made pursuant to Federal law." for " 'was excluded' and all that follows through the period at the end", was executed by making the substitution for "was excluded from the program under which the claim was made pursuant to a determination by the Secretary under this section or under section 1320a–7, 1320c–5, 1320c–9(b) (as in effect on September 2, 1982), 1395y(d) (as in effect on August 18, 1987), or 1395cc(b) of this title or as a result of the application of the provisions of section 1395u(j)(2) of this title, or", to reflect the probable intent of Congress, because there was no period at the end.
 
 Subsec. (a)(6). Pub. L. 111–148, §§6402(d)(2)(A)(ii), 6408(a)(1), amended par. (6) identically, striking out "or" at the end.
 
@@ -276,7 +334,7 @@ Pub. L. 111–148, §6402(d)(2)(A)(iii), added pars. (8) and (9) relating to ord
 
 Subsec. (a)(10). Pub. L. 111–148, §6402(d)(2)(A)(iii), added par. (10).
 
-Subsec. (i)(1). Pub. L. 111–148, §6703(d)(3)(B), inserted "division A of" after "subchapter V of this chapter or".
+Subsec. (i)(1). Pub. L. 111–148, §6703(d)(3)(B), inserted "division A of" after "subchapter V or".
 
 Subsec. (i)(6)(C). Pub. L. 111–148, §6402(d)(2)(B)(i), struck out "or" at the end.
 
@@ -286,7 +344,7 @@ Subsec. (i)(6)(E). Pub. L. 111–148, §6402(d)(2)(B)(iii), redesignated subpar.
 
 Subsec. (i)(6)(F) to (I). Pub. L. 111–148, §6402(d)(2)(B)(iv), added pars. (F) to (I).
 
-<b>1998</b>—Subsec. (i)(6)(B). Pub. L. 105–277, §5201(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "any permissible waiver as specified in section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;".
+<b>1998</b>—Subsec. (i)(6)(B). Pub. L. 105–277, §5201(a), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "any permissible waiver as specified in section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;".
 
 Subsec. (n). Pub. L. 105–277, §5201(b)(1), added subsec. (n).
 
@@ -392,7 +450,7 @@ Subsec. (l). Pub. L. 100–485, §608(d)(26)(I), inserted "for penalties, assess
 
 Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added Pub. L. 100–203, §4118(e)(1)(B), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted ", but excluding a beneficiary, as defined in subsection (i)(5) of this section" in introductory provisions.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted ", but excluding a beneficiary, as defined in subsection (i)(5)" in introductory provisions.
 
 Pub. L. 100–93, §3(a)(3)(B), in concluding provisions, inserted "(or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given)" before period at end of first sentence, and inserted at end "In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the programs under subchapter XVIII of this chapter and to direct the appropriate State agency to exclude the person from participation in any State health care program."
 
@@ -406,7 +464,7 @@ Pub. L. 100–93, §3(a)(1), substituted "the Secretary determines" for "the Sec
 
 Subsec. (a)(1)(D). Pub. L. 100–203, §4118(e)(6), as added by Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100–485, §608(d)(26)(K)(i), substituted "excluded from" for "excluded under" and inserted "or as a result of the application of the provisions of section 1395u(j)(2) of this title".
 
-Subsec. (a)(2). Pub. L. 100–93, §3(a)(2), inserted "(or other requirement of a State plan under subchapter XIX of this chapter)" after "State agency" in subpar. (B) and added subpar. (D).
+Subsec. (a)(2). Pub. L. 100–93, §3(a)(2), inserted "(or other requirement of a State plan under subchapter XIX)" after "State agency" in subpar. (B) and added subpar. (D).
 
 Subsec. (a)(3). Pub. L. 100–203, §4118(e)(1)(A), as amended by Pub. L. 100–360, §411(k)(10)(B)(ii)(I), (II), as amended by Pub. L. 100–485, §608(d)(26)(H), substituted "or should know" for "or has reason to know".
 
@@ -430,7 +488,7 @@ Subsec. (h). Pub. L. 100–93, §3(c), (e), substituted "penalty, assessment, or
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(8), as added by Pub. L. 100–360, §411(k)(10)(D), substituted "this section" for "this subsection" in introductory provisions.
 
-Subsec. (i)(1). Pub. L. 100–203, §4118(e)(9), as added by Pub. L. 100–360, §411(k)(10)(D), inserted "or subchapter XX of this chapter".
+Subsec. (i)(1). Pub. L. 100–203, §4118(e)(9), as added by Pub. L. 100–360, §411(k)(10)(D), inserted "or subchapter XX".
 
 Subsec. (i)(2). Pub. L. 100–203, §4118(e)(10)(B), as added by Pub. L. 100–360, §411(k)(10)(D), substituted "for payments for items and services under subchapter V, XVIII, XIX, or XX of this chapter" for "submitted by—
 
@@ -522,7 +580,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4118(e)(14), formerly §4118(e)(3), Dec. 22, 1987, 101 Stat. 1330–155, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: "The amendments made by paragraph (1)\[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4118(e)(14), formerly §4118(e)(3), Dec. 22, 1987, 101 Stat. 1330–155, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, except that amendment by section 3(a)(1) of Pub. L. 100–93 applicable to claims presented for services performed on or after date at end of fourteen-day period beginning Aug. 18, 1987, without regard to the date the physician's misrepresentation of fact was made, and amendment by section 3(f) of Pub. L. 100–93 effective Aug. 18, 1987, see section 15(a), (c)(3), and (d) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
@@ -542,7 +600,7 @@ Pub. L. 99–509, title IX, §9317(d)(1), (2), Oct. 21, 1986, 100 Stat. 2009, pr
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1982 Amendment
 

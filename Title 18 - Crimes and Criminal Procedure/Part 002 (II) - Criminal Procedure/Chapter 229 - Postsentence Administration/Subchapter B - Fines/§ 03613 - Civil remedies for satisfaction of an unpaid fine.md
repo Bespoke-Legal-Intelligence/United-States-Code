@@ -12,7 +12,7 @@ Enforcement.—The United States may enforce a judgment imposing a fine in accor
 
 (b)
 
-Termination of Liability.—The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined.
+Termination of Liability.—The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined. The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual's estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.
 
 (c)
 
@@ -30,7 +30,7 @@ Discharge of Debt Inapplicable.—No discharge of debts in a proceeding pursuant
 
 Applicability to Order of Restitution.—In accordance with section 3664(m)(1)(A) of this title, all provisions of this section are available to the United States for the enforcement of an order of restitution.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, §3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(3), Apr. 24, 1996, 110 Stat. 1238.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, §3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(3), Apr. 24, 1996, 110 Stat. 1238; Pub. L. 114–324, §2(b), Dec. 16, 2016, 130 Stat. 1948.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (c), and (d),
 For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–324 inserted at end "The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual's estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability."
 
 <b>1996</b>—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
 

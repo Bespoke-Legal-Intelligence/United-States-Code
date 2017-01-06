@@ -146,7 +146,7 @@ The Under Secretary shall—
 
 #### (5) Organization
 
-&emsp;The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
+&emsp;The Under Secretary shall integrate leadership functions of the national program staff ofthe research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
 
 #### (f) National Institute of Food and Agriculture
 
@@ -290,7 +290,7 @@ The Under Secretary shall—
 
 #### (D) Compensation
 
-&emsp;&emsp;The Director shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of theSenior Executive Service under subsection (b) of section 5382 of title 5, except that the certification requirement in that subsection shall not apply to the compensation of the Director.
+&emsp;&emsp;The Director shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of section 5382 of title 5, except that the certification requirement in that subsection shall not apply to the compensation of the Director.
 
 #### (E) Authority and responsibilities of Director
 
@@ -314,7 +314,7 @@ The Under Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall organize offices and functions within the Institute to administer fundamental and applied research and extension and education programs.
+&emsp;&emsp;The Director shall organize offices and functions within the Institute to administerfundamental and applied research and extension and education programs.
 
 #### (B) Research priorities
 

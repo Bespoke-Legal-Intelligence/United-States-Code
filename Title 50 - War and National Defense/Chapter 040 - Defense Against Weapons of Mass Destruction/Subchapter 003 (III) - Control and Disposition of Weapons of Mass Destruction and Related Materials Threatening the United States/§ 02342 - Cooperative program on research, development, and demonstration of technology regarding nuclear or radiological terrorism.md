@@ -6,7 +6,7 @@ The Administrator for Nuclear Security shall carry out with the Russian Federati
 
 #### (b) Program elements
 
-In carrying out the program required by subsection (a) of this section, the Administrator shall—
+In carrying out the program required by subsection (a), the Administrator shall—
 
 &emsp;(1) conduct research and development of technology for protection from nuclear or radiological terrorism, including technology for the detection, identification, assessment, control, and disposition of radiological materials that could be used for nuclear terrorism; and
 
@@ -24,7 +24,7 @@ In carrying out the program required by subsection (a) of this section, the Admi
 
 #### (c) Consultation
 
-In carrying out activities in accordance with subsection (b)(2) of this section, the Administrator shall consult with—
+In carrying out activities in accordance with subsection (b)(2), the Administrator shall consult with—
 
 &emsp;(1) the Secretary of Defense, Secretary of State, and Secretary of Commerce; and
 
@@ -42,7 +42,7 @@ Section 3101(a)(2), referred to in subsec. (d), is section 3101(a)(2) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Bob Stump National Defense Authorization Act for Fiscal Year 2003,and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

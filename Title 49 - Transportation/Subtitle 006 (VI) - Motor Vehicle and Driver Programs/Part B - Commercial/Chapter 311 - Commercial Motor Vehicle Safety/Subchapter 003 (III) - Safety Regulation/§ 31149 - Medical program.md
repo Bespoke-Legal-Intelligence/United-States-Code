@@ -56,7 +56,7 @@ In general.—The Secretary, with the advice of the Medical Review Board and the
 
 &emsp;(2)
 
-Monitoring performance.—The Secretary shall investigate patterns of errors or improper certification by a medical examiner. If the Secretary finds that a medical examiner has issued a medical certificate to an operator of a commercial motor vehicle who fails to meet the applicable standards at the time of the examination or that a medical examiner has falsely claimed to have completed training in physical and medical examination standards as required by this section, the Secretary may remove such medical examiner from the registry and may void the medical certificate of the applicant or holder.
+Monitoring performance.—The Secretary shall investigate patterns of errors orimproper certification by a medical examiner. If the Secretary finds that a medical examiner has issued a medical certificate to an operator of a commercial motor vehicle who fails to meet the applicable standards at the time of the examination or that a medical examiner has falsely claimed to have completed training in physical and medical examination standards as required by this section, the Secretary may remove such medical examiner from the registry and may void the medical certificate of the applicant or holder.
 
 (d)
 

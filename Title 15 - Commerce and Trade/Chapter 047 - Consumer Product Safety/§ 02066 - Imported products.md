@@ -40,7 +40,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 #### (h) Product surveillance program
 
-(1) The Commission shall establish and maintain a permanent product surveillance program, in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission's responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
+(1) The Commission shall establish and maintain a permanent product surveillance program,in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission's responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
 
 (2) The Commission may provide to the agencies with which it is cooperating under paragraph (1) such information, data, violator lists, test results, and other support, guidance, and documents as may be necessary or helpful for such agencies to cooperate with the Commission to carry out the product surveillance program under paragraph (1).
 
@@ -73,6 +73,10 @@ Amendment by sections 216(b) and 223(b) of Pub. L. 110–314 effective on the da
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Import Safety Management and Interagency Cooperation
 

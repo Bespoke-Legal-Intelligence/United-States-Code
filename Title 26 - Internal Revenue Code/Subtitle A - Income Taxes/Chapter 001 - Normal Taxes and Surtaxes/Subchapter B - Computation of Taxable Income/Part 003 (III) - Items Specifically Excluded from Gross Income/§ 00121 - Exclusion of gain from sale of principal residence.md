@@ -246,7 +246,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (10) Property acquired in like-kind exchange
 
-&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property isdetermined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
+&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
 
 #### \[(11) Repealed. Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300\]
 
@@ -254,7 +254,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (A) In general
 
-&emsp;&emsp;At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and (c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual's spouse is serving outside the United States—
+&emsp;&emsp;At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and\(c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual's spouse is serving outside the United States—
 
 &emsp;&emsp;&emsp;(i) on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
 
@@ -412,7 +412,7 @@ Amendment by section 221(a)(20) of Pub. L. 113–295 effective Dec. 19, 2014, su
 
 #### Effective and Termination Dates of 2010 Amendment
 
-Pub. L. 111–312, title III, §301(e), Dec. 17, 2010, 124 Stat. 3301, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 2505, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\] shall apply to estates of decedents dying, and transfers made, after December 31, 2009."
+Pub. L. 111–312, title III, §301(e), Dec. 17, 2010, 124 Stat. 3301, provided that: "Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 2505, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and6716 of this title\] shall apply to estates of decedents dying, and transfers made, after December 31, 2009."
 
 Pub. L. 111–312, title III, §304, Dec. 17, 2010, 124 Stat. 3304, which provided that section 901 of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, would apply to the amendments made by title III of Pub. L. 111–312, was repealed by Pub. L. 112–240, title I, §101(a)(2), Jan. 2, 2013, 126 Stat. 2315.
 
@@ -504,7 +504,7 @@ Binding contracts.—At the election of the taxpayer, the amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6011(b), Nov. 10, 1988, 102 Stat. 3691, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sale or exchange after September 30, 1988, in taxable years ending after such date."
+Pub. L. 100–647, title VI, §6011(b), Nov. 10, 1988, 102 Stat. 3691, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to any sale or exchange after September 30, 1988, in taxable years ending after such date."
 
 #### Effective Date of 1981 Amendment
 

@@ -12,7 +12,7 @@ When originally enacted, section 5 of act June 22, 1936, which consisted of a pa
 
 <b>2014</b>—Pub. L. 113–121, §1015(a)(4), substituted ": <i>Provided further</i>, That the term 'non-Federal interest' has the meaning given that term in section 1962d–5b of title 42." for period at end.
 
-Pub. L. 113–121, §1015(a)(3), substituted "<i>Provided</i>, That the Secretary is authorized to receive and expend funds from a State or a political subdivision thereof, and other non-Federal interests or private entities, to operate a hurricane barrier project to support recreational activities at or in the vicinity of the project, at no cost to the Federal Government, if the Secretary determines that operation for such purpose is not inconsistent with the operation and maintenance of the project for the authorized purposes of the project: <i>Provided further</i>, That when" for "<i>Provided</i>, That when".
+Pub. L. 113–121, §1015(a)(3), substituted "<i>Provided</i>, That the Secretary is authorized to receive and expend funds from a State or a political subdivision thereof, and other non-Federal interests or private entities, to operate a hurricane barrier project to support recreational activities at or in the vicinity of the project, at no cost to the Federal Government, if the Secretarydetermines that operation for such purpose is not inconsistent with the operation and maintenance of the project for the authorized purposes of the project: <i>Provided further</i>, That when" for "<i>Provided</i>, That when".
 
 Pub. L. 113–121, §1015(a)(1), (2), inserted "and other non-Federal interests" after "States and political subdivisions thereof" in two places and inserted ", including a project for navigation on the inland waterways," after "study or project".
 

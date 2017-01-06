@@ -6,7 +6,7 @@
 
 &emsp;(2) may compromise a claim of the Government of not more than $100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe that has not been referred to another executive or legislative agency for further collection action, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official; and
 
-&emsp;(3) may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liableon the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered.
+&emsp;(3) may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liable on the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered.
 
 (b)(1) The head of an executive, judicial, or legislative agency may not act under subsection (a)(2) or (3) of this section on a claim that appears to be fraudulent, false, or misrepresented by a party with an interest in the claim, or that is based on conduct in violation of the antitrust laws.
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) standards that the Attorney General, the Secretary of the Treasury, may prescribe.<sup>1</sup>
 
-(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reporting agency information from a system of records that a person is responsible for a claim if—
+(e)(1) When trying to collect a claim of the Government under a law except the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the head of an executive, judicial, or legislative agency shall disclose to a consumer reportingagency information from a system of records that a person is responsible for a claim if—
 
 &emsp;(A) notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency;
 
@@ -68,7 +68,7 @@
 
 (f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
-(2) The Secretary of Homeland Security may suspend or terminate an action by the Secretaryunder subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (3) The Secretary of Veterans Affairs may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(i) is in litigation or foreclosure;
 
-&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistent with an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
+&emsp;&emsp;(ii) will be disposed of under an asset sales program within 1 year after becoming eligible for sale, or later than 1 year if consistentwith an asset sales program and a schedule established by the agency and approved by the Director of the Office of Management and Budget;
 
 &emsp;&emsp;(iii) has been referred to a private collection contractor for collection for a period of time determined by the Secretary of the Treasury;
 
@@ -150,7 +150,7 @@
 
 &emsp;(H) litigation or foreclosure.
 
-(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
+(10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures asthe Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
 
 (h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1), (2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
 
@@ -182,7 +182,7 @@
 
 &emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
-&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to suchloan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
+&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
 
 &emsp;(v) The marketability of all debts.
 

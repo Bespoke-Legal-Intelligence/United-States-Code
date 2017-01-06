@@ -202,7 +202,7 @@ For purposes of this subchapter:
 
 #### (24) Solo applicant
 
-&emsp;The term "solo applicant" means an entity that is an eligible entity, directly submits anapplication for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
+&emsp;The term "solo applicant" means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
 
 #### (25) Sponsor-based
 

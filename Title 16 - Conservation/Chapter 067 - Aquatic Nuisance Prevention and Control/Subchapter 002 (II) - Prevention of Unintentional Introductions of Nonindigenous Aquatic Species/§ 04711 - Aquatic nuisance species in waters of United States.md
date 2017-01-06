@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ii) ballasting practices of vessels that enter waters of the United States with no ballast water on board;
 
-&emsp;&emsp;(F) provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i) of this section, in order to enable the Secretary to determine compliance with the guidelines, including—
+&emsp;&emsp;(F) provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i), in order to enable the Secretary to determine compliance with the guidelines, including—
 
 &emsp;&emsp;&emsp;(i) with respect to each ballast water exchange referred to in clause (ii), reporting on the precise location and thoroughness of the exchange; and
 
@@ -132,15 +132,15 @@
 
 #### (d) Report to Congress
 
-Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
+Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e).
 
 #### (e) Periodic review and revision
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c) of this section, and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
+&emsp;Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c), and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
 
-&emsp;&emsp;(A) assess the compliance by vessels with the voluntary guidelines issued under subsection (c) of this section and the regulations promulgated under this chapter;
+&emsp;&emsp;(A) assess the compliance by vessels with the voluntary guidelines issued under subsection (c) and the regulations promulgated under this chapter;
 
 &emsp;&emsp;(B) establish the rate of compliance that is based on the assessment under subparagraph (A);
 
@@ -150,7 +150,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 &emsp;&emsp;&emsp;(i) revise the guidelines and regulations referred to in subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+&emsp;&emsp;&emsp;(ii) promulgate additional regulations pursuant to subsection (f)(1); or
 
 &emsp;&emsp;&emsp;(iii) carry out each of clauses (i) and (ii).
 
@@ -164,23 +164,23 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 &emsp;&emsp;&emsp;(i) revise those guidelines;
 
-&emsp;&emsp;&emsp;(ii) promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+&emsp;&emsp;&emsp;(ii) promulgate additional regulations pursuant to subsection (f)(1); or
 
 &emsp;&emsp;&emsp;(iii) carry out each of clauses (i) and (ii).
 
 #### (3) Criteria for effectiveness
 
-&emsp;Not later than 18 months after October 26, 1996, the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c) of this section.
+&emsp;Not later than 18 months after October 26, 1996, the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c).
 
 #### (f) Authority of Secretary
 
 #### (1) General regulations
 
-&emsp;If, on the basis of a periodic review conducted under subsection (e)(1) of this section or a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
+&emsp;If, on the basis of a periodic review conducted under subsection (e)(1) or a special review conducted under subsection (e)(2), the Secretary determines that—
 
-&emsp;&emsp;(A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) of this section is inadequate; or
+&emsp;&emsp;(A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) is inadequate; or
 
-&emsp;&emsp;(B) the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2) of this section,
+&emsp;&emsp;(B) the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2),
 
 > &emsp;the Secretary shall promptly promulgate regulations that meet the requirements of paragraph (2).
 
@@ -190,9 +190,9 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 &emsp;&emsp;(A) shall—
 
-&emsp;&emsp;&emsp;(i) not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d) of this section;
+&emsp;&emsp;&emsp;(i) not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d);
 
-&emsp;&emsp;&emsp;(ii) make mandatory the requirements included in the voluntary guidelines issued under subsection (c) of this section; and
+&emsp;&emsp;&emsp;(ii) make mandatory the requirements included in the voluntary guidelines issued under subsection (c); and
 
 &emsp;&emsp;&emsp;(iii) provide for the enforcement of the regulations; and
 
@@ -200,21 +200,21 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (3) International regulations
 
-&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
+&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter inany international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
 
 #### (g) Sanctions
 
 #### (1) Civil penalties
 
-&emsp;Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
+&emsp;Any person who violates a regulation promulgated under subsection (b) or (f) shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
 
 #### (2) Criminal penalties
 
-&emsp;Any person who knowingly violates the regulations promulgated under subsection (b) or (f) of this section is guilty of a class C felony.
+&emsp;Any person who knowingly violates the regulations promulgated under subsection (b) or (f) is guilty of a class C felony.
 
 #### (3) Revocation of clearance
 
-&emsp;Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 60105 of title 46, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
+&emsp;Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 60105 of title 46, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f).
 
 #### (4) Exception to sanctions
 
@@ -246,11 +246,11 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast wateron the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
+&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
 
 #### (B) Great Lakes
 
-&emsp;&emsp;Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b) of this section.
+&emsp;&emsp;Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b).
 
 #### (3) Crude oil tanker ballast facility study
 
@@ -266,7 +266,7 @@ The Secretary shall ensure that vessels registered outside of the United States 
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act tothe Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (l), was in the original "this Act" or "the Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 

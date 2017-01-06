@@ -14,9 +14,9 @@
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may beused only if the woman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
+&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the woman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
 
-&emsp;&emsp;(A) the woman donates the fetal tissue for use in research described in subsection (a) of this section;
+&emsp;&emsp;(A) the woman donates the fetal tissue for use in research described in subsection (a);
 
 &emsp;&emsp;(B) the donation is made without any restriction regarding the identity of individuals who may be the recipients of transplantations of the tissue; and
 
@@ -24,7 +24,7 @@
 
 #### (2) Additional statement
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
+&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
 
 &emsp;&emsp;(A) in the case of tissue obtained pursuant to an induced abortion—
 
@@ -44,7 +44,7 @@
 
 #### (c) Informed consent of researcher and donee
 
-In research carried out under subsection (a) of this section, human fetal tissue may be used only if the individual with the principal responsibility for conducting the research involved makes a statement, made in writing and signed by the individual, declaring that the individual—
+In research carried out under subsection (a), human fetal tissue may be used only if the individual with the principal responsibility for conducting the research involved makes a statement, made in writing and signed by the individual, declaring that the individual—
 
 &emsp;(1) is aware that—
 
@@ -64,7 +64,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the head of the agency or other entity conducting the research involved certifies to the Secretary that the statements required under subsections (b)(2) and (c) of this section will be available for audit by the Secretary.
+&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the head of the agency or other entity conductingthe research involved certifies to the Secretary that the statements required under subsections (b)(2) and (c) will be available for audit by the Secretary.
 
 #### (2) Confidentiality of audit
 
@@ -80,15 +80,15 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 #### (1) Research conducted by recipients of assistance
 
-&emsp;The Secretary may not provide support for research under subsection (a) of this section unless the applicant for the financial assistance involved agrees to conduct the research in accordance with applicable State law.
+&emsp;The Secretary may not provide support for research under subsection (a) unless the applicant for the financial assistance involved agrees to conduct the research in accordance with applicable State law.
 
 #### (2) Research conducted by Secretary
 
-&emsp;The Secretary may conduct research under subsection (a) of this section only in accordance with applicable State and local law.
+&emsp;The Secretary may conduct research under subsection (a) only in accordance with applicable State and local law.
 
 #### (f) Report
 
-The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscal year, including a description of whether and to what extent research under subsection (a) of this section has been conducted in accordance with this section.
+The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscal year, including a description of whether and to what extent research under subsection (a) has been conducted in accordance with this section.
 
 #### (g) "Human fetal tissue" defined
 
@@ -142,5 +142,5 @@ Definition.—For purposes of this section, the term 'human fetal tissue' has th
 
 #### Report by General Accounting Office on Adequacy of Requirements
 
-Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
+Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Serviceshad been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
 

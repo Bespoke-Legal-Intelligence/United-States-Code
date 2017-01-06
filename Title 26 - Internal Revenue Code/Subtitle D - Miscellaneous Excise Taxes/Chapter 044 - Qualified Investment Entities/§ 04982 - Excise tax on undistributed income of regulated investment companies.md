@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (i) Net capital gain
 
-&emsp;&emsp;&emsp;The term "net capital gain" has the meaning given such term by section 1222(11) (determined by treating the 1-yearperiod ending on October 31 of the calendar year as the company's taxable year).
+&emsp;&emsp;&emsp;The term "net capital gain" has the meaning given such term by section 1222(11) (determined by treating the 1-year period ending on October 31 of the calendar year as the company's taxable year).
 
 #### (ii) Net ordinary loss
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 &emsp;Except as provided in regulations prescribed by the Secretary, in the case of a regulated investment company which has a taxable year other than the calendar year—
 
-&emsp;&emsp;(A) such company may elect to determine its ordinary income and net ordinary loss (as defined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
+&emsp;&emsp;(A) such company may elect to determine its ordinary income and net ordinary loss (asdefined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
 
 &emsp;&emsp;(B) any amount of net ordinary loss not taken into account for a calendar year by reason of subparagraph (A) shall be treated as arising on the 1st day of the following calendar year.
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10104(b)(2), Dec. 22, 1987, 101 Stat. 1330–387, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 651 of the Tax Reform Act of 1986 \[section 651 of Pub. L. 99–514, see Effective Date note below\]."
+Pub. L. 100–203, title X, §10104(b)(2), Dec. 22, 1987, 101 Stat. 1330–387, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effectas if included in the amendments made by section 651 of the Tax Reform Act of 1986 \[section 651 of Pub. L. 99–514, see Effective Date note below\]."
 
 #### Effective Date
 

@@ -4,7 +4,7 @@ The prosecution in a territory or Commonwealth is authorized—unless precluded 
 
 &emsp;(a) a decision, judgment, or order of a trial court dismissing an indictment or information as to any one or more counts, except that no review shall lie where the constitutional prohibition against double jeopardy would further prosecution;
 
-&emsp;(b) a decision or order of a trial court suppressing or excluding evidence or requiring thereturn of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the prosecution certifies to the trial court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding; and
+&emsp;(b) a decision or order of a trial court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the prosecution certifies to the trial court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding; and
 
 &emsp;(c) an adverse decision, judgment, or order of an appellate court.
 

@@ -6,7 +6,7 @@ The Director may appoint, for terms not to exceed 6 years (without regard to the
 
 &emsp;(1) at least 30 days prior to the appointment of any such employee, public notice is given of the availability of such position and an opportunity is provided for qualified individuals to apply and compete for such position;
 
-&emsp;(2) the rate of basic pay for such employees does not exceed the maximum rate of basic pay payable for positions at GS–15, as determined in accordance with section 5376 of title 5, except that not more than 7 individuals appointed under this section may be paid at a rate that does not exceed the rate of basic pay for level III of the Executive Schedule;
+&emsp;(2) the rate of basic pay for such employees does not exceed the maximum rate of basicpay payable for positions at GS–15, as determined in accordance with section 5376 of title 5, except that not more than 7 individuals appointed under this section may be paid at a rate that does not exceed the rate of basic pay for level III of the Executive Schedule;
 
 &emsp;(3) the appointment of such employee is necessary (as determined by the Director on the basis of clear and convincing evidence) to provide the Institute or the office, board, committee, or center with scientific or technical expertise which could not otherwise be obtained by the Institute or the office, board, committee, or center through the competitive service; and
 
@@ -14,7 +14,7 @@ The Director may appoint, for terms not to exceed 6 years (without regard to the
 
 #### (b) Duties of employees
 
-All employees described in subsection (a) of this section shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
+All employees described in subsection (a) shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
 
 (Pub. L. 107–279, title I, §188, Nov. 5, 2002, 116 Stat. 1973.)
 

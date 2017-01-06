@@ -10,7 +10,7 @@ For purposes of this section:
 
 #### (1) Presumptive eligibility period
 
-&emsp;The term "presumptive eligibility period" means, with respect to an individual described in subsection (a) of this section, the period that—
+&emsp;The term "presumptive eligibility period" means, with respect to an individual described in subsection (a), the period that—
 
 &emsp;&emsp;(A) begins with the date on which a qualified entity determines, on the basis of preliminary information, that the individual is described in section 1396a(aa) of this title; and
 
@@ -44,13 +44,13 @@ For purposes of this section:
 
 &emsp;The State agency shall provide qualified entities with—
 
-&emsp;&emsp;(A) such forms as are necessary for an application to be made by an individual described in subsection (a) of this section for medical assistance under the State plan; and
+&emsp;&emsp;(A) such forms as are necessary for an application to be made by an individual described in subsection (a) for medical assistance under the State plan; and
 
 &emsp;&emsp;(B) information on how to assist such individuals in completing and filing such forms.
 
 #### (2) Notification requirements
 
-&emsp;A qualified entity that determines under subsection (b)(1)(A) of this section that an individual described in subsection (a) of this section is presumptively eligible for medical assistance under a State plan shall—
+&emsp;A qualified entity that determines under subsection (b)(1)(A) that an individual described in subsection (a) is presumptively eligible for medical assistance under a State plan shall—
 
 &emsp;&emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made; and
 
@@ -58,13 +58,13 @@ For purposes of this section:
 
 #### (3) Application for medical assistance
 
-&emsp;In the case of an individual described in subsection (a) of this section who is determined by a qualified entity to be presumptively eligible for medical assistance under a State plan, the individual shall apply for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made.
+&emsp;In the case of an individual described in subsection (a) who is determined by a qualified entity to be presumptively eligible for medical assistance under a State plan, the individual shall apply for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made.
 
 #### (d) Payment
 
 Notwithstanding any other provision of this subchapter, medical assistance that—
 
-&emsp;(1) is furnished to an individual described in subsection (a) of this section—
+&emsp;(1) is furnished to an individual described in subsection (a)—
 
 &emsp;&emsp;(A) during a presumptive eligibility period;
 
@@ -78,7 +78,7 @@ Notwithstanding any other provision of this subchapter, medical assistance that�
 
 #### Effective Date
 
-Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date, seesection 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
+Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

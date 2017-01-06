@@ -68,7 +68,7 @@ Projects of a national scope.—Not more than 15 percent of the amounts availabl
 
 &emsp;(4)
 
-Data collection.—Each recipient under this section shall submit an annual report to the Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
+Data collection.—Each recipient under this section shall submit an annual report tothe Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
 
 &emsp;&emsp;(A) total annual revenue;
 
@@ -186,7 +186,7 @@ Maximum apportionment.—No State shall receive—
 
 (d)
 
-Use for Local Transportation Service.—A State may use an amount apportioned under this section for a project included in a program under subsection (b) of this section and eligible for assistance under this chapter if the project will provide local transportation service, as defined by the Secretary of Transportation, in a rural area.
+Use for Local Transportation Service.—A State may use an amount apportioned under this section for a project included in a programunder subsection (b) of this section and eligible for assistance under this chapter if the project will provide local transportation service, as defined by the Secretary of Transportation, in a rural area.
 
 (e)
 
@@ -296,7 +296,7 @@ In general.—Of the amounts described in subsection (c)(1)(B)—
 
 &emsp;&emsp;&emsp;(i) 50 percent of the total amount shall be apportioned so that each Indian tribe providing public transportation service shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of vehicle revenue miles provided by an Indian tribe divided by the total number of vehicle revenue miles provided by all Indian tribes, as reported to the Secretary;
 
-&emsp;&emsp;&emsp;(ii) 25 percent of the total amount shall be apportioned equally among each Indiantribe providing at least 200,000 vehicle revenue miles of public transportation service annually, as reported to the Secretary; and
+&emsp;&emsp;&emsp;(ii) 25 percent of the total amount shall be apportioned equally among each Indian tribe providing at least 200,000 vehicle revenue miles of public transportation service annually, as reported to the Secretary; and
 
 &emsp;&emsp;&emsp;(iii) 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (American Indian Areas, Alaska Native Areas, and Hawaiian Home Lands, as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe's lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
 
@@ -478,11 +478,11 @@ Subsec. (j)(1)(E). Pub. L. 114–94, §3007(a)(3)(B), added subpar. (E).
 
 <b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–159, §1201(1), inserted "for each fiscal year ending before October 1, 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be distributed".
 
-Subsec. (c)(1)(B). Pub. L. 113–159, §1201(2), inserted "for each fiscal year ending before October 1, 2014, and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be apportioned".
+Subsec. (c)(1)(B). Pub. L. 113–159, §1201(2), inserted "for each fiscal year ending before October 1, 2014, and$16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be apportioned".
 
 <b>2012</b>—Pub. L. 112–141, §20010, amended section generally. Prior to amendment, section related to formula grants for other than urbanized areas.
 
-Subsec. (c)(1)(G). Pub. L. 112–141, §113004, amended subpar. (G) generally. Prior to amendment, subpar. (G)read as follows: "$11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012."
+Subsec. (c)(1)(G). Pub. L. 112–141, §113004, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "$11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012."
 
 Pub. L. 112–140, §§1(c), 304, temporarily amended subpar. (G) generally, apportioning $11,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
 

@@ -32,7 +32,7 @@ Pub. L. 107–115, title V, §586(b), Jan. 10, 2002, 115 Stat. 2173, provided th
 
 #### Report on Sino-British Joint Declaration on Question of Hong Kong
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §571\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–167, which directedthat the additional report required to be submitted during 1997 under this section include detailed information on the status of, and other developments affecting, implementation of the Sino-British Joint Declaration on the Question of Hong Kong, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation act:
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §571\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–167, which directed that the additional report required to be submitted during 1997 under this section include detailed information on the status of, and other developments affecting, implementation of the Sino-British Joint Declaration on the Question of Hong Kong, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–107, title V, §576(b), Feb. 12, 1996, 110 Stat. 750.
 

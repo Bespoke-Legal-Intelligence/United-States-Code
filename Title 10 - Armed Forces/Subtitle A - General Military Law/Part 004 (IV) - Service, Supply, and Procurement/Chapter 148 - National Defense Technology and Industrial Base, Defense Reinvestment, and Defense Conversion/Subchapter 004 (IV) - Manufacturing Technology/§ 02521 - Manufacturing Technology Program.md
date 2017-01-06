@@ -16,7 +16,7 @@ Purpose of Program.—The Secretary of Defense shall use the program—
 
 &emsp;(4) to focus Department of Defense support for the development and application of advanced manufacturing technologies and processes for use to meet manufacturing requirements that are essential to the national defense, as well as for repair and remanufacturing in support of the operations of systems commands, depots, air logistics centers, and shipyards;
 
-&emsp;(5) to disseminate information concerning improved manufacturing improvement concepts, including information on such matters as best manufacturing practices, product data exchange specifications, computer-aided acquisition and logistics support, and rapid acquisition of manufactured parts;
+&emsp;(5) to disseminate information concerning improved manufacturing improvement concepts, including information on such mattersas best manufacturing practices, product data exchange specifications, computer-aided acquisition and logistics support, and rapid acquisition of manufactured parts;
 
 &emsp;(6) to sustain and enhance the skills and capabilities of the manufacturing work force;
 
@@ -30,7 +30,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (2) In the establishment and review of requirements for an advanced manufacturing technology or process, the Secretary shall ensure the participation of those prospective technology users that are expected to be the users of that technology or process.
 
-(3) The Secretary shall ensure that each project under the program for the developmentof an advanced manufacturing technology or process includes an implementation plan for the transition of that technology or process to the prospective technology users that will be the users of that technology or process.
+(3) The Secretary shall ensure that each project under the program for the development of an advanced manufacturing technology or process includes an implementation plan for the transition of that technology or process to the prospective technology users that will be the users of that technology or process.
 
 (4) In the periodic review of a project under the program, the Secretary shall ensure participation by those prospective technology users that are the expected users for the technology or process being developed under the project.
 
@@ -98,7 +98,7 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L.110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, §212, Dec. 19, 2014, 128 Stat. 3325.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, §212, Dec. 19, 2014, 128 Stat. 3325.)
 
 #### Prior Provisions
 

@@ -38,7 +38,7 @@
 
 Pub. L. 101–140, title II, §202(b), Nov. 8, 1989, 103 Stat. 830, struck out item 89 "Benefits provided under certain employee benefit plans".
 
-<b>1987</b>—Pub. L. 100–203, title X, §§10201(b)(6), 10611(b), Dec. 22, 1987, 101 Stat. 1330–387, 1330-452, struck out item 81 "Increase in vacation pay suspense account" and added item 90.
+<b>1987</b>—Pub. L. 100–203, title X, §§10201(b)(6), 10611(b), Dec. 22, 1987, 101 Stat. 1330–387, 1330–452, struck out item 81 "Increase in vacation pay suspense account" and added item 90.
 
 <b>1986</b>—Pub. L. 99–514, title VIII, §805(c)(1)(B), title XI, §1151(j)(1), Oct. 22, 1986, 100 Stat. 2362, 2508, substituted "Increase in vacation pay suspense account" for "Certain increases in suspense accounts" in item 81, and added item 89.
 

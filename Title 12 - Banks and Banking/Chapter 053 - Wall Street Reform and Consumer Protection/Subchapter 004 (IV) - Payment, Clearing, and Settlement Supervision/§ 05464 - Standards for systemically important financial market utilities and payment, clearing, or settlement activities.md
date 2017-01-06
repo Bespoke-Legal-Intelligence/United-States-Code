@@ -34,7 +34,7 @@
 
 #### (E) Authorization
 
-&emsp;&emsp;Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient." <sup>1</sup>
+&emsp;&emsp;Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such riskmanagement standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient." <sup>1</sup>
 
 #### (b) Objectives and principles
 

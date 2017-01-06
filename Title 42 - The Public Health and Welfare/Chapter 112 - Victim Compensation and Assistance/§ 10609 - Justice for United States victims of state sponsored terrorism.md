@@ -106,7 +106,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (1) To whom made
 
-&emsp;The Special Master shall order payment from the Fund for each eligible claim of a United States person to that person or, if that person is deceased, to the personal representative of the estate of that person.
+&emsp;The Special Master shall order payment from the Fund for each eligible claim of aUnited States person to that person or, if that person is deceased, to the personal representative of the estate of that person.
 
 #### (2) Timing of initial payments
 
@@ -192,7 +192,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (iii) Election to participate in the Fund
 
-&emsp;&emsp;&emsp;Upon written notice to the Attorney General, the Special Master, and the chief judge of the United States District Court for the Southern District of New York within 60 days after the date of the publication required under subsection (b)(2)(A) a United States person, who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014, in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), shall have the right to elect to participate in the Fund and, to the extent any such person exercises such right, shall irrevocably assign to the Fund all rights, title, and interest to such person's claims to the assets at issue in such proceedings. To the extent that a United States person is both a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.) and a Settling Judgment Creditor in In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), any election by such personto participate in the Fund pursuant to this paragraph shall operate as an election to assign any and all rights, title, and interest in the assets in both actions for the purposes of participating in the Fund. The Attorney General is authorized to pursue any such assigned rights, title, and interest in those claims for the benefit of the Fund.
+&emsp;&emsp;&emsp;Upon written notice to the Attorney General, the Special Master, and the chief judge of the United States District Court for the Southern District of New York within 60 days after the date of the publication required under subsection (b)(2)(A) a United States person, who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014, in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), shall have the right to elect to participate in the Fund and, to the extent any such person exercises such right, shall irrevocably assign to the Fund all rights, title, and interest to such person's claims to the assets at issue in such proceedings. To the extent that a United States person is both a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.) and a Settling Judgment Creditor in In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), any election by such person to participate in the Fund pursuant to this paragraph shall operate as an election to assign any and all rights, title, and interest in the assets in both actions for the purposes of participating in the Fund. The Attorney General is authorized to pursue any such assigned rights, title, and interest in those claims for the benefit of the Fund.
 
 #### (iv) Application for conditional payment
 
@@ -200,7 +200,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding any such claimant's eligibility for payment and the initial deadline for initial payments set forth in subsection (d)(2), the Special Master shall allocate but withhold payment to an eligible claimant who applies for a conditional payment under this paragraph until such time as an adverse final judgment is entered in both of the proceedings identified in clause (iii).
+&emsp;&emsp;&emsp;&emsp;Notwithstanding any such claimant's eligibility for payment and the initial deadline for initial payments set forth insubsection (d)(2), the Special Master shall allocate but withhold payment to an eligible claimant who applies for a conditional payment under this paragraph until such time as an adverse final judgment is entered in both of the proceedings identified in clause (iii).
 
 #### (II) Exception
 
@@ -330,13 +330,13 @@ The provisions of this section are severable. If any provision of this section, 
 
 #### References in Text
 
-Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs.\(c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, §1083(b)(1)(A). See 2008 Amendment note under that section.
+Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, §1083(b)(1)(A). See 2008 Amendment note under that section.
 
 Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (d)(3)(A)(ii)(III), is section 405 of Pub. L. 107–42, which is set out in a note under section 40101 of Title 49, Transportation.
 
 The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification andrenumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under section 40101 of Title 49, Transportation.
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-No Federal funds received under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\] by an institution of higher education or other postsecondary educational institution may be used to pay any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with any Federal action described in subsection (b).
+No Federal funds received under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) by an institution of higher education or other postsecondary educational institution may be used to pay any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with any Federal action described in subsection (b).
 
 #### (b) Applicability
 
@@ -20,11 +20,11 @@ The prohibition in subsection (a) applies with respect to the following Federal 
 
 #### (c) Lobbying and earmarks
 
-No Federal student aid funding under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\] may be used to hire a registered lobbyist or pay any person or entity for securing an earmark.
+No Federal student aid funding under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) may be used to hire a registered lobbyist or pay any person or entity for securing an earmark.
 
 #### (d) Certification
 
-Each institution of higher education or other postsecondary educational institution receiving Federal funding under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\], as a condition for receiving such funding, shall annually certify to the Secretary of Education that the requirements of subsections (a) through (c) have been met.
+Each institution of higher education or other postsecondary educational institution receiving Federal funding under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as a condition for receiving such funding, shall annually certify to the Secretary of Education that the requirements of subsections (a) through (c) have been met.
 
 #### (e) Actions to implement and enforce
 
@@ -34,7 +34,7 @@ The Secretary of Education shall take such actions as are necessary to ensure th
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (a), (c), and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to this chapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (a), (c), and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Codification
 
@@ -44,7 +44,7 @@ Section was enacted as part of the Higher Education Opportunity Act, and not as 
 
 A prior section 1012, Pub. L. 89–329, title I, §112, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1282, related to establishment of off-campus program grants, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1012, Pub. L. 89–329, title I, §112, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1377, provided for State allotments including percentage breakdown and cases of States not conducting comprehensive statewide planning, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1012, Pub. L. 89–329, title I, §112, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94Stat. 1377, provided for State allotments including percentage breakdown and cases of States not conducting comprehensive statewide planning, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 A prior section 1013, Pub. L. 89–329, title I, §113, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1284, related to adult and continuing education staff development, prior to the general amendment of this subchapter by Pub. L. 102–325.
 

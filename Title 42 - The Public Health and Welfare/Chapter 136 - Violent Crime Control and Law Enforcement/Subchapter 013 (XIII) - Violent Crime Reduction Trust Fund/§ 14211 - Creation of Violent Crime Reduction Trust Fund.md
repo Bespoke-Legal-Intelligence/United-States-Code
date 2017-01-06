@@ -2,7 +2,7 @@
 
 #### (a) Violent Crime Reduction Trust Fund
 
-There is established a separate account in the Treasury, known as the "Violent Crime Reduction Trust Fund" (referred to in this section as the "Fund") into which shall be transferred, in accordance with subsection (b) of this section, savings realized from implementation of section 5 of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 3101 note; Public Law 103–226).
+There is established a separate account in the Treasury, known as the "Violent Crime Reduction Trust Fund" (referred to in this section as the "Fund") into which shall be transferred, in accordance with subsection (b), savings realized from implementation of section 5 of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 3101 note; Public Law 103–226).
 
 #### (b) Transfers into Fund
 
@@ -30,7 +30,7 @@ On the first day of the following fiscal years (or as soon thereafter as possibl
 
 #### References in Text
 
-This section, referred to in subsec. (a), is section 310001 of Pub. L. 103–322, which enacted this section and section 901a of Title 2, The Congress, and amended sections 665a and 904 of Title 2 and sections 1105 and 1321 of Title 31, Money and Finance.
+This section, referred to in subsec. (a), is section 310001 of Pub. L. 103–322, which enacted this section andsection 901a of Title 2, The Congress, and amended sections 665a and 904 of Title 2 and sections 1105 and 1321 of Title 31, Money and Finance.
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 

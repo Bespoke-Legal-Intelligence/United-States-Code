@@ -586,6 +586,7 @@
 | [287\.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287%20-%20Representation%20in%20Organization.md) | Representation in Organization. |
 | [287a.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287a%20-%20Action%20by%20representatives%20in%20accordance%20with%20Presidential%20instructions%3B%20voting.md) | Action by representatives in accordance with Presidential instructions; voting. |
 | [287b.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287b%20-%20Reports%20to%20Congress%20by%20President.md) | Reports to Congress by President. |
+| 287b–1. | Additional report on other United States contributions to the United Nations. |
 | [287c.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287c%20-%20Economic%20and%20communication%20sanctions%20pursuant%20to%20United%20Nations%20Security%20Council%20Resolution.md) | Economic and communication sanctions pursuant to United Nations Security Council Resolution. |
 | [287d.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287d%20-%20Use%20of%20armed%20forces%3B%20limitations.md) | Use of armed forces; limitations. |
 | 287d–1. | Noncombatant assistance to United Nations. |

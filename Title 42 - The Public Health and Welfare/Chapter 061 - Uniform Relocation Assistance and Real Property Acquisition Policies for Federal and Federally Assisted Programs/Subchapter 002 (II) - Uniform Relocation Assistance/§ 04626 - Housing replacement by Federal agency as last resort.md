@@ -1,6 +1,6 @@
 ### §4626. Housing replacement by Federal agency as last resort
 
-(a) If a program or project undertaken by a Federal agency or with Federal financial assistance cannot proceed on a timely basis because comparable replacement dwellings are not available, and the head of the displacing agency determines that such dwellings cannot otherwise be made available, the head of the displacing agency may take such action as is necessary or appropriate to provide such dwellings by use offunds authorized for such project. The head of the displacing agency may use this section to exceed the maximum amounts which may be paid under sections 4623 and 4624 of this title on a case-by-case basis for good cause as determined in accordance with such regulations as the head of the lead agency shall issue.
+(a) If a program or project undertaken by a Federal agency or with Federal financial assistance cannot proceed on a timely basis because comparable replacement dwellings are not available, and the head of the displacing agency determines that such dwellings cannot otherwise be made available, the head of the displacing agency may take such action as is necessary or appropriate to provide such dwellings by use of funds authorized for such project. The head of the displacing agency may use this section to exceed the maximum amounts which may be paid under sections 4623 and 4624 of this title on a case-by-case basis for good cause as determined in accordance with such regulations as the head of the lead agency shall issue.
 
 (b) No person shall be required to move from his dwelling on account of any program or project undertaken by a Federal agency or with Federal financial assistance, unless the head of the displacing agency is satisfied that comparable replacement housing is available to such person.
 
@@ -14,5 +14,5 @@ Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L.100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 

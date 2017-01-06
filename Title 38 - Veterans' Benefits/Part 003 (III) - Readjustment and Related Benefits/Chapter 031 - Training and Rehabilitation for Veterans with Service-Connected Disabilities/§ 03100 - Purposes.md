@@ -12,7 +12,7 @@ The purposes of this chapter are to provide for all services and assistance nece
 
 Pub. L. 96–466, title VIII, §802(a)(1)–(5), Oct. 17, 1980, 94 Stat. 2217, provided that:
 
-"(a)(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) of section 101 \[enacting this chapter\] shall become effective on April 1, 1981.
+"(a)(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) of section101 \[enacting this chapter\] shall become effective on April 1, 1981.
 
 "(2) The provisions of sections 1508, 1512, 1516, 1518, 1519, 1520, and 1521 \[now 3108, 3112, 3116, 3118, 3119, 3120, and 3121\] of title 38, United States Code, as added by section 101(a), shall become effective on October 1, 1980.
 

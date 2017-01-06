@@ -18,11 +18,11 @@ In addition to such other awards as the Administrator may provide for, national 
 
 #### (c) Nomination by Environmental Education Advisory Council
 
-Recipients of education awards provided for in subsection (b) of this section shall be nominated by the Environmental Education Advisory Council provided for in section 5508 of this title.
+Recipients of education awards provided for in subsection (b) shall be nominated by the Environmental Education Advisory Council provided for in section 5508 of this title.
 
 #### (d) President's Environmental Youth Awards
 
-The Administrator may provide for the "President's Environmental Youth Awards" to be given to young people in grades kindergartenthrough twelfth for an outstanding project to promote local environmental awareness.
+The Administrator may provide for the "President's Environmental Youth Awards" to be given to young people in grades kindergarten through twelfth for an outstanding project to promote local environmental awareness.
 
 #### (e) Cash awards for elementary and secondary education teachers and local educational agencies
 

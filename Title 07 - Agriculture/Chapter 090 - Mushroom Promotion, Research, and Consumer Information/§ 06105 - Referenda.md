@@ -24,7 +24,7 @@
 
 #### (2) Suspension or termination
 
-&emsp;If, as a result of any referendum conducted under paragraph (1), the Secretary determines that suspension or termination of an order is favored by a majority of the producers and importers voting in the referendum, which majority, on average, annually produces and imports into the United States more than 50 percent of the mushrooms annually produced and imported by all those voting in the referendum, the Secretary shall—
+&emsp;If, as a result of any referendum conducted under paragraph (1), the Secretary determinesthat suspension or termination of an order is favored by a majority of the producers and importers voting in the referendum, which majority, on average, annually produces and imports into the United States more than 50 percent of the mushrooms annually produced and imported by all those voting in the referendum, the Secretary shall—
 
 &emsp;&emsp;(A) within 6 months after making such determination, suspend or terminate, as appropriate, collection of assessments under the order; and
 

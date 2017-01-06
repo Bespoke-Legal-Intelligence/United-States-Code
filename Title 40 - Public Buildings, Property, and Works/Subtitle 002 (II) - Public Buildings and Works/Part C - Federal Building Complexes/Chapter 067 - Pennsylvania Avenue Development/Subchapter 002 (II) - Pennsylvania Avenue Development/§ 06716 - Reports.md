@@ -2,7 +2,7 @@
 
 (a)
 
-Reports to President and Congress.—The Administrator of General Services shalltransmit comprehensive and detailed reports of the Administrator's operations, activities, and accomplishments under this subchapter to the President and Congress. The Administrator shall transmit a report to the President each January and to the President and Congress at other times that the Administrator considers desirable.
+Reports to President and Congress.—The Administrator of General Services shall transmit comprehensive and detailed reports of the Administrator's operations, activities, and accomplishments under this subchapter to the President and Congress. The Administrator shall transmit a report to the President each January and to the President and Congress at other times that the Administrator considers desirable.
 
 (b)
 
@@ -36,5 +36,5 @@ Pub. L. 92–578, §11(b), (c), as added Pub. L. 98–141, §8(d), Oct. 31, 1983
 
 40:880(c).
 
-In subsection (a), the text of 40:880(b) is omitted as obsolete. The requirement that a report be transmitted to Congress each January is eliminated pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 205 of House Document No. 103–7.
+In subsection (a), the text of 40:880(b) is omitted as obsolete. The requirement that a report be transmittedto Congress each January is eliminated pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 205 of House Document No. 103–7.
 

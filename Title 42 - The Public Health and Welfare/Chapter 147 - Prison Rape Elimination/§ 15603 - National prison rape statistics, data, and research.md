@@ -116,7 +116,7 @@
 
 #### (3) Data adjustments
 
-&emsp;In preparing the information specified in paragraph (2), the Attorney General shall useestablished statistical methods to adjust the data as necessary to account for differences among institutions in the representative sample, which are not related to the detection, prevention, reduction and punishment of prison rape, or which are outside the control of the State, prison, or prison system, in order to provide an accurate comparison among prisons. Such differences may include the mission, security level, size, and jurisdiction under which the prison operates. For each such adjustment made, the Attorney General shall identify and explain such adjustment in the report.
+&emsp;In preparing the information specified in paragraph (2), the Attorney General shall use established statistical methods to adjust the data as necessary to account for differences among institutions in the representative sample, which are not related to the detection, prevention, reduction and punishment of prison rape, or which are outside the control of the State, prison, or prison system, in order to provide an accurate comparison among prisons. Such differences may include the mission, security level, size, and jurisdiction under which the prison operates. For each such adjustment made, the Attorney General shall identify and explain such adjustment in the report.
 
 #### (4) Categorization of prisons
 

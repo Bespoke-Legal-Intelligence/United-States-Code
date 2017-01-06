@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to each type of service described in subsection (b) of this section, the Secretary shall collect and maintain up-to-date statistics, by State, and on a fiscal year basis, on—
+With respect to each type of service described in subsection (b), the Secretary shall collect and maintain up-to-date statistics, by State, and on a fiscal year basis, on—
 
 &emsp;(1) the number of cases in the caseload of the State agency administering the plan approved under this part in which the service is needed; and
 
@@ -10,19 +10,19 @@ With respect to each type of service described in subsection (b) of this section
 
 #### (b) Types of services
 
-The statistics required by subsection (a) of this section shall be separately stated with respect to paternity establishment services and child support obligation establishment services.
+The statistics required by subsection (a) shall be separately stated with respect to paternityestablishment services and child support obligation establishment services.
 
 #### (c) Types of service recipients
 
-The statistics required by subsection (a) of this section shall be separately stated with respect to—
+The statistics required by subsection (a) shall be separately stated with respect to—
 
-&emsp;(1) recipients of assistance under a State program funded under part A of this subchapter or of payments or services under a State plan approved under part E of this subchapter; and
+&emsp;(1) recipients of assistance under a State program funded under part A or of payments or services under a State plan approved under part E; and
 
 &emsp;(2) individuals who are not such recipients.
 
 #### (d) Rule of interpretation
 
-For purposes of subsection (a)(2) of this section, a service has actually been provided when the task described by the service has been accomplished.
+For purposes of subsection (a)(2), a service has actually been provided when the task described by the service has been accomplished.
 
 (Aug. 14, 1935, ch. 531, title IV, §469, as added Pub. L. 100–485, title I, §129, Oct. 13, 1988, 102 Stat. 2356; amended Pub. L. 100–647, title VIII, §8105(6), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 104–193, title I, §108(c)(16), title III, §395(d)(2)(E), Aug. 22, 1996, 110 Stat. 2166, 2260; Pub. L. 105–200, title IV, §407(a), July 16, 1998, 112 Stat. 672.)
 
@@ -38,7 +38,7 @@ Subsec. (b)(2), (4). Pub. L. 104–193, §395(d)(2)(E), substituted "a noncustod
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–200 applicable to information maintained with respect to fiscal year 1995 or anysucceeding fiscal year, see section 407(c) of Pub. L. 105–200, set out as a note under section 652 of this title.
+Amendment by Pub. L. 105–200 applicable to information maintained with respect to fiscal year 1995 or any succeeding fiscal year, see section 407(c) of Pub. L. 105–200, set out as a note under section 652 of this title.
 
 #### Effective Date of 1996 Amendment
 

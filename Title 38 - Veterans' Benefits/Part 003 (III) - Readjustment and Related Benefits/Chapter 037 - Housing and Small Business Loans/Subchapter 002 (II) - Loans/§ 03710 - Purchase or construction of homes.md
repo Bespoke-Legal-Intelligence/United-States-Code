@@ -46,7 +46,7 @@
 
 &emsp;(5) except in the case of a loan described in clause (7) or (8) of this subsection, the loan to be paid by the veteran for such property or for the cost of construction, repairs, or alterations, does not exceed the reasonable value thereof as determined pursuant to section 3731 of this title;
 
-&emsp;(6) if the loan is for repair, alteration, or improvement of property, such repair, alteration, or improvement substantially protects or improves the basic livability or utility of such property;
+&emsp;(6) if the loan is for repair, alteration, or improvement of property, such repair, alteration,or improvement substantially protects or improves the basic livability or utility of such property;
 
 &emsp;(7) in the case of a loan (other than a loan made for a purpose specified in subsection (a)(8) of this section) that is made to refinance—
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, except that amendment by 
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretaryunder such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 

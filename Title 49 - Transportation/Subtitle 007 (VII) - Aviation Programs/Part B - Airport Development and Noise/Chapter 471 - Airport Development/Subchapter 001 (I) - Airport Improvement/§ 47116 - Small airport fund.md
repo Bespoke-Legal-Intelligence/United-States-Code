@@ -26,7 +26,7 @@ Priority Consideration for Certain Projects.—
 
 &emsp;(1)
 
-Construction of new runways.—In making grants to sponsors described in subsection\(b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
 
 &emsp;(2)
 

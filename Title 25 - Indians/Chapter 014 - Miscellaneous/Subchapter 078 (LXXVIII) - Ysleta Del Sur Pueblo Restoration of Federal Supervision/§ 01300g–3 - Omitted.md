@@ -1,0 +1,6 @@
+### §1300g–3. Omitted
+
+#### Codification
+
+Section, Pub. L. 100–89, title I, §104, Aug. 18, 1987, 101 Stat. 667, which related to State and tribal authority, was omitted from the Code as being of special and not general application.
+

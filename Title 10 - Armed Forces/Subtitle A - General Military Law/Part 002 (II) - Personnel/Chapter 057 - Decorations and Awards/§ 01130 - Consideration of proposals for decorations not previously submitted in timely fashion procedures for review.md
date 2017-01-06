@@ -88,13 +88,13 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(5) Subsequent requests to the Secretaries of the military departments for review of award recommendations for such acts have been denied because of restrictions in law and regulations that require timely filing of such recommendations and documented justification.
 
-&emsp;"(6) Acts of heroism, sacrifice, and bravery performed in combat by members of the Armed Forcesdeserve appropriate and timely recognition by the people of the United States.
+&emsp;"(6) Acts of heroism, sacrifice, and bravery performed in combat by members of the Armed Forces deserve appropriate and timely recognition by the people of the United States.
 
 &emsp;"(7) It is appropriate to recognize acts of heroism, sacrifice, or bravery that are belatedly, but properly, documented by persons who witnessed those acts.
 
 "(b)
 
-Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c).
+Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions bythat person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c).
 
 "(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the Vietnam era and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under regulations of the Department of Defense or the military department concerned to be awarded to members of the Armed Forces for acts of valor.
 

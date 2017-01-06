@@ -13,5 +13,6 @@ A prior part G of this subchapter consisting of sections 3030p to 3030r of this 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subpart 001 (i) - Caregiver Support Program](Subpart%20001%20%28i%29%20-%20Caregiver%20Support%20Program/README.md)
-- [Subpart 002 (ii) - National Innovation Programs](Subpart%20002%20%28ii%29%20-%20National%20Innovation%20Programs/README.md)
+- [&sect; 03030s - Definitions](%C2%A7%2003030s%20-%20Definitions.md)
+- [&sect; 03030s&#8211;1 - Program authorized](%C2%A7%2003030s%E2%80%931%20-%20Program%20authorized.md)
+- [&sect; 03030s&#8211;2 - Maintenance of effort](%C2%A7%2003030s%E2%80%932%20-%20Maintenance%20of%20effort.md)

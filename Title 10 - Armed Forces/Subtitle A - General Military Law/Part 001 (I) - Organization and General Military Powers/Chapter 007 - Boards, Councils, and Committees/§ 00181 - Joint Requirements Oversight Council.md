@@ -2,91 +2,123 @@
 
 (a)
 
-Establishment.—There is a Joint Requirements Oversight Council in the Department of Defense.
+In General.—There is a Joint Requirements Oversight Council in the Department of Defense.
 
 (b)
 
-Mission.—In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall—
+Mission.—In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall assist the Chairman of the Joint Chiefs of Staff in—
 
-&emsp;(1) assist the Chairman of the Joint Chiefs of Staff—
+&emsp;(1) assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under section 118 <sup>1</sup> of this title;
 
-&emsp;&emsp;(A) in identifying, assessing, and approving joint military requirements (including existing systems and equipment) to meet the national military strategy;
+&emsp;(2) reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
 
-&emsp;&emsp;(B) in identifying the core mission area associated with each such requirement; and
+&emsp;(3) developing recommendations, in consultation with the advisors to the Council under subsection (d), for program cost and fielding targets pursuant to section 2448a of this title that—
 
-&emsp;&emsp;(C) in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements in consultation with the advisors specified in subsection (d);
+&emsp;&emsp;(A) require a level of resources that is consistent with the level of priority assigned to the associated capability gap; and
 
-&emsp;(2) assist the Chairman in establishing and assigning priority levels for joint military requirements;
+&emsp;&emsp;(B) have an estimated period of time for the delivery of an initial operational capability that is consistent with the urgency of the associated capability gap;
 
-&emsp;(3) assist the Chairman, in consultation with the advisors to the Council under subsection (d), in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that the total cost of such resources is consistent with the level of priority assigned to such requirement;
+&emsp;(4) establishing and approving joint performance requirements that—
 
-&emsp;(4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and section 2433(e)(2) of this title; and
+&emsp;&emsp;(A) ensure interoperability, where appropriate, between and among joint military capabilities; and
 
-&emsp;(5) assist the Chairman, in consultation with the commanders of the combatant commands and the Under Secretary of Defense for Acquisition, Technology, and Logistics, in establishing an objective for the overall period of time within which an initial operational capability should be delivered to meet each joint military requirement.
+&emsp;&emsp;(B) are necessary, as designated by the Chairman of the Joint Chiefs of Staff, to fulfill capability gaps of more than one armed force, Defense Agency, or other entity of the Department;
+
+&emsp;(5) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
+
+&emsp;(6) identifying new joint military capabilities based on advances in technology and concepts of operation; and
+
+&emsp;(7) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 2366a(b), 2366b(a)(4), and 2433(e)(2) of this title.
 
 (c)
 
-Composition.—(1) The Joint Requirements Oversight Council is composed of—
+Composition.—
 
-&emsp;(A) the Vice Chairman of the Joint Chiefs of Staff, who is the chairman of the Council;
+&emsp;(1)
 
-&emsp;(B) an Army officer in the grade of general;
+In general.—The Joint Requirements Oversight Council is composed of the following:
 
-&emsp;(C) a Navy officer in the grade of admiral;
+&emsp;&emsp;(A) The Vice Chairman of the Joint Chiefs of Staff, who is the Chair of the Council and is the principal adviser to the Chairman of the Joint Chiefs of Staff for making recommendations about joint military capabilities or joint performance requirements.
 
-&emsp;(D) an Air Force officer in the grade of general;
+&emsp;&emsp;(B) An Army officer in the grade of general.
 
-&emsp;(E) a Marine Corps officer in the grade of general; and
+&emsp;&emsp;(C) A Navy officer in the grade of admiral.
 
-&emsp;(F) in addition, when directed by the chairman, the commander of any combatant command (or, as directed by that commander, the deputy commander of that command) when matters related to the area of responsibility or functions of that command will be under consideration by the Council.
+&emsp;&emsp;(D) An Air Force officer in the grade of general.
 
-(2) Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for such selection by the Secretary of the military department concerned.
+&emsp;&emsp;(E) A Marine Corps officer in the grade of general.
+
+&emsp;(2)
+
+Selection of members.—Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for selection by the Secretary of the military department concerned.
+
+&emsp;(3)
+
+Recommendations.—In making any recommendation to the Chairman of the Joint Chiefs of Staff as described in paragraph (1)(A), the Vice Chairman of the Joint Chiefs of Staff shall provide the Chairman any dissenting view of members of the Council under paragraph (1) with respect to such recommendation.
 
 (d)
 
-Advisors.—(1) The following officials of the Department of Defense shall serve as advisors to the Council on matters within their authority and expertise:
+Advisors.—
 
-&emsp;(A) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;(1)
 
-&emsp;(B) The Under Secretary of Defense (Comptroller).
+In general.—The following officials of the Department of Defense shall serve as advisors to the Joint Requirements Oversight Council on matters within their authority and expertise:
 
-&emsp;(C) The Under Secretary of Defense for Policy.
+&emsp;&emsp;(A) The Under Secretary of Defense for Policy.
 
-&emsp;(D) The Director of Cost Assessment and Program Evaluation.
+&emsp;&emsp;(B) The Under Secretary of Defense for Intelligence.
 
-&emsp;(E) The Director of Operational Test and Evaluation.
+&emsp;&emsp;(C) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-&emsp;(F) Such other civilian officials of the Department of Defense as are designated by the Secretary of Defense for purposes of this subsection.
+&emsp;&emsp;(D) The Under Secretary of Defense (Comptroller).
 
-(2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
+&emsp;&emsp;(E) The Director of Cost Assessment and Program Evaluation.
 
-(3) The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to trade-offs among cost, schedule, technical feasibility, and performance under subsection (b)(1)(C) and the balancing of resources with priorities pursuant to subsection (b)(3).
+&emsp;&emsp;(F) The Director of Operational Test and Evaluation.
+
+&emsp;&emsp;(G) The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
+
+&emsp;(2)
+
+Input from combatant commands.—The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b).
+
+&emsp;(3)
+
+Input from chiefs of staff.—The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3).
 
 (e)
 
-Organization.—The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
+Performance Requirements as Responsibility of Armed Forces.—The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
 
 (f)
 
-Availability of Oversight Information to Congressional Defense Committees.—(1) The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
-
-(2) In this subsection, the term "oversight information" means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
+Analytic Support.—The Secretary of Defense shall ensure that analytical organizations within the Department of Defense, such as the Office of Cost Assessment and Program Evaluation, provide resources and expertise in operations research, systems analysis, and cost estimation to the Joint Requirements Oversight Council to assist the Council in performing the mission in subsection (b).
 
 (g)
 
+Availability of Oversight Information to Congressional Defense Committees.—The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman of the Joint Chiefs of Staff to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
+
+(h)
+
 Definitions.—In this section:
 
-&emsp;(1) The term "joint military requirement" means a capability necessary to fulfill a gap in a core mission area of the Department of Defense.
+&emsp;(1) The term "joint military capabilities" means the collective capabilities across the joint force, including both joint and force-specific capabilities, that are available to conduct military operations.
 
-&emsp;(2) The term "core mission area" means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b <sup>1</sup> of this title.
+&emsp;(2) The term "performance requirement" means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879.)
+&emsp;(3) The term "joint performance requirement" means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more than one armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.
+
+&emsp;(4) The term "oversight information" means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
+
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359.)
 
 #### References in Text
 
-Section 118b of this title, referred to in subsec. (g)(2), was repealed by Pub. L. 113–291, div. A, title X, §1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
+Section 118 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Requirements in the national defense strategy are now set out in subsec. (g) of section 113 of this title.
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328 amended section generally. Prior to amendment, section related to Joint Requirements Oversight Council and consisted of its establishment, mission, composition, advisors, organization, availability of oversight information to Congressional defense committees, and definitions.
 
 <b>2015</b>—Subsec. (d)(3). Pub. L. 114–92 added par. (3).
 
@@ -132,7 +164,7 @@ Subsec. (f). Pub. L. 110–181, §942(b)(1), redesignated subsec. (d) as (f).
 
 Subsec. (g). Pub. L. 110–181, §942(d), added subsec. (g).
 
-<b>2003</b>—Subsec. (d)(2). Pub. L. 108–136 substituted "subsection, the term 'oversight" for "subsection:", struckout "(A) The term 'oversight" before "information' means", and struck out subpar. (B) which read as follows: "The term 'congressional defense committees' means—
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–136 substituted "subsection, the term 'oversight" for "subsection:", struck out "(A) The term 'oversight" before "information' means", and struck out subpar. (B) which read as follows: "The term 'congressional defense committees' means—
 
 &emsp;"(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 

@@ -46,3 +46,7 @@ Comptroller General Review.—(1) The Comptroller General shall review each repo
 
 <b>2011</b>—Subsec. (a)(7) to (12). Pub. L. 112–81 added pars. (7) to (12).
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+

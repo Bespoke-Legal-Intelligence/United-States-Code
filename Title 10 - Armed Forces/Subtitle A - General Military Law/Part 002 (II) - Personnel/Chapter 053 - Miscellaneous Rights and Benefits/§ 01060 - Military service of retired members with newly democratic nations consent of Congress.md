@@ -10,7 +10,7 @@ Consent of Congress.—Subject to subsection (b), Congress consents to a retired
 
 (b)
 
-Approval Required.—The consent provided in subsection (a) for a retired member of the uniformed services to accept employment orhold an office or position shall apply to a retired member only if the Secretary concerned and the Secretary of State jointly approve the employment or the holding of such office or position.
+Approval Required.—The consent provided in subsection (a) for a retired member of the uniformed services to accept employment or hold an office or position shall apply to a retired member only if the Secretary concerned and the Secretary of State jointly approve the employment or the holding of such office or position.
 
 (c)
 

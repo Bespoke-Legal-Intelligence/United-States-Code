@@ -16,25 +16,33 @@ In carrying out subsection (a), the President is authorized, subject to existing
 
 &emsp;(2) to enhance scientific cooperation between Israel and the United States.
 
-#### (c) Cooperative research pilot programs
+#### (c) Cooperative research programs
 
-The Secretary of Homeland Security, acting through the Director of the Homeland Security Advanced Research Projects Agency and with the concurrence of the Secretary of State, is authorized, subject to existing law, to enter into cooperative research pilot programs with Israel to enhance Israel's capabilities in—
+The Secretary of Homeland Security, acting through the Director of the Homeland Security Advanced Research Projects Agency and with the concurrence of the Secretary of State, is authorized, subject to existing law, to enter into cooperative research programs with Israel to enhance Israel's capabilities in—
 
 &emsp;(1) border, maritime, and aviation security;
 
-&emsp;(2) explosives detection; and
+&emsp;(2) explosives detection;
 
-&emsp;(3) emergency services.
+&emsp;(3) emergency services; and
 
-(Pub. L. 113–296, §7, Dec. 19, 2014, 128 Stat. 4077.)
+&emsp;(4) cybersecurity.
+
+(Pub. L. 113–296, §7, Dec. 19, 2014, 128 Stat. 4077; Pub. L. 114–304, §2(b), Dec. 16, 2016, 130 Stat. 1520.)
 
 #### Codification
 
 Section was enacted as part of the United States-Israel Strategic Partnership Act of 2014, and not as part of the United States-Israel Enhanced Security Cooperation Act of 2012 which comprises this chapter.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–304, §2(b)(1), (2), struck out "pilot" before "programs" in heading and in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 114–304, §2(b)(3)–(5), added par. (4).
+
 #### United States-Israel Anti-Tunnel Cooperation
 
-Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, provided that:
+Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562, provided that:
 
 "(a)
 
@@ -72,11 +80,11 @@ Report.—Support may not be provided under paragraph (1) until 15 days after th
 
 &emsp;"(3)
 
-Matching contribution.—Support may not be provided under this subsection unless the Government of Israel contributes an amount not less than the amount of support to be so provided to the program, project, or activity for which the support is to be so provided.
+Matching contribution.—Support may not be provided under this subsection unless the Government of Israel contributes an amount not less than the amount of support to be so provided to the program, project, or activity for which the support is to be so provided in the calendar year in which the support is provided.
 
 &emsp;"(4)
 
-Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $25,000,000.
+Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $50,000,000.
 
 "(c)
 
@@ -84,7 +92,7 @@ Lead Agency.—The Secretary of Defense shall designate an appropriate research 
 
 "(d)
 
-Semiannual Reports.—The Secretary of Defense shall submit to the appropriate committees of Congress on a semiannual basis a report that contains a copy of the most recent semiannual report provided by the Government of Israel to the Department of Defense pursuant to subsection (a)(2)(B)(iii).
+Semiannual Reports.—The Secretary of Defense shall submit to the appropriate committees of Congresson a semiannual basis a report that contains a copy of the most recent semiannual report provided by the Government of Israel to the Department of Defense pursuant to subsection (a)(2)(B)(iii).
 
 "(e)
 

@@ -10,10 +10,13 @@
 | [4046\.](%C2%A7%2004046%20-%20Shock%20incarceration%20program.md) | Shock incarceration program. |
 | [4047\.](%C2%A7%2004047%20-%20Prison%20impact%20assessments.md) | Prison impact assessments. |
 | [4048\.](%C2%A7%2004048%20-%20Fees%20for%20health%20care%20services%20for%20prisoners.md) | Fees for health care services for prisoners. |
+| [4049\.](%C2%A7%2004049%20-%20Officers%20and%20employees%20of%20the%20Bureau%20of%20Prisons%20authorized%20to%20carry%20oleoresin%20capsicum%20spray.md) | Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–133, §2(b), Mar. 9, 2016, 130 Stat. 297, added item 4049.
 
 <b>2000</b>—Pub. L. 106–294, §2(b), Oct. 12, 2000, 114 Stat. 1040, added item 4048.
 
@@ -38,3 +41,4 @@
 - [&sect; 04046 - Shock incarceration program](%C2%A7%2004046%20-%20Shock%20incarceration%20program.md)
 - [&sect; 04047 - Prison impact assessments](%C2%A7%2004047%20-%20Prison%20impact%20assessments.md)
 - [&sect; 04048 - Fees for health care services for prisoners](%C2%A7%2004048%20-%20Fees%20for%20health%20care%20services%20for%20prisoners.md)
+- [&sect; 04049 - Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray](%C2%A7%2004049%20-%20Officers%20and%20employees%20of%20the%20Bureau%20of%20Prisons%20authorized%20to%20carry%20oleoresin%20capsicum%20spray.md)

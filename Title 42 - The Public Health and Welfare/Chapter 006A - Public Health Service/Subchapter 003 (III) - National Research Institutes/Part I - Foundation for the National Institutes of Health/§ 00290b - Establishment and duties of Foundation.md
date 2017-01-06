@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation to be known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the United States Government.
+The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation tobe known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the United States Government.
 
 #### (b) Purpose of Foundation
 
@@ -12,7 +12,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Foundation may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of the following activities with respect to the purpose described in such subsection:
+&emsp;In carrying out subsection (b), the Foundation may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of the following activities with respect to the purpose described in such subsection:
 
 &emsp;&emsp;(A) A program to provide and administer endowed positions that are associated with the research program of the National Institutes of Health. Such endowments may be expended for the compensation of individuals holding the positions, for staff, equipment, quarters, travel, and other expenditures that are appropriate in supporting the endowed positions.
 
@@ -32,7 +32,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(v) programs for writing, editing, printing, publishing, and vending of books and other materials; and
 
-&emsp;&emsp;&emsp;(vi) the conduct of other activities to carry out and support the purpose described in subsection (b) of this section.
+&emsp;&emsp;&emsp;(vi) the conduct of other activities to carry out and support the purpose described in subsection (b).
 
 &emsp;&emsp;(E) The Cures Acceleration Network described in section 287a of this title.
 
@@ -72,7 +72,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;(D)(i) Not later than 30 days after June 10, 1993, the Director of the National Institutes of Health shall convene a meeting of the ex officio members of the Board to—
 
-&emsp;&emsp;(I) incorporate the Foundation and establish the general policies of the Foundation for carrying out the purposes of subsection (b) of this section, including the establishment of the bylaws of the Foundation; and
+&emsp;&emsp;(I) incorporate the Foundation and establish the general policies of the Foundation for carrying out the purposes of subsection (b), including the establishment of the bylaws of the Foundation; and
 
 &emsp;&emsp;(II) appoint the members of the Board in accordance with subparagraph (C).
 
@@ -146,7 +146,7 @@ The Foundation shall be considered to be a corporation under section 501(c) of t
 
 #### (h) Powers
 
-In carrying out subsection (b) of this section, the Foundation may—
+In carrying out subsection (b), the Foundation may—
 
 &emsp;(1) operate under the direction of its Board;
 
@@ -162,7 +162,7 @@ In carrying out subsection (b) of this section, the Foundation may—
 
 &emsp;(7) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this part;
 
-&emsp;(8) establish a process for the selection of candidates for positions under subsection (c) of this section;
+&emsp;(8) establish a process for the selection of candidates for positions under subsection (c);
 
 &emsp;(9) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
 
@@ -220,7 +220,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (6) Relationship with existing entities
 
-&emsp;The Foundation may, pursuant to appropriate agreements, merge with, acquire, or usethe resources of existing nonprofit private corporations with missions similar to the purposes of the Foundation, such as the Foundation for Advanced Education in the Sciences.
+&emsp;The Foundation may, pursuant to appropriate agreements, merge with, acquire, or use the resources of existing nonprofit private corporations with missions similar to the purposes of the Foundation, such as the Foundation for Advanced Education in the Sciences.
 
 #### (7) Intellectual property rights
 
@@ -240,7 +240,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C) of this section.
+&emsp;&emsp;&emsp;Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C).
 
 #### (ii) Other gifts
 
@@ -260,7 +260,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (C) Applicability
 
-&emsp;&emsp;Subparagraph (A) does not apply to the program described in subsection (c)(1)(C) of this section.
+&emsp;&emsp;Subparagraph (A) does not apply to the program described in subsection (c)(1)(C).
 
 #### (10) Transfer of funds
 
@@ -284,7 +284,7 @@ From amounts appropriated to the National Institutes of Health, for each fiscal 
 
 #### References in Text
 
-Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) ofPub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 103–43, §1701(3), added subsec. (c). Former subsec. (c) 
 
 Subsec. (d). Pub. L. 103–43, §1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of the Foundation" in subpar. (A), "Board" for "Council" insubpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
+Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted "appointed members of the Board" for "members of theFoundation" in subpar. (A), "Board" for "Council" in subpar. (B), and "appoint to the Board" for "appoint to the Council" in subpar. (C), and added subpars. (D) to (G).
 
 Subsec. (d)(2). Pub. L. 103–43, §1701(4)(B), designated existing provisions as subpar. (A), substituted "an individual to serve as the initial Chair" for "an appointed member of the Board to serve as the Chair", and added subpar. (B).
 
@@ -400,7 +400,7 @@ Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) 
 
 Subsec. (i)(7). Pub. L. 103–43, §1701(5)(C), (D), redesignated par. (8) as (7) and substituted "part" for "subtitle". Former par. (7) redesignated (6).
 
-Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted "establish a process for the selection of candidates for positions under subsection (c) of this section" for "establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program".
+Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted "establish a process for the selection of candidates for positions under subsection (c)" for "establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program".
 
 Subsec. (i)(9), (10). Pub. L. 103–43, §1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 

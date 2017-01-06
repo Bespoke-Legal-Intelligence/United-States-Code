@@ -8,7 +8,7 @@
 
 &emsp;(2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, or air service and the Department for review of such individual's discharge or release from such service.
 
-(c)(1) Any person serving in the active military, naval, or air service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
+(c)(1) Any person serving in the active military, naval, or air service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may betransferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
 
 (2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
@@ -170,7 +170,7 @@ Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114,
 
 "Congress makes the following findings:
 
-&emsp;"(1) More than 1,500,000 members of the Armed Forces have been deployed in Operation Iraqi Freedom and Operation Enduring Freedom. The 2005 Department of Defense Survey of Health Related Behaviors Among Active Duty Personnel reports that 23 percent of members of the Armed Forces on active duty acknowledge a significant problem with alcohol use disorder, with similar rates of acknowledged problems with alcohol use disorder among members of the National Guard.
+&emsp;"(1) More than 1,500,000 members of the Armed Forces have been deployed in Operation Iraqi Freedom and Operation Enduring Freedom. The 2005 Department of Defense Survey of Health Related Behaviors Among Active Duty Personnel reports that 23 percent of members of the Armed Forces on activeduty acknowledge a significant problem with alcohol use disorder, with similar rates of acknowledged problems with alcohol use disorder among members of the National Guard.
 
 &emsp;"(2) The effects of substance use disorder are wide ranging, including significantly increased risk of suicide, exacerbation of mental and physical health disorders, breakdown of family support, and increased risk of unemployment and homelessness.
 
@@ -178,7 +178,7 @@ Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114,
 
 &emsp;"(4) While the Veterans Health Administration has dramatically increased health services for veterans from 1996 through 2006, the number of veterans receiving specialized substance use disorder treatment services decreased 18 percent during that time. No comparable decrease in the national rate of substance use disorder has been observed during that time.
 
-&emsp;"(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of suchtreatment services throughout the health care system of the Veterans Health Administration is inconsistent.
+&emsp;"(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of such treatment services throughout the health care system of the Veterans Health Administration is inconsistent.
 
 &emsp;"(6) According to a 2006 report by the Government Accountability Office, the Department of Veterans Affairs significantly reduced its substance use disorder treatment and rehabilitation services between 1996 and 2006, and the Fiscal Year 2007 National Mental Health Program Monitoring System report shows that little progress has been made in restoring these services to their pre-1996 levels.
 
@@ -376,7 +376,7 @@ Report.—After the end of the 15-month period beginning on the date the first l
 
 #### Evaluation of Veterans' Administration Inpatient and Outpatient Drug and Alcohol Treatment Programs
 
-Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans' Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans' Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
+Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans' Affairs toconduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans' Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
 
 #### Ratification for Lapsed Period
 

@@ -38,7 +38,7 @@ In subsecs. (a) and (d), "May 4, 1980" substituted for "the effective date of th
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–279 struck out par. (2) which read as follows: "At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of this title of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980."
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–279 struck out par. (2) which read as follows: "At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of thistitle of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980."
 
 <b>1994</b>—Subsec. (b)(2). Pub. L. 103–382 made technical amendment to reference to section 3419 of this title to reflect renumbering of corresponding section of original act.
 

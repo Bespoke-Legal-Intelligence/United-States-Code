@@ -2,7 +2,7 @@
 
 (a)
 
-Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—The Secretary of Defense may delegate to the commander of the unified combatantcommand referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
+Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—The Secretary of Defense may delegate to the commander of the unified combatant command referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
 
 (b)
 
@@ -48,7 +48,7 @@ Termination.—The Secretary may delegate the authority referred to in subsectio
 
 Subsec. (f). Pub. L. 110–181, §825(a)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–181, §825(a)(2), (b), redesignated subsec. (f) as (g) and substituted "through 2010" for "through 2008" and "September 30, 2010" for "September 30, 2008".
+Subsec. (g). Pub. L. 110–181, §825(a)(2), (b), redesignated subsec. (f) as (g) and substituted "through 2010"for "through 2008" and "September 30, 2010" for "September 30, 2008".
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–163 substituted "through 2008" for "through 2006" and "September 30, 2008" for "September 30, 2006".
 

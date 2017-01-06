@@ -144,7 +144,7 @@
 
 #### (B) Overall limitation
 
-&emsp;&emsp;The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed the aggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge\(other than depreciable real property acquired in contemplation of such discharge).
+&emsp;&emsp;The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed the aggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge (other than depreciable real property acquired in contemplation of such discharge).
 
 #### (3) Qualified real property business indebtedness
 
@@ -318,7 +318,7 @@ For purposes of this title—
 
 #### (E) Partnership rule
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of the foregoing subparagraphs of this paragraph shallapply with respect to the indebtedness of a partnership.
+&emsp;&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of the foregoing subparagraphs of this paragraph shall apply with respect to the indebtedness of a partnership.
 
 #### (8) Indebtedness satisfied by corporate stock or partnership interest
 
@@ -328,7 +328,7 @@ For purposes of this title—
 
 &emsp;&emsp;(B) a debtor partnership transfers a capital or profits interest in such partnership,
 
-> &emsp;to a creditor in satisfaction of its recourse or nonrecourse indebtedness, such corporation or partnership shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock or interest. In the case of any partnership, any discharge of indebtedness income recognized under this paragraph shall be included in the distributive shares of taxpayers which were the partners in the partnership immediately before such discharge.
+> &emsp;to a creditor in satisfaction of its recourse or nonrecourse indebtedness, such corporation orpartnership shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock or interest. In the case of any partnership, any discharge of indebtedness income recognized under this paragraph shall be included in the distributive shares of taxpayers which were the partners in the partnership immediately before such discharge.
 
 #### (9) Discharge of indebtedness income not taken into account in determining whether entity meets REIT qualifications
 
@@ -398,7 +398,7 @@ For purposes of this title—
 
 &emsp;For purposes of this section, indebtedness of a taxpayer shall be treated as qualified farm indebtedness if—
 
-&emsp;&emsp;(A) such indebtedness was incurred directly in connection with the operation by the taxpayer of the trade or business of farming, and
+&emsp;&emsp;(A) such indebtedness was incurred directly in connection with the operation bythe taxpayer of the trade or business of farming, and
 
 &emsp;&emsp;(B) 50 percent or more of the aggregate gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the discharge of such indebtedness occurs is attributable to the trade or business of farming.
 
@@ -546,7 +546,7 @@ For purposes of this title—
 
 #### (ii) Special rule for pass-thru entities
 
-&emsp;&emsp;&emsp;The rule of clause (i) shall also apply in the case of the sale or exchange or redemption of an interest in a partnership, S corporation, or other pass-thru entity by apartner, shareholder, or other person holding an ownership interest in such entity.
+&emsp;&emsp;&emsp;The rule of clause (i) shall also apply in the case of the sale or exchange or redemption of an interest in a partnership, S corporation, or other pass-thru entity by a partner, shareholder, or other person holding an ownership interest in such entity.
 
 #### (6) Special rule for partnerships
 
@@ -562,7 +562,7 @@ For purposes of this title—
 
 &emsp;&emsp;(C) rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388-551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §151(a), (b), Dec. 18, 2015, 129 Stat. 3065.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807; Pub. L. 111–5, div. B, title I, §1231(a), Feb. 17, 2009, 123 Stat. 338; Pub. L. 111–148, title X, §10908(a), Mar. 23, 2010, 124 Stat. 1021; Pub. L. 112–240, title II, §202(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §102(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §151(a), (b), Dec. 18, 2015, 129 Stat. 3065.)
 
 #### References in Text
 
@@ -800,7 +800,7 @@ Pub. L. 110–142, §2(d), Dec. 20, 2007, 121 Stat. 1804, provided that: "The am
 
 Pub. L. 108–357, title III, §320(c), Oct. 22, 2004, 118 Stat. 1473, provided that: "The amendments made by this section \[amending this section, sections 3121, 3231, 3306, and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to amounts received by an individual in taxable years beginning after December 31, 2003."
 
-Pub. L. 108–357, title VIII, §896(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to cancellations of indebtedness occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §896(b), Oct. 22, 2004, 118 Stat. 1649, provided that: "The amendment made bythis section \[amending this section\] shall apply with respect to cancellations of indebtedness occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2002 Amendment
 
@@ -886,7 +886,7 @@ Repeal by section 621(e)(1) of Pub. L. 99–514 of amendment by section 59(b)(1)
 
 Amendment by section 805(c)(2), (4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain changes required in method of accounting, see section 805(d) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
-Pub. L. 99–514, title VIII, §822(c), Oct. 22, 1986, 100 Stat. 2373, provided that: "The amendments made bythis section \[amending this section and section 1017 of this title\] shall apply to discharges after December 31, 1986."
+Pub. L. 99–514, title VIII, §822(c), Oct. 22, 1986, 100 Stat. 2373, provided that: "The amendments made by this section \[amending this section and section 1017 of this title\] shall apply to discharges after December 31, 1986."
 
 Amendment by section 1171(b)(4) of Pub. L. 99–514 applicable to compensation paid or accrued after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 1171(c) of Pub. L. 99–514, set out as a note under section 38 of this title.
 
@@ -894,7 +894,7 @@ Amendment by section 1847(b)(7) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §59(b)(2), July 18, 1984, 98 Stat. 577, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if it had been included in the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[Pub. L. 94–455\]." See Effective Date of 1976 Amendment note set out under section 382 of this title.
+Pub. L. 98–369, div. A, title I, §59(b)(2), July 18, 1984, 98 Stat. 577, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if it had been included in the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 \[Pub. L. 94–455\]." See Effective Date of 1976 Amendment note set out under section 382 of this title.
 
 Pub. L. 98–369, div. A, title I, §59(b)\[(c)\], July 18, 1984, 98 Stat. 577, provided that:
 
@@ -1010,7 +1010,7 @@ For subsection (b)
 
 For subsection (c)
 
-(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending section 337 of this title\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
+(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending section 337 of this title\] shall apply to any bankruptcy caseor similar judicial proceeding commenced after December 31, 1980.
 
 &emsp;"(4)
 

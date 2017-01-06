@@ -14,7 +14,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 &emsp;&emsp;(ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
-&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
+&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
 
 #### (B) Ability
 
@@ -40,7 +40,7 @@ Section 1157 of title 8, referred to in par. (2)(A)(i), was in the original "sec
 
 #### Codification
 
-Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

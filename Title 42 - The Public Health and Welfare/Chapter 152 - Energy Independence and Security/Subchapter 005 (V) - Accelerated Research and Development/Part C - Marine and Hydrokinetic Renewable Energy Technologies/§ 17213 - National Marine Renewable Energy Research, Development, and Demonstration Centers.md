@@ -18,7 +18,7 @@ The Centers shall advance research, development, demonstration, and commercial a
 
 #### (c) Demonstration of need
 
-When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Centerwill not be conducted in the absence of Federal support.
+When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Center will not be conducted in the absence of Federal support.
 
 (Pub. L. 110–140, title VI, §634, Dec. 19, 2007, 121 Stat. 1687.)
 

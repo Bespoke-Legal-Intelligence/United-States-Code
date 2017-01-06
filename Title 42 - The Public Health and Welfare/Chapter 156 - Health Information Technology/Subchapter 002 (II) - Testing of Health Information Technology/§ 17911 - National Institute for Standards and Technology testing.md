@@ -2,15 +2,17 @@
 
 #### (a) Pilot testing of standards and implementation specifications
 
-In coordination with the HIT Standards Committee established under section 300jj–13 of this title, as added by section 13101,<sup>1</sup> with respect to the development of standards and implementation specifications under such section, the Director of the National Institute for Standards and Technology shall test such standards and implementation specifications, as appropriate, in order to assure the efficient implementation and use of such standards and implementation specifications.
+In coordination with the HIT Standards Committee established under section 300jj–13 <sup>1</sup> of this title, as added by section 13101,<sup>1</sup> with respect to the development of standards and implementation specifications under such section, the Director of the National Institute for Standards and Technology shall test such standards and implementation specifications, as appropriate, in order to assure the efficient implementation and use of such standards and implementation specifications.
 
 #### (b) Voluntary testing program
 
-In coordination with the HIT Standards Committee established under section 300jj–13 of this title, as added by section 13101,<sup>1</sup> with respect to the development of standards and implementation specifications under such section, the Director of the National Institute of Standards and Technology shall support the establishment of a conformance testing infrastructure, including the development of technical test beds. The development of this conformance testing infrastructure may include a program to accredit independent, non-Federal laboratories to perform testing.
+In coordination with the HIT Standards Committee established under section 300jj–13 <sup>1</sup> of this title, as added by section 13101,<sup>1</sup> with respect to the development of standards and implementation specifications under such section, the Director of the National Institute of Standards and Technology shall support the establishment of a conformance testing infrastructure, including the development of technical test beds. The development of this conformance testing infrastructure may include a program to accredit independent, non-Federal laboratories to perform testing.
 
 (Pub. L. 111–5, div. A, title XIII, §13201, Feb. 17, 2009, 123 Stat. 244.)
 
 #### References in Text
+
+Section 300jj–13 of this title, referred to in text, which related to the establishment of the HIT Standards Committee, was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
 
 Section 13101, referred to in text, means section 13101 of div. A of Pub. L. 111–5.
 

@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(1) Essential rail service in the midwest and northeast region of the United States is provided by railroads which are today insolvent and attempting to undergo reorganization under the Bankruptcy Act.
 
-&emsp;(2) This essential rail service is threatened with cessation or significant curtailment because of the inability of the trustees of such railroads to formulate acceptable plans for reorganization. This rail service is operated over rail properties which were acquired for a public use, but which have been permitted to deteriorate and now require extensive rehabilitation and modernization.
+&emsp;(2) This essential rail service is threatened with cessation or significant curtailment because of the inability of the trustees of such railroads to formulate acceptable plans for reorganization. This rail service is operated overrail properties which were acquired for a public use, but which have been permitted to deteriorate and now require extensive rehabilitation and modernization.
 
 &emsp;(3) The public convenience and necessity require adequate and efficient rail service in this region and throughout the Nation to meet the needs of commerce, the national defense, the environment, and the service requirements of passengers, United States mail, shippers, States and their political subdivisions, and consumers.
 

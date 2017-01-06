@@ -1,0 +1,6 @@
+### §774. Omitted
+
+#### Codification
+
+Section, act Aug. 30, 1954, ch. 1085, §4, 68 Stat. 980, which provided for costs incurred in the preparation of tribal rolls and the payment of per capita shares to be paid out of judgment funds, was omitted from the Code as being of special and not general application.
+

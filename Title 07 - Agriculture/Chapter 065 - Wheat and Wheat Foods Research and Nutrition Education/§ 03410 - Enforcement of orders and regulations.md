@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction; reference of civil actions to Attorney General
 
-The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this chapter shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General minor violations of this chapter whenever the Secretary believes that the administration and enforcement of the program would be adequatelyserved by suitable written notice or warning to any person committing such violation.
+The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this chapter shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General minor violations of this chapter whenever the Secretary believes that the administration and enforcement of the program would be adequately served by suitable written notice or warning to any person committing such violation.
 
 #### (b) Penalties
 
@@ -13,4 +13,8 @@ Any end product manufacturer or other person who willfully violates any provisio
 The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, the remedies otherwise provided at law or in equity.
 
 (Pub. L. 95–113, title XVII, §1711, Sept. 29, 1977, 91 Stat. 1038.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 

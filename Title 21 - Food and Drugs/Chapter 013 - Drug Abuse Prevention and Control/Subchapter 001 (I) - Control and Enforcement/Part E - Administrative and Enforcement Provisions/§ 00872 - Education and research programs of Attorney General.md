@@ -56,7 +56,7 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters intoforce in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
 #### Effect of Grants
 
@@ -78,7 +78,7 @@ In General.—
 
 &emsp;"(1)
 
-Requirement.—The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator tohave the potential for such levels of crime in the future.
+Requirement.—The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator to have the potential for such levels of crime in the future.
 
 &emsp;"(2)
 

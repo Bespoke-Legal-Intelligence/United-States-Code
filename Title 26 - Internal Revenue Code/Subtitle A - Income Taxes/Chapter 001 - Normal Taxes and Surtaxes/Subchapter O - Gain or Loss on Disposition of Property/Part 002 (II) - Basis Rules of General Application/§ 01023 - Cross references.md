@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 1023, added Pub. L. 94–455, title XX, §2005(a)(2), Oct. 4, 1976, 90 Stat. 1872; amended Pub. L. 95–600, title V, §515(3), (4), title VII, §702(c)(2)–(4), (6)–(8), Nov. 6, 1978, 92 Stat. 2884, 2926-2928, related to carryover basis for certain property acquired from a decedent dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299. The repeal was achieved by repealing section 2005(a)(2) of Pub. L. 94–455 and the amendment made thereby, which had enacted prior section 1023.
+A prior section 1023, added Pub. L. 94–455, title XX, §2005(a)(2), Oct. 4, 1976, 90 Stat. 1872; amended Pub. L. 95–600, title V, §515(3), (4), title VII, §702(c)(2)–(4), (6)–(8), Nov. 6, 1978, 92 Stat. 2884, 2926–2928, related to carryover basis for certain property acquired from a decedent dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299. The repeal was achieved by repealing section 2005(a)(2) of Pub. L. 94–455 and the amendment made thereby, which had enacted prior section 1023.
 
 #### Amendments
 

@@ -58,7 +58,7 @@ There is established within the Institute a board to be known as the "National M
 
 #### (1) In general
 
-&emsp;Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) of this section shall serve for a term of 5 years.
+&emsp;Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) shall serve for a term of 5 years.
 
 #### (2) Authority to adjust terms
 

@@ -168,7 +168,7 @@ Interest and proceeds from sale or redemption of obligations.—The interest on,
 
 "(d)
 
-Availability of Amounts from Trust Fund.—From amounts available in the Trust Fund (includingany amounts not obligated in previous fiscal years), the Secretary of Agriculture is authorized to provide grants to a nationally-recognized council established for the development of the United States wool market for the following purposes:
+Availability of Amounts from Trust Fund.—From amounts available in the Trust Fund (including any amounts not obligated in previous fiscal years), the Secretary of Agriculture is authorized to provide grants to a nationally-recognized council established for the development of the United States wool market for the following purposes:
 
 &emsp;"(1) Assist United States wool producers to improve the quality of wool produced in the United States, including to improve wool production methods.
 

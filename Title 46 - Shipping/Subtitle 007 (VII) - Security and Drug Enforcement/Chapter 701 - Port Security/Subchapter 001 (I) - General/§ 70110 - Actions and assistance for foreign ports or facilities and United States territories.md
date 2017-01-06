@@ -60,7 +60,7 @@ In general.—The Secretary may lend, lease, donate, or otherwise provide equipm
 
 Conditions.—The Secretary—
 
-&emsp;&emsp;(A) may provide such assistance based upon an assessment of the risks to the security of the United States and the inability of the owner or operator of the port or facility to bring the port or facility into compliancewith those standards and to maintain compliance with, or exceed, such standards;
+&emsp;&emsp;(A) may provide such assistance based upon an assessment of the risks to the security of the United States and the inability of the owner or operator of the port or facility to bring the port or facility into compliance with those standards and to maintain compliance with, or exceed, such standards;
 
 &emsp;&emsp;(B) may not provide such assistance unless the port or facility has been subjected to a comprehensive port security assessment by the Coast Guard; and
 

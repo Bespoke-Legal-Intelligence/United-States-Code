@@ -2,7 +2,7 @@
 
 #### (a) Certification of completion of coal reclamation
 
-(1) The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in the Federal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
+(1) The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in theFederal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
 
 (2)(A) The Secretary may, on the initiative of the Secretary, make the certification referred to in paragraph (1) on behalf of any State or Indian tribe referred to in paragraph (1) if on the basis of the inventory referred to in section 1233(c) of this title all reclamation projects relating to the priorities described in section 1233(a) of this title for eligible land and water pursuant to section 1234 of this title in the State or tribe have been completed.
 
@@ -36,7 +36,7 @@ Reclamation projects involving the protection, repair, replacement, construction
 
 #### (f) Public facilities related to coal or minerals industry
 
-Notwithstanding subsection (e), where the Secretary has concurred in the certification referenced in subsection (a) and where the Governor of a State or the head of a governing body of an Indian tribe determines there is a need for activities or construction of specific public facilities related to the coal or minerals industryin States impacted by coal or minerals development and the Secretary concurs in such need, then the State or Indian tribe, as the case may be, may use annual grants made available under section 1232(g)(1) of this title to carry out such activities or construction.
+Notwithstanding subsection (e), where the Secretary has concurred in the certification referenced in subsection (a) and where the Governor of a State or the head of a governing body of an Indian tribe determines there is a need for activities or construction of specific public facilities related to the coal or minerals industry in States impacted by coal or minerals development and the Secretary concurs in such need, then the State or Indian tribe, as the case may be, may use annual grants made available under section 1232(g)(1) of this title to carry out such activities or construction.
 
 #### (g) Application of other provisions
 
@@ -68,7 +68,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (ii) Certain payments required
 
-&emsp;&emsp;&emsp;Not withstanding any other provision of this chapter, as soon as practicable, but not later than December 10, 2015, of the 7 equal installments referred to in clause (i), the Secretary shall pay to any certified State or Indian tribe to which the total annual payment under this subsection was limited to $15,000,000 in 2013 and $28,000,000 in fiscal year 2014—
+&emsp;&emsp;&emsp;Not withstanding any other provision of this chapter, as soon as practicable, but not later than December 10, 2015, of the 7equal installments referred to in clause (i), the Secretary shall pay to any certified State or Indian tribe to which the total annual payment under this subsection was limited to $15,000,000 in 2013 and $28,000,000 in fiscal year 2014—
 
 &emsp;&emsp;&emsp;&emsp;(I) the final 2 installments in 2 separate payments of $82,700,000 each; and
 
@@ -118,7 +118,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 &emsp;&emsp;The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under section 1232(g)(5) of this title.
 
-(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141,div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, §10(d), Oct. 2, 2013, 127 Stat. 546; Pub. L. 114–94, div. D, title XLIII, §43001, Dec. 4, 2015, 129 Stat. 1762.)
+(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, §10(d), Oct. 2, 2013, 127 Stat. 546; Pub. L. 114–94, div. D, title XLIII, §43001, Dec. 4, 2015, 129 Stat. 1762.)
 
 #### References in Text
 

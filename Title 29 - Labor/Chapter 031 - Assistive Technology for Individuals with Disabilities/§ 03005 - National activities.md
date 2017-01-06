@@ -92,7 +92,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(II) technical assistance activities undertaken under clause (i);
 
-&emsp;&emsp;&emsp;(iii) provides State-specific, regional, and national training and technical assistance concerning assistive technology to entities funded under this chapter, otherentities funded under this chapter, and public and private entities not funded under this chapter, including—
+&emsp;&emsp;&emsp;(iii) provides State-specific, regional, and national training and technical assistance concerning assistive technology to entities funded under this chapter, other entities funded under this chapter, and public and private entities not funded under this chapter, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) annually providing a forum for exchanging information concerning, and promoting program and policy improvements in, required activities of the State assistive technology programs;
 

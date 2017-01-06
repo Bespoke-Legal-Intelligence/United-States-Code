@@ -46,7 +46,7 @@ Section 5116d(3) of this title, referred to in subsec. (b)(3), was in the origin
 
 #### Prior Provisions
 
-A prior section 5116, Pub. L. 93–247, title II, §201, as added Pub. L. 103–252, title IV, §401(a), May 18, 1994, 108 Stat. 666, related to community-based family resource programs, prior to the general amendment of this subchapter by Pub. L. 104–235, §121.
+A prior section 5116, Pub. L. 93–247, title II, §201, as added Pub. L. 103–252, title IV, §401(a), May 18, 1994, 108 Stat. 666, related to community-based family resourceprograms, prior to the general amendment of this subchapter by Pub. L. 104–235, §121.
 
 Another prior section 5116, Pub. L. 93–247, title II, §201, formerly Pub. L. 98–473, title IV, §402, Oct. 12, 1984, 98 Stat. 2197; renumbered §201 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(a), Oct. 25, 1989, 103 Stat. 764, 766; Pub. L. 102–295, title I, §121(b), May 28, 1992, 106 Stat. 198, set forth purpose of subchapter to assist States in supporting child abuse and neglect prevention activities through community based grants, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
@@ -64,7 +64,7 @@ Subsec. (b)(1)(G). Pub. L. 111–320, §132(2)(B)(iii), added subpar. (G) and st
 
 Subsec. (b)(2). Pub. L. 111–320, §132(2)(C), inserted ", including unaccompanied homeless youth," after "children and families".
 
-Subsec. (b)(3). Pub. L. 111–320, §132(2)(D), substituted "specific community-based child abuse and neglect prevention program services" for "specific family resource and support program services", inserted "substance abuse treatment services, domestic violence services," after "mental health services,", and substituted "the network of community-based child abuse and neglectprevention programs" for "the network of community-based family resource and support program".
+Subsec. (b)(3). Pub. L. 111–320, §132(2)(D), substituted "specific community-based child abuse and neglect prevention program services" for "specific family resource and support program services", inserted "substance abuse treatment services, domestic violence services," after "mental health services,", and substituted "the network of community-based child abuse and neglect prevention programs" for "the network of community-based family resource and support program".
 
 Subsec. (b)(4). Pub. L. 111–320, §132(2)(E), inserted "and reporting" after "information management" and struck out comma after "prevention-focused" and "(through networks where appropriate)" after "child abuse and neglect".
 

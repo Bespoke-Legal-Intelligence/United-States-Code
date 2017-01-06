@@ -42,13 +42,17 @@ Definitions.—In this section:
 
 &emsp;(1) The term "Indian lands" has the meaning given that term by section 4(4) of the Indian Gaming Regulatory Act (102 Stat. 2468; 25 U.S.C. 2703(4)).
 
-&emsp;(2) The term "Indian" has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)).
+&emsp;(2) The term "Indian" has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)).<sup>1</sup>
 
-&emsp;(3) The term "Indian tribe" has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+&emsp;(3) The term "Indian tribe" has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).<sup>1</sup>
 
 &emsp;(4) The term "tribally owned corporation" means a corporation owned entirely by an Indian tribe.
 
 (Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amended Pub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
+
+#### References in Text
+
+Section 4 of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2), (3), was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
 
 #### Codification
 
@@ -56,5 +60,7 @@ Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, d
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting "section 2323 of this title" for "section 1207 of the National DefenseAuthorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)", could not be executed because the language "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)" did not appear. See Codification note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting "section 2323 of this title" for "section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)", could not be executed because the language"section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)" did not appear. See Codification note above.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

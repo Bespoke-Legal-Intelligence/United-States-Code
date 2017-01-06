@@ -26,3 +26,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 The effective date of this chapter, referred to in subsec. (b), is at the end of the 12-month period beginning on Oct. 28, 2003, except as otherwise specifically provided in this chapter, see section 20 of Pub. L. 108–100, set out as an Effective Date note under section 5001 of this title.
 
+#### Effective Date
+
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
+

@@ -166,7 +166,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;&emsp;(I) disaggregate data for each of the indicators of performance under paragraph (2) for the subgroups of students described in section 6311(h)(1)(C)(i) of this title and section 2302(29) of this title that are served under this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) identify and quantify any disparities or gaps in performance between anysuch category of students and the performance of all students served by the eligible recipient under this chapter.
+&emsp;&emsp;&emsp;&emsp;(II) identify and quantify any disparities or gaps in performance between any such category of students and the performance of all students served by the eligible recipient under this chapter.
 
 #### (iii) Nonduplication
 
@@ -204,7 +204,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (4) Rules for reporting of data
 
-&emsp;The disaggregation of data under paragraph (2) shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
+&emsp;The disaggregation of data under paragraph (2) shall not be required when the number ofstudents in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
 
 #### (5) Information dissemination
 

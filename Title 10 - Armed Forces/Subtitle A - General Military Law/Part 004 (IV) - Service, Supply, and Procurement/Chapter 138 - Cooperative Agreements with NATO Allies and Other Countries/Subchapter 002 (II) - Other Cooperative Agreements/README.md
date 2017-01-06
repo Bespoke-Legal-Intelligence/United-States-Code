@@ -14,11 +14,13 @@
 | [2350j.](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md) | Burden sharing contributions by designated countries and regional organizations. |
 | [2350k.](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md) | Relocation within host nation of elements of armed forces overseas. |
 | 2350<i>l.</i> | Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations. |
-| [2350m.](%C2%A7%2002350m%20-%20Participation%20in%20multinational%20military%20centers%20of%20excellence.md) | Participation in multinational military centers of excellence. |
+| \[2350m. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(7), Dec. 23, 2016, 130 Stat. 2512, struck out item 2350m "Participation in multinational military centers of excellence".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title XII, §1232(a)(2), Oct. 14, 2008, 122 Stat. 4639, added item 2350m.
 
@@ -53,4 +55,4 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 - [&sect; 02350j - Burden sharing contributions by designated countries and regional organizations](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md)
 - [&sect; 02350k - Relocation within host nation of elements of armed forces overseas](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md)
 - [&sect; 02350l - Cooperative agreements for reciprocal use of test facilities foreign countries and international organizations](%C2%A7%2002350l%20-%20Cooperative%20agreements%20for%20reciprocal%20use%20of%20test%20facilities%20foreign%20countries%20and%20international%20organizations.md)
-- [&sect; 02350m - Participation in multinational military centers of excellence](%C2%A7%2002350m%20-%20Participation%20in%20multinational%20military%20centers%20of%20excellence.md)
+- [&sect; 02350m - Renumbered &sect;344](%C2%A7%2002350m%20-%20Renumbered%20%C2%A7344.md)

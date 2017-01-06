@@ -34,7 +34,7 @@ Of the amount reserved under subsection (a) for any fiscal year, the State educa
 
 #### (c) Duration
 
-The State educational agency shall award each subgrant under subsection (b) for a period of not more than 4 years, which may include a planning year.
+The State educational agency shall award each subgrant under subsection (b) for a periodof not more than 4 years, which may include a planning year.
 
 #### (d) Rule of construction
 

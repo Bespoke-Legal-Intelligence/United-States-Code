@@ -22,3 +22,7 @@ Exceptions.—(1) Except as provided in paragraph (2), the additional compensati
 
 (Added Pub. L. 111–282, §2(a), Oct. 15, 2010, 124 Stat. 3037.)
 
+#### Effective Date
+
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
+

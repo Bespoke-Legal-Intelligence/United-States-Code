@@ -60,7 +60,7 @@ In order to qualify for a grant under this section, a State, or consortium of St
 
 &emsp;(1) will obtain at least 25 percent of the cost of programs funded by the grant, in cash or in kind, from non-Federal sources;
 
-&emsp;(2) will not as a result of receiving the grant decrease the prior level of spending of funds of the State or consortium from non-Federal sources for arson research, prevention, and control programs;
+&emsp;(2) will not as a result of receiving the grant decrease the prior level of spending of funds ofthe State or consortium from non-Federal sources for arson research, prevention, and control programs;
 
 &emsp;(3) will use no more than 10 percent of funds provided under the grant for administrative costs of the programs; and
 

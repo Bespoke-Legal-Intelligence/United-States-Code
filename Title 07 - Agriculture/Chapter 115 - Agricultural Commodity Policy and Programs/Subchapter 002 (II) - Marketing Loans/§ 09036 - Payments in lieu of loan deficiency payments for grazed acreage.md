@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) the payment yield in effect for the calculation of price loss coverage under section 9015 of this title with respect to that loan commodity on the farm;
 
-&emsp;&emsp;&emsp;(II) in the case of a farm for which agriculture risk coverage is elected under section 9016(a) of this title, the payment yield that would otherwise be in effect with respect to that loan commodity on the farm in the absence of such election; or
+&emsp;&emsp;&emsp;(II) in the case of a farm for which agriculture risk coverage is elected under section 9016(a) of this title, the payment yieldthat would otherwise be in effect with respect to that loan commodity on the farm in the absence of such election; or
 
 &emsp;&emsp;&emsp;(III) in the case of a farm for which no payment yield is otherwise established for that loan commodity on the farm, an appropriate yield established by the Secretary in a manner consistent with section 9013(c) of this title.
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(II) in the case of a farm for which agriculture risk coverage is elected under section 9016(a) of this title, the payment yield that would otherwise be in effect for wheat on the farm in the absence of such election; or
 
-&emsp;&emsp;&emsp;(III) in the case of a farm for which no payment yield is otherwise established forwheat on the farm, an appropriate yield established by the Secretary in a manner consistent with section 9013(c) of this title.
+&emsp;&emsp;&emsp;(III) in the case of a farm for which no payment yield is otherwise established for wheat on the farm, an appropriate yield established by the Secretary in a manner consistent with section 9013(c) of this title.
 
 #### (c) Time, manner, and availability of payment
 

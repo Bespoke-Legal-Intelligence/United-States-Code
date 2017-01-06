@@ -24,7 +24,7 @@ The Secretary shall, by regulation and under such procedures as he may prescribe
 
 #### (c) Suspension or termination of exemptions
 
-The Secretary may immediately suspend or terminate any exemption under subsection (a)(2) or (6) of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
+The Secretary may immediately suspend or terminate any exemption under paragraph (a)(2) or (6) <sup>1</sup> of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
 
 (Pub. L. 91–597, §15, Dec. 29, 1970, 84 Stat. 1629; Pub. L. 92–67, Aug. 6, 1971, 85 Stat. 173.)
 
@@ -35,4 +35,6 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 #### Amendments
 
 <b>1971</b>—Subsecs. (b), (c). Pub. L. 92–67 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)(2) or (6)".</i>
 

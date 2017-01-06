@@ -2,7 +2,7 @@
 
 #### (a) Closing or upgrading of existing open dumps
 
-Upon promulgation of criteria under section 6907(a)(3) of this title, any solid waste management practice or disposal of solid waste or hazardous waste which constitutes the open dumping of solid waste or hazardous waste is prohibited, except in the case of any practice or disposal of solid waste under a timetable or schedule for compliance established under this section. The prohibition contained in the preceding sentence shall be enforceable under section 6972 of this title against persons engaged in the act of open dumping. For purposes of complying with section 6943(a)(2) and 6943(a)(3) of this title, each State plan shall contain a requirement that all existing disposal facilities or sites for solid waste in such State which are open dumps listed in the inventory under subsection (b) of this section shall comply with such measures as may be promulgated by the Administrator to eliminate health hazards and minimize potential health hazards. Each such plan shall establish, for any entity which demonstrates that it has considered other public or private alternatives for solid waste management to comply with the prohibition on open dumping and is unable to utilize such alternatives to so comply, a timetable or schedule for compliance for such practice or disposal of solid waste which specifies a schedule of remedial measures, including an enforceable sequence of actions or operations, leading to compliance with the prohibition on open dumping of solid waste within a reasonable time (not to exceed 5 years from the date of publication of criteria under section 6907(a)(3) of this title).
+Upon promulgation of criteria under section 6907(a)(3) of this title, any solid waste management practice or disposal of solid waste or hazardous waste which constitutes the open dumping of solid waste or hazardous waste is prohibited, except in the case of any practice or disposal of solid waste under a timetable or schedule for compliance established under this section. The prohibition contained in the preceding sentence shall be enforceable under section 6972 of this title against persons engaged in the act of open dumping. For purposes of complying with section 6943(a)(2) and 6943(a)(3) of this title, each State plan shall contain a requirementthat all existing disposal facilities or sites for solid waste in such State which are open dumps listed in the inventory under subsection (b) of this section shall comply with such measures as may be promulgated by the Administrator to eliminate health hazards and minimize potential health hazards. Each such plan shall establish, for any entity which demonstrates that it has considered other public or private alternatives for solid waste management to comply with the prohibition on open dumping and is unable to utilize such alternatives to so comply, a timetable or schedule for compliance for such practice or disposal of solid waste which specifies a schedule of remedial measures, including an enforceable sequence of actions or operations, leading to compliance with the prohibition on open dumping of solid waste within a reasonable time (not to exceed 5 years from the date of publication of criteria under section 6907(a)(3) of this title).
 
 #### (b) Inventory
 
@@ -20,7 +20,145 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 (B) For purposes of this paragraph, the term "requirement of this subchapter" in section 6928 of this title shall be deemed to include criteria promulgated by the Administrator under sections 6907(a)(3) and 6944(a) of this title, and the term "hazardous wastes" in section 6927 of this title shall be deemed to include solid waste at facilities that may handle hazardous household wastes or hazardous wastes from small quantity generators.
 
-(Pub. L. 89–272, title II, §4005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2815; amended Pub. L. 96–482, §19(a), (b), Oct. 21, 1980, 94 Stat. 2345; Pub. L. 98–616, title III, §302(c), title IV, §403(c), title V, §502(c), Nov. 8, 1984, 98 Stat. 3268, 3272, 3276.)
+#### (d) State programs for control of coal combustion residuals
+
+#### (1) Approval by Administrator
+
+#### (A) In general
+
+&emsp;&emsp;Each State may submit to the Administrator, in such form as the Administrator may establish, evidence of a permit program or other system of prior approval and conditions under State law for regulation by the State of coal combustion residuals units that are located in the State that, after approval by the Administrator, will operate in lieu of regulation of coal combustion residuals units in the State by—
+
+&emsp;&emsp;&emsp;(i) application of part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title); or
+
+&emsp;&emsp;&emsp;(ii) implementation by the Administrator of a permit program under paragraph (2)(B).
+
+#### (B) Requirement
+
+&emsp;&emsp;Not later than 180 days after the date on which a State submits the evidence described in subparagraph (A), the Administrator, after public notice and an opportunity for public comment, shall approve, in whole or in part, a permit program or other system of prior approval and conditions submitted under subparagraph (A) if the Administrator determines that the program or other system requires each coal combustion residuals unit located in the State to achieve compliance with—
+
+&emsp;&emsp;&emsp;(i) the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title); or
+
+&emsp;&emsp;&emsp;(ii) such other State criteria that the Administrator, after consultation with the State, determines to be at least as protective as the criteria described in clause (i).
+
+#### (C) Permit requirements
+
+&emsp;&emsp;The Administrator shall approve under subparagraph (B)(ii) a State permit program or other system of prior approval and conditions that allows a State to include technical standards for individual permits or conditions of approval that differ from the criteria under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title) if, based on site-specific conditions, the Administrator determines that the technical standards established pursuant to a State permit program or other system are at least as protective as the criteria under that part.
+
+#### (D) Program review and notification
+
+#### (i) Program review
+
+&emsp;&emsp;&emsp;The Administrator shall review a State permit program or other system of prior approval and conditions that is approved under subparagraph (B)—
+
+&emsp;&emsp;&emsp;&emsp;(I) from time to time, as the Administrator determines necessary, but not less frequently than once every 12 years;
+
+&emsp;&emsp;&emsp;&emsp;(II) not later than 3 years after the date on which the Administrator revises the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title);
+
+&emsp;&emsp;&emsp;&emsp;(III) not later than 1 year after the date of a significant release (as defined by the Administrator), that was not authorized at the time the release occurred, from a coal combustion residuals unit located in the State; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) on request of any other State that asserts that the soil, groundwater, or surface water of the State is or is likely to be adversely affected by a release or potential release from a coal combustion residuals unit located in the State for which the program or other system was approved.
+
+#### (ii) Notification and opportunity for a public hearing
+
+&emsp;&emsp;&emsp;The Administrator shall provide to a State notice of deficiencies with respect to the permit program or other system of prior approval and conditions of the State that is approved under subparagraph (B), and an opportunity for a public hearing, if the Administrator determines that—
+
+&emsp;&emsp;&emsp;&emsp;(I) a revision or correction to the permit program or other system of prior approval and conditions of the State is necessary to ensure that the permit program or other system of prior approval and conditions continues to ensure that each coal combustion residuals unit located in the State achieves compliance with the criteria described in clauses (i) and (ii) of subparagraph (B);
+
+&emsp;&emsp;&emsp;&emsp;(II) the State has not implemented an adequate permit program or other system of prior approval and conditions that requires each coal combustion residuals unit located in the State to achieve compliance with the criteria described in subparagraph (B); or
+
+&emsp;&emsp;&emsp;&emsp;(III) the State has, at any time, approved or failed to revoke a permit for a coal combustion residuals unit, a release from which adversely affects or is likely to adversely affect the soil, groundwater, or surface water of another State.
+
+#### (E) Withdrawal
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Administrator shall withdraw approval of a State permit program or other system of prior approval and conditions if, after the Administrator provides notice and an opportunity for a public hearing to the relevant State under subparagraph (D)(ii), the Administrator determines that the State has not corrected the deficiencies identified by the Administrator under subparagraph (D)(ii).
+
+#### (ii) Reinstatement of State approval
+
+&emsp;&emsp;&emsp;Any withdrawal of approval under clause (i) shall cease to be effective on the date on which the Administrator makes a determination that the State has corrected the deficiencies identified by the Administrator under subparagraph (D)(ii).
+
+#### (2) Nonparticipating states
+
+#### (A) Definition of nonparticipating State
+
+&emsp;&emsp;In this paragraph, the term "nonparticipating State" means a State—
+
+&emsp;&emsp;&emsp;(i) for which the Administrator has not approved a State permit program or other system of prior approval and conditions under paragraph (1)(B);
+
+&emsp;&emsp;&emsp;(ii) the Governor of which has not submitted to the Administrator for approval evidence to operate a State permit program or other system of prior approval and conditions under paragraph (1)(A);
+
+&emsp;&emsp;&emsp;(iii) the Governor of which provides notice to the Administrator that, not fewer than 90 days after the date on which the Governor provides the notice to the Administrator, the State will relinquish an approval under paragraph (1)(B) to operate a permit program or other system of prior approval and conditions; or
+
+&emsp;&emsp;&emsp;(iv) for which the Administrator has withdrawn approval for a permit program or other system of prior approval and conditions under paragraph (1)(E).
+
+#### (B) Implementation of permit program
+
+&emsp;&emsp;In the case of a nonparticipating State and subject to the availability of appropriations specifically provided in an appropriations Act to carry out a program in a nonparticipating State, the Administrator shall implement a permit program to require each coal combustion residuals unit located in the nonparticipating State to achieve compliance with applicable criteria established by the Administrator under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+
+#### (3) Applicability of criteria
+
+&emsp;The applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title), shall apply to each coal combustion residuals unit in a State unless—
+
+&emsp;&emsp;(A) a permit under a State permit program or other system of prior approval and conditions approved by the Administrator under paragraph (1)(B) is in effect for the coal combustion residuals unit; or
+
+&emsp;&emsp;(B) a permit issued by the Administrator in a State in which the Administrator is implementing a permit program under paragraph (2)(B) is in effect for the coal combustion residuals unit.
+
+#### (4) Prohibition on open dumping
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator may use the authority provided by sections 6927 and 6928 of this title to enforce the prohibition on open dumping under subsection (a) with respect to a coal combustion residuals unit—
+
+&emsp;&emsp;&emsp;(i) in a nonparticipating State (as defined in paragraph (2)); and
+
+&emsp;&emsp;&emsp;(ii) located in a State that is approved to operate a permit program or other system of prior approval and conditions under paragraph (1)(B), in accordance with subparagraph (B) of this paragraph.
+
+#### (B) Federal enforcement in an approved State
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a coal combustion residuals unit located in a State that is approved to operate a permit program or other system of prior approval and conditions under paragraph (1)(B), the Administrator may commence an administrative or judicial enforcement action under section 6928 of this title if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the State requests that the Administrator provide assistance in the performance of an enforcement action; or
+
+&emsp;&emsp;&emsp;&emsp;(II) after consideration of any other administrative or judicial enforcement action involving the coal combustion residuals unit, the Administrator determines that an enforcement action is likely to be necessary to ensure that the coal combustion residuals unit is operating in accordance with the criteria established under the permit program or other system of prior approval and conditions.
+
+#### (ii) Notification
+
+&emsp;&emsp;&emsp;In the case of an enforcement action by the Administrator under clause (i)(II), before issuing an order or commencing a civil action, the Administrator shall notify the State in which the coal combustion residuals unit is located.
+
+#### (iii) Annual report to Congress
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), not later than December 31, 2017, and December 31 of each year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes any enforcement action commenced under clause (i), including a description of the basis for the enforcement action.
+
+#### (II) Applicability
+
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply for any calendar year during which the Administrator does not commence an enforcement action under clause (i).
+
+#### (5) Indian country
+
+&emsp;The Administrator shall establish and carry out a permit program, in accordance with this subsection, for coal combustion residuals units in Indian country (as defined in section 1151 of title 18) to require each coal combustion residuals unit located in Indian country to achieve compliance with the applicable criteria established by the Administrator under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+
+#### (6) Treatment of coal combustion residuals units
+
+&emsp;A coal combustion residuals unit shall be considered to be a sanitary landfill for purposes of this chapter, including subsection (a), only if the coal combustion residuals unit is operating in accordance with—
+
+&emsp;&emsp;(A) the requirements of a permit issued by—
+
+&emsp;&emsp;&emsp;(i) the State in accordance with a program or system approved under paragraph (1)(B); or
+
+&emsp;&emsp;&emsp;(ii) the Administrator pursuant to paragraph (2)(B) or paragraph (5); or
+
+&emsp;&emsp;(B) the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+
+#### (7) Effect of subsection
+
+&emsp;Nothing in this subsection affects any authority, regulatory determination, other law, or legal obligation in effect on the day before December 16, 2016.
+
+(Pub. L. 89–272, title II, §4005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2815; amended Pub. L. 96–482, §19(a), (b), Oct. 21, 1980, 94 Stat. 2345; Pub. L. 98–616, title III, §302(c), title IV, §403(c), title V, §502(c), Nov. 8, 1984, 98 Stat. 3268, 3272, 3276; Pub. L. 114–322, title II, §2301, Dec. 16, 2016, 130 Stat. 1736.)
 
 #### Codification
 
@@ -28,13 +166,15 @@ Another section 19(b) of Pub. L. 96–482 amended section 6946 of this title.
 
 #### Amendments
 
+<b>2016</b>—Subsec. (d). Pub. L. 114–322 added subsec. (d).
+
 <b>1984</b>—Subsec. (a). Pub. L. 98–616, §403(c), inserted after first sentence "The prohibition contained in the preceding sentence shall be enforceable under section 6972 of this title against persons engaged in the act of open dumping."
 
 Pub. L. 98–616, §502(c), inserted a closing parenthesis before the period at end.
 
 Subsec. (c). Pub. L. 98–616, §302(c), added subsec. (c).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–482, §19(a), (b)(1), struck out subsec. (a) which defined "open dump", which is covered in section 6903(14) of this title, redesignated subsec. (c) as (a) and substituted "Upon promulgation of criteria under section 6907(a)(3) of this title, any" for "Any", "section 6943(a)(2) and 6943(a)(3) of this title" for "section 6943(2) of this title", and "criteria under section 6907(a)(3) of this title" for "the inventory under subsection (b) of this section".
+<b>1980</b>—Subsec. (a). Pub. L. 96–482, §19(a), (b)(1), struck out subsec. (a) which defined "open dump", which is covered in section 6903(14) of this title, redesignated subsec. (c) as (a) and substituted "Upon promulgation of criteria under section 6907(a)(3) of this title, any" for "Any", "section 6943(a)(2) and 6943(a)(3) of this title"for "section 6943(2) of this title", and "criteria under section 6907(a)(3) of this title" for "the inventory under subsection (b) of this section".
 
 Amendment by section 19(b)(1) of Pub. L. 96–482, directing that following reference to "4003(2)", which had been editorially translated as section 6943(2) of this title, the phrase "and 4003(3)" be inserted, was executed by translating "4003(2) and 4003(3)" as section 6943(a)(2) and 6943(a)(3) of this title, in view of the designation of the existing provisions of section 6943 of this title as subsec. (a) of section 6943 of this title by section 5(b) of Pub. L. 96–463 and also by section 32(d)(2) of Pub. L. 96–482.
 

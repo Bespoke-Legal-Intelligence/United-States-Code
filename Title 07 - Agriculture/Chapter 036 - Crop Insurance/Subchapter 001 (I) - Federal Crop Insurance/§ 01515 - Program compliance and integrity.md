@@ -18,7 +18,7 @@
 
 #### (2) Time for notification
 
-&emsp;Notice under paragraph (1) shall be given within 3 years after the end of the insuranceperiod during which the error, omission, or failure is alleged to have occurred, except that this time limitation shall not apply with respect to an error, omission, or procedural violation that is willful or intentional.
+&emsp;Notice under paragraph (1) shall be given within 3 years after the end of the insurance period during which the error, omission, or failure is alleged to have occurred, except that this time limitation shall not apply with respect to an error, omission, or procedural violation that is willful or intentional.
 
 #### (3) Effect of failure to timely notify
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the date of any subsequent correction of data by the Farm Service Agency made as a result of the verification of information, to make conforming corrections; and
 
-&emsp;&emsp;&emsp;(iii) at any time, to correct electronic transmission errors that were made by an agent or approved insurance provider, or such errors made by the Farm Service Agency or any other agency of the Department of Agriculture in transmitting the information provided by the producer for purposes of other programs of the Department to the extent an agent or approved insurance provider relied upon the erroneous information for crop insurance purposes.
+&emsp;&emsp;&emsp;(iii) at any time, to correct electronic transmission errors that were made by an agent or approved insurance provider, or such errors made by the Farm Service Agency or any other agency of the Department of Agriculture in transmitting the information provided by the producer for purposes of other programs of the Department to the extent an agent or approvedinsurance provider relied upon the erroneous information for crop insurance purposes.
 
 #### (B) Limitation
 
@@ -82,7 +82,7 @@
 
 #### (2) FSA inquiry
 
-&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), theCorporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
+&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
 
 #### (3) Use of field infrastructure
 
@@ -296,7 +296,7 @@ The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(i
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

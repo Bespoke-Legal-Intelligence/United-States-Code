@@ -46,7 +46,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) means to destroy the military offensive or defensive advantages inherent in the ammunition or ammunition components; and
 
-&emsp;&emsp;(B) includes any mutilation, scrapping, melting, burning, or alteration that preventsthe use of the ammunition or ammunition components for the military purposes for which the ammunition or ammunition components was designed or for a lethal purpose.
+&emsp;&emsp;(B) includes any mutilation, scrapping, melting, burning, or alteration that prevents the use of the ammunition or ammunition components for the military purposes for which the ammunition or ammunition components was designed or for a lethal purpose.
 
 (Added Pub. L. 105–85, div. A, title X, §1065(a)(1), Nov. 18, 1997, 111 Stat. 1893; amended Pub. L. 109–364, div. A, title X, §1071(a)(30), Oct. 17, 2006, 120 Stat. 2399.)
 

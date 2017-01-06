@@ -34,7 +34,7 @@
 
 #### (1) Certain banks
 
-&emsp;Notwithstanding the provisions of section 1845(a)(1) <sup>2</sup> of title 12, any national bank, orany member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.
+&emsp;Notwithstanding the provisions of section 1845(a)(1) <sup>2</sup> of title 12, any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.
 
 #### (2) Certain savings associations
 

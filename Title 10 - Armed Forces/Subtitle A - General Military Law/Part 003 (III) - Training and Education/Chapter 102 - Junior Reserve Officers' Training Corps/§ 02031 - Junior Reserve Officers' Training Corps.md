@@ -30,7 +30,7 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(e) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regularservice under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
+(e) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
 
 &emsp;(1) The Secretary concerned shall pay to the institution an amount equal to one-half of the amount paid to the member by the institution for any period, up to a maximum of one-half of the difference between—
 
@@ -102,7 +102,7 @@ Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992."
+Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to payments for periods of instructor service performed after September 30, 1992."
 
 #### Short Title
 

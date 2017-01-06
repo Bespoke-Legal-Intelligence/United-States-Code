@@ -32,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (c).
 
-(e) In this section, "commissioned service obligation", with respect to an officer who is agraduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary, any later date up to the eighth anniversary of such appointment.
+(e) In this section, "commissioned service obligation", with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary, any later date up to the eighth anniversary of such appointment.
 
 (f)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 
@@ -44,7 +44,7 @@
 
 #### Historical and Revision Notes
 
-Based on the proviso under the heading "Revenue Cutter Service" of act Feb. 25, 1903, ch. 755, 32 Stat. 869, and on title 14, U.S.C., 1946 ed., §§15, 15a–1, 25 (June 23, 1906, ch. 3520, §2, 34 Stat. 452; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; July 3, 1926, ch. 742, §6, 44 Stat. 816; July 30, 1937, ch. 545, §5, 50 Stat. 549; May 25, 1943, ch. 99, 57 Stat. 84).
+Based on the proviso under the heading "Revenue Cutter Service" of act Feb. 25, 1903, ch. 755, 32 Stat. 869,and on title 14, U.S.C., 1946 ed., §§15, 15a–1, 25 (June 23, 1906, ch. 3520, §2, 34 Stat. 452; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; July 3, 1926, ch. 742, §6, 44 Stat. 816; July 30, 1937, ch. 545, §5, 50 Stat. 549; May 25, 1943, ch. 99, 57 Stat. 84).
 
 Section 15 of title 14, U.S.C., 1946 ed., has been divided. That part dealing with clothing allowance for cadets is placed in section 183 of this title and the other parts are incorporated with the proviso of title 14, U.S.C., 1946 ed., §15a–1 to form this section.
 

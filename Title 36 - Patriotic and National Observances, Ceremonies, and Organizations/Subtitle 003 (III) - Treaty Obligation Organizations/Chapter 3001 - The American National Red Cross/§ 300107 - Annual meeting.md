@@ -26,7 +26,7 @@ Establishment of number of votes.—
 
 &emsp;&emsp;(A)
 
-In general.—The board of governors shall determine on an equitable basis the number of votes that each chapter is entitled to cast, taking into consideration the size of the membership of the chapters, the populations served by the chapters, and such other factors as may be determined by the board.
+In general.—The board of governors shall determine on an equitable basis the number of votes that each chapter is entitled to cast, taking into consideration the size of the membership of the chapters, thepopulations served by the chapters, and such other factors as may be determined by the board.
 
 &emsp;&emsp;(B)
 

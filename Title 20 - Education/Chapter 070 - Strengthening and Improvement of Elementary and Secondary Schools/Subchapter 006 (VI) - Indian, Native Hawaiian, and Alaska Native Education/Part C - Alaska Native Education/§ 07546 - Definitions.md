@@ -10,9 +10,9 @@ In this part:
 
 &emsp;The term "Alaska Native organization" means an organization that has or commits to acquire expertise in the education of Alaska Natives and is—
 
-&emsp;&emsp;(A) an Indian tribe, as defined in section 450b of title 25, that is an Indian tribe located in Alaska;
+&emsp;&emsp;(A) an Indian tribe, as defined in section 5304 of title 25, that is an Indian tribe located in Alaska;
 
-&emsp;&emsp;(B) a "tribal organization", as defined in section 450b of title 25, that is a tribal organization located in Alaska; or
+&emsp;&emsp;(B) a "tribal organization", as defined in section 5304 of title 25, that is a tribal organization located in Alaska; or
 
 &emsp;&emsp;(C) an organization listed in clauses (i) through (xii) of section 619(4)(B) of title 42, or the successor of an entity so listed.
 

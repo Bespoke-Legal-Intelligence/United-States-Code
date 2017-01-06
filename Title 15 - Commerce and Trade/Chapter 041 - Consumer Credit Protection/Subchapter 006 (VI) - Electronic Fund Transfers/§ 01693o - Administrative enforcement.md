@@ -80,7 +80,7 @@ Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Board;
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners' Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 

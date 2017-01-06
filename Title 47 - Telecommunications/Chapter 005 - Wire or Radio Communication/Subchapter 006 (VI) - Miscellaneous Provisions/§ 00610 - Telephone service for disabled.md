@@ -12,7 +12,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(B) All telephones manufactured in the United States (other than for export) more than one year after August 16, 1988, or imported for use in the United States more than one year after such date.
 
-&emsp;(C) All customer premises equipment used with advanced communications services that is designed to provide 2-way voice communication via a built-in speaker intended to be heldto the ear in a manner functionally equivalent to a telephone, subject to the regulations prescribed by the Commission under subsection (e).
+&emsp;(C) All customer premises equipment used with advanced communications services that is designed to provide 2-way voice communication via a built-in speaker intended to be held to the ear in a manner functionally equivalent to a telephone, subject to the regulations prescribed by the Commission under subsection (e).
 
 (2)(A) The regulations prescribed by the Commission under paragraph (1) shall exempt from the requirements established pursuant to subparagraphs (B) and (C) of paragraph (1) only—
 
@@ -32,7 +32,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(iv) compliance with the requirements of subparagraph (B) or (C) of paragraph (1) would not increase costs to such an extent that the telephones to which the exemption applies could not be successfully marketed.
 
-(3) The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of paragraph (1)(B) of this subsection with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant such a waiver unless the Commission determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (A) compliance with the requirements of paragraph (1)(B) is technologically infeasible, or (B) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this paragraph to grant a waiver from the requirements of paragraph (1)(B), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this paragraph.
+(3) The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of paragraph (1)(B) of this subsection with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant such a waiver unless the Commission determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (A) compliance with the requirements of paragraph (1)(B) is technologically infeasible, or\(B) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this paragraph to grant a waiver from the requirements of paragraph (1)(B), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this paragraph.
 
 (4) For purposes of this subsection—
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 100–394, §3(b), substituted "The Commission shall comple
 
 Pub. L. 100–394, §2, Aug. 16, 1988, 102 Stat. 976, provided that: "The Congress finds that—
 
-&emsp;"(1) to the fullest extent made possible by technology and medical science, hearing-impaired personsshould have equal access to the national telecommunications network;
+&emsp;"(1) to the fullest extent made possible by technology and medical science, hearing-impaired persons should have equal access to the national telecommunications network;
 
 &emsp;"(2) present technology provides effective coupling of telephones to hearing aids used by some severely hearing-impaired persons for communicating by voice telephone;
 

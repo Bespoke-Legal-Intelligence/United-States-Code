@@ -46,7 +46,7 @@ The purposes of this section are to clarify the authority within the Public Heal
 
 Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary of Health and Human Services (in this section referred to as the "Secretary"), acting through the Administrator of the Health Resources and Services Administration, shall make awards of grants or cooperative agreements to develop statewide newborn and infant hearing screening, evaluation and intervention programs and systems for the following purposes:
 
-&emsp;(1) To develop and monitor the efficacy of statewide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], which offer programs specifically designed to meet the unique language and communication needs of deaf and hard-of-hearing newborns, infants, toddlers, and children.
+&emsp;(1) To develop and monitor the efficacy of statewide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referralto schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], which offer programs specifically designed to meet the unique language and communication needs of deaf and hard-of-hearing newborns, infants, toddlers, and children.
 
 &emsp;(2) To collect data on statewide newborn and infant hearing screening, evaluation and intervention programs and systems that can be used for applied research, program evaluation and policy development.
 
@@ -54,7 +54,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) Centers for Disease Control and Prevention
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperativeagreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
 
 &emsp;&emsp;(A) to ensure quality monitoring of newborn and infant hearing loss screening, evaluation, and intervention programs and systems;
 
@@ -84,7 +84,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (3) State early detection, diagnosis, and intervention programs and systems; data collection
 
-&emsp;Under the existing authority of the Public Health Service Act, the Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (c) of this section and to develop a data collection system under subsection (d) of this section.
+&emsp;Under the existing authority of the Public Health Service Act, the Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (c) and to develop a data collection system under subsection (d).
 
 #### (f) Rule of construction
 
@@ -94,15 +94,15 @@ Nothing in this section shall be construed to preempt any State law.
 
 #### (1) Statewide newborn and infant hearing screening, evaluation and intervention programs and systems
 
-&emsp;For the purpose of carrying out subsection (c) of this section under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], there are authorized to the Health Resources and Services Administration appropriations in the amount of $5,000,000 for fiscal year 2000, $8,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+&emsp;For the purpose of carrying out subsection (c) under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], there are authorized to the Health Resources and Services Administration appropriations in the amount of $5,000,000 for fiscal year 2000, $8,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (d)(1) of this section under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amountof $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+&emsp;For the purpose of carrying out subsection (d)(1) under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amount of $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 
-&emsp;For the purpose of carrying out subsection (d)(2) of this section under the existing authority of the Public Health Service Act, there are authorized to the National Institute on Deafness and Other Communication Disorders appropriations for such sums as may be necessary for each of the fiscal years 2000 through 2002.
+&emsp;For the purpose of carrying out subsection (d)(2) under the existing authority of the Public Health Service Act, there are authorized to the National Institute on Deafness and Other Communication Disorders appropriations for such sums as may be necessary for each of the fiscal years 2000 through 2002.
 
 (Pub. L. 106–113, div. B, §1000(a)(4) \[title VI, §601\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
 

@@ -30,7 +30,7 @@ Another prior section 2325 was renumbered section 2345 of this title.
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required reports relating to business combinations occurring on or after August 15, 1994.
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 substituted "paragraph (1), with respect to a business combination, to an official of the Department of Defense—" for "paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense." and added subpars. (A) and (B).
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 substituted "paragraph (1), with respect to a business combination, to anofficial of the Department of Defense—" for "paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense." and added subpars. (A) and (B).
 
 <b>1999</b>—Subsec. (a)(1). Pub. L. 106–65 inserted "that occurs after November 18, 1997," after "of the contractor" in introductory provisions.
 

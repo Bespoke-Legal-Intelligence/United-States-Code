@@ -8,7 +8,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) Certain taxes
 
-&emsp;There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes received in the Treasury before October 1, 2016, under the following provisions—
+&emsp;There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes received in the Treasury before October 1, 2022, under the following provisions—
 
 &emsp;&emsp;(A) section 4041 (relating to taxes on diesel fuels and special motor fuels),
 
@@ -22,9 +22,9 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 > &emsp;For purposes of this paragraph, taxes received under sections 4041 and 4081 shall be determined without reduction for credits under section 6426 and taxes received under section 4081 shall be determined without regard to tax receipts attributable to the rate specified in section 4081(a)(2)(C).
 
-#### (2) Liabilities incurred before October 1, 2016
+#### (2) Liabilities incurred before October 1, 2022
 
-&emsp;There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2016, and before July 1, 2017, and which are attributable to liability for tax incurred before October 1, 2016, under the provisions described in paragraph (1).
+&emsp;There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2022, and before July 1, 2023, and which are attributable to liability for tax incurred before October 1, 2022, under the provisions described in paragraph (1).
 
 #### \[(3) Repealed. Pub. L. 109–59, title XI, §11161(c)(2)(C), Aug. 10, 2005, 119 Stat. 1972\]
 
@@ -50,7 +50,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;There are hereby appropriated to the Highway Trust Fund amounts equivalent to the penalties paid under sections 6715, 6715A,6717, 6718, 6719, 6720A, 6725, 7232, and 7272 (but only with regard to penalties under such section related to failure to register under section 4101).
+&emsp;&emsp;There are hereby appropriated to the Highway Trust Fund amounts equivalent to the penalties paid under sections 6715, 6715A, 6717, 6718, 6719, 6720A, 6725, 7232, and 7272 (but only with regard to penalties under such section related to failure to register under section 4101).
 
 #### (B) Penalties related to motor vehicle safety
 
@@ -84,7 +84,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Floor stocks refunds
 
-&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2017, under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
+&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2023, under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
 
 #### (3) Transfers from the Trust Fund for motorboat fuel taxes
 
@@ -92,7 +92,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005, and before October 1, 2016.
+&emsp;&emsp;&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005, and before October 1, 2022.
 
 #### (ii) Limitation
 
@@ -120,11 +120,11 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990, and before October 1, 2016.
+&emsp;&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990, and before October 1, 2022.
 
 #### (B) Small-engine fuel taxes
 
-&emsp;&emsp;For purposes of this paragraph, the term "small-engine fuel taxes" means the taxesunder section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
+&emsp;&emsp;For purposes of this paragraph, the term "small-engine fuel taxes" means the taxes under section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
 
 #### (5) Transfers from the Trust Fund for certain aviation fuel taxes
 
@@ -172,7 +172,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (4) Apportionment of amounts previously withheld from apportionment
 
-&emsp;If, after funds have been withheld from apportionment under paragraph (3)(B), the Secretary of the Treasury determines that the amount described in paragraph (1)(A) does not exceed the amount described in paragraph (1)(B) or that the excess described in paragraph (1)(B) is less than the amount previously determined, he shall so advise the Secretary of Transportation. The Secretary of Transportation shall apportion to the States such portion of the funds so withheld from apportionment as the Secretary of the Treasury has advised him may be so apportioned without causing the amount described in paragraph (1)(A) to exceed the amount described in paragraph (1)(B). Any funds apportioned pursuant to the preceding sentence shall remain available for the period for which they would be available if such apportionment took effect with the fiscal year in which they are apportioned pursuant to the preceding sentence.
+&emsp;If, after funds have been withheld from apportionment under paragraph (3)(B), the Secretary of the Treasury determines that the amount described in paragraph (1)(A) does not exceed the amount described in paragraph (1)(B) or that the excess described in paragraph (1)(B) is less than the amount previouslydetermined, he shall so advise the Secretary of Transportation. The Secretary of Transportation shall apportion to the States such portion of the funds so withheld from apportionment as the Secretary of the Treasury has advised him may be so apportioned without causing the amount described in paragraph (1)(A) to exceed the amount described in paragraph (1)(B). Any funds apportioned pursuant to the preceding sentence shall remain available for the period for which they would be available if such apportionment took effect with the fiscal year in which they are apportioned pursuant to the preceding sentence.
 
 #### (5) Definitions
 
@@ -310,29 +310,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
 
-(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330-445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388-426, 1388-427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645; Pub. L. 108–88, §12(a), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–202, §12(a), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(a), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §10(a), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(a)(1)–(3), July 30, 2004, 118 Stat. 887; Pub. L. 108–310, §13(a)(1)–(3), (c), Sept. 30, 2004, 118 Stat. 1163, 1164; Pub. L. 108–357, title III, §301(c)(11)–(13), title VIII, §868(a), (b), Oct. 22, 2004, 118 Stat. 1462, 1463, 1622; Pub. L. 109–14, §9(a), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(a), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(a), July 20, 2005, 119 Stat. 390; Pub. L. 109–37, §9(a), July 22, 2005, 119 Stat. 405; Pub. L. 109–40, §9(a), July 28, 2005, 119 Stat. 421; Pub. L. 109–42, §7(a), (d)(1), July 30, 2005, 119 Stat. 436, 438; Pub. L. 109–59, title XI, §§11101(c)(1), (2)(A), (d)(1), 11102(a), (b), 11115(a), 11161(c)(1), (2)(C), 11167(b), Aug. 10, 2005, 119 Stat. 1944, 1945, 1949, 1972, 1977; Pub. L. 109–432, div. A, title IV, §420(b)(6), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §11(a)(44), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–244, title I, §121(c), June 6, 2008, 122 Stat. 1608; Pub. L. 110–318, §1(a), (b), Sept. 15, 2008, 122 Stat. 3532; Pub. L. 111–46, §1, Aug. 7, 2009, 123 Stat. 1970; Pub. L. 111–68, div. B, §159(a)(2), (b)(2), Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–88, div. B, §103, Oct. 30, 2009, 123 Stat. 2972; Pub. L. 111–147, title IV, §§441(a), (b), 442(a), (b), 443(a), 444(a), (b)(2)–(4), 445(a), Mar. 18, 2010, 124 Stat. 93, 94; Pub. L. 111–322, title II, §2401(a), Dec. 22, 2010, 124 Stat. 3531; Pub. L. 112–5, title IV, §401(a), Mar. 4, 2011, 125 Stat. 22; Pub. L. 112–30, title I, §§141(a), 142(e)(1), (2)(A), Sept. 16, 2011, 125 Stat. 355, 356; Pub. L. 112–102, title IV, §§401(a), 402(e)(1), (2)(A), Mar. 30, 2012, 126 Stat. 281, 282; Pub. L. 112–140, title IV, §§401(a), 402(d)(1), (2)(A), June 29, 2012, 126 Stat. 402, 403; Pub. L. 112–141, div. D, title I, §§40101(a), 40102(e)(1), (2)(A), title II, §§40201(b), 40251, July 6, 2012, 126 Stat. 844–846, 864; Pub. L. 113–159, title II, §§2001(a), 2002(a), Aug. 8, 2014, 128 Stat. 1848; Pub. L. 113–287, §5(h), Dec. 19, 2014, 128 Stat. 3269; Pub. L. 113–295, div. A, title II, §217(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–21, title II, §2001(a), May 29, 2015, 129 Stat. 226; Pub. L. 114–41, title II, §§2001(a), 2002, July 31, 2015, 129 Stat. 453, 454; Pub. L. 114–73, title II, §2001(a), Oct. 29, 2015, 129 Stat. 582; Pub. L. 114–87, title II, §2001(a), Nov. 20, 2015, 129 Stat. 685; Pub. L. 114–94, div. C, title XXXI, §§31101(a), 31102(e)(1), (2)(A), 31201, 31202(a), Dec. 4, 2015, 129 Stat. 1726–1728.)
-
-#### Amendment of Subsections (b) and (c)
-
-<i>Pub. L. 114–94, div. C, title XXXI, §31102(e)(1), (2)(A), (f), Dec. 4, 2015, 129 Stat. 1727, 1728, provided that, effective Oct. 1, 2016, this section is amended:</i>
-
-<i>(1) in subsection (b)—</i>
-
-<i>(A) by striking "October 1, 2016" each place it appears in paragraphs (1) and (2) and inserting "October 1, 2022";</i>
-
-<i>(B) by striking "October 1, 2016" in the heading of paragraph (2) and inserting "October 1, 2022";</i>
-
-<i>(C) by striking "September 30, 2016" in paragraph (2) and inserting "September 30, 2022"; and</i>
-
-<i>(D) by striking "July 1, 2017" in paragraph (2) and inserting "July 1, 2023"; and</i>
-
-<i>(2) in subsection (c)—</i>
-
-<i>(A) by striking "July 1, 2017" in paragraph (2) and inserting "July 1, 2023"; and</i>
-
-<i>(B) by striking "October 1, 2016" in paragraphs (3)(A)(i) and (4)(A) and inserting "October 1, 2022".</i>
-
-<i>See 2015 Amendment notes below.</i>
+(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–88, §12(a), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–202, §12(a), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(a), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §10(a), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(a)(1)–(3), July 30, 2004, 118 Stat. 887; Pub. L. 108–310, §13(a)(1)–(3), (c), Sept. 30, 2004, 118 Stat. 1163, 1164; Pub. L. 108–357, title III, §301(c)(11)–(13), title VIII, §868(a), (b), Oct. 22, 2004, 118 Stat. 1462, 1463, 1622; Pub. L. 109–14, §9(a), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(a), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(a), July 20, 2005, 119 Stat. 390; Pub. L. 109–37, §9(a), July 22, 2005, 119 Stat. 405; Pub. L. 109–40, §9(a), July 28, 2005, 119 Stat. 421; Pub. L. 109–42, §7(a), (d)(1), July 30, 2005, 119 Stat. 436, 438; Pub. L. 109–59, title XI, §§11101(c)(1), (2)(A), (d)(1), 11102(a), (b), 11115(a), 11161(c)(1), (2)(C), 11167(b), Aug. 10, 2005, 119 Stat. 1944, 1945, 1949, 1972, 1977; Pub. L. 109–432, div. A, title IV, §420(b)(6), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §11(a)(44), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–244, title I, §121(c), June 6, 2008, 122 Stat. 1608; Pub. L.110–318, §1(a), (b), Sept. 15, 2008, 122 Stat. 3532; Pub. L. 111–46, §1, Aug. 7, 2009, 123 Stat. 1970; Pub. L. 111–68, div. B, §159(a)(2), (b)(2), Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–88, div. B, §103, Oct. 30, 2009, 123 Stat. 2972; Pub. L. 111–147, title IV, §§441(a), (b), 442(a), (b), 443(a), 444(a), (b)(2)–(4), 445(a), Mar. 18, 2010, 124 Stat. 93, 94; Pub. L. 111–322, title II, §2401(a), Dec. 22, 2010, 124 Stat. 3531; Pub. L. 112–5, title IV, §401(a), Mar. 4, 2011, 125 Stat. 22; Pub. L. 112–30, title I, §§141(a), 142(e)(1), (2)(A), Sept. 16, 2011, 125 Stat. 355, 356; Pub. L. 112–102, title IV, §§401(a), 402(e)(1), (2)(A), Mar. 30, 2012, 126 Stat. 281, 282; Pub. L. 112–140, title IV, §§401(a), 402(d)(1), (2)(A), June 29, 2012, 126 Stat. 402, 403; Pub. L. 112–141, div. D, title I, §§40101(a), 40102(e)(1), (2)(A), title II, §§40201(b), 40251, July 6, 2012, 126 Stat. 844–846, 864; Pub. L. 113–159, title II, §§2001(a), 2002(a), Aug. 8, 2014, 128 Stat. 1848; Pub. L. 113–287, §5(h), Dec. 19, 2014, 128 Stat. 3269; Pub. L. 113–295, div. A, title II, §217(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–21, title II, §2001(a), May 29, 2015, 129 Stat. 226; Pub. L. 114–41, title II, §§2001(a), 2002, July 31, 2015, 129 Stat. 453, 454; Pub. L. 114–73, title II, §2001(a), Oct. 29, 2015, 129 Stat. 582; Pub. L. 114–87, title II, §2001(a), Nov. 20, 2015, 129 Stat. 685; Pub. L. 114–94, div. C, title XXXI, §§31101(a), 31102(e)(1), (2)(A), 31201, 31202(a), Dec. 4, 2015, 129 Stat. 1726–1728.)
 
 #### References in Text
 
@@ -782,7 +760,7 @@ Subsec. (e)(3). Pub. L. 108–88, §12(a)(2), substituted "March 1, 2004" for "O
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–178, §9002(c)(1)(A), substituted "2005" for "1999" in introductory provisions.
 
-Subsec. (b)(1)(C) to (F). Pub. L. 105–178, §9002(f)(1), struck out "and tread rubber" after "tires" in subpar. (D), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: "section 4061 (relating to tax on trucks and truck parts),".
+Subsec. (b)(1)(C) to (F). Pub. L. 105–178, §9002(f)(1), struck out "and tread rubber" after "tires" in subpar.\(D), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: "section 4061 (relating to tax on trucks and truck parts),".
 
 Subsec. (b)(2). Pub. L. 105–178, §9002(c)(1), substituted "2005" for "1999" wherever appearing in heading and text and substituted "2006" for "2000" in text.
 
@@ -862,7 +840,7 @@ Subsec. (b)(4). Pub. L. 105–34, §901(a), amended heading and text of par. (4)
 
 Subsec. (b)(5)(B). Pub. L. 105–34, §1032(e)(14), substituted ", diesel fuel, or kerosene" for "or diesel fuel".
 
-Subsec. (c)(1). Pub. L. 105–130, §9(a)(1)(A), substituted "1998" for "1997" in introductory provisions and, in concluding provisions, substituted "In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of this sentence." for "In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991."
+Subsec. (c)(1). Pub. L. 105–130, §9(a)(1)(A), substituted "1998" for "1997" in introductory provisions and, in concluding provisions, substituted "In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of this sentence." for"In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991."
 
 Subsec. (c)(2)(A). Pub. L. 105–34, §901(d)(2), in concluding provisions, substituted "by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund" for "by taking into account only the Highway Trust Fund financing rate applicable to any fuel".
 
@@ -960,7 +938,7 @@ Subsec. (b)(4). Pub. L. 100–203, §10502(d)(14), amended par. (4) generally. P
 
 Subsec. (c). Pub. L. 100–17, §503(a), substituted "1993" for "1988" wherever appearing and "1994" for "1989" wherever appearing.
 
-Subsec. (c)(1)(C), (D). Pub. L. 100–17, §503(b), added subpars. (C) and (D) and struck out former subpar. (C)which read as follows: "hereafter authorized by a law which does not authorize the expenditure out of the Highway Trust Fund of any amount for a general purpose not covered by subparagraph (A) or (B) as in effect on December 31, 1982."
+Subsec. (c)(1)(C), (D). Pub. L. 100–17, §503(b), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "hereafter authorized by a law which does not authorize the expenditure out of the Highway Trust Fund of any amount for a general purpose not covered by subparagraph (A) or (B) as in effect on December 31, 1982."
 
 Subsec. (e)(2). Pub. L. 100–203, §10502(d)(15), substituted "sections 4041, 4081, and 4091" for "sections 4041 and 4081" and "section 4041, 4081, or 4091" for "section 4041 or 4081".
 
@@ -1038,13 +1016,13 @@ Pub. L. 111–147, title IV, §442(c), Mar. 18, 2010, 124 Stat. 94, provided tha
 
 Pub. L. 111–147, title IV, §443(b), Mar. 18, 2010, 124 Stat. 94, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 18, 2010\]."
 
-Amendment by section 444(a), (b)(2)–(4) of Pub. L. 111–147 applicable to transfers relating to amounts paid and credits allowed after Mar. 18, 2010, see section 444(c) of Pub. L. 111–147, set out as a note under section 9502 of this title.
+Amendment by section 444(a), (b)(2)–(4) of Pub. L. 111–147 applicable to transfers relating to amounts paidand credits allowed after Mar. 18, 2010, see section 444(c) of Pub. L. 111–147, set out as a note under section 9502 of this title.
 
 Pub. L. 111–147, title IV, §445(c), Mar. 18, 2010, 124 Stat. 95, provided that: "The amendments made by this section \[amending this section and section 9504 of this title\] shall take effect on September 30, 2009."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–318, §1(c), Sept. 15, 2008, 122 Stat. 3532, provided that: "The amendments made by this section\[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 15, 2008\]."
+Pub. L. 110–318, §1(c), Sept. 15, 2008, 122 Stat. 3532, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 15, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -1110,7 +1088,7 @@ Pub. L. 108–88, §12(c), Sept. 30, 2003, 117 Stat. 1129, provided that: "The a
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxes received in the Treasury after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxes received in the Treasury after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1998 Amendments
 
@@ -1122,7 +1100,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Pub. L. 105–178, title IX, §9002(e)(2), June 9, 1998, 112 Stat. 501, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendment made by section 901(b) of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\]."
 
-Pub. L. 105–178, title IX, §9004(a)(2), June 9, 1998, 112 Stat. 504, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998."
+Pub. L. 105–178, title IX, §9004(a)(2), June 9, 1998, 112 Stat. 504, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect on October 1, 1998."
 
 Pub. L. 105–178, title IX, §9004(b)(2), June 9, 1998, 112 Stat. 504, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 901 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\]."
 

@@ -6,7 +6,7 @@ It is the purpose of this section to encourage individuals to enter and continue
 
 #### (b) Program authorized
 
-The Secretary shall carry out a program, through the holder of the loan, of assuming the obligation to repay a qualified loan amount for a loan made under section 1078 or 1078–8 of this title, in accordance with subsection (c) of this section, for any new borrower on or after October 1, 1998, who—
+The Secretary shall carry out a program, through the holder of the loan, of assuming the obligation to repay a qualified loan amount for a loan made under section 1078 or 1078–8 of this title, in accordance with subsection (c), for any new borrower on or after October 1, 1998, who—
 
 &emsp;(1) has been employed as a full-time teacher for 5 consecutive complete school years—
 
@@ -20,11 +20,11 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 #### (1) In general
 
-&emsp;The Secretary shall repay not more than $5,000 in the aggregate of the loan obligation on a loan made under section 1078 or 1078–8 of this title that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1) of this section. No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.
+&emsp;The Secretary shall repay not more than $5,000 in the aggregate of the loan obligation on a loan made under section 1078 or 1078–8 of this title that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1). No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.
 
 #### (2) Treatment of consolidation loans
 
-&emsp;A loan amount for a loan made under section 1078–3 of this title may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 1078 or 1078–8 of this title for a borrower who meets the requirements of subsection (b) of this section, as determined in accordance with regulations prescribed by the Secretary.
+&emsp;A loan amount for a loan made under section 1078–3 of this title may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 1078 or 1078–8 of this title for a borrower who meets the requirements of subsection (b), as determined in accordance with regulations prescribed by the Secretary.
 
 #### (3) Additional amounts for teachers in mathematics, science, or special education
 
@@ -32,13 +32,13 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;&emsp;(A) a secondary school teacher—
 
-&emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b) of this section; and
+&emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b); and
 
 &emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is teaching mathematics or science on a full-time basis; and
 
 &emsp;&emsp;(B) an elementary school or secondary school teacher—
 
-&emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b) of this section;
+&emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b);
 
 &emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any rep
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -62,11 +62,11 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 &emsp;Any teacher who performs service in a school that—
 
-&emsp;&emsp;(A) meets the requirements of subsection (b)(1)(A) of this section in any year during such service; and
+&emsp;&emsp;(A) meets the requirements of subsection (b)(1)(A) in any year during such service; and
 
 &emsp;&emsp;(B) in a subsequent year fails to meet the requirements of such subsection,
 
-> &emsp;may continue to teach in such school and shall be eligible for loan forgiveness pursuant to subsection (b) of this section.
+> &emsp;may continue to teach in such school and shall be eligible for loan forgiveness pursuant to subsection (b).
 
 #### (2) Prevention of double benefits
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 2004 Amendment; Transition Rule
 

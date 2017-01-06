@@ -80,7 +80,7 @@
 
 #### (2) Penalties for retaliation
 
-&emsp;If a long-term care facility violates subparagraph (A) or (B) of paragraph (1) the facility shall be subject to a civil money penalty of not more than $200,000 or the Secretary may classify the entity as an excluded entity for a period of 2 years pursuant to section 1320a–7(b) of this title, or both.
+&emsp;If a long-term care facility violates subparagraph (A) or (B) of paragraph (1) the facilityshall be subject to a civil money penalty of not more than $200,000 or the Secretary may classify the entity as an excluded entity for a period of 2 years pursuant to section 1320a–7(b) of this title, or both.
 
 #### (3) Requirement to post notice
 

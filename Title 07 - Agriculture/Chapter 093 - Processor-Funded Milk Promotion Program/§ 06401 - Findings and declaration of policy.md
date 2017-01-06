@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) it is appropriate to finance the cooperative program described in paragraph (6) <sup>1</sup> with self-help assessments paid by the fluid milk processors; and
 
-&emsp;(9) fluid milk products move in interstate and foreign commerce, and fluid milk productsthat do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
+&emsp;(9) fluid milk products move in interstate and foreign commerce, and fluid milk products that do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
 
 #### (b) Policy
 

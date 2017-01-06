@@ -18,7 +18,7 @@ The Secretary shall establish and carry out an electronic product radiation cont
 
 #### (b) Powers of Secretary
 
-In carrying out the purposes of subsection (a) of this section, the Secretary is authorized to—
+In carrying out the purposes of subsection (a), the Secretary is authorized to—
 
 &emsp;(1)(A) collect and make available, through publications and other appropriate means, the results of, and other information concerning, research and studies relating to the nature and extent of the hazards and control of electronic product radiation; and (B) make such recommendations relating to such hazards and control as he considers appropriate;
 
@@ -30,7 +30,7 @@ In carrying out the purposes of subsection (a) of this section, the Secretary is
 
 #### (c) Record keeping
 
-(1) Each recipient of assistance under this part pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of assistance under this part pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by othersources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this part under other than competitive bidding procedures.
 

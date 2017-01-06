@@ -28,7 +28,7 @@
 
 #### (D) Increase for late enrollment penalty
 
-&emsp;&emsp;The base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b) of this section.
+&emsp;&emsp;The base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b).
 
 #### (E) Decrease for low-income assistance
 
@@ -156,7 +156,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) of this section in an amount determined under paragraph (3).
+&emsp;Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) in an amount determined under paragraph (3).
 
 #### (2) Individuals subject to penalty
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;&emsp;(i) an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
 
-&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2) of this section) for each such uncovered month in such period.
+&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2)) for each such uncovered month in such period.
 
 #### (B) Uncovered month defined
 
@@ -186,7 +186,7 @@
 
 #### (B) Medicaid
 
-&emsp;&emsp;Coverage under a medicaid plan under subchapter XIX of this chapter or under a waiver under section 1315 of this title.
+&emsp;&emsp;Coverage under a medicaid plan under subchapter XIX or under a waiver under section 1315 of this title.
 
 #### (C) Group health plan
 
@@ -220,7 +220,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish procedures (including the form, manner, and time) for the documentation of creditable prescription drug coverage, including procedures to assist in determining whether coverage meets the requirement of paragraph (5).
+&emsp;&emsp;The Secretary shall establish procedures (including the form, manner, and time) for the documentation of creditable prescriptiondrug coverage, including procedures to assist in determining whether coverage meets the requirement of paragraph (5).
 
 #### (B) Disclosure by entities offering creditable prescription drug coverage
 
@@ -244,7 +244,7 @@
 
 #### (B) Separate period
 
-&emsp;&emsp;Any period during all of which a part D eligible individual is entitled to hospital insurance benefits under part A of this subchapter and—
+&emsp;&emsp;Any period during all of which a part D eligible individual is entitled to hospital insurance benefits under part A and—
 
 &emsp;&emsp;&emsp;(i) which terminated in or before the month preceding the month in which the individual attained age 65; or
 
@@ -260,13 +260,13 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C of this subchapter, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
+&emsp;Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
 
 #### (2) Crediting of late enrollment penalty
 
 #### (A) Portion attributable to increased actuarial costs
 
-&emsp;&emsp;With respect to late enrollment penalties imposed under subsection (b) of this section, the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title) as a result of such late enrollment.
+&emsp;&emsp;With respect to late enrollment penalties imposed under subsection (b), the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title) as a result of such late enrollment.
 
 #### (B) Collection through withholding
 
@@ -274,11 +274,11 @@
 
 #### (C) Collection by plan
 
-&emsp;&emsp;In the case of a late enrollment penalty that is collected from a part D eligible individual in a manner other than the manner described in section 1395w–24(d)(2)(A) of this title, the Secretary shall establish procedures for reducing payments otherwise madeto the PDP sponsor or MA organization by an amount equal to the amount of such penalty less the portion of such penalty estimated under subparagraph (A).
+&emsp;&emsp;In the case of a late enrollment penalty that is collected from a part D eligible individual in a manner other than the manner described in section 1395w–24(d)(2)(A) of this title, the Secretary shall establish procedures for reducing payments otherwise made to the PDP sponsor or MA organization by an amount equal to the amount of such penalty less the portion of such penalty estimated under subparagraph (A).
 
 #### (3) Fallback plans
 
-&emsp;In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the manner specified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title).
+&emsp;In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the mannerspecified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title).
 
 #### (4) Collection of monthly adjustment amount
 

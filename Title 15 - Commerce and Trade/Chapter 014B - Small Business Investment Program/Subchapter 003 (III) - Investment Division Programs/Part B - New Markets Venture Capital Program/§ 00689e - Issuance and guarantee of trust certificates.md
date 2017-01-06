@@ -54,7 +54,7 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 
 #### (B) Fidelity bond or insurance requirement
 
-&emsp;&emsp;Any agent performing functions on behalf of the Administrator under this paragraph shall provide a fidelity bond or insurance in such amounts as the Administrator determines to be necessary to fully protect the interests of the United States.
+&emsp;&emsp;Any agent performing functions on behalf of the Administrator under this paragraphshall provide a fidelity bond or insurance in such amounts as the Administrator determines to be necessary to fully protect the interests of the United States.
 
 #### (3) Regulation of brokers and dealers
 
@@ -62,7 +62,7 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 
 #### (4) Electronic registration
 
-&emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or otherelectronic form of registration for trust certificates issued under this section.
+&emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
 (Pub. L. 85–699, title III, §356, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–658.)
 

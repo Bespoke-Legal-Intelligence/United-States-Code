@@ -6,7 +6,7 @@ It shall be an unlawful employment practice for an employer—
 
 &emsp;(1) to fail or refuse to hire, or to discharge, any employee, or otherwise to discriminate against any employee with respect to the compensation, terms, conditions, or privileges of employment of the employee, because of genetic information with respect to the employee; or
 
-&emsp;(2) to limit, segregate, or classify the employees of the employer in any way that would deprive or tend to deprive any employee of employment opportunities or otherwise adversely affect the status of the employee as an employee, because of genetic information with respect to the employee.
+&emsp;(2) to limit, segregate, or classify the employees of the employer in any way that woulddeprive or tend to deprive any employee of employment opportunities or otherwise adversely affect the status of the employee as an employee, because of genetic information with respect to the employee.
 
 #### (b) Acquisition of genetic information
 
@@ -26,7 +26,7 @@ It shall be an unlawful employment practice for an employer to request, require,
 
 &emsp;(3) where an employer requests or requires family medical history from the employee to comply with the certification provisions of section 2613 of title 29 or such requirements under State family and medical leave laws;
 
-&emsp;(4) where an employer purchases documents that are commercially and publicly available\(including newspapers, magazines, periodicals, and books, but not including medical databases or court records) that include family medical history;
+&emsp;(4) where an employer purchases documents that are commercially and publicly available (including newspapers, magazines, periodicals, and books, but not including medical databases or court records) that include family medical history;
 
 &emsp;(5) where the information involved is to be used for genetic monitoring of the biological effects of toxic substances in the workplace, but only if—
 

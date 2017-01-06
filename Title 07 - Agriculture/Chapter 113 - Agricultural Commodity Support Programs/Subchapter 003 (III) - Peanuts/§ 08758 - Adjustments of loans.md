@@ -22,9 +22,13 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### References in Text
 
-Subtitles B, D, and E, referred to in subsec. (b), are subtitles B (§1201 et seq.), D (§1401 et seq.), and E (§1501 et seq.), respectively, of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitle B is classified generally to subchapter II (§8731 et seq.) of this chapter. Subtitle D enacted sections 1359kk, 1359ll, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§8771 et seq.) of this chapter and amended sections 450l, 608c, 1637b, 4502, 4504, and 4531 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B, D, and E to the Code, see Tables.
+Subtitles B, D, and E, referred to in subsec. (b), are subtitles B (§1201 et seq.), D (§1401 et seq.), and E (§1501et seq.), respectively, of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitle B is classified generally to subchapter II (§8731 et seq.) of this chapter. Subtitle D enacted sections 1359kk, 1359ll, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§8771 et seq.) of this chapter and amended sections 450l, 608c, 1637b, 4502, 4504, and 4531 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B, D, and E to the Code, see Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

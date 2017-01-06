@@ -34,7 +34,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective first day of seventh calendar month that begins after Oct. 26, 1970,see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
 
 #### Effective Date of 1965 Amendment
 

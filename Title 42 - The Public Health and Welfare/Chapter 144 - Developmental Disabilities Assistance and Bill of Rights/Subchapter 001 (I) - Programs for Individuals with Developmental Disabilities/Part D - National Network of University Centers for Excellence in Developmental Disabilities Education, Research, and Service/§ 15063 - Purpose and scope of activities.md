@@ -10,7 +10,7 @@
 
 &emsp;The core functions referred to in paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include the preparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of this subchapter.
+&emsp;&emsp;(A) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include thepreparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of this subchapter.
 
 &emsp;&emsp;(B) Provision of community services—
 
@@ -26,7 +26,7 @@
 
 #### (1) Supplemental grants
 
-&emsp;After consultation with relevant, informed sources, including individuals with developmental disabilities and their families, the Secretary shall award, under section 15061(b) of this title, supplemental grants to Centers topay for the Federal share of the cost of training initiatives related to the unmet needs of individuals with developmental disabilities and their families. The Secretary shall make the grants on a competitive basis, and for periods of not more than 5 years.
+&emsp;After consultation with relevant, informed sources, including individuals with developmental disabilities and their families, the Secretary shall award, under section 15061(b) of this title, supplemental grants to Centers to pay for the Federal share of the cost of training initiatives related to the unmet needs of individuals with developmental disabilities and their families. The Secretary shall make the grants on a competitive basis, and for periods of not more than 5 years.
 
 #### (2) Establishment of consultation process by the Secretary
 

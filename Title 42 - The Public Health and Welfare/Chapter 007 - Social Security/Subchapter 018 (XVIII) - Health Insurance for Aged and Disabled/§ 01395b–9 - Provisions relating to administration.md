@@ -14,7 +14,7 @@
 
 &emsp;The duties described in this paragraph are the following:
 
-&emsp;&emsp;(A) The administration of parts C and D of this subchapter.
+&emsp;&emsp;(A) The administration of parts C and D.
 
 &emsp;&emsp;(B) The provision of notice and information under section 1395b–2 of this title.
 
@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may employ, within the Centers for Medicare \& Medicaid Services, such individuals as management staff as the Secretary determines to be appropriate. With respect to the administration of parts C and D of this subchapter, such individuals shall include individuals with private sector expertise in negotiations with health benefits plans.
+&emsp;The Secretary may employ, within the Centers for Medicare \& Medicaid Services, such individuals as management staff as the Secretary determines to be appropriate. With respect to the administration of parts C and D, such individuals shall include individuals with private sector expertise in negotiations with health benefits plans.
 
 #### (2) Eligibility
 
@@ -66,13 +66,13 @@
 
 &emsp;The Medicare Beneficiary Ombudsman shall—
 
-&emsp;&emsp;(A) receive complaints, grievances, and requests for information submitted by individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to any aspect of the medicare program;
+&emsp;&emsp;(A) receive complaints, grievances, and requests for information submitted by individuals entitled to benefits under part A or enrolled under part B, or both, with respect to any aspect of the medicare program;
 
 &emsp;&emsp;(B) provide assistance with respect to complaints, grievances, and requests referred to in subparagraph (A), including—
 
 &emsp;&emsp;&emsp;(i) assistance in collecting relevant information for such individuals, to seek an appeal of a decision or determination made by a fiscal intermediary, carrier, MA organization, or the Secretary;
 
-&emsp;&emsp;&emsp;(ii) assistance to such individuals with any problems arising from disenrollment from an MA plan under part C of this subchapter; and
+&emsp;&emsp;&emsp;(ii) assistance to such individuals with any problems arising from disenrollment from an MA plan under part C; and
 
 &emsp;&emsp;&emsp;(iii) assistance to such individuals in presenting information under section 1395r(i)(4)(C) of this title (relating to income-related premium adjustment; <sup>1</sup> and
 
@@ -82,11 +82,27 @@
 
 #### (3) Working with health insurance counseling programs
 
-&emsp;To the extent possible, the Ombudsman shall work with health insurance counseling programs (receiving funding under section 1395b–4 of this title) to facilitate the provision of information to individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both regarding MA plans and changes to those plans. Nothing in this paragraph shall preclude further collaboration between the Ombudsman and such programs.
+&emsp;To the extent possible, the Ombudsman shall work with health insurance counseling programs (receiving funding under section 1395b–4 of this title) to facilitate the provision of information to individuals entitled to benefits under part A or enrolled under part B, or both regarding MA plans and changes to those plans. Nothing in this paragraph shall preclude further collaboration between the Ombudsman and such programs.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1808, as added and amended Pub. L. 108–173, title IX, §§900(a), (b), 923(a), Dec. 8, 2003, 117 Stat. 2369, 2393.)
+#### (d) Pharmaceutical and technology ombudsman
+
+#### (1) In general
+
+&emsp;Not later than 12 months after December 13, 2016, the Secretary shall provide for a pharmaceutical and technology ombudsman within the Centers for Medicare \& Medicaid Services who shall receive and respond to complaints, grievances, and requests that—
+
+&emsp;&emsp;(A) are from entities that manufacture pharmaceutical, biotechnology, medical device, or diagnostic products that are covered or for which coverage is being sought under this subchapter; and
+
+&emsp;&emsp;(B) are with respect to coverage, coding, or payment under this subchapter for such products.
+
+#### (2) Application
+
+&emsp;The second sentence of subsection (c)(2) shall apply to the ombudsman under subparagraph (A) in the same manner as such sentence applies to the Medicare Beneficiary Ombudsman under subsection (c).
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1808, as added and amended Pub. L. 108–173, title IX, §§900(a), (b), 923(a), Dec. 8, 2003, 117 Stat. 2369, 2393; Pub. L. 114–255, div. A, title IV, §4010, Dec. 13, 2016, 130 Stat. 1185.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–255 added subsec. (d).
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–173, §900(b), added subsec. (b).
 

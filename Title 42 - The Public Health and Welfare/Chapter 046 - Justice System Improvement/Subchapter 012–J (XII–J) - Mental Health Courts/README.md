@@ -17,3 +17,4 @@ A prior subchapter XII–J, consisting of sections 3796ii to 3796ii–8, related
 - [&sect; 03796ii&#8211;5 - Geographic distribution](%C2%A7%2003796ii%E2%80%935%20-%20Geographic%20distribution.md)
 - [&sect; 03796ii&#8211;6 - Report](%C2%A7%2003796ii%E2%80%936%20-%20Report.md)
 - [&sect; 03796ii&#8211;7 - Technical assistance, training, and evaluation](%C2%A7%2003796ii%E2%80%937%20-%20Technical%20assistance%2C%20training%2C%20and%20evaluation.md)
+- [&sect; 03796ii&#8211;8 - Mental health responses in the judicial system](%C2%A7%2003796ii%E2%80%938%20-%20Mental%20health%20responses%20in%20the%20judicial%20system.md)

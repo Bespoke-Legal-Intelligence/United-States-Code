@@ -110,7 +110,7 @@ Report.—Not later than April 1, 2007, the Secretary of Defense shall submit to
 
 &emsp;"(4)
 
-Prohibition on use of authority by department of defense if report not submitted.—The head of an agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
+Prohibition on use of authority by department of defense if report not submitted.—Thehead of an agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
 
 "(b)
 

@@ -10,17 +10,20 @@
 | \[114a. | Renumbered.\] |
 | [115\.](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md) | Personnel strengths: requirement for annual authorization. |
 | [115a.](%C2%A7%2000115a%20-%20Annual%20defense%20manpower%20requirements%20report.md) | Annual defense manpower requirements report. |
-| [115b.](%C2%A7%2000115b%20-%20Biennial%20strategic%20workforce%20plan.md) | Biennial strategic workforce plan. |
+| \[115b. | Repealed.\] |
 | [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
 | [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md) | Readiness reporting system: establishment; reporting to congressional committees. |
-| [118\.](%C2%A7%2000118%20-%20Defense%20Strategy%20Review.md) | Defense Strategy Review. |
+| \[118. | Repealed.\] |
 | [118a.](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md) | Quadrennial quality of life review. |
 | \[118b. | Repealed.\] |
 | [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
+| [119a.](%C2%A7%2000119a%20-%20Programs%20managed%20under%20alternative%20compensatory%20control%20measures%20congressional%20oversight.md) | Programs managed under alternative compensatory control measures: congressional oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title IX, §941(b)(2), title X, §1062(b), title XI, §1102(b), Dec. 23, 2016, 130 Stat. 2367, 2408, 2444, added item 119a and struck out items 115b "Biennial strategic workforce plan" and 118 "Defense strategy review".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(b)(3), Nov. 25, 2015, 129 Stat. 1001, amended directory language of Pub. L. 113–291, §1072(a)(2). See 2014 Amendment note below.
 
@@ -67,10 +70,11 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 - [&sect; 00114a - Renumbered &sect;221](%C2%A7%2000114a%20-%20Renumbered%20%C2%A7221.md)
 - [&sect; 00115 - Personnel strengths requirement for annual authorization](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md)
 - [&sect; 00115a - Annual defense manpower requirements report](%C2%A7%2000115a%20-%20Annual%20defense%20manpower%20requirements%20report.md)
-- [&sect; 00115b - Biennial strategic workforce plan](%C2%A7%2000115b%20-%20Biennial%20strategic%20workforce%20plan.md)
+- [&sect; 00115b - Repealed. Pub. L. 114&#8211;328, div. A, title XI, &sect;1102(a), Dec. 23, 2016, 130 Stat. 2444](%C2%A7%2000115b%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20XI%2C%20%C2%A71102%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202444.md)
 - [&sect; 00116 - Annual operations and maintenance report](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md)
 - [&sect; 00117 - Readiness reporting system establishment; reporting to congressional committees](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md)
-- [&sect; 00118 - Defense Strategy Review](%C2%A7%2000118%20-%20Defense%20Strategy%20Review.md)
+- [&sect; 00118 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;941(b)(1), Dec. 23, 2016, 130 Stat. 2367](%C2%A7%2000118%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7941%28b%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202367.md)
 - [&sect; 00118a - Quadrennial quality of life review](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md)
 - [&sect; 00118b - Repealed. Pub. L. 113&#8211;291, div. A, title X, &sect;1072(b)(1), Dec. 19, 2014, 128 Stat. 3516](%C2%A7%2000118b%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71072%28b%29%281%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203516.md)
 - [&sect; 00119 - Special access programs congressional oversight](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md)
+- [&sect; 00119a - Programs managed under alternative compensatory control measures congressional oversight](%C2%A7%2000119a%20-%20Programs%20managed%20under%20alternative%20compensatory%20control%20measures%20congressional%20oversight.md)

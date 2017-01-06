@@ -2,7 +2,7 @@
 
 #### (a) Definitions
 
-The word "person" as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word "ship" shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words "war material" shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word "factory" shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words "United States" shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
+The word "person" as used in subsections (b) and (c) shall include any individual, trustee, firm, association, company, or corporation. The word "ship" shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words "war material" shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word "factory" shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words "United States" shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
 
 #### (b) Presidential powers
 
@@ -18,7 +18,7 @@ Fourth. To requisition and take over for use or operation by the Government any 
 
 #### (d) <sup>1</sup> Compensation for commandeered material
 
-Whenever the United States shall cancel or modify any contract, make use of, assume, occupy, requisition, or take over any factory or part thereof, or any ships or war material, in accordance with the provisions of subsection (b) of this section, it shall make just compensation therefor, to be determined by the President, and if the amount thereof so determined by the President is unsatisfactory to the person entitled to receive the same, such person shall be paid fifty per centum of the amount so determined by the President and shall be entitled to sue the United States to recover such further sum as added to said fifty per centum shall make up such amount as will be just compensation therefor, in the manner provided for by section 1346 or section 1491 of title 28.
+Whenever the United States shall cancel or modify any contract, make use of, assume, occupy, requisition, or take over any factory or part thereof, or any ships or war material, in accordance with the provisions of subsection (b), it shall make just compensation therefor, to be determined by the President, and if the amount thereof so determined by the President is unsatisfactory to the person entitled to receive the same, such person shall be paid fifty per centum of the amount so determined by the President and shall be entitled to sue the United States to recover such further sum as added to said fifty per centum shall make up such amount as will be just compensation therefor, in the manner provided for by section 1346 or section 1491 of title 28.
 
 (Mar. 4, 1917, ch. 180, 39 Stat. 1192.)
 
@@ -46,9 +46,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 101. <i>Policy</i>. The United States must have the capability to rapidly mobilize its resources in the interest of national security. Therefore, to achieve prompt delivery of articles, products, and materials to meet national security requirements, the Government may place orders and require priority performance of these orders.
 
-Sec. 102. <i>Delegation of Authority under.</i>
+Sec. 102. <i>Delegation of Authority under 50 U.S.C. App. 468 \[now 50 U.S.C. 3816\].</i>
 
-(a) Subject to paragraph (b) of this section, the authorities vested in the President, under, with respect to the placing of orders for prompt delivery of articles or materials, except for the taking authority under (c), are hereby delegated to:
+(a) Subject to paragraph (b) of this section, the authorities vested in the President, under 50 U.S.C. App. 468 \[now 50 U.S.C. 3816\], with respect to the placing of orders for prompt delivery of articles or materials, except for the taking authority under (c), are hereby delegated to:
 
 (1) The Secretary of Agriculture with respect to all food resources;
 

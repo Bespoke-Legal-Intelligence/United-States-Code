@@ -16,7 +16,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 &emsp;(D) violated any provision of section 1304, 1343, 1464, or 2252 of title 18;
 
-> shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by this chapter; except that this subsection shall not apply to any conduct which is subject to forfeiture under subchapter II of this chapter, part II or III of subchapter III of this chapter, or section 507 of this title.
+> shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by this chapter; except that this subsection shall not apply to any conduct which is subject to forfeiture under subchapter II, part II or III of subchapter III, or section 507 of this title.
 
 (2)(A) If the violator is (i) a broadcast station licensee or permittee, (ii) a cable television operator, or (iii) an applicant for any broadcast or cable television operator license, permit, certificate, or other instrument or authorization issued by the Commission, the amount of any forfeiture penalty determined under this section shall not exceed $25,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $250,000 for any single act or failure to act described in paragraph (1) of this subsection.
 
@@ -34,9 +34,9 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 (E) The amount of such forfeiture penalty shall be assessed by the Commission, or its designee, by written notice. In determining the amount of such a forfeiture penalty, the Commission or its designee shall take into account the nature, circumstances, extent, and gravity of the violation and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
-(F) Subject to paragraph (5) of this section, if the violator is a manufacturer or service provider subject to the requirements of section 255, 617, or 619 of this title, and is determined by the Commission to have violated any such requirement, the manufacturer or provider shall be liable to the United States for a forfeiture penalty of not more than $100,000 for each violation oreach day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
+(F) Subject to paragraph (5) of this section, if the violator is a manufacturer or service provider subject to the requirements of section 255, 617, or 619 of this title, and is determined by the Commission to have violated any such requirement, the manufacturer or provider shall be liable to the United States for a forfeiture penalty of not more than $100,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
 
-(3)(A) At the discretion of the Commission, a forfeiture penalty may be determined against a person under this subsection after notice and an opportunity for a hearing before the Commission or an administrative law judge thereof in accordance with section 554 of title 5. Any person against whom a forfeiture penalty is determined under this paragraph may obtain review thereof pursuant to section 402(a) of this title.
+(3)(A) At the discretion of the Commission, a forfeiture penalty may be determined against aperson under this subsection after notice and an opportunity for a hearing before the Commission or an administrative law judge thereof in accordance with section 554 of title 5. Any person against whom a forfeiture penalty is determined under this paragraph may obtain review thereof pursuant to section 402(a) of this title.
 
 (B) If any person fails to pay an assessment of a forfeiture penalty determined under subparagraph (A) of this paragraph, after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Commission, the Commission shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the forfeiture penalty shall not be subject to review.
 
@@ -72,7 +72,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
-Parts II and III of subchapter III of this chapter, referred to in subsec. (b)(1), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
+Parts II and III of subchapter III, referred to in subsec. (b)(1), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
 
 #### Amendments
 

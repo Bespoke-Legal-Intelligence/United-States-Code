@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title23",
- "package": "USCODE-2015-title23",
+ "package": "USCODE-2016-title23",
  "pieces": [
   {
    "id": "23_",
@@ -2533,49 +2533,55 @@
    "marks": [
     [
      "L",
-     32,
+     36,
      "[Page 230]",
      true
     ],
     [
-     "L",
-     130,
-     "[Page 231]",
-     true
-    ],
-    [
-     "L",
-     234,
-     "[Page 232]",
-     true
+     "I",
+     134,
+     [
+      [
+       173,
+       "[Page 231]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00164 - Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence.md",
    "printed_pages": [
     229,
-    232
+    231
    ]
   },
   {
    "id": "23_165",
    "marks": [
     [
-     "L",
-     106,
-     "[Page 233]",
-     true
+     "I",
+     16,
+     [
+      [
+       79,
+       "[Page 232]"
+      ]
+     ]
     ],
     [
-     "L",
-     208,
-     "[Page 234]",
-     true
+     "I",
+     134,
+     [
+      [
+       98,
+       "[Page 233]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00165 - Territorial and Puerto Rico highway program.md",
    "printed_pages": [
-    232,
-    234
+    231,
+    233
    ]
   },
   {
@@ -2583,30 +2589,44 @@
    "marks": [
     [
      "I",
-     110,
+     36,
      [
       [
-       319,
+       76,
+       "[Page 234]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     136,
+     [
+      [
+       63,
        "[Page 235]"
       ]
      ]
     ],
     [
-     "L",
-     200,
-     "[Page 236]",
-     true
+     "I",
+     232,
+     [
+      [
+       396,
+       "[Page 236]"
+      ]
+     ]
     ],
     [
      "L",
-     292,
+     326,
      "[Page 237]",
      true
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00166 - HOV facilities.md",
    "printed_pages": [
-    234,
+    233,
     237
    ]
   },
@@ -2615,25 +2635,25 @@
    "marks": [
     [
      "L",
-     70,
+     108,
      "[Page 238]",
      true
     ],
     [
-     "L",
-     192,
-     "[Page 239]",
-     true
-    ],
-    [
      "I",
-     310,
+     240,
      [
       [
-       99,
-       "[Page 240]"
+       119,
+       "[Page 239]"
       ]
      ]
+    ],
+    [
+     "L",
+     340,
+     "[Page 240]",
+     true
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00167 - National highway freight program.md",
@@ -2646,18 +2666,14 @@
    "id": "23_168",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       216,
-       "[Page 241]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 241]",
+     true
     ],
     [
      "L",
-     118,
+     142,
      "[Page 242]",
      true
     ]
@@ -2672,10 +2688,14 @@
    "id": "23_169",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 243]",
-     true
+     "I",
+     64,
+     [
+      [
+       83,
+       "[Page 243]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00169 - Development of programmatic mitigation plans.md",
@@ -2695,26 +2715,26 @@
   },
   {
    "id": "23_[181_to_190",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 244]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Federal-Aid Highways/§ 00181 to 190 - Renumbered §§601 to 610.md",
    "printed_pages": [
     243,
-    244
+    243
    ]
   },
   {
    "id": "23_-ch2",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 244]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Other Highways/README.md",
    "printed_pages": [
-    244,
+    243,
     244
    ]
   },
@@ -2722,28 +2742,30 @@
    "id": "23_201",
    "marks": [
     [
-     "L",
-     54,
-     "[Page 245]",
-     true
+     "I",
+     96,
+     [
+      [
+       80,
+       "[Page 245]"
+      ]
+     ]
     ],
     [
-     "L",
-     160,
-     "[Page 246]",
-     true
-    ],
-    [
-     "L",
-     274,
-     "[Page 247]",
-     true
+     "I",
+     196,
+     [
+      [
+       108,
+       "[Page 246]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00201 - Federal lands and tribal transportation programs.md",
    "printed_pages": [
     244,
-    247
+    246
    ]
   },
   {
@@ -2751,58 +2773,76 @@
    "marks": [
     [
      "L",
-     86,
-     "[Page 248]",
+     18,
+     "[Page 247]",
      true
     ],
     [
      "I",
-     198,
+     136,
      [
       [
-       145,
+       263,
+       "[Page 248]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     222,
+     [
+      [
+       196,
        "[Page 249]"
       ]
      ]
     ],
     [
      "L",
-     270,
+     290,
      "[Page 250]",
      true
     ],
     [
-     "L",
-     328,
-     "[Page 251]",
-     true
-    ],
-    [
      "I",
-     400,
+     350,
      [
       [
-       266,
-       "[Page 252]"
+       71,
+       "[Page 251]"
       ]
      ]
     ],
     [
      "L",
-     508,
-     "[Page 253]",
+     430,
+     "[Page 252]",
      true
     ],
     [
-     "L",
-     658,
-     "[Page 254]",
-     true
+     "I",
+     550,
+     [
+      [
+       96,
+       "[Page 253]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     696,
+     [
+      [
+       101,
+       "[Page 254]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00202 - Tribal transportation program.md",
    "printed_pages": [
-    247,
+    246,
     254
    ]
   },
@@ -2811,19 +2851,15 @@
    "marks": [
     [
      "L",
-     26,
+     60,
      "[Page 255]",
      true
     ],
     [
-     "I",
-     160,
-     [
-      [
-       124,
-       "[Page 256]"
-      ]
-     ]
+     "L",
+     180,
+     "[Page 256]",
+     true
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00203 - Federal lands transportation program.md",
@@ -2837,7 +2873,7 @@
    "marks": [
     [
      "L",
-     68,
+     106,
      "[Page 257]",
      true
     ]
@@ -2852,14 +2888,10 @@
    "id": "23_205",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       91,
-       "[Page 258]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 258]",
+     true
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00205 - Forest development roads and trails.md",
@@ -2872,27 +2904,27 @@
    "id": "23_206",
    "marks": [
     [
-     "L",
-     74,
-     "[Page 259]",
-     true
-    ],
-    [
      "I",
-     162,
+     100,
      [
       [
-       138,
-       "[Page 260]"
+       75,
+       "[Page 259]"
       ]
      ]
     ],
     [
+     "L",
+     190,
+     "[Page 260]",
+     true
+    ],
+    [
      "I",
-     242,
+     266,
      [
       [
-       114,
+       93,
        "[Page 261]"
       ]
      ]
@@ -2908,40 +2940,36 @@
    "id": "23_207",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       483,
-       "[Page 262]"
-      ]
-     ]
+     "L",
+     80,
+     "[Page 262]",
+     true
     ],
     [
      "L",
-     164,
+     198,
      "[Page 263]",
      true
     ],
     [
      "I",
-     270,
+     286,
      [
       [
-       194,
+       570,
        "[Page 264]"
       ]
      ]
     ],
     [
      "L",
-     374,
+     406,
      "[Page 265]",
      true
     ],
     [
      "L",
-     482,
+     494,
      "[Page 266]",
      true
     ]
@@ -2966,10 +2994,10 @@
    "marks": [
     [
      "I",
-     12,
+     16,
      [
       [
-       1433,
+       1106,
        "[Page 267]"
       ]
      ]
@@ -2992,22 +3020,11 @@
   },
   {
    "id": "23_[212",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       107,
-       "[Page 268]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Other Highways/§ 00212 - Repealed. Pub. L. 112–141, div. A, title I, §1519(b)(1)(A), July 6, 2012, 126 Stat. 575.md",
    "printed_pages": [
     267,
-    268
+    267
    ]
   },
   {
@@ -3015,8 +3032,8 @@
    "marks": [],
    "path": "Chapter 002 - Other Highways/§ 00213 - Repealed. Pub. L. 114–94, div. A, title I, §1109(c)(2), Dec. 4, 2015, 129 Stat. 1343.md",
    "printed_pages": [
-    268,
-    268
+    267,
+    267
    ]
   },
   {
@@ -3024,16 +3041,23 @@
    "marks": [],
    "path": "Chapter 002 - Other Highways/§ 00214 - Repealed. Pub. L. 112–141, div. A, title I, §1119(b), July 6, 2012, 126 Stat. 491.md",
    "printed_pages": [
-    268,
-    268
+    267,
+    267
    ]
   },
   {
    "id": "23_[215",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 268]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Other Highways/§ 00215 - Repealed. Pub. L. 112–141, div. A, title I, §1114(b)(2)(A), July 6, 2012, 126 Stat. 468.md",
    "printed_pages": [
-    268,
+    267,
     268
    ]
   },
@@ -3050,20 +3074,20 @@
    "id": "23_217",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 269]",
-     true
-    ],
-    [
      "I",
-     128,
+     76,
      [
       [
-       105,
-       "[Page 270]"
+       307,
+       "[Page 269]"
       ]
      ]
+    ],
+    [
+     "L",
+     152,
+     "[Page 270]",
+     true
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00217 - Bicycle transportation and pedestrian walkways.md",
@@ -3076,14 +3100,10 @@
    "id": "23_218",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       474,
-       "[Page 271]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 271]",
+     true
     ]
    ],
    "path": "Chapter 002 - Other Highways/§ 00218 - Alaska Highway.md",
@@ -3105,14 +3125,10 @@
    "id": "23_-ch3",
    "marks": [
     [
-     "I",
-     31,
-     [
-      [
-       76,
-       "[Page 272]"
-      ]
-     ]
+     "L",
+     49,
+     "[Page 272]",
+     true
     ]
    ],
    "path": "Chapter 003 - General Provisions/README.md",
@@ -3159,30 +3175,30 @@
   },
   {
    "id": "23_305",
+   "marks": [],
+   "path": "Chapter 003 - General Provisions/§ 00305 - Archeological and paleontological salvage.md",
+   "printed_pages": [
+    272,
+    272
+   ]
+  },
+  {
+   "id": "23_306",
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       89,
+       88,
        "[Page 273]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - General Provisions/§ 00305 - Archeological and paleontological salvage.md",
-   "printed_pages": [
-    272,
-    273
-   ]
-  },
-  {
-   "id": "23_306",
-   "marks": [],
    "path": "Chapter 003 - General Provisions/§ 00306 - Mapping.md",
    "printed_pages": [
-    273,
+    272,
     273
    ]
   },
@@ -3199,10 +3215,14 @@
    "id": "23_308",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 274]",
-     true
+     "I",
+     36,
+     [
+      [
+       275,
+       "[Page 274]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00308 - Cooperation with Federal and State agencies and foreign countries.md",
@@ -3240,37 +3260,36 @@
   },
   {
    "id": "23_312",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       107,
-       "[Page 275]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - General Provisions/§ 00312 - Detail of Army, Navy, and Air Force officers.md",
    "printed_pages": [
     274,
-    275
+    274
    ]
   },
   {
    "id": "23_313",
    "marks": [
     [
+     "I",
+     12,
+     [
+      [
+       97,
+       "[Page 275]"
+      ]
+     ]
+    ],
+    [
      "L",
-     64,
+     74,
      "[Page 276]",
      true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00313 - Buy America.md",
    "printed_pages": [
-    275,
+    274,
     276
    ]
   },
@@ -3294,26 +3313,30 @@
   },
   {
    "id": "23_316",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 277]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - General Provisions/§ 00316 - Consent by United States to conveyance of property.md",
    "printed_pages": [
     276,
-    277
+    276
    ]
   },
   {
    "id": "23_317",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       334,
+       "[Page 277]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - General Provisions/§ 00317 - Appropriation for highway purposes of lands or interests in lands owned by the United States.md",
    "printed_pages": [
-    277,
+    276,
     277
    ]
   },
@@ -3331,10 +3354,10 @@
    "marks": [
     [
      "I",
-     30,
+     40,
      [
       [
-       105,
+       711,
        "[Page 278]"
       ]
      ]
@@ -3351,19 +3374,23 @@
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       1791,
+       743,
        "[Page 279]"
       ]
      ]
     ],
     [
-     "L",
-     22,
-     "[Page 280]",
-     true
+     "I",
+     34,
+     [
+      [
+       273,
+       "[Page 280]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00320 - Bridges on Federal dams.md",
@@ -3385,27 +3412,27 @@
    "id": "23_322",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 281]",
-     true
-    ],
-    [
      "I",
-     130,
+     42,
      [
       [
-       101,
-       "[Page 282]"
+       271,
+       "[Page 281]"
       ]
      ]
     ],
     [
+     "L",
+     146,
+     "[Page 282]",
+     true
+    ],
+    [
      "I",
-     222,
+     240,
      [
       [
-       224,
+       91,
        "[Page 283]"
       ]
      ]
@@ -3421,34 +3448,35 @@
    "id": "23_323",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       85,
-       "[Page 284]"
-      ]
-     ]
-    ],
-    [
      "L",
-     102,
-     "[Page 285]",
+     32,
+     "[Page 284]",
      true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00323 - Donations and credits.md",
    "printed_pages": [
     283,
-    285
+    284
    ]
   },
   {
    "id": "23_324",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       109,
+       "[Page 285]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - General Provisions/§ 00324 - Prohibition of discrimination on the basis of sex.md",
    "printed_pages": [
-    285,
+    284,
     285
    ]
   },
@@ -3456,14 +3484,10 @@
    "id": "23_325",
    "marks": [
     [
-     "I",
-     92,
-     [
-      [
-       124,
-       "[Page 286]"
-      ]
-     ]
+     "L",
+     108,
+     "[Page 286]",
+     true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00325 - State assumption of responsibilities for certain programs and projects.md",
@@ -3476,10 +3500,14 @@
    "id": "23_326",
    "marks": [
     [
-     "L",
-     88,
-     "[Page 287]",
-     true
+     "I",
+     98,
+     [
+      [
+       165,
+       "[Page 287]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00326 - State assumption of responsibility for categorical exclusions.md",
@@ -3492,20 +3520,28 @@
    "id": "23_327",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 288]",
-     true
+     "I",
+     52,
+     [
+      [
+       207,
+       "[Page 288]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     162,
+     [
+      [
+       94,
+       "[Page 289]"
+      ]
+     ]
     ],
     [
      "L",
-     146,
-     "[Page 289]",
-     true
-    ],
-    [
-     "L",
-     254,
+     270,
      "[Page 290]",
      true
     ]
@@ -3530,7 +3566,7 @@
    "marks": [
     [
      "L",
-     10,
+     22,
      "[Page 291]",
      true
     ]
@@ -3546,43 +3582,40 @@
    "marks": [
     [
      "L",
-     54,
+     76,
      "[Page 292]",
      true
     ],
     [
-     "I",
-     170,
-     [
-      [
-       73,
-       "[Page 293]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     282,
-     [
-      [
-       101,
-       "[Page 294]"
-      ]
-     ]
+     "L",
+     184,
+     "[Page 293]",
+     true
     ]
    ],
    "path": "Chapter 003 - General Provisions/§ 00330 - Program for eliminating duplication of environmental reviews.md",
    "printed_pages": [
     291,
-    294
+    293
    ]
   },
   {
    "id": "23_-ch4",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       37,
+       "[Page 294]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Highway Safety/README.md",
    "printed_pages": [
-    294,
+    293,
     294
    ]
   },
@@ -3591,47 +3624,37 @@
    "marks": [
     [
      "I",
-     36,
+     48,
      [
       [
-       118,
+       120,
        "[Page 295]"
       ]
      ]
     ],
     [
      "L",
-     172,
+     192,
      "[Page 296]",
      true
     ],
     [
      "I",
-     276,
+     280,
      [
       [
-       442,
+       598,
        "[Page 297]"
       ]
      ]
     ],
     [
      "I",
-     312,
+     320,
      [
       [
-       276,
+       117,
        "[Page 298]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     360,
-     [
-      [
-       317,
-       "[Page 299]"
       ]
      ]
     ]
@@ -3639,150 +3662,140 @@
    "path": "Chapter 004 - Highway Safety/§ 00401 - Authority of the Secretary.md",
    "printed_pages": [
     294,
-    299
+    298
    ]
   },
   {
    "id": "23_402",
    "marks": [
     [
+     "L",
+     18,
+     "[Page 299]",
+     true
+    ],
+    [
      "I",
-     80,
+     94,
      [
       [
-       98,
+       217,
        "[Page 300]"
       ]
      ]
     ],
     [
      "I",
-     114,
+     130,
      [
       [
-       1125,
+       934,
        "[Page 301]"
       ]
      ]
     ],
     [
      "L",
-     204,
+     212,
      "[Page 302]",
      true
     ],
     [
      "I",
-     304,
+     320,
      [
       [
-       906,
+       377,
        "[Page 303]"
       ]
      ]
     ],
     [
-     "I",
-     418,
-     [
-      [
-       168,
-       "[Page 304]"
-      ]
-     ]
+     "L",
+     410,
+     "[Page 304]",
+     true
     ],
     [
      "I",
-     488,
+     444,
      [
       [
-       108,
+       1883,
        "[Page 305]"
       ]
      ]
     ],
     [
      "I",
-     510,
+     486,
      [
       [
-       1157,
+       270,
        "[Page 306]"
       ]
      ]
     ],
     [
      "I",
-     558,
+     538,
      [
       [
-       163,
+       459,
        "[Page 307]"
       ]
      ]
     ],
     [
-     "I",
-     632,
-     [
-      [
-       481,
-       "[Page 308]"
-      ]
-     ]
+     "L",
+     654,
+     "[Page 308]",
+     true
     ],
     [
      "L",
-     778,
+     804,
      "[Page 309]",
      true
     ],
     [
      "L",
-     906,
+     910,
      "[Page 310]",
      true
     ],
     [
+     "I",
+     1010,
+     [
+      [
+       336,
+       "[Page 311]"
+      ]
+     ]
+    ],
+    [
      "L",
-     1012,
-     "[Page 311]",
+     1096,
+     "[Page 312]",
      true
     ],
     [
-     "I",
-     1108,
-     [
-      [
-       104,
-       "[Page 312]"
-      ]
-     ]
+     "L",
+     1138,
+     "[Page 313]",
+     true
     ],
     [
-     "I",
-     1170,
-     [
-      [
-       427,
-       "[Page 313]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     1208,
-     [
-      [
-       218,
-       "[Page 314]"
-      ]
-     ]
+     "L",
+     1190,
+     "[Page 314]",
+     true
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00402 - Highway safety programs.md",
    "printed_pages": [
-    299,
+    298,
     314
    ]
   },
@@ -3790,34 +3803,46 @@
    "id": "23_403",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 315]",
-     true
+     "I",
+     90,
+     [
+      [
+       676,
+       "[Page 315]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     170,
+     [
+      [
+       273,
+       "[Page 316]"
+      ]
+     ]
     ],
     [
      "L",
-     144,
-     "[Page 316]",
-     true
-    ],
-    [
-     "L",
-     202,
+     232,
      "[Page 317]",
      true
     ],
     [
      "L",
-     284,
+     344,
      "[Page 318]",
      true
     ],
     [
-     "L",
-     406,
-     "[Page 319]",
-     true
+     "I",
+     446,
+     [
+      [
+       883,
+       "[Page 319]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00403 - Highway safety research and development.md",
@@ -3828,120 +3853,87 @@
   },
   {
    "id": "23_404",
-   "marks": [
-    [
-     "I",
-     42,
-     [
-      [
-       99,
-       "[Page 320]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Highway Safety/§ 00404 - High-visibility enforcement program.md",
    "printed_pages": [
     319,
-    320
+    319
    ]
   },
   {
    "id": "23_405",
    "marks": [
     [
+     "I",
+     16,
+     [
+      [
+       84,
+       "[Page 320]"
+      ]
+     ]
+    ],
+    [
      "L",
-     62,
+     122,
      "[Page 321]",
      true
     ],
     [
      "I",
-     168,
+     224,
      [
       [
-       123,
+       85,
        "[Page 322]"
       ]
      ]
     ],
     [
-     "L",
-     292,
-     "[Page 323]",
-     true
+     "I",
+     326,
+     [
+      [
+       251,
+       "[Page 323]"
+      ]
+     ]
     ],
     [
      "L",
-     398,
+     438,
      "[Page 324]",
      true
     ],
     [
      "L",
-     514,
+     552,
      "[Page 325]",
      true
     ],
     [
      "L",
-     626,
+     656,
      "[Page 326]",
      true
     ],
     [
-     "I",
-     732,
-     [
-      [
-       147,
-       "[Page 327]"
-      ]
-     ]
+     "L",
+     762,
+     "[Page 327]",
+     true
     ],
     [
      "L",
-     836,
+     860,
      "[Page 328]",
-     true
-    ],
-    [
-     "I",
-     964,
-     [
-      [
-       111,
-       "[Page 329]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     1082,
-     "[Page 330]",
-     true
-    ],
-    [
-     "I",
-     1188,
-     [
-      [
-       114,
-       "[Page 331]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     1298,
-     "[Page 332]",
      true
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00405 - National priority safety programs.md",
    "printed_pages": [
-    320,
-    332
+    319,
+    328
    ]
   },
   {
@@ -3949,17 +3941,28 @@
    "marks": [],
    "path": "Chapter 004 - Highway Safety/§ 00406 to 408 - Repealed. Pub. L. 112–141, div. C, title I, §31109(b)–(d), July 6, 2012, 126 Stat. 756.md",
    "printed_pages": [
-    332,
-    332
+    328,
+    328
    ]
   },
   {
    "id": "23_409",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 329]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Highway Safety/§ 00409 - Discovery and admission as evidence of certain reports and surveys.md",
    "printed_pages": [
-    332,
-    332
+    328,
+    329
    ]
   },
   {
@@ -3967,8 +3970,8 @@
    "marks": [],
    "path": "Chapter 004 - Highway Safety/§ 00410, 411 - Repealed. Pub. L. 112–141, div. C, title I, §31109(e), (f), July 6, 2012, 126 Stat. 757.md",
    "printed_pages": [
-    332,
-    332
+    329,
+    329
    ]
   },
   {
@@ -3976,79 +3979,100 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 333]",
+     58,
+     "[Page 330]",
      true
     ]
    ],
    "path": "Chapter 004 - Highway Safety/§ 00412 - Agency accountability.md",
    "printed_pages": [
-    332,
-    333
+    329,
+    330
    ]
   },
   {
    "id": "23_-ch5",
-   "marks": [
-    [
-     "I",
-     29,
-     [
-      [
-       118,
-       "[Page 334]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/README.md",
    "printed_pages": [
-    333,
-    334
+    330,
+    330
    ]
   },
   {
    "id": "23_501",
    "marks": [
     [
-     "I",
-     90,
-     [
-      [
-       89,
-       "[Page 335]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 331]",
+     true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00501 - Definitions.md",
    "printed_pages": [
-    334,
-    335
+    330,
+    331
    ]
   },
   {
    "id": "23_502",
    "marks": [
     [
+     "L",
+     6,
+     "[Page 332]",
+     true
+    ],
+    [
      "I",
-     82,
+     122,
      [
       [
-       70,
-       "[Page 336]"
+       263,
+       "[Page 333]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     228,
+     [
+      [
+       330,
+       "[Page 334]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     334,
+     [
+      [
+       105,
+       "[Page 335]"
       ]
      ]
     ],
     [
      "L",
-     198,
-     "[Page 337]",
+     404,
+     "[Page 336]",
      true
     ],
     [
      "I",
-     302,
+     490,
+     [
+      [
+       111,
+       "[Page 337]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     598,
      [
       [
        147,
@@ -4058,171 +4082,143 @@
     ],
     [
      "I",
-     380,
+     738,
      [
       [
-       154,
+       80,
        "[Page 339]"
       ]
      ]
     ],
     [
-     "L",
-     474,
-     "[Page 340]",
-     true
+     "I",
+     858,
+     [
+      [
+       137,
+       "[Page 340]"
+      ]
+     ]
     ],
     [
      "I",
-     564,
+     982,
      [
       [
-       272,
+       107,
        "[Page 341]"
       ]
      ]
     ],
     [
      "I",
-     698,
+     1100,
      [
       [
-       92,
+       291,
        "[Page 342]"
       ]
      ]
     ],
     [
      "I",
-     818,
+     1216,
      [
       [
-       182,
+       101,
        "[Page 343]"
       ]
      ]
     ],
     [
-     "I",
-     948,
-     [
-      [
-       118,
-       "[Page 344]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     1048,
-     [
-      [
-       96,
-       "[Page 345]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     1176,
-     [
-      [
-       458,
-       "[Page 346]"
-      ]
-     ]
-    ],
-    [
      "L",
-     1300,
-     "[Page 347]",
+     1344,
+     "[Page 344]",
      true
     ],
     [
      "I",
-     1434,
+     1458,
      [
       [
-       145,
-       "[Page 348]"
+       283,
+       "[Page 345]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00502 - Surface transportation research, development, and technology.md",
    "printed_pages": [
-    335,
-    348
+    331,
+    345
    ]
   },
   {
    "id": "23_503",
    "marks": [
     [
+     "L",
+     138,
+     "[Page 346]",
+     true
+    ],
+    [
+     "L",
+     250,
+     "[Page 347]",
+     true
+    ],
+    [
      "I",
-     106,
+     382,
      [
       [
-       96,
+       80,
+       "[Page 348]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     482,
+     [
+      [
+       76,
        "[Page 349]"
       ]
      ]
     ],
     [
-     "L",
-     216,
-     "[Page 350]",
-     true
+     "I",
+     582,
+     [
+      [
+       121,
+       "[Page 350]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     684,
+     [
+      [
+       67,
+       "[Page 351]"
+      ]
+     ]
     ],
     [
      "L",
-     356,
-     "[Page 351]",
-     true
-    ],
-    [
-     "L",
-     446,
+     782,
      "[Page 352]",
-     true
-    ],
-    [
-     "I",
-     556,
-     [
-      [
-       71,
-       "[Page 353]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     654,
-     [
-      [
-       118,
-       "[Page 354]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     746,
-     "[Page 355]",
-     true
-    ],
-    [
-     "L",
-     880,
-     "[Page 356]",
      true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00503 - Research and technology development and deployment.md",
    "printed_pages": [
-    348,
-    356
+    345,
+    352
    ]
   },
   {
@@ -4230,76 +4226,79 @@
    "marks": [
     [
      "L",
-     102,
-     "[Page 357]",
+     22,
+     "[Page 353]",
      true
     ],
     [
      "L",
-     214,
-     "[Page 358]",
+     136,
+     "[Page 354]",
+     true
+    ],
+    [
+     "L",
+     244,
+     "[Page 355]",
      true
     ],
     [
      "I",
-     316,
+     348,
      [
       [
-       177,
-       "[Page 359]"
+       97,
+       "[Page 356]"
       ]
      ]
     ],
     [
-     "I",
-     410,
-     [
-      [
-       110,
-       "[Page 360]"
-      ]
-     ]
+     "L",
+     440,
+     "[Page 357]",
+     true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00504 - Training and education.md",
    "printed_pages": [
-    356,
-    360
+    352,
+    357
    ]
   },
   {
    "id": "23_505",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 361]",
-     true
-    ],
-    [
      "I",
-     94,
+     30,
      [
       [
-       107,
-       "[Page 362]"
+       133,
+       "[Page 358]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00505 - State planning and research.md",
    "printed_pages": [
-    360,
-    362
+    357,
+    358
    ]
   },
   {
    "id": "23_[506,_507",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 359]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00506, 507 - Repealed. Pub. L. 112–141, div. E, title II, §§52006(a), 52007(a), July 6, 2012, 126 Stat. 882.md",
    "printed_pages": [
-    362,
-    362
+    358,
+    359
    ]
   },
   {
@@ -4307,8 +4306,8 @@
    "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00508 - Repealed. Pub. L. 114–94, div. A, title VI, §6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581.md",
    "printed_pages": [
-    362,
-    362
+    359,
+    359
    ]
   },
   {
@@ -4316,8 +4315,8 @@
    "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00509 - Repealed. Pub. L. 112–141, div. E, title II, §52008(a), July 6, 2012, 126 Stat. 882.md",
    "printed_pages": [
-    362,
-    362
+    359,
+    359
    ]
   },
   {
@@ -4325,132 +4324,123 @@
    "marks": [
     [
      "L",
-     38,
-     "[Page 363]",
+     72,
+     "[Page 360]",
      true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00510 - Future strategic highway research program.md",
    "printed_pages": [
-    362,
-    363
+    359,
+    360
    ]
   },
   {
    "id": "23_511",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       82,
-       "[Page 364]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00511 - Multistate corridor operations and management.md",
    "printed_pages": [
-    363,
-    364
+    360,
+    360
    ]
   },
   {
    "id": "23_512",
    "marks": [
     [
+     "L",
+     10,
+     "[Page 361]",
+     true
+    ],
+    [
      "I",
-     80,
+     110,
      [
       [
-       106,
+       97,
+       "[Page 362]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     254,
+     [
+      [
+       102,
+       "[Page 363]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     380,
+     "[Page 364]",
+     true
+    ],
+    [
+     "I",
+     522,
+     [
+      [
+       135,
        "[Page 365]"
       ]
      ]
-    ],
-    [
-     "L",
-     212,
-     "[Page 366]",
-     true
-    ],
-    [
-     "I",
-     340,
-     [
-      [
-       109,
-       "[Page 367]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     480,
-     "[Page 368]",
-     true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00512 - National ITS program plan.md",
    "printed_pages": [
-    364,
-    368
+    360,
+    365
    ]
   },
   {
    "id": "23_513",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 369]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00513 - Use of funds for ITS activities.md",
    "printed_pages": [
-    368,
-    369
+    365,
+    365
    ]
   },
   {
    "id": "23_514",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 366]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00514 - Goals and purposes.md",
    "printed_pages": [
-    369,
-    369
+    365,
+    366
    ]
   },
   {
    "id": "23_515",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       255,
-       "[Page 370]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 367]",
+     true
     ],
     [
-     "I",
-     136,
-     [
-      [
-       207,
-       "[Page 371]"
-      ]
-     ]
+     "L",
+     160,
+     "[Page 368]",
+     true
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00515 - General authorities and requirements.md",
    "printed_pages": [
-    369,
-    371
+    366,
+    368
    ]
   },
   {
@@ -4458,8 +4448,8 @@
    "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00516 - Research and development.md",
    "printed_pages": [
-    371,
-    371
+    368,
+    368
    ]
   },
   {
@@ -4467,19 +4457,19 @@
    "marks": [
     [
      "I",
-     20,
+     42,
      [
       [
-       128,
-       "[Page 372]"
+       306,
+       "[Page 369]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00517 - National architecture and standards.md",
    "printed_pages": [
-    371,
-    372
+    368,
+    369
    ]
   },
   {
@@ -4487,24 +4477,17 @@
    "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00518 - Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment.md",
    "printed_pages": [
-    372,
-    372
+    369,
+    369
    ]
   },
   {
    "id": "23_519",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 373]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Research, Technology, and Education/§ 00519 - Infrastructure development.md",
    "printed_pages": [
-    372,
-    373
+    369,
+    369
    ]
   },
   {
@@ -4512,174 +4495,172 @@
    "marks": [],
    "path": "Chapter 006 - Infrastructure Finance/README.md",
    "printed_pages": [
-    373,
-    373
+    369,
+    369
    ]
   },
   {
    "id": "23_601",
    "marks": [
     [
+     "I",
+     8,
+     [
+      [
+       70,
+       "[Page 370]"
+      ]
+     ]
+    ],
+    [
      "L",
-     78,
+     98,
+     "[Page 371]",
+     true
+    ],
+    [
+     "I",
+     198,
+     [
+      [
+       97,
+       "[Page 372]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     272,
+     "[Page 373]",
+     true
+    ],
+    [
+     "L",
+     402,
      "[Page 374]",
      true
     ],
     [
      "I",
-     164,
+     530,
      [
       [
-       76,
+       93,
        "[Page 375]"
       ]
      ]
     ],
     [
      "L",
-     248,
+     614,
      "[Page 376]",
-     true
-    ],
-    [
-     "I",
-     376,
-     [
-      [
-       241,
-       "[Page 377]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     490,
-     "[Page 378]",
-     true
-    ],
-    [
-     "L",
-     592,
-     "[Page 379]",
      true
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00601 - Generally applicable provisions.md",
    "printed_pages": [
-    373,
-    379
+    369,
+    376
    ]
   },
   {
    "id": "23_602",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       273,
-       "[Page 380]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 377]",
+     true
     ],
     [
      "I",
-     132,
+     160,
      [
       [
-       265,
-       "[Page 381]"
+       273,
+       "[Page 378]"
       ]
      ]
     ],
     [
      "L",
-     234,
-     "[Page 382]",
+     264,
+     "[Page 379]",
      true
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00602 - Determination of eligibility and project selection.md",
    "printed_pages": [
-    379,
-    382
+    376,
+    379
    ]
   },
   {
    "id": "23_603",
    "marks": [
     [
-     "I",
-     70,
-     [
-      [
-       135,
-       "[Page 383]"
-      ]
-     ]
+     "L",
+     102,
+     "[Page 380]",
+     true
     ],
     [
      "I",
-     208,
+     244,
      [
       [
-       71,
-       "[Page 384]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     308,
-     [
-      [
-       111,
-       "[Page 385]"
+       84,
+       "[Page 381]"
       ]
      ]
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00603 - Secured loans.md",
    "printed_pages": [
-    382,
-    385
+    379,
+    381
    ]
   },
   {
    "id": "23_604",
    "marks": [
     [
+     "I",
+     8,
+     [
+      [
+       168,
+       "[Page 382]"
+      ]
+     ]
+    ],
+    [
      "L",
-     104,
-     "[Page 386]",
+     134,
+     "[Page 383]",
      true
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00604 - Lines of credit.md",
    "printed_pages": [
-    385,
-    386
+    381,
+    383
    ]
   },
   {
    "id": "23_605",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       76,
-       "[Page 387]"
-      ]
-     ]
+     "L",
+     66,
+     "[Page 384]",
+     true
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00605 - Program administration.md",
    "printed_pages": [
-    386,
-    387
+    383,
+    384
    ]
   },
   {
@@ -4687,8 +4668,8 @@
    "marks": [],
    "path": "Chapter 006 - Infrastructure Finance/§ 00606 - State and local permits.md",
    "printed_pages": [
-    387,
-    387
+    384,
+    384
    ]
   },
   {
@@ -4696,30 +4677,38 @@
    "marks": [],
    "path": "Chapter 006 - Infrastructure Finance/§ 00607 - Regulations.md",
    "printed_pages": [
-    387,
-    387
+    384,
+    384
    ]
   },
   {
    "id": "23_608",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 388]",
-     true
+     "I",
+     40,
+     [
+      [
+       129,
+       "[Page 385]"
+      ]
+     ]
     ],
     [
-     "L",
-     94,
-     "[Page 389]",
-     true
+     "I",
+     120,
+     [
+      [
+       116,
+       "[Page 386]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00608 - Funding.md",
    "printed_pages": [
-    387,
-    389
+    384,
+    386
    ]
   },
   {
@@ -4727,15 +4716,15 @@
    "marks": [
     [
      "L",
-     34,
-     "[Page 390]",
+     56,
+     "[Page 387]",
      true
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00609 - Reports to Congress.md",
    "printed_pages": [
-    389,
-    390
+    386,
+    387
    ]
   },
   {
@@ -4743,38 +4732,32 @@
    "marks": [
     [
      "I",
-     78,
+     102,
      [
       [
-       84,
-       "[Page 391]"
+       172,
+       "[Page 388]"
       ]
      ]
     ],
     [
      "I",
-     168,
+     182,
      [
       [
-       95,
-       "[Page 392]"
+       142,
+       "[Page 389]"
       ]
      ]
-    ],
-    [
-     "L",
-     244,
-     "[Page 393]",
-     true
     ]
    ],
    "path": "Chapter 006 - Infrastructure Finance/§ 00610 - State infrastructure bank program.md",
    "printed_pages": [
-    390,
-    393
+    387,
+    389
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2015-title23 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2016-title23 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 23 - Highways"
 }

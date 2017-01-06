@@ -20,7 +20,7 @@ In General.—The Secretary may make a grant of financial assistance to a State 
 
 (b)
 
-State Action Taken Into Account.—In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative and regulatory actions taken by the State after the date of enactment of this chapter.
+State Action Taken Into Account.—In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative andregulatory actions taken by the State after the date of enactment of this chapter.
 
 (c)
 

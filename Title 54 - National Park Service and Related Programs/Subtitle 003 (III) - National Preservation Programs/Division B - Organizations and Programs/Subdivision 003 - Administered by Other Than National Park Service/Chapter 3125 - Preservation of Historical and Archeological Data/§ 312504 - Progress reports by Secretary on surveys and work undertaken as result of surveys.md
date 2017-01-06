@@ -6,7 +6,7 @@ Progress Reports to Funding or Licensing Agency.—The Secretary shall keep the 
 
 (b)
 
-Disposition of Relics and Specimens.—The Secretary shall consult with any interested Federal and State agencies, educational and scientific organizations, private institutions, and qualified individuals, with a view to determiningthe ownership of, and the most appropriate repository for, any relics and specimens recovered as a result of any work performed as provided for in this section.
+Disposition of Relics and Specimens.—The Secretary shall consult with any interested Federal and State agencies, educational and scientific organizations, private institutions, and qualified individuals, with a view to determining the ownership of, and the most appropriate repository for, any relics and specimens recovered as a result of any work performed as provided for in this section.
 
 (c)
 

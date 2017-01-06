@@ -20,7 +20,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 #### (c) Duties
 
-(1) It shall be the duty of the Special Inspector General to conduct, supervise, and coordinate audits and investigations of the purchase, management, and sale of assets by the Secretary of the Treasury under any program established by the Secretary under section 5211 of this title, and the management by the Secretary of any program established under section 5212 of this title, including by collecting and summarizing the following information:
+(1) It shall be the duty of the Special Inspector General to conduct, supervise, and coordinate audits and investigations of the purchase, management, and sale of assets by the Secretary of the Treasury under any program established bythe Secretary under section 5211 of this title, and the management by the Secretary of any program established under section 5212 of this title, including by collecting and summarizing the following information:
 
 &emsp;(A) A description of the categories of troubled assets purchased or otherwise procured by the Secretary.
 
@@ -50,7 +50,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 (2) The Special Inspector General shall carry out the duties specified in subsection (c)(1) and (4) in accordance with section 4(b)(1) of the Inspector General Act of 1978.
 
-(3) The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) relating to the exemption from the initial determination of eligibility by the Attorney General.
+(3) The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under section 6(e)(3) <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) relating to the exemption from the initial determination of eligibility by the Attorney General.
 
 #### (e) Personnel, facilities, and other resources
 
@@ -146,7 +146,7 @@ The Office of the Special Inspector General shall terminate on the later of—
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsecs. (b)(4), (6), (c)(3), (d), and (h), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (b)(4), (6), (c)(3), (d), and (h), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 6(e)(3) of the Act was redesignated section 6(f)(3) by Pub. L. 114–317, §5(2), Dec. 16, 2016, 130 Stat. 1603.
 
 Chapter 83 or 84, referred to in subsec. (e)(5)(A), probably means chapter 83 or 84 of Title 5, Government Organization and Employees.
 

@@ -24,13 +24,13 @@
 
 (c) Continuity of service of a member in the Selected Reserve for purposes of subsection (b)(1) of this section shall not be considered to be broken—
 
-&emsp;(1) by any period of time (not to exceed a maximum period prescribed by the Secretary concerned by regulation) during which themember is not able to locate a unit of the Selected Reserve of the member's Armed Force that the member is eligible to join or that has a vacancy; or
+&emsp;(1) by any period of time (not to exceed a maximum period prescribed by the Secretary concerned by regulation) during which the member is not able to locate a unit of the Selected Reserve of the member's Armed Force that the member is eligible to join or that has a vacancy; or
 
 &emsp;(2) by any other period of time (not to exceed a maximum period prescribed by the Secretary concerned by regulation) during which the member is not attached to a unit of the Selected Reserve that the Secretary concerned, pursuant to regulations, considers to be inappropriate to consider for such purpose.
 
 (d) A period of active duty or duty in the Selected Reserve that occurs before the period of duty by which the individual concerned qualifies for basic educational assistance may not be counted for purposes of this section.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2558, §1421; amended Pub. L. 99–576, title III, §321(5), (6), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §103(b)(5), Nov. 18, 1988, 102 Stat. 4166; Pub. L. 101–237, title IV, §423(b)(4)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3021 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2558, §1421; amended Pub. L. 99–576, title III, §321(5), (6), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §103(b)(5), Nov. 18, 1988, 102 Stat. 4166; Pub. L. 101–237, title IV,§423(b)(4)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3021 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

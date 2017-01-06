@@ -2,9 +2,9 @@
 
 #### (a) Imposition of certain charges under plan in case of individuals described in section 1396a(a)(10)(A) or (E)
 
-Subject to subsections (g), (i), and (j) of this section, the State plan shall provide that in the case of individuals described in subparagraph (A) or (E)(i) of section 1396a(a)(10) of this title who are eligible under the plan—
+Subject to subsections (g), (i), and (j), the State plan shall provide that in the case of individuals described in subparagraph (A) or (E)(i) of section 1396a(a)(10) of this title who are eligible under the plan—
 
-&emsp;(1) no enrollment fee, premium, or similar charge will be imposed under the plan (except for a premium imposed under subsection (c) of this section);
+&emsp;(1) no enrollment fee, premium, or similar charge will be imposed under the plan (except for a premium imposed under subsection (c));
 
 &emsp;(2) no deduction, cost sharing or similar charge will be imposed under the plan with respect to—
 
@@ -38,7 +38,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 &emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title); and
 
-&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
+&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determinedby the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
 #### (c) Imposition of monthly premium; persons affected; amount; prepayment; failure to pay; use of funds from other programs
 
@@ -60,7 +60,7 @@ The State plan shall require that no provider participating under the State plan
 
 #### (f) Charges imposed under waiver authority of Secretary
 
-No deduction, cost sharing, or similar charge may be imposed under any waiver authority of the Secretary, except as provided in subsections (a)(3) and (b)(3) of this section and section 1396o–1 of this title, unless such waiver is for a demonstration project which the Secretary finds after public notice and opportunity for comment—
+No deduction, cost sharing, or similar charge may be imposed under any waiver authority of the Secretary, except as provided in subsections (a)(3) and (b)(3) and section 1396o–1 of this title, unless such waiver is for a demonstration project which the Secretary finds after public notice and opportunity for comment—
 
 &emsp;(1) will test a unique and previously untested use of copayments,
 
@@ -80,7 +80,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 &emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set on a sliding scale based on income that the State may determine; and
 
-&emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of such an individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1) of this section) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
+&emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of such an individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1)) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
 
 &emsp;(2) such State shall require payment of 100 percent of such premiums for a year by such an individual whose adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) for such year exceeds $75,000, except that a State may choose to subsidize such premiums by using State funds which may not be federally matched under this subchapter.
 
@@ -88,7 +88,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 #### (h) Indexing nominal cost sharing
 
-In applying this section and subsections (c) and (e) of section 1396o–1 of this title, with respect to cost sharing that is "nominal" inamount, the Secretary shall increase such "nominal" amounts for each year (beginning with 2006) by the annual percentage increase in the medical care component of the consumer price index for all urban consumers (U.S. city average) as rounded up in an appropriate manner.
+In applying this section and subsections (c) and (e) of section 1396o–1 of this title, with respect to cost sharing that is "nominal" in amount, the Secretary shall increase such "nominal" amounts for each year (beginning with 2006) by the annual percentage increase in the medical care component of the consumer price index for all urban consumers (U.S. city average) as rounded up in an appropriate manner.
 
 #### (i) State option to impose income-related premiums for families of disabled children
 
@@ -130,7 +130,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (g)(2), is classified 
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a)(2)(B), (b)(2)(B). Pub. L. 111–148 inserted ", and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb)) of this title and covered outpatient drugs (as defined in subsection (k)(2) of section 1396r–8 of this title and including nonprescription drugs described in subsection (d)(2) of such section) that are prescribed for purposes of promoting, and when used to promote, tobacco cessation by pregnant women in accordance with the Guideline referred to in section 1396d(bb)(2)(A) of this title" after "complicate the pregnancy".
+<b>2010</b>—Subsecs. (a)(2)(B), (b)(2)(B). Pub. L. 111–148 inserted ", and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined insection 1396d(bb)) of this title and covered outpatient drugs (as defined in subsection (k)(2) of section 1396r–8 of this title and including nonprescription drugs described in subsection (d)(2) of such section) that are prescribed for purposes of promoting, and when used to promote, tobacco cessation by pregnant women in accordance with the Guideline referred to in section 1396d(bb)(2)(A) of this title" after "complicate the pregnancy".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–5, §5006(a)(1)(A), substituted ", (i), and (j)" for "and (i)" in introductory provisions.
 
@@ -138,13 +138,13 @@ Subsec. (j). Pub. L. 111–5, §5006(a)(1)(B), added subsec. (j).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–171, §6062(b)(1), substituted "subsections (g) and (i)" for "subsection (g)" in introductory provisions.
 
-Subsec. (f). Pub. L. 109–171, §6041(b)(1), inserted "and section 1396o–1 of this title" after "(b)(3) of this section".
+Subsec. (f). Pub. L. 109–171, §6041(b)(1), inserted "and section 1396o–1 of this title" after "(b)(3)".
 
 Subsec. (h). Pub. L. 109–171, §6041(b)(2), added subsec. (h).
 
 Subsec. (i). Pub. L. 109–171, §6062(b)(2), added subsec. (i).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–170, §201(a)(3)(A), substituted "Subject to subsection (g) of this section, the State plan" for "The State plan" in introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–170, §201(a)(3)(A), substituted "Subject to subsection (g), the State plan" for "The State plan" in introductory provisions.
 
 Subsec. (g). Pub. L. 106–170, §201(a)(3)(B), added subsec. (g).
 
@@ -158,7 +158,7 @@ Subsecs. (d) to (f). Pub. L. 101–239, §6408(d)(3)(B), (C), added subsec. (d) 
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–360 struck out "nonfarm" after "150 percent of the".
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §4101(d)(1)(A), inserted "(except for a premium imposed under subsection (c) of this section)" after "plan".
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §4101(d)(1)(A), inserted "(except for a premium imposed under subsection (c))" after "plan".
 
 Subsecs. (a)(2)(C), (b)(2)(C). Pub. L. 100–203, §4211(h)(11), substituted "nursing facility, intermediate care facility for the mentally retarded" for "skilled nursing facility, intermediate care facility".
 
@@ -174,7 +174,7 @@ Subsec. (b)(2)(E). Pub. L. 99–272 added subpar. (E).
 
 <b>1983</b>—Subsec. (c). Pub. L. 97–448, §309(b)(18), substituted "subsection" for "subparagraph".
 
-Subsec. (d). Pub. L. 97–448, §309(b)(19), (20), substituted in introductory text ", except as provided in subsections (a)(3) and (b)(3) of this section" for "unless authorized under this section", and in cl. (5) substituted "is voluntary, or makes provision" for "in which participation is voluntary, or in which provision is made".
+Subsec. (d). Pub. L. 97–448, §309(b)(19), (20), substituted in introductory text ", except as provided in subsections (a)(3) and (b)(3)" for "unless authorized under this section", and in cl. (5) substituted "is voluntary, or makes provision" for "in which participation is voluntary, or in which provision is made".
 
 #### Effective Date of 2010 Amendment
 
@@ -228,5 +228,5 @@ Pub. L. 97–248, title I, §131(d), formerly §131(c), Sept. 3, 1982, 96 Stat. 
 
 "(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1396a of this title\] shall become effective on October 1, 1982.
 
-"(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to complywith the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 3, 1982\]."
+"(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 3, 1982\]."
 

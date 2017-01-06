@@ -1,0 +1,6 @@
+### §653. Omitted
+
+#### Codification
+
+Section, act May 18, 1928, ch. 624, §3, 45 Stat. 602, which related to settlement of claims notwithstanding statutes of limitation, amount of decree, and set-off of payments, was omitted from the Code as being of special and not general application.
+

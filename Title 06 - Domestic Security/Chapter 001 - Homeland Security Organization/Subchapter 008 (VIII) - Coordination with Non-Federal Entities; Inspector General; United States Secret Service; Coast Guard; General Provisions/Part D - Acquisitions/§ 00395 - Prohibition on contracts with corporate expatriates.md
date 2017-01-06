@@ -54,7 +54,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (2) Expanded affiliated group
 
-&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a)of title 26 (without regard to section 1504(b) of such title), except that section 1504 of such title shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
+&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a) of title 26 (without regard to section 1504(b) of such title), except that section 1504 of such title shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
 
 #### (3) Foreign incorporated entity
 
@@ -80,7 +80,7 @@ Subsec. (c)(1)(B). Pub. L. 108–334, §523(3), struck out "which is after Novem
 
 Subsec. (d). Pub. L. 108–334, §523(4), substituted "national" for "homeland".
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–7 struck out ", or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur" before period at end.
+<b>2003</b>—Subsec. (d). Pub. L. 108–7 struck out ", or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additionalcosts that otherwise would not occur" before period at end.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

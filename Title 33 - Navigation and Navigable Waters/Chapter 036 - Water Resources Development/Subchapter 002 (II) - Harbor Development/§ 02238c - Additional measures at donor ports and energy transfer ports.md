@@ -8,19 +8,29 @@ In this section:
 
 &emsp;The term "cargo container" means a cargo container that is 1 Twenty-foot Equivalent Unit.
 
-#### (2) Donor port
+#### (2) Discretionary cargo
 
-&emsp;The term "donor port" means a port—
+&emsp;The term "discretionary cargo" means maritime cargo for which the United States port of unlading is different than the United States port of entry.
 
-&emsp;&emsp;(A) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or a successor regulation);
+#### (3) Donor port
 
-&emsp;&emsp;(B) at which the total amount of harbor maintenance taxes collected comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;
+#### (A) In general
 
-&emsp;&emsp;(C) that received less than 25 percent of the total amount of harbor maintenance taxes collected at that port in the previous 5 fiscal years; and
+&emsp;&emsp;The term "donor port" means a port—
 
-&emsp;&emsp;(D) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded on to vessels in fiscal year 2012.
+&emsp;&emsp;&emsp;(i) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or a successor regulation);
 
-#### (3) Energy commodity
+&emsp;&emsp;&emsp;(ii) at which the total amount of harbor maintenance taxes collected comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;
+
+&emsp;&emsp;&emsp;(iii) that received less than 25 percent of the total amount of harbor maintenance taxes collected at that port in the previous 5 fiscal years; and
+
+&emsp;&emsp;&emsp;(iv) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded on to vessels in fiscal year 2012.
+
+#### (B) Calculation
+
+&emsp;&emsp;For the purpose of calculating the percentage described in subparagraph (A)(iii), payments described under subsection (c)(1) shall not be included.
+
+#### (4) Energy commodity
 
 &emsp;The term "energy commodity" includes—
 
@@ -34,43 +44,61 @@ In this section:
 
 &emsp;&emsp;(E) biofuels.
 
-#### (4) Energy transfer port
+#### (5) Energy transfer port
 
 &emsp;The term "energy transfer port" means a port—
 
-&emsp;&emsp;(A) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulation (or any successor regulation); and
+&emsp;&emsp;(A) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or any successor regulation); and
 
 &emsp;&emsp;(B)(i) at which energy commodities comprised greater than 25 percent of all commercial activity by tonnage in fiscal year 2012; and
 
 &emsp;&emsp;(ii) through which more than 40,000,000 tons of cargo were transported in fiscal year 2012.
 
-#### (5) Expanded uses
+#### (6) Expanded uses
 
 &emsp;The term "expanded uses" has the meaning given the term in section 2238(f) of this title.
 
-#### (6) Harbor maintenance tax
+#### (7) Harbor maintenance tax
 
 &emsp;The term "harbor maintenance tax" has the meaning given the term in section 2238(f) of this title.
+
+#### (8) Medium-sized donor port
+
+&emsp;The term "medium-sized donor port" means a port—
+
+&emsp;&emsp;(A) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or a successor regulation);
+
+&emsp;&emsp;(B) at which the total amount of harbor maintenance taxes collected comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;
+
+&emsp;&emsp;(C) that received less than 25 percent of the total amount of harbor maintenance taxes collected at that port in the previous 5 fiscal years; and
+
+&emsp;&emsp;(D) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded onto vessels in fiscal year 2012.
 
 #### (b) Authority
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Secretary may provide to donor ports and energy transfer ports amounts in accordance with this section.
+&emsp;Subject to the availability of appropriations, the Secretary may provide to donor ports, medium-sized donor ports, and energy transfer ports amounts in accordance with this section.
 
 #### (2) Limitations
 
 &emsp;Amounts provided under this section—
 
-&emsp;&emsp;(A) for energy transfer ports shall be divided equally among all States with an energy transfer port; and
+&emsp;&emsp;(A) for energy transfer ports shall be divided equally among all States with an energy transfer port;
 
-&emsp;&emsp;(B) shall be made available to a port as either a donor port or an energy transfer port and no port may receive amounts as both a donor port and an energy transfer port.
+&emsp;&emsp;(B) shall be made available to a port as either a donor port, medium-sized donor port, or an energy transfer port, and no port may receive amounts from more than 1 designation; and
+
+&emsp;&emsp;(C) for donor ports and medium-sized donor ports—
+
+&emsp;&emsp;&emsp;(i) 50 percent of the funds shall be equally divided between the eligible donor ports as authorized by this section; and
+
+&emsp;&emsp;&emsp;(ii) 50 percent of the funds shall be divided between the eligible donor ports and eligible medium-sized donor ports based on the percentage of the total harbor maintenance tax revenues generated at each eligible donor port and medium-sized donor port.
 
 #### (c) Use of funds
 
-Amounts provided under this section may be used by a donor port or an energy transfer port—
+Amounts provided under this section may be used by a donor port, a medium-sized donor port, or an energy transfer port—
 
-&emsp;(1) to provide payments to importers entering cargo or shippers transporting cargo through that port, as calculated by U.S. Customs and Border Protection according to the amount of harbor maintenance taxes collected;
+&emsp;(1) to provide payments to importers entering cargo through that port, as calculated by the Secretary according to the value of discretionary cargo;
 
 &emsp;(2) for expanded uses; or
 
@@ -78,7 +106,17 @@ Amounts provided under this section may be used by a donor port or an energy tra
 
 #### (d) Administration of payments
 
-If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers.
+#### (1) In general
+
+&emsp;If a donor port, a medium-sized donor port, or an energy transfer port elects to provide payments to importers under subsection (c), the Secretary shall transfer to the Commissioner of U.S. Customs and Border Protection an amount equal to those payments that would otherwise be provided to the port under this section to provide the payments to the importers of the discretionary cargo that is—
+
+&emsp;&emsp;(A) shipped through the port; and
+
+&emsp;&emsp;(B) most at risk of diversion to seaports outside of the United States.
+
+#### (2) Requirement
+
+&emsp;The Secretary, in consultation with a port electing to provide payments under subsection (c), shall determine the top importers at the port, as ranked by the value of discretionary cargo, and payments shall be limited to those top importers.
 
 #### (e) Report to Congress
 
@@ -98,21 +136,65 @@ If a donor port or an energy transfer port elects to provide payments to importe
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2018.
+&emsp;There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2020.
 
-#### (2) Division between donor ports and energy transfer ports
+#### (2) Division between donor ports, medium-sized donor ports, and energy transfer ports
 
-&emsp;For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to donor ports and energy transfer ports.
+&emsp;For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to—
+
+&emsp;&emsp;(A) donor ports and medium-sized donor ports; and
+
+&emsp;&emsp;(B) energy transfer ports.
 
 #### (3) Additional appropriations
 
-&emsp;If the target total budget resources under subparagraphs (A) through (D) of section 2238b(b)(1) of this title are met for each of fiscal years 2015 through 2018, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2022.
+&emsp;If the target total budget resources under subparagraphs (A) through (D) of section 2238b(b)(1) of this title are met for each of fiscal years 2016 through 2020, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 113–121, title II, §2106, June 10, 2014, 128 Stat. 1280.)
+#### (g) Savings clause
+
+Nothing in this section waives any statutory requirement related to the transportation of merchandise as authorized under chapter 551 of title 46.
+
+(Pub. L. 113–121, title II, §2106, June 10, 2014, 128 Stat. 1280; Pub. L. 114–322, title I, §1110, Dec. 16, 2016, 130 Stat. 1634.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–322, §1110(1)(B), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 114–322, §1110(1)(C), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
+
+Pub. L. 114–322, §1110(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 114–322, §1110(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 114–322, §1110(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(5)(A). Pub. L. 114–322, §1110(1)(D), substituted "Code of Federal Regulations" for "Code of Federal Regulation".
+
+Subsec. (a)(6), (7). Pub. L. 114–322, §1110(1)(A), redesignated pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (a)(8). Pub. L. 114–322, §1110(1)(E), added par. (8).
+
+Subsec. (b)(1). Pub. L. 114–322, §1110(2)(A), substituted "donor ports, medium-sized donor ports," for "donor ports".
+
+Subsec. (b)(2)(B), (C). Pub. L. 114–322, §1110(2)(B), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: "shall be made available to a port as either a donor port or an energy transfer port and no port may receive amounts as both a donor port and an energy transfer port."
+
+Subsec. (c). Pub. L. 114–322, §1110(3)(A), substituted "donor port, a medium-sized donor port," for "donor port" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 114–322, §1110(3)(B), struck out "or shippers transporting cargo" after "entering cargo" and substituted "the Secretary" for "U.S. Customs and Border Protection" and "value of discretionary cargo" for "amount of harbor maintenance taxes collected".
+
+Subsec. (d). Pub. L. 114–322, §1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers."
+
+Subsec. (f)(1). Pub. L. 114–322, §1110(5)(A), substituted "2020" for "2018".
+
+Subsec. (f)(2). Pub. L. 114–322, §1110(5)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to donor ports and energy transfer ports."
+
+Subsec. (f)(3). Pub. L. 114–322, §1110(5)(C), substituted "2016 through 2020" for "2015 through 2018" and "2021 through 2025" for "2019 through 2022".
+
+Subsec. (g). Pub. L. 114–322, §1110(6), added subsec. (g).
 
 #### "Secretary" Defined
 

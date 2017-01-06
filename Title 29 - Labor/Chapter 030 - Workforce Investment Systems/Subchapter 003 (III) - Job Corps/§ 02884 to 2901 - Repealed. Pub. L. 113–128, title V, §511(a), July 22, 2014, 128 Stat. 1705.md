@@ -60,5 +60,5 @@ Section 2901, Pub. L. 105–220, title I, §161, Aug. 7, 1998, 112 Stat. 1021, a
 
 #### Effective Date of Repeal
 
-Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) reducing energy consumption in publicly-owned buildings by at least 20 percent,
 
-&emsp;&emsp;&emsp;(ii) implementing green community programs (including the use of loans, grants, or other repayment mechanisms to implement such programs),
+&emsp;&emsp;&emsp;(ii) implementing green community programs (including the use of loans, grants,or other repayment mechanisms to implement such programs),
 
 &emsp;&emsp;&emsp;(iii) rural development involving the production of electricity from renewable energy resources, or
 

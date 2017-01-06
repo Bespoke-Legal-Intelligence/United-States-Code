@@ -52,7 +52,7 @@
 
 #### (2) Funds
 
-&emsp;All such funds as may be necessary to enable any fiscal agent described in paragraph (1) to carry out any guarantee made by it on behalf of any guaranteeing agency shall be supplied and disbursed by or under authority from such guaranteeing agency.
+&emsp;All such funds as may be necessary to enable any fiscal agent described in paragraph (1) tocarry out any guarantee made by it on behalf of any guaranteeing agency shall be supplied and disbursed by or under authority from such guaranteeing agency.
 
 #### (3) Limit on liability
 
@@ -82,7 +82,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the making of any guarantee or obligation of the Federal Government under thissubchapter relating to a domestic industrial base shortfall would cause the aggregate outstanding amount of all guarantees for such shortfall to exceed $50,000,000, any such guarantee may be made only—
+&emsp;&emsp;If the making of any guarantee or obligation of the Federal Government under this subchapter relating to a domestic industrial base shortfall would cause the aggregate outstanding amount of all guarantees for such shortfall to exceed $50,000,000, any such guarantee may be made only—
 
 &emsp;&emsp;&emsp;(i) if the President has notified the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives in writing of the proposed guarantee; and
 

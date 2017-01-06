@@ -54,7 +54,7 @@ In general.—Subject to paragraph (2), an individual eligible for participation
 
 &emsp;&emsp;&emsp;"(i) is licensed or eligible for licensure to practice psychiatric medicine in the Veterans Health Administration of the Department of Veterans Affairs; or
 
-&emsp;&emsp;&emsp;"(ii) is enrolled in the final year of a residency program leading to a specialty qualification inpsychiatric medicine that is approved by the Accreditation Council for Graduate Medical Education; and
+&emsp;&emsp;&emsp;"(ii) is enrolled in the final year of a residency program leading to a specialty qualification in psychiatric medicine that is approved by the Accreditation Council for Graduate Medical Education; and
 
 &emsp;&emsp;"(B) demonstrates a commitment to a long-term career as a psychiatrist in the Veterans Health Administration, as determined by the Secretary.
 
@@ -132,11 +132,11 @@ Pub. L. 111–163, title VI, §604, May 5, 2010, 124 Stat. 1174, provided that:
 
 "(a)
 
-In General.—The Secretary of Veterans Affairs may, in consultation with the Secretary of Health and Human Services, use the authorities available in section 487E of the Public Health Service Act (42 U.S.C. 288–5) for the repayment of the principal and interest of educational loans of appropriately qualified health professionals who are from disadvantaged backgrounds in order to secure clinical research by such professionals for the Veterans Health Administration.
+In General.—The Secretary of Veterans Affairs may, in consultation with the Secretary of Health and Human Services, use the authorities available in \[former\] section 487E of the Public Health Service Act (\[former\] 42 U.S.C. 288–5) for the repayment of the principal and interest of educational loans of appropriately qualified health professionals who are from disadvantaged backgrounds in order to secure clinical research by such professionals for the Veterans Health Administration.
 
 "(b)
 
-Limitations.—The exercise by the Secretary of Veterans Affairs of the authorities referred to in subsection (a) shall be subject to the conditions and limitations specified in paragraphs (2) and (3) of section 487E(a) of the Public Health Service Act (42 U.S.C. 288–5(a)(2) and (3)).
+Limitations.—The exercise by the Secretary of Veterans Affairs of the authorities referred to in subsection (a) shall be subject to the conditions and limitations specified in paragraphs (2) and (3) of \[former\] section 487E(a) of the Public Health Service Act (\[former\] 42 U.S.C. 288–5(a)(2) and (3)).
 
 "(c)
 

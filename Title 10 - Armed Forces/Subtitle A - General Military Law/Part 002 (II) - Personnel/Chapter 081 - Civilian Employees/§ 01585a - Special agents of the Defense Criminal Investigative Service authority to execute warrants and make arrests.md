@@ -22,7 +22,7 @@ Guidelines on Exercise of Authority.—The authority provided under subsection (
 
 (d)
 
-DCIS Special Agent Defined.—In this section, the term "DCIS special agent" means an employee of the Department of Defense who is a special agent of the Defense Criminal Investigative Service (or any successor to that service).
+DCIS Special Agent Defined.—In this section, the term "DCIS special agent" means anemployee of the Department of Defense who is a special agent of the Defense Criminal Investigative Service (or any successor to that service).
 
 (Added Pub. L. 105–85, div. A, title X, §1071(a), Nov. 18, 1997, 111 Stat. 1897.)
 

@@ -34,10 +34,14 @@
 | [3323\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003323%20-%20Administration.md) | Administration. |
 | [3324\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003324%20-%20Allocation%20of%20administration%20and%20costs.md) | Allocation of administration and costs. |
 | [3325\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003325%20-%20Reporting%20requirement.md) | Reporting requirement. |
+| [3326\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003326%20-%20Report%20on%20student%20progress.md) | Report on student progress. |
+| [3327\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003327%20-%20Election%20to%20receive%20educational%20assistance.md) | Election to receive educational assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–315, title IV, §§404(b), 405(b), Dec. 16, 2016, 130 Stat. 1554, 1558, added items 3326 and 3327.
 
 <b>2012</b>—Pub. L. 112–154, title IV, §402(a)(2), Aug. 6, 2012, 126 Stat. 1189, added item 3325.
 

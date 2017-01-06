@@ -6,7 +6,7 @@ The Secretary shall administer the areas within the addition in accordance with 
 
 #### (b) Protection of ecosystem
 
-The Secretary shall manage the park in order to maintain the natural abundance, diversity, and ecological integrity of native plants and animals, as well as the behavior of native animals, as a part of their ecosystem.
+The Secretary shall manage the park in order to maintain the natural abundance, diversity,and ecological integrity of native plants and animals, as well as the behavior of native animals, as a part of their ecosystem.
 
 #### (c) Protection of flora and fauna
 

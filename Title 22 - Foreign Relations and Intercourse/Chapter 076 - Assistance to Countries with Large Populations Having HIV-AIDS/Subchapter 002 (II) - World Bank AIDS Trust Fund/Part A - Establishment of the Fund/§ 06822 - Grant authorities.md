@@ -30,7 +30,7 @@
 
 #### (b) Priority
 
-In providing grants under this section, the Trust Fund should give priority to countries that have the highest HIV/AIDS prevalence rate or are at risk of having a high HIV/AIDS prevalence rate.
+In providing grants under this section, the Trust Fund should give priority to countriesthat have the highest HIV/AIDS prevalence rate or are at risk of having a high HIV/AIDS prevalence rate.
 
 #### (c) Eligible grant recipients
 

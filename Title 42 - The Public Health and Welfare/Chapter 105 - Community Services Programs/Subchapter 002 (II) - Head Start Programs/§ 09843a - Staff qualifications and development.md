@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff or that are experiencing difficulty in meeting applicable education standards;
 
-&emsp;&emsp;(C) encourage Head Start programs to give priority consideration for such positions to Head Start teachers at the appropriate level of career advancement in such programs; and
+&emsp;&emsp;(C) encourage Head Start programs to give priority consideration for such positions toHead Start teachers at the appropriate level of career advancement in such programs; and
 
 &emsp;&emsp;(D) promote the development of model curricula, designed to ensure the attainment of appropriate competencies of mentor teachers in Head Start programs.
 

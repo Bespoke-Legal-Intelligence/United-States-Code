@@ -1,6 +1,6 @@
 ### §285. Regular lieutenant commanders and commanders; retirement for failure of selection for promotion
 
-(a) Each officer of the Regular Coast Guard serving in the grade of lieutenant commander orcommander, who has failed of selection for promotion to the grade of commander or captain, respectively, for the second time shall:
+(a) Each officer of the Regular Coast Guard serving in the grade of lieutenant commander or commander, who has failed of selection for promotion to the grade of commander or captain, respectively, for the second time shall:
 
 &emsp;(1) if he has completed at least 20 years of active service or is eligible for retirement under any law on June 30 of the promotion year in which his second failure of selection occurs, be retired on that date; or
 

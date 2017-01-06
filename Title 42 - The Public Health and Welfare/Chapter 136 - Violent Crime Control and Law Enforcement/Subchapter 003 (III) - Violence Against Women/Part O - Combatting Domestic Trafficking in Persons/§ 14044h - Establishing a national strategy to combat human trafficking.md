@@ -20,7 +20,7 @@ The National Strategy shall include the following:
 
 &emsp;(2) Case coordination within the Department of Justice, including specific integration, coordination, and collaboration, as appropriate, on human trafficking investigations between and among the United States attorneys, the Human Trafficking Prosecution Unit, the Child Exploitation and Obscenity Section, and the Federal Bureau of Investigation.
 
-&emsp;(3) Annual budget priorities and Federal efforts dedicated to preventing and combating human trafficking, including resources dedicated to the Human Trafficking Prosecution Unit, the Child Exploitation and Obscenity Section, the Federal Bureau of Investigation, and all other entities that receive Federal support that have a goal or mission to combat the exploitation of adults and children.
+&emsp;(3) Annual budget priorities and Federal efforts dedicated to preventing and combatinghuman trafficking, including resources dedicated to the Human Trafficking Prosecution Unit, the Child Exploitation and Obscenity Section, the Federal Bureau of Investigation, and all other entities that receive Federal support that have a goal or mission to combat the exploitation of adults and children.
 
 &emsp;(4) An ongoing assessment of the future trends, challenges, and opportunities, including new investigative strategies, techniques, and technologies, that will enhance Federal, State, local, and tribal efforts to combat human trafficking.
 

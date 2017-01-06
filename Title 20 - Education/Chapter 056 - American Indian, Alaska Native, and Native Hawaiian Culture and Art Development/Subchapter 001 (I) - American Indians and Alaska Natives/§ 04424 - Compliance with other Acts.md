@@ -18,7 +18,7 @@ All Federal criminal laws relating to larceny, embezzlement, or conversion of th
 
 (1) Funds received by the institute <sup>1</sup> pursuant to this chapter <sup>2</sup> shall not be regarded as Federal money for purposes of meeting any matching requirements for any Federal grant, contract or cooperative agreement.
 
-(2) The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect <sup>3</sup> in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
+(2) The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsectionshall not be construed to effect <sup>3</sup> in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
 
 (Pub. L. 99–498, title XV, §1517, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 101–644, title V, §504, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, §1331(i), July 23, 1992, 106 Stat. 808; Pub. L. 113–287, §5(e)(2), Dec. 19, 2014, 128 Stat. 3268.)
 

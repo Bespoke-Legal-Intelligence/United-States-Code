@@ -38,7 +38,7 @@ Limit on extinguishing or taking interest.—A leasehold surrender interest shal
 
 &emsp;(5)
 
-Value of interest.—The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) by thesame percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, less depreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
+Value of interest.—The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) by the same percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, less depreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
 
 &emsp;(6)
 
@@ -66,7 +66,7 @@ Special Rule for Possessory Interest Existing Before November 13, 1998.—
 
 &emsp;(1)
 
-In general.—A concessioner that has obtained a possessory interest (as defined pursuant to the Act of October 9, 1965 (known as the National Park Service Concessions Policy Act; Public Law 89–249, 79 Stat. 969), as in effect on November 12, 1998) under the terms of a concession contract entered into before November 13, 1998, shall, on the expiration or termination of the concession contract, be entitled to receive compensation for the possessory interest improvements in the amount and manner as described by the concession contract. Where that possessory interest is not described in the existing concession contract, compensation of possessory interest shall be determined in accordance with the laws in effect on November 12, 1998.
+In general.—A concessioner that has obtained a possessory interest (as defined pursuant to the Act of October 9, 1965 (known as the National Park Service Concessions Policy Act; Public Law 89–249, 79 Stat. 969), as in effect on November 12, 1998) under the terms of a concession contract entered into before November 13, 1998, shall, on the expiration or termination of the concession contract, be entitledto receive compensation for the possessory interest improvements in the amount and manner as described by the concession contract. Where that possessory interest is not described in the existing concession contract, compensation of possessory interest shall be determined in accordance with the laws in effect on November 12, 1998.
 
 &emsp;(2)
 
@@ -82,7 +82,7 @@ De novo review of value determination.—If the Secretary, or either party to a 
 
 (d)
 
-Transition to Successor Concessioner.—On expiration or termination of a concession contract entered into after November 13, 1998, a concessioner shall be entitled under the terms of the concession contract to receive from the United States or a successor concessioner the value of any leasehold surrender interest in a capital improvement as of the date of the expiration or termination. A successor concessioner shall have a leasehold surrender interest in the capital improvement under the terms of a new concession contract and the initial value of the leasehold surrender interest in the capital improvement (instead of construction cost) shall be the amount of money the new concessioner is required to pay the prior concessioner for itsleasehold surrender interest under the terms of the prior concession contract.
+Transition to Successor Concessioner.—On expiration or termination of a concession contract entered into after November 13, 1998, a concessioner shall be entitled under the terms of the concession contract to receive from the United States or a successor concessioner the value of any leasehold surrender interest in a capital improvement as of the date of the expiration or termination. A successor concessioner shall have a leasehold surrender interest in the capital improvement under the terms of a new concession contract and the initial value of the leasehold surrender interest in the capital improvement (instead of construction cost) shall be the amount of money the new concessioner is required to pay the prior concessioner for its leasehold surrender interest under the terms of the prior concession contract.
 
 (e)
 

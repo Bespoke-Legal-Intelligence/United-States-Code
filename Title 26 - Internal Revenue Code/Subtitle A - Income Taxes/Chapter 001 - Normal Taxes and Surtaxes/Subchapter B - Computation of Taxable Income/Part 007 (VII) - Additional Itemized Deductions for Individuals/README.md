@@ -25,7 +25,7 @@
 
 <b>2001</b>—Pub. L. 107–16, title IV, §431(c)(4), June 7, 2001, 115 Stat. 68, added items 222 and 223 and struck out former item 222 "Cross reference".
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-629, substituted "Archer MSAs" for "Medical savings accounts" in item 220.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, substituted "Archer MSAs" for "Medical savings accounts" in item 220.
 
 <b>1997</b>—Pub. L. 105–34, title II, §202(d), Aug. 5, 1997, 111 Stat. 809, added items 221 and 222 and struck out former item 221 "Cross reference".
 

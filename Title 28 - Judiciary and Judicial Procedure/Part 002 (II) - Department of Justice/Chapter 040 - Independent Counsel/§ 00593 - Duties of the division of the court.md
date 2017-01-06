@@ -10,7 +10,7 @@ Appointment and Jurisdiction of Independent Counsel.—
 
 &emsp;(1)
 
-Authority.—Upon receipt of an application under section 592(c), the division of thecourt shall appoint an appropriate independent counsel and shall define that independent counsel's prosecutorial jurisdiction.
+Authority.—Upon receipt of an application under section 592(c), the division of the court shall appoint an appropriate independent counsel and shall define that independent counsel's prosecutorial jurisdiction.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Scope of prosecutorial jurisdiction.—In defining the independent counsel's pro
 
 &emsp;(4)
 
-Disclosure of identity and prosecutorial jurisdiction.—An independent counsel's identity and prosecutorial jurisdiction (including any expansion under subsection (c)) may not be made public except upon the request of the Attorney General or upon a determination of the division of the court that disclosure of the identity and prosecutorial jurisdiction of such independent counsel would be in the best interests of justice. In any event, the identity and prosecutorial jurisdiction of such independent counsel shall be made public when any indictment is returned, or any criminal information is filed, pursuant to the independent counsel's investigation.
+Disclosure of identity and prosecutorial jurisdiction.—An independent counsel's identity and prosecutorial jurisdiction\(including any expansion under subsection (c)) may not be made public except upon the request of the Attorney General or upon a determination of the division of the court that disclosure of the identity and prosecutorial jurisdiction of such independent counsel would be in the best interests of justice. In any event, the identity and prosecutorial jurisdiction of such independent counsel shall be made public when any indictment is returned, or any criminal information is filed, pursuant to the independent counsel's investigation.
 
 (c)
 
@@ -64,7 +64,7 @@ Award of fees.—Upon the request of an individual who is the subject of an inve
 
 &emsp;(2)
 
-Evaluation of fees.—The division of the court shall direct such independent counseland the Attorney General to file a written evaluation of any request for attorneys' fees under this subsection, addressing—
+Evaluation of fees.—The division of the court shall direct such independent counsel and the Attorney General to file a written evaluation of any request for attorneys' fees under this subsection, addressing—
 
 &emsp;&emsp;(A) the sufficiency of the documentation;
 

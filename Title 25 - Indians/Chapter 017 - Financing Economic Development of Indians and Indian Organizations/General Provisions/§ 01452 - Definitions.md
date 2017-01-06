@@ -4,7 +4,7 @@ For the purpose of this chapter, the term—
 
 (a) "Secretary" means the Secretary of the Interior.
 
-(b) "Indian" means any person who is a member of any Indian tribe, band, group, pueblo, or community which is recognized by the Federal Government as eligible for services from the Bureau of Indian Affairs and any "Native" as defined in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\].
+(b) "Indian" means any person who is a member of any Indian tribe, band, group, pueblo, or community which is recognized by the FederalGovernment as eligible for services from the Bureau of Indian Affairs and any "Native" as defined in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\].
 
 (c) "Tribe" means any Indian tribe, band, group, pueblo, or community, including Native villages and Native groups (including corporations organized by Kenai, Juneau, Sitka, and Kodiak) as defined in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized by the Federal Government as eligible for services from the Bureau of Indian Affairs.
 

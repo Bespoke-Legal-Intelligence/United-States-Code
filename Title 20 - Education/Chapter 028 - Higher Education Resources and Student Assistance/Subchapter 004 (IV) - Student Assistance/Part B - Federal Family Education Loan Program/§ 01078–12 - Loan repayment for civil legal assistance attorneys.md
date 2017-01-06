@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term "student loan" means—
 
-&emsp;&emsp;&emsp;(i) subject to clause (ii), a loan made, insured, or guaranteed under this part, part C, or part D; and
+&emsp;&emsp;&emsp;(i) subject to clause (ii), a loan made, insured, or guaranteed under this part, part D, or part E; and
 
 &emsp;&emsp;&emsp;(ii) a loan made under section 1078–3 or 1087e(g) of this title, to the extent that such loan was used to repay—
 
@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) a loan made under section 1078, 1078–2, or 1078–8 of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(III) a loan made under part D.
+&emsp;&emsp;&emsp;&emsp;(III) a loan made under part E.
 
 #### (B) Exclusion of parent plus loans
 
@@ -156,7 +156,7 @@ There are authorized to be appropriated to carry out this section $10,000,000 fo
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in (b)(1)(A)(ii)(I), is Pub.L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in (b)(1)(A)(ii)(I), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Protection and Advocacy for Individuals with Mental Illness Act, referred to in subsec. (b)(1)(A)(ii)(III), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Part A of title I of the Act is classified generally to part A (§10801 et seq.) of subchapter I of chapter 114 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 

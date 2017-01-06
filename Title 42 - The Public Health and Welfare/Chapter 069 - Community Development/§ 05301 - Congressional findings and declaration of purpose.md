@@ -24,7 +24,7 @@ The Congress further finds and declares that the future welfare of the Nation an
 
 #### (c) Decent housing, suitable living environment, and economic opportunities for persons of low and moderate income; community development activities which may be supported by Federal assistance
 
-The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
+The primary objective of this chapter and of the community development program of each grantee under this chapter is the development of viable urban communities, by providing decent housing and a suitable living environment and expanding economic opportunities, principally for persons of low and moderate income. Consistent with this primary objective, not less than 70 percent of the aggregate of the Federal assistance provided to States and units of general local government under section 5306 of this title and, if applicable, the funds received as a result of a guarantee or a grant under section 5308 of this title, shall be used for the support of activities that benefit persons of low and moderate income, and the Federal assistance provided in this chapter is for the support of community development activities which are directed toward the following specific objectives—
 
 &emsp;(1) the elimination of slums and blight and the prevention of blighting influences and the deterioration of property and neighborhood and community facilities of importance to the welfare of the community, principally persons of low and moderate income;
 
@@ -92,7 +92,7 @@ Subsec. (d)(4). Pub. L. 95–128, §101(b), provided that the development activi
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–233, title II, §209, Apr. 11, 1994, 108 Stat. 366, provided that: "The amendments made by this title \[enacting sections 5321 and 12840 of this title and amending this section and sections 5304, 5305, 5308, 5318, 12704, 12744, 12745, 12750, 12833, 12838, and 12893 of this title\] shall apply with respect to any amounts madeavailable to carry out title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\] after the date of the enactment of this Act \[Apr. 11, 1994\] and any amounts made available to carry out such title before such date of enactment that remain uncommitted on such date. The Secretary shall issue any regulations necessary to carry out the amendments made by this title not later than the expiration of the 45-day period beginning on the date of the enactment of this Act."
+Pub. L. 103–233, title II, §209, Apr. 11, 1994, 108 Stat. 366, provided that: "The amendments made by this title \[enacting sections 5321 and 12840 of this title and amending this section and sections 5304, 5305, 5308, 5318, 12704, 12744, 12745, 12750, 12833, 12838, and 12893 of this title\] shall apply with respect to any amounts made available to carry out title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\] after the date of the enactment of this Act \[Apr. 11, 1994\] and any amounts made available to carry out such title before such date of enactment that remain uncommitted on such date. The Secretary shall issue any regulations necessary to carry out the amendments made by this title not later than the expiration of the 45-day period beginning on the date of the enactment of this Act."
 
 #### Effective Date of 1992 Amendment
 
@@ -140,7 +140,7 @@ Pub. L. 96–399, §1, Oct. 8, 1980, 94 Stat. 1614, provided: "That this Act \[e
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–153, §1, Dec. 21, 1979, 93 Stat. 1101, provided: "That this Act \[enacting section 1735f–7 of Title 12, Banks and Banking, section 1719a of Title 15, Commerce and Trade, and section 1437k of this title, amending section 5315 of Title 5, Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715l, 1715m, 1715v, 1715y, 1715z,1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, section 1701 of Title 15, and sections 1437a, 1437f, and 5304 of this title\] may be cited as the 'Housing and Community Development Amendments of 1979'."
+Pub. L. 96–153, §1, Dec. 21, 1979, 93 Stat. 1101, provided: "That this Act \[enacting section 1735f–7 of Title 12, Banks and Banking, section 1719a of Title 15, Commerce and Trade, and section 1437k of this title, amending section 5315 of Title 5, Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715l, 1715m, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, section 1701 of Title 15, and sections 1437a, 1437f, and 5304 of this title\] may be cited as the 'Housing and Community Development Amendments of 1979'."
 
 #### Short Title of 1978 Amendment
 
@@ -148,7 +148,7 @@ Pub. L. 95–557, §1, Oct. 31, 1978, 92 Stat. 2080, provided that: "This Act \[
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–128 provided that: "This Act \[enacting sections 3540 and 5318 of this title and sections 2901 to 2905 of Title 12, Banks and Banking, amending this section, sections 1437c, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1476, 1479, 1483 to 1485, 1487, 1490a, 1490c, 1490h, 3533, 4003, 4013, 4026, 4056, 4103 to 4106, 4127, 4501 to 4503, 4521, 5302 to 5308, 5313, 5403, and 5409 of this title, sections 355, 1430, 1454, 1464, 1701q, 1701x, 1701z–1, 1703, 1706e, 1709, 1709–1, 1715h, 1715k to 1715m, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–7, 1715z–9, 1715z–10, 1717, 1723a, 1723e, 1748h–1, 1748h–2, 1749bb, and 1749aaa of Title 12, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 1421b, 1437d, 1490h, 4501, and 5313 of this title, and sections 1715z–1, 1723e of Title 12\] may be cited as the 'Housing and Community Development Act of 1977'."
+Section 1 of Pub. L. 95–128 provided that: "This Act \[enacting sections 3540 and 5318 of this title and sections 2901 to 2905 of Title 12, Banks and Banking, amending this section, sections 1437c, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1476, 1479, 1483 to 1485, 1487, 1490a, 1490c, 1490h, 3533, 4003, 4013, 4026, 4056, 4103 to 4106, 4127, 4501 to 4503, 4521, 5302 to 5308, 5313, 5403, and 5409 of this title, sections 355, 1430, 1454, 1464, 1701q, 1701x, 1701z–1, 1703, 1706e, 1709, 1709–1, 1715h, 1715k to 1715m, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–7, 1715z–9, 1715z–10, 1717,1723a, 1723e, 1748h–1, 1748h–2, 1749bb, and 1749aaa of Title 12, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 1421b, 1437d, 1490h, 4501, and 5313 of this title, and sections 1715z–1, 1723e of Title 12\] may be cited as the 'Housing and Community Development Act of 1977'."
 
 #### Short Title
 
@@ -272,7 +272,7 @@ In general.—Any State or unit of general local government that receives amount
 
 &emsp;"(2)
 
-Priority.—Any State or unit of general local government that receives amounts pursuant to this section shall in distributing such amounts give priority emphasis and consideration to those metropolitan areas, metropolitan cities, urban areas, rural areas, low- and moderate-income areas, and other areas with the greatest need, including those—
+Priority.—Any State or unit of general local government that receives amounts pursuant to thissection shall in distributing such amounts give priority emphasis and consideration to those metropolitan areas, metropolitan cities, urban areas, rural areas, low- and moderate-income areas, and other areas with the greatest need, including those—
 
 &emsp;&emsp;"(A) with the greatest percentage of home foreclosures;
 
@@ -450,7 +450,7 @@ In General.—This Act and the amendments made by this Act \[see Short Title of 
 
 "(b)
 
-Definitions.—For purposes of this section, the terms 'budget authority', 'budget outlays', 'concurrent resolution on the budget', and 'entitlement authority' have the meanings given such terms in section 3 of the Congressional Budget Act of 1974 (2 U.S.C. 622)."
+Definitions.—For purposes of this section, the terms 'budget authority', 'budget outlays', 'concurrentresolution on the budget', and 'entitlement authority' have the meanings given such terms in section 3 of the Congressional Budget Act of 1974 (2 U.S.C. 622)."
 
 #### Credit Limitation
 

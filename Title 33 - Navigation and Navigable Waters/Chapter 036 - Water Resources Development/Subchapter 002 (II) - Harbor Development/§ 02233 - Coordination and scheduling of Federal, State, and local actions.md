@@ -6,15 +6,15 @@ The Secretary, on request from an appropriate non-Federal interest in the form o
 
 #### (b) Procedural requirements
 
-Within 15 days after receipt of notice under subsection (a) of this section, the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) of this section to all State and local agencies that may be required to issue permits for the construction of the project or related activities. The Secretary shall solicit the cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c) of this section. Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
+Within 15 days after receipt of notice under subsection (a), the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) to all State and local agencies that may be required to issue permits for the construction of the project or related activities. The Secretary shall solicitthe cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c). Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
 
 #### (c) Scheduling agreement
 
-Within 90 days after receipt of notice under subsection (a) of this section, the Secretary of the Interior, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and any State or local agencies that have notified the Secretary under subsection (b) of this section shall enter into an agreement with the Secretary establishing a schedule of decisionmaking for approval of the project and permits associated with it and with related activities. Such schedule may not exceed two and one-half years from the date of the agreement.
+Within 90 days after receipt of notice under subsection (a), the Secretary of the Interior, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and any State or local agencies that have notified the Secretary under subsection (b) shall enter into an agreement with the Secretary establishing a schedule of decisionmaking for approval of the project and permits associated with it and with related activities. Such schedule may not exceed two and one-half years from the date of the agreement.
 
 #### (d) Contents of agreement
 
-The agreement entered into under subsection (c) of this section, to the extent practicable, shall consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The agreement shall detail, to the extent possible, the non-Federal interest's responsibilities for data development and information that may be necessary to process each permit, including a schedule when the information and data will be provided to the appropriate Federal, State, or local agency.
+The agreement entered into under subsection (c), to the extent practicable, shall consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The agreement shall detail, to the extent possible, the non-Federal interest's responsibilities for data development and information that may be necessary to process each permit, including a schedule when the information and data will be provided to the appropriate Federal, State, or local agency.
 
 #### (e) Preliminary decision
 
@@ -34,7 +34,7 @@ Not later than the final day of the schedule, the Secretary shall notify the non
 
 #### (i) Report on timesavings methods
 
-Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigationprojects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
+Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
 
 (Pub. L. 99–662, title II, §205, Nov. 17, 1986, 100 Stat. 4101.)
 

@@ -6,7 +6,7 @@ It is the policy of the United States—
 
 &emsp;(2) to affirm fundamental freedoms and internationally recognized human rights in foreign countries, as reflected in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights, and to condemn offenses against those freedoms and rights as a fundamental component of United States foreign policy, along with other key foreign policy goals;
 
-&emsp;(3) to protect and promote such fundamental freedoms and rights, including the freedoms of association, of expression, of the press, and of religion, and the right to own private property;
+&emsp;(3) to protect and promote such fundamental freedoms and rights, including the freedoms of association, of expression, of the press, and ofreligion, and the right to own private property;
 
 &emsp;(4) to commit to the long-term challenge of promoting universal democracy by promoting democratic institutions, including institutions that support the rule of law (such as an independent judiciary), an independent and professional media, strong legislatures, a thriving civil society, transparent and professional independent governmental auditing agencies, civilian control of the military, and institutions that promote the rights of minorities and women;
 

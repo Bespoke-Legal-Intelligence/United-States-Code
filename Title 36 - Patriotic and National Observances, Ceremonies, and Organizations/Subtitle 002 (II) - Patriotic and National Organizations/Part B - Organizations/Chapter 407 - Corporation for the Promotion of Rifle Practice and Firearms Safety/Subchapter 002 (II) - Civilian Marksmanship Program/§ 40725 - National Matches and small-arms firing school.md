@@ -6,7 +6,7 @@ Annual Competition.—An annual competition called the "National Matches" and co
 
 (b)
 
-Eligible Participants.—The National Matches are open to members of the Armed Forces, National Guard, Reserve Officers' Training Corps, Air Force Reserve Officers' Training Corps, Citizens' Military Training Camps, Citizens' Air Training Camps, and rifle clubs, and to civilians.
+Eligible Participants.—The National Matches are open to members of the ArmedForces, National Guard, Reserve Officers' Training Corps, Air Force Reserve Officers' Training Corps, Citizens' Military Training Camps, Citizens' Air Training Camps, and rifle clubs, and to civilians.
 
 (c)
 

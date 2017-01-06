@@ -1,0 +1,14 @@
+### §691. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §1, 68 Stat. 724, which set out the purpose of this subchapter, was omitted from the Code as being of special and not general application.
+
+#### Repeal of Inconsistent Laws
+
+Act Aug. 13, 1954, ch. 733, §19, 68 Stat. 728, which provided for repeal of inconsistent laws, was omitted from the Code as being of special and not general application.
+
+#### Separability
+
+Act Aug. 13, 1954, ch. 733, §20, 68 Stat. 728, which set forth separability provision, was omitted from the Code as being of special and not general application.
+

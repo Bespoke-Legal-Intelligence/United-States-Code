@@ -72,7 +72,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (3)(A) If an amendment to the articles of incorporation of a Native Corporation extending alienability restrictions for a specified period of time is approved pursuant to paragraph (2), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (2)(D).
 
-(B) If the board of directors of a Native Corporation electing application of this subsection does not submit for a shareholder vote an amendment to the articles of incorporation of the corporation in accordance with paragraph (2)(B), or if the amendment submitted does not comply with paragraph (2)(C), alienability restrictions shall not terminate and shall instead remain in effect until such time as a court of competent jurisdiction, upon petition of one or more shareholders of the corporation, orders that a shareholder vote be taken on an amendment which complies with paragraph (2)(C) and such vote is conducted. Following the vote, the status of alienability restrictions shall be determined in accordance with the other provisions of this subsection and the amendment, if approved.
+(B) If the board of directors of a Native Corporation electing application of this subsection does not submit for a shareholder vote an amendment to the articles of incorporation of the corporation in accordance with paragraph (2)(B), or if the amendment submitted does notcomply with paragraph (2)(C), alienability restrictions shall not terminate and shall instead remain in effect until such time as a court of competent jurisdiction, upon petition of one or more shareholders of the corporation, orders that a shareholder vote be taken on an amendment which complies with paragraph (2)(C) and such vote is conducted. Following the vote, the status of alienability restrictions shall be determined in accordance with the other provisions of this subsection and the amendment, if approved.
 
 (4)(A) A Native Corporation that approves an amendment to its articles of incorporation pursuant to paragraph (2) to extend alienability restrictions for an indefinite period of time may later amend its articles of incorporation to terminate the restrictions. Such amendment shall specify the time of termination, either by establishing a date certain or by describing the specific event upon which the restrictions shall terminate.
 
@@ -100,7 +100,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) Alienable common stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
-(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide thateach share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
+(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
 
 &emsp;(I) a share of alienable common stock carrying such right, or
 
@@ -118,7 +118,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (7)(A) No share of alienable common stock issued pursuant to paragraph (6) shall carry voting rights if it is owned, legally or beneficially, by a person not a Native or a descendant of a Native.
 
-(B)(i) A purchaser or other transferee of shares of alienable common stock shall, as a condition of the obligation of the issuing Native Corporation to transfer such shares on the books of the corporation, deliver to the corporation or transfer agent, as the case may be, a statement on a form prescribed by the corporation identifying the number of such shares to be transferred to such transferee and certifying—
+(B)(i) A purchaser or other transferee of shares of alienable common stock shall, as a condition of the obligation of the issuing Native Corporation to transfer such shares on the books of the corporation, deliver to the corporation or transfer agent, as the case may be, a statement on aform prescribed by the corporation identifying the number of such shares to be transferred to such transferee and certifying—
 
 &emsp;(I) that such transferee is or is not a Native or a descendant of a Native;
 

@@ -16,7 +16,7 @@ In general.—Whoever knowingly and unlawfully—
 
 &emsp;&emsp;(B) uses in any way radioactive material or a device, or uses or damages or interferes with the operation of a nuclear facility in a manner that causes the release of or increases the risk of the release of radioactive material, or causes radioactive contamination or exposure to radiation—
 
-&emsp;&emsp;&emsp;(i) with the intent to cause death or serious bodily injury or with the knowledgethat such act is likely to cause death or serious bodily injury;
+&emsp;&emsp;&emsp;(i) with the intent to cause death or serious bodily injury or with the knowledge that such act is likely to cause death or serious bodily injury;
 
 &emsp;&emsp;&emsp;(ii) with the intent to cause substantial damage to property or the environment or with the knowledge that such act is likely to cause substantial damage to property or the environment; or
 

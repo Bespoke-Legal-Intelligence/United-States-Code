@@ -1,0 +1,6 @@
+### §492. Transferred
+
+#### Codification
+
+Section 492 was editorially reclassified as section 5141 of this title.
+

@@ -22,7 +22,7 @@ For the purpose of this chapter:
 
 #### Amendments
 
-<b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end "In this paragraph, the term 'economic disruption' does not include a work stoppage or other employee-related actionnot related to terrorism and resulting from an employee-employer dispute."
+<b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end "In this paragraph, the term 'economic disruption' does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute."
 
 #### Regulations
 
@@ -112,7 +112,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;&emsp;"(iv) the extent to which the Coast Guard has assessed the ability of State and local law enforcement entities to carry out the security assignments that they have been engaged to perform, including their ability to meet any national standards for training, equipment, and resources that have been established by the Coast Guard in order to ensure that those entities can deter to the maximum extent practicable a transportation security incident;
 
-&emsp;&emsp;&emsp;"(v) the extent to which State and local law enforcement entities are able to meet national standards for training, equipment, and resourcesestablished by the Coast Guard to ensure that those entities can deter to the maximum extent practicable a transportation security incident;
+&emsp;&emsp;&emsp;"(v) the extent to which State and local law enforcement entities are able to meet national standards for training, equipment, and resources established by the Coast Guard to ensure that those entities can deter to the maximum extent practicable a transportation security incident;
 
 &emsp;&emsp;&emsp;"(vi) the differences in law enforcement authority, and particularly boarding authority, between the Coast Guard and State and local law enforcement entities, and the impact that these differences have on the ability of State and local law enforcement entities to provide the same level of security that the Coast Guard provides during the enforcement of Coast Guard-imposed security zones and the conduct of security patrols in United States ports; and
 
@@ -156,7 +156,7 @@ Area maritime security committee.—The term 'Area Maritime Security Committee' 
 
 &emsp;"(3)
 
-Transportation security incident.—The term 'transportation security incident' has the same meaning as that term has in section 70101 of title 46, United States Code."
+Transportation security incident.—The term 'transportation security incident' has the samemeaning as that term has in section 70101 of title 46, United States Code."
 
 #### Risk Based Resource Allocation
 
@@ -288,7 +288,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 &emsp;"(14) On April 27, 1999, the President established the Interagency Commission on Crime and Security in United States Ports to undertake a comprehensive study of the nature and extent of the problem of crime in our ports, as well as the ways in which governments at all levels are responding. The Commission concluded that frequent crimes in ports include drug smuggling, illegal car exports, fraud, and cargo theft. Internal conspiracies are an issue at many ports and contribute to Federal crime. Criminal organizations are exploiting weak security at ports to commit a wide range of cargo crimes. Intelligence and information sharing among law enforcement agencies needs to be improved and coordinated at many ports. A lack of minimum physical and personnel security standards at ports and related facilities leaves many ports and port users very vulnerable. Access to ports and operations within ports is often uncontrolled. Security-related and detection-related equipment, such as small boats, cameras, large-scale x-ray machines, and vessel tracking devices, are lacking at many ports.
 
-&emsp;"(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancingglobal maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system."
+&emsp;"(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancing global maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system."
 
 #### Maritime Security Professional Training
 

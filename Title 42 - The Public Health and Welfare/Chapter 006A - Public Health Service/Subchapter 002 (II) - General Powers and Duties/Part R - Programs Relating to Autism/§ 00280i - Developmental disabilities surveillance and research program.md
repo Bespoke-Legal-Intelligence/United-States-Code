@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes ofautism spectrum disorder and other developmental disabilities for children and adults.
 
 #### (2) Requirements
 

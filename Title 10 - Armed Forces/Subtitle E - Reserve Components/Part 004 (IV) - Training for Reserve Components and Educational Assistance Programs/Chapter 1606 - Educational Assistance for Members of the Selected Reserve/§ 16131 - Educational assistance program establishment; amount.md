@@ -1,6 +1,6 @@
 ### §16131. Educational assistance program: establishment; amount
 
-(a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Homeland Security, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned whoagree to remain members of the Selected Reserve for a period of not less than six years.
+(a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Homeland Security, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
 
 (b)(1) Except as provided in subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
 
@@ -30,7 +30,7 @@
 
 (B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
 
-&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title; and
+&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
 
@@ -112,9 +112,11 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §539(a), Jan. 6, 2006, 119 Stat. 3250.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L.103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §539(a), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 114–315, title IV, §416(a), Dec. 16, 2016, 130 Stat. 1565.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3)(B)(i). Pub. L. 114–315 substituted "12304, 12304a, or 12304b" for "or 12304".
 
 <b>2006</b>—Subsec. (j). Pub. L. 109–163 added subsec. (j).
 
@@ -160,7 +162,7 @@ Subsec. (i). Pub. L. 103–160, §518(2), added subsec. (i).
 
 <b>1992</b>—Subsec. (b)(1). Pub. L. 102–568, §301(b), substituted "$190" for "$140" in subpar. (A), "$143" for "$105" in subpar. (B), and "$95" for "$70" in subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted "shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)" for "may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1),the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates", and struck out former subpar. (A) which read as follows: "During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively."
+Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted "shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)" for "may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates", and struck out former subpar. (A) which read as follows: "During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively."
 
 Subsec. (b)(2)(B), (C). Pub. L. 102–568, §301(d)(3), redesignated subpar. (C) as (B) and substituted "shall continue" for "may continue" and "shall provide" for "may provide" in introductory provisions. Former subpar. (B) redesignated (A).
 
@@ -190,7 +192,7 @@ Pub. L. 101–189, §642(b)(1), in introductory provisions, substituted "Except 
 
 Subsec. (b)(4). Pub. L. 101–189, §645(a)(1), substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
-Subsec. (c)(1). Pub. L. 101–189, §642(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Educational assistance may only be provided under this chapter for pursuit of a program of education at an institution of higher learning and may not be provided to a person after the person has completed a course of instruction required for the award of a baccalaureate degree or the equivalent evidence of completion of study."
+Subsec. (c)(1). Pub. L. 101–189, §642(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Educational assistance may only be providedunder this chapter for pursuit of a program of education at an institution of higher learning and may not be provided to a person after the person has completed a course of instruction required for the award of a baccalaureate degree or the equivalent evidence of completion of study."
 
 Subsecs. (d) to (f). Pub. L. 101–189, §642(b)(2), added subsecs. (d) to (f).
 
@@ -270,5 +272,5 @@ Pub. L. 108–454, title I, §103(d), Dec. 10, 2004, 118 Stat. 3601, provided th
 
 #### 1995 Cost-of-Living Adjustment in Rates of Educational Assistance
 
-Pub. L. 103–66, title XII, §12009(c), Aug. 10, 1993, 107 Stat. 416, provided that the fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of Title 38, Veterans' Benefits, and this chapter were to be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of Title 38 and subsec. (b)(2) of this section but for section 12009 of Pub. L. 103–66.
+Pub. L. 103–66, title XII, §12009(c), Aug. 10, 1993, 107 Stat. 416, provided that the fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of Title 38, Veterans' Benefits, and this chapter were to be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of Title 38 andsubsec. (b)(2) of this section but for section 12009 of Pub. L. 103–66.
 

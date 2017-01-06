@@ -6,11 +6,11 @@ The Secretary may make grants to State professional licensing boards to carry ou
 
 #### (b) Authorization of appropriations
 
-For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
+For the purpose of carrying out subsection (a), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
 
 (July 1, 1944, ch. 373, title III, §330L, as added Pub. L. 108–163, §2(e)(1), Dec. 6, 2003, 117 Stat. 2021.)
 
 #### Effective Date
 
-Section deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as an Effective Date of 2003 Amendments note under section 233 of this title.
+Section deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 ofPub. L. 108–163, set out as an Effective Date of 2003 Amendments note under section 233 of this title.
 

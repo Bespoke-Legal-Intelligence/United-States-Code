@@ -2,7 +2,7 @@
 
 On and after May 15, 1936, whenever the Secretary of State, in his discretion, procures information on behalf of corporations, firms, and individuals, the expense of cablegrams and telephone service involved may be charged against the respective appropriations for the service utilized; and reimbursement therefor shall be required from those for whom the information was procured and, when made, be credited to the appropriation under which the expenditure was charged.
 
-The Secretary of State is authorized to accept reimbursement from corporations, firms, and individuals for the expenses of travel, translation, printing, special experts, and other extraordinary expenses (including such expenses as salaries and other personnel expenses) incurred in pursuing a claim on their behalf against a foreign government or other foreign entity. Such reimbursements shall be credited to the appropriation account against which the expense was initially charged.
+The Secretary of State is authorized to accept reimbursement from corporations, firms, and individuals for the expenses of travel, translation, printing, special experts, and other extraordinary expenses (including such expenses as salaries and other personnel expenses) incurred inpursuing a claim on their behalf against a foreign government or other foreign entity. Such reimbursements shall be credited to the appropriation account against which the expense was initially charged.
 
 (May 15, 1936, ch. 405, 49 Stat. 1321; Pub. L. 100–204, title I, §142(b), Dec. 22, 1987, 101 Stat. 1350; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2212(a), Oct. 21, 1998, 112 Stat. 2681–812.)
 

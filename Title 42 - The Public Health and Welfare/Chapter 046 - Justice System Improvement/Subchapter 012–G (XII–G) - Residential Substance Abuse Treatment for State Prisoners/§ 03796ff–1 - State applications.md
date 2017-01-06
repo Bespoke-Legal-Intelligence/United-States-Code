@@ -28,7 +28,7 @@ To be eligible to receive funds under this subchapter, a State must agree to imp
 
 #### (d) Coordination of Federal assistance
 
-Each application submitted for a grant under this section shall include a description of howthe funds made available under this section will be coordinated with Federal assistance for substance abuse treatment and aftercare services currently provided by the Department of Health and Human Services' Substance Abuse and Mental Health Services Administration.
+Each application submitted for a grant under this section shall include a description of how the funds made available under this section will be coordinated with Federal assistance for substance abuse treatment and aftercare services currently provided by the Department of Health and Human Services' Substance Abuse and Mental Health Services Administration.
 
 #### (e) State office
 

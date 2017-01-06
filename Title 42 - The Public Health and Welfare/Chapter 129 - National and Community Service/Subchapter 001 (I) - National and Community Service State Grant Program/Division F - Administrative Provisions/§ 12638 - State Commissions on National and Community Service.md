@@ -4,15 +4,15 @@
 
 #### (1) State Commission
 
-&emsp;Except as provided in paragraph (2), to be eligible to receive a grant or allotment under division B or C of this subchapter or to receive a distribution of approved national service positions under division C of this subchapter, a State shall maintain a State Commission on National and Community Service that satisfies the requirements of this section.
+&emsp;Except as provided in paragraph (2), to be eligible to receive a grant or allotment under division B or C or to receive a distribution of approved national service positions under division C, a State shall maintain a State Commission on National and Community Service that satisfies the requirements of this section.
 
 #### (2) Alternative administrative entity
 
-&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
+&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
 
 #### (b) Appointment and size
 
-Except as provided in subsection (c)(3) of this section, the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c) of this section.
+Except as provided in subsection (c)(3), the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c).
 
 #### (c) Composition and membership
 
@@ -64,7 +64,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (5) Limitation on number of State employees as members
 
-&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2) who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
+&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2)who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
 
 #### (d) Miscellaneous matters
 
@@ -92,7 +92,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (A) General limitation
 
-&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
+&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) if—
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
@@ -134,7 +134,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(G) is updated annually, reflecting changes in practices and policies that will improve the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State;
 
-&emsp;&emsp;(H) ensures outreach to, and coordination with, municipalities (including large cities) and county governments regarding the national service laws; and
+&emsp;&emsp;(H) ensures outreach to, and coordination with, municipalities (including large cities)and county governments regarding the national service laws; and
 
 &emsp;&emsp;(I) contains such information as the State Commission considers to be appropriate or as the Corporation may require.
 
@@ -142,7 +142,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;(3) Assistance in the preparation of the application of the State educational agency for assistance under section 12525 of this title.
 
-&emsp;(4) Preparation of the application of the State under section 12582 of this title for the approval of service positions that include the national service educational award described in division D of this subchapter.
+&emsp;(4) Preparation of the application of the State under section 12582 of this title for the approval of service positions that include the national service educational award described in division D.
 
 &emsp;(5) Make recommendations to the Corporation with respect to priorities for programs receiving assistance under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.).
 
@@ -220,7 +220,7 @@ A State Commission or alternative administrative entity may not directly carry o
 
 #### (i) Delegation
 
-Subject to such requirements as the Corporation may prescribe, a State Commission may delegate nonpolicymaking duties to a State agency or public or private nonprofit organization.
+Subject to such requirements as the Corporation may prescribe, a State Commission maydelegate nonpolicymaking duties to a State agency or public or private nonprofit organization.
 
 #### (j) Approval of State Commission or alternative
 
@@ -234,11 +234,11 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (2) Approval of alternative administrative entity
 
-&emsp;Any designation of a State Commission or use of an alternative administrative entity to carry out the duties of a State Commission shall be subject to the approval of the Corporation, which shall not be unreasonably withheld. The Corporation shall approve an alternative administrative entity if such entity provides for individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the duties described in paragraphs (1) through (4) of subsection (e) of this section.
+&emsp;Any designation of a State Commission or use of an alternative administrative entity to carry out the duties of a State Commission shall be subject to the approval of the Corporation, which shall not be unreasonably withheld. The Corporation shall approve an alternative administrative entity if such entity provides for individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the duties described in paragraphs (1) through (4) of subsection (e).
 
 #### (3) Rejection
 
-&emsp;The Corporation may reject a State Commission if the Corporation determines that the composition, membership, or duties of the State Commission do not comply with the requirements of this section. The Corporation may reject a request to use an alternative administrative entity in lieu of a State Commission if the Corporation determines that the entity does not provide for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role as described in paragraph (2). If the Corporation rejects a State Commission or alternative administrative entity under this paragraph, the Corporation shall promptly notify the State of the reasons for the rejection.
+&emsp;The Corporation may reject a State Commission if the Corporation determines that the composition, membership, or duties of the State Commission do not comply with the requirements of this section. The Corporation may reject a request to use an alternative administrative entity in lieu of a State Commission if the Corporation determines that the entity does not provide for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role as described in paragraph (2). If the Corporation rejects a State Commission or alternative administrative entity under this paragraph, the Corporation shall promptly notify the State of the reasons for the rejection.
 
 #### (4) Resubmission and reconsideration
 
@@ -292,7 +292,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (A) In general
 
-&emsp;&emsp;A member of the State Commission or alternative administrative entity shall have no personal liability with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the State Commission or alternative administrative entity.
+&emsp;&emsp;A member of the State Commission or alternative administrative entity shall haveno personal liability with respect to any claim arising out of or resulting from any act or omission by such person, within the scope of the service of the member on the State Commission or alternative administrative entity.
 
 #### (B) Limitation
 

@@ -1,0 +1,6 @@
+### §503. Transferred
+
+#### Codification
+
+Section 503 was editorially reclassified as section 5203 of this title.
+

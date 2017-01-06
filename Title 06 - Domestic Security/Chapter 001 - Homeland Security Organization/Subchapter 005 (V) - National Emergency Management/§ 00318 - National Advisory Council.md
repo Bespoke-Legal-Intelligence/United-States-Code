@@ -12,7 +12,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (2) Consultation on grants
 
-&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
+&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidanceand the development and evaluation of risk-assessment methodologies, as appropriate.
 
 #### (c) Membership
 
@@ -58,7 +58,167 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;&emsp;&emsp;(ii) one-third shall be appointed for a term of 2 years.
 
-#### (d) Applicability of Federal Advisory Committee Act
+#### (d) RESPONSE Subcommittee
+
+#### (1) Establishment
+
+&emsp;Not later than 30 days after December 16, 2016, the Administrator shall establish, as a subcommittee of the National Advisory Council, the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee (referred to in this subsection as the "RESPONSE Subcommittee").
+
+#### (2) Membership
+
+&emsp;Notwithstanding subsection (c), the RESPONSE Subcommittee shall be composed of the following:
+
+&emsp;&emsp;(A) The Deputy Administrator, Protection and National Preparedness of the Federal Emergency Management Agency, or designee.
+
+&emsp;&emsp;(B) The Chief Safety Officer of the Pipeline and Hazardous Materials Safety Administration, or designee.
+
+&emsp;&emsp;(C) The Associate Administrator for Hazardous Materials Safety of the Pipeline and Hazardous Materials Safety Administration, or designee.
+
+&emsp;&emsp;(D) The Director of the Office of Emergency Communications of the Department of Homeland Security, or designee.
+
+&emsp;&emsp;(E) The Director for the Office of Railroad, Pipeline and Hazardous Materials Investigations of the National Transportation Safety Board, or designee.
+
+&emsp;&emsp;(F) The Chief Safety Officer and Associate Administrator for Railroad Safety of the Federal Railroad Administration, or designee.
+
+&emsp;&emsp;(G) The Assistant Administrator for Security Policy and Industry Engagement of the Transportation Security Administration, or designee.
+
+&emsp;&emsp;(H) The Assistant Commandant for Response Policy of the Coast Guard, or designee.
+
+&emsp;&emsp;(I) The Assistant Administrator for the Office of Solid Waste and Emergency Response of the Environmental Protection Agency, or designee.
+
+&emsp;&emsp;(J) Such other qualified individuals as the co-chairpersons shall jointly appoint as soon as practicable after December 16, 2016, from among the following:
+
+&emsp;&emsp;&emsp;(i) Members of the National Advisory Council that have the requisite technical knowledge and expertise to address rail emergency response issues, including members from the following disciplines:
+
+&emsp;&emsp;&emsp;&emsp;(I) Emergency management and emergency response providers, including fire service, law enforcement, hazardous materials response, and emergency medical services.
+
+&emsp;&emsp;&emsp;&emsp;(II) State, local, and tribal government officials.
+
+&emsp;&emsp;&emsp;(ii) Individuals who have the requisite technical knowledge and expertise to serveon the RESPONSE Subcommittee, including at least 1 representative from each of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The rail industry.
+
+&emsp;&emsp;&emsp;&emsp;(II) Rail labor.
+
+&emsp;&emsp;&emsp;&emsp;(III) Persons who offer oil for transportation by rail.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The communications industry.
+
+&emsp;&emsp;&emsp;&emsp;(V) Emergency response providers, including individuals nominated by national organizations representing State and local governments and emergency responders.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Emergency response training providers.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Representatives from tribal organizations.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) Technical experts.
+
+&emsp;&emsp;&emsp;&emsp;(IX) Vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for emergency responder services.
+
+&emsp;&emsp;&emsp;(iii) Representatives of such other stakeholders and interested and affected parties as the co-chairpersons consider appropriate.
+
+#### (3) Co-chairpersons
+
+&emsp;The members described in subparagraphs (A) and (B) of paragraph (2) shall serve as the co-chairpersons of the RESPONSE Subcommittee.
+
+#### (4) Initial meeting
+
+&emsp;The initial meeting of the RESPONSE Subcommittee shall take place not later than 90 days after December 16, 2016.
+
+#### (5) Consultation with nonmembers
+
+&emsp;The RESPONSE Subcommittee and the program offices for emergency responder training and resources shall consult with other relevant agencies and groups, including entities engaged in federally funded research and academic institutions engaged in relevant work and research, which are not represented on the RESPONSE Subcommittee to consider new and developing technologies and methods that may be beneficial to preparedness and response to rail hazardous materials incidents.
+
+#### (6) Recommendations
+
+&emsp;The RESPONSE Subcommittee shall develop recommendations, as appropriate, for improving emergency responder training and resource allocation for hazardous materials incidents involving railroads after evaluating the following topics:
+
+&emsp;&emsp;(A) The quality and application of training for State and local emergency responders related to rail hazardous materials incidents, including training for emergency responders serving small communities near railroads, including the following:
+
+&emsp;&emsp;&emsp;(i) Ease of access to relevant training for State and local emergency responders, including an analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of individuals being trained;
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of individuals who are applying;
+
+&emsp;&emsp;&emsp;&emsp;(III) whether current demand is being met;
+
+&emsp;&emsp;&emsp;&emsp;(IV) current challenges; and
+
+&emsp;&emsp;&emsp;&emsp;(V) projected needs.
+
+&emsp;&emsp;&emsp;(ii) Modernization of training course content related to rail hazardous materials incidents, with a particular focus on fluctuations in oil shipments by rail, including regular and ongoing evaluation of course opportunities, adaptation to emerging trends, agency and private sector outreach, effectiveness and ease of access for State and local emergency responders.
+
+&emsp;&emsp;&emsp;(iii) Identification of overlap in training content and identification of opportunities to develop complementary courses and materials among governmental and nongovernmental entities.
+
+&emsp;&emsp;&emsp;(iv) Online training platforms, train-the-trainer, and mobile training options.
+
+&emsp;&emsp;(B) The availability and effectiveness of Federal, State, local, and nongovernmental funding levels related to training emergency responders for rail hazardous materials incidents, including emergency responders serving small communities near railroads, including—
+
+&emsp;&emsp;&emsp;(i) identifying overlap in resource allocations;
+
+&emsp;&emsp;&emsp;(ii) identifying cost savings measures that can be implemented to increase training opportunities;
+
+&emsp;&emsp;&emsp;(iii) leveraging government funding with nongovernmental funding to enhance training opportunities and fill existing training gaps;
+
+&emsp;&emsp;&emsp;(iv) adaptation of priority settings for agency funding allocations in response to emerging trends;
+
+&emsp;&emsp;&emsp;(v) historic levels of funding across Federal agencies for rail hazardous materials incident response and training, including funding provided by the private sector to public entities or in conjunction with Federal programs; and
+
+&emsp;&emsp;&emsp;(vi) current funding resources across agencies.
+
+&emsp;&emsp;(C) The strategy for integrating commodity flow studies, mapping, and rail and hazardous materials databases for State and local emergency responders and increasing the rate of access to the individual responder in existing or emerging communications technology.
+
+#### (7) Report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 1 year after December 16, 2016, the RESPONSE Subcommittee shall submit a report to the National Advisory Council that—
+
+&emsp;&emsp;&emsp;(i) includes the recommendations developed under paragraph (6);
+
+&emsp;&emsp;&emsp;(ii) specifies the timeframes for implementing any such recommendations that do not require congressional action; and
+
+&emsp;&emsp;&emsp;(iii) identifies any such recommendations that do require congressional action.
+
+#### (B) Review
+
+&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the NationalAdvisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
+
+#### (C) Recommendation
+
+&emsp;&emsp;Once the National Advisory Council approves the recommendations of the RESPONSE Subcommittee, the National Advisory Council shall submit the report to—
+
+&emsp;&emsp;&emsp;(i) the co-chairpersons of the RESPONSE Subcommittee;
+
+&emsp;&emsp;&emsp;(ii) the head of each other agency represented on the RESPONSE Subcommittee;
+
+&emsp;&emsp;&emsp;(iii) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;&emsp;(iv) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;&emsp;&emsp;(v) the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(vi) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+#### (8) Interim activity
+
+#### (A) Updates and oversight
+
+&emsp;&emsp;After the submission of the report by the National Advisory Council under paragraph (7), the Administrator shall—
+
+&emsp;&emsp;&emsp;(i) provide annual updates to the congressional committees referred to in paragraph (7)(C) regarding the status of the implementation of the recommendations developed under paragraph (6); and
+
+&emsp;&emsp;&emsp;(ii) coordinate the implementation of the recommendations described in paragraph (6)(G)(i), as appropriate.
+
+#### (B) Sunset
+
+&emsp;&emsp;The requirements of subparagraph (A) shall terminate on the date that is 2 years after the date of the submission of the report required under paragraph (7)(A).
+
+#### (9) Termination
+
+&emsp;The RESPONSE Subcommittee shall terminate not later than 90 days after the submission of the report required under paragraph (7)(C).
+
+#### (e) Applicability of Federal Advisory Committee Act
 
 #### (1) In general
 
@@ -68,17 +228,19 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Advisory Council.
 
-(Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403; amended Pub. L. 110–53, title I, §102(a), Aug. 3, 2007, 121 Stat. 293.)
+(Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403; amended Pub. L. 110–53, title I, §102(a), Aug. 3, 2007, 121 Stat. 293; Pub. L. 114–321, §2, Dec. 16, 2016, 130 Stat. 1623.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
 A prior section 508 of Pub. L. 107–296 was renumbered section 519 and is classified to section 321h of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsecs. (d), (e). Pub. L. 114–321 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

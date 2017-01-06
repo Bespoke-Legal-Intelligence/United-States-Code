@@ -30,7 +30,7 @@ Records.—The Secretary of Defense shall ensure that the Board has access to su
 
 (e)
 
-Reports.—(1) The Board shall submit to the Secretary of Defense on an annual basis areport on the actuarial status of each of the following:
+Reports.—(1) The Board shall submit to the Secretary of Defense on an annual basis a report on the actuarial status of each of the following:
 
 &emsp;(A) The Department of Defense Military Retirement Fund.
 

@@ -120,11 +120,11 @@ Subsec. (b)(1). Pub. L. 105–172, §2(b)(2), substituted "subject to the same p
 
 Subsec. (c). Pub. L. 105–172, §2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The punishment for an offense under subsection (a) or (b)(1) of this section is—
 
-&emsp;"(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6),\(7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
+&emsp;"(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
 
 &emsp;"(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, in the case of an offense under subsection (a)(1), (4), (5), (6), (7), or (8) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
 
-&emsp;"(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph."
+&emsp;"(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, inthe case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph."
 
 Subsec. (e)(8). Pub. L. 105–172, §2(c), inserted "or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument" before the period at end.
 

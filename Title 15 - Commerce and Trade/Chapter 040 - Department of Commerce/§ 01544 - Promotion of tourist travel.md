@@ -16,7 +16,7 @@ Section was formerly classified to section 18 of Title 16, Conservation.
 
 Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765, provided that:
 
-"(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under theAct of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d) \[now 15 U.S.C. 1544–1548\].
+"(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d) \[now 15 U.S.C. 1544–1548\].
 
 "(b) The assets, liabilities, contracts, property, records, authorizations, and allocations, employed, held, used, rising from, available or to be made available in connection with the functions, powers, and duties transferred by subsection (a) of this section are hereby transferred to the Secretary of Commerce."
 

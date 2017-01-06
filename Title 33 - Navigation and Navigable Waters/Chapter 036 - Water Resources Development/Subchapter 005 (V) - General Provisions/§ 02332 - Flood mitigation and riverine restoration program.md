@@ -8,7 +8,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (1) Authority
 
-&emsp;In carrying out the program, the Secretary may conduct studies to identify appropriate flood damage reduction, conservation, and restoration measures and may design and implement projects described in subsection (a) of this section.
+&emsp;In carrying out the program, the Secretary may conduct studies to identify appropriate flood damage reduction, conservation, and restoration measures and may design and implement projects described in subsection (a).
 
 #### (2) Consultation and coordination
 
@@ -44,7 +44,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (3) Structural flood control projects
 
-&emsp;Any structural flood control projects carried out under this section shall be subject to cost sharing in accordance with section 2213(a) of this title.
+&emsp;Any structural flood control projects carried out under this section shall be subject to costsharing in accordance with section 2213(a) of this title.
 
 #### (4) Operation and maintenance
 
@@ -166,7 +166,7 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 
 &emsp;The Secretary shall not implement any project under this section until—
 
-&emsp;&emsp;(A) the Secretary submits to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification describing the project and the determinations made under subsection (d)(1) of this section; and
+&emsp;&emsp;(A) the Secretary submits to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification describing the project and the determinations made under subsection (d)(1); and
 
 &emsp;&emsp;(B) 21 calendar days have elapsed after the date on which the notification was received by the committees.
 
@@ -174,7 +174,7 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 
 #### (A) Limitation on appropriations
 
-&emsp;&emsp;No appropriation shall be made to construct any project under this section the total Federal cost of construction of which exceeds $15,000,000 if the project has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+&emsp;&emsp;No appropriation shall be made to construct any project under this section the total Federal cost of construction of which exceeds $15,000,000 if the project has not beenapproved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 #### (B) Report
 

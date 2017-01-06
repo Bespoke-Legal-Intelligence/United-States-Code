@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the recipient will provide sufficient information to the Secretary for the Secretary to ensure that the qualified investment is spent efficiently and effectively,
 
-&emsp;&emsp;(C) a market exists for the products of the proposed project as evidenced by contracts or written statements of intent from potential customers,
+&emsp;&emsp;(C) a market exists for the products of the proposed project as evidenced by contractsor written statements of intent from potential customers,
 
 &emsp;&emsp;(D) the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,
 

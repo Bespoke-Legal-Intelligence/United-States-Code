@@ -76,5 +76,5 @@ Notice of Reprogramming.—If any funds appropriated pursuant to the amendments 
 
 "(c)
 
-Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committeeson Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate."
+Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate."
 

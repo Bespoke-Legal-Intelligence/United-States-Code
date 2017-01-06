@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of activities conducted under this chapter, the Secretary shall identify and have in effect a contract with a consensus-based entity, such as the National Quality Forum, that meets the requirements describedin subsection (c). Such contract shall provide that the entity will perform the duties described in subsection (b).
+&emsp;For purposes of activities conducted under this chapter, the Secretary shall identify and have in effect a contract with a consensus-based entity, such as the National Quality Forum, that meets the requirements described in subsection (c). Such contract shall provide that the entity will perform the duties described in subsection (b).
 
 #### (2) Timing for first contract
 
@@ -70,7 +70,7 @@ The duties described in this subsection are the following:
 
 &emsp;&emsp;&emsp;(iv) gaps in endorsed quality measures, which shall include measures that are within priority areas identified by the Secretary under the national strategy established under section 280j of this title, and where quality measures are unavailable or inadequate to identify or address such gaps;
 
-&emsp;&emsp;&emsp;(v) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this title and where targeted research may address such gaps; and
+&emsp;&emsp;&emsp;(v) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this titleand where targeted research may address such gaps; and
 
 &emsp;&emsp;&emsp;(vi) the matters described in clauses (i) and (ii) of paragraph (7)(A).
 
@@ -166,7 +166,7 @@ The requirements described in this subsection are the following:
 
 #### (4) Open and transparent
 
-&emsp;With respect to matters related to the contract with the Secretary under subsection (a), the entity conducts its business in an open and transparent manner and provides the opportunity for public comment on its activities.
+&emsp;With respect to matters related to the contract with the Secretary under subsection (a), the entity conducts its business in an open andtransparent manner and provides the opportunity for public comment on its activities.
 
 #### (5) Voluntary consensus standards setting organization
 
@@ -182,7 +182,7 @@ The requirements described in this subsection are the following:
 
 #### (d) Funding
 
-(1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fundunder section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
+(1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
 (2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare \& Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $30,000,000 for each of fiscal years 2015 through 2017. Amounts transferred under the preceding sentence shall remain available until expended.
 

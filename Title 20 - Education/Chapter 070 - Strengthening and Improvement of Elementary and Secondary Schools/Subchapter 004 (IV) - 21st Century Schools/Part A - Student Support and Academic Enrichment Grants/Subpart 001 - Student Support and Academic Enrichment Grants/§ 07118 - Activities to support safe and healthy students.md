@@ -1,6 +1,6 @@
 ### §7118. Activities to support safe and healthy students
 
-Subject to section 7116(f) of this title, each local educational agency, or consortium of suchagencies, that receives an allocation under section 7115(a) of this title shall use a portion of such funds to develop, implement, and evaluate comprehensive programs and activities that—
+Subject to section 7116(f) of this title, each local educational agency, or consortium of such agencies, that receives an allocation under section 7115(a) of this title shall use a portion of such funds to develop, implement, and evaluate comprehensive programs and activities that—
 
 &emsp;(1) are coordinated with other schools and community-based services and programs;
 
@@ -70,7 +70,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;&emsp;(i) age-appropriate and developmentally-appropriate instruction for students in child sexual abuse awareness and prevention, including how to recognize child sexual abuse and how to safely report child sexual abuse; and
 
-&emsp;&emsp;&emsp;(ii) information to parents and guardians of students about child sexual abuseawareness and prevention, including how to recognize child sexual abuse and how to discuss child sexual abuse with a child;
+&emsp;&emsp;&emsp;(ii) information to parents and guardians of students about child sexual abuse awareness and prevention, including how to recognize child sexual abuse and how to discuss child sexual abuse with a child;
 
 &emsp;&emsp;(F) designing and implementing a locally-tailored plan to reduce exclusionary discipline practices in elementary and secondary schools that—
 

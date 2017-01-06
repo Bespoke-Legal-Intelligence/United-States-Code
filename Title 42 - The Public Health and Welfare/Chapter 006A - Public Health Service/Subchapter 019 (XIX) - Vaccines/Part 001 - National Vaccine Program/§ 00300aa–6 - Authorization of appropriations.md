@@ -1,6 +1,6 @@
 ### §300aa–6. Authorization of appropriations
 
-(a) To carry out this part other than section 300aa–2(9) of this title there are authorized to beappropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
+(a) To carry out this part other than section 300aa–2(9) of this title there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
 
 (b) To carry out section 300aa–2(9) of this title there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
 
@@ -12,7 +12,7 @@ A prior section 300aa–6, act July 1, 1944, §2107, was successively renumbered
 
 A prior section 2106 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238c of this title.
 
-Prior sections 300aa–7 to 300aa–9, act July 1, 1944, §§2108–2110, respectively, were successively renumbered by subsequent acts and transferred, see sections 238e to 238g, respectively, of this title.
+Prior sections 300aa–7 to 300aa–9, act July 1, 1944, §§2108–2110, respectively, were successively renumberedby subsequent acts and transferred, see sections 238e to 238g, respectively, of this title.
 
 #### Amendments
 

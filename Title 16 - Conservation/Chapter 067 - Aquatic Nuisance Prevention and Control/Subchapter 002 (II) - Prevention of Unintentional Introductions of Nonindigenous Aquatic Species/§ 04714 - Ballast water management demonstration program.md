@@ -62,7 +62,7 @@ For purposes of this section, the term "technologies and practices" means those 
 
 &emsp;&emsp;&emsp;(i) call on ports in the United States and on the Great Lakes; and
 
-&emsp;&emsp;&emsp;(ii) are operated along major coasts of the United States and inland waterways,including the San Francisco Bay and Chesapeake Bay.
+&emsp;&emsp;&emsp;(ii) are operated along major coasts of the United States and inland waterways, including the San Francisco Bay and Chesapeake Bay.
 
 #### (4) Selection of technologies and practices
 
@@ -76,7 +76,7 @@ For purposes of this section, the term "technologies and practices" means those 
 
 #### (1) Authorities
 
-&emsp;In conducting the demonstration program under subsection (b) of this section, the Secretary of the Interior may—
+&emsp;In conducting the demonstration program under subsection (b), the Secretary of the Interior may—
 
 &emsp;&emsp;(A) enter into cooperative agreements with appropriate officials of other agencies of the Federal Government, agencies of States and political subdivisions thereof, and private entities;
 

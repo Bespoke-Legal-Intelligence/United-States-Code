@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) the research projects that will be undertaken by the Center established pursuant to assistance under paragraph (1) and the respective contributions of the participating entities;
 
-&emsp;&emsp;(B) how the Center will promote active collaboration among scientists and engineers from different disciplines, such as information technology, biologic sciences, management, social sciences, and other appropriate disciplines;
+&emsp;&emsp;(B) how the Center will promote active collaboration among scientists and engineers from different disciplines, such as information technology, biologic sciences,management, social sciences, and other appropriate disciplines;
 
 &emsp;&emsp;(C) technology transfer activities to demonstrate and diffuse the research results, technologies, and knowledge; and
 
@@ -52,7 +52,11 @@
 
 #### (b) National information technology research and development program
 
-The National High-Performance Computing Program established by section 5511 of title 15 shall include Federal research and development programs related to health information technology.
+The Networking and Information Technology Research and Development Program established by section 5511 of title 15 shall include Federal research and development programs related to health information technology.
 
-(Pub. L. 111–5, div. A, title XIII, §13202, Feb. 17, 2009, 123 Stat. 245.)
+(Pub. L. 111–5, div. A, title XIII, §13202, Feb. 17, 2009, 123 Stat. 245; Pub. L. 114–329, title I, §105(s), Jan. 6, 2017, 130 Stat. 2985.)
+
+#### Amendments
+
+<b>2017</b>—Subsec. (b). Pub. L. 114–329 substituted "Networking and Information Technology Research and Development Program" for "National High-Performance Computing Program".
 

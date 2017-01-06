@@ -4,17 +4,17 @@
 
 #### (1) General authority
 
-&emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed bythe Administrator under subsection (c) of this section, if the person complies with paragraph (2).
+&emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c), if the person complies with paragraph (2).
 
-&emsp;(B) Any person withholding the specific chemical identity shall, in the place on the submittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
+&emsp;(B) Any person withholding the specific chemical identity shall, in the place on thesubmittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
 
 #### (2) Requirements
 
 &emsp;(A) A person is entitled to withhold information under paragraph (1) if such person—
 
-&emsp;&emsp;(i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b) of this section,
+&emsp;&emsp;(i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b),
 
-&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
+&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b), including a specific description of why such factors apply, and
 
 &emsp;&emsp;(iii) submits to the Administrator a copy of such submittal, and the information withheld from such submittal.
 
@@ -26,11 +26,11 @@
 
 #### (3) Limitation
 
-&emsp;The authority under this subsection to withhold information shall not apply to information which the Administrator has determined, in accordance with subsection (c) of this section, is not a trade secret.
+&emsp;The authority under this subsection to withhold information shall not apply to information which the Administrator has determined, in accordance with subsection (c), is not a trade secret.
 
 #### (b) Trade secret factors
 
-No person required to provide information under this chapter may claim that the information is entitled to protection as a trade secret under subsection (a) of this section unless such person shows each of the following:
+No person required to provide information under this chapter may claim that the information is entitled to protection as a trade secret under subsection (a) unless such person shows each of the following:
 
 &emsp;(1) Such person has not disclosed the information to any other person, other than a member of a local emergency planning committee, an officer or employee of the United States or a State or local government, an employee of such person, or a person who is bound by a confidentiality agreement, and such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures.
 
@@ -42,7 +42,7 @@ No person required to provide information under this chapter may claim that the 
 
 #### (c) Trade secret regulations
 
-As soon as practicable after October 17, 1986, the Administrator shall prescribe regulations to implement this section. With respect to subsection (b)(4) of this section, such regulations shall be equivalent to comparable provisions in the Occupational Safety and Health Administration Hazard Communication Standard (29 C.F.R. 1910.1200) and any revisions of such standard prescribed by the Secretary of Labor in accordance with the final ruling of the courts of the United States in United Steelworkers of America, AFL–CIO–CLC v. Thorne G. Auchter.
+As soon as practicable after October 17, 1986, the Administrator shall prescribe regulations to implement this section. With respect to subsection (b)(4), such regulations shall be equivalent to comparable provisions in the Occupational Safety and Health Administration Hazard Communication Standard (29 C.F.R. 1910.1200) and any revisions of such standard prescribed by the Secretary of Labor in accordance with the final ruling of the courts of the United States in United Steelworkers of America, AFL–CIO–CLC v. Thorne G. Auchter.
 
 #### (d) Petition for review
 
@@ -52,7 +52,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 #### (2) Initial review
 
-&emsp;Within 30 days after the date of receipt of a petition under paragraph (1) (or upon the Administrator's initiative), the Administrator shall review the explanation filed by a trade secret claimant under subsection (a)(2) of this section and determine whether the explanation presents assertions which, if true, are sufficient to support a finding that the specific chemical identity is a trade secret.
+&emsp;Within 30 days after the date of receipt of a petition under paragraph (1) (or upon the Administrator's initiative), the Administrator shall review the explanation filed by a trade secret claimant under subsection (a)(2) and determine whether the explanation presents assertions which, if true, are sufficient to support a finding that the specific chemical identity is a trade secret.
 
 #### (3) Finding of sufficient assertions
 
@@ -60,7 +60,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 &emsp;(B) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are true and that the specific chemical identity is a trade secret, the Administrator shall so notify the petitioner and the petitioner may seek judicial review of the determination.
 
-&emsp;(C) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are not true and that the specific chemical identity is not a trade secret, the Administrator shall notify the trade secret claimant that the Administrator intends to release the specific chemical identity. The trade secret claimant has 30 days in which he may appeal the Administrator's determination under this subparagraph to the Administrator. If the Administrator does not reverse his determination under this subparagraph in such an appeal by the tradesecret claimant, the trade secret claimaint <sup>1</sup> may seek judicial review of the determination.
+&emsp;(C) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are not true and that the specific chemical identity is not a trade secret, the Administrator shall notify the trade secret claimant that the Administrator intends to release the specific chemical identity. The trade secret claimant has 30 days in which he may appeal the Administrator's determination under this subparagraph to the Administrator. If the Administrator does not reverse his determination under this subparagraph in such an appeal by the trade secret claimant, the trade secret claimaint <sup>1</sup> may seek judicial review of the determination.
 
 #### (4) Finding of insufficient assertions
 
@@ -76,11 +76,11 @@ Nothing in this section, or regulations adopted pursuant to this section, shall 
 
 #### (f) Providing information to Administrator; availability to public
 
-Any information submitted to the Administrator under subsection (a)(2) of this section or subsection (d)(3) of this section (except a specific chemical identity) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter.
+Any information submitted to the Administrator under subsection (a)(2) or subsection (d)(3) (except a specific chemical identity) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter.
 
 #### (g) Information provided to State
 
-Upon request by a State, acting through the Governor of the State, the Administrator shall provide to the State any information obtained under subsection (a)(2) of this section and subsection (d)(3) of this section.
+Upon request by a State, acting through the Governor of the State, the Administrator shall provide to the State any information obtained under subsection (a)(2) and subsection (d)(3).
 
 #### (h) Information on adverse effects
 

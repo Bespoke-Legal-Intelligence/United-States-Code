@@ -3,6 +3,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [5501\.](%C2%A7%2005501%20-%20Commitment%20actions.md) | Commitment actions. |
+| [5501A.](%C2%A7%2005501A%20-%20Beneficiaries%27%20rights%20in%20mental%20competence%20determinations.md) | Beneficiaries' rights in mental competence determinations <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [5502\.](%C2%A7%2005502%20-%20Payments%20to%20and%20supervision%20of%20fiduciaries.md) | Payments to and supervision of fiduciaries. |
 | [5503\.](%C2%A7%2005503%20-%20Hospitalized%20veterans%20and%20estates%20of%20incompetent%20institutionalized%20veterans.md) | Hospitalized veterans and estates of incompetent institutionalized veterans. |
 | [5504\.](%C2%A7%2005504%20-%20Administration%20of%20trust%20funds.md) | Administration of trust funds. |
@@ -17,6 +23,8 @@
 
 #### Amendments
 
+<b>2016</b>—Pub. L. 114–255, div. B, title XIV, §14017(b), Dec. 13, 2016, 130 Stat. 1307, added item 5501A.
+
 <b>2004</b>—Pub. L. 108–454, title V, §§501(a)(2), 502(b), 504(a)(2), 505(b), Dec. 10, 2004, 118 Stat. 3617, 3619, 3621, 3622, added items 5506 to 5510.
 
 <b>1994</b>—Pub. L. 103–446, title XII, §1201(g)(4)(B), Nov. 2, 1994, 108 Stat. 4687, struck out item 5505 "Limitation on compensation payments for certain incompetent veterans".
@@ -27,12 +35,15 @@
 
 <b>1984</b>—Pub. L. 98–223, title II, §207(b)(2), Mar. 2, 1984, 98 Stat. 43, substituted "fiduciaries" for "guardians" in item 3202.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 05501 - Commitment actions](%C2%A7%2005501%20-%20Commitment%20actions.md)
+- [&sect; 05501A - Beneficiaries' rights in mental competence determinations](%C2%A7%2005501A%20-%20Beneficiaries%27%20rights%20in%20mental%20competence%20determinations.md)
 - [&sect; 05502 - Payments to and supervision of fiduciaries](%C2%A7%2005502%20-%20Payments%20to%20and%20supervision%20of%20fiduciaries.md)
 - [&sect; 05503 - Hospitalized veterans and estates of incompetent institutionalized veterans](%C2%A7%2005503%20-%20Hospitalized%20veterans%20and%20estates%20of%20incompetent%20institutionalized%20veterans.md)
 - [&sect; 05504 - Administration of trust funds](%C2%A7%2005504%20-%20Administration%20of%20trust%20funds.md)

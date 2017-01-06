@@ -40,7 +40,7 @@ Subsec. (c)(1) of this section which read "The term 'Administrator' means the Ad
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Administrator", meaning Administrator of Federal Energy Administration, in subsec. (a) pursuant to sections 301(a),703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted for "Administrator", meaning Administrator of Federal Energy Administration, in subsec. (a) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 &nbsp;
 

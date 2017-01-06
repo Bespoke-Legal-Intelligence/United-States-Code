@@ -1,0 +1,10 @@
+### §903. Omitted
+
+#### Codification
+
+Section, Pub. L. 93–197, §2, Dec. 22, 1973, 87 Stat. 770, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 93–197, §1, Dec. 22, 1973, 87 Stat. 770, provided that Pub. L. 93–197, enacting this subchapter and repealing sections 891 to 902 of this title, could be cited as the "Menominee Restoration Act".
+

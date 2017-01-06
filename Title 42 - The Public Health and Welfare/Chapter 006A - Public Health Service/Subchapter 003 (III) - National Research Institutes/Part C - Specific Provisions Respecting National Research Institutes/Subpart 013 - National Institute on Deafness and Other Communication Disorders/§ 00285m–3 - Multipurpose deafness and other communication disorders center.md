@@ -26,11 +26,11 @@ Each center assisted under this section shall, at least, conduct—
 
 &emsp;&emsp;(A) on the importance of early detection of disorders of hearing and other communication processes, of seeking prompt treatment, rehabilitation, and of following an appropriate regimen; and
 
-&emsp;&emsp;(B) on the importance of avoiding exposure to noise and other environmental toxicagents that may affect disorders of hearing or other communication processes.
+&emsp;&emsp;(B) on the importance of avoiding exposure to noise and other environmental toxic agents that may affect disorders of hearing or other communication processes.
 
 #### (d) Stipends
 
-A center may use funds provided under subsection (a) of this section to provide stipends for health professionals enrolled in training programs described in subsection (c)(2) of this section.
+A center may use funds provided under subsection (a) to provide stipends for health professionals enrolled in training programs described in subsection (c)(2).
 
 #### (e) Discretionary programs
 

@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;(7) the term "Indian" means a member of an Indian tribe;
 
-&emsp;(8) the term "Indian tribe" has the meaning given that term in section 450b of title 25;
+&emsp;(8) the term "Indian tribe" has the meaning given that term in section 5304 of title 25;
 
 &emsp;(9) the term "National Museum" means the National Museum of the American Indian established by section 80q–1 of this title;
 

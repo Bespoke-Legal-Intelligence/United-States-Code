@@ -20,7 +20,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (5) Crime prevention and safety activities
 
-&emsp;The provision of safety, security, and law enforcement measures and activities appropriateto protect residents of affordable housing from crime.
+&emsp;The provision of safety, security, and law enforcement measures and activities appropriate to protect residents of affordable housing from crime.
 
 #### (6) Model activities
 
@@ -40,7 +40,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (A) In general
 
-&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
+&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
 
 #### (B) Study
 
@@ -60,11 +60,11 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### References in Text
 
-This chapter, referred to in pars. (4), (6), and (7)(A), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in pars. (4), (6), and (7)(A), was in the original "this Act", meaning Pub. L. 104–330,Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 4101 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 
@@ -87,4 +87,6 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 #### Effective Date
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

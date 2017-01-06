@@ -1,0 +1,6 @@
+### §1774e. Omitted
+
+#### Codification
+
+Section, Pub. L. 101–503, §7, Nov. 3, 1990, 104 Stat. 1296, which related to conditions precedent to payment of United States and State funds, was omitted from the Code as being of special and not general application.
+

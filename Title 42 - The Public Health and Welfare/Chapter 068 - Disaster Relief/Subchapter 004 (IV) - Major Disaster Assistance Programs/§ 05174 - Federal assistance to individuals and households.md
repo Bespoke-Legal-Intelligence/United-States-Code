@@ -14,7 +14,7 @@
 
 #### (1) Eligibility
 
-&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
+&emsp;The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendereduninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
 
 #### (2) Determination of appropriate types of assistance
 
@@ -98,7 +98,7 @@
 
 #### (4) Permanent housing construction
 
-&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
+&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent or semi-permanent housing in insular areas outsidethe continental United States and in other locations in cases in which—
 
 &emsp;&emsp;(A) no alternative housing resources are available; and
 
@@ -188,7 +188,7 @@
 
 #### (1) Federal share
 
-&emsp;Except as provided in paragraph (2), the Federal share of the costs eligible to be paid using assistance provided under this section shall be 100 percent.
+&emsp;Except as provided in paragraph (2), the Federal share of the costs eligible to be paid usingassistance provided under this section shall be 100 percent.
 
 #### (2) Financial assistance to address other needs
 

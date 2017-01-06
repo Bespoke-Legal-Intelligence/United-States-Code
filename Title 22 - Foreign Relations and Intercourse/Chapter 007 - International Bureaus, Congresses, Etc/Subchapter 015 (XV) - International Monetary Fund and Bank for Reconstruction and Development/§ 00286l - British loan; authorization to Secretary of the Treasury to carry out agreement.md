@@ -32,7 +32,7 @@ Act July 15, 1946, ch. 577, 60 Stat. 535, provided that:
 
 It is hereby agreed between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland as follows:
 
-1\. Effective date of the agreement: The effective date of this Agreement shall be the date on which the Government of the United States notifies the Government of the United Kingdom that the Congress of the UnitedStates has made available the funds necessary to extend to the Government of the United Kingdom the line of credit in accordance with the provisions of this Agreement.
+1\. Effective date of the agreement: The effective date of this Agreement shall be the date on which the Government of the United States notifies the Government of the United Kingdom that the Congress of the United States has made available the funds necessary to extend to the Government of the United Kingdom the line of credit in accordance with the provisions of this Agreement.
 
 2\. Line of credit: The Government of the United States will extend to the Government of the United Kingdom a line of credit of $3,750,000,000 which may be drawn upon at any time between the effective date of this Agreement and December 31, 1951, inclusive.
 

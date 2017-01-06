@@ -12,7 +12,7 @@ If in any year the amount appropriated under this part is insufficient to meet t
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
-<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain</i><i>exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
 #### Codification
 

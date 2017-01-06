@@ -2,7 +2,7 @@
 
 #### (a) Development, modernization, and operation
 
-The Director of the Institute shall, after consultation with the advisory council for the Institute, provide for the development, modernization, and operation (including staffing and other operating costs such as the costs of patient care required for research) of new and existing centers for arthritis and musculoskeletal diseases. For purposes of this section, the term "modernization" means the alteration, remodeling, improvement, expansion, and repair of existing buildings and the provision of equipment for such buildings to the extent necessary to make them suitable for use as centers described in the preceding sentence.
+The Director of the Institute shall, after consultation with the advisory council for the Institute, provide for the development, modernization, and operation (including staffing and other operating costs such as the costs of patient care required for research) of new and existing centers for arthritis and musculoskeletal diseases. For purposes of this section, the term "modernization" means the alteration, remodeling, improvement, expansion, and repair of existingbuildings and the provision of equipment for such buildings to the extent necessary to make them suitable for use as centers described in the preceding sentence.
 
 #### (b) Duties and functions
 
@@ -24,7 +24,7 @@ Each center assisted under this section shall—
 
 &emsp;&emsp;&emsp;(ii) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive, treatment, and control methods and unapproved and ineffective drugs and devices.
 
-> A center may use funds provided under subsection (a) of this section to provide stipends for health professionals enrolled in training programs described in paragraph (2)(B).
+> A center may use funds provided under subsection (a) to provide stipends for health professionals enrolled in training programs described in paragraph (2)(B).
 
 #### (c) Optional programs
 

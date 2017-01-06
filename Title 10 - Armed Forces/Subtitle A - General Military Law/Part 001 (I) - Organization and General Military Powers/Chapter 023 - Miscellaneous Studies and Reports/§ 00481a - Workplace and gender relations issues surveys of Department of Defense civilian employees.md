@@ -26,6 +26,10 @@ Report to Congress.—Upon the completion of a survey under this section, the Se
 
 (Added Pub. L. 113–291, div. A, title X, §1073(a)(1), Dec. 19, 2014, 128 Stat. 3517.)
 
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
 #### Initial Survey
 
 Pub. L. 113–291, div. A, title X, §1073(a)(3), Dec. 19, 2014, 128 Stat. 3518, provided that: "The Secretary of Defense shall carry out the first survey required by section 481a of title 10, United States Code (as added by this subsection), during fiscal year 2016."

@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Within 5 days after the date the Secretary takes any adverse action under this part with respect to a State, the Secretary shall notify the chief executive officer of the State of the adverse action, including any action with respectto the State plan submitted under section 602 of this title or the imposition of a penalty under section 609 of this title.
+Within 5 days after the date the Secretary takes any adverse action under this part with respect to a State, the Secretary shall notify the chief executive officer of the State of the adverse action, including any action with respect to the State plan submitted under section 602 of this title or the imposition of a penalty under section 609 of this title.
 
 #### (b) Administrative review
 
 #### (1) In general
 
-&emsp;Within 60 days after the date a State receives notice under subsection (a) of this section of an adverse action, the State may appeal the action, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (in this section referred to as the "Board") by filing an appeal with the Board.
+&emsp;Within 60 days after the date a State receives notice under subsection (a) of an adverse action, the State may appeal the action, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (in this section referred to as the "Board") by filing an appeal with the Board.
 
 #### (2) Procedural rules
 

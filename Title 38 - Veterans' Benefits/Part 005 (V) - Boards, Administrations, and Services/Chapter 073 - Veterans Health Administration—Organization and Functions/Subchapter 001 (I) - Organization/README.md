@@ -18,3 +18,4 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 - [&sect; 07307 - Office of Research Oversight](%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md)
 - [&sect; 07308 - Office of Rural Health](%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md)
 - [&sect; 07309 - Readjustment Counseling Service](%C2%A7%2007309%20-%20Readjustment%20Counseling%20Service.md)
+- [&sect; 07309A - Office of Patient Advocacy](%C2%A7%2007309A%20-%20Office%20of%20Patient%20Advocacy.md)

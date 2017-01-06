@@ -2,11 +2,11 @@
 
 #### (a) Authority
 
-The Secretary may transfer the responsibility and authority for management of specified housing (as such term is defined in subsection (h) of this section) from a public housing agency to an eligible management entity, in accordance with the requirements of this section, if—
+The Secretary may transfer the responsibility and authority for management of specified housing (as such term is defined in subsection (h)) from a public housing agency to an eligible management entity, in accordance with the requirements of this section, if—
 
-&emsp;(1) a request for transfer of management of such housing is made and approved in accordance with subsection (b) of this section; and
+&emsp;(1) a request for transfer of management of such housing is made and approved in accordance with subsection (b); and
 
-&emsp;(2) the Secretary or the public housing agency, as appropriate pursuant to subsection (b) of this section, determines that—
+&emsp;(2) the Secretary or the public housing agency, as appropriate pursuant to subsection (b), determines that—
 
 &emsp;&emsp;(A) due to the mismanagement of the agency, such housing has deferred maintenance, physical deterioration, or obsolescence of major systems and other deficiencies in the physical plant of the project;
 
@@ -32,7 +32,7 @@ The responsibility and authority for managing specified housing may be transferr
 
 #### (c) Capital and operating assistance
 
-Pursuant to a contract under subsection (d) of this section, the Secretary shall require the public housing agency for specified housing to provide to the manager for the housing, from any assistance from the Capital and Operating Funds under section 1437g of this title for the agency, fair and reasonable amounts for the housing for eligible capital and operating activities under subsection (d)(1) and (e)(1) of section 1437g of this title. The amount made available under this subsection to a manager shall be determined by the Secretary based on the share for the specified housing of the aggregate amount of assistance from such Funds for the public housing agency transferring the housing, taking into consideration the operating and capital improvement needs of the specified housing, the operating and capital improvement needs of the remaining public housing units managed by the public housing agency, and the public housing agency plan of such agency.
+Pursuant to a contract under subsection (d), the Secretary shall require the public housing agency for specified housing to provide to the manager for the housing, from any assistance from the Capital and Operating Funds under section 1437g of this title for the agency, fair and reasonable amounts for the housing for eligible capital and operating activities under subsection (d)(1) and (e)(1) of section 1437g of this title. The amount made available under this subsection to a manager shall be determined by the Secretary based on the share for the specified housing of the aggregate amount of assistance from such Funds for the public housing agency transferring the housing, taking into consideration the operating and capital improvement needs of the specified housing, the operating and capital improvement needs of the remaining public housing units managed by the public housing agency, and the public housing agency plan of such agency.
 
 #### (d) Contract between Secretary and manager
 
@@ -118,7 +118,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### Prior Provisions
 
-A prior section 1437w, act Sept. 1, 1937, ch. 896, title I, §25, as added Pub. L. 102–550, title I, §121(b), Oct. 28, 1992, 106 Stat. 3701; amended Pub. L. 104–330, title V, §501(b)(10), Oct. 26, 1996, 110 Stat. 4042, known as the Choice in Public Housing Management Act of 1992, related to choice in public housing management, prior to repeal by Pub. L. 105–276, title V, §§503, 534, Oct. 21, 1998, 112 Stat. 2521, 2579, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement repeal before such date, and with savings provision.
+A prior section 1437w, act Sept. 1, 1937, ch. 896, title I, §25, as added Pub. L. 102–550, title I, §121(b), Oct. 28,1992, 106 Stat. 3701; amended Pub. L. 104–330, title V, §501(b)(10), Oct. 26, 1996, 110 Stat. 4042, known as the Choice in Public Housing Management Act of 1992, related to choice in public housing management, prior to repeal by Pub. L. 105–276, title V, §§503, 534, Oct. 21, 1998, 112 Stat. 2521, 2579, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement repeal before such date, and with savings provision.
 
 #### Effective Date
 

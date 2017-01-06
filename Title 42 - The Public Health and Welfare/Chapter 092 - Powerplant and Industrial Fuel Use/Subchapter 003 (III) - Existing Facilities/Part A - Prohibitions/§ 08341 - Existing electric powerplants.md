@@ -24,7 +24,7 @@ At any time, the owner or operator of an existing electric powerplant may certif
 
 #### (d) Amendment of subsection (a) and (c) certifications
 
-The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) of this section in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection (b) or (c) of this section based on that certification.
+The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) of this section in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection\(b) or (c) of this section based on that certification.
 
 (Pub. L. 95–620, title III, §301, as added Pub. L. 97–35, title X, §1021(a), Aug. 13, 1981, 95 Stat. 614.)
 

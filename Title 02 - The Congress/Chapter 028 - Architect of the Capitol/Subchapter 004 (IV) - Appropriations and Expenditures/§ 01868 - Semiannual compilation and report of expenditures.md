@@ -16,5 +16,5 @@ Section was classified to section 162b of former Title 40, prior to the enactmen
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in par. (1) of this section relating to the requirement that the Architect of the Capitol submit a semiannual report to the Senate and the House of Representatives, see section 3003 of Pub. L. 104–66, as amended, set outas a note under section 1113 of Title 31, Money and Finance, and page 1 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in par. (1) of this section relating to the requirement that the Architect of the Capitol submit a semiannual report to the Senate and the House of Representatives, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 1 of House Document No. 103–7.
 

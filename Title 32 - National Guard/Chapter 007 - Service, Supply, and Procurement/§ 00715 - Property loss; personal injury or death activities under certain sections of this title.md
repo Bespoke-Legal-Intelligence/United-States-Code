@@ -6,7 +6,7 @@
 
 &emsp;(2) damage to, or loss of, personal property, including property bailed to the United States or the National Guard and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the National Guard; or
 
-&emsp;(3) personal injury or death; either caused by a member of the Army National Guard or theAir National Guard, as the case may be, while engaged in training or duty under section 316, 502, 503, 504, or 505 of this title or any other provision of law for which he is entitled to pay under section 206 of title 37, or for which he has waived that pay, and acting within the scope of his employment; or otherwise incident to noncombat activities of the Army National Guard or the Air National Guard, as the case may be, under one of those sections.
+&emsp;(3) personal injury or death; either caused by a member of the Army National Guard or the Air National Guard, as the case may be, while engaged in training or duty under section 316, 502, 503, 504, or 505 of this title or any other provision of law for which he is entitled to pay under section 206 of title 37, or for which he has waived that pay, and acting within the scope of his employment; or otherwise incident to noncombat activities of the Army National Guard or the Air National Guard, as the case may be, under one of those sections.
 
 (b) A claim may be allowed under subsection (a) only if—
 

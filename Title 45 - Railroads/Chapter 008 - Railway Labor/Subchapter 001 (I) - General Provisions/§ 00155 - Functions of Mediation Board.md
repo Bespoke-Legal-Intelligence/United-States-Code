@@ -12,7 +12,7 @@ The Mediation Board may proffer its services in case any labor emergency is foun
 
 In either event the said Board shall promptly put itself in communication with the parties to such controversy, and shall use its best efforts, by mediation, to bring them to agreement. If such efforts to bring about an amicable settlement through mediation shall be unsuccessful, the said Board shall at once endeavor as its final required action (except as provided in paragraph third of this section and in section 160 of this title) to induce the parties to submit their controversy to arbitration, in accordance with the provisions of this chapter.
 
-If arbitration at the request of the Board shall be refused by one or both parties, the Board shall at once notify both parties in writing that its mediatory efforts have failed and for thirty days thereafter, unless in the intervening period the parties agree to arbitration, or an emergency board shall be created under section 160 of this title, no change shall be made in the rates of pay, rules, or working conditions or established practices in effect prior to the time the dispute arose.
+If arbitration at the request of the Board shall be refused by one or both parties, the Boardshall at once notify both parties in writing that its mediatory efforts have failed and for thirty days thereafter, unless in the intervening period the parties agree to arbitration, or an emergency board shall be created under section 160 of this title, no change shall be made in the rates of pay, rules, or working conditions or established practices in effect prior to the time the dispute arose.
 
 #### Second. Interpretation of agreement
 

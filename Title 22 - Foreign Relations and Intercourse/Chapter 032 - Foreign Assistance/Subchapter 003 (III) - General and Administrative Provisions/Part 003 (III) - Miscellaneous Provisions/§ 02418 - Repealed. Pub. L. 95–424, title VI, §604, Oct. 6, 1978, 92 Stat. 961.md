@@ -1,6 +1,6 @@
 ### §2418. Repealed. Pub. L. 95–424, title VI, §604, Oct. 6, 1978, 92 Stat. 961
 
-Section, Pub. L. 87–195, pt. III, §658, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 32, related to certification by the Comptroller General of the release of previously impounded funds prior to the expenditure of funds appropriated to carry out the purposes of this chapter.
+Section, Pub. L. 87–195, pt. III, §658, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 32, related to certification by the Comptroller General of the releaseof previously impounded funds prior to the expenditure of funds appropriated to carry out the purposes of this chapter.
 
 #### Effective Date of Repeal
 

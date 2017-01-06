@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Secretary receives certification by the Commissioner of Internal Revenue that an individual has a seriously delinquent tax debt, the Secretary shall transmit such certification to the Secretary of State for action with respect to denial, revocation, or limitation of a passport pursuant to section 32101 of the FAST Act.
+If the Secretary receives certification by the Commissioner of Internal Revenue that an individual has a seriously delinquent tax debt, the Secretary shall transmit such certification to the Secretary of State for action with respect todenial, revocation, or limitation of a passport pursuant to section 32101 of the FAST Act.
 
 #### (b) Seriously delinquent tax debt
 
@@ -85,6 +85,10 @@ In the case of a calendar year beginning after 2016, the dollar amount in subsec
 A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
 
 (Added Pub. L. 114–94, div. C, title XXXII, §32101(a), Dec. 4, 2015, 129 Stat. 1729.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 

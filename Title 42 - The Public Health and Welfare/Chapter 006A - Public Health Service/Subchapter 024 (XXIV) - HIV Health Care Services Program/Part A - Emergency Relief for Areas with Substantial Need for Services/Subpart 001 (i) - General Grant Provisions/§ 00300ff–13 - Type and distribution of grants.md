@@ -24,7 +24,7 @@
 
 #### (B) Distribution factor
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the term "distribution factor" means an amountequal to the living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) in the eligible area involved, as determined under subparagraph (C).
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the term "distribution factor" means an amount equal to the living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) in the eligible area involved, as determined under subparagraph (C).
 
 #### (C) Living cases of HIV/AIDS
 
@@ -148,7 +148,7 @@
 
 #### (ii) Pro rata reduction
 
-&emsp;&emsp;&emsp;If the amounts referred to in clause (i) for a fiscal year are insufficient to fully comply with subparagraph (A) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to this subsection for the fiscal year, other than grants for eligible areas for which increases under subparagraph (A) apply. A reduction under the preceding sentence may not be made in an amount that would result in the eligible area involved becoming eligible for such an increase.
+&emsp;&emsp;&emsp;If the amounts referred to in clause (i) for a fiscal year are insufficient to fully comply with subparagraph (A) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to this subsection for the fiscal year, other than grants for eligible areas for which increases under subparagraph (A) apply. A reduction under the preceding sentence may not be made in an amount that wouldresult in the eligible area involved becoming eligible for such an increase.
 
 #### (C) Limitation
 
@@ -158,9 +158,9 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall disburse the remainder of amounts not disbursed under subsection (a)(2) of this section for such fiscal year for the purpose of making grants under section 300ff–11(a) of this title to eligible areas whose application under section 300ff–15(b) of this title—
+&emsp;Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall disburse the remainder of amounts not disbursed under subsection (a)(2) for such fiscal year for the purpose of making grants under section 300ff–11(a) of this title to eligible areas whose application under section 300ff–15(b) of this title—
 
-&emsp;&emsp;(A) contains a report concerning the dissemination of emergency relief funds under subsection (a) of this section and the plan for utilization of such funds;
+&emsp;&emsp;(A) contains a report concerning the dissemination of emergency relief funds under subsection (a) and the plan for utilization of such funds;
 
 &emsp;&emsp;(B) demonstrates the need in such area, on an objective and quantified basis, for supplemental financial assistance to combat the HIV epidemic;
 
@@ -216,15 +216,15 @@
 
 #### (C) Priority in making grants
 
-&emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to addressthe decline or disruption of all EMA-provided services related to the decline in the amounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
+&emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to address the decline or disruption of all EMA-provided services related to the decline in the amounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
 
 #### (D) Increased adjustment for certain areas previously using code-based reporting
 
-&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if the conditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
+&emsp;&emsp;For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if theconditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
 
 #### (3) Remainder of amounts
 
-&emsp;In determining the amount of funds to be obligated under paragraph (1), the Secretary shall include amounts that are not paid to the eligible areas under expedited procedures under subsection (a)(2) of this section as a result of—
+&emsp;In determining the amount of funds to be obligated under paragraph (1), the Secretary shall include amounts that are not paid to the eligible areas under expedited procedures under subsection (a)(2) as a result of—
 
 &emsp;&emsp;(A) the failure of any eligible area to submit an application under section 300ff–15(c) <sup>1</sup> of this title; or
 
@@ -234,11 +234,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The failure of an eligible area to submit an application for an expedited grant under subsection (a)(2) of this section shall not result in such area being ineligible for a grant under this subsection.
+&emsp;&emsp;The failure of an eligible area to submit an application for an expedited grant under subsection (a)(2) shall not result in such area being ineligible for a grant under this subsection.
 
 #### (B) Application
 
-&emsp;&emsp;The application of an eligible area submitted under section 300ff–15(b) of this title shall contain the assurances required under subsection (a) of such section if such eligible area fails to submit an application for an expedited grant under subsection (a)(2) of this section.
+&emsp;&emsp;The application of an eligible area submitted under section 300ff–15(b) of this title shall contain the assurances required under subsection (a) of such section if such eligible area fails to submit an application for an expedited grant under subsection (a)(2).
 
 #### (c) Timeframe for obligation and expenditure of grant funds
 
@@ -274,7 +274,7 @@
 
 #### (C) Use of cancelled balances
 
-&emsp;&emsp;In the case of any balance of a grant award that is cancelled under subparagraph (A) or (B)(ii), the grant funds involved shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under such subparagraph to be canceled, exceptthat the availability of the funds for such grants is subject to subsection (a)(4) and section 300ff–20(d)(2) of this title as applied for such year.
+&emsp;&emsp;In the case of any balance of a grant award that is cancelled under subparagraph (A) or (B)(ii), the grant funds involved shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under such subparagraph to be canceled, except that the availability of the funds for such grants is subject to subsection (a)(4) and section 300ff–20(d)(2) of this title as applied for such year.
 
 #### (D) Corresponding reduction in future grant
 
@@ -298,7 +298,7 @@
 
 #### (d) Compliance with priorities of HIV planning council
 
-Notwithstanding any other provision of this subpart, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) of this section to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) of this section to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
+Notwithstanding any other provision of this subpart, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(4)(C) of this title, by the planning council serving the area.
 
 #### (e) Report on the awarding of supplemental funds
 
@@ -524,7 +524,7 @@ Amount relating to per capita incidence of cases.—The amount referred to in cl
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 3(a), 5(a), 6(b), 7(a), and 8(a)(1), (b)(1)(A), (2)(A), (C), (c)(1) of Pub. L. 111–87 be applicable to thissection as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 3(a), 5(a), 6(b), 7(a), and 8(a)(1), (b)(1)(A), (2)(A), (C), (c)(1) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

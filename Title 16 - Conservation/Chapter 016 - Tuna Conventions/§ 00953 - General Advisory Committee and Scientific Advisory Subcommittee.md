@@ -16,7 +16,7 @@
 
 #### (2) Information sharing
 
-&emsp;The Secretary and the Secretary of State shall furnish the General Advisory Committeewith relevant information concerning fisheries and international fishery agreements.
+&emsp;The Secretary and the Secretary of State shall furnish the General Advisory Committee with relevant information concerning fisheries and international fishery agreements.
 
 #### (3) Administrative matters
 

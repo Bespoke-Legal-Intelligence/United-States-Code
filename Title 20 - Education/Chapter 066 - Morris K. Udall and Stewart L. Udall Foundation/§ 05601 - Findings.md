@@ -40,7 +40,7 @@ The Congress finds that—
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–90, §1, Nov. 3, 2009, 123 Stat. 2976, provided that: "This Act \[amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section\] may be citedas the 'Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009'."
+Pub. L. 111–90, §1, Nov. 3, 2009, 123 Stat. 2976, provided that: "This Act \[amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section\] may be cited as the 'Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009'."
 
 #### Short Title of 2003 Amendment
 

@@ -9,4 +9,4 @@ Part E—Other Assistance
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 12821 - Downpayment assistance initiative](%C2%A7%2012821%20-%20Downpayment%20assistance%20initiative.md)
+- [&sect; 12821 - Omitted](%C2%A7%2012821%20-%20Omitted.md)

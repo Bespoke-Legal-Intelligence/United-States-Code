@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) administering scholarships in accordance with subsection (c);
 
-&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed toprepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
+&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed to prepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
 
 &emsp;&emsp;&emsp;(iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields; and
 
@@ -216,7 +216,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (h) Data collection
 
-An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarshipand stipend recipients the Director may request, including information on employment required under this section.
+An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarship and stipend recipients the Director may request, including information on employment required under this section.
 
 #### (i) Definitions
 
@@ -264,7 +264,7 @@ Not less than 2 years after August 9, 2007, the Director, in consultation with t
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (g)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified to parts B (§1071 et seq.) and C (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (g)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified to parts B (§1071 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 

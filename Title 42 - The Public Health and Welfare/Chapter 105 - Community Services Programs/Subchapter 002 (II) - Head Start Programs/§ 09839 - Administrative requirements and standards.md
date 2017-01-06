@@ -10,7 +10,7 @@
 
 &emsp;(B) An explanation of budgetary expenditures and proposed budget for the fiscal year.
 
-&emsp;(C) The total number of children and families served, the average monthly enrollment (as a percentage of funded enrollment), and the percentage of eligible children served.
+&emsp;(C) The total number of children and families served, the average monthly enrollment\(as a percentage of funded enrollment), and the percentage of eligible children served.
 
 &emsp;(D) The results of the most recent review by the Secretary and the financial audit.
 
@@ -34,11 +34,11 @@
 
 #### (b) Development and administrative costs of programs
 
-Except as provided in subsection (f) of this section, no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary may waive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.
+Except as provided in subsection (f), no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary may waive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.
 
 #### (c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities
 
-The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
+The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f), which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 #### (d) Publication and notification of proposed rules, etc.
 
@@ -124,9 +124,9 @@ Subsec. (f)(3). Pub. L. 103–252, §110(2)(B), added par. (3).
 
 Subsecs. (g), (h). Pub. L. 103–252, §110(3), added subsecs. (g) and (h).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–401, §2(j)(1), substituted "Except as provided in subsection (f) of this section, no" for "No".
+<b>1992</b>—Subsec. (b). Pub. L. 102–401, §2(j)(1), substituted "Except as provided in subsection (f), no" for "No".
 
-Subsec. (c). Pub. L. 102–401, §2(j)(2), substituted "subsections (a) and (f) of this section" for "subsection (a) of this section".
+Subsec. (c). Pub. L. 102–401, §2(j)(2), substituted "subsections (a) and (f)" for "subsection (a)".
 
 Subsec. (f). Pub. L. 102–401, §2(j)(3), added subsec. (f).
 
@@ -136,7 +136,7 @@ Subsec. (e). Pub. L. 101–501, §112, added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Uniform Funding and Management.—Under regulations prescribed by theSecretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
+Authority for Uniform Funding and Management.—Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
 (b)
 

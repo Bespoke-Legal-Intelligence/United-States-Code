@@ -12,7 +12,7 @@
 
 Each agreement referred to in subsection (a) shall have an initial term of ten years, with provisions, if any, for renewal for additional periods of five years. Such agreement shall contain the following terms:
 
-&emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described in subsection (d)(1) shall constitute a restrictionagainst alienation imposed by the United States upon the lands subject to the agreement.
+&emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described in subsection (d)(1) shall constitute a restriction against alienation imposed by the United States upon the lands subject to the agreement.
 
 &emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managed in a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
 
@@ -80,7 +80,7 @@ Definitions.—(A) For purposes of this subsection, the term—
 
 &emsp;(ii) land upon which timber resources are being harvested shall be considered developed only during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation;
 
-&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel; and
+&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recordedby such holder or agent unless the subdivided property is a remainder parcel; and
 
 &emsp;(iv) lands or interest in lands shall not be considered developed or leased or sold to a third party as a result of an exchange or conveyance of such land or interest in land between or among Native Corporations and trusts, partnerships, corporations, or joint ventures, whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
@@ -128,7 +128,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 (B) The exemptions described in clauses (iii), (iv), and (v) of paragraph (1)(A) shall not apply to any land, or interest in land—
 
-&emsp;(i) to the extent that such land or interest is expressly pledged as security for any loan orexpressly committed to any commercial transaction in a valid agreement, and
+&emsp;(i) to the extent that such land or interest is expressly pledged as security for any loan or expressly committed to any commercial transaction in a valid agreement, and
 
 &emsp;(ii) to the extent necessary to enforce a judgment in any action at law or in equity (or any arbitration award) arising out of any claim made pursuant to section 7(i) or section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1606(i) or 1613(c)\].
 
@@ -188,7 +188,7 @@ Subsec. (c). Pub. L. 100–241, §11(3), amended subsec. (c) generally, changing
 
 Pub. L. 100–241, §11(1), substituted "subsection (d)(1)" for "subsection (c)(2)" in pars. (3) and (4)(A).
 
-Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Notwithstanding any other provision of this section, unless the landowner decides otherwise, the benefits specified in subsection (d)(1) shall apply to lands conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or sections 1631 and 1632 of this title for a period of three years from the date of conveyance or December 2, 1980, whicheveris later: <i>Provided</i>, That this subsection shall not apply to any lands which on December 2, 1980, are the subject of a mortgage, pledge or other encumbrance."
+Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Notwithstanding any other provision of this section, unless the landowner decides otherwise, the benefits specified in subsection (d)(1) shall apply to lands conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or sections 1631 and 1632 of this title for a period of three years from the date of conveyance or December 2, 1980, whichever is later: <i>Provided</i>, That this subsection shall not apply to any lands which on December 2, 1980, are the subject of a mortgage, pledge or other encumbrance."
 
 Pub. L. 100–241, §11(1), substituted "subsection (d)(1)" for "subsection (c)(2)".
 

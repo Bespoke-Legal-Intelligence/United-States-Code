@@ -4,7 +4,7 @@
 
 (b) The Secretary may pay an individual undergoing vocational rehabilitation under section 8104 of this title additional compensation necessary for his maintenance, but not to exceed $200 a month.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 539; Pub. L. 90–83, §1(54), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §7, Sept. 7, 1974, 88 Stat. 1145; Pub. L. 101–534, §2, Nov. 7, 1990, 104 Stat. 2352.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 539; Pub. L. 90–83, §1(54), Sept. 11, 1967, 81 Stat. 210; Pub. L.93–416, §7, Sept. 7, 1974, 88 Stat. 1145; Pub. L. 101–534, §2, Nov. 7, 1990, 104 Stat. 2352.)
 
 Historical and Revision Notes<br>1966
 

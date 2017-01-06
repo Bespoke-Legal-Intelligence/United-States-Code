@@ -36,7 +36,7 @@
 
 #### (C) Covered property
 
-&emsp;&emsp;The term "covered property" means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities, bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
+&emsp;&emsp;The term "covered property" means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities,bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
 
 #### (D) Regulation as including order
 
@@ -44,7 +44,7 @@
 
 #### (b) Posting
 
-Any regulation or order covered by subsection (a) of this section shall be posted in conspicuous and appropriate places.
+Any regulation or order covered by subsection (a) shall be posted in conspicuous and appropriate places.
 
 (Sept. 23, 1950, ch. 1024, title I, §21, 64 Stat. 1005; Pub. L. 109–163, div. A, title X, §1053, Jan. 6, 2006, 119 Stat. 3435.)
 

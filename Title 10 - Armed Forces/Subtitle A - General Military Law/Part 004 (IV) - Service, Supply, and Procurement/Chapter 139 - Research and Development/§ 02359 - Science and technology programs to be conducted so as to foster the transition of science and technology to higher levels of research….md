@@ -122,7 +122,7 @@ Termination.—The pilot program conducted under this section shall terminate on
 
 #### Defense Research and Development Rapid Innovation Program
 
-Pub. L. 111–383, div. A, title X, §1073, Jan. 7, 2011, 124 Stat. 4366, as amended by Pub. L. 114–92, div. A, title II, §216, Nov. 25, 2015, 129 Stat. 769, provided that:
+Pub. L. 111–383, div. A, title X, §1073, Jan. 7, 2011, 124 Stat. 4366, as amended by Pub. L. 114–92, div. A, title II, §216, Nov. 25, 2015, 129 Stat. 769; Pub. L. 114–328, div. A, title II, §213, Dec. 23, 2016, 130 Stat. 2048, provided that:
 
 "(a)
 
@@ -150,13 +150,9 @@ Treatment Pursuant to Certain Congressional Rules.—Nothing in this section sha
 
 "(d)
 
-Funding.—Subject to the availability of appropriations for such purpose, the amounts authorized to be appropriated for research, development, test, and evaluation for each of fiscal years 2011 through 2023 may be used for any such fiscal year for the program established under subsection (a).
+Funding.—Subject to the availability of appropriations for such purpose, the amounts authorized to be appropriated for research, development, test, and evaluation for a fiscal year may be used for such fiscal year for the program established under subsection (a).
 
 "(e)
 
-Transfer Authority.—The Secretary may transfer funds available for the program to the research, development, test, and evaluation accounts of a military department, defense agency, or the unified combatant command for special operations forces pursuant to a proposal, or any part of a proposal, that the Secretary determines would directly support the purposes of the program. The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.
-
-"(f)
-
-Termination.—The authority to carry out a program under this section shall terminate on September 30, 2023. Any amounts made available for the program that remain available for obligation on the date the program terminates may be transferred under subsection (e) during the 180-day period beginning on the date of the termination of the program."
+Transfer Authority.—The Secretary may transfer funds available for the program to the research, development, test, and evaluation accounts of a military department, defense agency, or the unified combatant command for special operations forces pursuant to a proposal, or any part of a proposal, that the Secretary determines would directly support the purposes of the program. The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense."
 

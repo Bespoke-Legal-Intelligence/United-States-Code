@@ -14,4 +14,4 @@
 - [&sect; 00567 - Undefinitized contractual actions](%C2%A7%2000567%20-%20Undefinitized%20contractual%20actions.md)
 - [&sect; 00568 - Guidance on excessive pass-through charges](%C2%A7%2000568%20-%20Guidance%20on%20excessive%20pass-through%20charges.md)
 - [&sect; 00569 - Mission need statement](%C2%A7%2000569%20-%20Mission%20need%20statement.md)
-- [&sect; 00569a - Major acquisitions](%C2%A7%2000569a%20-%20Major%20acquisitions.md)
+- [&sect; 00569a - Renumbered &sect;2903](%C2%A7%2000569a%20-%20Renumbered%20%C2%A72903.md)

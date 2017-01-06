@@ -48,7 +48,7 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 (1) The Secretary of the Interior shall make the following apportionment from the Wildlife Conservation and Restoration Account:
 
-&emsp;(A) to the District of Columbia and to the Commonwealth of Puerto Rico, each a sumequal to not more than one-half of 1 percent thereof.
+&emsp;(A) to the District of Columbia and to the Commonwealth of Puerto Rico, each a sum equal to not more than one-half of 1 percent thereof.
 
 &emsp;(B) to Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each a sum equal to not more than one-fourth of 1 percent thereof.
 
@@ -70,7 +70,7 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 &emsp;(B) provisions for the development and implementation of—
 
-&emsp;&emsp;(i) wildlife conservation projects that expand and support existing wildlife programs, giving appropriate consideration to all wildlife;
+&emsp;&emsp;(i) wildlife conservation projects that expand and support existing wildlife programs,giving appropriate consideration to all wildlife;
 
 &emsp;&emsp;(ii) wildlife-associated recreation projects; and
 
@@ -102,7 +102,7 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 (4)(A) Except as provided in subparagraph (B), after the Secretary approves a State's wildlife conservation and restoration program, the Secretary may make payments on a project that is a segment of the State's wildlife conservation and restoration program as the project progresses. Such payments, including previous payments on the project, if any, shall not be more than the United States pro rata share of such project. The Secretary, under such regulations as he may prescribe, may advance funds representing the United States pro rata share of a project that is a segment of a wildlife conservation and restoration program, including funds to develop such program.
 
-(B) Not more than 10 percent of the amounts apportioned to each State under this section fora State's wildlife conservation and restoration program may be used for wildlife-associated recreation.
+(B) Not more than 10 percent of the amounts apportioned to each State under this section for a State's wildlife conservation and restoration program may be used for wildlife-associated recreation.
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 

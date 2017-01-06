@@ -4,7 +4,7 @@
 
 #### (1) On self-dealer
 
-&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a private foundation. The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participates in the act of self-dealing. In thecase of a government official (as defined in section 4946(c)), a tax shall be imposed by this paragraph only if such disqualified person participates in the act of self-dealing knowing that it is such an act.
+&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a private foundation. The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a foundation manager acting only as such) who participates in the act of self-dealing. In the case of a government official (as defined in section 4946(c)), a tax shall be imposed by this paragraph only if such disqualified person participates in the act of self-dealing knowing that it is such an act.
 
 #### (2) On foundation manager
 
@@ -62,7 +62,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;(D) the furnishing of goods, services, or facilities by a private foundation to a disqualified person shall not be an act of self-dealing if such furnishing is made on a basis no more favorable than that on which such goods, services, or facilities are made available to the general public;
 
-&emsp;&emsp;(E) except in the case of a government official (as defined in section 4946(c)), the payment of compensation (and the payment or reimbursement of expenses) by a private foundation to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the private foundation shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive;
+&emsp;&emsp;(E) except in the case of a government official (as defined in section 4946(c)), the payment of compensation (and the payment or reimbursement of expenses) by a privatefoundation to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the private foundation shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive;
 
 &emsp;&emsp;(F) any transaction between a private foundation and a corporation which is a disqualified person (as defined in section 4946(a)), pursuant to any liquidation, merger, redemption, recapitalization, or other corporate adjustment, organization, or reorganization, shall not be an act of self-dealing if all of the securities of the same class as that held by the foundation are subject to the same terms and such terms provide for receipt by the foundation of no less than fair market value;
 

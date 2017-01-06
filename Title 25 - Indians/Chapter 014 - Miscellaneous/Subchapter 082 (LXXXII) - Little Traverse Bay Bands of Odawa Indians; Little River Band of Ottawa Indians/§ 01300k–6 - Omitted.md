@@ -1,0 +1,6 @@
+### §1300k–6. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–324, §8, Sept. 21, 1994, 108 Stat. 2159, which related to adoption of constitutions and election of governing bodies of the bands, was omitted from the Code as being of special and not general application.
+

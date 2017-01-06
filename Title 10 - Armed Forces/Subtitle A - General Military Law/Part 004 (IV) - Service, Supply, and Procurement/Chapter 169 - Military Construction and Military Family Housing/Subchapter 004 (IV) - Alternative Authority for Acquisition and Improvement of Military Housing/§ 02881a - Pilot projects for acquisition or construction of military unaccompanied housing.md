@@ -40,7 +40,7 @@ Expiration.—The authority of the Secretary of the Navy to enter into a contrac
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(2). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 20 days haselapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
+<b>2011</b>—Subsec. (e)(2). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
 
 <b>2006</b>—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, §2812(a), substituted "30 days" for "90 days".
 

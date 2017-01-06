@@ -80,7 +80,7 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 #### (A) Plans required
 
-&emsp;&emsp;The Secretary of State, in collaboration with the Secretary of Energy and the Administrator of the United States Agency for International Development, shall work with officials of the Government of Ukraine to develop medium- and long-term plans to increase energy production and efficiency toincrease energy security by helping Ukraine reduce its dependence on natural gas imported from the Russian Federation.
+&emsp;&emsp;The Secretary of State, in collaboration with the Secretary of Energy and the Administrator of the United States Agency for International Development, shall work with officials of the Government of Ukraine to develop medium- and long-term plans to increase energy production and efficiency to increase energy security by helping Ukraine reduce its dependence on natural gas imported from the Russian Federation.
 
 #### (B) Elements
 

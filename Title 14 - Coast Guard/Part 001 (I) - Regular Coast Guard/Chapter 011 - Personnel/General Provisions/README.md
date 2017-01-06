@@ -14,3 +14,6 @@
 - [&sect; 00426 - Emergency leave retention authority](%C2%A7%2000426%20-%20Emergency%20leave%20retention%20authority.md)
 - [&sect; 00427 - Prohibition of certain involuntary administrative separations](%C2%A7%2000427%20-%20Prohibition%20of%20certain%20involuntary%20administrative%20separations.md)
 - [&sect; 00428 - Sea service letters](%C2%A7%2000428%20-%20Sea%20service%20letters.md)
+- [&sect; 00429 - Multirater assessment of certain personnel](%C2%A7%2000429%20-%20Multirater%20assessment%20of%20certain%20personnel.md)
+- [&sect; 00430 - Investigations of flag officers and Senior Executive Service employees](%C2%A7%2000430%20-%20Investigations%20of%20flag%20officers%20and%20Senior%20Executive%20Service%20employees.md)
+- [&sect; 00431 - Leave policies for the Coast Guard](%C2%A7%2000431%20-%20Leave%20policies%20for%20the%20Coast%20Guard.md)

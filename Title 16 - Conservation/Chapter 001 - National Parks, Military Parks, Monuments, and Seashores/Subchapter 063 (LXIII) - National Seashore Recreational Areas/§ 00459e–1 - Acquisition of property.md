@@ -46,7 +46,7 @@ The authority of the Secretary to condemn undeveloped tracts within the Dune Dis
 
 &emsp;&emsp;(II) to any approved zoning ordinance or amendment thereof to which such property is subject.
 
-(B) The property referred to in subparagraph (A) of this paragraph is any property within theboundaries of the national seashore as delineated on the map mentioned in section 459e of this title except—
+(B) The property referred to in subparagraph (A) of this paragraph is any property within the boundaries of the national seashore as delineated on the map mentioned in section 459e of this title except—
 
 &emsp;(i) property within the Dune district referred to in subsection (g) of this section;
 

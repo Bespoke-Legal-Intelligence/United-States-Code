@@ -66,7 +66,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 (e) <i>Consultation with States</i>. (1) Pursuant to Article 18 of the Environmental Cooperation Agreement, the EPA Administrator shall establish a governmental committee to furnish advice regarding implementation and further elaboration of the Agreement. Through this committee, or through other means as appropriate, the EPA Administrator and other relevant Federal agencies shall:
 
-&emsp;(A) inform the States on a continuing basis of matters under the Environmental Cooperation Agreement that directly relate to, or will potentially have a direct impact on, the States, including: (i) disputesettlement proceedings and other matters involving enforcement by the States of environmental laws; and (ii) implementation of the Environmental Cooperation Agreement, including Council, committee, and working group activities, in any area in which the States exercise concurrent or exclusive legislative, regulatory, or enforcement authority;
+&emsp;(A) inform the States on a continuing basis of matters under the Environmental Cooperation Agreement that directly relate to, or will potentially have a direct impact on, the States, including: (i) dispute settlement proceedings and other matters involving enforcement by the States of environmental laws; and (ii) implementation of the Environmental Cooperation Agreement, including Council, committee, and working group activities, in any area in which the States exercise concurrent or exclusive legislative, regulatory, or enforcement authority;
 
 &emsp;(B) provide the States with an opportunity to submit information and advice with respect to the matters identified in section 2(e)(1)(A) of this order; and
 

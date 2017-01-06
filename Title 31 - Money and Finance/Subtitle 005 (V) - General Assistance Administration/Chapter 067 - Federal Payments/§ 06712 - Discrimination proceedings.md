@@ -40,7 +40,7 @@ Decision.—If the administrative law judge decides at the end of a proceeding u
 
 &emsp;(3)
 
-Likelihood of prevailing.—An administrative law judge may not issue a preliminary decision that the government is not likely toprevail if the judge has issued a decision described in paragraph (2)(A).
+Likelihood of prevailing.—An administrative law judge may not issue a preliminary decision that the government is not likely to prevail if the judge has issued a decision described in paragraph (2)(A).
 
 (e)
 

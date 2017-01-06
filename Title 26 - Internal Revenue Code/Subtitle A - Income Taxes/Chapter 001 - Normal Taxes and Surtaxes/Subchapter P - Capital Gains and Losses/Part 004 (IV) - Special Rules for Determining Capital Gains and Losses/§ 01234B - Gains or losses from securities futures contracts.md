@@ -34,7 +34,7 @@ The Secretary shall prescribe such regulations as may be appropriate to provide 
 
 &emsp;&emsp;<b>For special rules relating to dealer securities futures contracts, see section 1256.</b>
 
-(Added Pub. L. 106–554, §1(a)(7) \[title IV, §401(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-648; amended Pub. L. 107–147, title IV, §412(d)(1)(B), (3)(B), Mar. 9, 2002, 116 Stat. 53, 54; Pub. L. 108–311, title IV, §405(a)(1), Oct. 4, 2004, 118 Stat. 1188.)
+(Added Pub. L. 106–554, §1(a)(7) \[title IV, §401(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; amended Pub. L. 107–147, title IV, §412(d)(1)(B), (3)(B), Mar. 9, 2002, 116 Stat. 53, 54; Pub. L. 108–311, title IV, §405(a)(1), Oct. 4, 2004, 118 Stat. 1188.)
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Subsec. (f). Pub. L. 107–147, §412(d)(1)(B)(ii), added subsec. (f).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title IV, §405(b), Oct. 4, 2004, 118 Stat. 1189, provided that: "The amendments made by subsection (a) \[amending this section and section 1256 of this title\] shall take effect as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A-587\]."
+Pub. L. 108–311, title IV, §405(b), Oct. 4, 2004, 118 Stat. 1189, provided that: "The amendments made by subsection (a) \[amending this section and section 1256 of this title\] shall take effect as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–587\]."
 
 #### Effective Date of 2002 Amendment
 

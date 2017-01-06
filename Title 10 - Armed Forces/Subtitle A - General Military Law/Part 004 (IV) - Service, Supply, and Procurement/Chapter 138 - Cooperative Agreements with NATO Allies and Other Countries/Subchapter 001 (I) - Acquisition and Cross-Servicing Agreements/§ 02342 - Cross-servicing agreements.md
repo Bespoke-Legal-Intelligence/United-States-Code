@@ -54,7 +54,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.
+Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) ofPub. L. 103–337, set out as a note under section 2341 of this title.
 
 #### Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations
 

@@ -10,7 +10,7 @@ Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary 
 
 &emsp;(A) to acquire (including acquisition by lease), construct, convert, expand, improve, repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
 
-&emsp;(B) to cover environmental evaluation and construction costs related to activities described in paragraph (1), including costs forsurveys, administration, overhead, planning, and design.
+&emsp;(B) to cover environmental evaluation and construction costs related to activities described in paragraph (1), including costs for surveys, administration, overhead, planning, and design.
 
 (2) In paragraph (1), the term "physical infrastructure" includes real property, utilities, and equipment (installed and free standing and including computer equipment), necessary to provide a complete and usable commissary store or central product processing facility.
 

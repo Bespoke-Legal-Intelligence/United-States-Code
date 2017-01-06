@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(iii) refers to particular types of records to be withheld from the Comptroller General; or
 
-&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, thePresident or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
+&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, the President or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
 
 (2) The President or the Director may not delegate certification under paragraph (1)(C) of this subsection. A certification shall include a complete explanation of the reasons for the certification.
 
@@ -72,7 +72,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §313(b)–(f); added Apr. 3, 1980, Pub. L. 
 
 31:54(e), (f).
 
-In the section, the word "records" is substituted for "books, documents, papers, or records", "books, records, correspondence, memoranda, papers, and documents", and "written information, books, documents, papers, or records" for consistency in the revised title and with other titles of the United States Code. The word "Congress" is substituted for "Speaker of the House of Representatives, and the President of the Senate" for consistency in the revised title.
+In the section, the word "records" is substituted for "books, documents, papers, or records", "books, records, correspondence, memoranda, papers, and documents", and "written information, books, documents, papers, or records" for consistency in the revised titleand with other titles of the United States Code. The word "Congress" is substituted for "Speaker of the House of Representatives, and the President of the Senate" for consistency in the revised title.
 
 In subsections (a) and (b), the word "agency" is substituted for "departments and establishments" because of section 701 of the revised title.
 

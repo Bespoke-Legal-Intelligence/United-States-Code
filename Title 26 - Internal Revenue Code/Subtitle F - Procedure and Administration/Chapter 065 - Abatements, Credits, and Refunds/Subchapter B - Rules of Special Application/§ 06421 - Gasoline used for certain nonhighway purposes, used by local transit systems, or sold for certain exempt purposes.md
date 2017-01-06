@@ -28,7 +28,7 @@ If gasoline is sold to any person for any purpose described in paragraph (2), (3
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may befiled under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
+&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
 
 #### (2) Exception
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;All provisions of law, including penalties, applicable in respect to the tax imposed bysection 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+&emsp;All provisions of law, including penalties, applicable in respect to the tax imposed by section 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
 
 #### (2) Examination of books and witnesses
 
@@ -290,7 +290,7 @@ Subsec. (h). Pub. L. 97–424, §516(a)(6), substituted "1988" for "1984".
 
 Subsec. (j)(4). Pub. L. 97–473 added par. (4).
 
-<b>1980</b>—Subsec. (d)(2)(B). Pub. L. 96–222 inserted provisions requiring that the preceding sentence not apply to use in a vessel employed in the fisheries or in the whaling business.
+<b>1980</b>—Subsec. (d)(2)(B). Pub. L. 96–222 inserted provisions requiring that the preceding sentence not applyto use in a vessel employed in the fisheries or in the whaling business.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–618, §222(a)(1)(A), substituted "Except as provided in subsection (i), if gasoline is used in a qualified business use" for "Except as provided in subsection (i), if gasoline is used otherwise than as a fuel in a highway vehicle (1) which (at the time of such use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (2) which, in the case of a vehicle owned by the United States, is used on the highway".
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by section 163(d)(3) of Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, set out as a note under section 6415 of this title.
 
-Pub. L. 85–859, title I, §164(b), Sept. 2, 1958, 72 Stat. 1312, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to claims the last day for the filing of which occurs after the effective date specified in section 1(c) of this Act."
+Pub. L. 85–859, title I, §164(b), Sept. 2, 1958, 72 Stat. 1312, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply onlywith respect to claims the last day for the filing of which occurs after the effective date specified in section 1(c) of this Act."
 
 #### Effective Date of 1956 Amendment
 

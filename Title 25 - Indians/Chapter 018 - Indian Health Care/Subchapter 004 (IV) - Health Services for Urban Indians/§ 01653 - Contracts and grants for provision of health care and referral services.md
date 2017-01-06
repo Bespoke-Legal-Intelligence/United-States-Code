@@ -44,7 +44,7 @@ The Secretary, through the Service, shall by regulation prescribe the criteria f
 
 &emsp;&emsp;(B) any project funded under this subchapter;
 
-&emsp;(5) the capability of an urban Indian organization to perform the activities set forth in subsection (a) and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
+&emsp;(5) the capability of an urban Indian organization to perform the activities set forth insubsection (a) and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
 
 &emsp;(6) the satisfactory performance and successful completion by an urban Indian organization of other contracts with the Secretary under this subchapter;
 

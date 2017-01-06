@@ -56,7 +56,7 @@ For the purpose of this section—
 
 #### (1) Institutional eligibility
 
-&emsp;Each Alaska Native-serving institution and Native Hawaiian-serving institution desiringto receive assistance under this section shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is an Alaska Native-serving institution or a Native Hawaiian-serving institution as defined in subsection (b) of this section, along with such other information and data as the Secretary may by regulation require.
+&emsp;Each Alaska Native-serving institution and Native Hawaiian-serving institution desiring to receive assistance under this section shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is an Alaska Native-serving institution or a Native Hawaiian-serving institution as defined in subsection (b), along with such other information and data as the Secretary may by regulation require.
 
 #### (2) Applications
 
@@ -70,7 +70,7 @@ For the purpose of this section—
 
 #### (A) Eligibility
 
-&emsp;&emsp;No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under other provisions of this part or part B of this subchapter.
+&emsp;&emsp;No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under other provisions of this part or part B.
 
 #### (B) Exemption
 

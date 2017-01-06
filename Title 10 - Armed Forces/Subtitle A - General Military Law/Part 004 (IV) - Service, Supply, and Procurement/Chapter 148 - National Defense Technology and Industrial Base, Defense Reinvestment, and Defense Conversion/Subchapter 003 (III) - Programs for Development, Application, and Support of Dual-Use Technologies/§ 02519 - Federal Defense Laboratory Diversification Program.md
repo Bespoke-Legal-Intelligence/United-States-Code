@@ -6,7 +6,7 @@ Establishment of Program.—The Secretary of Defense shall conduct a program in 
 
 (b)
 
-Partnerships.—(1) The Secretary shall provide for the establishment under the program of cooperative arrangements (hereinafter in this section referred to as "partnerships") between a Department of Defense laboratory and eligible firms and nonprofit research corporations. A partnership may also include one or more additional Federal laboratories, institutions of higher education, agencies of State and local governments, and other entities, as determined appropriate by the Secretary.
+Partnerships.—(1) The Secretary shall provide for the establishment under the programof cooperative arrangements (hereinafter in this section referred to as "partnerships") between a Department of Defense laboratory and eligible firms and nonprofit research corporations. A partnership may also include one or more additional Federal laboratories, institutions of higher education, agencies of State and local governments, and other entities, as determined appropriate by the Secretary.
 
 (2) For purposes of this section, a federally funded research and development center shall be considered a Department of Defense laboratory if the center is sponsored by the Department of Defense.
 
@@ -18,7 +18,7 @@ Assistance Authorized.—(1) The Secretary may make grants, enter into contracts
 
 (d)
 
-Financial Commitment of Non-Federal Government Participants.—(1) The Secretaryshall ensure that the non-Federal Government participants in a partnership make a substantial contribution to the total cost of partnership activities. The amount of the contribution shall be commensurate with the risk undertaken by such participants and the potential benefits of the activities for such participants.
+Financial Commitment of Non-Federal Government Participants.—(1) The Secretary shall ensure that the non-Federal Government participants in a partnership make a substantial contribution to the total cost of partnership activities. The amount of the contribution shall be commensurate with the risk undertaken by such participants and the potential benefits of the activities for such participants.
 
 (2) The regulations prescribed pursuant to section 2511(c)(2) of this title shall apply to in-kind contributions made by non-Federal Government participants in a partnership.
 

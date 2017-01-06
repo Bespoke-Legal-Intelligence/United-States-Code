@@ -12,7 +12,7 @@
 
 (f) A promotion under this section shall be made by an appointment for temporary service. Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone. Any other appointments under this section shall be made by the President alone.
 
-(g) An appointment under this section, unless expressly declined, is regarded as accepted on the date specified by the Secretary as the date of the appointment, and the officer so promoted is entitled to pay and allowances of the grade to which appointed from that date.
+(g) An appointment under this section, unless expressly declined, is regarded as accepted on the date specified by the Secretary as the dateof the appointment, and the officer so promoted is entitled to pay and allowances of the grade to which appointed from that date.
 
 (h) An appointment under this section does not terminate any appointments held by an officer concerned under any other provisions of this title. The President may terminate temporary appointments made under this section at any time. An appointment under this section is effective for such period as the President determines. However, an appointment may not be effective later than six months after the end of the war or national emergency. When his temporary appointment under this section is terminated or expires, the officer shall revert to his former grade.
 

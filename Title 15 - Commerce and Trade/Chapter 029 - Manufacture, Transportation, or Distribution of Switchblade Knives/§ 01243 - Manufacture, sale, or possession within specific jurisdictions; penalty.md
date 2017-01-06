@@ -4,3 +4,7 @@ Whoever, within any Territory or possession of the United States, within Indian 
 
 (Pub. L. 85–623, §3, Aug. 12, 1958, 72 Stat. 562.)
 
+#### Effective Date
+
+Section effective on the sixtieth day after Aug. 12, 1958, see section 6 of Pub. L. 85–623, set out as a note under section 1241 of this title.
+

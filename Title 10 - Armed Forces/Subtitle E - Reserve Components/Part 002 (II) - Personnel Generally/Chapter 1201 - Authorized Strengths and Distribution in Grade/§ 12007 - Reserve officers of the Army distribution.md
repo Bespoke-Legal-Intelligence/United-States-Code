@@ -1,6 +1,6 @@
 ### §12007. Reserve officers of the Army: distribution
 
-The Secretary of the Army shall distribute the number of reserve commissioned officers, otherthan commissioned warrant officers, authorized in each commissioned grade between those assigned to reserve units organized to serve as units and those not assigned to such units. The Secretary shall distribute the number who are assigned to reserve units organized to serve as units among the units of each reserve component by prescribing appropriate tables of organization and tables of distribution. The Secretary shall distribute the number who are not assigned to such units between—
+The Secretary of the Army shall distribute the number of reserve commissioned officers, other than commissioned warrant officers, authorized in each commissioned grade between those assigned to reserve units organized to serve as units and those not assigned to such units. The Secretary shall distribute the number who are assigned to reserve units organized to serve as units among the units of each reserve component by prescribing appropriate tables of organization and tables of distribution. The Secretary shall distribute the number who are not assigned to such units between—
 
 &emsp;(1) each special branch; and
 
@@ -11,4 +11,8 @@ The Secretary of the Army shall distribute the number of reserve commissioned of
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3220 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
+
+#### Effective Date
+
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

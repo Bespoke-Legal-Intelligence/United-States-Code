@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [221\.](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md) | Future-years defense program: submission to Congress; consistency in budgeting. |
 | [222\.](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md) | Future-years mission budget. |
+| [222a.](%C2%A7%2000222a%20-%20Unfunded%20priorities%20of%20the%20armed%20forces%20and%20combatant%20commands%20annual%20report.md) | Unfunded priorities of the armed forces and combatant commands: annual report. |
 | [223\.](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md) | Ballistic missile defense programs: program elements. |
 | [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
 | [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
@@ -26,7 +27,9 @@
 
 #### Amendments
 
-Pub. L. 114–92, div. A, title X, §1073(a)(2), title XVI, §1601(a)(2), Nov. 25, 2015, 129 Stat. 995, 1096, struck out item 228 "Biannual reports on allocation of funds within operation and maintenance budget subactivities" and added item 239.
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1064(a)(2), Dec. 23, 2016, 130 Stat. 2409, added item 222a.
+
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1073(a)(2), title XVI, §1601(a)(2), Nov. 25, 2015, 129 Stat. 995, 1096, struck out item 228 "Biannual reports on allocation of funds within operation and maintenance budget subactivities" and added item 239.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title XVI, §1631(a)(2), Dec. 19, 2014, 128 Stat. 3638, added item 238.
 
@@ -38,7 +41,7 @@ Pub. L. 112–239, div. A, title X, §§1076(f)(6), 1081(1)(B), Jan. 2, 2013, 12
 
 Pub. L. 112–81, div. A, title II, §231(a)(2), Dec. 31, 2011, 125 Stat. 1339, added item 225 at the end of this analysis.
 
-Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out former item 231 "Budgeting for construction of naval vessels: annual plan and certification".
+Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out formeritem 231 "Budgeting for construction of naval vessels: annual plan and certification".
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VIII, §803(a)(2), Oct. 28, 2009, 123 Stat. 2402, added item 235.
 
@@ -75,6 +78,7 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 
 - [&sect; 00221 - Future-years defense program submission to Congress; consistency in budgeting](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md)
 - [&sect; 00222 - Future-years mission budget](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md)
+- [&sect; 00222a - Unfunded priorities of the armed forces and combatant commands annual report](%C2%A7%2000222a%20-%20Unfunded%20priorities%20of%20the%20armed%20forces%20and%20combatant%20commands%20annual%20report.md)
 - [&sect; 00223 - Ballistic missile defense programs program elements](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md)
 - [&sect; 00223a - Ballistic missile defense programs procurement](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md)
 - [&sect; 00224 - Ballistic missile defense programs display of amounts for research, development, test, and evaluation](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md)

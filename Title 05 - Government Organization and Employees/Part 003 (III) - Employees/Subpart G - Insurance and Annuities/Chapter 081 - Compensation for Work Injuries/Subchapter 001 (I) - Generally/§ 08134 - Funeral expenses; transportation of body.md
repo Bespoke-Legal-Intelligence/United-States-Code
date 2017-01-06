@@ -2,13 +2,13 @@
 
 (a) If death results from an injury sustained in the performance of duty, the United States shall pay, to the personal representative of the deceased or otherwise, funeral and burial expenses not to exceed $800, in the discretion of the Secretary of Labor.
 
-(b) The body of an employee whose home is in the United States, in the discretion of the Secretary, may be embalmed and transported in ahermetically sealed casket to his home or last place of residence at the expense of the Employees' Compensation Fund if—
+(b) The body of an employee whose home is in the United States, in the discretion of the Secretary, may be embalmed and transported in a hermetically sealed casket to his home or last place of residence at the expense of the Employees' Compensation Fund if—
 
 &emsp;(1) the employee dies from—
 
 &emsp;&emsp;(A) the injury while away from his home or official station or outside the United States; or
 
-&emsp;&emsp;(B) from other causes while away from his home or official station for the purpose of receiving medical or other services, appliances, supplies, or examination under this subchapter; and
+&emsp;&emsp;(B) from other causes while away from his home or official station for the purpose ofreceiving medical or other services, appliances, supplies, or examination under this subchapter; and
 
 &emsp;(2) the relatives of the employee request the return of his body.
 

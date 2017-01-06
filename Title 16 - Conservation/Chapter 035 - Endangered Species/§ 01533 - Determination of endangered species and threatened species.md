@@ -56,7 +56,7 @@
 
 &emsp;(ii) identified as in danger of extinction, or likely to become so within the foreseeable future, by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish or wildlife or plants.
 
-(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact,of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
+(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
 (3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
@@ -122,7 +122,7 @@
 
 (B)(i) If the Secretary finds with respect to a proposed regulation referred to in subparagraph (A)(i) that there is substantial disagreement regarding the sufficiency or accuracy of the available data relevant to the determination or revision concerned, the Secretary may extend the one-year period specified in subparagraph (A) for not more than six months for purposes of soliciting additional data.
 
-(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there is not sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
+(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there isnot sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
 
 (iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
@@ -168,7 +168,7 @@ Whenever any species is listed as a threatened species pursuant to subsection (c
 
 The Secretary may, by regulation of commerce or taking, and to the extent he deems advisable, treat any species as an endangered species or threatened species even though it is not listed pursuant to this section if he finds that—
 
-&emsp;(A) such species so closely resembles in appearance, at the point in question, a species which has been listed pursuant to such section that enforcement personnel would have substantial difficulty in attempting to differentiate between the listed and unlisted species;
+&emsp;(A) such species so closely resembles in appearance, at the point in question, a specieswhich has been listed pursuant to such section that enforcement personnel would have substantial difficulty in attempting to differentiate between the listed and unlisted species;
 
 &emsp;(B) the effect of this substantial difficulty is an additional threat to an endangered or threatened species; and
 
@@ -224,7 +224,7 @@ If, in the case of any regulation proposed by the Secretary under the authority 
 
 #### References in Text
 
-Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in theAppendix to Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsecs. (b)(4), (8), (e)(C), and (g)(1), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. This chapter, referred to in subsec. (b)(3)(B)(iii)(II), was in the original "the Act" and was translated as if it read "this Act", to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

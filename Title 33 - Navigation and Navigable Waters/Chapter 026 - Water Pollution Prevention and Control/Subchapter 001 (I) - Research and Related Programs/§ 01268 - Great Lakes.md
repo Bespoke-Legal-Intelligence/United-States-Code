@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) "Program Office" means the Great Lakes National Program Office established by this section;
 
-&emsp;&emsp;(E) "Research Office" means the Great Lakes Research Office established by subsection (d) of this section;
+&emsp;&emsp;(E) "Research Office" means the Great Lakes Research Office established by subsection (d);
 
 &emsp;&emsp;(F) "area of concern" means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
 
@@ -124,7 +124,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (B) Focus areas
 
-&emsp;&emsp;The Initiative shall prioritize programs and projects carried out in coordination with non-Federal partners and programs and projects that address priority areas each fiscal year, including—
+&emsp;&emsp;In carrying out the Initiative, the Administrator shall prioritize programs and projects, to be carried out in coordination with non-Federal partners, that address the priority areas described in the Initiative Action Plan, including—
 
 &emsp;&emsp;&emsp;(i) the remediation of toxic substances and areas of concern;
 
@@ -138,55 +138,81 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (C) Projects
 
-&emsp;&emsp;Under the Initiative, the Agency shall collaborate with Federal partners, including the Great Lakes Interagency Task Force, to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) the ability to achieve strategic and measurable environmental outcomes that implement the Great Lakes Action Plan and the Great Lakes Water Quality Agreement;
+&emsp;&emsp;&emsp;In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order No. 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
 
-&emsp;&emsp;&emsp;(ii) the feasibility of—
+&emsp;&emsp;&emsp;&emsp;(I) the ability to achieve strategic and measurable environmental outcomes that implement the Initiative Action Plan and the Great Lakes Water Quality Agreement;
 
-&emsp;&emsp;&emsp;&emsp;(I) prompt implementation;
+&emsp;&emsp;&emsp;&emsp;(II) the feasibility of—
 
-&emsp;&emsp;&emsp;&emsp;(II) timely achievement of results; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) prompt implementation;
 
-&emsp;&emsp;&emsp;&emsp;(III) resource leveraging; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) timely achievement of results; and
 
-&emsp;&emsp;&emsp;(iii) the opportunity to improve interagency and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) resource leveraging; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the opportunity to improve interagency, intergovernmental, and interorganizational coordination and collaboration to reduce duplication and streamline efforts.
+
+#### (ii) Outreach
+
+&emsp;&emsp;&emsp;In selecting the best combination of programs and projects for Great Lakes protection and restoration under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+
+#### (iii) Harmful algal bloom coordinator
+
+&emsp;&emsp;&emsp;The Administrator shall designate a point person from an appropriate Federal partner to coordinate, with Federal partners and Great Lakes States, Indian tribes, and other non-Federal stakeholders, projects and activities under the Initiative involving harmful algal blooms in the Great Lakes.
 
 #### (D) Implementation of projects
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+&emsp;&emsp;&emsp;Subject to subparagraph (J)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
 
-&emsp;&emsp;&emsp;&emsp;(I) Federal projects; and
+&emsp;&emsp;&emsp;&emsp;(I) Federal projects;
 
-&emsp;&emsp;&emsp;&emsp;(II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.
+&emsp;&emsp;&emsp;&emsp;(II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations; and
+
+&emsp;&emsp;&emsp;&emsp;(III) operations and activities of the Program Office, including remediation of sediment contamination in areas of concern.
 
 #### (ii) Transfer of funds
 
 &emsp;&emsp;&emsp;With amounts made available for the Initiative each fiscal year, the Administrator may—
 
-&emsp;&emsp;&emsp;&emsp;(I) transfer not more than the total amount appropriated under subparagraph (G)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
+&emsp;&emsp;&emsp;&emsp;(I) transfer not more than the total amount appropriated under subparagraph (J)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
 
 &emsp;&emsp;&emsp;&emsp;(II) enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
+
+#### (iii) Agreements with non-Federal entities
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The Administrator, or the head of any other Federal department or agency receiving funds under clause (ii)(I), may make a grant to, or otherwise enter into an agreement with, a qualified non-Federal entity, as determined by the Administrator or the applicable head of the other Federal department or agency receiving funds, for planning, research, monitoring, outreach, or implementation of a project selected under subparagraph (C), to support the Initiative Action Plan or the Great Lakes Water Quality Agreement.
+
+#### (II) Qualified non-Federal entity
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, a qualified non-Federal entity may include a governmental entity, nonprofit organization, institution, or individual.
 
 #### (E) Scope
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Projects shall be carried out under the Initiative on multiple levels, including—
+&emsp;&emsp;&emsp;Projects may be carried out under the Initiative on multiple levels, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) Great Lakes-wide; and
+&emsp;&emsp;&emsp;&emsp;(I) locally;
 
-&emsp;&emsp;&emsp;&emsp;(II) Great Lakes basin-wide.
+&emsp;&emsp;&emsp;&emsp;(II) Great Lakes-wide; or
+
+&emsp;&emsp;&emsp;&emsp;(III) Great Lakes basin-wide.
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which amounts are made available from—
+&emsp;&emsp;&emsp;No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which financial assistance is received—
 
-&emsp;&emsp;&emsp;&emsp;(I) a State water pollution control revolving fund established under subchapter VI; or
+&emsp;&emsp;&emsp;&emsp;(I) from a State water pollution control revolving fund established under subchapter VI;
 
-&emsp;&emsp;&emsp;&emsp;(II) a State drinking water revolving loan fund established under section 300j–12 of title 42.
+&emsp;&emsp;&emsp;&emsp;(II) from a State drinking water revolving loan fund established under section 300j–12 of title 42; or
+
+&emsp;&emsp;&emsp;&emsp;(III) pursuant to the Water Infrastructure Finance and Innovation Act of 2014 (33 U.S.C. 3901 et seq.).
 
 #### (F) Activities by other Federal agencies
 
@@ -196,9 +222,45 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(ii) identify new activities and projects to support the environmental goals of the Initiative.
 
-#### (G) Funding
+#### (G) Revision of Initiative Action Plan
 
-&emsp;&emsp;There are authorized to be appropriated to carry out this paragraph for fiscal year 2016, $300,000,000.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not less often than once every 5 years, the Administrator, in conjunction with the Great Lakes Interagency Task Force, shall review, and revise as appropriate, the Initiative Action Plan to guide the activities of the Initiative in addressing the restoration and protection of the Great Lakes system.
+
+#### (ii) Outreach
+
+&emsp;&emsp;&emsp;In reviewing and revising the Initiative Action Plan under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+
+#### (H) Monitoring and reporting
+
+&emsp;&emsp;The Administrator shall—
+
+&emsp;&emsp;&emsp;(i) establish and maintain a process for monitoring and periodically reporting to the public on the progress made in implementing the Initiative Action Plan;
+
+&emsp;&emsp;&emsp;(ii) make information about each project carried out under the Initiative Action Plan available on a public website; and
+
+&emsp;&emsp;&emsp;(iii) provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a yearly detailed description of the progress of the Initiative and amounts transferred to participating Federal departments and agencies under subparagraph (D)(ii).
+
+#### (I) Initiative Action Plan defined
+
+&emsp;&emsp;In this paragraph, the term "Initiative Action Plan" means the comprehensive, multiyear action plan for the restoration of the Great Lakes, first developed pursuant to the Joint Explanatory Statement of the Conference Report accompanying the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 (Public Law 111–88).
+
+#### (J) Funding
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—
+
+&emsp;&emsp;&emsp;&emsp;(I) this section;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Initiative Action Plan; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the Great Lakes Water Quality Agreement.
 
 #### (8) Administrator's responsibility
 
@@ -270,7 +332,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project;
 
-&emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a written project agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
+&emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a writtenproject agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
 
 &emsp;&emsp;&emsp;(iv) unless the Administrator provides assurance that the Agency has conducted a reasonable inquiry to identify potentially responsible parties connected with the site.
 
@@ -334,7 +396,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (G) Coordination
 
-&emsp;&emsp;In carrying out projects under this paragraph, the Administrator shall coordinatewith the Secretary of the Army, and with the Governors of States in which the projects are located, to ensure that Federal and State assistance for remediation in areas of concern is used as efficiently as practicable.
+&emsp;&emsp;In carrying out projects under this paragraph, the Administrator shall coordinate with the Secretary of the Army, and with the Governors of States in which the projects are located, to ensure that Federal and State assistance for remediation in areas of concern is used as efficiently as practicable.
 
 #### (H) Authorization of appropriations
 
@@ -354,7 +416,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator, acting through the Program Office and in coordination with States, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
+&emsp;&emsp;The Administrator, acting through the Program Office and in coordination withStates, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
 
 #### (B) Authorization of appropriations
 
@@ -434,13 +496,35 @@ There are authorized to be appropriated to the Administrator to carry out this s
 
 &emsp;(3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, §426, Dec. 18, 2015, 129 Stat. 2581.)
+(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, §426, Dec. 18, 2015, 129 Stat. 2581; Pub. L. 114–322, title IV, §5005, Dec. 16, 2016, 130 Stat. 1889.)
+
+#### References in Text
+
+Executive Order No. 13340, referred to in subsec. (c)(7)(C)(i), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of this title.
+
+The Water Infrastructure Finance and Innovation Act of 2014, referred to in subsec. (c)(7)(E)(ii)(III), is subtitle C (§§5021–5035) of title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1332, which is classified generally to chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+
+The Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, referred to in subsec. (c)(7)(I), is Pub. L. 111–88, div. A, Oct. 30, 2009, 123 Stat. 2904. The Conference Report accompanying the Act (H.R. 2996) is H. Rept. No. 111–316, 111th Cong., 1st Sess.
 
 #### Codification
 
 November 16, 1990, referred to in subsec. (c)(3)(C), was in the original "the enactment of this Act", and "the date of the enactment of this title" which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(7)(B), (C). Pub. L. 114–322, §5005(1), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to focus areas in which the Initiative should prioritize programs and projects, and the selection of programs and projects for Great Lakes protection and restoration.
+
+Subsec. (c)(7)(D)(i). Pub. L. 114–322, §5005(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+
+&emsp;"(I) Federal projects; and
+
+&emsp;"(II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations."
+
+Subsec. (c)(7)(D)(ii)(I). Pub. L. 114–322, §5005(2)(B), substituted "(J)(i)" for "(G)(i)".
+
+Subsec. (c)(7)(D)(iii). Pub. L. 114–322, §5005(2)(C), added cl. (iii).
+
+Subsec. (c)(7)(E) to (J). Pub. L. 114–322, §5005(3), added subpars. (E) to (J) and struck out former subpars. (E) to (G) which related to scope of projects, activities by other Federal agencies, and funding for fiscal year 2016.
 
 <b>2015</b>—Subsec. (c)(7). Pub. L. 114–113 added par. (7) and struck out former par. (7), which required a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes.
 
@@ -630,7 +714,7 @@ Site selection for projects.—In selecting the sites for the technology project
 
 &emsp;"(3)
 
-Non-federal share.—Non-Federal interests shall contribute 35 percent of costs of projects underthis subsection. Such costs may be paid in cash or by providing in-kind contributions.
+Non-federal share.—Non-Federal interests shall contribute 35 percent of costs of projects under this subsection. Such costs may be paid in cash or by providing in-kind contributions.
 
 "(c)
 
@@ -678,11 +762,11 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
 
-&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
+&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineerswithin the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
 
 (c) Management Principles for Regional Collaboration of National Significance. To further the policy described in section 1, the Task Force shall recognize and apply key principles and foster conditions to ensure successful collaboration. To that end, the Environmental Protection Agency will coordinate the development of a set of principles of successful collaboration.
 
-Sec. 4. <i>Great Lakes National Program Office</i>. The Great Lakes National Program Office of the EnvironmentalProtection Agency shall assist the Task Force and the Working Group in the performance of their functions. The Great Lakes National Program Manager shall serve as chair of the Working Group.
+Sec. 4. <i>Great Lakes National Program Office</i>. The Great Lakes National Program Office of the Environmental Protection Agency shall assist the Task Force and the Working Group in the performance of their functions. The Great Lakes National Program Manager shall serve as chair of the Working Group.
 
 Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, regulatory, and legislative proposals. Nothing in this order shall be construed to affect the statutory authority or obligations of any Federal agency or any bi-national agreement with Canada.
 

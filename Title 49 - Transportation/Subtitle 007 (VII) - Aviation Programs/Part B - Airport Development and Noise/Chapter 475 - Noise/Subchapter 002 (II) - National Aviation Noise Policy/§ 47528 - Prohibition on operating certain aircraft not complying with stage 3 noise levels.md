@@ -76,7 +76,7 @@ In general.—The Secretary shall permit a person to operate after December 31, 
 
 &emsp;(2)
 
-Procedure To Be Published.—Not later than 30 days after the date of the enactment ofthis subsection, the Secretary shall establish and publish a procedure to implement paragraph (1) through the use of categorical waivers, ferry permits, or other means.
+Procedure To Be Published.—Not later than 30 days after the date of the enactment of this subsection, the Secretary shall establish and publish a procedure to implement paragraph (1) through the use of categorical waivers, ferry permits, or other means.
 
 (g)
 
@@ -120,7 +120,7 @@ Nov. 5, 1990, Pub. L. 101–508, 104 Stat. 1388–382, §9308(i); added Oct. 28,
 
 In subsection (e), the words "the State of" are omitted as surplus. The words "place" and "places" are substituted for "point" and "points" for consistency in title the revised title.
 
-In subsection (e)(1), the words "the operation of" are omitted as surplus. The words "places only in Hawaii" are substituted for "two or more points, all of which are within the State of Hawaii" to eliminate unnecessary words.
+In subsection (e)(1), the words "the operation of" are omitted as surplus. The words "places only in Hawaii"are substituted for "two or more points, all of which are within the State of Hawaii" to eliminate unnecessary words.
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [261\.](%C2%A7%2000261%20-%20Reference%20to%20chapters%201003%2C%201005%2C%20and%201007.md) | Reference to chapters 1003, 1005, and 1007. |
+| 261\.<sup>1</sup> | Reference to chapters 1003, 1005, and 1007. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,9 +22,11 @@
 
 <b>1958</b>—Pub. L. 85–861, §1(6), Sept. 2, 1958, 72 Stat. 1439, added items 270, 271, 272 and 279.
 
+<i><sup>1</sup></i><i> So in original. Probably should be section "241". Section renumbered by Pub. L. 114–328 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00261 - Reference to chapters 1003, 1005, and 1007](%C2%A7%2000261%20-%20Reference%20to%20chapters%201003%2C%201005%2C%20and%201007.md)
+- [&sect; 00241 - Reference to chapters 1003, 1005, and 1007](%C2%A7%2000241%20-%20Reference%20to%20chapters%201003%2C%201005%2C%20and%201007.md)

@@ -206,7 +206,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### (3) Implementation and notification
 
-&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and EnergyAct of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
+&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
 
 #### (j) Improved administrative efficiency and effectiveness
 
@@ -248,7 +248,7 @@ The Agricultural Act of 2014, referred to in subsec. (k)(3), is Pub. L. 113–79
 
 #### Codification
 
-The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by Pub. L. 110–246, §2707(a), was based on Pub. L. 99–198, title XII, §1243(a), (c), (d), as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008, 1009.
+The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by Pub. L.110–246, §2707(a), was based on Pub. L. 99–198, title XII, §1243(a), (c), (d), as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008, 1009.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

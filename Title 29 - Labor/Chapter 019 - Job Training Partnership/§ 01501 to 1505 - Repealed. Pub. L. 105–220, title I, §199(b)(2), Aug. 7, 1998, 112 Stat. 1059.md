@@ -34,5 +34,5 @@ Pub. L. 99–496, §1, Oct. 16, 1986, 100 Stat. 1261, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 97–300, §1, Oct. 13, 1982, 96 Stat. 1322, which provided that Pub. L. 97–300 (enacting this chapter)could be cited as the "Job Training Partnership Act", was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+Pub. L. 97–300, §1, Oct. 13, 1982, 96 Stat. 1322, which provided that Pub. L. 97–300 (enacting this chapter) could be cited as the "Job Training Partnership Act", was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 

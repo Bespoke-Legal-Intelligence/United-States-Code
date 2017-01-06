@@ -32,7 +32,7 @@ Subject to subtitle B of the Consumer Protection Financial Protection Act of 201
 
 #### (b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it bylaw. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
+For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
@@ -78,7 +78,7 @@ Subsec. (a)(1). Pub. L. 111–203, §1085(4)(A)(ii), added par. (1) and struck o
 
 &emsp;"(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreignbanks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board; and
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 

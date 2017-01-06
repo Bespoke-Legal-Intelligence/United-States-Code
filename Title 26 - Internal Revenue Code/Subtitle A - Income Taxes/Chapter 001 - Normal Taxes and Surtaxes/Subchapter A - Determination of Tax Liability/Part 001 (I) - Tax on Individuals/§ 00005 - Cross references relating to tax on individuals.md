@@ -36,7 +36,7 @@ Subsec. (b)(2), (3). Pub. L. 99–514, §141(b)(2), struck out par. (2) which re
 
 Subsec. (a)(4), (5). Pub. L. 95–600, §§401(b)(2), 421(e)(1), redesignated par. (5) as (4) and substituted "taxpayers other than corporations, see section 55" for "preferences, see section 56". Former par. (4) redesignated (3).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 redesignated pars. (2), (3), and (4), as (1), (2), (3), respectively, and struck outformer par. (1) which referred to section 632 for limitation on tax attributable to sales of oil or gas properties and par. (5) which referred to section 1347 for limitation on tax attributable to claims against the U.S. involving acquisition of property.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 redesignated pars. (2), (3), and (4), as (1), (2), (3), respectively, and struck out former par. (1) which referred to section 632 for limitation on tax attributable to sales of oil or gas properties and par. (5) which referred to section 1347 for limitation on tax attributable to claims against the U.S. involving acquisition of property.
 
 <b>1969</b>—Subsec. (a)(5). Pub. L. 91–172, §301(b)(2), added par. (5).
 

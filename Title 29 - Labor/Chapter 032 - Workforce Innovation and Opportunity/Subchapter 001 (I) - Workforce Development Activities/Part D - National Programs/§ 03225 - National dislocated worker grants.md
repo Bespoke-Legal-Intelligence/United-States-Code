@@ -30,7 +30,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the Governor of any State to which a substantial number of workers from an area in which an emergency or disaster has been declared or otherwise recognized have relocated;
 
-&emsp;&emsp;(C) to provide additional assistance to a State board or local board for eligible dislocated workers in a case in which the State board or local board has expended the fundsprovided under this section to carry out activities described in subparagraphs (A) and (B) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
+&emsp;&emsp;(C) to provide additional assistance to a State board or local board for eligible dislocated workers in a case in which the State board or local board has expended the funds provided under this section to carry out activities described in subparagraphs (A) and (B) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
 
 &emsp;&emsp;(D) to provide additional assistance to a State board or local board serving an area where—
 
@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a dislocated worker;
 
-&emsp;&emsp;&emsp;(ii) a civilian employee of the Department of Defense or the Department of Energy employed at a military installation that is being closed, or that will undergo realignment, within the next 24 months after the date of the determination of eligibility;
+&emsp;&emsp;&emsp;(ii) a civilian employee of the Department of Defense or the Department of Energy employed at a military installation that is being closed, or that will undergorealignment, within the next 24 months after the date of the determination of eligibility;
 
 &emsp;&emsp;&emsp;(iii) an individual who is employed in a nonmanagerial position with a Department of Defense contractor, who is determined by the Secretary of Defense to be at risk of termination from employment as a result of reductions in defense expenditures, and whose employer is converting operations from defense to nondefense applications in order to prevent worker layoffs; or
 

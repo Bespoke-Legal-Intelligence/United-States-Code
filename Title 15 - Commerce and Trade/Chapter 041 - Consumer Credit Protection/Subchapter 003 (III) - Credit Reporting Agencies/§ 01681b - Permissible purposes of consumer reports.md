@@ -50,7 +50,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;&emsp;(i) the person has complied with paragraph (2) with respect to the consumer report, and the person will comply with paragraph (3) with respect to the consumer report if paragraph (3) becomes applicable; and
 
-&emsp;&emsp;&emsp;(ii) information from the consumer report will not be used in violation of any applicable Federal or State equal employment opportunity law or regulation; and
+&emsp;&emsp;&emsp;(ii) information from the consumer report will not be used in violation of anyapplicable Federal or State equal employment opportunity law or regulation; and
 
 &emsp;&emsp;(B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer's rights under this subchapter, as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
 
@@ -76,7 +76,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
 
-&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 oftitle 49, or a position subject to safety regulation by a State transportation agency; and
+&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
 
 &emsp;&emsp;&emsp;(ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
 
@@ -190,7 +190,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 #### (3) Information regarding inquiries
 
-&emsp;Except as provided in section 1681g(a)(5) of this title, a consumer reporting agency shall not furnish to any person a record of inquiries in connection with a credit or insurance transaction that is not initiated by a consumer.
+&emsp;Except as provided in section 1681g(a)(5) of this title, a consumer reporting agency shallnot furnish to any person a record of inquiries in connection with a credit or insurance transaction that is not initiated by a consumer.
 
 #### (d) Reserved
 
@@ -286,7 +286,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
 
-&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and HealthInformation Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
+&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
 &emsp;&emsp;(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,<sup>1</sup> or described in section 6802(e) of this title; or
 
@@ -312,7 +312,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 1934, ch. 750, 48 Stat. 1216, whichis classified principally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by Pub. L. 108–159, title II, §211(c), Dec. 4, 2003, 117 Stat. 1970, and, as so amended, no longer contains a par. (3).
 
@@ -428,9 +428,13 @@ Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
+
+#### Effective Date
+
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
 #### Public Awareness Campaign
 

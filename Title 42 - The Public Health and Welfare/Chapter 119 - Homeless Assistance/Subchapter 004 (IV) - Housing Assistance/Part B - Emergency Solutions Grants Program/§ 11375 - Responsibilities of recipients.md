@@ -6,7 +6,7 @@
 
 (2) Each recipient under this part that is a State shall be required to supplement the assistance provided under this part with an amount of funds from sources other than this part equal to the difference between the amount received under this part and $100,000. If the amount received by the State is $100,000 or less, the State may not be required to supplement the assistance provided under this part.
 
-(3) In calculating the amount of supplemental funds provided by a recipient under this part, a recipient may include the value of any donated material or building, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteersto carry out the program of the recipient at a rate determined by the Secretary.
+(3) In calculating the amount of supplemental funds provided by a recipient under this part, a recipient may include the value of any donated material or building, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary.
 
 #### (b) Administration of assistance
 
@@ -32,11 +32,11 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;&emsp;(B) other Federal, State, local, and private assistance available for such individuals;
 
-&emsp;(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) of this section in a manner so that local governments, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient State with such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2) of this section;
+&emsp;(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) in a manner so that local governments, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient State with such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2);
 
 &emsp;(5) it will develop and implement procedures to ensure the confidentiality of records pertaining to any individual provided family violence prevention or treatment services under any project assisted under this part and that the address or location of any family violence shelter project assisted under this part will, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public;
 
-&emsp;(6) activities undertaken by the recipient with assistance under this part are consistent with any housing strategy submitted by the grantee in accordance with section 12705 of this title; and
+&emsp;(6) activities undertaken by the recipient with assistance under this part are consistent with any housing strategy submitted by thegrantee in accordance with section 12705 of this title; and
 
 &emsp;(7) to the maximum extent practicable, it will involve, through employment, volunteer services, or otherwise, homeless individuals and families in constructing, renovating, maintaining, and operating facilities assisted under this part, in providing services assisted under this part, and in providing services for occupants of facilities assisted under this part.
 
@@ -68,7 +68,7 @@ A prior section 416 of Pub. L. 100–77 was renumbered section 417 and is classi
 
 <b>1996</b>—Subsec. (c)(4). Pub. L. 104–330 struck out "Indian tribes," after "local governments,".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–550, §1402(b), in par. (1), substituted a semicolon for period at end, in par. (3),struck out "and" at end, in par. (4), inserted "it will" after "State," and struck out "and" at end, in par. (5), inserted "it will" before "develop" and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted "; and" for period at end, and added par. (7).
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §1402(b), in par. (1), substituted a semicolon for period at end, in par. (3), struck out "and" at end, in par. (4), inserted "it will" after "State," and struck out "and" at end, in par. (5), inserted "it will" before "develop" and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted "; and" for period at end, and added par. (7).
 
 Subsec. (d). Pub. L. 102–550, §1402(c), added subsec. (d).
 

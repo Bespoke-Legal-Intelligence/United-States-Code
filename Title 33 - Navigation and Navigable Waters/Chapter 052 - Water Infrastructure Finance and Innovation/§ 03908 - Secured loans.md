@@ -62,11 +62,17 @@
 
 #### (7) Fees
 
-&emsp;The Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+
+#### (B) Financing fees
+
+&emsp;&emsp;On request of an eligible entity, the Secretary or the Administrator, as applicable, shall allow the fees under subparagraph (A) to be financed as part of the loan.
 
 #### (8) Non-Federal share
 
-&emsp;The proceeds of a secured loan under this section may be used to pay any non-Federalshare of project costs required if the loan is repayable from non-Federal funds.
+&emsp;The proceeds of a secured loan under this section may be used to pay any non-Federal share of project costs required if the loan is repayable from non-Federal funds.
 
 #### (9) Maximum Federal involvement
 
@@ -83,6 +89,10 @@
 &emsp;&emsp;&emsp;(ii) that includes among its beneficiaries a federally recognized Indian tribe; and
 
 &emsp;&emsp;&emsp;(iii) for which the authorized Federal share of the total project costs is greater than the amount described in subparagraph (A).
+
+#### (10) Credit
+
+&emsp;Any eligible project costs incurred and the value of any integral in-kind contributions made before receipt of assistance under this chapter shall be credited toward the 51 percent of project costs to be provided by sources of funding other than a secured loan under this chapter (as described in paragraph (2)(A)).
 
 #### (c) Repayment
 
@@ -148,13 +158,19 @@
 
 #### (1) In general
 
-&emsp;The Secretary or the Administrator, as applicable, may provide a loan guarantee to a lender in lieu of making a secured loan under this section, if the Secretary or the Administrator, as applicable, determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
+&emsp;The Secretary or the Administrator, as applicable, may provide a loan guarantee to alender in lieu of making a secured loan under this section, if the Secretary or the Administrator, as applicable, determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
 
 #### (2) Terms
 
 &emsp;The terms of a loan guarantee provided under this subsection shall be consistent with the terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
 
-(Pub. L. 113–121, title V, §5029, June 10, 2014, 128 Stat. 1338.)
+(Pub. L. 113–121, title V, §5029, June 10, 2014, 128 Stat. 1338; Pub. L. 114–322, title IV, §5008(c), Dec. 16, 2016, 130 Stat. 1897.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(7). Pub. L. 114–322, §5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B).
+
+Subsec. (b)(10). Pub. L. 114–322, §5008(c)(2), added par. (10).
 
 #### "Secretary" Defined
 

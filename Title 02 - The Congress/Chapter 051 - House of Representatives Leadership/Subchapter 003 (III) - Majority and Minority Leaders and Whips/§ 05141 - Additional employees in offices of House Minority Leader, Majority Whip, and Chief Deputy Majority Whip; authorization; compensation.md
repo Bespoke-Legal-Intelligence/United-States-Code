@@ -2,7 +2,7 @@
 
 (a) Subject to the provisions of subsection (b), effective March 1, 1977, there shall be two additional employees in the office of the minority leader, and one additional employee each in the offices of the majority whip and the chief deputy majority whip.
 
-(b) The annual rate of compensation for any individual employed under subsection (a) shall not exceed the annual rate of basic pay of level V of the Executive Schedule of section 5316 of title 5, and until otherwise provided by law such compensation as may be necessary shall be paid from the applicable accounts of the House of Representatives.
+(b) The annual rate of compensation for any individual employed under subsection (a) shall not exceed the annual rate of basic pay of level V of the Executive Schedule of section 5316 of title 5, and until otherwise provided by law suchcompensation as may be necessary shall be paid from the applicable accounts of the House of Representatives.
 
 (Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 104–53, title I, §103, Nov. 19, 1995, 109 Stat. 520; Pub. L. 104–186, title II, §204(15)(A), Aug. 20, 1996, 110 Stat. 1732.)
 

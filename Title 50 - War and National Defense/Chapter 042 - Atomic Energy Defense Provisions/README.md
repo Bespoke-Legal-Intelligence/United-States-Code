@@ -154,6 +154,7 @@
 | [2657\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002657%20-%20Annual%20report%20and%20certification%20on%20status%20of%20security%20of%20atomic%20energy%20defense%20facilities.md) | Annual report and certification on status of security of atomic energy defense facilities. |
 | 2658, 2659. Repealed. |  |
 | [2660\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002660%20-%20Design%20and%20use%20of%20prototypes%20of%20nuclear%20weapons%20for%20intelligence%20purposes.md) | Design and use of prototypes of nuclear weapons for intelligence purposes. |
+| [2661\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002661%20-%20Protection%20of%20certain%20nuclear%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain nuclear facilities and assets from unmanned aircraft. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -245,6 +246,7 @@
 | :--- | ---: |
 | [2771\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002771%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73131%28u%29%281%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202184.md) | Repealed. |
 | [2772\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002772%20-%20Quarterly%20reports%20on%20financial%20balances%20for%20atomic%20energy%20defense%20activities.md) | Quarterly reports on financial balances for atomic energy defense activities. |
+| [2773\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002773%20-%20Independent%20acquisition%20project%20reviews%20of%20capital%20assets%20acquisition%20projects.md) | Independent acquisition project reviews of capital assets acquisition projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

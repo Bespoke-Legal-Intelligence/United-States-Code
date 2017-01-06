@@ -52,17 +52,27 @@
 
 &emsp;(3) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensation shall be accomplished by the adjutant general of the jurisdiction concerned;
 
-&emsp;(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned; and
+&emsp;(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;
 
-&emsp;(5) a technician shall be notified in writing of the termination of his employment as a technician and, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment, such notification shall be given at least 30 days before the termination date of such employment.
+&emsp;(5) with respect to an appeal concerning any activity not covered by paragraph (4), the provisions of sections 7511, 7512, and 7513 of title 5, and section 717 of the Civil Rights Act of 1991 <sup>1</sup> (42 U.S.C. 2000e–16) shall apply; and
 
-(g) Sections 2108, 3502, 7511, and 7512 of title 5 do not apply to a person employed under this section.
+&emsp;(6) a technician shall be notified in writing of the termination of his employment as a technician and, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment, such notification shall be given at least 30 days before the termination date of such employment.
+
+(g)(1) Except as provided in subsection (f), sections 2108, 3502, 7511, and 7512 of title 5 do not apply to a person employed under this section.
+
+(2) In addition to the sections referred to in paragraph (1), section 6323(a)(1) of title 5 also does not apply to a person employed under this section who is performing active Guard and Reserve duty (as that term is defined in section 101(d)(6) of title 10).
 
 (h) Notwithstanding sections 5544(a) and 6101(a) of title 5 or any other provision of law, the Secretary concerned may prescribe the hours of duty for technicians. Notwithstanding sections 5542 and 5543 of title 5 or any other provision of law, such technicians shall be granted an amount of compensatory time off from their scheduled tour of duty equal to the amount of any time spent by them in irregular or overtime work, and shall not be entitled to compensation for such work.
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195.)
+(j) In this section:
+
+&emsp;(1) The term "military pay status" means a period of service where the amount of pay payable to a technician for that service is based on rates of military pay provided for under title 37.
+
+&emsp;(2) The term "fitness for duty in the reserve components" refers only to military-unique service requirements that attend to military service generally, including service in the reserve components or service on active duty.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195; Pub. L. 114–328, div. A, title V, §§512(a), (b), 513, Dec. 23, 2016, 130 Stat. 2112, 2113.)
 
 Historical and Revision Notes
 
@@ -126,7 +136,19 @@ In subsection (e), the words "Funds appropriated by Congress" are substituted fo
 
 In subsection (f), the words "authorized to be employed under this section" are substituted for the words "authorized to be employed". The words "person to employ them" are substituted for the words "by whom they shall be employed". The words "by regulations" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
+#### References in Text
+
+Section 717 of the Civil Rights Act of 1991, referred to in subsec. (f)(5), probably means section 717 of the Civil Rights Act of 1964, Pub. L. 88–352, title VII, as added Pub. L. 92–261, §11, Mar. 24, 1972, 86 Stat. 111, which is classified to section 2000e–16 of Title 42, The Public Health and Welfare. The Civil Rights Act of 1991 does not contain a section 717.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(4). Pub. L. 114–328, §512(a)(1)(A), substituted "when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;" for "; and".
+
+Subsec. (f)(5), (6). Pub. L. 114–328, §512(a)(1)(B), (C), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (g). Pub. L. 114–328, §§512(a)(2), 513, designated existing provisions as par. (1), substituted "Except as provided in subsection (f), sections" for "Sections", and added par. (2).
+
+Subsec. (j). Pub. L. 114–328, §512(b), added subsec. (j).
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §525(d)(1)(A), substituted "organizing, administering, instructing, or" for "administration and".
 
@@ -210,7 +232,7 @@ Pub. L. 99–661, div. A, title VI, §654, Nov. 14, 1986, 100 Stat. 3890, provid
 
 "(a)
 
-Civil Service Retirement Credit.—A period of service performed under section 709 of title 32, United States Code (or under a prior corresponding provision of law), before January 1, 1969, which would not otherwise be creditable under subchapter III of chapter 83 of title 5, United States Code, because of the antepenultimate sentence of section 8332(b) of such title, shall be considered creditable service under such subchapter, notwithstanding such sentence, in the case of an individual described in subsection (b).
+Civil Service Retirement Credit.—A period of service performed under section 709 of title 32, UnitedStates Code (or under a prior corresponding provision of law), before January 1, 1969, which would not otherwise be creditable under subchapter III of chapter 83 of title 5, United States Code, because of the antepenultimate sentence of section 8332(b) of such title, shall be considered creditable service under such subchapter, notwithstanding such sentence, in the case of an individual described in subsection (b).
 
 "(b)
 
@@ -292,7 +314,7 @@ Pub. L. 90–486, §8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 &emsp;"(1) If the technician is receiving a rate of basic compensation which is less than the minimum rate of the appropriate grade of the General Schedule, or which is less than the minimum rate of the appropriate grade or compensation level of the appropriate prevailing rate schedule, as applicable, in which his position is placed, his basic compensation shall be increased to that minimum rate.
 
-&emsp;"(2) If the technician is receiving a rate of basic compensation which is equal to a rate of the appropriate grade of the General Schedule, or which is equal to a rate of the appropriate grade or compensation level under the appropriate prevailing rate schedule, as applicable, in which his position is placed, he shall receive basic compensation at thatrate of the General Schedule, or at that rate under the prevailing rate schedule, as applicable.
+&emsp;"(2) If the technician is receiving a rate of basic compensation which is equal to a rate of the appropriate grade of the General Schedule, or which is equal to a rate of the appropriate grade or compensation level under the appropriate prevailing rate schedule, as applicable, in which his position is placed, he shall receive basic compensation at that rate of the General Schedule, or at that rate under the prevailing rate schedule, as applicable.
 
 &emsp;"(3) If the technician is receiving a rate of basic compensation which is between two rates of the appropriate grade of the General Schedule, or which is between two rates of the appropriate grade or compensation level under the appropriate prevailing rate schedule, as applicable, in which his position is placed, he shall receive basic compensation at the higher of those two rates under the General Schedule or appropriate prevailing rate schedule, as applicable.
 
@@ -409,4 +431,6 @@ June 24, 1948, ch. 632, 62 Stat. 662.
 July 30, 1947, ch. 357, title I, 61 Stat. 564.
 
 July 16, 1946, ch. 583, 60 Stat. 556.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

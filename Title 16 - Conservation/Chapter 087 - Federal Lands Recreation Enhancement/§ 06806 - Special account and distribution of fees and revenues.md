@@ -38,7 +38,7 @@ Revenues collected from the sale of the National Parks and Federal Recreational 
 
 #### (e) Distribution of regional multientity pass revenues
 
-Revenues collected from the sale of a regional multientity pass authorized under section6804(d) of this title shall be deposited in each participating Federal land management agency's special account in accordance with the terms of the region multientity pass agreement for the regional multientity pass.
+Revenues collected from the sale of a regional multientity pass authorized under section 6804(d) of this title shall be deposited in each participating Federal land management agency's special account in accordance with the terms of the region multientity pass agreement for the regional multientity pass.
 
 (Pub. L. 108–447, div. J, title VIII, §807, Dec. 8, 2004, 118 Stat. 3388.)
 

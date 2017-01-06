@@ -196,7 +196,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(H) A description of how the strategy will seek to achieve the specific targets described in subsection (a) and other targets, as appropriate.
 
-&emsp;&emsp;(I) A description of, and rationale for, the timetable for annual global treatment targets with country-level estimates of numbers of persons in need of antiretroviral treatment, country-level benchmarks for United States support for assistance for antiretroviral treatment, and numbers of persons enrolled in antiretroviral treatment programs receiving United States support. If global benchmarks are not achieved within the reporting period, the report shall include a description of steps being taken to ensure that global benchmarks will be achieved and a detailed breakdown and justification of spending priorities in countries in which benchmarks are not being met, including a description of other donor or national support for antiretroviral treatment in the country, if appropriate.
+&emsp;&emsp;(I) A description of, and rationale for, the timetable for annual global treatment targets with country-level estimates of numbers of persons in need of antiretroviral treatment, country-level benchmarks for United States support for assistance for antiretroviral treatment, and numbers of persons enrolled in antiretroviral treatment programs receiving United States support. If global benchmarks are not achieved within the reporting period, the report shall include a description of steps being taken to ensure that global benchmarks will be achieved and a detailed breakdown and justification of spending priorities in countries in whichbenchmarks are not being met, including a description of other donor or national support for antiretroviral treatment in the country, if appropriate.
 
 &emsp;&emsp;(J) A description of how operations research is addressed in the strategy and how such research can most effectively be integrated into care, treatment, and prevention activities in order to—
 
@@ -366,7 +366,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (B) Dissemination guidance
 
-&emsp;&emsp;The Global AIDS Coordinator shall develop guidance to ensure timely submission and dissemination of significant information regarding best practices with respect to global AIDS programs.
+&emsp;&emsp;The Global AIDS Coordinator shall develop guidance to ensure timely submissionand dissemination of significant information regarding best practices with respect to global AIDS programs.
 
 #### (f) Inspectors General
 
@@ -400,7 +400,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (iv) Subsequent plans
 
-&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completednot later than 30 days before each of the fiscal years 2015 through 2018, respectively.
+&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2018, respectively.
 
 #### (2) Coordination
 

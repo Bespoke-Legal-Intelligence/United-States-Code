@@ -32,7 +32,7 @@ In awarding grants under this section, the Secretary shall—
 
 &emsp;&emsp;(B) In the case of an institution of higher education that provides institutionally owned or operated housing for students attending the institution, the integration of students with intellectual disabilities into the housing offered to nondisabled students.
 
-&emsp;&emsp;(C) The involvement of students attending the institution of higher education who arestudying special education, general education, vocational rehabilitation, assistive technology, or related fields in the model program.
+&emsp;&emsp;(C) The involvement of students attending the institution of higher education who are studying special education, general education, vocational rehabilitation, assistive technology, or related fields in the model program.
 
 #### (d) Use of funds
 
@@ -78,5 +78,5 @@ Not later than five years after the date of the first grant awarded under this s
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(6), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(6), is title VI of Pub. L. 91–230,Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

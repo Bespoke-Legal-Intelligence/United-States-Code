@@ -48,7 +48,7 @@ Subsec. (a). Pub. L. 107–107, §361(a), designated existing provisions as par.
 
 "(1) The Secretary of State shall submit an annual report on the disposition of all excess supplies transferred by the Secretary of Defense to the Secretary of State under this section during the preceding year.
 
-"(2) Such reports shall be submitted to the Committees on Armed Services and on Foreign Relations of theSenate and the Committees on Armed Services and on Foreign Affairs of the House of Representatives.
+"(2) Such reports shall be submitted to the Committees on Armed Services and on Foreign Relations of the Senate and the Committees on Armed Services and on Foreign Affairs of the House of Representatives.
 
 "(3) Such reports shall be submitted not later than June 1 of each year."
 

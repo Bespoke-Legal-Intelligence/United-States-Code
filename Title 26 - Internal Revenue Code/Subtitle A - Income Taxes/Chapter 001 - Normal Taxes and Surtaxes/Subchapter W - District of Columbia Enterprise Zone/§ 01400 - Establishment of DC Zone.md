@@ -42,7 +42,7 @@ For purposes of this subchapter and for purposes of applying subchapter U with r
 
 &emsp;The designation under subchapter U of the census tracts referred to in subsection (b)(1) as an enterprise community shall terminate on December 31, 2011.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 863; amended Pub. L. 105–206, title VI, §6008(a), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§113(c), 116(b)(5), 164(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-601, 2763A-603, 2763A-625; Pub. L. 108–311, title III, §310(a), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(a)(1), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §322(a)(1), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–312, title VII, §754(a), Dec. 17, 2010, 124 Stat. 3321.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 863; amended Pub. L. 105–206, title VI, §6008(a), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§113(c), 116(b)(5), 164(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(a), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(a)(1), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §322(a)(1), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–312, title VII, §754(a), Dec. 17, 2010, 124 Stat. 3321.)
 
 #### References in Text
 

@@ -28,7 +28,7 @@ There is established the Keweenaw National Historical Park Advisory Commission. 
 
 (3) Any real property or interest in real property acquired by the Commission shall be conveyed by the Commission to the National Park Service or the appropriate public agency as soon as possible after such acquisition, without consideration, and on the condition that the real property or interest in real property so conveyed is used for public purposes.
 
-(4) The value of funds or property, or interests in property, conveyed to the National Park Service by the Commission may be considered as non-Federal, at the Commission's discretion.
+(4) The value of funds or property, or interests in property, conveyed to the National ParkService by the Commission may be considered as non-Federal, at the Commission's discretion.
 
 #### (c) Membership
 

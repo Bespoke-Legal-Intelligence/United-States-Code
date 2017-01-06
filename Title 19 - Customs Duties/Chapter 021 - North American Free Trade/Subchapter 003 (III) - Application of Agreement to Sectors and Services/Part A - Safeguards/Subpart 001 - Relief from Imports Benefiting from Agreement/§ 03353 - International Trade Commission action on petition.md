@@ -24,7 +24,7 @@ No later than the date that is 30 days after the date on which a determination i
 
 #### (d) Public notice
 
-Upon submitting a report to the President under subsection (c), the International Trade Commission shall promptly make public suchreport (with the exception of information which the International Trade Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+Upon submitting a report to the President under subsection (c), the International Trade Commission shall promptly make public such report (with the exception of information which the International Trade Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
 #### (e) Applicable provisions
 

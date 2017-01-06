@@ -38,7 +38,7 @@ The consent of the President under paragraph (2) of subsection (a) or under para
 
 (1)(A) No credits (including participations in credits) may be issued and no guaranties may be extended for any foreign country under this chapter as hereinafter provided, if such country uses defense articles or defense services furnished under this chapter, or any predecessor Act, in substantial violation (either in terms of quantities or in terms of the gravity of the consequences regardless of the quantities involved) of any agreement entered into pursuant to any such Act (i) by using such articles or services for a purpose not authorized under section 2754 of this title or, if such agreement provides that such articles or services may only be used for purposes more limited than those authorized under section 2754 of this title for a purpose not authorized under such agreement; (ii) by transferring such articles or services to, or permitting any use of such articles or services by, anyone not an officer, employee, or agent of the recipient country without the consent of the President; or (iii) by failing to maintain the security of such articles or services.
 
-(B) No cash sales or deliveries pursuant to previous sales may be made with respect to any foreign country under this chapter as hereinafter provided, if such country uses defense articles or defense services furnished under this chapter, or any predecessor Act, in substantial violation (either in terms of quantity or in terms of the gravity of the consequences regardless of the quantities involved) of any agreement entered into pursuant to any such Act by using such articles or services for a purpose not authorized under section 2754 of this title or, if such agreement provides that such articles or services may only be used for purposes more limited than those authorized under section 2754 of this title, for a purpose not authorized under such agreement.
+(B) No cash sales or deliveries pursuant to previous sales may be made with respect to any foreign country under this chapter as hereinafter provided, if such country uses defense articles or defense services furnished under this chapter, orany predecessor Act, in substantial violation (either in terms of quantity or in terms of the gravity of the consequences regardless of the quantities involved) of any agreement entered into pursuant to any such Act by using such articles or services for a purpose not authorized under section 2754 of this title or, if such agreement provides that such articles or services may only be used for purposes more limited than those authorized under section 2754 of this title, for a purpose not authorized under such agreement.
 
 (2) The President shall report to the Congress promptly upon the receipt of information that a violation described in paragraph (1) of this subsection may have occurred.
 
@@ -78,7 +78,7 @@ The consent of the President under paragraph (2) of subsection (a) or under para
 
 (ii) For the purpose of expediting the consideration and enactment of joint resolutions under this paragraph, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(3)(A) Subject to paragraph (5), the President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval, unless before giving such consent the President submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
+(3)(A) Subject to paragraph (5), the President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has beenlicensed or approved under section 2778 of this title or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval, unless before giving such consent the President submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
 
 &emsp;(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, the Republic of Korea, Israel, or New Zealand; and
 
@@ -86,7 +86,7 @@ The consent of the President under paragraph (2) of subsection (a) or under para
 
 > unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.
 
-(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end ofthe 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
+(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end of the 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
 
 (C)(i) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -122,7 +122,7 @@ No sales or leases shall be made to any country that the President has determine
 
 Any agreement for the sale or lease of any article on the United States Munitions List entered into by the United States Government after November 29, 1999, shall state that the United States Government retains the right to verify credible reports that such article has been used for a purpose not authorized under section 2754 of this title or, if such agreement provides that such article may only be used for purposes more limited than those authorized under section 2754 of this title, for a purpose not authorized under such agreement.
 
-(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, §1405(a)(1), Sept. 30, 2002, 116 Stat. 1456; Pub. L. 110–429, title II, §203(b)(1), (2), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title I, §§102(a), 104(a), title III, §301, Oct. 8, 2010, 124 Stat. 2797, 2799, 2804; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat.1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, §1405(a)(1), Sept. 30, 2002, 116 Stat. 1456; Pub. L. 110–429, title II, §203(b)(1), (2), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title I, §§102(a), 104(a), title III, §301, Oct. 8, 2010, 124 Stat. 2797, 2799, 2804; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 #### References in Text
 
@@ -190,7 +190,7 @@ Subsec. (d)(2)(B). Pub. L. 99–247, §1(a)(2), substituted "enact, within such 
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–83, §115(b)(2), in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted "or service" after "such article" in two places.
 
-Pub. L. 99–145, §1102(a)(3), which enacted amendments similar to those provided in Pub. L. 99–83, §115(b)(2), was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, §1102(a)(3), which enacted amendments similar to those provided in Pub. L. 99–83, §115(b)(2),was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
 Subsec. (f). Pub. L. 99–83, §503(b), struck out ", credits, and guaranties" and ", credits, or guaranties" wherever appearing in pars. (1) and (2).
 
@@ -255,6 +255,28 @@ Pub. L. 94–329, title II, §203(a), June 30, 1976, 90 Stat. 735, provided that
 #### Delegation of Functions
 
 For delegation of certain functions of the President under this section, see section 1(a) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+
+#### Enhanced Defense Cooperation
+
+Pub. L. 114–123, §5, Feb. 18, 2016, 130 Stat. 118, provided that:
+
+"(a)
+
+In General.—During the 3-year period beginning on the date of the enactment of this Act \[Feb. 18, 2016\], the Hashemite Kingdom of Jordan shall be treated as if it were a country listed in the provisions of law described in subsection (b) for purposes of applying and administering such provisions of law.
+
+"(b)
+
+Arms Export Control Act.—The provisions of law described in this subsection are—
+
+&emsp;"(1) subsections (b)(2), (d)(2)(B), (d)(3)(A)(i), and (d)(5) of section 3 of the Arms Export Control Act (22 U.S.C. 2753);
+
+&emsp;"(2) subsections (e)(2)(A), (h)(1)(A), and (h)(2) of section 21 of such Act (22 U.S.C. 2761);
+
+&emsp;"(3) subsections (b)(1), (b)(2), (b)(6), (c), and (d)(2)(A) of section 36 of such Act (22 U.S.C. 2776);
+
+&emsp;"(4) section 62(c)(1) of such Act (22 U.S.C. 2796a(c)(1)); and
+
+&emsp;"(5) section 63(a)(2) of such Act (22 U.S.C. 2796b(a)(2))."
 
 #### Pilot Program on Repair, Overhaul, and Refurbishment of Defense Articles for Sale or Transfer to Eligible Foreign Countries and Entities
 
@@ -346,7 +368,7 @@ Certain Excess Proceeds To Be Credited to Special Defense Acquisition Fund.—An
 
 "(h)
 
-Materiel Efficiencies and Duplication.—In administering the program authorized by subsection (a), the Secretary of Defense shall ensure to the maximum extent possible that purchases made utilizing the Fund utilize existing Defense Logistics Agency contracts. The Secretary shall also ensure that none of the activities carried out under the program authorized by subsection (a) are duplicative in nature to those performed by other military departments or Defense Agencies.
+Materiel Efficiencies and Duplication.—In administering the program authorized by subsection (a),the Secretary of Defense shall ensure to the maximum extent possible that purchases made utilizing the Fund utilize existing Defense Logistics Agency contracts. The Secretary shall also ensure that none of the activities carried out under the program authorized by subsection (a) are duplicative in nature to those performed by other military departments or Defense Agencies.
 
 "(i)
 

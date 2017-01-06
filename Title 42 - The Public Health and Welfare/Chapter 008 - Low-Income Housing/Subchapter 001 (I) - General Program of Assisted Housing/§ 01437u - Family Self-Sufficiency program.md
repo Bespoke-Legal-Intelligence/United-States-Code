@@ -16,11 +16,11 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;&emsp;(C) effective on October 21, 1998, to the extent an agency is not required to carry out a program pursuant to subparagraph (B) of this paragraph and paragraph (4), may carry out a local Family Self-Sufficiency program under this section.
 
-> &emsp;Each local program shall, subject to availability of supportive services, include an action plan under subsection (g) of this section and shall provide comprehensive supportive services for families electing to participate in the program. In carrying out the self-sufficiency program under this section, the Secretary shall consult with the heads of other appropriate Federal agencies and provide for cooperative actions and funding agreements with such agencies. Each public housing agency administering an approved local program may employ a service coordinator to administer the local program.
+> &emsp;Each local program shall, subject to availability of supportive services, include an action plan under subsection (g) and shall provide comprehensive supportive services for families electing to participate in the program. In carrying out the self-sufficiency program under this section, the Secretary shall consult with the heads of other appropriate Federal agencies and provide for cooperative actions and funding agreements with such agencies. Each public housing agency administering an approved local program may employ a service coordinator to administer the local program.
 
 #### (2) Exception
 
-&emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) of this section if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
+&emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
 
 &emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act;
 
@@ -60,7 +60,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (5) Nonparticipation
 
-&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a local program shall not be delayed by reason of such election.
+&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a localprogram shall not be delayed by reason of such election.
 
 #### (c) Contract of participation
 
@@ -104,11 +104,11 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (1) Maximum rents
 
-&emsp;During the term of the contract of participation, the amount of rent paid by any participating family whose monthly adjusted income does not exceed 50 percent of the area median income for occupancy in the public housing unit or dwelling unit assisted under section 1437f of this title may not be increased on the basis of any increase in the earned income of the family, unless the increase results in an income exceeding 50 percent of the area median income. The Secretary shall provide forincreased rents for participating families whose incomes are between 50 and 80 percent of the area median income, so that any family whose income increases to 80 percent or more of the area median income pays 30 percent of the family's monthly adjusted income for rent. Upon completion of the contract of participation, if the participating family continues to qualify for and reside in a dwelling unit in public housing or housing assisted under section 1437f of this title, the rent charged the participating family shall be increased (if applicable) to 30 percent of the monthly adjusted income of the family.
+&emsp;During the term of the contract of participation, the amount of rent paid by any participating family whose monthly adjusted income does not exceed 50 percent of the area median income for occupancy in the public housing unit or dwelling unit assisted under section 1437f of this title may not be increased on the basis of any increase in the earned income of the family, unless the increase results in an income exceeding 50 percent of the area median income. The Secretary shall provide for increased rents for participating families whose incomes are between 50 and 80 percent of the area median income, so that any family whose income increases to 80 percent or more of the area median income pays 30 percent of the family's monthly adjusted income for rent. Upon completion of the contract of participation, if the participating family continues to qualify for and reside in a dwelling unit in public housing or housing assisted under section 1437f of this title, the rent charged the participating family shall be increased (if applicable) to 30 percent of the monthly adjusted income of the family.
 
 #### (2) Escrow savings accounts
 
-&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
+&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certainamounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
 
 #### (3) Plan
 
@@ -122,7 +122,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (1) Functions
 
-&emsp;Each public housing agency carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, develop an action plan under subsection (g) of this section, carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by the public housing agency under this subsection.
+&emsp;Each public housing agency carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, develop an action plan under subsection (g), carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by the public housing agency under this subsection.
 
 #### (2) Membership
 
@@ -136,7 +136,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Development of plan
 
-&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
+&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f), representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
 
 #### (3) Contents of plan
 
@@ -146,9 +146,9 @@ Any increase in the earned income of a family during the participation of the fa
 
 &emsp;&emsp;(B) a description of the number of eligible participating families who can reasonably be expected to receive supportive services under the program, based on available and anticipated Federal, State, local, and private resources;
 
-&emsp;&emsp;(C) a description of the services and activities under subsection (c)(2) of this section to be provided to families receiving assistance under this section through the section 8 \[42 U.S.C. 1437f\] and public housing programs, which shall be provided by both public and private resources;
+&emsp;&emsp;(C) a description of the services and activities under subsection (c)(2) to be provided to families receiving assistance under this section through the section 8 \[42 U.S.C. 1437f\] and public housing programs, which shall be provided by both public and private resources;
 
-&emsp;&emsp;(D) a description of the incentives pursuant to subsection (d) of this section offered by the public housing agency to families to encourage participation in the program;
+&emsp;&emsp;(D) a description of the incentives pursuant to subsection (d) offered by the public housing agency to families to encourage participation in the program;
 
 &emsp;&emsp;(E) a description of how the local program will deliver services and activities according to the needs of the families participating in the program;
 
@@ -186,7 +186,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (4) Reservation of budget authority
 
-&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucherprograms for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
+&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucher programs for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
 
 #### (j) On-site facilities
 
@@ -222,7 +222,7 @@ In establishing and carrying out the self-sufficiency program under this section
 
 As used in this section:
 
-&emsp;(1) The term "contract of participation" means a contract under subsection (c) of this section entered into by a public housing agency carrying out a local program under this section and a participating family.
+&emsp;(1) The term "contract of participation" means a contract under subsection (c) entered into by a public housing agency carrying out a local program under this section and a participating family.
 
 &emsp;(2) The term "earned income" means income from wages, tips, salaries, and other employee compensation, and any earnings from self-employment. The term does not include any pension or annuity, transfer payments, or any cash or in-kind benefits.
 
@@ -246,7 +246,7 @@ As used in this section:
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(2), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130of this title. Section 554(b) of the Act is set out below. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(2), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. Section 554(b) of the Act is set out below. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -262,7 +262,7 @@ Section 1437g(c) of this title, referred to in subsec. (h)(2), was amended gener
 
 Subsec. (f)(2). Pub. L. 113–128, §512(ii)(2), substituted "the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act," for "the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,".
 
-Subsec. (g)(2). Pub. L. 113–128, §512(ii)(3)(A), substituted "any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act" for "any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act".
+Subsec. (g)(2). Pub. L. 113–128, §512(ii)(3)(A), substituted "any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the SocialSecurity Act" for "any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act".
 
 Subsec. (g)(3)(H). Pub. L. 113–128, §512(ii)(3)(B), substituted "programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area" for "programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area".
 
@@ -322,13 +322,13 @@ Subsec. (o)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text 
 
 Subsec. (b)(4). Pub. L. 102–550, §106(c), added par. (4).
 
-Subsec. (c)(1). Pub. L. 102–550, §106(d), in second sentence, inserted ", shall establish specific interim and final goals by which compliance with and performance of the contract may be measured," after "program"and substituted last sentence for former last sentence which read as follows: "The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract."
+Subsec. (c)(1). Pub. L. 102–550, §106(d), in second sentence, inserted ", shall establish specific interim and final goals by which compliance with and performance of the contract may be measured," after "program" and substituted last sentence for former last sentence which read as follows: "The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract."
 
 Subsec. (c)(2). Pub. L. 102–550, §106(e), struck out "to each participating family" after "paragraph (1)" in introductory provisions.
 
 Subsec. (d). Pub. L. 102–550, §106(g)(1), substituted "Incentives for participation" for "Maximum rents and escrow savings accounts" in heading.
 
-Subsec. (d)(2). Pub. L. 102–550, §106(f), substituted "after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency." for "only after the family is no longer a recipient of any Federal, State, or other public assistance for housing."
+Subsec. (d)(2). Pub. L. 102–550, §106(f), substituted "after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency." for "only after the family is no longer a recipient of any Federal, State, or other public assistance for housing."
 
 Subsec. (d)(3). Pub. L. 102–550, §185(b), added par. (3) relating to use of escrow savings accounts.
 

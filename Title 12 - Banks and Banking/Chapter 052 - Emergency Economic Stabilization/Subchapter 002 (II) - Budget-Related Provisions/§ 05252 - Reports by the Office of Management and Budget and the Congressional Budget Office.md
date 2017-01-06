@@ -14,7 +14,7 @@ Within 60 days of the first exercise of the authority granted in section 5211(a)
 
 #### (b) Reports by the Congressional Budget Office
 
-Within 45 days of receipt by the Congress of each report from the Office of Management andBudget under subsection (a), the Congressional Budget Office shall report to the Congress the Congressional Budget Office's assessment of the report submitted by the Office of Management and Budget, including—
+Within 45 days of receipt by the Congress of each report from the Office of Management and Budget under subsection (a), the Congressional Budget Office shall report to the Congress the Congressional Budget Office's assessment of the report submitted by the Office of Management and Budget, including—
 
 &emsp;(1) the cost of the troubled assets and guarantees of the troubled assets,
 

@@ -46,7 +46,7 @@ Time for Transfer; Revocation and Modification.—
 
 &emsp;(1)
 
-Time for transfer.—Subject to the time limitation for use of entitlement under section3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
+Time for transfer.—Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
 
 &emsp;(2)
 
@@ -148,7 +148,7 @@ Date for commencement of use.—The date specified in this clause for the beginn
 
 &emsp;&emsp;&emsp;(iv)
 
-Length of use.—The length of the period specified in this clause for the useof benefits by a child under clause (i) is the length equal to the length of the period that—
+Length of use.—The length of the period specified in this clause for the use of benefits by a child under clause (i) is the length equal to the length of the period that—
 
 &emsp;&emsp;&emsp;&emsp;(I) begins on the date on which the child begins acting as the primary provider of personal care services for the veteran or member concerned as described in clause (i); and
 
@@ -202,7 +202,7 @@ Regulations.—(1) The Secretary of Defense, in coordination with the Secretary 
 
 &emsp;(C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896;Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539.)
 
 #### Amendments
 

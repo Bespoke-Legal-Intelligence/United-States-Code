@@ -12,7 +12,7 @@ In this subchapter:
 
 #### (3) Health care provider
 
-&emsp;The term "health care provider" includes a hospital, skilled nursing facility, nursing facility, home health entity or other long term care facility, health care clinic, community mental health center (as defined in section 300x–2(b)(1) of this title), renal dialysis facility, blood center, ambulatory surgical center described in section 1395l(i) of this title,<sup>1</sup> emergency medical services provider, Federally qualified health center, group practice, a pharmacist, a pharmacy, a laboratory, a physician (as defined in section 1395x(r) of this title), a practitioner (as described in section 1395u(b)(18)(C) of this title), a provider operated by, or under contract with, the Indian Health Service or by an Indian tribe (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]), tribal organization, or urban Indian organization (as defined in section 1603 of title 25), a rural health clinic, a covered entity under section 256b of this title, an ambulatory surgical center described in section 1395l(i) of this title,<sup>1</sup> a therapist (as defined in section 1395w–4(k)(3)(B)(iii) of this title), and any other category of health care facility, entity, practitioner, or clinician determined appropriate by the Secretary.
+&emsp;The term "health care provider" includes a hospital, skilled nursing facility, nursing facility, home health entity or other long term care facility, health care clinic, community mental health center (as defined in section 300x–2(b)(1) of this title), renal dialysis facility, blood center, ambulatory surgical center described in section 1395l(i) of this title,<sup>1</sup> emergency medical services provider, Federally qualified health center, group practice, a pharmacist, a pharmacy, a laboratory, a physician (as defined in section 1395x(r) of this title), a practitioner (as described in section 1395u(b)(18)(C) of this title), a provider operated by, or under contract with, the Indian Health Service or by an Indian tribe (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]), tribal organization, or urban Indian organization (as defined in section 1603 of title 25), a rural health clinic, a covered entity under section 256b of this title, an ambulatory surgical center described in section 1395l(i) of this title,<sup>1</sup> a therapist (as defined in section 1395w–4(k)(3)(B)(iii) of this title), and any other category of health care facility, entity, practitioner, or clinician determined appropriate by the Secretary.
 
 #### (4) Health information
 
@@ -26,17 +26,23 @@ In this subchapter:
 
 &emsp;The term "health plan" has the meaning given such term in section 1320d(5) of this title.
 
-#### (7) HIT Policy Committee
+#### (7) HIT Advisory Committee
 
-&emsp;The term "HIT Policy Committee" means such Committee established under section 300jj–12(a) of this title.
+&emsp;The term "HIT Advisory Committee" means such Committee established under section 300jj–12(a) of this title.
 
-#### (8) HIT Standards Committee
-
-&emsp;The term "HIT Standards Committee" means such Committee established under section 300jj–13(a) of this title.
-
-#### (9) Individually identifiable health information
+#### (8) Individually identifiable health information
 
 &emsp;The term "individually identifiable health information" has the meaning given such term in section 1320d(6) of this title.
+
+#### (9) Interoperability
+
+&emsp;The term "interoperability", with respect to health information technology, means such health information technology that—
+
+&emsp;&emsp;(A) enables the secure exchange of electronic health information with, and use of electronic health information from, other health information technology without special effort on the part of the user;
+
+&emsp;&emsp;(B) allows for complete access, exchange, and use of all electronically accessible health information for authorized use under applicable State or Federal law; and
+
+&emsp;&emsp;(C) does not constitute information blocking as defined in section 300jj–52(a) of this title.
 
 #### (10) Laboratory
 
@@ -66,17 +72,115 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iv) to exchange electronic health information with, and integrate such information from other sources.
 
-#### (14) State
+#### (15) <sup>3</sup> State
 
 &emsp;The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-(July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228.)
+(July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, §4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174.)
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+
+#### Amendments
+
+<b>2016</b>—Par. (7). Pub. L. 114–255, §4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "The term 'HIT Policy Committee' means such Committee established under section 300jj–12(a) of this title."
+
+Par. (8). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated par. (9) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: "The term 'HIT Standards Committee' means such Committee established under section 300jj–13(a) of this title."
+
+Par. (9). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+
+Par. (10). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated par. (11) as (10). Former par. (10) redesignated (9).
+
+Pub. L. 114–255, §4003(a)(2), added par. (10). Former par. (10) redesignated (11).
+
+Pars. (11) to (14). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated pars. (12) to (14) as (11) to (13), respectively. Former par. (11) redesignated (10).
+
+Pub. L. 114–255, §4003(a)(1), redesignated pars. (10) to (13) as (11) to (14), respectively. Former par. (14) redesignated (15).
+
+Par. (15). Pub. L. 114–255, §4003(a)(1), redesignated par. (14) as (15).
+
+#### Assisting Doctors and Hospitals in Improving Quality of Care for Patients
+
+Pub. L. 111–5, div. A, title XIII, §13103, as added by Pub. L. 114–255, div. A, title IV, §4001(a)(1), Dec. 13, 2016, 130 Stat. 1157, provided that:
+
+"(a)
+
+Reduction in Burdens Goal.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary'), in consultation with providers of health services, health care suppliers of services, health care payers, health professional societies, health information technology developers, health care quality organizations, health care accreditation organizations, public health entities, States, and other appropriate entities, shall, in accordance with subsection (b)—
+
+&emsp;"(1) establish a goal with respect to the reduction of regulatory or administrative burdens (such as documentation requirements) relating to the use of electronic health records;
+
+&emsp;"(2) develop a strategy for meeting the goal established under paragraph (1); and
+
+&emsp;"(3) develop recommendations for meeting the goal established under paragraph (1).
+
+"(b)
+
+Strategy and Recommendations.—
+
+&emsp;"(1)
+
+In general.—To achieve the goal established under subsection (a)(1), the Secretary, in consultation with the entities described in such subsection, shall, not later than 1 year after the date of enactment of the 21st Century Cures Act \[Dec. 13, 2016\], develop a strategy and recommendations to meet the goal in accordance with this subsection.
+
+&emsp;"(2)
+
+Strategy.—The strategy developed under paragraph (1) shall address the regulatory and administrative burdens (such as documentation requirements) relating to the use of electronic health records. Such strategy shall include broad public comment and shall prioritize—
+
+&emsp;&emsp;"(A)(i) incentives for meaningful use of certified EHR technology for eligible professionals and hospitals under sections 1848(a)(7) and 1886(b)(3)(B)(ix), respectively, of the Social Security Act (42 U.S.C. 1395w–4(a)(7), 1395ww(b)(3)(B)(ix));
+
+&emsp;&emsp;"(ii) the program for making payments under section 1903(a)(3)(F) of the Social Security Act (42 U.S.C. 1396b(a)(3)(F)) to encourage the adoption and use of certified EHR technology by Medicaid providers;
+
+&emsp;&emsp;"(iii) the Merit-based Incentive Payment System under section 1848(q) of the Social Security Act (42 U.S.C. 1395w–4(q));
+
+&emsp;&emsp;"(iv) alternative payment models (as defined in section 1833(z)(3)(C) of the Social Security Act (42 U.S.C. 1395l(z)(3)(C));
+
+&emsp;&emsp;"(v) the Hospital Value-Based Purchasing Program under section 1886(o) of the Social Security Act (42 U.S.C. 1395ww(o)); and
+
+&emsp;&emsp;"(vi) other value-based payment programs, as the Secretary determines appropriate;
+
+&emsp;&emsp;"(B) health information technology certification;
+
+&emsp;&emsp;"(C) standards and implementation specifications, as appropriate;
+
+&emsp;&emsp;"(D) activities that provide individuals access to their electronic health information;
+
+&emsp;&emsp;"(E) activities related to protecting the privacy of electronic health information;
+
+&emsp;&emsp;"(F) activities related to protecting the security of electronic health information;
+
+&emsp;&emsp;"(G) activities related to facilitating health and clinical research;
+
+&emsp;&emsp;"(H) activities related to public health;
+
+&emsp;&emsp;"(I) activities related to aligning and simplifying quality measures across Federal programs and other payers;
+
+&emsp;&emsp;"(J) activities related to reporting clinical data for administrative purposes; and
+
+&emsp;&emsp;"(K) other areas, as the Secretary determines appropriate.
+
+&emsp;"(3)
+
+Recommendations.—The recommendations developed under paragraph (1) shall address—
+
+&emsp;&emsp;"(A) actions that improve the clinical documentation experience;
+
+&emsp;&emsp;"(B) actions that improve patient care;
+
+&emsp;&emsp;"(C) actions to be taken by the Secretary and by other entities; and
+
+&emsp;&emsp;"(D) other areas, as the Secretary determines appropriate, to reduce the reporting burden required of health care providers.
+
+&emsp;"(4)
+
+FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the development of the goal, strategies, or recommendations described in this section.
+
+"(c)
+
+Application of Certain Regulatory Requirements.—A physician (as defined in section 1861(r)(1) of the Social Security Act \[42 U.S.C. 1395x(r)(1)\]), to the extent consistent with applicable State law, may delegate electronic medical record documentation requirements specified in regulations promulgated by the Centers for Medicare \& Medicaid Services to a person performing a scribe function who is not such physician if such physician has signed and verified the documentation."
 
 <i><sup>1</sup></i><i> So in original. The words "ambulatory surgical center described in section 1395l(i) of this title" appear in two places.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>3</sup></i><i> So in original. There is no par. (14).</i>
 

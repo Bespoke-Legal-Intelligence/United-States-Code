@@ -86,7 +86,7 @@ Subject to such regulations as the Board, jointly with the Director of the Burea
 
 &emsp;&emsp;(A) depository institutions are experiencing an unacceptable level of losses due to check-related fraud, and
 
-&emsp;&emsp;(B) suspension of this chapter, or such portion of this chapter, with regard to the classification of checks involved in such fraud is necessary to diminish the volume of such fraud.
+&emsp;&emsp;(B) suspension of this chapter, or such portion of this chapter, with regard to the classification of checks involved in such fraud isnecessary to diminish the volume of such fraud.
 
 #### (2) Sunset provision
 

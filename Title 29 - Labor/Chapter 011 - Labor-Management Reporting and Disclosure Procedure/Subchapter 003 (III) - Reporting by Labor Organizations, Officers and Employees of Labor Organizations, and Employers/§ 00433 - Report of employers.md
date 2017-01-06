@@ -40,7 +40,7 @@ Nothing contained in this section shall be construed to require any regular offi
 
 #### (f) Rights protected by section 158(c) of this title
 
-Nothing contained in this section shall be construed as an amendment to, or modification of the rights protected by, section 158(c) of this title.
+Nothing contained in this section shall be construed as an amendment to, or modification ofthe rights protected by, section 158(c) of this title.
 
 #### (g) "Interfere with, restrain, or coerce" defined
 

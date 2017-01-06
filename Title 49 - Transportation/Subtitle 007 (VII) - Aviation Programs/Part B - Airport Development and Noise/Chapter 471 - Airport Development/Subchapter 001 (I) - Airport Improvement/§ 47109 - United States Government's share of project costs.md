@@ -16,7 +16,7 @@ General.—Except as otherwise provided in this section, the United States Gover
 
 (b)
 
-Increased Government Share.—If, under subsection (a) of this section, the Government's share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individualand tribal) of more than 5 percent of the total area of all lands in the State, is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government's share under subsection (a) of this section shall be increased by the lesser of—
+Increased Government Share.—If, under subsection (a) of this section, the Government's share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government's share under subsection (a) of this section shall be increased by the lesser of—
 
 &emsp;(1) 25 percent;
 
@@ -92,7 +92,7 @@ In subsection (c), the words "Notwithstanding subsections (a) and (b) of this se
 
 #### References in Text
 
-Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), were repealed and new subpars. (J),\(K), and (L) were added or designated, by Pub. L. 108–176, title I, §159(b)(1), Dec. 12, 2003, 117 Stat. 2510.
+Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), were repealed and new subpars. (J), (K), and (L) were added or designated, by Pub. L. 108–176, title I, §159(b)(1), Dec. 12, 2003, 117 Stat. 2510.
 
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 

@@ -10,7 +10,7 @@
 
 (c) In the case of a military construction project or a military family housing project, the contract amount thresholds specified in subchapter III of chapter 31 of title 40 (commonly referred to as the Miller Act) shall be applied by substituting "$150,000" for "$100,000" for purposes of determining when a performance bond and payment bond are required under section 3131 of such title and when alternatives to payment bonds as payment protections for suppliers of labor and materials are required under section 3132 of such title.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 97–295, §1(35), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §805(a)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–145, title XIII, §1303(a)(19), Nov. 8, 1985, 99 Stat. 739; Pub. L. 107–217, §3(b)(20), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 112–81, div. B, title XXVIII, §2803, Dec. 31, 2011, 125 Stat. 1685.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 97–295, §1(35), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §805(a)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L.99–145, title XIII, §1303(a)(19), Nov. 8, 1985, 99 Stat. 739; Pub. L. 107–217, §3(b)(20), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 112–81, div. B, title XXVIII, §2803, Dec. 31, 2011, 125 Stat. 1685.)
 
 #### Historical and Revision Notes
 

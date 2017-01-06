@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as otherwise prohibited by law, a member of the uniformed services or other authorized traveler may be provided transportation-, lodging-, or meals-in-kind, or actual and necessary expenses of travel and transportation, for, or in connection with, official travel under circumstances as specified in regulations prescribed under section 464 of this title.
+In General.—Except as otherwise prohibited by law, a member of the uniformed services or other authorized traveler may be provided transportation-, lodging-, or meals-in-kind, or actual and necessary expenses of travel and transportation, for, or in connection with, official travel under circumstances as specified inregulations prescribed under section 464 of this title.
 
 (b)
 

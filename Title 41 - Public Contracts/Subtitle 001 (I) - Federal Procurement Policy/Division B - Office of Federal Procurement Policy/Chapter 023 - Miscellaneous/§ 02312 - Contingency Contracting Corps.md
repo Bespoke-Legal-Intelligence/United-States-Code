@@ -58,7 +58,7 @@ In general.—The Administrator of General Services shall provide to the Committ
 
 &emsp;(2)
 
-Content.—Each report under paragraph (1) shall include the number of members of theCorps, the total cost of operating the program, the number of deployments of members of the program, and the performance of members of the program in deployment.
+Content.—Each report under paragraph (1) shall include the number of members of the Corps, the total cost of operating the program, the number of deployments of members of the program, and the performance of members of the program in deployment.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3739.)
 

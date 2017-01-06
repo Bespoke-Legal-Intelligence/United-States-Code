@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall provide written notice through the mail of the benefits available under this part to each worker whom the Secretary has reason to believe is covered by a certification made under this subpart—
 
-&emsp;(A) at the time such certification is made, if the worker was partially or totally separated from the adversely affected employment before such certification, or
+&emsp;(A) at the time such certification is made, if the worker was partially or totally separatedfrom the adversely affected employment before such certification, or
 
 &emsp;(B) at the time of the total or partial separation of the worker from the adversely affected employment, if subparagraph (A) does not apply.
 

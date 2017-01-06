@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to improve the efficiency and effectiveness of the student aid delivery system, the Secretary and the Chief Operating Officer shall encourage and participate in the establishment of voluntary consensus standards and requirements for the electronic transmission of information necessary for the administration of programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+In order to improve the efficiency and effectiveness of the student aid delivery system, the Secretary and the Chief Operating Officer shall encourage and participate in the establishment of voluntary consensus standards and requirements for the electronic transmission of information necessary for the administration of programs under subchapter IV.
 
 #### (b) Participation in standard setting organizations
 
@@ -14,7 +14,7 @@ In order to improve the efficiency and effectiveness of the student aid delivery
 
 #### (c) Adoption of voluntary consensus standards
 
-Except with respect to the common financial reporting form under section 1090(a) of this title, the Secretary shall consider adopting voluntary consensus standards agreed to by the organization described in subsection (b) of this section for transactions required under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, and common data elements for such transactions, to enable information to be exchanged electronically between systems administered by the Department and among participants in the Federal student aid delivery system.
+Except with respect to the common financial reporting form under section 1090(a) of this title, the Secretary shall consider adopting voluntary consensus standards agreed to by the organization described in subsection (b) for transactions required under subchapter IV, and common data elements for such transactions, to enable information to be exchanged electronically between systems administered by the Department and among participants in the Federal student aid delivery system.
 
 #### (d) Use of clearinghouses
 
@@ -62,5 +62,5 @@ Section 1018d, Pub. L. 89–329, title I, §145, as added Pub. L. 100–418, tit
 
 Section 1018e, Pub. L. 89–329, title I, §146, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat. 1516; Pub. L. 101–305, §5, May 30, 1990, 104 Stat. 258; Pub. L. 101–610, title II, §221(c), Nov. 16, 1990, 104 Stat. 3180, related to authorization of appropriations.
 
-Section 1018f, Pub. L. 89–329, title I, §147, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat.1516, defined "public community agency", "institution of higher education" and "Secretary".
+Section 1018f, Pub. L. 89–329, title I, §147, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat. 1516, defined "public community agency", "institution of higher education" and "Secretary".
 

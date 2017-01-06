@@ -4,15 +4,15 @@
 
 Amounts in the Trust shall be available—
 
-&emsp;(1) to repay student loans in accordance with subsection (b) of this section;
+&emsp;(1) to repay student loans in accordance with subsection (b);
 
-&emsp;(2) to pay all or part of the cost of attendance or other educational expenses at an institution of higher education in accordance with subsection (c) of this section;
+&emsp;(2) to pay all or part of the cost of attendance or other educational expenses at an institution of higher education in accordance with subsection (c);
 
-&emsp;(3) to pay expenses incurred in participating in an approved school-to-work program in accordance with subsection (d) of this section;
+&emsp;(3) to pay expenses incurred in participating in an approved school-to-work program in accordance with subsection (d);
 
 &emsp;(4) to pay expenses incurred in enrolling in an educational institution or training establishment that is approved under chapter 36 of title 38, or other applicable provisions of law, for offering programs of education, apprenticeship, or on-job training for which educational assistance may be provided by the Secretary of Veterans Affairs; and
 
-&emsp;(5) to pay interest expenses in accordance with regulations prescribed pursuant to subsection (e) of this section.
+&emsp;(5) to pay interest expenses in accordance with regulations prescribed pursuant to subsection (e).
 
 #### (b) Use of educational award to repay outstanding student loans
 
@@ -52,7 +52,7 @@ Amounts in the Trust shall be available—
 
 &emsp;As used in this subsection, the term "qualified student loans" means—
 
-&emsp;&emsp;(A) any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]), other than a loan to a parent of a student pursuant to section 428B of such Act (20 U.S.C. 1078–2);
+&emsp;&emsp;(A) any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), other than a loan to a parent of a student pursuant to section 428B of such Act (20 U.S.C. 1078–2);
 
 &emsp;&emsp;(B) any loan made pursuant to title VII or VIII of the Public Health Service Act \[42 U.S.C. 292 et seq., 296 et seq.\]; and
 
@@ -88,7 +88,7 @@ Amounts in the Trust shall be available—
 
 &emsp;&emsp;&emsp;(i) the institution of higher education has in effect a program participation agreement under section 487 of the Higher Education Act of 1965 (20 U.S.C. 1094);
 
-&emsp;&emsp;&emsp;(ii) the institution's eligibility to participate in any of the programs under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]) has not been limited, suspended, or terminated; and
+&emsp;&emsp;&emsp;(ii) the institution's eligibility to participate in any of the programs under title IV of such Act (20 U.S.C. 1070 et seq.) has not been limited, suspended, or terminated; and
 
 &emsp;&emsp;&emsp;(iii) individuals using national service educational awards, summer of service educational awards, or silver scholar educational awards, as applicable, received under this division to pay for educational costs do not comprise more than 15 percent of the total student population of the institution; and
 
@@ -104,7 +104,7 @@ Amounts in the Trust shall be available—
 
 #### (5) Refund rules
 
-&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b).Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
+&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b). Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
 
 #### (6) Maximum award
 
@@ -180,13 +180,13 @@ With the approval of the Chief Executive Officer, an approved national service p
 
 #### (h) "Institution of higher education" defined
 
-Notwithstanding section 12511 of this title, for purposes of this section the term "institution of higher education" has the meaning provided by section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
+Notwithstanding section 12511 of this title, for purposes of this section the term "institution of higher education" has the meaning provided bysection 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
 
 (Pub. L. 101–610, title I, §148, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 820; amended Pub. L. 105–244, title I, §102(c)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 111–13, title I, §1405, Apr. 21, 2009, 123 Stat. 1515.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Parts A and D of title IV of the Act are classified generally to parts A (§1070 et seq.) and C (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Parts A and D of title IV of the Act are classified generally to parts A (§1070 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(7)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to subchapters V (§292 et seq.) and VI (§296 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

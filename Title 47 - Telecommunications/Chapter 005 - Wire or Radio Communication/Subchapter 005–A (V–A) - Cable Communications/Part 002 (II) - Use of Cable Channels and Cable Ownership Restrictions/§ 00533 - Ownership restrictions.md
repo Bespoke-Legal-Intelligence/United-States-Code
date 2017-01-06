@@ -60,7 +60,7 @@ This section shall not apply to prohibit any combination of any interests held b
 
 For purposes of this section, the term "media of mass communications" shall have the meaning given such term under section 309(i)(3)(C)(i) of this title.
 
-(June 19, 1934, ch. 652, title VI, §613, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2785; amended Pub. L. 102–385, §11, Oct. 5, 1992, 106 Stat. 1486; Pub. L. 103–414, title III, §303(a)(22), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 104–104, title II, §202(i), title III, §§302(b)(1), Feb. 8, 1996, 110 Stat. 112, 124.)
+(June 19, 1934, ch. 652, title VI, §613, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2785;amended Pub. L. 102–385, §11, Oct. 5, 1992, 106 Stat. 1486; Pub. L. 103–414, title III, §303(a)(22), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 104–104, title II, §202(i), title III, §§302(b)(1), Feb. 8, 1996, 110 Stat. 112, 124.)
 
 #### Amendments
 

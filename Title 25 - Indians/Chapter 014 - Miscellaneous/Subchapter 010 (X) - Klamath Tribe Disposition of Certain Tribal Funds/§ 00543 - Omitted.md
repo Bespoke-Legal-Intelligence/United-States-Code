@@ -1,0 +1,6 @@
+### §543. Omitted
+
+#### Codification
+
+Section, act Aug. 7, 1939, ch. 552, §3, 53 Stat. 1253, which related to liability of judgment funds for debts, was omitted from the Code as being of special and not general application.
+

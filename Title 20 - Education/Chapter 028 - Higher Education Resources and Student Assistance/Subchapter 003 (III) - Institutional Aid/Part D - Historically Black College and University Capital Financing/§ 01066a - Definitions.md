@@ -18,13 +18,13 @@ For the purposes of this part:
 
 &emsp;&emsp;(C) instructional equipment, technology, research instrumentation, and any capital equipment or fixture related to facilities described in subparagraph (A);
 
-&emsp;&emsp;(D) a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property or an interest therein, described in this paragraph;
+&emsp;&emsp;(D) a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property oran interest therein, described in this paragraph;
 
 &emsp;&emsp;(E) a facility designed to provide primarily outpatient health care for students or faculty;
 
 &emsp;&emsp;(F) physical infrastructure essential to support the projects authorized under this paragraph, including roads, sewer and drainage systems, and water, power, lighting, telecommunications, and other utilities;
 
-&emsp;&emsp;(G) any other facility, equipment or fixture which is essential to the maintaining of accreditation of the member institution by an accrediting agency or association recognized by the Secretary under subpart 2 of part G of subchapter IV; and
+&emsp;&emsp;(G) any other facility, equipment or fixture which is essential to the maintaining of accreditation of the member institution by an accrediting agency or association recognized by the Secretary under subpart 2 of part H of subchapter IV; and
 
 &emsp;&emsp;(H) any real property or interest therein underlying facilities described in subparagraph (A) or (G).
 
@@ -52,7 +52,7 @@ A prior section 342 of Pub. L. 89–329 was classified to section 1067 of this t
 
 Par. (5)(C). Pub. L. 110–315, §320(1)(B), substituted "equipment, technology," for "equipment technology,,".
 
-Par. (5)(G). Pub. L. 110–315, §314(a)(1), substituted "by an accrediting agency or association recognized by the Secretary under subpart 2 of part G of subchapter IV" for "by a nationally recognized accrediting agency or association".
+Par. (5)(G). Pub. L. 110–315, §314(a)(1), substituted "by an accrediting agency or association recognized by the Secretary under subpart 2 of part H of subchapter IV" for "by a nationally recognized accrediting agency or association".
 
 Par. (8). Pub. L. 110–315, §314(a)(2), inserted "capital project" after "issuing taxable".
 

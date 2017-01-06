@@ -2,7 +2,7 @@
 
 #### (a) Notice to subscriber regarding personally identifiable information; definitions
 
-(1) At the time of entering into an agreement to provide any cable service or other service to a subscriber and at least once a year thereafter,a cable operator shall provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of—
+(1) At the time of entering into an agreement to provide any cable service or other service to a subscriber and at least once a year thereafter, a cable operator shall provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of—
 
 &emsp;(A) the nature of personally identifiable information collected or to be collected with respect to the subscriber and the nature of the use of such information;
 
@@ -10,13 +10,13 @@
 
 &emsp;(C) the period during which such information will be maintained by the cable operator;
 
-&emsp;(D) the times and place at which the subscriber may have access to such information in accordance with subsection (d) of this section; and
+&emsp;(D) the times and place at which the subscriber may have access to such information in accordance with subsection (d); and
 
-&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a cable operator and the right of the subscriber under subsections (f) and (h) of this section to enforce such limitations.
+&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a cable operator and the right of the subscriber under subsections (f) and (h) to enforce such limitations.
 
 > In the case of subscribers who have entered into such an agreement before the effective date of this section, such notice shall be provided within 180 days of such date and at least once a year thereafter.
 
-(2) For purposes of this section, other than subsection (h) of this section—
+(2) For purposes of this section, other than subsection (h)—
 
 &emsp;(A) the term "personally identifiable information" does not include any record of aggregate data which does not identify particular persons;
 
@@ -42,7 +42,7 @@
 
 &emsp;(A) necessary to render, or conduct a legitimate business activity related to, a cable service or other service provided by the cable operator to the subscriber;
 
-&emsp;(B) subject to subsection (h) of this section, made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
+&emsp;(B) subject to subsection (h), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
 
 &emsp;(C) a disclosure of the names and addresses of subscribers to any cable service or other service, if—
 
@@ -62,7 +62,7 @@ A cable subscriber shall be provided access to all personally identifiable infor
 
 #### (e) Destruction of information
 
-A cable operator shall destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (d) of this section or pursuant to a court order.
+A cable operator shall destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (d) or pursuant to a court order.
 
 #### (f) Civil action in United States district court; damages; attorney's fees and costs; nonexclusive nature of remedy
 
@@ -84,7 +84,7 @@ Nothing in this subchapter shall be construed to prohibit any State or any franc
 
 #### (h) Disclosure of information to governmental entity pursuant to court order
 
-Except as provided in subsection (c)(2)(D) of this section, a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+Except as provided in subsection (c)(2)(D), a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
 &emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
@@ -100,7 +100,7 @@ For "the effective date of this section", referred to in subsec. (a)(1), as 60 d
 
 <b>2001</b>—Subsec. (c)(2)(D). Pub. L. 107–56, §211(1), added subpar. (D).
 
-Subsec. (h). Pub. L. 107–56, §211(2), substituted "Except as provided in subsection (c)(2)(D) of this section, a governmental entity" for "A governmental entity" in introductory provisions.
+Subsec. (h). Pub. L. 107–56, §211(2), substituted "Except as provided in subsection (c)(2)(D), a governmental entity" for "A governmental entity" in introductory provisions.
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of this section, the term 'personally identifiable information' does not include any record of aggregate data which does not identify particular persons."
 

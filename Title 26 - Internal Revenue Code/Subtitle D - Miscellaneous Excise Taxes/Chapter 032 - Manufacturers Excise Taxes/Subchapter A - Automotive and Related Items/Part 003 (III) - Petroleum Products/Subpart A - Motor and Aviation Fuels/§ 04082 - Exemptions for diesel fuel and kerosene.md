@@ -196,7 +196,7 @@ Subsec. (d). Pub. L. 86–342, §201(e)(2), added subsec. (d).
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–95 applicable to fuel used after Mar. 31, 2012, see section 1103(d)(1) of Pub. L.112–95, set out as an Effective Date note under section 4043 of this title.
+Amendment by Pub. L. 112–95 applicable to fuel used after Mar. 31, 2012, see section 1103(d)(1) of Pub. L. 112–95, set out as an Effective Date note under section 4043 of this title.
 
 #### Effective Date of 2007 Amendment
 

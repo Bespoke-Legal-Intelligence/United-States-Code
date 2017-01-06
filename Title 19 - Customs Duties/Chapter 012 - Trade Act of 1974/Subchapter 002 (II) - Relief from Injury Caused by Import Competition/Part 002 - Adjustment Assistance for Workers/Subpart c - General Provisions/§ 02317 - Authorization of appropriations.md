@@ -130,7 +130,7 @@ Parts 2 and 3 of this subchapter to be applied as if the amendment of this secti
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions applicable, see section 2514of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 

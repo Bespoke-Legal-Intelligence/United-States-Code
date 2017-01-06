@@ -4,7 +4,7 @@
 
 A declarant and the declarant's agents shall not disclose the existence or filing of a declaration filed pursuant to section 4221 of this title until:
 
-&emsp;(1) the declarant receives notice that the Attorney General has concluded that an actionshould not be pursued under section 4226(b) of this title;
+&emsp;(1) the declarant receives notice that the Attorney General has concluded that an action should not be pursued under section 4226(b) of this title;
 
 &emsp;(2) the declarant receives notice of an award pursuant to section 4226(c) of this title; or
 

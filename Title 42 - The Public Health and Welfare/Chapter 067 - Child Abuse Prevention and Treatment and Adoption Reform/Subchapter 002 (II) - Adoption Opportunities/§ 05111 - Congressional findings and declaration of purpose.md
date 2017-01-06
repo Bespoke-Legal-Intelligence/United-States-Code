@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) most children in foster care are victims of child abuse or neglect by their biological parents and their entry into foster care brought them the additional trauma of separation from their homes and often their communities;
 
-&emsp;(3) on average, children entering foster care have more physical and mental health needs than do children in the general population, and some require intensive services because the children entering foster care—
+&emsp;(3) on average, children entering foster care have more physical and mental health needsthan do children in the general population, and some require intensive services because the children entering foster care—
 
 &emsp;&emsp;(A) were born to mothers who did not receive prenatal care;
 
@@ -80,7 +80,7 @@ Subsec. (b)(2). Pub. L. 111–320, §301(a)(2)(B), added par. (2) and struck out
 
 "(3) an increasing number of infants are born to mothers who did not receive prenatal care, are born addicted to alcohol and other drugs, and exposed to infection with the etiologic agent for the human immunodeficiency virus, are medically fragile, and technology dependent;".
 
-Subsec. (a)(4). Pub. L. 108–36, §201(1)(A), (D), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and some such children are in need of placement in permanent, adoptive homes;".
+Subsec. (a)(4). Pub. L. 108–36, §201(1)(A), (D), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardyand some such children are in need of placement in permanent, adoptive homes;".
 
 Subsec. (a)(5). Pub. L. 108–36, §201(1)(D), redesignated par. (7) as (5). Former par. (5) redesignated (4).
 

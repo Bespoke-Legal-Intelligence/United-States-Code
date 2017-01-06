@@ -22,7 +22,7 @@ The Chief Medical Officer shall have the primary responsibility within the Depar
 
 &emsp;(5) serving as the Department's primary point of contact for State, local, and tribal governments, the medical community, and others within and outside the Department, with respect to medical and public health matters;
 
-&emsp;(6) discharging, in coordination with the Under Secretary for Science and Technology, the responsibilities of the Department related to Project Bioshield; and
+&emsp;(6) discharging, in coordination with the Under Secretary for Science and Technology,the responsibilities of the Department related to Project Bioshield; and
 
 &emsp;(7) performing such other duties relating to such responsibilities as the Secretary may require.
 

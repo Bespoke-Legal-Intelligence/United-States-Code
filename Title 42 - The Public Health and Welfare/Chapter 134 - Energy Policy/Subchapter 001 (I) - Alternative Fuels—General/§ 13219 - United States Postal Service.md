@@ -4,7 +4,7 @@
 
 #### (b) Coordination
 
-To the maximum extent practicable, the Postmaster General shall coordinate the Postal Service's alternative fueled vehicle procurement, placement, refueling, and maintenance programs with those at the Federal, State, and local level. The Postmaster General shall communicate, share, and disseminate, on a regular basis, information on such programs with the Secretary, the Administrator of General Services, and heads of appropriate Federal agencies.
+To the maximum extent practicable, the Postmaster General shall coordinate the PostalService's alternative fueled vehicle procurement, placement, refueling, and maintenance programs with those at the Federal, State, and local level. The Postmaster General shall communicate, share, and disseminate, on a regular basis, information on such programs with the Secretary, the Administrator of General Services, and heads of appropriate Federal agencies.
 
 #### (c) Program criteria
 

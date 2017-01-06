@@ -6,7 +6,7 @@ There is established, in accordance with the provisions of this section, an inco
 
 #### (b) Administration
 
-The Association shall be directed by a Board of Directors. The individuals designated, pursuant to subsection (d)(2) of this section, as the Government members of such Board shall bedeemed the incorporators of the Association and shall take whatever steps are necessary to establish the Association, including filing of articles of incorporation, and serving as an acting Board of Directors for a period of not more than 45 days after the date of incorporation of the Association.
+The Association shall be directed by a Board of Directors. The individuals designated, pursuant to subsection (d)(2) of this section, as the Government members of such Board shall be deemed the incorporators of the Association and shall take whatever steps are necessary to establish the Association, including filing of articles of incorporation, and serving as an acting Board of Directors for a period of not more than 45 days after the date of incorporation of the Association.
 
 #### (c) Status
 
@@ -66,7 +66,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), 
 
 #### Codification
 
-Section 1147 of Pub. L. 97–35 directed that subsecs. (d) to (i) be struck out and replaced by new subsecs. (d) to (h), and that subsecs. (j) and (k) be redesignated (g) and (h), respectively. Because a literal execution of the amendment would result in two subsections designated (g) and two subsections designated (h), and to reflect the probable intent of Congress, subsecs. (j) and (k) have been editorially redesignated (i) and (j), respectively.
+Section 1147 of Pub. L. 97–35 directed that subsecs. (d) to (i) be struck out and replaced by new subsecs. (d) to (h), and that subsecs. (j) and (k) be redesignated (g) and (h), respectively. Because a literal execution of the amendment would result in two subsections designated\(g) and two subsections designated (h), and to reflect the probable intent of Congress, subsecs. (j) and (k) have been editorially redesignated (i) and (j), respectively.
 
 #### Amendments
 

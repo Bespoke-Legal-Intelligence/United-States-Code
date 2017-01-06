@@ -1,0 +1,6 @@
+### §603. Omitted
+
+#### Codification
+
+Section, act Aug. 9, 1946, ch. 933, §3, 60 Stat. 969, which related to correction of tribal membership roll, was omitted from the Code as being of special and not general application.
+

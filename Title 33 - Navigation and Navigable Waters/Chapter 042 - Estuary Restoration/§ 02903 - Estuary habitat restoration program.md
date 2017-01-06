@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restoration projects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
+There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restorationprojects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
 
 #### (b) Origin of projects
 
@@ -52,7 +52,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
-&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technologyor approach having the potential for improved cost-effectiveness in estuary habitat restoration.
+&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technology or approach having the potential for improved cost-effectiveness in estuary habitat restoration.
 
 #### (d) Cost sharing
 
@@ -60,7 +60,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (2) and subsection (e)(2) of this section, the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
+&emsp;&emsp;Except as provided in paragraph (2) and subsection (e)(2), the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
 
 #### (B) Monitoring
 
@@ -78,7 +78,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (2) Innovative technology costs
 
-&emsp;The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) of this section shall be 85 percent.
+&emsp;The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) shall be 85 percent.
 
 #### (3) Non-Federal share
 
@@ -104,13 +104,17 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;The Secretary may not carry out an estuary habitat restoration project until a non-Federal interest has entered into a written agreement with the Secretary in which the non-Federal interest agrees to—
 
-&emsp;&emsp;(A) provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3) of this section; and
+&emsp;&emsp;(A) provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3); and
 
 &emsp;&emsp;(B) provide for long-term maintenance and monitoring of the project.
 
 #### (2) Nongovernmental organizations
 
 &emsp;Notwithstanding section 1962d–5b(b) of title 42, for any project to be undertaken under this chapter, the Secretary, in consultation and coordination with appropriate State and local governmental agencies and Indian tribes, may allow a nongovernmental organization to serve as the non-Federal interest for the project.
+
+#### (3) Project agreements
+
+&emsp;For a project carried out under this chapter, the requirements of section 2213(j)(1) of this title may be fulfilled by a nongovernmental organization serving as the non-Federal interest for the project pursuant to paragraph (2).
 
 #### (g) Delegation of project implementation
 
@@ -144,9 +148,11 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;The head of a Federal department or agency to which a small project is delegated under this paragraph shall enter into an agreement with the non-Federal interest for the project generally in conformance with the criteria in subsections (d) and (e). Cooperative agreements may be used for any delegated project to allow the non-Federal interest to carry out the project on behalf of the Federal agency.
 
-(Pub. L. 106–457, title I, §104, Nov. 7, 2000, 114 Stat. 1960; Pub. L. 110–114, title V, §5017(c), Nov. 8, 2007, 121 Stat. 1197.)
+(Pub. L. 106–457, title I, §104, Nov. 7, 2000, 114 Stat. 1960; Pub. L. 110–114, title V, §5017(c), Nov. 8, 2007, 121 Stat. 1197; Pub. L. 114–322, title IV, §5013(a), Dec. 16, 2016, 130 Stat. 1903.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (f)(3). Pub. L. 114–322 added par. (3).
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–114, §5017(c)(1), inserted "through the award of contracts and cooperative agreements" after "assistance".
 

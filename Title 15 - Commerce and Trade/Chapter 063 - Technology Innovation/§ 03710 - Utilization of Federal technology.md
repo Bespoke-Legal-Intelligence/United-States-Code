@@ -46,7 +46,7 @@ The National Technical Information Service shall—
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer\(hereinafter referred to as the "Consortium") which, in cooperation with Federal laboratories and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the "Consortium") which, in cooperation with Federal laboratories and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
@@ -82,7 +82,7 @@ The National Technical Information Service shall—
 
 (5) Each Federal laboratory or agency shall transfer technology directly to users or representatives of users, and shall not transfer technology directly to the Consortium. Each Federal laboratory shall conduct and transfer technology only in accordance with the practices and policies of the Federal agency which owns, leases, or otherwise uses such Federal laboratory.
 
-(6) Not later than one year after October 20, 1986, and every year thereafter, the Chairman of the Consortium shall submit a report to the President, to the appropriate authorization and appropriation committees of both Houses of the Congress, and to each agency with respect to which a transfer of funding is made (for the fiscal year or years involved) under paragraph (7), concerning the activities of the Consortium and the expenditures made by it under this subsection during the year for which the report is made. Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.
+(6) Not later than one year after October 20, 1986, and every year thereafter, the Chairman of the Consortium shall submit a report to thePresident, to the appropriate authorization and appropriation committees of both Houses of the Congress, and to each agency with respect to which a transfer of funding is made (for the fiscal year or years involved) under paragraph (7), concerning the activities of the Consortium and the expenditures made by it under this subsection during the year for which the report is made. Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.
 
 (7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for a fiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose of carrying out activities of the Consortium under this subsection.
 
@@ -220,7 +220,7 @@ Subsec. (e)(7)(B)(ii). Pub. L. 102–245, §301(c), substituted "1991, 1992, 199
 
 Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which read as follows:
 
-"(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
+"(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out suchprojects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
 
 "(B) The demonstration projects established under subparagraph (A) shall serve as model programs. Such projects shall be designed to develop programs and mechanisms for technology transfer from the Federal laboratories which may be utilized by the States and which will enhance Federal, State, and local programs for the transfer of technology.
 
@@ -230,7 +230,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the precedingsentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
 
 <b>1988</b>—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -292,7 +292,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (A) to enter into cooperative research and development agreements with other Federal laboratories, State and local governments, universities, and the private sector; and
 
-(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under suchcooperative research or development agreements and from within individual laboratories.
+(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under such cooperative research or development agreements and from within individual laboratories.
 
 (2) identify and encourage persons to act as conduits between and among Federal laboratories, universities, and the private sector for the transfer of technology developed from federally funded research and development efforts;
 
@@ -330,7 +330,7 @@ Sec. 4. <i>International Science and Technology</i>. In order to ensure that the
 
 (c) The Secretaries of State and Commerce and the Director of the National Science Foundation shall develop a central mechanism for the prompt and efficient dissemination of science and technology information developed abroad to users in Federal laboratories, academic institutions, and the private sector on a fee-for-service basis.
 
-Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr. 10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially useful to United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
+Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr.10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially useful to United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
 
 Sec. 6. <i>Basic Science and Technology Centers</i>. The head of each Executive department and agency shall examine the potential for including the establishment of university research centers in engineering, science, or technology in the strategy and planning for any future research and development programs. Such university centers shall be jointly funded by the Federal Government, the private sector, and, where appropriate, the States and shall focus on areas of fundamental research and technology that are both scientifically promising and have the potential to contribute to the Nation's long-term economic competitiveness.
 

@@ -10,9 +10,53 @@ Required.—Each executive agency shall—
 
 &emsp;(3) promptly report excess property to the Administrator of General Services;
 
-&emsp;(4) perform the care and handling of excess property; and
+&emsp;(4) perform the care and handling of excess property;
 
-&emsp;(5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator.
+&emsp;(5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator;
+
+&emsp;(6) develop current and future workforce projections so as to have the capacity to assess the needs of the Federal workforce regarding the use of real property;
+
+&emsp;(7) establish goals and policies that will lead the executive agency to reduce excess property and underutilized property in the inventory of the executive agency;
+
+&emsp;(8) submit to the Federal Real Property Council an annual report on all excess property that is real property and underutilized property in the inventory of the executive agency, including—
+
+&emsp;&emsp;(A) whether underutilized property can be better utilized, including through collocation with other executive agencies or consolidation with other facilities; and
+
+&emsp;&emsp;(B) the extent to which the executive agency believes that retention of the underutilized property serves the needs of the executive agency;
+
+&emsp;(9) adopt workplace practices, configurations, and management techniques that can achieve increased levels of productivity and decrease the need for real property assets;
+
+&emsp;(10) assess leased space to identify space that is not fully used or occupied;
+
+&emsp;(11) on an annual basis and subject to the guidance of the Federal Real Property Council—
+
+&emsp;&emsp;(A) conduct an inventory of real property under control of the executive agency; and
+
+&emsp;&emsp;(B) make an assessment of each property, which shall include—
+
+&emsp;&emsp;&emsp;(i) the age and condition of the property;
+
+&emsp;&emsp;&emsp;(ii) the size of the property in square footage and acreage;
+
+&emsp;&emsp;&emsp;(iii) the geographical location of the property, including an address and description;
+
+&emsp;&emsp;&emsp;(iv) the extent to which the property is being utilized;
+
+&emsp;&emsp;&emsp;(v) the actual annual operating costs associated with the property;
+
+&emsp;&emsp;&emsp;(vi) the total cost of capital expenditures incurred by the Federal Government associated with the property;
+
+&emsp;&emsp;&emsp;(vii) sustainability metrics associated with the property;
+
+&emsp;&emsp;&emsp;(viii) the number of Federal employees and contractor employees and functions housed at the property;
+
+&emsp;&emsp;&emsp;(ix) the extent to which the mission of the executive agency is dependent on the property;
+
+&emsp;&emsp;&emsp;(x) the estimated amount of capital expenditures projected to maintain and operate the property during the 5-year period beginning on the date of enactment of this paragraph; and
+
+&emsp;&emsp;&emsp;(xi) any additional information required by the Administrator of General Services to carry out section 623; and
+
+&emsp;(12) provide to the Federal Real Property Council and the Administrator of General Services the information described in paragraph (11)(B) to be used for the establishment and maintenance of the database described in section 21 of the Federal Assets Sale and Transfer Act of 2016.
 
 (b)
 
@@ -24,7 +68,11 @@ Required as Far as Practicable.—Each executive agency, as far as practicable, 
 
 &emsp;(3) obtain excess property from other federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084.)
+(c)
+
+Definition of Executive Agency.—For the purpose of paragraphs (6) through (12) of subsection (a), the term "executive agency" shall have the meaning given the term "Federal agency" in section 621.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084; Pub. L. 114–318, §6, Dec. 16, 2016, 130 Stat. 1615.)
 
 Historical and Revision Notes
 
@@ -51,6 +99,18 @@ June 30, 1949, ch. 288, title II, §202(c), 63 Stat. 384; July 12, 1952, ch. 703
 In clause (a)(2), the word "identify" is substituted for "determine which is" to eliminate unnecessary words.
 
 In clause (b)(1), the words "determined to be" are omitted as unnecessary.
+
+#### References in Text
+
+The date of enactment of this paragraph, referred to in subsec. (a)(11)(B)(x), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
+
+Section 21 of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (a)(12), is section 21 of Pub. L. 114–287, which is set out in a note under section 1303 of this title.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(6) to (12). Pub. L. 114–318, §6(a), added pars. (6) to (12).
+
+Subsec. (c). Pub. L. 114–318, §6(b), added subsec. (c).
 
 #### OMB Report
 

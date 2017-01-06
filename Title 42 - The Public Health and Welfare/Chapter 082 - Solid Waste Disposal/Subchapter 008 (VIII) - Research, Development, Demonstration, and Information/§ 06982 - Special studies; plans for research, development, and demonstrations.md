@@ -24,7 +24,7 @@ The Administrator shall undertake a comprehensive study and analysis of, and pub
 
 #### (e) Front-end source separation
 
-The Administrator shall undertake research and studies concerning the compatibility offront-end source separation systems with high technology resource recovery systems and shall publish a report containing the results of such research and studies.
+The Administrator shall undertake research and studies concerning the compatibility of front-end source separation systems with high technology resource recovery systems and shall publish a report containing the results of such research and studies.
 
 #### (f) Mining waste
 
@@ -66,7 +66,7 @@ The Administrator shall undertake a study and publish a report respecting discar
 
 #### (i) Resource recovery facilities
 
-The Administrator shall conduct research and report on the economics of, and impediments, to the effective functioning of resource recovery facilities.
+The Administrator shall conduct research and report on the economics of, and impediments, tothe effective functioning of resource recovery facilities.
 
 #### (j) Resource Conservation Committee
 
@@ -152,7 +152,7 @@ The Administrator shall conduct a detailed and comprehensive study and submit a 
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such material and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report on such study, which shall include appropriate findings, not later than twenty-four monthsafter October 21, 1980. Such study and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such material and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report on such study, which shall include appropriate findings, not later than twenty-four months after October 21, 1980. Such study and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (o) Cement kiln dust waste
 
@@ -196,7 +196,7 @@ The Administrator shall conduct a detailed and comprehensive study on the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties,including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, in conjunction with the publication of the report of the study of mining wastes required to be conducted under subsection (f) of this section. Such report and findings shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (q) Authorization of appropriations
 

@@ -4,7 +4,7 @@ The Administrator shall—
 
 &emsp;(1) issue such rules as are necessary or appropriate to carry out this subchapter;
 
-&emsp;(2) make such arrangements as are necessary and appropriate to facilitate coordination andpolicy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
+&emsp;(2) make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
 
 &emsp;(3) provide adequate staff and resources necessary to properly carry out this subchapter; and
 

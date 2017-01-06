@@ -74,7 +74,7 @@ In general.—For purposes of this section, an eligible veteran is a veteran who
 
 &emsp;&emsp;"(E) is not in receipt of compensation for a service-connected disability rated totally disabling by reason of unemployability;
 
-&emsp;&emsp;"(F) was not and is not enrolled in any Federal or State job training program at any time during the 180-day period ending on the date of the submittal of the application for assistance under this section; and
+&emsp;&emsp;"(F) was not and is not enrolled in any Federal or State job training program at any time during the180-day period ending on the date of the submittal of the application for assistance under this section; and
 
 &emsp;&emsp;"(G) by not later than October 1, 2013, submits to the Secretary of Labor an application for assistance under this section containing such information and assurances as that Secretary may require.
 

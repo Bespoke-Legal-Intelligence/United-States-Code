@@ -13,6 +13,7 @@
 - [&sect; 03966 - Within-class salary increases](%C2%A7%2003966%20-%20Within-class%20salary%20increases.md)
 - [&sect; 03967 - Salaries for Foreign Service personnel abroad who perform routine duties](%C2%A7%2003967%20-%20Salaries%20for%20Foreign%20Service%20personnel%20abroad%20who%20perform%20routine%20duties.md)
 - [&sect; 03968 - Local compensation plans](%C2%A7%2003968%20-%20Local%20compensation%20plans.md)
+- [&sect; 03968a - Locally-employed staff wages](%C2%A7%2003968a%20-%20Locally-employed%20staff%20wages.md)
 - [&sect; 03969 - Salaries of consular agents](%C2%A7%2003969%20-%20Salaries%20of%20consular%20agents.md)
 - [&sect; 03970 - Compensation for imprisoned foreign national employees](%C2%A7%2003970%20-%20Compensation%20for%20imprisoned%20foreign%20national%20employees.md)
 - [&sect; 03971 - Temporary service as principal officer](%C2%A7%2003971%20-%20Temporary%20service%20as%20principal%20officer.md)

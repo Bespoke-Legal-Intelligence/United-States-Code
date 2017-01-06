@@ -34,7 +34,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
-&emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under acall or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10, United States Code;
+&emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10, United States Code;
 
 &emsp;(8) the term "covered servicemember" means—
 
@@ -54,7 +54,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
 
-&emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (8)(B), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran; and
+&emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (8)(B), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the ArmedForces) and that manifested itself before or after the member became a veteran; and
 
 &emsp;(12) the term "veteran" has the meaning given the term in section 101 of title 38, United States Code.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of 
 
 #### Effective Date
 
-Subchapter effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of Title 29, Labor.
 
 #### Regulations
 

@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of actions by States
 
-The United States district courts shall have original jurisdiction (concurrent with that of the Supreme Court of the United States, and concurrent with that of any other court of the United States or of any State of the United States in matters in which the Supreme Court, or any other court, has original jurisdiction) of any case or controversy—
+The United States district courts shall have original jurisdiction (concurrent with that of the Supreme Court of the United States, and concurrent with that of any other court of the United States or of any State of the United States in matters in which the Supreme Court,or any other court, has original jurisdiction) of any case or controversy—
 
 &emsp;(1) which involves the construction or application of an interstate compact which (A) in whole or in part relates to the pollution of the waters of an interstate river system or any portion thereof, and (B) expresses the consent of the States signatory to said compact to be sued in a district court in any case or controversy involving the application or construction thereof; and
 
@@ -22,7 +22,7 @@ The original jurisdiction conferred upon the district courts by this section sha
 
 #### (d) Venue
 
-The venue of such case or controversy shall be as prescribed by law: <i>Provided</i>, That in addition thereto, such case or controversy may bebrought in in any judicial district in which the acts of pollution complained of, or any portion thereof, occur, regardless of the place or places of residence, or situs, of any of the parties plaintiff or defendant.
+The venue of such case or controversy shall be as prescribed by law: <i>Provided</i>, That in addition thereto, such case or controversy may be brought in in any judicial district in which the acts of pollution complained of, or any portion thereof, occur, regardless of the place or places of residence, or situs, of any of the parties plaintiff or defendant.
 
 (Pub. L. 87–830, §1, Oct. 15, 1962, 76 Stat. 957.)
 

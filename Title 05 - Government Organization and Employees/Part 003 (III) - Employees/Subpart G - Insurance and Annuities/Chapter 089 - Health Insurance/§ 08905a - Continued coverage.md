@@ -36,7 +36,7 @@
 
 &emsp;(B) with respect to a child of an employee or annuitant who becomes eligible for continued coverage under this section as a result of ceasing to meet the requirements for being considered a member of the employee's or annuitant's family—
 
-&emsp;&emsp;(i) the employee or annuitant may provide written notice of the child's change in status (complete with the child's name, address, and such other information as the Office may by regulation require)—
+&emsp;&emsp;(i) the employee or annuitant may provide written notice of the child's change in status (complete with the child's name, address,and such other information as the Office may by regulation require)—
 
 &emsp;&emsp;&emsp;(I) to the employee's employing agency; or
 
@@ -132,7 +132,7 @@
 
 &emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child;
 
-&emsp;(B) as of the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered as the child of a former employee receiving continued coverage underthis section based on the former employee's separation from service; and
+&emsp;(B) as of the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered as the child of a former employee receiving continued coverage under this section based on the former employee's separation from service; and
 
 &emsp;(C) so ceases to meet the requirements referred to in subparagraph (A) before the end of the 18-month period beginning on the date of the former employee's separation from service,
 
@@ -162,7 +162,7 @@
 
 &emsp;(A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section based on such person's separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment; and
 
-&emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),
+&emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on thedate of the separation from service referred to in subparagraph (A),
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 

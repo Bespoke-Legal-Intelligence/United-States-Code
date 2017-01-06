@@ -38,11 +38,11 @@ Not later than 180 days after December 19, 2007, the Secretary of State shall su
 
 &emsp;(2) an analysis of the need for Federal energy specialist personnel in United States embassies and other United States diplomatic missions; and
 
-&emsp;(3) recommendations for increasing energy expertise within United States embassies among foreign service officers and options for assigning to such embassies energy attachésfrom the National Laboratories or other agencies within the Department of Energy.
+&emsp;(3) recommendations for increasing energy expertise within United States embassies among foreign service officers and options for assigning to such embassies energy attachés from the National Laboratories or other agencies within the Department of Energy.
 
 #### (c) Energy advisors
 
-The Secretary of Energy may make appropriate arrangements with the Secretary of State to assign personnel from the Department of Energy or the National Laboratories of the Department of Energy to serve as dedicated advisors on energy matters in embassies of the United States or other United States diplomatic missions.
+The Secretary of Energy may make appropriate arrangements with the Secretary of Stateto assign personnel from the Department of Energy or the National Laboratories of the Department of Energy to serve as dedicated advisors on energy matters in embassies of the United States or other United States diplomatic missions.
 
 #### (d) Report
 

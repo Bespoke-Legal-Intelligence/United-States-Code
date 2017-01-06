@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is authorized to be appropriated to each of the Secretary and the Administrator to carry out this chapter, to remain available until expended—
+There is authorized to be appropriated to each of the Secretary and the Administrator to carryout this chapter, to remain available until expended—
 
 &emsp;(1) $20,000,000 for fiscal year 2015;
 

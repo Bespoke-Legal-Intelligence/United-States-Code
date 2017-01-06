@@ -4,7 +4,7 @@ For purposes of this part—
 
 #### (1) Group health plan
 
-&emsp;The term "group health plan" means an employee welfare benefit plan providing medical care (as defined in section 213(d) of title 26) to participants or beneficiaries directly or through insurance, reimbursement, or otherwise. Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).
+&emsp;The term "group health plan" means an employee welfare benefit plan providing medical care (as defined in section 213(d) of title 26) to participants or beneficiaries directly or through insurance, reimbursement, or otherwise. Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26). Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26).
 
 #### (2) Covered employee
 
@@ -48,9 +48,11 @@ For purposes of this part—
 
 &emsp;&emsp;(B) that the applicable notice period provided under section 1166(a)(2) of this title commences with the date of the loss of coverage.
 
-(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088.)
+(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 114–255, div. C, title XVIII, §18001(b)(2), Dec. 13, 2016, 130 Stat. 1344.)
 
 #### Amendments
+
+<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26)."
 
@@ -60,7 +62,7 @@ Par. (3)(A). Pub. L. 104–191, §421(b)(3), inserted at end "Such term shall al
 
 Par. (1). Pub. L. 101–239, §7862(c)(6)(A), repealed Pub. L. 100–647, §3011(b)(6), see 1988 Amendment note below.
 
-Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954",which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Par. (2). Pub. L. 101–239, §7862(c)(2)(A), substituted "the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)" for "the individual's employment or previous employment with an employer".
 
@@ -73,6 +75,10 @@ Pub. L. 99–514, §1895(d)(8), amended par. (1) generally. Prior to amendment, 
 Par. (3)(C). Pub. L. 99–509 added subpar. (C).
 
 Par. (4). Pub. L. 99–514, §1895(d)(9)(A), added par. (4).
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–255, div. C, title XVIII, §18001(b)(3), Dec. 13, 2016, 130 Stat. 1344, provided that: "The amendments made by this subsection \[amending this section and section 1191b of this title\] shall apply to plan years beginning after December 31, 2016."
 
 #### Effective Date of 1996 Amendment
 

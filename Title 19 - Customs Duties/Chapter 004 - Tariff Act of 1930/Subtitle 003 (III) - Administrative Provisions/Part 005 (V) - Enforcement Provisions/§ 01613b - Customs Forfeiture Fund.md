@@ -44,7 +44,7 @@
 
 #### (b) United States Coast Guard
 
-The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
+The Commissioner of U.S. Customs and Border Protection shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
 
 &emsp;(1) equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
 
@@ -64,7 +64,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 #### (e) Annual reports; audits
 
-(1) The Commissioner of Customs shall transmit to the Congress, by no later than February 1 of each fiscal year the following detailed reports:
+(1) The Commissioner of U.S. Customs and Border Protection shall transmit to the Congress, by no later than February 1 of each fiscal year the following detailed reports:
 
 &emsp;(A) a report on—
 
@@ -110,7 +110,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (3) At the end of each fiscal year, any unobligated amount in excess of $15,000,000 remaining in the Fund shall be deposited into the general fund of the Treasury of the United States.
 
-(June 17, 1930, ch. 497, title IV, §613A, as added Pub. L. 98–573, title II, §213(a)(11), Oct. 30, 1984, 98 Stat. 2986; amended Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), Oct. 27, 1986, 100 Stat. 3207–12, 3207–93; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 438; Pub. L. 100–202, §101(m) \[title I, §106\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–397; Pub. L. 100–418, title I, §1912, Aug. 23, 1988, 102 Stat. 1320; Pub. L. 100–690, title VII, §7364, Nov. 18, 1988, 102 Stat. 4475; Pub. L. 101–382, title I, §121, Aug. 20, 1990, 104 Stat. 640; Pub. L. 101–508, title X, §10012(a), Nov. 5, 1990, 104 Stat. 1388–390; Pub. L. 104–316, title I, §110(a), Oct. 19, 1996, 110 Stat. 3832.)
+(June 17, 1930, ch. 497, title IV, §613A, as added Pub. L. 98–573, title II, §213(a)(11), Oct. 30, 1984, 98 Stat. 2986; amended Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), Oct. 27, 1986, 100 Stat. 3207–12, 3207–93; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 438; Pub. L. 100–202, §101(m) \[title I, §106\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–397; Pub. L. 100–418, title I, §1912, Aug. 23, 1988, 102 Stat. 1320; Pub. L. 100–690, titleVII, §7364, Nov. 18, 1988, 102 Stat. 4475; Pub. L. 101–382, title I, §121, Aug. 20, 1990, 104 Stat. 640; Pub. L. 101–508, title X, §10012(a), Nov. 5, 1990, 104 Stat. 1388–390; Pub. L. 104–316, title I, §110(a), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Prior Provisions
 
@@ -168,6 +168,10 @@ Subsec. (f). Pub. L. 99–570, §3142(a)(2), amended subsec. (f) generally. Prio
 
 "(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of the Treasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist."
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsecs. (b) and (e)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–508, title X, §10012(c), Nov. 5, 1990, 104 Stat. 1388–390, provided that: "The provisions of this section \[amending this section\] take effect August 21, 1990."
@@ -190,7 +194,7 @@ Pub. L. 99–570, title I, §1152(b)(2), Oct. 27, 1986, 100 Stat. 3207–12, whi
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

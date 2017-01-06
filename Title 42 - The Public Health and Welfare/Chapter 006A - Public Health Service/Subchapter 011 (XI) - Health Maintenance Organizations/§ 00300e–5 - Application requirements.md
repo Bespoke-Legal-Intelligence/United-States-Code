@@ -22,7 +22,7 @@ The Secretary may not approve an application for a loan or loan guarantee under 
 
 &emsp;(7) the application is submitted in such form and manner, and contains such additional information, as the Secretary shall prescribe in regulations.
 
-> An organization making multiple applications for more than one loan or loan guarantee under this subchapter, simultaneously or over the course of time, shall not be required to submit duplicate or redundant information but shall be required to update the specifications (required by paragraph (3)) respecting the existing or proposed health maintenance organization in such manner and with such frequency as the Secretary may by regulation prescribe. In determining, for purposes of paragraph (2), whether an applicant would be able to complete a project or undertaking without the assistance applied for, the Secretary shall not consider any asset of the applicant the obligation of which for such undertaking or project would jeopardize the fiscal soundness of the applicant.
+> An organization making multiple applications for more than one loan or loan guarantee under this subchapter, simultaneously or over the course of time, shall not be required to submit duplicate or redundant information but shall be required to update the specifications (required by paragraph (3)) respecting the existing or proposed health maintenance organization in such manner and with such frequency as the Secretary may by regulation prescribe. In determining, for purposes of paragraph (2), whetheran applicant would be able to complete a project or undertaking without the assistance applied for, the Secretary shall not consider any asset of the applicant the obligation of which for such undertaking or project would jeopardize the fiscal soundness of the applicant.
 
 #### (c) Regulations
 
@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 94–460, §117(b)(6), substituted "health systems agencies
 
 Pub. L. 99–660, title VIII, §803(c), Nov. 14, 1986, 100 Stat. 3800, provided that: "The amendments made by this section \[amending this section and sections 300e–6, 300e–8, and 300e–16 of this title and repealing sections 300e–2 and 300e–3 of this title\] do not apply to any grant made or contract entered into under title XIII of the Public Health Service Act \[42 U.S.C. 300e et seq.\] before October 1, 1985."
 
-Pub. L. 99–660, title VIII, §805(c), Nov. 14, 1986, 100 Stat. 3800, provided that: "The amendments made bythis section \[amending this section and repealing section 300e–4a of this title\] do not apply to any loan or loan guarantee made under section 1305A of the Public Health Service Act \[former 42 U.S.C. 300e–4a\] before October 1, 1985."
+Pub. L. 99–660, title VIII, §805(c), Nov. 14, 1986, 100 Stat. 3800, provided that: "The amendments made by this section \[amending this section and repealing section 300e–4a of this title\] do not apply to any loan or loan guarantee made under section 1305A of the Public Health Service Act \[former 42 U.S.C. 300e–4a\] before October 1, 1985."
 
 Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub. L. 99–660, set out as an Effective and Termination Dates of 1986 Amendment note under section 300e–1 of this title.
 

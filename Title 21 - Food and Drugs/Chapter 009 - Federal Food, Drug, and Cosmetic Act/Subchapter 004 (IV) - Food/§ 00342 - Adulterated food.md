@@ -62,7 +62,7 @@ If it is an article of food imported or offered for import into the United State
 
 If it is transported or offered for transport by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food under conditions that are not in compliance with regulations promulgated under section 350e of this title.
 
-(June 25, 1938, ch. 675, §402, 52 Stat. 1046; Mar. 16, 1950, ch. 61, §3(d), 64 Stat. 21; July 22, 1954, ch. 559, §2, 68 Stat. 511; July 9, 1956, ch. 530, 70 Stat. 512; Pub. L. 85–929, §3(a), (b), Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–2, Mar. 17, 1959, 73 Stat. 3; Pub. L. 86–618, title I, §§102(a)(1), (2), 105(c), July12, 1960, 74 Stat. 397, 398, 404; Pub. L. 89–477, June 29, 1966, 80 Stat. 231; Pub. L. 90–399, §104, July 13, 1968, 82 Stat. 352; Pub. L. 99–252, §10, Feb. 27, 1986, 100 Stat. 35; Pub. L. 102–571, title I, §107(4), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(i), Aug. 13, 1993, 107 Stat. 776; Pub. L. 103–417, §§4, 9, Oct. 25, 1994, 108 Stat. 4328, 4332; Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 107–188, title III, §309, June 12, 2002, 116 Stat. 673; Pub. L. 109–59, title VII, §7202(a), Aug. 10, 2005, 119 Stat. 1911.)
+(June 25, 1938, ch. 675, §402, 52 Stat. 1046; Mar. 16, 1950, ch. 61, §3(d), 64 Stat. 21; July 22, 1954, ch. 559, §2, 68 Stat. 511; July 9, 1956, ch. 530, 70 Stat. 512; Pub. L. 85–929, §3(a), (b), Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–2, Mar. 17, 1959, 73 Stat. 3; Pub. L. 86–618, title I, §§102(a)(1), (2), 105(c), July 12, 1960, 74 Stat. 397, 398, 404; Pub. L. 89–477, June 29, 1966, 80 Stat. 231; Pub. L. 90–399, §104, July 13, 1968, 82 Stat. 352; Pub. L. 99–252, §10, Feb. 27, 1986, 100 Stat. 35; Pub. L. 102–571, title I, §107(4), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(i), Aug. 13, 1993, 107 Stat. 776; Pub. L. 103–417, §§4, 9, Oct. 25, 1994, 108 Stat. 4328, 4332; Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 107–188, title III, §309, June 12, 2002, 116 Stat. 673; Pub. L. 109–59, title VII, §7202(a), Aug. 10, 2005, 119 Stat. 1911.)
 
 #### Amendments
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar mont
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618,see section 202 of Pub. L. 86–618, set out as a note under section 379e of this title.
+Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618, see section 202 of Pub. L. 86–618, set out as a note under section 379e of this title.
 
 #### Effective Date of Nematocide, Plant Regulator, Defoliant, and Desiccant Amendment of 1959
 

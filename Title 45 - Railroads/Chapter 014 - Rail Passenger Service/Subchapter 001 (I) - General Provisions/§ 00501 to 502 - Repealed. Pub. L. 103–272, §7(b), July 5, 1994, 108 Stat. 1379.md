@@ -1,8 +1,8 @@
 ### §§501 to 502. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
-Section 501, Pub. L. 91–518, title I, §101, Oct. 30, 1970, 84 Stat. 1328; Pub. L. 96–73, title I, §102, Sept. 29, 1979, 93 Stat. 537; Pub. L. 97–35, title XI, §1171, Aug. 13, 1981, 95 Stat. 687, related to congressional findings on needs for cost- and energy-efficient intercity rail passenger service. See section 24101 of Title 49, Transportation.
+Section 501, Pub. L. 91–518, title I, §101, Oct. 30, 1970, 84 Stat. 1328; Pub. L. 96–73, title I, §102, Sept. 29, 1979,93 Stat. 537; Pub. L. 97–35, title XI, §1171, Aug. 13, 1981, 95 Stat. 687, related to congressional findings on needs for cost- and energy-efficient intercity rail passenger service. See section 24101 of Title 49, Transportation.
 
-Section 501a, Pub. L. 91–518, title I, §102, as added Pub. L. 96–73, title I, §103(a), Sept. 29, 1979, 93 Stat. 537;amended Pub. L. 97–35, title XI, §1172, Aug. 13, 1981, 95 Stat. 688, enumerated goals established by Congress for Amtrak. See section 24101 of Title 49.
+Section 501a, Pub. L. 91–518, title I, §102, as added Pub. L. 96–73, title I, §103(a), Sept. 29, 1979, 93 Stat. 537; amended Pub. L. 97–35, title XI, §1172, Aug. 13, 1981, 95 Stat. 688, enumerated goals established by Congress for Amtrak. See section 24101 of Title 49.
 
 A prior section 102 of Pub. L. 91–518 was renumbered section 103 and classified to section 502 of this title, prior to repeal by Pub. L. 103–272, §7(b).
 

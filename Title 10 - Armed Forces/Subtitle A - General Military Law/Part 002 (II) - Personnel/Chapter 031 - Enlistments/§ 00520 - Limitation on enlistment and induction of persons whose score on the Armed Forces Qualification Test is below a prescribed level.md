@@ -28,7 +28,7 @@ Pub. L. 97–86, title IV, §402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided th
 
 #### Pilot Program for Treating GED and Home School Diploma Recipients as High School Graduates for Determinations of Eligibility for Enlistment in Armed Forces
 
-Pub. L. 105–261, div. A, title V, §571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X,§1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
+Pub. L. 105–261, div. A, title V, §571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
 
 #### Maximum Number of Army Enlistees and Inductees Who Are Not High School Graduates
 

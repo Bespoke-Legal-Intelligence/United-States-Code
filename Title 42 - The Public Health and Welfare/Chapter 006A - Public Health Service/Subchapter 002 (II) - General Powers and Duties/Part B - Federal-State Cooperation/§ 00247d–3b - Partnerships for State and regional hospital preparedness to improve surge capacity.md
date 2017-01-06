@@ -66,7 +66,7 @@ A political subdivision shall not participate in more than one partnership descr
 
 #### (1) Local response capabilities
 
-&emsp;An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the local Cities Readiness Initiative, and local emergency plans.
+&emsp;An eligible entity shall, to the extent practicable, ensure that activities carried outunder an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the local Cities Readiness Initiative, and local emergency plans.
 
 #### (2) National collaboration
 

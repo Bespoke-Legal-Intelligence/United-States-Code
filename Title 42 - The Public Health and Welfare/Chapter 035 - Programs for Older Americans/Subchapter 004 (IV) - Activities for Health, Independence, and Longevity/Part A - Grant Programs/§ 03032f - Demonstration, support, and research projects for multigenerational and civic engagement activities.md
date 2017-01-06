@@ -6,7 +6,7 @@ The Assistant Secretary shall award grants and enter into contracts with eligibl
 
 &emsp;(1) provide opportunities for older individuals to participate in multigenerational activities and civic engagement activities designed to meet critical community needs, and use the full range of time, skills, and experience of older individuals, including demonstration and support projects that—
 
-&emsp;&emsp;(A) provide support for grandparents and other older individuals who are relative caregivers raising children (such as kinship navigator programs); or
+&emsp;&emsp;(A) provide support for older relative caregivers (as defined in section 3030s of this title) raising children (such as kinship navigator programs); or
 
 &emsp;&emsp;(B) involve volunteers who are older individuals who provide support and information to families who have a child with a disability or chronic illness, or other families in need of such family support; and
 
@@ -100,9 +100,11 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) individuals in younger generations.
 
-(Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555.)
+(Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555; Pub. L. 114–144, §5(e), Apr. 19, 2016, 130 Stat. 342.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–144 substituted "older relative caregivers (as defined in section 3030s of this title)" for "grandparents and other older individuals who are relative caregivers".
 
 <b>2006</b>—Pub. L. 109–365 amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
 

@@ -32,7 +32,7 @@ The Administrator shall make flood insurance available in only those States or a
 
 &emsp;(1) evidenced a positive interest in securing flood insurance coverage under the flood insurance program, and
 
-&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodways and on controlling flood elevations is available.
+&emsp;(2) given satisfactory assurance that by December 31, 1971, adequate land use and control measures will have been adopted for the State or area (or subdivision) which are consistent with the comprehensive criteria for land management and use developed under section 4102 of this title, and that the application and enforcement of such measures will commence as soon as technical information on floodwaysand on controlling flood elevations is available.
 
 #### (d) Availability of insurance for multifamily properties
 

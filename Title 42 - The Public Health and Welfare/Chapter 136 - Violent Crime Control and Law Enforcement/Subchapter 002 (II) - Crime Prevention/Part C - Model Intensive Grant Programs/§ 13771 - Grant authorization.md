@@ -18,7 +18,7 @@
 
 #### (b) Priority
 
-In awarding grants under subsection (a) of this section, the Attorney General shall give priority to proposals that—
+In awarding grants under subsection (a), the Attorney General shall give priority to proposals that—
 
 &emsp;(1) are innovative in approach to the prevention of crime in a specific area;
 

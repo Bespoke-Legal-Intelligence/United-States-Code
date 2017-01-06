@@ -66,7 +66,7 @@
 
 #### (B) Process for adjustments
 
-&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case in which payment is made for drugs and biologicals which were billed at the time of dispensing but which were not actually administered.
+&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case inwhich payment is made for drugs and biologicals which were billed at the time of dispensing but which were not actually administered.
 
 #### (C) Information for purposes of cost-sharing
 
@@ -108,7 +108,7 @@
 
 #### (1) Contract for competitively biddable drugs and biologicals
 
-&emsp;The Secretary shall conduct a competition among entities for the acquisition of competitively biddable drugs and biologicals. Notwithstanding any other provision of this subchapter, in the case of a multiple source drug, the Secretary shall conduct such competition among entities for the acquisition of at leastone competitively biddable drug and biological within each billing and payment code within each category for each competitive acquisition area.
+&emsp;The Secretary shall conduct a competition among entities for the acquisition of competitively biddable drugs and biologicals. Notwithstanding any other provision of this subchapter, in the case of a multiple source drug, the Secretary shall conduct such competition among entities for the acquisition of at least one competitively biddable drug and biological within each billing and payment code within each category for each competitive acquisition area.
 
 #### (2) Conditions for awarding contract
 
@@ -174,7 +174,7 @@
 
 #### (C) Integrity of drug and biological distribution system
 
-&emsp;&emsp;A contractor (as defined in subsection (a)(2)(D) of this section) shall—
+&emsp;&emsp;A contractor (as defined in subsection (a)(2)(D)) shall—
 
 &emsp;&emsp;&emsp;(i) acquire all drug and biological products it distributes directly from the manufacturer or from a distributor that has acquired the products directly from the manufacturer; and
 
@@ -192,7 +192,7 @@
 
 #### (E) Direct delivery of drugs and biologicals to physicians
 
-&emsp;&emsp;Under the contract the contractor shall only supply competitively biddable drugsand biologicals directly to the selecting physicians and not directly to individuals, except under circumstances and settings where an individual currently receives a drug or biological in the individual's home or other non-physician office setting as the Secretary may provide. The contractor shall not deliver drugs and biologicals to a selecting physician except upon receipt of a prescription for such drugs and biologicals, and such necessary data as may be required by the Secretary to carry out this section. This section does not—
+&emsp;&emsp;Under the contract the contractor shall only supply competitively biddable drugs and biologicals directly to the selecting physicians and not directly to individuals, except under circumstances and settings where an individual currently receives a drug or biological in the individual's home or other non-physician office setting as the Secretary may provide. The contractor shall not deliver drugs and biologicals to a selecting physician except upon receipt of a prescription for such drugs and biologicals, and such necessary data as may be required by the Secretary to carry out this section. This section does not—
 
 &emsp;&emsp;&emsp;(i) require a physician to submit a prescription for each individual treatment; or
 
@@ -218,11 +218,11 @@
 
 #### (1) In general
 
-&emsp;In awarding a contract for a category of drugs and biologicals in an area under the program, the Secretary shall consider with respect to each entity seeking to be awarded a contract the bid price and the other factors referred to in subsection (b)(3) of this section.
+&emsp;In awarding a contract for a category of drugs and biologicals in an area under the program, the Secretary shall consider with respect to each entity seeking to be awarded a contract the bid price and the other factors referred to in subsection (b)(3).
 
 #### (2) Bid defined
 
-&emsp;In this section, the term "bid" means an offer to furnish a competitively biddable drug or biological for a particular price and time period.
+&emsp;In this section, the term "bid" means an offer to furnish a competitively biddable drugor biological for a particular price and time period.
 
 #### (3) Bidding on a national or regional basis
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;(B) in that section to "prices charged for drugs" is deemed a reference to a "bid" submitted under this section; and
 
-&emsp;&emsp;(C) in clause (i) of that section to "this section", is deemed a reference to "part B of subchapter XVIII of this chapter".
+&emsp;&emsp;(C) in clause (i) of that section to "this section", is deemed a reference to "part B of subchapter XVIII".
 
 #### (6) Inclusion of costs
 
@@ -280,7 +280,7 @@
 
 #### (1) Application of coinsurance
 
-&emsp;Payment under this section for competitively biddable drugs and biologicals shall be in an amount equal to 80 percent of the payment basis described in subsection (d)(1) of this section.
+&emsp;Payment under this section for competitively biddable drugs and biologicals shall be in an amount equal to 80 percent of the payment basis described in subsection (d)(1).
 
 #### (2) Deductible
 
@@ -288,13 +288,13 @@
 
 #### (3) Collection
 
-&emsp;Such coinsurance and deductible shall be collected by the contractor that supplies the drug or biological involved. Subject to subsection (a)(3)(B) of this section, such coinsurance and deductible may be collected in a manner similar to the manner in which the coinsurance and deductible are collected for durable medical equipment under this part.
+&emsp;Such coinsurance and deductible shall be collected by the contractor that supplies the drug or biological involved. Subject to subsection (a)(3)(B), such coinsurance and deductible may be collected in a manner similar to the manner in which the coinsurance and deductible are collected for durable medical equipment under this part.
 
 #### (f) Special payment rules
 
 #### (1) Use in exclusion cases
 
-&emsp;If the Secretary excludes a drug or biological (or class of drugs or biologicals) under subsection (a)(1)(D) of this section, the Secretary may provide for payment to be made under this part for such drugs and biologicals (or class) using the payment methodology under section 1395w–3a of this title.
+&emsp;If the Secretary excludes a drug or biological (or class of drugs or biologicals) under subsection (a)(1)(D), the Secretary may provide for payment to be made under this part for such drugs and biologicals (or class) using the payment methodology under section 1395w–3a of this title.
 
 #### (2) Application of requirement for assignment
 
@@ -308,13 +308,13 @@
 
 There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
-&emsp;(1) the establishment of payment amounts under subsection (d)(1) of this section;
+&emsp;(1) the establishment of payment amounts under subsection (d)(1);
 
 &emsp;(2) the awarding of contracts under this section;
 
-&emsp;(3) the establishment of competitive acquisition areas under subsection (a)(2)(C) of this section;
+&emsp;(3) the establishment of competitive acquisition areas under subsection (a)(2)(C);
 
-&emsp;(4) the phased-in implementation under subsection (a)(1)(B) of this section;
+&emsp;(4) the phased-in implementation under subsection (a)(1)(B);
 
 &emsp;(5) the selection of categories of competitively biddable drugs and biologicals for competitive acquisition under such subsection or the selection of a drug in the case of multiple source drugs; or
 
@@ -362,7 +362,7 @@ Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provide
 
 Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
-Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs orbiologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 #### (2) Annual limits
 
-&emsp;In the case of a group health plan or a health insurance issuer offering group or individual health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits—
+&emsp;In the case of a group health plan or a health insurance issuer offering group or individualhealth insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits—
 
 #### (A) No annual limit
 
@@ -76,6 +76,100 @@
 
 &emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
 
+#### (6) Compliance program guidance document
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 12 months after December 13, 2016, the Secretary, the Secretary of Labor, and the Secretary of the Treasury, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall issuea compliance program guidance document to help improve compliance with this section, section 1185a of title 29, and section 9812 of title 26, as applicable. In carrying out this paragraph, the Secretaries may take into consideration the 2016 publication of the Department of Health and Human Services and the Department of Labor, entitled "Warning Signs - Plan or Policy Non-Quantitative Treatment Limitations (NQTLs) that Require Additional Analysis to Determine Mental Health Parity Compliance".
+
+#### (B) Examples illustrating compliance and noncompliance
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The compliance program guidance document required under this paragraph shall provide illustrative, de-identified examples (that do not disclose any protected health information or individually identifiable information) of previous findings of compliance and noncompliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, based on investigations of violations of such sections, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) examples illustrating requirements for information disclosures and nonquantitative treatment limitations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) descriptions of the violations uncovered during the course of such investigations.
+
+#### (ii) Nonquantitative treatment limitations
+
+&emsp;&emsp;&emsp;To the extent that any example described in clause (i) involves a finding of compliance or noncompliance with regard to any requirement for nonquantitative treatment limitations, the example shall provide sufficient detail to fully explain such finding, including a full description of the criteria involved for approving medical and surgical benefits and the criteria involved for approving mental health and substance use disorder benefits.
+
+#### (iii) Access to additional information regarding compliance
+
+&emsp;&emsp;&emsp;In developing and issuing the compliance program guidance document required under this paragraph, the Secretaries specified in subparagraph (A)—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall enter into interagency agreements with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury to share findings of compliance and noncompliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall seek to enter into an agreement with a State to share information on findings of compliance and noncompliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
+
+#### (C) Recommendations
+
+&emsp;&emsp;The compliance program guidance document shall include recommendations to advance compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, and encourage the development and use of internal controls to monitor adherence to applicable statutes, regulations, and program requirements. Such internal controls may include illustrative examples of nonquantitative treatment limitations on mental health and substance use disorder benefits, which may fail to comply with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, in relation to nonquantitative treatment limitations on medical and surgical benefits.
+
+#### (D) Updating the compliance program guidance document
+
+&emsp;&emsp;The Secretary, the Secretary of Labor, and the Secretary of the Treasury, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall update the compliance program guidance document every 2 years to include illustrative, de-identified examples (that do not disclose any protected health information or individually identifiable information) of previous findings of compliance and noncompliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
+
+#### (7) Additional guidance
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 12 months after December 13, 2016, the Secretary, the Secretary of Labor, and the Secretary of the Treasury shall issue guidance to group health plans and health insurance issuers offering group or individual health insurance coverage to assist such plans and issuers in satisfying the requirements of this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
+
+#### (B) Disclosure
+
+#### (i) Guidance for plans and issuers
+
+&emsp;&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods that group health plans and health insurance issuers offering group or individual health insurance coverage may use for disclosing information to ensure compliance with the requirements under this section, section 1185a of title 29, or section 9812 of title 26, as applicable, (and any regulations promulgated pursuant to such sections, as applicable).
+
+#### (ii) Documents for participants, beneficiaries, contracting providers, or authorized representatives
+
+&emsp;&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods that group health plans and health insurance issuers offering group or individual health insurance coverage may use to provide any participant, beneficiary, contracting provider, or authorized representative, as applicable, with documents containing information that the health plans or issuers are required to disclose to participants, beneficiaries, contracting providers, or authorized representatives to ensure compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, compliance with any regulation issued pursuant to such respective section, or compliance with any other applicable law or regulation. Such guidance shall include information that is comparative in nature with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) nonquantitative treatment limitations for both medical and surgical benefits and mental health and substance use disorder benefits;
+
+&emsp;&emsp;&emsp;&emsp;(II) the processes, strategies, evidentiary standards, and other factors used to apply the limitations described in subclause (I); and
+
+&emsp;&emsp;&emsp;&emsp;(III) the application of the limitations described in subclause (I) to ensure that such limitations are applied in parity with respect to both medical and surgical benefits and mental health and substance use disorder benefits.
+
+#### (C) Nonquantitative treatment limitations
+
+&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods, processes, strategies, evidentiary standards, and other factors that group health plans and health insurance issuers offering group or individual health insurance coverage may use regarding the development and application of nonquantitative treatment limitations to ensure compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable, (and any regulations promulgated pursuant to such respective section), including—
+
+&emsp;&emsp;&emsp;(i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to both medical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
+
+&emsp;&emsp;&emsp;&emsp;(I) medical management standards based on medical necessity or appropriateness, or whether a treatment is experimental or investigative;
+
+&emsp;&emsp;&emsp;&emsp;(II) limitations with respect to prescription drug formulary design; and
+
+&emsp;&emsp;&emsp;&emsp;(III) use of fail-first or step therapy protocols;
+
+&emsp;&emsp;&emsp;(ii) examples of methods of determining—
+
+&emsp;&emsp;&emsp;&emsp;(I) network admission standards (such as credentialing); and
+
+&emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure) as such factors apply to network adequacy;
+
+&emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standards for the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
+
+&emsp;&emsp;&emsp;(iv) examples of specific factors, and the evidentiary standards used to evaluate such factors, used by such plans or issuers in performing a nonquantitative treatment limitation analysis;
+
+&emsp;&emsp;&emsp;(v) examples of how specific evidentiary standards may be used to determine whether treatments are considered experimental or investigative;
+
+&emsp;&emsp;&emsp;(vi) examples of how specific evidentiary standards may be applied to each service category or classification of benefits;
+
+&emsp;&emsp;&emsp;(vii) examples of methods of reaching appropriate coverage determinations for new mental health or substance use disorder treatments, such as evidence-based early intervention programs for individuals with a serious mental illness and types of medical management techniques;
+
+&emsp;&emsp;&emsp;(viii) examples of methods of reaching appropriate coverage determinations for which there is an indirect relationship between the covered mental health or substance use disorder benefit and a traditional covered medical and surgical benefit, such as residential treatment or hospitalizations involving voluntary or involuntary commitment; and
+
+&emsp;&emsp;&emsp;(ix) additional illustrative examples of methods, processes, strategies, evidentiary standards, and other factors for which the Secretary determines that additional guidance is necessary to improve compliance with this section, section 1185a of title 29, or section 9812 of title 26, as applicable.
+
+#### (D) Public comment
+
+&emsp;&emsp;Prior to issuing any final guidance under this paragraph, the Secretary shall provide a public comment period of not less than 60 days during which any member of the public may provide comments on a draft of the guidance.
+
 #### (b) Construction
 
 Nothing in this section shall be construed—
@@ -88,7 +182,7 @@ Nothing in this section shall be construed—
 
 #### (1) Small employer exemption
 
-&emsp;This section shall not apply to any group health plan and a health insurance issuer offering group or individual health insurance coverage for any plan year of a small employer (as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual).
+&emsp;This section shall not apply to any group health plan and a health insurance issuer offering group or individual health insurance coverage for any plan year of a small employer (as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with1 employee in the case of an employer residing in a State that permits small groups to include a single individual).
 
 #### (2) Cost exemption
 
@@ -126,7 +220,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the yearprior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
+&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
 
 #### (iii) Confidentiality
 
@@ -168,13 +262,15 @@ For purposes of this section—
 
 &emsp;The term "substance use disorder benefits" means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
 
-(July 1, 1944, ch. 373, title XXVII, §2726, formerly §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(b), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(c), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–151, §1(b), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, §115(c), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, §401(c), June 17, 2008, 122 Stat. 1650; Pub. L. 110–343, div. C, title V, §512(b), (g)(2), Oct. 3, 2008, 122 Stat. 3885, 3892; renumbered §2726 and amended Pub. L. 111–148, title I, §§1001(2), 1563(c)(4), formerly §1562(c)(4), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2726, formerly §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(b), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(c), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–151, §1(b), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, §115(c), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, §401(c), June 17, 2008, 122 Stat. 1650; Pub. L. 110–343, div. C, title V, §512(b), (g)(2), Oct. 3, 2008, 122 Stat. 3885, 3892; renumbered §2726 and amended Pub. L. 111–148, title I, §§1001(2), 1563(c)(4), formerly §1562(c)(4), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911; Pub. L. 114–255, div. B, title XIII, §13001(a), (b), Dec. 13, 2016, 130 Stat. 1278, 1280.)
 
 #### Codification
 
 Section was formerly classified to section 300gg–5 of this title prior to renumbering by Pub. L. 111–148.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(6), (7). Pub. L. 114–255 added pars. (6) and (7).
 
 <b>2010</b>—Subsecs. (a), (b). Pub. L. 111–148, §1563(c)(4)(A), (B), formerly §1562(c)(4)(A), (B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "or a health insurance issuer offering group or individual health insurance coverage" for "(or health insurance coverage offered in connection with such a plan)" wherever appearing.
 
@@ -252,6 +348,22 @@ Pub. L. 104–204, title VII, §703(b), Sept. 26, 1996, 110 Stat. 2950, provided
 
 Pub. L. 110–343, div. C, title V, §512(d), Oct. 3, 2008, 122 Stat. 3891, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 3, 2008\], the Secretaries of Labor, Health and Human Services, and the Treasury shall issue regulations to carry out the amendments made by subsections (a), (b), and (c) \[amending this section, section 9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor\], respectively."
 
+#### Improving Compliance
+
+Pub. L. 114–255, div. B, title XIII, §13001(d), Dec. 13, 2016, 130 Stat. 1283, provided that:
+
+"(1)
+
+In general.—In the case that the Secretary of Health and Human Services, the Secretary of Labor, or the Secretary of the Treasury determines that a group health plan or health insurance issuer offering group or individual health insurance coverage has violated, at least 5 times, section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), or section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\], respectively, the appropriate Secretary shall audit plan documents for such health plan or issuer in the plan year following the Secretary's determination in order to help improve compliance with such section.
+
+"(2)
+
+Rule of construction.—Nothing in this subsection shall be construed to limit the authority, as in effect on the day before the date of enactment of this Act \[Dec. 13, 2016\], of the Secretary of Health and Human Services, the Secretary of Labor, or the Secretary of the Treasury to audit documents of health plans or health insurance issuers."
+
+#### Clarification of Existing Parity Rules
+
+Pub. L. 114–255, div. B, title XIII, §13007, Dec. 13, 2016, 130 Stat. 1287, provided that: "If a group health plan or a health insurance issuer offering group or individual health insurance coverage provides coverage for eating disorder benefits, including residential treatment, such group health plan or health insurance issuer shall provide such benefits consistent with the requirements of section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), and section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\]."
+
 #### Assuring Coordination
 
 Pub. L. 110–343, div. C, title V, §512(f), Oct. 3, 2008, 122 Stat. 3892, provided that: "The Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury may ensure, through the execution or revision of an interagency memorandum of understanding among such Secretaries, that—
@@ -259,4 +371,66 @@ Pub. L. 110–343, div. C, title V, §512(f), Oct. 3, 2008, 122 Stat. 3892, prov
 &emsp;"(1) regulations, rulings, and interpretations issued by such Secretaries relating to the same matter over which two or more such Secretaries have responsibility under this section \[amending this section, section 9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor, and enacting provisions set out as notes under this section\] (and the amendments made by this section) are administered so as to have the same effect at all times; and
 
 &emsp;"(2) coordination of policies relating to enforcing the same requirements through such Secretaries in order to have a coordinated enforcement strategy that avoids duplication of enforcement efforts and assigns priorities in enforcement."
+
+#### Mental Health and Substance Use Disorder Parity Task Force
+
+Memorandum of President of the United States, Mar. 29, 2016, 81 F.R. 19015, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+My Administration has made behavioral health a priority and taken a number of steps to improve the prevention, early intervention, and treatment of mental health and substance use disorders. These actions are especially important in light of the prescription drug abuse and heroin epidemic as well as the suicide and substance use-related fatalities that have reversed increases in longevity in certain populations. One important response has been the expansion and implementation of mental health and substance use disorder parity protections to ensure that coverage for these benefits is comparable to coverage for medical and surgical care. The Affordable Care Act builds on the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act to expand mental health and substance use disorder benefits and Federal parity protections for more than 60 million Americans. To realize the promise of coverage expansion and parity protections in helping individuals with mental health and substance use disorders, executive departments and agencies need to work together to ensure that Americans are benefiting from the Federal parity protections the law intends. To that end, I hereby direct the following:
+
+Section 1. <i>Mental Health and Substance Use Disorder Parity Task Force</i>. There is established an interagency Mental Health and Substance Use Disorder Parity TaskForce (Task Force), which will identify and promote best practices for executive departments and agencies (agencies), as well as State agencies, to better ensure compliance with and implementation of requirements related to mental health and substance use disorder parity, and determine areas that would benefit from further guidance. The Director of the Domestic Policy Council shall serve as Chair of the Task Force.
+
+(a) <i>Membership of the Task Force</i>. In addition to the Director of the Domestic Policy Council, the Task Force shall consist of the heads of the following agencies and offices, or their designees:
+
+(i) the Department of the Treasury;
+
+(ii) the Department of Defense;
+
+(iii) the Department of Justice;
+
+(iv) the Department of Labor;
+
+(v) the Department of Health and Human Services;
+
+(vi) the Department of Veterans Affairs;
+
+(vii) the Office of Personnel Management;
+
+(viii) the Office of National Drug Control Policy; and
+
+(ix) such other agencies or offices as the President may designate.
+
+At the request of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, as appropriate.
+
+(b) <i>Administration of the Task Force</i>. The Department of Health and Human Services shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations.
+
+Sec. 2. <i>Mission and Functions of the Task Force</i>. The Task Force shall coordinate across agencies to:
+
+(a) identify and promote best practices for compliance and implementation;
+
+(b) identify and address gaps in guidance, particularly with regard to substance use disorder parity; and
+
+(c) implement actions during its tenure and at its conclusion to advance parity in mental health and substance use disorder treatment.
+
+Sec. 3. <i>Outreach</i>. Consistent with the objectives set out in section 2 of this memorandum, the Task Force, in accordance with applicable law, shall conduct outreach to patients, consumer advocates, health care providers, specialists in mental health care and substance use disorder treatment, employers, insurers, State regulators, and other stakeholders as the Task Force deems appropriate.
+
+Sec. 4. <i>Transparency and Reports</i>. The Task Force shall present to the President a report before October 31, 2016, on its findings and recommendations, which shall be made public.
+
+Sec. 5. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Secretary of Health and Human Services is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

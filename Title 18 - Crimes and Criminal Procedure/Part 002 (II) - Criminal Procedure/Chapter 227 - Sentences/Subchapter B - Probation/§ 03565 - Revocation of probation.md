@@ -24,7 +24,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusa
 
 (c)
 
-Delayed Revocation.—The power of the court to revoke a sentence of probation for violation of a condition of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
+Delayed Revocation.—The power of the court to revoke a sentence of probation for violation of a condition of probation, and to imposeanother sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–690, title VI, §6214, title VII, §7303(a)(2), Nov. 18, 1988, 102 Stat. 4361, 4464; Pub. L. 101–647, title XXXV, §3585, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title XI, §110506, Sept. 13, 1994, 108 Stat. 2017; Pub. L. 107–273, div. B, title II, §2103(a), Nov. 2, 2002, 116 Stat. 1793.)
 

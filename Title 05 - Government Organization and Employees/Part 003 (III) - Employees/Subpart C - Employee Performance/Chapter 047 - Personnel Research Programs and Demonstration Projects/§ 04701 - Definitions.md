@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) a Government corporation;
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by thePresident, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(C) the Government Accountability Office;
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date
 
-Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
 #### Design Elements of Pay-for-Performance Systems in Demonstration Projects
 

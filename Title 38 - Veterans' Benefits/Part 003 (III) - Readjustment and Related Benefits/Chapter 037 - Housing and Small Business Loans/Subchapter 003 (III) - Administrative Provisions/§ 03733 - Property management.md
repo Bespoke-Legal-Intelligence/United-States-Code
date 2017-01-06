@@ -20,13 +20,13 @@
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
 
-(7) During the period that begins on December 16, 2003, and ends on September 30, 2016, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003, and ends on September 30, 2017, the Secretary shall carry out the provisions of this subsection as if—
 
 &emsp;(A) the references in the first sentence of paragraph (1) to "65 percent" and "may be financed" were references to "85 percent" and "shall be financed", respectively;
 
 &emsp;(B) the second sentence of paragraph (1) were repealed; and
 
-&emsp;(C) the reference in paragraph (2) to "September 30, 1990," were a reference to "September 30, 2016,".
+&emsp;(C) the reference in paragraph (2) to "September 30, 1990," were a reference to "September 30, 2017,".
 
 (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
@@ -38,9 +38,11 @@
 
 (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664;Pub. L. 109–233, title V, §503(10), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title X, §1001(j), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–59, §13, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, §303, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title II, §203, Sept. 30, 2015, 129 Stat. 533.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title V, §503(10), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title X, §1001(j), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–59, §13, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, §303, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title II, §203, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, §203, Sept. 29, 2016, 130 Stat. 938.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(7). Pub. L. 114–228 substituted "September 30, 2017" for "September 30, 2016" in introductory provisions and in subpar. (C).
 
 <b>2015</b>—Subsec. (a)(7). Pub. L. 114–58 substituted "September 30, 2016" for "September 30, 2015" in introductory provisions and in subpar. (C).
 
@@ -66,7 +68,7 @@ Subsec. (c)(2). Pub. L. 108–183, §404(b)(1)(A), struck out "of this subsectio
 
 <b>1998</b>—Subsec. (a)(6). Pub. L. 105–368, §602(e)(1)(E), substituted "Veterans Housing Benefit Program Fund established by section 3722(a)" for "Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a)".
 
-Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: "Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
+Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: "Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, andthe amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
 &emsp;"(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
 
@@ -126,7 +128,7 @@ Subsec. (d). Pub. L. 100–322, §415(b)(5)(B), (C), as amended by Pub. L. 102�
 
 <b>1987</b>—Subsec. (a)(1) \[formerly §1816(d)(1)\]. Pub. L. 100–198, §6(a)(1), and Pub. L. 100–203, §7003(a), amended par. (1) identically, substituting "not more than 65 percent, nor less than 50 percent" for "not more than 75 percent, nor less than 60 percent". See 1988 Amendment note above.
 
-Subsec. (a)(3) \[formerly §1816(d)(3)\]. Pub. L. 100–203, §7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted "Beginning on October 1, 1989, the Administrator may sell any note evidencing" for "The Administrator may sell any notesecuring", and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
+Subsec. (a)(3) \[formerly §1816(d)(3)\]. Pub. L. 100–203, §7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted "Beginning on October 1, 1989, the Administrator may sell any note evidencing" for "The Administrator may sell any note securing", and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
 
 Pub. L. 100–136 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Notes securing such loans may be sold with recourse only to the extent that the Administrator determines that selling such notes with recourse is necessary in order to maintain the effective functioning of the loan guaranty program under this chapter." See 1988 Amendment note above.
 
@@ -154,7 +156,7 @@ Pub. L. 102–54, §14(g)(1), June 13, 1991, 105 Stat. 288, provided that the am
 
 Pub. L. 101–239, title V, §5003(b), Dec. 19, 1989, 103 Stat. 2137, provided that: "Subsection (e) of section 1833 \[now 3733\] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989."
 
-Pub. L. 101–237, title III, §305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], no provision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect."
+Pub. L. 101–237, title III, §305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], noprovision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect."
 
 Pub. L. 101–237, title III, §305(b)(2), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "Subsection (e) of section 1833 \[now 3733\] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989."
 

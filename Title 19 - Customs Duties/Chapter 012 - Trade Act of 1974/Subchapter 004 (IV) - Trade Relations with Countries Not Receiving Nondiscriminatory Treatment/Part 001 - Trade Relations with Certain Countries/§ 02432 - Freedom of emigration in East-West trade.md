@@ -2,7 +2,7 @@
 
 #### (a) Actions of nonmarket economy countries making them ineligible for normal trade relations, programs of credits, credit guarantees, or investment guarantees, or commercial agreements
 
-To assure the continued dedication of the United States to fundamental human rights, and notwithstanding any other provision of law, on or after January 3, 1975, products from any nonmarket economy country shall not be eligible to receive nondiscriminatory treatment (normal trade relations), such country shall not participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
+To assure the continued dedication of the United States to fundamental human rights, and notwithstanding any other provision of law, on or after January 3, 1975, products from any nonmarket economy country shall not be eligible to receive nondiscriminatory treatment (normal trade relations), such country shall not participate in any program of the Government of theUnited States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
 
 &emsp;(1) denies its citizens the right or opportunity to emigrate;
 
@@ -98,7 +98,7 @@ Extension of waiver authority.—
 
 &emsp;"(A) The amendments made by subsections (a) and (c)(4) and (5) \[amending this section and sections 2192 and 2193 of this title\] apply with respect to recommendations made under section 402(d) of the Trade Act of 1974 \[subsec. (d) of this section\] by the President after May 23, 1990.
 
-&emsp;"(B) Solely for purposes of applying the applicable provisions of the Trade Act of 1974 \[this chapter\] withrespect to the recommendations made by the President to the House of Representatives and the Senate under subsection (d) of section 402 of the Trade Act of 1974 after May 23, 1990, and on or before the date of the enactment of this Act—
+&emsp;"(B) Solely for purposes of applying the applicable provisions of the Trade Act of 1974 \[this chapter\] with respect to the recommendations made by the President to the House of Representatives and the Senate under subsection (d) of section 402 of the Trade Act of 1974 after May 23, 1990, and on or before the date of the enactment of this Act—
 
 &emsp;&emsp;"(i) in paragraph (2)(A)(i) of subsection (d) of such section 402 (as amended by subsection (a)), the date on which the waiver authority granted under subsection (c) of such section 402 would expire but for an extension under paragraph (1) of such subsection (d) is the date of the enactment of this Act;
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L
 
 #### Delegation of Functions
 
-Functions of President under subsec. (d)(1) of this section delegated to Secretary of State by section 1(a)(i) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (d)(1) of this section delegated to Secretary of State by section1(a)(i) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 For delegation of congressional reporting functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 

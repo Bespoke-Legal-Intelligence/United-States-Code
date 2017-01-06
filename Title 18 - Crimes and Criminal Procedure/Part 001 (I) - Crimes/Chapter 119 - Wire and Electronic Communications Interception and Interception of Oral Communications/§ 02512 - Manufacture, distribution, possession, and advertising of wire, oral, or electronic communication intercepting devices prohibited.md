@@ -44,7 +44,7 @@ Par. (2). Pub. L. 103–322, §330022, as amended by Pub. L. 104–294, realigne
 
 Par. (1). Pub. L. 99–508, §101(c)(1)(A), (f)(2), substituted "intentionally" for "willfully" in introductory provision and "wire, oral, or electronic" for "wire or oral" in subpars. (a), (b), and (c)(i), (ii).
 
-Par. (2)(a). Pub. L. 99–508, §101(c)(7), substituted "a provider of wire or electronic communication service or" for "a communications common carrier or", "sucha provider, in" for "a communications common carrier, in", and "business of providing that wire or electronic communication service" for "communications common carrier's business".
+Par. (2)(a). Pub. L. 99–508, §101(c)(7), substituted "a provider of wire or electronic communication service or" for "a communications common carrier or", "such a provider, in" for "a communications common carrier, in", and "business of providing that wire or electronic communication service" for "communications common carrier's business".
 
 Par. (2)(b). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral".
 

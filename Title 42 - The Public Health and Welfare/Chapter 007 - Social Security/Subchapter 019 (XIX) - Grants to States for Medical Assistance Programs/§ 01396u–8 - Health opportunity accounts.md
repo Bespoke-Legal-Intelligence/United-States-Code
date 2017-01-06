@@ -216,7 +216,7 @@
 
 #### (i) State contribution
 
-&emsp;&emsp;&emsp;A State may contribute under subparagraph (A)(i) amounts to a health opportunity account in excess of the limitations provided under subparagraph (C)(i)(III), but no Federal financial participation shall be provided under section 1396b(a) of this title with respect to contributions in excess of such limitations.
+&emsp;&emsp;&emsp;A State may contribute under subparagraph (A)(i) amounts to a health opportunity account in excess of the limitations provided under subparagraph (C)(i)(III),but no Federal financial participation shall be provided under section 1396b(a) of this title with respect to contributions in excess of such limitations.
 
 #### (ii) No FFP for private contributions
 
@@ -260,7 +260,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to clause (iii), the balance in the account shall be reduced by 25 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(III) subject to the succeeding provisions of this subparagraph, the account shall remain available to the account holder for 3 years after the date on which the individual becomes ineligible for such benefits for withdrawals under the same terms and conditions as if the account holder remained eligible for such benefits, and such withdrawals shall betreated as medical assistance in accordance with subsection (c)(6).
+&emsp;&emsp;&emsp;&emsp;(III) subject to the succeeding provisions of this subparagraph, the account shall remain available to the account holder for 3 years after the date on which the individual becomes ineligible for such benefits for withdrawals under the same terms and conditions as if the account holder remained eligible for such benefits, and such withdrawals shall be treated as medical assistance in accordance with subsection (c)(6).
 
 #### (ii) Special rules
 

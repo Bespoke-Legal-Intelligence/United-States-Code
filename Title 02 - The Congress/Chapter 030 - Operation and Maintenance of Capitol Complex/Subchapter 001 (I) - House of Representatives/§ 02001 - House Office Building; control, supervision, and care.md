@@ -1,6 +1,6 @@
 ### §2001. House Office Building; control, supervision, and care
 
-The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of theSpeaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
+The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
 
 (Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 111–145, §6(c)(1), Mar. 4, 2010, 124 Stat. 54.)
 
@@ -32,7 +32,7 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 
 Pub. L. 104–197, title III, §307, Sept. 16, 1996, 110 Stat. 2413, provided that:
 
-"(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading '
+"(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee onHouse Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading '
 
 capitol buildings' to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading '
 
@@ -41,6 +41,86 @@ salaries, officers and employees'.
 "(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
 
 "(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation."
+
+#### Transfer of O'Neill Building to House of Representatives
+
+Pub. L. 114–223, div. C, §176, as added by Pub. L. 114–254, div. A, §101(3), Dec. 10, 2016, 130 Stat. 1012, provided that:
+
+"(a)
+
+Transfer.—Effective upon the expiration of the 180-day period that begins on the date of the enactment of this section \[Dec. 10, 2016\]—
+
+&emsp;"(1) the building described in subsection (e) shall become an office building of the House of Representatives;
+
+&emsp;"(2) the Administrator of General Services shall transfer custody, control, and administrative jurisdiction over the building to the Architect of the Capitol; and
+
+&emsp;"(3) the Architect of the Capitol shall exercise custody, control, and administrative jurisdiction over the building subject to the direction of the House Office Building Commission.
+
+"(b)
+
+Treatment as House Office Building and Part of Capitol Grounds.—Upon the transfer of custody, control, and administrative jurisdiction under subsection (a), the building and grounds described in subsection (e) shall be treated as a House Office Building and as part of the United States Capitol Grounds for purposes of all laws, rules, and regulations applicable to the House Office Buildings and the Capitol Grounds, including—
+
+&emsp;"(1) chapter 51 of title 40, United States Code (relating to the administration of the United States Capitol Buildings and Grounds); and
+
+&emsp;"(2) section 9 of the Act entitled 'An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (2 U.S.C. 1961) (relating to the authority of the United States Capitol Police to police the United States Capitol Buildings and Grounds).
+
+"(c)
+
+Authority of Architect of the Capitol to Enter Into Leases and Other Agreements With Federal Departments and Agencies for Use of Building.—
+
+&emsp;"(1)
+
+Authority described.—The Architect of the Capitol is authorized to enter into leases and other agreements with departments and agencies of the Federal Government for the use of the building described in subsection (e) (or portions thereof), subject to the approval of the House Office Building Commission.
+
+&emsp;"(2)
+
+Collection of payments.—Pursuant to a lease or other agreement entered into between the Architect of the Capitol and a department or agency of the Federal Government under the authority described in paragraph (1), the Architect of the Capitol is authorized to collect payments from such department or agency and such department or agency is authorized to make payments to the Architect of the Capitol, including payments of commercially-equivalent rent.
+
+&emsp;"(3)
+
+Treatment of payments.—Any payments received by the Architect of the Capitol pursuant to any lease or other agreement entered into under this subsection shall be deposited to the appropriation available to the Architect of the Capitol from the House Office Buildings Fund established under subsection (d) and shall be subject to future appropriation.
+
+"(d)
+
+House Office Buildings Fund.—
+
+&emsp;"(1)
+
+Establishment.—There is established in the Treasury of the United States a fund to be known as the 'House Office Buildings Fund' (hereafter in this section referred to as the 'Fund').
+
+&emsp;"(2)
+
+Contents of fund.—The Fund shall consist of the following amounts:
+
+&emsp;&emsp;"(A) Amounts transferred by the Architect of the Capitol under paragraph (3) of subsection (c).
+
+&emsp;&emsp;"(B) Interest earned on the balance of the Fund.
+
+&emsp;&emsp;"(C) Such other amounts as may be appropriated by law.
+
+&emsp;"(3)
+
+Use of fund.—Amounts in the Fund shall be available to the Architect of the Capitol for the maintenance, care, and operation of the House office buildings, and may be used to reimburse the United States Capitol Police, the House of Representatives, or any other office of the legislative branch which provides goods or services for the maintenance, care, and operation of the building and grounds described in subsection (e), in such amounts as may be appropriated under law.
+
+&emsp;"(4)
+
+Notification to committee on appropriations.—Upon making any obligation or expenditure of any amount in the Fund, the Architect of the Capitol shall notify the Committee on Appropriations of the House of Representatives of the amount and purpose of the obligation or expenditure.
+
+&emsp;"(5)
+
+Continuing availability of funds.—Amounts in the Fund are available without regard to fiscal year limitation.
+
+"(e)
+
+Description of Building and Grounds.—
+
+&emsp;"(1)
+
+Description.—The building and grounds described in this subsection is the Federal building located in the District of Columbia which is commonly known as the 'Thomas P. O'Neill Jr. Federal Building', and which is more particularly described as follows: Square 579, Lot 827, at 200 C Street Southwest, bounded by C Street Southwest on the north, by 2nd Street Southwest on the east, by D Street Southwest on the south, and by 3rd Street Southwest on the west, and by all that area contiguous to and surrounding Square 579 from the property line thereof to the west curb of 3rd Street Southwest, the north curb of C Street Southwest, the east curb of 2nd Street Southwest, and the south curb of D Street Southwest.
+
+&emsp;"(2)
+
+Retention of responsibilities of district of columbia.—The Mayor of the District of Columbia will retain responsibility for the maintenance and improvement of those portions of the streets which are situated between the curb lines of the streets referenced in paragraph (1)."
 
 #### 501 First Street SE., District of Columbia; Disposal of Real Property
 
@@ -90,7 +170,7 @@ Advertising and marketing.—The Architect of the Capitol shall begin advertisin
 
 &emsp;"(8)
 
-Local zoning and occupancy requirements.—Until such date as the purchaser of the property to bedisposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia.
+Local zoning and occupancy requirements.—Until such date as the purchaser of the property to be disposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia.
 
 &emsp;"(9)
 
@@ -152,7 +232,7 @@ Pub. L. 104–53, title III, §306, Nov. 19, 1995, 109 Stat. 536, provided that:
 
 "(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House parking activities and related funding shall be transferred from the appropriation 'Architect of the Capitol, Capitol buildings and grounds, House office buildings' to the appropriation 'House of Representatives, salaries, officers and employees, Office of the Sergeant at Arms': <i>Provided</i>, That the position of Superintendent of Garages shall be subject to authorization in annual appropriations Acts.
 
-"(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
+"(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the creditof any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section.
 
 "(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a) the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation."
 

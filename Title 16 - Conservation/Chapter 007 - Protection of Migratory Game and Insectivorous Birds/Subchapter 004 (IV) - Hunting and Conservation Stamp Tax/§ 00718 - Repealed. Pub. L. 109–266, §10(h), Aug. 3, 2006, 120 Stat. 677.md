@@ -12,7 +12,7 @@ Pub. L. 109–266, §1, Aug. 3, 2006, 120 Stat. 670, provided that: "This Act \[
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: "This Act \[amending section 718d of thistitle\] may be cited as the 'Migratory Bird Hunting and Conservation Stamp Promotion Act'."
+Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: "This Act \[amending section 718d of this title\] may be cited as the 'Migratory Bird Hunting and Conservation Stamp Promotion Act'."
 
 #### Short Title
 
@@ -216,7 +216,7 @@ Duration.—An electronic stamp issued by a State under the pilot program shall 
 
 "(a)
 
-Evaluation.—The Secretary, in consultation with State fish and wildlife management agencies and appropriate stakeholders with expertise specific to the duck stamp program, shall evaluate the pilot program and determine whether the pilot program has provided a cost-effective and convenient means for issuing migratory-bird hunting and conservation stamps, including whether the program has—
+Evaluation.—The Secretary, in consultation with State fish and wildlife management agencies andappropriate stakeholders with expertise specific to the duck stamp program, shall evaluate the pilot program and determine whether the pilot program has provided a cost-effective and convenient means for issuing migratory-bird hunting and conservation stamps, including whether the program has—
 
 &emsp;"(1) increased the availability of those stamps;
 

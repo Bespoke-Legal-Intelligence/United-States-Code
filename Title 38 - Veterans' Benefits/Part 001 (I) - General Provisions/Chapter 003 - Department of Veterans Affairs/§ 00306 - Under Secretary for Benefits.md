@@ -22,7 +22,7 @@
 
 &emsp;(E) The chairman of the Veterans' Advisory Committee on Education formed under section 3692 of this title.
 
-&emsp;(F) One person who has held the position of Under Secretary for Benefits (including service as Chief Benefits Director of the Veterans' Administration), if the Secretary determines that it is desirable for such person to be a member of the commission.
+&emsp;(F) One person who has held the position of Under Secretary for Benefits (including service as Chief Benefits Director of the Veterans' Administration), if the Secretary determinesthat it is desirable for such person to be a member of the commission.
 
 (3) A commission established under this subsection shall recommend at least three individuals for appointment to the position of Under Secretary for Benefits. The commission shall submit all recommendations to the Secretary. The Secretary shall forward the recommendations to the President with any comments the Secretary considers appropriate. Thereafter, the President may request the commission to recommend additional individuals for appointment.
 

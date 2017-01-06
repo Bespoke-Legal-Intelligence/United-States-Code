@@ -2,7 +2,7 @@
 
 (a)
 
-Full Faith and Credit.—Any protection order issued that is consistent with subsection (b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory <sup>1</sup> as if it were the order of the enforcing State or tribe.
+Full Faith and Credit.—Any protection order issued that is consistent with subsection\(b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory <sup>1</sup> as if it were the order of the enforcing State or tribe.
 
 (b)
 
@@ -60,7 +60,7 @@ Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted ", Indian tribe, or te
 
 Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted "State, tribal, or territorial" for "State or tribal".
 
-Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting"the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction" for "the registration or filing of a protection order", was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
+Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting "the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction" for "the registration or filing of a protection order", was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
 
 Pub. L. 109–162, §106(c), added par. (3).
 
@@ -68,7 +68,7 @@ Pub. L. 109–162, §106(c), added par. (3).
 
 #### Special Rule for the State of Alaska
 
-Pub. L. 113–4, title IX, §910, Mar. 7, 2013, 127 Stat. 126, which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of Pub. L. 113–4, which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by Pub. L. 113–275, Dec. 18, 2014, 128 Stat. 2988.
+Pub. L. 113–4, title IX, §910, Mar. 7, 2013, 127 Stat. 126, which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of Pub. L. 113–4, which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders,applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by Pub. L. 113–275, Dec. 18, 2014, 128 Stat. 2988.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

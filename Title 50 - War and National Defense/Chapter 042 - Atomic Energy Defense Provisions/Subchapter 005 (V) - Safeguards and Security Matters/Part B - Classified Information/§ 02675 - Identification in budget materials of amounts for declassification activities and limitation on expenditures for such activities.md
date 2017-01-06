@@ -2,7 +2,7 @@
 
 #### (a) Amounts for declassification of records
 
-The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 13526 (50 U.S.C. 3161 note), or any successor Executive order, or to comply with any statutory requirement to declassify Government records.
+The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted withthe budget of the President under section 1105(a) of title 31) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 13526 (50 U.S.C. 3161 note), or any successor Executive order, or to comply with any statutory requirement to declassify Government records.
 
 #### (b) Certification required with respect to automatic declassification of records
 

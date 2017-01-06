@@ -20,7 +20,7 @@
 
 #### (b) Penalties for violations of regulations
 
-The Director is authorized to establish penalties for violations of the rules or regulationspromulgated by the Director under subsection (a) of this section. Such penalties shall not exceed those specified in section 1315(c)(2) of title 40.
+The Director is authorized to establish penalties for violations of the rules or regulations promulgated by the Director under subsection (a) of this section. Such penalties shall not exceed those specified in section 1315(c)(2) of title 40.
 
 #### (c) Identification
 
@@ -28,7 +28,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 #### (d) Protection of certain CIA personnel from tort liability
 
-(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a) of this section, or designated by the Director under section 3506(a)(4) of this title to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
+(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a), or designated by the Director under section 3506(a)(4) of this title to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
 
 &emsp;(A) protect an individual in the presence of such Agency personnel from a crime of violence;
 
@@ -64,5 +64,5 @@ Subsec. (a)(2) to (5). Pub. L. 105–107, §404(3), added pars. (2) to (5).
 
 #### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
 
-Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference to the George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 3501 of this title.
+Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference tothe George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 3501 of this title.
 

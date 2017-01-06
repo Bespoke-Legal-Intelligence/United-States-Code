@@ -50,7 +50,7 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: "This A
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Reform Conforming Amendments Act of 2005'."
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813,1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
 
 #### Short Title of 2004 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: "This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the 'Financial Regulatory Relief and Economic Efficiency Act of 2000'."
+Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: "This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of thistitle\] may be cited as the 'Financial Regulatory Relief and Economic Efficiency Act of 2000'."
 
 #### Short Title of 1999 Amendment
 
@@ -118,7 +118,7 @@ Pub. L. 97–320, title II, §201, Oct. 15, 1982, 96 Stat. 1489, provided that: 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–110, title I, §101, Dec. 26, 1981, 95 Stat. 1513, provided that: "This title \[amending sections 1813, 1817,and 1821 of this title\] may be cited as the 'International Banking Facility Deposit Insurance Act'."
+Pub. L. 97–110, title I, §101, Dec. 26, 1981, 95 Stat. 1513, provided that: "This title \[amending sections 1813, 1817, and 1821 of this title\] may be cited as the 'International Banking Facility Deposit Insurance Act'."
 
 #### Short Title of 1978 Amendment
 
@@ -452,7 +452,7 @@ Topics.—As part of the study required under subsection (a), the Secretary of t
 
 "(c)
 
-Final Report.—Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall submit to the Congress a final report containing a detailed statement of findings made, and conclusions drawn from, the study conducted underthis section, including such recommendations for administrative and legislative action as the Secretary determines to be appropriate.
+Final Report.—Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall submit to the Congress a final report containing a detailed statement of findings made, and conclusions drawn from, the study conducted under this section, including such recommendations for administrative and legislative action as the Secretary determines to be appropriate.
 
 #### "SEC. 1002. SURVEY OF BANK FEES AND SERVICES.
 
@@ -570,7 +570,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 Definition.—For purposes of this section, the term 'government-sponsored enterprises' means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association."
 
-\[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: "The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\]."\]
+\[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: "The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, setout above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\]."\]
 
 #### Expansion of Use of Underutilized Minority Banks, Women's Banks, and Low-Income Credit Unions
 
@@ -664,7 +664,7 @@ Exemption from public disclosure requirements.—The Department of the Treasury 
 
 &emsp;&emsp;"(C)
 
-Penalty for unauthorized disclosure.—Any officer or employee of the Department of theTreasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
+Penalty for unauthorized disclosure.—Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
 
 &emsp;&emsp;&emsp;"(i) by virtue of his employment or official position, he has possession of or access to any book, record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
 

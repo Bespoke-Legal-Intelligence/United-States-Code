@@ -10,7 +10,7 @@ The President shall transmit any energy action (bearing an identification number
 
 #### (c) Effective date of energy action
 
-(1) Except as provided in paragraph (2) of this subsection, if energy action is transmitted to the Houses of Congress, such action shall take effect at the end of the first period of 15 calendardays of continuous session of Congress after the date on which such action is transmitted to such Houses, unless between the date of transmittal and the end of such 15-day period, either House passes a resolution stating in substance that such House does not favor such action.
+(1) Except as provided in paragraph (2) of this subsection, if energy action is transmitted to the Houses of Congress, such action shall take effect at the end of the first period of 15 calendar days of continuous session of Congress after the date on which such action is transmitted to such Houses, unless between the date of transmittal and the end of such 15-day period, either House passes a resolution stating in substance that such House does not favor such action.
 
 (2) An energy action described in paragraph (1) may take effect prior to the expiration of the 15-calendar-day period after the date on which such action is transmitted, if each House of Congress approves a resolution affirmatively stating in substance that such House does not object to such action.
 
@@ -36,7 +36,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 (2) For purposes of this subsection, the term "resolution" means only a resolution of either House of Congress described in subparagraph (A) or (B) of this paragraph.
 
-&emsp;(A) A resolution the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_ does not object to the energy action numbered \_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one energy action.
+&emsp;(A) A resolution the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_ does not object to the energy action numbered \_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank spacetherein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one energy action.
 
 &emsp;(B) A resolution the matter after the resolving clause of which is as follows: "That the \_\_\_\_\_\_ does not favor the energy action numbered \_\_\_\_\_\_ transmitted to Congress on \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.", the first blank space therein being filled with the name of the resolving House and the other blank spaces therein being appropriately filled; but does not include a resolution which specifies more than one energy action.
 

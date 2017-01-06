@@ -6,7 +6,7 @@ Notwithstanding any authorization for appropriations for agricultural research i
 
 #### (b) Agricultural research at State agricultural experiment stations
 
-Notwithstanding any authorization for appropriations for agricultural research at State agricultural experiment stations in any Act enacted prior to September 29, 1977, there are authorized to be appropriated for the purpose of conductingagricultural research at State agricultural experiment stations pursuant to the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), such sums as may be necessary for each of fiscal years 1991 through 2018.
+Notwithstanding any authorization for appropriations for agricultural research at State agricultural experiment stations in any Act enacted prior to September 29, 1977, there are authorized to be appropriated for the purpose of conducting agricultural research at State agricultural experiment stations pursuant to the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), such sums as may be necessary for each of fiscal years 1991 through 2018.
 
 #### (c) Funding requirements for programs
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 101–624, §1601(b)(3)(B), substituted "$310,000,000 for e
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198, §1422(a), substituted "$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990" for "$505,000,000 for the fiscal year ending September 30, 1978, $575,000,000 for the fiscal year ending September 30, 1979, $645,000,000 for the fiscal year ending September 30, 1980, $715,000,000 for the fiscal year ending September 30, 1981, $780,000,000 for the fiscal year ending September 30, 1982, $780,000,000 for the fiscal year ending September 30, 1983, $835,000,000 for the fiscal year ending September 30, 1984, and $890,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year".
 
-Subsec. (b). Pub. L. 99–198, §1422(b), substituted "$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990" for "$120,000,000 for the fiscal year ending September 30, 1978, $145,000,000 for the fiscal year ending September 30, 1979, $170,000,000 for the fiscal year ending September 30, 1980, $195,000,000 for the fiscal year ending September 30, 1981, $220,000,000for the fiscal year ending September 30, 1982, $230,000,000 for the fiscal year ending September 30, 1983, $240,000,000 for the fiscal year ending September 30, 1984, and $250,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977 be authorized by law for any subsequent fiscal year".
+Subsec. (b). Pub. L. 99–198, §1422(b), substituted "$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990" for "$120,000,000 for the fiscal year ending September 30, 1978, $145,000,000 for the fiscal year ending September 30, 1979, $170,000,000 for the fiscal year ending September 30, 1980, $195,000,000 for the fiscal year ending September 30, 1981, $220,000,000 for the fiscal year ending September 30, 1982, $230,000,000 for the fiscal year ending September 30, 1983, $240,000,000 for the fiscal year ending September 30, 1984, and $250,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977 be authorized by law for any subsequent fiscal year".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98, §1437(1), inserted provisions authorizing appropriations of $780,000,000 for fiscal year ending Sept. 30, 1983, $835,000,000 for fiscal year ending Sept. 30, 1984, and $890,000,000 for fiscal year ending Sept. 30, 1985.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date
 
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -1,0 +1,6 @@
+### §1780<i>l</i>. Omitted
+
+#### Codification
+
+Section, Pub. L. 109–286, §14, Sept. 27, 2006, 120 Stat. 1229, which related to distribution of funds plan, was omitted from the Code as being of special and not general application.
+

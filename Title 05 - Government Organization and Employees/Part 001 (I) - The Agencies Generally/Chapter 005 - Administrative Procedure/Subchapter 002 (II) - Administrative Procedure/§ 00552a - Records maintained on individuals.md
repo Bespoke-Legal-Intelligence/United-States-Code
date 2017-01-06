@@ -38,7 +38,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) matches performed, by an agency (or component thereof) which performs as its principal function any activity pertaining to the enforcement of criminal laws, subsequent to the initiation of a specific criminal or civil law enforcement investigation of a named person or persons for the purpose of gathering evidence against such person or persons;
 
-&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
+&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
 
 &emsp;&emsp;&emsp;(v) matches—
 
@@ -48,7 +48,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&nbsp;if the purpose of the match is not to take any adverse financial, personnel, disciplinary, or other adverse action against Federal personnel;
 
-&emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel;
+&emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to producebackground checks for security clearances of Federal personnel or Federal contractor personnel;
 
 &emsp;&emsp;&emsp;(vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986;
 
@@ -174,7 +174,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;(5) maintain all records which are used by the agency in making any determination about any individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to assure fairness to the individual in the determination;
 
-&emsp;(6) prior to disseminating any record about an individual to any person other than an agency, unless the dissemination is made pursuant to subsection (b)(2) of this section, make reasonable efforts to assure that such records are accurate, complete, timely, and relevant for agency purposes;
+&emsp;(6) prior to disseminating any record about an individual to any person other than an agency, unless the dissemination is made pursuant to subsection (b)(2) of this section, make reasonable efforts to assure that such recordsare accurate, complete, timely, and relevant for agency purposes;
 
 &emsp;(7) maintain no record describing how any individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the individual about whom the record is maintained or unless pertinent to and within the scope of an authorized law enforcement activity;
 
@@ -216,7 +216,7 @@ Civil Remedies.—Whenever any agency
 
 &emsp;(D) fails to comply with any other provision of this section, or any rule promulgated thereunder, in such a way as to have an adverse effect on an individual,
 
-> the individual may bring a civil action against the agency, and the district courts of the UnitedStates shall have jurisdiction in the matters under the provisions of this subsection.
+> the individual may bring a civil action against the agency, and the district courts of the United States shall have jurisdiction in the matters under the provisions of this subsection.
 
 (2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
 
@@ -224,7 +224,7 @@ Civil Remedies.—Whenever any agency
 
 (3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
 
-(B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
+(B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case underthis paragraph in which the complainant has substantially prevailed.
 
 (4) In any suit brought under the provisions of subsection (g)(1)(C) or (D) of this section in which the court determines that the agency acted in a manner which was intentional or willful, the United States shall be liable to the individual in an amount equal to the sum of—
 
@@ -304,7 +304,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 &emsp;(C) a description of the records that will be matched, including each data element that will be used, the approximate number of records that will be matched, and the projected starting and completion dates of the matching program;
 
-&emsp;(D) procedures for providing individualized notice at the time of application, and noticeperiodically thereafter as directed by the Data Integrity Board of such agency (subject to guidance provided by the Director of the Office of Management and Budget pursuant to subsection (v)), to—
+&emsp;(D) procedures for providing individualized notice at the time of application, and notice periodically thereafter as directed by the Data Integrity Board of such agency (subject to guidance provided by the Director of the Office of Management and Budget pursuant to subsection (v)), to—
 
 &emsp;&emsp;(i) applicants for and recipients of financial assistance or payments under Federal benefit programs, and
 
@@ -372,7 +372,7 @@ Verification and Opportunity to Contest Findings.—(1) In order to protect any 
 
 (q)
 
-Sanctions.—(1) Notwithstanding any other provision of law, no source agency may disclose any record which is contained in a system of records to a recipient agency or non-Federal agency for a matching program if such source agency has reason to believe that the requirements of subsection (p), or any matching agreement entered into pursuant to subsection (o), orboth, are not being met by such recipient agency.
+Sanctions.—(1) Notwithstanding any other provision of law, no source agency may disclose any record which is contained in a system of records to a recipient agency or non-Federal agency for a matching program if such source agency has reason to believe that the requirements of subsection (p), or any matching agreement entered into pursuant to subsection (o), or both, are not being met by such recipient agency.
 
 (2) No source agency may renew a matching agreement unless—
 
@@ -530,7 +530,7 @@ Subsec. (f). Pub. L. 100–503, §7, substituted "biennially" for "annually" in 
 
 Subsecs. (o) to (q). Pub. L. 100–503, §2(2), added subsecs. (o) to (q). Former subsecs. (o) to (q) redesignated (r) to (t), respectively.
 
-Subsec. (r). Pub. L. 100–503, §3(b), inserted "and matching programs" in heading and amended text generally. Prior to amendment, text read as follows: "Each agency shall provide adequate advance notice to Congress and the Office of Management and Budget of any proposal to establish or alter any system of records in order to permit an evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals or the disclosure of information relating to such individuals, and its effect on the preservation of the constitutional principles of federalism and separation of powers."
+Subsec. (r). Pub. L. 100–503, §3(b), inserted "and matching programs" in heading and amended text generally. Prior to amendment, text read as follows: "Each agency shall provide adequate advance notice to Congress and the Office of Management and Budget of any proposal to establish or alter any system of records in order to permit an evaluation of the probable or potential effect of such proposal on the privacy and otherpersonal or property rights of individuals or the disclosure of information relating to such individuals, and its effect on the preservation of the constitutional principles of federalism and separation of powers."
 
 Pub. L. 100–503, §2(1), redesignated former subsec. (o) as (r).
 
@@ -568,7 +568,7 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2014 Amendment
 
@@ -657,6 +657,126 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (s) 
 #### Delegation of Functions
 
 Functions of Director of Office of Management and Budget under this section delegated to Administrator for Office of Information and Regulatory Affairs by section 3 of Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2825, set out as a note under section 3503 of Title 44, Public Printing and Documents.
+
+#### Extension of Privacy Act Remedies to Citizens of Designated Countries
+
+Pub. L. 114–126, Feb. 24, 2016, 130 Stat. 282, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Judicial Redress Act of 2015'.
+
+#### "SEC. 2. EXTENSION OF PRIVACY ACT REMEDIES TO CITIZENS OF DESIGNATED COUNTRIES.
+
+"(a)
+
+Civil Action; Civil Remedies.—With respect to covered records, a covered person may bring a civil action against an agency and obtain civil remedies, in the same manner, to the same extent, and subject to the same limitations, including exemptions and exceptions, as an individual may bring and obtain with respect to records under—
+
+&emsp;"(1) section 552a(g)(1)(D) of title 5, United States Code, but only with respect to disclosures intentionally or willfully made in violation of section 552a(b) of such title; and
+
+&emsp;"(2) subparagraphs (A) and (B) of section 552a(g)(1) of title 5, United States Code, but such an action may only be brought against a designated Federal agency or component.
+
+"(b)
+
+Exclusive Remedies.—The remedies set forth in subsection (a) are the exclusive remedies available to a covered person under this section.
+
+"(c)
+
+Application of the Privacy Act With Respect to a Covered Person.—For purposes of a civil action described in subsection (a), a covered person shall have the same rights, and be subject to the same limitations, including exemptions and exceptions, as an individual has and is subject to under section 552a of title 5, United States Code, when pursuing the civil remedies described in paragraphs (1) and (2) of subsection (a).
+
+"(d)
+
+Designation of Covered Country.—
+
+&emsp;"(1)
+
+In general.—The Attorney General may, with the concurrence of the Secretary of State, the Secretary of the Treasury, and the Secretary of Homeland Security, designate a foreign country or regional economic integration organization, or member country of such organization, as a 'covered country' for purposes of this section if—
+
+&emsp;&emsp;"(A)(i) the country or regional economic integration organization, or member country of such organization, has entered into an agreement with the United States that provides for appropriate privacy protections for information shared for the purpose of preventing, investigating, detecting, or prosecuting criminal offenses; or
+
+&emsp;&emsp;"(ii) the Attorney General has determined that the country or regional economic integration organization, or member country of such organization, has effectively shared information with the United States for the purpose of preventing, investigating, detecting, or prosecuting criminal offenses and has appropriate privacy protections for such shared information;
+
+&emsp;&emsp;"(B) the country or regional economic integration organization, or member country of such organization, permits the transfer of personal data for commercial purposes between the territory of that country or regional economic organization and the territory of the United States, through an agreement with the United States or otherwise; and
+
+&emsp;&emsp;"(C) the Attorney General has certified that the policies regarding the transfer of personal data for commercial purposes and related actions of the country or regional economic integration organization, or member country of such organization, do not materially impede the national security interests of the United States.
+
+&emsp;"(2)
+
+Removal of designation.—The Attorney General may, with the concurrence of the Secretary ofState, the Secretary of the Treasury, and the Secretary of Homeland Security, revoke the designation of a foreign country or regional economic integration organization, or member country of such organization, as a 'covered country' if the Attorney General determines that such designated 'covered country'—
+
+&emsp;&emsp;"(A) is not complying with the agreement described under paragraph (1)(A)(i);
+
+&emsp;&emsp;"(B) no longer meets the requirements for designation under paragraph (1)(A)(ii);
+
+&emsp;&emsp;"(C) fails to meet the requirements under paragraph (1)(B);
+
+&emsp;&emsp;"(D) no longer meets the requirements for certification under paragraph (1)(C); or
+
+&emsp;&emsp;"(E) impedes the transfer of information (for purposes of reporting or preventing unlawful activity) to the United States by a private entity or person.
+
+"(e)
+
+Designation of Designated Federal Agency or Component.—
+
+&emsp;"(1)
+
+In general.—The Attorney General shall determine whether an agency or component thereof is a 'designated Federal agency or component' for purposes of this section. The Attorney General shall not designate any agency or component thereof other than the Department of Justice or a component of the Department of Justice without the concurrence of the head of the relevant agency, or of the agency to which the component belongs.
+
+&emsp;"(2)
+
+Requirements for designation.—The Attorney General may determine that an agency or component of an agency is a 'designated Federal agency or component' for purposes of this section, if—
+
+&emsp;&emsp;"(A) the Attorney General determines that information exchanged by such agency with a covered country is within the scope of an agreement referred to in subsection (d)(1)(A); or
+
+&emsp;&emsp;"(B) with respect to a country or regional economic integration organization, or member country of such organization, that has been designated as a 'covered country' under subsection (d)(1)(B), the Attorney General determines that designating such agency or component thereof is in the law enforcement interests of the United States.
+
+"(f)
+
+Federal Register Requirement; Nonreviewable Determination.—The Attorney General shall publish each determination made under subsections (d) and (e). Such determination shall not be subject to judicial or administrative review.
+
+"(g)
+
+Jurisdiction.—The United States District Court for the District of Columbia shall have exclusive jurisdiction over any claim arising under this section.
+
+"(h)
+
+Definitions.—In this Act:
+
+&emsp;"(1)
+
+Agency.—The term 'agency' has the meaning given that term in section 552(f) of title 5, United States Code.
+
+&emsp;"(2)
+
+Covered country.—The term 'covered country' means a country or regional economic integration organization, or member country of such organization, designated in accordance with subsection (d).
+
+&emsp;"(3)
+
+Covered person.—The term 'covered person' means a natural person (other than an individual) who is a citizen of a covered country.
+
+&emsp;"(4)
+
+Covered record.—The term 'covered record' has the same meaning for a covered person as a record has for an individual under section 552a of title 5, United States Code, once the covered record is transferred—
+
+&emsp;&emsp;"(A) by a public authority of, or private entity within, a country or regional economic organization, or member country of such organization, which at the time the record is transferred is a covered country; and
+
+&emsp;&emsp;"(B) to a designated Federal agency or component for purposes of preventing, investigating, detecting, or prosecuting criminal offenses.
+
+&emsp;"(5)
+
+Designated federal agency or component.—The term 'designated Federal agency or component' means a Federal agency or component of an agency designated in accordance with subsection (e).
+
+&emsp;"(6)
+
+Individual.—The term 'individual' has the meaning given that term in section 552a(a)(2) of title 5, United States Code.
+
+"(i)
+
+Preservation of Privileges.—Nothing in this section shall be construed to waive any applicable privilege or require the disclosure of classified information. Upon an agency's request, the district court shall review in camera and ex parte any submission by the agency in connection with this subsection.
+
+"(j)
+
+Effective Date.—This Act shall take effect 90 days after the date of the enactment of this Act \[Feb. 24, 2016\]."
 
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 
@@ -766,7 +886,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 1\. Hereafter any Federal department, establishment, or agency may, whenever the head thereof finds it advisable to establish a new system of permanent account numbers pertaining to individual persons, utilize the Social Security Act account numbers assigned pursuant to title 20, section 422.103 of the Code of Federal Regulations and pursuant to paragraph 2 of this order.
 
-2\. The Social Security Administration shall provide for the assignment of an account number to each person who is required by any Federal agency to have such a number but who has not previously been assigned such number by the Administration. The Administration may accomplish this purpose by (a) assigning such numbers to individual persons, (b) assigning blocks of numbers to Federal agencies for reassignment to individual persons, or (c) making such other arrangements for the assignment of numbers as it may deem appropriate.
+2\. The Social Security Administration shall provide for the assignment of an account number to each person who is required by any Federal agency to have sucha number but who has not previously been assigned such number by the Administration. The Administration may accomplish this purpose by (a) assigning such numbers to individual persons, (b) assigning blocks of numbers to Federal agencies for reassignment to individual persons, or (c) making such other arrangements for the assignment of numbers as it may deem appropriate.
 
 3\. The Social Security Administration shall furnish, upon request of any Federal agency utilizing the numerical identification system of accounts provided for in this order, the account number pertaining to any person with whom such agency has an account or the name and other identifying data pertaining to any account number of any such person.
 

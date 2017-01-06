@@ -16,7 +16,7 @@
 
 #### (2) Discrimination by creditors prohibited
 
-&emsp;No agency, organization, institution, bank, credit union, corporation, or other lender whoregularly extends, renews, or continues credit or provides insurance under this part shall exclude from receipt or deny the benefits of, or discriminate against any borrower or applicant in obtaining, such credit or insurance on the basis of race, national origin, religion, sex, marital status, age, or handicapped status.
+&emsp;No agency, organization, institution, bank, credit union, corporation, or other lender who regularly extends, renews, or continues credit or provides insurance under this part shall exclude from receipt or deny the benefits of, or discriminate against any borrower or applicant in obtaining, such credit or insurance on the basis of race, national origin, religion, sex, marital status, age, or handicapped status.
 
 #### (b) Authorization of appropriations
 
@@ -46,7 +46,7 @@ Notwithstanding paragraphs (1) through (6) of subsection (b) or any other provis
 
 &emsp;(1) no new loans (including consolidation loans) may be made or insured under this part after June 30, 2010; and
 
-&emsp;(2) no funds are authorized to be appropriated, or may be expended, under this chapter and part C of subchapter I of chapter 34 of title 42 or any other Act to make or insure loans under this part (including consolidation loans) for which the first disbursement is after June 30, 2010,
+&emsp;(2) no funds are authorized to be appropriated, or may be expended, under this chapter or any other Act to make or insure loans under this part (including consolidation loans) for which the first disbursement is after June 30, 2010,
 
 > except as expressly authorized by an Act of Congress enacted after March 30, 2010.
 
@@ -74,13 +74,13 @@ Subsec. (d). Pub. L. 111–152, §2201(2), added subsec. (d).
 
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–171 substituted "a loan processing and issuance fee" for "an administrative cost allowance".
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: "Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations."
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: "Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding anyrequirements for notice and public hearing on such regulations."
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: "The program established under this part shall be referred to as the 'Robert T. Stafford Student Loan Program'. Loans made under this part shall be known as 'Stafford Loans'."
 
 Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted "shall be referred" for "may be referred" and inserted provisionidentifying loans made under this part as "Stafford Loans".
+<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted "shall be referred" for "may be referred" and inserted provision identifying loans made under this part as "Stafford Loans".
 
 Pub. L. 100–297 added subsec. (c).
 
@@ -156,7 +156,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 "(c)
 
-Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
+Changes Effective Without Regard to Regulations; Republication of Regulations.—The changesmade in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
 "(d)
 

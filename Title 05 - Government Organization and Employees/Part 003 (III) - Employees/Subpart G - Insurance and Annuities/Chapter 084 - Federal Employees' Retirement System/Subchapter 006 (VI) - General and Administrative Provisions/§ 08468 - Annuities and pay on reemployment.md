@@ -16,7 +16,7 @@
 
 (c) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
 
-(d) If an annuitant becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, the annuitant may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8424(a), the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
+(d) If an annuitant becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, the annuitant may, at anytime prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8424(a), the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
 
 (e) A reference in this section to an "annuity" shall not be considered to include any amount payable from a source other than the Fund.
 
@@ -84,7 +84,7 @@
 
 &emsp;(C) for more than a total of 3120 hours of service performed by that annuitant.
 
-(4)(A) The total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(l) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
+(4)(A) The total number of annuitants to whom a waiver by the head of an agency underthis subsection or section 8344(l) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
 
 (B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(l) applies exceeds 1 percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
 
@@ -200,7 +200,7 @@ Nothing in amendment by section 1122 of Pub. L. 111–84 to be construed to auth
 
 #### Annual Report to Congress
 
-Each agency in legislative branch to submit to Speaker of House of Representatives and Committee on Rules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used bysuch agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 8344 of this title.
+Each agency in legislative branch to submit to Speaker of House of Representatives and Committee on Rules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used by such agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 8344 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "part-time".</i>
 

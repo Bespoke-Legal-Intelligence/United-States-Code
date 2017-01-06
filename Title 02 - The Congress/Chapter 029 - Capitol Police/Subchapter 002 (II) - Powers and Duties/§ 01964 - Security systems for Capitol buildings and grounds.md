@@ -10,7 +10,7 @@
 
 capitol buildings", under the general headings "JOINT ITEMS", "ARCHITECT OF THE CAPITOL", and "
 
-Capitol Buildings and Grounds" in title I of the Legislative Branch Appropriations Act, 1995 (108 Stat. 1434), including any unexpended balance from a prior fiscal year and any unexpended balance under such headings in this Act; and
+Capitol Buildings and Grounds" in title I of the Legislative Branch Appropriations Act, 1995 (108 Stat. 1434), including any unexpended balance from a priorfiscal year and any unexpended balance under such headings in this Act; and
 
 &emsp;(B) the unexpended balance of the appropriation for an improved security plan, as transferred to the Architect of the Capitol by section 102 of the Legislative Branch Appropriations Act, 1989 (102 Stat. 2165).
 
@@ -48,7 +48,7 @@ Section 102 of the Legislative Branch Appropriations Act, 1989, referred to in s
 
 #### Codification
 
-In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the UnitedStates (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

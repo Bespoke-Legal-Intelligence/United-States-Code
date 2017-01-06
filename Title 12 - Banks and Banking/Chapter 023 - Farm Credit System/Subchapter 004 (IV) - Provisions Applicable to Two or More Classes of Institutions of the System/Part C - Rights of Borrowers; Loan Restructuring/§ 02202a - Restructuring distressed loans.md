@@ -22,7 +22,7 @@ As used in this part:
 
 &emsp;&emsp;(B) the estimated cost of maintaining a loan as a nonperforming asset;
 
-&emsp;&emsp;(C) the estimated cost of administrative and legal actions necessary to foreclose a loan and dispose of property acquired as the result of the foreclosure, including attorneys' fees and court costs;
+&emsp;&emsp;(C) the estimated cost of administrative and legal actions necessary to foreclose a loan and dispose of property acquired as theresult of the foreclosure, including attorneys' fees and court costs;
 
 &emsp;&emsp;(D) the estimated cost of changes in the value of collateral used to secure a loan during the period beginning on the date of the initiation of an action to foreclose or liquidate the loan and ending on the date of the disposition of the collateral; and
 
@@ -184,7 +184,7 @@ This section shall not be construed to prevent any qualified lender from enforci
 
 #### (k) Application of section
 
-The time limitation prescribed in subsection (b)(2), and the requirements of subsection (c), shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
+The time limitation prescribed in subsection (b)(2), and the requirements of subsection (c),shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
 
 #### (l) Assistance in restructuring
 

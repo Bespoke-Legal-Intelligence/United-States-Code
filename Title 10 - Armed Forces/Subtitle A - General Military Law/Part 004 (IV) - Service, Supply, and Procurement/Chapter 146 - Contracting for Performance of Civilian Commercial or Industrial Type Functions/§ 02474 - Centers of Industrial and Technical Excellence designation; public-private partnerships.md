@@ -14,7 +14,7 @@ Public-Private Partnerships.—(1) To achieve one or more objectives set forth i
 
 &emsp;(A) For employees of the Center, private industry, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the core competencies of the Center, including any depot-level maintenance and repair work that involves one or more core competencies of the Center.
 
-&emsp;(B) For private industry or other entities outside the Department of Defense to use, for any period of time determined to be consistent with the needs of the Department of Defense, any facilities or equipment of the Center that are not fully utilized for a military department's own production or maintenance requirements.
+&emsp;(B) For private industry or other entities outside the Department of Defense to use, forany period of time determined to be consistent with the needs of the Department of Defense, any facilities or equipment of the Center that are not fully utilized for a military department's own production or maintenance requirements.
 
 (2) The objectives for exercising the authority provided in paragraph (1) are as follows:
 

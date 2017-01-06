@@ -50,7 +50,7 @@
 
 #### (3) Liaison
 
-&emsp;Within the Bureau of Democracy, Human Rights, and Labor, the Assistant Secretary shall identify officers or employees who have expertise in and shall be responsible for working with nongovernmental organizations, individuals, and movements that develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements in foreign countries that arecommitted to the peaceful promotion of democracy and fundamental rights and freedoms.
+&emsp;Within the Bureau of Democracy, Human Rights, and Labor, the Assistant Secretary shall identify officers or employees who have expertise in and shall be responsible for working with nongovernmental organizations, individuals, and movements that develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements in foreign countries that are committed to the peaceful promotion of democracy and fundamental rights and freedoms.
 
 #### (c) Actions by chiefs of mission
 

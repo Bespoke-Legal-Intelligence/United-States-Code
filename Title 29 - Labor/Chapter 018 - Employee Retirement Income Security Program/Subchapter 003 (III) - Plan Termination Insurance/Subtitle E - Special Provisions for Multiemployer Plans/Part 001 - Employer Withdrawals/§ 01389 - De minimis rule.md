@@ -2,7 +2,7 @@
 
 #### (a) Reduction of unfunded vested benefits allocable to employer withdrawn from plan
 
-Except in the case of a plan amended under subsection (b) of this section, the amount of the unfunded vested benefits allocable under section 1391 of this title to an employer who withdraws from a plan shall be reduced by the smaller of—
+Except in the case of a plan amended under subsection (b), the amount of the unfunded vested benefits allocable under section 1391 of this title to an employer who withdraws from a plan shall be reduced by the smaller of—
 
 &emsp;(1) ¾ of 1 percent of the plan's unfunded vested obligations (determined as of the end of the plan year ending before the date of withdrawal), or
 
@@ -14,11 +14,11 @@ Except in the case of a plan amended under subsection (b) of this section, the a
 
 A plan may be amended to provide for the reduction of the amount determined under section 1391 of this title by not more than the greater of—
 
-&emsp;(1) the amount determined under subsection (a) of this section, or
+&emsp;(1) the amount determined under subsection (a), or
 
 &emsp;(2) the lesser of—
 
-&emsp;&emsp;(A) the amount determined under subsection (a)(1) of this section, or
+&emsp;&emsp;(A) the amount determined under subsection (a)(1), or
 
 &emsp;&emsp;(B) $100,000,
 

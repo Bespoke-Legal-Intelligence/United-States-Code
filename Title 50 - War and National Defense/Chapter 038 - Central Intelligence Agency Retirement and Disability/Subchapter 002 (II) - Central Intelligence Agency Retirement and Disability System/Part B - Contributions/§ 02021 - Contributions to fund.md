@@ -84,7 +84,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 &emsp;The amount deducted and withheld from the basic pay of a participant during any pay period pursuant to paragraph (1) shall be the excess of—
 
-&emsp;&emsp;(A) the amount determined by multiplying the percent applicable to the participant under subsection (a) of this section by the basic pay payable to the participant for that pay period, over
+&emsp;&emsp;(A) the amount determined by multiplying the percent applicable to the participant under subsection (a) by the basic pay payable to the participant for that pay period, over
 
 &emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 Pub. L. 106–346, §101(a) \[title V, §505(g)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding \[former\] section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act."
 
-Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a)\[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
+Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a) \[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 "(1)
 

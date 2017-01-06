@@ -42,11 +42,25 @@ Functions of the Chief Acquisition Officer.—The functions of the Chief Acquisi
 
 &emsp;(7) assessing the requirements established for Coast Guard personnel regarding knowledge and skill in acquisition resources and management and the adequacy of such requirements for facilitating the achievement of the performance goals established for acquisition management;
 
-&emsp;(8) developing strategies and specific plans for hiring, training, and professional development; and
+&emsp;(8) developing strategies and specific plans for hiring, training, and professional development;
 
-&emsp;(9) reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability.
+&emsp;(9) reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability; and
 
-(Added Pub. L. 111–281, title IV, §401(a), Oct. 15, 2010, 124 Stat. 2929.)
+&emsp;(10)(A) keeping the Commandant informed of the progress of major acquisition programs (as that term is defined in section 581);
+
+&emsp;(B) informing the Commandant on a continuing basis of any developments on such programs that may require new or revisited trade-offs among cost, schedule, technical feasibility, and performance, including—
+
+&emsp;&emsp;(i) significant cost growth or schedule slippage; and
+
+&emsp;&emsp;(ii) requirements creep (as that term is defined in section 2547(c)(1) of title 10); and
+
+&emsp;(C) ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.
+
+(Added Pub. L. 111–281, title IV, §401(a), Oct. 15, 2010, 124 Stat. 2929; amended Pub. L. 114–328, div. A, title VIII, §899(a), Dec. 23, 2016, 130 Stat. 2332.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(10). Pub. L. 114–328 added par. (10).
 
 #### Selection Deadline
 
@@ -58,7 +72,7 @@ Pub. L. 111–281, title IV, §401(d), Oct. 15, 2010, 124 Stat. 2930, as amended
 
 "(1)
 
-Requirement to establish.—Not later than 1 year after the date of enactment of this Act \[Oct. 15, 2010\] and in accordance with section 9701.333 of title 5, Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section \[adding this section\].
+Requirement to establish.—Not later than 1 year after the date of enactment of this Act \[Oct. 15, 2010\] and in accordance with section 9701.333 of title 5,Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section \[adding this section\].
 
 "(2)
 

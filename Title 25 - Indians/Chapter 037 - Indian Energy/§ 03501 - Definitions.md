@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) within or outside the boundaries of any State or States.
 
-&emsp;(4)(A) The term "Indian tribe" has the meaning given the term in section 450b of this title.
+&emsp;(4)(A) The term "Indian tribe" has the meaning given the term in section 5304 of this title.
 
 &emsp;(B) For the purpose of paragraph (12) and sections 3503(b)(1)(C) and 3504 of this title, the term "Indian tribe" does not include any Native Corporation.
 
@@ -54,7 +54,7 @@ In this chapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see ShortTitle note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

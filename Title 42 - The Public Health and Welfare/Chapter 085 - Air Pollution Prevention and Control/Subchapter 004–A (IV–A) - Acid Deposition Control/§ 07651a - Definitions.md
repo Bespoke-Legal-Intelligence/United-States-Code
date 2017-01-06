@@ -92,7 +92,7 @@ As used in this subchapter:
 
 &emsp;(28) The term "basic Phase II allowance allocations" means:
 
-&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and\(4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
+&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
 
 &emsp;&emsp;(B) For each calendar year beginning in 2010, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4) and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1) and (3); (i) and (j) of section 7651d of this title.
 

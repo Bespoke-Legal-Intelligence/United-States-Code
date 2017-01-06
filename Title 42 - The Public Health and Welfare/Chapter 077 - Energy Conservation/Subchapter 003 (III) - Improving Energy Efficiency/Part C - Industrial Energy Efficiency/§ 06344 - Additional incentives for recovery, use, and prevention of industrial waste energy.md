@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after the receipt by a State regulatory authority (with respect to each electric utility for which the authorityhas ratemaking authority), or nonregulated electric utility, of a request from a project sponsor or owner or operator, the State regulatory authority or nonregulated electric utility shall—
+&emsp;Not later than 180 days after the receipt by a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority), or nonregulated electric utility, of a request from a project sponsor or owner or operator, the State regulatory authority or nonregulated electric utility shall—
 
 &emsp;&emsp;(A) provide public notice and conduct a hearing respecting the standard established by subsection (b); and
 
@@ -32,7 +32,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (2) Transport by utility for direct sale to third party
 
-&emsp;The electric utility shall transmit the net excess power on behalf of the project owner or operator to up to 3 separate locations on the system of the utility for direct sale by the owner or operator to third parties at those locations.
+&emsp;The electric utility shall transmit the net excess power on behalf of the project owner oroperator to up to 3 separate locations on the system of the utility for direct sale by the owner or operator to third parties at those locations.
 
 #### (3) Transport over private transmission lines
 
@@ -182,7 +182,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement any standard established by this section, the authority or nonregulated electricutility shall state in writing the reasons for declining to implement the standard.
+&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement any standard established by this section, the authority or nonregulated electric utility shall state in writing the reasons for declining to implement the standard.
 
 #### (B) Availability to public
 

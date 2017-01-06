@@ -60,7 +60,7 @@ The effective date of this chapter, referred to in subsec. (f), means the effect
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance, and pages 54 and 107 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 54 and 107 of House Document No. 103–7.
 
 #### Marine Mammal Populations Report
 

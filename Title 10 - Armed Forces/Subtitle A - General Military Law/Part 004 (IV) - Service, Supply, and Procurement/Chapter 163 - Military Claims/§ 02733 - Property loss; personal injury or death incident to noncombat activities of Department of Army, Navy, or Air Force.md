@@ -16,7 +16,7 @@
 
 &emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
 
-&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employee whose injury or death is incident to his service;
+&emsp;(3) it is not for personal injury or death of such a member or civilian officer or employeewhose injury or death is incident to his service;
 
 &emsp;(4) the damage to, or loss of, property, or the personal injury or death, was not caused wholly or partly by a negligent or wrongful act of the claimant, his agent, or his employee; or, if so caused, allowed only to the extent that the law of the place where the act or omission complained of occurred would permit recovery from a private individual under like circumstances; and
 

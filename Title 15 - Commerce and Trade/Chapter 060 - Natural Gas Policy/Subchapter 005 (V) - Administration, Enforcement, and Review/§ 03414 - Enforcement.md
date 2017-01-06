@@ -8,11 +8,11 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in anyact or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
 
 #### (2) Enforcement of emergency orders
 
-&emsp;Whenever it appears to the President that any person has engaged, is engaged, or isabout to engage in acts or practices constituting a violation of any order under section 3362 of this title or any order or supplemental order issued under section 3363 of this title, the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
+&emsp;Whenever it appears to the President that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of any order under section 3362 of this title or any order or supplemental order issued under section 3363 of this title, the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
 
 #### (3) Repealed. Pub. L. 101–60, §3(a)(4)(B), July 26, 1989, 103 Stat. 158
 

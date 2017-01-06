@@ -12,7 +12,7 @@
 
 #### (3) Safety and efficacy testing of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes ofHealth, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
 
 #### (4) Licensing of vaccine manufacturers and vaccines
 
@@ -20,7 +20,7 @@
 
 #### (5) Production and procurement of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, ensure that the governmental and non-governmental production and procurement of safe and effective vaccines by the Public Health Service, the Department of Defense, and the Agency for International Development meet the needs of the United States population and fulfill commitments of the United States to prevent human infectious diseases in other countries.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, ensure that the governmental and non-governmental production and procurement of safe and effective vaccines by the Public Health Service, the Department of Defense, and the Agency for International Developmentmeet the needs of the United States population and fulfill commitments of the United States to prevent human infectious diseases in other countries.
 
 #### (6) Distribution and use of vaccines
 
@@ -38,7 +38,7 @@
 
 &emsp;The Director of the Program shall make available to Federal agencies involved in the implementation of the plan issued under section 300aa–3 of this title funds appropriated under section 300aa–6 of this title to supplement the funds otherwise available to such agencies for activities under the plan.
 
-(b) In carrying out subsection (a) of this section and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
+(b) In carrying out subsection (a) and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
 
 (July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 108–173, title IX, §900(e)(2)(F), Dec. 8, 2003, 117 Stat. 2372.)
 
@@ -54,21 +54,13 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 
 <b>1992</b>—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
+#### Encouraging Vaccine Innovation; Meetings
+
+Pub. L. 114–255, div. A, title III, §3093(a), Dec. 13, 2016, 130 Stat. 1151, provided that: "The Director of the Centers for Disease Control and Prevention shall ensure that appropriate staff within the relevant centers and divisions of the Office of Infectious Diseases, and others, as appropriate, coordinate with respect to the public health needs, epidemiology, and program planning and implementation considerations related to immunization, including with regard to meetings with stakeholders related to such topics."
+
 #### Grants for Research on Vaccine Against Valley Fever
 
-Pub. L. 109–432, div. B, title IV, §402, Dec. 20, 2006, 120 Stat. 2994, provided that:
-
-"(a)
-
-In General.—In supporting research on the development of vaccines against human diseases, the Secretary of Health and Human Services shall make grants for the purpose of conducting research toward the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever).
-
-"(b)
-
-Sunset.—No grant may be made under subsection (a) on or after October 1, 2012. The preceding sentence does not have any legal effect on payments under grants for which amounts appropriated under subsection (c) were obligated prior to such date.
-
-"(c)
-
-Authorization of Appropriations.—For the purpose of making grants under subsection (a), there are authorized to be appropriated $40,000,000 for the period of fiscal years 2007 through 2012."
+Pub. L. 109–432, div. B, title IV, §402, Dec. 20, 2006, 120 Stat. 2994, authorized the Secretary of Health and Human Services to make grants for research on the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever) before Oct. 1, 2012.
 
 #### Demonstration Projects for Outreach Programs
 

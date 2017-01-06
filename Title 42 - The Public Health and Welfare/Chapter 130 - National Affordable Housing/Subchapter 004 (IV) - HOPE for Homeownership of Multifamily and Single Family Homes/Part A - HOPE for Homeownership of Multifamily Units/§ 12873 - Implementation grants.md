@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make implementation grants to applicants for the purposeof carrying out homeownership programs approved under this part.
+The Secretary is authorized to make implementation grants to applicants for the purpose of carrying out homeownership programs approved under this part.
 
 #### (b) Eligible activities
 
@@ -80,9 +80,9 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(E) identification and description of the property involved, and a description of the composition of the tenants, including family size and income;
 
-&emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
+&emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
-&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitationand (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
+&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
 &emsp;&emsp;(H) the proposed sales price, the basis for such price determination, and terms to an entity, if any, that will purchase the property for resale to eligible families;
 
@@ -122,7 +122,7 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 #### References in Text
 
-Section 12872 of this title, referred to in subsec. (b)(6), was in the original "section 322" and was translated as reading "section 422", meaning section 422 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 322 of Pub. L. 101–625 amended section 1708 of Title 12, Banks and Banking.
+Section 12872 of this title, referred to in subsec. (b)(6), was in the original "section 322" and was translated asreading "section 422", meaning section 422 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 322 of Pub. L. 101–625 amended section 1708 of Title 12, Banks and Banking.
 
 Section 12874 of this title and section 12874(b) of this title, referred to in subsec. (d)(2)(D), were in the original "section 324" and "section 324(b)", respectively, and were translated as reading "section 424" and "section 424(b)", respectively, meaning section 424 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 324 of Pub. L. 101–625, which proposed an amendment to section 1709 of Title 12, never took effect pursuant to section 351 of Pub. L. 101–625. Such section 324 did not contain a subsec. (b).
 

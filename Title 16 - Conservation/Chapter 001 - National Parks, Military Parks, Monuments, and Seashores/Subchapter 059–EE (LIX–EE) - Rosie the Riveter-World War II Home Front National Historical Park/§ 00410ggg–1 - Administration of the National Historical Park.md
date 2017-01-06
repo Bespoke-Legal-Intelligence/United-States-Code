@@ -100,7 +100,7 @@ The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in s
 
 #### Codification
 
-In subsec. (g)(1), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (16 U.S.C. 1a–7(b)), popularly known as the National Park System General Authorities Act," on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (g)(1), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (16 U.S.C. 1a–7(b)), popularly known as the NationalPark System General Authorities Act," on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 

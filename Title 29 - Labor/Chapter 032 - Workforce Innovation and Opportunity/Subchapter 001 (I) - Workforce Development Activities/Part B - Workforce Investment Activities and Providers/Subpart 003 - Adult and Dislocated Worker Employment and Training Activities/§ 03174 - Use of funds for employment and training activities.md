@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) provision of rapid response activities, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials for the local areas; and
 
-&emsp;&emsp;&emsp;&emsp;(II) provision of additional assistance to local areas that experience disasters, mass layoffs, or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas by the State, working in conjunction with the local boards and the chief elected officials for the local areas.
+&emsp;&emsp;&emsp;&emsp;(II) provision of additional assistance to local areas that experience disasters, mass layoffs, or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas bythe State, working in conjunction with the local boards and the chief elected officials for the local areas.
 
 #### (ii) Use of unobligated funds
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(v) disseminating—
 
-&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services, including eligible providers of nontraditional training services and eligible providers of apprenticeshipprograms described in section 3152(a)(2)(B) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services, including eligible providers of nontraditional training services and eligible providers of apprenticeship programs described in section 3152(a)(2)(B) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) information identifying eligible providers of on-the-job training, customized training, incumbent worker training, internships, paid or unpaid work experience opportunities, or transitional jobs;
 
@@ -178,7 +178,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(ii) outreach, intake (which may include worker profiling), and orientation to the information and other services available through the one-stop delivery system;
 
-&emsp;&emsp;&emsp;(iii) initial assessment of skill levels (including literacy, numeracy, and Englishlanguage proficiency), aptitudes, abilities (including skills gaps), and supportive service needs;
+&emsp;&emsp;&emsp;(iii) initial assessment of skill levels (including literacy, numeracy, and English language proficiency), aptitudes, abilities (including skills gaps), and supportive service needs;
 
 &emsp;&emsp;&emsp;(iv) labor exchange services, including—
 
@@ -352,7 +352,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (iv) Coordination
 
-&emsp;&emsp;&emsp;Each local board may, through one-stop centers, coordinate funding for individual training accounts with funding from other Federal, State, local, or private job training programs or sources to assist the individual in obtaining training services.
+&emsp;&emsp;&emsp;Each local board may, through one-stop centers, coordinate funding for individualtraining accounts with funding from other Federal, State, local, or private job training programs or sources to assist the individual in obtaining training services.
 
 #### (v) Additional information
 
@@ -424,7 +424,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(i) customized screening and referral of qualified participants in training services described in subsection (c)(3) to employers;
 
-&emsp;&emsp;&emsp;(ii) customized employment-related services to employers, employer associations, or other such organizations on a fee-for-service basis;
+&emsp;&emsp;&emsp;(ii) customized employment-related services to employers, employer associations,or other such organizations on a fee-for-service basis;
 
 &emsp;&emsp;&emsp;(iii) implementation of a pay-for-performance contract strategy for training services, for which the local board may reserve and use not more than 10 percent of the total funds allocated to the local area under paragraph (2) or (3) of section 3173(b) of this title;
 
@@ -470,7 +470,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(xi) improved coordination between employment and training activities and programs carried out in the local area for individuals with disabilities, including programs carried out by State agencies relating to intellectual disabilities and developmental disabilities, activities carried out by Statewide Independent Living Councils established under section 705 of the Rehabilitation Act of 1973 (29 U.S.C. 796d), programs funded under part B of chapter 1 of title VII of such Act (29 U.S.C. 796e et seq.), and activities carried out by centers for independent living, as defined in section 702 of such Act (29 U.S.C. 796a); and
 
-&emsp;&emsp;&emsp;(xii) implementation of promising services to workers and businesses, which may include support for education, training, skill upgrading, and statewide networking for employees to become workplace learning advisors and maintain proficiency in carrying out the activities associated with such advising.
+&emsp;&emsp;&emsp;(xii) implementation of promising services to workers and businesses, which may include support for education, training,skill upgrading, and statewide networking for employees to become workplace learning advisors and maintain proficiency in carrying out the activities associated with such advising.
 
 #### (B) Work support activities for low-wage workers
 
@@ -498,7 +498,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Additional eligibility requirements
 
-&emsp;&emsp;In addition to the requirements contained in subparagraph (A), a dislocated worker who has ceased to qualify for unemploymentcompensation may be eligible to receive needs-related payments under this paragraph only if such worker was enrolled in the training services—
+&emsp;&emsp;In addition to the requirements contained in subparagraph (A), a dislocated worker who has ceased to qualify for unemployment compensation may be eligible to receive needs-related payments under this paragraph only if such worker was enrolled in the training services—
 
 &emsp;&emsp;&emsp;(i) by the end of the 13th week after the most recent layoff that resulted in a determination of the worker's eligibility for employment and training activities for dislocated workers under this part; or
 
@@ -602,7 +602,7 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

@@ -10,9 +10,9 @@
 
 &emsp;&emsp;&emsp;(i) on such covered institution's or institution-affiliated organization's website and in all informational materials described in subparagraph (C) that describe or discuss education loans—
 
-&emsp;&emsp;&emsp;&emsp;(I) the maximum amount of Federal grant and loan aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 available to students, in an easy to understand format;
+&emsp;&emsp;&emsp;&emsp;(I) the maximum amount of Federal grant and loan aid under subchapter IV available to students, in an easy to understand format;
 
-&emsp;&emsp;&emsp;&emsp;(II) the information required to be disclosed pursuant to section1019b(a)(2)(A)(i) of this title, for each type of loan described in section 1019(3)(A) of this title that is offered pursuant to a preferred lender arrangement of the institution or organization to students of the institution or the families of such students; and
+&emsp;&emsp;&emsp;&emsp;(II) the information required to be disclosed pursuant to section 1019b(a)(2)(A)(i) of this title, for each type of loan described in section 1019(3)(A) of this title that is offered pursuant to a preferred lender arrangement of the institution or organization to students of the institution or the families of such students; and
 
 &emsp;&emsp;&emsp;&emsp;(III) a statement that such institution is required to process the documents required to obtain a loan under part B of subchapter IV from any eligible lender the student selects; and
 
@@ -30,11 +30,11 @@
 
 &emsp;&emsp;&emsp;(ii) inform the prospective borrower that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the prospective borrower may qualify for loans or other assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;&emsp;&emsp;(I) the prospective borrower may qualify for loans or other assistance under subchapter IV; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the terms and conditions of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 may be more favorable than the provisions of private education loans; and
+&emsp;&emsp;&emsp;&emsp;(II) the terms and conditions of loans made, insured, or guaranteed under subchapter IV may be more favorable than the provisions of private education loans; and
 
-&emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV.
 
 #### (C) Informational materials
 
@@ -60,7 +60,7 @@
 
 #### (i) Federal education loans
 
-&emsp;&emsp;&emsp;For each education loan that is made, insured, or guaranteed under part B or C of subchapter IV (other than a loan made under section 1078–3 of this title or a Federal Direct Consolidation Loan), at or prior to the time the lender disburses such loan, the lender shall provide the prospective borrower or borrower, in writing (including through electronic means), with the disclosures described in subsections (a) and (c) of section 1083 of this title.
+&emsp;&emsp;&emsp;For each education loan that is made, insured, or guaranteed under part B or D of subchapter IV (other than a loan made under section 1078–3 of this title or a Federal Direct Consolidation Loan), at or prior to the time the lender disburses such loan, the lender shall provide the prospective borrower or borrower, in writing (including through electronic means), with the disclosures described in subsections (a) and (c) of section 1083 of this title.
 
 #### (ii) Private education loans
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is employed in the financial aid office of a covered institution; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise has responsibilities with respect to education loans orother financial aid of the institution; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise has responsibilities with respect to education loans or other financial aid of the institution; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any similar expenses paid or provided to any agent of an institution-affiliated organization who is involved in the practice of recommending, promoting, or endorsing education loans.
 
@@ -100,7 +100,7 @@
 
 &emsp;Not later than 18 months after August 14, 2008—
 
-&emsp;&emsp;(A) in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender's compliance with the requirements of this chapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;(A) in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender's compliance with the requirements of this chapter; and
 
 &emsp;&emsp;(B) if an audit of a lender is required pursuant to section 1078(b)(1)(U)(iii) of this title, the lender's compliance with the requirements under this section shall be reported on and attested to annually by the auditor of such lender.
 

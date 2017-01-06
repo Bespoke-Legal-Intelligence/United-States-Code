@@ -34,7 +34,7 @@
 
 The practices and procedures specifically enumerated in this subsection shall be deemed proper cellar treatment for natural wine:
 
-&emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juiceor must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
+&emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juice or must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
 
 &emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–653, §4, Oct. 13, 1964, 78 Stat. 1085, provided that: "The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\]."
+Pub. L. 88–653, §4, Oct. 13, 1964, 78 Stat. 1085, provided that: "The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second monthwhich begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\]."
 

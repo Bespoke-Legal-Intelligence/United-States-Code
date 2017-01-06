@@ -58,7 +58,7 @@ Following the issuance of a Commission rule under subsection (b)(2), any person 
 
 (3) The Electric Reliability Organization shall rebuttably presume that a proposal from a regional entity organized on an Interconnection-wide basis for a reliability standard or modification to a reliability standard to be applicable on an Interconnection-wide basis is just, reasonable, and not unduly discriminatory or preferential, and in the public interest.
 
-(4) The Commission shall remand to the Electric Reliability Organization for further consideration a proposed reliability standard or amodification to a reliability standard that the Commission disapproves in whole or in part.
+(4) The Commission shall remand to the Electric Reliability Organization for further consideration a proposed reliability standard or a modification to a reliability standard that the Commission disapproves in whole or in part.
 
 (5) The Commission, upon its own motion or upon complaint, may order the Electric Reliability Organization to submit to the Commission a proposed reliability standard or a modification to a reliability standard that addresses a specific matter if the Commission considers such a new or modified reliability standard appropriate to carry out this section.
 

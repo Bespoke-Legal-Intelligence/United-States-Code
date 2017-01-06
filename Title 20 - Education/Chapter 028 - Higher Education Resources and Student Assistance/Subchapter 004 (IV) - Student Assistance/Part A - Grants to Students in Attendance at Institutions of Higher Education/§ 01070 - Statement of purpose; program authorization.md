@@ -40,9 +40,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Higher Education Relief Opportunities for Students
 
-Pub. L. 108–76, §§1–5, Aug. 18, 2003, 117 Stat. 904, formerly set out in a note under this section, was transferred to part F–1 (§1098aa et seq.) of this subchapter. Pub. L. 108–76, §6, Aug. 18, 2003, 117 Stat. 908, as amended by Pub. L. 109–78, §1, Sept. 30, 2005, 119 Stat. 2043, formerly set out in the same note under this section, which provided for termination of Pub. L. 108–76 on Sept. 30, 2007, was repealed by Pub. L. 110–93, §2, Sept. 30, 2007, 121 Stat. 999.
+Pub. L. 108–76, §§1–5, Aug. 18, 2003, 117 Stat. 904, formerly set out in a note under this section, was transferred to part G–1 (§1098aa et seq.) of this subchapter. Pub. L. 108–76, §6, Aug. 18, 2003, 117 Stat. 908, as amended by Pub. L. 109–78, §1, Sept. 30, 2005, 119 Stat. 2043, formerly set out in the same note under this section, which provided for termination of Pub. L. 108–76 on Sept. 30, 2007, was repealed by Pub. L. 110–93, §2, Sept. 30, 2007, 121 Stat. 999.
 
-Pub. L. 107–122, Jan. 15, 2002, 115 Stat. 2386, known as the Higher Education Relief Opportunities for Students Act of 2001, authorized the Secretary of Education to waive or modify statutory or regulatory provisions applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) as deemed necessary because of a national emergency, provided sense of Congress as to tuition refunds from institutions of postsecondary education, and provided that the Act ceased to be effective Sept. 30, 2003.
+Pub. L. 107–122, Jan. 15, 2002, 115 Stat. 2386, known as the Higher Education Relief Opportunities for Students Act of 2001, authorized the Secretary of Education to waive or modify statutory or regulatory provisions applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) as deemed necessary because of a national emergency, provided sense of Congress as to tuition refunds from institutions of postsecondary education, and provided that the Act ceased to be effective Sept. 30, 2003.
 
 #### Community Scholarship Mobilization
 
@@ -54,7 +54,7 @@ Pub. L. 103–382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, which provide
 
 #### Study of Federal Benefit Coordination
 
-Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Olympic Scholarships
 
@@ -66,7 +66,7 @@ Scholarships Authorized.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Education is authorized to provide financial assistance to the United States Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 \[20 U.S.C. 1088(a)\]).
+In general.—The Secretary of Education is authorized to provide financial assistance to the UnitedStates Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 \[20 U.S.C. 1088(a)\]).
 
 &emsp;"(2)
 
@@ -106,7 +106,7 @@ Purpose.—It is the purpose of this section to ensure that—
 
 &emsp;"(1) the men and women serving on active duty in connection with Operation Desert Shield or Operation Desert Storm who are borrowers of Stafford Loans or Perkins Loans are not placed in a worse position financially in relation to those loans because of such service;
 
-&emsp;"(2) the administrative requirements placed on all borrowers of student loans made in accordance with title IV of the Act \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\] who are engaged in such military service are minimized to the extent possible without impairing the integrity of the student loan programs, in order to ease the burden on such borrowers, and to avoid inadvertent, technical defaults; and
+&emsp;"(2) the administrative requirements placed on all borrowers of student loans made in accordance with title IV of the Act \[20 U.S.C. 1070 et seq.\] who are engaged in such military service are minimized to the extent possible without impairing the integrity of the student loan programs, in order to ease the burden on such borrowers, and to avoid inadvertent, technical defaults; and
 
 &emsp;"(3) the future eligibility of such an individual for Pell Grants is not reduced by the amount of such assistance awarded for a period of instruction that such individual was unable to complete, or for which the individual did not receive academic credit, because he or she was called up for such service.
 
@@ -138,7 +138,7 @@ Definitions.—For purposes of this Act \[probably should be "section"\]—
 
 &emsp;&emsp;"(A) any Reserve of an Armed Force called to active duty under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], or 688 of title 10, United States Code, for service in connection with Operation Desert Shield or Operation Desert Storm, regardless of the location at which such active duty service is performed; and
 
-&emsp;&emsp;"(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any othermember of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
+&emsp;&emsp;"(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
 &emsp;"(2) The term 'active duty' has the meaning given such term in section 101(22) of title 10, United States Code, except that such term does not include active duty for training or attendance at a service school.
 

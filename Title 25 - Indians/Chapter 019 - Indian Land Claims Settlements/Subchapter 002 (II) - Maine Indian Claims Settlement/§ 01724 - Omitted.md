@@ -1,0 +1,6 @@
+### §1724. Omitted
+
+#### Codification
+
+Section, Pub. L. 96–420, §5, Oct. 10, 1980, 94 Stat. 1788, which related to the Maine Indian Claims Settlement and Land Acquisition Funds, was omitted from the Code as being of special and not general application.
+

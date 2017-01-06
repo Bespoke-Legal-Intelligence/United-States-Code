@@ -10,7 +10,7 @@ In this section, the term "legal representation" means legal counsel and investi
 
 #### (c) Use of funds
 
-Grants awarded under subsection (a) of this section—
+Grants awarded under subsection (a)—
 
 &emsp;(1) shall be used to establish, implement, or improve an effective system for providing competent legal representation to—
 
@@ -26,11 +26,11 @@ Grants awarded under subsection (a) of this section—
 
 #### (1) In general
 
-&emsp;Of the funds awarded under subsection (a) of this section—
+&emsp;Of the funds awarded under subsection (a)—
 
-&emsp;&emsp;(A) not less than 75 percent shall be used to carry out the purpose described in subsection (c)(1)(A) of this section; and
+&emsp;&emsp;(A) not less than 75 percent shall be used to carry out the purpose described in subsection (c)(1)(A); and
 
-&emsp;&emsp;(B) not more than 25 percent shall be used to carry out the purpose described in subsection (c)(1)(B) of this section.
+&emsp;&emsp;(B) not more than 25 percent shall be used to carry out the purpose described in subsection (c)(1)(B).
 
 #### (2) Waiver
 
@@ -38,7 +38,7 @@ Grants awarded under subsection (a) of this section—
 
 #### (e) Effective system
 
-As used in subsection (c)(1) of this section, an effective system for providing competent legal representation is a system that—
+As used in subsection (c)(1), an effective system for providing competent legal representation is a system that—
 
 &emsp;(1) invests the responsibility for appointing qualified attorneys to represent indigents in capital cases—
 
@@ -46,7 +46,7 @@ As used in subsection (c)(1) of this section, an effective system for providing 
 
 &emsp;&emsp;(B) in an entity established by statute or by the highest State court with jurisdiction in criminal cases, which is composed of individuals with demonstrated knowledge and expertise in capital cases, except for individuals currently employed as prosecutors; or
 
-&emsp;&emsp;(C) pursuant to a statutory procedure enacted before October 30, 2004, under whichthe trial judge is required to appoint qualified attorneys from a roster maintained by a State or regional selection committee or similar entity; and
+&emsp;&emsp;(C) pursuant to a statutory procedure enacted before October 30, 2004, under which the trial judge is required to appoint qualified attorneys from a roster maintained by a State or regional selection committee or similar entity; and
 
 &emsp;(2) requires the program described in paragraph (1)(A), the entity described in paragraph (1)(B), or an appropriate entity designated pursuant to the statutory procedure described in paragraph (1)(C), as applicable, to—
 

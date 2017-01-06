@@ -144,7 +144,7 @@ Subsec. (d)(4)(A). Pub. L. 109–280, §1244(b), amended subpar. (A) generally. 
 
 <b>1986</b>—Subsec. (g)(2). Pub. L. 99–514 inserted "(without regard to paragraph (3) thereof)" after "section 74(b)".
 
-<b>1984</b>—Subsec. (d)(4). Pub. L. 98–369, in amending par. (4) generally, divided existing provisions into subpars.\(A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
+<b>1984</b>—Subsec. (d)(4). Pub. L. 98–369, in amending par. (4) generally, divided existing provisions into subpars. (A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(F), substituted "taxable period" for "correction period".
 

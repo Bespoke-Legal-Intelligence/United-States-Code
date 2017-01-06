@@ -38,7 +38,7 @@ Sec. 2. <i>Establishing a minimum wage for Federal contractors and subcontractor
 
 (c) Nothing in this order shall excuse noncompliance with any applicable Federal or State prevailing wage law, or any applicable law or municipal ordinance establishing a minimum wage higher than the minimum wage established under this order.
 
-Sec. 3. <i>Application to tipped workers</i>. (a) For workers covered by section 2 of this order who are tipped employees pursuant to 29 U.S.C. 203(t), the hourly cashwage that must be paid by an employer to such workers shall be at least:
+Sec. 3. <i>Application to tipped workers</i>. (a) For workers covered by section 2 of this order who are tipped employees pursuant to 29 U.S.C. 203(t), the hourly cash wage that must be paid by an employer to such workers shall be at least:
 
 (i) $4.90 an hour, beginning on January 1, 2015;
 
@@ -154,7 +154,7 @@ Sec. 3. <i>Regulations and Implementation</i>. (a) The Secretary of Labor (Secre
 
 (c) Any regulations issued pursuant to this section should, to the extent practicable and consistent with section 7 of this order, incorporate existing definitions, procedures, remedies, and enforcement processes under the Fair Labor Standards Act \[of 1938\], 29 U.S.C. 201 <i>et seq</i>.; the Service Contract Act; the Davis-Bacon Act; the Family and Medical Leave Act \[of 1993\], 29 U.S.C. 2601 <i>et seq</i>.; the Violence Against Women Act of 1994, 42 U.S.C. 13925 <i>et seq</i>.; and Executive Order 13658 of February 12, 2014, Establishing a Minimum Wage for Contractors.
 
-Sec. 4. <i>Enforcement</i>. (a) The Secretary shall have the authority for investigating potential violations of andobtaining compliance with this order, including the prohibitions on interference and discrimination in section 2(k) of this order.
+Sec. 4. <i>Enforcement</i>. (a) The Secretary shall have the authority for investigating potential violations of and obtaining compliance with this order, including the prohibitions on interference and discrimination in section 2(k) of this order.
 
 (b) This order creates no rights under the Contract Disputes Act \[of 1978\], and disputes regarding whether a contractor has provided employees with paid sick leave prescribed by this order, to the extent permitted by law, shall be disposed of only as provided by the Secretary in regulations issued pursuant to this order.
 
@@ -194,7 +194,7 @@ Sec. 7. <i>Effective Date</i>. (a) This order is effective immediately and shall
 
 (ii) January 1, 2017, for contracts where an agency action is taken pursuant to section 3(b) of this order, consistent with the effective date for such action.
 
-(b) This order shall not apply to contracts or contract-like instruments that are awarded, or entered into pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
+(b) This order shall not apply to contracts or contract-like instruments that are awarded, or enteredinto pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

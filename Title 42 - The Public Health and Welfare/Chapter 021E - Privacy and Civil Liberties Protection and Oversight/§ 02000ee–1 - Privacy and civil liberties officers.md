@@ -56,7 +56,7 @@ No action constituting a reprisal, or threat of reprisal, for making a complaint
 
 #### (1) In general
 
-&emsp;The privacy officers and civil liberties officers of each department, agency, or elementreferred to or described in subsection (a) or (b) shall periodically, but not less than semiannually, submit a report on the activities of such officers—
+&emsp;The privacy officers and civil liberties officers of each department, agency, or element referred to or described in subsection (a) or (b) shall periodically, but not less than semiannually, submit a report on the activities of such officers—
 
 &emsp;&emsp;(A)(i) to the appropriate committees of Congress, including the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives;
 

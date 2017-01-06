@@ -1,6 +1,6 @@
 ### §3032. Service credit as deck officer or junior engineer for promotion purposes
 
-For purposes of promotion, there shall be counted in addition to active commissionedservice, service as deck officer or junior engineer.
+For purposes of promotion, there shall be counted in addition to active commissioned service, service as deck officer or junior engineer.
 
 (Pub. L. 107–372, title II, §232, Dec. 19, 2002, 116 Stat. 3088.)
 

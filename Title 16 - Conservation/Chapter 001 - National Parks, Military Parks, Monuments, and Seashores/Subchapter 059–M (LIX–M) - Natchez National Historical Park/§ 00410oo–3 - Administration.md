@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, the Secretary may accept and expend 
 
 #### (2) Establishment of districts
 
-&emsp;Following completion of the study under paragraph (1), but not later than one yearafter October 7, 1988, the Secretary shall establish historic districts in the city of Natchez and its immediate environs for the preservation and interpretation of the resources that contribute to the understanding of the purposes of this subchapter.
+&emsp;Following completion of the study under paragraph (1), but not later than one year after October 7, 1988, the Secretary shall establish historic districts in the city of Natchez and its immediate environs for the preservation and interpretation of the resources that contribute to the understanding of the purposes of this subchapter.
 
 #### (3) Cooperative agreements with owners
 

@@ -6,7 +6,7 @@ On or before February 1, 2013, and every 3 years thereafter,,<sup>1</sup> the Di
 
 &emsp;(1) the strategy of the national media campaign and whether specific objectives of the campaign were accomplished;
 
-&emsp;(2) steps taken to ensure that the national media campaign operates in an effective and efficient manner consistent with the overall strategy and focus of the campaign;
+&emsp;(2) steps taken to ensure that the national media campaign operates in an effective andefficient manner consistent with the overall strategy and focus of the campaign;
 
 &emsp;(3) plans to purchase advertising time and space;
 

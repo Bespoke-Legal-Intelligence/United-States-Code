@@ -12,7 +12,7 @@ Consideration of New School Openings and Consolidations.—In carrying out subse
 
 &emsp;(2) consolidations of schools; and
 
-&emsp;(3) the desirability of continuing the opportunity for participation in the Corps by participants whose continued participation would otherwise be adversely affected by new school openings and consolidations of schools.
+&emsp;(3) the desirability of continuing the opportunity for participation in the Corps by participants whose continued participation wouldotherwise be adversely affected by new school openings and consolidations of schools.
 
 (Added Pub. L. 105–85, div. A, title V, §546(a), Nov. 18, 1997, 111 Stat. 1746.)
 

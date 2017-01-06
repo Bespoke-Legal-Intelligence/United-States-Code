@@ -16,11 +16,11 @@ The Secretary, acting through the National Center for Injury Prevention and Cont
 
 &emsp;(6) education to increase awareness about drugs and alcohol used to facilitate rapes or sexual assaults; and
 
-&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault,including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
+&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault, including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
 
 #### (b) Collection and dissemination of information on sexual assault
 
-The Secretary shall, through the National Resource Center on Sexual Assault established under the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention, provide resource information, policy, training, and technical assistance to Federal, State, local, and Indian tribal agencies, as well as to State sexual assault coalitions and local sexual assault programs and to other professionals and interested parties on issues relating to sexual assault, including maintenance of a central resource library in order to collect, prepare, analyze, and disseminate information and statistics and analyses thereof relating to the incidence and prevention of sexual assault.
+The Secretary shall, through the National Resource Center on Sexual Assault established under the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention, provide resource information,policy, training, and technical assistance to Federal, State, local, and Indian tribal agencies, as well as to State sexual assault coalitions and local sexual assault programs and to other professionals and interested parties on issues relating to sexual assault, including maintenance of a central resource library in order to collect, prepare, analyze, and disseminate information and statistics and analyses thereof relating to the incidence and prevention of sexual assault.
 
 #### (c) Authorization of appropriations
 
@@ -30,7 +30,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### (2) National sexual violence resource center allotment
 
-&emsp;Of the total amount made available under this subsection in each fiscal year, not less than $1,500,000 shall be available for allotment under subsection (b) of this section.
+&emsp;Of the total amount made available under this subsection in each fiscal year, not less than $1,500,000 shall be available for allotment under subsection (b).
 
 #### (3) Baseline funding for States, the District of Columbia, and Puerto Rico
 
@@ -40,7 +40,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### (1) Supplement not supplant
 
-&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a) of this section.
+&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a).
 
 #### (2) Studies
 

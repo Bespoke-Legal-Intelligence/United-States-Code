@@ -160,7 +160,7 @@ In general.—To ensure compliance by a State with any agreement of the State un
 
 &emsp;&emsp;(B) conduct annual audits during each of the first 4 years of State participation; and
 
-&emsp;&emsp;(C) ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
+&emsp;&emsp;(C) ensure that the time period for completing an annual audit, from initiation tocompletion (including public comment and responses to those comments), does not exceed 180 days.
 
 &emsp;(2)
 

@@ -116,7 +116,7 @@ Findings.—Congress finds that—
 
 &emsp;"(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
 
-&emsp;"(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
+&emsp;"(7) it is in the public interest to complete the land exchange at the earliest practicable date so that theoffered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
 "(b)
 
@@ -168,7 +168,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 "(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land whichthe Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### "SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -302,7 +302,7 @@ In general.—Land acquired by the Secretary under this Act shall become part of
 
 Modification of boundaries.—
 
-&emsp;&emsp;&emsp;"(1) If any land acquired by the Secretary lies outside the exterior boundaries of the national forests identified in subparagraph (A), the boundaries of the appropriate national forest are hereby modified to include such land.
+&emsp;&emsp;&emsp;"(1) If any land acquired by the Secretary lies outside the exterior boundaries of the nationalforests identified in subparagraph (A), the boundaries of the appropriate national forest are hereby modified to include such land.
 
 &emsp;&emsp;&emsp;"(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the 'Weeks Act') \[16 U.S.C. 521\].
 
@@ -380,7 +380,7 @@ Access Limitation.—The Secretary shall not grant any road easements that would
 
 "(a)
 
-Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offeredlands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
+Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
 
 "(b)
 
@@ -392,7 +392,7 @@ Other Agreements.—Nothing in this Act shall be construed to prohibit the Secre
 
 #### "SEC. 608. TIETON RIVER STUDY.
 
-"The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase Plum Creek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
+"The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase PlumCreek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
 
 #### "SEC. 609. FUTURE LAND EXCHANGE OPPORTUNITY.
 

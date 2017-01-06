@@ -22,7 +22,7 @@ As used in this subpart:
 
 #### References in Text
 
-This subpart, referred to in text, was in the original "this part", meaning part 1 (§§301–308) of subtitle A of title III of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2100, which enacted this subpart and provisions set out as a note under section 2112 of this title, and amended provisions set out as a note under section 2112 of this title.
+This subpart, referred to in text, was in the original "this part", meaning part 1 (§§301–308) of subtitle A oftitle III of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2100, which enacted this subpart and provisions set out as a note under section 2112 of this title, and amended provisions set out as a note under section 2112 of this title.
 
 #### Effective Date
 

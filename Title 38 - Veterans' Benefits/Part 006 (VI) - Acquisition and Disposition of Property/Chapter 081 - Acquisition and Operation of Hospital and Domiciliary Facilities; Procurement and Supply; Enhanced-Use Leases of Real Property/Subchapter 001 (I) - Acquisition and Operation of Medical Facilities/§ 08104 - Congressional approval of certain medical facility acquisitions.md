@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
-&emsp;(7) In the case of a prospectus proposing funding for a major medical facility lease, adetailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act"). Any such analysis shall include—
+&emsp;(7) In the case of a prospectus proposing funding for a major medical facility lease, a detailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act"). Any such analysis shall include—
 
 &emsp;&emsp;(A) an analysis of the classification of the lease as a "lease-purchase", "capital lease", or "operating lease" as those terms are defined in Office of Management and Budget Circular A–11;
 
@@ -48,7 +48,13 @@
 
 &emsp;&emsp;(C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
 
-(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+
+(2) The Secretary shall—
+
+&emsp;(A) enter into a contract or agreement with an appropriate non-department Federal entity with the ability to conduct forensic audits on medical facility projects for the conduct of an external forensic audit of the expenditures relating to any major medical facility or super construction project for which the total expenditures exceed the amount requested in the initial budget request for the project submitted to Congress under section 1105 of title 31 by more than 25 percent; and
+
+&emsp;(B) enter into a contract or agreement with an appropriate non-department Federal entity with the ability to conduct forensic audits on medical facility projects for the conduct of an external audit of the medical center construction project in Aurora, Colorado.
 
 (d)(1) Except as provided in paragraph (2), in any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
 
@@ -58,9 +64,17 @@
 
 &emsp;(i) The major construction project that is the source of the bid savings.
 
-&emsp;(ii) The other major construction project for which the amounts are being obligated.
+&emsp;(ii) If the major construction project that is the source of the bid savings is not complete—
 
-&emsp;(iii) The amounts being obligated for such other major construction project.
+&emsp;&emsp;(I) the amount already obligated by the Department or available in the project reserve for such project;
+
+&emsp;&emsp;(II) the percentage of such project that has been completed; and
+
+&emsp;&emsp;(III) the amount available to the Department to complete such project.
+
+&emsp;(iii) The other major construction project for which the bid savings amounts are being obligated.
+
+&emsp;(iv) The bid savings amounts being obligated for such other major construction project.
 
 (C) The Secretary may not obligate an amount under subparagraph (A) to expand the purpose of a major construction project except pursuant to a provision of law enacted after the date on which the Secretary submits to the committees described in subparagraph (B) notice of the following:
 
@@ -96,9 +110,13 @@
 
 (3) Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004,118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–315, §801(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (d)(2)(B)(ii) to (iv). Pub. L. 114–315, §801(c), added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cls. (iii) and (iv) substituted "bid savings amounts" for "amounts".
 
 <b>2014</b>—Subsec. (b)(7). Pub. L. 113–146, §602(c)(1), added par. (7).
 
@@ -236,7 +254,7 @@ Requirement for Obligation of Full Cost.—
 
 &emsp;"(1)
 
-In general.—Subject to the availability of appropriations provided in advance, in exercising the authority of the Secretary of Veterans Affairs to enter into leases provided in this Act, the Secretary shall record, pursuant to section 1501 of title 31, United States Code, as the full cost of the contractual obligation at the time a contract is executed either—
+In general.—Subject to the availability of appropriations provided in advance, in exercising the authority of the Secretary of Veterans Affairs to enter into leases provided in this Act, the Secretary shall record, pursuant to section 1501 of title 31,United States Code, as the full cost of the contractual obligation at the time a contract is executed either—
 
 &emsp;&emsp;"(A) an amount equal to total payments under the full term of the lease; or
 

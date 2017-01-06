@@ -18,7 +18,7 @@ In conducting activities related to nanotechnology, the Secretary may—
 
 &emsp;(5) collect, synthesize, interpret, and disseminate scientific information and data related to the interactions of nanomaterials with biological systems;
 
-&emsp;(6) build scientific expertise on nanomaterials within the Food and Drug Administration, including field and laboratory expertise, for monitoring the production and presence of nanomaterials in domestic and imported products regulated under this Act;
+&emsp;(6) build scientific expertise on nanomaterials within the Food and Drug Administration, including field and laboratory expertise, for monitoring the production andpresence of nanomaterials in domestic and imported products regulated under this Act;
 
 &emsp;(7) ensure ongoing training, as well as dissemination of new information within the centers of the Food and Drug Administration, and more broadly across the Food and Drug Administration, to ensure timely, informed consideration of the most current science pertaining to nanomaterials;
 

@@ -32,7 +32,7 @@ The tribe or tribal organization shall agree that a student performing services 
 
 &emsp;&emsp;(A) shall be suspended for not more than 18 months if, at the request of the student, the tribe or organization determines that there are no employment opportunities available in any critical service area; and
 
-&emsp;&emsp;(B) shall be suspended if the student ceases to attend an institution of higher educationas a consequence of an institutional determination of unsatisfactory performance.
+&emsp;&emsp;(B) shall be suspended if the student ceases to attend an institution of higher education as a consequence of an institutional determination of unsatisfactory performance.
 
 > &emsp;If, at the end of a period of suspension under subparagraph (A), there are still no employment opportunities available in any critical service area, the student's obligations under the agreement shall terminate. A suspension under subparagraph (B) shall be reviewed by the tribe or organization annually, but may be continued indefinitely.
 

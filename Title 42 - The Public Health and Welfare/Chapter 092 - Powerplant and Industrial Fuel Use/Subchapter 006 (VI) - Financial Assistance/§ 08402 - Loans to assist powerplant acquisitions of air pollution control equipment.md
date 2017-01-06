@@ -32,7 +32,7 @@ In making loans or commitments to loan pursuant to this section, the Secretary s
 
 &emsp;(1) allocate a minimum of 25 percent of available financial assistance to existing small municipal and rural powerplants; and
 
-&emsp;(2) give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III of this chapter (or under section 792 of title 15).
+&emsp;(2) give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III (or under section 792 of title 15).
 
 #### (d) Definitions
 

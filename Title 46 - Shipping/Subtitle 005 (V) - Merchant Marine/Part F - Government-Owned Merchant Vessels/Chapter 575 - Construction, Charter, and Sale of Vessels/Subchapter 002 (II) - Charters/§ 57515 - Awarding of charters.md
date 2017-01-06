@@ -10,7 +10,7 @@ Highest Bid Rejected.—If the Secretary rejects the highest bid, the Secretary 
 
 &emsp;(1) award the charter to the next highest bidder; or
 
-&emsp;(2) reject all bids and either readvertise the line or operate the line until conditions appear more favorable to reoffer the line for private charter.
+&emsp;(2) reject all bids and either readvertise the line or operate the line until conditions appearmore favorable to reoffer the line for private charter.
 
 (c)
 
@@ -38,5 +38,5 @@ June 29, 1936, ch. 858, title VII, §§706(b) (1st sentence related to authority
 
 46 App.:1197.
 
-In subsection (a), the words "if the Secretary considers the charter hire offered too low" are substituted for"if, in the Secretary's discretion, the charter hire offered is deemed too low" to eliminate unnecessary words. The words "lacks the qualifications required by section 57514 of this title" are substituted for "lacks sufficient capital, credit, or experience to operate successfully the line" to avoid repeating the qualifications in more than one place.
+In subsection (a), the words "if the Secretary considers the charter hire offered too low" are substituted for "if, in the Secretary's discretion, the charter hire offered is deemed too low" to eliminate unnecessary words. The words "lacks the qualifications required by section 57514 of this title" are substituted for "lacks sufficient capital, credit, or experience to operate successfully the line" to avoid repeating the qualifications in more than one place.
 

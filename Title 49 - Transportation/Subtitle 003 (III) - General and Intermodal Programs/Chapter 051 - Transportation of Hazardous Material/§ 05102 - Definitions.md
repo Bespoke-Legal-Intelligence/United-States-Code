@@ -58,7 +58,7 @@ In this chapter—
 
 &emsp;(5) "imminent hazard" means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
 
-&emsp;(6) "Indian tribe" has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+&emsp;(6) "Indian tribe" has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).<sup>1</sup>
 
 &emsp;(7) "motor carrier"—
 
@@ -182,6 +182,10 @@ In clause (9), before subclause (A), the words "including any trustee, receiver,
 
 In clause (12), the words "by any mode" are omitted as surplus.
 
+#### References in Text
+
+Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in par. (6), is section 4 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2204, which was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
+
 #### Amendments
 
 <b>2008</b>—Par. (3). Pub. L. 110–244 amended Pub. L. 109–59, §7102(2). See 2005 Amendment notes below.
@@ -221,4 +225,6 @@ Pars. (11) to (14). Pub. L. 109–59, §7102(8), added par. (11) and redesignate
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

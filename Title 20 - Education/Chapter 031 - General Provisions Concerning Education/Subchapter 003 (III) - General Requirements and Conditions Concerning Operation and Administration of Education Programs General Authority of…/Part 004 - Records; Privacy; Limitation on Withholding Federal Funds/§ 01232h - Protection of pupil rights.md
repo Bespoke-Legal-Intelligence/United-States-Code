@@ -30,7 +30,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (1) Development and adoption of local policies
 
-&emsp;Except as provided in subsections (a) and (b) of this section, a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+&emsp;Except as provided in subsections (a) and (b), a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
 
 &emsp;&emsp;(A)(i) The right of a parent of a student to inspect, upon the request of the parent, a survey created by a third party before the survey is administered or distributed by a school to a student; and
 
@@ -200,7 +200,7 @@ The Secretary shall take such action as the Secretary determines appropriate to 
 
 #### (f) Office and review board
 
-The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, andadjudicate violations of the rights established under this section.
+The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
 
 (Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913; amended Pub. L. 107–110, title X, §1061, Jan. 8, 2002, 115 Stat. 2083; Pub. L. 114–95, title IX, §9215(mm)(5), Dec. 10, 2015, 129 Stat. 2176.)
 

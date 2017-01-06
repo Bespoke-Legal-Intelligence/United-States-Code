@@ -8,7 +8,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 &emsp;(c) a person born outside of the United States and its outlying possessions of parents both of whom are citizens of the United States and one of whom has had a residence in the United States or one of its outlying possessions, prior to the birth of such person;
 
-&emsp;(d) a person born outside of the United States and its outlying possessions of parents one of whom is a citizen of the United States who has been physically present in the United States or one of its outlying possessions for a continuous period of one year prior to the birth of such person, and the other of whom isa national, but not a citizen of the United States;
+&emsp;(d) a person born outside of the United States and its outlying possessions of parents one of whom is a citizen of the United States who has been physically present in the United States or one of its outlying possessions for a continuous period of one year prior to the birth of such person, and the other of whom is a national, but not a citizen of the United States;
 
 &emsp;(e) a person born in an outlying possession of the United States of parents one of whom is a citizen of the United States who has been physically present in the United States or one of its outlying possessions for a continuous period of one year at any time prior to the birth of such person;
 
@@ -54,7 +54,7 @@ Chapter effective 180 days after June 27, 1952, see section 407 of act June 27, 
 
 #### Waiver of Retention Requirements
 
-Pub. L. 103–416, title I, §101(b), Oct. 25, 1994, 108 Stat. 4306, provided that: "Any provision of law (including section 301(b) of the Immigration and Nationality Act \[8 U.S.C. 1401(b)\] (as in effect before October 10, 1978), and the provisos of section 201(g) of the Nationality Act of 1940 \[former 8 U.S.C. 601(g)\]) that provided for a person's loss of citizenship or nationality if the personfailed to come to, or reside or be physically present in, the United States shall not apply in the case of a person claiming United States citizenship based on such person's descent from an individual described in section 301(h) of the Immigration and Nationality Act (as added by subsection (a))."
+Pub. L. 103–416, title I, §101(b), Oct. 25, 1994, 108 Stat. 4306, provided that: "Any provision of law (including section 301(b) of the Immigration and Nationality Act \[8 U.S.C. 1401(b)\] (as in effect before October 10, 1978), and the provisos of section 201(g) of the Nationality Act of 1940 \[former 8 U.S.C. 601(g)\]) that provided for a person's loss of citizenship or nationality if the person failed to come to, or reside or be physically present in, the United States shall not apply in the case of a person claiming United States citizenship based on such person's descent from an individual described in section 301(h) of the Immigration and Nationality Act (as added by subsection (a))."
 
 #### Retroactive Application of 1994 Amendment
 

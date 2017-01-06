@@ -32,7 +32,7 @@ This section may be cited as the "Cyber Security Enhancement Act of 2002".
 
 &emsp;&emsp;&emsp;(vii) whether the violation was intended to or had the effect of significantly interfering with or disrupting a critical infrastructure; and
 
-&emsp;&emsp;&emsp;(viii) whether the violation was intended to or had the effect of creating a threat topublic health or safety, or injury to any person;
+&emsp;&emsp;&emsp;(viii) whether the violation was intended to or had the effect of creating a threat to public health or safety, or injury to any person;
 
 &emsp;&emsp;(C) assure reasonable consistency with other relevant directives and with other sentencing guidelines;
 

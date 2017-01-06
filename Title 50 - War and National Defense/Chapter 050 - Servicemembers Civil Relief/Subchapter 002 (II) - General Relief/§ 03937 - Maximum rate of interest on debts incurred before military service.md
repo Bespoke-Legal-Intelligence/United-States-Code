@@ -4,7 +4,7 @@
 
 #### (1) Limitation to 6 percent
 
-&emsp;An obligation or liability bearing interest at a rate in excess of 6 percent per year that is incurred by a servicemember, or theservicemember and the servicemember's spouse jointly, before the servicemember enters military service shall not bear interest at a rate in excess of 6 percent—
+&emsp;An obligation or liability bearing interest at a rate in excess of 6 percent per year that is incurred by a servicemember, or the servicemember and the servicemember's spouse jointly, before the servicemember enters military service shall not bear interest at a rate in excess of 6 percent—
 
 &emsp;&emsp;(A) during the period of military service and one year thereafter, in the case of an obligation or liability consisting of a mortgage, trust deed, or other security in the nature of a mortgage; or
 
@@ -22,7 +22,7 @@
 
 #### (1) Written notice to creditor
 
-&emsp;In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember's termination or release from military service.
+&emsp;In order for an obligation or liability of a servicemember to be subject to the interestrate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember's termination or release from military service.
 
 #### (2) Limitation effective as of date of order to active duty
 

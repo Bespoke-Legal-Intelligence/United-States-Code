@@ -10,7 +10,7 @@ Except as otherwise provided in this section, there is a partial withdrawal by a
 
 #### (b) Criteria applicable
 
-For purposes of subsection (a) of this section—
+For purposes of subsection (a)—
 
 &emsp;(1)(A) There is a 70-percent contribution decline for any plan year if during each plan year in the 3-year testing period the employer's contribution base units do not exceed 30 percent of the employer's contribution base units for the high base year.
 
@@ -32,9 +32,9 @@ For purposes of subsection (a) of this section—
 
 (1) In the case of a plan in which a majority of the covered employees are employed in the retail food industry, the plan may be amended to provide that this section shall be applied with respect to such plan—
 
-&emsp;(A) by substituting "35 percent" for "70 percent" in subsections (a) and (b) of this section, and
+&emsp;(A) by substituting "35 percent" for "70 percent" in subsections (a) and (b), and
 
-&emsp;(B) by substituting "65 percent" for "30 percent" in subsection (b) of this section.
+&emsp;(B) by substituting "65 percent" for "30 percent" in subsection (b).
 
 (2) Any amendment adopted under paragraph (1) shall provide rules for the equitable reduction of withdrawal liability in any case in which the number of the plan's contribution base units, in the 2 plan years following the plan year of withdrawal of the employer, is higher than such number immediately after the withdrawal.
 
@@ -134,7 +134,7 @@ Pub. L. 96–364, title I, §108(e), Sept. 26, 1980, 94 Stat. 1269, provided tha
 
 &emsp;"(A) actuarial assumptions shall be those used in the last actuarial report completed before December 13, 1979,
 
-&emsp;"(B) the term 'withdrawal date' means the date on which the employer ceased work at the facility of thetype for which contributions were previously required, and
+&emsp;"(B) the term 'withdrawal date' means the date on which the employer ceased work at the facility of the type for which contributions were previously required, and
 
 &emsp;"(C) the term 'facility' means the facility referred to in paragraph (1)."
 

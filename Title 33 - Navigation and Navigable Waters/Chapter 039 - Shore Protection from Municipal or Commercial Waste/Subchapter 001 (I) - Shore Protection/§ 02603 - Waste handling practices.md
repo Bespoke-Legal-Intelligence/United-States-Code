@@ -26,7 +26,7 @@ The Administrator, in consultation with the Secretary of Transportation, shall p
 
 &emsp;(2) requiring, as appropriate, the submission and adoption by each responsible party of an operation and maintenance manual identifying procedures to be used to prevent, report, and clean up any deposit of municipal or commercial waste into coastal waters, including record keeping requirements; and
 
-&emsp;(3) if the Administrator determines that tracking systems are required to assure adequate enforcement of laws preventing the deposit of municipal or commercial waste into coastal waters, requiring installation of the appropriate systems within 18 months after the Administrator makes that determination.
+&emsp;(3) if the Administrator determines that tracking systems are required to assure adequate enforcement of laws preventing the deposit of municipal or commercial waste into coastal waters, requiring installation of theappropriate systems within 18 months after the Administrator makes that determination.
 
 (Pub. L. 100–688, title IV, §4103, Nov. 18, 1988, 102 Stat. 4156.)
 

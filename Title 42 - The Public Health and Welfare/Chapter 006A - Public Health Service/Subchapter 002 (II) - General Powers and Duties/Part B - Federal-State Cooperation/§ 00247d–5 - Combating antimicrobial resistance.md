@@ -42,7 +42,7 @@
 
 #### (b) Research and development of new antimicrobial drugs and diagnostics
 
-The Secretary and the Director of Agricultural Research Services, consistent with the recommendations of the task force established under subsection (a) of this section, shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of research, investigations, experiments, demonstrations, and studies in the health sciences that are related to—
+The Secretary and the Director of Agricultural Research Services, consistent with the recommendations of the task force established under subsection (a), shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of research, investigations, experiments, demonstrations, and studies in the health sciences that are related to—
 
 &emsp;(1) the development of new therapeutics, including vaccines and antimicrobials, against resistant pathogens;
 
@@ -50,13 +50,13 @@ The Secretary and the Director of Agricultural Research Services, consistent wit
 
 &emsp;(3) the epidemiology, mechanisms, and pathogenesis of antimicrobial resistance;
 
-&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy; and
+&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a)), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy; and
 
 &emsp;(5) other relevant research areas.
 
 #### (c) Education of medical and public health personnel
 
-The Secretary, after consultation with the Assistant Secretary for Health, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, members of the task force described in subsection (a) of this section, professional organizations and societies, and such other public health officials as may be necessary, shall—
+The Secretary, after consultation with the Assistant Secretary for Health, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, members of the task force described in subsection (a), professional organizations and societies, and such other public health officials as may be necessary, shall—
 
 &emsp;(1) develop and implement educational programs to increase the awareness of the general public with respect to the public health threat of antimicrobial resistance and the appropriate use of antibiotics;
 
@@ -76,7 +76,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (3) Use of funds
 
-&emsp;An eligible entity receiving a grant under paragraph (1) shall use funds from such grant for activities that are consistent with the factors identified by the task force under subsection (a)(3) of this section, which may include activities that—
+&emsp;An eligible entity receiving a grant under paragraph (1) shall use funds from such grant for activities that are consistent with the factors identified by the task force under subsection (a)(3), which may include activities that—
 
 &emsp;&emsp;(A) provide training to enable such entity to identify patterns of resistance rapidly and accurately;
 
@@ -98,17 +98,73 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 &emsp;The Secretary shall provide appropriate technical assistance to eligible entities that receive grants under paragraph (1).
 
-#### (f) Supplement not supplant
+#### (f) Monitoring at Federal health care facilities
+
+The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs and the implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service and shall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
+
+#### (g) Report on antimicrobial resistance in humans and use of antimicrobial drugs
+
+Not later than 1 year after December 13, 2016, and annually thereafter, the Secretary shall prepare and make publicly available data and information concerning—
+
+&emsp;(1) aggregate national and regional trends of antimicrobial resistance in humans to antimicrobial drugs, including such drugs approved under section 356(h) of title 21;
+
+&emsp;(2) antimicrobial stewardship, which may include summaries of State efforts to address antimicrobial resistance in humans to antimicrobial drugs and antimicrobial stewardship; and
+
+&emsp;(3) coordination between the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs with respect to the monitoring of—
+
+&emsp;&emsp;(A) any applicable resistance under paragraph (1); and
+
+&emsp;&emsp;(B) drugs approved under section 356(h) of title 21.
+
+#### (h) Information related to antimicrobial stewardship programs
+
+The Secretary shall, as appropriate, disseminate guidance, educational materials, or other appropriate materials related to the development and implementation of evidence-based antimicrobial stewardship programs or practices at health care facilities, such as nursing homes and other long-term care facilities, ambulatory surgical centers, dialysis centers, outpatient clinics, and hospitals, including community and rural hospitals.
+
+#### (i) Supporting State-based activities to combat antimicrobial resistance
+
+The Secretary shall continue to work with State and local public health departments on statewide or regional programs related to antimicrobial resistance. Such efforts may include activities to related to—
+
+&emsp;(1) identifying patterns of bacterial and fungal resistance in humans to antimicrobial drugs;
+
+&emsp;(2) preventing the spread of bacterial and fungal infections that are resistant to antimicrobial drugs; and
+
+&emsp;(3) promoting antimicrobial stewardship.
+
+#### (j) Antimicrobial resistance and stewardship activities
+
+#### (1) In general
+
+&emsp;For the purposes of supporting stewardship activities, examining changes in antimicrobial resistance, and evaluating the effectiveness of section 356(h) of title 21, the Secretary shall—
+
+&emsp;&emsp;(A) provide a mechanism for facilities to report data related to their antimicrobial stewardship activities (including analyzing the outcomes of such activities); and
+
+&emsp;&emsp;(B) evaluate—
+
+&emsp;&emsp;&emsp;(i) antimicrobial resistance data using a standardized approach; and
+
+&emsp;&emsp;&emsp;(ii) trends in the utilization of drugs approved under such section 356(h) of title 21 with respect to patient populations.
+
+#### (2) Use of systems
+
+&emsp;The Secretary shall use available systems, including the National Healthcare Safety Network or other systems identified by the Secretary, to fulfill the requirements or conduct activities under this section.
+
+#### (k) Antimicrobial
+
+For purposes of subsections (f) through (j), the term "antimicrobial" includes any antibacterial or antifungal drugs, and may include drugs that eliminate or inhibit the growth of other microorganisms, as appropriate.
+
+#### (l) Supplement not supplant
 
 Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
 
-#### (g) Authorization of appropriations
+#### (m) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, $25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006.
 
-(July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §109, June 12, 2002, 116 Stat. 610.)
+(July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §109, June 12, 2002, 116 Stat. 610; Pub. L. 114–255, div. A, title III, §3041(a), Dec. 13, 2016, 130 Stat. 1111.)
 
 #### Amendments
+
+<b>2016</b>—Subsecs. (f) to (m). Pub. L. 114–255 added subsecs. (f) to (k) and redesignated former subsecs. (f) and (g) as (l) and (m), respectively.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–188, §109(1)(A), in introductory provisions, substituted "shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of" for "shall conduct and support".
 
@@ -117,6 +173,14 @@ Subsec. (b)(4). Pub. L. 107–188, §109(1)(B), amended par. (4) generally. Prio
 Subsec. (e)(2). Pub. L. 107–188, §109(2), inserted "schools or programs that train medical laboratory personnel," after "professional medical societies,".
 
 Subsec. (g). Pub. L. 107–188, §109(3), substituted "$25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006" for "and such sums as may be necessary for each subsequent fiscal year through 2006".
+
+#### Construction of 2016 Amendment
+
+Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of Title 21, Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of Title 21.
+
+#### Availability of Data
+
+Pub. L. 114–255, div. A, title III, §3041(b), Dec. 13, 2016, 130 Stat. 1112, provided that: "The Secretary shall make the data collected pursuant to this subsection \[probably refers to the amendments made to this section by section 3041(a) of Pub. L. 114–255\] public. Nothing in this subsection shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code."
 
 #### Ex. Ord. No. 13676. Combating Antibiotic-Resistant Bacteria
 
@@ -178,7 +242,7 @@ Sec. 4. <i>Presidential Advisory Council on Combating Antibiotic-Resistant Bacte
 
 (b) The Secretary shall designate a chairperson from among the members of the Advisory Council.
 
-(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments forbacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the President with all written reports created by the Advisory Council.
+(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments for bacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the President with all written reports created by the Advisory Council.
 
 (d) Task Force agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 

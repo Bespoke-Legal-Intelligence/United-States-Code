@@ -22,7 +22,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
-(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
+(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### Prior Provisions
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 95–410, §108(a), added subsec. (d).
 
 <b>1953</b>—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of each transfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
 
-<b>1938</b>—Act June 25, 1938, amended section generally, and among other changes, inserted "Wake Island, Midway Islands, Kingman Reef" before "or the island of Guam," and struck out "(or ten months in the case of grain)" wherever appearing.
+<b>1938</b>—Act June 25, 1938, amended section generally, and among other changes, inserted "Wake Island, Midway Islands, Kingman Reef" before "or the island ofGuam," and struck out "(or ten months in the case of grain)" wherever appearing.
 
 #### Effective Date of 2006 Amendment
 
@@ -98,7 +98,7 @@ Act Aug. 8, 1953, ch. 397, §21(b), 67 Stat. 520, provided that: "Notwithstandin
 
 #### Effective Date of 1938 Amendment
 
-Act June 25, 1938, ch. 679, §22(b), 52 Stat. 1088, provided that: "On and after the effective date of this Act \[see note set out under section 1401 of this title\], thissection \[amending this section\] shall be effective with respect to merchandise entered for warehouse prior to, as well as after, such date."
+Act June 25, 1938, ch. 679, §22(b), 52 Stat. 1088, provided that: "On and after the effective date of this Act \[see note set out under section 1401 of this title\], this section \[amending this section\] shall be effective with respect to merchandise entered for warehouse prior to, as well as after, such date."
 
 Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers."
 

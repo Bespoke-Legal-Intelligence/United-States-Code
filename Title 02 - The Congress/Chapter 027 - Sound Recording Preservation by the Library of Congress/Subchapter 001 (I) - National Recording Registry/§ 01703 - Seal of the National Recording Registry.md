@@ -38,7 +38,7 @@ The use of the seal provided under subsection (a) with respect to a sound record
 
 #### (1) Jurisdiction
 
-&emsp;The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d).
+&emsp;The several district courts of the United States shall have jurisdiction, for causeshown, to prevent and restrain violations of subsection (d).
 
 #### (2) Relief
 

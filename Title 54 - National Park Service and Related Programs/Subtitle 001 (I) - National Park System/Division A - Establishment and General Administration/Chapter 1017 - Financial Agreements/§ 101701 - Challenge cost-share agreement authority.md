@@ -14,7 +14,7 @@ Cooperator.—The term "cooperator" means any State or local government, public 
 
 (b)
 
-Authority To Enter Into Challenge Cost-Share Agreements.—The Secretary may negotiate and enter into challenge cost-share agreements with cooperators.
+Authority To Enter Into Challenge Cost-Share Agreements.—The Secretary maynegotiate and enter into challenge cost-share agreements with cooperators.
 
 (c)
 

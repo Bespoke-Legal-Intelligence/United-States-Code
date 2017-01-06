@@ -46,7 +46,7 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (h) The term "qualified provider of entrepreneurship courses" means any small business development center described in section 21 of the Small Business Act (15 U.S.C. 648), insofar as such center offers, sponsors, or cosponsors an entrepreneurship course, as that term is defined in section 3675(c)(2).
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov.2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §102, Oct. 9, 1996, 110 Stat. 3326; Pub. L. 106–419, title I, §122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §8(a)(4), June 5, 2001, 115 Stat. 34; Pub. L. 107–103, title I, §110(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 108–183, title III, §301(a), §305(c)–(e), Dec. 16, 2003, 117 Stat. 2658, 2660; Pub. L. 108–454, title I, §§106(a), 110(a), Dec. 10, 2004, 118 Stat. 3602, 3605; Pub. L. 109–163, div. A, title V, §515(e)(4), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 112–239, div. A, title XVI, §1699(c)(2), Jan. 2, 2013, 126 Stat. 2092.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §102, Oct. 9, 1996, 110 Stat. 3326; Pub. L. 106–419, title I, §122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §8(a)(4), June 5, 2001, 115 Stat. 34; Pub. L. 107–103, title I, §110(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 108–183, title III, §301(a), §305(c)–(e), Dec. 16, 2003, 117 Stat. 2658, 2660; Pub. L. 108–454, title I, §§106(a), 110(a), Dec. 10, 2004, 118 Stat. 3602, 3605; Pub. L. 109–163, div. A, title V, §515(e)(4), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 112–239, div. A, title XVI, §1699(c)(2), Jan. 2, 2013, 126 Stat. 2092.)
 
 #### Prior Provisions
 
@@ -82,7 +82,7 @@ Subsec. (a)(2). Pub. L. 107–14, §8(a)(4)(B), substituted "subparagraph (A) or
 
 Subsec. (a)(3). Pub. L. 107–14, §8(a)(4)(C), substituted "section 12103(d) of title 10" for "section 511(d) of title 10".
 
-Subsec. (c). Pub. L. 107–103 inserted at end "Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary)."
+Subsec. (c). Pub. L. 107–103 inserted at end "Such term also includes any private entity (that meets suchrequirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary)."
 
 Subsec. (e). Pub. L. 107–14, §8(a)(4)(D), substituted "the Act of August 16, 1937, popularly known as the 'National Apprenticeship Act' (29 U.S.C. 50 et seq.)," for "chapter 4C of title 29,".
 
@@ -156,7 +156,7 @@ Pub. L. 96–466, title VIII, §802(h), Oct. 17, 1980, 94 Stat. 2219, provided t
 
 #### Effective Date of 1976 Amendment
 
-Amendment by sections 202, 210(1), and 211(1) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by sections 202, 210(1), and 211(1) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub.L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
 Amendment by section 402 of Pub. L. 94–502 effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as an Effective Date note under section 3201 of this title.
 

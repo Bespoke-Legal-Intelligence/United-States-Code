@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary shall make grants to, and enter into contracts with, designated health professions schools described in subsection (c) of this section, and other public and nonprofit health or educational entities, for the purpose of assistingthe schools in supporting programs of excellence in health professions education for under-represented minority individuals.
+The Secretary shall make grants to, and enter into contracts with, designated health professions schools described in subsection (c), and other public and nonprofit health or educational entities, for the purpose of assisting the schools in supporting programs of excellence in health professions education for under-represented minority individuals.
 
 #### (b) Required use of funds
 
-The Secretary may not make a grant under subsection (a) of this section unless the designated health professions school involved agrees, subject to subsection (c)(1)(C) of this section, to expend the grant—
+The Secretary may not make a grant under subsection (a) unless the designated health professions school involved agrees, subject to subsection (c)(1)(C), to expend the grant—
 
 &emsp;(1) to develop a large competitive applicant pool through linkages with institutions of higher education, local school districts, and other community-based entities and establish an education pipeline for health professions careers;
 
@@ -32,7 +32,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (A) In general
 
-&emsp;&emsp;The designated health professions schools referred to in subsection (a) of this section are such schools that meet each of the conditions specified in subparagraphs (B) and (C), and that—
+&emsp;&emsp;The designated health professions schools referred to in subsection (a) are such schools that meet each of the conditions specified in subparagraphs (B) and (C), and that—
 
 &emsp;&emsp;&emsp;(i) meet each of the conditions specified in paragraph (2)(A);
 
@@ -56,7 +56,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (C) Consortium
 
-&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection (e)(1) of this section, the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) of this section at the schools of the consortium.
+&emsp;&emsp;The condition specified in this subparagraph is that, in accordance with subsection (e)(1), the designated health profession school involved has with other health profession schools (designated or otherwise) formed a consortium to carry out the purposes described in subsection (b) at the schools of the consortium.
 
 #### (D) Application of criteria to other programs
 
@@ -74,7 +74,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (B) Use of grant
 
-&emsp;&emsp;In addition to the purposes described in subsection (b) of this section, a grant under subsection (a) of this section to a designated health professions school meeting the conditions described in subparagraph (A) may be expended—
+&emsp;&emsp;In addition to the purposes described in subsection (b), a grant under subsection (a) to a designated health professions school meeting the conditions described in subparagraph (A) may be expended—
 
 &emsp;&emsp;&emsp;(i) to develop a plan to achieve institutional improvements, including financial independence, to enable the school to support programs of excellence in health professions education for under-represented minority individuals; and
 
@@ -90,11 +90,11 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;(A) with respect to Hispanic individuals, each of clauses (i) through (iv) of paragraph (1)(B) applies to the designated health professions school involved;
 
-&emsp;&emsp;(B) the school agrees, as a condition of receiving a grant under subsection (a) of this section, that the school will, in carrying out the duties described in subsection (b) of this section, give priority to carrying out the duties with respect to Hispanic individuals; and
+&emsp;&emsp;(B) the school agrees, as a condition of receiving a grant under subsection (a), that the school will, in carrying out the duties described in subsection (b), give priority to carrying out the duties with respect to Hispanic individuals; and
 
-&emsp;&emsp;(C) the school agrees, as a condition of receiving a grant under subsection (a) of this section, that—
+&emsp;&emsp;(C) the school agrees, as a condition of receiving a grant under subsection (a), that—
 
-&emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit community based Hispanic serving organizations, or public or nonprofit private institutions of higher education, including schools of nursing, whose enrollment of students has traditionally included a significant number of Hispanic individuals, the purposes of which will be to carry out a program—
+&emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit community based Hispanic serving organizations, or public or nonprofit private institutions of higher education, includingschools of nursing, whose enrollment of students has traditionally included a significant number of Hispanic individuals, the purposes of which will be to carry out a program—
 
 &emsp;&emsp;&emsp;&emsp;(I) to identify Hispanic students who are interested in a career in the health profession involved; and
 
@@ -104,13 +104,13 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (4) Native American centers of excellence
 
-&emsp;Subject to subsection (e) of this section, the conditions specified in this paragraph are that—
+&emsp;Subject to subsection (e), the conditions specified in this paragraph are that—
 
 &emsp;&emsp;(A) with respect to Native Americans, each of clauses (i) through (iv) of paragraph (1)(B) applies to the designated health professions school involved;
 
-&emsp;&emsp;(B) the school agrees, as a condition of receiving a grant under subsection (a) of this section, that the school will, in carrying out the duties described in subsection (b) of this section, give priority to carrying out the duties with respect to Native Americans; and
+&emsp;&emsp;(B) the school agrees, as a condition of receiving a grant under subsection (a), that the school will, in carrying out the duties described in subsection (b), give priority to carrying out the duties with respect to Native Americans; and
 
-&emsp;&emsp;(C) the school agrees, as a condition of receiving a grant under subsection (a) of this section, that—
+&emsp;&emsp;(C) the school agrees, as a condition of receiving a grant under subsection (a), that—
 
 &emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit private institutions of higher education, including schools of nursing, whose enrollment of students has traditionally included a significant number of Native Americans, the purpose of which arrangement will be to carry out a program—
 
@@ -132,27 +132,27 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (1) In general
 
-&emsp;Any designated health professions school receiving a grant under subsection (a) of this section and meeting the conditions described in paragraph (2) or (5) of subsection (c) of this section shall, for purposes of this section, be designated by the Secretary as a Center of Excellence in Under-Represented Minority Health Professions Education.
+&emsp;Any designated health professions school receiving a grant under subsection (a) and meeting the conditions described in paragraph (2) or (5) of subsection (c) shall, for purposes of this section, be designated by the Secretary as a Center of Excellence in Under-Represented Minority Health Professions Education.
 
 #### (2) Hispanic centers of excellence
 
-&emsp;Any designated health professions school receiving a grant under subsection (a) of this section and meeting the conditions described in subsection (c)(3) of this section shall, for purposes of this section, be designated by the Secretary as a Hispanic Center of Excellence in Health Professions Education.
+&emsp;Any designated health professions school receiving a grant under subsection (a) and meeting the conditions described in subsection (c)(3) shall, for purposes of this section, be designated by the Secretary as a Hispanic Center of Excellence in Health Professions Education.
 
 #### (3) Native American centers of excellence
 
-&emsp;Any designated health professions school receiving a grant under subsection (a) of this section and meeting the conditions described in subsection (c)(4) of this section shall, for purposes of this section, be designated by the Secretary as a Native American Center of Excellence in Health Professions Education. Any consortium receiving such a grant pursuant to subsection (e) of this section shall, for purposes of this section, be so designated.
+&emsp;Any designated health professions school receiving a grant under subsection (a) and meeting the conditions described in subsection (c)(4) shall, for purposes of this section, be designated by the Secretary as a Native American Center of Excellence in Health Professions Education. Any consortium receiving such a grant pursuant to subsection (e) shall, for purposes of this section, be so designated.
 
 #### (e) Authority regarding Native American centers of excellence
 
-With respect to meeting the conditions specified in subsection (c)(4) of this section, the Secretary may make a grant under subsection (a) of this section to a designated health professions school that does not meet such conditions if—
+With respect to meeting the conditions specified in subsection (c)(4), the Secretary may make a grant under subsection (a) to a designated health professions school that does not meet such conditions if—
 
-&emsp;(1) the school has formed a consortium in accordance with subsection (d)(1) of this section; and
+&emsp;(1) the school has formed a consortium in accordance with subsection (d)(1); and
 
 &emsp;(2) the schools of the consortium collectively meet such conditions, without regard to whether the schools individually meet such conditions.
 
 #### (f) Duration of grant
 
-The period during which payments are made under a grant under subsection (a) of this section may not exceed 5 years. Such payments shall be subject to annual approval by the Secretary and to the availability of appropriations for the fiscal year involved to make the payments.
+The period during which payments are made under a grant under subsection (a) may not exceed 5 years. Such payments shall be subject to annual approval by the Secretary and to the availability of appropriations for the fiscal year involved to make the payments.
 
 #### (g) Definitions
 
@@ -166,11 +166,11 @@ In this section:
 
 #### (B) Exception
 
-&emsp;&emsp;The definition established in subparagraph (A) shall not apply to the use of the term "designated health professions school" for purposes of subsection (c)(2) of this section.
+&emsp;&emsp;The definition established in subparagraph (A) shall not apply to the use of the term "designated health professions school" for purposes of subsection (c)(2).
 
 #### (2) Program of excellence
 
-&emsp;The term "program of excellence" means any program carried out by a designated health professions school with a grant made under subsection (a) of this section, if the program is for purposes for which the school involved is authorized in subsection (b) or (c) of this section to expend the grant.
+&emsp;The term "program of excellence" means any program carried out by a designatedhealth professions school with a grant made under subsection (a), if the program is for purposes for which the school involved is authorized in subsection (b) or (c) to expend the grant.
 
 #### (3) Native Americans
 

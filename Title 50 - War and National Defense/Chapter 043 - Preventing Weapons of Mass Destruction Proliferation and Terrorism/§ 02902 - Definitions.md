@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note); <sup>1</sup>
 
-&emsp;&emsp;(B) the programs for which appropriations are authorized by section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2729);
+&emsp;&emsp;(B) the programs for which appropriations are authorized by section 3101(a)(2) of theBob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2729);
 
 &emsp;&emsp;(C) programs authorized by section 5854 of title 22 and programs authorized by section 5902 of title 22; and
 

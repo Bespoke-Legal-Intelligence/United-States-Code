@@ -2,7 +2,7 @@
 
 (a) A master or other individual in charge of a documented vessel shall report to the Secretary a complaint of a sexual offense prohibited under chapter 109A of title 18, United States Code.
 
-(b) A master or other individual in charge of a documented vessel who knowingly fails to report in compliance with this section is liable tothe United States Government for a civil penalty of not more than $5,000.
+(b) A master or other individual in charge of a documented vessel who knowingly fails to report in compliance with this section is liable to the United States Government for a civil penalty of not more than $5,000.
 
 (Added Pub. L. 101–225, title II, §214(a)(2), Dec. 12, 1989, 103 Stat. 1914.)
 

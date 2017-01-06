@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
+Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cashcontributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
 
 (b)
 
@@ -50,7 +50,7 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
 
-&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscalyear under subsection (a) and the purposes for which the contributions were made; and
+&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
 
 &emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 
@@ -68,7 +68,7 @@ Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, d
 
 <b>2003</b>—Subsec. (e)(1). Pub. L. 108–136, §1043(b)(12)(A), substituted "congressional defense committees" for "congressional committees specified in subsection (g)" in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 108–136, §1031(a)(18), inserted before period at end "or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title".
+Subsec. (e)(2). Pub. L. 108–136, §1031(a)(18), inserted before period at end "or, if earlier, the end of the 14-dayperiod beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title".
 
 Subsec. (e)(3)(B). Pub. L. 108–136, §1043(b)(12)(A), substituted "congressional defense committees" for "congressional committees specified in subsection (g)" in introductory provisions.
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 103–337, §1070(a)(10)(B), struck out "the" before "Congr
 
 #### Temporary Authority for Acceptance and Use of Contributions for Certain Construction, Maintenance, and Repair Projects Mutually Beneficial to the Department of Defense and Kuwait Military Forces
 
-Pub. L. 114–92, div. B, title XXVIII, §2804, Nov. 25, 2015, 129 Stat. 1170, provided that:
+Pub. L. 114–92, div. B, title XXVIII, §2804, Nov. 25, 2015, 129 Stat. 1170, as amended by Pub. L. 114–328, div. B, title XXVIII, §2807, Dec. 23, 2016, 130 Stat. 2715, provided that:
 
 "(a)
 
@@ -134,5 +134,5 @@ Mutually Beneficial Defined.—A project described in subsection (a) shall be co
 
 "(f)
 
-Expiration of Project Authority.—The authority to carry out projects under this section expires on September 30, 2020. The expiration of the authority does not prevent the continuation of any project commenced before that date."
+Expiration of Project Authority.—The authority to carry out projects under this section expires on September 30, 2030. The expiration of the authority does not prevent the continuation of any project commenced before that date."
 

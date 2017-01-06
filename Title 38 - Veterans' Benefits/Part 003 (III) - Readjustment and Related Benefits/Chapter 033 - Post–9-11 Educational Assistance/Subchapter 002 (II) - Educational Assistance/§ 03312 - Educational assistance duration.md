@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to section 3695 and except as provided in subsections (b) and (c), an individual entitled to educational assistance under this chapter is entitled to a number of months of educational assistance under section 3313 equal to 36 months.
+In General.—Subject to section 3695 and except as provided in subsections (b) and (c), an individual entitled to educational assistance under this chapter is entitled to a number ofmonths of educational assistance under section 3313 equal to 36 months.
 
 (b)
 

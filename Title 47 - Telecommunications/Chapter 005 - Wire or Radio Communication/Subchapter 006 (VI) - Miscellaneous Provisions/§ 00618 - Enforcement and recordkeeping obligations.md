@@ -22,7 +22,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 &emsp;&emsp;The Commission shall investigate the allegations in an informal complaint and, within 180 days after the date on which such complaint was filed with the Commission, issue an order concluding the investigation, unless such complaint is resolved before such time. The order shall include a determination whether any violation occurred.
 
-&emsp;&emsp;&emsp;(i) If the Commission determines that a violation has occurred, the Commissionmay, in the order issued under this subparagraph or in a subsequent order, direct the manufacturer or service provider to bring the service, or in the case of a manufacturer, the next generation of the equipment or device, into compliance with requirements of those sections within a reasonable time established by the Commission in its order.
+&emsp;&emsp;&emsp;(i) If the Commission determines that a violation has occurred, the Commission may, in the order issued under this subparagraph or in a subsequent order, direct the manufacturer or service provider to bring the service, or in the case of a manufacturer, the next generation of the equipment or device, into compliance with requirements of those sections within a reasonable time established by the Commission in its order.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -44,7 +44,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 &emsp;&emsp;(ii) Descriptions of the accessibility features of its products and services.
 
-&emsp;&emsp;(iii) Information about the compatibility of such products and services with peripheral devices or specialized customer premise equipment commonly used by individuals with disabilities to achieve access.
+&emsp;&emsp;(iii) Information about the compatibility of such products and services with peripheral devices or specialized customer premiseequipment commonly used by individuals with disabilities to achieve access.
 
 &emsp;(B) An officer of a manufacturer or provider shall submit to the Commission an annual certification that records are being kept in accordance with subparagraph (A).
 
@@ -92,7 +92,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 &emsp;The Comptroller General shall conduct a study to consider and evaluate the following:
 
-&emsp;&emsp;(A) The Commission's compliance with the requirements of this section, including the Commission's level of compliance with thedeadlines established under and pursuant to this section and deadlines for acting on complaints pursuant to subsection (a).
+&emsp;&emsp;(A) The Commission's compliance with the requirements of this section, including the Commission's level of compliance with the deadlines established under and pursuant to this section and deadlines for acting on complaints pursuant to subsection (a).
 
 &emsp;&emsp;(B) Whether the enforcement actions taken by the Commission pursuant to this section have been appropriate and effective in ensuring compliance with this section.
 
@@ -110,7 +110,7 @@ Within one year after October 8, 2010, the Commission shall, in consultation wit
 
 #### (e) Outreach and education
 
-Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the public about the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
+Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the publicabout the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
 
 (June 19, 1934, ch. 652, title VII, §717, as added Pub. L. 111–260, title I, §104(a), Oct. 8, 2010, 124 Stat. 2758; amended Pub. L. 111–265, §2(3), Oct. 8, 2010, 124 Stat. 2795.)
 

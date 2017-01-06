@@ -6,7 +6,7 @@ The President, in coordination with the Interagency Committee on Ocean and Coast
 
 #### (b) Membership
 
-The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department ofthe Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
+The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
 
 #### (c) Program parameters
 
@@ -22,7 +22,7 @@ In developing such a program, the President, through the Committee, shall—
 
 &emsp;(5) provide for the archiving, management, and distribution of data sets through a national registry as well as provide mapping products and services to the general public in service of statutory requirements;
 
-&emsp;(6) develop data standards and protocols consistent with standards developed by the Federal Geographic Data Committee for use by Federal, coastal state, and other entities in mapping and otherwise documenting locations of federally permitted activities, living and nonliving coastal and marine resources, marine ecosystems, sensitive habitats, submerged cultural resources, undersea cables, offshore aquaculture projects, offshore energy projects, and any areas designated for purposes of environmental protection or conservation and management of living and nonliving coastal and marine resources;
+&emsp;(6) develop data standards and protocols consistent with standards developed by the Federal Geographic Data Committee for use by Federal, coastal state, and other entities in mapping and otherwise documenting locationsof federally permitted activities, living and nonliving coastal and marine resources, marine ecosystems, sensitive habitats, submerged cultural resources, undersea cables, offshore aquaculture projects, offshore energy projects, and any areas designated for purposes of environmental protection or conservation and management of living and nonliving coastal and marine resources;
 
 &emsp;(7) identify the procedures to be used for coordinating the collection and integration of Federal ocean and coastal mapping data with coastal state and local government programs;
 

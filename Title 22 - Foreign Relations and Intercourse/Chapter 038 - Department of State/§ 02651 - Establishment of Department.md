@@ -8,15 +8,19 @@ There shall be at the seat of government an executive department to be known as 
 
 R.S. §199 derived from acts July 27, 1789, ch. 4, §1, 1 Stat. 28; Sept. 15, 1789, ch. 14, §1, 1 Stat. 68.
 
-Section was formerly classified to section 151 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 151 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Effective Date of 1987 Amendment
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: "Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\]."
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–323, §1(a), Dec. 16, 2016, 130 Stat. 1905, provided that: "This Act \[see Tables for classification\] may be cited as the 'Department of State Authorities Act, Fiscal Year 2017'."
+
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–283, §1, Jan. 15, 2013, 126 Stat. 2492, provided that: "This Act \[amending section 2708 of thistitle and enacting provisions set out as notes under section 2708 of this title\] may be cited as the 'Department of State Rewards Program Update and Technical Corrections Act of 2012'."
+Pub. L. 112–283, §1, Jan. 15, 2013, 126 Stat. 2492, provided that: "This Act \[amending section 2708 of this title and enacting provisions set out as notes under section 2708 of this title\] may be cited as the 'Department of State Rewards Program Update and Technical Corrections Act of 2012'."
 
 #### Short Title of 2004 Amendment
 
@@ -54,11 +58,11 @@ Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: "This A
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: "This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, section 208 of Title 3, The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, and sections 1622 and 4336 of Title 50, War and National Defense, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, section 1182 of Title 8, Aliens and Nationality, section 3181 of Title 18, Crimes and Criminal Procedure, section 701 of Title 47, Telecommunications, and section 1701 of Title 50, amending provisions set out as notes under this section and sections 287 and 287e of this title, and repealing provisions set out as a note under section 3901 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1986 and 1987'."
+Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: "This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, section 208 of Title 3, The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, and sections 1622 and 4336 of Title 50, War and National Defense, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875,2877, 3943, 3945, 4021, and 4314 of this title, section 1182 of Title 8, Aliens and Nationality, section 3181 of Title 18, Crimes and Criminal Procedure, section 701 of Title 47, Telecommunications, and section 1701 of Title 50, amending provisions set out as notes under this section and sections 287 and 287e of this title, and repealing provisions set out as a note under section 3901 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1986 and 1987'."
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: "That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out asnotes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Year 1977'."
+Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: "That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Year 1977'."
 
 #### Short Title of 1975 Amendment
 
@@ -112,13 +116,43 @@ Pub. L. 96–241, §2, May 3, 1980, 94 Stat. 343, provided that:
 
 "(a) Any person aggrieved by an action of the Secretary of State may bring a civil action in an appropriate United States district court to contest the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States district courts shall have exclusive jurisdiction, without regard to the sum or value of the matter in controversy, to determine the validity of such appointment and continuance in office.
 
-"(b) Any action brought under this section shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. Any review of the action of a court convened pursuant to such section shall be by petition of certiorari to the Supreme Court.
+"(b) Any action brought under this section shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United StatesCode. Any review of the action of a court convened pursuant to such section shall be by petition of certiorari to the Supreme Court.
 
 "(c) Any judge designated to hear any action brought under this section shall cause such action to be in every way expedited.
 
 "(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act \[May 3, 1980\]."
 
 #### Definitions
+
+Pub. L. 114–323, §2, Dec. 16, 2016, 130 Stat. 1907, provided that: "In this Act \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+Department.—Unless otherwise specified, the term 'Department' means the Department of State.
+
+&emsp;"(3)
+
+Foreign service.—The term 'Foreign Service' has the meaning given such term in section 102 of the Foreign Service Act of 1980 (22 U.S.C. 3902).
+
+&emsp;"(4)
+
+Inspector general.—Unless otherwise specified, the term 'Inspector General' means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors.
+
+&emsp;"(5)
+
+Peacekeeping credits.—The term 'peacekeeping credits' means the amounts by which United States assessed peacekeeping contributions exceed actual expenditures, apportioned to the United States, of peacekeeping operations by the United Nations during a United Nations peacekeeping fiscal year.
+
+&emsp;"(6)
+
+Secretary.—Unless otherwise specified, the term 'Secretary' means the Secretary of State."
 
 Pub. L. 107–228, §3, Sept. 30, 2002, 116 Stat. 1355, provided that: "In this Act \[see Tables for classification\]:
 

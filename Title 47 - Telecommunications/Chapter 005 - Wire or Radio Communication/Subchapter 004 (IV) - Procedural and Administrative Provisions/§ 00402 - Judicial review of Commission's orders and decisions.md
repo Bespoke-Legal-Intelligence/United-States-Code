@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 <b>2010</b>—Subsec. (b)(10). Pub. L. 111–260 added par. (10).
 
-<b>1996</b>—Par. (6). Pub. L. 104–104, §151(b)(1), inserted reference to par. (9).
+<b>1996</b>—Subsec. (b)(6). Pub. L. 104–104, §151(b)(1), inserted reference to par. (9).
 
 Subsec. (b)(9). Pub. L. 104–104, §151(b)(2), added par. (9).
 

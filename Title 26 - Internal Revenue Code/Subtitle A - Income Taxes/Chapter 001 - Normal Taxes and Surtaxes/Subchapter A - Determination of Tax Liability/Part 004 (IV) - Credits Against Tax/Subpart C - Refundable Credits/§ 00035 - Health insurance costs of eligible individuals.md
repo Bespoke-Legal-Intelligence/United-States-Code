@@ -64,11 +64,11 @@ For purposes of this section—
 
 &emsp;The term "eligible alternative TAA recipient" means, with respect to any month, any individual who—
 
-&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who isparticipating in the program established under section 246(a)(1) of such Act, and
+&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and
 
 &emsp;&emsp;(B) is receiving a benefit for such month under section 246(a)(2) of such Act.
 
-> &emsp;An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual would otherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence.
+> &emsp;An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual wouldotherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence.
 
 #### (4) Eligible PBGC pension recipient
 
@@ -252,7 +252,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (A) Payments by Secretary
 
-&emsp;&emsp;Payments made by the Secretary on behalf of any individual under section 7527 (relatingto advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
+&emsp;&emsp;Payments made by the Secretary on behalf of any individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
 
 #### (B) Payments by taxpayer
 
@@ -310,7 +310,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of the credits allowed under this section (determined without regard to paragraph (1)) and section 36B (determined without regard to subsection (f)(1) thereof) for such taxable year; and
 
-&emsp;&emsp;&emsp;(ii) section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and islater allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
+&emsp;&emsp;&emsp;(ii) section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
 
 #### (13) Regulations
 
@@ -458,7 +458,7 @@ Pub. L. 111–5, div. B, title I, §1899A(b), Feb. 17, 2009, 123 Stat. 424, prov
 
 Pub. L. 111–5, div. B, title I, §1899C(b), Feb. 17, 2009, 123 Stat. 425, provided that: "The amendment made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
-Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, provided that: "The amendments made bythis section \[amending this section and former section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2009."
+Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, provided that: "The amendments made by this section \[amending this section and former section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2009."
 
 Pub. L. 111–5, div. B, title I, §1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: "The amendments made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\]."
 

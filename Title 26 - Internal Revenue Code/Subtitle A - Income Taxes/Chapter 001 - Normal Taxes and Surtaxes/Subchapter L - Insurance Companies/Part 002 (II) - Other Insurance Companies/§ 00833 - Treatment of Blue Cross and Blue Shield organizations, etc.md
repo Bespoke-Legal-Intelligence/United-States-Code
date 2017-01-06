@@ -110,7 +110,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;&emsp;(ii) at least 10 percent of the health insurance provided by such organization is provided to individuals and small groups (not taking into account any medicare supplemental coverage),
 
-&emsp;&emsp;&emsp;(iii) such organization provides continuous full-year open enrollment (includingconversions) for individuals and small groups,
+&emsp;&emsp;&emsp;(iii) such organization provides continuous full-year open enrollment (including conversions) for individuals and small groups,
 
 &emsp;&emsp;&emsp;(iv) such organization's policies covering individuals provide full coverage of pre-existing conditions of high-risk individuals without a price differential (with a reasonable waiting period), and coverage is provided without regard to age, income, or employment status of individuals under age 65,
 

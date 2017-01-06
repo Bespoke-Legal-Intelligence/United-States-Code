@@ -13,6 +13,7 @@
 | [7307\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md) | Office of Research Oversight. |
 | [7308\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md) | Office of Rural Health. |
 | [7309\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007309%20-%20Readjustment%20Counseling%20Service.md) | Readjustment Counseling Service. |
+| [7309A.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007309A%20-%20Office%20of%20Patient%20Advocacy.md) | Office of Patient Advocacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,6 +44,7 @@
 | [7329\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007329%20-%20Parkinson%27s%20Disease%20research%2C%20education%2C%20and%20clinical%20centers.md) | Parkinson's Disease research, education, and clinical centers. |
 | [7330\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330%20-%20Multiple%20sclerosis%20centers%20of%20excellence.md) | Multiple sclerosis centers of excellence. |
 | [7330A.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330A%20-%20Epilepsy%20centers%20of%20excellence.md) | Epilepsy centers of excellence. |
+| [7330B.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330B%20-%20Annual%20report%20on%20Veterans%20Health%20Administration%20and%20furnishing%20of%20hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care.md) | Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,6 +75,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–315, title VI, §612(b), Dec. 16, 2016, 130 Stat. 1576, added item 7330B.
+
+Pub. L. 114–198, title IX, §924(b), July 22, 2016, 130 Stat. 769, added item 7309A.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title VII, §728(b), Jan. 2, 2013, 126 Stat. 1813, added item 7309.
 
@@ -110,11 +116,11 @@ Pub. L. 107–135, title I, §125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added it
 
 Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted "Under Secretary for Health" for "Chief Medical Director" in item 7306.
 
-<b>1991</b>—Pub. L. 102–40, title IV, §401(a)(1), (3), May 7, 1991, 105 Stat. 210, substituted "VETERANS HEALTHADMINISTRATION—ORGANIZATION AND FUNCTIONS" for "DEPARTMENT OF MEDICINE AND SURGERY" as chapter heading, added analysis for subchapters I to IV, and struck out former analysis consisting of subchapter I containing items 4101 to 4119 and 4210, subchapter II containing items 4121 to 4124, subchapter III containing items 4131 to 4134, subchapter IV containing items 4141 and 4142, subchapter V containing items 4151 and 4152, and subchapter VI containing items 4161 to 4168.
+<b>1991</b>—Pub. L. 102–40, title IV, §401(a)(1), (3), May 7, 1991, 105 Stat. 210, substituted "VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS" for "DEPARTMENT OF MEDICINE AND SURGERY" as chapter heading, added analysis for subchapters I to IV, and struck out former analysis consisting of subchapter I containing items 4101 to 4119 and 4210, subchapter II containing items 4121 to 4124, subchapter III containing items 4131 to 4134, subchapter IV containing items 4141 and 4142, subchapter V containing items 4151 and 4152, and subchapter VI containing items 4161 to 4168.
 
 <b>1990</b>—Pub. L. 101–366, title I, §102(d), Aug. 15, 1990, 104 Stat. 436, added heading for subchapter IV and items 4141 and 4142.
 
-<b>1988</b>—Pub. L. 100–322, title I, §122(b), title II, §§204(b), 212(a)(2), 216(e)(1), May 20, 1988, 102 Stat. 504, 512, 516, 530, added item 4210 \[4120\] after item 4119, substituted "Nondiscrimination against alcohol and drug abusers and persons infected with human immunodeficiency virus" for "Nondiscrimination in the admission of alcohol and drug abusers to Veterans' Administration health care facilities" in item 4133, substituted "Regulations" for "Coordination; reports" in item 4134, struck out heading for Subchapter IV, "VETERANS' ADMINISTRATION HEALTH PROFESSIONAL SCHOLARSHIP PROGRAM" and items 4141 "Establishment of program; purpose; duration", 4142 "Eligibility; application; written contract", 4143 "Obligated service", 4144 "Breach of contract; liability; waiver", 4145 "Exemption of scholarship payments from taxation", and 4146 "Program subject to availability of appropriations", and added heading for subchapter VI and items 4161 to 4168.
+<b>1988</b>—Pub. L. 100–322, title I, §122(b), title II, §§204(b), 212(a)(2), 216(e)(1), May 20, 1988, 102 Stat. 504, 512, 516,530, added item 4210 \[4120\] after item 4119, substituted "Nondiscrimination against alcohol and drug abusers and persons infected with human immunodeficiency virus" for "Nondiscrimination in the admission of alcohol and drug abusers to Veterans' Administration health care facilities" in item 4133, substituted "Regulations" for "Coordination; reports" in item 4134, struck out heading for Subchapter IV, "VETERANS' ADMINISTRATION HEALTH PROFESSIONAL SCHOLARSHIP PROGRAM" and items 4141 "Establishment of program; purpose; duration", 4142 "Eligibility; application; written contract", 4143 "Obligated service", 4144 "Breach of contract; liability; waiver", 4145 "Exemption of scholarship payments from taxation", and 4146 "Program subject to availability of appropriations", and added heading for subchapter VI and items 4161 to 4168.
 
 <b>1986</b>—Pub. L. 99–576, title VII, §702(12), Oct. 28, 1986, 100 Stat. 3302, substituted "appointments" for "appointment" in item 4106.
 

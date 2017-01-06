@@ -102,7 +102,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Rocket Propulsion System Development Program
 
-Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, §1606(a), Nov. 25, 2015, 129 Stat. 1099, provided that:
+Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, titleXVI, §1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, §1603, Dec. 23, 2016, 130 Stat. 2582, provided that:
 
 "(a)
 
@@ -146,9 +146,61 @@ Streamlined Acquisition.—In developing the rocket propulsion system required u
 
 "(d)
 
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
+Use of Funds Under Development Program.—
 
-&emsp;"(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+&emsp;"(1)
 
-&emsp;"(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate."
+Development of rocket propulsion system.—The funds described in paragraph (2)—
+
+&emsp;&emsp;"(A) may be obligated or expended for—
+
+&emsp;&emsp;&emsp;"(i) the development of the rocket propulsion system to replace non-allied space launch engines pursuant to subsection (a); and
+
+&emsp;&emsp;&emsp;"(ii) the necessary interfaces to, or integration of, the rocket propulsion system with an existing or new launch vehicle; and
+
+&emsp;&emsp;"(B) except as provided by paragraph (3), may not be obligated or expended to develop or procure a launch vehicle, an upper stage, a strap-on motor, or related infrastructure.
+
+&emsp;"(2)
+
+Funds described.—The funds described in this paragraph are the following:
+
+&emsp;&emsp;"(A) Funds authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328, see Tables for classification\] or otherwise made available for fiscal year 2017 for the Department of Defense for the development of the rocket propulsion system under subsection (a).
+
+&emsp;&emsp;"(B) Funds authorized to be appropriated by this Act \[see Tables for classification\] or the National Defense Authorization Act for Fiscal Year 2016 \[Pub. L. 114–92, see Tables for classification\] or otherwise made available for fiscal years 2015 or 2016 for the Department of Defense for the development of the rocket propulsion system under subsection (a) that are unobligated as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 \[Dec. 23, 2016\].
+
+&emsp;"(3)
+
+Other purposes.—The Secretary may obligate or expend not more than a total of the amount calculated under paragraph (4) of the funds that are authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 or otherwise made available for fiscal year 2017 for the rocket propulsion system and launch system investment for activities not authorized by paragraph (1)(A), including for developing a launch vehicle, an upper stage, a strap-on motor, or related infrastructure. The Secretary may exceed such limit calculated under paragraph (4) in fiscal year 2017 for such purposes if—
+
+&emsp;&emsp;"(A) the Secretary certifies to the appropriate congressional committees that, as of the date of the certification—
+
+&emsp;&emsp;&emsp;"(i) the development of the rocket propulsion system is being carried out pursuant to paragraph (1)(A) in a manner that ensures that the rocket propulsion system will meet each requirement under subsection (a)(2); and
+
+&emsp;&emsp;&emsp;"(ii) such obligation or expenditure will not negatively affect the development of the rocket propulsion system, including with respect to meeting such requirements; and
+
+&emsp;&emsp;"(B) the reprogramming or transfer is carried out in accordance with established procedures for reprogramming or transfers, including with respect to presenting a request for a reprogramming of funds.
+
+&emsp;"(4)
+
+Calculation of amounts for other purposes.—In carrying out paragraph (3), the Secretary shall calculate the amount of the funds specified in such paragraph as follows:
+
+&emsp;&emsp;"(A) If the total amount of funds that are authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 or otherwise made available for fiscal year 2017 for the rocket propulsion system and launch system investment is equal to or less than $320,000,000, such amount shall equal 31 percent.
+
+&emsp;&emsp;"(B) If the total amount of funds that are authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 or otherwise made available for fiscal year 2017 for the rocket propulsion system and launch system investment is greater than $320,000,000, such amount shall equal the difference of—
+
+&emsp;&emsp;&emsp;"(i) the amount of funds so authorized to be appropriated, minus
+
+&emsp;&emsp;&emsp;"(ii) $220,000,000.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+&emsp;"(2) The term 'rocket propulsion system' means, with respect to the development authorized by subsection (a), a main booster, first-stage rocket engine or motor. The term does not include a launch vehicle, an upper stage, a strap-on motor, or related infrastructure."
 

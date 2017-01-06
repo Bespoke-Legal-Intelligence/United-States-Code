@@ -22,7 +22,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (A) Medicare+Choice program
 
-&emsp;&emsp;Specifically, the Commission shall review, with respect to the Medicare+Choice program under part C of this subchapter, the following:
+&emsp;&emsp;Specifically, the Commission shall review, with respect to the Medicare+Choice program under part C, the following:
 
 &emsp;&emsp;&emsp;(i) The methodology for making payment to plans under such program, including the making of differential payments and the distribution of differential updates among different payment areas.
 
@@ -38,7 +38,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Original medicare fee-for-service system
 
-&emsp;&emsp;Specifically, the Commission shall review payment policies under parts A and B of this subchapter, including—
+&emsp;&emsp;Specifically, the Commission shall review payment policies under parts A and B, including—
 
 &emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of services in different sectors, including the process for updating hospital, skilled nursing facility, physician, and other fees,
 
@@ -56,7 +56,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (4) Review and comment on the Independent Payment Advisory Board or Secretarial proposal
 
-&emsp;If the Independent Payment Advisory Board (as established under subsection (a) of section 1395kkk of this title) or the Secretary submits a proposal to the Commission under such section in a year, the Commission shall review the proposal and, not later than March 1 of that year, submit to the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate written comments on such proposal. Such comments may include such recommendations as the Commission deems appropriate.
+&emsp;If the Independent Payment Advisory Board (as established under subsection (a) of section1395kkk of this title) or the Secretary submits a proposal to the Commission under such section in a year, the Commission shall review the proposal and, not later than March 1 of that year, submit to the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate written comments on such proposal. Such comments may include such recommendations as the Commission deems appropriate.
 
 #### (5) Agenda and additional reviews
 
@@ -112,7 +112,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members ofthe Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
 
 #### (3) Terms
 
@@ -122,7 +122,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serveafter the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (4) Compensation
 
@@ -184,7 +184,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (2) Authorization
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent ofsuch appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), title X, §10320(b), Mar. 23, 2010, 124 Stat. 332, 507, 952.)
 
@@ -264,7 +264,7 @@ Transition.—As quickly as possible after the date a majority of members of Med
 
 "(3)
 
-Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC."
+Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation andsubmission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC."
 
 #### Appointment of Experts in Prescription Drugs
 
@@ -272,7 +272,7 @@ Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provide
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
-Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The Medicare Payment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
 
 &emsp;"(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
 

@@ -118,7 +118,7 @@ In general.—Under the demonstration project, the Secretary—
 
 &emsp;&emsp;"(A) shall refer to the Office of Special Counsel all claims described in paragraph (2) made during the period of the demonstration project; and
 
-&emsp;&emsp;"(B) may refer any claim described in paragraph (2) filed before the demonstration project that is pending before the Secretary at the beginning of the demonstration project.
+&emsp;&emsp;"(B) may refer any claim described in paragraph (2) filed before the demonstration project that ispending before the Secretary at the beginning of the demonstration project.
 
 &emsp;"(2)
 
@@ -186,7 +186,7 @@ Government Accountability Office Report.—The Comptroller General shall review 
 
 &emsp;"(2) not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate."
 
-Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapterwere referred to, or otherwise received by, the Office of Special Counsel for assistance.
+Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
 
 #### Ensuring the Uniformed Services Employment and Reemployment Rights Act (USERRA) Protections
 
@@ -204,7 +204,7 @@ The Federal Government, as our Nation's largest employer, has a responsibility t
 
 As a critical part of that effort, I am directing executive departments and agencies (agencies) to take steps to ensure robust compliance with USERRA's employment and reemployment protections across the Federal Government through outreach, education, and oversight. Ensuring agencies' compliance with USERRA across the Federal Government will maintain our commitment to those who serve.
 
-This effort will build upon, and be in furtherance of, Executive Order 13518 of November 9, 2009 (Employment of Veterans in the Federal Government), which directed agencies to take steps to enhance recruitment of and promote employment opportunities for veterans within the executive branch. Over the last few years, the Federal Government has made a concerted and successful effort to increase the hiring of military veterans and members of the National Guard and Reserves, and veterans now constitute a higher percentage of the Federal workforce than they have in years.
+This effort will build upon, and be in furtherance of, Executive Order 13518 of November 9, 2009 (Employment of Veterans in the Federal Government), which directed agencies to take steps to enhance recruitment of and promote employment opportunities for veterans withinthe executive branch. Over the last few years, the Federal Government has made a concerted and successful effort to increase the hiring of military veterans and members of the National Guard and Reserves, and veterans now constitute a higher percentage of the Federal workforce than they have in years.
 
 The Federal Government must continue to improve outreach to the uniformed services, veteran, Guard, and Reserve communities; improve agencies' USERRA training and guidance; and ensure that service members and veterans in Federal employment receive the full extent of their employment protections, including USERRA protections. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
@@ -250,7 +250,7 @@ Sec. 2. <i>Federal USERRA Guidance</i>. (a) Within 180 days of the date of this 
 
 (b) In the course of developing guidance pursuant to subsection (a), the Director of the Office of Personnel Management, in consultation with the Council on Veterans Employment and offices and agencies participating in the Working Group as appropriate, shall review relevant statutes, regulations, policies, and agency training and guidance to identify reforms that would facilitate improved implementation of and compliance with USERRA. The Director of the Office of Personnel Management, in consultation with the Director of the Office of Management and Budget (OMB), shall report to the President on this review, no later than 1 year from the date of this memorandum, and provide recommendations for changes to laws, regulations, and policies that would strengthen USERRA protections.
 
-(c) In developing guidance pursuant to subsection (a), the Director of the Office of Personnel Managementshall consult with affected agencies, interagency groups, and public stakeholders.
+(c) In developing guidance pursuant to subsection (a), the Director of the Office of Personnel Management shall consult with affected agencies, interagency groups, and public stakeholders.
 
 (d) The Department of Defense and the Office of Personnel Management shall work together to improve data collection procedures to help better track the overall veteran and service member employment data in the Federal Government, particularly Guard and Reserve Members.
 

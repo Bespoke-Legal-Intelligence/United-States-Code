@@ -106,7 +106,7 @@ Term of Office.—Notwithstanding section 581(b) of title 28, United States Code
 
 "(a)
 
-General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Actand the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
+General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
 
 "(b)
 
@@ -128,7 +128,7 @@ Amendments Relating to Family Farmers.—(1) The amendments made by subtitle B o
 
 &emsp;"(B)(i) the first two references in section 1202(a) of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) to the United States trustee shall be deemed to be a reference to the court, and
 
-&emsp;"(ii) any reference in such section 1202(a) to section 586(b) of title 28 of the United States Code shall be deemed to be a reference to section 1202(c) of title 11 of the United States Code (as so added).
+&emsp;"(ii) any reference in such section 1202(a) to section 586(b) of title 28 of the United States Code shall bedeemed to be a reference to section 1202(c) of title 11 of the United States Code (as so added).
 
 "(d)
 
@@ -370,7 +370,7 @@ Information and Documents Relating to Bankruptcy Cases and United States Trustee
 
 "(a)
 
-Rules Relating to the United States Trustee System.—If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
+Rules Relating to the United States Trustee System.—If a United States trustee is not authorized,before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
 
 "(b)
 
@@ -418,7 +418,7 @@ Establishment of Project.—Not later than 1 year after the effective date of th
 
 "(b)
 
-Study by General Accounting Office \[now Government Accountability Office\].—Not later than1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
+Study by General Accounting Office \[now Government Accountability Office\].—Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
 
 "(c)
 
@@ -454,7 +454,7 @@ Use by Clerks of the Courts.—The electronic case management system demonstrate
 
 "(e)
 
-Use by United States Trustees.—The electronic case management system demonstrated under the project required by subsection (a) shall provide, at a minimum, the United States trustee in each district in which such system is operated with—
+Use by United States Trustees.—The electronic case management system demonstrated under the project required by subsection (a) shall provide, ata minimum, the United States trustee in each district in which such system is operated with—
 
 &emsp;"(1) complete electronic case files which contain, in addition to the information listed in subsection (d), records of case openings, case closings, hearings, and the filing of all motions, trustee appointments, pleadings, and responses, as well as a record of the responses by the United States trustee to those motions, trustee appointments, and pleadings,
 

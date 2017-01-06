@@ -20,7 +20,7 @@
 
 (2) An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L.102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
 
 #### Amendments
 
@@ -37,4 +37,8 @@ Subsec. (e). Pub. L. 113–291, §502(a), designated existing provisions as par.
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
+
+#### Effective Date
+
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 

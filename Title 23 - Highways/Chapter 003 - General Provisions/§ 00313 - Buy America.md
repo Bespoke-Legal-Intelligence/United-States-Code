@@ -10,7 +10,7 @@
 
 &emsp;(3) that inclusion of domestic material will increase the cost of the overall project contract by more than 25 percent.
 
-(c) For purposes of this section, in calculating components' costs, labor costs involved in final assembly shall not be included in the calculation.
+(c) For purposes of this section, in calculating components' costs, labor costs involved in finalassembly shall not be included in the calculation.
 
 (d) The Secretary of Transportation shall not impose any limitation or condition on assistance provided under the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that restricts any State from imposing more stringent requirements than this section on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with such assistance or restricts any recipient of such assistance from complying with such State imposed requirements.
 

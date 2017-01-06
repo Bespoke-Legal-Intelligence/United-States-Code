@@ -28,7 +28,7 @@
 
 &emsp;(C) shall identify specifically or by category the records or information to be reviewed; and
 
-&emsp;(D) shall inform the recipient of the request of the prohibition described in subsection (b) of this section.
+&emsp;(D) shall inform the recipient of the request of the prohibition described in subsection (b).
 
 #### (b) Prohibition of certain disclosure
 
@@ -40,7 +40,7 @@
 
 #### (B) Certification
 
-&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of an authorized investigative agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
+&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of an authorized investigative agency described in subsection\(a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
 &emsp;&emsp;&emsp;(i) a danger to the national security of the United States;
 
@@ -86,7 +86,7 @@
 
 #### (d) Records or information; inspection or copying
 
-(1) Notwithstanding any other provision of law (other than section 6103 of title 26), an entity receiving a request for records or information under subsection (a) of this section shall, if the request satisfies the requirements of this section, make available such records or information within 30 days for inspection or copying, as may be appropriate, by the agency requesting such records or information.
+(1) Notwithstanding any other provision of law (other than section 6103 of title 26), an entity receiving a request for records or information under subsection (a) shall, if the request satisfies the requirements of this section, make available such records or information within 30 days for inspection or copying, as may be appropriate, by the agency requesting such records or information.
 
 (2) Any entity (including any officer, employee, or agent thereof) that discloses records or information for inspection or copying pursuant to this section in good faith reliance upon the certifications made by an agency pursuant to this section shall not be liable for any such disclosure to any person under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
 

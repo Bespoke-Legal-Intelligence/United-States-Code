@@ -40,7 +40,7 @@
 
 (f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(a), Jan. 7, 2011, 124 Stat. 4221.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106,div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(a), Jan. 7, 2011, 124 Stat. 4221.)
 
 Historical and Revision Notes
 
@@ -96,7 +96,7 @@ Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: "The amendments made bythis section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991."
+Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: "The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991."
 
 #### Effective Date of 1989 Amendment
 

@@ -30,7 +30,7 @@ The funding provided under this section shall supplement (and not supplant) othe
 
 The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part D of title III of the Act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Energy Conservation and Production Act, referred to in subsec. (b)(2), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (b)(2), is Pub. L. 94–385, Aug. 14, 1976,90 Stat. 1125. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
 

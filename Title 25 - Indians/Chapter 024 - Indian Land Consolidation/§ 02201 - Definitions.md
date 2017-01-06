@@ -8,15 +8,15 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(A) any person who is a member of any Indian tribe, is eligible to become a member of any Indian tribe, or is an owner (as of October 27, 2004) of a trust or restricted interest in land;
 
-&emsp;&emsp;(B) any person meeting the definition of Indian under the Indian Reorganization Act (25 U.S.C. 479) and the regulations promulgated thereunder; and
+&emsp;&emsp;(B) any person meeting the definition of Indian under the Indian Reorganization Act (25 U.S.C. 479) <sup>1</sup> and the regulations promulgated thereunder; and
 
-&emsp;&emsp;(C) with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title, any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.<sup>1</sup>
+&emsp;&emsp;(C) with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title, any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.<sup>2</sup>
 
 &emsp;(3) "Secretary" means the Secretary of the Interior;
 
-&emsp;(4)(i) "trust or restricted lands" means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) "trust or restricted interest in land" or "trust or restricted interest in a parcel of land" means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.<sup>1</sup>
+&emsp;(4)(i) "trust or restricted lands" means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) "trust or restricted interest in land" or "trust or restricted interest in a parcel of land" means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.<sup>2</sup>
 
-&emsp;(5) "heirs of the first or second degree" means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.<sup>1</sup>
+&emsp;(5) "heirs of the first or second degree" means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.<sup>2</sup>
 
 &emsp;(6) "parcel of highly fractionated Indian land" means a parcel of land that the Secretary, pursuant to authority under a provision of this chapter, determines to have, as evidenced by the Secretary's records at the time of the determination—
 
@@ -34,7 +34,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(B) lineal descendents within 2 degrees of consanguinity of an Indian; or
 
-&emsp;&emsp;(C) owners of a trust or restricted interest in a parcel of land for purposes of inheriting by descent, renunciation, or consolidation agreement under section 2206 of this title, another trust or restricted interest in such parcel from the decedent; and
+&emsp;&emsp;(C) owners of a trust or restricted interest in a parcel of land for purposes of inheritingby descent, renunciation, or consolidation agreement under section 2206 of this title, another trust or restricted interest in such parcel from the decedent; and
 
 &emsp;(10) "without regard to waste" means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
 
@@ -42,7 +42,7 @@ For the purpose of this chapter—
 
 #### References in Text
 
-The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. The term "Indian" is defined for purposes of this Act in section 479 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45 (§5101 et seq.) of this title. The term "Indian" was defined for purposes of this Act in section 479 of this title prior to editorial reclassification as section 5129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 This chapter, referred to in par. (6), was in the original "this Act", which was translated as reading "this title", meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
@@ -136,7 +136,7 @@ Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: "This Act 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: "This Act \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the 'Indian Land Consolidation Act Amendments of 2000'."
+Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: "This Act \[enacting sections 2205, 2206, and2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the 'Indian Land Consolidation Act Amendments of 2000'."
 
 #### Short Title of 1991 Amendment
 
@@ -242,7 +242,9 @@ Pub. L. 106–462, title I, §102, Nov. 7, 2000, 114 Stat. 1992, provided that: 
 
 #### Authorization of Appropriations
 
-Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: "There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law."
+Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: "There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 2204, 2207, and 5107 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law."
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

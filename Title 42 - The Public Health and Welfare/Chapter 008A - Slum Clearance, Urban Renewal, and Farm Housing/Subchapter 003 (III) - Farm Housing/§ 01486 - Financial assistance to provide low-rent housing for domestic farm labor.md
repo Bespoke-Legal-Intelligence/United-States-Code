@@ -32,7 +32,7 @@ The Secretary may make payments pursuant to any contract for financial assistanc
 
 #### (e) Regulations for prevention of waste
 
-The Secretary shall prescribe regulations to insure that Federal funds expended under this section are not wasted or dissipated. The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed.
+The Secretary shall prescribe regulations to insure that Federal funds expended under this section are not wasted or dissipated. The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) over any of the others so listed.
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
@@ -52,7 +52,7 @@ As used in this section—
 
 #### (h) Migrant farmworker housing
 
-Notwithstanding the provisions of subsection (a)(3) of this section, the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
+Notwithstanding the provisions of subsection (a)(3), the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
 
 #### (i) Farm labor housing
 
@@ -90,7 +90,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (C) Repayment of advance
 
-&emsp;&emsp;Any advance provided under subparagraph (A)(i) shall be repaid on such terms as may be prescribed by the Secretary when the project ceases to be used as housing in accordance with the provisions of this subsection. Recipients shall be required to repay 100 percent of the advance if the housing is used for purposes under this subsection for fewer than 10 years following initial occupancy. If the housing is used for such purposes for more than 10 years, thepercentage of the amount that shall be required to be repaid shall be reduced by 10 percentage points for each year in excess of 10 that the property is so used.
+&emsp;&emsp;Any advance provided under subparagraph (A)(i) shall be repaid on such terms as may be prescribed by the Secretary when the project ceases to be used as housing in accordance with the provisions of this subsection. Recipients shall be required to repay 100 percent of the advance if the housing is used for purposes under this subsection for fewer than 10 years following initial occupancy. If the housing is used for such purposes for more than 10 years, the percentage of the amount that shall be required to be repaid shall be reduced by 10 percentage points for each year in excess of 10 that the property is so used.
 
 #### (D) Prevention of undue benefits
 
@@ -202,7 +202,7 @@ Subsec. (j). Pub. L. 100–628 added subsec. (j).
 
 <b>1979</b>—Subsec. (h). Pub. L. 96–153 added subsec. (h).
 
-<b>1978</b>—Subsec. (e). Pub. L. 95–557 inserted "The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed".
+<b>1978</b>—Subsec. (e). Pub. L. 95–557 inserted "The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) over any of the others so listed".
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–609, §801(d)(1), authorized financial assistance for broad-based nonprofit organizations incorporated within the State and nonprofit organizations of farmworkers incorporated within the State and provided for low-rent housing and related facilities "(which may be located within the State)".
 

@@ -38,7 +38,7 @@ The Attorney General shall, subject to the availability of appropriations, publi
 
 #### (f) Study of child abuse offenders
 
-(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of Juvenile Justice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
+(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of JuvenileJustice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
 
 &emsp;(A) the percentage of convicted child abuse offenders who have more than 1 conviction for an offense involving child abuse;
 

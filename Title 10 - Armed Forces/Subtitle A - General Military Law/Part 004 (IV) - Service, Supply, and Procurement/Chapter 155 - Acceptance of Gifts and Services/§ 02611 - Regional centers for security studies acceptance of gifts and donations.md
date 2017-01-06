@@ -48,7 +48,7 @@ Crediting of Funds.—Funds accepted by the Secretary under section (a) shall be
 
 Gift or Donation Defined.—In this section, the term "gift or donation" means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L.107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(2), Jan. 2, 2013, 126 Stat. 2162; Pub. L. 113–291, div. B, title XXVIII, §2861(b)(2), Dec. 19, 2014, 128 Stat. 3716.)
+(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L. 107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(2), Jan. 2, 2013, 126 Stat. 2162; Pub. L. 113–291, div. B, title XXVIII, §2861(b)(2), Dec. 19, 2014, 128 Stat. 3716.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 108–136, §931(b)(1)(B), struck out "foreign" before "gif
 
 Subsec. (f). Pub. L. 108–136, §931(b)(1)(A), (C), in heading, struck out "Foreign" before "Gift" and in text, struck out "foreign" after "section, a" and "from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country" before period at end.
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: "If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shall notify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year."
+<b>2002</b>—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: "If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shallnotify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year."
 
 #### Effective Date of 2004 Amendment
 

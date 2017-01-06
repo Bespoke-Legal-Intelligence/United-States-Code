@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the United States Fish and Wildlife Service of the Department of theInterior the position of Assistant Director for Wildlife and Sport Fish Restoration Programs.
+There is established in the United States Fish and Wildlife Service of the Department of the Interior the position of Assistant Director for Wildlife and Sport Fish Restoration Programs.
 
 #### (b) Superior
 

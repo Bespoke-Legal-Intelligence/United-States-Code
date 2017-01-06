@@ -88,7 +88,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
 
-&emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which theviolation occurred that resulted in the penalty or forfeiture;
+&emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which the violation occurred that resulted in the penalty or forfeiture;
 
 &emsp;&emsp;(ii) pay a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or any regulation or permit issued under this chapter; and
 
@@ -100,7 +100,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (g) Subpoenas
 
-In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
+In the case of any hearing under this section which is determined on the record in accordancewith the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 
 #### (h) Use of resources of State and other Federal agencies
 

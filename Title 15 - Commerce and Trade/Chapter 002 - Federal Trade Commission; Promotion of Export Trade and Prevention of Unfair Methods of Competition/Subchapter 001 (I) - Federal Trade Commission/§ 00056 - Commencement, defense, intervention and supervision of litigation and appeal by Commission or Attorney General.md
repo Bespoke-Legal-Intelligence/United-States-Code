@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(b) the Attorney General fails to take any action with respect to the Commission's request.
 
-(B) In any case where the Attorney General represents the Commission before the Supreme Court in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the SupremeCourt with respect to such action, unless the Commission concurs.
+(B) In any case where the Attorney General represents the Commission before the Supreme Court in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
 
 (C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term "Attorney General" includes the Solicitor General.
 

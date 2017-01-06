@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) "medical quality assurance program" means any activity carried out by or for the Coast Guard to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics) medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
+&emsp;(1) "medical quality assurance program" means any activity carried out by or for theCoast Guard to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics) medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
 
 &emsp;(2) "medical quality assurance record" means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Coast Guard as part of a medical quality assurance program.
 
@@ -46,7 +46,7 @@
 
 &emsp;(3) limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 
-(i) Except as otherwise provided in this section, an individual who willfully discloses a medical quality assurance record knowing that the record is a medical quality assurance record, is liable to the United States Government for a civil penalty of not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+(i) Except as otherwise provided in this section, an individual who willfully discloses amedical quality assurance record knowing that the record is a medical quality assurance record, is liable to the United States Government for a civil penalty of not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
 (Added Pub. L. 102–587, title V, §5203(a), Nov. 4, 1992, 106 Stat. 5072; amended Pub. L. 104–324, title VII, §746(b), Oct. 19, 1996, 110 Stat. 3943; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

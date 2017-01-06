@@ -40,7 +40,7 @@
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The United States International Trade Commission (hereinafter in this section referred to as the 'Commission') shall prepare, and submit tothe Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
+<b>2000</b>—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The United States International Trade Commission (hereinafter in this section referred to as the 'Commission') shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
 
 &emsp;"(1) the 24-month period beginning with December 4, 1991; and
 

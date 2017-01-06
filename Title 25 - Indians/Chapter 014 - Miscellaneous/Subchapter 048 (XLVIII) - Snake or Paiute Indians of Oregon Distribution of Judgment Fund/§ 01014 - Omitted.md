@@ -1,0 +1,6 @@
+### §1014. Omitted
+
+#### Codification
+
+Section, Pub. L. 88–464, §4, Aug. 20, 1964, 78 Stat. 563, which provided for costs incurred by the Secretary ofthe Interior in the preparation of the membership rolls and in the payment of pro rata shares to be paid by appropriate withdrawals from the judgment fund, was omitted from the Code as being of special and not general application.
+

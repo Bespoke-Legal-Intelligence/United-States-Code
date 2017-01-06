@@ -44,7 +44,7 @@ In this section:
 
 #### (3) Procurement planning
 
-&emsp;The head of an agency shall incorporate into the specifications for all procurements involving energy consuming products and systems, including guide specifications, project specifications, and construction, renovation, and services contracts that include provision of energy consuming products and systems, and into the factors for the evaluation of offers received for the procurement, criteria for energy efficiency that are consistent with the criteria used for rating Energy Star products and for rating FEMP designated products.
+&emsp;The head of an agency shall incorporate into the specifications for all procurements involving energy consuming products and systems,including guide specifications, project specifications, and construction, renovation, and services contracts that include provision of energy consuming products and systems, and into the factors for the evaluation of offers received for the procurement, criteria for energy efficiency that are consistent with the criteria used for rating Energy Star products and for rating FEMP designated products.
 
 #### (c) Listing of energy efficient products in Federal catalogs
 
@@ -116,7 +116,7 @@ Subsecs. (e), (f). Pub. L. 110–140, §524, added subsec. (e) and redesignated 
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Catalogue Listing Deadline
 

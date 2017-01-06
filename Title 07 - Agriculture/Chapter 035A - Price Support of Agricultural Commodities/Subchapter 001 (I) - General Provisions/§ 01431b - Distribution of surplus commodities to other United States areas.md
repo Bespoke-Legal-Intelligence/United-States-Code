@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law those areas under the jurisdiction or administration of the United States are authorized to receive from the Department of Agriculture for distribution on the same basis as domestic distribution in any State, Territory, or possession of the United States, without exchange of funds, such surplus commodities as may be available pursuant to clause (2) of section 612c of this title and section 1431 of this title.
 
-(Pub. L. 85–931, §9, Sept. 6, 1958, 72 Stat. 1792; Pub. L. 87–703, title II, §204, Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §3(a), Nov. 11, 1966, 80 Stat. 1538.)
+(Pub. L. 85–931, §9, Sept. 6, 1958, 72 Stat. 1792; Pub. L. 87–703, title II, §204, Sept. 27, 1962, 76Stat. 611; Pub. L. 89–808, §3(a), Nov. 11, 1966, 80 Stat. 1538.)
 
 #### Codification
 

@@ -88,7 +88,7 @@ Performance Partnership Agreements.—Federal agencies may use Federal discretio
 
 &emsp;&emsp;"(B) the Federal programs and federally funded services that are involved in the Pilot;
 
-&emsp;&emsp;"(C) the Federal discretionary funds that are being used in the Pilot (by the respective Federal account identifier, and the total amount from such account that is being used in the Pilot), and the period (or periods) of availability for obligation (by the Federal Government) of such funds;
+&emsp;&emsp;"(C) the Federal discretionary funds that are being used in the Pilot (by the respective Federal account identifier, and the total amount from suchaccount that is being used in the Pilot), and the period (or periods) of availability for obligation (by the Federal Government) of such funds;
 
 &emsp;&emsp;"(D) the non-Federal funds that are involved in the Pilot, by source (which may include private funds as well as governmental funds) and by amount;
 
@@ -162,7 +162,7 @@ Pub. L. 102–521, §5, Oct. 25, 1992, 106 Stat. 3406, provided for establishmen
 
 Ex. Ord. No. 13459, Feb. 7, 2008, 73 F.R. 8003, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in recognition of the successful interagency collaboration resulting from the <i>Helping America's Youth</i> initiative, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in recognition of the successful interagency collaboration resulting from the <i>Helping America's Youth</i> initiative, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the Federal Government to promote achievement of positive results for at-risk youth through:
 

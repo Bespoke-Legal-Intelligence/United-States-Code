@@ -4,7 +4,7 @@
 
 (b) A person, including a governmental authority, may file with the Secretary a complaint about a violation of this chapter by a carrier referred to in subsection (a) of this section. The complaint must state the facts that are the subject of the violation. The Secretary may dismiss a complaint the Secretary determines does not state reasonable grounds for investigation and action. However, the Secretary may not dismiss a complaint made against a rail carrier because of the absence of direct damage to the complainant.
 
-(c) The Secretary shall make a written report of each proceeding involving a rail carrier or motor carrier conducted and furnish a copy to each party to that proceeding. The report shall include the findings, conclusions, and the order of the Secretary. The Secretary may have the reports published for public use. A published report of the Secretary is competent evidence of its contents.
+(c) The Secretary shall make a written report of each proceeding involving a rail carrier ormotor carrier conducted and furnish a copy to each party to that proceeding. The report shall include the findings, conclusions, and the order of the Secretary. The Secretary may have the reports published for public use. A published report of the Secretary is competent evidence of its contents.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2434.)
 

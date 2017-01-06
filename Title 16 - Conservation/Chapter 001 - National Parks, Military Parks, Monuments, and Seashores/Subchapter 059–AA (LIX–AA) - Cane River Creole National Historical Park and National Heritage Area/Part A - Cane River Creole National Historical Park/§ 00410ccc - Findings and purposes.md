@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the Cane River area includes a great variety of historical features with original elements in both rural and urban settings and a cultural landscape that represents various aspects of Creole culture, providing the base for a holistic approach to understanding the broad continuum of history within the region;
 
-&emsp;(6) the Cane River region includes the Natchitoches National Historic Landmark District, composed of approximately 300 publicly andprivately owned properties, four other national historic landmarks, and other structures and sites that may meet criteria for landmark significance following further study;
+&emsp;(6) the Cane River region includes the Natchitoches National Historic Landmark District, composed of approximately 300 publicly and privately owned properties, four other national historic landmarks, and other structures and sites that may meet criteria for landmark significance following further study;
 
 &emsp;(7) historic preservation within the Cane River area has greatly benefitted from individuals and organizations that have strived to protect their heritage and educate others about their rich history; and
 

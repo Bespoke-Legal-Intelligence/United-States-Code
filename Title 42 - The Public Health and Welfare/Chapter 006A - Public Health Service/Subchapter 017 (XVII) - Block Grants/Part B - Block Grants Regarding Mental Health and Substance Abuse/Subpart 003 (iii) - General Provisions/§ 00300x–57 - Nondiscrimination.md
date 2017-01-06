@@ -4,7 +4,7 @@
 
 #### (1) Rule of construction regarding certain civil rights laws
 
-&emsp;For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], on the basis of handicap under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], on the basis of sex under title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], programs and activities funded in whole or in part with funds made available under section 300x or 300x–21 of this title shall be considered to be programs and activities receiving Federal financial assistance.
+&emsp;For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], on the basis of handicap under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], on the basis of sex undertitle IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], programs and activities funded in whole or in part with funds made available under section 300x or 300x–21 of this title shall be considered to be programs and activities receiving Federal financial assistance.
 
 #### (2) Prohibition
 
@@ -14,7 +14,7 @@
 
 #### (1) Referrals to Attorney General after notice
 
-&emsp;Whenever the Secretary finds that a State, or an entity that has received a payment pursuant to section 300x or 300x–21 of this title, has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request the chief executive officer to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
+&emsp;Whenever the Secretary finds that a State, or an entity that has received a payment pursuant to section 300x or 300x–21 of this title, has failed to comply with a provision of law referred to in subsection (a)(1), with subsection (a)(2), or with an applicable regulation (including one prescribed to carry out subsection (a)(2)), the Secretary shall notify the chief executive officer of the State and shall request the chief executive officer to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
 
 &emsp;&emsp;(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 
@@ -24,7 +24,7 @@
 
 #### (2) Authority of Attorney General
 
-&emsp;When a matter is referred to the Attorney General pursuant to paragraph (1)(A), or whenever the Attorney General has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of subsection (a)(2) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+&emsp;When a matter is referred to the Attorney General pursuant to paragraph (1)(A), or whenever the Attorney General has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 (July 1, 1944, ch. 373, title XIX, §1947, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 407.)
 

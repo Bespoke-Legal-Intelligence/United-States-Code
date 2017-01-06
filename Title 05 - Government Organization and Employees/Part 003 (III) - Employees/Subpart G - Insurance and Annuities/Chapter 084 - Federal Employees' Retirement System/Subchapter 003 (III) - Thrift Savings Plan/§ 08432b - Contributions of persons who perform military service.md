@@ -50,7 +50,7 @@
 
 (e) For purposes of any computation under this section, an employee shall, with respect to the period referred to in subsection (b)(2)(B), be considered to have been paid at the rate which would have been payable over such period had such employee remained continuously employed in the position which such employee last held before separating or entering leave-without-pay status to perform military service.
 
-(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings, if required, shall be calculated retroactively to the date the contribution would have been madehad the employee not separated or entered leave without pay status to perform military service.
+(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings, if required, shall be calculated retroactively to the date the contribution would have been made had the employee not separated or entered leave without pay status to perform military service.
 
 (2) Procedures for calculating and crediting the earnings payable pursuant to paragraph (1) shall be prescribed by the Executive Director.
 

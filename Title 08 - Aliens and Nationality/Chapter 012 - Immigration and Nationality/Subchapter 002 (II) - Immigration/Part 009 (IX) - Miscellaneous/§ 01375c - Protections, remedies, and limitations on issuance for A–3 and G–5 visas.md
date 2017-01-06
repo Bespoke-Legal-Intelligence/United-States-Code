@@ -112,7 +112,7 @@
 
 #### (e) Assistance to law enforcement investigations
 
-The Secretary shall cooperate, to the fullest extent possible consistent with the UnitedStates obligations under the Vienna Convention on Diplomatic Relations, done at Vienna, April 18, 1961, (23 U.S.T. 3229),<sup>2</sup> with any investigation by United States law enforcement authorities of crimes related to abuse or exploitation of a nonimmigrant holding an A–3 visa or a G–5 visa.
+The Secretary shall cooperate, to the fullest extent possible consistent with the United States obligations under the Vienna Convention on Diplomatic Relations, done at Vienna, April 18, 1961, (23 U.S.T. 3229),<sup>2</sup> with any investigation by United States law enforcement authorities of crimes related to abuse or exploitation of a nonimmigrant holding an A–3 visa or a G–5 visa.
 
 #### (f) Definitions
 

@@ -1,6 +1,6 @@
 ### §7229. Purchase of fuel
 
-In buying fuel, the Secretary of the Navy may, in any manner he considers proper, buy the kind of fuel that is best adapted to the purpose for which it is to be used.
+In buying fuel, the Secretary of the Navy may, in any manner he considers proper, buy the kindof fuel that is best adapted to the purpose for which it is to be used.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 448.)
 

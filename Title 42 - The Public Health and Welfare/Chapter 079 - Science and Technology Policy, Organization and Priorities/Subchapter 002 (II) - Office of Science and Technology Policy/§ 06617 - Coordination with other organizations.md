@@ -10,7 +10,7 @@ In exercising his functions under this chapter, the Director shall—
 
 &emsp;(3) hold such hearings in various parts of the Nation as he deems necessary, to determine the views of the agencies, groups, and organizations referred to in paragraph (2) of this subsection and of the general public, concerning national needs and trends in science and technology; and
 
-&emsp;(4) utilize with their consent to the fullest extent possible the services, personnel, equipment, facilities, and information (including statistical information) of public and private agencies and organizations, and individuals, in order to avoid duplication of effort and expense, and may transfer funds made availablepursuant to this chapter to other Federal agencies as reimbursement for the utilization of such personnel, services, facilities, equipment, and information.
+&emsp;(4) utilize with their consent to the fullest extent possible the services, personnel, equipment, facilities, and information (including statistical information) of public and private agencies and organizations, and individuals, in order to avoid duplication of effort and expense, and may transfer funds made available pursuant to this chapter to other Federal agencies as reimbursement for the utilization of such personnel, services, facilities, equipment, and information.
 
 #### (b) Information from Executive departments, agencies, and instrumentalities
 

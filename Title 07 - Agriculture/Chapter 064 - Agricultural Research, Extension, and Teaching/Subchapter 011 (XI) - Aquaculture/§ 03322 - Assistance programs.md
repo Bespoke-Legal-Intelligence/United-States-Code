@@ -46,7 +46,7 @@ The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is Pu
 
 Pub. L. 113–79, §7124(a), inserted "competitive" before "grants" in introductory provisions.
 
-<b>1996</b>—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, andstruck out heading and text of former subsec. (e). Text read as follows: "Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter."
+<b>1996</b>—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: "Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter."
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out "(1)" before "Not later than" and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 
@@ -67,4 +67,8 @@ Subsecs. (f), (g). Pub. L. 101–624, §1614(a)(6), added subsecs. (f) and (g).
 Subsec. (d). Pub. L. 99–198, §1429(a)(3), (4), substituted in first sentence "any of the non-Federal entities specified in subsection (b)" for "State agencies (including State departments of agriculture), and land-grant colleges and universities," and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
 
 Subsec. (e). Pub. L. 99–198, §1429(a)(5), inserted "the House Committee on Merchant Marine and Fisheries,".
+
+#### Effective Date
+
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 

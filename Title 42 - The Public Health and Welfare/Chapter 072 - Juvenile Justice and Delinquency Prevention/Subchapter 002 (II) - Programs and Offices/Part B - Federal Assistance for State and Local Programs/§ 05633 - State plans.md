@@ -78,7 +78,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(iii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
 
-&emsp;&emsp;(iv) a plan for providing needed mental health services to juveniles in the juvenile justice system, including information onhow such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;
+&emsp;&emsp;(iv) a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;
 
 &emsp;(8) provide for the coordination and maximum utilization of existing juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
 
@@ -158,7 +158,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(R) projects designed to develop and implement programs to protect the rights of juveniles affected by the juvenile justice system; and
 
-&emsp;&emsp;(S) programs designed to provide mental health services for incarcerated juveniles suspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.
+&emsp;&emsp;(S) programs designed to provide mental health services for incarcerated juvenilessuspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.
 
 &emsp;(10) provide for the development of an adequate research, training, and evaluation capacity within the State;
 
@@ -210,7 +210,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(I) such juveniles do not have contact with adult inmates; and
 
-&emsp;&emsp;&emsp;&emsp;(II) there is in effect in the State a policy that requires individuals who work with both such juveniles and adults inmates in collocated facilities have beentrained and certified to work with juveniles; and
+&emsp;&emsp;&emsp;&emsp;(II) there is in effect in the State a policy that requires individuals who work with both such juveniles and adults inmates in collocated facilities have been trained and certified to work with juveniles; and
 
 &emsp;&emsp;&emsp;(ii) that—
 
@@ -344,7 +344,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 107–273, §12209(1)(B)(ii), substituted ", the 
 
 Subsec. (a)(3)(D)(i). Pub. L. 107–273, §12209(1)(B)(iii)(I), inserted "and" at end.
 
-Subsec. (a)(3)(D)(ii). Pub. L. 107–273, §12209(1)(B)(iii)(II), substituted "paragraphs (11), (12), and (13)" for "paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter".
+Subsec. (a)(3)(D)(ii). Pub. L. 107–273, §12209(1)(B)(iii)(II), substituted "paragraphs (11), (12),and (13)" for "paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter".
 
 Subsec. (a)(5). Pub. L. 107–273, §12209(1)(C)(i), substituted "reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding" for ", other than" in introductory provisions.
 
@@ -448,7 +448,7 @@ Pub. L. 107–273, §12209(1)(K), amended par. (14) generally. Prior to amendmen
 
 &emsp;"(ii) have no existing acceptable alternative placement available;
 
-&emsp;"(B) are located where conditions of distance to be traveled or the lack of highway, road, or otherground transportation do not allow for court appearances within 24 hours, so that a brief (not to exceed 48 hours) delay is excusable; or
+&emsp;"(B) are located where conditions of distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within 24 hours, so that a brief (not to exceed 48 hours) delay is excusable; or
 
 &emsp;"(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;".
 
@@ -562,7 +562,7 @@ Subsec. (a)(14). Pub. L. 102–586, §2(f)(3)(A)(i)(IX)(bb), (cc), in introducto
 
 Pub. L. 102–586, §2(f)(3)(A)(i)(IX)(aa), which directed the amendment of par. (14) by striking out "; beginning after the five-year period following December 8, 1980," was executed by striking out ", beginning after the five-year period following December 8, 1980," after "provide that" to reflect the probable intent of Congress.
 
-Subsec. (a)(16). Pub. L. 102–586, §2(f)(3)(A)(i)(X), amended par. (16) generally. Prior to amendment, par. (16) read as follows: "provide assurance that assistance will be available on an equitable basis to deal with disadvantaged youth including, but not limited to, females, minority youth, and mentally retarded and emotionally or physically handicapped youth;".
+Subsec. (a)(16). Pub. L. 102–586, §2(f)(3)(A)(i)(X), amended par. (16) generally. Prior to amendment, par.\(16) read as follows: "provide assurance that assistance will be available on an equitable basis to deal with disadvantaged youth including, but not limited to, females, minority youth, and mentally retarded and emotionally or physically handicapped youth;".
 
 Subsec. (a)(17). Pub. L. 102–586, §2(f)(3)(A)(i)(XI), substituted "the families" for "and maintain the family units" and "delinquency (which" for "delinquency. Such" and inserted before semicolon "and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible)".
 
@@ -592,7 +592,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted "agency described in 
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out "(hereafter referred to in this part as the 'State criminal justice council')" before "has or will have authority".
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following "representatives of private organizations" as cl. (i) and inserted ", including those with a specialfocus on maintaining and strengthening the family unit", designated provisions following "which utilize" as cl. (ii) and inserted "representatives of organizations which", added cl. (iii), designated provisions following "business groups" as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted "family, school violence and vandalism, and learning disabilities," for "school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,".
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following "representatives of private organizations" as cl. (i) and inserted ", including those with a special focus on maintaining and strengthening the family unit", designated provisions following "which utilize" as cl. (ii) and inserted "representatives of organizations which", added cl. (iii), designated provisions following "business groups" as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted "family, school violence and vandalism, and learning disabilities," for "school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,".
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted "agency designated under paragraph (1)" for "criminal justice council" in three places.
 
@@ -624,7 +624,7 @@ Subsec. (a)(17), (18). Pub. L. 98–473, §626(a)(11), (12), added par. (17) and
 
 Subsec. (a)(19). Pub. L. 98–473, §626(a)(11), redesignated par. (18) as (19). Former par. (19) redesignated (20).
 
-Pub. L. 98–473, §626(a)(7), in provisions preceding (A), substituted "shall be" for "are" after "arrangements" and substituted "chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such" for "chapter. Such", inserted "and" at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: "The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;".
+Pub. L. 98–473, §626(a)(7), in provisions preceding (A), substituted "shall be" for "are" after "arrangements" and substituted "chapter and shall provide for the terms and conditions of such protective arrangementsestablished pursuant to this section, and such" for "chapter. Such", inserted "and" at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: "The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;".
 
 Subsec. (a)(20), (21). Pub. L. 98–473, §626(a)(11), redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
 
@@ -658,7 +658,7 @@ Subsec. (a)(3)(F). Pub. L. 96–509, §§11(a)(5), (6), 19(g)(4), substituted in
 
 Subsec. (a)(8). Pub. L. 96–509, §11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to "secure" juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committedserious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to "secure" juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
 Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 
@@ -686,7 +686,7 @@ Subsec. (a)(18). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(8), redesignated form
 
 Subsec. (a)(19), (20). Pub. L. 96–509, §11(a)(15)(A), redesignated former pars. (18) and (19) as (19) and (20), respectively.
 
-Subsec. (a)(21). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(9), redesignated former par. (20) as (21) and substituted "State criminal justice council will from time to time, but not less often than annually, review its plan and submit to the Administrator" for "State planning agency will from time to time, but not less often than annually, review its plan and submit to the Associate Administrator". Former par. (21) redesignated (22).
+Subsec. (a)(21). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(9), redesignated former par. (20) as (21) and substituted"State criminal justice council will from time to time, but not less often than annually, review its plan and submit to the Administrator" for "State planning agency will from time to time, but not less often than annually, review its plan and submit to the Associate Administrator". Former par. (21) redesignated (22).
 
 Subsec. (a)(22). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(10), redesignated former par. (21) as (22) and substituted "Administrator" for "Associate Administrator".
 

@@ -24,7 +24,7 @@ The training sessions at training centers established under this section shall b
 
 #### (e) Evaluation of participants
 
-A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performancestandards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
+A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performance standards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
 
 #### (f) Stipend
 
@@ -40,7 +40,7 @@ Section 14099 of this title, referred to in subsec. (c), was in the original "se
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–273 substituted "$400" for "$250".
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director."
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during thesummer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director."
 
 Subsec. (c). Pub. L. 105–277, §138(a)(2), substituted "The Police Corps" for "The 16 weeks of Police Corps".
 

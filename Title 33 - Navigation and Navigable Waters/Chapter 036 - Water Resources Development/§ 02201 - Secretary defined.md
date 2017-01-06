@@ -8,9 +8,15 @@ For purposes of this Act, the term "Secretary" means the Secretary of the Army.
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–322, §1(a), Dec. 16, 2016, 130 Stat. 1628, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Infrastructure Improvements for the Nation Act' or the 'WIIN Act'."
+
+Pub. L. 114–322, title I, §1001, Dec. 16, 2016, 130 Stat. 1632, provided that: "This title \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 2016'."
+
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–121, §1(a), June 10, 2014, 128 Stat. 1193, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Reform and Development Act of 2014'."
+Pub. L. 113–121, §1(a), June 10, 2014, 128 Stat. 1193, provided that: "This Act \[see Tables for classification\]may be cited as the 'Water Resources Reform and Development Act of 2014'."
 
 #### Short Title of 2007 Amendment
 
@@ -174,7 +180,7 @@ In general.—After the date on which an agreement is executed pursuant to subpa
 
 &emsp;&emsp;&emsp;"(ii)
 
-Administration.—The Secretary shall include such provisions as the Secretary determinesto be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph—
+Administration.—The Secretary shall include such provisions as the Secretary determines to be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has the necessary qualifications to administer those funds; and
 
@@ -218,7 +224,7 @@ Update.—Not later than 5 years after the date of enactment of this Act, the Se
 
 &emsp;&emsp;"(C)
 
-Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
+Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportationand Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
 
 &emsp;"(6)
 
@@ -318,7 +324,7 @@ Update.—Not later than 5 years after the date of enactment of this Act, the Se
 
 &emsp;&emsp;"(C)
 
-Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
+Failure to meet deadline.—If the Secretary fails to submit a report by the required deadline under this paragraph, the Secretary shall submit to the Committee on Environment and Public Worksof the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a detailed explanation of why the deadline was missed and a projected date for submission of the report.
 
 &emsp;"(6)
 
@@ -561,6 +567,8 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 Pub. L. 99–662, title IX, §948, Nov. 17, 1986, 100 Stat. 4201, provided that: "Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term 'spending authority' has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act."
 
 #### "Secretary" Defined
+
+Pub. L. 114–322, title I, §1002, Dec. 16, 2016, 130 Stat. 1632, provided that: "In this title \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 113–121, §2, June 10, 2014, 128 Stat. 1195, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 

@@ -114,7 +114,7 @@
 
 #### (C) Contents
 
-&emsp;&emsp;An allocation plan of a State or State designated entity under this paragraph shall set forth the requirements for eligible recipients under paragraph (8) to apply for such grantamounts, including a requirement that each such application include—
+&emsp;&emsp;An allocation plan of a State or State designated entity under this paragraph shall set forth the requirements for eligible recipients under paragraph (8) to apply for such grant amounts, including a requirement that each such application include—
 
 &emsp;&emsp;&emsp;(i) a description of the eligible activities to be conducted using such assistance; and
 
@@ -174,9 +174,9 @@
 
 &emsp;&emsp;(B) demonstrates the ability and financial capacity to undertake, comply, and manage the eligible activity;
 
-&emsp;&emsp;(C) demonstrates its familiarity with the requirements of any other Federal, State, or local housing program that will be used in conjunction with such grant amounts to ensure compliance with all applicable requirements and regulations of such programs; and
+&emsp;&emsp;(C) demonstrates its familiarity with the requirements of any other Federal, State, or local housing program that will be used inconjunction with such grant amounts to ensure compliance with all applicable requirements and regulations of such programs; and
 
-&emsp;&emsp;(D) makes such assurances to the State or State designated entity as the Secretaryshall, by regulation, require to ensure that the recipient will comply with the requirements of this subsection during the entire period that begins upon selection of the recipient to receive such grant amounts and ending upon the conclusion of all activities under paragraph (8) that are engaged in by the recipient and funded with such grant amounts.
+&emsp;&emsp;(D) makes such assurances to the State or State designated entity as the Secretary shall, by regulation, require to ensure that the recipient will comply with the requirements of this subsection during the entire period that begins upon selection of the recipient to receive such grant amounts and ending upon the conclusion of all activities under paragraph (8) that are engaged in by the recipient and funded with such grant amounts.
 
 #### (10) Limitations on use
 
@@ -244,7 +244,7 @@ If in any year a State or State designated entity fails to obtain reimbursement 
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) require each State or State designated entity to develop and maintain a system to ensure that each recipient of assistance under this section uses such amounts in accordance with this section, the regulations issued under this section, and any requirements or conditions under which such amounts were provided; and
+&emsp;&emsp;&emsp;(i) require each State or State designated entity to develop and maintain asystem to ensure that each recipient of assistance under this section uses such amounts in accordance with this section, the regulations issued under this section, and any requirements or conditions under which such amounts were provided; and
 
 &emsp;&emsp;&emsp;(ii) establish minimum requirements for agreements, between the State or State designated entity and recipients, regarding assistance under this section, which shall include—
 
@@ -382,7 +382,7 @@ If, after July 30, 2008, in any year, there is enacted any provision of Federal 
 
 #### (i) Funding accountability and transparency
 
-Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtainand provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
+Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Uponthe request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
 
 (Pub. L. 102–550, title XIII, §1338, as added Pub. L. 110–289, div. A, title I, §1131(b), July 30, 2008, 122 Stat. 2712.)
 

@@ -58,11 +58,11 @@ The Director may require a regulated entity to submit a report to the Director a
 
 #### (3) Assessments
 
-&emsp;Any penalty imposed under this subsection shall be in lieu of a penalty under section 4636 of this title, but shall be assessed and collected by the Director in the manner provided in section 4636 of this title for penalties imposed under that section, and any such assessment (including the determination of the amount of the penalty) shall be otherwise subject to the provisions of section 4636 of this title.
+&emsp;Any penalty imposed under this subsection shall be in lieu of a penalty under section 4636 of this title, but shall be assessed and collected by the Director in the manner provided in section 4636 of this title for penalties imposed under that section, and any such assessment (including the determination of theamount of the penalty) shall be otherwise subject to the provisions of section 4636 of this title.
 
 #### (4) Hearing
 
-&emsp;A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20days after the date of the issuance of the notice of assessment. Section 4634 of this title shall apply to any such proceedings.
+&emsp;A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20 days after the date of the issuance of the notice of assessment. Section 4634 of this title shall apply to any such proceedings.
 
 (Pub. L. 102–550, title XIII, §1314, Oct. 28, 1992, 106 Stat. 3946; Pub. L. 110–289, div. A, title I, §1104(a), July 30, 2008, 122 Stat. 2666.)
 

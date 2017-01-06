@@ -26,7 +26,7 @@
 
 &emsp;(1) the term "counterfeit label" means an identifying label or container that appears to be genuine, but is not;
 
-&emsp;(2) the term "traffic" has the same meaning as in section 2320(e) <sup>2</sup> of this title;
+&emsp;(2) the term "traffic" has the same meaning as in section 2320(f) of this title;
 
 &emsp;(3) the terms "copy", "phonorecord", "motion picture", "computer program", "audiovisual work", "literary work", "pictorial, graphic, or sculptural work", "sound recording", "work of visual art", and "copyright owner" have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17;
 
@@ -144,13 +144,11 @@ Subsequent violation.—The court may increase an award of damages under this su
 
 Limitation on actions.—A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31,1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, §202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, §6(i), Dec. 9, 2010, 124 Stat. 3182.)
-
-#### References in Text
-
-Section 2320 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, §818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, §202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, §6(i), Dec. 9, 2010, 124 Stat. 3182; Pub. L. 114–154, §3(1), May 16, 2016, 130 Stat. 387.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–154 substituted "section 2320(f)" for "section 2320(e)".
 
 <b>2010</b>—Subsec. (e)(6). Pub. L. 111–295 substituted "under this subsection" for "under section".
 
@@ -202,7 +200,7 @@ Subsec. (c)(1). Pub. L. 103–272 substituted "section 46501 of title 49" for "s
 
 Subsec. (a). Pub. L. 97–180 substituted provision that violators of this section shall be fined not more than $250,000 or imprisoned for not more than five years or both for provision that whoever knowingly and with fraudulent intent transported, caused to be transported, received, sold, or offered for sale in interstate or foreign commerce any phonograph record, disk, wire, tape, film, or other article on which sounds were recorded, to which or upon which was stamped, pasted, or affixed any forged or counterfeited label, knowing the label to have been falsely made, forged, or counterfeited would be fined not more than $10,000 or imprisoned for not more than one year, or both, for the first such offense and would be fined not more than $25,000 or imprisoned for not more than two years, or both, for any subsequent offense.
 
-Subsecs. (b) to (e). Pub. L. 97–180 added subsecs. (b) and (c), redesignated former subsecs. (b) and (c) as (d)and (e), respectively, and in subsec. (d) as so redesignated struck out the comma after "judgment of conviction shall".
+Subsecs. (b) to (e). Pub. L. 97–180 added subsecs. (b) and (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and in subsec. (d) as so redesignated struck out the comma after "judgment of conviction shall".
 
 <b>1976</b>—Pub. L. 94–553 designated existing provisions as subsec. (a) and substituted "$10,000" for "$25,000" and "$25,000" for "$50,000", and added subsecs. (b) and (c).
 
@@ -239,6 +237,4 @@ Electronic Transmissions.—The amendments made by this title \[amending this se
 Fair Use.—The amendments made by this title shall not affect the fair use, under section 107 of title 17, United States Code, of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of section 2318(b) of title 18, United States Code, as amended by this title."
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

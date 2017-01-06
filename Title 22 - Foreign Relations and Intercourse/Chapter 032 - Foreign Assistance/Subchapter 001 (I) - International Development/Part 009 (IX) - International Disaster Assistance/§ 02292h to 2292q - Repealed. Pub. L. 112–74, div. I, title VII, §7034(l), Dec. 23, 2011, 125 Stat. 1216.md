@@ -8,7 +8,7 @@ Section 2292j, Pub. L. 87–195, pt. I, §495D, as added Pub. L. 95–21, Apr. 1
 
 Section 2292k, Pub. L. 87–195, pt. I, §495E, formerly §495D, as added Pub. L. 95–88, title I, §121, Aug. 3, 1977, 91 Stat. 541; renumbered §495E, Pub. L. 95–424, title I, §119(1), Oct. 6, 1978, 92 Stat. 953, requested use of funds for relief, rehabilitation, and reconstruction assistance for Turkey.
 
-Section 2292l, Pub. L. 87–195, pt. I, §495F, as added Pub. L. 95–424, title I, §119(2), Oct. 6, 1978, 92 Stat. 953; amended Pub. L. 96–53, title I, §116, Aug. 14, 1979, 93Stat. 365; Pub. L. 96–533, title IV, §405, Dec. 16, 1980, 94 Stat. 3150, authorized rehabilitation and resettlement assistance for Africa.
+Section 2292l, Pub. L. 87–195, pt. I, §495F, as added Pub. L. 95–424, title I, §119(2), Oct. 6, 1978, 92 Stat. 953; amended Pub. L. 96–53, title I, §116, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title IV, §405, Dec. 16, 1980, 94 Stat. 3150, authorized rehabilitation and resettlement assistance for Africa.
 
 Section 2292m, Pub. L. 87–195, pt. I, §495G, as added Pub. L. 96–109, §1, Nov. 9, 1979, 93 Stat. 842, authorized special Caribbean hurricane relief assistance.
 

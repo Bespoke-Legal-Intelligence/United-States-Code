@@ -32,7 +32,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence northwesterly in a straight line to a point 2 miles due west of the most westernmost point of Northwest Cape (Cape Sable);
 
-&emsp;thence northeasterly in a straight line to a point 2 miles due west of the northwest cornerof fractional section 6, township 59 south, range 32 east;
+&emsp;thence northeasterly in a straight line to a point 2 miles due west of the northwest corner of fractional section 6, township 59 south, range 32 east;
 
 &emsp;thence northwesterly in a straight line to a point 2 miles due west of the southwest corner of section 6, township 58 south, range 32 east;
 

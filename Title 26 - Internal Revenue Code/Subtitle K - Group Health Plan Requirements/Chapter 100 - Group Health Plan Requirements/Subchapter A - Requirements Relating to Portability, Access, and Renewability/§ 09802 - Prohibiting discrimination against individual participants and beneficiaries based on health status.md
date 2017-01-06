@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for thepurposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
 #### (B) Limitation
 
@@ -80,7 +80,7 @@
 
 #### (4) Research exception
 
-&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, thata participant or beneficiary undergo a genetic test if each of the following conditions is met:
+&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
 &emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 

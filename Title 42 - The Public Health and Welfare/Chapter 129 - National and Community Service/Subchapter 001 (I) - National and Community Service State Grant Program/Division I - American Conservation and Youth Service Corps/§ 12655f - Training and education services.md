@@ -12,7 +12,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (1) Requirement
 
-&emsp;Each program agency shall use not less than 10 percent of the assistance made available to such agency under this division in each fiscalyear to provide pre-service and in-service training and educational materials and services for participants in such a program. Program participants shall be provided with information concerning the benefits to the community that result from the activities undertaken by such participants.
+&emsp;Each program agency shall use not less than 10 percent of the assistance made available to such agency under this division in each fiscal year to provide pre-service and in-service training and educational materials and services for participants in such a program. Program participants shall be provided with information concerning the benefits to the community that result from the activities undertaken by such participants.
 
 #### (2) Agreements for academic study
 
@@ -42,7 +42,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (1) Consistency with State and local requirements
 
-&emsp;Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment in programs conducted under subsection (c) of this section are consistent with the requirements of applicable State and local law and regulations.
+&emsp;Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment in programs conducted under subsection (c) are consistent with the requirements of applicable State and local law and regulations.
 
 #### (2) Academic standards
 

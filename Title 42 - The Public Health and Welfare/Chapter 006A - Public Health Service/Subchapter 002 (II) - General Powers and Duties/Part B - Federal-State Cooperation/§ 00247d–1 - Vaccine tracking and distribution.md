@@ -24,7 +24,7 @@ There are authorized to be appropriated to carry out this section, $30,800,000 f
 
 As part of the National Health Security Strategy described in section 300hh–1 of this title, the Secretary shall provide an update on the implementation of subsections (a) through (d).
 
-(July 1, 1944, ch. 373, title III, §319A, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2316; amended Pub. L. 107–188, title I, §111(1), June 12, 2002, 116 Stat. 611; Pub. L. 109–417, title II, §204(a), Dec. 19, 2006, 120 Stat. 2850; Pub. L. 113–5, title II, §202(b), Mar. 13, 2013, 127 Stat. 175.)
+(July 1, 1944, ch. 373, title III, §319A, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2316; amended Pub. L. 107–188, title I,§111(1), June 12, 2002, 116 Stat. 611; Pub. L. 109–417, title II, §204(a), Dec. 19, 2006, 120 Stat. 2850; Pub. L. 113–5, title II, §202(b), Mar. 13, 2013, 127 Stat. 175.)
 
 #### References in Text
 

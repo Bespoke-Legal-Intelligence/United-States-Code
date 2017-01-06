@@ -1,6 +1,6 @@
 ### §7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments
 
-(a) The Secretary, upon the recommendation of the Under Secretary for Health, may employ, without regard to civil service or classification laws, rules, or regulations, personnel as follows:
+(a) The Secretary, upon the recommendation of the Under Secretary for Health, may employ,without regard to civil service or classification laws, rules, or regulations, personnel as follows:
 
 &emsp;(1) On a temporary full-time basis, part-time basis, or without compensation basis, persons in the following positions:
 
@@ -114,5 +114,5 @@ Partnering With and Developing Community Entities and Nonprofit Organizations.�
 
 "(c)
 
-Military Culture Training.—In carrying out the program required by subsection (a), the Secretary shall provide training to mental health providers to ensure that clinicians who provide mental health services as described in such subsection have sufficient understanding of military-specific and service-specific culture, combat experience, and other factors that areunique to the experience of veterans who served in Operation Enduring Freedom, Operating Iraqi Freedom, or Operation New Dawn."
+Military Culture Training.—In carrying out the program required by subsection (a), the Secretary shall provide training to mental health providers to ensure that clinicians who provide mental health services as described in such subsection have sufficient understanding of military-specific and service-specific culture, combat experience, and other factors that are unique to the experience of veterans who served in Operation Enduring Freedom, Operating Iraqi Freedom, or Operation New Dawn."
 

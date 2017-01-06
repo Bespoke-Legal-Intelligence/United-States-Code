@@ -46,7 +46,7 @@ Agreement Requirements.—An agreement under this section shall require the stud
 
 &emsp;&emsp;(A) as a merchant marine officer on a documented vessel or a vessel owned and operated by the United States Government or by a State;
 
-&emsp;&emsp;(B) as an employee in a United States maritime-related industry, profession, or marinescience (as determined by the Secretary), if the Secretary determines that service under subparagraph (A) is not available to the individual;
+&emsp;&emsp;(B) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary), if the Secretary determines that service under subparagraph (A) is not available to the individual;
 
 &emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
 
@@ -120,7 +120,7 @@ Service as commissioned officer.—An individual who, for the 5-year period foll
 
 &emsp;(2)
 
-Modification or waiver.—The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
+Modification or waiver.—The Secretary may modify or waive any of the terms andconditions set forth in subsection (d) through the imposition of alternative service requirements.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 114–92, div. C, title XXXV, §3507, Nov. 25, 2015, 129 Stat. 1221.)
 

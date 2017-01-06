@@ -24,7 +24,7 @@ For purposes of this subpart:
 
 &emsp;(4) The term "final dosage form" means, with respect to a prescription drug product, a finished dosage form which is approved for administration to a patient without substantial further manufacturing (such as capsules, tablets, or lyophilized products before reconstitution).
 
-&emsp;(5) The term "prescription drug establishment" means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form. For purposes of this paragraph, the term "manufactured" does not include packaging.
+&emsp;(5) The term "prescription drug establishment" means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form.For purposes of this paragraph, the term "manufactured" does not include packaging.
 
 &emsp;(6) The term "process for the review of human drug applications" means the following activities of the Secretary with respect to the review of human drug applications and supplements:
 
@@ -208,7 +208,7 @@ Recommendations.—The Secretary shall publish in the Federal Register recommend
 
 "(b)
 
-Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 502(4) \[section 502(4) of Pub. L. 107–188, set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goalsidentified in the letters described in section 502(4) \[section 502(4) of Pub. L. 107–188, set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
 "(c)
 
@@ -260,7 +260,7 @@ Pub. L. 102–571, title I, §102, Oct. 29, 1992, 106 Stat. 4491, provided that:
 
 &emsp;"(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of human drug applications; and
 
-&emsp;"(3) the fees authorized by this title \[see Short Title of 1992 Amendment note, set out under section 301 of this title\] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992)."
+&emsp;"(3) the fees authorized by this title \[see Short Title of 1992 Amendment note, set out under section301 of this title\] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992)."
 
 #### Annual Reports
 
@@ -268,7 +268,7 @@ Pub. L. 105–115, title I, §104, Nov. 21, 1997, 111 Stat. 2304, provided that:
 
 "(a)
 
-Performance Report.—Beginning with fiscal year 1998, not later than 60 days after the end of eachfiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(4) \[section 101(4) of Pub. L. 105–115, set out above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+Performance Report.—Beginning with fiscal year 1998, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(4) \[section 101(4) of Pub. L. 105–115, set out above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
 "(b)
 

@@ -28,7 +28,7 @@ The Secretary, acting through the Chief of the Forest Service, shall manage the 
 
 #### (c) Grazing
 
-The grazing of livestock on Federal lands may be permitted to continue pursuant to Federal law and subject to such reasonable regulations, policies, and practices as the Secretary considers necessary.
+The grazing of livestock on Federal lands may be permitted to continue pursuant to Federal law and subject to such reasonable regulations,policies, and practices as the Secretary considers necessary.
 
 #### (d) Preventive measures
 

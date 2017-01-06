@@ -24,7 +24,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 &emsp;(1) the development of defense plans;
 
-&emsp;(2) the training of personnel in the employment of and defense against atomic weaponsand other military applications of atomic energy;
+&emsp;(2) the training of personnel in the employment of and defense against atomic weapons and other military applications of atomic energy;
 
 &emsp;(3) the evaluation of the capabilities of potential enemies in the employment of atomic weapons and other military applications of atomic energy; and
 
@@ -34,7 +34,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 #### (c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors
 
-In addition to the cooperation authorized in subsections (a) and (b) of this section, the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
+In addition to the cooperation authorized in subsections (a) and (b), the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
 
 &emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>, That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
 
@@ -44,7 +44,7 @@ In addition to the cooperation authorized in subsections (a) and (b) of this sec
 
 #### (d) By Department of Energy
 
-(1) In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
+(1) In addition to the cooperation authorized in subsections (a), (b), and (c), the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making suchdetermination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
 
 &emsp;(A) the support of a program for the control of and accounting for fissile material and other weapons material;
 
@@ -64,7 +64,7 @@ In addition to the cooperation authorized in subsections (a) and (b) of this sec
 
 #### (e) Communication of data by other Government agencies
 
-The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d) of this section, such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
+The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d), such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
 
 (Aug. 1, 1946, ch. 724, title I, §144, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–479, §§5–7, July 2, 1958, 72 Stat. 278; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–337, div. C, title XXXI, §3155(a), (c)(4), Oct. 5, 1994, 108 Stat. 3091, 3092.)
 
@@ -88,5 +88,5 @@ Authority vested in President by subsecs. (b) and (c) of this section delegated 
 
 #### Prohibition on Inspections
 
-Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, which was formerly set out as a noteunder this section, was renumbered section 4501(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, and is classified to section 2651(a) of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, which was formerly set out as a note under this section, was renumbered section 4501(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, and is classified to section 2651(a) of Title 50, War and National Defense.
 

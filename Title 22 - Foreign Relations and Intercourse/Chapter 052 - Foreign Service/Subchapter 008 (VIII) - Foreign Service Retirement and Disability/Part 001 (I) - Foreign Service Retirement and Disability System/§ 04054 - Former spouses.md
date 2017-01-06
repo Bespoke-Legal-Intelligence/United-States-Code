@@ -12,7 +12,7 @@
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
-(3) The annuity of a former spouse under this subsection commences on the later of the day the participant upon whose service the annuity is based becomes entitled to an annuity under this part or the first day of the month in which the divorce or annulment involved becomes final. The annuity of such former spouse and the right thereto terminate on—
+(3) The annuity of a former spouse under this subsection commences on the later of the day the participant upon whose service the annuity is based becomes entitled to an annuity under this part or the first day of the month in which the divorce or annulment involved becomesfinal. The annuity of such former spouse and the right thereto terminate on—
 
 &emsp;(A) the last day of the month before the former spouse dies or remarries before 60 years of age; or
 
@@ -20,7 +20,7 @@
 
 (4) No spousal agreement or court order under section 4060(b)(1) of this title involving any participant may provide for an annuity or any combination of annuities under this subsection which exceeds the annuity of the participant, nor may any such court order relating to an annuity under this subsection be given effect if it is issued more than 24 months after the date the divorce or annulment involved becomes final.
 
-(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spousebased upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
+(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
 
 (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) a spousal agreement or court order under section 4060(b)(1) of this title may provide for,
 
-> an additional survivor annuity under this subsection for any other former spouse or spouse surviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Secretary of State.
+> an additional survivor annuity under this subsection for any other former spouse or spousesurviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Secretary of State.
 
 (2) Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant or former participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section and section 4046 of this title, shall exceed 55 percent of the full amount of the participant's annuity, as computed under section 4046(a) of this title.
 
@@ -138,7 +138,7 @@ Exceptions.—
 
 "(c)
 
-Definitions.—For the purpose of this section, the terms 'participant' and 'former participant' have the same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\]."
+Definitions.—For the purpose of this section, the terms 'participant' and 'former participant' havethe same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\]."
 
 #### Effective Date of 1986 Amendment
 

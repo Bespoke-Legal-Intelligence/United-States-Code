@@ -1,6 +1,6 @@
 ### §12301. Reserve components generally
 
-(a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status maynot be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
+(a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
 
 (b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
 
@@ -30,7 +30,7 @@
 
 (3) A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to active duty under this subsection only with the consent of the Governor or other appropriate authority of the State concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 106–65, div. A, title V, §512, Oct. 5, 1999, 113 Stat. 592; Pub. L. 108–375, div. A, title V, §514(a), Oct. 28, 2004, 118 Stat. 1882.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992,3017; Pub. L. 106–65, div. A, title V, §512, Oct. 5, 1999, 113 Stat. 592; Pub. L. 108–375, div. A, title V, §514(a), Oct. 28, 2004, 118 Stat. 1882.)
 
 Historical and Revision Notes<br>1956
 
@@ -68,7 +68,7 @@ July 9, 1952, ch. 608, §§233 (less (b) and (f)), 234 (1st sentence), 66 Stat. 
 
 In subsection (a), the word "hereafter" is omitted as surplusage. The words "there are not enough \* \* \* who are" are substituted for the words "adequate numbers of \* \* \* are not". The words "without the consent of the persons affected" and "under the jurisdiction of that Secretary" are inserted for clarity. The words "and the members thereof" are omitted as surplusage.
 
-In subsection (b), the words "without the consent of the persons affected" are substituted for the words "without his consent", since units as well as individuals are covered by the revised subsection. The words "and the members thereof", "and required to perform","or required to serve on", and "in the service of the United States" are omitted as surplusage.
+In subsection (b), the words "without the consent of the persons affected" are substituted for the words "without his consent", since units as well as individuals are covered by the revised subsection. The words "and the members thereof", "and required to perform", "or required to serve on", and "in the service of the United States" are omitted as surplusage.
 
 In subsections (b) and (d), the words "active duty for training" are omitted as covered by the words "active duty".
 
@@ -148,7 +148,7 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub.L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
 
 #### Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves
 

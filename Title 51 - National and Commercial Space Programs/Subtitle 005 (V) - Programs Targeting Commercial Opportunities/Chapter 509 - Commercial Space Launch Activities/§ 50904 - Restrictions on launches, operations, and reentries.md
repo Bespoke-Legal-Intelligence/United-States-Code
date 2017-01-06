@@ -88,5 +88,5 @@ Subsec. (a)(3), (4). Pub. L. 105–303, §102(a)(5)(B), (C), inserted "or reentr
 
 Subsec. (b). Pub. L. 105–303, §102(a)(5)(D), struck out "launch" before "license" and inserted "or reenter" after "may launch" and "or reentering" after "related to launching".
 
-Subsec. (c). Pub. L. 105–303, §102(a)(5)(E), substituted "Preventing Launches and Reentries" for "Preventing Launches" in heading and inserted "or reentry" after"prevent the launch" and after "decides the launch" in second sentence.
+Subsec. (c). Pub. L. 105–303, §102(a)(5)(E), substituted "Preventing Launches and Reentries" for "Preventing Launches" in heading and inserted "or reentry" after "prevent the launch" and after "decides the launch" in second sentence.
 

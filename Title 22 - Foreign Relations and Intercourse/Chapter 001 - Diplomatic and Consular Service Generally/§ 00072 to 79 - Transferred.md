@@ -16,5 +16,5 @@ Section 77, R.S. §1711, which related to following testamentary directions by a
 
 Section 78, act June 30, 1902, ch. 1331, §1, 32 Stat. 546, which related to appointment of a consular officer as a trust officer for settlement or conservation of an estate, was transferred to section 4198 of this title.
 
-Section 79, act June 30, 1902, ch. 1331, §2, 32 Stat. 547, which related to failure of a consular officer to postbond prior to appointment as an administrator, was transferred to section 4199 of this title.
+Section 79, act June 30, 1902, ch. 1331, §2, 32 Stat. 547, which related to failure of a consular officer to post bond prior to appointment as an administrator, was transferred to section 4199 of this title.
 

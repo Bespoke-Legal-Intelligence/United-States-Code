@@ -12,7 +12,7 @@ Providing that the Egg Board, and alternates therefor, shall be composed of egg 
 
 #### (c) Advertising, sales promotion, consumer education, and research and development plans or projects; development and submittal to Secretary by Board
 
-Providing that the Egg Board shall, subject to the provisions of subsection (g) of this section, develop and submit to the Secretary for his approval any advertising, sales promotion, consumer education, research, and development plans or projects, and that any such plan or project must be approved by the Secretary before becoming effective.
+Providing that the Egg Board shall, subject to the provisions of subsection (g) of this section,develop and submit to the Secretary for his approval any advertising, sales promotion, consumer education, research, and development plans or projects, and that any such plan or project must be approved by the Secretary before becoming effective.
 
 #### (d) Budgets; submittal to Secretary by Board
 
@@ -54,7 +54,7 @@ Providing that the total costs incurred by the Egg Board for a fiscal year in co
 
 #### Amendments
 
-<b>1993</b>—Subsec. (d). Pub. L. 103–188, §3, inserted at end "In preparing a budget for each of the 1994 and subsequent fiscal years, the Egg Board shall, to the maximum extent practicable, allocate a proportion of funds for research projects under this chapter that is comparable to the proportion of funds that were allocated for research projects under this chapter in the budget of the Egg Board for fiscal year 1993."
+<b>1993</b>—Subsec. (d). Pub. L. 103–188, §3, inserted at end "In preparing a budget for each of the 1994 and subsequent fiscal years, the Egg Board shall, to the maximum extent practicable, allocate a proportion of funds for research projects under this chapter that is comparable to the proportion of funds that were allocatedfor research projects under this chapter in the budget of the Egg Board for fiscal year 1993."
 
 Subsec. (e). Pub. L. 103–188, §2(a), designated first and second sentences of existing provisions as par. (1), added par. (2) and struck out third and fourth sentences of existing provisions which read as follows: "For fiscal year 1981, the rate of assessment prescribed by the order shall not exceed 7½ cents per case of commercial eggs or the equivalent thereof. For each fiscal year thereafter, the rate of assessment may be increased by no more than three-quarters of a cent per case of commercial eggs or the equivalent thereof: <i>Provided</i>, That the rate of assessment shall not exceed 10 cents per case of commercial eggs or the equivalent thereof.", and designated fifth and sixth sentences of existing provisions as par. (3).
 

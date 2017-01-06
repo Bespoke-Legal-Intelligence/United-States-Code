@@ -34,7 +34,7 @@ Additional Terms and Conditions.—The Secretary may require such additional ter
 
 (g)
 
-Construction.—Nothing in this section shall be construed to establish a preference for the use as artificial reefs of vessels stricken from the Naval Vessel Register in lieu of other authorized uses of such vessels, including the domestic scrapping of such vessels, or other disposals of such vessels, under this chapter or other applicable authority.
+Construction.—Nothing in this section shall be construed to establish a preference forthe use as artificial reefs of vessels stricken from the Naval Vessel Register in lieu of other authorized uses of such vessels, including the domestic scrapping of such vessels, or other disposals of such vessels, under this chapter or other applicable authority.
 
 (Added Pub. L. 108–136, div. A, title X, §1013(a), Nov. 24, 2003, 117 Stat. 1590; amended Pub. L. 109–364, div. A, title X, §1071(a)(36), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. A, title X, §1073(a)(31), Oct. 28, 2009, 123 Stat. 2474.)
 

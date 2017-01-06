@@ -6,7 +6,7 @@ Any officer or employee of the United States acting in connection with any reven
 
 &emsp;(1) who is guilty of any extortion or willful oppression under color of law; or
 
-&emsp;(2) who knowingly demands other or greater sums than are authorized by law, or receivesany fee, compensation, or reward, except as by law prescribed, for the performance of any duty; or
+&emsp;(2) who knowingly demands other or greater sums than are authorized by law, or receives any fee, compensation, or reward, except as by law prescribed, for the performance of any duty; or
 
 &emsp;(3) who with intent to defeat the application of any provision of this title fails to perform any of the duties of his office or employment; or
 

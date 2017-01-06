@@ -18,7 +18,7 @@
 
 #### (3) Funds not divisible
 
-&emsp;An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
+&emsp;An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> but the funds for the center shall not be divisible.
 
 #### (b) Functions of centers
 
@@ -98,7 +98,7 @@ The Director of the Centers for Disease Control and Prevention shall provide tec
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1), (3), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -109,4 +109,6 @@ Amendment by Pub. L. 111–148 is based on section 130 of title I of S. 1790, On
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment and functions of epidemiology centers.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ Not later than 2 years after December 20, 2010, and every 2 years thereafter, th
 
 #### (2) Report
 
-&emsp;Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory or regulatory changes the Secretary determines appropriate. Such report may be submitted electronically.
+&emsp;Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory or regulatory changes the Secretary determinesappropriate. Such report may be submitted electronically.
 
 (Pub. L. 93–247, title I, §110, formerly §13, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §112, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(6), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §110 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (3), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §118, June 25, 2003, 117 Stat. 813; Pub. L. 111–320, title I, §118, Dec. 20, 2010, 124 Stat. 3475.)
 

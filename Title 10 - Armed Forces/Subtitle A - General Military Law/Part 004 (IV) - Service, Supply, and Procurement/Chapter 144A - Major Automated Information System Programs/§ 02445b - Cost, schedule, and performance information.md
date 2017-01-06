@@ -50,6 +50,10 @@ Elements Regarding Other Major Information Technology Investment Programs.—Wit
 
 (Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(b), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(a), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 111–383, div. A, title VIII, §805(b), Jan. 7, 2011, 124 Stat. 4259; Pub. L. 113–66, div. A, title X, §1092(d)(1), Dec. 26, 2013, 127 Stat. 877; Pub. L. 114–92, div. A, title VIII, §891(a), Nov. 25, 2015, 129 Stat. 951.)
 
+#### Repeal of Section
+
+<i>For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.</i>
+
 #### Amendments
 
 <b>2015</b>—Subsecs. (d), (e). Pub. L. 114–92 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -65,4 +69,12 @@ Elements Regarding Other Major Information Technology Investment Programs.—Wit
 Subsec. (b). Pub. L. 110–417, §812(b)(2), inserted "Regarding Major Automated Information System Programs" after "Elements" in heading.
 
 Subsec. (d). Pub. L. 110–417, §812(b)(3), added subsec. (d).
+
+#### Effective Date of Repeal
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
+#### Effective Date
+
+Section effective Jan. 1, 2008, and applicable with respect to any major automated information system program for which amounts are requested in the budget of the President for a fiscal year after fiscal year 2008, see section 816(c) of Pub. L. 109–364, set out as a note under section 2445a of this title.
 

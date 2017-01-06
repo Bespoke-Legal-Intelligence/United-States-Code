@@ -62,7 +62,7 @@ Provisions to Ensure Collaboration With Employee Representatives.—
 
 &emsp;(1)
 
-In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
+In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensuresthe participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
 
 &emsp;&emsp;(A)
 
@@ -124,7 +124,7 @@ Sense of congress.—It is the sense of Congress that—
 
 &emsp;&emsp;(A) employees of the Department are entitled to fair treatment in any appeals that they bring in decisions relating to their employment; and
 
-&emsp;&emsp;(B) in prescribing regulations for any such appeals procedures, the Secretary and the Director of the Office of Personnel Management—
+&emsp;&emsp;(B) in prescribing regulations for any such appeals procedures, the Secretary and theDirector of the Office of Personnel Management—
 
 &emsp;&emsp;&emsp;(i) should ensure that employees of the Department are afforded the protections of due process; and
 

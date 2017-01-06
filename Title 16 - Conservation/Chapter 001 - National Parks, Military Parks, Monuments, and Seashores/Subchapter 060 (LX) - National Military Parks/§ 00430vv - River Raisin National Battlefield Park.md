@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 3 years after the date on which funds are made available, the Secretary shall complete a general management plan for the Park that, among other things, defines the role and responsibility of the Secretary with regard to the interpretation and the preservation of the site.
+&emsp;&emsp;Not later than 3 years after the date on which funds are made available, the Secretary shall complete a general managementplan for the Park that, among other things, defines the role and responsibility of the Secretary with regard to the interpretation and the preservation of the site.
 
 #### (B) Consultation
 

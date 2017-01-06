@@ -1,6 +1,6 @@
 ### §261. Selection boards; submission of reports
 
-(a) A board convened under section 251 of this title shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review, the Secretary shall submit the report of the board to the President for his approval, modification, or disapproval.
+(a) A board convened under section 251 of this title shall submit its report to the Secretary. Ifthe board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review, the Secretary shall submit the report of the board to the President for his approval, modification, or disapproval.
 
 (b) If any officer recommended for promotion is not acceptable to the President, the President may remove the name of that officer from the report of the board.
 

@@ -12,7 +12,7 @@ Based on section 695a of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary
 
 #### 1949 Act
 
-This section \[section 52\] corrects section 3491 of title 18, U.S.C., so that the references therein will be to thecorrect section numbers in title 28, U.S.C., as revised and enacted in 1948.
+This section \[section 52\] corrects section 3491 of title 18, U.S.C., so that the references therein will be to the correct section numbers in title 28, U.S.C., as revised and enacted in 1948.
 
 #### References in Text
 

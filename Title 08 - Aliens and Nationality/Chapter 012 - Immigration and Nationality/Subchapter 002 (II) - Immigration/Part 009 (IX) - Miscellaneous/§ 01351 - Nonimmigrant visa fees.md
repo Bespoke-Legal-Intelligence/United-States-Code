@@ -44,51 +44,15 @@ Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations
 
 Sunset Provision.—The fee increase authorized under subsection (a) shall terminate on the date that is 5.5 years after the first date on which such increased fee is collected."
 
-Pub. L. 113–42, §2, Oct. 4, 2013, 127 Stat. 552, provided that:
-
-"(a)
-
-In General.—Notwithstanding any other provision of law, the Secretary of State, not later than January 1, 2014, shall increase the fee or surcharge authorized under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note) by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
-
-"(b)
-
-Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), the additional amount collected pursuant \[to\] the fee increase authorized under subsection (a) shall be deposited in the general fund of the Treasury.
-
-"(c)
-
-Sunset Provision.—The fee increase authorized under subsection (a) shall terminate on the date that is 2 years after the first date on which such increased fee is collected."
-
-Pub. L. 110–457, title II, §239, Dec. 23, 2008, 122 Stat. 5085, provided that:
-
-"(a)
-
-Increase in Fee.—Notwithstanding any other provision of law, not later than October 1, 2009, the Secretary of State shall increase by $1 the fee or surcharge assessed under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
-
-"(b)
-
-Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), the additional amount collected pursuant \[to\] the fee increase under subsection (a) shall be deposited in the Treasury.
-
-"(c)
-
-Duration of Increase.—The fee increase authorized under subsection (a) shall terminate on the date that is 3 years after the first date on which such increased fee is collected."
-
-Pub. L. 110–293, title V, §501, July 30, 2008, 122 Stat. 2968, provided that:
-
-"(a)
-
-Fee Increase.—Notwithstanding any other provision of law—
-
-&emsp;"(1) not later than October 1, 2010, the Secretary of State shall increase by $1 the fee or surcharge authorized under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note) for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas; and
-
-&emsp;"(2) not later than October 1, 2013, the Secretary shall increase the fee or surcharge described in paragraph (1) by an additional $1.
-
-"(b)
-
-Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), fees collected under the authority of subsection (a) shall be deposited in the Treasury."
-
-Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, which provided in part that notwithstanding section140(a)(5), and the second sentence of section 140(a)(3), of Pub. L. 103–236 \[below\], fees could be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1), and that all fees so collected would be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs under section 140(a)(2) and would remain available until expended, was from the Department of State and Related Agency Appropriations Act, 2002, and was not repeated in subsequent appropriation acts.
-
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 113–42, §2, Oct. 4, 2013, 127 Stat. 552.
+
+Pub. L. 110–457, title II, §239, Dec. 23, 2008, 122 Stat. 5085.
+
+Pub. L. 110–293, title V, §501, July 30, 2008, 122 Stat. 2968.
+
+Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783.
 
 Pub. L. 106–553, §1(a)(2) \[title IV\], Dec. 21, 2000, 114 Stat. 2762, 2762A–90.
 
@@ -120,7 +84,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IV, §410(a)\], Oct. 21, 1998, 112 S
 
 &emsp;"(ii) ten years after its date of issue.
 
-"(B) At the request of the parent or guardian of any alien under 15 years of age otherwise covered by subparagraph (A), the Secretary of State and the Attorney General may charge the non-reduced fee for the processing of an application for the issuance of a machine readable combined border crossing card and nonimmigrant visa under section 101(a)(15)(B) of the Immigration and Nationality Act provided that the machine readable combined border crossing card and nonimmigrant visa is issued to expire as of the same date as is usually provided for visas issued under that section.
+"(B) At the request of the parent or guardian of any alien under 15 years of age otherwise covered by subparagraph (A), the Secretary of State and the Attorney General may charge the non-reduced fee for the processing of an application for the issuance of a machinereadable combined border crossing card and nonimmigrant visa under section 101(a)(15)(B) of the Immigration and Nationality Act provided that the machine readable combined border crossing card and nonimmigrant visa is issued to expire as of the same date as is usually provided for visas issued under that section.
 
 "(3) Notwithstanding any other provision of law, the Secretary of State shall set the amount of the fee or surcharge authorized pursuant to section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note \[set out below\]) for the processing of machine readable nonimmigrant visas and machine readable combined border crossing cards and nonimmigrant visas at a level that will ensure the full recovery by the Department of State of the costs of processing such machine readable nonimmigrant visas and machine readable combined border crossing cards and nonimmigrant visas, including the costs of processing the machine readable combined border crossing cards and nonimmigrant visas for which the fee is reduced pursuant to this subsection."
 

@@ -22,7 +22,7 @@
 
 (3)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under this subchapter after such funds are paid to the tribally controlled college or university and before such funds are expended for the purpose for which such funds were provided under this subchapter shall be the property of the tribally controlled college or university and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to the tribally controlled college or university under any provision of Federal law.
 
-(B) All interest or investment income described in subparagraph (A) shall be expended by the tribally controlled college or university by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
+(B) All interest or investment income described in subparagraph (A) shall be expended bythe tribally controlled college or university by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
 
 (4) Funds provided under this subchapter may only be invested by the tribally controlled college or university in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
 
@@ -40,11 +40,11 @@ Nothing in this section shall be construed as interfering with, or suspending th
 
 #### References in Text
 
-Public Law 98–192, referred to in subsec. (d), is Pub. L. 98–192, Dec. 1, 1983, 97 Stat. 1335, which enacted sections 1804a and 1831 to 1836 of this title, amended sections 640c–1, 1801 to 1803, and 1805 to 1813 of this title, and enacted provisions set out as a note under section 1815 of this title. For complete classification of Pub. L. 98–192 to the Code, see Tables.
+Public Law 98–192, referred to in subsec. (d), is Pub. L. 98–192, Dec. 1, 1983, 97 Stat. 1335, which enacted sections 1804a and 1831 to 1836 of this title, amended former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title, and enacted provisions set out as a note under section 1815 of this title. For complete classification of Pub. L. 98–192 to the Code, see Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315 inserted subsec. (a) and par. (1) headings, designated introductory provisions and pars. (1) and (2) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in introductory provisions, substituted "Except as provided in paragraph (2) and section 1811 of this title," for "Except as provided in section 1811 of this title,", "approved by the Secretary" for "approved by him", and "product obtained by multiplying" for "product of", in subpar. (A), substituted"section 1801(a)(8) of this title" for "section 1801(a)(7) of this title", in subpar. (B), substituted "$8,000, as adjusted annually for inflation." for "$6,000,", added par. (2), and struck out former concluding provisions which read as follows: "except that no grant shall exceed the total cost of the education program provided by such college or university."
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 inserted subsec. (a) and par. (1) headings, designated introductory provisions and pars. (1) and (2) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in introductory provisions, substituted "Except as provided in paragraph (2) and section 1811 of this title," for "Except as provided in section 1811 of this title,", "approved by the Secretary" for "approved by him", and "product obtained by multiplying" for "product of", in subpar. (A), substituted "section 1801(a)(8) of this title" for "section 1801(a)(7) of this title", in subpar. (B), substituted "$8,000, as adjusted annually for inflation." for "$6,000,", added par. (2), and struck out former concluding provisions which read as follows: "except that no grant shall exceed the total cost of the education program provided by such college or university."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–244, §901(a)(1), (b)(5), (7), substituted "controlled college or university" for "controlled community college" in introductory provisions, "such college or university" for "such college" in par. (1) and concluding provisions, and "$6,000" for "$5,820" in par. (2).
 

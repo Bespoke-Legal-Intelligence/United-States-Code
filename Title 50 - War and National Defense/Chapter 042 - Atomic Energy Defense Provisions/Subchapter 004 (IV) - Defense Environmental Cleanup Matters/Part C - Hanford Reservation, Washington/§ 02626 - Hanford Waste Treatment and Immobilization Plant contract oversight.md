@@ -24,13 +24,13 @@ The duties of the owner's agent under subsection (a) shall include advising the 
 
 #### (1) In general
 
-&emsp;Not later than one year after November 25, 2015, and every 180 days thereafter, the owner'sagent specified in subsection (a) shall submit to the Secretary a report on the advice provided by the owner's agent to the Secretary under that subsection with respect to oversight of the contract described in subsection (b).
+&emsp;Not later than one year after November 25, 2015, and every 180 days thereafter, the owner's agent specified in subsection (a) shall submit to the Secretary a report on the advice provided by the owner's agent to the Secretary under that subsection with respect to oversight of the contract described in subsection (b).
 
 #### (2) Elements
 
 &emsp;The report required by paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) Information on the status of, and the plan for resolving, each unreviewed safety question at each facility covered by the contract described in subsection (b).
+&emsp;&emsp;(A) Information on the status of, and the plan for resolving, each unreviewed safetyquestion at each facility covered by the contract described in subsection (b).
 
 &emsp;&emsp;(B) An identification of each instance of disagreement between the owner's agent and the contractor with respect to whether an unreviewed safety question exists and the plan for resolution of the disagreement.
 

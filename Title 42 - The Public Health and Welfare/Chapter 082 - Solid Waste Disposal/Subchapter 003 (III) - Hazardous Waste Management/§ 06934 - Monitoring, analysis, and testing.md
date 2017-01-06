@@ -22,7 +22,7 @@ An order under subsection (a) or (b) of this section shall require the person to
 
 (1) If the Administrator determines that no owner or operator referred to in subsection (a) or (b) of this section is able to conduct monitoring, testing, analysis, or reporting satisfactory to the Administrator, if the Administrator deems any such action carried out by an owner or operator to be unsatisfactory, or if the Administrator cannot initially determine that there is an owner or operator referred to in subsection (a) or (b) of this section who is able to conduct such monitoring, testing, analysis, or reporting, he may—
 
-&emsp;(A) conduct monitoring, testing, or analysis (or any combination thereof) which he deems reasonable to ascertain the nature and extent of the hazard associated with the site concerned, or
+&emsp;(A) conduct monitoring, testing, or analysis (or any combination thereof) which he deemsreasonable to ascertain the nature and extent of the hazard associated with the site concerned, or
 
 &emsp;(B) authorize a State or local authority or other person to carry out any such action,
 

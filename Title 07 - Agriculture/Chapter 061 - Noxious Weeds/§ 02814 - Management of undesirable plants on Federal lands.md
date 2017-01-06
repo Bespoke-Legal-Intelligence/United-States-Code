@@ -14,7 +14,7 @@ Each Federal agency shall—
 
 #### (b) Environmental impact statements
 
-In the event an environmental assessment or environmental impact statement is required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to implement plant control agreements, Federal agencies shall complete such assessments or statements within 1 year after the requirement for such assessment or statement is ascertained.
+In the event an environmental assessment or environmental impact statement is requiredunder the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to implement plant control agreements, Federal agencies shall complete such assessments or statements within 1 year after the requirement for such assessment or statement is ascertained.
 
 #### (c) Cooperative agreements with State agencies
 

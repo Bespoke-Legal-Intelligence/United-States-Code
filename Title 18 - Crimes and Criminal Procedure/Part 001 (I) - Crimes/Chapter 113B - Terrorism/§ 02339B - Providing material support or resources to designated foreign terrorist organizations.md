@@ -96,7 +96,7 @@ Order granting request.—If the court enters an order granting a request under 
 
 &emsp;&emsp;(C)
 
-Denial of request.—If the court enters an order denying a request of the United States under this paragraph, the United States may take an immediate, interlocutory appeal in accordance with paragraph (5). For purposes of such an appeal, the entire text of the documents to which the request relates, together with any transcripts of arguments made ex parte to the court in connection therewith, shall be maintained under seal and delivered to the appellate court.
+Denial of request.—If the court enters an order denying a request of the United States under this paragraph, the United States may take an immediate, interlocutory appeal in accordance with paragraph (5). For purposes of such an appeal, the entire text of the documents to which the request relates, together with any transcripts of arguments made ex parte to the court in connection therewith, shall be maintainedunder seal and delivered to the appellate court.
 
 &emsp;(2)
 
@@ -204,7 +204,7 @@ Definitions.—As used in this section—
 
 (h)
 
-Provision of Personnel.—No person may be prosecuted under this section in connection with the term "personnel" unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
+Provision of Personnel.—No person may be prosecuted under this section in connectionwith the term "personnel" unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
 
 (i)
 
@@ -272,7 +272,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(6) some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds within the United States, or use the United States as a conduit for the receipt of funds raised in other nations; and
 
-&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct thatany contribution to such an organization facilitates that conduct.
+&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
 
 "(b)
 

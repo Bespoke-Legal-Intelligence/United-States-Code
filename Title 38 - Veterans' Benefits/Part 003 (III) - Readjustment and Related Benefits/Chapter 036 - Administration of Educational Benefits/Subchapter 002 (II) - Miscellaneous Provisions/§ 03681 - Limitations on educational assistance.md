@@ -24,7 +24,7 @@ Section 903 of the Department of Defense Authorization Act, 1981, referred to in
 
 The Hostage Relief Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
-The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (b)(5), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
+The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (b)(5), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see ShortTitle note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) Application for permit
 
-Any person may apply to the Federal land manager for a permit to excavate or remove any archaeological resource located on public lands or Indian lands and to carry out activities associated with such excavation or removal. The application shall be required, under uniform regulations under this chapter, to contain such information as the Federal land manager deems necessary, including information concerning the time, scope, and location and specific purpose of the proposed work.
+Any person may apply to the Federal land manager for a permit to excavate or remove anyarchaeological resource located on public lands or Indian lands and to carry out activities associated with such excavation or removal. The application shall be required, under uniform regulations under this chapter, to contain such information as the Federal land manager deems necessary, including information concerning the time, scope, and location and specific purpose of the proposed work.
 
 #### (b) Determinations by Federal land manager prerequisite to issuance of permit
 
@@ -18,7 +18,7 @@ A permit may be issued pursuant to an application under subsection (a) if the Fe
 
 #### (c) Notification to Indian tribes of possible harm to or destruction of sites having religious or cultural importance
 
-If a permit issued under this section may result in harm to, or destruction of, any religiousor cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
+If a permit issued under this section may result in harm to, or destruction of, any religious or cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
 
 #### (d) Terms and conditions of permit
 
@@ -56,7 +56,7 @@ Upon the written request of the Governor of any State, the Federal land manager 
 
 #### References in Text
 
-The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7,Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 

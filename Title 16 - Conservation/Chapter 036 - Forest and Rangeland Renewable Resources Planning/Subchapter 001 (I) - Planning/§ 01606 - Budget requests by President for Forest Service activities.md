@@ -14,7 +14,7 @@ For the purpose of providing information that will aid Congress in its oversight
 
 #### (d) Required contents of annual evaluation report
 
-These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by section 1602 of this title, together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements ofpertinent costs and benefits. The evaluation shall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limited to, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregone benefits and the rate of return on renewable resources.
+These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by section 1602 of this title, together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements of pertinent costs and benefits. The evaluation shall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limited to, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregone benefits and the rate of return on renewable resources.
 
 #### (e) Additional required contents of annual evaluation report
 
@@ -24,7 +24,7 @@ The reports shall indicate plans for implementing corrective action and recommen
 
 The reports shall be structured for Congress in concise summary form with necessary detailed data in appendices.
 
-(Pub. L. 93–378, §8, formerly §7, Aug. 17, 1974, 88 Stat. 478, renumbered §8 and amended Pub. L. 94–588, §§2, 7, 12(b), Oct. 22, 1976, 90 Stat. 2949, 2956, 2958; Pub. L. 95–313, §15, formerly §12, July 1, 1978, 92 Stat. 374, renumbered §15, Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.)
+(Pub. L. 93–378, §8, formerly §7, Aug. 17, 1974, 88 Stat. 478, renumbered §8 and amended Pub. L.94–588, §§2, 7, 12(b), Oct. 22, 1976, 90 Stat. 2949, 2956, 2958; Pub. L. 95–313, §15, formerly §12, July 1, 1978, 92 Stat. 374, renumbered §15, Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ Pub. L. 96–514, title III, §310, Dec. 12, 1980, 94 Stat. 2984, provided that:
 
 #### "range land data base and its improvement
 
-"The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle productionfrom these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
+"The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
 
 #### "general acceptance of high bound program
 

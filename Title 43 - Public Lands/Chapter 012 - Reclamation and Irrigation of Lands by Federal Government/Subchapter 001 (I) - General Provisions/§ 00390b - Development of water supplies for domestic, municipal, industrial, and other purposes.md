@@ -14,7 +14,7 @@ In carrying out the policy set forth in this section, it is provided that storag
 
 #### (A) In general
 
-&emsp;&emsp;For the period beginning 180 days after June 10, 2014, and ending on January 1, 2016,the Secretary may accept from a State or local interest a plan for the utilization of allocated water storage for future use under this Act.
+&emsp;&emsp;For the period beginning 180 days after June 10, 2014, and ending on January 1, 2016, the Secretary may accept from a State or local interest a plan for the utilization of allocated water storage for future use under this Act.
 
 #### (B) Contents
 
@@ -50,11 +50,7 @@ The provisions of this section shall not be construed to modify the provisions o
 
 Modifications of a reservoir project heretofore authorized, surveyed, planned, or constructed to include storage as provided in subsection (b) which would seriously affect the purposes for which the project was authorized, surveyed, planned, or constructed, or which would involve major structural or operational changes shall be made only upon the approval of Congress as now provided by law.
 
-#### (f) Apalachicola-Chattahoochee-Flint River System and Alabama-Coosa-Tallapoosa River System projects
-
-The Committees of jurisdiction are very concerned about the operation of projects in the Apalachicola-Chattahoochee-Flint River System and the Alabama-Coosa-Tallapoosa River System, and further, the Committees of jurisdiction recognize that this ongoing water resources dispute raises serious concerns related to the authority of the Secretary of the Army to allocate substantial storage at projects to provide local water supply pursuant to the Water Supply Act of 1958 \[43 U.S.C. 390b\] absent congressional approval. Interstate water disputes of this nature are more properly addressed through interstate water agreements that take into consideration the concerns of all affected States including impacts to other authorized uses of the projects, water supply for communities and major cities in the region, water quality, freshwater flows to communities, rivers, lakes, estuaries, and bays located downstream of projects, agricultural uses, economic development, and other appropriate concerns. To that end, the Committees of jurisdiction strongly urge the Governors of the affected States to reach agreement on an interstate water compact as soon as possible, and we pledge our commitment to work with the affected States to ensure prompt consideration and approval of any such agreement. Absent such action, the Committees of jurisdiction should consider appropriate legislation to address these matters including any necessary clarifications to the Water Supply Act of 1958 or other law. This subsection does not alter existing rights or obligations under law.
-
-(Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319; Pub. L. 87–88, §10, July 20, 1961, 75 Stat. 210; Pub. L. 99–662, title IX, §932(a), Nov. 17, 1986, 100 Stat. 4196; Pub. L. 113–121, title I, §§1046(d), 1051(a), June 10, 2014, 128 Stat. 1254, 1259.)
+(Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319; Pub. L. 87–88, §10, July 20, 1961, 75 Stat. 210; Pub. L. 99–662, title IX, §932(a), Nov. 17, 1986, 100 Stat. 4196; Pub. L. 113–121, title I, §§1046(d), 1051(a), June 10, 2014, 128 Stat. 1254, 1259; Pub. L. 114–322, title I, §1187, Dec. 16, 2016, 130 Stat. 1681.)
 
 #### References in Text
 
@@ -62,9 +58,9 @@ The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4,
 
 This Act, referred to in subsec. (c)(1)(A), (2), probably means the Water Supply Act of 1958. See below.
 
-The Water Supply Act of 1958, referred to in subsec. (f), is title III of Pub. L. 85–500, July 3, 1958, 72 Stat. 319, which enacted this section and enacted a provision set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
-
 #### Amendments
+
+<b>2016</b>—Subsec. (f). Pub. L. 114–322 struck out subsec. (f) which related to the Apalachicola-Chattahoochee-Flint River System and Alabama-Coosa-Tallapoosa River System projects.
 
 <b>2014</b>—Subsecs. (c) to (e). Pub. L. 113–121, §1046(d), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -76,13 +72,293 @@ Subsec. (f). Pub. L. 113–121, §1051(a), added subsec. (f).
 
 #### Short Title of 1961 Amendment
 
-Pub. L. 87–88, §11, July 20, 1961, 75 Stat. 210, provided that: "This Act \[amending this section, and sections 1151, 1153 to 1155, 1157 to 1160, 1171 to 1173 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1151, 1157, and 1159 of Title 33\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1961'."
+Pub. L. 87–88, §11, July 20, 1961, 75 Stat. 210, provided that: "This Act \[amending this section, and sections1151, 1153 to 1155, 1157 to 1160, 1171 to 1173 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1151, 1157, and 1159 of Title 33\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1961'."
 
 #### Short Title
 
 Pub. L. 85–500, title III, §302, July 3, 1958, 72 Stat. 320, provided that: "Title III of this Act \[enacting this section\] may be cited as the 'Water Supply Act of 1958'."
 
+#### Storage
+
+Pub. L. 114–322, title III, §4007(a)–(j), Dec. 16, 2016, 130 Stat. 1863–1866, provided that:
+
+"(a)
+
+Definitions.—In this subtitle \[subtitle J (§§4001–4014) of title III of Pub. L. 114–322, see Tables for classification\]:
+
+&emsp;"(1)
+
+Federally owned storage project.—The term 'federally owned storage project' means any project involving a surface water storage facility in a Reclamation State—
+
+&emsp;&emsp;"(A) to which the United States holds title; and
+
+&emsp;&emsp;"(B) that was authorized to be constructed, operated, and maintained pursuant to the reclamation laws.
+
+&emsp;"(2)
+
+State-led storage project.—The term 'State-led storage project' means any project in a Reclamation State that—
+
+&emsp;&emsp;"(A) involves a groundwater or surface water storage facility constructed, operated, and maintained by any State, department of a State, subdivision of a State, or public agency organized pursuant to State law; and
+
+&emsp;&emsp;"(B) provides a benefit in meeting any obligation under Federal law (including regulations).
+
+"(b)
+
+Federally Owned Storage Projects.—
+
+&emsp;"(1)
+
+Agreements.—On the request of any State, any department, agency, or subdivision of a State, or any public agency organized pursuant to State law, the Secretary of the Interior may negotiate and enter into an agreement on behalf of the United States for the design, study, and construction or expansion of any federally owned storage project in accordance with this section.
+
+&emsp;"(2)
+
+Federal cost share.—Subject to the requirements of this subsection, the Secretary of the Interior may participate in a federally owned storage project in an amount equal to not more than 50 percent of the total cost of the federally owned storage project.
+
+&emsp;"(3)
+
+Commencement.—The construction of a federally owned storage project that is the subject of an agreement under this subsection shall not commence until the Secretary of the Interior—
+
+&emsp;&emsp;"(A) determines that the proposed federally owned storage project is feasible in accordance with the reclamation laws;
+
+&emsp;&emsp;"(B) secures an agreement providing upfront funding as is necessary to pay the non-Federal share of the capital costs; and
+
+&emsp;&emsp;"(C) determines that, in return for the Federal cost-share investment in the federally owned storage project, at least a proportionate share of the project benefits are Federal benefits, including water supplies dedicated to specific purposes such as environmental enhancement and wildlife refuges.
+
+&emsp;"(4)
+
+Environmental laws.—In participating in a federally owned storage project under this subsection, the Secretary of the Interior shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+"(c)
+
+State-Led Storage Projects.—
+
+&emsp;"(1)
+
+In general.—Subject to the requirements of this subsection, the Secretary of the Interior may participate in a State-led storage project in an amount equal to not more than 25 percent of the total cost of the State-led storage project.
+
+&emsp;"(2)
+
+Request by governor.—Participation by the Secretary of the Interior in a State-led storage project under this subsection shall not occur unless—
+
+&emsp;&emsp;"(A) the participation has been requested by the Governor of the State in which the State-led storage project is located;
+
+&emsp;&emsp;"(B) the State or local sponsor determines, and the Secretary of the Interior concurs, that—
+
+&emsp;&emsp;&emsp;"(i) the State-led storage project is technically and financially feasible and provides a Federal benefit in accordance with the reclamation laws;
+
+&emsp;&emsp;&emsp;"(ii) sufficient non-Federal funding is available to complete the State-led storage project; and
+
+&emsp;&emsp;&emsp;"(iii) the State-led storage project sponsors are financially solvent;
+
+&emsp;&emsp;"(C) the Secretary of the Interior determines that, in return for the Federal cost-share investment in the State-led storage project, at least a proportional share of the project benefits are the Federal benefits, including water supplies dedicated to specific purposes such as environmental enhancement and wildlife refuges; and
+
+&emsp;&emsp;"(D) the Secretary of the Interior submits to Congress a written notification of these determinations within 30 days of making such determinations.
+
+&emsp;"(3)
+
+Environmental laws.—When participating in a State-led storage project under this subsection, the Secretary shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;"(4)
+
+Information.—When participating in a State-led storage project under this subsection, the Secretary of the Interior—
+
+&emsp;&emsp;"(A) may rely on reports prepared by the sponsor of the State-led storage project, including feasibility (or equivalent) studies, environmental analyses, and other pertinent reports and analyses; but
+
+&emsp;&emsp;"(B) shall retain responsibility for making the independent determinations described in paragraph (2).
+
+"(d)
+
+Authority To Provide Assistance.—The Secretary of the Interior may provide financial assistance under this subtitle to carry out projects within any Reclamation State.
+
+"(e)
+
+Rights To Use Capacity.—Subject to compliance with State water rights laws, the right to use the capacity of a federally owned storage project or State-led storage project for which the Secretary of the Interior has entered into an agreement under this subsection shall be allocated in such manner as may be mutually agreed to by the Secretary of the Interior and each other party to the agreement.
+
+"(f)
+
+Compliance With California Water Bond.—
+
+&emsp;"(1)
+
+In general.—The provision of Federal funding for construction of a State-led storage project in the State of California shall be subject to the condition that the California Water Commission shall determine that the State-led storage project is consistent with the California Water Quality, Supply, and Infrastructure Improvement Act, approved by California voters on November 4, 2014.
+
+&emsp;"(2)
+
+Applicability.—This subsection expires on the date on which State bond funds available under the Act referred to in paragraph (1) are expended.
+
+"(g)
+
+Partnership and Agreements.—The Secretary of the Interior, acting through the Commissioner \[of Reclamation\], may partner or enter into an agreement regarding the water storage projects identified in section 103(d)(1) of the Water Supply, Reliability, and Environmental Improvement Act (Public Law 108–361; 118 Stat. 1688) with local joint powers authorities formed pursuant to State law by irrigation districts and other local water districts and local governments within the applicable hydrologic region, to advance those projects.
+
+"(h)
+
+Authorization of Appropriations.—
+
+&emsp;"(1) $335,000,000 of funding in section 4011(e) \[130 Stat. 1881\] is authorized to remain available until expended.
+
+&emsp;"(2) Projects can only receive funding if enacted appropriations legislation designates funding to themby name, after the Secretary recommends specific projects for funding pursuant to this section and transmits such recommendations to the appropriate committees of Congress.
+
+"(i)
+
+Sunset.—This section shall apply only to federally owned storage projects and State-led storage projects that the Secretary of the Interior determines to be feasible before January 1, 2021.
+
+"(j)
+
+Consistency With State Law.—Nothing in this section preempts or modifies any obligation of the United States to act in conformance with applicable State law."
+
+\[For definition of "Reclamation State" as used in section 4007(a)(1), (2), (d) of Pub. L. 114–322, set out above, see section 4014(8) of Pub. L. 114–322, set out below.\]
+
+#### Savings Language
+
+Pub. L. 114–322, title III, §4012, Dec. 16, 2016, 130 Stat. 1882, provided that:
+
+"(a)
+
+In General.—This subtitle \[subtitle J (§§4001–4014) of title III of Pub. L. 114–322, see Tables for classification\] shall not be interpreted or implemented in a manner that—
+
+&emsp;"(1) preempts or modifies any obligation of the United States to act in conformance with applicable State law, including applicable State water law;
+
+&emsp;"(2) affects or modifies any obligation under the Central Valley Project Improvement Act (\[title XXXIV of\] Public Law 102–575; 106 Stat. 4706), except for the savings provisions for the Stanislaus River predator management program expressly established by section 11(d) and provisions in section 11(g) \[sic; probably means section 4010(d) and (g) of Pub. L. 114–322, 130 Stat. 1874, 1878\];
+
+&emsp;"(3) overrides, modifies, or amends the applicability of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the application of the smelt and salmonid biological opinions to the operation of the Central Valley Project or the State Water Project;
+
+&emsp;"(4) would cause additional adverse effects on listed fish species beyond the range of effects anticipated to occur to the listed fish species for the duration of the applicable biological opinion, using the best scientific and commercial data available; or
+
+&emsp;"(5) overrides, modifies, or amends any obligation of the Pacific Fisheries Management Council, required by the Magnuson Stevens Act \[probably means the Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C. 1801 et seq.\] or the Endangered Species Act of 1973, to manage fisheries off the coast of California, Oregon, or Washington.
+
+"(b)
+
+Successor Biological Opinions.—
+
+&emsp;"(1)
+
+In general.—The Secretaries of the Interior and Commerce shall apply this Act \[see Tables for classification\] to any successor biological opinions to the smelt or salmonid biological opinions only to the extent that the Secretaries determine is consistent with—
+
+&emsp;&emsp;"(A) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), its implementing regulations, and the successor biological opinions; and
+
+&emsp;&emsp;"(B) subsection (a)(4).
+
+&emsp;"(2)
+
+Limitation.—Nothing in this Act shall restrict the Secretaries of the Interior and Commerce from completing consultation on successor biological opinions and through those successor biological opinions implementing whatever adjustments in operations or other activities as may be required by the Endangered Species Act of 1973 and its implementing regulations.
+
+"(c)
+
+Severability.—If any provision of this subtitle, or any application of such provision to any person or circumstance, is held to be inconsistent with any law or the biological opinions, the remainder of this subtitle and the application of this subtitle to any other person or circumstance shall not be affected."
+
+\[For definitions of terms used in section 4012 of Pub. L. 114–322, set out above, see section 4014 of Pub. L. 114–322, set out below.\]
+
+#### Duration
+
+Pub. L. 114–322, title III, §4013, Dec. 16, 2016, 130 Stat. 1883, provided that: "This subtitle \[subtitle J (§§4001–4014) of title III of Pub. L. 114–322, see Tables for classification\] shall expire on the date that is 5 years after the date of its enactment \[Dec. 16, 2016\], with the exception of—
+
+&emsp;"(1) section 4004 \[130 Stat. 1858\], which shall expire 10 years after the date of its enactment; and
+
+&emsp;"(2) projects under construction in sections 4007 \[set out in part as a note above\], 4009(a) \[amending provisions set out as a note under section 10301 of Title 42, The Public Health and Welfare\], and 4009(c) \[amending section 390h of this title\]."
+
 #### Amendment of Contracts Existing Prior to November 17, 1986
 
 Pub. L. 99–662, title IX, §932(b), Nov. 17, 1986, 100 Stat. 4197, provided that: "Nothing in this section \[amending this section\] shall be deemed to amend or require amendment of any valid contract entered into pursuant to the Water Supply Act of 1958 \[this section\], or Federal reclamation law and approved by the Secretary of the Army or the Secretary of the Interior prior to the date of enactment of this Act \[Nov. 17, 1986\]."
+
+#### Definitions
+
+Pub. L. 114–322, title III, §4014, Dec. 16, 2016, 130 Stat. 1883, provided that: "In this subtitle \[subtitle J (§§4001–4014) of title III of Pub. L. 114–322, see Tables for classification\]:
+
+&emsp;"(1)
+
+Assistant administrator.—The term 'Assistant Administrator' means the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration.
+
+&emsp;"(2)
+
+Central valley project.—The term 'Central Valley Project' has the meaning given the term in section 3403 of the Central Valley Project Improvement Act (\[title XXXIV of\] Public Law 102–575; 106 Stat. 4707).
+
+&emsp;"(3)
+
+Commissioner.—The term 'Commissioner' means the Commissioner of Reclamation.
+
+&emsp;"(4)
+
+Delta.—The term 'Delta' means the Sacramento-San Joaquin Delta and the Suisun Marsh (as defined in section 12220 of the California Water Code and section 29101 of the California Public Resources Code (as in effect on the date of enactment of this Act \[Dec. 16, 2016\])).
+
+&emsp;"(5)
+
+Delta smelt.—The term 'Delta smelt' means the fish species with the scientific name Hypomesus transpacificus.
+
+&emsp;"(6)
+
+Director.—The term 'Director' means the Director of the United States Fish and Wildlife Service.
+
+&emsp;"(7)
+
+Listed fish species.—The term 'listed fish species' means—
+
+&emsp;&emsp;"(A) any natural origin steelhead, natural origin genetic spring run Chinook, or genetic winter run Chinook salmon (including any hatchery steelhead or salmon population within the evolutionary significant unit or a distinct population segment); and
+
+&emsp;&emsp;"(B) Delta smelt.
+
+&emsp;"(8)
+
+Reclamation state.—The term 'Reclamation State' means any of the States of—
+
+&emsp;&emsp;"(A) Arizona;
+
+&emsp;&emsp;"(B) California;
+
+&emsp;&emsp;"(C) Colorado;
+
+&emsp;&emsp;"(D) Idaho;
+
+&emsp;&emsp;"(E) Kansas;
+
+&emsp;&emsp;"(F) Montana;
+
+&emsp;&emsp;"(G) Nebraska;
+
+&emsp;&emsp;"(H) Nevada;
+
+&emsp;&emsp;"(I) New Mexico;
+
+&emsp;&emsp;"(J) North Dakota;
+
+&emsp;&emsp;"(K) Oklahoma;
+
+&emsp;&emsp;"(L) Oregon;
+
+&emsp;&emsp;"(M) South Dakota;
+
+&emsp;&emsp;"(N) Texas;
+
+&emsp;&emsp;"(O) Utah;
+
+&emsp;&emsp;"(P) Washington; and
+
+&emsp;&emsp;"(Q) Wyoming.
+
+&emsp;"(9)
+
+Salmonid biological opinion.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'salmonid biological opinion' means the biological and conference opinion of the National Marine Fisheries Service dated June 4, 2009, regarding the long-term operation of the Central Valley Project and the State Water Project, and successor biological opinions.
+
+&emsp;&emsp;"(B)
+
+Inclusions.—The term 'salmonid biological opinion' includes the operative incidental take statement of the opinion described in subparagraph (A).
+
+&emsp;"(10)
+
+Smelt biological opinion.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'smelt biological opinion' means the biological opinion dated December 15, 2008, regarding the coordinated operation of the Central Valley Project and the State Water Project, and successor biological opinions.
+
+&emsp;&emsp;"(B)
+
+Inclusions.—The term 'smelt biological opinion' includes the operative incidental take statement of the opinion described in subparagraph (A).
+
+&emsp;"(11)
+
+State water project.—The term 'State Water Project' means the water project described in chapter 5 of part 3 of division 6 of the California Water Code (sections 11550 et seq.) (as in effect on the date of enactment of this Act \[Dec. 16, 2016\]) and operated by the California Department of Water Resources."
 

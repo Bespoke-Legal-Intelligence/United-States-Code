@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 110–181, §645(a)(3), added subsec. (b). Former subsec. (
 
 Subsec. (c). Pub. L. 110–181, §645(a)(3), added subsec. (c).
 
-Pub. L. 110–181, §645(a)(1), struck out subsec. (c) which read as follows: "Clauses (3) and (4) of subsection (a), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before he acquired a status described in section 1475 or 1476 of this title. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered that status."
+Pub. L. 110–181, §645(a)(1), struck out subsec. (c) which read as follows: "Clauses (3) and (4) of subsection (a), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before he acquired a status described in section1475 or 1476 of this title. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered that status."
 
 Subsec. (d). Pub. L. 110–181, §645(a)(2), redesignated subsec. (b) as (d) and substituted "Treatment of Children.—Subsection (b)(2)" for "Subsection (a)(2)" in introductory provisions.
 

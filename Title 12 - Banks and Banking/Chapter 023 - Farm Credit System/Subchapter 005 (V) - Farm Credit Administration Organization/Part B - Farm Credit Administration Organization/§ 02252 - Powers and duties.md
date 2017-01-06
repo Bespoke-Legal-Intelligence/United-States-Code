@@ -24,7 +24,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;&emsp;&emsp;(i) who has resigned before the time for filing the applicable report with the Farm Credit Administration; or
 
-&emsp;&emsp;&emsp;(ii) whose term of office will expire no later than the date of the meeting of stockholders to which the report relates; or
+&emsp;&emsp;&emsp;(ii) whose term of office will expire no later than the date of the meeting ofstockholders to which the report relates; or
 
 &emsp;&emsp;(B) to a member of the immediate family of a director of the institution unless—
 
@@ -132,7 +132,7 @@ Pub. L. 100–399, §409(e), substituted "approve the consolidation or division 
 
 Pub. L. 100–233, §802(v)(1)(A), substituted "approve amendments to" for "amend or modify".
 
-Pub. L. 100–233, §415(d), substituted "section 2279a of this title" for "section 2181 of this title" and "approve mergers and any related activities as provided for insubchapter VII; and" for "; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and".
+Pub. L. 100–233, §415(d), substituted "section 2279a of this title" for "section 2181 of this title" and "approve mergers and any related activities as provided for in subchapter VII; and" for "; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and".
 
 Pub. L. 100–233, §414, substituted ". The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district" for "; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance".
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendments
 
-Amendment by sections 205 and 409(a), (e) of Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, and amendment by section 901(m), (n) of Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001 of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by sections 205 and 409(a), (e) of Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6,1988, and amendment by section 901(m), (n) of Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001 of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 Amendment by section 207(a)(2) of Pub. L. 100–233 effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100–233 set out as an Effective Date of Repeal note under section 2152 of this title.
 

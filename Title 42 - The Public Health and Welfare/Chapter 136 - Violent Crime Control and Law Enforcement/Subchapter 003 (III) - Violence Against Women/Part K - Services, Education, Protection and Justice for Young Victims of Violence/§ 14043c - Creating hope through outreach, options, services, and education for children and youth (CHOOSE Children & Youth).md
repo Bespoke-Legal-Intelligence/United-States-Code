@@ -42,7 +42,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(B) a victim service provider that is partnered with an entity that has a demonstrated history of effective work addressing the needs of youth; or
 
-&emsp;&emsp;(C) a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department ofDefense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
+&emsp;&emsp;(C) a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, aschool district, or an institution of higher education.
 
 #### (2) Partnerships
 

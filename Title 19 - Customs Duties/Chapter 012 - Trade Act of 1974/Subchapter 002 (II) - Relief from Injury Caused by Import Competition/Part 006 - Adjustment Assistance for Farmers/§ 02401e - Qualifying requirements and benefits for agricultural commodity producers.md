@@ -38,7 +38,7 @@
 
 #### (C) Counter-cyclical and acre payments
 
-&emsp;&emsp;The total amount of payments made to an agricultural commodity producer under this part during any crop year may not exceed the limitations on payments set forth in subsections (b)(2), (b)(3), (c)(2), and (c)(3) of section 1308 of title 7.
+&emsp;&emsp;The total amount of payments made to an agricultural commodity producer under thispart during any crop year may not exceed the limitations on payments set forth in subsections (b)(2), (b)(3), (c)(2), and (c)(3) of section 1308 of title 7.
 
 #### (b) Technical assistance
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An agricultural commodity producer that files an application and meets the requirements under subsection (a)(1) shall be entitled to receive initial technical assistance designed to improve the competitiveness ofthe production and marketing of the agricultural commodity with respect to which the producer was certified under this part. Such assistance shall include information regarding—
+&emsp;&emsp;An agricultural commodity producer that files an application and meets the requirements under subsection (a)(1) shall be entitled to receive initial technical assistance designed to improve the competitiveness of the production and marketing of the agricultural commodity with respect to which the producer was certified under this part. Such assistance shall include information regarding—
 
 &emsp;&emsp;&emsp;(i) improving the yield and marketing of that agricultural commodity; and
 
@@ -128,7 +128,7 @@ An agricultural commodity producer may receive not more than $12,000 under parag
 
 An agricultural commodity producer that receives benefits under this part (other than initial technical assistance under subsection (b)(1)) shall not be eligible for cash benefits under part 2 or 3.
 
-(Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1883(a), Feb. 17, 2009, 123 Stat. 416; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1883(a), Feb. 17, 2009, 123 Stat. 416; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -136,7 +136,7 @@ An agricultural commodity producer that receives benefits under this part (other
 
 #### References in Text
 
-Section 1308–3a of title 7, referred to in subsec. (a)(2)(A), was amended by Pub. L. 113–79, title I,§1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subpars. (A) and (B) of subsec. (b)(1) of section 1308–3a were struck out.
+Section 1308–3a of title 7, referred to in subsec. (a)(2)(A), was amended by Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subpars. (A) and (B) of subsec. (b)(1) of section 1308–3a were struck out.
 
 #### Codification
 

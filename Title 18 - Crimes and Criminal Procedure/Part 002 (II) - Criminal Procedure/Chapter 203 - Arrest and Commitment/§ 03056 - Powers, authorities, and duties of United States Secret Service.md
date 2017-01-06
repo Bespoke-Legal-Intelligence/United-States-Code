@@ -92,7 +92,7 @@ Subsec. (a)(4). Pub. L. 112–257, §2(b), struck out "for a period not to excee
 
 Subsec. (a)(8). Pub. L. 110–326, §102(1), added par. (8).
 
-<b>2006</b>—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting "TheCommittee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2)." after "other members of the Committee.", was executed by making the insertion after "other members of the committee.", to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting "The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2)." after "other members of the Committee.", was executed by making the insertion after "other members of the committee.", to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 109–177, §604, substituted "the Secret Service is" for "officers and agents of the Secret Service are".
 

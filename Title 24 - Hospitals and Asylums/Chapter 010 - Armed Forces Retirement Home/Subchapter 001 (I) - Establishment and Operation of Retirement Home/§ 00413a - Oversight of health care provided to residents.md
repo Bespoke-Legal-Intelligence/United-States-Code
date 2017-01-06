@@ -18,7 +18,7 @@ The Senior Medical Advisor shall provide advice to the Secretary of Defense, the
 
 In carrying out the responsibilities set forth in subsection (b), the Senior Medical Advisor shall perform the following duties:
 
-&emsp;(1) Ensure the timely availability to residents of the Retirement Home, at locationsother than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.
+&emsp;(1) Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.
 
 &emsp;(2) Ensure compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
 

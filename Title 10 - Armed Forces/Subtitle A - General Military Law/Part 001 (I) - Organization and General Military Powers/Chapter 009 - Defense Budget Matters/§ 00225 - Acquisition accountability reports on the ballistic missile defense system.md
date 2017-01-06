@@ -48,7 +48,7 @@ Elements of Baselines.—Each acquisition baseline required by subsection (a) fo
 
 &emsp;(3) A cost estimate, including—
 
-&emsp;&emsp;(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, military construction, operations and sustainment, and disposal;
+&emsp;&emsp;(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, militaryconstruction, operations and sustainment, and disposal;
 
 &emsp;&emsp;(B) program acquisition unit costs for the program element;
 
@@ -99,6 +99,10 @@ Operations and Sustainment Cost Estimates.—The Director shall ensure that each
 #### Amendments
 
 <b>2013</b>—Subsec. (e). Pub. L. 113–66 added subsec. (e).
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Improvement to Operations and Sustainment Cost Estimates
 

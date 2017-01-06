@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Malcolm Baldrige National Quality Award, which shall be evidenced by a medal bearing the inscriptions "Malcolm Baldrige National Quality Award" and "The Quest for Excellence". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
+There is hereby established the Malcolm Baldrige National Quality Award, which shall beevidenced by a medal bearing the inscriptions "Malcolm Baldrige National Quality Award" and "The Quest for Excellence". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
 
 #### (b) Making and presentation of award
 
@@ -58,13 +58,13 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 #### (g) Report
 
-The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
+The Secretary shall prepare and submit to the President and the Congress, within 3 years afterAugust 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
 (Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be givenat no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
 
 <b>2004</b>—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 

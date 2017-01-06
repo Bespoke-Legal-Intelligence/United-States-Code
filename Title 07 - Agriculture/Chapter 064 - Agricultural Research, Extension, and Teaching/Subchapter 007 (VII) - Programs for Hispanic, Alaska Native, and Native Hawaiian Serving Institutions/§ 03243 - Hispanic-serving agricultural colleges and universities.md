@@ -100,7 +100,7 @@ In this section, the term "endowment fund" means the Hispanic-Serving Agricultur
 
 #### (C) Payment of non-Federal share
 
-&emsp;&emsp;A grant awarded under this subsection shall be made only if the recipient of thegrant pays a non-Federal share in an amount that is specified by the Secretary and based on assessed institutional needs.
+&emsp;&emsp;A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount that is specified by the Secretary and based on assessed institutional needs.
 
 #### (3) Authorization of appropriations
 

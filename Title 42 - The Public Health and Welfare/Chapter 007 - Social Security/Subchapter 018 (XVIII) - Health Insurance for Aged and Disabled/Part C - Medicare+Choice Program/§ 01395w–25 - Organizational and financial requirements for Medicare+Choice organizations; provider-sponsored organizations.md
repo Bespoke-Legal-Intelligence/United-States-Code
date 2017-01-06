@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) such requirements are not the same as the solvency standards established under section 1395w–26(a) of this title; or
 
-&emsp;&emsp;&emsp;(ii) the State has imposed as a condition of approval of the license documentation or information requirements relating to solvency or other material requirements, procedures, or standards relating to solvency that are different from the requirements, procedures, and standards applied by the Secretary under subsection (d)(2) of this section.
+&emsp;&emsp;&emsp;(ii) the State has imposed as a condition of approval of the license documentation or information requirements relating to solvency or other material requirements, procedures, or standards relating to solvency that are different from the requirements, procedures, and standards applied by the Secretary under subsection (d)(2).
 
 > &emsp;&emsp;For purposes of this paragraph, the term "solvency requirements" means requirements relating to solvency and other matters covered under the standards established under section 1395w–26(a) of this title.
 
@@ -108,7 +108,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 #### (1) In general
 
-&emsp;Each Medicare+Choice organization that is a provider-sponsored organization, that is not licensed by a State under subsection (a) of this section, and for which a waiver application has been approved under subsection (a)(2) of this section, shall meet standards established under section 1395w–26(a) of this title relating to the financial solvency and capital adequacy of the organization.
+&emsp;Each Medicare+Choice organization that is a provider-sponsored organization, that is not licensed by a State under subsection (a), and for which a waiver application has been approved under subsection (a)(2), shall meet standards established under section 1395w–26(a) of this title relating to the financial solvency and capital adequacy of the organization.
 
 #### (2) Certification process for solvency standards for PSOs
 
@@ -164,7 +164,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;&emsp;(A) any individual who is engaged in the delivery of health care services in a State and who is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, and
 
-&emsp;&emsp;(B) any entity that is engaged in the delivery of health care services in a State and that, if it is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, is so licensed.
+&emsp;&emsp;(B) any entity that is engaged in the delivery of health care services in a State andthat, if it is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, is so licensed.
 
 #### (6) Regulations
 

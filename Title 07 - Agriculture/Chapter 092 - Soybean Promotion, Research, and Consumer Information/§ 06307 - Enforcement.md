@@ -22,7 +22,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (2) Cease-and-desist orders
 
-&emsp;In addition to, or in lieu of, a civil penalty under paragraph (1), the Secretary may issue an order requiring a person to cease and desist from continuing any such violation.
+&emsp;In addition to, or in lieu of, a civil penalty under paragraph (1), the Secretary may issuean order requiring a person to cease and desist from continuing any such violation.
 
 #### (3) Notice and hearing
 

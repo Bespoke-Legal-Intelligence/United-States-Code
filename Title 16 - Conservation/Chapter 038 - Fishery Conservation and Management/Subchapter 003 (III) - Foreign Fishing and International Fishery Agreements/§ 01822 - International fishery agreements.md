@@ -182,7 +182,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–47
 
 &emsp;"(3) seek agreements calling for an international ban on shark-finning and other fishing practices adversely affecting these species through the United Nations, the Food and Agriculture Organization's Committee on Fisheries, and appropriate regional fishery management bodies;
 
-&emsp;"(4) initiate the amendment of any existing international treaty for the protection and conservation of species of sharks to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section;
+&emsp;"(4) initiate the amendment of any existing international treaty for the protection and conservationof species of sharks to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section;
 
 &emsp;"(5) urge other governments involved in fishing for or importation of shark or shark products to fulfill their obligations to collect biological data, such as stock abundance and by-catch levels, as well as trade data, on shark species as called for in the 1995 Resolution on Cooperation with FAO with Regard to study on the Status of Sharks and By-Catch of Shark Species; and
 
@@ -254,7 +254,7 @@ Bilateral or Multilateral Agreements.—Efforts undertaken by the Secretary of S
 
 "(d)
 
-Regulations.—The Secretary of Commerce shall, within 180 days after the date of enactment ofthis Act \[Nov. 28, 1990\], promulgate regulations providing for—
+Regulations.—The Secretary of Commerce shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], promulgate regulations providing for—
 
 &emsp;"(1) the issuance of certificates of legal origin pursuant to agreements under subsection (a) for anadromous fish and anadromous fish products legally harvested by vessels of the United States;
 
@@ -368,7 +368,7 @@ Information From Foreign Governments.—The Secretary, through the Secretary of 
 
 "(a)
 
-Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreementsapplicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
+Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
 
 &emsp;"(1) the effective monitoring and detection of violations;
 

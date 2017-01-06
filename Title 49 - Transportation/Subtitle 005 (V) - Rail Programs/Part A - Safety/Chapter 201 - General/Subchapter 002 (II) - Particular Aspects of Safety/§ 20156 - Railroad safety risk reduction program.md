@@ -64,7 +64,7 @@ Technology analysis.—A railroad carrier's technology implementation plan shall
 
 &emsp;(3)
 
-Implementation schedule.—A railroad carrier's technology implementation plan shall contain a prioritized implementation schedule for the development, adoption, implementation, and use of current, new, or novel technologies on its system to reduce safety risks identified under the railroad safety risk reduction program.
+Implementation schedule.—A railroad carrier's technology implementation plan shall contain a prioritized implementationschedule for the development, adoption, implementation, and use of current, new, or novel technologies on its system to reduce safety risks identified under the railroad safety risk reduction program.
 
 &emsp;(4)
 

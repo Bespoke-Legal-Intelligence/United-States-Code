@@ -14,3 +14,7 @@
 
 (Pub. L. 96–294, title V, §583, June 30, 1980, 94 Stat. 761.)
 
+#### Codification
+
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+

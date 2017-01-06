@@ -20,7 +20,7 @@ The Secretary is authorized to abate the unpaid portion of the assessment of any
 
 #### (d) Assessments attributable to certain mathematical errors by Internal Revenue Service
 
-In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal RevenueService acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
+In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 
 #### (e) Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
 
@@ -296,7 +296,7 @@ Pub. L. 104–168, title VII, §701(d), July 30, 1996, 110 Stat. 1464, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1015(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in theprovision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1015(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6229(b), Nov. 10, 1988, 102 Stat. 3733, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to advice requested on or after January 1, 1989."
 

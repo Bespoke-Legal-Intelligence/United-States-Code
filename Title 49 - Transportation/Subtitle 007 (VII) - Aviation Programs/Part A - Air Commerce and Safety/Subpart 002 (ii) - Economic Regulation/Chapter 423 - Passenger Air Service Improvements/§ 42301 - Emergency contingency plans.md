@@ -40,7 +40,13 @@ Deplaning following an excessive tarmac delay.—For purposes of paragraph (2)(C
 
 &emsp;&emsp;(B) The option described in subparagraph (A) shall be offered to a passenger even if a flight in covered air transportation is diverted to a commercial airport other than the originally scheduled airport.
 
-&emsp;&emsp;(C) Notwithstanding the requirements described in subparagraphs (A) and (B), a passenger shall not have an option to deplane an aircraft and return to the airport terminal in the case of an excessive tarmac delay if—
+&emsp;&emsp;(C) In providing the option described in subparagraph (A), the air carrier shall begin to return the aircraft to a suitable disembarkation point—
+
+&emsp;&emsp;&emsp;(i) in the case of a flight in interstate air transportation, not later than 3 hours after the main aircraft door is closed in preparation for departure; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a flight in foreign air transportation, not later than 4 hours after the main aircraft door is closed in preparation for departure.
+
+&emsp;&emsp;(D) Notwithstanding the requirements described in subparagraphs (A), (B), and (C), a passenger shall not have an option to deplane an aircraft and return to the airport terminal in the case of an excessive tarmac delay if—
 
 &emsp;&emsp;&emsp;(i) an air traffic controller with authority over the aircraft advises the pilot in command that permitting a passenger to deplane would significantly disrupt airport operations; or
 
@@ -62,7 +68,7 @@ Updates.—
 
 &emsp;(1)
 
-Air carriers.—An air carrier shall update each emergency contingency plan submitted by the carrier under subsection (a) every 3 years and submit the update to the Secretary for review and approval.
+Air carriers.—An air carrier shall update each emergency contingency plan submitted by the carrier under subsection (a)every 3 years and submit the update to the Secretary for review and approval.
 
 &emsp;(2)
 
@@ -82,7 +88,7 @@ Failure to approve or require modifications.—If the Secretary fails to approve
 
 &emsp;(3)
 
-Adherence required.—An air carrier or airport operator shall adhere to an emergencycontingency plan of the carrier or operator approved under this section.
+Adherence required.—An air carrier or airport operator shall adhere to an emergency contingency plan of the carrier or operator approved under this section.
 
 (f)
 
@@ -118,15 +124,31 @@ Tarmac delay.—The term "tarmac delay" means the period during which passengers
 
 &emsp;(4)
 
-Excessive tarmac delay.—The term "excessive tarmac delay" means a tarmac delay that lasts for a length of time, as determined by the Secretary.
+Excessive tarmac delay.—The term "excessive tarmac delay" means a tarmac delay of more than—
 
-(Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 93.)
+&emsp;&emsp;(A) 3 hours for a flight in interstate air transportation; or
+
+&emsp;&emsp;(B) 4 hours for a flight in foreign air transportation.
+
+(Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 93; amended Pub. L. 114–190, title II, §2308(a), (b), July 15, 2016, 130 Stat. 648.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(C). Pub. L. 114–190, §2308(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(3)(D). Pub. L. 114–190, §2308(a)(1), (3), redesignated subpar. (C) as (D) and substituted "subparagraphs (A), (B), and (C)" for "subparagraphs (A) and (B)" in introductory provisions.
+
+Subsec. (i)(4). Pub. L. 114–190, §2308(b), amended par. (4) generally. Prior to amendment, text read as follows: "The term 'excessive tarmac delay' means a tarmac delay that lasts for a length of time, as determined by the Secretary."
+
 #### Effective Date
 
 Pub. L. 112–95, title IV, §415(c), Feb. 14, 2012, 126 Stat. 96, provided that: "Except as otherwise provided, the requirements of chapter 423 of title 49, United States Code, as added by this section, shall begin to apply 60 days after the date of enactment of this Act \[Feb. 14, 2012\]."
+
+#### Regulations
+
+Pub. L. 114–190, title II, §2308(c), July 15, 2016, 130 Stat. 648, provided that: "Not later than 90 days after the date of enactment of this section \[July 15, 2016\], the Secretary of Transportation shall issue regulations and take other actions necessary to carry out the amendments made by this section \[amending this section\]."
 

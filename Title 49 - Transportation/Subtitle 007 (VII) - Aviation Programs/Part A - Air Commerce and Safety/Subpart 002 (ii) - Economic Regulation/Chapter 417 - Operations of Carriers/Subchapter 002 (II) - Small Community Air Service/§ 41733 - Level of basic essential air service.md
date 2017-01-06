@@ -62,7 +62,7 @@ Proposals of State and Local Governments to Restore Eligibility.—
 
 &emsp;(1)
 
-In general.—If the Secretary, after the date of enactment of this subsection, ends payment of compensation to an air carrier for providing basic essential air service to an eligible place because the Secretary has determined that providing such service requires arate of subsidy per passenger in excess of the subsidy cap or that the place is no longer an eligible place pursuant to section 41731(a)(1)(B), a State or local government may submit to the Secretary a proposal for restoring compensation for such service. Such proposal shall be a joint proposal of the State or local government and an air carrier.
+In general.—If the Secretary, after the date of enactment of this subsection, ends payment of compensation to an air carrier for providing basic essential air service to an eligible place because the Secretary has determined that providing such service requires a rate of subsidy per passenger in excess of the subsidy cap or that the place is no longer an eligible place pursuant to section 41731(a)(1)(B), a State or local government may submit to the Secretary a proposal for restoring compensation for such service. Such proposal shall be a joint proposal of the State or local government and an air carrier.
 
 &emsp;(2)
 
@@ -122,7 +122,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(1), (3), (4), (9); added
 
 In subsection (a), the words "the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place" are substituted for "Such determination shall be made" because the determinations for those places have been made. The words "by not later than December 29, 1988" are substituted for "no later than the last day of the 1-year period beginning on December 30, 1987" for clarity. The words "and only after consideration of the views of any interested community and the State agency of the State in which such community is located" and 49 App.:1389(b)(1)(C) are omitted as executed.
 
-In subsections (b)(1) and (e), the words "appropriate State authority" are substituted for "State agency" for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
+In subsections (b)(1) and (e), the words "appropriate State authority" are substituted for "State agency"for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
 
 In section (b)(2), the words "that appears to deprive" are substituted for "which reasonably appears to deprive" to eliminate an unnecessary word.
 

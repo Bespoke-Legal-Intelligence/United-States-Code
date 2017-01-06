@@ -12,7 +12,7 @@ National Executive Committee.—(1) The national executive committee is the gove
 
 (c)
 
-Officers.—(1) The officers of the corporation are a president, a president elect, 3 vice presidents, 3 junior vice presidents, a minimum of 3 national executive committee members, an executive director, a national treasurer, a judge advocate, and other officers specified in the constitution of the corporation.
+Officers.—(1) The officers of the corporation are a president, a president elect, 3 vice presidents, 3 junior vice presidents, a minimumof 3 national executive committee members, an executive director, a national treasurer, a judge advocate, and other officers specified in the constitution of the corporation.
 
 (2) The national officers of the corporation shall be elected and take office at the annual national convention, except for the executive director, the national treasurer, the judge advocate, and any other national officers specified in the constitution of the corporation, who shall be appointed by the national executive committee.
 

@@ -10,7 +10,7 @@ Each standard, regulation, or amendment thereto promulgated pursuant to this sec
 
 #### (c) Collection of information by Commission; confidential status of trade secrets and related information; disclosure of confidential information
 
-The Commission may obtain from any person by regulation or subpena issued pursuant thereto such information in the form of testimony, books, records, or other writings as is pertinent to the findings or determinations which it is required or authorized to make pursuant to this chapter. All information reported to or otherwise obtained by the Commission or its representative pursuant to this subsection which information contains or relates to a trade secretor other matter referred to in section 1905 of title 18, shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Commission or any officer or employee under its control, from the duly authorized committees of the Congress.
+The Commission may obtain from any person by regulation or subpena issued pursuant thereto such information in the form of testimony, books, records, or other writings as is pertinent to the findings or determinations which it is required or authorized to make pursuant to this chapter. All information reported to or otherwise obtained by the Commission or its representative pursuant to this subsection which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Commission or any officer or employee under its control, from the duly authorized committees of the Congress.
 
 #### (d) Applicability of section 553 of title 5; oral presentation
 
@@ -30,7 +30,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 #### (f) Transcript of proceedings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Commission to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e).
+A certified copy of the transcript of the record and proceedings under subsection (e) shall befurnished by the Commission to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e).
 
 #### (g) Promulgation of regulation; commencement of proceeding; publication of prescribed notice of proposed rulemaking
 
@@ -74,7 +74,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 No regulation may be proposed by the Commission under this section unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
-&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
+&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposedregulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
 &emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (g)(5) was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
@@ -92,7 +92,7 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(B) A description of any alternatives to the final regulation which were considered by the Commission, together with a summary description of their potential benefits and costs and a brief explanation of the reasons why these alternatives were not chosen.
 
-&emsp;(C) A summary of any significant issues raised by the comments submitted during thepublic comment period in response to the preliminary regulatory analysis, and a summary of the assessment by the Commission of such issues.
+&emsp;(C) A summary of any significant issues raised by the comments submitted during the public comment period in response to the preliminary regulatory analysis, and a summary of the assessment by the Commission of such issues.
 
 > The Commission shall publish its final regulatory analysis with the regulation.
 

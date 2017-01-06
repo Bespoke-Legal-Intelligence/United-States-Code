@@ -20,7 +20,7 @@ Applies.—The persons referred to in subsection (a) are—
 
 &emsp;(5) the Director of Central Intelligence, the Deputy Director of Central Intelligence, and the Commissioner of Internal Revenue;
 
-&emsp;(6) the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of that committee exercising authority at the national level, during the incumbency of the President; and
+&emsp;(6) the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, andany officer of that committee exercising authority at the national level, during the incumbency of the President; and
 
 &emsp;(7) any individual who held an office or position described in paragraph (1), (2), (3), (4), or (5) for 1 year after leaving the office or position.
 
@@ -166,7 +166,7 @@ Pub. L. 100–191, §6, Dec. 15, 1987, 101 Stat. 1307, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), the amendments made by this Act \[enacting section 599 of this title, amending this section, sections 49 and 592 to 598 of this title, sections 203 and 205 of Pub. L. 95–521 set out in the Appendix to Title 5, Government Organization and Employees, and section 202 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as a note under section 1 of this title, and amending provisions set out below\] take effect on the date of the enactment of this Act \[Dec. 15, 1987\].
+In General.—Subject to subsection (b), the amendments made by this Act \[enacting section 599 of this title, amending this section, sections 49 and 592 to598 of this title, sections 203 and 205 of Pub. L. 95–521 set out in the Appendix to Title 5, Government Organization and Employees, and section 202 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as a note under section 1 of this title, and amending provisions set out below\] take effect on the date of the enactment of this Act \[Dec. 15, 1987\].
 
 "(b)
 
@@ -210,7 +210,7 @@ Pub. L. 95–521, title VI, §604, Oct. 26, 1978, 92 Stat. 1875, provided that: 
 
 #### Permanent Appropriation for Expenses of Independent Counsels
 
-Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329-9, as amended by Pub. L. 111–68, div. A, title I, §1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: "That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law".
+Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, as amended by Pub. L. 111–68, div. A, title I, §1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: "That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law".
 
 #### Contingency Fund for Independent Counsels
 

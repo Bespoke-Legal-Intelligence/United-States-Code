@@ -14,13 +14,7 @@ Automatic Enrollment of Certain Dependents.—(1) In the case of a dependent of 
 
 (b)
 
-Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment of a covered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
-
-(2) Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
-
-&emsp;(A) transmit a written notification of the pending expiration and renewal of enrollment to the covered beneficiary or, in the case of a dependent of a member of the uniformed services, to the member; and
-
-&emsp;(B) afford the beneficiary or member, as the case may be, an opportunity to decline the renewal of enrollment.
+Automatic Renewal of Enrollments of Covered Beneficiaries.—An enrollment of a covered beneficiary in TRICARE Prime shall beautomatically renewed upon the expiration of the enrollment unless the renewal is declined.
 
 (c)
 
@@ -42,9 +36,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term "catchment area", with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801.)
+(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, §723, Dec. 23, 2016, 130 Stat. 2229.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–328 struck out par. (1) designation before "An enrollment" and struck out par. (2) which read as follows: "Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
+
+&emsp;"(A) transmit a written notification of the pending expiration and renewal of enrollment to the covered beneficiary or, in the case of a dependent of a member of the uniformed services, to the member; and
+
+&emsp;"(B) afford the beneficiary or member, as the case may be, an opportunity to decline the renewal of enrollment."
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239 amended subsec. (a) generally. Prior to amendment, text read as follows: "Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time."
 

@@ -10,15 +10,15 @@
 
 &emsp;(1) it is a Coast Guard vessel or aircraft;
 
-&emsp;(2) it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10; or
+&emsp;(2) it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10; <sup>1</sup> or
 
-&emsp;(3) any <sup>1</sup> other vessel or aircraft on government noncommercial service when—
+&emsp;(3) it is any other vessel or aircraft on government noncommercial service when—
 
 &emsp;&emsp;(A) the vessel or aircraft is under the tactical control of the Coast Guard; and
 
 &emsp;&emsp;(B) at least one member of the Coast Guard is assigned and conducting a Coast Guard mission on the vessel or aircraft.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 546; Pub. L. 100–690, title VII, §7401(a), Nov. 18, 1988, 102 Stat. 4483; Pub. L. 106–65, div. A, title X, §1022, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–293, title II, §205(a)–(c), (e)(1), Aug. 9, 2004, 118 Stat. 1032, 1033; Pub. L. 111–281, title II, §213(a), Oct. 15, 2010, 124 Stat. 2915.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 546; Pub. L. 100–690, title VII, §7401(a), Nov. 18, 1988, 102 Stat. 4483; Pub. L. 106–65, div. A, title X, §1022, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–293, title II, §205(a)–(c), (e)(1), Aug. 9, 2004, 118 Stat. 1032, 1033; Pub. L. 111–281, title II, §213(a), Oct. 15, 2010, 124 Stat. 2915; Pub. L. 114–120, title II, §209(9), Feb. 8, 2016, 130 Stat. 41.)
 
 #### Historical and Revision Notes
 
@@ -28,7 +28,13 @@ Aircraft are included within the protective terms of this section which permits 
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### References in Text
+
+Section 379 of title 10, referred to in subsec. (c)(2), was renumbered section 279 of title 10 by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–120 inserted "it is" before "any" in introductory provisions.
 
 <b>2010</b>—Subsec. (c)(3). Pub. L. 111–281 added par. (3).
 
@@ -56,5 +62,5 @@ Pub. L. 108–293, title II, §205(d), Aug. 9, 2004, 118 Stat. 1033, which requi
 
 \[Pub. L. 111–207, §4(a)(5), which directed the repeal of section 205(d) of the Coast Guard and Maritime Transportation Act of 2006, was executed by repealing section 205(d) of Pub. L. 108–293, the Coast Guard and Maritime Transportation Act of 2004, formerly set out above, to reflect the probable intent of Congress.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "it is".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

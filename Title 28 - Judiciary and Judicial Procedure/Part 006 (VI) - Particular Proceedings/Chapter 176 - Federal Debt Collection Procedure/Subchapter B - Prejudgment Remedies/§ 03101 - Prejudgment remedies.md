@@ -48,11 +48,11 @@ Notice and Hearing.—(1) On filing an application by the United States as provi
 
 "notice
 
-"You are hereby notified that this \[property\] is being taken by the United States Government ('the Government'), which says that \[name of debtor\] owes it a debt of $ \[amount\] for \[reason for debt\] and has filed a lawsuit to collect this debt. The Government says it must take this property at this time because \[recite the pertinent ground or grounds from section 3101(b)\]. The Government wants to make sure \[name of debtor\] will pay if the court determines that this money is owed.
+"You are hereby notified that this \[property\] is being taken by the United States Government\('the Government'), which says that \[name of debtor\] owes it a debt of $ \[amount\] for \[reason for debt\] and has filed a lawsuit to collect this debt. The Government says it must take this property at this time because \[recite the pertinent ground or grounds from section 3101(b)\]. The Government wants to make sure \[name of debtor\] will pay if the court determines that this money is owed.
 
 "In addition, you are hereby notified that there are exemptions under the law which may protect some of this property from being taken by the Government if \[name of debtor\] can show that the exemptions apply. Below is a summary of the major exemptions which apply in most situations in the State of \[State where property is located\]:
 
-&emsp;"\[A statement summarizing in plain and understandable English the election availablewith respect to such State under section 3014 and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a), and a statement that different property may be so exempted with respect to the State in which the debtor resides.\]
+&emsp;"\[A statement summarizing in plain and understandable English the election available with respect to such State under section 3014 and the types of property that may be exempted under each of the alternatives specified in paragraphs (1) and (2) of section 3014(a), and a statement that different property may be so exempted with respect to the State in which the debtor resides.\]
 
 "If you are \[name of debtor\] and you disagree with the reason the Government gives for taking your property now, or if you think you do not owe the money to the Government that it says you do, or if you think the property the Government is taking qualifies under one of the above exemptions, you have a right to ask the court to return your property to you.
 

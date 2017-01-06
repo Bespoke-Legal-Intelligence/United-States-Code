@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;It is the purpose of this section to support projects to develop, test, and demonstrate theeffectiveness of services and programs to improve educational opportunities and achievement of Indian children and youth.
+&emsp;It is the purpose of this section to support projects to develop, test, and demonstrate the effectiveness of services and programs to improve educational opportunities and achievement of Indian children and youth.
 
 #### (2) Coordination
 
@@ -56,21 +56,21 @@ The Secretary shall award grants to eligible entities to enable such entities to
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may make multiyear grants under subsection (c) of this section for the planning, development, pilot operation, or demonstration of any activity described in subsection (c) of this section for a period not to exceed 5 years.
+&emsp;&emsp;The Secretary may make multiyear grants under subsection (c) for the planning, development, pilot operation, or demonstration of any activity described in subsection (c) for a period not to exceed 5 years.
 
 #### (B) Priority
 
-&emsp;&emsp;In making multiyear grants described in this paragraph, the Secretary shall give priority to entities submitting applications that present a plan for combining two or more of the activities described in subsection (c) of this section over a period of more than 1 year.
+&emsp;&emsp;In making multiyear grants described in this paragraph, the Secretary shall give priority to entities submitting applications that present a plan for combining two or more of the activities described in subsection (c) over a period of more than 1 year.
 
 #### (C) Progress
 
-&emsp;&emsp;The Secretary shall award grants for an initial period of not more than 3 years and may renew such grants for not more than an additional 2 years if the Secretary determines that the eligible entity has made substantial progress in carrying out the activities assisted under the grant in accordance with the application submitted under paragraph (3) and any subsequent modifications to such application.
+&emsp;&emsp;The Secretary shall award grants for an initial period of not more than 3 years and may renew such grants for not more than an additional 2 years if the Secretary determines that the eligible entity has made substantial progress in carrying out the activities assisted under the grant in accordancewith the application submitted under paragraph (3) and any subsequent modifications to such application.
 
 #### (2) Dissemination grants
 
 #### (A) In general
 
-&emsp;&emsp;In addition to awarding the multiyear grants described in paragraph (1), the Secretary may award grants under subsection (c) of this section to eligible entities for the dissemination of exemplary materials or programs assisted under this section.
+&emsp;&emsp;In addition to awarding the multiyear grants described in paragraph (1), the Secretary may award grants under subsection (c) to eligible entities for the dissemination of exemplary materials or programs assisted under this section.
 
 #### (B) Determination
 

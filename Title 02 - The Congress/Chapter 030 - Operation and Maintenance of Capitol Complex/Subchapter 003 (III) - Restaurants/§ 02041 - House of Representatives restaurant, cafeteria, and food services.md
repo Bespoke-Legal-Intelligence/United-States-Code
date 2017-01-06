@@ -6,7 +6,7 @@ Notwithstanding any other authority with respect to the jurisdiction and control
 
 #### (b) Transfer of accounts, records, supplies, equipment, and assets
 
-The Architect of the Capitol is hereby authorized and directed to transfer, as the Committeeon House Oversight directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Oversight.
+The Architect of the Capitol is hereby authorized and directed to transfer, as the Committee on House Oversight directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Oversight.
 
 #### (c) Special deposit account
 
@@ -64,7 +64,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;"(3) becomes employed to provide such food services under contract, including a successor contract;
 
-> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
+> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or beforethe day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
 
 "(b) The provisions of law referred to in subsection (a) are—
 

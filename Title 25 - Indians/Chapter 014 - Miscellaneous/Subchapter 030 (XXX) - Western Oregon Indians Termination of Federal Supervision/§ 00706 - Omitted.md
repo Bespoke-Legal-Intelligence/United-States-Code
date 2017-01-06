@@ -1,0 +1,6 @@
+### §706. Omitted
+
+#### Codification
+
+Section, act Aug. 13, 1954, ch. 733, §16, 68 Stat. 727, which provided that nothing in this subchapter would affect any claim filed against the United States by any tribe before Aug. 13, 1954, was omitted from the Code as being of special and not general application.
+

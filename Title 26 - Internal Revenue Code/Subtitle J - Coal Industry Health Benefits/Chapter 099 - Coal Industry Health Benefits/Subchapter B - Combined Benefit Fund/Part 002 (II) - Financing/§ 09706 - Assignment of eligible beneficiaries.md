@@ -98,7 +98,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (B) No error
 
-&emsp;&emsp;If the Commissioner of Social Security determines under a review conducted underparagraph (2) that no error occurred, the Commissioner shall notify the assigned operator.
+&emsp;&emsp;If the Commissioner of Social Security determines under a review conducted under paragraph (2) that no error occurred, the Commissioner shall notify the assigned operator.
 
 #### (4) Determinations
 

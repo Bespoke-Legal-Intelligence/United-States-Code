@@ -4,7 +4,7 @@
 
 There are designated as National Scenic Areas—
 
-&emsp;(1) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,192 acres, as generally depicted on the map entitled "Seng Mountain and Raccoon Branch" and dated April 28, 2008, which shall be known as the "Seng Mountain National Scenic Area"; and
+&emsp;(1) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,192 acres, as generally depicted on the map entitled "Seng Mountain and Raccoon Branch" and dated April 28, 2008, whichshall be known as the "Seng Mountain National Scenic Area"; and
 
 &emsp;(2) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,128 acres, as generally depicted on the map entitled "Bear Creek" and dated April 28, 2008, which shall be known as the "Bear Creek National Scenic Area".
 
@@ -134,7 +134,7 @@ Subject to valid existing rights, all Federal land in the scenic areas is withdr
 
 #### References in Text
 
-This subtitle, referred to in subsec. (c)(1)(A), is subtitle B (§§1101–1107) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1002, which enacted this section and section 546b–1 of this title, enacted provisions set out as a note below, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle B to the Code, see Tables.
+This subtitle, referred to in subsec. (c)(1)(A), is subtitle B (§§1101–1107) of title I of Pub. L. 111–11, Mar. 30,2009, 123 Stat. 1002, which enacted this section and section 546b–1 of this title, enacted provisions set out as a note below, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 #### Definitions
 

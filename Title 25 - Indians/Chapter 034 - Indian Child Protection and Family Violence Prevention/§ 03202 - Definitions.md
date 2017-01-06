@@ -40,7 +40,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(9) "Indian reservation" means any Indian reservation, public domain Indian allotment, former Indian reservation in Oklahoma, or lands held by incorporated Native groups, regional corporations, or village corporations under the provisions of the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
 
-&emsp;(10) "Indian tribe" and "tribal organization" have the respective meanings given to each of such terms under section 450b of this title;
+&emsp;(10) "Indian tribe" and "tribal organization" have the respective meanings given to each of such terms under section 5304 of this title;
 
 &emsp;(11) "inter-tribal consortium" means a partnership between—
 
@@ -48,7 +48,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(B) one or more Indian tribes or tribal organizations of one or more other Indian tribes;
 
-&emsp;(12) "local child protective services agency" means that agency of the Federal Government, of a State, or of an Indian tribe that hasthe primary responsibility for child protection on any Indian reservation or within any community in Indian country;
+&emsp;(12) "local child protective services agency" means that agency of the Federal Government, of a State, or of an Indian tribe that has the primary responsibility for child protection on any Indian reservation or within any community in Indian country;
 
 &emsp;(13) "local law enforcement agency" means that Federal, tribal, or State law enforcement agency that has the primary responsibility for the investigation of an instance of alleged child abuse within the portion of Indian country involved;
 

@@ -108,7 +108,7 @@ If a tribal organization or other eligible applicant decides that the objectives
 
 &emsp;&emsp;&emsp;(II) from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
 
-&emsp;&emsp;&emsp;(III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) or tribal budget priority system.
+&emsp;&emsp;&emsp;(III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) <sup>1</sup> or tribal budget priority system.
 
 #### (2) Duration
 
@@ -176,7 +176,7 @@ If a tribal organization or other eligible applicant decides that the objectives
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (e)(1)(B)(ii)(III), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450f et seq.), referred to in subsec. (e)(1)(B)(ii)(III), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 Section 3215 of title 20, referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. Section 5135 of that Act was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 

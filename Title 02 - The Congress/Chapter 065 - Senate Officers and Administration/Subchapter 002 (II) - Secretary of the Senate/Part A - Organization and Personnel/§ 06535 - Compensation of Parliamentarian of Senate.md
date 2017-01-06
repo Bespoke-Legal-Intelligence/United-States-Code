@@ -26,5 +26,5 @@ Increases in compensation for Senate officers and employees under authority of F
 
 #### Secretary of Senate To Fix Compensation of Assistant Parliamentarian
 
-Pub. L. 86–213, Sept. 1, 1959, 73 Stat. 443, authorized Secretary of Senate to fix compensation of AssistantParliamentarian, on and after Sept. 1, 1959, at not to exceed $7,620 basic per annum. See section 6539 of this title.
+Pub. L. 86–213, Sept. 1, 1959, 73 Stat. 443, authorized Secretary of Senate to fix compensation of Assistant Parliamentarian, on and after Sept. 1, 1959, at not to exceed $7,620 basic per annum. See section 6539 of this title.
 

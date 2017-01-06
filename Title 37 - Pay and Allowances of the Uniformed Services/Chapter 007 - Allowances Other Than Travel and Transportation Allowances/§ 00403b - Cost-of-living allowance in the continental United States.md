@@ -76,7 +76,7 @@ Other Definitions.—In this section:
 
 &emsp;&emsp;(B) Any other index developed in the private sector that the Secretary of Defense, in consultation with the other administering Secretaries, determines is comparable to the Consumer Price Index and is appropriate for use for purposes of this section.
 
-&emsp;(3) The term "uniformed services cost of living" means the price index selected as described in paragraph (2) and adjusted as theSecretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
+&emsp;(3) The term "uniformed services cost of living" means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
 
 &emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable to use of such military facilities as commissary stores and exchange stores).
 

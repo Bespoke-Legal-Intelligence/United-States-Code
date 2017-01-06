@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) 
 
 #### (b) Liability
 
-The liability of a receiver or conservator of an uninsured national bank, uninsured Federal branch or agency, a corporation chartered undersection 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, shall be determined in the same manner and subject to the same limitations that apply to receivers and conservators of insured depository institutions under section 11(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(e)\].
+The liability of a receiver or conservator of an uninsured national bank, uninsured Federal branch or agency, a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, shall be determined in the same manner and subject to the same limitations that apply to receivers and conservators of insured depository institutions under section 11(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(e)\].
 
 #### (c) Regulatory authority
 

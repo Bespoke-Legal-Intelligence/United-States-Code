@@ -118,7 +118,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in providing for such implementation, the Secretaryshall not receive or distribute any funds of a manufacturer under the program.
+&emsp;&emsp;Subject to subparagraph (B), in providing for such implementation, the Secretary shall not receive or distribute any funds of a manufacturer under the program.
 
 #### (B) Exception
 
@@ -126,7 +126,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (3) Contract with third parties
 
-&emsp;The Secretary shall enter into a contract with 1 or more third parties to administer the requirements established by the Secretary in order to carry out this section. At a minimum, the contract with a third party under the preceding sentence shall require that the third party—
+&emsp;The Secretary shall enter into a contract with 1 or more third parties to administer the requirements established by the Secretary in order to carry out this section. At a minimum,the contract with a third party under the preceding sentence shall require that the third party—
 
 &emsp;&emsp;(A) receive and transmit information between the Secretary, manufacturers, and other individuals or entities the Secretary determines appropriate;
 
@@ -200,7 +200,7 @@ In this section:
 
 &emsp;&emsp;(B)(i) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan uses a formulary, which is on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in;
 
-&emsp;&emsp;(ii) if the PDP sponsor of the prescription drug plan or the MA organization offeringthe MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
+&emsp;&emsp;(ii) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
 
 &emsp;&emsp;(iii) is provided through an exception or appeal.
 

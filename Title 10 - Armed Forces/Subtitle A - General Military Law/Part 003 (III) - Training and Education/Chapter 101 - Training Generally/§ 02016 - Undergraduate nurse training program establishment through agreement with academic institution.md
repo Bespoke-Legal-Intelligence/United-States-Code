@@ -8,7 +8,7 @@ Establishment Authorized.—(1) To increase the number of nurses in the armed fo
 
 (b)
 
-Graduation Rates.—An undergraduate nurse training program shall have the capacity to graduate 25 students with a bachelor ofscience degree in nursing in the first class of the program, 50 in the second class, and 100 annually thereafter.
+Graduation Rates.—An undergraduate nurse training program shall have the capacity to graduate 25 students with a bachelor of science degree in nursing in the first class of the program, 50 in the second class, and 100 annually thereafter.
 
 (c)
 

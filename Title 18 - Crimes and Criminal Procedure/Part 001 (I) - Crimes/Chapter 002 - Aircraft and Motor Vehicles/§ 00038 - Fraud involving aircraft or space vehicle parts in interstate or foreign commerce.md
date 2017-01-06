@@ -22,7 +22,7 @@ Penalties.—The punishment for an offense under subsection (a) is as follows:
 
 &emsp;(1)
 
-Aviation quality.—If the offense relates to the aviation quality of a part and the partis installed in an aircraft or space vehicle, a fine of not more than $500,000, imprisonment for not more than 15 years, or both.
+Aviation quality.—If the offense relates to the aviation quality of a part and the part is installed in an aircraft or space vehicle, a fine of not more than $500,000, imprisonment for not more than 15 years, or both.
 
 &emsp;(2)
 

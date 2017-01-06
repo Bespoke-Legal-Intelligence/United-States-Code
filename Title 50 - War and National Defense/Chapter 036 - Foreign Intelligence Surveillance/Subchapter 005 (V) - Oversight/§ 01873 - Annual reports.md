@@ -6,7 +6,7 @@
 
 &emsp;The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
 
-&emsp;&emsp;(A) the number of applications or certifications for orders submitted under each ofsections 1805, 1824, 1842, 1861, 1881a, 1881b, and 1881c of this title;
+&emsp;&emsp;(A) the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1881a, 1881b, and 1881c of this title;
 
 &emsp;&emsp;(B) the number of such orders granted under each of those sections;
 
@@ -70,7 +70,7 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 #### (A) Federal Bureau of Investigation
 
-&emsp;&emsp;Paragraphs (2)(A), (2)(B), and (5)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation.
+&emsp;&emsp;Paragraphs (2)(A), (2)(B), and (5)(C) of subsection (b) shall not apply to information orrecords held by, or queries conducted by, the Federal Bureau of Investigation.
 
 #### (B) Electronic mail address and telephone numbers
 

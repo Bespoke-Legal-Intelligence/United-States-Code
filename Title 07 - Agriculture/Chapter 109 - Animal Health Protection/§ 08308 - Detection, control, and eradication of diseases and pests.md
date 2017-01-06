@@ -16,7 +16,7 @@ The Secretary may carry out operations and measures to detect, control, or eradi
 
 #### (3) Reviewability
 
-&emsp;The action of the Secretary in carrying out paragraph (1) shall not be subject to review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+&emsp;The action of the Secretary in carrying out paragraph (1) shall not be subject to review byany officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 (Pub. L. 107–171, title X, §10409, May 13, 2002, 116 Stat. 501; Pub. L. 110–234, title XI, §11011(2), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(2), June 18, 2008, 122 Stat. 1664, 2122.)
 

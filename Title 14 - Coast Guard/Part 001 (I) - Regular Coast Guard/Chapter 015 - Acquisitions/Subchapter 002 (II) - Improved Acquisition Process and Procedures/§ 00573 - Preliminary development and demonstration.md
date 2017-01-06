@@ -16,7 +16,7 @@ Tests and Evaluations.—
 
 &emsp;(1)
 
-In general.—The Commandant shall ensure that the Coast Guard conducts developmental tests and evaluations and operational tests and evaluations of a capability or asset and the subsystems of the capability or asset in accordance with the master plan prepared for the capability or asset under section 572(d)(1).
+In general.—The Commandant shall ensure that the Coast Guard conducts developmental tests and evaluations and operational tests and evaluations of a capability or asset and the subsystems of the capability or asset in accordance with the master plan prepared for the capability or asset under section 572(d)(1).<sup>1</sup>
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Asset already in low, initial, or full-rate production.—If operational test an
 
 &emsp;&emsp;(B) notify the Chief Acquisition Officer and include in such notification—
 
-&emsp;&emsp;&emsp;(i) an explanation of the actions that will be taken to correct or mitigate the safety concern in all capabilities or assets and subsystems of the capabilities or assets yet to be produced, and the date by which those actions will be taken;
+&emsp;&emsp;&emsp;(i) an explanation of the actions that will be taken to correct or mitigate thesafety concern in all capabilities or assets and subsystems of the capabilities or assets yet to be produced, and the date by which those actions will be taken;
 
 &emsp;&emsp;&emsp;(ii) an explanation of the actions that will be taken to correct or mitigate the safety concern in previously produced capabilities or assets and subsystems of the capabilities or assets, and the date by which those actions will be taken; and
 
@@ -81,6 +81,8 @@ Aircraft airworthiness.—The Commandant shall cause all aircraft and aircraft e
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2944; amended Pub. L. 112–213, title II, §210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551.)
 
 #### References in Text
+
+Section 572(d)(1), referred to in subsec. (b)(1), was redesignated section 572(f)(1) of this title by Pub. L. 114–120, title II, §204(a)(1), Feb. 8, 2016, 130 Stat. 34.
 
 The date of enactment of the Coast Guard Authorization Act of 2010, referred to in subsec. (c)(2)(A), (3)(A), (5), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
@@ -131,4 +133,6 @@ Certificate To Operate.—The Commandant of the Coast Guard may not certify a si
 &emsp;&emsp;"(B) increased aerial coverage to support National Security Cutter operations; and
 
 &emsp;"(2) awarded a contract for detailed design and construction for the Offshore Patrol Cutter."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

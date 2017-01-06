@@ -88,7 +88,7 @@ In General.—The following amounts are authorized to be appropriated out of the
 
 &emsp;"(1)
 
-Highway research and development program.—To carry out section 503(b) of title 23, UnitedStates Code, $125,000,000 for each of fiscal years 2016 through 2020.
+Highway research and development program.—To carry out section 503(b) of title 23, United States Code, $125,000,000 for each of fiscal years 2016 through 2020.
 
 &emsp;"(2)
 

@@ -50,9 +50,13 @@
 
 &emsp;&emsp;(N) mitigation and rapid recovery methods;
 
-&emsp;&emsp;(O) security of wireless networks and mobile devices; and
+&emsp;&emsp;(O) security of wireless networks and mobile devices;
 
-&emsp;&emsp;(P) security of cloud infrastructure and services.
+&emsp;&emsp;(P) security of cloud infrastructure and services;
+
+&emsp;&emsp;(Q) security of election-dedicated voting system software and hardware; and
+
+&emsp;&emsp;(R) role of the human factor in cybersecurity and the interplay of computers and humans and the physical world.
 
 #### (2) Merit review; competition
 
@@ -122,7 +126,7 @@
 
 &emsp;&emsp;(J) the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
 
-&emsp;&emsp;(K) the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and high-performance computing, nanotechnology, or industrial control systems.
+&emsp;&emsp;(K) the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and networking and information technology, nanotechnology, or industrial control systems.
 
 #### (6) Annual meeting
 
@@ -142,9 +146,13 @@
 
 &emsp;&emsp;(E) $36,000,000 for fiscal year 2007.
 
-(Pub. L. 107–305, §4, Nov. 27, 2002, 116 Stat. 2368; Pub. L. 113–274, title II, §§201(e), 202, Dec. 18, 2014, 128 Stat. 2978.)
+(Pub. L. 107–305, §4, Nov. 27, 2002, 116 Stat. 2368; Pub. L. 113–274, title II, §§201(e), 202, Dec. 18, 2014, 128 Stat. 2978; Pub. L. 114–329, title I, §§104(a), 105(r), Jan. 6, 2017, 130 Stat. 2975, 2984.)
 
 #### Amendments
+
+<b>2017</b>—Subsec. (a)(1)(Q), (R). Pub. L. 114–329, §104(a), added subpars. (Q) and (R).
+
+Subsec. (b)(5)(K). Pub. L. 114–329, §105(r), substituted "networking and information technology" for "high-performance computing".
 
 <b>2014</b>—Subsec. (a)(1)(J) to (P). Pub. L. 113–274, §201(e), added subpars. (J) to (P).
 

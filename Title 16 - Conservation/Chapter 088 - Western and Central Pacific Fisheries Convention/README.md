@@ -11,6 +11,7 @@
 | [6907\.](%C2%A7%2006907%20-%20Cooperation%20in%20carrying%20out%20convention.md) | Cooperation in carrying out convention. |
 | [6908\.](%C2%A7%2006908%20-%20Territorial%20participation.md) | Territorial participation. |
 | [6909\.](%C2%A7%2006909%20-%20Exclusive%20Economic%20Zone%20notification.md) | Exclusive Economic Zone notification. |
+| [6909a.](%C2%A7%2006909a%20-%20United%20States%20conservation%2C%20management%2C%20and%20enforcement%20objectives.md) | United States conservation, management, and enforcement objectives. |
 | [6910\.](%C2%A7%2006910%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,4 +30,5 @@
 - [&sect; 06907 - Cooperation in carrying out convention](%C2%A7%2006907%20-%20Cooperation%20in%20carrying%20out%20convention.md)
 - [&sect; 06908 - Territorial participation](%C2%A7%2006908%20-%20Territorial%20participation.md)
 - [&sect; 06909 - Exclusive Economic Zone notification](%C2%A7%2006909%20-%20Exclusive%20Economic%20Zone%20notification.md)
+- [&sect; 06909a - United States conservation, management, and enforcement objectives](%C2%A7%2006909a%20-%20United%20States%20conservation%2C%20management%2C%20and%20enforcement%20objectives.md)
 - [&sect; 06910 - Authorization of appropriations](%C2%A7%2006910%20-%20Authorization%20of%20appropriations.md)

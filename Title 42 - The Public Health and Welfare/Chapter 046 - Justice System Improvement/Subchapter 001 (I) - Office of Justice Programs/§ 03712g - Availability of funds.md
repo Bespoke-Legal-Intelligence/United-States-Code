@@ -26,7 +26,7 @@ In this section, the term "DOJ grant funds" means, for a fiscal year, amounts ap
 
 This section applies to DOJ grant funds for fiscal years beginning with fiscal year 2006.
 
-(Pub. L. 90–351, title I, §108, as added Pub. L. 109–162, title XI, §1161(a), Jan. 5, 2006, 119 Stat.3118; amended Pub. L. 109–271, §8(g), Aug. 12, 2006, 120 Stat. 767.)
+(Pub. L. 90–351, title I, §108, as added Pub. L. 109–162, title XI, §1161(a), Jan. 5, 2006, 119 Stat. 3118; amended Pub. L. 109–271, §8(g), Aug. 12, 2006, 120 Stat. 767.)
 
 #### Amendments
 

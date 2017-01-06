@@ -154,7 +154,7 @@ Submission of Reports to Congress, Producers, Packers, and Others.—The reports
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], theSecretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
 
 "(b)
 

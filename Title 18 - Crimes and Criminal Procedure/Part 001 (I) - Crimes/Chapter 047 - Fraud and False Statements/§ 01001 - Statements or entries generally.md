@@ -38,7 +38,7 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–248 inserted last sentence in concluding provisions.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted "be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both" for "be fined under this title orimprisoned not more than 5 years, or both" in concluding provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted "be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both" for "be fined under this title or imprisoned not more than 5 years, or both" in concluding provisions.
 
 <b>1996</b>—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both."
 

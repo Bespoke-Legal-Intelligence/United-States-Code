@@ -1,6 +1,6 @@
 ### §176. Survey of reservations
 
-Whenever it becomes necessary to survey any Indian or other reservations, or any lands, the same shall be surveyed under the direction and control of the Bureau of Land Management, and as nearly as may be in conformity to the rules and regulations under which other public lands are surveyed.
+Whenever it becomes necessary to survey any Indian or other reservations, or any lands, the same shall be surveyed under the direction and control of the Bureau of Land Management, and as nearly as may be in conformity to the rulesand regulations under which other public lands are surveyed.
 
 (R.S. §2115; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 

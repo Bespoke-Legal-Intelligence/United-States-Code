@@ -178,7 +178,7 @@ Vehicle Safety Technology Defined.—In this section, the term 'vehicle safety t
 
 "(c)
 
-Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
+Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level ofsafety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
 
 #### Operators of Hi-Rail Vehicles
 
@@ -290,7 +290,7 @@ Advanced glazing.—The term 'advanced glazing' means glazing installed in a por
 
 &emsp;"(2)
 
-Bus.—The term 'bus' has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L.112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]).
+Bus.—The term 'bus' has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]).
 
 &emsp;"(3)
 
@@ -298,7 +298,7 @@ Commercial motor vehicle.—Except as otherwise specified, the term 'commercial 
 
 &emsp;"(4)
 
-Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system' means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
+Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system'means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
 
 &emsp;"(5)
 
@@ -426,7 +426,7 @@ Report.—The Secretary shall submit a report on the assessment to the Committee
 
 "(a)
 
-Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression, prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
+Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression,prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
 
 "(b)
 
@@ -692,11 +692,11 @@ Construction.—Nothing in this section shall be construed as authority for the 
 
 #### Hours of Service Rules for Operators Providing Transportation to Movie Production Sites
 
-Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: "Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or froma theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003."
+Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: "Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003."
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safetyregulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
@@ -774,7 +774,7 @@ Ground water well drilling rig.—The term 'ground water well drilling rig' mean
 
 &emsp;"(4)
 
-Transportation of construction materials and equipment.—The term 'transportation of construction materials and equipment' means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, uponnotice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under section 5103 of title 49, United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
+Transportation of construction materials and equipment.—The term 'transportation of construction materials and equipment' means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under section 5103 of title 49, United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
 
 &emsp;"(5)
 
@@ -840,55 +840,5 @@ Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related 
 
 #### Winter Home Heating Oil Delivery State Flexibility Program
 
-Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by Pub. L. 105–178, title I, §1211(j), June 9, 1998, 112 Stat. 192; Pub. L. 105–206, title IX, §9003(d)(3), July 22, 1998, 112 Stat. 839, provided that:
-
-"(a)
-
-In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant tosections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
-
-"(b)
-
-Approval Criteria.—The Secretary shall select States to participate in the pilot program upon approval of applications submitted by States to the Secretary. The Secretary shall act on a State's application within 30 days after the date of its submission. The Secretary may only approve an application of a State under this section if the Secretary finds, at a minimum, that—
-
-&emsp;"(1) a substantial number of the citizens of the State rely on home heating oil for heat during winter months;
-
-&emsp;"(2) current maximum on-duty time regulations may endanger the welfare of these citizens by impeding timely deliveries of home heating oil;
-
-&emsp;"(3) the State will ensure an equal to or greater level of safety with respect to home heating oil deliveries than the level of safety resulting from compliance with the regulations referred to in subsection (a);
-
-&emsp;"(4) the State will monitor the safety of home heating oil deliveries while participating in the program;
-
-&emsp;"(5) employers of deliverers of home heating oil that will be covered by the program will agree to make all safety data developed from the pilot program available to the State and to the Secretary;
-
-&emsp;"(6) the State will only permit employers of deliverers of home heating oil with satisfactory safety records to be covered by the program; and
-
-&emsp;"(7) the State will comply with such other criteria as the Secretary determines are necessary to implement the program consistent with this section.
-
-"(c)
-
-Participation in Program.—Upon approval of an application of a State under this section, the Secretary shall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State's continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State's participation in the program for periods of up to 30 additional days during such heating season.
-
-"(d)
-
-Suspension From Program.—The Secretary may suspend a State's participation in the pilot program at any time if the Secretary finds—
-
-&emsp;"(1) that the State has not complied with any of the criteria for participation in the program under this section;
-
-&emsp;"(2) that a State's participation in the program has caused a significant adverse impact on public safety and is not in the public interest; or
-
-&emsp;"(3) the existence of an emergency.
-
-"(e)
-
-Review by Secretary.—Within 90 days after the completion of the pilot program, the Secretary shall initiate a rulemaking to determine, based in part on the results of the program, whether to—
-
-&emsp;"(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in section 31136(e) of title 49, United States Code; or
-
-&emsp;"(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility to motor carriers delivering home heating oil during winter periods of peak demand.
-
-"(f)
-
-Definition.—In this section, the term '7 or 8 consecutive days' has the meaning such term has under section 345 of this Act \[set out above\]."
-
-<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(11), (f), (g), Dec. 4, 2015, 129 Stat. 1526, provided that, effective Oct. 1, 2016, section 346 of Pub. L. 104–59, set out above, is repealed, subject to a transition provision.\]</i>
+Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by Pub. L. 105–178, title I, §1211(j), June 9, 1998, 112 Stat. 192; Pub. L. 105–206, title IX, §9003(d)(3), July 22, 1998, 112 Stat. 839, which related to a pilot program for evaluating effects of maximum on-duty time regulations on winter home heating oil delivery, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(11), Dec. 4, 2015, 129 Stat. 1526, effective Oct. 1, 2016.
 

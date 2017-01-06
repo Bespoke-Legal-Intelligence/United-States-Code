@@ -12,9 +12,9 @@ Unless the Secretary finds, after consultation with local and regional public of
 
 &emsp;South 48 degrees 59 minutes 27 seconds west, 118.77 feet; south 37 degrees 07 minutes 01 seconds west, 232.00 feet; south 23 degrees 17 minutes 10 seconds west, 430.03 feet; south 31 degrees 25 minutes 46 seconds west, 210.95 feet; south 79 degrees 22 minutes 49 seconds west, 244.18 feet; north 55 degrees 00 minutes 29 seconds west, 183.10 feet; north 41 degrees 47 minutes 04 seconds west, 315.16 feet;
 
-&emsp;North 41 degrees 17 minutes 43 seconds west, 492.47 feet to the said Pierhead Line; thence north 73 degrees 58 minutes 40 seconds west and along said pierhead line, 2,665.25 feet to the intersection of the United States bulkhead line;
+&emsp;North 41 degrees 17 minutes 43 seconds west, 492.47 feet to the said Pierhead Line; thencenorth 73 degrees 58 minutes 40 seconds west and along said pierhead line, 2,665.25 feet to the intersection of the United States bulkhead line;
 
-&emsp;Thence north 0 degree 19 minutes 35 seconds west and along the United States Bulkhead line 1,138.50 feet to the intersection of thewesterly prolongation of the center line of 26th Avenue,
+&emsp;Thence north 0 degree 19 minutes 35 seconds west and along the United States Bulkhead line 1,138.50 feet to the intersection of the westerly prolongation of the center line of 26th Avenue,
 
 &emsp;Thence north 58 degrees 25 minutes 06 seconds east and along the center line of said 26th Avenue, 2,320.85 feet to the westerly line of Cropsey Avenue, then southeasterly and along the southerly line of Cropsey Avenue the following bearings and distances:
 
@@ -26,11 +26,11 @@ Coordinates and bearings are in the system as established by the United States C
 
 #### (b) Limits on applicability; regulatory requirements
 
-The declaration under subsection (a) of this section shall apply only to those parts of the areas described in subsection (a) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including, but not necessarily limited to, sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+The declaration under subsection (a) shall apply only to those parts of the areas described in subsection (a) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including, but not necessarily limited to, sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
 #### (c) Expiration date
 
-If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire.
+If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire.
 
 (Pub. L. 100–676, §39, Nov. 17, 1988, 102 Stat. 4039.)
 

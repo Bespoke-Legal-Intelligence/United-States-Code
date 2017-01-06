@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 (8) The term "beneficiary" means a person designated by a participant, or by the terms of an employee benefit plan, who is or may become entitled to a benefit thereunder.
 
-(9) The term "person" means an individual, partnership, joint venture, corporation, mutual company, joint-stock company, trust, estate, unincorporated organization, association, or employee organization.
+(9) The term "person" means an individual, partnership, joint venture, corporation, mutualcompany, joint-stock company, trust, estate, unincorporated organization, association, or employee organization.
 
 (10) The term "State" includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, and the Canal Zone. The term "United States" when used in the geographic sense means the States and the Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331–1343).
 
@@ -94,9 +94,9 @@ For purposes of this subchapter:
 
 (17) The term "separate account" means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
 
-(18) The term "adequate consideration" when used in part 4 of subtitle B of this subchapter means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15, or (ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
+(18) The term "adequate consideration" when used in part 4 of subtitle B means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15, or (ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a securityfor which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
 
-(19) The term "nonforfeitable" when used with respect to a pension benefit or right means a claim obtained by a participant or his beneficiary to that part of an immediate or deferred benefit under a pension plan which arises from the participant's service, which is unconditional, and which is legally enforceable against the plan. For purposes of this paragraph, a rightto an accrued benefit derived from employer contributions shall not be treated as forfeitable merely because the plan contains a provision described in section 1053(a)(3) of this title.
+(19) The term "nonforfeitable" when used with respect to a pension benefit or right means a claim obtained by a participant or his beneficiary to that part of an immediate or deferred benefit under a pension plan which arises from the participant's service, which is unconditional, and which is legally enforceable against the plan. For purposes of this paragraph, a right to an accrued benefit derived from employer contributions shall not be treated as forfeitable merely because the plan contains a provision described in section 1053(a)(3) of this title.
 
 (20) The term "security" has the same meaning as such term has under section 77b(1) <sup>2</sup> of title 15.
 
@@ -140,9 +140,9 @@ For purposes of this subchapter:
 
 (29) The term "accrued liability" means the excess of the present value, as of a particular valuation date of a pension plan, of the projected future benefit costs and administrative expenses for all plan participants and beneficiaries over the present value of future contributions for the normal cost of all applicable plan participants and beneficiaries. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(30) The term "unfunded accrued liability" means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
+(30) The term "unfunded accrued liability" means the excess of the accrued liability, under an actuarial cost method which so provides,over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozeninitial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
+(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
 (32) The term "governmental plan" means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
 
@@ -176,7 +176,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separation from such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
 
-(D)(i) If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26 fails to meet one or more of the requirements of this paragraph and corrects its failure to meet such requirements within the correction period, the plan shall be deemed to meet the requirements of this paragraph for the year in which the correction was made and for all prior years.
+(D)(i) If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26 fails to meet one or more of the requirements of this paragraph and corrects its failure to meet such requirements within the correction period, the plan shall be deemed tomeet the requirements of this paragraph for the year in which the correction was made and for all prior years.
 
 (ii) If a correction is not made within the correction period, the plan shall be deemed not to meet the requirements of this paragraph beginning with the date on which the earliest failure to meet one or more of such requirements occurred.
 
@@ -236,7 +236,7 @@ For purposes of this subchapter:
 
 (G)(i) Within 1 year after August 17, 2006—
 
-&emsp;(I) an election under subparagraph (E) may be revoked, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, if, for each of the 3 plan years prior to August 17, 2006, the plan would have been a multiemployer plan but for the election under subparagraph (E), and
+&emsp;(I) an election under subparagraph (E) may be revoked, pursuant to procedures prescribedby the Pension Benefit Guaranty Corporation, if, for each of the 3 plan years prior to August 17, 2006, the plan would have been a multiemployer plan but for the election under subparagraph (E), and
 
 &emsp;(II) a plan that meets the criteria in clauses (i) and (ii) of subparagraph (A) of this paragraph or that is described in clause (vi) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
@@ -290,7 +290,7 @@ For purposes of this subchapter:
 
 &emsp;(iv) the term "rural electric cooperative" means—
 
-&emsp;&emsp;(I) any organization which is exempt from tax under section 501(a) of title 26 and which is engaged primarily in providing electricservice on a mutual or cooperative basis, and
+&emsp;&emsp;(I) any organization which is exempt from tax under section 501(a) of title 26 and which is engaged primarily in providing electric service on a mutual or cooperative basis, and
 
 &emsp;&emsp;(II) any organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations described in subclause (I), and
 
@@ -322,7 +322,7 @@ The Investment Company Act of 1940, referred to in par. (21)(B), is title I of a
 
 The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 ofTitle 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Sections 1453(b) and (c) of this title, referred to in par. (37)(E), was in the original "sections 4403(b) and (c)", meaning sections 4403(b) and (c) of the Employee Retirement Income Security Act of 1974, which was translated as section 1453(b) and (c) of this title as the probable intent of Congress, in view of the Employee Retirement Income Security Act of 1974 not containing a section 4403 and the subject matter of section 4303 of the Act which is classified to section 1453(b) and (c) of this title.
 
@@ -462,7 +462,7 @@ Pub. L. 101–239, title VII, §7894(a)(1)(B), Dec. 19, 1989, 103 Stat. 2448, pr
 
 Pub. L. 101–239, title VII, §7894(a)(2)(B), Dec. 19, 1989, 103 Stat. 2448, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 136 of Public Law 100–202."
 
-Pub. L. 101–239, title VII, §7894(i), Dec. 19, 1989, 103 Stat. 2452, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section and sections 1021, 1024 to 1026, 1028, 1031, 1051 to 1056, 1060, 1061, 1081, 1082, 1084, 1086, 1103, 1107, 1108, 1113, 1114, 1132, 1144, 1321 to 1322a, 1344,1368, and 1461 of this title\] shall take effect as if originally included in the provision of the Employee Retirement Income Security Act of 1974 \[Pub. L. 93–406\] to which such amendment relates."
+Pub. L. 101–239, title VII, §7894(i), Dec. 19, 1989, 103 Stat. 2452, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section and sections 1021, 1024 to 1026, 1028, 1031, 1051 to 1056, 1060, 1061, 1081, 1082, 1084, 1086, 1103, 1107, 1108, 1113, 1114, 1132, 1144, 1321 to 1322a, 1344, 1368, and 1461 of this title\] shall take effect as if originally included in the provision of the Employee Retirement Income Security Act of 1974 \[Pub. L. 93–406\] to which such amendment relates."
 
 #### Effective Date of 1987 Amendment
 

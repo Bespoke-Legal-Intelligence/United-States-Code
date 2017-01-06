@@ -16,7 +16,7 @@
 
 #### (1) Procedures regarding withholding of funds
 
-&emsp;If research has been recommended for approval for purposes of subsection (a) of this section, the Secretary may not withhold funds for the research because of ethical considerations unless—
+&emsp;If research has been recommended for approval for purposes of subsection (a), the Secretary may not withhold funds for the research because of ethical considerations unless—
 
 &emsp;&emsp;(A) the Secretary convenes an advisory board in accordance with paragraph (5) to study such considerations; and
 
@@ -28,7 +28,7 @@
 
 &emsp;Paragraph (1) may not be construed as prohibiting the Secretary from withholding funds for research on the basis of—
 
-&emsp;&emsp;(A) the inadequacy of the qualifications of the entities that would be involved with the conduct of the research (including the entity that would directly receive the funds from the Secretary), subject to the condition that, with respect to the process of review through which the research was recommended for approval for purposes of subsection (a) of this section, all findings regarding such qualifications made in such process are conclusive; or
+&emsp;&emsp;(A) the inadequacy of the qualifications of the entities that would be involved with the conduct of the research (including the entity that would directly receive the funds from the Secretary), subject to the condition that, with respect to the process of review through which the research was recommended for approval for purposes of subsection (a), all findings regarding such qualifications made in such process are conclusive; or
 
 &emsp;&emsp;(B) the priorities established by the Secretary for the allocation of funds among projects of research that have been so recommended.
 
@@ -38,7 +38,7 @@
 
 #### (4) Preliminary matters regarding use of procedures
 
-&emsp;(A) If the Secretary makes a determination that an advisory board should be convened for purposes of paragraph (1), the Secretary shall, through a statement published in the Federal Register, announce the intention of the Secretary to convene such a board.
+&emsp;(A) If the Secretary makes a determination that an advisory board should be convened forpurposes of paragraph (1), the Secretary shall, through a statement published in the Federal Register, announce the intention of the Secretary to convene such a board.
 
 &emsp;(B) A statement issued under subparagraph (A) shall include a request that interested individuals submit to the Secretary recommendations specifying the particular individuals who should be appointed to the advisory board involved. The Secretary shall consider such recommendations in making appointments to the board.
 
@@ -84,7 +84,7 @@
 
 &emsp;For purposes of this subsection, the term "ethical considerations" means considerations as to whether the nature of the research involved is such that it is unethical to conduct or support the research.
 
-(July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
+(July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107 Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

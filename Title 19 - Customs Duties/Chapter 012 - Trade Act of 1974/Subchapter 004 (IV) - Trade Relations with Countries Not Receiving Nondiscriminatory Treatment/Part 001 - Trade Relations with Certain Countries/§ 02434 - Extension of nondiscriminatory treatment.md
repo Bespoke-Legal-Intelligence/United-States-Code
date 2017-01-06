@@ -196,7 +196,7 @@ Pub. L. 112–208, title III, Dec. 14, 2012, 126 Stat. 1501, provided that:
 
 "Congress finds the following:
 
-&emsp;"(1) Moldova allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of thedesire of those citizens to emigrate to the country of their choice.
+&emsp;"(1) Moldova allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of those citizens to emigrate to the country of their choice.
 
 &emsp;"(2) Moldova has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) since 1997.
 
@@ -224,7 +224,7 @@ Pub. L. 109–205, Mar. 23, 2006, 120 Stat. 313, provided that:
 
 "Congress finds as follows:
 
-&emsp;"(1) Ukraine allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of such citizens to emigrate to the country of their choice.
+&emsp;"(1) Ukraine allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required foremigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of such citizens to emigrate to the country of their choice.
 
 &emsp;"(2) Ukraine has received normal trade relations treatment since 1992 and has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\] since 1997.
 
@@ -484,7 +484,7 @@ Findings.—The Congress finds that Mongolia—
 
 &emsp;"(3) has held four national elections under the new constitution, two presidential and two parliamentary, thereby solidifying the nation's transition to democracy;
 
-&emsp;"(4) has undertaken significant market-based economic reforms, including privatization, the reductionof government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
+&emsp;"(4) has undertaken significant market-based economic reforms, including privatization, the reduction of government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
 
 &emsp;"(5) has concluded a bilateral trade treaty with the United States in 1991, and a bilateral investment treaty in 1994;
 
@@ -612,7 +612,7 @@ Preparatory Presidential Action.—The Congress notes that the President in anti
 
 "(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;"(1) determine that such title should no longer apply to the Czech and Slovak Federal Republic or to the Republic of Hungary, or to both; and
 

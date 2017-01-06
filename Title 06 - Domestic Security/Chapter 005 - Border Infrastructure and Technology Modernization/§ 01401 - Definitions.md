@@ -26,5 +26,5 @@ In this chapter:
 
 #### Short Title
 
-Pub. L. 110–161, div. E, title VI, §601, Dec. 26, 2007, 121 Stat. 2094, provided that: "This title \[enacting thischapter\] may be cited as the 'Border Infrastructure and Technology Modernization Act of 2007'."
+Pub. L. 110–161, div. E, title VI, §601, Dec. 26, 2007, 121 Stat. 2094, provided that: "This title \[enacting this chapter\] may be cited as the 'Border Infrastructure and Technology Modernization Act of 2007'."
 

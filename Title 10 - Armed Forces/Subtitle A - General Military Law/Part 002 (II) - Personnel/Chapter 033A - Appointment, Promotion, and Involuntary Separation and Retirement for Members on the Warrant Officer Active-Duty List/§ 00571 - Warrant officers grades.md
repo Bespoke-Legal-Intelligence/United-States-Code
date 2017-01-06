@@ -38,11 +38,11 @@ Pub. L. 103–337, div. A, title V, §541(h), Oct. 5, 1994, 108 Stat. 2767, prov
 
 #### Effective Date
 
-Chapter effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
 
 #### Short Title
 
-Pub. L. 102–190, div. A, title XI, §1101, Dec. 5, 1991, 105 Stat. 1491, provided that: "This title \[enacting this chapter and section 742 of this title, amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37\] may be cited as the 'Warrant Officer Management Act'."
+Pub. L. 102–190, div. A, title XI, §1101, Dec. 5, 1991, 105 Stat. 1491, provided that: "This title \[enacting thischapter and section 742 of this title, amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37\] may be cited as the 'Warrant Officer Management Act'."
 
 #### Transition and Savings Provisions
 
@@ -156,7 +156,7 @@ Savings Provision.—Subject to subsection (b), a regular warrant officer of the
 
 &emsp;"(2) is on a list of officers recommended for promotion to a regular chief warrant officer grade,
 
-> may be retained on active duty until he completes 30 years of active service or 24 years of active warrant officer service, whichever is later, that could be credited to him under section 511 of the Career Compensation Act of 1949 (70 Stat. 114) \[act Oct. 12, 1949, formerly setout as a note under section 580 of this title\] (as in effect on the day before the effective date of this part \[Feb. 1, 1992\]), and then be retired under the appropriate provision of title 10, United States Code, on the first day of the month after the month in which he completes that service.
+> may be retained on active duty until he completes 30 years of active service or 24 years of active warrant officer service, whichever is later, that could be credited to him under section 511 of the Career Compensation Act of 1949 (70 Stat. 114) \[act Oct. 12, 1949, formerly set out as a note under section 580 of this title\] (as in effect on the day before the effective date of this part \[Feb. 1, 1992\]), and then be retired under the appropriate provision of title 10, United States Code, on the first day of the month after the month in which he completes that service.
 
 "(b)
 

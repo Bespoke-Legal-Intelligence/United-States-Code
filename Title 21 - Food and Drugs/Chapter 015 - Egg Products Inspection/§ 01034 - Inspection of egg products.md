@@ -6,7 +6,7 @@ For the purpose of preventing the entry into or flow or movement in commerce of,
 
 #### (b) Authority of Secretary to retain, segregate, and reinspect eggs and egg products
 
-The Secretary, at any time, shall cause such retention, segregation, and reinspection as he deems necessary of eggs and egg products capable of use as human food in each official plant.
+The Secretary, at any time, shall cause such retention, segregation, and reinspection as hedeems necessary of eggs and egg products capable of use as human food in each official plant.
 
 #### (c) Condemnation of adulterated products; destruction or reprocessing; procedure upon appeal from determination of adulteration
 
@@ -14,7 +14,7 @@ Eggs and egg products found to be adulterated at official plants shall be condem
 
 #### (d) Inspection of business premises, facilities, inventory, operations, and records of egg handlers; inspection of records and inventory of others required to keep records; authority of Secretary of Health and Human Services to inspect food manufacturing establishments, institutions, and restaurants; access to places of business
 
-The Secretary shall cause such other inspections to be made of the business premises, facilities, inventory, operations, and records of egg handlers, and the records and inventory of other persons required to keep records under section 1040 of this title, as he deems appropriate (and in the case of shell egg packers, packing eggs for the ultimate consumer, at least once each calendar quarter) to assure that only eggs fit for human food are used for such purpose, and otherwise to assure compliance by egg handlers and other persons with the requirements of section 1037 of this title, except that the Secretary of Health and Human Services shall cause such inspections to be made as he deems appropriateto assure compliance with such requirements at food manufacturing establishments, institutions, and restaurants, other than plants processing egg products. Representatives of said Secretaries shall be afforded access to all such places of business for purposes of making the inspections provided for in this chapter.
+The Secretary shall cause such other inspections to be made of the business premises, facilities, inventory, operations, and records of egg handlers, and the records and inventory of other persons required to keep records under section 1040 of this title, as he deems appropriate (and in the case of shell egg packers, packing eggs for the ultimate consumer, at least once each calendar quarter) to assure that only eggs fit for human food are used for such purpose, and otherwise to assure compliance by egg handlers and other persons with the requirements of section 1037 of this title, except that the Secretary of Health and Human Services shall cause such inspections to be made as he deems appropriate to assure compliance with such requirements at food manufacturing establishments, institutions, and restaurants, other than plants processing egg products. Representatives of said Secretaries shall be afforded access to all such places of business for purposes of making the inspections provided for in this chapter.
 
 #### (e) Refrigeration and labeling requirements
 

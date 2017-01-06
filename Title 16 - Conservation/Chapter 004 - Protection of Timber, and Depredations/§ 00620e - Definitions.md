@@ -66,7 +66,7 @@ Northwestern private timber open market area.—The term "northwestern private t
 
 &emsp;&emsp;(viii) Aspen or other pulpwood bolts, not exceeding 100 inches in length, exported for processing into pulp.
 
-&emsp;&emsp;(ix) Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs processed atdomestic pulp mills, domestic chip plants, or other domestic operations for the primary purpose of conversion of the logs into chips, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities.
+&emsp;&emsp;(ix) Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs processed at domestic pulp mills, domestic chip plants, or other domestic operations for the primary purpose of conversion of the logs into chips, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities.
 
 &emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in "substitution" for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling for export, unprocessed timber originating from private lands within the same geographic and economic area.
 

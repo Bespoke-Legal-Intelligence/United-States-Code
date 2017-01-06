@@ -6,7 +6,7 @@ There is hereby established in the Unemployment Trust Fund an extended unemploym
 
 #### (b) Transfers to account
 
-(1) Except as provided in paragraph (3), the Secretary of the Treasury shall transfer (as of the close of each month) from the employment security administration account to the extended unemployment compensation account established by subsection (a) of this section, an amount (determined by such Secretary) equal to 20 percent of the amount by which—
+(1) Except as provided in paragraph (3), the Secretary of the Treasury shall transfer (as of the close of each month) from the employment security administration account to the extended unemployment compensation account established by subsection (a), an amount (determined by such Secretary) equal to 20 percent of the amount by which—
 
 &emsp;(A) the transfers to the employment security administration account pursuant to section 1101(b)(2) of this title during such month, exceed
 
@@ -44,7 +44,7 @@ A prior section 1105, act Aug. 14, 1935, ch. 531, title IX, §905, 49 Stat. 641,
 
 <b>1993</b>—Subsec. (b)(1). Pub. L. 103–152 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except as provided in paragraph (3), the Secretary of the Treasury shall transfer (as of the close of each month), from the employment security administration account to the extended unemployment compensation account established by subsection (a) of this section, an amount determined by him to be equal to the sum of—
 
-&emsp;"(A) 100 percent of the transfers to the employment security administration account pursuant to section1101(b)(2) of this title during such month on account of liabilities referred to in section 1101(b)(1)(B) of this title, plus
+&emsp;"(A) 100 percent of the transfers to the employment security administration account pursuant to section 1101(b)(2) of this title during such month on account of liabilities referred to in section 1101(b)(1)(B) of this title, plus
 
 &emsp;"(B) 20 percent of the excess of the transfers to such account pursuant to section 1101(b)(2) of this title during such month on account of amounts referred to in section 1101(b)(1)(A) of this title over the payments during such month from the employment security administration account pursuant to section 1101(b)(3) and (d) of this title.
 

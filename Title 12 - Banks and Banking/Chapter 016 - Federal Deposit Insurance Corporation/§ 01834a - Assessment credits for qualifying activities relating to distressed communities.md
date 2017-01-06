@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
+&emsp;The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depositoryinstitutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
 
 &emsp;&emsp;(A) designate the eligibility requirements for any institution meeting applicable capital standards to receive an assessment credit under section 1817(b)(7) of this title; and
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;(A) At least 30 percent of the residents residing in the area have incomes which are less than the national poverty level.
 
-&emsp;&emsp;(B) The unemployment rate for the area is 1½ times greater than the national average (as determined by the Bureau of Labor Statistics' most recent figures).
+&emsp;&emsp;(B) The unemployment rate for the area is 1½ times greater than the national average\(as determined by the Bureau of Labor Statistics' most recent figures).
 
 &emsp;&emsp;(C) Such additional eligibility requirements as the Board may, in its discretion, deem necessary to carry out the provisions of this subtitle.
 
@@ -238,7 +238,7 @@ No community development financial institution may receive a community enterpris
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available,determine which institutions shall receive an award.
+&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
 
 #### (B) Priority for support of efforts of CDFI
 
@@ -320,7 +320,7 @@ The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C),
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L.101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the "HOME Investment Partnerships Act", is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the "HOME Investment Partnerships Act", is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (a)(4)(F), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. Title III of the Act is classified generally to subchapter II–A (§1437aaa et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 

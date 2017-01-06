@@ -66,7 +66,7 @@ Section 8 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 546, which contained pr
 
 Subsec. (c). Pub. L. 102–164, §301(a), struck out subsec. (c) which read as follows:
 
-"(1) An individual shall not be entitled to compensation under this subchapter for any week before the fifth week beginning after the week in which the individual was discharged or released.
+"(1) An individual shall not be entitled to compensation under this subchapter for any week before the fifthweek beginning after the week in which the individual was discharged or released.
 
 "(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit year shall not exceed 13 times the individual's weekly benefit amount for total unemployment."
 
@@ -88,7 +88,7 @@ Pub. L. 114–92, div. A, title V, §513(b), Nov. 25, 2015, 129 Stat. 809, provi
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted afterAug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of this title.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of this title.
 
 #### Effective Date of 1991 Amendment
 

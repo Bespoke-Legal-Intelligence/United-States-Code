@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(i) is entitled to basic educational assistance under this chapter; or
 
-&emsp;&emsp;(ii) is on active duty in the Armed Forces and but for clause (1)(A)(i) or clause (2) of section 3011(a) or clause (1)(A)(i) or (ii) or clause (2) of section 3012(a) of this title would be eligible for such basic educational assistance; and
+&emsp;&emsp;(ii) is on active duty in the Armed Forces and but for clause (1)(A)(i) or clause (2) ofsection 3011(a) or clause (1)(A)(i) or (ii) or clause (2) of section 3012(a) of this title would be eligible for such basic educational assistance; and
 
 &emsp;(B) who dies while on active duty or within one year after discharge or release from active duty,
 

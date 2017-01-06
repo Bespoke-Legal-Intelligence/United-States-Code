@@ -132,7 +132,7 @@ In this section, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible entity" means a State or local government or a tribal organization (as defined in section 450b(l) of title 25).
+&emsp;&emsp;The term "eligible entity" means a State or local government or a tribal organization (as defined in section 5304(l) of title 25).
 
 #### (B) Instrumentalities
 
@@ -188,7 +188,7 @@ In this section, the following definitions shall apply:
 
 Subsecs. (d) to (f). Pub. L. 110–283, § 102(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>2007</b>—Subsec. (b)(4). Pub. L. 110–53 inserted at end "Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section."
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–53 inserted at end "Within 180 days after August 3, 2007, the AssistantSecretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section."
 
 #### Findings
 
@@ -204,7 +204,7 @@ Pub. L. 108–494, title I, §102, Dec. 23, 2004, 118 Stat. 3986, provided that:
 
 #### Purposes
 
-Pub. L. 108–494, title I, §103, Dec. 23, 2004, 118 Stat. 3986, provided that: "The purposes of this title \[see section 101 of title I of Pub. L. 108–494, set out as a ShortTitle of 2004 Amendment note under section 901 of this title\] are—
+Pub. L. 108–494, title I, §103, Dec. 23, 2004, 118 Stat. 3986, provided that: "The purposes of this title \[see section 101 of title I of Pub. L. 108–494, set out as a Short Title of 2004 Amendment note under section 901 of this title\] are—
 
 &emsp;"(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and
 

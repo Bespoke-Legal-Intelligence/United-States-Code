@@ -56,7 +56,7 @@
 
 <b>2002</b>—Pub. L. 107–273, div. A, title II, §§201(b), 202(b)(1), div. B, title IV, §4003(b)(5), Nov. 2, 2002, 116 Stat. 1771, 1774, 1811, in item 526, struck out "and" before "trustees", and added items 530C and 530D.
 
-<b>1998</b>—Pub. L. 105–277, div. A, §101(b) \[title VIII, §801(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681-119, added item 530B.
+<b>1998</b>—Pub. L. 105–277, div. A, §101(b) \[title VIII, §801(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, added item 530B.
 
 <b>1992</b>—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted "United States Court of Federal Claims" for "United States Claims Court" in item 520.
 

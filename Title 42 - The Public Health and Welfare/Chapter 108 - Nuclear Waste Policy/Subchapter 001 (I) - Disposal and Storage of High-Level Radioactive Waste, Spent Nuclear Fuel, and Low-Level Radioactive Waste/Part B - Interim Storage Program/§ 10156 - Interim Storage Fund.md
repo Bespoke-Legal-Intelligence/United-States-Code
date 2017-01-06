@@ -4,7 +4,7 @@
 
 (1) During the period following January 7, 1983, but not later than January 1, 1990, the Secretary is authorized to enter into contracts with persons who generate or own spent nuclear fuel resulting from civilian nuclear activities for the storage of such spent nuclear fuel in any storage capacity provided under this part: <i>Provided, however</i>, That the Secretary shall not enter into contracts for spent nuclear fuel in amounts in excess of the available storage capacity specified in section 10155(a) of this title. Those contracts shall provide that the Federal Government will (1) take title at the civilian nuclear power reactor site, to such amounts of spent nuclear fuel from the civilian nuclear power reactor as the Commission determines cannot be stored onsite, (2) transport the spent nuclear fuel to a federally owned and operated interim away-from-reactor storage facility, and (3) store such fuel in the facility pending further processing, storage, or disposal. Each such contract shall (A) provide for payment to the Secretary of fees determined in accordance with the provisions of this section; and (B) specify the amount of storage capacity to be provided for the person involved.
 
-(2) The Secretary shall undertake a study and, not later than 180 days after January 7, 1983, submit to the Congress a report, establishing payment charges that shall be calculated on an annual basis, commencing on or before January1, 1984. Such payment charges and the calculation thereof shall be published in the Federal Register, and shall become effective not less than 30 days after publication. Each payment charge published in the Federal Register under this paragraph shall remain effective for a period of 12 months from the effective date as the charge for the cost of the interim storage of any spent nuclear fuel. The report of the Secretary shall specify the method and manner of collection (including the rates and manner of payment) and any legislative recommendations determined by the Secretary to be appropriate.
+(2) The Secretary shall undertake a study and, not later than 180 days after January 7, 1983, submit to the Congress a report, establishing payment charges that shall be calculated on an annual basis, commencing on or before January 1, 1984. Such payment charges and the calculation thereof shall be published in the Federal Register, and shall become effective not less than 30 days after publication. Each payment charge published in the Federal Register under this paragraph shall remain effective for a period of 12 months from the effective date as the charge for the cost of the interim storage of any spent nuclear fuel. The report of the Secretaryshall specify the method and manner of collection (including the rates and manner of payment) and any legislative recommendations determined by the Secretary to be appropriate.
 
 (3) Fees for storage under this part shall be established on a nondiscriminatory basis. The fees to be paid by each person entering into a contract with the Secretary under this subsection shall be based upon an estimate of the pro rata costs of storage and related activities under this part with respect to such person, including the acquisition, construction, operation, and maintenance of any facilities under this part.
 
@@ -20,7 +20,7 @@ No spent nuclear fuel generated or owned by any department of the United States 
 
 There hereby is established in the Treasury of the United States a separate fund, to be known as the Interim Storage Fund. The Storage Fund shall consist of—
 
-&emsp;(1) all receipts, proceeds, and recoveries realized by the Secretary under subsections (a), (b), and (e) of this section, which shall be deposited in the Storage Fund immediately upon their realization;
+&emsp;(1) all receipts, proceeds, and recoveries realized by the Secretary under subsections (a), (b), and (e), which shall be deposited in the Storage Fund immediately upon their realization;
 
 &emsp;(2) any appropriations made by the Congress to the Storage Fund; and
 
@@ -28,7 +28,7 @@ There hereby is established in the Treasury of the United States a separate fund
 
 #### (d) Use of Storage Fund
 
-The Secretary may make expenditures from the Storage Fund, subject to subsection (e) of this section, for any purpose necessary or appropriate to the conduct of the functions and activities of the Secretary, or the provision or anticipated provision of services, under this part, including—
+The Secretary may make expenditures from the Storage Fund, subject to subsection (e), for any purpose necessary or appropriate to the conduct of the functions and activities of the Secretary, or the provision or anticipated provision of services, under this part, including—
 
 &emsp;(1) the identification, development, licensing, construction, operation, decommissioning, and post-decommissioning maintenance and monitoring of any interim storage facility provided under this part;
 
@@ -38,7 +38,7 @@ The Secretary may make expenditures from the Storage Fund, subject to subsection
 
 &emsp;(4) the cost of transportation of spent nuclear fuel; and
 
-&emsp;(5) impact assistance as described in subsection (e) of this section.
+&emsp;(5) impact assistance as described in subsection (e).
 
 #### (e) Impact assistance
 
@@ -52,17 +52,17 @@ The Secretary may make expenditures from the Storage Fund, subject to subsection
 
 (3) Such payments shall be subject to such terms and conditions as the Secretary determines necessary to ensure that the purposes of this subsection shall be achieved. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
 
-(4) Payments under this subsection shall be made available solely from the fees determined under subsection (a) of this section.
+(4) Payments under this subsection shall be made available solely from the fees determined under subsection (a).
 
 (5) The Secretary is authorized to consult with States and appropriate units of local government in advance of commencement of establishment of storage capacity authorized under this part in an effort to determine the level of the payment such government would be eligible to receive pursuant to this subsection.
 
-(6) As used in this subsection, the term "unit of local government" means a county, parish, township, municipality, and shall include a borough existing in the State of Alaska on January 7, 1983, and any other unit of government belowthe State level which is a unit of general government as determined by the Secretary.
+(6) As used in this subsection, the term "unit of local government" means a county, parish, township, municipality, and shall include a borough existing in the State of Alaska on January 7, 1983, and any other unit of government below the State level which is a unit of general government as determined by the Secretary.
 
 #### (f) Administration of Storage Fund
 
 (1) The Secretary of the Treasury shall hold the Storage Fund and, after consultation with the Secretary, annually report to the Congress on the financial condition and operations of the Storage Fund during the preceding fiscal year.
 
-(2) The Secretary shall submit the budget of the Storage Fund to the Office of Management and Budget triennially along with the budget of the Department of Energy submitted at such time in accordance with chapter 11 of title 31. The budget of the Storage Fund shall consist of estimates made by the Secretary of expenditures from the Storage Fund and other relevant financial matters for the succeeding 3 fiscal years, and shall be included in the Budget of the United States Government. The Secretary may make expenditures from the Storage Fund, subject to appropriations which shall remain available until expended. Appropriations shall be subject to triennial authorization.
+(2) The Secretary shall submit the budget of the Storage Fund to the Office of Managementand Budget triennially along with the budget of the Department of Energy submitted at such time in accordance with chapter 11 of title 31. The budget of the Storage Fund shall consist of estimates made by the Secretary of expenditures from the Storage Fund and other relevant financial matters for the succeeding 3 fiscal years, and shall be included in the Budget of the United States Government. The Secretary may make expenditures from the Storage Fund, subject to appropriations which shall remain available until expended. Appropriations shall be subject to triennial authorization.
 
 (3) If the Secretary determines that the Storage Fund contains at any time amounts in excess of current needs, the Secretary may request the Secretary of the Treasury to invest such amounts, or any portion of such amounts as the Secretary determines to be appropriate, in obligations of the United States—
 
@@ -74,7 +74,7 @@ The Secretary may make expenditures from the Storage Fund, subject to subsection
 
 (5) If at any time the moneys available in the Storage Fund are insufficient to enable the Secretary to discharge his responsibilities under this part, the Secretary shall issue to the Secretary of the Treasury obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be agreed to by the Secretary and the Secretary of the Treasury. The total of such obligations shall not exceed amounts provided in appropriation Acts. Redemption of such obligations shall be made by the Secretary from moneys available in the Storage Fund. Such obligations shall bear interest at a rate determined by the Secretary of the Treasury, which shall be not less than a rate determined by taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the obligations under this paragraph. The Secretary of the Treasury shall purchase any issued obligations, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such Act <sup>2</sup> are extended to include any purchase of such obligations. The Secretary of the Treasury may at any time sell any of the obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of obligations under this paragraph shall be treated as public debt transactions of the United States.
 
-(6) Any appropriations made available to the Storage Fund for any purpose described in subsection (d) of this section shall be repaid into the general fund of the Treasury, together with interest from the date of availability of the appropriations until the date of repayment. Such interest shall be paid on the cumulative amount of appropriations available to the Storage Fund, less the average undisbursed cash balance in the Storage Fund account during the fiscal year involved. The rate of such interest shall be determined by the Secretary of the Treasury taking into consideration the average market yield during the month preceding each fiscal year on outstanding marketable obligations of the United States of comparable maturity. Interest payments may be deferred with the approval of the Secretary of the Treasury, but any interest payments so deferred shall themselves bear interest.
+(6) Any appropriations made available to the Storage Fund for any purpose described in subsection (d) shall be repaid into the general fund of the Treasury, together with interest from the date of availability of the appropriations until the date of repayment. Such interest shall be paid on the cumulative amount of appropriations available to the Storage Fund, less the average undisbursed cash balance in the Storage Fund account during the fiscal year involved. The rate of such interest shall be determined by the Secretary of the Treasury taking into consideration the average market yield during the month preceding each fiscal year on outstanding marketable obligations of the United States of comparable maturity. Interest payments may be deferred with the approval of the Secretary of the Treasury, but any interest payments so deferred shall themselves bear interest.
 
 (Pub. L. 97–425, title I, §136, Jan. 7, 1983, 96 Stat. 2237.)
 

@@ -1,0 +1,6 @@
+### §611. Omitted
+
+#### Codification
+
+Section, act May 19, 1947, ch. 80, §1, 61 Stat. 102, which directed the Secretary of the Interior to divide the trust funds on deposit in the Treasury of the United States to the joint credit of the Shoshone and Arapaho Tribes of the Wind River Reservation, was omitted from the Code as being of special and not general application.
+

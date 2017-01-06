@@ -26,7 +26,7 @@ The Commission shall have no authority under this chapter to regulate any risk o
 
 > relating to a risk of cancer, birth defects, or gene mutations from a consumer product, the Commission shall request the Panel to review the scientific data and other relevant information relating to such risk to determine if any substance in the product is a carcinogen, mutagen, or a teratogen and to report its determination to the Commission.
 
-(B) When the Commission appoints a Panel, the Panel shall convene within 30 days after the date the final appointment is made to the Panel. The Panel shall report its determination to the Commission not later than 120 days after the date the Panel is convened or, if the Panel requests additional time, within a time period specified by the Commission. If the determination reported to the Commission states that a substance in a product is a carcinogen, mutagen, or a teratogen, the Panel shall include in its report an estimate, if such an estimate is feasible, of the probable harm to human health that will result from exposure to the substance.
+(B) When the Commission appoints a Panel, the Panel shall convene within 30 days after the date the final appointment is made to the Panel.The Panel shall report its determination to the Commission not later than 120 days after the date the Panel is convened or, if the Panel requests additional time, within a time period specified by the Commission. If the determination reported to the Commission states that a substance in a product is a carcinogen, mutagen, or a teratogen, the Panel shall include in its report an estimate, if such an estimate is feasible, of the probable harm to human health that will result from exposure to the substance.
 
 (C) A Panel appointed under section 2077 of this title shall terminate when it has submitted its report unless the Commission extends the existence of the Panel.
 
@@ -44,7 +44,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is P
 
 The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code,see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C (21 U.S.C. 360hh et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to section 263c of Title 42, was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, §19(a)(3), (4), 104 Stat. 4530, and transferred to section 360hh of Title 21. For complete classification of the Public Health Service Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -59,6 +59,10 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L.
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Effective Date
+
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
 #### Manufacture or Sale of Firearms or Firearms Ammunition
 

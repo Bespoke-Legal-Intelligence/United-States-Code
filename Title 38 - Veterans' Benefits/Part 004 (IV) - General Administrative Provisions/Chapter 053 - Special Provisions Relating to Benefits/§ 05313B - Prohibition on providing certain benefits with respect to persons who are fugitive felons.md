@@ -1,6 +1,6 @@
 ### §5313B. Prohibition on providing certain benefits with respect to persons who are fugitive felons
 
-(a) A veteran who is otherwise eligible for a benefit specified in subsection (c) may not be paid or otherwise provided such benefit for any period during which such veteran is a fugitive felon. A dependent of a veteran who is otherwise eligible for a benefit specified in subsection (c) may not be paid or otherwise provided such benefit for any period during which such veteran or such dependent is a fugitive felon.
+(a) A veteran who is otherwise eligible for a benefit specified in subsection (c) may not be paid or otherwise provided such benefit for any period during which such veteran is a fugitive felon. A dependent of a veteran who is otherwiseeligible for a benefit specified in subsection (c) may not be paid or otherwise provided such benefit for any period during which such veteran or such dependent is a fugitive felon.
 
 (b) For purposes of this section:
 

@@ -20,7 +20,7 @@ Notwithstanding any other provision of Federal law, no funds provided under this
 
 #### (2) Exceptions
 
-&emsp;Subsection (a) of this section shall not apply to international comparative assessments developed under the authority of section 9543(a)(6) of this title or section 9003(a)(6) of this title (as such section was in effect on the day before November 5, 2002) and administered to only a representative sample of pupils in the United States and in foreign nations.
+&emsp;Subsection (a) shall not apply to international comparative assessments developed under the authority of section 9543(a)(6) of this title or section 9003(a)(6) of this title (as such section was in effect on the day before November 5, 2002) and administered to only a representative sample of pupils in the United States and in foreign nations.
 
 (Pub. L. 107–279, title I, §182, Nov. 5, 2002, 116 Stat. 1971.)
 

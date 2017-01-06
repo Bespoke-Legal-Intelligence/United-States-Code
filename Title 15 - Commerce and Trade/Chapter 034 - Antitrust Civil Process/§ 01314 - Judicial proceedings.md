@@ -10,7 +10,7 @@ Whenever any person fails to comply with any civil investigative demand duly ser
 
 &emsp;(A) in the district court of the United States for the judicial district within which such person resides, is found, or transacts business; or
 
-&emsp;(B) in the case of a petition addressed to an express demand for any product of discovery, only in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending.
+&emsp;(B) in the case of a petition addressed to an express demand for any product of discovery,only in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending.
 
 (2) The time allowed for compliance with the demand in whole or in part as deemed proper and ordered by the court shall not run during the pendency of such petition in the court, except that such person shall comply with any portions of the demand not sought to be modified or set aside. Such petition shall specify each ground upon which the petitioner relies in seeking such relief and may be based upon any failure of such demand to comply with the provisions of this chapter, or upon any constitutional or other legal right or privilege of such person.
 

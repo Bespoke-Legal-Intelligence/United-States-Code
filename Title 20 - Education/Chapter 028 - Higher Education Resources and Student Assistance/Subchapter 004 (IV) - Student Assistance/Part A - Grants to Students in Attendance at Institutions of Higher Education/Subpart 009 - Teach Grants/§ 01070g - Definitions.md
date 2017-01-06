@@ -12,11 +12,11 @@ For the purposes of this subpart:
 
 &emsp;&emsp;(C) provides pedagogical course work, or assistance in the provision of such coursework, including the monitoring of student performance, and formal instruction related to the theory and practices of teaching; and
 
-&emsp;&emsp;(D) provides supervision and support services to teachers, or assistance in the provision of such services, including mentoring focused on developing effective teaching skills and strategies.
+&emsp;&emsp;(D) provides supervision and support services to teachers, or assistance in the provision of such services, including mentoringfocused on developing effective teaching skills and strategies.
 
 #### (2) Post-baccalaureate
 
-&emsp;The term "post-baccalaureate" means a program of instruction for individuals who havecompleted a baccalaureate degree, that does not lead to a graduate degree, and that consists of courses required by a State in order for a teacher candidate to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State, except that such term shall not include any program of instruction offered by an eligible institution that offers a baccalaureate degree in education.
+&emsp;The term "post-baccalaureate" means a program of instruction for individuals who have completed a baccalaureate degree, that does not lead to a graduate degree, and that consists of courses required by a State in order for a teacher candidate to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State, except that such term shall not include any program of instruction offered by an eligible institution that offers a baccalaureate degree in education.
 
 #### (3) Teacher candidate
 

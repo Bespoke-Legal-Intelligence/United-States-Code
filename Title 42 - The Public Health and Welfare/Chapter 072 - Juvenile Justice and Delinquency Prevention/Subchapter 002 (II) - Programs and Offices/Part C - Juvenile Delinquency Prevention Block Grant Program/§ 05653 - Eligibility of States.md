@@ -20,7 +20,7 @@ To be eligible to receive a grant under section 5651 of this title, a State shal
 
 &emsp;(4) An assurance that the State advisory group will be afforded the opportunity to review and comment on all grant applications submitted to the State agency.
 
-&emsp;(5) An assurance that each eligible entity described in section 5654 of this title that receives an initial grant under section 5654 of this title to carry out a project or activity shall also receive an assurance from the State that such entity will receive from the State, for the subsequent fiscal year to carry out such project or activity, a grant under such section in an amount that is proportional, based on such initial grant and on the amount of the grant received under section 5651 of this title by the State for such subsequent fiscal year, but that does not exceed the amount specified for such subsequent fiscal year in such application as approved by the State.
+&emsp;(5) An assurance that each eligible entity described in section 5654 of this title that receives an initial grant under section 5654 ofthis title to carry out a project or activity shall also receive an assurance from the State that such entity will receive from the State, for the subsequent fiscal year to carry out such project or activity, a grant under such section in an amount that is proportional, based on such initial grant and on the amount of the grant received under section 5651 of this title by the State for such subsequent fiscal year, but that does not exceed the amount specified for such subsequent fiscal year in such application as approved by the State.
 
 &emsp;(6) Such other information and assurances as the Administrator may reasonably require by rule.
 

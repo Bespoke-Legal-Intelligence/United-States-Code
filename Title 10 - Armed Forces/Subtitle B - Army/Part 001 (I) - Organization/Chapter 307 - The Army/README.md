@@ -11,7 +11,7 @@
 | [3067\.](%C2%A7%2003067%20-%20Army%20Medical%20Department.md) | Army Medical Department. |
 | [3068\.](%C2%A7%2003068%20-%20Medical%20Service%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md) | Medical Service Corps: organization; Chief and assistant chiefs. |
 | [3069\.](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md) | Army Nurse Corps: composition; Chief and assistant chief; appointment; grade. |
-| [3070\.](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md) | Army Medical Specialist Corps: organization; Chief and assistant chiefs. |
+| [3070\.](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief.md) | Army Medical Specialist Corps: organization; Chief. |
 | \[3071. | Repealed.\] |
 | [3072\.](%C2%A7%2003072%20-%20Judge%20Advocate%20General%27s%20Corps.md) | Judge Advocate General's Corps. |
 | [3073\.](%C2%A7%2003073%20-%20Chaplains.md) | Chaplains. |
@@ -21,11 +21,13 @@
 | [3081\.](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md) | Dental Corps: Chief, functions. |
 | \[3082. | Renumbered.\] |
 | [3083\.](%C2%A7%2003083%20-%20Public%20Affairs%20Specialty.md) | Public Affairs Specialty. |
-| [3084\.](%C2%A7%2003084%20-%20Chief%20of%20Veterinary%20Corps%20grade.md) | Chief of Veterinary Corps: grade. |
+| [3084\.](%C2%A7%2003084%20-%20Chief%20of%20Veterinary%20Corps.md) | Chief of Veterinary Corps. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(p)(3), (r)(3), Dec. 23, 2016, 130 Stat. 2104, substituted "Army Medical Specialist Corps: organization; Chief" for "Army Medical Specialist Corps: organization; Chief and assistant chiefs" in item 3070 and "Chief of Veterinary Corps" for "Chief of Veterinary Corps: grade" in item 3084.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title V, §504(b)(2), Dec. 2, 2002, 116 Stat. 2531, added item 3084.
 
@@ -63,7 +65,7 @@
 - [&sect; 03067 - Army Medical Department](%C2%A7%2003067%20-%20Army%20Medical%20Department.md)
 - [&sect; 03068 - Medical Service Corps organization; Chief and assistant chiefs](%C2%A7%2003068%20-%20Medical%20Service%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md)
 - [&sect; 03069 - Army Nurse Corps composition; Chief and assistant chief; appointment; grade](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md)
-- [&sect; 03070 - Army Medical Specialist Corps organization; Chief and assistant chiefs](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md)
+- [&sect; 03070 - Army Medical Specialist Corps organization; Chief](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief.md)
 - [&sect; 03071 - Repealed. Pub. L. 95&#8211;485, title VIII, &sect;820(b), Oct. 20, 1978, 92 Stat. 1627](%C2%A7%2003071%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93485%2C%20title%20VIII%2C%20%C2%A7820%28b%29%2C%20Oct.%2020%2C%201978%2C%2092%20Stat.%201627.md)
 - [&sect; 03072 - Judge Advocate General's Corps](%C2%A7%2003072%20-%20Judge%20Advocate%20General%27s%20Corps.md)
 - [&sect; 03073 - Chaplains](%C2%A7%2003073%20-%20Chaplains.md)
@@ -73,4 +75,4 @@
 - [&sect; 03081 - Dental Corps Chief, functions](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md)
 - [&sect; 03082 - Renumbered &sect;10542](%C2%A7%2003082%20-%20Renumbered%20%C2%A710542.md)
 - [&sect; 03083 - Public Affairs Specialty](%C2%A7%2003083%20-%20Public%20Affairs%20Specialty.md)
-- [&sect; 03084 - Chief of Veterinary Corps grade](%C2%A7%2003084%20-%20Chief%20of%20Veterinary%20Corps%20grade.md)
+- [&sect; 03084 - Chief of Veterinary Corps](%C2%A7%2003084%20-%20Chief%20of%20Veterinary%20Corps.md)

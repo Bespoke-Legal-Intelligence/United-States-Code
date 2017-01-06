@@ -54,7 +54,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 #### (1) In general
 
-&emsp;The Secretary or the Administrator, as appropriate, shall attempt to ensure that agricultural commodities made available under this chapter will be provided without regard to the political affiliation, geographic location, ethnic, tribal, or religious identity of the recipient or without regard to other extraneous factors.
+&emsp;The Secretary or the Administrator, as appropriate, shall attempt to ensure that agricultural commodities made available under this chapter will be provided without regard tothe political affiliation, geographic location, ethnic, tribal, or religious identity of the recipient or without regard to other extraneous factors.
 
 #### (2) Prohibition on handling of commodities by the military
 
@@ -140,7 +140,7 @@ Local currencies that are made available for use under this chapter may not be u
 
 &emsp;&emsp;(B) the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
 
-(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, §3008, Feb. 7, 2014, 128 Stat. 775.)
+(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3),Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, §3008, Feb. 7, 2014, 128 Stat. 775.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of s
 
 <b>1977</b>—Pub. L. 95–113 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement ofCommodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
+<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement of Commodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
 
 <b>1964</b>—Pub. L. 88–638 substituted "less than the minimum rate required by section 2161 of Title 22 for loans made under that section" for "more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section".
 

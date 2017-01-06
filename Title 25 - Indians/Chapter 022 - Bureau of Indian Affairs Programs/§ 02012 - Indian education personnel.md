@@ -124,7 +124,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The education line officer of an agency office of the Bureau may appeal to the Director of the Office any determination by the local school board for the school that an individual be employed, or not be employed, as the supervisor of a school by filing a written statement describing the determination and the reasons the supervisor believes such determination should be overturned.
+&emsp;&emsp;&emsp;The education line officer of an agency office of the Bureau may appeal to the Director of the Office any determination by the local school board for the school that an individual be employed, or not be employed, as the supervisor of a school by filing a written statement describing the determination and the reasons the supervisorbelieves such determination should be overturned.
 
 #### (ii) Action by board
 
@@ -230,11 +230,11 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "Indian preference laws" means section 472 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
+&emsp;&emsp;&emsp;The term "Indian preference laws" means section 5116 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term "Indian preference laws" does not include section 450e(b) of this title.
+&emsp;&emsp;&emsp;The term "Indian preference laws" does not include section 5307(b) of this title.
 
 #### (B) Tribal organization
 
@@ -252,7 +252,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;Except as otherwise provided in this section, the Secretary shall establish the compensation or annual salary rate for educators and education positions—
 
-&emsp;&emsp;&emsp;(i) at rates in effect under the General Schedule for individuals with comparablequalifications, and holding comparable positions, to whom chapter 51 of title 5 is applicable; or
+&emsp;&emsp;&emsp;(i) at rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 is applicable; or
 
 &emsp;&emsp;&emsp;(ii) on the basis of the Federal Wage System schedule in effect for the locality involved, and for the comparable positions, at the rates of compensation in effect for the senior executive service.
 
@@ -292,7 +292,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;The establishment of rates of basic compensation and annual salary rates under subparagraphs (B) and (C) shall not—
 
-&emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancements through levels of pay that are based on the merit, education, experience, or tenure of the educator; or
+&emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancementsthrough levels of pay that are based on the merit, education, experience, or tenure of the educator; or
 
 &emsp;&emsp;&emsp;(ii) affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an election under subsection (p) <sup>3</sup> as in effect on January 1, 1990.
 
@@ -320,7 +320,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iii) Approval of requests
 
-&emsp;&emsp;&emsp;A request made under clause (i) shall be considered to be approved at the end of the60th day after the request is received in the Central Office of the Bureau unless before that time the request is approved, approved with a modification, or disapproved by the Secretary.
+&emsp;&emsp;&emsp;A request made under clause (i) shall be considered to be approved at the end of the 60th day after the request is received in the Central Office of the Bureau unless before that time the request is approved, approved with a modification, or disapproved by the Secretary.
 
 #### (iv) Discontinuation of or decrease in rates
 
@@ -362,7 +362,7 @@ In the case of any educator employed in an education position described in subse
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1342 of title 31, the Secretary may, subject to the approval of the local school board concerned, accept voluntary services on behalf of Bureau schools.
+&emsp;Notwithstanding section 1342 of title 31, the Secretary may, subject to the approval of thelocal school board concerned, accept voluntary services on behalf of Bureau schools.
 
 #### (2) Federal employee protection
 
@@ -402,7 +402,7 @@ In the case of any educator employed in an education position described in subse
 
 #### (5) Definitions
 
-&emsp;For purposes of this subsection, the terms "educator" and "education position" have themeanings contained in paragraphs (1) and (2) of subsection (o).
+&emsp;For purposes of this subsection, the terms "educator" and "education position" have the meanings contained in paragraphs (1) and (2) of subsection (o).
 
 #### (n) Extracurricular activities
 
@@ -462,7 +462,7 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 #### (1) In general
 
-&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
+&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not beplaced on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
 
 &emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
 
@@ -504,7 +504,7 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: "That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively".
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: "That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following theissuance of the Department of Defense salary schedule and shall not be effected retroactively".
 
 Similar provisions were contained in the following prior appropriation act:
 

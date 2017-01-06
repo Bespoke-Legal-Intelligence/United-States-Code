@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) an alien lawfully admitted to the United States for permanent residence; or
 
-&emsp;&emsp;(iii) a foreign national who is enrolled in the United States Merchant Marine Academy.<sup>1</sup>
+&emsp;&emsp;(iii) a foreign national who is enrolled in the United States Merchant Marine Academy; and
 
 &emsp;(B) not more than 25 percent of the total number of unlicensed seamen on the vessel may be aliens lawfully admitted to the United States for permanent residence.
 
@@ -24,15 +24,15 @@
 
 (3) The Secretary may waive a citizenship requirement under this section, other than a requirement that applies to the master of a documented vessel, with respect to—
 
-&emsp;(A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that operates from a foreign port;
+&emsp;(A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 grosstons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that operates from a foreign port;
 
 &emsp;(B) a mobile offshore drilling unit or other vessel engaged in support of exploration, exploitation, or production of offshore mineral energy resources operating beyond the water above the outer Continental Shelf (as that term is defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a)); and
 
 &emsp;(C) any other vessel if the Secretary determines, after an investigation, that qualified seamen who are citizens of the United States are not available.
 
-(c) On each departure of a vessel (except a passenger vessel) for which a construction or operating differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
+(c) On each departure of a vessel (except a passenger vessel) for which a construction differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
 
-(d)(1) On each departure of a passenger vessel for which a construction or operating differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
+(d)(1) On each departure of a passenger vessel for which a construction differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
 
 (2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward's department of the passenger vessel.
 
@@ -100,7 +100,7 @@ Qualifications.—An unlicensed seaman described in paragraph (1)(C) of this sub
 
 &emsp;&emsp;&emsp;(i) shall have been employed, for a period of not less than 1 year, on a passenger vessel under the same common ownership or control as the vessel described in paragraph (1) of this subsection, as certified by the owner or managing operator of such vessel to the Secretary;
 
-&emsp;&emsp;&emsp;(ii) shall have no record of material disciplinary actions during such employment, as verified in writing by the owner or managing operator of such vessel to the Secretary;
+&emsp;&emsp;&emsp;(ii) shall have no record of material disciplinary actions during such employment,as verified in writing by the owner or managing operator of such vessel to the Secretary;
 
 &emsp;&emsp;&emsp;(iii) shall have successfully completed a United States Government security check of the relevant domestic and international databases, as appropriate, or any other national security-related information or database;
 
@@ -156,7 +156,7 @@ Steward's department.—The term "steward's department" means the department tha
 
 Large passenger vessel.—The term "large passenger vessel" means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title, with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604; Pub. L. 114–120, title III, §§306(a)(6), 313(d), Feb. 8, 2016, 130 Stat. 54, 59.)
 
 Historical and Revision Notes
 
@@ -199,6 +199,10 @@ Subsection (h) permits the President to suspend the requirements of this section
 The Immigration and Nationality Act, referred to in subsecs. (i)(1)(C) and (k)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–120, §306(a)(6), substituted "Academy; and" for "Academy."
+
+Subsecs. (c), (d)(1). Pub. L. 114–120, §313(d), struck out "or operating" before "differential subsidy".
 
 <b>2008</b>—Subsec. (k)(3)(C)(iv). Pub. L. 110–181 inserted "and section 252 of the Immigration and Nationality Act (8 U.S.C. 1282)" after "limitations of such section".
 
@@ -248,11 +252,11 @@ Pub. L. 100–239, 5(d)(2), Jan. 11, 1988, 101 Stat. 1781, provided that: "This 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Distant Water Tuna Fleet
 
-Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, §601, Dec. 18, 2014, 128 Stat. 3060, provided that:
+Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct.15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, §601, Dec. 18, 2014, 128 Stat. 3060; Pub. L. 114–120, title VI, §601(a), Feb. 8, 2016, 130 Stat. 79, provided that:
 
 "(a)
 
@@ -276,7 +280,7 @@ Expiration.—This section expires on the date the Treaty on Fisheries Between t
 
 "(d)
 
-Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
+Reports.—Not later than July 1 of each year until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 
 &emsp;"(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel.
 
@@ -303,6 +307,4 @@ Definition.—For purposes of the application of sections 8103(a), 12102, 12110,
 "(b)
 
 Termination.—This section shall terminate on October 1, 2000."
-
-<i><sup>1</sup></i><i> So in original. The period probably should be "; and".</i>
 

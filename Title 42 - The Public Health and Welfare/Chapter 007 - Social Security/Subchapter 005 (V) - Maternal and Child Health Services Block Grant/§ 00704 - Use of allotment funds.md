@@ -6,7 +6,7 @@ Except as otherwise provided under this section, a State may use amounts paid to
 
 #### (b) Restrictions
 
-Amounts described in subsection (a) of this section may not be used for—
+Amounts described in subsection (a) may not be used for—
 
 &emsp;(1) inpatient services, other than inpatient services provided to children with special health care needs or to high-risk pregnant women and infants and such other inpatient services as the Secretary may approve;
 
@@ -20,15 +20,15 @@ Amounts described in subsection (a) of this section may not be used for—
 
 &emsp;(6) payment for any item or service (other than an emergency item or service) furnished—
 
-&emsp;&emsp;(A) by an individual or entity during the period when such individual or entity is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title, or
+&emsp;&emsp;(A) by an individual or entity during the period when such individual or entity is excluded under this subchapter or subchapter XVIII, XIX, or XX pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title, or
 
-&emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person).
+&emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter XVIII, XIX, or XX pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person).
 
 > The Secretary may waive the limitation contained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this subchapter.
 
 #### (c) Use of portion of funds
 
-A State may use a portion of the amounts described in subsection (a) of this section for the purpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, and administering programs funded under this subchapter.
+A State may use a portion of the amounts described in subsection (a) for the purpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, and administering programs funded under this subchapter.
 
 #### (d) Limitation on use of funds for administrative costs
 
@@ -40,7 +40,7 @@ Of the amounts paid to a State under section 703 of this title from an allotment
 
 A prior section 704, act Aug. 14, 1935, ch. 531, title V, §504, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 922, related to allotments to States for crippled children's services, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. See section 702 of this title. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-Another prior section 704, acts Aug. 14, 1935, ch. 531, title V, §504, 49 Stat. 630; 1940 Reorg. Plan No. III, §1(a), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(b)(1)(B), 74 Stat. 996; July 30, 1965, Pub. L. 89–97, title II, §201(b), 79 Stat. 353, provided for payment to States with an approved plan for maternal and child-health services and computation of amounts, and prescribed general availability of services by July 1, 1975, as requisite for payments for any period after June 30, 1966, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 706 of this title.
+Another prior section 704, acts Aug. 14, 1935, ch. 531, title V, §504, 49 Stat. 630; 1940 Reorg. Plan No. III, §1(a), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; 1946 Reorg.Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(b)(1)(B), 74 Stat. 996; July 30, 1965, Pub. L. 89–97, title II, §201(b), 79 Stat. 353, provided for payment to States with an approved plan for maternal and child-health services and computation of amounts, and prescribed general availability of services by July 1, 1975, as requisite for payments for any period after June 30, 1966, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 706 of this title.
 
 Provisions similar to those comprising former section 704 were contained in section 512 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 712 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 101–239, §6503(a)(2), added subsec. (d).
 
 <b>1988</b>—Subsec. (b)(6). Pub. L. 100–360, as amended by Pub. L. 100–485, added Pub. L. 100–203, §4118(e)(12), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (b)(6). Pub. L. 100–203, §4118(e)(12), as added by Pub. L. 100–360 and amended by Pub. L. 100–485, substituted "under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title" for "pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter" in subpars. (A) and (B).
+<b>1987</b>—Subsec. (b)(6). Pub. L. 100–203, §4118(e)(12), as added by Pub. L. 100–360 and amended by Pub. L. 100–485, substituted "under this subchapter or subchapter XVIII, XIX, or XX pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title" for "pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter" in subpars. (A) and (B).
 
 Pub. L. 100–93 added par. (6).
 

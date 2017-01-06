@@ -32,7 +32,7 @@ Community Training Assistance.—The program shall include the provision of assi
 
 (e)
 
-Collaboration.—In carrying out the program, the Secretary shall collect and analyze "lessons learned" and suggestions from State National Guard and Reserve organizations withexisting or developing suicide prevention and community response programs.
+Collaboration.—In carrying out the program, the Secretary shall collect and analyze "lessons learned" and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
 
 (f)
 
@@ -46,15 +46,17 @@ Outreach for Certain Members of the Reserve Components.—(1) Upon the request o
 
 (g)
 
-Termination.—The program under this section shall terminate on October 1, 2017.
+Termination.—The program under this section shall terminate on October 1, 2018.
 
-(Added Pub. L. 112–239, div. A, title V, §581(a)(1), Jan. 2, 2013, 126 Stat. 1764; amended Pub. L. 113–66, div. A, title V, §511(a), Dec. 26, 2013, 127 Stat. 751.)
+(Added Pub. L. 112–239, div. A, title V, §581(a)(1), Jan. 2, 2013, 126 Stat. 1764; amended Pub. L. 113–66, div. A, title V, §511(a), Dec. 26, 2013, 127 Stat. 751; Pub. L. 114–328, div. A, title V, §565, Dec. 23, 2016, 130 Stat. 2138.)
 
 #### References in Text
 
 Section 582 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is section 582 of Pub. L. 110–181, which is set out as a note under section 10101 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g). Pub. L. 114–328 substituted "October 1, 2018" for "October 1, 2017".
 
 <b>2013</b>—Subsecs. (f), (g). Pub. L. 113–66 added subsec. (f) and redesignated former subsec. (f) as (g).
 

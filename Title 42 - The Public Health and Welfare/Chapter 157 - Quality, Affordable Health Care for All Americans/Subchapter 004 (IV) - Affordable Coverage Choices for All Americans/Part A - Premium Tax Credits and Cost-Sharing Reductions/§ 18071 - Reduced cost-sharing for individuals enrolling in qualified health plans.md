@@ -26,7 +26,7 @@ In this section, the term "eligible insured" means an individual—
 
 &emsp;&emsp;The reduction in cost-sharing under this subsection shall first be achieved by reducing the applicable out-of pocket <sup>1</sup> limit under section 18022(c)(1) of this title in the case of—
 
-&emsp;&emsp;&emsp;(i) an eligible insured whose household income is more than 100 percent but not more than 200 percent of the poverty line for a family of the size involved, by two-thirds;
+&emsp;&emsp;&emsp;(i) an eligible insured whose household income is more than 100 percent but notmore than 200 percent of the poverty line for a family of the size involved, by two-thirds;
 
 &emsp;&emsp;&emsp;(ii) an eligible insured whose household income is more than 200 percent but not more than 300 percent of the poverty line for a family of the size involved, by one-half; and
 
@@ -82,7 +82,7 @@ In this section, the term "eligible insured" means an individual—
 
 #### (1) Indians under 300 percent of poverty
 
-&emsp;If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in section 450b(d) of title 25) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
+&emsp;If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in section 5304(d) of title 25) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
 
 &emsp;&emsp;(A) such individual shall be treated as an eligible insured; and
 

@@ -60,7 +60,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 #### (3) Limitation
 
-&emsp;In the case of a subpoena for which the return date is less than 5 days after the date ofservice, no person shall be found in contempt for failure to comply by the return date if such person files a petition under paragraph (2) not later than 5 days after the date of service.
+&emsp;In the case of a subpoena for which the return date is less than 5 days after the date of service, no person shall be found in contempt for failure to comply by the return date if such person files a petition under paragraph (2) not later than 5 days after the date of service.
 
 #### (h) Statute of limitations
 
@@ -70,7 +70,7 @@ A civil action under this section may not be commenced later than 10 years after
 
 #### Codification
 
-Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989,and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
 

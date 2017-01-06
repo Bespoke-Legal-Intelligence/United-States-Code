@@ -152,7 +152,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entitysubmitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such information to the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
+&emsp;&emsp;If the Commission receives a report described in subsection (b)(1)(A) that does not include the model or serial number of the consumer product concerned, the Commission shall seek from the individual or entity submitting the report such model or serial number or, if such model or serial number is not available, a photograph of the product. If the Commission obtains information relating to the serial or model number of the product or a photograph of the product, it shall immediately forward such information to the manufacturer of the product. The Commission shall make the report available in the database on the 15th business day after the date on which the Commission transmits the report under paragraph (1) and shall include in the database any additional information about the product obtained under this paragraph.
 
 #### (B) Rule of construction
 
@@ -210,7 +210,7 @@ In this section, the term "harm" means—
 
 &emsp;(2) risk of injury, illness, or death, as determined by the Commission.
 
-(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048; amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
+(Pub. L. 92–573, §6A, as added Pub. L. 110–314, title II, §212(a), Aug. 14, 2008, 122 Stat. 3048;amended Pub. L. 112–28, §7, Aug. 12, 2011, 125 Stat. 281.)
 
 #### Amendments
 

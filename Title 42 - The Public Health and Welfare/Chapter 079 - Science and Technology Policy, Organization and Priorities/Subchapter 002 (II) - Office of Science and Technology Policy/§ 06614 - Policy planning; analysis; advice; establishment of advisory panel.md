@@ -68,7 +68,7 @@ Pub. L. 105–276, title IV, §430, Oct. 21, 1998, 112 Stat. 2512, provided that
 
 "(a)
 
-Study.—The Director of the Office of Science and Technology Policy, in consultation with the Director of the Office of Management and Budget, may enterinto an agreement with the National Academy of Sciences for the Academy to conduct a comprehensive study to develop methods for evaluating federally-funded research and development programs. This study shall—
+Study.—The Director of the Office of Science and Technology Policy, in consultation with the Director of the Office of Management and Budget, may enter into an agreement with the National Academy of Sciences for the Academy to conduct a comprehensive study to develop methods for evaluating federally-funded research and development programs. This study shall—
 
 &emsp;"(1) recommend processes to determine an acceptable level of success for federally-funded research and development programs by—
 
@@ -82,7 +82,7 @@ Study.—The Director of the Office of Science and Technology Policy, in consult
 
 &emsp;"(3) recommend mechanisms for identifying federally-funded research and development programs which are unsuccessful or unproductive;
 
-&emsp;"(4) evaluate the extent to which independent, merit-based evaluation of federally-funded research and development programs and projects achieves the goal of eliminating unsuccessful or unproductive programs and projects; and
+&emsp;"(4) evaluate the extent to which independent, merit-based evaluation of federally-funded researchand development programs and projects achieves the goal of eliminating unsuccessful or unproductive programs and projects; and
 
 &emsp;"(5) investigate and report on the validity of using quantitative performance goals for aspects of programs which relate to administrative management of the program and for which such goals would be appropriate, including aspects related to—
 

@@ -76,7 +76,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 For purposes of this title—
 
-&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shall apply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
+&emsp;(1) the provisions of section 936 (including any applicable election thereunder) shallapply in the same manner as if the credit under this section were a credit under section 936(a)(1)(A) for a domestic corporation to which section 936(a)(4)(A) applies,
 
 &emsp;(2) the credit under this section shall be treated in the same manner as the credit under section 936, and
 
@@ -94,7 +94,7 @@ For purposes of this section, any term used in this section which is also used i
 
 This section shall apply to taxable years beginning after December 31, 1995, and before January 1, 2006.
 
-(Added Pub. L. 104–188, title I, §1601(b)(1), Aug. 20, 1996, 110 Stat. 1830; amended Pub. L. 105–34, title XVI, §1601(f)(1)(A), Aug. 5, 1997, 111 Stat. 1090; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-640; Pub. L. 113–295, div. A, title II, §221(a)(12)(C), Dec. 19, 2014, 128 Stat. 4038.)
+(Added Pub. L. 104–188, title I, §1601(b)(1), Aug. 20, 1996, 110 Stat. 1830; amended Pub. L. 105–34, title XVI, §1601(f)(1)(A), Aug. 5, 1997, 111 Stat. 1090; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 113–295, div. A, title II, §221(a)(12)(C), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-640, provided that: "Subsection (c) \[not classified to the Code\] and the amendments made by this section \[amending this section and sections 280C and 857 of this title\] shall take effect as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999 \[Pub. L. 106–170, see Tables for classification\] to which they relate."
+Pub. L. 106–554, §1(a)(7) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: "Subsection (c) \[not classified to the Code\] and the amendments made by this section \[amending this section and sections 280C and 857 of this title\] shall take effect as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999 \[Pub. L. 106–170, see Tables for classification\] to which they relate."
 
 #### Effective Date of 1997 Amendment
 

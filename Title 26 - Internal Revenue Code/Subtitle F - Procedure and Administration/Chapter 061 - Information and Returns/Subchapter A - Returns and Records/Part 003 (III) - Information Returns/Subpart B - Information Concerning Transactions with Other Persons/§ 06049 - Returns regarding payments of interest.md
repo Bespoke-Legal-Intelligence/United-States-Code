@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a financial institution, broker, or other person specified in such regulations which collects interest on such obligation for the payee (or otherwise acts as a middleman between the payor and the payee) shall comply with the requirements of subsections (a) and (c), and
 
-&emsp;&emsp;(B) no other person shall be required to comply with the requirements of subsections (a) and (c) with respect to any interest on such obligation for which reporting is required pursuant to subparagraph (A).
+&emsp;&emsp;(B) no other person shall be required to comply with the requirements of subsections\(a) and (c) with respect to any interest on such obligation for which reporting is required pursuant to subparagraph (A).
 
 #### (5) Interest on certain obligations may be treated on a transactional basis
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (C) Additional information
 
-&emsp;&emsp;Except as otherwise provided in regulations, any return or statement required to be filed or furnished under this section with respect to interest income described in subparagraph (A) and interest on any other debt instrument to which section 1272(a)(6) applies shall also provide information setting forth the adjusted issue price of the interest to which the return or statement relates atthe beginning of each accrual period with respect to which interest income is required to be reported on such return or statement and information necessary to compute accrual of market discount.
+&emsp;&emsp;Except as otherwise provided in regulations, any return or statement required to be filed or furnished under this section with respect to interest income described in subparagraph (A) and interest on any other debt instrument to which section 1272(a)(6) applies shall also provide information setting forth the adjusted issue price of the interest to which the return or statement relates at the beginning of each accrual period with respect to which interest income is required to be reported on such return or statement and information necessary to compute accrual of market discount.
 
 #### (D) Regulatory authority
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (B) Reporting to corporations, etc.
 
-&emsp;&emsp;Except as otherwise provided in regulations, in the case of any interest described in subparagraph (A) of this paragraph, subsection (b)(4) of this section shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i).
+&emsp;&emsp;Except as otherwise provided in regulations, in the case of any interest described insubparagraph (A) of this paragraph, subsection (b)(4) of this section shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i).
 
 #### (C) Regulatory authority
 
@@ -280,7 +280,7 @@ Subsec. (c). Pub. L. 99–514, §1501(c)(5), in amending subsec. (c) generally, 
 
 Subsec. (d)(7). Pub. L. 99–514, §674, added par. (7).
 
-<b>1984</b>—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts onwhich the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
+<b>1984</b>—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
 
 Subsec. (d)(6)(A). Pub. L. 98–369, §42(a)(14)(A), substituted "section 1272" for "section 1232A" in two places.
 
@@ -330,7 +330,7 @@ Pub. L. 109–222, title V, §502(c), May 17, 2006, 120 Stat. 354, provided that
 
 #### Effective Date of 2005 Amendments
 
-Amendment by Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
+Amendment by Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section 101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
 
 Amendment by Pub. L. 109–58 applicable to bonds issued after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, as amended, set out as an Effective Date note under section 54 of this title.
 

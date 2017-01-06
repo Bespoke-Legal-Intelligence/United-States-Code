@@ -1,6 +1,6 @@
 ### §1003. Additional definitions
 
-In this chapter and part C of subchapter I of chapter 34 of title 42:
+In this chapter:
 
 #### (1) Authorizing committees
 
@@ -12,7 +12,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (3) Critical foreign language
 
-&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for EconomicSecurity Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
+&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
 
 #### (4) Department
 
@@ -28,7 +28,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 &emsp;&emsp;(B) lacks accreditation by an accrediting agency or association that is recognized as an accrediting agency or association of institutions of higher education (as such term is defined in section 1002 of this title) by—
 
-&emsp;&emsp;&emsp;(i) the Secretary pursuant to subpart 2 of part G of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;(i) the Secretary pursuant to subpart 2 of part H of subchapter IV; or
 
 &emsp;&emsp;&emsp;(ii) a Federal agency, State government, or other organization or association that recognizes accrediting agencies or associations.
 
@@ -92,7 +92,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (12) New borrower
 
-&emsp;The term "new borrower" when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The term "new borrower" when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV.
 
 #### (13) Nonprofit
 
@@ -106,7 +106,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 &emsp;The term "school or department of divinity" means an institution, or a department or a branch of an institution, the program of instruction of which is designed for the education of students—
 
-&emsp;&emsp;(A) to prepare the students to become ministers of religion or to enter upon some otherreligious vocation (or to provide continuing training for any such vocation); or
+&emsp;&emsp;(A) to prepare the students to become ministers of religion or to enter upon some other religious vocation (or to provide continuing training for any such vocation); or
 
 &emsp;&emsp;(B) to prepare the students to teach theological subjects.
 
@@ -164,7 +164,7 @@ Section 212(d) of the Education for Economic Security Act, referred to in par. (
 
 The Head Start Act, referred to in par. (8)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (8)(C)(ii)(II), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (8)(C)(ii)(II), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act isclassified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Section 12511(23) of title 42, referred to in par. (18), was redesignated section 12511(40) by Pub. L. 111–13, title I, §1102(b)(1), Apr. 21, 2009, 123 Stat. 1467.
 
@@ -184,7 +184,7 @@ A prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 102–3
 
 Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to thegeneral amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1005, Pub. L. 89–329, title I, §105, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 461, related to peer review of applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -226,7 +226,7 @@ Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Education and Labor of House of Representatives changed to Committee on Education andthe Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 

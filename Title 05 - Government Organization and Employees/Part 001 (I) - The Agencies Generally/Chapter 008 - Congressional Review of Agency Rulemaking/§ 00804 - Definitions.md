@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;(3) The term "rule" has the meaning given such term in section 551, except that such term does not include—
 
-&emsp;&emsp;(A) any rule of particular applicability, including a rule that approves or prescribes for the future rates, wages, prices, services, or allowances therefor, corporate or financialstructures, reorganizations, mergers, or acquisitions thereof, or accounting practices or disclosures bearing on any of the foregoing;
+&emsp;&emsp;(A) any rule of particular applicability, including a rule that approves or prescribes for the future rates, wages, prices, services, or allowances therefor, corporate or financial structures, reorganizations, mergers, or acquisitions thereof, or accounting practices or disclosures bearing on any of the foregoing;
 
 &emsp;&emsp;(B) any rule relating to agency management or personnel; or
 

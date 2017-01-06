@@ -82,7 +82,7 @@ Pub. L. 107–107, div. A, title V, §532(d), Dec. 28, 2001, 115 Stat. 1105, pro
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title IX, §911(b), Oct. 5, 1994, 108 Stat. 2828, provided that: "The authority provided by section 7102(a) of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the Command and Staff College of the Marine Corps University for the degree of master of military studies are in accordance with generally applicable requirements for a degree of master of arts." \[Approval granted by Secretary of Education on Mar. 22, 1995, for Marine Corps University to award the Master of Military Studies degree through its Command and Staff College.\]
+Pub. L. 103–337, div. A, title IX, §911(b), Oct. 5, 1994, 108 Stat. 2828, provided that: "The authority providedby section 7102(a) of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the Command and Staff College of the Marine Corps University for the degree of master of military studies are in accordance with generally applicable requirements for a degree of master of arts." \[Approval granted by Secretary of Education on Mar. 22, 1995, for Marine Corps University to award the Master of Military Studies degree through its Command and Staff College.\]
 
 #### Board of Advisors for Marine Corps University
 

@@ -104,7 +104,7 @@ Objectives.—In carrying out this paragraph, the Secretary shall carry out rese
 
 &emsp;&emsp;&emsp;(ii) to improve the safety and security of highway infrastructure;
 
-&emsp;&emsp;&emsp;(iii) to increase the reliability of lifecycle performance predictions used ininfrastructure design, construction, and management;
+&emsp;&emsp;&emsp;(iii) to increase the reliability of lifecycle performance predictions used in infrastructure design, construction, and management;
 
 &emsp;&emsp;&emsp;(iv) to improve the ability of transportation agencies to deliver projects that meet expectations for timeliness, quality, and cost;
 
@@ -380,7 +380,7 @@ Technology and Innovation Deployment Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall carry out a technology and innovation deployment program relating to all aspects of highway transportation, including planning, financing, operation, structures, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
+In general.—The Secretary shall carry out a technology and innovation deploymentprogram relating to all aspects of highway transportation, including planning, financing, operation, structures, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
 
 &emsp;&emsp;(A) significantly accelerating the adoption of innovative technologies by the surface transportation community;
 
@@ -580,7 +580,7 @@ Use of grant funds.—A grant recipient may use funds awarded under this paragra
 
 &emsp;&emsp;(F)
 
-Report to secretary.—For each eligible entity that receives a grant under this paragraph, not later than 1 year after the entity receives the grant, and each year thereafter, the entity shall submit a report to the Secretary that describes—
+Report to secretary.—For each eligible entity that receives a grant under this paragraph, not later than 1 year after theentity receives the grant, and each year thereafter, the entity shall submit a report to the Secretary that describes—
 
 &emsp;&emsp;&emsp;(i) deployment and operational costs of the project compared to the benefits and savings the project provides; and
 
@@ -652,7 +652,7 @@ Grant flexibility.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applicationsthat meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
+In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
 
 &emsp;&emsp;&emsp;&emsp;(I) any of the funds reserved for the fiscal year under subparagraph (I) that the Secretary has not yet awarded under this paragraph; and
 
@@ -682,7 +682,7 @@ Eligible entity.—The term "eligible entity" means a State or local government,
 
 &emsp;&emsp;&emsp;(ii)
 
-Advanced and congestion management transportation technologies.—The term "advanced transportation and congestion management technologies" means technologies that improve the efficiency, safety, or state of good repair of surface transportation systems, including intelligent transportation systems.
+Advanced and congestion management transportation technologies.—Theterm "advanced transportation and congestion management technologies" means technologies that improve the efficiency, safety, or state of good repair of surface transportation systems, including intelligent transportation systems.
 
 &emsp;&emsp;&emsp;(iii)
 

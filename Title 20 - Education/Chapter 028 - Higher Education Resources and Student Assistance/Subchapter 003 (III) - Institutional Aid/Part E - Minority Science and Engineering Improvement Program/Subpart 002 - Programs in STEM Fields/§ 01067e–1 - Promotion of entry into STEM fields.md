@@ -10,7 +10,7 @@ The campaign under this section shall be designed to enhance the image of educat
 
 &emsp;(1) monitoring trends in youths' attitudes toward pursuing education and professions in the STEM fields and their propensity toward entering the STEM fields;
 
-&emsp;(2) determining what factors contribute to encouraging and discouraging Americans from pursuing study in STEM fields and entering the STEM fields professionally;
+&emsp;(2) determining what factors contribute to encouraging and discouraging Americans frompursuing study in STEM fields and entering the STEM fields professionally;
 
 &emsp;(3) determining what specific factors limit the participation of groups currently underrepresented in STEM fields, including Latinos, African-Americans, and women; and
 

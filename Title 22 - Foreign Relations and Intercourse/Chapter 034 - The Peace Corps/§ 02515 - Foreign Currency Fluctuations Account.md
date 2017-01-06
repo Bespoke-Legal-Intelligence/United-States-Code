@@ -44,11 +44,11 @@ Each year the Director of the Peace Corps shall submit to the Committee on Forei
 
 #### Prior Provisions
 
-A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 622, related to appointment of personsserving under prior law, prior to repeal by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765.
+A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 622, related to appointment of persons serving under prior law, prior to repeal by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765.
 
 #### Effective Date
 
-Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: "The amendment made by subsection (a) \[enacting this section\] applies with respect to each fiscal year after fiscal year 1992."
+Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: "The amendment made by subsection (a)\[enacting this section\] applies with respect to each fiscal year after fiscal year 1992."
 
 #### Repeals; Amendments and Application of Amendments Unaffected; Continuation of Determinations, Authorization, Regulations, Orders, Contracts, Agreements, and Other Actions
 

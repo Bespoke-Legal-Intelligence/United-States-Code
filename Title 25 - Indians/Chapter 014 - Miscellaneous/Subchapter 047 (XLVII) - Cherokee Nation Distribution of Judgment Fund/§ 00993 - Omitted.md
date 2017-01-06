@@ -1,0 +1,6 @@
+### §993. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–775, §3, Oct. 9, 1962, 76 Stat. 776, which related to time for filing of claims, reversion of funds upon failure to file, and use of reverted funds, was omitted from the Code as being of special and not general application.
+

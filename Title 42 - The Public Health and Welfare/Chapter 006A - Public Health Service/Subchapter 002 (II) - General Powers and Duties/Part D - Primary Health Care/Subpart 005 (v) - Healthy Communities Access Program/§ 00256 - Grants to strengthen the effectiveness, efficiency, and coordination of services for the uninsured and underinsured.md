@@ -60,7 +60,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 2003, 2004, 2005, and 2006, the Secretary may not make more than 35 new awards under subsection (a) of this section (excluding renewals of such awards).
+&emsp;&emsp;For each of fiscal years 2003, 2004, 2005, and 2006, the Secretary may not make more than 35 new awards under subsection (a) (excluding renewals of such awards).
 
 #### (B) Rule of construction
 
@@ -74,13 +74,13 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;(B) the Secretary determines that extraordinary circumstances (as defined in paragraph (3)) justify the granting of such request; and
 
-&emsp;&emsp;(C) the Secretary determines that granting such request is necessary to further the objectives described in subsection (a) of this section.
+&emsp;&emsp;(C) the Secretary determines that granting such request is necessary to further the objectives described in subsection (a).
 
 #### (3) Extraordinary circumstances
 
 #### (A) In general
 
-&emsp;&emsp;In paragraph (2), the term "extraordinary circumstances" means an event (or events) that is outside of the control of the eligible entity that has prevented the eligible entity from fulfilling the objectives described by such entity in the application submitted under subsection (b)(2) of this section.
+&emsp;&emsp;In paragraph (2), the term "extraordinary circumstances" means an event (or events) that is outside of the control of the eligible entity that has prevented the eligible entity from fulfilling the objectives described by such entity in the application submitted under subsection (b)(2).
 
 #### (B) Examples
 
@@ -88,13 +88,13 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;&emsp;(i) natural disasters or other major disruptions to the security or health of the community or geographic area served by the eligible entity; or
 
-&emsp;&emsp;&emsp;(ii) a significant economic deterioration in the community or geographic area served by such eligible entity, that directly and adversely affects the entity receiving an award under subsection (a) of this section.
+&emsp;&emsp;&emsp;(ii) a significant economic deterioration in the community or geographic area served by such eligible entity, that directly and adversely affects the entity receiving an award under subsection (a).
 
 #### (d) Priorities
 
 In awarding grants under this section, the Secretary—
 
-&emsp;(1) shall accord priority to applicants that demonstrate the extent of unmet need in thecommunity involved for a more coordinated system of care; and
+&emsp;(1) shall accord priority to applicants that demonstrate the extent of unmet need in the community involved for a more coordinated system of care; and
 
 &emsp;(2) may accord priority to applicants that best promote the objectives of this section, taking into consideration the extent to which the application involved—
 
@@ -166,7 +166,7 @@ In awarding grants under this section, the Secretary—
 
 &emsp;&emsp;(A) report to the Secretary annually regarding—
 
-&emsp;&emsp;&emsp;(i) progress in meeting the goals and measurable objectives set forth in the grant application submitted by the grantee under subsection (b) of this section; and
+&emsp;&emsp;&emsp;(i) progress in meeting the goals and measurable objectives set forth in the grant application submitted by the grantee under subsection (b); and
 
 &emsp;&emsp;&emsp;(ii) the extent to which activities conducted by such grantee have—
 
@@ -198,7 +198,7 @@ Not later than September 30, 2005, the Secretary shall prepare and submit to the
 
 The Secretary may make demonstration awards under this section to historically black health professions schools for the purposes of—
 
-&emsp;(1) developing patient-based research infrastructure at historically black health professions schools, which have an affiliation, or affiliations, with any of the providers identified in subsection (b)(1)(B) of this section;
+&emsp;(1) developing patient-based research infrastructure at historically black health professions schools, which have an affiliation, or affiliations, with any of the providers identified in subsection (b)(1)(B);
 
 &emsp;(2) establishment of joint and collaborative programs of medical research and data collection between historically black health professions schools and such providers, whose goal is to improve the health status of medically underserved populations; or
 
@@ -240,7 +240,7 @@ Authorization.—There is authorized to be appropriated such sums as may be nece
 
 #### Purpose
 
-Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
+Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enactingthis subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
 
 &emsp;"(1) coordination of services to allow individuals to receive efficient and higher quality care and to gain entry into and receive services from a comprehensive system of care;
 

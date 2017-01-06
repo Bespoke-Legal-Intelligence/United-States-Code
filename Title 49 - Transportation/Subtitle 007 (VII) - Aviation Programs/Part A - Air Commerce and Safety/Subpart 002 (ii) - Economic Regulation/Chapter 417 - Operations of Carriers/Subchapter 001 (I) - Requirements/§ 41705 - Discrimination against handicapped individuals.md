@@ -76,13 +76,31 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Training Policies Regarding Assistance for Persons With Disabilities
+
+Pub. L. 114–190, title II, §2107, July 15, 2016, 130 Stat. 622, provided that:
+
+"(a)
+
+In General.—Not later than 270 days after the date of enactment of this Act \[July 15, 2016\], the Comptroller General of the United States shall submit to Congress a report assessing required air carrier personnel and contractor training programs regarding the assistance of persons with disabilities, including—
+
+&emsp;"(1) variations in training programs between air carriers;
+
+&emsp;"(2) instances since 2005 where the Department of Transportation has requested that an air carrier take corrective action following a review of the air carrier's training programs; and
+
+&emsp;"(3) actions taken by air carriers following requests described in paragraph (2).
+
+"(b)
+
+Best Practices.—After the date the report is submitted under subsection (a), the Secretary of Transportation, based on the findings of the report, shall develop, make publicly available, and appropriately disseminate to air carriers such best practices as the Secretary considers necessary to improve the reviewed training programs."
+
 #### Establishment of Higher International Standards
 
 Pub. L. 106–181, title VII, §707(c), Apr. 5, 2000, 114 Stat. 158, provided that: "The Secretary \[of Transportation\] shall work with appropriate international organizations and the aviation authorities of other nations to bring about the establishment of higher standards for accommodating handicapped passengers in air transportation, particularly with respect to foreign air carriers that code-share with air carriers."
 
 #### Restrictions on Air Transportation of Peanuts; Scientific Study on Effect of Airborne Particles on Passengers
 
-Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that: "Hereafter, none of the funds madeavailable under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under section 41705 of title 49, United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in section 40102 of title 49, United States Code) to, on intrastate or interstate air transportation (as those terms are defined in section 40102 of title 49, United States Code)—
+Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that: "Hereafter, none of the funds made available under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under section 41705 of title 49, United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in section 40102 of title 49, United States Code) to, on intrastate or interstate air transportation (as those terms are defined in section 40102 of title 49, United States Code)—
 
 &emsp;"(1) provide a peanut-free buffer zone or any other related peanut-restricted area; or
 

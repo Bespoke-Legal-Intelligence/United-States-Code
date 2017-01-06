@@ -14,11 +14,11 @@
 
 #### (b) Investigation and report by Attorney General respecting feasibility of recovery of costs from any person determined by Attorney General to be liable
 
-The Attorney General shall conduct an investigation to determine whether, by using all available means, the United States should or could recover, from any person determined by the Attorney General to be liable for such costs,the amounts expended by the United States to carry out this chapter. Within one year after June 14, 1980, the Attorney General shall submit to the Congress a report containing the results of the study, together with any appropriate recommendations.
+The Attorney General shall conduct an investigation to determine whether, by using all available means, the United States should or could recover, from any person determined by the Attorney General to be liable for such costs, the amounts expended by the United States to carry out this chapter. Within one year after June 14, 1980, the Attorney General shall submit to the Congress a report containing the results of the study, together with any appropriate recommendations.
 
 #### (c) Expeditious proceedings by Attorney General
 
-If the Attorney General determines in the report under subsection (b) of this section that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b) of this section.
+If the Attorney General determines in the report under subsection (b) that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b).
 
 (Pub. L. 96–270, §8, June 14, 1980, 94 Stat. 495.)
 

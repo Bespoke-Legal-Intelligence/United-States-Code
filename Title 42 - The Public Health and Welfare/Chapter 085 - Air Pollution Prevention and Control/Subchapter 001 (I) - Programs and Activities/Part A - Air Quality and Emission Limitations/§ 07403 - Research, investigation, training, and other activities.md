@@ -56,7 +56,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 #### (d) Environmental health effects research
 
-(1) The Administrator, in consultation with the Secretary of Health and Human Services, shall conduct a research program on the short-term and long-term effects of air pollutants, including wood smoke, on human health. In conducting such research program the Administrator—
+(1) The Administrator, in consultation with the Secretary of Health and Human Services,shall conduct a research program on the short-term and long-term effects of air pollutants, including wood smoke, on human health. In conducting such research program the Administrator—
 
 &emsp;(A) shall conduct studies, including epidemiological, clinical, and laboratory and field studies, as necessary to identify and evaluate exposure to and effects of air pollutants on human health;
 
@@ -72,7 +72,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(C) Preparation of environmental health assessments for each of the hazardous air pollutants referred to in subparagraph (B), beginning 6 months after the first meeting of the Interagency Task Force and to be completed within 96 months thereafter. No fewer than 24 assessments shall be completed and published annually. The assessments shall be prepared in accordance with guidelines developed by the Administrator in consultation with the Interagency Task Force and the Science Advisory Board of the Environmental Protection Agency. Each such assessment shall include—
 
-&emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure whichpose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
+&emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure which pose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
 
 &emsp;&emsp;(ii) a determination of gaps in available information related to human health effects and exposure levels; and
 
@@ -130,7 +130,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
-&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, includingend-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
+&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
 &emsp;(2) Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
 
@@ -160,7 +160,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;(3) a methodology for evaluating and ranking pollution prevention technologies, such as those developed under subsection (g) of this section, in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
 
-> Not later than 2 years after November 15, 1990, and every 4 years thereafter, the Administrator shall report to Congress on the progress made in implementing the plan developed under this subsection, and shall include in such report any revisions of the plan.
+> Not later than 2 years after November 15, 1990, and every 4 years thereafter, the Administrator shall report to Congress on the progress made inimplementing the plan developed under this subsection, and shall include in such report any revisions of the plan.
 
 #### (j) Continuation of national acid precipitation assessment program
 
@@ -238,7 +238,7 @@ Subsecs. (g) to (k). Pub. L. 101–549, §901(c), added subsecs. (g) to (k).
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–95, §101(b), struck out reference to "training" in par. (1) and added par. (5).
 
-Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to,personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
+Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary".
 
@@ -272,7 +272,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i) of this se
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Termination of Advisory Committees
 
@@ -302,7 +302,7 @@ Pub. L. 101–549, title IX, §901(g), Nov. 15, 1990, 104 Stat. 2707, provided t
 
 &emsp;"(C) the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds.
 
-"(2) The Administrator of the Environmental Protection Agency shall analyze data generated from thestudies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1)."
+"(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1)."
 
 #### Consultation With and Transmission of Reports and Studies to Congressional Committee
 

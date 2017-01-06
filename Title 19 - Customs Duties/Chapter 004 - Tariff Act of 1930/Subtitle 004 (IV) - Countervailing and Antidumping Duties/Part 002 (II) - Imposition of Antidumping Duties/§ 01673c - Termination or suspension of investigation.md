@@ -86,7 +86,7 @@ The administering authority may not accept an agreement under subsection (b) or 
 
 &emsp;(2) effective monitoring of the agreement by the United States is practicable.
 
-> Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon.
+> Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extentpossible, an opportunity to submit comments thereon.
 
 #### (e) Suspension of investigation procedure
 
@@ -102,7 +102,7 @@ Before an investigation may be suspended under subsection (b) or (c) the adminis
 
 #### (1) In general
 
-&emsp;If the administering authority determines to suspend an investigation upon acceptance ofan agreement described in subsection (b) or (c), then—
+&emsp;If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c), then—
 
 &emsp;&emsp;(A) it shall suspend the investigation, publish notice of suspension of the investigation, and issue an affirmative preliminary determination under section 1673b(b) of this title with respect to the subject merchandise, unless it has previously issued such a determination in the same investigation,
 
@@ -158,7 +158,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (2) Commission investigation
 
-&emsp;Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If the Commission's determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under section 1673b(b) of this title had been made on that date.
+&emsp;Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If theCommission's determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under section 1673b(b) of this title had been made on that date.
 
 #### (3) Suspension of liquidation to continue during review period
 
@@ -184,7 +184,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 &emsp;&emsp;(C) if the investigation was completed under subsection (g), issue an antidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
 
-&emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
+&emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of U.S. Customs and Border Protection who shall take appropriate action under paragraph (2), and
 
 &emsp;&emsp;(E) notify the petitioner, interested parties who are or were parties to the investigation, and the Commission of its action under this paragraph.
 
@@ -228,7 +228,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 &emsp;If an agreement described in paragraph (1) is accepted after the antidumping duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1673b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to antidumping duties.
 
-(June 17, 1930, ch. 497, title VII, §734, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 165; amended Pub. L. 98–573, title VI, §§604(b), 612(b)(2), Oct. 30, 1984, 98 Stat. 3026, 3034; Pub. L.100–418, title I, §§1316(c), 1326(d)(2), Aug. 23, 1988, 102 Stat. 1187, 1204; Pub. L. 103–465, title II, §§216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), Dec. 8, 1994, 108 Stat. 4853, 4854, 4857, 4898, 4900.)
+(June 17, 1930, ch. 497, title VII, §734, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 165; amended Pub. L. 98–573, title VI, §§604(b), 612(b)(2), Oct. 30, 1984, 98 Stat. 3026, 3034; Pub. L. 100–418, title I, §§1316(c), 1326(d)(2), Aug. 23, 1988, 102 Stat. 1187, 1204; Pub. L. 103–465, title II, §§216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), Dec. 8, 1994, 108 Stat. 4853, 4854, 4857, 4898, 4900; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Amendments
 
@@ -280,6 +280,10 @@ Subsec. (i)(1)(D), (E). Pub. L. 98–573, §604(b)(4), added subpar. (D) and red
 
 Subsec. (k). Pub. L. 98–573, §604(b)(5), added subsec. (k).
 
+#### Change of Name
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
@@ -290,9 +294,9 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) ofPub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

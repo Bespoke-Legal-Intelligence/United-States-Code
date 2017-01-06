@@ -30,7 +30,7 @@ There is established the Federal Permitting Improvement Steering Council.
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Consistent with guidance provided by the Director of the Office of Managementand Budget, each individual listed in subparagraph (B) shall designate 1 or more appropriate members of the agency in which the individual serves to serve as an agency CERPO.
+&emsp;&emsp;&emsp;&emsp;Consistent with guidance provided by the Director of the Office of Management and Budget, each individual listed in subparagraph (B) shall designate 1 or more appropriate members of the agency in which the individual serves to serve as an agency CERPO.
 
 #### (II) Reporting
 

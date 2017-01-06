@@ -14,7 +14,7 @@ Termination of Waiver.—(1) Upon the termination of a war or national emergency
 
 (c)
 
-Statutory End Strength.—In this section, the term "statutory end strength" means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
+Statutory End Strength.—In this section, the term "statutory end strength" means any end-strength limitation with respect to afiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, §421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, \[div. A\], title IV, §416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430.)
 

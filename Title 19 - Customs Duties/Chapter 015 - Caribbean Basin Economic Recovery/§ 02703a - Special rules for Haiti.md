@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;(B) the articles are shipped from Haiti or the Dominican Republic into the United States through the territory of an intermediate country, and—
 
-&emsp;&emsp;&emsp;(i) the articles in the shipment do not enter into the commerce of any intermediate country, and the invoices, bills of lading, and other shipping documents specifythe United States as the final destination; or
+&emsp;&emsp;&emsp;(i) the articles in the shipment do not enter into the commerce of any intermediate country, and the invoices, bills of lading, and other shipping documents specify the United States as the final destination; or
 
 &emsp;&emsp;&emsp;(ii) the invoices and other documents do not specify the United States as the final destination, but the articles in the shipment—
 
@@ -259,7 +259,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) The following apparel articles of cotton, for men or boys, that are classifiable under subheading 6109.10.00 of the HTS:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom,with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom, with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) All white singlets, without pockets, trim, or embroidery.
 
@@ -717,7 +717,7 @@ In this section:
 
 #### (i) Establishment
 
-&emsp;&emsp;&emsp;The Secretary of Commerce shall establish a program to provide earned import allowance certificates to any producer or entity controlling production for purposes of subparagraph (A), based on the elements described in clause (ii).
+&emsp;&emsp;&emsp;The Secretary of Commerce shall establish a program to provide earned import allowance certificates to any producer orentity controlling production for purposes of subparagraph (A), based on the elements described in clause (ii).
 
 #### (ii) Elements
 
@@ -763,7 +763,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain nylon filament yarn to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 
-&emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
+&emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible asqualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
 
 &emsp;&emsp;&emsp;&emsp;(III) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns covered by clause (i) or (ii) of paragraph (5)(A).
 
@@ -1021,7 +1021,7 @@ In this section:
 
 #### (ii) Assistance to producers; withdrawal, etc., of preferential treatment
 
-&emsp;&emsp;&emsp;For each producer that the President identifies under clause (i), the President shall seek to assist such producer in coming into compliance with core labor standards and with the labor laws of Haiti that directly relate to and are consistent withcore labor standards. If such efforts fail, the President shall withdraw, suspend, or limit the application of preferential treatment under subsection (b) to articles of such producer.
+&emsp;&emsp;&emsp;For each producer that the President identifies under clause (i), the President shall seek to assist such producer in coming into compliance with core labor standards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards. If such efforts fail, the President shall withdraw, suspend, or limit the application of preferential treatment under subsection (b) to articles of such producer.
 
 #### (iii) Reinstating preferential treatment
 
@@ -1081,7 +1081,7 @@ In this section:
 
 #### (B) Technical and other assistance
 
-&emsp;&emsp;The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti andthe Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
+&emsp;&emsp;The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti and the Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
 
 #### (g) Regulations
 
@@ -1095,7 +1095,7 @@ Except as provided in subsection (b)(1), the duty-free treatment provided under 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(D), (2)(A)(iii), (B)(iv), (6), was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This chapter, referred to in subsec. (b)(1)(D), (2)(A)(iii), (B)(iv), (6), was in the original "this title",meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Proclamation 8213 of the President of December 20, 2007, referred to in subsec. (b)(3)(B), is Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73555. Par. (4) of Proclamation 8213 appears as a paraphrased Delegation of Functions note under section 4033 of this title.
 
@@ -1179,7 +1179,7 @@ Subsec. (b). Pub. L. 110–246, §15402(a)(5), (b), (c), as amended by Pub. L. 1
 
 Pub. L. 110–246, §15402(a)(4), as amended by Pub. L. 110–436, §7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted "subparagraph (A)" for "paragraph (1)" in two places, in table substituted "1.25 percent" for "1.5 percent" during the third applicable 1-year period, "1.25 percent" for "1.75 percent" during the fourth applicable 1-year period, and "1.25 percent" for "2 percent" during the fifth applicable 1-year period.
 
-Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted "that enters into force thereafter" for "that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)", amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted "U.S. Customs and Border Protection" for "The Bureau of Customs and Border Protection" in subcl. (I) and for "the Bureau of Customs and Border Protection" in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted "with respect to the United States" for "under the Bipartisan Trade Promotion Authority Act of 2002".
+Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. assubcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted "that enters into force thereafter" for "that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)", amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted "U.S. Customs and Border Protection" for "The Bureau of Customs and Border Protection" in subcl. (I) and for "the Bureau of Customs and Border Protection" in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted "with respect to the United States" for "under the Bipartisan Trade Promotion Authority Act of 2002".
 
 Pub. L. 110–246, §15402(a)(2), as amended by Pub. L. 110–436, §7(1), amended par. (1) generally. Prior to amendment, text read as follows: "In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e)."
 
@@ -1237,7 +1237,7 @@ Pub. L. 110–234, title XV, §15407, May 22, 2008, 122 Stat. 1546, and Pub. L. 
 
 #### Delegation of Functions
 
-Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultationwith the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
+Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultation with the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
 
 Proc. No. 8114, Mar. 19, 2007, 72 F.R. 13656, provided in par. (5) that the Secretary of the Treasury is authorized to perform the functions assigned to the President under subsec. (f) of this section.
 
@@ -1253,7 +1253,7 @@ Pub. L. 111–171, §2, May 24, 2010, 124 Stat. 1194, provided that: "Congress f
 
 &emsp;"(4) In recent years, however, the Government and people of Haiti had taken important steps forward to promote economic growth and development, including making strides towards establishing a competitive apparel sector.
 
-&emsp;"(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[Pub. L. 106–200, title II, see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[Pub. L. 109–432, div. D, title V, see Tables for classification\], and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 \[Pub. L. 110–234, title XV, subtitle D, part I, and Pub. L. 110–246, title XV, subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti's economic development efforts.
+&emsp;"(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[Pub. L. 106–200, title II, see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[Pub. L. 109–432, div.D, title V, see Tables for classification\], and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 \[Pub. L. 110–234, title XV, subtitle D, part I, and Pub. L. 110–246, title XV, subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti's economic development efforts.
 
 &emsp;"(6) However, the Haitian apparel sector has been hard hit by the January 12, 2010, earthquake. A number of apparel factories based in and around Port-au-Prince have been heavily damaged, including the collapse of one major apparel factory that had employed nearly 4,000 workers.
 
@@ -1327,7 +1327,7 @@ Supplement and not supplant.—The amounts authorized to be appropriated by para
 
 #### Presidential Proclamation Authority
 
-Pub. L. 110–234, title XV, §15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, §4(a), title XV, §15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: "The President may exercise the authority under section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\] to proclaim such modifications to the Harmonized Tariff Schedule of theUnited States as may be necessary to carry out this part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title\] and the amendments made by this part."
+Pub. L. 110–234, title XV, §15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, §4(a), title XV, §15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: "The President may exercise the authority under section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\] to proclaim such modifications to the Harmonized Tariff Schedule of the United States as may be necessary to carry out this part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title\] and the amendments made by this part."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

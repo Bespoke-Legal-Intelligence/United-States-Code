@@ -90,7 +90,7 @@ In this section:
 
 #### References in Text
 
-Section 3014 of this Act, referred to in subsec. (d), is section 3014 of Pub. L. 111–148 which enacted section 1395aaa–1 of this title and amended section 1395aaa of this title.
+Section 3014 of this Act, referred to in subsec. (d), is section 3014 of Pub. L. 111–148 which enacted section1395aaa–1 of this title and amended section 1395aaa of this title.
 
 Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is section 131 of Pub. L. 110–275, 122 Stat. 2520, which amended section 1395w–4 of this title, enacted provisions set out as notes under section 1395w–4 of this title, and redesignated provisions formerly set out as a note under section 1395w–4 of this title as section 1395w–4(m).
 

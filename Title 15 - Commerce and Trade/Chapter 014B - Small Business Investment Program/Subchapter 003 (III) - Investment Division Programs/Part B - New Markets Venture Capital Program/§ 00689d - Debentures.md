@@ -16,7 +16,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (1) In general
 
-&emsp;Under this section, the Administrator may guarantee the debentures issued by a New Markets Venture Capital company only to be <sup>1</sup> extent that the total face amount of outstanding guaranteed debentures of such company does not exceed 150 percent of the private capital of the company, as determined by the Administrator.
+&emsp;Under this section, the Administrator may guarantee the debentures issued by a NewMarkets Venture Capital company only to be <sup>1</sup> extent that the total face amount of outstanding guaranteed debentures of such company does not exceed 150 percent of the private capital of the company, as determined by the Administrator.
 
 #### (2) Treatment of certain Federal funds
 

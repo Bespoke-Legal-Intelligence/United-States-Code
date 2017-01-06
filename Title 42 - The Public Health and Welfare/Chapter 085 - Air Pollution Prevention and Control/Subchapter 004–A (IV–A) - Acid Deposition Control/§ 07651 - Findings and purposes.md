@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the problem of acid deposition is of national and international significance;
 
-&emsp;(4) strategies and technologies for the control of precursors to acid deposition exist nowthat are economically feasible, and improved methods are expected to become increasingly available over the next decade;
+&emsp;(4) strategies and technologies for the control of precursors to acid deposition exist now that are economically feasible, and improved methods are expected to become increasingly available over the next decade;
 
 &emsp;(5) current and future generations of Americans will be adversely affected by delaying measures to remedy the problem;
 

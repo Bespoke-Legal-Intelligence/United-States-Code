@@ -40,6 +40,10 @@ The Council shall consult with and assist the Federal entities for lending regul
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–320 substituted "unacceptable" for "unaccepted".
 
+#### Effective Date
+
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
 #### Report on Consistent Use of Financial Terminology
 
 Pub. L. 103–325, title II, §210, Sept. 23, 1994, 108 Stat. 2203, provided that: "Not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(53)(A)\])."
@@ -66,7 +70,7 @@ Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, provided that
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council, inconsultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, shall—
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council, in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, shall—
 
 &emsp;"(1) review the policies and procedures, and recordkeeping and documentation requirements used to monitor and enforce compliance with—
 

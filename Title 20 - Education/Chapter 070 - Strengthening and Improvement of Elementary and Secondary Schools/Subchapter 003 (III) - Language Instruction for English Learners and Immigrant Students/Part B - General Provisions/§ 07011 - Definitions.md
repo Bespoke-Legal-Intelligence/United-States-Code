@@ -72,7 +72,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;The term "specially qualified agency" means an eligible entity in a State whose State educational agency—
 
-&emsp;&emsp;(A) does not participate in a program under subpart 1 of part A of this subchapter for a fiscal year; or
+&emsp;&emsp;(A) does not participate in a program under subpart 1 of part A for a fiscal year; or
 
 &emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
 
@@ -90,7 +90,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;&emsp;(i) chartered by the governing body of an Indian tribe to operate a school described in section 6822(a) of this title or otherwise to oversee the delivery of educational services to members of the tribe; and
 
-&emsp;&emsp;&emsp;(ii) approved by the Secretary for the purpose of carrying out programs under subpart 1 of part A of this subchapter for individuals served by a school described in section 6822(a) of this title.
+&emsp;&emsp;&emsp;(ii) approved by the Secretary for the purpose of carrying out programs under subpart 1 of part A for individuals served by a school described in section 6822(a) of this title.
 
 (Pub. L. 89–10, title III, §3201, formerly §3301, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1729; amended Pub. L. 110–315, title IX, §941(k)(2)(F)(i), Aug. 14, 2008, 122 Stat. 3466; renumbered §3201 and amended Pub. L. 114–95, title III, §§3001(5)(A), 3004(a), Dec. 10, 2015, 129 Stat. 1953, 1965.)
 
@@ -142,7 +142,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;"(1) studies to determine and evaluate effective models for bilingual education programs;
 
-&emsp;"(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English;
+&emsp;"(2) studies which examine the process by which individuals acquire a second language and master thesubject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English;
 
 &emsp;"(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 \[former 20 U.S.C. 3281 et seq.\] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates);
 

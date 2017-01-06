@@ -8,7 +8,7 @@
 
 (b) The Secretary may establish a schedule of fees for copies and certification of such records.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3302; renumbered §5702 and amended Pub. L. 102–40,title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(e)(16), Nov. 2, 1994, 108 Stat. 4686.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3302; renumbered §5702 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(e)(16), Nov. 2, 1994, 108 Stat. 4686.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ Section 2396h, Pub. L. 88–210, title III, §370, as added Pub. L. 101–392, t
 
 Section 2396i, Pub. L. 88–210, title III, §371, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 798, defined terms "eligible recipient" and "parent".
 
-Section 2396m, Pub. L. 88–210, title III, §375, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat. 798, authorized grants to establish and operate vocational education lighthouse schools.
+Section 2396m, Pub. L. 88–210, title III, §375, as added Pub. L. 101–392, title III, §310, Sept. 25, 1990, 104 Stat.798, authorized grants to establish and operate vocational education lighthouse schools.
 
 #### Short Title
 

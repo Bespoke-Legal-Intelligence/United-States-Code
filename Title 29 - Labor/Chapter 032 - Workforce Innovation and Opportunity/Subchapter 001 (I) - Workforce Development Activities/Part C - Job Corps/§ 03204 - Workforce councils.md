@@ -36,7 +36,7 @@ Each Job Corps center shall have a workforce council, appointed by the director 
 
 The responsibilities of the workforce council shall be—
 
-&emsp;(1) to work closely with all applicable local boards in order to determine, and recommendto the Secretary, appropriate career and technical education and training for the center;
+&emsp;(1) to work closely with all applicable local boards in order to determine, and recommend to the Secretary, appropriate career and technical education and training for the center;
 
 &emsp;(2) to review all the relevant labor market information, including related information in the State plan or the local plan, to—
 

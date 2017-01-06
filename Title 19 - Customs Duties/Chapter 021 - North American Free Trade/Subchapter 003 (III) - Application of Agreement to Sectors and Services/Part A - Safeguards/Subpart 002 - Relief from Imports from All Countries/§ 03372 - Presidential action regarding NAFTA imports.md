@@ -16,7 +16,7 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 
 #### (1) In general
 
-&emsp;If the President, under subsection (b), excludes imports from a NAFTA country or countries from action under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 etseq.\] but thereafter determines that a surge in imports from that country or countries is undermining the effectiveness of the action—
+&emsp;If the President, under subsection (b), excludes imports from a NAFTA country or countries from action under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\] but thereafter determines that a surge in imports from that country or countries is undermining the effectiveness of the action—
 
 &emsp;&emsp;(A) the President may take appropriate action under such chapter 1 to include those imports in the action; and
 

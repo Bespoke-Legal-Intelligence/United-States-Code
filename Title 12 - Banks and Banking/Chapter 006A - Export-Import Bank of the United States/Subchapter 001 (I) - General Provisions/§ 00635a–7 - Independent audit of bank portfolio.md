@@ -6,13 +6,13 @@ The Inspector General of the Export-Import Bank of the United States shall condu
 
 #### (b) Report
 
-Not later than 1 year after December 4, 2015, and not less frequently than every 3 years thereafter, the Inspector General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a written report containing all findings and determinations made in carrying out subsection (a).
+Not later than 1 year after December 4, 2015, and not less frequently than every 3 years thereafter, the Inspector General shall submit to theCommittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a written report containing all findings and determinations made in carrying out subsection (a).
 
 (Pub. L. 114–94, div. E, title LI, §51007, Dec. 4, 2015, 129 Stat. 1766.)
 
 #### References in Text
 
-Section 635a(l) of this title, as amended by section 51005, referred to in subsec. (a), is section 635a(<i>1</i>) of this title, as amended by section 51005 of Pub. L. 114–94.
+Section 635a(l) of this title, as amended by section 51005, referred to in subsec. (a), is section 635a(l) of this title, as amended by section 51005 of Pub. L. 114–94.
 
 #### Codification
 

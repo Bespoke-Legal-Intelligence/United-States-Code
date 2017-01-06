@@ -6,7 +6,7 @@ The President, subject to subsection (c), shall apply sanctions under subsection
 
 &emsp;(1) a foreign person has violated any regulation issued by a country to control exports for national security purposes pursuant to the agreement of the group known as the Coordinating Committee, and
 
-&emsp;(2) such violation has resulted in substantial enhancement of Soviet and East bloc capabilities in submarine or antisubmarine warfare, ballistic or antiballistic missile technology, strategic aircraft, command, control, communications and intelligence, or other criticaltechnologies as determined by the President, on the advice of the National Security Council, to represent a serious adverse impact on the strategic balance of forces.
+&emsp;(2) such violation has resulted in substantial enhancement of Soviet and East bloc capabilities in submarine or antisubmarine warfare, ballistic or antiballistic missile technology, strategic aircraft, command, control, communications and intelligence, or other critical technologies as determined by the President, on the advice of the National Security Council, to represent a serious adverse impact on the strategic balance of forces.
 
 > The President shall notify the Congress of each action taken under this section. This section, except subsections (h) and (j), applies only to violations that occur after August 23, 1988.
 
@@ -48,7 +48,7 @@ The President shall not apply sanctions under this section to a parent, affiliat
 
 &emsp;(1) the parent, affiliate, subsidiary, or successor entity (as the case may be) has not knowingly violated the export control regulation violated by the foreign person, and
 
-&emsp;(2) the government of the country with jurisdiction over the parent, affiliate, subsidiary, or successor entity had in effect, at the time of the violation by the foreign person, an effective export control system consistent with principles agreed to in the Coordinating Committee, including the following:
+&emsp;(2) the government of the country with jurisdiction over the parent, affiliate, subsidiary, or successor entity had in effect, at the timeof the violation by the foreign person, an effective export control system consistent with principles agreed to in the Coordinating Committee, including the following:
 
 &emsp;&emsp;(A) national laws providing appropriate civil and criminal penalties and statutes of limitations sufficient to deter potential violations;
 

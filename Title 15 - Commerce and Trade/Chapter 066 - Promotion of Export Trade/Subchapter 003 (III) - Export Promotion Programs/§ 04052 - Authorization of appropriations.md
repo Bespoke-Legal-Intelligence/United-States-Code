@@ -24,5 +24,5 @@ Section was enacted as part of the Export Administration Amendments Act of 1985,
 
 <b>1988</b>—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: "There is authorized to be appropriated $123,922,000 for each of the fiscal years 1987 and 1988 to the Department of Commerce to carry out export promotion programs."
 
-<b>1986</b>—Pub. L. 99–633 substituted provisions authorizing appropriations of $123,922,000 for each of the fiscalyears 1987 and 1988 for provisions authorizing appropriations of $113,273,000 for each of the fiscal years 1985 and 1986.
+<b>1986</b>—Pub. L. 99–633 substituted provisions authorizing appropriations of $123,922,000 for each of the fiscal years 1987 and 1988 for provisions authorizing appropriations of $113,273,000 for each of the fiscal years 1985 and 1986.
 

@@ -26,7 +26,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 &emsp;&emsp;(H) support enforcement of tribal protection orders and implementation of full faith and credit educational projects and comity agreements between Indian tribes and States; and
 
-&emsp;&emsp;(I) ensure that adequate tribal technical assistance that is developed and provided byentities having expertise in tribal law, customary practices, and Federal Indian law is made available to Indian tribes, tribal courts, tribal organizations, and tribal nonprofit organizations for all programs relating to violence against Indian women.
+&emsp;&emsp;(I) ensure that adequate tribal technical assistance that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law is made available to Indian tribes, tribal courts, tribal organizations, and tribal nonprofit organizations for all programs relating to violence against Indian women.
 
 #### (c) Authority
 

@@ -6,11 +6,11 @@ The Secretary is authorized to conduct a study to assess the feasibility of a co
 
 #### (b) Cooperation with State; Federal share
 
-The Secretary shall conduct the study authorized by this section in cooperation with the State of California and appropriate local and regional entities. The Federal share of the costs associated with this study shall not exceed 50 per centum of the total.
+The Secretary shall conduct the study authorized by this section in cooperation with theState of California and appropriate local and regional entities. The Federal share of the costs associated with this study shall not exceed 50 per centum of the total.
 
 #### (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energyand Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–39 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–39 of this title.
 
 (Pub. L. 102–575, title XVI, §1606, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 

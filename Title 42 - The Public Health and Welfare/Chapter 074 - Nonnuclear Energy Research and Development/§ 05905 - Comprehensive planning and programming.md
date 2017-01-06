@@ -30,7 +30,7 @@
 
 &emsp;(D) to accelerate the commercial demonstration of technologies for producing substitutes for natural gas, including coal gasification: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation in the form of a joint Federal-industry corporation, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
-&emsp;(E) to accelerate the commercial demonstration of technologies for producing syncrude and liquid petroleum products from coal: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation through guaranteed prices or purchase of the products, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
+&emsp;(E) to accelerate the commercial demonstration of technologies for producing syncrude and liquid petroleum products from coal: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation through guaranteed prices or purchase of the products, and recommendations pursuantto this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
 &emsp;(F) in accordance with the program authorized by the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410) \[30 U.S.C. 1101 et seq.\], to accelerate the commercial demonstration of geothermal energy technologies;
 
@@ -88,7 +88,7 @@ The Renewable Energy and Energy Efficiency Technology Competitiveness Act of 198
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–486, §2303(a)(1)(A), substituted "the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), and titles XX through XXIII of the Energy Policy Act of 1992, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992," for "the Administrator".
 
-Subsec. (a)(1). Pub. L. 102–486, §2303(a)(1)(B), substituted "(the period up to 5 years after submission of the plan or its annual revision)" for "(to the early 1980's)".
+Subsec. (a)(1). Pub. L. 102–486, §2303(a)(1)(B), substituted "(the period up to 5 years after submission ofthe plan or its annual revision)" for "(to the early 1980's)".
 
 Subsec. (a)(2). Pub. L. 102–486, §2303(a)(1)(C), substituted "(the period from 5 years to 10 years after submission of the plan or its annual revision)" for "(the early 1980's to 2000)".
 

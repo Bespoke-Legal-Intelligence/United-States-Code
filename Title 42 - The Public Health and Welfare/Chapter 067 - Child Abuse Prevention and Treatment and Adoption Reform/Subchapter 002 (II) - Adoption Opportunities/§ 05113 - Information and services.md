@@ -8,13 +8,13 @@ The Secretary shall establish in the Department of Health and Human Services an 
 
 In connection with carrying out the provisions of this subchapter, the Secretary shall—
 
-&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
+&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training programon adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
 
 &emsp;(2) conduct, directly or by grant or contract with public or private organizations, ongoing, extensive recruitment efforts on a national level, including efforts to promote the adoption of older children, minority children, and children with special needs, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
 
 &emsp;(3) notwithstanding any other provision of law, provide (directly or by grant to or contract with public or private agencies or organizations) for (A) the operation of a national adoption information exchange system (including only such information as is necessary to facilitate the adoptive placement of children, utilizing computers and data processing methods to assist in the location of children who would benefit by adoption and in the placement in adoptive homes of children awaiting adoption); and (B) the coordination of such system with similar State and regional systems;
 
-&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs andactivities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
+&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
 
 &emsp;(5) encourage involvement of corporations and small businesses in supporting adoption as a positive family-strengthening option, including the establishment of adoption benefit programs for employees who adopt children;
 
@@ -90,7 +90,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(D) case management;
 
-&emsp;&emsp;(E) training public agency adoption personnel, personnel of private, child welfareand adoption agencies licensed by the State to provide adoption services, mental health services professionals, and other support personnel to provide services under this subsection;
+&emsp;&emsp;(E) training public agency adoption personnel, personnel of private, child welfare and adoption agencies licensed by the State to provide adoption services, mental health services professionals, and other support personnel to provide services under this subsection;
 
 &emsp;&emsp;(F) assistance to adoptive parent organizations;
 

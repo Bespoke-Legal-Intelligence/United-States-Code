@@ -1,0 +1,6 @@
+### §573. Omitted
+
+#### Codification
+
+Section, act July 27, 1939, ch. 387, §3, 53 Stat. 1129, which appropriated from the judgment fund sums for the purchase of lands, the establishment of a loan fund, and the establishment and administration of productive enterprises, was omitted from the Code as being of special and not general application.
+

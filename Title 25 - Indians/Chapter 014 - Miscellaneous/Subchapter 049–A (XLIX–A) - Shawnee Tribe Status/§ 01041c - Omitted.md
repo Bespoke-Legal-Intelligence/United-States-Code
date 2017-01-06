@@ -1,0 +1,6 @@
+### §1041c. Omitted
+
+#### Codification
+
+Section, Pub. L. 106–568, title VII, §705, Dec. 27, 2000, 114 Stat. 2915, which related to membership roll, was omitted from the Code as being of special and not general application.
+

@@ -21,17 +21,14 @@
 | [196\.](%C2%A7%2000196%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md) | Participation in Federal, State, or other educational research grants. |
 | [197\.](%C2%A7%2000197%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
 | \[198. | Repealed.\] |
-| [199\.](%C2%A7%2000199%20-%20Marine%20safety%20curriculum.md) | Marine Safety curriculum.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [199\.](%C2%A7%2000199%20-%20Marine%20safety%20curriculum.md) | Marine safety curriculum. |
 | [200\.](%C2%A7%2000200%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md) | Policy on sexual harassment and sexual violence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–120, title II, §209(5), Feb. 8, 2016, 130 Stat. 41, substituted "Marine safety curriculum" for "Marine Safety curriculum" in item 199.
 
 <b>2012</b>—Pub. L. 112–213, title II, §§205(b), 216(e), (f), Dec. 20, 2012, 126 Stat. 1545, 1555, struck out items 193 "Advisory Committee" and 198 "Coast Guard history fellowships" and added item 200.
 
@@ -54,8 +51,6 @@ Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted "foreign 
 <b>1970</b>—Pub. L. 91–278, §1(7), June 12, 1970, 84 Stat. 305, added item 195.
 
 <b>1960</b>—Pub. L. 86–474, §1(15), May 14, 1960, 74 Stat. 146, substituted "member of civilian teaching staff" for "civilian instructor" in item 191.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

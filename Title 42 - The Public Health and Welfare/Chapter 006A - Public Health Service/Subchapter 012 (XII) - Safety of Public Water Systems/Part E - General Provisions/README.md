@@ -12,6 +12,7 @@ Part E—General Provisions
 - [&sect; 00300j&#8211;3a - Grants to public sector agencies](%C2%A7%2000300j%E2%80%933a%20-%20Grants%20to%20public%20sector%20agencies.md)
 - [&sect; 00300j&#8211;3b - Contaminant standards or treatment technique guidelines](%C2%A7%2000300j%E2%80%933b%20-%20Contaminant%20standards%20or%20treatment%20technique%20guidelines.md)
 - [&sect; 00300j&#8211;3c - National assistance program for water infrastructure and watersheds](%C2%A7%2000300j%E2%80%933c%20-%20National%20assistance%20program%20for%20water%20infrastructure%20and%20watersheds.md)
+- [&sect; 00300j&#8211;3d - Water supply cost savings](%C2%A7%2000300j%E2%80%933d%20-%20Water%20supply%20cost%20savings.md)
 - [&sect; 00300j&#8211;4 - Records and inspections](%C2%A7%2000300j%E2%80%934%20-%20Records%20and%20inspections.md)
 - [&sect; 00300j&#8211;5 - National Drinking Water Advisory Council](%C2%A7%2000300j%E2%80%935%20-%20National%20Drinking%20Water%20Advisory%20Council.md)
 - [&sect; 00300j&#8211;6 - Federal agencies](%C2%A7%2000300j%E2%80%936%20-%20Federal%20agencies.md)
@@ -28,3 +29,5 @@ Part E—General Provisions
 - [&sect; 00300j&#8211;17 - Estrogenic substances screening program](%C2%A7%2000300j%E2%80%9317%20-%20Estrogenic%20substances%20screening%20program.md)
 - [&sect; 00300j&#8211;18 - Drinking water studies](%C2%A7%2000300j%E2%80%9318%20-%20Drinking%20water%20studies.md)
 - [&sect; 00300j&#8211;19 - Algal toxin risk assessment and management](%C2%A7%2000300j%E2%80%9319%20-%20Algal%20toxin%20risk%20assessment%20and%20management.md)
+- [&sect; 00300j&#8211;19a - Assistance for small and disadvantaged communities](%C2%A7%2000300j%E2%80%9319a%20-%20Assistance%20for%20small%20and%20disadvantaged%20communities.md)
+- [&sect; 00300j&#8211;19b - Reducing lead in drinking water](%C2%A7%2000300j%E2%80%9319b%20-%20Reducing%20lead%20in%20drinking%20water.md)

@@ -10,7 +10,7 @@
 
 (2) All lands selected by and transferred to the Pueblo of Acoma at its request pursuant to this section shall thereafter be held in trust by the Secretary for the Pueblo of Acoma in the same manner as the lands for which they were exchanged.
 
-(3) Any lands west of New Mexico Highway 117 which are acquired by the Secretary pursuant to this section shall be incorporated into the monument and managed accordingly, and section 460uu–3 of this title and all other provisions of this subchapter and other law applicable to lands designated by this subchapter as part of the monument shall apply to such incorporated lands.
+(3) Any lands west of New Mexico Highway 117 which are acquired by the Secretary pursuant to this section shall be incorporated into the monument and managed accordingly, and section 460uu–3 of this title and all other provisions of this subchapter and other law applicable to lands designated by this subchapter as part ofthe monument shall apply to such incorporated lands.
 
 #### (b) Public lands available for exchange
 
@@ -22,7 +22,7 @@ For purposes of acquiring lands pursuant to subsection (a) of this section, the 
 
 (2) Upon a request of the Pueblo of Acoma submitted to the Secretary no later than one year after December 31, 1987, lands within the areas described in paragraph (1) shall be transferred to the Pueblo of Acoma in exchange for trust lands of approximately equal value within that portion of the conservation area west of New Mexico Highway 117. The Secretary may require exchanges of land under this subsection to be on the basis of compact and contiguous parcels.
 
-(3) Any lands within the areas described in paragraph (1) not proposed for exchange by a request submitted to the Secretary by the Pueblo of Acoma within the period specified in paragraph (2), and any lands in such areas not ultimately transferred pursuant to this subsection, shall be incorporated within the conservationarea and managed accordingly. In addition, any lands in that portion of the areas described in paragraph (1) lying in section 1, township 7N, range 9W, New Mexico Principal Meridian, not transferred to the Pueblo of Acoma pursuant to this subsection shall be added to and incorporated within the Cebolla Wilderness and managed accordingly.
+(3) Any lands within the areas described in paragraph (1) not proposed for exchange by a request submitted to the Secretary by the Pueblo of Acoma within the period specified in paragraph (2), and any lands in such areas not ultimately transferred pursuant to this subsection, shall be incorporated within the conservation area and managed accordingly. In addition, any lands in that portion of the areas described in paragraph (1) lying in section 1, township 7N, range 9W, New Mexico Principal Meridian, not transferred to the Pueblo of Acoma pursuant to this subsection shall be added to and incorporated within the Cebolla Wilderness and managed accordingly.
 
 (Pub. L. 100–225, title V, §505, Dec. 31, 1987, 101 Stat. 1545.)
 

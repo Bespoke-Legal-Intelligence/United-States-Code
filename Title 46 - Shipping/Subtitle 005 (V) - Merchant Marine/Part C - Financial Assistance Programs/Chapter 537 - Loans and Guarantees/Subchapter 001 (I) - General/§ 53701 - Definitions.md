@@ -26,7 +26,7 @@ Depreciated actual cost.—The term "depreciated actual cost" of a vessel means�
 
 &emsp;&emsp;(B) if the vessel was reconstructed or reconditioned, the sum of—
 
-&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning,using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary or Administrator; and
+&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary or Administrator; and
 
 &emsp;&emsp;&emsp;(ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary or Administrator.
 
@@ -80,13 +80,39 @@ Fishing vessel.—The term "fishing vessel" has the meaning given that term in s
 
 &emsp;(8)
 
+Historical uses.—The term "historical uses" includes—
+
+&emsp;&emsp;(A) refurbishing, repairing, rebuilding, or replacing equipment on a fishing vessel, without materially increasing harvesting capacity;
+
+&emsp;&emsp;(B) purchasing a used fishing vessel;
+
+&emsp;&emsp;(C) purchasing, constructing, expanding, or reconditioning a fishery facility;
+
+&emsp;&emsp;(D) refinancing existing debt;
+
+&emsp;&emsp;(E) reducing fishing capacity; and
+
+&emsp;&emsp;(F) making upgrades to a fishing vessel, including upgrades in technology, gear, or equipment, that improve—
+
+&emsp;&emsp;&emsp;(i) collection and reporting of fishery-dependent data;
+
+&emsp;&emsp;&emsp;(ii) bycatch reduction or avoidance;
+
+&emsp;&emsp;&emsp;(iii) gear selectivity;
+
+&emsp;&emsp;&emsp;(iv) adverse impacts caused by fishing gear; or
+
+&emsp;&emsp;&emsp;(v) safety.
+
+&emsp;(9)
+
 Mortgage.—The term "mortgage" includes—
 
 &emsp;&emsp;(A) a preferred mortgage as defined in section 31301 of this title; and
 
 &emsp;&emsp;(B) a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
 
-&emsp;(9)
+&emsp;(10)
 
 Obligation.—The term "obligation" means an instrument of indebtedness issued for a purpose described in section 53706 of this title, except—
 
@@ -94,15 +120,15 @@ Obligation.—The term "obligation" means an instrument of indebtedness issued f
 
 &emsp;&emsp;(B) an obligation eligible for investment of funds under section 53715(f) or 53717 of this title.
 
-&emsp;(10)
+&emsp;(11)
 
 Obligee.—The term "obligee" means the holder of an obligation.
 
-&emsp;(11)
+&emsp;(12)
 
 Obligor.—The term "obligor" means a party primarily liable for payment of the principal of or interest on an obligation.
 
-&emsp;(12)
+&emsp;(13)
 
 Ocean thermal energy conversion facility or plantship.—The term "ocean thermal energy conversion facility or plantship" means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
 
@@ -112,11 +138,11 @@ Ocean thermal energy conversion facility or plantship.—The term "ocean thermal
 
 &emsp;&emsp;(C) other associated equipment and appurtenances of the facility or vessel to the extent they are located seaward of the high water mark.
 
-&emsp;(13)
+&emsp;(14)
 
 Secretary.—The term "Secretary" means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
 
-&emsp;(14)
+&emsp;(15)
 
 Vessel.—The term "vessel" means any type of vessel, whether in existence or under construction, including—
 
@@ -146,7 +172,7 @@ Vessel.—The term "vessel" means any type of vessel, whether in existence or un
 
 &emsp;&emsp;(M) an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1601; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(1), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1601; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(1), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598; Pub. L. 114–120, title III, §302(a)(1), Feb. 8, 2016, 130 Stat. 51.)
 
 Historical and Revision Notes
 
@@ -223,6 +249,8 @@ In paragraph (5)(B)(ii), the words "corporation, partnership, association, or ot
 In paragraph (8), before subparagraph (A), the words "instrument of indebtedness" are substituted for "note, bond, debenture, or other evidence of indebtedness" to eliminate unnecessary words. In subparagraph (B), the reference to section 53717 is substituted for the reference to 46 App. U.S.C. 1272 because the accounts under section 53717 replace the Federal Ship Financing Fund. See the explanation for section 53717.
 
 #### Amendments
+
+<b>2016</b>—Pars. (8) to (15). Pub. L. 114–120 added par. (8) and redesignated former pars. (8) to (14) as (9) to (15), respectively.
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
 

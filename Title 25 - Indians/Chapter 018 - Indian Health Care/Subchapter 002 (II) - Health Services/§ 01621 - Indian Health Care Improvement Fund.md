@@ -2,7 +2,7 @@
 
 #### (a) Use of funds
 
-The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), which are appropriated under the authority of this section, for the purposes of—
+The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> which are appropriated under the authority of this section, for the purposes of—
 
 &emsp;(1) eliminating the deficiencies in health status and health resources of all Indian tribes;
 
@@ -106,7 +106,7 @@ Any funds appropriated under the authority of this section shall be designated a
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
@@ -130,7 +130,7 @@ Subsec. (a)(4)(B). Pub. L. 102–573, §207(b), substituted "preventive health, 
 
 Subsec. (b)(1). Pub. L. 102–573, §201(a)(2)(A), substituted "this section" for "subsection (h) of this section".
 
-Subsec. (b)(2). Pub. L. 102–573, §201(a)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level Ior II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II."
+Subsec. (b)(2). Pub. L. 102–573, §201(a)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level I or II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II."
 
 Subsec. (b)(2)(A). Pub. L. 102–573, §201(a)(2)(C), in first sentence, substituted "this section" for "subsection (h) of this section" and struck out "but such allocation shall be made in a manner which ensures that the requirement of paragraph (2) is met" after "service unit basis" and, in second sentence, struck out "(in accordance with paragraph (2))" after "the service unit" and substituted "reduce the health status and resource deficiency" for "raise the deficiency level".
 
@@ -154,7 +154,7 @@ Subsec. (e). Pub. L. 102–573, §201(a)(5)(A), in introductory provisions, subs
 
 Subsec. (e)(1). Pub. L. 102–573, §201(a)(5)(B), substituted "health status and resource deficiencies" for "health resources deficiencies".
 
-Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted "the extent of the health status and resource deficiency of" for "the level of health resources deficiency for".
+Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted "the extent of the health status and resourcedeficiency of" for "the level of health resources deficiency for".
 
 Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted "eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and" for "raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;".
 
@@ -198,5 +198,7 @@ Pub. L. 102–573, title II, §201(b), Oct. 29, 1992, 106 Stat. 4546, provided t
 
 #### Contract Medical Care Funds
 
-Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: "That contract medical carefunds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care".
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: "That contract medical care funds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

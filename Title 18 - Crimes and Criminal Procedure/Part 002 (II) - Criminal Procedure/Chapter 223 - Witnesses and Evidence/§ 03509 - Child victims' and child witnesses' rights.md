@@ -50,7 +50,7 @@ Alternatives to Live In-Court Testimony.—
 
 Child's live testimony by 2-way closed circuit television.—
 
-&emsp;&emsp;(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, or a guardian ad litem appointed under subsection (h) may apply for an order that the child's testimony be taken in a room outside the courtroom and be televised by 2-way closed circuit television. The person seeking such an order shall apply for such an order at least 7 days before the trial date, unless the court finds on the record that the need for such an order was not reasonably foreseeable.
+&emsp;&emsp;(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, or a guardian ad litem appointed under subsection (h) may apply for an order that the child's testimony be taken in a room outside the courtroom and be televised by 2-way closed circuit television. The person seeking such an order shall apply for such an order at least 7 days before the trial date, unlessthe court finds on the record that the need for such an order was not reasonably foreseeable.
 
 &emsp;&emsp;(B) The court may order that the testimony of the child be taken by closed-circuit television as provided in subparagraph (A) if the court finds that the child is unable to testify in open court in the presence of the defendant, for any of the following reasons:
 
@@ -112,7 +112,7 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 &emsp;(v)
 
-Handling of videotape.—The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. The videotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant's attorney during ordinary business hours.
+Handling of videotape.—The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. Thevideotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant's attorney during ordinary business hours.
 
 &emsp;(C) If at the time of trial the court finds that the child is unable to testify as for a reason described in subparagraph (B)(i), the court may admit into evidence the child's videotaped deposition in lieu of the child's testifying at the trial. The court shall support a ruling under this subparagraph with findings on the record.
 
@@ -260,7 +260,7 @@ In general.—The court may appoint, and provide reasonable compensation and pay
 
 &emsp;(2)
 
-Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have accessto all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
+Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
 &emsp;(3)
 
@@ -268,7 +268,7 @@ Immunities.—A guardian ad litem shall be presumed to be acting in good faith a
 
 (i)
 
-Adult Attendant.—A child testifying at or attending a judicial proceeding shall have the right to be accompanied by an adult attendant to provide emotional support to the child. The court, at its discretion, may allow the adult attendant to remain in close physical proximity to or in contact with the child while the child testifies. The court may allow the adult attendant to hold the child's hand or allow the child to sit on the adult attendant's lap throughout the course of the proceeding. An adult attendant shall not provide the child with an answer to any question directed to the child during the course of the child's testimony or otherwise prompt the child. The image of the child attendant, for the time the child is testifying or being deposed, shall be recorded on videotape.
+Adult Attendant.—A child testifying at or attending a judicial proceeding shall have the right to be accompanied by an adult attendant to provide emotional support to the child. The court, at its discretion, may allow the adult attendant to remain in close physical proximity to or in contact with the child while the child testifies. The court may allow the adult attendant to hold the child's hand or allow the child to siton the adult attendant's lap throughout the course of the proceeding. An adult attendant shall not provide the child with an answer to any question directed to the child during the course of the child's testimony or otherwise prompt the child. The image of the child attendant, for the time the child is testifying or being deposed, shall be recorded on videotape.
 
 (j)
 
@@ -320,7 +320,7 @@ Pub. L. 103–322, §330010(7)(A), substituted "subsection" for "subdivision" in
 
 Subsec. (a)(11) to (13). Pub. L. 103–322, §330010(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: "the term 'exploitation' means child pornography or child prostitution;".
 
-Subsec. (k). Pub. L. 103–322, §330018(b), substituted heading for one which read "Extension of Child Statute of Limitations" and struck out first sentence which read as follows: "No statute of limitation that would otherwise preclude prosecution for an offense involvingthe sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years."
+Subsec. (k). Pub. L. 103–322, §330018(b), substituted heading for one which read "Extension of Child Statute of Limitations" and struck out first sentence which read as follows: "No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years."
 
 #### Effective Date of 2009 Amendment
 

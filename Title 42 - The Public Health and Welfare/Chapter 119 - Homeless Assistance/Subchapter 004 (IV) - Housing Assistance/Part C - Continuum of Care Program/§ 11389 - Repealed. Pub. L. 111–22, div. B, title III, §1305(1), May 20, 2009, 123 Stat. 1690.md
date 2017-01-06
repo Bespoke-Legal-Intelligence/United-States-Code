@@ -36,7 +36,7 @@ Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; 
 
 Section 11402, Pub. L. 100–77, title IV, §443, as added Pub. L. 100–628, title IV, §482(a), Nov. 7, 1988, 102 Stat. 3238; amended Pub. L. 106–377, §1(a)(1) \[title II, §208\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25, related to environmental review.
 
-Section 11403, Pub. L. 100–77, title IV, §451, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367, related to the purpose of the Shelter Plus Care Program.
+Section 11403, Pub. L. 100–77, title IV, §451, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat.4367, related to the purpose of the Shelter Plus Care Program.
 
 Section 11403a, Pub. L. 100–77, title IV, §452, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367; amended Pub. L. 102–550, title XIV, §1406(g)(2), Oct. 28, 1992, 106 Stat. 4034, related to rental housing assistance.
 

@@ -34,7 +34,7 @@
 
 #### (3) Consultations
 
-&emsp;In carrying out its responsibilities, the Board shall consult on a regular basis with representatives of the National Science Foundation, the National Endowment for the Humanities, the National Endowment for the Arts, and representatives of institutions of higher education and associations of such institutions, learned societies, and professional organizations.
+&emsp;In carrying out its responsibilities, the Board shall consult on a regular basis withrepresentatives of the National Science Foundation, the National Endowment for the Humanities, the National Endowment for the Arts, and representatives of institutions of higher education and associations of such institutions, learned societies, and professional organizations.
 
 #### (4) Term
 
@@ -72,7 +72,7 @@ Level IV of the Executive Schedule, referred to in subsec. (a)(7), is set out in
 
 Provisions similar to this section were contained in section 1134i of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1134a, Pub. L. 89–329, title IX, §911, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106Stat. 761, authorized grants to encourage women and minority participation in graduate education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1134a, Pub. L. 89–329, title IX, §911, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 761, authorized grants to encourage women and minority participation in graduate education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 Another prior section 1134a, Pub. L. 89–329, title IX, §902, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1550, related to submission and contents of applications, prior to the general amendment of part A of subchapter IX of this chapter by Pub. L. 102–325.
 

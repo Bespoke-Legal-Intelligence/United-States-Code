@@ -42,7 +42,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 &emsp;In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
 
-&emsp;&emsp;(A) in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborateand jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
+&emsp;&emsp;(A) in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
 
 &emsp;&emsp;(B) in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title, or the State plan approved under part E; and
 
@@ -200,7 +200,7 @@ Pub. L. 111–242, §133, Sept. 30, 2010, 124 Stat. 2613, provided that the amen
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meetadditional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 Amendment by Pub. L. 109–239 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 14 of Pub. L. 109–239, set out as a note under section 622 of this title.
 

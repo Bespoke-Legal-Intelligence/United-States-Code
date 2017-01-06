@@ -38,7 +38,7 @@ Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, pr
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title VI, §664(c), Nov. 29, 1989, 103 Stat. 1467, provided that: "The amendments madeby subsection (a) \[amending this section\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\]."
+Pub. L. 101–189, div. A, title VI, §664(c), Nov. 29, 1989, 103 Stat. 1467, provided that: "The amendments made by subsection (a) \[amending this section\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\]."
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(17) buy and sell obligations of or insured by the United States or any agency thereof or of any banks of the Farm Credit System;
 
-&emsp;(18) invest association funds in such obligations as may be authorized in regulations of the Farm Credit Administration and approved by the bank and deposit securities and current funds of the association with any member bank of the Federal Reserve System, with theFarm Credit Bank, or with any bank insured by the Federal Deposit Insurance Corporation, and pay fees therefor and receive interest thereon as may be agreed;
+&emsp;(18) invest association funds in such obligations as may be authorized in regulations of the Farm Credit Administration and approved by the bank and deposit securities and current funds of the association with any member bank of the Federal Reserve System, with the Farm Credit Bank, or with any bank insured by the Federal Deposit Insurance Corporation, and pay fees therefor and receive interest thereon as may be agreed;
 
 &emsp;(19) perform such other function delegated to the association by the Farm Credit Bank of the district;
 
@@ -58,7 +58,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(22) operate as an originator and become certified as a certified facility under subchapter VIII.
 
-(Pub. L. 92–181, title II, §2.12, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1635; amended Pub. L. 100–399, title IV, §401(u), Aug. 17, 1988, 102 Stat. 998.)
+(Pub. L. 92–181, title II, §2.12, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1635;amended Pub. L. 100–399, title IV, §401(u), Aug. 17, 1988, 102 Stat. 998.)
 
 #### Prior Provisions
 
@@ -77,4 +77,8 @@ Par. (22). Pub. L. 100–399, §401(u)(4)–(6), added par. (22).
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+#### Effective Date
+
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 

@@ -70,7 +70,7 @@
 
 &emsp;In the case of any organization in existence on July 18, 1984, the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
 
-(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506-2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97.)
+(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Pub. L. 101–140, title II, §204(d)(4), Nov. 8, 1989, 103 Stat. 833, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

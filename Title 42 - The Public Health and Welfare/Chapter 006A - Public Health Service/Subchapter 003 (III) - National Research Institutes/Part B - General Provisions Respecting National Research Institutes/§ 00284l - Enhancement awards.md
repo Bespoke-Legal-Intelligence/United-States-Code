@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as "Mid-Career Investigator Awards in Patient-Oriented Research") to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred toas "Mid-Career Investigator Awards in Patient-Oriented Research") to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
 
 #### (B) Use
 
@@ -88,7 +88,7 @@
 
 &emsp;Grants under this subsection shall be for terms of up to 5 years and may be renewable.
 
-(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b),Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, §103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
+(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, §103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
 
 #### Amendments
 

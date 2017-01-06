@@ -1,12 +1,12 @@
 ### §551. Protection of national forests; rules and regulations
 
-The Secretary of Agriculture shall make provisions for the protection against destruction byfire and depredations upon the public forests and national forests which may have been set aside or which may be hereafter set aside under the provisions of section 471 <sup>1</sup> of this title, and which may be continued; and he may make such rules and regulations and establish such service as will insure the objects of such reservations, namely, to regulate their occupancy and use and to preserve the forests thereon from destruction; and any violation of the provisions of this section, sections 473 to 478 and 479 to 482 of this title or such rules and regulations shall be punished by a fine of not more than $500 or imprisonment for not more than six months, or both. Any person charged with the violation of such rules and regulations may be tried and sentenced by any United States magistrate judge specially designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401(b) to (e) of title 18.
+The Secretary of Agriculture shall make provisions for the protection against destruction by fire and depredations upon the public forests and national forests which may have been set aside or which may be hereafter set aside under the provisions of section 471 <sup>1</sup> of this title, and which may be continued; and he may make such rules and regulations and establish such service as will insure the objects of such reservations, namely, to regulate their occupancy and use and to preserve the forests thereon from destruction; and any violation of the provisions of this section, sections 473 to 478 and 479 to 482 of this title or such rules and regulations shall be punished by a fine of not more than $500 or imprisonment for not more than six months, or both. Any person charged with the violation of such rules and regulations may be tried and sentenced by any United States magistrate judge specially designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401(b) to (e) of title 18.
 
 (June 4, 1897, ch. 2, §1, 30 Stat. 35; Feb. 1, 1905, ch. 288, §1, 33 Stat. 628; Pub. L. 87–869, §6, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 88–537, Aug. 31, 1964, 78 Stat. 745; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Repeals
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on</i><i>and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### References in Text
 
@@ -25,6 +25,10 @@ Section 471 of this title, referred to in text, was in the original a reference 
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–275, §1, Dec. 14, 2016, 130 Stat. 1405, provided that: "This Act \[enacting section 551c–1 of this title and provisions set out as a note under section 551c–1 of this title\] may be cited as the 'Prescribed Burn Approval Act of 2016'."
 
 #### Short Title of 1990 Amendment
 

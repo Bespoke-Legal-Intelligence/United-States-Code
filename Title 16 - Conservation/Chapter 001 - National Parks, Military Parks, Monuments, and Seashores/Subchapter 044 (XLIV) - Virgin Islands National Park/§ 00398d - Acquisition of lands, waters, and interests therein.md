@@ -128,7 +128,7 @@ Appraisal.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall require an appraisal by an independent, qualified appraiser who is agreed to by the Secretary and the owner of the retained use estate to determine the value, if any, of the relinquished term of the retained use estate.
+In general.—The Secretary shall require an appraisal by an independent, qualified appraiser who is agreed to by the Secretary and the owner ofthe retained use estate to determine the value, if any, of the relinquished term of the retained use estate.
 
 &emsp;&emsp;"(B)
 

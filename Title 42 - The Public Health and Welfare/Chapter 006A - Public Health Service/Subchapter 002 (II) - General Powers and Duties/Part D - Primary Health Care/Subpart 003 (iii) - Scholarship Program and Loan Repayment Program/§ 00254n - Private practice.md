@@ -4,13 +4,13 @@
 
 The Secretary shall, to the extent permitted by, and consistent with, the requirements of applicable State law, release an individual from all or part of his service obligation under section 254m(a) of this title or under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) if the individual applies for such a release under this section and enters into a written agreement with the Secretary under which the individual agrees to engage for a period equal to the remaining period of his service obligation in the full-time private clinical practice (including service as a salaried employee in an entity directly providing health services) of his health profession—
 
-&emsp;(1) in the case of an individual who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of his application for such a release, in the health professional shortage area in which such individual is serving on such date or inthe case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of the application of the individual for such a release, in the health professional shortage area selected by the Secretary; or
+&emsp;(1) in the case of an individual who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of his application for such a release, in the health professional shortage area in which such individual is serving on such date or in the case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of the application of the individual for such a release, in the health professional shortage area selected by the Secretary; or
 
 &emsp;(2) in the case of any other individual, in a health professional shortage area (designated under section 254e of this title) selected by the Secretary.
 
 #### (b) Written agreement; actions to ensure compliance
 
-(1) The written agreement described in subsection (a) of this section shall—
+(1) The written agreement described in subsection (a) shall—
 
 &emsp;(A) provide that, during the period of private practice by an individual pursuant to the agreement, the individual shall comply with the requirements of section 254g of this title that apply to entities; and
 
@@ -20,15 +20,15 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 #### (c) Breach of service contract
 
-If an individual breaches the contract entered into under section 254l or 254l–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
+If an individual breaches the contract entered into under section 254l or 254l–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
 
 #### (d) Travel expenses
 
-The Secretary may pay an individual who has entered into an agreement with the Secretary under subsection (a) of this section an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
+The Secretary may pay an individual who has entered into an agreement with the Secretary under subsection (a) an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
 
 #### (e) Sale of equipment and supplies
 
-Upon the expiration of the written agreement under subsection (a) of this section, the Secretary may (notwithstanding any other provision of law) sell to the individual who has entered into an agreement with the Secretary under subsection (a) of this section, equipment and other property of the United States utilized by such individual in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property, except that the Secretary may make such sales for a lesser value to the individual if he determines that the individual is financially unable to pay the full market value.
+Upon the expiration of the written agreement under subsection (a), the Secretary may (notwithstanding any other provision of law) sell to the individual who has entered into an agreement with the Secretary under subsection (a), equipment and other property of the United States utilized by such individual in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property, except that the Secretary may make such sales for a lesser value to the individual if he determines that the individual is financially unable to pay the full market value.
 
 #### (f) Malpractice insurance
 
@@ -70,7 +70,7 @@ A prior section 338D of act July 1, 1944, was renumbered section 338E by section
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–177, §307(1)–(3), made technical amendment to reference to section 254m of this title to reflect renumbering of corresponding section of original act, in introductory provisions, in par. (1) inserted "who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and" after "individual" the first time it appeared as the probable intent of Congress, and inserted "or in the case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health manpower shortage area on the date of the application of the individual for such a release, in the health manpower shortage area selected by the Secretary", and in par. (2) inserted "selected by the Secretary".
 
-Subsec. (b). Pub. L. 100–177, §307(4), inserted at end "The Secretary shall take such action as may be appropriate to ensure that the conditions of the writtenagreement prescribed by this subsection are adhered to."
+Subsec. (b). Pub. L. 100–177, §307(4), inserted at end "The Secretary shall take such action as may be appropriate to ensure that the conditions of the written agreement prescribed by this subsection are adhered to."
 
 Subsec. (c). Pub. L. 100–177, §307(5), inserted reference to section 254l–1.
 

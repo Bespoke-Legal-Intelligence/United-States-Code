@@ -78,7 +78,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A);
 
-&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different types of tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
+&emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different typesof tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
 
 &emsp;&emsp;&emsp;(v) not require any small tobacco product manufacturer to comply with a regulation under subparagraph (A) for at least 4 years following the effective date established by the Secretary for such regulation.
 

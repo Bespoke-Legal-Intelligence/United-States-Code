@@ -10,7 +10,7 @@ It shall be unlawful for any person—
 
 &emsp;(3) any seed which is prohibited entry under the provisions of this chapter.
 
-(b) To make any false or misleading representation with respect to any seed subject to this subchapter being imported into the United States or offered for import: <i>Provided</i>, That this subsection shall not be deemed violated by any person if the false or misleading representation is the name of a variety indistinguishable in appearance from the seed being imported or offered for import and the records and other pertinent facts reveal that such person relied in good faith upon representations with respect to the name of the indistinguishable variety made by the shipper of the seed.
+(b) To make any false or misleading representation with respect to any seed subject to this subchapter being imported into the United States or offered for import: <i>Provided</i>, That this subsection shall not be deemed violated by any person if the false or misleading representation is the name of a variety indistinguishable in appearance from the seed being imported or offered for import and the records and other pertinent facts reveal that such person relied in good faith upon representations with respect to thename of the indistinguishable variety made by the shipper of the seed.
 
 (Aug. 9, 1939, ch. 615, title III, §304, formerly §306, 53 Stat. 1285; Pub. L. 85–581, §15, Aug. 1, 1958, 72 Stat. 479; renumbered §304, Pub. L. 97–439, §5(b)(4), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, §441(4), Dec. 8, 1994, 108 Stat. 4973.)
 

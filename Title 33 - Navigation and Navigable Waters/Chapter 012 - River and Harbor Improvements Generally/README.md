@@ -66,14 +66,18 @@
 | [576\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576%20-%20Revolving%20fund%3B%20establishment%3B%20availability%3B%20reimbursement%3B%20transfer%20of%20funds%3B%20limitation.md) | Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation. |
 | [576a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576a%20-%20Purchase%20of%20passenger%20motor%20vehicles%20by%20Corps%20of%20Engineers.md) | Purchase of passenger motor vehicles by Corps of Engineers. |
 | [576b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576b%20-%20Lease%20authority.md) | Lease authority. |
+| [576c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576c%20-%20Corps%20of%20Engineers%20operation%20of%20unmanned%20aircraft%20systems.md) | Corps of Engineers operation of unmanned aircraft systems. |
 | [577\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577%20-%20Small%20river%20and%20harbor%20improvement%20projects.md) | Small river and harbor improvement projects. |
 | [577a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577a%20-%20Small-boat%20navigation%20projects%3B%20charter%20fishing%20craft.md) | Small-boat navigation projects; charter fishing craft. |
 | [577b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577b%20-%20Cost%20of%20operation%20and%20maintenance%20of%20general%20navigation%20features%20of%20small%20boat%20harbor%20projects%3B%20applicable%20projects.md) | Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects. |
 | [578\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578%20-%20Disposal%20of%20surplus%20property%20for%20development%20of%20public%20port%20or%20industrial%20facilities.md) | Disposal of surplus property for development of public port or industrial facilities. |
+| [578a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578a%20-%20Disposition%20studies.md) | Disposition studies. |
 | [579\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20I%2C%20%C2%A7119%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204630.md) | Repealed. |
 | [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Project%20deauthorizations.md) | Project deauthorizations. |
-| [579b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579b%20-%20Deauthorization%20of%20inactive%20projects.md) | Deauthorization of inactive projects. |
-| [579c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579c%20-%20Backlog%20prevention.md) | Backlog prevention. |
+| [579b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579b%20-%20Omitted.md) | Omitted. |
+| [579c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579c%20-%20Backlog%20prevention%20projects%20from%20Public%20Law%20113%E2%80%93121.md) | Backlog prevention: projects from Public Law 113–121. |
+| 579c–1. | Backlog prevention: projects from Public Law 114–322. |
+| [579d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579d%20-%20Deauthorization%20of%20inactive%20projects.md) | Deauthorization of inactive projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

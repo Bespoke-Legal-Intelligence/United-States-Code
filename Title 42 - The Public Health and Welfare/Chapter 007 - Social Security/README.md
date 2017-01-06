@@ -389,6 +389,7 @@
 | 1320a–7k. | Medicare and Medicaid program integrity provisions. |
 | 1320a–7<i>l.</i> | Nationwide program for national and State background checks on direct patient access employees of long-term care facilities and providers. |
 | 1320a–7m. | Use of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse in the Medicare fee-for-service program. |
+| 1320a–7n. | Disclosure of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse. |
 | 1320a–8. | Civil monetary penalties and assessments for subchapters II, VIII and XVI. |
 | 1320a–8a. | Administrative procedure for imposing penalties for false or misleading statements. |
 | 1320a–8b. | Attempts to interfere with administration of this chapter. |

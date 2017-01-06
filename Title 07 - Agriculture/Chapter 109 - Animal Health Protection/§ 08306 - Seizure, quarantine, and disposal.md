@@ -24,7 +24,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 &emsp;&emsp;(A) hold, seize, treat, apply other remedial actions to, destroy (including preventative slaughter), or otherwise dispose of, any animal, article, facility, or means of conveyance if the Secretary determines the action is necessary to prevent the dissemination of the pest or disease; and
 
-&emsp;&emsp;(B) prohibit or restrict the movement or use within a State, or any portion of a State of any animal or article, means of conveyance, or facility if the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination of the pest or disease.
+&emsp;&emsp;(B) prohibit or restrict the movement or use within a State, or any portion of a Stateof any animal or article, means of conveyance, or facility if the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination of the pest or disease.
 
 #### (2) State action
 
@@ -114,7 +114,7 @@ This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

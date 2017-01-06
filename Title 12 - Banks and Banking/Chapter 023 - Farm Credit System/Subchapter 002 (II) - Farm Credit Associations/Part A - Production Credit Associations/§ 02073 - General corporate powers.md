@@ -20,7 +20,7 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;(9) contribute to the capital of the bank or other production credit associations;
 
-&emsp;(10) invest funds of the association as may be approved by the Farm Credit Bank under regulations of the Farm Credit Administration and deposit the current funds and securities of such with the Farm Credit Bank, a memberbank of the Federal Reserve System, or any bank insured under the Federal Deposit Insurance Corporation, and may pay fees therefor and receive interest thereon as may be agreed;
+&emsp;(10) invest funds of the association as may be approved by the Farm Credit Bank under regulations of the Farm Credit Administration and deposit the current funds and securities of such with the Farm Credit Bank, a member bank of the Federal Reserve System, or any bank insured under the Federal Deposit Insurance Corporation, and may pay fees therefor and receive interest thereon as may be agreed;
 
 &emsp;(11) buy and sell obligations of or insured by the United States or of any agency thereof or of any banks of the Farm Credit System and buy from and sell to such banks, interests in loans and in other financial assistance extended and nonvoting stock, as may be authorized by the Farm Credit Bank in accordance with regulations of the Farm Credit Administration;
 
@@ -46,7 +46,7 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;&emsp;&emsp;(iv) exercise and enjoy the privileges granted to it by law;
 
-&emsp;(17) provide by its board of directors for a manager or other chief executive officer, and provide for such other officers or employees as may be necessary, including joint employees as provided in this chapter, define their duties, and require surety bonds or make other provisions against losses occasioned by employees, but no director shall, within one year after the date when such director ceases to be a member of the board, serve as a salaried employee of the association on the board of which he served;
+&emsp;(17) provide by its board of directors for a manager or other chief executive officer, and provide for such other officers or employees as may be necessary, including joint employeesas provided in this chapter, define their duties, and require surety bonds or make other provisions against losses occasioned by employees, but no director shall, within one year after the date when such director ceases to be a member of the board, serve as a salaried employee of the association on the board of which he served;
 
 &emsp;(18) elect by the board of directors of the association a loan committee with power to approve applications for membership in the association and loans or participations or, with the approval of the bank, delegate the approval of applications for membership and loans or participations within specified limits to other committees or to authorized officers and employees of the association;
 
@@ -81,4 +81,8 @@ Par. (21). Pub. L. 100–399, §401(o)(3)–(5), added par. (21).
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+#### Effective Date
+
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
 

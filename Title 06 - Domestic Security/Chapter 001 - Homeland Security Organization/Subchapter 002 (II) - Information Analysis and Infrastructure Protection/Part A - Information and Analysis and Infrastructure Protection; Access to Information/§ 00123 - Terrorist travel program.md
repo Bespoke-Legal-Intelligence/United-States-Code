@@ -56,7 +56,125 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 reenacted section catchline without change and amended text generally, substituting provisions relating to establishment of a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel not later than 90 days after Aug. 3, 2007, and relating to the head of the program, such official's duties, and report on implementation for provisions relating to establishment of a program to oversee the implementation of the Department's responsibilities with respect to terrorist travel.
+<b>2007</b>—Pub. L. 110–53 reenacted section catchline without change and amended text generally, substituting provisions relating to establishment of a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel not later than 90 days after Aug. 3, 2007, and relating to the head ofthe program, such official's duties, and report on implementation for provisions relating to establishment of a program to oversee the implementation of the Department's responsibilities with respect to terrorist travel.
+
+#### National Strategy To Combat Terrorist Travel
+
+Pub. L. 114–328, div. A, title XIX, §1908, Dec. 23, 2016, 130 Stat. 2678, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that it should be the policy of the United States to—
+
+&emsp;"(1) continue to regularly assess the evolving terrorist threat to the United States;
+
+&emsp;"(2) catalog existing Federal Government efforts to obstruct terrorist and foreign fighter travel into, out of, and within the United States, and overseas;
+
+&emsp;"(3) identify such efforts that may benefit from reform or consolidation, or require elimination;
+
+&emsp;"(4) identify potential security vulnerabilities in United States defenses against terrorist travel; and
+
+&emsp;"(5) prioritize resources to address any such security vulnerabilities in a risk-based manner.
+
+"(b)
+
+National Strategy and Updates.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the President shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the appropriate congressional committees a national strategy to combat terrorist travel. The strategy shall address efforts to intercept terrorists and foreign fighters and constrain the domestic and international travel of such persons. Consistent with the protection of classified information, the strategy shall be submitted in unclassified form, including, as appropriate, a classified annex.
+
+&emsp;"(2)
+
+Updated strategies.—Not later than 180 days after the date on which a new President is inaugurated, the President shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the appropriate congressional committees an updated version of the strategy described in paragraph (1).
+
+&emsp;"(3)
+
+Contents.—The strategy and updates required under this subsection shall—
+
+&emsp;&emsp;"(A) include an accounting and description of all Federal Government programs, projects, and activities designed to constrain domestic and international travel by terrorists and foreign fighters;
+
+&emsp;&emsp;"(B) identify specific security vulnerabilities within the United States and outside of the United States that may be exploited by terrorists and foreign fighters;
+
+&emsp;&emsp;"(C) delineate goals for—
+
+&emsp;&emsp;&emsp;"(i) closing the security vulnerabilities identified under subparagraph (B); and
+
+&emsp;&emsp;&emsp;"(ii) enhancing the ability of the Federal Government to constrain domestic and international travel by terrorists and foreign fighters; and
+
+&emsp;&emsp;"(D) describe the actions that will be taken to achieve the goals delineated under subparagraph (C) and the means needed to carry out such actions, including—
+
+&emsp;&emsp;&emsp;"(i) steps to reform, improve, and streamline existing Federal Government efforts to align with the current threat environment;
+
+&emsp;&emsp;&emsp;"(ii) new programs, projects, or activities that are requested, under development, or undergoing implementation;
+
+&emsp;&emsp;&emsp;"(iii) new authorities or changes in existing authorities needed from Congress;
+
+&emsp;&emsp;&emsp;"(iv) specific budget adjustments being requested to enhance United States security in a risk-based manner; and
+
+&emsp;&emsp;&emsp;"(v) the Federal departments and agencies responsible for the specific actions described in this subparagraph.
+
+&emsp;"(4)
+
+Sunset.—The requirement to submit updated national strategies under this subsection shall terminate on the date that is seven years after the date of the enactment of this Act \[Dec. 23, 2016\].
+
+"(c)
+
+Development of Implementation Plans.—For each national strategy required under subsection (b), the President shall direct the heads of relevant Federal agencies to develop implementation plans for each such agency.
+
+"(d)
+
+Implementation Plans.—
+
+&emsp;"(1)
+
+In general.—The President shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the appropriate congressional committees an implementation plan developed under subsection (c) with each national strategy required under subsection (b). Consistent with the protection of classified information, each such implementation plan shall be submitted in unclassified form, but may include a classified annex.
+
+&emsp;"(2)
+
+Annual updates.—The President shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the appropriate congressional committees an annual updated implementation plan during the ten-year period beginning on the date of the enactment of this Act \[Dec. 23, 2016\].
+
+"(e)
+
+Definition.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) in the House of Representatives—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security;
+
+&emsp;&emsp;"(B) the Committee on Armed Services;
+
+&emsp;&emsp;"(C) the Permanent Select Committee on Intelligence;
+
+&emsp;&emsp;"(D) the Committee on the Judiciary;
+
+&emsp;&emsp;"(E) the Committee on Foreign Affairs;
+
+&emsp;&emsp;"(F) the Committee on Appropriations; and
+
+&emsp;"(2) in the Senate—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs;
+
+&emsp;&emsp;"(B) the Committee on Armed Services;
+
+&emsp;&emsp;"(C) the Select Committee on Intelligence;
+
+&emsp;&emsp;"(D) the Committee on the Judiciary;
+
+&emsp;&emsp;"(E) the Committee on Foreign Relations; and
+
+&emsp;&emsp;"(F) the Committee on Appropriations.
+
+"(f)
+
+Special Rule for Certain Receipt.—The definition under subsection (e) shall be treated as including the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate for purposes of receipt of those portions of—
+
+&emsp;"(1) the national strategy (including updates thereto), and
+
+&emsp;"(2) the implementation plan (including updates thereto),
+
+> required under this section that relate to maritime travel into and out of the United States."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

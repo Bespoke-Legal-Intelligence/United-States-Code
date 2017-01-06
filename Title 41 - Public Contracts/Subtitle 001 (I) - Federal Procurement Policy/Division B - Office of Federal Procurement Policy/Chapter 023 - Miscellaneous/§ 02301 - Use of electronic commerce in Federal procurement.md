@@ -34,7 +34,11 @@ Implementation.—In carrying out the requirements of this section, the Administ
 
 &emsp;(3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3732.)
+(f)
+
+Inapplicability to Department of Defense.—In this section, the term "executive agency" does not include the Department of Defense.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3732; Pub. L. 114–328, div. A, title VIII, §833(b)(5)(A)(ii), Dec. 23, 2016, 130 Stat. 2285.)
 
 Historical and Revision Notes
 
@@ -74,13 +78,17 @@ In subsection (c), the word "executive" is added for clarity and for consistency
 
 In subsection (e)(2), the words "with respect to the agency systems, technologies, procedures, and processes established pursuant to this section" are omitted as unnecessary.
 
+#### Amendments
+
+<b>2016</b>—Subsec. (f). Pub. L. 114–328 added subsec. (f).
+
 #### Streamlining Procurement Through Electronic Commerce
 
 Memorandum of President of the United States, Oct. 28, 1993, 58 F.R. 58095, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies \[and\] the President's Management Council
 
-The Federal Government spends $200 billion annually buying goods and services. Unfortunately, the red tape and burdensome paperwork of the current procurement system increases costs, produces unnecessary delays, and reduces Federal work force productivity. Moving to an electronic commerce system to simplify and streamline the purchasing process will promote customer service and cost-effectiveness. The electronic exchange of acquisition information between the private sector and the Federal Government also will increase competition by improving access to Federal contracting opportunities for the more than 300,000 vendors currently doing business with the Government, particularly small businesses, as well as many other vendors who find access to bidding opportunities difficult under the current system. For these reasons, I am committed to fundamentally altering and improving the way the Federal Government buys goods and services by ensuringthat electronic commerce is implemented for appropriate Federal purchases as quickly as possible.
+The Federal Government spends $200 billion annually buying goods and services. Unfortunately, the red tape and burdensome paperwork of the current procurement system increases costs, produces unnecessary delays, and reduces Federal work force productivity. Moving to an electronic commerce system to simplify and streamline the purchasing process will promote customer service and cost-effectiveness. The electronic exchange of acquisition information between the private sector and the Federal Government also will increase competition by improving access to Federal contracting opportunities for the more than 300,000 vendors currently doing business with the Government, particularly small businesses, as well as many other vendors who find access to bidding opportunities difficult under the current system. For these reasons, I am committed to fundamentally altering and improving the way the Federal Government buys goods and services by ensuring that electronic commerce is implemented for appropriate Federal purchases as quickly as possible.
 
 <b>1. OBJECTIVES.</b>
 

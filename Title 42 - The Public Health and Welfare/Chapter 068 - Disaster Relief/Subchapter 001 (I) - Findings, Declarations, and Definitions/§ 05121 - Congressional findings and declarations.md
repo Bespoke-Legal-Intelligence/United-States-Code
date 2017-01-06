@@ -36,6 +36,12 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–326, §1, Dec. 16, 2016, 130 Stat. 1968, provided that: "This Act \[enacting section 5165f of this title, amending section 8101 of Title 5, Government Organization and Employees, and section 4303 of Title 38, Veterans' Benefits, and enacting and amending provisions set out as notes under section 3791 of this title\] may be cited as the 'National Urban Search and Rescue Response System Act of 2016'."
+
+Pub. L. 114–132, §1, Feb. 29, 2016, 130 Stat. 293, provided that: "This Act \[enacting section 5165e of this title and provisions set out as notes under section 5165e of this title\] may be cited as the 'Directing Dollars to Disaster Relief Act of 2015'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–111, §1, Dec. 18, 2015, 129 Stat. 2240, provided that: "This Act \[amending sections 5122 and 5172 of this title\] may be cited as the 'Emergency Information Improvement Act of 2015'."
@@ -64,7 +70,7 @@ Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: "This A
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: "This Act \[amending section 5170c of this title and enacting provisions set out as notes under sections 4601 and 5170c of this title\] may be cited as the 'Hazard Mitigation and Relocation Assistance Act of 1993'."
+Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: "This Act \[amending section 5170c of this titleand enacting provisions set out as notes under sections 4601 and 5170c of this title\] may be cited as the 'Hazard Mitigation and Relocation Assistance Act of 1993'."
 
 #### Short Title of 1988 Amendment
 
@@ -118,7 +124,7 @@ Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78,
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
-Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23, 1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
+Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23,1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
 
 #### Declared Disasters and Emergencies Not Affected
 
@@ -148,7 +154,7 @@ Sec. 4. Revoked by Ex. Ord. No. 12148, §5–111, July 20, 1979, 44 F.R. 43239.\
 
 #### Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction
 
-For provisions relating to seismic safety requirements for new construction or total replacement of a building under this chapter after a presidentially declared major disaster or emergency, see Ex. Ord. No. 12699, Jan. 5, 1990, 55 F.R. 835, set out as a note under section 7704 of this title.
+For provisions relating to seismic safety requirements for new construction or total replacement of a building under this chapter after a presidentially declared major disaster or emergency, see Ex. Ord. No. 13717, Feb. 2, 2016, 81 F.R. 6407, set out as a note under section 7704 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

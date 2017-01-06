@@ -6,7 +6,7 @@ Section 409(c) of Pub. L. 100–399 provided in part that section 418(c) of Pub.
 
 Section 2222, Pub. L. 92–181, title V, §5.1, Dec. 10, 1971, 85 Stat. 614; Pub. L. 99–205, title II, §205(g)(2), Dec. 23, 1985, 99 Stat. 1707, related to district boards of directors, membership, eligibility, and terms.
 
-Section 2223, Pub. L. 92–181, title V, §5.2, Dec. 10, 1971, 85 Stat. 614; Pub. L. 96–592, title V, §502, Dec. 24, 1980,94 Stat. 3449; Pub. L. 99–205, title II, §205(g)(3), (4), title VI, §607, Dec. 23, 1985, 99 Stat. 1707, 1712; Pub. L. 100–233, title VIII, §802(u), Jan. 6, 1988, 101 Stat. 1712, related to nomination and election of district directors.
+Section 2223, Pub. L. 92–181, title V, §5.2, Dec. 10, 1971, 85 Stat. 614; Pub. L. 96–592, title V, §502, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, §205(g)(3), (4), title VI, §607, Dec. 23, 1985, 99 Stat. 1707, 1712; Pub. L. 100–233, title VIII, §802(u), Jan. 6, 1988, 101 Stat. 1712, related to nomination and election of district directors.
 
 Section 2224, Pub. L. 92–181, title V, §5.3, Dec. 10, 1971, 85 Stat. 615, related to functions of district directors.
 

@@ -6,7 +6,7 @@
 
 (C) A transfer under this paragraph may be revoked at any time by the person making the transfer.
 
-(2) If a person described in paragraph (1) dies before making an election authorized by such paragraph but has never made an election not to transfer such entitlement, any unused entitlement of such person shall be automatically transferred to such person's surviving spouse or (if there is no eligible surviving spouse) to such person's dependent children. A surviving spouse to whom entitlement to educational assistance is transferred under this paragraph may elect to transfer such entitlement to the dependent children of the person whose service established such entitlement.
+(2) If a person described in paragraph (1) dies before making an election authorized by such paragraph but has never made an election not to transfer such entitlement, any unused entitlement of such person shall be automatically transferred to such person's surviving spouse or (if there is no eligible surviving spouse) to such person's dependent children. A surviving spouse to whom entitlement to educational assistance is transferred under this paragraph may elect totransfer such entitlement to the dependent children of the person whose service established such entitlement.
 
 (3) Any transfer of entitlement under this subsection shall be made in accordance with regulations prescribed by the Secretary of the military department concerned.
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>1987</b>—Subsec. (d)(1), (2). Pub. L. 100–180 inserted "The term" after each par. designation and revised first wordin quotes in each par. to make initial letter of such word lowercase.
+<b>1987</b>—Subsec. (d)(1), (2). Pub. L. 100–180 inserted "The term" after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 designated existing first sentence as subpar. (A), added subpar. (B), and incorporated existing second sentence as subpar. (C).
 

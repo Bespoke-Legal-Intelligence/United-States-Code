@@ -21,10 +21,13 @@
 | [46317\.](%C2%A7%2046317%20-%20Criminal%20penalty%20for%20pilots%20operating%20in%20air%20transportation%20without%20an%20airman%27s%20certificate.md) | Criminal penalty for pilots operating in air transportation without an airman's certificate. |
 | [46318\.](%C2%A7%2046318%20-%20Interference%20with%20cabin%20or%20flight%20crew.md) | Interference with cabin or flight crew. |
 | [46319\.](%C2%A7%2046319%20-%20Permanent%20closure%20of%20an%20airport%20without%20providing%20sufficient%20notice.md) | Permanent closure of an airport without providing sufficient notice. |
+| [46320\.](%C2%A7%2046320%20-%20Interference%20with%20wildfire%20suppression%2C%20law%20enforcement%2C%20or%20emergency%20response%20effort%20by%20operation%20of%20unmanned%20aircraft.md) | Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–190, title II, §2205(c), July 15, 2016, 130 Stat. 631, added item 46320.
 
 <b>2003</b>—Pub. L. 108–176, title I, §185(b), Dec. 12, 2003, 117 Stat. 2518, added item 46319.
 
@@ -54,3 +57,4 @@
 - [&sect; 46317 - Criminal penalty for pilots operating in air transportation without an airman's certificate](%C2%A7%2046317%20-%20Criminal%20penalty%20for%20pilots%20operating%20in%20air%20transportation%20without%20an%20airman%27s%20certificate.md)
 - [&sect; 46318 - Interference with cabin or flight crew](%C2%A7%2046318%20-%20Interference%20with%20cabin%20or%20flight%20crew.md)
 - [&sect; 46319 - Permanent closure of an airport without providing sufficient notice](%C2%A7%2046319%20-%20Permanent%20closure%20of%20an%20airport%20without%20providing%20sufficient%20notice.md)
+- [&sect; 46320 - Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft](%C2%A7%2046320%20-%20Interference%20with%20wildfire%20suppression%2C%20law%20enforcement%2C%20or%20emergency%20response%20effort%20by%20operation%20of%20unmanned%20aircraft.md)

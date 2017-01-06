@@ -78,7 +78,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Fisheries Restoration and Irrigation Mitigation
 
-Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11, title XIII, §13002, Mar. 30, 2009, 123 Stat. 1447, provided that:
+Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11, title XIII, §13002, Mar. 30, 2009, 123 Stat. 1447; Pub. L. 114–322, title III, §4010(b)(7), Dec. 16, 2016, 130 Stat. 1874, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -90,7 +90,7 @@ Pub. L. 106–502, Nov. 13, 2000, 114 Stat. 2294, as amended by Pub. L. 111–11
 
 &emsp;"(1)
 
-Pacific ocean drainage area.—The term 'Pacific Ocean drainage area' means the area comprised of portions of the States of Oregon, Washington, Montana, and Idaho from which water drains into the Pacific Ocean.
+Pacific ocean drainage area.—The term 'Pacific Ocean drainage area' means the area comprised of portions of the States of Oregon, Washington, Montana, Idaho, and California from which water drains into the Pacific Ocean.
 
 &emsp;"(2)
 
@@ -250,7 +250,7 @@ Federal responsibility.—The Federal Government shall be responsible for costs 
 
 "(a)
 
-In General.—There is authorized to be appropriated to carry out this Act $25,000,000 for each of fiscal years 2009 through 2015.
+In General.—There is authorized to be appropriated to carry out this Act $15 million through 2021.
 
 "(b)
 
@@ -309,4 +309,6 @@ State expenses.—Amounts made available to States for administrative expenses u
 &emsp;&emsp;&emsp;"(bb) assisting applicants with the preparation of applications for funding under the Program; and
 
 &emsp;&emsp;&emsp;"(cc) visiting construction sites to provide technical assistance, if requested by the applicant."
+
+\[Pub. L. 114–322, title III, §4010(b)(7)(A), Dec. 16, 2016, 130 Stat. 1874, which directed the amendment of section 10(a) of Pub. L. 106–502, set out above, by substituting "$15 million through 2021" for "$25 million for each of fiscal years 2009 through 2015", was executed by making the substitution for "$25,000,000 for each of fiscal years 2009 through 2015" to reflect the probable intent of Congress.\]
 

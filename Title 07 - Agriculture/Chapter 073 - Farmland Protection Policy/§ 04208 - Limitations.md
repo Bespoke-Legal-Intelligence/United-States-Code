@@ -10,3 +10,7 @@
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted before period at end "during a national emergency".
 
+#### Effective Date
+
+Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
+

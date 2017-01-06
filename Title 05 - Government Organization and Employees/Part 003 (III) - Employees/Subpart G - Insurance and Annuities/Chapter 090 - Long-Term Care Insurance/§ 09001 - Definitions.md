@@ -24,7 +24,7 @@ Annuitant.—The term "annuitant" means—
 
 &emsp;&emsp;(B) any individual who—
 
-&emsp;&emsp;&emsp;(i) satisfies all requirements for title to an annuity under subchapter III of chapter 83, chapter 84, or any other retirement system for employees of the Government (whether based on the service of such individual or otherwise), and files application therefor;
+&emsp;&emsp;&emsp;(i) satisfies all requirements for title to an annuity under subchapter III of chapter83, chapter 84, or any other retirement system for employees of the Government (whether based on the service of such individual or otherwise), and files application therefor;
 
 &emsp;&emsp;&emsp;(ii) is at least 18 years of age; and
 

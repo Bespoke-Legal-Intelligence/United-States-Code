@@ -14,7 +14,7 @@ Travel Benefit Defined.—In this section, the term "travel benefit" means—
 
 (c)
 
-Condition on Authority to Accept Donation.—The Secretary may accept a donation of a travel benefit under this section only if the business entity referred to in subsection (b) that is the source of the benefit consents to such donation. Any such donation shall be under such terms and conditions as the business entity may specify, and the travel benefit so donated maybe used only in accordance with the rules established by the business entity.
+Condition on Authority to Accept Donation.—The Secretary may accept a donation of a travel benefit under this section only if the business entity referred to in subsection (b) that is the source of the benefit consents to such donation. Any such donation shall be under such terms and conditions as the business entity may specify, and the travel benefit so donated may be used only in accordance with the rules established by the business entity.
 
 (d)
 

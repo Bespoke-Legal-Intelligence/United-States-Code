@@ -30,5 +30,5 @@ Each ombudsman appointed under subsection (a) of this section shall—
 
 #### Codification
 
-Section was enacted as part of the Technology Transfer Commercialization Act of 2000, and not as part ofthe Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Technology Transfer Commercialization Act of 2000, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

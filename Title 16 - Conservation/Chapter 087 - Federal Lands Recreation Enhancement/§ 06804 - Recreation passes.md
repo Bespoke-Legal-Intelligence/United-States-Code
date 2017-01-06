@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and watersat which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
+&emsp;&emsp;The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
 
 #### (B) Use of vendors
 
@@ -52,11 +52,17 @@
 
 #### (1) Age discount
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
+&emsp;(A) The Secretary shall make the National Parks and Federal Recreational Lands Pass available to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be available—
+
+&emsp;&emsp;(i) for a period of 12 months from the date of the issuance, at a cost of $20; and
+
+&emsp;&emsp;(ii) for the lifetime of the passholder, at a cost equal to the cost of the National Parks and Federal Recreational Lands Pass purchased under subsection (a).
+
+&emsp;(B) The Secretary shall issue a pass under subparagraph (A)(ii), for no additional cost, to any individual who provides evidence, under policies and guidelines determined by the Secretary, that the individual has purchased a pass under subparagraph (A)(i) for each of the 4 years prior to being issued a pass under this subparagraph.
 
 #### (2) Disability discount
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Passavailable, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
 
 #### (c) Site-specific agency passes
 
@@ -86,19 +92,21 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 &emsp;A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
-(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267.)
+(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484.)
 
 #### References in Text
 
 Section 6805 of this title, referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov.13, 1998, 112 Stat. 3497. Title VI of the Act was classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Tables.
+The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Title VI of the Act was classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 In subsec. (f), "section 100904 of title 54" substituted for "section 4 of the Land and Water Conservation Fund Act of 1965" in two places on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–289 designated existing provisions as subpar. (A), struck out ", at a cost of $10.00," before "to any United States citizen", substituted "shall be available—" and cls. (i) and (ii) for "shall be valid for the lifetime of the pass holder.", and added subpar. (B).
 
 <b>2014</b>—Subsec. (f)(1). Pub. L. 113–287, §5(d)(36)(B), struck out "; 16 U.S.C. 5991–5995" after "(Public Law 105–391".
 

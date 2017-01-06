@@ -8,7 +8,7 @@ Emergency.—"Emergency" means any occasion or instance for which, in the determ
 
 (2)
 
-Major disaster.—"Major disaster" means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the United States, which in the determination of the President causes damage of sufficient severity andmagnitude to warrant major disaster assistance under this chapter to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.
+Major disaster.—"Major disaster" means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the United States, which in the determination of the President causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.
 
 (3) "United States" means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
@@ -18,7 +18,7 @@ Major disaster.—"Major disaster" means any natural catastrophe (including any 
 
 (6)
 
-Indian tribal government.—The term "Indian tribal government" means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a et seq.).
+Indian tribal government.—The term "Indian tribal government" means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a et seq.).<sup>1</sup>
 
 (7)
 
@@ -70,7 +70,7 @@ Chief executive.—The term "Chief Executive" means the person who is the Chief,
 
 This chapter, referred to in introductory provisions and par. (2), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-The Federally Recognized Indian Tribe List Act of 1994, referred to in par. (6), is title I of Pub. L. 103–454, Nov. 2, 1994, 108 Stat. 4791. For complete classification of this Act to the Code, see Short Title note set out under section 479a of Title 25, Indians, and Tables.
+The Federally Recognized Indian Tribe List Act of 1994, referred to in par. (6), is title I of Pub. L. 103–454, Nov. 2, 1994, 108 Stat. 4791, which was classified principally to section 479a et seq. of Title 25, Indians, prior to editorial reclassification as section 5130 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
 #### Amendments
 
@@ -137,4 +137,6 @@ In general.—The term 'local government' is deemed to have the same meaning in 
 Termination of effectiveness.—Paragraph (1) shall not be effective on and after the 90th day after the President transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and Public Works of the Senate a report which includes an interpretation of the term 'local government' for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act."
 
 \[Functions of President under section 103(e)(2) of Pub. L. 100–707 delegated to Administrator of Federal Emergency Management Agency by section 3 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

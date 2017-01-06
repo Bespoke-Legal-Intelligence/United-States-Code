@@ -6,7 +6,7 @@ To be eligible to receive assistance under section 12571(a) of this title or app
 
 #### (b) Types of permissible application information
 
-In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
+In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a):
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
@@ -36,7 +36,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(10) A description of the past experience of the applicant in operating a comparable program or in conducting a grant program in support of other comparable service programs.
 
-&emsp;(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D of this subchapter and a description of the manner inwhich approved national service positions will be apportioned by the applicant.
+&emsp;(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D and a description of the manner in which approved national service positions will be apportioned by the applicant.
 
 &emsp;(12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, municipalities and governments of counties in which such a community is located, and labor organizations contributed to the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
 
@@ -44,7 +44,7 @@ In order to have adequate information upon which to consider an application unde
 
 #### (c) Required application information
 
-An application submitted under subsection (a) of this section shall contain the following information:
+An application submitted under subsection (a) shall contain the following information:
 
 &emsp;(1) A description of the proposed positions into which participants will be placed using the assistance provided under section 12571 of this title.
 
@@ -112,7 +112,7 @@ An application submitted under subsection (a) for programs described in 12572(a)
 
 #### (h) Limitation on same project receiving multiple grants
 
-Unless specifically authorized by law, the Corporation may not provide more than 1 grant under the national service laws for a fiscal year to support the same project under the national service laws.
+Unless specifically authorized by law, the Corporation may not provide more than 1 grantunder the national service laws for a fiscal year to support the same project under the national service laws.
 
 (Pub. L. 101–610, title I, §130, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 800; amended Pub. L. 111–13, title I, §1308, Apr. 21, 2009, 123 Stat. 1505.)
 

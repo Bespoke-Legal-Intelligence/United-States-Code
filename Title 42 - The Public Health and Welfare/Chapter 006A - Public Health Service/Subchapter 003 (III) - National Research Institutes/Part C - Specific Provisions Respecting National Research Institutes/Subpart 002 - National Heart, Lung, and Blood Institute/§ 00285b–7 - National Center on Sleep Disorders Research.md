@@ -16,7 +16,7 @@ The general purpose of the Center is—
 
 (1) The Director of the National Institutes of Health shall establish a board to be known as the Sleep Disorders Research Advisory Board (in this section referred to as the "Advisory Board").
 
-(2) The Advisory Board shall advise, assist, consult with, and make recommendations to the Director of the National Institutes of Health, through the Director of the Institute, and the Director of the Center concerning matters relating to the scientific activities carried out by and through the Center and the policies respecting such activities, including recommendations with respect to the plan required in subsection (c) <sup>1</sup> of this section.
+(2) The Advisory Board shall advise, assist, consult with, and make recommendations to the Director of the National Institutes of Health, through the Director of the Institute, and the Director of the Center concerning matters relating to the scientific activities carried out by and through the Center and the policies respecting such activities, including recommendations with respect to the plan required in subsection (c).<sup>1</sup>
 
 (3)(A) The Director of the National Institutes of Health shall appoint to the Advisory Board 12 appropriately qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, eight shall be representatives of health and scientific disciplines with respect to sleep disorders and four shall be individuals representing the interests of individuals with or undergoing treatment for sleep disorders.
 
@@ -48,11 +48,11 @@ The general purpose of the Center is—
 
 #### (d) Development of comprehensive research plan; revision
 
-(1) After consultation with the Director of the Center and the advisory board <sup>2</sup> established under subsection (c) of this section, the Director of the National Institutes of Health shall develop a comprehensive plan for the conduct and support of sleep disorders research.
+(1) After consultation with the Director of the Center and the advisory board <sup>2</sup> established under subsection (c), the Director of the National Institutes of Health shall develop a comprehensive plan for the conduct and support of sleep disorders research.
 
 (2) The plan developed under paragraph (1) shall identify priorities with respect to such research and shall provide for the coordination of such research conducted or supported by the agencies of the National Institutes of Health.
 
-(3) The Director of the National Institutes of Health (after consultation with the Director of the Center and the advisory board <sup>2</sup> established under subsection (c) of this section) shall revise the plan developed under paragraph (1) as appropriate.
+(3) The Director of the National Institutes of Health (after consultation with the Director ofthe Center and the advisory board <sup>2</sup> established under subsection (c)) shall revise the plan developed under paragraph (1) as appropriate.
 
 #### (e) Collection and dissemination of information
 

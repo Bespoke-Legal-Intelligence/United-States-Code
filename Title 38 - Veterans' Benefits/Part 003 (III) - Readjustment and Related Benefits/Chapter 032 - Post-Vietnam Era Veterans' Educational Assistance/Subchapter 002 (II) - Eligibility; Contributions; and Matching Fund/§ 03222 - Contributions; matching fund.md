@@ -10,7 +10,7 @@
 
 (e) Any amount transferred to the Secretary from the Secretary of a military department under an interagency agreement for the administration by the Department of Veterans Affairs of an educational assistance program established by the Secretary of Defense under chapter 107 of title 10 may be deposited into and disbursed from the fund for the purposes of such program.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1622; amended Pub. L. 94–502, title IV, §408(b), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 96–466, title IV, §406, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–306, title II, §§209, 210, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–160, title VII, §702(6), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), (B), (D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3222 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1622; amended Pub. L. 94–502, titleIV, §408(b), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 96–466, title IV, §406, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–306, title II, §§209, 210, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–160, title VII, §702(6), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), (B), (D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3222 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsec. (e). Pub. L. 101–237, §423(b)(1), (4)(B), substituted "Secretary" and
 
 Subsec. (e). Pub. L. 97–306, §209, added subsec. (e).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466, §406(a), substituted "Except as provided in subsections (c) and (d) of thissection, each" for "Each", "$25" for "$50", and "$100" for "$75".
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §406(a), substituted "Except as provided in subsections (c) and (d) of this section, each" for "Each", "$25" for "$50", and "$100" for "$75".
 
 Subsec. (c). Pub. L. 96–466, §406(b), inserted ", including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section" after "Armed Forces".
 

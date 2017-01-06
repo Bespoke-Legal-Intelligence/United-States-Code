@@ -62,7 +62,7 @@ Vocational rehabilitation services provided for the benefit of groups of individ
 
 &emsp;(1) In the case of any type of small business operated by individuals with significant disabilities the operation of which can be improved by management services and supervision provided by the designated State agency, the provision of such services and supervision, along or together with the acquisition by the designated State agency of vending facilities or other equipment and initial stocks and supplies.
 
-&emsp;(2) The establishment, development, or improvement of community rehabilitation programs, including, under special circumstances, the construction of a facility. Such programs shall be used to provide services described in this section that promote integration into the community and that prepare individuals withdisabilities for competitive integrated employment, including supported employment and customized employment.
+&emsp;(2) The establishment, development, or improvement of community rehabilitation programs, including, under special circumstances, the construction of a facility. Such programs shall be used to provide services described in this section that promote integration into the community and that prepare individuals with disabilities for competitive integrated employment, including supported employment and customized employment.
 
 &emsp;(3) The use of telecommunications systems (including telephone, television, satellite, radio, and other similar systems) that have the potential for substantially improving delivery methods of activities described in this section and developing appropriate programming to meet the particular needs of individuals with disabilities.
 

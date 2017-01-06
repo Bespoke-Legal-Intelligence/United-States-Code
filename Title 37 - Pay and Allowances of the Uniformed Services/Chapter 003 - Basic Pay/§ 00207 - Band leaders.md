@@ -8,7 +8,7 @@
 
 (d) The leader of the Naval Academy Band is entitled to the basic pay of the grade the Secretary of the Navy prescribes. The second leader is entitled to the basic pay of a warrant officer, W–1.
 
-(e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
+(e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic paymay not be less than that to which he was entitled at the time of his appointment as director.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, §2, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, §3(b)(1), Oct. 30, 1978, 92 Stat. 2069.)
 

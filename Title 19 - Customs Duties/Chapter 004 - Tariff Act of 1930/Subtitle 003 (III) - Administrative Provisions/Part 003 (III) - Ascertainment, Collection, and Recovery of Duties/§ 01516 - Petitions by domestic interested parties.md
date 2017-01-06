@@ -46,7 +46,7 @@ If the cause of action is sustained in whole or in part by a decision of the Uni
 
 Regulations shall be prescribed by the Secretary to implement the procedures required under this section.
 
-(June 17, 1930, ch. 497, title IV, §516, 46 Stat. 735; June 25, 1938, ch. 679, §17(a), 52 Stat. 1084; June 25, 1948, ch. 646, §39, 62 Stat. 992; Pub. L. 91–271, title II, §209, June 2, 1970, 84 Stat. 286; Pub. L. 93–618, title III, §§321(f)(1), 331(b), Jan. 3, 1975, 88 Stat. 2048, 2052; Pub. L. 96–39, title X, §1001(b)(1),July 26, 1979, 93 Stat. 303; Pub. L. 96–417, title VI, §§601(6), 607, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 97–164, title I, §163(a)(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 99–514, title XVIII, §1888(5), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–418, title I, §1326(d)(3), Aug. 23, 1988, 102 Stat. 1204.)
+(June 17, 1930, ch. 497, title IV, §516, 46 Stat. 735; June 25, 1938, ch. 679, §17(a), 52 Stat. 1084; June 25, 1948, ch. 646, §39, 62 Stat. 992; Pub. L. 91–271, title II, §209, June 2, 1970, 84 Stat. 286; Pub. L. 93–618, title III, §§321(f)(1), 331(b), Jan. 3, 1975, 88 Stat. 2048, 2052; Pub. L. 96–39, title X, §1001(b)(1), July 26, 1979, 93 Stat. 303; Pub. L. 96–417, title VI, §§601(6), 607, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 97–164, title I, §163(a)(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 99–514, title XVIII, §1888(5), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–418, title I, §1326(d)(3), Aug. 23, 1988, 102 Stat. 1204.)
 
 #### Prior Provisions
 
@@ -56,7 +56,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–418 added par. (3).
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted "Such term includes an association, a majority of whose members is composed of persons described in subparagraph (A), (B), or (C)."
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted "Such term includes an association, a majority of whosemembers is composed of persons described in subparagraph (A), (B), or (C)."
 
 <b>1982</b>—Subsecs. (d), (f). Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
@@ -130,7 +130,7 @@ Functions of Secretary of the Treasury under this section insofar as they relate
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Application of Subsection (b) to Complaints
 

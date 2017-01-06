@@ -30,7 +30,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (3) Ingredients (other than bulk drug substances)
 
-&emsp;If any ingredients (other than bulk drug substances) are used in compounding the drug,such ingredients comply with the standards of the applicable United States Pharmacopeia or National Formulary monograph, if such monograph exists, or of another compendium or pharmacopeia recognized by the Secretary for purposes of this paragraph if any.
+&emsp;If any ingredients (other than bulk drug substances) are used in compounding the drug, such ingredients comply with the standards of the applicable United States Pharmacopeia or National Formulary monograph, if such monograph exists, or of another compendium or pharmacopeia recognized by the Secretary for purposes of this paragraph if any.
 
 #### (4) Drugs withdrawn or removed because unsafe or not effective
 
@@ -202,7 +202,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (A) In general
 
-&emsp;&emsp;Before the effective date of the regulations finalized to implement subsection (a)(6), theSecretary may designate drugs, categories of drugs, or conditions as described such <sup>1</sup> subsection by—
+&emsp;&emsp;Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such <sup>1</sup> subsection by—
 
 &emsp;&emsp;&emsp;(i) publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
 
@@ -230,7 +230,7 @@ In this section:
 
 &emsp;(2) The term "essentially a copy of an approved drug" means—
 
-&emsp;&emsp;(A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at the time of compounding, distribution, and dispensing; or
+&emsp;&emsp;(A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under section 356e of this title at thetime of compounding, distribution, and dispensing; or
 
 &emsp;&emsp;(B) a drug, a component of which is a bulk drug substance that is a component of an approved drug or a marketed drug that is not subject to section 353(b) of this title and not subject to approval in an application submitted under section 355 of this title, unless there is a change that produces for an individual patient a clinical difference, as determined by the prescribing practitioner, between the compounded drug and the comparable approved drug.
 

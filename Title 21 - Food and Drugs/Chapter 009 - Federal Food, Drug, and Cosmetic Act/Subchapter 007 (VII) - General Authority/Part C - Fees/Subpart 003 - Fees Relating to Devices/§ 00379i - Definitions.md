@@ -28,7 +28,7 @@ For purposes of this subpart:
 
 &emsp;(E) The term "efficacy supplement" means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
 
-&emsp;(5) The term "30-day notice" means a notice under section 360e(d)(6) of this title that is limited to a request to make modifications to manufacturing procedures or methods of manufacture affecting the safety and effectiveness of the device.
+&emsp;(5) The term "30-day notice" means a notice under section 360e(d)(5) of this title that is limited to a request to make modifications to manufacturing procedures or methods of manufacture affecting the safety and effectiveness of the device.
 
 &emsp;(6) The term "request for classification information" means a request made under section 360c(g) of this title for information respecting the class in which a device has been classified or the requirements applicable to a device.
 
@@ -80,13 +80,15 @@ For purposes of this subpart:
 
 &emsp;(13) The term "establishment subject to a registration fee" means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
-(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002.)
+(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002; Pub. L. 114–255, div. A, title III, §3051(c)(2), Dec. 13, 2016, 130 Stat. 1124.)
 
 #### Termination of Section
 
 <i>For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.</i>
 
 #### Amendments
+
+<b>2016</b>—Par. (5). Pub. L. 114–255 substituted "360e(d)(5)" for "360e(d)(6)".
 
 <b>2012</b>—Par. (9). Pub. L. 112–144, §202(1), struck out "incurred" after "expenses" in introductory provisions.
 
@@ -132,13 +134,13 @@ Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, provided th
 
 Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
 
-Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided that the amendments made by title I of Pub. L. 107–250 (enacting this subpart) would cease to be effective Oct. 1, 2007, except that section 103 of Pub. L. 107–250, set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by Pub. L. 112–144, title II, §207(c)(1), July 9, 2012, 126 Stat. 1007.
+Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided that the amendments made by title I of Pub. L. 107–250 (enacting this subpart) would cease to be effective Oct. 1, 2007, except that section 103of Pub. L. 107–250, set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by Pub. L. 112–144, title II, §207(c)(1), July 9, 2012, 126 Stat. 1007.
 
 \[Pub. L. 112–144, title II, §207(c), July 9, 2012, 126 Stat. 1007, provided that the repeal of section 107 of Pub. L. 107–250, formerly set out above, is effective Sept. 30, 2007.\]
 
 #### Savings Provision
 
-Pub. L. 112–144, title II, §205, July 9, 2012, 126 Stat. 1007, provided that: "Notwithstanding the amendments made by this title \[enacting section 379d–3 of this title, amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to the submissionslisted in section 738(a)(2)(A) of such Act \[21 U.S.C. 379j(a)(2)(A)\] (in effect as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013."
+Pub. L. 112–144, title II, §205, July 9, 2012, 126 Stat. 1007, provided that: "Notwithstanding the amendments made by this title \[enacting section 379d–3 of this title, amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act \[21 U.S.C. 379j(a)(2)(A)\] (in effect as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013."
 
 Pub. L. 110–85, title II, §214, Sept. 27, 2007, 121 Stat. 852, provided that: "Notwithstanding section 107 of the Medical Device User Fee and Modernization Act of 2002 (Public Law 107–250) \[formerly set out as an Effective and Termination Dates note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this subtitle \[Sept. 27, 2007\], shall continue to be in effect with respect to premarket applications, premarket reports, premarket notification submissions, and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008."
 

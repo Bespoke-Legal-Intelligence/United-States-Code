@@ -6,7 +6,7 @@
 
 &emsp;Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution's need for the assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for assistance under this subchapter only if the Secretary determines that—
 
-&emsp;&emsp;(A) the application meets the requirements of subsection (b) of this section;
+&emsp;&emsp;(A) the application meets the requirements of subsection (b);
 
 &emsp;&emsp;(B) the applicant is eligible for assistance in accordance with the part of this subchapter under which the assistance is sought; and
 
@@ -14,13 +14,13 @@
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A prior to the submission of the principal application.
 
 #### (b) Contents
 
 An institution, in its application for a grant, shall—
 
-&emsp;(1) set forth, or describe how the institution (other than an institution applying under part C, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
+&emsp;(1) set forth, or describe how the institution (other than an institution applying under part C, D or E) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
 
 &emsp;(2) set forth policies and procedures to ensure that Federal funds made available under this subchapter for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purposes of section 1057(b) or 1062 of this title, and in no case supplant those funds;
 
@@ -48,11 +48,11 @@ An institution, in its application for a grant, shall—
 
 #### (c) Priority criteria publication required
 
-The Secretary shall publish in the Federal Register, pursuant to chapter 5 of title 5, all policies and procedures required to exercise the authority set forth in subsection (a) of this section. No other criteria, policies, or procedures shall apply.
+The Secretary shall publish in the Federal Register, pursuant to chapter 5 of title 5, all policies and procedures required to exercise the authority set forth in subsection (a). No other criteria, policies, or procedures shall apply.
 
 #### (d) Eligibility data
 
-The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
+The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
 
 #### (e) Technical assistance
 
@@ -62,7 +62,7 @@ The Secretary, directly or by grant or contract, may provide technical assistanc
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, PostalService, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Codification
 

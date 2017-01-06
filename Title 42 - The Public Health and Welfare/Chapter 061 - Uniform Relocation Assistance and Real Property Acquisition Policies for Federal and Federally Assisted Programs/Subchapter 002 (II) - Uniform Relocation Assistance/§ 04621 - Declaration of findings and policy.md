@@ -44,7 +44,7 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(4), is Pub. L. 88–352
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–17 substituted "Declaration of findings and policy" for "Declaration of policy" in sectioncatchline and amended text generally. Prior to amendment, text read as follows: "The purpose of this subchapter is to establish a uniform policy for the fair and equitable treatment of persons displaced as a result of Federal and federally assisted programs in order that such persons shall not suffer disproportionate injuries as a result of programs designed for the benefit of the public as a whole."
+<b>1987</b>—Pub. L. 100–17 substituted "Declaration of findings and policy" for "Declaration of policy" in section catchline and amended text generally. Prior to amendment, text read as follows: "The purpose of this subchapter is to establish a uniform policy for the fair and equitable treatment of persons displaced as a result of Federal and federally assisted programs in order that such persons shall not suffer disproportionate injuries as a result of programs designed for the benefit of the public as a whole."
 
 #### Effective Date of 1987 Amendment
 

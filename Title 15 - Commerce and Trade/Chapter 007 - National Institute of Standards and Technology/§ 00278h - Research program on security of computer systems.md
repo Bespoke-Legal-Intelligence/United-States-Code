@@ -66,7 +66,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 &emsp;&emsp;(B) soliciting applications for specific research projects to address the goals developed under subparagraph (A);
 
-&emsp;&emsp;(C) selecting research projects for support under the program from among applicationssubmitted to the Institute, following consideration of—
+&emsp;&emsp;(C) selecting research projects for support under the program from among applications submitted to the Institute, following consideration of—
 
 &emsp;&emsp;&emsp;(i) the novelty and scientific and technical merit of the proposed projects;
 

@@ -10,6 +10,10 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of "judges of the Supreme Court" by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2016 Amendment
+
+Pub. L. 114–319, §1, Dec. 16, 2016, 130 Stat. 1618, provided that: "This Act \[amending section 1605 of this title and enacting provisions set out as notes under section 1605 of this title\] may be cited as the 'Foreign Cultural Exchange Jurisdictional Immunity Clarification Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–74, title VII, §701(a), Nov. 2, 2015, 129 Stat. 599, provided that: "This section \[amending and repealing provisions set out as notes under section 2461 of this title\] may be cited as the 'Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015'."
@@ -38,7 +42,7 @@ Pub. L. 111–223, §1, Aug. 10, 2010, 124 Stat. 2380, provided that: "This Act 
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–122, §1, Dec. 22, 2009, 123 Stat. 3480, provided that: "This Act \[enacting section 509B of thistitle, amending sections 1103 and 1182 of Title 8, Aliens and Nationality, and sections 1091 and 2339A of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1182 of Title 8\] may be cited as the 'Human Rights Enforcement Act of 2009'."
+Pub. L. 111–122, §1, Dec. 22, 2009, 123 Stat. 3480, provided that: "This Act \[enacting section 509B of this title, amending sections 1103 and 1182 of Title 8, Aliens and Nationality, and sections 1091 and 2339A of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1182 of Title 8\] may be cited as the 'Human Rights Enforcement Act of 2009'."
 
 #### Short Title of 2008 Amendment
 
@@ -158,7 +162,7 @@ Pub. L. 97–164, §1, Apr. 2, 1982, 96 Stat. 25, provided: "That this Act \[see
 
 Pub. L. 96–486, §1, Dec. 1, 1980, 94 Stat. 2369, provided: "That this Act \[amending section 1331 of this title and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1331 of this title\] may be cited as the 'Federal Question Jurisdictional Amendments Act of 1980'."
 
-Pub. L. 96–462, §1, Oct. 15, 1980, 94 Stat. 2053, provided that: "This Act \[amending sections 84, 95, 105, 113, and124 of this title and enacting provisions set out as notes under sections 84, 95, 105, and 113 of this title\] may be cited as the 'Federal District Court Organization Act of 1980'."
+Pub. L. 96–462, §1, Oct. 15, 1980, 94 Stat. 2053, provided that: "This Act \[amending sections 84, 95, 105, 113, and 124 of this title and enacting provisions set out as notes under sections 84, 95, 105, and 113 of this title\] may be cited as the 'Federal District Court Organization Act of 1980'."
 
 Pub. L. 96–458, §1, Oct. 15, 1980, 94 Stat. 2035, provided that: "This Act \[amending sections 331, 332, 372, and 604 of this title and enacting provisions set out as notes under section 331 of this title\] may be cited as the 'Judicial Councils Reform and Judicial Conduct and Disability Act of 1980'."
 

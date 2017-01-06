@@ -36,7 +36,7 @@ Pub. L. 96–53, title V, §507, Aug. 14, 1979, 93 Stat. 378, as amended by Pub.
 
 Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, provided:
 
-By virtue of the authority vested in me by the Nuclear Non-Proliferation Act of 1978 (Public Law 95–242, 92 Stat. 120, 22 U.S.C. 3201) \[see Short Title note above\] and the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 et seq.), and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Nuclear Non-Proliferation Act of 1978 (Public Law 95–242, 92 Stat. 120, 22 U.S.C. 3201) \[see Short Title note above\] and the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 et seq.), and Section 301 of Title 3 of theUnited States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Department of Energy</i>. The following functions vested in the President by the Nuclear Non-Proliferation Act of 1978 (92 Stat. 120, 22 U.S.C. 3201), hereinafter referred to as the Act, and by the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 et seq.), hereinafter referred to as the 1954 Act, are delegated or assigned to the Secretary of Energy:
 

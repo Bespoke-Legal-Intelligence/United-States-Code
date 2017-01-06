@@ -8,7 +8,7 @@ No investment adviser registered or required to be registered with the Commissio
 
 &emsp;(2) fails to provide, in substance, that no assignment of such contract shall be made by the investment adviser without the consent of the other party to the contract; or
 
-&emsp;(3) fails to provide, in substance, that the investment adviser, if a partnership, will notify the other party to the contract of any changein the membership of such partnership within a reasonable time after such change.
+&emsp;(3) fails to provide, in substance, that the investment adviser, if a partnership, will notify the other party to the contract of any change in the membership of such partnership within a reasonable time after such change.
 
 #### (b) Compensation prohibition inapplicable to certain compensation computations
 
@@ -36,7 +36,7 @@ For purposes of paragraph (2) of subsection (b), the point from which increases 
 
 #### (d) "Investment advisory contract" defined
 
-As used in paragraphs (2) and (3) of subsection (a), "investment advisory contract" means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
+As used in paragraphs (2) and (3) of subsection (a), "investment advisory contract" means any contract or agreement whereby a person agreesto act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
 
 #### (e) Exempt persons and transactions
 
@@ -52,7 +52,7 @@ The Commission, by rule, may prohibit, or impose conditions or limitations on th
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §928, in introductory provisions, substituted "registered or required to be registered with the Commission" for ", unless exempt from registration pursuant to section 80b–3(b) of this title," and struck out "make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to" after "shall" and "to" after "in any way".
 
-Subsec. (e). Pub. L. 111–203, §418, inserted at end "With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multipleof $100,000 shall be rounded to the nearest multiple of $100,000."
+Subsec. (e). Pub. L. 111–203, §418, inserted at end "With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000."
 
 Subsec. (f). Pub. L. 111–203, §921(b), added subsec. (f).
 

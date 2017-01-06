@@ -20,7 +20,7 @@ The Secretary of Agriculture (hereinafter in this subchapter referred to as the 
 
 &emsp;(8) help identify areas of needed research regarding renewable resources;
 
-&emsp;(9) in cooperation with State foresters or equivalent State officials, promote public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urbanand community area environments and expand knowledge of the ecological relationships and benefits of trees and related resources in urban and community environments; and
+&emsp;(9) in cooperation with State foresters or equivalent State officials, promote public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community area environments and expand knowledge of the ecological relationships and benefits of trees and related resources in urban and community environments; and
 
 &emsp;(10) conduct a comprehensive natural resource and environmental education program for landowners and managers, public officials, and the public, with particular emphasis on youth.
 
@@ -30,7 +30,7 @@ As used in this subchapter, the term "eligible colleges and universities" means 
 
 #### (c) Use of appropriate educational methods required; scope of methods
 
-In implementing this section, all appropriate educational methods may be used, including, but not limited to, meetings, short courses, workshops, tours, demonstrations, publications, news releases, and radio and television programs.
+In implementing this section, all appropriate educational methods may be used, including,but not limited to, meetings, short courses, workshops, tours, demonstrations, publications, news releases, and radio and television programs.
 
 (Pub. L. 95–306, §3, June 30, 1978, 92 Stat. 349; Pub. L. 101–624, title XII, §§1219(b)(1), 1251(b), Nov. 28, 1990, 104 Stat. 3538, 3552; Pub. L. 102–237, title X, §1018(d), Dec. 13, 1991, 105 Stat. 1905.)
 

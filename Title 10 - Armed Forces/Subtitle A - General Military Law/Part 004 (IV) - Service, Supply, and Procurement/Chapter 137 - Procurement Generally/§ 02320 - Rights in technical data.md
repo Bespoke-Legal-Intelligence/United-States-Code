@@ -4,31 +4,39 @@
 
 (2) Such regulations shall include the following provisions:
 
-&emsp;(A) In the case of an item or process that is developed by a contractor or subcontractor exclusively with Federal funds (other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (15 U.S.C. 638(j)(2)) apply), the United States shall have the unlimited right to—
+&emsp;(A)
+
+Development exclusively with federal funds.—In the case of an item or process that is developed by a contractor or subcontractor exclusively with Federal funds (other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (15 U.S.C. 638(j)(2)) apply), the United States shall have the unlimited right to—
 
 &emsp;&emsp;(i) use technical data pertaining to the item or process; or
 
 &emsp;&emsp;(ii) release or disclose the technical data to persons outside the government or permit the use of the technical data by such persons.
 
-&emsp;(B) Except as provided in subparagraphs (C) and (D), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.
+&emsp;(B)
 
-&emsp;(C) Subparagraph (B) does not apply to technical data that—
+Development exclusively at private expense.—Except as provided in subparagraphs (C), (D), and (G), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.
+
+&emsp;(C)
+
+Exception to subparagraph (b).—Subparagraph (B) does not apply to technical data that—
 
 &emsp;&emsp;(i) constitutes a correction or change to data furnished by the United States;
 
 &emsp;&emsp;(ii) relates to form, fit, or function;
 
-&emsp;&emsp;(iii) is necessary for operation, maintenance, installation, or training (other than detailed manufacturing or process data); or
+&emsp;&emsp;(iii) is necessary for operation, maintenance, installation, or training (other than detailed manufacturing or process data, including such data pertaining to a major system component); or
 
 &emsp;&emsp;(iv) is otherwise publicly available or has been released or disclosed by the contractor or subcontractor without restriction on further release or disclosure.
 
-&emsp;(D) Notwithstanding subparagraph (B), the United States may release or disclose technical data to persons outside the Government, or permit the use of technical data by such persons, if—
+&emsp;(D)
+
+Exception to subparagraph (b).—Notwithstanding subparagraph (B), the United States may release or disclose technical data to persons outside the Government, or permit the use of technical data by such persons, if—
 
 &emsp;&emsp;(i) such release, disclosure, or use—
 
 &emsp;&emsp;&emsp;(I) is necessary for emergency repair and overhaul;
 
-&emsp;&emsp;&emsp;(II) is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; or
+&emsp;&emsp;&emsp;(II) is a release, disclosure, or use of technical data pertaining to an interface between an item or process and other items or processes necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; or
 
 &emsp;&emsp;&emsp;(III) is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
 
@@ -36,7 +44,9 @@
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
-&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations). The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shall be based upon consideration of all of the following factors:
+&emsp;(E)
+
+Development with mixed funding.—Except as provided in subparagraphs (F) and (G), in the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based on negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall be based upon consideration of all of the following factors:
 
 &emsp;&emsp;(i) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
 
@@ -46,11 +56,19 @@
 
 &emsp;&emsp;(iv) Such other factors as the Secretary of Defense may prescribe.
 
-&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
+&emsp;(F)
+
+Interfaces developed with mixed funding.—Notwithstanding subparagraph (E), the United States shall have government purpose rights in technical data pertaining to an interface between an item or process and other items or processes that was developed in part with Federal funds and in part at private expense, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiation of different rights in such technical data would be in the best interest of the United States.
+
+&emsp;(G)
+
+Major system interfaces developed exclusively at private expense or with mixed funding.—Notwithstanding subparagraphs (B) and (E), the United States shall have government purpose rights in technical data pertaining to a major system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to section 2446a of this title, except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States. Such major system interface shall be identified in the contract solicitation and the contract. For technical data pertaining to a major system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
+
+&emsp;(H) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
 
 &emsp;&emsp;(i) to sell or otherwise relinquish to the United States any rights in technical data except—
 
-&emsp;&emsp;&emsp;(I) rights in technical data described in subparagraph (A) for which a use or releaserestriction has been erroneously asserted by a contractor or subcontractor;
+&emsp;&emsp;&emsp;(I) rights in technical data described in subparagraph (A) for which a use or release restriction has been erroneously asserted by a contractor or subcontractor;
 
 &emsp;&emsp;&emsp;(II) rights in technical data described in subparagraph (C); or
 
@@ -58,7 +76,7 @@
 
 &emsp;&emsp;(ii) to refrain from offering to use, or from using, an item or process to which the contractor is entitled to restrict rights in data under subparagraph (B).
 
-&emsp;(G) The Secretary of Defense may—
+&emsp;(I) The Secretary of Defense may—
 
 &emsp;&emsp;(i) negotiate and enter into a contract with a contractor or subcontractor for the acquisition of rights in technical data not otherwise provided under subparagraph (C) or (D), if necessary to develop alternative sources of supply and manufacture;
 
@@ -86,7 +104,7 @@
 
 &emsp;(8) authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data;
 
-&emsp;(9) providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require at any time the delivery of technical data that has been generated or utilized in the performance of a contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—
+&emsp;(9) providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require, until the date occurring six years after acceptance of the last item (other than technical data) under a contract or the date of contract termination, whichever is later, the delivery of technical data that has been generated in the performance of the contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—
 
 &emsp;&emsp;(A) the technical data is needed for the purpose of reprocurement, sustainment, modification, or upgrade (including through competitive means) of a major system or subsystem thereof, a weapon system or subsystem thereof, or any noncommercial item or process; and
 
@@ -94,7 +112,7 @@
 
 &emsp;&emsp;&emsp;(i) pertains to an item or process developed in whole or in part with Federal funds; or
 
-&emsp;&emsp;&emsp;(ii) is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; and
+&emsp;&emsp;&emsp;(ii) is described in subparagraphs (D)(i)(II), (F), and (G) of subsection (a)(2); and
 
 &emsp;(10) providing that the United States is not foreclosed from requiring the delivery of the technical data by a failure to challenge, in accordance with the requirements of section 2321(d) of this title, the contractor's assertion of a use or release restriction on the technical data.
 
@@ -118,7 +136,9 @@
 
 &emsp;(4) apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapons systems and subsystems that are to be supported by other sustainment approaches.
 
-(f) In this section, the term "covered Government support contractor" means a contractor under a contract the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
+(f)
+
+Covered Government Support Contractor Defined.—In this section, the term "covered Government support contractor" means a contractor under a contract the primary purposeof which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
 
 &emsp;(1) is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
 
@@ -138,13 +158,41 @@
 
 &emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491.)
+(g)
+
+Additional Definitions.—In this section, the terms "major system component", "major system interface", and "modular open system approach" have the meanings provided in section 2446a of this title.
+
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491; Pub. L. 114–328, div. A, title VIII, §809(a)–(e), Dec. 23, 2016, 130 Stat. 2266, 2267.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–328, §809(e)(1), inserted heading.
+
+Subsec. (a)(2)(B). Pub. L. 114–328, §809(b)(2), (e)(2), inserted heading and substituted "Except as provided in subparagraphs (C), (D), and (G)," for "Except as provided in subparagraphs (C) and (D)," in text.
+
+Subsec. (a)(2)(C). Pub. L. 114–328, §809(e)(3), inserted heading.
+
+Subsec. (a)(2)(C)(iii). Pub. L. 114–328, §809(a), inserted ", including such data pertaining to a major system component" after "or process data".
+
+Subsec. (a)(2)(D). Pub. L. 114–328, §809(e)(4), inserted heading.
+
+Subsec. (a)(2)(D)(i)(II). Pub. L. 114–328, §809(b)(3), substituted "is a release, disclosure, or use of technical data pertaining to an interface between an item or process and other items or processes necessary" for "is necessary".
+
+Subsec. (a)(2)(E). Pub. L. 114–328, §809(b)(4), (e)(5), inserted heading and, in introductory provisions, substituted "Except as provided in subparagraphs (F) and (G), in the case" for "In the case" and "negotiations) and shall be based on negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall" for "negotiations). The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shall".
+
+Subsec. (a)(2)(F) to (I). Pub. L. 114–328, §809(b)(1), (5), added subpars. (F) and (G) and redesignated former subpars. (F) and (G) as (H) and (I), respectively.
+
+Subsec. (b)(9). Pub. L. 114–328, §809(c)(1), (2), in introductory provisions, substituted ", until the date occurring six years after acceptance of the last item (other than technical data) under a contract or the date of contract termination, whichever is later," for "at any time" and "in the performance of the contract" for "or utilized in the performance of a contract".
+
+Subsec. (b)(9)(B)(ii). Pub. L. 114–328, §809(c)(3), added cl. (ii) and struck out former cl. (ii) which read as follows: "is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; and".
+
+Subsec. (f). Pub. L. 114–328, §809(d)(1), inserted heading.
+
+Subsec. (g). Pub. L. 114–328, §809(d)(2), added subsec. (g).
 
 <b>2011</b>—Subsec. (a)(2)(D)(i)(II), (III). Pub. L. 112–81, §815(a)(1)(A), added subcl. (II) and redesignated former subcl. (II) as (III).
 
@@ -206,7 +254,7 @@ Subsec. (c). Pub. L. 100–180, §808(b), substituted "from—" for "from", desi
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 substituted "the item or process to which the technical data pertains" for "the technical data".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–577 substituted "in regulations of the Department of Defense prescribed aspart" for "in regulations prescribed as part" in text preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–577 substituted "in regulations of the Department of Defense prescribed as part" for "in regulations prescribed as part" in text preceding par. (1).
 
 #### Effective Date of 2011 Amendment
 
@@ -294,11 +342,11 @@ Definitions.—In this section:
 
 "(d)
 
-Report on Life Cycle Planning for Technical Data Needs.—Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the requirements in section 2320(e) of title 10, United States Code, for the assessment of long-term technical data needs tosustain major weapon systems. Such report shall include—
+Report on Life Cycle Planning for Technical Data Needs.—Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the requirements in section 2320(e) of title 10, United States Code, for the assessment of long-term technical data needs to sustain major weapon systems. Such report shall include—
 
 &emsp;"(1) a description of all relevant guidance or policies issued;
 
-&emsp;"(2) a description of the extent to which program managers have received training to better assess the long-term technical data needs of major weapon systems and subsystems; and
+&emsp;"(2) a description of the extent to which program managers have received training to better assess thelong-term technical data needs of major weapon systems and subsystems; and
 
 &emsp;"(3) a description of one or more examples, if any, where a priced contract option has been used on major weapon systems for the future delivery of technical data and one or more examples, if any, where all relevant technical data were acquired upon contract award."
 

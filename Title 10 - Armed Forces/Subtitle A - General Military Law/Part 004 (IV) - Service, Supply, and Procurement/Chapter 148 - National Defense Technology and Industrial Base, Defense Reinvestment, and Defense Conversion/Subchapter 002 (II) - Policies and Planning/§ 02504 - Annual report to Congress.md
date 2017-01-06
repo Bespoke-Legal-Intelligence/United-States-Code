@@ -24,9 +24,13 @@ Another prior section 2504 was renumbered section 2531 of this title.
 
 #### Amendments
 
-<b>2013</b>—Pars. (2), (3). Pub. L. 112–239 added par. (3), redesignated former par. (3) as (2) and struck out former par. (2) which read as follows: "A description of the methods and analyses being undertaken by the Department of Defense alone or in cooperation with other Federal agencies, to identify and address concerns regarding technological and industrial capabilities of the national technology and industrial base."
+<b>2013</b>—Pars. (2), (3). Pub. L. 112–239 added par. (3), redesignated former par. (3) as (2) and struck out former par. (2) which read as follows: "A description of themethods and analyses being undertaken by the Department of Defense alone or in cooperation with other Federal agencies, to identify and address concerns regarding technological and industrial capabilities of the national technology and industrial base."
 
 <b>1999</b>—Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security" in introductory provisions.
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Strategy For Securing the Defense Supply Chain and Industrial Base
 

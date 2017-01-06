@@ -28,7 +28,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) who is less than 13 years of age;
 
-&emsp;&emsp;(B) whose family income does not exceed 85 percent of the State median income for afamily of the same size, and whose family assets do not exceed $1,000,000 (as certified by a member of such family); and
+&emsp;&emsp;(B) whose family income does not exceed 85 percent of the State median income for a family of the same size, and whose family assets do not exceed $1,000,000 (as certified by a member of such family); and
 
 &emsp;&emsp;(C) who—
 
@@ -60,7 +60,7 @@ As used in this subchapter:
 
 #### (8) Indian tribe
 
-&emsp;The term "Indian tribe" has the meaning given it in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the meaning given it in section 5304(e) of title 25.
 
 #### (9) Lead agency
 
@@ -90,7 +90,7 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "tribal organization" has the meaning given it in section 450b(l) of title 25.
+&emsp;&emsp;The term "tribal organization" has the meaning given it in section 5304(l) of title 25.
 
 #### (B) Other organizations
 
@@ -112,7 +112,7 @@ Section 4909 of title 20, referred to in par. (15)(B), was repealed by Pub. L. 1
 
 Par. (5). Pub. L. 113–186, §10(3), added par. (5). Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 113–186, §10(2), (4), redesignated par. (5) as (6) and substituted "9858c(c)(2)(F)" for "9858c(c)(2)(E)" in subpar. (A)(i) and "9858c(c)(2)(I)" for "9858c(c)(2)(F)" in subpar. (A)(ii). Former par. (6) redesignated (7).
+Par. (6). Pub. L. 113–186, §10(2), (4), redesignated par. (5) as (6) and substituted "9858c(c)(2)(F)" for "9858c(c)(2)(E)" in subpar. (A)(i) and "9858c(c)(2)(I)" for"9858c(c)(2)(F)" in subpar. (A)(ii). Former par. (6) redesignated (7).
 
 Pars. (7), (8). Pub. L. 113–186, §10(2), redesignated pars. (6) and (7) as (7) and (8), respectively. Former pars. (7) and (8) redesignated (8) and (9), respectively.
 
@@ -142,13 +142,13 @@ Par. (14). Pub. L. 104–193, §614(7), designated existing text as subpar. (A),
 
 <b>1992</b>—Pub. L. 102–401, §3(a), and Pub. L. 102–586, §8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
-Par. (7). Pub. L. 102–586, §8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting "section 450b(e) of title 25" for "section 450b(b) of title 25", could not be executed because the words "section 450b(b) of title 25" did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(1). See below.
+Par. (7). Pub. L. 102–586, §8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting "section 5304(e) of title 25" for "section 5304(b) of title 25", could not be executed because the words "section 5304(b) of title 25" did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(1). See below.
 
-Pub. L. 102–401, §3(b)(1), substituted "section 450b(e) of title 25" for "section 450b(b) of title 25".
+Pub. L. 102–401, §3(b)(1), substituted "section 5304(e) of title 25" for "section 5304(b) of title 25".
 
-Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting "section 450b(l) of title 25" for "section 450b(c) of title 25", could not be executed because the words "section 450b(c) of title 25" did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
+Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting "section 5304(l) of title 25" for "section 5304(c) of title 25", could not be executed because the words "section 5304(c) of title 25" did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
 
-Pub. L. 102–401, §3(b)(2), substituted "section 450b(l) of title 25" for "section 450b(c) of title 25".
+Pub. L. 102–401, §3(b)(2), substituted "section 5304(l) of title 25" for "section 5304(c) of title 25".
 
 #### Effective Date of 2015 Amendment
 

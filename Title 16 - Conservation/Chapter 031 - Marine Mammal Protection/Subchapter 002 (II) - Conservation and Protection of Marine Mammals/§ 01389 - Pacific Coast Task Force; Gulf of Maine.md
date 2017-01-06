@@ -90,7 +90,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (h) Gulf of Maine Task Force
 
-The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advise the Secretary on issues or problems regarding pinnipeds interacting in a dangerous or damaging manner with aquaculture resources in the Gulf of Maine.No later than 2 years from April 30, 1994, the Secretary shall after notice and opportunity for public comment submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing recommended available alternatives to mitigate such interactions.
+The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advise the Secretary on issues or problems regarding pinnipeds interacting in a dangerous or damaging manner with aquaculture resources in the Gulf of Maine. No later than 2 years from April 30, 1994, the Secretary shall after notice and opportunity for public comment submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing recommended available alternatives to mitigate such interactions.
 
 #### (i) Requirements applicable to task forces
 
@@ -114,7 +114,7 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

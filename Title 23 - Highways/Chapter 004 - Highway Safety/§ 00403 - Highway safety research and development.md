@@ -132,7 +132,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Alcohol-impaired driving.—The term "alcohol-impaired driving" means the operation of a motor vehicle (as defined in section 30102(a)(6) of title 49) by an individual whose blood alcohol content is at or above the legal limit.
+Alcohol-impaired driving.—The term "alcohol-impaired driving" means the operation of a motor vehicle (as defined in section 30102(a)(6) of title 49 <sup>2</sup>) by an individual whose blood alcohol content is at or above the legal limit.
 
 &emsp;&emsp;(B)
 
@@ -151,6 +151,8 @@ Federal Share.—The Federal share of the cost of any project or activity carrie
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+
+Section 30102(a)(6) of title 49, referred to in subsec. (h)(5)(A), was redesignated section 30102(a)(7) of title 49 by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
 
 #### Amendments
 
@@ -442,7 +444,7 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: "All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals."
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: "All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals."
 
 #### Appropriations Authorizations
 
@@ -455,4 +457,6 @@ Pub. L. 93–87, title II, §226(b), Aug. 13, 1973, 87 Stat. 292, provided that:
 Authorization of appropriation of additional sum of $10,000,000 for the fiscal year ending June 30, 1967, $20,000,000 for the fiscal year ending June 30, 1968, and $25,000,000 for the fiscal year ending June 30, 1969, for the purpose of carrying out this section and section 307(a) of this title, see section 105 of Pub. L. 89–564, set out as a note under section 307 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

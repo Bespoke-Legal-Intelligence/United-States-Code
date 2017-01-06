@@ -1,0 +1,6 @@
+### §634. Omitted
+
+#### Codification
+
+Section, act Apr. 19, 1950, ch. 92, §4, 64 Stat. 45, which related to loans to Tribes or individual members, was omitted from the Code as being of special and not general application.
+

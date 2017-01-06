@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) local interest in aviation noise management shall be considered in determining the national interest;
 
-&emsp;(5) community concerns can be alleviated through the use of new technology aircraft and the use of revenues, including those available from passenger facility charges, for noise management;
+&emsp;(5) community concerns can be alleviated through the use of new technology aircraftand the use of revenues, including those available from passenger facility charges, for noise management;
 
 &emsp;(6) revenues controlled by the United States Government can help resolve noise problems and carry with them a responsibility to the national airport system;
 

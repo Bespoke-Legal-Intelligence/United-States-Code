@@ -6,7 +6,7 @@ Each of the enterprises shall conduct a study to review the underwriting guideli
 
 &emsp;(1) the extent to which the underwriting guidelines prevent or inhibit the purchase or securitization of mortgages for housing located in mixed-use, urban center, and predominantly minority neighborhoods and for housing for low- and moderate-income families;
 
-&emsp;(2) the standards employed by private mortgage insurers and the extent to which suchstandards inhibit the purchase and securitization by the enterprises of mortgages described in paragraph (1); and
+&emsp;(2) the standards employed by private mortgage insurers and the extent to which such standards inhibit the purchase and securitization by the enterprises of mortgages described in paragraph (1); and
 
 &emsp;(3) the implications of implementing underwriting standards that—
 

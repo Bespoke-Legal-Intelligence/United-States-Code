@@ -28,7 +28,7 @@ Motor carrier requesting.—Subsection (a) does not apply to a motor carrier req
 
 Person complying with requests.—Subsection (a) does not apply to a person complying with a request for safety performance records unless—
 
-&emsp;&emsp;(A) the complying person and any agents of the complying person have taken all precautions reasonably necessary to ensure the accuracy of the records and have complied with the regulations issued by the Secretaryin furnishing the records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records; and
+&emsp;&emsp;(A) the complying person and any agents of the complying person have taken all precautions reasonably necessary to ensure theaccuracy of the records and have complied with the regulations issued by the Secretary in furnishing the records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records; and
 
 &emsp;&emsp;(B) the complying person and any agents and insurers of the complying person have taken all precautions reasonably necessary to protect the records from disclosure to any person, except for such an insurer, not directly involved in forwarding the records.
 

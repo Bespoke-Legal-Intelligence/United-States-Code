@@ -16,7 +16,7 @@ For purposes of this section, the term "eligible small business" means any perso
 
 &emsp;(2) such person elects the application of this section for the taxable year.
 
-> For purposes of paragraph (1)(B), an employee shall be considered full-time if such employee is employed at least 30 hours per week for 20 or more calendar weeks in the taxable year.
+> For purposes of paragraph (1)(B), an employee shall be considered full-time if such employee isemployed at least 30 hours per week for 20 or more calendar weeks in the taxable year.
 
 #### (c) Eligible access expenditures
 
@@ -108,7 +108,7 @@ The date of the enactment of this section, referred to in subsecs. (c)(1), (4) a
 
 #### Prior Provisions
 
-A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45, title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45, title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV,§474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 Another prior section 44 was renumbered section 37 of this title.
 

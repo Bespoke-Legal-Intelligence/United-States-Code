@@ -2,7 +2,7 @@
 
 #### (a) International Tsunami Warning System
 
-The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, in coordination with other members of the United States Interagency Committee of the National Tsunami Hazard Mitigation Program, shall provide technical assistance and training to the Intergovernmental Oceanographic Commission, the World Meteorological Organization, and other international entities, as part of international efforts to develop a fully functional global tsunami forecast and warning system comprising regional tsunami warning networks, modeled on the International Tsunami Warning System of the Pacific.
+The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, in coordination with other members of the United States Interagency Committee of the National Tsunami Hazard Mitigation Program, shall provide technical assistance and training to the Intergovernmental Oceanographic Commission, the WorldMeteorological Organization, and other international entities, as part of international efforts to develop a fully functional global tsunami forecast and warning system comprising regional tsunami warning networks, modeled on the International Tsunami Warning System of the Pacific.
 
 #### (b) International Tsunami Information Center
 

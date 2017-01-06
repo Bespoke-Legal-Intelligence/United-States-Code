@@ -74,7 +74,7 @@ Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad t
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
-Pub. L. 96–54, §2(b), Aug. 14, 1979, 93 Stat. 385, provided that: "Except as otherwise expressly provided in subsection (a), the amendments made by subsection (a) \[amending sections 305, 1308, 2101, 2105, 2106, 2108, 3102, 3132, 3302, 3305, 3315, 3317, 3324, 3326, 3503, 4102, 4109, 4111, 4112, 4701, 5102, 5108, 5311 to 5316, 5333 to 5335, 5347, 5504, 5514, 5516, 5521, 5545, 5550a, 5562, 5581, 5584, 5596, 5702, 5903, 5943, 6104, 6304, 6305, 6323, 6325, 7325, 7327, 7701, 7702, 8331, 8332, 8339, 8347, 8701, 8901, and 8906 of this title\], shall take effect July 12, 1979, or the date of the enactment of this Act \[Aug. 14, 1979\], whichever is earlier."
+Pub. L. 96–54, §2(b), Aug. 14, 1979, 93 Stat. 385, provided that: "Except as otherwise expressly provided in subsection (a), the amendments made by subsection (a) \[amending sections 305, 1308, 2101, 2105, 2106, 2108, 3102, 3132, 3302, 3305, 3315, 3317, 3324, 3326, 3503, 4102, 4109, 4111, 4112, 4701, 5102, 5108, 5311 to 5316, 5333 to 5335, 5347, 5504, 5514, 5516, 5521, 5545, 5550a, 5562, 5581, 5584, 5596, 5702, 5903,5943, 6104, 6304, 6305, 6323, 6325, 7325, 7327, 7701, 7702, 8331, 8332, 8339, 8347, 8701, 8901, and 8906 of this title\], shall take effect July 12, 1979, or the date of the enactment of this Act \[Aug. 14, 1979\], whichever is earlier."
 
 #### Transfer of Functions
 

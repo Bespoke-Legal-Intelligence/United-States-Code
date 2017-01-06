@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation: <i>Provided</i>, That notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it (including its affiliates) has annual receipts not in excess of $750,000.
+&emsp;For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
 
 #### (2) Establishment of size standards
 
@@ -90,7 +90,7 @@
 
 #### (7) Common size standards
 
-&emsp;In carrying out this subsection, the Administrator may establish or approve a single size standard for a grouping of 4-digit North American Industry Classification System codes only if the Administrator makes publicly available, not later than the date on whichsuch size standard is established or approved, a justification demonstrating that such size standard is appropriate for each individual industry classification included in the grouping.
+&emsp;In carrying out this subsection, the Administrator may establish or approve a single size standard for a grouping of 4-digit North American Industry Classification System codes only if the Administrator makes publicly available, not later than the date on which such size standard is established or approved, a justification demonstrating that such size standard is appropriate for each individual industry classification included in the grouping.
 
 #### (8) Number of size standards
 
@@ -113,6 +113,10 @@
 #### (D) Judicial review
 
 &emsp;&emsp;The publication of a final rule in the Federal Register described in subparagraph (B) shall be considered final agency action for purposes of seeking judicial review. Filing a petition for reconsideration under subparagraph (A) shall not be a condition precedent to judicial review of any such size standard.
+
+#### (E) Rules or guidance
+
+&emsp;&emsp;The Office of Hearings and Appeals shall begin accepting petitions for reconsideration described in subparagraph (A) after the date on which the Administration issues a rule or other guidance implementing this paragraph. Notwithstanding the provisions of subparagraph (B), petitions for reconsideration of size standards revised, modified, or established in a Federal Register final rule published between November 25, 2015, and the effective date of such rule or other guidance shall be considered timely if filed within 30 days of such effective date.
 
 #### (b) "Agency" defined
 
@@ -158,7 +162,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 #### (d) "Qualified Indian tribe" defined
 
-For purposes of section 636 of this title, the term "qualified Indian tribe" means an Indian tribe as defined in section 450b(e) of title 25, which owns and controls 100 per centum of a small business concern.
+For purposes of section 636 of this title, the term "qualified Indian tribe" means an Indian tribe as defined in section 5304(a) <sup>1</sup> of title 25, which owns and controls 100 per centum of a small business concern.
 
 #### (e) "Public or private organization for the handicapped" defined
 
@@ -218,7 +222,7 @@ For the purposes of this chapter, the term "small agricultural cooperative" mean
 
 &emsp;(A) drought;
 
-&emsp;(B) below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns; and
+&emsp;(B) below average water levels in the Great Lakes, or on any body of water in the UnitedStates that supports commerce by small business concerns; and
 
 &emsp;(C) ice storms and blizzards.
 
@@ -226,7 +230,7 @@ For the purposes of this chapter, the term "small agricultural cooperative" mean
 
 For purposes of this chapter—
 
-&emsp;(1) <sup>1</sup> the term "computer crime" means—
+&emsp;(1) <sup>2</sup> the term "computer crime" means—
 
 &emsp;&emsp;(A) any crime committed against a small business concern by means of the use of a computer; and
 
@@ -334,13 +338,25 @@ In this chapter:
 
 #### (A) Qualified census tract
 
-&emsp;&emsp;The term "qualified census tract" has the meaning given that term in section 42(d)(5)(C)(ii) <sup>2</sup> of title 26.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term "qualified census tract" has the meaning given that term in section 42(d)(5)(B)(ii) of title 26.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term "qualified census tract" has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section, except that this clause shall only apply—
+
+&emsp;&emsp;&emsp;&emsp;(I) 10 years after the date that the Administrator implements this clause, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
+
+&emsp;&emsp;&nbsp;whichever event occurs first.
 
 #### (B) Qualified nonmetropolitan county
 
 &emsp;&emsp;The term "qualified nonmetropolitan county" means any county—
 
-&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) <sup>2</sup> of title 26; and
+&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) <sup>3</sup> of title 26; and
 
 &emsp;&emsp;&emsp;(ii) in which—
 
@@ -348,7 +364,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
 
-&emsp;&emsp;&emsp;&emsp;(III) there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) <sup>2</sup> of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
+&emsp;&emsp;&emsp;&emsp;(III) there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) <sup>3</sup> of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
 
 #### (C) Redesignated area
 
@@ -386,7 +402,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to a census tract or nonmetropolitan county described in clause (i), for a period of not less than 8 years, beginning on the date the military installation undergoes final closure and ending on the date the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B) in accordance with the results of the decennial census conducted after the area was initially designated as a base closure area; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B), after the 2020 decennial census.
+&emsp;&emsp;&emsp;&emsp;(II) if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designationdescribed in subparagraph (A) or (B), after the 2020 decennial census.
 
 #### (iii) Definitions
 
@@ -404,7 +420,7 @@ In this chapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the term "qualified disaster area" means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under section 5170 of title 42 or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the periodbeginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date, except that such census tract or nonmetropolitan county may be a "qualified disaster area" only—
+&emsp;&emsp;&emsp;Subject to clause (ii), the term "qualified disaster area" means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under section 5170 of title 42 or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date, except that such census tract or nonmetropolitan county may be a "qualified disaster area" only—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a major disaster declared by the President, during the 5-year period beginning on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; and
 
@@ -444,7 +460,7 @@ In this chapter:
 
 &emsp;&emsp;The Administrator shall establish and maintain a list of qualified HUBZone small business concerns, which list shall, to the extent practicable—
 
-&emsp;&emsp;&emsp;(i) once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern, include the name, address, and type of business with respect to each such small business concern;
+&emsp;&emsp;&emsp;(i) once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern, include the name, address, andtype of business with respect to each such small business concern;
 
 &emsp;&emsp;&emsp;(ii) be updated by the Administrator not less than annually; and
 
@@ -468,7 +484,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
 
-&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21,2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
+&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
 
 &emsp;&emsp;&emsp;(ii) in the State of Oklahoma, means lands that—
 
@@ -638,7 +654,7 @@ In this chapter:
 
 #### (1) Subcontract
 
-&emsp;The term "subcontract" means a legally binding agreement between a contractor thatis already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
+&emsp;The term "subcontract" means a legally binding agreement between a contractor that is already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
 
 #### (2) First tier subcontractor
 
@@ -648,7 +664,57 @@ In this chapter:
 
 &emsp;The term "at any tier" means any subcontractor other than a subcontractor who is a first tier subcontractor.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938.)
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661.)
+
+#### Amendment of Subsection (q)
+
+<i>Pub. L. 114–328, div. A, title XVIII, §1832(a), (e), Dec. 23, 2016, 130 Stat. 2658, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, subsection (q) of this section is amended—</i>
+
+<i>(1) by amending paragraph (2) to read as follows:</i>
+
+#### <i>"(2) Small business concern owned and controlled by service-disabled veterans</i>
+
+&emsp;<i>"The term 'small business concern owned and controlled by service-disabled veterans' means any of the following:</i>
+
+&emsp;&emsp;<i>"(A) A small business concern—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more service-disabled veterans; and</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe dis</i><i>ability, the spouse or permanent caregiver of such veteran.</i>
+
+&emsp;&emsp;<i>"(B) A small business concern—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable to manage the daily business operations of such concern; or</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) in the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more such veterans.</i>
+
+&emsp;&emsp;<i>"(C)(i) During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—</i>
+
+&emsp;&emsp;&emsp;<i>"(I) the surviving spouse of the deceased veteran acquires such veteran's ownership interest in such concern;</i>
+
+&emsp;&emsp;&emsp;<i>"(II) such veteran had a service-connected disability (as defined in section 101(16) of title 38) rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability; and</i>
+
+&emsp;&emsp;&emsp;<i>"(III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38.</i>
+
+&emsp;&emsp;<i>"(ii) The time period described in this clause is the time period beginning on the date of the veteran's death and ending on the earlier of—</i>
+
+&emsp;&emsp;&emsp;<i>"(I) the date on which the surviving spouse remarries;</i>
+
+&emsp;&emsp;&emsp;<i>"(II) the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or</i>
+
+&emsp;&emsp;&emsp;<i>"(III) the date that is 10 years after the date of the death of the veteran."; and</i>
+
+<i>(2) by adding at the end the following new paragraphs:</i>
+
+#### <i>"(6) ESOP</i>
+
+&emsp;<i>"The term 'ESOP' has the meaning given the term 'employee stock ownership plan' in section 4975(e)(7) of title 26.</i>
+
+#### <i>"(7) Surviving spouse</i>
+
+&emsp;<i>"The term 'surviving spouse' has the meaning given such term in section 101(3) of title 38."</i>
+
+<i>See 2016 Amendment notes below.</i>
 
 #### References in Text
 
@@ -658,13 +724,13 @@ The Agricultural Marketing Act (12 U.S.C. 1141j), referred to in subsec. (j), is
 
 The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(E)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (p)(4)(A), (B)(i), (ii)(III), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
+The Puerto Rico Oversight, Management, and Economic Stability Act, referred to in subsec. (p)(4)(A)(ii)(II), is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to chapter 20 (§2101 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 48 and Tables.
+
+Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (p)(4)(B)(i), (ii)(III), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (q)(5)(C), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Codification
-
-"Section 450b(e) of title 25", referred to in subsec. (d), was in the original "section 4(a) of the Indian Self-Determination and Education Assistance Act" which is classified to section 450b(a) of Title 25, Indians, but has been editorially translated as section 450b(e) of Title 25 as the probable intent of Congress, in that the definition of "Indian Tribes" is set out in subsec. (e) of section 450b of Title 25.
 
 In subsec. (m), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -679,6 +745,20 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §1831(b), substituted "operation" for "operation: <i>Provided</i>, That notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it (including its affiliates) has annual receipts not in excess of $750,000".
+
+Subsec. (a)(9)(E). Pub. L. 114–328, §1833(b), added subpar. (E).
+
+Subsec. (p)(4)(A). Pub. L. 114–187 amended subpar. (A) generally. Prior to amendment, text read as follows: "The term 'qualified census tract' has the meaning given that term in section 42(d)(5)(C)(ii) of title 26."
+
+Subsec. (q)(2). Pub. L. 114–328, §1832(a)(1), amended par. (2) generally. Text read as follows: "The term 'small business concern owned and controlled by service-disabled veterans' means a small business concern—
+
+&emsp;"(A) not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+
+&emsp;"(B) the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran."
+
+Subsec. (q)(6), (7). Pub. L. 114–328, §1832(a)(2), added pars. (6) and (7).
 
 <b>2015</b>—Subsec. (a)(9). Pub. L. 114–92, §869(b), added par. (9).
 
@@ -796,7 +876,7 @@ Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added su
 
 &emsp;&emsp;"(II) in which the median household income is less than 80 percent of the nonmetropolitan State median household income; or
 
-&emsp;"(ii) that, based on the most recent data available from the Secretary of Labor, has an unemploymentrate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located."
+&emsp;"(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located."
 
 Subsec. (p)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VI, §613(2)\], added subpar. (C).
 
@@ -872,13 +952,17 @@ Pub. L. 98–270 added subsec. (j) defining "small agricultural cooperative".
 
 <b>1981</b>—Subsecs. (d) to (i). Pub. L. 97–35 added subsecs. (d) to (i).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–481, in the additional criteria inserted proviso that the Administration shallnot promulgate, amend, or rescind any rule or regulation with respect to size standards prior to March 31, 1981.
+<b>1980</b>—Subsec. (a). Pub. L. 96–481, in the additional criteria inserted proviso that the Administration shall not promulgate, amend, or rescind any rule or regulation with respect to size standards prior to March 31, 1981.
 
 Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
 <b>1978</b>—Pub. L. 95–507 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
+
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title XVIII, §1832(e), Dec. 23, 2016, 130 Stat. 2660, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section, section 637 of this title, and section 8127 of Title 38, Veterans' Benefits\] shall take effect on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue regulations implementing such sections \[probably should be "subsections"\]."
 
 #### Effective Date of 2015 Amendment
 
@@ -938,9 +1022,13 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 #### Regulations
 
+Pub. L. 114–328, div. A, title XVIII, §1835, Dec. 23, 2016, 130 Stat. 2662, provided that: "Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2016\], the Administrator of the Small Business Administration and the Secretary of Veterans Affairs shall issue guidance pertaining to the amendments made by this title \[see Tables for classification\] to the Small Business Act \[15 U.S.C. 631 et seq.\] and section 8127 of title 38, United States Code. The Administrator and the Secretary shall provide notice and opportunity for comment on such guidance for a period of not less than 60 days."
+
+Pub. L. 114–187, title IV, §412(a)(2), June 30, 2016, 130 Stat. 595, provided that: "The Administrator of the Small Business Administration shall issue regulations to implement the amendment made by paragraph (1) \[amending this section\] not later than 90 days after the date of the enactment of this Act \[June 30, 2016\]."
+
 Pub. L. 112–239, div. A, title XVI, §1696(c), Jan. 2, 2013, 126 Stat. 2091, provided that: "Not later than 180 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue guidance with respect to the changes made to the Small Business Act \[15 U.S.C. 631 et seq.\] by the amendments in this subtitle \[subtitle C (§§1621–1699a) of title XVI of div. A of Pub. L. 112–239, see Tables for classification\], with opportunities for notice and comment."
 
-Pub. L. 109–163, div. A, title VIII, §845(d), Jan. 6, 2006, 119 Stat. 3391, provided that: "Not later than 45 daysafter the date of enactment of this Act \[Jan. 6, 2006\], the Administrator of the Small Business Administration shall promulgate final rules to carry out this section \[amending this section and section 636 of this title\] and the amendments made by this section."
+Pub. L. 109–163, div. A, title VIII, §845(d), Jan. 6, 2006, 119 Stat. 3391, provided that: "Not later than 45 days after the date of enactment of this Act \[Jan. 6, 2006\], the Administrator of the Small Business Administration shall promulgate final rules to carry out this section \[amending this section and section 636 of this title\] and the amendments made by this section."
 
 Pub. L. 105–135, title VI, §605, Dec. 2, 1997, 111 Stat. 2635, provided that:
 
@@ -1011,6 +1099,8 @@ Definition.—In this subsection, the term 'covered amounts' means—
 &emsp;&emsp;"(B) any revenue increase attributable to any amendment to the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] made during the period beginning on the date of enactment of this Act \[Sept. 27, 2010\] and ending on December 31, 2010."
 
 #### Updated Size Standards
+
+Pub. L. 114–328, div. A, title XVIII, §1831(c), Dec. 23, 2016, 130 Stat. 2658, provided that: "Size standards established for agricultural enterprises under section 3(a) of the Small Business Act (15 U.S.C. 632(a)) shall be subject to the rolling review procedures established under section 1344(a) of the Small Business Jobs Act of 2010 \[Pub. L. 111–240\] (15 U.S.C. 632 note) \[set out below\]."
 
 Pub. L. 111–240, title I, §1344, Sept. 27, 2010, 124 Stat. 2545, provided that:
 
@@ -1086,7 +1176,9 @@ Pub. L. 111–240, title I, §1001, Sept. 27, 2010, 124 Stat. 2507, provided tha
 
 &emsp;"(2) the term 'small business concern' has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632)."
 
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be a reference to subsec. "(e)" of section 5304, which defines Indian tribe.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

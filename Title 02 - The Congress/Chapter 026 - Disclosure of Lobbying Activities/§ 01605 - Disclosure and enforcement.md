@@ -32,7 +32,7 @@ The Secretary of the Senate and the Clerk of the House of Representatives shall�
 
 &emsp;&emsp;(C) provides electronic links or other appropriate mechanisms to allow users to obtain relevant information in the database of the Federal Election Commission;
 
-&emsp;(10) retain the information contained in a registration or report filed under this chapterfor a period of 6 years after the registration or report (as the case may be) is filed; and
+&emsp;(10) retain the information contained in a registration or report filed under this chapter for a period of 6 years after the registration or report (as the case may be) is filed; and
 
 &emsp;(11) make publicly available, on a semiannual basis, the aggregate number of registrants referred to the United States Attorney for the District of Columbia for noncompliance as required by paragraph (8).
 
@@ -65,4 +65,8 @@ Pars. (9), (10). Pub. L. 110–81, §209(a), added pars. (9) and (10).
 #### Effective Date of 2007 Amendment
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 

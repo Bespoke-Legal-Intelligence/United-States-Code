@@ -16,7 +16,7 @@
 
 #### (b) Notice and comment
 
-Not later than 30 days prior to the issuance of a final guideline or annual policy guidance tocarry out this subchapter, the Administrator shall—
+Not later than 30 days prior to the issuance of a final guideline or annual policy guidance to carry out this subchapter, the Administrator shall—
 
 &emsp;(1) provide notice of the existence of a proposed guideline or annual policy guidance, and that such guideline or annual policy guidance is available for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
 
@@ -58,7 +58,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 &emsp;&emsp;(A) to determine the need for assistance provided under this subchapter; and
 
-&emsp;&emsp;(B) to improve, monitor, and evaluate the effectiveness and efficiency of the assistance provided under this subchapter to maximize the impact of the assistance.
+&emsp;&emsp;(B) to improve, monitor, and evaluate the effectiveness and efficiency of the assistanceprovided under this subchapter to maximize the impact of the assistance.
 
 #### (2) Requirements of systems and activities
 
@@ -104,7 +104,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (ii) Condition
 
-&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I ofthe Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
+&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
 
 #### (g) Project reporting
 

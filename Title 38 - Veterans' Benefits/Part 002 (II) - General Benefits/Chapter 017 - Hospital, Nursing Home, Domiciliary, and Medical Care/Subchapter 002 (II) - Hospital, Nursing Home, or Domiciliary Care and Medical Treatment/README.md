@@ -19,6 +19,7 @@
 - [&sect; 01712 - Dental care; drugs and medicines for certain disabled veterans; vaccines](%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md)
 - [&sect; 01712A - Eligibility for readjustment counseling and related mental health services](%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md)
 - [&sect; 01712B - Counseling for former prisoners of war](%C2%A7%2001712B%20-%20Counseling%20for%20former%20prisoners%20of%20war.md)
+- [&sect; 01712C - Dental insurance plan for veterans and survivors and dependents of veterans](%C2%A7%2001712C%20-%20Dental%20insurance%20plan%20for%20veterans%20and%20survivors%20and%20dependents%20of%20veterans.md)
 - [&sect; 01713 - Renumbered &sect;1781](%C2%A7%2001713%20-%20Renumbered%20%C2%A71781.md)
 - [&sect; 01714 - Fitting and training in use of prosthetic appliances; guide dogs; service dogs](%C2%A7%2001714%20-%20Fitting%20and%20training%20in%20use%20of%20prosthetic%20appliances%3B%20guide%20dogs%3B%20service%20dogs.md)
 - [&sect; 01715 - Tobacco for hospitalized veterans](%C2%A7%2001715%20-%20Tobacco%20for%20hospitalized%20veterans.md)
@@ -34,3 +35,4 @@
 - [&sect; 01720E - Nasopharyngeal radium irradiation](%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md)
 - [&sect; 01720F - Comprehensive program for suicide prevention among veterans](%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md)
 - [&sect; 01720G - Assistance and support services for caregivers](%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md)
+- [&sect; 01720H - Mental health treatment for veterans who served in classified missions](%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20who%20served%20in%20classified%20missions.md)

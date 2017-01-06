@@ -2,7 +2,7 @@
 
 #### (a) Heart, blood vessel, lung, blood diseases, and blood resources; utilization of centers for prevention programs
 
-(1) The Director of the Institute may provide, in accordance with subsection (c) of this section, for the development of—
+(1) The Director of the Institute may provide, in accordance with subsection (c), for the development of—
 
 &emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for heart and blood vessel diseases;
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment methods (including methods of providing emergency medical services) for blood diseases and research into blood, in the use of blood products and in the management of blood resources; and
 
-&emsp;(D) three centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment (including genetic studies, intrauterine environment studies, postnatal studies, heartarrhythmias, and acquired heart disease and preventive cardiology) for cardiovascular diseases in children.
+&emsp;(D) three centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment (including genetic studies, intrauterine environment studies, postnatal studies, heart arrhythmias, and acquired heart disease and preventive cardiology) for cardiovascular diseases in children.
 
 (2) The centers developed under paragraph (1) shall, in addition to being utilized for research, training, and demonstrations, be utilized for the following prevention programs for cardiovascular, pulmonary, and blood diseases:
 
@@ -28,7 +28,7 @@
 
 #### (b) Sickle cell anemia
 
-The Director of the Institute shall provide, in accordance with subsection (c) of this section, for the development of ten centers for basic and clinical research into the diagnosis, treatment, and control of sickle cell anemia.
+The Director of the Institute shall provide, in accordance with subsection (c), for the development of ten centers for basic and clinical research into the diagnosis, treatment, and control of sickle cell anemia.
 
 #### (c) Cooperative agreements and grants for establishing and supporting; uses for Federal payments; period of support, additional periods
 

@@ -48,7 +48,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 #### (1) Changes in agency regulations or practice
 
-&emsp;In any case in which a dispute settlement panel or the Appellate Body finds in its report that a regulation or practice of a department or agency of the United States is inconsistent with any of the Uruguay Round Agreements, that regulation or practice may not be amended, rescinded, or otherwise modified in the implementation of such report unless and until—
+&emsp;In any case in which a dispute settlement panel or the Appellate Body finds in its reportthat a regulation or practice of a department or agency of the United States is inconsistent with any of the Uruguay Round Agreements, that regulation or practice may not be amended, rescinded, or otherwise modified in the implementation of such report unless and until—
 
 &emsp;&emsp;(A) the appropriate congressional committees have been consulted under subsection (f);
 
@@ -64,7 +64,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 #### (2) Effective date of modification
 
-&emsp;A final rule or other modification to which paragraph (1) applies may not go into effect before the end of the 60-day period beginningon the date on which consultations under paragraph (1)(E) begin, unless the President determines that an earlier effective date is in the national interest.
+&emsp;A final rule or other modification to which paragraph (1) applies may not go into effect before the end of the 60-day period beginning on the date on which consultations under paragraph (1)(E) begin, unless the President determines that an earlier effective date is in the national interest.
 
 #### (3) Vote by congressional committees
 

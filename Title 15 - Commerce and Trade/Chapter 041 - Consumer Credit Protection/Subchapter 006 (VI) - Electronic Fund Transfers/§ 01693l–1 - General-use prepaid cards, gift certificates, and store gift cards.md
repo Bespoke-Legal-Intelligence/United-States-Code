@@ -16,7 +16,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) redeemable at multiple, unaffiliated merchants or service providers, or automated teller machines;
 
-&emsp;&emsp;&emsp;(ii) issued in a requested amount, whether or not that amount may, at the option of the issuer, be increased in value or reloaded if requested by the holder;
+&emsp;&emsp;&emsp;(ii) issued in a requested amount, whether or not that amount may, at the optionof the issuer, be increased in value or reloaded if requested by the holder;
 
 &emsp;&emsp;&emsp;(iii) purchased or loaded on a prepaid basis; and
 

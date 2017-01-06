@@ -38,7 +38,7 @@ Any finding under subsection (b) of this section shall be accompanied by such in
 
 (2) The Secretary may approve the measures under paragraph (1) if he finds—
 
-&emsp;(A) that such measures when in effect will conserve at least as much energy as would be conserved by such Federal measure which would have otherwise been in effect in such State or political subdivision;
+&emsp;(A) that such measures when in effect will conserve at least as much energy as would beconserved by such Federal measure which would have otherwise been in effect in such State or political subdivision;
 
 &emsp;(B) such measures otherwise meet the requirements of this paragraph; and
 

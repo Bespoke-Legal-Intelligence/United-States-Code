@@ -6,11 +6,13 @@
 
 (c) The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-(d) The program under this section shall terminate on September 30, 2016.
+(d) The program under this section shall terminate on September 30, 2017.
 
-(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(d), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, §204, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, §9(b), Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, §204(b), Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §307(b), Sept. 30, 2015, 129 Stat. 534.)
+(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(d), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, §204, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, §9(b), Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, §204(b), Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §307(b), Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §308(b), Sept. 29, 2016, 130 Stat. 939.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (d). Pub. L. 114–228 substituted "September 30, 2017" for "September 30, 2016".
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–58 substituted "September 30, 2016" for "September 30, 2015".
 
@@ -30,7 +32,7 @@ Pub. L. 109–444, which substituted "December 31, 2007" for "December 31, 2006"
 
 <b>2001</b>—Pub. L. 107–95, §5(b)(1), renumbered section 1773 of this title as this section.
 
-Subsec. (b). Pub. L. 107–95, §8(b), struck out "not fewer than eight programs (in addition to any existing programs providing similar services) at" after "establishment of" and inserted at end "The Secretary shallcarry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas."
+Subsec. (b). Pub. L. 107–95, §8(b), struck out "not fewer than eight programs (in addition to any existing programs providing similar services) at" after "establishment of" and inserted at end "The Secretary shall carry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas."
 
 Subsec. (d). Pub. L. 107–95, §5(f), substituted "December 31, 2006" for "December 31, 2001".
 

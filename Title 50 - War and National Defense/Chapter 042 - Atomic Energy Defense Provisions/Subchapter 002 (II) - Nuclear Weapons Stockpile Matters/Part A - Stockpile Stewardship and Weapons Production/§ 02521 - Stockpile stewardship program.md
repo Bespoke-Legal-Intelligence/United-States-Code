@@ -68,7 +68,7 @@ Subsec. (b)(4), (5). Pub. L. 111–84, §3111(b)(2), added pars. (4) and (5).
 
 Subsec. (c). Pub. L. 111–84, §3111(c), struck out subsec. (c). Text read as follows: "Of funds authorized to be appropriated to the Secretary of Energy for fiscal year 1994 for weapons activities, $157,400,000 shall be available for the stewardship program established under subsection (a)."
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–85, which directed amendment of this section by striking out subsecs. (d) and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out "and the 60-day period referred to in subsection (e)(2)(A)(ii)" in subsec. (e), as so redesignated, was executed by striking out subsec. (d) which directed President to report to Congress, because this section did not contain subsecs. (e) to (g).
+<b>1997</b>—Subsec. (d). Pub. L. 105–85, which directed amendment of this section by striking out subsecs. (d) and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out "and the 60-day period referred to in subsection (e)(2)(A)(ii)" in subsec. (e), as so redesignated, was executed by striking out subsec. (d)which directed President to report to Congress, because this section did not contain subsecs. (e) to (g).
 
 #### Plan for Developing Exascale Computing and Incorporating Such Computing Into the Stockpile Stewardship Program
 

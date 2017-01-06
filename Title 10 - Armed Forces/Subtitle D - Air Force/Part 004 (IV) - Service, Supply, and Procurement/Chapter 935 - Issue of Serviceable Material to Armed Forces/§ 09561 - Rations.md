@@ -42,7 +42,7 @@ R.S. 1175.
 
 In subsection (a), the words "the components, and the quantities thereof" are substituted for the words "the kinds and quantities of the component articles". The words "substitutive" and "a due regard" are omitted as surplusage.
 
-In subsection (b), the words "on active duty" are inserted for clarity. The words "under such regulations as may be prescribed by the Secretary of the Army", in 10:725, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words "or reserve", "prescribed for use on emergent occasions", and "furnished", in 10:725, are omitted as surplusage.
+In subsection (b), the words "on active duty" are inserted for clarity. The words "under such regulationsas may be prescribed by the Secretary of the Army", in 10:725, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words "or reserve", "prescribed for use on emergent occasions", and "furnished", in 10:725, are omitted as surplusage.
 
 In subsection (c), the words "as the Surgeon General" are omitted, since the Air Force does not have the statutory office of Surgeon General, and functions which, for the Army, are assigned by statute to subordinate officers of the Army are, for the Air Force, assigned to the Secretary of the Air Force. The words "Such quantities of" and "may be allowed" are omitted as surplusage.
 

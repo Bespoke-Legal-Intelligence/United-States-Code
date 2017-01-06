@@ -48,6 +48,48 @@ Pub. L. 114–92, div. A, title VIII, §883(e), Nov. 25, 2015, 129 Stat. 947, pr
 
 &emsp;"(8) policies to refine and improve developmental and operational testing of business processes that are supported by the major automated information systems."
 
+#### Designation of Military Department Entity Responsible for Acquisition of Critical Cyber Capabilities
+
+Pub. L. 114–92, div. A, title XVI, §1645, Nov. 25, 2015, 129 Stat. 1117, provided that:
+
+"(a)
+
+Designation.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall designate an entity within a military department to be responsible for the acquisition of each critical cyber capability described in paragraph (2).
+
+&emsp;"(2)
+
+Critical cyber capabilities described.—The critical cyber capabilities described in this paragraph are the cyber capabilities that the Secretary considers critical to the mission of the Department of Defense, including the following:
+
+&emsp;&emsp;"(A) The Unified Platform described in the Department of Defense document titled 'The Department of Defense Cyber Strategy' dated April 15, 2015.
+
+&emsp;&emsp;"(B) A persistent cyber training environment.
+
+&emsp;&emsp;"(C) A cyber situational awareness and battle management system.
+
+"(b)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing the information described in paragraph (2).
+
+&emsp;"(2)
+
+Contents.—The report under paragraph (1) shall include the following with respect to the critical cyber capabilities described in subsection (a)(2):
+
+&emsp;&emsp;"(A) Identification of each critical cyber capability and the entity of a military department responsible for the acquisition of the capability.
+
+&emsp;&emsp;"(B) Estimates of the funding requirements and acquisition timelines for each critical cyber capability.
+
+&emsp;&emsp;"(C) An explanation of whether critical cyber capabilities could be acquired more quickly with changes to acquisition authorities.
+
+&emsp;&emsp;"(D) Such recommendations as the Secretary may have for legislation or administrative action to improve the acquisition of, or to acquire more quickly, the critical cyber capabilities for which designations are made under subsection (a)."
+
 #### Modular Open Systems Approaches in Acquisition Programs
 
 Pub. L. 113–291, div. A, title VIII, §801, Dec. 19, 2014, 128 Stat. 3425, provided that:
@@ -124,7 +166,7 @@ Open systems approach.—The term 'open systems approach' means, with respect to
 
 &emsp;&emsp;"(A) employs a modular design and uses widely supported and consensus-based standards for key interfaces;
 
-&emsp;&emsp;"(B) is subjected to successful validation and verification tests to ensure key interfaces comply with widely supported and consensus-based standards; and
+&emsp;&emsp;"(B) is subjected to successful validation and verification tests to ensure key interfaces comply withwidely supported and consensus-based standards; and
 
 &emsp;&emsp;"(C) uses a system architecture that allows components to be added, modified, replaced, removed, or supported by different vendors throughout the lifecycle of the system to afford opportunities for enhanced competition and innovation while yielding—
 
@@ -184,6 +226,34 @@ Limitation.—The requirements of subparagraphs (B), (C), and (D) of subsection 
 
 Rule of Construction.—Nothing in this section shall be construed to alter or affect the authorities or responsibilities of the Director of National Intelligence under section 102A of the National Security Act of 1947 (50 U.S.C. 3024)."
 
+#### Competition in Connection With Department of Defense Tactical Data Link Systems
+
+Pub. L. 112–239, div. A, title IX, §934, Jan. 2, 2013, 126 Stat. 1885, as amended by Pub. L. 113–66, div. A, title IX, §931, Dec. 26, 2013, 127 Stat. 829, provided that:
+
+"(a)
+
+Competition in Connection With Tactical Data Link Systems.—Not later than December 1, 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+
+&emsp;"(1) develop an inventory of all tactical data link systems in use and in development in the Department of Defense, including interfaces and waveforms and an assessment of vulnerabilities to such systems in anti-access or area-denial environments;
+
+&emsp;"(2) conduct an analysis of each data link system contained in the inventory under paragraph (1) to determine whether—
+
+&emsp;&emsp;"(A) the upgrade, new deployment, or replacement of such system should be open to competition; or
+
+&emsp;&emsp;"(B) the data link should be converted to an open architecture, or a different data link standard should be adopted to enable such competition;
+
+&emsp;"(3) for each data link system for which competition is determined advisable under subparagraph (A) or (B) of paragraph (2), develop a plan to achieve such competition, including a plan to address any policy, legal, programmatic, or technical barriers to such competition; and
+
+&emsp;"(4) for each data link system for which competition is determined not advisable under paragraph (2), prepare an explanation for such determination.
+
+"(b)
+
+Earlier Actions.—If the Under Secretary completes any portion of the plan described in subsection (a)(3) before December 1, 2013, the Secretary may commence action on such portion of the plan upon completion of such portion, including publication of such portion of the plan.
+
+"(c)
+
+Report.—At the same time the budget of the President for fiscal year 2015 is submitted to Congress pursuant to section 1105(a) of title 31, United States Code, the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plans described in paragraph (3) of subsection (a), including any explanation prepared under paragraph (4) of such subsection."
+
 #### Data Servers and Centers
 
 Pub. L. 112–81, div. B, title XXVIII, §2867, Dec. 31, 2011, 125 Stat. 1704, as amended by Pub. L. 112–239, div. B, title XXVIII, §2853, Jan. 2, 2013, 126 Stat. 2161, provided that:
@@ -198,7 +268,7 @@ Limitations.—
 
 &emsp;&emsp;"(A)
 
-Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Department of Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
+Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Departmentof Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
 
 &emsp;&emsp;"(B)
 
@@ -311,4 +381,152 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives."
+
+#### Demonstration and Pilot Projects on Cybersecurity
+
+Pub. L. 111–383, div. A, title II, §215, Jan. 7, 2011, 124 Stat. 4165, provided that:
+
+"(a)
+
+Demonstration Projects on Processes for Application of Commercial Technologies to Cybersecurity Requirements.—
+
+&emsp;"(1)
+
+Projects required.—The Secretary of Defense and the Secretaries of the military departments shall jointly carry out demonstration projects to assess the feasibility and advisability of using various business models and processes to rapidly and effectively identify innovative commercial technologies and apply such technologies to Department of Defense and other cybersecurity requirements.
+
+&emsp;"(2)
+
+Scope of projects.—Any demonstration project under paragraph (1) shall be carried out in such a manner as to contribute to the cyber policy review of the President and the Comprehensive National Cybersecurity Initiative.
+
+"(b)
+
+Pilot Programs on Cybersecurity Required.—The Secretary of Defense shall support or conduct pilot programs on cybersecurity with respect to the following areas:
+
+&emsp;"(1) Threat sensing and warning for information networks worldwide.
+
+&emsp;"(2) Managed security services for cybersecurity within the defense industrial base, military departments, and combatant commands.
+
+&emsp;"(3) Use of private processes and infrastructure to address threats, problems, vulnerabilities, or opportunities in cybersecurity.
+
+&emsp;"(4) Processes for securing the global supply chain.
+
+&emsp;"(5) Processes for threat sensing and security of cloud computing infrastructure.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Reports required.—Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to section 1105(a) of title 31, United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress a report on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
+
+&emsp;"(2)
+
+Elements.—Each report under this subsection shall include the following:
+
+&emsp;&emsp;"(A) A description and assessment of any activities under the demonstration projects and pilot projects referred to in paragraph (1) during the preceding year.
+
+&emsp;&emsp;"(B) For the pilot projects supported or conducted under subsection (b)(2)—
+
+&emsp;&emsp;&emsp;"(i) a quantitative and qualitative assessment of the extent to which managed security services covered by the pilot project could provide effective and affordable cybersecurity capabilities for components of the Department of Defense and for entities in the defense industrial base, and an assessment whether such services could be expanded rapidly to a large scale without exceeding the ability of the Federal Government to manage such expansion; and
+
+&emsp;&emsp;&emsp;"(ii) an assessment of whether managed security services are compatible with the cybersecurity strategy of the Department of Defense with respect to conducting an active, in-depth defense under the direction of United States Cyber Command.
+
+&emsp;&emsp;"(C) For the pilot projects supported or conducted under subsection (b)(3)—
+
+&emsp;&emsp;&emsp;"(i) a description of any performance metrics established for purposes of the pilot project, and a description of any processes developed for purposes of accountability and governance under any partnership under the pilot project; and
+
+&emsp;&emsp;&emsp;"(ii) an assessment of the role a partnership such as a partnership under the pilot project would play in the acquisition of cyberspace capabilities by the Department of Defense, including a role with respect to the development and approval of requirements, approval and oversight of acquiring capabilities, test and evaluation of new capabilities, and budgeting for new capabilities.
+
+&emsp;&emsp;"(D) For the pilot projects supported or conducted under subsection (b)(4)—
+
+&emsp;&emsp;&emsp;"(i) a framework and taxonomy for evaluating practices that secure the global supply chain, as well as practices for securely operating in an uncertain or compromised supply chain;
+
+&emsp;&emsp;&emsp;"(ii) an assessment of the viability of applying commercial practices for securing the global supply chain; and
+
+&emsp;&emsp;&emsp;"(iii) an assessment of the viability of applying commercial practices for securely operating in an uncertain or compromised supply chain.
+
+&emsp;&emsp;"(E) For the pilot projects supported or conducted under subsection (b)(5)—
+
+&emsp;&emsp;&emsp;"(i) an assessment of the capabilities of Federal Government providers to offer secure cloud computing environments; and
+
+&emsp;&emsp;&emsp;"(ii) an assessment of the capabilities of commercial providers to offer secure cloud computing environments to the Federal Government.
+
+&emsp;"(3)
+
+Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex."
+
+#### Implementation of New Acquisition Process for Information Technology Systems
+
+Pub. L. 111–84, div. A, title VIII, §804, Oct. 28, 2009, 123 Stat. 2402, provided that:
+
+"(a)
+
+New Acquisition Process Required.—The Secretary of Defense shall develop and implement a new acquisition process for information technology systems. The acquisition process developed and implemented pursuant to this subsection shall, to the extent determined appropriate by the Secretary—
+
+&emsp;"(1) be based on the recommendations in chapter 6 of the March 2009 report of the Defense Science Board Task Force on Department of Defense Policies and Procedures for the Acquisition of Information Technology; and
+
+&emsp;"(2) be designed to include—
+
+&emsp;&emsp;"(A) early and continual involvement of the user;
+
+&emsp;&emsp;"(B) multiple, rapidly executed increments or releases of capability;
+
+&emsp;&emsp;"(C) early, successive prototyping to support an evolutionary approach; and
+
+&emsp;&emsp;"(D) a modular, open-systems approach.
+
+"(b)
+
+Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
+
+&emsp;"(1) describe the new acquisition process;
+
+&emsp;"(2) provide an explanation for any decision by the Secretary to deviate from the criteria established for such process in paragraphs (1) and (2) of subsection (a);
+
+&emsp;"(3) provide a schedule for the implementation of the new acquisition process;
+
+&emsp;"(4) identify the categories of information technology acquisitions to which such process will apply; and
+
+&emsp;"(5) include the Secretary's recommendations for any legislation that may be required to implement the new acquisition process."
+
+#### Clearinghouse for Rapid Identification and Dissemination of Commercial Information Technologies
+
+Pub. L. 110–181, div. A, title VIII, §881, Jan. 28, 2008, 122 Stat. 262, provided that:
+
+"(a)
+
+Requirement to Establish Clearinghouse.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, acting through the Assistant Secretary of Defense for Networks and Information Integration, shall establish a clearinghouse for identifying, assessing, and disseminating knowledge about readily available information technologies (with an emphasis on commercial off-the-shelf information technologies) that could support the warfighting mission of the Department of Defense.
+
+"(b)
+
+Responsibilities.—The clearinghouse established pursuant to subsection (a) shall be responsible for the following:
+
+&emsp;"(1) Developing a process to rapidly assess and set priorities and needs for significant information technology needs of the Department of Defense that could be met by commercial technologies, including a process for—
+
+&emsp;&emsp;"(A) aligning priorities and needs with the requirements of the commanders of the combatant command; and
+
+&emsp;&emsp;"(B) proposing recommendations to the commanders of the combatant command of feasible technical solutions for further evaluation.
+
+&emsp;"(2) Identifying and assessing emerging commercial technologies (including commercial off-the-shelf technologies) that could support the warfighting mission of the Department of Defense, including the priorities and needs identified pursuant to paragraph (1).
+
+&emsp;"(3) Disseminating information about commercial technologies identified pursuant to paragraph (2) to commanders of combatant commands and other potential users of such technologies.
+
+&emsp;"(4) Identifying gaps in commercial technologies and working to stimulate investment in research and development in the public and private sectors to address those gaps.
+
+&emsp;"(5) Enhancing internal data and communications systems of the Department of Defense for sharing and retaining information regarding commercial technology priorities and needs, technologies available to meet such priorities and needs, and ongoing research and development directed toward gaps in such technologies.
+
+&emsp;"(6) Developing mechanisms, including web-based mechanisms, to facilitate communications with industry regarding the priorities and needs of the Department of Defense identified pursuant to paragraph (1) and commercial technologies available to address such priorities and needs.
+
+&emsp;"(7) Assisting in the development of guides to help small information technology companies with promising technologies to understand and navigate the funding and acquisition processes of the Department of Defense.
+
+&emsp;"(8) Developing methods to measure how well processes developed by the clearinghouse are being utilized and to collect data on an ongoing basis to assess the benefits of commercial technologies that are procured on the recommendation of the clearinghouse.
+
+"(c)
+
+Personnel.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Networks and Information Integration, shall provide for the hiring and support of employees (including detailees from other components of the Department of Defense and from other Federal departments or agencies) to assist in identifying, assessing, and disseminating information regarding commercial technologies under this section.
+
+"(d)
+
+Report to Congress.—Not later than one year after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation of this section."
 

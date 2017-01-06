@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) the name, address, and Department of Agriculture license or registration number (if such number exists) of the dealer;
 
-&emsp;&emsp;(B) the name, address, Department of Agriculture license or registration number (ifsuch number exists), and the signature of the recipient of the dog or cat;
+&emsp;&emsp;(B) the name, address, Department of Agriculture license or registration number (if such number exists), and the signature of the recipient of the dog or cat;
 
 &emsp;&emsp;(C) a description of the dog or cat being provided that shall include—
 

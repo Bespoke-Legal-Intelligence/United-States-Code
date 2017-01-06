@@ -6,15 +6,15 @@ The Secretary may make grants to States, and in consultation with State health a
 
 #### (b) Application
 
-No grant may be made under subsection (a) of this section unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
+No grant may be made under section (a) <sup>1</sup> unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
 
-&emsp;(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a) of this section;
+&emsp;(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a);
 
 &emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) of this section will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
+&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
 
-&emsp;(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a) of this section;
+&emsp;(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
 &emsp;(5) assurances satisfactory to the Secretary that the applicant will provide for periodic evaluation of its program or programs;
 
@@ -26,7 +26,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 #### (c) Approval; annual project review
 
-(1) The Secretary shall not approve an application submitted under subsection (b) of this section for a grant for a program for which a grant was previously made under subsection (a) of this section unless the Secretary determines—
+(1) The Secretary shall not approve an application submitted under subsection (b) for a grant for a program for which a grant was previously made under subsection (a) unless the Secretary determines—
 
 &emsp;(A) the program for which the application was submitted is operating effectively to achieve its stated purpose,
 
@@ -34,37 +34,37 @@ No grant may be made under subsection (a) of this section unless an application 
 
 &emsp;(C) the applicant will comply with the assurances provided with the application.
 
-(2) The Secretary shall review annually the activities undertaken by each recipient of a grant under subsection (a) of this section to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
+(2) The Secretary shall review annually the activities undertaken by each recipient of a grant under subsection (a) to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
 
 #### (d) Amount of grant; payment
 
-The amount of a grant under subsection (a) of this section shall be determined by the Secretary. Payments under such grants may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
+The amount of a grant under subsection (a) shall be determined by the Secretary. Payments under such grants may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
 
 #### (e) Reduction
 
-The Secretary, at the request of a recipient of a grant under subsection (a) of this section, may reduce the amount of such grant by—
+The Secretary, at the request of a recipient of a grant under subsection (a), may reduce the amount of such grant by—
 
 &emsp;(1) the fair market value of any supplies (including vaccines and other preventive agents) or equipment furnished the grant recipient, and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee ofthe Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee,
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee,
 
-> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (f) Recordkeeping; audit authority
 
-(1) Each recipient of a grant under subsection (a) of this section shall keep such records as the Secretary shall by regulation prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of a grant under subsection (a) shall keep such records as the Secretary shall by regulation prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of grants under subsection (a) of this section that are pertinent to such grants.
+(2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of grants under subsection (a) that are pertinent to such grants.
 
 #### (g) Use of grant funds; mandatory treatment prohibited
 
-(1) Nothing in this section shall limit or otherwise restrict the use of funds which are granted to a State or to an agency or a political subdivision of a State under provisions of Federal law (other than this section) and which are available for the conduct of preventive health service programs from being used in connection with programs assisted through grants under subsection (a) of this section.
+(1) Nothing in this section shall limit or otherwise restrict the use of funds which are granted to a State or to an agency or a political subdivision of a State under provisions of Federal law (other than this section) and which are available for the conduct of preventive health service programs from being used in connection with programs assisted through grants under subsection (a).
 
 (2) Nothing in this section shall be construed to require any State or any agency or political subdivision of a State to have a preventive health service program which would require any person, who objects to any treatment provided under such a program, to be treated or to have any child or ward treated under such program.
 
 #### (h) Reports
 
-The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j) of this section; on the amount of funds obligated under grants under subsection (a) of this section in the preceding fiscal year for each of the programs listed in subsection (j) of this section; and on the effectiveness of the activities assisted under grants under subsection (a) of this section in controlling such diseases and conditions.
+The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j); on the amount of funds obligated under grants under subsection (a) in the preceding fiscal year for each of the programs listed in subsection (j); and on the effectiveness of the activities assisted under grants under subsection (a) in controlling such diseases and conditions.
 
 #### (i) Technical assistance
 
@@ -72,9 +72,9 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (j) Authorization of appropriations
 
-(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
+(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) for such fiscal year.
 
-(2) For grants under subsection (a) of this section for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, there are authorized to be appropriated such sums as may be necessary.
+(2) For grants under subsection (a) for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, there are authorized to be appropriated such sums as may be necessary.
 
 #### (k) Additional grants to States, political subdivisions, and other public and nonprofit private entities
 
@@ -100,7 +100,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 (3) No grant may be made under this subsection unless an application therefor is submitted to the Secretary in such form, at such time, and containing such information as the Secretary may by regulation prescribe.
 
-(4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection inthe same manner as such subsections apply to grants under subsection (a) of this section.
+(4) Subsections (d), (e), and (f) of this section shall apply to grants under this subsection in the same manner as such subsections apply to grants under subsection (a) of this section.
 
 #### (l) Authority to purchase recommended vaccines for adults
 
@@ -160,7 +160,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 &emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32,§6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Section 300m–3 of this title, referred to in subsec. (b)(3), was repealed by P
 
 Section 247 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 99–117, §12(b), Oct. 7, 1985, 99 Stat. 495.
 
-March 23, 2010, referred to in subsec. (m)(6), was in the original "the date of enactment of the Affordable Health Choices Act", and was translated as meaning the date of enactment of the Patient Protection andAffordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the "Affordable Health Choices Act" has been enacted.
+March 23, 2010, referred to in subsec. (m)(6), was in the original "the date of enactment of the Affordable Health Choices Act", and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the "Affordable Health Choices Act" has been enacted.
 
 #### Amendments
 
@@ -232,7 +232,7 @@ Subsec. (j). Pub. L. 97–35, §928(b), as amended by Pub. L. 99–117, substitu
 
 <b>1979</b>—Subsec. (j)(4), (5). Pub. L. 96–32 added par. (4), redesignated former par. (4) as (5) and, in par. (5) as so redesignated, substituted "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)".
 
-<b>1978</b>—Pub. L. 95–626, §202, amended section generally, substituting provisions relating to project grants for preventive health services for provisions relating to grants for disease control programs.
+<b>1978</b>—Pub. L. 95–626, §202, amended section generally, substituting provisions relating to project grants forpreventive health services for provisions relating to grants for disease control programs.
 
 Subsec. (g)(2). Pub. L. 95–626, §204(b)(2), struck out "Except as provided in section 247c of this title," before "No funds appropriated under any provision of this chapter".
 
@@ -292,7 +292,7 @@ Subsec. (c). Pub. L. 89–109, §2(d)(1), (e), inserted "on the basis of estimat
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–626, title II, §202, Nov. 10, 1978, 92 Stat. 3574, as amended by Pub. L. 96–32, §6(g), July 10, 1979, 93 Stat. 83, provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–626, title II, §202, Nov. 10, 1978, 92 Stat. 3574, as amended by Pub. L. 96–32, §6(g), July 10, 1979, 93 Stat.83, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 #### Effective Date of 1976 Amendment
 
@@ -300,7 +300,7 @@ Pub. L. 94–317, title II, §202(a), Nov. 10, 1978, 92 Stat. 3574, provided tha
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: "Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enactingprovisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\]."
+Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: "Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\]."
 
 #### Effective Date of 1972 Amendment
 
@@ -317,6 +317,8 @@ Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 
 Pub. L. 94–380, §3, Aug. 12, 1976, 90 Stat. 1118, directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)".</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

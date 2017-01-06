@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) the application is by a Federal investigative or law enforcement officer and is approved by the Attorney General, the Deputy Attorney General, the Associate Attorney General, an Assistant Attorney General, or an acting Assistant Attorney General;
 
-&emsp;&emsp;(ii) the application identifies the person believed to be committing the offense and whose communications are to be intercepted and the applicant makes a showing that there is probable cause to believe that theperson's actions could have the effect of thwarting interception from a specified facility;
+&emsp;&emsp;(ii) the application identifies the person believed to be committing the offense and whose communications are to be intercepted and the applicant makes a showing that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;
 
 &emsp;&emsp;(iii) the judge finds that such showing has been adequately made; and
 

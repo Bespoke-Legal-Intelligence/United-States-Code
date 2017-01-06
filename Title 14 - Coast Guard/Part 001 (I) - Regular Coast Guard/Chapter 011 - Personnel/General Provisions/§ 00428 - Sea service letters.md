@@ -10,7 +10,7 @@ In General.—The Secretary shall provide a sea service letter to a member or fo
 
 (b)
 
-Deadline.—Not later than 30 days after receiving a request for a sea service letter from a member or former member of the Coast Guardunder subsection (a), the Secretary shall provide such letter to such member or former member if such member or former member satisfies the requirement under subsection (a)(1).
+Deadline.—Not later than 30 days after receiving a request for a sea service letter from a member or former member of the Coast Guard under subsection (a), the Secretary shall provide such letter to such member or former member if such member or former member satisfies the requirement under subsection (a)(1).
 
 (Added Pub. L. 113–281, title III, §305(b)(1), Dec. 18, 2014, 128 Stat. 3044.)
 

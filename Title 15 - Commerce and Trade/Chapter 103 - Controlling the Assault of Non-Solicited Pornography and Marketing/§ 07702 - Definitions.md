@@ -26,7 +26,7 @@ In this chapter:
 
 #### (D) Reference to company or website
 
-&emsp;&emsp;The inclusion of a reference to a commercial entity or a link to the website of a commercial entity in an electronic mail message does not, by itself, cause such message to betreated as a commercial electronic mail message for purposes of this chapter if the contents or circumstances of the message indicate a primary purpose other than commercial advertisement or promotion of a commercial product or service.
+&emsp;&emsp;The inclusion of a reference to a commercial entity or a link to the website of a commercial entity in an electronic mail message does not, by itself, cause such message to be treated as a commercial electronic mail message for purposes of this chapter if the contents or circumstances of the message indicate a primary purpose other than commercial advertisement or promotion of a commercial product or service.
 
 #### (3) Commission
 
@@ -127,4 +127,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
+
+#### Effective Date
+
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 

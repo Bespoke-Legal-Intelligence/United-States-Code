@@ -10,7 +10,7 @@ Such fellowships shall be awarded for such periods as the Secretary of Energy ma
 
 #### (c) Replacement awards
 
-In addition to the number of fellowships authorized to be awarded by subsection (a) of this section, the Secretary of Energy is authorized to award fellowships equal to the number previously awarded during any fiscal year under this subchapter but vacated prior to the end of the period for which they were awarded; except that each fellowship awarded under this subsection shall be for such period of graduate workor research, not in excess of the remainder of the period for which the fellowship which it replaces was awarded as the Secretary of Energy may determine.
+In addition to the number of fellowships authorized to be awarded by subsection (a) of this section, the Secretary of Energy is authorized to award fellowships equal to the number previously awarded during any fiscal year under this subchapter but vacated prior to the end of the period for which they were awarded; except that each fellowship awarded under this subsection shall be for such period of graduate work or research, not in excess of the remainder of the period for which the fellowship which it replaces was awarded as the Secretary of Energy may determine.
 
 (Pub. L. 95–87, title IX, §901, Aug. 3, 1977, 91 Stat. 529; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

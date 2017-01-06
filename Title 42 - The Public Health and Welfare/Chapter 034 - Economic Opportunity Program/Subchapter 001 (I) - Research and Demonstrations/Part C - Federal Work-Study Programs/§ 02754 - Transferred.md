@@ -1,0 +1,6 @@
+### §2754. Transferred
+
+#### Codification
+
+Section 2754, originally enacted as section 124 of Pub. L. 88–452, was renumbered, repealed, and reenacted as section 444 of Pub. L. 89–329 and transferred to section 1087–54 of Title 20, Education.
+

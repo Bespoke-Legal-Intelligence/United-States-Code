@@ -10,7 +10,7 @@
 
 For purposes of this section—
 
-&emsp;(1) the terms "Upper Mississippi River system" and "system" mean those river reaches having commercial navigation channels on the Mississippi River main stem north of Cairo, Illinois; the Minnesota River, Minnesota; Black River, Wisconsin; Saint Croix River, Minnesota and Wisconsin; Illinois River and Waterway, Illinois; and Kaskaskia River, Illinois;
+&emsp;(1) the terms "Upper Mississippi River system" and "system" mean those river reaches having commercial navigation channels on theMississippi River main stem north of Cairo, Illinois; the Minnesota River, Minnesota; Black River, Wisconsin; Saint Croix River, Minnesota and Wisconsin; Illinois River and Waterway, Illinois; and Kaskaskia River, Illinois;
 
 &emsp;(2) the term "Master Plan" means the comprehensive master plan for the management of the Upper Mississippi River system, dated January 1, 1982, prepared by the Upper Mississippi River Basin Commission and submitted to Congress pursuant to Public Law 95–502;
 
@@ -102,7 +102,7 @@ Determination.—
 
 &emsp;(A)
 
-In general.—The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
+In general.—The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) and paragraph (1) of this subsection.
 
 &emsp;(B)
 
@@ -110,7 +110,7 @@ Requirements.—The Secretary shall—
 
 &emsp;&emsp;(i) complete the ongoing habitat needs assessment conducted under this paragraph not later than September 30, 2000; and
 
-&emsp;&emsp;(ii) include in each report under subsection (e)(2) of this section the most recent habitat needs assessment conducted under this paragraph.
+&emsp;&emsp;(ii) include in each report under subsection (e)(2) the most recent habitat needs assessment conducted under this paragraph.
 
 (3) There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this subsection.
 

@@ -6,7 +6,7 @@ In the course of awarding grants or implementing programs under this subchapter,
 
 #### Codification
 
-Section 1104 of Pub. L. 111–22, which directed amendment of subtitle A of the McKinney-Vento Homeless Assistance Act by adding this section at the end, was executed by adding this section at the end of subtitle A of title IV of Pub. L. 100–77 (this part), to reflect the probable intent of Congress.
+Section 1104 of Pub. L. 111–22, which directed amendment of subtitle A of the McKinney-Vento HomelessAssistance Act by adding this section at the end, was executed by adding this section at the end of subtitle A of title IV of Pub. L. 100–77 (this part), to reflect the probable intent of Congress.
 
 #### Effective Date
 

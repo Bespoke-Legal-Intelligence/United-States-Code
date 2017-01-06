@@ -2,23 +2,33 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this title with respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+For the purpose of carrying out this subpart, and subpart III and section 290aa–4(c) of this title with respect to mental health, there are authorized to be appropriated $532,571,000 for each of fiscal years 2018 through 2022.
 
 #### (b) Allocations for technical assistance, data collection, and program evaluation
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out section 300x–58(a) of this title with respect to mental health and the purposes specified in paragraphs (2) and (3), the Secretary shall obligate 5 percent of the amounts appropriated under subsection (a) of this section for a fiscal year.
+&emsp;For the purpose of carrying out section 300x–58(a) of this title with respect to mental health and the purposes specified in paragraphs (2) and (3), the Secretary shall obligate 5 percent of the amounts appropriated under subsection (a) for a fiscal year.
 
 #### (2) Data collection
 
-&emsp;The purpose specified in this paragraph is carrying out sections 290aa–4 and 300y of this title with respect to mental health.
+&emsp;The purpose specified in this paragraph is carrying out sections 290aa–4(c) and 300y of this title with respect to mental health.
 
 #### (3) Program evaluation
 
 &emsp;The purpose specified in this paragraph is the conduct of evaluations of prevention and treatment programs and services with respect to mental health to determine methods for improving the availability and quality of such programs and services.
 
-(July 1, 1944, ch. 373, title XIX, §1920, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388; amended Pub. L. 106–310, div. B, title XXXII, §3204(f), Oct. 17, 2000, 114 Stat. 1193.)
+#### (c) Early serious mental illness
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), a State shall expend not less than 10 percent of the amount the State receives for carrying out this section for each fiscal year to support evidence-based programs that address the needs of individuals with early serious mental illness, including psychotic disorders, regardless of the age of the individual at onset.
+
+#### (2) State flexibility
+
+&emsp;In lieu of expending 10 percent of the amount the State receives under this section for a fiscal year as required under paragraph (1), a State may elect to expend not less than 20 percent of such amount by the end of such succeeding fiscal year.
+
+(July 1, 1944, ch. 373, title XIX, §1920, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388; amended Pub. L. 106–310, div. B, title XXXII, §3204(f), Oct. 17, 2000, 114 Stat. 1193; Pub. L. 114–255, div. B, title VIII, §8001(c), (f), Dec. 13, 2016, 130 Stat. 1228, 1229.)
 
 #### Prior Provisions
 
@@ -32,7 +42,7 @@ Section 300x–9a, act July 1, 1944, ch. 373, title XIX, §1922, as added Nov. 1
 
 Section 300x–9b, act July 1, 1944, ch. 373, title XIX, §1923, as added Nov. 18, 1988, Pub. L. 100–690, title II, §2040, 102 Stat. 4204; amended Aug. 16, 1989, Pub. L. 101–93, §2(q)(2), 103 Stat. 609, related to service research on community-based mental health treatment programs.
 
-Section 300x–10, act July 1, 1944, ch. 373, title XIX, §1924, formerly §1920B, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1924 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (4), 102 Stat. 4203; Nov. 28, 1990, Pub. L. 101–639, §3(a)(1), 104 Stat. 4601, related to development grants for State comprehensive mental health services plans.
+Section 300x–10, act July 1, 1944, ch. 373, title XIX, §1924, formerly §1920B, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1924 and amended Nov. 18, 1988, Pub. L. 100–690, title II,§2038(3), (4), 102 Stat. 4203; Nov. 28, 1990, Pub. L. 101–639, §3(a)(1), 104 Stat. 4601, related to development grants for State comprehensive mental health services plans.
 
 Section 300x–11, act July 1, 1944, ch. 373, title XIX, §1925, formerly §1920C, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1925 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §§2038(3), 2041(a), 102 Stat. 4203, 4205; Aug. 16, 1989, Pub. L. 101–93, §2(o)(1), 103 Stat. 608; Nov. 28, 1990, Pub. L. 101–639, §3(b), 104 Stat. 4601, related to State comprehensive mental health services plans.
 
@@ -41,6 +51,12 @@ Section 300x–12, act July 1, 1944, ch. 373, title XIX, §1926, formerly §1920
 Section 300x–13, act July 1, 1944, ch. 373, title XIX, §1927, formerly §1920E, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3797; renumbered §1927, Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), 102 Stat. 4203, related to development of model standards for provision of care to chronically mentally ill persons.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, §8001(f)(1), substituted "section 290aa–4(c) of this title" for "section 290aa–4 of this title" and "$532,571,000 for each of fiscal years 2018 through 2022." for "$450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003."
+
+Subsec. (b)(2). Pub. L. 114–255, §8001(f)(2), substituted "sections 290aa–4(c) and" for "sections 290aa–4 and".
+
+Subsec. (c). Pub. L. 114–255, §8001(c), added subsec. (c).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–310, §3204(f)(1), substituted "$450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for "$450,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994".
 

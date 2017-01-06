@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) studies suggest that as many as 10,000,000 children witness domestic violence every year;
 
-&emsp;(3) studies suggest that among children and teenagers, recent exposure to violence in the home was a significant factor in predicting a child's violent behavior;
+&emsp;(3) studies suggest that among children and teenagers, recent exposure to violence in thehome was a significant factor in predicting a child's violent behavior;
 
 &emsp;(4) a study by the Nurse-Family Partnership found that children whose parents did not participate in home visitation programs that provided coaching in parenting skills, advice and support, were almost 5 times more likely to be abused in their first 2 years of life;
 

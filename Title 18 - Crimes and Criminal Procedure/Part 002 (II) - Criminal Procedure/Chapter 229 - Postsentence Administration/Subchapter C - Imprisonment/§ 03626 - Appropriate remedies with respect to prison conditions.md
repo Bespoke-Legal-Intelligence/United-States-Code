@@ -20,7 +20,7 @@ Prospective relief.—(A) Prospective relief in any civil action with respect to
 
 &emsp;(2)
 
-Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
+Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire onthe date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
 
 &emsp;(3)
 
@@ -30,7 +30,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;&emsp;(ii) the defendant has had a reasonable amount of time to comply with the previous court orders.
 
-&emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title28, if the requirements of subparagraph (E) have been met.
+&emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title 28, if the requirements of subparagraph (E) have been met.
 
 &emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge court and materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
 
@@ -102,7 +102,7 @@ Generally.—The court shall promptly rule on any motion to modify or terminate 
 
 Automatic stay.—Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay during the period—
 
-&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion made under paragraph (1) or (2) of subsection (b); or
+&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion madeunder paragraph (1) or (2) of subsection (b); or
 
 &emsp;&emsp;(ii) beginning on the 180th day after such motion is filed, in the case of a motion made under any other law; and
 
@@ -180,7 +180,7 @@ Definitions.—As used in this section—
 
 &emsp;(9) the term "relief" means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
 
-(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
+(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134,title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out
 
 <b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted "requires" for "permits".
 
-Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted "no court shall enter a prisoner release orderunless" for "no prisoner release order shall be entered unless".
+Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted "no court shall enter a prisoner release order unless" for "no prisoner release order shall be entered unless".
 
 Subsec. (a)(3)(F). Pub. L. 105–119, §123(a)(1)(B)(ii), inserted "including a legislator" after "local official" and substituted "prison facilities" for "program facilities".
 

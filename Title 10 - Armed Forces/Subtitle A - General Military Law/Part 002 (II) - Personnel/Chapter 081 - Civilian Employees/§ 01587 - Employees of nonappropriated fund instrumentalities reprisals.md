@@ -2,7 +2,7 @@
 
 (a) In this section:
 
-&emsp;(1) The term "nonappropriated fund instrumentality employee" means a civilian employee who is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces. Such term includes a civilian employeeof a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties.
+&emsp;(1) The term "nonappropriated fund instrumentality employee" means a civilian employee who is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces. Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties.
 
 &emsp;(2) The term "civilian employee" has the meaning given the term "employee" by section 2105(a) of title 5.
 
@@ -72,11 +72,11 @@ Pub. L. 104–106, div. A, title X, §1042, Feb. 10, 1996, 110 Stat. 434, provid
 
 "(a)
 
-Conforming Allowance to Allowances for Other Civilian Employees.—Subject to subsection (b),an overseas living quarters allowance paid from nonappropriated funds and provided to a nonappropriated fund instrumentality employee after the date of the enactment of this Act \[Feb. 10, 1996\] may not exceed the amount of a quarters allowance provided under subchapter III of chapter 59 of title 5 to a similarly situated civilian employee of the Department of Defense paid from appropriated funds.
+Conforming Allowance to Allowances for Other Civilian Employees.—Subject to subsection (b), an overseas living quarters allowance paid from nonappropriated funds and provided to a nonappropriated fund instrumentality employee after the date of the enactment of this Act \[Feb. 10, 1996\] may not exceed the amount of a quarters allowance provided under subchapter III of chapter 59 of title 5 to a similarly situated civilian employee of the Department of Defense paid from appropriated funds.
 
 "(b)
 
-Application to Certain Current Employees.—In the case of a nonappropriated fund instrumentality employee who, as of the date of the enactment of this Act \[Feb. 10, 1996\], receives an overseas living quarters allowance under any other authority, subsection (a) shall apply to such employee only after the earlier of—
+Application to Certain Current Employees.—In the case of a nonappropriated fund instrumentality employee who, as of the date of the enactment of thisAct \[Feb. 10, 1996\], receives an overseas living quarters allowance under any other authority, subsection (a) shall apply to such employee only after the earlier of—
 
 &emsp;"(1) September 30, 1997; or
 

@@ -6,7 +6,7 @@ The corporation may make such investigations as it deems necessary to enforce an
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
-For the purpose of any such investigation, or any other proceeding under this subchapter, theDirector, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
+For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
 
 #### (c) Contempt
 
@@ -42,7 +42,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 #### (f) Civil actions against corporation; appropriate court; award of costs and expenses; limitation on actions; jurisdiction; removal of actions
 
-(1) Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a plan sponsor, fiduciary, employer, contributing sponsor, member of a contributing sponsor's controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
+(1) Except with respect to withdrawal liability disputes under part 1 of subtitle E, any person who is a plan sponsor, fiduciary, employer, contributing sponsor, member of a contributing sponsor's controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
 
 (2) For purposes of this subsection, the term "appropriate court" means—
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 99–272, §11014(b)(1), amended subsec. (f) generally. Pri
 
 Subsec. (e)(1). Pub. L. 96–364, §402(a)(2)(B), substituted "enforce" for "redress violations of".
 
-Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted "Except as provided in section 1451(a)(2) of thetitle, any" for "Any" and inserted provisions relating to removal of actions.
+Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted "Except as provided in section 1451(a)(2) of the title, any" for "Any" and inserted provisions relating to removal of actions.
 
 #### Effective Date of 2014 Amendment
 
@@ -122,7 +122,7 @@ Amendment by section 776(b)(1) of Pub. L. 103–465 effective with respect to di
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–272, title XI, §11014(b)(3), Apr. 7, 1986, 100 Stat. 264, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\]."
+Pub. L. 99–272, title XI, §11014(b)(3), Apr. 7, 1986, 100 Stat. 264, provided that: "The amendments made bythis subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\]."
 
 Amendment by section 11016(c)(5) of Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

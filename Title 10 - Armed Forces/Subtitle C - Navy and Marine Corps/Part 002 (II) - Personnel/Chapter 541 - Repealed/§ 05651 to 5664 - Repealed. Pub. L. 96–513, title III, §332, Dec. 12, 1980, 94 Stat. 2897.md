@@ -26,7 +26,7 @@ Section 5659, act Aug. 10, 1956, ch. 1041, 70A Stat. 334, related to reassignmen
 
 Section 5660, act Aug. 10, 1956, ch. 1041, 70A Stat. 335, related to reassignment of a running mate to a staff corps officer on active duty where running mate originally assigned to such staff corps officer was advanced in numbers or in grade.
 
-Section 5661, act Aug. 10, 1956, ch. 1041, 70A Stat. 335, related to reassignment of a running mate to a staffcorps officer where staff corps officer was not restricted in performance of duty, was serving on active duty in grade of lieutenant (junior grade) or above, and was advanced in numbers in his grade.
+Section 5661, act Aug. 10, 1956, ch. 1041, 70A Stat. 335, related to reassignment of a running mate to a staff corps officer where staff corps officer was not restricted in performance of duty, was serving on active duty in grade of lieutenant (junior grade) or above, and was advanced in numbers in his grade.
 
 Section 5662, acts Aug. 10, 1956, ch. 1041, 70A Stat. 335; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized President to suspend any provisions of sections 5651 to 5661 of this title during times of war or national emergency or during certain other times when specified conditions were found to exist.
 

@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–79 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012."
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 added subsec. (d) and struck out former subsec. (d). Prior to amendment, textread as follows: "There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §6021, substituted "2008 through 2012" for "2002 through 2007".
 

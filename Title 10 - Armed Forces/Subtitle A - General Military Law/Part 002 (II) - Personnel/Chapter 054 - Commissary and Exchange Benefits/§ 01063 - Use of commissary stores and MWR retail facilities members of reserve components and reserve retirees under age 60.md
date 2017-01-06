@@ -48,7 +48,7 @@ Eligibility to Use Authorized.—Subject to such regulations as the Secretary of
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: "The amendments madeby subsections (b) and (c) \[enacting this section and former section 1064 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: "The amendments made by subsections (b) and (c) \[enacting this section and former section 1064 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Regulations
 

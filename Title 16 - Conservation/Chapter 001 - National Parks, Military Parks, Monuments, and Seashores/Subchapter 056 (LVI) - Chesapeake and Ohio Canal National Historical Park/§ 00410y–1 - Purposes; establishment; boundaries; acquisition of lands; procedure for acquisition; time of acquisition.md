@@ -4,7 +4,7 @@
 
 &emsp;(1) unless they are donated to the United States, or
 
-&emsp;(2) until a written cooperative agreement is negotiated by the Secretary which assures theadministration of such lands in accordance with established administrative policies for national parks, and
+&emsp;(2) until a written cooperative agreement is negotiated by the Secretary which assures the administration of such lands in accordance with established administrative policies for national parks, and
 
 &emsp;(3) until the terms and conditions of such donation or cooperative agreement have been forwarded to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives at least sixty days prior to being executed.
 

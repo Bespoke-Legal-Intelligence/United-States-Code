@@ -188,7 +188,7 @@ Input.—The report shall be developed by the Administrator (or the Administrato
 
 &emsp;"(5)
 
-Submission to congress.—Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Submission to congress.—Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructureof the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;"(6)
 

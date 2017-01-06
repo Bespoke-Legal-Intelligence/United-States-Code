@@ -66,7 +66,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (C) In-kind support
 
-&emsp;&emsp;An eligible entity may provide in-kind resources such as staff, equipment, or office space in carrying out activities under this section.
+&emsp;&emsp;An eligible entity may provide in-kind resources such as staff, equipment, or officespace in carrying out activities under this section.
 
 #### (4) Evaluation
 

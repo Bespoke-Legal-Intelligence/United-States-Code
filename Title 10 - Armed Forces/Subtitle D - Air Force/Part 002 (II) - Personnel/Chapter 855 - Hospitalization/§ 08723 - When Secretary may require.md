@@ -2,7 +2,7 @@
 
 The Secretary of the Air Force may order the hospitalization, medical and surgical treatment, and domiciliary care for as long as necessary, of any member of the Air Force on active duty, and may incur obligations with respect thereto, whether or not the member incurred an injury, illness, or disease in line of duty, except in the case of a member treated in a private hospital, or by a civilian physician, while on leave of absence for more than 24 hours.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 539; Pub. L. 99–661, div. A, title VI, §604(f)(1)(D), Nov. 14, 1986,100 Stat. 3878; Pub. L. 100–26, §7(j)(11), Apr. 21, 1987, 101 Stat. 283.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 539; Pub. L. 99–661, div. A, title VI, §604(f)(1)(D), Nov. 14, 1986, 100 Stat. 3878; Pub. L. 100–26, §7(j)(11), Apr. 21, 1987, 101 Stat. 283.)
 
 Historical and Revision Notes
 
@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, §5, 54 Stat. 1137.
 
-The words "under such regulations as he may prescribe", in 10:455e and 32:164d, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The references to 10:455a–455d and 32:164a–164c, and the words "nor any other law of the United States shall be construed as limiting the power and authority", are omitted, since the revised section makes explicit the authority of the Secretary to require the prescribed hospitalization and care. The words "or in training, under the provisions of sections 62—" are omitted as covered by the words "active duty". The words "so long as any or all are necessary" and "in the active military service" are omitted as surplusage. With the exception of 32:62 (4th proviso of last sentence), the references to 32:62–65, 144–146, 183, and 186, in 10:455e and 32:164d, do not refer to members of the Air National Guard of the United States and are therefore omitted from the revised section. 10:455e (1st proviso) and 32:164d (1st proviso) are omitted, since they apply only to the National Guard and are covered by section 320 of title 32.
+The words "under such regulations as he may prescribe", in 10:455e and 32:164d, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The references to 10:455a–455d and 32:164a–164c, and the words "nor any other law of the United States shall be construed as limiting the power and authority", are omitted, since the revised section makes explicit the authority of the Secretary to require the prescribed hospitalization and care. The words "or in training, under the provisions of sections 62—" are omitted as covered by the words "active duty". The words "so long as any or all are necessary" and "in the active military service" are omitted as surplusage. With the exception of 32:62 (4th proviso of last sentence), the references to 32:62–65, 144–146, 183, and 186, in 10:455e and 32:164d, donot refer to members of the Air National Guard of the United States and are therefore omitted from the revised section. 10:455e (1st proviso) and 32:164d (1st proviso) are omitted, since they apply only to the National Guard and are covered by section 320 of title 32.
 
 #### Amendments
 

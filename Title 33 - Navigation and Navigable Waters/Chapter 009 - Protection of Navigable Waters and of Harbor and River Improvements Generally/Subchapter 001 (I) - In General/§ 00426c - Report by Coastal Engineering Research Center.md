@@ -6,5 +6,5 @@ The Coastal Engineering Research Center, in making its report on any cooperative
 
 #### Codification
 
-Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, §1, providing in part for the abolition of the Beach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center see section 426–1 of this title.
+Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, §1, providing in part for the abolition of theBeach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center see section 426–1 of this title.
 

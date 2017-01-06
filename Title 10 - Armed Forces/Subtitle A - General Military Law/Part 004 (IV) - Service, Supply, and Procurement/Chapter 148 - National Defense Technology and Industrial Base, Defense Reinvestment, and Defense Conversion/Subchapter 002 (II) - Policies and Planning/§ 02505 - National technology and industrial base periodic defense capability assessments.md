@@ -30,7 +30,7 @@ Assessment of Extent of Dependency on Foreign Source Items.—Each assessment un
 
 (d)
 
-Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. If it is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
+Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. Ifit is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
 
 &emsp;(1) identify the sectors that are subject to such harm;
 
@@ -42,7 +42,7 @@ Assessment of Extent of Effects of Foreign Boycotts.—Each assessment under sub
 
 Integrated Process.—The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(c), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1602, Jan. 2, 2013, 126 Stat. 2062; Pub. L. 114–92,div. A, title VIII, §876, Nov. 25, 2015, 129 Stat. 941.)
+(Added Pub. L. 102–484, div. D, title XLII, §4215, Oct. 23, 1992, 106 Stat. 2667; amended Pub. L. 103–35, title II, §201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(c), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1602, Jan. 2, 2013, 126 Stat. 2062; Pub. L. 114–92, div. A, title VIII, §876, Nov. 25, 2015, 129 Stat. 941.)
 
 #### Prior Provisions
 

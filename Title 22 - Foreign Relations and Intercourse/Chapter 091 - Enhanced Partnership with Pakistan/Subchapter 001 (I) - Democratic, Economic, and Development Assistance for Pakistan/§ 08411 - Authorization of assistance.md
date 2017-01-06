@@ -26,7 +26,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;&emsp;(C) support for strengthening the capacity of the civilian Government of Pakistan to carry out its responsibilities at the national, provincial, and local levels.
 
-&emsp;(2) To support Pakistan's efforts to expand rule of law, build the capacity, transparency,and trust in government institutions, and promote internationally recognized human rights, including assistance such as—
+&emsp;(2) To support Pakistan's efforts to expand rule of law, build the capacity, transparency, and trust in government institutions, and promote internationally recognized human rights, including assistance such as—
 
 &emsp;&emsp;(A) supporting the establishment of frameworks that promote government transparency and criminalize corruption in both the government and private sector;
 
@@ -46,7 +46,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;&emsp;(A) programs that support sustainable economic growth, including in rural areas, and the sustainable management of natural resources through investments in water resource management systems;
 
-&emsp;&emsp;(B) expansion of agricultural and rural development, such as farm-to-market roads, systems to prevent spoilage and waste, and other small-scale infrastructure improvements;
+&emsp;&emsp;(B) expansion of agricultural and rural development, such as farm-to-market roads,systems to prevent spoilage and waste, and other small-scale infrastructure improvements;
 
 &emsp;&emsp;(C) investments in energy, including energy generation and cross-border infrastructure projects with Afghanistan;
 
@@ -88,7 +88,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 #### (3) Utilizing Pakistani organizations
 
-&emsp;The President is encouraged, as appropriate, to utilize Pakistani firms and community andlocal nongovernmental organizations in Pakistan, including through host country contracts, and to work with local leaders to provide assistance under this section.
+&emsp;The President is encouraged, as appropriate, to utilize Pakistani firms and community and local nongovernmental organizations in Pakistan, including through host country contracts, and to work with local leaders to provide assistance under this section.
 
 #### (4) Use of direct expenditures
 

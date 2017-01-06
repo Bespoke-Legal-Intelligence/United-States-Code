@@ -44,9 +44,31 @@ Participation.—The policy described under subsection (a) shall—
 
 &emsp;(5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.
 
-(Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3165.)
+(c)
+
+Required Telework.—If an agency places an employee in investigative leave under section 6329b, the agency may require the employee to, through telework, perform duties similar to the duties that the employee performs on-site if—
+
+&emsp;(1) the agency determines that such a requirement would not—
+
+&emsp;&emsp;(A) pose a threat to the employee or others;
+
+&emsp;&emsp;(B) result in the destruction of evidence relevant to an investigation;
+
+&emsp;&emsp;(C) result in the loss of or damage to Government property; or
+
+&emsp;&emsp;(D) otherwise jeopardize legitimate Government interests;
+
+&emsp;(2) the employee is eligible to telework under subsections (a) and (b) of this section; and
+
+&emsp;(3) the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.
+
+(Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3165; amended Pub. L. 114–328, div. A, title XI, §1138(d)(3), Dec. 23, 2016, 130 Stat. 2469.)
 
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–328 added subsec. (c).
 

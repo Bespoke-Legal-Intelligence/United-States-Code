@@ -1,0 +1,6 @@
+### §1704. Omitted
+
+#### Codification
+
+Section, Pub. L. 95–395, §5, Sept. 30, 1978, 92 Stat. 814, which related to option agreements to purchase private settlement lands, was omitted from the Code as being of special and not general application.
+

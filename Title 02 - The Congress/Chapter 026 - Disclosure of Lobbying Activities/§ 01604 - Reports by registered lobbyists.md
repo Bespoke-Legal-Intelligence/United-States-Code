@@ -74,7 +74,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 #### (e) Electronic filing required
 
-A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representativesmay require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
+A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
 (Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747.)
 
@@ -113,4 +113,8 @@ Subsec. (e). Pub. L. 110–81, §205, added subsec. (e).
 Pub. L. 110–81, title II, §203(b), Sept. 14, 2007, 121 Stat. 744, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1604(d)(1)\] (as added by this section) that begins after the date of the enactment of this Act \[Sept. 14, 2007\] and each succeeding semiannual period."
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 

@@ -1,0 +1,6 @@
+### §592. Omitted
+
+#### Codification
+
+Section, act June 8, 1940, ch. 285, §2, 54 Stat. 254, which related to withdrawal of Minnesota Chippewa tribal funds to reimburse the United States for land and timber, was omitted from the Code as being of special and not general application.
+

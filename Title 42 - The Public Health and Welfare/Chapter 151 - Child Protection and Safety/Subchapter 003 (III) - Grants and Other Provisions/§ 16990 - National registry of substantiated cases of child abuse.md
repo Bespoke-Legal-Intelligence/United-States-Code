@@ -76,7 +76,7 @@ The Secretary of Health and Human Services shall establish standards for the dis
 
 #### References in Text
 
-Section 5106a(b)(2)(A) of this title, referred to in subsecs. (c)(2)(B) and (f), was redesignated section 5106a(b)(2)(B) of this title by Pub. L. 111–320, title I, §115(c)(2)(A), Dec. 20, 2010, 124 Stat. 3469.
+Section 5106a(b)(2)(A) of this title, referred to in subsecs. (c)(2)(B) and (f), was redesignated section5106a(b)(2)(B) of this title by Pub. L. 111–320, title I, §115(c)(2)(A), Dec. 20, 2010, 124 Stat. 3469.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

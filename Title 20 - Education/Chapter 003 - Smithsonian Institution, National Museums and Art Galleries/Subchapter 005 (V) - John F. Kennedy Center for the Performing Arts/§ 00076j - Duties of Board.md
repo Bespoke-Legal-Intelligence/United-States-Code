@@ -64,7 +64,7 @@
 
 #### (F) Maintenance of grounds
 
-&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistent with National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation ofthe grounds may be made without the express approval of Congress and of the Secretary of the Interior.
+&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistent with National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation of the grounds may be made without the express approval of Congress and of the Secretary of the Interior.
 
 #### (b) Restriction on additional memorials
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Administration a Center for Mental Health Services (hereafter in this section referred to as the "Center"). The Center shall be headed by a Director (hereafter in this section referred to as the "Director") appointed by the Secretary from among individuals with extensive experience or academicqualifications in the provision of mental health services or in the evaluation of mental health service systems.
+There is established in the Administration a Center for Mental Health Services (hereafter in this section referred to as the "Center"). The Center shall be headed by a Director (hereafter in this section referred to as the "Director") appointed by the Secretary from among individuals with extensive experience or academic qualifications in the provision of mental health services or in the evaluation of mental health service systems.
 
 #### (b) Duties
 
@@ -16,43 +16,47 @@ The Director of the Center shall—
 
 &emsp;(2) encourage and assist local entities and State agencies to achieve the goals and priorities described in paragraph (1);
 
-&emsp;(3) collaborate with the Department of Education and the Department of Justice to develop programs to assist local communities in addressing violence among children and adolescents;
+&emsp;(3) collaborate with the Director of the National Institute of Mental Health and the Chief Medical Officer, appointed under section 290aa(g) of this title, to ensure that, as appropriate, programs related to the prevention and treatment of mental illness and the promotion of mental health and recovery support are carried out in a manner that reflects the best available science and evidence-based practices, including culturally and linguistically appropriate services, as appropriate;
 
-&emsp;(4) develop and coordinate Federal prevention policies and programs and to assure increased focus on the prevention of mental illness and the promotion of mental health;
+&emsp;(4) collaborate with the Department of Education and the Department of Justice to develop programs to assist local communities in addressing violence among children and adolescents;
 
-&emsp;(5) develop improved methods of treating individuals with mental health problems and improved methods of assisting the families of such individuals;
+&emsp;(5) develop and coordinate Federal prevention policies and programs and to assure increased focus on the prevention of mental illness and the promotion of mental health, including through programs that reduce risk and promote resiliency;
 
-&emsp;(6) administer the mental health services block grant program authorized in section 300x of this title;
+&emsp;(6) in collaboration with the Director of the National Institute of Mental Health, develop improved methods of treating individuals with mental health problems and improved methods of assisting the families of such individuals;
 
-&emsp;(7) promote policies and programs at Federal, State, and local levels and in the private sector that foster independence and protect the legal rights of persons with mental illness, including carrying out the provisions of the Protection and Advocacy of Mentally Ill Individuals Act <sup>1</sup> \[42 U.S.C. 10801 et seq.\];
+&emsp;(7) administer the mental health services block grant program authorized in section 300x of this title;
 
-&emsp;(8) carry out the programs under part C of this subchapter; and
+&emsp;(8) promote policies and programs at Federal, State, and local levels and in the private sector that foster independence, increase meaningful participation of individuals with mental illness in programs and activities of the Administration, and protect the legal rights of persons with mental illness, including carrying out the provisions of the Protection and Advocacy of Mentally Ill Individuals Act <sup>1</sup> \[42 U.S.C. 10801 et seq.\];
 
-&emsp;(9) carry out responsibilities for the Human Resource Development programs;
+&emsp;(9) carry out the programs under part C; and
 
-&emsp;(10) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
+&emsp;(10) carry out responsibilities for the Human Resource Development programs;
 
-&emsp;(11) establish a clearinghouse for mental health information to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
+&emsp;(11) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health and tele-mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
 
-&emsp;(12) provide technical assistance to public and private entities that are providers of mental health services;
+&emsp;(12) disseminate mental health information, including evidence-based practices, to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
 
-&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
+&emsp;(13) provide technical assistance to public and private entities that are providers of mental health services;
 
-&emsp;(14) conduct surveys with respect to mental health, such as the National Reporting Program; and
+&emsp;(14) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
 
-&emsp;(15) assist States in improving their mental health data collection.
+&emsp;(15) conduct surveys with respect to mental health, such as the National Reporting Program;
+
+&emsp;(16) assist States in improving their mental health data collection; and
+
+&emsp;(17) ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded.
 
 #### (c) Grants and contracts
 
-In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §520, as added Pub. L. 102–321, title I, §115(a), July 10, 1992, 106 Stat. 346; amended Pub. L. 106–310, div. B, title XXXI, §3112(c), Oct. 17, 2000, 114 Stat. 1188.)
+(July 1, 1944, ch. 373, title V, §520, as added Pub. L. 102–321, title I, §115(a), July 10, 1992, 106 Stat. 346; amended Pub. L. 106–310, div. B, title XXXI, §3112(c), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 114–255, div. B, title VI, §6007(a), Dec. 13, 2016, 130 Stat. 1212.)
 
 #### References in Text
 
-The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(7), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(8), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
-The Community Mental Health Centers Act, referred to in subsec. (b)(13), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
+The Community Mental Health Centers Act, referred to in subsec. (b)(14), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
 #### Prior Provisions
 
@@ -62,9 +66,35 @@ Another prior section 520 of act July 1, 1944, was renumbered section 519 by Pub
 
 #### Amendments
 
+<b>2016</b>—Subsec. (b)(3). Pub. L. 114–255, §6007(a)(2), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 114–255, §6007(a)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 114–255, §6007(a)(1), (3), redesignated par. (4) as (5) and inserted ", including through programs that reduce risk and promote resiliency" before semicolon. Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 114–255, §6007(a)(1), (4), redesignated par. (5) as (6) and inserted "in collaboration with the Director of the National Institute of Mental Health," before "develop". Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 114–255, §6007(a)(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (b)(8). Pub. L. 114–255, §6007(a)(1), (5), redesignated par. (7) as (8) and inserted ", increase meaningful participation of individuals with mental illness in programs and activities of the Administration," before "and protect the legal". Former par. (8) redesignated (9).
+
+Subsec. (b)(9). Pub. L. 114–255, §6007(a)(1), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Subsec. (b)(10). Pub. L. 114–255, §6007(a)(6), which directed substitution of "health paraprofessional personnel and health professionals" for "professional and paraprofessional personnel pursuant to section 242a of this title", could not be executed because those words did not appear subsequent to amendment by Pub. L. 106–310, §3112(c)(4). See 2006 Amendment note below.
+
+Pub. L. 114–255, §6007(a)(1), redesignated par. (9) as (10). Former par. (10) redesignated (11).
+
+Subsec. (b)(11). Pub. L. 114–255, §6007(a)(1), (7), redesignated par. (10) as (11) and inserted "and tele-mental health" after "rural mental health". Former par. (11) redesignated (12).
+
+Subsec. (b)(12). Pub. L. 114–255, §6007(a)(1), (8), redesignated par. (11) as (12) and substituted "disseminate mental health information, including evidence-based practices," for "establish a clearinghouse for mental health information to assure the widespread dissemination of such information". Former par. (12) redesignated (13).
+
+Subsec. (b)(13) to (16). Pub. L. 114–255, §6007(a)(1), redesignated pars. (12) to (15) as (13) to (16), respectively.
+
+Subsec. (b)(17). Pub. L. 114–255, §6007(a)(9)–(11), added par. (17).
+
 <b>2000</b>—Subsec. (b)(3) to (7). Pub. L. 106–310, §3112(c)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted "programs under part C of this subchapter" for "programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs". Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 106–310, §3112(c)(1), (3), redesignated par. (7) as (8) and substituted "programs under part C" for "programs authorized under sections 290bb–32 and 290cc–21 of this title, including the Community Support Program and the Child and Adolescent Service System Programs". Former par. (8) redesignated (9).
 
 Subsec. (b)(9). Pub. L. 106–310, §3112(c)(4), which directed the amendment of par. (9) by substituting "programs" for "program and programs of clinical training for professional and paraprofessional personnel pursuant to section 242a of this title" was executed by making the substitution for the phrase which began with the words "program, and programs", to reflect the probable intent of Congress.
 
@@ -78,7 +108,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 #### Mental Health Services for Individuals in Correctional Facilities
 
-Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director ofCenter for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
+Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
 
 #### Executive Order No. 13263
 

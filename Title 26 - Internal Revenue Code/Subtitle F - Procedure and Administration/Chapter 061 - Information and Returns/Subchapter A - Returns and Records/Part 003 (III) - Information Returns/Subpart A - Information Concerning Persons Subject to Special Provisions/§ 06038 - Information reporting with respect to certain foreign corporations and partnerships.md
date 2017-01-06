@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a foreign partnership, at least a 10-percent interest in such partnership; and
 
-&emsp;&emsp;(E)(i) in the case of a foreign corporation, a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any timeduring the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
+&emsp;&emsp;(E)(i) in the case of a foreign corporation, a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any time during the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
 
 &emsp;&emsp;(ii) information comparable to the information described in clause (i) in the case of a foreign partnership.
 
@@ -44,7 +44,7 @@
 
 #### (5) Information required from 10-percent partner of controlled foreign partnership
 
-&emsp;In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership, including information relating to such partner's ownership interests in the partnership and allocations to such partner of partnership items.
+&emsp;In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership, including information relating to such partner's ownership interests in the partnershipand allocations to such partner of partnership items.
 
 #### (b) Dollar penalty for failure to furnish information
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (2) Control of corporation
 
-&emsp;A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares of all classes of stock, of a corporation. If a person is in control (within the meaning of the preceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that—
+&emsp;A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares of all classes of stock, of a corporation. If a person is in control (within the meaning of thepreceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that—
 
 &emsp;&emsp;(A) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person, and
 
@@ -216,7 +216,7 @@ Subsec. (a)(3). Pub. L. 87–834 struck out provisions which related to foreign 
 
 Subsec. (b). Pub. L. 87–834, among other changes, substituted "If a United States person fails to furnish" for "If a domestic corporation fails to furnish" in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
 
-Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxableyear owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
+Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 87–834 added par. (1) which was formerly covered in part by subsec. (c) of this section, designated existing provisions as par. (2), and eliminated from par. (2) provisions which related to the annual accounting period of a foreign subsidiary.
 

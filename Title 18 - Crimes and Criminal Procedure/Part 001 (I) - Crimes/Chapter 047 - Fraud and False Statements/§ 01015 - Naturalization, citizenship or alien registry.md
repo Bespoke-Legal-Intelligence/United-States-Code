@@ -14,7 +14,7 @@
 
 Shall be fined under this title or imprisoned not more than five years, or both. Subsection (f) does not apply to an alien if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making the false statement or claim that he or she was a citizen of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title II, §215, Sept. 30, 1996, 110 Stat. 3009–572; Pub. L. 106–395, title II, §201(d)(2), Oct. 30, 2000, 114 Stat. 1635.)
+(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §215, Sept. 30, 1996, 110 Stat. 3009–572; Pub. L. 106–395, title II, §201(d)(2), Oct. 30, 2000, 114 Stat. 1635.)
 
 #### Historical and Revision Notes
 

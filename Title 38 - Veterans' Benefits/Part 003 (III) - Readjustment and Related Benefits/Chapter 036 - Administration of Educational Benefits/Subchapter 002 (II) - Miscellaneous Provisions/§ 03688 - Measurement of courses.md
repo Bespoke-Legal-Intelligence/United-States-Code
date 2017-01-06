@@ -18,7 +18,7 @@
 
 (b) The Secretary shall define part-time training in the case of the types of courses referred to in subsection (a), and shall define full-time and part-time training in the case of all other types of courses pursued under this chapter, chapter 30, 32, 33, or 35 of this title, or chapter 106 of title 10.
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1086, §1788; amended Pub. L. 93–508, title II, §211, Dec. 3, 1974, 88 Stat. 1585; Pub. L. 94–502, title V, §509(a), Oct. 15, 1976, 90 Stat. 2400; Pub. L. 95–202, title III, §304(a)(3), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, §345, title VI, §601(f), Oct. 17, 1980, 94 Stat. 2199, 2208; Pub. L. 97–295, §4(58), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 99–576, title III, §315(a)(2), (b), Oct. 28, 1986, 100 Stat. 3274; Pub. L. 100–322, title III, §321(a), May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, §§413(a), 417, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; renumbered §3688 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(a), Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §607, title XII, §1201(e)(12), Nov. 2, 1994, 108 Stat. 4672, 4685; Pub. L. 110–252, title V, §5003(b)(2)(A)(ii), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1086, §1788; amended Pub. L. 93–508, title II, §211, Dec. 3, 1974, 88 Stat. 1585; Pub. L. 94–502, title V, §509(a), Oct. 15, 1976, 90 Stat. 2400; Pub. L. 95–202, title III, §304(a)(3), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title III, §345, title VI, §601(f), Oct. 17, 1980, 94 Stat. 2199, 2208; Pub. L. 97–295, §4(58), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 99–576, title III, §315(a)(2), (b), Oct. 28, 1986, 100 Stat. 3274; Pub. L. 100–322, title III, §321(a), May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, §§413(a), 417, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; renumbered §3688 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat.406; Pub. L. 102–568, title III, §316(a), Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §607, title XII, §1201(e)(12), Nov. 2, 1994, 108 Stat. 4672, 4685; Pub. L. 110–252, title V, §5003(b)(2)(A)(ii), June 30, 2008, 122 Stat. 2375.)
 
 #### Prior Provisions
 
@@ -110,7 +110,7 @@ Pub. L. 100–322, title III, §321(b), May 20, 1988, 102 Stat. 535, provided th
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 345 of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided,see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by section 345 of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 Amendment by section 601(f) of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 

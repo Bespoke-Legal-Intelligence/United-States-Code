@@ -30,7 +30,7 @@ A prior section 390f, Pub. L. 88–74, §6, formerly §7, July 22, 1963, 77 Stat
 
 A prior section 390g, Pub. L. 88–74, §8, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995, related to ascertainment of the amount of the allocation to which each institution was entitled and written notification to each such institution, prior to repeal by Pub. L. 99–198, title XIV, §1411(h), Dec. 23, 1985, 99 Stat. 1548.
 
-A prior section 390h, Pub. L. 88–74, §7, formerly §9, July 22, 1963, 77 Stat. 91; Pub. L. 94–273, §7(1), Apr. 21,1976, 90 Stat. 378; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §7 and amended Pub. L. 99–198, title XIV, §1411(i), (k), Dec. 23, 1985, 99 Stat. 1548, related to fiscal accountability, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390h, Pub. L. 88–74, §7, formerly §9, July 22, 1963, 77 Stat. 91; Pub. L. 94–273, §7(1), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §7 and amended Pub. L. 99–198, title XIV, §1411(i), (k), Dec. 23, 1985, 99 Stat. 1548, related to fiscal accountability, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 390i, Pub. L. 88–74, §8, formerly §10, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §8 and amended Pub. L. 99–198, title XIV, §1411(j), (k), Dec. 23, 1985, 99 Stat. 1548, directed Secretary to submit annual reports to Congress with respect to research facility payments, prior to repeal by Pub. L. 104–66, title I, §1011(w), Dec. 21, 1995, 109 Stat. 711.
 

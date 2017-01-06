@@ -14,7 +14,7 @@ Section 3796j, Pub. L. 90–351, title I, §1303, as added Pub. L. 99–570, tit
 
 Section 3796k, Pub. L. 90–351, title I, §1304, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–43, related to review of applications to receive drug law enforcement program grants.
 
-Section 3796l, Pub. L. 90–351, title I, §1305, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat.3207–43, related to allocation and distribution of funds under formula drug law enforcement grants.
+Section 3796l, Pub. L. 90–351, title I, §1305, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–43, related to allocation and distribution of funds under formula drug law enforcement grants.
 
 Section 3796m, Pub. L. 90–351, title I, §1306, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–44, required each State and unit of local government receiving drug law enforcement grants to report each year to the Director and required Director to report annually to Congress.
 

@@ -4,7 +4,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term "armed forces education liabilities" means liabilities of the armed forces for benefits under chapter 30 or 33 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapters 1606 and 1607 of this title, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy.
+&emsp;(1) The term "armed forces education liabilities" means liabilities of the armed forces for benefits under chapter 30 or 33 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapters 1606 and 1607 of this title, including funds provided by the Secretary of HomelandSecurity for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy.
 
 &emsp;(2) The term "normal cost", with respect to any period of time, means the total of the following:
 

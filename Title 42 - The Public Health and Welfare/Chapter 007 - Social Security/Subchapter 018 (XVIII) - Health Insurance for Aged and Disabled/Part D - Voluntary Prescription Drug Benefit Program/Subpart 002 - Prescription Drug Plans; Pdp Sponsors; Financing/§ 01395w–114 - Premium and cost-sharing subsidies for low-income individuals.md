@@ -58,7 +58,7 @@
 
 #### (E) Reduction of cost-sharing above annual out-of-pocket threshold
 
-&emsp;&emsp;Subject to subsection (c) of this section, the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+&emsp;&emsp;Subject to subsection (c), the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
 
 #### (3) Determination of eligibility
 
@@ -76,7 +76,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The determination of whether a part D eligible individual residing in a State is a subsidy eligible individual and whether the individual is described in paragraph (1) shall be determined under the State plan under subchapter XIX of this chapter for the State under section 1396u–5(a) of this title or by the Commissioner of Social Security. There are authorized to be appropriated to the Social Security Administration such sums as may be necessary for the determination of eligibility under this subparagraph.
+&emsp;&emsp;&emsp;The determination of whether a part D eligible individual residing in a State is a subsidy eligible individual and whether the individual is described in paragraph (1) shall be determined under the State plan under subchapter XIX for the State under section 1396u–5(a) of this title or by the Commissioner of Social Security. There are authorized to be appropriated to the Social Security Administration such sums as may be necessary for the determination of eligibility under this subparagraph.
 
 #### (ii) Effective period
 
@@ -84,7 +84,7 @@
 
 #### (iii) Redeterminations and appeals through medicaid
 
-&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX of this chapter, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
 
 #### (iv) Redeterminations and appeals through Commissioner
 
@@ -100,9 +100,9 @@
 
 &emsp;&emsp;&emsp;Subject to subparagraph (F), the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall provide that part D eligible individuals who are full-benefit dual eligible individuals (as defined in section 1396u–5(c)(6) of this title) or who are recipients of supplemental security income benefits under subchapter XVI of this chapter shall be treated as subsidy eligible individuals described in paragraph (1); and
+&emsp;&emsp;&emsp;&emsp;(I) shall provide that part D eligible individuals who are full-benefit dual eligible individuals (as defined in section 1396u–5(c)(6) of this title) or who are recipients of supplemental security income benefits under subchapter XVI shall be treated as subsidy eligible individuals described in paragraph (1); and
 
-&emsp;&emsp;&emsp;&emsp;(II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX of this chapter to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
+&emsp;&emsp;&emsp;&emsp;(II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
 
 &emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(ii) the term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
-> &emsp;&emsp;Nothing in clause (i) shall be construed to affect the application of section 1396a(r)(2) of this title for the determination of eligibility for medical assistance under subchapter XIX of this chapter.
+> &emsp;&emsp;Nothing in clause (i) shall be construed to affect the application of section 1396a(r)(2) of this title for the determination of eligibility for medical assistance under subchapter XIX.
 
 #### (D) Resource standard applied to full low-income subsidy to be based on three times SSI resource standard
 
@@ -236,7 +236,7 @@
 
 &emsp;The Secretary shall provide a process whereby, in the case of a part D eligible individual who is determined to be a subsidy eligible individual and who is enrolled in a prescription drug plan or is enrolled in an MA–PD plan—
 
-&emsp;&emsp;(A) the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a) of this section;
+&emsp;&emsp;(A) the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a);
 
 &emsp;&emsp;(B) the sponsor or organization involved reduces the premiums or cost-sharing otherwise imposed by the amount of the applicable subsidy and submits to the Secretary information on the amount of such reduction;
 
@@ -244,7 +244,7 @@
 
 &emsp;&emsp;(D) the Secretary ensures the confidentiality of individually identifiable information.
 
-> &emsp;In applying subparagraph (C), the Secretary shall compute reductions based upon imposition under subsections (a)(1)(D) and (a)(2)(E) of this section of unreduced copayment amounts applied under such subsections.
+> &emsp;In applying subparagraph (C), the Secretary shall compute reductions based upon imposition under subsections (a)(1)(D) and (a)(2)(E) of unreduced copayment amounts applied under such subsections.
 
 #### (2) Use of capitated form of payment
 
@@ -296,7 +296,7 @@ Subsec. (a)(3)(G). Pub. L. 110–275, §116(a)(4), added subpar. (G).
 
 Pub. L. 111–148, title III, §3302(b), Mar. 23, 2010, 124 Stat. 468, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to premiums for months beginning on or after January 1, 2011."
 
-Amendment by section 3303(a) of Pub. L. 111–148 applicable to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011, see section 3303(c) of Pub. L. 111–148, set out as a note under section 1395w–101 of this title.
+Amendment by section 3303(a) of Pub. L. 111–148 applicable to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011, seesection 3303(c) of Pub. L. 111–148, set out as a note under section 1395w–101 of this title.
 
 Pub. L. 111–148, title III, §3304(b), Mar. 23, 2010, 124 Stat. 470, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2011."
 

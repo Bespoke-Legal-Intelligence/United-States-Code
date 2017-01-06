@@ -1,6 +1,6 @@
 ### §3527. General authority to relieve accountable officials and agents from liability
 
-(a) Except as provided in subsection (b) of this section, the Comptroller General may relieve a present or former accountable official or agent of an agency responsible for the physical loss or deficiency of public money, vouchers, checks,securities, or records, or may authorize reimbursement from an appropriation or fund available for the activity in which the loss or deficiency occurred for the amount of the loss or deficiency paid by the official or agent as restitution, when—
+(a) Except as provided in subsection (b) of this section, the Comptroller General may relieve a present or former accountable official or agent of an agency responsible for the physical loss or deficiency of public money, vouchers, checks, securities, or records, or may authorize reimbursement from an appropriation or fund available for the activity in which the loss or deficiency occurred for the amount of the loss or deficiency paid by the official or agent as restitution, when—
 
 &emsp;(1) the head of the agency decides that—
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iii) the loss or deficiency was not the result of fault or negligence by the official; or
 
-&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriate military department (or the Secretary of Homeland Security, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
+&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriate military department (or the Secretary of Homeland Security, in the case of a disbursingofficial of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
 
 (2) The finding of the Secretary involved is conclusive on the Comptroller General.
 
@@ -112,7 +112,7 @@ Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sent
 
 Pub. L. 104–106, §913(c)(4)(A), (B), in introductory provisions, substituted "an official of the armed forces referred to in subsection (a)" for "a disbursing official of the armed forces" and "records, or a payment described in section 3528(a)(4)(A) of this title," for "records,".
 
-Subsec. (b)(1)(A)(i). Pub. L. 104–201, §1009(c)(2)(A), inserted "(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)" after "Department of Defense".
+Subsec. (b)(1)(A)(i). Pub. L. 104–201, §1009(c)(2)(A), inserted "(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when theCoast Guard is not operating as a service in the Navy)" after "Department of Defense".
 
 Subsec. (b)(1)(B). Pub. L. 104–201, §1009(c)(2)(B), inserted "(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)" after "or the Secretary of the appropriate military department".
 

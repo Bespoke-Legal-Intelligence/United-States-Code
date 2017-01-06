@@ -2,7 +2,7 @@
 
 (a)
 
-Ten-Month Clearance Percentage.—Of the applications received by a Corrections Boardduring a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
+Ten-Month Clearance Percentage.—Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
 
 &nbsp;
 
@@ -47,4 +47,8 @@ Corrections Board Defined.—In this section, the term "Corrections Board" means
 <b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted "Final" for "Effective October 1, 2002, final".
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

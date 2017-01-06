@@ -12,7 +12,7 @@
 
 (b) Amounts under this section shall be payable with respect to each pay period (which would otherwise apply if the employee's civilian employment had not been interrupted)—
 
-&emsp;(1) during which such employee is entitled to re-employment rights under chapter 43 of title 38 with respect to the position from which such employee is absent (as referred to in subsection (a)); and
+&emsp;(1) during which such employee is entitled to re-employment rights under chapter 43 of title38 with respect to the position from which such employee is absent (as referred to in subsection (a)); and
 
 &emsp;(2) for which such employee does not otherwise receive basic pay (including by taking any annual, military, or other paid leave) to which such employee is entitled by virtue of such employee's civilian employment with the Government.
 
@@ -58,7 +58,7 @@
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–117, div. C, title VII, §745(b), Dec. 16, 2009, 123 Stat. 3219, provided that: "The amendments made by this section \[amending this section\] shall take effecton the first day of the first applicable pay period beginning on or after the date of the enactment of this Act \[Dec. 16, 2009\]."
+Pub. L. 111–117, div. C, title VII, §745(b), Dec. 16, 2009, 123 Stat. 3219, provided that: "The amendments made by this section \[amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after the date of the enactment of this Act \[Dec. 16, 2009\]."
 
 #### Effective Date
 

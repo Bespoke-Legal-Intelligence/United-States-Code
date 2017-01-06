@@ -60,7 +60,7 @@ For purposes of this section, the term "cooperative" means a cooperative formed 
 
 &emsp;&emsp;(B) for loans under this section, $30,000,000 for each fiscal year; and
 
-&emsp;&emsp;(C) in addition to grants provided under subparagraph (A), for grants under this section to benefit Indian tribes (as defined in section 450b of title 25), $20,000,000 for each fiscal year.
+&emsp;&emsp;(C) in addition to grants provided under subparagraph (A), for grants under this section to benefit Indian tribes (as defined in section 5304 of title 25), $20,000,000 for each fiscal year.
 
 #### (2) Exception
 

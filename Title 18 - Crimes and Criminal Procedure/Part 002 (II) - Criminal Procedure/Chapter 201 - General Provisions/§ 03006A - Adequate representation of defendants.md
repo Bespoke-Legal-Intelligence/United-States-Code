@@ -62,7 +62,7 @@ Maximum Amounts.—For representation of a defendant before the United States ma
 
 (3)
 
-Waiving Maximum Amounts.—Payment in excess of any maximum amount provided in paragraph (2) of this subsection may be made for extended or complex representation whenever the court in which the representation was rendered, or the United States magistrate judge if the representation was furnished exclusively before him, certifies that the amount of the excess payment is necessary to provide fair compensation and the payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
+Waiving Maximum Amounts.—Payment in excess of any maximum amount provided in paragraph (2) of this subsection may be made for extended or complex representation whenever the court in which the representation was rendered, or the United States magistrate judge if the representation was furnished exclusively before him, certifies that the amount of the excess payment is necessary to provide fair compensation and the payment is approved by the chiefjudge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
 (4)
 
@@ -162,7 +162,7 @@ Upon Request.—Counsel for a person who is financially unable to obtain investi
 
 (2)
 
-Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $800 and expenses reasonably incurred.
+Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessaryfor adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $800 and expenses reasonably incurred.
 
 (B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $800.
 
@@ -276,7 +276,7 @@ Subsec. (d)(2). Pub. L. 100–690, §7101(f)(2), inserted provisions at end to r
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–651, §103, made technical amendments to Pub. L. 98–473, §223(e), see 1984 Amendment note below.
 
-Pub. L. 99–651, §102(a)(1), substituted "in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:" and pars. (1) to (3) for prior provisions which read as follows: "(1) who is charged with a felony or misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation, (2) who is under arrest, when such representation is required by law, (3) who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief, as provided in subsection (g), (4) whose mental condition is the subject of a hearing pursuant to chapter 313 of this title, or (5) for whom the Sixth Amendment to the Constitution requires the appointment of counsel or for whom, in a case in which hefaces loss of liberty, any Federal law requires the appointment of counsel. Representation under each plan shall include counsel and investigative, expert, and other services necessary for an adequate defense. Each plan shall include a provision for private attorneys. The plan may include, in addition to a provision for private attorneys in a substantial proportion of cases, either of the following or both:
+Pub. L. 99–651, §102(a)(1), substituted "in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:" and pars. (1) to (3) for prior provisions which read as follows: "(1) who is charged with a felony or misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation, (2) who is under arrest, when such representation is required by law, (3) who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief, as provided in subsection (g), (4) whose mental condition is the subject of a hearing pursuant to chapter 313 of this title, or (5) for whom the Sixth Amendment to the Constitution requires the appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel. Representation under each plan shall include counsel and investigative, expert, and other services necessary for an adequate defense. Each plan shall include a provision for private attorneys. The plan may include, in addition to a provision for private attorneys in a substantial proportion of cases, either of the following or both:
 
 &emsp;"(1) attorneys furnished by a bar association or a legal aid agency; or
 
@@ -298,7 +298,7 @@ Subsec. (e)(2). Pub. L. 99–651, §102(a)(4)(B), designated existing provisions
 
 Subsec. (e)(3). Pub. L. 99–651, §102(a)(4)(C), substituted "$1,000" for "$300" and inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
-Subsec. (g). Pub. L. 99–651, §102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g) which provided for discretionary appointments by the court or magistrate.
+Subsec. (g). Pub. L. 99–651, §102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g)which provided for discretionary appointments by the court or magistrate.
 
 Subsec. (g)(2)(A), formerly (h)(2)(A). Pub. L. 99–651, §102(a)(5)(A), substituted "in accordance with section 605 of title 28" for "similarly as under title 28, United States Code, section 605, and subject to the conditions of that section", and after fourth sentence inserted provision authorizing the continuation in office, upon a majority vote of the judges of the court of appeals, of a Federal Public Defender whose term has expired until appointment of a successor or until one year after the expiration of such Defender's term, whichever is earlier.
 
@@ -332,7 +332,7 @@ Subsec. (g). Pub. L. 98–473, §405(b), struck out reference to section 4245 of
 
 Subsec. (i). Pub. L. 97–164, §206(b), substituted "court of appeals" for "judicial council".
 
-<b>1974</b>—Subsec. (l). Pub. L. 93–412 substituted "shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this Act shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals", for "shall be applicable in the District of Columbia", and struck out provisions that the plan of the District of Columbia shall be approvedjointly by the Judicial Council of the District of Columbia Circuit and the District of Columbia Court of Appeals.
+<b>1974</b>—Subsec. (l). Pub. L. 93–412 substituted "shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this Act shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals", for "shall be applicable in the District of Columbia", and struck out provisions that the plan of the District of Columbia shall be approved jointly by the Judicial Council of the District of Columbia Circuit and the District of Columbia Court of Appeals.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–447, §1(a), expanded coverage of district court plan for furnishing representation to financially disabled persons to include defendants charged with violation of probation, any person under arrest when such representation is required by law, any person who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief as provided in subsec. (g) of this section, and any person for whom the Sixth Amendment to the Constitution requires appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel, and required each plan to include a provision for participation by private attorneys in a substantial proportion of cases, as well as permitting attorneys to be furnished by bar, legal aid, or defender organizations in accordance with subsec. (h) of this section.
 
@@ -438,7 +438,7 @@ Pub. L. 91–447, §2, Oct. 14, 1970, 84 Stat. 920, provided that a United State
 
 #### Submission of Plans
 
-Pub. L. 88–455, §3, Aug. 20, 1964, 78 Stat. 554, directed each district court to submit a plan in accord with section 3006A of this title and the rules of the Judicial Conference of the United States to the judicial council of the circuit within 6 months from Aug. 20, 1964, further directed each judicial council to approve and send to the Administrative Office of the United Statescourts a plan for each district in its circuit within 9 months from Aug. 20, 1964, and also directed each district court and court of appeals to place its approved plan in operation within 1 year from Aug. 20, 1964.
+Pub. L. 88–455, §3, Aug. 20, 1964, 78 Stat. 554, directed each district court to submit a plan in accord with section 3006A of this title and the rules of the Judicial Conference of the United States to the judicial council of the circuit within 6 months from Aug. 20, 1964, further directed each judicial council to approve and send to the Administrative Office of the United States courts a plan for each district in its circuit within 9 months from Aug. 20, 1964, and also directed each district court and court of appeals to place its approved plan in operation within 1 year from Aug. 20, 1964.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -60,7 +60,7 @@
 
 &emsp;The Federal Deposit Insurance Corporation may, by regulation or order, impose restrictions or requirements on relationships or transactions between a State nonmember bank (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) and a subsidiary of the State nonmember bank that the Corporation finds are—
 
-&emsp;&emsp;(A) consistent with the purposes of this Act, the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or other Federal law applicable to State nonmember banks; and
+&emsp;&emsp;(A) consistent with the purposes of this Act, the Federal Deposit Insurance Act \[12U.S.C. 1811 et seq.\], or other Federal law applicable to State nonmember banks; and
 
 &emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 

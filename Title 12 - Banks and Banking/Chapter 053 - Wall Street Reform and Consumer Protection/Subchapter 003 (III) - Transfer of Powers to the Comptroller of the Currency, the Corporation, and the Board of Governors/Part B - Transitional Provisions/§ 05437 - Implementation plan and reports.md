@@ -2,7 +2,7 @@
 
 #### (a) Plan submission
 
-Within 180 days of July 21, 2010, the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision, shall jointly submit a plan to the Committee on Banking, Housing, andUrban Affairs of the Senate, the Committee on Financial Services of the House of Representatives, and the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors detailing the steps the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision will take to implement the provisions of sections 301 through 326,<sup>1</sup> and the provisions of the amendments made by such sections.
+Within 180 days of July 21, 2010, the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision, shall jointly submit a plan to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Financial Services of the House of Representatives, and the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors detailing the steps the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision will take to implement the provisions of sections 301 through 326,<sup>1</sup> and the provisions of the amendments made by such sections.
 
 #### (b) Inspectors General review of the plan
 
@@ -29,6 +29,10 @@ Not later than 6 months after the date on which the Committee on Banking, Housin
 #### References in Text
 
 Sections 301 through 326, referred to in subsecs. (a) and (b), are sections 301 to 326 of Pub. L. 111–203, which enacted sections 4b, 16, and 5401 to 5436 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

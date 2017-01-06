@@ -38,7 +38,7 @@
 
 #### (4) Use of funds
 
-&emsp;Any local educational agency that receives funds under this subsection shall use such funds for construction, as defined in section 7713(3) of this title.
+&emsp;Any local educational agency that receives funds under this subsection shall use suchfunds for construction, as defined in section 7713(3) of this title.
 
 #### (b) School facility emergency and modernization grants authorized
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
+&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
 
 #### (B) Modernization grants
 
@@ -96,9 +96,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
-&emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for theagency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
+&emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
-&emsp;&emsp;&emsp;&emsp;(cc) Not less than 10 percent of the property acreage in the agency is exempt from State and local taxation under Federal law.
+&emsp;&emsp;&emsp;&emsp;(cc) Not less than 10 percent of the property acreage in the agency is exemptfrom State and local taxation under Federal law.
 
 &emsp;&emsp;&emsp;(II) The agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent) is at not less than 75 percent of the agency's limit of bonded indebtedness.
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;&emsp;(iii) the agency's total tax rate for school purposes (or, if applicable, for capital expenditures) compared to the average total tax rate for school purposes (or the average capital expenditure tax rate, if applicable) in the State in which the agency is located; and
 
-&emsp;&emsp;&emsp;(iv) funds that are available to the agency, from any other source, including subsection (a) of this section, that may be used for capital expenditures.
+&emsp;&emsp;&emsp;(iv) funds that are available to the agency, from any other source, including subsection (a), that may be used for capital expenditures.
 
 &emsp;&emsp;(B) The percentage of property in the agency that is nontaxable due to the presence of the Federal Government.
 

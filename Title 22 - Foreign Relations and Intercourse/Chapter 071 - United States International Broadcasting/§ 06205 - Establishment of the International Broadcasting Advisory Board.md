@@ -1,0 +1,90 @@
+### §6205. Establishment of the International Broadcasting Advisory Board
+
+#### (a) In general
+
+Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the "Advisory Board") shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate.
+
+#### (b) Retention of existing BBG Board Members
+
+#### (1) In general
+
+&emsp;The presidentially appointed and Senate-confirmed members of the Board of the Broadcasting Board of Governors who are serving on unexpired terms as of December 23, 2016, shall—
+
+&emsp;&emsp;(A) constitute the first Advisory Board; and
+
+&emsp;&emsp;(B) hold office for the remainder of their original terms of office without reappointment to the Advisory Board.
+
+#### (2) Effect of additional members
+
+&emsp;If, on December 23, 2016, more than five members described in subsection (a) are serving their original terms of office on the Broadcasting Board of Governors, each such member may serve on the Advisory Board for a period equal to the time remaining on each such member's respective term without reappointment.
+
+#### (c) Terms of office
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the term of office of each member of the Advisory Board appointed pursuant to subsection (a) shall be three years.
+
+#### (2) Vacancies
+
+&emsp;If a vacancy on the Advisory Board occurs before the expiration of the term of the member who created such vacancy—
+
+&emsp;&emsp;(A) the President shall appoint a new member to fill such vacancy in accordance with subsection (d); and
+
+&emsp;&emsp;(B) the member appointed pursuant to such subsection shall serve for the remainder of such term.
+
+#### (3) Service beyond term prohibited
+
+&emsp;Members may not serve beyond the term for which they were appointed.
+
+#### (d) Selection of the Board
+
+In identifying individuals for appointment to the Advisory Board under subsection (a), the President shall appoint United States citizens—
+
+&emsp;(1) who, with the exception of the Secretary of State, are not regular, full-time employees of the United States Government; and
+
+&emsp;(2) distinguished in the fields of public diplomacy, mass communications, print, broadcast or digital media, or foreign affairs, of whom—
+
+&emsp;&emsp;(A) one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Affairs of the House of Representatives;
+
+&emsp;&emsp;(B) one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Affairs of the House of Representatives;
+
+&emsp;&emsp;(C) one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;(D) one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Relations of the Senate.
+
+#### (e) Functions of the Board
+
+The members of the Advisory Board shall perform the following advisory functions:
+
+&emsp;(1) To provide the Chief Executive Officer of the Broadcasting Board of Governors with counsel and recommendations for improving the effectiveness and efficiency of the agency and its programming.
+
+&emsp;(2) To meet with the Chief Executive Officer at least twice annually and at additional meetings at the request of the Chief Executive Officer.
+
+&emsp;(3) To report periodically or upon request to the congressional committees specified in subsection (d)(2) regarding its counsel and recommendations for improving the effectiveness and efficiency of the Broadcasting Board of Governors and its programming.
+
+&emsp;(4) To obtain information from the Chief Executive Officer, as needed, for the purposes of fulfilling the functions described in this subsection.
+
+#### (f) Compensation
+
+Members of the Advisory Board, including the Secretary of State, may not receive any fee, salary, or remuneration of any kind for their service as members.
+
+(Pub. L. 103–236, title III, §306, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(j), Oct. 21, 1998, 112 Stat. 2681–780; Pub. L. 114–328, div. A, title XII, §1288(3), Dec. 23, 2016, 130 Stat. 2551.)
+
+#### References in Text
+
+December 23, 2016, referred to in subsec. (b), was in the original "the date of the enactment of this section", which was translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2016</b>—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the role of the Secretary of State in international broadcasting.
+
+<b>1998</b>—Pub. L. 105–277, §1323(j)(1), substituted "Role of Secretary of State" for "Foreign policy guidance" in section catchline.
+
+Subsec. (a). Pub. L. 105–277, §1323(j)(2)–(4), designated existing provisions as subsec. (a), inserted heading, substituted "State" for "State, acting through the Director of the United States Information Agency,", and inserted before period at end ", as the Secretary may deem appropriate".
+
+Subsec. (b). Pub. L. 105–277, §1323(j)(5), added subsec. (b).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever the United States is a party before a dispute settlement panel established pursuant to Article 6 of the Dispute Settlement Understanding, the Trade Representative shall, at each stage of the proceeding before the panel or the Appellate Body, consult with the appropriate congressional committees, the petitioner (if any) under section 2412(a) of this title with respect to the matter that is the subject of the proceeding, and relevant private sector advisory committees established under section 2155 of this title, and shall consider the views of representatives of appropriate interested private sector and nongovernmental organizations concerning the matter.
+Whenever the United States is a party before a dispute settlement panel established pursuantto Article 6 of the Dispute Settlement Understanding, the Trade Representative shall, at each stage of the proceeding before the panel or the Appellate Body, consult with the appropriate congressional committees, the petitioner (if any) under section 2412(a) of this title with respect to the matter that is the subject of the proceeding, and relevant private sector advisory committees established under section 2155 of this title, and shall consider the views of representatives of appropriate interested private sector and nongovernmental organizations concerning the matter.
 
 #### (b) Notice and public comment
 
@@ -18,7 +18,7 @@ In any proceeding described in subsection (a), the Trade Representative shall—
 
 &emsp;&emsp;(D) seeking written comments from the public concerning the issues raised in the dispute; and
 
-&emsp;(2) take into account any advice received from appropriate congressional committeesand relevant private sector advisory committees referred to in subsection (a), and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
+&emsp;(2) take into account any advice received from appropriate congressional committees and relevant private sector advisory committees referred to in subsection (a), and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
 
 #### (c) Access to documents
 

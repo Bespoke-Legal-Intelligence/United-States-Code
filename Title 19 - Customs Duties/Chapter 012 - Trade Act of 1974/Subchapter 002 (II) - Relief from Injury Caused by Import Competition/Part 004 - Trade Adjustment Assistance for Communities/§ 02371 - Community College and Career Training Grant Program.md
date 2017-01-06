@@ -30,7 +30,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An eligible institution seeking to receive a grant under this section shall submit a grant proposal to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible institution seeking to receive a grant under this section shall submit a grantproposal to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Guidelines
 
@@ -116,7 +116,7 @@ Not later than December 15, 2009, and annually thereafter, the Secretary shall s
 
 &emsp;&emsp;(D) The percentage of workers receiving benefits under part 2 that are served by programs developed, offered, or improved using grants awarded under this section.
 
-&emsp;&emsp;(E) The percentage and number of workers receiving benefits under part 2 who obtained a degree through such programs and the average duration of the participation of suchworkers in training under section 2296 of this title.
+&emsp;&emsp;(E) The percentage and number of workers receiving benefits under part 2 who obtained a degree through such programs and the average duration of the participation of such workers in training under section 2296 of this title.
 
 &emsp;&emsp;(F) The number of workers receiving benefits under part 2 served by such programs who did not complete a degree and the average duration of the participation of such workers in training under section 2296 of this title.
 

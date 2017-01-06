@@ -32,7 +32,7 @@
 
 &emsp;(15) establish, install, abandon, re-establish, reroute, operate, maintain, repair, purchase, or lease such telephone and telegraph lines and cables, together with all facilities, apparatus, equipment, structures, appurtenances, accessories, and supplies used or useful in connection with the installation, operation, maintenance, or repair of such lines and cables, including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration, and acquire such real property rights of way, easements, or attachment privileges as may be required for the installation, operation, and maintenance of such lines, cables, and equipment;
 
-&emsp;(16) establish, install, abandon, reestablish, change the location of, operate, maintain, andrepair radio transmitting and receiving stations;
+&emsp;(16) establish, install, abandon, reestablish, change the location of, operate, maintain, and repair radio transmitting and receiving stations;
 
 &emsp;(17) provide medical and dental care for personnel entitled thereto by law or regulation, including care in private facilities;
 
@@ -50,9 +50,11 @@
 
 &emsp;(22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
-&emsp;(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery; and
+&emsp;(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery;
 
-&emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
+&emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate; and
+
+&emsp;(25) enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system.
 
 (b)(1) Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
@@ -122,17 +124,15 @@ Authority.—The Commandant may lease under subsection (a)(13) submerged lands a
 
 Limitation.—The Commandant may lease submerged lands and tidelands under paragraph (1) only if—
 
-&emsp;&emsp;(A) lease payments are—
+&emsp;&emsp;(A) the lease is for cash exclusively;
 
-&emsp;&emsp;&emsp;(i) received exclusively in the form of cash;
+&emsp;&emsp;(B) the lease amount is equal to the fair market value of the use of the leased submerged lands or tidelands for the period during which such lands are leased, as determined by the Commandant;
 
-&emsp;&emsp;&emsp;(ii) equal to the fair market value of the use of the leased submerged lands or tidelands for the period during which such lands are leased, as determined by the Commandant; and
+&emsp;&emsp;(C) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands and tidelands, or obtain goods and services from the lessee; and
 
-&emsp;&emsp;&emsp;(iii) deposited in the fund established under section 687; and
+&emsp;&emsp;(D) proceeds from the lease are deposited in the Coast Guard Housing Fund established under section 687.
 
-&emsp;&emsp;(B) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands or tidelands, or obtain goods or services from the lessee.
-
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038; Pub. L. 114–120, title II, §209(4), title VI, §610(b), Feb. 8, 2016, 130 Stat. 40, 85.)
 
 #### Historical and Revision Notes
 
@@ -140,7 +140,7 @@ This section grants powers to the Commandant concerning, in general, operations 
 
 Subsection (a) is derived from title 14, U.S.C., 1946 ed., §53, and title 34, U.S.C., 1946 ed., §471 (R.S. 1536). The authority to order vessels to cruise along the coasts should be in the operational head of the Service, and not in the President. This section is changed to cover adequately the necessary present day cruising and patrolling.
 
-Subsection (b) is derived from R.S. 4242 and title 14, U.S.C., 1946 ed., §§29, 93, 94, 95, 97, 98a (R.S. 4245, 4249; May 4, 1882, ch. 117, §§2, 3, 22 Stat. 56; Aug. 29, 1916, ch. 417, 39 Stat. 601; Aug. 6, 1947, ch. 502, 61 Stat. 786; June 6, 1940, ch. 257, §4, 54 Stat. 247), and specifically grants to the Commandant authority in regard to the establishment, discontinuance, and change of Coast Guard shore establishments other than Coast Guard districts. This power must exist inherently in order for the Service to function efficiently.
+Subsection (b) is derived from R.S. 4242 and title 14, U.S.C., 1946 ed., §§29, 93, 94, 95, 97, 98a (R.S. 4245, 4249; May 4, 1882, ch. 117, §§2, 3, 22 Stat. 56; Aug. 29, 1916, ch.417, 39 Stat. 601; Aug. 6, 1947, ch. 502, 61 Stat. 786; June 6, 1940, ch. 257, §4, 54 Stat. 247), and specifically grants to the Commandant authority in regard to the establishment, discontinuance, and change of Coast Guard shore establishments other than Coast Guard districts. This power must exist inherently in order for the Service to function efficiently.
 
 Subsection (c) is derived from title 14, U.S.C., 1946 ed., §§54, 97, 112 (May 4, 1882, ch. 117, §3, 22 Stat. 56; May 30, 1908, ch. 231, 35 Stat. 553; Apr. 21, 1910, ch. 182, §2, 36 Stat. 326), and specifically grants to the Commandant authority in regard to the assignment of vessels, vehicles, aids to navigation, and other equipment. This power is inherent to the proper functioning of any Service.
 
@@ -166,7 +166,7 @@ Subsection (l) is new and is deemed desirable in order to give legislative autho
 
 Subsection (m) is based on title 14, U.S.C., 1946 ed., §§110, 192 (June 20, 1874, ch. 344, §6, 18 Stat. 127; June 18, 1878, ch. 265, §10, 20 Stat. 165; July 3, 1926, ch. 742, §9, 44 Stat. 817). The power to accept volunteer services is enlarged to include all services offered in time of emergency, to save life or protect property, and the restrictive provisions relating to lifeboat stations only have been eliminated.
 
-Subsection (n) is new and grants authority to the Commandant to lease real property under the control of the Coast Guard, when not immediately needed inCoast Guard operations. Such authority will be advantageous to the Government, on the basis of past experience.
+Subsection (n) is new and grants authority to the Commandant to lease real property under the control of the Coast Guard, when not immediately needed in Coast Guard operations. Such authority will be advantageous to the Government, on the basis of past experience.
 
 Subsection (o) is new and is supplementary to subsection (n) of this section. It grants further authority to the Commandant permitting him to grant minor interests in land which is under control of the Coast Guard. This will avoid the necessity of special acts of Congress in each of such instances.
 
@@ -183,6 +183,10 @@ Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2
 The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(25). Pub. L. 114–120, §610(b), added par. (25).
+
+Subsec. (f)(2). Pub. L. 114–120, §209(4), added par. (2) and struck out former par. (2) which related to limitation on leasing of tidelands and submerged lands.
 
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–281, §206(a), substituted "and investigate" for ", investigate" and struck out ", and cooperate and coordinate such activities with other Government agencies and with private agencies" before semicolon at end.
 
@@ -247,6 +251,14 @@ Subsec. (p). Act Aug. 3, 1950, substituted "; and" for the period at end.
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Days Away From Homeport
+
+Pub. L. 114–120, title II, §204(c), Feb. 8, 2016, 130 Stat. 35, provided that: "Not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Commandant of the Coast Guard shall—
+
+&emsp;"(1) implement a standard for tracking operational days at sea for Coast Guard cutters that does not include days during which such cutters are undergoing maintenance or repair; and
+
+&emsp;"(2) notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the standard implemented under paragraph (1)."
 
 #### Report on Sexual Assaults in the Coast Guard
 

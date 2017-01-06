@@ -12,6 +12,10 @@
 
 <b>1985</b>—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining "budget".
 
+#### Effective Date
+
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
+
 #### Commission's First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 
 Pub. L. 98–63, title I, §908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
@@ -36,7 +40,7 @@ The Commission's report, submitted to me on December 14, 1988, documented both t
 
 The Commission found that Federal executives and legislators have experienced a decline of approximately 35 percent in real salaries since 1969. In contrast, the salaries of General Schedule employees have declined by only 8 percent over the same period. The Commission's recommendations go a long way towards compensating for this salary erosion, but they do not make up the full gap. For example, for an official at Executive Level II, which is also the Congressional salary rate, the salary level adjusted for inflation since 1969 would be $140,340, while the Commission's recommendation is $135,000.
 
-Every one of the Commissions that has met over the past 20 years concluded that a pay increase for keyFederal officials was necessary. Each Commission found that pay for senior Government officials fell far behind that of their counterparts in the private sector. They also surmised that we cannot afford a Government composed primarily of those wealthy enough to serve.
+Every one of the Commissions that has met over the past 20 years concluded that a pay increase for key Federal officials was necessary. Each Commission found that pay for senior Government officials fell far behind that of their counterparts in the private sector. They also surmised that we cannot afford a Government composed primarily of those wealthy enough to serve.
 
 In accepting the Commission's salary recommendations, I recognize that we are under a mandate to reduce the Federal deficit and hold the costs of Government to an absolute minimum. Thus, while I have decided to propose a pay increase that accepts in full the salary recommendations made by the Commissioners in their report to me last month, this proposal will not increase the deficit; the funding for the pay increase will be fully absorbed within proposed budget levels.
 

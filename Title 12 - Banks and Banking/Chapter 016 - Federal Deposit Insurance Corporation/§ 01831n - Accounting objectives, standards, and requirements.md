@@ -24,7 +24,7 @@
 
 #### (3) Review and implementation of accounting principles required
 
-&emsp;Before the end of the 1-year period beginning on December 19, 1991, each appropriate Federalbanking agency shall take the following actions:
+&emsp;Before the end of the 1-year period beginning on December 19, 1991, each appropriate Federal banking agency shall take the following actions:
 
 #### (A) Review of accounting principles
 

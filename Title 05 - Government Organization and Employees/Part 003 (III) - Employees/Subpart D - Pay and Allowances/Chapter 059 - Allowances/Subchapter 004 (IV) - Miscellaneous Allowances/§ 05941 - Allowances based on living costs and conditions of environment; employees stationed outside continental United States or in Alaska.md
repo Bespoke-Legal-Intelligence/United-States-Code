@@ -32,7 +32,7 @@
 
 (3) No allowance rate computed under paragraph (2) may be less than zero.
 
-(4) Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
+(4) Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-basedcomparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
 
 (d) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
 
@@ -62,7 +62,7 @@ The word "allowances" is substituted for "additional compensation" as a more apt
 
 In subsection (a), the words "Executive agency" are substituted for "executive departments, independent establishments, and wholly owned Government corporations" in view of the definition of "Executive agency" in section 105. The exception of a "Government controlled corporation" is added to preserve the application to "wholly owned Government corporation".
 
-Subsection (b) is based on the second proviso of former section 118h and is restated to reflect the provisions of sections 511(b), (c)(7) and 521 of the Act of Sept.6, 1960, Pub. L. 86–707, 74 Stat. 800–802. The reference to section 204 of the Act of Apr. 20, 1948, is omitted as obsolete, since the section was applicable only to fiscal year 1949.
+Subsection (b) is based on the second proviso of former section 118h and is restated to reflect the provisions of sections 511(b), (c)(7) and 521 of the Act of Sept. 6, 1960, Pub. L. 86–707, 74 Stat. 800–802. The reference to section 204 of the Act of Apr. 20, 1948, is omitted as obsolete, since the section was applicable only to fiscal year 1949.
 
 The last proviso of former section 118h which provided the effective date of the section is omitted as executed.
 
@@ -190,7 +190,7 @@ Additional Living Cost Compensation. The Office of Personnel Management shall fr
 
 Sec. 206.
 
-Coordination. The Office of Personnel Management shall define the extent to which and the conditions under which an employee serving within the non-foreign areas may receive both a non-foreign area postdifferential and a non-foreign area cost-of-living allowance, pursuant to section 207 of the Act. In carrying out its functions under this Part the Office may take due notice if any special allowances, other than under section 207 of the act, granted to personnel employed by the United States in non-foreign areas.
+Coordination. The Office of Personnel Management shall define the extent to which and the conditions under which an employee serving within the non-foreign areas may receive both a non-foreign area post differential and a non-foreign area cost-of-living allowance, pursuant to section 207 of the Act. In carrying out its functions under this Part the Office may take due notice if any special allowances, other than under section 207 of the act, granted to personnel employed by the United States in non-foreign areas.
 
 Sec. 207.
 

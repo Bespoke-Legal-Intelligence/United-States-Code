@@ -2,19 +2,19 @@
 
 #### (a) Subsidy payment
 
-In order to reduce premium levels applicable to qualified prescription drug coverage for part D eligible individuals consistent with an overall subsidy level of 74.5 percent for basic prescription drug coverage, to reduce adverse selection among prescription drug plans and MA–PD plans, and to promote the participation of PDP sponsors under this part and MA organizations under part C of this subchapter, the Secretary shall provide for payment to a PDP sponsor that offers a prescription drug plan and an MA organization that offers an MA–PD plan of the following subsidies in accordance with this section:
+In order to reduce premium levels applicable to qualified prescription drug coverage for part D eligible individuals consistent with an overall subsidy level of 74.5 percent for basic prescription drug coverage, to reduce adverse selection among prescription drug plans and MA–PD plans, and to promote the participation of PDP sponsors under this part and MA organizations under part C, the Secretary shall provide for payment to a PDP sponsor that offers a prescription drug plan and an MA organization that offers an MA–PD plan of the following subsidies in accordance with this section:
 
 #### (1) Direct subsidy
 
 &emsp;A direct subsidy for each part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a month equal to—
 
-&emsp;&emsp;(A) the amount of the plan's standardized bid amount (as defined in section 1395w–113(a)(5) of this title), adjusted under subsection (c)(1) of this section, reduced by
+&emsp;&emsp;(A) the amount of the plan's standardized bid amount (as defined in section 1395w–113(a)(5) of this title), adjusted under subsection (c)(1), reduced by
 
 &emsp;&emsp;(B) the base beneficiary premium (as computed under paragraph (2) of section 1395w–113(a) of this title and as adjusted under paragraph (1)(B) of such section).
 
 #### (2) Subsidy through reinsurance
 
-&emsp;The reinsurance payment amount (as defined in subsection (b) of this section).
+&emsp;The reinsurance payment amount (as defined in subsection (b)).
 
 > This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Secretary to provide for the payment of amounts provided under this section.
 
@@ -26,7 +26,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (2) Allowable reinsurance costs
 
-&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by anMA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
 
 #### (3) Gross covered prescription drug costs
 
@@ -42,7 +42,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) Establishment of risk adjustors
 
-&emsp;&emsp;The Secretary shall establish an appropriate methodology for adjusting the standardized bid amount under subsection (a)(1)(A) of this section to take into account variation in costs for basic prescription drug coverage among prescription drug plans and MA–PD plans based on the differences in actuarial risk of different enrollees being served. Any such risk adjustment shall be designed in a manner so as not to result in a change in the aggregate amounts payable to such plans under subsection (a)(1) of this section and through that portion of the monthly beneficiary prescription drug premiums described in subsection (a)(1)(B) of this section and MA monthly prescription drug beneficiary premiums.
+&emsp;&emsp;The Secretary shall establish an appropriate methodology for adjusting the standardized bid amount under subsection (a)(1)(A) to take into account variation in costs for basic prescription drug coverage among prescription drug plans and MA–PD plans based on the differences in actuarial risk of different enrollees being served. Any such risk adjustment shall be designed in a manner so as not to result in a change in the aggregate amounts payable to such plans under subsection (a)(1) and through that portion of the monthly beneficiary prescription drug premiums described in subsection (a)(1)(B) and MA monthly prescription drug beneficiary premiums.
 
 #### (B) Considerations
 
@@ -84,7 +84,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) Requirement
 
-&emsp;&emsp;Payments under this section to a PDP sponsor or MA organization are conditionedupon the furnishing to the Secretary, in a form and manner specified by the Secretary, of such information as may be required to carry out this section.
+&emsp;&emsp;Payments under this section to a PDP sponsor or MA organization are conditioned upon the furnishing to the Secretary, in a form and manner specified by the Secretary, of such information as may be required to carry out this section.
 
 #### (B) Restriction on use of information
 
@@ -104,11 +104,11 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "adjusted allowable risk corridor costs" means, for a plan for a coverage year (as defined in subsection (b)(4) of this section)—
+&emsp;&emsp;For purposes of this subsection, the term "adjusted allowable risk corridor costs" means, for a plan for a coverage year (as defined in subsection (b)(4))—
 
 &emsp;&emsp;&emsp;(i) the allowable risk corridor costs (as defined in subparagraph (B)) for the plan for the year, reduced by
 
-&emsp;&emsp;&emsp;(ii) the sum of (I) the total reinsurance payments made under subsection (b) of this section to the sponsor of the plan for the year, and (II) the total subsidy payments made under section 1395w–114 of this title to the sponsor of the plan for the year.
+&emsp;&emsp;&emsp;(ii) the sum of (I) the total reinsurance payments made under subsection (b) to the sponsor of the plan for the year, and (II) the total subsidy payments made under section 1395w–114 of this title to the sponsor of the plan for the year.
 
 #### (B) Allowable risk corridor costs
 
@@ -146,7 +146,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (i) Costs between first and second threshold lower limits
 
-&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are less than the first threshold lower limit, but not less than the second threshold lower limit, of the risk corridor for the plan for the year, the Secretary shall reduce the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount (or otherwise recover from the sponsor or organization an amount) equal to 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit of the risk corridor and such adjusted allowable risk corridor costs.
+&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are less than the first threshold lower limit, but not less than the second threshold lower limit, of the risk corridor for the plan for the year,the Secretary shall reduce the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount (or otherwise recover from the sponsor or organization an amount) equal to 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit of the risk corridor and such adjusted allowable risk corridor costs.
 
 #### (ii) Costs below second threshold lower limit
 
@@ -196,7 +196,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Target amount described
 
-&emsp;&emsp;The target amount described in this paragraph is, with respect to a prescription drug plan or an MA–PD plan in a year, the total amount of payments paid to the PDP sponsor or MA–PD organization for the plan for the year, taking into account amounts paid by the Secretary and enrollees, based upon the standardized bid amount (as defined in section 1395w–113(a)(5) of this title and as risk adjusted under subsection (c)(1) of this section), reduced by the total amount of administrative expenses for the year assumed in such standardized bid.
+&emsp;&emsp;The target amount described in this paragraph is, with respect to a prescription drug plan or an MA–PD plan in a year, the total amount of payments paid to the PDP sponsor or MA–PD organization for the plan for the year, taking into account amounts paid by the Secretary and enrollees, based upon the standardized bid amount (as defined in section 1395w–113(a)(5) of this title and as risk adjusted under subsection (c)(1)), reduced by the total amount of administrative expenses for the year assumed in such standardized bid.
 
 #### (C) First and second threshold risk percentage defined
 
@@ -236,7 +236,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (1) In general
 
-&emsp;Each contract under this part and under part C of this subchapter shall provide that—
+&emsp;Each contract under this part and under part C shall provide that—
 
 &emsp;&emsp;(A) the PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall provide the Secretary with such information as the Secretary determines is necessary to carry out this section; and
 

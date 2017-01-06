@@ -8,7 +8,7 @@ The Secretary shall establish an agricultural conservation easement program for 
 
 The purposes of the program are to—
 
-&emsp;(1) combine the purposes and coordinate the functions of the wetlands reserve program established under section 3837 <sup>1</sup> of this title, the grassland reserve program established undersection 3838n <sup>1</sup> of this title, and the farmland protection program established under section 3838i <sup>1</sup> of this title, as such sections were in effect on the day before February 7, 2014;
+&emsp;(1) combine the purposes and coordinate the functions of the wetlands reserve program established under section 3837 <sup>1</sup> of this title, the grassland reserve program established under section 3838n <sup>1</sup> of this title, and the farmland protection program established under section 3838i <sup>1</sup> of this title, as such sections were in effect on the day before February 7, 2014;
 
 &emsp;(2) restore, protect, and enhance wetlands on eligible land;
 

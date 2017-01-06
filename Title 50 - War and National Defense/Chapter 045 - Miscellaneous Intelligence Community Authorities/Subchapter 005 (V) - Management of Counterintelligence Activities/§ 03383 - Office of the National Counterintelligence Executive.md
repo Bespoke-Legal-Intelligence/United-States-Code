@@ -64,7 +64,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (B) Outreach
 
-&emsp;&emsp;To carry out and coordinate outreach programs and activities on counterintelligence to other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
+&emsp;&emsp;To carry out and coordinate outreach programs and activities on counterintelligenceto other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
 
 #### (C) Research and development
 

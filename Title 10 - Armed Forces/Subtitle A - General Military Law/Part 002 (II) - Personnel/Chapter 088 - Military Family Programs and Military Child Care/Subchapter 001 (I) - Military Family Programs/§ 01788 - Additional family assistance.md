@@ -50,7 +50,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'immediate family members' has the meaning given that term in section 1789(c) of title 10, United States Code.
 
-&emsp;"(3) The term 'special operations forces' means those forces of the Armed Forces identified as special operations forces under section 167(i) of such title.
+&emsp;"(3) The term 'special operations forces' means those forces of the Armed Forces identified as special operations forces under section 167(i) \[now 167(j)\] of such title.
 
 "(f)
 
@@ -68,7 +68,7 @@ In general.—Not later than March 1, 2016, and each March 1 thereafter though t
 
 Elements of report.—Each report under this subsection shall include the following for each pilot program:
 
-&emsp;&emsp;"(A) A description of the pilot program to address family support requirements not being provided bythe Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces.
+&emsp;&emsp;"(A) A description of the pilot program to address family support requirements not being provided by the Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces.
 
 &emsp;&emsp;"(B) An assessment of the impact of the pilot program on the readiness of members of the Armed Forces assigned to special operations forces.
 

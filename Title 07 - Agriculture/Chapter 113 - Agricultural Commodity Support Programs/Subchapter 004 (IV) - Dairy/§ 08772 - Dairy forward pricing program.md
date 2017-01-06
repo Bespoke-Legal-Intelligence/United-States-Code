@@ -70,5 +70,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Subsec. (e)(2). Pub. L. 113–79, §1424(2), substituted "2021" for "2015".
 
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "its".</i>
 

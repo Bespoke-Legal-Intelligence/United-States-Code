@@ -8,7 +8,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) Authority
 
-&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, torestore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
+&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
 
 #### (2) Amount of penalty
 
@@ -36,7 +36,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(i) Conveyance, transfer, or encumbrance of any of the mortgaged property, or permitting the conveyance, transfer, or encumbrance of such property, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(ii) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, other revenues, or contract rights, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
+&emsp;&emsp;(ii) Assignment, transfer, disposition, or encumbrance of any personal property of theproject, including rents, other revenues, or contract rights, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
 
 &emsp;&emsp;(iii) Conveyance, assignment, or transfer of any beneficial interest in any trust holding title to the property, or the interest of any general partner in a partnership owning the property, or any right to manage or receive the rents and profits from the mortgaged property, without the prior written approval of the Secretary.
 
@@ -154,7 +154,7 @@ In this section, the terms "agent employed to manage the property that has an id
 
 &emsp;(3) over which the ownership entity exerts effective control.
 
-(June 27, 1934, ch. 847, title V, §537, as added Pub. L. 101–235, title I, §108(a), Dec. 15, 1989, 103 Stat. 2003; amended Pub. L. 105–65, title V, §561(a), Oct. 27, 1997, 111 Stat. 1414; Pub. L. 108–447, div. I, title II, §219(b), (c), Dec. 8, 2004, 118 Stat. 3319.)
+(June 27, 1934, ch. 847, title V, §537, as added Pub. L. 101–235, title I, §108(a), Dec. 15, 1989, 103 Stat.2003; amended Pub. L. 105–65, title V, §561(a), Oct. 27, 1997, 111 Stat. 1414; Pub. L. 108–447, div. I, title II, §219(b), (c), Dec. 8, 2004, 118 Stat. 3319.)
 
 #### Amendments
 
@@ -200,7 +200,7 @@ Pub. L. 105–65, title V, §561(b), Oct. 27, 1997, 111 Stat. 1416, provided tha
 
 "(1)
 
-Public comment.—The Secretary shall implement the amendments made by this section \[amendingthis section and enacting provisions set out as a note under this section\] by regulation issued after notice and opportunity for public comment. The notice shall seek comments primarily as to the definitions of the terms 'ownership interest in' and 'effective control', as those terms are used in the definition of the terms 'agent employed to manage the property that has an identity of interest' and 'identity of interest agent'.
+Public comment.—The Secretary shall implement the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] by regulation issued after notice and opportunity for public comment. The notice shall seek comments primarily as to the definitions of the terms 'ownership interest in' and 'effective control', as those terms are used in the definition of the terms 'agent employed to manage the property that has an identity of interest' and 'identity of interest agent'.
 
 "(2)
 

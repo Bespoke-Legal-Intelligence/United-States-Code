@@ -50,7 +50,7 @@ Improper Disclosure.—Any willful disclosure of a "record", as that term is def
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(b)(1), inserted ", other than the United States," after "person or entity".
 
-Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee."
+Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d).Text read as follows: "If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee."
 
 Subsec. (e)(1). Pub. L. 107–56, §815, as amended by Pub. L. 107–273, inserted "(including a request of a governmental entity under section 2703(f) of this title)" after "or a statutory authorization".
 

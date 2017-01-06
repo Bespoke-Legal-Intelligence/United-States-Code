@@ -26,7 +26,7 @@
 
 #### (5) Remission or mitigation of forfeitures
 
-&emsp;Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civil or criminal case in respect of such distilledspirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
+&emsp;Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civil or criminal case in respect of such distilled spirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
 
 #### (b) Distraint or judicial process
 

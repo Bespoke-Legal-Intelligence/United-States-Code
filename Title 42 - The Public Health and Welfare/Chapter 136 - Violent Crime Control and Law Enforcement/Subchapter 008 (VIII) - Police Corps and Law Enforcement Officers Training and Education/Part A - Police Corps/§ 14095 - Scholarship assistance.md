@@ -2,7 +2,7 @@
 
 #### (a) Scholarships authorized
 
-(1) The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d) of this section.
+(1) The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d).
 
 (2)(A) Except as provided in subparagraph (B), each scholarship payment made under this section for each academic year shall not exceed—
 
@@ -22,7 +22,7 @@
 
 #### (b) Reimbursement authorized
 
-(1) The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d) of this section.
+(1) The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d).
 
 (2)(A) Each payment made pursuant to paragraph (1) for each academic year of study shall not exceed—
 
@@ -52,7 +52,7 @@ Scholarships awarded under this subsection <sup>1</sup> shall only be used to a
 
 &emsp;(ii) complete satisfactorily—
 
-&emsp;&emsp;(I) an educational course of study and receipt of a baccalaureate degree (in the case of undergraduate study) or the reward ofcredit to the participant for having completed one or more graduate courses (in the case of graduate study); and
+&emsp;&emsp;(I) an educational course of study and receipt of a baccalaureate degree (in the case of undergraduate study) or the reward of credit to the participant for having completed one or more graduate courses (in the case of graduate study); and
 
 &emsp;&emsp;(II) Police Corps training and certification by the Director that the participant has met such performance standards as may be established pursuant to section 14097 of this title; and
 

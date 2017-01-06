@@ -68,7 +68,7 @@ The Attorney General may—
 
 #### (1) In general
 
-&emsp;The United States district courts, the District Court of Guam, the District Court of the Northern Mariana Islands, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessions are vested with jurisdiction in all cases arising under this chapter.
+&emsp;The United States district courts, the District Court of Guam, the District Court of the Northern Mariana Islands, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessionsare vested with jurisdiction in all cases arising under this chapter.
 
 #### (2) Venue
 

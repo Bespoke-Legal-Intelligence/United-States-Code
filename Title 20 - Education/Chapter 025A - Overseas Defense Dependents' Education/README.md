@@ -11,7 +11,7 @@
 | [926\.](%C2%A7%2000926%20-%20School%20system%20for%20dependents%20in%20overseas%20areas.md) | School system for dependents in overseas areas. |
 | [927\.](%C2%A7%2000927%20-%20Allotment%20formula.md) | Allotment formula. |
 | [928\.](%C2%A7%2000928%20-%20School%20advisory%20committees.md) | School advisory committees. |
-| [929\.](%C2%A7%2000929%20-%20Advisory%20Council%20on%20Dependents%27%20Education.md) | Advisory Council on Dependents' Education. |
+| [929\.](%C2%A7%2000929%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7576%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202143.md) | Repealed. |
 | [930\.](%C2%A7%2000930%20-%20Study%20of%20defense%20dependents%27%20education%20system.md) | Study of defense dependents' education system. |
 | [931\.](%C2%A7%2000931%20-%20Regulations%3B%20issuance%20and%20contents.md) | Regulations; issuance and contents. |
 | [932\.](%C2%A7%2000932%20-%20Definitions.md) | Definitions. |
@@ -32,7 +32,7 @@
 - [&sect; 00926 - School system for dependents in overseas areas](%C2%A7%2000926%20-%20School%20system%20for%20dependents%20in%20overseas%20areas.md)
 - [&sect; 00927 - Allotment formula](%C2%A7%2000927%20-%20Allotment%20formula.md)
 - [&sect; 00928 - School advisory committees](%C2%A7%2000928%20-%20School%20advisory%20committees.md)
-- [&sect; 00929 - Advisory Council on Dependents' Education](%C2%A7%2000929%20-%20Advisory%20Council%20on%20Dependents%27%20Education.md)
+- [&sect; 00929 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;576, Dec. 23, 2016, 130 Stat. 2143](%C2%A7%2000929%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7576%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202143.md)
 - [&sect; 00930 - Study of defense dependents' education system](%C2%A7%2000930%20-%20Study%20of%20defense%20dependents%27%20education%20system.md)
 - [&sect; 00931 - Regulations; issuance and contents](%C2%A7%2000931%20-%20Regulations%3B%20issuance%20and%20contents.md)
 - [&sect; 00932 - Definitions](%C2%A7%2000932%20-%20Definitions.md)

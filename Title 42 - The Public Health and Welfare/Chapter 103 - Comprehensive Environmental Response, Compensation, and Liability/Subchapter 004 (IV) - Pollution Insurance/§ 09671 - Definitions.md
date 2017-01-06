@@ -34,5 +34,5 @@ As used in this subchapter—
 
 #### State Powers and Authorities Under Risk Retention Amendments of 1986
 
-Pub. L. 99–499, title II, §210(b), as added by Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177, provided that: "For purposes of subsection (a) of this section \[enacting this subchapter\], the powers and authorities of States addressed by the Risk Retention Amendments of 1986 \[Pub. L. 99–563, see Short Title of 1986 Amendment note set out under section 3901 of Title 15, Commerce and Trade\] are in addition to those of this Act \[see Short Title of 1986 Amendment note set out under section 9601 of this title\]."
+Pub. L. 99–499, title II, §210(b), as added by Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177, providedthat: "For purposes of subsection (a) of this section \[enacting this subchapter\], the powers and authorities of States addressed by the Risk Retention Amendments of 1986 \[Pub. L. 99–563, see Short Title of 1986 Amendment note set out under section 3901 of Title 15, Commerce and Trade\] are in addition to those of this Act \[see Short Title of 1986 Amendment note set out under section 9601 of this title\]."
 

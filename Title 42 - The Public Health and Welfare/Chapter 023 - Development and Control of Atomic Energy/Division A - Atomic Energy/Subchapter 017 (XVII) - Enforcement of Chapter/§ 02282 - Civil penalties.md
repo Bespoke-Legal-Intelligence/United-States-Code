@@ -16,7 +16,7 @@ On the request of the Commission, the Attorney General is authorized to institut
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, in first sentence, substituted "any licensing or certification provision ofsection 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, 2139, or 2297f of this title" for "any licensing provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, or 2139 of this title" and "any license or certification issued thereunder" for "any license issued thereunder".
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, in first sentence, substituted "any licensing or certification provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, 2139, or 2297f of this title" for "any licensing provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, or 2139 of this title" and "any license or certification issued thereunder" for "any license issued thereunder".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–295 substituted $100,000 penalty limitation per violation for $5,000 limit per violation and $25,000 limit for all violations taking place within any thirty consecutive day period.
 

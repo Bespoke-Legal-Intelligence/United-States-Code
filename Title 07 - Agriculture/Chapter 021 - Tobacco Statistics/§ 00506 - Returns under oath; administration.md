@@ -1,6 +1,6 @@
 ### §506. Returns under oath; administration
 
-The returns provided for in this chapter shall be made under oath before a collector or deputy collector of internal revenue, a postmaster, assistant postmaster, or anyone authorized to administer oaths by State or Federal law.
+The returns provided for in this chapter shall be made under oath before a collector or deputycollector of internal revenue, a postmaster, assistant postmaster, or anyone authorized to administer oaths by State or Federal law.
 
 (Jan. 14, 1929, ch. 69, §6, 45 Stat. 1080.)
 

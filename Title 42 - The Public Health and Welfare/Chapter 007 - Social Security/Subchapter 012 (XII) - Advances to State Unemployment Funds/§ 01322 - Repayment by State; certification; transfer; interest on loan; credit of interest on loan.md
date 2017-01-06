@@ -40,7 +40,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (6)(A) For purposes of paragraph (2), any voluntary repayment shall be applied against advances made under section 1321 of this title on the last made first repaid basis. Any other repayment of such an advance shall be applied against advances on a first made first repaid basis.
 
-(B) For purposes of this paragraph, the term "voluntary repayment" means any repayment made under subsection (a) of this section.
+(B) For purposes of this paragraph, the term "voluntary repayment" means any repayment made under subsection (a).
 
 (7) This subsection shall only apply to advances made on or after April 1, 1982.
 
@@ -50,7 +50,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 &emsp;(i) have taken no action since October 1, 1982, which would reduce its net unemployment tax effort or the net solvency of its unemployment system (as determined for purposes of section 3302(f) of the Internal Revenue Code of 1986); and
 
-&emsp;(ii)(I) have taken an action (as certified by the Secretary of Labor) after March 31, 1982,which would have increased revenue liabilities and decreased benefits under the State's unemployment compensation system (hereinafter referred to as a "solvency effort") by a combined total of the applicable percentage (as compared to such revenues and benefits as would have been in effect without such State action) for the calendar year for which the deferral is requested; or
+&emsp;(ii)(I) have taken an action (as certified by the Secretary of Labor) after March 31, 1982, which would have increased revenue liabilities and decreased benefits under the State's unemployment compensation system (hereinafter referred to as a "solvency effort") by a combined total of the applicable percentage (as compared to such revenues and benefits as would have been in effect without such State action) for the calendar year for which the deferral is requested; or
 
 &emsp;(II) have had, for taxable year 1982, an average unemployment tax rate which was equal to or greater than 2.0 percent of the total of the wages (as determined without any limitation on amount) attributable to such State subject to contribution under the State unemployment compensation law with respect to such taxable year.
 

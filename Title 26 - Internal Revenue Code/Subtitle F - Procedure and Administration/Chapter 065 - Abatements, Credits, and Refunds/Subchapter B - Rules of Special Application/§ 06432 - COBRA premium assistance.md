@@ -188,7 +188,7 @@ In general.—Paragraph (1)(A) shall not apply with respect to any assistance el
 
 &emsp;&emsp;"(B)
 
-Timing of eligibility for additional coverage.—For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverageunder a group health plan before the first date on which such individual could be covered under such plan.
+Timing of eligibility for additional coverage.—For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverage under a group health plan before the first date on which such individual could be covered under such plan.
 
 &emsp;&emsp;"(C)
 
@@ -366,7 +366,7 @@ In general.—\[Enacted this section.\]
 
 &emsp;&emsp;"(B)
 
-Social security trust funds held harmless.—In determining any amount transferred or appropriated to any fund under the Social Security Act \[42 U.S.C. 301 et seq.\], section 6432 of the Internal Revenue Code of 1986 shall not be taken into account.
+Social security trust funds held harmless.—In determining any amount transferred or appropriated to any fund under the Social SecurityAct \[42 U.S.C. 301 et seq.\], section 6432 of the Internal Revenue Code of 1986 shall not be taken into account.
 
 &emsp;&emsp;"(C)
 

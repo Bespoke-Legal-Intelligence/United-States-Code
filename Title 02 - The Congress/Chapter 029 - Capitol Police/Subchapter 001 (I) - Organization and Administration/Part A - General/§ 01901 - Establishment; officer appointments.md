@@ -68,7 +68,7 @@ Capitol Police Board; Composition; Redefining Mission.—
 
 &emsp;"(1)
 
-Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
+Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcementcapacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
 &emsp;"(2)
 
@@ -236,7 +236,7 @@ Employee representation.—Nothing in this Act \[see Short Title of 2008 Amendme
 
 &emsp;"(2)
 
-Agreements not applicable.—Nothing in this Act shall be construed to authorize any collectivebargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
+Agreements not applicable.—Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
 
 "(f)
 
@@ -284,7 +284,7 @@ Treatment of Alleged Violations of Certain Employment Laws With Respect to Trans
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law and except as provided in paragraph (3), in the case of an alleged violation of any covered law (as defined in paragraph (4)) which is alleged to have occurred prior to the transfer date with respect to an individual who is transferred under this Act, and for which the individual has not exhausted all of the remedies available for the consideration of the alleged violation which are provided for employees of the Library of Congress under the covered law prior to the transfer date, the following shall apply:
+In general.—Notwithstanding any other provision of law and except as provided in paragraph (3), inthe case of an alleged violation of any covered law (as defined in paragraph (4)) which is alleged to have occurred prior to the transfer date with respect to an individual who is transferred under this Act, and for which the individual has not exhausted all of the remedies available for the consideration of the alleged violation which are provided for employees of the Library of Congress under the covered law prior to the transfer date, the following shall apply:
 
 &emsp;&emsp;"(A) The individual may not initiate any procedure which is available for the consideration of the alleged violation of the covered law which is provided for employees of the Library of Congress under the covered law.
 

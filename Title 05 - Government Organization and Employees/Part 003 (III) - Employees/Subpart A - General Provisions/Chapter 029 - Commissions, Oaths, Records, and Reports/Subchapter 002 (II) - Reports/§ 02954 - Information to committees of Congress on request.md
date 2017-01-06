@@ -1,6 +1,6 @@
 ### §2954. Information to committees of Congress on request
 
-An Executive agency, on request of the Committee on Government Operations of the House of Representatives, or of any seven members thereof, or on request of the Committee on Governmental Affairs of the Senate, or any five members thereof, shall submit any information requested of it relating to any matter within the jurisdiction of the committee.
+An Executive agency, on request of the Committee on Government Operations of the House of Representatives, or of any seven membersthereof, or on request of the Committee on Governmental Affairs of the Senate, or any five members thereof, shall submit any information requested of it relating to any matter within the jurisdiction of the committee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 103–437, §3(b), Nov. 2, 1994, 108 Stat. 4581.)
 
@@ -34,5 +34,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

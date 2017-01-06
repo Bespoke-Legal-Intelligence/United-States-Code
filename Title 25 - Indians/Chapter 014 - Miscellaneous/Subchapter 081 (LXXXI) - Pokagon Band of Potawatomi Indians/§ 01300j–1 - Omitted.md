@@ -1,0 +1,6 @@
+### §1300j–1. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–323, §2, Sept. 21, 1994, 108 Stat. 2153, which affirmed Federal recognition of the Pokagon Band, was omitted from the Code as being of special and not general application.
+

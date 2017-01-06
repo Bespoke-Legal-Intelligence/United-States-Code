@@ -18,7 +18,7 @@ The administering authority shall prescribe rules, negotiated in accordance with
 
 #### (c) Rules of procedure for safeguarding panel review system
 
-The administering authority shall prescribe rules, negotiated in accordance with Annex 1905.6, governing the procedures for special committees described in such Annex.
+The administering authority shall prescribe rules, negotiated in accordance with Annex1905.6, governing the procedures for special committees described in such Annex.
 
 #### (d) Publication of rules
 

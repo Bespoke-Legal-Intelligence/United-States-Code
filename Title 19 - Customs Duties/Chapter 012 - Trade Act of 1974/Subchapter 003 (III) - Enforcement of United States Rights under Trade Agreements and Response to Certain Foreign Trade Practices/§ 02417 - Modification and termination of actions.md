@@ -10,7 +10,7 @@
 
 &emsp;(C) such action is being taken under section 2411(b) of this title and is no longer appropriate.
 
-(2) Before taking any action under paragraph (1) to modify or terminate any action takenunder section 2411 of this title, the Trade Representative shall consult with the petitioner, if any, and with representatives of the domestic industry concerned, and shall provide opportunity for the presentation of views by other interested persons affected by the proposed modification or termination concerning the effects of the modification or termination and whether any modification or termination of the action is appropriate.
+(2) Before taking any action under paragraph (1) to modify or terminate any action taken under section 2411 of this title, the Trade Representative shall consult with the petitioner, if any, and with representatives of the domestic industry concerned, and shall provide opportunity for the presentation of views by other interested persons affected by the proposed modification or termination concerning the effects of the modification or termination and whether any modification or termination of the action is appropriate.
 
 #### (b) Notice; report to Congress
 
@@ -28,7 +28,7 @@ The Trade Representative shall promptly publish in the Federal Register notice o
 
 (2) The Trade Representative shall notify by mail the petitioner and representatives of the domestic industry described in paragraph (1)(B) of any termination of action by reason of paragraph (1) at least 60 days before the date of such termination.
 
-(3) If a request is submitted to the Trade Representative under paragraph (1)(B) to continue taking a particular action under section 2411 of this title, the Trade Representative shall conduct a review of—
+(3) If a request is submitted to the Trade Representative under paragraph (1)(B) to continue taking a particular action under section 2411 of this title, or if a request is submitted to the Trade Representative under section 2416(c)(2) of this title to reinstate action, the Trade Representative shall conduct a review of—
 
 &emsp;(A) the effectiveness in achieving the objectives of section 2411 of this title of—
 
@@ -38,9 +38,13 @@ The Trade Representative shall promptly publish in the Federal Register notice o
 
 &emsp;(B) the effects of such actions on the United States economy, including consumers.
 
-(Pub. L. 93–618, title III, §307, as added Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1174.)
+(Pub. L. 93–618, title III, §307, as added Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1174; amended Pub. L. 114–125, title VI, §602(b)(4), Feb. 24, 2016, 130 Stat. 184.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–125 inserted "or if a request is submitted to the Trade Representative under section 2416(c)(2) of this title to reinstate action," after "under section 2411 of this title," in introductory provisions.
 
 #### Effective Date
 
-Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
+Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on orafter Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
 

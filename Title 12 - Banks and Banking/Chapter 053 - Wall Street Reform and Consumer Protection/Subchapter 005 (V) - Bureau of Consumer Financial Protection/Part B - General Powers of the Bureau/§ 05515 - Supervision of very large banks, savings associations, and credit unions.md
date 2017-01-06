@@ -56,7 +56,7 @@ This section shall apply to any covered person that is—
 
 #### (d) Service providers
 
-A service provider to a person described in subsection (a) shall be subject to the authority of the Bureau under this section, to the same extent as if the Bureau were an appropriate Federal banking agency under section 1867(c) of this title. In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
+A service provider to a person described in subsection (a) shall be subject to the authorityof the Bureau under this section, to the same extent as if the Bureau were an appropriate Federal banking agency under section 1867(c) of this title. In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
 
 #### (e) Simultaneous and coordinated supervisory action
 
@@ -140,7 +140,7 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 #### References in Text
 
-This title, referred to in subsec. (b)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known asthe Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, referred to in subsec. (b)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Effective Date
 

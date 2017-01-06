@@ -18,7 +18,7 @@ The Commission shall be composed of fifteen members as follows:
 
 #### (b) Terms of office
 
-Subject to subsection (c) of this section, the members of the Commission specified in paragraphs (1) through (5) of subsection (a) of this section shall serve for the life of the Commission. The members of the Commission appointed under paragraph (6) of such subsection shall serve for terms of four years, except that of the members first appointed—
+Subject to subsection (c), the members of the Commission specified in paragraphs (1) through (5) of subsection (a) shall serve for the life of the Commission. The members of the Commission appointed under paragraph (6) of such subsection shall serve for terms of four years, except that of the members first appointed—
 
 &emsp;(1) three shall be appointed for terms of one year;
 
@@ -76,5 +76,5 @@ The Administrator of the General Services Administration shall provide to the Co
 
 (Pub. L. 96–430, title II, §203, Oct. 10, 1980, 94 Stat. 1847.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "of subsection (a) of this section".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of subsection (a)".</i>
 

@@ -296,35 +296,11 @@ Verification.—Not later than 18 months after the date of the enactment of this
 
 #### Outreach and Education
 
-Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, titleII, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, §5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See section 31110(c) of this title.
+Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, §5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See section 31110(c) of this title.
 
 #### Safety Data Improvement Program
 
-Pub. L. 109–59, title IV, §4128, Aug. 10, 2005, 119 Stat. 1742, provided that:
-
-"(a)
-
-In General.—The Secretary \[of Transportation\] shall make grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary.
-
-"(b)
-
-Eligibility.—A State shall be eligible for a grant under this section in a fiscal year if the Secretary determines that the State has—
-
-&emsp;"(1) conducted a comprehensive audit of its commercial motor vehicle safety data system within the preceding 2 years;
-
-&emsp;"(2) developed a plan that identifies and prioritizes its commercial motor vehicle safety data needs and goals; and
-
-&emsp;"(3) identified performance-based measures to determine progress toward those goals.
-
-"(c)
-
-Federal Share.—The Federal share of a grant under this section shall be 80 percent of the cost of the activities for which the grant is made.
-
-"(d)
-
-Biennial Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], and biennially thereafter, the Secretary shall transmit to Congress a report on the activities and results of the program carried out under this section, together with any recommendations the Secretary determines appropriate."
-
-<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(6), (f), (g), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, section 4128 of Pub. L. 109–59, set out above, is repealed, subject to a transition provision.\]</i>
+Pub. L. 109–59, title IV, §4128, Aug. 10, 2005, 119 Stat. 1742, which provided for grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary of Transportation, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(6), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### Operating Authority Enforcement Assistance for States
 
@@ -494,7 +470,7 @@ Pub. L. 106–159, title II, §224, Dec. 9, 1999, 113 Stat. 1770, provided that:
 
 "(a)
 
-Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercial motor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States' ability to—
+Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercialmotor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States' ability to—
 
 &emsp;"(1) evaluate future crashes involving commercial motor vehicles;
 

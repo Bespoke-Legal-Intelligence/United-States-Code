@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Postal Regulatory Commission shall, within 18 months after the date of enactment of this section, promulgate (and may from time to time thereafter revise) regulations to—
+In General.—The Postal Regulatory Commission shall, within 18 months after the date ofenactment of this section, promulgate (and may from time to time thereafter revise) regulations to—
 
 &emsp;(1) prohibit the subsidization of competitive products by market-dominant products;
 

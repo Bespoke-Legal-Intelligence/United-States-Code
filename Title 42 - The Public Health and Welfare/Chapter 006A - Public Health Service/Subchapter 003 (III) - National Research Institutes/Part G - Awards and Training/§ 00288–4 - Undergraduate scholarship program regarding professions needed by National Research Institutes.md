@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Director of NIH agrees to provide to the individuals scholarships for pursuing, as undergraduates at accredited institutions of higher education, academic programs appropriate for careers in professions needed by the National Institutes of Health; and
 
-&emsp;&emsp;(B) the individuals agree to serve as employees of the National Institutes of Health, for the period described in subsection (c) of this section, in positions that are needed by the National Institutes of Health and for which the individuals are qualified.
+&emsp;&emsp;(B) the individuals agree to serve as employees of the National Institutes of Health, for the period described in subsection (c), in positions that are needed by the National Institutes of Health and for which the individuals are qualified.
 
 #### (2) Individuals from disadvantaged backgrounds
 
@@ -20,35 +20,35 @@
 
 #### (b) Facilitation of interest of students in careers at National Institutes of Health
 
-In providing employment to individuals pursuant to contracts under subsection (a)(1) of this section, the Director of NIH shall carry out activities to facilitate the interest of the individuals in pursuing careers as employees of the National Institutes of Health.
+In providing employment to individuals pursuant to contracts under subsection (a)(1), the Director of NIH shall carry out activities to facilitate the interest of the individuals in pursuing careers as employees of the National Institutes of Health.
 
 #### (c) Period of obligated service
 
 #### (1) Duration of service
 
-&emsp;For purposes of subparagraph (B) of subsection (a)(1) of this section, the period ofservice for which an individual is obligated to serve as an employee of the National Institutes of Health is, subject to paragraph (2)(A), 12 months for each academic year for which the scholarship under such subsection is provided.
+&emsp;For purposes of subparagraph (B) of subsection (a)(1), the period of service for which an individual is obligated to serve as an employee of the National Institutes of Health is, subject to paragraph (2)(A), 12 months for each academic year for which the scholarship under such subsection is provided.
 
 #### (2) Schedule for service
 
-&emsp;(A) Subject to subparagraph (B), the Director of NIH may not provide a scholarship under subsection (a) of this section unless the individual applying for the scholarship agrees that—
+&emsp;(A) Subject to subparagraph (B), the Director of NIH may not provide a scholarship under subsection (a) unless the individual applying for the scholarship agrees that—
 
 &emsp;&emsp;(i) the individual will serve as an employee of the National Institutes of Health full-time for not less than 10 consecutive weeks of each year during which the individual is attending the educational institution involved and receiving such a scholarship;
 
-&emsp;&emsp;(ii) the period of service as such an employee that the individual is obligated to provide under clause (i) is in addition to the period of service as such an employee that the individual is obligated to provide under subsection (a)(1)(B) of this section; and
+&emsp;&emsp;(ii) the period of service as such an employee that the individual is obligated to provide under clause (i) is in addition to the period of service as such an employee that the individual is obligated to provide under subsection (a)(1)(B); and
 
-&emsp;&emsp;(iii) not later than 60 days after obtaining the educational degree involved, the individual will begin serving full-time as such an employee in satisfaction of the period of service that the individual is obligated to provide under subsection (a)(1)(B) of this section.
+&emsp;&emsp;(iii) not later than 60 days after obtaining the educational degree involved, the individual will begin serving full-time as such an employee in satisfaction of the period of service that the individual is obligated to provide under subsection (a)(1)(B).
 
-&emsp;(B) The Director of NIH may defer the obligation of an individual to provide a period of service under subsection (a)(1)(B) of this section, if the Director determines that such a deferral is appropriate.
+&emsp;(B) The Director of NIH may defer the obligation of an individual to provide a period of service under subsection (a)(1)(B), if the Director determines that such a deferral is appropriate.
 
 #### (3) Applicability of certain provisions relating to appointment and compensation
 
-&emsp;For any period in which an individual provides service as an employee of the National Institutes of Health in satisfaction of the obligation of the individual under subsection (a)(1)(B) of this section or paragraph (2)(A)(i), the individual may be appointed as such an employee without regard to the provisions of title 5 relating to appointment and compensation.
+&emsp;For any period in which an individual provides service as an employee of the National Institutes of Health in satisfaction of the obligation of the individual under subsection (a)(1)(B) or paragraph (2)(A)(i), the individual may be appointed as such an employee without regard to the provisions of title 5 relating to appointment and compensation.
 
 #### (d) Provisions regarding scholarship
 
 #### (1) Approval of academic program
 
-&emsp;The Director of NIH may not provide a scholarship under subsection (a) of this section for an academic year unless—
+&emsp;The Director of NIH may not provide a scholarship under subsection (a) for an academic year unless—
 
 &emsp;&emsp;(A) the individual applying for the scholarship has submitted to the Director a proposed academic program for the year and the Director has approved the program; and
 
@@ -56,27 +56,27 @@ In providing employment to individuals pursuant to contracts under subsection (a
 
 #### (2) Academic standing
 
-&emsp;The Director of NIH may not provide a scholarship under subsection (a) of this section for an academic year unless the individual applying for the scholarship agrees to maintain an acceptable level of academic standing, as determined by the educational institution involved in accordance with regulations issued by the Secretary.
+&emsp;The Director of NIH may not provide a scholarship under subsection (a) for an academic year unless the individual applying for the scholarship agrees to maintain an acceptable level of academic standing, as determined by the educational institution involved in accordance with regulations issued by the Secretary.
 
 #### (3) Limitation on amount
 
-&emsp;The Director of NIH may not provide a scholarship under subsection (a) of this section for an academic year in an amount exceeding $20,000.
+&emsp;The Director of NIH may not provide a scholarship under subsection (a) for an academic year in an amount exceeding $20,000.
 
 #### (4) Authorized uses
 
-&emsp;A scholarship provided under subsection (a) of this section may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in attending the school involved.
+&emsp;A scholarship provided under subsection (a) may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in attending the school involved.
 
 #### (5) Contract regarding direct payments to institution
 
-&emsp;In the case of an institution of higher education with respect to which a scholarship under subsection (a) of this section is provided, the Director of NIH may enter into a contract with the institution under which the amounts provided in the scholarship for tuition and other educational expenses are paid directly to the institution.
+&emsp;In the case of an institution of higher education with respect to which a scholarship under subsection (a) is provided, the Director of NIH may enter into a contract with the institution under which the amounts provided in the scholarship for tuition and other educational expenses are paid directly to the institution.
 
 #### (e) Penalties for breach of scholarship contract
 
-The provisions of section 254o of this title shall apply to the program established in subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254l–1 of this title.
+The provisions of section 254o of this title shall apply to the program established in subsection (a) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254l–1 of this title.
 
 #### (f) Requirement of application
 
-The Director of NIH may not provide a scholarship under subsection (a) of this section unless an application for the scholarship is submitted to the Director and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out this section.
+The Director of NIH may not provide a scholarship under subsection (a) unless an application for the scholarship is submitted to the Director and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out this section.
 
 #### (g) Availability of authorization of appropriations
 

@@ -16,7 +16,7 @@ Section 993, Pub. L. 93–203, title VIII, §803, as added Pub. L. 95–524, §2
 
 A prior section 993, Pub. L. 93–203, title VIII, §801, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 627, provided for a Congressional declaration of purpose with regard to Young Adult Conservation Corps, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-A prior section 803 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat.627, which related to selection of enrollees, was formerly classified to section 993b of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 803 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 627, which related to selection of enrollees, was formerly classified to section 993b of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Sections 993a to 993i of this title were eliminated in the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

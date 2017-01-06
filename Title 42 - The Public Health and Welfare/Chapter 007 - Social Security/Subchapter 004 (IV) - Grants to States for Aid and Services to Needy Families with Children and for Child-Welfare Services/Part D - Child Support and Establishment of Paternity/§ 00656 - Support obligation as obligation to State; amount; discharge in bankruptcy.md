@@ -2,7 +2,7 @@
 
 #### (a) Collection processes
 
-(1) The support rights assigned to the State pursuant to section 608(a)(3) of this title or secured on behalf of a child receiving foster caremaintenance payments shall constitute an obligation owed to such State by the individual responsible for providing such support. Such obligation shall be deemed for collection purposes to be collectible under all applicable State and local processes.
+(1) The support rights assigned to the State pursuant to section 608(a)(3) of this title or secured on behalf of a child receiving foster care maintenance payments shall constitute an obligation owed to such State by the individual responsible for providing such support. Such obligation shall be deemed for collection purposes to be collectible under all applicable State and local processes.
 
 (2) The amount of such obligation shall be—
 

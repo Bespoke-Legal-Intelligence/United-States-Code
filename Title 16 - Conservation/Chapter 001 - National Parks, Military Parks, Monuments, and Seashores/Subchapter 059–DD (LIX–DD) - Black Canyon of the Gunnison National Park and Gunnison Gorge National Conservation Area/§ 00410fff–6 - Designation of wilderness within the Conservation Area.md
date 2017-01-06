@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within the Conservation Area, there is designated as wilderness, and as a component of the National Wilderness Preservation System, the Gunnison Gorge Wilderness, consisting of approximately 17,700 acres, as generally depicted on the Map.
+&emsp;Within the Conservation Area, there is designated as wilderness, and as a component ofthe National Wilderness Preservation System, the Gunnison Gorge Wilderness, consisting of approximately 17,700 acres, as generally depicted on the Map.
 
 #### (2) Administration
 
@@ -40,5 +40,5 @@ The effective date of this subchapter, referred to in subsec. (b), means Oct. 21
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

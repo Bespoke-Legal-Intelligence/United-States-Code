@@ -38,7 +38,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;&emsp;(B) the cash balance of the Fund on the books of the Treasury;
 
-&emsp;(8) "lump-sum credit" means the compulsory and special contributions to the credit of a participant or former participant in the Fund plus interest on such contributions at 4 percent a year compounded annually to December 31, 1976, and after such date, for a participant who separates from the Service after completing at least 1 year of civilian service and before completing 5 years of such service, at the rate of 3 percent per year to the date of separation (except that interest shall not be paid for a fractional part of a month in the total service or on compulsory and special contributions from an annuitant for recall service or other service performed after the date of separation which forms the basis for annuity);
+&emsp;(8) "lump-sum credit" means the compulsory and special contributions to the credit of a participant or former participant in the Fund plus interest on such contributions at 4 percent a year compounded annually to December 31, 1976, and after such date, for a participant who separates from the Service after completing at least 1 year of civilian service and before completing 5 years of such service, at the rate of 3 percent per year to the date of separation (except that interest shall not be paid for a fractional part of a month in the total service or on compulsory and special contributions from an annuitant for recall service or other service performed after thedate of separation which forms the basis for annuity);
 
 &emsp;(9) "military and naval service" means honorable active service—
 
@@ -138,7 +138,7 @@ Election for Current Participants.—
 
 &emsp;"(1)
 
-Eligibility.—An election under this subsection may be made by any currently employed participantor participant who was serving as of January 1, 1997 under chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section.
+Eligibility.—An election under this subsection may be made by any currently employed participant or participant who was serving as of January 1, 1997 under chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section.
 
 &emsp;"(2)
 

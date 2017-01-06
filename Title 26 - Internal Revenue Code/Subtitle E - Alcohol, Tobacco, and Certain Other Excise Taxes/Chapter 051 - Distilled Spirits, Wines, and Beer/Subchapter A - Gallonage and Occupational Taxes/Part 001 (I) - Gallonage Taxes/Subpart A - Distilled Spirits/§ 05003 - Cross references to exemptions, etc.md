@@ -26,7 +26,7 @@
 
 &emsp;&emsp;<b>(13) For provisions relating to exemption from tax of taxable articles going into the possessions of the United States, see section 7653(b).</b>
 
-&emsp;&emsp;<b>(14) For provisions authorizing the withdrawal of distilled spirits without payment of tax for use in</b><b>certain research, development, or testing, see section 5214(a)(10).</b>
+&emsp;&emsp;<b>(14) For provisions authorizing the withdrawal of distilled spirits without payment of tax for use in certain research, development, or testing, see section 5214(a)(10).</b>
 
 &emsp;&emsp;<b>(15) For provisions authorizing the withdrawal of distilled spirits without payment of tax for transfer to manufacturing bonded warehouses for manufacturing for export, see section 5214(a)(6).</b>
 

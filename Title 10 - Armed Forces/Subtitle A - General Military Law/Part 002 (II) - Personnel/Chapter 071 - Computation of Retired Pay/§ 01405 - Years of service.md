@@ -24,7 +24,7 @@ Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be 
 
 (2) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
-(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004; Pub. L. 104–106, div. A, title V, §561(d)(1), Feb. 10, 1996, 110 Stat. 322; Pub. L. 104–201, div. A, title X, §1074(b)(1), Sept. 23, 1996, 110 Stat. 2660; Pub. L.107–107, div. A, title X, §1048(c)(7), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004; Pub. L. 104–106, div. A, title V, §561(d)(1), Feb. 10, 1996, 110 Stat. 322; Pub. L. 104–201, div. A, title X, §1074(b)(1), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 107–107, div. A, title X, §1048(c)(7), Dec. 28, 2001, 115 Stat. 1226.)
 
 Historical and Revision Notes<br>1958
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any pe
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title VI, §635(e), Oct. 5, 1994, 108 Stat. 2789, provided that: "This section \[amending this section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
+Pub. L. 103–337, div. A, title VI, §635(e), Oct. 5, 1994, 108 Stat. 2789, provided that: "This section \[amendingthis section and sections 3925, 3991, 3992, 6333, 8925, 8991, and 8992 of this title\] shall apply to—
 
 &emsp;"(1) the computation of the retired pay of any enlisted member who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\];
 

@@ -2,11 +2,7 @@
 
 (a)
 
-General Rule.—The length of a joint duty assignment—
-
-&emsp;(1) for general and flag officers shall be not less than two years; and
-
-&emsp;(2) for other officers shall be not less than three years.
+General Rule.—The length of a joint duty assignment shall be not less than two years.
 
 (b)
 
@@ -14,15 +10,7 @@ Waiver Authority.—The Secretary of Defense may waive subsection (a) in the cas
 
 (c)
 
-Initial Assignment of Officers With Critical Occupational Specialties.—The Secretary may for purposes of section 661(c)(1)(B) of this title authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
-
-&emsp;(1) who has a military occupational specialty designated under section 668(d) of this title as a critical occupational specialty; and
-
-&emsp;(2) for whom such joint duty assignment is the initial joint duty assignment.
-
-(d)
-
-Exclusions From Tour Length.—The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
+Exclusions From Tour Length.—The Secretary of Defense may exclude the following service from the requirement in subsection (a):
 
 &emsp;(1) Service in a joint duty assignment in which the full tour of duty in the assignment is not completed by the officer because of—
 
@@ -32,61 +20,95 @@ Exclusions From Tour Length.—The Secretary of Defense may exclude the followin
 
 &emsp;&emsp;(C) suspension from duty under section 155(f)(2) or 164(g) of this title; or
 
-&emsp;&emsp;(D) a qualifying reassignment from a joint duty assignment—
+&emsp;&emsp;(D) a qualifying reassignment from a joint duty assignment as prescribed by the Secretary of Defense in regulations.
 
-&emsp;&emsp;&emsp;(i) for unusual personal reasons, including extreme hardship and medical conditions, beyond the control of the officer or the armed forces; or
+&emsp;(2) Service in a joint duty assignment in a case in which the officer's tour of duty in that assignment brings the officer's accrued service for purposes of subsection (d)(2) to the requirement in subsection (a).
 
-&emsp;&emsp;&emsp;(ii) to another joint duty assignment immediately after—
-
-&emsp;&emsp;&emsp;&emsp;(I) the officer was promoted to a higher grade, if the reassignment was made because no joint duty assignment was available within the same organization that was commensurate with the officer's new grade; or
-
-&emsp;&emsp;&emsp;&emsp;(II) the officer's position was eliminated in a reorganization.
-
-&emsp;(2) Service in a joint duty assignment outside the United States or in Alaska or Hawaii which is less than the applicable standard prescribed in subsection (a).
-
-&emsp;(3) Service in a joint duty assignment in a case in which the officer's tour of duty in that assignment brings the officer's accrued service for purposes of subsection (f)(3) to the applicable standard prescribed in subsection (a).
-
-(e)
-
-Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
-
-(2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
-
-&emsp;(A) Service described in subsection (c).
-
-&emsp;(B) Service described in subsection (d).
-
-&emsp;(C) Service described in subsection (f)(6).
-
-(f)
+(d)
 
 Full Tour of Duty.—An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
 
-&emsp;(1) A joint duty assignment that meets the standards prescribed in subsection (a).
+&emsp;(1) A joint duty assignment that meets the the <sup>1</sup> requirement in subsection (a).
 
-&emsp;(2) A joint duty assignment under the circumstances described in subsection (c).
+&emsp;(2) Accrued joint experience in joint duty assignments as described in subsection (e).
 
-&emsp;(3) Accrued joint experience in joint duty assignments as described in subsection (g).
+&emsp;(3) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
 
-&emsp;(4) A joint duty assignment outside the United States or in Alaska or Hawaii for which the normal accompanied-by-dependents tour of duty is prescribed by regulation to be at least two years in length, if the officer serves in the assignment for a period equivalent to the accompanied-by-dependents tour length.
+&emsp;(4) A second and subsequent joint duty assignment that is less than the period required under subsection (a).
 
-&emsp;(5) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
+(e)
 
-&emsp;(6) A second and subsequent joint duty assignment that is less than the period required under subsection (a), but not less than two years.
+Accrued Joint Experience.—For the purposes of subsection (d)(2), the Secretary of Defense may prescribe, by regulation, certain joint experience, such as temporary duty in joint assignments, joint individual training, and participation in joint exercises, that may be aggregated to equal a full tour of duty. The Secretary shall prescribe the regulations with the advice of the Chairman of the Joint Chiefs of Staff.
 
-(g)
+(f)
 
-Accrued Joint Experience.—For the purposes of subsection (f)(3), the Secretary of Defense may prescribe, by regulation, certain joint experience, such as temporary duty in joint assignments, joint individual training, and participation in joint exercises, that may be aggregated to equal a full tour of duty. The Secretary shall prescribe the regulations with the advice of the Chairman of the Joint Chiefs of Staff.
+Constructive Credit.—The Secretary of Defense may award constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within60 days of meeting the tour length criteria prescribed in subsection (d)(1). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
 
-(h)
-
-Constructive Credit.—(1) The Secretary of Defense may accord constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in paragraphs (1), (2), and (4) of subsection (f). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
-
-(2) For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded.
-
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446; Pub. L. 114–328, div. A, title V, §510, Dec. 23, 2016, 130 Stat. 2110.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328, §510(a), substituted "assignment shall be not less than two years." for "assignment—
+
+&emsp;"(1) for general and flag officers shall be not less than two years; and
+
+&emsp;"(2) for other officers shall be not less than three years."
+
+Subsec. (c). Pub. L. 114–328, §510(b), (g)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "The Secretary may for purposes of section 661(c)(1)(B) of this title authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
+
+&emsp;"(1) who has a military occupational specialty designated under section 668(d) of this title as a critical occupational specialty; and
+
+&emsp;"(2) for whom such joint duty assignment is the initial joint duty assignment."
+
+Subsec. (c)(2). Pub. L. 114–328, §510(g)(2), substituted "subsection (d)(2)" for "subsection (f)(3)".
+
+Subsec. (d). Pub. L. 114–328, §510(g)(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
+
+Pub. L. 114–328, §510(c)(1), substituted "the requirement in subsection (a)" for "the standards prescribed in subsection (a)" in introductory provisions.
+
+Subsec. (d)(1)(D). Pub. L. 114–328, §510(c)(2), substituted "assignment as prescribed by the Secretary of Defense in regulations." for "assignment—
+
+&emsp;"(i) for unusual personal reasons, including extreme hardship and medical conditions, beyond the control of the officer or the armed forces; or
+
+&emsp;"(ii) to another joint duty assignment immediately after—
+
+&emsp;&emsp;"(I) the officer was promoted to a higher grade, if the reassignment was made because no joint duty assignment was available within the same organization that was commensurate with the officer's new grade; or
+
+&emsp;&emsp;"(II) the officer's position was eliminated in a reorganization."
+
+Subsec. (d)(2). Pub. L. 114–328, §510(g)(3), substituted "subsection (e)" for "subsection (g)".
+
+Pub. L. 114–328, §510(c)(3)–(5), redesignated par. (3) as (2), substituted "the requirement in subsection (a)" for "the applicable standard prescribed in subsection (a)", and struck out former par. (2) which read as follows: "Service in a joint duty assignment outside the United States or in Alaska or Hawaii which is less than the applicable standard prescribed in subsection (a)."
+
+Subsec. (d)(3). Pub. L. 114–328, §510(c)(4), redesignated par. (3) as (2).
+
+Subsec. (e). Pub. L. 114–328, §510(d), (g)(1), (4), redesignated subsec. (g) as (e), substituted "subsection (d)(2)" for "subsection (f)(3)", and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows:
+
+"(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
+
+"(2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
+
+&emsp;"(A) Service described in subsection (c).
+
+&emsp;"(B) Service described in subsection (d).
+
+&emsp;"(C) Service described in subsection (f)(6)."
+
+Subsec. (f). Pub. L. 114–328, §510(g)(1), (5), redesignated subsec. (h) as (f) and substituted "subsection (d)(1)" for "paragraphs (1), (2), and (4) of subsection (f)". Former subsec. (f) redesignated (d).
+
+Subsec. (f)(1). Pub. L. 114–328, §510(e)(1), substituted "the requirement in subsection (a)" for "standards prescribed in subsection (a)".
+
+Subsec. (f)(2) to (6). Pub. L. 114–328, §510(e)(2)–(4), redesignated pars. (3), (5), and (6) as (2), (3), and (4), respectively, struck out ", but not less than two years" before period at end of par. (4), and struck out former pars. (2) and (4) which read as follows:
+
+"(2) A joint duty assignment under the circumstances described in subsection (c)."
+
+"(4) A joint duty assignment outside the United States or in Alaska or Hawaii for which the normal accompanied-by-dependents tour of duty is prescribed by regulation to be at least two years in length, if the officer serves in the assignment for a period equivalent to the accompanied-by-dependents tour length."
+
+Subsec. (g). Pub. L. 114–328, §510(g)(1), redesignated subsec. (g) as (e).
+
+Subsec. (h). Pub. L. 114–328, §510(g)(1), redesignated subsec. (h) as (f).
+
+Pub. L. 114–328, §510(f), struck out par. (1) designation before "The Secretary of Defense may", substituted "award" for "accord", and struck out par. (2) which read as follows: "For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded."
 
 <b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "a qualifying reassignment (as described in subsection (g)(4))."
 
@@ -104,7 +126,7 @@ Subsec. (e)(2). Pub. L. 110–417, §524(b), added par. (2) and struck out forme
 
 &emsp;"(C) Service described in subsection (f)(6), except that no more than 10 percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year."
 
-Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
+Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulativeservice", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
 
 Subsec. (g). Pub. L. 110–417, §524(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to cumulative service of an officer in joint duty assignments.
 
@@ -190,7 +212,7 @@ Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provid
 
 Pub. L. 103–160, div. A, title IX, §932, Nov. 30, 1993, 107 Stat. 1735, provided extension of authority until the end of the 90-day period beginning on Nov. 30, 1993, to give certain officers joint duty credit pursuant to Pub. L. 102–484, §933, formerly set out below.
 
-Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of "joint duty assignment" in section 668 of this title, and provided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, temporarily authorized the Secretary of Defense to give an officer who had completed service during the period beginning on Aug. 2, 1990, and ending on Feb. 28, 1991, in an assignment in the Persian Gulf combat zone, credit, on a case-by-case basis, for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of this title, notwithstanding the length of such service or whether that service had been within the definition of "joint duty assignment" in section 668 of this title, andprovided that such authority would expire at the end of the six-month period beginning on Oct. 23, 1992.
 
 #### Length of Joint Duty Assignments
 
@@ -199,4 +221,6 @@ Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided tha
 #### Waiver of Qualifications for Appointment as Service Chief
 
 For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,13 +6,13 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Certain activities
 
-Activities under subsection (a) of this section may include—
+Activities under subsection (a) may include—
 
 &emsp;(1) the conduct of research into identifying effective strategies for the prevention of traumatic brain injury;
 
 &emsp;(2) the implementation of public information and education programs for the prevention of such injury and for broadening the awareness of the public concerning the public health consequences of such injury; and
 
-&emsp;(3) the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for2020, commonly referred to as Healthy People 2020), including—
+&emsp;(3) the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2020, commonly referred to as Healthy People 2020), including—
 
 &emsp;&emsp;(A) the national dissemination of information on—
 
@@ -20,7 +20,7 @@ Activities under subsection (a) of this section may include—
 
 &emsp;&emsp;&emsp;(ii) information relating to traumatic brain injury and the sequelae of secondary conditions arising from traumatic brain injury upon discharge from hospitals and emergency departments; and
 
-&emsp;&emsp;(B) the provision of information in primary care settings, including emergency rooms and trauma centers, concerning the availability of State level services and resources.
+&emsp;&emsp;(B) the provision of information in primary care settings, including emergency rooms and trauma centers, concerning theavailability of State level services and resources.
 
 #### (c) Coordination of activities
 

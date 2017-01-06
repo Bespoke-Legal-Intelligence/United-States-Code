@@ -6,7 +6,7 @@ As used in this chapter—
 
 (2) The term "person" means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity.
 
-(3) The term "cut flowers" means all flowers and decorative foliage used as fresh-cut flowers, fresh-cut decorative foliage, dried, preserved, and processed flowers, or dried and preserved decorative foliage, produced either under cover or in field operations.
+(3) The term "cut flowers" means all flowers and decorative foliage used as fresh-cut flowers, fresh-cut decorative foliage, dried, preserved, and processed flowers, or dried and preserveddecorative foliage, produced either under cover or in field operations.
 
 (4) The term "potted flowering plants" means those plants that normally produce flowers, primarily produced in pots or similar containers, that are primarily used for interior decoration, whether grown under cover or in field operations.
 

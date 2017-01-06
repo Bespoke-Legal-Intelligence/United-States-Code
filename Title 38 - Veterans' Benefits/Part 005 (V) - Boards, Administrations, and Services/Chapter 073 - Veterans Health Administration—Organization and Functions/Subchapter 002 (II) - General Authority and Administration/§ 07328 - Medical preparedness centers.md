@@ -12,11 +12,11 @@ Establishment of Centers.—(1) The Secretary shall establish four medical emerg
 
 Mission.—The mission of the centers shall be as follows:
 
-&emsp;(1) To carry out research on, and to develop methods of detection, diagnosis, prevention,and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
+&emsp;(1) To carry out research on, and to develop methods of detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
 
 &emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> or through interagency agreements entered into by the Secretary for that purpose.
 
-&emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, and local health care agencies and personnel involved in or responding to the disaster or emergency.
+&emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological,medical, or other assistance as the Secretary considers appropriate to Federal, State, and local health care agencies and personnel involved in or responding to the disaster or emergency.
 
 (c)
 
@@ -54,7 +54,7 @@ Coordination of Activities.—The Secretary shall take appropriate actions to en
 
 &emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
 
-&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or anyother joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
+&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
 
 (g)
 

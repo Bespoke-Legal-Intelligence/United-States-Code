@@ -76,7 +76,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;(7) provide 24-hour care management and support during transitions in care settings including—
 
-&emsp;&emsp;(A) a transitional care program that provides onsite visits from the care coordinator,<sup>1</sup> assists with the development of discharge plans and medication reconciliationupon admission to and discharge from the hospitals,<sup>2</sup> nursing home, or other institution setting;
+&emsp;&emsp;(A) a transitional care program that provides onsite visits from the care coordinator,<sup>1</sup> assists with the development of discharge plans and medication reconciliation upon admission to and discharge from the hospitals,<sup>2</sup> nursing home, or other institution setting;
 
 &emsp;&emsp;(B) discharge planning and counseling support to providers, patients, caregivers, and authorized representatives;
 

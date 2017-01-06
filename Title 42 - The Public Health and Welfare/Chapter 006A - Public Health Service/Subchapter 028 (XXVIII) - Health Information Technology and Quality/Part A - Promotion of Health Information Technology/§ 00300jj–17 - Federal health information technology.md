@@ -6,17 +6,23 @@ The National Coordinator shall support the development and routine updating of q
 
 #### (b) Certification
 
-In making such electronic health record technology publicly available, the National Coordinator shall ensure that the qualified electronic health record technology described in subsection (a) is certified under the program developed under section 300jj–11(c)(3) of this title to be in compliance with applicable standards adopted under section 300jj–13(a) of this title.
+In making such electronic health record technology publicly available, the National Coordinator shall ensure that the qualified electronic health record technology described in subsection (a) is certified under the program developed under section 300jj–11(c)(3) of this title to be in compliance with applicable standards adopted under section 300jj–12(a)(2) <sup>1</sup> of this title.
 
 #### (c) Authorization to charge a nominal fee
 
-The National Coordinator may impose a nominal fee for the adoption by a health care provider of the health information technology system developed or approved under subsection <sup>1</sup> (a) and (b). Such fee shall take into account the financial circumstances of smaller providers, low income providers, and providers located in rural or other medically underserved areas.
+The National Coordinator may impose a nominal fee for the adoption by a health care provider of the health information technology system developed or approved under subsection <sup>2</sup> (a) and (b). Such fee shall take into account the financial circumstances of smaller providers, low income providers, and providers located in rural or other medically underserved areas.
 
 #### (d) Rule of construction
 
 Nothing in this section shall be construed to require that a private or government entity adopt or use the technology provided under this section.
 
-(July 1, 1944, ch. 373, title XXX, §3007, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 241.)
+(July 1, 1944, ch. 373, title XXX, §3007, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 241; amended Pub. L. 114–255, div. A, title IV, §4003(e)(2)(E), Dec. 13, 2016, 130 Stat. 1175.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
+#### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–255 substituted "300jj–12(a)(2)" for "300jj–13(a)".
+
+<i><sup>1</sup></i><i> So in original. No par. (2) of section 300jj–12(a) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subsections".</i>
 

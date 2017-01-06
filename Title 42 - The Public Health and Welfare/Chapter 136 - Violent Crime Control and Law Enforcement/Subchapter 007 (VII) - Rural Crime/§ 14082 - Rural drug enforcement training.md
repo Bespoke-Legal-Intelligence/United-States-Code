@@ -6,7 +6,7 @@ The Director of the Federal Law Enforcement Training Center shall develop a spec
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out subsection (a) of this section—
+There are authorized to be appropriated to carry out subsection (a)—
 
 &emsp;(1) $1,000,000 for fiscal year 1996;
 
@@ -22,5 +22,5 @@ There are authorized to be appropriated to carry out subsection (a) of this sect
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 ofTitle 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

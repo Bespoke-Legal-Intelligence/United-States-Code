@@ -1,6 +1,6 @@
 ### §1044. Legal assistance
 
-(a) Subject to the availability of legal staff resources, the Secretary concerned may provide legal assistance in connection with their personal civil legal affairs to the following persons:
+(a) Subject to the availability of legal staff resources, the Secretary concerned may providelegal assistance in connection with their personal civil legal affairs to the following persons:
 
 &emsp;(1) Members of the armed forces who are on active duty.
 
@@ -42,7 +42,7 @@
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239 inserted ", and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps," after "jurisdiction of the Secretary".
 
-Subsec. (d)(2). Pub. L. 113–66, §1716(a)(3)(A), inserted before period at end "and, for purposes of service as aSpecial Victims' Counsel under section 1044e of this title, meets the additional qualifications specified in subsection (d)(2) of such section."
+Subsec. (d)(2). Pub. L. 113–66, §1716(a)(3)(A), inserted before period at end "and, for purposes of service as a Special Victims' Counsel under section 1044e of this title, meets the additional qualifications specified in subsection (d)(2) of such section."
 
 Subsec. (d)(3)(B). Pub. L. 113–66, §1716(a)(3)(B), substituted "1044d, 1044e, and 1565b(a)(1)(A)" for "and 1044d".
 

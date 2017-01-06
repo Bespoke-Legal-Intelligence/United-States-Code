@@ -40,7 +40,7 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount."
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows:"The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount."
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–314 substituted "$15,000" for "$6,000".
 
@@ -56,7 +56,7 @@ Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out "of the military depa
 
 <b>1987</b>—Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), "; or" for ", or" at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for "; and" at end of par. (2).
 
-<b>1980</b>—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in anyother provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
+<b>1980</b>—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–485 substituted "September 1980" for "September 1978".
 

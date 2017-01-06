@@ -18,7 +18,7 @@ For purposes of this subchapter only:
 
 #### (3) Emergency preparedness
 
-&emsp;The term "emergency preparedness" means all those activities and measures designed or undertaken to prepare for or minimize the effects of a hazard upon the civilian population, to deal with the immediate emergency conditions which would be created by the hazard, and to effectuate emergency repairs to, or the emergency restoration of, vital utilities and facilities destroyed or damaged by the hazard. Such term includes the following:
+&emsp;The term "emergency preparedness" means all those activities and measures designed orundertaken to prepare for or minimize the effects of a hazard upon the civilian population, to deal with the immediate emergency conditions which would be created by the hazard, and to effectuate emergency repairs to, or the emergency restoration of, vital utilities and facilities destroyed or damaged by the hazard. Such term includes the following:
 
 &emsp;&emsp;(A) Measures to be undertaken in preparation for anticipated hazards (including the establishment of appropriate organizations, operational plans, and supporting agreements, the recruitment and training of personnel, the conduct of research, the procurement and stockpiling of necessary materials and supplies, the provision of suitable warning systems, the construction or preparation of shelters, shelter areas, and control centers, and, when appropriate, the non-military evacuation of the civilian population).
 
@@ -56,7 +56,7 @@ For purposes of this subchapter only:
 
 #### (b) Cross reference
 
-The terms "national defense" and "defense", as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),<sup>1</sup> includes <sup>2</sup> emergency preparedness activities conducted pursuant to this subchapter.
+The terms "national defense" and "defense," <sup>2</sup> as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),<sup>3</sup> includes <sup>1</sup> emergency preparedness activities conducted pursuant to this subchapter.
 
 (Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 111–351, §3(c), Jan. 4, 2011, 124 Stat. 3864.)
 
@@ -82,7 +82,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <i><sup>1</sup></i><i> So in original. Probably should be "include".</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The comma probably should follow the closing quotation marks.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "include".</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

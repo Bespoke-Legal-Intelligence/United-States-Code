@@ -22,7 +22,7 @@ Area identification; project description.—The list of priority coastal wetland
 
 &emsp;&emsp;(i) identification, by map or other means, of the coastal area to be covered by the coastal wetlands restoration project; and
 
-&emsp;&emsp;(ii) a detailed description of each proposed coastal wetlands restoration project including a justification for including such project on the list, the proposed activities to be carried out pursuant to each coastal wetlands restoration project, the benefits to be realized by such project, the identification of the lead Task Force member to undertakeeach proposed coastal wetlands restoration project and the responsibilities of each other participating Task Force member, an estimated timetable for the completion of each coastal wetlands restoration project, and the estimated cost of each project.
+&emsp;&emsp;(ii) a detailed description of each proposed coastal wetlands restoration project including a justification for including such project on the list, the proposed activities to be carried out pursuant to each coastal wetlands restoration project, the benefits to be realized by such project, the identification of the lead Task Force member to undertake each proposed coastal wetlands restoration project and the responsibilities of each other participating Task Force member, an estimated timetable for the completion of each coastal wetlands restoration project, and the estimated cost of each project.
 
 &emsp;(B)
 
@@ -56,7 +56,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(B) identification, by map or other means, of coastal areas in Louisiana in need of coastal wetlands restoration projects;
 
-&emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiana needed to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
+&emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiananeeded to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
 
 &emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating any project identified previously in lists produced and submitted under subsection (a) of this section;
 

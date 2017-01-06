@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
 
-&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the programfor (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 (3) In the case of a report under paragraph (1) submitted in a year during which the President's budget for the next fiscal year, because of multiyear budgeting for the Department of Defense, does not include a full budget request for the Department of Defense, the report required by paragraph (1) shall set forth—
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 104–106, §1502(a)(4), added pars. (1) and (2) and struck
 
 "(2) the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives."
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect."
+<b>1990</b>—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Whenever a change is made in thestatus of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect."
 
 Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -87,6 +87,10 @@ Subsec. (g). Pub. L. 101–510, §1482(a)(1), redesignated subsec. (f) as (g).
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–510, div. A, title XIV, §1482(d), Nov. 5, 1990, 104 Stat. 1710, provided that: "The amendments made by this section \[enacting section 2214 of this title and amending this section and section 1584 of this title\] shall take effect on October 1, 1991."
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Initial Reports on Special Access Programs
 

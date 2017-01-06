@@ -8,7 +8,7 @@ There is established within the Foundation a National Center for Science and Eng
 
 In carrying out subsection (a) of this section, the Director, acting through the Center shall—
 
-&emsp;(1) collect, acquire, analyze, report, and disseminate statistical data related to thescience and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—
+&emsp;(1) collect, acquire, analyze, report, and disseminate statistical data related to the science and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—
 
 &emsp;&emsp;(A) research and development trends;
 
@@ -36,7 +36,7 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 For definition of "STEM" as used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title.
 
-Pub. L. 111–358, title V, §502, Jan. 4, 2011, 124 Stat. 4005, provided that: "In this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting this section and sections 1862p–1 to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\]:
+Pub. L. 111–358, title V, §502, Jan. 4, 2011, 124 Stat. 4005, as amended by Pub. L. 114–329, title I, §103(e)(1), Jan. 6, 2017, 130 Stat. 2975, provided that: "In this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting this section and sections 1862p–1 to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\]:
 
 &emsp;"(1)
 
@@ -44,7 +44,11 @@ Director.—The term 'Director' means the Director of the National Science Found
 
 &emsp;"(2)
 
-EPSCoR.—The term 'EPSCoR' means the Experimental Program to Stimulate Competitive Research.
+EPSCoR.—The term 'EPSCoR' means—
+
+&emsp;&emsp;"(A) the Established Program to Stimulate Competitive Research established by the Foundation; or
+
+&emsp;&emsp;"(B) a program similar to the Established Program to Stimulate Competitive Research at another Federal agency.
 
 &emsp;"(3)
 

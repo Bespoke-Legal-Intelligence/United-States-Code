@@ -10,7 +10,7 @@ The Secretary may participate with other countries in cooperative endeavors in�
 
 #### (b) Authority of Secretary; building construction prohibition
 
-In connection with the cooperative endeavors authorized by subsection (a) of this section, the Secretary may—
+In connection with the cooperative endeavors authorized by subsection (a), the Secretary may—
 
 &emsp;(1) make such use of resources offered by participating foreign countries as he may find necessary and appropriate;
 
@@ -38,7 +38,7 @@ The Secretary may provide to personnel appointed or assigned by the Secretary to
 
 #### (d) Strategies to improve injection safety
 
-In carrying out immunization programs and other programs in developing countries for the prevention, treatment, and control of infectious diseases, including HIV/AIDS, tuberculosis, andmalaria, the Director of the Centers for Disease Control and Prevention, in coordination with the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Institutes of Health, national and local government, and other organizations, such as the World Health Organization and the United Nations Children's Fund, shall develop and implement effective strategies to improve injection safety, including eliminating unnecessary injections, promoting sterile injection practices and technologies, strengthening the procedures for proper needle and syringe disposal, and improving the education and information provided to the public and to health professionals.
+In carrying out immunization programs and other programs in developing countries for the prevention, treatment, and control of infectious diseases, including HIV/AIDS, tuberculosis, and malaria, the Director of the Centers for Disease Control and Prevention, in coordination with the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Institutes of Health, national and local government, and other organizations, such as the World Health Organization and the United Nations Children's Fund, shall develop and implement effective strategies to improve injection safety, including eliminating unnecessary injections, promoting sterile injection practices and technologies, strengthening the procedures for proper needle and syringe disposal, and improving the education and information provided to the public and to health professionals.
 
 (July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 108–25, title III, §306, May 27, 2003, 117 Stat. 739; Pub. L. 110–293, title II, §205, July 30, 2008, 122 Stat. 2943.)
 
@@ -60,7 +60,7 @@ A prior section 307 of act July 1, 1944, was classified to section 242e of this 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter."
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read asfollows: "For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter."
 
 Subsec. (b). Pub. L. 110–293, §205(2)(B), struck out concluding provisions which read as follows: "The Secretary may not, in the exercise of his authority under this section, provide financial assistance for the construction of any facility in any foreign country."
 

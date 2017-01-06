@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections 280f to 280f–3, which provided for the establishment of a Fetal Alcohol Syndrome prevention andservices program, were omitted pursuant to section 280f–3 which provided that this part would no longer apply on the date that was 7 years after the date on which all members of the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect established under section 280f(d)(1) were appointed, which occurred May 17, 2000.
+Sections 280f to 280f–3, which provided for the establishment of a Fetal Alcohol Syndrome prevention and services program, were omitted pursuant to section 280f–3 which provided that this part would no longer apply on the date that was 7 years after the date on which all members of the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect established under section 280f(d)(1) were appointed, which occurred May 17, 2000.
 
 Section 280f, act July 1, 1944, ch. 373, title III, §399H, formerly §399G, as added Pub. L. 105–392, title IV, §419(d), Nov. 13, 1998, 112 Stat. 3593; renumbered §399H and amended Pub. L. 106–310, div. A, title V, §502(4)(A), (B), Oct. 17, 2000, 114 Stat. 1115, required the Secretary of Health and Human Services to establish a comprehensive Fetal Alcohol Syndrome and Fetal Alcohol Effect prevention, intervention and services delivery program and to establish the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect.
 

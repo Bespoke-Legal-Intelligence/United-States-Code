@@ -14,7 +14,7 @@ The Administrator and the Secretary shall promptly initiate and carry out a prog
 
 > taking into account in each instance climatic variations existing between different geographic areas.
 
-(2) As soon as possible after the publication of the performance criteria prescribed under paragraph (1), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of solar heating systems meeting the performance criteria prescribed under paragraph (1)(A).
+(2) As soon as possible after the publication of the performance criteria prescribed under paragraph (1), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of solar heating systems meeting theperformance criteria prescribed under paragraph (1)(A).
 
 #### (c) Contracts and grants for development of heating systems for commercial production and residential use; contracts for procurement of heating systems and components
 

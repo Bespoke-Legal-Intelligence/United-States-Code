@@ -26,7 +26,7 @@
 
 (3) In carrying out this section, the Director shall emphasize covered activities that include plans for—
 
-&emsp;(A) dissemination of high-quality materials, of scientifically valid research results, or of findings, conclusions, and recommendations resulting from covered activities, including through electronic means (such as the website of the Department of Health and Human Services), so that such information is available in a timely manner to the general public; or
+&emsp;(A) dissemination of high-quality materials, of scientifically valid research results, or offindings, conclusions, and recommendations resulting from covered activities, including through electronic means (such as the website of the Department of Health and Human Services), so that such information is available in a timely manner to the general public; or
 
 &emsp;(B) the commercialization of marketable products, research results, or findings, resulting from the covered activities.
 
@@ -80,7 +80,7 @@
 
 &emsp;(ii) other courses offered by the Centers, either directly or through another entity.
 
-(H) The research and training activities conducted by such a Center shall be conducted in a manner that is accessible to and usable by individuals with disabilities.
+(H) The research and training activities conducted by such a Center shall be conducted in amanner that is accessible to and usable by individuals with disabilities.
 
 (I) In awarding grants under this paragraph, the Director shall take into consideration the location of any proposed Center and the appropriate geographic and regional allocation of such Centers.
 
@@ -146,7 +146,7 @@
 
 &emsp;(IV) Independent living, including transition from institutional to community living, maintenance of community living on leaving the workforce, self-help skills, and activities of daily living.
 
-(ii) Each Center conducting the research or demonstration activities described in subparagraph (B)(iii) shall have an advisory committee,of which the majority of members are individuals with disabilities who are users of rehabilitation technology, and the individuals' representatives.
+(ii) Each Center conducting the research or demonstration activities described in subparagraph (B)(iii) shall have an advisory committee, of which the majority of members are individuals with disabilities who are users of rehabilitation technology, and the individuals' representatives.
 
 (E) Grants made under this paragraph shall be made on a competitive basis and shall be for a period of 5 years, except that the Director may make a grant for a period of less than 5 years if—
 
@@ -322,7 +322,7 @@ Subsec. (a)(2)(B)(ii). Pub. L. 113–128, §435(1)(B)(ii)(I), added cl. (ii) and
 
 Subsec. (a)(2)(B)(iii). Pub. L. 113–128, §435(1)(B)(ii)(II), substituted "have significant challenges engaging in community life outside their homes and individuals who are in institutional settings;" for "are homebound and individuals who are institutionalized;".
 
-Subsec. (a)(2)(B)(iv). Pub. L. 113–128, §435(1)(B)(ii)(III), inserted ", including the principles of universal designand the interoperability of products and services" after "disabilities".
+Subsec. (a)(2)(B)(iv). Pub. L. 113–128, §435(1)(B)(ii)(III), inserted ", including the principles of universal design and the interoperability of products and services" after "disabilities".
 
 Subsec. (a)(2)(B)(v). Pub. L. 113–128, §435(1)(B)(ii)(IV), inserted ", and to promoting employment opportunities in competitive integrated employment" after "employment".
 
@@ -400,7 +400,7 @@ Subsec. (b)(4)(B)(iv). Pub. L. 113–128, §435(2)(D)(ii), inserted "education, 
 
 Subsec. (b)(8). Pub. L. 113–128, §435(2)(E), added par. (8) and struck out former par. (8) which read as follows: "Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans' Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation."
 
-Subsec. (b)(9). Pub. L. 113–128, §435(2)(F), (G), redesignated par. (10) as (9) and struck out former par. (9)which read as follows: "Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce."
+Subsec. (b)(9). Pub. L. 113–128, §435(2)(F), (G), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: "Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce."
 
 Subsec. (b)(10). Pub. L. 113–128, §435(2)(G), redesignated par. (12) as (10). Former par. (10) redesignated (9).
 

@@ -28,7 +28,7 @@ Of amounts appropriated under this section for each fiscal year, not less than 7
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–363 designated existing provisions as subsec. (a), inserted heading, substituted "for each of fiscal years 2006 through 2010 the amount specified for that fiscal year in subsection (b)" for "$5,000,000 foreach of fiscal years 2001 through 2005", and added subsecs. (b) to (d).
+<b>2006</b>—Pub. L. 109–363 designated existing provisions as subsec. (a), inserted heading, substituted "for each of fiscal years 2006 through 2010 the amount specified for that fiscal year in subsection (b)" for "$5,000,000 for each of fiscal years 2001 through 2005", and added subsecs. (b) to (d).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 

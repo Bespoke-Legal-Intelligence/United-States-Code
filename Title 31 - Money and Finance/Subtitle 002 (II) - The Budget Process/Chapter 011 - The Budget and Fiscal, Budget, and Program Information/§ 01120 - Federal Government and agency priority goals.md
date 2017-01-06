@@ -38,7 +38,7 @@ Federal Government Priority Goals.—
 
 &emsp;&emsp;(G) any other committees as determined appropriate;
 
-&emsp;(4) The Director of the Office of Management and Budget shall consult with the appropriate committees of Congress at least once every 2 years.
+&emsp;(4) The Director of the Office of Management and Budget shall consult with the appropriatecommittees of Congress at least once every 2 years.
 
 &emsp;(5) The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on the website described under section 1122 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) Registered nurse.
 
-&emsp;(B) Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, and registered nurse) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+&emsp;(B) Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, andregistered nurse) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
 
 (3)(A) Except as provided in subparagraph (B), the rates of basic pay for covered positions in the Department shall be established and adjusted in accordance with this section instead of subsection (b)(1) of section 7404 of this title or chapter 53 of title 5.
 
@@ -122,7 +122,7 @@ Subsec. (e)(4)(D), (E). Pub. L. 111–163, §601(j)(2), added subpar. (D) and re
 
 Subsec. (e)(6). Pub. L. 111–163, §601(j)(3), added par. (6).
 
-Subsecs. (f), (g). Pub. L. 111–163, §501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report regarding any pay adjustments under the authority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase."
+Subsecs. (f), (g). Pub. L. 111–163, §501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report regarding any pay adjustments under theauthority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase."
 
 <b>2002</b>—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out "beginning rates of" before "compensation for corresponding health-care professionals" in two places.
 
@@ -254,7 +254,7 @@ Report.—Not later than one year after the date of the enactment of this Act, t
 
 #### Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions
 
-Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
+Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
 
 #### National Commission on VA Nursing
 
@@ -288,7 +288,7 @@ Updated Report.—Not later than February 1, 2000, the Secretary shall submit to
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended bytitle I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Nursing Personnel Qualification Standards
 

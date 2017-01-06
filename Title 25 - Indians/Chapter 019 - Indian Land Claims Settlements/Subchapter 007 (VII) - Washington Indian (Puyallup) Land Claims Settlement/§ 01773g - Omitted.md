@@ -1,0 +1,6 @@
+### §1773g. Omitted
+
+#### Codification
+
+Section, Pub. L. 101–41, §9, June 21, 1989, 103 Stat. 88, which related to exercise of jurisdiction as provided in the Settlement Agreement and as otherwise provided by Federal law, was omitted from the Code as being of special and not general application.
+

@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (3) Limited retail dealer
 
-&emsp;The term "limited retail dealer" means any fraternal, civic, church, labor, charitable, benevolent, or ex-servicemen's organization making sales of distilled spirits, wine or beer on the occasion of any kind of entertainment,dance, picnic, bazaar, or festival held by it, or any person making sales of distilled spirits, wine or beer to the members, guests, or patrons of bona fide fairs, reunions, picnics, carnivals, or other similar outings, if such organization or person is not otherwise engaged in business as a dealer.
+&emsp;The term "limited retail dealer" means any fraternal, civic, church, labor, charitable, benevolent, or ex-servicemen's organization making sales of distilled spirits, wine or beer on the occasion of any kind of entertainment, dance, picnic, bazaar, or festival held by it, or any person making sales of distilled spirits, wine or beer to the members, guests, or patrons of bona fide fairs, reunions, picnics, carnivals, or other similar outings, if such organization or person is not otherwise engaged in business as a dealer.
 
 #### (4) Dealer
 

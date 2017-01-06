@@ -90,7 +90,7 @@ Increase in slot exemptions.—Not later than 90 days after the date of enactmen
 
 &emsp;(2)
 
-New entrants and limited incumbents.—Of the slot exemptions made available under paragraph (1), the Secretary shall make 8 available to limited incumbent air carriers or new entrant air carriers (as such terms are defined in section 41714(h)). Such exemptions shall be allocated pursuant to the application process established by the Secretary under subsection (d). The Secretary shall consider the extent to which the exemptions will—
+New entrants and limited incumbents.—Of the slot exemptions made availableunder paragraph (1), the Secretary shall make 8 available to limited incumbent air carriers or new entrant air carriers (as such terms are defined in section 41714(h)). Such exemptions shall be allocated pursuant to the application process established by the Secretary under subsection (d). The Secretary shall consider the extent to which the exemptions will—
 
 &emsp;&emsp;(A) provide air transportation with domestic network benefits in areas beyond the perimeter described in section 49109;
 
@@ -122,7 +122,7 @@ Improved network slots.—Of the slot exemptions made available under paragraph 
 
 &emsp;(4)
 
-Notices of intent.—Notices of intent under paragraph (3)(E) shall specify the beyond perimeter destination to be served andthe slots the carrier shall discontinue using to serve a large hub airport located within the perimeter.
+Notices of intent.—Notices of intent under paragraph (3)(E) shall specify the beyond perimeter destination to be served and the slots the carrier shall discontinue using to serve a large hub airport located within the perimeter.
 
 &emsp;(5)
 
@@ -160,7 +160,7 @@ Subsec. (b). Pub. L. 108–176, §425(b), in introductory provisions, substitute
 
 Subsec. (c)(2). Pub. L. 108–176, §425(c)(1), substituted "3 operations" for "two operations".
 
-Subsec. (c)(3)(A). Pub. L. 108–176, §425(c)(2)(A), substituted "without regard to the criteria contained in subsection (b)(1), six" for "four" and struck out "and" at end.
+Subsec. (c)(3)(A). Pub. L. 108–176, §425(c)(2)(A), substituted "without regard to the criteria contained insubsection (b)(1), six" for "four" and struck out "and" at end.
 
 Subsec. (c)(3)(B). Pub. L. 108–176, §425(c)(2)(B), substituted "ten" for "eight" and "; and" for period at end.
 

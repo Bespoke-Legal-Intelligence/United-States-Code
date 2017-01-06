@@ -42,7 +42,7 @@ In awarding grants under this section, the Director shall ensure that grants are
 
 A grant recipient under this section shall consult from time to time with regional children's advocacy centers in its census region that are grant recipients under section 13001b of this title.
 
-(Pub. L. 101–647, title II, §214, formerly §212, Nov. 29, 1990, 104 Stat. 4793; renumbered §214 and amended Pub. L. 102–586, §6(b)(1), (c), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 107–273, div. C, title II, §12221(b)(1)(A), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 114–22, title I, §104(2), May 29, 2015, 129 Stat. 236.)
+(Pub. L. 101–647, title II, §214, formerly §212, Nov. 29, 1990, 104 Stat. 4793; renumbered §214 andamended Pub. L. 102–586, §6(b)(1), (c), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 107–273, div. C, title II, §12221(b)(1)(A), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 114–22, title I, §104(2), May 29, 2015, 129 Stat. 236.)
 
 #### Prior Provisions
 
@@ -56,7 +56,7 @@ A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is clas
 
 <b>1992</b>—Pub. L. 102–586, §6(c)(1), substituted "Local children's advocacy centers" for "Authority of Director to make grants" in section catchline.
 
-Subsec. (a). Pub. L. 102–586, §6(c)(2), substituted "The Administrator, in coordination with the Director andwith the Director of the Office of Victims of Crime," for "The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the 'Director'), in consultation with officials of the Department of Health and Human Services,".
+Subsec. (a). Pub. L. 102–586, §6(c)(2), substituted "The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime," for "The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the 'Director'), in consultation with officials of the Department of Health and Human Services,".
 
 Subsec. (b)(2)(B). Pub. L. 102–586, §6(c)(3), inserted "and nonoffending family members" after "neglect".
 

@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-With funds available to the Secretary to carry out the operations of the Department of Labor in fiscal years 1994 and 1995, the Secretary shall conduct a study of the participation of women in apprenticeable occupations and nontraditional occupations. The study shall examine—
+With funds available to the Secretary to carry out the operations of the Department of Labor in fiscal years 1994 and 1995, the Secretary shallconduct a study of the participation of women in apprenticeable occupations and nontraditional occupations. The study shall examine—
 
 &emsp;(1) the barriers to participation of women in apprenticeable occupations and nontraditional occupations;
 
@@ -18,7 +18,7 @@ With funds available to the Secretary to carry out the operations of the Departm
 
 #### (b) Report
 
-Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) of this section and such recommendations as the Secretary determines to be appropriate.
+Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) and such recommendations as the Secretary determines to be appropriate.
 
 (Pub. L. 102–530, §8, Oct. 27, 1992, 106 Stat. 3467.)
 

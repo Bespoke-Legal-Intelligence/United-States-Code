@@ -48,7 +48,7 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–228 inserted "and the numbers, range, and findings of end-use monitoring ofUnited States transfers of small arms and light weapons" before period at end.
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 inserted "and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons" before period at end.
 
 #### Effective Date
 

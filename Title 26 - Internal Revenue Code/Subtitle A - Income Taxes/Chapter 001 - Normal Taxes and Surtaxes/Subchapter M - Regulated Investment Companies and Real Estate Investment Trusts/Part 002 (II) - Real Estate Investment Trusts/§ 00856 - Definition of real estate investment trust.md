@@ -92,7 +92,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(A) The term "value" means, with respect to securities for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the trustees, except that in the case of securities of real estate investment trusts such fair value shall not exceed market value or asset value, whichever is higher.
 
-&emsp;&emsp;(B) The term "real estate assets" means real property (including interests in real property and interests in mortgages on real property or on interests in real property), shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part, and debt instruments issued by publicly offered REITs. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on thedate the real estate trust receives such capital.
+&emsp;&emsp;(B) The term "real estate assets" means real property (including interests in real property and interests in mortgages on real property or on interests in real property), shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part, and debt instruments issued by publicly offered REITs. Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.
 
 &emsp;&emsp;(C) The term "interests in real property" includes fee ownership and co-ownership of land or improvements thereon, leaseholds of land or improvements thereon, options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon, but does not include mineral, oil, or gas royalty interests.
 
@@ -160,7 +160,7 @@ In general.—Gain from the sale of real property described in paragraph (2)(D) 
 
 Special rules.—
 
-&emsp;&emsp;&emsp;&emsp;(I) For purposes of this subtitle, cut timber, the gain from which is recognized by a real estate investment trust pursuant to an election under section631(a) described in clause (i)(I) or so much of clause (i)(III) as relates to clause (i)(I), shall be deemed to be sold to the taxable REIT subsidiary of the real estate investment trust on the first day of the taxable year.
+&emsp;&emsp;&emsp;&emsp;(I) For purposes of this subtitle, cut timber, the gain from which is recognized by a real estate investment trust pursuant to an election under section 631(a) described in clause (i)(I) or so much of clause (i)(III) as relates to clause (i)(I), shall be deemed to be sold to the taxable REIT subsidiary of the real estate investment trust on the first day of the taxable year.
 
 &emsp;&emsp;&emsp;&emsp;(II) For purposes of this subtitle, income described in this subparagraph shall not be treated as gain from the sale of property described in section 1221(a)(1).
 
@@ -232,7 +232,7 @@ Rule for certain de minimis failures.—A corporation, trust, or association tha
 
 &emsp;&emsp;&emsp;&emsp;(II) $10,000,000, and
 
-&emsp;&emsp;&emsp;(ii)(I) the corporation, trust, or association, following the identification of such failure, disposes of assets in order to meet the requirements of such paragraph within6 months after the last day of the quarter in which the corporation, trust or association's identification of the failure to satisfy the requirements of such paragraph occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
+&emsp;&emsp;&emsp;(ii)(I) the corporation, trust, or association, following the identification of such failure, disposes of assets in order to meet the requirements of such paragraph within 6 months after the last day of the quarter in which the corporation, trust or association's identification of the failure to satisfy the requirements of such paragraph occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
 
 &emsp;&emsp;&emsp;(II) the requirements of such paragraph are otherwise met within the time period specified in subclause (I).
 
@@ -302,7 +302,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;(A) except as provided in paragraphs (4) and (6), any amount received or accrued, directly or indirectly, with respect to any real or personal property, if the determination of such amount depends in whole or in part on the income or profits derived by any person from such property (except that any amount so received or accrued shall not be excluded from the term "rents from real property" solely by reason of being based on a fixed percentage or percentages of receipts or sales);
 
-&emsp;&emsp;(B) except as provided in paragraph (8), any amount received or accrued directly orindirectly from any person if the real estate investment trust owns, directly or indirectly—
+&emsp;&emsp;(B) except as provided in paragraph (8), any amount received or accrued directly or indirectly from any person if the real estate investment trust owns, directly or indirectly—
 
 &emsp;&emsp;&emsp;(i) in the case of any person which is a corporation, stock of such person possessing 10 percent or more of the total combined voting power of all classes of stock entitled to vote, or 10 percent or more of the total value of shares of all classes of stock of such person; or
 
@@ -374,7 +374,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (D) Amount attributable to impermissible services
 
-&emsp;&emsp;For purposes of subparagraph (A), the amount treated as received for any service (or management or operation) shall not be less than 150 percent of the direct cost of the trust in furnishing or rendering the service (or providing the management or operation).
+&emsp;&emsp;For purposes of subparagraph (A), the amount treated as received for any service\(or management or operation) shall not be less than 150 percent of the direct cost of the trust in furnishing or rendering the service (or providing the management or operation).
 
 #### (E) Coordination with limitations
 
@@ -436,7 +436,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible independent contractor" means, with respect to any qualified lodging facility or qualified health care property (as defined in subsection (e)(6)(D)(i)), any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate such qualified lodging facility or qualified health care property, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities or qualified health care properties, respectively, for any person who is not a related person with respect to the real estate investment trust or the taxable REIT subsidiary.
+&emsp;&emsp;The term "eligible independent contractor" means, with respect to any qualified lodging facility or qualified health care property (as defined in subsection (e)(6)(D)(i)), any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate such qualified lodging facility or qualified health care property, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities or qualified health care properties, respectively, for any person who is not a related person withrespect to the real estate investment trust or the taxable REIT subsidiary.
 
 #### (B) Special rules
 
@@ -700,7 +700,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (2) Qualified REIT subsidiary
 
-&emsp;For purposes of this subsection, the term "qualified REIT subsidiary" means any corporation if 100 percent of the stock of such corporation is held by the real estate investmenttrust. Such term shall not include a taxable REIT subsidiary.
+&emsp;For purposes of this subsection, the term "qualified REIT subsidiary" means any corporation if 100 percent of the stock of such corporation is held by the real estate investment trust. Such term shall not include a taxable REIT subsidiary.
 
 #### (3) Treatment of termination of qualified subsidiary status
 
@@ -804,7 +804,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) any corporation which directly or indirectly operates or manages a lodging facility or a health care facility, and
 
-&emsp;&emsp;(B) any corporation which directly or indirectly provides to any other person (under a franchise, license, or otherwise) rights to any brand name under which any lodging facility or health care facility is operated.
+&emsp;&emsp;(B) any corporation which directly or indirectly provides to any other person (under afranchise, license, or otherwise) rights to any brand name under which any lodging facility or health care facility is operated.
 
 > &emsp;Subparagraph (B) shall not apply to rights provided to an eligible independent contractor to operate or manage a lodging facility or a health care facility if such rights are held by such corporation as a franchisee, licensee, or in a similar capacity and such lodging facility or health care facility is either owned by such corporation or is leased to such corporation from the real estate investment trust.
 
@@ -878,7 +878,7 @@ For purposes of this part—
 
 #### (B) Determination of trust's interest in partnership assets
 
-&emsp;&emsp;For purposes of subparagraph (A), with respect to any taxable year beginning afterthe date of the enactment of this subparagraph—
+&emsp;&emsp;For purposes of subparagraph (A), with respect to any taxable year beginning after the date of the enactment of this subparagraph—
 
 &emsp;&emsp;&emsp;(i) the trust's interest in the partnership assets shall be the trust's proportionate interest in any securities issued by the partnership (determined without regard to subparagraph (A)(i) and paragraph (4), but not including securities described in paragraph (1)), and
 
@@ -964,11 +964,11 @@ For purposes of this part—
 
 &emsp;Notwithstanding this subsection or any other provision of this part, any section 988 gain derived by a corporation, trust, or association from dealing, or engaging in substantial and regular trading, in securities (as defined in section 475(c)(2)) shall constitute gross income which does not qualify under paragraph (2) or (3) of subsection (c). This paragraph shall not apply to income which does not constitute gross income by reason of subsection (c)(5)(G).
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748-1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940-1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441-1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, §4(a), title XV, §§15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899-2901; Pub. L. 114–113, div. Q, title III, §§311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094-3097.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, §4(a), title XV, §§15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899–2901; Pub. L. 114–113, div. Q, title III, §§311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094–3097.)
 
 #### Amendment of Subsection (c)(4)(B)(ii)
 
-<i>Pub. L. 114–113, div. Q, title III, §312, Dec. 18, 2015, 129 Stat. 3091, provided that, applicable with respect to taxable years beginning after December 31, 2017, subsection (c)(4)(B)(ii) of this section is amended by striking out "25 percent" and inserting "20 percent". See 2015 Amendment note below.</i>
+<i>Pub. L. 114–113, div. Q, title III, §312, Dec. 18, 2015, 129 Stat. 3091, provided that, applicable with respect to taxable years beginning after Dec. 31, 2017, subsection (c)(4)(B)(ii) of this section is amended by striking out "25 percent" and inserting "20 percent". See 2015 Amendment note below.</i>
 
 #### References in Text
 
@@ -1026,7 +1026,7 @@ Subsec. (c)(4)(B)(ii). Pub. L. 110–289, §3041, substituted "than 25 percent" 
 
 Pub. L. 110–246, §15314(a), inserted "(in the case of a quarter which closes on or before the termination date, 25 percent in the case of a timber real estate investment trust)" after "REIT subsidiaries".
 
-Subsec. (c)(5)(G). Pub. L. 110–289, §3031(b), amended subpar. (G) generally. Prior to amendment, text read as follows: "Except to the extent provided by regulations, any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraph (2) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets."
+Subsec. (c)(5)(G). Pub. L. 110–289, §3031(b), amended subpar. (G) generally. Prior to amendment, text read as follows: "Except to the extent provided by regulations,any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraph (2) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets."
 
 Subsec. (c)(5)(H). Pub. L. 110–246, §15312(a), added subpar. (H).
 
@@ -1368,7 +1368,7 @@ Subsection (f).—
 
 &emsp;"(C) The amendments made by paragraph (3) of subsection (f) \[amending this section\] shall apply to failures with respect to which the requirements of paragraph (5) of section 856(g) of the Internal Revenue Code of 1986 (as added by such paragraph) are satisfied after the date of the enactment of this Act.
 
-&emsp;"(D) The amendment made by paragraph (4) of subsection (f) \[amending section 857 of this title\] shall apply to taxable years ending after the date of the enactment of this Act.
+&emsp;"(D) The amendment made by paragraph (4) of subsection (f) \[amending section 857 of this title\] shallapply to taxable years ending after the date of the enactment of this Act.
 
 &emsp;"(E) The amendments made by paragraph (5) of subsection (f) \[amending section 860 of this title\] shall apply to statements filed after the date of the enactment of this Act."
 
@@ -1386,7 +1386,7 @@ Pub. L. 106–170, title V, §546, Dec. 17, 1999, 113 Stat. 1946, provided that:
 
 "(a)
 
-In General.—The amendments made by this subpart \[subpart A (§§541–547) of title V of Pub. L. 106–170, amending this section and sections 163 and 857 of this title\] shall apply to taxable years beginning after December 31, 2000.
+In General.—The amendments made by this subpart \[subpart A (§§541–547) of part II of subtitle C of title V of Pub. L. 106–170, amending this section and sections 163 and 857 of this title\] shall apply to taxable years beginning after December 31, 2000.
 
 "(b)
 
@@ -1528,7 +1528,7 @@ Pub. L. 86–779, §10(k), Sept. 14, 1960, 74 Stat. 1009, provided that: "The am
 
 #### Study Relating To Taxable REIT Subsidiaries
 
-Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: "The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study."
+Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: "The Secretary of the Treasury shall conduct a study to determine how many taxableREIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study."
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 

@@ -28,7 +28,7 @@
 
 #### (A) Rural and remote areas
 
-&emsp;&emsp;Subject to subparagraph (B), the Administrator or a State may consider not treatingan underground storage tank as ineligible for delivery, deposit, or acceptance of a regulated substance if such treatment would jeopardize the availability of, or access to, fuel in any rural and remote areas unless an urgent threat to public health, as determined by the Administrator, exists.
+&emsp;&emsp;Subject to subparagraph (B), the Administrator or a State may consider not treating an underground storage tank as ineligible for delivery, deposit, or acceptance of a regulated substance if such treatment would jeopardize the availability of, or access to, fuel in any rural and remote areas unless an urgent threat to public health, as determined by the Administrator, exists.
 
 #### (B) Applicability
 

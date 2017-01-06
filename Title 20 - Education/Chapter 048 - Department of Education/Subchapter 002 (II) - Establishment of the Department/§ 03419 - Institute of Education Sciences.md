@@ -6,7 +6,7 @@ There shall be in the Department of Education the Institute of Education Science
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in text, is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in text, is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 #### Prior Provisions
 

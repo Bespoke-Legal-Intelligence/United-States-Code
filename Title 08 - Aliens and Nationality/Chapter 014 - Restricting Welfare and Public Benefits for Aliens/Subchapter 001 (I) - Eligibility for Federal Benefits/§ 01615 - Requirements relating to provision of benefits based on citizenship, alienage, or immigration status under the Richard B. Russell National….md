@@ -28,7 +28,7 @@ Notwithstanding any other provision of this Act, an individual who is eligible t
 
 This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended, known as the "Personal Responsibility and Work Opportunity Reconciliation Act of 1996". For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (a) and (b)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classifiedgenerally to chapter 13 (§1751 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (a) and (b)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsec. (b)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 

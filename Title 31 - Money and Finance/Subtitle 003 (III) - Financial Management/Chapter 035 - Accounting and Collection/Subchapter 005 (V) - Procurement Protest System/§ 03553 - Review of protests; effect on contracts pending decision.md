@@ -1,6 +1,6 @@
 ### §3553. Review of protests; effect on contracts pending decision
 
-(a) Under procedures prescribed under section 3555 of this title, the Comptroller General shalldecide a protest submitted to the Comptroller General by an interested party.
+(a) Under procedures prescribed under section 3555 of this title, the Comptroller General shall decide a protest submitted to the Comptroller General by an interested party.
 
 (b)(1) Within one day after the receipt of a protest, the Comptroller General shall notify the Federal agency involved of the protest.
 

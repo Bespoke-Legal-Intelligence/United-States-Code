@@ -10,7 +10,7 @@ As used in this section:
 
 #### (b) Authorization to conduct three projects
 
-The Secretary shall conduct three demonstration projects to determine the effectiveness and cost of providing the subacute-care services described in subsection (b) of this section to individuals infected with the etiologic agent for acquired immune deficiency syndrome, and the impact of such services on the health status of such individuals.
+The Secretary shall conduct three demonstration projects to determine the effectiveness and cost of providing the subacute-care services described in subsection (b) to individuals infected with the etiologic agent for acquired immune deficiency syndrome, and the impact of such services on the health status of such individuals.
 
 #### (c) Services
 
@@ -86,7 +86,7 @@ The Secretary shall enter into an agreement with the Secretary of the Department
 
 <b>1991</b>—Subsec. (h). Pub. L. 102–83 substituted "section 1720 of title 38" for "section 620 of title 38".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted " 'individuals infected with the etiologic agentfor acquired immune deficiency syndrome' means individuals who" for " 'patients infected with the human immunodeficiency virus' means persons who" and "such individuals with such etiologic agent" for "such person with the human immunodeficiency virus".
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted " 'individuals infected with the etiologic agent for acquired immune deficiency syndrome' means individuals who" for " 'patients infected with the humanimmunodeficiency virus' means persons who" and "such individuals with such etiologic agent" for "such person with the human immunodeficiency virus".
 
 Subsec. (a)(2). Pub. L. 100–690, §2618(h)(2), substituted "individuals" for "persons".
 

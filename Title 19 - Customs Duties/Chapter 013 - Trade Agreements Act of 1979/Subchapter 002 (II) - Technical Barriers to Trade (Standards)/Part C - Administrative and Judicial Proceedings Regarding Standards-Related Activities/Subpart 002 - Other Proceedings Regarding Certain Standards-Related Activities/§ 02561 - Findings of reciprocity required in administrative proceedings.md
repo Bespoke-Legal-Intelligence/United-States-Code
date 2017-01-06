@@ -16,7 +16,7 @@ This section does not apply with respect to causes of action arising under—
 
 &emsp;(2) statutes administered by the Secretary of Agriculture.
 
-> This section does not apply with respect to petitions and proceedings that are provided forunder the practices of any Federal agency for the purpose of ensuring, in accordance with section 553 of title 5, that interested persons are given an opportunity to participate in agency rulemaking or to seek the issuance, amendment, or repeal of a rule.
+> This section does not apply with respect to petitions and proceedings that are provided for under the practices of any Federal agency for the purpose of ensuring, in accordance with section 553 of title 5, that interested persons are given an opportunity to participate in agency rulemaking or to seek the issuance, amendment, or repeal of a rule.
 
 (Pub. L. 96–39, title IV, §441, July 26, 1979, 93 Stat. 248; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 

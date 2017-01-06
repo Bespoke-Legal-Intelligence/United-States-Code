@@ -50,7 +50,7 @@
 
 #### (B) Initial appointments to new member positions
 
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph\(2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
 
 #### (C) Subsequent appointments to new member positions
 
@@ -92,7 +92,7 @@ A majority of the current membership of the Board shall constitute a quorum for 
 
 #### (e) Meetings
 
-The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Boardand that vacancy filled in accordance with subsection (b).
+The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
 
 #### (f) Reimbursement of expenses
 

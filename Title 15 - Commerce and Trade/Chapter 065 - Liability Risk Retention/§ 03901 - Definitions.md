@@ -156,7 +156,7 @@ Contents of the Report.—The report shall describe the Secretary's views concer
 
 &emsp;"(4) the causes of any financial difficulties of risk retention groups and purchasing groups;
 
-&emsp;"(5) the extent to which risk retention groups and purchasing groups have been discriminated against under State laws, practices, and procedures contrary to the provisions and underlying policy of this Act and the Product Liability Risk Retention Act (as amended by this Act) \[Pub. L. 97–45, which enacted this chapter\]; and
+&emsp;"(5) the extent to which risk retention groups and purchasing groups have been discriminated againstunder State laws, practices, and procedures contrary to the provisions and underlying policy of this Act and the Product Liability Risk Retention Act (as amended by this Act) \[Pub. L. 97–45, which enacted this chapter\]; and
 
 &emsp;"(6) such other comments and conclusions as the Secretary deems relevant to assessment of the implementation of this Act."
 

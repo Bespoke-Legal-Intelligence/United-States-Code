@@ -16,7 +16,7 @@ Council of Administration.—(1) During the intervals between the national encam
 
 (c)
 
-Officers.—(1) The officers of the corporation are a commander in chief, a senior vicecommander in chief, a junior vice commander in chief, a secretary, a treasurer, and other officers as provided in the constitution and bylaws. One individual may hold the offices of secretary and treasurer.
+Officers.—(1) The officers of the corporation are a commander in chief, a senior vice commander in chief, a junior vice commander in chief, a secretary, a treasurer, and other officers as provided in the constitution and bylaws. One individual may hold the offices of secretary and treasurer.
 
 (2) The manner of selection, term of office, and duties of the officers are as provided in the constitution and bylaws.
 
@@ -56,5 +56,5 @@ In subsection (a)(3), the words "State, territory, or possession of the United S
 
 In subsection (b), the text of 36:537(b) is omitted as obsolete.
 
-In subsection (c), the words "One individual may hold the offices of secretary and treasurer" are substituted for "(which latter two offices may be held by one person)" to eliminate unnecessary words. The word "provided" is substituted for "may be prescribed" to eliminate unnecessary words.
+In subsection (c), the words "One individual may hold the offices of secretary and treasurer" are substitutedfor "(which latter two offices may be held by one person)" to eliminate unnecessary words. The word "provided" is substituted for "may be prescribed" to eliminate unnecessary words.
 

@@ -10,11 +10,15 @@ Authority To Withdraw Federal Recognition.—If an officer of the Army National 
 
 (b)
 
-Discharge From Reserve Appointment.—An officer of the Army National Guard of the United States or the Air National Guard of the United States whose Federal recognition as an officer of the National Guard is withdrawn under section 323(b) of title 32 shall be discharged from the officer's appointment as a reserve officer of the Army or the Air Force, as the case may be.
+Discharge From Reserve Appointment.—An officer of the Army National Guard of theUnited States or the Air National Guard of the United States whose Federal recognition as an officer of the National Guard is withdrawn under section 323(b) of title 32 shall be discharged from the officer's appointment as a reserve officer of the Army or the Air Force, as the case may be.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2960.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(2), (c)(2).
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 

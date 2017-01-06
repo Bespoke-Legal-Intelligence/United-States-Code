@@ -40,7 +40,7 @@ Using protected persons as a shield.—Any person subject to this chapter who po
 
 &emsp;(10)
 
-Using protected property as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished as a military commission under this chapter may direct.
+Using protected property as a shield.—Any person subject to this chapterwho positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(11)
 
@@ -112,7 +112,7 @@ Rape.—Any person subject to this chapter who forcibly or with coercion or thre
 
 &emsp;(22)
 
-Sexual assault or abuse.—Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct <sup>3</sup>
+Sexual assault or abuse.—Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexualcontact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct <sup>3</sup>
 
 &emsp;(23)
 

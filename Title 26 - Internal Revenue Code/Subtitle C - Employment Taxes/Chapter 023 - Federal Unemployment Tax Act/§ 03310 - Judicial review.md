@@ -18,7 +18,7 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 (2) The commencement of judicial proceedings under this section shall stay the Secretary of Labor's action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary of Labor's action and including such other relief as may be necessary to preserve status or rights.
 
-(Added Pub. L. 91–373, title I, §131(b)(1), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 94–455, title XIX, §1906(b)(13)(F), (H), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 98–620, title IV, §402(28)(A), Nov. 8, 1984, 98 Stat. 3359.)
+(Added Pub. L. 91–373, title I, §131(b)(1), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(F), (H), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 98–620, title IV, §402(28)(A), Nov. 8, 1984, 98 Stat. 3359.)
 
 #### Amendments
 
@@ -30,5 +30,5 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(H), substituted "of the Secretary o
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 

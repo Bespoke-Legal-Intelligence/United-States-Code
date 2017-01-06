@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Except as provided in subsection (c)(2)(A), there shall be established, and certified by the Governor of the State, a local workforce development board in each local area of a State to carry out the functions described in subsection\(d) (and any functions specified for the local board under this Act or the provisions establishing a core program) for such area.
+Except as provided in subsection (c)(2)(A), there shall be established, and certified by the Governor of the State, a local workforce development board in each local area of a State to carry out the functions described in subsection (d) (and any functions specified for the local board under this Act or the provisions establishing a core program) for such area.
 
 #### (b) Membership
 
@@ -130,7 +130,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (A) Fraud, abuse, failure to carry out functions
 
-&emsp;&emsp;Notwithstanding paragraph (2), the Governor shall have the authority to decertify alocal board at any time after providing notice and an opportunity for comment, for—
+&emsp;&emsp;Notwithstanding paragraph (2), the Governor shall have the authority to decertify a local board at any time after providing notice and an opportunity for comment, for—
 
 &emsp;&emsp;&emsp;(i) fraud or abuse; or
 
@@ -264,7 +264,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (E) Consumer choice requirements
 
-&emsp;&emsp;Consistent with section 3152 of this title and paragraphs (2) and (3) of section 3174(c) of this title, the local board shall work with the State to ensure there are sufficient numbers and types of providers of career services and training services (including eligible providers with expertise in assisting individuals with disabilities and eligible providers withexpertise in assisting adults in need of adult education and literacy activities) serving the local area and providing the services involved in a manner that maximizes consumer choice, as well as providing opportunities that lead to competitive integrated employment for individuals with disabilities.
+&emsp;&emsp;Consistent with section 3152 of this title and paragraphs (2) and (3) of section 3174(c) of this title, the local board shall work with the State to ensure there are sufficient numbers and types of providers of career services and training services (including eligible providers with expertise in assisting individuals with disabilities and eligible providers with expertise in assisting adults in need of adult education and literacy activities) serving the local area and providing the services involved in a manner that maximizes consumer choice, as well as providing opportunities that lead to competitive integrated employment for individuals with disabilities.
 
 #### (11) Coordination with education providers
 

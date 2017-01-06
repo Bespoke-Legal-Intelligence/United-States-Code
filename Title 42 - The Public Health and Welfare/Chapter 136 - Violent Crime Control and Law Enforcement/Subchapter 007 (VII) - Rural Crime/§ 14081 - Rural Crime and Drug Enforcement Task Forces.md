@@ -6,7 +6,7 @@ The Attorney General, in consultation with the Governors, mayors, and chief exec
 
 #### (b) Task force membership
 
-The Task Forces <sup>1</sup> established under subsection (a) of this section shall be carried out under policies and procedures established by the Attorney General. The Attorney General may deputize State and local law enforcement officers and may cross-designate up to 100 Federal law enforcement officers, when necessary to undertake investigations pursuant to section 873(a) of title 21 or offenses punishable by a term of imprisonment of 10 years or more under title 18. The task forces—
+The Task Forces <sup>1</sup> established under subsection (a) shall be carried out under policies and procedures established by the Attorney General. The Attorney General may deputize State and local law enforcement officers and may cross-designate up to 100 Federal law enforcement officers, when necessary to undertake investigations pursuant to section 873(a) of title 21 or offenses punishable by a term of imprisonment of 10 years or more under title 18. The task forces—
 
 &emsp;(1) shall include representatives from—
 
@@ -22,7 +22,7 @@ The Task Forces <sup>1</sup> established under subsection (a) of this section s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 

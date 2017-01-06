@@ -20,7 +20,7 @@ The President shall—
 
 &emsp;If the President determines that a circumstance described in paragraph (2) exists, the President—
 
-&emsp;&emsp;(A) may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a) of this section; and
+&emsp;&emsp;(A) may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a); and
 
 &emsp;&emsp;(B) shall submit a statement of the reasons for taking the action described in subparagraph (A) to the Commission, Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 

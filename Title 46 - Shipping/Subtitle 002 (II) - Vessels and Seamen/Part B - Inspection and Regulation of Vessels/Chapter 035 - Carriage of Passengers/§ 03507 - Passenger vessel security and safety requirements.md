@@ -36,7 +36,7 @@ In general.—Except as provided in subparagraph (B), the requirements of paragr
 
 &emsp;&emsp;(B)
 
-Latch and key requirements.—The requirements of paragraph (1)(C) take effect onthe date of enactment of the Cruise Vessel Security and Safety Act of 2010.
+Latch and key requirements.—The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
 
 (b)
 
@@ -112,7 +112,7 @@ Confidentiality of Sexual Assault Examination and Support Information.—The mas
 
 &emsp;(1) treat all information concerning an examination under subsection (d) confidential, so that no medical information may be released to the cruise line or other owner of the vessel or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin, except that nothing in this paragraph prohibits the release of—
 
-&emsp;&emsp;(A) information, other than medical findings, necessary for the owner or master ofthe vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
+&emsp;&emsp;(A) information, other than medical findings, necessary for the owner or master of the vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
 
 &emsp;&emsp;(B) information to secure the safety of passengers or crew on board the vessel; or
 
@@ -338,7 +338,7 @@ Pub. L. 111–207, §2, July 27, 2010, 124 Stat. 2243, provided that: "The Congr
 
 &emsp;"(7) Except for United States flagged vessels, or foreign flagged vessels operating in an area subject to the direct jurisdiction of the United States, there are no Federal statutes or regulations that explicitly require cruise lines to report alleged crimes to United States Government officials.
 
-&emsp;"(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many people have disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public.
+&emsp;"(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many peoplehave disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public.
 
 &emsp;"(9) Obtaining reliable crime-related cruise data from governmental sources can be difficult, because multiple countries may be involved when a crime occurs on the high seas, including the flag country for the vessel, the country of citizenship of particular passengers, and any countries having special or maritime jurisdiction.
 

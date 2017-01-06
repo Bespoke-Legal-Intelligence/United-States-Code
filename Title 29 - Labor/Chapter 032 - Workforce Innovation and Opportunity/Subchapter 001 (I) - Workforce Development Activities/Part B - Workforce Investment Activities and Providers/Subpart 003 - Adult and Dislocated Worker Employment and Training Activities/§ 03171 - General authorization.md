@@ -312,7 +312,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(B) For the purposes of section 11, a matter required to be certified under paragraph (12) of subsection (d) shall also be so considered.
 
-"(g) In accordance with regulations which the Administrator shall prescribe, the Administrator may withhold approval of an employer's proposed program of jobtraining pending the outcome of an investigation under section 12 and, based on the outcome of such an investigation, may disapprove such program.
+"(g) In accordance with regulations which the Administrator shall prescribe, the Administrator may withhold approval of an employer's proposed program of job training pending the outcome of an investigation under section 12 and, based on the outcome of such an investigation, may disapprove such program.
 
 "(h) For the purposes of this section, approval of a program of apprenticeship or other on-job training for the purposes of section 3687 of title 38, United States Code, shall be considered to meet all requirements established under the provisions of this Act (other than subsections (b) and (d)(3)) for approval of a program of job training.
 
@@ -424,7 +424,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager.
 
-"(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readinessskills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
+"(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
 
 #### "information and outreach; use of agency resources
 
@@ -446,7 +446,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(e) The Administrator and the Secretary shall assist veterans and employers desiring to participate under this Act in making application and completing necessary certifications.
 
-"(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans' noncompletion.
+"(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads ofState employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans' noncompletion.
 
 #### "authorization of appropriations
 

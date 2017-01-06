@@ -42,23 +42,35 @@ Maximum Amount and Method of Payment.—
 
 Maximum amount.—The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
 
-&emsp;&emsp;(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed—
+&emsp;&emsp;(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate not to exceed $1,000 per month; and
 
-&emsp;&emsp;&emsp;(i) $1,000 per month for officers performing qualifying flying duty relating to remotely piloted aircraft (RPA); or
-
-&emsp;&emsp;&emsp;(ii) $850 per month for officers performing other qualifying flying duty; and
-
-&emsp;&emsp;(B) an aviation bonus under subsection (b) may not exceed, for each 12-month period of obligated service agreed to under subsection (d)—
-
-&emsp;&emsp;&emsp;(i) $35,000 for officers performing qualifying flying duty relating to remotely piloted aircraft; or
-
-&emsp;&emsp;&emsp;(ii) $25,000 for officers performing other qualifying flying duty.
+&emsp;&emsp;(B) an aviation bonus under subsection (b) may not exceed $35,000 for each 12-month period of obligated service agreed to under subsection (d).
 
 &emsp;(2)
 
-Lump sum or installments.—A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
+Annual business case for payment of aviation bonus amounts.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary concerned shall determine the amount of the aviation bonus payable under paragraph (1)(B) under agreements entered into under subsection (d) during a fiscal year solely through abusiness case analysis of the amount required to be paid under such agreements in order to address anticipated manning shortfalls for such fiscal year by aircraft type category.
+
+&emsp;&emsp;(B)
+
+Budget justification documents.—The budget justification documents in support of the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105 of title 31) shall set forth for each uniformed service the following:
+
+&emsp;&emsp;&emsp;(i) The amount requested for the payment of aviation bonuses under subsection (b) using amounts authorized to be appropriated for the fiscal year concerned by aircraft type category.
+
+&emsp;&emsp;&emsp;(ii) The business case analysis supporting the amount so requested by aircraft type category.
+
+&emsp;&emsp;&emsp;(iii) For each aircraft type category, whether or not the amount requested will permit the payment during the fiscal year concerned of the maximum amount of the aviation bonus authorized by paragraph (1)(B).
+
+&emsp;&emsp;&emsp;(iv) If any amount requested is to address manning shortfalls, a description of any plans of the Secretary concerned to address such shortfalls by nonmonetary means.
 
 &emsp;(3)
+
+Lump sum or installments.—A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
+
+&emsp;(4)
 
 Fixing bonus amount.—Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
 
@@ -108,11 +120,29 @@ Definitions.—In this section:
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2016.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2017.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840; Pub. L. 114–328, div. A, title VI, §§614(4), 616, Dec. 23, 2016, 130 Stat. 2158, 2159.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (c)(1)(A), (B). Pub. L. 114–328, §616(a), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed—
+
+&emsp;"(i) $1,000 per month for officers performing qualifying flying duty relating to remotely piloted aircraft (RPA); or
+
+&emsp;"(ii) $850 per month for officers performing other qualifying flying duty; and
+
+"(B) an aviation bonus under subsection (b) may not exceed, for each 12-month period of obligated service agreed to under subsection (d)—
+
+&emsp;"(i) $35,000 for officers performing qualifying flying duty relating to remotely piloted aircraft; or
+
+&emsp;"(ii) $25,000 for officers performing other qualifying flying duty."
+
+Subsec. (c)(2) to (4). Pub. L. 114–328, §616(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (i). Pub. L. 114–328, §614(4), substituted "December 31, 2017" for "December 31, 2016".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92, §617(a), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).
 

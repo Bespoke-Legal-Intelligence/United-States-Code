@@ -1,6 +1,6 @@
 ### §921a. Appearance of attorneys for Secretary, deputy commissioner, or Board
 
-Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under section 921 of this title or other provisions of this chapter except for proceedings in the Supreme Court of the United States.
+Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under section 921 of this title or other provisionsof this chapter except for proceedings in the Supreme Court of the United States.
 
 (May 4, 1928, ch. 502, 45 Stat. 490; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 92–576, §16, Oct. 27, 1972, 86 Stat. 1262.)
 

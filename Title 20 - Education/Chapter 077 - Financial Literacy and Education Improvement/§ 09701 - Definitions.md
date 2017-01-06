@@ -84,7 +84,7 @@ Sec. 5. <i>Administration of the Council</i>. (a) To the extent permitted by law
 
 (ii) while engaged in the work of the Council, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government (5 U.S.C. 5701–5707), consistent with the availability of funds.
 
-(d) The Secretary shall designate an officer or employee of the United States within the Department ofthe Treasury to serve as an Executive Director to supervise the administrative support for the Council.
+(d) The Secretary shall designate an officer or employee of the United States within the Department of the Treasury to serve as an Executive Director to supervise the administrative support for the Council.
 
 Sec. 6. <i>Termination of the Council</i>. Unless extended by the President, the Council shall terminate 2 years from the date of this order.
 
@@ -180,7 +180,7 @@ Sec. 5. <i>Administration of the Council</i>. (a) To the extent permitted by law
 
 (i) shall serve without any compensation for their work on the Council; and
 
-(ii) while engaged in the work of the Council, may be allowed travel expenses, including per diem in lieu ofsubsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
+(ii) while engaged in the work of the Council, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
 
 (d) The Secretary shall designate an official within the Department of the Treasury to serve as an Executive Director to supervise the administrative support for the Council.
 

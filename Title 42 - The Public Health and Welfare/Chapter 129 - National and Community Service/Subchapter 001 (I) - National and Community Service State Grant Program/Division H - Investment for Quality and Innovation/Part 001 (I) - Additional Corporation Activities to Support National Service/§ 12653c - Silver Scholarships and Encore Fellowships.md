@@ -32,7 +32,7 @@
 
 #### (7) Support services
 
-&emsp;A community-based entity receiving a fixed-amount grant under this subsection may use aportion of the grant to provide transportation services to an eligible individual to allow such individual to participate in a service project.
+&emsp;A community-based entity receiving a fixed-amount grant under this subsection may use a portion of the grant to provide transportation services to an eligible individual to allow such individual to participate in a service project.
 
 #### (b) Encore Fellowships
 
@@ -110,7 +110,7 @@
 
 #### (A) Request for placement with listed organizations
 
-&emsp;&emsp;To be placed with a listed organization in accordance with paragraph (2)(B) for a service project, an eligible Encore Fellowship recipient shall submit an application for such placement to the Corporation at such time, in such manner, and containing such information as the Corporation may require.
+&emsp;&emsp;To be placed with a listed organization in accordance with paragraph (2)(B) for a service project, an eligible Encore Fellowship recipient shall submit an application for suchplacement to the Corporation at such time, in such manner, and containing such information as the Corporation may require.
 
 #### (B) Request for placement with other organization
 

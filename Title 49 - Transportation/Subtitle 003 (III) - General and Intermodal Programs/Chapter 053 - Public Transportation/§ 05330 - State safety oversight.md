@@ -42,7 +42,7 @@ Availability of Withheld Amounts.—(1) An amount withheld under subsection (b) 
 
 #### Repeal of Section
 
-<i>Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years</i><i>after the effective date of the final rules issued by the Secretary of Transportation under section 5329(e) of this title, this section is repealed.</i>
+<i>Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years</i><i>after the effective date of the final rules (Apr. 15, 2016) issued by the Secretary of Transportation under section 5329(e) of this title (see 81 F.R. 14230), this section is repealed.</i>
 
 Historical and Revision Notes
 
@@ -100,5 +100,5 @@ Subsec. (f). Pub. L. 109–59, §3029(a)(3), struck out heading and text of subs
 
 #### Effective Date of Repeal
 
-Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under section 5329(e) of this title.
+Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules (Apr. 15, 2016) issued by the Secretary of Transportation under section 5329(e) of this title (see 81 F.R. 14230).
 

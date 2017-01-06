@@ -38,7 +38,7 @@ Annual report.—The Advisory Committee shall submit to the Assistant Secretary 
 
 &emsp;(5)
 
-Feedback.—Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
+Feedback.—Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (2) or (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
 
 &emsp;(6)
 
@@ -74,7 +74,7 @@ Term of office.—
 
 &emsp;&emsp;(A)
 
-Terms.—The term of each member of the Advisory Committee shall be 2 years. A member of the Advisory Committee may be reappointed.
+Terms.—The term of each member of the Advisory Committee shall be two years, but a member may continue to serve until a successor is appointed. A member of the Advisory Committee may be reappointed.
 
 &emsp;&emsp;(B)
 
@@ -114,7 +114,7 @@ Subcommittees.—
 
 &emsp;(1)
 
-Membership.—The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that theAssistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
+Membership.—The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that the Assistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
 
 &emsp;&emsp;(A)
 
@@ -176,11 +176,17 @@ In general.—The term "perimeter security" means procedures or systems to monit
 
 Inclusions.—The term "perimeter security" includes the fence area surrounding an airport, access gates, and access controls.
 
-(Added Pub. L. 113–238, §2(a), Dec. 18, 2014, 128 Stat. 2842.)
+(Added Pub. L. 113–238, §2(a), Dec. 18, 2014, 128 Stat. 2842; amended Pub. L. 114–190, title III, §3411, July 15, 2016, 130 Stat. 662.)
 
 #### References in Text
 
 The date of enactment of the Aviation Security Stakeholder Participation Act of 2014, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 113–238, which was approved Dec. 18, 2014.
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (b)(5). Pub. L. 114–190, §3411(b), substituted "paragraph (2) or (4)" for "paragraph (4)".
+
+Subsec. (c)(2)(A). Pub. L. 114–190, §3411(a), amended subpar. (A) generally. Prior to amendment, text read as follows: "The term of each member of the Advisory Committee shall be 2 years. A member of the Advisory Committee may be reappointed."
 

@@ -10,7 +10,7 @@ The Secretary of Agriculture shall investigate and submit to Congress a report o
 
 &emsp;(3) the humane treatment of nonambulatory livestock; and
 
-&emsp;(4) the extent to which nonambulatory livestock may present handling and disposition problems for stockyards, market agencies, and dealers.
+&emsp;(4) the extent to which nonambulatory livestock may present handling and dispositionproblems for stockyards, market agencies, and dealers.
 
 #### (b) Authority
 

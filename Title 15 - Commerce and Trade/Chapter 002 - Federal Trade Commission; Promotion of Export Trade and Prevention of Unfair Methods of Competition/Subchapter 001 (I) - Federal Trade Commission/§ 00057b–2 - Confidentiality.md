@@ -28,7 +28,7 @@ For purposes of this section:
 
 &emsp;(ii) answers to questions in writing and transcripts of oral testimony shall be available for examination by the person who produced the testimony or by his attorney.
 
-(4) Whenever the Commission has instituted a proceeding against a person, partnership, or corporation, the custodian may deliver to any officer or employee of the Commission documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony for official use in connection with such proceeding. Upon the completion of the proceeding, the officer or employee shall return to the custodian any such material so delivered which has not been received into the record of the proceeding.
+(4) Whenever the Commission has instituted a proceeding against a person, partnership, or corporation, the custodian may deliver to any officer or employee of the Commission documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony for official use in connection with such proceeding. Upon the completion of the proceeding, the officer or employee shall return to thecustodian any such material so delivered which has not been received into the record of the proceeding.
 
 (5) If any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony have been produced in the course of any investigation by any person pursuant to compulsory process and—
 
@@ -60,13 +60,13 @@ For purposes of this section:
 
 &emsp;(A) designate under paragraph (2)(A) another duly authorized agent to serve as custodian of such material; and
 
-&emsp;(B) transmit in writing to the person who produced the material or testimony notice asto the identity and address of the successor so designated.
+&emsp;(B) transmit in writing to the person who produced the material or testimony notice as to the identity and address of the successor so designated.
 
 > Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
 
 #### (c) Information considered confidential
 
-(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
+(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) shall be considered confidential when so marked bythe person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
 
 (2) If the Commission determines that a document marked confidential by the person supplying it may be disclosed because it is not a trade secret or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, then the Commission shall notify such person in writing that the Commission intends to disclose the document at a date not less than 10 days after the date of receipt of notification.
 
@@ -110,7 +110,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 #### (B) Savings provision
 
-&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold informationfrom the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
+&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
 (Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§6, 13, Dec. 22, 2006, 120 Stat. 3376, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 

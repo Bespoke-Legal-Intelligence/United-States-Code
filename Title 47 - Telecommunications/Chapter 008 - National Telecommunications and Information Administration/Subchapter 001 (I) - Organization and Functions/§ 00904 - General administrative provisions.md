@@ -4,7 +4,7 @@
 
 #### (1) Agency consultation
 
-&emsp;Federal agencies shall consult with the Assistant Secretary and the NTIA to ensure that the conduct of telecommunications activities by such agencies is consistent with the policies developed under section 902(b)(2)(K) of this title.
+&emsp;Federal agencies shall consult with the Assistant Secretary and the NTIA to ensure thatthe conduct of telecommunications activities by such agencies is consistent with the policies developed under section 902(b)(2)(K) of this title.
 
 #### (2) Report to President
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) an inpatient rehabilitation facility; and
 
-&emsp;&emsp;&emsp;(iv) a long-term care hospital (other than a hospital classified under section 1395ww(d)(1)(B)(iv)(II) of this title).
+&emsp;&emsp;&emsp;(iv) a long-term care hospital (other than a hospital classified under section 1395ww(d)(1)(B)(vi) of this title).
 
 #### (B) PAC assessment instrument
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(D) Incidence of major falls.
 
-&emsp;&emsp;(E) Accurately communicating the existence of and providing for the transfer of health information and care preferences ofan individual to the individual, family caregiver of the individual, and providers of services furnishing items and services to the individual, when the individual transitions—
+&emsp;&emsp;(E) Accurately communicating the existence of and providing for the transfer of health information and care preferences of an individual to the individual, family caregiver of the individual, and providers of services furnishing items and services to the individual, when the individual transitions—
 
 &emsp;&emsp;&emsp;(i) from a hospital or critical access hospital to another applicable setting, including a PAC provider or the home of the individual; or
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To the extent possible, the Secretary shall require such reporting by a PAC provider of quality measures under paragraph (1) through the use of a PAC assessment instrument and shall modify such PAC assessment instrument as necessary to enable the use of such instrument with respect to such quality measures.
+&emsp;&emsp;To the extent possible, the Secretary shall require such reporting by a PAC provider of quality measures under paragraph (1) through the use of a PAC assessment instrument and shall modify such PAC assessmentinstrument as necessary to enable the use of such instrument with respect to such quality measures.
 
 #### (B) Limitation
 
@@ -256,7 +256,7 @@
 
 #### (B) Second implementation phase
 
-&emsp;&emsp;The second implementation phase, with respect to such a measure, shall consist of theprovision of feedback reports to PAC providers, in accordance with subsection (f).
+&emsp;&emsp;The second implementation phase, with respect to such a measure, shall consist of the provision of feedback reports to PAC providers, in accordance with subsection (f).
 
 #### (C) Third implementation phase
 
@@ -270,7 +270,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
+&emsp;&emsp;In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practicalmeasure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
 
 #### (3) Treatment of application of pre-rulemaking process (measure applications partnership process)
 
@@ -328,7 +328,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may remove, suspend, or add a quality measure or resource use or other measure described in subsection (c)(1) or (d)(1),so long as, subject to paragraph (2), the Secretary publishes in the Federal Register (with a notice and comment period) a justification for such removal, suspension, or addition.
+&emsp;The Secretary may remove, suspend, or add a quality measure or resource use or other measure described in subsection (c)(1) or (d)(1), so long as, subject to paragraph (2), the Secretary publishes in the Federal Register (with a notice and comment period) a justification for such removal, suspension, or addition.
 
 #### (2) Exception
 
@@ -368,11 +368,15 @@ There shall be no administrative or judicial review under sections 1395ff and 13
 
 Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 1995") shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1899B, as added Pub. L. 113–185, §2(a), Oct. 6, 2014, 128 Stat. 1952.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1899B, as added Pub. L. 113–185, §2(a), Oct. 6, 2014, 128 Stat. 1952; amended Pub. L. 114–255, div. C, title XV, §15008(d)(1), Dec. 13, 2016, 130 Stat. 1321.)
 
 #### References in Text
 
 Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d)(3)(A), is section 2(d) of Pub. L. 113–185, which is set out as a note under this section.
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted "1395ww(d)(1)(B)(vi)" for "1395ww(d)(1)(B)(iv)(II)".
 
 #### Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems
 
@@ -408,7 +412,7 @@ Report.—Not later than 5 years after the date of the enactment of this Act, th
 
 &emsp;"(C)
 
-Examination of data in conducting studies.—In conducting the studies under subparagraphs (A) and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
+Examination of data in conducting studies.—In conducting the studies under subparagraphs (A)and (B), the Secretary shall examine what non-Medicare data sets, such as data from the American Community Survey (ACS), can be useful in conducting the types of studies under such paragraphs and how such data sets that are identified as useful can be coordinated with Medicare administrative data in order to improve the overall data set available to do such studies and for the administration of the Medicare program.
 
 &emsp;"(D)
 

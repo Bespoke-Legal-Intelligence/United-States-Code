@@ -2,7 +2,7 @@
 
 #### (a) Certificate
 
-(1) Every certificate of plant variety protection shall certify that the breeder (or the successor in interest of the breeder),<sup>1</sup> has the right, during the term of the plant variety protection, to exclude others from selling the variety, or offering it for sale, or reproducing it, or importing it, or exporting it, or using it in producing (as distinguished from developing) a hybrid or different variety therefrom, to the extent provided by this chapter.
+(1) Every certificate of plant variety protection shall certify that the breeder (or the successor in interest of the breeder),<sup>1</sup> has the right, during the term of the plant variety protection,to exclude others from selling the variety, or offering it for sale, or reproducing it, or importing it, or exporting it, or using it in producing (as distinguished from developing) a hybrid or different variety therefrom, to the extent provided by this chapter.
 
 (2) If the owner so elects, the certificate shall—
 
@@ -46,7 +46,7 @@ Subsec. (a)(1). Pub. L. 103–349, §13(m)(1)(A), which directed the substitutio
 
 Subsec. (a)(2), (3). Pub. L. 103–349, §7(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-"(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the varietyshall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
+"(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the variety shall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
 
 "(3) Any rights, or all rights except those elected under the preceding sentence, may be waived; and the certificate shall conform to such waiver."
 

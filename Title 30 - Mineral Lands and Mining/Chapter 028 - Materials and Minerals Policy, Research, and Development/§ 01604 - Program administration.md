@@ -24,7 +24,7 @@ In accordance with the provisions of the National Science and Technology Policy,
 
 &emsp;(1) through the Federal Coordinating Council for Science, Engineering, and Technology coordinate Federal materials research and development and related activities in accordance with the policies and objectives established in this chapter;
 
-&emsp;(2) place special emphasis on the long-range assessment of national materials needs related to scientific and technological concerns and the research and development, Federal and private, necessary to meet those needs; and
+&emsp;(2) place special emphasis on the long-range assessment of national materials needs related to scientific and technological concerns andthe research and development, Federal and private, necessary to meet those needs; and
 
 &emsp;(3) prepare an assessment of national materials needs related to scientific and technological changes over the next five years. Such assessment shall be revised on an annual basis. Where possible, the Director shall extend the assessment in 10- and 25-year increments over the whole expected lifetime of such needs and technologies.
 
@@ -62,7 +62,7 @@ In furtherance of the policies of this chapter, the Secretary of the Interior sh
 
 #### References in Text
 
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec.\(b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
 
 The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 

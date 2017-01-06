@@ -106,7 +106,7 @@ Consultation.—In carrying out its purpose and activities, the Committee may co
 
 #### References in Text
 
-The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of Pub.L. 112–213, which enacted this section and was approved Dec. 20, 2012.
+The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of Pub. L. 112–213, which enacted this section and was approved Dec. 20, 2012.
 
 #### Prior Provisions
 

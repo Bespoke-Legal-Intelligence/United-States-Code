@@ -46,7 +46,7 @@ Notification Requirements.—The amendments made by section 1422 \[amending sect
 
 "(f)
 
-Training Requirement.—The amendments made by subsections (a), (b)(2), and (c)(2) of section 1423 and by paragraphs (2) and (3) of section 1424(c) \[amending sections 2291 to 2293, 2296, and 2311 of this title\] shall take effect on the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\].
+Training Requirement.—The amendments made by subsections (a), (b)(2), and (c)(2) of section 1423 and by paragraphs (2) and (3) of section 1424(c) \[amending sections 2291 to 2293, 2296, and 2311 of this title\] shalltake effect on the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\].
 
 "(g)
 

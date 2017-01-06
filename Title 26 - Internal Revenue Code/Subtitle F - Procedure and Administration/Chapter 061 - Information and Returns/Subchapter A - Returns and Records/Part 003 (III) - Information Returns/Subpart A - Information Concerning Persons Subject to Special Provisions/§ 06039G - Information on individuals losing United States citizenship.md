@@ -46,7 +46,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(3) the Federal agency primarily responsible for administering the immigration laws shall provide to the Secretary the name of each lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) whose status as such has been revoked or has been administratively or judicially determined to have been abandoned.
 
-> Notwithstanding any other provision of law, not later than 30 days after the close of each calendar quarter, the Secretary shall publish in theFederal Register the name of each individual losing United States citizenship (within the meaning of section 877(a) or 877A) with respect to whom the Secretary receives information under the preceding sentence during such quarter.
+> Notwithstanding any other provision of law, not later than 30 days after the close of each calendar quarter, the Secretary shall publish in the Federal Register the name of each individual losing United States citizenship (within the meaning of section 877(a) or 877A) with respect to whom the Secretary receives information under the preceding sentence during such quarter.
 
 (Added Pub. L. 104–191, title V, §512(a), Aug. 21, 1996, 110 Stat. 2100, §6039F; renumbered §6039G, Pub. L. 105–34, title XVI, §1602(h)(1), Aug. 5, 1997, 111 Stat. 1096; amended Pub. L. 108–357, title VIII, §804(e), Oct. 22, 2004, 118 Stat. 1572; Pub. L. 110–245, title III, §301(e), June 17, 2008, 122 Stat. 1646.)
 

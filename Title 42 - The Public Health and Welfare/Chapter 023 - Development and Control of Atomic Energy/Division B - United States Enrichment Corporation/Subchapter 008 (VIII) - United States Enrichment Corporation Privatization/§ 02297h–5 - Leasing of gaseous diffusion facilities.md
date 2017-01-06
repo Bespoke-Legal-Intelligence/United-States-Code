@@ -18,7 +18,7 @@ The payment of any costs of decontamination and decommissioning, response action
 
 #### (e) Environmental audit
 
-For purposes of subsection (d) of this section, the conditions existing before July 1, 1993, at the gaseous diffusion plants shall be determined from the environmental audit conducted pursuant to section 1403(e) of the Atomic Energy Act of 1954 (42 U.S.C. 2297c–2(e)).
+For purposes of subsection (d), the conditions existing before July 1, 1993, at the gaseous diffusion plants shall be determined from the environmental audit conducted pursuant to section 1403(e) of the Atomic Energy Act of 1954 (42 U.S.C. 2297c–2(e)).
 
 #### (f) Treatment under Price-Anderson provisions
 
@@ -38,7 +38,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 &emsp;(A) The costs of arming and providing arrest authority to the security police officers required under paragraph (1) shall be paid as follows:
 
-&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of theDepartment (including employees of a contractor or subcontractor of the private entity); and
+&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
 
 &emsp;&emsp;(ii) the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(E) encompasses the full range of services that are available for migratory children from appropriate local, State, and Federal educational programs;
 
-&emsp;&emsp;(F) is the product of joint planning among such local, State, and Federal programs, including programs under part A of this subchapter, early childhood programs, and language instruction educational programs under part A of subchapter III of this chapter; and
+&emsp;&emsp;(F) is the product of joint planning among such local, State, and Federal programs, including programs under part A, early childhood programs, and language instruction educational programs under part A of subchapter III; and
 
 &emsp;&emsp;(G) provides for the integration of services available under this part with services provided by such other programs.
 
@@ -38,11 +38,11 @@
 
 #### (1) Flexibility
 
-&emsp;In implementing the comprehensive plan described in subsection (a) of this section, each State educational agency, where applicable through its local educational agencies, retains the flexibility to determine the activities to be provided with funds made available under this part, except that such funds first shall be used to meet the identified needs of migratory children that result from their migratory lifestyle, and to permit these children to participate effectively in school.
+&emsp;In implementing the comprehensive plan described in subsection (a), each State educational agency, where applicable through its local educational agencies, retains the flexibility to determine the activities to be provided with funds made available under this part, except that such funds first shall be used to meet the identified needs of migratory children that result from their migratory lifestyle, and to permit these children to participate effectively in school.
 
 #### (2) Unaddressed needs
 
-&emsp;Funds provided under this part shall be used to address the needs of migratory children that are not addressed by services available from other Federal or non-Federal programs, except that migratory children who are eligible to receive services under part A of this subchapter may receive those services through funds provided under that part, or through funds under this part that remain after the agency addresses the needs described in paragraph (1).
+&emsp;Funds provided under this part shall be used to address the needs of migratory children that are not addressed by services available from other Federal or non-Federal programs, except that migratory children who are eligible to receive services under part A may receive those services through funds provided under that part, or through funds under this part that remain after the agency addresses the needs described in paragraph (1).
 
 #### (3) Construction
 

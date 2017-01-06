@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted tothe congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
+(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
 
 (2) In this subsection:
 
@@ -112,7 +112,7 @@ In subsection (f), the word "considers" is substituted for the words "may determ
 
 #### References in Text
 
-Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (g)(1), is section 141(c)(3) of Pub. L. 112–239, div. A, title I, Jan. 2, 2013, 126 Stat. 1661.
+Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec.\(g)(1), is section 141(c)(3) of Pub. L. 112–239, div. A, title I, Jan. 2, 2013, 126 Stat. 1661.
 
 #### Amendments
 
@@ -137,6 +137,58 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g).
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transition of Air Force to Operation of Remotely Piloted Aircraft by Enlisted Personnel
+
+Pub. L. 114–328, div. A, title X, §1052, Dec. 23, 2016, 130 Stat. 2397, provided that:
+
+"(a)
+
+Transition Required.—The Secretary of the Air Force shall transition the Air Force to an organizational model for all Air Force remotely piloted aircraft that uses a significant number of enlisted personnel as operators of such aircraft rather than officers only.
+
+"(b)
+
+Deadlines.—
+
+&emsp;"(1)
+
+Regular component.—For the regular component of the Air Force, the transition required by subsection (a) shall be completed not later than September 30, 2020.
+
+&emsp;"(2)
+
+Reserve components.—For the Air Force Reserve and Air National Guard, the transition required by subsection (a) shall be completed not later than September 30, 2023.
+
+"(c)
+
+Transition Matters.—The transition required by subsection (a) shall account for the following:
+
+&emsp;"(1) Training infrastructure for enlisted personnel operating Air Force remotely piloted aircraft.
+
+&emsp;"(2) Supervisory roles for officers and senior enlisted personnel for enlisted personnel operating Air Force remotely piloted aircraft.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than March 1, 2017, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that sets forth a detailed description of the plan for the transition required by subsection (a), including the following:
+
+&emsp;&emsp;"(A) The objectives of the transition.
+
+&emsp;&emsp;"(B) The timeline of the transition.
+
+&emsp;&emsp;"(C) The resources required to implement the transition.
+
+&emsp;&emsp;"(D) Recommendations for any legislation action required to implement the transition.
+
+&emsp;&emsp;"(E) The assumptions used to complete the transition.
+
+&emsp;&emsp;"(F) Risks associated with implementing the transition.
+
+&emsp;"(2)
+
+Reports on progress of implementation.—Not later than March 1, 2018, and each March 1 thereafter until the transition required by subsection (a) is completed, the Secretary shall submit to the committees referred to in paragraph (1) a report on the progress of the Air Force in implementing the plan required under that paragraph and in achieving the transition required by subsection (a)."
 
 #### Requirements for Transferring Aircraft Within the Air Force Inventory
 

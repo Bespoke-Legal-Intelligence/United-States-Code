@@ -47,7 +47,7 @@ The section is included because 49:1655(e)(6)(D) transferred to the Secretary of
 
 See the revision notes for the revised sections for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-In the section, the words "motor carriers" are omitted because 49:1655(e)(6)(D) applies 49:321(a) and (c) only to motor carriers of migrant workers, other than motor contract carriers, and to motor private carriers, and 49:1655(f)(2)(B)(ii) contains no reference to 49:321. The text of 49:321(b) and (d) is not included because those provisions, while included in the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(e)(6)(D).
+In the section, the words "motor carriers" are omitted because 49:1655(e)(6)(D) applies 49:321(a) and (c) only to motor carriers of migrant workers, other than motorcontract carriers, and to motor private carriers, and 49:1655(f)(2)(B)(ii) contains no reference to 49:321. The text of 49:321(b) and (d) is not included because those provisions, while included in the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(e)(6)(D).
 
 In subsection (b), the text of 49:321(a) (less 1st–5th sentences) is omitted as not applicable to this chapter.
 

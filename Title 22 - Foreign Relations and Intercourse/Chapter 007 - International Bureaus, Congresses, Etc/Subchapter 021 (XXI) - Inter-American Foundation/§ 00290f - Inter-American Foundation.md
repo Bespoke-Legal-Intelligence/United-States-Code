@@ -24,7 +24,7 @@ The Foundation shall carry out the purposes set forth in subsection (b) of this 
 
 #### (d) Coordination of activities with national and international agencies
 
-In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, andother entities engaged in promoting social and economic development of Latin America.
+In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, and other entities engaged in promoting social and economic development of Latin America.
 
 #### (e) Powers and functions
 
@@ -78,7 +78,7 @@ In furtherance and not in limitation of the powers conferred upon it, the Board 
 
 #### (l) President of Foundation: appointment and compensation; employment of experts and consultants
 
-(1) The chief executive officer of the Foundation shall be a President who shall be appointedby the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+(1) The chief executive officer of the Foundation shall be a President who shall be appointed by the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 (2) Experts and consultants, or organizations thereof, may be employed as authorized by section 3109 of title 5.
 
@@ -132,7 +132,7 @@ Funds made available to the Foundation may be used for printing and binding with
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as anote under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -152,7 +152,7 @@ Subsec. (s)(2). Pub. L. 102–138, §173(a), amended first sentence generally, s
 
 Subsecs. (v), (w). Pub. L. 102–138, §173(d), added subsecs. (v) and (w).
 
-<b>1990</b>—Subsec. (s)(2). Pub. L. 101–246 amended first sentence generally, substituting "$16,932,000 for the fiscal year 1990 and $25,000,000 for the fiscal year 1991" for "$11,969,000 for fiscal year 1986 and $12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)".
+<b>1990</b>—Subsec. (s)(2). Pub. L. 101–246 amended first sentence generally, substituting "$16,932,000 for the fiscal year 1990 and $25,000,000 for the fiscal year 1991" for "$11,969,000 for fiscal year 1986 and $12,969,000 for fiscalyear 1987 (not less than $1,000,000 of which shall be for Haiti)".
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–529, §403(a), substituted "nine members" for "seven members" and "Six members" for "Four members".
 

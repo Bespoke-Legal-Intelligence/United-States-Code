@@ -8,13 +8,13 @@ The Board is authorized to solicit and accept for the John F. Kennedy Center for
 
 #### (1) Chairperson and Secretary
 
-&emsp;The Board shall appoint and fix the compensation and duties of a Chairperson of theJohn F. Kennedy Center for the Performing Arts, who shall serve as the chief executive officer of the Center, and a Secretary of the John F. Kennedy Center for the Performing Arts. The Chairperson and Secretary shall be well qualified by experience and training to perform the duties of their respective offices.
+&emsp;The Board shall appoint and fix the compensation and duties of a Chairperson of the John F. Kennedy Center for the Performing Arts, who shall serve as the chief executive officer of the Center, and a Secretary of the John F. Kennedy Center for the Performing Arts. The Chairperson and Secretary shall be well qualified by experience and training to perform the duties of their respective offices.
 
 #### (2) Senior level executive and other employees
 
 &emsp;The Chairperson of the John F. Kennedy Center for the Performing Arts may appoint—
 
-&emsp;&emsp;(A) a senior level executive who, by virtue of the background of the individual, shall be well suited to be responsible for facilities management and services and who may, without regard to the provisions of title 5, be appointed and compensated with appropriated funds, except that the compensation may not exceed the maximum rate of pay prescribed for level IV of the Executive Schedule under section 5315 of title 5; and
+&emsp;&emsp;(A) a senior level executive who, by virtue of the background of the individual, shall bewell suited to be responsible for facilities management and services and who may, without regard to the provisions of title 5, be appointed and compensated with appropriated funds, except that the compensation may not exceed the maximum rate of pay prescribed for level IV of the Executive Schedule under section 5315 of title 5; and
 
 &emsp;&emsp;(B) such other officers and employees of the John F. Kennedy Center for the Performing Arts as may be necessary for the efficient administration of the functions of the Board.
 
@@ -76,7 +76,7 @@ Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) 
 
 #### References in Text
 
-The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and76s of this title, amended this section, sections 76h, 76j, 76l, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under section 76h of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 76h of this title and Tables.
+The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and 76s of this title, amended this section, sections 76h, 76j, 76l, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under section 76h of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 76h of this title and Tables.
 
 The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 

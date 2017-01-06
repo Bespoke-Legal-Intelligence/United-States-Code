@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(A) is designed to enable the State to meet the requirements of section 1412(a)(14) of this title and section 1435(a)(8) and (9) of this title;
 
-&emsp;&emsp;(B) is based on an assessment of State and local needs that identifies critical aspects and areas in need of improvement related to the preparation, ongoing training, and professional development of personnel who serve infants, toddlers, preschoolers, and children with disabilities within the State, including—
+&emsp;&emsp;(B) is based on an assessment of State and local needs that identifies critical aspectsand areas in need of improvement related to the preparation, ongoing training, and professional development of personnel who serve infants, toddlers, preschoolers, and children with disabilities within the State, including—
 
 &emsp;&emsp;&emsp;(i) current and anticipated personnel vacancies and shortages; and
 
 &emsp;&emsp;&emsp;(ii) the number of preservice and inservice programs; and
 
-&emsp;&emsp;(C) is integrated and aligned, to the maximum extent possible, with State plans and activities under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\].
+&emsp;&emsp;(C) is integrated and aligned, to the maximum extent possible, with State plans and activities under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\].
 
 #### (3) Requirement
 
@@ -36,7 +36,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;(2) describe how the strategies and activities described in paragraph (4) will be coordinated with activities supported with other public resources (including part B \[subchapter II\] and part C \[subchapter III\] funds retained for use at the State level for personnel and professional development purposes) and private resources;
 
-&emsp;(3) describe how the State educational agency will align its personnel development planunder this part with the plan and application submitted under sections 1111 and 2101(d), respectively, of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6611(d)\];
+&emsp;(3) describe how the State educational agency will align its personnel development plan under this part with the plan and application submitted under sections 1111 and 2101(d), respectively, of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6611(d)\];
 
 &emsp;(4) describe those strategies the State educational agency will use to address the professional development and personnel needs identified under subsection (a)(2) and how such strategies will be implemented, including—
 
@@ -78,7 +78,7 @@ Each State educational agency that receives a grant under this part shall submit
 
 &emsp;(3) identify changes in the strategies used by the State educational agency and described in subsection (b)(4), if any, to improve the State educational agency's performance.
 
-(Pub. L. 91–230, title VI, §653, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2768; amended Pub. L. 114–95, title IX, §§9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
+(Pub. L. 91–230, title VI, §653, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2768;amended Pub. L. 114–95, title IX, §§9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

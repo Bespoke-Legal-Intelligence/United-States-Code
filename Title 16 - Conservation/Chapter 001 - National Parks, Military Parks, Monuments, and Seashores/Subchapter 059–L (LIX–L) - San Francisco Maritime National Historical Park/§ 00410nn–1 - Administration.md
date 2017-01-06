@@ -24,7 +24,7 @@ Within 2 years after establishment of the park, the Secretary shall prepare and 
 
 &emsp;(2) plans for the preservation of each historic vessel, including docking facilities, maintenance and ship repair facilities, and estimates for the costs thereof; a determination of the need for permanent docking facilities in a location best suited to the preservation of the historic vessels and for visitor access to the historic vessels; methods of accommodating visitors while protecting the historic vessels; and methods for providing for the proper care, exhibition, and storage of the park collections;
 
-&emsp;(3) plans for the location, preliminary design, and estimated cost of public facilities to be developed for the park, including a museum building, visitor parking, and public transit access; and
+&emsp;(3) plans for the location, preliminary design, and estimated cost of public facilities to be developed for the park, including a museumbuilding, visitor parking, and public transit access; and
 
 &emsp;(4) Plans <sup>2</sup> for the interpretation of the historic vessels and park collections.
 

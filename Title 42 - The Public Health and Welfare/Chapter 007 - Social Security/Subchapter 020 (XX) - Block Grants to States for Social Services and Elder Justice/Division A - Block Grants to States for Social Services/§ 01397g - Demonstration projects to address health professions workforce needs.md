@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A demonstration project conducted by an eligible entity awarded a grant under this section shall, if appropriate, provide eligible individuals participating in the project with financial aid, child care, case management, and other supportive services.
+&emsp;&emsp;&emsp;A demonstration project conducted by an eligible entity awarded a grant under this section shall, if appropriate, provide eligible individuals participating in the project with financial aid, child care, casemanagement, and other supportive services.
 
 #### (ii) Treatment
 
@@ -60,7 +60,7 @@
 
 #### (C) Indian tribe; tribal organization
 
-&emsp;&emsp;The terms "Indian tribe" and "tribal organization" have the meaning given such terms in section 450b of title 25.
+&emsp;&emsp;The terms "Indian tribe" and "tribal organization" have the meaning given such terms in section 5304 of title 25.
 
 #### (D) Institution of higher education
 
@@ -82,7 +82,7 @@
 
 #### (1) Authority to award grants
 
-&emsp;Not later than 18 months after March 23, 2010, the Secretary shall award grants to eligible entities that are States to conduct demonstration projects for purposes of developing core training competencies and certification programs for personal or home care aides. The Secretary shall—
+&emsp;Not later than 18 months after March 23, 2010, the Secretary shall award grants to eligible entities that are States to conduct demonstration projects for purposes of developing core training competencies and certificationprograms for personal or home care aides. The Secretary shall—
 
 &emsp;&emsp;(A) evaluate the efficacy of the core training competencies described in paragraph (3)(A) for newly hired personal or home care aides and the methods used by States to implement such core training competencies in accordance with the issues specified in paragraph (3)(B); and
 
@@ -240,7 +240,7 @@
 
 #### (2) Training and certification programs for personal and home care aides
 
-&emsp;With respect to the demonstration projects under subsection (b), the Secretary shall use$5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
+&emsp;With respect to the demonstration projects under subsection (b), the Secretary shall use $5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
 
 #### (d) Nonapplication
 

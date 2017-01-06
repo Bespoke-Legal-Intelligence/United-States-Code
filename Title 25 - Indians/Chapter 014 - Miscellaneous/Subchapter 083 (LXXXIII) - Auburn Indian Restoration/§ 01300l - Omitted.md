@@ -1,0 +1,10 @@
+### §1300<i>l</i>. Omitted
+
+#### Codification
+
+Section, Pub. L. 103–434, title II, §202, Oct. 31, 1994, 108 Stat. 4533, which provided for restoration of Federal recognition of the tribe and of all rights and privileges of the tribe and its members, was omitted from the Code as being of special and not general application.
+
+#### Short Title
+
+Pub. L. 103–434, title II, §201, Oct. 31, 1994, 108 Stat. 4533, provided that title II of Pub. L. 103–434, enacting this subchapter, could be cited as the "Auburn Indian Restoration Act".
+

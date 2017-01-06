@@ -32,5 +32,5 @@ Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–434, provided that the
 
 #### Pending Conditional Commitments
 
-Pub. L. 99–24, §1(b), Apr. 16, 1985, 99 Stat. 50, provided that: "Enactment of this Act \[amending this section\]shall not be interpreted as indicating congressional approval with respect to any pending conditional commitments under this Act."
+Pub. L. 99–24, §1(b), Apr. 16, 1985, 99 Stat. 50, provided that: "Enactment of this Act \[amending this section\] shall not be interpreted as indicating congressional approval with respect to any pending conditional commitments under this Act."
 

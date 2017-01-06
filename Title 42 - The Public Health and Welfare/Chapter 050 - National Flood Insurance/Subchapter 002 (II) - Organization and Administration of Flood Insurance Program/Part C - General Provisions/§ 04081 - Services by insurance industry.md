@@ -18,7 +18,7 @@ Notwithstanding any other provision of this chapter, the Administrator may, at t
 
 #### (e) Risk transfer
 
-The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined bythe Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
+The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
 
 (Pub. L. 90–448, title XIII, §1345, Aug. 1, 1968, 82 Stat. 585; Pub. L. 97–35, title III, §341(e), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §574, Sept. 23, 1994, 108 Stat. 2278; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100245, July 6, 2012, 126 Stat. 958, 966; Pub. L. 113–89, §10, Mar. 21, 2014, 128 Stat. 1025.)
 
@@ -82,7 +82,7 @@ Failure to comply.—A property and casualty insurance company participating in 
 
 "(b)
 
-Methodology To Determine Reimbursed Expenses.—Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator shall develop a methodology for determining the appropriate amounts that property and casualty insurance companies participating in the Write Your Own program should be reimbursed for selling, writing, and servicing flood insurance policies and adjusting flood insurance claims on behalf of the National Flood Insurance Program. The methodology shall be developed using actual expense data for the flood insurance line and can be derived from—
+Methodology To Determine Reimbursed Expenses.—Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator shall develop a methodology for determining the appropriate amounts that property and casualty insurance companies participating in the Write Your Own program should be reimbursed for selling, writing, andservicing flood insurance policies and adjusting flood insurance claims on behalf of the National Flood Insurance Program. The methodology shall be developed using actual expense data for the flood insurance line and can be derived from—
 
 &emsp;"(1) flood insurance expense data produced by the property and casualty insurance companies;
 

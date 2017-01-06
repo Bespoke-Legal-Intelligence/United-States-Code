@@ -38,7 +38,7 @@ Any physician or nurse failing to complete the agreed upon term of service, exce
 
 #### (f) Physicians and nurses employed under Indian Self-Determination Act
 
-The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] if such physician or nurse is serving in a position which the Secretary determines is—
+The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\] if such physician or nurse is serving in a position which the Secretary determines is—
 
 &emsp;(1) a position for which recruitment or retention is difficult; and
 
@@ -48,9 +48,9 @@ The Secretary may pay a retention bonus to any physician or nurse employed by an
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f),respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
+<b>1992</b>—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
 

@@ -1,0 +1,6 @@
+### §1131. Omitted
+
+#### Codification
+
+Section, Pub. L. 89–660, §1, Oct. 14, 1966, 80 Stat. 910, which related to membership roll, was omitted from the Code as being of special and not general application.
+

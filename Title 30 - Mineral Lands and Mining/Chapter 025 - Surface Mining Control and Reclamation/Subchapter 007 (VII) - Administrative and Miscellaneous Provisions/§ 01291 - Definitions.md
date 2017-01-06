@@ -44,7 +44,7 @@ For the purposes of this chapter—
 
 &emsp;(21) "reclamation plan" means a plan submitted by an applicant for a permit under a State program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
 
-&emsp;(22) "regulatory authority" means the State regulatory authority where the State is administering this chapter under an approved State program or the Secretary where the Secretary is administering this chapter under a Federal program;
+&emsp;(22) "regulatory authority" means the State regulatory authority where the State is administering this chapter under an approvedState program or the Secretary where the Secretary is administering this chapter under a Federal program;
 
 &emsp;(23) "Secretary" means the Secretary of the Interior, except where otherwise described;
 

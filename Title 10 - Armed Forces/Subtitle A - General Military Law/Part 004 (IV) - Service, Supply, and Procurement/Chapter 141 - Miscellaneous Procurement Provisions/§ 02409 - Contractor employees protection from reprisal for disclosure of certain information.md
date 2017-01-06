@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition of Reprisals.—(1) An employee of a contractor, subcontractor, grantee, or subgrantee may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
+Prohibition of Reprisals.—(1) An employee of a contractor, subcontractor, grantee, or subgrantee or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
 
 &emsp;(A) Gross mismanagement of a Department of Defense contract or grant, a gross waste of Department funds, an abuse of authority relating to a Department contract or grant, or a violation of law, rule, or regulation related to a Department contract (including the competition for or negotiation of a contract) or grant.
 
@@ -38,7 +38,7 @@ Investigation of Complaints.—(1) A person who believes that the person has bee
 
 (2)(A) Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
 
-(B) If the Inspector General is unable to complete an investigation in time to submit a reportwithin the 180-day period specified in subparagraph (A) and the person submitting the complaint agrees to an extension of time, the Inspector General shall submit a report under paragraph (1) within such additional period of time, up to 180 days, as shall be agreed upon between the Inspector General and the person submitting the complaint.
+(B) If the Inspector General is unable to complete an investigation in time to submit a report within the 180-day period specified in subparagraph (A) and the person submitting the complaint agrees to an extension of time, the Inspector General shall submit a report under paragraph (1) within such additional period of time, up to 180 days, as shall be agreed upon between the Inspector General and the person submitting the complaint.
 
 (3) The Inspector General may not respond to any inquiry or disclose any information from or about any person alleging the reprisal, except to the extent that such response or disclosure is—
 
@@ -88,7 +88,7 @@ Exceptions.—(1) This section shall not apply to any element of the intelligenc
 
 (f)
 
-Construction.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
+Construction.—Nothing in this section may be construed to authorize the discharge of,demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
 (g)
 
@@ -112,7 +112,7 @@ Definitions.—In this section:
 
 &emsp;(7) The term "grantee" means a person awarded a grant with an agency.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509.)
+(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509; Pub. L. 114–261, §1(a)(1), Dec. 14, 2016, 130 Stat. 1362.)
 
 #### References in Text
 
@@ -125,6 +125,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–261 inserted "or personal services contractor" after "subgrantee" in introductory provisions.
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291, §856(a), substituted ", subcontractor, grantee, or subgrantee" for "or subcontractor" in introductory provisions.
 
@@ -166,7 +168,7 @@ Subsecs. (f), (g). Pub. L. 112–239, §827(d)(1), redesignated subsecs. (d) and
 
 Subsec. (g)(6). Pub. L. 112–239, §827(f), added par. (6).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted "disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management," for "disclosing to a Member of Congress" and "information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste of Department of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant" for "information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)".
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted "disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management," for "disclosing to a Member of Congress" and "information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste ofDepartment of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant" for "information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)".
 
 Subsec. (b). Pub. L. 110–181, §846(b), designated existing provisions as par. (1), substituted "the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration" for "an agency", and added par. (2).
 

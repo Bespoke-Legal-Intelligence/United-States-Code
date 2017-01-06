@@ -44,7 +44,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
-&emsp;&emsp;(B) may use any such available amounts for the expense for administration only after the end of the 30-day period beginning on the date of submission of the report under subparagraph (A).
+&emsp;&emsp;(B) may use any such available amounts for the expense for administration only afterthe end of the 30-day period beginning on the date of submission of the report under subparagraph (A).
 
 #### (2) Maximum amount
 

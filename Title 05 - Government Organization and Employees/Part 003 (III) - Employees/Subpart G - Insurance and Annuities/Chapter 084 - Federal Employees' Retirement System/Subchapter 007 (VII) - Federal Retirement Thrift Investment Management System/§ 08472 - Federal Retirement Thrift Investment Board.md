@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) 1 shall be appointed by the President after taking into consideration the recommendation made by the majority leader of the Senate in consultation with the minority leader of the Senate.
 
-(c) Except as provided in section 311 of the Federal Employees' Retirement System Act of 1986, appointments under subsection (a) shall bemade by and with the advice and consent of the Senate.
+(c) Except as provided in section 311 of the Federal Employees' Retirement System Act of 1986, appointments under subsection (a) shall be made by and with the advice and consent of the Senate.
 
 (d) Members of the Board shall have substantial experience, training, and expertise in the management of financial investments and pension benefit plans.
 
@@ -60,7 +60,7 @@
 
 (j) The Board may submit to the President, and, at the same time, shall submit to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title or any other provision of law.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 578; amended Pub. L. 99–509, title VI, §6001(e), Oct. 21, 1986, 100 Stat. 1931; Pub. L. 113–255, §2(c), Dec. 18, 2014, 128 Stat. 2920.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 578; amended Pub. L. 99–509, titleVI, §6001(e), Oct. 21, 1986, 100 Stat. 1931; Pub. L. 113–255, §2(c), Dec. 18, 2014, 128 Stat. 2920.)
 
 #### References in Text
 

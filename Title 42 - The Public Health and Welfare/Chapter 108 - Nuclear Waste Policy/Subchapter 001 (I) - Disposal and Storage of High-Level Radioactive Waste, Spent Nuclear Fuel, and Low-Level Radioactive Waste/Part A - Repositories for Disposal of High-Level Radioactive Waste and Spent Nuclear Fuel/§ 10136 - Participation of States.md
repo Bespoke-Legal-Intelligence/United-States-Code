@@ -18,7 +18,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (B) The Secretary shall make grants to the State of Nevada and any affected unit of local government for purposes of enabling such State or affected unit of local government—
 
-&emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site forpurposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
+&emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site for purposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
 
 &emsp;(ii) to develop a request for impact assistance under paragraph (2);
 
@@ -66,7 +66,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 &emsp;(ii) such funds as may be necessary to support State activities pursuant to agreements or contracts for impact assistance entered into, under paragraph (2), by such State with the Secretary during such 2-year period; and
 
-&emsp;(iii) such funds as may be provided under an agreement entered into under subchapter IV of this chapter.
+&emsp;(iii) such funds as may be provided under an agreement entered into under subchapter IV.
 
 (5) Financial assistance authorized in this subsection shall be made out of amounts held in the Waste Fund.
 

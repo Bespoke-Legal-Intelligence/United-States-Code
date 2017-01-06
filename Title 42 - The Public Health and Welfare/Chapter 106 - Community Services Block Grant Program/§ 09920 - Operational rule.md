@@ -2,13 +2,13 @@
 
 #### (a) Religious organizations included as nongovernmental providers
 
-For any program carried out by the Federal Government, or by a State or local government under this chapter, the government shall consider, on the same basis as other nongovernmental organizations, religious organizations to provide the assistance under the program, so long as the program is implemented in a manner consistent with the Establishment Clause of the first amendment to the Constitution. Neither the Federal Government nor a State or local government receiving funds under this chapter shall discriminate against an organization that provides assistance under, or applies to provide assistance under, this chapter, on the basis that the organization has a religious character.
+For any program carried out by the Federal Government, or by a State or local government under this chapter, the government shall consider, on the same basis as other nongovernmental organizations, religious organizations to provide the assistance under the program, so long as the program is implemented in a manner consistent with the Establishment Clause of thefirst amendment to the Constitution. Neither the Federal Government nor a State or local government receiving funds under this chapter shall discriminate against an organization that provides assistance under, or applies to provide assistance under, this chapter, on the basis that the organization has a religious character.
 
 #### (b) Religious character and independence
 
 #### (1) In general
 
-&emsp;A religious organization that provides assistance under a program described in subsection (a) of this section shall retain its religious character and control over the definition, development, practice, and expression of its religious beliefs.
+&emsp;A religious organization that provides assistance under a program described in subsection (a) shall retain its religious character and control over the definition, development, practice, and expression of its religious beliefs.
 
 #### (2) Additional safeguards
 
@@ -18,21 +18,21 @@ For any program carried out by the Federal Government, or by a State or local go
 
 &emsp;&emsp;(B) to remove religious art, icons, scripture, or other symbols;
 
-> &emsp;in order to be eligible to provide assistance under a program described in subsection (a) of this section.
+> &emsp;in order to be eligible to provide assistance under a program described in subsection (a).
 
 #### (3) Employment practices
 
-&emsp;A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a) of this section.
+&emsp;A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a).
 
 #### (c) Limitations on use of funds for certain purposes
 
-No funds provided directly to a religious organization to provide assistance under any program described in subsection (a) of this section shall be expended for sectarian worship, instruction, or proselytization.
+No funds provided directly to a religious organization to provide assistance under any program described in subsection (a) shall be expended for sectarian worship, instruction, or proselytization.
 
 #### (d) Fiscal accountability
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any religious organization providing assistance under any program described in subsection (a) of this section shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
+&emsp;Except as provided in paragraph (2), any religious organization providing assistance under any program described in subsection (a) shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
 
 #### (2) Limited audit
 
@@ -40,7 +40,7 @@ No funds provided directly to a religious organization to provide assistance und
 
 #### (e) Treatment of eligible entities and other intermediate organizations
 
-If an eligible entity or other organization (referred to in this subsection as an "intermediate organization"), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a) of this section, the intermediate organization shall have the same duties under this section as the government.
+If an eligible entity or other organization (referred to in this subsection as an "intermediate organization"), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a), the intermediate organization shall have the same duties under this section as the government.
 
 (Pub. L. 97–35, title VI, §679, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2749.)
 

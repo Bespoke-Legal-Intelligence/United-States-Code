@@ -64,7 +64,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On the initiative of the Secretary or at the request of the applicant, the Secretarymay grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1) if—
+&emsp;&emsp;&emsp;On the initiative of the Secretary or at the request of the applicant, the Secretary may grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary determines that the conditions described in subclause (II) or (III) of subparagraph (A)(i) continue to be met; and
 
@@ -72,7 +72,7 @@
 
 #### (ii) Timing and information
 
-&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
+&emsp;&emsp;&emsp;If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending.For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
 
 #### (C) Annual review
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(ii) adequate pediatric labeling could confer a benefit on pediatric patients;
 
-&emsp;&emsp;(B) there is reason to believe that the drug or biological product would represent a meaningful therapeutic benefit over existing therapies for pediatric patients for 1 or more of the claimed indications; or
+&emsp;&emsp;(B) there is reason to believe that the drug or biological product would represent ameaningful therapeutic benefit over existing therapies for pediatric patients for 1 or more of the claimed indications; or
 
 &emsp;&emsp;(C) the absence of adequate pediatric labeling could pose a risk to pediatric patients.
 
@@ -224,7 +224,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (A) Timing
 
-&emsp;&emsp;An applicant shall submit the initial pediatric plan under paragraph (1)—
+&emsp;&emsp;An applicant shall submit the initial pediatric study plan under paragraph (1)—
 
 &emsp;&emsp;&emsp;(i) before the date on which the applicant submits the assessments under subsection (a)(2); and
 
@@ -234,9 +234,9 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 &emsp;&emsp;&emsp;&emsp;(II) such other time as may be agreed upon between the Secretary and the applicant.
 
-> &emsp;&emsp;Nothing in this section shall preclude the Secretary from accepting the submission of an initial pediatric plan earlier than the date otherwise applicable under this subparagraph.
+> &emsp;&emsp;Nothing in this section shall preclude the Secretary from accepting the submission of an initial pediatric study plan earlier than the date otherwise applicable under this subparagraph.
 
-#### (B) Content of initial plan
+#### (B) Content of initial pediatric study plan
 
 &emsp;&emsp;The initial pediatric study plan shall include—
 
@@ -264,13 +264,13 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 &emsp;If the agreed initial pediatric study plan contains a request from the applicant for a deferral, partial waiver, or waiver under this section, the written confirmation under paragraph (3) shall include a recommendation from the Secretary as to whether such request meets the standards under paragraphs (3) or (4) of subsection (a).
 
-#### (5) Amendments to the plan
+#### (5) Amendments to the agreed initial pediatric study plan
 
 &emsp;At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan under paragraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
 
 #### (6) Internal committee
 
-&emsp;The Secretary shall consult the internal committee under section 355d of this title on the review of the initial pediatric study plan, agreed initial pediatric plan, and any significant amendments to such plans.
+&emsp;The Secretary shall consult the internal committee under section 355d of this title on the review of the initial pediatric study plan, agreed initial pediatric study plan, and any significant amendments to such plans.
 
 #### (7) Required rulemaking
 
@@ -280,7 +280,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (1) Review
 
-&emsp;Beginning not later than 30 days after September 27, 2007, the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
+&emsp;Beginning not later than 30 days after September 27, 2007, the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and any significant amendments to such plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
 
 #### (2) Activity by committee
 
@@ -340,7 +340,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 &emsp;&emsp;&emsp;(i) the Commissioner shall request that the sponsor of the application make any labeling change that the Commissioner determines to be appropriate; and
 
-&emsp;&emsp;&emsp;(ii) if the sponsor does not agree within 30 days after the Commissioner's request to make a labeling change requested bythe Commissioner, the Commissioner shall refer the matter to the Pediatric Advisory Committee.
+&emsp;&emsp;&emsp;(ii) if the sponsor does not agree within 30 days after the Commissioner's request to make a labeling change requested by the Commissioner, the Commissioner shall refer the matter to the Pediatric Advisory Committee.
 
 #### (B) Action by the Pediatric Advisory Committee
 
@@ -356,7 +356,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (D) Misbranding
 
-&emsp;&emsp;If the sponsor of the application or supplement, within 30 days after receiving a request under subparagraph (C), does not agree to make a labeling change requested by the Commissioner, the Commissioner may deem the drug that is the subject of the application or supplement to be misbranded.
+&emsp;&emsp;If the sponsor of the application or supplement, within 30 days after receiving a request under subparagraph (C), does not agreeto make a labeling change requested by the Commissioner, the Commissioner may deem the drug that is the subject of the application or supplement to be misbranded.
 
 #### (E) No effect on authority
 
@@ -406,21 +406,7 @@ Nothing in this section provides to the Secretary any authority to require a ped
 
 Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under section 360bb of this title.
 
-#### (l) Institute of Medicine study
-
-#### (1) In general
-
-&emsp;Not later than three years after September 27, 2007, the Secretary shall contract with the Institute of Medicine to conduct a study and report to Congress regarding the pediatric studies conducted pursuant to this section or precursor regulations since 1997 and labeling changes made as a result of such studies.
-
-#### (2) Content of study
-
-&emsp;The study under paragraph (1) shall review and assess the use of extrapolation for pediatric subpopulations, the use of alternative endpoints for pediatric populations, neonatal assessment tools, the number and type of pediatric adverse events, and ethical issues in pediatric clinical trials.
-
-#### (3) Representative sample
-
-&emsp;The Institute of Medicine may devise an appropriate mechanism to review a representative sample of studies conducted pursuant to this section from each review division within the Center for Drug Evaluation and Research in order to make the requested assessment.
-
-#### (m) New active ingredient
+#### (l) New active ingredient
 
 #### (1) Non-interchangeable biosimilar biological product
 
@@ -430,9 +416,21 @@ Unless the Secretary requires otherwise by regulation, this section does not app
 
 &emsp;A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.
 
-(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048.)
+(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (e)(2)(A). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(aa), inserted "study" after "initial pediatric" in introductory and concluding provisions.
+
+Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initial pediatric study plan" for "Content of initial plan" in heading.
+
+Subsec. (e)(5). Pub. L. 114–255, §3101(a)(2)(D)(i)(II), inserted "agreed initial pediatric study" before "plan" in heading.
+
+Subsec. (e)(6). Pub. L. 114–255, §3101(a)(2)(D)(i)(III), substituted "agreed initial pediatric study plan" for "agreed initial pediatric plan".
+
+Subsec. (f)(1). Pub. L. 114–255, §3101(a)(2)(D)(ii), inserted "and any significant amendments to such plans," after "agreed initial pediatric study plans,".
+
+Subsecs. (l), (m). Pub. L. 114–255, §3102(3), redesignated subsec. (m) as (l) and struck out former subsec. (l) which related to Institute of Medicine study.
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–144, §509(b)(1)(A), inserted "for a drug" after "(or supplement to an application)" in introductory provisions.
 
@@ -500,7 +498,7 @@ In general.—Subject to paragraph (2), the amendments made by this section \[am
 
 "(2)
 
-Rule of construction.—Paragraph (1) shall not be construed to affect the deadline for promulgation of proposed regulations under section 505B(e)(7) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c(e)(7)\], as added by subsection (a) of this section."
+Rule of construction.—Paragraph (1) shall not be construed to affect the deadline for promulgation of proposed regulations under section 505B(e)(7) of theFederal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c(e)(7)\], as added by subsection (a) of this section."
 
 Notwithstanding any provision of this section stating that a provision applies beginning on Sept. 27, 2007, any amendment made by Pub. L. 112–144 to such a provision applies beginning on July 9, 2012, subject to a transitional rule, see section 509(g) of Pub. L. 112–144, set out as a note under section 355a of this title.
 

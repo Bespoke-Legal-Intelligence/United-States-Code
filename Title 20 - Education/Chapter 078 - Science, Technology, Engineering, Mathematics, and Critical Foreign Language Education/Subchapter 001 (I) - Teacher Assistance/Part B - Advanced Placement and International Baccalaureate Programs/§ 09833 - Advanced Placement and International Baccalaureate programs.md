@@ -56,7 +56,7 @@ The Secretary, to the extent practicable, shall—
 
 &emsp;&emsp;&emsp;&emsp;(II) pre-Advanced Placement or pre-International Baccalaureate courses in such a subject (where provided in accordance with subparagraph (B));
 
-&emsp;&emsp;(B) how the eligible entity will ensure that students have access to courses, includingpre-Advanced Placement and pre-International Baccalaureate courses, that will prepare the students to enroll and succeed in Advanced Placement or International Baccalaureate courses in mathematics, science, or critical foreign languages;
+&emsp;&emsp;(B) how the eligible entity will ensure that students have access to courses, including pre-Advanced Placement and pre-International Baccalaureate courses, that will prepare the students to enroll and succeed in Advanced Placement or International Baccalaureate courses in mathematics, science, or critical foreign languages;
 
 &emsp;&emsp;(C) how the eligible entity will provide professional development for teachers assisted under this section;
 

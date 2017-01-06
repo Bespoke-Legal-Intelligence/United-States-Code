@@ -78,9 +78,15 @@ Other Definitions.—In this section:
 
 &emsp;(2) The term "retired pay" includes retainer pay, emergency officers' retirement pay, and naval pension.
 
-(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–76, div. C, title X, §10001(b)(1), Jan. 17, 2014, 128 Stat. 151; Pub. L. 114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845.)
+(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156; Pub. L. 112–239, div. A, title VI, §643(a), Jan. 2, 2013, 126 Stat. 1783; Pub. L. 113–76, div. C, title X, §10001(b)(1), Jan. 17, 2014, 128 Stat. 151; Pub. L. 114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845; Pub. L. 114–328, div. A, title VI, §634(a), Dec. 23, 2016, 130 Stat. 2163.)
+
+#### Amendment of Subsection (b)(3)(B)
+
+<i>Pub. L. 114–328, div. A, title VI, §634, Dec. 23, 2016, 130 Stat. 2163, provided that, effective Jan. 1, 2018, immediately after the coming into effect of the amendments made by part I (§§631–635) of subtitle D of title VI of Pub. L. 114–92, subsec. (b)(3)(B) is amended by striking "2½ percent" and inserting "the retired pay percentage (determined for the member under section 1409(b) of this title)". See 2016 Amendment note below.</i>
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b)(3)(B). Pub. L. 114–328 substituted "the retired pay percentage (determined for the member under section 1409(b) of this title)" for "2½ percent".
 
 <b>2015</b>—Subsec. (b)(3). Pub. L. 114–92, §631(d)(2), which was approved Nov. 25, 2015, provided that the amendments made by Pub. L. 113–76, §10001(b)(1), which were effective Dec. 1, 2015, would not take effect. See 2014 Amendment notes below.
 
@@ -124,6 +130,10 @@ Regulations.—The Secretary of Defense shall prescribe in regulations the manne
 
 Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserted "for any other member" before "for any fiscal year".
 
+#### Effective Date of 2016 Amendment
+
+Pub. L. 114–328, div. A, title VI, §634(b), Dec. 23, 2016, 130 Stat. 2164, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments made by part I of subtitle D of title VI of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 842) \[§§631–635, enacting section 1415 of this title and section 356 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 1401, 1401a, 1409, 1410, 1414, 1463, and 12739 of this title, sections 8432, 8432b, 8438, and 8440e of Title 5, Government Organization and Employees, section 3045 of Title 33, Navigation and Navigable Waters, sections 211 and 354 of Title 37, section 5304 of Title 38, Veterans' Benefits,and section 212 of Title 42, The Public Health and Welfare\], to which the amendment made by subsection (a) relates."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under section 1401a of this title. Amendment did not take effect pursuant to section 631(d)(2) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under section 1401a of this title.
@@ -140,9 +150,45 @@ Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, pro
 
 Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
 
-Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments madeby subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
+Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
 
 #### Effective Date
 
 Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: "Section 1413a of title 10, United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
+
+#### Clarification of Eligibility of Members of the Coast Guard for Combat-Related Special Compensation
+
+Pub. L. 114–120, title II, §221, Feb. 8, 2016, 130 Stat. 48, provided that:
+
+"(a)
+
+Consideration of Eligibility.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department is \[sic\] which the Coast Guard is operating shall issue procedures and criteria to use in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of the eligibility of such member for combat-related special compensation under section 1413a of title 10, United States Code. Such procedures and criteria shall include the procedures and criteria prescribed by the Secretary of Defense pursuant to subsection (e)(2) of such section. Such procedures and criteria shall apply in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of determining the eligibility of such member for combat-related special compensation under such section.
+
+&emsp;"(2)
+
+Disability for which a determination is made.—For the purposes of this section, and in the case of a member of the Coast Guard, a disability under section 1413a(e)(2)(B) of title 10, United States Code, includes a disability incurred during aviation duty, diving duty, rescue swimmer or similar duty, and hazardous service duty onboard a small vessel (such as duty as a surfman)—
+
+&emsp;&emsp;"(A) in the performance of duties for which special or incentive pay was paid pursuant to section 301, 301a, 304, 307, 334, or 351 of title 37, United States Code;
+
+&emsp;&emsp;"(B) in the performance of duties related to a statutory mission of the Coast Guard under paragraph (1) or paragraph (2) of section 888(a) of the Homeland Security Act of 2002 (6 U.S.C. 468(a)), including—
+
+&emsp;&emsp;&emsp;"(i) law enforcement, including drug or migrant interdiction;
+
+&emsp;&emsp;&emsp;"(ii) defense readiness; or
+
+&emsp;&emsp;&emsp;"(iii) search and rescue; or
+
+&emsp;&emsp;"(C) while engaged in a training exercise for the performance of a duty described in subparagraphs (A) and (B).
+
+"(b)
+
+Applicability of Procedures and Criteria.—The procedures and criteria issued pursuant to subsection (a) shall apply to disabilities described in that subsection that are incurred on or after the effective date provided in section 636(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2574; 10 U.S.C. 1413a note) \[See Effective Date note above\].
+
+"(c)
+
+Reapplication for Compensation.—Any member of the Coast Guard who was denied combat-related special compensation under section 1413a of title 10, United States Code, during the period beginning on the effective date specified in subsection (b) and ending on the date of the issuance of the procedures and criteria required by subsection (a) may reapply for combat-related special compensation under such section on the basis of such procedures and criteria in accordance with such procedures as the Secretary of the department in which the Coast Guard is operating shall specify."
 

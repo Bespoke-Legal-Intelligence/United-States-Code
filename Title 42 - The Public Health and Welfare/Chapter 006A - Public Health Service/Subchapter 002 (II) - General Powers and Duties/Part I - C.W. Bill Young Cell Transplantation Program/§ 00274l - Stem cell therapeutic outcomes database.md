@@ -6,7 +6,7 @@ The Secretary shall by contract establish and maintain a scientific database of 
 
 #### (b) Information
 
-The outcomes database shall include information in a standardized electronic format with respect to patients described in subsection (a) of this section, diagnosis, transplant procedures, results, long-term follow-up, and such other information as the Secretary determines to be appropriate, to conduct an ongoing evaluation of the scientific and clinical status of transplantation involving recipients of a stem cell therapeutics product from a donor.
+The outcomes database shall include information in a standardized electronic format with respect to patients described in subsection (a), diagnosis, transplant procedures, results, long-term follow-up, and such other information as the Secretary determines to be appropriate, to conduct an ongoing evaluation of the scientific and clinical status of transplantation involving recipients of a stem cell therapeutics product from a donor.
 
 #### (c) Annual report on patient outcomes
 
@@ -16,7 +16,7 @@ The Secretary shall require the entity awarded a contract under this section to 
 
 The outcomes database shall make relevant scientific information not containing individually identifiable information available to the public in the form of summaries and data sets to encourage medical research and to provide information to transplant programs, physicians, patients, entities awarded a contract under section 274k of this title <sup>1</sup> donor registries, and cord blood banks.
 
-(July 1, 1944, ch. 373, title III, §379A, as added Pub. L. 105–196, §3, July 16, 1998, 112 Stat. 635;amended Pub. L. 109–129, §3(b), Dec. 20, 2005, 119 Stat. 2561.)
+(July 1, 1944, ch. 373, title III, §379A, as added Pub. L. 105–196, §3, July 16, 1998, 112 Stat. 635; amended Pub. L. 109–129, §3(b), Dec. 20, 2005, 119 Stat. 2561.)
 
 #### Prior Provisions
 

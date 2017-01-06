@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds made available under paragraph (5), the Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct a study of the feasibility of improving the certification process used for the school lunch program established under this chapter.
+&emsp;Subject to the availability of funds made available under paragraph (5), the Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct a study ofthe feasibility of improving the certification process used for the school lunch program established under this chapter.
 
 #### (2) Pilot projects
 

@@ -10,7 +10,7 @@
 
 &emsp;A species of exotic birds shall be subject to the prohibition on importation established by paragraph (1) until the Secretary, after notice and an opportunity for public comment—
 
-&emsp;&emsp;(A) determines that appropriate remedial measures have been taken in the countriesof origin for that species, so as to eliminate the threat of trade to the conservation of the species; and
+&emsp;&emsp;(A) determines that appropriate remedial measures have been taken in the countries of origin for that species, so as to eliminate the threat of trade to the conservation of the species; and
 
 &emsp;&emsp;(B) makes the findings described in section 4905(c) of this title for the species and includes the species in the list published under section 4905(a) of this title.
 

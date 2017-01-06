@@ -4,7 +4,7 @@
 
 General Authority.—Subject to appropriations made to carry out this chapter, the American Battle Monuments Commission may—
 
-&emsp;(1) acquire land or an interest in land in a foreign country to carry out the purposes of this chapter, or an executive order conferring duties and powers on the Commission, without submission to the Attorney General under section 3111 of title 40;
+&emsp;(1) acquire land or an interest in land in a foreign country to carry out the purposes of this chapter, or an executive order conferringduties and powers on the Commission, without submission to the Attorney General under section 3111 of title 40;
 
 &emsp;(2) maintain, repair, and operate motor-propelled passenger-carrying vehicles and other property that another department, agency, or instrumentality of the United States Government provides to the Commission;
 

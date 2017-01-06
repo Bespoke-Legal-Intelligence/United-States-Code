@@ -10,7 +10,7 @@ To be eligible to receive a grant under this section, an entity or organization 
 
 &emsp;(1) information that demonstrates that the entity or organization has nationally recognized expertise in the area of domestic or sexual violence;
 
-&emsp;(2) a plan to maximize, to the extent practicable, outreach to employers (including private companies and public entities such as public institutions of higher education and State and local governments) and labor organizations described in subsection (a) of this section concerning developing and implementing workplace responses to assist victims of domestic or sexual violence; and
+&emsp;(2) a plan to maximize, to the extent practicable, outreach to employers (including private companies and public entities such as public institutions of higher education and State and local governments) and labor organizations described in subsection (a) concerning developing and implementing workplace responses to assist victims of domestic or sexual violence; and
 
 &emsp;(3) a plan for developing materials and training for materials for employers that address the needs of employees in cases of domestic violence, dating violence, sexual assault, and stalking impacting the workplace, including the needs of underserved communities.
 
@@ -18,7 +18,7 @@ To be eligible to receive a grant under this section, an entity or organization 
 
 #### (1) In general
 
-&emsp;An entity or organization that receives a grant under this section may use the funds made available through the grant for staff salaries, travel expenses, equipment, printing, and other reasonable expenses necessary to develop, maintain, and disseminate to employers and labor organizations described in subsection (a) of this section, information and assistance concerning workplace responses to assist victims of domestic or sexual violence.
+&emsp;An entity or organization that receives a grant under this section may use the funds made available through the grant for staff salaries, travel expenses, equipment, printing, and other reasonable expenses necessary to develop, maintain, and disseminate to employers and labor organizations described in subsection (a), information and assistance concerning workplace responses to assist victims of domestic or sexual violence.
 
 #### (2) Responses
 
@@ -32,7 +32,7 @@ To be eligible to receive a grant under this section, an entity or organization 
 
 #### (d) Liability
 
-The compliance or noncompliance of any employer or labor organization with any protocol or policy developed by an entity or organization under this section shall not serve as a basis for liability in tort, express or implied contract, or by any other means. No protocol or policy developed by an entity or organization under this section shall be referenced or enforced as a workplace safety standard by any Federal, State, or other governmental agency.
+The compliance or noncompliance of any employer or labor organization with any protocol or policy developed by an entity or organizationunder this section shall not serve as a basis for liability in tort, express or implied contract, or by any other means. No protocol or policy developed by an entity or organization under this section shall be referenced or enforced as a workplace safety standard by any Federal, State, or other governmental agency.
 
 #### (e) Authorization of appropriations
 

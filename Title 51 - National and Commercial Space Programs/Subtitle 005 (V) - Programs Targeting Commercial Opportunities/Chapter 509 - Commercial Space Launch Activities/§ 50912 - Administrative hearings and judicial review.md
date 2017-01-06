@@ -6,7 +6,7 @@ Administrative Hearings.—The Secretary of Transportation shall provide an oppo
 
 &emsp;(1) an applicant under this chapter, for a decision of the Secretary under section 50905(a) or 50906 of this title to issue or transfer a license with terms or deny the issuance or transfer of a license;
 
-&emsp;(2) an owner or operator of a payload under this chapter, for a decision of the Secretaryunder section 50904(c) of this title to prevent the launch or reentry of the payload; and
+&emsp;(2) an owner or operator of a payload under this chapter, for a decision of the Secretary under section 50904(c) of this title to prevent the launch or reentry of the payload; and
 
 &emsp;(3) a licensee under this chapter, for a decision of the Secretary under—
 

@@ -22,7 +22,7 @@ In addition to other authorities for the authorization of special uses within th
 
 #### (c) Procedure
 
-The Secretary may use any fair and equitable method for authorizing special uses within the Recreation Area, including public solicitation of proposals.
+The Secretary may use any fair and equitable method for authorizing special uses within theRecreation Area, including public solicitation of proposals.
 
 #### (d) Existing authorizations
 

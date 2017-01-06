@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that, with respect to children with a serious emotional disturbance, the public entity involved will carry out the purpose described in such section only through establishing and operating 1 or more systems of care for making each of the mental health services specified in subsection (c) of this section available to each child provided access to the system. In providing for such a system, the public entity may make grants to, and enter into contracts with, public and nonprofit private entities.
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that, with respect to children with a serious emotional disturbance, the public entity involved will carry out the purpose described in such section only through establishing and operating 1 or more systems of care for making each of the mental health services specified in subsection (c) available to each child provided access to the system. In providing for such a system, the public entity may make grants to, and enter into contracts with, public and nonprofit private entities.
 
 #### (2) Structure of system
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) be established in a community selected by the public entity involved;
 
-&emsp;&emsp;(B) consist of such public agencies and nonprofit private entities in the community as are necessary to ensure that each of the services specified in subsection (c) of this section is available to each child provided access to the system;
+&emsp;&emsp;(B) consist of such public agencies and nonprofit private entities in the community as are necessary to ensure that each of the services specified in subsection (c) is available to each child provided access to the system;
 
 &emsp;&emsp;(C) be established pursuant to agreements that the public entity enters into with the agencies and entities described in subparagraph (B);
 
@@ -26,11 +26,11 @@
 
 #### (b) Limitation on age of children provided access to system
 
-A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section will not provide an individual with access to the system if the individual is more than 21 years of age.
+A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will provide an individual with access to the system through the age of 21 years.
 
 #### (c) Required mental health services of system
 
-A funding agreement for a grant under section 290ff(a) of this title is that mental health services provided by a system of care under subsection (a) of this section will include, with respect to a serious emotional disturbance in a child—
+A funding agreement for a grant under section 290ff(a) of this title is that mental health services provided by a system of care under subsection (a) will include, with respect to a serious emotional disturbance in a child—
 
 &emsp;(1) diagnostic and evaluation services;
 
@@ -54,7 +54,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 &emsp;A funding agreement for a grant under section 290ff(a) of this title is that—
 
-&emsp;&emsp;(A) a system of care under subsection (a) of this section will enter into a memorandum of understanding with each of the providers specified in paragraph (2) in order to facilitate the availability of the services of the provider involved to each child provided access to the system; and
+&emsp;&emsp;(A) a system of care under subsection (a) will enter into a memorandum of understanding with each of the providers specified in paragraph (2) in order to facilitate the availability of the services of the provider involved to each child provided access to the system; and
 
 &emsp;&emsp;(B) the grant under such section 290ff(a) of this title, and the non-Federal contributions made with respect to the grant, will not be expended to pay the costs of providing such non-mental health services to any individual.
 
@@ -64,7 +64,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (3) Facilitation of services of certain programs
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section will, for purposes of paragraph (1), enter into a memorandum of understanding regarding facilitation of—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will, for purposes of paragraph (1), enter into a memorandum of understanding regarding facilitation of—
 
 &emsp;&emsp;(A) services available pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], including services regarding early periodic screening, diagnosis, and treatment;
 
@@ -76,7 +76,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (1) Case management services
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section will provide for the case management of each child provided access to the system in order to ensure that—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will provide for the case management of each child provided access to the system in order to ensure that—
 
 &emsp;&emsp;(A) the services provided through the system to the child are coordinated and that the need of each such child for the services is periodically reassessed;
 
@@ -90,7 +90,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (2) Other provisions
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section, in providing the services of the system, will—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a), in providing the services of the system, will—
 
 &emsp;&emsp;(A) provide the services of the system in the cultural context that is most appropriate for the child and family involved;
 
@@ -108,11 +108,11 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 &emsp;&emsp;(A) with respect to subparagraph (C) of such paragraph—
 
-&emsp;&emsp;&emsp;(i) to prohibit a system of care under subsection (a) of this section from requiring that, in housing provided by the grantee for purposes of residential treatment services authorized under subsection (c) of this section, males and females be segregated to the extent appropriate in the treatment of the children involved; or
+&emsp;&emsp;&emsp;(i) to prohibit a system of care under subsection (a) from requiring that, in housing provided by the grantee for purposes of residential treatment services authorized under subsection (c), males and females be segregated to the extent appropriate in the treatment of the children involved; or
 
-&emsp;&emsp;&emsp;(ii) to prohibit the system of care from complying with the agreement made under subsection (b) of this section; or
+&emsp;&emsp;&emsp;(ii) to prohibit the system of care from complying with the agreement made under subsection (b); or
 
-&emsp;&emsp;(B) with respect to subparagraph (D) of such paragraph, to authorize the system of care to expend the grant under section 290ff(a) of this title (or the non-Federal contributions made with respect to the grant) to provide legal services or any service with respect to which expenditures regarding the grant are prohibited under subsection (d)(1)(B) of this section.
+&emsp;&emsp;(B) with respect to subparagraph (D) of such paragraph, to authorize the system of care to expend the grant under section 290ff(a) of this title (or the non-Federal contributions made with respect to the grant) to provide legal services or any service with respect to which expenditures regarding the grant are prohibited under subsection (d)(1)(B).
 
 #### (f) Restrictions on use of grant
 
@@ -128,17 +128,19 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 #### (g) Waivers
 
-The Secretary may waive one or more of the requirements of subsection (c) of this section for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
+The Secretary may waive one or more of the requirements of subsection (c) for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
 
-(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat.351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title X, §10001(b), Dec. 13, 2016, 130 Stat. 1262.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally tosubchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–255 substituted "will provide an individual with access to the system through the age of 21 years" for "will not provide an individual with access to the system if the individual is more than 21 years of age".
 
 <b>2004</b>—Subsec. (d)(3)(B). Pub. L. 108–446 substituted "and C" for "and H".
 

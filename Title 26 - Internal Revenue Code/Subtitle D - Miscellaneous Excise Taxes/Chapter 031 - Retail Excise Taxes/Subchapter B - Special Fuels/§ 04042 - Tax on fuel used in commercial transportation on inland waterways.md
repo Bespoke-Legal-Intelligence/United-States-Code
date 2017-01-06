@@ -96,9 +96,9 @@ A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cros
 
 <b>2014</b>—Subsec. (b)(2)(A). Pub. L. 113–295 amended subpar. (A) generally, substituting "The Inland Waterways Trust Fund financing rate is 29 cents per gallon." for "The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:" and accompanying table of rates.
 
-<b>2007</b>—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use."
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, textread as follows: "The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use."
 
-<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "The deficit reduction rate is 4.3 cents per gallon."
+<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The deficit reduction rate is 4.3 cents per gallon."
 
 <b>1993</b>—Subsec. (b)(1)(C). Pub. L. 103–66, §13241(d)(1), added subpar. (C).
 

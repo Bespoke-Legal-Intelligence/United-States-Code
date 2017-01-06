@@ -1,0 +1,6 @@
+### §773. Omitted
+
+#### Codification
+
+Section, act Aug. 30, 1954, ch. 1085, §3, 68 Stat. 979, which related to payments on behalf of deceased enrollees, minors, and persons under legal disability, was omitted from the Code as being of special and not general application.
+

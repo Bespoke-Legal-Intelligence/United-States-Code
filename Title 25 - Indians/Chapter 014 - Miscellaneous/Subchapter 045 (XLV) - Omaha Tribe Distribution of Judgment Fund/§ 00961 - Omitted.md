@@ -1,0 +1,6 @@
+### §961. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–235, §1, Sept. 14, 1961, 75 Stat. 508, which related to membership roll, was omitted from the Code as being of special and not general application.
+

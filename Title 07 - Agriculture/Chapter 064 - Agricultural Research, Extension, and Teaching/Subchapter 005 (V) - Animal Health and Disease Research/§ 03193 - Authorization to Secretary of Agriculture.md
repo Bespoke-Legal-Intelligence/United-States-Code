@@ -26,3 +26,7 @@ In order to carry out the purpose of this subchapter, the Secretary is authorize
 
 <b>1990</b>—Pub. L. 101–624 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### Effective Date
+
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
+

@@ -8,7 +8,7 @@ The Fund shall be available to the President for—
 
 &emsp;&emsp;(A) by Federal authorities; or
 
-&emsp;&emsp;(B) by a Governor or designated State official under subsection (d) of this section;
+&emsp;&emsp;(B) by a Governor or designated State official under subsection (d);
 
 &emsp;(2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under section 2706 of this title for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
 
@@ -34,7 +34,7 @@ The Fund shall not be available to pay any claim for removal costs or damages to
 
 #### (c) Obligation of Fund by Federal officials
 
-The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a) of this section.
+The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 
 #### (d) Access to Fund by State officials
 
@@ -106,7 +106,7 @@ Payment of any claim or obligation by the Fund under this Act shall be subject t
 
 #### (2) Damages
 
-&emsp;No claim may be presented under this section for recovery of damages unless the claimis presented within 3 years after the date on which the injury and its connection with the discharge in question were reasonably discoverable with the exercise of due care, or in the case of natural resource damages under section 2702(b)(2)(A) of this title, if later, the date of completion of the natural resources damage assessment under section 2706(e) of this title.
+&emsp;No claim may be presented under this section for recovery of damages unless the claim is presented within 3 years after the date on which the injury and its connection with the discharge in question were reasonably discoverable with the exercise of due care, or in the case of natural resource damages under section 2702(b)(2)(A) of this title, if later, the date of completion of the natural resources damage assessment under section 2706(e) of this title.
 
 #### (3) Minors and incompetents
 
@@ -118,7 +118,7 @@ Payment of any claim or obligation by the Fund under this Act shall be subject t
 
 #### (i) Limitation on payment for same costs
 
-In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a) of this section, no other claim may be paid from the Fund for the same removal costs or damages.
+In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a), no other claim may be paid from the Fund for the same removal costs or damages.
 
 #### (j) Obligation in accordance with plan
 

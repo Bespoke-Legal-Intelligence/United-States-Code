@@ -2,7 +2,7 @@
 
 #### (a) Standardized fishing vessel registration and information management system
 
-The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
+The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. Therecommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
 
 &emsp;(1) be designed to standardize the requirements of vessel registration and information collection systems required by this chapter, the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and any other marine resource law implemented by the Secretary, and, with the permission of a State, any marine resource law implemented by such State;
 
@@ -12,7 +12,7 @@ The Secretary shall, in cooperation with the Secretary of the department in whic
 
 &emsp;(4) provide for implementation of the system through cooperative agreements with appropriate State, regional, or tribal entities and Marine Fisheries Commissions;
 
-&emsp;(5) provide for funding (subject to appropriations) to assist appropriate State, regional, ortribal entities and Marine Fisheries Commissions in implementation;
+&emsp;(5) provide for funding (subject to appropriations) to assist appropriate State, regional, or tribal entities and Marine Fisheries Commissions in implementation;
 
 &emsp;(6) establish standardized units of measurement, nomenclature, and formats for the collection and submission of information;
 
@@ -78,7 +78,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 #### (1) Federal program
 
-&emsp;The Secretary shall establish and implement a regionally based registry program for recreational fishermen in each of the 8 fishery management regions. The program, which shall not require a fee before January 1, 2011, shall provide for—
+&emsp;The Secretary shall establish and implement a regionally based registry program for recreational fishermen in each of the 8 fisherymanagement regions. The program, which shall not require a fee before January 1, 2011, shall provide for—
 
 &emsp;&emsp;(A) the registration (including identification and contact information) of individuals who engage in recreational fishing—
 
@@ -92,7 +92,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 #### (2) State programs
 
-&emsp;The Secretary shall exempt from registration under the program recreational fishermen and charter fishing vessels licensed, permitted, or registered under the laws of a State if the Secretary determines that information from the State program is suitable for theSecretary's use or is used to assist in completing marine recreational fisheries statistical surveys, or evaluating the effects of proposed conservation and management measures for marine recreational fisheries.
+&emsp;The Secretary shall exempt from registration under the program recreational fishermen and charter fishing vessels licensed, permitted, or registered under the laws of a State if the Secretary determines that information from the State program is suitable for the Secretary's use or is used to assist in completing marine recreational fisheries statistical surveys, or evaluating the effects of proposed conservation and management measures for marine recreational fisheries.
 
 #### (3) Data collection
 

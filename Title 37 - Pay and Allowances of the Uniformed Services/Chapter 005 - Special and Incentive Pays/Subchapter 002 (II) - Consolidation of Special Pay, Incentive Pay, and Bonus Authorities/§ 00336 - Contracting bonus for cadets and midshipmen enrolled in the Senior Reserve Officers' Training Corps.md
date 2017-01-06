@@ -34,11 +34,13 @@ Regulations.—The Secretary concerned shall issue such regulations as may be ne
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2016.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2017.
 
-(Added Pub. L. 113–66, div. A, title VI, §617(a), Dec. 26, 2013, 127 Stat. 781; amended Pub. L. 113–291, div. A, title VI, §614(6), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(6), Nov. 25, 2015, 129 Stat. 839.)
+(Added Pub. L. 113–66, div. A, title VI, §617(a), Dec. 26, 2013, 127 Stat. 781; amended Pub. L. 113–291, div. A, title VI, §614(6), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(6), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(6), Dec. 23, 2016, 130 Stat. 2158.)
 
 #### Amendments
+
+<b>2016</b>—Subsec. (g). Pub. L. 114–328 substituted "December 31, 2017" for "December 31, 2016".
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 

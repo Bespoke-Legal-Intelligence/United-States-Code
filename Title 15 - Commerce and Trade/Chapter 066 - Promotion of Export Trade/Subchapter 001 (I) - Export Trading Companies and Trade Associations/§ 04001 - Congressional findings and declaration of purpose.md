@@ -14,7 +14,7 @@
 
 &emsp;(6) export trade services in the United States are fragmented into a multitude of separate functions, and companies attempting to offer export trade services lack financial leverage to reach a significant number of potential United States exporters;
 
-&emsp;(7) the United States needs well-developed export trade intermediaries which can achieveeconomies of scale and acquire expertise enabling them to export goods and services profitably, at low per unit cost to producers;
+&emsp;(7) the United States needs well-developed export trade intermediaries which can achieve economies of scale and acquire expertise enabling them to export goods and services profitably, at low per unit cost to producers;
 
 &emsp;(8) the development of export trading companies in the United States has been hampered by business attitudes and by Government regulations;
 

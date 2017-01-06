@@ -24,7 +24,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a) of this section, the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall bein addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
+&emsp;Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a) of this section, the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
 
 #### (2) Amount
 

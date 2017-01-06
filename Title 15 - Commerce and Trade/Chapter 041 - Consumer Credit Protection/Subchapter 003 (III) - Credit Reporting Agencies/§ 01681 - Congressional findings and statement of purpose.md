@@ -30,7 +30,7 @@ Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: "Except as 
 
 #### Effective Date
 
-Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: "Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\]."
+Pub. L. 90–321, title V, §504(d), as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: "Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\]."
 
 #### Short Title
 
@@ -42,7 +42,7 @@ Pub. L. 108–159, title II, §215, Dec. 4, 2003, 117 Stat. 1984, provided that:
 
 "(a)
 
-Study Required.—The Commission and the Board, in consultation with the Office of Fair Housingand Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
+Study Required.—The Commission and the Board, in consultation with the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
 
 &emsp;"(1) the effects of the use of credit scores and credit-based insurance scores on the availability and affordability of financial products and services, including credit cards, mortgages, auto loans, and property and casualty insurance;
 
@@ -142,7 +142,7 @@ Final report.—The Commission shall submit a final report to the Congress on th
 
 &emsp;"(3)
 
-Contents.—Each report submitted under this subsection shall contain a detailed summary of thefindings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate."
+Contents.—Each report submitted under this subsection shall contain a detailed summary of the findings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate."
 
 #### Definitions
 

@@ -16,7 +16,7 @@ The Secretaries may enter into cooperative agreements with the Atlantic States M
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–479 amended subsec. (a) generally, substituting "For each of fiscal years 2007, 2008, 2009, 2010, 2011," for "For each of fiscal years 2001, 2002, and 2003," in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 109–479 amended subsec. (a) generally, substituting "For each of fiscal years 2007,2008, 2009, 2010, 2011," for "For each of fiscal years 2001, 2002, and 2003," in introductory provisions.
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–555 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For each of fiscal years 1998, 1999, and 2000, there are authorized to be appropriated to carry out this chapter—
 

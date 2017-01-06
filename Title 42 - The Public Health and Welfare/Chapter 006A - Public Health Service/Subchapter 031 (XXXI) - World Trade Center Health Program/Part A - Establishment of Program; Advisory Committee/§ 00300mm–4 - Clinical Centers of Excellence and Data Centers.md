@@ -110,7 +110,7 @@
 
 #### (3) Corresponding centers
 
-&emsp;For purposes of this subchapter, a Clinical Center of Excellence and a Data Center shall be treated as "corresponding" to the extent that such Clinical Center and Data Center serve the same population group.
+&emsp;For purposes of this subchapter, a Clinical Center of Excellence and a Data Center shall be treated as "corresponding" to the extentthat such Clinical Center and Data Center serve the same population group.
 
 #### (c) Payment for infrastructure costs
 

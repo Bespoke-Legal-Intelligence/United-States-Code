@@ -4,7 +4,7 @@
 
 Authority to Establish Program.—(1) The Secretary of Defense may establish a program (in this section referred to as the "travel program") to provide transportation on Department of Defense aircraft on a space-available basis to the categories of individuals eligible under subsection (c).
 
-(2) If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation ofthe travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
+(2) If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation of the travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
 
 (3) Not later than 30 days after making the determination to establish the travel program, the Secretary shall submit to the congressional defense committees an initial implementation report describing—
 
@@ -77,4 +77,74 @@ Construction.—The authority to provide transportation under the travel program
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section related to increased priority for space-available transportation on Department of Defense aircraft for certain members and former members of the uniformed services.
+
+#### Study on Space-Available Travel System of the Department of Defense
+
+Pub. L. 114–328, div. A, title III, §352, Dec. 23, 2016, 130 Stat. 2089, provided that:
+
+"(a)
+
+Study Required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall seek to enter into a contract with a federally funded research and development center to conduct an independent study on the space-available travel system of the Department of Defense.
+
+"(b)
+
+Report Required.—Not later than 180 days after entering into a contract with a federally funded research and development center under subsection (a), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report summarizing the results of the study conducted under such subsection.
+
+"(c)
+
+Elements.—The report under subsection (b) shall include, with respect to the space-available travel system, the following:
+
+&emsp;"(1) A determination of—
+
+&emsp;&emsp;"(A) the capacity of the system as of the date of the enactment of this Act \[Dec. 23, 2016\];
+
+&emsp;&emsp;"(B) the projected capacity of the system for the 10-year period following such date of enactment; and
+
+&emsp;&emsp;"(C) the projected number of reserve retirees, active duty retirees, and dependents of such retirees that will exist by the end of such 10-year period.
+
+&emsp;"(2) Estimates of system capacity based \[on\] the projections described in paragraph (1).
+
+&emsp;"(3) A discussion of the efficiency of the system and data regarding the use of available space with respect to each category of passengers eligible for space-available travel under existing regulations.
+
+&emsp;"(4) A description of the effect on system capacity if eligibility for space-available travel is extended to—
+
+&emsp;&emsp;"(A) drilling reserve component personnel and dependents of such personnel on international flights;
+
+&emsp;&emsp;"(B) dependents of reserve component retirees who are less than 60 years of age;
+
+&emsp;&emsp;"(C) retirees who are less than 60 years of age on international flights;
+
+&emsp;&emsp;"(D) drilling reserve component personnel traveling to drilling locations; and
+
+&emsp;&emsp;"(E) members or former members of the Armed Forces who have a disability rated as total, if space-available travel is provided to such members on the same basis as such travel is provided to members of the Armed Forces entitled to retired or retainer pay.
+
+&emsp;"(5) A discussion of logistical and management problems, including congestion at terminals, waiting times, lodging availability, and personal hardships experienced by travelers.
+
+&emsp;"(6) An evaluation of the cost of the system and whether space-available travel is and can remain cost-neutral.
+
+&emsp;"(7) An evaluation of the feasibility of expanding the categories of passengers eligible for space-available travel to include—
+
+&emsp;&emsp;"(A) in the case of overseas travel, retired members of an active or reserve component, including retired members of reserve components, who, but for being under the eligibility age applicable to the member under section 12731 of title 10, United States Code, would be eligible for retired pay under chapter 1223 of such title;
+
+&emsp;&emsp;"(B) unremarried widows and widowers of active or reserve component members of the Armed Forces; and
+
+&emsp;&emsp;"(C) members or former members of the Armed Forces who have a disability rated as total, if space-available travel is provided to such members on the same basis as such travel is provided to members of the Armed Forces entitled to retired or retainer pay.
+
+&emsp;"(8) Such other factors relating to the efficiency and cost of the system as the Secretary determines to be appropriate.
+
+"(d)
+
+Additional Responsibilities.—In addition to carrying out subsections (a) through (c), the Secretary of Defense shall—
+
+&emsp;"(1) analyze the methods used to prioritize among the categories of individuals eligible for space-available travel and make recommendations for—
+
+&emsp;&emsp;"(A) re-ordering the priority of such categories; and
+
+&emsp;&emsp;"(B) adding additional categories of eligible individuals; and
+
+&emsp;"(2) collect data on travelers who request but do not obtain available travel spaces under the space-available travel system.
+
+"(e)
+
+Disability Rated as Total Defined.—In this section, the term 'disability rated as total' has the meaning given the term in section 1414(e)(3) of title 10, United States Code."
 

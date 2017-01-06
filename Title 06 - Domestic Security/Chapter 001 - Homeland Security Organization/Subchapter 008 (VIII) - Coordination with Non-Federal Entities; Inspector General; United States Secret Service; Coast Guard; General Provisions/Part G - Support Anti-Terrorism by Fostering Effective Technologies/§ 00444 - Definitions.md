@@ -8,7 +8,7 @@ For purposes of this part, the following definitions apply:
 
 #### (2) Act of terrorism
 
-&emsp;(A) The term "act of terrorism" means any act that the Secretary determines meets therequirements under subparagraph (B), as such requirements are further defined and specified by the Secretary.
+&emsp;(A) The term "act of terrorism" means any act that the Secretary determines meets the requirements under subparagraph (B), as such requirements are further defined and specified by the Secretary.
 
 &emsp;(B)
 

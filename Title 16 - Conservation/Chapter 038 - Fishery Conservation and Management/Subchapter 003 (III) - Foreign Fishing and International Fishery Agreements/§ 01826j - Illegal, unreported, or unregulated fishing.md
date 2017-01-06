@@ -4,7 +4,7 @@
 
 #### (1) Identification for actions of fishing vessels
 
-&emsp;The Secretary shall, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations, identify, and list in the report under section 1826h of this title, a nation if fishing vessels of that nation are engaged, or have been engaged at any point during the preceding 3 years, in illegal, unreported, or unregulated fishing—
+&emsp;The Secretary shall, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations, identify, and list in the report under section 1826h of this title, a nation if any fishing vessel of that nation is engaged, or has been engaged at any point during the preceding 3 years, in illegal, unreported, or unregulated fishing—
 
 &emsp;&emsp;(A) that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
 
@@ -96,11 +96,11 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, §609, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3628; amended Pub. L. 111–348, title I, §102(b), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(c), (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, 129 Stat. 654, 655.)
+(Pub. L. 104–43, title VI, §609, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3628; amended Pub. L. 111–348, title I, §102(b), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(c), (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, §401(c), Dec. 16, 2016, 130 Stat. 1995.)
 
 #### References in Text
 
-Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original "section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
+Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original"section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
 This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
@@ -109,6 +109,8 @@ This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title V
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–327 substituted "any fishing vessel of that nation is engaged, or has" for "fishing vessels of that nation are engaged, or have" in introductory provisions.
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–81, §101(g)(1), (2), designated existing provisions as par. (1), inserted heading, and, in introductory provisions, inserted ", based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations," after "shall" and substituted "3 years" for "2 years"; redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and, in subpar. (A), inserted "that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether" before "the relevant" and struck out "vessels of" after "activity by"; and added pars. (2) and (3).
 

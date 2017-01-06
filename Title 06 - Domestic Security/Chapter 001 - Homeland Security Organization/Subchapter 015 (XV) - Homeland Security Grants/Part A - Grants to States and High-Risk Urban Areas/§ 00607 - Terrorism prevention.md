@@ -18,15 +18,17 @@
 
 &emsp;&emsp;(D) terrorist interdiction;
 
-&emsp;&emsp;(E) overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
+&emsp;&emsp;(E) training exercises to enhance preparedness for and response to mass casualty and active shooter incidents and security events at public locations, including airports and mass transit systems;
 
-&emsp;&emsp;(F) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title;
+&emsp;&emsp;(F) overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
 
-&emsp;&emsp;(G) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
+&emsp;&emsp;(G) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title;
 
-&emsp;&emsp;(H) any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
+&emsp;&emsp;(H) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
 
-&emsp;&emsp;(I) any other terrorism prevention activity authorized by the Administrator.
+&emsp;&emsp;(I) any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
+
+&emsp;&emsp;(J) any other terrorism prevention activity authorized by the Administrator.
 
 #### (3) Participation of underrepresented communities in fusion centers
 
@@ -64,7 +66,11 @@
 
 #### (5) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to diminish, supercede, or replace the responsibilities, authorities, or role of the Administrator.
+&emsp;Nothing in this subsection shall be construed to diminish, supercede, or replace theresponsibilities, authorities, or role of the Administrator.
 
-(Pub. L. 107–296, title XX, §2006, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 280.)
+(Pub. L. 107–296, title XX, §2006, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 280; amended Pub. L. 114–190, title III, §3602, July 15, 2016, 130 Stat. 665.)
+
+#### Amendments
+
+<b>2016</b>—Subsec. (a)(2)(E) to (J). Pub. L. 114–190 added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
 

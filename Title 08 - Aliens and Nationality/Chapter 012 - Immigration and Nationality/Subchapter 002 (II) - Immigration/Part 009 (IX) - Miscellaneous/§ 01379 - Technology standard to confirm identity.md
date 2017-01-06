@@ -24,7 +24,7 @@ Not later than one year after October 26, 2001, and every 2 years thereafter, th
 
 #### (5) Funding
 
-There is authorized to be appropriated to the Secretary of State, the Attorney General, andthe Director of the National Institute of Standards and Technology such sums as may be necessary to carry out the provisions of this section.
+There is authorized to be appropriated to the Secretary of State, the Attorney General, and the Director of the National Institute of Standards and Technology such sums as may be necessary to carry out the provisions of this section.
 
 (Pub. L. 107–56, title IV, §403(c), Oct. 26, 2001, 115 Stat. 344; Pub. L. 107–173, title II, §§201(c)(5), 202(a)(4)(B), May 14, 2002, 116 Stat. 548, 549.)
 

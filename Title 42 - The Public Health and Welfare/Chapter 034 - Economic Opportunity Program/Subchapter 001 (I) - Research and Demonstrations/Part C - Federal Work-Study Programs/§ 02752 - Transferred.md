@@ -1,0 +1,6 @@
+### §2752. Transferred
+
+#### Codification
+
+Section 2752, originally enacted as section 122 of Pub. L. 88–452, was renumbered section 442 of Pub. L. 89–329 and transferred to section 1087–52 of Title 20, Education.
+

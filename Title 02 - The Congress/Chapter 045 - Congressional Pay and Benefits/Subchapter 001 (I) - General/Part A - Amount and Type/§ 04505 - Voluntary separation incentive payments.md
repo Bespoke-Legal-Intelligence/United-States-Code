@@ -20,7 +20,7 @@ A voluntary separation incentive payment made under this section—
 
 &emsp;(4) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit;
 
-&emsp;(5) shall not be taken into account in determining the amount of any severance pay towhich the employee may be entitled under section 5595 of title 5 based on any other separation; and
+&emsp;(5) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title 5 based on any other separation; and
 
 &emsp;(6) shall be paid from appropriations or funds available for the payment of the basic pay of the employee.
 

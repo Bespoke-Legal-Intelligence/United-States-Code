@@ -2,7 +2,39 @@
 
 #### (a) Appointment
 
-The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.
+#### (1) In general
+
+&emsp;The Director of the National Cancer Institute shall be appointed by the President, and the Directors of the other national research institutes and national centers shall be appointed by the Secretary, acting through the Director of National Institutes of Health. Each Director of a national research institute or national center shall report directly to the Director of National Institutes of Health.
+
+#### (2) Appointment
+
+#### (A) Term
+
+&emsp;&emsp;A Director of a national research institute or national center who is appointed by the Secretary, acting through the Director of National Institutes of Health, shall be appointed for 5 years.
+
+#### (B) Reappointment
+
+&emsp;&emsp;At the end of the term of a Director of a national research institute or national center, the Director may be reappointed in accordance with standards applicable to the relevant appointment mechanism. There shall be no limit on the number of terms that a Director may serve.
+
+#### (C) Vacancies
+
+&emsp;&emsp;If the office of a Director of a national research institute or national center becomes vacant before the end of such Director's term, the Director appointed to fill the vacancy shall be appointed for a 5-year term starting on the date of such appointment.
+
+#### (D) Current directors
+
+&emsp;&emsp;Each Director of a national research institute or national center who is serving on December 13, 2016, shall be deemed to be appointed for a 5-year term under this subsection beginning on such date.
+
+#### (E) Rule of construction
+
+&emsp;&emsp;Nothing in this subsection shall be construed to limit the authority of the Secretary or the Director of National Institutes of Health to terminate the appointment of a director referred to in subparagraph (A) before the expiration of such director's 5-year term.
+
+#### (F) Nature of appointment
+
+&emsp;&emsp;Appointments and reappointments under this subsection shall be made on the basis of ability and experience as it relates to the mission of the National Institutes of Health and its components, including compliance with any legal requirement that the Secretary or Director of National Institutes of Health determines relevant.
+
+#### (3) Nonapplication of certain provision
+
+&emsp;The restrictions contained in section 202 of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1993 (Public Law 102–394; 42 U.S.C. 238f note) related to consultants and individual scientists appointed for limited periods of time shall not apply to Directors appointed under this subsection.
 
 #### (b) Duties and authority; grants, contracts, and cooperative agreements
 
@@ -20,25 +52,27 @@ The Director of the National Cancer Institute shall be appointed by the Presiden
 
 &emsp;(B) may, subject to the peer review prescribed under section 289a(b) of this title and any advisory council review under section 284a(a)(3)(A)(i) of this title, conduct the research, investigations, experiments, demonstrations, and studies referred to in subparagraph (A);
 
-&emsp;(C) may conduct and support research training (i) for which fellowship support is not provided under section 288 of this title, and (ii) which is not residency training of physicians or other health professionals;
+&emsp;(C) shall, as appropriate, conduct and support research that has the potential to transform the scientific field, has inherently higher risk, and that seeks to address major current challenges;
 
-&emsp;(D) may develop, implement, and support demonstrations and programs for the application of the results of the activities of the institute to clinical practice and disease prevention activities;
+&emsp;(D) may conduct and support research training (i) for which fellowship support is not provided under section 288 of this title, and (ii) which is not residency training of physicians or other health professionals;
 
-&emsp;(E) may develop, conduct, and support public and professional education and information programs;
+&emsp;(E) may develop, implement, and support demonstrations and programs for the application of the results of the activities of the institute to clinical practice and disease prevention activities;
 
-&emsp;(F) may secure, develop and maintain, distribute, and support the development and maintenance of resources needed for research;
+&emsp;(F) may develop, conduct, and support public and professional education and information programs;
 
-&emsp;(G) may make available the facilities of the institute to appropriate entities and individuals engaged in research activities and cooperate with and assist Federal and State agencies charged with protecting the public health;
+&emsp;(G) may secure, develop and maintain, distribute, and support the development and maintenance of resources needed for research;
 
-&emsp;(H) may accept unconditional gifts made to the institute for its activities, and, in the case of gifts of a value in excess of $50,000, establish suitable memorials to the donor;
+&emsp;(H) may make available the facilities of the institute to appropriate entities and individuals engaged in research activities and cooperate with and assist Federal and State agencies charged with protecting the public health;
 
-&emsp;(I) may secure for the institute consultation services and advice of persons from the United States or abroad;
+&emsp;(I) may accept unconditional gifts made to the institute for its activities, and, in the case of gifts of a value in excess of $50,000, establish suitable memorials to the donor;
 
-&emsp;(J) may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, with or without reimbursement therefor;
+&emsp;(J) may secure for the institute consultation services and advice of persons from the United States or abroad;
 
-&emsp;(K) may accept voluntary and uncompensated services; and
+&emsp;(K) may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, with or without reimbursement therefor;
 
-&emsp;(L) may perform such other functions as the Secretary determines are needed to carry out effectively the purposes of the institute.
+&emsp;(L) may accept voluntary and uncompensated services; and
+
+&emsp;(M) may perform such other functions as the Secretary determines are needed to carry out effectively the purposes of the institute.
 
 > The indemnification provisions of section 2354 of title 10 shall apply with respect to contracts entered into under this subsection and section 282(b) of this title.
 
@@ -54,9 +88,21 @@ The Director of the National Cancer Institute shall be appointed by the Presiden
 
 &emsp;(C) shall, subject to section 300cc–40c(d)(2) of this title, receive from the President and the Office of Management and Budget directly all funds appropriated by the Congress for obligation and expenditure by the Institute.
 
+(3) Before an award is made by a national research institute or by a national center for a grant for a research program or project (commonly referred to as an "R-series grant"), other than an award constituting a noncompetitive renewal of such a grant, or a noncompetitive administrative supplement to such a grant, the Director of such national research institute or national center shall, consistent with the peer review process—
+
+&emsp;(A) review and make the final decision with respect to making the award; and
+
+&emsp;(B) take into consideration, as appropriate—
+
+&emsp;&emsp;(i) the mission of the national research institute or national center and the scientific priorities identified in the strategic plan under section 282(m) of this title;
+
+&emsp;&emsp;(ii) programs or projects funded by other agencies on similar research topics; and
+
+&emsp;&emsp;(iii) advice by staff and the advisory council or board of such national research institute or national center.
+
 #### (c) Coordination with other public and private entities; cooperation with other national research institutes; appointment of additional peer review groups
 
-In carrying out subsection (b) of this section, each Director of a national research institute—
+In carrying out subsection (b), each Director of a national research institute—
 
 &emsp;(1) shall coordinate, as appropriate, the activities of the institute with similar programs of other public and private entities;
 
@@ -72,13 +118,19 @@ In carrying out subsection (b) of this section, each Director of a national rese
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
+(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amendedPub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–255, §2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.".
+
+Subsec. (b)(1)(C) to (M). Pub. L. 114–255, §2036(c), added par. (C) and redesignated former pars. (C) to (L) as (D) to (M), respectively.
+
+Subsec. (b)(3). Pub. L. 114–255, §2033(b), added par. (3).
 
 <b>2007</b>—Subsec. (c)(3)(A). Pub. L. 109–482 substituted "section 282(b)(16)" for "section 282(b)(6)".
 

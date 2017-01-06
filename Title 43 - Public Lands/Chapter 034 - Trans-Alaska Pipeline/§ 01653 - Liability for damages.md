@@ -2,7 +2,7 @@
 
 #### (a) Activities along or in vicinity of pipeline right-of-way; strict liability; limitation on liability; subrogation; emergency subsistence and other aid; exemption for State of Alaska
 
-(1) Except when the holder of the pipeline right-of-way granted pursuant to this chapter can prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
+(1) Except when the holder of the pipeline right-of-way granted pursuant to this chaptercan prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
 
 (2) Liability under paragraph (1) of this subsection shall be limited to $350,000,000 for any one incident, and the holders of the right-of-way or permit shall be liable for any claim allowed in proportion to their ownership interest in the right-of-way or permit. Liability of such holders for damages in excess of $350,000,000 shall be in accord with ordinary rules of negligence.
 
@@ -102,5 +102,5 @@ Pub. L. 101–380, title VIII, §8102(a)(5)(B), Aug. 18, 1990, 104 Stat. 566, pr
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
-Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: "This subsection \[amendingthis section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the 'Tucker Act')."
+Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: "This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the 'Tucker Act')."
 

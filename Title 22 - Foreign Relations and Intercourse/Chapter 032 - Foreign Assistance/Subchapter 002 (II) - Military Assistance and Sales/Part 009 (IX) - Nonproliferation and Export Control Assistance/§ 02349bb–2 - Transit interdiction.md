@@ -2,7 +2,7 @@
 
 #### (a) Allocation of funds
 
-In providing assistance under this part, the President shall ensure that, beginning in fiscalyear 2007, not less than one-quarter of the total of such assistance is obligated for the purpose of enhancing the capabilities of friendly countries to detect and interdict proliferation-related shipments of cargo to non-State actors and States of proliferation concern.
+In providing assistance under this part, the President shall ensure that, beginning in fiscal year 2007, not less than one-quarter of the total of such assistance is obligated for the purpose of enhancing the capabilities of friendly countries to detect and interdict proliferation-related shipments of cargo to non-State actors and States of proliferation concern.
 
 #### (b) Priority to certain countries
 
@@ -14,7 +14,7 @@ In order to promote cooperation regarding the interdiction of weapons of mass de
 
 #### (d) Determination and notice to Congress
 
-The Secretary of State shall notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate in writing not more than 30 days after making a determination that any friendly country has been determined to be a country eligible for priority consideration of any assistance under subsection (a). Such determination shall set forth the reasons for such determination, and may be submitted in classified and unclassified form, as necessary.
+The Secretary of State shall notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate in writing not more than 30 days after making a determination that any friendly country has been determined to bea country eligible for priority consideration of any assistance under subsection (a). Such determination shall set forth the reasons for such determination, and may be submitted in classified and unclassified form, as necessary.
 
 (Pub. L. 87–195, pt. II, §583, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 852; amended Pub. L. 109–472, §10(c), Jan. 11, 2007, 120 Stat. 3557.)
 

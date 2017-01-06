@@ -22,7 +22,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-Requirements for historic sites.—The requirements of this section shall be considered to be satisfied with respect to an area described in paragraph (2) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area.
+Requirements for historic sites.—The requirements of this section shall beconsidered to be satisfied with respect to an area described in paragraph (2) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area.
 
 &emsp;&emsp;(B)
 
@@ -104,7 +104,7 @@ Aligning historical reviews.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Secretary, the applicable preservation officer, the Council, and the Secretary of the Interior concur that no feasible and prudent alternative exists as described in paragraph (2), the Secretary may provide to the applicable preservation officer, the Council, and the Secretary of the Interior notice of the intent of the Secretary to satisfy subsection (c)(2) through the consultation requirements of section 306108 of title 54.
+In general.—If the Secretary, the applicable preservation officer, the Council, and the Secretary of the Interior concur that no feasible and prudent alternative exists as described in paragraph (2), the Secretary may provide to the applicable preservation officer, the Council, and the Secretary of the Interior notice of the intent ofthe Secretary to satisfy subsection (c)(2) through the consultation requirements of section 306108 of title 54.
 
 &emsp;&emsp;(B)
 

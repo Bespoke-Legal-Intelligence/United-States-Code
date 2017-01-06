@@ -14,11 +14,15 @@ Use Subject to Applicable Laws.—The use of equipment, supplies, or other resou
 
 (c)
 
-Authority Not Contingent on Reimbursement.—The authority for the Civil Air Patrol toprovide assistance under subsection (a)(1) is not contingent on the Civil Air Patrol being reimbursed for the cost of providing the assistance. If the Civil Air Patrol elects to require reimbursement for the provision of assistance under such subsection, the Civil Air Patrol may establish the reimbursement rate at a rate less than the rates charged by private sector sources for equivalent services.
+Authority Not Contingent on Reimbursement.—The authority for the Civil Air Patrol to provide assistance under subsection (a)(1) is not contingent on the Civil Air Patrol being reimbursed for the cost of providing the assistance. If the Civil Air Patrol elects to require reimbursement for the provision of assistance under such subsection, the Civil Air Patrol may establish the reimbursement rate at a rate less than the rates charged by private sector sources for equivalent services.
 
 (d)
 
 Liability Insurance.—The Secretary of the Air Force may provide the Civil Air Patrol with funds for paying the cost of liability insurance to cover missions and activities carried out under this section.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–295.)
+
+#### Effective Date
+
+Section effective 120 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1090(c)\] of Pub. L. 106–398, set out as a note under section 9441 of this title.
 

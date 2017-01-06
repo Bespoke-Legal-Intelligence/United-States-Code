@@ -8,7 +8,7 @@
 
 > An employee assigned either on detail or on leave without pay remains an employee of his agency. The Federal Tort Claims Act and any other Federal tort liability statute apply to an employee so assigned. The supervision of the duties of an employee on detail may be governed by agreement between the Federal agency and the State or local government concerned.
 
-(b) The assignment of an employee of a Federal agency either on detail or on leave without pay to a State or local government under this subchapter may be made with or without reimbursement by the State or local government for the travel and transportation expenses to or from the place of assignment and for the pay, or supplemental pay, or a part thereof, of the employee during assignment. Any reimbursements shall be credited to the appropriation of the Federal agency used for paying the travel and transportation expenses or pay.
+(b) The assignment of an employee of a Federal agency either on detail or on leave withoutpay to a State or local government under this subchapter may be made with or without reimbursement by the State or local government for the travel and transportation expenses to or from the place of assignment and for the pay, or supplemental pay, or a part thereof, of the employee during assignment. Any reimbursements shall be credited to the appropriation of the Federal agency used for paying the travel and transportation expenses or pay.
 
 (c) For any employee so assigned and on leave without pay—
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) to continuation of his insurance under chapter 87 of this title, and coverage under chapter 89 of this title or other applicable authority, so long as he pays currently into the Employee's Life Insurance Fund and the Employee's Health Benefits Fund or other applicable health benefits system (through his employing agency) the amount of the employee contributions;
 
-&emsp;&emsp;(B) to credit the period of his assignment under this subchapter toward periodic step-increases, retention, and leave accrual purposes, and, on payment into the Civil Service Retirement and Disability Fund or other applicable retirement system of the percentage of his State or local government pay, and of his supplemental pay, if any, that would have been deducted from a like agency pay for the period of the assignment and payment by the Federal agency into thefund or system of the amount that would have been payable by the agency during the period of the assignment with respect to a like agency pay, to treat his service during that period as service of the type performed in the agency immediately before his assignment; and
+&emsp;&emsp;(B) to credit the period of his assignment under this subchapter toward periodic step-increases, retention, and leave accrual purposes, and, on payment into the Civil Service Retirement and Disability Fund or other applicable retirement system of the percentage of his State or local government pay, and of his supplemental pay, if any, that would have been deducted from a like agency pay for the period of the assignment and payment by the Federal agency into the fund or system of the amount that would have been payable by the agency during the period of the assignment with respect to a like agency pay, to treat his service during that period as service of the type performed in the agency immediately before his assignment; and
 
 &emsp;&emsp;(C) for the purpose of subchapter I of chapter 85 of this title, to credit the service performed during the period of his assignment under this subchapter as Federal service, and to consider his State or local government pay (and his supplemental pay, if any) as Federal wages. To the extent that the service could also be the basis for entitlement to unemployment compensation under a State law, the employee may elect to claim unemployment compensation on the basis of the service under either the State law or subchapter I of chapter 85 of this title.
 
@@ -40,7 +40,7 @@
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (a), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (a), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, seeTables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 
@@ -53,4 +53,8 @@ Subsec. (c). Pub. L. 95–454, §§603(b), 906(a)(2), substituted "Federal agenc
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Effective Date
+
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under section 3371 of this title.
 

@@ -40,7 +40,7 @@ Distribution of Funds.—From amounts in the Trust Fund, the Secretary \[of Agri
 
 &emsp;"(2) Twenty-five percent of the amounts in the Trust Fund shall be paid to yarn spinners of pima cotton that produce ring spun cotton yarns in the United States, to be allocated to each spinner in an amount that bears the same ratio as—
 
-&emsp;&emsp;"(A) the spinner's production of ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number) from pima cotton in single and plied form during calendar year 2013 (as evidenced by an affidavit provided by the spinner that meets the requirements of subsection (c)), bears to—
+&emsp;&emsp;"(A) the spinner's production of ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number) from pima cotton in single and plied form during calendar year 2013 (as evidencedby an affidavit provided by the spinner that meets the requirements of subsection (c)), bears to—
 
 &emsp;&emsp;"(B) the production of the yarns described in subparagraph (A) during calendar year 2013 for all spinners who qualify under this paragraph.
 

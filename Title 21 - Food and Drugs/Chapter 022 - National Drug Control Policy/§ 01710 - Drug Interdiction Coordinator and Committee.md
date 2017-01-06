@@ -36,7 +36,7 @@
 
 #### (B) Consultation with other agencies
 
-&emsp;&emsp;The United States Interdiction Coordinator shall issue the National Interdiction Command and Control Plan in consultation with the other members of the Interdiction Committee described in subsection (b).
+&emsp;&emsp;The United States Interdiction Coordinator shall issue the National InterdictionCommand and Control Plan in consultation with the other members of the Interdiction Committee described in subsection (b).
 
 #### (C) Limitation
 
@@ -54,7 +54,7 @@
 
 #### (E) Treatment of classified or law enforcement sensitive information
 
-&emsp;&emsp;Any content of the report described in subparagraph (D) that involves information classified under criteria established by an Executive order, or the public disclosure of which, as determined by the Director, the Director of National Intelligence, or the head of any Federal Government agency the activities of which are described in the plan, would be detrimental to the law enforcement or national security activities of anyFederal, State, or local agency, shall be presented to Congress separately from the rest of the report.
+&emsp;&emsp;Any content of the report described in subparagraph (D) that involves information classified under criteria established by an Executive order, or the public disclosure of which, as determined by the Director, the Director of National Intelligence, or the head of any Federal Government agency the activities of which are described in the plan, would be detrimental to the law enforcement or national security activities of any Federal, State, or local agency, shall be presented to Congress separately from the rest of the report.
 
 #### (b) Interdiction Committee
 

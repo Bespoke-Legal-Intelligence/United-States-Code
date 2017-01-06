@@ -1,6 +1,6 @@
 ### §3013. Secretary of the Army
 
-(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
+(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Army.
 
 (2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -28,7 +28,7 @@
 
 &emsp;(11) The construction, outfitting, and repair of military equipment.
 
-&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities andthe acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
+&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities and the acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
 
 (c) Subject to the authority, direction, and control of the Secretary of Defense, the Secretary of the Army is also responsible to the Secretary of Defense for—
 
@@ -60,7 +60,7 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1035; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558.)
+(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1035; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, §931(a), Dec. 23, 2016, 130 Stat. 2362.)
 
 #### Prior Provisions
 
@@ -70,9 +70,143 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 
 #### Amendments
 
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–328 inserted "The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience." after first sentence.
+
 <b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out "(to the maximum extent practicable)" after "fulfill".
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted "five years" for "10 years".
+
+#### Restructuring of the Distributed Common Ground System of the Army
+
+Pub. L. 114–328, div. A, title II, §220(a), (b), Dec. 23, 2016, 130 Stat. 2055, provided that:
+
+"(a)
+
+In General.—Not later that \[sic\] April 1, 2017, the Secretary of the Army shall restructure versions of the distributed common ground system of the Army after Increment 1—
+
+&emsp;"(1) by discontinuing development of new software code, excluding the configuration and testing of system interfaces to commercial, open source, and existing Government off the shelf (GOTS) software, of any component of the system for which there is commercial, open source, or Government off the shelf software that is capable of fulfilling at least 80 percent of the system requirements applicable to such component; and
+
+&emsp;"(2) by conducting a review of the acquisition strategy of the program to ensure that procurement of commercial software is the preferred method of meeting program requirements for major system components.
+
+"(b)
+
+Limitation.—The Secretary of the Army shall not award any contract for the development of new component software capability for the distributed common ground system of the Army if such a capability is already a commercial item or open source, except for configuration of capabilities that are incidental to and necessary for the proper functioning of the system."
+
+#### Consolidation of Army Marketing and Pilot Program on Consolidated Army Recruiting
+
+Pub. L. 114–328, div. A, title V, §527, Dec. 23, 2016, 130 Stat. 2117, provided that:
+
+"(a)
+
+Consolidation of Army Marketing.—Not later than October 1, 2017, the Secretary of the Army shall consolidate into a single organization within the Department of the Army all functions relating to the marketing of the Army and each of the components of the Army in order to assure unity of effort and cost effectiveness in the marketing of the Army and each of the components of the Army.
+
+"(b)
+
+Pilot Program on Consolidated Army Recruiting.—
+
+&emsp;"(1)
+
+Pilot program required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of the Army shall carry out a pilot program to consolidate the recruiting efforts of the Regular Army, Army Reserve, and Army National Guard under which a recruiter in one of the components participating in the pilot program may recruit individuals to enlist in any of the components regardless of the funding source of the recruiting activity.
+
+&emsp;"(2)
+
+Credit toward enlistment goals.—Under the pilot program, a recruiter shall receive credit toward periodic enlistment goals for each enlistment regardless of the component in which the individual enlists.
+
+&emsp;"(3)
+
+Duration.—The Secretary shall carry out the pilot program for a period of not less than three years.
+
+"(c)
+
+Briefing and Reports.—
+
+&emsp;"(1)
+
+Briefing on consolidation plan.—Not later than March 1, 2017, the Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the Secretary's plan to carry out the Army marketing consolidation required by subsection (a).
+
+&emsp;"(2)
+
+Interim report on pilot program.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date on which the pilot program under subsection (b) commences, the Secretary shall submitto the congressional committees specified in paragraph (1) a report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The report under subparagraph (A) shall include each of the following:
+
+&emsp;&emsp;&emsp;"(i) An analysis of the effects that consolidated \[sic\] recruiting efforts has \[sic\] on the overall ability of recruiters to attract and place qualified candidates.
+
+&emsp;&emsp;&emsp;"(ii) A determination of the extent to which consolidating recruiting efforts affects efficiency and recruiting costs.
+
+&emsp;&emsp;&emsp;"(iii) An analysis of any challenges associated with a recruiter working to recruit individuals to enlist in a component in which the recruiter has not served.
+
+&emsp;&emsp;&emsp;"(iv) An analysis of the satisfaction of recruiters and the component recruiting commands with the pilot program.
+
+&emsp;"(3)
+
+Final report on pilot program.—Not later than 180 days after the date on which the pilot program is completed, the Secretary shall submit to the congressional committees specified in paragraph (1) a final report on the pilot program. The final report shall include any recommendations of the Secretary with respect to extending or making permanent the pilot program and a description of any related legislative actions that the Secretary considers appropriate."
+
+#### Global Cultural Knowledge Network
+
+Pub. L. 114–328, div. A, title X, §1087, Dec. 23, 2016, 130 Stat. 2425, provided that:
+
+"(a)
+
+Program Authorized.—The Secretary of the Army shall carry out a program to support the socio-cultural understanding needs of the Department of the Army, to be known as the Global Cultural Knowledge Network.
+
+"(b)
+
+Goals.—The Global Cultural Knowledge Network shall support the following goals:
+
+&emsp;"(1) Provide socio-cultural analysis support to any unit deployed, or preparing to deploy, to an exercise or operation in the assigned region of responsibility of the unit being supported.
+
+&emsp;"(2) Make recommendations or support policy or doctrine development to increase the social science expertise of military and civilian personnel of the Department of the Army.
+
+&emsp;"(3) Provide reimbursable support to other military departments or Federal agencies if requested through an operational needs request process.
+
+"(c)
+
+Elements of the Program.—The Global Cultural Knowledge Network shall include the following elements:
+
+&emsp;"(1) A center in the continental United States (referred to in this section as a 'reach-back center') to support requests for information, research, and analysis.
+
+&emsp;"(2) Outreach to academic institutions and other Federal agencies involved in social science research to increase the network of resources for the reach-back center.
+
+&emsp;"(3) Training with operational units during annual training exercises or during pre-deployment training.
+
+&emsp;"(4) The training, contracting, and human resources capacity to rapidly respond to contingencies in which social science expertise is requested by operational commanders through an operational needs request process.
+
+"(d)
+
+Directive Required.—The Secretary of the Army shall issue a directive within one year after the date of the enactment of this Act \[Dec. 23, 2016\] for the governance of the Global Cultural Knowledge Network, including oversight and process controls for auditing the activities of personnel of the Network, the employment of the Global Cultural Knowledge Network by operational forces, and processes for requesting support by operational Army units and other Department of Defense and Federal entities.
+
+"(e)
+
+Prohibition on Deployments Under Global Cultural Knowledge Network.—
+
+&emsp;"(1)
+
+Prohibition.—The Secretary of the Army may not deploy social scientists of the Global Cultural Knowledge Network in a conflict zone.
+
+&emsp;"(2)
+
+Waiver.—The Secretary of the Army may waive the prohibition in paragraph (1) if the Secretary submits, at least 10 days before the deployment, to the Committees on Armed Services of the House of Representatives and the Senate—
+
+&emsp;&emsp;"(A) notice of the waiver; and
+
+&emsp;&emsp;"(B) a certification that there is a compelling national security interest for the deployment or there will be a benefit to the safety and welfare of members of the Armed Forces from the deployment.
+
+&emsp;"(3)
+
+Elements of waiver notice.—A waiver notice under this subsection also shall include the following:
+
+&emsp;&emsp;"(A) The operational unit, or units, requesting support, including the location or locations where the social scientists are to be deployed.
+
+&emsp;&emsp;"(B) The number of Global Cultural Knowledge Network personnel to be deployed and the anticipated duration of such deployments.
+
+&emsp;&emsp;"(C) The anticipated resource needs for such deployment."
 
 #### Pilot Program for the Human Terrain System
 
@@ -112,7 +246,7 @@ Progress Reports.—Not later than February 15, 2010, and February 15, 2011, the
 
 #### Selection of Military Installations To Serve as Locations of Brigade Combat Teams
 
-Pub. L. 111–84, div. B, title XXVIII, §2825, Oct. 28, 2009, 123 Stat. 2668, provided that: "In selecting the military installations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units."
+Pub. L. 111–84, div. B, title XXVIII, §2825, Oct. 28, 2009, 123 Stat. 2668, provided that: "In selecting the militaryinstallations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units."
 
 #### Army Training Strategy for Brigade-Based Combat Teams and Functional Supporting Brigades
 
@@ -210,7 +344,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 "(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
-&emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
+&emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training exceptto the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 
 &emsp;"(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 

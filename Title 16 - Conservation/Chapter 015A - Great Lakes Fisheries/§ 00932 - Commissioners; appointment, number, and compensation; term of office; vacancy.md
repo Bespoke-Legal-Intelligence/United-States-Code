@@ -16,7 +16,7 @@
 
 (b)(1) Except as provided in paragraph (2), the term of office of Commissioners appointed under subsection (a)(1)(B) is 6 years.
 
-(2) Of the Commissioners first appointed under subsection (a)(1)(B) after November 14, 1986, 1shall be appointed for a term of 2 years, 1 shall be appointed for a term of 4 years, and 1 shall be appointed for a term of 6 years.
+(2) Of the Commissioners first appointed under subsection (a)(1)(B) after November 14, 1986, 1 shall be appointed for a term of 2 years, 1 shall be appointed for a term of 4 years, and 1 shall be appointed for a term of 6 years.
 
 (3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B), the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
 

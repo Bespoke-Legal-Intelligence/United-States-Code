@@ -428,7 +428,7 @@ Application.—An eligible recipient shall submit to the Secretary an applicatio
 
 "(4)
 
-Report.—The Secretary shall make publicly available an annual report on the pilot program carriedout under this subsection for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under the pilot program, and an evaluation of the program, including an evaluation of the performance measures described in paragraph (3)(D).
+Report.—The Secretary shall make publicly available an annual report on the pilot program carried out under this subsection for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under the pilot program, and an evaluation of the program, including an evaluation of the performance measures described in paragraph (3)(D).
 
 "(5)
 

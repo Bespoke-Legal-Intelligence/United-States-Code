@@ -12,7 +12,7 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–161 substituted "deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer" for "deposited in the Treasury as miscellaneous receipts".
+<b>2007</b>—Pub. L. 110–161 substituted "deposited in the Treasury for credit to the account of the Office of theChief Administrative Officer" for "deposited in the Treasury as miscellaneous receipts".
 
 #### Effective Date of 2007 Amendment
 

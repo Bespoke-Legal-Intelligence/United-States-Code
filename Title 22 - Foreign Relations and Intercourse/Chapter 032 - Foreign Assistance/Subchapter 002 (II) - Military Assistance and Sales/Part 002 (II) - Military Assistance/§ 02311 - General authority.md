@@ -64,7 +64,7 @@ Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of res
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–533 added par. (3).
 
-<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
+<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defenseand providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted "or grant" for ", lease, sale, exchange, grant, or any other means".
 

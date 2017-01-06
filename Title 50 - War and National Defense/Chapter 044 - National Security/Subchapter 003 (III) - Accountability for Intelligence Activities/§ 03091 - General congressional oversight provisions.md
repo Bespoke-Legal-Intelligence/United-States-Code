@@ -20,7 +20,7 @@ The House of Representatives and the Senate shall each establish, by rule or res
 
 #### (e) Construction of authority conferred
 
-Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.
+Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees wouldconstitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.
 
 #### (f) "Intelligence activities" defined
 
@@ -58,5 +58,5 @@ Subsec. (f). Pub. L. 107–306, §342(b), inserted ", and includes financial in
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

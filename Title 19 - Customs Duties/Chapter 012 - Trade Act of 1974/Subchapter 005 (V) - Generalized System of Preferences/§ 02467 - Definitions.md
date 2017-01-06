@@ -42,7 +42,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) the use, procuring, or offering of a child for illicit activities in particular for the production and trafficking of drugs; and
 
-&emsp;&emsp;(D) work which, by its nature or the circumstances in which it is carried out, is likely to harm the health, safety, or morals of children.
+&emsp;&emsp;(D) work which, by its nature or the circumstances in which it is carried out, islikely to harm the health, safety, or morals of children.
 
 > &emsp;The work referred to in subparagraph (D) shall be determined by the laws, regulations, or competent authority of the beneficiary developing country involved.
 

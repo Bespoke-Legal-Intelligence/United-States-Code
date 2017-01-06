@@ -2,7 +2,7 @@
 
 (a)
 
-Plans Required.—(1) At a time interval prescribed by the Secretary concerned (but not less frequently than once every 10 years), the commander of each major military installation under the jurisdiction of the Secretary shall ensure that an installation master plan is developed to address environmental planning, sustainable design and development, sustainable range planning, real property master planning, and transportation planning.
+Plans Required.—(1) At a time interval prescribed by the Secretary concerned (but notless frequently than once every 10 years), the commander of each major military installation under the jurisdiction of the Secretary shall ensure that an installation master plan is developed to address environmental planning, sustainable design and development, sustainable range planning, real property master planning, and transportation planning.
 
 (2) To address the requirements under paragraph (1), each installation master plan shall include consideration of—
 

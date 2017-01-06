@@ -10,7 +10,7 @@
 
 (b) A person referred to in subsection (a) is any of the following:
 
-&emsp;(1) A person who has been convicted of a Federal capital crime and whose conviction is final (other than a person whose sentence was commuted by the President).
+&emsp;(1) A person who has been convicted of a Federal capital crime and whose conviction isfinal (other than a person whose sentence was commuted by the President).
 
 &emsp;(2) A person who has been convicted of a State capital crime and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State).
 
@@ -52,7 +52,7 @@
 
 (ii) A notice of disagreement filed with the Secretary of Defense under subparagraph (A) shall be decided in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this subsection.
 
-(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant toparagraph (3)(B), the appropriate Federal official may take any of the following actions:
+(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
 
 &emsp;(A) Disinter the remains of the person from the cemetery in the National Cemetery Administration or in Arlington National Cemetery and provide for the reburial or other appropriate disposition of the disinterred remains in a place other than a cemetery in the National Cemetery Administration or in Arlington National Cemetery.
 
@@ -130,5 +130,5 @@ Pub. L. 105–116, §1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: "Sectio
 
 #### Regulations
 
-Pub. L. 109–163, div. A, title VI, §662(d)(1), Jan. 6, 2006, 119 Stat. 3315, provided that: "The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the NationalCemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment under Federal law."
+Pub. L. 109–163, div. A, title VI, §662(d)(1), Jan. 6, 2006, 119 Stat. 3315, provided that: "The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the National Cemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment under Federal law."
 

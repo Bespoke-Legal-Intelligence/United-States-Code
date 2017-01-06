@@ -34,7 +34,7 @@ Section 5787d, added Pub. L. 95–377, §4(a), Sept. 19, 1978, 92 Stat. 720; ame
 
 Section 5788, acts Aug. 10, 1956, ch. 1041, 70A Stat. 367; Sept. 7, 1962, Pub. L. 87–649, §14c(32), 76 Stat. 501, related to eligibility for promotion of Navy ensigns and Marine Corps second lieutenants. See section 619 of this title.
 
-Section 5789, act Aug. 10, 1956, ch. 1041, 70A Stat. 367, authorized promotion of officers in the line of the Navyor of the Marine Corps upon receipt of the thanks of Congress. See section 619 et seq. of this title.
+Section 5789, act Aug. 10, 1956, ch. 1041, 70A Stat. 367, authorized promotion of officers in the line of the Navy or of the Marine Corps upon receipt of the thanks of Congress. See section 619 et seq. of this title.
 
 Section 5790, act Aug. 10, 1956, ch. 1041, 70A Stat. 368, authorized advancement in rank of officers of Navy or of Marine Corps by not more than 30 numbers on lineal list for conduct in battle or extraordinary heroism. See section 619 et seq. of this title.
 

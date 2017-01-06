@@ -6,7 +6,7 @@ The Secretary shall not make a grant to a State under section 300ff–21 of this
 
 #### (b) Description of intended uses and agreements
 
-The application submitted under subsection (a) of this section shall contain—
+The application submitted under subsection (a) shall contain—
 
 &emsp;(1) a detailed description of the HIV-related services provided in the State to individuals and families with HIV/AIDS during the year preceding the year for which the grant is requested, and the number of individuals and families receiving such services, that shall include—
 
@@ -102,7 +102,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis (except for a program administered by or providing the services of the Indian Health Service); and
 
-&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adultand juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care; and
+&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care; and
 
 &emsp;(8) a comprehensive plan—
 
@@ -162,7 +162,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (1) In general
 
-&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2) <sup>4</sup> of this section,make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
+&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2),<sup>4</sup> make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than 162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
 
@@ -194,7 +194,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (B) Period of time
 
-&emsp;&emsp;The period referred to in subparagraph (A) is the 2-year period preceding the fiscal year for which the State involved is applying to receive a grant under subsection (a) of this section.
+&emsp;&emsp;The period referred to in subparagraph (A) is the 2-year period preceding the fiscal year for which the State involved is applying to receive a grant under subsection (a).
 
 #### (C) Puerto Rico
 
@@ -210,7 +210,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 The Social Security Act, referred to in subsec. (b)(5)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Subsection (b)(2) of this section, referred to in subsec. (d)(1), was redesignated subsec. (b)(4) by Pub. L. 106–345, title II, §205(a)(1), Oct. 20, 2000, 114 Stat. 1332, and then subsec. (b)(5) by Pub. L. 109–415, title II, §204(c)(2), Dec. 19, 2006, 120 Stat. 2796.
+Subsection (b)(2), referred to in subsec. (d)(1), was redesignated subsec. (b)(4) by Pub. L. 106–345, title II, §205(a)(1), Oct. 20, 2000, 114 Stat. 1332, and then subsec. (b)(5) by Pub. L. 109–415, title II, §204(c)(2), Dec. 19, 2006, 120 Stat. 2796.
 
 #### Amendments
 

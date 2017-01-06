@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 98–21, §304(b)(1), (2), (4), substituted "surviving spou
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–233, §2(b)(1), substituted "the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00".
 
-Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted "the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00".
+Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted "the larger of $64.40 or the amount most recently establishedin lieu thereof under section 415(i) of this title" for "$58.00".
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–336, §201(g)(1)(A), substituted "$58.00" for "$48.30" and "$29.00" for "$24.20".
 

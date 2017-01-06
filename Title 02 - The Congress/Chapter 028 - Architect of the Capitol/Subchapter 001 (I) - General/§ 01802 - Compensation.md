@@ -6,7 +6,7 @@ The compensation of the Architect of the Capitol shall be at an annual rate whic
 
 #### Codification
 
-Section was classified to section 162a of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 162a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Prior Provisions
 
@@ -26,7 +26,7 @@ Pub. L. 107–68, title I, §129(e), Nov. 12, 2001, 115 Stat. 580, provided that
 
 #### Effective Date
 
-Pub. L. 96–146, §2, Dec. 14, 1979, 93 Stat. 1086, provided that: "The provisions of this Act \[enacting this section and section 166b of former Title 40, Public Buildings, Property, and Works\] shall take effect on the first day of the first applicable pay period commencing on or after the date of the enactment of this Act \[Dec. 14, 1979\]."
+Pub. L. 96–146, §2, Dec. 14, 1979, 93 Stat. 1086, provided that: "The provisions of this Act \[enacting this sectionand section 166b of former Title 40, Public Buildings, Property, and Works\] shall take effect on the first day of the first applicable pay period commencing on or after the date of the enactment of this Act \[Dec. 14, 1979\]."
 
 #### Salary Increases
 

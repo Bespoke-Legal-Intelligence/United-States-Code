@@ -12,7 +12,7 @@ The Secretary shall make available, directly or through agreements with States u
 
 &emsp;(3) Information on training available in local and regional areas, information on individual counseling to determine which training is suitable training, and information on how to apply for such training.
 
-&emsp;(4) Information on how to apply for financial aid, including referring workers to educational opportunity centers described in section 402F of the Higher Education Act of 1965 (20 U.S.C. 1070a–16), where applicable, and notifying workers that the workers may request financial aid administrators at institutions of higher education (as defined in section 102 of such Act (20 U.S.C. 1002)) to use the administrators' discretion under section 479A of such Act (20 U.S.C. 1087tt) to use current year income data, rather than preceding year income data, for determining the amount of need of the workers for Federal financial assistance under title IV of such Act (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\].
+&emsp;(4) Information on how to apply for financial aid, including referring workers to educational opportunity centers described in section 402F of the Higher Education Act of 1965 (20 U.S.C. 1070a–16), where applicable, and notifying workers that the workers may request financial aid administrators at institutions of higher education (as defined in section 102 of such Act (20 U.S.C. 1002)) to use the administrators' discretion under section 479A of such Act (20 U.S.C. 1087tt) to use current year income data, rather than preceding year income data, for determining the amount of need of the workers for Federal financial assistance under title IV of such Act (20 U.S.C. 1070 et seq.).
 
 &emsp;(5) Short-term prevocational services, including development of learning skills, communications skills, interviewing skills, punctuality, personal maintenance skills, and professional conduct to prepare individuals for employment or training.
 
@@ -38,7 +38,7 @@ The Secretary shall make available, directly or through agreements with States u
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -66,7 +66,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
@@ -74,7 +74,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, asif amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 

@@ -56,5 +56,5 @@ Section was formerly classified to section 7386j of Title 42, The Public Health 
 
 <b>2013</b>—Subsec. (d). Pub. L. 113–66 struck out "for Nuclear Security" after "Administrator".
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(v), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(v), made technical amendment to reference in original actwhich appears in text as reference to section 2742 of this title.
 

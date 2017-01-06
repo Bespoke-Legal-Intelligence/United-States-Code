@@ -22,10 +22,13 @@
 | [4112\.](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md) | Performance incentive awards for quality employment, training, and placement services. |
 | [4113\.](%C2%A7%2004113%20-%20Transition%20Assistance%20Program%20personnel.md) | Transition Assistance Program personnel. |
 | [4114\.](%C2%A7%2004114%20-%20Credentialing%20and%20licensure%20of%20veterans%20demonstration%20project.md) | Credentialing and licensure of veterans: demonstration project. |
+| [4115\.](%C2%A7%2004115%20-%20Longitudinal%20study%20of%20job%20counseling%2C%20training%2C%20and%20placement%20service%20for%20veterans.md) | Longitudinal study of job counseling, training, and placement service for veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2016</b>—Pub. L. 114–315, title V, §502(b), Dec. 16, 2016, 130 Stat. 1568, added item 4115.
 
 <b>2011</b>—Pub. L. 112–56, title II, §§223(a)(2), 234(c), Nov. 21, 2011, 125 Stat. 718, 722, added item 4104A and substituted "Transition Assistance Program personnel" for "Outstationing of Transition Assistance Program personnel" in item 4113.
 
@@ -86,3 +89,4 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted "Advisory Com
 - [&sect; 04112 - Performance incentive awards for quality employment, training, and placement services](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md)
 - [&sect; 04113 - Transition Assistance Program personnel](%C2%A7%2004113%20-%20Transition%20Assistance%20Program%20personnel.md)
 - [&sect; 04114 - Credentialing and licensure of veterans demonstration project](%C2%A7%2004114%20-%20Credentialing%20and%20licensure%20of%20veterans%20demonstration%20project.md)
+- [&sect; 04115 - Longitudinal study of job counseling, training, and placement service for veterans](%C2%A7%2004115%20-%20Longitudinal%20study%20of%20job%20counseling%2C%20training%2C%20and%20placement%20service%20for%20veterans.md)

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
+Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of directloans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
 
 &emsp;(2)
 

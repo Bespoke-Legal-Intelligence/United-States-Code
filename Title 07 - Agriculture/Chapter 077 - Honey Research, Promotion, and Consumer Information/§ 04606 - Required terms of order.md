@@ -22,7 +22,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 (2) The membership of the Honey Board shall consist of—
 
-&emsp;(A) 7 members who are honey producers appointed from nominations submitted by the National Honey Nominations Committee, onefrom each of seven regions of the United States which shall be established by the Secretary on the basis of the production of honey in the different areas of the country;
+&emsp;(A) 7 members who are honey producers appointed from nominations submitted by the National Honey Nominations Committee, one from each of seven regions of the United States which shall be established by the Secretary on the basis of the production of honey in the different areas of the country;
 
 &emsp;(B) 2 members who are handlers appointed from nominations submitted by the Committee from recommendations made by qualified national organizations representing handler interests;
 
@@ -112,7 +112,7 @@ Timing of review.—
 
 &emsp;&emsp;(i)
 
-In general.—The Honey Board shall conduct the reviews required under thisparagraph not more than once during each 5-year period.
+In general.—The Honey Board shall conduct the reviews required under this paragraph not more than once during each 5-year period.
 
 &emsp;&emsp;(ii)
 
@@ -296,7 +296,7 @@ Small quantities.—
 
 &emsp;(i)
 
-In general.—A producer, producer-packer, handler, or importer that produces, imports, or handles during a year less than 6,000pounds of honey or honey products shall be exempt in that year from payment of an assessment on honey or honey products that the person distributes directly through local retail outlets, as determined by the Secretary, during that year.
+In general.—A producer, producer-packer, handler, or importer that produces, imports, or handles during a year less than 6,000 pounds of honey or honey products shall be exempt in that year from payment of an assessment on honey or honey products that the person distributes directly through local retail outlets, as determined by the Secretary, during that year.
 
 &emsp;(ii)
 
@@ -362,7 +362,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (c)(12). Pub. L. 110–246, §10401, added par. (12).
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted "except that the term of appointments to theCommittee may be staggered periodically, as determined by the Secretary" for "except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms".
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted "except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary" for "except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms".
 
 Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out "after the first annual meeting" after "except that" in second sentence and substituted "percent" for "per centum" in third sentence.
 
@@ -398,7 +398,7 @@ Subsec. (e)(4). Pub. L. 105–185, §605(f)(3)(A), redesignated par. (2) as (4).
 
 Subsec. (e)(4)(B). Pub. L. 105–185, §605(f)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows:
 
-"(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
+"(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption insuch year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
 
 "(ii) In order to claim an exemption under this subparagraph, a person shall submit an application to the Honey Board stating the basis on which the person claims the exemption for such year.
 
@@ -426,7 +426,7 @@ Subsec. (k). Pub. L. 101–624, §1983(2), added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

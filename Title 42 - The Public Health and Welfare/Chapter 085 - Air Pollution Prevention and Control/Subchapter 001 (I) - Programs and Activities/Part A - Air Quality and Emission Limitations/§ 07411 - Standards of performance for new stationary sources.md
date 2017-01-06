@@ -32,7 +32,7 @@ For purposes of this section:
 
 (2) The Administrator may distinguish among classes, types, and sizes within categories of new sources for the purpose of establishing such standards.
 
-(3) The Administrator shall, from time to time, issue information on pollution control techniques for categories of new sources and air pollutants subject to the provisions of this section.
+(3) The Administrator shall, from time to time, issue information on pollution controltechniques for categories of new sources and air pollutants subject to the provisions of this section.
 
 (4) The provisions of this section shall apply to any new source owned or operated by the United States.
 
@@ -86,7 +86,7 @@ After the effective date of standards of performance promulgated under this sect
 
 (1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
-(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
+(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health orwelfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
 (3) Upon application of the Governor of a State showing that the Administrator has failed to apply properly the criteria required to be considered under subsection (f)(2) of this section, the Administrator shall revise the list under subsection (b)(1)(A) of this section to apply properly such criteria.
 
@@ -130,7 +130,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(ii) the proposed system or systems will operate effectively and there is a substantial likelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
 
-&emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction of the Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
+&emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction ofthe Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
 
 &emsp;(iv) the granting of such waiver is consistent with the requirements of subparagraph (C).
 
@@ -254,7 +254,7 @@ Pub. L. 101–549, title IV, §403(b), (c), Nov. 15, 1990, 104 Stat. 2631, provi
 
 "(b)
 
-Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
+Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administratorshall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
 
 "(c)
 
@@ -300,7 +300,7 @@ Section 1. <i>Flexible Carbon Pollution Standards for Power Plants</i>. (a) Carb
 
 (c) <i>Development of Standards, Regulations, or Guidelines for Power Plants</i>. In developing standards, regulations, or guidelines pursuant to subsection (b) of this section, and consistent with Executive Orders 12866 of September 30, 1993, as amended, and 13563 of January 18, 2011, you shall ensure, to the greatest extent possible, that you:
 
-(i) launch this effort through direct engagement with States, as they will play a central role in establishing and implementing standards for existing power plants, and, at the same time, with leaders in the power sector, labor leaders, non-governmental organizations, other experts, tribal officials, other stakeholders, and members of the public, on issues informing the design of the program;
+(i) launch this effort through direct engagement with States, as they will play a central role in establishingand implementing standards for existing power plants, and, at the same time, with leaders in the power sector, labor leaders, non-governmental organizations, other experts, tribal officials, other stakeholders, and members of the public, on issues informing the design of the program;
 
 (ii) consistent with achieving regulatory objectives and taking into account other relevant environmental regulations and policies that affect the power sector, tailor regulations and guidelines to reduce costs;
 

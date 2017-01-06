@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall establish within the Office of the Assistant Secretary of Defense for Research and Engineering an office known as the "Office for Foreign Defense Critical Technology Monitoring and Assessment" (hereinafter in this section referred to as the "Office").
+In General.—The Secretary of Defense shall establish within the Office of the AssistantSecretary of Defense for Research and Engineering an office known as the "Office for Foreign Defense Critical Technology Monitoring and Assessment" (hereinafter in this section referred to as the "Office").
 
 (b)
 

@@ -12,7 +12,7 @@ As used in this chapter:
 
 &emsp;(3) The term "State" means any State of the United States or the District of Columbia.
 
-(Pub. L. 103–55, §5, July 28, 1993, 107 Stat. 277; Pub. L. 104–88, title III, §336, Dec. 29, 1995, 109 Stat. 954; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(L), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 103–55, §5, July 28, 1993, 107 Stat. 277; Pub. L. 104–88, title III, §336, Dec. 29, 1995, 109 Stat. 954; Pub. L. 110–234, title IV, §4002(b)(1)(E),\(2)(L), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### Codification
 

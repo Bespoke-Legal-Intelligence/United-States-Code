@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
-&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
+&emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse orchild was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1); or
 
 &emsp;&emsp;(D) the alien meets the requirements under section 1154(a)(1)(A)(iii)(II)(aa)(BB) of this title and following the marriage ceremony was battered by or subject to extreme cruelty perpetrated by the alien's intended spouse and was not at fault in failing to meet the requirements of paragraph (1).
 
@@ -162,7 +162,7 @@ In the case of an alien who has permanent residence status on a conditional basi
 
 #### (1) Filing petition
 
-&emsp;The 90-day period described in subsection (d)(2)(A) shall be tolled during any period of time in which the alien spouse or petitioning spouse is a member of the Armed Forces of the United States and serving abroad in an active-duty status in the Armed Forces, except that,at the option of the petitioners, the petition may be filed during such active-duty service at any time after the commencement of such 90-day period.
+&emsp;The 90-day period described in subsection (d)(2)(A) shall be tolled during any period of time in which the alien spouse or petitioning spouse is a member of the Armed Forces of the United States and serving abroad in an active-duty status in the Armed Forces, except that, at the option of the petitioners, the petition may be filed during such active-duty service at any time after the commencement of such 90-day period.
 
 #### (2) Personal interview
 
@@ -240,7 +240,7 @@ Subsec. (f). Pub. L. 104–208, §308(d)(4)(E), substituted "inadmissibility" fo
 
 <b>1991</b>—Subsec. (g)(1). Pub. L. 102–232 substituted "section 1153(d)" for "section 1153(a)(8)" in closing provisions.
 
-<b>1990</b>—Subsec. (c)(4). Pub. L. 101–649 struck out "or" at end of subpar. (A), struck out "by the alien spouse for good cause" after "death of the spouse)" and substituted ", or" for period at end of subpar. (B), added subpar. (C), and inserted at end "The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child."
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–649 struck out "or" at end of subpar. (A), struck out "by the alien spouse for good cause" after "death of the spouse)" and substituted ", or" for period at end of subpar. (B), addedsubpar. (C), and inserted at end "The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child."
 
 <b>1988</b>—Pub. L. 100–525, §7(a)(1), made technical amendment to directory language of Pub. L. 99–639, §2(a), which enacted this section.
 

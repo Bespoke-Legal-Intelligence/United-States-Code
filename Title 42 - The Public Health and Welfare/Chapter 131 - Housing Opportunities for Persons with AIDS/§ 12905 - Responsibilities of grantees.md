@@ -2,7 +2,7 @@
 
 #### (a) Prohibition of substitution of funds
 
-Amounts received from grants under this chapter may not be used to replace other amounts made available or designated by State or local governments for use for the purposes under this chapter.
+Amounts received from grants under this chapter may not be used to replace otheramounts made available or designated by State or local governments for use for the purposes under this chapter.
 
 #### (b) Capability
 

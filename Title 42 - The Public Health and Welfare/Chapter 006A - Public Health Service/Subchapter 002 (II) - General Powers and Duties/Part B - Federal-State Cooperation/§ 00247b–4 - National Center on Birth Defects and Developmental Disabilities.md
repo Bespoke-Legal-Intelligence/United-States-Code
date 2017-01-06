@@ -10,7 +10,7 @@
 
 &emsp;The Secretary shall carry out programs—
 
-&emsp;&emsp;(A) to collect, analyze, and make available data on birth defects, developmental disabilities, and disabilities and health (in a manner that facilitates compliance with subsection (c)(2) of this section), including data on the causes of such defects and disabilities and on the incidence and prevalence of such defects and disabilities;
+&emsp;&emsp;(A) to collect, analyze, and make available data on birth defects, developmental disabilities, and disabilities and health (in a manner that facilitates compliance with subsection (c)(2)), including data on the causes of such defects and disabilities and on the incidence and prevalence of such defects and disabilities;
 
 &emsp;&emsp;(B) to operate regional centers for the conduct of applied epidemiological research on the prevention of such defects and disabilities;
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a) of this section, the Secretary may make grants to and enter into contracts with public and nonprofit private entities.
+&emsp;In carrying out subsection (a), the Secretary may make grants to and enter into contracts with public and nonprofit private entities.
 
 #### (2) Supplies and services in lieu of award funds
 
@@ -66,7 +66,7 @@ Not later than February 1 of fiscal year 1999 and of every second such year ther
 
 &emsp;(2) contains information under paragraph (1) that is specific to various racial and ethnic groups (including Hispanics, non-Hispanic whites, Blacks, Native Americans, and Asian Americans);
 
-&emsp;(3) contains an assessment of the extent to which various approaches of preventing birth defects, developmental disabilities, and secondary health conditions among individuals with disabilities have been effective;
+&emsp;(3) contains an assessment of the extent to which various approaches of preventing birthdefects, developmental disabilities, and secondary health conditions among individuals with disabilities have been effective;
 
 &emsp;(4) describes the activities carried out under this section;
 

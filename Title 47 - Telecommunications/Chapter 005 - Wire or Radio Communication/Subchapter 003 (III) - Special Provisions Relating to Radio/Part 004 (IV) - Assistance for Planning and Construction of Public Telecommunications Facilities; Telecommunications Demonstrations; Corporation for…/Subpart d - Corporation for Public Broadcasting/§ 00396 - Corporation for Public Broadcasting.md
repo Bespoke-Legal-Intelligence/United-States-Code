@@ -18,7 +18,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(7) it is necessary and appropriate for the Federal Government to complement, assist, and support a national policy that will most effectively make public telecommunications services available to all citizens of the United States;
 
-&emsp;(8) public television and radio stations and public telecommunications services constitute valuable local community resources for utilizing electronic media to address national concerns and solve local problems through community programs and outreach programs;
+&emsp;(8) public television and radio stations and public telecommunications services constitutevaluable local community resources for utilizing electronic media to address national concerns and solve local problems through community programs and outreach programs;
 
 &emsp;(9) it is in the public interest for the Federal Government to ensure that all citizens of the United States have access to public telecommunications services through all appropriate available telecommunications distribution technologies; and
 
@@ -66,7 +66,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 #### (g) Purposes and activities of Corporation; powers under District of Columbia Nonprofit Corporation Act
 
-(1) In order to achieve the objectives and to carry out the purposes of this subpart, as set out in subsection (a) of this section, the Corporation is authorized to—
+(1) In order to achieve the objectives and to carry out the purposes of this subpart, as set out in subsection (a), the Corporation is authorized to—
 
 &emsp;(A) facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature;
 
@@ -76,7 +76,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 &emsp;(D) carry out its purposes and functions and engage in its activities in ways that will most effectively assure the maximum freedom of the public telecommunications entities and systems from interference with, or control of, program content or other activities.
 
-(2) In order to carry out the purposes set forth in subsection (a) of this section, the Corporation is authorized to—
+(2) In order to carry out the purposes set forth in subsection (a), the Corporation is authorized to—
 
 &emsp;(A) obtain grants from and make contracts with individuals and with private, State, and Federal agencies, organizations, and institutions;
 
@@ -98,7 +98,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 &emsp;(H) make grants or contracts for the use of nonbroadcast telecommunications technologies for the dissemination to the public of public telecommunications services; and
 
-&emsp;(I) take such other actions as may be necessary to accomplish the purposes set forth in subsection (a) of this section.
+&emsp;(I) take such other actions as may be necessary to accomplish the purposes set forth in subsection (a).
 
 > Nothing contained in this paragraph shall be construed to commit the Federal Government to provide any sums for the payment of any obligation of the Corporation which exceeds amounts provided in advance in appropriation Acts.
 
@@ -108,13 +108,13 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 &emsp;(B) producing programs, scheduling programs for dissemination, or disseminating programs to the public.
 
-(4) All meetings of the Board of Directors of the Corporation, including any committee of the Board, shall be open to the public under such terms, conditions, and exceptions as are set forth in subsection (k)(4) of this section.
+(4) All meetings of the Board of Directors of the Corporation, including any committee of theBoard, shall be open to the public under such terms, conditions, and exceptions as are set forth in subsection (k)(4).
 
 (5) The Corporation, in consultation with interested parties, shall create a 5-year plan for the development of public telecommunications services. Such plan shall be updated annually by the Corporation.
 
 #### (h) Free or reduced rate interconnection service; access to facilities
 
-(1) Nothing in this chapter, or in any other provision of law, shall be construed to preventUnited States communications common carriers from rendering free or reduced rate communications interconnection services for public television or radio services, subject to such rules and regulations as the Commission may prescribe.
+(1) Nothing in this chapter, or in any other provision of law, shall be construed to prevent United States communications common carriers from rendering free or reduced rate communications interconnection services for public television or radio services, subject to such rules and regulations as the Commission may prescribe.
 
 (2) Subject to such terms and conditions as may be established by public telecommunications entities receiving space satellite interconnection facilities or services purchased or arranged for, in whole or in part, with funds authorized under this part, other public telecommunications entities shall have reasonable access to such facilities or services for the distribution of educational and cultural programs to public telecommunications entities. Any remaining capacity shall be made available to other persons for the transmission of noncommercial educational and cultural programs and program information relating to such programs, to public telecommunications entities, at a charge or charges comparable to the charge or charges, if any, imposed upon a public telecommunications entity for the distribution of noncommercial educational and cultural programs to public telecommunications entities. No such person shall be denied such access whenever sufficient capacity is available.
 
@@ -130,7 +130,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 &emsp;(D) the summary of the annual report provided to the Secretary pursuant to section 398(b)(4) of this title.
 
-(2) The officers and directors of the Corporation shall be available to testify before appropriate committees of the Congress with respect to such report, the report of any audit made by the Comptroller General pursuant to subsection (l) of this section, or any other matter which such committees may determine.
+(2) The officers and directors of the Corporation shall be available to testify before appropriate committees of the Congress with respect to such report, the report of any audit made by the Comptroller General pursuant to subsection (l), or any other matter which such committees may determine.
 
 #### (j) Repeal, alteration, or amendment
 
@@ -150,7 +150,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (F) In recognition of the importance of educational programs and services, and the expansion of public radio services, to unserved and underserved audiences, the Corporation, after consultation with the system of public telecommunications entities, shall prepare and submit to the Congress an annual report for each of the fiscal years 1994, 1995, and 1996 on the Corporation's activities and expenditures relating to those programs and services.
 
-(2)(A) The funds authorized to be appropriated by this subsection shall be used by the Corporation, in a prudent and financially responsible manner, solely for its grants, contracts, and administrative costs, except that the Corporation may not use any funds appropriated under this subpart for purposes of conducting any reception, or providing any other entertainment, for any officer or employee of the Federal Government or any State or local government. The Corporation shall determine the amount of non-Federal financial support received by public broadcasting entities during each of the fiscal years referred to in paragraph (1) for the purpose of determining the amount of each authorization, and shall certify such amount to the Secretary of the Treasury, except that the Corporation may include in its certification non-Federal financial support received by a public broadcasting entity during its most recent fiscal year ending before September 30 of the year for which certification is made. Upon receipt of such certification, the Secretary of the Treasury shall make available to the Corporation, from suchfunds as may be appropriated to the Fund, the amount authorized for each of the fiscal years pursuant to the provisions of this subsection.
+(2)(A) The funds authorized to be appropriated by this subsection shall be used by the Corporation, in a prudent and financially responsible manner, solely for its grants, contracts, and administrative costs, except that the Corporation may not use any funds appropriated under this subpart for purposes of conducting any reception, or providing any other entertainment, for any officer or employee of the Federal Government or any State or local government. The Corporation shall determine the amount of non-Federal financial support received by publicbroadcasting entities during each of the fiscal years referred to in paragraph (1) for the purpose of determining the amount of each authorization, and shall certify such amount to the Secretary of the Treasury, except that the Corporation may include in its certification non-Federal financial support received by a public broadcasting entity during its most recent fiscal year ending before September 30 of the year for which certification is made. Upon receipt of such certification, the Secretary of the Treasury shall make available to the Corporation, from such funds as may be appropriated to the Fund, the amount authorized for each of the fiscal years pursuant to the provisions of this subsection.
 
 (B) Funds appropriated and made available under this subsection shall be disbursed by the Secretary of the Treasury on a fiscal year basis.
 
@@ -190,11 +190,11 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (B)(i) The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II) to make grants for production of public television or radio programs by independent producers and production entities and public telecommunications entities, producers of national children's educational programming, and producers of programs addressing the needs and interests of minorities, and for acquisition of such programs by public telecommunications entities. The Corporation may make grants to public telecommunications entities and producers for the production of programs in languages other than English. Of the funds utilized pursuant to this clause, a substantial amount shall be distributed to independent producers and production entities, producers of national children's educational programming, and producers of programming addressing the needs and interests of minorities for the production of programs.
 
-(ii) All funds available for distribution under clause (i) shall be distributed to entities outside the Corporation and shall not be used for the general administrative costs of the Corporation, the salaries or related expenses of Corporation personnel and members of the Board, or for expenses of consultants and advisers to the Corporation.
+(ii) All funds available for distribution under clause (i) shall be distributed to entities outside the Corporation and shall not be used for the general administrative costs of the Corporation,the salaries or related expenses of Corporation personnel and members of the Board, or for expenses of consultants and advisers to the Corporation.
 
 (iii)(I) For fiscal year 1990 and succeeding fiscal years, the Corporation shall, in carrying out its obligations under clause (i) with respect to public television programming, provide adequate funds for an independent production service.
 
-(II) Such independent production service shall be separate from the Corporation and shall beincorporated under the laws of the District of Columbia for the purpose of contracting with the Corporation for the expenditure of funds for the production of public television programs by independent producers and independent production entities.
+(II) Such independent production service shall be separate from the Corporation and shall be incorporated under the laws of the District of Columbia for the purpose of contracting with the Corporation for the expenditure of funds for the production of public television programs by independent producers and independent production entities.
 
 (III) The Corporation shall work with organizations or associations of independent producers or independent production entities to develop a plan and budget for the operation of such service that is acceptable to the Corporation.
 
@@ -202,11 +202,11 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (V) The Corporation shall report annually to Congress regarding the activities and expenditures of the independent production service, including carriage and viewing information for programs produced or acquired with funds provided pursuant to subclause (I). At the end of fiscal years 1992, 1993, 1994, and 1995, the Corporation shall submit a report to Congress evaluating the performance of the independent production service in light of its mission to expand the diversity and innovativeness of programming available to public broadcasting.
 
-(VI) The Corporation shall not contract to provide funds to any such independent production service, unless that service agrees to comply with public inspection requirements established by the Corporation within 3 months after August 26, 1992. Under such requirements the service shall maintain at its offices a public file, updated regularly, containing information relating to the service's award of funds for the production of programming. The information shall be available for public inspection and copying for at least 3 years and shall be of the same kind as the information required to be maintained by the Corporation under subsection (l)(4)(B) of this section.
+(VI) The Corporation shall not contract to provide funds to any such independent production service, unless that service agrees to comply with public inspection requirements established by the Corporation within 3 months after August 26, 1992. Under such requirements the service shall maintain at its offices a public file, updated regularly, containing information relating to the service's award of funds for the production of programming. The information shall be available for public inspection and copying for at least 3 years and shall be of the same kind as the information required to be maintained by the Corporation under subsection (l)(4)(B).
 
 (4) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization), or to the licensee or permittee of any public broadcast station, unless the governing body of any such organization, any committee of such governing body, or any advisory body of any such organization, holds open meetings preceded by reasonable notice to the public. All persons shall be permitted to attend any meeting of the board, or of any such committee or body, and no person shall be required, as a condition to attendance at any such meeting, to register such person's name or to provide any other information. Nothing contained in this paragraph shall be construed to prevent any such board, committee, or body from holding closed sessions to consider matters relating to individual employees, proprietary information, litigation and other matters requiring the confidential advice of counsel, commercial or financial information obtained from a person on a privileged or confidential basis, or the purchase of property or services whenever the premature exposure of such purchase would compromise the business interests of any such organization. If any such meeting is closed pursuant to the provisions of this paragraph, the organization involved shall thereafter (within a reasonable period of time) make available to the public a written statement containing an explanation of the reasons for closing the meeting.
 
-(5) Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (1)(3)(B) <sup>2</sup> of this section.
+(5) Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (1)(3)(B).<sup>2</sup>
 
 (6)(A) The Corporation shall conduct a study and prepare a plan, in consultation with public television licensees (or designated representatives of those licensees) and the Public Broadcasting Service, on how funds available to the Corporation under paragraph (3)(A)(ii)(II) can be best allocated to meet the objectives of this chapter with regard to national public television programming. The plan, which shall be based on the conclusions resulting from the study, shall be submitted by the Corporation to the Congress not later than January 31, 1990. Unless directed otherwise by an Act of Congress, the Corporation shall implement the plan during the first fiscal year beginning after the fiscal year in which the plan is submitted to Congress.
 
@@ -218,9 +218,9 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(iii) assure that each eligible licensee and permittee of a public radio station receives a basic grant.
 
-(7) The funds distributed pursuant to paragraph (3)(A)(ii)(I) and (iii)(I) may be used at the discretion of the recipient for purposes related primarily to the production or acquisition of programming.
+(7) The funds distributed pursuant to paragraph (3)(A)(ii)(I) and (iii)(I) may be used at thediscretion of the recipient for purposes related primarily to the production or acquisition of programming.
 
-(8)(A) Funds may not be distributed pursuant to this subpart to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisoryboard. Any such station shall undertake good faith efforts to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are <sup>3</sup> reasonably representative of the diverse needs and interests of the communities served by such station.
+(8)(A) Funds may not be distributed pursuant to this subpart to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board. Any such station shall undertake good faith efforts to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are <sup>3</sup> reasonably representative of the diverse needs and interests of the communities served by such station.
 
 (B) The board shall be permitted to review the programming goals established by the station, the service provided by the station, and the significant policy decisions rendered by the station. The board may also be delegated any other responsibilities, as determined by the governing body of the station. The board shall advise the governing body of the station with respect to whether the programming and other policies of such station are meeting the specialized educational and cultural needs of the communities served by the station, and may make such recommendations as it considers appropriate to meet such needs.
 
@@ -268,7 +268,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(viii) Service workers.
 
-(C) In addition, such report shall state the number of job openings occurring during thecourse of the year. Where the job openings were filled in accordance with the regulations described in subparagraph (A)(i), the report shall so certify, and where the job openings were not filled in accordance with such regulations, the report shall contain a statement providing reasons therefor. The statistical report shall be available to the public at the central office and at every location where more than five full-time employees are regularly assigned to work.
+(C) In addition, such report shall state the number of job openings occurring during the course of the year. Where the job openings were filled in accordance with the regulations described in subparagraph (A)(i), the report shall so certify, and where the job openings were not filled in accordance with such regulations, the report shall contain a statement providing reasons therefor. The statistical report shall be available to the public at the central office and at every location where more than five full-time employees are regularly assigned to work.
 
 (12) Funds may not be distributed under this subsection to any public broadcasting entity that directly or indirectly—
 
@@ -300,7 +300,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(ii)(I) to undergo a biennial audit by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State, which audit shall be in accordance with auditing standards developed by the Corporation, in consultation with the Comptroller General; or
 
-&emsp;(II) to submit a financial statement in lieu of the audit required by subclause (I) if the Corporation determines that the cost burden of such audit on such entity is excessive inlight of the financial condition of such entity; and
+&emsp;(II) to submit a financial statement in lieu of the audit required by subclause (I) if the Corporation determines that the cost burden of such audit on such entity is excessive in light of the financial condition of such entity; and
 
 &emsp;(iii) to furnish biennially to the Corporation a copy of the audit report required pursuant to clause (ii), as well as such other information regarding finances (including an annual financial report) as the Corporation may require.
 
@@ -310,7 +310,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (4)(A) The Corporation shall maintain the information described in subparagraphs (B), (C), and (D) at its offices for public inspection and copying for at least 3 years, according to such reasonable guidelines as the Corporation may issue. This public file shall be updated regularly. This paragraph shall be effective August 26, 1992, and shall apply to all grants awarded after January 1, 1993.
 
-(B) Subsequent to any award of funds by the Corporation for the production or acquisition of national broadcasting programming pursuant to subsection (k)(3)(A)(ii)(II) or (iii)(II) of this section, the Corporation shall make available for public inspection the following:
+(B) Subsequent to any award of funds by the Corporation for the production or acquisition of national broadcasting programming pursuant to subsection (k)(3)(A)(ii)(II) or (iii)(II), the Corporation shall make available for public inspection the following:
 
 &emsp;(i) Grant and solicitation guidelines for proposals for such programming.
 
@@ -322,19 +322,19 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(v) Reports which the Corporation shall require to be provided by the awardee relating to national public broadcasting programming funded, produced, or acquired by the awardee with such funds. Such reports shall include, where applicable, the information described in clauses (i), (ii), and (iii), but shall exclude proprietary, confidential, or privileged information.
 
-(C) The Corporation shall make available for public inspection the final report required by the Corporation on an annual basis from each recipient of funds under subsection (k)(3)(A)(iii)(III) of this section, excluding proprietary, confidential, or privileged information.
+(C) The Corporation shall make available for public inspection the final report required by the Corporation on an annual basis from each recipient of funds under subsection (k)(3)(A)(iii)(III), excluding proprietary, confidential, or privileged information.
 
-(D) The Corporation shall make available for public inspection an annual list of national programs distributed by public broadcasting entities that receive funds under subsection (k)(3)(A)(ii)(III) or (iii)(II) of this section and are engaged primarily in the national distribution of public television or radio programs. Such list shall include the names of the programs (or program series), producers, and providers of funding.
+(D) The Corporation shall make available for public inspection an annual list of national programs distributed by public broadcasting entities that receive funds under subsection (k)(3)(A)(ii)(III) or (iii)(II) and are engaged primarily in the national distribution of public television or radio programs. Such list shall include the names of the programs (or program series), producers, and providers of funding.
 
 #### (m) Needs of minorities and other groups
 
 (1) Prior to July 1, 1989, and every three years thereafter, the Corporation shall compile an assessment of the needs of minority and diverse audiences, the plans of public broadcasting entities and public telecommunications entities to address such needs, the ways radio and television can be used to help these underrepresented groups, and projections concerning minority employment by public broadcasting entities and public telecommunications entities. Such assessment shall address the needs of racial and ethnic minorities, new immigrant populations, people for whom English is a second language, and adults who lack basic reading skills.
 
-(2) Commencing July 1, 1989, the Corporation shall prepare an annual report on the provision by public broadcasting entities and public telecommunications entities of service to the audiences described in paragraph (1). Such report shall address programming (including that which is produced by minority producers), training, minority employment, and efforts by the Corporation to increase the number of minority public radio and television stations eligible for financial support from the Corporation. Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11) of this section, and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year's annual report.
+(2) Commencing July 1, 1989, the Corporation shall prepare an annual report on the provision by public broadcasting entities and public telecommunications entities of service to the audiences described in paragraph (1). Such report shall address programming (including that which is produced by minority producers), training, minority employment, and efforts by the Corporation to increase the number of minority public radio and television stations eligible for financial support from the Corporation. Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11), and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year's annual report.
 
 (3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.
 
-(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983,97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953; Pub. L. 105–277, div. A, §101(f) \[title VII, §701\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–592; Pub. L. 107–20, title II, §2702, July 24, 2001, 115 Stat. 182; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643;Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953; Pub. L. 105–277, div. A, §101(f) \[title VII, §701\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–592; Pub. L. 107–20, title II, §2702, July 24, 2001, 115 Stat. 182; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -596,7 +596,7 @@ Pub. L. 102–356, §19, Aug. 26, 1992, 106 Stat. 955, provided that: "Pursuant 
 
 &emsp;&emsp;"(D) disseminate among public broadcasting entities information about its efforts to address concerns about objectivity and balance relating to programming of a controversial nature so that such entities can utilize the Corporation's experience in addressing such concerns within their own operations; and
 
-&emsp;"(3) starting in 1993, by January 31 of each year, prepare and submit to the President for transmittalto the Congress a report summarizing its efforts pursuant to paragraphs (1) and (2)."
+&emsp;"(3) starting in 1993, by January 31 of each year, prepare and submit to the President for transmittal to the Congress a report summarizing its efforts pursuant to paragraphs (1) and (2)."
 
 #### Consumer Information; Disclosure of Funding
 
@@ -630,7 +630,7 @@ Pub. L. 95–567, title III, §307(b), Nov. 2, 1978, 92 Stat. 2419, provided tha
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "(l)(3)(B)".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(l)(3)(B)."</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be "is".</i>
 

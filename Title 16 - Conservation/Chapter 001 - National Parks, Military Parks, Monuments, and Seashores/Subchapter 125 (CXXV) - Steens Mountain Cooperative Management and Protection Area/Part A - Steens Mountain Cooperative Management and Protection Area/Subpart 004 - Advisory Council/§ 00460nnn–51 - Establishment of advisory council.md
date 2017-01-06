@@ -52,7 +52,7 @@ The advisory council shall elect a chairperson and establish such rules and proc
 
 #### (e) Service without compensation
 
-Members of the advisory council shall serve without pay, but the Secretary shall reimburse members for reasonable expenses incurred in carrying out official duties as a member of the council.
+Members of the advisory council shall serve without pay, but the Secretary shall reimbursemembers for reasonable expenses incurred in carrying out official duties as a member of the council.
 
 #### (f) Administrative support
 

@@ -2,7 +2,7 @@
 
 (a) No person shall—
 
-&emsp;(1) make use of any means of transportation or communication affecting interstate or foreign commerce or the mails to manufacture for sale, lease, sell, offer for sale or lease, or introduce or deliver, or import into the UnitedStates, any manufactured home which is manufactured on or after the effective date of any applicable Federal manufactured home construction and safety standard under this chapter and which does not comply with such standard, except as provided in subsection (b) of this section, where such manufacture, lease, sale, offer for sale or lease, introduction, delivery, or importation affects commerce;
+&emsp;(1) make use of any means of transportation or communication affecting interstate or foreign commerce or the mails to manufacture for sale, lease, sell, offer for sale or lease, or introduce or deliver, or import into the United States, any manufactured home which is manufactured on or after the effective date of any applicable Federal manufactured home construction and safety standard under this chapter and which does not comply with such standard, except as provided in subsection (b) of this section, where such manufacture, lease, sale, offer for sale or lease, introduction, delivery, or importation affects commerce;
 
 &emsp;(2) fail or refuse to permit access to or copying of records, or fail to make reports or provide information, or fail or refuse to permit entry or inspection, as required under section 5413 of this title;
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) after the expiration of the period specified in section 5404(c)(2)(B) of this title, fail to comply with the requirements for the installation program required by section 5404 of this title in any State that has not adopted and implemented a State installation program.
 
-(b)(1) Paragraph (1) of subsection (a) of this section shall not apply to the sale, the offer for sale, or the introduction or delivery for introduction in interstate commerce of any manufactured home after the first purchase of it in good faith for purposes other than resale.
+(b)(1) Paragraph (1) of subsection (a) of this section shall not apply to the sale, the offer forsale, or the introduction or delivery for introduction in interstate commerce of any manufactured home after the first purchase of it in good faith for purposes other than resale.
 
 (2) For purposes of section 5410 of this title, paragraph (1) of subsection (a) of this section shall not apply to any person who establishes that he did not have reason to know in the exercise of due care that such manufactured home is not in conformity with applicable Federal manufactured home construction and safety standards, or to any person who, prior to such first purchase, holds a certificate issued by the manufacturer or importer of such manufactured home to the effect that such manufactured home conforms to all applicable Federal manufactured home construction and safety standards, unless such person knows that such manufactured home does not so conform.
 

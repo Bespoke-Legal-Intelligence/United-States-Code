@@ -8,7 +8,7 @@
 
 > shall be punished as provided for that offense.
 
-(b) No prosecution may be commenced against a person under this section if a foreign government, in accordance with jurisdiction recognized by the United States, has prosecuted or is prosecuting such person for the conduct constituting such offense, except upon the approval of the Attorney General or the Deputy Attorney General\(or a person acting in either such capacity), which function of approval may not be delegated.
+(b) No prosecution may be commenced against a person under this section if a foreign government, in accordance with jurisdiction recognized by the United States, has prosecuted or is prosecuting such person for the conduct constituting such offense, except upon the approval of the Attorney General or the Deputy Attorney General (or a person acting in either such capacity), which function of approval may not be delegated.
 
 (c) Nothing in this chapter may be construed to deprive a court-martial, military commission, provost court, or other military tribunal of concurrent jurisdiction with respect to offenders or offenses that by statute or by the law of war may be tried by a court-martial, military commission, provost court, or other military tribunal.
 

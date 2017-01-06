@@ -146,7 +146,7 @@ An acquisition authorized under subsection (a)—
 
 #### (3) Change in effective date
 
-&emsp;The Attorney General and the Director of National Intelligence may advance or delay the effective date referred to in paragraph (2)(D) by submitting an amended certification in accordance with subsection (i)(1)(C) to the Foreign Intelligence Surveillance Court for review pursuant to subsection (i).
+&emsp;The Attorney General and the Director of National Intelligence may advance or delaythe effective date referred to in paragraph (2)(D) by submitting an amended certification in accordance with subsection (i)(1)(C) to the Foreign Intelligence Surveillance Court for review pursuant to subsection (i).
 
 #### (4) Limitation
 
@@ -216,7 +216,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Assignment
 
-&emsp;&emsp;The presiding judge of the Court shall assign a petition filed under subparagraph (A) to 1 of the judges serving in the pool established under section 1803(e)(1) of this title not later than 24 hours after the filing of such petition.
+&emsp;&emsp;The presiding judge of the Court shall assign a petition filed under subparagraph (A)to 1 of the judges serving in the pool established under section 1803(e)(1) of this title not later than 24 hours after the filing of such petition.
 
 #### (C) Procedures for review
 
@@ -280,7 +280,7 @@ An acquisition authorized under subsection (a)—
 
 #### (A) Approval
 
-&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (g) contains all the required elements and that the targeting and minimization procedures adopted in accordance with subsections (d) and (e) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Court shall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
+&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (g) contains all the required elements and that the targeting and minimization procedures adopted in accordance with subsections (d) and (e) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of theUnited States, the Court shall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
 
 #### (B) Correction of deficiencies
 
@@ -334,7 +334,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Reauthorization of orders, authorizations, and directives
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certificationunder paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
 #### (j) Judicial proceedings
 
@@ -408,7 +408,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;&emsp;&emsp;(iii) the number of targets that were later determined to be located in the United States and, to the extent possible, whether communications of such targets were reviewed; and
 
-&emsp;&emsp;&emsp;(iv) a description of any procedures developed by the head of such element of the intelligence community and approved by the Director of National Intelligence to assess, in a manner consistent with national security, operational requirements and the privacy interests of United States persons, the extent to which the acquisitions authorized under subsection (a) acquire the communications of United States persons, and the results of any such assessment.
+&emsp;&emsp;&emsp;(iv) a description of any procedures developed by the head of such element of the intelligence community and approved bythe Director of National Intelligence to assess, in a manner consistent with national security, operational requirements and the privacy interests of United States persons, the extent to which the acquisitions authorized under subsection (a) acquire the communications of United States persons, and the results of any such assessment.
 
 #### (B) Use of review
 

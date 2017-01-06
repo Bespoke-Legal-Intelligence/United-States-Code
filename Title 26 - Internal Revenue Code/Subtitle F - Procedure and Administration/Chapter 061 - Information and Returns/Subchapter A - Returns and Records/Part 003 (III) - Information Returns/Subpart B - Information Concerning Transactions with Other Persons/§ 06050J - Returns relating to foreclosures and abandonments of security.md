@@ -60,7 +60,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 To the extent provided by regulations prescribed by the Secretary, any transfer of the property which secures the indebtedness to a person other than the lender shall be treated as an abandonment of such property.
 
-(Added Pub. L. 98–369, div. A, title I, §148(a), July 18, 1984, 98 Stat. 687; amended Pub. L.104–168, title XII, §1201(a)(10), July 30, 1996, 110 Stat. 1470.)
+(Added Pub. L. 98–369, div. A, title I, §148(a), July 18, 1984, 98 Stat. 687; amended Pub. L. 104–168, title XII, §1201(a)(10), July 30, 1996, 110 Stat. 1470.)
 
 #### Amendments
 

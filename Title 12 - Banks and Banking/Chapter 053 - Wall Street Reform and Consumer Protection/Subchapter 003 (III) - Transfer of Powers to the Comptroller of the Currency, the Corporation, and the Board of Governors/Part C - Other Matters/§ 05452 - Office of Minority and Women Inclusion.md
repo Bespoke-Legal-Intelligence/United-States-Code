@@ -14,7 +14,7 @@
 
 #### (2) Transfer of responsibilities
 
-&emsp;Each agency that, on the day before July 21, 2010, assigned the responsibilities described in paragraph (1) (or comparable responsibilities) to another office of the agency shall ensure that such responsibilities are transferred to the Office.
+&emsp;Each agency that, on the day before July 21, 2010, assigned the responsibilities described inparagraph (1) (or comparable responsibilities) to another office of the agency shall ensure that such responsibilities are transferred to the Office.
 
 #### (3) Duties with respect to civil rights laws
 
@@ -161,4 +161,8 @@ For purposes of this section, the following definitions shall apply:
 #### References in Text
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (g)(3), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+
+#### Effective Date
+
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 

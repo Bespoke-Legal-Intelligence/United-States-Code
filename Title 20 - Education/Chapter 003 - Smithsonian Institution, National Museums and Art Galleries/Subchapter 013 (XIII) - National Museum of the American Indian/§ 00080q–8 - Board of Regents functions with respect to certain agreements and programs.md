@@ -18,7 +18,7 @@ The Board of Regents may establish—
 
 &emsp;(1) programs to serve Indian tribes and communities; and
 
-&emsp;(2) in cooperation with educational institutions, including tribally controlled colleges oruniversities (as defined in section 1801(a) of title 25), programs to enhance the opportunities for Indians in the areas of museum studies, management, and research.
+&emsp;(2) in cooperation with educational institutions, including tribally controlled colleges or universities (as defined in section 1801(a) of title 25), programs to enhance the opportunities for Indians in the areas of museum studies, management, and research.
 
 #### (c) Indian Museum Management Fellowships
 
@@ -26,9 +26,9 @@ The Board of Regents shall establish an Indian Museum Management Fellowship prog
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated $2,000,000 for each fiscal year, beginning with fiscal year 1991, to carry out subsections (b) and (c) of this section.
+There is authorized to be appropriated $2,000,000 for each fiscal year, beginning with fiscal year 1991, to carry out subsections (b) and (c).
 
-(Pub. L. 101–185, §10, Nov. 28, 1989, 103 Stat. 1342; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(B), Aug. 14, 2008, 122 Stat. 3465.)
+(Pub. L. 101–185, §10, Nov. 28, 1989, 103 Stat. 1342; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(B), Aug. 14, 2008, 122 Stat. 3465.)
 
 #### Amendments
 

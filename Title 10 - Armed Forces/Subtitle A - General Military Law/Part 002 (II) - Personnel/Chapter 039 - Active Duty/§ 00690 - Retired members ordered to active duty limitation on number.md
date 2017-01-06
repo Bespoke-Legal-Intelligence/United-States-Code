@@ -16,7 +16,7 @@ Limitation by Service.—(1) Not more than 25 officers of any one armed force ma
 
 &emsp;(C) Any officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
 
-&emsp;(D) Any member of the Retiree Council of the Army, Navy, or Air Force for the period on active duty to attend the annual meeting of the Retiree Council.
+&emsp;(D) Any member of the Retiree Council of the Army, Navy, or Air Force for the period onactive duty to attend the annual meeting of the Retiree Council.
 
 &emsp;(E) An officer who is assigned to duty as a defense attaché or service attaché for the period of active duty to which ordered.
 

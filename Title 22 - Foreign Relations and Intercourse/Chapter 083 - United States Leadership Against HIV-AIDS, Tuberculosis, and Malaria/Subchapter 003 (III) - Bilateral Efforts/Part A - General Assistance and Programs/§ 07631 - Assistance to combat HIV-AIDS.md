@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out section 104A of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–2\].
+&emsp;In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of thefiscal years 2009 through 2013 to carry out section 104A of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–2\].
 
 #### (2) Availability of funds
 
@@ -72,7 +72,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 &emsp;&emsp;(B) According to the United Nations World Food Program and other United Nations agencies, food insecurity of individuals infected or living with HIV/AIDS is a major problem in countries with large populations of such individuals, particularly in African countries.
 
-&emsp;&emsp;(C) Although the United States is willing to provide food assistance to these countries in need, a few of the countries object to part or all of the assistance because of fears of benign genetic modifications to the foods.
+&emsp;&emsp;(C) Although the United States is willing to provide food assistance to these countriesin need, a few of the countries object to part or all of the assistance because of fears of benign genetic modifications to the foods.
 
 &emsp;&emsp;(D) Healthy and nutritious foods for individuals infected or living with HIV/AIDS are an important complement to HIV/AIDS medicines for such individuals.
 

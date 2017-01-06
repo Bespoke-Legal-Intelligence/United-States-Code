@@ -26,5 +26,5 @@ For purposes of this section—
 
 &emsp;The rules of subsections (a)(2) and (b) of section 1397D shall apply for purposes of this section.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-598.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–598.)
 

@@ -24,5 +24,5 @@ In managing the resources subject to the provisions of this chapter, States are 
 
 #### Codification
 
-In subsec. (b), "chapter 3029 of title 54" substituted for "title I of the National Historic Preservation Act" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (b), "chapter 3029 of title 54" substituted for "title I of the National Historic Preservation Act"on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 

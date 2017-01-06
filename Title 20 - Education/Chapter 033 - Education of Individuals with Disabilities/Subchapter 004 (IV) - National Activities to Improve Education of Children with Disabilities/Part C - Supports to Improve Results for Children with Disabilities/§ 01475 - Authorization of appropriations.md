@@ -18,5 +18,5 @@ Section 1478, Pub. L. 91–230, title VI, §678, as added Pub. L. 99–457, titl
 
 Section 1479, Pub. L. 91–230, title VI, §679, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1151; amended Pub. L. 100–630, title I, §108(h), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(178), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§16, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to permissible uses of funds.
 
-Section 1480, Pub. L. 91–230, title VI, §680, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, §108(i), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(179), (180),Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§17, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to procedural safeguards.
+Section 1480, Pub. L. 91–230, title VI, §680, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, §108(i), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(179), (180), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§17, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to procedural safeguards.
 

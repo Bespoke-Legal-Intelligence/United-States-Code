@@ -1,0 +1,6 @@
+### §980. Omitted
+
+#### Codification
+
+Section, Pub. L. 87–629, §10, Sept. 5, 1962, 76 Stat. 431, which related to termination of Federal trust relationship of the United States to the tribe and its members, was omitted from the Code as being of special and not general application.
+

@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The Secretary of Health and Human Services acting through the National Center for Injury Prevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
+The Secretary of Health and Human Services acting through the National Center for InjuryPrevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
 
 #### (b) Use of funds
 

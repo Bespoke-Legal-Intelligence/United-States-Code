@@ -22,7 +22,7 @@ If the President determines with respect to a special safeguard agricultural goo
 
 &emsp;(2) the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
 
-> the President shall, consistent with Article 5 as determined by the President, determine the amount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
+> the President shall, consistent with Article 5 as determined by the President, determine theamount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
 
 #### (c) Imposition of safeguard
 

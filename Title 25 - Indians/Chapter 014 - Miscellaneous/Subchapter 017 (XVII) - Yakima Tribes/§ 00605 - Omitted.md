@@ -1,0 +1,6 @@
+### §605. Omitted
+
+#### Codification
+
+Section, act Aug. 9, 1946, ch. 933, §5, 60 Stat. 969, which related to expulsion of members, was omitted from the Code as being of special and not general application.
+

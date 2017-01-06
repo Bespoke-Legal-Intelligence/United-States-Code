@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(5) The term "failing newspaper" means a newspaper publication which, regardless of its ownership or affiliations, is in probable danger of financial failure.
 
-&emsp;(6) The term "person" means any individual, and any partnership, corporation, association, or other legal entity existing under or authorized by the law of the United States, any State or possession of the United States, the Districtof Columbia, the Commonwealth of Puerto Rico, or any foreign country.
+&emsp;(6) The term "person" means any individual, and any partnership, corporation, association, or other legal entity existing under or authorized by the law of the United States, any State or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any foreign country.
 
 (Pub. L. 91–353, §3, July 24, 1970, 84 Stat. 466.)
 

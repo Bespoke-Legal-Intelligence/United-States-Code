@@ -20,7 +20,7 @@
 
 &emsp;(A) on the thirtieth day after the date of the notice given to the applicant, licensee, or permittee under paragraph (3)(A) unless before such day the applicant, licensee, or permittee requests a review of the proposed denial, suspension, modification, or revocation; or
 
-&emsp;(B) on the last day of the period established under paragraph (3)(B) in which the applicant,licensee, or permittee must correct a deficiency, if such correction has not been made before such day.
+&emsp;(B) on the last day of the period established under paragraph (3)(B) in which the applicant, licensee, or permittee must correct a deficiency, if such correction has not been made before such day.
 
 #### (b) Administrative review of proposed denial, suspension, modification, or revocation
 

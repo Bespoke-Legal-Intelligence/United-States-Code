@@ -44,7 +44,7 @@
 
 (E) The label statements shall be enclosed by a rectangular border that is the same color as the letters of the statements and that is the width of the first downstroke of the capital "W" of the word "WARNING" in the label statements.
 
-(F) The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point type for a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement.
+(F) The text of such label statements shall be in a typeface pro rata to the following requirements: 45-point type for a whole-page broadsheet newspaper advertisement; 39-point type for a half-page broadsheet newspaper advertisement; 39-point type for a whole-page tabloid newspaper advertisement; 27-point type for a half-page tabloid newspaper advertisement; 31.5-point typefor a double page spread magazine or whole-page magazine advertisement; 22.5-point type for a 28 centimeter by 3 column advertisement; and 15-point type for a 20 centimeter by 2 column advertisement.
 
 (G) The label statements shall be in English, except that—
 

@@ -2,7 +2,7 @@
 
 #### (a) Fisheries disaster relief
 
-(1) At the discretion of the Secretary or at the request of the Governor of an affected State ora fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
+(1) At the discretion of the Secretary or at the request of the Governor of an affected State or a fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
 
 &emsp;(A) natural causes;
 
@@ -186,7 +186,7 @@ Pub. L. 109–479, title I, §112(b), Jan. 12, 2007, 120 Stat. 3601, provided th
 
 #### Study of Federal Investment in Fisheries
 
-Pub. L. 104–297, title I, §116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "The Secretary of Commerce shall establish a task force comprised of interested parties to study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives within 2 years of the date of enactment of this Act \[Oct. 11, 1996\] on the role of the Federal Government in—
+Pub. L. 104–297, title I, §116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "The Secretary of Commerce shall establish a task force comprised of interested parties to study and report to the Committee on Commerce, Science, and Transportation of the Senate andthe Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives within 2 years of the date of enactment of this Act \[Oct. 11, 1996\] on the role of the Federal Government in—
 
 &emsp;"(1) subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); and
 

@@ -1,6 +1,6 @@
 ### §1704c. Payments by Secretary of Defense in liquidation of amount due for foreign currencies
 
-The Secretary of Defense shall pay to the Commodity Credit Corporation an amount not to exceed $6,000,000 per year until the amount due for foreign currencies used for housing constructed or acquired under title II of the Food for Peace Act (7 U.S.C. 1721–1726) has been liquidated.
+The Secretary of Defense shall pay to the Commodity Credit Corporation an amount notto exceed $6,000,000 per year until the amount due for foreign currencies used for housing constructed or acquired under title II of the Food for Peace Act (7 U.S.C. 1721–1726) has been liquidated.
 
 (Pub. L. 97–214, §9(a), July 12, 1982, 96 Stat. 174; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(C), June 18, 2008, 122 Stat. 1820.)
 
@@ -10,7 +10,9 @@ The Food for Peace Act (7 U.S.C. 1721–1726), referred to in text, is act July 
 
 #### Codification
 
-Section consists of section 9(a) of Pub. L. 97–214. Section 9(b) of Pub. L. 97–214 is classified as a note set out under section 1594k of Title 42, The Public Health and Welfare. Section was enacted as part of the Military Construction Codification Act, and not as part of the Food for Peace Act which comprises this chapter.
+Section consists of section 9(a) of Pub. L. 97–214. Section 9(b) of Pub. L. 97–214 is classified as a note set out under section 1594k of Title 42, The Public Health and Welfare.
+
+Section was enacted as part of the Military Construction Codification Act, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
 

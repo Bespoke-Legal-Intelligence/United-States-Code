@@ -14,7 +14,7 @@ The Secretary shall establish and maintain within the Department the Rural Utili
 
 #### (c) Functions
 
-The Secretary shall carry out through the Rural Utilities Service the following functions that are under the jurisdiction of the Department:
+The Secretary shall carry out through the Rural Utilities Service the following functionsthat are under the jurisdiction of the Department:
 
 &emsp;(1) Electric and telephone loan programs and water and waste facility activities authorized by law, including—
 

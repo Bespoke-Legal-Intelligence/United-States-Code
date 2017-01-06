@@ -30,7 +30,7 @@ The Commission may provide technical and preservation assistance to owners of pr
 
 #### (h) Obtaining property
 
-(1) The Commission may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carryout its duties except that the Commission may not acquire any real property or interest in real property otherwise than under paragraph (2).
+(1) The Commission may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carry out its duties except that the Commission may not acquire any real property or interest in real property otherwise than under paragraph (2).
 
 (2) Subject to paragraph (3), the Commission may acquire real property, or interests in real property, in the districts, sites, and properties referred to in section 410ww–22(a) of this title—
 

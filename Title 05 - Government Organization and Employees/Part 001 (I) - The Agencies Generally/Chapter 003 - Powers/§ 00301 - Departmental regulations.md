@@ -1,6 +1,6 @@
 ### §301. Departmental regulations
 
-The head of an Executive department or military department may prescribe regulations forthe government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
+The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379.)
 
@@ -406,7 +406,7 @@ State certification.—
 
 &emsp;&emsp;"(A)
 
-In general.—Each State shall certify to the Secretary of Health and Human Services that theState is in compliance with the requirements of this section.
+In general.—Each State shall certify to the Secretary of Health and Human Services that the State is in compliance with the requirements of this section.
 
 &emsp;&emsp;"(B)
 
@@ -498,7 +498,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Improvements in Identification-Related Documents
 
-Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by Pub. L. 108–458, title VII, §7211(e), Dec. 17, 2004, 118 Stat. 3827.
+Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed byPub. L. 108–458, title VII, §7211(e), Dec. 17, 2004, 118 Stat. 3827.
 
 #### Modification or Cancellation of Certain License Agreements Granted to Government During World War II
 

@@ -1,6 +1,6 @@
 ### §92. Secretary; general powers
 
-For the purpose of executing the duties and functions of the Coast Guard the Secretary maywithin the limits of appropriations made therefor:
+For the purpose of executing the duties and functions of the Coast Guard the Secretary may within the limits of appropriations made therefor:
 
 &emsp;(a) establish, change the limits of, consolidate, discontinue, and re-establish Coast Guard districts;
 
@@ -32,7 +32,7 @@ Subsection (b) is based on title 14, U.S.C., 1946 ed., §§28, 42 (Aug. 16, 1916
 
 Subsection (c) is based on R.S. 4242 and on title 14, U.S.C., 1946 ed., §§29, 93, 94, 98a (R.S. 4245, 4249; May 4, 1882, ch. 117, §2, 22 Stat. 56; Aug. 29, 1916, ch. 417, 39 Stat. 601; June 6, 1940, ch. 257, §4, 54 Stat. 247; Aug. 6, 1947, ch. 502, 61 Stat. 786). This subsection broadens existing law in that it provides general legislative authority for the construction and disposal of shore establishments of all types including aviation stations.
 
-Subsection (d) is based in part on title 14, U.S.C., 1946 ed., §§55, 57, 69, 109, and in part on title 31, U.S.C., 1946 ed., §§487, 720, (R.S. 2748, 3618, 3692; June 18, 1878, ch. 265, §3, 20 Stat. 163; Aug. 29, 1916, ch. 417, 39 Stat. 601). This subsection broadens existing law in that it provides general legislative authority for the design, construction, acquisition by other means, and disposal of vessels.
+Subsection (d) is based in part on title 14, U.S.C., 1946 ed., §§55, 57, 69, 109, and in part on title 31, U.S.C., 1946 ed., §§487, 720, (R.S. 2748, 3618, 3692; June 18, 1878, ch. 265, §3, 20 Stat. 163; Aug. 29, 1916, ch. 417, 39 Stat. 601). Thissubsection broadens existing law in that it provides general legislative authority for the design, construction, acquisition by other means, and disposal of vessels.
 
 Subsection (e) is new. It is derived from title 14, U.S.C., 1946 ed., §31b (June 6, 1941, ch. 177, 55 Stat. 247 \[which was originally repealed by act June 30, 1949, ch. 288, title VI, §602(a)(28), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583\]) which provides for the exchange of vehicles, planes, and engines; similar authority in relation to vessels, is granted to the Secretary by this subsection and should prove advantageous to the Government.
 
@@ -64,7 +64,7 @@ Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered th
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Arctic Marine Shipping Assessment Implementation
 
@@ -208,7 +208,7 @@ In general.—Subject to paragraph (2) of this subsection, the Secretary may aut
 
 &emsp;"(2)
 
-Authorized pay.—(A) Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
+Authorized pay.—(A) Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and anadditional amount of not more than the difference between—
 
 &emsp;&emsp;"(i) the amount the individual would be paid as pay and allowance if they were considered to have been ordered to active duty during that period of employment; and
 

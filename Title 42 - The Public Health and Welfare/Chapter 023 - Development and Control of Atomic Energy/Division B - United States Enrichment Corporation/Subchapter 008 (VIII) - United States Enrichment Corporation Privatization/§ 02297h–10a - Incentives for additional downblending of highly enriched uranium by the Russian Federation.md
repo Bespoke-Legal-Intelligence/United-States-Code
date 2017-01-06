@@ -102,7 +102,7 @@ It is the policy of the United States to support the continued downblending of h
 
 &emsp;&emsp;&emsp;&emsp;(I) the failure of the completion of the Russian HEU Agreement arises from causes beyond the control and without the fault or negligence of the Government of the Russian Federation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Government of the Russian Federation has made reasonable effortsto avoid and mitigate the effects of the failure of the completion of the Russian HEU Agreement; and
+&emsp;&emsp;&emsp;&emsp;(II) the Government of the Russian Federation has made reasonable efforts to avoid and mitigate the effects of the failure of the completion of the Russian HEU Agreement; and
 
 &emsp;&emsp;&emsp;(ii) the Secretary of Energy and the Secretary of State jointly notify Congress of, and publish in the Federal Register, the determination under clause (i) and the reasons for the determination.
 
@@ -144,7 +144,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (B) Adjustment for other uranium
 
-&emsp;&emsp;Imports of low-enriched uranium under paragraphs (1) and (2), including low-enriched uranium obtained under contracts for separative work units, shall count against the import limitations described in such paragraphs in amounts calculated as the quantity of low-enriched uranium containing 4.4 percent uranium-235 necessary to equal the total amount of uranium-235 contained in such imports.
+&emsp;&emsp;Imports of low-enriched uranium under paragraphs (1) and (2), including low-enriched uranium obtained under contracts for separative work units, shall count against the import limitations described in suchparagraphs in amounts calculated as the quantity of low-enriched uranium containing 4.4 percent uranium-235 necessary to equal the total amount of uranium-235 contained in such imports.
 
 #### (8) Downblending of other highly enriched uranium
 
@@ -164,7 +164,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content ofthe highly enriched uranium downblended for purposes of paragraphs (2)(B) and (8).
+&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(B) and (8).
 
 #### (B) Methods of verification
 

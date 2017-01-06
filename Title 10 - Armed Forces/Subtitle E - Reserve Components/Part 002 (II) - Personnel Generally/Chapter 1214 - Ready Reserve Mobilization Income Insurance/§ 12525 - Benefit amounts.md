@@ -10,7 +10,7 @@ Reduced and Enhanced Benefits.—Under the regulations prescribed by the Secreta
 
 &emsp;(1) a reduced coverage benefit equal to one-half the amount of the basic benefit; or
 
-&emsp;(2) an enhanced benefit in the amount of $1,500, $2,000, $2,500, $3,000, $3,500, $4,000, $4,500, or $5,000 per month (as adjusted under subsection (d)).
+&emsp;(2) an enhanced benefit in the amount of $1,500, $2,000, $2,500, $3,000, $3,500, $4,000, $4,500,or $5,000 per month (as adjusted under subsection (d)).
 
 (c)
 

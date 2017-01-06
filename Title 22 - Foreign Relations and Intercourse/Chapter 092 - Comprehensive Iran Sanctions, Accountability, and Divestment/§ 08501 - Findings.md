@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) Iran's ongoing clandestine nuclear program, as evidenced by its work on the secret uranium enrichment facility at Qom, its subsequent refusal to cooperate fully with inspectors from the International Atomic Energy Agency, and its announcement that it would build 10 new uranium enrichment facilities.
 
-&emsp;&emsp;(C) Iran's official notification to the International Atomic Energy Agency that it would enrich uranium to the 20 percent level, followed soon thereafter by its providing to that Agency a laboratory result showing that Iran had indeed enriched some uranium to 19.8 percent.
+&emsp;&emsp;(C) Iran's official notification to the International Atomic Energy Agency that itwould enrich uranium to the 20 percent level, followed soon thereafter by its providing to that Agency a laboratory result showing that Iran had indeed enriched some uranium to 19.8 percent.
 
 &emsp;&emsp;(D) A February 18, 2010, report by the International Atomic Energy Agency expressing "concerns about the possible existence in Iran of past or current undisclosed activities related to the development of a nuclear payload for a missile. These alleged activities consist of a number of projects and sub-projects, covering nuclear and missile related aspects, run by military-related organizations.".
 
@@ -62,7 +62,7 @@ Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, pro
 
 Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Attorney General\[,\] the Secretary of Commerce\[,\] United States Trade Representative\[,\] Chairman of the Board of Governors of the Federal Reserve System\[, and\] President of the Export-Import Bank of the United States
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
 
 I hereby delegate to the Secretary of State the functions vested in the President by sections 4(c), 5(a), 5(b), 5(c), 5(f), 6(a)(1), 6(a)(2), 6(b)(5), and 9(c) of the Iran Sanctions Act of 1996, as amended (Public Law 104–172, 50 U.S.C. 1701 note, as amended most recently by the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (CISADA) (Public Law 111–195)) (the "Iran Sanctions Act"), such functions to be exercised in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the President of the Export-Import Bank and the Chairman of the Board of the Federal Reserve System and other agencies as appropriate.
 

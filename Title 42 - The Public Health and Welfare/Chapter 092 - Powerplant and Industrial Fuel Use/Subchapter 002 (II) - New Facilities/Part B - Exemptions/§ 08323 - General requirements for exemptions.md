@@ -26,7 +26,7 @@ If the appropriate State regulatory authority has not approved a powerplant for 
 
 Subsec. (b). Pub. L. 100–42, §1(c)(7)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If the appropriate State regulatory authority has not approved a powerplant for which a petition has been filed, such exemption—
 
-&emsp;"(1) to the extent it applies to the prohibition under section 8311(2) of this title against construction without the capability of using coal or another alternate fuel, shall not take effect until all approvals required by such State regulatory authority which relate to construction have been obtained; and
+&emsp;"(1) to the extent it applies to the prohibition under section 8311(2) of this title against constructionwithout the capability of using coal or another alternate fuel, shall not take effect until all approvals required by such State regulatory authority which relate to construction have been obtained; and
 
 &emsp;"(2) to the extent it applies to the prohibition under section 8311(1) of this title against the use of natural gas or petroleum as a primary energy source, shall not take effect until all approvals required by such State regulatory authority which relate to construction or operation have been obtained."
 

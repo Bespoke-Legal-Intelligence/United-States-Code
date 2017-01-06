@@ -28,7 +28,7 @@
 
 #### (3) Recipients of grants, etc.
 
-&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph\(1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
+&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph (1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
 
 &emsp;&emsp;(A) Generators of hazardous wastes.
 
@@ -134,7 +134,7 @@
 
 #### (6) Field demonstrations
 
-&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated at least 10 field demonstration projects of alternative or innovative treatment technologies at sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
+&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated atleast 10 field demonstration projects of alternative or innovative treatment technologies at sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
 
 #### (7) Criteria
 
@@ -234,7 +234,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 #### (e) Report to Congress
 
-At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a) of this section, a report on the progress of the research, development, and demonstration program authorized by subsection (b) of this section, including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
+At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a), a report on the progress of the research, development, and demonstration program authorized by subsection (b), including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
 
 #### (f) Saving provision
 
@@ -242,7 +242,7 @@ Nothing in this section shall be construed to affect the provisions of the Solid
 
 #### (g) Small business participation
 
-The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b) of this section.
+The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b).
 
 (Pub. L. 96–510, title III, §311, as added Pub. L. 99–499, title II, §209(b), Oct. 17, 1986, 100 Stat. 1708; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -362,7 +362,7 @@ Environmental Protection Agency.—There are authorized to be appropriated to th
 
 "(b)
 
-National Institute of Standards and Technology.—There are authorized to be appropriated tothe National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008."
+National Institute of Standards and Technology.—There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008."
 
 #### Gulf Coast Hazardous Substance Research, Development, and Demonstration Center
 
@@ -442,5 +442,5 @@ Pub. L. 99–499, title II, §209(a), Oct. 17, 1986, 100 Stat. 1708, provided th
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -76,7 +76,7 @@ For purposes of this part:
 
 #### (6) Federal mandate
 
-&emsp;The term "Federal mandate" means a Federal intergovernmental mandate or a Federalprivate sector mandate, as defined in paragraphs (5) and (7).
+&emsp;The term "Federal mandate" means a Federal intergovernmental mandate or a Federal private sector mandate, as defined in paragraphs (5) and (7).
 
 #### (7) Federal private sector mandate
 
@@ -112,7 +112,7 @@ For purposes of this part:
 
 #### (13) Tribal government
 
-&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
+&emsp;The term "tribal government" means any Indian tribe, band, nation, or other organizedgroup or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
 (Pub. L. 93–344, title IV, §421, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 50; amended Pub. L. 113–67, div. A, title I, §122(14), Dec. 26, 2013, 127 Stat. 1176.)
 
@@ -126,5 +126,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92
 
 #### Effective Date
 
-Part effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) The Director of the Office of Management and Budget, after consultation with the head of each agency, shall designate not less than ten agencies as pilot projects in performance measurement for fiscal years 1994, 1995, and 1996. The selected agencies shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
 
-(b) Pilot projects in the designated agencies shall undertake the preparation of performanceplans under section 1115, and program performance reports under section 1116, other than section 1116(c), for one or more of the major functions and operations of the agency. A strategic plan shall be used when preparing agency performance plans during one or more years of the pilot period.
+(b) Pilot projects in the designated agencies shall undertake the preparation of performance plans under section 1115, and program performance reports under section 1116, other than section 1116(c), for one or more of the major functions and operations of the agency. A strategic plan shall be used when preparing agency performance plans during one or more years of the pilot period.
 
 (c) No later than May 1, 1997, the Director of the Office of Management and Budget shall submit a report to the President and to the Congress which shall—
 
@@ -20,5 +20,5 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c)(1
 
 #### Construction
 
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to fileany civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 

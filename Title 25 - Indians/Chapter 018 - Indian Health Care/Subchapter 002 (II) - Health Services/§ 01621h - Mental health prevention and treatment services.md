@@ -24,7 +24,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(2) make an assessment of the existing Federal, tribal, State, local, and private services, resources, and programs available to provide mental health services for Indians;
 
-&emsp;(3) make an initial determination of the unmet need for additional services, resources,and programs necessary to meet the needs identified pursuant to paragraph (1);
+&emsp;(3) make an initial determination of the unmet need for additional services, resources, and programs necessary to meet the needs identified pursuant to paragraph (1);
 
 &emsp;(4)(A) ensure that Indians, as citizens of the United States and of the States in which they reside, have access to mental health services to which all citizens have access;
 
@@ -36,7 +36,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(6) provide a strategy for the comprehensive coordination of the mental health services provided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
 
-&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
+&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, theBureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
 
 &emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
 
@@ -82,7 +82,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
+&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
 
 #### (B) Position specific training criteria
 
@@ -94,7 +94,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (5) Plan
 
-&emsp;Not later than 90 days after March 23, 2010, the Secretary shall develop a plan under which the Service will increase the health care staff providing behavioral health services by at least 500 positions within 5 years after March 23, 2010, with at least 200 of such positions devoted to child, adolescent, and family services. The plan developed under this paragraph shall be implemented under section 13 of this title.
+&emsp;Not later than 90 days after March 23, 2010, the Secretary shall develop a plan under whichthe Service will increase the health care staff providing behavioral health services by at least 500 positions within 5 years after March 23, 2010, with at least 200 of such positions devoted to child, adolescent, and family services. The plan developed under this paragraph shall be implemented under section 13 of this title.
 
 #### (e) Staffing
 
@@ -146,7 +146,7 @@ Within one year after November 28, 1990, the Secretary, acting through the Servi
 
 #### (j) Annual report
 
-The Service shall develop methods for analyzing and evaluating the overall status of mental health programs and services for Indians and shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report on the mental health status of Indians whichshall describe the progress being made to address mental health problems of Indian communities.
+The Service shall develop methods for analyzing and evaluating the overall status of mental health programs and services for Indians and shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report on the mental health status of Indians which shall describe the progress being made to address mental health problems of Indian communities.
 
 #### (k) Mental health demonstration grant program
 
@@ -166,7 +166,7 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 &emsp;(F) The project is coordinated with, and avoids duplication of, existing services.
 
-(3) For purposes of this subsection, the Secretary shall, in evaluating applications for grants for projects to be operated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating any other application for such a grant.
+(3) For purposes of this subsection, the Secretary shall, in evaluating applications for grants for projects to be operated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\], use the same criteria that the Secretary uses in evaluating any other application for such a grant.
 
 (4) The Secretary may only award one grant under this subsection with respect to a service area until the Secretary has awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria specified in paragraph (2).
 
@@ -176,7 +176,7 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 #### (l) Licensing requirement for mental health care workers
 
-Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] shall—
+Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\] shall—
 
 &emsp;(1) in the case of a person employed as a psychologist, be licensed as a clinical psychologist or working under the direct supervision of a licensed clinical psychologist;
 
@@ -220,9 +220,9 @@ The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, ref
 
 This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
@@ -273,4 +273,6 @@ Pub. L. 101–630, title V, §503(a), Nov. 28, 1990, 104 Stat. 4556, provided th
 &emsp;"(5) ensure that Indians, as citizens of the United States and of the States in which they reside, have the same access to mental health services to which all such citizens have access; and
 
 &emsp;"(6) modify or supplement existing programs and authorities in the areas identified in paragraph (2)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

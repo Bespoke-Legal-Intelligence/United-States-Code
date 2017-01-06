@@ -26,7 +26,7 @@
 
 &emsp;thence southeasterly paralleling the general alinement of United States Route 6 and generally distant two-tenths of a mile northeasterly thereof to a point 300 feet south of the southerly right-of-way line of Higgins Hollow Road;
 
-&emsp;thence in a general easterly direction paralleling the southerly alinement of HigginsHollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile east of the easterly right-of-way line of said Route 6;
+&emsp;thence in a general easterly direction paralleling the southerly alinement of Higgins Hollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile east of the easterly right-of-way line of said Route 6;
 
 &emsp;thence turning and running in a southeasterly and southerly direction paralleling the general alinement of United States Route 6 and distant five-tenths of a mile easterly therefrom to a point 300 feet north of the northerly right-of-way line of North Pamet Road;
 
@@ -68,7 +68,7 @@
 
 &emsp;thence in a general southerly direction along the said easterly right-of-way line of a power transmission line to the Eastham-Wellfleet town line;
 
-&emsp;thence southeasterly for a distance of approximately 5,200 feet to a point due north of the intersection of the easterly right-of-way line of Nauset Road with the northerly right-of-way line of Cable Road;
+&emsp;thence southeasterly for a distance of approximately 5,200 feet to a point due north ofthe intersection of the easterly right-of-way line of Nauset Road with the northerly right-of-way line of Cable Road;
 
 &emsp;thence due south to the intersection of the said easterly right-of-way line of Nauset Road and the said northerly right-of-way line of Cable Road;
 
